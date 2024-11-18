@@ -1,3 +1,21 @@
+ ## (no title)
+ - [https://jeffmitchelldev.com](https://jeffmitchelldev.com)
+ - date_published: 2024-05-07T15:16:32.069090+00:00
+
+ ## Jeff Morhous –
+ - [https://jeffmorhous.com](https://jeffmorhous.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Jeff Nobbs
+ - [https://jeffnobbs.com](https://jeffnobbs.com)
+ - date_published: 2023-10-25T08:46:33.428500+00:00
+ - tags: ['personal']
+
+ ## Home - Jeff Parker Cooks
+ - [https://jeffparkercooks.com](https://jeffparkercooks.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+ - tags: ['personal']
+
  ## Jeff Pinette Photography
  - [https://client.jeffpinette.com](https://client.jeffpinette.com)
  - date_published: 2024-06-10T13:12:46.715962+00:00
@@ -4054,21 +4072,4 @@
  ## Studio – Words-Music-Images
  - [https://johnheartfield.com](https://johnheartfield.com)
  - date_published: 2024-05-14T02:44:48.327855+00:00
-
- ## Hepworth & Associates | Boise, ID | Northwestern Mutual Wealth Management Company
- - [http://www.john-hepworth.com](http://www.john-hepworth.com)
- - date_published: 2024-11-16T20:18:20.493754+00:00
-
- ## John Higgs – Author of Love And Let Die, William Blake Vs The World, Watling Street and The KLF
- - [https://johnhiggs.com](https://johnhiggs.com)
- - date_published: 2023-10-25T15:30:16.620693+00:00
-
- ## John Holdun
- - [https://johnholdun.com](https://johnholdun.com)
- - date_published: 2024-09-05T13:25:56.233050+00:00
- - tags: ['personal']
-
- ## John Hope Bryant Holdings - John Hope Bryant Holdings
- - [https://johnhopebryant.com](https://johnhopebryant.com)
- - date_published: 2024-08-27T00:00:00+00:00
 

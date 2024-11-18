@@ -29,6 +29,7 @@
  ## Homey - A Better Smart Home
  - [https://homey.app](https://homey.app)
  - date_published: 2024-04-29T04:04:01.939925+00:00
+ - tags: ['smart home']
 
  ## My Homey
  - [https://my.homey.app](https://my.homey.app)

@@ -1,3 +1,15 @@
+ ## Gig East
+ - [https://www.gigeast.com](https://www.gigeast.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## mirrors.gigenet.com
+ - [https://mirrors.gigenet.com](https://mirrors.gigenet.com)
+ - date_published: 2024-07-13T17:34:54.438534+00:00
+
+ ## Giggles of Amesbury | Toys For All Your Little Ones
+ - [https://www.gigglesofamesbury.com](https://www.gigglesofamesbury.com)
+ - date_published: 2024-10-16T20:27:52.512732+00:00
+
  ## Giggling Squid - Thai food with personality
  - [https://www.gigglingsquid.com](https://www.gigglingsquid.com)
  - date_published: 2024-10-20T15:15:16.485214+00:00
@@ -2140,6 +2152,10 @@
  - [http://glass2grass.com](http://glass2grass.com)
  - date_published: 2024-04-24T00:00:00+00:00
 
+ ## Glass Almanac | Your Portal to the Future of Tech and Entertainment
+ - [https://glassalmanac.com](https://glassalmanac.com)
+ - date_published: 2024-11-17T21:41:54+00:00
+
  ## Front Page - Glass Angel - The Comic
  - [https://glassangelcomic.com](https://glassangelcomic.com)
  - date_published: 2020-04-06T20:10:47+00:00
@@ -4060,20 +4076,4 @@
  ## Innovation & Advanced Propulsion Technologies | GM Powertrain
  - [https://poweredsolutions.gm.com](https://poweredsolutions.gm.com)
  - date_published: 2024-05-04T08:16:34.697265+00:00
-
- ## General Motors Pressroom
- - [https://pressroom.gm.com](https://pressroom.gm.com)
- - date_published: 2024-05-04T08:16:14.894603+00:00
-
- ## Better is only the beginning
- - [https://search-careers.gm.com](https://search-careers.gm.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## AHAVA
- - [https://gma-ahava.com](https://gma-ahava.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Daniela Swaebe
- - [https://gma-danielaswaebe.com](https://gma-danielaswaebe.com)
- - date_published: 2024-05-04T00:00:00+00:00
 

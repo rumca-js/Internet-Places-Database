@@ -1,3 +1,15 @@
+ ## DefensiveComputingChecklist.com Table of Contents
+ - [https://defensivecomputingchecklist.com](https://defensivecomputingchecklist.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Definitive Healthcare
+ - [https://www.defhc.com](https://www.defhc.com)
+ - date_published: 2024-10-10T17:36:48+00:00
+
+ ## Defiant America – Home Page
+ - [https://defiantamerica.com](https://defiantamerica.com)
+ - date_published: 2023-10-25T13:48:23.084019+00:00
+
  ## Defiant Development
  - [http://defiantdev.com](http://defiantdev.com)
  - date_published: 2024-06-24T05:27:41+00:00
@@ -4017,16 +4029,4 @@
  ## DevRel blog: news and opinion about developer relations
  - [https://developerrelations.com](https://developerrelations.com)
  - date_published: 2024-02-07T00:00:00+00:00
-
- ## Developer Report
- - [https://www.developerreport.com](https://www.developerreport.com)
- - date_published: 2024-09-25T12:21:21.691952+00:00
-
- ## Dreamweaver Extensions
- - [http://components.developers4web.com](http://components.developers4web.com)
- - date_published: 2024-07-11T21:49:01.901618+00:00
-
- ## Web Stats Service
- - [https://stats-service.developers4web.com](https://stats-service.developers4web.com)
- - date_published: 2024-05-10T03:49:22.436328+00:00
 

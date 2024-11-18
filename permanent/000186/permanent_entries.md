@@ -1,3 +1,24 @@
+ ## Homepage
+ - [https://singlegrain.com](https://singlegrain.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## One Digital Key
+for Many Brands - SingleKey ID
+ - [https://singlekey-id.com](https://singlekey-id.com)
+ - date_published: 2024-10-14T18:52:10.990561+00:00
+
+ ## Introduction
+ - [http://singlepageappbook.com](http://singlepageappbook.com)
+ - date_published: 2016-01-24T19:10:27+00:00
+
+ ## SingleParentMeet.com - Online Dating Network for Single Parents
+ - [http://www.singleparentmeet.com](http://www.singleparentmeet.com)
+ - date_published: 2024-09-04T11:50:32.302700+00:00
+
+ ## Singles in America | Home
+ - [https://www.singlesinamerica.com](https://www.singlesinamerica.com)
+ - date_published: 2024-09-04T11:50:43+00:00
+
  ## Singlespot
  - [https://dashboard.singlespot.com](https://dashboard.singlespot.com)
  - date_published: 2024-06-25T21:16:42.056231+00:00
@@ -4016,24 +4037,4 @@
  ## Slack
  - [https://puppetcommunity.slack.com](https://puppetcommunity.slack.com)
  - date_published: 2024-09-09T00:00:00+00:00
-
- ## Slack
- - [https://px4.slack.com](https://px4.slack.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Slack
- - [https://pythonwebconf.slack.com](https://pythonwebconf.slack.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Slack
- - [https://quicdev.slack.com](https://quicdev.slack.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Slack
- - [https://racket.slack.com](https://racket.slack.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Slack
- - [https://rancher-users.slack.com](https://rancher-users.slack.com)
- - date_published: 2024-06-29T00:00:00+00:00
 

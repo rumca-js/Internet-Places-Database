@@ -1,3 +1,59 @@
+ ## Cancer Center at Illinois | At the Cancer Center at Illinois, we’re advancing knowledge in science, technology, and engineering to develop game-changing interventions.
+ - [https://cancer.illinois.edu](https://cancer.illinois.edu)
+ - date_published: 2024-07-07T05:29:21.598077+00:00
+
+ ## Sign in to your account
+ - [https://canvas.illinois.edu](https://canvas.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CAP Seminar | UIUC CS
+ - [https://capseminar.cs.illinois.edu](https://capseminar.cs.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## University of Illinois Urbana-Champaign | University of Illinois Urbana-Champaign
+ - [http://catalog.illinois.edu](http://catalog.illinois.edu)
+ - date_published: 2024-07-03T18:17:13+00:00
+
+ ## FrontPage | Counseling Center | UIUC
+ - [https://cc2023.web.illinois.edu](https://cc2023.web.illinois.edu)
+ - date_published: 2024-07-21T22:07:14.315442+00:00
+
+ ## Hosted Brand Assets | University of Illinois Urbana-Champaign
+ - [https://cdn.brand.illinois.edu](https://cdn.brand.illinois.edu)
+ - date_published: 2024-04-30T04:57:17.599308+00:00
+
+ ## Test Access
+ - [https://cdn.toolkit.illinois.edu](https://cdn.toolkit.illinois.edu)
+ - date_published: 2022-05-18T17:34:52+00:00
+
+ ## Home
+ - [https://cee.illinois.edu](https://cee.illinois.edu)
+ - date_published: 2024-07-10T03:50:56.359317+00:00
+
+ ## Office of the Chancellor | University of Illinois Urbana-Champaign
+ - [https://chancellor.illinois.edu](https://chancellor.illinois.edu)
+ - date_published: 2023-09-26T15:52:58+00:00
+
+ ## Charith Mendis
+ - [https://charithm.web.illinois.edu](https://charithm.web.illinois.edu)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Chandra Chekuri
+ - [https://chekuri.cs.illinois.edu](https://chekuri.cs.illinois.edu)
+ - date_published: 2024-08-08T18:27:31+00:00
+
+ ## Home - Chez Veterans Center
+ - [https://chezveteranscenter.ahs.illinois.edu](https://chezveteranscenter.ahs.illinois.edu)
+ - date_published: 2024-04-30T04:57:43.259140+00:00
+
+ ## The Graduate College at the University of Illinois at Urbana-Champaign
+ - [https://choose.illinois.edu](https://choose.illinois.edu)
+ - date_published: 2024-07-21T20:45:11+00:00
+
+ ## CITL
+ - [https://citl.illinois.edu](https://citl.illinois.edu)
+ - date_published: 2024-08-19T04:43:43.429705+00:00
+
  ## City Scholars
  - [https://cityscholars.engineering.illinois.edu](https://cityscholars.engineering.illinois.edu)
  - date_published: 2024-04-30T04:58:44.182490+00:00
@@ -3953,60 +4009,4 @@ Data Services
  ## GROK Knowledge Base
  - [http://grok.lsu.edu](http://grok.lsu.edu)
  - date_published: 2024-07-01T14:42:10.174092+00:00
-
- ## Highland Road Park Observatory
- - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
- - date_published: 2024-08-11T23:29:53.016186+00:00
-
- ## Home
- - [https://itservice.lsu.edu](https://itservice.lsu.edu)
- - date_published: 2024-05-07T19:30:45.434428+00:00
-
- ## Welcome to LSU, a top research university | Baton Rouge, La.
- - [https://lsu.edu](https://lsu.edu)
- - date_published: 2024-05-07T19:30:48.158325+00:00
-
- ## Louisiana State University LSU
- - [https://map.lsu.edu](https://map.lsu.edu)
- - date_published: 2024-07-01T14:40:42.568388+00:00
-
- ## myLSU - Single Sign On
- - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
- - date_published: 2024-05-07T19:30:59.182311+00:00
-
- ## LSU Online
- - [https://online.lsu.edu](https://online.lsu.edu)
- - date_published: 2024-07-01T14:40:26.617404+00:00
-
- ## Pre-College Programs
- - [https://precollege.lsu.edu](https://precollege.lsu.edu)
- - date_published: 2024-07-01T14:40:32.271999+00:00
-
- ## LSU Scholarly Repository | Louisiana State University Research
- - [https://repository.lsu.edu](https://repository.lsu.edu)
- - date_published: 2024-06-30T02:30:53.509351+00:00
-
- ## Home | SciViz
- - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
- - date_published: 2013-04-09T20:36:37+00:00
-
- ## Louisiana State University
- - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
- - date_published: 2024-05-07T19:30:53.429998+00:00
-
- ## LSU TigerWare Online
- - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
- - date_published: 2024-07-07T05:34:22.150397+00:00
-
- ## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date_published: 2023-10-25T11:24:20.932943+00:00
-
- ## High Performance Computing | Louisiana State University
- - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
- - date_published: 2024-07-07T05:34:20.231485+00:00
-
- ## LSU Law
- - [http://www.law.lsu.edu](http://www.law.lsu.edu)
- - date_published: 2024-06-17T11:15:28+00:00
 

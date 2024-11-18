@@ -1,3 +1,7 @@
+ ## Classic Web - Embracing Open-Source and Privacy
+ - [https://classic.zoemp.be](https://classic.zoemp.be)
+ - date_published: 2024-01-22T13:07:24+00:00
+
  ## Gitea
  - [https://gitea.zoemp.be](https://gitea.zoemp.be)
  - date_published: 2024-04-21T00:00:00+00:00
@@ -4055,8 +4059,4 @@
  ## P in the wild
  - [https://pinthewild.micro.blog](https://pinthewild.micro.blog)
  - date_published: 2024-07-04T10:48:22+00:00
-
- ## Pukerua Bay boy
- - [https://pkboi.micro.blog](https://pkboi.micro.blog)
- - date_published: 2024-10-22T19:02:31.869608+00:00
 

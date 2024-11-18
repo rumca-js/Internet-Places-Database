@@ -1,3 +1,59 @@
+ ## Pensure - SaaS - Indsamling af data
+ - [https://nordnet.pensure.dk](https://nordnet.pensure.dk)
+ - date_published: 2024-06-14T13:28:14+00:00
+
+ ## PERI Danmark - Forskalling Stillads Rådgivning
+ - [https://www.peri.dk](https://www.peri.dk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Samlet om kaffen ✓ Køb din kaffe her ⇒
+ - [https://www.peterlarsenkaffeshop.dk](https://www.peterlarsenkaffeshop.dk)
+ - date_published: 2024-06-25T16:54:41.668097+00:00
+
+ ## Pension – få størst mulig udbytte af dine pensionspenge – PFA Pension
+ - [http://pfa.dk](http://pfa.dk)
+ - date_published: 2024-07-17T11:17:38.204948+00:00
+
+ ## Paul-Frederik Bach
+ - [http://pfbach.dk](http://pfbach.dk)
+ - date_published: 2023-02-28T14:20:17+00:00
+
+ ## PhD Course Management
+ - [https://au.phd-courses.dk](https://au.phd-courses.dk)
+ - date_published: 2024-07-22T10:19:56.302291+00:00
+
+ ## Philips - Danmark
+ - [https://www.philips.dk](https://www.philips.dk)
+ - date_published: 2024-10-31T01:13:16+00:00
+
+ ## Pi-Web
+ - [http://pi.dk](http://pi.dk)
+ - date_published: 2024-05-19T02:44:47.530806+00:00
+
+ ## Pinterest
+ - [https://www.pinterest.dk](https://www.pinterest.dk)
+ - date_published: 2024-10-20T23:02:43.791966+00:00
+
+ ## Plan2learn
+ - [https://brs.plan2learn.dk](https://brs.plan2learn.dk)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Log ind i Koncernfælles Login
+ - [https://forsvaret.plan2learn.dk](https://forsvaret.plan2learn.dk)
+ - date_published: 2024-07-22T10:05:37.933586+00:00
+
+ ## Playground Music Denmark
+ - [https://www.playgroundmusic.dk](https://www.playgroundmusic.dk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## ploeh blog
+ - [https://blog.ploeh.dk](https://blog.ploeh.dk)
+ - date_published: 2023-10-25T18:45:40.993665+00:00
+
+ ## Pluralis – digitale løsninger med fokus på oplevelse og læring
+ - [https://www.pluralis.dk](https://www.pluralis.dk)
+ - date_published: 2024-04-10T00:00:00+00:00
+
  ## Politiken
  - [https://e-avis.politiken.dk](https://e-avis.politiken.dk)
  - date_published: 2024-04-30T02:44:38.950237+00:00
@@ -3952,60 +4008,4 @@ I box, ...
  ## Comprehensive Center for Pain & Addiction | The University of Arizona
  - [https://painandaddiction.arizona.edu](https://painandaddiction.arizona.edu)
  - date_published: 2024-04-30T03:04:10.003167+00:00
-
- ## Planning, Design & Construction
- - [https://pdc.arizona.edu](https://pdc.arizona.edu)
- - date_published: 2024-07-09T17:11:38.585992+00:00
-
- ## Philosophy Homepage
- - [https://philosophy.arizona.edu](https://philosophy.arizona.edu)
- - date_published: 2024-07-13T23:29:17.849357+00:00
-
- ## University of Arizona College of Medicine - Phoenix Home | The University of Arizona College of Medicine – Phoenix
- - [https://phoenixmed.arizona.edu](https://phoenixmed.arizona.edu)
- - date_published: 2024-07-22T07:05:09+00:00
-
- ## Phonebook | UA Directory
- - [https://phonebook.arizona.edu](https://phonebook.arizona.edu)
- - date_published: 2024-02-15T18:05:59+00:00
-
- ## P  I  R  L
- - [https://pirlwww.lpl.arizona.edu](https://pirlwww.lpl.arizona.edu)
- - date_published: 2023-09-15T20:00:42+00:00
-
- ## WebAuth Login
- - [http://planning.uaccess.arizona.edu](http://planning.uaccess.arizona.edu)
- - date_published: 2024-07-07T09:24:05.554165+00:00
-
- ## Welcome
- - [https://postdoc.arizona.edu](https://postdoc.arizona.edu)
- - date_published: 2024-07-09T11:45:22+00:00
-
- ## Executive Office of the President
- - [http://president.arizona.edu](http://president.arizona.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## About Central Privacy | Privacy
- - [https://privacy.arizona.edu](https://privacy.arizona.edu)
- - date_published: 2024-04-30T03:05:19.479796+00:00
-
- ## UA Profiles
- - [https://profiles.arizona.edu](https://profiles.arizona.edu)
- - date_published: 2024-07-09T13:48:15+00:00
-
- ## Home
- - [https://provost.arizona.edu](https://provost.arizona.edu)
- - date_published: 2024-07-09T11:34:42+00:00
-
- ## Home
- - [https://psychology.arizona.edu](https://psychology.arizona.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Mel and Enid Zuckerman College of Public Health
- - [https://publichealth.arizona.edu](https://publichealth.arizona.edu)
- - date_published: 2024-07-22T03:10:49+00:00
-
- ## Home
- - [https://quickstart.arizona.edu](https://quickstart.arizona.edu)
- - date_published: 2024-08-19T12:43:41+00:00
 

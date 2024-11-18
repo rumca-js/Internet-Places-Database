@@ -1,3 +1,7 @@
+ ## Research guides | University of Toronto Libraries
+ - [https://guides.library.utoronto.ca](https://guides.library.utoronto.ca)
+ - date_published: 2024-04-30T05:29:03.420725+00:00
+
  ## Home | Academic Handbook
  - [https://handbook.law.utoronto.ca](https://handbook.law.utoronto.ca)
  - date_published: 2024-07-20T17:35:01+00:00
@@ -4006,8 +4010,4 @@
  ## soggy cat
  - [https://soggy.cat](https://soggy.cat)
  - date_published: 2024-05-08T10:45:11.258764+00:00
-
- ## SX3
- - [https://www.super3.cat](https://www.super3.cat)
- - date_published: 2024-06-18T00:00:00+00:00
 

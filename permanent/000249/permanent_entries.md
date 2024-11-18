@@ -1,3 +1,47 @@
+ ## Universität Bayreuth – The Gamechanger Campus
+ - [http://www.uni-bayreuth.de](http://www.uni-bayreuth.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Lehrstuhl für Wirtschaftsmathematik -  Prof. Dr. Jörg Rambau
+ - [http://www.wm.uni-bayreuth.de](http://www.wm.uni-bayreuth.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Aktuell Uni Bielefeld
+ - [https://aktuell.uni-bielefeld.de](https://aktuell.uni-bielefeld.de)
+ - date_published: 2024-07-24T03:56:43.186053+00:00
+
+ ## BASE (Bielefeld Academic Search Engine): Basic Search
+ - [http://base.ub.uni-bielefeld.de](http://base.ub.uni-bielefeld.de)
+ - date_published: 2024-08-06T11:26:37.832238+00:00
+
+ ## BieColl - Universitätsbibliothek - Universität Bielefeld
+ - [https://biecoll.ub.uni-bielefeld.de](https://biecoll.ub.uni-bielefeld.de)
+ - date_published: 2024-07-24T03:56:16.248949+00:00
+
+ ## Willkommen im Bielefelder Informationssystem (BIS)!
+ - [https://biscdn.uni-bielefeld.de](https://biscdn.uni-bielefeld.de)
+ - date_published: 2024-07-24T03:56:04.726860+00:00
+
+ ## Willkommen im Bielefelder Informationssystem (BIS)!
+ - [https://bisintern.uni-bielefeld.de](https://bisintern.uni-bielefeld.de)
+ - date_published: 2024-07-24T03:57:26.268459+00:00
+
+ ## ub.aktuell | Das Weblog der Universitätsbibliothek Bielefeld
+ - [https://blog.ub.uni-bielefeld.de](https://blog.ub.uni-bielefeld.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Unsere Sammlungen - Digitale Sammlungen der Universitätsbibliothek Bielefeld
+ - [https://ds.ub.uni-bielefeld.de](https://ds.ub.uni-bielefeld.de)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Willkommen im Bielefelder Informationssystem (BIS)!
+ - [https://ekvv.uni-bielefeld.de](https://ekvv.uni-bielefeld.de)
+ - date_published: 2024-04-29T06:58:45.858065+00:00
+
+ ## Weiterleitung
+ - [https://fis-portal.uni-bielefeld.de](https://fis-portal.uni-bielefeld.de)
+ - date_published: 2024-07-24T03:56:57.578091+00:00
+
  ## Welcome [International Research Training Group 2235]
  - [https://irtg.math.uni-bielefeld.de](https://irtg.math.uni-bielefeld.de)
  - date_published: 2024-04-29T06:58:54.561974+00:00
@@ -3961,48 +4005,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## WEB.DE Kundencenter
  - [https://account.web.de](https://account.web.de)
  - date_published: 2024-06-16T11:32:44.587797+00:00
-
- ## WEB.DE AGB
- - [https://agb-server.web.de](https://agb-server.web.de)
- - date_published: 2024-06-16T11:32:29.661173+00:00
-
- ## WEB.DE AGB
- - [https://agb.web.de](https://agb.web.de)
- - date_published: 2024-10-03T19:35:39.161401+00:00
-
- ## WEB.DE Login - ganz einfach
- - [https://anmelden.web.de](https://anmelden.web.de)
- - date_published: 2024-10-03T19:48:49.269781+00:00
-
- ## DSL Vergleich 2024 | WEB.DE
- - [https://dsl.web.de](https://dsl.web.de)
- - date_published: 2024-10-03T19:37:47.900871+00:00
-
- ## Ihr Stromanbieter mit besten Konditionen | WEB.DE Strom
- - [https://energie.web.de](https://energie.web.de)
- - date_published: 2024-10-03T19:35:30.402181+00:00
-
- ## E-Mail-Adresse erstellen kostenlos | FreeMail
- - [https://freemail.web.de](https://freemail.web.de)
- - date_published: 2024-06-16T11:32:43.248902+00:00
-
- ## Kostenlos online spielen bei WEB.DE Games!
- - [https://games.web.de](https://games.web.de)
- - date_published: 2024-06-16T11:32:22.875064+00:00
-
- ## WEB.DE Gewinnspiele
- - [https://gewinnspiel.web.de](https://gewinnspiel.web.de)
- - date_published: 2024-06-16T11:32:15.884035+00:00
-
- ## WEB.DE Search
- - [https://go.web.de](https://go.web.de)
- - date_published: 2024-06-16T11:32:09.761147+00:00
-
- ## gutscheine - WEB.DE Search
- - [https://gutscheine.web.de](https://gutscheine.web.de)
- - date_published: 2024-06-16T11:32:38.427173+00:00
-
- ## WEB.DE Hilfe & Kontakt
- - [https://hilfe.web.de](https://hilfe.web.de)
- - date_published: 2024-04-30T00:00:00+00:00
 

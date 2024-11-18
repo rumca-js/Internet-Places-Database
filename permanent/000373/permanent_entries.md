@@ -1,3 +1,92 @@
+ ## «Քան» ակադեմիա | Անվճար առցանց դասընթացներ, տեսանյութեր և հոդվածներ
+ - [https://hy.khanacademy.org](https://hy.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Kursus, Pelajaran, dan Latihan Online Gratis
+ - [https://id.khanacademy.org](https://id.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy India | Master the India curriculum for free
+ - [https://india.khanacademy.org](https://india.khanacademy.org)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Khan Academy | Corsi Online Gratuiti, Lezioni & Pratica
+ - [https://it.khanacademy.org](https://it.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## カーンアカデミー | 無料のオンラインコース，レッスン，練習問題
+ - [https://ja.khanacademy.org](https://ja.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Keep Everyone Learning with Khan Academy's Remote Learning Resources
+ - [https://keepindialearning.khanacademy.org](https://keepindialearning.khanacademy.org)
+ - date_published: 2024-10-22T09:11:51.715228+00:00
+
+ ## Khan Academy | Free Online Courses, Lessons & Practice
+ - [https://khanacademy.org](https://khanacademy.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+ - tags: ['courses', 'astronomy']
+
+ ## Хан академиясы | Тегін онлайн-курстар, сабақтар және жаттығулар
+ - [https://kk.khanacademy.org](https://kk.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | វគ្គសិក្សា មេរៀន & ការអនុវត្តន៏តាមប្រព័ន្ធអុីនធើណែតដោយឥតគិតថ្លៃ
+ - [https://km.khanacademy.org](https://km.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ಖಾನ್ ಅಕಾಡೆಮಿ | ಉಚಿತ ಆನ್ಲೈನ್ ಕೋರ್ಸ್, ಪಾಠಗಳು ಮತ್ತು ಅಭ್ಯಾಸಗಳು
+ - [https://kn.khanacademy.org](https://kn.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | 무료 온라인 강의, 수업 및 연습문제
+ - [https://ko.khanacademy.org](https://ko.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Акысыз онлайн курстар, сабактар жана практикалык тапшырмалар
+ - [https://ky.khanacademy.org](https://ky.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Nemokami internetiniai kursai, pamokos ir pratybos
+ - [https://lt.khanacademy.org](https://lt.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## खान अकॅडमी | फ्री ऑनलाइन कोर्सेस, पाठ आणि सराव
+ - [https://mr.khanacademy.org](https://mr.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Gratis nettbaserte kurs, leksjoner og oppgaver
+ - [https://nb.khanacademy.org](https://nb.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen
+ - [https://nl.khanacademy.org](https://nl.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ଖାନ୍ ଏକାଡେମୀ | ମାଗଣା ଅନଲାଇନ୍ କୋର୍ସ, ପାଠ ଓ ଅଭ୍ୟାସ
+ - [https://or.khanacademy.org](https://or.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ਖਾਨ ਅਕੈਡਮੀ | ਮੁਫ਼ਤ ਆਨਲਾਈਨ ਕੋਰਸ, ਪਾਠ ਅਤੇ ਅਭਿਆਸ
+ - [https://pa.khanacademy.org](https://pa.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Darmowe kursy, lekcje i ćwiczenia online
+ - [https://pl.khanacademy.org](https://pl.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Cursos, aulas e prática on-line gratuitos
+ - [https://pt.khanacademy.org](https://pt.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Gratuit cursuri online, lecții și aplicații
+ - [https://ro.khanacademy.org](https://ro.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Академия Хана | Бесплатные курсы, уроки и практика онлайн
+ - [https://ru.khanacademy.org](https://ru.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Khan Academy | Free Online Courses, Lessons & Practice
  - [https://sgn-us.khanacademy.org](https://sgn-us.khanacademy.org)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -3949,92 +4038,4 @@
  ## Linux Foundation Networking Landscape
  - [https://landscape.lfnetworking.org](https://landscape.lfnetworking.org)
  - date_published: 2024-01-06T00:00:00+00:00
-
- ## LF Networking
- - [https://lfnetworking.org](https://lfnetworking.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## LF Networking Wiki - LF Networking - LF Networking Confluence
- - [https://wiki.lfnetworking.org](https://wiki.lfnetworking.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## LinuxFest Northwest
- - [https://discuss.lfnw.org](https://discuss.lfnw.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## LFNW2024
- - [https://lfnw.org](https://lfnw.org)
- - date_published: 2024-04-12T21:34:06+00:00
-
- ## LFortran
- - [https://dev.lfortran.org](https://dev.lfortran.org)
- - date_published: 2024-04-29T09:16:09.058752+00:00
-
- ## https://lfortran.org
- - [https://lfortran.org](https://lfortran.org)
- - date_published: 2023-10-25T21:38:31.696970+00:00
-
- ## Louisville Free Public Library | Louisville Free Public Library
- - [http://www.lfpl.org](http://www.lfpl.org)
- - date_published: 2024-06-28T12:29:58+00:00
-
- ## Home - LF Projects, LLC
- - [https://lfprojects.org](https://lfprojects.org)
- - date_published: 2024-04-28T03:06:47.208578+00:00
-
- ## Libertarian Futurist Society
- - [http://lfs.org](http://lfs.org)
- - date_published: 2024-07-13T11:12:38.696430+00:00
-
- ## LFW is alive.
- - [http://web.lfw.org](http://web.lfw.org)
- - date_published: 2002-02-10T01:33:53+00:00
-
- ## Home | LGBT CareerLink
- - [http://jobboard.lgbtbar.org](http://jobboard.lgbtbar.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home
- - [https://lgbtbar.org](https://lgbtbar.org)
- - date_published: 2024-06-14T20:46:22+00:00
-
- ## Home
- - [http://www.lgbtcampus.org](http://www.lgbtcampus.org)
- - date_published: 2024-07-01T23:35:19+00:00
-
- ## Movement Advancement Project  |
- - [http://www.lgbtmap.org](http://www.lgbtmap.org)
- - date_published: 2024-09-04T17:22:39.149305+00:00
-
- ## Home | LGBT CareerLink
- - [https://jobboard.lgbtqbar.org](https://jobboard.lgbtqbar.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home
- - [https://lgbtqbar.org](https://lgbtqbar.org)
- - date_published: 2024-09-16T00:39:15+00:00
-
- ## Loan Application
- - [https://apply.lgeccu.org](https://apply.lgeccu.org)
- - date_published: 2024-04-29T20:16:42+00:00
-
- ## LGE Community Credit Union
- - [https://consumeronlineportal.lgeccu.org](https://consumeronlineportal.lgeccu.org)
- - date_published: 2023-06-08T05:07:07+00:00
-
- ## Home Page - LGE Community Credit Union
- - [https://lgeccu.org](https://lgeccu.org)
- - date_published: 2024-10-12T13:48:10.693810+00:00
-
- ## LGE Community Credit Union: Home
- - [https://mortgageapp-pa.lgeccu.org](https://mortgageapp-pa.lgeccu.org)
- - date_published: 2024-06-16T17:22:06.839290+00:00
-
- ## LGE Medicare Team
- - [https://www.lgemedicare.org](https://www.lgemedicare.org)
- - date_published: 2024-06-16T17:21:56.306037+00:00
-
- ## LGiU
- - [https://lgiu.org](https://lgiu.org)
- - date_published: 2024-06-28T00:00:00+00:00
 

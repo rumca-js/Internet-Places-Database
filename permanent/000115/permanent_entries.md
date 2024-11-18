@@ -1,3 +1,19 @@
+ ## HAND – Human & Digital
+ - [https://www.handidentity.com](https://www.handidentity.com)
+ - date_published: 2024-08-18T19:44:53.823514+00:00
+
+ ## H&I TV Network
+ - [https://www.handitv.com](https://www.handitv.com)
+ - date_published: 2024-05-04T10:12:57.835970+00:00
+
+ ## Handlebars
+ - [https://handlebarsjs.com](https://handlebarsjs.com)
+ - date_published: 2024-05-08T05:46:09.088821+00:00
+
+ ## HandleFinder
+ - [https://www.handlefinder.com](https://www.handlefinder.com)
+ - date_published: 2023-10-25T14:55:48.125345+00:00
+
  ## Handmade Arcade
  - [http://www.handmadearcade.com](http://www.handmadearcade.com)
  - date_published: 2024-05-31T00:00:00+00:00
@@ -4012,20 +4028,4 @@
  ## Heardle Metal
  - [https://metal.heardledecades.com](https://metal.heardledecades.com)
  - date_published: 2024-06-30T07:32:43+00:00
-
- ## Heardle Motown
- - [https://motown.heardledecades.com](https://motown.heardledecades.com)
- - date_published: 2024-02-22T12:12:43+00:00
-
- ## Heardle Movies
- - [https://movies.heardledecades.com](https://movies.heardledecades.com)
- - date_published: 2024-06-30T15:33:12+00:00
-
- ## Heardle Movies & Musicals
- - [https://musicals.heardledecades.com](https://musicals.heardledecades.com)
- - date_published: 2024-02-22T12:13:00+00:00
-
- ## Heardle New Wave
- - [https://newwave.heardledecades.com](https://newwave.heardledecades.com)
- - date_published: 2024-05-13T05:01:11+00:00
 

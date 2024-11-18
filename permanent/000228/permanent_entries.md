@@ -1,3 +1,43 @@
+ ## Codebright's Blog
+ - [https://codebright.wordpress.com](https://codebright.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Open game programming
+ - [https://codeflow.wordpress.com](https://codeflow.wordpress.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Codemanship's Blog
+ - [https://codemanship.wordpress.com](https://codemanship.wordpress.com)
+ - date_published: 2023-11-20T09:24:43.633895+00:00
+
+ ## Code My Road
+ - [https://codemyroad.wordpress.com](https://codemyroad.wordpress.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Coding with Balls
+ - [https://codingwithballs.wordpress.com](https://codingwithballs.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Coffee and Critique
+ - [http://coffeeandcritique.wordpress.com](http://coffeeandcritique.wordpress.com)
+ - date_published: 2024-06-30T04:29:56.342286+00:00
+
+ ## Living on Coffee and Flowers
+ - [http://coffeeandflowers.wordpress.com](http://coffeeandflowers.wordpress.com)
+ - date_published: 2024-09-17T17:43:35.992153+00:00
+
+ ## Coffee Oriented Programming
+ - [https://coffeeorientedprogramming.wordpress.com](https://coffeeorientedprogramming.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## CogDogRoo
+ - [https://cogdogroo.wordpress.com](https://cogdogroo.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Adventures in Duality
+ - [https://cogracenotes.wordpress.com](https://cogracenotes.wordpress.com)
+ - date_published: 2024-07-11T07:52:21.103882+00:00
+
  ## Quantum Coherence
  - [http://coherence.wordpress.com](http://coherence.wordpress.com)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3965,44 +4005,4 @@
  ## Grünschreiber
  - [http://gruenschreiber.wordpress.com](http://gruenschreiber.wordpress.com)
  - date_published: 2024-06-30T04:14:03.079377+00:00
-
- ## (no title)
- - [https://grumpyscottishman.wordpress.com](https://grumpyscottishman.wordpress.com)
- - date_published: 2024-10-21T16:09:57.174816+00:00
-
- ## Grumpy Wizard
- - [https://grumpywizardhome.wordpress.com](https://grumpywizardhome.wordpress.com)
- - date_published: 2024-08-18T09:23:44.343366+00:00
-
- ## Grundlegung
- - [http://grundlegung.wordpress.com](http://grundlegung.wordpress.com)
- - date_published: 2024-06-27T12:01:59+00:00
-
- ## Gru of the Grim Dark
- - [https://gruofthegrimdark.wordpress.com](https://gruofthegrimdark.wordpress.com)
- - date_published: 2024-10-26T21:52:08.345448+00:00
-
- ## Seminario de Problemas
- - [http://grupofundamental.wordpress.com](http://grupofundamental.wordpress.com)
- - date_published: 2024-06-30T09:22:43.273584+00:00
-
- ## The Grymoire
- - [https://grymoire.wordpress.com](https://grymoire.wordpress.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## George Shakan
- - [https://gshakan.wordpress.com](https://gshakan.wordpress.com)
- - date_published: 2024-05-07T15:58:11.961691+00:00
-
- ## Gene S. Kopp
- - [https://gskopp.wordpress.com](https://gskopp.wordpress.com)
- - date_published: 2024-06-30T03:03:04+00:00
-
- ## Photography Blog by GT
- - [http://gtphotographs.wordpress.com](http://gtphotographs.wordpress.com)
- - date_published: 2024-06-30T01:45:10.130868+00:00
-
- ## noTes
- - [http://guangbox.wordpress.com](http://guangbox.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
 

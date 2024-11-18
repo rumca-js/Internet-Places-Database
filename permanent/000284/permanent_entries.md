@@ -1,3 +1,71 @@
+ ## École de commerce agroalimentaire et de la Naturalité à Avignon • Isema
+ - [https://isema.fr](https://isema.fr)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Isep - Grande École d'ingénieurs du numérique
+ - [https://www.isep.fr](https://www.isep.fr)
+ - date_published: 2024-07-02T15:36:58+00:00
+
+ ## ISFOGEP - École spécialisée en Ressources Humaines
+ - [https://isfogep.fr](https://isfogep.fr)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Présentation du statut
+ - [https://istheservicedown.fr](https://istheservicedown.fr)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## IT-Connect | Tutoriels - Cours informatique - Tests - Vidéos - Actualité
+ - [https://www.it-connect.fr](https://www.it-connect.fr)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## ITforBusiness.fr - Le magazine des managers du numérique
+ - [https://www.itforbusiness.fr](https://www.itforbusiness.fr)
+ - date_published: 2024-06-23T07:44:19+00:00
+
+ ## Itinerrance Store
+ - [https://boutique.itinerrance.fr](https://boutique.itinerrance.fr)
+ - date_published: 2024-06-20T08:57:42.598567+00:00
+
+ ## Accueil - Galerie Itinerrance
+ - [https://itinerrance.fr](https://itinerrance.fr)
+ - date_published: 2024-06-20T08:57:36.662661+00:00
+
+ ## IT's on us | Collectif de professionnels du numérique responsable
+ - [https://www.itsonus.fr](https://www.itsonus.fr)
+ - date_published: 2024-04-17T10:25:51+00:00
+
+ ## Accueil - Institut Universitaire de France
+ - [https://www.iufrance.fr](https://www.iufrance.fr)
+ - date_published: 2024-06-30T08:10:15+00:00
+
+ ## Département Informatique - IUT de Sénart/Fontainebleau
+ - [http://iut-fbleau.fr](http://iut-fbleau.fr)
+ - date_published: 2024-06-17T13:47:04+00:00
+
+ ## Remboursement - izypay.fr
+ - [https://remboursement.izypay.fr](https://remboursement.izypay.fr)
+ - date_published: 2024-07-20T15:18:46.827772+00:00
+
+ ## What's the title of this blog ?
+ - [https://joachim.jablon.fr](https://joachim.jablon.fr)
+ - date_published: 2021-09-01T00:00:00+00:00
+
+ ## Vêtements outdoor, chaussures et équipement – JACK WOLFSKIN
+ - [https://www.jack-wolfskin.fr](https://www.jack-wolfskin.fr)
+ - date_published: 2024-07-14T12:15:29.039072+00:00
+
+ ## Jonathan Blanchet – Freelance web developer
+ - [https://jblanche.fr](https://jblanche.fr)
+ - date_published: 2020-07-23T13:13:09+00:00
+
+ ## Accueil | JCDecaux
+ - [https://jcdecaux.fr](https://jcdecaux.fr)
+ - date_published: 2024-05-01T01:56:33.076681+00:00
+
+ ## JCDecaux recrute
+ - [https://recrutement.jcdecaux.fr](https://recrutement.jcdecaux.fr)
+ - date_published: 2024-06-15T01:04:43.488313+00:00
+
  ## JD Sports France - Offres et codes promo sur les Baskets, Vêtements & Accessoires
  - [https://www.jdsports.fr](https://www.jdsports.fr)
  - date_published: 2024-10-21T02:21:07.704385+00:00
@@ -3947,72 +4015,4 @@
  ## Planetes360, le média d’information indépendant en temps réel !
  - [https://planetes360.fr](https://planetes360.fr)
  - date_published: 2024-10-30T05:13:48.283104+00:00
-
- ## Home | Plaqueplastique.fr
- - [https://plaqueplastique.fr](https://plaqueplastique.fr)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Plateaux numériques
- - [https://plateaux-numeriques.fr](https://plateaux-numeriques.fr)
- - date_published: 2023-08-28T15:28:19+00:00
-
- ## PlayBonus🍀 | Votre guide N°1 des meilleurs casinos en ligne
- - [https://playbonus.fr](https://playbonus.fr)
- - date_published: 2024-09-04T01:31:20.499225+00:00
-
- ## PLAY FM – DANCE FM Spain - PLAY FM - DANCE FM
- - [https://playfmradio.fr](https://playfmradio.fr)
- - date_published: 2023-12-11T13:50:20+00:00
-
- ## Play-MC.fr | Accueil
- - [https://play-mc.fr](https://play-mc.fr)
- - date_published: 2024-10-22T10:26:50.848448+00:00
-
- ## PlayTV le vrai service de télévision sur internet - PlayTV
- - [https://playtv.fr](https://playtv.fr)
- - date_published: 2024-06-15T01:16:06.605626+00:00
-
- ## Play Two, le label indépendant musique, concerts, spectacles, édition phonographique
- - [https://playtwo.fr](https://playtwo.fr)
- - date_published: 2024-09-17T01:02:52.564072+00:00
-
- ## Plus Mûrs
- - [https://plusmurs.fr](https://plusmurs.fr)
- - date_published: 2024-10-29T14:15:25.924110+00:00
-
- ## LFPShop
- - [https://shop.plusmurs.fr](https://shop.plusmurs.fr)
- - date_published: 2024-10-29T14:16:19.955293+00:00
-
- ## Accueil - Groupe PMU
- - [https://entreprise.pmu.fr](https://entreprise.pmu.fr)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## 5 minutes pronos
- - [https://podcast.pmu.fr](https://podcast.pmu.fr)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Damien Pobel
- - [https://damien.pobel.fr](https://damien.pobel.fr)
- - date_published: 2024-07-08T05:50:05+00:00
-
- ## Le premier site Web de jeux vidéo mobiles et portables au monde | Pocket Gamer France
- - [http://www.pocketgamer.fr](http://www.pocketgamer.fr)
- - date_published: 2024-10-22T18:21:36.006664+00:00
-
- ## Podcasts Français – Les meilleurs podcasts français
- - [https://podcasts-francais.fr](https://podcasts-francais.fr)
- - date_published: 2024-09-07T23:37:54.295841+00:00
-
- ## Cooking – by pofilo
- - [https://cooking.pofilo.fr](https://cooking.pofilo.fr)
- - date_published: 2024-05-15T12:03:59+00:00
-
- ## Pofilo · Git
- - [https://git.pofilo.fr](https://git.pofilo.fr)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Pofilo · Links
- - [https://links.pofilo.fr](https://links.pofilo.fr)
- - date_published: 2024-06-19T00:00:00+00:00
 

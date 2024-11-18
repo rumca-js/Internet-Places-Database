@@ -1,3 +1,99 @@
+ ## Avast | Завантажте Free Antivirus і VPN | Просто й безкоштовно
+ - [https://avast.ua](https://avast.ua)
+ - date_published: 2024-08-08T13:45:00+00:00
+
+ ## Мультимаркет Аврора ➤ Доступні товари для всієї сім'ї   | Мультимаркет Аврора
+ - [https://avrora.ua](https://avrora.ua)
+ - date_published: 2024-06-30T09:28:21.452077+00:00
+
+ ## Бабель | Розповідаємо про політику, культуру і суспільство в Україні. Останні новини детально і неупереджено
+ - [https://babel.ua](https://babel.ua)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Пекельце – курйозні новини з України та всього світу | Бабель
+ - [https://pekeltse.babel.ua](https://pekeltse.babel.ua)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Bitcoin Magazine Україна - новини біткоїна, курс біткоїна до долара, секрети майнінгу - експерти
+ - [https://bitcoinmagazine.ua](https://bitcoinmagazine.ua)
+ - date_published: 2024-07-01T09:01:54.650576+00:00
+
+ ## Головна
+ - [http://www.bosch.ua](http://www.bosch.ua)
+ - date_published: 2024-10-13T20:30:03+00:00
+
+ ## Brother Srbija | At Your Side
+ - [https://www.brother.ua](https://www.brother.ua)
+ - date_published: 2024-06-17T20:18:47.422322+00:00
+
+ ## Business Ukraine magazine
+ - [https://businessukraine.ua](https://businessukraine.ua)
+ - date_published: 2024-03-20T06:32:58.721692+00:00
+
+ ## Головна - Американська торговельна палата в Україні
+ - [https://chamber.ua](https://chamber.ua)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Склад авто CITROЁN в Україні
+ - [https://cars.citroen.ua](https://cars.citroen.ua)
+ - date_published: 2024-05-02T10:43:10.126792+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://citroen.ua](https://citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://configuratorpro.citroen.ua](https://configuratorpro.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://info.citroen.ua](https://info.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## bebyx: сайт Артема Бебика
+ - [https://bebyx.co.ua](https://bebyx.co.ua)
+ - date_published: 2023-10-22T20:27:44+00:00
+
+ ## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
+ - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
+ - date_published: 2023-10-25T22:48:03.655543+00:00
+
+ ## Афіша подій у Києві 2018 | Придбати квитки на Концерт.юа
+ - [https://concert.ua](https://concert.ua)
+ - date_published: 2024-06-29T13:56:30.709192+00:00
+
+ ## Креді Агріколь Банк - ТОП-3 найнадійніших в Україні | Credit Agricole Bank
+ - [https://credit-agricole.ua](https://credit-agricole.ua)
+ - date_published: 2024-06-26T10:39:31.311844+00:00
+
+ ## Decathlon Ukraine - спорт для всіх: якість від новачка до профі
+ - [https://decathlon.ua](https://decathlon.ua)
+ - date_published: 2024-06-15T20:09:11.004430+00:00
+
+ ## Делві Національна мережа сімейних маркетів
+ - [https://www.delvi.ua](https://www.delvi.ua)
+ - date_published: 2024-06-30T09:28:38.263944+00:00
+
+ ## Головна
+ - [https://dengi.ua](https://dengi.ua)
+ - date_published: 2009-12-31T22:00:00+00:00
+
+ ## dobro.ua - допомога Україні
+ - [https://dobro.ua](https://dobro.ua)
+ - date_published: 2024-10-19T23:21:22.107072+00:00
+
+ ## Домініканці в Україні
+ - [https://dominic.ua](https://dominic.ua)
+ - date_published: 2024-09-03T19:45:28.951277+00:00
+
+ ## Інтернет провайдер Домонет в місті Київ
+ - [https://domonet.ua](https://domonet.ua)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Здай кров - врятуй життя!
+ - [https://donor.ua](https://donor.ua)
+ - date_published: 2024-07-08T17:33:46.180853+00:00
+
  ## DOU
  - [https://dou.ua](https://dou.ua)
  - date_published: 2024-07-09T12:28:03.751380+00:00
@@ -3912,100 +4008,4 @@
  ## Home - Wellcome Trust - Bloomsbury Centre for Global Health Research
  - [https://wbc.lshtm.ac.uk](https://wbc.lshtm.ac.uk)
  - date_published: 2024-10-20T05:15:37.325724+00:00
-
- ## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date_published: 2023-10-25T22:48:50.709213+00:00
-
- ## MAGLUE: Measurement and Analysis of bioenergy greenhouse gases
- - [http://www.maglue.ac.uk](http://www.maglue.ac.uk)
- - date_published: 2024-10-29T19:08:38+00:00
-
- ## Search - Archives Hub
- - [https://archives.li.man.ac.uk](https://archives.li.man.ac.uk)
- - date_published: 1900-11-10T00:00:00+00:00
-
- ## Department of Computer Science - The University of Manchester
- - [http://www.cs.man.ac.uk](http://www.cs.man.ac.uk)
- - date_published: 2024-07-13T09:17:59.887656+00:00
-
- ## MDC analytics
- - [https://analytics.digitalcollections.manchester.ac.uk](https://analytics.digitalcollections.manchester.ac.uk)
- - date_published: 2020-06-12T13:43:43+00:00
-
- ## Welcome Page
- - [https://app.manchester.ac.uk](https://app.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:45.038121+00:00
-
- ## Research Groups: APT - Advanced Processor Technologies (School of Computer Science - The University of Manchester)
- - [http://apt.cs.manchester.ac.uk](http://apt.cs.manchester.ac.uk)
- - date_published: 2024-06-26T21:47:18.413390+00:00
-
- ## Policy@Manchester Articles
- - [http://blog.policy.manchester.ac.uk](http://blog.policy.manchester.ac.uk)
- - date_published: 2024-10-21T16:33:08.243907+00:00
-
- ## Wordpress Multisite - The University of Manchester Wordpress multisite
- - [https://blogs.manchester.ac.uk](https://blogs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:21.732842+00:00
-
- ## StaffNet | The University of Manchester
- - [https://documents.manchester.ac.uk](https://documents.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:16.413439+00:00
-
- ## Welcome to MIMS EPrints - MIMS EPrints
- - [https://eprints.maths.manchester.ac.uk](https://eprints.maths.manchester.ac.uk)
- - date_published: 2024-06-14T21:08:12.836459+00:00
-
- ## University of Manchester
- - [https://estore.manchester.ac.uk](https://estore.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:40.697412+00:00
-
- ## The University of Manchester Login Service
- - [https://forms.library.manchester.ac.uk](https://forms.library.manchester.ac.uk)
- - date_published: 2024-08-06T19:37:45.155212+00:00
-
- ## Manchester Giving – Fundraising Stories from The University of Manchester
- - [http://givingblog.manchester.ac.uk](http://givingblog.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:42.501283+00:00
-
- ## Sign in to your account
- - [http://intranet.maths.manchester.ac.uk](http://intranet.maths.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## LUNA Main Menu
- - [https://luna.manchester.ac.uk](https://luna.manchester.ac.uk)
- - date_published: 2024-04-28T06:07:57.927085+00:00
-
- ## The University of Manchester
- - [https://manchester.ac.uk](https://manchester.ac.uk)
- - date_published: 2024-03-16T21:52:08.520935+00:00
-
- ## Home
- - [https://museum.manchester.ac.uk](https://museum.manchester.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Student Support | My Manchester – accessing University systems | The University of Manchester
- - [https://my.manchester.ac.uk](https://my.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:36.535887+00:00
-
- ## The University of Manchester Login Service
- - [https://newsadmin.manchester.ac.uk](https://newsadmin.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:38.905020+00:00
-
- ## Pdrives Login :: Log in
- - [https://pdrives.manchester.ac.uk](https://pdrives.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:02.665931+00:00
-
- ## Search for people | The University of Manchester
- - [https://personalpages.manchester.ac.uk](https://personalpages.manchester.ac.uk)
- - date_published: 2024-06-30T08:06:11.695683+00:00
-
- ## My Manchester | Portal Information | Portal Unavailable | The University of Manchester
- - [https://portalcontent.manchester.ac.uk](https://portalcontent.manchester.ac.uk)
- - date_published: 2016-10-03T12:57:30+00:00
-
- ## The University of Manchester Login Service
- - [https://portal.manchester.ac.uk](https://portal.manchester.ac.uk)
- - date_published: 2024-07-13T12:35:59.979395+00:00
 

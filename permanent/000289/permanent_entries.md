@@ -1,3 +1,75 @@
+ ## Home | U.S. Congresswoman Emilia Sykes
+ - [https://sykes.house.gov](https://sykes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Sylvia Garcia
+ - [https://sylviagarcia.house.gov](https://sylviagarcia.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | U.S. Congressman Mark Takano of California's 39th District
+ - [https://takano.house.gov](https://takano.house.gov)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Representative Claudia Tenney
+ - [https://tenney.house.gov](https://tenney.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Shri Thanedar
+ - [https://thanedar.house.gov](https://thanedar.house.gov)
+ - date_published: 2024-06-27T14:17:31.132460+00:00
+
+ ## Representative Thompson
+ - [https://thompson.house.gov](https://thompson.house.gov)
+ - date_published: 2024-06-27T14:13:06.197499+00:00
+
+ ## Representative Tom Tiffany
+ - [https://tiffany.house.gov](https://tiffany.house.gov)
+ - date_published: 2024-06-27T14:01:59.554453+00:00
+
+ ## Congressman William Timmons
+ - [https://timmons.house.gov](https://timmons.house.gov)
+ - date_published: 2024-06-27T14:23:43+00:00
+
+ ## Congresswoman Dina Titus
+ - [https://titus.house.gov](https://titus.house.gov)
+ - date_published: 2024-05-06T17:11:50.911626+00:00
+
+ ## Home - Rashida Tlaib
+ - [https://tlaib.house.gov](https://tlaib.house.gov)
+ - date_published: 2024-06-27T13:59:25.005625+00:00
+
+ ## Representative Jill Tokuda
+ - [https://tokuda.house.gov](https://tokuda.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Representative Paul Tonko
+ - [https://tonko.house.gov](https://tonko.house.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Norma Torres of California's 35th District
+ - [https://torres.house.gov](https://torres.house.gov)
+ - date_published: 2024-06-27T14:17:12.277719+00:00
+
+ ## U.S. Representative Lori Trahan
+ - [https://trahan.house.gov](https://trahan.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Transportation and Infrastructure Committee
+ - [https://transportation.house.gov](https://transportation.house.gov)
+ - date_published: 2024-06-27T14:17:00+00:00
+
+ ## U.S. Representative Trent Kelly
+ - [https://trentkelly.house.gov](https://trentkelly.house.gov)
+ - date_published: 2024-06-27T14:09:46+00:00
+
+ ## Home - Congressman David Trone
+ - [https://trone.house.gov](https://trone.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Troy Carter
+ - [https://troycarter.house.gov](https://troycarter.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Congressman Michael Turner
  - [https://turner.house.gov](https://turner.house.gov)
  - date_published: 2024-06-27T14:20:02.872036+00:00
@@ -3944,77 +4016,4 @@
  ## NOAA/NWS Storm Prediction Center
  - [http://www.spc.noaa.gov](http://www.spc.noaa.gov)
  - date_published: 2024-06-27T16:47:16.505792+00:00
-
- ## Voluntary Observing Ship Program
- - [http://www.vos.noaa.gov](http://www.vos.noaa.gov)
- - date_published: 2024-08-19T03:34:35.474988+00:00
-
- ## Weather Prediction Center (WPC) Home Page
- - [https://www.wpc.ncep.noaa.gov](https://www.wpc.ncep.noaa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://www.wrh.noaa.gov](http://www.wrh.noaa.gov)
- - date_published: 2024-05-08T10:27:35.893063+00:00
-
- ## NoExcuseSC - SC State Election Commission
- - [https://noexcusesc.gov](https://noexcusesc.gov)
- - date_published: 2024-06-19T18:10:14.402864+00:00
-
- ## City of New Orleans GIS
- - [https://gis.nola.gov](https://gis.nola.gov)
- - date_published: 2022-11-15T17:28:18+00:00
-
- ## Northampton, MA - Official Website | Official Website
- - [https://northamptonma.gov](https://northamptonma.gov)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## NPS.gov Homepage (U.S. National Park Service)
- - [https://nps.gov](https://nps.gov)
- - date_published: 2023-10-25T11:20:15.724610+00:00
-
- ## home
- - [https://nrc.gov](https://nrc.gov)
- - date_published: 2024-01-09T03:31:30.889825+00:00
-
- ## NRC Tribal Toolbox Website
- - [https://tribal.nrc.gov](https://tribal.nrc.gov)
- - date_published: 2024-08-18T04:59:52.544955+00:00
-
- ## NRC: Webcast Portal
- - [https://video.nrc.gov](https://video.nrc.gov)
- - date_published: 2021-04-21T06:26:46+00:00
-
- ## Home
-		- MAP-X
- - [https://mapx.nrc-gateway.gov](https://mapx.nrc-gateway.gov)
- - date_published: 2024-08-18T04:59:48.412686+00:00
-
- ## U.S. NRC Blog
- - [https://public-blog.nrc-gateway.gov](https://public-blog.nrc-gateway.gov)
- - date_published: 2024-08-18T04:59:49.433448+00:00
-
- ## National Resource Directory
- - [https://www.nrd.gov](https://www.nrd.gov)
- - date_published: 2024-06-06T13:59:47+00:00
-
- ## NREL: Developer Network
- - [https://developer.nrel.gov](https://developer.nrel.gov)
- - date_published: 2024-03-13T17:34:41+00:00
-
- ## National Renewable Energy Laboratory (NREL) Home Page | NREL
- - [https://nrel.gov](https://nrel.gov)
- - date_published: 2023-10-25T19:24:44.925788+00:00
-
- ## National Renewable Energy Laboratory
- - [https://research-hub.nrel.gov](https://research-hub.nrel.gov)
- - date_published: 2024-08-18T17:50:28.180864+00:00
-
- ## Attention Required! | Cloudflare
- - [https://thesource.nrel.gov](https://thesource.nrel.gov)
- - date_published: 2024-08-19T03:41:19.924007+00:00
-
- ## > Home
- - [https://www.nro.gov](https://www.nro.gov)
- - date_published: 2024-05-12T07:25:51.279303+00:00
 

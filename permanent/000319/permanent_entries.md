@@ -1,3 +1,83 @@
+ ## PadovaOggi
+ - [https://padovaoggi.it](https://padovaoggi.it)
+ - date_published: 2024-05-11T09:56:38.218482+00:00
+
+ ## Paffi
+ - [https://www.paffi.it](https://www.paffi.it)
+ - date_published: 2024-07-01T17:56:15+00:00
+
+ ## Pagella Politica – Homepage
+ - [https://pagellapolitica.it](https://pagellapolitica.it)
+ - date_published: 2024-10-16T20:51:49.546146+00:00
+
+ ## Organizzazione Funerale: Onoranze Funebri e Necrologi
+ - [https://inmemoria.paginebianche.it](https://inmemoria.paginebianche.it)
+ - date_published: 2024-06-15T06:18:49.728099+00:00
+
+ ## PagineBianche
+ - [https://paginebianche.it](https://paginebianche.it)
+ - date_published: 2024-06-13T09:06:20+00:00
+
+ ## Login | PagineBianche.it
+ - [https://profilo.paginebianche.it](https://profilo.paginebianche.it)
+ - date_published: 2024-09-16T10:38:20.206130+00:00
+
+ ## Salute – DiLei
+ - [https://salute.paginebianche.it](https://salute.paginebianche.it)
+ - date_published: 2024-09-16T10:21:52.650583+00:00
+
+ ## Index of /
+ - [http://mdr-routing.paginegialle.it](http://mdr-routing.paginegialle.it)
+ - date_published: 2024-09-16T10:32:50.344691+00:00
+
+ ## Trova info e recensioni sulle aziende italiane
+ - [https://paginegialle.it](https://paginegialle.it)
+ - date_published: 2024-06-15T06:19:39.281760+00:00
+
+ ## PagineGialle Shop | Il Marketplace di PagineGialle
+ - [https://shop.paginegialle.it](https://shop.paginegialle.it)
+ - date_published: 2024-06-15T06:18:41.052967+00:00
+
+ ## PagineSarde.it
+ - [https://www.paginesarde.it](https://www.paginesarde.it)
+ - date_published: 2024-05-06T15:18:52.253191+00:00
+
+ ## Siti archeologici
+ - [http://www.sitiarcheologici.palazzochigi.it](http://www.sitiarcheologici.palazzochigi.it)
+ - date_published: 2023-05-12T12:24:40+00:00
+
+ ## Palazzo dei Diamanti | Arte a Ferrara
+ - [https://www.palazzodiamanti.it](https://www.palazzodiamanti.it)
+ - date_published: 2024-10-22T12:38:03.377342+00:00
+
+ ## Home
+ - [https://www.palazzomonferrato.it](https://www.palazzomonferrato.it)
+ - date_published: 2024-06-14T09:18:59+00:00
+
+ ## PalermoToday
+ - [https://palermotoday.it](https://palermotoday.it)
+ - date_published: 2024-05-11T10:02:13.635665+00:00
+
+ ## Palo Alto Networks – Leader mondiale per la sicurezza informatica – Italia
+ - [https://www.paloaltonetworks.it](https://www.paloaltonetworks.it)
+ - date_published: 2024-10-19T17:40:51.363416+00:00
+
+ ## Panalight
+ - [http://www.panalight.it](http://www.panalight.it)
+ - date_published: 2024-07-04T06:48:39.118524+00:00
+
+ ## Panese Think Digital - Web Agency Venezia
+ - [https://www.panese.it](https://www.panese.it)
+ - date_published: 2021-07-15T00:00:00+00:00
+
+ ## Figurine, Fumetti e Manga: Entra nel mondo Panini
+ - [https://www.panini.it](https://www.panini.it)
+ - date_published: 2024-09-18T22:53:33.613038+00:00
+
+ ## Home - Pannelliplastica.it
+ - [https://pannelliplastica.it](https://pannelliplastica.it)
+ - date_published: 2024-09-05T00:00:00+00:00
+
  ## Panorama
  - [http://www.panorama.it](http://www.panorama.it)
  - date_published: 2024-07-01T04:04:11.749863+00:00
@@ -3929,84 +4009,4 @@
  ## Home - Unione Industriali Torino
  - [https://www.ui.torino.it](https://www.ui.torino.it)
  - date_published: 2024-07-14T16:10:48.485694+00:00
-
- ## Amministrazione Trasparente del Comune di Trieste
- - [http://amministrazionetrasparente.comune.trieste.it](http://amministrazionetrasparente.comune.trieste.it)
- - date_published: 2024-06-20T12:58:47.308660+00:00
-
- ## Home - Catalogo dei beni culturali Musei Civici del Comune di Trieste
- - [http://beniculturali.comune.trieste.it](http://beniculturali.comune.trieste.it)
- - date_published: 2023-08-24T00:00:00+00:00
-
- ## Trieste per Tutti – Comune di Trieste
- - [http://triestepertutti.comune.trieste.it](http://triestepertutti.comune.trieste.it)
- - date_published: 2024-06-20T12:58:52.986783+00:00
-
- ## Sito
- - [https://www.comune.trieste.it](https://www.comune.trieste.it)
- - date_published: 2024-06-20T12:58:42+00:00
-
- ## ISIS Arturo Malignani | Una scuola per il tuo futuro
- - [http://www.malignani.ud.it](http://www.malignani.ud.it)
- - date_published: 2024-10-13T06:46:20+00:00
-
- ## Centro Funzionale Regione Autonoma Valle d'Aosta
- - [http://cf.regione.vda.it](http://cf.regione.vda.it)
- - date_published: 2024-06-28T13:15:58.349467+00:00
-
- ## Istituzione Scolastica di Istruzione Tecnica e Professionale - Lycée Technique et Professionnel "Innocent Manzetti"
- - [https://imanzetti.scuole.vda.it](https://imanzetti.scuole.vda.it)
- - date_published: 2024-10-13T07:01:37.968680+00:00
-
- ## home | Comune di Venezia.
- - [http://www.comune.venezia.it](http://www.comune.venezia.it)
- - date_published: 2024-06-20T05:12:48.256980+00:00
-
- ## Dev.java: The Destination for Java Developers
- - [https://dev.java](https://dev.java)
- - date_published: 2024-05-06T15:20:15.157839+00:00
-
- ## Dev.java: The Destination for Java Developers
- - [https://go.java](https://go.java)
- - date_published: 2024-07-23T20:55:02.501307+00:00
-
- ## Inside.java
- - [https://inside.java](https://inside.java)
- - date_published: 2023-10-25T20:15:47.805588+00:00
-
- ## JCB Global Website
- - [https://www.global.jcb](https://www.global.jcb)
- - date_published: 2024-10-14T16:02:58.367631+00:00
-
- ## Homepage
- - [https://dj.je](https://dj.je)
- - date_published: 2024-05-14T03:31:02.309591+00:00
-
- ## Simple Analytics
- - [https://sa.dj.je](https://sa.dj.je)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Grafika Google
- - [https://images.google.je](https://images.google.je)
- - date_published: 2024-07-20T07:37:52.831880+00:00
-
- ## Google
- - [https://www.google.je](https://www.google.je)
- - date_published: 2024-06-21T22:24:20.686731+00:00
-
- ## Sil.je
- - [https://sil.je](https://sil.je)
- - date_published: 2024-07-13T04:27:16.840988+00:00
-
- ## Simon Brown
- - [https://simonbrown.je](https://simonbrown.je)
- - date_published: 2024-05-08T04:12:27.034626+00:00
-
- ## Careful Carriers of Now
- - [https://carefulcarriers.jetzt](https://carefulcarriers.jetzt)
- - date_published: 2021-11-18T19:07:08+00:00
-
- ## Digitale Freiheit
- - [https://digitale-freiheit.jetzt](https://digitale-freiheit.jetzt)
- - date_published: 2024-06-13T11:33:23+00:00
 

@@ -1,3 +1,23 @@
+ ## EU Notice | Miami Herald Jobs
+ - [https://jobs.miamiherald.com](https://jobs.miamiherald.com)
+ - date_published: 2024-08-19T07:51:50.717028+00:00
+
+ ## Miami Breaking News, Sports, Crime & More | Miami Herald
+ - [https://miamiherald.com](https://miamiherald.com)
+ - date_published: 2023-10-25T16:02:30.434761+00:00
+
+ ## Miami Improv
+ - [https://www.miamiimprov.com](https://www.miamiimprov.com)
+ - date_published: 2024-08-06T19:46:31.202927+00:00
+
+ ## Miami Modern + Contemporary
+ - [http://www.miamimcfair.com](http://www.miamimcfair.com)
+ - date_published: 2024-10-22T06:04:46.189483+00:00
+
+ ## Miami Mirror | Breaking Miami & Miami-Dade County News
+ - [http://www.miamimirror.com](http://www.miamimirror.com)
+ - date_published: 2024-07-13T22:49:01.715627+00:00
+
  ## Miami AdIndex - Online Advertising Directory
  - [https://adindex.miaminewtimes.com](https://adindex.miaminewtimes.com)
  - date_published: 2024-07-19T22:27:50+00:00
@@ -4043,29 +4063,4 @@
  ## Mindful tester | Sharing knowledge about testing and other things on my mind
  - [https://mindfultester.com](https://mindfultester.com)
  - date_published: 2024-01-06T17:58:32.611587+00:00
-
- ## Show HN: I removed politics from Twitter with AI
- - [https://www.mindfw.com](https://www.mindfw.com)
- - date_published: 2024-09-14T08:02:48+00:00
-
- ## 마음건강 길
- - [http://mindgil.com](http://mindgil.com)
- - date_published: 2024-07-04T05:50:51.906364+00:00
-
- ## Unlock Your Full Potential | MindHack Podcast
- - [https://mindhack.com](https://mindhack.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Mind Hacks
- - [https://mindhacks.com](https://mindhacks.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## MindHub365 |
-            Home
-            
-            
-            
-            - MindHub365
- - [https://mindhub365.com](https://mindhub365.com)
- - date_published: 2024-10-11T08:10:52.230590+00:00
 

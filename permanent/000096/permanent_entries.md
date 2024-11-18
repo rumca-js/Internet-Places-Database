@@ -1,3 +1,15 @@
+ ## 4 Story Wiki
+ - [https://4story.fandom.com](https://4story.fandom.com)
+ - date_published: 2024-10-26T02:07:46+00:00
+
+ ## 5Toubun no Hanayome Wiki
+ - [https://5hanayome.fandom.com](https://5hanayome.fandom.com)
+ - date_published: 2024-10-23T15:58:33+00:00
+
+ ## 5 Seconds of Summer Wiki
+ - [https://5sos.fandom.com](https://5sos.fandom.com)
+ - date_published: 2024-06-17T07:33:30+00:00
+
  ## 64 Zoo Lane Wiki
  - [https://64zoolane.fandom.com](https://64zoolane.fandom.com)
  - date_published: 2024-09-02T18:30:36+00:00
@@ -3986,16 +3998,4 @@
  ## Death end re;Quest Wiki
  - [https://death-end-request.fandom.com](https://death-end-request.fandom.com)
  - date_published: 2024-06-17T08:21:40+00:00
-
- ## Death Mark Wiki
- - [https://death-mark.fandom.com](https://death-mark.fandom.com)
- - date_published: 2024-06-17T01:24:31+00:00
-
- ## Death Note Wiki
- - [https://deathnote.fandom.com](https://deathnote.fandom.com)
- - date_published: 2024-06-17T01:28:42+00:00
-
- ## Death Parade Wiki
- - [https://death-parade.fandom.com](https://death-parade.fandom.com)
- - date_published: 2024-10-23T19:22:09+00:00
 

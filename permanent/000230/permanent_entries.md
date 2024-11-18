@@ -1,3 +1,43 @@
+ ## @infomathematica
+ - [https://mathematics877465002.wordpress.com](https://mathematics877465002.wordpress.com)
+ - date_published: 2024-04-30T07:41:02.590111+00:00
+
+ ## Mathematics without Apologies, by Michael Harris
+ - [https://mathematicswithoutapologies.wordpress.com](https://mathematicswithoutapologies.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Private Site
+ - [http://mathemusicality.wordpress.com](http://mathemusicality.wordpress.com)
+ - date_published: 2024-06-30T11:18:18.641419+00:00
+
+ ## (no title)
+ - [https://mathenchant.files.wordpress.com](https://mathenchant.files.wordpress.com)
+ - date_published: 2024-05-07T15:18:22.721396+00:00
+
+ ## | monthly writings in and around mathematics by James Propp
+ - [https://mathenchant.wordpress.com](https://mathenchant.wordpress.com)
+ - date_published: 2023-10-25T18:13:29.585257+00:00
+
+ ## Disquisitiones Mathematicae
+ - [https://matheuscmss.wordpress.com](https://matheuscmss.wordpress.com)
+ - date_published: 2024-05-07T15:49:02.725657+00:00
+
+ ## Mathew Lyons
+ - [https://mathewlyons.wordpress.com](https://mathewlyons.wordpress.com)
+ - date_published: 2024-10-29T18:09:24.820925+00:00
+
+ ## Mathilda-Anne Florence
+ - [https://mathildaanneflorence.wordpress.com](https://mathildaanneflorence.wordpress.com)
+ - date_published: 2024-07-18T17:14:32.456980+00:00
+
+ ## The Math Less Traveled
+ - [https://mathlesstraveled.wordpress.com](https://mathlesstraveled.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Ramblings of a Math Mom
+ - [http://mathmomblog.wordpress.com](http://mathmomblog.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Math Munch
  - [http://mathmunch.wordpress.com](http://mathmunch.wordpress.com)
  - date_published: 2024-06-30T04:22:09+00:00
@@ -3970,45 +4010,4 @@
  ## Science Matters
  - [http://rclutz.wordpress.com](http://rclutz.wordpress.com)
  - date_published: 2024-08-19T08:08:20+00:00
-
- ## Read and Hear
- - [http://readandhear.wordpress.com](http://readandhear.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Radhika's Reading Retreat
- - [https://readersretreat2017.wordpress.com](https://readersretreat2017.wordpress.com)
- - date_published: 2024-06-30T05:57:55.431025+00:00
-
- ## a reader's words
- - [https://readerswords.wordpress.com](https://readerswords.wordpress.com)
- - date_published: 2024-10-21T16:49:51.136903+00:00
-
- ## readerunner
- - [https://readerunner.wordpress.com](https://readerunner.wordpress.com)
- - date_published: 2024-07-11T07:50:37.495881+00:00
-
- ## Imogen is Reading and Watching the World: On Books, Film, Art & More
- - [https://readingandwatchingtheworldhome.wordpress.com](https://readingandwatchingtheworldhome.wordpress.com)
- - date_published: 2024-09-17T17:13:13.536372+00:00
-
- ## Reading in Bed
- - [https://readinginbeddotcom.wordpress.com](https://readinginbeddotcom.wordpress.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Infernosgarden
- - [https://readwithinfernosgarden.wordpress.com](https://readwithinfernosgarden.wordpress.com)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Realize Engineering
- - [https://realizeengineering.wordpress.com](https://realizeengineering.wordpress.com)
- - date_published: 2024-08-19T11:03:53.310825+00:00
-
- ## Karissa Reads Books
- - [http://realizinggrace.wordpress.com](http://realizinggrace.wordpress.com)
- - date_published: 2024-09-17T17:23:04.564019+00:00
-
- ## Real Life Rebs – Blog, Sustainability, Mental Health, Eco-living, Christianity, Crafts, Social Justice, Plastic-free, Zero-waste, Mental Well-being
- - [https://realliferebs.wordpress.com](https://realliferebs.wordpress.com)
- - date_published: 2024-10-29T10:24:18.803798+00:00
- - tags: ['personal']
 

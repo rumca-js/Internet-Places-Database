@@ -1,3 +1,91 @@
+ ## Shout: the UK's free, confidential and 24/7 mental health text service for crisis support
+ - [https://giveusashout.org](https://giveusashout.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Charity Reviews and Recommendations | GiveWell
+ - [https://blog.givewell.org](https://blog.givewell.org)
+ - date_published: 2024-04-29T04:44:10.203047+00:00
+
+ ## GiveWell
+ - [https://givewell.org](https://givewell.org)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Donate to GiveWell | GiveWell
+ - [https://secure.givewell.org](https://secure.givewell.org)
+ - date_published: 2024-05-12T07:28:50.705947+00:00
+
+ ## Giving Assistant - Shop &amp; Save With Promo Codes &amp; Coupons
+ - [https://givingassistant.org](https://givingassistant.org)
+ - date_published: 2024-06-21T17:25:48+00:00
+
+ ## https://givingbirthwithconfidence.org
+ - [https://givingbirthwithconfidence.org](https://givingbirthwithconfidence.org)
+ - date_published: 2020-12-23T14:46:49+00:00
+
+ ## ReDI Donation Page-EN
+ - [https://redi-school.givingpage.org](https://redi-school.givingpage.org)
+ - date_published: 2024-07-22T09:26:29.077665+00:00
+
+ ## Home - The Giving Pledge
+ - [https://givingpledge.org](https://givingpledge.org)
+ - date_published: 2024-10-29T05:16:25.993441+00:00
+
+ ## GivingTuesday
+ - [https://givingtuesday.org](https://givingtuesday.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Donation Platform
+ - [https://donate.givingwhatwecan.org](https://donate.givingwhatwecan.org)
+ - date_published: 2024-08-05T18:33:00.180871+00:00
+
+ ## Giving What We Can
+ - [https://givingwhatwecan.org](https://givingwhatwecan.org)
+ - date_published: 2024-04-29T04:44:04.934117+00:00
+
+ ## How Rich Am I?
+ - [https://howrichami.givingwhatwecan.org](https://howrichami.givingwhatwecan.org)
+ - date_published: 2024-07-12T18:54:35.397845+00:00
+
+ ## Grand Junction, CO | Official Website
+ - [https://gjcity.org](https://gjcity.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Gulf Journal of Mathematics
+ - [http://gjom.org](http://gjom.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home
+ - [http://www.gjournals.org](http://www.gjournals.org)
+ - date_published: 2024-10-29T01:56:37+00:00
+
+ ## The Greater Kanawha Valley Foundation
+ - [https://gkvf.org](https://gkvf.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## GLAAD
+ - [https://act.glaad.org](https://act.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://give.glaad.org](https://give.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://glaad.org](https://glaad.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home - GLAD
+ - [https://www.glad.org](https://www.glad.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Gladstone Institutes
+ - [https://gladstone.org](https://gladstone.org)
+ - date_published: 2024-07-22T07:52:06+00:00
+
+ ## glandium.org
+ - [https://glandium.org](https://glandium.org)
+ - date_published: 2023-11-21T21:18:54.989187+00:00
+
  ## Glasgow 2024, a Worldcon for Our Futures
  - [https://glasgow2024.org](https://glasgow2024.org)
  - date_published: 2023-02-24T23:49:47+00:00
@@ -3959,92 +4047,4 @@
  ## Sign In to Harper's Magazine
  - [https://login.harpers.org](https://login.harpers.org)
  - date_published: 2024-07-19T02:54:33.491129+00:00
-
- ## The Harper's Magazine Store
- - [https://store.harpers.org](https://store.harpers.org)
- - date_published: 2024-07-19T02:54:35.109749+00:00
-
- ## Harrington HealthCare System – A leader in healthcare serving south central Massachusetts and northeastern Connecticut.
- - [https://www.harringtonhospital.org](https://www.harringtonhospital.org)
- - date_published: 2024-07-02T03:23:14.685292+00:00
-
- ## HOME | Harris Democrats
- - [https://www.harrisdemocrats.org](https://www.harrisdemocrats.org)
- - date_published: 2024-08-08T22:41:51.850905+00:00
-
- ## Harry Josephine Giles
- - [https://harrygiles.org](https://harrygiles.org)
- - date_published: 2024-07-17T23:18:24.405037+00:00
-
- ## Harsha Simhadri
- - [https://harsha-simhadri.org](https://harsha-simhadri.org)
- - date_published: 2023-11-29T18:59:17+00:00
-
- ## Hartford Bonanza
- - [https://www.hartfordbonanza.org](https://www.hartfordbonanza.org)
- - date_published: 2024-07-01T23:21:16.750730+00:00
-
- ## home | Hartford Symphony Orchestra
- - [https://hartfordsymphony.org](https://hartfordsymphony.org)
- - date_published: 2022-11-22T20:45:00+00:00
-
- ## Homepage | Harvard Art Museums
- - [https://harvardartmuseums.org](https://harvardartmuseums.org)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Leadership Development | Corporate Learning | Harvard Business Publishing
- - [https://harvardbusiness.org](https://harvardbusiness.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home: Harvard Center for Green Buildings and Cities
- - [https://harvardcgbc.org](https://harvardcgbc.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Harvard Design Magazine - Harvard Design Magazine
- - [https://harvarddesignmagazine.org](https://harvarddesignmagazine.org)
- - date_published: 2024-01-24T20:56:12.264603+00:00
-
- ## Effective Altruism at Harvard
- - [https://www.harvardea.org](https://www.harvardea.org)
- - date_published: 2024-06-19T02:08:50.510267+00:00
-
- ## Harvard Film Archive
- - [https://harvardfilmarchive.org](https://harvardfilmarchive.org)
- - date_published: 2024-08-11T05:20:54.086094+00:00
-
- ## Harvard Law Review
- - [https://harvardlawreview.org](https://harvardlawreview.org)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Harvard Laboratory for Developmental Studies
- - [https://www.harvardlds.org](https://www.harvardlds.org)
- - date_published: 2024-06-21T16:27:25+00:00
-
- ## Attention Required! | Cloudflare
- - [https://harvardnotfair.org](https://harvardnotfair.org)
- - date_published: 2024-06-17T12:03:42.424320+00:00
-
- ## Harvard National Security Journal |
- - [https://harvardnsj.org](https://harvardnsj.org)
- - date_published: 2024-10-16T10:14:53.712473+00:00
-
- ## Prostate Health - Harvard Health
- - [https://harvardprostateknowledge.org](https://harvardprostateknowledge.org)
- - date_published: 2024-04-29T02:29:41.078484+00:00
-
- ## Harvard Public Health Magazine | Home
- - [https://harvardpublichealth.org](https://harvardpublichealth.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Harvard Varsity Club
- - [https://harvardvarsityclub.org](https://harvardvarsityclub.org)
- - date_published: 2024-09-04T20:22:20.572762+00:00
-
- ## HCC | Harvest Compassion Center Phoenix/Maryvale
- - [https://harvestcompassioncenter.org](https://harvestcompassioncenter.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Harvey OS
- - [https://harvey-os.org](https://harvey-os.org)
- - date_published: 2023-04-24T20:58:07+00:00
 

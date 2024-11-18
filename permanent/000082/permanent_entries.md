@@ -1,3 +1,15 @@
+ ## The Daily Princetonian Quizzes
+ - [https://quizzes.dailyprincetonian.com](https://quizzes.dailyprincetonian.com)
+ - date_published: 2023-09-18T06:46:22+00:00
+
+ ## Subscribe @ Daily Princetonian
+ - [https://subscribe.dailyprincetonian.com](https://subscribe.dailyprincetonian.com)
+ - date_published: 2023-06-15T01:31:34+00:00
+
+ ## Daily Pundit
+ - [http://dailypundit.com](http://dailypundit.com)
+ - date_published: 2024-03-03T09:30:02+00:00
+
  ## TechRadar | the technology experts
  - [http://dailyradar.com](http://dailyradar.com)
  - date_published: 2024-06-27T10:25:12+00:00
@@ -4038,16 +4050,4 @@
  ## TensorFlow Transfer Learning
  - [https://tensorflow-transfer-learning.davebitter.com](https://tensorflow-transfer-learning.davebitter.com)
  - date_published: 2024-09-04T00:48:24.960982+00:00
-
- ## dave booda
- - [https://davebooda.com](https://davebooda.com)
- - date_published: 2024-05-08T03:12:45.494681+00:00
-
- ## Dave Ceddia
- - [https://daveceddia.com](https://daveceddia.com)
- - date_published: 2024-05-06T13:03:48.089574+00:00
-
- ## บาคาร่า เกมคาสิโนออนไลน์ ทางเข้าเดิมพัน bkkgaming
- - [https://davecentral.com](https://davecentral.com)
- - date_published: 2023-10-31T09:28:54+00:00
 

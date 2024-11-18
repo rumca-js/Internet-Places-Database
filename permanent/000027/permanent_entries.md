@@ -1,3 +1,7 @@
+ ## 搜索主界面
+ - [http://search.wenming.cn](http://search.wenming.cn)
+ - date_published: 2024-06-30T17:08:58.967803+00:00
+
  ## 陕西文明网—中国文明网陕西站
  - [http://shx.wenming.cn](http://shx.wenming.cn)
  - date_published: 2024-06-30T17:08:07.402954+00:00
@@ -4004,8 +4008,4 @@ _中国网
  ## 资本市场学院
  - [http://www.ccmi.edu.cn](http://www.ccmi.edu.cn)
  - date_published: 2024-06-28T07:11:45+00:00
-
- ## 华中师范大学
- - [http://www.ccnu.edu.cn](http://www.ccnu.edu.cn)
- - date_published: 2024-09-09T11:38:42+00:00
 

@@ -1,3 +1,7 @@
+ ## Dirección de Educación Virtual
+ - [https://virtual.ucentral.edu.co](https://virtual.ucentral.edu.co)
+ - date_published: 2023-09-06T20:03:12+00:00
+
  ## Universidad de Antioquia
  - [https://www.udea.edu.co](https://www.udea.edu.co)
  - date_published: 2024-09-10T12:45:02.421895+00:00
@@ -4037,8 +4041,4 @@
  ## Witch Hazel, A text editor color theme by Stargirl Flowers
  - [https://witchhazel.thea.codes](https://witchhazel.thea.codes)
  - date_published: 2024-05-21T15:58:09+00:00
-
- ## The Collab Lab
- - [https://the-collab-lab.codes](https://the-collab-lab.codes)
- - date_published: 2024-09-03T22:13:05.623516+00:00
 

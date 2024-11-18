@@ -1,3 +1,11 @@
+ ## Mr. Verb
+ - [https://mr-verb.blogspot.com](https://mr-verb.blogspot.com)
+ - date_published: 2024-04-21T12:15:32+00:00
+
+ ## MRX Designs
+ - [https://mrxdesigns.blogspot.com](https://mrxdesigns.blogspot.com)
+ - date_published: 2024-10-31T00:50:13+00:00
+
  ## Michal's bloggy
  - [http://msaros.blogspot.com](http://msaros.blogspot.com)
  - date_published: 2024-09-02T08:57:17+00:00
@@ -4004,12 +4012,4 @@
  ## Plastic Malpractice
  - [https://plasticmalpractice.blogspot.com](https://plasticmalpractice.blogspot.com)
  - date_published: 2024-10-31T10:17:21+00:00
-
- ## Hidup Berawal dari Mimpi
- - [http://plasticmayhem.blogspot.com](http://plasticmayhem.blogspot.com)
- - date_published: 2024-09-01T17:37:21+00:00
-
- ## Plastic Polyhedra
- - [https://plasticpolyhedra.blogspot.com](https://plasticpolyhedra.blogspot.com)
- - date_published: 2024-09-02T08:23:19+00:00
 

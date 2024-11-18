@@ -1,3 +1,95 @@
+ ## Scheme Files
+ - [https://files.scheme.org](https://files.scheme.org)
+ - date_published: 2024-03-01T14:05:04+00:00
+
+ ## Gambit Scheme - Home
+ - [https://gambit.scheme.org](https://gambit.scheme.org)
+ - date_published: 2023-11-12T14:13:55+00:00
+
+ ## Gauche - A Scheme Implementation
+ - [https://gauche.scheme.org](https://gauche.scheme.org)
+ - date_published: 2024-04-24T00:27:58+00:00
+
+ ## Gerbil Scheme
+ - [https://gerbil.scheme.org](https://gerbil.scheme.org)
+ - date_published: 2024-07-20T12:07:14.179533+00:00
+
+ ## Scheme Implementations
+ - [https://get.scheme.org](https://get.scheme.org)
+ - date_published: 2024-05-24T01:14:10+00:00
+
+ ## Scheme.org Gitea
+ - [https://gitea.scheme.org](https://gitea.scheme.org)
+ - date_published: 2024-07-20T12:07:29.664113+00:00
+
+ ## Go Scheme
+ - [https://go.scheme.org](https://go.scheme.org)
+ - date_published: 2024-05-17T18:37:47+00:00
+
+ ## Scheme Groups
+ - [https://groups.scheme.org](https://groups.scheme.org)
+ - date_published: 2022-12-02T09:53:02+00:00
+
+ ## GNU's programming and extension language — GNU Guile
+ - [https://guile.scheme.org](https://guile.scheme.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Scheme index
+ - [https://index.scheme.org](https://index.scheme.org)
+ - date_published: 2024-03-11T08:13:02+00:00
+
+ ## Home
+ - [https://jazz.scheme.org](https://jazz.scheme.org)
+ - date_published: 2011-04-12T00:00:00+00:00
+
+ ## Kawa: The Kawa Scheme language
+ - [https://kawa.scheme.org](https://kawa.scheme.org)
+ - date_published: 2020-01-16T00:00:00+00:00
+
+ ## Scheme Lists
+ - [https://lists.scheme.org](https://lists.scheme.org)
+ - date_published: 2023-12-28T12:19:09+00:00
+
+ ## scheme.fail - Loko Scheme
+ - [https://loko.scheme.org](https://loko.scheme.org)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Scheme Programmer's Manual
+ - [https://man.scheme.org](https://man.scheme.org)
+ - date_published: 2023-03-04T17:46:39+00:00
+
+ ## MIT/GNU Scheme - GNU Project - Free Software Foundation
+ - [https://mit.scheme.org](https://mit.scheme.org)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Planet Scheme
+ - [https://planet.scheme.org](https://planet.scheme.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Racket
+ - [https://racket.scheme.org](https://racket.scheme.org)
+ - date_published: 2024-07-11T20:22:20+00:00
+
+ ## Scheme Registry
+ - [https://registry.scheme.org](https://registry.scheme.org)
+ - date_published: 2024-03-21T10:32:48+00:00
+
+ ## Scheme Research
+ - [https://research.scheme.org](https://research.scheme.org)
+ - date_published: 2022-07-29T09:35:31+00:00
+
+ ## The s7 Home Page
+ - [https://s7.scheme.org](https://s7.scheme.org)
+ - date_published: 2021-01-01T22:53:14+00:00
+
+ ## Title
+ - [https://sagittarius.scheme.org](https://sagittarius.scheme.org)
+ - date_published: 2024-02-14T14:25:24+00:00
+
+ ## The Scheme Programming Language
+ - [https://scheme.org](https://scheme.org)
+ - date_published: 2024-05-28T15:25:43+00:00
+
  ## Scheme Requests for Implementation
  - [https://srfi.scheme.org](https://srfi.scheme.org)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -3939,96 +4031,4 @@
  ## ACM SIGCSE
  - [https://sigcse.org](https://sigcse.org)
  - date_published: 2024-06-18T18:28:56+00:00
-
- ## SIGCSE TS 2024
- - [https://www.sigcse2024.org](https://www.sigcse2024.org)
- - date_published: 2024-06-30T02:13:26.264043+00:00
-
- ## About Us - SIGDA
- - [https://sigda.org](https://sigda.org)
- - date_published: 2024-04-30T03:26:40.004457+00:00
-
- ## ACL SIGDAT
- - [http://www.sigdat.org](http://www.sigdat.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home - EC 2021
- - [http://ec21.sigecom.org](http://ec21.sigecom.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## ACM SIGecom
- - [https://sigecom.org](https://sigecom.org)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Local index - HTTrack Website Copier
- - [http://gecco-2016.sigevo.org](http://gecco-2016.sigevo.org)
- - date_published: 2018-10-23T13:26:17+00:00
-
- ## GECCO 2021 | HomePage
- - [https://gecco-2021.sigevo.org](https://gecco-2021.sigevo.org)
- - date_published: 2024-08-19T18:39:04.275990+00:00
-
- ## GECCO 2024 | HomePage
- - [https://gecco-2024.sigevo.org](https://gecco-2024.sigevo.org)
- - date_published: 2024-07-07T09:19:18.915240+00:00
-
- ## Home - SIGGRAPH Asia 2024
- - [https://asia.siggraph.org](https://asia.siggraph.org)
- - date_published: 2023-10-30T10:23:33+00:00
-
- ## Latest Posts - ACM SIGGRAPH Blog
- - [https://blog.siggraph.org](https://blog.siggraph.org)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## RCDC@SIGGRAPH – SIGGRAPH Research Career Development Committee
- - [https://research.siggraph.org](https://research.siggraph.org)
- - date_published: 2024-08-07T14:14:34.590706+00:00
-
- ## Index of /
- - [http://s2015.siggraph.org](http://s2015.siggraph.org)
- - date_published: 2024-07-02T13:33:24.803789+00:00
-
- ## Home - SIGGRAPH 2018
- - [https://s2018.siggraph.org](https://s2018.siggraph.org)
- - date_published: 2019-04-25T21:39:52+00:00
-
- ## Home | SIGGRAPH 2019
- - [https://s2019.siggraph.org](https://s2019.siggraph.org)
- - date_published: 2024-04-30T05:42:57.692867+00:00
-
- ## SIGGRAPH 2020 - SIGGRAPH
- - [https://s2020.siggraph.org](https://s2020.siggraph.org)
- - date_published: 2024-07-11T14:32:21.408992+00:00
-
- ## Home Page | SIGGRAPH 2021
- - [https://s2021.siggraph.org](https://s2021.siggraph.org)
- - date_published: 2024-06-05T21:58:33+00:00
-
- ## Home Page | SIGGRAPH 2022
- - [https://s2022.siggraph.org](https://s2022.siggraph.org)
- - date_published: 2023-10-13T16:21:26+00:00
-
- ## SIGGRAPH 2023
- - [https://s2023.siggraph.org](https://s2023.siggraph.org)
- - date_published: 2024-06-22T08:50:29.707222+00:00
-
- ## SIGGRAPH 2024
- - [https://s2024.siggraph.org](https://s2024.siggraph.org)
- - date_published: 2024-07-03T02:06:55+00:00
-
- ## SIGGRAPH Asia 2018
- - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
- - date_published: 2019-12-27T12:31:46+00:00
-
- ## SIGGRAPH Asia 2019
- - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
- - date_published: 2020-04-24T15:59:40+00:00
-
- ## Home
- - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
- - date_published: 2024-07-03T04:40:12.065780+00:00
-
- ## Page has moved
- - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
- - date_published: 2023-08-02T18:48:04+00:00
 

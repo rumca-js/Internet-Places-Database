@@ -1,3 +1,19 @@
+ ## Google Cloud
+ - [https://cloud.googleblog.com](https://cloud.googleblog.com)
+ - date_published: 2024-05-04T08:29:07.448768+00:00
+
+ ## Google Cloud | Google Cloud Blog
+ - [https://cloudplatform.googleblog.com](https://cloudplatform.googleblog.com)
+ - date_published: 2024-09-18T22:23:39.059606+00:00
+
+ ## Programmable Search Engine Blog
+ - [https://customsearch.googleblog.com](https://customsearch.googleblog.com)
+ - date_published: 2024-04-27T08:26:31.715284+00:00
+
+ ## Google for Developers Blog - News about Web, Mobile, AI and Cloud
+ - [https://developers.googleblog.com](https://developers.googleblog.com)
+ - date_published: 2023-10-25T14:47:51.773508+00:00
+
  ## Google Workspace Blog
  - [https://gsuite-developers.googleblog.com](https://gsuite-developers.googleblog.com)
  - date_published: 2024-05-04T09:35:05.871728+00:00
@@ -4016,21 +4032,4 @@
  ## Home page
  - [https://gravity-software.com](https://gravity-software.com)
  - date_published: 2024-05-08T07:14:21.688428+00:00
-
- ## Ignite
- - [https://www.gravitytank.com](https://www.gravitytank.com)
- - date_published: 2024-09-02T11:39:50+00:00
-
- ## Gravity Taproom - North Quarter Orlando, Orlando, FL
- - [https://gravitytaproom.com](https://gravitytaproom.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## EV Infrastructure | Gravity
- - [https://gravitytechnologies.com](https://gravitytechnologies.com)
- - date_published: 2024-07-23T22:15:40.508628+00:00
-
- ## Gravitytrope.com
- - [https://www.gravitytrope.com](https://www.gravitytrope.com)
- - date_published: 2023-12-24T02:32:02.682771+00:00
- - tags: ['personal']
 

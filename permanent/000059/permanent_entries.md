@@ -1,3 +1,7 @@
+ ## The Lost Chapter
+ - [http://hiveminionshobbyblog.blogspot.com](http://hiveminionshobbyblog.blogspot.com)
+ - date_published: 2024-09-11T01:16:54+00:00
+
  ## Hivestone Incursion
  - [http://hivestoneincursion.blogspot.com](http://hivestoneincursion.blogspot.com)
  - date_published: 2024-03-14T17:44:15+00:00
@@ -4003,11 +4007,7 @@
  - [http://laughingwild.blogspot.com](http://laughingwild.blogspot.com)
  - date_published: 2024-10-19T08:23:25.412612+00:00
 
- ## Launchings by David Bressoud
- - [https://launchings.blogspot.com](https://launchings.blogspot.com)
- - date_published: 2024-05-08T09:48:29.597818+00:00
-
- ## Laura Howard
- - [http://laurahoward78.blogspot.com](http://laurahoward78.blogspot.com)
- - date_published: 2024-10-17T23:08:08.258802+00:00
+ ## Launceston Radio Monitoring
+ - [https://launcestonradiomonitoring.blogspot.com](https://launcestonradiomonitoring.blogspot.com)
+ - date_published: 2024-11-17T00:00:00+00:00
 

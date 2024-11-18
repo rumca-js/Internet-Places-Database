@@ -1,3 +1,7 @@
+ ## SX3
+ - [https://www.super3.cat](https://www.super3.cat)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Agenda - Tecnocampus
  - [https://agenda.tecnocampus.cat](https://agenda.tecnocampus.cat)
  - date_published: 2024-07-02T10:46:48+00:00
@@ -4032,8 +4036,4 @@
  ## brandlift – Agence de Design graphique – Genève
  - [https://brandlift.ch](https://brandlift.ch)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## Breitband
- - [https://breitband.ch](https://breitband.ch)
- - date_published: 2024-07-01T08:50:36+00:00
 

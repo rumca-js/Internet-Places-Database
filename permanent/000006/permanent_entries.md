@@ -1292,6 +1292,10 @@
  - [https://astro-micro.vercel.app](https://astro-micro.vercel.app)
  - date_published: 2024-09-04T04:11:29.118816+00:00
 
+ ## AstroWind — Free template for creating websites with Astro + Tailwind CSS
+ - [https://astrowind.vercel.app](https://astrowind.vercel.app)
+ - date_published: 2024-10-14T14:36:34+00:00
+
  ## Nomic Atlas
  - [https://atlas-next-b40x23hjo-nomic-ai.vercel.app](https://atlas-next-b40x23hjo-nomic-ai.vercel.app)
  - date_published: 2024-07-14T22:29:27.804310+00:00
@@ -4013,9 +4017,4 @@
  ## Reimar
  - [https://reim.ar](https://reim.ar)
  - date_published: 2024-05-07T23:22:31.288342+00:00
-
- ## Ricardo Iván Vieitez Parra
- - [https://riv.ar](https://riv.ar)
- - date_published: 2024-08-22T21:33:58.391773+00:00
- - tags: ['personal']
 

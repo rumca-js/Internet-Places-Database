@@ -1,3 +1,47 @@
+ ## Jobs at bam! interactive marketing GmbH
+ - [https://bam-interactive.jobs.personio.de](https://bam-interactive.jobs.personio.de)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Jobs at Brother Internationale Industriemaschinen GmbH
+ - [https://brother-industrial-com.jobs.personio.de](https://brother-industrial-com.jobs.personio.de)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Jobs at BTC-ECHO | Jobs
+ - [https://btc-echo-gmbh.jobs.personio.de](https://btc-echo-gmbh.jobs.personio.de)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Personio Voyager Community: Teile Deine Fragen & Ideen! | Personio Community: Teile Deine Fragen & Ideen!
+ - [https://community.personio.de](https://community.personio.de)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Personio Developer Hub
+ - [https://developer.personio.de](https://developer.personio.de)
+ - date_published: 2024-06-28T16:14:25.431813+00:00
+
+ ## Personio. The People Operating System.
+ - [https://gamigo-ag-jobs.personio.de](https://gamigo-ag-jobs.personio.de)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Jobs at Hubject GmbH
+ - [https://hubject-gmbh.jobs.personio.de](https://hubject-gmbh.jobs.personio.de)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## HUG: Europas heißestes HR-Event | Powered by Personio
+ - [https://hug.personio.de](https://hug.personio.de)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Jobs at KNIME AG
+ - [https://knime.jobs.personio.de](https://knime.jobs.personio.de)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Personio - Suchen und entdecken Sie Ihre bevorzugten Personio-Integrationen | Personio-Integrationen
+ - [https://marketplace.personio.de](https://marketplace.personio.de)
+ - date_published: 2024-09-26T09:37:35.873157+00:00
+
+ ## Jobs at Meshcapade
+ - [https://meshcapade.jobs.personio.de](https://meshcapade.jobs.personio.de)
+ - date_published: 2024-09-06T00:00:00+00:00
+
  ## Personio. The People Operating System.
  - [https://personio.de](https://personio.de)
  - date_published: 2024-09-24T00:00:00+00:00
@@ -3977,49 +4021,4 @@
  ## Sparkasse.de
  - [https://sparkasse.de](https://sparkasse.de)
  - date_published: 2024-09-23T00:00:00+00:00
-
- ## Sparkasse KölnBonn | Füreinander hier
- - [https://www.sparkasse-koelnbonn.de](https://www.sparkasse-koelnbonn.de)
- - date_published: 2024-07-14T16:08:19.327446+00:00
-
- ## S-CERT-Sicherheitswarnungen
- - [https://feeds.sparkassen-finanzportal.de](https://feeds.sparkassen-finanzportal.de)
- - date_published: 2024-06-16T08:16:39.280083+00:00
-
- ## Media-Center
- - [https://sparkassen-mediacenter.de](https://sparkassen-mediacenter.de)
- - date_published: 2024-06-16T08:16:31.764486+00:00
-
- ## SparkassenShop Startseite · Sparkasse · Shop · Beratung · Service
- - [https://www.sparkassen-shop.de](https://www.sparkassen-shop.de)
- - date_published: 2024-06-16T06:15:38.549157+00:00
-
- ## Spark Innovation – Martin Ferfers
- - [https://spark-innovation.de](https://spark-innovation.de)
- - date_published: 2023-12-22T17:51:37.712266+00:00
- - tags: ['personal']
-
- ## Sparlaxy – Das Samsung Galaxy Portal
- - [http://www.sparlaxy.de](http://www.sparlaxy.de)
- - date_published: 2024-09-02T16:32:40.778050+00:00
-
- ## SPARTOO | Schuhe, Taschen und Kleidung | Kostenlose Lieferung
- - [https://spartoo.de](https://spartoo.de)
- - date_published: 2024-09-11T18:33:04.990094+00:00
-
- ## SPARXSYSTEMS: Enterprise Architect | Ihr UML und BPMN Tool
- - [https://www.sparxsystems.de](https://www.sparxsystems.de)
- - date_published: 2024-07-03T21:41:07.406472+00:00
-
- ## SPB-Linux
- - [http://spblinux.de](http://spblinux.de)
- - date_published: 2008-03-06T23:13:19+00:00
-
- ## sp-codes - Home
- - [https://sp-codes.de](https://sp-codes.de)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## SpeedCommander
- - [http://www.speedproject.de](http://www.speedproject.de)
- - date_published: 2024-06-20T13:13:03.673669+00:00
 

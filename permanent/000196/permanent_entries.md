@@ -1,3 +1,27 @@
+ ## Alex Danco's Newsletter | Substack
+ - [https://danco.substack.com](https://danco.substack.com)
+ - date_published: 2024-06-29T21:20:23.756047+00:00
+
+ ## The Held Report | Dan Held | Substack
+ - [https://danheld.substack.com](https://danheld.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## DanHonMusic | Substack
+ - [https://danhon.substack.com](https://danhon.substack.com)
+ - date_published: 2024-06-21T01:54:01.613720+00:00
+
+ ## Keep the Republic | Daniel Bobinski | Substack
+ - [https://danielbobinski.substack.com](https://danielbobinski.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Daniel Chang | Substack
+ - [https://danielchang.substack.com](https://danielchang.substack.com)
+ - date_published: 2024-08-19T14:54:03.087049+00:00
+
+ ## Drezner’s World | Daniel W. Drezner | Substack
+ - [https://danieldrezner.substack.com](https://danieldrezner.substack.com)
+ - date_published: 2024-04-29T04:47:22.043174+00:00
+
  ## Israel from the Inside with Daniel Gordis | Substack
  - [https://danielgordis.substack.com](https://danielgordis.substack.com)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -4056,28 +4080,4 @@
  ## Meaning Alignment Institute | Joe Edelman | Substack
  - [https://meaningalignment.substack.com](https://meaningalignment.substack.com)
  - date_published: 2024-07-07T07:16:07.946737+00:00
-
- ## Meaningness | David Chapman | Substack
- - [https://meaningness.substack.com](https://meaningness.substack.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Meanwhile | Daniel Benneworth-Gray | Substack
- - [https://meanwhile.substack.com](https://meanwhile.substack.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## El Substack de ¿Ahora | ¿Ahora qué? | Substack
- - [https://mediamosconciencia.substack.com](https://mediamosconciencia.substack.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Offline: dating that works | Shreeda Segan | Substack
- - [https://meetmeoffline.substack.com](https://meetmeoffline.substack.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Megan’s Substack | Megan Elisabeth Kelly | Substack
- - [https://meganelisabethkelly.substack.com](https://meganelisabethkelly.substack.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Megan J. Robinson | Substack
- - [https://meganjrobinson.substack.com](https://meganjrobinson.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
 

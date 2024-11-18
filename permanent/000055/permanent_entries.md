@@ -1,3 +1,7 @@
+ ## Cucina Testa Rossa
+ - [http://cucinatestarossa.blogs.com](http://cucinatestarossa.blogs.com)
+ - date_published: 2024-06-27T08:44:48.339025+00:00
+
  ## The daily ablution
  - [http://dailyablution.blogs.com](http://dailyablution.blogs.com)
  - date_published: 2024-06-27T09:14:18.947743+00:00
@@ -4008,8 +4012,4 @@
  ## Battle Flag
  - [http://battleflags.blogspot.com](http://battleflags.blogspot.com)
  - date_published: 2024-07-02T06:14:32+00:00
-
- ## FCY: Battlemech Models
- - [https://battlemechclub.blogspot.com](https://battlemechclub.blogspot.com)
- - date_published: 2024-10-20T21:47:12+00:00
 

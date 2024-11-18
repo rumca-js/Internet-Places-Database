@@ -1,3 +1,92 @@
+ ## Peter-Hans Kolvenbach - Jesuit Generals
+ - [https://kolvenbach.jesuitgeneral.org](https://kolvenbach.jesuitgeneral.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Adolfo Nicolás - Jesuit Generals
+ - [https://nicolas.jesuitgeneral.org](https://nicolas.jesuitgeneral.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Jesuits Home - Jesuits.org
+ - [https://www.jesuits.org](https://www.jesuits.org)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Jesuit Schools Network | The Jesuit Schools Network promotes the educational ministry of the Society of Jesus in service to the Catholic Church by strengthening Jesuit schools for the mission of Jesus Christ.
+ - [https://jesuitschoolsnetwork.org](https://jesuitschoolsnetwork.org)
+ - date_published: 2024-07-26T19:24:31.149869+00:00
+
+ ## Nyheder fra Jesu Kristi Kirke af Sidste Dages Hellige
+ - [https://nyheder-dk.jesukristikirke.org](https://nyheder-dk.jesukristikirke.org)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Nyhetsredaksjonen - Jesu Kristi Kirke av Siste Dagers Hellige
+ - [https://nyheter-no.jesukristikirke.org](https://nyheter-no.jesukristikirke.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Nyhetsrum - Jesu Kristi Kyrka av Sista Dagars Heliga
+ - [https://nyheter.jesukristikyrka.org](https://nyheter.jesukristikyrka.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Jesus Christ - The Son of God and Savior of Mankind
+ - [https://www.jesus.org](https://www.jesus.org)
+ - date_published: 2024-07-03T09:44:06.734693+00:00
+
+ ## Jesús Abandonado: Más que comer y dormir
+ - [http://www.jesusabandonado.org](http://www.jesusabandonado.org)
+ - date_published: 2021-01-18T07:58:18+00:00
+
+ ## Jesus & Maria Site
+ - [http://www.jesusmariasite.org](http://www.jesusmariasite.org)
+ - date_published: 2024-07-03T18:46:50+00:00
+
+ ## Publish Scholarship about Electronic Theses and Dissertations (ETDs) | United Arab Emirates University
+ - [http://j-etd.org](http://j-etd.org)
+ - date_published: 2024-07-02T13:15:20.003290+00:00
+
+ ## Journal of Evolution and Technology
+ - [https://jetpress.org](https://jetpress.org)
+ - date_published: 2020-10-23T18:56:34+00:00
+ - tags: ['evolution', 'journal', 'technology']
+
+ ## Jetstream2 Home - Jetstream2 Documentation
+ - [https://docs.jetstream-cloud.org](https://docs.jetstream-cloud.org)
+ - date_published: 2024-07-02T18:07:54+00:00
+
+ ## Jetstream2
+ - [https://jetstream-cloud.org](https://jetstream-cloud.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Startpagina - Jeugdwerk
+ - [https://jeugdwerk.org](https://jeugdwerk.org)
+ - date_published: 2024-08-07T20:58:01.413700+00:00
+
+ ## NameBright - Coming Soon
+ - [http://www.jeux2009.org](http://www.jeux2009.org)
+ - date_published: 2024-07-12T07:07:22.244402+00:00
+
+ ## Jevin D. West
+ - [https://jevinwest.org](https://jevinwest.org)
+ - date_published: 2024-02-17T20:44:04+00:00
+
+ ## Jevko: simply encode data
+ - [https://jevko.org](https://jevko.org)
+ - date_published: 2024-03-31T17:30:11+00:00
+
+ ## Home
+ - [https://jevon.org](https://jevon.org)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Jewish Comics Experience
+ - [http://jewce.org](http://jewce.org)
+ - date_published: 2024-06-17T10:40:29.157280+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://es.jewelryinstitute.org](https://es.jewelryinstitute.org)
+ - date_published: 2024-09-16T14:52:35.770094+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://jewelryinstitute.org](https://jewelryinstitute.org)
+ - date_published: 2024-06-15T07:25:29.011462+00:00
+
  ## Diamond Setting School | Jewelry Institute Of America | Houston
  - [https://zh.jewelryinstitute.org](https://zh.jewelryinstitute.org)
  - date_published: 2024-09-16T14:52:29.831641+00:00
@@ -3969,94 +4058,5 @@ Hosted by Panix.com.
 
  ## Khan Academy | Ingyenes online oktatócsomagok, tananyagok gyakorlófeladatokkal
  - [https://hu.khanacademy.org](https://hu.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## «Քան» ակադեմիա | Անվճար առցանց դասընթացներ, տեսանյութեր և հոդվածներ
- - [https://hy.khanacademy.org](https://hy.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Kursus, Pelajaran, dan Latihan Online Gratis
- - [https://id.khanacademy.org](https://id.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy India | Master the India curriculum for free
- - [https://india.khanacademy.org](https://india.khanacademy.org)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Khan Academy | Corsi Online Gratuiti, Lezioni & Pratica
- - [https://it.khanacademy.org](https://it.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## カーンアカデミー | 無料のオンラインコース，レッスン，練習問題
- - [https://ja.khanacademy.org](https://ja.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Keep Everyone Learning with Khan Academy's Remote Learning Resources
- - [https://keepindialearning.khanacademy.org](https://keepindialearning.khanacademy.org)
- - date_published: 2024-10-22T09:11:51.715228+00:00
-
- ## Khan Academy | Free Online Courses, Lessons & Practice
- - [https://khanacademy.org](https://khanacademy.org)
- - date_published: 2024-05-02T00:00:00+00:00
- - tags: ['courses', 'astronomy']
-
- ## Хан академиясы | Тегін онлайн-курстар, сабақтар және жаттығулар
- - [https://kk.khanacademy.org](https://kk.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | វគ្គសិក្សា មេរៀន & ការអនុវត្តន៏តាមប្រព័ន្ធអុីនធើណែតដោយឥតគិតថ្លៃ
- - [https://km.khanacademy.org](https://km.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ಖಾನ್ ಅಕಾಡೆಮಿ | ಉಚಿತ ಆನ್ಲೈನ್ ಕೋರ್ಸ್, ಪಾಠಗಳು ಮತ್ತು ಅಭ್ಯಾಸಗಳು
- - [https://kn.khanacademy.org](https://kn.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | 무료 온라인 강의, 수업 및 연습문제
- - [https://ko.khanacademy.org](https://ko.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Акысыз онлайн курстар, сабактар жана практикалык тапшырмалар
- - [https://ky.khanacademy.org](https://ky.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Nemokami internetiniai kursai, pamokos ir pratybos
- - [https://lt.khanacademy.org](https://lt.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## खान अकॅडमी | फ्री ऑनलाइन कोर्सेस, पाठ आणि सराव
- - [https://mr.khanacademy.org](https://mr.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratis nettbaserte kurs, leksjoner og oppgaver
- - [https://nb.khanacademy.org](https://nb.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen
- - [https://nl.khanacademy.org](https://nl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ଖାନ୍ ଏକାଡେମୀ | ମାଗଣା ଅନଲାଇନ୍ କୋର୍ସ, ପାଠ ଓ ଅଭ୍ୟାସ
- - [https://or.khanacademy.org](https://or.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ਖਾਨ ਅਕੈਡਮੀ | ਮੁਫ਼ਤ ਆਨਲਾਈਨ ਕੋਰਸ, ਪਾਠ ਅਤੇ ਅਭਿਆਸ
- - [https://pa.khanacademy.org](https://pa.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Darmowe kursy, lekcje i ćwiczenia online
- - [https://pl.khanacademy.org](https://pl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Cursos, aulas e prática on-line gratuitos
- - [https://pt.khanacademy.org](https://pt.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratuit cursuri online, lecții și aplicații
- - [https://ro.khanacademy.org](https://ro.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Академия Хана | Бесплатные курсы, уроки и практика онлайн
- - [https://ru.khanacademy.org](https://ru.khanacademy.org)
  - date_published: 2024-06-18T00:00:00+00:00
 

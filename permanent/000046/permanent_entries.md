@@ -1,3 +1,7 @@
+ ## ASADI
+ - [https://www.asadiworldwide.com](https://www.asadiworldwide.com)
+ - date_published: 2024-08-07T17:43:00.127098+00:00
+
  ## Asa Dotzler
  - [https://asadotzler.com](https://asadotzler.com)
  - date_published: 2024-07-04T03:52:56.142315+00:00
@@ -4022,8 +4026,4 @@
  ## Cierpliwości...
  - [https://atptour.com](https://atptour.com)
  - date_published: 2024-03-17T19:25:51.180802+00:00
-
- ## Cierpliwości...
- - [https://atpworldtour.com](https://atpworldtour.com)
- - date_published: 2024-05-11T07:33:19.506315+00:00
 

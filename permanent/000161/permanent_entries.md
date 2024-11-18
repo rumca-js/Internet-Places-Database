@@ -1,3 +1,23 @@
+ ## OpenText Careers
+ - [https://careers.opentext.com](https://careers.opentext.com)
+ - date_published: 2024-06-16T13:39:56.539166+00:00
+
+ ## OpenText Cybersecurity
+ - [https://cybersecurity.opentext.com](https://cybersecurity.opentext.com)
+ - date_published: 2024-10-07T22:32:55.456229+00:00
+
+ ## Developer | OpenText
+ - [https://developer.opentext.com](https://developer.opentext.com)
+ - date_published: 2024-07-18T18:45:03+00:00
+
+ ## OpenText ePayments: Start
+ - [https://epay.opentext.com](https://epay.opentext.com)
+ - date_published: 2024-07-19T04:47:58.416523+00:00
+
+ ## Enterprise Information Management Events | OpenText
+ - [https://events.opentext.com](https://events.opentext.com)
+ - date_published: 2024-08-08T21:54:04.186915+00:00
+
  ## Home - OpenText - Forums
  - [https://forums.opentext.com](https://forums.opentext.com)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -4014,24 +4034,4 @@
  ## (OSS)OURSPECIALSUPPORT
  - [https://ourspecialsupport.com](https://ourspecialsupport.com)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## OurSundays
- - [https://www.oursundaysslc.com](https://www.oursundaysslc.com)
- - date_published: 2024-07-19T16:48:14.256957+00:00
-
- ## Our Sunday Visitor
- - [https://www.oursundayvisitor.com](https://www.oursundayvisitor.com)
- - date_published: 2024-06-29T23:51:48.656711+00:00
-
- ## Internet, Video and Voice in Mooresville, Davidson & Cornelius | TDS
- - [https://ourtds.com](https://ourtds.com)
- - date_published: 2024-06-29T15:42:28.413165+00:00
-
- ## Teamland - All-in-One Team Building Events & Training
- - [https://ourteamland.com](https://ourteamland.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Culture of Care
- - [https://www.ourthinkingaboutdrinking.com](https://www.ourthinkingaboutdrinking.com)
- - date_published: 2024-10-29T02:14:40+00:00
 

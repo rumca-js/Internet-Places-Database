@@ -1,3 +1,23 @@
+ ## Max Keppeler
+ - [https://maxkeppeler.com](https://maxkeppeler.com)
+ - date_published: 2024-07-02T20:47:13.834657+00:00
+
+ ## Max Kohler
+ - [https://www.maxkohler.com](https://www.maxkohler.com)
+ - date_published: 2024-08-18T13:11:09.799513+00:00
+
+ ## Maximillian Laumeister | Personal Website
+ - [https://maxlaumeister.com](https://maxlaumeister.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Drift
+ - [https://drift.maxleiter.com](https://drift.maxleiter.com)
+ - date_published: 2024-05-04T14:46:30.340275+00:00
+
+ ## Max Leiter
+ - [https://maxleiter.com](https://maxleiter.com)
+ - date_published: 2023-10-25T15:59:02.588809+00:00
+
  ## Drift
  - [https://paste.maxleiter.com](https://paste.maxleiter.com)
  - date_published: 2024-05-04T14:46:11.784274+00:00
@@ -4005,24 +4025,4 @@
  ## DS - VRP – Medium
  - [https://datavrpscience.medium.com](https://datavrpscience.medium.com)
  - date_published: 2024-02-08T16:32:00.203010+00:00
-
- ## Dave On Cyber – Medium
- - [https://daveoncyber.medium.com](https://daveoncyber.medium.com)
- - date_published: 2024-05-01T04:10:40.079101+00:00
-
- ## David Delassus – Medium
- - [https://david-delassus.medium.com](https://david-delassus.medium.com)
- - date_published: 2023-10-25T10:19:26.852264+00:00
-
- ## Davide Wiest – Medium
- - [https://davidewiest.medium.com](https://davidewiest.medium.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## David Gilbertson – Medium
- - [https://david-gilbertson.medium.com](https://david-gilbertson.medium.com)
- - date_published: 2023-10-25T10:19:29.708680+00:00
-
- ## David Mokotoff, MD – Medium
- - [https://davidmokotoff.medium.com](https://davidmokotoff.medium.com)
- - date_published: 2024-04-26T00:00:00+00:00
 

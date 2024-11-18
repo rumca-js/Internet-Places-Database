@@ -1,3 +1,71 @@
+ ## Home | Plaqueplastique.fr
+ - [https://plaqueplastique.fr](https://plaqueplastique.fr)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Plateaux numériques
+ - [https://plateaux-numeriques.fr](https://plateaux-numeriques.fr)
+ - date_published: 2023-08-28T15:28:19+00:00
+
+ ## PlayBonus🍀 | Votre guide N°1 des meilleurs casinos en ligne
+ - [https://playbonus.fr](https://playbonus.fr)
+ - date_published: 2024-09-04T01:31:20.499225+00:00
+
+ ## PLAY FM – DANCE FM Spain - PLAY FM - DANCE FM
+ - [https://playfmradio.fr](https://playfmradio.fr)
+ - date_published: 2023-12-11T13:50:20+00:00
+
+ ## Play-MC.fr | Accueil
+ - [https://play-mc.fr](https://play-mc.fr)
+ - date_published: 2024-10-22T10:26:50.848448+00:00
+
+ ## PlayTV le vrai service de télévision sur internet - PlayTV
+ - [https://playtv.fr](https://playtv.fr)
+ - date_published: 2024-06-15T01:16:06.605626+00:00
+
+ ## Play Two, le label indépendant musique, concerts, spectacles, édition phonographique
+ - [https://playtwo.fr](https://playtwo.fr)
+ - date_published: 2024-09-17T01:02:52.564072+00:00
+
+ ## Plus Mûrs
+ - [https://plusmurs.fr](https://plusmurs.fr)
+ - date_published: 2024-10-29T14:15:25.924110+00:00
+
+ ## LFPShop
+ - [https://shop.plusmurs.fr](https://shop.plusmurs.fr)
+ - date_published: 2024-10-29T14:16:19.955293+00:00
+
+ ## Accueil - Groupe PMU
+ - [https://entreprise.pmu.fr](https://entreprise.pmu.fr)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## 5 minutes pronos
+ - [https://podcast.pmu.fr](https://podcast.pmu.fr)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Damien Pobel
+ - [https://damien.pobel.fr](https://damien.pobel.fr)
+ - date_published: 2024-07-08T05:50:05+00:00
+
+ ## Le premier site Web de jeux vidéo mobiles et portables au monde | Pocket Gamer France
+ - [http://www.pocketgamer.fr](http://www.pocketgamer.fr)
+ - date_published: 2024-10-22T18:21:36.006664+00:00
+
+ ## Podcasts Français – Les meilleurs podcasts français
+ - [https://podcasts-francais.fr](https://podcasts-francais.fr)
+ - date_published: 2024-09-07T23:37:54.295841+00:00
+
+ ## Cooking – by pofilo
+ - [https://cooking.pofilo.fr](https://cooking.pofilo.fr)
+ - date_published: 2024-05-15T12:03:59+00:00
+
+ ## Pofilo · Git
+ - [https://git.pofilo.fr](https://git.pofilo.fr)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Pofilo · Links
+ - [https://links.pofilo.fr](https://links.pofilo.fr)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Pofilo.fr
  - [https://pofilo.fr](https://pofilo.fr)
  - date_published: 2024-05-09T07:46:52.706423+00:00
@@ -3937,74 +4005,4 @@
  ## schema.data.gouv.fr
  - [https://schema.data.gouv.fr](https://schema.data.gouv.fr)
  - date_published: 2024-09-14T04:06:34+00:00
-
- ## www.data.gouv.fr Site - Web Analytics Reports - Matomo
- - [https://stats.data.gouv.fr](https://stats.data.gouv.fr)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Support data.gouv.fr
- - [https://support.data.gouv.fr](https://support.data.gouv.fr)
- - date_published: 2024-09-14T22:12:11.335646+00:00
-
- ## National Access Point for transport open data
- - [https://transport.data.gouv.fr](https://transport.data.gouv.fr)
- - date_published: 2024-09-14T22:12:06.428633+00:00
-
- ## Consultations publiques | Ministère de la Transition écologique et de la Cohésion des territoires 
-
-Secrétariat d'État chargé de la Mer
- - [https://www.consultations-publiques.developpement-durable.gouv.fr](https://www.consultations-publiques.developpement-durable.gouv.fr)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Accueil | Ministère de la Transition écologique et de la Cohésion des territoires
- - [http://www.developpement-durable.gouv.fr](http://www.developpement-durable.gouv.fr)
- - date_published: 2024-08-18T02:25:39.519598+00:00
-
- ## Données et études statistiques pour le changement climatique, l’énergie, l’environnement, le logement, et les transports
- - [https://www.statistiques.developpement-durable.gouv.fr](https://www.statistiques.developpement-durable.gouv.fr)
- - date_published: 2024-07-07T03:00:34+00:00
-
- ## Accueil-fr | BDN
- - [https://bibliotheque-numerique.diplomatie.gouv.fr](https://bibliotheque-numerique.diplomatie.gouv.fr)
- - date_published: 2024-06-18T14:24:12.525701+00:00
-
- ## France Diplomacy
- - [https://diplomatie.gouv.fr](https://diplomatie.gouv.fr)
- - date_published: 2024-05-08T10:43:28.978265+00:00
-
- ## Accueil | Portail de la Direction Générale des Douanes et Droits Indirects
- - [https://www.douane.gouv.fr](https://www.douane.gouv.fr)
- - date_published: 2024-07-15T04:07:04.850850+00:00
-
- ## Ministère de la Transition Écologique et de la Cohésion des Territoires
- - [https://ecologie.gouv.fr](https://ecologie.gouv.fr)
- - date_published: 2024-06-15T01:01:35+00:00
-
- ## Le Ministère de la Transition écologique recrute
- - [https://recrutement.ecologie.gouv.fr](https://recrutement.ecologie.gouv.fr)
- - date_published: 2024-09-15T22:26:37.567230+00:00
-
- ## Accueil | Ministère de la Transition écologique et de la Cohésion des territoires
- - [https://www.ecologique-solidaire.gouv.fr](https://www.ecologique-solidaire.gouv.fr)
- - date_published: 2024-08-19T17:52:41.572609+00:00
-
- ## Accueil - Data Economie — Ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique
- - [https://data.economie.gouv.fr](https://data.economie.gouv.fr)
- - date_published: 2024-10-12T13:27:06.459744+00:00
-
- ## economie.gouv.fr
- - [https://economie.gouv.fr](https://economie.gouv.fr)
- - date_published: 2024-05-10T04:32:39.612180+00:00
-
- ## Direction générale du Trésor
- - [https://www.tresor.economie.gouv.fr](https://www.tresor.economie.gouv.fr)
- - date_published: 2024-10-14T21:15:25.894438+00:00
-
- ## Unis pour notre École
- - [https://www.education.gouv.fr](https://www.education.gouv.fr)
- - date_published: 2024-09-15T20:41:54+00:00
-
- ## Bienvenue sur le site des dons mobiliers de France | dons.encheres-domaine
- - [https://dons.encheres-domaine.gouv.fr](https://dons.encheres-domaine.gouv.fr)
- - date_published: 2024-10-12T13:27:03.472160+00:00
 

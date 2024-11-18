@@ -1,3 +1,11 @@
+ ## Facebook
+ - [https://calibra.com](https://calibra.com)
+ - date_published: 2024-06-17T10:11:34.368392+00:00
+
+ ## Calibre: Synthetic and Real-User Monitoring Platform
+ - [https://calibreapp.com](https://calibreapp.com)
+ - date_published: 2024-05-06T13:42:18.229656+00:00
+
  ## calibre - E-book management
  - [https://calibre-ebook.com](https://calibre-ebook.com)
  - date_published: 2024-04-09T16:55:03+00:00
@@ -3700,6 +3708,10 @@
  - [https://www.card-data.com](https://www.card-data.com)
  - date_published: 2024-07-10T04:09:26.434033+00:00
 
+ ## CarDekho: New Cars, Car Prices, Buy & Sell Used Cars in India
+ - [https://www.cardekho.com](https://www.cardekho.com)
+ - date_published: 2024-11-17T13:14:21.476997+00:00
+
  ## Home | Car Design News
  - [http://cardesignnews.com](http://cardesignnews.com)
  - date_published: 2024-09-14T00:00:00+00:00
@@ -4016,16 +4028,4 @@
  ## Latest Education News: Admission, Board Exams, Result, Admit Card, Events and New Regulations
  - [https://news.careers360.com](https://news.careers360.com)
  - date_published: 2024-06-22T11:11:10+00:00
-
- ## Careers at Bright
- - [https://careersatbright.com](https://careersatbright.com)
- - date_published: 2023-10-25T13:18:11.594419+00:00
-
- ## Chase Careers | Find your career at Chase
- - [https://www.careersatchase.com](https://www.careersatchase.com)
- - date_published: 2024-05-04T06:12:27.125039+00:00
-
- ## Attention Required! | Cloudflare
- - [https://careersatilitchcompanies.com](https://careersatilitchcompanies.com)
- - date_published: 2024-10-12T14:16:57.412595+00:00
 

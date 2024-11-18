@@ -1,3 +1,19 @@
+ ## General Motors Pressroom
+ - [https://pressroom.gm.com](https://pressroom.gm.com)
+ - date_published: 2024-05-04T08:16:14.894603+00:00
+
+ ## Better is only the beginning
+ - [https://search-careers.gm.com](https://search-careers.gm.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## AHAVA
+ - [https://gma-ahava.com](https://gma-ahava.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Daniela Swaebe
+ - [https://gma-danielaswaebe.com](https://gma-danielaswaebe.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
  ## GMA Deals & Steals
  - [https://gmadeals.com](https://gmadeals.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4031,20 +4047,4 @@ Homebrew Video Game Depot
  ## Chrome Releases
  - [https://chromereleases.googleblog.com](https://chromereleases.googleblog.com)
  - date_published: 2023-10-25T08:40:21.923612+00:00
-
- ## Google Cloud
- - [https://cloud.googleblog.com](https://cloud.googleblog.com)
- - date_published: 2024-05-04T08:29:07.448768+00:00
-
- ## Google Cloud | Google Cloud Blog
- - [https://cloudplatform.googleblog.com](https://cloudplatform.googleblog.com)
- - date_published: 2024-09-18T22:23:39.059606+00:00
-
- ## Programmable Search Engine Blog
- - [https://customsearch.googleblog.com](https://customsearch.googleblog.com)
- - date_published: 2024-04-27T08:26:31.715284+00:00
-
- ## Google for Developers Blog - News about Web, Mobile, AI and Cloud
- - [https://developers.googleblog.com](https://developers.googleblog.com)
- - date_published: 2023-10-25T14:47:51.773508+00:00
 

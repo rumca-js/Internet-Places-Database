@@ -1,3 +1,11 @@
+ ## The Brick | Brooklyn's incubator of innovative theater and performing arts
+ - [http://bricktheater.com](http://bricktheater.com)
+ - date_published: 2024-06-18T15:22:44.911523+00:00
+
+ ## Brick Underground
+ - [https://brickunderground.com](https://brickunderground.com)
+ - date_published: 2024-05-08T06:32:21.985262+00:00
+
  ## Brick Wahl
  - [https://brickwahl.com](https://brickwahl.com)
  - date_published: 2024-10-29T20:03:19.258687+00:00
@@ -4027,12 +4035,4 @@
  ## Bull & Moon
  - [https://bullandmoon.com](https://bullandmoon.com)
  - date_published: 2020-05-11T12:25:02+00:00
-
- ## Bulldogjob - Think IT.
- - [https://bulldogjob.com](https://bulldogjob.com)
- - date_published: 2024-08-18T17:07:55.117065+00:00
-
- ## Bulleit Merchandise Store
- - [https://shop.bulleit.com](https://shop.bulleit.com)
- - date_published: 2024-10-31T16:59:52.364836+00:00
 

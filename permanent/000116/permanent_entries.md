@@ -1,3 +1,19 @@
+ ## Heardle Motown
+ - [https://motown.heardledecades.com](https://motown.heardledecades.com)
+ - date_published: 2024-02-22T12:12:43+00:00
+
+ ## Heardle Movies
+ - [https://movies.heardledecades.com](https://movies.heardledecades.com)
+ - date_published: 2024-06-30T15:33:12+00:00
+
+ ## Heardle Movies & Musicals
+ - [https://musicals.heardledecades.com](https://musicals.heardledecades.com)
+ - date_published: 2024-02-22T12:13:00+00:00
+
+ ## Heardle New Wave
+ - [https://newwave.heardledecades.com](https://newwave.heardledecades.com)
+ - date_published: 2024-05-13T05:01:11+00:00
+
  ## Heardle Pop!
  - [https://pop.heardledecades.com](https://pop.heardledecades.com)
  - date_published: 2024-06-30T07:43:22+00:00
@@ -4019,20 +4035,4 @@
  ## HeyGen - AI Spokesperson Video Creator
  - [https://app.heygen.com](https://app.heygen.com)
  - date_published: 2024-06-19T06:59:14+00:00
-
- ## HeyGen Labs
- - [https://labs.heygen.com](https://labs.heygen.com)
- - date_published: 2024-10-30T00:57:17+00:00
-
- ## HeyGen - AI Video Generator
- - [https://www.heygen.com](https://www.heygen.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Your next trip - stylish, unique, and tailored just for you!
- - [https://heyhaddock.com](https://heyhaddock.com)
- - date_published: 2024-01-24T17:37:18+00:00
-
- ## Halda
- - [https://app.heyhalda.com](https://app.heyhalda.com)
- - date_published: 2024-07-02T10:48:55.481000+00:00
 

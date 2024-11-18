@@ -1,3 +1,15 @@
+ ## Careers at Bright
+ - [https://careersatbright.com](https://careersatbright.com)
+ - date_published: 2023-10-25T13:18:11.594419+00:00
+
+ ## Chase Careers | Find your career at Chase
+ - [https://www.careersatchase.com](https://www.careersatchase.com)
+ - date_published: 2024-05-04T06:12:27.125039+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://careersatilitchcompanies.com](https://careersatilitchcompanies.com)
+ - date_published: 2024-10-12T14:16:57.412595+00:00
+
  ## Careers at Saks | Saks jobs
  - [https://www.careersatsaks.com](https://www.careersatsaks.com)
  - date_published: 2024-07-04T17:29:56.584418+00:00
@@ -4025,16 +4037,4 @@
  ## CD Baby Download Portal - Log In
  - [https://store.cdbaby.com](https://store.cdbaby.com)
  - date_published: 2024-05-10T05:13:50.067628+00:00
-
- ## CD Baby Help Center
- - [https://support.cdbaby.com](https://support.cdbaby.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home - CD Baby
- - [https://www.cdbabylicensing.com](https://www.cdbabylicensing.com)
- - date_published: 2024-07-15T06:04:08.358405+00:00
-
- ## CDC Federal Credit Union
- - [https://www.cdcfcu.com](https://www.cdcfcu.com)
- - date_published: 2024-05-01T05:49:22.488365+00:00
 

@@ -1,3 +1,15 @@
+ ## Conseil
+ - [http://www.fungolf.com](http://www.fungolf.com)
+ - date_published: 2023-08-31T13:20:06+00:00
+
+ ## Fungus
+ - [https://fungusgames.com](https://fungusgames.com)
+ - date_published: 2024-07-13T05:01:55.492955+00:00
+
+ ## Funimation | Help
+ - [https://help.funimation.com](https://help.funimation.com)
+ - date_published: 2024-02-09T00:43:00.986412+00:00
+
  ## Crunchyroll logo
  - [http://www.funimation.com](http://www.funimation.com)
  - date_published: 2024-06-28T11:59:23+00:00
@@ -4038,18 +4050,4 @@
  ## Liam @ GamingOnLinux 🐧🎮 (@gamingonlinux@mastodon.social)
  - [https://follow.gamingonlinux.com](https://follow.gamingonlinux.com)
  - date_published: 2024-05-29T00:00:00+00:00
-
- ## Linux, SteamOS, Steam Deck gaming | GamingOnLinux
- - [https://gamingonlinux.com](https://gamingonlinux.com)
- - date_published: 2024-06-20T19:21:49+00:00
- - tags: ['video game news', 'linux', 'steamos']
-
- ## Home
- - [https://gamingonphone.com](https://gamingonphone.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Gaming Pastime
- - [https://gamingpastime.com](https://gamingpastime.com)
- - date_published: 2024-04-05T00:00:00+00:00
- - tags: ['personal', 'video games']
 

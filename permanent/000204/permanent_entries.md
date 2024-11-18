@@ -1,3 +1,35 @@
+ ## Welcome to The Game Crafter - The world leader in print on demand board games.
+ - [https://thegamecrafter.com](https://thegamecrafter.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## The Game Design Roundtable – A podcast by game designers, for game designers
+ - [https://thegamedesignroundtable.com](https://thegamedesignroundtable.com)
+ - date_published: 2024-05-11T10:40:07.893886+00:00
+
+ ## The Game Haus - Sports & Esports news, from our Haus to yours.
+ - [https://thegamehaus.com](https://thegamehaus.com)
+ - date_published: 2023-10-25T10:50:18.776814+00:00
+
+ ## The Game Nashville
+ - [https://www.thegamenashville.com](https://www.thegamenashville.com)
+ - date_published: 2024-10-18T02:27:33.302325+00:00
+
+ ## The Game Parlour
+ - [https://www.thegameparlour.com](https://www.thegameparlour.com)
+ - date_published: 2024-06-22T18:53:03.818257+00:00
+
+ ## TheGamer - The Leading Source for Gaming News, Reviews, and Interviews
+ - [https://thegamer.com](https://thegamer.com)
+ - date_published: 2024-01-09T02:51:07.611412+00:00
+
+ ## The GaMERCaT
+ - [https://thegamercat.com](https://thegamercat.com)
+ - date_published: 2024-07-15T07:05:14.544703+00:00
+
+ ## The Gamers Echo
+ - [https://thegamersecho.com](https://thegamersecho.com)
+ - date_published: 2024-06-16T01:05:45.157132+00:00
+
  ## The Game Scholar
  - [https://thegamescholar.com](https://thegamescholar.com)
  - date_published: 2024-10-31T15:40:38+00:00
@@ -3996,38 +4028,4 @@ Overview
  ## The Old Reader
  - [https://s.theoldreader.com](https://s.theoldreader.com)
  - date_published: 2024-05-06T17:14:22.852658+00:00
-
- ## The Old Reader
- - [https://theoldreader.com](https://theoldreader.com)
- - date_published: 2023-12-11T07:16:19+00:00
- - tags: ['rss']
-
- ## Robots - The Old Robot's Web Site
- - [http://www.theoldrobots.com](http://www.theoldrobots.com)
- - date_published: 2022-06-11T06:55:02+00:00
-
- ## Expert Dallas Web Design & Digital Marketing | The Old State
- - [https://www.theoldstate.com](https://www.theoldstate.com)
- - date_published: 2024-07-17T02:38:48.864190+00:00
-
- ## The Old World - The Fantasy Miniatures Game
- - [https://theoldworld.com](https://theoldworld.com)
- - date_published: 2024-05-07T14:00:24.243748+00:00
-
- ## The Olive Exclusive All Suite Boutique Hotel Windhoek Namibia
- - [https://www.theolive-namibia.com](https://www.theolive-namibia.com)
- - date_published: 2024-09-16T09:49:49.163215+00:00
-
- ## The Olognion | Matthew Solenya | Substack
- - [https://theolognion.com](https://theolognion.com)
- - date_published: 2024-03-01T10:30:44.530703+00:00
- - tags: ['tech news']
-
- ## Olympia WA Breaking News, Sports & Crime | The Olympian
- - [https://www.theolympian.com](https://www.theolympian.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Olympic Games – The Design
- - [https://www.theolympicdesign.com](https://www.theolympicdesign.com)
- - date_published: 2024-09-05T16:26:58.441633+00:00
 

@@ -1,3 +1,95 @@
+ ## SEA -EU |
+ - [https://sea-eu.ug.edu.pl](https://sea-eu.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:40.381837+00:00
+
+ ## Centrum Wychowania Fizycznego i Sportu | Uniwersytet Gdański - IN MARI VIA TUA
+ - [https://sport.ug.edu.pl](https://sport.ug.edu.pl)
+ - date_published: 2024-07-08T05:08:30+00:00
+
+ ## | Uniwersytet Gdański
+ - [https://ug.edu.pl](https://ug.edu.pl)
+ - date_published: 2024-05-09T04:03:25.696712+00:00
+
+ ## Wydawnictwo Uniwersytetu Gdańskiego - Księgarnia Uniwersytecka online Klub czytelnika
+ - [https://wydawnictwo.ug.edu.pl](https://wydawnictwo.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:53.908326+00:00
+
+ ## Biblioteka Jagiellońska - Uniwersytet Jagielloński
+ - [http://bj.uj.edu.pl](http://bj.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:19.833337+00:00
+
+ ## Strona Główna - Kurs cyberbezpieczeństwa | Uniwersytet Jagielloński - Wydział Matematyki i Informatyki
+ - [https://cybersecurity.matinf.uj.edu.pl](https://cybersecurity.matinf.uj.edu.pl)
+ - date_published: 2024-11-08T11:35:10+00:00
+
+ ## Jagiellonian University - Uniwersytet Jagielloński
+ - [https://en.uj.edu.pl](https://en.uj.edu.pl)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## HRS4R - Uniwersytet Jagielloński
+ - [https://hrs4r.uj.edu.pl](https://hrs4r.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:24.389671+00:00
+
+ ## Strona Główna - Program Strategiczny Inicjatywa Doskonałości w Uniwersytecie Jagiellońskim - Uniwersytet Jagielloński
+ - [https://id.uj.edu.pl](https://id.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:08.331839+00:00
+
+ ## International Visitors' Office - International Visitors' Office - Uniwersytet Jagielloński
+ - [https://international.iro.uj.edu.pl](https://international.iro.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:17.524423+00:00
+
+ ## Obserwatorium Astronomiczne im. Mikołaja Kopernika - Wydział Fizyki, Astronomii i Informatyki Stosowanej
+ - [http://oa.fais.uj.edu.pl](http://oa.fais.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:13.130015+00:00
+
+ ## Portal Uniwersytecki - Uniwersytet Jagielloński
+ - [https://portal.uj.edu.pl](https://portal.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:23.247079+00:00
+
+ ## Solaris - Narodowe Centrum Promieniowania Synchrotronowego SOLARIS - Uniwersytet Jagielloński
+ - [http://synchrotron.uj.edu.pl](http://synchrotron.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:22.011090+00:00
+
+ ## Instytut Fizyki Teoretycznej - Wydział Fizyki, Astronomii i Informatyki Stosowanej
+ - [http://th-www.if.uj.edu.pl](http://th-www.if.uj.edu.pl)
+ - date_published: 2024-06-30T09:14:15.704257+00:00
+
+ ## Strona główna - Uniwersytet Jagielloński
+ - [https://www.uj.edu.pl](https://www.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:05.566441+00:00
+
+ ## Uniwersytet Medyczny w Białymstoku. Strona główna.
+ - [https://www.umb.edu.pl](https://www.umb.edu.pl)
+ - date_published: 2024-09-02T14:18:06.531908+00:00
+
+ ## Advances in Clinical and Experimental Medicine
+ - [https://advances.umw.edu.pl](https://advances.umw.edu.pl)
+ - date_published: 2024-10-16T17:17:21.914204+00:00
+
+ ## Uniwersytet Papieski Jana Pawła II w Krakowie
+ - [http://www.upjp2.edu.pl](http://www.upjp2.edu.pl)
+ - date_published: 2024-08-18T14:08:27.497558+00:00
+
+ ## Uniwersytet Śląski w Katowicach
+ - [https://us.edu.pl](https://us.edu.pl)
+ - date_published: 2019-07-30T11:29:40+00:00
+
+ ## Strona główna - WZUW 50-lecie
+ - [https://50lat.wz.uw.edu.pl](https://50lat.wz.uw.edu.pl)
+ - date_published: 2024-06-17T11:01:30.947883+00:00
+
+ ## Strona Główna - Wydział Zarządzania - Uniwersytet Warszawski - WZ UW
+ - [http://arch.wz.uw.edu.pl](http://arch.wz.uw.edu.pl)
+ - date_published: 2024-06-17T11:01:42.046429+00:00
+
+ ## Biuro ds. Osób z Niepełnosprawnościami Uniwersytetu Warszawskiego
+ - [https://bon.uw.edu.pl](https://bon.uw.edu.pl)
+ - date_published: 2024-10-18T20:21:04.634258+00:00
+
+ ## | University of Warsaw
+ - [http://en.uw.edu.pl](http://en.uw.edu.pl)
+ - date_published: 2024-07-24T03:47:30.370827+00:00
+
  ## Inicjatywa Doskonałości – Uczelnia Badawcza | Uniwersytet Warszawski
  - [https://inicjatywadoskonalosci.uw.edu.pl](https://inicjatywadoskonalosci.uw.edu.pl)
  - date_published: 2024-10-18T20:21:06.322071+00:00
@@ -4002,96 +4094,4 @@ Polska 1939
  ## Chór Polskiego Radia – Lusławice – The Polish Radio Choir – Lusławice/ Witamy serdecznie!
  - [https://chorpolskiegoradia.pl](https://chorpolskiegoradia.pl)
  - date_published: 2024-07-17T08:36:07.250088+00:00
-
- ## Chroń Bałtyk
- - [https://chronbaltyk.pl](https://chronbaltyk.pl)
- - date_published: 2019-11-12T21:48:09+00:00
-
- ## Strona główna | Chroń PESEL
- - [https://chronpesel.pl](https://chronpesel.pl)
- - date_published: 2024-05-11T07:36:54.905061+00:00
-
- ## Serwis ChrońPESEL.pl
- - [https://konto.chronpesel.pl](https://konto.chronpesel.pl)
- - date_published: 2024-07-13T13:53:20.402327+00:00
-
- ## Chrzanowski24.pl: Chrzanów, Trzebinia, Libiąż, Portal Społecznościowo Informacyjny Powiatu Chrzanowskiego - Portal Chrzanowski24.pl
- - [http://chrzanowski24.pl](http://chrzanowski24.pl)
- - date_published: 2024-07-09T13:22:16+00:00
-
- ## Chrześcijanin.pl - Chrześcijański Serwis Informacyjny
- - [https://chrzescijanin.pl](https://chrzescijanin.pl)
- - date_published: 2023-10-25T22:26:26.748789+00:00
-
- ## PIERWSZY TRANSPORT DO KL AUSCHWITZ
- - [http://www.chsro.pl](http://www.chsro.pl)
- - date_published: 2024-08-19T21:15:42.164571+00:00
-
- ## Cichy Fragles
- - [https://cichyfragles.pl](https://cichyfragles.pl)
- - date_published: 2024-07-03T06:30:19.051788+00:00
-
- ## Ciekawewyjazdy
- - [http://www.ciekawewyjazdy.pl](http://www.ciekawewyjazdy.pl)
- - date_published: 2024-09-02T14:21:52.601291+00:00
-
- ## Strona główna
- - [https://ciekawostkihistoryczne.pl](https://ciekawostkihistoryczne.pl)
- - date_published: 2024-07-20T02:43:02+00:00
-
- ## Kanał History - History Poland
- - [http://ci-polsat.pl](http://ci-polsat.pl)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ENERGETYKA, RYNEK ENERGII - CIRE.pl - energetyka zaczyna dzień od CIRE
- - [https://www.cire.pl](https://www.cire.pl)
- - date_published: 2024-07-14T05:27:57.386758+00:00
-
- ## Nałęczów Zdrój Sp. z o.o. Zakład butelkujący wodę Cisowianka
- - [https://www.cisowianka.pl](https://www.cisowianka.pl)
- - date_published: 2024-07-04T12:51:41+00:00
-
- ## Karty kredytowe | Pożyczki | Kredyty | Konta |  Citi Handlowy – Bank Handlowy w Warszawie S.A.
- - [https://www.citibank.pl](https://www.citibank.pl)
- - date_published: 2024-06-10T09:58:34+00:00
-
- ## Karty kredytowe | Pożyczki | Kredyty | Konta |  Citi Handlowy – Bank Handlowy w Warszawie S.A.
- - [https://citibankonline.pl](https://citibankonline.pl)
- - date_published: 2024-09-30T09:21:24+00:00
-
- ## Zakup samochodów dla biznesu i dostawczych | Citroën
- - [https://business.citroen.pl](https://business.citroen.pl)
- - date_published: 2024-07-03T22:53:47+00:00
-
- ## Oficjalna strona Citroëna | Samochody nowe i używane | Citroën PL
- - [https://citroen.pl](https://citroen.pl)
- - date_published: 2024-05-08T05:30:32.566611+00:00
-
- ## Zakup samochodu przez Citroëna
- - [https://odkup.citroen.pl](https://odkup.citroen.pl)
- - date_published: 2024-07-04T07:37:40.746753+00:00
-
- ## Citroën Oferta na samochody dostawcze
- - [https://ofertydostawcze.citroen.pl](https://ofertydostawcze.citroen.pl)
- - date_published: 2024-07-04T07:38:02.927142+00:00
-
- ## Strona Główna - Sklep Citroën
- - [https://sklep.citroen.pl](https://sklep.citroen.pl)
- - date_published: 2024-07-04T07:38:03.982227+00:00
-
- ## Plan obsługowy Producenta - Citroen
- - [https://wizytyserwisowe.citroen.pl](https://wizytyserwisowe.citroen.pl)
- - date_published: 2024-07-04T07:38:02.074761+00:00
-
- ## Citroën Origins
- - [https://www.citroenorigins.pl](https://www.citroenorigins.pl)
- - date_published: 2024-07-04T06:20:38+00:00
-
- ## City Data | Blog - Baza wiedzy, artykuły i informacje dotyczące wdrożenia systemu otwartych danych miejskich
- - [https://blog.citydata.pl](https://blog.citydata.pl)
- - date_published: 2019-04-16T00:00:00+00:00
-
- ## City-Marketing | Outdoor przyjazny miastu
- - [https://city-marketing.pl](https://city-marketing.pl)
- - date_published: 2024-08-18T14:41:10.776756+00:00
 

@@ -1,3 +1,67 @@
+ ## Home | WVU Brand Patterns | West Virginia University
+ - [https://patterns.wvu.edu](https://patterns.wvu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | Department of Philosophy | West Virginia University
+ - [http://philosophy.wvu.edu](http://philosophy.wvu.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## wvuphotos
+ - [https://photos.wvu.edu](https://photos.wvu.edu)
+ - date_published: 2024-07-02T15:30:46.607871+00:00
+
+ ## Home | Institutional Research | West Virginia University
+ - [https://planning.wvu.edu](https://planning.wvu.edu)
+ - date_published: 2024-07-02T15:27:05.299435+00:00
+
+ ## Police | Home
+ - [http://police.wvu.edu](http://police.wvu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Policies | Home
+ - [https://policies.wvu.edu](https://policies.wvu.edu)
+ - date_published: 2024-07-02T15:15:07.480313+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://portal.wvu.edu](https://portal.wvu.edu)
+ - date_published: 2024-05-07T22:40:14.802655+00:00
+
+ ## Project 168 | Home
+ - [https://project168.wvu.edu](https://project168.wvu.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Office of the Provost | Home
+ - [https://provost.wvu.edu](https://provost.wvu.edu)
+ - date_published: 2024-07-02T15:18:08.447716+00:00
+
+ ## PRT (Personal Rapid Transit) | Home
+ - [https://prt.wvu.edu](https://prt.wvu.edu)
+ - date_published: 2024-07-02T15:27:56.496540+00:00
+
+ ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
+ - [https://pschomepage.sandbox.wvu.edu](https://pschomepage.sandbox.wvu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Purpose Center v2 | Home
+ - [https://purpose.wvu.edu](https://purpose.wvu.edu)
+ - date_published: 2024-07-02T15:28:34.882085+00:00
+
+ ## Office of the University Registrar | Home
+ - [http://registrar.wvu.edu](http://registrar.wvu.edu)
+ - date_published: 2024-07-02T15:18:05.375566+00:00
+
+ ## Research Office | Home
+ - [https://research.wvu.edu](https://research.wvu.edu)
+ - date_published: 2024-07-02T15:31:02.521299+00:00
+
+ ## Safety and Wellness | Home
+ - [https://safety.wvu.edu](https://safety.wvu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Search WVU - All Sites
+ - [https://search.wvu.edu](https://search.wvu.edu)
+ - date_published: 2022-05-05T01:17:16+00:00
+
  ## Center for Community Engagement | Home
  - [https://service.wvu.edu](https://service.wvu.edu)
  - date_published: 2024-07-02T15:29:16.115448+00:00
@@ -4001,68 +4065,4 @@
  ## Tu Pet Estilismo de Mascotas
  - [https://tupet.com.es](https://tupet.com.es)
  - date_published: 2024-09-19T19:20:14.634328+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.com.es](https://www.victronenergy.com.es)
- - date_published: 2024-06-21T18:32:18+00:00
-
- ## Palmitair
- - [https://vifema.com.es](https://vifema.com.es)
- - date_published: 2024-09-19T19:19:29.414816+00:00
-
- ## Wash And Dream Lavanderia Autoservicio
- - [https://washanddream.com.es](https://washanddream.com.es)
- - date_published: 2024-09-19T19:23:18.824091+00:00
-
- ## Zaira Rodríguez Estética Avanzada
- - [https://zairarodriguezesteticaavanzada.com.es](https://zairarodriguezesteticaavanzada.com.es)
- - date_published: 2024-09-19T19:14:38.620968+00:00
-
- ## Inicio
- - [https://10code.es](https://10code.es)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## 20minutos.es - El medio social - Última hora, local, España y el mundo
- - [https://www.20minutos.es](https://www.20minutos.es)
- - date_published: 2024-10-30T10:56:50.970778+00:00
-
- ## 3CX. PBX. Chat en Vivo. Video Llamada
- - [https://3cx.es](https://3cx.es)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | 5013.es
- - [https://5013.es](https://5013.es)
- - date_published: 2024-06-19T17:30:47+00:00
-
- ## 7 minutos – Web de actualidad independiente
- - [https://7minutos.es](https://7minutos.es)
- - date_published: 2024-07-13T23:29:35.588919+00:00
-
- ## Calcula en 3 min el valor de su coche | Tasación Abarth
- - [https://tasacion.abarth.es](https://tasacion.abarth.es)
- - date_published: 2024-10-28T20:26:40.230378+00:00
-
- ## Abarth-Sitio Oficial de Abarth España
- - [https://www.abarth.es](https://www.abarth.es)
- - date_published: 2024-06-14T08:46:23+00:00
-
- ## Blogs en ABC.es - ABC.es
- - [https://abcblogs.abc.es](https://abcblogs.abc.es)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## ABC - Últimas noticias de España y el mundo hoy
- - [https://abc.es](https://abc.es)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Oferplan - Descarga la APP
- - [https://app-oferplan.abc.es](https://app-oferplan.abc.es)
- - date_published: 2017-12-14T12:05:40+00:00
-
- ## Oferplan - Descarga la APP
- - [https://app-oferplan.sevilla.abc.es](https://app-oferplan.sevilla.abc.es)
- - date_published: 2017-12-14T12:05:40+00:00
-
- ## Ventajas ABC
- - [https://clubpremium.abc.es](https://clubpremium.abc.es)
- - date_published: 2024-06-15T21:06:43.726776+00:00
 

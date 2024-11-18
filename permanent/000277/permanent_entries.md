@@ -1,3 +1,71 @@
+ ## LibGuides
+ - [https://biblioguias.uic.es](https://biblioguias.uic.es)
+ - date_published: 2024-07-04T03:54:11.278479+00:00
+
+ ## Impars - Impars
+ - [https://impars.uic.es](https://impars.uic.es)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## UIC - Intranet
+ - [https://intranet.uic.es](https://intranet.uic.es)
+ - date_published: 2024-07-04T03:54:03.221237+00:00
+
+ ## UIC – Ningún talento sin futuro
+ - [https://ninguntalentosinfuturo.uic.es](https://ninguntalentosinfuturo.uic.es)
+ - date_published: 2024-07-04T03:54:09.457300+00:00
+
+ ## UIC Barcelona | Universitat Internacional de Catalunya
+ - [https://uic.es](https://uic.es)
+ - date_published: 2024-05-08T04:47:37.701306+00:00
+
+ ## Comité Español UICN
+ - [http://www.uicn.es](http://www.uicn.es)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Universidad Internacional Menéndez Pelayo - UIMP
+ - [https://www.uimp.es](https://www.uimp.es)
+ - date_published: 2024-07-02T17:32:51+00:00
+
+ ## Inicio
+ - [https://www.ujaen.es](https://www.ujaen.es)
+ - date_published: 2024-08-09T06:19:21+00:00
+
+ ## Instituto de Economía Internacional | Universitat Jaume I
+ - [https://iei.uji.es](https://iei.uji.es)
+ - date_published: 2024-10-14T09:12:10+00:00
+
+ ## Càtedra UNESCO de Filosofia per a la Pau
+ - [http://www.cufp.uji.es](http://www.cufp.uji.es)
+ - date_published: 2024-10-15T03:55:27.409463+00:00
+
+ ## Revistes d'investigació
+ - [https://www.e-revistes.uji.es](https://www.e-revistes.uji.es)
+ - date_published: 2024-07-09T08:21:07.492696+00:00
+
+ ## IUDESP - UJI
+ - [https://www.iudesp.uji.es](https://www.iudesp.uji.es)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Universitat Jaume I
+ - [https://www.uji.es](https://www.uji.es)
+ - date_published: 2024-10-15T02:17:25.056074+00:00
+
+ ## Noticias de Ukrinform
+ - [https://www.ukrinform.es](https://www.ukrinform.es)
+ - date_published: 2024-05-02T10:44:10.398983+00:00
+
+ ## The Emulator Framework - EMF
+ - [http://em.ulat.es](http://em.ulat.es)
+ - date_published: 2024-10-20T15:21:58.183808+00:00
+
+ ## Universidad de La Laguna
+ - [http://webpages.ull.es](http://webpages.ull.es)
+ - date_published: 2023-07-10T10:45:24+00:00
+
+ ## Inicio - Universidad de La Laguna
+ - [http://www.ull.es](http://www.ull.es)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Ulysses Murja
  - [https://ulyss.es](https://ulyss.es)
  - date_published: 2020-06-30T16:10:05+00:00
@@ -3953,72 +4021,4 @@
  ## CCC Düsseldorf - ./easter -h -egg 2002
  - [http://eh02.easterhegg.eu](http://eh02.easterhegg.eu)
  - date_published: 2009-07-28T16:59:32+00:00
-
- ## Easter(h)egg 2003
- - [http://eh03.easterhegg.eu](http://eh03.easterhegg.eu)
- - date_published: 2024-08-06T17:33:40.407261+00:00
-
- ## Easterhegg 2004 München
- - [http://eh04.easterhegg.eu](http://eh04.easterhegg.eu)
- - date_published: 2004-06-20T21:25:03+00:00
-
- ## Easterhegg 2005
- - [http://eh05.easterhegg.eu](http://eh05.easterhegg.eu)
- - date_published: 2024-08-06T17:33:41.540890+00:00
-
- ## Easterhegg 2007
- - [http://eh07.easterhegg.eu](http://eh07.easterhegg.eu)
- - date_published: 2024-08-06T17:33:03.310536+00:00
-
- ## EH2008
- - [http://eh08.easterhegg.eu](http://eh08.easterhegg.eu)
- - date_published: 2012-09-04T20:36:54+00:00
-
- ## EH2009: Easterhegg 2009 | Das Chaos Computer Club Familientreffen
- - [http://eh09.easterhegg.eu](http://eh09.easterhegg.eu)
- - date_published: 2024-08-06T17:33:12.155826+00:00
-
- ## Willkommen zum easterhegg 2010
- - [http://eh10.easterhegg.eu](http://eh10.easterhegg.eu)
- - date_published: 2009-11-23T21:52:23+00:00
-
- ## EH2011: Easterhegg 2011 | Das Chaos Computer Club Familientreffen
- - [http://eh11.easterhegg.eu](http://eh11.easterhegg.eu)
- - date_published: 2024-08-06T17:33:38.357920+00:00
-
- ## EH2012: Easterhegg 2012 - The family event
- - [http://eh12.easterhegg.eu](http://eh12.easterhegg.eu)
- - date_published: 2023-04-04T23:17:45+00:00
-
- ## Join the netz39 Discord Server!
- - [http://eh15.easterhegg.eu](http://eh15.easterhegg.eu)
- - date_published: 2024-08-06T01:40:40+00:00
-
- ## Page has moved
- - [http://eh17.easterhegg.eu](http://eh17.easterhegg.eu)
- - date_published: 2017-06-11T17:41:05+00:00
-
- ## EasterHegg 18 - index
- - [http://eh18.easterhegg.eu](http://eh18.easterhegg.eu)
- - date_published: 2024-08-06T17:33:37.553169+00:00
-
- ## start [Easterhegg 2019]
- - [https://eh19.easterhegg.eu](https://eh19.easterhegg.eu)
- - date_published: 2024-08-06T17:33:10.427545+00:00
-
- ## start [EH20 - Back to root]
- - [http://eh20.easterhegg.eu](http://eh20.easterhegg.eu)
- - date_published: 2024-08-06T17:32:47.243192+00:00
-
- ## start [Easterhegg 2024]
- - [https://eh21.easterhegg.eu](https://eh21.easterhegg.eu)
- - date_published: 2024-04-29T05:57:55.736003+00:00
-
- ## start [EH22 - Easterhegg 2025]
- - [https://eh22.easterhegg.eu](https://eh22.easterhegg.eu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Binary Kitchen e.V.
- - [https://tickets.eh21.easterhegg.eu](https://tickets.eh21.easterhegg.eu)
- - date_published: 2024-04-29T05:57:44.500392+00:00
 

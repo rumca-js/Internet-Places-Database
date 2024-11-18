@@ -1,3 +1,98 @@
+ ## Viksit Gaur Online
+ - [https://viksit.org](https://viksit.org)
+ - date_published: 2024-05-07T10:46:09.104307+00:00
+
+ ## VILABET4D: PLATFORM GAME BATTLE ROYALE DENGAN MODE ZOMBIE YANG MENEGANGKAN
+ - [https://vilabet4d.org](https://vilabet4d.org)
+ - date_published: 2024-09-10T13:32:37.373550+00:00
+
+ ## Village Contra
+ - [http://www.villagecontra.org](http://www.villagecontra.org)
+ - date_published: 2024-08-20T05:18:20.017252+00:00
+
+ ## Greenport Village, Long Island, NY - Official Government Website
+ - [http://villageofgreenport.org](http://villageofgreenport.org)
+ - date_published: 2024-06-21T16:42:23.791242+00:00
+
+ ## VillageReach transforms health care delivery to reach everyone.
+ - [http://www.villagereach.org](http://www.villagereach.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## index - powered by h5ai v0.30.0 (https://larsjung.de/h5ai/)
+ - [http://download.villagetelco.org](http://download.villagetelco.org)
+ - date_published: 2017-04-11T00:00:00+00:00
+
+ ## Village Telco - making voice and data communication affordable to anyone
+ - [https://villagetelco.org](https://villagetelco.org)
+ - date_published: 2024-06-14T11:53:31.723922+00:00
+
+ ## Welcome to nginx!
+ - [http://wiki.villagetelco.org](http://wiki.villagetelco.org)
+ - date_published: 2024-08-12T14:28:31+00:00
+
+ ## lead. change.
+ - [https://villarsinstitute.org](https://villarsinstitute.org)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Home | Villa Siena Senior Living Community | Mountain View, CA
+ - [https://villa-siena.org](https://villa-siena.org)
+ - date_published: 2014-05-15T18:27:25+00:00
+
+ ## welcome home : vim online
+ - [https://www.vim.org](https://www.vim.org)
+ - date_published: 2023-10-30T13:50:47.115932+00:00
+ - tags: ['vim', 'open source', 'desktop program', 'programming ide']
+
+ ## Vimcasts - Free screencasts about the text editor Vim
+ - [http://vimcasts.org](http://vimcasts.org)
+ - date_published: 2018-11-26T15:02:21+00:00
+ - tags: ['vim editor']
+
+ ## Vim colors generator
+ - [https://vimcolors.org](https://vimcolors.org)
+ - date_published: 2024-07-10T07:39:59.648134+00:00
+ - tags: ['vim', 'themes']
+
+ ## VimConf
+ - [https://vimconf.org](https://vimconf.org)
+ - date_published: 2024-06-29T12:14:40+00:00
+
+ ## Neovim: help.txt
+ - [https://neo.vimhelp.org](https://neo.vimhelp.org)
+ - date_published: 2024-07-24T07:50:08+00:00
+
+ ## Vim: help.txt
+ - [https://vimhelp.org](https://vimhelp.org)
+ - date_published: 2023-12-29T00:00:01.583497+00:00
+
+ ## Vimperator // Projects
+ - [http://www.vimperator.org](http://www.vimperator.org)
+ - date_published: 2019-11-27T19:45:44+00:00
+
+ ## Index of /
+ - [https://av.vimuser.org](https://av.vimuser.org)
+ - date_published: 2024-05-08T09:35:11.678610+00:00
+
+ ## Leah Rowe's Sleepless Rants – Free Federation, Free Society!
+ - [https://blog.vimuser.org](https://blog.vimuser.org)
+ - date_published: 2023-10-19T00:00:00+00:00
+
+ ## Canoeboot – Canoeboot project
+ - [https://notgnuboot.vimuser.org](https://notgnuboot.vimuser.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Untitled Static Site Generator – Untitled Static Site Generator
+ - [https://untitled.vimuser.org](https://untitled.vimuser.org)
+ - date_published: 2023-12-04T00:00:00+00:00
+
+ ## Leah Rowe's Sleepless Rants – Free Federation, Free Society!
+ - [https://vimuser.org](https://vimuser.org)
+ - date_published: 2023-10-19T00:00:00+00:00
+
+ ## Vincent van Gogh: 300 Paintings Analysis & Complete Works
+ - [https://www.vincentvangogh.org](https://www.vincentvangogh.org)
+ - date_published: 2024-06-26T14:11:23.524522+00:00
+
  ## Vienna International News
  - [https://www.vindobona.org](https://www.vindobona.org)
  - date_published: 2024-09-02T00:00:00+00:00
@@ -2014,6 +2109,7 @@
  ## Wayfire
  - [https://wayfire.org](https://wayfire.org)
  - date_published: 2023-10-25T22:18:47.793906+00:00
+ - tags: ['wayland compositor', 'linux']
 
  ## Waymarked Trails - Cycling
  - [https://cycling.waymarkedtrails.org](https://cycling.waymarkedtrails.org)
@@ -3940,98 +4036,4 @@
  ## WHYY Video
  - [https://video.whyy.org](https://video.whyy.org)
  - date_published: 2024-08-17T00:00:00+00:00
-
- ## WHYY
- - [https://whyy.org](https://whyy.org)
- - date_published: 2024-01-21T00:49:48.850951+00:00
-
- ## Broadband Workforce | Wireless Infrastructure Association
- - [https://broadbandworkforce.wia.org](https://broadbandworkforce.wia.org)
- - date_published: 2024-10-23T06:47:15.954718+00:00
-
- ## Wireless infrastructure association
- - [https://careerpathways.wia.org](https://careerpathways.wia.org)
- - date_published: 2024-10-23T06:47:01.500281+00:00
-
- ## Wireless Infrastructure Association (WIA) | Wireless Trade Association
- - [https://wia.org](https://wia.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Wisconsin Broadcasters Association - Representing Wisconsin’s Broadcasters
- - [https://www.wi-broadcasters.org](https://www.wi-broadcasters.org)
- - date_published: 2024-10-18T22:05:05.095841+00:00
-
- ## Wiby - Search Engine for the Classic Web
- - [https://wiby.org](https://wiby.org)
- - date_published: 2024-06-10T07:08:20.992702+00:00
- - tags: ['search engine']
-
- ## The Beacon: Reporting from Kansas and Missouri you can trust
- - [https://wichitabeacon.org](https://wichitabeacon.org)
- - date_published: 2024-10-29T23:48:01+00:00
-
- ## 世界互联网大会
- - [https://cn.wicinternet.org](https://cn.wicinternet.org)
- - date_published: 2024-06-30T19:55:00.953598+00:00
-
- ## Home - World Institute on Disability
- - [https://wid.org](https://wid.org)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Widelands.org
- - [https://widelands.org](https://widelands.org)
- - date_published: 2024-06-28T18:51:32+00:00
- - tags: ['open source', 'video game']
-
- ## Widelands.org
- - [http://wl.widelands.org](http://wl.widelands.org)
- - date_published: 2024-07-11T12:03:02.445088+00:00
-
- ## Wide Smiles: Making Every Home a Smiling Paradise
- - [https://widesmiles.org](https://widesmiles.org)
- - date_published: 2024-08-07T21:19:15.762306+00:00
-
- ## Widget Logic plugin for Wordpress
- - [https://widgetlogic.org](https://widgetlogic.org)
- - date_published: 2024-08-18T20:42:28.875085+00:00
-
- ## Anna Więckiewicz
- - [https://anna.wieckiewicz.org](https://anna.wieckiewicz.org)
- - date_published: 2024-08-08T15:32:17.773807+00:00
-
- ## Dariusz Więckiewicz 🇵🇱 – Wolny świat, wolne myśly, wolne słowa.
- - [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org)
- - date_published: 2023-10-25T22:20:13.073418+00:00
-
- ## Wi-Fi Alliance
- - [https://www.wi-fi.org](https://www.wi-fi.org)
- - date_published: 2024-06-17T09:37:48.116594+00:00
-
- ## บาคาร่า เกมคาสิโนออนไลน์ ทางเข้าเดิมพัน bkkgaming
- - [https://wifialliance.org](https://wifialliance.org)
- - date_published: 2023-10-31T09:28:54+00:00
-
- ## Web Interface Language
- - [http://wifl.org](http://wifl.org)
- - date_published: 2024-07-07T10:13:12.749230+00:00
-
- ## Wiibrew Forums
- - [http://forum.wiibrew.org](http://forum.wiibrew.org)
- - date_published: 2024-06-29T07:09:25.914449+00:00
-
- ## WiiBrew
- - [https://wiibrew.org](https://wiibrew.org)
- - date_published: 2024-05-07T09:44:07.555240+00:00
-
- ## WiiUBrew
- - [https://wiiubrew.org](https://wiiubrew.org)
- - date_published: 2024-05-03T18:41:13+00:00
-
- ## WikEM
- - [http://wikem.org](http://wikem.org)
- - date_published: 2024-07-06T23:47:39.502160+00:00
-
- ## Welcome Visitors
- - [http://ward.fed.wiki.org](http://ward.fed.wiki.org)
- - date_published: 2024-02-08T17:46:31.671429+00:00
 

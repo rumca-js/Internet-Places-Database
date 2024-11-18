@@ -1,3 +1,7 @@
+ ## UEFA EURO, Fifa world cup, World Cup babe , football & soccer game
+ - [http://euro2008spirit.blogspot.com](http://euro2008spirit.blogspot.com)
+ - date_published: 2024-03-14T09:03:20+00:00
+
  ## europæus|law
  - [http://europaeuslaw.blogspot.com](http://europaeuslaw.blogspot.com)
  - date_published: 2024-06-10T07:54:52+00:00
@@ -4009,8 +4013,4 @@
  ## Hive Fleet Erebus
  - [http://hivefleeterebus.blogspot.com](http://hivefleeterebus.blogspot.com)
  - date_published: 2024-09-14T16:56:10+00:00
-
- ## The Lost Chapter
- - [http://hiveminionshobbyblog.blogspot.com](http://hiveminionshobbyblog.blogspot.com)
- - date_published: 2024-09-11T01:16:54+00:00
 

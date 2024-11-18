@@ -1,3 +1,95 @@
+ ## Terras de Viseu - Imprensa Regional
+ - [https://terrasdeviseu.sapo.pt](https://terrasdeviseu.sapo.pt)
+ - date_published: 2024-09-05T15:01:37.686645+00:00
+
+ ## Notícias na sua mão | Terras do Minho
+ - [https://terrasdominho.sapo.pt](https://terrasdominho.sapo.pt)
+ - date_published: 2024-09-05T15:03:20.957312+00:00
+
+ ## Todos os dias trazem qualquer coisa
+ - [https://todosdias.blogs.sapo.pt](https://todosdias.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:29:55.614390+00:00
+
+ ## SAPO Transfer - A forma fácil e grátis de enviar ficheiros grandes
+ - [https://transfer.sapo.pt](https://transfer.sapo.pt)
+ - date_published: 2024-06-10T06:57:23.320541+00:00
+
+ ## TRAVELMAGG
+ - [https://travelmagg.sapo.pt](https://travelmagg.sapo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## TV Televisão do Centro
+ - [https://tvc.sapo.pt](https://tvc.sapo.pt)
+ - date_published: 2024-06-10T06:56:11.325904+00:00
+
+ ## valsousatv.sapo.pt - Vale do Sousa TV
+ - [https://valsousatv.sapo.pt](https://valsousatv.sapo.pt)
+ - date_published: 2024-06-10T07:00:27.281288+00:00
+
+ ## SAPO Viagens
+ - [https://viagens.sapo.pt](https://viagens.sapo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## SAPO Vídeos
+ - [https://videos.sapo.pt](https://videos.sapo.pt)
+ - date_published: 2024-05-07T23:39:41.906819+00:00
+
+ ## VMTV
+ - [https://vieiradominhotv.sapo.pt](https://vieiradominhotv.sapo.pt)
+ - date_published: 2024-06-10T06:56:34.199294+00:00
+
+ ## Home Page
+ - [https://viralcheck.sapo.pt](https://viralcheck.sapo.pt)
+ - date_published: 2020-07-23T14:11:01+00:00
+
+ ## Home Page
+ - [https://viral.sapo.pt](https://viral.sapo.pt)
+ - date_published: 2020-07-23T14:11:01+00:00
+
+ ## Visto de Macau
+ - [http://vistodemacau.blogs.sapo.pt](http://vistodemacau.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:33:03.456529+00:00
+
+ ## VMTV
+ - [https://vmtv.sapo.pt](https://vmtv.sapo.pt)
+ - date_published: 2024-09-05T14:59:20.036783+00:00
+
+ ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
+ - [https://xp.sapo.pt](https://xp.sapo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Mastodon
+ - [https://schelling.pt](https://schelling.pt)
+ - date_published: 2024-05-09T07:38:34.919157+00:00
+
+ ## Igreja Oficial de Scientology: L. Ron Hubbard, Dianética: O que é Scientology?, Livros, Crenças, David Miscavige
+ - [https://scientology.pt](https://scientology.pt)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Teste de Personalidade
+ - [https://www.oca.scientology.pt](https://www.oca.scientology.pt)
+ - date_published: 2024-06-17T16:41:00.003726+00:00
+
+ ## Religião de Scientology: Antecedentes, Teologia e Prática Religiosa
+ - [https://www.scientologyreligion.pt](https://www.scientologyreligion.pt)
+ - date_published: 2024-06-06T19:41:26.748536+00:00
+
+ ## SCMAH
+ - [http://scmah.pt](http://scmah.pt)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Líder em formação e consultoria em negociação | Scotwork
+ - [https://www.scotwork.pt](https://www.scotwork.pt)
+ - date_published: 2024-06-18T09:42:28.291927+00:00
+
+ ## Security Magazine - Revista dos profissionais de segurança - Portugal
+ - [https://www.securitymagazine.pt](https://www.securitymagazine.pt)
+ - date_published: 2024-06-28T22:09:06+00:00
+
+ ## Últimas tendências e desenvolvimentos  - senhorpodcast.pt
+ - [https://senhorpodcast.pt](https://senhorpodcast.pt)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Loja online da Fundação Serralves
  - [https://loja.serralves.pt](https://loja.serralves.pt)
  - date_published: 2024-09-13T19:51:21.695077+00:00
@@ -3943,97 +4035,4 @@
  ## Panorama - The Business of Tomorrow
  - [https://panorama.ro](https://panorama.ro)
  - date_published: 2024-10-18T23:54:14.001088+00:00
-
- ## YOUth Parlamentor
- - [https://www.parlamentor.ro](https://www.parlamentor.ro)
- - date_published: 2024-06-17T11:28:44.010226+00:00
-
- ## Soluții pentru servicii financiare pentru piețe cu creștere înaltă | PayU Romania
- - [https://secure.payu.ro](https://secure.payu.ro)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## PayU Romania Status
- - [https://status.payu.ro](https://status.payu.ro)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Pedro Duarte's Personal Website
- - [https://ped.ro](https://ped.ro)
- - date_published: 2024-07-09T19:28:45.523150+00:00
-
- ## Toate filmele și serialele Netflix - PeNetflix.ro
- - [https://www.penetflix.ro](https://www.penetflix.ro)
- - date_published: 2024-09-02T11:17:48.041453+00:00
-
- ## PERI România SRL - Cofraje si eșafodaje
- - [https://www.peri.ro](https://www.peri.ro)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Peroz.ro
- - [https://www.peroz.ro](https://www.peroz.ro)
- - date_published: 2024-08-18T08:47:43.196596+00:00
-
- ## Philips Romania - Electronice si Electrocasnice | Philips
- - [https://www.philips.ro](https://www.philips.ro)
- - date_published: 2024-10-30T16:56:53+00:00
-
- ## Graphite's little corner of the web
- - [https://gra.phite.ro](https://gra.phite.ro)
- - date_published: 2024-01-15T17:20:15.225712+00:00
-
- ## A very eepy shomnk
- - [https://shonk.phite.ro](https://shonk.phite.ro)
- - date_published: 2024-08-18T02:48:53.629939+00:00
-
- ## Felix at Home
- - [https://felix.plesoianu.ro](https://felix.plesoianu.ro)
- - date_published: 2023-11-15T17:46:44.714694+00:00
- - tags: ['personal']
-
- ## Programul Operational Capacitate Administrativa - POCA
- - [http://www.poca.ro](http://www.poca.ro)
- - date_published: 2024-06-29T09:05:48.234802+00:00
-
- ## ZALCHEM produse de curățare, produse chimice de uz casnic. Polonia
- - [http://zalchem.polfirms.ro](http://zalchem.polfirms.ro)
- - date_published: 2020-05-03T16:08:05+00:00
-
- ## Acasă - Poșta Română
- - [https://www.posta-romana.ro](https://www.posta-romana.ro)
- - date_published: 2024-09-24T11:21:09.347378+00:00
-
- ## Create an online shop easily - Ecommerce
- - [https://prestashop.ro](https://prestashop.ro)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## Prieten de vreme rea
- - [http://prietendevremerea.ro](http://prietendevremerea.ro)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Cele mai importante informații economice pe PROFIT.ro
- - [https://www.profit.ro](https://www.profit.ro)
- - date_published: 2024-10-18T23:53:59.498999+00:00
-
- ## ProFM.ro
- - [https://www.profm.ro](https://www.profm.ro)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## MobyLab | MobyLab
- - [https://mobylab.docs.crescdi.pub.ro](https://mobylab.docs.crescdi.pub.ro)
- - date_published: 2024-09-22T13:54:55+00:00
-
- ## Digi Storage - Conectare
- - [https://storage.rcs-rds.ro](https://storage.rcs-rds.ro)
- - date_published: 2024-08-17T23:00:26.318616+00:00
-
- ## Digi
- - [http://www.rcs-rds.ro](http://www.rcs-rds.ro)
- - date_published: 2024-07-05T06:26:26+00:00
-
- ## revo.js
- - [https://revojs.ro](https://revojs.ro)
- - date_published: 2024-01-20T09:11:21+00:00
-
- ## Rise Project • comunitate independentă de jurnaliști
- - [https://www.riseproject.ro](https://www.riseproject.ro)
- - date_published: 2024-10-18T23:54:25.843151+00:00
 

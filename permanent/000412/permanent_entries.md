@@ -1,3 +1,99 @@
+ ## Epoch Times Slovensko
+ - [https://www.epochtimes.sk](https://www.epochtimes.sk)
+ - date_published: 2024-05-06T16:43:03.695545+00:00
+
+ ## Vlastný e-shop ľahko a rýchlo | Eshop-rychlo.sk
+ - [http://www.eshop-rychlo.sk](http://www.eshop-rychlo.sk)
+ - date_published: 2024-07-01T10:12:48.417652+00:00
+
+ ## Etigroup
+ - [https://www.etielektroelement.sk](https://www.etielektroelement.sk)
+ - date_published: 2024-09-02T14:24:17+00:00
+
+ ## Týždenník o ekonomike a podnikaní - TREND.sk
+ - [http://etrend.sk](http://etrend.sk)
+ - date_published: 2024-07-14T11:08:30.990421+00:00
+
+ ## euractiv.sk
+ - [https://euractiv.sk](https://euractiv.sk)
+ - date_published: 2024-06-17T11:29:24.375413+00:00
+
+ ## Plánované podujatia
+ - [https://podujatia.euractiv.sk](https://podujatia.euractiv.sk)
+ - date_published: 2024-06-17T11:29:22+00:00
+
+ ## Eurodesk - Informujeme všetkých mladých ľudí o možnostiach ako spoznávať svet
+ - [https://eurodesk.sk](https://eurodesk.sk)
+ - date_published: 2024-09-15T20:56:01.895155+00:00
+
+ ## eventim.sk: Vstupenky na koncerty, šport, kultúru a iné podujatia
+ - [https://eventim.sk](https://eventim.sk)
+ - date_published: 2024-05-23T19:07:21.290211+00:00
+
+ ## Vitajte na stránke značky Fiat
+ - [https://fiat.fai-formulare.sk](https://fiat.fai-formulare.sk)
+ - date_published: 2024-10-28T20:55:42.937886+00:00
+
+ ## Home - FANUC Academy Slovakia
+ - [https://www.fanuc-academy.sk](https://www.fanuc-academy.sk)
+ - date_published: 2023-11-24T00:00:00+00:00
+
+ ## Oficiálna stránka Fiat Slovenská republika
+ - [https://www.fiat.sk](https://www.fiat.sk)
+ - date_published: 2024-06-16T20:38:36+00:00
+
+ ## Domov - Fiat Dolce Výlet
+ - [https://fiatdolcevylet.sk](https://fiatdolcevylet.sk)
+ - date_published: 2024-10-28T20:55:25.950803+00:00
+
+ ## Fiok.sk
+ - [https://fiok.sk](https://fiok.sk)
+ - date_published: 2024-07-08T14:40:36.937046+00:00
+
+ ## Flatio - Pronájmy pro digitální nomády
+ - [https://www.flatio.sk](https://www.flatio.sk)
+ - date_published: 2024-06-25T17:39:23.430614+00:00
+
+ ## Cestovanie autobusom po Európe | FlixBus
+ - [https://www.flixbus.sk](https://www.flixbus.sk)
+ - date_published: 2024-06-28T10:09:53+00:00
+
+ ## Domov - Fakulta masmediálnej komunikácie
+ - [https://fmk.sk](https://fmk.sk)
+ - date_published: 2024-07-02T22:45:06.138597+00:00
+
+ ## Home Page
+ - [http://www.forbes.sk](http://www.forbes.sk)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Summit Motors Slovakia | Ford Slovensko
+ - [https://ford.sk](https://ford.sk)
+ - date_published: 2024-10-29T21:41:51.052988+00:00
+
+ ## Summit Motors Slovakia | Ford Slovensko
+ - [http://www.ford.sk](http://www.ford.sk)
+ - date_published: 2024-06-19T17:01:03.531715+00:00
+
+ ## Forpsi Cloud | Cloud Computing | Cloudové služby | ForpsiCloud.cz | ForpsiCloud.sk
+ - [https://www.forpsicloud.sk](https://www.forpsicloud.sk)
+ - date_published: 2024-10-21T10:02:31.957665+00:00
+
+ ## FreeFood
+ - [http://www.freefood.sk](http://www.freefood.sk)
+ - date_published: 2024-07-02T23:43:07.056188+00:00
+
+ ## Gamers.sk
+ - [https://www.gamers.sk](https://www.gamers.sk)
+ - date_published: 2024-09-16T02:19:52+00:00
+
+ ## Prirodzená starostlivosť o pleť, vlasy a farby na vlasy | Garnier
+ - [http://www.garnier.sk](http://www.garnier.sk)
+ - date_published: 2024-10-30T17:02:16.222773+00:00
+
+ ## Grafický dizajn a tvorba webov vo WordPress | GASPYNKO
+ - [https://www.gaspynko.sk](https://www.gaspynko.sk)
+ - date_published: 2024-10-22T13:23:24.703383+00:00
+
  ## Gomibo.sk - All phones and accessories
  - [https://www.gomibo.sk](https://www.gomibo.sk)
  - date_published: 2024-10-21T22:25:42.288693+00:00
@@ -3956,100 +4052,4 @@ conflicts of interest and restore Community Trust.
  ## lavender software | digital product studio
  - [https://lavender.software](https://lavender.software)
  - date_published: 2022-08-28T06:33:32+00:00
-
- ## lil
- - [https://lil.software](https://lil.software)
- - date_published: 2024-07-09T19:17:00.130602+00:00
-
- ## The Lovely Software Corp.
- - [https://lovely.software](https://lovely.software)
- - date_published: 2024-07-14T08:29:27.697769+00:00
-
- ## Make Better Software
- - [https://makebetter.software](https://makebetter.software)
- - date_published: 2024-06-03T11:17:57.344061+00:00
-
- ## Home | Sequoia McDowell
- - [https://sequoia.makes.software](https://sequoia.makes.software)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## MyWorks - Automating WooCommerce & Shopify Accounting
- - [https://myworks.software](https://myworks.software)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## MyWorks Help Center Support
- - [https://support.myworks.software](https://support.myworks.software)
- - date_published: 2024-10-19T17:55:42.637967+00:00
-
- ## Nik Spyratos
- - [https://nik.software](https://nik.software)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## !Boring Software
- - [https://www.notboring.software](https://www.notboring.software)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## PreSonus Software
- - [https://presonus.software](https://presonus.software)
- - date_published: 2024-05-07T09:14:43.332427+00:00
-
- ## The Landing
- - [https://princess.software](https://princess.software)
- - date_published: 2024-07-23T23:39:26.251358+00:00
-
- ## Race Condition
- - [https://racecondition.software](https://racecondition.software)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Replay Software
- - [https://replay.software](https://replay.software)
- - date_published: 2024-06-23T07:01:34.835493+00:00
-
- ## REUSE API - Easy REUSE compliance check
- - [https://api.reuse.software](https://api.reuse.software)
- - date_published: 2024-10-07T19:04:54.954295+00:00
-
- ## REUSE - Make licensing easy for everyone
- - [https://reuse.software](https://reuse.software)
- - date_published: 2024-10-15T16:31:05+00:00
-
- ## Welcome to SCONE [SCONE]
- - [https://scone.software](https://scone.software)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Spectra Assure documentation by ReversingLabs
- - [https://docs.secure.software](https://docs.secure.software)
- - date_published: 2024-08-01T09:10:31+00:00
-
- ## ReversingLabs secure.software Software Supply Chain Security
- - [https://secure.software](https://secure.software)
- - date_published: 2024-04-28T04:51:33.810874+00:00
-
- ## cellenia
- - [https://random.skyrocket.software](https://random.skyrocket.software)
- - date_published: 2024-07-03T18:02:10.367231+00:00
-
- ## SkyRocket Software
- - [https://skyrocket.software](https://skyrocket.software)
- - date_published: 2024-03-20T16:28:20+00:00
-
- ## Spartner - Innovation partner custom software development
- - [https://spartner.software](https://spartner.software)
- - date_published: 2024-09-09T16:28:40.535102+00:00
-
- ## steinhauer.software GmbH- Ihr IT- und Software-Partner
- - [https://steinhauer.software](https://steinhauer.software)
- - date_published: 2023-02-23T16:07:02+00:00
-
- ## Sustainable SuiteScript
- - [https://stoic.software](https://stoic.software)
- - date_published: 2024-05-11T10:19:16.664274+00:00
-
- ## switching.software
- - [https://switching.software](https://switching.software)
- - date_published: 2024-06-30T20:14:30+00:00
-
- ## Home
- - [https://symbolic.software](https://symbolic.software)
- - date_published: 2024-06-13T05:41:29+00:00
 

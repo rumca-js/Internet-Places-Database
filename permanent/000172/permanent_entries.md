@@ -1,3 +1,24 @@
+ ## Python Test
+ - [https://podcast.pythontest.com](https://podcast.pythontest.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## pythontest.com
+ - [https://pythontest.com](https://pythontest.com)
+ - date_published: 2023-10-25T16:43:00.662988+00:00
+ - tags: ['pytest', 'testing framework', 'python']
+
+ ## Intermediate Python — Python Tips 0.1 documentation
+ - [https://book.pythontips.com](https://book.pythontips.com)
+ - date_published: 2021-01-29T06:24:46+00:00
+
+ ## Yasoob Khalid
+ - [https://pythontips.com](https://pythontips.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Online Python Tutor - visualize, debug, get AI help for Python, Java, C, C++, and JavaScript
+ - [https://pythontutor.com](https://pythontutor.com)
+ - date_published: 2024-04-28T03:13:38.268628+00:00
+
  ## Python Web Conf 2020
  - [https://2020.pythonwebconf.com](https://2020.pythonwebconf.com)
  - date_published: 2020-12-04T05:40:33+00:00
@@ -4020,24 +4041,4 @@
  ## Parental control and digital wellbeing software
  - [https://www.qustodio.com](https://www.qustodio.com)
  - date_published: 2024-08-28T00:00:00+00:00
-
- ## quuxTodo
- - [https://quuxtodo.com](https://quuxtodo.com)
- - date_published: 2020-01-02T00:00:00+00:00
-
- ## quwex's blog
- - [https://quwex.com](https://quwex.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## QVALON Home | Mobile retail solution
- - [https://qvalon.com](https://qvalon.com)
- - date_published: 2024-09-25T04:45:06+00:00
-
- ## Blogs & Forums
- - [https://community.qvc.com](https://community.qvc.com)
- - date_published: 2024-06-29T14:37:44.395283+00:00
-
- ## Home - QVC
- - [https://corporate.qvc.com](https://corporate.qvc.com)
- - date_published: 2017-12-07T00:00:00+00:00
 

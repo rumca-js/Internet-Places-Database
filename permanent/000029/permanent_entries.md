@@ -1,3 +1,7 @@
+ ## 河北省机关事务管理局欢迎您！
+ - [http://swj.hebei.gov.cn](http://swj.hebei.gov.cn)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## 河北省统计局
  - [http://tjj.hebei.gov.cn](http://tjj.hebei.gov.cn)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## 重庆社会主义学院
  - [https://www.cqsy.net.cn](https://www.cqsy.net.cn)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## 中国钨业协会官方网站
- - [https://www.ctia.net.cn](https://www.ctia.net.cn)
- - date_published: 2024-06-27T05:30:35.906349+00:00
 

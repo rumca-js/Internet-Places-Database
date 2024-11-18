@@ -1,3 +1,20 @@
+ ## App Builder | Create an App for Events, Enterprise, EDU | Guidebook
+ - [https://guidebook.com](https://guidebook.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## GUIDEcx – The Best Client Onboarding Software for New Customers
+ - [https://www.guidecx.com](https://www.guidecx.com)
+ - date_published: 2024-08-06T19:34:17.759689+00:00
+
+ ## GuidedHacking - Learn Reverse Engineering & Game Hacking
+ - [https://guidedhacking.com](https://guidedhacking.com)
+ - date_published: 2024-03-19T14:36:25+00:00
+ - tags: ['reverse engineering', 'game hacking']
+
+ ## Attention Required! | Cloudflare
+ - [http://www.guidedogs.com](http://www.guidedogs.com)
+ - date_published: 2024-06-30T09:58:12.363009+00:00
+
  ## GuidedTrack | Home
  - [https://guidedtrack.com](https://guidedtrack.com)
  - date_published: 2024-06-20T22:42:53.007158+00:00
@@ -4022,20 +4039,4 @@
  ## Original (and some replica) Movie Props
  - [https://props.handheldmuseum.com](https://props.handheldmuseum.com)
  - date_published: 2018-06-27T01:00:30+00:00
-
- ## HAND – Human & Digital
- - [https://www.handidentity.com](https://www.handidentity.com)
- - date_published: 2024-08-18T19:44:53.823514+00:00
-
- ## H&I TV Network
- - [https://www.handitv.com](https://www.handitv.com)
- - date_published: 2024-05-04T10:12:57.835970+00:00
-
- ## Handlebars
- - [https://handlebarsjs.com](https://handlebarsjs.com)
- - date_published: 2024-05-08T05:46:09.088821+00:00
-
- ## HandleFinder
- - [https://www.handlefinder.com](https://www.handlefinder.com)
- - date_published: 2023-10-25T14:55:48.125345+00:00
 

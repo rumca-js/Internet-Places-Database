@@ -1,3 +1,59 @@
+ ## The Ford Library at Duke University's Fuqua School of Business
+ - [https://library.fuqua.duke.edu](https://library.fuqua.duke.edu)
+ - date_published: 2024-10-16T09:13:43.303053+00:00
+
+ ## Duke Learning Innovation
+ - [https://lile.duke.edu](https://lile.duke.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Duke University Mailing Lists - home
+ - [https://lists.duke.edu](https://lists.duke.edu)
+ - date_published: 2016-02-17T00:00:00+00:00
+
+ ## Duke | Log In
+ - [https://login.mclibrary.duke.edu](https://login.mclibrary.duke.edu)
+ - date_published: 2024-10-16T09:16:18.345316+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.proxy.lib.duke.edu](https://login.proxy.lib.duke.edu)
+ - date_published: 2024-09-26T18:01:46.243035+00:00
+
+ ## Coming Soon
+ - [https://lynchlab.pratt.duke.edu](https://lynchlab.pratt.duke.edu)
+ - date_published: 2024-07-13T03:20:56.627074+00:00
+
+ ## Duke University Maps
+ - [https://maps.duke.edu](https://maps.duke.edu)
+ - date_published: 2024-04-30T04:13:53.296268+00:00
+
+ ## Front Page | Department of Mathematics
+ - [https://math.duke.edu](https://math.duke.edu)
+ - date_published: 2024-07-12T23:24:02+00:00
+
+ ## Welcome | Duke Medical Center Archives
+ - [https://mcarchives.duke.edu](https://mcarchives.duke.edu)
+ - date_published: 2024-07-18T15:01:52+00:00
+
+ ## Welcome | Duke University Medical Center Library Online
+ - [https://mclibrary.duke.edu](https://mclibrary.duke.edu)
+ - date_published: 2024-06-17T03:17:33+00:00
+
+ ## Duke University School of Medicine
+ - [https://medschool.duke.edu](https://medschool.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Index Homepage // MEDSpace
+ - [https://medspace.mc.duke.edu](https://medspace.mc.duke.edu)
+ - date_published: 2024-10-16T09:14:14.416571+00:00
+
+ ## Front Page | Duke Mfaeda
+ - [https://mfaeda.duke.edu](https://mfaeda.duke.edu)
+ - date_published: 2024-06-16T07:12:05+00:00
+
+ ## Home | Duke Department of Molecular Genetics and Microbiology
+ - [https://mgm.duke.edu](https://mgm.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## Duke | Log In
  - [https://mrh.duke.edu](https://mrh.duke.edu)
  - date_published: 2024-08-18T07:30:02.933941+00:00
@@ -3944,61 +4000,4 @@
  ## Center for the Middle East and International Law – Center for the Middle East and International Law
  - [https://cmeil.gmu.edu](https://cmeil.gmu.edu)
  - date_published: 2024-07-21T23:20:27.896286+00:00
-
- ## Student Success Coaching | On the journey with you!
- - [https://coaching.gmu.edu](https://coaching.gmu.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Home
- - [https://communicationcenter.gmu.edu](https://communicationcenter.gmu.edu)
- - date_published: 2024-08-11T12:14:26.659764+00:00
-
- ## home
- - [https://communication.gmu.edu](https://communication.gmu.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## 2024 Peak Bloom Predictions - International Cherry Blossom Prediction Competition
- - [https://competition.statistics.gmu.edu](https://competition.statistics.gmu.edu)
- - date_published: 2024-03-01T20:30:41+00:00
-
- ## Home
- - [https://computing.gmu.edu](https://computing.gmu.edu)
- - date_published: 2024-04-30T04:25:46.875464+00:00
-
- ## Home
- - [https://construction.gmu.edu](https://construction.gmu.edu)
- - date_published: 2024-07-21T17:02:47+00:00
-
- ## Contemporary Student Services – Contemporary Student Services
- - [https://contemporary.gmu.edu](https://contemporary.gmu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home
- - [https://content.sitemasonry.gmu.edu](https://content.sitemasonry.gmu.edu)
- - date_published: 2024-04-30T04:28:19.070514+00:00
-
- ## Corley Institute
- - [https://corleyinstitute.gmu.edu](https://corleyinstitute.gmu.edu)
- - date_published: 2024-07-21T23:20:35.938553+00:00
-
- ## Home
- - [https://cpe.gmu.edu](https://cpe.gmu.edu)
- - date_published: 2024-08-11T12:13:40.192708+00:00
-
- ## Corner Pocket - George Mason University Student Centers
- - [https://cp.gmu.edu](https://cp.gmu.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Yotam Gingold - Computational Reality, Creativity and Graphics Lab (CraGL)
- - [https://cragl.cs.gmu.edu](https://cragl.cs.gmu.edu)
- - date_published: 2024-04-28T03:54:50.045737+00:00
-
- ## Home |
-             George Mason Department of Computer Science
- - [https://cs.gmu.edu](https://cs.gmu.edu)
- - date_published: 2024-01-09T02:59:13.641642+00:00
-
- ## MASON ARTS EVENT CALENDAR
- - [https://cvpa.calendar.gmu.edu](https://cvpa.calendar.gmu.edu)
- - date_published: 2024-07-10T00:00:00+00:00
 

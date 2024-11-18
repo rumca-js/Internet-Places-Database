@@ -1,3 +1,76 @@
+ ## Health
+ - [https://health.ct.gov](https://health.ct.gov)
+ - date_published: 2024-09-18T20:27:01.017553+00:00
+
+ ## Jobs.CT.Gov
+ - [https://jobs.ct.gov](https://jobs.ct.gov)
+ - date_published: 2024-09-18T20:25:48.193030+00:00
+
+ ## Connecticut Judicial Branch
+ - [http://jud.ct.gov](http://jud.ct.gov)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## CT.GOV-Connecticut's Official State Website
+ - [https://portal.ct.gov](https://portal.ct.gov)
+ - date_published: 2024-06-15T17:45:11.585758+00:00
+
+ ## Connecticut General Assembly
+ - [http://www.cga.ct.gov](http://www.cga.ct.gov)
+ - date_published: 2024-06-26T21:41:08.286418+00:00
+
+ ## Asistencia local para la solicitud de seguro de salud
+ - [https://ayudalocal.cuidadodesalud.gov](https://ayudalocal.cuidadodesalud.gov)
+ - date_published: 2024-09-27T08:33:47.730556+00:00
+
+ ## ¿Aún necesita seguro médico?
+ - [https://www.cuidadodesalud.gov](https://www.cuidadodesalud.gov)
+ - date_published: 2024-06-13T16:10:39+00:00
+
+ ## The Official Government Website of Cuyahoga County
+ - [https://www.cuyahogacounty.gov](https://www.cuyahogacounty.gov)
+ - date_published: 2024-06-20T12:59:06.142128+00:00
+
+ ## Darien, CT | Official Website
+ - [https://www.darienct.gov](https://www.darienct.gov)
+ - date_published: 2024-07-01T23:24:06.882734+00:00
+
+ ## api.data.gov
+ - [https://api.data.gov](https://api.data.gov)
+ - date_published: 2023-11-20T17:24:11+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://catalog.data.gov](https://catalog.data.gov)
+ - date_published: 2024-06-21T10:43:08.467100+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://data.gov](https://data.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | resources.data.gov
+ - [https://resources.data.gov](https://resources.data.gov)
+ - date_published: 2024-04-01T17:11:42+00:00
+
+ ## Welcome - Federal Data Strategy
+ - [https://strategy.data.gov](https://strategy.data.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Data Privacy Framework
+ - [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov)
+ - date_published: 2024-04-16T21:10:26+00:00
+
+ ## Home
+		 · DC Business Portal
+ - [https://business.dc.gov](https://business.dc.gov)
+ - date_published: 2024-06-29T15:22:34.678689+00:00
+
+ ## HELC
+ - [https://helc.osse.dc.gov](https://helc.osse.dc.gov)
+ - date_published: 2024-04-30T04:56:20.786151+00:00
+
+ ## Office of Attorney General for the District of Columbia | Attorney General Brian Schwalb
+ - [https://oag.dc.gov](https://oag.dc.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Open Data DC
  - [https://opendata.dc.gov](https://opendata.dc.gov)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -3954,76 +4027,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Representative Swalwell
  - [https://swalwell.house.gov](https://swalwell.house.gov)
  - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home | U.S. Congresswoman Emilia Sykes
- - [https://sykes.house.gov](https://sykes.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Sylvia Garcia
- - [https://sylviagarcia.house.gov](https://sylviagarcia.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | U.S. Congressman Mark Takano of California's 39th District
- - [https://takano.house.gov](https://takano.house.gov)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Representative Claudia Tenney
- - [https://tenney.house.gov](https://tenney.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | U.S. Congressman Shri Thanedar
- - [https://thanedar.house.gov](https://thanedar.house.gov)
- - date_published: 2024-06-27T14:17:31.132460+00:00
-
- ## Representative Thompson
- - [https://thompson.house.gov](https://thompson.house.gov)
- - date_published: 2024-06-27T14:13:06.197499+00:00
-
- ## Representative Tom Tiffany
- - [https://tiffany.house.gov](https://tiffany.house.gov)
- - date_published: 2024-06-27T14:01:59.554453+00:00
-
- ## Congressman William Timmons
- - [https://timmons.house.gov](https://timmons.house.gov)
- - date_published: 2024-06-27T14:23:43+00:00
-
- ## Congresswoman Dina Titus
- - [https://titus.house.gov](https://titus.house.gov)
- - date_published: 2024-05-06T17:11:50.911626+00:00
-
- ## Home - Rashida Tlaib
- - [https://tlaib.house.gov](https://tlaib.house.gov)
- - date_published: 2024-06-27T13:59:25.005625+00:00
-
- ## Representative Jill Tokuda
- - [https://tokuda.house.gov](https://tokuda.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## U.S. Representative Paul Tonko
- - [https://tonko.house.gov](https://tonko.house.gov)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home | U.S. Congresswoman Norma Torres of California's 35th District
- - [https://torres.house.gov](https://torres.house.gov)
- - date_published: 2024-06-27T14:17:12.277719+00:00
-
- ## U.S. Representative Lori Trahan
- - [https://trahan.house.gov](https://trahan.house.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Transportation and Infrastructure Committee
- - [https://transportation.house.gov](https://transportation.house.gov)
- - date_published: 2024-06-27T14:17:00+00:00
-
- ## U.S. Representative Trent Kelly
- - [https://trentkelly.house.gov](https://trentkelly.house.gov)
- - date_published: 2024-06-27T14:09:46+00:00
-
- ## Home - Congressman David Trone
- - [https://trone.house.gov](https://trone.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Representative Troy Carter
- - [https://troycarter.house.gov](https://troycarter.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
 

@@ -1,3 +1,47 @@
+ ## Přihlášení | prima+
+ - [https://auth.iprima.cz](https://auth.iprima.cz)
+ - date_published: 2024-09-05T17:07:31.540603+00:00
+
+ ## Nejaktuálnější zprávy z domova i ze světa
+ - [https://cnn.iprima.cz](https://cnn.iprima.cz)
+ - date_published: 2024-06-10T10:35:34.484421+00:00
+
+ ## Prima COOL - svět filmů, seriálů, technologií, her a esportu
+ - [https://cool.iprima.cz](https://cool.iprima.cz)
+ - date_published: 2024-09-05T17:07:28.756122+00:00
+
+ ## Prima COOL - svět filmů, seriálů, technologií, her a esportu
+ - [https://coolmagazin.iprima.cz](https://coolmagazin.iprima.cz)
+ - date_published: 2024-09-05T17:07:00.602117+00:00
+
+ ## Nejlepší recepty na Prima FRESH
+ - [https://fresh.iprima.cz](https://fresh.iprima.cz)
+ - date_published: 2024-09-05T17:07:03.837450+00:00
+
+ ## Welcome to nginx!
+ - [https://hbbtv.iprima.cz](https://hbbtv.iprima.cz)
+ - date_published: 2020-04-21T14:09:01+00:00
+
+ ## prima+ | sledujte filmy, seriály a pořady TV Prima na Prima plus
+ - [https://iprima.cz](https://iprima.cz)
+ - date_published: 2024-09-05T17:07:09.679884+00:00
+
+ ## Lajk - svět youtuberů, celebrit a spousty zajímavostí
+ - [https://lajk.iprima.cz](https://lajk.iprima.cz)
+ - date_published: 2024-09-05T17:06:53.424695+00:00
+
+ ## Vše o bydlení v bytě i domě včetně praktických rad a tipů.
+ - [https://living.iprima.cz](https://living.iprima.cz)
+ - date_published: 2024-09-05T17:07:32.636782+00:00
+
+ ## Prima TV
+ - [https://podpora.iprima.cz](https://podpora.iprima.cz)
+ - date_published: 2024-09-05T17:07:37.336053+00:00
+
+ ## PRIMA Nákupy
+ - [https://primanakupy.iprima.cz](https://primanakupy.iprima.cz)
+ - date_published: 2024-08-21T00:00:00+00:00
+
  ## prima+ | sledujte filmy, seriály a pořady TV Prima na Prima plus
  - [https://profil.iprima.cz](https://profil.iprima.cz)
  - date_published: 2024-09-05T17:07:23.853593+00:00
@@ -3986,48 +4030,4 @@ web | Webarchiv.cz
  ## Dear Fathers | The Premiere Media Platform Dedicated to Telling Stories of Black Fathers
  - [https://dear.dad](https://dear.dad)
  - date_published: 2024-07-12T17:53:52.549891+00:00
-
- ## dog.dad
- - [https://dog.dad](https://dog.dad)
- - date_published: 2024-07-12T17:53:10.215634+00:00
-
- ## dude.dad
- - [https://dude.dad](https://dude.dad)
- - date_published: 2024-07-12T17:52:34.985491+00:00
-
- ## FitDadCEO
- - [https://fit.dad](https://fit.dad)
- - date_published: 2024-07-12T17:53:54.773703+00:00
-
- ## Gamer.Dad
- - [https://gamer.dad](https://gamer.dad)
- - date_published: 2024-07-12T17:53:34.506072+00:00
-
- ## Gay. Dads.
- - [https://gay.dad](https://gay.dad)
- - date_published: 2024-07-12T17:53:02.676900+00:00
-
- ## Celebrate .dad | get.dad
- - [https://get.dad](https://get.dad)
- - date_published: 2024-05-10T05:47:01.720675+00:00
-
- ## Dear Fathers | How to Dad
- - [https://howto.dad](https://howto.dad)
- - date_published: 2024-07-12T17:52:49.492520+00:00
-
- ## Law.Dad
- - [https://law.dad](https://law.dad)
- - date_published: 2024-07-12T17:53:39.717182+00:00
-
- ## life.dad – A new .dad domain site from Life of Dad
- - [https://life.dad](https://life.dad)
- - date_published: 2024-07-12T17:54:04.084735+00:00
-
- ## lifeof.dad – A new .dad domain by Life of Dad
- - [https://lifeof.dad](https://lifeof.dad)
- - date_published: 2024-07-12T17:52:57.276175+00:00
-
- ## Love.Dad
- - [https://love.dad](https://love.dad)
- - date_published: 2024-07-12T17:52:45.566227+00:00
 

@@ -1,3 +1,63 @@
+ ## UT Dallas Course Catalogs - UT Dallas University Catalogs - The University of Texas at Dallas
+ - [https://catalog.utdallas.edu](https://catalog.utdallas.edu)
+ - date_published: 2024-07-02T11:44:45.491222+00:00
+
+ ## The Chess Program at UT Dallas
+ - [https://chess.utdallas.edu](https://chess.utdallas.edu)
+ - date_published: 2024-07-02T11:09:28+00:00
+
+ ## Community Standards and Conduct - The University of Texas at Dallas
+ - [https://conduct.utdallas.edu](https://conduct.utdallas.edu)
+ - date_published: 2024-05-07T22:11:40.347067+00:00
+
+ ## Student Counseling Center | UT Dallas
+ - [https://counseling.utdallas.edu](https://counseling.utdallas.edu)
+ - date_published: 2024-05-07T22:12:04.052174+00:00
+
+ ## UT Dallas CourseBook Guided Search :: UT Dallas Class, Syllabus, Course Evaluation, and Textbook Database
+ - [https://coursebook.utdallas.edu](https://coursebook.utdallas.edu)
+ - date_published: 2024-05-07T22:11:23.875221+00:00
+
+ ## Department of Computer Science - Computer Science | The University of Texas at Dallas
+ - [https://cs.utdallas.edu](https://cs.utdallas.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Office of Development and Alumni Relations - Office of Development and Alumni Relations | The University of Texas at Dallas
+ - [https://development.utdallas.edu](https://development.utdallas.edu)
+ - date_published: 2024-05-07T22:11:49.477405+00:00
+
+ ## Home - Electrical & Computer Engineering | The University of Texas at Dallas
+ - [https://ece.utdallas.edu](https://ece.utdallas.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Emergency Updates - Emergency Updates | The University of Texas at Dallas
+ - [https://emergency.utdallas.edu](https://emergency.utdallas.edu)
+ - date_published: 2023-04-26T00:00:00+00:00
+
+ ## Engineering Magazine |
+ - [https://engineering-magazine.utdallas.edu](https://engineering-magazine.utdallas.edu)
+ - date_published: 2024-09-18T11:31:20.873315+00:00
+
+ ## Engineering Home - Erik Jonsson School of Engineering & Computer Science | The University of Texas at Dallas
+ - [https://engineering.utdallas.edu](https://engineering.utdallas.edu)
+ - date_published: 2024-06-15T14:32:38+00:00
+
+ ## Undergraduate Admissions - Office of Admission and Enrollment | The University of Texas at Dallas
+ - [https://enroll.utdallas.edu](https://enroll.utdallas.edu)
+ - date_published: 2024-07-02T10:57:13+00:00
+
+ ## Home - Engineering Projects in Community Service | The University of Texas at Dallas
+ - [https://epics.utdallas.edu](https://epics.utdallas.edu)
+ - date_published: 2024-09-18T12:16:22+00:00
+
+ ## Naveen Jindal School of Management | Executive Education
+ - [https://execed.utdallas.edu](https://execed.utdallas.edu)
+ - date_published: 2024-09-16T22:41:46+00:00
+
+ ## Financial Aid - Office of Financial Aid | The University of Texas at Dallas
+ - [https://finaid.utdallas.edu](https://finaid.utdallas.edu)
+ - date_published: 2024-05-07T22:11:44.820005+00:00
+
  ## Galaxy | The University of Texas at Dallas
  - [https://galaxy.utdallas.edu](https://galaxy.utdallas.edu)
  - date_published: 2024-05-07T22:11:42.845292+00:00
@@ -3938,64 +3998,4 @@
  ## Commitment to Privacy
  - [http://www.create.lab.vcu.edu](http://www.create.lab.vcu.edu)
  - date_published: 2024-07-02T12:44:08.130001+00:00
-
- ## Commitment to Privacy
- - [https://www.ctcce.vcu.edu](https://www.ctcce.vcu.edu)
- - date_published: 2024-07-02T12:58:05.683936+00:00
-
- ## Award-winning cancer care in Virginia
- - [https://www.massey.vcu.edu](https://www.massey.vcu.edu)
- - date_published: 2024-07-02T13:03:16.359407+00:00
-
- ## Commitment to Privacy
- - [http://www.nsfp.vcu.edu](http://www.nsfp.vcu.edu)
- - date_published: 2024-07-02T12:47:30.618725+00:00
-
- ## Commitment to Privacy
- - [https://youfirst.vcu.edu](https://youfirst.vcu.edu)
- - date_published: 2024-07-02T12:50:16.722416+00:00
-
- ## Digital Repository - Villanova University Charles Widger School of Law
- - [https://digitalcommons.law.villanova.edu](https://digitalcommons.law.villanova.edu)
- - date_published: 2024-07-02T10:48:18.170655+00:00
-
- ## Homepage | 25Live Information Portal
- - [https://25live.virginia.edu](https://25live.virginia.edu)
- - date_published: 2024-07-03T14:37:02+00:00
-
- ## Home | UVA Accessibility
- - [https://accessibility.virginia.edu](https://accessibility.virginia.edu)
- - date_published: 2024-05-09T06:36:08.768724+00:00
-
- ## Office of Undergraduate Admission | The Office of Undergraduate Admission
- - [https://admission.virginia.edu](https://admission.virginia.edu)
- - date_published: 2024-06-14T13:40:46+00:00
-
- ## Home – UVA Facilities Management Annual Report 2023
- - [https://annualreport.fm.virginia.edu](https://annualreport.fm.virginia.edu)
- - date_published: 2024-03-07T16:29:28+00:00
-
- ## The University of Virginia
- - [https://applycentral.virginia.edu](https://applycentral.virginia.edu)
- - date_published: 2024-06-27T12:05:50+00:00
-
- ## UVA Facilities Management Apprenticeship Program – Home
- - [https://apprenticeship.fm.virginia.edu](https://apprenticeship.fm.virginia.edu)
- - date_published: 2024-06-06T19:52:53+00:00
-
- ## University of Virginia School of Architecture | University of Virginia School of Architecture
- - [https://arch.virginia.edu](https://arch.virginia.edu)
- - date_published: 2024-05-08T11:43:54.376115+00:00
-
- ## Department of Art |
- - [https://art.as.virginia.edu](https://art.as.virginia.edu)
- - date_published: 2024-07-08T12:37:22+00:00
-
- ## Home
- - [https://as.virginia.edu](https://as.virginia.edu)
- - date_published: 2024-03-11T22:06:48.813698+00:00
-
- ## Frank Batten School of Leadership & Public Policy - Home
- - [https://batten.virginia.edu](https://batten.virginia.edu)
- - date_published: 2024-08-06T05:45:44.714564+00:00
 

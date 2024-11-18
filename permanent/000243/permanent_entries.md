@@ -1,3 +1,47 @@
+ ## DESY ACCELERATORS
+ - [https://accelerators.desy.de](https://accelerators.desy.de)
+ - date_published: 2023-05-12T11:11:43+00:00
+
+ ## JntDESYUniHHAccPhySem
+ - [https://accphysem.desy.de](https://accphysem.desy.de)
+ - date_published: 2024-07-10T12:21:45+00:00
+
+ ## Deutsches Elektronen-Synchrotron DESY - Login Required
+ - [http://ard.desy.de](http://ard.desy.de)
+ - date_published: 2022-02-14T10:55:59+00:00
+
+ ## Astroparticle Physics
+ - [http://astro.desy.de](http://astro.desy.de)
+ - date_published: 2023-12-08T10:31:42+00:00
+
+ ## Astroparticle Physics
+ - [https://astroparticle-physics.desy.de](https://astroparticle-physics.desy.de)
+ - date_published: 2023-12-08T10:31:42+00:00
+
+ ## CONNECT
+ - [https://connect.desy.de](https://connect.desy.de)
+ - date_published: 2024-04-29T06:02:48.283624+00:00
+
+ ## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://desy.de](https://desy.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## DESY Photon Science - DOOR
+ - [https://door.desy.de](https://door.desy.de)
+ - date_published: 2024-07-24T07:55:26.329675+00:00
+
+ ## Computer Center
+ - [http://dv-zeuthen.desy.de](http://dv-zeuthen.desy.de)
+ - date_published: 2024-07-26T09:20:00+00:00
+
+ ## DESY - Welcome Services - Welcome to the DESY Campus!
+ - [http://guest-services.desy.de](http://guest-services.desy.de)
+ - date_published: 2024-08-08T22:22:12.352820+00:00
+
+ ## Home · DESY-Konferenzverwaltung (Indico)
+ - [https://indico.desy.de](https://indico.desy.de)
+ - date_published: 2024-07-20T22:25:29.495255+00:00
+
  ## Wir leben Innovation
  - [https://innovation.desy.de](https://innovation.desy.de)
  - date_published: 2024-04-29T06:02:40.828698+00:00
@@ -3974,48 +4018,4 @@ Heinsohn
  ## Deutsch -  Fraunhofer IMS
  - [https://www.ims.fraunhofer.de](https://www.ims.fraunhofer.de)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB -  Fraunhofer IOSB
- - [https://www.iosb.fraunhofer.de](https://www.iosb.fraunhofer.de)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Forschen für die Energiewende - Fraunhofer-Institut für Solare Energiesysteme ISE -  Fraunhofer ISE
- - [https://www.ise.fraunhofer.de](https://www.ise.fraunhofer.de)
- - date_published: 2023-10-25T18:30:39.964840+00:00
-
- ## Fraunhofer-Institut für System- und Innovationsforschung ISI
- - [https://www.isi.fraunhofer.de](https://www.isi.fraunhofer.de)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Fraunhofer-Verbund IUK-Technologie
- - [http://www.iuk.fraunhofer.de](http://www.iuk.fraunhofer.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Institut für Verfahrenstechnik und Verpackung IVV -  Fraunhofer IVV
- - [https://www.ivv.fraunhofer.de](https://www.ivv.fraunhofer.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Marketing Agency For Esports And Gaming - Freaks 4U Gaming
- - [https://www.freaks4u.de](https://www.freaks4u.de)
- - date_published: 2018-09-20T00:00:00+00:00
-
- ## Frederik Braun
- - [https://frederikbraun.de](https://frederikbraun.de)
- - date_published: 2024-07-05T12:49:47+00:00
-
- ## Mobilitätslösungen nach Maß mit Kilometerleasing | Leasys
- - [https://www.free2move-lease.de](https://www.free2move-lease.de)
- - date_published: 2024-07-24T15:41:42.340631+00:00
-
- ## Inside Scientology – Die unzensierte Geschichte
- - [https://www.freedom.de](https://www.freedom.de)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## www.freedomforlinks.de
- - [http://www.freedomforlinks.de](http://www.freedomforlinks.de)
- - date_published: 2024-07-13T11:36:12.466965+00:00
-
- ## Online Freelancer anheuern & Freelancer-Jobs finden
- - [https://www.freelancer.de](https://www.freelancer.de)
- - date_published: 2024-06-16T12:01:38.657101+00:00
 

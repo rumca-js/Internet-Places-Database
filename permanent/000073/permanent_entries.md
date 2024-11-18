@@ -1,3 +1,16 @@
+ ## OpenAI Bought Chatgpt.com
+ - [https://chatgpt.com](https://chatgpt.com)
+ - date_published: 2024-05-04T17:36:21+00:00
+ - tags: ['artificial intelligence bot', 'chatgpg']
+
+ ## ChatGPT for Google｜Extension for Enhanced Search
+ - [https://chatgpt4google.com](https://chatgpt4google.com)
+ - date_published: 2024-07-18T23:12:15.097715+00:00
+
+ ## YouTube Summary with ChatGPT - No OpenAI Account Required
+ - [https://chatgpt4youtube.com](https://chatgpt4youtube.com)
+ - date_published: 2024-06-19T19:35:32.217718+00:00
+
  ## ChatGPT Online - No Login Needed!
  - [https://chatgptbay.com](https://chatgptbay.com)
  - date_published: 2023-10-25T13:20:42.654731+00:00
@@ -4035,16 +4048,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  - [https://christinchong.com](https://christinchong.com)
  - date_published: 2023-12-28T22:26:31.547980+00:00
  - tags: ['personal']
-
- ## christinebougie.com
- - [http://www.christinebougie.com](http://www.christinebougie.com)
- - date_published: 2024-08-11T02:51:04.815133+00:00
-
- ## Christine DeMerchant Site about Boats, boat plans, Boatbuilding, Cats, and other good stuff
- - [https://christinedemerchant.com](https://christinedemerchant.com)
- - date_published: 2022-06-29T17:40:09+00:00
-
- ## Christine Ma-Kellams
- - [https://christinema-kellams.com](https://christinema-kellams.com)
- - date_published: 2024-04-29T02:17:35.562841+00:00
 

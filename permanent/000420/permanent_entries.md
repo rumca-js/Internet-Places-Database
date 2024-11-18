@@ -1,3 +1,99 @@
+ ## The London School of Hygiene & Tropical Medicine | LSHTM
+ - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
+ - date_published: 2023-10-25T22:48:50.709213+00:00
+
+ ## MAGLUE: Measurement and Analysis of bioenergy greenhouse gases
+ - [http://www.maglue.ac.uk](http://www.maglue.ac.uk)
+ - date_published: 2024-10-29T19:08:38+00:00
+
+ ## Search - Archives Hub
+ - [https://archives.li.man.ac.uk](https://archives.li.man.ac.uk)
+ - date_published: 1900-11-10T00:00:00+00:00
+
+ ## Department of Computer Science - The University of Manchester
+ - [http://www.cs.man.ac.uk](http://www.cs.man.ac.uk)
+ - date_published: 2024-07-13T09:17:59.887656+00:00
+
+ ## MDC analytics
+ - [https://analytics.digitalcollections.manchester.ac.uk](https://analytics.digitalcollections.manchester.ac.uk)
+ - date_published: 2020-06-12T13:43:43+00:00
+
+ ## Welcome Page
+ - [https://app.manchester.ac.uk](https://app.manchester.ac.uk)
+ - date_published: 2024-05-11T07:23:45.038121+00:00
+
+ ## Research Groups: APT - Advanced Processor Technologies (School of Computer Science - The University of Manchester)
+ - [http://apt.cs.manchester.ac.uk](http://apt.cs.manchester.ac.uk)
+ - date_published: 2024-06-26T21:47:18.413390+00:00
+
+ ## Policy@Manchester Articles
+ - [http://blog.policy.manchester.ac.uk](http://blog.policy.manchester.ac.uk)
+ - date_published: 2024-10-21T16:33:08.243907+00:00
+
+ ## Wordpress Multisite - The University of Manchester Wordpress multisite
+ - [https://blogs.manchester.ac.uk](https://blogs.manchester.ac.uk)
+ - date_published: 2024-07-13T12:36:21.732842+00:00
+
+ ## StaffNet | The University of Manchester
+ - [https://documents.manchester.ac.uk](https://documents.manchester.ac.uk)
+ - date_published: 2024-07-13T12:36:16.413439+00:00
+
+ ## Welcome to MIMS EPrints - MIMS EPrints
+ - [https://eprints.maths.manchester.ac.uk](https://eprints.maths.manchester.ac.uk)
+ - date_published: 2024-06-14T21:08:12.836459+00:00
+
+ ## University of Manchester
+ - [https://estore.manchester.ac.uk](https://estore.manchester.ac.uk)
+ - date_published: 2024-07-13T12:37:40.697412+00:00
+
+ ## The University of Manchester Login Service
+ - [https://forms.library.manchester.ac.uk](https://forms.library.manchester.ac.uk)
+ - date_published: 2024-08-06T19:37:45.155212+00:00
+
+ ## Manchester Giving – Fundraising Stories from The University of Manchester
+ - [http://givingblog.manchester.ac.uk](http://givingblog.manchester.ac.uk)
+ - date_published: 2024-07-13T12:37:42.501283+00:00
+
+ ## Sign in to your account
+ - [http://intranet.maths.manchester.ac.uk](http://intranet.maths.manchester.ac.uk)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## LUNA Main Menu
+ - [https://luna.manchester.ac.uk](https://luna.manchester.ac.uk)
+ - date_published: 2024-04-28T06:07:57.927085+00:00
+
+ ## The University of Manchester
+ - [https://manchester.ac.uk](https://manchester.ac.uk)
+ - date_published: 2024-03-16T21:52:08.520935+00:00
+
+ ## Home
+ - [https://museum.manchester.ac.uk](https://museum.manchester.ac.uk)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Student Support | My Manchester – accessing University systems | The University of Manchester
+ - [https://my.manchester.ac.uk](https://my.manchester.ac.uk)
+ - date_published: 2024-05-11T07:23:36.535887+00:00
+
+ ## The University of Manchester Login Service
+ - [https://newsadmin.manchester.ac.uk](https://newsadmin.manchester.ac.uk)
+ - date_published: 2024-07-13T12:36:38.905020+00:00
+
+ ## Pdrives Login :: Log in
+ - [https://pdrives.manchester.ac.uk](https://pdrives.manchester.ac.uk)
+ - date_published: 2024-07-13T12:36:02.665931+00:00
+
+ ## Search for people | The University of Manchester
+ - [https://personalpages.manchester.ac.uk](https://personalpages.manchester.ac.uk)
+ - date_published: 2024-06-30T08:06:11.695683+00:00
+
+ ## My Manchester | Portal Information | Portal Unavailable | The University of Manchester
+ - [https://portalcontent.manchester.ac.uk](https://portalcontent.manchester.ac.uk)
+ - date_published: 2016-10-03T12:57:30+00:00
+
+ ## The University of Manchester Login Service
+ - [https://portal.manchester.ac.uk](https://portal.manchester.ac.uk)
+ - date_published: 2024-07-13T12:35:59.979395+00:00
+
  ## projects.alc.manchester.ac.uk
  - [http://projects.alc.manchester.ac.uk](http://projects.alc.manchester.ac.uk)
  - date_published: 2018-08-10T11:07:09+00:00
@@ -3917,100 +4013,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## M&IT Experience
  - [https://agencychallenge.co.uk](https://agencychallenge.co.uk)
  - date_published: 2024-07-03T20:46:26.201699+00:00
-
- ## Farming News - Farming In UK - UK Farmers - British Farmers - Agriland.co.uk
- - [https://www.agriland.co.uk](https://www.agriland.co.uk)
- - date_published: 2024-08-18T09:36:53.066000+00:00
-
- ## AI E-books - Create Ebooks using AI
- - [https://ai-ebooks.co.uk](https://ai-ebooks.co.uk)
- - date_published: 2024-09-13T20:26:00.891749+00:00
-
- ## Ainsty Castings – War Gaming Scenics
- - [http://www.ainsty-castings.co.uk](http://www.ainsty-castings.co.uk)
- - date_published: 2024-07-20T08:52:12.403722+00:00
-
- ## Ainsty Castings – War Gaming Scenics
- - [http://ainstycastings.co.uk](http://ainstycastings.co.uk)
- - date_published: 2024-07-20T06:28:42.500971+00:00
-
- ## Airbnb | Holiday rentals, cabins, beach houses & more
- - [https://airbnb.co.uk](https://airbnb.co.uk)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Aviation News Magazine Subscriptions & Back Issues | Print & Download
- - [http://www.aircraftmagazine.co.uk](http://www.aircraftmagazine.co.uk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Changing lives through aviation - Air League
- - [https://www.airleague.co.uk](https://www.airleague.co.uk)
- - date_published: 2021-11-04T12:46:24+00:00
-
- ## Air Mission Planning and Support
- - [http://www.airmissionplanning.co.uk](http://www.airmissionplanning.co.uk)
- - date_published: 2024-06-15T21:19:06.918082+00:00
-
- ## Airtime | Powering Mobile Life
- - [https://www.airtimerewards.co.uk](https://www.airtimerewards.co.uk)
- - date_published: 2024-07-14T09:58:11.296103+00:00
-
- ## Home - AI Steve
- - [https://www.ai-steve.co.uk](https://www.ai-steve.co.uk)
- - date_published: 2024-03-22T14:54:19+00:00
-
- ## Best Voucher Codes & Discount Offers for Summer Sales 2024 - AIVoucher
- - [https://www.aivoucher.co.uk](https://www.aivoucher.co.uk)
- - date_published: 2024-06-20T07:24:51.120747+00:00
-
- ## AJDB - Adam Jonathon David Bradley
- - [https://ajdb.co.uk](https://ajdb.co.uk)
- - date_published: 2022-07-07T15:35:33+00:00
-
- ## Akabo Media | Publishing and Events | Logistics, supply chain, transport
- - [https://www.akabomedia.co.uk](https://www.akabomedia.co.uk)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## GAP Insurance | GAP Insurance Quote | ALA
- - [https://www.ala.co.uk](https://www.ala.co.uk)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## An Introduction and History of Sky TV Service in the UK
- - [http://www.alanmcampbell.co.uk](http://www.alanmcampbell.co.uk)
- - date_published: 2020-08-13T10:02:21+00:00
-
- ## Alan Ralph
- - [https://alanralph.co.uk](https://alanralph.co.uk)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Alan Ralph's Scribblings
- - [https://scribblings.alanralph.co.uk](https://scribblings.alanralph.co.uk)
- - date_published: 2024-08-07T20:13:09.902026+00:00
-
- ## Alan Warburton
- - [https://alanwarburton.co.uk](https://alanwarburton.co.uk)
- - date_published: 2024-06-21T11:34:48.189914+00:00
-
- ## الصفحة الرئيسية اقرا وشاهد مختلف الاخبار والاحداث
- - [https://www.alaraby.co.uk](https://www.alaraby.co.uk)
- - date_published: 2024-09-13T20:00:31+00:00
-
- ## Software Development Oxford | Web Design Oxford | Alberon, Oxfordshire
- - [https://alberon.co.uk](https://alberon.co.uk)
- - date_published: 2024-10-20T06:55:56.958778+00:00
-
- ## ALDO UK | ALDO Shoes, Boots, Sandals, Handbags & Accessories
- - [https://aldoshoes.co.uk](https://aldoshoes.co.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home | Alec Newman
- - [https://www.alecnewman.co.uk](https://www.alecnewman.co.uk)
- - date_published: 2024-06-30T09:39:46.145442+00:00
-
- ## Alex Clapperton  — Senior Front-End Web Developer
- - [https://www.alexclapperton.co.uk](https://www.alexclapperton.co.uk)
- - date_published: 2024-09-14T23:30:40.829459+00:00
-
- ## Alex Hunting Studio
- - [https://alexhunting.co.uk](https://alexhunting.co.uk)
- - date_published: 2024-05-29T00:00:00+00:00
 

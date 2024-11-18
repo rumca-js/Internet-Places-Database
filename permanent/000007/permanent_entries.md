@@ -1,3 +1,8 @@
+ ## Ricardo Iván Vieitez Parra
+ - [https://riv.ar](https://riv.ar)
+ - date_published: 2024-08-22T21:33:58.391773+00:00
+ - tags: ['personal']
+
  ## Blog de Thalskarth
  - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -4025,8 +4030,4 @@ October 2024 in Singapore
  ## EDV-Service Robert Repp in Salzburg
  - [https://www.edv-repp.at](https://www.edv-repp.at)
  - date_published: 2024-09-05T16:23:04.596564+00:00
-
- ## EF Education First | Österreich
- - [https://www.ef.at](https://www.ef.at)
- - date_published: 2024-05-01T00:00:00+00:00
 

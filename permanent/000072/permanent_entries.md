@@ -1,3 +1,15 @@
+ ## CD Baby Help Center
+ - [https://support.cdbaby.com](https://support.cdbaby.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home - CD Baby
+ - [https://www.cdbabylicensing.com](https://www.cdbabylicensing.com)
+ - date_published: 2024-07-15T06:04:08.358405+00:00
+
+ ## CDC Federal Credit Union
+ - [https://www.cdcfcu.com](https://www.cdcfcu.com)
+ - date_published: 2024-05-01T05:49:22.488365+00:00
+
  ## Gambling Industry News
  - [https://cdcgaming.com](https://cdcgaming.com)
  - date_published: 2024-05-06T17:12:54.212168+00:00
@@ -4031,17 +4043,4 @@ Challonge
  ## Signals: Turn Pageviews into Customers
  - [https://chatfunnels.com](https://chatfunnels.com)
  - date_published: 2024-08-14T00:00:00+00:00
-
- ## OpenAI Bought Chatgpt.com
- - [https://chatgpt.com](https://chatgpt.com)
- - date_published: 2024-05-04T17:36:21+00:00
- - tags: ['artificial intelligence bot', 'chatgpg']
-
- ## ChatGPT for Google｜Extension for Enhanced Search
- - [https://chatgpt4google.com](https://chatgpt4google.com)
- - date_published: 2024-07-18T23:12:15.097715+00:00
-
- ## YouTube Summary with ChatGPT - No OpenAI Account Required
- - [https://chatgpt4youtube.com](https://chatgpt4youtube.com)
- - date_published: 2024-06-19T19:35:32.217718+00:00
 

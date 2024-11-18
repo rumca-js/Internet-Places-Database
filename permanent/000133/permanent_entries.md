@@ -1,3 +1,19 @@
+ ## Kontinentalist - We tell data-driven stories about Asia.
+ - [https://kontinentalist.com](https://kontinentalist.com)
+ - date_published: 2024-06-12T06:02:37.754358+00:00
+
+ ## About
+ - [https://studio.kontinentalist.com](https://studio.kontinentalist.com)
+ - date_published: 2024-06-12T12:18:21.851122+00:00
+
+ ## Workshop Kontinentalist
+ - [https://workshop.kontinentalist.com](https://workshop.kontinentalist.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Kontron | Smart IoT Solutions
+ - [https://www.kontron.com](https://www.kontron.com)
+ - date_published: 2024-08-19T04:58:02.606765+00:00
+
  ## Kontron AIS GmbH | The Benchmark in Industrial Software
  - [https://kontron-ais.com](https://kontron-ais.com)
  - date_published: 2024-06-21T02:12:14.283234+00:00
@@ -2292,6 +2308,10 @@
  - [https://stat.kuppingercole.com](https://stat.kuppingercole.com)
  - date_published: 2024-09-18T15:14:02.578933+00:00
 
+ ## KupujemProdajem
+ - [https://www.kupujemprodajem.com](https://www.kupujemprodajem.com)
+ - date_published: 2024-11-17T14:59:42.225440+00:00
+
  ## くらげバンチ
  - [https://kuragebunch.com](https://kuragebunch.com)
  - date_published: 2024-10-28T23:54:45.506007+00:00
@@ -4009,24 +4029,4 @@
  ## Lady Science
  - [https://www.ladyscience.com](https://www.ladyscience.com)
  - date_published: 2024-09-14T23:01:46.784292+00:00
-
- ## Designing Dreams in Denim and Drape  - www.ladysmaidjewels.com
- - [http://www.ladysmaidjewels.com](http://www.ladysmaidjewels.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Lady Valiant
- - [https://ladyvaliantcomic.com](https://ladyvaliantcomic.com)
- - date_published: 2024-05-13T03:15:07.991335+00:00
-
- ## lae astra
- - [https://www.laeastra.com](https://www.laeastra.com)
- - date_published: 2024-06-26T14:26:22.942070+00:00
-
- ## ColorCode
- - [http://colorcode.laebisch.com](http://colorcode.laebisch.com)
- - date_published: 2023-11-20T00:00:00+00:00
-
- ## LÆMEUR'S ALPHIC MEDIA REPOSITORY
- - [https://alph.laemeur.com](https://alph.laemeur.com)
- - date_published: 2024-07-10T06:10:55.900981+00:00
 

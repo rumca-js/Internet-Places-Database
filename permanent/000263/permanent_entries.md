@@ -1,3 +1,59 @@
+ ## Farm Planning Resources | NC State Extension
+ - [https://farmplanning.ces.ncsu.edu](https://farmplanning.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:24:42.174197+00:00
+
+ ## Farm to School | NC State Extension
+ - [https://farmtoschool.ces.ncsu.edu](https://farmtoschool.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:11.565958+00:00
+
+ ## Family & Consumer Sciences Program | NC State Extension
+ - [https://fcs.ces.ncsu.edu](https://fcs.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:25:19.635409+00:00
+
+ ## Feed Milling | NC State Extension
+ - [https://feedmilling.ces.ncsu.edu](https://feedmilling.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:30:38.134599+00:00
+
+ ## Field Days | NC State Extension
+ - [https://fielddays.ces.ncsu.edu](https://fielddays.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:41:41.584162+00:00
+
+ ## North Carolina Food Animal Initiative
+ - [https://foodanimal.ncsu.edu](https://foodanimal.ncsu.edu)
+ - date_published: 2024-10-15T05:01:11+00:00
+
+ ## Food Business | NC State Extension
+ - [https://foodbusiness.ces.ncsu.edu](https://foodbusiness.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:02.670545+00:00
+
+ ## FoodCoVNET | NC State Extension
+ - [https://foodcovnet.ces.ncsu.edu](https://foodcovnet.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:23:44.902389+00:00
+
+ ## Food Safety | NC State Extension
+ - [https://foodsafety.ces.ncsu.edu](https://foodsafety.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:05.213364+00:00
+
+ ## Food Safety for Processors | NC State Extension
+ - [https://foodsafetyprocessors.ces.ncsu.edu](https://foodsafetyprocessors.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:28:58.826319+00:00
+
+ ## Food Safety Repository | NC State Extension
+ - [https://foodsafetyrepository.ces.ncsu.edu](https://foodsafetyrepository.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:27:18.776562+00:00
+
+ ## Forages | NC State Extension
+ - [https://forages.ces.ncsu.edu](https://forages.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:32:58.865139+00:00
+
+ ## Extension Forestry | NC State Extension
+ - [https://forestry.ces.ncsu.edu](https://forestry.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:23:47.635032+00:00
+
+ ## Forsyth County Center | N.C. Cooperative Extension
+ - [https://forsyth.ces.ncsu.edu](https://forsyth.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:28:37.719745+00:00
+
  ## Franklin County Center | N.C. Cooperative Extension
  - [https://franklin.ces.ncsu.edu](https://franklin.ces.ncsu.edu)
  - date_published: 2024-10-15T05:27:48.363739+00:00
@@ -3944,60 +4000,4 @@
  ## Enrollment Management
  - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
  - date_published: 2023-07-06T12:10:16+00:00
-
- ## Events Calendar - Oregon State University
- - [https://events.oregonstate.edu](https://events.oregonstate.edu)
- - date_published: 2024-06-20T01:58:18.803266+00:00
-
- ## OSU Experience
- - [https://experience.oregonstate.edu](https://experience.oregonstate.edu)
- - date_published: 2024-06-20T01:39:35+00:00
-
- ## OSU Extension Service
- - [https://extension.oregonstate.edu](https://extension.oregonstate.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Parent & Family Programs
- - [https://families.oregonstate.edu](https://families.oregonstate.edu)
- - date_published: 2024-10-14T10:43:54+00:00
-
- ## Family Resource Center
- - [https://familyresources.oregonstate.edu](https://familyresources.oregonstate.edu)
- - date_published: 2024-10-15T01:09:16+00:00
-
- ## Finance and Administration
- - [https://fa.oregonstate.edu](https://fa.oregonstate.edu)
- - date_published: 2024-07-02T04:26:44+00:00
-
- ## College of Agricultural Sciences
- - [https://fic.oregonstate.edu](https://fic.oregonstate.edu)
- - date_published: 2024-10-14T22:09:06+00:00
-
- ## Application Management
- - [https://files.admissions.oregonstate.edu](https://files.admissions.oregonstate.edu)
- - date_published: 2022-07-29T19:17:26+00:00
-
- ## Financial Aid
- - [https://financialaid.oregonstate.edu](https://financialaid.oregonstate.edu)
- - date_published: 2024-09-18T22:18:58+00:00
-
- ## Graduate School at Oregon State University
- - [https://gradschool.oregonstate.edu](https://gradschool.oregonstate.edu)
- - date_published: 2024-10-14T23:31:09+00:00
-
- ## Home - Guin | Guin Library | Oregon State University
- - [https://guin.library.oregonstate.edu](https://guin.library.oregonstate.edu)
- - date_published: 2024-10-15T00:28:08+00:00
-
- ## College of Health
- - [https://health.oregonstate.edu](https://health.oregonstate.edu)
- - date_published: 2015-12-11T08:58:22+00:00
-
- ## Hatfield Marine Science Center
- - [https://hmsc.oregonstate.edu](https://hmsc.oregonstate.edu)
- - date_published: 2024-06-14T19:48:33+00:00
-
- ## College of Agricultural Sciences
- - [http://honeybeelab.oregonstate.edu](http://honeybeelab.oregonstate.edu)
- - date_published: 2024-10-15T04:01:46+00:00
 

@@ -1,3 +1,15 @@
+ ## Lee A Johnson
+ - [https://formulanon.com](https://formulanon.com)
+ - date_published: 2024-04-28T04:06:18.768543+00:00
+
+ ## AI-Powered Formula Generator for Excel and Google Sheets
+ - [https://formulashq.com](https://formulashq.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## CBD aus der Schweiz
+ - [https://at.formulaswiss.com](https://at.formulaswiss.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
  ## CBD от Швейцария
  - [https://bg.formulaswiss.com](https://bg.formulaswiss.com)
  - date_published: 2024-05-04T06:45:55.295492+00:00
@@ -4014,16 +4026,4 @@
  ## The Freelance Rate Calculator
  - [https://freelanceratecalculator.com](https://freelanceratecalculator.com)
  - date_published: 2024-09-02T15:56:41.183802+00:00
-
- ## Freelancing science
- - [http://freelancingscience.com](http://freelancingscience.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Intensive workouts & individual training plans | FREELETICS
- - [https://cdn.freeletics.com](https://cdn.freeletics.com)
- - date_published: 2024-05-04T07:01:40.934358+00:00
-
- ## Intensive workouts & individual training plans | FREELETICS
- - [https://www.freeletics.com](https://www.freeletics.com)
- - date_published: 2024-02-24T10:08:22.017157+00:00
 

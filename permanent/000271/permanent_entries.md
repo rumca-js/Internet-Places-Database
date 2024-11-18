@@ -1,3 +1,63 @@
+ ## Veteran & Military Resource Center  | The University of New Mexico
+ - [http://vrc.unm.edu](http://vrc.unm.edu)
+ - date_published: 2024-03-29T21:57:15+00:00
+
+ ## Wayfinder
+ - [https://wayfinder.unm.edu](https://wayfinder.unm.edu)
+ - date_published: 2024-01-30T16:35:42+00:00
+
+ ## WebCORE - Centralized  Online  Resource  Environment
+ - [https://webcore.unm.edu](https://webcore.unm.edu)
+ - date_published: 2014-07-21T15:42:21+00:00
+
+ ## UNM Webmaster | The University of New Mexico
+ - [https://webmaster.unm.edu](https://webmaster.unm.edu)
+ - date_published: 2024-07-02T05:06:05.419499+00:00
+
+ ## Physics and Astronomy at University of New Mexico
+ - [http://www.phys.unm.edu](http://www.phys.unm.edu)
+ - date_published: 2024-08-06T10:25:53.133863+00:00
+
+ ## UNMC Phone Directory
+ - [http://d.unmc.edu](http://d.unmc.edu)
+ - date_published: 2024-10-27T11:27:00.481212+00:00
+
+ ## Events Calendar
+ - [https://events.unmc.edu](https://events.unmc.edu)
+ - date_published: 2024-10-27T11:26:56.702905+00:00
+
+ ## Healing Arts - Healing Arts
+ - [https://healingarts.unmc.edu](https://healingarts.unmc.edu)
+ - date_published: 2024-10-27T11:27:09.402554+00:00
+
+ ## Home
+ - [https://www.unmc.edu](https://www.unmc.edu)
+ - date_published: 2024-06-19T02:11:55.018472+00:00
+
+ ## The University of New Orleans
+ - [https://new.uno.edu](https://new.uno.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## The University of New Orleans
+ - [https://www.uno.edu](https://www.uno.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.unomaha.edu](https://events.unomaha.edu)
+ - date_published: 2024-10-17T22:24:46.305718+00:00
+
+ ## University of Nebraska Omaha
+ - [https://webapp.unomaha.edu](https://webapp.unomaha.edu)
+ - date_published: 2024-10-17T22:24:41.018073+00:00
+
+ ## College of Information Science & Technology | College of Information Science & Technology | University of Nebraska Omaha
+ - [http://www.ist.unomaha.edu](http://www.ist.unomaha.edu)
+ - date_published: 2024-07-07T05:27:10.652392+00:00
+
+ ## University of Nebraska Omaha
+ - [https://www.unomaha.edu](https://www.unomaha.edu)
+ - date_published: 2024-06-17T09:16:43.685044+00:00
+
  ## University of Nevada, Reno - Modern Campus Catalog™
  - [https://catalog.unr.edu](https://catalog.unr.edu)
  - date_published: 2024-06-24T11:34:49.373478+00:00
@@ -3939,64 +3999,4 @@
  ## Events Calendar
  - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## UT Dallas Course Catalogs - UT Dallas University Catalogs - The University of Texas at Dallas
- - [https://catalog.utdallas.edu](https://catalog.utdallas.edu)
- - date_published: 2024-07-02T11:44:45.491222+00:00
-
- ## The Chess Program at UT Dallas
- - [https://chess.utdallas.edu](https://chess.utdallas.edu)
- - date_published: 2024-07-02T11:09:28+00:00
-
- ## Community Standards and Conduct - The University of Texas at Dallas
- - [https://conduct.utdallas.edu](https://conduct.utdallas.edu)
- - date_published: 2024-05-07T22:11:40.347067+00:00
-
- ## Student Counseling Center | UT Dallas
- - [https://counseling.utdallas.edu](https://counseling.utdallas.edu)
- - date_published: 2024-05-07T22:12:04.052174+00:00
-
- ## UT Dallas CourseBook Guided Search :: UT Dallas Class, Syllabus, Course Evaluation, and Textbook Database
- - [https://coursebook.utdallas.edu](https://coursebook.utdallas.edu)
- - date_published: 2024-05-07T22:11:23.875221+00:00
-
- ## Department of Computer Science - Computer Science | The University of Texas at Dallas
- - [https://cs.utdallas.edu](https://cs.utdallas.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Office of Development and Alumni Relations - Office of Development and Alumni Relations | The University of Texas at Dallas
- - [https://development.utdallas.edu](https://development.utdallas.edu)
- - date_published: 2024-05-07T22:11:49.477405+00:00
-
- ## Home - Electrical & Computer Engineering | The University of Texas at Dallas
- - [https://ece.utdallas.edu](https://ece.utdallas.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Emergency Updates - Emergency Updates | The University of Texas at Dallas
- - [https://emergency.utdallas.edu](https://emergency.utdallas.edu)
- - date_published: 2023-04-26T00:00:00+00:00
-
- ## Engineering Magazine |
- - [https://engineering-magazine.utdallas.edu](https://engineering-magazine.utdallas.edu)
- - date_published: 2024-09-18T11:31:20.873315+00:00
-
- ## Engineering Home - Erik Jonsson School of Engineering & Computer Science | The University of Texas at Dallas
- - [https://engineering.utdallas.edu](https://engineering.utdallas.edu)
- - date_published: 2024-06-15T14:32:38+00:00
-
- ## Undergraduate Admissions - Office of Admission and Enrollment | The University of Texas at Dallas
- - [https://enroll.utdallas.edu](https://enroll.utdallas.edu)
- - date_published: 2024-07-02T10:57:13+00:00
-
- ## Home - Engineering Projects in Community Service | The University of Texas at Dallas
- - [https://epics.utdallas.edu](https://epics.utdallas.edu)
- - date_published: 2024-09-18T12:16:22+00:00
-
- ## Naveen Jindal School of Management | Executive Education
- - [https://execed.utdallas.edu](https://execed.utdallas.edu)
- - date_published: 2024-09-16T22:41:46+00:00
-
- ## Financial Aid - Office of Financial Aid | The University of Texas at Dallas
- - [https://finaid.utdallas.edu](https://finaid.utdallas.edu)
- - date_published: 2024-05-07T22:11:44.820005+00:00
 

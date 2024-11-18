@@ -1,3 +1,11 @@
+ ## Launchings by David Bressoud
+ - [https://launchings.blogspot.com](https://launchings.blogspot.com)
+ - date_published: 2024-05-08T09:48:29.597818+00:00
+
+ ## Laura Howard
+ - [http://laurahoward78.blogspot.com](http://laurahoward78.blogspot.com)
+ - date_published: 2024-10-17T23:08:08.258802+00:00
+
  ## Laura Lexx
  - [http://lauralexx.blogspot.com](http://lauralexx.blogspot.com)
  - date_published: 2024-07-04T06:07:11+00:00
@@ -4002,12 +4010,4 @@
  ## Mr. Vacuum Tube
  - [http://mrvacuumtube.blogspot.com](http://mrvacuumtube.blogspot.com)
  - date_published: 2024-04-19T22:47:41+00:00
-
- ## Mr. Verb
- - [https://mr-verb.blogspot.com](https://mr-verb.blogspot.com)
- - date_published: 2024-04-21T12:15:32+00:00
-
- ## MRX Designs
- - [https://mrxdesigns.blogspot.com](https://mrxdesigns.blogspot.com)
- - date_published: 2024-10-31T00:50:13+00:00
 

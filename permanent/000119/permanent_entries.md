@@ -1,3 +1,19 @@
+ ## Hotel Degli Arcimboldi Milan - new 2024 prices, reviews, book now
+ - [http://hotel-degli-arcimboldi.hotels-lombardy.com](http://hotel-degli-arcimboldi.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:00:07.321129+00:00
+
+ ## Hotel Degli Oleandri Sirmione - new 2024 prices, reviews, book now
+ - [http://hotel-degli-oleandri.hotels-lombardy.com](http://hotel-degli-oleandri.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:01:22.217580+00:00
+
+ ## Hotel Dei Tigli Angera - new 2024 prices, reviews, book now
+ - [http://hotel-dei-tigli-angera.hotels-lombardy.com](http://hotel-dei-tigli-angera.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:56:30.829219+00:00
+
+ ## Hotel Delizia Milan - new 2024 prices, reviews, book now
+ - [http://hotel-delizia-milan.hotels-lombardy.com](http://hotel-delizia-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:47:32.706302+00:00
+
  ## Hotel Helios Hotel & Restaurant Monza - new 2024 prices, reviews, book now
  - [http://hotel-della-regione.hotels-lombardy.com](http://hotel-della-regione.hotels-lombardy.com)
  - date_published: 2024-06-29T13:08:19.911289+00:00
@@ -3981,20 +3997,4 @@
  ## Hotel Diplomatic Turin, Italy - book now, 2024 prices
  - [https://diplomatic.hotelspiedmont.com](https://diplomatic.hotelspiedmont.com)
  - date_published: 2024-09-14T09:11:22.143985+00:00
-
- ## Hotel Best Quality Hotel Dock Milano Turin, Italy - book now, 2024 prices
- - [https://dock-milano.hotelspiedmont.com](https://dock-milano.hotelspiedmont.com)
- - date_published: 2024-09-14T09:13:36.277773+00:00
-
- ## Hotel Du Col Sestriere, Italy - book now, 2024 prices
- - [https://du-col.hotelspiedmont.com](https://du-col.hotelspiedmont.com)
- - date_published: 2024-09-14T09:17:39.135650+00:00
-
- ## Hotel Du Parc Sauze D'Oulx, Italy - book now, 2024 prices
- - [https://du-parc-hotel-sauze-doulx.hotelspiedmont.com](https://du-parc-hotel-sauze-doulx.hotelspiedmont.com)
- - date_published: 2024-09-14T09:07:10.846092+00:00
-
- ## Hotel Eden Baveno, Italy - book now, 2024 prices
- - [https://eden-lake-maggiore.hotelspiedmont.com](https://eden-lake-maggiore.hotelspiedmont.com)
- - date_published: 2024-09-14T09:22:51.666427+00:00
 

@@ -1,3 +1,63 @@
+ ## Year of Democracy
+ - [https://democracy.umich.edu](https://democracy.umich.edu)
+ - date_published: 2024-10-29T07:56:52+00:00
+
+ ## University of Michigan School of Dentistry | University of Michigan School of Dentistry
+ - [https://dent.umich.edu](https://dent.umich.edu)
+ - date_published: 2024-10-03T18:20:34+00:00
+
+ ## redirect
+ - [http://dept.math.lsa.umich.edu](http://dept.math.lsa.umich.edu)
+ - date_published: 2024-07-07T06:54:09.372507+00:00
+
+ ## Home
+ - [https://design-system.lib.umich.edu](https://design-system.lib.umich.edu)
+ - date_published: 2024-06-17T14:11:54.494500+00:00
+
+ ## Powering Progress - Diversity, Equity & Inclusion | University of Michigan
+ - [https://diversity.umich.edu](https://diversity.umich.edu)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Page Moved
+ - [https://dropbox.umich.edu](https://dropbox.umich.edu)
+ - date_published: 2020-06-16T20:46:13+00:00
+
+ ## EACS - Engineering Administration Computer Support
+ - [https://eacs.engin.umich.edu](https://eacs.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:12+00:00
+
+ ## Home
+ - [https://ebc.press.umich.edu](https://ebc.press.umich.edu)
+ - date_published: 2024-10-19T11:06:20.180705+00:00
+
+ ## Electrical & Computer Engineering at Michigan
+ - [https://ece.engin.umich.edu](https://ece.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:52+00:00
+
+ ## Electrical & Computer Engineering at Michigan
+ - [http://ece.umich.edu](http://ece.umich.edu)
+ - date_published: 2024-06-22T11:47:28+00:00
+
+ ## Home | Equity, Civil Rights & Title IX Office
+ - [https://ecrt.umich.edu](https://ecrt.umich.edu)
+ - date_published: 2024-07-02T03:51:28.259556+00:00
+
+ ## School of Education
+ - [https://education.mivideo.it.umich.edu](https://education.mivideo.it.umich.edu)
+ - date_published: 2024-06-30T02:12:10+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://eecs.engin.umich.edu](https://eecs.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:53+00:00
+
+ ## Matt Raymond receives Beyster Fellowship to support research on nanoscale particle design
+ - [https://eecsnews.engin.umich.edu](https://eecsnews.engin.umich.edu)
+ - date_published: 2024-07-02T04:03:59.077383+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [http://eecs.umich.edu](http://eecs.umich.edu)
+ - date_published: 2024-06-30T08:55:48+00:00
+
  ## Engineering Education Research
  - [https://eer.engin.umich.edu](https://eer.engin.umich.edu)
  - date_published: 2024-06-30T02:12:34+00:00
@@ -3961,64 +4021,4 @@ Center for Information Technology Integration
  ## VIVO
  - [https://vivo.health.unm.edu](https://vivo.health.unm.edu)
  - date_published: 2024-07-20T13:22:46.082186+00:00
-
- ## Veteran & Military Resource Center  | The University of New Mexico
- - [http://vrc.unm.edu](http://vrc.unm.edu)
- - date_published: 2024-03-29T21:57:15+00:00
-
- ## Wayfinder
- - [https://wayfinder.unm.edu](https://wayfinder.unm.edu)
- - date_published: 2024-01-30T16:35:42+00:00
-
- ## WebCORE - Centralized  Online  Resource  Environment
- - [https://webcore.unm.edu](https://webcore.unm.edu)
- - date_published: 2014-07-21T15:42:21+00:00
-
- ## UNM Webmaster | The University of New Mexico
- - [https://webmaster.unm.edu](https://webmaster.unm.edu)
- - date_published: 2024-07-02T05:06:05.419499+00:00
-
- ## Physics and Astronomy at University of New Mexico
- - [http://www.phys.unm.edu](http://www.phys.unm.edu)
- - date_published: 2024-08-06T10:25:53.133863+00:00
-
- ## UNMC Phone Directory
- - [http://d.unmc.edu](http://d.unmc.edu)
- - date_published: 2024-10-27T11:27:00.481212+00:00
-
- ## Events Calendar
- - [https://events.unmc.edu](https://events.unmc.edu)
- - date_published: 2024-10-27T11:26:56.702905+00:00
-
- ## Healing Arts - Healing Arts
- - [https://healingarts.unmc.edu](https://healingarts.unmc.edu)
- - date_published: 2024-10-27T11:27:09.402554+00:00
-
- ## Home
- - [https://www.unmc.edu](https://www.unmc.edu)
- - date_published: 2024-06-19T02:11:55.018472+00:00
-
- ## The University of New Orleans
- - [https://new.uno.edu](https://new.uno.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## The University of New Orleans
- - [https://www.uno.edu](https://www.uno.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.unomaha.edu](https://events.unomaha.edu)
- - date_published: 2024-10-17T22:24:46.305718+00:00
-
- ## University of Nebraska Omaha
- - [https://webapp.unomaha.edu](https://webapp.unomaha.edu)
- - date_published: 2024-10-17T22:24:41.018073+00:00
-
- ## College of Information Science & Technology | College of Information Science & Technology | University of Nebraska Omaha
- - [http://www.ist.unomaha.edu](http://www.ist.unomaha.edu)
- - date_published: 2024-07-07T05:27:10.652392+00:00
-
- ## University of Nebraska Omaha
- - [https://www.unomaha.edu](https://www.unomaha.edu)
- - date_published: 2024-06-17T09:16:43.685044+00:00
 

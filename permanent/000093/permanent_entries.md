@@ -1,3 +1,15 @@
+ ## Epitaph Privacy Policy
+ - [https://www.privacy.epitaph.com](https://www.privacy.epitaph.com)
+ - date_published: 2024-09-18T15:37:42.622833+00:00
+
+ ## MGM+ | Instant Access to Movies, TV Series & More
+ - [https://www.epix.com](https://www.epix.com)
+ - date_published: 2024-06-11T10:07:13+00:00
+
+ ## ePlanetarium - Home of Discovery Dome
+ - [http://www.eplanetarium.com](http://www.eplanetarium.com)
+ - date_published: 2024-07-08T15:22:06.262272+00:00
+
  ## EPLAN USA
  - [http://www.eplanusa.com](http://www.eplanusa.com)
  - date_published: 2024-07-01T11:42:11.675393+00:00
@@ -4045,16 +4057,4 @@
  ## ETT - People and Technology
  - [https://ettsolutions.com](https://ettsolutions.com)
  - date_published: 2024-02-05T00:00:00+00:00
-
- ## Ettus Research - The leader in Software Defined Radio (SDR)
- - [https://ettus.com](https://ettus.com)
- - date_published: 2024-04-29T03:48:27.821670+00:00
-
- ## Ettus Knowledge Base
- - [https://kb.ettus.com](https://kb.ettus.com)
- - date_published: 2024-05-22T16:48:39+00:00
-
- ## ETu Agent
- - [https://e-tuagent.com](https://e-tuagent.com)
- - date_published: 2024-07-03T16:31:09.863929+00:00
 

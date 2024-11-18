@@ -1,3 +1,73 @@
+ ## www.data.gouv.fr Site - Web Analytics Reports - Matomo
+ - [https://stats.data.gouv.fr](https://stats.data.gouv.fr)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Support data.gouv.fr
+ - [https://support.data.gouv.fr](https://support.data.gouv.fr)
+ - date_published: 2024-09-14T22:12:11.335646+00:00
+
+ ## National Access Point for transport open data
+ - [https://transport.data.gouv.fr](https://transport.data.gouv.fr)
+ - date_published: 2024-09-14T22:12:06.428633+00:00
+
+ ## Consultations publiques | Ministère de la Transition écologique et de la Cohésion des territoires 
+
+Secrétariat d'État chargé de la Mer
+ - [https://www.consultations-publiques.developpement-durable.gouv.fr](https://www.consultations-publiques.developpement-durable.gouv.fr)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Accueil | Ministère de la Transition écologique et de la Cohésion des territoires
+ - [http://www.developpement-durable.gouv.fr](http://www.developpement-durable.gouv.fr)
+ - date_published: 2024-08-18T02:25:39.519598+00:00
+
+ ## Données et études statistiques pour le changement climatique, l’énergie, l’environnement, le logement, et les transports
+ - [https://www.statistiques.developpement-durable.gouv.fr](https://www.statistiques.developpement-durable.gouv.fr)
+ - date_published: 2024-07-07T03:00:34+00:00
+
+ ## Accueil-fr | BDN
+ - [https://bibliotheque-numerique.diplomatie.gouv.fr](https://bibliotheque-numerique.diplomatie.gouv.fr)
+ - date_published: 2024-06-18T14:24:12.525701+00:00
+
+ ## France Diplomacy
+ - [https://diplomatie.gouv.fr](https://diplomatie.gouv.fr)
+ - date_published: 2024-05-08T10:43:28.978265+00:00
+
+ ## Accueil | Portail de la Direction Générale des Douanes et Droits Indirects
+ - [https://www.douane.gouv.fr](https://www.douane.gouv.fr)
+ - date_published: 2024-07-15T04:07:04.850850+00:00
+
+ ## Ministère de la Transition Écologique et de la Cohésion des Territoires
+ - [https://ecologie.gouv.fr](https://ecologie.gouv.fr)
+ - date_published: 2024-06-15T01:01:35+00:00
+
+ ## Le Ministère de la Transition écologique recrute
+ - [https://recrutement.ecologie.gouv.fr](https://recrutement.ecologie.gouv.fr)
+ - date_published: 2024-09-15T22:26:37.567230+00:00
+
+ ## Accueil | Ministère de la Transition écologique et de la Cohésion des territoires
+ - [https://www.ecologique-solidaire.gouv.fr](https://www.ecologique-solidaire.gouv.fr)
+ - date_published: 2024-08-19T17:52:41.572609+00:00
+
+ ## Accueil - Data Economie — Ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique
+ - [https://data.economie.gouv.fr](https://data.economie.gouv.fr)
+ - date_published: 2024-10-12T13:27:06.459744+00:00
+
+ ## economie.gouv.fr
+ - [https://economie.gouv.fr](https://economie.gouv.fr)
+ - date_published: 2024-05-10T04:32:39.612180+00:00
+
+ ## Direction générale du Trésor
+ - [https://www.tresor.economie.gouv.fr](https://www.tresor.economie.gouv.fr)
+ - date_published: 2024-10-14T21:15:25.894438+00:00
+
+ ## Unis pour notre École
+ - [https://www.education.gouv.fr](https://www.education.gouv.fr)
+ - date_published: 2024-09-15T20:41:54+00:00
+
+ ## Bienvenue sur le site des dons mobiliers de France | dons.encheres-domaine
+ - [https://dons.encheres-domaine.gouv.fr](https://dons.encheres-domaine.gouv.fr)
+ - date_published: 2024-10-12T13:27:03.472160+00:00
+
  ## Ensap
  - [https://ensap.gouv.fr](https://ensap.gouv.fr)
  - date_published: 2024-10-12T13:26:21.134205+00:00
@@ -3302,6 +3372,10 @@
  - [https://chunk.gg](https://chunk.gg)
  - date_published: 2024-09-30T10:33:43.188328+00:00
 
+ ## Cinefy
+ - [https://cinefy.gg](https://cinefy.gg)
+ - date_published: 2024-11-17T06:57:50.162022+00:00
+
  ## Cloud9 | Professional Esports Organization
  - [https://cloud9.gg](https://cloud9.gg)
  - date_published: 2024-05-09T04:50:11.028346+00:00
@@ -3970,76 +4044,4 @@
  ## Home - PRINTSTREAM
  - [https://printstream.gg](https://printstream.gg)
  - date_published: 2024-05-17T00:00:00+00:00
-
- ## Pursuit of Loot
- - [https://pursuitofloot.gg](https://pursuitofloot.gg)
- - date_published: 2024-05-11T10:22:07.599810+00:00
-
- ## Homepage - QLASH
- - [https://qlash.gg](https://qlash.gg)
- - date_published: 2019-09-09T19:32:18+00:00
-
- ## The Official React Query Course - 🔮 query.gg
- - [https://query.gg](https://query.gg)
- - date_published: 2024-05-06T21:26:25.589960+00:00
-
- ## RacingGames - The home of virtual motorsport
- - [https://racinggames.gg](https://racinggames.gg)
- - date_published: 2024-08-09T04:25:26.731860+00:00
-
- ## Rainmaker
- - [https://rainmaker.gg](https://rainmaker.gg)
- - date_published: 2024-07-09T10:04:57.157389+00:00
-
- ## Custom Esports Jerseys | Design, Print & Launch Store
- - [https://raven.gg](https://raven.gg)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## The interactive way to master modern React – react.gg
- - [https://react.gg](https://react.gg)
- - date_published: 2024-05-06T21:26:19.401149+00:00
-
- ## Develop NFT Games with Unity and Unreal | READYgg | Reinvent Play
- - [https://ready.gg](https://ready.gg)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## reb.gg
- - [https://reb.gg](https://reb.gg)
- - date_published: 2023-05-12T18:46:21+00:00
-
- ## rep3 - Join your favourite communities
- - [https://app.rep3.gg](https://app.rep3.gg)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## The Retro Spirit – Old games database, videos and reviews – Since 1832™
- - [https://retro.gg](https://retro.gg)
- - date_published: 2024-07-01T10:28:01.008311+00:00
-
- ## Retro Handhelds - Play It Forever
- - [https://retrohandhelds.gg](https://retrohandhelds.gg)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Riot Games Official News, Patch Notes & More - RiotWatch
- - [https://riotwatch.gg](https://riotwatch.gg)
- - date_published: 2023-12-13T16:15:50.241910+00:00
-
- ## Rising Empires
- - [https://www.risingempires.gg](https://www.risingempires.gg)
- - date_published: 2024-09-06T13:02:32.456276+00:00
-
- ## RobaRoba - Video Game Merch For All!
- - [https://robaroba.gg](https://robaroba.gg)
- - date_published: 2024-10-25T15:19:59.655148+00:00
-
- ## ROG - Republic of Gamers｜Global | For Those Who Dare
- - [https://my.rog.gg](https://my.rog.gg)
- - date_published: 2024-10-28T02:22:21+00:00
-
- ## ROG - Republic of Gamers｜Global | For Those Who Dare
- - [https://rog.gg](https://rog.gg)
- - date_published: 2024-05-27T06:11:21.904208+00:00
-
- ## Plik
- - [https://plik.root.gg](https://plik.root.gg)
- - date_published: 2023-09-19T20:23:58+00:00
 

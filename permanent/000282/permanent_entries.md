@@ -1,3 +1,71 @@
+ ## IREP
+ - [https://www.irep.asso.fr](https://www.irep.asso.fr)
+ - date_published: 2024-06-25T21:53:34.501720+00:00
+
+ ## Les Forums Régionaux du Savoir - L'Atrium Normandie
+ - [http://www.scienceaction.asso.fr](http://www.scienceaction.asso.fr)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## COMPUTO
+ - [https://computo.sfds.asso.fr](https://computo.sfds.asso.fr)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Bienvenue
+ - [https://www.sfds.asso.fr](https://www.sfds.asso.fr)
+ - date_published: 2024-06-25T21:53:36.825698+00:00
+
+ ## Association Solidarnet | Ensemble autour de numérique
+ - [https://solidarnet.asso.fr](https://solidarnet.asso.fr)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CCI Amiens-Picardie
+ - [http://www.amiens-picardie.cci.fr](http://www.amiens-picardie.cci.fr)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## CCI Hauts-de-France : entrepreneuriat, formation, apprentissage, conseils
+ - [https://hautsdefrance.cci.fr](https://hautsdefrance.cci.fr)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## CCI Nantes St-Nazaire
+ - [http://nantesstnazaire.cci.fr](http://nantesstnazaire.cci.fr)
+ - date_published: 2024-07-02T15:30:10+00:00
+
+ ## Accueil | Wydden - Formation Marketing Digital et Growth
+ - [http://1001startups.fr](http://1001startups.fr)
+ - date_published: 2020-02-19T21:18:48+00:00
+
+ ## 1083 : Jean français et vêtements fabriqués en France
+ - [https://www.1083.fr](https://www.1083.fr)
+ - date_published: 2024-07-03T05:05:09.819583+00:00
+
+ ## Trouvez enfin le métier qui vous convient
+ - [https://123-metier.fr](https://123-metier.fr)
+ - date_published: 2024-09-15T19:57:06.023760+00:00
+
+ ## Théâtre des 13 vents
+ - [https://www.13vents.fr](https://www.13vents.fr)
+ - date_published: 2024-10-29T14:13:21.783619+00:00
+
+ ## 148, Agence de communication digitale et créative
+ - [https://148.fr](https://148.fr)
+ - date_published: 2024-06-21T19:40:13.163937+00:00
+
+ ## 19–86
+ - [https://19-86.fr](https://19-86.fr)
+ - date_published: 2024-07-12T16:38:46.329881+00:00
+
+ ## Grossesse, bébé et magazine Bébés et Mamans gratuit - Bébés et Mamans
+ - [https://bebesetmamans.20minutes.fr](https://bebesetmamans.20minutes.fr)
+ - date_published: 2024-07-09T15:36:59+00:00
+
+ ## 20 minutes - Les Podcasts de 20 Minutes
+ - [https://podcasts.20minutes.fr](https://podcasts.20minutes.fr)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## 20 Minutes - Toute l’actualité en direct et les dernières infos en continu
+ - [https://www.20minutes.fr](https://www.20minutes.fr)
+ - date_published: 2024-07-18T05:27:01+00:00
+
  ## 20SIX.fr : magazine culturel nouvelle génération
  - [http://www.20six.fr](http://www.20six.fr)
  - date_published: 2024-06-26T10:42:06+00:00
@@ -3940,72 +4008,4 @@
  ## Qui sommes-nous ? - Office de Tourisme
  - [https://destination-rennes.fr](https://destination-rennes.fr)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Cabane en Gironde - Hébergement insolite dans la forêt
- - [https://www.des-vignes-et-des-songes.fr](https://www.des-vignes-et-des-songes.fr)
- - date_published: 2024-07-10T09:19:21.047113+00:00
-
- ## Bienvenue sur le site de Jérôme Deuchnord ! ⋄ Deuchnord
- - [https://www.deuchnord.fr](https://www.deuchnord.fr)
- - date_published: 2024-01-21T01:01:38+00:00
-
- ## Deuxfleurs : fabriquons un internet convivial
- - [https://deuxfleurs.fr](https://deuxfleurs.fr)
- - date_published: 2024-05-08T00:22:20.667034+00:00
-
- ## Garage - An open-source distributed object storage service
- - [https://garagehq.deuxfleurs.fr](https://garagehq.deuxfleurs.fr)
- - date_published: 2023-10-25T19:14:45.117352+00:00
-
- ## Gitea: git with a cup of coffee
- - [https://git.deuxfleurs.fr](https://git.deuxfleurs.fr)
- - date_published: 2024-05-08T00:17:17.441352+00:00
-
- ## Guichet
- - [https://guichet.deuxfleurs.fr](https://guichet.deuxfleurs.fr)
- - date_published: 2024-07-03T04:55:14.554333+00:00
-
- ## Guide Deuxfleurs
- - [https://guide.deuxfleurs.fr](https://guide.deuxfleurs.fr)
- - date_published: 2024-06-23T09:00:20+00:00
-
- ## Jitsi Meet
- - [https://jitsi.deuxfleurs.fr](https://jitsi.deuxfleurs.fr)
- - date_published: 2024-07-03T04:55:20.025052+00:00
-
- ## deuxfleurs ⋅ Plume
- - [https://plume.deuxfleurs.fr](https://plume.deuxfleurs.fr)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Accueil
- - [https://developpeur-pascal.fr](https://developpeur-pascal.fr)
- - date_published: 2024-06-17T03:34:43.225504+00:00
-
- ## DevFabrik - Création de site internet
- - [https://devfabrik.fr](https://devfabrik.fr)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Pôle Léonard de Vinci
- - [https://www.devinci.fr](https://www.devinci.fr)
- - date_published: 2024-07-03T05:39:36.370756+00:00
-
- ## Devoxx France – 12ème édition – du 17 au 19 avril 2024
- - [https://devoxx.fr](https://devoxx.fr)
- - date_published: 2024-05-03T08:56:49+00:00
-
- ## Devoxx France - Inscription 2024
- - [https://reg.devoxx.fr](https://reg.devoxx.fr)
- - date_published: 2024-07-08T19:51:05.550081+00:00
-
- ## Actus Gaming et streaming - Dexerto.fr
- - [https://dexerto.fr](https://dexerto.fr)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Actus Gaming et streaming - Dexerto.fr
- - [https://editors.dexerto.fr](https://editors.dexerto.fr)
- - date_published: 2024-06-15T23:33:44.303225+00:00
-
- ## Le Fix – toute l'actu de la culture rôliste
- - [http://lefix.di6dent.fr](http://lefix.di6dent.fr)
- - date_published: 2024-07-09T07:03:24.687227+00:00
 

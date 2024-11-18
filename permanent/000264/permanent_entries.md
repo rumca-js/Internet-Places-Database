@@ -1,3 +1,59 @@
+ ## Events Calendar - Oregon State University
+ - [https://events.oregonstate.edu](https://events.oregonstate.edu)
+ - date_published: 2024-06-20T01:58:18.803266+00:00
+
+ ## OSU Experience
+ - [https://experience.oregonstate.edu](https://experience.oregonstate.edu)
+ - date_published: 2024-06-20T01:39:35+00:00
+
+ ## OSU Extension Service
+ - [https://extension.oregonstate.edu](https://extension.oregonstate.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Parent & Family Programs
+ - [https://families.oregonstate.edu](https://families.oregonstate.edu)
+ - date_published: 2024-10-14T10:43:54+00:00
+
+ ## Family Resource Center
+ - [https://familyresources.oregonstate.edu](https://familyresources.oregonstate.edu)
+ - date_published: 2024-10-15T01:09:16+00:00
+
+ ## Finance and Administration
+ - [https://fa.oregonstate.edu](https://fa.oregonstate.edu)
+ - date_published: 2024-07-02T04:26:44+00:00
+
+ ## College of Agricultural Sciences
+ - [https://fic.oregonstate.edu](https://fic.oregonstate.edu)
+ - date_published: 2024-10-14T22:09:06+00:00
+
+ ## Application Management
+ - [https://files.admissions.oregonstate.edu](https://files.admissions.oregonstate.edu)
+ - date_published: 2022-07-29T19:17:26+00:00
+
+ ## Financial Aid
+ - [https://financialaid.oregonstate.edu](https://financialaid.oregonstate.edu)
+ - date_published: 2024-09-18T22:18:58+00:00
+
+ ## Graduate School at Oregon State University
+ - [https://gradschool.oregonstate.edu](https://gradschool.oregonstate.edu)
+ - date_published: 2024-10-14T23:31:09+00:00
+
+ ## Home - Guin | Guin Library | Oregon State University
+ - [https://guin.library.oregonstate.edu](https://guin.library.oregonstate.edu)
+ - date_published: 2024-10-15T00:28:08+00:00
+
+ ## College of Health
+ - [https://health.oregonstate.edu](https://health.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
+
+ ## Hatfield Marine Science Center
+ - [https://hmsc.oregonstate.edu](https://hmsc.oregonstate.edu)
+ - date_published: 2024-06-14T19:48:33+00:00
+
+ ## College of Agricultural Sciences
+ - [http://honeybeelab.oregonstate.edu](http://honeybeelab.oregonstate.edu)
+ - date_published: 2024-10-15T04:01:46+00:00
+
  ## Honors College
  - [https://honors.oregonstate.edu](https://honors.oregonstate.edu)
  - date_published: 2018-04-27T12:53:22+00:00
@@ -3950,60 +4006,4 @@
  ## Archives of the Impossible
  - [https://impossiblearchives.rice.edu](https://impossiblearchives.rice.edu)
  - date_published: 2024-07-30T11:57:05+00:00
-
- ## 2024 INFORMS Optimization Society Conference
- - [https://ios2024.blogs.rice.edu](https://ios2024.blogs.rice.edu)
- - date_published: 2024-06-22T11:53:32+00:00
-
- ## 2024 INFORMS Optimization Society Conference
- - [https://ios2024.rice.edu](https://ios2024.rice.edu)
- - date_published: 2024-05-04T15:43:56.017559+00:00
-
- ## Rice
- - [https://iso.rice.edu](https://iso.rice.edu)
- - date_published: 2024-06-26T18:24:38+00:00
-
- ## OIT
- - [https://it.rice.edu](https://it.rice.edu)
- - date_published: 2024-05-07T20:06:10.049090+00:00
-
- ## Jewish Studies
- - [https://jewishstudies.rice.edu](https://jewishstudies.rice.edu)
- - date_published: 2024-05-23T17:14:35+00:00
-
- ## Home
- - [https://jobs.rice.edu](https://jobs.rice.edu)
- - date_published: 2024-05-07T20:05:51.231193+00:00
-
- ## Rice University KB
- - [https://kb.rice.edu](https://kb.rice.edu)
- - date_published: 2024-05-07T20:06:02.177119+00:00
-
- ## Ken Kennedy Institute
- - [https://kenkennedy.rice.edu](https://kenkennedy.rice.edu)
- - date_published: 2024-05-30T14:41:28+00:00
-
- ## Kinder Institute for Urban Research
- - [https://kinder.rice.edu](https://kinder.rice.edu)
- - date_published: 2024-06-11T09:03:20+00:00
-
- ## Knowledge Café
- - [https://knowledgecafe.rice.edu](https://knowledgecafe.rice.edu)
- - date_published: 2024-07-01T18:08:35.489268+00:00
-
- ## Foreign Language Program
- - [https://languages.rice.edu](https://languages.rice.edu)
- - date_published: 2024-06-04T01:26:26+00:00
-
- ## LibGuides
- - [http://libguides.rice.edu](http://libguides.rice.edu)
- - date_published: 2024-07-01T17:59:33.487107+00:00
-
- ## Welcome | Fondren Library
- - [https://library.rice.edu](https://library.rice.edu)
- - date_published: 2024-05-07T20:05:32.296725+00:00
-
- ## Rice
- - [https://linguistics.rice.edu](https://linguistics.rice.edu)
- - date_published: 2024-05-04T08:02:40+00:00
 

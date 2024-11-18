@@ -1,3 +1,83 @@
+ ## DaC Reference — DaC Reference 0.1.0-alpha.2 documentation
+ - [https://dac-reference.readthedocs.io](https://dac-reference.readthedocs.io)
+ - date_published: 2024-08-09T12:07:50+00:00
+
+ ## Dagu — Dagu  documentation
+ - [https://dagu.readthedocs.io](https://dagu.readthedocs.io)
+ - date_published: 2024-07-06T13:27:47+00:00
+
+ ## DbUp
+ - [https://dbup.readthedocs.io](https://dbup.readthedocs.io)
+ - date_published: 2023-10-18T00:00:00+00:00
+
+ ## Dear PyGui’s Documentation — Dear PyGui  documentation
+ - [https://dearpygui.readthedocs.io](https://dearpygui.readthedocs.io)
+ - date_published: 2024-04-13T19:25:33+00:00
+
+ ## Gallery — pydeck 0.9.1 documentation
+ - [https://deckgl.readthedocs.io](https://deckgl.readthedocs.io)
+ - date_published: 2024-05-10T15:52:19+00:00
+
+ ## DeepSpeed — DeepSpeed 0.14.3 documentation
+ - [https://deepspeed.readthedocs.io](https://deepspeed.readthedocs.io)
+ - date_published: 2024-05-11T07:39:33.007882+00:00
+
+ ## DesignPatternsPHP — DesignPatternsPHP 1.0 documentation
+ - [https://designpatternsphp.readthedocs.io](https://designpatternsphp.readthedocs.io)
+ - date_published: 2023-09-30T20:08:25+00:00
+
+ ## Read the Docs developer documentation
+ - [https://dev.readthedocs.io](https://dev.readthedocs.io)
+ - date_published: 2024-06-20T17:35:58+00:00
+
+ ## Welcome to django-ca’s documentation! — django-ca 1.29.0.dev1 documentation
+ - [https://django-ca.readthedocs.io](https://django-ca.readthedocs.io)
+ - date_published: 2024-06-18T04:30:22+00:00
+
+ ## Django Evolution Documentation — Django Evolution  documentation
+ - [https://django-evolution.readthedocs.io](https://django-evolution.readthedocs.io)
+ - date_published: 2024-05-30T09:02:34+00:00
+
+ ## Welcome to the django-extensions documentation! — django-extensions 3.2.3 documentation
+ - [https://django-extensions.readthedocs.io](https://django-extensions.readthedocs.io)
+ - date_published: 2023-06-05T00:00:00+00:00
+
+ ## Django-Extensions 文档 — django-extensions 1.2.5 文档
+ - [https://django-extensions-zh.readthedocs.io](https://django-extensions-zh.readthedocs.io)
+ - date_published: 2021-01-29T02:20:38+00:00
+
+ ## django-fbv 0.6.0 documentation
+ - [https://django-fbv.readthedocs.io](https://django-fbv.readthedocs.io)
+ - date_published: 2023-01-01T14:46:24+00:00
+
+ ## Welcome to Haystack! — Haystack 2.5.0 documentation
+ - [http://django-haystack.readthedocs.io](http://django-haystack.readthedocs.io)
+ - date_published: 2024-06-04T14:47:45+00:00
+
+ ## Welcome to Django Multi-tenant’s documentation! — Django Multi-tenant 3.0.0 documentation
+ - [https://django-multitenant.readthedocs.io](https://django-multitenant.readthedocs.io)
+ - date_published: 2024-04-30T12:20:18+00:00
+
+ ## django-pglock
+ - [https://django-pglock.readthedocs.io](https://django-pglock.readthedocs.io)
+ - date_published: 2024-04-06T16:52:12+00:00
+
+ ## Django documentation — Django 5.0.3 documentation
+ - [https://django.readthedocs.io](https://django.readthedocs.io)
+ - date_published: 2023-11-01T08:43:47.341783+00:00
+
+ ## django-rich-logging 0.2.0 documentation
+ - [https://django-rich-logging.readthedocs.io](https://django-rich-logging.readthedocs.io)
+ - date_published: 2022-08-16T01:54:45+00:00
+
+ ## Welcome to django-tenants documentation! — django_tenants dev documentation
+ - [https://django-tenants.readthedocs.io](https://django-tenants.readthedocs.io)
+ - date_published: 2022-08-01T00:00:00+00:00
+
+ ## DNF, the next-generation replacement for YUM — DNF @DNF_VERSION@-1 documentation
+ - [https://dnf.readthedocs.io](https://dnf.readthedocs.io)
+ - date_published: 2024-08-22T08:00:22+00:00
+
  ## dnspython — dnspython 2.7.0 documentation
  - [https://dnspython.readthedocs.io](https://dnspython.readthedocs.io)
  - date_published: 2024-07-09T14:14:49+00:00
@@ -3946,84 +4026,4 @@
  ## SimSync - Free The Sims 4 Multiplayer Mod - Play Online With Friends
  - [https://simsync.io](https://simsync.io)
  - date_published: 2022-10-20T20:58:44+00:00
-
- ## flurries of latent creativity
- - [https://blog.singleton.io](https://blog.singleton.io)
- - date_published: 2023-10-25T20:07:00.018068+00:00
-
- ## Adventures in wine making at home. // dps
- - [https://wine.singleton.io](https://wine.singleton.io)
- - date_published: 2021-10-04T00:00:00+00:00
-
- ## SingularityNET – Medium
- - [https://blog.singularitynet.io](https://blog.singularitynet.io)
- - date_published: 2024-09-25T15:04:55.041366+00:00
-
- ## Welcome to the AI Dev Community
- - [https://dev.singularitynet.io](https://dev.singularitynet.io)
- - date_published: 2024-09-04T13:06:54+00:00
-
- ## SingularityNET
- - [https://singularitynet.io](https://singularitynet.io)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## SingularityNET - Next Generation of Decentralized AI - SingularityNET - Next Generation of Decentralized AI
- - [https://stagging.singularitynet.io](https://stagging.singularitynet.io)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## OlegWock
- - [https://sinja.io](https://sinja.io)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## sinso-official-website
- - [https://sinso.io](https://sinso.io)
- - date_published: 2024-09-24T03:11:06.811080+00:00
-
- ## SIP3 Hoof
- - [https://demo.sip3.io](https://demo.sip3.io)
- - date_published: 2024-03-12T16:27:43+00:00
-
- ## SIP3 - Monitor your VoIP and RTC traffic real-time
- - [https://sip3.io](https://sip3.io)
- - date_published: 2020-04-30T00:00:00+00:00
-
- ## Sip Color for Mac
- - [https://sipapp.io](https://sipapp.io)
- - date_published: 2024-07-14T08:30:02.387368+00:00
-
- ## sipgate.io - Kommunikation für Ihre Software-Projekte
- - [https://sipgate.io](https://sipgate.io)
- - date_published: 2024-10-05T23:07:36.464070+00:00
-
- ## Sirdata Audience
- - [https://audience.sirdata.io](https://audience.sirdata.io)
- - date_published: 2024-09-12T08:22:34+00:00
-
- ## Sirdata CMP | Français | Sirdata CMP
- - [https://cmp.docs.sirdata.io](https://cmp.docs.sirdata.io)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Solution de gestion du consentement, aide à la mise en conformité RGPD et ePrivacy | Sirdata CMP
- - [https://cmp.sirdata.io](https://cmp.sirdata.io)
- - date_published: 2024-06-14T13:41:52+00:00
-
- ## Sirdata API | Sirdata API
- - [https://docs.sirdata.io](https://docs.sirdata.io)
- - date_published: 2024-06-15T01:34:45.429787+00:00
-
- ## Sirdata Analytics Helper
- - [https://helper.sirdata.io](https://helper.sirdata.io)
- - date_published: 2024-06-13T12:28:28+00:00
-
- ## About | Semantic API
- - [https://semantic-api.docs.sirdata.io](https://semantic-api.docs.sirdata.io)
- - date_published: 2024-06-15T01:34:53.602815+00:00
-
- ## Search-based Investigative Intelligence Platform - SIREN
- - [https://siren.io](https://siren.io)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## SIRIUSNET blockchain explorer | Blockscout
- - [https://scan.siriusnet.io](https://scan.siriusnet.io)
- - date_published: 2024-09-23T23:48:02.187466+00:00
 

@@ -1,3 +1,7 @@
+ ## Cierpliwości...
+ - [https://atpworldtour.com](https://atpworldtour.com)
+ - date_published: 2024-05-11T07:33:19.506315+00:00
+
  ## Home Realm Discovery
  - [https://www.atractive.com](https://www.atractive.com)
  - date_published: 2024-07-09T22:23:12.329660+00:00
@@ -4031,8 +4035,4 @@
  ## #1 Conversational Intelligence | RevOps | Aviso AI for Sales
  - [https://www.aviso.com](https://www.aviso.com)
  - date_published: 2024-06-19T19:34:37.520687+00:00
-
- ## Avis clients : Boostez vos ventes avec Avis Vérifiés !
- - [https://avis-verifies.com](https://avis-verifies.com)
- - date_published: 2024-04-17T00:00:00+00:00
 

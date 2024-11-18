@@ -1,3 +1,15 @@
+ ## ::  Suscripciones periódico El Colombiano  ::
+ - [https://digitales.elcolombiano.com](https://digitales.elcolombiano.com)
+ - date_published: 2023-03-13T09:30:03+00:00
+
+ ## El Colombiano | noticias de Medellín, Antioquia, Colombia y el mundo.
+ - [https://elcolombiano.com](https://elcolombiano.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## El Colombiano | noticias de Medellín, Antioquia, Colombia y el mundo.
+ - [https://m.elcolombiano.com](https://m.elcolombiano.com)
+ - date_published: 2024-09-10T12:41:33.807323+00:00
+
  ## User's blog – Just another WordPress site
  - [https://webstories.elcolombiano.com](https://webstories.elcolombiano.com)
  - date_published: 2024-09-10T12:41:39.672436+00:00
@@ -4026,16 +4038,4 @@
  ## Market Research Reports and Business Consulting | Emergen Research
  - [https://emergenresearch.com](https://emergenresearch.com)
  - date_published: 2024-10-30T10:56:23.867638+00:00
-
- ## emergent by design
- - [http://emergentbydesign.com](http://emergentbydesign.com)
- - date_published: 2024-06-20T02:24:29.695867+00:00
-
- ## Emergent Divergence Autism and Neurodiversity
- - [http://emergentdivergence.com](http://emergentdivergence.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## emergent math
- - [http://emergentmath.com](http://emergentmath.com)
- - date_published: 2024-09-09T23:46:51.704625+00:00
 

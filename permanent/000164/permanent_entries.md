@@ -1,3 +1,23 @@
+ ## Official New England Patriots News and Analysis
+ - [https://www.patriots.com](https://www.patriots.com)
+ - date_published: 2024-06-21T22:49:31.750673+00:00
+
+ ## Patriot's Military Movement – Once Stop Daily News: Truth Will Restore A Constitutional Republic
+ - [https://patriotsmilitarymovement.com](https://patriotsmilitarymovement.com)
+ - date_published: 2024-05-06T16:49:17.905191+00:00
+
+ ## Patrisnews - Εφημερίδα ΠΑΤΡΙΣ - Ηλεία Live Πύργος News Ειδήσεις
+ - [https://www.patrisnews.com](https://www.patrisnews.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## PATROL
+ - [https://www.patrolmovie.com](https://www.patrolmovie.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Home - PatronBase
+ - [https://au.patronbase.com](https://au.patronbase.com)
+ - date_published: 2024-10-21T03:49:19.220498+00:00
+
  ## Home - PatronBase
  - [https://nz.patronbase.com](https://nz.patronbase.com)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -4024,24 +4044,4 @@
  ## Penske Logistics
  - [https://www.penskelogistics.com](https://www.penskelogistics.com)
  - date_published: 2024-09-16T07:31:11.552133+00:00
-
- ## Penske Truck Leasing
- - [https://www.pensketruckleasing.com](https://www.pensketruckleasing.com)
- - date_published: 2024-09-16T07:31:32.792525+00:00
-
- ## Penske Truck Rental
- - [https://www.pensketruckrental.com](https://www.pensketruckrental.com)
- - date_published: 2024-09-16T07:31:10.110477+00:00
-
- ## Penske Used Trucks
- - [https://www.penskeusedtrucks.com](https://www.penskeusedtrucks.com)
- - date_published: 2024-09-16T07:31:46.936447+00:00
-
- ## Pentacent
- - [https://pentacent.com](https://pentacent.com)
- - date_published: 2021-05-31T11:34:21+00:00
-
- ## - Pentación Espectáculos -
- - [http://pentacion.com](http://pentacion.com)
- - date_published: 2024-07-14T14:46:26.425266+00:00
 

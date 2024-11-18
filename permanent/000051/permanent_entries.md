@@ -1,3 +1,7 @@
+ ## Accueil - Le Barouillet à Pomport en Périgord
+ - [http://barouillet.com](http://barouillet.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Bar Exam Questions: Practice Bar Exam (MBE, MEE, MPT Review)
  - [https://barprephero.com](https://barprephero.com)
  - date_published: 2024-09-02T10:32:43+00:00
@@ -4015,8 +4019,4 @@
  ## Behaviorbabe: All Things ABA
  - [https://www.behaviorbabe.com](https://www.behaviorbabe.com)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Behavior Bitches
- - [https://www.behaviorbitches.com](https://www.behaviorbitches.com)
- - date_published: 2024-07-08T00:00:00+00:00
 

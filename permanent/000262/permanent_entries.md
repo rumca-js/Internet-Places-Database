@@ -1,3 +1,59 @@
+ ## Highland Road Park Observatory
+ - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
+ - date_published: 2024-08-11T23:29:53.016186+00:00
+
+ ## Home
+ - [https://itservice.lsu.edu](https://itservice.lsu.edu)
+ - date_published: 2024-05-07T19:30:45.434428+00:00
+
+ ## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://lsu.edu](https://lsu.edu)
+ - date_published: 2024-05-07T19:30:48.158325+00:00
+
+ ## Louisiana State University LSU
+ - [https://map.lsu.edu](https://map.lsu.edu)
+ - date_published: 2024-07-01T14:40:42.568388+00:00
+
+ ## myLSU - Single Sign On
+ - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
+ - date_published: 2024-05-07T19:30:59.182311+00:00
+
+ ## LSU Online
+ - [https://online.lsu.edu](https://online.lsu.edu)
+ - date_published: 2024-07-01T14:40:26.617404+00:00
+
+ ## Pre-College Programs
+ - [https://precollege.lsu.edu](https://precollege.lsu.edu)
+ - date_published: 2024-07-01T14:40:32.271999+00:00
+
+ ## LSU Scholarly Repository | Louisiana State University Research
+ - [https://repository.lsu.edu](https://repository.lsu.edu)
+ - date_published: 2024-06-30T02:30:53.509351+00:00
+
+ ## Home | SciViz
+ - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
+ - date_published: 2013-04-09T20:36:37+00:00
+
+ ## Louisiana State University
+ - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
+ - date_published: 2024-05-07T19:30:53.429998+00:00
+
+ ## LSU TigerWare Online
+ - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
+ - date_published: 2024-07-07T05:34:22.150397+00:00
+
+ ## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date_published: 2023-10-25T11:24:20.932943+00:00
+
+ ## High Performance Computing | Louisiana State University
+ - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
+ - date_published: 2024-07-07T05:34:20.231485+00:00
+
+ ## LSU Law
+ - [http://www.law.lsu.edu](http://www.law.lsu.edu)
+ - date_published: 2024-06-17T11:15:28+00:00
+
  ## Welcome to LSU Libraries | LSU Libraries
  - [https://www.lib.lsu.edu](https://www.lib.lsu.edu)
  - date_published: 2024-07-01T14:40:47.428824+00:00
@@ -3950,60 +4006,4 @@
  ## Farm Law and Tax for Producers and Landowners | NC State Extension
  - [https://farmlaw.ces.ncsu.edu](https://farmlaw.ces.ncsu.edu)
  - date_published: 2024-10-15T05:29:20.027272+00:00
-
- ## Farm Planning Resources | NC State Extension
- - [https://farmplanning.ces.ncsu.edu](https://farmplanning.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:42.174197+00:00
-
- ## Farm to School | NC State Extension
- - [https://farmtoschool.ces.ncsu.edu](https://farmtoschool.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:11.565958+00:00
-
- ## Family & Consumer Sciences Program | NC State Extension
- - [https://fcs.ces.ncsu.edu](https://fcs.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:19.635409+00:00
-
- ## Feed Milling | NC State Extension
- - [https://feedmilling.ces.ncsu.edu](https://feedmilling.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:38.134599+00:00
-
- ## Field Days | NC State Extension
- - [https://fielddays.ces.ncsu.edu](https://fielddays.ces.ncsu.edu)
- - date_published: 2024-10-15T05:41:41.584162+00:00
-
- ## North Carolina Food Animal Initiative
- - [https://foodanimal.ncsu.edu](https://foodanimal.ncsu.edu)
- - date_published: 2024-10-15T05:01:11+00:00
-
- ## Food Business | NC State Extension
- - [https://foodbusiness.ces.ncsu.edu](https://foodbusiness.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:02.670545+00:00
-
- ## FoodCoVNET | NC State Extension
- - [https://foodcovnet.ces.ncsu.edu](https://foodcovnet.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:44.902389+00:00
-
- ## Food Safety | NC State Extension
- - [https://foodsafety.ces.ncsu.edu](https://foodsafety.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:05.213364+00:00
-
- ## Food Safety for Processors | NC State Extension
- - [https://foodsafetyprocessors.ces.ncsu.edu](https://foodsafetyprocessors.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:58.826319+00:00
-
- ## Food Safety Repository | NC State Extension
- - [https://foodsafetyrepository.ces.ncsu.edu](https://foodsafetyrepository.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:18.776562+00:00
-
- ## Forages | NC State Extension
- - [https://forages.ces.ncsu.edu](https://forages.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:58.865139+00:00
-
- ## Extension Forestry | NC State Extension
- - [https://forestry.ces.ncsu.edu](https://forestry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:47.635032+00:00
-
- ## Forsyth County Center | N.C. Cooperative Extension
- - [https://forsyth.ces.ncsu.edu](https://forsyth.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:37.719745+00:00
 

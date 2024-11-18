@@ -1,3 +1,7 @@
+ ## Japanese Breakfast
+ - [https://michellezauner.bandcamp.com](https://michellezauner.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Artists | Midnight People
  - [https://midnight-people.bandcamp.com](https://midnight-people.bandcamp.com)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -4003,8 +4007,4 @@ rain or shine
  ## Baroque Software
  - [https://baroquesoftware.com](https://baroquesoftware.com)
  - date_published: 2018-01-04T12:27:28+00:00
-
- ## Accueil - Le Barouillet à Pomport en Périgord
- - [http://barouillet.com](http://barouillet.com)
- - date_published: 2024-07-09T00:00:00+00:00
 

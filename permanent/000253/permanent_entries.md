@@ -1,3 +1,55 @@
+ ## PlacetoPay :: Pasarela de Pagos en Latinoamérica
+ - [https://placetopay.dev](https://placetopay.dev)
+ - date_published: 2024-08-20T21:42:49+00:00
+
+ ## plainweb
+ - [https://www.plainweb.dev](https://www.plainweb.dev)
+ - date_published: 2024-09-02T09:50:49.373633+00:00
+
+ ## Plane – run WebSocket backends at scale – Plane
+ - [https://plane.dev](https://plane.dev)
+ - date_published: 2024-05-01T07:46:41.271304+00:00
+
+ ## Platformatic Blog
+ - [https://blog.platformatic.dev](https://blog.platformatic.dev)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Platformatic
+ - [https://platformatic.dev](https://platformatic.dev)
+ - date_published: 2024-06-18T10:30:18+00:00
+
+ ## Shift - Page builder
+ - [https://shift.playgrnd.dev](https://shift.playgrnd.dev)
+ - date_published: 2024-07-14T10:19:20.664966+00:00
+
+ ## Fast and reliable end-to-end testing for modern web apps | Playwright
+ - [https://playwright.dev](https://playwright.dev)
+ - date_published: 2024-03-14T15:14:49.454739+00:00
+
+ ## Dennis Plettner - Software Lösungen für Ihr Unternehmen
+ - [https://plettner.dev](https://plettner.dev)
+ - date_published: 2024-08-08T15:26:20.301275+00:00
+
+ ## Your Plug and Playground
+ - [https://plugandplayground.dev](https://plugandplayground.dev)
+ - date_published: 2024-09-25T20:52:09+00:00
+
+ ## home - plungepool wiki.
+ - [https://wiki.plungepool.dev](https://wiki.plungepool.dev)
+ - date_published: 2024-05-25T00:25:21+00:00
+
+ ## plusmid's blog
+ - [https://blog.plusmid.dev](https://blog.plusmid.dev)
+ - date_published: 2023-06-29T18:21:11+00:00
+
+ ## 프날 오토핫키 v2 : 오토핫키, 시작은 프날 강좌와 함께!
+ - [https://ahkv2.pnal.dev](https://ahkv2.pnal.dev)
+ - date_published: 2024-05-12T04:14:16.119129+00:00
+
+ ## Pock: Widgets manager for MacBook Touch Bar
+ - [https://pock.dev](https://pock.dev)
+ - date_published: 2022-02-25T14:12:56+00:00
+
  ## Welcome to pocketpy | Portable Python 3.x Interpreter in Modern C
  - [https://pocketpy.dev](https://pocketpy.dev)
  - date_published: 2024-11-08T12:12:05+00:00
@@ -3646,6 +3698,10 @@
  - [https://wmd.dev](https://wmd.dev)
  - date_published: 2024-07-10T00:00:00+00:00
 
+ ## Hello! Hola! Hoi!
+ - [https://woile.dev](https://woile.dev)
+ - date_published: 2020-07-07T21:14:43+00:00
+
  ## Women Who Code - Empowering women to excel in tech careers
  - [https://admin.womenwhocode.dev](https://admin.womenwhocode.dev)
  - date_published: 2024-06-20T12:54:45.997155+00:00
@@ -4016,60 +4072,4 @@
  ## Ziggit
  - [https://ziggit.dev](https://ziggit.dev)
  - date_published: 2024-04-28T00:00:00+00:00
-
- ## Zilvinas Kucinskas — Ruby on Rails Software Engineer
- - [https://ziku.dev](https://ziku.dev)
- - date_published: 2024-05-11T10:18:04.175240+00:00
-
- ## ZIO Chat
- - [http://chat.zio.dev](http://chat.zio.dev)
- - date_published: 2024-07-24T03:17:47.828156+00:00
-
- ## ZIO | ZIO
- - [https://zio.dev](https://zio.dev)
- - date_published: 2024-04-29T07:04:45.531743+00:00
-
- ## ZipTie - Indexing Intelligence Platform
- - [https://dashboard.ziptie.dev](https://dashboard.ziptie.dev)
- - date_published: 2024-06-16T05:36:36.904717+00:00
-
- ## ZipTie.dev SEO tool
- - [https://ziptie.dev](https://ziptie.dev)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## ZK Bench
- - [https://zkbench.dev](https://zkbench.dev)
- - date_published: 2024-09-21T23:26:32.027060+00:00
-
- ## zkSync Era Discord Invite
- - [https://join.zksync.dev](https://join.zksync.dev)
- - date_published: 2024-09-22T00:01:08.469648+00:00
-
- ## 🤫🔍 ZKtools.dev - Zero Knowledge Tools for Developers
- - [https://zktools.dev](https://zktools.dev)
- - date_published: 2024-09-23T12:20:04.301662+00:00
-
- ## Zlatko's Photo Site
- - [https://photos.zlatko.dev](https://photos.zlatko.dev)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Zlatko Đurić
- - [https://zlatko.dev](https://zlatko.dev)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## TypeScript-first schema validation with static type inference
- - [https://zod.dev](https://zod.dev)
- - date_published: 2024-04-29T07:30:39.565510+00:00
-
- ## Zoo status
- - [https://status.zoo.dev](https://status.zoo.dev)
- - date_published: 2024-04-30T02:31:55.005519+00:00
-
- ## Zoo Store
- - [https://store.zoo.dev](https://store.zoo.dev)
- - date_published: 2024-04-30T02:31:56.607242+00:00
-
- ## Zoo: Home
- - [https://zoo.dev](https://zoo.dev)
- - date_published: 2023-12-20T23:10:16.596825+00:00
 

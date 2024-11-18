@@ -1,3 +1,71 @@
+ ## Etusivu - UEFConnect
+ - [https://uefconnect.uef.fi](https://uefconnect.uef.fi)
+ - date_published: 2024-05-08T00:11:58.023866+00:00
+
+ ## Itä-Suomen yliopisto
+ - [https://uef.fi](https://uef.fi)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://weboodi.uef.fi](https://weboodi.uef.fi)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## UEF Webshop
+ - [https://uefwebshop.fi](https://uefwebshop.fi)
+ - date_published: 2024-07-03T03:52:59.015369+00:00
+
+ ## Lapin yliopiston tutkimusportaali
+ - [https://research.ulapland.fi](https://research.ulapland.fi)
+ - date_published: 2024-07-02T22:27:57.219151+00:00
+
+ ## Lapin yliopisto
+ - [https://www.ulapland.fi](https://www.ulapland.fi)
+ - date_published: 2024-05-07T23:39:39.649447+00:00
+
+ ## Markkinointi- ja viestintätoimisto | Unfair Lean Marketing
+ - [https://www.unfair.fi](https://www.unfair.fi)
+ - date_published: 2024-09-10T23:49:21.450106+00:00
+
+ ## Taideyliopisto | Taiteen ylintä koulutusta Suomessa
+ - [https://www.uniarts.fi](https://www.uniarts.fi)
+ - date_published: 2024-08-07T23:20:10.038981+00:00
+
+ ## UNTIL WE ACT - Finnish Climate Collaboration
+ - [https://untilweact.fi](https://untilweact.fi)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The URN resolver of The National Library of Finland
+ - [https://urn.fi](https://urn.fi)
+ - date_published: 2023-05-24T12:44:02+00:00
+
+ ## Useful Aalto Map
+ - [http://usefulaaltomap.fi](http://usefulaaltomap.fi)
+ - date_published: 2024-05-17T10:49:13+00:00
+
+ ## Turun yliopiston blogeja – Turun yliopiston blogeja
+ - [https://blogit.utu.fi](https://blogit.utu.fi)
+ - date_published: 2024-05-08T00:12:03.464609+00:00
+
+ ## Medical Bioinformatics Centre – Transforming Data to Knowledge
+ - [https://elolab.utu.fi](https://elolab.utu.fi)
+ - date_published: 2024-07-03T03:54:00.783925+00:00
+
+ ## IDM main page
+ - [https://idm.utu.fi](https://idm.utu.fi)
+ - date_published: 2024-06-19T06:11:42+00:00
+
+ ## Sign in - Matomo
+ - [https://mtm.utu.fi](https://mtm.utu.fi)
+ - date_published: 2024-05-08T00:12:04.597499+00:00
+
+ ## PeuhuLab – Breast Development and Cancer
+ - [https://peuhulab.utu.fi](https://peuhulab.utu.fi)
+ - date_published: 2024-07-03T03:53:57.226452+00:00
+
+ ## UTU
+ - [https://sites.utu.fi](https://sites.utu.fi)
+ - date_published: 2024-05-08T00:12:07.427551+00:00
+
  ## IDM main page
  - [https://sso.utu.fi](https://sso.utu.fi)
  - date_published: 2024-08-01T10:16:08+00:00
@@ -3942,72 +4010,4 @@
  ## Association G6
  - [http://www.g6.asso.fr](http://www.g6.asso.fr)
  - date_published: 2024-07-07T00:00:57.230742+00:00
-
- ## IREP
- - [https://www.irep.asso.fr](https://www.irep.asso.fr)
- - date_published: 2024-06-25T21:53:34.501720+00:00
-
- ## Les Forums Régionaux du Savoir - L'Atrium Normandie
- - [http://www.scienceaction.asso.fr](http://www.scienceaction.asso.fr)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## COMPUTO
- - [https://computo.sfds.asso.fr](https://computo.sfds.asso.fr)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Bienvenue
- - [https://www.sfds.asso.fr](https://www.sfds.asso.fr)
- - date_published: 2024-06-25T21:53:36.825698+00:00
-
- ## Association Solidarnet | Ensemble autour de numérique
- - [https://solidarnet.asso.fr](https://solidarnet.asso.fr)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## CCI Amiens-Picardie
- - [http://www.amiens-picardie.cci.fr](http://www.amiens-picardie.cci.fr)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## CCI Hauts-de-France : entrepreneuriat, formation, apprentissage, conseils
- - [https://hautsdefrance.cci.fr](https://hautsdefrance.cci.fr)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## CCI Nantes St-Nazaire
- - [http://nantesstnazaire.cci.fr](http://nantesstnazaire.cci.fr)
- - date_published: 2024-07-02T15:30:10+00:00
-
- ## Accueil | Wydden - Formation Marketing Digital et Growth
- - [http://1001startups.fr](http://1001startups.fr)
- - date_published: 2020-02-19T21:18:48+00:00
-
- ## 1083 : Jean français et vêtements fabriqués en France
- - [https://www.1083.fr](https://www.1083.fr)
- - date_published: 2024-07-03T05:05:09.819583+00:00
-
- ## Trouvez enfin le métier qui vous convient
- - [https://123-metier.fr](https://123-metier.fr)
- - date_published: 2024-09-15T19:57:06.023760+00:00
-
- ## Théâtre des 13 vents
- - [https://www.13vents.fr](https://www.13vents.fr)
- - date_published: 2024-10-29T14:13:21.783619+00:00
-
- ## 148, Agence de communication digitale et créative
- - [https://148.fr](https://148.fr)
- - date_published: 2024-06-21T19:40:13.163937+00:00
-
- ## 19–86
- - [https://19-86.fr](https://19-86.fr)
- - date_published: 2024-07-12T16:38:46.329881+00:00
-
- ## Grossesse, bébé et magazine Bébés et Mamans gratuit - Bébés et Mamans
- - [https://bebesetmamans.20minutes.fr](https://bebesetmamans.20minutes.fr)
- - date_published: 2024-07-09T15:36:59+00:00
-
- ## 20 minutes - Les Podcasts de 20 Minutes
- - [https://podcasts.20minutes.fr](https://podcasts.20minutes.fr)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## 20 Minutes - Toute l’actualité en direct et les dernières infos en continu
- - [https://www.20minutes.fr](https://www.20minutes.fr)
- - date_published: 2024-07-18T05:27:01+00:00
 

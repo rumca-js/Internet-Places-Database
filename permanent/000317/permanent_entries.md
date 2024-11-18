@@ -1,3 +1,83 @@
+ ## IIS Einaudi - Scarpa
+ - [https://www.iiseinaudiscarpa.edu.it](https://www.iiseinaudiscarpa.edu.it)
+ - date_published: 2024-10-13T07:28:51.337575+00:00
+
+ ## home - IIS E. FERMI BAGNARA
+ - [https://iisfermibagnara.edu.it](https://iisfermibagnara.edu.it)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Istituto Istruzione Superiore "Fermi Sacconi Ceci" Ascoli Piceno
+ - [https://www.iisfermisacconiceciap.edu.it](https://www.iisfermisacconiceciap.edu.it)
+ - date_published: 2024-10-13T07:13:24.565321+00:00
+
+ ## Istituto d’Istruzione Superiore “F. Filelfo”
+ - [https://www.iisfilelfo.edu.it](https://www.iisfilelfo.edu.it)
+ - date_published: 2024-10-13T07:13:56.519248+00:00
+
+ ## Istituto Istruzione Superiore "Basilio Focaccia"
+ - [http://www.iisfocaccia.edu.it](http://www.iisfocaccia.edu.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## IIS Galilei - Vetrone
+ - [https://www.iisgalileivetrone.edu.it](https://www.iisgalileivetrone.edu.it)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Istituto di Istruzione Superiore Luigi Galvani - Milano | Istituto Tecnico, Liceo Linguistico, Liceo delle Scienze Applicate
+ - [https://www.iisgalvanimi.edu.it](https://www.iisgalvanimi.edu.it)
+ - date_published: 2024-10-13T07:24:37.387108+00:00
+
+ ## Istituto Istruzione Superiore "CASSATA GATTAPONE"
+ - [https://www.iisgubbio.edu.it](https://www.iisgubbio.edu.it)
+ - date_published: 2024-10-13T07:16:47.026677+00:00
+
+ ## IIS "GIOVAN BATTISTA HODIERNA" DI MUSSOMELI
+ - [https://www.iishodierna.edu.it](https://www.iishodierna.edu.it)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Istituto Istruzione Superiore J.F. Kennedy Monselice
+ - [https://www.iiskennedy.edu.it](https://www.iiskennedy.edu.it)
+ - date_published: 2024-10-13T07:21:32.584926+00:00
+
+ ## I.I.S. E. MAJORANA – ISTITUTO D’ISTRUZIONE SUPERIORE ITI-IPA-ITA – Corigliano Rossano (CS)
+ - [https://www.iismajoranarossano.edu.it](https://www.iismajoranarossano.edu.it)
+ - date_published: 2024-10-13T06:52:23.135052+00:00
+
+ ## IIS Concetto Marchesi Mascalucia – Liceo Classico, Liceo Scientifico, Istituto Tecnico ad indirizzo Chimico
+ - [https://www.iismarchesimascalucia.edu.it](https://www.iismarchesimascalucia.edu.it)
+ - date_published: 2024-10-13T06:52:56.720066+00:00
+
+ ## I.I.S. "Margherita Hack" Liceo Scientifico - Tecnico Specializzazione Informatica
+ - [https://www.iismargheritahackbaronissi.edu.it](https://www.iismargheritahackbaronissi.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Piero Martinetti – Una nuova scuola per un nuovo sapere
+ - [https://www.iismartinetti.edu.it](https://www.iismartinetti.edu.it)
+ - date_published: 2024-10-11T10:11:03+00:00
+
+ ## Home
+ - [https://www.iismatteifortunato.edu.it](https://www.iismatteifortunato.edu.it)
+ - date_published: 2024-10-12T08:18:16+00:00
+
+ ## I.OC. "Mauro Del Giudice" – Rodi Garganico (FG)
+ - [https://www.iismaurodelgiudice.edu.it](https://www.iismaurodelgiudice.edu.it)
+ - date_published: 2024-10-13T07:13:37.076244+00:00
+
+ ## Istituto D'Istruzione Superiore "G. MAZZINI"- Vittoria (RG)
+ - [https://www.iismazzinivittoria.edu.it](https://www.iismazzinivittoria.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## I.I.S. N. Miraglia Lauria
+ - [https://www.iismiraglialauria.edu.it](https://www.iismiraglialauria.edu.it)
+ - date_published: 2024-10-13T06:56:01.819600+00:00
+
+ ## Istituto Istruzione Superiore Peano Torino
+ - [https://www.iispeano.edu.it](https://www.iispeano.edu.it)
+ - date_published: 2024-10-13T07:02:18.891470+00:00
+
+ ## I.I.S. G.B. Pentasuglia
+ - [http://www.iispentasuglia.edu.it](http://www.iispentasuglia.edu.it)
+ - date_published: 2024-10-13T07:16:41.493219+00:00
+
  ## POLO TECNICO PROFESSIONALE Di LUGO
  - [https://www.iispololugo.edu.it](https://www.iispololugo.edu.it)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -3929,85 +4009,4 @@
       proprietà.
  - [https://vero.ebay.it](https://vero.ebay.it)
  - date_published: 2024-06-16T22:35:09+00:00
-
- ## Stan's Hub
- - [http://www.ebyte.it](http://www.ebyte.it)
- - date_published: 2019-08-25T23:57:41+00:00
-
- ## Home | Museum Eccel Kreuzer
- - [https://www.eccel-kreuzer.it](https://www.eccel-kreuzer.it)
- - date_published: 2024-07-14T04:03:51.165576+00:00
-
- ## Edgar Allan Poe – Rivista culturale aperiodica su Poe
- - [https://edgarallanpoe.it](https://edgarallanpoe.it)
- - date_published: 2024-05-06T15:16:22.901372+00:00
- - tags: ['literature', 'writing']
-
- ## EDGE: LGBTI+ leaders for change
- - [https://www.edge-glbt.it](https://www.edge-glbt.it)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Manuali edises: preparazione universitaria
- - [https://www.edisesuniversita.it](https://www.edisesuniversita.it)
- - date_published: 2024-07-02T06:25:01.504476+00:00
-
- ## Edison, azienda italiana leader nel mercato energetico
- - [https://www.edison.it](https://www.edison.it)
- - date_published: 2024-07-14T00:48:38+00:00
-
- ## E-Distribuzione: distribuzione e misura di energia elettrica
- - [https://www.e-distribuzione.it](https://www.e-distribuzione.it)
- - date_published: 2024-10-28T23:37:46+00:00
-
- ## Editoriale Delfino | Delfino Group's Holding
- - [https://editorialedelfino.it](https://editorialedelfino.it)
- - date_published: 2024-10-15T16:48:04.620763+00:00
-
- ## Ultime notizie in tempo reale - Domani
- - [https://editorialedomani.it](https://editorialedomani.it)
- - date_published: 2024-05-25T01:49:56.228066+00:00
-
- ## Edizioni Anicia - Edizioni Anicia
- - [https://www.edizionianicia.it](https://www.edizionianicia.it)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Edizioni E/O
- - [http://www.edizionieo.it](http://www.edizionieo.it)
- - date_published: 2024-09-14T22:36:18.889275+00:00
-
- ## Trapped inside a tölva
- - [https://edoput.it](https://edoput.it)
- - date_published: 2023-10-25T20:14:48.397571+00:00
-
- ## edulia Treccani Scuola
- - [https://corsi-scuola.edulia.it](https://corsi-scuola.edulia.it)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## edulia Masterclass | Dal sapere Treccani
- - [https://edulia.it](https://edulia.it)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Liberi dai media
- - [https://edumediacom.it](https://edumediacom.it)
- - date_published: 2024-05-07T23:39:20.258606+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Italy - eFinancialCareers
- - [https://www.efinancialcareers.it](https://www.efinancialcareers.it)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EF Education First | Italia
- - [https://www.ef-italia.it](https://www.ef-italia.it)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Einstein Telescope Italia
- - [https://www.einstein-telescope.it](https://www.einstein-telescope.it)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## EIZO | High-end-Monitore
- - [https://cdn.eizo.it](https://cdn.eizo.it)
- - date_published: 2024-07-09T07:00:05.959969+00:00
-
- ## Login
- - [https://dynamic.eizo.it](https://dynamic.eizo.it)
- - date_published: 2022-03-15T00:00:00+00:00
 

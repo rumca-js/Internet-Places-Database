@@ -1,3 +1,75 @@
+ ## Pursuit of Loot
+ - [https://pursuitofloot.gg](https://pursuitofloot.gg)
+ - date_published: 2024-05-11T10:22:07.599810+00:00
+
+ ## Homepage - QLASH
+ - [https://qlash.gg](https://qlash.gg)
+ - date_published: 2019-09-09T19:32:18+00:00
+
+ ## The Official React Query Course - 🔮 query.gg
+ - [https://query.gg](https://query.gg)
+ - date_published: 2024-05-06T21:26:25.589960+00:00
+
+ ## RacingGames - The home of virtual motorsport
+ - [https://racinggames.gg](https://racinggames.gg)
+ - date_published: 2024-08-09T04:25:26.731860+00:00
+
+ ## Rainmaker
+ - [https://rainmaker.gg](https://rainmaker.gg)
+ - date_published: 2024-07-09T10:04:57.157389+00:00
+
+ ## Custom Esports Jerseys | Design, Print & Launch Store
+ - [https://raven.gg](https://raven.gg)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## The interactive way to master modern React – react.gg
+ - [https://react.gg](https://react.gg)
+ - date_published: 2024-05-06T21:26:19.401149+00:00
+
+ ## Develop NFT Games with Unity and Unreal | READYgg | Reinvent Play
+ - [https://ready.gg](https://ready.gg)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## reb.gg
+ - [https://reb.gg](https://reb.gg)
+ - date_published: 2023-05-12T18:46:21+00:00
+
+ ## rep3 - Join your favourite communities
+ - [https://app.rep3.gg](https://app.rep3.gg)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## The Retro Spirit – Old games database, videos and reviews – Since 1832™
+ - [https://retro.gg](https://retro.gg)
+ - date_published: 2024-07-01T10:28:01.008311+00:00
+
+ ## Retro Handhelds - Play It Forever
+ - [https://retrohandhelds.gg](https://retrohandhelds.gg)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Riot Games Official News, Patch Notes & More - RiotWatch
+ - [https://riotwatch.gg](https://riotwatch.gg)
+ - date_published: 2023-12-13T16:15:50.241910+00:00
+
+ ## Rising Empires
+ - [https://www.risingempires.gg](https://www.risingempires.gg)
+ - date_published: 2024-09-06T13:02:32.456276+00:00
+
+ ## RobaRoba - Video Game Merch For All!
+ - [https://robaroba.gg](https://robaroba.gg)
+ - date_published: 2024-10-25T15:19:59.655148+00:00
+
+ ## ROG - Republic of Gamers｜Global | For Those Who Dare
+ - [https://my.rog.gg](https://my.rog.gg)
+ - date_published: 2024-10-28T02:22:21+00:00
+
+ ## ROG - Republic of Gamers｜Global | For Those Who Dare
+ - [https://rog.gg](https://rog.gg)
+ - date_published: 2024-05-27T06:11:21.904208+00:00
+
+ ## Plik
+ - [https://plik.root.gg](https://plik.root.gg)
+ - date_published: 2023-09-19T20:23:58+00:00
+
  ## Scenario - AI-generated game assets
  - [https://www.scenario.gg](https://www.scenario.gg)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3937,77 +4009,4 @@
  ## Self Exclusion Portal
  - [https://gaming-exclusion.service.ct.gov](https://gaming-exclusion.service.ct.gov)
  - date_published: 2023-08-20T19:32:30+00:00
-
- ## Health
- - [https://health.ct.gov](https://health.ct.gov)
- - date_published: 2024-09-18T20:27:01.017553+00:00
-
- ## Jobs.CT.Gov
- - [https://jobs.ct.gov](https://jobs.ct.gov)
- - date_published: 2024-09-18T20:25:48.193030+00:00
-
- ## Connecticut Judicial Branch
- - [http://jud.ct.gov](http://jud.ct.gov)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## CT.GOV-Connecticut's Official State Website
- - [https://portal.ct.gov](https://portal.ct.gov)
- - date_published: 2024-06-15T17:45:11.585758+00:00
-
- ## Connecticut General Assembly
- - [http://www.cga.ct.gov](http://www.cga.ct.gov)
- - date_published: 2024-06-26T21:41:08.286418+00:00
-
- ## Asistencia local para la solicitud de seguro de salud
- - [https://ayudalocal.cuidadodesalud.gov](https://ayudalocal.cuidadodesalud.gov)
- - date_published: 2024-09-27T08:33:47.730556+00:00
-
- ## ¿Aún necesita seguro médico?
- - [https://www.cuidadodesalud.gov](https://www.cuidadodesalud.gov)
- - date_published: 2024-06-13T16:10:39+00:00
-
- ## The Official Government Website of Cuyahoga County
- - [https://www.cuyahogacounty.gov](https://www.cuyahogacounty.gov)
- - date_published: 2024-06-20T12:59:06.142128+00:00
-
- ## Darien, CT | Official Website
- - [https://www.darienct.gov](https://www.darienct.gov)
- - date_published: 2024-07-01T23:24:06.882734+00:00
-
- ## api.data.gov
- - [https://api.data.gov](https://api.data.gov)
- - date_published: 2023-11-20T17:24:11+00:00
-
- ## Data.gov Home - Data.gov
- - [https://catalog.data.gov](https://catalog.data.gov)
- - date_published: 2024-06-21T10:43:08.467100+00:00
-
- ## Data.gov Home - Data.gov
- - [https://data.gov](https://data.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | resources.data.gov
- - [https://resources.data.gov](https://resources.data.gov)
- - date_published: 2024-04-01T17:11:42+00:00
-
- ## Welcome - Federal Data Strategy
- - [https://strategy.data.gov](https://strategy.data.gov)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Data Privacy Framework
- - [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov)
- - date_published: 2024-04-16T21:10:26+00:00
-
- ## Home
-		 · DC Business Portal
- - [https://business.dc.gov](https://business.dc.gov)
- - date_published: 2024-06-29T15:22:34.678689+00:00
-
- ## HELC
- - [https://helc.osse.dc.gov](https://helc.osse.dc.gov)
- - date_published: 2024-04-30T04:56:20.786151+00:00
-
- ## Office of Attorney General for the District of Columbia | Attorney General Brian Schwalb
- - [https://oag.dc.gov](https://oag.dc.gov)
- - date_published: 2024-06-18T00:00:00+00:00
 

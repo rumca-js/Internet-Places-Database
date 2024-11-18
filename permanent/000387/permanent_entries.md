@@ -1,3 +1,95 @@
+ ## SIGCSE TS 2024
+ - [https://www.sigcse2024.org](https://www.sigcse2024.org)
+ - date_published: 2024-06-30T02:13:26.264043+00:00
+
+ ## About Us - SIGDA
+ - [https://sigda.org](https://sigda.org)
+ - date_published: 2024-04-30T03:26:40.004457+00:00
+
+ ## ACL SIGDAT
+ - [http://www.sigdat.org](http://www.sigdat.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home - EC 2021
+ - [http://ec21.sigecom.org](http://ec21.sigecom.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## ACM SIGecom
+ - [https://sigecom.org](https://sigecom.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Local index - HTTrack Website Copier
+ - [http://gecco-2016.sigevo.org](http://gecco-2016.sigevo.org)
+ - date_published: 2018-10-23T13:26:17+00:00
+
+ ## GECCO 2021 | HomePage
+ - [https://gecco-2021.sigevo.org](https://gecco-2021.sigevo.org)
+ - date_published: 2024-08-19T18:39:04.275990+00:00
+
+ ## GECCO 2024 | HomePage
+ - [https://gecco-2024.sigevo.org](https://gecco-2024.sigevo.org)
+ - date_published: 2024-07-07T09:19:18.915240+00:00
+
+ ## Home - SIGGRAPH Asia 2024
+ - [https://asia.siggraph.org](https://asia.siggraph.org)
+ - date_published: 2023-10-30T10:23:33+00:00
+
+ ## Latest Posts - ACM SIGGRAPH Blog
+ - [https://blog.siggraph.org](https://blog.siggraph.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## RCDC@SIGGRAPH – SIGGRAPH Research Career Development Committee
+ - [https://research.siggraph.org](https://research.siggraph.org)
+ - date_published: 2024-08-07T14:14:34.590706+00:00
+
+ ## Index of /
+ - [http://s2015.siggraph.org](http://s2015.siggraph.org)
+ - date_published: 2024-07-02T13:33:24.803789+00:00
+
+ ## Home - SIGGRAPH 2018
+ - [https://s2018.siggraph.org](https://s2018.siggraph.org)
+ - date_published: 2019-04-25T21:39:52+00:00
+
+ ## Home | SIGGRAPH 2019
+ - [https://s2019.siggraph.org](https://s2019.siggraph.org)
+ - date_published: 2024-04-30T05:42:57.692867+00:00
+
+ ## SIGGRAPH 2020 - SIGGRAPH
+ - [https://s2020.siggraph.org](https://s2020.siggraph.org)
+ - date_published: 2024-07-11T14:32:21.408992+00:00
+
+ ## Home Page | SIGGRAPH 2021
+ - [https://s2021.siggraph.org](https://s2021.siggraph.org)
+ - date_published: 2024-06-05T21:58:33+00:00
+
+ ## Home Page | SIGGRAPH 2022
+ - [https://s2022.siggraph.org](https://s2022.siggraph.org)
+ - date_published: 2023-10-13T16:21:26+00:00
+
+ ## SIGGRAPH 2023
+ - [https://s2023.siggraph.org](https://s2023.siggraph.org)
+ - date_published: 2024-06-22T08:50:29.707222+00:00
+
+ ## SIGGRAPH 2024
+ - [https://s2024.siggraph.org](https://s2024.siggraph.org)
+ - date_published: 2024-07-03T02:06:55+00:00
+
+ ## SIGGRAPH Asia 2018
+ - [https://sa2018.siggraph.org](https://sa2018.siggraph.org)
+ - date_published: 2019-12-27T12:31:46+00:00
+
+ ## SIGGRAPH Asia 2019
+ - [https://sa2019.siggraph.org](https://sa2019.siggraph.org)
+ - date_published: 2020-04-24T15:59:40+00:00
+
+ ## Home
+ - [https://sa2021.siggraph.org](https://sa2021.siggraph.org)
+ - date_published: 2024-07-03T04:40:12.065780+00:00
+
+ ## Page has moved
+ - [https://sa2022.siggraph.org](https://sa2022.siggraph.org)
+ - date_published: 2023-08-02T18:48:04+00:00
+
  ## Home - ACM SIGGRAPH
  - [https://siggraph.org](https://siggraph.org)
  - date_published: 2021-10-19T23:47:50+00:00
@@ -3939,102 +4031,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## St. Paul Homebrew Club
  - [https://sphbc.org](https://sphbc.org)
  - date_published: 2024-05-04T07:28:19.679009+00:00
-
- ## Welcome — Sphinx documentation
- - [http://sphinx-doc.org](http://sphinx-doc.org)
- - date_published: 2024-05-04T15:19:07.697474+00:00
-
- ## Sphinx Themes Gallery
- - [https://sphinx-themes.org](https://sphinx-themes.org)
- - date_published: 2024-08-12T01:03:32+00:00
-
- ## Spice.ai Blog
- - [https://blog.spiceai.org](https://blog.spiceai.org)
- - date_published: 2024-03-28T19:17:56.011421+00:00
-
- ## Home | Spice.ai OSS Docs
- - [https://docs.spiceai.org](https://docs.spiceai.org)
- - date_published: 2024-07-12T06:09:28+00:00
-
- ## spicerack.org
- - [https://spicerack.org](https://spicerack.org)
- - date_published: 2024-07-14T22:36:22.864002+00:00
-
- ## Home
- - [https://spice-space.org](https://spice-space.org)
- - date_published: 2024-04-16T18:13:53.882042+00:00
- - tags: ['open source', 'remote desktop']
-
- ## SPIDER – Inclusive digitalisation that benefits all
- - [https://spidercenter.org](https://spidercenter.org)
- - date_published: 2024-06-27T10:25:32+00:00
-
- ## SpiderFan.Org @ SpiderFan.org
- - [https://spiderfan.org](https://spiderfan.org)
- - date_published: 2024-05-17T12:17:51+00:00
- - tags: ['spiderman']
-
- ## SPIE - the international society for optics and photonics
- - [https://spie.org](https://spie.org)
- - date_published: 2024-06-20T12:04:39.114480+00:00
-
- ## Proceedings
- - [http://proceedings.spiedigitallibrary.org](http://proceedings.spiedigitallibrary.org)
- - date_published: 2024-07-15T07:08:48.509444+00:00
-
- ## Search the world's largest 
-collection of optics and
-photonics applied research.
- - [https://www.spiedigitallibrary.org](https://www.spiedigitallibrary.org)
- - date_published: 2024-07-15T07:08:58.593850+00:00
-
- ## SPIFlash.org
- - [http://spiflash.org](http://spiflash.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## SPI
- - [https://spi-inc.org](https://spi-inc.org)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['new york']
-
- ## Spike 150
- - [https://spike150.org](https://spike150.org)
- - date_published: 2018-04-30T19:42:46+00:00
-
- ## Kent R. Spillner
- - [https://kent.spillner.org](https://kent.spillner.org)
- - date_published: 2023-07-31T08:07:09+00:00
- - tags: ['personal']
-
- ## Home - UK Spindletop Hall
- - [http://www.spindletophall.org](http://www.spindletophall.org)
- - date_published: 2024-07-09T17:24:05.705822+00:00
-
- ## Spinwatch
- - [http://www.spinwatch.org](http://www.spinwatch.org)
- - date_published: 2024-06-28T20:57:50.195694+00:00
-
- ## Spirit of Harmony Foundation | Supporting the Moral Imperative of Music Education
- - [http://www.spiritofharmony.org](http://www.spiritofharmony.org)
- - date_published: 2024-08-20T05:04:33.729486+00:00
-
- ## Home - Spirits United
- - [https://www.spiritsunited.org](https://www.spiritsunited.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Spiritual Friendship
- - [https://spiritualfriendship.org](https://spiritualfriendship.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Network of Spiritual Progressives – A Path to a World of Love and Justice
- - [https://spiritualprogressives.org](https://spiritualprogressives.org)
- - date_published: 2024-07-19T02:27:56+00:00
-
- ## Welcome spittoon.org - FastDomain.com
- - [http://www.spittoon.org](http://www.spittoon.org)
- - date_published: 2024-10-21T13:00:44.099553+00:00
-
- ## SPJ
- - [https://my.spj.org](https://my.spj.org)
- - date_published: 2024-09-04T02:17:02.160941+00:00
 

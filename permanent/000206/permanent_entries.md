@@ -1,3 +1,39 @@
+ ## The Web Platform Podcast
+ - [https://thewebplatformpodcast.com](https://thewebplatformpodcast.com)
+ - date_published: 2021-02-08T17:17:40+00:00
+
+ ## Curated Luxury Fashion, Beauty & Lifestyle
+ - [https://thewebster.com](https://thewebster.com)
+ - date_published: 2024-07-14T02:07:57.627678+00:00
+
+ ## - The Wedge
+ - [https://thewedgeportland.com](https://thewedgeportland.com)
+ - date_published: 2024-07-09T15:14:11.372074+00:00
+
+ ## CDS Global : w1.buysub.com
+ - [https://subscribe.theweek.com](https://subscribe.theweek.com)
+ - date_published: 2024-05-06T17:26:33.950420+00:00
+
+ ## Official Subscription Site | The Week Magazine US
+ - [https://subscription.theweek.com](https://subscription.theweek.com)
+ - date_published: 2024-10-20T22:49:18.769696+00:00
+
+ ## The Week | All you need to know about everything that matters
+ - [https://theweek.com](https://theweek.com)
+ - date_published: 2023-10-25T10:39:27.419795+00:00
+
+ ## The Week US
+ - [https://usmagazine.theweek.com](https://usmagazine.theweek.com)
+ - date_published: 2024-05-06T17:26:37.514682+00:00
+
+ ## Homepage | Kids The Week Junior
+ - [https://kids.theweekjunior.com](https://kids.theweekjunior.com)
+ - date_published: 2024-06-25T13:08:50+00:00
+
+ ## CDS Global : w1.buysub.com
+ - [https://subscribe.theweekjunior.com](https://subscribe.theweekjunior.com)
+ - date_published: 2024-06-25T17:33:29.779656+00:00
+
  ## Homepage | The Week Junior
  - [https://theweekjunior.com](https://theweekjunior.com)
  - date_published: 2024-05-06T17:26:35.239548+00:00
@@ -4013,40 +4049,4 @@ Press/Editor and Publisher Philip Shropshire
  ## tidal.com
  - [https://account.tidal.com](https://account.tidal.com)
  - date_published: 2024-08-07T12:56:42.162424+00:00
-
- ## Jobs at TIDAL
- - [https://careers.tidal.com](https://careers.tidal.com)
- - date_published: 2024-06-18T08:54:20+00:00
-
- ## TIDAL Developer Portal
- - [https://developer.tidal.com](https://developer.tidal.com)
- - date_published: 2024-06-21T21:21:15.787163+00:00
-
- ## TIDAL Embed Generator
- - [https://embed.tidal.com](https://embed.tidal.com)
- - date_published: 2024-05-04T14:04:36.622063+00:00
-
- ## Try the TIDAL Web Player
- - [https://listen.tidal.com](https://listen.tidal.com)
- - date_published: 2024-05-29T09:57:50.804996+00:00
-
- ## TIDAL - High Fidelity Music Streaming
- - [https://tidal.com](https://tidal.com)
- - date_published: 2024-04-28T04:14:51.823247+00:00
-
- ## Try the TIDAL Web Player
- - [https://listen.tidalhifi.com](https://listen.tidalhifi.com)
- - date_published: 2024-05-08T06:01:01.761762+00:00
-
- ## Tidal Wave | Arda Capital | Substack
- - [https://newsletter.tidalwaveresearch.com](https://newsletter.tidalwaveresearch.com)
- - date_published: 2024-05-02T10:23:04.487547+00:00
-
- ## TiDB Serverless: Cost-Efficient, Simple, Modern MySQL That Scales Effortlessly
- - [https://tidbcloud.com](https://tidbcloud.com)
- - date_published: 2024-06-19T19:12:17.410120+00:00
-
- ## TidBITS
- - [http://db.tidbits.com](http://db.tidbits.com)
- - date_published: 2024-08-02T23:36:41.899876+00:00
 

@@ -1,3 +1,15 @@
+ ## down the avenue
+ - [http://www.downtheavenue.com](http://www.downtheavenue.com)
+ - date_published: 2024-07-13T10:23:15.374361+00:00
+
+ ## a Cincinnati Bearcats community
+ - [https://www.downthedrive.com](https://www.downthedrive.com)
+ - date_published: 2024-06-29T01:45:42.014491+00:00
+
+ ## Down the Rabbit Hole Designs – Down the Rabbit Hole Designs
+ - [https://downtherabbitholedesigns.com](https://downtherabbitholedesigns.com)
+ - date_published: 2024-05-13T03:40:51.167968+00:00
+
  ## Down The Trail - Hiking Guides, Gear, and Journals
  - [https://www.downthetrail.com](https://www.downthetrail.com)
  - date_published: 2024-06-22T18:51:40.834300+00:00
@@ -4037,17 +4049,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## Dungeon Investing | Substack
  - [https://www.dungeoninvesting.com](https://www.dungeoninvesting.com)
  - date_published: 2024-04-16T00:00:00+00:00
-
- ## dungeon-lords.com
- - [http://www.dungeon-lords.com](http://www.dungeon-lords.com)
- - date_published: 2024-07-11T17:08:11.072233+00:00
-
- ## Dungeon Map Doodler
- - [https://dungeonmapdoodler.com](https://dungeonmapdoodler.com)
- - date_published: 2023-10-25T13:59:52.064138+00:00
- - tags: ['ttrpg', 'role playing games']
-
- ## Dungeon Master Forum - Index page
- - [http://www.dungeon-master.com](http://www.dungeon-master.com)
- - date_published: 2024-07-11T00:00:00+00:00
 

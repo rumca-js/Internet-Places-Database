@@ -1,3 +1,59 @@
+ ## Home
+ - [https://research.uc.edu](https://research.uc.edu)
+ - date_published: 2024-07-01T22:06:23.237806+00:00
+
+ ## Template
+ - [https://ucdirectory.uc.edu](https://ucdirectory.uc.edu)
+ - date_published: 2024-05-07T20:42:18.256515+00:00
+
+ ## Home
+ - [http://uc.edu](http://uc.edu)
+ - date_published: 2024-06-18T22:38:24+00:00
+
+ ## College of Arts and Sciences
+ - [http://www.artsci.uc.edu](http://www.artsci.uc.edu)
+ - date_published: 2024-07-02T14:27:38+00:00
+
+ ## Data discovery guided by experts | Climate Data Guide
+ - [https://climatedataguide.ucar.edu](https://climatedataguide.ucar.edu)
+ - date_published: 2024-07-04T08:15:10+00:00
+
+ ## Home - UCAR Commons
+ - [https://commons.ucar.edu](https://commons.ucar.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## DART | The Data Assimilation Research Testbed
+ - [https://dart.ucar.edu](https://dart.ucar.edu)
+ - date_published: 2024-06-06T16:54:30+00:00
+
+ ## Home | Education, Engagement & Early-Career Development
+ - [https://edec.ucar.edu](https://edec.ucar.edu)
+ - date_published: 2024-06-16T22:58:31+00:00
+
+ ## - ithelp.ucar.edu
+ - [https://help.ucar.edu](https://help.ucar.edu)
+ - date_published: 2024-10-15T07:15:14.292250+00:00
+
+ ## User account | EOL Internal Website
+ - [https://internal.eol.ucar.edu](https://internal.eol.ucar.edu)
+ - date_published: 2024-10-15T07:16:09.303639+00:00
+
+ ## NSF National Center for Atmospheric Research | National Center for Atmospheric Research
+ - [https://ncar.ucar.edu](https://ncar.ucar.edu)
+ - date_published: 2024-06-16T22:46:16+00:00
+
+ ## News | NCAR & UCAR News
+ - [https://news.ucar.edu](https://news.ucar.edu)
+ - date_published: 2024-10-15T07:06:53+00:00
+
+ ## Explore the Collection | OpenSky
+ - [https://opensky.ucar.edu](https://opensky.ucar.edu)
+ - date_published: 2024-10-15T04:12:36+00:00
+
+ ## RAL Home | Research Applications Laboratory
+ - [https://ral.ucar.edu](https://ral.ucar.edu)
+ - date_published: 2024-06-16T22:58:34.432879+00:00
+
  ## Home Page | Center for Science Education
  - [https://scied.ucar.edu](https://scied.ucar.edu)
  - date_published: 2024-05-01T08:10:31.247681+00:00
@@ -3969,60 +4025,4 @@
  ## Home | Aurora
  - [https://kendalllab.media.uconn.edu](https://kendalllab.media.uconn.edu)
  - date_published: 2024-07-01T02:07:45+00:00
-
- ## Home | Kendall Lab
- - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Home | Richard N. Langlois
- - [http://langlois.uconn.edu](http://langlois.uconn.edu)
- - date_published: 2024-10-29T16:29:22+00:00
-
- ## Home | Aurora
- - [https://law.media.uconn.edu](https://law.media.uconn.edu)
- - date_published: 2024-10-18T22:30:39.593934+00:00
-
- ## Home | School of Law
- - [https://law.uconn.edu](https://law.uconn.edu)
- - date_published: 2024-10-18T22:30:47.559512+00:00
-
- ## Home | Thomas J. Meskill Law Library
- - [https://library.law.uconn.edu](https://library.law.uconn.edu)
- - date_published: 2024-10-18T22:30:45.472162+00:00
-
- ## Home | University of Connecticut Logic Group
- - [https://logic.uconn.edu](https://logic.uconn.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## UConn Magazine
- - [https://magazine.uconn.edu](https://magazine.uconn.edu)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Management & Entrepreneurship Department | UConn School of Business
- - [http://management.business.uconn.edu](http://management.business.uconn.edu)
- - date_published: 2024-07-01T23:11:47+00:00
-
- ## Marketing Department | UConn School of Business
- - [http://marketing.business.uconn.edu](http://marketing.business.uconn.edu)
- - date_published: 2024-07-01T22:52:09+00:00
-
- ## Home page | Math Club
- - [https://mathclub.math.uconn.edu](https://mathclub.math.uconn.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Home | Aurora
- - [https://math.media.uconn.edu](https://math.media.uconn.edu)
- - date_published: 2024-07-21T00:09:30+00:00
-
- ## Aurora outage
- - [https://math.uconn.edu](https://math.uconn.edu)
- - date_published: 2024-04-30T07:32:52.315694+00:00
-
- ## UConn MBA Programs | Top - Ranked | Fast & Flexible
- - [https://mba.business.uconn.edu](https://mba.business.uconn.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Online Master of Science in Accounting (MSA) - UConn
- - [http://msaccounting.business.uconn.edu](http://msaccounting.business.uconn.edu)
- - date_published: 2024-02-13T00:00:00+00:00
 

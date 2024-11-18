@@ -1,3 +1,28 @@
+ ## Show HN: I removed politics from Twitter with AI
+ - [https://www.mindfw.com](https://www.mindfw.com)
+ - date_published: 2024-09-14T08:02:48+00:00
+
+ ## 마음건강 길
+ - [http://mindgil.com](http://mindgil.com)
+ - date_published: 2024-07-04T05:50:51.906364+00:00
+
+ ## Unlock Your Full Potential | MindHack Podcast
+ - [https://mindhack.com](https://mindhack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Mind Hacks
+ - [https://mindhacks.com](https://mindhacks.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## MindHub365 |
+            Home
+            
+            
+            
+            - MindHub365
+ - [https://mindhub365.com](https://mindhub365.com)
+ - date_published: 2024-10-11T08:10:52.230590+00:00
+
  ## Minding our way
  - [https://mindingourway.com](https://mindingourway.com)
  - date_published: 2024-05-07T16:01:27.375512+00:00
@@ -4026,24 +4051,4 @@ MLB Auctions
  ## Mobsuccess
  - [https://www.mobsuccess.com](https://www.mobsuccess.com)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## Mobupps | Mobile advertising
- - [https://mobupps.com](https://mobupps.com)
- - date_published: 2024-05-06T17:57:37.548934+00:00
-
- ## Moby Dick Big Read
- - [https://mobydickbigread.com](https://mobydickbigread.com)
- - date_published: 2024-05-07T09:13:35.452819+00:00
-
- ## Video Game Database - MobyGames
- - [https://mobygames.com](https://mobygames.com)
- - date_published: 2023-12-11T18:42:10.778368+00:00
-
- ## Moby IT - Software Reimagined
- - [https://moby-it.com](https://moby-it.com)
- - date_published: 2024-08-17T06:47:43.115192+00:00
-
- ## moby's photo blog of strange and beautiful architecture in los angeles.
- - [http://mobylosangelesarchitecture.com](http://mobylosangelesarchitecture.com)
- - date_published: 2024-09-14T22:44:28.734482+00:00
 

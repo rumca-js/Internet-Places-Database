@@ -1,3 +1,7 @@
+ ## Cormoran Development Blog
+ - [http://cormoran-project.blogspot.com](http://cormoran-project.blogspot.com)
+ - date_published: 2024-02-19T08:51:09+00:00
+
  ## Drones Club
  - [https://corneliusbear.blogspot.com](https://corneliusbear.blogspot.com)
  - date_published: 2024-02-20T18:37:09+00:00
@@ -4003,8 +4007,4 @@
  ## EU Referendum
  - [http://eureferendum.blogspot.com](http://eureferendum.blogspot.com)
  - date_published: 2024-02-28T07:35:03+00:00
-
- ## UEFA EURO, Fifa world cup, World Cup babe , football & soccer game
- - [http://euro2008spirit.blogspot.com](http://euro2008spirit.blogspot.com)
- - date_published: 2024-03-14T09:03:20+00:00
 

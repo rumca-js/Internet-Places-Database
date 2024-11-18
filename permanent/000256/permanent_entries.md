@@ -1,3 +1,59 @@
+ ## Planning, Design & Construction
+ - [https://pdc.arizona.edu](https://pdc.arizona.edu)
+ - date_published: 2024-07-09T17:11:38.585992+00:00
+
+ ## Philosophy Homepage
+ - [https://philosophy.arizona.edu](https://philosophy.arizona.edu)
+ - date_published: 2024-07-13T23:29:17.849357+00:00
+
+ ## University of Arizona College of Medicine - Phoenix Home | The University of Arizona College of Medicine – Phoenix
+ - [https://phoenixmed.arizona.edu](https://phoenixmed.arizona.edu)
+ - date_published: 2024-07-22T07:05:09+00:00
+
+ ## Phonebook | UA Directory
+ - [https://phonebook.arizona.edu](https://phonebook.arizona.edu)
+ - date_published: 2024-02-15T18:05:59+00:00
+
+ ## P  I  R  L
+ - [https://pirlwww.lpl.arizona.edu](https://pirlwww.lpl.arizona.edu)
+ - date_published: 2023-09-15T20:00:42+00:00
+
+ ## WebAuth Login
+ - [http://planning.uaccess.arizona.edu](http://planning.uaccess.arizona.edu)
+ - date_published: 2024-07-07T09:24:05.554165+00:00
+
+ ## Welcome
+ - [https://postdoc.arizona.edu](https://postdoc.arizona.edu)
+ - date_published: 2024-07-09T11:45:22+00:00
+
+ ## Executive Office of the President
+ - [http://president.arizona.edu](http://president.arizona.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## About Central Privacy | Privacy
+ - [https://privacy.arizona.edu](https://privacy.arizona.edu)
+ - date_published: 2024-04-30T03:05:19.479796+00:00
+
+ ## UA Profiles
+ - [https://profiles.arizona.edu](https://profiles.arizona.edu)
+ - date_published: 2024-07-09T13:48:15+00:00
+
+ ## Home
+ - [https://provost.arizona.edu](https://provost.arizona.edu)
+ - date_published: 2024-07-09T11:34:42+00:00
+
+ ## Home
+ - [https://psychology.arizona.edu](https://psychology.arizona.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Mel and Enid Zuckerman College of Public Health
+ - [https://publichealth.arizona.edu](https://publichealth.arizona.edu)
+ - date_published: 2024-07-22T03:10:49+00:00
+
+ ## Home
+ - [https://quickstart.arizona.edu](https://quickstart.arizona.edu)
+ - date_published: 2024-08-19T12:43:41+00:00
+
  ## REDCap
  - [https://redcap.uahs.arizona.edu](https://redcap.uahs.arizona.edu)
  - date_published: 2024-07-22T00:00:00+00:00
@@ -3947,60 +4003,4 @@
  ## Sochiatrist - Brown University HCI Group
  - [https://sochiatrist.cs.brown.edu](https://sochiatrist.cs.brown.edu)
  - date_published: 2023-10-19T02:30:01+00:00
-
- ## School of Public Health | Brown University
- - [https://sph.brown.edu](https://sph.brown.edu)
- - date_published: 2024-05-09T05:07:49.216363+00:00
-
- ## Brown CS: No Title
- - [http://static.cs.brown.edu](http://static.cs.brown.edu)
- - date_published: 2019-01-18T18:42:47+00:00
-
- ## Redirect
- - [https://students.brown.edu](https://students.brown.edu)
- - date_published: 2024-04-28T05:44:21.900880+00:00
-
- ## Web Login Service
- - [https://today.brown.edu](https://today.brown.edu)
- - date_published: 2024-06-30T07:10:36.607320+00:00
-
- ## The UX Factor
- - [https://uxfactor.cs.brown.edu](https://uxfactor.cs.brown.edu)
- - date_published: 2023-10-19T02:51:01+00:00
-
- ## Brown Visual Computing
- - [https://visual.cs.brown.edu](https://visual.cs.brown.edu)
- - date_published: 2024-06-05T23:59:21+00:00
-
- ## Researchers @ Brown
- - [https://vivo.brown.edu](https://vivo.brown.edu)
- - date_published: 2024-05-09T05:07:46.549966+00:00
-
- ## Watson Institute for International and Public Affairs
- - [https://watson.brown.edu](https://watson.brown.edu)
- - date_published: 2023-10-25T18:48:34.751888+00:00
-
- ## WebGazer.js: Democratizing Webcam Eye Tracking on the Browser
- - [https://webgazer.cs.brown.edu](https://webgazer.cs.brown.edu)
- - date_published: 2023-10-19T02:24:02+00:00
-
- ## Applied Mathematics
- - [https://www.dam.brown.edu](https://www.dam.brown.edu)
- - date_published: 2024-05-07T15:42:36.077613+00:00
-
- ## Department of Mathematics | Brown University
- - [http://www.math.brown.edu](http://www.math.brown.edu)
- - date_published: 2024-06-30T08:57:13.582746+00:00
-
- ## Bryn Mawr Classical Review – Bryn Mawr Classical Review
- - [https://bmcr.brynmawr.edu](https://bmcr.brynmawr.edu)
- - date_published: 2024-06-24T10:21:43.061665+00:00
-
- ## Scholarship, Research, and Creative Work at Bryn Mawr College | Bryn Mawr College Research
- - [https://repository.brynmawr.edu](https://repository.brynmawr.edu)
- - date_published: 2024-07-02T10:48:23.604980+00:00
-
- ## Images & Manuscripts | TriCollege Libraries
- - [http://triptych.brynmawr.edu](http://triptych.brynmawr.edu)
- - date_published: 2024-06-21T20:39:36.752845+00:00
 

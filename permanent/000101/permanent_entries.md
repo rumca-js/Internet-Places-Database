@@ -1,3 +1,15 @@
+ ## FAQPopup: Drive user engagement with interactive FAQs
+ - [https://www.faqpopup.com](https://www.faqpopup.com)
+ - date_published: 2024-07-16T17:58:03.942801+00:00
+
+ ## Dicer.ai | AI Marketing Insights
+ - [https://faqx.com](https://faqx.com)
+ - date_published: 2024-06-19T19:57:17.250886+00:00
+
+ ## Faraday Copper | Mineral Exploration & Project Development
+ - [https://faradaycopper.com](https://faradaycopper.com)
+ - date_published: 2024-05-04T09:44:04.223837+00:00
+
  ## Faraday Security - Protect your business, scale your security.
  - [https://appstore.faradaysec.com](https://appstore.faradaysec.com)
  - date_published: 2024-10-31T07:49:21.862266+00:00
@@ -4018,16 +4030,4 @@
  ## Bienvenue chez notre site Fiat West Africa - Site Officiel
  - [https://fiat-wa.com](https://fiat-wa.com)
  - date_published: 2024-10-28T20:04:04+00:00
-
- ## FIA World Endurance Championship
- - [https://www.fiawec.com](https://www.fiawec.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Corrosion Resistant Solutions |  Fiberglass Duct
- - [https://fiberglass-duct.com](https://fiberglass-duct.com)
- - date_published: 2024-07-14T15:19:57.168214+00:00
-
- ## Fiberplane - Collaborative Notebooks for debugging your infrastructure
- - [https://fiberplane.com](https://fiberplane.com)
- - date_published: 2023-10-25T14:29:43.652740+00:00
 

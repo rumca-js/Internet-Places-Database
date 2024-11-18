@@ -1,3 +1,8 @@
+ ## Covering politics, society and business in Southern and Eastern Europe | Balkan Insight
+ - [https://balkaninsight.com](https://balkaninsight.com)
+ - date_published: 2023-10-25T12:52:07.898288+00:00
+ - tags: ['politics', 'balkan news']
+
  ## China in the Balkans
  - [https://china.balkaninsight.com](https://china.balkaninsight.com)
  - date_published: 2022-01-29T18:46:53+00:00
@@ -3996,8 +4001,4 @@
  ## Merch from Michelle Gurevich - EU Store
  - [https://michellegurevich.bandcamp.com](https://michellegurevich.bandcamp.com)
  - date_published: 2024-07-19T19:40:43.036448+00:00
-
- ## Japanese Breakfast
- - [https://michellezauner.bandcamp.com](https://michellezauner.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Log In - Bitesize Bio Scientist Resources
+ - [https://resources.bitesizebio.com](https://resources.bitesizebio.com)
+ - date_published: 2023-10-10T14:39:55+00:00
+
  ## The Happy Scientist
  - [https://thehappyscientist.bitesizebio.com](https://thehappyscientist.bitesizebio.com)
  - date_published: 2024-08-16T00:00:00+00:00
@@ -4050,8 +4054,4 @@
  ## Conservative Home
  - [https://conservativehome.blogs.com](https://conservativehome.blogs.com)
  - date_published: 2024-06-18T11:12:20.498634+00:00
-
- ## Cucina Testa Rossa
- - [http://cucinatestarossa.blogs.com](http://cucinatestarossa.blogs.com)
- - date_published: 2024-06-27T08:44:48.339025+00:00
 

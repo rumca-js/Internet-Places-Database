@@ -1,3 +1,75 @@
+ ## Netpeak Group — Офіційний сайт групи ІТ-компаній
+ - [https://netpeak.group](https://netpeak.group)
+ - date_published: 2024-06-30T09:28:36.538664+00:00
+
+ ## Kim-Jong Cracks Social
+ - [https://nso.group](https://nso.group)
+ - date_published: 2023-10-25T19:27:46.890969+00:00
+
+ ## Octopus Energy
+ - [https://octopusenergy.group](https://octopusenergy.group)
+ - date_published: 2024-06-06T17:23:38+00:00
+
+ ## Startseite
+ - [https://onetech.group](https://onetech.group)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## The Opsgroup Story – What we are about
+ - [https://ops.group](https://ops.group)
+ - date_published: 2023-12-04T00:36:57.850661+00:00
+
+ ## The OPSGROUP Shop
+ - [https://shop.ops.group](https://shop.ops.group)
+ - date_published: 2024-08-18T11:31:01.013898+00:00
+
+ ## Portfolio - Webflow HTML website template
+ - [https://pace.group](https://pace.group)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Project 369 - Videos Games Creative Talent | Strategy | Tech | Services
+ - [https://project369.group](https://project369.group)
+ - date_published: 2024-10-17T21:51:36.054881+00:00
+
+ ## Главная
+ - [https://rbc.group](https://rbc.group)
+ - date_published: 2024-07-04T10:11:43.702321+00:00
+
+ ## RDL group - Conferences and Exhibitions Focusing on Logistics, Infrastructure and Cargo from Asia to Europe
+ - [https://www.rdl.group](https://www.rdl.group)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## saas.group - A great new home for your SaaS business
+ - [https://saas.group](https://saas.group)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Signal Messenger Group
+ - [https://signal.group](https://signal.group)
+ - date_published: 2024-04-29T04:17:19.750767+00:00
+
+ ## SPIF
+ - [https://www.spif.group](https://www.spif.group)
+ - date_published: 2024-06-20T09:27:30.617096+00:00
+
+ ## Start2 – We are the startup journey.
+ - [https://start2.group](https://start2.group)
+ - date_published: 2023-11-22T16:35:49+00:00
+
+ ## SMG Swiss Marketplace Group | Welcome to Switzerland's new digital hub
+ - [https://swissmarketplace.group](https://swissmarketplace.group)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## SMG Swiss Marketplace Group Vietnam.
+ - [https://vietnam.swissmarketplace.group](https://vietnam.swissmarketplace.group)
+ - date_published: 2024-07-08T06:54:10+00:00
+
+ ## Szallas Group
+ - [https://szallas.group](https://szallas.group)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Connecting Investors with Startups and Growth Companies
+ - [https://tencapital.group](https://tencapital.group)
+ - date_published: 2024-01-18T00:00:00+00:00
+
  ## Icona Pop
  - [https://iconapop.terrible.group](https://iconapop.terrible.group)
  - date_published: 2024-08-18T13:48:11.411520+00:00
@@ -3941,76 +4013,4 @@
  ## Modern Hiring Software & Applicant Tracking System | Breezy HR
  - [https://breezy.hr](https://breezy.hr)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## undefined
- - [https://chatterbug.breezy.hr](https://chatterbug.breezy.hr)
- - date_published: 2024-06-29T05:18:49.318862+00:00
-
- ## Join us! We're hiring!
- - [https://cofenster.breezy.hr](https://cofenster.breezy.hr)
- - date_published: 2024-06-20T22:15:50.695266+00:00
-
- ## We're hiring!
- - [https://coinify.breezy.hr](https://coinify.breezy.hr)
- - date_published: 2024-06-16T10:51:32.517473+00:00
-
- ## Come work with us.
- - [https://community-solutions.breezy.hr](https://community-solutions.breezy.hr)
- - date_published: 2024-10-12T14:29:36.026067+00:00
-
- ## %DOC_TITLE%Ivy
- - [https://deep-ivy-ltd.breezy.hr](https://deep-ivy-ltd.breezy.hr)
- - date_published: 2023-10-25T19:28:13.386126+00:00
-
- ## Discover, Join and Build with the A Team
- - [https://degate.breezy.hr](https://degate.breezy.hr)
- - date_published: 2024-09-25T10:36:22.383949+00:00
-
- ## Welcome to DeSales Media Group!
- - [https://desales-media-group.breezy.hr](https://desales-media-group.breezy.hr)
- - date_published: 2024-07-04T17:00:32.355366+00:00
-
- ## Welcome
- - [https://developer.breezy.hr](https://developer.breezy.hr)
- - date_published: 2024-07-14T05:08:17.263350+00:00
-
- ## Come work with us.
- - [https://entri.breezy.hr](https://entri.breezy.hr)
- - date_published: 2024-09-02T10:53:12.972327+00:00
-
- ## Come work with us.
- - [https://flipsidecrypto.breezy.hr](https://flipsidecrypto.breezy.hr)
- - date_published: 2024-09-25T11:52:53.964971+00:00
-
- ## Breezy HR CDN
- - [https://gallery-cdn.breezy.hr](https://gallery-cdn.breezy.hr)
- - date_published: 2016-12-06T13:29:31+00:00
-
- ## Grow With Us
- - [https://givecampus.breezy.hr](https://givecampus.breezy.hr)
- - date_published: 2024-02-08T18:15:48.045927+00:00
-
- ## Come work with Glo.
- - [https://glo.breezy.hr](https://glo.breezy.hr)
- - date_published: 2024-08-08T23:34:37.027627+00:00
-
- ## Breezy HR Help Center
- - [https://help.breezy.hr](https://help.breezy.hr)
- - date_published: 2024-07-14T05:08:20.065066+00:00
-
- ## Breezy Perform Help Center
- - [https://help.perform.breezy.hr](https://help.perform.breezy.hr)
- - date_published: 2024-07-14T05:08:41.947829+00:00
-
- ## %DOC_TITLE%HiOperator
- - [https://hioperator.breezy.hr](https://hioperator.breezy.hr)
- - date_published: 2023-10-25T19:28:14.989325+00:00
-
- ## Come work with us.
- - [https://holo.breezy.hr](https://holo.breezy.hr)
- - date_published: 2024-07-12T07:19:19.053016+00:00
-
- ## Come work with us.
- - [https://interledger-foundation.breezy.hr](https://interledger-foundation.breezy.hr)
- - date_published: 2021-09-24T00:00:00+00:00
 

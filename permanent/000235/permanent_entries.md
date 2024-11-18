@@ -1,3 +1,48 @@
+ ## Sailing news, blogs, boat and gear reviews | Yachting Monthly
+ - [http://www.yachtingmonthly.com](http://www.yachtingmonthly.com)
+ - date_published: 2024-06-22T06:36:24.818074+00:00
+
+ ## Yacht racing, sailing news, events and blogs | Yachting World
+ - [http://www.yachtingworld.com](http://www.yachtingworld.com)
+ - date_published: 2024-06-22T06:36:29.117179+00:00
+
+ ## Yacht Mollymawk
+ - [https://www.yachtmollymawk.com](https://www.yachtmollymawk.com)
+ - date_published: 2024-06-23T18:38:21.192021+00:00
+
+ ## Luxury Yachts, Superyachts and the American Yachtsman | Yachts International
+ - [https://www.yachtsinternational.com](https://www.yachtsinternational.com)
+ - date_published: 2024-07-08T16:05:00.708458+00:00
+
+ ## Yacht Brokers | Brokerage | Yacht International
+ - [https://www.yacht-villa.com](https://www.yacht-villa.com)
+ - date_published: 2024-09-18T19:20:37.109666+00:00
+
+ ## YACReader, the best comic reader, now on Android and Windows Subsystem for Android
+ - [https://android.yacreader.com](https://android.yacreader.com)
+ - date_published: 2024-04-21T08:36:27+00:00
+
+ ## YACReader, the best comic reader, now on iPad, iPhone and iPod touch
+ - [http://ios.yacreader.com](http://ios.yacreader.com)
+ - date_published: 2024-04-02T06:51:39+00:00
+
+ ## YACReader
+ - [https://yacreader.com](https://yacreader.com)
+ - date_published: 2024-05-26T15:40:28+00:00
+ - tags: ['comics reader', 'comics']
+
+ ## yadigger
+ - [https://yadigger.com](https://yadigger.com)
+ - date_published: 2024-05-01T04:29:27.574014+00:00
+
+ ## Zirrus
+ - [https://www.yadtel.com](https://www.yadtel.com)
+ - date_published: 2024-06-29T15:50:13.557943+00:00
+
+ ## Yaeji
+ - [http://yaeji.com](http://yaeji.com)
+ - date_published: 2024-09-17T01:05:13.880382+00:00
+
  ## YAËL BENAYOUN, consultante et chercheuse indépendante  en sciences sociales
  - [http://www.yaelbenayoun.com](http://www.yaelbenayoun.com)
  - date_published: 2024-07-13T02:34:38.268577+00:00
@@ -3983,48 +4028,4 @@
  ## Darwin classifieds for apts, jobs, and items for sale - yourdomain.com
  - [https://darwin.yourdomain.com](https://darwin.yourdomain.com)
  - date_published: 2024-10-31T06:19:11.934728+00:00
-
- ## Davao classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://davao.yourdomain.com](https://davao.yourdomain.com)
- - date_published: 2024-10-31T06:22:32.269306+00:00
-
- ## David classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://david.yourdomain.com](https://david.yourdomain.com)
- - date_published: 2024-10-31T06:33:14.482800+00:00
-
- ## Daytona Beach classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://daytona.yourdomain.com](https://daytona.yourdomain.com)
- - date_published: 2024-10-31T06:34:25.153024+00:00
-
- ## Dayton classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://dayton.yourdomain.com](https://dayton.yourdomain.com)
- - date_published: 2024-10-31T06:27:30.713702+00:00
-
- ## Washington D.C. classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://dc.yourdomain.com](https://dc.yourdomain.com)
- - date_published: 2024-10-31T06:21:29.020582+00:00
-
- ## Debrecen classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://debrecen.yourdomain.com](https://debrecen.yourdomain.com)
- - date_published: 2024-10-31T06:19:39.945505+00:00
-
- ## Decatur classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://decatur.yourdomain.com](https://decatur.yourdomain.com)
- - date_published: 2024-10-31T06:29:20.276991+00:00
-
- ## Delaware classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://delaware.yourdomain.com](https://delaware.yourdomain.com)
- - date_published: 2024-10-31T06:30:15.385734+00:00
-
- ## Del Rio classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://delrio.yourdomain.com](https://delrio.yourdomain.com)
- - date_published: 2024-10-31T06:16:18.826661+00:00
-
- ## Den Haag classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://denhaag.yourdomain.com](https://denhaag.yourdomain.com)
- - date_published: 2024-10-31T06:29:11.305286+00:00
-
- ## Denton classifieds for apts, jobs, and items for sale - yourdomain.com
- - [https://denton.yourdomain.com](https://denton.yourdomain.com)
- - date_published: 2024-10-31T06:19:37.943167+00:00
 

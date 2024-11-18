@@ -1,3 +1,95 @@
+ ## nginx news
+ - [https://freenginx.org](https://freenginx.org)
+ - date_published: 2024-02-20T20:58:45.327219+00:00
+
+ ## Free Online Phone | Receive SMS Online
+ - [https://www.freeonlinephone.org](https://www.freeonlinephone.org)
+ - date_published: 2024-06-23T18:17:32.199117+00:00
+
+ ## Free Open Source Software
+ - [https://freeopensourcesoftware.org](https://freeopensourcesoftware.org)
+ - date_published: 2021-12-16T19:35:03+00:00
+ - tags: ['open source']
+
+ ## FreeOrionWiki
+ - [https://freeorion.org](https://freeorion.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+ - tags: ['open source', 'video game']
+
+ ## FreeOurWorld.Org Home
+ - [http://freeourworld.org](http://freeourworld.org)
+ - date_published: 2022-07-28T19:17:59+00:00
+
+ ## Lazarus - Index
+ - [https://forum.lazarus.freepascal.org](https://forum.lazarus.freepascal.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Free Pascal and Lazarus Foundation | Free Pascal and Lazarus foundation
+ - [https://foundation.freepascal.org](https://foundation.freepascal.org)
+ - date_published: 2024-05-08T09:34:09.985048+00:00
+
+ ## Free Pascal - Advanced open source Pascal compiler for Pascal and Object Pascal - Home Page
+ - [https://freepascal.org](https://freepascal.org)
+ - date_published: 2024-01-04T00:00:00+00:00
+ - tags: ['compiler', 'open source', 'pascal']
+
+ ## Lazarus Homepage
+ - [https://lazarus.freepascal.org](https://lazarus.freepascal.org)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## lists.freepascal.org Mailing Lists
+ - [https://lists.freepascal.org](https://lists.freepascal.org)
+ - date_published: 2024-07-07T05:55:34.031625+00:00
+
+ ## Free Pascal wiki
+ - [https://wiki.freepascal.org](https://wiki.freepascal.org)
+ - date_published: 2024-05-08T09:34:09.030475+00:00
+
+ ## Free Pascal wiki
+ - [https://wiki.lazarus.freepascal.org](https://wiki.lazarus.freepascal.org)
+ - date_published: 2024-05-08T09:34:02.320185+00:00
+
+ ## Accueil
+ - [https://freepatriot.org](https://freepatriot.org)
+ - date_published: 2024-06-15T23:44:33.462446+00:00
+
+ ## FreePBX Community Forums
+ - [https://community.freepbx.org](https://community.freepbx.org)
+ - date_published: 2024-10-31T04:47:07.471330+00:00
+
+ ## FreePBX
+ - [https://git.freepbx.org](https://git.freepbx.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## FreePBX | Open source, web-based, IP PBX management tool.
+ - [https://www.freepbx.org](https://www.freepbx.org)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Free Press Unlimited
+ - [https://www.freepressunlimited.org](https://www.freepressunlimited.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Vacuum Cleaner Project - How to do Car Detailing & Clean Homes
+ - [http://www.free-project.org](http://www.free-project.org)
+ - date_published: 2019-09-13T08:06:34+00:00
+
+ ## THE OFFICIAL WEBSITE FOR ROSS ULBRICHT | FreeRoss.org
+ - [https://freeross.org](https://freeross.org)
+ - date_published: 2023-10-25T21:23:00.806197+00:00
+
+ ## FreeRTOS Community Forums
+ - [https://forums.freertos.org](https://forums.freertos.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+ - [https://freertos.org](https://freertos.org)
+ - date_published: 1980-01-01T00:00:00+00:00
+ - tags: ['rtos', 'open source', 'operating system', 'real time operating system']
+
+ ## demo
+ - [http://sandbox.freertr.org](http://sandbox.freertr.org)
+ - date_published: 2024-09-14T08:49:59.003629+00:00
+
  ## SDF Public Access UNIX System - Free Shell Account and Shell Access
  - [https://brianb.freeshell.org](https://brianb.freeshell.org)
  - date_published: 2024-01-09T03:40:21.225501+00:00
@@ -3961,92 +4053,4 @@ encryption
  ## Supporting Education - Morgan State University Foundation
  - [http://www.givetomorgan.org](http://www.givetomorgan.org)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## Shout: the UK's free, confidential and 24/7 mental health text service for crisis support
- - [https://giveusashout.org](https://giveusashout.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Charity Reviews and Recommendations | GiveWell
- - [https://blog.givewell.org](https://blog.givewell.org)
- - date_published: 2024-04-29T04:44:10.203047+00:00
-
- ## GiveWell
- - [https://givewell.org](https://givewell.org)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Donate to GiveWell | GiveWell
- - [https://secure.givewell.org](https://secure.givewell.org)
- - date_published: 2024-05-12T07:28:50.705947+00:00
-
- ## Giving Assistant - Shop &amp; Save With Promo Codes &amp; Coupons
- - [https://givingassistant.org](https://givingassistant.org)
- - date_published: 2024-06-21T17:25:48+00:00
-
- ## https://givingbirthwithconfidence.org
- - [https://givingbirthwithconfidence.org](https://givingbirthwithconfidence.org)
- - date_published: 2020-12-23T14:46:49+00:00
-
- ## ReDI Donation Page-EN
- - [https://redi-school.givingpage.org](https://redi-school.givingpage.org)
- - date_published: 2024-07-22T09:26:29.077665+00:00
-
- ## Home - The Giving Pledge
- - [https://givingpledge.org](https://givingpledge.org)
- - date_published: 2024-10-29T05:16:25.993441+00:00
-
- ## GivingTuesday
- - [https://givingtuesday.org](https://givingtuesday.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Donation Platform
- - [https://donate.givingwhatwecan.org](https://donate.givingwhatwecan.org)
- - date_published: 2024-08-05T18:33:00.180871+00:00
-
- ## Giving What We Can
- - [https://givingwhatwecan.org](https://givingwhatwecan.org)
- - date_published: 2024-04-29T04:44:04.934117+00:00
-
- ## How Rich Am I?
- - [https://howrichami.givingwhatwecan.org](https://howrichami.givingwhatwecan.org)
- - date_published: 2024-07-12T18:54:35.397845+00:00
-
- ## Grand Junction, CO | Official Website
- - [https://gjcity.org](https://gjcity.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Gulf Journal of Mathematics
- - [http://gjom.org](http://gjom.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home
- - [http://www.gjournals.org](http://www.gjournals.org)
- - date_published: 2024-10-29T01:56:37+00:00
-
- ## The Greater Kanawha Valley Foundation
- - [https://gkvf.org](https://gkvf.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## GLAAD
- - [https://act.glaad.org](https://act.glaad.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## GLAAD
- - [https://give.glaad.org](https://give.glaad.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## GLAAD
- - [https://glaad.org](https://glaad.org)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Home - GLAD
- - [https://www.glad.org](https://www.glad.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Gladstone Institutes
- - [https://gladstone.org](https://gladstone.org)
- - date_published: 2024-07-22T07:52:06+00:00
-
- ## glandium.org
- - [https://glandium.org](https://glandium.org)
- - date_published: 2023-11-21T21:18:54.989187+00:00
 

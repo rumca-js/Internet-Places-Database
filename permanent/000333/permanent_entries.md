@@ -1,3 +1,83 @@
+ ## GRAND INNA KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $84
+ - [https://grand-inna-kuta-kuta.all-balihotels.net](https://grand-inna-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:25.827070+00:00
+
+ ## HOTEL GRAND ISTANA RAMA | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $58
+ - [https://grand-istana-rama-kuta.all-balihotels.net](https://grand-istana-rama-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:09.671072+00:00
+
+ ## GRAND IXORA KUTA RESORT | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $41
+ - [https://grand-ixora-kuta-resort.all-balihotels.net](https://grand-ixora-kuta-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:18.078123+00:00
+
+ ## GRAND JIMBARAN BOUTIQUE HOTEL & SPA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $20
+ - [https://grand-jimbaran-boutique-spa.all-balihotels.net](https://grand-jimbaran-boutique-spa.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:58.411897+00:00
+
+ ## GRAND KUTA HOTEL AND RESIDENCE | ⋆⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $36
+ - [https://grand-kuta-kuta.all-balihotels.net](https://grand-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:37:55.755780+00:00
+
+ ## HOTEL GRAND LIVIO | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $40
+ - [https://grand-livio-kuta.all-balihotels.net](https://grand-livio-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:11.560249+00:00
+
+ ## J HOTEL KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $23
+ - [https://grandmas-kuta.all-balihotels.net](https://grandmas-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:25.462641+00:00
+
+ ## GRANDMAS PLUS HOTEL LEGIAN | ⋆⋆ | INDONESIA | SEASON DEALS FROM $33
+ - [https://grandmas-legian.all-balihotels.net](https://grandmas-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:01.399883+00:00
+
+ ## GRANDMAS HOTELS SEMINYAK | ⋆⋆ | INDONESIA | SEASON DEALS FROM $35
+ - [https://grandmas-s-seminyak.all-balihotels.net](https://grandmas-s-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:06.581176+00:00
+
+ ## HOTEL GRAND MIRAGE | ⋆⋆⋆⋆⋆ | TANJUNG BENOA, INDONESIA | SEASON DEALS FROM $255
+ - [https://grand-mirage-tanjung-benoa.all-balihotels.net](https://grand-mirage-tanjung-benoa.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:28.734743+00:00
+
+ ## GRAND WHIZ HOTEL NUSA DUA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $700
+ - [https://grand-whiz-nusa-dua-nusa-dua.all-balihotels.net](https://grand-whiz-nusa-dua-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:12.919382+00:00
+
+ ## HOTEL GREEN GARDEN | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $12
+ - [https://green-garden-kuta.all-balihotels.net](https://green-garden-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:32.290601+00:00
+
+ ## HOTEL HANA KUTA BEACH | ⋆⋆ | INDONESIA | SEASON DEALS FROM $41
+ - [https://hana-kuta-beach.all-balihotels.net](https://hana-kuta-beach.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:31.649583+00:00
+
+ ## HARD ROCK HOTEL BALI | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $174
+ - [https://hard-rock-bali-kuta.all-balihotels.net](https://hard-rock-bali-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:25.273577+00:00
+
+ ## HOTEL ROFA KUTA | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $48
+ - [https://hardys-rofa-and-spa-legi-legian.all-balihotels.net](https://hardys-rofa-and-spa-legi-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:53.876795+00:00
+
+ ## HARRIS HOTEL & RESIDENCES SUNSET ROAD | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $61
+ - [https://harris-residences-sunset-road-kuta.all-balihotels.net](https://harris-residences-sunset-road-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:48.479569+00:00
+
+ ## HARRIS HOTEL SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $65
+ - [https://harris-seminyak.all-balihotels.net](https://harris-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:55.435216+00:00
+
+ ## HARRIS HOTEL TUBAN | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $49
+ - [https://harris-tuban-kuta.all-balihotels.net](https://harris-tuban-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:49.279847+00:00
+
+ ## HILTON BALI RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $206
+ - [https://hilton-bali-resort-nusa-dua.all-balihotels.net](https://hilton-bali-resort-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:02.791173+00:00
+
+ ## HILTON GARDEN INN BALI NGURAH RAI AIRPORT | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $47
+ - [https://hilton-garden-inn-bali-ngurah-rai-airport-tuban.all-balihotels.net](https://hilton-garden-inn-bali-ngurah-rai-airport-tuban.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:28.946974+00:00
+
  ## HOLIDAY INN EXPRESS BALI RAYA KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $28
  - [https://holiday-inn-express-bali-raya-kuta-kuta.all-balihotels.net](https://holiday-inn-express-bali-raya-kuta-kuta.all-balihotels.net)
  - date_published: 2024-10-16T13:30:06.965305+00:00
@@ -3967,84 +4047,4 @@
  ## Tomo Bot JP
  - [https://bsp-tomo-jp.azurewebsites.net](https://bsp-tomo-jp.azurewebsites.net)
  - date_published: 2024-04-10T15:27:24+00:00
-
- ## Your Azure Function App is up and running.
- - [https://build2024-prod-west-us-signalr-function.azurewebsites.net](https://build2024-prod-west-us-signalr-function.azurewebsites.net)
- - date_published: 2024-07-19T15:47:00.751647+00:00
-
- ## Web App - Unavailable
- - [https://capitalwebus-eu2-app.azurewebsites.net](https://capitalwebus-eu2-app.azurewebsites.net)
- - date_published: 2024-10-10T19:56:57.222946+00:00
-
- ## Home Page
- - [https://chipweb.azurewebsites.net](https://chipweb.azurewebsites.net)
- - date_published: 2024-10-15T06:07:05.473191+00:00
-
- ## Join DASH-IF on Slack!
- - [https://dashif-slack.azurewebsites.net](https://dashif-slack.azurewebsites.net)
- - date_published: 2024-07-18T23:29:35.200293+00:00
-
- ## Web App - Unavailable
- - [https://dcxprod-sitecore-cd.azurewebsites.net](https://dcxprod-sitecore-cd.azurewebsites.net)
- - date_published: 2024-09-28T22:39:40.086201+00:00
-
- ## Home Page
- - [https://dmcascannerapp.azurewebsites.net](https://dmcascannerapp.azurewebsites.net)
- - date_published: 2024-05-01T05:42:31.036667+00:00
-
- ## Sign In
- - [https://earimediaprodweb.azurewebsites.net](https://earimediaprodweb.azurewebsites.net)
- - date_published: 2024-08-07T15:26:05+00:00
-
- ## EndTRACKER
- - [https://endtracker.azurewebsites.net](https://endtracker.azurewebsites.net)
- - date_published: 2024-04-29T07:49:25.496655+00:00
-
- ## Triodos Bank
- - [https://enrutador-triodos.azurewebsites.net](https://enrutador-triodos.azurewebsites.net)
- - date_published: 2024-03-07T09:53:16+00:00
-
- ## Your Azure Function App is up and running.
- - [https://exp-newsletter.azurewebsites.net](https://exp-newsletter.azurewebsites.net)
- - date_published: 2024-07-21T02:19:42.962265+00:00
-
- ## Kitco Metals
- - [https://external-gepeto-frontend-app-service-prod.azurewebsites.net](https://external-gepeto-frontend-app-service-prod.azurewebsites.net)
- - date_published: 2024-06-20T21:58:28.381604+00:00
-
- ## Your Azure Function App is up and running.
- - [https://fa-ppctelemetry-prod.azurewebsites.net](https://fa-ppctelemetry-prod.azurewebsites.net)
- - date_published: 2024-07-12T13:10:31.773817+00:00
-
- ## Your Azure Function App is up and running.
- - [https://fa-remodulinapis.azurewebsites.net](https://fa-remodulinapis.azurewebsites.net)
- - date_published: 2024-06-15T21:40:57.798295+00:00
-
- ## FIU Phonebook
- - [https://fiuphonebooktest.azurewebsites.net](https://fiuphonebooktest.azurewebsites.net)
- - date_published: 2024-07-22T04:14:58.962775+00:00
-
- ## Your Azure Function App is up and running.
- - [https://fm-app-prod-engagement-stream.azurewebsites.net](https://fm-app-prod-engagement-stream.azurewebsites.net)
- - date_published: 2024-10-15T00:01:31.217749+00:00
-
- ## Your Azure Function App is up and running.
- - [https://fn-gdo-api-requestarep-prod.azurewebsites.net](https://fn-gdo-api-requestarep-prod.azurewebsites.net)
- - date_published: 2024-09-19T20:36:58.451022+00:00
-
- ## Home Page - Reporting Channel
- - [https://froniuswhistleblower.azurewebsites.net](https://froniuswhistleblower.azurewebsites.net)
- - date_published: 2024-10-11T13:29:10.119802+00:00
-
- ## Opcion 2
- - [https://frontchatbotanita.azurewebsites.net](https://frontchatbotanita.azurewebsites.net)
- - date_published: 2024-09-10T23:05:05.081530+00:00
-
- ## Page is not available to your current location.
- - [https://geo-blocked-site.azurewebsites.net](https://geo-blocked-site.azurewebsites.net)
- - date_published: 2021-10-25T10:29:20+00:00
-
- ## Home Page - Gnomeshade
- - [https://gnomeshade-demo.azurewebsites.net](https://gnomeshade-demo.azurewebsites.net)
- - date_published: 2024-08-08T19:21:59.945940+00:00
 

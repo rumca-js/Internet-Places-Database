@@ -1,3 +1,63 @@
+ ## Commitment to Privacy
+ - [https://www.ctcce.vcu.edu](https://www.ctcce.vcu.edu)
+ - date_published: 2024-07-02T12:58:05.683936+00:00
+
+ ## Award-winning cancer care in Virginia
+ - [https://www.massey.vcu.edu](https://www.massey.vcu.edu)
+ - date_published: 2024-07-02T13:03:16.359407+00:00
+
+ ## Commitment to Privacy
+ - [http://www.nsfp.vcu.edu](http://www.nsfp.vcu.edu)
+ - date_published: 2024-07-02T12:47:30.618725+00:00
+
+ ## Commitment to Privacy
+ - [https://youfirst.vcu.edu](https://youfirst.vcu.edu)
+ - date_published: 2024-07-02T12:50:16.722416+00:00
+
+ ## Digital Repository - Villanova University Charles Widger School of Law
+ - [https://digitalcommons.law.villanova.edu](https://digitalcommons.law.villanova.edu)
+ - date_published: 2024-07-02T10:48:18.170655+00:00
+
+ ## Homepage | 25Live Information Portal
+ - [https://25live.virginia.edu](https://25live.virginia.edu)
+ - date_published: 2024-07-03T14:37:02+00:00
+
+ ## Home | UVA Accessibility
+ - [https://accessibility.virginia.edu](https://accessibility.virginia.edu)
+ - date_published: 2024-05-09T06:36:08.768724+00:00
+
+ ## Office of Undergraduate Admission | The Office of Undergraduate Admission
+ - [https://admission.virginia.edu](https://admission.virginia.edu)
+ - date_published: 2024-06-14T13:40:46+00:00
+
+ ## Home – UVA Facilities Management Annual Report 2023
+ - [https://annualreport.fm.virginia.edu](https://annualreport.fm.virginia.edu)
+ - date_published: 2024-03-07T16:29:28+00:00
+
+ ## The University of Virginia
+ - [https://applycentral.virginia.edu](https://applycentral.virginia.edu)
+ - date_published: 2024-06-27T12:05:50+00:00
+
+ ## UVA Facilities Management Apprenticeship Program – Home
+ - [https://apprenticeship.fm.virginia.edu](https://apprenticeship.fm.virginia.edu)
+ - date_published: 2024-06-06T19:52:53+00:00
+
+ ## University of Virginia School of Architecture | University of Virginia School of Architecture
+ - [https://arch.virginia.edu](https://arch.virginia.edu)
+ - date_published: 2024-05-08T11:43:54.376115+00:00
+
+ ## Department of Art |
+ - [https://art.as.virginia.edu](https://art.as.virginia.edu)
+ - date_published: 2024-07-08T12:37:22+00:00
+
+ ## Home
+ - [https://as.virginia.edu](https://as.virginia.edu)
+ - date_published: 2024-03-11T22:06:48.813698+00:00
+
+ ## Frank Batten School of Leadership & Public Policy - Home
+ - [https://batten.virginia.edu](https://batten.virginia.edu)
+ - date_published: 2024-08-06T05:45:44.714564+00:00
+
  ## Home
  - [https://blog.radiology.virginia.edu](https://blog.radiology.virginia.edu)
  - date_published: 2024-05-06T21:28:32.329381+00:00
@@ -1127,6 +1187,10 @@
  ## Washington & Jefferson College
  - [http://www.washjeff.edu](http://www.washjeff.edu)
  - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Home
+ - [https://engineering.washu.edu](https://engineering.washu.edu)
+ - date_published: 2024-11-17T17:00:12+00:00
 
  ## Login - Academica
  - [https://academica.aws.wayne.edu](https://academica.aws.wayne.edu)
@@ -3940,68 +4004,4 @@
  ## Mountaineer Parents Club | Home
  - [http://parentsclub.wvu.edu](http://parentsclub.wvu.edu)
  - date_published: 2024-07-02T15:19:29.950860+00:00
-
- ## Home | WVU Brand Patterns | West Virginia University
- - [https://patterns.wvu.edu](https://patterns.wvu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Department of Philosophy | West Virginia University
- - [http://philosophy.wvu.edu](http://philosophy.wvu.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## wvuphotos
- - [https://photos.wvu.edu](https://photos.wvu.edu)
- - date_published: 2024-07-02T15:30:46.607871+00:00
-
- ## Home | Institutional Research | West Virginia University
- - [https://planning.wvu.edu](https://planning.wvu.edu)
- - date_published: 2024-07-02T15:27:05.299435+00:00
-
- ## Police | Home
- - [http://police.wvu.edu](http://police.wvu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Policies | Home
- - [https://policies.wvu.edu](https://policies.wvu.edu)
- - date_published: 2024-07-02T15:15:07.480313+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://portal.wvu.edu](https://portal.wvu.edu)
- - date_published: 2024-05-07T22:40:14.802655+00:00
-
- ## Project 168 | Home
- - [https://project168.wvu.edu](https://project168.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Office of the Provost | Home
- - [https://provost.wvu.edu](https://provost.wvu.edu)
- - date_published: 2024-07-02T15:18:08.447716+00:00
-
- ## PRT (Personal Rapid Transit) | Home
- - [https://prt.wvu.edu](https://prt.wvu.edu)
- - date_published: 2024-07-02T15:27:56.496540+00:00
-
- ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
- - [https://pschomepage.sandbox.wvu.edu](https://pschomepage.sandbox.wvu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Purpose Center v2 | Home
- - [https://purpose.wvu.edu](https://purpose.wvu.edu)
- - date_published: 2024-07-02T15:28:34.882085+00:00
-
- ## Office of the University Registrar | Home
- - [http://registrar.wvu.edu](http://registrar.wvu.edu)
- - date_published: 2024-07-02T15:18:05.375566+00:00
-
- ## Research Office | Home
- - [https://research.wvu.edu](https://research.wvu.edu)
- - date_published: 2024-07-02T15:31:02.521299+00:00
-
- ## Safety and Wellness | Home
- - [https://safety.wvu.edu](https://safety.wvu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Search WVU - All Sites
- - [https://search.wvu.edu](https://search.wvu.edu)
- - date_published: 2022-05-05T01:17:16+00:00
 

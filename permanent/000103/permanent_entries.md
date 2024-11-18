@@ -1,3 +1,15 @@
+ ## Product-Market Fit Method
+ - [https://pmf.firstround.com](https://pmf.firstround.com)
+ - date_published: 2024-04-16T14:47:27.785568+00:00
+
+ ## First Round Review
+ - [https://review.firstround.com](https://review.firstround.com)
+ - date_published: 2023-10-25T14:32:10.606183+00:00
+
+ ## Home - First Second Books
+ - [https://firstsecondbooks.com](https://firstsecondbooks.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## First Sight By Galls
  - [https://firstsightbygalls.com](https://firstsightbygalls.com)
  - date_published: 2023-02-28T19:52:01+00:00
@@ -4010,16 +4022,4 @@
  ## Zipline Logistics & Drone Delivery
  - [https://flyzipline.com](https://flyzipline.com)
  - date_published: 2024-02-19T00:00:00+00:00
-
- ## FlyZolo – Youngest Woman Solo
- - [https://flyzolo.com](https://flyzolo.com)
- - date_published: 2024-06-16T14:26:05.259066+00:00
-
- ## Sign in - Matomo
- - [https://matomo.flyzolo.com](https://matomo.flyzolo.com)
- - date_published: 2024-10-08T22:47:59.763083+00:00
-
- ## FM100.3 - Better Music Better Work Day - Listen Live
- - [https://fm100.com](https://fm100.com)
- - date_published: 2024-05-04T10:12:23.701350+00:00
 

@@ -1,3 +1,95 @@
+ ## Basa Banyumasan Wiktionary - Wikimedia Incubator
+ - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
+ - date_published: 2024-07-12T03:30:24.596150+00:00
+
+ ## Пря лопа - Wt/mdf - Wikimedia Incubator
+ - [https://mdf.wiktionary.org](https://mdf.wiktionary.org)
+ - date_published: 2024-06-28T02:30:23+00:00
+
+ ## Wiktionary
+ - [https://mg.m.wiktionary.org](https://mg.m.wiktionary.org)
+ - date_published: 2024-09-08T09:36:27+00:00
+
+ ## Wiktionary
+ - [https://mg.wiktionary.org](https://mg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://mh.m.wiktionary.org](https://mh.m.wiktionary.org)
+ - date_published: 2024-09-04T03:46:20+00:00
+
+ ## Wiktionary
+ - [https://mh.wiktionary.org](https://mh.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wikikato
+ - [https://min.m.wiktionary.org](https://min.m.wiktionary.org)
+ - date_published: 2024-09-16T19:38:05+00:00
+
+ ## Wikikato
+ - [https://min.wiktionary.org](https://min.wiktionary.org)
+ - date_published: 2024-06-01T12:24:30+00:00
+
+ ## Wiktionary
+ - [https://mi.wiktionary.org](https://mi.wiktionary.org)
+ - date_published: 2024-06-01T07:00:18+00:00
+
+ ## Викиречник
+ - [https://mk.m.wiktionary.org](https://mk.m.wiktionary.org)
+ - date_published: 2024-09-04T03:12:12+00:00
+
+ ## Викиречник
+ - [https://mk.wiktionary.org](https://mk.wiktionary.org)
+ - date_published: 2024-06-12T23:18:03+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.m.wiktionary.org](https://ml.m.wiktionary.org)
+ - date_published: 2024-09-03T13:25:20+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.wiktionary.org](https://ml.wiktionary.org)
+ - date_published: 2024-05-31T14:54:59+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.m.wiktionary.org](https://mni.m.wiktionary.org)
+ - date_published: 2024-09-04T03:31:50+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.wiktionary.org](https://mni.wiktionary.org)
+ - date_published: 2024-06-01T02:13:40+00:00
+
+ ## Викитоль
+ - [https://mn.m.wiktionary.org](https://mn.m.wiktionary.org)
+ - date_published: 2024-09-04T02:21:03+00:00
+
+ ## Wiktionary
+ - [https://mn.wiktionary.org](https://mn.wiktionary.org)
+ - date_published: 2024-06-01T04:39:12+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.m.wiktionary.org](https://mnw.m.wiktionary.org)
+ - date_published: 2024-09-12T16:14:11+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.wiktionary.org](https://mnw.wiktionary.org)
+ - date_published: 2024-06-12T18:40:44+00:00
+
+ ## Wikționar
+ - [https://mo.wiktionary.org](https://mo.wiktionary.org)
+ - date_published: 2024-09-03T16:52:12+00:00
+
+ ## Wiktionary
+ - [https://mr.m.wiktionary.org](https://mr.m.wiktionary.org)
+ - date_published: 2024-09-14T15:35:08+00:00
+
+ ## Wiktionary
+ - [https://mr.wiktionary.org](https://mr.wiktionary.org)
+ - date_published: 2024-06-01T00:24:59+00:00
+
+ ## Wikikamus
+ - [https://ms.m.wiktionary.org](https://ms.m.wiktionary.org)
+ - date_published: 2024-09-17T00:00:00+00:00
+
  ## Wikikamus
  - [https://ms.wiktionary.org](https://ms.wiktionary.org)
  - date_published: 2024-06-12T13:47:54+00:00
@@ -3926,97 +4018,4 @@ Conference Series
  ## WWF-Pacific
  - [https://wwfpacific.org](https://wwfpacific.org)
  - date_published: 2024-04-19T00:00:00+00:00
-
- ## WWF conserves our planet, habitats, & species like the Panda & Tiger
- - [https://wwfpak.org](https://wwfpak.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## World Wide Fund for Nature - WWF Slovensko |
- - [https://wwfsk.org](https://wwfsk.org)
- - date_published: 2024-07-03T01:09:28+00:00
-
- ## Home
- - [https://www.wwf-swio.org](https://www.wwf-swio.org)
- - date_published: 2024-06-25T07:15:18+00:00
-
- ## WWF - Türkiye Gönüllüleri
- - [https://wwftrgonulluleri.org](https://wwftrgonulluleri.org)
- - date_published: 2024-07-03T03:01:01.145910+00:00
-
- ## Global environmental conservation organization
- - [https://wwfuganda.org](https://wwfuganda.org)
- - date_published: 2024-05-07T23:58:42.057757+00:00
-
- ## Home - What Works Hub for Global Education
- - [https://www.wwhge.org](https://www.wwhge.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## WWOOF
- - [https://wwoofusa.org](https://wwoofusa.org)
- - date_published: 2024-08-06T23:04:59+00:00
-
- ## WWOZ New Orleans 90.7 FM : New Orleans' Jazz & Heritage Station : Dedicated to Bringing New Orleans Music to the Universe
- - [https://wwoz.org](https://wwoz.org)
- - date_published: 2024-10-30T03:15:37+00:00
-
- ## wwPDB Deposition
- - [https://deposit.wwpdb.org](https://deposit.wwpdb.org)
- - date_published: 2024-07-01T23:09:22.678711+00:00
-
- ## wwPDB Foundation
- - [https://foundation.wwpdb.org](https://foundation.wwpdb.org)
- - date_published: 2024-06-14T19:09:03+00:00
-
- ## PDBx/mmCIF Dictionary Resources
- - [https://mmcif.wwpdb.org](https://mmcif.wwpdb.org)
- - date_published: 2024-07-01T23:10:01.863673+00:00
-
- ## PDB-Dev
- - [https://pdb-dev.wwpdb.org](https://pdb-dev.wwpdb.org)
- - date_published: 2024-07-01T23:09:59.678745+00:00
-
- ## pdb_extract
- - [https://pdb-extract.wwpdb.org](https://pdb-extract.wwpdb.org)
- - date_published: 2024-02-25T13:30:21+00:00
-
- ## SF-Tool
- - [http://sf-tool.wwpdb.org](http://sf-tool.wwpdb.org)
- - date_published: 2017-06-13T15:29:38+00:00
-
- ## wwPDB Validation Service
- - [https://validate-rcsb.wwpdb.org](https://validate-rcsb.wwpdb.org)
- - date_published: 2024-07-01T23:09:19.697571+00:00
-
- ## wwPDB: Worldwide Protein Data Bank
- - [https://www.wwpdb.org](https://www.wwpdb.org)
- - date_published: 2024-07-01T23:09:44.209160+00:00
-
- ## Wx4: Inter-Dimensional Jeeping and Railroading at Its Finest!
- - [https://wx4.org](https://wx4.org)
- - date_published: 2024-06-19T14:02:16+00:00
-
- ## WX4NHC Amateur Ham Radio at National Hurricane Center
- - [http://www.wx4nhc.org](http://www.wx4nhc.org)
- - date_published: 2024-03-14T19:03:46+00:00
-
- ## GitHub - wxFormBuilder/wxFormBuilder: A wxWidgets GUI Builder
- - [http://www.wxformbuilder.org](http://www.wxformbuilder.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices
- - [https://wxhexeditor.org](https://wxhexeditor.org)
- - date_published: 2024-05-17T23:44:10+00:00
- - tags: ['hex editor', 'open source']
-
- ## Home – WXJM
- - [https://www.wxjm.org](https://www.wxjm.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Buildbot
- - [http://buildbot.wxpython.org](http://buildbot.wxpython.org)
- - date_published: 2024-06-15T12:22:59.490922+00:00
-
- ## Discuss wxPython
- - [https://discuss.wxpython.org](https://discuss.wxpython.org)
- - date_published: 2024-06-11T00:00:00+00:00
 

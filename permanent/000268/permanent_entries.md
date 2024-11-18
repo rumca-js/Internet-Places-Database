@@ -1,3 +1,59 @@
+ ## Home | Kendall Lab
+ - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home | Richard N. Langlois
+ - [http://langlois.uconn.edu](http://langlois.uconn.edu)
+ - date_published: 2024-10-29T16:29:22+00:00
+
+ ## Home | Aurora
+ - [https://law.media.uconn.edu](https://law.media.uconn.edu)
+ - date_published: 2024-10-18T22:30:39.593934+00:00
+
+ ## Home | School of Law
+ - [https://law.uconn.edu](https://law.uconn.edu)
+ - date_published: 2024-10-18T22:30:47.559512+00:00
+
+ ## Home | Thomas J. Meskill Law Library
+ - [https://library.law.uconn.edu](https://library.law.uconn.edu)
+ - date_published: 2024-10-18T22:30:45.472162+00:00
+
+ ## Home | University of Connecticut Logic Group
+ - [https://logic.uconn.edu](https://logic.uconn.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## UConn Magazine
+ - [https://magazine.uconn.edu](https://magazine.uconn.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Management & Entrepreneurship Department | UConn School of Business
+ - [http://management.business.uconn.edu](http://management.business.uconn.edu)
+ - date_published: 2024-07-01T23:11:47+00:00
+
+ ## Marketing Department | UConn School of Business
+ - [http://marketing.business.uconn.edu](http://marketing.business.uconn.edu)
+ - date_published: 2024-07-01T22:52:09+00:00
+
+ ## Home page | Math Club
+ - [https://mathclub.math.uconn.edu](https://mathclub.math.uconn.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://math.media.uconn.edu](https://math.media.uconn.edu)
+ - date_published: 2024-07-21T00:09:30+00:00
+
+ ## Aurora outage
+ - [https://math.uconn.edu](https://math.uconn.edu)
+ - date_published: 2024-04-30T07:32:52.315694+00:00
+
+ ## UConn MBA Programs | Top - Ranked | Fast & Flexible
+ - [https://mba.business.uconn.edu](https://mba.business.uconn.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Online Master of Science in Accounting (MSA) - UConn
+ - [http://msaccounting.business.uconn.edu](http://msaccounting.business.uconn.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
  ## MS in Business Analytics and Project Management | UConn
  - [http://msbapm.business.uconn.edu](http://msbapm.business.uconn.edu)
  - date_published: 2024-05-22T00:00:00+00:00
@@ -3945,60 +4001,4 @@
  ## Regulation and Policy Hub
  - [https://policy.ufl.edu](https://policy.ufl.edu)
  - date_published: 2024-07-02T01:56:41+00:00
-
- ## Privacy » University of Florida
- - [https://privacy.ufl.edu](https://privacy.ufl.edu)
- - date_published: 2024-05-07T21:11:12.619267+00:00
-
- ## UF/IFAS Programs and Projects - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://programs.ifas.ufl.edu](https://programs.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:48.009200+00:00
-
- ## Support Home Page
- - [https://publicrecords.ufl.edu](https://publicrecords.ufl.edu)
- - date_published: 2024-07-02T02:06:16.719156+00:00
-
- ## RecSports | University of Florida, Department of Recreation Sports
- - [https://recsports.ufl.edu](https://recsports.ufl.edu)
- - date_published: 2024-07-02T02:10:49.105837+00:00
-
- ## Regulation and Policy Hub
- - [https://regulations.ufl.edu](https://regulations.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## UF Conduct and Concern Reporting
- - [https://report.ufl.edu](https://report.ufl.edu)
- - date_published: 2024-07-02T02:10:55.034023+00:00
-
- ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:40.362339+00:00
-
- ## Office of Research » College of Medicine » University of Florida
- - [https://research.med.ufl.edu](https://research.med.ufl.edu)
- - date_published: 2024-07-01T20:29:32+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:54.372575+00:00
-
- ## University of Florida Research
- - [https://research.ufl.edu](https://research.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Search » University of Florida
- - [https://search.ufl.edu](https://search.ufl.edu)
- - date_published: 2024-05-07T21:11:36.945840+00:00
-
- ## Information Security – University of Florida
- - [https://security.ufl.edu](https://security.ufl.edu)
- - date_published: 2024-05-07T21:10:52.267199+00:00
-
- ## Solutions For Your Life - Real Solutions for Real Life
- - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:19.568229+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:23.235964+00:00
 

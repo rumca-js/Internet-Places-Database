@@ -1,3 +1,8 @@
+ ## Ben Oliver
+ - [https://bfoliver.com](https://bfoliver.com)
+ - date_published: 2023-12-19T19:08:03.990555+00:00
+ - tags: ['personal']
+
  ## bforbones | The World's Leading Suppliers of Real Human Tooth Specimens!
  - [https://bforbones.com](https://bforbones.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4021,8 +4026,4 @@
  ## Mentors at Your Benchside
  - [https://mentors.bitesizebio.com](https://mentors.bitesizebio.com)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## Log In - Bitesize Bio Scientist Resources
- - [https://resources.bitesizebio.com](https://resources.bitesizebio.com)
- - date_published: 2023-10-10T14:39:55+00:00
 

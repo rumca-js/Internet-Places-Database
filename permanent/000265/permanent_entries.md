@@ -1,3 +1,59 @@
+ ## 2024 INFORMS Optimization Society Conference
+ - [https://ios2024.blogs.rice.edu](https://ios2024.blogs.rice.edu)
+ - date_published: 2024-06-22T11:53:32+00:00
+
+ ## 2024 INFORMS Optimization Society Conference
+ - [https://ios2024.rice.edu](https://ios2024.rice.edu)
+ - date_published: 2024-05-04T15:43:56.017559+00:00
+
+ ## Rice
+ - [https://iso.rice.edu](https://iso.rice.edu)
+ - date_published: 2024-06-26T18:24:38+00:00
+
+ ## OIT
+ - [https://it.rice.edu](https://it.rice.edu)
+ - date_published: 2024-05-07T20:06:10.049090+00:00
+
+ ## Jewish Studies
+ - [https://jewishstudies.rice.edu](https://jewishstudies.rice.edu)
+ - date_published: 2024-05-23T17:14:35+00:00
+
+ ## Home
+ - [https://jobs.rice.edu](https://jobs.rice.edu)
+ - date_published: 2024-05-07T20:05:51.231193+00:00
+
+ ## Rice University KB
+ - [https://kb.rice.edu](https://kb.rice.edu)
+ - date_published: 2024-05-07T20:06:02.177119+00:00
+
+ ## Ken Kennedy Institute
+ - [https://kenkennedy.rice.edu](https://kenkennedy.rice.edu)
+ - date_published: 2024-05-30T14:41:28+00:00
+
+ ## Kinder Institute for Urban Research
+ - [https://kinder.rice.edu](https://kinder.rice.edu)
+ - date_published: 2024-06-11T09:03:20+00:00
+
+ ## Knowledge Café
+ - [https://knowledgecafe.rice.edu](https://knowledgecafe.rice.edu)
+ - date_published: 2024-07-01T18:08:35.489268+00:00
+
+ ## Foreign Language Program
+ - [https://languages.rice.edu](https://languages.rice.edu)
+ - date_published: 2024-06-04T01:26:26+00:00
+
+ ## LibGuides
+ - [http://libguides.rice.edu](http://libguides.rice.edu)
+ - date_published: 2024-07-01T17:59:33.487107+00:00
+
+ ## Welcome | Fondren Library
+ - [https://library.rice.edu](https://library.rice.edu)
+ - date_published: 2024-05-07T20:05:32.296725+00:00
+
+ ## Rice
+ - [https://linguistics.rice.edu](https://linguistics.rice.edu)
+ - date_published: 2024-05-04T08:02:40+00:00
+
  ## Home
  - [https://magazine.rice.edu](https://magazine.rice.edu)
  - date_published: 2024-05-07T20:04:41.853490+00:00
@@ -3948,60 +4004,4 @@
  ## Sign In
  - [https://intranet.slac.stanford.edu](https://intranet.slac.stanford.edu)
  - date_published: 2024-07-06T23:32:56.730482+00:00
-
- ## Introductory Seminars
- - [https://introsems.stanford.edu](https://introsems.stanford.edu)
- - date_published: 2024-05-23T15:38:37+00:00
-
- ## IO - Home | FSI
- - [https://io.stanford.edu](https://io.stanford.edu)
- - date_published: 2024-08-18T22:04:23+00:00
-
- ## Institutional Research & Decision Support
- - [https://irds.stanford.edu](https://irds.stanford.edu)
- - date_published: 2024-06-28T22:33:40+00:00
-
- ## Institute for Research in the Social Sciences
- - [https://iriss.stanford.edu](https://iriss.stanford.edu)
- - date_published: 2024-05-07T20:27:24.746010+00:00
-
- ## The Stanford University InfoLab
- - [http://i.stanford.edu](http://i.stanford.edu)
- - date_published: 2011-11-16T04:48:49+00:00
-
- ## ITALIC is an arts-minded, residence-based academic program for first year students.
- - [https://italic.stanford.edu](https://italic.stanford.edu)
- - date_published: 2024-05-22T18:23:01+00:00
-
- ## Information Technology
- - [https://it-humsci.stanford.edu](https://it-humsci.stanford.edu)
- - date_published: 2024-05-07T20:28:10.966046+00:00
-
- ## Journalism Program
- - [https://journalism101821.sites.stanford.edu](https://journalism101821.sites.stanford.edu)
- - date_published: 2024-07-03T01:12:36+00:00
-
- ## Journalism Program
- - [https://journalism.stanford.edu](https://journalism.stanford.edu)
- - date_published: 2024-05-12T07:12:43.597268+00:00
-
- ## JSK Fellows
- - [https://jskfellows.stanford.edu](https://jskfellows.stanford.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Juneteenth
- - [https://juneteenth.stanford.edu](https://juneteenth.stanford.edu)
- - date_published: 2024-06-25T19:51:14+00:00
-
- ## The Martin Luther King, Jr. Research and Education Institute
- - [https://kinginstitute.stanford.edu](https://kinginstitute.stanford.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Knight-Hennessy Scholars
- - [https://knight-hennessy.stanford.edu](https://knight-hennessy.stanford.edu)
- - date_published: 2024-06-18T22:02:27+00:00
-
- ## JSK
- - [http://knight.stanford.edu](http://knight.stanford.edu)
- - date_published: 2024-07-16T21:43:09.301875+00:00
 

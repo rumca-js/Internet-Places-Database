@@ -1,3 +1,80 @@
+ ## Execution-Based Evaluation for Open-Domain Code Generation
+ - [https://code-eval.github.io](https://code-eval.github.io)
+ - date_published: 2023-01-06T17:30:00+00:00
+
+ ## Code for Nepal
+ - [https://codefornepal.github.io](https://codefornepal.github.io)
+ - date_published: 2024-07-11T05:33:54+00:00
+
+ ## Test GitHub Pages URL overlays
+ - [https://codefrau.github.io](https://codefrau.github.io)
+ - date_published: 2023-03-03T20:05:56+00:00
+
+ ## The CodeMeta Project
+ - [https://codemeta.github.io](https://codemeta.github.io)
+ - date_published: 2024-01-12T10:37:46+00:00
+
+ ## Codemzy Developer Portfolio - by codemzy
+ - [https://codemzy.github.io](https://codemzy.github.io)
+ - date_published: 2018-11-29T16:31:22+00:00
+
+ ## Init 1
+ - [https://codepr.github.io](https://codepr.github.io)
+ - date_published: 2024-04-13T18:37:56+00:00
+
+ ## CodeRAG-Bench: Can Retrieval Augment Code Generation?
+ - [https://code-rag-bench.github.io](https://code-rag-bench.github.io)
+ - date_published: 2024-07-01T15:44:45+00:00
+
+ ## Coderaiser
+ - [https://coderaiser.github.io](https://coderaiser.github.io)
+ - date_published: 2024-10-20T22:10:20.144608+00:00
+
+ ## Home
+ - [https://codergals.github.io](https://codergals.github.io)
+ - date_published: 2020-04-26T15:51:42+00:00
+
+ ## Patrick Fernandes · PhD Student @ CMU & IST
+ - [https://coderpat.github.io](https://coderpat.github.io)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## CodeTherapist Blog
+ - [https://codetherapist.github.io](https://codetherapist.github.io)
+ - date_published: 2020-04-15T00:00:00+00:00
+
+ ## CoDi-2: Interleaved and In-Context Any-to-Any Generation
+ - [https://codi-2.github.io](https://codi-2.github.io)
+ - date_published: 2023-12-02T03:47:38+00:00
+
+ ## CoDi: Generate Anything from Anything All At Once
+through Composable Diffusion
+ - [https://codi-gen.github.io](https://codi-gen.github.io)
+ - date_published: 2023-10-25T19:44:43.372332+00:00
+
+ ## Coding Strip
+ - [https://codingstrip.github.io](https://codingstrip.github.io)
+ - date_published: 2023-05-04T18:07:32+00:00
+
+ ## CODI 2020 - EMNLP workshop
+ - [https://codi-workshop.github.io](https://codi-workshop.github.io)
+ - date_published: 2021-03-09T10:21:30+00:00
+
+ ## CoffeeLint - Lint your CoffeeScript
+ - [https://coffeelint.github.io](https://coffeelint.github.io)
+ - date_published: 2024-05-25T09:10:51.742360+00:00
+
+ ## Alan Levine @aka cogdog
+ - [https://cogdog.github.io](https://cogdog.github.io)
+ - date_published: 2024-03-12T02:40:58+00:00
+
+ ## Cognitive Engineering Lab
+ - [https://cognitive-engineering-lab.github.io](https://cognitive-engineering-lab.github.io)
+ - date_published: 2024-07-15T22:40:55+00:00
+
+ ## Home - colah's blog
+ - [https://colah.github.io](https://colah.github.io)
+ - date_published: 1999-01-01T00:00:00+00:00
+
  ## Yandong Li
  - [https://cold-winter.github.io](https://cold-winter.github.io)
  - date_published: 2021-04-13T20:30:16+00:00
@@ -3960,81 +4037,4 @@ for Articulated Avatars
  ## Jeff Liang
  - [https://jeff-liangf.github.io](https://jeff-liangf.github.io)
  - date_published: 2024-06-21T05:34:33+00:00
-
- ## About me
- - [https://jeffreych0.github.io](https://jeffreych0.github.io)
- - date_published: 2024-05-22T04:09:22+00:00
-
- ## Jeffrey Jurgajtis
- - [https://jeffreyjurgajtis.github.io](https://jeffreyjurgajtis.github.io)
- - date_published: 2023-05-23T02:33:01+00:00
-
- ## Jianfeng Xiang | Home
- - [https://jeffreyxiang.github.io](https://jeffreyxiang.github.io)
- - date_published: 2023-09-07T12:11:10+00:00
-
- ## Jeff Suliga
- - [https://jeff-suliga.github.io](https://jeff-suliga.github.io)
- - date_published: 2023-05-17T00:00:00+00:00
-
- ## Jennifer Brennan
- - [https://jenniferbrennan.github.io](https://jenniferbrennan.github.io)
- - date_published: 2023-03-03T20:58:20+00:00
-
- ## Jens Rantil
- - [https://jensrantil.github.io](https://jensrantil.github.io)
- - date_published: 2023-10-25T08:49:17.368257+00:00
- - tags: ['personal']
-
- ## jeonghopark' blog
- - [https://jeonghopark.github.io](https://jeonghopark.github.io)
- - date_published: 2024-01-07T13:51:56+00:00
-
- ## Jeongsoo Park
- - [https://jeongsoop.github.io](https://jeongsoop.github.io)
- - date_published: 2023-10-06T21:12:02+00:00
-
- ## Junming Chen (陈俊名)
- - [https://jeremycjm.github.io](https://jeremycjm.github.io)
- - date_published: 2024-07-12T03:50:28+00:00
-
- ## About me - Jesse Lansdown
- - [https://jesselansdown.github.io](https://jesselansdown.github.io)
- - date_published: 2024-07-15T03:52:20+00:00
-
- ## About
- - [https://jessesquires.github.io](https://jessesquires.github.io)
- - date_published: 2020-12-17T00:00:00+00:00
-
- ## Jessica S. Guo
- - [https://jessicaguo.github.io](https://jessicaguo.github.io)
- - date_published: 2023-12-07T16:12:03+00:00
-
- ## jester • chess over nostr
- - [https://jesterui.github.io](https://jesterui.github.io)
- - date_published: 2024-05-24T10:32:44+00:00
-
- ## Jaehoon Choi
- - [https://jh-choi.github.io](https://jh-choi.github.io)
- - date_published: 2024-06-20T16:05:55+00:00
-
- ## jherrlin
- - [https://jherrlin.github.io](https://jherrlin.github.io)
- - date_published: 2023-02-20T14:40:13+00:00
-
- ## Mickey's Blogs – Exploring the world with my sword of debugger :)
- - [https://jhftss.github.io](https://jhftss.github.io)
- - date_published: 2024-11-07T03:06:10+00:00
-
- ## Home
- - [https://jhoelzel.github.io](https://jhoelzel.github.io)
- - date_published: 2023-10-04T08:48:58+00:00
-
- ## Jane Hoffswell
- - [https://jhoffswell.github.io](https://jhoffswell.github.io)
- - date_published: 2023-09-22T18:59:06+00:00
-
- ## James Hong | Computer Scientist
- - [https://jhong93.github.io](https://jhong93.github.io)
- - date_published: 2024-06-13T15:06:28+00:00
 

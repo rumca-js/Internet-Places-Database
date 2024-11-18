@@ -1,3 +1,7 @@
+ ## Vertical Aerospace · Pioneering Electric Aviation
+ - [https://verticalaerospace.kinsta.cloud](https://verticalaerospace.kinsta.cloud)
+ - date_published: 2024-05-21T03:03:18.470558+00:00
+
  ## Willkommen | Kletterpark Cloud
  - [https://kletterpark.cloud](https://kletterpark.cloud)
  - date_published: 2024-07-02T20:50:08.137423+00:00
@@ -4008,8 +4012,4 @@
  ## Working at Citi | Jobs and Careers at Citi
  - [https://jobs.citi.cn](https://jobs.citi.cn)
  - date_published: 2024-10-10T19:29:37.656552+00:00
-
- ## 伦敦大学城市学院 City, University of London |
- - [https://www.cityunioflondon.cn](https://www.cityunioflondon.cn)
- - date_published: 2024-05-02T10:52:40.289267+00:00
 

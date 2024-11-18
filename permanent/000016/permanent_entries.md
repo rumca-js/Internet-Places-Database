@@ -1,3 +1,7 @@
+ ## Jeep Wave
+ - [https://jeepwave.jeep.com.br](https://jeepwave.jeep.com.br)
+ - date_published: 2024-10-25T13:46:09+00:00
+
  ## Fique por dentro das nossas condições especiais.
  - [https://ofertas.jeep.com.br](https://ofertas.jeep.com.br)
  - date_published: 2024-10-25T13:37:14+00:00
@@ -4008,8 +4012,4 @@
  ## Mastodon e brezhoneg
  - [https://mastodon.fedi.bzh](https://mastodon.fedi.bzh)
  - date_published: 2024-06-23T17:14:24.103105+00:00
-
- ## FNE-Bretagne – France Nature Environnement – Bretagne
- - [https://fne-bretagne.bzh](https://fne-bretagne.bzh)
- - date_published: 2024-10-15T15:41:40.700816+00:00
 

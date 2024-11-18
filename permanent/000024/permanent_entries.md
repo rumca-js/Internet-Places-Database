@@ -1,3 +1,7 @@
+ ## Welcome to the Evaluate Collaboratory! | Evaluate Collaboratory
+ - [http://evaluate.inf.usi.ch](http://evaluate.inf.usi.ch)
+ - date_published: 2024-07-14T16:25:24.487395+00:00
+
  ## Home page site login2.usi.ch
  - [https://login2.usi.ch](https://login2.usi.ch)
  - date_published: 2016-07-28T09:17:22+00:00
@@ -4007,8 +4011,4 @@
  ## Datawords | Agence de marketing et stratégie digitale
  - [https://stg-datawords-staging.kinsta.cloud](https://stg-datawords-staging.kinsta.cloud)
  - date_published: 2023-06-27T05:45:42+00:00
-
- ## Vertical Aerospace · Pioneering Electric Aviation
- - [https://verticalaerospace.kinsta.cloud](https://verticalaerospace.kinsta.cloud)
- - date_published: 2024-05-21T03:03:18.470558+00:00
 

@@ -1,3 +1,7 @@
+ ## FCY: Battlemech Models
+ - [https://battlemechclub.blogspot.com](https://battlemechclub.blogspot.com)
+ - date_published: 2024-10-20T21:47:12+00:00
+
  ## Warhammer Fantasy Battle Tabletop Gaming
  - [http://battlereporter.blogspot.com](http://battlereporter.blogspot.com)
  - date_published: 2014-09-24T00:00:00+00:00
@@ -4011,8 +4015,4 @@
  ## Running in Cork, Ireland
  - [http://corkrunning.blogspot.com](http://corkrunning.blogspot.com)
  - date_published: 2024-10-31T23:30:07+00:00
-
- ## Cormoran Development Blog
- - [http://cormoran-project.blogspot.com](http://cormoran-project.blogspot.com)
- - date_published: 2024-02-19T08:51:09+00:00
 

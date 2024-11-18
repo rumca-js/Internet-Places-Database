@@ -1,3 +1,47 @@
+ ## dog.dad
+ - [https://dog.dad](https://dog.dad)
+ - date_published: 2024-07-12T17:53:10.215634+00:00
+
+ ## dude.dad
+ - [https://dude.dad](https://dude.dad)
+ - date_published: 2024-07-12T17:52:34.985491+00:00
+
+ ## FitDadCEO
+ - [https://fit.dad](https://fit.dad)
+ - date_published: 2024-07-12T17:53:54.773703+00:00
+
+ ## Gamer.Dad
+ - [https://gamer.dad](https://gamer.dad)
+ - date_published: 2024-07-12T17:53:34.506072+00:00
+
+ ## Gay. Dads.
+ - [https://gay.dad](https://gay.dad)
+ - date_published: 2024-07-12T17:53:02.676900+00:00
+
+ ## Celebrate .dad | get.dad
+ - [https://get.dad](https://get.dad)
+ - date_published: 2024-05-10T05:47:01.720675+00:00
+
+ ## Dear Fathers | How to Dad
+ - [https://howto.dad](https://howto.dad)
+ - date_published: 2024-07-12T17:52:49.492520+00:00
+
+ ## Law.Dad
+ - [https://law.dad](https://law.dad)
+ - date_published: 2024-07-12T17:53:39.717182+00:00
+
+ ## life.dad – A new .dad domain site from Life of Dad
+ - [https://life.dad](https://life.dad)
+ - date_published: 2024-07-12T17:54:04.084735+00:00
+
+ ## lifeof.dad – A new .dad domain by Life of Dad
+ - [https://lifeof.dad](https://lifeof.dad)
+ - date_published: 2024-07-12T17:52:57.276175+00:00
+
+ ## Love.Dad
+ - [https://love.dad](https://love.dad)
+ - date_published: 2024-07-12T17:52:45.566227+00:00
+
  ## Meme.Dad
  - [https://meme.dad](https://meme.dad)
  - date_published: 2024-07-12T17:53:04.120869+00:00
@@ -3979,48 +4023,4 @@
  ## Liir nordfriisk / Liir Sölring !
  - [https://liirnordfriisk.blogspot.de](https://liirnordfriisk.blogspot.de)
  - date_published: 2024-05-31T21:20:41+00:00
-
- ## Jabal al-Lughat
- - [http://lughat.blogspot.de](http://lughat.blogspot.de)
- - date_published: 2024-06-20T17:51:03+00:00
-
- ## main is usually a function
- - [http://mainisusuallyafunction.blogspot.de](http://mainisusuallyafunction.blogspot.de)
- - date_published: 2024-08-19T12:42:50+00:00
-
- ## Memo's Island
- - [http://memosisland.blogspot.de](http://memosisland.blogspot.de)
- - date_published: 2024-06-10T12:28:20+00:00
-
- ## miniaTEXTures
- - [http://miniatextures.blogspot.de](http://miniatextures.blogspot.de)
- - date_published: 2024-10-26T12:20:48+00:00
-
- ## Modern JavaScript
- - [https://modernjavascript.blogspot.de](https://modernjavascript.blogspot.de)
- - date_published: 2024-03-05T12:47:23+00:00
-
- ## MONGOLS CHINA AND THE SILK ROAD
- - [https://mongolschinaandthesilkroad.blogspot.de](https://mongolschinaandthesilkroad.blogspot.de)
- - date_published: 2024-10-29T16:32:10+00:00
-
- ## Mordian 7th Regiment
- - [http://mordian7th.blogspot.de](http://mordian7th.blogspot.de)
- - date_published: 2024-10-24T21:41:04+00:00
-
- ## Faeit 212
- - [http://natfka.blogspot.de](http://natfka.blogspot.de)
- - date_published: 2024-10-25T01:18:01+00:00
-
- ## The New Pulp Heroes
- - [http://newpulpheroes.blogspot.de](http://newpulpheroes.blogspot.de)
- - date_published: 2024-03-13T06:08:24+00:00
-
- ## No More Mister Nice Blog
- - [http://nomoremister.blogspot.de](http://nomoremister.blogspot.de)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Obscene Desserts
- - [http://obscenedesserts.blogspot.de](http://obscenedesserts.blogspot.de)
- - date_published: 2024-10-21T13:01:44.528599+00:00
 

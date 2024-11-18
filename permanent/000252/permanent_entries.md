@@ -1,3 +1,53 @@
+ ## Show HN: Hashquery, a Python library for defining reusable analysis
+ - [https://hashquery.dev](https://hashquery.dev)
+ - date_published: 2024-04-23T14:31:12+00:00
+ - tags: ['programming library', 'python', 'data analysis']
+
+ ## Hathora
+ - [https://blog.hathora.dev](https://blog.hathora.dev)
+ - date_published: 2024-03-16T00:26:26.846171+00:00
+
+ ## Hathora Console
+ - [https://console.hathora.dev](https://console.hathora.dev)
+ - date_published: 2024-08-09T03:30:04.258737+00:00
+
+ ## Hathora | Server Orchestration for Multiplayer Games
+ - [https://hathora.dev](https://hathora.dev)
+ - date_published: 2024-04-23T10:08:25+00:00
+ - tags: ['server hosting', 'online service']
+
+ ## Plausible · Web analytics
+ - [https://analytics.hay-kot.dev](https://analytics.hay-kot.dev)
+ - date_published: 2024-07-18T06:54:07.212698+00:00
+
+ ## Home Page
+ - [https://uat-sscspace.hbgdesignlab.dev](https://uat-sscspace.hbgdesignlab.dev)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## HDC – Handcrafted web development meets cutting-edge AI
+ - [https://hdc.dev](https://hdc.dev)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Headless UI
+ - [https://headlessui.dev](https://headlessui.dev)
+ - date_published: 2024-04-30T02:20:07.294350+00:00
+
+ ## HedgeDoc 2 Docs
+ - [https://docs.hedgedoc.dev](https://docs.hedgedoc.dev)
+ - date_published: 2024-07-18T08:21:34.697861+00:00
+
+ ## HedgeDoc
+ - [https://hedgedoc.dev](https://hedgedoc.dev)
+ - date_published: 2024-07-18T08:21:31.880975+00:00
+
+ ## home
+ - [https://home.hedy.dev](https://home.hedy.dev)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## HEIR: Homomorphic Encryption Intermediate Representation
+ - [http://heir.dev](http://heir.dev)
+ - date_published: 2024-06-02T00:00:00+00:00
+
  ## Helen Chong | Front-End Web Developer
  - [https://helenchong.dev](https://helenchong.dev)
  - date_published: 2024-07-21T15:26:20+00:00
@@ -3616,6 +3666,11 @@
  - [https://sampurr.pages.dev](https://sampurr.pages.dev)
  - date_published: 2024-05-09T09:12:04.223987+00:00
 
+ ## Welcome to the Scraperr Docs
+ - [https://scraperr-docs.pages.dev](https://scraperr-docs.pages.dev)
+ - date_published: 2024-11-17T07:35:16+00:00
+ - tags: ['web scraping']
+
  ## Best DNS Servers
  - [https://secu.pages.dev](https://secu.pages.dev)
  - date_published: 2024-06-20T21:56:47.470620+00:00
@@ -4026,56 +4081,4 @@
  ## Placetopay Docs
  - [https://docs.placetopay.dev](https://docs.placetopay.dev)
  - date_published: 2024-06-12T10:31:16.093233+00:00
-
- ## PlacetoPay :: Pasarela de Pagos en Latinoamérica
- - [https://placetopay.dev](https://placetopay.dev)
- - date_published: 2024-08-20T21:42:49+00:00
-
- ## plainweb
- - [https://www.plainweb.dev](https://www.plainweb.dev)
- - date_published: 2024-09-02T09:50:49.373633+00:00
-
- ## Plane – run WebSocket backends at scale – Plane
- - [https://plane.dev](https://plane.dev)
- - date_published: 2024-05-01T07:46:41.271304+00:00
-
- ## Platformatic Blog
- - [https://blog.platformatic.dev](https://blog.platformatic.dev)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Platformatic
- - [https://platformatic.dev](https://platformatic.dev)
- - date_published: 2024-06-18T10:30:18+00:00
-
- ## Shift - Page builder
- - [https://shift.playgrnd.dev](https://shift.playgrnd.dev)
- - date_published: 2024-07-14T10:19:20.664966+00:00
-
- ## Fast and reliable end-to-end testing for modern web apps | Playwright
- - [https://playwright.dev](https://playwright.dev)
- - date_published: 2024-03-14T15:14:49.454739+00:00
-
- ## Dennis Plettner - Software Lösungen für Ihr Unternehmen
- - [https://plettner.dev](https://plettner.dev)
- - date_published: 2024-08-08T15:26:20.301275+00:00
-
- ## Your Plug and Playground
- - [https://plugandplayground.dev](https://plugandplayground.dev)
- - date_published: 2024-09-25T20:52:09+00:00
-
- ## home - plungepool wiki.
- - [https://wiki.plungepool.dev](https://wiki.plungepool.dev)
- - date_published: 2024-05-25T00:25:21+00:00
-
- ## plusmid's blog
- - [https://blog.plusmid.dev](https://blog.plusmid.dev)
- - date_published: 2023-06-29T18:21:11+00:00
-
- ## 프날 오토핫키 v2 : 오토핫키, 시작은 프날 강좌와 함께!
- - [https://ahkv2.pnal.dev](https://ahkv2.pnal.dev)
- - date_published: 2024-05-12T04:14:16.119129+00:00
-
- ## Pock: Widgets manager for MacBook Touch Bar
- - [https://pock.dev](https://pock.dev)
- - date_published: 2022-02-25T14:12:56+00:00
 

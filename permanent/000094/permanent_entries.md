@@ -1,3 +1,15 @@
+ ## Ettus Research - The leader in Software Defined Radio (SDR)
+ - [https://ettus.com](https://ettus.com)
+ - date_published: 2024-04-29T03:48:27.821670+00:00
+
+ ## Ettus Knowledge Base
+ - [https://kb.ettus.com](https://kb.ettus.com)
+ - date_published: 2024-05-22T16:48:39+00:00
+
+ ## ETu Agent
+ - [https://e-tuagent.com](https://e-tuagent.com)
+ - date_published: 2024-07-03T16:31:09.863929+00:00
+
  ## Unlock  <span class="text-primary">your potential</span> with our learning community!
  - [https://www.etudesk.com](https://www.etudesk.com)
  - date_published: 2024-09-11T18:13:21.557149+00:00
@@ -4020,16 +4032,4 @@
  ## Ekami software
  - [http://www.exifphotoworker.com](http://www.exifphotoworker.com)
  - date_published: 2024-08-18T19:28:04.994278+00:00
-
- ## Exile in Bookville
- - [https://exileinbookville.com](https://exileinbookville.com)
- - date_published: 2024-06-20T23:26:32.373227+00:00
-
- ## Exile Lifestyle
- - [https://exilelifestyle.com](https://exilelifestyle.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Best places for you holiday vacation
- - [http://www.exilim-tours.com](http://www.exilim-tours.com)
- - date_published: 2024-07-04T14:33:54.475690+00:00
 

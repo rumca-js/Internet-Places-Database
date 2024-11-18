@@ -1,3 +1,37 @@
+ ## Turing Talks | Manish Shivanandhan | Substack
+ - [https://turingtalks.substack.com](https://turingtalks.substack.com)
+ - date_published: 2024-01-02T08:43:07.890129+00:00
+
+ ## TV's Moral Philosophy | Andrew Heard | Substack
+ - [https://tvphilosophy.substack.com](https://tvphilosophy.substack.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## twenty4two | Tim Gwynn Jones | Substack
+ - [https://twentyfourtwo.substack.com](https://twentyfourtwo.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The Twitter Files | Matt Taibbi | Substack
+ - [https://twitterfiles.substack.com](https://twitterfiles.substack.com)
+ - date_published: 2024-05-11T09:36:14.757829+00:00
+
+ ## Tyler’s Substack | Tyler Glaiel | Substack
+ - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
+ - date_published: 2023-10-25T10:06:56.239008+00:00
+ - tags: ['substack']
+
+ ## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date_published: 2023-10-25T10:06:58.858555+00:00
+ - tags: ['substack']
+
+ ## Monkeys on Typewriters | Arijit Chakravarty | Substack
+ - [http://typingmonkeys.substack.com](http://typingmonkeys.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## https://u4all.substack.com
+ - [https://u4all.substack.com](https://u4all.substack.com)
+ - date_published: 2024-02-08T18:06:49.384939+00:00
+
  ## Ubidrop Product Updates | Alex Styl | Substack
  - [https://ubidrop.substack.com](https://ubidrop.substack.com)
  - date_published: 2024-04-03T00:00:00+00:00
@@ -4003,36 +4037,4 @@
  ## The SUSE Brand
  - [https://brand.suse.com](https://brand.suse.com)
  - date_published: 2024-05-23T02:49:07.382650+00:00
-
- ## Bugzilla Main Page
- - [https://bugzilla.suse.com](https://bugzilla.suse.com)
- - date_published: 2024-05-08T09:16:25.616905+00:00
-
- ## Shop Online: Buy SUSE Linux Products Online
- - [https://buy.suse.com](https://buy.suse.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Community
- - [https://community.suse.com](https://community.suse.com)
- - date_published: 2024-06-29T09:49:23.057589+00:00
-
- ## Supported products | SUSE Documentation
- - [https://documentation.suse.com](https://documentation.suse.com)
- - date_published: 2024-04-25T21:07:52.529743+00:00
-
- ## All Products
- - [https://download.suse.com](https://download.suse.com)
- - date_published: 2024-05-23T02:49:00.771094+00:00
-
- ## Rancher Labs
- - [https://forums.suse.com](https://forums.suse.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Password Settings
- - [https://idp-portal.suse.com](https://idp-portal.suse.com)
- - date_published: 2024-02-20T13:44:38+00:00
-
- ## Investor Relations at SUSE
- - [https://ir.suse.com](https://ir.suse.com)
- - date_published: 2024-05-23T02:49:10.560171+00:00
 

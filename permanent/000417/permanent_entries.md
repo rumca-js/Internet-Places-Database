@@ -1,3 +1,99 @@
+ ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
+ - [https://ogr.sakarya.edu.tr](https://ogr.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:16.876365+00:00
+
+ ## Sakarya Üniversitesi | ÖĞRENCİ SENATOSU
+ - [https://ogrsen.sakarya.edu.tr](https://ogrsen.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:45.859486+00:00
+
+ ## SAÜ Öğrenci İşleri- SSS
+ - [https://ogrwebmail.sakarya.edu.tr](https://ogrwebmail.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:01.744892+00:00
+
+ ## Sakarya Üniversitesi | Ortadoğu Enstitüsü
+ - [https://ortadogu.sakarya.edu.tr](https://ortadogu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:21.574026+00:00
+
+ ## SABİS Rehber :: Sakarya Üniversitesi Bilgi Sistemi
+ - [https://rehber.sakarya.edu.tr](https://rehber.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:06.582414+00:00
+
+ ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
+ - [https://sabis.sakarya.edu.tr](https://sabis.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:42.307900+00:00
+
+ ## Sakarya Üniversitesi | Sağlık Bilimleri Enstitüsü
+ - [https://sagbil.sakarya.edu.tr](https://sagbil.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:03.740314+00:00
+
+ ## Sakarya Üniversitesi | Sağlık Bilimleri Fakültesi
+ - [https://saglikbilimleri.sakarya.edu.tr](https://saglikbilimleri.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:40.268459+00:00
+
+ ## Sakarya Üniversitesi | Geleceğinize Yön Verin | SAÜ
+ - [https://sakarya.edu.tr](https://sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:43.489769+00:00
+
+ ## Sakarya Üniversitesi - TÜRKİYE
+ - [https://sanalkampus.sakarya.edu.tr](https://sanalkampus.sakarya.edu.tr)
+ - date_published: 2020-11-27T09:11:01+00:00
+
+ ## Sakarya University Journal of Computer and Information Sciences
+ - [http://saucis.sakarya.edu.tr](http://saucis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:34:52.256048+00:00
+
+ ## Sakarya Üniversitesi | Kurumsal Analiz ve Kalite Geliştirme Koordinatörlüğü
+ - [https://saudek.sakarya.edu.tr](https://saudek.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:44.599982+00:00
+
+ ## Sakarya Üniversitesi | Gazetecilik Bölümü
+ - [https://saugazetecilik.sakarya.edu.tr](https://saugazetecilik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:36.798053+00:00
+
+ ## SAÜSEM Personel Belgelendirme Kurumsal Web Sitesi | SAÜPER
+ - [https://sauper.sakarya.edu.tr](https://sauper.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:38.352091+00:00
+
+ ## Sakarya Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi | sausem.sakarya.edu.tr
+ - [https://sausem.sakarya.edu.tr](https://sausem.sakarya.edu.tr)
+ - date_published: 2024-06-14T14:03:47+00:00
+
+ ## SAÜ Vakfı Özel Okulları – Köklü Geçmiş, Güçlü Gelecek
+ - [https://sauvakfiokullari.sakarya.edu.tr](https://sauvakfiokullari.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:26.933873+00:00
+
+ ## Sakarya Üniversitesi Yayınları
+ - [https://sauyayinlari.sakarya.edu.tr](https://sauyayinlari.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:52.755361+00:00
+
+ ## Sakarya Üniversitesi | SOSYAL BİLİMLER ENSTİTÜSÜ
+ - [https://sbe.sakarya.edu.tr](https://sbe.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:22.709774+00:00
+
+ ## Sakarya Üniversitesi | Siyasal Bilgiler Fakültesi
+ - [https://sbf.sakarya.edu.tr](https://sbf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:55.077803+00:00
+
+ ## Ana Sayfa - Sakarya Şehir Hafızası - Sakarya'nın Dijital Hafızası
+ - [https://sehirhafizasi.sakarya.edu.tr](https://sehirhafizasi.sakarya.edu.tr)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://seng.sakarya.edu.tr](https://seng.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:34:56.136489+00:00
+
+ ## Sakarya Üniversitesi | Sakarya Enerji teknolojileri Takımı
+ - [https://sett.sakarya.edu.tr](https://sett.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:18.969969+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://shmyo.sakarya.edu.tr](https://shmyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:57.754015+00:00
+
+ ## Sakarya Üniversitesi | Sıfır Atık Koordinatörlüğü
+ - [https://sifiratik.sakarya.edu.tr](https://sifiratik.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:30.808592+00:00
+
  ## Sakarya Üniversitesi |
  - [https://sks.sakarya.edu.tr](https://sks.sakarya.edu.tr)
  - date_published: 2024-06-17T15:40:06.955583+00:00
@@ -3978,102 +4074,4 @@ NMHSs DIRECTORS
  ## Competitions
  - [https://competitions.stv.tv](https://competitions.stv.tv)
  - date_published: 2024-05-02T10:38:29.257216+00:00
-
- ## STV Player | Everything that’s on STV plus a whole lot more
- - [http://local.stv.tv](http://local.stv.tv)
- - date_published: 2024-10-21T17:30:41.840789+00:00
-
- ## STV | The home of your favourite shows
- - [http://my.stv.tv](http://my.stv.tv)
- - date_published: 2024-06-05T10:10:37+00:00
-
- ## STV News | The home of Scottish News, Sport & Weather
- - [https://news.stv.tv](https://news.stv.tv)
- - date_published: 2023-10-25T10:10:00.186984+00:00
-
- ## STV Player | Everything that’s on STV plus a whole lot more
- - [https://player.stv.tv](https://player.stv.tv)
- - date_published: 2024-06-17T16:43:40.571898+00:00
-
- ## STV Player | Everything that’s on STV plus a whole lot more
- - [https://stv.tv](https://stv.tv)
- - date_published: 2024-06-17T16:43:46.700033+00:00
-
- ## STV | Help & Support : Support
- - [https://support.stv.tv](https://support.stv.tv)
- - date_published: 2024-06-17T16:43:55.571148+00:00
-
- ## STV Player | Everything that’s on STV plus a whole lot more
- - [https://tvguide.stv.tv](https://tvguide.stv.tv)
- - date_published: 2024-05-02T10:38:34.663896+00:00
-
- ## STV Childrens Appeal – Helping Scotland’s Young People
- - [https://stvappeal.tv](https://stvappeal.tv)
- - date_published: 2024-06-17T16:43:57+00:00
-
- ## STV Commercial
- - [https://www.stvcommercial.tv](https://www.stvcommercial.tv)
- - date_published: 2024-06-17T16:43:56.945830+00:00
-
- ## STV Home
- - [http://www.stvplc.tv](http://www.stvplc.tv)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SunMedia
- - [https://www.sunmedia.tv](https://www.sunmedia.tv)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## SuperLatina TV
- - [http://superlatina.tv](http://superlatina.tv)
- - date_published: 2024-10-19T20:38:38.027265+00:00
-
- ## sweet.tv - TV channels and movies online in high quality
- - [https://sweet.tv](https://sweet.tv)
- - date_published: 2024-11-07T07:34:48+00:00
- - tags: ['piracy']
-
- ## تلفزيون سوريا | أخر أخبار سوريا اليوم
- - [https://www.syria.tv](https://www.syria.tv)
- - date_published: 2024-09-13T20:02:06+00:00
-
- ## Kacper Szurek - Blog
- - [https://blog.szurek.tv](https://blog.szurek.tv)
- - date_published: 2024-10-31T07:11:23.529816+00:00
-
- ## Kursy o bezpieczeństwie - sklep.szurek.tv
- - [https://sklep.szurek.tv](https://sklep.szurek.tv)
- - date_published: 2024-10-31T07:11:25.298178+00:00
-
- ## Webinary · Kacper Szurek
- - [https://webinar.szurek.tv](https://webinar.szurek.tv)
- - date_published: 2024-10-31T07:11:26.149724+00:00
-
- ## TABLETOP TACTICS - Tabletop Tactics
- - [https://tabletoptactics.tv](https://tabletoptactics.tv)
- - date_published: 2024-07-02T11:30:04+00:00
- - tags: ['video show']
-
- ## TDT colombia
- - [https://www.tdtparatodos.tv](https://www.tdtparatodos.tv)
- - date_published: 2024-06-12T12:15:18.600593+00:00
-
- ## ▌│█║▌║▌║ тнe тeacнing мacнine ║▌║▌║█│▌
- - [https://network.teachingmachine.tv](https://network.teachingmachine.tv)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Cargo
- - [https://projects.teachingmachine.tv](https://projects.teachingmachine.tv)
- - date_published: 2024-09-06T21:55:40.416158+00:00
-
- ## The Teaching Machine
- - [https://teachingmachine.tv](https://teachingmachine.tv)
- - date_published: 2024-09-06T21:30:39.042022+00:00
-
- ## Teads | Access your Data<
- - [https://user-privacy.teads.tv](https://user-privacy.teads.tv)
- - date_published: 2024-06-25T19:34:08.706378+00:00
-
- ## Techlive International - Latest Movies & TV Content for Hospitality
- - [https://www.techlive.tv](https://www.techlive.tv)
- - date_published: 2024-08-16T00:00:00+00:00
 

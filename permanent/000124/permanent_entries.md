@@ -1,3 +1,19 @@
+ ## Le groupe média leader des audiences B2B
+ - [https://www.infopro-digital-media.com](https://www.infopro-digital-media.com)
+ - date_published: 2024-10-31T07:13:26+00:00
+
+ ## Infopro Ignite
+ - [https://www.infopro-ignite.com](https://www.infopro-ignite.com)
+ - date_published: 2024-08-18T21:50:45+00:00
+
+ ## End-to-end Digital Services, Solutions & Consulting | Infopulse
+ - [https://www.infopulse.com](https://www.infopulse.com)
+ - date_published: 2024-06-20T05:52:55.385044+00:00
+
+ ## Explore upcoming InfoQ Dev Summits
+ - [https://devsummit.infoq.com](https://devsummit.infoq.com)
+ - date_published: 2024-06-22T12:57:02+00:00
+
  ## InfoQ Events - Discover events for senior software practitioners by senior software practitioners
  - [https://events.infoq.com](https://events.infoq.com)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -4005,20 +4021,4 @@
  ## Compliance
  - [https://sunlyalsevacomplaints.integrityline.com](https://sunlyalsevacomplaints.integrityline.com)
  - date_published: 2024-05-15T06:05:54+00:00
-
- ## EQS Integrity Line
- - [https://unitedinternet.integrityline.com](https://unitedinternet.integrityline.com)
- - date_published: 2024-06-25T22:27:35.405753+00:00
-
- ## EQS Integrity Line - the secure whistleblowing hotline | integrityline.com
- - [https://www.integrityline.com](https://www.integrityline.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Integrity Management Consulting
- - [https://integritymc.com](https://integritymc.com)
- - date_published: 2024-07-20T18:27:59.022042+00:00
-
- ## Intel product specifications
- - [https://ark.intel.com](https://ark.intel.com)
- - date_published: 2024-03-03T21:26:30.990056+00:00
 

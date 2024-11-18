@@ -1,3 +1,23 @@
+ ## Florida State University  - Official Athletics Website
+ - [https://seminoles.com](https://seminoles.com)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Florida State Seminoles Basketball Gear, Unique FSU Gifts, FSU Clothing, FSU Seminoles Apparel | Official Florida State Seminoles Store
+ - [https://shop.seminoles.com](https://shop.seminoles.com)
+ - date_published: 2024-08-11T06:38:15.625398+00:00
+
+ ## Official 2024 Florida State Ireland Ticket Packages
+ - [https://www.seminoles2ireland.com](https://www.seminoles2ireland.com)
+ - date_published: 2024-08-11T11:25:11.093803+00:00
+
+ ## Semiotext(e)
+ - [https://www.semiotexte.com](https://www.semiotexte.com)
+ - date_published: 2024-07-07T05:52:13.133369+00:00
+
+ ## Semiotext(e)
+ - [http://www.semiotextes.com](http://www.semiotextes.com)
+ - date_published: 2024-07-07T05:52:33.983084+00:00
+
  ## Semiovox
  - [https://semiovox.com](https://semiovox.com)
  - date_published: 2024-05-23T13:08:06.562397+00:00
@@ -4015,24 +4035,4 @@
  ## ShapeBlue | The CloudStack Company
  - [https://www.shapeblue.com](https://www.shapeblue.com)
  - date_published: 2024-03-15T00:00:00+00:00
-
- ## Shapecatcher: Draw the Unicode character you want!
- - [https://shapecatcher.com](https://shapecatcher.com)
- - date_published: 2023-10-25T17:03:21.120346+00:00
-
- ## Shape Games
- - [https://shapegames.com](https://shapegames.com)
- - date_published: 2024-07-09T19:41:48.250177+00:00
-
- ## Shape History | The Social Impact Communications Agency
- - [https://shapehistory.com](https://shapehistory.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## The Shape of Everything
- - [http://shapeof.com](http://shapeof.com)
- - date_published: 2024-05-16T21:00:48+00:00
-
- ## The Shape of Code
- - [https://shape-of-code.com](https://shape-of-code.com)
- - date_published: 2023-10-25T17:03:20.555625+00:00
 

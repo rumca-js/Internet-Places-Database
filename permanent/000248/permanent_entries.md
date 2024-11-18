@@ -1,3 +1,48 @@
+ ## Sparkasse KölnBonn | Füreinander hier
+ - [https://www.sparkasse-koelnbonn.de](https://www.sparkasse-koelnbonn.de)
+ - date_published: 2024-07-14T16:08:19.327446+00:00
+
+ ## S-CERT-Sicherheitswarnungen
+ - [https://feeds.sparkassen-finanzportal.de](https://feeds.sparkassen-finanzportal.de)
+ - date_published: 2024-06-16T08:16:39.280083+00:00
+
+ ## Media-Center
+ - [https://sparkassen-mediacenter.de](https://sparkassen-mediacenter.de)
+ - date_published: 2024-06-16T08:16:31.764486+00:00
+
+ ## SparkassenShop Startseite · Sparkasse · Shop · Beratung · Service
+ - [https://www.sparkassen-shop.de](https://www.sparkassen-shop.de)
+ - date_published: 2024-06-16T06:15:38.549157+00:00
+
+ ## Spark Innovation – Martin Ferfers
+ - [https://spark-innovation.de](https://spark-innovation.de)
+ - date_published: 2023-12-22T17:51:37.712266+00:00
+ - tags: ['personal']
+
+ ## Sparlaxy – Das Samsung Galaxy Portal
+ - [http://www.sparlaxy.de](http://www.sparlaxy.de)
+ - date_published: 2024-09-02T16:32:40.778050+00:00
+
+ ## SPARTOO | Schuhe, Taschen und Kleidung | Kostenlose Lieferung
+ - [https://spartoo.de](https://spartoo.de)
+ - date_published: 2024-09-11T18:33:04.990094+00:00
+
+ ## SPARXSYSTEMS: Enterprise Architect | Ihr UML und BPMN Tool
+ - [https://www.sparxsystems.de](https://www.sparxsystems.de)
+ - date_published: 2024-07-03T21:41:07.406472+00:00
+
+ ## SPB-Linux
+ - [http://spblinux.de](http://spblinux.de)
+ - date_published: 2008-03-06T23:13:19+00:00
+
+ ## sp-codes - Home
+ - [https://sp-codes.de](https://sp-codes.de)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## SpeedCommander
+ - [http://www.speedproject.de](http://www.speedproject.de)
+ - date_published: 2024-06-20T13:13:03.673669+00:00
+
  ## Energie - Speicher - Marktplatz - Jobs - Speicherbranche - Speicherbranche
  - [https://speicherbranche.de](https://speicherbranche.de)
  - date_published: 2024-04-29T06:15:28.733267+00:00
@@ -3966,48 +4011,4 @@
  ## https://jsxgraph.uni-bayreuth.de
  - [https://jsxgraph.uni-bayreuth.de](https://jsxgraph.uni-bayreuth.de)
  - date_published: 2016-02-11T20:43:48+00:00
-
- ## Universität Bayreuth – The Gamechanger Campus
- - [http://www.uni-bayreuth.de](http://www.uni-bayreuth.de)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Lehrstuhl für Wirtschaftsmathematik -  Prof. Dr. Jörg Rambau
- - [http://www.wm.uni-bayreuth.de](http://www.wm.uni-bayreuth.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Aktuell Uni Bielefeld
- - [https://aktuell.uni-bielefeld.de](https://aktuell.uni-bielefeld.de)
- - date_published: 2024-07-24T03:56:43.186053+00:00
-
- ## BASE (Bielefeld Academic Search Engine): Basic Search
- - [http://base.ub.uni-bielefeld.de](http://base.ub.uni-bielefeld.de)
- - date_published: 2024-08-06T11:26:37.832238+00:00
-
- ## BieColl - Universitätsbibliothek - Universität Bielefeld
- - [https://biecoll.ub.uni-bielefeld.de](https://biecoll.ub.uni-bielefeld.de)
- - date_published: 2024-07-24T03:56:16.248949+00:00
-
- ## Willkommen im Bielefelder Informationssystem (BIS)!
- - [https://biscdn.uni-bielefeld.de](https://biscdn.uni-bielefeld.de)
- - date_published: 2024-07-24T03:56:04.726860+00:00
-
- ## Willkommen im Bielefelder Informationssystem (BIS)!
- - [https://bisintern.uni-bielefeld.de](https://bisintern.uni-bielefeld.de)
- - date_published: 2024-07-24T03:57:26.268459+00:00
-
- ## ub.aktuell | Das Weblog der Universitätsbibliothek Bielefeld
- - [https://blog.ub.uni-bielefeld.de](https://blog.ub.uni-bielefeld.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Unsere Sammlungen - Digitale Sammlungen der Universitätsbibliothek Bielefeld
- - [https://ds.ub.uni-bielefeld.de](https://ds.ub.uni-bielefeld.de)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Willkommen im Bielefelder Informationssystem (BIS)!
- - [https://ekvv.uni-bielefeld.de](https://ekvv.uni-bielefeld.de)
- - date_published: 2024-04-29T06:58:45.858065+00:00
-
- ## Weiterleitung
- - [https://fis-portal.uni-bielefeld.de](https://fis-portal.uni-bielefeld.de)
- - date_published: 2024-07-24T03:56:57.578091+00:00
 

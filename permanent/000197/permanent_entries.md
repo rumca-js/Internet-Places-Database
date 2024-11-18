@@ -1,3 +1,27 @@
+ ## Meaningness | David Chapman | Substack
+ - [https://meaningness.substack.com](https://meaningness.substack.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Meanwhile | Daniel Benneworth-Gray | Substack
+ - [https://meanwhile.substack.com](https://meanwhile.substack.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## El Substack de ¿Ahora | ¿Ahora qué? | Substack
+ - [https://mediamosconciencia.substack.com](https://mediamosconciencia.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Offline: dating that works | Shreeda Segan | Substack
+ - [https://meetmeoffline.substack.com](https://meetmeoffline.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Megan’s Substack | Megan Elisabeth Kelly | Substack
+ - [https://meganelisabethkelly.substack.com](https://meganelisabethkelly.substack.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Megan J. Robinson | Substack
+ - [https://meganjrobinson.substack.com](https://meganjrobinson.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
  ## Off-Topic | Meghan Boilard | Substack
  - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
  - date_published: 2024-01-09T01:42:13.267759+00:00
@@ -1283,6 +1307,10 @@
  - [https://postmodernplayboy.substack.com](https://postmodernplayboy.substack.com)
  - date_published: 2024-04-02T00:00:00+00:00
 
+ ## postpostmodernism | j simpson | Substack
+ - [https://postpostmodernism.substack.com](https://postpostmodernism.substack.com)
+ - date_published: 2024-11-17T18:05:10.947464+00:00
+
  ## THE BUILD | James Poulos | Substack
  - [https://poulos.substack.com](https://poulos.substack.com)
  - date_published: 2024-05-02T13:40:37.370982+00:00
@@ -1724,6 +1752,10 @@
  ## Japan Economy Watch | Richard Katz | Substack
  - [https://richardkatz.substack.com](https://richardkatz.substack.com)
  - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Richard Lewis | Substack
+ - [https://richardlewis.substack.com](https://richardlewis.substack.com)
+ - date_published: 2024-11-17T08:23:29.677464+00:00
 
  ## Richard’s Substack | Richard North Patterson | Substack
  - [https://richardnorthpatterson.substack.com](https://richardnorthpatterson.substack.com)
@@ -4039,38 +4071,4 @@
  ## Tui's Newsletter | Tui T. Sutherland | Substack
  - [http://tuibooks.substack.com](http://tuibooks.substack.com)
  - date_published: 2024-10-25T18:43:56.030257+00:00
-
- ## Turing Talks | Manish Shivanandhan | Substack
- - [https://turingtalks.substack.com](https://turingtalks.substack.com)
- - date_published: 2024-01-02T08:43:07.890129+00:00
-
- ## TV's Moral Philosophy | Andrew Heard | Substack
- - [https://tvphilosophy.substack.com](https://tvphilosophy.substack.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## twenty4two | Tim Gwynn Jones | Substack
- - [https://twentyfourtwo.substack.com](https://twentyfourtwo.substack.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## The Twitter Files | Matt Taibbi | Substack
- - [https://twitterfiles.substack.com](https://twitterfiles.substack.com)
- - date_published: 2024-05-11T09:36:14.757829+00:00
-
- ## Tyler’s Substack | Tyler Glaiel | Substack
- - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
- - date_published: 2023-10-25T10:06:56.239008+00:00
- - tags: ['substack']
-
- ## Type Classes | Chris Martin | Substack
- - [https://typeclasses.substack.com](https://typeclasses.substack.com)
- - date_published: 2023-10-25T10:06:58.858555+00:00
- - tags: ['substack']
-
- ## Monkeys on Typewriters | Arijit Chakravarty | Substack
- - [http://typingmonkeys.substack.com](http://typingmonkeys.substack.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## https://u4all.substack.com
- - [https://u4all.substack.com](https://u4all.substack.com)
- - date_published: 2024-02-08T18:06:49.384939+00:00
 

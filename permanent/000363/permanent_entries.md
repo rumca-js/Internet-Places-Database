@@ -1,3 +1,92 @@
+ ## Decision Procedures -- An Algorithmic Point of View
+ - [http://www.decision-procedures.org](http://www.decision-procedures.org)
+ - date_published: 2022-09-15T13:48:53+00:00
+
+ ## Decision Sciences Institute
+ - [https://decisionsciences.org](https://decisionsciences.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Deckbox
+ - [https://deckbox.org](https://deckbox.org)
+ - date_published: 2024-05-04T08:32:05.106004+00:00
+
+ ## AI Content Declaration
+ - [https://declare-ai.org](https://declare-ai.org)
+ - date_published: 2023-10-24T13:16:11+00:00
+
+ ## Declassified Australia
+ - [https://declassifiedaus.org](https://declassifiedaus.org)
+ - date_published: 2023-10-25T21:13:35.111668+00:00
+
+ ## Declassified UK
+ - [https://declassifieduk.org](https://declassifieduk.org)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## DecodeGlobal.org becomes part of CasualGameplay.com
+ - [http://decodeglobal.org](http://decodeglobal.org)
+ - date_published: 2024-07-09T14:36:46.599990+00:00
+
+ ## decodeunicode.org
+ - [http://www.decodeunicode.org](http://www.decodeunicode.org)
+ - date_published: 2024-08-19T09:05:30.897649+00:00
+
+ ## Decripto.org: la testata giornalistica su blockchain e web3
+ - [http://decripto.org](http://decripto.org)
+ - date_published: 2021-01-13T16:29:55+00:00
+
+ ## DECRUNCH 2024 demoparty. May 17th-19th, 2023. Czasoprzestrzeń, Tramwajowa 1-3, Wroclaw
+ - [https://decrunch.org](https://decrunch.org)
+ - date_published: 2023-12-11T17:38:11.237785+00:00
+
+ ## DECUServe on-line
+ - [https://eisner.decus.org](https://eisner.decus.org)
+ - date_published: 2023-11-18T11:29:46.509000+00:00
+
+ ## De-Dollarization Facts: Up-To-Date Facts About The U.S. Dollar In The World
+ - [https://de-dollarization.org](https://de-dollarization.org)
+ - date_published: 2023-10-25T21:13:07.530962+00:00
+
+ ## DeepAI
+ - [https://api.deepai.org](https://api.deepai.org)
+ - date_published: 2024-06-19T07:39:00.990799+00:00
+
+ ## DeepAI
+ - [https://deepai.org](https://deepai.org)
+ - date_published: 2024-05-04T05:46:07.507810+00:00
+ - tags: ['artificial intelligence', 'online tool']
+
+ ## DeepBeat: Rap Lyrics Generating AI
+ - [https://deepbeat.org](https://deepbeat.org)
+ - date_published: 2022-11-12T00:00:00+00:00
+
+ ## DeepBrain Chain
+ - [https://www.deepbrainchain.org](https://www.deepbrainchain.org)
+ - date_published: 2024-09-15T04:32:56+00:00
+
+ ## Deep Climate
+ - [http://deepclimate.org](http://deepclimate.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Deep Convection
+ - [https://deep-convection.org](https://deep-convection.org)
+ - date_published: 2024-07-22T06:28:03.391287+00:00
+
+ ## CIDER Overview | CIDER
+ - [https://www.deep-earth.org](https://www.deep-earth.org)
+ - date_published: 2024-07-20T13:07:24.441149+00:00
+
+ ## DeepGCNs
+ - [https://deepgcns.org](https://deepgcns.org)
+ - date_published: 2024-04-28T03:52:43.338169+00:00
+
+ ## Deep Green Resistance | Revolutionary Political Organization
+ - [https://deepgreenresistance.org](https://deepgreenresistance.org)
+ - date_published: 2024-07-15T06:22:53.788461+00:00
+
+ ## Deepin Technology Community
+ - [https://bbs.deepin.org](https://bbs.deepin.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
  ## deepin  - 基于Linux的开源国产操作系统
  - [https://deepin.org](https://deepin.org)
  - date_published: 2023-11-06T10:10:58.272990+00:00
@@ -3946,92 +4035,4 @@
  ## Bittorrent RPC: Public Web3 API for blockchain integration
  - [https://bittorrent.drpc.org](https://bittorrent.drpc.org)
  - date_published: 2024-09-23T16:44:54.075976+00:00
-
- ## Blast RPC: Public Web3 API for blockchain integration
- - [https://blast.drpc.org](https://blast.drpc.org)
- - date_published: 2024-09-24T00:37:51.547183+00:00
-
- ## Blast Sepolia RPC: Public Web3 API for blockchain integration
- - [https://blast-sepolia.drpc.org](https://blast-sepolia.drpc.org)
- - date_published: 2024-09-24T07:19:30.357621+00:00
-
- ## Boba Bnb RPC: Public Web3 API for blockchain integration
- - [https://boba-bnb.drpc.org](https://boba-bnb.drpc.org)
- - date_published: 2024-09-23T23:35:33.261796+00:00
-
- ## Boba Eth RPC: Public Web3 API for blockchain integration
- - [https://boba-eth.drpc.org](https://boba-eth.drpc.org)
- - date_published: 2024-09-24T07:26:09.098257+00:00
-
- ## Bob RPC: Public Web3 API for blockchain integration
- - [https://bob.drpc.org](https://bob.drpc.org)
- - date_published: 2024-09-23T19:10:09.750096+00:00
-
- ## Bsc RPC: Public Web3 API for blockchain integration
- - [https://bsc.drpc.org](https://bsc.drpc.org)
- - date_published: 2024-09-24T06:58:57.255826+00:00
-
- ## Celo RPC: Public Web3 API for blockchain integration
- - [https://celo.drpc.org](https://celo.drpc.org)
- - date_published: 2024-09-23T21:42:31.140518+00:00
-
- ## Core RPC: Public Web3 API for blockchain integration
- - [https://core.drpc.org](https://core.drpc.org)
- - date_published: 2024-09-24T01:39:01.476424+00:00
-
- ## Cronos RPC: Public Web3 API for blockchain integration
- - [https://cronos.drpc.org](https://cronos.drpc.org)
- - date_published: 2024-09-24T06:15:54.069638+00:00
-
- ## Cronos Testnet RPC: Public Web3 API for blockchain integration
- - [https://cronos-testnet.drpc.org](https://cronos-testnet.drpc.org)
- - date_published: 2024-09-24T02:40:46.954488+00:00
-
- ## dRPC — Decentralized network of RPC endpoints with unlimited scalability
- - [https://drpc.org](https://drpc.org)
- - date_published: 2024-06-16T04:46:04.975695+00:00
-
- ## Dymension RPC: Public Web3 API for blockchain integration
- - [https://dymension.drpc.org](https://dymension.drpc.org)
- - date_published: 2024-09-24T10:16:22.681228+00:00
-
- ## Ethereum RPC: Public Web3 API for blockchain integration
- - [https://eth.drpc.org](https://eth.drpc.org)
- - date_published: 2024-09-24T04:32:46.564724+00:00
-
- ## Evmos RPC: Public Web3 API for blockchain integration
- - [https://evmos.drpc.org](https://evmos.drpc.org)
- - date_published: 2024-09-24T07:59:27.715880+00:00
-
- ## Fantom RPC: Public Web3 API for blockchain integration
- - [https://fantom.drpc.org](https://fantom.drpc.org)
- - date_published: 2024-09-23T19:28:13.725855+00:00
-
- ## Fantom Testnet RPC: Public Web3 API for blockchain integration
- - [https://fantom-testnet.drpc.org](https://fantom-testnet.drpc.org)
- - date_published: 2024-09-23T18:38:10.926170+00:00
-
- ## Filecoin Calibration RPC: Public Web3 API for blockchain integration
- - [https://filecoin-calibration.drpc.org](https://filecoin-calibration.drpc.org)
- - date_published: 2024-09-24T05:59:42.194842+00:00
-
- ## Filecoin RPC: Public Web3 API for blockchain integration
- - [https://filecoin.drpc.org](https://filecoin.drpc.org)
- - date_published: 2024-09-23T19:45:39.202390+00:00
-
- ## Fraxtal RPC: Public Web3 API for blockchain integration
- - [https://fraxtal.drpc.org](https://fraxtal.drpc.org)
- - date_published: 2024-09-24T05:50:38.741929+00:00
-
- ## Fuse RPC: Public Web3 API for blockchain integration
- - [https://fuse.drpc.org](https://fuse.drpc.org)
- - date_published: 2024-09-24T06:52:19.317787+00:00
-
- ## Gnosis Chiado RPC: Public Web3 API for blockchain integration
- - [https://gnosis-chiado.drpc.org](https://gnosis-chiado.drpc.org)
- - date_published: 2024-09-24T02:07:01.408046+00:00
-
- ## Gnosis RPC: Public Web3 API for blockchain integration
- - [https://gnosis.drpc.org](https://gnosis.drpc.org)
- - date_published: 2024-09-24T00:09:41.008826+00:00
 

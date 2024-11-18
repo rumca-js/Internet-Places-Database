@@ -1,3 +1,11 @@
+ ## Hidup Berawal dari Mimpi
+ - [http://plasticmayhem.blogspot.com](http://plasticmayhem.blogspot.com)
+ - date_published: 2024-09-01T17:37:21+00:00
+
+ ## Plastic Polyhedra
+ - [https://plasticpolyhedra.blogspot.com](https://plasticpolyhedra.blogspot.com)
+ - date_published: 2024-09-02T08:23:19+00:00
+
  ## Plastic Sax
  - [http://plasticsax.blogspot.com](http://plasticsax.blogspot.com)
  - date_published: 2024-03-16T07:08:53+00:00
@@ -4004,12 +4012,4 @@
  ## Servants of Ruin
  - [http://servantsofruin.blogspot.com](http://servantsofruin.blogspot.com)
  - date_published: 2024-04-09T05:28:58+00:00
-
- ## Service Ration Distribution (Hobby)
- - [https://servicerationdistributionhobby.blogspot.com](https://servicerationdistributionhobby.blogspot.com)
- - date_published: 2024-10-21T09:20:28+00:00
-
- ## Servitor Ludi
- - [https://servitorludi.blogspot.com](https://servitorludi.blogspot.com)
- - date_published: 2024-07-12T13:49:46+00:00
 

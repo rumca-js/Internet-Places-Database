@@ -1,3 +1,15 @@
+ ## emergent by design
+ - [http://emergentbydesign.com](http://emergentbydesign.com)
+ - date_published: 2024-06-20T02:24:29.695867+00:00
+
+ ## Emergent Divergence Autism and Neurodiversity
+ - [http://emergentdivergence.com](http://emergentdivergence.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## emergent math
+ - [http://emergentmath.com](http://emergentmath.com)
+ - date_published: 2024-09-09T23:46:51.704625+00:00
+
  ## EmergentMind updates
  - [https://updates.emergentmind.com](https://updates.emergentmind.com)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -4016,16 +4028,4 @@
  ## Welcome to Epitaph Records
  - [https://www.epitaph.com](https://www.epitaph.com)
  - date_published: 2024-09-17T00:00:00+00:00
-
- ## Epitaph Privacy Policy
- - [https://www.privacy.epitaph.com](https://www.privacy.epitaph.com)
- - date_published: 2024-09-18T15:37:42.622833+00:00
-
- ## MGM+ | Instant Access to Movies, TV Series & More
- - [https://www.epix.com](https://www.epix.com)
- - date_published: 2024-06-11T10:07:13+00:00
-
- ## ePlanetarium - Home of Discovery Dome
- - [http://www.eplanetarium.com](http://www.eplanetarium.com)
- - date_published: 2024-07-08T15:22:06.262272+00:00
 

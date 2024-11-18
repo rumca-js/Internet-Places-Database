@@ -1,3 +1,76 @@
+ ## Sefaria: a Living Library of Jewish Texts Online
+ - [https://www.sefaria.org.il](https://www.sefaria.org.il)
+ - date_published: 2024-06-27T07:04:25.212147+00:00
+
+ ## מכון התקנים הישראלי
+ - [https://www.sii.org.il](https://www.sii.org.il)
+ - date_published: 2024-06-20T10:50:17.434164+00:00
+
+ ## Homepage - Steven Spielberg
+ - [https://spielbergfilmarchive.org.il](https://spielbergfilmarchive.org.il)
+ - date_published: 2023-11-13T12:53:02.637342+00:00
+
+ ## StatsCraft monitoring conference
+ - [https://statscraft.org.il](https://statscraft.org.il)
+ - date_published: 2023-10-01T14:48:40+00:00
+
+ ## קיבוץ תמוז - הקיבוץ העירוני בבית שמש
+ - [http://tamuz.org.il](http://tamuz.org.il)
+ - date_published: 2023-10-16T08:23:30+00:00
+
+ ## Israel Tech Policy Institute
+ - [https://techpolicy.org.il](https://techpolicy.org.il)
+ - date_published: 2024-06-18T17:36:36.642568+00:00
+
+ ## Home - The Meir Amit Intelligence and Terrorism Information Center
+ - [http://www.terrorism-info.org.il](http://www.terrorism-info.org.il)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## העין השביעית | ביקורת תקשורת ועיתונות
+ - [https://www.the7eye.org.il](https://www.the7eye.org.il)
+ - date_published: 2024-07-16T19:02:43+00:00
+
+ ## הדרך אל האושר: אופי מוסרי, לימוד, עצה טובה, ערכים אתיים, אמות מידה לחיים טובים יותר
+ - [http://www.thewaytohappiness.org.il](http://www.thewaytohappiness.org.il)
+ - date_published: 2024-09-04T17:52:38.360719+00:00
+
+ ## Wikimedia – מדריך לכתיבה אנציקלופדית
+ - [https://guide.wikimedia.org.il](https://guide.wikimedia.org.il)
+ - date_published: 2024-09-17T17:53:49.480421+00:00
+
+ ## ראשי - ויקימדיה ישראל
+ - [https://wikimedia.org.il](https://wikimedia.org.il)
+ - date_published: 2024-05-19T16:26:29+00:00
+
+ ## home page
+ - [https://wolffund.org.il](https://wolffund.org.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Error Page
+ - [https://yadvashem.org.il](https://yadvashem.org.il)
+ - date_published: 2024-09-19T01:16:58.947451+00:00
+
+ ## ארגון סגל ההוראה והמחקר באוניברסיטת תל אביב -  דף הבית
+ - [http://www.zutar.org.il](http://www.zutar.org.il)
+ - date_published: 2024-07-24T07:58:46.431854+00:00
+
+ ## 11d.im
+ - [https://11d.im](https://11d.im)
+ - date_published: 2024-05-09T07:51:10.157444+00:00
+
+ ## Bruno Adelé
+ - [http://bruno.adele.im](http://bruno.adele.im)
+ - date_published: 2016-03-09T09:21:25+00:00
+
+ ## Adium - Download
+ - [https://adium.im](https://adium.im)
+ - date_published: 2024-04-28T00:24:37.879324+00:00
+ - tags: ['social communicator', 'open source', 'chat']
+
+ ## Adium - Blog
+ - [https://blog.adium.im](https://blog.adium.im)
+ - date_published: 2024-08-20T00:00:00+00:00
+
  ## The Affiliate Lab by Matt Diggity
  - [http://affiliatelab.im](http://affiliatelab.im)
  - date_published: 2022-05-22T13:21:36+00:00
@@ -3944,77 +4017,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Home
  - [https://www.cyberbruharmy.in](https://www.cyberbruharmy.in)
  - date_published: 2024-03-29T00:00:00+00:00
-
- ## Pavel Czempin
- - [https://www.czemp.in](https://www.czemp.in)
- - date_published: 2024-07-07T07:15:24.522528+00:00
-
- ## dailyO - Trending News, Viral Stories, Video and Photo, Latest News Headlines
- - [https://dailyo.in](https://dailyo.in)
- - date_published: 2024-05-13T03:27:50.116366+00:00
-
- ## Daily Stormer
- - [https://dailystormer.in](https://dailystormer.in)
- - date_published: 2024-05-06T21:17:30.204079+00:00
-
- ## Dailyworld - The First International Newspaper From India!
- - [https://dailyworld.in](https://dailyworld.in)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## dallin - Overview
- - [https://dall.in](https://dall.in)
- - date_published: 2024-07-13T04:03:11.991236+00:00
-
- ## darsa.in
- - [https://darsa.in](https://darsa.in)
- - date_published: 2024-05-11T10:35:17.870438+00:00
-
- ## Sunsui Process Systems
- - [https://www.dataloggersindia.in](https://www.dataloggersindia.in)
- - date_published: 2024-06-29T10:53:20+00:00
-
- ## daylin morgan
- - [https://dayl.in](https://dayl.in)
- - date_published: 2024-06-27T20:00:39+00:00
-
- ## Dav Chana
- - [https://i.dc1.in](https://i.dc1.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Bulk Purchase on Sport Products | Decathlon Organizations (B2B)
- - [https://b2b.decathlon.in](https://b2b.decathlon.in)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Decathlon Blog: Sports Advice From Experts
- - [https://blog.decathlon.in](https://blog.decathlon.in)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Decathlon - Buy Sport Products Online | Download Decathlon App
- - [https://decathlon.in](https://decathlon.in)
- - date_published: 2024-05-01T04:26:23.241811+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://joinus.decathlon.in](https://joinus.decathlon.in)
- - date_published: 2024-06-15T20:26:59.233038+00:00
-
- ## Careers website Decathlon Sports India Pvt Ltd
- - [https://recruitment.decathlon.in](https://recruitment.decathlon.in)
- - date_published: 2024-09-19T15:49:16.710897+00:00
-
- ## DE-CIX India | World’s Largest Internet Exchange & Peering Hub
- - [https://www.de-cix.in](https://www.de-cix.in)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Deepak’s Views
- - [https://deepak365.in](https://deepak365.in)
- - date_published: 2023-12-02T21:17:15.760832+00:00
- - tags: ['personal']
-
- ## Deep Dives
- - [https://deepdives.in](https://deepdives.in)
- - date_published: 2024-06-21T07:07:57.338843+00:00
-
- ## [2000-2020] The Timeline:: DeepRoot GNU/Linux @ 20
- - [https://20.deeproot.in](https://20.deeproot.in)
- - date_published: 2020-08-25T11:20:29+00:00
 

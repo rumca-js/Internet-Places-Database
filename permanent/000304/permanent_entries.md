@@ -1,3 +1,81 @@
+ ## The Lever
+ - [https://the-daily-poster.ghost.io](https://the-daily-poster.ghost.io)
+ - date_published: 2024-05-04T12:19:50.313434+00:00
+
+ ## The Diff
+ - [https://the-diff.ghost.io](https://the-diff.ghost.io)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## The Dissenter
+ - [https://the-dissenter.ghost.io](https://the-dissenter.ghost.io)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Bill Bennett
+ - [https://the-download-weekly.ghost.io](https://the-download-weekly.ghost.io)
+ - date_published: 2024-07-02T19:04:20.881989+00:00
+
+ ## The Final Hop
+ - [https://the-final-hop.ghost.io](https://the-final-hop.ghost.io)
+ - date_published: 2024-05-06T16:45:50.926044+00:00
+
+ ## The Ginger Viking
+ - [https://the-ginger-viking.ghost.io](https://the-ginger-viking.ghost.io)
+ - date_published: 2024-05-06T16:47:37.767474+00:00
+ - tags: ['personal']
+
+ ## The Gist
+ - [https://the-gist.ghost.io](https://the-gist.ghost.io)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Yancey Strickler
+ - [https://the-ideaspace.ghost.io](https://the-ideaspace.ghost.io)
+ - date_published: 2024-08-06T18:51:08.194752+00:00
+
+ ## The Looking Glass
+ - [https://the-looking-glass-1.ghost.io](https://the-looking-glass-1.ghost.io)
+ - date_published: 2024-06-28T20:39:50.985472+00:00
+
+ ## The Mage's Guild
+ - [https://the-mages-guild.ghost.io](https://the-mages-guild.ghost.io)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## The Observational
+ - [https://theobservational.ghost.io](https://theobservational.ghost.io)
+ - date_published: 2024-08-18T12:07:18.303267+00:00
+
+ ## The Berkeley Scanner: Independent daily crime and safety news for Berkeley, CA
+ - [https://thescanner.ghost.io](https://thescanner.ghost.io)
+ - date_published: 2024-08-19T10:08:12.885838+00:00
+
+ ## The Spacebar
+ - [https://thespacebar.ghost.io](https://thespacebar.ghost.io)
+ - date_published: 2024-05-20T02:48:42.571186+00:00
+
+ ## The Stack
+ - [https://the-stack.ghost.io](https://the-stack.ghost.io)
+ - date_published: 2024-08-18T15:32:10.843214+00:00
+
+ ## The Stanford Review
+ - [https://the-stanford-review.ghost.io](https://the-stanford-review.ghost.io)
+ - date_published: 2024-08-18T13:06:05.075802+00:00
+
+ ## The Up Wing
+ - [https://the-up-wing.ghost.io](https://the-up-wing.ghost.io)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Thomas Ardal
+ - [https://thomas-ardal-blog.ghost.io](https://thomas-ardal-blog.ghost.io)
+ - date_published: 2024-06-17T02:52:01.919336+00:00
+
+ ## Thomas Vitale | Software Engineer, Spring, Cloud Native, Kubernetes
+ - [https://thomasvitale.ghost.io](https://thomasvitale.ghost.io)
+ - date_published: 2024-05-06T18:16:11.806355+00:00
+ - tags: ['personal']
+
+ ## PostgreSQL ++ for time series and events
+ - [https://timescale.ghost.io](https://timescale.ghost.io)
+ - date_published: 2024-05-06T18:26:55.591607+00:00
+
  ## Tim Sommer
  - [https://timsommer.ghost.io](https://timsommer.ghost.io)
  - date_published: 2024-06-26T14:27:24.988161+00:00
@@ -3956,81 +4034,4 @@
  ## Welcome to Code Cracker!
  - [https://code-cracker.github.io](https://code-cracker.github.io)
  - date_published: 2017-05-03T13:13:41+00:00
-
- ## Execution-Based Evaluation for Open-Domain Code Generation
- - [https://code-eval.github.io](https://code-eval.github.io)
- - date_published: 2023-01-06T17:30:00+00:00
-
- ## Code for Nepal
- - [https://codefornepal.github.io](https://codefornepal.github.io)
- - date_published: 2024-07-11T05:33:54+00:00
-
- ## Test GitHub Pages URL overlays
- - [https://codefrau.github.io](https://codefrau.github.io)
- - date_published: 2023-03-03T20:05:56+00:00
-
- ## The CodeMeta Project
- - [https://codemeta.github.io](https://codemeta.github.io)
- - date_published: 2024-01-12T10:37:46+00:00
-
- ## Codemzy Developer Portfolio - by codemzy
- - [https://codemzy.github.io](https://codemzy.github.io)
- - date_published: 2018-11-29T16:31:22+00:00
-
- ## Init 1
- - [https://codepr.github.io](https://codepr.github.io)
- - date_published: 2024-04-13T18:37:56+00:00
-
- ## CodeRAG-Bench: Can Retrieval Augment Code Generation?
- - [https://code-rag-bench.github.io](https://code-rag-bench.github.io)
- - date_published: 2024-07-01T15:44:45+00:00
-
- ## Coderaiser
- - [https://coderaiser.github.io](https://coderaiser.github.io)
- - date_published: 2024-10-20T22:10:20.144608+00:00
-
- ## Home
- - [https://codergals.github.io](https://codergals.github.io)
- - date_published: 2020-04-26T15:51:42+00:00
-
- ## Patrick Fernandes · PhD Student @ CMU & IST
- - [https://coderpat.github.io](https://coderpat.github.io)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## CodeTherapist Blog
- - [https://codetherapist.github.io](https://codetherapist.github.io)
- - date_published: 2020-04-15T00:00:00+00:00
-
- ## CoDi-2: Interleaved and In-Context Any-to-Any Generation
- - [https://codi-2.github.io](https://codi-2.github.io)
- - date_published: 2023-12-02T03:47:38+00:00
-
- ## CoDi: Generate Anything from Anything All At Once
-through Composable Diffusion
- - [https://codi-gen.github.io](https://codi-gen.github.io)
- - date_published: 2023-10-25T19:44:43.372332+00:00
-
- ## Coding Strip
- - [https://codingstrip.github.io](https://codingstrip.github.io)
- - date_published: 2023-05-04T18:07:32+00:00
-
- ## CODI 2020 - EMNLP workshop
- - [https://codi-workshop.github.io](https://codi-workshop.github.io)
- - date_published: 2021-03-09T10:21:30+00:00
-
- ## CoffeeLint - Lint your CoffeeScript
- - [https://coffeelint.github.io](https://coffeelint.github.io)
- - date_published: 2024-05-25T09:10:51.742360+00:00
-
- ## Alan Levine @aka cogdog
- - [https://cogdog.github.io](https://cogdog.github.io)
- - date_published: 2024-03-12T02:40:58+00:00
-
- ## Cognitive Engineering Lab
- - [https://cognitive-engineering-lab.github.io](https://cognitive-engineering-lab.github.io)
- - date_published: 2024-07-15T22:40:55+00:00
-
- ## Home - colah's blog
- - [https://colah.github.io](https://colah.github.io)
- - date_published: 1999-01-01T00:00:00+00:00
 

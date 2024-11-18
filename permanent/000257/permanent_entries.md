@@ -1,3 +1,59 @@
+ ## School of Public Health | Brown University
+ - [https://sph.brown.edu](https://sph.brown.edu)
+ - date_published: 2024-05-09T05:07:49.216363+00:00
+
+ ## Brown CS: No Title
+ - [http://static.cs.brown.edu](http://static.cs.brown.edu)
+ - date_published: 2019-01-18T18:42:47+00:00
+
+ ## Redirect
+ - [https://students.brown.edu](https://students.brown.edu)
+ - date_published: 2024-04-28T05:44:21.900880+00:00
+
+ ## Web Login Service
+ - [https://today.brown.edu](https://today.brown.edu)
+ - date_published: 2024-06-30T07:10:36.607320+00:00
+
+ ## The UX Factor
+ - [https://uxfactor.cs.brown.edu](https://uxfactor.cs.brown.edu)
+ - date_published: 2023-10-19T02:51:01+00:00
+
+ ## Brown Visual Computing
+ - [https://visual.cs.brown.edu](https://visual.cs.brown.edu)
+ - date_published: 2024-06-05T23:59:21+00:00
+
+ ## Researchers @ Brown
+ - [https://vivo.brown.edu](https://vivo.brown.edu)
+ - date_published: 2024-05-09T05:07:46.549966+00:00
+
+ ## Watson Institute for International and Public Affairs
+ - [https://watson.brown.edu](https://watson.brown.edu)
+ - date_published: 2023-10-25T18:48:34.751888+00:00
+
+ ## WebGazer.js: Democratizing Webcam Eye Tracking on the Browser
+ - [https://webgazer.cs.brown.edu](https://webgazer.cs.brown.edu)
+ - date_published: 2023-10-19T02:24:02+00:00
+
+ ## Applied Mathematics
+ - [https://www.dam.brown.edu](https://www.dam.brown.edu)
+ - date_published: 2024-05-07T15:42:36.077613+00:00
+
+ ## Department of Mathematics | Brown University
+ - [http://www.math.brown.edu](http://www.math.brown.edu)
+ - date_published: 2024-06-30T08:57:13.582746+00:00
+
+ ## Bryn Mawr Classical Review – Bryn Mawr Classical Review
+ - [https://bmcr.brynmawr.edu](https://bmcr.brynmawr.edu)
+ - date_published: 2024-06-24T10:21:43.061665+00:00
+
+ ## Scholarship, Research, and Creative Work at Bryn Mawr College | Bryn Mawr College Research
+ - [https://repository.brynmawr.edu](https://repository.brynmawr.edu)
+ - date_published: 2024-07-02T10:48:23.604980+00:00
+
+ ## Images & Manuscripts | TriCollege Libraries
+ - [http://triptych.brynmawr.edu](http://triptych.brynmawr.edu)
+ - date_published: 2024-06-21T20:39:36.752845+00:00
+
  ## Welcome to Bryn Mawr College
  - [https://www.brynmawr.edu](https://www.brynmawr.edu)
  - date_published: 2024-06-21T20:37:12.195667+00:00
@@ -3961,60 +4017,4 @@ Mellon University
  ## Policy Library - Office of Policy & Compliance - Colorado State University
  - [http://policylibrary.colostate.edu](http://policylibrary.colostate.edu)
  - date_published: 2024-07-22T06:01:40.865125+00:00
-
- ## Department of Psychology | CSU
- - [https://psychology.colostate.edu](https://psychology.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## Parking & Transportation Services | Colorado State University
- - [http://pts.colostate.edu](http://pts.colostate.edu)
- - date_published: 2024-07-22T06:02:12.334888+00:00
-
- ## Colorado School of Public Health at Colorado State University – One School, Three Universities … Endless Possibilities.
- - [https://publichealth.colostate.edu](https://publichealth.colostate.edu)
- - date_published: 2024-07-22T06:08:25.102269+00:00
-
- ## News & Media Relations | Colorado State University
- - [https://publicrelations.colostate.edu](https://publicrelations.colostate.edu)
- - date_published: 2024-04-30T03:48:03.237390+00:00
-
- ## - RamLink
- - [http://ramlink.colostate.edu](http://ramlink.colostate.edu)
- - date_published: 2024-08-11T10:44:03.706333+00:00
-
- ## RAMMB/CIRA SLIDER: Satellite Loop Interactive Data Explorer in Real-time with GOES-16 and Himawari-8 Satellite Imagery
- - [https://rammb-slider.cira.colostate.edu](https://rammb-slider.cira.colostate.edu)
- - date_published: 2024-05-30T20:04:49+00:00
-
- ## Office of the Registrar | Colorado State University
- - [http://registrar.colostate.edu](http://registrar.colostate.edu)
- - date_published: 2024-08-11T10:43:20.224560+00:00
-
- ## Log In ‹ Office of the Vice President for Research — WordPress
- - [https://research.source.colostate.edu](https://research.source.colostate.edu)
- - date_published: 2024-04-30T03:48:14.756308+00:00
-
- ## Colorado State University - College of Business
- - [https://rp1.biz.colostate.edu](https://rp1.biz.colostate.edu)
- - date_published: 2024-08-11T09:24:39.640410+00:00
-
- ## Colorado State University - College of Business
- - [https://rp2.biz.colostate.edu](https://rp2.biz.colostate.edu)
- - date_published: 2024-08-11T09:25:29.978537+00:00
-
- ## Safety | Colorado State University
- - [https://safety.colostate.edu](https://safety.colostate.edu)
- - date_published: 2024-08-11T11:22:44.966090+00:00
-
- ## Home - Salazar Center for North American Conservation
- - [https://salazarcenter.colostate.edu](https://salazarcenter.colostate.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Office of Financial Aid | Colorado State University
- - [http://sfs.colostate.edu](http://sfs.colostate.edu)
- - date_published: 2024-08-11T10:42:37.405505+00:00
-
- ## Home - School of Music, Theatre and Dance
- - [https://smtd.colostate.edu](https://smtd.colostate.edu)
- - date_published: 2024-04-08T00:00:00+00:00
 

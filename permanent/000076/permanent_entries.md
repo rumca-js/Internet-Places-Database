@@ -1,3 +1,15 @@
+ ## Cloud Resource Pricing and Comparison Tool | CloudZero Advisor
+ - [https://advisor.cloudzero.com](https://advisor.cloudzero.com)
+ - date_published: 2022-07-16T02:37:19+00:00
+
+ ## CloudZero: The Cloud Cost Intelligence Platform
+ - [https://cloudzero.com](https://cloudzero.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## CloudZero
+ - [https://docs.cloudzero.com](https://docs.cloudzero.com)
+ - date_published: 2024-09-14T10:09:33.391107+00:00
+
  ## CloutHub
  - [https://app.clouthub.com](https://app.clouthub.com)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -4025,17 +4037,4 @@
  ## Home | Ask Anything Crypto
  - [https://questions.coincheckup.com](https://questions.coincheckup.com)
  - date_published: 2024-07-04T10:14:16.204672+00:00
-
- ## Crypto Prices, Charts and Cryptocurrency Market Cap | CoinCodex
- - [https://coincodex.com](https://coincodex.com)
- - date_published: 2024-06-16T04:11:46+00:00
-
- ## Coincu - أخبار البيتكوين والإيثيريوم وأخبار العملات المشفرة ومؤشرات الأسعار
- - [https://ar.coincu.com](https://ar.coincu.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Coincu News
- - [https://coincu.com](https://coincu.com)
- - date_published: 2023-12-07T21:27:52+00:00
- - tags: ['crypto']
 

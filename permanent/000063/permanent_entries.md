@@ -1,3 +1,11 @@
+ ## Service Ration Distribution (Hobby)
+ - [https://servicerationdistributionhobby.blogspot.com](https://servicerationdistributionhobby.blogspot.com)
+ - date_published: 2024-10-21T09:20:28+00:00
+
+ ## Servitor Ludi
+ - [https://servitorludi.blogspot.com](https://servitorludi.blogspot.com)
+ - date_published: 2024-07-12T13:49:46+00:00
+
  ## SERWIS21
  - [http://serwis21.blogspot.com](http://serwis21.blogspot.com)
  - date_published: 2024-08-05T13:52:28+00:00
@@ -4006,12 +4014,4 @@
  ## The Oakland Stage
  - [http://theoaklandstage.blogspot.com](http://theoaklandstage.blogspot.com)
  - date_published: 2013-10-19T00:00:00+00:00
-
- ## The Old West Chronicle
- - [http://theoldwestchronicle.blogspot.com](http://theoldwestchronicle.blogspot.com)
- - date_published: 2024-10-24T07:57:19+00:00
-
- ## Between Two Worlds
- - [http://theologica.blogspot.com](http://theologica.blogspot.com)
- - date_published: 2012-09-08T00:00:00+00:00
 

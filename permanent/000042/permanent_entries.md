@@ -1,3 +1,7 @@
+ ## Info – Amadeus Paulussen
+ - [https://amadeuspaulussen.com](https://amadeuspaulussen.com)
+ - date_published: 2024-07-17T18:17:22.491362+00:00
+
  ## Cloud Solutions for FAST, CTV & Broadcast TV | Amagi
  - [https://www.amagi.com](https://www.amagi.com)
  - date_published: 2024-05-06T17:31:35.063390+00:00
@@ -4061,8 +4065,4 @@
  ## Andrew Dinh
  - [https://andrewkdinh.com](https://andrewkdinh.com)
  - date_published: 2024-05-07T23:24:03.987693+00:00
-
- ## Simple Contact
- - [https://contact.andrewkdinh.com](https://contact.andrewkdinh.com)
- - date_published: 2024-07-02T20:05:36.440051+00:00
 

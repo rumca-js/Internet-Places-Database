@@ -1,3 +1,43 @@
+ ## WTA Foundation
+ - [https://wtafoundation.wtatennis.com](https://wtafoundation.wtatennis.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## The Official Home of the Women's Tennis Association | WTA Tennis
+ - [https://wtatennis.com](https://wtatennis.com)
+ - date_published: 2024-03-17T19:26:11.452083+00:00
+
+ ## WTA TV
+ - [https://wtatv.com](https://wtatv.com)
+ - date_published: 2024-04-11T09:09:09+00:00
+
+ ## WTB, Wilderness Trail Bikes: Cycling Components since 1982
+ - [https://www.wtb.com](https://www.wtb.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## West Texas A&M University Bookstore
+ - [https://www.wtbookstore.com](https://www.wtbookstore.com)
+ - date_published: 2024-05-07T22:38:55.200446+00:00
+
+ ## Flight Outfitters – Pilot Your Own Adventure
+ - [http://flightoutfitters.wt-demo.com](http://flightoutfitters.wt-demo.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## wtf 1971 newsletter
+ - [https://wtf1971.com](https://wtf1971.com)
+ - date_published: 2024-09-19T21:40:09.113696+00:00
+
+ ## WTF Happened In 1971?
+ - [https://wtfhappenedin1971.com](https://wtfhappenedin1971.com)
+ - date_published: 2024-06-15T13:13:54+00:00
+
+ ## WTF is my IP?!?!??
+ - [https://wtfismyip.com](https://wtfismyip.com)
+ - date_published: 2024-08-18T03:01:06.049753+00:00
+
+ ## WTF is Quadratic Funding?
+ - [https://wtfisqf.com](https://wtfisqf.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
  ## wtfjs - a little code blog about that language we love despite giving us so much to hate
  - [https://wtfjs.com](https://wtfjs.com)
  - date_published: 2016-03-19T00:00:00+00:00
@@ -2882,6 +2922,11 @@
  - [https://xo-dex.com](https://xo-dex.com)
  - date_published: 2024-08-29T00:00:00+00:00
 
+ ## Xogot – Godot for iPad
+ - [https://xogot.com](https://xogot.com)
+ - date_published: 2024-11-17T01:32:02+00:00
+ - tags: ['game engines', 'godot']
+
  ## Dotdash Meredith - America's Largest Digital & Print Publisher
  - [http://www.xojane.com](http://www.xojane.com)
  - date_published: 2024-07-19T21:29:08.954470+00:00
@@ -3984,49 +4029,4 @@
  ## Yacht, Yachting, Trawler, Luxury Yachts | Yachting
  - [https://yachtingmagazine.com](https://yachtingmagazine.com)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Sailing news, blogs, boat and gear reviews | Yachting Monthly
- - [http://www.yachtingmonthly.com](http://www.yachtingmonthly.com)
- - date_published: 2024-06-22T06:36:24.818074+00:00
-
- ## Yacht racing, sailing news, events and blogs | Yachting World
- - [http://www.yachtingworld.com](http://www.yachtingworld.com)
- - date_published: 2024-06-22T06:36:29.117179+00:00
-
- ## Yacht Mollymawk
- - [https://www.yachtmollymawk.com](https://www.yachtmollymawk.com)
- - date_published: 2024-06-23T18:38:21.192021+00:00
-
- ## Luxury Yachts, Superyachts and the American Yachtsman | Yachts International
- - [https://www.yachtsinternational.com](https://www.yachtsinternational.com)
- - date_published: 2024-07-08T16:05:00.708458+00:00
-
- ## Yacht Brokers | Brokerage | Yacht International
- - [https://www.yacht-villa.com](https://www.yacht-villa.com)
- - date_published: 2024-09-18T19:20:37.109666+00:00
-
- ## YACReader, the best comic reader, now on Android and Windows Subsystem for Android
- - [https://android.yacreader.com](https://android.yacreader.com)
- - date_published: 2024-04-21T08:36:27+00:00
-
- ## YACReader, the best comic reader, now on iPad, iPhone and iPod touch
- - [http://ios.yacreader.com](http://ios.yacreader.com)
- - date_published: 2024-04-02T06:51:39+00:00
-
- ## YACReader
- - [https://yacreader.com](https://yacreader.com)
- - date_published: 2024-05-26T15:40:28+00:00
- - tags: ['comics reader', 'comics']
-
- ## yadigger
- - [https://yadigger.com](https://yadigger.com)
- - date_published: 2024-05-01T04:29:27.574014+00:00
-
- ## Zirrus
- - [https://www.yadtel.com](https://www.yadtel.com)
- - date_published: 2024-06-29T15:50:13.557943+00:00
-
- ## Yaeji
- - [http://yaeji.com](http://yaeji.com)
- - date_published: 2024-09-17T01:05:13.880382+00:00
 

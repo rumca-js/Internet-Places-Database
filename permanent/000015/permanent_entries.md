@@ -1,3 +1,7 @@
+ ## Pukerua Bay boy
+ - [https://pkboi.micro.blog](https://pkboi.micro.blog)
+ - date_published: 2024-10-22T19:02:31.869608+00:00
+
  ## podiboq's thoughts - just another microBlog
  - [https://podiboq.micro.blog](https://podiboq.micro.blog)
  - date_published: 2020-11-22T00:00:00+00:00
@@ -4036,8 +4040,4 @@ Educação
  ## Banco Itaú | Feito com você.
  - [https://www.itau.com.br](https://www.itau.com.br)
  - date_published: 2024-07-19T22:15:16.933024+00:00
-
- ## Jeep Wave
- - [https://jeepwave.jeep.com.br](https://jeepwave.jeep.com.br)
- - date_published: 2024-10-25T13:46:09+00:00
 

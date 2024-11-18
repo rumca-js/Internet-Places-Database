@@ -1,3 +1,59 @@
+ ## Department of Psychology | CSU
+ - [https://psychology.colostate.edu](https://psychology.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## Parking & Transportation Services | Colorado State University
+ - [http://pts.colostate.edu](http://pts.colostate.edu)
+ - date_published: 2024-07-22T06:02:12.334888+00:00
+
+ ## Colorado School of Public Health at Colorado State University – One School, Three Universities … Endless Possibilities.
+ - [https://publichealth.colostate.edu](https://publichealth.colostate.edu)
+ - date_published: 2024-07-22T06:08:25.102269+00:00
+
+ ## News & Media Relations | Colorado State University
+ - [https://publicrelations.colostate.edu](https://publicrelations.colostate.edu)
+ - date_published: 2024-04-30T03:48:03.237390+00:00
+
+ ## - RamLink
+ - [http://ramlink.colostate.edu](http://ramlink.colostate.edu)
+ - date_published: 2024-08-11T10:44:03.706333+00:00
+
+ ## RAMMB/CIRA SLIDER: Satellite Loop Interactive Data Explorer in Real-time with GOES-16 and Himawari-8 Satellite Imagery
+ - [https://rammb-slider.cira.colostate.edu](https://rammb-slider.cira.colostate.edu)
+ - date_published: 2024-05-30T20:04:49+00:00
+
+ ## Office of the Registrar | Colorado State University
+ - [http://registrar.colostate.edu](http://registrar.colostate.edu)
+ - date_published: 2024-08-11T10:43:20.224560+00:00
+
+ ## Log In ‹ Office of the Vice President for Research — WordPress
+ - [https://research.source.colostate.edu](https://research.source.colostate.edu)
+ - date_published: 2024-04-30T03:48:14.756308+00:00
+
+ ## Colorado State University - College of Business
+ - [https://rp1.biz.colostate.edu](https://rp1.biz.colostate.edu)
+ - date_published: 2024-08-11T09:24:39.640410+00:00
+
+ ## Colorado State University - College of Business
+ - [https://rp2.biz.colostate.edu](https://rp2.biz.colostate.edu)
+ - date_published: 2024-08-11T09:25:29.978537+00:00
+
+ ## Safety | Colorado State University
+ - [https://safety.colostate.edu](https://safety.colostate.edu)
+ - date_published: 2024-08-11T11:22:44.966090+00:00
+
+ ## Home - Salazar Center for North American Conservation
+ - [https://salazarcenter.colostate.edu](https://salazarcenter.colostate.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Office of Financial Aid | Colorado State University
+ - [http://sfs.colostate.edu](http://sfs.colostate.edu)
+ - date_published: 2024-08-11T10:42:37.405505+00:00
+
+ ## Home - School of Music, Theatre and Dance
+ - [https://smtd.colostate.edu](https://smtd.colostate.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
  ## School of Education
  - [http://soe.chhs.colostate.edu](http://soe.chhs.colostate.edu)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -3945,60 +4001,4 @@
  ## Duke University Libraries | Duke University Libraries
  - [https://library.duke.edu](https://library.duke.edu)
  - date_published: 2024-06-16T07:17:16+00:00
-
- ## The Ford Library at Duke University's Fuqua School of Business
- - [https://library.fuqua.duke.edu](https://library.fuqua.duke.edu)
- - date_published: 2024-10-16T09:13:43.303053+00:00
-
- ## Duke Learning Innovation
- - [https://lile.duke.edu](https://lile.duke.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Duke University Mailing Lists - home
- - [https://lists.duke.edu](https://lists.duke.edu)
- - date_published: 2016-02-17T00:00:00+00:00
-
- ## Duke | Log In
- - [https://login.mclibrary.duke.edu](https://login.mclibrary.duke.edu)
- - date_published: 2024-10-16T09:16:18.345316+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.proxy.lib.duke.edu](https://login.proxy.lib.duke.edu)
- - date_published: 2024-09-26T18:01:46.243035+00:00
-
- ## Coming Soon
- - [https://lynchlab.pratt.duke.edu](https://lynchlab.pratt.duke.edu)
- - date_published: 2024-07-13T03:20:56.627074+00:00
-
- ## Duke University Maps
- - [https://maps.duke.edu](https://maps.duke.edu)
- - date_published: 2024-04-30T04:13:53.296268+00:00
-
- ## Front Page | Department of Mathematics
- - [https://math.duke.edu](https://math.duke.edu)
- - date_published: 2024-07-12T23:24:02+00:00
-
- ## Welcome | Duke Medical Center Archives
- - [https://mcarchives.duke.edu](https://mcarchives.duke.edu)
- - date_published: 2024-07-18T15:01:52+00:00
-
- ## Welcome | Duke University Medical Center Library Online
- - [https://mclibrary.duke.edu](https://mclibrary.duke.edu)
- - date_published: 2024-06-17T03:17:33+00:00
-
- ## Duke University School of Medicine
- - [https://medschool.duke.edu](https://medschool.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Index Homepage // MEDSpace
- - [https://medspace.mc.duke.edu](https://medspace.mc.duke.edu)
- - date_published: 2024-10-16T09:14:14.416571+00:00
-
- ## Front Page | Duke Mfaeda
- - [https://mfaeda.duke.edu](https://mfaeda.duke.edu)
- - date_published: 2024-06-16T07:12:05+00:00
-
- ## Home | Duke Department of Molecular Genetics and Microbiology
- - [https://mgm.duke.edu](https://mgm.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
 

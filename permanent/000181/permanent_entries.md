@@ -1,3 +1,23 @@
+ ## State of the SB Nation
+ - [https://blog.sbnation.com](https://blog.sbnation.com)
+ - date_published: 2024-04-29T02:12:45.938871+00:00
+
+ ## a Tottenham Hotspur community
+ - [https://cartilagefreecaptain.sbnation.com](https://cartilagefreecaptain.sbnation.com)
+ - date_published: 2024-04-29T02:12:06.173654+00:00
+
+ ## Coming Home Newcastle, an NUFC community
+ - [https://cominghomenewcastle.sbnation.com](https://cominghomenewcastle.sbnation.com)
+ - date_published: 2024-04-29T02:04:13.287670+00:00
+
+ ## a Leicester City community
+ - [https://fosseposse.sbnation.com](https://fosseposse.sbnation.com)
+ - date_published: 2024-04-29T02:11:10.143198+00:00
+
+ ## a Bolton Wanderers community
+ - [https://lionofviennasuite.sbnation.com](https://lionofviennasuite.sbnation.com)
+ - date_published: 2024-04-29T02:05:24.313026+00:00
+
  ## The Liverpool Offside, for Liverpool FC fans
  - [https://liverpooloffside.sbnation.com](https://liverpooloffside.sbnation.com)
  - date_published: 2024-04-29T02:05:27.818936+00:00
@@ -4022,24 +4042,4 @@ Scopus - Welcome to Scopus
  ## Script Revolution
  - [https://scriptrevolution.com](https://scriptrevolution.com)
  - date_published: 2024-04-22T00:00:00+00:00
-
- ## Your #1 for PowerShell Automation | ScriptRunner
- - [https://www.scriptrunner.com](https://www.scriptrunner.com)
- - date_published: 2024-09-13T17:26:54+00:00
-
- ## Scripts.com
- - [https://www.scripts.com](https://www.scripts.com)
- - date_published: 2024-11-12T17:31:11.246602+00:00
-
- ## Script Slug
- - [https://www.scriptslug.com](https://www.scriptslug.com)
- - date_published: 2024-11-12T17:13:09.245319+00:00
-
- ## Scripts on Screen
- - [https://scripts-onscreen.com](https://scripts-onscreen.com)
- - date_published: 2024-11-12T10:19:37+00:00
-
- ## ScriptsTown - WordPress Themes, Plugins, and Tutorials
- - [https://scriptstown.com](https://scriptstown.com)
- - date_published: 2024-05-07T09:46:56.795062+00:00
 

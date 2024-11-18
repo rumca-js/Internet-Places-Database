@@ -1,3 +1,23 @@
+ ## Home | Les éditions Bonsound
+ - [https://leseditionsbonsound.com](https://leseditionsbonsound.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Les Éditions J'ose
+ - [https://leseditionsjose.com](https://leseditionsjose.com)
+ - date_published: 2024-09-15T22:28:09.640566+00:00
+
+ ## Les Grandes Largeurs — Librairie indépendante et généraliste à Arles
+ - [https://www.lesgrandeslargeurs.com](https://www.lesgrandeslargeurs.com)
+ - date_published: 2024-10-29T14:08:17.821428+00:00
+
+ ## LeShuttle: Folkestone To Calais In 35 Minutes. Book Now!
+ - [https://www.leshuttle.com](https://www.leshuttle.com)
+ - date_published: 2024-06-17T04:51:26.993806+00:00
+
+ ## Driver Info - LeShuttle Freight Web App for real time information
+ - [https://driver.leshuttlefreight.com](https://driver.leshuttlefreight.com)
+ - date_published: 2024-02-22T10:14:16+00:00
+
  ## Les jardins de la cheraille - intro
  - [https://lesjardinsdelacheraille.com](https://lesjardinsdelacheraille.com)
  - date_published: 2024-06-12T12:35:06.552189+00:00
@@ -4049,24 +4069,4 @@
  ## Lifescience Global : Homepage - Lifescience Global
  - [http://www.lifescienceglobal.com](http://www.lifescienceglobal.com)
  - date_published: 2024-10-29T16:45:05+00:00
-
- ## Life Science Leader - Home Page
- - [http://www.lifescienceleader.com](http://www.lifescienceleader.com)
- - date_published: 2024-09-02T15:36:41.144226+00:00
-
- ## Open Access Life Science Feed – Biotech Research Laboratory Network
- - [http://www.lifescifeed.com](http://www.lifescifeed.com)
- - date_published: 2024-10-29T17:45:12.973281+00:00
-
- ## LifeSciVC
- - [https://lifescivc.com](https://lifescivc.com)
- - date_published: 2024-09-02T15:36:25.861089+00:00
-
- ## Home - Life Self Mastery
- - [https://lifeselfmastery.com](https://lifeselfmastery.com)
- - date_published: 2024-05-07T13:59:56.378503+00:00
-
- ## Life She Has
- - [https://lifeshehas.com](https://lifeshehas.com)
- - date_published: 2024-01-08T00:00:00+00:00
 

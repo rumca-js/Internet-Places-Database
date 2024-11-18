@@ -1,3 +1,39 @@
+ ## Jobs at TIDAL
+ - [https://careers.tidal.com](https://careers.tidal.com)
+ - date_published: 2024-06-18T08:54:20+00:00
+
+ ## TIDAL Developer Portal
+ - [https://developer.tidal.com](https://developer.tidal.com)
+ - date_published: 2024-06-21T21:21:15.787163+00:00
+
+ ## TIDAL Embed Generator
+ - [https://embed.tidal.com](https://embed.tidal.com)
+ - date_published: 2024-05-04T14:04:36.622063+00:00
+
+ ## Try the TIDAL Web Player
+ - [https://listen.tidal.com](https://listen.tidal.com)
+ - date_published: 2024-05-29T09:57:50.804996+00:00
+
+ ## TIDAL - High Fidelity Music Streaming
+ - [https://tidal.com](https://tidal.com)
+ - date_published: 2024-04-28T04:14:51.823247+00:00
+
+ ## Try the TIDAL Web Player
+ - [https://listen.tidalhifi.com](https://listen.tidalhifi.com)
+ - date_published: 2024-05-08T06:01:01.761762+00:00
+
+ ## Tidal Wave | Arda Capital | Substack
+ - [https://newsletter.tidalwaveresearch.com](https://newsletter.tidalwaveresearch.com)
+ - date_published: 2024-05-02T10:23:04.487547+00:00
+
+ ## TiDB Serverless: Cost-Efficient, Simple, Modern MySQL That Scales Effortlessly
+ - [https://tidbcloud.com](https://tidbcloud.com)
+ - date_published: 2024-06-19T19:12:17.410120+00:00
+
+ ## TidBITS
+ - [http://db.tidbits.com](http://db.tidbits.com)
+ - date_published: 2024-08-02T23:36:41.899876+00:00
+
  ## TidBITS Talk
  - [https://talk.tidbits.com](https://talk.tidbits.com)
  - date_published: 2024-03-13T00:00:00+00:00
@@ -4001,40 +4037,4 @@
  ## Todd Moy
  - [https://toddmoy.com](https://toddmoy.com)
  - date_published: 2024-05-09T06:19:13.534278+00:00
-
- ## todd presta dot com
- - [https://toddpresta.com](https://toddpresta.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Todd Starnes - Award-winning Journalist and Radio Commentator.
- - [https://www.toddstarnes.com](https://www.toddstarnes.com)
- - date_published: 2020-09-08T16:28:16+00:00
-
- ## Todd The God – A Biweekly Webcomic
- - [https://toddthegod.com](https://toddthegod.com)
- - date_published: 2024-05-04T12:19:19.365696+00:00
-
- ## Home - La Voz de Bogotá - Todelar Radio
- - [https://todelar.com](https://todelar.com)
- - date_published: 2024-06-12T10:25:57.208045+00:00
-
- ## Todepond dot com
- - [https://todepond.com](https://todepond.com)
- - date_published: 2023-11-22T13:45:46.497388+00:00
-
- ## ToDesktop
- - [https://app.todesktop.com](https://app.todesktop.com)
- - date_published: 2024-05-06T20:02:31.954101+00:00
-
- ## ToDesktop - Web app to desktop app in minutes
- - [https://www.todesktop.com](https://www.todesktop.com)
- - date_published: 2023-10-25T17:43:43.646887+00:00
-
- ## iuvity | Soluciones digitales para el sector financiero
- - [https://todo1services.com](https://todo1services.com)
- - date_published: 2024-06-09T04:41:55+00:00
-
- ## TodoConsolas - Especialistas en Segunda Mano
- - [https://www.todoconsolas.com](https://www.todoconsolas.com)
- - date_published: 2024-07-20T00:00:00+00:00
 
