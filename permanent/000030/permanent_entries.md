@@ -3349,6 +3349,10 @@
  - [https://cinder.co](https://cinder.co)
  - date_published: 2024-08-21T00:00:00+00:00
 
+ ## Circlemind
+ - [https://circlemind.co](https://circlemind.co)
+ - date_published: 2024-11-18T19:07:10.123504+00:00
+
  ## Citroën Origins
  - [https://citroenorigins.co](https://citroenorigins.co)
  - date_published: 2018-04-18T13:00:13+00:00
@@ -4014,9 +4018,4 @@
  ## Home - CyberCentric
  - [https://cybercentric.co](https://cybercentric.co)
  - date_published: 2024-07-15T00:00:00+00:00
-
- ## Home
- - [https://cyberdb.co](https://cyberdb.co)
- - date_published: 2024-09-06T00:00:00+00:00
- - tags: ['consulting', 'cyber security']
 

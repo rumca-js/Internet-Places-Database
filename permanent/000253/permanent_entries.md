@@ -1,3 +1,111 @@
+ ## Florian Pfisterer
+ - [https://pfisterer.dev](https://pfisterer.dev)
+ - date_published: 2024-01-12T10:31:39.595981+00:00
+
+ ## PostgreSQL Development Conference 2024
+ - [https://2024.pgconf.dev](https://2024.pgconf.dev)
+ - date_published: 2024-06-06T00:09:17+00:00
+
+ ## PostgreSQL Development Conference 2025
+ - [https://2025.pgconf.dev](https://2025.pgconf.dev)
+ - date_published: 2024-10-17T14:30:43+00:00
+
+ ## PGJones.dev
+ - [http://pgjones.dev](http://pgjones.dev)
+ - date_published: 2024-06-01T04:52:10.227878+00:00
+ - tags: ['personal']
+
+ ## PGlite
+ - [https://pglite.dev](https://pglite.dev)
+ - date_published: 2024-09-15T19:43:18.963674+00:00
+
+ ## Trunk
+ - [https://pgt.dev](https://pgt.dev)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Nicolas Goutay — Software Engineer, Speaker, Open Source tinkerer
+ - [https://phacks.dev](https://phacks.dev)
+ - date_published: 2024-06-01T04:54:37.202942+00:00
+ - tags: ['personal']
+
+ ## Umami
+ - [https://umami.pheralb.dev](https://umami.pheralb.dev)
+ - date_published: 2024-05-09T09:14:50.945228+00:00
+
+ ## Photobox
+ - [https://photobox.dev](https://photobox.dev)
+ - date_published: 2024-04-23T19:53:33+00:00
+ - tags: ['self-host', 'photo library', 'image library', 'open source']
+
+ ## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
+ - [https://pierre-couy.dev](https://pierre-couy.dev)
+ - date_published: 2023-10-25T18:40:46.733153+00:00
+
+ ## Pigweed
+ - [https://issues.pigweed.dev](https://issues.pigweed.dev)
+ - date_published: 2024-07-02T17:33:32.060921+00:00
+
+ ## Pigweed
+ - [https://pigweed.dev](https://pigweed.dev)
+ - date_published: 2024-05-07T23:00:16.853198+00:00
+
+ ## Pika - Search npm for fast, modern packages.
+ - [https://www.pika.dev](https://www.pika.dev)
+ - date_published: 2024-05-06T13:27:08.155900+00:00
+
+ ## pikdum's blog
+ - [https://pikdum.dev](https://pikdum.dev)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Pi Lab
+ - [https://pilab.dev](https://pilab.dev)
+ - date_published: 2024-10-19T21:04:36.470488+00:00
+
+ ## Adam's Pile of Hacks
+ - [https://pileofhacks.dev](https://pileofhacks.dev)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Playground — LAB.PINTO.DEV
+ - [https://manuel.pinto.dev](https://manuel.pinto.dev)
+ - date_published: 2024-05-02T11:37:06.639330+00:00
+
+ ## pippy
+ - [https://app.pippy.dev](https://app.pippy.dev)
+ - date_published: 2024-07-16T08:05:53+00:00
+
+ ## Show HN: Pippy – Pipelines for GitHub Actions
+ - [https://pippy.dev](https://pippy.dev)
+ - date_published: 2024-07-17T07:17:23+00:00
+
+ ## Piraces Personal Blog
+ - [https://piraces.dev](https://piraces.dev)
+ - date_published: 2024-05-11T10:25:04.849628+00:00
+ - tags: ['personal']
+
+ ## pisa.dev - la community degli sviluppatori pisani
+ - [https://pisa.dev](https://pisa.dev)
+ - date_published: 2024-06-22T14:03:11.996495+00:00
+
+ ## Form Acceptance
+ - [https://notion.pixelsmith.dev](https://notion.pixelsmith.dev)
+ - date_published: 2024-09-16T07:25:44.783976+00:00
+
+ ## Petalica Paint
+ - [https://petalica-paint.pixiv.dev](https://petalica-paint.pixiv.dev)
+ - date_published: 2022-09-30T00:48:54+00:00
+
+ ## pkg-size | Find the true size of a npm package
+ - [https://pkg-size.dev](https://pkg-size.dev)
+ - date_published: 2023-10-25T18:40:47.132424+00:00
+
+ ## pkgx, inc.
+ - [https://pkgx.dev](https://pkgx.dev)
+ - date_published: 2024-02-26T14:57:26+00:00
+
+ ## Placetopay Docs
+ - [https://docs.placetopay.dev](https://docs.placetopay.dev)
+ - date_published: 2024-06-12T10:31:16.093233+00:00
+
  ## PlacetoPay :: Pasarela de Pagos en Latinoamérica
  - [https://placetopay.dev](https://placetopay.dev)
  - date_published: 2024-08-20T21:42:49+00:00
@@ -1725,6 +1833,10 @@
  - [https://smartwallet.dev](https://smartwallet.dev)
  - date_published: 2024-09-21T23:36:05.164759+00:00
 
+ ## The Smidt Blog
+ - [https://blog.smidt.dev](https://blog.smidt.dev)
+ - date_published: 2024-11-18T14:51:31.422005+00:00
+
  ## Scott Leggett | @smlx's blog
  - [https://smlx.dev](https://smlx.dev)
  - date_published: 2024-02-14T19:23:45.960903+00:00
@@ -1732,6 +1844,10 @@
  ## SmolCSS
  - [https://smolcss.dev](https://smolcss.dev)
  - date_published: 2024-04-30T00:34:56.467195+00:00
+
+ ## smoores.dev
+ - [https://smoores.dev](https://smoores.dev)
+ - date_published: 2024-11-16T01:27:43+00:00
 
  ## Snaplet
  - [https://www.snaplet.dev](https://www.snaplet.dev)
@@ -3957,119 +4073,4 @@
  ## yuanchuan
  - [https://yuanchuan.dev](https://yuanchuan.dev)
  - date_published: 2023-10-25T18:44:37.242773+00:00
-
- ## Kot
- - [https://yukata.dev](https://yukata.dev)
- - date_published: 2024-10-22T22:02:36.835841+00:00
-
- ## Yves Kalume's Blog
- - [https://yveskalume.dev](https://yveskalume.dev)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## YYT: eCommerce Agency
- - [https://yyt.dev](https://yyt.dev)
- - date_published: 2024-07-02T19:28:59.626848+00:00
-
- ## Zach Daniel | Substack
- - [https://www.zachdaniel.dev](https://www.zachdaniel.dev)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Home | SecWiki
- - [https://wiki.zacheller.dev](https://wiki.zacheller.dev)
- - date_published: 2024-05-11T08:24:38.853507+00:00
-
- ## Zach's Blog
- - [https://blog.zachpovey.dev](https://blog.zachpovey.dev)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## zackoverflow
- - [https://zackoverflow.dev](https://zackoverflow.dev)
- - date_published: 2023-10-25T18:44:39.698343+00:00
-
- ## zacksiri.dev
- - [https://zacksiri.dev](https://zacksiri.dev)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## ZakKa.Dev | Full Stack Developer & UX enthusiast
- - [https://zakka.dev](https://zakka.dev)
- - date_published: 2024-05-22T02:44:16.627189+00:00
-
- ## The Stoic Mind
- - [https://stoic.zaps.dev](https://stoic.zaps.dev)
- - date_published: 2024-08-08T17:48:04.249447+00:00
-
- ## Zarar's blog
- - [https://zarar.dev](https://zarar.dev)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Welcome
- - [https://zarl.dev](https://zarl.dev)
- - date_published: 2024-03-01T19:15:36.177869+00:00
- - tags: ['personal']
-
- ## Zed - Status
- - [https://status.zed.dev](https://status.zed.dev)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Zed - Code at the speed of thought
- - [https://zed.dev](https://zed.dev)
- - date_published: 2023-10-25T18:44:46.883335+00:00
- - tags: ['open source', 'programming ide', 'code editor']
-
- ## ZeldaRET
- - [https://zelda64.dev](https://zelda64.dev)
- - date_published: 2024-05-09T09:01:57.255844+00:00
-
- ## Zellij
- - [https://zellij.dev](https://zellij.dev)
- - date_published: 2023-10-25T18:44:48.356849+00:00
-
- ## Horace
- - [https://zenhorace.dev](https://zenhorace.dev)
- - date_published: 2024-03-18T06:25:03+00:00
-
- ## ZENIQ Documentation | ZENIQ Documentation
- - [https://www.zeniq.dev](https://www.zeniq.dev)
- - date_published: 2023-11-07T14:46:31+00:00
-
- ## What's New in Zenn
- - [https://info.zenn.dev](https://info.zenn.dev)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Zenn｜エンジニアのための情報共有コミュニティ
- - [https://zenn.dev](https://zenn.dev)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Praise Be The Code
- - [https://zennou.dev](https://zennou.dev)
- - date_published: 2024-05-08T10:45:14.541337+00:00
-
- ## The Blog of Random
- - [https://blog.zerolimits.dev](https://blog.zerolimits.dev)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Dashboard - ZeroNet
- - [https://proxy.zeronet.dev](https://proxy.zeronet.dev)
- - date_published: 2024-06-23T17:31:25.866667+00:00
-
- ## Zero
- - [https://zerosync.dev](https://zerosync.dev)
- - date_published: 2024-10-04T23:51:23.124919+00:00
-
- ## Script Writing Software for Storytellers
- - [http://celtxmaindomain.zesty.dev](http://celtxmaindomain.zesty.dev)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Zeynep Evecen
- - [https://www.zeynepevecen.dev](https://www.zeynepevecen.dev)
- - date_published: 2024-08-01T16:18:40.668034+00:00
- - tags: ['personal']
-
- ## Zhizhuo (Z) Zhou
- - [https://www.zhiz.dev](https://www.zhiz.dev)
- - date_published: 2024-06-22T10:02:10.452822+00:00
-
- ## Ziggit
- - [https://ziggit.dev](https://ziggit.dev)
- - date_published: 2024-04-28T00:00:00+00:00
 

@@ -1,3 +1,143 @@
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:46.824305+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Fakültesi
+ - [https://hf.sakarya.edu.tr](https://hf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:30.099376+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Müşavirliği
+ - [https://hukuk.sakarya.edu.tr](https://hukuk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:54.299246+00:00
+
+ ## Sakarya Üniversitesi | İklim Adaletinde Kadın Sempozyumu
+ - [https://iaks.sakarya.edu.tr](https://iaks.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:22.965267+00:00
+
+ ## Sakarya Üniversitesi | İlahiyat Fakültesi
+ - [https://if.sakarya.edu.tr](https://if.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:54.013774+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://ihale.sakarya.edu.tr](https://ihale.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:03.501412+00:00
+
+ ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
+ - [https://ik.sakarya.edu.tr](https://ik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:13.487082+00:00
+
+ ## Sakarya Üniversitesi | Personel Dairesi Başkanlığı Personel Alım İlanları
+ - [https://ilan.sakarya.edu.tr](https://ilan.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:57.639671+00:00
+
+ ## Sakarya Üniversitesi | İletişim Fakültesi
+ - [https://iletisim.sakarya.edu.tr](https://iletisim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:39.941949+00:00
+
+ ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
+ - [https://ilko.sakarya.edu.tr](https://ilko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:21.013429+00:00
+
+ ## Sakarya University | International Office
+ - [https://international.sakarya.edu.tr](https://international.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:02.281154+00:00
+
+ ## Sakarya Üniversitesi | İş Sağlığı ve Güvenliği Koordinatörlüğü
+ - [https://isgk.sakarya.edu.tr](https://isgk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:32.994697+00:00
+
+ ## Sakarya Üniversitesi | İŞLETME
+ - [https://isletme.sakarya.edu.tr](https://isletme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:40:06.896301+00:00
+
+ ## Sakarya Üniversitesi | İşletme Fakültesi
+ - [https://islf.sakarya.edu.tr](https://islf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:47.107140+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://isne.sakarya.edu.tr](https://isne.sakarya.edu.tr)
+ - date_published: 2024-10-19T15:03:39.482615+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://itbf.sakarya.edu.tr](https://itbf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:50.257935+00:00
+
+ ## Sakarya Üniversitesi | Stratejik Planlama ve Kalite Yönetim Sistemleri Şube Müdürlüğü
+ - [https://kalite.sakarya.edu.tr](https://kalite.sakarya.edu.tr)
+ - date_published: 2024-10-19T15:00:56.357679+00:00
+
+ ## Sakarya Üniversitesi | Siyaset Bilimi ve Kamu Yönetimi Bölümü - Sakarya Üniversitesi
+ - [http://kamu.sakarya.edu.tr](http://kamu.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:40.914332+00:00
+
+ ## "Bugün ve Gelecekte Hep Birlikte"
+ - [https://kariyer.sakarya.edu.tr](https://kariyer.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:52.325509+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://kultur.sakarya.edu.tr](https://kultur.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:35.356003+00:00
+
+ ## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
+ - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:27:45.731706+00:00
+
+ ## KURUMSAL YÖNETİM BİLGİ SİSTEMİ
+ - [https://kybs.sabis.sakarya.edu.tr](https://kybs.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:55.421688+00:00
+
+ ## KALİTE YÖNETİM BİLGİ SİSTEMİ
+ - [https://kys.sakarya.edu.tr](https://kys.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:25.208119+00:00
+
+ ## SABİS | Giriş Sayfası
+ - [https://labyonetim.sabis.sakarya.edu.tr](https://labyonetim.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:08.594749+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://mediko.sakarya.edu.tr](https://mediko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:16.063865+00:00
+
+ ## Sakarya Üniversitesi Genel Yemek Menüsü
+ - [http://menu.sabis.sakarya.edu.tr](http://menu.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:44+00:00
+
+ ## Sakarya Üniversitesi | MEVLANA KURUM KOORDİNATÖRLÜĞÜ
+ - [https://mevlana.sakarya.edu.tr](https://mevlana.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:31.589281+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://mezun1.sabis.sakarya.edu.tr](https://mezun1.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:42:34.527074+00:00
+
+ ## Mezun İlişkileri Koordinatörlüğü
+ - [https://mezun.sakarya.edu.tr](https://mezun.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:59.557964+00:00
+
+ ## Sakarya Üniversitesi | Mühendislik Fakültesi - Sakarya Üniversitesi
+ - [https://mf.sakarya.edu.tr](https://mf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:46.248316+00:00
+
+ ## Sakarya Üniversitesi | METALURJİ ve MALZEME MÜHENDİSLİĞİ
+ - [https://mme.sakarya.edu.tr](https://mme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:51:34.918430+00:00
+
+ ## MUFAM - Index
+ - [https://mufam.sakarya.edu.tr](https://mufam.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:59.450672+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://odeme.sakarya.edu.tr](https://odeme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:41:57.944234+00:00
+
+ ## Sakarya Üniversitesi | Öğrenci Dekanlığı
+ - [https://ogrdek.sakarya.edu.tr](https://ogrdek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:17.376721+00:00
+
+ ## Sakarya Üniversitesi | Öğrenci İşleri Dairesi Başkanlığı
+ - [https://ogrisl.sakarya.edu.tr](https://ogrisl.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:59.178758+00:00
+
  ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
  - [https://ogr.sakarya.edu.tr](https://ogr.sakarya.edu.tr)
  - date_published: 2024-06-17T15:40:16.876365+00:00
@@ -3933,145 +4073,4 @@ NMHSs DIRECTORS
  ## scottott.tv - Ta strona jest na sprzedaż! - scottott Zasoby i informacje.
  - [https://scottott.tv](https://scottott.tv)
  - date_published: 2024-06-27T09:39:26+00:00
-
- ## Script Network
- - [https://token.script.tv](https://token.script.tv)
- - date_published: 2024-09-23T12:18:44+00:00
-
- ## Seemore | Automagic Creator Pages
- - [https://www.seemore.tv](https://www.seemore.tv)
- - date_published: 2024-07-21T04:53:11.952762+00:00
-
- ## Señal Colombia: una experiencia educativa y cultural.
- - [http://www.senalcolombia.tv](http://www.senalcolombia.tv)
- - date_published: 2024-09-12T14:46:42+00:00
-
- ## Senpai
- - [https://senpai.tv](https://senpai.tv)
- - date_published: 2024-05-09T06:08:04.882508+00:00
-
- ## Drs. Mark & Michele Sherwood
- - [https://sherwood.tv](https://sherwood.tv)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ShinyShiny
- - [http://www.shinyshiny.tv](http://www.shinyshiny.tv)
- - date_published: 2024-08-11T02:02:54+00:00
-
- ## العاب باباس
- - [http://silentrunning.tv](http://silentrunning.tv)
- - date_published: 2024-06-20T03:11:19.102734+00:00
-
- ## smartclip: Engineering the future of TV advertising
- - [https://smartclip.tv](https://smartclip.tv)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## SMARTSTREAM.TV GmbH
- - [https://www.smartstream.tv](https://www.smartstream.tv)
- - date_published: 2024-05-06T17:32:14.501867+00:00
-
- ## Level Up the Playlist - Indie Music Elevates Game Soundtracks
- - [https://www.smashcast.tv](https://www.smashcast.tv)
- - date_published: 2024-07-02T20:12:11.996185+00:00
-
- ## Смотрёшка – интерактивное телевидение и онлайн-кинотеатр в одном приложении
- - [https://smka.tv](https://smka.tv)
- - date_published: 2024-06-27T05:34:47.000196+00:00
-
- ## Команда Смотрешки
- - [https://ask.smotreshka.tv](https://ask.smotreshka.tv)
- - date_published: 2024-06-27T05:34:51.853726+00:00
-
- ## Смотрёшка – интерактивное телевидение и онлайн-кинотеатр в одном приложении
- - [https://smotreshka.tv](https://smotreshka.tv)
- - date_published: 2024-05-06T20:45:09.839728+00:00
-
- ## SNY | Mets, Yankees, Jets, Giants, Knicks, UConn and more
- - [https://sny.tv](https://sny.tv)
- - date_published: 2024-05-15T02:51:22.384016+00:00
-
- ## socialstudios.tv - socialstudios Zasoby i informacje.
- - [https://www.socialstudios.tv](https://www.socialstudios.tv)
- - date_published: 2024-06-23T07:57:31+00:00
-
- ## software-architektur.tv
- - [https://software-architektur.tv](https://software-architektur.tv)
- - date_published: 2024-08-07T06:35:26+00:00
-
- ## Join the Sonarr Discord Server!
- - [https://discord.sonarr.tv](https://discord.sonarr.tv)
- - date_published: 2024-05-20T02:46:30.084784+00:00
-
- ## sonarr :: forums
- - [https://forums.sonarr.tv](https://forums.sonarr.tv)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Sonarr - Dive in
- - [https://sonarr.tv](https://sonarr.tv)
- - date_published: 2024-01-11T00:32:14+00:00
- - tags: ['pvr', 'self-host', 'usenet', 'torrent']
-
- ## Sonarr
- - [https://wiki.sonarr.tv](https://wiki.sonarr.tv)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Before you continue to YouTube
- - [http://www.soundstage.tv](http://www.soundstage.tv)
- - date_published: 2024-07-27T02:55:43.595518+00:00
-
- ## Welcome to OpenResty!
- - [https://collector.spectar.tv](https://collector.spectar.tv)
- - date_published: 2018-11-02T10:26:21+00:00
-
- ## SPIEGEL TV - DER SPIEGEL
- - [https://www.spiegel.tv](https://www.spiegel.tv)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home
- - [https://www.spotx.tv](https://www.spotx.tv)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home
- - [https://standard.tv](https://standard.tv)
- - date_published: 2024-04-05T18:56:11.260558+00:00
-
- ## Motion design - STASH
- - [https://www.stashmedia.tv](https://www.stashmedia.tv)
- - date_published: 2024-09-14T09:30:42.947654+00:00
-
- ## steephill.tv bike travelogue and procycling live coverage
- - [http://www.steephill.tv](http://www.steephill.tv)
- - date_published: 2024-01-11T22:42:54+00:00
-
- ## Steve Hoffman Music Forums
- - [https://forums.stevehoffman.tv](https://forums.stevehoffman.tv)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## STREAM.tv Careers
- - [https://careers.stream.tv](https://careers.stream.tv)
- - date_published: 2024-09-04T17:34:03.745121+00:00
-
- ## STREAM.tv - #1 IN LIVE STREAMING ENGAGEMENT
- - [https://stream.tv](https://stream.tv)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Streamze
- - [https://streamze.tv](https://streamze.tv)
- - date_published: 2024-09-09T16:25:42.309487+00:00
-
- ## Stuff | The best gadgets - news, reviews and buying guides
- - [https://stuff.tv](https://stuff.tv)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Stumpt
- - [http://store.stumpt.tv](http://store.stumpt.tv)
- - date_published: 2024-06-19T01:36:56.393645+00:00
-
- ## Stumpt
- - [http://stumpt.tv](http://stumpt.tv)
- - date_published: 2024-06-19T01:36:55.044604+00:00
-
- ## Competitions
- - [https://competitions.stv.tv](https://competitions.stv.tv)
- - date_published: 2024-05-02T10:38:29.257216+00:00
 

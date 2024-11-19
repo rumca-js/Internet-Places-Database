@@ -1,3 +1,146 @@
+ ## demodulate - a demo music collection
+ - [https://demodulate.scene.org](https://demodulate.scene.org)
+ - date_published: 2008-10-06T17:42:50+00:00
+
+ ## scene.org file archive
+ - [https://files.scene.org](https://files.scene.org)
+ - date_published: 2024-05-07T19:15:22.750902+00:00
+
+ ## Index of /
+ - [https://ftp.scene.org](https://ftp.scene.org)
+ - date_published: 2024-07-02T23:56:51.387736+00:00
+
+ ## got papers? | preserve the scene's material heritage
+ - [https://gotpapers.scene.org](https://gotpapers.scene.org)
+ - date_published: 2013-10-20T00:00:00+00:00
+
+ ## SceneID
+ - [https://id.scene.org](https://id.scene.org)
+ - date_published: 2024-05-24T17:59:13.882247+00:00
+
+ ## SCENE.ORG WILL BE BACK SOON
+ - [https://scene.org](https://scene.org)
+ - date_published: 2017-07-02T09:42:46+00:00
+ - tags: ['demoscene']
+
+ ## Wanted!
+ - [https://wanted.scene.org](https://wanted.scene.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Scene on Radio
+ - [https://www.sceneonradio.org](https://www.sceneonradio.org)
+ - date_published: 2024-10-22T20:29:07.423859+00:00
+
+ ## MIT CSAIL – Scene Representation Group
+ - [https://www.scenerepresentations.org](https://www.scenerepresentations.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Scene World – The C64 NTSC/PAL Disk Magazine
+ - [https://sceneworld.org](https://sceneworld.org)
+ - date_published: 2024-05-07T19:09:56.734680+00:00
+
+ ## Scene World Magazine
+ - [https://social.sceneworld.org](https://social.sceneworld.org)
+ - date_published: 2024-07-01T10:57:56.252043+00:00
+
+ ## Scenicregional – Scenic Regional Library
+ - [https://scenicregional.org](https://scenicregional.org)
+ - date_published: 2024-08-09T03:31:01.532885+00:00
+
+ ## Homepage - Tuesday | South Carolina ETV
+ - [https://scetv.org](https://scetv.org)
+ - date_published: 2024-04-30T03:03:26.674574+00:00
+
+ ## SCETV Video
+ - [https://video.scetv.org](https://video.scetv.org)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## SCFD
+ - [https://scfd.org](https://scfd.org)
+ - date_published: 2024-05-11T11:20:32.789892+00:00
+
+ ## -- joshua schachter's blog
+ - [http://joshua.schachter.org](http://joshua.schachter.org)
+ - date_published: 2012-08-30T00:00:00+00:00
+
+ ## Comic-Con 2015 Schedule
+ - [http://comiccon2015.sched.org](http://comiccon2015.sched.org)
+ - date_published: 2024-06-21T20:33:57.300872+00:00
+
+ ## schema blog
+ - [http://blog.schema.org](http://blog.schema.org)
+ - date_published: 2024-05-24T04:21:00+00:00
+
+ ## Schema.org - Schema.org
+ - [https://pending.schema.org](https://pending.schema.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Schema.org - Schema.org
+ - [https://schema.org](https://schema.org)
+ - date_published: 2023-12-11T16:10:24.484319+00:00
+ - tags: ['standards']
+
+ ## Walidator znaczników schema.org
+ - [https://validator.schema.org](https://validator.schema.org)
+ - date_published: 2024-01-19T11:30:11+00:00
+ - tags: ['standards', 'online validation', 'online tool']
+
+ ## JSON Schema Store
+ - [https://schemastore.org](https://schemastore.org)
+ - date_published: 2023-10-25T22:06:22.537229+00:00
+
+ ## Bigloo
+ - [https://bigloo.scheme.org](https://bigloo.scheme.org)
+ - date_published: 2023-12-23T05:24:53+00:00
+
+ ## Scheme Books
+ - [https://books.scheme.org](https://books.scheme.org)
+ - date_published: 2024-06-05T17:32:28+00:00
+
+ ## Scheme Community
+ - [https://chat.scheme.org](https://chat.scheme.org)
+ - date_published: 2021-07-02T13:38:23+00:00
+
+ ## Chez Scheme
+ - [https://chez.scheme.org](https://chez.scheme.org)
+ - date_published: 2024-02-05T22:51:20+00:00
+
+ ## CHICKEN Scheme
+ - [https://chicken.scheme.org](https://chicken.scheme.org)
+ - date_published: 2021-05-26T10:40:45+00:00
+
+ ## Scheme Community
+ - [https://community.scheme.org](https://community.scheme.org)
+ - date_published: 2024-05-15T11:58:21+00:00
+
+ ## Scheme Conservatory
+ - [https://conservatory.scheme.org](https://conservatory.scheme.org)
+ - date_published: 2024-06-14T19:16:21+00:00
+
+ ## Scheme Containers
+ - [https://containers.scheme.org](https://containers.scheme.org)
+ - date_published: 2023-12-05T23:05:39+00:00
+
+ ## The Scheme Cookbook
+ - [https://cookbook.scheme.org](https://cookbook.scheme.org)
+ - date_published: 2024-04-06T19:51:49+00:00
+
+ ## Cyclone Scheme
+ - [https://cyclone.scheme.org](https://cyclone.scheme.org)
+ - date_published: 2024-02-14T02:42:49+00:00
+
+ ## Scheme Documentation
+ - [https://docs.scheme.org](https://docs.scheme.org)
+ - date_published: 2024-04-02T15:10:40+00:00
+
+ ## Scheme Events
+ - [https://events.scheme.org](https://events.scheme.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## scheme-faq
+ - [https://faq.scheme.org](https://faq.scheme.org)
+ - date_published: 2011-05-18T00:00:00+00:00
+
  ## Scheme Files
  - [https://files.scheme.org](https://files.scheme.org)
  - date_published: 2024-03-01T14:05:04+00:00
@@ -3890,145 +4033,4 @@
  ## Our Work - SIDO
  - [https://www.sidoamerica.org](https://www.sidoamerica.org)
  - date_published: 2024-10-31T10:54:23.023669+00:00
-
- ## Sid Roth’s It’s Supernatural!™
- - [https://sidroth.org](https://sidroth.org)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Index – Siduction Forum
- - [https://forum.siduction.org](https://forum.siduction.org)
- - date_published: 2024-07-24T06:14:30.791739+00:00
-
- ## Powered by SeminarDesk
- - [https://lernort.siebenlinden.org](https://lernort.siebenlinden.org)
- - date_published: 2024-06-12T12:46:59.966474+00:00
-
- ## Return to the Roots - Welcome
- - [https://siedler25.org](https://siedler25.org)
- - date_published: 2024-05-09T08:55:54.195350+00:00
-
- ## Home - Siemens Caring Hands e.V.
- - [https://siemens-caring-hands.org](https://siemens-caring-hands.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Fundación Siemens - Fundación Siemens
- - [https://educacion.stem.siemens-stiftung.org](https://educacion.stem.siemens-stiftung.org)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Webseite der internationalen Siemens Stiftung
- - [https://siemens-stiftung.org](https://siemens-stiftung.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://wstats.siemens-stiftung.org](https://wstats.siemens-stiftung.org)
- - date_published: 2024-09-10T21:32:05.348485+00:00
-
- ## Home
- - [https://sierraclub.org](https://sierraclub.org)
- - date_published: 2024-04-29T03:12:27.906241+00:00
-
- ## Home
- - [https://www.sifma.org](https://www.sifma.org)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Sift Desk Publications
- - [http://www.siftdesk.org](http://www.siftdesk.org)
- - date_published: 2024-10-29T17:31:20.281210+00:00
-
- ## About | sift - a fast and powerful alternative to grep
- - [https://sift-tool.org](https://sift-tool.org)
- - date_published: 2024-05-09T08:39:47.342105+00:00
-
- ## HOME | ACM ASSETS 2020 - Online Event
- - [https://assets20.sigaccess.org](https://assets20.sigaccess.org)
- - date_published: 2020-10-24T18:05:53+00:00
-
- ## ASSETS 2022 | Home Page
- - [https://assets22.sigaccess.org](https://assets22.sigaccess.org)
- - date_published: 2022-10-22T11:28:48+00:00
-
- ## SIGACCESS
- - [http://www.sigaccess.org](http://www.sigaccess.org)
- - date_published: 2024-06-22T11:45:29.769518+00:00
-
- ## ACM SIGACT
- - [https://sigact.org](https://sigact.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## ACM SIGAda Home Page
- - [http://sigada.org](http://sigada.org)
- - date_published: 2024-06-21T18:25:21+00:00
-
- ## ACM SIGAPP Page
- - [http://www.sigapp.org](http://www.sigapp.org)
- - date_published: 2023-12-31T20:14:42+00:00
-
- ## SIGARCH | The ACM Special Interest Group on Computer Architecture
- - [https://sigarch.org](https://sigarch.org)
- - date_published: 2023-10-25T22:08:17.795553+00:00
-
- ## Home
- - [https://chase23.sigbed.org](https://chase23.sigbed.org)
- - date_published: 2023-06-30T00:30:19+00:00
-
- ## ACM SIGBED – Special Interest Group on Embedded Systems
- - [https://sigbed.org](https://sigbed.org)
- - date_published: 2024-08-07T17:23:20.432566+00:00
-
- ## Soroptimist International GBI (SIGBI) - a women's organisation
- - [https://sigbi.org](https://sigbi.org)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## The Association for Computational Heresy
- - [https://sigbovik.org](https://sigbovik.org)
- - date_published: 2024-06-20T05:53:55.940473+00:00
- - tags: ['parody', 'comedy', 'programming']
-
- ## Conference Programs
- - [https://programs.sigchi.org](https://programs.sigchi.org)
- - date_published: 2024-06-26T11:05:38+00:00
-
- ## Home
- - [https://sigchi.org](https://sigchi.org)
- - date_published: 2024-05-07T20:27:59.905722+00:00
-
- ## lists.sigcis.org Mailing Lists
- - [http://lists.sigcis.org](http://lists.sigcis.org)
- - date_published: 2024-09-14T23:12:48.894208+00:00
-
- ## SIGCIS Meetings
- - [http://meetings.sigcis.org](http://meetings.sigcis.org)
- - date_published: 2024-10-29T18:25:38.461210+00:00
-
- ## Computer Communication Review
- - [http://ccr.sigcomm.org](http://ccr.sigcomm.org)
- - date_published: 2008-07-23T15:03:05+00:00
-
- ## SIGCOMM Conferences
- - [http://conferences2.sigcomm.org](http://conferences2.sigcomm.org)
- - date_published: 2011-07-25T17:31:02+00:00
-
- ## SIGCOMM Conferences
- - [https://conferences.sigcomm.org](https://conferences.sigcomm.org)
- - date_published: 2024-04-29T06:11:02.240148+00:00
-
- ## Welcome | acm sigcomm
- - [http://sigcomm.org](http://sigcomm.org)
- - date_published: 2024-07-16T23:04:40+00:00
-
- ## SIGCSE TS 2023
- - [https://sigcse2023.sigcse.org](https://sigcse2023.sigcse.org)
- - date_published: 2024-06-30T02:13:25.329105+00:00
-
- ## SIGCSE TS 2024
- - [https://sigcse2024.sigcse.org](https://sigcse2024.sigcse.org)
- - date_published: 2024-05-07T14:56:36.809759+00:00
-
- ## SIGCSE TS 2025
- - [https://sigcse2025.sigcse.org](https://sigcse2025.sigcse.org)
- - date_published: 2024-06-30T02:13:31.048302+00:00
-
- ## ACM SIGCSE
- - [https://sigcse.org](https://sigcse.org)
- - date_published: 2024-06-18T18:28:56+00:00
 

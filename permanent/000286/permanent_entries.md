@@ -1,3 +1,120 @@
+ ## CNI-Passeport - Accueil
+ - [https://passeport.ants.gouv.fr](https://passeport.ants.gouv.fr)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## api.gouv.fr
+ - [https://api.gouv.fr](https://api.gouv.fr)
+ - date_published: 2024-09-14T22:11:57.613356+00:00
+
+ ## API Recherche d’entreprises
+ - [https://recherche-entreprises.api.gouv.fr](https://recherche-entreprises.api.gouv.fr)
+ - date_published: 2024-09-14T22:11:55.699086+00:00
+
+ ## Calculateur d'émissions de gaz à effet de serre de l'aviation | ecocalc
+ - [https://eco-calculateur.aviation-civile.gouv.fr](https://eco-calculateur.aviation-civile.gouv.fr)
+ - date_published: 2024-06-21T21:35:09.781420+00:00
+
+ ## Calculateur d'émissions de gaz à effet de serre de l'aviation | ecocalc
+ - [https://eco-calculateur.dta.aviation-civile.gouv.fr](https://eco-calculateur.dta.aviation-civile.gouv.fr)
+ - date_published: 2024-05-04T14:10:29.364301+00:00
+
+ ## Ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique
+ - [https://lettres-infos.bercy.gouv.fr](https://lettres-infos.bercy.gouv.fr)
+ - date_published: 2024-07-03T04:21:04.199856+00:00
+
+ ## Bloctel
+ - [https://www.bloctel.gouv.fr](https://www.bloctel.gouv.fr)
+ - date_published: 2024-07-11T14:22:26+00:00
+
+ ## www.cadastre.gouv.fr un site du ministère de l'Economie des finances et de l'industrie.
+ - [https://www.cadastre.gouv.fr](https://www.cadastre.gouv.fr)
+ - date_published: 2022-12-14T09:13:50+00:00
+
+ ## Le site officiel de la vignette Crit'Air (certificat qualité de l'air) - Ministère de la
+      Transition écologique
+ - [https://certificat-air.gouv.fr](https://certificat-air.gouv.fr)
+ - date_published: 2024-10-28T08:21:18+00:00
+
+ ## Chemins de mémoire | Ministère des Armées
+ - [https://www.cheminsdememoire.gouv.fr](https://www.cheminsdememoire.gouv.fr)
+ - date_published: 2024-06-21T08:24:26+00:00
+
+ ## Mission logiciels libres
+ - [https://code.gouv.fr](https://code.gouv.fr)
+ - date_published: 2024-06-14T09:10:12+00:00
+
+ ## Mission logiciels libres
+ - [https://sill.code.gouv.fr](https://sill.code.gouv.fr)
+ - date_published: 2024-04-30T15:48:41.029973+00:00
+
+ ## Accueil | Ministère du Partenariat avec les territoires et de la Décentralisation Ministère de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques Ministère du Logement et de la Rénovation urbaine
+ - [http://www.cohesion-territoires.gouv.fr](http://www.cohesion-territoires.gouv.fr)
+ - date_published: 2024-10-12T13:45:03.859523+00:00
+
+ ## Accueil | collectivites-locales.gouv.fr
+ - [https://collectivites-locales.gouv.fr](https://collectivites-locales.gouv.fr)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Présentation des pôles de compétitivité | entreprises.gouv.fr
+ - [http://competitivite.gouv.fr](http://competitivite.gouv.fr)
+ - date_published: 2024-07-02T12:37:27+00:00
+
+ ## Rappel Consommateur - Accueil
+ - [https://rappel.conso.gouv.fr](https://rappel.conso.gouv.fr)
+ - date_published: 2024-07-13T17:43:34.473876+00:00
+
+ ## Ministère de la Culture
+ - [http://www.culture.gouv.fr](http://www.culture.gouv.fr)
+ - date_published: 2024-06-24T09:20:40.073895+00:00
+
+ ## Dispositif d’assistance aux victimes d’actes de cybermalveillance
+ - [https://cybermalveillance.gouv.fr](https://cybermalveillance.gouv.fr)
+ - date_published: 2024-05-08T00:14:36.254470+00:00
+
+ ## adresse.data.gouv.fr
+ - [https://adresse.data.gouv.fr](https://adresse.data.gouv.fr)
+ - date_published: 2024-10-12T13:23:24.863575+00:00
+
+ ## Données cadastrales ouvertes | cadastre.data.gouv.fr
+ - [https://cadastre.data.gouv.fr](https://cadastre.data.gouv.fr)
+ - date_published: 2024-10-12T13:23:20.292484+00:00
+
+ ## Accueil - Catalogue
+ - [https://catalogue.data.gouv.fr](https://catalogue.data.gouv.fr)
+ - date_published: 2024-09-14T22:11:54.452183+00:00
+
+ ## Accueil - data.gouv.fr
+ - [https://data.gouv.fr](https://data.gouv.fr)
+ - date_published: 2024-06-14T14:49:07.469207+00:00
+
+ ## defis.data.gouv.fr
+ - [https://defis.data.gouv.fr](https://defis.data.gouv.fr)
+ - date_published: 2024-07-26T07:47:28+00:00
+
+ ## Accueil - demo.data.gouv.fr
+ - [https://demo.data.gouv.fr](https://demo.data.gouv.fr)
+ - date_published: 2024-09-14T22:12:09.646790+00:00
+
+ ## data.gouv.fr - La plateforme ouverte des données publiques françaises
+ - [https://geo.data.gouv.fr](https://geo.data.gouv.fr)
+ - date_published: 2024-04-19T15:12:22+00:00
+
+ ## Bienvenue | Guides de data.gouv.fr
+ - [https://guides.data.gouv.fr](https://guides.data.gouv.fr)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## meteo.data.gouv.fr
+ - [https://meteo.data.gouv.fr](https://meteo.data.gouv.fr)
+ - date_published: 2024-08-06T07:20:38+00:00
+
+ ## Ouverture data.gouv.fr
+ - [https://ouverture.data.gouv.fr](https://ouverture.data.gouv.fr)
+ - date_published: 2024-06-27T15:35:22+00:00
+
+ ## schema.data.gouv.fr
+ - [https://schema.data.gouv.fr](https://schema.data.gouv.fr)
+ - date_published: 2024-09-14T04:06:34+00:00
+
  ## www.data.gouv.fr Site - Web Analytics Reports - Matomo
  - [https://stats.data.gouv.fr](https://stats.data.gouv.fr)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -3926,122 +4043,4 @@ Secrétariat d'État chargé de la Mer
  ## Nexus - Support-a-Creator programs for live service games
  - [https://www.nexus.gg](https://www.nexus.gg)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## nightcats cool website
- - [https://nightcat.gg](https://nightcat.gg)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Minecraft Dynamic Map
- - [https://tildes.nore.gg](https://tildes.nore.gg)
- - date_published: 2024-07-20T17:54:34+00:00
-
- ## Verify Your Tildes Account
- - [https://verify.tildes.nore.gg](https://verify.tildes.nore.gg)
- - date_published: 2024-07-20T21:02:09.769691+00:00
-
- ## North.gg - Bedste Danske Betting Sider & Casinoer på North.gg
- - [https://north.gg](https://north.gg)
- - date_published: 2024-10-31T00:58:09.776504+00:00
-
- ## Northrend.gg
- - [https://northrend.gg](https://northrend.gg)
- - date_published: 2024-03-27T20:39:23+00:00
- - tags: ['world of warcraft']
-
- ## Nostra - One stop to discover, play, watch and compete at across games
- - [https://nostra.gg](https://nostra.gg)
- - date_published: 2023-05-05T12:32:42+00:00
-
- ## Play Online Games for Free | now.gg Mobile Cloud
- - [https://now.gg](https://now.gg)
- - date_published: 2024-10-25T10:47:57.779619+00:00
-
- ## NRG Esports | Home
- - [https://nrg.gg](https://nrg.gg)
- - date_published: 2023-11-02T10:40:58.258689+00:00
-
- ## GAM.GG
- - [http://nrgasia.gg](http://nrgasia.gg)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Open Ads Protocol
- - [https://oap.gg](https://oap.gg)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Oddin.gg - Esports Betting Odds Feed - CS:GO, Dota 2, League of legends | Oddin.gg
- - [https://oddin.gg](https://oddin.gg)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## omega Movement
- - [https://omega.gg](https://omega.gg)
- - date_published: 2024-11-09T19:24:45+00:00
-
- ## OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats
- - [https://op.gg](https://op.gg)
- - date_published: 2024-08-20T19:35:04.260913+00:00
-
- ## Opera GX | Gaming Browser | Opera
- - [https://operagx.gg](https://operagx.gg)
- - date_published: 2024-03-04T18:07:07.592343+00:00
-
- ## Find and Share the Best Warframe Builds - Overframe
- - [https://overframe.gg](https://overframe.gg)
- - date_published: 2023-12-13T16:20:00.589994+00:00
-
- ## Ozwin Casino - Australian Online Pokies to Play
- - [https://ozwincasino.gg](https://ozwincasino.gg)
- - date_published: 2024-03-17T00:00:00+00:00
- - tags: ['gambling']
-
- ## Perion | Web3 Gaming Sucks | Let's fix it
- - [https://perion.gg](https://perion.gg)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Ping
- - [https://ping.gg](https://ping.gg)
- - date_published: 2024-07-03T12:41:28.169882+00:00
-
- ## Join the Cloudhead Games Discord Server!
- - [http://pistolwhip.gg](http://pistolwhip.gg)
- - date_published: 2024-07-03T17:20:00+00:00
-
- ## Home | PLANET9
- - [https://www.planet9.gg](https://www.planet9.gg)
- - date_published: 2024-07-14T03:13:43.148469+00:00
-
- ## PlayCase.gg - Precision and Protection All-In-One
- - [https://playcase.gg](https://playcase.gg)
- - date_published: 2024-05-17T07:54:26+00:00
-
- ## playit.gg
- - [http://playit.gg](http://playit.gg)
- - date_published: 2024-08-11T20:36:38+00:00
-
- ## Ponzu
- - [https://www.ponzu.gg](https://www.ponzu.gg)
- - date_published: 2024-06-19T18:53:56.655754+00:00
-
- ## Porofessor.gg - League of Legends live game search and real-time player statistics
- - [https://porofessor.gg](https://porofessor.gg)
- - date_published: 2024-04-28T05:58:34.728682+00:00
-
- ## AI-Powered Clipping Software for Gaming | Powder
- - [https://powder.gg](https://powder.gg)
- - date_published: 2024-05-07T14:10:57.953720+00:00
-
- ## Pragma - The Backend Game Engine
- - [https://pragma.gg](https://pragma.gg)
- - date_published: 2024-05-06T23:28:21.619035+00:00
-
- ## Prime League
- - [https://www.primeleague.gg](https://www.primeleague.gg)
- - date_published: 2024-06-16T06:01:52.131058+00:00
-
- ## Systemshock |
- - [https://systemshock.primematter.gg](https://systemshock.primematter.gg)
- - date_published: 2024-06-28T18:57:38.588328+00:00
-
- ## Home - PRINTSTREAM
- - [https://printstream.gg](https://printstream.gg)
- - date_published: 2024-05-17T00:00:00+00:00
 

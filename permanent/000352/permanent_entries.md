@@ -1,3 +1,137 @@
+ ## Shoreline Execution
+ - [https://mpa.shoreline.no](https://mpa.shoreline.no)
+ - date_published: 2024-06-19T13:42:05+00:00
+
+ ## Shoreline Wind
+ - [https://shoreline.no](https://shoreline.no)
+ - date_published: 2024-05-04T08:01:12.955921+00:00
+
+ ## Front page | Sigma2
+ - [https://www.sigma2.no](https://www.sigma2.no)
+ - date_published: 2024-09-12T09:27:22+00:00
+
+ ## Sildajazz 2024
+ - [http://www.sildajazz.no](http://www.sildajazz.no)
+ - date_published: 2024-08-02T18:47:19.862322+00:00
+
+ ## Silva Green Fuel
+ - [https://www.silvagreenfuel.no](https://www.silvagreenfuel.no)
+ - date_published: 2024-06-30T06:33:17.919565+00:00
+
+ ## Startside - SiMolde
+ - [https://www.simolde.no](https://www.simolde.no)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Simula Research Laboratory
+ - [https://simula.no](https://simula.no)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Log in | Simula
+ - [https://web-backend.simula.no](https://web-backend.simula.no)
+ - date_published: 2024-07-19T18:51:50.506936+00:00
+
+ ## Simula Innovation | Tech Investor | Oslo
+ - [https://www.simulainnovation.no](https://www.simulainnovation.no)
+ - date_published: 2024-07-19T18:51:51.905329+00:00
+
+ ## Simula Metropolitan Center for Digital Engineering
+ - [https://simulamet.no](https://simulamet.no)
+ - date_published: 2024-07-19T18:51:49.365883+00:00
+
+ ## Simula UiB – Solving Problems in Cyber Security
+ - [https://simula-uib.no](https://simula-uib.no)
+ - date_published: 2024-07-19T18:51:53.784746+00:00
+
+ ## SINTEF - Anvendt forskning, teknologi og innovasjon
+ - [https://www.sintef.no](https://www.sintef.no)
+ - date_published: 2024-06-24T03:46:27+00:00
+
+ ## Leiebil Norge - Europa & resten av verden | Sixt Bilutleie
+ - [https://sixt.no](https://sixt.no)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Skanska i Norge | www.skanska.no
+ - [https://www.skanska.no](https://www.skanska.no)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Person - Skatteetaten
+ - [https://skatteetaten.no](https://skatteetaten.no)
+ - date_published: 2023-10-27T12:06:13.607518+00:00
+
+ ## Skepsis Norge
+ - [http://skepsis.no](http://skepsis.no)
+ - date_published: 2024-10-29T18:37:02.450734+00:00
+
+ ## Store Norske Skriftkompani – Typefaces
+ - [https://skriftkompani.no](https://skriftkompani.no)
+ - date_published: 2024-05-04T06:31:37.653256+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.no](https://www.skyscanner.no)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Smart Media – Et kreativt byrå som hjelper merkevarer opp og frem
+ - [https://smartmedia.no](https://smartmedia.no)
+ - date_published: 2024-10-31T02:22:55.130387+00:00
+
+ ## Smart Molde - Molde kommune
+ - [https://www.smartmolde.no](https://www.smartmolde.no)
+ - date_published: 2024-07-15T04:14:40.308304+00:00
+
+ ## snabelen.no
+ - [https://snabelen.no](https://snabelen.no)
+ - date_published: 2024-05-09T08:18:50.057667+00:00
+
+ ## - Soco
+ - [https://soco.no](https://soco.no)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## soderlind - Overview
+ - [http://soderlind.no](http://soderlind.no)
+ - date_published: 2024-07-22T17:40:24.212222+00:00
+
+ ## Sony Norge | De siste teknologinyhetene | Elektronikk | Underholdning
+ - [http://www.sony.no](http://www.sony.no)
+ - date_published: 2024-10-21T07:37:59.011230+00:00
+
+ ## Sopra Steria Norge | Norges ledende konsulentselskap innen digitalisering, innovasjon og  bærekraft
+ - [https://www.soprasteria.no](https://www.soprasteria.no)
+ - date_published: 2024-07-04T12:16:18.463357+00:00
+
+ ## Spaceballs - Demozoo
+ - [https://spaceballs.no](https://spaceballs.no)
+ - date_published: 2024-06-14T07:07:01.262161+00:00
+ - tags: ['amiga', 'demoscene']
+
+ ## SPACEGROUP
+ - [https://www.spacegroup.no](https://www.spacegroup.no)
+ - date_published: 2024-07-10T10:34:47.249901+00:00
+
+ ## Et ledende miljø i norsk romindustri | Space Norway
+ - [https://spacenorway.no](https://spacenorway.no)
+ - date_published: 2023-11-10T16:04:50.344777+00:00
+
+ ## Bank
+ - [https://www.sparebank1.no](https://www.sparebank1.no)
+ - date_published: 2023-09-18T00:00:00+00:00
+
+ ## Sparebankstiftelsen | Forside
+ - [https://www.sparebankstiftelsen.no](https://www.sparebankstiftelsen.no)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Om oss - Foredragsholdere & Konferansier
+ - [https://speakersandfriends.no](https://speakersandfriends.no)
+ - date_published: 2022-07-31T00:00:00+00:00
+
+ ## Spillhistorie.no
+ - [https://spillhistorie.no](https://spillhistorie.no)
+ - date_published: 2024-05-15T13:54:27+00:00
+ - tags: ['personal', 'retro games']
+
+ ## Spafo Norge - Spafo Norge
+ - [https://www.spondylitten.no](https://www.spondylitten.no)
+ - date_published: 2024-04-25T00:00:00+00:00
+
  ## My Spreadshirt
  - [https://my.spreadshirt.no](https://my.spreadshirt.no)
  - date_published: 2024-10-21T08:58:49.795034+00:00
@@ -3901,136 +4035,4 @@ marginalia.nu
  ## Tidy Life Solutions: Home Organising and Decluttering Service Wellington
  - [https://tidylifesolutions.co.nz](https://tidylifesolutions.co.nz)
  - date_published: 2024-01-11T17:08:10.216210+00:00
-
- ## Time Out Bookstore
- - [https://www.timeout.co.nz](https://www.timeout.co.nz)
- - date_published: 2024-06-21T12:55:16.705433+00:00
-
- ## Tokoroa Welding - Agricultural Engineering - Repairs, Custom Designs/Builds
- - [http://www.tokweld.co.nz](http://www.tokweld.co.nz)
- - date_published: 2018-08-17T02:15:52+00:00
-
- ## Torpedo7 | NZ's #1 Outdoor Adventure Clothing & Gear Store
- - [https://www.torpedo7.co.nz](https://www.torpedo7.co.nz)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## New Cars, Utes, SUVs & Hybrids
- - [https://www.toyota.co.nz](https://www.toyota.co.nz)
- - date_published: 2024-06-19T08:22:42.936621+00:00
-
- ## Toy Titans - New Zealand
- - [https://toytitans.co.nz](https://toytitans.co.nz)
- - date_published: 2024-10-17T06:58:11.095670+00:00
-
- ## New Zealand's Top Supplier of Truck & Trailer Components | Transpecs NZ
- - [https://transpecs.co.nz](https://transpecs.co.nz)
- - date_published: 2023-01-02T03:06:50+00:00
-
- ## Transport Blog | Auckland's Public Transport | Problems and Solutions
- - [https://transportblog.co.nz](https://transportblog.co.nz)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Join the action to plant more native trees across New Zealand. | Trees That Count
- - [https://treesthatcount.co.nz](https://treesthatcount.co.nz)
- - date_published: 2024-10-21T10:37:01.580451+00:00
-
- ## Tripadvisor: Over a billion reviews & contributions for Hotels, Attractions, Restaurants, and more
- - [https://www.tripadvisor.co.nz](https://www.tripadvisor.co.nz)
- - date_published: 2024-06-23T09:27:29.904371+00:00
-
- ## trivago.co.nz - Compare hotel prices worldwide
- - [https://www.trivago.co.nz](https://www.trivago.co.nz)
- - date_published: 2024-09-04T11:20:31.346479+00:00
-
- ## Hino Monthly Servicing Calculator
- - [https://hinocalculator.truckstops.co.nz](https://hinocalculator.truckstops.co.nz)
- - date_published: 2019-07-24T00:00:00+00:00
-
- ## Request a Service - Truckstops
- - [https://service.truckstops.co.nz](https://service.truckstops.co.nz)
- - date_published: 2023-07-25T04:58:00+00:00
-
- ## Truckstops: NZ's Largest Truck Service, Repair & Parts Provider
- - [https://truckstops.co.nz](https://truckstops.co.nz)
- - date_published: 2023-01-01T17:06:50+00:00
-
- ## Home - Easily share trusted data
- - [https://trustalliance.co.nz](https://trustalliance.co.nz)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Füm - The Good Habit™
- - [https://tryfum.co.nz](https://tryfum.co.nz)
- - date_published: 2024-07-10T02:08:17.859431+00:00
-
- ## Empower Students to Do Their Best, Original Work | Turnitin
- - [https://www.turnitin.co.nz](https://www.turnitin.co.nz)
- - date_published: 2024-09-19T12:31:29+00:00
-
- ## TVHE
- - [http://www.tvhe.co.nz](http://www.tvhe.co.nz)
- - date_published: 2024-10-31T22:38:14.516228+00:00
-
- ## TVNZ Careers
- - [https://careers.tvnz.co.nz](https://careers.tvnz.co.nz)
- - date_published: 2024-06-19T08:23:18.223037+00:00
-
- ## About
- - [https://corporate.tvnz.co.nz](https://corporate.tvnz.co.nz)
- - date_published: 2021-06-26T17:50:06+00:00
-
- ## TVNZ Licensing
- - [https://licensing.tvnz.co.nz](https://licensing.tvnz.co.nz)
- - date_published: 2023-08-08T02:53:56+00:00
-
- ## Home | TVNZ
- - [https://sales.tvnz.co.nz](https://sales.tvnz.co.nz)
- - date_published: 2024-06-19T08:22:46.444592+00:00
-
- ## tvnzgreenroom.co.nz – tvnzgreenroom
- - [https://www.tvnzgreenroom.co.nz](https://www.tvnzgreenroom.co.nz)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Maori Training. - Te Whare Hukahuka
- - [https://www.twh.co.nz](https://www.twh.co.nz)
- - date_published: 2024-08-06T03:01:31.679205+00:00
-
- ## TWL NZ | Specialists in Truck and Trailer Parts
- - [https://twlnz.co.nz](https://twlnz.co.nz)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Ideas to Life | University of Auckland
- - [https://www.uniservices.co.nz](https://www.uniservices.co.nz)
- - date_published: 2024-07-24T03:15:28.184312+00:00
-
- ## PMG Portal
- - [https://pmgfunds.unitregistry.co.nz](https://pmgfunds.unitregistry.co.nz)
- - date_published: 2024-06-15T17:22:47+00:00
-
- ## Unity Books Auckland
- - [https://unitybooksauckland.co.nz](https://unitybooksauckland.co.nz)
- - date_published: 2024-05-12T04:56:45.010147+00:00
-
- ## Unity Books Wellington | Your Local Bookshop
- - [https://unitybookswellington.co.nz](https://unitybookswellington.co.nz)
- - date_published: 2024-05-12T04:56:57.530233+00:00
-
- ## Universal Music New Zealand (UMNZ)
- - [https://www.universalmusic.co.nz](https://www.universalmusic.co.nz)
- - date_published: 2024-07-17T11:10:05.353672+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.co.nz](https://visa.co.nz)
- - date_published: 2024-05-12T03:59:44.156830+00:00
-
- ## Volvo Trucks
- - [https://www.volvotrucks.co.nz](https://www.volvotrucks.co.nz)
- - date_published: 2024-06-15T05:16:56+00:00
-
- ## Warehouse Stationery – Office Products, Stationery and Technology
- - [https://www.warehousestationery.co.nz](https://www.warehousestationery.co.nz)
- - date_published: 2024-09-16T02:04:55.605143+00:00
-
- ## Professional Website Design & SEO Auckland | Web Revolution
- - [https://www.webrevolution.co.nz](https://www.webrevolution.co.nz)
- - date_published: 2024-07-18T00:00:00+00:00
 

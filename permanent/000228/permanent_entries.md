@@ -1,3 +1,95 @@
+ ## Climate Audit
+ - [https://climateaudit.wordpress.com](https://climateaudit.wordpress.com)
+ - date_published: 2024-06-28T18:38:08+00:00
+
+ ## climatecontrarian
+ - [http://climatecontrarian.wordpress.com](http://climatecontrarian.wordpress.com)
+ - date_published: 2024-09-16T20:55:09.397583+00:00
+
+ ## Climate Interactive - The Blog
+ - [https://climateinteractive.wordpress.com](https://climateinteractive.wordpress.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Climate Nonconformist
+ - [https://climatenonconformist.wordpress.com](https://climatenonconformist.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Climatism
+ - [https://climatism.wordpress.com](https://climatism.wordpress.com)
+ - date_published: 2024-09-16T20:49:46+00:00
+
+ ## Clint Brown
+ - [https://clintbrownblog.wordpress.com](https://clintbrownblog.wordpress.com)
+ - date_published: 2024-05-12T05:27:51.081671+00:00
+
+ ## Climate Scepticism
+ - [https://cliscep.wordpress.com](https://cliscep.wordpress.com)
+ - date_published: 2024-09-16T20:52:35+00:00
+
+ ## Confessions from outside the Closet
+ - [https://closetconfessions.wordpress.com](https://closetconfessions.wordpress.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## CloudEngine Blog
+ - [https://cloudengineblog.wordpress.com](https://cloudengineblog.wordpress.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## clover and ivy
+ - [http://cloverandivy.wordpress.com](http://cloverandivy.wordpress.com)
+ - date_published: 2024-06-26T07:33:43.317101+00:00
+
+ ## Club NIMBY
+ - [https://clubnimbyblog.wordpress.com](https://clubnimbyblog.wordpress.com)
+ - date_published: 2024-06-28T13:24:31.499671+00:00
+
+ ## ClubOrlov
+ - [https://cluborlov.wordpress.com](https://cluborlov.wordpress.com)
+ - date_published: 2024-08-02T20:38:57+00:00
+
+ ## Carlos M. Fernandes - Research
+ - [http://cmfresearch.wordpress.com](http://cmfresearch.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Clément Mouhot
+ - [http://cmouhot.wordpress.com](http://cmouhot.wordpress.com)
+ - date_published: 2024-06-30T08:27:10.074367+00:00
+
+ ## C. M. Weller's Musings
+ - [http://cmwellerblog.wordpress.com](http://cmwellerblog.wordpress.com)
+ - date_published: 2024-09-03T23:02:45.287253+00:00
+
+ ## Coach Behavior Improvement
+ - [https://coach300.wordpress.com](https://coach300.wordpress.com)
+ - date_published: 2024-09-10T13:14:23.746437+00:00
+
+ ## Coastwalk
+ - [https://coastwalkblog.wordpress.com](https://coastwalkblog.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Coast Walk
+ - [https://coastwalking.wordpress.com](https://coastwalking.wordpress.com)
+ - date_published: 2024-05-07T14:47:29.613333+00:00
+
+ ## A Few Things Illconsidered
+ - [https://cobybeck.wordpress.com](https://cobybeck.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Coby Lubliner's Blog
+ - [https://cobylubliner.wordpress.com](https://cobylubliner.wordpress.com)
+ - date_published: 2024-05-07T21:47:18.508661+00:00
+
+ ## Cocoa, Coffee and Life
+ - [https://cocoacaffeine.wordpress.com](https://cocoacaffeine.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## coconutoilsreview
+ - [https://coconutoilsreview.wordpress.com](https://coconutoilsreview.wordpress.com)
+ - date_published: 2024-06-20T03:49:29.103475+00:00
+
+ ## Code and Culture
+ - [http://codeandculture.wordpress.com](http://codeandculture.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Codebright's Blog
  - [https://codebright.wordpress.com](https://codebright.wordpress.com)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -3913,96 +4005,4 @@
  ## Gravitas Free Zone Weblog
  - [http://gravitasfreezone.wordpress.com](http://gravitasfreezone.wordpress.com)
  - date_published: 2024-10-19T07:32:00.271599+00:00
-
- ## Gravity and Levity | A blog about the big ideas in physics, plus a few other things
- - [https://gravityandlevity.wordpress.com](https://gravityandlevity.wordpress.com)
- - date_published: 2023-10-25T18:12:20.895831+00:00
-
- ## Down by the Dougie
- - [https://greatacre.wordpress.com](https://greatacre.wordpress.com)
- - date_published: 2024-10-17T13:11:23.107798+00:00
-
- ## Great Human Capital
- - [http://greathumancapital.wordpress.com](http://greathumancapital.wordpress.com)
- - date_published: 2024-10-19T07:03:19.304840+00:00
-
- ## Esai dan tulisan-tulisan yang tak dapat dicerna
- - [https://greatprasetya.wordpress.com](https://greatprasetya.wordpress.com)
- - date_published: 2024-01-07T22:19:07.848954+00:00
-
- ## Great War Fiction
- - [http://greatwarfiction.wordpress.com](http://greatwarfiction.wordpress.com)
- - date_published: 2024-08-11T12:51:21.610984+00:00
-
- ## The Great Wen
- - [http://greatwenlondon.wordpress.com](http://greatwenlondon.wordpress.com)
- - date_published: 2024-08-19T16:13:09.474592+00:00
-
- ## GreedyRaven Painting
- - [http://greedyraven.wordpress.com](http://greedyraven.wordpress.com)
- - date_published: 2024-10-26T22:06:37.435566+00:00
-
- ## GreenChemBlog
- - [https://greenchemblog.wordpress.com](https://greenchemblog.wordpress.com)
- - date_published: 2024-10-19T04:30:17.692857+00:00
-
- ## Greenfyre's
- - [http://greenfyre.wordpress.com](http://greenfyre.wordpress.com)
- - date_published: 2024-06-30T02:44:12.530956+00:00
-
- ## Green Jihad
- - [https://greenjihad.wordpress.com](https://greenjihad.wordpress.com)
- - date_published: 2024-05-04T08:48:11.162390+00:00
-
- ## project-green-smw
- - [https://greensmw.wordpress.com](https://greensmw.wordpress.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## L'Antre de Gregauryc
- - [https://gregauryc.wordpress.com](https://gregauryc.wordpress.com)
- - date_published: 2024-10-26T21:42:33.751549+00:00
-
- ## Bilsland's Blog
- - [https://gregbilsland.wordpress.com](https://gregbilsland.wordpress.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Greg DeKoenigsberg Speaks
- - [https://gregdekspeaks.wordpress.com](https://gregdekspeaks.wordpress.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Slow and Faithful
- - [https://gregdychecom.wordpress.com](https://gregdychecom.wordpress.com)
- - date_published: 2024-05-04T08:48:19.539708+00:00
-
- ## Real Health Reform:            Our Money, Our Health, Our Choice!
- - [http://gregscandlen.wordpress.com](http://gregscandlen.wordpress.com)
- - date_published: 2024-06-20T04:22:10.879398+00:00
-
- ## Greg's Blog
- - [https://gregstoll.wordpress.com](https://gregstoll.wordpress.com)
- - date_published: 2024-07-15T06:37:49.073337+00:00
-
- ## The Arts and Ordeals of Niklas Åkerblad
- - [http://grenig.wordpress.com](http://grenig.wordpress.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Grenouille Bouillie
- - [https://grenouillebouillie.wordpress.com](https://grenouillebouillie.wordpress.com)
- - date_published: 2024-05-09T07:39:00.340295+00:00
-
- ## Grimcron Warhammer 40k
- - [https://grimcron.wordpress.com](https://grimcron.wordpress.com)
- - date_published: 2024-10-26T16:18:09.640575+00:00
-
- ## Growing Up Transgender
- - [https://growinguptransgender.wordpress.com](https://growinguptransgender.wordpress.com)
- - date_published: 2024-09-02T13:05:12.998592+00:00
-
- ## the invisible scientist
- - [http://grrlscientist.wordpress.com](http://grrlscientist.wordpress.com)
- - date_published: 2024-10-29T18:42:15.790439+00:00
-
- ## Grünschreiber
- - [http://gruenschreiber.wordpress.com](http://gruenschreiber.wordpress.com)
- - date_published: 2024-06-30T04:14:03.079377+00:00
 

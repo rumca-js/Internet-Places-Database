@@ -1,3 +1,31 @@
+ ## Developer Markepear: developer marketing resources from a startup CMO
+ - [https://developermarkepear.com](https://developermarkepear.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Login
+ - [https://apps.developermedia.com](https://apps.developermedia.com)
+ - date_published: 2024-05-08T05:49:22.048270+00:00
+
+ ## Login
+ - [https://cdn1.developermedia.com](https://cdn1.developermedia.com)
+ - date_published: 2024-05-08T05:49:25.730849+00:00
+
+ ## Home
+ - [https://developermedia.com](https://developermedia.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Developer On Fire
+ - [https://developeronfire.com](https://developeronfire.com)
+ - date_published: 2021-10-09T14:29:43+00:00
+
+ ## Home | Developer Pitstop
+ - [https://developerpitstop.com](https://developerpitstop.com)
+ - date_published: 2023-10-25T13:50:57.547624+00:00
+
+ ## DevRel blog: news and opinion about developer relations
+ - [https://developerrelations.com](https://developerrelations.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
  ## Developer Report
  - [https://www.developerreport.com](https://www.developerreport.com)
  - date_published: 2024-09-25T12:21:21.691952+00:00
@@ -4008,32 +4036,4 @@ A blog about programming, distributed systems and others
  ## Digital Mars C, C++ and D Compilers
  - [https://digitalmars.com](https://digitalmars.com)
  - date_published: 2024-04-19T06:23:36+00:00
-
- ## Index of /
- - [http://ftp.digitalmars.com](http://ftp.digitalmars.com)
- - date_published: 2024-08-19T15:54:33.305177+00:00
-
- ## Digital Mars C, C++ and D Compilers
- - [https://news.digitalmars.com](https://news.digitalmars.com)
- - date_published: 2024-04-19T06:23:36+00:00
-
- ## React App
- - [https://cfcdn.digitalmeasures.com](https://cfcdn.digitalmeasures.com)
- - date_published: 2018-03-16T20:20:31+00:00
-
- ## Watermark | Higher Education Software for Student Success
- - [https://www.digitalmeasures.com](https://www.digitalmeasures.com)
- - date_published: 2024-06-29T20:45:04+00:00
-
- ## The Digital Media Machine
- - [https://www.digitalmediamachine.com](https://www.digitalmediamachine.com)
- - date_published: 2024-05-17T14:06:59+00:00
-
- ## Digital Media Wire
- - [https://digitalmediawire.com](https://digitalmediawire.com)
- - date_published: 2024-06-19T14:57:39.636419+00:00
-
- ## Digital Momentum | Digital Agency for the Racing Industry | Davidson, NC
- - [https://www.digitalmomentum.com](https://www.digitalmomentum.com)
- - date_published: 2024-06-19T13:52:09+00:00
 

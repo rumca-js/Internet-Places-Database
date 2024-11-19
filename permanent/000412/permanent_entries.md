@@ -1,3 +1,144 @@
+ ## CoderDojo Bratislava
+ - [https://bratislava.coderdojo.sk](https://bratislava.coderdojo.sk)
+ - date_published: 2023-11-18T10:55:15+00:00
+
+ ## Platobná brána a platobný terminál Comgate
+ - [https://www.comgate.sk](https://www.comgate.sk)
+ - date_published: 2024-10-18T03:44:31.180858+00:00
+
+ ## Conrad Electronic » Your Sourcing Platform
+ - [https://www.conrad.sk](https://www.conrad.sk)
+ - date_published: 2024-08-18T15:21:40.545256+00:00
+
+ ## ČSFD.sk
+ - [http://www.csfd.sk](http://www.csfd.sk)
+ - date_published: 2024-07-01T10:20:09.810466+00:00
+
+ ## Cyber Trends
+ - [https://cybertrends.sk](https://cybertrends.sk)
+ - date_published: 2024-06-30T14:21:21+00:00
+
+ ## DECATHLON | Robíme šport dostupnejší pre všetkých na Slovensku
+ - [https://decathlon.sk](https://decathlon.sk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Sign in - Google Accounts
+ - [https://beam.dennikn.sk](https://beam.dennikn.sk)
+ - date_published: 2024-07-17T07:16:19.024872+00:00
+
+ ## Sign in - Google Accounts
+ - [https://campaign.dennikn.sk](https://campaign.dennikn.sk)
+ - date_published: 2024-07-17T07:16:11.950844+00:00
+
+ ## Titulka
+ - [https://dennikn.sk](https://dennikn.sk)
+ - date_published: 2018-11-20T12:16:18+00:00
+
+ ## Coral
+ - [https://diskusie.dennikn.sk](https://diskusie.dennikn.sk)
+ - date_published: 2024-07-17T07:16:16.740623+00:00
+
+ ## Denník E — ekonomické spravodajstvo Denníka N
+ - [https://e.dennikn.sk](https://e.dennikn.sk)
+ - date_published: 2024-07-17T07:16:21.936303+00:00
+
+ ## Výbava - Výbava
+ - [https://hiking.dennikn.sk](https://hiking.dennikn.sk)
+ - date_published: 2024-07-17T07:16:16.072435+00:00
+
+ ## HistoryLab - online magazín, ktorý vás ponorí do histórie
+ - [https://historylab.dennikn.sk](https://historylab.dennikn.sk)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## KINECKO -
+ - [https://kinecko.dennikn.sk](https://kinecko.dennikn.sk)
+ - date_published: 2024-07-17T07:16:01.077206+00:00
+
+ ## Napunk — a Denník N magyar  projektje
+ - [https://napunk.dennikn.sk](https://napunk.dennikn.sk)
+ - date_published: 2024-07-17T07:15:55.120621+00:00
+
+ ## Všetky vydania / Noviny Dennikn
+ - [https://noviny.dennikn.sk](https://noviny.dennikn.sk)
+ - date_published: 2024-07-17T07:15:56.725335+00:00
+
+ ## Knihy Denníka N. Len to, čo sami čítame. | Denník N
+ - [https://obchod.dennikn.sk](https://obchod.dennikn.sk)
+ - date_published: 2024-07-17T07:16:24.412086+00:00
+
+ ## Predplaťte si Denník N
+ | Denník N
+ - [http://predplatne.dennikn.sk](http://predplatne.dennikn.sk)
+ - date_published: 2024-07-17T07:14:47.831906+00:00
+
+ ## Sign in | UStore
+ - [https://ustore.dennikn.sk](https://ustore.dennikn.sk)
+ - date_published: 2024-07-17T07:16:07.040660+00:00
+
+ ## DigiKey Home
+ - [https://digikey.sk](https://digikey.sk)
+ - date_published: 2024-05-01T05:03:53.269190+00:00
+
+ ## Téma HCM | Poradna
+ - [http://www.dimension3.sk](http://www.dimension3.sk)
+ - date_published: 2024-07-03T04:52:54.287963+00:00
+
+ ## Úvodná stránka | Ditec
+ - [http://www.ditec.sk](http://www.ditec.sk)
+ - date_published: 2024-07-12T14:17:55.693229+00:00
+
+ ## DizajnDesign Type Foundry
+ - [https://www.dizajndesign.sk](https://www.dizajndesign.sk)
+ - date_published: 2024-08-05T13:28:01+00:00
+
+ ## Realitná kancelária Poprad - DLUGO reality
+ - [https://www.dlugoreality.sk](https://www.dlugoreality.sk)
+ - date_published: 2024-10-22T13:23:30.954089+00:00
+
+ ## DNV.sk - Safer Smarter Greener - DNV
+ - [https://www.dnv.sk](https://www.dnv.sk)
+ - date_published: 2024-09-04T15:26:10.992346+00:00
+
+ ## Sme za každú dobrosť
+ - [https://donio.sk](https://donio.sk)
+ - date_published: 2024-07-17T07:15:58.347534+00:00
+
+ ## dormakaba CZ/SK | For every place that matters
+ - [https://dormakaba.sk](https://dormakaba.sk)
+ - date_published: 2024-05-11T09:35:04.903711+00:00
+
+ ## Prehľad stavu
+ - [https://downdetector.sk](https://downdetector.sk)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Data Science Academy – Building interdisciplinary data science community
+ - [https://dsacademy.sk](https://dsacademy.sk)
+ - date_published: 2024-07-02T23:43:38.471263+00:00
+
+ ## DSL.sk
+ - [https://dsl.sk](https://dsl.sk)
+ - date_published: 2024-07-23T23:33:03.515449+00:00
+
+ ## Dyson | Oficiálna webová stránka
+ - [https://www.dyson.sk](https://www.dyson.sk)
+ - date_published: 2024-07-07T01:57:30.095983+00:00
+
+ ## Extreme Digital Kapcsolat | eMAG Help
+ - [https://edigital.sk](https://edigital.sk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EF Education First | Slovensko
+ - [https://www.ef-slovakia.sk](https://www.ef-slovakia.sk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Bezplatný online úvod do umelej inteligencie pre laickú verejnosť
+ - [https://www.elementsofai.sk](https://www.elementsofai.sk)
+ - date_published: 2024-07-01T08:47:05.345153+00:00
+
+ ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
+ - [https://www.emp-shop.sk](https://www.emp-shop.sk)
+ - date_published: 2024-07-24T06:34:32.389749+00:00
+
  ## Epoch Times Slovensko
  - [https://www.epochtimes.sk](https://www.epochtimes.sk)
  - date_published: 2024-05-06T16:43:03.695545+00:00
@@ -3911,145 +4052,4 @@ conflicts of interest and restore Community Trust.
  ## yatil.social
  - [https://yatil.social](https://yatil.social)
  - date_published: 2024-07-02T18:19:35.317162+00:00
-
- ## Yowza
- - [https://www.yowza.social](https://www.yowza.social)
- - date_published: 2024-06-23T06:17:55.679576+00:00
-
- ## zdf.social
- - [https://zdf.social](https://zdf.social)
- - date_published: 2024-05-13T03:13:53.124326+00:00
-
- ## Zehn Vorne
- - [https://sk.zehnvorne.social](https://sk.zehnvorne.social)
- - date_published: 2024-06-23T17:14:34.399320+00:00
-
- ## zepi.social
- - [https://zepi.social](https://zepi.social)
- - date_published: 2024-10-31T04:39:31.157208+00:00
-
- ## | ソフトバンクグループ株式会社
- - [https://group.softbank](https://group.softbank)
- - date_published: 2024-09-25T14:48:15.832096+00:00
-
- ## Explore projects · GitLab
- - [https://activitypub.software](https://activitypub.software)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Akita
- - [https://app.akita.software](https://app.akita.software)
- - date_published: 2024-05-01T02:58:14.096773+00:00
-
- ## Welcome! 👋
- - [https://docs.akita.software](https://docs.akita.software)
- - date_published: 2024-05-01T02:58:13.094850+00:00
-
- ## Arcade | Create Interactive Product Demos
- - [https://arcade.software](https://arcade.software)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Austin's Blog
- - [https://austinbaird.software](https://austinbaird.software)
- - date_published: 2024-06-23T05:56:05.175255+00:00
-
- ## Balanced
- - [https://www.balanced.software](https://www.balanced.software)
- - date_published: 2024-09-04T03:27:32.431119+00:00
-
- ## /// big sky software
- - [https://bigsky.software](https://bigsky.software)
- - date_published: 2024-05-22T04:35:19.393064+00:00
-
- ## Bruhin Software
- - [https://bruhin.software](https://bruhin.software)
- - date_published: 2024-06-01T17:22:56+00:00
-
- ## Bunch Software
- - [https://bunch.software](https://bunch.software)
- - date_published: 2024-07-19T23:01:13.423492+00:00
-
- ## Burrito (they/them)
- - [https://links.burrito.software](https://links.burrito.software)
- - date_published: 2024-09-07T23:24:43.179489+00:00
-
- ## Commodore Software - New Files
- - [https://commodore.software](https://commodore.software)
- - date_published: 2023-11-10T13:02:40.505410+00:00
- - tags: ['retro', 'commodore']
-
- ## crwlr.software - Open Source PHP Library for Crawler and Scraper Development
- - [https://www.crwlr.software](https://www.crwlr.software)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Deep Anime - AI Art Generator
- - [https://deepanime.software](https://deepanime.software)
- - date_published: 2023-11-16T01:39:39+00:00
-
- ## Selectors
- - [https://selectors.devit.software](https://selectors.devit.software)
- - date_published: 2024-06-20T13:43:18.095639+00:00
-
- ## dry Software
- - [https://dry.software](https://dry.software)
- - date_published: 2023-11-03T00:23:05+00:00
-
- ## The Hyperniche Software Buyer | Dura
- - [https://www.dura.software](https://www.dura.software)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Enginuity | Samuel Kollát | Substack
- - [https://newsletter.enginuity.software](https://newsletter.enginuity.software)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Explaining Software Design
- - [https://explaining.software](https://explaining.software)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Software
- - [https://fietkau.software](https://fietkau.software)
- - date_published: 2024-06-14T14:02:11+00:00
-
- ## Automated Website Performance, SEO, and Accessibility Testing with Lighthouse | Foo
- - [https://foo.software](https://foo.software)
- - date_published: 2024-05-09T05:04:28.019151+00:00
-
- ## FSL
- - [https://fsl.software](https://fsl.software)
- - date_published: 2024-05-04T15:49:53.085365+00:00
-
- ## A data-driven approach to process management - Growth Software
- - [https://growth.software](https://growth.software)
- - date_published: 2021-10-21T08:55:19+00:00
-
- ## media.hoarder.software
- - [https://media.hoarder.software](https://media.hoarder.software)
- - date_published: 2024-09-21T12:57:19+00:00
-
- ## Join the Homebox Discord Server!
- - [https://discord.homebox.software](https://discord.homebox.software)
- - date_published: 2024-09-05T02:43:44+00:00
-
- ## GitHub - sysadminsmedia/homebox: A continuation of HomeBox the inventory and organization system built for the Home User
- - [https://git.homebox.software](https://git.homebox.software)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## HomeBox
- - [https://homebox.software](https://homebox.software)
- - date_published: 2024-09-05T09:53:01.748485+00:00
-
- ## Digital Transformation in Kent
- - [https://impreza.software](https://impreza.software)
- - date_published: 2024-10-21T10:47:36.037730+00:00
-
- ## JYP Software
- - [https://jyp.software](https://jyp.software)
- - date_published: 2024-07-20T15:43:51.284894+00:00
-
- ## lavender gitea
- - [https://git.lavender.software](https://git.lavender.software)
- - date_published: 2024-07-03T12:07:41.052210+00:00
-
- ## lavender software | digital product studio
- - [https://lavender.software](https://lavender.software)
- - date_published: 2022-08-28T06:33:32+00:00
 

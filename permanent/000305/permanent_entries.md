@@ -1,3 +1,117 @@
+ ## Clayton's Website
+ - [https://claytonwramsey.github.io](https://claytonwramsey.github.io)
+ - date_published: 2023-10-25T19:44:41.848803+00:00
+
+ ## The CLEAR Benchmark: Continual LEArning on Real-World Imagery
+ - [http://clear-benchmark.github.io](http://clear-benchmark.github.io)
+ - date_published: 2023-09-16T18:37:05+00:00
+
+ ## Clément Jambon
+ - [https://clementjambon.github.io](https://clementjambon.github.io)
+ - date_published: 2024-04-16T13:18:07+00:00
+
+ ## Latest Posts
+ - [https://clemherreman.github.io](https://clemherreman.github.io)
+ - date_published: 2020-06-24T08:54:09+00:00
+
+ ## Project Status | Travelogue
+ - [https://cliffano.github.io](https://cliffano.github.io)
+ - date_published: 2024-06-14T23:46:42+00:00
+
+ ## ClimateNeRF
+ - [https://climatenerf.github.io](https://climatenerf.github.io)
+ - date_published: 2023-10-03T06:22:59+00:00
+
+ ## AAAI 2024 Spring Symposium on Clinical Foundation Models
+ - [https://clinicalfoundationmodels.github.io](https://clinicalfoundationmodels.github.io)
+ - date_published: 2024-03-24T04:06:43+00:00
+
+ ## Cheng Lin - Homepage
+ - [https://clinplayer.github.io](https://clinplayer.github.io)
+ - date_published: 2024-07-24T05:49:58.221497+00:00
+
+ ## Clinton Wang
+ - [https://clintonjwang.github.io](https://clintonjwang.github.io)
+ - date_published: 2024-07-19T19:41:42+00:00
+
+ ## CLIPort
+ - [https://cliport.github.io](https://cliport.github.io)
+ - date_published: 2023-04-10T21:35:26+00:00
+
+ ## Clojure Library Overview
+ - [https://clojure.github.io](https://clojure.github.io)
+ - date_published: 2019-12-03T16:40:45+00:00
+
+ ## About
+ - [https://cloudpilot-emu.github.io](https://cloudpilot-emu.github.io)
+ - date_published: 2024-06-03T18:31:21+00:00
+
+ ## cmlzaGk //
+ - [https://cmlzagk.github.io](https://cmlzagk.github.io)
+ - date_published: 2021-12-15T00:00:00+00:00
+
+ ## 17-214 course homepage
+ - [https://cmu-17-214.github.io](https://cmu-17-214.github.io)
+ - date_published: 2024-04-28T03:37:51.842892+00:00
+
+ ## CS 11-711: Advanced NLP
+ - [https://cmu-anlp.github.io](https://cmu-anlp.github.io)
+ - date_published: 2023-11-30T17:15:54+00:00
+
+ ## Matthew C. Davis
+ - [https://cmumatt.github.io](https://cmumatt.github.io)
+ - date_published: 2023-10-25T08:49:15.702993+00:00
+ - tags: ['personal']
+
+ ## 11-777 MMML
+ - [https://cmu-mmml.github.io](https://cmu-mmml.github.io)
+ - date_published: 2024-03-23T20:39:36+00:00
+
+ ## cmus - C* Music Player
+ - [https://cmus.github.io](https://cmus.github.io)
+ - date_published: 2023-12-30T13:52:01+00:00
+ - tags: ['cli tool', 'media player', 'music player']
+
+ ## CMUSphinx Open Source Speech Recognition
+ - [https://cmusphinx.github.io](https://cmusphinx.github.io)
+ - date_published: 2023-12-28T00:00:00+00:00
+
+ ## Jiashu Xu 徐家澍
+ - [https://cnut1648.github.io](https://cnut1648.github.io)
+ - date_published: 2024-06-06T20:43:51+00:00
+
+ ## Pythonicity
+ - [https://coady.github.io](https://coady.github.io)
+ - date_published: 2023-11-25T03:39:41.735379+00:00
+
+ ## Seong Joon Oh
+ - [https://coallaoh.github.io](https://coallaoh.github.io)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Cobalt::A static site generator
+ - [https://cobalt-org.github.io](https://cobalt-org.github.io)
+ - date_published: 2024-07-12T03:51:01+00:00
+
+ ## Cobbler - Linux install and update server
+ - [https://cobbler.github.io](https://cobbler.github.io)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Patai Gergely
+ - [https://cobbpg.github.io](https://cobbpg.github.io)
+ - date_published: 2023-11-16T00:32:47.215451+00:00
+
+ ## Copenhagen Causality Lab (CoCaLa)
+ - [https://cocala.github.io](https://cocala.github.io)
+ - date_published: 2024-05-02T12:04:49+00:00
+
+ ## Cocktail Standards
+ - [https://cocktailstandards.github.io](https://cocktailstandards.github.io)
+ - date_published: 2023-09-17T13:11:58+00:00
+
+ ## Welcome to Code Cracker!
+ - [https://code-cracker.github.io](https://code-cracker.github.io)
+ - date_published: 2017-05-03T13:13:41+00:00
+
  ## Execution-Based Evaluation for Open-Domain Code Generation
  - [https://code-eval.github.io](https://code-eval.github.io)
  - date_published: 2023-01-06T17:30:00+00:00
@@ -3923,118 +4037,4 @@ for Articulated Avatars
  ## Jason Eckert's Website and Blog
  - [https://jasoneckert.github.io](https://jasoneckert.github.io)
  - date_published: 2023-10-25T19:47:12.079736+00:00
-
- ## Jason, a BDI agent programming language
- - [https://jason-lang.github.io](https://jason-lang.github.io)
- - date_published: 2024-10-16T19:34:41+00:00
-
- ## Jason Ma
- - [https://jasonma2016.github.io](https://jasonma2016.github.io)
- - date_published: 2024-05-30T06:26:46+00:00
-
- ## Welcome! | 
-  Jason R.C. Nurse
- - [https://jasonnurse.github.io](https://jasonnurse.github.io)
- - date_published: 2024-08-26T14:50:24+00:00
-
- ## Puyuan Peng
- - [https://jasonppy.github.io](https://jasonppy.github.io)
- - date_published: 2024-03-29T15:52:23.348104+00:00
-
- ## Shengyi Qian
- - [https://jasonqsy.github.io](https://jasonqsy.github.io)
- - date_published: 2024-06-29T04:46:24+00:00
-
- ## Jasper | Control everything with your voice
- - [https://jasperproject.github.io](https://jasperproject.github.io)
- - date_published: 2020-08-30T15:03:56+00:00
-
- ## Java Decompiler
- - [http://java-decompiler.github.io](http://java-decompiler.github.io)
- - date_published: 2019-12-25T14:57:06+00:00
-
- ## Javier Rando | AI Safety and Security
- - [https://javirandor.github.io](https://javirandor.github.io)
- - date_published: 2024-10-24T12:33:49+00:00
-
- ## Junfeng Guan
- - [https://jaydeng1019.github.io](https://jaydeng1019.github.io)
- - date_published: 2024-05-19T08:56:32+00:00
-
- ## Jie(Jay) Mei
- - [https://jay-ipl.github.io](https://jay-ipl.github.io)
- - date_published: 2024-01-13T21:09:42+00:00
-
- ## Jie Lei
- - [https://jayleicn.github.io](https://jayleicn.github.io)
- - date_published: 2023-08-18T20:21:20+00:00
-
- ## Jay Patil
- - [https://jayp570.github.io](https://jayp570.github.io)
- - date_published: 2024-07-23T23:13:41.987977+00:00
-
- ## Wang Chujiang (王楚江) 小弟调调™ - (͡·̮̃·̃) 撸码的乐趣 💯 ，“人没了，™代码还在”
- - [https://jaywcjlove.github.io](https://jaywcjlove.github.io)
- - date_published: 2024-07-02T10:55:54+00:00
-
- ## Jasmine Collins
- - [https://jazcollins.github.io](https://jazcollins.github.io)
- - date_published: 2024-05-31T20:19:41+00:00
-
- ## Jasmine Otto
- - [https://jazztap.github.io](https://jazztap.github.io)
- - date_published: 2024-07-23T21:15:55.219589+00:00
-
- ## Jia-Bin Huang
- - [https://jbhuang0604.github.io](https://jbhuang0604.github.io)
- - date_published: 2024-05-04T15:12:22.204901+00:00
-
- ## About me
- - [https://jbwasse2.github.io](https://jbwasse2.github.io)
- - date_published: 2024-02-28T21:08:55+00:00
-
- ## :wave:
- - [https://jcgraybill.github.io](https://jcgraybill.github.io)
- - date_published: 2024-04-28T01:59:31.792847+00:00
-
- ## academicpages is a ready-to-fork GitHub Pages template for academic personal websites
- - [https://jcn16.github.io](https://jcn16.github.io)
- - date_published: 2012-03-01T00:00:00+00:00
-
- ## John Colagioia, Eclecticly Collecting
- - [https://jcolag.github.io](https://jcolag.github.io)
- - date_published: 2021-12-28T11:18:58+00:00
-
- ## jcrd
- - [https://jcrd.github.io](https://jcrd.github.io)
- - date_published: 2023-02-23T16:07:50+00:00
-
- ## Clean Blog
- - [http://jcsilva.github.io](http://jcsilva.github.io)
- - date_published: 2018-05-26T13:15:22+00:00
-
- ## luobobo | Ryz Blog
- - [https://jdkhnjggf.github.io](https://jdkhnjggf.github.io)
- - date_published: 2024-06-11T13:15:09+00:00
-
- ## Jared Dunnmon
- - [https://jdunnmon.github.io](https://jdunnmon.github.io)
- - date_published: 2024-01-02T05:15:13+00:00
-
- ## Jay Vakil
- - [https://jdvakil.github.io](https://jdvakil.github.io)
- - date_published: 2024-05-04T15:29:39.708819+00:00
- - tags: ['personal']
-
- ## Xiaojuan Wang
- - [https://jeanne-wang.github.io](https://jeanne-wang.github.io)
- - date_published: 2024-06-17T00:28:19+00:00
-
- ## Jean-Baptiste Jeannin
- - [https://jeannin.github.io](https://jeannin.github.io)
- - date_published: 2023-12-22T20:37:22+00:00
-
- ## Jeff Liang
- - [https://jeff-liangf.github.io](https://jeff-liangf.github.io)
- - date_published: 2024-06-21T05:34:33+00:00
 

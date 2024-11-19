@@ -1,3 +1,11 @@
+ ## API Student Application
+ - [https://find.apiabroad.com](https://find.apiabroad.com)
+ - date_published: 2024-07-12T23:50:51.005355+00:00
+
+ ## API Bakery - Build your backend API service in seconds
+ - [https://apibakery.com](https://apibakery.com)
+ - date_published: 2023-10-25T12:42:36.142559+00:00
+
  ## Swagger UI
  - [https://apiv2.apicenteral.com](https://apiv2.apicenteral.com)
  - date_published: 2024-05-08T03:06:03.258342+00:00
@@ -4035,12 +4043,4 @@ my personal blog
  ## ArcGIS
  - [https://utility.arcgisonline.com](https://utility.arcgisonline.com)
  - date_published: 2024-08-19T10:37:36.309844+00:00
-
- ## Archaeology News Online Magazine
- - [https://archaeologymag.com](https://archaeologymag.com)
- - date_published: 2024-10-25T11:09:50.994227+00:00
-
- ## Archaeoramblings
- - [https://archaeoramblings.com](https://archaeoramblings.com)
- - date_published: 2024-06-21T00:00:00+00:00
 

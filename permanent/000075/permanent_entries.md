@@ -1,3 +1,27 @@
+ ## 职业倾向测评_通用能力测评-人才测评
+ - [https://assessment.cjol.com](https://assessment.cjol.com)
+ - date_published: 2024-10-25T11:58:55.920523+00:00
+
+ ## 简历服务_简历模板_简历指导_中国人才热线
+ - [https://cv.cjol.com](https://cv.cjol.com)
+ - date_published: 2024-10-25T11:58:52.413836+00:00
+
+ ## 在线职业技能培训课程 - 人才热线旗下培训网站
+ - [https://learning.cjol.com](https://learning.cjol.com)
+ - date_published: 2024-10-25T11:59:34.890633+00:00
+
+ ## 【找工作-招聘】-人才热线
+ - [https://m.cjol.com](https://m.cjol.com)
+ - date_published: 2024-10-25T11:58:07.408249+00:00
+
+ ## 深圳人才政策_人才引进_积分入户-人才热线
+ - [https://policy.cjol.com](https://policy.cjol.com)
+ - date_published: 2024-10-25T11:57:43.895800+00:00
+
+ ## 薪酬查询_毕业生薪酬_薪酬报告 - 人才热线
+ - [https://salary.cjol.com](https://salary.cjol.com)
+ - date_published: 2024-10-25T11:59:54.877813+00:00
+
  ## 招聘信息_人才热线
  - [https://s.cjol.com](https://s.cjol.com)
  - date_published: 2024-10-25T11:59:52.334843+00:00
@@ -4005,28 +4029,4 @@
  ## Final Fantasy Union | Everything Final Fantasy In One Place
  - [https://wordpress-610925-1984885.cloudwaysapps.com](https://wordpress-610925-1984885.cloudwaysapps.com)
  - date_published: 2024-07-11T16:39:08.358499+00:00
-
- ## Maven Securities - Advanced Trading & Technology
- - [https://wordpress-751550-4722201.cloudwaysapps.com](https://wordpress-751550-4722201.cloudwaysapps.com)
- - date_published: 2024-07-12T15:53:03+00:00
-
- ## Divi Plugins and Premium Extensions for WordPress and WooCommerce
- - [https://wordpress-810594-4151234.cloudwaysapps.com](https://wordpress-810594-4151234.cloudwaysapps.com)
- - date_published: 2024-10-30T14:13:18.595175+00:00
-
- ## Stacey on IoT | Internet of Things news and analysis
- - [https://wordpress-955070-3329068.cloudwaysapps.com](https://wordpress-955070-3329068.cloudwaysapps.com)
- - date_published: 2024-08-19T05:28:27.991015+00:00
-
- ## Startseite - BLANK 2.0
- - [https://wordpress-975385-3571420.cloudwaysapps.com](https://wordpress-975385-3571420.cloudwaysapps.com)
- - date_published: 2024-06-15T15:21:24+00:00
-
- ## Cloudwiry
- - [https://app.cloudwiry.com](https://app.cloudwiry.com)
- - date_published: 2024-10-15T10:02:23+00:00
-
- ## CloudX | Nearshore Software Development
- - [http://cloudx.com](http://cloudx.com)
- - date_published: 2024-06-23T08:15:00.323056+00:00
 

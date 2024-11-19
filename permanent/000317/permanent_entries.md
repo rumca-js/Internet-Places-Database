@@ -1,3 +1,123 @@
+ ## Istituto Istruzione Superiore "Galilei – Di Palo"
+ - [https://www.galileidipalo.edu.it](https://www.galileidipalo.edu.it)
+ - date_published: 2024-10-13T07:28:09.335931+00:00
+
+ ## Liceo 'Galilei-Moro'
+ - [https://www.galileimoro.edu.it](https://www.galileimoro.edu.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## ISTITUTO DI ISTRUZIONE SUPERIORE A. GASTALDI - G.C. ABBA
+ - [https://www.gastaldi-abba.edu.it](https://www.gastaldi-abba.edu.it)
+ - date_published: 2024-10-13T07:23:47.582139+00:00
+
+ ## Liceo Scientifico “G.B. Grassi”
+ - [http://gbgrassi.edu.it](http://gbgrassi.edu.it)
+ - date_published: 2024-10-13T07:23:06.427811+00:00
+
+ ## ITET G. Caruso – La scuola di oggi per la vita del futuro
+ - [https://gcaruso.edu.it](https://gcaruso.edu.it)
+ - date_published: 2024-10-13T06:56:37.572919+00:00
+
+ ## ISTITUTO DI ISTRUZIONE SUPERIORE "F. Giordani" – Caserta
+ - [https://www.giordanicaserta.edu.it](https://www.giordanicaserta.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## Istituto Istruzione Superiore Giordano Bruno Perugia
+ - [https://www.giordanobrunoperugia.edu.it](https://www.giordanobrunoperugia.edu.it)
+ - date_published: 2024-10-13T06:54:54.052426+00:00
+
+ ## Subpage
+ - [https://www.giovannifalcone.edu.it](https://www.giovannifalcone.edu.it)
+ - date_published: 2024-10-13T07:08:52+00:00
+
+ ## Home Page | Istituto di Istruzione Superiore "Michele Giua"
+ - [https://www.giua.edu.it](https://www.giua.edu.it)
+ - date_published: 2024-10-13T07:17:31.321419+00:00
+
+ ## Istituto Statale di Istruzione Superiore “Piero Gobetti – Alessandro Volta”
+ - [https://www.gobettivolta.edu.it](https://www.gobettivolta.edu.it)
+ - date_published: 2024-10-13T07:09:55.316112+00:00
+
+ ## Home - I.T.I. "Guido Donegani" - Crotone
+ - [https://www.guidodonegani.edu.it](https://www.guidodonegani.edu.it)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Istituto Omnicomprensivo Padula – Istituto Comprensivo e Liceo Scientifico "C. Pisacane"
+ - [https://www.icpadula.edu.it](https://www.icpadula.edu.it)
+ - date_published: 2024-10-13T07:02:54.597511+00:00
+
+ ## Home - Istituto Omnicomprensivo Stigliano
+ - [https://iisalderisio.edu.it](https://iisalderisio.edu.it)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Istituto d'Istruzione Superiore "A. Meucci"
+ - [https://iisameucci.edu.it](https://iisameucci.edu.it)
+ - date_published: 2024-10-12T11:18:31+00:00
+
+ ## IIS Rita Levi Montalcini
+ - [https://www.iisap.edu.it](https://www.iisap.edu.it)
+ - date_published: 2024-10-13T07:07:01.084801+00:00
+
+ ## Istituto Di Istruzione Superiore ASSTEAS
+ - [https://www.iisassteas.edu.it](https://www.iisassteas.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## I.I.S. "A. Avogadro" di Vercelli
+ - [https://iisavogadrovc.edu.it](https://iisavogadrovc.edu.it)
+ - date_published: 2024-10-13T07:06:06.642576+00:00
+
+ ## IIS Badoni
+ - [https://www.iisbadoni.edu.it](https://www.iisbadoni.edu.it)
+ - date_published: 2024-10-13T06:58:49.068698+00:00
+
+ ## Istituto D'Istruzione Superiore  "BERNALDA FERRANDINA"
+ - [https://iisbernaldaferrandina.edu.it](https://iisbernaldaferrandina.edu.it)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## I.I.S. "Biagio PASCAL" - Romentino (NO)
+ - [https://www.iisbiagiopascal.edu.it](https://www.iisbiagiopascal.edu.it)
+ - date_published: 2024-10-13T07:15:55.238962+00:00
+
+ ## IIS E.SICILIANO
+ - [https://www.iisbisignano.edu.it](https://www.iisbisignano.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## IIS Castelli Brescia
+ - [https://www.iiscastelli.edu.it](https://www.iiscastelli.edu.it)
+ - date_published: 2023-04-04T10:41:46+00:00
+
+ ## Istituto Istruzione Superiore "S. Lopiano" - Cetraro
+ - [https://www.iiscetraro.edu.it](https://www.iiscetraro.edu.it)
+ - date_published: 2024-10-13T07:04:40.762881+00:00
+
+ ## IIS Ferrari - Chiaravalle Centrale | Sito web ufficiale
+ - [https://www.iischiaravalle.edu.it](https://www.iischiaravalle.edu.it)
+ - date_published: 2024-10-13T07:09:58.530724+00:00
+
+ ## Istituto Istruzione Superiore Crocetti Cerulli Giulianova
+ - [https://www.iiscrocetticerulli.edu.it](https://www.iiscrocetticerulli.edu.it)
+ - date_published: 2024-10-13T06:57:36.053153+00:00
+
+ ## I.I.S. "Da Vinci-De Giorgio"
+ - [https://www.iisdavincidegiorgio.edu.it](https://www.iisdavincidegiorgio.edu.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Homepage del portale scolastico
+ - [https://www.iisdavincisapri.edu.it](https://www.iisdavincisapri.edu.it)
+ - date_published: 2024-10-13T06:50:10+00:00
+
+ ## Home
+ - [https://www.iisdetittafermi.edu.it](https://www.iisdetittafermi.edu.it)
+ - date_published: 2024-10-10T17:21:14+00:00
+
+ ## IIS Dionigi Scano - Ottone Bacaredda - Home
+ - [https://www.iisdionigiscano.edu.it](https://www.iisdionigiscano.edu.it)
+ - date_published: 2024-10-13T06:49:55+00:00
+
+ ## Home
+ - [https://www.iiseinaudialba.edu.it](https://www.iiseinaudialba.edu.it)
+ - date_published: 2024-10-13T07:24:29+00:00
+
  ## IIS Einaudi - Scarpa
  - [https://www.iiseinaudiscarpa.edu.it](https://www.iiseinaudiscarpa.edu.it)
  - date_published: 2024-10-13T07:28:51.337575+00:00
@@ -3888,125 +4008,4 @@
  ## Dot Next - Sviluppo App Mobile, Realizzazione Siti Web, Comunicazione
  - [https://www.dotnext.it](https://www.dotnext.it)
  - date_published: 2024-07-12T05:19:02.590293+00:00
-
- ## Dove Siamo Nel Mondo, Servizi Unità di Crisi del Ministero degli Affari Esteri e della Cooperazione Internazionale
- - [https://dovesiamonelmondo.it](https://dovesiamonelmondo.it)
- - date_published: 2024-05-08T11:56:56+00:00
-
- ## Panoramica di stato
- - [https://downdetector.it](https://downdetector.it)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## BVA Doxa - Ricerche di Mercato
- - [http://www.doxa.it](http://www.doxa.it)
- - date_published: 2023-07-26T08:56:48+00:00
-
- ## Homepage
- - [https://www.dpoinnovation.it](https://www.dpoinnovation.it)
- - date_published: 2024-07-02T21:27:10.716622+00:00
-
- ## dragonemelone - design studio
- - [http://www.dragonemelone.it](http://www.dragonemelone.it)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Andrea Veri's Blog · Me, myself and I
- - [https://www.dragonsreach.it](https://www.dragonsreach.it)
- - date_published: 2023-01-25T23:17:47+00:00
-
- ## drayk.it — Make AI Drake Songs About Anything!
- - [https://drayk.it](https://drayk.it)
- - date_published: 2024-06-19T18:50:55.499961+00:00
-
- ## Home - DreamersLAB
- - [http://www.dreamerslab.it](http://www.dreamerslab.it)
- - date_published: 2024-10-22T12:43:16.072332+00:00
-
- ## DriveK ti aiuta a trovare la tua nuova auto
- - [https://drivek.it](https://drivek.it)
- - date_published: 2024-05-12T06:45:45.944898+00:00
-
- ## Home - Veicoli Commerciali
- - [https://veicoli-commerciali.drivek.it](https://veicoli-commerciali.drivek.it)
- - date_published: 2024-07-16T19:14:34.278169+00:00
-
- ## DS Auto – Travelling is an art - DS Automobiles IT
- - [https://www.dsautomobiles.it](https://www.dsautomobiles.it)
- - date_published: 2024-10-28T13:51:40+00:00
-
- ## Auto Usate Garantite DS | DS Certified IT
- - [https://www.dscertified.dsautomobiles.it](https://www.dscertified.dsautomobiles.it)
- - date_published: 2024-10-28T15:00:19+00:00
-
- ## Duckbill_communication designer – grafica_copywriting_web_social media
- - [http://www.duckbill.it](http://www.duckbill.it)
- - date_published: 2024-07-18T08:13:18.672318+00:00
-
- ## Due chiacchiere, la dimora virtuale di Camu
- - [https://duechiacchiere.it](https://duechiacchiere.it)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Produttore di batterie al consumo n. 1 al mondo - Duracell
- - [https://www.duracell.it](https://www.duracell.it)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## D/Vision Lab | Tecnologie avanzate di visualizzazione e analisi dati
- - [https://dvisionlab.it](https://dvisionlab.it)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Sito e Store Ufficiale Dyson Online
- - [https://www.dyson.it](https://www.dyson.it)
- - date_published: 2024-07-07T01:56:48.992727+00:00
-
- ## Login • eADV
- - [https://panel.eadv.it](https://panel.eadv.it)
- - date_published: 2024-07-04T13:17:18.455566+00:00
-
- ## eADV - Concessionaria Pubblicitaria Online in Programmatic
- - [https://www.eadv.it](https://www.eadv.it)
- - date_published: 2024-04-10T06:37:18+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.ebay.it](https://cart.payments.ebay.it)
- - date_published: 2024-06-16T23:19:38.187099+00:00
-
- ## Community di eBay
- - [https://community.ebay.it](https://community.ebay.it)
- - date_published: 2024-06-16T23:19:33.193676+00:00
-
- ## eBay | Il Marketplace delle passioni
- - [https://ebay.it](https://ebay.it)
- - date_published: 2024-10-15T10:29:09.862612+00:00
-
- ## eBay | Il Marketplace delle passioni
- - [https://m.ebay.it](https://m.ebay.it)
- - date_published: 2024-10-15T10:30:50.209437+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.it](https://mesg.ebay.it)
- - date_published: 2024-06-16T23:19:43.512960+00:00
-
- ## eBay | Il Marketplace delle passioni
- - [https://pages.ebay.it](https://pages.ebay.it)
- - date_published: 2024-06-16T23:16:04.669636+00:00
-
- ## Homepage | eBay Partner Network
- - [https://partnernetwork.ebay.it](https://partnernetwork.ebay.it)
- - date_published: 2024-06-16T23:19:36.951138+00:00
-
- ## Acquistare su eBay | eBay.it
- - [https://sicurezza.ebay.it](https://sicurezza.ebay.it)
- - date_published: 2024-10-15T10:40:08+00:00
-
- ## Misure di sicurezza
- - [https://signin.ebay.it](https://signin.ebay.it)
- - date_published: 2024-06-16T23:19:48.287470+00:00
-
- ## Home | Spazio venditori
- - [https://spaziovenditori.ebay.it](https://spaziovenditori.ebay.it)
- - date_published: 2024-06-16T23:19:34.949651+00:00
-
- ## eBay VeRO - Il programma per la segnalazione di violazione dei diritti di
-      proprietà.
- - [https://vero.ebay.it](https://vero.ebay.it)
- - date_published: 2024-06-16T22:35:09+00:00
 

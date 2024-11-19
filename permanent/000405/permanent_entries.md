@@ -1,3 +1,144 @@
+ ## SILVA
+ - [https://novasilva.blogs.sapo.pt](https://novasilva.blogs.sapo.pt)
+ - date_published: 2024-05-10T06:16:27.045173+00:00
+
+ ## O diário de Vânia
+ - [https://odiariodevania.blogs.sapo.pt](https://odiariodevania.blogs.sapo.pt)
+ - date_published: 2024-06-10T06:58:43.886060+00:00
+
+ ## ODigital - Jornal Online
+ - [https://odigital.sapo.pt](https://odigital.sapo.pt)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Jornal NOVO
+ - [https://onovo.sapo.pt](https://onovo.sapo.pt)
+ - date_published: 2024-06-10T06:54:57.900698+00:00
+
+ ## | O Primeiro de Janeiro
+ - [https://oprimeirodejaneiro.sapo.pt](https://oprimeirodejaneiro.sapo.pt)
+ - date_published: 2024-06-10T06:57:54.800994+00:00
+
+ ## A Origem das Espécies
+ - [http://origemdasespecies.blogs.sapo.pt](http://origemdasespecies.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:33:52.852299+00:00
+
+ ## O Último Abencerragem
+ - [http://outlimoabencerragem.blogs.sapo.pt](http://outlimoabencerragem.blogs.sapo.pt)
+ - date_published: 2024-07-12T21:22:27.542466+00:00
+
+ ## Pau Para Toda a Obra
+ - [https://pauparatodaaobra.blogs.sapo.pt](https://pauparatodaaobra.blogs.sapo.pt)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## PME Magazine
+ - [https://pmemagazine.sapo.pt](https://pmemagazine.sapo.pt)
+ - date_published: 2024-06-10T06:54:55.429920+00:00
+
+ ## Poligrafo
+ - [https://poligrafo.sapo.pt](https://poligrafo.sapo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Pplware
+ - [https://pplware.sapo.pt](https://pplware.sapo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Primeiro Minuto - Primeiro Minuto
+ - [https://primeirominuto.sapo.pt](https://primeirominuto.sapo.pt)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## SAPO Promos
+ - [https://promos.sapo.pt](https://promos.sapo.pt)
+ - date_published: 2024-06-10T06:55:27.028388+00:00
+
+ ## A Radio Alto Ave do concelho de Vieira do Minho
+ - [https://radioaltoave.sapo.pt](https://radioaltoave.sapo.pt)
+ - date_published: 2024-06-10T06:55:09.168793+00:00
+
+ ## Início
+ - [https://radioboanova.sapo.pt](https://radioboanova.sapo.pt)
+ - date_published: 2020-09-12T03:01:30+00:00
+
+ ## Rádio Castelo Branco
+ - [https://radiocastelobranco.sapo.pt](https://radiocastelobranco.sapo.pt)
+ - date_published: 2024-06-10T07:00:22.032442+00:00
+
+ ## Rádio Ribatejo – Damos Música à sua vida!
+ - [https://radioribatejo.sapo.pt](https://radioribatejo.sapo.pt)
+ - date_published: 2024-06-10T06:54:53.805029+00:00
+
+ ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
+ - [https://radiosines.sapo.pt](https://radiosines.sapo.pt)
+ - date_published: 2024-06-10T06:59:26.891763+00:00
+
+ ## Rádio Clube Aguiarense
+ - [https://rcaguiarense.sapo.pt](https://rcaguiarense.sapo.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Rádio Clube de Angra |  A Voz da Terceira
+ - [https://rcangra.sapo.pt](https://rcangra.sapo.pt)
+ - date_published: 2024-06-10T06:57:26.373180+00:00
+
+ ## SAPO Vídeos
+ - [https://rd.videos.sapo.pt](https://rd.videos.sapo.pt)
+ - date_published: 2024-06-10T07:00:23.557510+00:00
+
+ ## Região de Coimbra - Imprensa Regional
+ - [https://regiaodecoimbra.sapo.pt](https://regiaodecoimbra.sapo.pt)
+ - date_published: 2024-09-05T15:01:18.762309+00:00
+
+ ## Região de Lisboa - Imprensa Regional
+ - [https://regiaodelisboa.sapo.pt](https://regiaodelisboa.sapo.pt)
+ - date_published: 2024-09-05T15:01:24.393314+00:00
+
+ ## Renascença - Música para sentir, informação para decidir.
+ - [https://rr.sapo.pt](https://rr.sapo.pt)
+ - date_published: 2024-09-05T15:05:58.850271+00:00
+
+ ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
+ - [https://sapo.pt](https://sapo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+ - tags: ['search engine', 'news']
+
+ ## Setúbal Informação - Imprensa Regional
+ - [https://setubalinformacao.sapo.pt](https://setubalinformacao.sapo.pt)
+ - date_published: 2024-09-05T15:01:26.794700+00:00
+
+ ## Sobre SAPO
+ - [https://sobre.sapo.pt](https://sobre.sapo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Jornal SOL - notícias, política, opinião, fotos e podcasts
+ - [https://sol.sapo.pt](https://sol.sapo.pt)
+ - date_published: 2024-06-10T06:54:37.097393+00:00
+
+ ## Superbrands Portugal
+ - [https://superbrands.sapo.pt](https://superbrands.sapo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## SAPO Tek
+ - [https://tek.sapo.pt](https://tek.sapo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Sapo Tempo
+ - [https://tempo.sapo.pt](https://tempo.sapo.pt)
+ - date_published: 2024-04-04T14:53:17+00:00
+
+ ## Terras da Guarda - Imprensa Regional
+ - [https://terrasdaguarda.sapo.pt](https://terrasdaguarda.sapo.pt)
+ - date_published: 2024-06-10T07:00:06.084489+00:00
+
+ ## Terras de Aveiro - Imprensa Regional
+ - [https://terrasdeaveiro.sapo.pt](https://terrasdeaveiro.sapo.pt)
+ - date_published: 2024-06-10T06:56:25.211606+00:00
+
+ ## Terras de Braga - Imprensa Regional
+ - [https://terrasdebraga.sapo.pt](https://terrasdebraga.sapo.pt)
+ - date_published: 2024-06-10T06:58:30.647058+00:00
+
+ ## Terras de Viana do Castelo - Imprensa Regional
+ - [https://terrasdevianadocastelo.sapo.pt](https://terrasdevianadocastelo.sapo.pt)
+ - date_published: 2024-09-05T15:01:56.354970+00:00
+
  ## Terras de Viseu - Imprensa Regional
  - [https://terrasdeviseu.sapo.pt](https://terrasdeviseu.sapo.pt)
  - date_published: 2024-09-05T15:01:37.686645+00:00
@@ -3894,145 +4035,4 @@
  ## MARO SCAN - The block explorer for Maro Platform
  - [https://scan.ma.ro](https://scan.ma.ro)
  - date_published: 2024-09-24T01:25:12.661785+00:00
-
- ## Marius Bancila's Blog
- - [https://mariusbancila.ro](https://mariusbancila.ro)
- - date_published: 2023-10-25T09:24:29.494420+00:00
- - tags: ['personal']
-
- ## Mauro Torrez
- - [https://mau.ro](https://mau.ro)
- - date_published: 2023-03-27T14:38:34+00:00
-
- ## Sistemul Medical MedLife
- - [https://www.medlife.ro](https://www.medlife.ro)
- - date_published: 2024-10-18T23:54:12.955230+00:00
-
- ## Site de întâlniri: găsește persoane singure serioase | Meetic
- - [https://www.meetic.ro](https://www.meetic.ro)
- - date_published: 2024-09-04T11:50:02.936595+00:00
-
- ## Smart Home și accesorii premium pentru laptop-uri la Mentor-Market.ro
- - [https://mentor-market.ro](https://mentor-market.ro)
- - date_published: 2024-05-11T07:20:22.893447+00:00
-
- ## Vremea.
- - [https://meteofor.ro](https://meteofor.ro)
- - date_published: 2024-06-17T17:20:14.987285+00:00
-
- ## Meteo & Radar România
- - [https://meteoradar.ro](https://meteoradar.ro)
- - date_published: 2024-05-07T13:25:25.231155+00:00
-
- ## Meteo Romania | Site-ul Administratiei Nationale de Meteorologie
- - [https://meteoromania.ro](https://meteoromania.ro)
- - date_published: 2024-04-28T02:22:57.984307+00:00
-
- ## Scoala Nationala de Meteorologie  < e-Learning platform >
- - [http://snm.meteoromania.ro](http://snm.meteoromania.ro)
- - date_published: 2024-08-07T22:45:12.231596+00:00
-
- ## Metropolitan Life
- - [https://www.metropolitanlife.ro](https://www.metropolitanlife.ro)
- - date_published: 2024-07-19T16:45:06+00:00
-
- ## Minus Zero
- - [https://minus-ze.ro](https://minus-ze.ro)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Home | Ministerul Mediului
- - [http://www.mmediu.ro](http://www.mmediu.ro)
- - date_published: 2024-08-07T22:45:11.160969+00:00
-
- ## Idei de amenajări interioare pentru casa ta
- - [https://blog.mobexpert.ro](https://blog.mobexpert.ro)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Fundația Mobexpert
- - [https://fundatia.mobexpert.ro](https://fundatia.mobexpert.ro)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Mobexpert: mobilier, canapele, decorațiuni în magazine și online
- - [https://mobexpert.ro](https://mobexpert.ro)
- - date_published: 2024-06-16T04:05:00.077514+00:00
-
- ## Home
- - [https://monepos.ro](https://monepos.ro)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Arborele de familie gratuit, genealogia, istoria familiei și testarea ADN-ului
- - [https://www.myheritage.ro](https://www.myheritage.ro)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## National Geographic pentru toți oriunde
- - [https://www.natgeo.ro](https://www.natgeo.ro)
- - date_published: 2024-06-16T22:11:05.810652+00:00
-
- ## Bine ati venit la Nestle!
- - [http://www.nestle.ro](http://www.nestle.ro)
- - date_published: 2024-09-14T20:21:53+00:00
-
- ## Netograf
- - [https://www.netograf.ro](https://www.netograf.ro)
- - date_published: 2021-09-27T07:44:21+00:00
-
- ## Știri de ultimă oră - Agenție Știri - Ultimele ştiri - Știri online | News.ro
- - [https://www.news.ro](https://www.news.ro)
- - date_published: 2024-10-18T23:54:42.060960+00:00
-
- ## Platforma Email Marketing si Trimitere Newsletter - NewsMAN
- - [https://www.newsman.ro](https://www.newsman.ro)
- - date_published: 2024-09-19T15:00:12.657245+00:00
-
- ## Newsweek Romania - stiri, analize, opinii, investigatii, politica, business, investigatii, politica internationala
- - [https://newsweek.ro](https://newsweek.ro)
- - date_published: 2024-07-19T03:23:58.838026+00:00
-
- ## Nexxon - Anvelope și camere de aer pentru orice aplicație
- - [https://www.nexxon.ro](https://www.nexxon.ro)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## Nomenius - Inregistrare marci la OSIM, EUIPO & WIPO
- - [https://nomenius.ro](https://nomenius.ro)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Citroën | Oferte Citroën
- - [https://ofertecitroen.ro](https://ofertecitroen.ro)
- - date_published: 2024-05-10T04:43:03.756990+00:00
-
- ## Anunturi Gratuite - Peste 4 milioane anunturi - OLX.ro
- - [https://olx.ro](https://olx.ro)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Top Casino Online din România 2023 - Online Cazinouri Bonus
- - [https://onlinecazinouribonus.ro](https://onlinecazinouribonus.ro)
- - date_published: 2023-06-09T09:22:45+00:00
-
- ## OPCOM
- - [https://opcom.ro](https://opcom.ro)
- - date_published: 2024-05-20T02:45:51.034945+00:00
-
- ## Opel Romania Site Oficial | Autovehicule Noi | Oferte
- - [https://www.opel.ro](https://www.opel.ro)
- - date_published: 2024-07-11T08:57:52+00:00
-
- ## SFA
- - [https://optimallsfa.ro](https://optimallsfa.ro)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Magazin de jocuri și accesorii gaming | Ozone.ro
- - [https://www.ozone.ro](https://www.ozone.ro)
- - date_published: 2024-10-17T07:12:22.891848+00:00
-
- ## Popp & Asociații
- - [https://www.p-a.ro](https://www.p-a.ro)
- - date_published: 2019-08-09T12:03:54+00:00
-
- ## Scutece, Îngrijirea Bebelușului și Informații pentru Părinți | Pampers RO
- - [https://www.pampers.ro](https://www.pampers.ro)
- - date_published: 2024-10-28T22:48:56+00:00
-
- ## Panorama - The Business of Tomorrow
- - [https://panorama.ro](https://panorama.ro)
- - date_published: 2024-10-18T23:54:14.001088+00:00
 

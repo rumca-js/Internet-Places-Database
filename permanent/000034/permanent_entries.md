@@ -1,3 +1,7 @@
+ ## Universidad Central – Sitio oficial
+ - [https://uxxi.ucentral.edu.co](https://uxxi.ucentral.edu.co)
+ - date_published: 2024-09-09T23:03:28+00:00
+
  ## Dirección de Educación Virtual
  - [https://virtual.ucentral.edu.co](https://virtual.ucentral.edu.co)
  - date_published: 2023-09-06T20:03:12+00:00
@@ -4037,8 +4041,4 @@
  ## Thea "Stargirl" Flowers | Creative technologist & open source advocate
  - [https://thea.codes](https://thea.codes)
  - date_published: 2024-03-28T21:26:38+00:00
-
- ## Witch Hazel, A text editor color theme by Stargirl Flowers
- - [https://witchhazel.thea.codes](https://witchhazel.thea.codes)
- - date_published: 2024-05-21T15:58:09+00:00
 

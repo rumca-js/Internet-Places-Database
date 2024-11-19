@@ -1,3 +1,119 @@
+ ## SME
+ - [https://kreditizapoduzetnike.addiko.hr](https://kreditizapoduzetnike.addiko.hr)
+ - date_published: 2024-05-21T10:39:32+00:00
+
+ ## ADDIKO VIRTUALNA POSLOVNICA
+ - [https://virtualnaposlovnica.addiko.hr](https://virtualnaposlovnica.addiko.hr)
+ - date_published: 2022-09-06T07:08:02+00:00
+
+ ## Addiko Bank Hrvatska
+ - [https://www.addiko.hr](https://www.addiko.hr)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home page
+ - [http://www.adecco.hr](http://www.adecco.hr)
+ - date_published: 2024-10-29T04:28:48.917275+00:00
+
+ ## Journal of Central European Agriculture
+ - [http://jcea.agr.hr](http://jcea.agr.hr)
+ - date_published: 2024-10-30T20:18:27+00:00
+
+ ## Agronetto Hrvatska – online platforma za prodaju poljoprivrednih strojeva i rezervnih dijelova
+ - [https://agronetto.hr](https://agronetto.hr)
+ - date_published: 2024-08-11T15:42:53.115643+00:00
+
+ ## Alatnica Mikuš
+ - [http://alatnicamikus.hr](http://alatnicamikus.hr)
+ - date_published: 2024-07-18T06:36:08.922855+00:00
+
+ ## Alfa Romeo
+ - [https://www.alfaromeo.hr](https://www.alfaromeo.hr)
+ - date_published: 2024-06-07T22:35:30+00:00
+
+ ## Budi izvrstan u onom što voliš. Zaiskri!
+ - [https://www.algebra.hr](https://www.algebra.hr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Agencija za mobilnost i programe EU
+ - [https://www.ampeu.hr](https://www.ampeu.hr)
+ - date_published: 2024-09-15T20:57:57.918003+00:00
+
+ ## ArtKvart – Umjetnost, kultura i društvena zbivanja
+ - [https://artkvart.hr](https://artkvart.hr)
+ - date_published: 2024-06-30T07:01:40+00:00
+
+ ## Agencija za zaštitu osobnih podataka
+ - [https://azop.hr](https://azop.hr)
+ - date_published: 2024-10-20T14:14:14.640141+00:00
+
+ ## Autobus ili dijeljenje prijevoza? Putuj povoljno. | BlaBlaCar
+ - [https://blablacar.hr](https://blablacar.hr)
+ - date_published: 2024-06-15T01:01:05.619599+00:00
+
+ ## BlaBlaLife
+ - [https://blog.blablacar.hr](https://blog.blablacar.hr)
+ - date_published: 2024-09-15T19:55:32.192458+00:00
+
+ ## AntonioR DevLog
+ - [http://antonior-software.blogspot.hr](http://antonior-software.blogspot.hr)
+ - date_published: 2024-06-24T15:30:09+00:00
+
+ ## Gardens of Hecate
+ - [http://gardensofhecate.blogspot.hr](http://gardensofhecate.blogspot.hr)
+ - date_published: 2024-03-13T04:32:08+00:00
+
+ ## Službena BMW web stranica: Premium vozila i inovacije
+ - [http://www.bmw.hr](http://www.bmw.hr)
+ - date_published: 2024-10-02T11:12:17.552230+00:00
+
+ ## Come work with us.
+ - [https://accountable-us.breezy.hr](https://accountable-us.breezy.hr)
+ - date_published: 2024-07-15T04:28:07.358955+00:00
+
+ ## WE'RE LOOKING FOR PEOPLE WITH PASSION
+ - [https://active-interest-media.breezy.hr](https://active-interest-media.breezy.hr)
+ - date_published: 2024-07-08T16:05:34.601155+00:00
+
+ ## Come work with us.
+ - [https://akuity.breezy.hr](https://akuity.breezy.hr)
+ - date_published: 2024-04-28T02:36:32.229438+00:00
+
+ ## Pushing productivity forward
+ - [https://any-do.breezy.hr](https://any-do.breezy.hr)
+ - date_published: 2024-09-30T11:42:20.395804+00:00
+
+ ## Join the Apostrophe team.
+ - [https://apostrophe-technologies.breezy.hr](https://apostrophe-technologies.breezy.hr)
+ - date_published: 2024-10-31T03:42:05.134685+00:00
+
+ ## Sign In
+ - [https://app.breezy.hr](https://app.breezy.hr)
+ - date_published: 2024-07-14T05:08:39.063123+00:00
+
+ ## Breezy HR CDN
+ - [https://assets-cdn.breezy.hr](https://assets-cdn.breezy.hr)
+ - date_published: 2016-09-01T14:30:35+00:00
+
+ ## Modern Hiring Software & Applicant Tracking System | Breezy HR
+ - [https://aura-health.breezy.hr](https://aura-health.breezy.hr)
+ - date_published: 2024-10-30T10:30:51.112178+00:00
+
+ ## Beek: Join the best worldwide Superheroes Team
+ - [https://beek.breezy.hr](https://beek.breezy.hr)
+ - date_published: 2024-07-04T02:26:53.327074+00:00
+
+ ## Come work with us.
+ - [https://bota-systems-ag.breezy.hr](https://bota-systems-ag.breezy.hr)
+ - date_published: 2024-09-05T21:52:38.702926+00:00
+
+ ## Come work with Brainscape
+ - [https://brainscape.breezy.hr](https://brainscape.breezy.hr)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Modern Hiring Software & Applicant Tracking System | Breezy HR
+ - [https://breezy.hr](https://breezy.hr)
+ - date_published: 2024-05-09T00:00:00+00:00
+
  ## undefined
  - [https://chatterbug.breezy.hr](https://chatterbug.breezy.hr)
  - date_published: 2024-06-29T05:18:49.318862+00:00
@@ -3895,120 +4011,4 @@
  ## Tehetséggondozó Program (DETEP)
  - [https://detep.unideb.hu](https://detep.unideb.hu)
  - date_published: 2024-07-03T23:23:56.526668+00:00
-
- ## Home | elearning.unideb.hu (2023)
- - [https://elearning.unideb.hu](https://elearning.unideb.hu)
- - date_published: 2024-07-03T23:23:54+00:00
-
- ## | DEBRECENI EGYETEM
- - [https://hirek.unideb.hu](https://hirek.unideb.hu)
- - date_published: 2024-07-03T23:24:07.636494+00:00
-
- ## Unideb Portal
- - [https://mad-hatter.it.unideb.hu](https://mad-hatter.it.unideb.hu)
- - date_published: 2024-07-03T23:24:04.444491+00:00
-
- ## Matematika- és Számítástudományok Doktori Iskola
- - [https://mathphd.unideb.hu](https://mathphd.unideb.hu)
- - date_published: 2024-07-03T23:23:53.364592+00:00
-
- ## Matematikai Intézet
- - [https://math.unideb.hu](https://math.unideb.hu)
- - date_published: 2024-05-08T04:21:25.112334+00:00
-
- ## Debreceni Egyetem Neptun
- - [https://neptun.unideb.hu](https://neptun.unideb.hu)
- - date_published: 2024-07-03T23:23:57.239758+00:00
-
- ## Publicationes Mathematicae
- - [https://publi.math.unideb.hu](https://publi.math.unideb.hu)
- - date_published: 2024-07-03T23:24:09.914402+00:00
-
- ## Teaching Mathematics and Computer Science
- - [https://tmcs.math.unideb.hu](https://tmcs.math.unideb.hu)
- - date_published: 2024-07-03T23:24:09.310161+00:00
-
- ## TTK - Nyári tábor - Debreceni Egyetem Természettudományi és Technológiai Kar
- - [http://ttknyaritabor.unideb.hu](http://ttknyaritabor.unideb.hu)
- - date_published: 2024-07-03T23:23:52.264205+00:00
-
- ## Természettudományi és Technológiai Kar
- - [https://ttk.unideb.hu](https://ttk.unideb.hu)
- - date_published: 2024-07-03T23:23:59.102328+00:00
-
- ## DEBRECENI EGYETEM
- - [https://unideb.hu](https://unideb.hu)
- - date_published: 2024-07-03T23:24:02.844407+00:00
-
- ## Főoldal - ÓE
- - [https://www.uni-obuda.hu](https://www.uni-obuda.hu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## UNO-SOFT Kft.
- - [https://unosoft.hu](https://unosoft.hu)
- - date_published: 2024-05-14T04:00:26.534097+00:00
-
- ## Inactive web page
- - [http://gerigeri.uw.hu](http://gerigeri.uw.hu)
- - date_published: 2022-01-05T09:38:47+00:00
-
- ## internet állapot
- - [https://vanenet.hu](https://vanenet.hu)
- - date_published: 2015-01-19T11:11:12+00:00
-
- ## VAOL - Vas vármegyei hírportál
- - [https://www.vaol.hu](https://www.vaol.hu)
- - date_published: 2024-09-04T04:20:15.684118+00:00
-
- ## Vasért Gastromodul Kft. Webáruház - vasert-gastro.hu
- - [https://vasert-gastro.hu](https://vasert-gastro.hu)
- - date_published: 2024-04-28T04:36:31.698778+00:00
-
- ## Vatera Blog
- - [https://blog.vatera.hu](https://blog.vatera.hu)
- - date_published: 2024-09-04T04:23:35.796951+00:00
-
- ## Vatera - az online piactér: Vásárlás, aukció, eladás
- - [https://elektronika.vatera.hu](https://elektronika.vatera.hu)
- - date_published: 2024-06-01T05:15:11.391336+00:00
-
- ## Vatera - az online piactér: Vásárlás, aukció, eladás
- - [https://vatera.hu](https://vatera.hu)
- - date_published: 2024-06-01T05:14:25.918600+00:00
-
- ## Velvet.hu címlap
- - [https://velvet.hu](https://velvet.hu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## VEOL - Veszprém vármegyei hírportál
- - [https://www.veol.hu](https://www.veol.hu)
- - date_published: 2024-09-04T04:21:35.942357+00:00
-
- ## AGROKÉP - A magyar mezőgazdaság portálja
- - [https://agrokep.vg.hu](https://agrokep.vg.hu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Világgazdaság | Főoldal
- - [https://www.vg.hu](https://www.vg.hu)
- - date_published: 2024-09-04T04:20:11.190603+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.hu](https://www.victronenergy.hu)
- - date_published: 2024-06-21T18:32:30+00:00
-
- ## Video upload - Videa
- - [https://videa.hu](https://videa.hu)
- - date_published: 2024-09-04T04:21:21.407044+00:00
-
- ## Vidék Íze
- - [https://videkize.hu](https://videkize.hu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Virtuális melléklet - Akadémiai Kiadó
- - [https://www.virtualismelleklet.hu](https://www.virtualismelleklet.hu)
- - date_published: 2024-07-09T20:15:55.520732+00:00
-
- ## Visa. Megbízható partner a digitális fizetésben
- - [https://visa.hu](https://visa.hu)
- - date_published: 2024-05-12T03:58:36.536074+00:00
 

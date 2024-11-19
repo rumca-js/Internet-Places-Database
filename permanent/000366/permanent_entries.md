@@ -1,3 +1,144 @@
+ ## Office of the Public Defender - District of Oregon | Federal Public Defender
+ - [http://or.fd.org](http://or.fd.org)
+ - date_published: 2024-06-29T19:03:23.165537+00:00
+
+ ## Defender Services Office - Training Division
+ - [https://www.fd.org](https://www.fd.org)
+ - date_published: 2024-07-09T19:38:00+00:00
+
+ ## Home - First District Appellate Project
+ - [http://www.fdap.org](http://www.fdap.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## FDAReview.org | A PROJECT OF THE INDEPENDENT INSTITUTE
+ - [https://www.fdareview.org](https://www.fdareview.org)
+ - date_published: 2024-06-21T23:20:44.625459+00:00
+
+ ## Foundation for Defense of Democracies
+ - [https://fdd.org](https://fdd.org)
+ - date_published: 2024-03-25T00:00:00+00:00
+ - tags: ['cybersecurity']
+
+ ## Fulldome Database — FDDB.org
+ - [https://www.fddb.org](https://www.fddb.org)
+ - date_published: 2024-07-08T15:23:09.928527+00:00
+
+ ## Foundations of Digital Games 2014
+ - [http://fdg2014.org](http://fdg2014.org)
+ - date_published: 2017-07-25T22:53:38+00:00
+
+ ## >b's Homepage
+ - [https://fdik.org](https://fdik.org)
+ - date_published: 2014-12-18T00:25:50+00:00
+
+ ## FDLM : Le français dans le monde
+ - [http://www.fdlm.org](http://www.fdlm.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Health Center
+ - [https://www.fdohpatientportal.org](https://www.fdohpatientportal.org)
+ - date_published: 2023-09-19T10:37:15+00:00
+
+ ## Home - FDR Presidential Library & Museum
+ - [https://www.fdrlibrary.org](https://www.fdrlibrary.org)
+ - date_published: 2024-06-29T18:24:09.628407+00:00
+
+ ## F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org](https://f-droid.org)
+ - date_published: 2023-10-24T20:10:50.007548+00:00
+ - tags: ['app store', 'open source']
+
+ ## F-Droid Forum
+ - [https://forum.f-droid.org](https://forum.f-droid.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## F-Droid
+      
+        Search
+ - [https://search.f-droid.org](https://search.f-droid.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## F-Droid - Free and Open Source Android App Repository
+ - [http://fdroid.org](http://fdroid.org)
+ - date_published: 2024-08-08T10:17:36+00:00
+
+ ## F-Droid
+ - [https://fdroidstatus.org](https://fdroidstatus.org)
+ - date_published: 2024-07-20T03:17:54.417928+00:00
+
+ ## FdSI.org | Freunde der Saarbrücker Informatik
+ - [https://fdsi.org](https://fdsi.org)
+ - date_published: 2024-04-29T06:30:22.963327+00:00
+
+ ## FDSN: 
+International Federation of Digital Seismograph Networks
+ - [http://www.fdsn.org](http://www.fdsn.org)
+ - date_published: 2024-07-22T06:55:19.912146+00:00
+
+ ## Florida Education Association
+ - [https://feaweb.org](https://feaweb.org)
+ - date_published: 2019-02-11T16:47:21+00:00
+
+ ## WeBank AI
+ - [https://dataset.fedai.org](https://dataset.fedai.org)
+ - date_published: 2020-12-29T06:45:36+00:00
+
+ ## FedAI Home
+ - [https://www.fedai.org](https://www.fedai.org)
+ - date_published: 2022-04-07T09:55:10+00:00
+
+ ## Fed Communities
+ - [https://fedcommunities.org](https://fedcommunities.org)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home | FedCSIS 2024
+ - [https://2024.fedcsis.org](https://2024.fedcsis.org)
+ - date_published: 2024-06-17T11:01:39.438444+00:00
+
+ ## Home | FedCSIS 2024
+ - [https://fedcsis.org](https://fedcsis.org)
+ - date_published: 2024-07-12T08:36:58.418405+00:00
+
+ ## feddit.org
+ - [https://feddit.org](https://feddit.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Campus FEDELE | Plataforma de formación de FEDELE
+ - [https://campus.fedele.org](https://campus.fedele.org)
+ - date_published: 2024-08-11T11:08:15.242273+00:00
+
+ ## FEDELE, Español en España: federación de escuelas de español
+ - [https://fedele.org](https://fedele.org)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## FEDELE Interprovincial | Escuelas de español para extranjeros
+ - [https://fedeleinterprovincial.org](https://fedeleinterprovincial.org)
+ - date_published: 2024-08-11T11:08:26.992517+00:00
+
+ ## Home - Fede Pericolosa
+ - [https://www.fedepericolosa.org](https://www.fedepericolosa.org)
+ - date_published: 2024-07-08T12:21:33.514213+00:00
+
+ ## Home
+ - [http://www.federalreserveeducation.org](http://www.federalreserveeducation.org)
+ - date_published: 2024-07-03T14:22:50.491148+00:00
+
+ ## Home | Federal Reserve History
+ - [https://federalreservehistory.org](https://federalreservehistory.org)
+ - date_published: 2023-10-25T21:20:14.023107+00:00
+
+ ## The Federated Learning Portal
+ - [https://federated-learning.org](https://federated-learning.org)
+ - date_published: 2024-05-08T10:32:12.739690+00:00
+
+ ## FL-IJCAI'20
+ - [http://fl-ijcai20.federated-learning.org](http://fl-ijcai20.federated-learning.org)
+ - date_published: 2021-08-17T14:18:06+00:00
+
+ ## TrustFUL
+ - [https://trustful.federated-learning.org](https://trustful.federated-learning.org)
+ - date_published: 2023-05-20T13:29:33+00:00
+
  ## Federationwushu
  - [https://www.federationwushu.org](https://www.federationwushu.org)
  - date_published: 2024-08-20T04:29:09.665433+00:00
@@ -3910,145 +4051,4 @@ Archive
  ## Discover the best software downloads for Windows on FDM
  - [https://en.freedownloadmanager.org](https://en.freedownloadmanager.org)
  - date_published: 2024-05-14T02:45:13.825099+00:00
-
- ## Descubre las mejores descargas de programas para Windows en FDM
- - [https://es.freedownloadmanager.org](https://es.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:56.884199+00:00
-
- ## Free Download Manager - download everything from the internet
- - [http://freedownloadmanager.org](http://freedownloadmanager.org)
- - date_published: 2024-09-04T06:01:21.470494+00:00
-
- ## Découvrez les meilleurs logiciels pour Win en téléchargement sur FDM
- - [https://fr.freedownloadmanager.org](https://fr.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:54.905290+00:00
-
- ## Descubra os melhores downloads de software para Windows em FDM
- - [https://pt.freedownloadmanager.org](https://pt.freedownloadmanager.org)
- - date_published: 2024-07-17T14:57:04.088972+00:00
-
- ## Лучшие программы для Windows (2024) — скачать бесплатно на FDM
- - [https://ru.freedownloadmanager.org](https://ru.freedownloadmanager.org)
- - date_published: 2024-07-17T14:56:52.861074+00:00
-
- ## Home | FreedroidRPG
- - [https://freedroid.org](https://freedroid.org)
- - date_published: 2023-01-23T00:25:45+00:00
-
- ## FreeDV – Open Source HF Digital Voice for Amateur Radio
- - [https://freedv.org](https://freedv.org)
- - date_published: 2024-08-19T22:15:11.350752+00:00
-
- ## FreeFEM - An open-source PDE Solver using the Finite Element Method
- - [https://freefem.org](https://freefem.org)
- - date_published: 2024-09-09T10:10:13+00:00
-
- ## Space dwarfs online
- - [http://spacedwarfsonline.freeforums.org](http://spacedwarfsonline.freeforums.org)
- - date_published: 2024-07-20T06:35:41.693405+00:00
-
- ## FreeGaza
- - [http://www.freegaza.org](http://www.freegaza.org)
- - date_published: 2024-05-28T18:53:05+00:00
-
- ## Freehackers
- - [https://freehackers.org](https://freehackers.org)
- - date_published: 2024-06-12T12:07:02+00:00
-
- ## Freehand Arts Project
- - [https://www.freehandartsproject.org](https://www.freehandartsproject.org)
- - date_published: 2024-07-04T04:36:17.933162+00:00
-
- ## Free Hit Counters » Fast, Simple and FREE HTML Hit Counter for YOU!
- - [https://freehitcounters.org](https://freehitcounters.org)
- - date_published: 2024-07-08T09:36:13.282567+00:00
-
- ## FreeIPA - Identity, Policy, Audit — FreeIPA  documentation
- - [https://www.freeipa.org](https://www.freeipa.org)
- - date_published: 2024-08-22T07:17:37+00:00
-
- ## Free Journal Network – Nurturing an ecosystem of high quality, open access, scholar-controlled journals with no author-facing charges
- - [http://freejournals.org](http://freejournals.org)
- - date_published: 2024-07-07T10:25:01.844368+00:00
-
- ## freeke.org, y’all
- - [http://www.freeke.org](http://www.freeke.org)
- - date_published: 2024-05-30T18:23:24+00:00
-
- ## Freelancers Union Blog
- - [https://blog.freelancersunion.org](https://blog.freelancersunion.org)
- - date_published: 2024-06-29T19:57:30.895980+00:00
-
- ## Home - Freelance Solidarity Project
- - [https://freelancesolidarity.org](https://freelancesolidarity.org)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## HOME - Better World Communications
- - [https://freelancewrite.org](https://freelancewrite.org)
- - date_published: 2021-06-05T00:00:00+00:00
-
- ## FreeLists
- - [https://freelists.org](https://freelists.org)
- - date_published: 2020-10-15T16:09:16+00:00
-
- ## FreeLists status
- - [https://status.freelists.org](https://status.freelists.org)
- - date_published: 2024-08-18T19:15:23.843872+00:00
-
- ## Home — Masons of California
- - [https://freemason.org](https://freemason.org)
- - date_published: 2024-04-19T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Freemason Network
- - [https://www.freemasonnetwork.org](https://www.freemasonnetwork.org)
- - date_published: 2024-06-17T00:00:00+00:00
- - tags: ['freemason']
-
- ## Home - Freemasonry
- - [https://freemasonrysa.org](https://freemasonrysa.org)
- - date_published: 2023-08-10T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Index of /
- - [https://www.freemasonrytasmania.org](https://www.freemasonrytasmania.org)
- - date_published: 2024-06-17T14:04:51.226109+00:00
-
- ## Freemasons Foundation Victoria
- - [https://www.freemasonsfoundation.org](https://www.freemasonsfoundation.org)
- - date_published: 2024-10-19T10:05:57.260345+00:00
-
- ## Home
- - [https://freemasonsnz.org](https://freemasonsnz.org)
- - date_published: 2024-06-17T11:34:04+00:00
- - tags: ['freemasonry']
-
- ## Freemasons NZ Membership System
- - [https://membership.freemasonsnz.org](https://membership.freemasonsnz.org)
- - date_published: 2024-06-17T14:02:10.826586+00:00
-
- ## Freemount
- - [https://www.freemount.org](https://www.freemount.org)
- - date_published: 2014-02-22T00:00:00+00:00
-
- ## Royalty free music and 'free to download' music - Free Music Archive
- - [http://freemusicarchive.org](http://freemusicarchive.org)
- - date_published: 2024-06-20T01:18:44.252042+00:00
-
- ## FreeNAS Community
- - [https://forum.freenas-community.org](https://forum.freenas-community.org)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Introduction - Freenet Manual
- - [https://docs.freenet.org](https://docs.freenet.org)
- - date_published: 2024-05-12T06:01:41.098270+00:00
-
- ## Freenet
- - [https://freenet.org](https://freenet.org)
- - date_published: 2023-10-25T21:22:56.444630+00:00
- - tags: ['internet']
-
- ## Hyphanet
- - [https://freenetproject.org](https://freenetproject.org)
- - date_published: 2023-10-25T21:22:57.618651+00:00
 

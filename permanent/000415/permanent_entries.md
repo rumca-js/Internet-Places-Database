@@ -1,3 +1,145 @@
+ ## Talently Hire
+ - [https://hire.talently.tech](https://hire.talently.tech)
+ - date_published: 2024-07-10T17:10:54+00:00
+
+ ## Talently - Admin
+ - [https://hub-admin.talently.tech](https://hub-admin.talently.tech)
+ - date_published: 2024-07-12T23:46:51.244223+00:00
+
+ ## Talently
+ - [https://hub.talently.tech](https://hub.talently.tech)
+ - date_published: 2024-03-13T02:43:24+00:00
+
+ ## Talently
+ - [https://match.talently.tech](https://match.talently.tech)
+ - date_published: 2024-07-10T17:19:52+00:00
+
+ ## Welcome to your Strapi app
+ - [https://strapi.talently.tech](https://strapi.talently.tech)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Talently: Conecta con Talentos Tech Pre-evaluados en minutos
+ - [https://talently.tech](https://talently.tech)
+ - date_published: 2024-05-10T06:47:04.946831+00:00
+
+ ## Staffing and recruitment
+ - [https://talents.tech](https://talents.tech)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Teaching Tech Together
+ - [http://teachtogether.tech](http://teachtogether.tech)
+ - date_published: 2022-05-03T21:55:11+00:00
+
+ ## Tealok Blog
+ - [https://blog.tealok.tech](https://blog.tealok.tech)
+ - date_published: 2024-11-13T00:27:29+00:00
+
+ ## Techlore Blog - Digital Rights for All 🔐
+ - [https://blog.techlore.tech](https://blog.techlore.tech)
+ - date_published: 2024-07-08T18:18:09.112703+00:00
+
+ ## Techlore Discussions
+ - [https://discuss.techlore.tech](https://discuss.techlore.tech)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Techlore Dispatch | Henry Fisher | Substack
+ - [https://dispatch.techlore.tech](https://dispatch.techlore.tech)
+ - date_published: 2024-01-09T03:47:45.985886+00:00
+
+ ## Crowdsourced de-Googled Android apps status ratings
+ - [https://plexus.techlore.tech](https://plexus.techlore.tech)
+ - date_published: 2024-07-08T18:18:07.583122+00:00
+
+ ## Techlore: A Safer Internet
+ - [https://techlore.tech](https://techlore.tech)
+ - date_published: 2024-02-22T16:55:42.103049+00:00
+ - tags: ['privacy', 'youtuber', 'personal']
+
+ ## Commercial & Domestic IT Support in Wrexham | Techserve
+ - [https://techserve.tech](https://techserve.tech)
+ - date_published: 2024-06-16T01:05:46.627729+00:00
+
+ ## Terem - Tech Product Development & Strategy Firm
+ - [https://terem.tech](https://terem.tech)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home - AI Insider
+ - [https://theaiinsider.tech](https://theaiinsider.tech)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## The Gray Area
+ - [https://thegrayarea.tech](https://thegrayarea.tech)
+ - date_published: 2024-07-13T20:11:34.577463+00:00
+
+ ## Home - The Newco
+ - [https://www.thenewco.tech](https://www.thenewco.tech)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## The Spoon
+ - [https://thespoon.tech](https://thespoon.tech)
+ - date_published: 2024-05-04T07:48:48.341328+00:00
+
+ ## TheTrends - title
+ - [https://partner.thetrends.tech](https://partner.thetrends.tech)
+ - date_published: 2024-09-24T20:58:14.859564+00:00
+
+ ## Thomas Sojka
+ - [https://thomas-sojka.tech](https://thomas-sojka.tech)
+ - date_published: 2023-11-29T15:45:59.704607+00:00
+ - tags: ['personal']
+
+ ## Vladimir Klepov as a Coder
+ - [https://blog.thoughtspile.tech](https://blog.thoughtspile.tech)
+ - date_published: 2023-10-25T22:44:49.893333+00:00
+
+ ## Plausible · Web analytics
+ - [https://t.thoughtspile.tech](https://t.thoughtspile.tech)
+ - date_published: 2024-05-04T15:33:28.409565+00:00
+
+ ## Learn Building Modern Go applications - Three Dots Labs blog
+ - [https://threedots.tech](https://threedots.tech)
+ - date_published: 2023-11-01T08:44:41.241942+00:00
+
+ ## tig's Blog
+ - [https://blog.tiga.tech](https://blog.tiga.tech)
+ - date_published: 2024-06-14T22:38:47+00:00
+
+ ## Developer, Artist, Photographer, Writer, Creator
+ - [https://timsmith.tech](https://timsmith.tech)
+ - date_published: 2024-05-11T10:23:52.635168+00:00
+
+ ## TinyVG Vector Graphics
+ - [https://tinyvg.tech](https://tinyvg.tech)
+ - date_published: 2022-02-22T05:20:12+00:00
+
+ ## TLDR Newsletter - A Byte Sized Daily Tech Newsletter
+ - [https://tldr.tech](https://tldr.tech)
+ - date_published: 2024-07-13T02:56:36.118713+00:00
+
+ ## Traken
+ - [https://www.traken.tech](https://www.traken.tech)
+ - date_published: 2024-06-16T03:50:44.351469+00:00
+
+ ## mindtouch core - mindtouch core
+ - [https://docs.trialanderror.tech](https://docs.trialanderror.tech)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Welcome to the virtual Computer Museum Project
+ - [https://museum.trialanderror.tech](https://museum.trialanderror.tech)
+ - date_published: 2023-07-26T06:28:15+00:00
+
+ ## Welcome to the TAET virtual scummVM Museum | trial an error tech | playground of David Schell
+ - [https://scvm.trialanderror.tech](https://scvm.trialanderror.tech)
+ - date_published: 2023-08-17T10:57:27+00:00
+
+ ## TAET - Welcome to trial an error tech | playground of David Schell
+ - [https://trialanderror.tech](https://trialanderror.tech)
+ - date_published: 2024-05-14T15:10:54+00:00
+
+ ## Welcome | SQL Simulator
+ - [https://sql-simulator.tribalknowledge.tech](https://sql-simulator.tribalknowledge.tech)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## TRIBAL KNOWLEDGE - Knowledge Sharing Process Automation
  - [https://tribalknowledge.tech](https://tribalknowledge.tech)
  - date_published: 2023-10-27T12:08:00.055280+00:00
@@ -3922,148 +4064,4 @@ Introduction
  ## Archive.is blog
  - [https://blog.archive.today](https://blog.archive.today)
  - date_published: 2024-05-04T09:03:08.637551+00:00
-
- ## blr.today
- - [https://blr.today](https://blr.today)
- - date_published: 2024-08-18T11:17:59.483137+00:00
-
- ## Home | Bryan Today
- - [https://bryan.today](https://bryan.today)
- - date_published: 2023-11-29T14:43:39.103267+00:00
- - tags: ['personal']
-
- ## Revolut.Me
- - [http://pay.cian.today](http://pay.cian.today)
- - date_published: 2024-07-19T08:50:16+00:00
-
- ## ClearSpace - A mission to make space sustainable
- - [https://clearspace.today](https://clearspace.today)
- - date_published: 2023-03-03T12:48:26+00:00
-
- ## HOME | Cycling Today
- - [http://cycling.today](http://cycling.today)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## DELCO.Today
- - [https://delco.today](https://delco.today)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## The Dossier | Jordan Schachtel | Substack
- - [https://dossier.today](https://dossier.today)
- - date_published: 2023-12-27T13:59:06.335120+00:00
-
- ## Denver and Colorado real estate news, neighborhoods — The Denver Post
- - [https://dphomes.today](https://dphomes.today)
- - date_published: 2024-05-01T04:46:24.939567+00:00
-
- ## Elon Musk Today
- - [https://elonmusk.today](https://elonmusk.today)
- - date_published: 2024-01-09T03:48:07.737344+00:00
-
- ## Epochalypse
- - [https://epochalypse.today](https://epochalypse.today)
- - date_published: 2023-10-25T22:46:27.669965+00:00
-
- ## Homepage
- - [https://erp.today](https://erp.today)
- - date_published: 2024-07-03T09:54:03.672012+00:00
-
- ## Evgenii Burmakin
- - [https://frey.today](https://frey.today)
- - date_published: 2023-11-17T15:04:30+00:00
- - tags: ['personal']
-
- ## Furry.Today
- - [https://furry.today](https://furry.today)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## G A N Z E E R . T O D A Y
- - [https://ganzeer.today](https://ganzeer.today)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Geospatial Nix – create, use and deploy today
- - [https://geospatial-nix.today](https://geospatial-nix.today)
- - date_published: 2024-02-24T09:44:18+00:00
-
- ## Now
- - [https://glmb.today](https://glmb.today)
- - date_published: 2023-11-29T14:19:26.151065+00:00
- - tags: ['personal']
-
- ## Growth Marketing Today Podcast - Growth Marketing Today
- - [https://growthmarketing.today](https://growthmarketing.today)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Healthy & Happy Living
- - [https://happyliving.today](https://happyliving.today)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Happy Name Day Today
- - [https://www.happynameday.today](https://www.happynameday.today)
- - date_published: 2024-07-02T21:30:23.784985+00:00
-
- ## HER Women of Achievement Awards
- - [https://her.today](https://her.today)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Hotels Near Me
- - [https://hotels-near-me.today](https://hotels-near-me.today)
- - date_published: 2024-04-28T01:55:06.815754+00:00
-
- ## Humanize
- - [https://humanize.today](https://humanize.today)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Phạm Đức Huy
- - [https://huy.today](https://huy.today)
- - date_published: 2023-10-25T08:57:13.547312+00:00
- - tags: ['personal']
-
- ## Improve Something Today
- - [https://improvesomething.today](https://improvesomething.today)
- - date_published: 2024-08-07T20:12:30.017246+00:00
-
- ## Jason's Homepage
- - [https://jason.today](https://jason.today)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## Show HN: I'm building a Product Hunt alternative, it's 4 days old
- - [https://www.launching.today](https://www.launching.today)
- - date_published: 2024-10-17T07:38:31+00:00
-
- ## Learn JavaScript
- - [http://learnjavascript.today](http://learnjavascript.today)
- - date_published: 2024-03-13T08:33:25+00:00
-
- ## Lemmy Today - A fast, general purpose instance located in Oregon, USA
- - [https://lemmy.today](https://lemmy.today)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## 🌴 Jungle
- - [https://jungle.madebyme.today](https://jungle.madebyme.today)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## MadeByMe
- - [https://madebyme.today](https://madebyme.today)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Polaris | Image Gallery
- - [https://polaris.madebyme.today](https://polaris.madebyme.today)
- - date_published: 2024-04-17T10:29:55+00:00
-
- ## Making Today | Stay Organized
- - [https://making.today](https://making.today)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## MC.today, Media for Creators. Видання для тих, хто створює
- - [https://mc.today](https://mc.today)
- - date_published: 2018-04-02T15:07:54+00:00
-
- ## Musicians Today
- - [https://musicians.today](https://musicians.today)
- - date_published: 2024-06-23T17:14:56.356500+00:00
-
- ## Current Mood? | How are you feeling today?
- - [https://mymood.today](https://mymood.today)
- - date_published: 2023-10-25T22:46:33.039028+00:00
 

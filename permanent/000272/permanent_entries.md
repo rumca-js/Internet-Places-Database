@@ -1,3 +1,115 @@
+ ## Home - Biomedical Engineering at the University of Utah
+ - [https://www.bme.utah.edu](https://www.bme.utah.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## John and Marcia Price College of Engineering IT Support | CADE, Student Computing Labs and Network Support
+ - [http://www.cade.utah.edu](http://www.cade.utah.edu)
+ - date_published: 2024-07-02T11:31:07.368312+00:00
+
+ ## B.S. Computer Engineering
+ - [http://www.ce.utah.edu](http://www.ce.utah.edu)
+ - date_published: 2024-07-02T11:29:53.256609+00:00
+
+ ## Department of Chemistry - The University of Utah
+ - [http://www.chem.utah.edu](http://www.chem.utah.edu)
+ - date_published: 2024-07-02T11:36:32.636221+00:00
+
+ ## Homepage - Chemical Engineering | University of Utah
+ - [https://www.che.utah.edu](https://www.che.utah.edu)
+ - date_published: 2024-07-02T11:30:00.260709+00:00
+
+ ## College of Mines and Earth Sciences - The University of Utah
+ - [https://www.cmes.utah.edu](https://www.cmes.utah.edu)
+ - date_published: 2024-07-02T11:41:52.717733+00:00
+
+ ## The John and Marcia Price College of Engineering
+ - [https://www.coe.utah.edu](https://www.coe.utah.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Homepage - Electrical & Computer Engineering | University of Utah
+ - [http://www.ece.utah.edu](http://www.ece.utah.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The John and Marcia Price College of Engineering
+ - [http://www.eng.utah.edu](http://www.eng.utah.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## www-misc-c7.chpc.utah.edu
+ - [https://www.inscc.utah.edu](https://www.inscc.utah.edu)
+ - date_published: 2017-10-06T04:41:20+00:00
+
+ ## University of Utah List Service - home
+ - [https://www.lists.utah.edu](https://www.lists.utah.edu)
+ - date_published: 2024-07-02T10:04:09.162866+00:00
+
+ ## Kahlert School of Computing – School of Computing at The University of Utah
+ - [https://www-new.cs.utah.edu](https://www-new.cs.utah.edu)
+ - date_published: 2024-04-02T18:55:38+00:00
+
+ ## Graduate Nuclear Engineering - Civil & Environmental Engineering
+ - [http://www.nuclear.utah.edu](http://www.nuclear.utah.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Kahlert School of Computing
+ - [https://www-old.cs.utah.edu](https://www-old.cs.utah.edu)
+ - date_published: 2024-02-26T08:29:12.519678+00:00
+
+ ## Department of Physics & Astronomy
+ - [http://www.physics.utah.edu](http://www.physics.utah.edu)
+ - date_published: 2024-07-02T11:41:50.576976+00:00
+
+ ## The University of Utah - Space Planning & Management :: Home
+ - [http://www.space.utah.edu](http://www.space.utah.edu)
+ - date_published: 2024-07-02T11:20:28.523158+00:00
+
+ ## Stadium, Arena and Campus Event Services
+ - [https://www.stadium.utah.edu](https://www.stadium.utah.edu)
+ - date_published: 2024-10-18T01:20:34.287823+00:00
+
+ ## - UTC Blogs
+ - [http://blog.utc.edu](http://blog.utc.edu)
+ - date_published: 2024-07-09T13:20:52+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://new.utc.edu](https://new.utc.edu)
+ - date_published: 2024-07-09T13:20:47.494448+00:00
+
+ ## UTC Library Wiki
+ - [https://wikilib.utc.edu](https://wikilib.utc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Choose UTC | University of Tennessee at Chattanooga
+ - [https://www.utc.edu](https://www.utc.edu)
+ - date_published: 2024-07-01T15:47:44.313025+00:00
+
+ ## Alumni Relations - The University of Texas at Dallas
+ - [https://alumni.utdallas.edu](https://alumni.utdallas.edu)
+ - date_published: 2024-07-02T11:46:13.470954+00:00
+
+ ## The University of Texas at Dallas
+ - [https://atec.utdallas.edu](https://atec.utdallas.edu)
+ - date_published: 2024-05-07T22:12:19.978667+00:00
+
+ ## Home
+ - [https://atlas.utdallas.edu](https://atlas.utdallas.edu)
+ - date_published: 2024-05-07T22:12:07.061420+00:00
+
+ ## Bioengineering Home - Bioengineering | The University of Texas at Dallas
+ - [https://be.utdallas.edu](https://be.utdallas.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Brand Homepage - Brand Standards | The University of Texas at Dallas
+ - [https://brand.utdallas.edu](https://brand.utdallas.edu)
+ - date_published: 2024-06-15T14:41:18+00:00
+
+ ## Bursar Office - Bursar Office | The University of Texas at Dallas
+ - [https://bursar.utdallas.edu](https://bursar.utdallas.edu)
+ - date_published: 2024-07-02T11:19:59+00:00
+
+ ## Events Calendar
+ - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## UT Dallas Course Catalogs - UT Dallas University Catalogs - The University of Texas at Dallas
  - [https://catalog.utdallas.edu](https://catalog.utdallas.edu)
  - date_published: 2024-07-02T11:44:45.491222+00:00
@@ -3886,116 +3998,4 @@
  ## Commitment to Privacy
  - [https://ts.vcu.edu](https://ts.vcu.edu)
  - date_published: 2024-05-01T05:49:31.967560+00:00
-
- ## Commitment to Privacy
- - [https://ttac.vcu.edu](https://ttac.vcu.edu)
- - date_published: 2024-07-02T12:48:21.321602+00:00
-
- ## Commitment to Privacy
- - [https://uaa.vcu.edu](https://uaa.vcu.edu)
- - date_published: 2024-07-02T12:58:42.099116+00:00
-
- ## Commitment to Privacy
- - [https://uc.vcu.edu](https://uc.vcu.edu)
- - date_published: 2024-07-02T12:43:23.947669+00:00
-
- ## Commitment to Privacy
- - [https://universe.vcu.edu](https://universe.vcu.edu)
- - date_published: 2024-07-02T12:47:11.227522+00:00
-
- ## Commitment to Privacy
- - [https://universitycounsel.vcu.edu](https://universitycounsel.vcu.edu)
- - date_published: 2024-07-02T12:49:50.851133+00:00
-
- ## Commitment to Privacy
- - [https://universityevents.vcu.edu](https://universityevents.vcu.edu)
- - date_published: 2024-07-02T12:46:50.029212+00:00
-
- ## Commitment to Privacy
- - [https://univrelations.vcu.edu](https://univrelations.vcu.edu)
- - date_published: 2024-07-02T13:00:54.775426+00:00
-
- ## Commitment to Privacy
- - [https://vaccinecorps.vcu.edu](https://vaccinecorps.vcu.edu)
- - date_published: 2024-07-02T12:50:29.338500+00:00
-
- ## Commitment to Privacy
- - [https://vaged.vcu.edu](https://vaged.vcu.edu)
- - date_published: 2024-07-02T12:51:26.622828+00:00
-
- ## Commitment to Privacy
- - [https://vascan.vcu.edu](https://vascan.vcu.edu)
- - date_published: 2024-07-02T12:59:11.612065+00:00
-
- ## Commitment to Privacy
- - [https://vcoa.chp.vcu.edu](https://vcoa.chp.vcu.edu)
- - date_published: 2024-07-02T12:47:36.226534+00:00
-
- ## Commitment to Privacy
- - [https://vcu.edu](https://vcu.edu)
- - date_published: 2024-05-07T22:22:38.590113+00:00
-
- ## Commitment to Privacy
- - [https://ventures.vcu.edu](https://ventures.vcu.edu)
- - date_published: 2024-07-02T12:57:12.682178+00:00
-
- ## Commitment to Privacy
- - [https://vimm.vcu.edu](https://vimm.vcu.edu)
- - date_published: 2024-07-02T12:49:32.280847+00:00
-
- ## Commitment to Privacy
- - [https://vip.vcu.edu](https://vip.vcu.edu)
- - date_published: 2024-07-02T12:45:05.231853+00:00
-
- ## Commitment to Privacy
- - [https://virginialend.partnership.vcu.edu](https://virginialend.partnership.vcu.edu)
- - date_published: 2024-07-02T12:44:06.055699+00:00
-
- ## rashnu.csbc.vcu.edu
- - [http://vmc.vcu.edu](http://vmc.vcu.edu)
- - date_published: 2015-11-10T15:02:15+00:00
-
- ## Commitment to Privacy
- - [https://vtss-ric.vcu.edu](https://vtss-ric.vcu.edu)
- - date_published: 2024-07-02T12:49:52.450854+00:00
-
- ## Commitment to Privacy
- - [https://web.partnership.vcu.edu](https://web.partnership.vcu.edu)
- - date_published: 2024-07-02T12:51:20.403542+00:00
-
- ## Commitment to Privacy
- - [https://webstandards.vcu.edu](https://webstandards.vcu.edu)
- - date_published: 2024-07-02T12:48:59.421596+00:00
-
- ## Commitment to Privacy
- - [https://wiki.vcu.edu](https://wiki.vcu.edu)
- - date_published: 2024-07-02T12:35:10.078681+00:00
-
- ## Commitment to Privacy
- - [https://wilder.vcu.edu](https://wilder.vcu.edu)
- - date_published: 2024-07-02T12:47:00.512936+00:00
-
- ## Commitment to Privacy
- - [https://womenshealth.vcu.edu](https://womenshealth.vcu.edu)
- - date_published: 2024-07-02T12:50:33.385635+00:00
-
- ## Commitment to Privacy
- - [https://womensnetwork.vcu.edu](https://womensnetwork.vcu.edu)
- - date_published: 2024-07-02T12:57:38.951465+00:00
-
- ## Commitment to Privacy
- - [https://workforce.vcu.edu](https://workforce.vcu.edu)
- - date_published: 2024-07-02T12:49:29.642643+00:00
-
- ## Commitment to Privacy
- - [https://worldstudies.vcu.edu](https://worldstudies.vcu.edu)
- - date_published: 2024-07-02T12:47:05.023316+00:00
-
- ## Commitment to Privacy
- - [https://writing.vcu.edu](https://writing.vcu.edu)
- - date_published: 2024-07-02T12:50:45.827304+00:00
-
- ## Commitment to Privacy
- - [http://www.create.lab.vcu.edu](http://www.create.lab.vcu.edu)
- - date_published: 2024-07-02T12:44:08.130001+00:00
 

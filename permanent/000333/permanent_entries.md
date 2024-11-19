@@ -1,3 +1,131 @@
+ ## BRAW INN CANGGU | INDONESIA | SEASON DEALS FROM $19
+ - [https://braw-inn-canggu.all-balihotels.net](https://braw-inn-canggu.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:41.151382+00:00
+
+ ## HOTEL BROWN FEATHER | ⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $42
+ - [https://brown-feather-seminyak.all-balihotels.net](https://brown-feather-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:47.809633+00:00
+
+ ## BULGARI RESORT BALI | ⋆⋆⋆⋆⋆ | ULUWATU, INDONESIA | SEASON DEALS FROM $1091
+ - [https://bulgari-resort-bali-uluwatu.all-balihotels.net](https://bulgari-resort-bali-uluwatu.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:01.228782+00:00
+
+ ## CANGGU BEACH | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $168
+ - [https://canggu-beach-apartments.all-balihotels.net](https://canggu-beach-apartments.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:03.067557+00:00
+
+ ## CANGGU DREAM VILLAGE | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $25
+ - [https://canggu-dream-village.all-balihotels.net](https://canggu-dream-village.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:39.505493+00:00
+
+ ## ** CAPSULE INN BALI, LEGIAN (BALI) **
+ - [https://capsule-inn-bali-legian.all-balihotels.net](https://capsule-inn-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:39.219089+00:00
+
+ ## CARA CARA INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $25
+ - [https://cara-cara-inn.all-balihotels.net](https://cara-cara-inn.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:58.693439+00:00
+
+ ## HOTEL CHAMPLUNG SARI | ⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $36
+ - [https://champlung-sari-ubud.all-balihotels.net](https://champlung-sari-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:59.566334+00:00
+
+ ## **** HOTEL CITADINES BERAWA BEACH BALI, CANGGU (BALI) ****
+ - [https://citadines-berawa-beach-bali.all-balihotels.net](https://citadines-berawa-beach-bali.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:29.718767+00:00
+
+ ## CLIO | SEMINYAK, INDONESIA | SEASON DEALS FROM $57
+ - [https://clio-apartment-seminyak.all-balihotels.net](https://clio-apartment-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:55.222411+00:00
+
+ ## COAST BOUTIQUE | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $51
+ - [https://coast-boutique-apartments-kuta.all-balihotels.net](https://coast-boutique-apartments-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:19.792345+00:00
+
+ ## COCONUTS BEACH RESORT | ⋆⋆⋆ | NUSA LEMBONGAN, INDONESIA | SEASON DEALS FROM $47
+ - [https://coconuts-beach-resort-nusa-lembongan.all-balihotels.net](https://coconuts-beach-resort-nusa-lembongan.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:49.848972+00:00
+
+ ## NATYA HOTEL TANAH LOT | ⋆⋆⋆ | TABANAN, INDONESIA | SEASON DEALS FROM $74
+ - [https://coco-tanah-lot-tabanan.all-balihotels.net](https://coco-tanah-lot-tabanan.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:37.108386+00:00
+
+ ## HOTEL CONRAD BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $217
+ - [https://conrad-bali-nusa-dua.all-balihotels.net](https://conrad-bali-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:04.720285+00:00
+
+ ## COURTYARD BY MARRIOTT BALI NUSA DUA RESORT | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $243
+ - [https://courtyard-by-marriott-bali-nusa-dua-resort.all-balihotels.net](https://courtyard-by-marriott-bali-nusa-dua-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:08.055406+00:00
+
+ ## COURTYARD BY MARRIOTT BALI SEMINYAK RESORT | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $183
+ - [https://courtyard-by-marriott-bali-seminyak.all-balihotels.net](https://courtyard-by-marriott-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:23.035913+00:00
+
+ ## HOTEL DAFAM SAVVOYA SEMINYAK | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $29
+ - [https://dafam-savvoya-seminyak.all-balihotels.net](https://dafam-savvoya-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:57.076801+00:00
+
+ ## DASH HOTEL SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $105
+ - [https://dash-seminyak.all-balihotels.net](https://dash-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:30.851296+00:00
+
+ ## D'CAMEL HOTEL LEMBONGAN | ⋆⋆ | NUSA LEMBONGAN, INDONESIA | SEASON DEALS FROM $18
+ - [https://dcamel-lembongan-nusa-lembongan.all-balihotels.net](https://dcamel-lembongan-nusa-lembongan.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:02.960041+00:00
+
+ ## EDEN HOTEL KUTA BALI | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $524
+ - [https://eden-kuta.all-balihotels.net](https://eden-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:22.851322+00:00
+
+ ## HOTEL FAIRFIELD BY MARRIOTT BALI LEGIAN | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $73
+ - [https://fairfield-by-marriott-bali-legian-kuta.all-balihotels.net](https://fairfield-by-marriott-bali-legian-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:23.673818+00:00
+
+ ## FAME HOTEL SUNSET ROAD | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $29
+ - [https://fame-bali-legian.all-balihotels.net](https://fame-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:03.867529+00:00
+
+ ## FAVEHOTEL TOHPATI | ⋆⋆⋆ | DENPASAR, INDONESIA | SEASON DEALS FROM $33
+ - [https://fave-tohpati-denpasar.all-balihotels.net](https://fave-tohpati-denpasar.all-balihotels.net)
+ - date_published: 2024-10-16T13:24:18.693560+00:00
+
+ ## FONTANA HOTEL BALI, A PHM COLLECTION | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $76
+ - [https://fontana-a-phm-collection.all-balihotels.net](https://fontana-a-phm-collection.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:08.978301+00:00
+
+ ## HOTEL FOURTEEN ROSES BEACH | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $25
+ - [https://fourteen-roses-beach.all-balihotels.net](https://fourteen-roses-beach.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:47.979636+00:00
+
+ ## HOTEL FRII BALI ECHO BEACH | ⋆⋆⋆ | CANGGU, INDONESIA | SEASON DEALS FROM $53
+ - [https://frii-bali-echo-beach-canggu.all-balihotels.net](https://frii-bali-echo-beach-canggu.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:12.452938+00:00
+
+ ## GANA INN LEGIAN | ⋆⋆ | INDONESIA | SEASON DEALS FROM $13
+ - [https://gana-inn-legian.all-balihotels.net](https://gana-inn-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:22.137080+00:00
+
+ ## GANGA HOTEL & | ⋆⋆⋆ | DENPASAR, INDONESIA | SEASON DEALS FROM $23
+ - [https://ganga-apartment-denpasar.all-balihotels.net](https://ganga-apartment-denpasar.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:31.725331+00:00
+
+ ## DE VINS SKY HOTEL SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $137
+ - [https://golden-tulip-devins-seminyak.all-balihotels.net](https://golden-tulip-devins-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:15.246289+00:00
+
+ ## GOLDEN TULIP JINENG RESORT BALI | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $83
+ - [https://golden-tulip-jineng-resort-bal-kuta.all-balihotels.net](https://golden-tulip-jineng-resort-bal-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:13.475352+00:00
+
+ ## GORA BEACH INN | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $15
+ - [https://gora-beach-inn-kuta.all-balihotels.net](https://gora-beach-inn-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:18.920566+00:00
+
+ ## HOTEL GRAND HYATT BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $543
+ - [https://grand-hyatt-bali-nusa-dua.all-balihotels.net](https://grand-hyatt-bali-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:08.737938+00:00
+
  ## GRAND INNA KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $84
  - [https://grand-inna-kuta-kuta.all-balihotels.net](https://grand-inna-kuta-kuta.all-balihotels.net)
  - date_published: 2024-10-16T13:27:25.827070+00:00
@@ -3919,132 +4047,4 @@
  ## Alcaldía de Medellín | Portal institucional
  - [https://cdnwordpresstestjs-eufuhqb0czcfayeu.z01.azurefd.net](https://cdnwordpresstestjs-eufuhqb0czcfayeu.z01.azurefd.net)
  - date_published: 2024-09-12T00:30:59+00:00
-
- ## Events Assistant
- - [https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net](https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net)
- - date_published: 2024-07-08T10:58:41+00:00
-
- ## FHF - Fiskeri- og havbruksnæringens forskningsfinansiering
- - [https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net](https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Live Center
- - [https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net](https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net)
- - date_published: 2024-08-18T21:20:09.449834+00:00
-
- ## Digizuite DAM for Hootsuite
- - [https://mango-tree-001f62003.1.azurestaticapps.net](https://mango-tree-001f62003.1.azurestaticapps.net)
- - date_published: 2023-07-31T06:31:07+00:00
-
- ## Banco de proyectos
- - [https://proud-ground-03115c710.2.azurestaticapps.net](https://proud-ground-03115c710.2.azurestaticapps.net)
- - date_published: 2022-11-15T18:28:41+00:00
-
- ## Triton Digital
- - [https://zealous-meadow-0f2313e10.2.azurestaticapps.net](https://zealous-meadow-0f2313e10.2.azurestaticapps.net)
- - date_published: 2024-06-21T18:28:42+00:00
-
- ## Partner directory
- - [https://main.int.marketplacepartnerdirectory.azure-test.net](https://main.int.marketplacepartnerdirectory.azure-test.net)
- - date_published: 2024-05-15T14:17:00+00:00
-
- ## Digital Wonderlab - The digital impact agency
- - [https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net](https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net)
- - date_published: 2024-10-20T02:15:01.849958+00:00
-
- ## Home
- - [https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net](https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net)
- - date_published: 2024-06-15T05:06:14.810994+00:00
-
- ## ACCIONA | Business as unusual
- - [https://accionacorp.azurewebsites.net](https://accionacorp.azurewebsites.net)
- - date_published: 2024-09-16T01:48:24.114334+00:00
-
- ## Powered by Coffee
- - [https://adamstorr.azurewebsites.net](https://adamstorr.azurewebsites.net)
- - date_published: 2024-04-26T07:56:09+00:00
-
- ## Your Azure Function App is up and running.
- - [https://aemint-search-client-funcapp-prod.azurewebsites.net](https://aemint-search-client-funcapp-prod.azurewebsites.net)
- - date_published: 2024-07-06T21:41:56.638772+00:00
-
- ## Home - Allegheny Analytics
- - [http://alleghenyanalytics.azurewebsites.net](http://alleghenyanalytics.azurewebsites.net)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Your Azure Function App is up and running.
- - [https://amcgmarketplaceservicesbigcommerceapi.azurewebsites.net](https://amcgmarketplaceservicesbigcommerceapi.azurewebsites.net)
- - date_published: 2024-07-15T05:10:44.092188+00:00
-
- ## Your Azure Function App is up and running.
- - [https://amcgmarketplaceservicesbigcommerceapi-qa.azurewebsites.net](https://amcgmarketplaceservicesbigcommerceapi-qa.azurewebsites.net)
- - date_published: 2024-07-15T05:10:47.344857+00:00
-
- ## We are Planet: The home of feel-good connected commerce
- - [http://apoz-app-weareplanet-docker-sa-website-staging.azurewebsites.net](http://apoz-app-weareplanet-docker-sa-website-staging.azurewebsites.net)
- - date_published: 2024-09-17T14:11:17+00:00
-
- ## Your Azure Function App is up and running.
- - [https://app505-dayforce-csp-func.azurewebsites.net](https://app505-dayforce-csp-func.azurewebsites.net)
- - date_published: 2024-06-16T21:40:04.148973+00:00
-
- ## Sign in - Matomo
- - [https://app-fnsp-matomo-analytics-prod.azurewebsites.net](https://app-fnsp-matomo-analytics-prod.azurewebsites.net)
- - date_published: 2024-07-15T04:15:25.076744+00:00
-
- ## Log in Medius
- - [https://app-mediuspublic-prod-westeurope.azurewebsites.net](https://app-mediuspublic-prod-westeurope.azurewebsites.net)
- - date_published: 2024-10-29T23:30:03.896104+00:00
-
- ## The UK Net Zero Business Census
- - [http://app-planet-mark.azurewebsites.net](http://app-planet-mark.azurewebsites.net)
- - date_published: 2024-10-21T19:38:20.537614+00:00
-
- ## Home
- - [https://app-smb-prod-eastus-fe.azurewebsites.net](https://app-smb-prod-eastus-fe.azurewebsites.net)
- - date_published: 2024-07-10T05:07:03.832515+00:00
-
- ## Web App - Unavailable
- - [http://as-ms365insider-web-wus3.azurewebsites.net](http://as-ms365insider-web-wus3.azurewebsites.net)
- - date_published: 2024-08-18T14:53:28.593514+00:00
-
- ## Login - Express Discounts
- - [https://authentication-elian-express-v3.azurewebsites.net](https://authentication-elian-express-v3.azurewebsites.net)
- - date_published: 2024-06-18T06:57:38.194375+00:00
-
- ## Connectez-vous - Irish Mirror Discounts
- - [https://authentication-elian-irishmirror-v3.azurewebsites.net](https://authentication-elian-irishmirror-v3.azurewebsites.net)
- - date_published: 2024-10-21T02:55:53.724634+00:00
-
- ## Connectez-vous - Le Figaro
- - [https://authentication-elian-lefigaro-mv3.azurewebsites.net](https://authentication-elian-lefigaro-mv3.azurewebsites.net)
- - date_published: 2024-05-08T00:26:07.347456+00:00
-
- ## Login - Mirror Discounts
- - [https://authentication-elian-mirror-v3.azurewebsites.net](https://authentication-elian-mirror-v3.azurewebsites.net)
- - date_published: 2024-06-17T20:00:51.726655+00:00
-
- ## Home Page - Autotune
- - [https://autotuneweb.azurewebsites.net](https://autotuneweb.azurewebsites.net)
- - date_published: 2024-07-19T23:16:39.919632+00:00
-
- ## Microsoft Azure App Service - Welcome
- - [https://awwapixel012.azurewebsites.net](https://awwapixel012.azurewebsites.net)
- - date_published: 2024-04-26T07:06:31+00:00
-
- ## The Azure Podcast | By Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello
- - [http://azpodcast.azurewebsites.net](http://azpodcast.azurewebsites.net)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Your Azure Function App is up and running.
- - [https://blogcomments.azurewebsites.net](https://blogcomments.azurewebsites.net)
- - date_published: 2024-06-17T02:51:58.654946+00:00
-
- ## Your Azure Function App is up and running.
- - [https://botfilestorefunction.azurewebsites.net](https://botfilestorefunction.azurewebsites.net)
- - date_published: 2024-07-17T03:24:03.775193+00:00
-
- ## Tomo Bot JP
- - [https://bsp-tomo-jp.azurewebsites.net](https://bsp-tomo-jp.azurewebsites.net)
- - date_published: 2024-04-10T15:27:24+00:00
 

@@ -1,3 +1,19 @@
+ ## When I'm King
+ - [http://batsby.blogspot.com](http://batsby.blogspot.com)
+ - date_published: 2024-10-21T14:32:55.831396+00:00
+
+ ## The Battle Barn
+ - [http://battlebarn.blogspot.com](http://battlebarn.blogspot.com)
+ - date_published: 2024-09-13T04:36:54+00:00
+
+ ## Battle Bunnies
+ - [http://battlebunnies.blogspot.com](http://battlebunnies.blogspot.com)
+ - date_published: 2024-06-14T02:38:58+00:00
+
+ ## Battle Flag
+ - [http://battleflags.blogspot.com](http://battleflags.blogspot.com)
+ - date_published: 2024-07-02T06:14:32+00:00
+
  ## FCY: Battlemech Models
  - [https://battlemechclub.blogspot.com](https://battlemechclub.blogspot.com)
  - date_published: 2024-10-20T21:47:12+00:00
@@ -3999,20 +4015,4 @@
  ## Cor blog me!
  - [http://corblogme.blogspot.com](http://corblogme.blogspot.com)
  - date_published: 2024-07-19T00:00:00+00:00
-
- ## CoreGenomics
- - [https://core-genomics.blogspot.com](https://core-genomics.blogspot.com)
- - date_published: 2024-05-28T20:58:00+00:00
-
- ## Corey Goldberg
- - [http://coreygoldberg.blogspot.com](http://coreygoldberg.blogspot.com)
- - date_published: 2018-09-07T00:00:00+00:00
-
- ## Corgi Guy
- - [http://corgiguyblog.blogspot.com](http://corgiguyblog.blogspot.com)
- - date_published: 2024-03-13T15:01:01+00:00
-
- ## Running in Cork, Ireland
- - [http://corkrunning.blogspot.com](http://corkrunning.blogspot.com)
- - date_published: 2024-10-31T23:30:07+00:00
 

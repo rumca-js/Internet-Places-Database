@@ -1,3 +1,135 @@
+ ## Perpetrator Studies Network |
+ - [https://perpetratorstudies.sites.uu.nl](https://perpetratorstudies.sites.uu.nl)
+ - date_published: 2024-10-18T19:50:06.527246+00:00
+
+ ## Pharmaceutical Honours Programmes | Universiteit Utrecht
+ - [https://pharmaceuticalhonours.sites.uu.nl](https://pharmaceuticalhonours.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:44.435807+00:00
+
+ ## AI Lab voor de Publieke Diensten
+ - [https://phd-it-programma.sites.uu.nl](https://phd-it-programma.sites.uu.nl)
+ - date_published: 2024-10-18T19:54:53.254252+00:00
+
+ ## PIAMA | Utrecht University
+ - [https://piama.iras.uu.nl](https://piama.iras.uu.nl)
+ - date_published: 2024-10-18T19:54:09.776631+00:00
+
+ ## Piraten en Prinsessen | gelijke kansen stimuleren in de ontwikkeling van jongens en meisjes
+ - [https://piratenenprinsessen.sites.uu.nl](https://piratenenprinsessen.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:21.734429+00:00
+
+ ## Plant-RX | Long-term research program on plant resilience
+ - [https://plantrx.sites.uu.nl](https://plantrx.sites.uu.nl)
+ - date_published: 2024-10-18T19:49:12.278651+00:00
+
+ ## PoEthics | Universiteit Utrecht
+ - [https://poethics.sites.uu.nl](https://poethics.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:06.685344+00:00
+
+ ## poetics1 | A project at Utrecht University
+ - [https://poetics1.sites.uu.nl](https://poetics1.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:31.720374+00:00
+
+ ## Handboek farmaceutisch praktijkonderzoek | UPPER
+ - [https://praktijkonderzoek.sites.uu.nl](https://praktijkonderzoek.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:03.204498+00:00
+
+ ## FSBS Privacy & Data Management | Social and Behavioural Sciences
+ - [https://privacy-fss.sites.uu.nl](https://privacy-fss.sites.uu.nl)
+ - date_published: 2024-10-18T19:51:17.631126+00:00
+
+ ## Onderwijs voor professionals - Universiteit Utrecht
+ - [https://professionals.uu.nl](https://professionals.uu.nl)
+ - date_published: 2024-06-17T11:00:37.490659+00:00
+
+ ## Catalogus Professorum
+ - [https://profs.library.uu.nl](https://profs.library.uu.nl)
+ - date_published: 2024-08-19T15:21:11.867794+00:00
+
+ ## Private Property and Political Power | Utrecht University
+ - [https://propertyandpower.sites.uu.nl](https://propertyandpower.sites.uu.nl)
+ - date_published: 2024-10-18T19:53:25.114190+00:00
+
+ ## PSICOM: Pragmatics and Semantics In Cognitive Modelling | Universiteit Utrecht
+ - [https://psicom.sites.uu.nl](https://psicom.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:09.384023+00:00
+
+ ## Proof Theory in Logic (1-2 July 2019) | Universiteit Utrecht
+ - [https://ptil.sites.uu.nl](https://ptil.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:34.504825+00:00
+
+ ## Reading Zoos in the Age of the Anthropocene | Utrecht University
+ - [https://readingzoos.sites.uu.nl](https://readingzoos.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:05.077727+00:00
+
+ ## Regels en Authoriteit bij Leerlingen en Leraren (REALL-talk) | Universiteit Utrecht
+ - [https://reall.sites.uu.nl](https://reall.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:22.601509+00:00
+
+ ## Religion(s) and Cultural Production(s) of the Italian Diaspora(s) | Universiteit Utrecht
+ - [https://religionsandmigrations.sites.uu.nl](https://religionsandmigrations.sites.uu.nl)
+ - date_published: 2024-10-18T19:54:01.225284+00:00
+
+ ## Responsible ICT | Universiteit Utrecht
+ - [https://responsibleict.sites.uu.nl](https://responsibleict.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:38.844036+00:00
+
+ ## The Music Publishing House of Estienne Roger and Michel-Charles Le Cène | Universiteit Utrecht
+ - [https://roger.sites.uu.nl](https://roger.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:46.296071+00:00
+
+ ## Romeinen aan de Rijnmond | Universiteit Utrecht
+ - [https://romeinenaanderijnmond.sites.uu.nl](https://romeinenaanderijnmond.sites.uu.nl)
+ - date_published: 2024-10-18T19:53:47.270522+00:00
+
+ ## Sacralizing Security: Religion, Violence and Authority (SACRASEC) ERC Consolidator Project | Universiteit Utrecht
+ - [https://sacrasec.sites.uu.nl](https://sacrasec.sites.uu.nl)
+ - date_published: 2024-10-18T19:51:22.793949+00:00
+
+ ## Sacrality and the Greek Polis | Universiteit Utrecht
+ - [https://sanctuaries.sites.uu.nl](https://sanctuaries.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:19.725101+00:00
+
+ ## Sandro Penna Study Day | Universiteit Utrecht
+ - [https://sandropenna.sites.uu.nl](https://sandropenna.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:22.850134+00:00
+
+ ## Science to Share | Everyday science for everyday people
+ - [https://science-communication.sites.uu.nl](https://science-communication.sites.uu.nl)
+ - date_published: 2024-10-18T19:51:05.875112+00:00
+
+ ## SCIQUAL2017 | Universiteit Utrecht
+ - [https://sciqual2017.sites.uu.nl](https://sciqual2017.sites.uu.nl)
+ - date_published: 2024-10-18T19:48:42.993697+00:00
+
+ ## Utrecht Seismology | Universiteit Utrecht
+ - [https://seismologie.sites.uu.nl](https://seismologie.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:45.611628+00:00
+
+ ## The Reception Of The Seleucids | Universiteit Utrecht
+ - [https://seleucids.sites.uu.nl](https://seleucids.sites.uu.nl)
+ - date_published: 2024-10-18T19:49:07.489945+00:00
+
+ ## What can the humanities contribute to our practical self-understanding? |
+ - [https://selfunderstanding.sites.uu.nl](https://selfunderstanding.sites.uu.nl)
+ - date_published: 2024-10-18T19:51:01.625147+00:00
+
+ ## Sidrik studie | Universiteit Utrecht
+ - [https://sidrik.sites.uu.nl](https://sidrik.sites.uu.nl)
+ - date_published: 2024-10-18T19:55:48.103437+00:00
+
+ ## Silvana Grasso Conference | Universiteit Utrecht
+ - [https://silvanagrasso.sites.uu.nl](https://silvanagrasso.sites.uu.nl)
+ - date_published: 2024-10-18T19:47:44.719114+00:00
+
+ ## Sociolinguistics Circle 2019 | Universiteit Utrecht
+ - [https://sociolinguisticscircle2019.sites.uu.nl](https://sociolinguisticscircle2019.sites.uu.nl)
+ - date_published: 2024-10-18T19:54:11.137749+00:00
+
+ ## SoundStart: Prosodic development before birth and in the first three years of life | Universiteit Utrecht
+ - [https://soundstart.sites.uu.nl](https://soundstart.sites.uu.nl)
+ - date_published: 2024-10-18T19:51:26.150202+00:00
+
  ## Spiroplot | Utrecht University
  - [https://spiroplot.sites.uu.nl](https://spiroplot.sites.uu.nl)
  - date_published: 2024-10-18T19:55:36.502998+00:00
@@ -3883,138 +4015,4 @@
  ## Shoreline Design
  - [https://app.shoreline.no](https://app.shoreline.no)
  - date_published: 2024-06-12T07:37:21+00:00
-
- ## Shoreline Execution
- - [https://mpa.shoreline.no](https://mpa.shoreline.no)
- - date_published: 2024-06-19T13:42:05+00:00
-
- ## Shoreline Wind
- - [https://shoreline.no](https://shoreline.no)
- - date_published: 2024-05-04T08:01:12.955921+00:00
-
- ## Front page | Sigma2
- - [https://www.sigma2.no](https://www.sigma2.no)
- - date_published: 2024-09-12T09:27:22+00:00
-
- ## Sildajazz 2024
- - [http://www.sildajazz.no](http://www.sildajazz.no)
- - date_published: 2024-08-02T18:47:19.862322+00:00
-
- ## Silva Green Fuel
- - [https://www.silvagreenfuel.no](https://www.silvagreenfuel.no)
- - date_published: 2024-06-30T06:33:17.919565+00:00
-
- ## Startside - SiMolde
- - [https://www.simolde.no](https://www.simolde.no)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Simula Research Laboratory
- - [https://simula.no](https://simula.no)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Log in | Simula
- - [https://web-backend.simula.no](https://web-backend.simula.no)
- - date_published: 2024-07-19T18:51:50.506936+00:00
-
- ## Simula Innovation | Tech Investor | Oslo
- - [https://www.simulainnovation.no](https://www.simulainnovation.no)
- - date_published: 2024-07-19T18:51:51.905329+00:00
-
- ## Simula Metropolitan Center for Digital Engineering
- - [https://simulamet.no](https://simulamet.no)
- - date_published: 2024-07-19T18:51:49.365883+00:00
-
- ## Simula UiB – Solving Problems in Cyber Security
- - [https://simula-uib.no](https://simula-uib.no)
- - date_published: 2024-07-19T18:51:53.784746+00:00
-
- ## SINTEF - Anvendt forskning, teknologi og innovasjon
- - [https://www.sintef.no](https://www.sintef.no)
- - date_published: 2024-06-24T03:46:27+00:00
-
- ## Leiebil Norge - Europa & resten av verden | Sixt Bilutleie
- - [https://sixt.no](https://sixt.no)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Skanska i Norge | www.skanska.no
- - [https://www.skanska.no](https://www.skanska.no)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Person - Skatteetaten
- - [https://skatteetaten.no](https://skatteetaten.no)
- - date_published: 2023-10-27T12:06:13.607518+00:00
-
- ## Skepsis Norge
- - [http://skepsis.no](http://skepsis.no)
- - date_published: 2024-10-29T18:37:02.450734+00:00
-
- ## Store Norske Skriftkompani – Typefaces
- - [https://skriftkompani.no](https://skriftkompani.no)
- - date_published: 2024-05-04T06:31:37.653256+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.no](https://www.skyscanner.no)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Smart Media – Et kreativt byrå som hjelper merkevarer opp og frem
- - [https://smartmedia.no](https://smartmedia.no)
- - date_published: 2024-10-31T02:22:55.130387+00:00
-
- ## Smart Molde - Molde kommune
- - [https://www.smartmolde.no](https://www.smartmolde.no)
- - date_published: 2024-07-15T04:14:40.308304+00:00
-
- ## snabelen.no
- - [https://snabelen.no](https://snabelen.no)
- - date_published: 2024-05-09T08:18:50.057667+00:00
-
- ## - Soco
- - [https://soco.no](https://soco.no)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## soderlind - Overview
- - [http://soderlind.no](http://soderlind.no)
- - date_published: 2024-07-22T17:40:24.212222+00:00
-
- ## Sony Norge | De siste teknologinyhetene | Elektronikk | Underholdning
- - [http://www.sony.no](http://www.sony.no)
- - date_published: 2024-10-21T07:37:59.011230+00:00
-
- ## Sopra Steria Norge | Norges ledende konsulentselskap innen digitalisering, innovasjon og  bærekraft
- - [https://www.soprasteria.no](https://www.soprasteria.no)
- - date_published: 2024-07-04T12:16:18.463357+00:00
-
- ## Spaceballs - Demozoo
- - [https://spaceballs.no](https://spaceballs.no)
- - date_published: 2024-06-14T07:07:01.262161+00:00
- - tags: ['amiga', 'demoscene']
-
- ## SPACEGROUP
- - [https://www.spacegroup.no](https://www.spacegroup.no)
- - date_published: 2024-07-10T10:34:47.249901+00:00
-
- ## Et ledende miljø i norsk romindustri | Space Norway
- - [https://spacenorway.no](https://spacenorway.no)
- - date_published: 2023-11-10T16:04:50.344777+00:00
-
- ## Bank
- - [https://www.sparebank1.no](https://www.sparebank1.no)
- - date_published: 2023-09-18T00:00:00+00:00
-
- ## Sparebankstiftelsen | Forside
- - [https://www.sparebankstiftelsen.no](https://www.sparebankstiftelsen.no)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Om oss - Foredragsholdere & Konferansier
- - [https://speakersandfriends.no](https://speakersandfriends.no)
- - date_published: 2022-07-31T00:00:00+00:00
-
- ## Spillhistorie.no
- - [https://spillhistorie.no](https://spillhistorie.no)
- - date_published: 2024-05-15T13:54:27+00:00
- - tags: ['personal', 'retro games']
-
- ## Spafo Norge - Spafo Norge
- - [https://www.spondylitten.no](https://www.spondylitten.no)
- - date_published: 2024-04-25T00:00:00+00:00
 

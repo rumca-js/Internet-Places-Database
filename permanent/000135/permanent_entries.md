@@ -1,3 +1,62 @@
+ ## LayoffsTracker – Track all Tech & Startup layoffs globally
+ - [https://layoffstracker.com](https://layoffstracker.com)
+ - date_published: 2023-10-25T15:43:16.547456+00:00
+
+ - [https://www.layoff-sucks.com](https://www.layoff-sucks.com)
+ - date_published: 2024-01-09T02:41:48.638192+00:00
+
+ ## LayoutHub Library
+ - [https://library.layouthub.com](https://library.layouthub.com)
+ - date_published: 2024-07-18T06:32:22+00:00
+
+ ## Layout International
+ - [http://layoutintl.com](http://layoutintl.com)
+ - date_published: 2024-08-18T13:52:36.069046+00:00
+
+ ## Layoutit Grid — CSS Grids layouts made easy!
+ - [https://grid.layoutit.com](https://grid.layoutit.com)
+ - date_published: 2024-10-22T19:20:00.807234+00:00
+
+ ## Sign up
+ - [https://affiliates.laytheme.com](https://affiliates.laytheme.com)
+ - date_published: 2024-10-29T14:32:44.154611+00:00
+
+ ## Website Template – Lay Theme
+ - [https://laytheme.com](https://laytheme.com)
+ - date_published: 2024-04-02T19:35:34+00:00
+
+ ## Home
+ - [https://group.lazada.com](https://group.lazada.com)
+ - date_published: 2024-08-18T05:21:19.272097+00:00
+
+ ## Home
+ - [https://www.lazada.com](https://www.lazada.com)
+ - date_published: 2024-05-01T05:49:43.764408+00:00
+
+ ## Lazard | Lazard
+ - [https://www.lazard.com](https://www.lazard.com)
+ - date_published: 2023-10-25T15:43:20.691281+00:00
+
+ ## Lazard Asset Management
+ - [https://www.lazardassetmanagement.com](https://www.lazardassetmanagement.com)
+ - date_published: 2024-05-04T12:02:41.685932+00:00
+
+ ## Accueil - Lazard Frères Gestion  - Belgique (EN)
+ - [http://be.lazardfreresgestion.com](http://be.lazardfreresgestion.com)
+ - date_published: 2024-06-21T10:36:57.934340+00:00
+
+ ## Lazer Cycling Helmets | Lazer
+ - [https://www.lazersport.com](https://www.lazersport.com)
+ - date_published: 2024-08-19T09:59:00.182822+00:00
+
+ ## Emilia Lazer-Walker
+ - [http://blog.lazerwalker.com](http://blog.lazerwalker.com)
+ - date_published: 2022-06-14T00:00:00+00:00
+
+ ## Emilia Lazer-Walker
+ - [https://lazerwalker.com](https://lazerwalker.com)
+ - date_published: 2023-01-31T19:48:25+00:00
+
  ## Lazman Hazeh Music – For Such A Time as This
  - [https://lazmanhazehmusic.com](https://lazmanhazehmusic.com)
  - date_published: 2024-05-07T16:12:07.026662+00:00
@@ -1927,6 +1986,10 @@ LearnWorlds
  ## Gitea: Git with a cup of tea
  - [https://git.leetnightshade.com](https://git.leetnightshade.com)
  - date_published: 2024-07-13T11:25:50.670903+00:00
+
+ ## leetsoftware.com
+ - [https://leetsoftware.com](https://leetsoftware.com)
+ - date_published: 2024-11-18T16:22:42+00:00
 
  ## Home - Lee Valley Tools
  - [http://www.leevalley.com](http://www.leevalley.com)
@@ -3977,68 +4040,4 @@ LearnWorlds
  ## Shibuya
  - [https://shibuya.lepture.com](https://shibuya.lepture.com)
  - date_published: 2024-07-13T13:20:29+00:00
-
- ## Le Râle du casu
- - [https://leraleducasu.com](https://leraleducasu.com)
- - date_published: 2024-05-07T14:58:11.376741+00:00
-
- ## Rasmus' Toys Blog | Toys
- - [https://toys.lerdorf.com](https://toys.lerdorf.com)
- - date_published: 2019-10-10T00:00:00+00:00
-
- ## Leremy Stick Figures | Welcome to the World of Stick Figures
- - [https://www.leremy.com](https://www.leremy.com)
- - date_published: 2023-06-28T01:15:50+00:00
-
- ## LernVid.com : Webzine des dernières tendances du Web !
- - [http://www.lernvid.com](http://www.lernvid.com)
- - date_published: 2024-01-20T13:05:49+00:00
-
- ## Lerrel Pinto
- - [https://lerrelpinto.com](https://lerrelpinto.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## LES 5 SUR 5 – Collectif de graphistes
- - [http://les5sur5.com](http://les5sur5.com)
- - date_published: 2024-07-08T11:04:43.642915+00:00
-
- ## Le Sac de chips | Nouvelles insolites et virales, vedettes et faits divers
- - [https://www.lesacdechips.com](https://www.lesacdechips.com)
- - date_published: 2024-08-19T08:10:59.203299+00:00
-
- ## Accueil
- - [http://www.lesaffaires.com](http://www.lesaffaires.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Le Sagittarius | Branding & Website Design For Entrepreneurs
- - [https://lesagittarius.com](https://lesagittarius.com)
- - date_published: 2024-08-14T20:52:56.826052+00:00
-
- ## Accueil | Le Saint James Bergerac | Bistrot | Restaurant | Bar | Lounge | Bergerac
- - [https://www.le-saint-james.com](https://www.le-saint-james.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Lesa's Book Critiques
- - [https://lesasbookcritiques.com](https://lesasbookcritiques.com)
- - date_published: 2024-10-17T23:06:05.292781+00:00
-
- ## Hannah Levesque - Bâtisseuse de maquettes d&#39;émotions
- - [https://lesbeauxjours-boutique.com](https://lesbeauxjours-boutique.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Les bons comptes
- - [https://www.lesbonscomptes.com](https://www.lesbonscomptes.com)
- - date_published: 2019-07-07T06:20:16+00:00
-
- ## Les clés de la banque - Particulier - Tout savoir sur la banque au quotidien pour mieux gérer vos finances
- - [https://www.lesclesdelabanque.com](https://www.lesclesdelabanque.com)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Les Echos Le Parisien Evénements - Créateur d'expériences événementielles
- - [https://www.lesechosleparisien-evenements.com](https://www.lesechosleparisien-evenements.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Les Éclaireuses - Offrez à vos oreilles des histoires pertinentes et impertinentes
- - [https://podcasts.leseclaireuses.com](https://podcasts.leseclaireuses.com)
- - date_published: 2024-05-30T00:00:00+00:00
 

@@ -1,3 +1,143 @@
+ ## Головна
+ - [https://ui.org.ua](https://ui.org.ua)
+ - date_published: 2024-09-18T16:57:58.687814+00:00
+
+ ## УІРО
+ - [https://uied.org.ua](https://uied.org.ua)
+ - date_published: 2024-10-19T23:21:59.759059+00:00
+
+ ## Home - UNHCR Україна
+ - [http://unhcr.org.ua](http://unhcr.org.ua)
+ - date_published: 2024-10-19T23:00:15.870890+00:00
+
+ ## UNIC — нова ініціатива для бізнесу в Україні
+ - [https://unic.org.ua](https://unic.org.ua)
+ - date_published: 2024-09-19T19:48:07+00:00
+
+ ## Головна - Голоси дітей
+ - [https://voices.org.ua](https://voices.org.ua)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Злий збір на БпЛА «Бекфаєр»
+ - [https://zlyizbir.org.ua](https://zlyizbir.org.ua)
+ - date_published: 2024-04-28T12:41:42+00:00
+
+ ## Domain Default page
+ - [http://html.te.ua](http://html.te.ua)
+ - date_published: 2024-05-15T07:17:11+00:00
+
+ ## Новини 24, останні події, свіжі репортажі, ексклюзиви | Телеканал 24
+ - [https://24tv.ua](https://24tv.ua)
+ - date_published: 2024-06-17T16:59:39+00:00
+
+ ## Новини: останні автоновини сьогодні на порталі auto.24tv.ua
+ - [https://auto.24tv.ua](https://auto.24tv.ua)
+ - date_published: 2024-10-19T22:55:01.327791+00:00
+
+ ## Новини для бізнесу, тренди, бізнес-новини України та світу - Бізнес 24
+ - [https://business.24tv.ua](https://business.24tv.ua)
+ - date_published: 2024-10-19T22:54:30.535465+00:00
+
+ ## Економіка 24 - Новини економіки і фінансів України та світу, соцвиплати і соцзабезпечення
+ - [https://economy.24tv.ua](https://economy.24tv.ua)
+ - date_published: 2024-10-19T22:54:25.187110+00:00
+
+ ## Освіта 24 - Останні новини світу навчання для школярів та батьків
+ - [https://education.24tv.ua](https://education.24tv.ua)
+ - date_published: 2024-10-19T22:54:50.248688+00:00
+
+ ## Фінанси 24: Новини фінансових ринків, forex та криптовалюти
+ - [https://financy.24tv.ua](https://financy.24tv.ua)
+ - date_published: 2024-10-19T22:54:51.637569+00:00
+
+ ## Ми допомагаємо ЗСУ
+ - [https://fund.24tv.ua](https://fund.24tv.ua)
+ - date_published: 2024-10-19T22:55:07.044279+00:00
+
+ ## Комп'ютерні ігри, огляди, ігрові новини та дати виходу - 24 Games
+ - [https://games.24tv.ua](https://games.24tv.ua)
+ - date_published: 2024-10-19T22:54:59.859648+00:00
+
+ ## Чоловічий журнал - Мода, Гід по стилю, Спорт на Gentleman 24
+ - [https://gentleman.24tv.ua](https://gentleman.24tv.ua)
+ - date_published: 2024-10-19T22:54:54.432911+00:00
+
+ ## Health 24: новини медицини, здоровʼя та краси в Україні та світі
+ - [https://health.24tv.ua](https://health.24tv.ua)
+ - date_published: 2024-10-19T22:54:23.105719+00:00
+
+ ## Новини кіно та фільмів з усього світу - Кіно24
+ - [https://kino.24tv.ua](https://kino.24tv.ua)
+ - date_published: 2024-10-19T22:54:57.042385+00:00
+
+ ## Мода і стиль, тренди в одязі, манікюрі і макіяжі - Lady 24
+ - [https://lady.24tv.ua](https://lady.24tv.ua)
+ - date_published: 2024-10-19T22:54:28.949389+00:00
+
+ ## Все про подорожі, красу, шоу-біз, стиль та моду на LifeStyle 24
+ - [https://lifestyle.24tv.ua](https://lifestyle.24tv.ua)
+ - date_published: 2024-10-19T22:54:53.166768+00:00
+
+ ## Все про здоровий спосіб життя і правильне харчування - Поради 24
+ - [https://porady.24tv.ua](https://porady.24tv.ua)
+ - date_published: 2024-10-19T22:54:33.097543+00:00
+
+ ## 24 Канал на пристроях
+ - [https://promo.24tv.ua](https://promo.24tv.ua)
+ - date_published: 2024-10-19T22:54:21.374391+00:00
+
+ ## Новини шоу бізнесу в Україні та світі: свіжі події, скандали - Show
+ - [https://show.24tv.ua](https://show.24tv.ua)
+ - date_published: 2024-10-19T22:54:58.443031+00:00
+
+ ## Новини шоу бізнесу в Україні та світі: свіжі події, скандали - Showbiz
+ - [https://showbiz.24tv.ua](https://showbiz.24tv.ua)
+ - date_published: 2024-10-19T22:54:34.635004+00:00
+
+ ## Смачно 24 – Новини кулінарії – усе про здорове харчування: рецепти, лайфхаки
+ - [https://smachnonews.24tv.ua](https://smachnonews.24tv.ua)
+ - date_published: 2024-10-19T22:54:20.096639+00:00
+
+ ## Новини спорту України та світу - Останні спортивні новини на сьогодні - Спорт 24
+ - [https://sport.24tv.ua](https://sport.24tv.ua)
+ - date_published: 2024-10-19T22:55:02.713055+00:00
+
+ ## Новини спорту України та світу - Останні спортивні новини на сьогодні - Спорт 24
+ - [https://sportnews.24tv.ua](https://sportnews.24tv.ua)
+ - date_published: 2024-10-19T22:54:55.873480+00:00
+
+ ## Закордон 24 – актуальні новини про життя і роботу за кордоном
+ - [https://zakordon.24tv.ua](https://zakordon.24tv.ua)
+ - date_published: 2024-10-19T22:55:10.655651+00:00
+
+ ## Здоровʼя 24: новини медицини, здоровʼя та краси в Україні та світі
+ - [https://zdorovya.24tv.ua](https://zdorovya.24tv.ua)
+ - date_published: 2024-10-19T22:55:09.218996+00:00
+
+ ## Казино 777 Україна онлайн ⑦⑦⑦ ігрові автомати на гроші
+ - [https://777.ua](https://777.ua)
+ - date_published: 2024-06-16T19:48:56.434162+00:00
+
+ ## Інтернет-бізнес в Україні
+ - [https://ain.ua](https://ain.ua)
+ - date_published: 2024-09-25T16:19:12.326676+00:00
+
+ ## Головна - Alfa Romeo Ukraine
+ - [https://www.alfaromeo.ua](https://www.alfaromeo.ua)
+ - date_published: 2024-06-17T04:11:39+00:00
+
+ ## Software Development Company in USA. IT Solutions Agency in US - Artjoker Firm from Ukraine
+ - [https://artjoker.ua](https://artjoker.ua)
+ - date_published: 2024-06-27T11:20:02.248900+00:00
+
+ ## Motorola EZX & MAGX site - Main page
+ - [http://motoezx.at.ua](http://motoezx.at.ua)
+ - date_published: 1970-01-01T00:00:05+00:00
+
+ ## Офіційний сайт Audi в Україні | Audi в Україні
+ - [https://www.audi.ua](https://www.audi.ua)
+ - date_published: 2024-07-19T22:47:14.504847+00:00
+
  ## Avast | Завантажте Free Antivirus і VPN | Просто й безкоштовно
  - [https://avast.ua](https://avast.ua)
  - date_published: 2024-08-08T13:45:00+00:00
@@ -3868,144 +4008,4 @@
  ## Home
  - [https://info.lse.ac.uk](https://info.lse.ac.uk)
  - date_published: 2024-05-09T05:38:09.000767+00:00
-
- ## Journal of Illicit Economies and Development
- - [https://jied.lse.ac.uk](https://jied.lse.ac.uk)
- - date_published: 2024-10-18T17:53:22.254600+00:00
-
- ## LSE Home
- - [https://lse.ac.uk](https://lse.ac.uk)
- - date_published: 2024-03-06T15:28:43.124157+00:00
-
- ## LSE - Individual Web Pages for Taught Students
- - [http://personal.lse.ac.uk](http://personal.lse.ac.uk)
- - date_published: 2015-06-19T12:26:07+00:00
-
- ## LSE Press
- - [http://press.lse.ac.uk](http://press.lse.ac.uk)
- - date_published: 2024-05-09T05:38:18.940160+00:00
-
- ## Curious minds are Shaping the World. Join in. - Shaping the world
- - [https://shapingtheworld.lse.ac.uk](https://shapingtheworld.lse.ac.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## STICERD - The Suntory and Toyota International Centres for Economics and Related Disciplines
- - [https://sticerd.lse.ac.uk](https://sticerd.lse.ac.uk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## LSE Alumni - Community Home
- - [https://www.alumni.lse.ac.uk](https://www.alumni.lse.ac.uk)
- - date_published: 2024-05-09T05:38:12.080023+00:00
-
- ## Home - ARREST trial
- - [https://arrest.lshtm.ac.uk](https://arrest.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:20.390308+00:00
-
- ## Home | LSHTM Moodle
- - [https://ble.lshtm.ac.uk](https://ble.lshtm.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home - LSHTM Blogs
- - [https://blogs.lshtm.ac.uk](https://blogs.lshtm.ac.uk)
- - date_published: 2024-06-17T18:15:28.072245+00:00
-
- ## Welcome to the Bicycle Users Group - Bicycle users group
- - [https://cycling.lshtm.ac.uk](https://cycling.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:41.871238+00:00
-
- ## Home - The East London Project
- - [https://eastlondonproject.lshtm.ac.uk](https://eastlondonproject.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:25.906742+00:00
-
- ## Home - Entebbe Mother and Baby Study
- - [https://emabs.lshtm.ac.uk](https://emabs.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:12.083754+00:00
-
- ## Home - ERIC PPCI
- - [https://ericppci.lshtm.ac.uk](https://ericppci.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:18.816634+00:00
-
- ## Home - GHLC
- - [https://ghlc.lshtm.ac.uk](https://ghlc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:45.501592+00:00
-
- ## Home Page
- - [https://giftstore.lshtm.ac.uk](https://giftstore.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:41.190827+00:00
-
- ## Welcome to Have Your Say! - Have Your Say
- - [https://haveyoursay.lshtm.ac.uk](https://haveyoursay.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:16.944669+00:00
-
- ## Welcome - Health Systems
- - [https://healthsystems.lshtm.ac.uk](https://healthsystems.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.690456+00:00
-
- ## Home - STAR
- - [https://hivstar.lshtm.ac.uk](https://hivstar.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:40.892171+00:00
-
- ## Jobs at LSHTM
- - [https://jobs.lshtm.ac.uk](https://jobs.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:36.932987+00:00
-
- ## Home - MCC Collaborative Research Network
- - [https://mccstudy.lshtm.ac.uk](https://mccstudy.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:39.538612+00:00
-
- ## Home - MRC London Intercollegiate Doctoral Training Partnership Studentships
- - [https://mrc-lid.lshtm.ac.uk](https://mrc-lid.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.003940+00:00
-
- ## LSHTM Global Health Analytics - LSHTM Global Health Analytics
- - [https://opendatakit.lshtm.ac.uk](https://opendatakit.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:32.329117+00:00
-
- ## Home | Open Study at LSHTM
- - [http://open.lshtm.ac.uk](http://open.lshtm.ac.uk)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Population Health Innovation Lab | LSHTM
- - [https://philab.lshtm.ac.uk](https://philab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:36.085815+00:00
-
- ## Home - Placing the Public in Public Health: Public Health in Britain, 1948-2010
- - [https://placingthepublic.lshtm.ac.uk](https://placingthepublic.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:13.344363+00:00
-
- ## Home - PREVENTT Trial
- - [https://preventt.lshtm.ac.uk](https://preventt.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:44.720178+00:00
-
- ## Home - REVIVED-BCIS2
- - [https://revived.lshtm.ac.uk](https://revived.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:47.178315+00:00
-
- ## Home - NIHR School for Public Health Research
- - [https://sphr.lshtm.ac.uk](https://sphr.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:22.714958+00:00
-
- ## Home - SSACAB
- - [https://ssacab.lshtm.ac.uk](https://ssacab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:33.852900+00:00
-
- ## Home - Health Systems in History: Ideas, Comparisons, Policies c. 1890-2000
- - [https://systemshistory.lshtm.ac.uk](https://systemshistory.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:38.501402+00:00
-
- ## Why join a union? - Trade Unions
- - [https://tradeunions.lshtm.ac.uk](https://tradeunions.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:14.335374+00:00
-
- ## Welcome - UIP
- - [https://uip.lshtm.ac.uk](https://uip.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:24.743492+00:00
-
- ## Vitamin D and Longevity (VIDAL) Trial
- - [https://vidal.lshtm.ac.uk](https://vidal.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:15.499892+00:00
-
- ## Home - Wellcome Trust - Bloomsbury Centre for Global Health Research
- - [https://wbc.lshtm.ac.uk](https://wbc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:37.325724+00:00
 

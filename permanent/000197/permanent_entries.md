@@ -1,3 +1,89 @@
+ ## What's New Under the Sun | Matt Clancy | Substack
+ - [https://mattsclancy.substack.com](https://mattsclancy.substack.com)
+ - date_published: 2024-04-30T15:42:24.979880+00:00
+
+ ## BIG by Matt Stoller | Substack
+ - [https://mattstoller.substack.com](https://mattstoller.substack.com)
+ - date_published: 2023-10-25T09:58:31.080586+00:00
+ - tags: ['substack']
+
+ ## Mat Venn | Substack
+ - [https://matvenn.substack.com](https://matvenn.substack.com)
+ - date_published: 2024-04-30T05:55:33.218373+00:00
+
+ ## mauroamaral.com no Substack | Substack
+ - [https://mauroamaral.substack.com](https://mauroamaral.substack.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Keep the Creative Juices Flowing | Mauro Toselli | Substack
+ - [https://maurotoselli.substack.com](https://maurotoselli.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Maverick Equity Research | Substack
+ - [https://maverickequityresearch.substack.com](https://maverickequityresearch.substack.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## The Third Place | Max Gladstone | Substack
+ - [https://maxgladstone.substack.com](https://maxgladstone.substack.com)
+ - date_published: 2024-06-22T14:05:21.161452+00:00
+
+ ## Forensic Science* | Max Houck | Substack
+ - [https://maxhouck.substack.com](https://maxhouck.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Maximum Effort, Minimum Reward | Dylan Black | Substack
+ - [https://maximumeffort.substack.com](https://maximumeffort.substack.com)
+ - date_published: 2024-01-09T01:42:06.052060+00:00
+
+ ## Maximum Progress | Maxwell Tabarrok | Substack
+ - [https://maximumprogress.substack.com](https://maximumprogress.substack.com)
+ - date_published: 2023-11-25T21:49:13.039073+00:00
+
+ ## Read Max | Max Read | Substack
+ - [https://maxread.substack.com](https://maxread.substack.com)
+ - date_published: 2024-01-09T01:42:09.236064+00:00
+
+ ## Max Wrenna's Stories | Substack
+ - [https://maxwrenna.substack.com](https://maxwrenna.substack.com)
+ - date_published: 2024-05-04T14:47:10.929633+00:00
+
+ ## May's Writings | Substack
+ - [https://maymeow.substack.com](https://maymeow.substack.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Murtaza Hussain | Substack
+ - [https://mazmhussain.substack.com](https://mazmhussain.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## MBI Deep Dives | Substack
+ - [https://mbideepdives.substack.com](https://mbideepdives.substack.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## MBMG Flash | Paul Gambles | Substack
+ - [https://mbmg.substack.com](https://mbmg.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Examined | Ryan McCormick, M.D. | Substack
+ - [https://mccormickmd.substack.com](https://mccormickmd.substack.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Mindful Ruminations | Michael Oliver | Substack
+ - [https://mcoliver.substack.com](https://mcoliver.substack.com)
+ - date_published: 2023-10-25T09:58:39.266748+00:00
+ - tags: ['substack']
+
+ ## Archedelia | Matthew B. Crawford | Substack
+ - [https://mcrawford.substack.com](https://mcrawford.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## McSweeney's Internet Substackency | McSweeney's Internet Tendency | Substack
+ - [https://mcsweeneysinternettendency.substack.com](https://mcsweeneysinternettendency.substack.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Meaning Alignment Institute | Joe Edelman | Substack
+ - [https://meaningalignment.substack.com](https://meaningalignment.substack.com)
+ - date_published: 2024-07-07T07:16:07.946737+00:00
+
  ## Meaningness | David Chapman | Substack
  - [https://meaningness.substack.com](https://meaningness.substack.com)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3983,92 +4069,4 @@
  ## Totality of Evidence News | Just call me Jack | Substack
  - [https://totalityofevidence.substack.com](https://totalityofevidence.substack.com)
  - date_published: 2024-02-24T00:00:00+00:00
-
- ## Total Rec | Substack
- - [https://totallyrecommend.substack.com](https://totallyrecommend.substack.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Tracing Woodgrains | TracingWoodgrains | Substack
- - [https://tracingwoodgrains.substack.com](https://tracingwoodgrains.substack.com)
- - date_published: 2024-01-09T01:45:41.735689+00:00
-
- ## The Tracinski Letter | Robert Tracinski | Substack
- - [https://tracinskiletter.substack.com](https://tracinskiletter.substack.com)
- - date_published: 2024-10-29T05:14:57.115177+00:00
-
- ## Tracking People's Daily | Manoj Kewalramani | Substack
- - [https://trackingpeoplesdaily.substack.com](https://trackingpeoplesdaily.substack.com)
- - date_published: 2024-06-30T03:34:32.322055+00:00
-
- ## Traction Design | Chris Guest | Substack
- - [https://tractiondesign.substack.com](https://tractiondesign.substack.com)
- - date_published: 2024-08-11T14:53:07.964752+00:00
-
- ## Tradition and Sanity | Peter Kwasniewski | Substack
- - [https://traditionsanity.substack.com](https://traditionsanity.substack.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Life on the Trail | Allison Barr Allen | Substack
- - [https://trailruncapital.substack.com](https://trailruncapital.substack.com)
- - date_published: 2023-10-25T10:06:47.676757+00:00
- - tags: ['substack']
-
- ## Traipsing About | Dakota Gale | Substack
- - [https://traipsingabout.substack.com](https://traipsingabout.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Transcend Loneliness | Pabalnok Vienišumą | Aurimas Aleksandras Nausėdas | Substack
- - [https://transcendloneliness.substack.com](https://transcendloneliness.substack.com)
- - date_published: 2024-06-01T05:05:54.368119+00:00
-
- ## Transcend Newsletter | Alberto Arenaza | Substack
- - [https://transcend.substack.com](https://transcend.substack.com)
- - date_published: 2024-06-29T21:22:30.249364+00:00
-
- ## Contemplations on the Tree of Woe | Substack
- - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
- - date_published: 2023-10-25T10:06:49.846572+00:00
- - tags: ['substack']
-
- ## Trevor Klee’s Newsletter | Substack
- - [https://trevorklee.substack.com](https://trevorklee.substack.com)
- - date_published: 2023-10-25T10:06:52.536361+00:00
- - tags: ['substack']
-
- ## trpplffct | Arjan Tupan | Substack
- - [https://trippleeffect.substack.com](https://trippleeffect.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Tripsitter | Substack
- - [https://tripsitter.substack.com](https://tripsitter.substack.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Brain Farts | Trisha | Substack
- - [https://trishareddy.substack.com](https://trishareddy.substack.com)
- - date_published: 2024-04-28T01:43:43.234467+00:00
-
- ## Trump Tyranny Tracker: Your Daily Reminder  | Olga Lautman | Substack
- - [https://trumptyrannytracker.substack.com](https://trumptyrannytracker.substack.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Truth on the Streets by Kevin Dahlgren  | Substack
- - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
- - date_published: 2023-10-25T10:06:54.506330+00:00
- - tags: ['substack']
-
- ## Trying Truly | Substack
- - [https://tryingtruly.substack.com](https://tryingtruly.substack.com)
- - date_published: 2024-07-16T18:29:07.188490+00:00
-
- ## tsCreativ | Thor | Substack
- - [https://tscreativ.substack.com](https://tscreativ.substack.com)
- - date_published: 2024-08-08T16:54:29.451085+00:00
-
- ## Tucker Goodrich: yelling Stop | Substack
- - [https://tuckergoodrich.substack.com](https://tuckergoodrich.substack.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Tui's Newsletter | Tui T. Sutherland | Substack
- - [http://tuibooks.substack.com](http://tuibooks.substack.com)
- - date_published: 2024-10-25T18:43:56.030257+00:00
 

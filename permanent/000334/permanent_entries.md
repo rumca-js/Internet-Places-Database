@@ -1,3 +1,131 @@
+ ## Events Assistant
+ - [https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net](https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net)
+ - date_published: 2024-07-08T10:58:41+00:00
+
+ ## FHF - Fiskeri- og havbruksnæringens forskningsfinansiering
+ - [https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net](https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Live Center
+ - [https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net](https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net)
+ - date_published: 2024-08-18T21:20:09.449834+00:00
+
+ ## Digizuite DAM for Hootsuite
+ - [https://mango-tree-001f62003.1.azurestaticapps.net](https://mango-tree-001f62003.1.azurestaticapps.net)
+ - date_published: 2023-07-31T06:31:07+00:00
+
+ ## Banco de proyectos
+ - [https://proud-ground-03115c710.2.azurestaticapps.net](https://proud-ground-03115c710.2.azurestaticapps.net)
+ - date_published: 2022-11-15T18:28:41+00:00
+
+ ## Triton Digital
+ - [https://zealous-meadow-0f2313e10.2.azurestaticapps.net](https://zealous-meadow-0f2313e10.2.azurestaticapps.net)
+ - date_published: 2024-06-21T18:28:42+00:00
+
+ ## Partner directory
+ - [https://main.int.marketplacepartnerdirectory.azure-test.net](https://main.int.marketplacepartnerdirectory.azure-test.net)
+ - date_published: 2024-05-15T14:17:00+00:00
+
+ ## Digital Wonderlab - The digital impact agency
+ - [https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net](https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net)
+ - date_published: 2024-10-20T02:15:01.849958+00:00
+
+ ## Home
+ - [https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net](https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net)
+ - date_published: 2024-06-15T05:06:14.810994+00:00
+
+ ## ACCIONA | Business as unusual
+ - [https://accionacorp.azurewebsites.net](https://accionacorp.azurewebsites.net)
+ - date_published: 2024-09-16T01:48:24.114334+00:00
+
+ ## Powered by Coffee
+ - [https://adamstorr.azurewebsites.net](https://adamstorr.azurewebsites.net)
+ - date_published: 2024-04-26T07:56:09+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://aemint-search-client-funcapp-prod.azurewebsites.net](https://aemint-search-client-funcapp-prod.azurewebsites.net)
+ - date_published: 2024-07-06T21:41:56.638772+00:00
+
+ ## Home - Allegheny Analytics
+ - [http://alleghenyanalytics.azurewebsites.net](http://alleghenyanalytics.azurewebsites.net)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://amcgmarketplaceservicesbigcommerceapi.azurewebsites.net](https://amcgmarketplaceservicesbigcommerceapi.azurewebsites.net)
+ - date_published: 2024-07-15T05:10:44.092188+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://amcgmarketplaceservicesbigcommerceapi-qa.azurewebsites.net](https://amcgmarketplaceservicesbigcommerceapi-qa.azurewebsites.net)
+ - date_published: 2024-07-15T05:10:47.344857+00:00
+
+ ## We are Planet: The home of feel-good connected commerce
+ - [http://apoz-app-weareplanet-docker-sa-website-staging.azurewebsites.net](http://apoz-app-weareplanet-docker-sa-website-staging.azurewebsites.net)
+ - date_published: 2024-09-17T14:11:17+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://app505-dayforce-csp-func.azurewebsites.net](https://app505-dayforce-csp-func.azurewebsites.net)
+ - date_published: 2024-06-16T21:40:04.148973+00:00
+
+ ## Sign in - Matomo
+ - [https://app-fnsp-matomo-analytics-prod.azurewebsites.net](https://app-fnsp-matomo-analytics-prod.azurewebsites.net)
+ - date_published: 2024-07-15T04:15:25.076744+00:00
+
+ ## Log in Medius
+ - [https://app-mediuspublic-prod-westeurope.azurewebsites.net](https://app-mediuspublic-prod-westeurope.azurewebsites.net)
+ - date_published: 2024-10-29T23:30:03.896104+00:00
+
+ ## The UK Net Zero Business Census
+ - [http://app-planet-mark.azurewebsites.net](http://app-planet-mark.azurewebsites.net)
+ - date_published: 2024-10-21T19:38:20.537614+00:00
+
+ ## Home
+ - [https://app-smb-prod-eastus-fe.azurewebsites.net](https://app-smb-prod-eastus-fe.azurewebsites.net)
+ - date_published: 2024-07-10T05:07:03.832515+00:00
+
+ ## Web App - Unavailable
+ - [http://as-ms365insider-web-wus3.azurewebsites.net](http://as-ms365insider-web-wus3.azurewebsites.net)
+ - date_published: 2024-08-18T14:53:28.593514+00:00
+
+ ## Login - Express Discounts
+ - [https://authentication-elian-express-v3.azurewebsites.net](https://authentication-elian-express-v3.azurewebsites.net)
+ - date_published: 2024-06-18T06:57:38.194375+00:00
+
+ ## Connectez-vous - Irish Mirror Discounts
+ - [https://authentication-elian-irishmirror-v3.azurewebsites.net](https://authentication-elian-irishmirror-v3.azurewebsites.net)
+ - date_published: 2024-10-21T02:55:53.724634+00:00
+
+ ## Connectez-vous - Le Figaro
+ - [https://authentication-elian-lefigaro-mv3.azurewebsites.net](https://authentication-elian-lefigaro-mv3.azurewebsites.net)
+ - date_published: 2024-05-08T00:26:07.347456+00:00
+
+ ## Login - Mirror Discounts
+ - [https://authentication-elian-mirror-v3.azurewebsites.net](https://authentication-elian-mirror-v3.azurewebsites.net)
+ - date_published: 2024-06-17T20:00:51.726655+00:00
+
+ ## Home Page - Autotune
+ - [https://autotuneweb.azurewebsites.net](https://autotuneweb.azurewebsites.net)
+ - date_published: 2024-07-19T23:16:39.919632+00:00
+
+ ## Microsoft Azure App Service - Welcome
+ - [https://awwapixel012.azurewebsites.net](https://awwapixel012.azurewebsites.net)
+ - date_published: 2024-04-26T07:06:31+00:00
+
+ ## The Azure Podcast | By Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello
+ - [http://azpodcast.azurewebsites.net](http://azpodcast.azurewebsites.net)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://blogcomments.azurewebsites.net](https://blogcomments.azurewebsites.net)
+ - date_published: 2024-06-17T02:51:58.654946+00:00
+
+ ## Your Azure Function App is up and running.
+ - [https://botfilestorefunction.azurewebsites.net](https://botfilestorefunction.azurewebsites.net)
+ - date_published: 2024-07-17T03:24:03.775193+00:00
+
+ ## Tomo Bot JP
+ - [https://bsp-tomo-jp.azurewebsites.net](https://bsp-tomo-jp.azurewebsites.net)
+ - date_published: 2024-04-10T15:27:24+00:00
+
  ## Your Azure Function App is up and running.
  - [https://build2024-prod-west-us-signalr-function.azurewebsites.net](https://build2024-prod-west-us-signalr-function.azurewebsites.net)
  - date_published: 2024-07-19T15:47:00.751647+00:00
@@ -1904,6 +2032,7 @@
  ## BlazorGames.net
  - [https://blazorgames.net](https://blazorgames.net)
  - date_published: 2021-07-01T16:15:31+00:00
+ - tags: ['blackjack', 'tetris', 'minesweeper']
 
  ## Users
  - [https://bldg15.net](https://bldg15.net)
@@ -3906,133 +4035,4 @@
  - [https://brunoguastalla.net](https://brunoguastalla.net)
  - date_published: 2024-04-14T15:17:17.504965+00:00
  - tags: ['art', 'personal']
-
- ## no dogma blog
- - [https://nodogmablog.bryanhogan.net](https://nodogmablog.bryanhogan.net)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## no dogma podcast
- - [https://nodogmapodcast.bryanhogan.net](https://nodogmapodcast.bryanhogan.net)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## bryanhogan
- - [https://photos.bryanhogan.net](https://photos.bryanhogan.net)
- - date_published: 2024-06-15T15:58:04.780076+00:00
-
- ## bryantang.net
- - [https://bryantang.net](https://bryantang.net)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Bryan Thomas Schmidt, Author and Editor Where imagination meets adventure
- - [http://bryanthomasschmidt.net](http://bryanthomasschmidt.net)
- - date_published: 2011-05-29T09:33:35+00:00
-
- ## The Bryozoa Home Page
- - [https://bryozoa.net](https://bryozoa.net)
- - date_published: 2023-05-12T03:05:17+00:00
-
- ## The BSD Journal
- - [https://www.bsdjournal.net](https://www.bsdjournal.net)
- - date_published: 2024-06-27T06:21:57+00:00
-
- ## bsdly.net - Reliable Networking With Free Software
- - [https://bsdly.net](https://bsdly.net)
- - date_published: 2024-08-18T15:37:38.031873+00:00
-
- ## BSDSec - BSD Security Advisories
- - [https://bsdsec.net](https://bsdsec.net)
- - date_published: 2024-06-23T10:45:44.278436+00:00
-
- ## B-Sides Tampa
- - [https://events.bsidestampa.net](https://events.bsidestampa.net)
- - date_published: 2024-08-11T16:42:50.520424+00:00
-
- ## Home - Bstack Networks
- - [http://www.bstack.net](http://www.bstack.net)
- - date_published: 2024-07-18T04:49:54.061129+00:00
-
- ## BTC Communications
- - [http://www.btccom.net](http://www.btccom.net)
- - date_published: 2024-06-29T16:10:23.578546+00:00
-
- ## BTC Markets
- - [https://support.btcmarkets.net](https://support.btcmarkets.net)
- - date_published: 2024-10-02T12:16:37.830627+00:00
-
- ## Home - Brantley Telephone Company
- - [http://www.btconline.net](http://www.btconline.net)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home Page | BTES
- - [http://www.btes.net](http://www.btes.net)
- - date_published: 2024-06-29T15:41:45.991099+00:00
-
- ## Home - BTS Corp
- - [https://btscorp.net](https://btscorp.net)
- - date_published: 2021-12-07T00:00:00+00:00
-
- ## 兵团文明网
- - [http://www.btwmw.net](http://www.btwmw.net)
- - date_published: 2024-06-30T15:58:57+00:00
-
- ## Bubble Shooter
- - [https://www.bubbleshooter.net](https://www.bubbleshooter.net)
- - date_published: 2024-09-09T20:41:28.692439+00:00
-
- ## Award-Winning Digital Marketing Agency
- - [https://www.bubbleup.net](https://www.bubbleup.net)
- - date_published: 2024-05-02T09:38:30.899211+00:00
-
- ## Free the Budapest 2!
- - [https://budapest-solidarity.net](https://budapest-solidarity.net)
- - date_published: 2024-08-19T17:01:00.621365+00:00
-
- ## BuddhaNet - Worldwide Buddhist Information and Education Network
- - [http://www.buddhanet.net](http://www.buddhanet.net)
- - date_published: 2019-01-12T04:58:52+00:00
-
- ## Tea House
- - [https://teahouse.buddhistdoor.net](https://teahouse.buddhistdoor.net)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## The Open Buddhist University @ A website dedicated to providing free, online courses and bibliographies in Buddhist Studies.
- - [https://buddhistuniversity.net](https://buddhistuniversity.net)
- - date_published: 2023-10-25T20:26:55.453359+00:00
-
- ## Buddy Guy
- - [https://www.buddyguy.net](https://www.buddyguy.net)
- - date_published: 2022-09-30T17:26:07+00:00
-
- ## Budget Zen — Simple and end-to-end encrypted budget and expense manager
- - [https://app.budgetzen.net](https://app.budgetzen.net)
- - date_published: 2024-06-19T22:09:59.680794+00:00
-
- ## Budget Zen — Simple and Encrypted Budgets & Expenses
- - [https://budgetzen.net](https://budgetzen.net)
- - date_published: 2024-06-19T22:27:48.623574+00:00
-
- ## The World's most Low-Key Website
- - [https://budwin.net](https://budwin.net)
- - date_published: 2020-03-12T23:17:32+00:00
-
- ## Insectoid's Web Page at budwin.net
- - [https://insectoid.budwin.net](https://insectoid.budwin.net)
- - date_published: 2014-09-04T06:55:14+00:00
- - tags: ['interesting', 'personal']
-
- ## The latest Buenos Aires News from Buenos Aires News.Net
- - [http://www.buenosairesnews.net](http://www.buenosairesnews.net)
- - date_published: 2024-07-13T23:13:45.935520+00:00
-
- ## Effective Ways to Assist the Elderly | Bürger Für Bürger
- - [https://buergerfuerbuerger.net](https://buergerfuerbuerger.net)
- - date_published: 2024-08-07T21:18:08.841365+00:00
-
- ## Buffalo News Service | Focus: Buffalo, New York | Breaking Local News
- - [http://www.buffalonynews.net](http://www.buffalonynews.net)
- - date_published: 2024-07-13T23:11:03.909876+00:00
-
- ## lists.bufferbloat.net Mailing Lists
- - [https://lists.bufferbloat.net](https://lists.bufferbloat.net)
- - date_published: 2024-08-18T20:09:09.244637+00:00
 

@@ -1,3 +1,115 @@
+ ## HEADSUP
+ - [https://headsup.stanford.edu](https://headsup.stanford.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage
+ - [https://healthalerts.stanford.edu](https://healthalerts.stanford.edu)
+ - date_published: 2024-10-11T23:15:14.686010+00:00
+
+ ## Center for Health Education
+ - [https://healtheducation.stanford.edu](https://healtheducation.stanford.edu)
+ - date_published: 2024-04-19T01:45:47+00:00
+
+ ## Stanford Health Library - Stanford Medicine
+ - [https://healthlibrary.stanford.edu](https://healthlibrary.stanford.edu)
+ - date_published: 2024-07-01T20:24:57+00:00
+
+ ## Stanford Healthy Living
+ - [https://healthyliving.stanford.edu](https://healthyliving.stanford.edu)
+ - date_published: 2024-07-01T20:25:03.726002+00:00
+
+ ## Paul Heymann
+ - [http://heymann.stanford.edu](http://heymann.stanford.edu)
+ - date_published: 2015-12-23T16:33:41+00:00
+
+ ## Home - Highwire Press
+ - [http://highwire.stanford.edu](http://highwire.stanford.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Helioseismic and Magnetic Imager for SDO
+ - [http://hmi.stanford.edu](http://hmi.stanford.edu)
+ - date_published: 2024-09-16T20:47:41.302875+00:00
+
+ ## Hopkins Marine Station
+ - [https://hopkinsmarinestation.stanford.edu](https://hopkinsmarinestation.stanford.edu)
+ - date_published: 2024-07-01T20:22:03+00:00
+
+ ## Stanford HPDS
+ - [https://hpds.stanford.edu](https://hpds.stanford.edu)
+ - date_published: 2023-05-30T20:38:56+00:00
+
+ ## Stanford Login
+ - [https://hs-bps.stanford.edu](https://hs-bps.stanford.edu)
+ - date_published: 2024-07-01T20:08:36.328342+00:00
+
+ ## Facilities and Capital Planning
+ - [https://hs-fcp.stanford.edu](https://hs-fcp.stanford.edu)
+ - date_published: 2024-05-07T20:28:05.744365+00:00
+
+ ## Human Resources
+ - [https://hshr.stanford.edu](https://hshr.stanford.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home - Human Performance Alliance at Stanford University
+ - [https://humanperformance.stanford.edu](https://humanperformance.stanford.edu)
+ - date_published: 2024-10-27T12:06:42.477109+00:00
+
+ ## Hume Center for Writing and Speaking
+ - [https://hume.stanford.edu](https://hume.stanford.edu)
+ - date_published: 2024-06-10T18:28:48+00:00
+
+ ## Watch: Stanford's Nobel Laureates and MacArthur "Genius" Fellows tell their stories
+ - [https://humsci.stanford.edu](https://humsci.stanford.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Institute for Computational & Mathematical Engineering
+ - [https://icme.stanford.edu](https://icme.stanford.edu)
+ - date_published: 2024-06-29T00:49:08+00:00
+
+ ## Identity Guide
+ - [https://identity.stanford.edu](https://identity.stanford.edu)
+ - date_published: 2024-07-01T20:22:37.642595+00:00
+
+ ## Stanford ILIAD
+ - [https://iliad.stanford.edu](https://iliad.stanford.edu)
+ - date_published: 2024-05-27T00:30:53+00:00
+
+ ## Error - Stanford InfoLab Publication Server
+ - [http://ilpubs.stanford.edu](http://ilpubs.stanford.edu)
+ - date_published: 2024-05-07T20:28:26.665839+00:00
+
+ ## DEI+ at SLAC | Diversity, Equity and Inclusion
+ - [https://inclusion.slac.stanford.edu](https://inclusion.slac.stanford.edu)
+ - date_published: 2024-07-06T15:21:52+00:00
+
+ ## Home · SLAC Indico
+ - [https://indico.slac.stanford.edu](https://indico.slac.stanford.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Stanford Center on Poverty and Inequality
+ - [http://inequality.stanford.edu](http://inequality.stanford.edu)
+ - date_published: 2024-07-01T19:49:35+00:00
+
+ ## Stanford InfoBlog
+ - [http://infoblog.stanford.edu](http://infoblog.stanford.edu)
+ - date_published: 2024-04-22T08:58:59+00:00
+
+ ## The Stanford University InfoLab
+ - [http://infolab.stanford.edu](http://infolab.stanford.edu)
+ - date_published: 2011-11-16T04:48:49+00:00
+
+ ## Log in
+ - [https://insidesdss.stanford.edu](https://insidesdss.stanford.edu)
+ - date_published: 2024-07-01T20:22:22.007100+00:00
+
+ ## Log in
+ - [https://inside-studentservices.stanford.edu](https://inside-studentservices.stanford.edu)
+ - date_published: 2024-07-01T19:39:13.893521+00:00
+
+ ## Sign In
+ - [https://intranet.slac.stanford.edu](https://intranet.slac.stanford.edu)
+ - date_published: 2024-07-06T23:32:56.730482+00:00
+
  ## Introductory Seminars
  - [https://introsems.stanford.edu](https://introsems.stanford.edu)
  - date_published: 2024-05-23T15:38:37+00:00
@@ -3899,116 +4011,4 @@
  ## University of Alabama System
  - [https://uasystem.edu](https://uasystem.edu)
  - date_published: 2024-07-01T21:49:33+00:00
-
- ## edició UBWeb - UB
- - [https://estatics.web.ub.edu](https://estatics.web.ub.edu)
- - date_published: 2024-07-07T01:40:44.842312+00:00
-
- ## Inici sessió - Identificació UB - Universitat de Barcelona
- - [https://intranet.ub.edu](https://intranet.ub.edu)
- - date_published: 2024-07-07T01:40:41.944200+00:00
-
- ## MIAR 2024 live. Information Matrix for the Analysis of Journals
- - [https://miar.ub.edu](https://miar.ub.edu)
- - date_published: 2024-07-09T21:17:10.954818+00:00
-
- ## Universitat de Barcelona - seu electrònica
- - [https://seu.ub.edu](https://seu.ub.edu)
- - date_published: 2024-07-07T01:40:37.858767+00:00
-
- ## Botiga UB | Official Shop
- - [https://shop.ub.edu](https://shop.ub.edu)
- - date_published: 2024-07-07T01:40:45.720458+00:00
-
- ## Shibboleth Authentication Request
- - [https://sire.ub.edu](https://sire.ub.edu)
- - date_published: 2024-06-22T07:15:45.705629+00:00
-
- ## UB - Universitat de Barcelona - UB
- - [https://ub.edu](https://ub.edu)
- - date_published: 2024-05-08T08:49:51.683500+00:00
-
- ## UB - Universitat de Barcelona - UB
- - [https://web.ub.edu](https://web.ub.edu)
- - date_published: 2024-07-07T01:40:43.391041+00:00
-
- ## Edicions de la Universitat de Barcelona
- - [http://www.edicions.ub.edu](http://www.edicions.ub.edu)
- - date_published: 2024-07-07T01:40:39.632397+00:00
-
- ## School of Law - University of Baltimore
- - [http://law.ubalt.edu](http://law.ubalt.edu)
- - date_published: 2024-06-17T11:15:31.430345+00:00
-
- ## ScholarWorks: UB Law's Institutional Repository
- - [http://scholarworks.law.ubalt.edu](http://scholarworks.law.ubalt.edu)
- - date_published: 2024-10-18T22:22:43.968827+00:00
-
- ## University of Baltimore - Undergraduate & Graduate Degrees in Maryland
- - [https://www.ubalt.edu](https://www.ubalt.edu)
- - date_published: 2024-06-24T04:46:08.396209+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.uc.edu](https://admissions.uc.edu)
- - date_published: 2024-05-07T20:42:16.163979+00:00
-
- ## PeopleGrove
- - [https://alumniconnect.uc.edu](https://alumniconnect.uc.edu)
- - date_published: 2024-07-01T22:05:03+00:00
-
- ## UC Alumni Association
- - [https://alumni.uc.edu](https://alumni.uc.edu)
- - date_published: 2024-05-07T20:42:10.398358+00:00
-
- ## University Of Cincinnati
- - [https://bearcatportal.uc.edu](https://bearcatportal.uc.edu)
- - date_published: 2024-05-07T20:42:39.878095+00:00
-
- ## University Of Cincinnati
- - [https://canopy.uc.edu](https://canopy.uc.edu)
- - date_published: 2024-05-07T20:42:47.246742+00:00
-
- ## University of Cincinnati
- - [https://catalyst.uc.edu](https://catalyst.uc.edu)
- - date_published: 2024-05-07T20:42:54.023882+00:00
-
- ## 1819 Innovation Hub
- - [http://commercialization.uc.edu](http://commercialization.uc.edu)
- - date_published: 2024-07-01T21:23:29+00:00
-
- ## Digital Collections & Exhibits
- - [http://digproj.libraries.uc.edu](http://digproj.libraries.uc.edu)
- - date_published: 2024-04-29T02:57:13.321021+00:00
-
- ## Home - Foundation - University of Cincinnati
- - [https://foundation.uc.edu](https://foundation.uc.edu)
- - date_published: 2024-07-01T22:05:13.767515+00:00
-
- ## Give to UC and UC Health - Primary Donation Form - University of Cincinnati
- - [https://giveto.uc.edu](https://giveto.uc.edu)
- - date_published: 2024-05-07T20:42:13.017814+00:00
-
- ## The Graduate College
- - [https://grad.uc.edu](https://grad.uc.edu)
- - date_published: 2024-07-01T21:22:47+00:00
-
- ## 1819 Innovation Hub
- - [https://innovation.uc.edu](https://innovation.uc.edu)
- - date_published: 2024-05-07T20:42:42.312411+00:00
-
- ## UC Jobs Application Portal
- - [https://jobs.uc.edu](https://jobs.uc.edu)
- - date_published: 2024-07-01T22:06:18.545869+00:00
-
- ## University of Cincinnati
- - [https://mail.uc.edu](https://mail.uc.edu)
- - date_published: 2024-05-07T20:42:24.723425+00:00
-
- ## Enrollment Services
- - [https://onestop.uc.edu](https://onestop.uc.edu)
- - date_published: 2024-05-07T20:42:50.103480+00:00
-
- ## Home Page
- - [https://online.uc.edu](https://online.uc.edu)
- - date_published: 2024-04-02T00:00:00+00:00
 

@@ -1,3 +1,119 @@
+ ## Persalys
+ - [https://www.persalys.fr](https://www.persalys.fr)
+ - date_published: 2024-07-07T09:05:58.754760+00:00
+
+ ## Persée : Accéder à des milliers de publications scientifiques - Persée
+ - [https://www.persee.fr](https://www.persee.fr)
+ - date_published: 2024-07-04T13:19:36.889538+00:00
+
+ ## Personio. The People Operating System.
+ - [https://www.personio.fr](https://www.personio.fr)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## L'univers des musées
+ - [https://www.petitsmo.fr](https://www.petitsmo.fr)
+ - date_published: 2024-06-27T03:02:22+00:00
+
+ ## Nicolas Petton
+ - [https://nicolas.petton.fr](https://nicolas.petton.fr)
+ - date_published: 2023-12-18T21:27:43+00:00
+
+ ## Nouvelles voitures de ville, SUV et véhicules électriques | Peugeot FR
+ - [https://peugeot.fr](https://peugeot.fr)
+ - date_published: 2024-10-28T16:48:58+00:00
+
+ ## Peugeot Store | Commande et achat de voiture en ligne
+ - [https://store.peugeot.fr](https://store.peugeot.fr)
+ - date_published: 2024-10-28T17:14:59.290459+00:00
+
+ ## Olivier's log
+ - [https://log.pfad.fr](https://log.pfad.fr)
+ - date_published: 2024-07-12T15:20:23+00:00
+
+ ## Philips - France
+ - [https://www.philips.fr](https://www.philips.fr)
+ - date_published: 2024-10-30T02:39:33+00:00
+
+ ## phoenixNAP: Data Center, Dédié Servers, Cloud, & Colocation
+ - [https://phoenixnap.fr](https://phoenixnap.fr)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Photobox.fr | Immortalisez tous vos souvenirs
+ - [http://www.photobox.fr](http://www.photobox.fr)
+ - date_published: 2024-07-03T06:08:50.968853+00:00
+
+ ## Blog PHPerformances, outils et bonnes pratiques PHP
+ - [https://phperformances.fr](https://phperformances.fr)
+ - date_published: 2024-07-10T09:02:08.116142+00:00
+
+ ## Piaille
+ - [https://piaille.fr](https://piaille.fr)
+ - date_published: 2024-05-01T05:42:24.526226+00:00
+
+ ## Pia-Mélissa Laroche
+ - [https://piamelissalaroche.fr](https://piamelissalaroche.fr)
+ - date_published: 2024-07-04T01:55:22.574739+00:00
+
+ ## PicClick FR • Search eBay Faster. Find it first!
+ - [https://picclick.fr](https://picclick.fr)
+ - date_published: 2024-06-21T15:04:34.003037+00:00
+
+ ## Plausible · Web analytics
+ - [https://coucou.pierre-couy.fr](https://coucou.pierre-couy.fr)
+ - date_published: 2024-04-30T02:11:03.462662+00:00
+
+ ## PI France
+ - [https://www.pifrance.fr](https://www.pifrance.fr)
+ - date_published: 2024-07-17T22:00:00+00:00
+
+ ## Vêtements Femme
+ - [https://www.pimkie.fr](https://www.pimkie.fr)
+ - date_published: 2024-10-30T05:13:39.701605+00:00
+
+ ## Pinterest
+ - [https://pinterest.fr](https://pinterest.fr)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Pitchfork Music Festival Paris – Du 4 au 10 novembre 2024
+ - [https://pitchforkmusicfestival.fr](https://pitchforkmusicfestival.fr)
+ - date_published: 2024-05-06T23:19:43.138348+00:00
+
+ ## Pix
+ - [https://pix.fr](https://pix.fr)
+ - date_published: 2024-05-08T00:14:45.960126+00:00
+
+ ## Pixad ® • Agence Web Vosges & Communication Vosges • Cr�ation de site internet & Ecommerce Vosges
+ - [https://www.pixad.fr](https://www.pixad.fr)
+ - date_published: 2024-07-08T11:04:33.647791+00:00
+
+ ## Pixelfed
+ - [https://pixelfed.fr](https://pixelfed.fr)
+ - date_published: 2024-07-10T08:20:39.231871+00:00
+
+ ## Pixii - Digital rangefinder camera
+ - [https://pixii.fr](https://pixii.fr)
+ - date_published: 2024-07-30T16:04:32+00:00
+
+ ## PixiLearn, platforme de formation en imagerie médicale
+ - [https://www.pixilearn.fr](https://www.pixilearn.fr)
+ - date_published: 2024-05-11T18:17:50+00:00
+
+ ## Agence de communication à Saumur, création de site internet dans 49
+ - [https://www.pixim.fr](https://www.pixim.fr)
+ - date_published: 2024-10-31T10:08:21+00:00
+
+ ## Piximedia Blog -
+ - [http://blog.piximedia.fr](http://blog.piximedia.fr)
+ - date_published: 2024-06-25T21:54:35.541331+00:00
+
+ ## Pixpay - La meilleure carte de paiement pour ados
+ - [https://www.pixpay.fr](https://www.pixpay.fr)
+ - date_published: 2024-07-18T08:52:41.910032+00:00
+
+ ## Planetes360, le média d’information indépendant en temps réel !
+ - [https://planetes360.fr](https://planetes360.fr)
+ - date_published: 2024-10-30T05:13:48.283104+00:00
+
  ## Home | Plaqueplastique.fr
  - [https://plaqueplastique.fr](https://plaqueplastique.fr)
  - date_published: 2024-09-09T00:00:00+00:00
@@ -3888,121 +4004,4 @@
  ## ANTAI : Agence nationale de traitement automatisé des infractions | ANTAI.gouv.fr
  - [https://www.antai.gouv.fr](https://www.antai.gouv.fr)
  - date_published: 2024-10-07T14:15:11+00:00
-
- ## CNI-Passeport - Accueil
- - [https://passeport.ants.gouv.fr](https://passeport.ants.gouv.fr)
- - date_published: 2024-10-12T00:00:00+00:00
-
- ## api.gouv.fr
- - [https://api.gouv.fr](https://api.gouv.fr)
- - date_published: 2024-09-14T22:11:57.613356+00:00
-
- ## API Recherche d’entreprises
- - [https://recherche-entreprises.api.gouv.fr](https://recherche-entreprises.api.gouv.fr)
- - date_published: 2024-09-14T22:11:55.699086+00:00
-
- ## Calculateur d'émissions de gaz à effet de serre de l'aviation | ecocalc
- - [https://eco-calculateur.aviation-civile.gouv.fr](https://eco-calculateur.aviation-civile.gouv.fr)
- - date_published: 2024-06-21T21:35:09.781420+00:00
-
- ## Calculateur d'émissions de gaz à effet de serre de l'aviation | ecocalc
- - [https://eco-calculateur.dta.aviation-civile.gouv.fr](https://eco-calculateur.dta.aviation-civile.gouv.fr)
- - date_published: 2024-05-04T14:10:29.364301+00:00
-
- ## Ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique
- - [https://lettres-infos.bercy.gouv.fr](https://lettres-infos.bercy.gouv.fr)
- - date_published: 2024-07-03T04:21:04.199856+00:00
-
- ## Bloctel
- - [https://www.bloctel.gouv.fr](https://www.bloctel.gouv.fr)
- - date_published: 2024-07-11T14:22:26+00:00
-
- ## www.cadastre.gouv.fr un site du ministère de l'Economie des finances et de l'industrie.
- - [https://www.cadastre.gouv.fr](https://www.cadastre.gouv.fr)
- - date_published: 2022-12-14T09:13:50+00:00
-
- ## Le site officiel de la vignette Crit'Air (certificat qualité de l'air) - Ministère de la
-      Transition écologique
- - [https://certificat-air.gouv.fr](https://certificat-air.gouv.fr)
- - date_published: 2024-10-28T08:21:18+00:00
-
- ## Chemins de mémoire | Ministère des Armées
- - [https://www.cheminsdememoire.gouv.fr](https://www.cheminsdememoire.gouv.fr)
- - date_published: 2024-06-21T08:24:26+00:00
-
- ## Mission logiciels libres
- - [https://code.gouv.fr](https://code.gouv.fr)
- - date_published: 2024-06-14T09:10:12+00:00
-
- ## Mission logiciels libres
- - [https://sill.code.gouv.fr](https://sill.code.gouv.fr)
- - date_published: 2024-04-30T15:48:41.029973+00:00
-
- ## Accueil | Ministère du Partenariat avec les territoires et de la Décentralisation Ministère de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques Ministère du Logement et de la Rénovation urbaine
- - [http://www.cohesion-territoires.gouv.fr](http://www.cohesion-territoires.gouv.fr)
- - date_published: 2024-10-12T13:45:03.859523+00:00
-
- ## Accueil | collectivites-locales.gouv.fr
- - [https://collectivites-locales.gouv.fr](https://collectivites-locales.gouv.fr)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## Présentation des pôles de compétitivité | entreprises.gouv.fr
- - [http://competitivite.gouv.fr](http://competitivite.gouv.fr)
- - date_published: 2024-07-02T12:37:27+00:00
-
- ## Rappel Consommateur - Accueil
- - [https://rappel.conso.gouv.fr](https://rappel.conso.gouv.fr)
- - date_published: 2024-07-13T17:43:34.473876+00:00
-
- ## Ministère de la Culture
- - [http://www.culture.gouv.fr](http://www.culture.gouv.fr)
- - date_published: 2024-06-24T09:20:40.073895+00:00
-
- ## Dispositif d’assistance aux victimes d’actes de cybermalveillance
- - [https://cybermalveillance.gouv.fr](https://cybermalveillance.gouv.fr)
- - date_published: 2024-05-08T00:14:36.254470+00:00
-
- ## adresse.data.gouv.fr
- - [https://adresse.data.gouv.fr](https://adresse.data.gouv.fr)
- - date_published: 2024-10-12T13:23:24.863575+00:00
-
- ## Données cadastrales ouvertes | cadastre.data.gouv.fr
- - [https://cadastre.data.gouv.fr](https://cadastre.data.gouv.fr)
- - date_published: 2024-10-12T13:23:20.292484+00:00
-
- ## Accueil - Catalogue
- - [https://catalogue.data.gouv.fr](https://catalogue.data.gouv.fr)
- - date_published: 2024-09-14T22:11:54.452183+00:00
-
- ## Accueil - data.gouv.fr
- - [https://data.gouv.fr](https://data.gouv.fr)
- - date_published: 2024-06-14T14:49:07.469207+00:00
-
- ## defis.data.gouv.fr
- - [https://defis.data.gouv.fr](https://defis.data.gouv.fr)
- - date_published: 2024-07-26T07:47:28+00:00
-
- ## Accueil - demo.data.gouv.fr
- - [https://demo.data.gouv.fr](https://demo.data.gouv.fr)
- - date_published: 2024-09-14T22:12:09.646790+00:00
-
- ## data.gouv.fr - La plateforme ouverte des données publiques françaises
- - [https://geo.data.gouv.fr](https://geo.data.gouv.fr)
- - date_published: 2024-04-19T15:12:22+00:00
-
- ## Bienvenue | Guides de data.gouv.fr
- - [https://guides.data.gouv.fr](https://guides.data.gouv.fr)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## meteo.data.gouv.fr
- - [https://meteo.data.gouv.fr](https://meteo.data.gouv.fr)
- - date_published: 2024-08-06T07:20:38+00:00
-
- ## Ouverture data.gouv.fr
- - [https://ouverture.data.gouv.fr](https://ouverture.data.gouv.fr)
- - date_published: 2024-06-27T15:35:22+00:00
-
- ## schema.data.gouv.fr
- - [https://schema.data.gouv.fr](https://schema.data.gouv.fr)
- - date_published: 2024-09-14T04:06:34+00:00
 

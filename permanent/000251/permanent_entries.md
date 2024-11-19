@@ -1,3 +1,104 @@
+ ## Awesome JS Packages
+ - [https://awesomejs.dev](https://awesomejs.dev)
+ - date_published: 2024-06-23T01:49:12.442464+00:00
+
+ ## The AWK Programming Language, Second Edition
+ - [https://awk.dev](https://awk.dev)
+ - date_published: 2023-10-25T18:35:00.619087+00:00
+
+ ## ChatBot
+ - [https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev](https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev)
+ - date_published: 2022-08-17T08:43:21+00:00
+
+ ## Awsviz.dev simplifying AWS IAM policies
+ - [https://www.awsviz.dev](https://www.awsviz.dev)
+ - date_published: 2024-07-10T00:35:48+00:00
+
+ ## Ax · Adaptive Experimentation Platform
+ - [https://ax.dev](https://ax.dev)
+ - date_published: 2024-06-22T07:30:22+00:00
+
+ ## Axflow
+ - [https://axflow.dev](https://axflow.dev)
+ - date_published: 2024-01-08T19:27:16.030595+00:00
+
+ ## Axflow Studio
+ - [https://studio.axflow.dev](https://studio.axflow.dev)
+ - date_published: 2024-04-29T07:20:18.086051+00:00
+
+ ## Axmol Engine
+ - [https://axmol.dev](https://axmol.dev)
+ - date_published: 2024-11-08T13:20:10+00:00
+
+ ## axodotdev: last-mile software delivery and analytics
+ - [https://axo.dev](https://axo.dev)
+ - date_published: 2024-04-29T07:20:21.883413+00:00
+
+ ## axo blog - System dependencies are hard (so we made them easier)
+ - [https://blog.axo.dev](https://blog.axo.dev)
+ - date_published: 2023-10-25T18:35:02.657023+00:00
+
+ ## Home - Aya
+ - [https://aya-rs.dev](https://aya-rs.dev)
+ - date_published: 2024-04-29T06:28:43.955346+00:00
+
+ ## Kevin Chavez
+ - [https://aykev.dev](https://aykev.dev)
+ - date_published: 2024-04-16T00:32:21.952783+00:00
+ - tags: ['personal']
+
+ ## Ayush Gupta- Web developer
+ - [https://ayushgupta.dev](https://ayushgupta.dev)
+ - date_published: 2024-05-07T23:27:29.281069+00:00
+
+ ## The Pearl
+ - [https://b0ba.dev](https://b0ba.dev)
+ - date_published: 2023-03-12T00:00:00+00:00
+
+ ## redsite
+ - [https://b0vik.dev](https://b0vik.dev)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## B3NNU3
+ - [https://b3nnu3.dev](https://b3nnu3.dev)
+ - date_published: 2024-05-15T15:03:06+00:00
+
+ ## Uptrends.ai | Track Trending Stocks
+ - [https://www.babbl.dev](https://www.babbl.dev)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Engine | AI Software Engineer
+ - [https://backengine.dev](https://backengine.dev)
+ - date_published: 2024-10-25T15:08:44+00:00
+
+ ## Backlight - Build Design Systems - Tool for front-end teams
+ - [https://backlight.dev](https://backlight.dev)
+ - date_published: 2023-10-02T08:19:52+00:00
+
+ ## Bad Diode
+ - [https://badd10de.dev](https://badd10de.dev)
+ - date_published: 2024-05-17T06:38:13+00:00
+
+ ## Badger Badger Badger Badger
+ - [https://badgerbadgerbadgerbadger.dev](https://badgerbadgerbadgerbadger.dev)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## GoatCounter
+ - [https://goatcounter.badgerbadgerbadgerbadger.dev](https://goatcounter.badgerbadgerbadgerbadger.dev)
+ - date_published: 2024-05-16T02:48:13.219847+00:00
+
+ ## Badr Choubai - Boulder, US
+ - [https://badrchoubai.dev](https://badrchoubai.dev)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Paul Baecher
+ - [https://baecher.dev](https://baecher.dev)
+ - date_published: 2023-12-25T20:32:27.875144+00:00
+
+ ## Bambosh Internet Website
+ - [https://bambosh.dev](https://bambosh.dev)
+ - date_published: 2024-05-04T08:01:20.657557+00:00
+
  ## Banner Blog
  - [https://bannerblog.dev](https://bannerblog.dev)
  - date_published: 2023-12-11T10:34:13.452233+00:00
@@ -1750,6 +1851,10 @@
  ## Daniel Patterson
  - [https://danielpatterson.dev](https://danielpatterson.dev)
  - date_published: 2023-11-23T00:33:06+00:00
+
+ ## Dan Schaefer | Software Developer Coach
+ - [https://danschaefer.dev](https://danschaefer.dev)
+ - date_published: 2024-11-18T12:15:21+00:00
 
  ## Introduction - Danswer Documentation
  - [https://docs.danswer.dev](https://docs.danswer.dev)
@@ -3972,111 +4077,4 @@
  ## minimal swift
  - [https://laurentbrusa.hashnode.dev](https://laurentbrusa.hashnode.dev)
  - date_published: 2024-06-23T15:45:06.493226+00:00
-
- ## Meandering Thoughts
- - [https://meanderingthoughts.hashnode.dev](https://meanderingthoughts.hashnode.dev)
- - date_published: 2024-10-22T21:30:15.932807+00:00
-
- ## medunes's  blog
- - [https://medunes.hashnode.dev](https://medunes.hashnode.dev)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mike Mwanje's  blog
- - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Michael Hoffmann
- - [https://mokkapps.hashnode.dev](https://mokkapps.hashnode.dev)
- - date_published: 2024-07-14T07:53:35.330229+00:00
-
- ## NeuML
- - [https://neuml.hashnode.dev](https://neuml.hashnode.dev)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Nevos.io
- - [https://nevodavid.hashnode.dev](https://nevodavid.hashnode.dev)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## nothanii
- - [https://nothanii.hashnode.dev](https://nothanii.hashnode.dev)
- - date_published: 2024-10-30T15:28:14.046525+00:00
-
- ## Web Chronicles
- - [https://nsblog.hashnode.dev](https://nsblog.hashnode.dev)
- - date_published: 2024-07-14T09:54:22.727553+00:00
-
- ## NullByte Tech Journals
- - [https://nullbyte.hashnode.dev](https://nullbyte.hashnode.dev)
- - date_published: 2024-11-10T17:37:01.817192+00:00
-
- ## Pair Debugging with Ada Lovelace
- - [https://pairdebuggingwithlovelace.hashnode.dev](https://pairdebuggingwithlovelace.hashnode.dev)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Pragmatic Notes
- - [https://pragmaticnotes.hashnode.dev](https://pragmaticnotes.hashnode.dev)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Puluno's Moe
- - [https://pulunomoe.hashnode.dev](https://pulunomoe.hashnode.dev)
- - date_published: 2024-10-29T11:29:33.232930+00:00
-
- ## P-Y's blog
- - [https://py.hashnode.dev](https://py.hashnode.dev)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Quincy Oghenetejiri's Blog
- - [https://quincyoghenetejiri.hashnode.dev](https://quincyoghenetejiri.hashnode.dev)
- - date_published: 2024-05-02T13:57:09.765491+00:00
- - tags: ['personal']
-
- ## Sagar's Blog
- - [https://sagarsoni.hashnode.dev](https://sagarsoni.hashnode.dev)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Sara Joy
- - [https://sarajw.hashnode.dev](https://sarajw.hashnode.dev)
- - date_published: 2024-06-22T13:46:10.684985+00:00
-
- ## MrCatDev's Blog
- - [https://script.hashnode.dev](https://script.hashnode.dev)
- - date_published: 2024-10-31T07:38:37.677186+00:00
-
- ## Developer In Making
- - [https://shankarmadeshvaran.hashnode.dev](https://shankarmadeshvaran.hashnode.dev)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Shaunak Sen's Blog
- - [https://shaunaksen.hashnode.dev](https://shaunaksen.hashnode.dev)
- - date_published: 2024-04-30T07:42:35.038637+00:00
- - tags: ['personal']
-
- ## SoNiC-HeRE
- - [https://sonichere.hashnode.dev](https://sonichere.hashnode.dev)
- - date_published: 2024-05-11T09:06:13.977387+00:00
-
- ## Steel Rods
- - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
- - date_published: 2023-11-12T13:46:14.283644+00:00
- - tags: ['personal']
-
- ## Stellar Wolf Entertainment
- - [https://stellarwolf.hashnode.dev](https://stellarwolf.hashnode.dev)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Learned to Share
- - [https://tanmaysarkar.hashnode.dev](https://tanmaysarkar.hashnode.dev)
- - date_published: 2024-06-01T04:55:17.869008+00:00
-
- ## Techlatest Blogs
- - [https://techlatest.hashnode.dev](https://techlatest.hashnode.dev)
- - date_published: 2024-06-01T04:54:48.827485+00:00
-
- ## Du code, de l'électronique, du DIY !
- - [https://titimoby.hashnode.dev](https://titimoby.hashnode.dev)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Varol Aksoy | iOS Development
- - [https://varol.hashnode.dev](https://varol.hashnode.dev)
- - date_published: 2024-06-23T15:44:00.838541+00:00
 

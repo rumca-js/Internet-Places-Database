@@ -1,3 +1,59 @@
+ ## home | handemcginty
+ - [http://handemcginty.com](http://handemcginty.com)
+ - date_published: 2024-07-01T11:14:38.825621+00:00
+
+ ## Engraving Tools, Stone Setting Tools for Jewelers, Metal artists, Guns, Knives and Jewelry Engrave.
+ - [https://handengravetools.com](https://handengravetools.com)
+ - date_published: 2024-05-27T03:16:54+00:00
+
+ ## HAND ENGRAVING LEARNING CENTERS, SCHOOLS AND CLASSES that provide the Patented Lindsay PalmControl in the classroom.  Learn to Hand Engrave
+ - [https://handengravingclasses.com](https://handengravingclasses.com)
+ - date_published: 2022-08-29T17:54:50+00:00
+
+ ## Engraving Forum.com - The Internet's Largest and Fastest Growing Engraving Community - Largest Hand Engraving Community, 5,216 members
+ - [https://handengravingforum.com](https://handengravingforum.com)
+ - date_published: 2024-06-15T07:25:21.459738+00:00
+
+ ## Hand Engraving School and Classes, Hand Engraving Tools for Jewelers and Artists ~ Steve Lindsay
+ - [https://handengravingschool.com](https://handengravingschool.com)
+ - date_published: 2020-09-22T21:54:33+00:00
+
+ ## Hand Engraving School and Classes, Hand Engraving Tools for Jewelers and Artists ~ Steve Lindsay
+ - [https://handengravingtraining.com](https://handengravingtraining.com)
+ - date_published: 2020-09-22T21:54:33+00:00
+
+ ## Hand Eye Society – a videogame arts organization
+ - [http://handeyesociety.com](http://handeyesociety.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Engraving Tools, Stone Setting Tools for Jewelers, Metal artists, Guns, Knives and Jewelry Engrave.
+ - [https://www.handgravers.com](https://www.handgravers.com)
+ - date_published: 2024-05-04T06:58:50.728867+00:00
+
+ ## Home | Handgunhunt
+ - [http://www.handgunhunt.com](http://www.handgunhunt.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## #1 Mobile Solution for Act!
+ - [http://handheldcontact.com](http://handheldcontact.com)
+ - date_published: 2024-08-18T03:43:33+00:00
+
+ ## Handheld HQ
+ - [https://handheld-hq.com](https://handheld-hq.com)
+ - date_published: 2023-10-23T22:48:49+00:00
+
+ ## Development Kits (and other rare or interesting game hardware)
+ - [https://devkits.handheldmuseum.com](https://devkits.handheldmuseum.com)
+ - date_published: 2014-01-14T05:23:18+00:00
+
+ ## Electronic Handheld Game Museum
+ - [https://handheldmuseum.com](https://handheldmuseum.com)
+ - date_published: 2024-05-07T15:33:05.285873+00:00
+
+ ## Original (and some replica) Movie Props
+ - [https://props.handheldmuseum.com](https://props.handheldmuseum.com)
+ - date_published: 2018-06-27T01:00:30+00:00
+
  ## HAND – Human & Digital
  - [https://www.handidentity.com](https://www.handidentity.com)
  - date_published: 2024-08-18T19:44:53.823514+00:00
@@ -3972,60 +4028,4 @@
  ## Heardle 50s
  - [https://50s.heardledecades.com](https://50s.heardledecades.com)
  - date_published: 2024-06-23T15:19:22+00:00
-
- ## Heardle 60s
- - [https://60s.heardledecades.com](https://60s.heardledecades.com)
- - date_published: 2024-07-02T15:05:28+00:00
-
- ## Heardle 70s
- - [https://70s.heardledecades.com](https://70s.heardledecades.com)
- - date_published: 2024-05-16T05:29:41+00:00
-
- ## Heardle 80s Number 1s
- - [https://80s.heardledecades.com](https://80s.heardledecades.com)
- - date_published: 2024-05-26T08:25:57+00:00
-
- ## Heardle 90s
- - [https://90s.heardledecades.com](https://90s.heardledecades.com)
- - date_published: 2024-06-23T15:38:16+00:00
-
- ## Heardle Country
- - [https://country.heardledecades.com](https://country.heardledecades.com)
- - date_published: 2024-05-14T19:28:44+00:00
-
- ## Heardle Covers
- - [https://covers.heardledecades.com](https://covers.heardledecades.com)
- - date_published: 2024-05-17T10:33:16+00:00
-
- ## Heardle Disco
- - [https://disco.heardledecades.com](https://disco.heardledecades.com)
- - date_published: 2024-05-04T05:18:25+00:00
-
- ## Heardle Eurovision
- - [https://eurovision.heardledecades.com](https://eurovision.heardledecades.com)
- - date_published: 2024-05-13T15:33:28+00:00
-
- ## Heardle GRLPWR!
- - [https://female.heardledecades.com](https://female.heardledecades.com)
- - date_published: 2024-06-10T06:05:58+00:00
-
- ## Heardle Decades - The Home of Heardle - Can you name that tune?
- - [https://heardledecades.com](https://heardledecades.com)
- - date_published: 2024-05-08T07:01:30.427708+00:00
-
- ## Heardle Greatest Hits
- - [https://hits.heardledecades.com](https://hits.heardledecades.com)
- - date_published: 2024-02-22T12:11:57+00:00
-
- ## Heardle Love Songs
- - [https://love.heardledecades.com](https://love.heardledecades.com)
- - date_published: 2024-03-21T21:58:47+00:00
-
- ## Heardle - It's Lyrical AF
- - [https://lyrical.heardledecades.com](https://lyrical.heardledecades.com)
- - date_published: 2024-06-30T08:22:19+00:00
-
- ## Heardle Metal
- - [https://metal.heardledecades.com](https://metal.heardledecades.com)
- - date_published: 2024-06-30T07:32:43+00:00
 

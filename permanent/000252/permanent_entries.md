@@ -1,3 +1,110 @@
+ ## Meandering Thoughts
+ - [https://meanderingthoughts.hashnode.dev](https://meanderingthoughts.hashnode.dev)
+ - date_published: 2024-10-22T21:30:15.932807+00:00
+
+ ## medunes's  blog
+ - [https://medunes.hashnode.dev](https://medunes.hashnode.dev)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Mike Mwanje's  blog
+ - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Michael Hoffmann
+ - [https://mokkapps.hashnode.dev](https://mokkapps.hashnode.dev)
+ - date_published: 2024-07-14T07:53:35.330229+00:00
+
+ ## NeuML
+ - [https://neuml.hashnode.dev](https://neuml.hashnode.dev)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Nevos.io
+ - [https://nevodavid.hashnode.dev](https://nevodavid.hashnode.dev)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## nothanii
+ - [https://nothanii.hashnode.dev](https://nothanii.hashnode.dev)
+ - date_published: 2024-10-30T15:28:14.046525+00:00
+
+ ## Web Chronicles
+ - [https://nsblog.hashnode.dev](https://nsblog.hashnode.dev)
+ - date_published: 2024-07-14T09:54:22.727553+00:00
+
+ ## NullByte Tech Journals
+ - [https://nullbyte.hashnode.dev](https://nullbyte.hashnode.dev)
+ - date_published: 2024-11-10T17:37:01.817192+00:00
+
+ ## Pair Debugging with Ada Lovelace
+ - [https://pairdebuggingwithlovelace.hashnode.dev](https://pairdebuggingwithlovelace.hashnode.dev)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Pragmatic Notes
+ - [https://pragmaticnotes.hashnode.dev](https://pragmaticnotes.hashnode.dev)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Puluno's Moe
+ - [https://pulunomoe.hashnode.dev](https://pulunomoe.hashnode.dev)
+ - date_published: 2024-10-29T11:29:33.232930+00:00
+
+ ## P-Y's blog
+ - [https://py.hashnode.dev](https://py.hashnode.dev)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Quincy Oghenetejiri's Blog
+ - [https://quincyoghenetejiri.hashnode.dev](https://quincyoghenetejiri.hashnode.dev)
+ - date_published: 2024-05-02T13:57:09.765491+00:00
+ - tags: ['personal']
+
+ ## Sagar's Blog
+ - [https://sagarsoni.hashnode.dev](https://sagarsoni.hashnode.dev)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Sara Joy
+ - [https://sarajw.hashnode.dev](https://sarajw.hashnode.dev)
+ - date_published: 2024-06-22T13:46:10.684985+00:00
+
+ ## MrCatDev's Blog
+ - [https://script.hashnode.dev](https://script.hashnode.dev)
+ - date_published: 2024-10-31T07:38:37.677186+00:00
+
+ ## Developer In Making
+ - [https://shankarmadeshvaran.hashnode.dev](https://shankarmadeshvaran.hashnode.dev)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Shaunak Sen's Blog
+ - [https://shaunaksen.hashnode.dev](https://shaunaksen.hashnode.dev)
+ - date_published: 2024-04-30T07:42:35.038637+00:00
+ - tags: ['personal']
+
+ ## SoNiC-HeRE
+ - [https://sonichere.hashnode.dev](https://sonichere.hashnode.dev)
+ - date_published: 2024-05-11T09:06:13.977387+00:00
+
+ ## Steel Rods
+ - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
+ - date_published: 2023-11-12T13:46:14.283644+00:00
+ - tags: ['personal']
+
+ ## Stellar Wolf Entertainment
+ - [https://stellarwolf.hashnode.dev](https://stellarwolf.hashnode.dev)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Learned to Share
+ - [https://tanmaysarkar.hashnode.dev](https://tanmaysarkar.hashnode.dev)
+ - date_published: 2024-06-01T04:55:17.869008+00:00
+
+ ## Techlatest Blogs
+ - [https://techlatest.hashnode.dev](https://techlatest.hashnode.dev)
+ - date_published: 2024-06-01T04:54:48.827485+00:00
+
+ ## Du code, de l'électronique, du DIY !
+ - [https://titimoby.hashnode.dev](https://titimoby.hashnode.dev)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Varol Aksoy | iOS Development
+ - [https://varol.hashnode.dev](https://varol.hashnode.dev)
+ - date_published: 2024-06-23T15:44:00.838541+00:00
+
  ## Show HN: Hashquery, a Python library for defining reusable analysis
  - [https://hashquery.dev](https://hashquery.dev)
  - date_published: 2024-04-23T14:31:12+00:00
@@ -3973,112 +4080,4 @@
  ## Hi! | Peter Ringset
  - [https://peterringset.dev](https://peterringset.dev)
  - date_published: 2024-01-30T00:00:00+00:00
-
- ## Florian Pfisterer
- - [https://pfisterer.dev](https://pfisterer.dev)
- - date_published: 2024-01-12T10:31:39.595981+00:00
-
- ## PostgreSQL Development Conference 2024
- - [https://2024.pgconf.dev](https://2024.pgconf.dev)
- - date_published: 2024-06-06T00:09:17+00:00
-
- ## PostgreSQL Development Conference 2025
- - [https://2025.pgconf.dev](https://2025.pgconf.dev)
- - date_published: 2024-10-17T14:30:43+00:00
-
- ## PGJones.dev
- - [http://pgjones.dev](http://pgjones.dev)
- - date_published: 2024-06-01T04:52:10.227878+00:00
- - tags: ['personal']
-
- ## PGlite
- - [https://pglite.dev](https://pglite.dev)
- - date_published: 2024-09-15T19:43:18.963674+00:00
-
- ## Trunk
- - [https://pgt.dev](https://pgt.dev)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Nicolas Goutay — Software Engineer, Speaker, Open Source tinkerer
- - [https://phacks.dev](https://phacks.dev)
- - date_published: 2024-06-01T04:54:37.202942+00:00
- - tags: ['personal']
-
- ## Umami
- - [https://umami.pheralb.dev](https://umami.pheralb.dev)
- - date_published: 2024-05-09T09:14:50.945228+00:00
-
- ## Photobox
- - [https://photobox.dev](https://photobox.dev)
- - date_published: 2024-04-23T19:53:33+00:00
- - tags: ['self-host', 'photo library', 'image library', 'open source']
-
- ## Pierre Couy’s tech corner | Freelance developper, computer science teacher, passionate about programming. I enjoy sharing my work with the world.
- - [https://pierre-couy.dev](https://pierre-couy.dev)
- - date_published: 2023-10-25T18:40:46.733153+00:00
-
- ## Pigweed
- - [https://issues.pigweed.dev](https://issues.pigweed.dev)
- - date_published: 2024-07-02T17:33:32.060921+00:00
-
- ## Pigweed
- - [https://pigweed.dev](https://pigweed.dev)
- - date_published: 2024-05-07T23:00:16.853198+00:00
-
- ## Pika - Search npm for fast, modern packages.
- - [https://www.pika.dev](https://www.pika.dev)
- - date_published: 2024-05-06T13:27:08.155900+00:00
-
- ## pikdum's blog
- - [https://pikdum.dev](https://pikdum.dev)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Pi Lab
- - [https://pilab.dev](https://pilab.dev)
- - date_published: 2024-10-19T21:04:36.470488+00:00
-
- ## Adam's Pile of Hacks
- - [https://pileofhacks.dev](https://pileofhacks.dev)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## Playground — LAB.PINTO.DEV
- - [https://manuel.pinto.dev](https://manuel.pinto.dev)
- - date_published: 2024-05-02T11:37:06.639330+00:00
-
- ## pippy
- - [https://app.pippy.dev](https://app.pippy.dev)
- - date_published: 2024-07-16T08:05:53+00:00
-
- ## Show HN: Pippy – Pipelines for GitHub Actions
- - [https://pippy.dev](https://pippy.dev)
- - date_published: 2024-07-17T07:17:23+00:00
-
- ## Piraces Personal Blog
- - [https://piraces.dev](https://piraces.dev)
- - date_published: 2024-05-11T10:25:04.849628+00:00
- - tags: ['personal']
-
- ## pisa.dev - la community degli sviluppatori pisani
- - [https://pisa.dev](https://pisa.dev)
- - date_published: 2024-06-22T14:03:11.996495+00:00
-
- ## Form Acceptance
- - [https://notion.pixelsmith.dev](https://notion.pixelsmith.dev)
- - date_published: 2024-09-16T07:25:44.783976+00:00
-
- ## Petalica Paint
- - [https://petalica-paint.pixiv.dev](https://petalica-paint.pixiv.dev)
- - date_published: 2022-09-30T00:48:54+00:00
-
- ## pkg-size | Find the true size of a npm package
- - [https://pkg-size.dev](https://pkg-size.dev)
- - date_published: 2023-10-25T18:40:47.132424+00:00
-
- ## pkgx, inc.
- - [https://pkgx.dev](https://pkgx.dev)
- - date_published: 2024-02-26T14:57:26+00:00
-
- ## Placetopay Docs
- - [https://docs.placetopay.dev](https://docs.placetopay.dev)
- - date_published: 2024-06-12T10:31:16.093233+00:00
 

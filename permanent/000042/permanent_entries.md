@@ -1,3 +1,12 @@
+ ## Amadeus-Hospitality/TravelClick | Pioneer in Hotel Software
+ - [https://www.amadeus-hospitality.com](https://www.amadeus-hospitality.com)
+ - date_published: 2022-10-17T07:37:06+00:00
+
+ ## Amadeus Pagel's Newsletter | Substack
+ - [https://amadeuspagel.com](https://amadeuspagel.com)
+ - date_published: 2023-10-25T12:39:34.658645+00:00
+ - tags: ['personal']
+
  ## Info – Amadeus Paulussen
  - [https://amadeuspaulussen.com](https://amadeuspaulussen.com)
  - date_published: 2024-07-17T18:17:22.491362+00:00
@@ -4057,12 +4066,4 @@
  ## andrew | My writings, projects, and links
  - [https://andrewjudson.com](https://andrewjudson.com)
  - date_published: 2023-02-02T06:25:45+00:00
-
- ## Home | Andrew JV Powell
- - [https://www.andrewjvpowell.com](https://www.andrewjvpowell.com)
- - date_published: 2021-09-26T01:22:43+00:00
-
- ## Andrew Dinh
- - [https://andrewkdinh.com](https://andrewkdinh.com)
- - date_published: 2024-05-07T23:24:03.987693+00:00
 

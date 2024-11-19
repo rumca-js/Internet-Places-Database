@@ -1,3 +1,115 @@
+ ## Office of Financial Aid | Colorado State University
+ - [https://financialaid.colostate.edu](https://financialaid.colostate.edu)
+ - date_published: 2024-08-11T10:43:56.856625+00:00
+
+ ## University Advancement – Giving @ Colorado State University
+ - [https://giving.colostate.edu](https://giving.colostate.edu)
+ - date_published: 2024-07-22T06:01:45.803281+00:00
+
+ ## Graduate School at Colorado State University
+ - [https://graduateschool.colostate.edu](https://graduateschool.colostate.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - Green @ CSU
+ - [https://green.colostate.edu](https://green.colostate.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home - Health Network | Colorado State University
+ - [http://health.colostate.edu](http://health.colostate.edu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Housing & Dining Services – Housing & Dining Services @ Colorado State University
+ - [http://housing.colostate.edu](http://housing.colostate.edu)
+ - date_published: 2024-08-11T10:43:26.111955+00:00
+
+ ## Human Resources | Colorado State University
+ - [https://hr.colostate.edu](https://hr.colostate.edu)
+ - date_published: 2024-08-11T10:43:14.710857+00:00
+
+ ## Inclusive Physical & Virtual Campus | Colorado State University
+ - [https://inclusivecampus.colostate.edu](https://inclusivecampus.colostate.edu)
+ - date_published: 2024-08-11T10:43:46.082375+00:00
+
+ ## Inclusive Excellence at CSU | Office of Inclusive Excellence
+ - [https://inclusiveexcellence.colostate.edu](https://inclusiveexcellence.colostate.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## International Programs at Colorado State University
+ - [https://international.colostate.edu](https://international.colostate.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Colorado State University Employment Opportunities | Home
+ - [https://jobs.colostate.edu](https://jobs.colostate.edu)
+ - date_published: 2024-07-22T06:02:15+00:00
+
+ ## The 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2011)
+ - [http://lcpc11.cs.colostate.edu](http://lcpc11.cs.colostate.edu)
+ - date_published: 2024-07-02T03:02:18.601985+00:00
+
+ ## News - College of Liberal Arts, Colorado State University
+ - [https://libarts.source.colostate.edu](https://libarts.source.colostate.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Colorado State University: Libraries
+ - [https://lib.colostate.edu](https://lib.colostate.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Mailing Lists – Information Technology
+ - [https://lists.colostate.edu](https://lists.colostate.edu)
+ - date_published: 2024-06-21T20:36:42.306835+00:00
+
+ ## Colorado State University Magazine
+ - [https://magazine.colostate.edu](https://magazine.colostate.edu)
+ - date_published: 2024-04-30T03:48:16.584614+00:00
+
+ ## Lenses of the Liberal Arts: Voice - CSU College of Liberal Arts Magazine
+ - [http://magazine.libarts.colostate.edu](http://magazine.libarts.colostate.edu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Rams (Google) Accounts | Colorado State University
+ - [http://mail.rams.colostate.edu](http://mail.rams.colostate.edu)
+ - date_published: 2024-08-11T10:43:39.331560+00:00
+
+ ## Colorado State University
+ - [http://maps.colostate.edu](http://maps.colostate.edu)
+ - date_published: 2024-08-11T10:43:41.939270+00:00
+
+ ## Department of Mathematics | CSU – Department of Mathematics at Colorado State University
+ - [https://mathematics.colostate.edu](https://mathematics.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## My Learning | Colorado State University
+ - [https://mylearning.colostate.edu](https://mylearning.colostate.edu)
+ - date_published: 2024-08-11T10:42:31.694895+00:00
+
+ ## News - College of Natural Sciences, Colorado State University
+ - [https://natsci.source.colostate.edu](https://natsci.source.colostate.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## NetID - Colorado State University System - NetID - Colorado State University System
+ - [https://netid.colostate.edu](https://netid.colostate.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## News & Media Relations | Colorado State University
+ - [https://newsmediarelations.colostate.edu](https://newsmediarelations.colostate.edu)
+ - date_published: 2024-07-22T06:02:48.522850+00:00
+
+ ## Colorado State University Online | Online Masters & Bachelor Degrees
+ - [http://online.colostate.edu](http://online.colostate.edu)
+ - date_published: 2024-07-22T06:08:53.399087+00:00
+
+ ## Parent & Family Programs – Colorado State University
+ - [http://parents.colostate.edu](http://parents.colostate.edu)
+ - date_published: 2024-08-11T10:41:31.885076+00:00
+
+ ## Math Placement | Department of Mathematics
+ - [https://placement.math.colostate.edu](https://placement.math.colostate.edu)
+ - date_published: 2024-06-30T03:02:37.613127+00:00
+
+ ## Policy Library - Office of Policy & Compliance - Colorado State University
+ - [http://policylibrary.colostate.edu](http://policylibrary.colostate.edu)
+ - date_published: 2024-07-22T06:01:40.865125+00:00
+
  ## Department of Psychology | CSU
  - [https://psychology.colostate.edu](https://psychology.colostate.edu)
  - date_published: 2017-07-12T00:00:00+00:00
@@ -3889,116 +4001,4 @@
  ## Home | Duke Government Relations
  - [https://govrelations.duke.edu](https://govrelations.duke.edu)
  - date_published: 2024-09-27T18:20:42+00:00
-
- ## Homepage | The Graduate School
- - [https://gradschool.duke.edu](https://gradschool.duke.edu)
- - date_published: 2024-06-16T06:41:18+00:00
-
- ## LibGuides
- - [http://guides.library.duke.edu](http://guides.library.duke.edu)
- - date_published: 2024-08-19T08:35:56.138343+00:00
-
- ## Home | Margolis Institute for Health Policy
- - [https://healthpolicy.duke.edu](https://healthpolicy.duke.edu)
- - date_published: 2024-06-15T19:18:10+00:00
-
- ## Front Page | History
- - [https://history.duke.edu](https://history.duke.edu)
- - date_published: 2024-09-26T17:15:02+00:00
-
- ## Front Page | Center for the History of Political Economy
- - [https://hope.econ.duke.edu](https://hope.econ.duke.edu)
- - date_published: 2024-07-03T08:29:44+00:00
-
- ## Home | Human Resources
- - [https://hr.duke.edu](https://hr.duke.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## About the Duke Human Rights Center | Duke Human Rights Center at the Franklin Humanities Institute
- - [https://humanrights.fhi.duke.edu](https://humanrights.fhi.duke.edu)
- - date_published: 2024-09-26T17:54:57+00:00
-
- ## INTERDISCIPLINARY BEHAVIORAL RESEARCH CENTER
- - [https://ibrc.duke.edu](https://ibrc.duke.edu)
- - date_published: 2024-09-26T18:02:48.034948+00:00
-
- ## Duke | Log In
- - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
- - date_published: 2024-05-01T06:58:34.700524+00:00
-
- ## Together, we are Forever Duke: Our 2021 Impact Report
- - [https://impact.duke.edu](https://impact.duke.edu)
- - date_published: 2024-09-26T18:01:02.962187+00:00
-
- ## Log In | Inventions
- - [https://innovate.olv.duke.edu](https://innovate.olv.duke.edu)
- - date_published: 2024-09-26T18:00:19.875463+00:00
-
- ## Welcome to the Pratt Intranet | Pratt Intranet
- - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
- - date_published: 2024-05-10T04:48:48.601253+00:00
-
- ## Inside Sanford – The home for all things for and about the Sanford School of Public Policy
- - [https://inside.sanford.duke.edu](https://inside.sanford.duke.edu)
- - date_published: 2024-07-20T15:53:29+00:00
-
- ## Homepage | Office of Interdisciplinary Studies
- - [https://interdisciplinary.duke.edu](https://interdisciplinary.duke.edu)
- - date_published: 2024-09-04T19:24:11+00:00
-
- ## Duke | Log In
- - [https://intranet.divinity.duke.edu](https://intranet.divinity.duke.edu)
- - date_published: 2024-09-26T18:09:05.581759+00:00
-
- ## Front Page | Information Science + Studies
- - [https://iss.duke.edu](https://iss.duke.edu)
- - date_published: 2024-09-26T15:09:02+00:00
-
- ## Homepage | Information Technology Advisory Council ITAC
- - [https://itac.duke.edu](https://itac.duke.edu)
- - date_published: 2024-06-16T07:10:50+00:00
-
- ## DUKEHealth JA |
- - [https://ja.dh.duke.edu](https://ja.dh.duke.edu)
- - date_published: 2024-08-18T08:02:18+00:00
-
- ## Judicature
- - [https://judicature.duke.edu](https://judicature.duke.edu)
- - date_published: 2024-06-14T23:18:51.689658+00:00
-
- ## Bolch Judicial Institute of Duke Law School
- - [https://judicialstudies.duke.edu](https://judicialstudies.duke.edu)
- - date_published: 2019-01-15T16:31:27+00:00
-
- ## The Kenan Institute for Ethics at Duke University
- - [https://kenan.ethics.duke.edu](https://kenan.ethics.duke.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Duke University School of Law
- - [https://law.duke.edu](https://law.duke.edu)
- - date_published: 2024-04-30T04:13:42.585667+00:00
-
- ## Duke Learning Innovation
- - [https://learninginnovation.duke.edu](https://learninginnovation.duke.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Front Page | Continuing Studies
- - [https://learnmore.duke.edu](https://learnmore.duke.edu)
- - date_published: 2024-06-15T08:18:44+00:00
-
- ## Duke Lens | Visual Stories at Duke University
- - [https://lens.duke.edu](https://lens.duke.edu)
- - date_published: 2024-07-15T06:17:59.954663+00:00
-
- ## Graduate Liberal Studies
- - [https://liberalstudies.duke.edu](https://liberalstudies.duke.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home | Library
- - [https://library.divinity.duke.edu](https://library.divinity.duke.edu)
- - date_published: 2024-09-26T18:09:07.050604+00:00
-
- ## Duke University Libraries | Duke University Libraries
- - [https://library.duke.edu](https://library.duke.edu)
- - date_published: 2024-06-16T07:17:16+00:00
 

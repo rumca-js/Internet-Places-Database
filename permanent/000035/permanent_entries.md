@@ -1,3 +1,7 @@
+ ## Witch Hazel, A text editor color theme by Stargirl Flowers
+ - [https://witchhazel.thea.codes](https://witchhazel.thea.codes)
+ - date_published: 2024-05-21T15:58:09+00:00
+
  ## The Collab Lab
  - [https://the-collab-lab.codes](https://the-collab-lab.codes)
  - date_published: 2024-09-03T22:13:05.623516+00:00
@@ -4031,8 +4035,4 @@ syndication,XML,RDF,news ...
  ## 3BL Associates
  - [https://www.3blassociates.com](https://www.3blassociates.com)
  - date_published: 2024-09-12T16:56:11.567584+00:00
-
- ## 3Blue1Brown
- - [https://3blue1brown.com](https://3blue1brown.com)
- - date_published: 2023-10-25T12:27:01.181622+00:00
 

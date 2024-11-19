@@ -1,3 +1,115 @@
+ ## Blog Insights From Oregon State University - Online Marketing, the Business of Beer, Gardening and More
+ - [https://blog.pace.oregonstate.edu](https://blog.pace.oregonstate.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## OSU Wordpress
+ - [http://blogs.oregonstate.edu](http://blogs.oregonstate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Online Data Analytics Bootcamp | Oregon State University
+ - [https://bootcamp.oregonstate.edu](https://bootcamp.oregonstate.edu)
+ - date_published: 2024-10-15T01:25:15.454689+00:00
+
+ ## Business Matters – News, articles, and interesting stuff from the College of Business
+ - [https://businessmatters.oregonstate.edu](https://businessmatters.oregonstate.edu)
+ - date_published: 2024-10-15T00:02:39.667937+00:00
+
+ ## College of Business
+ - [https://business.oregonstate.edu](https://business.oregonstate.edu)
+ - date_published: 2024-06-16T21:05:23+00:00
+
+ ## Events Calendar - Oregon State University
+ - [https://calendar.oregonstate.edu](https://calendar.oregonstate.edu)
+ - date_published: 2024-07-06T23:29:45.630592+00:00
+
+ ## OSU Login
+ - [https://canvas.oregonstate.edu](https://canvas.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:38.583379+00:00
+
+ ## Home - OSU-Cascades | OSU-Cascades Library | Oregon State University
+ - [https://cascades.library.oregonstate.edu](https://cascades.library.oregonstate.edu)
+ - date_published: 2024-10-15T00:27:07+00:00
+
+ ## Home | Center for Applied Systems & Software | Oregon State University
+ - [https://cass.oregonstate.edu](https://cass.oregonstate.edu)
+ - date_published: 2024-07-06T20:40:17+00:00
+
+ ## 2024-2025 Catalog < Oregon State University
+ - [https://catalog.oregonstate.edu](https://catalog.oregonstate.edu)
+ - date_published: 2024-06-13T08:05:53+00:00
+
+ ## Oregon State University Schedule of Classes
+ - [http://classes.oregonstate.edu](http://classes.oregonstate.edu)
+ - date_published: 2024-10-02T18:15:27+00:00
+
+ ## Clery Compliance
+ - [https://clery.oregonstate.edu](https://clery.oregonstate.edu)
+ - date_published: 2015-12-11T08:58:22+00:00
+
+ ## Clubs & Organizations
+ - [https://clubs.oregonstate.edu](https://clubs.oregonstate.edu)
+ - date_published: 2024-10-15T00:46:14+00:00
+
+ ## Commencement
+ - [https://commencement.oregonstate.edu](https://commencement.oregonstate.edu)
+ - date_published: 2024-06-14T16:17:49+00:00
+
+ ## University Relations and Marketing
+ - [https://communications.oregonstate.edu](https://communications.oregonstate.edu)
+ - date_published: 2024-10-14T23:58:18+00:00
+
+ ## Core Education
+ - [https://coreeducation.oregonstate.edu](https://coreeducation.oregonstate.edu)
+ - date_published: 2023-07-03T14:46:43+00:00
+
+ ## College of Agricultural Sciences
+ - [https://cropandsoil.oregonstate.edu](https://cropandsoil.oregonstate.edu)
+ - date_published: 2024-10-15T04:06:48+00:00
+
+ ## OSU Login
+ - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:42.668831+00:00
+
+ ## Undergraduate Admissions
+ - [https://discover.oregonstate.edu](https://discover.oregonstate.edu)
+ - date_published: 2024-06-18T14:29:52+00:00
+
+ ## Institutional Diversity
+ - [https://diversity.oregonstate.edu](https://diversity.oregonstate.edu)
+ - date_published: 2018-05-30T00:00:00+00:00
+
+ ## Online Degrees & Programs | Oregon State Ecampus | OSU Degrees Online
+ - [https://ecampus.oregonstate.edu](https://ecampus.oregonstate.edu)
+ - date_published: 2024-06-16T22:25:12.335267+00:00
+
+ ## Division of Educational Ventures | Oregon State University
+ - [https://educationalventures.oregonstate.edu](https://educationalventures.oregonstate.edu)
+ - date_published: 2024-10-15T01:15:50.913361+00:00
+
+ ## College of Education
+ - [https://education.oregonstate.edu](https://education.oregonstate.edu)
+ - date_published: 2021-11-24T14:37:21+00:00
+
+ ## Electrical Engineering and Computer Science | College of Engineering
+ - [http://eecs.oregonstate.edu](http://eecs.oregonstate.edu)
+ - date_published: 2022-07-15T22:09:15+00:00
+
+ ## Emergency Management
+ - [https://emergency.oregonstate.edu](https://emergency.oregonstate.edu)
+ - date_published: 2024-10-14T21:25:36+00:00
+
+ ## Extension employee resources | Employee Intranet
+ - [https://employee.extension.oregonstate.edu](https://employee.extension.oregonstate.edu)
+ - date_published: 2024-10-15T01:12:16+00:00
+
+ ## OSU Extension and Engagement | Extension and Engagement
+ - [https://engagement.oregonstate.edu](https://engagement.oregonstate.edu)
+ - date_published: 2024-06-13T00:15:19+00:00
+
+ ## Enrollment Management
+ - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
+ - date_published: 2023-07-06T12:10:16+00:00
+
  ## Events Calendar - Oregon State University
  - [https://events.oregonstate.edu](https://events.oregonstate.edu)
  - date_published: 2024-06-20T01:58:18.803266+00:00
@@ -3894,116 +4006,4 @@
  ## Rice
  - [https://futureowls.rice.edu](https://futureowls.rice.edu)
  - date_published: 2024-05-07T20:06:06.266507+00:00
-
- ## The Galileo Project
- - [http://galileo.rice.edu](http://galileo.rice.edu)
- - date_published: 2024-06-30T08:52:26.238375+00:00
-
- ## Home
- - [https://garden.rice.edu](https://garden.rice.edu)
- - date_published: 2024-06-12T17:03:45+00:00
-
- ## General Announcements < Rice University
- - [https://ga.rice.edu](https://ga.rice.edu)
- - date_published: 2024-03-13T21:24:36+00:00
-
- ## Gateway Program
- - [https://gateway.rice.edu](https://gateway.rice.edu)
- - date_published: 2024-05-05T20:08:25+00:00
-
- ## Rice
- - [http://gcurs.rice.edu](http://gcurs.rice.edu)
- - date_published: 2024-05-19T16:42:26+00:00
-
- ## GDEC
- - [https://gdec.rice.edu](https://gdec.rice.edu)
- - date_published: 2024-05-04T18:30:20+00:00
-
- ## Attention Required! | Cloudflare
- - [https://giftplan.rice.edu](https://giftplan.rice.edu)
- - date_published: 2024-07-01T18:00:24.148906+00:00
-
- ## Alumni
- - [https://giving.rice.edu](https://giving.rice.edu)
- - date_published: 2024-05-07T20:05:37.746113+00:00
-
- ## Subscribe to the Glasscock School
- - [https://glasscock-info.rice.edu](https://glasscock-info.rice.edu)
- - date_published: 2024-06-25T11:19:56+00:00
-
- ## Glasscock
- - [https://glasscock.rice.edu](https://glasscock.rice.edu)
- - date_published: 2024-05-07T20:05:13.562824+00:00
-
- ## Top Global University and Research Leader | Rice University
- - [https://global.rice.edu](https://global.rice.edu)
- - date_published: 2024-05-07T20:05:18.680149+00:00
-
- ## Master of Liberal Studies at Rice
- - [https://gls.rice.edu](https://gls.rice.edu)
- - date_published: 2024-06-27T23:35:39+00:00
-
- ## Log in | Grad Admin Guide | Rice University
- - [https://gradadmin.rice.edu](https://gradadmin.rice.edu)
- - date_published: 2024-07-01T17:59:44.217604+00:00
-
- ## Home
- - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
- - date_published: 2024-05-07T20:06:18.645335+00:00
-
- ## Application Management
- - [https://gradapply.rice.edu](https://gradapply.rice.edu)
- - date_published: 2024-07-01T17:59:15.903204+00:00
-
- ## Home
- - [https://graduate.rice.edu](https://graduate.rice.edu)
- - date_published: 2024-05-07T20:05:17.391901+00:00
-
- ## GSA
- - [http://gsa.rice.edu](http://gsa.rice.edu)
- - date_published: 2024-05-16T12:39:09+00:00
-
- ## Home
- - [https://health.rice.edu](https://health.rice.edu)
- - date_published: 2024-07-01T17:59:59.131880+00:00
-
- ## Login
- - [https://helpdesk.rice.edu](https://helpdesk.rice.edu)
- - date_published: 2024-05-07T20:06:11.527443+00:00
-
- ## Login
- - [https://help.rice.edu](https://help.rice.edu)
- - date_published: 2024-05-07T20:06:08.094857+00:00
-
- ## Houston Education Research Consortium
- - [https://herc.rice.edu](https://herc.rice.edu)
- - date_published: 2024-06-19T00:39:11+00:00
-
- ## Rice University HGSA
- - [http://hgsa.rice.edu](http://hgsa.rice.edu)
- - date_published: 2024-07-01T18:00:46+00:00
-
- ## History
- - [https://history.rice.edu](https://history.rice.edu)
- - date_published: 2024-05-28T22:32:00+00:00
-
- ## Housing
- - [https://housing.rice.edu](https://housing.rice.edu)
- - date_published: 2024-06-28T19:32:01+00:00
-
- ## HRC Home
- - [https://hrc.rice.edu](https://hrc.rice.edu)
- - date_published: 2024-05-21T03:24:34+00:00
-
- ## School of Humanities
- - [https://humanities.rice.edu](https://humanities.rice.edu)
- - date_published: 2024-05-07T20:05:26.877289+00:00
-
- ## Rice Identity Provider
- - [https://imagineone.rice.edu](https://imagineone.rice.edu)
- - date_published: 2024-07-01T18:09:48.792837+00:00
-
- ## Archives of the Impossible
- - [https://impossiblearchives.rice.edu](https://impossiblearchives.rice.edu)
- - date_published: 2024-07-30T11:57:05+00:00
 

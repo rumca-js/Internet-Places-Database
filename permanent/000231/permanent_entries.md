@@ -1,3 +1,95 @@
+ ## return EWTF;
+ - [https://randomguy3.wordpress.com](https://randomguy3.wordpress.com)
+ - date_published: 2024-07-09T20:01:10.070757+00:00
+
+ ## Randomly Candice
+ - [http://randomlycandice.wordpress.com](http://randomlycandice.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Random Problem (solved)
+ - [https://randomproblem.wordpress.com](https://randomproblem.wordpress.com)
+ - date_published: 2024-10-27T12:28:55.673077+00:00
+
+ ## RandProcNotes
+ - [https://randprocnotes.wordpress.com](https://randprocnotes.wordpress.com)
+ - date_published: 2024-07-11T07:53:49.712398+00:00
+
+ ## Rantings from under the Wargames table
+ - [https://rantingsfromunderthewargamestable.wordpress.com](https://rantingsfromunderthewargamestable.wordpress.com)
+ - date_published: 2024-10-26T17:53:46.904625+00:00
+
+ ## The Zhao Research Group
+ - [https://ranzhaoualberta.wordpress.com](https://ranzhaoualberta.wordpress.com)
+ - date_published: 2024-10-19T04:54:34.916512+00:00
+
+ ## Raoul Pop
+ - [https://raoulpop.wordpress.com](https://raoulpop.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Rapid Oat
+ - [https://rapidoat.wordpress.com](https://rapidoat.wordpress.com)
+ - date_published: 2024-04-30T07:32:55.242595+00:00
+
+ ## Musings on Nature & Items of Interest
+ - [http://raptorgallery.wordpress.com](http://raptorgallery.wordpress.com)
+ - date_published: 2024-10-19T07:05:04.989997+00:00
+
+ ## Cooking in the Archives
+ - [https://rarecooking.wordpress.com](https://rarecooking.wordpress.com)
+ - date_published: 2024-05-07T10:20:08.892218+00:00
+
+ ## Rashid's Blog: Portal for  Inquisitive Learners
+ - [http://rashidfaridi.wordpress.com](http://rashidfaridi.wordpress.com)
+ - date_published: 2024-06-23T10:32:56.611643+00:00
+
+ ## Rashim's Memoir
+ - [https://rashimuddin.wordpress.com](https://rashimuddin.wordpress.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Rascality: Speeches to its Cultured Despisers
+ - [https://raskality.wordpress.com](https://raskality.wordpress.com)
+ - date_published: 2023-10-25T18:15:57.058312+00:00
+
+ ## Ratio Bound – A Combinatorics Blog
+ - [https://ratiobound.wordpress.com](https://ratiobound.wordpress.com)
+ - date_published: 2024-06-30T09:11:05.020448+00:00
+
+ ## rationalinsurgent
+ - [http://rationalinsurgent.wordpress.com](http://rationalinsurgent.wordpress.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Juan Carlos Sánchez Calle
+ - [https://ravened.wordpress.com](https://ravened.wordpress.com)
+ - date_published: 2024-06-17T02:49:41+00:00
+
+ ## Ravens of Alladore
+ - [https://ravensofalladoreblog.wordpress.com](https://ravensofalladoreblog.wordpress.com)
+ - date_published: 2024-07-20T07:26:02+00:00
+
+ ## Rayandmave's Blog
+ - [http://rayandmave.wordpress.com](http://rayandmave.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## EL DIABLO CRIATIVO
+ - [http://razgrizbox.wordpress.com](http://razgrizbox.wordpress.com)
+ - date_published: 2024-09-13T18:06:42.844666+00:00
+
+ ## Building confidence.
+ - [https://rbaltman.wordpress.com](https://rbaltman.wordpress.com)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## rbresearch
+ - [http://rbresearch.wordpress.com](http://rbresearch.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Code happens
+ - [https://rbtcollins.wordpress.com](https://rbtcollins.wordpress.com)
+ - date_published: 2024-05-19T02:44:35.657953+00:00
+
+ ## Science Matters
+ - [http://rclutz.wordpress.com](http://rclutz.wordpress.com)
+ - date_published: 2024-08-19T08:08:20+00:00
+
  ## Read and Hear
  - [http://readandhear.wordpress.com](http://readandhear.wordpress.com)
  - date_published: 2024-07-14T00:00:00+00:00
@@ -3918,98 +4010,4 @@
  ## They Were Out To Get Trump
  - [https://theywereouttogettrump.wordpress.com](https://theywereouttogettrump.wordpress.com)
  - date_published: 2024-07-17T05:42:37.911658+00:00
-
- ## thezoepost
- - [http://thezoepost.wordpress.com](http://thezoepost.wordpress.com)
- - date_published: 2024-07-04T15:13:55.431447+00:00
-
- ## Don't Worry About the Vase | Trying to dig out from minus a million points
- - [https://thezvi.wordpress.com](https://thezvi.wordpress.com)
- - date_published: 2023-10-25T18:17:39.628093+00:00
-
- ## Dacq'Art
- - [http://thierrydacq.wordpress.com](http://thierrydacq.wordpress.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Thing of Things
- - [https://thingofthings.wordpress.com](https://thingofthings.wordpress.com)
- - date_published: 2024-05-02T09:54:28.074454+00:00
-
- ## Private Site
- - [https://thingsbreak.wordpress.com](https://thingsbreak.wordpress.com)
- - date_published: 2024-06-30T02:32:49.689702+00:00
-
- ## Things I read
- - [https://thingsireaddotblog.wordpress.com](https://thingsireaddotblog.wordpress.com)
- - date_published: 2024-10-16T20:37:44.697526+00:00
-
- ## Things That Go Bump
- - [http://thingsthatgobumpblog.wordpress.com](http://thingsthatgobumpblog.wordpress.com)
- - date_published: 2024-10-19T11:04:28.758161+00:00
-
- ## What I Think About When I Think About Reading
- - [https://thinkaboutreading.wordpress.com](https://thinkaboutreading.wordpress.com)
- - date_published: 2024-06-15T10:19:29+00:00
-
- ## Private Site
- - [http://thinkinginriddles.wordpress.com](http://thinkinginriddles.wordpress.com)
- - date_published: 2024-07-03T22:02:50.258233+00:00
-
- ## ThinkMarkets
- - [https://thinkmarkets.wordpress.com](https://thinkmarkets.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## thinkwhere
- - [http://thinkwhere.wordpress.com](http://thinkwhere.wordpress.com)
- - date_published: 2024-07-08T12:52:08.867974+00:00
-
- ## This Builds Character
- - [https://thisbuildscharacter.wordpress.com](https://thisbuildscharacter.wordpress.com)
- - date_published: 2024-05-06T18:10:33.914234+00:00
-
- ## This Condensed Life
- - [https://thiscondensedlife.wordpress.com](https://thiscondensedlife.wordpress.com)
- - date_published: 2024-05-07T15:14:30.143646+00:00
-
- ## This Fine Place
- - [https://thisfineplace.wordpress.com](https://thisfineplace.wordpress.com)
- - date_published: 2023-11-29T17:18:49.482246+00:00
- - tags: ['personal']
-
- ## This is for you, Carrie
- - [http://thisisforyoucarrie.wordpress.com](http://thisisforyoucarrie.wordpress.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## this many kittens
- - [http://thismanykittens.wordpress.com](http://thismanykittens.wordpress.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## This Recording
- - [http://thisrecording.wordpress.com](http://thisrecording.wordpress.com)
- - date_published: 2024-10-21T05:11:13.209530+00:00
-
- ## Mary Jo Gibson
- - [https://thiswritelife.wordpress.com](https://thiswritelife.wordpress.com)
- - date_published: 2024-05-06T16:59:56.594362+00:00
- - tags: ['personal', 'history']
-
- ## Theory Matters
- - [https://thmatters.wordpress.com](https://thmatters.wordpress.com)
- - date_published: 2024-06-22T10:54:08.819364+00:00
-
- ## episodic thoughts
- - [http://thomas1111.wordpress.com](http://thomas1111.wordpress.com)
- - date_published: 2024-06-21T21:18:02+00:00
-
- ## Adventures in Signal Processing and Open Science
- - [https://thomasdotarildsendotorg.wordpress.com](https://thomasdotarildsendotorg.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Just Thomism
- - [https://thomism.wordpress.com](https://thomism.wordpress.com)
- - date_published: 2024-08-19T09:41:41.962052+00:00
-
- ## The Renaissance Mathematicus
- - [https://thonyc.wordpress.com](https://thonyc.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
 

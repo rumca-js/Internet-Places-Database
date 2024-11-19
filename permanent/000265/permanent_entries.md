@@ -1,3 +1,115 @@
+ ## The Galileo Project
+ - [http://galileo.rice.edu](http://galileo.rice.edu)
+ - date_published: 2024-06-30T08:52:26.238375+00:00
+
+ ## Home
+ - [https://garden.rice.edu](https://garden.rice.edu)
+ - date_published: 2024-06-12T17:03:45+00:00
+
+ ## General Announcements < Rice University
+ - [https://ga.rice.edu](https://ga.rice.edu)
+ - date_published: 2024-03-13T21:24:36+00:00
+
+ ## Gateway Program
+ - [https://gateway.rice.edu](https://gateway.rice.edu)
+ - date_published: 2024-05-05T20:08:25+00:00
+
+ ## Rice
+ - [http://gcurs.rice.edu](http://gcurs.rice.edu)
+ - date_published: 2024-05-19T16:42:26+00:00
+
+ ## GDEC
+ - [https://gdec.rice.edu](https://gdec.rice.edu)
+ - date_published: 2024-05-04T18:30:20+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://giftplan.rice.edu](https://giftplan.rice.edu)
+ - date_published: 2024-07-01T18:00:24.148906+00:00
+
+ ## Alumni
+ - [https://giving.rice.edu](https://giving.rice.edu)
+ - date_published: 2024-05-07T20:05:37.746113+00:00
+
+ ## Subscribe to the Glasscock School
+ - [https://glasscock-info.rice.edu](https://glasscock-info.rice.edu)
+ - date_published: 2024-06-25T11:19:56+00:00
+
+ ## Glasscock
+ - [https://glasscock.rice.edu](https://glasscock.rice.edu)
+ - date_published: 2024-05-07T20:05:13.562824+00:00
+
+ ## Top Global University and Research Leader | Rice University
+ - [https://global.rice.edu](https://global.rice.edu)
+ - date_published: 2024-05-07T20:05:18.680149+00:00
+
+ ## Master of Liberal Studies at Rice
+ - [https://gls.rice.edu](https://gls.rice.edu)
+ - date_published: 2024-06-27T23:35:39+00:00
+
+ ## Log in | Grad Admin Guide | Rice University
+ - [https://gradadmin.rice.edu](https://gradadmin.rice.edu)
+ - date_published: 2024-07-01T17:59:44.217604+00:00
+
+ ## Home
+ - [https://gradadmissions.rice.edu](https://gradadmissions.rice.edu)
+ - date_published: 2024-05-07T20:06:18.645335+00:00
+
+ ## Application Management
+ - [https://gradapply.rice.edu](https://gradapply.rice.edu)
+ - date_published: 2024-07-01T17:59:15.903204+00:00
+
+ ## Home
+ - [https://graduate.rice.edu](https://graduate.rice.edu)
+ - date_published: 2024-05-07T20:05:17.391901+00:00
+
+ ## GSA
+ - [http://gsa.rice.edu](http://gsa.rice.edu)
+ - date_published: 2024-05-16T12:39:09+00:00
+
+ ## Home
+ - [https://health.rice.edu](https://health.rice.edu)
+ - date_published: 2024-07-01T17:59:59.131880+00:00
+
+ ## Login
+ - [https://helpdesk.rice.edu](https://helpdesk.rice.edu)
+ - date_published: 2024-05-07T20:06:11.527443+00:00
+
+ ## Login
+ - [https://help.rice.edu](https://help.rice.edu)
+ - date_published: 2024-05-07T20:06:08.094857+00:00
+
+ ## Houston Education Research Consortium
+ - [https://herc.rice.edu](https://herc.rice.edu)
+ - date_published: 2024-06-19T00:39:11+00:00
+
+ ## Rice University HGSA
+ - [http://hgsa.rice.edu](http://hgsa.rice.edu)
+ - date_published: 2024-07-01T18:00:46+00:00
+
+ ## History
+ - [https://history.rice.edu](https://history.rice.edu)
+ - date_published: 2024-05-28T22:32:00+00:00
+
+ ## Housing
+ - [https://housing.rice.edu](https://housing.rice.edu)
+ - date_published: 2024-06-28T19:32:01+00:00
+
+ ## HRC Home
+ - [https://hrc.rice.edu](https://hrc.rice.edu)
+ - date_published: 2024-05-21T03:24:34+00:00
+
+ ## School of Humanities
+ - [https://humanities.rice.edu](https://humanities.rice.edu)
+ - date_published: 2024-05-07T20:05:26.877289+00:00
+
+ ## Rice Identity Provider
+ - [https://imagineone.rice.edu](https://imagineone.rice.edu)
+ - date_published: 2024-07-01T18:09:48.792837+00:00
+
+ ## Archives of the Impossible
+ - [https://impossiblearchives.rice.edu](https://impossiblearchives.rice.edu)
+ - date_published: 2024-07-30T11:57:05+00:00
+
  ## 2024 INFORMS Optimization Society Conference
  - [https://ios2024.blogs.rice.edu](https://ios2024.blogs.rice.edu)
  - date_published: 2024-06-22T11:53:32+00:00
@@ -3892,116 +4004,4 @@
  ## Stanford HCI Group
  - [https://hci.stanford.edu](https://hci.stanford.edu)
  - date_published: 2023-10-25T18:58:28.830172+00:00
-
- ## HEADSUP
- - [https://headsup.stanford.edu](https://headsup.stanford.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage
- - [https://healthalerts.stanford.edu](https://healthalerts.stanford.edu)
- - date_published: 2024-10-11T23:15:14.686010+00:00
-
- ## Center for Health Education
- - [https://healtheducation.stanford.edu](https://healtheducation.stanford.edu)
- - date_published: 2024-04-19T01:45:47+00:00
-
- ## Stanford Health Library - Stanford Medicine
- - [https://healthlibrary.stanford.edu](https://healthlibrary.stanford.edu)
- - date_published: 2024-07-01T20:24:57+00:00
-
- ## Stanford Healthy Living
- - [https://healthyliving.stanford.edu](https://healthyliving.stanford.edu)
- - date_published: 2024-07-01T20:25:03.726002+00:00
-
- ## Paul Heymann
- - [http://heymann.stanford.edu](http://heymann.stanford.edu)
- - date_published: 2015-12-23T16:33:41+00:00
-
- ## Home - Highwire Press
- - [http://highwire.stanford.edu](http://highwire.stanford.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Helioseismic and Magnetic Imager for SDO
- - [http://hmi.stanford.edu](http://hmi.stanford.edu)
- - date_published: 2024-09-16T20:47:41.302875+00:00
-
- ## Hopkins Marine Station
- - [https://hopkinsmarinestation.stanford.edu](https://hopkinsmarinestation.stanford.edu)
- - date_published: 2024-07-01T20:22:03+00:00
-
- ## Stanford HPDS
- - [https://hpds.stanford.edu](https://hpds.stanford.edu)
- - date_published: 2023-05-30T20:38:56+00:00
-
- ## Stanford Login
- - [https://hs-bps.stanford.edu](https://hs-bps.stanford.edu)
- - date_published: 2024-07-01T20:08:36.328342+00:00
-
- ## Facilities and Capital Planning
- - [https://hs-fcp.stanford.edu](https://hs-fcp.stanford.edu)
- - date_published: 2024-05-07T20:28:05.744365+00:00
-
- ## Human Resources
- - [https://hshr.stanford.edu](https://hshr.stanford.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Home - Human Performance Alliance at Stanford University
- - [https://humanperformance.stanford.edu](https://humanperformance.stanford.edu)
- - date_published: 2024-10-27T12:06:42.477109+00:00
-
- ## Hume Center for Writing and Speaking
- - [https://hume.stanford.edu](https://hume.stanford.edu)
- - date_published: 2024-06-10T18:28:48+00:00
-
- ## Watch: Stanford's Nobel Laureates and MacArthur "Genius" Fellows tell their stories
- - [https://humsci.stanford.edu](https://humsci.stanford.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Institute for Computational & Mathematical Engineering
- - [https://icme.stanford.edu](https://icme.stanford.edu)
- - date_published: 2024-06-29T00:49:08+00:00
-
- ## Identity Guide
- - [https://identity.stanford.edu](https://identity.stanford.edu)
- - date_published: 2024-07-01T20:22:37.642595+00:00
-
- ## Stanford ILIAD
- - [https://iliad.stanford.edu](https://iliad.stanford.edu)
- - date_published: 2024-05-27T00:30:53+00:00
-
- ## Error - Stanford InfoLab Publication Server
- - [http://ilpubs.stanford.edu](http://ilpubs.stanford.edu)
- - date_published: 2024-05-07T20:28:26.665839+00:00
-
- ## DEI+ at SLAC | Diversity, Equity and Inclusion
- - [https://inclusion.slac.stanford.edu](https://inclusion.slac.stanford.edu)
- - date_published: 2024-07-06T15:21:52+00:00
-
- ## Home · SLAC Indico
- - [https://indico.slac.stanford.edu](https://indico.slac.stanford.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Stanford Center on Poverty and Inequality
- - [http://inequality.stanford.edu](http://inequality.stanford.edu)
- - date_published: 2024-07-01T19:49:35+00:00
-
- ## Stanford InfoBlog
- - [http://infoblog.stanford.edu](http://infoblog.stanford.edu)
- - date_published: 2024-04-22T08:58:59+00:00
-
- ## The Stanford University InfoLab
- - [http://infolab.stanford.edu](http://infolab.stanford.edu)
- - date_published: 2011-11-16T04:48:49+00:00
-
- ## Log in
- - [https://insidesdss.stanford.edu](https://insidesdss.stanford.edu)
- - date_published: 2024-07-01T20:22:22.007100+00:00
-
- ## Log in
- - [https://inside-studentservices.stanford.edu](https://inside-studentservices.stanford.edu)
- - date_published: 2024-07-01T19:39:13.893521+00:00
-
- ## Sign In
- - [https://intranet.slac.stanford.edu](https://intranet.slac.stanford.edu)
- - date_published: 2024-07-06T23:32:56.730482+00:00
 

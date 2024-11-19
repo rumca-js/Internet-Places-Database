@@ -1,3 +1,59 @@
+ ## Heardle 60s
+ - [https://60s.heardledecades.com](https://60s.heardledecades.com)
+ - date_published: 2024-07-02T15:05:28+00:00
+
+ ## Heardle 70s
+ - [https://70s.heardledecades.com](https://70s.heardledecades.com)
+ - date_published: 2024-05-16T05:29:41+00:00
+
+ ## Heardle 80s Number 1s
+ - [https://80s.heardledecades.com](https://80s.heardledecades.com)
+ - date_published: 2024-05-26T08:25:57+00:00
+
+ ## Heardle 90s
+ - [https://90s.heardledecades.com](https://90s.heardledecades.com)
+ - date_published: 2024-06-23T15:38:16+00:00
+
+ ## Heardle Country
+ - [https://country.heardledecades.com](https://country.heardledecades.com)
+ - date_published: 2024-05-14T19:28:44+00:00
+
+ ## Heardle Covers
+ - [https://covers.heardledecades.com](https://covers.heardledecades.com)
+ - date_published: 2024-05-17T10:33:16+00:00
+
+ ## Heardle Disco
+ - [https://disco.heardledecades.com](https://disco.heardledecades.com)
+ - date_published: 2024-05-04T05:18:25+00:00
+
+ ## Heardle Eurovision
+ - [https://eurovision.heardledecades.com](https://eurovision.heardledecades.com)
+ - date_published: 2024-05-13T15:33:28+00:00
+
+ ## Heardle GRLPWR!
+ - [https://female.heardledecades.com](https://female.heardledecades.com)
+ - date_published: 2024-06-10T06:05:58+00:00
+
+ ## Heardle Decades - The Home of Heardle - Can you name that tune?
+ - [https://heardledecades.com](https://heardledecades.com)
+ - date_published: 2024-05-08T07:01:30.427708+00:00
+
+ ## Heardle Greatest Hits
+ - [https://hits.heardledecades.com](https://hits.heardledecades.com)
+ - date_published: 2024-02-22T12:11:57+00:00
+
+ ## Heardle Love Songs
+ - [https://love.heardledecades.com](https://love.heardledecades.com)
+ - date_published: 2024-03-21T21:58:47+00:00
+
+ ## Heardle - It's Lyrical AF
+ - [https://lyrical.heardledecades.com](https://lyrical.heardledecades.com)
+ - date_published: 2024-06-30T08:22:19+00:00
+
+ ## Heardle Metal
+ - [https://metal.heardledecades.com](https://metal.heardledecades.com)
+ - date_published: 2024-06-30T07:32:43+00:00
+
  ## Heardle Motown
  - [https://motown.heardledecades.com](https://motown.heardledecades.com)
  - date_published: 2024-02-22T12:12:43+00:00
@@ -3978,61 +4034,4 @@
  ## Heybi
  - [http://heybi.com](http://heybi.com)
  - date_published: 2024-05-09T15:36:34+00:00
-
- ## Pusheen Shop
- - [http://www.heychickadee.com](http://www.heychickadee.com)
- - date_published: 2024-07-14T10:46:18.936011+00:00
-
- ## heyCLI - your copilot for linux commands
- - [https://www.heycli.com](https://www.heycli.com)
- - date_published: 2024-01-20T11:01:16+00:00
-
- ## Heyco®
- - [https://www.heyco.com](https://www.heyco.com)
- - date_published: 2024-08-18T22:01:18.052163+00:00
-
- ## Temp Home – Hey Cupcake!
- - [https://www.heycupcake.com](https://www.heycupcake.com)
- - date_published: 2024-07-02T10:00:21.960249+00:00
-
- ## HeyDesigner
- - [https://heydesigner.com](https://heydesigner.com)
- - date_published: 2024-04-29T07:17:34.724297+00:00
-
- ## Dola - AI Calendar Assistant
- - [https://heydola.com](https://heydola.com)
- - date_published: 2024-07-10T01:49:01.320036+00:00
-
- ## You have arrived at a website named heydonworks.com: HeydonWorks
- - [https://heydonworks.com](https://heydonworks.com)
- - date_published: 2024-06-21T22:18:25.764168+00:00
-
- ## Stop Distractions on Your Mac — Focus App
- - [https://heyfocus.com](https://heyfocus.com)
- - date_published: 2023-09-29T00:00:00+00:00
-
- ## Hey from Josh
- - [https://heyfromjosh.com](https://heyfromjosh.com)
- - date_published: 2024-08-18T10:02:07.072594+00:00
-
- ## Double T · git worktrees: how to use them and why you should
- - [https://blog.heygarrett.com](https://blog.heygarrett.com)
- - date_published: 2023-11-18T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://dentalstore.heygears.com](https://dentalstore.heygears.com)
- - date_published: 2024-05-08T12:21:47.304679+00:00
-
- ## Cierpliwości...
- - [https://store.heygears.com](https://store.heygears.com)
- - date_published: 2024-03-01T18:19:19.936399+00:00
-
- ## HeyGears - 3D Printer, 3D Printing Design and Material
- - [https://www.heygears.com](https://www.heygears.com)
- - date_published: 2024-03-01T17:19:30+00:00
- - tags: ['3d printer']
-
- ## HeyGen - AI Spokesperson Video Creator
- - [https://app.heygen.com](https://app.heygen.com)
- - date_published: 2024-06-19T06:59:14+00:00
 

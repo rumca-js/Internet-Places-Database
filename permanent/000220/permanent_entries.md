@@ -1,3 +1,91 @@
+ ## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
+ - [https://victoriametrics.com](https://victoriametrics.com)
+ - date_published: 2023-10-25T17:56:20.471667+00:00
+
+ ## Victoria Miro
+ - [https://www.victoria-miro.com](https://www.victoria-miro.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
+ - [https://victorianhackernews.com](https://victorianhackernews.com)
+ - date_published: 2023-10-25T17:56:21.528971+00:00
+
+ ## Best of Victoria 2023
+ - [https://bestof.victorianow.com](https://bestof.victorianow.com)
+ - date_published: 2024-06-29T11:45:03.685578+00:00
+
+ ## VictoriaNow | Victoria news and the stuff that matters
+ - [https://victorianow.com](https://victorianow.com)
+ - date_published: 2023-11-16T08:28:10.924553+00:00
+
+ ## Best of Victoria
+ - [https://winners.victorianow.com](https://winners.victorianow.com)
+ - date_published: 2024-05-07T10:43:33.433627+00:00
+
+ ## VSNow | Get in on the Secret
+ - [https://vsnow.victoriassecret.com](https://vsnow.victoriassecret.com)
+ - date_published: 2024-10-27T19:43:39.320211+00:00
+
+ ## Victoria's Secret: Przeglądaj bieliznę, biustonosze i stroje kąpielowe we wszystkich rozmiarach
+ - [https://www.victoriassecret.com](https://www.victoriassecret.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Metal Stairs, Modern Staircase, Metal Stair Railing, Victoria, BC
+ - [https://www.victoriastairs.com](https://www.victoriastairs.com)
+ - date_published: 2024-07-04T08:55:30.914161+00:00
+
+ ## Victoria Stevens ACR
+ - [https://victoriastevensconservation.com](https://victoriastevensconservation.com)
+ - date_published: 2024-06-17T18:19:02.599766+00:00
+
+ ## Victoria Tran - Community Management & Marketing
+ - [https://victoriatran.com](https://victoriatran.com)
+ - date_published: 2024-05-06T23:00:18.492703+00:00
+
+ ## Victorinox Poland | Victorinox Homepage
+ - [https://assets.victorinox.com](https://assets.victorinox.com)
+ - date_published: 2024-09-15T00:03:08.309818+00:00
+
+ ## ImageEngine - ImageCDN
+ - [https://imageengine.victorinox.com](https://imageengine.victorinox.com)
+ - date_published: 2024-09-15T00:03:11.205005+00:00
+
+ ## Victorinox Media Portal
+ - [https://media.victorinox.com](https://media.victorinox.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Victorinox Poland | Victorinox Homepage
+ - [https://victorinox.com](https://victorinox.com)
+ - date_published: 2024-06-14T15:28:13.967516+00:00
+
+ ## SEO Agency: Transform Your Online Presence With Victorious
+ - [https://victoriousseo.com](https://victoriousseo.com)
+ - date_published: 2024-10-30T18:49:45.922887+00:00
+
+ ## Victor Juhasz Illustration – Award winning illustrator, caricaturist, satirist, visual journalist and war artist.
+ - [https://victorjuhasz.com](https://victorjuhasz.com)
+ - date_published: 2024-07-12T07:38:10.622539+00:00
+
+ ## Victor Lodato: Author of HONEY, EDGAR AND LUCY, and MATHILDA SAVITCH
+ - [https://victorlodato.com](https://victorlodato.com)
+ - date_published: 2024-02-01T18:52:19+00:00
+
+ ## Splunk On-Call Software Knowledge Base | Support Documentation, Guides and Tutorials
+ - [https://help.victorops.com](https://help.victorops.com)
+ - date_published: 2024-07-25T18:16:28.268740+00:00
+
+ ## Splunk On-Call
+ - [https://portal.victorops.com](https://portal.victorops.com)
+ - date_published: 2024-04-29T05:46:14.976515+00:00
+
+ ## Victory Belles - Victory Belles Game
+ - [http://www.victorybellesgame.com](http://www.victorybellesgame.com)
+ - date_published: 2021-01-01T00:00:00+00:00
+
+ ## Victory Boogie Woogie .com
+ - [https://victoryboogiewoogie.com](https://victoryboogiewoogie.com)
+ - date_published: 2022-12-06T20:09:30+00:00
+
  ## https://www.victoryofmesa.com
  - [https://victoryofmesa.com](https://victoryofmesa.com)
  - date_published: 2024-02-08T16:27:24.117189+00:00
@@ -3670,6 +3758,10 @@
  - [https://vitaldollar.com](https://vitaldollar.com)
  - date_published: 2024-06-03T19:53:26+00:00
 
+ ## Vitalii Honchar
+ - [https://vitaliihonchar.com](https://vitaliihonchar.com)
+ - date_published: 2024-11-18T02:39:40.834432+00:00
+
  ## Canon Medical Informatics - Home
  - [https://vitalimages.com](https://vitalimages.com)
  - date_published: 2024-06-23T14:18:27.958531+00:00
@@ -3938,98 +4030,4 @@
  ## VIVE European Union | Discover Virtual Reality Beyond Imagination
  - [https://myshop-us.vive.com](https://myshop-us.vive.com)
  - date_published: 2024-06-20T22:00:03.144524+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://myshop.vive.com](https://myshop.vive.com)
- - date_published: 2024-06-20T21:59:42.089636+00:00
-
- ## VIVE Sync | THE FUTURE OF MEETINGS
- - [https://sync.vive.com](https://sync.vive.com)
- - date_published: 2024-06-20T21:59:57.934420+00:00
-
- ## VIVE European Union | Discover Virtual Reality Beyond Imagination
- - [https://vive.com](https://vive.com)
- - date_published: 2024-06-20T20:51:28+00:00
- - tags: ['virtual reality']
-
- ## HTC VIVE | VIVE X
- - [https://vivex.vive.com](https://vivex.vive.com)
- - date_published: 2024-06-20T22:00:05.290920+00:00
-
- ## Home VIVE™ | VIVE Arts
- - [https://www.vivearts.com](https://www.vivearts.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Camino de Santiago - Rutas, Etapas y Consejos - Vivecamino
- - [https://vivecamino.com](https://vivecamino.com)
- - date_published: 2024-06-15T19:05:27.154240+00:00
-
- ## Vivek Haldar
- - [https://blog.vivekhaldar.com](https://blog.vivekhaldar.com)
- - date_published: 2023-10-25T17:57:53.859667+00:00
-
- ## Vivek Jayaram - Homepage
- - [https://www.vivekjayaram.com](https://www.vivekjayaram.com)
- - date_published: 2020-10-28T01:54:06+00:00
-
- ## Vivek Malek | Missouri State Treasurer | Missouri, USA
- - [https://www.vivekmalek.com](https://www.vivekmalek.com)
- - date_published: 2024-10-30T04:51:53.709213+00:00
-
- ## Vivek Panyam
- - [https://blog.vivekpanyam.com](https://blog.vivekpanyam.com)
- - date_published: 2023-12-29T22:49:51.039108+00:00
-
- ## Words of Wisdom
- - [https://vivekwisdom.com](https://vivekwisdom.com)
- - date_published: 2024-01-09T21:37:26.210572+00:00
-
- ## Vive La Mode
- - [https://vive-lamode.com](https://vive-lamode.com)
- - date_published: 2024-07-10T02:49:11.596072+00:00
-
- ## Boutique Hotel
- - [https://vivendamiranda.com](https://vivendamiranda.com)
- - date_published: 2024-06-25T16:23:58.262800+00:00
-
- ## Vivendi - Creation unlimited
- - [https://www.vivendi.com](https://www.vivendi.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## vivenu | The New Era of Event Ticketing
- - [https://vivenu.com](https://vivenu.com)
- - date_published: 2024-07-01T09:55:53.912483+00:00
-
- ## VIVEPORT | VR Games, Apps, & Videos.
- - [https://viveport.com](https://viveport.com)
- - date_published: 2024-06-20T20:48:26+00:00
- - tags: ['virtual reality']
-
- ## Vivere Residential | Amenity-rich communities of professionally managed single-family homes for rent
- - [https://vivereresidential.com](https://vivereresidential.com)
- - date_published: 2024-06-14T16:26:09.999820+00:00
-
- ## World - Explore Featured 3D Virtual Spaces in the Metaverse | VIVERSE
- - [https://world.viverse.com](https://world.viverse.com)
- - date_published: 2024-06-20T22:00:11.260010+00:00
-
- ## VIVERSE - The Open and Secure Metaverse from HTC VIVE
- - [https://www.viverse.com](https://www.viverse.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## VIVESCIA | Groupe coopératif agricole et agroalimentaire français spécialiste des céréales
- - [https://www.vivescia.com](https://www.vivescia.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Vivian Liu
- - [https://vivian-liu.com](https://vivian-liu.com)
- - date_published: 2024-05-27T21:24:25+00:00
-
- ## Documentation - VividCortex Docs
- - [https://docs.vividcortex.com](https://docs.vividcortex.com)
- - date_published: 2024-09-28T23:51:36.189367+00:00
-
- ## Vivid Foundry official home | Vivid Foundry
- - [https://vividfoundry.com](https://vividfoundry.com)
- - date_published: 2024-01-21T00:00:00+00:00
 

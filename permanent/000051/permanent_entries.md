@@ -1,3 +1,16 @@
+ ## Baron of Dice
+ - [https://baronofdice.com](https://baronofdice.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+ - tags: ['shop']
+
+ ## Barony Official Game Website
+ - [https://baronygame.com](https://baronygame.com)
+ - date_published: 2024-05-09T09:07:30.951205+00:00
+
+ ## Baroque Software
+ - [https://baroquesoftware.com](https://baroquesoftware.com)
+ - date_published: 2018-01-04T12:27:28+00:00
+
  ## Accueil - Le Barouillet à Pomport en Périgord
  - [http://barouillet.com](http://barouillet.com)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4007,16 +4020,4 @@
  ## Behance
  - [https://behance.com](https://behance.com)
  - date_published: 2024-03-25T00:00:00+00:00
-
- ## Comprehensive Guide to Psychiatric Drugs & Diagnoses | BehaveNet
- - [http://www.behavenet.com](http://www.behavenet.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## BehavioralEconomics.com | The BE Hub
- - [https://www.behavioraleconomics.com](https://www.behavioraleconomics.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Behaviorbabe: All Things ABA
- - [https://www.behaviorbabe.com](https://www.behaviorbabe.com)
- - date_published: 2024-07-01T00:00:00+00:00
 

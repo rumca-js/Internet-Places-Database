@@ -1,3 +1,15 @@
+ ## Life Science Marketing | Bitesize Bio Content Marketing
+ - [https://lifesciencemarketing.bitesizebio.com](https://lifesciencemarketing.bitesizebio.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Listen In - Bitesize Bio Webinar Audios
+ - [https://listen-in.bitesizebio.com](https://listen-in.bitesizebio.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Mentors at Your Benchside
+ - [https://mentors.bitesizebio.com](https://mentors.bitesizebio.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Log In - Bitesize Bio Scientist Resources
  - [https://resources.bitesizebio.com](https://resources.bitesizebio.com)
  - date_published: 2023-10-10T14:39:55+00:00
@@ -1701,6 +1713,10 @@
  ## Black Friday 2024: The Best Black Friday Ads & Deals
  - [https://i.blackfriday.com](https://i.blackfriday.com)
  - date_published: 2024-10-19T11:31:55.723161+00:00
+
+ ## Find the best black friday deals on the latest tech and software for developers.
+ - [https://blackfridaydevs.com](https://blackfridaydevs.com)
+ - date_published: 2024-11-18T15:51:32.941424+00:00
 
  ## Black Gate – Adventures in Fantasy Literature
  - [https://www.blackgate.com](https://www.blackgate.com)
@@ -4038,20 +4054,4 @@
  - [http://blogs.com](http://blogs.com)
  - date_published: 2024-06-27T07:30:10+00:00
  - tags: ['blogs']
-
- ## Stay
- - [http://civpro.blogs.com](http://civpro.blogs.com)
- - date_published: 2024-07-13T10:40:02.302544+00:00
-
- ## Classicist
- - [https://classicist.blogs.com](https://classicist.blogs.com)
- - date_published: 2024-05-04T09:11:17.693869+00:00
-
- ## Colorado Conservative
- - [http://coloradoconservative.blogs.com](http://coloradoconservative.blogs.com)
- - date_published: 2024-07-03T21:54:28.846044+00:00
-
- ## Conservative Home
- - [https://conservativehome.blogs.com](https://conservativehome.blogs.com)
- - date_published: 2024-06-18T11:12:20.498634+00:00
 

@@ -1,3 +1,19 @@
+ ## Stuart's Blog
+ - [http://mrstu.blogspot.com](http://mrstu.blogspot.com)
+ - date_published: 2024-03-13T08:37:52+00:00
+
+ ## LayoutVision
+ - [http://mrsvc.blogspot.com](http://mrsvc.blogspot.com)
+ - date_published: 2004-02-27T00:00:00+00:00
+
+ ## Mr Trail Safety Speaks!
+ - [http://mrtrailsafety.blogspot.com](http://mrtrailsafety.blogspot.com)
+ - date_published: 2024-10-25T06:29:44+00:00
+
+ ## Mr. Vacuum Tube
+ - [http://mrvacuumtube.blogspot.com](http://mrvacuumtube.blogspot.com)
+ - date_published: 2024-04-19T22:47:41+00:00
+
  ## Mr. Verb
  - [https://mr-verb.blogspot.com](https://mr-verb.blogspot.com)
  - date_published: 2024-04-21T12:15:32+00:00
@@ -3996,20 +4012,4 @@
  ## plastic general
  - [http://plasticgeneral.blogspot.com](http://plasticgeneral.blogspot.com)
  - date_published: 2024-06-14T01:34:16+00:00
-
- ## Plastic Killers
- - [http://plastickillers.blogspot.com](http://plastickillers.blogspot.com)
- - date_published: 2024-08-30T19:38:52+00:00
-
- ## Plastic Krak
- - [http://plastickrak.blogspot.com](http://plastickrak.blogspot.com)
- - date_published: 2024-10-19T06:33:19+00:00
-
- ## Plastic Legions
- - [http://plasticlegions.blogspot.com](http://plasticlegions.blogspot.com)
- - date_published: 2024-07-11T18:33:27+00:00
-
- ## Plastic Malpractice
- - [https://plasticmalpractice.blogspot.com](https://plasticmalpractice.blogspot.com)
- - date_published: 2024-10-31T10:17:21+00:00
 

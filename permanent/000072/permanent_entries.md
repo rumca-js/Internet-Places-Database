@@ -1,3 +1,27 @@
+ ## MúsicoDIY
+ - [https://musicodiy.cdbaby.com](https://musicodiy.cdbaby.com)
+ - date_published: 2024-10-04T07:01:40.205286+00:00
+
+ ## DIY Musician Podcast - Music Promotion and Marketing tips for Indie Musicians
+ - [https://podcast.cdbaby.com](https://podcast.cdbaby.com)
+ - date_published: 2024-06-16T11:59:02.449416+00:00
+
+ ## Your Release Plan Generator
+ - [https://release.cdbaby.com](https://release.cdbaby.com)
+ - date_published: 2024-06-16T11:58:57.656758+00:00
+
+ ## Music Distribution with No Recurring Fees | CD Baby
+ - [https://retail.cdbaby.com](https://retail.cdbaby.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## SomosMúsica
+ - [https://somosmusica.cdbaby.com](https://somosmusica.cdbaby.com)
+ - date_published: 2024-10-04T07:01:37.489696+00:00
+
+ ## CD Baby Download Portal - Log In
+ - [https://store.cdbaby.com](https://store.cdbaby.com)
+ - date_published: 2024-05-10T05:13:50.067628+00:00
+
  ## CD Baby Help Center
  - [https://support.cdbaby.com](https://support.cdbaby.com)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -4019,28 +4043,4 @@ Challonge
  ## Chatfuel dashboard
  - [https://dashboard.chatfuel.com](https://dashboard.chatfuel.com)
  - date_published: 2024-09-21T22:58:27.914054+00:00
-
- ## Chatfuel Help Center
- - [https://docs.chatfuel.com](https://docs.chatfuel.com)
- - date_published: 2024-10-30T18:25:00.267162+00:00
-
- ## Chatfuel Feedback
- - [https://feedback.chatfuel.com](https://feedback.chatfuel.com)
- - date_published: 2024-10-30T18:25:01.782599+00:00
-
- ## Chatfuel Status
- - [https://status.chatfuel.com](https://status.chatfuel.com)
- - date_published: 2024-10-30T18:25:04.510256+00:00
-
- ## Signals
- - [https://app.chatfunnels.com](https://app.chatfunnels.com)
- - date_published: 2024-06-11T21:54:14+00:00
-
- ## Signals
- - [https://beta.chatfunnels.com](https://beta.chatfunnels.com)
- - date_published: 2024-10-11T22:35:27+00:00
-
- ## Signals: Turn Pageviews into Customers
- - [https://chatfunnels.com](https://chatfunnels.com)
- - date_published: 2024-08-14T00:00:00+00:00
 

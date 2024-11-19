@@ -1,3 +1,115 @@
+ ## Oracle PeopleSoft Sign-in
+ - [https://fip.louisville.edu](https://fip.louisville.edu)
+ - date_published: 2024-06-27T12:00:37.460152+00:00
+
+ ## Home — Graduate School
+ - [https://graduate.louisville.edu](https://graduate.louisville.edu)
+ - date_published: 2024-06-27T12:01:49.916448+00:00
+
+ ## University of Louisville | Here and Beyond – The University of Louisville is a public university in Louisville, Kentucky. It is a member of the Kentucky state university system.
+ - [https://hereandbeyond.louisville.edu](https://hereandbeyond.louisville.edu)
+ - date_published: 2024-06-27T12:00:27.377300+00:00
+
+ ## Identity Self-Service Login
+ - [https://identity.louisville.edu](https://identity.louisville.edu)
+ - date_published: 2024-06-27T12:01:55.879184+00:00
+
+ ## Sign in to your account
+ - [https://iris.louisville.edu](https://iris.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## ThinkIR: The University of Louisville's Institutional Repository
+ - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
+ - date_published: 2024-05-19T02:41:08.119153+00:00
+
+ ## UofL Libraries: University of Louisville Libraries: Home
+ - [https://library.louisville.edu](https://library.louisville.edu)
+ - date_published: 2024-06-22T07:13:49.040806+00:00
+
+ ## University of Louisville
+ - [https://louisville.edu](https://louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## Sign in to your account
+ - [https://otms.louisville.edu](https://otms.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Search UofL
+ - [https://search.louisville.edu](https://search.louisville.edu)
+ - date_published: 2024-01-25T00:58:45+00:00
+
+ ## ULink Portal
+ - [https://ulink.louisville.edu](https://ulink.louisville.edu)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## College of Law | Loyola University New Orleans
+ - [http://law.loyno.edu](http://law.loyno.edu)
+ - date_published: 2024-06-17T10:26:49+00:00
+
+ ## My Apps
+ - [https://sso.loyno.edu](https://sso.loyno.edu)
+ - date_published: 2024-10-18T22:34:12.007731+00:00
+
+ ## Welcome to Loyola University | Loyola University New Orleans
+ - [https://www.loyno.edu](https://www.loyno.edu)
+ - date_published: 2024-10-14T18:07:51+00:00
+
+ ## Events Calendar
+ - [https://calendar.lr.edu](https://calendar.lr.edu)
+ - date_published: 2024-08-07T16:53:12.606705+00:00
+
+ ## Log In to Canvas
+ - [https://canvas.lr.edu](https://canvas.lr.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home | Lenoir-Rhyne University
+ - [https://lr.edu](https://lr.edu)
+ - date_published: 2024-04-28T03:37:48.331975+00:00
+
+ ## Sign in to your account
+ - [https://portal.lr.edu](https://portal.lr.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Homepage | Lake Region State College
+ - [https://www.lrsc.edu](https://www.lrsc.edu)
+ - date_published: 2024-07-01T15:48:42+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.lsu.edu](https://admissions.lsu.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## LSU E. J. Ourso College of Business
+ - [https://business.lsu.edu](https://business.lsu.edu)
+ - date_published: 2024-07-01T14:41:13.321824+00:00
+
+ ## Events Calendar - Louisiana State University
+ - [https://calendar.lsu.edu](https://calendar.lsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Louisiana State University - Acalog ACMS™
+ - [https://catalog.lsu.edu](https://catalog.lsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
+ - [https://cct.lsu.edu](https://cct.lsu.edu)
+ - date_published: 2024-05-08T09:32:45.803687+00:00
+
+ ## COLLEGE OF ART & DESIGN
+ - [https://design.lsu.edu](https://design.lsu.edu)
+ - date_published: 2024-07-01T14:40:51.559571+00:00
+
+ ## LSU Giving Day
+ - [https://givingday.lsu.edu](https://givingday.lsu.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## GROK Knowledge Base
+ - [http://grok.lsu.edu](http://grok.lsu.edu)
+ - date_published: 2024-07-01T14:42:10.174092+00:00
+
  ## Highland Road Park Observatory
  - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
  - date_published: 2024-08-11T23:29:53.016186+00:00
@@ -3893,117 +4005,4 @@
  ## Dare County Center | N.C. Cooperative Extension
  - [https://dare.ces.ncsu.edu](https://dare.ces.ncsu.edu)
  - date_published: 2024-10-15T05:25:00.405302+00:00
-
- ## NC State Academic and Student Affairs
- - [https://dasa.ncsu.edu](https://dasa.ncsu.edu)
- - date_published: 2024-08-05T23:58:50.633801+00:00
-
- ## Davidson County Center | N.C. Cooperative Extension
- - [https://davidson.ces.ncsu.edu](https://davidson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:46.382340+00:00
-
- ## Davie County Center | N.C. Cooperative Extension
- - [https://davie.ces.ncsu.edu](https://davie.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:02.468280+00:00
-
- ## NC State Day of Giving
- - [https://dayofgiving.ncsu.edu](https://dayofgiving.ncsu.edu)
- - date_published: 2024-10-15T05:33:20.176819+00:00
-
- ## Campus Directory | NC State University
- - [https://directory.ncsu.edu](https://directory.ncsu.edu)
- - date_published: 2024-08-07T16:55:01.510932+00:00
-
- ## See Yourself at NC State | Undergraduate Admissions
- - [https://discover.admissions.ncsu.edu](https://discover.admissions.ncsu.edu)
- - date_published: 2024-03-14T03:13:23+00:00
-
- ## Office for Institutional Equity and Diversity
- - [https://diversity.ncsu.edu](https://diversity.ncsu.edu)
- - date_published: 2024-07-01T12:24:02+00:00
-
- ## NCSU Libraries' Digital Collections
- - [https://d.lib.ncsu.edu](https://d.lib.ncsu.edu)
- - date_published: 2024-07-18T04:42:14.525723+00:00
-
- ## Disability Resources Office
- - [https://dro.dasa.ncsu.edu](https://dro.dasa.ncsu.edu)
- - date_published: 2024-07-01T15:56:02.465718+00:00
-
- ## Duplin County Center | N.C. Cooperative Extension
- - [https://duplin.ces.ncsu.edu](https://duplin.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:07.162622+00:00
-
- ## Durham County Center | N.C. Cooperative Extension
- - [https://durham.ces.ncsu.edu](https://durham.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:35.002752+00:00
-
- ## EBCI Center | N.C. Cooperative Extension
- - [https://ebci.ces.ncsu.edu](https://ebci.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:35.657439+00:00
-
- ## Edgecombe County Center | N.C. Cooperative Extension
- - [https://edgecombe.ces.ncsu.edu](https://edgecombe.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:17.855545+00:00
-
- ## EFNEP - Expanded Food and Nutrition Education Program | NC State Extension
- - [https://efnep.ces.ncsu.edu](https://efnep.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:48.284156+00:00
-
- ## Innovation and Entrepreneurship
- - [http://ei.ncsu.edu](http://ei.ncsu.edu)
- - date_published: 2024-07-09T02:11:57+00:00
-
- ## Enrollment Management and Services
- - [https://emas.ncsu.edu](https://emas.ncsu.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Emergency Information
- - [http://emergency.ncsu.edu](http://emergency.ncsu.edu)
- - date_published: 2024-08-07T16:54:56.538101+00:00
-
- ## Extension Master Gardener℠
- Volunteers | NC State Extension
- - [https://emgv.ces.ncsu.edu](https://emgv.ces.ncsu.edu)
- - date_published: 2024-06-16T22:36:48.371802+00:00
-
- ## Entomology – Insect Biology and Management | NC State Extension
- - [https://entomology.ces.ncsu.edu](https://entomology.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:15.140468+00:00
-
- ## Innovation and Entrepreneurship
- - [https://entrepreneurship.ncsu.edu](https://entrepreneurship.ncsu.edu)
- - date_published: 2024-08-07T16:14:57+00:00
-
- ## Equine Husbandry | NC State Extension
- - [https://equinehusbandry.ces.ncsu.edu](https://equinehusbandry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:37.916618+00:00
-
- ## Executive Farm Management | NC State Extension
- - [https://execfarmmgmt.ces.ncsu.edu](https://execfarmmgmt.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:22.814978+00:00
-
- ## NC State Experts
- - [https://experts.ncsu.edu](https://experts.ncsu.edu)
- - date_published: 2024-05-07T19:40:07.224150+00:00
-
- ## Extension Gardener Travel Study Adventures | NC State Extension
- - [https://exploretheworld.ces.ncsu.edu](https://exploretheworld.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:25.036300+00:00
-
- ## Extension Gardener | NC State Extension
- - [https://extensiongardener.ces.ncsu.edu](https://extensiongardener.ces.ncsu.edu)
- - date_published: 2024-06-16T22:36:26.749897+00:00
-
- ## NC State Extension
- - [http://extension.ncsu.edu](http://extension.ncsu.edu)
- - date_published: 2024-10-15T05:41:38.956398+00:00
-
- ## Chancellor's Faculty Excellence Program | NC State University
- - [https://facultyclusters.ncsu.edu](https://facultyclusters.ncsu.edu)
- - date_published: 2024-07-01T15:55:29.166396+00:00
-
- ## Farm Law and Tax for Producers and Landowners | NC State Extension
- - [https://farmlaw.ces.ncsu.edu](https://farmlaw.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:20.027272+00:00
 

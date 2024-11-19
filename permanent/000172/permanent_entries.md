@@ -1,3 +1,87 @@
+ ## Python for the Lab
+ - [https://www.pythonforthelab.com](https://www.pythonforthelab.com)
+ - date_published: 2021-03-27T00:00:00+00:00
+
+ ## Python Merchandise for Developers with Style
+ - [https://www.pythongear.com](https://www.pythongear.com)
+ - date_published: 2024-06-26T22:40:25.199362+00:00
+
+ ## Python Graph Gallery | The Python Graph Gallery
+ - [https://python-graph-gallery.com](https://python-graph-gallery.com)
+ - date_published: 2024-04-16T12:37:20.236899+00:00
+ - tags: ['programming', 'code snippets', 'python']
+
+ ## Your Account
+ - [https://account.pythonguis.com](https://account.pythonguis.com)
+ - date_published: 2024-04-29T09:59:56.822539+00:00
+
+ ## Python GUIs Forum
+ - [https://forum.pythonguis.com](https://forum.pythonguis.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Python GUIs — Create GUI applications with Python and Qt
+ - [https://pythonguis.com](https://pythonguis.com)
+ - date_published: 2023-01-18T15:37:13+00:00
+ - tags: ['pyqt', 'python']
+
+ ## Just a little Python
+ - [http://blog.pythonisito.com](http://blog.pythonisito.com)
+ - date_published: 2024-03-23T18:00:41+00:00
+
+ ## Python is Love
+ - [https://pythonislove.com](https://pythonislove.com)
+ - date_published: 2023-10-25T16:42:58.111053+00:00
+
+ ## Cierpliwości...
+ - [https://pythonjobshq.com](https://pythonjobshq.com)
+ - date_published: 2024-04-30T12:10:56.700613+00:00
+
+ ## Bringing quality authorship to the community
+ - [https://pythonkitchen.com](https://pythonkitchen.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Python Core Mentorship
+ - [http://pythonmentors.com](http://pythonmentors.com)
+ - date_published: 2024-07-14T02:04:23.150864+00:00
+
+ ## Python Morsels: write better Python code
+ - [https://pythonmorsels.com](https://pythonmorsels.com)
+ - date_published: 2024-03-20T04:10:12.122914+00:00
+ - tags: ['programming', 'python']
+
+ ## The Python Papers | Mike Driscoll | Substack
+ - [https://www.pythonpapers.com](https://www.pythonpapers.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Python Podcast.__init__
+ - [https://www.pythonpodcast.com](https://www.pythonpodcast.com)
+ - date_published: 2023-01-18T13:25:13+00:00
+
+ ## Home
+ - [https://www.pythonpool.com](https://www.pythonpool.com)
+ - date_published: 2024-06-24T18:04:00+00:00
+
+ ## The Python Show | Mike Driscoll | Substack
+ - [https://www.pythonshow.com](https://www.pythonshow.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Python Simplified - Learn Bit by Bit
+ - [https://pythonsimplified.com](https://pythonsimplified.com)
+ - date_published: 2017-08-09T10:09:38+00:00
+
+ ## Write faster Python code, and ship your code faster
+ - [https://pythonspeed.com](https://pythonspeed.com)
+ - date_published: 2023-10-25T16:42:59.186784+00:00
+ - tags: ['python']
+
+ ## Python Tutorials
+ - [https://pythonspot.com](https://pythonspot.com)
+ - date_published: 2016-02-14T00:00:00+00:00
+
+ ## Test and Code
+ - [https://courses.pythontest.com](https://courses.pythontest.com)
+ - date_published: 2024-04-29T09:16:01.444031+00:00
+
  ## Python Test
  - [https://podcast.pythontest.com](https://podcast.pythontest.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -3961,84 +4045,4 @@
  ## qMod by QuoteMedia.com
  - [https://qmod.quotemedia.com](https://qmod.quotemedia.com)
  - date_published: 2024-05-12T05:54:30.448680+00:00
-
- ## Dynamic Stock Market Data and Financial Research Solutions - QuoteMedia Market Data Solutions
- - [http://www.quotemedia.com](http://www.quotemedia.com)
- - date_published: 2024-06-28T12:41:00.663857+00:00
-
- ## React App
- - [https://cdn-v6.quoteninja.com](https://cdn-v6.quoteninja.com)
- - date_published: 2022-12-06T23:26:17+00:00
-
- ## Quotes of Famous People: The Biggest Collection of Quotes, Thoughts, and Aphorisms
- - [https://quotepark.com](https://quotepark.com)
- - date_published: 2024-05-08T05:17:04.606308+00:00
-
- ## Quoterules | Smart Quote Generator Tool for Fast, Accurate and Easy Project Quotation
- - [https://www.quoterules.com](https://www.quoterules.com)
- - date_published: 2024-06-19T20:38:31.283679+00:00
-
- ## Quotes and Accents
- - [http://quotesandaccents.com](http://quotesandaccents.com)
- - date_published: 2013-03-05T00:00:00+00:00
-
- ## Asiga QuoteServer
- - [https://www.quoteserver.com](https://www.quoteserver.com)
- - date_published: 2024-10-29T09:31:39+00:00
-
- ## Homepage
- - [https://quotesquotesquotes.com](https://quotesquotesquotes.com)
- - date_published: 2019-01-15T20:24:38+00:00
-
- ## Highland 2 is a better way to write.
- - [http://quoteunquoteapps.com](http://quoteunquoteapps.com)
- - date_published: 2024-08-07T23:52:38.968285+00:00
-
- ## Quotev
- - [https://i.quotev.com](https://i.quotev.com)
- - date_published: 2024-09-04T03:14:18.821385+00:00
-
- ## Quotev
- - [https://quotev.com](https://quotev.com)
- - date_published: 2024-06-01T00:28:08.423339+00:00
-
- ## QuoVadis GPS: Home
- - [https://quovadis-gps.com](https://quovadis-gps.com)
- - date_published: 2024-08-11T07:57:39.426862+00:00
-
- ## QUPAQ - Worlds leading Tray Denester for Food Packaging
- - [https://qupaq.com](https://qupaq.com)
- - date_published: 2024-10-30T16:42:07+00:00
-
- ## Neuro Pioneers on a Quest to Cure - QurAlis
- - [https://quralis.com](https://quralis.com)
- - date_published: 2023-10-02T18:15:55+00:00
-
- ## The Noble Quran - Quran.com
- - [https://quran.com](https://quran.com)
- - date_published: 2024-10-22T18:55:35.554629+00:00
-
- ## qrg Careers
- - [https://careers.qurateretailgroup.com](https://careers.qurateretailgroup.com)
- - date_published: 2024-06-29T14:37:24.089709+00:00
-
- ## Qurate Retail Group
- - [https://www.qurateretailgroup.com](https://www.qurateretailgroup.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Quru - About Quru
- - [https://quru.com](https://quru.com)
- - date_published: 2020-07-29T11:57:21+00:00
-
- ## Quru Image Server - dynamic colour-managed photo resizing
- - [https://www.quruimageserver.com](https://www.quruimageserver.com)
- - date_published: 2019-04-09T14:16:51+00:00
-
- ## Leading QRNG Company for Advanced Solutions | Quside
- - [https://quside.com](https://quside.com)
- - date_published: 2024-07-19T23:35:49.093497+00:00
-
- ## Parental control and digital wellbeing software
- - [https://www.qustodio.com](https://www.qustodio.com)
- - date_published: 2024-08-28T00:00:00+00:00
 

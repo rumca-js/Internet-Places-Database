@@ -1,3 +1,27 @@
+ ## Computing Reviews, the leading online review service for computing literature.
+ - [http://computingreviews.com](http://computingreviews.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home - Computing School
+ - [https://computingschool.com](https://computingschool.com)
+ - date_published: 2023-05-28T00:00:00+00:00
+
+ ## ComputorEdge Onine
+ - [https://computoredge.com](https://computoredge.com)
+ - date_published: 2023-06-29T11:28:19+00:00
+
+ ## Managed IT Support Computronix CT - IT Services and Solutions
+ - [https://computronixusa.com](https://computronixusa.com)
+ - date_published: 2024-05-04T12:47:07.266020+00:00
+
+ ## The Wolf Eel
+ - [https://comraderadmila.com](https://comraderadmila.com)
+ - date_published: 2024-10-29T19:25:03.766806+00:00
+
+ ## COMRAD | Everyday Compression Socks with Benefits For Men & Women
+ - [https://comradsocks.com](https://comradsocks.com)
+ - date_published: 2024-04-29T04:31:37.550644+00:00
+
  ## Comrad Socks
  - [https://faq.comradsocks.com](https://faq.comradsocks.com)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -1315,6 +1339,10 @@ Real Estate Supercenter
  ## Conrad Bastable
  - [https://www.conradbastable.com](https://www.conradbastable.com)
  - date_published: 2024-09-03T21:44:21.202613+00:00
+
+ ## Conrad's Blog - Insights on Technology Leadership and Software Engineering
+ - [https://conradlotz.com](https://conradlotz.com)
+ - date_published: 2024-11-18T13:43:23.631207+00:00
 
  ## Conrad Stoll
  - [http://conradstoll.com](http://conradstoll.com)
@@ -3996,34 +4024,4 @@ Real Estate Supercenter
  ## CoreIRC – IRC, Social Chat and DCC File Transfers for Android
  - [https://coreirc.com](https://coreirc.com)
  - date_published: 2020-11-25T22:07:54+00:00
-
- ## Corel Graphics, Digital Media & Productivity Software
- - [https://corel.com](https://corel.com)
- - date_published: 2024-04-25T18:23:35+00:00
- - tags: ['graphical program', 'coreldraw', 'corel']
-
- ## Home - Corel Discovery Center
- - [https://learn.corel.com](https://learn.corel.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Corel Community
- - [https://product.corel.com](https://product.corel.com)
- - date_published: 1999-01-18T20:56:52+00:00
-
- ## CorelDRAW
- - [https://trial.coreldraw.corel.com](https://trial.coreldraw.corel.com)
- - date_published: 2024-06-18T18:48:45+00:00
-
- ## CorelDRAW Community
- - [http://community.coreldraw.com](http://community.coreldraw.com)
- - date_published: 2024-07-19T18:33:46.473740+00:00
-
- ## CorelDRAW Graphics Suite | Free Trial
- - [https://coreldraw.com](https://coreldraw.com)
- - date_published: 2024-04-25T18:21:35+00:00
- - tags: ['graphics', 'coreldraw', 'desktop program']
-
- ## Corelight: Evidence-Based NDR and Threat Hunting Platform
- - [https://corelight.com](https://corelight.com)
- - date_published: 2023-10-25T13:33:52.481729+00:00
 

@@ -1,4 +1,116 @@
  ## Commitment to Privacy
+ - [https://ttac.vcu.edu](https://ttac.vcu.edu)
+ - date_published: 2024-07-02T12:48:21.321602+00:00
+
+ ## Commitment to Privacy
+ - [https://uaa.vcu.edu](https://uaa.vcu.edu)
+ - date_published: 2024-07-02T12:58:42.099116+00:00
+
+ ## Commitment to Privacy
+ - [https://uc.vcu.edu](https://uc.vcu.edu)
+ - date_published: 2024-07-02T12:43:23.947669+00:00
+
+ ## Commitment to Privacy
+ - [https://universe.vcu.edu](https://universe.vcu.edu)
+ - date_published: 2024-07-02T12:47:11.227522+00:00
+
+ ## Commitment to Privacy
+ - [https://universitycounsel.vcu.edu](https://universitycounsel.vcu.edu)
+ - date_published: 2024-07-02T12:49:50.851133+00:00
+
+ ## Commitment to Privacy
+ - [https://universityevents.vcu.edu](https://universityevents.vcu.edu)
+ - date_published: 2024-07-02T12:46:50.029212+00:00
+
+ ## Commitment to Privacy
+ - [https://univrelations.vcu.edu](https://univrelations.vcu.edu)
+ - date_published: 2024-07-02T13:00:54.775426+00:00
+
+ ## Commitment to Privacy
+ - [https://vaccinecorps.vcu.edu](https://vaccinecorps.vcu.edu)
+ - date_published: 2024-07-02T12:50:29.338500+00:00
+
+ ## Commitment to Privacy
+ - [https://vaged.vcu.edu](https://vaged.vcu.edu)
+ - date_published: 2024-07-02T12:51:26.622828+00:00
+
+ ## Commitment to Privacy
+ - [https://vascan.vcu.edu](https://vascan.vcu.edu)
+ - date_published: 2024-07-02T12:59:11.612065+00:00
+
+ ## Commitment to Privacy
+ - [https://vcoa.chp.vcu.edu](https://vcoa.chp.vcu.edu)
+ - date_published: 2024-07-02T12:47:36.226534+00:00
+
+ ## Commitment to Privacy
+ - [https://vcu.edu](https://vcu.edu)
+ - date_published: 2024-05-07T22:22:38.590113+00:00
+
+ ## Commitment to Privacy
+ - [https://ventures.vcu.edu](https://ventures.vcu.edu)
+ - date_published: 2024-07-02T12:57:12.682178+00:00
+
+ ## Commitment to Privacy
+ - [https://vimm.vcu.edu](https://vimm.vcu.edu)
+ - date_published: 2024-07-02T12:49:32.280847+00:00
+
+ ## Commitment to Privacy
+ - [https://vip.vcu.edu](https://vip.vcu.edu)
+ - date_published: 2024-07-02T12:45:05.231853+00:00
+
+ ## Commitment to Privacy
+ - [https://virginialend.partnership.vcu.edu](https://virginialend.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:44:06.055699+00:00
+
+ ## rashnu.csbc.vcu.edu
+ - [http://vmc.vcu.edu](http://vmc.vcu.edu)
+ - date_published: 2015-11-10T15:02:15+00:00
+
+ ## Commitment to Privacy
+ - [https://vtss-ric.vcu.edu](https://vtss-ric.vcu.edu)
+ - date_published: 2024-07-02T12:49:52.450854+00:00
+
+ ## Commitment to Privacy
+ - [https://web.partnership.vcu.edu](https://web.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:51:20.403542+00:00
+
+ ## Commitment to Privacy
+ - [https://webstandards.vcu.edu](https://webstandards.vcu.edu)
+ - date_published: 2024-07-02T12:48:59.421596+00:00
+
+ ## Commitment to Privacy
+ - [https://wiki.vcu.edu](https://wiki.vcu.edu)
+ - date_published: 2024-07-02T12:35:10.078681+00:00
+
+ ## Commitment to Privacy
+ - [https://wilder.vcu.edu](https://wilder.vcu.edu)
+ - date_published: 2024-07-02T12:47:00.512936+00:00
+
+ ## Commitment to Privacy
+ - [https://womenshealth.vcu.edu](https://womenshealth.vcu.edu)
+ - date_published: 2024-07-02T12:50:33.385635+00:00
+
+ ## Commitment to Privacy
+ - [https://womensnetwork.vcu.edu](https://womensnetwork.vcu.edu)
+ - date_published: 2024-07-02T12:57:38.951465+00:00
+
+ ## Commitment to Privacy
+ - [https://workforce.vcu.edu](https://workforce.vcu.edu)
+ - date_published: 2024-07-02T12:49:29.642643+00:00
+
+ ## Commitment to Privacy
+ - [https://worldstudies.vcu.edu](https://worldstudies.vcu.edu)
+ - date_published: 2024-07-02T12:47:05.023316+00:00
+
+ ## Commitment to Privacy
+ - [https://writing.vcu.edu](https://writing.vcu.edu)
+ - date_published: 2024-07-02T12:50:45.827304+00:00
+
+ ## Commitment to Privacy
+ - [http://www.create.lab.vcu.edu](http://www.create.lab.vcu.edu)
+ - date_published: 2024-07-02T12:44:08.130001+00:00
+
+ ## Commitment to Privacy
  - [https://www.ctcce.vcu.edu](https://www.ctcce.vcu.edu)
  - date_published: 2024-07-02T12:58:05.683936+00:00
 
@@ -3892,116 +4004,4 @@
  ## Jira Service Management
  - [http://freeav.wvu.edu](http://freeav.wvu.edu)
  - date_published: 2024-01-18T00:00:00+00:00
-
- ## GIVEWVU
- - [https://give.wvu.edu](https://give.wvu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## West Virginia University
- - [https://go.wvu.edu](https://go.wvu.edu)
- - date_published: 2024-07-02T15:17:56.622157+00:00
-
- ## Home | Graduate Admissions | West Virginia University
- - [https://graduateadmissions.wvu.edu](https://graduateadmissions.wvu.edu)
- - date_published: 2024-05-07T22:40:37.225266+00:00
-
- ## Graduate Education and Life | Home
- - [https://graduateeducation.wvu.edu](https://graduateeducation.wvu.edu)
- - date_published: 2024-07-02T15:15:05.300586+00:00
-
- ## Home | Graduate Studies | West Virginia University
- - [https://graduate.wvu.edu](https://graduate.wvu.edu)
- - date_published: 2024-05-07T22:39:58.476857+00:00
-
- ## Graduation | Home
- - [https://graduation.wvu.edu](https://graduation.wvu.edu)
- - date_published: 2024-07-02T15:27:14.607740+00:00
-
- ## WVU Health
- - [https://health.wvu.edu](https://health.wvu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Housing | Home
- - [https://housing.wvu.edu](https://housing.wvu.edu)
- - date_published: 2024-07-02T15:18:02.572336+00:00
-
- ## Hub | Home
- - [https://hub.wvu.edu](https://hub.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Global Affairs | Home
- - [https://international.wvu.edu](https://international.wvu.edu)
- - date_published: 2024-07-02T15:29:23.455507+00:00
-
- ## Information Technology Services | Home
- - [https://it.wvu.edu](https://it.wvu.edu)
- - date_published: 2024-07-02T15:17:39.116773+00:00
-
- ## Home | WVU K12 | West Virginia University
- - [https://k12.wvu.edu](https://k12.wvu.edu)
- - date_published: 2024-05-07T22:40:17.420541+00:00
-
- ## Libraries | Home
- - [https://library.wvu.edu](https://library.wvu.edu)
- - date_published: 2024-07-02T15:27:07.462986+00:00
-
- ## Libraries | Home
- - [https://lib.wvu.edu](https://lib.wvu.edu)
- - date_published: 2024-07-02T15:15:39.930770+00:00
-
- ## Login Self-service | West Virginia University
- - [https://login.wvu.edu](https://login.wvu.edu)
- - date_published: 2024-07-02T15:18:17.546761+00:00
-
- ## WVU Magazine | Home
- - [https://magazine.wvu.edu](https://magazine.wvu.edu)
- - date_published: 2024-07-02T15:17:07.242625+00:00
-
- ## Majors, Minors and Certificates
- - [https://majors.wvu.edu](https://majors.wvu.edu)
- - date_published: 2024-07-02T15:27:19.904467+00:00
-
- ## Mountaineer Maniacs | Home
- - [https://maniacs.wvu.edu](https://maniacs.wvu.edu)
- - date_published: 2024-07-02T15:27:47.758909+00:00
-
- ## Home | CAHS Media Hub | West Virginia University
- - [https://media.appliedhumansciences.wvu.edu](https://media.appliedhumansciences.wvu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Campus Mental Health | Home
- - [https://mentalhealth.wvu.edu](https://mentalhealth.wvu.edu)
- - date_published: 2024-07-02T15:18:10.629825+00:00
-
- ## MindFit | Home
- - [https://mindfit.wvu.edu](https://mindfit.wvu.edu)
- - date_published: 2024-07-02T15:28:07.814791+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://mix.wvu.edu](https://mix.wvu.edu)
- - date_published: 2024-07-02T15:29:06.531254+00:00
-
- ## The Mountainlair | Home
- - [https://mountainlair.wvu.edu](https://mountainlair.wvu.edu)
- - date_published: 2024-07-02T15:28:43.394104+00:00
-
- ## Home | School of Nursing | West Virginia University
- - [https://nursing.wvu.edu](https://nursing.wvu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Sign In
- - [http://office365.wvu.edu](http://office365.wvu.edu)
- - date_published: 2024-07-02T15:17:48.711739+00:00
-
- ## WVU Online | Home
- - [https://online.wvu.edu](https://online.wvu.edu)
- - date_published: 2024-05-07T22:40:00.061433+00:00
-
- ## Home | WVU Parent/Guest Portal | West Virginia University
- - [https://parent-guest.portal.wvu.edu](https://parent-guest.portal.wvu.edu)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Mountaineer Parents Club | Home
- - [http://parentsclub.wvu.edu](http://parentsclub.wvu.edu)
- - date_published: 2024-07-02T15:19:29.950860+00:00
 

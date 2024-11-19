@@ -1,3 +1,119 @@
+ ## U.S. Department of Commerce | Performance Data Pro
+ - [https://performance.commerce.gov](https://performance.commerce.gov)
+ - date_published: 2024-05-08T02:37:13.415421+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.commerce.gov](https://search.commerce.gov)
+ - date_published: 2024-05-08T02:42:21.546942+00:00
+
+ ## Tyler Data & Insights
+ - [https://uspto.data.commerce.gov](https://uspto.data.commerce.gov)
+ - date_published: 2024-06-29T19:41:52.408407+00:00
+
+ ## Office of Space Commerce – Helping U.S. businesses use the unique medium of space to benefit our economy
+ - [https://www.space.commerce.gov](https://www.space.commerce.gov)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date_published: 2023-10-25T19:19:12.540417+00:00
+
+ ## Bioguide Search
+ - [http://bioguide.congress.gov](http://bioguide.congress.gov)
+ - date_published: 2024-06-26T17:33:31+00:00
+
+ ## Congress.gov | Library of Congress
+ - [https://congress.gov](https://congress.gov)
+ - date_published: 2024-05-08T02:42:27.756636+00:00
+
+ ## Cierpliwości...
+ - [https://crsreports.congress.gov](https://crsreports.congress.gov)
+ - date_published: 2024-04-30T06:34:34.060310+00:00
+
+ ## consumer.gov
+ - [https://consumer.gov](https://consumer.gov)
+ - date_published: 2024-05-08T02:51:36.145053+00:00
+
+ ## Consumer Financial Protection Bureau
+ - [https://consumerfinance.gov](https://consumerfinance.gov)
+ - date_published: 2023-10-25T19:19:22.686885+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.consumerfinance.gov](https://search.consumerfinance.gov)
+ - date_published: 2024-05-08T02:42:30.762051+00:00
+
+ ## consumer.gov - homepage
+ - [https://consumidor.gov](https://consumidor.gov)
+ - date_published: 2024-07-03T15:08:47+00:00
+
+ ## U.S. Copyright Office | U.S. Copyright Office
+ - [https://copyright.gov](https://copyright.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Search Result | DMCA Designated Agent Directory
+ - [https://dmca.copyright.gov](https://dmca.copyright.gov)
+ - date_published: 2024-07-01T18:33:10.662192+00:00
+
+ ## Licensing Overview | U.S. Copyright Office
+ - [https://licensing.copyright.gov](https://licensing.copyright.gov)
+ - date_published: 2024-05-08T02:42:35.727318+00:00
+
+ ## U.S. Copyright Office Public Records System
+ - [https://publicrecords.copyright.gov](https://publicrecords.copyright.gov)
+ - date_published: 2024-05-08T02:42:39.628970+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.copyright.gov](https://search.copyright.gov)
+ - date_published: 2024-05-08T02:42:33.048698+00:00
+
+ ## U.S. Coral Reef Task Force Homepage
+ - [https://www.coralreef.gov](https://www.coralreef.gov)
+ - date_published: 2024-10-14T20:53:38.728184+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19)
+ - [https://coronavirus.gov](https://coronavirus.gov)
+ - date_published: 2020-02-11T00:00:00+00:00
+
+ ## Coventry, CT - Official Website | Official Website
+ - [https://coventry-ct.gov](https://coventry-ct.gov)
+ - date_published: 2024-07-01T23:21:29.922277+00:00
+
+ ## Find COVID-19 guidance for your community
+ - [https://www.covid.gov](https://www.covid.gov)
+ - date_published: 2023-12-05T01:05:13+00:00
+
+ ## CPSC.gov
+ - [https://cpsc.gov](https://cpsc.gov)
+ - date_published: 2024-05-08T02:42:46.739376+00:00
+
+ ## Homepage | Office of Inspector General
+ - [https://oig.cpsc.gov](https://oig.cpsc.gov)
+ - date_published: 2024-04-24T16:42:45+00:00
+
+ ## Copyright Royalty Board
+ - [https://www.crb.gov](https://www.crb.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## U.S. Chemical Safety and Hazard Investigation Board | CSB
+ - [https://www.csb.gov](https://www.csb.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## CSCE
+ - [http://www.csce.gov](http://www.csce.gov)
+ - date_published: 2024-06-28T20:53:18.479652+00:00
+
+ ## Connecticut Business Services
+ - [https://business.ct.gov](https://business.ct.gov)
+ - date_published: 2024-09-18T20:27:05.428050+00:00
+
+ ## Connecticut | Open Data | Connecticut Data
+ - [https://data.ct.gov](https://data.ct.gov)
+ - date_published: 2024-09-18T20:26:04.114470+00:00
+
+ ## Self Exclusion Portal
+ - [https://gaming-exclusion.service.ct.gov](https://gaming-exclusion.service.ct.gov)
+ - date_published: 2023-08-20T19:32:30+00:00
+
  ## Health
  - [https://health.ct.gov](https://health.ct.gov)
  - date_published: 2024-09-18T20:27:01.017553+00:00
@@ -3910,121 +4026,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## United States Congressman Scott Peters
  - [https://scottpeters.house.gov](https://scottpeters.house.gov)
  - date_published: 2024-06-27T14:12:08.964046+00:00
-
- ## | house.gov
- - [https://search.house.gov](https://search.house.gov)
- - date_published: 2024-06-27T14:02:37.034070+00:00
-
- ## Select Committee on the CCP
- - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
- - date_published: 2023-11-27T12:22:06+00:00
- - tags: ['america', 'china']
-
- ## United States Congressman Pete Sessions
- - [https://sessions.house.gov](https://sessions.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## U.S. Congresswoman Terri Sewell
- - [https://sewell.house.gov](https://sewell.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Congressman Brad Sherman
- - [https://sherman.house.gov](https://sherman.house.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Congresswoman Mikie Sherrill
- - [https://sherrill.house.gov](https://sherrill.house.gov)
- - date_published: 2024-06-27T14:09:35.350245+00:00
-
- ## Representative Shontel Brown
- - [https://shontelbrown.house.gov](https://shontelbrown.house.gov)
- - date_published: 2024-06-27T14:00:40.277938+00:00
-
- ## U.S. Congressman Mike Simpson - 2nd District of Idaho
- - [https://simpson.house.gov](https://simpson.house.gov)
- - date_published: 2024-06-27T14:20:35+00:00
-
- ## Representative Elissa Slotkin
- - [https://slotkin.house.gov](https://slotkin.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## House Committee on Small Business
- - [https://smallbusiness.house.gov](https://smallbusiness.house.gov)
- - date_published: 2024-06-27T14:00:20+00:00
-
- ## Congressman Lloyd Smucker
- - [https://smucker.house.gov](https://smucker.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Representative Eric Sorensen
- - [https://sorensen.house.gov](https://sorensen.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Congressman Darren Soto
- - [https://soto.house.gov](https://soto.house.gov)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Home - Abigail Spanberger
- - [https://spanberger.house.gov](https://spanberger.house.gov)
- - date_published: 2024-06-27T14:14:02.835856+00:00
-
- ## Representative Victoria Spartz
- - [https://spartz.house.gov](https://spartz.house.gov)
- - date_published: 2024-06-27T14:21:30.828662+00:00
-
- ## Congresswoman Melanie Stansbury | Representing New Mexico's First Congressional District
- - [https://stansbury.house.gov](https://stansbury.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Greg Stanton
- - [https://stanton.house.gov](https://stanton.house.gov)
- - date_published: 2024-06-27T14:01:36.675722+00:00
-
- ## Representative Pete Stauber
- - [https://stauber.house.gov](https://stauber.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Michelle Steel
- - [https://steel.house.gov](https://steel.house.gov)
- - date_published: 2024-06-27T13:59:31.930612+00:00
-
- ## Congresswoman Elise Stefanik
- - [https://stefanik.house.gov](https://stefanik.house.gov)
- - date_published: 2024-06-27T14:00:31.966280+00:00
-
- ## Representative Bryan Steil
- - [https://steil.house.gov](https://steil.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Steube – Representing Florida
- - [https://steube.house.gov](https://steube.house.gov)
- - date_published: 2024-06-27T14:17:45.343251+00:00
-
- ## Congresswoman Haley Stevens
- - [https://stevens.house.gov](https://stevens.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Representative Marilyn Strickland
- - [https://strickland.house.gov](https://strickland.house.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Representative Dale Strong
- - [https://strong.house.gov](https://strong.house.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Summer Lee
- - [https://summerlee.house.gov](https://summerlee.house.gov)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Congressman Thomas Suozzi
- - [https://suozzi.house.gov](https://suozzi.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Representative Susie Lee
- - [https://susielee.house.gov](https://susielee.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Swalwell
- - [https://swalwell.house.gov](https://swalwell.house.gov)
- - date_published: 2024-05-16T00:00:00+00:00
 

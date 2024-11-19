@@ -1,3 +1,19 @@
+ ## Customer Obsessed Engineering | Zac Beckman | Substack
+ - [https://blog.bosslogic.com](https://blog.bosslogic.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Need Financial Advice? We Can Help. |  B.O.S.S. Retirement Solutions & Advisors
+ - [https://bossretirement.com](https://bossretirement.com)
+ - date_published: 2024-09-04T04:00:10.049123+00:00
+
+ ## Fire & Security Services by Boss Security by Boss Security
+ - [https://bosssecurity.com](https://bosssecurity.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## BOSS TONE CENTRAL
+ - [http://bosstonecentral.com](http://bosstonecentral.com)
+ - date_published: 2023-07-20T00:00:00+00:00
+
  ## BOSS TONE EXCHANGE
  - [https://bosstoneexchange.com](https://bosstoneexchange.com)
  - date_published: 2024-07-23T07:59:12+00:00
@@ -4027,20 +4043,4 @@
  ## Brickout Zero Gravity | A Retro physics arcade game for iOS
  - [http://brickoutzerogravity.com](http://brickoutzerogravity.com)
  - date_published: 2013-03-28T20:20:28+00:00
-
- ## LEGO news, rumours, rankings and investing - Brick Ranker
- - [https://brickranker.com](https://brickranker.com)
- - date_published: 2024-09-02T09:51:27.208700+00:00
-
- ## Home | Brickset
- - [https://brickset.com](https://brickset.com)
- - date_published: 2023-10-25T11:10:44.314862+00:00
-
- ## roadgrind.com — Coming Soon
- - [http://www.bricksonthebrain.com](http://www.bricksonthebrain.com)
- - date_published: 2024-05-01T04:13:36.916044+00:00
-
- ## Bricks Without Straw | Visual Identity and Brand Management
- - [https://www.brickswithoutstraw.com](https://www.brickswithoutstraw.com)
- - date_published: 2024-07-14T00:17:17+00:00
 

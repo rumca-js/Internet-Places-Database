@@ -1,3 +1,84 @@
+ ## PATRICK RADDEN KEEFE
+ - [https://patrickraddenkeefe.com](https://patrickraddenkeefe.com)
+ - date_published: 2024-05-10T06:25:51.905330+00:00
+
+ ## Patrick Rall's Homepage
+ - [https://patrickrall.com](https://patrickrall.com)
+ - date_published: 2024-05-19T20:13:39+00:00
+
+ ## Patrick Rhone
+ - [https://patrickrhone.com](https://patrickrhone.com)
+ - date_published: 2024-07-07T07:32:26.273433+00:00
+
+ ## The Intersection | Patrick Ruffini | Substack
+ - [http://www.patrickruffini.com](http://www.patrickruffini.com)
+ - date_published: 2024-10-21T03:57:33.913536+00:00
+
+ ## PATRICK SISSON
+ - [https://patricksisson.com](https://patricksisson.com)
+ - date_published: 2024-09-09T14:32:28.029167+00:00
+
+ ## Patrick's Software Blog
+ - [https://www.patricksoftwareblog.com](https://www.patricksoftwareblog.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Absurd Premise Executed Faithfully
+ - [https://patrickweekes.com](https://patrickweekes.com)
+ - date_published: 2024-06-30T09:39:24.479100+00:00
+
+ ## Patrick Woodroffe
+ - [http://www.patrickwoodroffe-world.com](http://www.patrickwoodroffe-world.com)
+ - date_published: 2023-07-26T16:54:37+00:00
+
+ ## Patrick Chong
+ - [https://patrickxchong.com](https://patrickxchong.com)
+ - date_published: 2024-05-07T23:15:57.152016+00:00
+
+ ## Patrick Yandell
+ - [https://patrickyandell.com](https://patrickyandell.com)
+ - date_published: 2023-11-29T14:24:18.301040+00:00
+ - tags: ['personal']
+
+ ## Patrik Antczak illustration
+ - [https://www.patrikantczak.com](https://www.patrikantczak.com)
+ - date_published: 2024-07-17T08:38:25.268386+00:00
+
+ ## Home | Patrik Arvidsson
+ - [https://patrikarvidsson.com](https://patrikarvidsson.com)
+ - date_published: 2024-08-07T23:59:41.551493+00:00
+
+ ## Patrik Schumacher
+ - [https://www.patrikschumacher.com](https://www.patrikschumacher.com)
+ - date_published: 2024-08-15T17:19:47+00:00
+
+ ## Bachelor's thesis - Patrik Trefil
+ - [https://bachelors-thesis.patriktrefil.com](https://bachelors-thesis.patriktrefil.com)
+ - date_published: 2024-07-14T09:32:39.914843+00:00
+
+ ## Matu-ra
+ - [https://matura.patriktrefil.com](https://matura.patriktrefil.com)
+ - date_published: 2024-07-14T09:32:39.009494+00:00
+
+ ## Patrik Trefil
+ - [https://patriktrefil.com](https://patriktrefil.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Patriot Ledger: Local News, Politics & Sports in Quincy, MA
+ - [https://www.patriotledger.com](https://www.patriotledger.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home - Patriot Mobile | Mobilizing Freedom
+ - [http://www.patriotmobile.com](http://www.patriotmobile.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home - Patriot Pickle
+ - [https://patriotpickle.com](https://patriotpickle.com)
+ - date_published: 2023-05-26T00:00:00+00:00
+
+ ## Patriot Prepared
+ - [https://patriotprepared.com](https://patriotprepared.com)
+ - date_published: 2024-07-04T15:29:12.685442+00:00
+
  ## Official New England Patriots News and Analysis
  - [https://www.patriots.com](https://www.patriots.com)
  - date_published: 2024-06-21T22:49:31.750673+00:00
@@ -3964,84 +4045,4 @@
  ## PennLive High School Sports - pennlive.com
  - [https://highschoolsports.pennlive.com](https://highschoolsports.pennlive.com)
  - date_published: 2024-05-06T22:59:28.987718+00:00
-
- ## EU Notice | PennLive.com
- - [https://jobs.pennlive.com](https://jobs.pennlive.com)
- - date_published: 2024-06-28T15:44:04.788005+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [http://pennlive.com](http://pennlive.com)
- - date_published: 2024-06-28T15:42:16+00:00
-
- ## PennLive Classifieds - Classified Ads for Philadelphia, Pittsburgh, and More
- - [https://placead.pennlive.com](https://placead.pennlive.com)
- - date_published: 2024-06-28T15:44:03.050888+00:00
-
- ## Real Estate Classifieds | Pennlive.com
- - [https://realestate.pennlive.com](https://realestate.pennlive.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Subscribe to The Patriot News - Pennlive.com
- - [https://subscribe.pennlive.com](https://subscribe.pennlive.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [https://topics.pennlive.com](https://topics.pennlive.com)
- - date_published: 2024-06-28T15:42:16+00:00
-
- ## The Pennsylvania Daily Star
- - [https://pennsylvaniadailystar.com](https://pennsylvaniadailystar.com)
- - date_published: 2024-07-07T08:50:53.708756+00:00
-
- ## Pennsylvania Sun | Reporting the News in Pennsylvania
- - [http://www.pennsylvaniasun.com](http://www.pennsylvaniasun.com)
- - date_published: 2024-07-13T22:49:42.797634+00:00
-
- ## Homepage
- - [https://pennvlab.com](https://pennvlab.com)
- - date_published: 2024-10-14T20:12:19.140464+00:00
-
- ## Penny Arcade Forums
- - [https://forums.penny-arcade.com](https://forums.penny-arcade.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Home - Penny Arcade
- - [https://penny-arcade.com](https://penny-arcade.com)
- - date_published: 2024-03-24T15:03:18.672244+00:00
-
- ## Penny Arcade Store
- - [https://store.penny-arcade.com](https://store.penny-arcade.com)
- - date_published: 2024-05-11T10:38:54.254605+00:00
-
- ## First Full Synthetic Motor Oil Made with Natural Gas
- - [https://www.pennzoil.com](https://www.pennzoil.com)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Welcome to PenPal World
- - [https://www.penpalworld.com](https://www.penpalworld.com)
- - date_published: 2024-09-04T17:15:46.126198+00:00
-
- ## Nicholas Penree - Software Developer
- - [http://penree.com](http://penree.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Promotional Pens & Logo Products at Pens.com | National Pen Brand
- - [http://www.pens.com](http://www.pens.com)
- - date_published: 2024-10-24T13:14:16.247731+00:00
-
- ## Pensé Productions
- - [https://www.penseproductions.com](https://www.penseproductions.com)
- - date_published: 2024-05-06T17:28:54.781798+00:00
-
- ## Penshurst Place and Gardens
- - [https://www.penshurstplace.com](https://www.penshurstplace.com)
- - date_published: 2024-07-17T05:26:54.031856+00:00
-
- ## porkbun.com | parked domain
- - [http://www.pensiev.com](http://www.pensiev.com)
- - date_published: 2024-09-03T21:43:34.205572+00:00
-
- ## Penske Logistics
- - [https://www.penskelogistics.com](https://www.penskelogistics.com)
- - date_published: 2024-09-16T07:31:11.552133+00:00
 

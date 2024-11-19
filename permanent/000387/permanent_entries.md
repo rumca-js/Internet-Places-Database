@@ -1,3 +1,144 @@
+ ## Sid Roth’s It’s Supernatural!™
+ - [https://sidroth.org](https://sidroth.org)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Index – Siduction Forum
+ - [https://forum.siduction.org](https://forum.siduction.org)
+ - date_published: 2024-07-24T06:14:30.791739+00:00
+
+ ## Powered by SeminarDesk
+ - [https://lernort.siebenlinden.org](https://lernort.siebenlinden.org)
+ - date_published: 2024-06-12T12:46:59.966474+00:00
+
+ ## Return to the Roots - Welcome
+ - [https://siedler25.org](https://siedler25.org)
+ - date_published: 2024-05-09T08:55:54.195350+00:00
+
+ ## Home - Siemens Caring Hands e.V.
+ - [https://siemens-caring-hands.org](https://siemens-caring-hands.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Fundación Siemens - Fundación Siemens
+ - [https://educacion.stem.siemens-stiftung.org](https://educacion.stem.siemens-stiftung.org)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Webseite der internationalen Siemens Stiftung
+ - [https://siemens-stiftung.org](https://siemens-stiftung.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://wstats.siemens-stiftung.org](https://wstats.siemens-stiftung.org)
+ - date_published: 2024-09-10T21:32:05.348485+00:00
+
+ ## Home
+ - [https://sierraclub.org](https://sierraclub.org)
+ - date_published: 2024-04-29T03:12:27.906241+00:00
+
+ ## Home
+ - [https://www.sifma.org](https://www.sifma.org)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Sift Desk Publications
+ - [http://www.siftdesk.org](http://www.siftdesk.org)
+ - date_published: 2024-10-29T17:31:20.281210+00:00
+
+ ## About | sift - a fast and powerful alternative to grep
+ - [https://sift-tool.org](https://sift-tool.org)
+ - date_published: 2024-05-09T08:39:47.342105+00:00
+
+ ## HOME | ACM ASSETS 2020 - Online Event
+ - [https://assets20.sigaccess.org](https://assets20.sigaccess.org)
+ - date_published: 2020-10-24T18:05:53+00:00
+
+ ## ASSETS 2022 | Home Page
+ - [https://assets22.sigaccess.org](https://assets22.sigaccess.org)
+ - date_published: 2022-10-22T11:28:48+00:00
+
+ ## SIGACCESS
+ - [http://www.sigaccess.org](http://www.sigaccess.org)
+ - date_published: 2024-06-22T11:45:29.769518+00:00
+
+ ## ACM SIGACT
+ - [https://sigact.org](https://sigact.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## ACM SIGAda Home Page
+ - [http://sigada.org](http://sigada.org)
+ - date_published: 2024-06-21T18:25:21+00:00
+
+ ## ACM SIGAPP Page
+ - [http://www.sigapp.org](http://www.sigapp.org)
+ - date_published: 2023-12-31T20:14:42+00:00
+
+ ## SIGARCH | The ACM Special Interest Group on Computer Architecture
+ - [https://sigarch.org](https://sigarch.org)
+ - date_published: 2023-10-25T22:08:17.795553+00:00
+
+ ## Home
+ - [https://chase23.sigbed.org](https://chase23.sigbed.org)
+ - date_published: 2023-06-30T00:30:19+00:00
+
+ ## ACM SIGBED – Special Interest Group on Embedded Systems
+ - [https://sigbed.org](https://sigbed.org)
+ - date_published: 2024-08-07T17:23:20.432566+00:00
+
+ ## Soroptimist International GBI (SIGBI) - a women's organisation
+ - [https://sigbi.org](https://sigbi.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## The Association for Computational Heresy
+ - [https://sigbovik.org](https://sigbovik.org)
+ - date_published: 2024-06-20T05:53:55.940473+00:00
+ - tags: ['parody', 'comedy', 'programming']
+
+ ## Conference Programs
+ - [https://programs.sigchi.org](https://programs.sigchi.org)
+ - date_published: 2024-06-26T11:05:38+00:00
+
+ ## Home
+ - [https://sigchi.org](https://sigchi.org)
+ - date_published: 2024-05-07T20:27:59.905722+00:00
+
+ ## lists.sigcis.org Mailing Lists
+ - [http://lists.sigcis.org](http://lists.sigcis.org)
+ - date_published: 2024-09-14T23:12:48.894208+00:00
+
+ ## SIGCIS Meetings
+ - [http://meetings.sigcis.org](http://meetings.sigcis.org)
+ - date_published: 2024-10-29T18:25:38.461210+00:00
+
+ ## Computer Communication Review
+ - [http://ccr.sigcomm.org](http://ccr.sigcomm.org)
+ - date_published: 2008-07-23T15:03:05+00:00
+
+ ## SIGCOMM Conferences
+ - [http://conferences2.sigcomm.org](http://conferences2.sigcomm.org)
+ - date_published: 2011-07-25T17:31:02+00:00
+
+ ## SIGCOMM Conferences
+ - [https://conferences.sigcomm.org](https://conferences.sigcomm.org)
+ - date_published: 2024-04-29T06:11:02.240148+00:00
+
+ ## Welcome | acm sigcomm
+ - [http://sigcomm.org](http://sigcomm.org)
+ - date_published: 2024-07-16T23:04:40+00:00
+
+ ## SIGCSE TS 2023
+ - [https://sigcse2023.sigcse.org](https://sigcse2023.sigcse.org)
+ - date_published: 2024-06-30T02:13:25.329105+00:00
+
+ ## SIGCSE TS 2024
+ - [https://sigcse2024.sigcse.org](https://sigcse2024.sigcse.org)
+ - date_published: 2024-05-07T14:56:36.809759+00:00
+
+ ## SIGCSE TS 2025
+ - [https://sigcse2025.sigcse.org](https://sigcse2025.sigcse.org)
+ - date_published: 2024-06-30T02:13:31.048302+00:00
+
+ ## ACM SIGCSE
+ - [https://sigcse.org](https://sigcse.org)
+ - date_published: 2024-06-18T18:28:56+00:00
+
  ## SIGCSE TS 2024
  - [https://www.sigcse2024.org](https://www.sigcse2024.org)
  - date_published: 2024-06-30T02:13:26.264043+00:00
@@ -3889,146 +4030,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## Center for Inclusive Health Homepage
  - [http://inclusivehealth.specialolympics.org](http://inclusivehealth.specialolympics.org)
  - date_published: 2024-09-19T22:03:21.010218+00:00
-
- ## Donate | Special Olympics | Support Special Olympics
- - [https://play.specialolympics.org](https://play.specialolympics.org)
- - date_published: 2024-09-19T22:03:06.328432+00:00
-
- ## Special Olympics Resources
- - [https://resources.specialolympics.org](https://resources.specialolympics.org)
- - date_published: 2024-09-19T22:03:04.608370+00:00
-
- ## Special Olympics World & National Games Results
- - [https://results.specialolympics.org](https://results.specialolympics.org)
- - date_published: 2024-09-19T22:03:08.901308+00:00
-
- ## Special Olympics Shop | Special Olympics Merchandise & Clothing - Special Olympics Shop
- - [https://shop.specialolympics.org](https://shop.specialolympics.org)
- - date_published: 2024-09-19T22:03:17.188947+00:00
-
- ## Special Olympics
- - [https://specialolympics.org](https://specialolympics.org)
- - date_published: 2024-06-15T22:35:45.633259+00:00
-
- ## Donate | Special Olympics | Support Special Olympics
- - [https://support.specialolympics.org](https://support.specialolympics.org)
- - date_published: 2024-09-19T22:03:18.425861+00:00
-
- ## Special Operations Warrior Foundation
- - [http://www.specialops.org](http://www.specialops.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Zoological Information Management System | ZIMS | Species 360
- - [https://www.species360.org](https://www.species360.org)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Specref
- - [http://www.specref.org](http://www.specref.org)
- - date_published: 2024-06-29T01:18:16+00:00
-
- ## Home | specsnet
- - [https://specsnet.org](https://specsnet.org)
- - date_published: 2024-01-13T00:00:00+00:00
-
- ## Spectacular Failures
- - [https://www.spectacularfailures.org](https://www.spectacularfailures.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## spectacularium.org - Ta strona jest na sprzedaż! - spectacularium Zasoby i informacje.
- - [http://www.spectacularium.org](http://www.spectacularium.org)
- - date_published: 2024-06-24T09:35:10+00:00
-
- ## Nexcess
- - [https://news.spectator.org](https://news.spectator.org)
- - date_published: 2023-04-18T20:15:17+00:00
-
- ## The American Spectator | USA News and Politics
- - [https://spectator.org](https://spectator.org)
- - date_published: 2023-10-25T22:10:25.131810+00:00
-
- ## SpectralFringe cover
- - [http://www.spectralfringe.org](http://www.spectralfringe.org)
- - date_published: 2022-07-20T00:13:53+00:00
-
- ## Spectra - C++ Library For Large Scale Eigenvalue Problems
- - [https://spectralib.org](https://spectralib.org)
- - date_published: 2024-06-17T03:14:40.388255+00:00
-
- ## SpectralWorkbench
- - [https://spectralworkbench.org](https://spectralworkbench.org)
- - date_published: 2022-10-12T06:31:53+00:00
-
- ## Новинки сайта | Full Tape Crack Pack
- - [http://spectrum4ever.org](http://spectrum4ever.org)
- - date_published: 2024-09-04T11:11:54.627547+00:00
-
- ## Home - Spectrum Dance Theater
- - [http://spectrumdance.org](http://spectrumdance.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Spectrum Life Magazine from Autism Empowerment
- - [http://spectrumlife.org](http://spectrumlife.org)
- - date_published: 2024-09-03T23:02:03.187364+00:00
-
- ## Spectrum Magazine - Creating community through conversation
- - [http://spectrummagazine.org](http://spectrummagazine.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Spectrum Autism Research News and Perspectives
- - [https://www.spectrumnews.org](https://www.spectrumnews.org)
- - date_published: 2024-07-19T21:46:19+00:00
-
- ## SPEEA Website
- - [https://speea.org](https://speea.org)
- - date_published: 2024-05-09T06:49:12.802577+00:00
-
- ## Speechki — AI Realistic Voice Generator and Text-to-Speech Solution with 1,100+ Voices in 80+ Languages
- - [https://speechki.org](https://speechki.org)
- - date_published: 2024-05-22T16:02:04+00:00
-
- ## Speed Dreams - A free Open Motorsport Sim and Open Source Racing Game
- - [http://www.speed-dreams.org](http://www.speed-dreams.org)
- - date_published: 2015-11-23T19:56:37+00:00
-
- ## Speed Force
- - [https://speedforce.org](https://speedforce.org)
- - date_published: 2024-05-15T02:46:00.127415+00:00
- - tags: ['dc', 'comics', 'flash']
-
- ## Speed Force
- - [https://st3.speedforce.org](https://st3.speedforce.org)
- - date_published: 2024-09-04T00:32:34+00:00
-
- ## Login
-         - SpeedIT Solutions
- - [https://cp.speedit.org](https://cp.speedit.org)
- - date_published: 2024-06-16T06:01:04.711625+00:00
-
- ## Startseite
- - [https://speedit.org](https://speedit.org)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Speed Art Museum
- - [https://www.speedmuseum.org](https://www.speedmuseum.org)
- - date_published: 2024-07-07T06:41:34.146406+00:00
-
- ## Speex: a free codec for free speech
- - [https://speex.org](https://speex.org)
- - date_published: 2022-06-16T00:00:00+00:00
-
- ## Spejset
- - [https://social.spejset.org](https://social.spejset.org)
- - date_published: 2024-07-02T18:43:07.731269+00:00
-
- ## Spelljammer: Beyond the Moons (For all your Spelljamming needs)
- - [http://www.spelljammer.org](http://www.spelljammer.org)
- - date_published: 2022-07-05T19:26:55+00:00
-
- ## SPEP – Society for Phenomenology and Existential Philosophy
- - [http://www.spep.org](http://www.spep.org)
- - date_published: 2024-09-15T12:59:53.045625+00:00
-
- ## St. Paul Homebrew Club
- - [https://sphbc.org](https://sphbc.org)
- - date_published: 2024-05-04T07:28:19.679009+00:00
 

@@ -1,3 +1,19 @@
+ ## CoreGenomics
+ - [https://core-genomics.blogspot.com](https://core-genomics.blogspot.com)
+ - date_published: 2024-05-28T20:58:00+00:00
+
+ ## Corey Goldberg
+ - [http://coreygoldberg.blogspot.com](http://coreygoldberg.blogspot.com)
+ - date_published: 2018-09-07T00:00:00+00:00
+
+ ## Corgi Guy
+ - [http://corgiguyblog.blogspot.com](http://corgiguyblog.blogspot.com)
+ - date_published: 2024-03-13T15:01:01+00:00
+
+ ## Running in Cork, Ireland
+ - [http://corkrunning.blogspot.com](http://corkrunning.blogspot.com)
+ - date_published: 2024-10-31T23:30:07+00:00
+
  ## Cormoran Development Blog
  - [http://cormoran-project.blogspot.com](http://cormoran-project.blogspot.com)
  - date_published: 2024-02-19T08:51:09+00:00
@@ -3991,20 +4007,4 @@
  ## EU Law Analysis
  - [https://eulawanalysis.blogspot.com](https://eulawanalysis.blogspot.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## EU Law Myth Busting
- - [https://eulawstudent.blogspot.com](https://eulawstudent.blogspot.com)
- - date_published: 2024-10-18T21:04:22.674275+00:00
-
- ## The EU-nihilist
- - [https://eu-nihilist.blogspot.com](https://eu-nihilist.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## EU Pundit : Issues of the European Union
- - [http://eupundit.blogspot.com](http://eupundit.blogspot.com)
- - date_published: 2024-10-18T20:41:43.637297+00:00
-
- ## EU Referendum
- - [http://eureferendum.blogspot.com](http://eureferendum.blogspot.com)
- - date_published: 2024-02-28T07:35:03+00:00
 

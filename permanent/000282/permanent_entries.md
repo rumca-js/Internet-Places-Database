@@ -1,3 +1,115 @@
+ ## Vision - Velocity
+ - [https://www.velocitynetwork.foundation](https://www.velocitynetwork.foundation)
+ - date_published: 2023-03-05T00:00:00+00:00
+
+ ## Volta Foundation – Supporting the Battery Industry
+ - [https://volta.foundation](https://volta.foundation)
+ - date_published: 2024-05-08T00:14:24.773866+00:00
+
+ ## Simple Analytics
+ - [https://apisa.web3.foundation](https://apisa.web3.foundation)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Polkadot Education Initiative | Polkadot Education Initiative
+ - [https://education.web3.foundation](https://education.web3.foundation)
+ - date_published: 2024-06-05T20:47:12+00:00
+
+ ## Decentralized Futures
+ - [https://futures.web3.foundation](https://futures.web3.foundation)
+ - date_published: 2024-10-11T21:59:22.851696+00:00
+
+ ## Web3 Foundation Grants | Web3 Foundation Grants
+ - [https://grants.web3.foundation](https://grants.web3.foundation)
+ - date_published: 2024-10-11T10:19:12+00:00
+
+ ## Decentralized Nodes
+ - [https://nodes.web3.foundation](https://nodes.web3.foundation)
+ - date_published: 2024-10-11T21:59:18.649227+00:00
+
+ ## Research at Web3 | Research at Web3 Foundation
+ - [https://research.web3.foundation](https://research.web3.foundation)
+ - date_published: 2024-07-24T06:56:35+00:00
+
+ ## W3F | Web3 Foundation
+ - [https://web3.foundation](https://web3.foundation)
+ - date_published: 2024-06-16T16:37:52.889710+00:00
+
+ ## Worldcoin Foundation
+ - [http://worldcoin.foundation](http://worldcoin.foundation)
+ - date_published: 2024-07-04T17:05:39.685053+00:00
+
+ ## WorldLand Seoul Explorer
+ - [https://scan.worldland.foundation](https://scan.worldland.foundation)
+ - date_published: 2024-09-23T21:22:01.778490+00:00
+
+ ## Worldland Gwangju Explorer
+ - [https://testscan.worldland.foundation](https://testscan.worldland.foundation)
+ - date_published: 2024-09-23T15:01:36.251903+00:00
+
+ ## Worldland
+ - [https://worldland.foundation](https://worldland.foundation)
+ - date_published: 2024-09-23T00:50:55+00:00
+
+ ## WTA Foundation
+ - [https://wta.foundation](https://wta.foundation)
+ - date_published: 2024-05-11T07:35:19.647232+00:00
+
+ ## Головна - Zagoriy Foundation
+ - [https://zagoriy.foundation](https://zagoriy.foundation)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## zeroth
+ - [https://www.zeroth.foundation](https://www.zeroth.foundation)
+ - date_published: 2024-08-20T17:22:18+00:00
+
+ ## AGERA (Alliance des Grandes Ecoles Rhône-Alpes Auvergne)
+ - [https://www.agera.asso.fr](https://www.agera.asso.fr)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Association internationale des Maires francophones
+ - [https://www.aimf.asso.fr](https://www.aimf.asso.fr)
+ - date_published: 2024-10-22T07:35:22.489169+00:00
+
+ ## Accueil Airparif | Airparif
+ - [https://www.airparif.asso.fr](https://www.airparif.asso.fr)
+ - date_published: 2024-07-15T05:08:42.480009+00:00
+
+ ## AMF Association des Maires de France et des présidents d'intercommunalité
+ - [https://www.amf.asso.fr](https://www.amf.asso.fr)
+ - date_published: 2024-07-03T04:18:59.330008+00:00
+
+ ## L'ANRT - Association Nationale de la Recherche et de la Technologie | Association Nationale Recherche Technologie
+ - [https://www.anrt.asso.fr](https://www.anrt.asso.fr)
+ - date_published: 2024-07-13T10:41:26+00:00
+
+ ## Aide création entreprise & projet entrepreneurial - BGE Appui aux entrepreneurs
+ - [https://www.bge.asso.fr](https://www.bge.asso.fr)
+ - date_published: 2022-09-12T09:40:08+00:00
+
+ ## Ceméa France - Le site de l'association nationale
+ - [https://cemea.asso.fr](https://cemea.asso.fr)
+ - date_published: 2024-07-08T11:14:17.399087+00:00
+
+ ## Bienvenue sur la Conférence des grandes écoles
+ - [https://www.cge.asso.fr](https://www.cge.asso.fr)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Réseau C.U.R.I.E.
+ - [https://www.curie.asso.fr](https://www.curie.asso.fr)
+ - date_published: 2024-07-19T05:19:00+00:00
+
+ ## Fédération Française des Échecs
+ - [http://www.echecs.asso.fr](http://www.echecs.asso.fr)
+ - date_published: 2024-07-20T04:11:25.707190+00:00
+
+ ## France Nature Environnement - FNE
+ - [http://fne.asso.fr](http://fne.asso.fr)
+ - date_published: 2024-06-16T23:59:38.290782+00:00
+
+ ## Association G6
+ - [http://www.g6.asso.fr](http://www.g6.asso.fr)
+ - date_published: 2024-07-07T00:00:57.230742+00:00
+
  ## IREP
  - [https://www.irep.asso.fr](https://www.irep.asso.fr)
  - date_published: 2024-06-25T21:53:34.501720+00:00
@@ -3896,116 +4008,4 @@
  ## DECATHLON | Magasin de Sport
  - [https://decathlon.fr](https://decathlon.fr)
  - date_published: 2024-05-01T04:25:12.340773+00:00
-
- ## Bienvenue sur le site Engagements de Decathlon
- - [https://engagements.decathlon.fr](https://engagements.decathlon.fr)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Tous les jobs chez Decathlon France
- - [https://joinus.decathlon.fr](https://joinus.decathlon.fr)
- - date_published: 2024-09-19T02:32:35.047804+00:00
-
- ## Location produits sportifs en abonnement, service inclus
- - [https://location-sports.decathlon.fr](https://location-sports.decathlon.fr)
- - date_published: 2024-09-19T16:29:51.520926+00:00
-
- ## Decathlon Recrutement Decathlon Recrutement Decathlon Recrutement
- - [https://recrutement.decathlon.fr](https://recrutement.decathlon.fr)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Welcome to your Strapi app
- - [https://rent-cms-v2.decathlon.fr](https://rent-cms-v2.decathlon.fr)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Bienvenue sur le site d'entretien et réparation de Decathlon
- - [https://support.decathlon.fr](https://support.decathlon.fr)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Location de tentes aménagées - Decathlon Camp
- - [https://www.location-tentes-amenagees.decathlon.fr](https://www.location-tentes-amenagees.decathlon.fr)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Matériel de sport & équipement sportif | Decathlon Pro
- - [https://decathlonpro.fr](https://decathlonpro.fr)
- - date_published: 2024-06-15T20:22:43.743415+00:00
-
- ## Personnalisation de vêtements de sport pour clubs | Decathlon Pro
- - [https://myteam.decathlonpro.fr](https://myteam.decathlonpro.fr)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Suivi de commande en ligne - DECATHLON PRO
- - [http://suivi.decathlonpro.fr](http://suivi.decathlonpro.fr)
- - date_published: 2024-09-19T14:42:06.274625+00:00
-
- ## Decitre.fr : Livres, Ebooks, romans, BD, polars et mangas en ligne
- - [http://www.decitre.fr](http://www.decitre.fr)
- - date_published: 2024-09-05T18:06:42.042141+00:00
-
- ## Déco.fr - Idées décoration, Conseils et Shopping pour la Maison
- - [https://www.deco.fr](https://www.deco.fr)
- - date_published: 2024-06-25T18:00:21+00:00
-
- ## L'Entonnoir du Bitcoin
- - [https://decouvrebitcoin.fr](https://decouvrebitcoin.fr)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## My Deejo – Tatouez et personnalisez votre couteau Deejo
- - [http://my.deejo.fr](http://my.deejo.fr)
- - date_published: 2024-06-26T21:44:36.875809+00:00
-
- ## John Deere France
- - [https://www.deere.fr](https://www.deere.fr)
- - date_published: 2024-09-19T19:37:21.979848+00:00
-
- ## Defrag
- - [http://www.defrag.fr](http://www.defrag.fr)
- - date_published: 2024-09-13T16:55:34.873466+00:00
-
- ## Courtage en ligne | Tarifs au plus bas | Courtier DEGIRO
- - [https://www.degiro.fr](https://www.degiro.fr)
- - date_published: 2024-05-31T14:27:58+00:00
-
- ## Home
- - [https://deif.fr](https://deif.fr)
- - date_published: 2024-05-01T04:33:21.814992+00:00
-
- ## seb.deleuze.fr
- - [https://seb.deleuze.fr](https://seb.deleuze.fr)
- - date_published: 2023-10-25T19:14:43.374157+00:00
-
- ## Careers at Deliveroo - Discover a career full of possibility
- - [https://careers.deliveroo.fr](https://careers.deliveroo.fr)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Deliveroo
- - [https://deliveroo.fr](https://deliveroo.fr)
- - date_published: 2024-07-03T06:08:13+00:00
-
- ## #DemainLaPresse - Le mouvement de tous les éditeurs de presse - ACPM
- - [https://demainlapresse.fr](https://demainlapresse.fr)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Hi, I'm Vincent Demeester
- - [https://vincent.demeester.fr](https://vincent.demeester.fr)
- - date_published: 2022-10-07T00:00:00+00:00
-
- ## Accueil | Denoël
- - [https://www.denoel.fr](https://www.denoel.fr)
- - date_published: 2024-07-12T15:16:42+00:00
-
- ## Département des Bouches-du-Rhône
- - [https://www.departement13.fr](https://www.departement13.fr)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## Valentin Deschaintre
- - [https://valentin.deschaintre.fr](https://valentin.deschaintre.fr)
- - date_published: 2024-05-09T18:10:23+00:00
-
- ## design↔commun
- - [https://designcommun.fr](https://designcommun.fr)
- - date_published: 2023-12-11T16:12:07.210274+00:00
-
- ## Qui sommes-nous ? - Office de Tourisme
- - [https://destination-rennes.fr](https://destination-rennes.fr)
- - date_published: 2024-05-07T00:00:00+00:00
 

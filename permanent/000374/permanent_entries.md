@@ -1,3 +1,139 @@
+ ## Home
+ - [https://leverpress.org](https://leverpress.org)
+ - date_published: 2024-10-19T11:07:12.509555+00:00
+
+ ## Levine Center for the Arts
+ - [https://levinecenterarts.org](https://levinecenterarts.org)
+ - date_published: 2022-11-04T13:28:55+00:00
+
+ ## Dr. Bruce's Levity Zone Podcast
+ - [https://levityzone.org](https://levityzone.org)
+ - date_published: 2024-06-15T23:55:14.809389+00:00
+
+ ## Plausible · Web analytics
+ - [https://analytics.levlaz.org](https://analytics.levlaz.org)
+ - date_published: 2024-05-08T09:34:38.123393+00:00
+
+ ## Lev Lazinskiy
+ - [https://levlaz.org](https://levlaz.org)
+ - date_published: 2024-01-20T17:36:08.936473+00:00
+
+ ## Home Page
+ - [https://www.levycounty.org](https://www.levycounty.org)
+ - date_published: 2024-07-03T14:32:05.453246+00:00
+
+ ## Levy Economics Institute of Bard College
+ - [https://levyinstitute.org](https://levyinstitute.org)
+ - date_published: 2024-06-04T16:37:05.527878+00:00
+
+ ## Levy County School District
+ - [http://www.levyk12.org](http://www.levyk12.org)
+ - date_published: 2024-07-03T14:32:00.834769+00:00
+
+ ## Lewes Saturday Folk Club
+ - [http://www.lewessaturdayfolkclub.org](http://www.lewessaturdayfolkclub.org)
+ - date_published: 2024-07-04T16:42:55+00:00
+
+ ## Strona główna - Konfederacja Lewiatan
+ - [https://lewiatan.org](https://lewiatan.org)
+ - date_published: 2024-10-22T21:16:59.716762+00:00
+
+ ## Lewis County Fair – Lowville, NY
+ - [http://lewiscountyfair.org](http://lewiscountyfair.org)
+ - date_published: 2024-07-08T22:29:58.634845+00:00
+
+ ## Lewis Research Group
+ - [http://lewisresearchgroup.org](http://lewisresearchgroup.org)
+ - date_published: 2024-07-21T08:55:55.791193+00:00
+
+ ## Home - CS Lewis Society of California
+ - [https://lewissociety.org](https://lewissociety.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://www.lexchecker.org](http://www.lexchecker.org)
+ - date_published: 2023-07-20T08:46:18+00:00
+
+ ## Lexington Historical Society
+ - [http://www.lexingtonhistory.org](http://www.lexingtonhistory.org)
+ - date_published: 2024-07-13T10:53:55.014288+00:00
+
+ ## 濡沫 Lez is more
+ - [https://lezismore.org](https://lezismore.org)
+ - date_published: 2022-11-21T00:00:00+00:00
+
+ ## Live Draw SDY - Live Sydney - Live Sydney Lotto - Top Sydney Wla
+ - [http://www.lfa2012.org](http://www.lfa2012.org)
+ - date_published: 2024-10-21T16:42:19.257411+00:00
+
+ ## Farkas, Levente's Homepage
+ - [http://www.lfarkas.org](http://www.lfarkas.org)
+ - date_published: 2007-08-29T10:34:34+00:00
+
+ ## Lafayette Federal Credit Union | Washington, DC, MD & VA
+ - [https://lfcu.org](https://lfcu.org)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## main lists.lfdecentralizedtrust.org Group
+ - [https://lists.lfdecentralizedtrust.org](https://lists.lfdecentralizedtrust.org)
+ - date_published: 2024-09-18T15:43:09.207646+00:00
+
+ ## LF Decentralized Trust - The open source foundation for decentralized technologies
+ - [https://www.lfdecentralizedtrust.org](https://www.lfdecentralizedtrust.org)
+ - date_published: 2024-09-18T15:13:10+00:00
+
+ ## Los Feliz Engineering
+ - [https://lfe.org](https://lfe.org)
+ - date_published: 2024-07-09T15:17:49.037651+00:00
+
+ ## LF EDGE: Building an Open Source Framework for the Edge. – Linux Foundation Project
+ - [https://www.lfedge.org](https://www.lfedge.org)
+ - date_published: 2024-06-26T22:41:17.428708+00:00
+
+ ## LF Energy – Leading the energy transition through  global open source collaboration.
+ - [https://lfenergy.org](https://lfenergy.org)
+ - date_published: 2024-05-08T05:36:32.015336+00:00
+
+ ## main lists.lfenergy.org Group
+ - [https://lists.lfenergy.org](https://lists.lfenergy.org)
+ - date_published: 2024-07-04T08:10:56.515958+00:00
+
+ ## LF Energy Landscape
+ - [https://l.lfenergy.org](https://l.lfenergy.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Welcome - LF Energy - LF Energy
+ - [https://wiki.lfenergy.org](https://wiki.lfenergy.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## LFFL – La tua risorsa Linux
+ - [http://www.lffl.org](http://www.lffl.org)
+ - date_published: 2024-09-13T18:07:10.607466+00:00
+
+ ## Library Foundation of Los Angeles
+ - [https://lfla.org](https://lfla.org)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## The Library Store
+ - [https://shop.lfla.org](https://shop.lfla.org)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Welcome | Lingua Franca
+ - [https://lf-lang.org](https://lf-lang.org)
+ - date_published: 2024-04-30T03:26:33.459800+00:00
+
+ ## Lingua Franca
+ - [https://zulip.lf-lang.org](https://zulip.lf-lang.org)
+ - date_published: 2024-07-22T07:35:43.195950+00:00
+
+ ## Lupus Foundation of Northern California
+ - [http://www.lfnc.org](http://www.lfnc.org)
+ - date_published: 2024-06-28T12:10:32.636779+00:00
+
+ ## Linux Foundation Networking Landscape
+ - [https://landscape.lfnetworking.org](https://landscape.lfnetworking.org)
+ - date_published: 2024-01-06T00:00:00+00:00
+
  ## LF Networking
  - [https://lfnetworking.org](https://lfnetworking.org)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -3900,140 +4036,4 @@ Intro
  ## Mississippi Association of Educators (MAE) | Mississippi Association of Educators
  - [http://maetoday.org](http://maetoday.org)
  - date_published: 2024-07-09T16:46:17.356209+00:00
-
- ## Give
- - [https://give.maf.org](https://give.maf.org)
- - date_published: 2023-07-07T19:43:36+00:00
-
- ## Home - Mission Aviation Fellowship
- - [https://maf.org](https://maf.org)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Mission Aviation Fellowship Gift Shop
- - [https://store.maf.org](https://store.maf.org)
- - date_published: 2024-07-07T07:04:38.935972+00:00
-
- ## Mage :: Mage
- - [https://magefile.org](https://magefile.org)
- - date_published: 2024-05-06T08:59:39.598620+00:00
-
- ## Mageia Blog (English)
- - [https://blog.mageia.org](https://blog.mageia.org)
- - date_published: 2024-07-07T04:07:41.714521+00:00
-
- ## Mageia Bugzilla Main Page
- - [https://bugs.mageia.org](https://bugs.mageia.org)
- - date_published: 2024-05-06T14:25:29.683164+00:00
-
- ## Mageia Identity Management
- - [https://identity.mageia.org](https://identity.mageia.org)
- - date_published: 2024-06-23T12:32:17.873192+00:00
-
- ## mageia-app-db
- - [https://madb.mageia.org](https://madb.mageia.org)
- - date_published: 2024-05-11T08:03:25.678256+00:00
-
- ## Home of the Mageia project
- - [https://mageia.org](https://mageia.org)
- - date_published: 2024-05-08T09:17:02.829366+00:00
-
- ## mognase doc
- - [https://nav.mageia.org](https://nav.mageia.org)
- - date_published: 2024-06-23T12:32:17.261818+00:00
-
- ## Planet Mageia (English)
- - [https://planet.mageia.org](https://planet.mageia.org)
- - date_published: 2024-06-30T21:28:33.432306+00:00
-
- ## ViewVC Repository Listing
- - [https://svnweb.mageia.org](https://svnweb.mageia.org)
- - date_published: 2024-05-06T14:25:27.127679+00:00
-
- ## Mageia wiki
- - [https://wiki.mageia.org](https://wiki.mageia.org)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Super Magfest
- - [https://super.magfest.org](https://super.magfest.org)
- - date_published: 2024-08-19T06:48:37.503947+00:00
-
- ## Magical Moon Farm & Foundation
- - [https://www.magicalmoon.org](https://www.magicalmoon.org)
- - date_published: 2024-05-07T15:28:17.343070+00:00
-
- ## JudgeApps | Home
- - [https://apps.magicjudges.org](https://apps.magicjudges.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Magical Miniature Landscapes - The History of Bonsai and Related Arts
- - [http://www.magiminiland.org](http://www.magiminiland.org)
- - date_published: 2024-09-14T15:22:16+00:00
-
- ## Home | MAG
- - [https://maginternational.org](https://maginternational.org)
- - date_published: 2024-05-12T06:31:15.812860+00:00
-
- ## Observatory Magna Charta Universitatum
- - [https://www.magna-charta.org](https://www.magna-charta.org)
- - date_published: 2024-04-29T06:59:06.093065+00:00
-
- ## HOME | Magnify Mentoring
- - [https://www.magnifymentoring.org](https://www.magnifymentoring.org)
- - date_published: 2024-06-21T11:39:26.662708+00:00
-
- ## magnoliavillage.org
- - [http://www.magnoliavillage.org](http://www.magnoliavillage.org)
- - date_published: 2024-09-12T19:17:30.376730+00:00
-
- ## Magpie Guide: Welcome
- - [https://magpie-lang.org](https://magpie-lang.org)
- - date_published: 2013-01-02T04:31:44+00:00
-
- ## Home | MAG
- - [https://www.mag-us.org](https://www.mag-us.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## magzDB | Вся периодика мира
- - [https://magzdb.org](https://magzdb.org)
- - date_published: 2024-05-06T15:11:49.566976+00:00
-
- ## Home - Mahara ePortfolio System
- - [https://mahara.org](https://mahara.org)
- - date_published: 2024-09-16T00:52:38.166238+00:00
-
- ## Mahara manuals
- - [https://manual.mahara.org](https://manual.mahara.org)
- - date_published: 2024-09-15T23:21:28+00:00
-
- ## Maharishi Programmes in India | maharishi-india.org
- - [https://maharishi-india.org](https://maharishi-india.org)
- - date_published: 2024-08-24T00:00:00+00:00
-
- ## Maheso Naturally Where we Provide Meaningful Value
- - [https://maheso-naturally.org](https://maheso-naturally.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Welcome - Colorado MahlerFest
- - [https://mahlerfest.org](https://mahlerfest.org)
- - date_published: 2018-10-22T23:14:57+00:00
-
- ## Mahler & LeWitt Studios – Residency program in Spoleto, Italy
- - [https://mahler-lewitt.org](https://mahler-lewitt.org)
- - date_published: 2024-09-06T21:47:46.967474+00:00
-
- ## Home | Mahoosuc Land Trust, Bethel Maine
- - [https://www.mahoosuc.org](https://www.mahoosuc.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Mahoro Network Status Service Monitoring
- - [https://status.mahoro-net.org](https://status.mahoro-net.org)
- - date_published: 2024-08-07T23:00:21.786650+00:00
-
- ## MAHRP – Maldives Association of Human Resources Professionals
- - [https://mahrp.org](https://mahrp.org)
- - date_published: 2024-05-10T06:33:51.299681+00:00
-
- ## Mail Avenger
- - [http://www.mailavenger.org](http://www.mailavenger.org)
- - date_published: 2010-04-06T23:20:30+00:00
 

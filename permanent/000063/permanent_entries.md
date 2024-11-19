@@ -1,3 +1,19 @@
+ ## Late but in Earnest
+ - [http://serosedseriocat.blogspot.com](http://serosedseriocat.blogspot.com)
+ - date_published: 2024-10-21T15:58:44.130816+00:00
+
+ ## Serpentarium
+ - [http://serpentarium-painting.blogspot.com](http://serpentarium-painting.blogspot.com)
+ - date_published: 2024-07-17T07:21:01+00:00
+
+ ## Summers on Haskell and {Eclipse,Emacs}
+ - [http://serras-haskell-gsoc.blogspot.com](http://serras-haskell-gsoc.blogspot.com)
+ - date_published: 2024-03-13T01:17:47+00:00
+
+ ## Servants of Ruin
+ - [http://servantsofruin.blogspot.com](http://servantsofruin.blogspot.com)
+ - date_published: 2024-04-09T05:28:58+00:00
+
  ## Service Ration Distribution (Hobby)
  - [https://servicerationdistributionhobby.blogspot.com](https://servicerationdistributionhobby.blogspot.com)
  - date_published: 2024-10-21T09:20:28+00:00
@@ -3998,20 +4014,4 @@
  ## Horus Heresy Wargaming Tactica
  - [https://the-newzealand-wordbearer.blogspot.com](https://the-newzealand-wordbearer.blogspot.com)
  - date_published: 2024-09-26T01:30:28+00:00
-
- ## The Nomad Junkyard
- - [https://the-nomad-junkyard.blogspot.com](https://the-nomad-junkyard.blogspot.com)
- - date_published: 2024-10-18T16:14:09.897998+00:00
-
- ## Enter the Nurgling
- - [http://thenurgling.blogspot.com](http://thenurgling.blogspot.com)
- - date_published: 2024-07-04T06:37:12+00:00
-
- ## The Nuton Cave/La Grotte des Nutons
- - [http://thenutoncave.blogspot.com](http://thenutoncave.blogspot.com)
- - date_published: 2024-07-16T17:17:36+00:00
-
- ## The Oakland Stage
- - [http://theoaklandstage.blogspot.com](http://theoaklandstage.blogspot.com)
- - date_published: 2013-10-19T00:00:00+00:00
 

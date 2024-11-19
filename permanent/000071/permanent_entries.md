@@ -1,3 +1,27 @@
+ ## Puck - Podcasts about open roles
+ - [https://app.careerpuck.com](https://app.careerpuck.com)
+ - date_published: 2024-07-12T06:01:14.016755+00:00
+
+ ## Puck - Find your People
+ - [https://careerpuck.com](https://careerpuck.com)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Puck Help Center
+ - [https://help.careerpuck.com](https://help.careerpuck.com)
+ - date_published: 2024-07-12T06:01:16.938920+00:00
+
+ ## Get Career Advice From Careers24.com | Careers24
+ - [https://careeradvice.careers24.com](https://careeradvice.careers24.com)
+ - date_published: 2024-08-19T12:52:10+00:00
+
+ ## careers24 | Find & Apply For Jobs & Vacancies Online
+ - [https://www.careers24.com](https://www.careers24.com)
+ - date_published: 2024-08-19T12:55:51.162051+00:00
+
+ ## Latest Education News: Admission, Board Exams, Result, Admit Card, Events and New Regulations
+ - [https://news.careers360.com](https://news.careers360.com)
+ - date_published: 2024-06-22T11:11:10+00:00
+
  ## Careers at Bright
  - [https://careersatbright.com](https://careersatbright.com)
  - date_published: 2023-10-25T13:18:11.594419+00:00
@@ -4013,28 +4037,4 @@
  ## Music Distribution with No Recurring Fees | CD Baby
  - [https://members.cdbaby.com](https://members.cdbaby.com)
  - date_published: 2024-05-15T00:00:00+00:00
-
- ## MúsicoDIY
- - [https://musicodiy.cdbaby.com](https://musicodiy.cdbaby.com)
- - date_published: 2024-10-04T07:01:40.205286+00:00
-
- ## DIY Musician Podcast - Music Promotion and Marketing tips for Indie Musicians
- - [https://podcast.cdbaby.com](https://podcast.cdbaby.com)
- - date_published: 2024-06-16T11:59:02.449416+00:00
-
- ## Your Release Plan Generator
- - [https://release.cdbaby.com](https://release.cdbaby.com)
- - date_published: 2024-06-16T11:58:57.656758+00:00
-
- ## Music Distribution with No Recurring Fees | CD Baby
- - [https://retail.cdbaby.com](https://retail.cdbaby.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## SomosMúsica
- - [https://somosmusica.cdbaby.com](https://somosmusica.cdbaby.com)
- - date_published: 2024-10-04T07:01:37.489696+00:00
-
- ## CD Baby Download Portal - Log In
- - [https://store.cdbaby.com](https://store.cdbaby.com)
- - date_published: 2024-05-10T05:13:50.067628+00:00
 

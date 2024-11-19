@@ -1,3 +1,116 @@
+ ## Home | Math Courses
+ - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Home | Connecticut Small Business Development Center
+ - [https://ctsbdc.uconn.edu](https://ctsbdc.uconn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Daigle Labs
+ - [https://daiglelabs.business.uconn.edu](https://daiglelabs.business.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Digital Frontiers Initiative | UConn School of Business
+ - [https://digitalfrontiers.business.uconn.edu](https://digitalfrontiers.business.uconn.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Office of Diversity Initiatives | UConn School of Business
+ - [http://diversity.business.uconn.edu](http://diversity.business.uconn.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Entrepreneurship Bootcamp for Veterans | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ebv.business.uconn.edu](http://ebv.business.uconn.edu)
+ - date_published: 2017-07-19T16:10:27+00:00
+
+ ## Home | Office of Institutional Equity
+ - [http://equity.uconn.edu](http://equity.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UConn Calendar
+ - [https://events.uconn.edu](https://events.uconn.edu)
+ - date_published: 2024-06-27T17:02:56+00:00
+
+ ## New Home | Faculty & Staff
+ - [https://facultystaff.uconn.edu](https://facultystaff.uconn.edu)
+ - date_published: 2024-07-01T21:49:56+00:00
+
+ ## FERPA Manager
+ - [https://ferpamanager.uconn.edu](https://ferpamanager.uconn.edu)
+ - date_published: 2024-07-01T23:19:15.523206+00:00
+
+ ## Home | UConn Finance Department - School of Business
+ - [http://finance.business.uconn.edu](http://finance.business.uconn.edu)
+ - date_published: 2024-07-01T23:23:37+00:00
+
+ ## Graduate Programs in Financial Technology (FinTech)
+ - [https://fintech.business.uconn.edu](https://fintech.business.uconn.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UConn Global Business Programs | School of Business
+ - [http://global.business.uconn.edu](http://global.business.uconn.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## HOME | Global Affairs
+ - [https://global.uconn.edu](https://global.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Goldenson Center
+ - [https://goldensoncenter.uconn.edu](https://goldensoncenter.uconn.edu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Graduate Business Programs | Graduate Programs
+ - [https://grad.business.uconn.edu](https://grad.business.uconn.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## The Graduate School | The Graduate School
+ - [https://grad.uconn.edu](https://grad.uconn.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Greenhouse Studios - Scholarly Communications Design at UConn
+ - [https://greenhousestudios.uconn.edu](https://greenhousestudios.uconn.edu)
+ - date_published: 2024-07-19T03:49:16.145807+00:00
+
+ ## Home | Hartford
+ - [https://hartford.uconn.edu](https://hartford.uconn.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Home | Healthcare Management & Insurance Studies
+ - [http://healthcare.business.uconn.edu](http://healthcare.business.uconn.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home | UConn Health
+ - [https://health.uconn.edu](https://health.uconn.edu)
+ - date_published: 2024-07-01T22:56:02+00:00
+
+ ## Home | Student Consumer Information
+ - [http://heoa.uconn.edu](http://heoa.uconn.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Online Graduate Programs in Human Resource Management | UConn HRM
+ - [http://hrm.business.uconn.edu](http://hrm.business.uconn.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Home | Human Resources
+ - [https://hr.uconn.edu](https://hr.uconn.edu)
+ - date_published: 2024-07-01T21:01:48+00:00
+
+ ## Human Rights Institute | University of Connecticut
+ - [https://humanrights.uconn.edu](https://humanrights.uconn.edu)
+ - date_published: 2024-07-22T07:54:38+00:00
+
+ ## Home | Innovation Quest
+ - [https://innovationquest.uconn.edu](https://innovationquest.uconn.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Keith Conrad's Home Page
+ - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
+ - date_published: 2024-05-07T15:58:32.946320+00:00
+ - tags: ['personal']
+
+ ## Home | Aurora
+ - [https://kendalllab.media.uconn.edu](https://kendalllab.media.uconn.edu)
+ - date_published: 2024-07-01T02:07:45+00:00
+
  ## Home | Kendall Lab
  - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
  - date_published: 2024-02-08T00:00:00+00:00
@@ -3889,116 +4002,4 @@
  ## eLearning - University of Florida
  - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
  - date_published: 2024-07-02T02:19:19.447279+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:06.799717+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:21:43+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi.ufl.edu](https://mbi.ufl.edu)
- - date_published: 2024-05-07T21:11:20.615371+00:00
-
- ## Forms & Requests
- - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:57.753234+00:00
-
- ## Mediasite
- - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
- - date_published: 2015-08-16T15:00:32+00:00
-
- ## College of Medicine » University of Florida
- - [http://med.ufl.edu](http://med.ufl.edu)
- - date_published: 2024-10-25T21:29:27+00:00
-
- ## Microbiology and Cell Science, University of Florida - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://microcell.ufl.edu](http://microcell.ufl.edu)
- - date_published: 2024-10-15T05:48:09.917681+00:00
-
- ## Welcome to myUFL
- - [https://my.ufl.edu](https://my.ufl.edu)
- - date_published: 2022-12-01T23:07:50+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:15:02+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
- - date_published: 2024-05-07T21:11:17.576118+00:00
-
- ## CLAS News
- - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
- - date_published: 2024-07-02T02:10:51.497253+00:00
-
- ## Current News
- - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
- - date_published: 2024-07-02T02:19:46.370243+00:00
-
- ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
- - [https://news.it.ufl.edu](https://news.it.ufl.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date_published: 2024-01-04T17:18:14.446846+00:00
-
- ## ONE.UF
- - [https://one.ufl.edu](https://one.ufl.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## InCommon Federation Discovery Service
- - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
- - date_published: 2024-07-02T02:08:20.186571+00:00
-
- ## UF/IFAS | PDEC | Program Development & Evaluation Center
- - [https://pdec.ifas.ufl.edu](https://pdec.ifas.ufl.edu)
- - date_published: 2024-10-15T06:40:23.195625+00:00
-
- ## Home
- - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
- - date_published: 2024-07-02T02:19:17.573739+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://personnel.ifas.ufl.edu](http://personnel.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:09.202938+00:00
-
- ## College of Pharmacy » University of Florida
- - [http://pharmacy.ufl.edu](http://pharmacy.ufl.edu)
- - date_published: 2024-10-19T04:47:43.627221+00:00
-
- ## Academic Integrity » College of Public Health and Health Professions » University of Florida
- - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T23:25:15+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## Fall 2023
- - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
- - date_published: 2024-07-02T02:10:36.550557+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:37:08+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp.ufl.edu](https://phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:59.230316+00:00
-
- ## Directory » University of Florida
- - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
- - date_published: 2024-07-02T02:19:07.703974+00:00
-
- ## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date_published: 2006-05-26T17:00:41+00:00
-
- ## Regulation and Policy Hub
- - [https://policy.ufl.edu](https://policy.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
 

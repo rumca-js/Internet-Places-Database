@@ -1,3 +1,103 @@
+ ## DERBYSTAR|SELECT OFFIZIELLE WEBSITE
+ - [https://www.derbystar.de](https://www.derbystar.de)
+ - date_published: 2024-09-25T19:10:45.623437+00:00
+
+ ## Der Dreißigjährige Krieg in 1/72 - The Thirty Years War in 1/72
+ - [https://www.der-dreissigjaehrige-krieg-in-1-72.de](https://www.der-dreissigjaehrige-krieg-in-1-72.de)
+ - date_published: 2024-05-24T09:34:10+00:00
+
+ ## Der große Gewinnregen
+ - [https://dergrossegewinnregen.de](https://dergrossegewinnregen.de)
+ - date_published: 2024-09-26T10:19:30.459479+00:00
+
+ ## Der IT-Deniz
+ - [https://www.der-it-deniz.de](https://www.der-it-deniz.de)
+ - date_published: 2024-07-14T15:46:41.540644+00:00
+
+ ## IT-Texter Michael Tischer
+ - [https://www.der-it-texter.de](https://www.der-it-texter.de)
+ - date_published: 2024-06-24T06:19:13.261146+00:00
+
+ ## Mitch's Blog
+ - [https://www.dermitch.de](https://www.dermitch.de)
+ - date_published: 2024-09-24T11:20:31+00:00
+
+ ## Startseite - Der Paritätische - Spitzenverband der Freien Wohlfahrtspflege
+ - [https://www.der-paritaetische.de](https://www.der-paritaetische.de)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Der Patriot
+ - [https://www.derpatriot.de](https://www.derpatriot.de)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## derStandard.de
+ - [https://www.derstandard.de](https://www.derstandard.de)
+ - date_published: 2024-06-16T22:06:07.371778+00:00
+
+ ## der tag und ich
+ - [https://www.dertagundich.de](https://www.dertagundich.de)
+ - date_published: 2024-07-02T18:31:31.249140+00:00
+
+ ## derwesten.de - Nachrichten für den Westen
+ - [https://www.derwesten.de](https://www.derwesten.de)
+ - date_published: 2024-06-25T22:36:45.142018+00:00
+
+ ## Der Windows Papst - Windows Office Security Blog
+ - [https://www.der-windows-papst.de](https://www.der-windows-papst.de)
+ - date_published: 2014-09-15T16:22:38+00:00
+
+ ## SpeedIT Solutions - Statusseite
+ - [https://serverstatus.de-serv.de](https://serverstatus.de-serv.de)
+ - date_published: 2024-06-16T06:01:03.053082+00:00
+
+ ## dbf.design Frankfurt – Partner für Grafik & Corporate Design
+ - [https://www.designbuero-frankfurt.de](https://www.designbuero-frankfurt.de)
+ - date_published: 2015-10-13T13:48:57+00:00
+
+ ## Design Business Days
+ - [https://www.designbusinessdays.de](https://www.designbusinessdays.de)
+ - date_published: 2024-10-29T14:04:52.867800+00:00
+
+ ## Design made in Germany
+ - [https://www.designmadeingermany.de](https://www.designmadeingermany.de)
+ - date_published: 2024-07-14T08:31:17.677778+00:00
+
+ ## Loading ...
+ - [https://pur.desired.de](https://pur.desired.de)
+ - date_published: 2024-09-19T13:13:21+00:00
+
+ ## Das moderne Frauenmagazin für Mode, Beauty, Lifestyle, Trends & Stars
+ - [https://www.desired.de](https://www.desired.de)
+ - date_published: 2024-06-16T09:52:21.492295+00:00
+
+ ## Deskmodder.de - News zum Thema Microsoft, Windows 11 / 10, sowie anderen Neuigkeiten aus dem Netz, viele Tipps und individuelle Hilfe bei Problemen in unserem Forum ● Deskmodder - seit 2003
+ - [https://www.deskmodder.de](https://www.deskmodder.de)
+ - date_published: 2024-06-27T16:10:26.799166+00:00
+
+ ## Lotz Optik – Wiesbaden
+ - [https://despe.de](https://despe.de)
+ - date_published: 2024-05-13T03:45:20.164168+00:00
+
+ ## Login - Universal Banner Manager
+ - [http://merchandise.despe.de](http://merchandise.despe.de)
+ - date_published: 2024-07-17T11:39:29.300877+00:00
+
+ ## Tierpark Dessau - ein Besuch lohnt sich!
+ - [https://tierpark.dessau-rosslau.de](https://tierpark.dessau-rosslau.de)
+ - date_published: 2024-07-13T16:18:07.189510+00:00
+
+ ## Visit Dessau - Tourismusportal der Stadt Dessau-Roßlau
+ - [https://tourismus.dessau-rosslau.de](https://tourismus.dessau-rosslau.de)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.dessau-rosslau.de](https://www.dessau-rosslau.de)
+ - date_published: 2024-07-13T16:18:26.671340+00:00
+
+ ## Stadtarchiv Dessau-Roßlau
+ - [http://www.stadtarchiv.dessau-rosslau.de](http://www.stadtarchiv.dessau-rosslau.de)
+ - date_published: 2024-07-13T16:17:56.128334+00:00
+
  ## DESY ACCELERATORS
  - [https://accelerators.desy.de](https://accelerators.desy.de)
  - date_published: 2023-05-12T11:11:43+00:00
@@ -3917,105 +4017,4 @@ Heinsohn
  ## Frauen MINT-Award
  - [https://frauen-mint-award.de](https://frauen-mint-award.de)
  - date_published: 2024-04-29T06:30:02.983947+00:00
-
- ## Deutscher Frauenrat – Die starke Stimme für Frauen
- - [https://www.frauenrat.de](https://www.frauenrat.de)
- - date_published: 2024-10-31T04:41:36.167709+00:00
-
- ## Frauke Schnoor
- - [http://fraukeschnoor.de](http://fraukeschnoor.de)
- - date_published: 2024-07-13T16:03:17.353169+00:00
-
- ## Fraunhofer-Allianz Big Data und Künstliche Intelligenz
- - [http://bigdata.fraunhofer.de](http://bigdata.fraunhofer.de)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Startseite Fraunhofer Forschungsfertigung Batteriezelle
- - [https://ffb.fraunhofer.de](https://ffb.fraunhofer.de)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Deutsch -  Fraunhofer FKIE
- - [https://fkie.fraunhofer.de](https://fkie.fraunhofer.de)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Startseite Fraunhofer-Gesellschaft
- - [https://fraunhofer.de](https://fraunhofer.de)
- - date_published: 2024-03-14T00:00:00+00:00
- - tags: ['news']
-
- ## Fraunhofer Heinrich-Hertz-Institut
- - [https://hhi.fraunhofer.de](https://hhi.fraunhofer.de)
- - date_published: 2024-04-29T06:11:22.064460+00:00
-
- ## Fraunhofer IISB (English)
- - [https://iisb.fraunhofer.de](https://iisb.fraunhofer.de)
- - date_published: 2023-10-25T18:30:29.853786+00:00
-
- ## Karriere Fraunhofer-Gesellschaft
- - [https://jobs.fraunhofer.de](https://jobs.fraunhofer.de)
- - date_published: 2024-04-29T06:10:51.917844+00:00
-
- ## ホーム
- - [https://jp.hhi.fraunhofer.de](https://jp.hhi.fraunhofer.de)
- - date_published: 2024-07-24T07:32:49.483514+00:00
-
- ## Malpedia (Fraunhofer FKIE)
- - [https://malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Institute for Digital Medicine -  Fraunhofer MEVIS
- - [https://mevis.fraunhofer.de](https://mevis.fraunhofer.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Startseite Fraunhofer-Gesellschaft
- - [https://newsletter.fraunhofer.de](https://newsletter.fraunhofer.de)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stats.ise.fraunhofer.de](https://stats.ise.fraunhofer.de)
- - date_published: 2024-04-28T01:53:40.624712+00:00
-
- ## Fraunhofer CINES
- - [https://www.cines.fraunhofer.de](https://www.cines.fraunhofer.de)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Fraunhofer CCIT - Deutsch
- - [https://www.cit.fraunhofer.de](https://www.cit.fraunhofer.de)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## ELLB - Europäisches Lernlabor Batteriezelle
- - [https://www.ellb.fraunhofer.de](https://www.ellb.fraunhofer.de)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## WIR VERNETZEN ALLES
- - [https://www.fokus.fraunhofer.de](https://www.fokus.fraunhofer.de)
- - date_published: 2024-04-29T06:11:03.522887+00:00
-
- ## Fraunhofer IAIS
- - [https://www.iais.fraunhofer.de](https://www.iais.fraunhofer.de)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Fraunhofer-Institut für Digitale Medientechnologie IDMT -  Fraunhofer IDMT
- - [https://www.idmt.fraunhofer.de](https://www.idmt.fraunhofer.de)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## 21th International Conference on Intelligent Environments - IE2025
- - [https://www.ie2025.fraunhofer.de](https://www.ie2025.fraunhofer.de)
- - date_published: 2024-10-28T06:56:46.443390+00:00
-
- ## Fraunhofer-Institut für Experimentelles Software Engineering IESE - Kaiserslautern
- - [https://www.iese.fraunhofer.de](https://www.iese.fraunhofer.de)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Fraunhofer IIS
- - [https://www.iis.fraunhofer.de](https://www.iis.fraunhofer.de)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Kompetenz in Keramik | Fraunhofer IKTS
- - [https://www.ikts.fraunhofer.de](https://www.ikts.fraunhofer.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Deutsch -  Fraunhofer IMS
- - [https://www.ims.fraunhofer.de](https://www.ims.fraunhofer.de)
- - date_published: 2024-05-02T00:00:00+00:00
 

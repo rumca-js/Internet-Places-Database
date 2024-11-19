@@ -1,3 +1,15 @@
+ ## Comprehensive Guide to Psychiatric Drugs & Diagnoses | BehaveNet
+ - [http://www.behavenet.com](http://www.behavenet.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## BehavioralEconomics.com | The BE Hub
+ - [https://www.behavioraleconomics.com](https://www.behavioraleconomics.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Behaviorbabe: All Things ABA
+ - [https://www.behaviorbabe.com](https://www.behaviorbabe.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Home - Behavior Bitches
  - [https://www.behaviorbitches.com](https://www.behaviorbitches.com)
  - date_published: 2024-07-08T00:00:00+00:00
@@ -4024,16 +4036,4 @@
  ## Elections législatives 2024: les résultats complets
  - [https://elections.bfmtv.com](https://elections.bfmtv.com)
  - date_published: 2024-07-08T08:41:34+00:00
-
- ## Météo en France : Prévisions météo à 15 jours - BFMTV
- - [https://meteo.bfmtv.com](https://meteo.bfmtv.com)
- - date_published: 2024-07-12T05:42:47.890719+00:00
-
- ## RMC : votre radio d'opinions, émissions politiques et de société
- - [https://rmc.bfmtv.com](https://rmc.bfmtv.com)
- - date_published: 2024-07-12T05:42:51.102477+00:00
-
- ## RMC Sport : l'actu du sport en direct et en continu
- - [https://rmcsport.bfmtv.com](https://rmcsport.bfmtv.com)
- - date_published: 2024-07-12T05:42:53.538824+00:00
 

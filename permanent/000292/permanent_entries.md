@@ -1,3 +1,120 @@
+ ## Wazo Platform
+ - [https://wazo-platform.discourse.group](https://wazo-platform.discourse.group)
+ - date_published: 2024-10-31T04:40:54.070318+00:00
+
+ ## WLED
+ - [https://wled.discourse.group](https://wled.discourse.group)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Zola
+ - [https://zola.discourse.group](https://zola.discourse.group)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## EIKON – Delivering quality and precision at scale
+ - [https://eikon.group](https://eikon.group)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Faculty Group
+ - [https://faculty.group](https://faculty.group)
+ - date_published: 2024-09-25T15:07:04.771642+00:00
+
+ ## FAN Collective
+ - [https://fan.group](https://fan.group)
+ - date_published: 2024-07-13T16:16:18.555773+00:00
+
+ ## Fitch Ratings: Credit Ratings & Analysis For Financial Markets
+ - [https://your.fitch.group](https://your.fitch.group)
+ - date_published: 2024-05-04T06:13:39.074263+00:00
+
+ ## Flowbird - Urban intelligence
+ - [https://www.flowbird.group](https://www.flowbird.group)
+ - date_published: 2024-10-16T19:15:27.256889+00:00
+
+ ## Frasers
+ - [https://frasers.group](https://frasers.group)
+ - date_published: 2024-09-02T08:58:01+00:00
+
+ ## GAMURS Group
+ - [https://gamurs.group](https://gamurs.group)
+ - date_published: 2024-05-01T04:49:11.051290+00:00
+
+ ## ▷ Promoting local identities around the world | geoTLD.group
+ - [https://geotld.group](https://geotld.group)
+ - date_published: 2024-07-03T04:20:34.763815+00:00
+
+ ## Home - Golden Circle Group
+ - [https://goldencircle.group](https://goldencircle.group)
+ - date_published: 2024-10-23T23:47:14+00:00
+
+ ## HDI Karriere | Unsere Möglichkeiten für Deine Karriere
+ - [https://careers.hdi.group](https://careers.hdi.group)
+ - date_published: 2024-07-24T06:05:33.172764+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://images.hermanmiller.group](https://images.hermanmiller.group)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Where Your Best Belongs
+ - [https://careers.hilti.group](https://careers.hilti.group)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home
+ - [https://www.hilti.group](https://www.hilti.group)
+ - date_published: 2024-06-20T07:26:49.348029+00:00
+
+ ## Hyve | unmissable events  - Hyve Group
+ - [https://hyve.group](https://hyve.group)
+ - date_published: 2024-09-24T22:55:15.592610+00:00
+
+ ## I SAY - Digital Agency
+ - [https://isay.group](https://isay.group)
+ - date_published: 2024-10-18T23:19:38.389868+00:00
+
+ ## KDAB Group - Trusted Software Excellence | KDAB Group
+ - [https://kdab.group](https://kdab.group)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Home | Gruppe Laokoon
+ - [https://www.laokoon.group](https://www.laokoon.group)
+ - date_published: 2024-08-18T05:20:28.130167+00:00
+
+ ## Lokomotiv – Group
+ - [https://lokomotiv.group](https://lokomotiv.group)
+ - date_published: 2024-09-18T15:28:38.364632+00:00
+
+ ## Home - Loopia Group
+ - [https://loopia.group](https://loopia.group)
+ - date_published: 2024-10-03T19:55:23.857062+00:00
+
+ ## Lutech | Your Digital Evolution Company
+ - [https://lutech.group](https://lutech.group)
+ - date_published: 2024-07-04T12:31:25.018264+00:00
+
+ ## Startseite
+ - [https://mbmedien.group](https://mbmedien.group)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Homepage - MOHAB Group
+ - [https://www.mohab.group](https://www.mohab.group)
+ - date_published: 2019-12-19T00:00:00+00:00
+
+ ## negg® Academy
+ - [https://academy.negg.group](https://academy.negg.group)
+ - date_published: 2024-07-19T20:29:13.600721+00:00
+
+ ## LMS - negg® Group - Learning Management System
+ - [https://lms.negg.group](https://lms.negg.group)
+ - date_published: 2024-07-19T20:29:15.064380+00:00
+
+ ## Cyber Security solutions for Companies and Government
+ - [https://negg.group](https://negg.group)
+ - date_published: 2024-02-06T11:06:38+00:00
+ - tags: ['spyware vendor']
+
+ ## NewEconoLabs
+ - [https://nel.group](https://nel.group)
+ - date_published: 2024-07-27T06:22:48.533343+00:00
+
  ## Netpeak Group — Офіційний сайт групи ІТ-компаній
  - [https://netpeak.group](https://netpeak.group)
  - date_published: 2024-06-30T09:28:36.538664+00:00
@@ -3897,120 +4014,4 @@
  ## Addiko eBank
  - [https://ecorp.addiko.hr](https://ecorp.addiko.hr)
  - date_published: 2024-08-06T21:27:41+00:00
-
- ## SME
- - [https://kreditizapoduzetnike.addiko.hr](https://kreditizapoduzetnike.addiko.hr)
- - date_published: 2024-05-21T10:39:32+00:00
-
- ## ADDIKO VIRTUALNA POSLOVNICA
- - [https://virtualnaposlovnica.addiko.hr](https://virtualnaposlovnica.addiko.hr)
- - date_published: 2022-09-06T07:08:02+00:00
-
- ## Addiko Bank Hrvatska
- - [https://www.addiko.hr](https://www.addiko.hr)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home page
- - [http://www.adecco.hr](http://www.adecco.hr)
- - date_published: 2024-10-29T04:28:48.917275+00:00
-
- ## Journal of Central European Agriculture
- - [http://jcea.agr.hr](http://jcea.agr.hr)
- - date_published: 2024-10-30T20:18:27+00:00
-
- ## Agronetto Hrvatska – online platforma za prodaju poljoprivrednih strojeva i rezervnih dijelova
- - [https://agronetto.hr](https://agronetto.hr)
- - date_published: 2024-08-11T15:42:53.115643+00:00
-
- ## Alatnica Mikuš
- - [http://alatnicamikus.hr](http://alatnicamikus.hr)
- - date_published: 2024-07-18T06:36:08.922855+00:00
-
- ## Alfa Romeo
- - [https://www.alfaromeo.hr](https://www.alfaromeo.hr)
- - date_published: 2024-06-07T22:35:30+00:00
-
- ## Budi izvrstan u onom što voliš. Zaiskri!
- - [https://www.algebra.hr](https://www.algebra.hr)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Agencija za mobilnost i programe EU
- - [https://www.ampeu.hr](https://www.ampeu.hr)
- - date_published: 2024-09-15T20:57:57.918003+00:00
-
- ## ArtKvart – Umjetnost, kultura i društvena zbivanja
- - [https://artkvart.hr](https://artkvart.hr)
- - date_published: 2024-06-30T07:01:40+00:00
-
- ## Agencija za zaštitu osobnih podataka
- - [https://azop.hr](https://azop.hr)
- - date_published: 2024-10-20T14:14:14.640141+00:00
-
- ## Autobus ili dijeljenje prijevoza? Putuj povoljno. | BlaBlaCar
- - [https://blablacar.hr](https://blablacar.hr)
- - date_published: 2024-06-15T01:01:05.619599+00:00
-
- ## BlaBlaLife
- - [https://blog.blablacar.hr](https://blog.blablacar.hr)
- - date_published: 2024-09-15T19:55:32.192458+00:00
-
- ## AntonioR DevLog
- - [http://antonior-software.blogspot.hr](http://antonior-software.blogspot.hr)
- - date_published: 2024-06-24T15:30:09+00:00
-
- ## Gardens of Hecate
- - [http://gardensofhecate.blogspot.hr](http://gardensofhecate.blogspot.hr)
- - date_published: 2024-03-13T04:32:08+00:00
-
- ## Službena BMW web stranica: Premium vozila i inovacije
- - [http://www.bmw.hr](http://www.bmw.hr)
- - date_published: 2024-10-02T11:12:17.552230+00:00
-
- ## Come work with us.
- - [https://accountable-us.breezy.hr](https://accountable-us.breezy.hr)
- - date_published: 2024-07-15T04:28:07.358955+00:00
-
- ## WE'RE LOOKING FOR PEOPLE WITH PASSION
- - [https://active-interest-media.breezy.hr](https://active-interest-media.breezy.hr)
- - date_published: 2024-07-08T16:05:34.601155+00:00
-
- ## Come work with us.
- - [https://akuity.breezy.hr](https://akuity.breezy.hr)
- - date_published: 2024-04-28T02:36:32.229438+00:00
-
- ## Pushing productivity forward
- - [https://any-do.breezy.hr](https://any-do.breezy.hr)
- - date_published: 2024-09-30T11:42:20.395804+00:00
-
- ## Join the Apostrophe team.
- - [https://apostrophe-technologies.breezy.hr](https://apostrophe-technologies.breezy.hr)
- - date_published: 2024-10-31T03:42:05.134685+00:00
-
- ## Sign In
- - [https://app.breezy.hr](https://app.breezy.hr)
- - date_published: 2024-07-14T05:08:39.063123+00:00
-
- ## Breezy HR CDN
- - [https://assets-cdn.breezy.hr](https://assets-cdn.breezy.hr)
- - date_published: 2016-09-01T14:30:35+00:00
-
- ## Modern Hiring Software & Applicant Tracking System | Breezy HR
- - [https://aura-health.breezy.hr](https://aura-health.breezy.hr)
- - date_published: 2024-10-30T10:30:51.112178+00:00
-
- ## Beek: Join the best worldwide Superheroes Team
- - [https://beek.breezy.hr](https://beek.breezy.hr)
- - date_published: 2024-07-04T02:26:53.327074+00:00
-
- ## Come work with us.
- - [https://bota-systems-ag.breezy.hr](https://bota-systems-ag.breezy.hr)
- - date_published: 2024-09-05T21:52:38.702926+00:00
-
- ## Come work with Brainscape
- - [https://brainscape.breezy.hr](https://brainscape.breezy.hr)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Modern Hiring Software & Applicant Tracking System | Breezy HR
- - [https://breezy.hr](https://breezy.hr)
- - date_published: 2024-05-09T00:00:00+00:00
 

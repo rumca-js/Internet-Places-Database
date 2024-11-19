@@ -1,3 +1,15 @@
+ ## Michał J. Biel
+ - [https://michalbiel.bandcamp.com](https://michalbiel.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The Assumption, by Michele Thomas
+ - [https://michelethomasmusic.bandcamp.com](https://michelethomasmusic.bandcamp.com)
+ - date_published: 2024-07-19T04:59:15.481509+00:00
+
+ ## Merch from Michelle Gurevich - EU Store
+ - [https://michellegurevich.bandcamp.com](https://michellegurevich.bandcamp.com)
+ - date_published: 2024-07-19T19:40:43.036448+00:00
+
  ## Japanese Breakfast
  - [https://michellezauner.bandcamp.com](https://michellezauner.bandcamp.com)
  - date_published: 2024-09-16T00:00:00+00:00
@@ -3994,17 +4006,4 @@ rain or shine
  ## Tools for Thinkers - High quality paper notebooks, pens, &amp; backpacks.
  - [https://www.baronfig.com](https://www.baronfig.com)
  - date_published: 2024-07-11T10:51:14.214855+00:00
-
- ## Baron of Dice
- - [https://baronofdice.com](https://baronofdice.com)
- - date_published: 2024-01-10T00:00:00+00:00
- - tags: ['shop']
-
- ## Barony Official Game Website
- - [https://baronygame.com](https://baronygame.com)
- - date_published: 2024-05-09T09:07:30.951205+00:00
-
- ## Baroque Software
- - [https://baroquesoftware.com](https://baroquesoftware.com)
- - date_published: 2018-01-04T12:27:28+00:00
 

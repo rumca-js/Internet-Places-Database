@@ -1,3 +1,33 @@
+ ## cubicle 17 - a blog by Bill Israel
+ - [http://blog.cubicle17.com](http://blog.cubicle17.com)
+ - date_published: 2016-08-27T00:00:00+00:00
+
+ ## bill israel | software developer & cocktail nerd in nashville, tn
+ - [http://cubicle17.com](http://cubicle17.com)
+ - date_published: 2019-05-27T19:48:40+00:00
+
+ ## Explore New Worlds with Tabletop RPGs  | Cubicle 7 Games
+ - [https://cubicle7games.com](https://cubicle7games.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+ - tags: ['broken weave', 'doctor who', 'role playing games', 'warhammer', 'tabletop games', 'ttrpg']
+
+ ## CubicleNate's Techpad
+ - [https://cubiclenate.com](https://cubiclenate.com)
+ - date_published: 2024-08-30T12:14:52+00:00
+
+ ## Cubicle Ninjas | A Full-Service Digital Agency | Creative Design Agency
+ - [https://cubicleninjas.com](https://cubicleninjas.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.cubieforums.com](http://www.cubieforums.com)
+ - date_published: 2024-06-17T06:43:11.378506+00:00
+
+ ## CubieTech – Dedicated Open Source Hardware Vendor
+ - [http://www.cubietech.com](http://www.cubietech.com)
+ - date_published: 2024-06-17T06:33:11+00:00
+ - tags: ['single board computers']
+
  ## Home
  - [https://cubixedu.com](https://cubixedu.com)
  - date_published: 2024-05-06T00:00:00+00:00
@@ -4009,32 +4039,4 @@ for your agency
  ## EU Notice | Daily Press
  - [https://jobs.dailypress.com](https://jobs.dailypress.com)
  - date_published: 2024-05-01T03:33:32.538482+00:00
-
- ## IIS Windows Server
- - [https://myaccount2.dailypress.com](https://myaccount2.dailypress.com)
- - date_published: 2022-08-03T17:27:04+00:00
-
- ## Shop the Daily Press Official Store
- - [https://store.dailypress.com](https://store.dailypress.com)
- - date_published: 2024-05-01T03:33:39.319267+00:00
-
- ## Tidewater Review
- - [https://tr-enewspaper.dailypress.com](https://tr-enewspaper.dailypress.com)
- - date_published: 2024-05-01T03:33:20.465015+00:00
-
- ## Media Kit | The Princetonian
- - [https://business.dailyprincetonian.com](https://business.dailyprincetonian.com)
- - date_published: 2024-05-01T03:33:47.761141+00:00
-
- ## Crosswords | The Daily Princetonian
- - [https://crossword.dailyprincetonian.com](https://crossword.dailyprincetonian.com)
- - date_published: 2024-04-17T18:18:55+00:00
-
- ## The Daily Princetonian
- - [https://dailyprincetonian.com](https://dailyprincetonian.com)
- - date_published: 2023-10-25T13:41:55.082519+00:00
-
- ## Donate to The Daily Princetonian
- - [https://donate.dailyprincetonian.com](https://donate.dailyprincetonian.com)
- - date_published: 2024-08-20T21:45:59+00:00
 

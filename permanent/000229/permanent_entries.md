@@ -1,3 +1,95 @@
+ ## Gravity and Levity | A blog about the big ideas in physics, plus a few other things
+ - [https://gravityandlevity.wordpress.com](https://gravityandlevity.wordpress.com)
+ - date_published: 2023-10-25T18:12:20.895831+00:00
+
+ ## Down by the Dougie
+ - [https://greatacre.wordpress.com](https://greatacre.wordpress.com)
+ - date_published: 2024-10-17T13:11:23.107798+00:00
+
+ ## Great Human Capital
+ - [http://greathumancapital.wordpress.com](http://greathumancapital.wordpress.com)
+ - date_published: 2024-10-19T07:03:19.304840+00:00
+
+ ## Esai dan tulisan-tulisan yang tak dapat dicerna
+ - [https://greatprasetya.wordpress.com](https://greatprasetya.wordpress.com)
+ - date_published: 2024-01-07T22:19:07.848954+00:00
+
+ ## Great War Fiction
+ - [http://greatwarfiction.wordpress.com](http://greatwarfiction.wordpress.com)
+ - date_published: 2024-08-11T12:51:21.610984+00:00
+
+ ## The Great Wen
+ - [http://greatwenlondon.wordpress.com](http://greatwenlondon.wordpress.com)
+ - date_published: 2024-08-19T16:13:09.474592+00:00
+
+ ## GreedyRaven Painting
+ - [http://greedyraven.wordpress.com](http://greedyraven.wordpress.com)
+ - date_published: 2024-10-26T22:06:37.435566+00:00
+
+ ## GreenChemBlog
+ - [https://greenchemblog.wordpress.com](https://greenchemblog.wordpress.com)
+ - date_published: 2024-10-19T04:30:17.692857+00:00
+
+ ## Greenfyre's
+ - [http://greenfyre.wordpress.com](http://greenfyre.wordpress.com)
+ - date_published: 2024-06-30T02:44:12.530956+00:00
+
+ ## Green Jihad
+ - [https://greenjihad.wordpress.com](https://greenjihad.wordpress.com)
+ - date_published: 2024-05-04T08:48:11.162390+00:00
+
+ ## project-green-smw
+ - [https://greensmw.wordpress.com](https://greensmw.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## L'Antre de Gregauryc
+ - [https://gregauryc.wordpress.com](https://gregauryc.wordpress.com)
+ - date_published: 2024-10-26T21:42:33.751549+00:00
+
+ ## Bilsland's Blog
+ - [https://gregbilsland.wordpress.com](https://gregbilsland.wordpress.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Greg DeKoenigsberg Speaks
+ - [https://gregdekspeaks.wordpress.com](https://gregdekspeaks.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Slow and Faithful
+ - [https://gregdychecom.wordpress.com](https://gregdychecom.wordpress.com)
+ - date_published: 2024-05-04T08:48:19.539708+00:00
+
+ ## Real Health Reform:            Our Money, Our Health, Our Choice!
+ - [http://gregscandlen.wordpress.com](http://gregscandlen.wordpress.com)
+ - date_published: 2024-06-20T04:22:10.879398+00:00
+
+ ## Greg's Blog
+ - [https://gregstoll.wordpress.com](https://gregstoll.wordpress.com)
+ - date_published: 2024-07-15T06:37:49.073337+00:00
+
+ ## The Arts and Ordeals of Niklas Åkerblad
+ - [http://grenig.wordpress.com](http://grenig.wordpress.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Grenouille Bouillie
+ - [https://grenouillebouillie.wordpress.com](https://grenouillebouillie.wordpress.com)
+ - date_published: 2024-05-09T07:39:00.340295+00:00
+
+ ## Grimcron Warhammer 40k
+ - [https://grimcron.wordpress.com](https://grimcron.wordpress.com)
+ - date_published: 2024-10-26T16:18:09.640575+00:00
+
+ ## Growing Up Transgender
+ - [https://growinguptransgender.wordpress.com](https://growinguptransgender.wordpress.com)
+ - date_published: 2024-09-02T13:05:12.998592+00:00
+
+ ## the invisible scientist
+ - [http://grrlscientist.wordpress.com](http://grrlscientist.wordpress.com)
+ - date_published: 2024-10-29T18:42:15.790439+00:00
+
+ ## Grünschreiber
+ - [http://gruenschreiber.wordpress.com](http://gruenschreiber.wordpress.com)
+ - date_published: 2024-06-30T04:14:03.079377+00:00
+
  ## (no title)
  - [https://grumpyscottishman.wordpress.com](https://grumpyscottishman.wordpress.com)
  - date_published: 2024-10-21T16:09:57.174816+00:00
@@ -3922,96 +4014,4 @@
  ## martin scriblerus
  - [https://martinscriblerus.wordpress.com](https://martinscriblerus.wordpress.com)
  - date_published: 2024-10-21T14:29:53.718434+00:00
-
- ## Martin Sketchley
- - [https://martinsketchley.wordpress.com](https://martinsketchley.wordpress.com)
- - date_published: 2024-05-04T14:31:55.130131+00:00
-
- ## Martin Taal's Blog
- - [https://martintaal.wordpress.com](https://martintaal.wordpress.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Author Marva Seaton
- - [https://marvaseaton.wordpress.com](https://marvaseaton.wordpress.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Marxist TEFL Group
- - [http://marxistelf.wordpress.com](http://marxistelf.wordpress.com)
- - date_published: 2024-10-21T18:55:36.587906+00:00
-
- ## The Marxist-Leninist
- - [http://marxistleninist.wordpress.com](http://marxistleninist.wordpress.com)
- - date_published: 2024-10-21T17:05:45.063686+00:00
-
- ## MaryJBlog
- - [http://maryjblog.wordpress.com](http://maryjblog.wordpress.com)
- - date_published: 2024-06-30T07:29:49.384467+00:00
-
- ## MJ Speaks
- - [https://maryjob.wordpress.com](https://maryjob.wordpress.com)
- - date_published: 2024-05-12T05:42:33.726459+00:00
-
- ## Marylee's Dream
- - [http://maryleesdream.wordpress.com](http://maryleesdream.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Mashed Radish
- - [https://mashedradish.wordpress.com](https://mashedradish.wordpress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## MASKS OF AUTISM
- - [http://masksofautism.wordpress.com](http://masksofautism.wordpress.com)
- - date_published: 2024-09-03T23:03:13.049630+00:00
-
- ## The Pandora Report
- - [https://masonbiodefense.wordpress.com](https://masonbiodefense.wordpress.com)
- - date_published: 2024-06-17T10:47:31.147603+00:00
-
- ## Mason Dixon Tactical
- - [https://masondixontactical.wordpress.com](https://masondixontactical.wordpress.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Mason Evans
- - [https://masonevanery.wordpress.com](https://masonevanery.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## massthink
- - [http://massthink.wordpress.com](http://massthink.wordpress.com)
- - date_published: 2024-06-30T04:30:56.671978+00:00
-
- ## Master of Olympus
- - [https://masterofolympus.wordpress.com](https://masterofolympus.wordpress.com)
- - date_published: 2024-10-20T12:54:55.825349+00:00
-
- ## Master Organic Chemistry
- - [http://masterorganicchemistry.wordpress.com](http://masterorganicchemistry.wordpress.com)
- - date_published: 2024-10-19T04:41:31.983798+00:00
-
- ## mat1238
- - [https://mat1238.wordpress.com](https://mat1238.wordpress.com)
- - date_published: 2024-05-12T05:52:48.903765+00:00
-
- ## Material Histories
- - [http://materialhistories.wordpress.com](http://materialhistories.wordpress.com)
- - date_published: 2024-06-24T10:50:48.785125+00:00
-
- ## Mapping the sweet goodies on to Paper
- - [https://materializingsweetness.wordpress.com](https://materializingsweetness.wordpress.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## MateusBellomo
- - [https://mateusbellomo.wordpress.com](https://mateusbellomo.wordpress.com)
- - date_published: 2024-07-09T08:14:12.653945+00:00
-
- ## mathbabe
- - [https://mathbabe.wordpress.com](https://mathbabe.wordpress.com)
- - date_published: 2024-05-07T15:49:14.383472+00:00
-
- ## Mathblogging.org -- the Blog
- - [https://mathblogging.wordpress.com](https://mathblogging.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Bounded Rationality
- - [http://mathecon.wordpress.com](http://mathecon.wordpress.com)
- - date_published: 2024-06-30T08:37:31.861954+00:00
 

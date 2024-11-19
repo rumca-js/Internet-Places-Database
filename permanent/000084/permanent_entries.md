@@ -1,3 +1,32 @@
+ ## Defense Systems
+ - [http://defensesystems.com](http://defensesystems.com)
+ - date_published: 2024-07-09T14:48:41+00:00
+
+ ## Home — Global Defense Insight
+ - [https://defensetalks.com](https://defensetalks.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Defense Tech Week 2024
+ - [https://defensetechweek.com](https://defensetechweek.com)
+ - date_published: 2024-05-01T03:25:48.092436+00:00
+ - tags: ['military', 'convention', 'defense']
+
+ ## Check out this video on DefenseTV
+ - [https://defensetv.com](https://defensetv.com)
+ - date_published: 2024-07-03T13:37:22.511065+00:00
+
+ ## Defense-Update - Military Technology & Defense News
+ - [http://defense-update.com](http://defense-update.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Defense & Security Web TV
+ - [https://www.defensewebtv.com](https://www.defensewebtv.com)
+ - date_published: 2024-05-06T16:35:08.280921+00:00
+
+ ## Defensive Carry
+ - [http://www.defensivecarry.com](http://www.defensivecarry.com)
+ - date_published: 2024-07-04T00:01:03+00:00
+
  ## DefensiveComputingChecklist.com Table of Contents
  - [https://defensivecomputingchecklist.com](https://defensivecomputingchecklist.com)
  - date_published: 2024-01-02T00:00:00+00:00
@@ -4001,32 +4030,4 @@
  ## developerlife.com
  - [https://developerlife.com](https://developerlife.com)
  - date_published: 2024-07-07T01:45:16+00:00
-
- ## Developer Markepear: developer marketing resources from a startup CMO
- - [https://developermarkepear.com](https://developermarkepear.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Login
- - [https://apps.developermedia.com](https://apps.developermedia.com)
- - date_published: 2024-05-08T05:49:22.048270+00:00
-
- ## Login
- - [https://cdn1.developermedia.com](https://cdn1.developermedia.com)
- - date_published: 2024-05-08T05:49:25.730849+00:00
-
- ## Home
- - [https://developermedia.com](https://developermedia.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Developer On Fire
- - [https://developeronfire.com](https://developeronfire.com)
- - date_published: 2021-10-09T14:29:43+00:00
-
- ## Home | Developer Pitstop
- - [https://developerpitstop.com](https://developerpitstop.com)
- - date_published: 2023-10-25T13:50:57.547624+00:00
-
- ## DevRel blog: news and opinion about developer relations
- - [https://developerrelations.com](https://developerrelations.com)
- - date_published: 2024-02-07T00:00:00+00:00
 

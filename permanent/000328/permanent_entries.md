@@ -1,3 +1,127 @@
+ ## Konecranes
+ - [https://ru.konecranes.lv](https://ru.konecranes.lv)
+ - date_published: 2024-06-20T22:56:26.551920+00:00
+
+ ## Index of /
+ - [https://alpine.koyanet.lv](https://alpine.koyanet.lv)
+ - date_published: 2024-07-20T15:59:08.809221+00:00
+
+ ## Index of /
+ - [http://kali.koyanet.lv](http://kali.koyanet.lv)
+ - date_published: 2024-07-07T03:26:18.112930+00:00
+
+ ## Land Rover | Atklājiet luksusa SUV un 4x4 automašīnas | Land Rover Latvija
+ - [https://www.landrover.lv](https://www.landrover.lv)
+ - date_published: 2024-07-09T17:13:37.311772+00:00
+
+ ## LANET FTP server
+ - [http://ftp.lanet.lv](http://ftp.lanet.lv)
+ - date_published: 2006-02-14T12:59:25+00:00
+
+ ## Delight solutions
+ - [https://calibration.lazdini.lv](https://calibration.lazdini.lv)
+ - date_published: 2024-06-21T03:23:26.220118+00:00
+
+ ## Latvian Blockchain Networking | The Latvian Blockchain Association
+ - [https://lbaa.lv](https://lbaa.lv)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Lidl – super cenas ir ikdiena | Lidl.lv
+ - [https://www.lidl.lv](https://www.lidl.lv)
+ - date_published: 2024-06-25T19:02:46.529386+00:00
+
+ ## Liepājas Universitāte
+ - [https://www.liepu.lv](https://www.liepu.lv)
+ - date_published: 2024-07-01T11:42:42.301458+00:00
+
+ ## News-start
+ - [https://likta.lv](https://likta.lv)
+ - date_published: 2024-05-07T23:41:27.170848+00:00
+
+ ## „LINAK" - elektrisko lineāro aktuatoru tehnoloģiju sistēmas kustībai
+ - [https://www.linak.lv](https://www.linak.lv)
+ - date_published: 2024-09-05T21:32:28.870937+00:00
+
+ ## Sākums
+ - [https://www.liveagent.lv](https://www.liveagent.lv)
+ - date_published: 2024-10-19T20:26:17.511236+00:00
+
+ ## Sākumlapa - LSM Bērnistaba
+ - [https://bernistaba.lsm.lv](https://bernistaba.lsm.lv)
+ - date_published: 2024-08-05T16:04:26.288146+00:00
+
+ ## Eng.lsm.lv - Reliable news from Latvia
+ - [https://eng.lsm.lv](https://eng.lsm.lv)
+ - date_published: 2023-11-03T13:09:26.959330+00:00
+
+ ## Latvijas Radio / Latvijas Radio
+ - [https://latvijasradio.lsm.lv](https://latvijasradio.lsm.lv)
+ - date_published: 2024-08-05T16:04:05.356505+00:00
+
+ ## Sākumlapa / LTV.LV
+ - [https://ltv.lsm.lv](https://ltv.lsm.lv)
+ - date_published: 2024-04-29T05:02:06.583329+00:00
+
+ ## Latvijas Televīzijas un Latvijas Radio atskaņotājs - REplay.lv
+ - [https://replay.lsm.lv](https://replay.lsm.lv)
+ - date_published: 2024-08-05T16:04:16.802581+00:00
+
+ ## LSM.lv - Uzticamas ziņas
+ - [https://www.lsm.lv](https://www.lsm.lv)
+ - date_published: 2024-08-05T16:03:57.265604+00:00
+
+ ## LU EZTF datorzinātņu studijas
+ - [http://www.df.lu.lv](http://www.df.lu.lv)
+ - date_published: 2024-08-06T10:26:39.684546+00:00
+
+ ## Latvijas Vides, ģeoloģijas un meteoroloģijas centrs
+ - [https://videscentrs.lvgmc.lv](https://videscentrs.lvgmc.lv)
+ - date_published: 2010-01-01T00:00:00+00:00
+
+ ## Latvijas veselības portāls | medicīnas uzņēmumi | medicine.lv
+ - [https://medicine.lv](https://medicine.lv)
+ - date_published: 2024-07-19T16:34:57.933917+00:00
+
+ ## Page redirect
+ - [https://www.meteo.lv](https://www.meteo.lv)
+ - date_published: 2022-06-06T09:48:07+00:00
+
+ ## Laika ziņas.
+ - [https://meteofor.lv](https://meteofor.lv)
+ - date_published: 2024-06-17T17:20:13.551736+00:00
+
+ ## Meteo & Radars Latvija
+ - [https://meteounradars.lv](https://meteounradars.lv)
+ - date_published: 2024-05-07T13:25:15.995768+00:00
+
+ ## Michel Valdrighi
+ - [https://miche.lv](https://miche.lv)
+ - date_published: 2022-11-13T14:19:59+00:00
+
+ ## MikroTik
+ - [https://i.mt.lv](https://i.mt.lv)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## MikroTik
+ - [https://mt.lv](https://mt.lv)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Paula Stradiņa medicīnas vēstures muzejs
+ - [http://www.mvm.lv](http://www.mvm.lv)
+ - date_published: 2024-06-24T09:52:54.767141+00:00
+
+ ## Bezmaksas Ciltskoks, Ģenealoģija, Ģimenes Vēsture un DNS Testi
+ - [https://www.myheritage.lv](https://www.myheritage.lv)
+ - date_published: 2024-10-30T07:56:42.780526+00:00
+
+ ## meh.
+ - [https://nee.lv](https://nee.lv)
+ - date_published: 2023-11-29T12:38:57+00:00
+
+ ## Medijpratības datubāze
+ - [https://datubaze.neplp.lv](https://datubaze.neplp.lv)
+ - date_published: 2024-06-26T13:00:03+00:00
+
  ## Nacionālā elektronisko plašsaziņas līdzekļu padome
  - [https://registrs.neplp.lv](https://registrs.neplp.lv)
  - date_published: 2024-07-02T22:47:38.506011+00:00
@@ -3946,128 +4070,4 @@
  ## ---
  - [https://a-clear-spring.glitch.me](https://a-clear-spring.glitch.me)
  - date_published: 2023-07-25T02:35:49+00:00
-
- ## 👁 a dream I had  👁
- - [https://a-dream-i-had.glitch.me](https://a-dream-i-had.glitch.me)
- - date_published: 2023-02-16T07:01:22+00:00
-
- ## A quiet walk
- - [https://a-quiet-walk.glitch.me](https://a-quiet-walk.glitch.me)
- - date_published: 2024-04-22T14:14:51+00:00
-
- ## Baby Hands
- - [https://baby-hands.glitch.me](https://baby-hands.glitch.me)
- - date_published: 2020-08-07T22:14:48+00:00
-
- ## Betpas
- - [https://betpasgiris.glitch.me](https://betpasgiris.glitch.me)
- - date_published: 2024-04-11T09:08:40+00:00
-
- ## Blockquote Diary
- - [https://blockquote-diary.glitch.me](https://blockquote-diary.glitch.me)
- - date_published: 2021-03-11T11:12:19+00:00
-
- ## Oops! This project isn't running.
- - [https://book-duck.glitch.me](https://book-duck.glitch.me)
- - date_published: 2024-07-20T14:34:47.925327+00:00
-
- ## Hello World!
- - [https://brazen-candle-jam.glitch.me](https://brazen-candle-jam.glitch.me)
- - date_published: 2024-04-07T20:36:56+00:00
-
- ## Glitch Button Embed
- - [https://button.glitch.me](https://button.glitch.me)
- - date_published: 2020-04-02T21:27:48+00:00
-
- ## calm soul
- - [https://calmsoul.glitch.me](https://calmsoul.glitch.me)
- - date_published: 2024-06-02T20:50:08+00:00
-
- ## Campstory
- - [https://camp-story.glitch.me](https://camp-story.glitch.me)
- - date_published: 2024-04-10T09:22:32+00:00
-
- ## cards-punch
- - [https://card-punch.glitch.me](https://card-punch.glitch.me)
- - date_published: 2020-12-09T00:38:38+00:00
-
- ## Waking up ･ﾟ✧
- - [https://carnelian-button.glitch.me](https://carnelian-button.glitch.me)
- - date_published: 2024-07-14T08:50:20.886913+00:00
-
- ## Redirecting to glitch.com
- - [https://cdn.glitch.me](https://cdn.glitch.me)
- - date_published: 2020-12-28T16:34:27+00:00
-
- ## Chizra's fanpage
- - [https://chizrasfanpage.glitch.me](https://chizrasfanpage.glitch.me)
- - date_published: 2020-07-16T15:50:42+00:00
-
- ## 🖱️✨🐷
- - [https://click-the-pigs.glitch.me](https://click-the-pigs.glitch.me)
- - date_published: 2021-05-21T10:40:17+00:00
-
- ## ~clownglory (same as the name of the glitch page)
- - [https://clownglory.glitch.me](https://clownglory.glitch.me)
- - date_published: 2022-08-07T00:00:00+00:00
-
- ## Colorful Plant
- - [https://colorfulplant.glitch.me](https://colorfulplant.glitch.me)
- - date_published: 2022-05-17T11:00:53+00:00
-
- ## Colour palette maker for colourblind CLP
- - [https://colourblind-palette-maker.glitch.me](https://colourblind-palette-maker.glitch.me)
- - date_published: 2024-04-29T05:16:12.768031+00:00
-
- ## Couleurs-Couleurs
- - [https://couleurcouleur2.glitch.me](https://couleurcouleur2.glitch.me)
- - date_published: 2024-05-04T22:47:40+00:00
-
- ## Cyber Taglines Generator: 2020 Edition
- - [https://cyber-tagline-generator.glitch.me](https://cyber-tagline-generator.glitch.me)
- - date_published: 2023-08-01T23:49:03+00:00
-
- ## day
- - [https://day-friend.glitch.me](https://day-friend.glitch.me)
- - date_published: 2021-05-21T18:37:34+00:00
-
- ## Description rain
- - [https://description-rain.glitch.me](https://description-rain.glitch.me)
- - date_published: 2020-11-11T02:11:14+00:00
-
- ## Digital Sunrise
- - [https://digital-sunrise.glitch.me](https://digital-sunrise.glitch.me)
- - date_published: 2020-11-23T12:05:12+00:00
-
- ## Dingbat Day
- - [https://dingbatday.glitch.me](https://dingbatday.glitch.me)
- - date_published: 2024-01-04T04:06:43+00:00
-
- ## Relax, play the piano
- - [https://dolphin-spa-with-piano.glitch.me](https://dolphin-spa-with-piano.glitch.me)
- - date_published: 2020-07-12T16:04:18+00:00
-
- ## Dream Collection
- - [https://dream-collection.glitch.me](https://dream-collection.glitch.me)
- - date_published: 2021-05-27T00:47:53+00:00
-
- ## Dreaming of sunshine
- - [https://dreaming-of-sunshine.glitch.me](https://dreaming-of-sunshine.glitch.me)
- - date_published: 2021-05-09T21:14:59+00:00
-
- ## drip drop
- - [https://dripdrop.glitch.me](https://dripdrop.glitch.me)
- - date_published: 2021-12-30T18:13:54+00:00
-
- ## Early Fall
- - [https://early-fall.glitch.me](https://early-fall.glitch.me)
- - date_published: 2021-05-09T21:15:48+00:00
-
- ## Character Selection
- - [https://emojicons.glitch.me](https://emojicons.glitch.me)
- - date_published: 2024-07-30T04:35:56+00:00
-
- ## draw!
- - [https://emojraw.glitch.me](https://emojraw.glitch.me)
- - date_published: 2021-03-20T17:41:19+00:00
 

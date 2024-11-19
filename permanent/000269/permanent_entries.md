@@ -1,3 +1,115 @@
+ ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
+ - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:06.799717+00:00
+
+ ## McKnight Brain Institute » University of Florida
+ - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T21:21:43+00:00
+
+ ## McKnight Brain Institute » University of Florida
+ - [https://mbi.ufl.edu](https://mbi.ufl.edu)
+ - date_published: 2024-05-07T21:11:20.615371+00:00
+
+ ## Forms & Requests
+ - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
+ - date_published: 2024-07-07T08:11:57.753234+00:00
+
+ ## Mediasite
+ - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
+ - date_published: 2015-08-16T15:00:32+00:00
+
+ ## College of Medicine » University of Florida
+ - [http://med.ufl.edu](http://med.ufl.edu)
+ - date_published: 2024-10-25T21:29:27+00:00
+
+ ## Microbiology and Cell Science, University of Florida - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://microcell.ufl.edu](http://microcell.ufl.edu)
+ - date_published: 2024-10-15T05:48:09.917681+00:00
+
+ ## Welcome to myUFL
+ - [https://my.ufl.edu](https://my.ufl.edu)
+ - date_published: 2022-12-01T23:07:50+00:00
+
+ ## Department of Neuroscience » College of Medicine » University of Florida
+ - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:15:02+00:00
+
+ ## Department of Neuroscience » College of Medicine » University of Florida
+ - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
+ - date_published: 2024-05-07T21:11:17.576118+00:00
+
+ ## CLAS News
+ - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
+ - date_published: 2024-07-02T02:10:51.497253+00:00
+
+ ## Current News
+ - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
+ - date_published: 2024-07-02T02:19:46.370243+00:00
+
+ ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
+ - [https://news.it.ufl.edu](https://news.it.ufl.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home - News - University of Florida
+ - [https://news.ufl.edu](https://news.ufl.edu)
+ - date_published: 2024-01-04T17:18:14.446846+00:00
+
+ ## ONE.UF
+ - [https://one.ufl.edu](https://one.ufl.edu)
+ - date_published: 2024-06-13T11:20:58+00:00
+
+ ## InCommon Federation Discovery Service
+ - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
+ - date_published: 2024-07-02T02:08:20.186571+00:00
+
+ ## UF/IFAS | PDEC | Program Development & Evaluation Center
+ - [https://pdec.ifas.ufl.edu](https://pdec.ifas.ufl.edu)
+ - date_published: 2024-10-15T06:40:23.195625+00:00
+
+ ## Home
+ - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
+ - date_published: 2024-07-02T02:19:17.573739+00:00
+
+ ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://personnel.ifas.ufl.edu](http://personnel.ifas.ufl.edu)
+ - date_published: 2024-10-15T06:39:09.202938+00:00
+
+ ## College of Pharmacy » University of Florida
+ - [http://pharmacy.ufl.edu](http://pharmacy.ufl.edu)
+ - date_published: 2024-10-19T04:47:43.627221+00:00
+
+ ## Academic Integrity » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T23:25:15+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T21:31:26+00:00
+
+ ## Fall 2023
+ - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-02T02:10:36.550557+00:00
+
+ ## Research Activities » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:37:08+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [https://phhp.ufl.edu](https://phhp.ufl.edu)
+ - date_published: 2024-05-07T21:10:59.230316+00:00
+
+ ## Directory » University of Florida
+ - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
+ - date_published: 2024-07-02T02:19:07.703974+00:00
+
+ ## http://plaza.ufl.edu
+ - [http://plaza.ufl.edu](http://plaza.ufl.edu)
+ - date_published: 2006-05-26T17:00:41+00:00
+
+ ## Regulation and Policy Hub
+ - [https://policy.ufl.edu](https://policy.ufl.edu)
+ - date_published: 2024-07-02T01:56:41+00:00
+
  ## Privacy » University of Florida
  - [https://privacy.ufl.edu](https://privacy.ufl.edu)
  - date_published: 2024-05-07T21:11:12.619267+00:00
@@ -3892,116 +4004,4 @@
  ## Biomedical Research Core Facilities (BRCF) | University of Michigan Medical School Research
  - [https://brcf.medicine.umich.edu](https://brcf.medicine.umich.edu)
  - date_published: 2024-07-01T22:25:06+00:00
-
- ## CAEN – Michigan Engineering Information Technology
- - [https://caen.engin.umich.edu](https://caen.engin.umich.edu)
- - date_published: 2024-07-02T03:53:08+00:00
-
- ## Knowledge Base
- - [http://caenfaq.engin.umich.edu](http://caenfaq.engin.umich.edu)
- - date_published: 2024-07-02T03:52:22.332237+00:00
-
- ## U-M Health Response | U-M Health Response
- - [https://campusblueprint.umich.edu](https://campusblueprint.umich.edu)
- - date_published: 2024-06-30T02:16:13.961586+00:00
-
- ## Questions? Click. Connect. | Campus Information
- - [https://campusinfo.umich.edu](https://campusinfo.umich.edu)
- - date_published: 2024-06-04T18:34:18+00:00
-
- ## U-M Weblogin - Loading Session Information
- - [https://canvas.flint.umich.edu](https://canvas.flint.umich.edu)
- - date_published: 2024-07-02T03:41:04.489923+00:00
-
- ## U-M Weblogin - Loading Session Information
- - [https://canvas.umd.umich.edu](https://canvas.umd.umich.edu)
- - date_published: 2024-07-02T03:46:47.141822+00:00
-
- ## U-M Canvas
- - [https://canvas.umich.edu](https://canvas.umich.edu)
- - date_published: 2023-08-31T19:25:31+00:00
-
- ## Welcome to Counseling and Psychological Services (CAPS) | U-M Counseling and Psychological Services
- - [https://caps.umich.edu](https://caps.umich.edu)
- - date_published: 2024-07-01T16:10:43+00:00
-
- ## Engineering Career Resource Center – About the Engineering Career Resource Center
- - [http://career.engin.umich.edu](http://career.engin.umich.edu)
- - date_published: 2024-10-03T20:49:22+00:00
-
- ## Home | U-M Careers
- - [https://careers.umich.edu](https://careers.umich.edu)
- - date_published: 2024-05-07T14:56:57.185321+00:00
-
- ## Chat Support / U-M Information and Technology Services
- - [https://chatsupport.it.umich.edu](https://chatsupport.it.umich.edu)
- - date_published: 2024-04-30T02:30:37+00:00
-
- ## CIGLR | Cooperative Institute for Great Lakes Research
- - [https://ciglr.seas.umich.edu](https://ciglr.seas.umich.edu)
- - date_published: 2024-08-11T10:57:51+00:00
-
- ## MLaw Class Schedule+
- - [https://classes.law.umich.edu](https://classes.law.umich.edu)
- - date_published: 2024-05-16T20:50:23+00:00
-
- ## Home - UM Clements Library
- - [https://clements.umich.edu](https://clements.umich.edu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## https://click.dev.umich.edu
- - [https://click.dev.umich.edu](https://click.dev.umich.edu)
- - date_published: 2024-02-08T18:21:01.277345+00:00
-
- ## Office of Communications & Marketing – Michigan Engineering Communications & Marketing
- - [https://cm.engin.umich.edu](https://cm.engin.umich.edu)
- - date_published: 2024-07-02T03:53:18+00:00
-
- ## Ethics, Integrity & Compliance | Univeristy of Michigan
- - [https://compliancehotline.umich.edu](https://compliancehotline.umich.edu)
- - date_published: 2024-07-02T03:53:57.405149+00:00
-
- ## Ethics, Integrity & Compliance | Univeristy of Michigan
- - [https://compliance.umich.edu](https://compliance.umich.edu)
- - date_published: 2024-07-14T04:43:26.153070+00:00
-
- ## LSA Course Sites – Course Sites
- - [https://courses.lsa.umich.edu](https://courses.lsa.umich.edu)
- - date_published: 2024-05-11T09:25:00.078533+00:00
-
- ## Center for Political Studies |
- - [https://cps.isr.umich.edu](https://cps.isr.umich.edu)
- - date_published: 2024-07-01T18:24:51+00:00
-
- ## Michigan Creative
- - [https://creative.umich.edu](https://creative.umich.edu)
- - date_published: 2024-05-07T21:27:51.513893+00:00
-
- ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
- - [http://cscs.umich.edu](http://cscs.umich.edu)
- - date_published: 2024-06-30T05:42:16.270014+00:00
-
- ## DEI and Climate | Computer Science and Engineering at Michigan
- - [https://cse-climate.engin.umich.edu](https://cse-climate.engin.umich.edu)
- - date_published: 2024-07-03T03:21:42.331119+00:00
-
- ## Computer Science and Engineering at Michigan
- - [https://cse.engin.umich.edu](https://cse.engin.umich.edu)
- - date_published: 2024-05-08T12:34:03.112071+00:00
-
- ## Computer Science and Engineering at Michigan
- - [https://cse.umich.edu](https://cse.umich.edu)
- - date_published: 2024-06-22T08:35:45+00:00
-
- ## Homepage | Center for Sustainable Systems
- - [https://css.umich.edu](https://css.umich.edu)
- - date_published: 2023-10-25T19:02:12.673588+00:00
-
- ## Office of Culture, Community and Equity (OCCE) – Office of Culture, Community and Equity Website
- - [https://culture.engin.umich.edu](https://culture.engin.umich.edu)
- - date_published: 2024-07-02T03:53:06+00:00
-
- ## Deep Blue Repositories
- - [https://deepblue.lib.umich.edu](https://deepblue.lib.umich.edu)
- - date_published: 2024-05-07T21:29:31.143545+00:00
 

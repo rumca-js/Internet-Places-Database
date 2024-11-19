@@ -1,3 +1,87 @@
+ ## Paleofuture
+ - [https://paleo-future.squarespace.com](https://paleo-future.squarespace.com)
+ - date_published: 2024-05-06T22:27:03.984943+00:00
+
+ ## Palestinian Youth Movement
+ - [https://palestinian-youthmovement.squarespace.com](https://palestinian-youthmovement.squarespace.com)
+ - date_published: 2024-07-08T16:27:08.504943+00:00
+
+ ## 996Roadtrip
+ - [https://panda-apricots-b4xg.squarespace.com](https://panda-apricots-b4xg.squarespace.com)
+ - date_published: 2024-07-14T03:50:08.469809+00:00
+
+ ## The Indieverse Awards
+ - [https://panda-turkey-zwxk.squarespace.com](https://panda-turkey-zwxk.squarespace.com)
+ - date_published: 2024-07-03T22:35:56.812951+00:00
+
+ ## Kineviz
+ - [https://parakeet-earthworm-9wr3.squarespace.com](https://parakeet-earthworm-9wr3.squarespace.com)
+ - date_published: 2024-10-14T11:40:28.604850+00:00
+
+ ## Sebastián Castrodad Reverón
+ - [https://parakeet-lily-c9ez.squarespace.com](https://parakeet-lily-c9ez.squarespace.com)
+ - date_published: 2024-10-15T07:56:16.716438+00:00
+
+ ## Dan Taberski
+ - [https://parakeet-mackerel-e7y9.squarespace.com](https://parakeet-mackerel-e7y9.squarespace.com)
+ - date_published: 2024-07-12T21:52:43.985469+00:00
+
+ ## Kimbra
+ - [https://parakeet-nectarine-ltkk.squarespace.com](https://parakeet-nectarine-ltkk.squarespace.com)
+ - date_published: 2024-05-04T09:41:45.388968+00:00
+
+ ## Pixar Animation Studios
+ - [https://parallax-pixar.squarespace.com](https://parallax-pixar.squarespace.com)
+ - date_published: 2024-05-06T23:19:52.988274+00:00
+
+ ## GD Video | Video Production Preston, Lancashire
+ - [https://parrotfish-algae-5a9f.squarespace.com](https://parrotfish-algae-5a9f.squarespace.com)
+ - date_published: 2024-06-20T01:48:17.791275+00:00
+
+ ## MATS Program
+ - [https://parrotfish-gecko-h3dr.squarespace.com](https://parrotfish-gecko-h3dr.squarespace.com)
+ - date_published: 2024-06-21T11:42:17.626716+00:00
+
+ ## Chelsea Hollow | Coloratura Soprano
+ - [https://parrotfish-tortoise-mgds.squarespace.com](https://parrotfish-tortoise-mgds.squarespace.com)
+ - date_published: 2024-07-09T17:26:36.512596+00:00
+
+ ## Opus Patent Pool
+ - [https://parsnip-tortoise-tsrm.squarespace.com](https://parsnip-tortoise-tsrm.squarespace.com)
+ - date_published: 2024-06-27T13:26:22.267217+00:00
+
+ ## Partners
+ - [https://partnerspodcast.squarespace.com](https://partnerspodcast.squarespace.com)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Party Qs - #1 Questions App for Conversation Starters
+ - [https://partyqs.squarespace.com](https://partyqs.squarespace.com)
+ - date_published: 2024-06-23T10:00:07.560291+00:00
+
+ ## Patrick Keefe – Designer + Leader + Fun Loving Irishman
+ - [http://patrick-keefe.squarespace.com](http://patrick-keefe.squarespace.com)
+ - date_published: 2024-08-18T09:39:56.885147+00:00
+
+ ## BlackBox
+ - [https://patrick-mcgowan-bwfc.squarespace.com](https://patrick-mcgowan-bwfc.squarespace.com)
+ - date_published: 2024-07-07T10:47:09.080978+00:00
+
+ ## Paul Layzell
+ - [https://paul-layzell.squarespace.com](https://paul-layzell.squarespace.com)
+ - date_published: 2024-09-14T23:09:02.211578+00:00
+
+ ## Paul Pedrazzi
+ - [https://paul-pedrazzi.squarespace.com](https://paul-pedrazzi.squarespace.com)
+ - date_published: 2024-05-06T22:40:28.801616+00:00
+
+ ## Paul Shipper Studio | Award Winning Film Poster Artist
+ - [https://paulshipper.squarespace.com](https://paulshipper.squarespace.com)
+ - date_published: 2024-07-09T23:16:14.748431+00:00
+
+ ## Pauls Valley
+ - [https://paulsvalley.squarespace.com](https://paulsvalley.squarespace.com)
+ - date_published: 2024-05-06T22:45:38.853636+00:00
+
  ## Princejvstin Photography
  - [https://paul-weimer-wzhl.squarespace.com](https://paul-weimer-wzhl.squarespace.com)
  - date_published: 2024-06-19T09:44:20.155461+00:00
@@ -3930,88 +4014,4 @@
  ## Philosophy Stack Exchange
  - [https://philosophy.stackexchange.com](https://philosophy.stackexchange.com)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## Photography Meta Stack Exchange
- - [https://photo.meta.stackexchange.com](https://photo.meta.stackexchange.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Photography Stack Exchange
- - [http://photo.stackexchange.com](http://photo.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Physics Meta Stack Exchange
- - [https://physics.meta.stackexchange.com](https://physics.meta.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date_published: 2023-10-25T17:13:56.651090+00:00
-
- ## Project Management Meta Stack Exchange
- - [https://pm.meta.stackexchange.com](https://pm.meta.stackexchange.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Project Management Stack Exchange
- - [https://pm.stackexchange.com](https://pm.stackexchange.com)
- - date_published: 2023-10-25T17:14:00.083237+00:00
-
- ## Poker Meta Stack Exchange
- - [https://poker.meta.stackexchange.com](https://poker.meta.stackexchange.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Poker Stack Exchange
- - [https://poker.stackexchange.com](https://poker.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Politics Meta Stack Exchange
- - [https://politics.meta.stackexchange.com](https://politics.meta.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Politics Stack Exchange
- - [https://politics.stackexchange.com](https://politics.stackexchange.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Portuguese Language Meta Stack Exchange
- - [https://portuguese.meta.stackexchange.com](https://portuguese.meta.stackexchange.com)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Portuguese Language Stack Exchange
- - [https://portuguese.stackexchange.com](https://portuguese.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Software Engineering Stack Exchange
- - [http://programmers.stackexchange.com](http://programmers.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Proof Assistants Meta Stack Exchange
- - [https://proofassistants.meta.stackexchange.com](https://proofassistants.meta.stackexchange.com)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date_published: 2023-10-27T23:10:18.343496+00:00
-
- ## Puzzling Meta Stack Exchange
- - [https://puzzling.meta.stackexchange.com](https://puzzling.meta.stackexchange.com)
- - date_published: 2024-08-06T06:23:30.596746+00:00
-
- ## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date_published: 2023-10-25T17:14:03.428352+00:00
-
- ## Quantitative Finance Meta Stack Exchange
- - [https://quant.meta.stackexchange.com](https://quant.meta.stackexchange.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Quantitative Finance Stack Exchange
- - [https://quant.stackexchange.com](https://quant.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Quantum Computing Meta Stack Exchange
- - [https://quantumcomputing.meta.stackexchange.com](https://quantumcomputing.meta.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Quantum Computing Stack Exchange
- - [https://quantumcomputing.stackexchange.com](https://quantumcomputing.stackexchange.com)
- - date_published: 2024-04-28T00:00:00+00:00
 

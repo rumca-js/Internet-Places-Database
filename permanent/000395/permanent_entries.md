@@ -1,3 +1,143 @@
+ ## ವಿಕ್ಷನರಿ
+ - [https://kn.m.wiktionary.org](https://kn.m.wiktionary.org)
+ - date_published: 2024-09-04T03:30:23+00:00
+
+ ## ವಿಕ್ಷನರಿ
+ - [https://kn.wiktionary.org](https://kn.wiktionary.org)
+ - date_published: 2024-06-01T04:59:39+00:00
+
+ ## 위키낱말사전
+ - [https://ko.m.wiktionary.org](https://ko.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:47+00:00
+
+ ## 위키낱말사전
+ - [https://ko.wiktionary.org](https://ko.wiktionary.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## وِکیٖلۄغَتھ
+ - [https://ks.m.wiktionary.org](https://ks.m.wiktionary.org)
+ - date_published: 2024-09-04T03:35:05+00:00
+
+ ## وِکیٖلۄغَتھ
+ - [https://ks.wiktionary.org](https://ks.wiktionary.org)
+ - date_published: 2024-06-01T12:26:49+00:00
+
+ ## Wîkîferheng
+ - [https://ku.m.wiktionary.org](https://ku.m.wiktionary.org)
+ - date_published: 2024-09-04T03:00:24+00:00
+
+ ## Wîkîferheng
+ - [https://ku.wiktionary.org](https://ku.wiktionary.org)
+ - date_published: 2024-06-01T12:23:58+00:00
+
+ ## Komi Wiktionary - Wikimedia Incubator
+ - [https://kv.wiktionary.org](https://kv.wiktionary.org)
+ - date_published: 2024-07-12T02:19:14.687760+00:00
+
+ ## Wiktionary
+ - [https://kw.m.wiktionary.org](https://kw.m.wiktionary.org)
+ - date_published: 2024-09-04T03:31:30+00:00
+
+ ## Wiktionary
+ - [https://kw.wiktionary.org](https://kw.wiktionary.org)
+ - date_published: 2024-06-01T10:43:49+00:00
+
+ ## Wiktionary
+ - [https://ky.m.wiktionary.org](https://ky.m.wiktionary.org)
+ - date_published: 2024-09-04T03:08:25+00:00
+
+ ## Wiktionary
+ - [https://ky.wiktionary.org](https://ky.wiktionary.org)
+ - date_published: 2024-05-31T13:05:06+00:00
+
+ ## La Hoja Primera - Wt/lad - Wikimedia Incubator
+ - [https://lad.wiktionary.org](https://lad.wiktionary.org)
+ - date_published: 2024-06-28T03:48:25+00:00
+
+ ## Victionarium
+ - [https://la.m.wiktionary.org](https://la.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Victionarium
+ - [https://la.wiktionary.org](https://la.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wiktionnaire
+ - [https://lb.m.wiktionary.org](https://lb.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionnaire
+ - [https://lb.wiktionary.org](https://lb.wiktionary.org)
+ - date_published: 2024-06-11T20:32:17+00:00
+
+ ## Olupapula Olusooka - Wt/lg - Wikimedia Incubator
+ - [https://lg.wiktionary.org](https://lg.wiktionary.org)
+ - date_published: 2024-06-28T03:03:03+00:00
+
+ ## Pàgina prinçipâ - Wt/lij - Wikimedia Incubator
+ - [https://lij.wiktionary.org](https://lij.wiktionary.org)
+ - date_published: 2024-09-07T06:41:44+00:00
+
+ ## Wiktionary
+ - [https://li.m.wiktionary.org](https://li.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionary
+ - [https://li.wiktionary.org](https://li.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wt/lld - Wikimedia Incubator
+ - [https://lld.wiktionary.org](https://lld.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://lmo.m.wiktionary.org](https://lmo.m.wiktionary.org)
+ - date_published: 2024-09-04T03:47:13+00:00
+
+ ## Wiktionary
+ - [https://lmo.wiktionary.org](https://lmo.wiktionary.org)
+ - date_published: 2024-06-01T02:56:08+00:00
+
+ ## Wiktionary
+ - [https://ln.m.wiktionary.org](https://ln.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:39+00:00
+
+ ## Wiktionary
+ - [https://ln.wiktionary.org](https://ln.wiktionary.org)
+ - date_published: 2024-06-01T00:20:25+00:00
+
+ ## Wiktionary
+ - [https://lo.m.wiktionary.org](https://lo.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:48+00:00
+
+ ## Wiktionary
+ - [https://lo.wiktionary.org](https://lo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Suoku puslopa - Wt/ltg - Wikimedia Incubator
+ - [https://ltg.wiktionary.org](https://ltg.wiktionary.org)
+ - date_published: 2024-09-04T03:47:10+00:00
+
+ ## Vikižodynas
+ - [https://lt.m.wiktionary.org](https://lt.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:49+00:00
+
+ ## Vikižodynas
+ - [https://lt.wiktionary.org](https://lt.wiktionary.org)
+ - date_published: 2024-06-14T03:25:42+00:00
+
+ ## Wiktionary
+ - [https://lv.m.wiktionary.org](https://lv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:26:00+00:00
+
+ ## Wiktionary
+ - [https://lv.wiktionary.org](https://lv.wiktionary.org)
+ - date_published: 2024-06-01T12:26:04+00:00
+
+ ## Tanèyan - Wt/mad - Wikimedia Incubator
+ - [https://mad.wiktionary.org](https://mad.wiktionary.org)
+ - date_published: 2024-09-04T03:31:12+00:00
+
  ## Basa Banyumasan Wiktionary - Wikimedia Incubator
  - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
  - date_published: 2024-07-12T03:30:24.596150+00:00
@@ -3878,144 +4018,4 @@ Conference Series
  ## WUOT | 91.9 FM, Knoxville
  - [https://www.wuot.org](https://www.wuot.org)
  - date_published: 2024-07-02T12:15:40.840289+00:00
-
- ## OPUS 4 | Publication Server of the Wuppertal Institute for Climate, Environment and Energy
- - [https://epub.wupperinst.org](https://epub.wupperinst.org)
- - date_published: 2024-07-18T05:50:24.649177+00:00
-
- ## Home  - Wuppertal Institut für Klima, Umwelt, Energie
- - [https://wupperinst.org](https://wupperinst.org)
- - date_published: 2024-05-14T03:32:44.866252+00:00
-
- ## WUSF
- - [https://wusf.org](https://wusf.org)
- - date_published: 2024-07-11T19:53:40.272281+00:00
-
- ## wusflongesttable.org – Just another WordPress site
- - [https://www.wusflongesttable.org](https://www.wusflongesttable.org)
- - date_published: 2024-07-12T18:39:23.084997+00:00
-
- ## WVARA HOME
- - [https://wvara.org](https://wvara.org)
- - date_published: 2024-05-09T08:41:40.186451+00:00
-
- ## World Video Bible School
- - [https://wvbs.org](https://wvbs.org)
- - date_published: 2024-07-29T13:48:20+00:00
-
- ## West Virginia Department of Arts, Culture & History - West Virginia Department of Arts, Culture & History
- - [https://wvculture.org](https://wvculture.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - WVCW
- - [https://wvcw.org](https://wvcw.org)
- - date_published: 2024-07-02T05:22:20+00:00
-
- ## West Virginia Education Association - WVEA WVEA
- - [https://www.wvea.org](https://www.wvea.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## West Virginia Press Association
- - [http://wvpress.org](http://wvpress.org)
- - date_published: 2024-07-09T23:20:35.030664+00:00
-
- ## WVTF - Homepage | WVTF
- - [https://www.wvtf.org](https://www.wvtf.org)
- - date_published: 2024-05-09T05:41:00.015699+00:00
-
- ## WVU Foundation | Home
- - [https://www.wvuf.org](https://www.wvuf.org)
- - date_published: 2024-07-02T15:30:20.663930+00:00
-
- ## Webster's World of Cultural Democracy
- - [http://www.wwcd.org](http://www.wwcd.org)
- - date_published: 2001-03-07T00:00:00+00:00
-
- ## WWF - Find your local WWF office
- - [https://wwf.org](https://wwf.org)
- - date_published: 2024-07-10T08:12:38.967788+00:00
-
- ## Turn an hour into years!
- - [https://wwfadria.org](https://wwfadria.org)
- - date_published: 2024-05-07T23:57:53.411450+00:00
-
- ## Home
- - [http://www.wwfbhutan.org](http://www.wwfbhutan.org)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Trabajo de Conservación en Centroamérica
- - [https://wwfca.org](https://wwfca.org)
- - date_published: 2024-05-08T00:00:30.280460+00:00
-
- ## Working to protect vital natural resources and biodiversity in the Caucasus.
- - [https://wwfcaucasus.org](https://wwfcaucasus.org)
- - date_published: 2024-05-08T00:00:00.121496+00:00
-
- ## WWF - Welcome to the Green Heart of Europe!
- - [https://wwfcee.org](https://wwfcee.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## WWF China
- - [https://en.wwfchina.org](https://en.wwfchina.org)
- - date_published: 2021-07-18T02:15:01+00:00
-
- ## loading....
- - [https://www.wwfchina.org](https://www.wwfchina.org)
- - date_published: 2023-02-15T06:55:52+00:00
-
- ## WWF Climate Crowd
- - [https://www.wwfclimatecrowd.org](https://www.wwfclimatecrowd.org)
- - date_published: 2023-07-20T00:00:00+00:00
-
- ## Global environmental conservation organization
- - [https://wwfdrc.org](https://wwfdrc.org)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Welcome to WWF Guianas
- - [https://wwfguianas.org](https://wwfguianas.org)
- - date_published: 2024-04-18T13:01:07+00:00
-
- ## Earth Hour India 2024
- - [http://earthhour.wwfindia.org](http://earthhour.wwfindia.org)
- - date_published: 2024-07-03T03:10:02.049843+00:00
-
- ## WWF-India: Support our conservation work
- - [https://join.wwfindia.org](https://join.wwfindia.org)
- - date_published: 2024-07-03T03:09:51.000783+00:00
-
- ## Welcome to WWF-India
- - [https://wwfindia.org](https://wwfindia.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## WWF Kenya – Donations
- - [https://donate.wwfkenya.org](https://donate.wwfkenya.org)
- - date_published: 2024-07-03T02:56:49.549053+00:00
-
- ## IIS Windows Server
- - [https://wwfke-giscoe.wwfkenya.org](https://wwfke-giscoe.wwfkenya.org)
- - date_published: 2024-01-19T05:19:09+00:00
-
- ## Home
- - [https://wwfkenya.org](https://wwfkenya.org)
- - date_published: 2024-05-07T23:59:06.369053+00:00
-
- ## WWF LAOS – WORLD WIDE FUND FOR NATURE IN LAOS
- - [https://wwflaos.org](https://wwflaos.org)
- - date_published: 2024-05-07T23:58:33.480419+00:00
-
- ## WWF Mediterranean Marine Initiative
- - [https://www.wwfmmi.org](https://www.wwfmmi.org)
- - date_published: 2024-07-01T07:45:07+00:00
-
- ## WWF Namibia
- - [https://wwfnamibia.org](https://wwfnamibia.org)
- - date_published: 2024-05-07T23:59:30.901760+00:00
-
- ## Home
- - [https://www.wwfnepal.org](https://www.wwfnepal.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## WWF-Pacific
- - [https://wwfpacific.org](https://wwfpacific.org)
- - date_published: 2024-04-19T00:00:00+00:00
 

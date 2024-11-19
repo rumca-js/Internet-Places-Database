@@ -1,3 +1,115 @@
+ ## Joint Entrance Examination (Main) | India
+ - [https://jeemain.nta.nic.in](https://jeemain.nta.nic.in)
+ - date_published: 2024-08-19T20:29:14.244846+00:00
+
+ ## PMGSY
+ - [https://omms.nic.in](https://omms.nic.in)
+ - date_published: 2024-07-06T19:19:44.700462+00:00
+
+ ## Digital Sansad
+ - [https://parliamentofindia.nic.in](https://parliamentofindia.nic.in)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Hon'ble Prime Minister of India
+ - [https://pmindiawebcast.nic.in](https://pmindiawebcast.nic.in)
+ - date_published: 2024-06-30T07:05:30+00:00
+
+ ## Home :: Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)
+ - [http://pmssy-mohfw.nic.in](http://pmssy-mohfw.nic.in)
+ - date_published: 2024-08-08T18:48:24.905430+00:00
+
+ ## Home | President of India
+ - [https://presidentofindia.nic.in](https://presidentofindia.nic.in)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Digital Sansad
+ - [https://rajyasabha.nic.in](https://rajyasabha.nic.in)
+ - date_published: 2024-08-08T15:04:31.253203+00:00
+
+ ## MINISTRY OF WOMEN & CHILD DEVELOPMENT
+ - [http://shebox.nic.in](http://shebox.nic.in)
+ - date_published: 2024-08-08T14:12:12.435745+00:00
+
+ ## Home | Staff Selection Commission | GoI
+ - [https://ssc.nic.in](https://ssc.nic.in)
+ - date_published: 2024-08-08T13:46:39.521711+00:00
+
+ ## National Council for Promotion of Urdu Language
+ - [http://www.urducouncil.nic.in](http://www.urducouncil.nic.in)
+ - date_published: 2024-09-06T11:23:43+00:00
+
+ ## Vice President of India | Government of India
+ - [https://vicepresidentofindia.nic.in](https://vicepresidentofindia.nic.in)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ministry of Women & Child Development
+ - [https://wcd.nic.in](https://wcd.nic.in)
+ - date_published: 2024-08-08T14:13:34.926556+00:00
+
+ ## National Informatics Centre | Govt. of India
+ - [https://www.nic.in](https://www.nic.in)
+ - date_published: 2024-07-20T09:37:19.074388+00:00
+
+ ## Home | National emblem | Ministry of Youth Affairs and Sports | Government of India
+ - [https://yas.nic.in](https://yas.nic.in)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Bhāvanā – The mathematics magazine<br/>A publication of the Bhavana Trust
+ - [https://bhavana.org.in](https://bhavana.org.in)
+ - date_published: 2023-10-25T19:32:02.777275+00:00
+
+ ## BIS Home - Bureau of Indian Standards
+ - [http://www.bis.org.in](http://www.bis.org.in)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## ICMR – National Institute of Cancer Prevention and Research   – Ministry of Health and Family Welfare, Government of India
+ - [http://cancerindia.org.in](http://cancerindia.org.in)
+ - date_published: 2024-08-08T18:40:13.534155+00:00
+
+ ## Laragon
+ - [http://scobserver.clpr.org.in](http://scobserver.clpr.org.in)
+ - date_published: 2024-07-19T16:02:03.627414+00:00
+
+ ## csestore.cse.org.in: CSE online store
+ - [https://csestore.cse.org.in](https://csestore.cse.org.in)
+ - date_published: 2024-04-28T01:45:24.296246+00:00
+
+ ## Debian India
+ - [https://debian.org.in](https://debian.org.in)
+ - date_published: 2024-02-03T17:38:25+00:00
+
+ ## DICGC
+ - [https://dicgc.org.in](https://dicgc.org.in)
+ - date_published: 2024-09-25T12:50:01+00:00
+
+ ## दैनिक समाचार भारत
+ - [http://www.disa.org.in](http://www.disa.org.in)
+ - date_published: 2024-10-29T16:46:22.501401+00:00
+
+ ## Down To Earth | Latest news, opinion, analysis on environment & science issues | India, South Asia
+ - [https://downtoearth.org.in](https://downtoearth.org.in)
+ - date_published: 2024-08-08T11:33:07.120109+00:00
+
+ ## Down to Earth- Hindi
+ - [https://hindi.downtoearth.org.in](https://hindi.downtoearth.org.in)
+ - date_published: 2024-07-19T17:46:40.373077+00:00
+
+ ## The Young Environmentalist
+ - [https://young.downtoearth.org.in](https://young.downtoearth.org.in)
+ - date_published: 2024-04-28T01:45:30.452383+00:00
+
+ ## Financial Benchmarks India Pvt Ltd
+ - [http://www.fbil.org.in](http://www.fbil.org.in)
+ - date_published: 2024-06-16T04:50:38.763069+00:00
+
+ ## Free Software Foundation India
+ - [https://fsf.org.in](https://fsf.org.in)
+ - date_published: 2021-04-10T00:00:00+00:00
+
+ ## GFI India
+ - [https://www.gfi.org.in](https://www.gfi.org.in)
+ - date_published: 2020-10-21T08:01:18+00:00
+
  ## Home | Indian Council of Agricultural Research Krishi Bhavan
  - [http://www.icar.org.in](http://www.icar.org.in)
  - date_published: 2024-10-30T20:34:04.234458+00:00
@@ -3919,118 +4031,4 @@ built-in pre- and post-processing facilities
  ## Marc Richter's personal site
  - [https://www.marc-richter.info](https://www.marc-richter.info)
  - date_published: 2024-06-28T20:08:50.988661+00:00
-
- ## María Fraile Cuentacuentos
- - [https://www.mariafraile.info](https://www.mariafraile.info)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## eworx Marketing Suite - Rethinking digital marketing
- - [https://mailworx.marketingsuite.info](https://mailworx.marketingsuite.info)
- - date_published: 2024-05-28T03:08:38.069010+00:00
-
- ## Subscribe to the Market Oracle Newsletter
- - [https://www.marketoracle.info](https://www.marketoracle.info)
- - date_published: 2024-05-02T12:08:34.367743+00:00
-
- ## @martinfeld
- - [https://martinfeld.info](https://martinfeld.info)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Masonicons
- - [http://www.masonicons.info](http://www.masonicons.info)
- - date_published: 2020-06-06T13:39:14+00:00
-
- ## Google Sites: Sign-in
- - [http://massagethai.info](http://massagethai.info)
- - date_published: 2024-07-11T16:33:48.481699+00:00
-
- ## Master Unit List - Master Unit List
- - [http://www.masterunitlist.info](http://www.masterunitlist.info)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## More Quantum
- - [https://mateusaraujo.info](https://mateusaraujo.info)
- - date_published: 2023-10-25T19:33:45.307209+00:00
- - tags: ['personal']
-
- ## Matt's Web Services, based in MKE
- - [https://mattfinger.info](https://mattfinger.info)
- - date_published: 2022-06-19T17:39:30+00:00
-
- ## Database Error
- - [https://mattkaras.info](https://mattkaras.info)
- - date_published: 2024-01-06T13:54:26.493729+00:00
-
- ## Matt Leifer
- - [https://mattleifer.info](https://mattleifer.info)
- - date_published: 2024-05-12T06:30:24.363190+00:00
-
- ## TransitMatters MBTA Shutdown Tracker
- - [https://mbtashutdowns.info](https://mbtashutdowns.info)
- - date_published: 2024-06-12T21:38:33+00:00
-
- ## Matthew Eric Bassett, Ph.D.
- - [https://mebassett.info](https://mebassett.info)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Elektronica Meettechniek
- - [https://meettechniek.info](https://meettechniek.info)
- - date_published: 2024-05-09T04:18:50.528881+00:00
-
- ## Mega Press
- - [https://megapress.info](https://megapress.info)
- - date_published: 2024-07-04T01:53:02.973927+00:00
-
- ## Royal Enfield – Motor Hub
- - [https://megatrail.info](https://megatrail.info)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Mercatel
- - [https://www.mercatel.info](https://www.mercatel.info)
- - date_published: 2024-07-03T04:19:16.184590+00:00
-
- ## Merco Spain
- - [http://merco.info](http://merco.info)
- - date_published: 2024-09-10T21:38:54.840871+00:00
-
- ## Krzysztof Zabłocki
- - [https://www.merowing.info](https://www.merowing.info)
- - date_published: 2024-06-23T14:36:12.302364+00:00
-
- ## Etusivu - Mertanen & Analytics Associates
- - [https://www.mertanen.info](https://www.mertanen.info)
- - date_published: 2024-06-26T05:02:43+00:00
-
- ## Metascience 2025 Conference
- - [https://metascience.info](https://metascience.info)
- - date_published: 2024-07-07T06:11:52+00:00
-
- ## Michael Hausenblas
- - [http://mhausenblas.info](http://mhausenblas.info)
- - date_published: 2024-06-12T09:24:14+00:00
-
- ## ALBION HOTEL 3⋆ ::: MIAMI BEACH, FL ::: COMPARE HOTEL RATES
- - [https://albion-south-beach.miami-beach-hotels.info](https://albion-south-beach.miami-beach-hotels.info)
- - date_published: 2024-10-22T04:12:56.869552+00:00
-
- ## RIVIERA SUITES 4⋆ ::: MIAMI BEACH, FL ::: COMPARE HOTEL RATES
- - [https://riviera-south-beach.miami-beach-hotels.info](https://riviera-south-beach.miami-beach-hotels.info)
- - date_published: 2024-10-22T04:13:46.833867+00:00
-
- ## SIXTY80 DESIGN HOTEL ::: UNITED STATES ::: COMPARE HOTEL RATES
- - [https://sixty80-design.miami-beach-hotels.info](https://sixty80-design.miami-beach-hotels.info)
- - date_published: 2024-10-22T04:09:56.402737+00:00
-
- ## VILLA PARADISO APARTMENT HOTEL 2⋆ ::: UNITED STATES ::: COMPARE HOTEL RATES
- - [https://villa-paradiso-33139.miami-beach-hotels.info](https://villa-paradiso-33139.miami-beach-hotels.info)
- - date_published: 2024-10-22T04:00:16.677738+00:00
-
- ## All the Info About Me - Michael Chadwick
- - [https://michaelchadwick.info](https://michaelchadwick.info)
- - date_published: 2024-06-01T04:57:39.594904+00:00
- - tags: ['personal']
-
- ## Mietpreise und Mietspiegel für 2024
- - [https://www.mietpreise.info](https://www.mietpreise.info)
- - date_published: 2024-07-09T10:07:12.131122+00:00
 

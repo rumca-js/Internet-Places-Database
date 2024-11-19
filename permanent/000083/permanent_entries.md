@@ -1,3 +1,34 @@
+ ## Davanni's Pizza & Hot Hoagies | Delivery, Dine In, Take Out
+ - [https://www.davannis.com](https://www.davannis.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Dav Chana
+ - [http://davchana.com](http://davchana.com)
+ - date_published: 2024-08-18T09:33:44.804272+00:00
+
+ ## Get The Mobile Banking App That's Making Finances Easier | Dave
+ - [https://dave.com](https://dave.com)
+ - date_published: 2024-05-09T07:37:20.381873+00:00
+ - tags: ['banking']
+
+ ## Knowledge base
+ - [https://support.dave.com](https://support.dave.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Dave Allie
+ - [https://blog.daveallie.com](https://blog.daveallie.com)
+ - date_published: 2023-10-25T09:20:01.435572+00:00
+ - tags: ['personal']
+
+ ## Hi, I'm Dave
+ - [https://davebitter.com](https://davebitter.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+ - tags: ['personal']
+
+ ## TensorFlow Transfer Learning
+ - [https://tensorflow-transfer-learning.davebitter.com](https://tensorflow-transfer-learning.davebitter.com)
+ - date_published: 2024-09-04T00:48:24.960982+00:00
+
  ## dave booda
  - [https://davebooda.com](https://davebooda.com)
  - date_published: 2024-05-08T03:12:45.494681+00:00
@@ -4043,33 +4074,4 @@
  ## DefenseScoop | Breaking US Military Tech News, Modern Defense News
  - [https://defensescoop.com](https://defensescoop.com)
  - date_published: 2023-10-25T13:48:19.117494+00:00
-
- ## Defense Systems
- - [http://defensesystems.com](http://defensesystems.com)
- - date_published: 2024-07-09T14:48:41+00:00
-
- ## Home — Global Defense Insight
- - [https://defensetalks.com](https://defensetalks.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Defense Tech Week 2024
- - [https://defensetechweek.com](https://defensetechweek.com)
- - date_published: 2024-05-01T03:25:48.092436+00:00
- - tags: ['military', 'convention', 'defense']
-
- ## Check out this video on DefenseTV
- - [https://defensetv.com](https://defensetv.com)
- - date_published: 2024-07-03T13:37:22.511065+00:00
-
- ## Defense-Update - Military Technology & Defense News
- - [http://defense-update.com](http://defense-update.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Defense & Security Web TV
- - [https://www.defensewebtv.com](https://www.defensewebtv.com)
- - date_published: 2024-05-06T16:35:08.280921+00:00
-
- ## Defensive Carry
- - [http://www.defensivecarry.com](http://www.defensivecarry.com)
- - date_published: 2024-07-04T00:01:03+00:00
 

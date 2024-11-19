@@ -1,3 +1,93 @@
+ ## Vanguard - New Releases
+ - [http://www.vanguardpublishing.com](http://www.vanguardpublishing.com)
+ - date_published: 2024-10-01T13:45:34+00:00
+
+ ## SA Spanish Home Page | Vanguard South America
+ - [https://www.vanguardsouthamerica.com](https://www.vanguardsouthamerica.com)
+ - date_published: 2024-10-17T13:57:59.664560+00:00
+
+ ## Master Warhammer 40k 10th Edition | Vanguard Tactics Academy
+ - [https://academy.vanguardtactics.com](https://academy.vanguardtactics.com)
+ - date_published: 2024-06-18T09:43:21.374890+00:00
+
+ ## Test Your Warhammer 40k Strategy IQ
+ - [https://quiz.vanguardtactics.com](https://quiz.vanguardtactics.com)
+ - date_published: 2023-12-04T00:00:00+00:00
+
+ ## Warhammer 40K Coaching Services - Vanguard Tactics
+ - [https://vanguardtactics.com](https://vanguardtactics.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Grupo Vanguard Internacional
+ - [https://www.vanguardteam.com](https://www.vanguardteam.com)
+ - date_published: 2024-06-19T23:22:35.986851+00:00
+
+ ## Van Halen Official Shop
+ - [https://vanhalenshop.com](https://vanhalenshop.com)
+ - date_published: 2024-06-30T12:33:31.642992+00:00
+ - tags: ['music artist']
+
+ ## index
+ - [https://vanhunteradams.com](https://vanhunteradams.com)
+ - date_published: 2023-10-25T17:55:19.369824+00:00
+
+ ## Vanidades
+ - [https://www.vanidades.com](https://www.vanidades.com)
+ - date_published: 2024-10-14T23:01:52.129228+00:00
+
+ ## Kami Vaniea
+ - [https://vaniea.com](https://vaniea.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Digital Spy Forum
+ - [https://digitalspy.vanillacommunities.com](https://digitalspy.vanillacommunities.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home - Responsive Community
+ - [https://rfpio.vanillacommunities.com](https://rfpio.vanillacommunities.com)
+ - date_published: 2024-10-30T21:50:04+00:00
+
+ ## Vanilla CSS |  A minimal baseline stylesheet for any web project
+ - [https://vanillacss.com](https://vanillacss.com)
+ - date_published: 2013-04-06T00:00:00+00:00
+
+ ## Open Source Community Forum Software
+ - [https://open.vanillaforums.com](https://open.vanillaforums.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home - The Success Community
+ - [https://success.vanillaforums.com](https://success.vanillaforums.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Top Customer Community Platform | Higher Logic Vanilla
+ - [https://vanillaforums.com](https://vanillaforums.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## AI Hiring Platform - VanillaHR
+ - [https://www.vanillahr.com](https://www.vanillahr.com)
+ - date_published: 2024-06-21T17:01:52+00:00
+
+ ## Vanilla Ice Media – Platform to gain ideas for Online gambling enthusiasts
+ - [https://www.vanillaicemedia.com](https://www.vanillaicemedia.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Javascript Projects || John Smilga
+ - [https://www.vanillajavascriptprojects.com](https://www.vanillajavascriptprojects.com)
+ - date_published: 2024-06-19T06:57:47.103379+00:00
+ - tags: ['javascript']
+
+ ## Vanilla JS
+ - [https://vanilla-js.com](https://vanilla-js.com)
+ - date_published: 2024-05-13T02:39:50.976285+00:00
+
+ ## VanillaJSX.com
+ - [https://vanillajsx.com](https://vanillajsx.com)
+ - date_published: 2024-08-16T19:01:09+00:00
+
+ ## VanillaVoice - Turn any Text into Human-Sounding Speech
+ - [https://www.vanillavoice.com](https://www.vanillavoice.com)
+ - date_published: 2024-10-31T05:03:47.238153+00:00
+
  ## Vanillicon - A Fun Take on Identicons
  - [https://vanillicon.com](https://vanillicon.com)
  - date_published: 2024-09-04T11:00:30+00:00
@@ -3948,92 +4038,4 @@
  ## Managed VictoriaMetrics Status
  - [https://status.victoriametrics.com](https://status.victoriametrics.com)
  - date_published: 2024-02-08T00:00:00+00:00
-
- ## VictoriaMetrics: Simple & Reliable Monitoring for Everyone
- - [https://victoriametrics.com](https://victoriametrics.com)
- - date_published: 2023-10-25T17:56:20.471667+00:00
-
- ## Victoria Miro
- - [https://www.victoria-miro.com](https://www.victoria-miro.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## A fine set of rules, designed to ensure that all who post there may do so with the assurance that their comments will be met with approbation by those of a similar persuasion
- - [https://victorianhackernews.com](https://victorianhackernews.com)
- - date_published: 2023-10-25T17:56:21.528971+00:00
-
- ## Best of Victoria 2023
- - [https://bestof.victorianow.com](https://bestof.victorianow.com)
- - date_published: 2024-06-29T11:45:03.685578+00:00
-
- ## VictoriaNow | Victoria news and the stuff that matters
- - [https://victorianow.com](https://victorianow.com)
- - date_published: 2023-11-16T08:28:10.924553+00:00
-
- ## Best of Victoria
- - [https://winners.victorianow.com](https://winners.victorianow.com)
- - date_published: 2024-05-07T10:43:33.433627+00:00
-
- ## VSNow | Get in on the Secret
- - [https://vsnow.victoriassecret.com](https://vsnow.victoriassecret.com)
- - date_published: 2024-10-27T19:43:39.320211+00:00
-
- ## Victoria's Secret: Przeglądaj bieliznę, biustonosze i stroje kąpielowe we wszystkich rozmiarach
- - [https://www.victoriassecret.com](https://www.victoriassecret.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Metal Stairs, Modern Staircase, Metal Stair Railing, Victoria, BC
- - [https://www.victoriastairs.com](https://www.victoriastairs.com)
- - date_published: 2024-07-04T08:55:30.914161+00:00
-
- ## Victoria Stevens ACR
- - [https://victoriastevensconservation.com](https://victoriastevensconservation.com)
- - date_published: 2024-06-17T18:19:02.599766+00:00
-
- ## Victoria Tran - Community Management & Marketing
- - [https://victoriatran.com](https://victoriatran.com)
- - date_published: 2024-05-06T23:00:18.492703+00:00
-
- ## Victorinox Poland | Victorinox Homepage
- - [https://assets.victorinox.com](https://assets.victorinox.com)
- - date_published: 2024-09-15T00:03:08.309818+00:00
-
- ## ImageEngine - ImageCDN
- - [https://imageengine.victorinox.com](https://imageengine.victorinox.com)
- - date_published: 2024-09-15T00:03:11.205005+00:00
-
- ## Victorinox Media Portal
- - [https://media.victorinox.com](https://media.victorinox.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Victorinox Poland | Victorinox Homepage
- - [https://victorinox.com](https://victorinox.com)
- - date_published: 2024-06-14T15:28:13.967516+00:00
-
- ## SEO Agency: Transform Your Online Presence With Victorious
- - [https://victoriousseo.com](https://victoriousseo.com)
- - date_published: 2024-10-30T18:49:45.922887+00:00
-
- ## Victor Juhasz Illustration – Award winning illustrator, caricaturist, satirist, visual journalist and war artist.
- - [https://victorjuhasz.com](https://victorjuhasz.com)
- - date_published: 2024-07-12T07:38:10.622539+00:00
-
- ## Victor Lodato: Author of HONEY, EDGAR AND LUCY, and MATHILDA SAVITCH
- - [https://victorlodato.com](https://victorlodato.com)
- - date_published: 2024-02-01T18:52:19+00:00
-
- ## Splunk On-Call Software Knowledge Base | Support Documentation, Guides and Tutorials
- - [https://help.victorops.com](https://help.victorops.com)
- - date_published: 2024-07-25T18:16:28.268740+00:00
-
- ## Splunk On-Call
- - [https://portal.victorops.com](https://portal.victorops.com)
- - date_published: 2024-04-29T05:46:14.976515+00:00
-
- ## Victory Belles - Victory Belles Game
- - [http://www.victorybellesgame.com](http://www.victorybellesgame.com)
- - date_published: 2021-01-01T00:00:00+00:00
-
- ## Victory Boogie Woogie .com
- - [https://victoryboogiewoogie.com](https://victoryboogiewoogie.com)
- - date_published: 2022-12-06T20:09:30+00:00
 

@@ -1,3 +1,139 @@
+ ## Give
+ - [https://give.maf.org](https://give.maf.org)
+ - date_published: 2023-07-07T19:43:36+00:00
+
+ ## Home - Mission Aviation Fellowship
+ - [https://maf.org](https://maf.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Mission Aviation Fellowship Gift Shop
+ - [https://store.maf.org](https://store.maf.org)
+ - date_published: 2024-07-07T07:04:38.935972+00:00
+
+ ## Mage :: Mage
+ - [https://magefile.org](https://magefile.org)
+ - date_published: 2024-05-06T08:59:39.598620+00:00
+
+ ## Mageia Blog (English)
+ - [https://blog.mageia.org](https://blog.mageia.org)
+ - date_published: 2024-07-07T04:07:41.714521+00:00
+
+ ## Mageia Bugzilla Main Page
+ - [https://bugs.mageia.org](https://bugs.mageia.org)
+ - date_published: 2024-05-06T14:25:29.683164+00:00
+
+ ## Mageia Identity Management
+ - [https://identity.mageia.org](https://identity.mageia.org)
+ - date_published: 2024-06-23T12:32:17.873192+00:00
+
+ ## mageia-app-db
+ - [https://madb.mageia.org](https://madb.mageia.org)
+ - date_published: 2024-05-11T08:03:25.678256+00:00
+
+ ## Home of the Mageia project
+ - [https://mageia.org](https://mageia.org)
+ - date_published: 2024-05-08T09:17:02.829366+00:00
+
+ ## mognase doc
+ - [https://nav.mageia.org](https://nav.mageia.org)
+ - date_published: 2024-06-23T12:32:17.261818+00:00
+
+ ## Planet Mageia (English)
+ - [https://planet.mageia.org](https://planet.mageia.org)
+ - date_published: 2024-06-30T21:28:33.432306+00:00
+
+ ## ViewVC Repository Listing
+ - [https://svnweb.mageia.org](https://svnweb.mageia.org)
+ - date_published: 2024-05-06T14:25:27.127679+00:00
+
+ ## Mageia wiki
+ - [https://wiki.mageia.org](https://wiki.mageia.org)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Super Magfest
+ - [https://super.magfest.org](https://super.magfest.org)
+ - date_published: 2024-08-19T06:48:37.503947+00:00
+
+ ## Magical Moon Farm & Foundation
+ - [https://www.magicalmoon.org](https://www.magicalmoon.org)
+ - date_published: 2024-05-07T15:28:17.343070+00:00
+
+ ## JudgeApps | Home
+ - [https://apps.magicjudges.org](https://apps.magicjudges.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Magical Miniature Landscapes - The History of Bonsai and Related Arts
+ - [http://www.magiminiland.org](http://www.magiminiland.org)
+ - date_published: 2024-09-14T15:22:16+00:00
+
+ ## Home | MAG
+ - [https://maginternational.org](https://maginternational.org)
+ - date_published: 2024-05-12T06:31:15.812860+00:00
+
+ ## Observatory Magna Charta Universitatum
+ - [https://www.magna-charta.org](https://www.magna-charta.org)
+ - date_published: 2024-04-29T06:59:06.093065+00:00
+
+ ## HOME | Magnify Mentoring
+ - [https://www.magnifymentoring.org](https://www.magnifymentoring.org)
+ - date_published: 2024-06-21T11:39:26.662708+00:00
+
+ ## magnoliavillage.org
+ - [http://www.magnoliavillage.org](http://www.magnoliavillage.org)
+ - date_published: 2024-09-12T19:17:30.376730+00:00
+
+ ## Magpie Guide: Welcome
+ - [https://magpie-lang.org](https://magpie-lang.org)
+ - date_published: 2013-01-02T04:31:44+00:00
+
+ ## Home | MAG
+ - [https://www.mag-us.org](https://www.mag-us.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## magzDB | Вся периодика мира
+ - [https://magzdb.org](https://magzdb.org)
+ - date_published: 2024-05-06T15:11:49.566976+00:00
+
+ ## Home - Mahara ePortfolio System
+ - [https://mahara.org](https://mahara.org)
+ - date_published: 2024-09-16T00:52:38.166238+00:00
+
+ ## Mahara manuals
+ - [https://manual.mahara.org](https://manual.mahara.org)
+ - date_published: 2024-09-15T23:21:28+00:00
+
+ ## Maharishi Programmes in India | maharishi-india.org
+ - [https://maharishi-india.org](https://maharishi-india.org)
+ - date_published: 2024-08-24T00:00:00+00:00
+
+ ## Maheso Naturally Where we Provide Meaningful Value
+ - [https://maheso-naturally.org](https://maheso-naturally.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Welcome - Colorado MahlerFest
+ - [https://mahlerfest.org](https://mahlerfest.org)
+ - date_published: 2018-10-22T23:14:57+00:00
+
+ ## Mahler & LeWitt Studios – Residency program in Spoleto, Italy
+ - [https://mahler-lewitt.org](https://mahler-lewitt.org)
+ - date_published: 2024-09-06T21:47:46.967474+00:00
+
+ ## Home | Mahoosuc Land Trust, Bethel Maine
+ - [https://www.mahoosuc.org](https://www.mahoosuc.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Mahoro Network Status Service Monitoring
+ - [https://status.mahoro-net.org](https://status.mahoro-net.org)
+ - date_published: 2024-08-07T23:00:21.786650+00:00
+
+ ## MAHRP – Maldives Association of Human Resources Professionals
+ - [https://mahrp.org](https://mahrp.org)
+ - date_published: 2024-05-10T06:33:51.299681+00:00
+
+ ## Mail Avenger
+ - [http://www.mailavenger.org](http://www.mailavenger.org)
+ - date_published: 2010-04-06T23:20:30+00:00
+
  ## mailb.org
  - [https://mailb.org](https://mailb.org)
  - date_published: 2023-07-18T14:52:29+00:00
@@ -3912,141 +4048,4 @@ Intro
  ## midatlanticv6tf.org
  - [http://www.midatlanticv6tf.org](http://www.midatlanticv6tf.org)
  - date_published: 2024-07-07T01:24:50.053158+00:00
-
- ## MIDC | Maharashtra Industrial Development Corporation
- - [https://www.midcindia.org](https://www.midcindia.org)
- - date_published: 2024-07-12T14:22:07.432112+00:00
-
- ## 2018 ACM/IFIP International Middleware Conference – December 10-14th 2018 – Rennes, France
- - [http://2018.middleware-conference.org](http://2018.middleware-conference.org)
- - date_published: 2024-07-03T06:10:38.533936+00:00
-
- ## ACM/IFIP Middleware 2020
- - [https://2020.middleware-conference.org](https://2020.middleware-conference.org)
- - date_published: 2021-08-23T13:00:27+00:00
-
- ## MIDI.org – Expanding, promoting, and protecting MIDI technology for the benefit of artists and musicians around the world.
- - [https://midi.org](https://midi.org)
- - date_published: 2024-05-11T08:48:02.337825+00:00
-
- ## Midiaetnica | News Room Website
- - [http://www.midiaetnica.org](http://www.midiaetnica.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## midipix
- - [http://midipix.org](http://midipix.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Mid Island Dahlia Society
- - [https://www.midislanddahlia.org](https://www.midislanddahlia.org)
- - date_published: 2024-07-04T13:03:28.041604+00:00
-
- ## MidnightBSD
- - [https://www.midnightbsd.org](https://www.midnightbsd.org)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## lists.midnight-commander.org Mailing Lists
- - [https://lists.midnight-commander.org](https://lists.midnight-commander.org)
- - date_published: 2024-07-08T10:45:30.010974+00:00
-
- ## Midnight Commander
- - [https://midnight-commander.org](https://midnight-commander.org)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Midnight Sun ...a medieval adventure under a neversetting sun.
- - [https://midnightsun2.org](https://midnightsun2.org)
- - date_published: 2024-03-27T20:47:17.457875+00:00
- - tags: ['mud game']
-
- ## Midrash BEN ISH HAI
- - [http://www.midrash.org](http://www.midrash.org)
- - date_published: 2011-07-29T23:20:14+00:00
-
- ## Home
- - [https://midsouthpeace.org](https://midsouthpeace.org)
- - date_published: 2016-05-11T03:25:34+00:00
-
- ## USS Midway Aircraft Carrier | San Diego Museum | San Diego Tours
- - [https://www.midway.org](https://www.midway.org)
- - date_published: 2024-07-09T17:37:42.396852+00:00
-
- ## Home - Midway Contemporary Art
- - [https://www.midwayart.org](https://www.midwayart.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Neighbors United Funding Collaborative
- - [https://midwayunited.org](https://midwayunited.org)
- - date_published: 2024-09-18T21:44:15.967317+00:00
-
- ## Midwest Access Coalition
- - [https://www.midwestaccesscoalition.org](https://www.midwestaccesscoalition.org)
- - date_published: 2024-07-05T10:50:53.826382+00:00
-
- ## Facebook
- - [https://midwestreprapfest.org](https://midwestreprapfest.org)
- - date_published: 2024-04-28T04:36:46.533488+00:00
-
- ## Mifos Initiative
- - [https://mifos.org](https://mifos.org)
- - date_published: 2024-09-04T05:20:10.995383+00:00
-
- ## 美夫君志会【公式ホームページ】
- - [http://www.mifukushikai.org](http://www.mifukushikai.org)
- - date_published: 2021-01-14T06:25:36+00:00
-
- ## Homepage | Multilateral Investment Guarantee Agency | World Bank Group
- - [https://miga.org](https://miga.org)
- - date_published: 2024-05-12T07:30:54.761327+00:00
-
- ## Strona główna
- - [https://migam.org](https://migam.org)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Ommi
- - [https://omni-tlumacz.migam.org](https://omni-tlumacz.migam.org)
- - date_published: 2024-05-09T11:23:20+00:00
-
- ## Strona główna - tlumacz.migam.org
- - [https://tlumacz.migam.org](https://tlumacz.migam.org)
- - date_published: 2024-01-31T13:40:32+00:00
-
- ## Migranetz Thüringen | Migranetz Thüringen
- - [https://migranetz-thueringen.org](https://migranetz-thueringen.org)
- - date_published: 2024-09-12T16:06:53.550240+00:00
-
- ## Migrants as Messengers
- - [https://www.migrantsasmessengers.org](https://www.migrantsasmessengers.org)
- - date_published: 2024-08-06T07:09:30.684240+00:00
-
- ## Global Migration Data Portal
- - [https://migrationdataportal.org](https://migrationdataportal.org)
- - date_published: 2024-06-29T21:22:29.382573+00:00
-
- ## Migration Policy Institute
- - [https://www.migrationpolicy.org](https://www.migrationpolicy.org)
- - date_published: 2024-06-24T11:43:14+00:00
-
- ## Application development and writing · Informatika Mihelac
- - [http://source.mihelac.org](http://source.mihelac.org)
- - date_published: 2023-06-27T08:46:58+00:00
-
- ## Michigan Health Information Network Shared Services (MiHIN)
- - [https://mihin.org](https://mihin.org)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## 工业和信息化部工业文化发展中心
- - [http://www.miit-icdc.org](http://www.miit-icdc.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## MiiWiki
- - [https://miiwiki.org](https://miiwiki.org)
- - date_published: 2024-06-18T15:00:30+00:00
-
- ## Maynard Institute for Journalism Education
- - [http://www.mije.org](http://www.mije.org)
- - date_published: 2024-07-15T07:18:33.712974+00:00
-
- ## Mike Hulme
- - [http://mikehulme.org](http://mikehulme.org)
- - date_published: 2024-06-28T18:43:12.190984+00:00
 

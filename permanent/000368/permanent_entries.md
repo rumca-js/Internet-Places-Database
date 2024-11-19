@@ -1,3 +1,140 @@
+ ## Fundación Secretariado Gitano
+ - [https://www.gitanos.org](https://www.gitanos.org)
+ - date_published: 2024-07-02T21:27:40.171012+00:00
+
+ ## git-cliff
+ - [https://git-cliff.org](https://git-cliff.org)
+ - date_published: 2024-06-26T10:36:58+00:00
+
+ ## Git for Windows
+ - [https://gitforwindows.org](https://gitforwindows.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## The most-comprehensive AI-powered DevSecOps platform
+ - [https://gitlab.org](https://gitlab.org)
+ - date_published: 2024-05-10T07:01:46.777755+00:00
+
+ ## GitLab Foundation
+ - [https://gitlabfoundation.org](https://gitlabfoundation.org)
+ - date_published: 2023-10-25T21:25:00.592742+00:00
+
+ ## GitList - An elegant and modern git repository viewer
+ - [http://gitlist.org](http://gitlist.org)
+ - date_published: 2022-01-15T05:26:26+00:00
+
+ ## GitNation Events - Giving Open Source a human face
+ - [https://gitnation.org](https://gitnation.org)
+ - date_published: 2024-05-06T13:26:07.659846+00:00
+
+ ## Public Home Page
+ - [https://info.gitnation.org](https://info.gitnation.org)
+ - date_published: 2024-06-20T07:00:49.892347+00:00
+
+ ## Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation
+ - [https://portal.gitnation.org](https://portal.gitnation.org)
+ - date_published: 2024-05-04T13:58:02.542463+00:00
+ - tags: ['conference', 'javascript']
+
+ ## Gitnux Market Data: Statistics & Reports
+ - [https://gitnux.org](https://gitnux.org)
+ - date_published: 2024-08-19T07:12:58.732471+00:00
+
+ ## gitorious valhalla
+ - [https://gitorious.org](https://gitorious.org)
+ - date_published: 2016-11-27T02:17:25+00:00
+
+ ## Git
+ - [https://git-scm.org](https://git-scm.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## gittup.org: [Wicked cool tagline.]
+ - [http://gittup.org](http://gittup.org)
+ - date_published: 2022-04-21T19:06:53+00:00
+
+ ## Find Best Charities To Donate | Charity Ratings, Reviews
+ - [https://give.org](https://give.org)
+ - date_published: 2024-05-08T07:33:02.894009+00:00
+
+ ## WBAI Online Donation Site by WBAI
+ - [https://give2wbai.org](https://give2wbai.org)
+ - date_published: 2024-05-29T06:59:50.501191+00:00
+
+ ## Miller-Keystone Blood Center, Pennsylvania & New Jersey
+ - [https://www.giveapint.org](https://www.giveapint.org)
+ - date_published: 2024-10-19T09:44:46.904803+00:00
+
+ ## Dental Pulse Clinic | Microscopic Root Canal & Implant Center
+ - [https://www.giveawayindia.org](https://www.giveawayindia.org)
+ - date_published: 2024-06-11T06:40:38+00:00
+
+ ## Welcome to Baylor College of Medicine
+ - [https://secure.givebcm.org](https://secure.givebcm.org)
+ - date_published: 2024-07-19T21:12:48+00:00
+
+ ## GiveCamp Memphis | Coding for Charity
+ - [https://givecampmemphis.org](https://givecampmemphis.org)
+ - date_published: 2024-05-08T06:02:32.098812+00:00
+
+ ## Best fundraising Ideas For non profit organizations | GIveCentral
+ - [https://www.givecentral.org](https://www.givecentral.org)
+ - date_published: 2024-07-04T17:01:38.049796+00:00
+
+ ## GiveDirect
+ - [https://www.givedirect.org](https://www.givedirect.org)
+ - date_published: 2024-06-27T06:29:48.445348+00:00
+
+ ## GiveDirectly: Send money to people living in poverty
+ - [https://community.givedirectly.org](https://community.givedirectly.org)
+ - date_published: 2024-06-21T11:40:31.011704+00:00
+
+ ## Give Now | GiveDirectly
+ - [https://donate.givedirectly.org](https://donate.givedirectly.org)
+ - date_published: 2024-05-10T05:58:32.596256+00:00
+
+ ## GiveDirectly: Send money to people living in poverty
+ - [https://givedirectly.org](https://givedirectly.org)
+ - date_published: 2024-05-06T23:00:05.602791+00:00
+
+ ## GiveDirectly: Send money directly to the extreme poor
+ - [https://live.givedirectly.org](https://live.givedirectly.org)
+ - date_published: 2024-05-10T05:58:38.194470+00:00
+
+ ## Please Donate to Lifeline
+ - [http://lifeline.giveeasy.org](http://lifeline.giveeasy.org)
+ - date_published: 2024-09-12T15:51:20.760617+00:00
+
+ ## {{CONFIG.pageTags.opengraphTitle}}
+ - [https://giveforgoodnla.org](https://giveforgoodnla.org)
+ - date_published: 2024-05-04T10:12:17.478511+00:00
+
+ ## Give
+ - [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Give Lively
+ - [https://secure.givelively.org](https://secure.givelively.org)
+ - date_published: 2024-05-21T02:45:03.353239+00:00
+
+ ## Give Lively - A Free Fundraising Platform For Nonprofits
+ - [https://www.givelively.org](https://www.givelively.org)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## GiveMN
+ - [https://givemn.org](https://givemn.org)
+ - date_published: 2024-06-15T18:16:44.735642+00:00
+
+ ## GiveSignup
+ - [https://www.givesignup.org](https://www.givesignup.org)
+ - date_published: 2024-10-30T00:58:05.530489+00:00
+
+ ## Home Page
+ - [https://donate.givetoiowa.org](https://donate.givetoiowa.org)
+ - date_published: 2024-07-02T02:53:56.789667+00:00
+
+ ## Supporting Education - Morgan State University Foundation
+ - [http://www.givetomorgan.org](http://www.givetomorgan.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Shout: the UK's free, confidential and 24/7 mental health text service for crisis support
  - [https://giveusashout.org](https://giveusashout.org)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -3910,141 +4047,4 @@
  ## HappyAtWork, les meilleures entreprises pour travailler
  - [https://happy-at-work.org](https://happy-at-work.org)
  - date_published: 2024-07-16T19:55:47.982552+00:00
-
- ## Home | Happy Hen Animal Sanctuary
- - [https://www.happyhen.org](https://www.happyhen.org)
- - date_published: 2024-07-07T07:18:28.305611+00:00
-
- ## happytrees.org
- - [https://happytrees.org](https://happytrees.org)
- - date_published: 2024-07-23T23:41:39.454489+00:00
-
- ## Statistics Report for HAProxy on 1wt.eu
- - [http://demo.haproxy.org](http://demo.haproxy.org)
- - date_published: 2024-07-15T11:43:51.920330+00:00
-
- ## HAProxy community
- - [http://discourse.haproxy.org](http://discourse.haproxy.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## HAProxy Documentation Converter
- - [http://docs.haproxy.org](http://docs.haproxy.org)
- - date_published: 2024-07-13T00:44:54+00:00
-
- ## Repositories
- - [http://git.haproxy.org](http://git.haproxy.org)
- - date_published: 2024-07-15T11:43:57.534336+00:00
-
- ## HAProxy - The Reliable, High Perf. TCP/HTTP Load Balancer
- - [https://haproxy.org](https://haproxy.org)
- - date_published: 2023-10-25T21:27:56.904932+00:00
-
- ## Join HAProxy on Slack!
- - [https://slack.haproxy.org](https://slack.haproxy.org)
- - date_published: 2024-05-04T09:18:18.419216+00:00
-
- ## Harappa Ancestry Project
- - [https://www.harappadna.org](https://www.harappadna.org)
- - date_published: 2024-10-19T06:32:25.441471+00:00
-
- ## The Harbaum family - www.harbaum.org
- - [http://harbaum.org](http://harbaum.org)
- - date_published: 2007-04-29T16:27:38+00:00
-
- ## Graduate Medical Education - Harbor-UCLA Medical Center
- - [https://www.harbor-ucla.org](https://www.harbor-ucla.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## The Harbus - Harvard Business School Independent newspaper.
- - [https://archive.harbus.org](https://archive.harbus.org)
- - date_published: 2024-06-23T02:14:09.055807+00:00
-
- ## The Harbus
- - [https://harbus.org](https://harbus.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home - Houston Advanced Research Center
- - [https://harcresearch.org](https://harcresearch.org)
- - date_published: 2023-04-28T16:48:02+00:00
-
- ## Home · Wiki · HardenedBSD / HardenedBSD · GitLab
- - [https://git.hardenedbsd.org](https://git.hardenedbsd.org)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## HardenedBSD
- - [https://hardenedbsd.org](https://hardenedbsd.org)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Poudriere Index
- - [https://hbsd-pkg-13-stable-01.hardenedbsd.org](https://hbsd-pkg-13-stable-01.hardenedbsd.org)
- - date_published: 2024-07-11T15:01:17+00:00
-
- ## Poudriere Index
- - [https://hbsd-pkg-14-stable-01.hardenedbsd.org](https://hbsd-pkg-14-stable-01.hardenedbsd.org)
- - date_published: 2024-07-25T17:06:14+00:00
-
- ## Poudriere Index
- - [https://hbsd-pkg-current-01.hardenedbsd.org](https://hbsd-pkg-current-01.hardenedbsd.org)
- - date_published: 2024-07-11T14:57:29+00:00
-
- ## Index of /
- - [http://updates.hardenedbsd.org](http://updates.hardenedbsd.org)
- - date_published: 2024-09-21T22:58:20.175781+00:00
-
- ## Hardhat | Ethereum development environment for professionals by Nomic Foundation
- - [https://hardhat.org](https://hardhat.org)
- - date_published: 2024-07-04T10:00:14.701964+00:00
-
- ## Hardwar by andrewfenn
- - [https://hardwar.org](https://hardwar.org)
- - date_published: 2014-04-01T16:05:51+00:00
-
- ## The Hare programming language
- - [https://harelang.org](https://harelang.org)
- - date_published: 2023-12-02T19:30:49.096219+00:00
-
- ## Home
- - [https://harewood.org](https://harewood.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## GitHub - harfbuzz/harfbuzz: HarfBuzz text shaping engine
- - [http://harfbuzz.org](http://harfbuzz.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Hi! I’m Harish Narayanan
- - [https://harishnarayanan.org](https://harishnarayanan.org)
- - date_published: 2024-05-29T20:58:51.360807+00:00
- - tags: ['personal']
-
- ## HarmBench
- - [https://www.harmbench.org](https://www.harmbench.org)
- - date_published: 2024-07-06T19:51:24.668582+00:00
-
- ## Harmonai.org
- - [https://www.harmonai.org](https://www.harmonai.org)
- - date_published: 2024-06-19T19:53:37.980539+00:00
-
- ## Harmony Agreements
- - [http://www.harmonyagreements.org](http://www.harmonyagreements.org)
- - date_published: 2024-09-06T20:15:08.810686+00:00
-
- ## HarmonyJoy
- - [https://harmonyjoy.org](https://harmonyjoy.org)
- - date_published: 2024-05-09T08:03:56.110887+00:00
-
- ## ♥HARMONY ZONE♥
- - [http://harmonyzone.org](http://harmonyzone.org)
- - date_published: 2015-07-11T13:24:06+00:00
-
- ## Harold Alfond Foundation
- - [https://www.haroldalfondfoundation.org](https://www.haroldalfondfoundation.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home | Harper's Magazine
- - [https://harpers.org](https://harpers.org)
- - date_published: 2023-10-25T21:28:02.019118+00:00
-
- ## Sign In to Harper's Magazine
- - [https://login.harpers.org](https://login.harpers.org)
- - date_published: 2024-07-19T02:54:33.491129+00:00
 

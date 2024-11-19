@@ -1,3 +1,88 @@
+ ## Semarchy | Leading Unified Data Management Platform
+ - [https://semarchy.com](https://semarchy.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Support
+ - [https://support.semarchy.com](https://support.semarchy.com)
+ - date_published: 2024-10-14T10:26:33.860173+00:00
+
+ ## Support
+ - [https://support-xdi.semarchy.com](https://support-xdi.semarchy.com)
+ - date_published: 2024-10-14T10:26:29.185496+00:00
+
+ ## Support
+ - [https://support-xdm.semarchy.com](https://support-xdm.semarchy.com)
+ - date_published: 2024-10-14T10:25:45.518957+00:00
+
+ ## Semasio™ | Home
+ - [https://www.semasio.com](https://www.semasio.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Assess risk in GenAI code | Sema
+ - [https://www.semasoftware.com](https://www.semasoftware.com)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Sematext Blog - Sematext
+ - [https://blog.sematext.com](https://blog.sematext.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Sematext: Metrics, Logs, Frontent, Uptime & API Monitoring - all in one solution
+ - [https://sematext.com](https://sematext.com)
+ - date_published: 2021-02-04T14:46:17+00:00
+
+ ## SEMbyotic | Digital Marketing & Web Design Agency San Jose
+ - [https://sembyotic.com](https://sembyotic.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Welcome to the Seminary Co-op Bookstores | Seminary Co-op Bookstores
+ - [http://semcoop.com](http://semcoop.com)
+ - date_published: 2024-06-20T05:11:46+00:00
+
+ ## Semantic Designs
+ - [https://semdesigns.com](https://semdesigns.com)
+ - date_published: 2023-07-26T15:37:53+00:00
+
+ ## Semeantojaunafiesta - Rekomendasi Game Online Android yang Asik Dimainkan!
+ - [https://semeantojaunafiesta.com](https://semeantojaunafiesta.com)
+ - date_published: 2024-08-20T04:09:56.712014+00:00
+
+ ## SemiAnalysis | Dylan Patel | Substack
+ - [https://www.semianalysis.com](https://www.semianalysis.com)
+ - date_published: 2023-10-25T17:01:49.736351+00:00
+
+ ## SEMICAT | Solution provider to the semiconductor equipment industry
+ - [https://semicat.com](https://semicat.com)
+ - date_published: 2024-06-20T22:13:37.815792+00:00
+
+ ## Home - Semiconductor Digest
+ - [https://www.semiconductor-digest.com](https://www.semiconductor-digest.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## The Business of Semiconductor Summit 2024
+ - [https://semiconductorsummit.com](https://semiconductorsummit.com)
+ - date_published: 2024-06-26T11:28:52.389207+00:00
+
+ ## Semiconductor Today magazine, compound semiconductors, gallium nitride, gallium arsenide, indium phosphide, silicon carbide, LEDs
+ - [https://www.semiconductor-today.com](https://www.semiconductor-today.com)
+ - date_published: 2024-08-07T02:42:59.100393+00:00
+
+ ## Circuit Digest
+ - [https://newsletter.semiconmedia.com](https://newsletter.semiconmedia.com)
+ - date_published: 2024-04-29T09:34:23.121569+00:00
+
+ ## Top Page | Toshiba Electronic Devices & Storage Corporation | Europe(EMEA)
+ - [https://toshiba.semicon-storage.com](https://toshiba.semicon-storage.com)
+ - date_published: 2024-07-11T13:09:50+00:00
+
+ ## Semiconductor Engineering - Deep Insights For Chip Engineers
+ - [https://semiengineering.com](https://semiengineering.com)
+ - date_published: 2023-10-25T17:01:53.874840+00:00
+ - tags: ['verilog']
+
+ ## Semillas Fitó Global
+ - [https://www.semillasfito.com](https://www.semillasfito.com)
+ - date_published: 2024-06-19T23:24:40.887692+00:00
+
  ## Florida State University  - Official Athletics Website
  - [https://seminoles.com](https://seminoles.com)
  - date_published: 2024-08-10T00:00:00+00:00
@@ -3950,89 +4035,4 @@
  ## Shannen Khin - Marketing Strategy Manager - London
  - [https://shannenkhin.com](https://shannenkhin.com)
  - date_published: 2016-01-01T00:00:00+00:00
-
- ## Adobe Portfolio
- - [https://shannonbadiee.com](https://shannonbadiee.com)
- - date_published: 2024-06-11T19:05:07+00:00
-
- ## Shannon Crabill's Personal Website: shannoncrabill.com
- - [https://shannoncrabill.com](https://shannoncrabill.com)
- - date_published: 2024-05-07T23:27:03.193523+00:00
-
- ## Shannon Donnelly's Fresh Ink
- - [http://shannondonnelly.com](http://shannondonnelly.com)
- - date_published: 2024-09-09T13:29:35.650767+00:00
-
- ## Shannon Dorsey.com
- - [https://www.shannondorsey.com](https://www.shannondorsey.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Shannon E. Thomas
- - [https://shannonethomas.com](https://shannonethomas.com)
- - date_published: 2023-11-22T18:43:41.476621+00:00
- - tags: ['personal']
-
- ## Shannon Heaton and Irish Music Stories
- - [https://shannonheatonmusic.com](https://shannonheatonmusic.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## smoke vale -
- - [https://shannonhelm.com](https://shannonhelm.com)
- - date_published: 2024-04-29T05:47:50.582679+00:00
-
- ## Shannon Kay
- - [https://photo.shannonkay.com](https://photo.shannonkay.com)
- - date_published: 2024-04-29T03:30:08.711304+00:00
-
- ## Shannon Kay [Shannon's Homepage]
- - [https://shannonkay.com](https://shannonkay.com)
- - date_published: 2023-08-08T07:18:56+00:00
-
- ## Author Shannon Mayer | Urban Fantasy | Bestselling Author
- - [http://www.shannonmayer.com](http://www.shannonmayer.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Grumble Flap
- - [https://grumbleflap.shannonmcmaster.com](https://grumbleflap.shannonmcmaster.com)
- - date_published: 2024-06-21T07:46:18+00:00
-
- ## Home - Shannon Selin
- - [https://shannonselin.com](https://shannonselin.com)
- - date_published: 2024-05-08T03:19:08.165560+00:00
-
- ## SHANNON TAGGART
- - [http://www.shannontaggart.com](http://www.shannontaggart.com)
- - date_published: 2024-06-24T09:47:17.300778+00:00
-
- ## SHAN AKO
- - [https://www.shanofficially.com](https://www.shanofficially.com)
- - date_published: 2024-06-23T08:41:33.018607+00:00
-
- ## Shantell Sans → A font for you
- - [https://shantellsans.com](https://shantellsans.com)
- - date_published: 2024-06-17T18:19:53+00:00
-
- ## Shaoteng Liu
- - [https://www.shaotengliu.com](https://www.shaotengliu.com)
- - date_published: 2024-08-07T16:12:53.554847+00:00
-
- ## Shaoxiong (Shawn) Wang @ MIT CSAIL
- - [http://shaoxiongwang.com](http://shaoxiongwang.com)
- - date_published: 2024-01-16T07:04:30+00:00
-
- ## Welcome to shapcowp.com - Best value online printing company. High quality print delivered!
- - [https://nmdp.shapcowp.com](https://nmdp.shapcowp.com)
- - date_published: 2024-10-16T17:52:09.472890+00:00
-
- ## Shape
- - [http://www.shape.com](http://www.shape.com)
- - date_published: 2024-10-11T21:31:27.284014+00:00
-
- ## Home
- - [https://www.shape5.com](https://www.shape5.com)
- - date_published: 2024-07-20T12:50:39.716883+00:00
-
- ## ShapeBlue | The CloudStack Company
- - [https://www.shapeblue.com](https://www.shapeblue.com)
- - date_published: 2024-03-15T00:00:00+00:00
 

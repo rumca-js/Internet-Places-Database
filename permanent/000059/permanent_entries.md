@@ -1,3 +1,19 @@
+ ## Hits To Kill
+ - [https://hitstokill.blogspot.com](https://hitstokill.blogspot.com)
+ - date_published: 2024-10-25T07:28:15+00:00
+
+ ## Hitting Dirtside
+ - [http://hitting-dirtside.blogspot.com](http://hitting-dirtside.blogspot.com)
+ - date_published: 2024-07-11T18:13:38+00:00
+
+ ## Hitting on a Double 1
+ - [https://hittingonadouble1.blogspot.com](https://hittingonadouble1.blogspot.com)
+ - date_published: 2024-07-14T21:00:16+00:00
+
+ ## Hive Fleet Erebus
+ - [http://hivefleeterebus.blogspot.com](http://hivefleeterebus.blogspot.com)
+ - date_published: 2024-09-14T16:56:10+00:00
+
  ## The Lost Chapter
  - [http://hiveminionshobbyblog.blogspot.com](http://hiveminionshobbyblog.blogspot.com)
  - date_published: 2024-09-11T01:16:54+00:00
@@ -3994,20 +4010,4 @@
  ## Laudator Temporis Acti
  - [http://laudatortemporisacti.blogspot.com](http://laudatortemporisacti.blogspot.com)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Laughing Conservative
- - [http://laughingconservative.blogspot.com](http://laughingconservative.blogspot.com)
- - date_published: 2024-03-05T13:42:41+00:00
-
- ## Laughing Ferret
- - [http://laughingferret.blogspot.com](http://laughingferret.blogspot.com)
- - date_published: 2024-07-04T05:46:17+00:00
-
- ## Laughing Wild
- - [http://laughingwild.blogspot.com](http://laughingwild.blogspot.com)
- - date_published: 2024-10-19T08:23:25.412612+00:00
-
- ## Launceston Radio Monitoring
- - [https://launcestonradiomonitoring.blogspot.com](https://launcestonradiomonitoring.blogspot.com)
- - date_published: 2024-11-17T00:00:00+00:00
 

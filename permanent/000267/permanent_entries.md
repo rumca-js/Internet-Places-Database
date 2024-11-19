@@ -1,3 +1,115 @@
+ ## edició UBWeb - UB
+ - [https://estatics.web.ub.edu](https://estatics.web.ub.edu)
+ - date_published: 2024-07-07T01:40:44.842312+00:00
+
+ ## Inici sessió - Identificació UB - Universitat de Barcelona
+ - [https://intranet.ub.edu](https://intranet.ub.edu)
+ - date_published: 2024-07-07T01:40:41.944200+00:00
+
+ ## MIAR 2024 live. Information Matrix for the Analysis of Journals
+ - [https://miar.ub.edu](https://miar.ub.edu)
+ - date_published: 2024-07-09T21:17:10.954818+00:00
+
+ ## Universitat de Barcelona - seu electrònica
+ - [https://seu.ub.edu](https://seu.ub.edu)
+ - date_published: 2024-07-07T01:40:37.858767+00:00
+
+ ## Botiga UB | Official Shop
+ - [https://shop.ub.edu](https://shop.ub.edu)
+ - date_published: 2024-07-07T01:40:45.720458+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://sire.ub.edu](https://sire.ub.edu)
+ - date_published: 2024-06-22T07:15:45.705629+00:00
+
+ ## UB - Universitat de Barcelona - UB
+ - [https://ub.edu](https://ub.edu)
+ - date_published: 2024-05-08T08:49:51.683500+00:00
+
+ ## UB - Universitat de Barcelona - UB
+ - [https://web.ub.edu](https://web.ub.edu)
+ - date_published: 2024-07-07T01:40:43.391041+00:00
+
+ ## Edicions de la Universitat de Barcelona
+ - [http://www.edicions.ub.edu](http://www.edicions.ub.edu)
+ - date_published: 2024-07-07T01:40:39.632397+00:00
+
+ ## School of Law - University of Baltimore
+ - [http://law.ubalt.edu](http://law.ubalt.edu)
+ - date_published: 2024-06-17T11:15:31.430345+00:00
+
+ ## ScholarWorks: UB Law's Institutional Repository
+ - [http://scholarworks.law.ubalt.edu](http://scholarworks.law.ubalt.edu)
+ - date_published: 2024-10-18T22:22:43.968827+00:00
+
+ ## University of Baltimore - Undergraduate & Graduate Degrees in Maryland
+ - [https://www.ubalt.edu](https://www.ubalt.edu)
+ - date_published: 2024-06-24T04:46:08.396209+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.uc.edu](https://admissions.uc.edu)
+ - date_published: 2024-05-07T20:42:16.163979+00:00
+
+ ## PeopleGrove
+ - [https://alumniconnect.uc.edu](https://alumniconnect.uc.edu)
+ - date_published: 2024-07-01T22:05:03+00:00
+
+ ## UC Alumni Association
+ - [https://alumni.uc.edu](https://alumni.uc.edu)
+ - date_published: 2024-05-07T20:42:10.398358+00:00
+
+ ## University Of Cincinnati
+ - [https://bearcatportal.uc.edu](https://bearcatportal.uc.edu)
+ - date_published: 2024-05-07T20:42:39.878095+00:00
+
+ ## University Of Cincinnati
+ - [https://canopy.uc.edu](https://canopy.uc.edu)
+ - date_published: 2024-05-07T20:42:47.246742+00:00
+
+ ## University of Cincinnati
+ - [https://catalyst.uc.edu](https://catalyst.uc.edu)
+ - date_published: 2024-05-07T20:42:54.023882+00:00
+
+ ## 1819 Innovation Hub
+ - [http://commercialization.uc.edu](http://commercialization.uc.edu)
+ - date_published: 2024-07-01T21:23:29+00:00
+
+ ## Digital Collections & Exhibits
+ - [http://digproj.libraries.uc.edu](http://digproj.libraries.uc.edu)
+ - date_published: 2024-04-29T02:57:13.321021+00:00
+
+ ## Home - Foundation - University of Cincinnati
+ - [https://foundation.uc.edu](https://foundation.uc.edu)
+ - date_published: 2024-07-01T22:05:13.767515+00:00
+
+ ## Give to UC and UC Health - Primary Donation Form - University of Cincinnati
+ - [https://giveto.uc.edu](https://giveto.uc.edu)
+ - date_published: 2024-05-07T20:42:13.017814+00:00
+
+ ## The Graduate College
+ - [https://grad.uc.edu](https://grad.uc.edu)
+ - date_published: 2024-07-01T21:22:47+00:00
+
+ ## 1819 Innovation Hub
+ - [https://innovation.uc.edu](https://innovation.uc.edu)
+ - date_published: 2024-05-07T20:42:42.312411+00:00
+
+ ## UC Jobs Application Portal
+ - [https://jobs.uc.edu](https://jobs.uc.edu)
+ - date_published: 2024-07-01T22:06:18.545869+00:00
+
+ ## University of Cincinnati
+ - [https://mail.uc.edu](https://mail.uc.edu)
+ - date_published: 2024-05-07T20:42:24.723425+00:00
+
+ ## Enrollment Services
+ - [https://onestop.uc.edu](https://onestop.uc.edu)
+ - date_published: 2024-05-07T20:42:50.103480+00:00
+
+ ## Home Page
+ - [https://online.uc.edu](https://online.uc.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
  ## Home
  - [https://research.uc.edu](https://research.uc.edu)
  - date_published: 2024-07-01T22:06:23.237806+00:00
@@ -3912,117 +4024,4 @@
  ## Home | Office of University Compliance
  - [https://compliance.uconn.edu](https://compliance.uconn.edu)
  - date_published: 2024-03-05T00:00:00+00:00
-
- ## Home | Math Courses
- - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Home | Connecticut Small Business Development Center
- - [https://ctsbdc.uconn.edu](https://ctsbdc.uconn.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | Daigle Labs
- - [https://daiglelabs.business.uconn.edu](https://daiglelabs.business.uconn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Digital Frontiers Initiative | UConn School of Business
- - [https://digitalfrontiers.business.uconn.edu](https://digitalfrontiers.business.uconn.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Office of Diversity Initiatives | UConn School of Business
- - [http://diversity.business.uconn.edu](http://diversity.business.uconn.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Entrepreneurship Bootcamp for Veterans | Connecticut Center for Entrepreneurship and Innovation
- - [http://ebv.business.uconn.edu](http://ebv.business.uconn.edu)
- - date_published: 2017-07-19T16:10:27+00:00
-
- ## Home | Office of Institutional Equity
- - [http://equity.uconn.edu](http://equity.uconn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UConn Calendar
- - [https://events.uconn.edu](https://events.uconn.edu)
- - date_published: 2024-06-27T17:02:56+00:00
-
- ## New Home | Faculty & Staff
- - [https://facultystaff.uconn.edu](https://facultystaff.uconn.edu)
- - date_published: 2024-07-01T21:49:56+00:00
-
- ## FERPA Manager
- - [https://ferpamanager.uconn.edu](https://ferpamanager.uconn.edu)
- - date_published: 2024-07-01T23:19:15.523206+00:00
-
- ## Home | UConn Finance Department - School of Business
- - [http://finance.business.uconn.edu](http://finance.business.uconn.edu)
- - date_published: 2024-07-01T23:23:37+00:00
-
- ## Graduate Programs in Financial Technology (FinTech)
- - [https://fintech.business.uconn.edu](https://fintech.business.uconn.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## UConn Global Business Programs | School of Business
- - [http://global.business.uconn.edu](http://global.business.uconn.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## HOME | Global Affairs
- - [https://global.uconn.edu](https://global.uconn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Goldenson Center
- - [https://goldensoncenter.uconn.edu](https://goldensoncenter.uconn.edu)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Graduate Business Programs | Graduate Programs
- - [https://grad.business.uconn.edu](https://grad.business.uconn.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## The Graduate School | The Graduate School
- - [https://grad.uconn.edu](https://grad.uconn.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Greenhouse Studios - Scholarly Communications Design at UConn
- - [https://greenhousestudios.uconn.edu](https://greenhousestudios.uconn.edu)
- - date_published: 2024-07-19T03:49:16.145807+00:00
-
- ## Home | Hartford
- - [https://hartford.uconn.edu](https://hartford.uconn.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Home | Healthcare Management & Insurance Studies
- - [http://healthcare.business.uconn.edu](http://healthcare.business.uconn.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home | UConn Health
- - [https://health.uconn.edu](https://health.uconn.edu)
- - date_published: 2024-07-01T22:56:02+00:00
-
- ## Home | Student Consumer Information
- - [http://heoa.uconn.edu](http://heoa.uconn.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Online Graduate Programs in Human Resource Management | UConn HRM
- - [http://hrm.business.uconn.edu](http://hrm.business.uconn.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home | Human Resources
- - [https://hr.uconn.edu](https://hr.uconn.edu)
- - date_published: 2024-07-01T21:01:48+00:00
-
- ## Human Rights Institute | University of Connecticut
- - [https://humanrights.uconn.edu](https://humanrights.uconn.edu)
- - date_published: 2024-07-22T07:54:38+00:00
-
- ## Home | Innovation Quest
- - [https://innovationquest.uconn.edu](https://innovationquest.uconn.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Keith Conrad's Home Page
- - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
- - date_published: 2024-05-07T15:58:32.946320+00:00
- - tags: ['personal']
-
- ## Home | Aurora
- - [https://kendalllab.media.uconn.edu](https://kendalllab.media.uconn.edu)
- - date_published: 2024-07-01T02:07:45+00:00
 

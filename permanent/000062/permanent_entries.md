@@ -1,3 +1,19 @@
+ ## Plastic Killers
+ - [http://plastickillers.blogspot.com](http://plastickillers.blogspot.com)
+ - date_published: 2024-08-30T19:38:52+00:00
+
+ ## Plastic Krak
+ - [http://plastickrak.blogspot.com](http://plastickrak.blogspot.com)
+ - date_published: 2024-10-19T06:33:19+00:00
+
+ ## Plastic Legions
+ - [http://plasticlegions.blogspot.com](http://plasticlegions.blogspot.com)
+ - date_published: 2024-07-11T18:33:27+00:00
+
+ ## Plastic Malpractice
+ - [https://plasticmalpractice.blogspot.com](https://plasticmalpractice.blogspot.com)
+ - date_published: 2024-10-31T10:17:21+00:00
+
  ## Hidup Berawal dari Mimpi
  - [http://plasticmayhem.blogspot.com](http://plasticmayhem.blogspot.com)
  - date_published: 2024-09-01T17:37:21+00:00
@@ -3996,20 +4012,4 @@
  ## Serious Case of the Runs
  - [http://seriouscaseoftheruns.blogspot.com](http://seriouscaseoftheruns.blogspot.com)
  - date_published: 2024-10-05T01:59:20+00:00
-
- ## Late but in Earnest
- - [http://serosedseriocat.blogspot.com](http://serosedseriocat.blogspot.com)
- - date_published: 2024-10-21T15:58:44.130816+00:00
-
- ## Serpentarium
- - [http://serpentarium-painting.blogspot.com](http://serpentarium-painting.blogspot.com)
- - date_published: 2024-07-17T07:21:01+00:00
-
- ## Summers on Haskell and {Eclipse,Emacs}
- - [http://serras-haskell-gsoc.blogspot.com](http://serras-haskell-gsoc.blogspot.com)
- - date_published: 2024-03-13T01:17:47+00:00
-
- ## Servants of Ruin
- - [http://servantsofruin.blogspot.com](http://servantsofruin.blogspot.com)
- - date_published: 2024-04-09T05:28:58+00:00
 

@@ -1,3 +1,19 @@
+ ## Laughing Conservative
+ - [http://laughingconservative.blogspot.com](http://laughingconservative.blogspot.com)
+ - date_published: 2024-03-05T13:42:41+00:00
+
+ ## Laughing Ferret
+ - [http://laughingferret.blogspot.com](http://laughingferret.blogspot.com)
+ - date_published: 2024-07-04T05:46:17+00:00
+
+ ## Laughing Wild
+ - [http://laughingwild.blogspot.com](http://laughingwild.blogspot.com)
+ - date_published: 2024-10-19T08:23:25.412612+00:00
+
+ ## Launceston Radio Monitoring
+ - [https://launcestonradiomonitoring.blogspot.com](https://launcestonradiomonitoring.blogspot.com)
+ - date_published: 2024-11-17T00:00:00+00:00
+
  ## Launchings by David Bressoud
  - [https://launchings.blogspot.com](https://launchings.blogspot.com)
  - date_published: 2024-05-08T09:48:29.597818+00:00
@@ -3994,20 +4010,4 @@
  ## Mr Saturday's Mumblings
  - [https://mrsaturdaysmumblings.blogspot.com](https://mrsaturdaysmumblings.blogspot.com)
  - date_published: 2024-06-12T06:27:53+00:00
-
- ## Stuart's Blog
- - [http://mrstu.blogspot.com](http://mrstu.blogspot.com)
- - date_published: 2024-03-13T08:37:52+00:00
-
- ## LayoutVision
- - [http://mrsvc.blogspot.com](http://mrsvc.blogspot.com)
- - date_published: 2004-02-27T00:00:00+00:00
-
- ## Mr Trail Safety Speaks!
- - [http://mrtrailsafety.blogspot.com](http://mrtrailsafety.blogspot.com)
- - date_published: 2024-10-25T06:29:44+00:00
-
- ## Mr. Vacuum Tube
- - [http://mrvacuumtube.blogspot.com](http://mrvacuumtube.blogspot.com)
- - date_published: 2024-04-19T22:47:41+00:00
 

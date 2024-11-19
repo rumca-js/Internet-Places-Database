@@ -1,3 +1,116 @@
+ ## University Policy  | The University of New Mexico
+ - [https://policy.unm.edu](https://policy.unm.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Index of /
+ - [https://presidentialsearch.unm.edu](https://presidentialsearch.unm.edu)
+ - date_published: 2024-07-02T05:16:35.005172+00:00
+
+ ## Information Privacy | The University of New Mexico
+ - [https://privacy.unm.edu](https://privacy.unm.edu)
+ - date_published: 2019-12-18T18:55:14+00:00
+
+ ## Public Records Request | The University of New Mexico
+ - [https://publicrecords.unm.edu](https://publicrecords.unm.edu)
+ - date_published: 2024-05-07T21:44:25.143863+00:00
+
+ ## Recreational Services | The University of New Mexico
+ - [https://recservices.unm.edu](https://recservices.unm.edu)
+ - date_published: 2024-04-16T20:29:29+00:00
+
+ ## Office of the Registrar | The University of New Mexico
+ - [https://registrar.unm.edu](https://registrar.unm.edu)
+ - date_published: 2024-02-28T21:04:02+00:00
+
+ ## School of Architecture and Planning | The University of New Mexico
+ - [https://saap.unm.edu](https://saap.unm.edu)
+ - date_published: 2024-05-08T11:43:56.505619+00:00
+
+ ## Student Activities Center | The University of New Mexico
+ - [https://sac.unm.edu](https://sac.unm.edu)
+ - date_published: 2024-05-07T21:43:08.543197+00:00
+
+ ## Schedule | The University of New Mexico
+ - [https://schedule.unm.edu](https://schedule.unm.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Scholarship Office | The University of New Mexico
+ - [http://scholarships.unm.edu](http://scholarships.unm.edu)
+ - date_published: 2024-05-09T19:53:29+00:00
+
+ ## Scholarship Office | The University of New Mexico
+ - [https://scholarship.unm.edu](https://scholarship.unm.edu)
+ - date_published: 2024-05-09T19:53:29+00:00
+
+ ## Search Home :: 
+     Search UNM | The University of New Mexico
+ - [http://search.unm.edu](http://search.unm.edu)
+ - date_published: 2018-01-10T22:41:51+00:00
+
+ ## Student Health and Counseling | The University of New Mexico
+ - [http://shac.unm.edu](http://shac.unm.edu)
+ - date_published: 2024-06-14T18:09:07+00:00
+
+ ## UNM Social Media | The University of New Mexico
+ - [https://social.unm.edu](https://social.unm.edu)
+ - date_published: 2024-05-07T21:43:00.330238+00:00
+
+ ## UNM Online | The University of New Mexico
+ - [https://statewide.unm.edu](https://statewide.unm.edu)
+ - date_published: 2024-07-02T04:33:07+00:00
+
+ ## FastInfo - the UNM Knowledge Management System
+ - [https://studentinfo.unm.edu](https://studentinfo.unm.edu)
+ - date_published: 2024-07-02T05:04:35.220668+00:00
+
+ ## Students | The University of New Mexico
+ - [https://student.unm.edu](https://student.unm.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Study Abroad | The University of New Mexico
+ - [http://studyabroad.unm.edu](http://studyabroad.unm.edu)
+ - date_published: 2024-06-07T14:05:34+00:00
+
+ ## UNM Student Employment | The University of New Mexico
+ - [https://stuemp.unm.edu](https://stuemp.unm.edu)
+ - date_published: 2024-02-21T16:47:39+00:00
+
+ ## Student Union Building | The University of New Mexico
+ - [https://sub.unm.edu](https://sub.unm.edu)
+ - date_published: 2024-05-07T21:44:30.030023+00:00
+
+ ## Sunshine Transparency Portal | The University of New Mexico
+ - [https://sunshine.unm.edu](https://sunshine.unm.edu)
+ - date_published: 2024-04-29T17:36:27+00:00
+
+ ## Tech Days | The University of New Mexico
+ - [https://techdays.unm.edu](https://techdays.unm.edu)
+ - date_published: 2024-05-20T18:02:14+00:00
+
+ ## University Communication & Marketing | The University of New Mexico
+ - [https://ucam.unm.edu](https://ucam.unm.edu)
+ - date_published: 2024-05-07T21:43:27.859302+00:00
+
+ ## New Mexico's Flagship University | The University of New Mexico
+ - [https://unm.edu](https://unm.edu)
+ - date_published: 2024-05-07T21:43:30.353399+00:00
+
+ ## UNM Events Calendar
+ - [https://unmevents.unm.edu](https://unmevents.unm.edu)
+ - date_published: 2024-05-07T21:44:21.744470+00:00
+
+ ## UNMJobs | The University of New Mexico
+ - [https://unmjobs.unm.edu](https://unmjobs.unm.edu)
+ - date_published: 2024-05-07T21:44:18.278784+00:00
+
+ ## New Mexico's Flagship University | The University of New Mexico
+ - [https://unmproud.unm.edu](https://unmproud.unm.edu)
+ - date_published: 2024-05-07T21:43:45.051751+00:00
+
+ ## VIVO
+ - [https://vivo.health.unm.edu](https://vivo.health.unm.edu)
+ - date_published: 2024-07-20T13:22:46.082186+00:00
+
  ## Veteran & Military Resource Center  | The University of New Mexico
  - [http://vrc.unm.edu](http://vrc.unm.edu)
  - date_published: 2024-03-29T21:57:15+00:00
@@ -3887,116 +4000,4 @@
  ## School of Biological Sciences
  - [http://www.biology.utah.edu](http://www.biology.utah.edu)
  - date_published: 2024-07-02T11:41:56.711271+00:00
-
- ## Home - Biomedical Engineering at the University of Utah
- - [https://www.bme.utah.edu](https://www.bme.utah.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## John and Marcia Price College of Engineering IT Support | CADE, Student Computing Labs and Network Support
- - [http://www.cade.utah.edu](http://www.cade.utah.edu)
- - date_published: 2024-07-02T11:31:07.368312+00:00
-
- ## B.S. Computer Engineering
- - [http://www.ce.utah.edu](http://www.ce.utah.edu)
- - date_published: 2024-07-02T11:29:53.256609+00:00
-
- ## Department of Chemistry - The University of Utah
- - [http://www.chem.utah.edu](http://www.chem.utah.edu)
- - date_published: 2024-07-02T11:36:32.636221+00:00
-
- ## Homepage - Chemical Engineering | University of Utah
- - [https://www.che.utah.edu](https://www.che.utah.edu)
- - date_published: 2024-07-02T11:30:00.260709+00:00
-
- ## College of Mines and Earth Sciences - The University of Utah
- - [https://www.cmes.utah.edu](https://www.cmes.utah.edu)
- - date_published: 2024-07-02T11:41:52.717733+00:00
-
- ## The John and Marcia Price College of Engineering
- - [https://www.coe.utah.edu](https://www.coe.utah.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage - Electrical & Computer Engineering | University of Utah
- - [http://www.ece.utah.edu](http://www.ece.utah.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The John and Marcia Price College of Engineering
- - [http://www.eng.utah.edu](http://www.eng.utah.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## www-misc-c7.chpc.utah.edu
- - [https://www.inscc.utah.edu](https://www.inscc.utah.edu)
- - date_published: 2017-10-06T04:41:20+00:00
-
- ## University of Utah List Service - home
- - [https://www.lists.utah.edu](https://www.lists.utah.edu)
- - date_published: 2024-07-02T10:04:09.162866+00:00
-
- ## Kahlert School of Computing – School of Computing at The University of Utah
- - [https://www-new.cs.utah.edu](https://www-new.cs.utah.edu)
- - date_published: 2024-04-02T18:55:38+00:00
-
- ## Graduate Nuclear Engineering - Civil & Environmental Engineering
- - [http://www.nuclear.utah.edu](http://www.nuclear.utah.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Kahlert School of Computing
- - [https://www-old.cs.utah.edu](https://www-old.cs.utah.edu)
- - date_published: 2024-02-26T08:29:12.519678+00:00
-
- ## Department of Physics & Astronomy
- - [http://www.physics.utah.edu](http://www.physics.utah.edu)
- - date_published: 2024-07-02T11:41:50.576976+00:00
-
- ## The University of Utah - Space Planning & Management :: Home
- - [http://www.space.utah.edu](http://www.space.utah.edu)
- - date_published: 2024-07-02T11:20:28.523158+00:00
-
- ## Stadium, Arena and Campus Event Services
- - [https://www.stadium.utah.edu](https://www.stadium.utah.edu)
- - date_published: 2024-10-18T01:20:34.287823+00:00
-
- ## - UTC Blogs
- - [http://blog.utc.edu](http://blog.utc.edu)
- - date_published: 2024-07-09T13:20:52+00:00
-
- ## Attention Required! | Cloudflare
- - [https://new.utc.edu](https://new.utc.edu)
- - date_published: 2024-07-09T13:20:47.494448+00:00
-
- ## UTC Library Wiki
- - [https://wikilib.utc.edu](https://wikilib.utc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Choose UTC | University of Tennessee at Chattanooga
- - [https://www.utc.edu](https://www.utc.edu)
- - date_published: 2024-07-01T15:47:44.313025+00:00
-
- ## Alumni Relations - The University of Texas at Dallas
- - [https://alumni.utdallas.edu](https://alumni.utdallas.edu)
- - date_published: 2024-07-02T11:46:13.470954+00:00
-
- ## The University of Texas at Dallas
- - [https://atec.utdallas.edu](https://atec.utdallas.edu)
- - date_published: 2024-05-07T22:12:19.978667+00:00
-
- ## Home
- - [https://atlas.utdallas.edu](https://atlas.utdallas.edu)
- - date_published: 2024-05-07T22:12:07.061420+00:00
-
- ## Bioengineering Home - Bioengineering | The University of Texas at Dallas
- - [https://be.utdallas.edu](https://be.utdallas.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Brand Homepage - Brand Standards | The University of Texas at Dallas
- - [https://brand.utdallas.edu](https://brand.utdallas.edu)
- - date_published: 2024-06-15T14:41:18+00:00
-
- ## Bursar Office - Bursar Office | The University of Texas at Dallas
- - [https://bursar.utdallas.edu](https://bursar.utdallas.edu)
- - date_published: 2024-07-02T11:19:59+00:00
-
- ## Events Calendar
- - [https://calendar.utdallas.edu](https://calendar.utdallas.edu)
- - date_published: 2024-05-07T00:00:00+00:00
 

@@ -1,3 +1,82 @@
+ ## Mindcad Tiler
+ - [http://www.mindcad.com](http://www.mindcad.com)
+ - date_published: 2024-01-31T17:28:40+00:00
+
+ ## Home
+ - [http://mindcandy.com](http://mindcandy.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## MindCandy: Demos on Blu-ray and DVD
+ - [http://mindcandydvd.com](http://mindcandydvd.com)
+ - date_published: 2024-05-08T05:32:16.336348+00:00
+
+ ## Online Mind Map Maker
+ - [https://www.mindclouds.com](https://www.mindclouds.com)
+ - date_published: 2024-07-11T13:12:40.739510+00:00
+
+ ## MINDCUE LLC - Website Tech Services
+ - [https://mindcue.com](https://mindcue.com)
+ - date_published: 2024-06-25T16:18:56.056811+00:00
+
+ ## Welcome to the mindcurv group
+ - [https://www.mindcurv.com](https://www.mindcurv.com)
+ - date_published: 2024-10-28T14:49:39.593758+00:00
+
+ ## Mindders - Where Your Mind Meets Infotainment
+ - [https://mindders.com](https://mindders.com)
+ - date_published: 2024-03-13T21:06:22.229682+00:00
+ - tags: ['news']
+
+ ## Homepage - IMQ Minded Security
+ - [https://mindedsecurity.com](https://mindedsecurity.com)
+ - date_published: 2024-06-23T16:49:30+00:00
+
+ ## AI Document Data Extraction API - Mindee
+ - [https://www.mindee.com](https://www.mindee.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Minden Pictures
+ - [https://www.mindenpictures.com](https://www.mindenpictures.com)
+ - date_published: 2024-06-25T21:34:18.689043+00:00
+
+ ## Minimum Deposit Casino UK ▷ Casinos for Low Payments
+ - [https://mindepositcasino.com](https://mindepositcasino.com)
+ - date_published: 2022-10-06T19:21:00+00:00
+ - tags: ['gambling']
+
+ ## Learn MPE’s Clear Path to Market for MedTech OEMs
+ - [https://www.mindflowdesign.com](https://www.mindflowdesign.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Mindful Audio
+ - [https://mindful-audio.com](https://mindful-audio.com)
+ - date_published: 2024-08-08T23:02:33.215088+00:00
+
+ ## Mindful Chef
+ - [https://help.mindfulchef.com](https://help.mindfulchef.com)
+ - date_published: 2024-07-14T12:45:23.808241+00:00
+
+ ## Recipe Boxes – Fresh UK Healthy Food Box Delivery | Mindful Chef
+ - [https://mindfulchef.com](https://mindfulchef.com)
+ - date_published: 2024-05-11T10:52:19.287783+00:00
+
+ ## mindful MATERIALS Home
+ - [https://www.mindfulmaterials.com](https://www.mindfulmaterials.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Mindful Medical Research | Puerto Rico
+ - [https://www.mindfulmedicalresearch.com](https://www.mindfulmedicalresearch.com)
+ - date_published: 2024-06-28T12:05:32.034870+00:00
+
+ ## Home
+ - [http://mindfulpolyglot.com](http://mindfulpolyglot.com)
+ - date_published: 2016-01-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Mindful tester | Sharing knowledge about testing and other things on my mind
+ - [https://mindfultester.com](https://mindfultester.com)
+ - date_published: 2024-01-06T17:58:32.611587+00:00
+
  ## Show HN: I removed politics from Twitter with AI
  - [https://www.mindfw.com](https://www.mindfw.com)
  - date_published: 2024-09-14T08:02:48+00:00
@@ -3975,80 +4054,4 @@ MLB Auctions
  ## Homepage
  - [http://cdn.games.mobinozer.com](http://cdn.games.mobinozer.com)
  - date_published: 2024-09-30T10:49:31.018007+00:00
-
- ## Mobirise AI Website Builder
- - [https://ai.mobirise.com](https://ai.mobirise.com)
- - date_published: 2024-04-25T12:01:19+00:00
-
- ## Mobirise Forums
- - [http://forums.mobirise.com](http://forums.mobirise.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Free AI Website Builder Software : Best of 2024
- - [https://mobirise.com](https://mobirise.com)
- - date_published: 2024-05-07T18:54:44.657682+00:00
-
- ## Connecting...
- - [https://my.mobirise.com](https://my.mobirise.com)
- - date_published: 2024-07-19T05:33:47.984955+00:00
-
- ## 集客の知恵ブログ - 心理学×ト×増客
- - [http://www.mobiusband.com](http://www.mobiusband.com)
- - date_published: 2024-07-11T16:13:34.780055+00:00
-
- ## Mobius Bionics
- - [https://mobiusbionics.com](https://mobiusbionics.com)
- - date_published: 2024-06-15T21:41:33.512640+00:00
-
- ## Mobius 2024 Autumn. Конференция для мобильных разработчиков
- - [https://mobiusconf.com](https://mobiusconf.com)
- - date_published: 2024-09-14T09:34:21.162195+00:00
-
- ## Mobius Digital
- - [https://www.mobiusdigitalgames.com](https://www.mobiusdigitalgames.com)
- - date_published: 2024-10-25T10:51:12.402223+00:00
-
- ## Mobius Labs
- - [https://ct.mobiuslabs.com](https://ct.mobiuslabs.com)
- - date_published: 2023-03-29T16:52:18+00:00
-
- ## Mobius Labs | Multimodal AI.
- - [https://mobiuslabs.com](https://mobiuslabs.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Mobius Mobility | The next generation iBOT is here.
- - [https://mobiusmobility.com](https://mobiusmobility.com)
- - date_published: 2024-06-15T21:41:27.095525+00:00
-
- ## Möbius Sync
- - [https://mobiussync.com](https://mobiussync.com)
- - date_published: 2024-07-06T13:10:52+00:00
-
- ## Mobius Worlds Publishing – Journey With Us!
- - [https://mobiusworldspublishing.com](https://mobiusworldspublishing.com)
- - date_published: 2024-07-08T21:38:10.967964+00:00
-
- ## MOBKOI • Bring Your Ads to Life
- - [https://www.mobkoi.com](https://www.mobkoi.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## موبوگیفت: سایت رسمی خرید گیفت کارت ، ارزان با تحویل آنی
- - [https://mobogift.com](https://mobogift.com)
- - date_published: 2024-06-21T20:56:37.563238+00:00
-
- ## Unique Quality - Made in Germany
- - [https://www.mobotix.com](https://www.mobotix.com)
- - date_published: 2024-07-01T11:40:14.111896+00:00
-
- ## Authentification
- - [https://app.mobsuccess.com](https://app.mobsuccess.com)
- - date_published: 2024-06-25T18:38:25.730257+00:00
-
- ## La solution marketing digital des enseignes à réseaux
- - [https://widely.mobsuccess.com](https://widely.mobsuccess.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Mobsuccess
- - [https://www.mobsuccess.com](https://www.mobsuccess.com)
- - date_published: 2024-04-11T00:00:00+00:00
 

@@ -1,3 +1,103 @@
+ ## Community Peer Review
+ - [http://communitypeerreview.blogspot.de](http://communitypeerreview.blogspot.de)
+ - date_published: 2024-10-19T07:06:05.771365+00:00
+
+ ## Copy, Shake, and Paste
+ - [http://copy-shake-paste.blogspot.de](http://copy-shake-paste.blogspot.de)
+ - date_published: 2024-10-29T08:56:51+00:00
+
+ ## Database Architects
+ - [http://databasearchitects.blogspot.de](http://databasearchitects.blogspot.de)
+ - date_published: 2024-09-01T07:16:55+00:00
+
+ ## DiRi-Miniaturen
+ - [http://diriminiaturen.blogspot.de](http://diriminiaturen.blogspot.de)
+ - date_published: 2024-10-28T21:46:30+00:00
+
+ ## Eight Hour Fiction Challenge
+ - [http://eighthourfictionchallenge.blogspot.de](http://eighthourfictionchallenge.blogspot.de)
+ - date_published: 2024-07-04T05:58:31+00:00
+
+ ## Riddled
+ - [https://eusa-riddled.blogspot.de](https://eusa-riddled.blogspot.de)
+ - date_published: 2024-05-04T06:42:01.766549+00:00
+
+ ## Excommunicate Traitoris
+ - [http://excommunicatetratoris.blogspot.de](http://excommunicatetratoris.blogspot.de)
+ - date_published: 2024-10-22T18:59:47+00:00
+
+ ## Eye of Error
+ - [http://eyeoferror.blogspot.de](http://eyeoferror.blogspot.de)
+ - date_published: 2024-10-26T10:19:20+00:00
+
+ ## The Happy Pontist
+ - [http://happypontist.blogspot.de](http://happypontist.blogspot.de)
+ - date_published: 2024-10-29T11:32:46+00:00
+
+ ## Fearless Journeys & Epic Transformations
+ - [https://heidigwrites.blogspot.de](https://heidigwrites.blogspot.de)
+ - date_published: 2024-03-31T01:56:37+00:00
+
+ ## Historien.nes de la santé
+ - [http://histoiresante.blogspot.de](http://histoiresante.blogspot.de)
+ - date_published: 2024-10-29T10:01:31+00:00
+
+ ## Hybrid Analysis Blog
+ - [https://hybrid-analysis.blogspot.de](https://hybrid-analysis.blogspot.de)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Indie Crime Scene
+ - [https://indiecrimescene.blogspot.de](https://indiecrimescene.blogspot.de)
+ - date_published: 2024-05-08T06:34:44.564340+00:00
+
+ ## Speculative Fiction Showcase
+ - [https://indiespecfic.blogspot.de](https://indiespecfic.blogspot.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## INQ28
+ - [http://inq28.blogspot.de](http://inq28.blogspot.de)
+ - date_published: 2024-10-18T06:15:22+00:00
+
+ ## IT and more (a.k.a. Doing-IT-Right)
+ - [https://it-and-more.blogspot.de](https://it-and-more.blogspot.de)
+ - date_published: 2024-03-13T20:36:44+00:00
+
+ ## uZDROWIEnie i Wyzwalanie Holistyczne Cielesno DUCHOWE Cały Świat
+ - [http://jasnowidzjacek.blogspot.de](http://jasnowidzjacek.blogspot.de)
+ - date_published: 2024-07-24T00:12:20+00:00
+
+ ## Kalimac's corner
+ - [https://kalimac.blogspot.de](https://kalimac.blogspot.de)
+ - date_published: 2024-05-29T09:23:00+00:00
+
+ ## K.M.B.!
+ - [http://kxmxb.blogspot.de](http://kxmxb.blogspot.de)
+ - date_published: 2024-10-05T02:06:43+00:00
+
+ ## Lallands Peat Worrier
+ - [http://lallandspeatworrier.blogspot.de](http://lallandspeatworrier.blogspot.de)
+ - date_published: 2024-10-21T15:56:55.711727+00:00
+
+ ## LEADPLAGUE
+ - [http://leadplague.blogspot.de](http://leadplague.blogspot.de)
+ - date_published: 2024-10-25T07:08:56+00:00
+
+ ## Perspectives on LedgerSMB
+ - [http://ledgersmbdev.blogspot.de](http://ledgersmbdev.blogspot.de)
+ - date_published: 2024-07-13T10:14:58+00:00
+
+ ## Legal History Blog
+ - [http://legalhistoryblog.blogspot.de](http://legalhistoryblog.blogspot.de)
+ - date_published: 2024-10-29T18:00:31+00:00
+
+ ## Legatho's warehouse
+ - [http://legatho-s-warehouse.blogspot.de](http://legatho-s-warehouse.blogspot.de)
+ - date_published: 2024-10-24T18:18:34+00:00
+
+ ## Liir nordfriisk / Liir Sölring !
+ - [https://liirnordfriisk.blogspot.de](https://liirnordfriisk.blogspot.de)
+ - date_published: 2024-05-31T21:20:41+00:00
+
  ## Jabal al-Lughat
  - [http://lughat.blogspot.de](http://lughat.blogspot.de)
  - date_published: 2024-06-20T17:51:03+00:00
@@ -3915,104 +4015,4 @@ home
  ## Startseite Der-blumen-strauss.de
  - [http://der-blumen-strauss.de](http://der-blumen-strauss.de)
  - date_published: 2024-07-13T15:13:57.239039+00:00
-
- ## DERBYSTAR|SELECT OFFIZIELLE WEBSITE
- - [https://www.derbystar.de](https://www.derbystar.de)
- - date_published: 2024-09-25T19:10:45.623437+00:00
-
- ## Der Dreißigjährige Krieg in 1/72 - The Thirty Years War in 1/72
- - [https://www.der-dreissigjaehrige-krieg-in-1-72.de](https://www.der-dreissigjaehrige-krieg-in-1-72.de)
- - date_published: 2024-05-24T09:34:10+00:00
-
- ## Der große Gewinnregen
- - [https://dergrossegewinnregen.de](https://dergrossegewinnregen.de)
- - date_published: 2024-09-26T10:19:30.459479+00:00
-
- ## Der IT-Deniz
- - [https://www.der-it-deniz.de](https://www.der-it-deniz.de)
- - date_published: 2024-07-14T15:46:41.540644+00:00
-
- ## IT-Texter Michael Tischer
- - [https://www.der-it-texter.de](https://www.der-it-texter.de)
- - date_published: 2024-06-24T06:19:13.261146+00:00
-
- ## Mitch's Blog
- - [https://www.dermitch.de](https://www.dermitch.de)
- - date_published: 2024-09-24T11:20:31+00:00
-
- ## Startseite - Der Paritätische - Spitzenverband der Freien Wohlfahrtspflege
- - [https://www.der-paritaetische.de](https://www.der-paritaetische.de)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Der Patriot
- - [https://www.derpatriot.de](https://www.derpatriot.de)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## derStandard.de
- - [https://www.derstandard.de](https://www.derstandard.de)
- - date_published: 2024-06-16T22:06:07.371778+00:00
-
- ## der tag und ich
- - [https://www.dertagundich.de](https://www.dertagundich.de)
- - date_published: 2024-07-02T18:31:31.249140+00:00
-
- ## derwesten.de - Nachrichten für den Westen
- - [https://www.derwesten.de](https://www.derwesten.de)
- - date_published: 2024-06-25T22:36:45.142018+00:00
-
- ## Der Windows Papst - Windows Office Security Blog
- - [https://www.der-windows-papst.de](https://www.der-windows-papst.de)
- - date_published: 2014-09-15T16:22:38+00:00
-
- ## SpeedIT Solutions - Statusseite
- - [https://serverstatus.de-serv.de](https://serverstatus.de-serv.de)
- - date_published: 2024-06-16T06:01:03.053082+00:00
-
- ## dbf.design Frankfurt – Partner für Grafik & Corporate Design
- - [https://www.designbuero-frankfurt.de](https://www.designbuero-frankfurt.de)
- - date_published: 2015-10-13T13:48:57+00:00
-
- ## Design Business Days
- - [https://www.designbusinessdays.de](https://www.designbusinessdays.de)
- - date_published: 2024-10-29T14:04:52.867800+00:00
-
- ## Design made in Germany
- - [https://www.designmadeingermany.de](https://www.designmadeingermany.de)
- - date_published: 2024-07-14T08:31:17.677778+00:00
-
- ## Loading ...
- - [https://pur.desired.de](https://pur.desired.de)
- - date_published: 2024-09-19T13:13:21+00:00
-
- ## Das moderne Frauenmagazin für Mode, Beauty, Lifestyle, Trends & Stars
- - [https://www.desired.de](https://www.desired.de)
- - date_published: 2024-06-16T09:52:21.492295+00:00
-
- ## Deskmodder.de - News zum Thema Microsoft, Windows 11 / 10, sowie anderen Neuigkeiten aus dem Netz, viele Tipps und individuelle Hilfe bei Problemen in unserem Forum ● Deskmodder - seit 2003
- - [https://www.deskmodder.de](https://www.deskmodder.de)
- - date_published: 2024-06-27T16:10:26.799166+00:00
-
- ## Lotz Optik – Wiesbaden
- - [https://despe.de](https://despe.de)
- - date_published: 2024-05-13T03:45:20.164168+00:00
-
- ## Login - Universal Banner Manager
- - [http://merchandise.despe.de](http://merchandise.despe.de)
- - date_published: 2024-07-17T11:39:29.300877+00:00
-
- ## Tierpark Dessau - ein Besuch lohnt sich!
- - [https://tierpark.dessau-rosslau.de](https://tierpark.dessau-rosslau.de)
- - date_published: 2024-07-13T16:18:07.189510+00:00
-
- ## Visit Dessau - Tourismusportal der Stadt Dessau-Roßlau
- - [https://tourismus.dessau-rosslau.de](https://tourismus.dessau-rosslau.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Startseite
- - [https://www.dessau-rosslau.de](https://www.dessau-rosslau.de)
- - date_published: 2024-07-13T16:18:26.671340+00:00
-
- ## Stadtarchiv Dessau-Roßlau
- - [http://www.stadtarchiv.dessau-rosslau.de](http://www.stadtarchiv.dessau-rosslau.de)
- - date_published: 2024-07-13T16:17:56.128334+00:00
 

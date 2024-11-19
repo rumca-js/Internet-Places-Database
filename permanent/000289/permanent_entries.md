@@ -1,3 +1,120 @@
+ ## | house.gov
+ - [https://search.house.gov](https://search.house.gov)
+ - date_published: 2024-06-27T14:02:37.034070+00:00
+
+ ## Select Committee on the CCP
+ - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
+ - date_published: 2023-11-27T12:22:06+00:00
+ - tags: ['america', 'china']
+
+ ## United States Congressman Pete Sessions
+ - [https://sessions.house.gov](https://sessions.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congresswoman Terri Sewell
+ - [https://sewell.house.gov](https://sewell.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman Brad Sherman
+ - [https://sherman.house.gov](https://sherman.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Congresswoman Mikie Sherrill
+ - [https://sherrill.house.gov](https://sherrill.house.gov)
+ - date_published: 2024-06-27T14:09:35.350245+00:00
+
+ ## Representative Shontel Brown
+ - [https://shontelbrown.house.gov](https://shontelbrown.house.gov)
+ - date_published: 2024-06-27T14:00:40.277938+00:00
+
+ ## U.S. Congressman Mike Simpson - 2nd District of Idaho
+ - [https://simpson.house.gov](https://simpson.house.gov)
+ - date_published: 2024-06-27T14:20:35+00:00
+
+ ## Representative Elissa Slotkin
+ - [https://slotkin.house.gov](https://slotkin.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## House Committee on Small Business
+ - [https://smallbusiness.house.gov](https://smallbusiness.house.gov)
+ - date_published: 2024-06-27T14:00:20+00:00
+
+ ## Congressman Lloyd Smucker
+ - [https://smucker.house.gov](https://smucker.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Representative Eric Sorensen
+ - [https://sorensen.house.gov](https://sorensen.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Darren Soto
+ - [https://soto.house.gov](https://soto.house.gov)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Home - Abigail Spanberger
+ - [https://spanberger.house.gov](https://spanberger.house.gov)
+ - date_published: 2024-06-27T14:14:02.835856+00:00
+
+ ## Representative Victoria Spartz
+ - [https://spartz.house.gov](https://spartz.house.gov)
+ - date_published: 2024-06-27T14:21:30.828662+00:00
+
+ ## Congresswoman Melanie Stansbury | Representing New Mexico's First Congressional District
+ - [https://stansbury.house.gov](https://stansbury.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Greg Stanton
+ - [https://stanton.house.gov](https://stanton.house.gov)
+ - date_published: 2024-06-27T14:01:36.675722+00:00
+
+ ## Representative Pete Stauber
+ - [https://stauber.house.gov](https://stauber.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Michelle Steel
+ - [https://steel.house.gov](https://steel.house.gov)
+ - date_published: 2024-06-27T13:59:31.930612+00:00
+
+ ## Congresswoman Elise Stefanik
+ - [https://stefanik.house.gov](https://stefanik.house.gov)
+ - date_published: 2024-06-27T14:00:31.966280+00:00
+
+ ## Representative Bryan Steil
+ - [https://steil.house.gov](https://steil.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Steube – Representing Florida
+ - [https://steube.house.gov](https://steube.house.gov)
+ - date_published: 2024-06-27T14:17:45.343251+00:00
+
+ ## Congresswoman Haley Stevens
+ - [https://stevens.house.gov](https://stevens.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Representative Marilyn Strickland
+ - [https://strickland.house.gov](https://strickland.house.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representative Dale Strong
+ - [https://strong.house.gov](https://strong.house.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Summer Lee
+ - [https://summerlee.house.gov](https://summerlee.house.gov)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Congressman Thomas Suozzi
+ - [https://suozzi.house.gov](https://suozzi.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Representative Susie Lee
+ - [https://susielee.house.gov](https://susielee.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Swalwell
+ - [https://swalwell.house.gov](https://swalwell.house.gov)
+ - date_published: 2024-05-16T00:00:00+00:00
+
  ## Home | U.S. Congresswoman Emilia Sykes
  - [https://sykes.house.gov](https://sykes.house.gov)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -3900,120 +4017,4 @@
  ## How to Resuscitate a Sea Turtle
  - [https://videos.fisheries.noaa.gov](https://videos.fisheries.noaa.gov)
  - date_published: 2024-08-19T03:48:05.248746+00:00
-
- ## Dash Enterprise
- - [https://viz.pmel.noaa.gov](https://viz.pmel.noaa.gov)
- - date_published: 2022-12-12T20:59:03+00:00
-
- ## Welcome - Virtual Lab
- - [https://vlab.noaa.gov](https://vlab.noaa.gov)
- - date_published: 2024-08-19T03:34:13.847462+00:00
-
- ## National Water Prediction Service - NOAA
- - [http://water.noaa.gov](http://water.noaa.gov)
- - date_published: 2024-06-29T17:11:22.513694+00:00
-
- ## NOAA's Weather Program Office
- - [https://wpo.noaa.gov](https://wpo.noaa.gov)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Alaska
- - [https://www.afsc.noaa.gov](https://www.afsc.noaa.gov)
- - date_published: 2024-06-15T01:07:00+00:00
-
- ## Homepage
- - [http://www.aoml.noaa.gov](http://www.aoml.noaa.gov)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - NOAA Boulder
- - [https://www.boulder.noaa.gov](https://www.boulder.noaa.gov)
- - date_published: 2024-07-11T13:52:52.755594+00:00
-
- ## Office of the Chief Information Officer
- - [https://www.cio.noaa.gov](https://www.cio.noaa.gov)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## NOAA - National Oceanic and Atmospheric Administration
- - [https://www.corporateservices.noaa.gov](https://www.corporateservices.noaa.gov)
- - date_published: 2024-10-31T21:30:54.780295+00:00
-
- ## NOAA Corps Commissioned Personnel Center
- - [https://www.corpscpc.noaa.gov](https://www.corpscpc.noaa.gov)
- - date_published: 2024-06-20T02:14:32.849199+00:00
-
- ## NOAA Education
- - [http://www.education.noaa.gov](http://www.education.noaa.gov)
- - date_published: 2024-06-29T16:46:23+00:00
-
- ## Environmental Modeling Center (EMC)
- - [https://www.emc.ncep.noaa.gov](https://www.emc.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:23.016402+00:00
-
- ## NOAA Earth System Research Laboratories
- - [https://www.esrl.noaa.gov](https://www.esrl.noaa.gov)
- - date_published: 2023-04-20T19:55:10+00:00
-
- ## Geophysical Fluid Dynamics Laboratory
- - [http://www.gfdl.noaa.gov](http://www.gfdl.noaa.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## NOAA GOES Geostationary Satellite Server
- - [http://www.goes.noaa.gov](http://www.goes.noaa.gov)
- - date_published: 2024-08-19T03:34:41.185421+00:00
-
- ## - NOAA Habitat Blueprint
- - [https://www.habitatblueprint.noaa.gov](https://www.habitatblueprint.noaa.gov)
- - date_published: 2024-09-16T04:11:49.844781+00:00
-
- ## U.S. Office of Coast Survey
- - [http://www.nauticalcharts.noaa.gov](http://www.nauticalcharts.noaa.gov)
- - date_published: 2024-09-15T13:41:08.738896+00:00
-
- ## HTML Meta Tag
- - [http://www.ncep.noaa.gov](http://www.ncep.noaa.gov)
- - date_published: 2024-06-29T17:10:56.162186+00:00
-
- ## NCEP Central Operations
- - [https://www.nco.ncep.noaa.gov](https://www.nco.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:25.360125+00:00
-
- ## National Data Buoy Center
- - [https://www.ndbc.noaa.gov](https://www.ndbc.noaa.gov)
- - date_published: 2024-06-19T17:49:14.408572+00:00
-
- ## National Environmental Satellite, Data, and Information Service
- - [https://www.nesdis.noaa.gov](https://www.nesdis.noaa.gov)
- - date_published: 2024-06-26T12:10:25+00:00
-
- ## Welcome to NOAA | NOAA Fisheries
- - [http://www.nmfs.noaa.gov](http://www.nmfs.noaa.gov)
- - date_published: 2024-07-09T01:06:48+00:00
-
- ## National Operational Hydrologic Remote Sensing Center - The ultimate source for snow information
- - [http://www.nohrsc.noaa.gov](http://www.nohrsc.noaa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## National Weather Service
- - [http://www.nws.noaa.gov](http://www.nws.noaa.gov)
- - date_published: 2024-06-27T16:47:33.463622+00:00
-
- ## Home Page | Office of Marine and Aviation Operations
- - [https://www.omao.noaa.gov](https://www.omao.noaa.gov)
- - date_published: 2024-05-04T07:32:50.236150+00:00
-
- ## Office of Satellite and Product Operations
- - [https://www.ospo.noaa.gov](https://www.ospo.noaa.gov)
- - date_published: 2024-07-15T11:41:22.403127+00:00
-
- ## Pacific Islands
- - [https://www.pifsc.noaa.gov](https://www.pifsc.noaa.gov)
- - date_published: 2024-10-25T22:44:31+00:00
-
- ## How to Avoid Getting Caught in a Rip Current
- - [http://www.ripcurrents.noaa.gov](http://www.ripcurrents.noaa.gov)
- - date_published: 2024-06-27T16:47:41.686748+00:00
-
- ## NOAA/NWS Storm Prediction Center
- - [http://www.spc.noaa.gov](http://www.spc.noaa.gov)
- - date_published: 2024-06-27T16:47:16.505792+00:00
 

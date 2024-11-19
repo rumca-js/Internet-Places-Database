@@ -1,3 +1,116 @@
+ ## HiRISE | High Resolution Imaging Science Experiment
+ - [http://hirise.lpl.arizona.edu](http://hirise.lpl.arizona.edu)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Index of /PDS/
+ - [https://hirise-pds.lpl.arizona.edu](https://hirise-pds.lpl.arizona.edu)
+ - date_published: 2024-08-08T18:25:56.629316+00:00
+
+ ## Home Page | Hispanic Center of Excellence
+ - [https://hispanichealth.arizona.edu](https://hispanichealth.arizona.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Home | UA Human Resources
+ - [https://hr.arizona.edu](https://hr.arizona.edu)
+ - date_published: 2024-04-30T03:05:04.821883+00:00
+
+ ## Interactive Floorplans
+ - [https://interactivefloorplans.arizona.edu](https://interactivefloorplans.arizona.edu)
+ - date_published: 2024-07-01T18:20:56+00:00
+
+ ## Home
+ - [https://international.arizona.edu](https://international.arizona.edu)
+ - date_published: 2024-06-20T20:16:01+00:00
+
+ ## Welcome | LPL Intranet
+ - [https://intranet.lpl.arizona.edu](https://intranet.lpl.arizona.edu)
+ - date_published: 2024-05-09T05:50:10.947610+00:00
+
+ ## Home
+ - [https://it.arizona.edu](https://it.arizona.edu)
+ - date_published: 2024-07-07T08:25:14+00:00
+
+ ## Home
+ - [https://itsummit.arizona.edu](https://itsummit.arizona.edu)
+ - date_published: 2024-07-06T11:59:18+00:00
+
+ ## Institutional Knowledge Map (KMap)
+ - [https://kmap.arizona.edu](https://kmap.arizona.edu)
+ - date_published: 2024-07-09T17:11:31.900315+00:00
+
+ ## University of Arizona Libraries |
+ - [https://lib.arizona.edu](https://lib.arizona.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## University of Arizona Libraries -
+        University of Arizona Libraries
+ - [https://libcal.library.arizona.edu](https://libcal.library.arizona.edu)
+ - date_published: 2024-07-07T09:23:04.721075+00:00
+
+ ## LibGuides: Research: By Course, Subject, or Topic
+ - [https://libguides.library.arizona.edu](https://libguides.library.arizona.edu)
+ - date_published: 2024-07-07T09:22:44.722316+00:00
+
+ ## University of Arizona Libraries |
+ - [https://library.arizona.edu](https://library.arizona.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Home | Lunar and Planetary Laboratory & Department of Planetary Sciences | The University of Arizona
+ - [https://lpl.arizona.edu](https://lpl.arizona.edu)
+ - date_published: 2024-03-07T16:29:38.102348+00:00
+
+ ## Public Map
+ - [https://map.arizona.edu](https://map.arizona.edu)
+ - date_published: 2024-05-09T05:50:08.966605+00:00
+
+ ## Department of Mathematics
+ - [https://math.arizona.edu](https://math.arizona.edu)
+ - date_published: 2024-05-08T10:27:59.423492+00:00
+
+ ## College of Medicine – Tucson
+ - [https://medicine.arizona.edu](https://medicine.arizona.edu)
+ - date_published: 2024-07-22T04:45:35+00:00
+
+ ## Home
+ - [https://medicineit.arizona.edu](https://medicineit.arizona.edu)
+ - date_published: 2024-07-21T20:02:58+00:00
+
+ ## Home
+ - [https://nearspace.arizona.edu](https://nearspace.arizona.edu)
+ - date_published: 2024-07-09T17:12:01.162189+00:00
+
+ ## The University of Arizona Near You Network
+ - [https://nearyou.arizona.edu](https://nearyou.arizona.edu)
+ - date_published: 2024-07-21T13:08:34+00:00
+
+ ## UA NetID Management
+ - [https://netid.arizona.edu](https://netid.arizona.edu)
+ - date_published: 2024-07-07T09:23:48.814821+00:00
+
+ ## Home
+ - [https://netid-plus.arizona.edu](https://netid-plus.arizona.edu)
+ - date_published: 2024-07-07T09:23:52.853608+00:00
+
+ ## University of Arizona Libraries |
+ - [http://new.library.arizona.edu](http://new.library.arizona.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Home | University of Arizona News
+ - [https://news.arizona.edu](https://news.arizona.edu)
+ - date_published: 2023-10-25T11:22:13.823722+00:00
+
+ ## OLLI-UA: Life-Enriching Education for Adults 50+
+ - [https://olli.arizona.edu](https://olli.arizona.edu)
+ - date_published: 2024-08-19T19:42:03.442609+00:00
+
+ ## Home | Wyant College of Optical Sciences
+ - [https://optics.arizona.edu](https://optics.arizona.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Comprehensive Center for Pain & Addiction | The University of Arizona
+ - [https://painandaddiction.arizona.edu](https://painandaddiction.arizona.edu)
+ - date_published: 2024-04-30T03:04:10.003167+00:00
+
  ## Planning, Design & Construction
  - [https://pdc.arizona.edu](https://pdc.arizona.edu)
  - date_published: 2024-07-09T17:11:38.585992+00:00
@@ -3890,117 +4003,4 @@
  ## Watson Institute for International and Public Affairs
  - [https://home.watson.brown.edu](https://home.watson.brown.edu)
  - date_published: 2024-04-30T03:28:43.567311+00:00
-
- ## Health Services, Policy & Practice | School of Public Health | Brown University
- - [https://hspp.sph.brown.edu](https://hspp.sph.brown.edu)
- - date_published: 2024-07-09T12:55:19+00:00
-
- ## H-Store: Next Generation OLTP Database Research
- - [https://hstore.cs.brown.edu](https://hstore.cs.brown.edu)
- - date_published: 2022-02-16T03:13:20+00:00
-
- ## ICERM - Home
- - [https://icerm.brown.edu](https://icerm.brown.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## OIT | Brown University
- - [https://it.brown.edu](https://it.brown.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## OIT Service Center
- - [https://ithelp.brown.edu](https://ithelp.brown.edu)
- - date_published: 2024-07-22T07:25:36.263859+00:00
-
- ## Brown University Library
- - [https://library.brown.edu](https://library.brown.edu)
- - date_published: 2024-07-09T12:54:49.052933+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.revproxy.brown.edu](https://login.revproxy.brown.edu)
- - date_published: 2024-06-30T01:30:44.664837+00:00
-
- ## The Warren Alpert Medical School of Brown University
- - [https://med.brown.edu](https://med.brown.edu)
- - date_published: 2024-07-09T12:39:42+00:00
-
- ## The Warren Alpert Medical School of Brown University
- - [https://medical.brown.edu](https://medical.brown.edu)
- - date_published: 2024-07-09T12:39:42+00:00
-
- ## Master of Public Health | School of Public Health | Brown University
- - [https://mph.sph.brown.edu](https://mph.sph.brown.edu)
- - date_published: 2024-07-09T12:55:12+00:00
-
- ## MyAccount
- - [https://myaccount.brown.edu](https://myaccount.brown.edu)
- - date_published: 2024-07-22T07:25:34.356386+00:00
-
- ## Home - myBrown
- - [https://my.brown.edu](https://my.brown.edu)
- - date_published: 2024-07-09T12:54:04.070829+00:00
-
- ## Online Master of Public Health | School of Public Health | Brown University
- - [https://onlinemph.sph.brown.edu](https://onlinemph.sph.brown.edu)
- - date_published: 2024-07-09T12:31:19+00:00
-
- ## Pandemic Center | School of Public Health | Brown University
- - [https://pandemics.sph.brown.edu](https://pandemics.sph.brown.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Programming and Programming Languages
- - [https://papl.cs.brown.edu](https://papl.cs.brown.edu)
- - date_published: 2023-06-30T02:14:37+00:00
-
- ## Portal-ble: make augmented reality apps that are hands-on interactive
- - [https://portalble.cs.brown.edu](https://portalble.cs.brown.edu)
- - date_published: 2023-10-19T02:33:53+00:00
-
- ## Prime | Brown University
- - [https://prime.brown.edu](https://prime.brown.edu)
- - date_published: 2024-07-09T12:54:18+00:00
-
- ## School of Professional Studies | Brown University
- - [https://professional.brown.edu](https://professional.brown.edu)
- - date_published: 2024-05-09T05:07:39.351367+00:00
-
- ## Remotion: A Motion-Based Capture and Replay Platform of Mobile Device Interaction for Remote Usability
-		Testing
- - [https://remotion.cs.brown.edu](https://remotion.cs.brown.edu)
- - date_published: 2023-10-19T02:48:02+00:00
-
- ## SRC@Brown
- - [https://responsible.cs.brown.edu](https://responsible.cs.brown.edu)
- - date_published: 2023-11-14T16:35:37+00:00
-
- ## Experiment Introduction - The Rust Programming Language
- - [https://rust-book.cs.brown.edu](https://rust-book.cs.brown.edu)
- - date_published: 2024-05-12T06:12:13.067433+00:00
-
- ## IIS Windows Server
- - [https://s4.ad.brown.edu](https://s4.ad.brown.edu)
- - date_published: 2023-06-22T21:09:17+00:00
-
- ## Self-E - Brown University HCI Group
- - [https://selfe.cs.brown.edu](https://selfe.cs.brown.edu)
- - date_published: 2023-10-19T02:32:01+00:00
-
- ## » on Arithmetic Geometry, Number Theory, and Computation
- - [https://simonscollab.icerm.brown.edu](https://simonscollab.icerm.brown.edu)
- - date_published: 2018-11-28T00:00:00+00:00
-
- ## sites.brown.edu
- - [https://sites.brown.edu](https://sites.brown.edu)
- - date_published: 2024-07-09T12:47:22+00:00
-
- ## Sketchy and filtered.ink
- - [https://sketchy.cs.brown.edu](https://sketchy.cs.brown.edu)
- - date_published: 2024-06-11T18:24:20+00:00
-
- ## SleepCoacher - Brown University HCI Group
- - [https://sleepcoacher.cs.brown.edu](https://sleepcoacher.cs.brown.edu)
- - date_published: 2023-10-19T02:39:41+00:00
-
- ## Sochiatrist - Brown University HCI Group
- - [https://sochiatrist.cs.brown.edu](https://sochiatrist.cs.brown.edu)
- - date_published: 2023-10-19T02:30:01+00:00
 

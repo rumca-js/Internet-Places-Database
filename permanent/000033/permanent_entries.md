@@ -1,3 +1,7 @@
+ ## SCIENTIA
+ - [https://skientia.co](https://skientia.co)
+ - date_published: 2008-01-01T00:00:00+00:00
+
  ## sk-ii.co - Ta strona jest na sprzedaż! - sk ii Zasoby i informacje.
  - [https://www.sk-ii.co](https://www.sk-ii.co)
  - date_published: 2024-10-22T14:48:28.491875+00:00
@@ -4015,8 +4019,4 @@
  ## Sitios de la Universidad Central - Universidad Central
  - [https://universidad.ucentral.edu.co](https://universidad.ucentral.edu.co)
  - date_published: 2024-09-10T11:45:37.780101+00:00
-
- ## Universidad Central – Sitio oficial
- - [https://uxxi.ucentral.edu.co](https://uxxi.ucentral.edu.co)
- - date_published: 2024-09-09T23:03:28+00:00
 

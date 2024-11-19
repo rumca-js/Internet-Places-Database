@@ -1,3 +1,19 @@
+ ## EU Law Myth Busting
+ - [https://eulawstudent.blogspot.com](https://eulawstudent.blogspot.com)
+ - date_published: 2024-10-18T21:04:22.674275+00:00
+
+ ## The EU-nihilist
+ - [https://eu-nihilist.blogspot.com](https://eu-nihilist.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## EU Pundit : Issues of the European Union
+ - [http://eupundit.blogspot.com](http://eupundit.blogspot.com)
+ - date_published: 2024-10-18T20:41:43.637297+00:00
+
+ ## EU Referendum
+ - [http://eureferendum.blogspot.com](http://eureferendum.blogspot.com)
+ - date_published: 2024-02-28T07:35:03+00:00
+
  ## UEFA EURO, Fifa world cup, World Cup babe , football & soccer game
  - [http://euro2008spirit.blogspot.com](http://euro2008spirit.blogspot.com)
  - date_published: 2024-03-14T09:03:20+00:00
@@ -3997,20 +4013,4 @@
  ## Hitler Was A Capitalist!!!!!
  - [http://hitlerwasacapitalist.blogspot.com](http://hitlerwasacapitalist.blogspot.com)
  - date_published: 2024-10-21T17:37:33.642074+00:00
-
- ## Hits To Kill
- - [https://hitstokill.blogspot.com](https://hitstokill.blogspot.com)
- - date_published: 2024-10-25T07:28:15+00:00
-
- ## Hitting Dirtside
- - [http://hitting-dirtside.blogspot.com](http://hitting-dirtside.blogspot.com)
- - date_published: 2024-07-11T18:13:38+00:00
-
- ## Hitting on a Double 1
- - [https://hittingonadouble1.blogspot.com](https://hittingonadouble1.blogspot.com)
- - date_published: 2024-07-14T21:00:16+00:00
-
- ## Hive Fleet Erebus
- - [http://hivefleeterebus.blogspot.com](http://hivefleeterebus.blogspot.com)
- - date_published: 2024-09-14T16:56:10+00:00
 

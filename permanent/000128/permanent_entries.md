@@ -1,3 +1,64 @@
+ ## Web Access
+ - [http://www.jeffhammerbacher.com](http://www.jeffhammerbacher.com)
+ - date_published: 2022-06-22T13:43:56+00:00
+
+ ## Jeff Handley
+ - [https://jeffhandley.com](https://jeffhandley.com)
+ - date_published: 2023-09-10T17:40:21+00:00
+ - tags: ['personal']
+
+ ## jeffhecht.com
+ - [https://jeffhecht.com](https://jeffhecht.com)
+ - date_published: 2024-10-19T07:16:55.939613+00:00
+
+ ## Jeff Huang · Computer Science at Brown University
+ - [https://jeffhuang.com](https://jeffhuang.com)
+ - date_published: 2023-10-25T15:27:58.164772+00:00
+
+ ## Home - Jeffikus
+ - [https://jeffikus.com](https://jeffikus.com)
+ - date_published: 2024-01-27T18:00:01.443689+00:00
+ - tags: ['personal']
+
+ ## Dr. Jian Zhao @ WatVis
+ - [https://www.jeffjianzhao.com](https://www.jeffjianzhao.com)
+ - date_published: 2024-07-12T02:33:19+00:00
+
+ ## Jeff John, Publisher
+ - [https://jeff-john.com](https://jeff-john.com)
+ - date_published: 2024-07-03T23:55:56.251172+00:00
+
+ ## Jeff Ryan
+ - [https://jeffjryan.com](https://jeffjryan.com)
+ - date_published: 2023-12-12T04:53:22.246788+00:00
+ - tags: ['personal']
+
+ ## Random bits - Jeff Judge
+ - [https://bits.jeffjudge.com](https://bits.jeffjudge.com)
+ - date_published: 2024-05-12T06:23:41.831874+00:00
+
+ ## Jeff Judge
+ - [https://www.jeffjudge.com](https://www.jeffjudge.com)
+ - date_published: 2024-02-12T17:19:27+00:00
+ - tags: ['personal']
+
+ ## Gitea: Git with a cup of tea
+ - [https://git.nas.jeffmackinnon.com](https://git.nas.jeffmackinnon.com)
+ - date_published: 2024-08-14T20:31:33.925233+00:00
+
+ ## Jeff MacKinnon's Homepage
+ - [https://jeffmackinnon.com](https://jeffmackinnon.com)
+ - date_published: 2024-02-05T20:57:27.042068+00:00
+ - tags: ['personal']
+
+ ## Jeff McNeill Resume
+ - [https://jeffmcneill.com](https://jeffmcneill.com)
+ - date_published: 2024-02-03T14:51:48.458143+00:00
+
+ ## JEFF Media Developer Blog
+ - [https://blog.jeff-media.com](https://blog.jeff-media.com)
+ - date_published: 2024-08-19T15:43:06.726779+00:00
+
  ## (no title)
  - [https://jeffmitchelldev.com](https://jeffmitchelldev.com)
  - date_published: 2024-05-07T15:16:32.069090+00:00
@@ -849,6 +910,10 @@
  - [https://jerrymichalski.com](https://jerrymichalski.com)
  - date_published: 2023-11-29T17:09:20.663681+00:00
  - tags: ['personal']
+
+ ## sundry.jerryorr.com
+ - [https://sundry.jerryorr.com](https://sundry.jerryorr.com)
+ - date_published: 2024-11-15T19:40:56+00:00
 
  ## Jerry Pournelle's Chaos Manor
  - [https://jerrypournelle.com](https://jerrypournelle.com)
@@ -4009,67 +4074,4 @@
  ## John Derian Company Inc
  - [http://www.johnderian.com](http://www.johnderian.com)
  - date_published: 2024-06-24T09:50:54.291073+00:00
-
- ## Work - John D. Nilles
- - [https://johndnilles.com](https://johndnilles.com)
- - date_published: 2024-04-10T04:34:52.841798+00:00
- - tags: ['personal', 'filmmaker']
-
- ## John Doherty
- - [https://johnfdoherty.com](https://johnfdoherty.com)
- - date_published: 2023-12-17T20:59:27.398614+00:00
- - tags: ['personal']
-
- ## John Fial – Software Engineer, Developer, Human
- - [https://johnfial.com](https://johnfial.com)
- - date_published: 2024-01-16T17:04:24.566102+00:00
-
- ## JOHN FRUSCIANTE
- - [https://www.johnfrusciante.com](https://www.johnfrusciante.com)
- - date_published: 2024-06-18T23:00:39.780354+00:00
-
- ## John Furey
- - [https://johnfurey.com](https://johnfurey.com)
- - date_published: 2024-07-04T06:06:40.047360+00:00
-
- ## John Garvens - Salesforce Revenue Cloud Expert & Salesforce Career Coach
- - [https://johngarvens.com](https://johngarvens.com)
- - date_published: 2024-01-02T03:35:31.713348+00:00
-
- ## John-George Sample | Software Engineer
- - [https://www.johngeorgesample.com](https://www.johngeorgesample.com)
- - date_published: 2024-06-23T06:02:25.094838+00:00
-
- ## Official Website - John Glashan, Artist and Cartoonist
- - [http://www.johnglashan.com](http://www.johnglashan.com)
- - date_published: 2024-06-28T13:53:05+00:00
-
- ## Retirement plan services | John Hancock Retirement
- - [https://retirement.johnhancock.com](https://retirement.johnhancock.com)
- - date_published: 2024-10-07T17:33:22+00:00
-
- ## Invest, Insure, and Retire with John Hancock
- - [https://www.johnhancock.com](https://www.johnhancock.com)
- - date_published: 2024-06-18T19:01:57+00:00
-
- ## John Hancock Life Insurance: Forms, Claims & More
- - [https://www.johnhancockinsurance.com](https://www.johnhancockinsurance.com)
- - date_published: 2024-10-07T18:17:26+00:00
-
- ## JohnHartness.com | I DRINK & I WRITE THINGS
- - [https://johnhartness.com](https://johnhartness.com)
- - date_published: 2024-07-04T02:45:12.169946+00:00
-
- ## John Hawthorn
- - [https://johnhawthorn.com](https://johnhawthorn.com)
- - date_published: 2024-04-24T23:40:13+00:00
- - tags: ['personal']
-
- ## John H. Cochrane
- - [https://www.johnhcochrane.com](https://www.johnhcochrane.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Studio – Words-Music-Images
- - [https://johnheartfield.com](https://johnheartfield.com)
- - date_published: 2024-05-14T02:44:48.327855+00:00
 

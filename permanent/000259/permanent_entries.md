@@ -1,3 +1,115 @@
+ ## Homepage | The Graduate School
+ - [https://gradschool.duke.edu](https://gradschool.duke.edu)
+ - date_published: 2024-06-16T06:41:18+00:00
+
+ ## LibGuides
+ - [http://guides.library.duke.edu](http://guides.library.duke.edu)
+ - date_published: 2024-08-19T08:35:56.138343+00:00
+
+ ## Home | Margolis Institute for Health Policy
+ - [https://healthpolicy.duke.edu](https://healthpolicy.duke.edu)
+ - date_published: 2024-06-15T19:18:10+00:00
+
+ ## Front Page | History
+ - [https://history.duke.edu](https://history.duke.edu)
+ - date_published: 2024-09-26T17:15:02+00:00
+
+ ## Front Page | Center for the History of Political Economy
+ - [https://hope.econ.duke.edu](https://hope.econ.duke.edu)
+ - date_published: 2024-07-03T08:29:44+00:00
+
+ ## Home | Human Resources
+ - [https://hr.duke.edu](https://hr.duke.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## About the Duke Human Rights Center | Duke Human Rights Center at the Franklin Humanities Institute
+ - [https://humanrights.fhi.duke.edu](https://humanrights.fhi.duke.edu)
+ - date_published: 2024-09-26T17:54:57+00:00
+
+ ## INTERDISCIPLINARY BEHAVIORAL RESEARCH CENTER
+ - [https://ibrc.duke.edu](https://ibrc.duke.edu)
+ - date_published: 2024-09-26T18:02:48.034948+00:00
+
+ ## Duke | Log In
+ - [https://idms-mfa.oit.duke.edu](https://idms-mfa.oit.duke.edu)
+ - date_published: 2024-05-01T06:58:34.700524+00:00
+
+ ## Together, we are Forever Duke: Our 2021 Impact Report
+ - [https://impact.duke.edu](https://impact.duke.edu)
+ - date_published: 2024-09-26T18:01:02.962187+00:00
+
+ ## Log In | Inventions
+ - [https://innovate.olv.duke.edu](https://innovate.olv.duke.edu)
+ - date_published: 2024-09-26T18:00:19.875463+00:00
+
+ ## Welcome to the Pratt Intranet | Pratt Intranet
+ - [https://inside.pratt.duke.edu](https://inside.pratt.duke.edu)
+ - date_published: 2024-05-10T04:48:48.601253+00:00
+
+ ## Inside Sanford – The home for all things for and about the Sanford School of Public Policy
+ - [https://inside.sanford.duke.edu](https://inside.sanford.duke.edu)
+ - date_published: 2024-07-20T15:53:29+00:00
+
+ ## Homepage | Office of Interdisciplinary Studies
+ - [https://interdisciplinary.duke.edu](https://interdisciplinary.duke.edu)
+ - date_published: 2024-09-04T19:24:11+00:00
+
+ ## Duke | Log In
+ - [https://intranet.divinity.duke.edu](https://intranet.divinity.duke.edu)
+ - date_published: 2024-09-26T18:09:05.581759+00:00
+
+ ## Front Page | Information Science + Studies
+ - [https://iss.duke.edu](https://iss.duke.edu)
+ - date_published: 2024-09-26T15:09:02+00:00
+
+ ## Homepage | Information Technology Advisory Council ITAC
+ - [https://itac.duke.edu](https://itac.duke.edu)
+ - date_published: 2024-06-16T07:10:50+00:00
+
+ ## DUKEHealth JA |
+ - [https://ja.dh.duke.edu](https://ja.dh.duke.edu)
+ - date_published: 2024-08-18T08:02:18+00:00
+
+ ## Judicature
+ - [https://judicature.duke.edu](https://judicature.duke.edu)
+ - date_published: 2024-06-14T23:18:51.689658+00:00
+
+ ## Bolch Judicial Institute of Duke Law School
+ - [https://judicialstudies.duke.edu](https://judicialstudies.duke.edu)
+ - date_published: 2019-01-15T16:31:27+00:00
+
+ ## The Kenan Institute for Ethics at Duke University
+ - [https://kenan.ethics.duke.edu](https://kenan.ethics.duke.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Duke University School of Law
+ - [https://law.duke.edu](https://law.duke.edu)
+ - date_published: 2024-04-30T04:13:42.585667+00:00
+
+ ## Duke Learning Innovation
+ - [https://learninginnovation.duke.edu](https://learninginnovation.duke.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Front Page | Continuing Studies
+ - [https://learnmore.duke.edu](https://learnmore.duke.edu)
+ - date_published: 2024-06-15T08:18:44+00:00
+
+ ## Duke Lens | Visual Stories at Duke University
+ - [https://lens.duke.edu](https://lens.duke.edu)
+ - date_published: 2024-07-15T06:17:59.954663+00:00
+
+ ## Graduate Liberal Studies
+ - [https://liberalstudies.duke.edu](https://liberalstudies.duke.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home | Library
+ - [https://library.divinity.duke.edu](https://library.divinity.duke.edu)
+ - date_published: 2024-09-26T18:09:07.050604+00:00
+
+ ## Duke University Libraries | Duke University Libraries
+ - [https://library.duke.edu](https://library.duke.edu)
+ - date_published: 2024-06-16T07:17:16+00:00
+
  ## The Ford Library at Duke University's Fuqua School of Business
  - [https://library.fuqua.duke.edu](https://library.fuqua.duke.edu)
  - date_published: 2024-10-16T09:13:43.303053+00:00
@@ -3888,116 +4000,4 @@
  ## Home
  - [https://bioengineering.gmu.edu](https://bioengineering.gmu.edu)
  - date_published: 2024-08-11T00:48:36+00:00
-
- ## home
- - [https://bis.gmu.edu](https://bis.gmu.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Board of Visitors – George Mason University
- - [https://bov.gmu.edu](https://bov.gmu.edu)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Home
- - [http://building.gmu.edu](http://building.gmu.edu)
- - date_published: 2024-08-11T00:22:02+00:00
-
- ## Home
- - [https://business.gmu.edu](https://business.gmu.edu)
- - date_published: 2024-08-08T18:18:12+00:00
-
- ## C5I Center - Center of Excellence in Command, Control, Communications, Computing, Cyber,  and Intelligence
- - [http://c4i.gmu.edu](http://c4i.gmu.edu)
- - date_published: 2024-06-23T10:57:37.320121+00:00
-
- ## Camps and Youth Programs – George Mason University
- - [https://camps.gmu.edu](https://camps.gmu.edu)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Canvas LMS Transition
- - [https://canvas.gmu.edu](https://canvas.gmu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## - Counseling and Psychological Services
- - [https://caps.gmu.edu](https://caps.gmu.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Home
- - [https://careers.gmu.edu](https://careers.gmu.edu)
- - date_published: 2024-04-30T04:28:28.079759+00:00
-
- ## Home
- - [https://carterschool.gmu.edu](https://carterschool.gmu.edu)
- - date_published: 2024-08-08T20:35:29+00:00
-
- ## Cashier’s Office – Student Accounts Office
- - [https://cashiersoffice.gmu.edu](https://cashiersoffice.gmu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## George Mason University < George Mason University
- - [https://catalog.gmu.edu](https://catalog.gmu.edu)
- - date_published: 2024-04-30T04:28:32.203342+00:00
-
- ## Home - CCEE
- - [https://ccee.gmu.edu](https://ccee.gmu.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## home
- - [http://ccmh.gmu.edu](http://ccmh.gmu.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Child Development Center - George Mason University
- - [https://cdc.gmu.edu](https://cdc.gmu.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## CEC
- - [https://cec.gmu.edu](https://cec.gmu.edu)
- - date_published: 2024-04-30T04:25:41.501650+00:00
-
- ## CEHD - College of Education and Human Development - Home | George Mason University
- - [https://cehd.gmu.edu](https://cehd.gmu.edu)
- - date_published: 2024-08-08T20:35:25.156624+00:00
-
- ## Event Calendar
- - [https://cfa.calendar.gmu.edu](https://cfa.calendar.gmu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home
- - [https://cfa.gmu.edu](https://cfa.gmu.edu)
- - date_published: 2024-08-11T00:16:55+00:00
-
- ## Home
- - [https://cfa.sitemasonry.gmu.edu](https://cfa.sitemasonry.gmu.edu)
- - date_published: 2024-08-10T08:31:59+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://chat.its.gmu.edu](https://chat.its.gmu.edu)
- - date_published: 2023-04-28T16:52:29+00:00
-
- ## Home
- - [https://chhs.gmu.edu](https://chhs.gmu.edu)
- - date_published: 2024-04-30T04:27:23.529467+00:00
-
- ## Roy Rosenzweig Center for History and New Media – Democratizing history through digital media
- - [https://chnm.gmu.edu](https://chnm.gmu.edu)
- - date_published: 2024-06-15T06:21:26.213132+00:00
-
- ## home
- - [https://chss.gmu.edu](https://chss.gmu.edu)
- - date_published: 2024-08-08T20:35:13.126326+00:00
-
- ## Center for Intellectual Property x Innovation Policy (C-IP2)
- - [https://cip2.gmu.edu](https://cip2.gmu.edu)
- - date_published: 2024-07-21T23:20:56.758469+00:00
-
- ## Page Redirection
- - [https://cloud.csiss.gmu.edu](https://cloud.csiss.gmu.edu)
- - date_published: 2021-05-17T04:57:56+00:00
-
- ## home
- - [https://cls.gmu.edu](https://cls.gmu.edu)
- - date_published: 2024-08-11T12:14:25.136623+00:00
-
- ## Center for the Middle East and International Law – Center for the Middle East and International Law
- - [https://cmeil.gmu.edu](https://cmeil.gmu.edu)
- - date_published: 2024-07-21T23:20:27.896286+00:00
 

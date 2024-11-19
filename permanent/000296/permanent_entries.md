@@ -1,3 +1,118 @@
+ ## המקור
+ - [https://www.hamakor.org.il](https://www.hamakor.org.il)
+ - date_published: 2024-07-04T12:26:51.616759+00:00
+
+ ## Main Page - Shalom Hartman Institute
+ - [https://hartman.org.il](https://hartman.org.il)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## מפעל המילון ההיסטורי
+ - [http://maagarim.hebrew-academy.org.il](http://maagarim.hebrew-academy.org.il)
+ - date_published: 2024-09-17T17:53:32.245170+00:00
+
+ ## Home
+ - [https://www.iaai.org.il](https://www.iaai.org.il)
+ - date_published: 2024-10-22T05:27:24.898368+00:00
+
+ ## Web App - Unavailable
+ - [http://www.iba.org.il](http://www.iba.org.il)
+ - date_published: 2024-06-27T07:47:33.867124+00:00
+
+ ## בית הספר למדעי המחשב
+ - [http://www.icore-algo.org.il](http://www.icore-algo.org.il)
+ - date_published: 2024-08-07T11:29:18+00:00
+
+ ## https://en.idi.org.il
+ - [https://en.idi.org.il](https://en.idi.org.il)
+ - date_published: 2023-12-31T18:32:18.786003+00:00
+
+ ## ILF - The Israeli Leadership Forum
+ - [https://ilf-en.org.il](https://ilf-en.org.il)
+ - date_published: 2024-06-26T18:34:34+00:00
+
+ ## Home | IMU
+ - [https://www.imu.org.il](https://www.imu.org.il)
+ - date_published: 2024-07-04T17:14:49.920950+00:00
+
+ ## עמותת עינבר - עמותה ישראלית לנפגעי מחלות ראומטיות, אוטואימוניות ודלקתיות
+ - [https://www.inbar.org.il](https://www.inbar.org.il)
+ - date_published: 2024-06-28T12:06:17.161336+00:00
+
+ ## חנן כהן / מידע דיגיטאלי
+ - [https://info.org.il](https://info.org.il)
+ - date_published: 2024-05-08T05:43:28.517171+00:00
+
+ ## עמוד הבית - איפה לומדים?
+ - [https://ipho2019.org.il](https://ipho2019.org.il)
+ - date_published: 2024-05-07T15:14:50.221204+00:00
+
+ ## לא רלוונטי | חנן כהן מגיב על מכתבי שרשרת ושמועות אינטרנט – מאז 2002
+ - [http://irrelevant.org.il](http://irrelevant.org.il)
+ - date_published: 2024-07-04T08:25:20.427940+00:00
+
+ ## Israel Science Foundation (ISF)
+ - [http://isf.org.il](http://isf.org.il)
+ - date_published: 2024-05-15T13:58:57+00:00
+
+ ## התאחדות משרדי הנסיעות ויועצי התיירות בישראל
+ - [http://www.ittaa.org.il](http://www.ittaa.org.il)
+ - date_published: 2024-10-21T21:57:40.691149+00:00
+
+ ## עמוד הבית - המרכז הירושלמי לענייני חוץ וביטחון
+ - [http://jcpa.org.il](http://jcpa.org.il)
+ - date_published: 2024-09-17T20:39:44+00:00
+
+ - [https://kan.org.il](https://kan.org.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## ניקיון משרדים במרכז - המקצוענים בניקיון משרדים!
+ - [http://www.keshev.org.il](http://www.keshev.org.il)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## אתר העפיפונים הישראלי
+ - [http://kites.org.il](http://kites.org.il)
+ - date_published: 2024-07-04T08:25:25.187432+00:00
+
+ ## ל. רון האברד – המייסד של Scientology ו-Dianetics
+ - [https://www.lronhubbard.org.il](https://www.lronhubbard.org.il)
+ - date_published: 2024-06-06T19:38:26.779991+00:00
+
+ ## כתבות, תחקירים וניתוח
+ - [http://mida.org.il](http://mida.org.il)
+ - date_published: 2024-08-18T15:32:01.680166+00:00
+
+ ## עמוד הבית - עמותת מפרקים צעירים
+ - [https://mifrakim.org.il](https://mifrakim.org.il)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Malmad Homepage
+ - [http://olduli.nli.org.il](http://olduli.nli.org.il)
+ - date_published: 2019-07-09T15:43:14+00:00
+
+ ## הספרייה הלאומית של ישראל
+ - [https://www.nli.org.il](https://www.nli.org.il)
+ - date_published: 2024-07-02T06:04:04.523713+00:00
+
+ ## OpsSchool | DevOps | Israel
+ - [https://opsschool.org.il](https://opsschool.org.il)
+ - date_published: 2024-07-04T12:27:23.381952+00:00
+
+ ## פרח | דף הבית
+ - [https://perach.org.il](https://perach.org.il)
+ - date_published: 2024-05-11T09:08:20.132479+00:00
+
+ ## האתר הרשמי של ארגון הסיינטולוגיה: ל. רון האברד, דיאנטיקה, מהי סיינטולוגיה?, ספרים, אמונות, דיוויד מיסקביג'
+ - [https://scientology.org.il](https://scientology.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## המדויק והאמין ביותר
+ - [https://www.oca.scientology.org.il](https://www.oca.scientology.org.il)
+ - date_published: 2024-06-17T16:40:51.760046+00:00
+
+ ## דת הסיינטולוגיה – הרקע, התיאולוגיה והעיסוק הדתי
+ - [https://www.scientologyreligion.org.il](https://www.scientologyreligion.org.il)
+ - date_published: 2024-06-06T19:41:18.731748+00:00
+
  ## Sefaria: a Living Library of Jewish Texts Online
  - [https://www.sefaria.org.il](https://www.sefaria.org.il)
  - date_published: 2024-06-27T07:04:25.212147+00:00
@@ -3901,120 +4016,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Planet Clojure
  - [http://planet.clojure.in](http://planet.clojure.in)
  - date_published: 2024-06-22T00:00:00+00:00
-
- ## Up with People
- - [https://uwp.cnkonline.in](https://uwp.cnkonline.in)
- - date_published: 2024-07-12T23:25:55.892732+00:00
-
- ## CNLABS | Certification | Interoperability | IPv6 | Security
- - [https://cnlabs.in](https://cnlabs.in)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Condé Nast Traveller India
- - [https://www.cntraveller.in](https://www.cntraveller.in)
- - date_published: 2024-05-08T05:46:19.851606+00:00
-
- ## Cock Goblins - Cockgobl.in
- - [https://cockgobl.in](https://cockgobl.in)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## CodeMagnet - Your Magnetic Resource, For Coding Brilliance
- - [https://codemagnet.in](https://codemagnet.in)
- - date_published: 2024-07-19T23:25:46.931938+00:00
-
- ## Inside Out
- - [https://codito.in](https://codito.in)
- - date_published: 2024-06-23T17:34:00.990409+00:00
-
- ## CollegeSpace
- - [https://collegespace.in](https://collegespace.in)
- - date_published: 2024-07-14T10:21:09.844259+00:00
-
- ## Collins India - Explore Publications | HarperCollins
- - [https://collins.in](https://collins.in)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Public Cloud Services Comparison
- - [https://comparecloud.in](https://comparecloud.in)
- - date_published: 2022-10-27T07:31:21+00:00
-
- ## Tutorials for GATE CSE -
- - [https://www.computersciencejunction.in](https://www.computersciencejunction.in)
- - date_published: 2024-06-29T19:46:14+00:00
-
- ## ConsCent
- - [https://api.conscent.in](https://api.conscent.in)
- - date_published: 2024-05-01T02:03:57.098822+00:00
-
- ## ConsCent
- - [https://user.conscent.in](https://user.conscent.in)
- - date_published: 2024-05-13T03:27:33.804111+00:00
-
- ## Came for the content, stayed for the glow-up!
- - [https://www.contentondemand.in](https://www.contentondemand.in)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## CoolHotels.in
- - [https://coolhotels.in](https://coolhotels.in)
- - date_published: 2024-08-08T10:51:47.219810+00:00
-
- ## Vasudev Kamath - Random Ramblings
- - [https://copyninja.in](https://copyninja.in)
- - date_published: 2024-03-12T07:16:44.822138+00:00
-
- ## Cosmopolitan India: Celebrities Lifestyle News, Beauty, Fashion and Relationship Tips
- - [https://cosmopolitan.in](https://cosmopolitan.in)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Buy Domain and Hosting Packages for Your Website | Crazy Domains IN
- - [https://www.crazydomains.in](https://www.crazydomains.in)
- - date_published: 2024-06-16T08:52:07.277234+00:00
-
- ## All your IPL questions answered, here! | Cricketpedia
- - [https://www.cricketpedia.in](https://www.cricketpedia.in)
- - date_published: 2024-09-18T23:18:25.942959+00:00
-
- ## Crime News : Latest क्राइम न्यूज़ In Hindi | CrimeTak
- - [https://crimetak.in](https://crimetak.in)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Latest IT Channel News & Updates - Latest Tech News - CRN India
- - [https://www.crn.in](https://www.crn.in)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Crowdin | Localization Management Platform for agile teams
- - [https://crwd.in](https://crwd.in)
- - date_published: 2024-05-14T03:37:20.583432+00:00
-
- ## Cryptography and Surf
- - [https://cryptme.in](https://cryptme.in)
- - date_published: 2024-07-04T18:41:28.672569+00:00
-
- ## CSTEP
- - [http://www.cstep.in](http://www.cstep.in)
- - date_published: 2024-07-16T20:41:05.637124+00:00
-
- ## CtrlS - Asia's Largest Rated 4 Data Center & Managed Service Provider
- - [https://www.ctrls.in](https://www.ctrls.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Best Private University in Punjab, North India (India) - Chandigarh University
- - [http://www.cuchd.in](http://www.cuchd.in)
- - date_published: 2024-10-30T20:26:03.534853+00:00
-
- ## Cujammu
- - [http://www.cujammu.in](http://www.cujammu.in)
- - date_published: 2024-06-06T12:54:28+00:00
-
- ## Cyber Security
- - [https://blog.cyberbruharmy.in](https://blog.cyberbruharmy.in)
- - date_published: 2024-07-13T06:50:36.113687+00:00
-
- ## CyberBruhArmy
- - [https://course.cyberbruharmy.in](https://course.cyberbruharmy.in)
- - date_published: 2023-10-16T00:00:00+00:00
-
- ## Home
- - [https://www.cyberbruharmy.in](https://www.cyberbruharmy.in)
- - date_published: 2024-03-29T00:00:00+00:00
 

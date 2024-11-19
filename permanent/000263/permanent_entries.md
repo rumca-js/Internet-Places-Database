@@ -1,3 +1,116 @@
+ ## NC State Academic and Student Affairs
+ - [https://dasa.ncsu.edu](https://dasa.ncsu.edu)
+ - date_published: 2024-08-05T23:58:50.633801+00:00
+
+ ## Davidson County Center | N.C. Cooperative Extension
+ - [https://davidson.ces.ncsu.edu](https://davidson.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:28:46.382340+00:00
+
+ ## Davie County Center | N.C. Cooperative Extension
+ - [https://davie.ces.ncsu.edu](https://davie.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:02.468280+00:00
+
+ ## NC State Day of Giving
+ - [https://dayofgiving.ncsu.edu](https://dayofgiving.ncsu.edu)
+ - date_published: 2024-10-15T05:33:20.176819+00:00
+
+ ## Campus Directory | NC State University
+ - [https://directory.ncsu.edu](https://directory.ncsu.edu)
+ - date_published: 2024-08-07T16:55:01.510932+00:00
+
+ ## See Yourself at NC State | Undergraduate Admissions
+ - [https://discover.admissions.ncsu.edu](https://discover.admissions.ncsu.edu)
+ - date_published: 2024-03-14T03:13:23+00:00
+
+ ## Office for Institutional Equity and Diversity
+ - [https://diversity.ncsu.edu](https://diversity.ncsu.edu)
+ - date_published: 2024-07-01T12:24:02+00:00
+
+ ## NCSU Libraries' Digital Collections
+ - [https://d.lib.ncsu.edu](https://d.lib.ncsu.edu)
+ - date_published: 2024-07-18T04:42:14.525723+00:00
+
+ ## Disability Resources Office
+ - [https://dro.dasa.ncsu.edu](https://dro.dasa.ncsu.edu)
+ - date_published: 2024-07-01T15:56:02.465718+00:00
+
+ ## Duplin County Center | N.C. Cooperative Extension
+ - [https://duplin.ces.ncsu.edu](https://duplin.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:24:07.162622+00:00
+
+ ## Durham County Center | N.C. Cooperative Extension
+ - [https://durham.ces.ncsu.edu](https://durham.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:35.002752+00:00
+
+ ## EBCI Center | N.C. Cooperative Extension
+ - [https://ebci.ces.ncsu.edu](https://ebci.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:30:35.657439+00:00
+
+ ## Edgecombe County Center | N.C. Cooperative Extension
+ - [https://edgecombe.ces.ncsu.edu](https://edgecombe.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:31:17.855545+00:00
+
+ ## EFNEP - Expanded Food and Nutrition Education Program | NC State Extension
+ - [https://efnep.ces.ncsu.edu](https://efnep.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:24:48.284156+00:00
+
+ ## Innovation and Entrepreneurship
+ - [http://ei.ncsu.edu](http://ei.ncsu.edu)
+ - date_published: 2024-07-09T02:11:57+00:00
+
+ ## Enrollment Management and Services
+ - [https://emas.ncsu.edu](https://emas.ncsu.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Emergency Information
+ - [http://emergency.ncsu.edu](http://emergency.ncsu.edu)
+ - date_published: 2024-08-07T16:54:56.538101+00:00
+
+ ## Extension Master Gardener℠
+ Volunteers | NC State Extension
+ - [https://emgv.ces.ncsu.edu](https://emgv.ces.ncsu.edu)
+ - date_published: 2024-06-16T22:36:48.371802+00:00
+
+ ## Entomology – Insect Biology and Management | NC State Extension
+ - [https://entomology.ces.ncsu.edu](https://entomology.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:26:15.140468+00:00
+
+ ## Innovation and Entrepreneurship
+ - [https://entrepreneurship.ncsu.edu](https://entrepreneurship.ncsu.edu)
+ - date_published: 2024-08-07T16:14:57+00:00
+
+ ## Equine Husbandry | NC State Extension
+ - [https://equinehusbandry.ces.ncsu.edu](https://equinehusbandry.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:37.916618+00:00
+
+ ## Executive Farm Management | NC State Extension
+ - [https://execfarmmgmt.ces.ncsu.edu](https://execfarmmgmt.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:23:22.814978+00:00
+
+ ## NC State Experts
+ - [https://experts.ncsu.edu](https://experts.ncsu.edu)
+ - date_published: 2024-05-07T19:40:07.224150+00:00
+
+ ## Extension Gardener Travel Study Adventures | NC State Extension
+ - [https://exploretheworld.ces.ncsu.edu](https://exploretheworld.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:24:25.036300+00:00
+
+ ## Extension Gardener | NC State Extension
+ - [https://extensiongardener.ces.ncsu.edu](https://extensiongardener.ces.ncsu.edu)
+ - date_published: 2024-06-16T22:36:26.749897+00:00
+
+ ## NC State Extension
+ - [http://extension.ncsu.edu](http://extension.ncsu.edu)
+ - date_published: 2024-10-15T05:41:38.956398+00:00
+
+ ## Chancellor's Faculty Excellence Program | NC State University
+ - [https://facultyclusters.ncsu.edu](https://facultyclusters.ncsu.edu)
+ - date_published: 2024-07-01T15:55:29.166396+00:00
+
+ ## Farm Law and Tax for Producers and Landowners | NC State Extension
+ - [https://farmlaw.ces.ncsu.edu](https://farmlaw.ces.ncsu.edu)
+ - date_published: 2024-10-15T05:29:20.027272+00:00
+
  ## Farm Planning Resources | NC State Extension
  - [https://farmplanning.ces.ncsu.edu](https://farmplanning.ces.ncsu.edu)
  - date_published: 2024-10-15T05:24:42.174197+00:00
@@ -3888,116 +4001,4 @@
  ## BEAVER HEALTHY
  - [https://beaverhealthy.oregonstate.edu](https://beaverhealthy.oregonstate.edu)
  - date_published: 2024-10-14T18:17:15+00:00
-
- ## Blog Insights From Oregon State University - Online Marketing, the Business of Beer, Gardening and More
- - [https://blog.pace.oregonstate.edu](https://blog.pace.oregonstate.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## OSU Wordpress
- - [http://blogs.oregonstate.edu](http://blogs.oregonstate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Online Data Analytics Bootcamp | Oregon State University
- - [https://bootcamp.oregonstate.edu](https://bootcamp.oregonstate.edu)
- - date_published: 2024-10-15T01:25:15.454689+00:00
-
- ## Business Matters – News, articles, and interesting stuff from the College of Business
- - [https://businessmatters.oregonstate.edu](https://businessmatters.oregonstate.edu)
- - date_published: 2024-10-15T00:02:39.667937+00:00
-
- ## College of Business
- - [https://business.oregonstate.edu](https://business.oregonstate.edu)
- - date_published: 2024-06-16T21:05:23+00:00
-
- ## Events Calendar - Oregon State University
- - [https://calendar.oregonstate.edu](https://calendar.oregonstate.edu)
- - date_published: 2024-07-06T23:29:45.630592+00:00
-
- ## OSU Login
- - [https://canvas.oregonstate.edu](https://canvas.oregonstate.edu)
- - date_published: 2024-06-16T22:25:38.583379+00:00
-
- ## Home - OSU-Cascades | OSU-Cascades Library | Oregon State University
- - [https://cascades.library.oregonstate.edu](https://cascades.library.oregonstate.edu)
- - date_published: 2024-10-15T00:27:07+00:00
-
- ## Home | Center for Applied Systems & Software | Oregon State University
- - [https://cass.oregonstate.edu](https://cass.oregonstate.edu)
- - date_published: 2024-07-06T20:40:17+00:00
-
- ## 2024-2025 Catalog < Oregon State University
- - [https://catalog.oregonstate.edu](https://catalog.oregonstate.edu)
- - date_published: 2024-06-13T08:05:53+00:00
-
- ## Oregon State University Schedule of Classes
- - [http://classes.oregonstate.edu](http://classes.oregonstate.edu)
- - date_published: 2024-10-02T18:15:27+00:00
-
- ## Clery Compliance
- - [https://clery.oregonstate.edu](https://clery.oregonstate.edu)
- - date_published: 2015-12-11T08:58:22+00:00
-
- ## Clubs & Organizations
- - [https://clubs.oregonstate.edu](https://clubs.oregonstate.edu)
- - date_published: 2024-10-15T00:46:14+00:00
-
- ## Commencement
- - [https://commencement.oregonstate.edu](https://commencement.oregonstate.edu)
- - date_published: 2024-06-14T16:17:49+00:00
-
- ## University Relations and Marketing
- - [https://communications.oregonstate.edu](https://communications.oregonstate.edu)
- - date_published: 2024-10-14T23:58:18+00:00
-
- ## Core Education
- - [https://coreeducation.oregonstate.edu](https://coreeducation.oregonstate.edu)
- - date_published: 2023-07-03T14:46:43+00:00
-
- ## College of Agricultural Sciences
- - [https://cropandsoil.oregonstate.edu](https://cropandsoil.oregonstate.edu)
- - date_published: 2024-10-15T04:06:48+00:00
-
- ## OSU Login
- - [http://directory.oregonstate.edu](http://directory.oregonstate.edu)
- - date_published: 2024-06-16T22:25:42.668831+00:00
-
- ## Undergraduate Admissions
- - [https://discover.oregonstate.edu](https://discover.oregonstate.edu)
- - date_published: 2024-06-18T14:29:52+00:00
-
- ## Institutional Diversity
- - [https://diversity.oregonstate.edu](https://diversity.oregonstate.edu)
- - date_published: 2018-05-30T00:00:00+00:00
-
- ## Online Degrees & Programs | Oregon State Ecampus | OSU Degrees Online
- - [https://ecampus.oregonstate.edu](https://ecampus.oregonstate.edu)
- - date_published: 2024-06-16T22:25:12.335267+00:00
-
- ## Division of Educational Ventures | Oregon State University
- - [https://educationalventures.oregonstate.edu](https://educationalventures.oregonstate.edu)
- - date_published: 2024-10-15T01:15:50.913361+00:00
-
- ## College of Education
- - [https://education.oregonstate.edu](https://education.oregonstate.edu)
- - date_published: 2021-11-24T14:37:21+00:00
-
- ## Electrical Engineering and Computer Science | College of Engineering
- - [http://eecs.oregonstate.edu](http://eecs.oregonstate.edu)
- - date_published: 2022-07-15T22:09:15+00:00
-
- ## Emergency Management
- - [https://emergency.oregonstate.edu](https://emergency.oregonstate.edu)
- - date_published: 2024-10-14T21:25:36+00:00
-
- ## Extension employee resources | Employee Intranet
- - [https://employee.extension.oregonstate.edu](https://employee.extension.oregonstate.edu)
- - date_published: 2024-10-15T01:12:16+00:00
-
- ## OSU Extension and Engagement | Extension and Engagement
- - [https://engagement.oregonstate.edu](https://engagement.oregonstate.edu)
- - date_published: 2024-06-13T00:15:19+00:00
-
- ## Enrollment Management
- - [https://enrollmentmanagement.oregonstate.edu](https://enrollmentmanagement.oregonstate.edu)
- - date_published: 2023-07-06T12:10:16+00:00
 

@@ -1,3 +1,116 @@
+ ## Health Services, Policy & Practice | School of Public Health | Brown University
+ - [https://hspp.sph.brown.edu](https://hspp.sph.brown.edu)
+ - date_published: 2024-07-09T12:55:19+00:00
+
+ ## H-Store: Next Generation OLTP Database Research
+ - [https://hstore.cs.brown.edu](https://hstore.cs.brown.edu)
+ - date_published: 2022-02-16T03:13:20+00:00
+
+ ## ICERM - Home
+ - [https://icerm.brown.edu](https://icerm.brown.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## OIT | Brown University
+ - [https://it.brown.edu](https://it.brown.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## OIT Service Center
+ - [https://ithelp.brown.edu](https://ithelp.brown.edu)
+ - date_published: 2024-07-22T07:25:36.263859+00:00
+
+ ## Brown University Library
+ - [https://library.brown.edu](https://library.brown.edu)
+ - date_published: 2024-07-09T12:54:49.052933+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.revproxy.brown.edu](https://login.revproxy.brown.edu)
+ - date_published: 2024-06-30T01:30:44.664837+00:00
+
+ ## The Warren Alpert Medical School of Brown University
+ - [https://med.brown.edu](https://med.brown.edu)
+ - date_published: 2024-07-09T12:39:42+00:00
+
+ ## The Warren Alpert Medical School of Brown University
+ - [https://medical.brown.edu](https://medical.brown.edu)
+ - date_published: 2024-07-09T12:39:42+00:00
+
+ ## Master of Public Health | School of Public Health | Brown University
+ - [https://mph.sph.brown.edu](https://mph.sph.brown.edu)
+ - date_published: 2024-07-09T12:55:12+00:00
+
+ ## MyAccount
+ - [https://myaccount.brown.edu](https://myaccount.brown.edu)
+ - date_published: 2024-07-22T07:25:34.356386+00:00
+
+ ## Home - myBrown
+ - [https://my.brown.edu](https://my.brown.edu)
+ - date_published: 2024-07-09T12:54:04.070829+00:00
+
+ ## Online Master of Public Health | School of Public Health | Brown University
+ - [https://onlinemph.sph.brown.edu](https://onlinemph.sph.brown.edu)
+ - date_published: 2024-07-09T12:31:19+00:00
+
+ ## Pandemic Center | School of Public Health | Brown University
+ - [https://pandemics.sph.brown.edu](https://pandemics.sph.brown.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Programming and Programming Languages
+ - [https://papl.cs.brown.edu](https://papl.cs.brown.edu)
+ - date_published: 2023-06-30T02:14:37+00:00
+
+ ## Portal-ble: make augmented reality apps that are hands-on interactive
+ - [https://portalble.cs.brown.edu](https://portalble.cs.brown.edu)
+ - date_published: 2023-10-19T02:33:53+00:00
+
+ ## Prime | Brown University
+ - [https://prime.brown.edu](https://prime.brown.edu)
+ - date_published: 2024-07-09T12:54:18+00:00
+
+ ## School of Professional Studies | Brown University
+ - [https://professional.brown.edu](https://professional.brown.edu)
+ - date_published: 2024-05-09T05:07:39.351367+00:00
+
+ ## Remotion: A Motion-Based Capture and Replay Platform of Mobile Device Interaction for Remote Usability
+		Testing
+ - [https://remotion.cs.brown.edu](https://remotion.cs.brown.edu)
+ - date_published: 2023-10-19T02:48:02+00:00
+
+ ## SRC@Brown
+ - [https://responsible.cs.brown.edu](https://responsible.cs.brown.edu)
+ - date_published: 2023-11-14T16:35:37+00:00
+
+ ## Experiment Introduction - The Rust Programming Language
+ - [https://rust-book.cs.brown.edu](https://rust-book.cs.brown.edu)
+ - date_published: 2024-05-12T06:12:13.067433+00:00
+
+ ## IIS Windows Server
+ - [https://s4.ad.brown.edu](https://s4.ad.brown.edu)
+ - date_published: 2023-06-22T21:09:17+00:00
+
+ ## Self-E - Brown University HCI Group
+ - [https://selfe.cs.brown.edu](https://selfe.cs.brown.edu)
+ - date_published: 2023-10-19T02:32:01+00:00
+
+ ## » on Arithmetic Geometry, Number Theory, and Computation
+ - [https://simonscollab.icerm.brown.edu](https://simonscollab.icerm.brown.edu)
+ - date_published: 2018-11-28T00:00:00+00:00
+
+ ## sites.brown.edu
+ - [https://sites.brown.edu](https://sites.brown.edu)
+ - date_published: 2024-07-09T12:47:22+00:00
+
+ ## Sketchy and filtered.ink
+ - [https://sketchy.cs.brown.edu](https://sketchy.cs.brown.edu)
+ - date_published: 2024-06-11T18:24:20+00:00
+
+ ## SleepCoacher - Brown University HCI Group
+ - [https://sleepcoacher.cs.brown.edu](https://sleepcoacher.cs.brown.edu)
+ - date_published: 2023-10-19T02:39:41+00:00
+
+ ## Sochiatrist - Brown University HCI Group
+ - [https://sochiatrist.cs.brown.edu](https://sochiatrist.cs.brown.edu)
+ - date_published: 2023-10-19T02:30:01+00:00
+
  ## School of Public Health | Brown University
  - [https://sph.brown.edu](https://sph.brown.edu)
  - date_published: 2024-05-09T05:07:49.216363+00:00
@@ -3905,116 +4018,4 @@ Mellon University
  ## Faculty Council | Colorado State University
  - [https://facultycouncil.colostate.edu](https://facultycouncil.colostate.edu)
  - date_published: 2024-07-22T06:08:56.547025+00:00
-
- ## Office of Financial Aid | Colorado State University
- - [https://financialaid.colostate.edu](https://financialaid.colostate.edu)
- - date_published: 2024-08-11T10:43:56.856625+00:00
-
- ## University Advancement – Giving @ Colorado State University
- - [https://giving.colostate.edu](https://giving.colostate.edu)
- - date_published: 2024-07-22T06:01:45.803281+00:00
-
- ## Graduate School at Colorado State University
- - [https://graduateschool.colostate.edu](https://graduateschool.colostate.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - Green @ CSU
- - [https://green.colostate.edu](https://green.colostate.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Health Network | Colorado State University
- - [http://health.colostate.edu](http://health.colostate.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Housing & Dining Services – Housing & Dining Services @ Colorado State University
- - [http://housing.colostate.edu](http://housing.colostate.edu)
- - date_published: 2024-08-11T10:43:26.111955+00:00
-
- ## Human Resources | Colorado State University
- - [https://hr.colostate.edu](https://hr.colostate.edu)
- - date_published: 2024-08-11T10:43:14.710857+00:00
-
- ## Inclusive Physical & Virtual Campus | Colorado State University
- - [https://inclusivecampus.colostate.edu](https://inclusivecampus.colostate.edu)
- - date_published: 2024-08-11T10:43:46.082375+00:00
-
- ## Inclusive Excellence at CSU | Office of Inclusive Excellence
- - [https://inclusiveexcellence.colostate.edu](https://inclusiveexcellence.colostate.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## International Programs at Colorado State University
- - [https://international.colostate.edu](https://international.colostate.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Colorado State University Employment Opportunities | Home
- - [https://jobs.colostate.edu](https://jobs.colostate.edu)
- - date_published: 2024-07-22T06:02:15+00:00
-
- ## The 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2011)
- - [http://lcpc11.cs.colostate.edu](http://lcpc11.cs.colostate.edu)
- - date_published: 2024-07-02T03:02:18.601985+00:00
-
- ## News - College of Liberal Arts, Colorado State University
- - [https://libarts.source.colostate.edu](https://libarts.source.colostate.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Colorado State University: Libraries
- - [https://lib.colostate.edu](https://lib.colostate.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Mailing Lists – Information Technology
- - [https://lists.colostate.edu](https://lists.colostate.edu)
- - date_published: 2024-06-21T20:36:42.306835+00:00
-
- ## Colorado State University Magazine
- - [https://magazine.colostate.edu](https://magazine.colostate.edu)
- - date_published: 2024-04-30T03:48:16.584614+00:00
-
- ## Lenses of the Liberal Arts: Voice - CSU College of Liberal Arts Magazine
- - [http://magazine.libarts.colostate.edu](http://magazine.libarts.colostate.edu)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Rams (Google) Accounts | Colorado State University
- - [http://mail.rams.colostate.edu](http://mail.rams.colostate.edu)
- - date_published: 2024-08-11T10:43:39.331560+00:00
-
- ## Colorado State University
- - [http://maps.colostate.edu](http://maps.colostate.edu)
- - date_published: 2024-08-11T10:43:41.939270+00:00
-
- ## Department of Mathematics | CSU – Department of Mathematics at Colorado State University
- - [https://mathematics.colostate.edu](https://mathematics.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## My Learning | Colorado State University
- - [https://mylearning.colostate.edu](https://mylearning.colostate.edu)
- - date_published: 2024-08-11T10:42:31.694895+00:00
-
- ## News - College of Natural Sciences, Colorado State University
- - [https://natsci.source.colostate.edu](https://natsci.source.colostate.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## NetID - Colorado State University System - NetID - Colorado State University System
- - [https://netid.colostate.edu](https://netid.colostate.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## News & Media Relations | Colorado State University
- - [https://newsmediarelations.colostate.edu](https://newsmediarelations.colostate.edu)
- - date_published: 2024-07-22T06:02:48.522850+00:00
-
- ## Colorado State University Online | Online Masters & Bachelor Degrees
- - [http://online.colostate.edu](http://online.colostate.edu)
- - date_published: 2024-07-22T06:08:53.399087+00:00
-
- ## Parent & Family Programs – Colorado State University
- - [http://parents.colostate.edu](http://parents.colostate.edu)
- - date_published: 2024-08-11T10:41:31.885076+00:00
-
- ## Math Placement | Department of Mathematics
- - [https://placement.math.colostate.edu](https://placement.math.colostate.edu)
- - date_published: 2024-06-30T03:02:37.613127+00:00
-
- ## Policy Library - Office of Policy & Compliance - Colorado State University
- - [http://policylibrary.colostate.edu](http://policylibrary.colostate.edu)
- - date_published: 2024-07-22T06:01:40.865125+00:00
 

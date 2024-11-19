@@ -1,3 +1,15 @@
+ ## Bali Round Trip – Get Moving Leave The Driving To Us
+ - [https://baliroundtrip.com](https://baliroundtrip.com)
+ - date_published: 2024-09-10T13:55:58.679411+00:00
+
+ ## Balkanada Films – Film . Music Video . Dynamic Content Production
+ - [https://balkanada.com](https://balkanada.com)
+ - date_published: 2024-08-18T06:13:36.830299+00:00
+
+ ## Home - Balkan Green Energy News
+ - [https://balkangreenenergynews.com](https://balkangreenenergynews.com)
+ - date_published: 2024-10-26T10:32:48+00:00
+
  ## Covering politics, society and business in Southern and Eastern Europe | Balkan Insight
  - [https://balkaninsight.com](https://balkaninsight.com)
  - date_published: 2023-10-25T12:52:07.898288+00:00
@@ -3989,16 +4001,4 @@
  ## Michael Denis Ó Callaghan
  - [https://michaeldeniscallaghan.bandcamp.com](https://michaeldeniscallaghan.bandcamp.com)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## Michał J. Biel
- - [https://michalbiel.bandcamp.com](https://michalbiel.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Assumption, by Michele Thomas
- - [https://michelethomasmusic.bandcamp.com](https://michelethomasmusic.bandcamp.com)
- - date_published: 2024-07-19T04:59:15.481509+00:00
-
- ## Merch from Michelle Gurevich - EU Store
- - [https://michellegurevich.bandcamp.com](https://michellegurevich.bandcamp.com)
- - date_published: 2024-07-19T19:40:43.036448+00:00
 

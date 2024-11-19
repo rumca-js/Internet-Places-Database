@@ -1,3 +1,143 @@
+ ## Journal of Illicit Economies and Development
+ - [https://jied.lse.ac.uk](https://jied.lse.ac.uk)
+ - date_published: 2024-10-18T17:53:22.254600+00:00
+
+ ## LSE Home
+ - [https://lse.ac.uk](https://lse.ac.uk)
+ - date_published: 2024-03-06T15:28:43.124157+00:00
+
+ ## LSE - Individual Web Pages for Taught Students
+ - [http://personal.lse.ac.uk](http://personal.lse.ac.uk)
+ - date_published: 2015-06-19T12:26:07+00:00
+
+ ## LSE Press
+ - [http://press.lse.ac.uk](http://press.lse.ac.uk)
+ - date_published: 2024-05-09T05:38:18.940160+00:00
+
+ ## Curious minds are Shaping the World. Join in. - Shaping the world
+ - [https://shapingtheworld.lse.ac.uk](https://shapingtheworld.lse.ac.uk)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## STICERD - The Suntory and Toyota International Centres for Economics and Related Disciplines
+ - [https://sticerd.lse.ac.uk](https://sticerd.lse.ac.uk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## LSE Alumni - Community Home
+ - [https://www.alumni.lse.ac.uk](https://www.alumni.lse.ac.uk)
+ - date_published: 2024-05-09T05:38:12.080023+00:00
+
+ ## Home - ARREST trial
+ - [https://arrest.lshtm.ac.uk](https://arrest.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:20.390308+00:00
+
+ ## Home | LSHTM Moodle
+ - [https://ble.lshtm.ac.uk](https://ble.lshtm.ac.uk)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home - LSHTM Blogs
+ - [https://blogs.lshtm.ac.uk](https://blogs.lshtm.ac.uk)
+ - date_published: 2024-06-17T18:15:28.072245+00:00
+
+ ## Welcome to the Bicycle Users Group - Bicycle users group
+ - [https://cycling.lshtm.ac.uk](https://cycling.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:41.871238+00:00
+
+ ## Home - The East London Project
+ - [https://eastlondonproject.lshtm.ac.uk](https://eastlondonproject.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:25.906742+00:00
+
+ ## Home - Entebbe Mother and Baby Study
+ - [https://emabs.lshtm.ac.uk](https://emabs.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:12.083754+00:00
+
+ ## Home - ERIC PPCI
+ - [https://ericppci.lshtm.ac.uk](https://ericppci.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:18.816634+00:00
+
+ ## Home - GHLC
+ - [https://ghlc.lshtm.ac.uk](https://ghlc.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:45.501592+00:00
+
+ ## Home Page
+ - [https://giftstore.lshtm.ac.uk](https://giftstore.lshtm.ac.uk)
+ - date_published: 2024-05-02T10:56:41.190827+00:00
+
+ ## Welcome to Have Your Say! - Have Your Say
+ - [https://haveyoursay.lshtm.ac.uk](https://haveyoursay.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:16.944669+00:00
+
+ ## Welcome - Health Systems
+ - [https://healthsystems.lshtm.ac.uk](https://healthsystems.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:30.690456+00:00
+
+ ## Home - STAR
+ - [https://hivstar.lshtm.ac.uk](https://hivstar.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:40.892171+00:00
+
+ ## Jobs at LSHTM
+ - [https://jobs.lshtm.ac.uk](https://jobs.lshtm.ac.uk)
+ - date_published: 2024-05-02T10:56:36.932987+00:00
+
+ ## Home - MCC Collaborative Research Network
+ - [https://mccstudy.lshtm.ac.uk](https://mccstudy.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:39.538612+00:00
+
+ ## Home - MRC London Intercollegiate Doctoral Training Partnership Studentships
+ - [https://mrc-lid.lshtm.ac.uk](https://mrc-lid.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:30.003940+00:00
+
+ ## LSHTM Global Health Analytics - LSHTM Global Health Analytics
+ - [https://opendatakit.lshtm.ac.uk](https://opendatakit.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:32.329117+00:00
+
+ ## Home | Open Study at LSHTM
+ - [http://open.lshtm.ac.uk](http://open.lshtm.ac.uk)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Population Health Innovation Lab | LSHTM
+ - [https://philab.lshtm.ac.uk](https://philab.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:36.085815+00:00
+
+ ## Home - Placing the Public in Public Health: Public Health in Britain, 1948-2010
+ - [https://placingthepublic.lshtm.ac.uk](https://placingthepublic.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:13.344363+00:00
+
+ ## Home - PREVENTT Trial
+ - [https://preventt.lshtm.ac.uk](https://preventt.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:44.720178+00:00
+
+ ## Home - REVIVED-BCIS2
+ - [https://revived.lshtm.ac.uk](https://revived.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:47.178315+00:00
+
+ ## Home - NIHR School for Public Health Research
+ - [https://sphr.lshtm.ac.uk](https://sphr.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:22.714958+00:00
+
+ ## Home - SSACAB
+ - [https://ssacab.lshtm.ac.uk](https://ssacab.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:33.852900+00:00
+
+ ## Home - Health Systems in History: Ideas, Comparisons, Policies c. 1890-2000
+ - [https://systemshistory.lshtm.ac.uk](https://systemshistory.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:38.501402+00:00
+
+ ## Why join a union? - Trade Unions
+ - [https://tradeunions.lshtm.ac.uk](https://tradeunions.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:14.335374+00:00
+
+ ## Welcome - UIP
+ - [https://uip.lshtm.ac.uk](https://uip.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:24.743492+00:00
+
+ ## Vitamin D and Longevity (VIDAL) Trial
+ - [https://vidal.lshtm.ac.uk](https://vidal.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:15.499892+00:00
+
+ ## Home - Wellcome Trust - Bloomsbury Centre for Global Health Research
+ - [https://wbc.lshtm.ac.uk](https://wbc.lshtm.ac.uk)
+ - date_published: 2024-10-20T05:15:37.325724+00:00
+
  ## The London School of Hygiene & Tropical Medicine | LSHTM
  - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
  - date_published: 2023-10-25T22:48:50.709213+00:00
@@ -3872,145 +4012,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		- Dr. Adam Procter
  - [https://discursive.adamprocter.co.uk](https://discursive.adamprocter.co.uk)
  - date_published: 2024-07-09T21:37:37+00:00
-
- ## Fragmentum – A microcast from Adam Procter
- - [https://fragmentum.adamprocter.co.uk](https://fragmentum.adamprocter.co.uk)
- - date_published: 2024-07-10T09:01:37.454257+00:00
-
- ## Sign in · GitLab
- - [https://gitlab.adamprocter.co.uk](https://gitlab.adamprocter.co.uk)
- - date_published: 2024-07-10T09:01:30.516960+00:00
-
- ## Dr. Adam Procter - microcast
- - [https://microcast.adamprocter.co.uk](https://microcast.adamprocter.co.uk)
- - date_published: 2024-04-09T20:48:41+00:00
-
- ## PhD Documentation | Manifold Scholarship
- - [https://thesis.adamprocter.co.uk](https://thesis.adamprocter.co.uk)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Powered by Coffee
- - [https://adamstorr.co.uk](https://adamstorr.co.uk)
- - date_published: 2024-04-26T07:56:09+00:00
-
- ## Emmy-nominated filmmaker and artist Adam Westbrook
- - [https://adamwestbrook.co.uk](https://adamwestbrook.co.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Windows, Doors & Conservatories Installers | Bournemouth & Dorset |
- - [https://adamwindowcentres.co.uk](https://adamwindowcentres.co.uk)
- - date_published: 2024-10-20T20:41:47.598651+00:00
-
- ## Web Design, Digital Marketing Agency in Rugby, Warwickshire | ADAO
- - [https://adao.co.uk](https://adao.co.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Data & AI | Telefónica Tech UK
- - [https://adatis.co.uk](https://adatis.co.uk)
- - date_published: 2024-08-18T15:24:05.465617+00:00
-
- ## Add to Event | Find and book the best suppliers for your event
- - [https://www.addtoevent.co.uk](https://www.addtoevent.co.uk)
- - date_published: 2024-10-21T03:43:10.415936+00:00
-
- ## Jobs Recruitment, Staffing, & Employment Agency | Adecco UK
- - [http://www.adecco.co.uk](http://www.adecco.co.uk)
- - date_published: 2024-05-24T14:40:56+00:00
-
- ## Adelan SOFC | Fuel cell and hydrogen applications for industry
- - [https://adelan.co.uk](https://adelan.co.uk)
- - date_published: 2024-05-07T10:16:42.298615+00:00
-
- ## Adept - The Charity Design Experts
- - [https://adeptdesign.co.uk](https://adeptdesign.co.uk)
- - date_published: 2024-10-21T03:03:14.131144+00:00
-
- ## adidas Official Website UK | Sportswear
- - [https://adidas.co.uk](https://adidas.co.uk)
- - date_published: 2024-05-11T10:47:23.470635+00:00
-
- ## Adido - Web Design & Digital Marketing Agency Bournemouth - Adido Digital
- - [https://www.adido-digital.co.uk](https://www.adido-digital.co.uk)
- - date_published: 2024-09-10T08:07:22.505058+00:00
-
- ## Maritime Safety Information
- - [https://msi.admiralty.co.uk](https://msi.admiralty.co.uk)
- - date_published: 2024-05-02T11:11:04.355822+00:00
-
- ## ADMIRALTY Maritime Data Solutions
- - [https://www.admiralty.co.uk](https://www.admiralty.co.uk)
- - date_published: 2023-10-25T22:50:10.346848+00:00
-
- ## Specialist Car, Van & Home Insurance for the Individual | Adrian Flux
- - [https://adrianflux.co.uk](https://adrianflux.co.uk)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Home Page
- - [https://customers.adrianflux.co.uk](https://customers.adrianflux.co.uk)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Callback | Adrian Flux
- - [https://quotes.adrianflux.co.uk](https://quotes.adrianflux.co.uk)
- - date_published: 2024-05-02T11:11:10.681173+00:00
-
- ## Andrew Benham's Web Site
- - [http://www.adsb.co.uk](http://www.adsb.co.uk)
- - date_published: 2023-11-16T07:10:42+00:00
-
- ## Welcome to AdSmart from Sky
- - [https://www.adsmartfromsky.co.uk](https://www.adsmartfromsky.co.uk)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Digital Marketing Agency in Nottingham | Full-Service Agency | Adtrak
- - [https://www.adtrak.co.uk](https://www.adtrak.co.uk)
- - date_published: 2024-10-21T19:27:44.858529+00:00
-
- ## Advanced Infrastructure Technology Limited
- - [https://www.advanced-infrastructure.co.uk](https://www.advanced-infrastructure.co.uk)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Advancing Analytics
- - [https://www.advancinganalytics.co.uk](https://www.advancinganalytics.co.uk)
- - date_published: 2024-07-04T08:01:06+00:00
-
- ## Adventure Game Studio
- - [https://adventuregamestudio.co.uk](https://adventuregamestudio.co.uk)
- - date_published: 2024-05-08T05:22:16.288567+00:00
-
- ## Jobs in London, the UK & Beyond | Adzuna
- - [https://www.adzuna.co.uk](https://www.adzuna.co.uk)
- - date_published: 2024-10-22T11:01:04.827682+00:00
-
- ## - AEGIS Engineering Systems
- - [https://aegisengineering.co.uk](https://aegisengineering.co.uk)
- - date_published: 2024-06-29T09:21:52.913757+00:00
-
- ## Sign In
- - [https://ap3.aegon.co.uk](https://ap3.aegon.co.uk)
- - date_published: 2024-09-25T19:41:04.409032+00:00
-
- ## Sign In
- - [https://nationwide.aegon.co.uk](https://nationwide.aegon.co.uk)
- - date_published: 2024-06-16T06:02:18.821880+00:00
-
- ## Cierpliwości...
- - [https://www.aerialcombat.co.uk](https://www.aerialcombat.co.uk)
- - date_published: 2024-04-12T00:20:43.172628+00:00
- - tags: ['personal', 'blog']
-
- ## Home - Aerial Exposure - Professional drone services
- - [https://aerialexposure.co.uk](https://aerialexposure.co.uk)
- - date_published: 2019-07-21T00:00:00+00:00
-
- ## AeroExpo UK 2024 | General Aviation Exhibition
- - [https://www.aeroexpo.co.uk](https://www.aeroexpo.co.uk)
- - date_published: 2024-10-27T19:16:08.173389+00:00
-
- ## AGA Cookshop | Official Online Shop
- - [https://www.agacookshop.co.uk](https://www.agacookshop.co.uk)
- - date_published: 2024-09-05T23:40:23.314193+00:00
-
- ## M&IT Experience
- - [https://agencychallenge.co.uk](https://agencychallenge.co.uk)
- - date_published: 2024-07-03T20:46:26.201699+00:00
 

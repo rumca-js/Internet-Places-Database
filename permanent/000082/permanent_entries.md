@@ -1,3 +1,31 @@
+ ## IIS Windows Server
+ - [https://myaccount2.dailypress.com](https://myaccount2.dailypress.com)
+ - date_published: 2022-08-03T17:27:04+00:00
+
+ ## Shop the Daily Press Official Store
+ - [https://store.dailypress.com](https://store.dailypress.com)
+ - date_published: 2024-05-01T03:33:39.319267+00:00
+
+ ## Tidewater Review
+ - [https://tr-enewspaper.dailypress.com](https://tr-enewspaper.dailypress.com)
+ - date_published: 2024-05-01T03:33:20.465015+00:00
+
+ ## Media Kit | The Princetonian
+ - [https://business.dailyprincetonian.com](https://business.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:47.761141+00:00
+
+ ## Crosswords | The Daily Princetonian
+ - [https://crossword.dailyprincetonian.com](https://crossword.dailyprincetonian.com)
+ - date_published: 2024-04-17T18:18:55+00:00
+
+ ## The Daily Princetonian
+ - [https://dailyprincetonian.com](https://dailyprincetonian.com)
+ - date_published: 2023-10-25T13:41:55.082519+00:00
+
+ ## Donate to The Daily Princetonian
+ - [https://donate.dailyprincetonian.com](https://donate.dailyprincetonian.com)
+ - date_published: 2024-08-20T21:45:59+00:00
+
  ## The Daily Princetonian Quizzes
  - [https://quizzes.dailyprincetonian.com](https://quizzes.dailyprincetonian.com)
  - date_published: 2023-09-18T06:46:22+00:00
@@ -4019,35 +4047,4 @@
  ## Davai - B2B Pharmaceutical Marketplace
  - [https://dav-ai.com](https://dav-ai.com)
  - date_published: 2024-05-01T00:00:00+00:00
-
- ## Davanni's Pizza & Hot Hoagies | Delivery, Dine In, Take Out
- - [https://www.davannis.com](https://www.davannis.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Dav Chana
- - [http://davchana.com](http://davchana.com)
- - date_published: 2024-08-18T09:33:44.804272+00:00
-
- ## Get The Mobile Banking App That's Making Finances Easier | Dave
- - [https://dave.com](https://dave.com)
- - date_published: 2024-05-09T07:37:20.381873+00:00
- - tags: ['banking']
-
- ## Knowledge base
- - [https://support.dave.com](https://support.dave.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Dave Allie
- - [https://blog.daveallie.com](https://blog.daveallie.com)
- - date_published: 2023-10-25T09:20:01.435572+00:00
- - tags: ['personal']
-
- ## Hi, I'm Dave
- - [https://davebitter.com](https://davebitter.com)
- - date_published: 2024-05-15T00:00:00+00:00
- - tags: ['personal']
-
- ## TensorFlow Transfer Learning
- - [https://tensorflow-transfer-learning.davebitter.com](https://tensorflow-transfer-learning.davebitter.com)
- - date_published: 2024-09-04T00:48:24.960982+00:00
 
