@@ -1,3 +1,31 @@
+ ## BarnhardtMemes.com   —–   Meme posts curated by Ann Barnhardt | "She is the flashing-eyed muse that stares into the face of injustice, and points and laughs. She is the solace of the angry, her name is Satire."
+ - [https://www.barnhardtmemes.com](https://www.barnhardtmemes.com)
+ - date_published: 2024-07-04T01:26:20.483805+00:00
+
+ ## Nightjar | Reviving cocktails, vintage spirits, and classic jazz in Shoreditch & Soho.
+ - [https://barnightjar.com](https://barnightjar.com)
+ - date_published: 2024-09-18T23:59:03.481795+00:00
+
+ ## barnohm.com
+ - [https://www.barnohm.com](https://www.barnohm.com)
+ - date_published: 2024-07-19T16:47:48.608173+00:00
+
+ ## Barnstable Patriot: Local News, Politics & Sports in Hyannis, MA
+ - [http://www.barnstablepatriot.com](http://www.barnstablepatriot.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Barnsten.com | Official dealer of Embarcadero
+ - [https://www.barnsten.com](https://www.barnsten.com)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Login - Barometric
+ - [https://console.barometric.com](https://console.barometric.com)
+ - date_published: 2024-06-25T22:54:24.390542+00:00
+
+ ## Tools for Thinkers - High quality paper notebooks, pens, &amp; backpacks.
+ - [https://www.baronfig.com](https://www.baronfig.com)
+ - date_published: 2024-07-11T10:51:14.214855+00:00
+
  ## Baron of Dice
  - [https://baronofdice.com](https://baronofdice.com)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -2296,6 +2324,7 @@
  ## Baldur's Gate: Enhanced Edition
  - [http://baldursgate.beamdog.com](http://baldursgate.beamdog.com)
  - date_published: 2024-06-19T01:14:46.822281+00:00
+ - tags: ['video game']
 
  ## Home - Beamdog
  - [https://beamdog.com](https://beamdog.com)
@@ -3992,32 +4021,4 @@
  ## 基板実装プロジェクトを成功に導くための失敗しないお役立ち情報と実践的アドバイス｜基板実装プロジェクトを成功させよう　2024年6月更新
  - [https://begonespammer.com](https://begonespammer.com)
  - date_published: 2024-06-19T18:52:57.800796+00:00
-
- ## Be Good Bakery
- - [https://www.begoodbaker.com](https://www.begoodbaker.com)
- - date_published: 2024-07-13T12:51:29.636301+00:00
-
- ## hacker class
- - [http://www.beguelin.com](http://www.beguelin.com)
- - date_published: 2024-03-19T09:58:18+00:00
-
- ## The Beguiling Books & Art
- - [https://beguiling.com](https://beguiling.com)
- - date_published: 2024-05-08T08:45:04.555083+00:00
-
- ## The Beguiling Books & Art Inc
- - [https://www.beguilingbooks.com](https://www.beguilingbooks.com)
- - date_published: 2024-07-06T23:26:55.508767+00:00
-
- ## The Beguiling Books & Art
- - [https://www.beguilingbooksandart.com](https://www.beguilingbooksandart.com)
- - date_published: 2024-07-06T23:26:53.446623+00:00
-
- ## The Beguiling Original Art Store
- - [http://www2.store.beguilingoriginalart.com](http://www2.store.beguilingoriginalart.com)
- - date_published: 2024-07-06T23:26:58.078683+00:00
-
- ## Behance
- - [https://behance.com](https://behance.com)
- - date_published: 2024-03-25T00:00:00+00:00
 

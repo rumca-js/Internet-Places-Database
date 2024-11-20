@@ -1,3 +1,48 @@
+ ## Home
+ - [https://defensehere.com](https://defensehere.com)
+ - date_published: 2022-01-12T15:32:07+00:00
+
+ ## Defense Aerospace news, exhibitions, contracts and procurement
+ - [https://www.defensemirror.com](https://www.defensemirror.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Defense News Arabic
+ - [https://arabic.defensenews.com](https://arabic.defensenews.com)
+ - date_published: 2024-05-12T07:29:38.324627+00:00
+
+ ## Defense News Conference 2-24 | September 4, 2024
+ - [https://conference.defensenews.com](https://conference.defensenews.com)
+ - date_published: 2024-07-13T08:49:47.570613+00:00
+
+ ## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://defensenews.com](https://defensenews.com)
+ - date_published: 2023-10-31T05:18:09.856934+00:00
+ - tags: ['military news']
+
+ ## Sightline Media Group Events
+ - [https://events.defensenews.com](https://events.defensenews.com)
+ - date_published: 2024-05-11T11:39:11.700966+00:00
+
+ ## 100 Most Influential | Defense News, News about defense programs, business, and technology
+ - [https://people.defensenews.com](https://people.defensenews.com)
+ - date_published: 2024-04-05T18:56:04.180759+00:00
+
+ ## Defense One
+ - [https://defenseone.com](https://defenseone.com)
+ - date_published: 2023-10-25T13:48:12.931984+00:00
+
+ ## Defense Opinion Homepage - Defense Opinion
+ - [https://defenseopinion.com](https://defenseopinion.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home
+ - [http://www.defensereview.com](http://www.defensereview.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## DefenseScoop | Breaking US Military Tech News, Modern Defense News
+ - [https://defensescoop.com](https://defensescoop.com)
+ - date_published: 2023-10-25T13:48:19.117494+00:00
+
  ## Defense Systems
  - [http://defensesystems.com](http://defensesystems.com)
  - date_published: 2024-07-09T14:48:41+00:00
@@ -3985,49 +4030,4 @@
  ## DevDungeon
  - [https://www.devdungeon.com](https://www.devdungeon.com)
  - date_published: 2024-08-10T21:22:06+00:00
-
- ## Azienda sviluppo software e hardware custom | Develer®
- - [https://develer.com](https://develer.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## - - - Fby Fabio Barzagli - - - Computer Music - - - Amiga musician since 1987 
- - - -
- - [http://fby.develer.com](http://fby.develer.com)
- - date_published: 2010-05-20T12:17:18+00:00
-
- ## Developer Monkey
- - [http://develmonk.com](http://develmonk.com)
- - date_published: 2024-06-23T08:14:06.857856+00:00
-
- ## DEVELOP3D
- - [https://develop3d.com](https://develop3d.com)
- - date_published: 2024-07-10T11:29:17.993612+00:00
-
- ## CRE Commercial Real Estate Development Resources - Developer.com
- - [https://developer.com](https://developer.com)
- - date_published: 2024-10-19T09:19:29.160767+00:00
-
- ## The Developer Advocacy Handbook
- - [https://developer-advocacy.com](https://developer-advocacy.com)
- - date_published: 2022-10-21T14:39:02+00:00
-
- ## lightswitch05 | Daniel
- - [https://www.github.developerdan.com](https://www.github.developerdan.com)
- - date_published: 2022-04-19T19:42:35+00:00
-
- ## Developer DAO
- - [https://www.developerdao.com](https://www.developerdao.com)
- - date_published: 2024-04-29T03:11:23.921428+00:00
-
- ## Okta Developer Day
- - [https://developerday.com](https://developerday.com)
- - date_published: 2024-09-10T08:18:37.355119+00:00
-
- ## Developer Evangelism - home of the Developer Evangelist Handbook
- - [https://developer-evangelism.com](https://developer-evangelism.com)
- - date_published: 2024-07-04T06:22:53.701072+00:00
-
- ## developerlife.com
- - [https://developerlife.com](https://developerlife.com)
- - date_published: 2024-07-07T01:45:16+00:00
 

@@ -1,3 +1,226 @@
+ ## info.put.poznan.pl |
+ - [https://info.put.poznan.pl](https://info.put.poznan.pl)
+ - date_published: 2024-08-30T11:15:01+00:00
+
+ ## Poznan University of Technology - Informator PP
+ - [https://informator.put.poznan.pl](https://informator.put.poznan.pl)
+ - date_published: 2024-05-26T18:42:03.513486+00:00
+
+ ## Instrukcje
+ - [https://instrukcje.put.poznan.pl](https://instrukcje.put.poznan.pl)
+ - date_published: 2024-05-26T18:42:13.723998+00:00
+
+ ## Strona główna | Wydział Inżynierii Środowiska i Energetyki
+ - [https://isie.put.poznan.pl](https://isie.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:56.682989+00:00
+
+ ## Instytut Zachodni
+ - [https://iz.poznan.pl](https://iz.poznan.pl)
+ - date_published: 2024-05-09T04:03:44.974159+00:00
+
+ ## Kuratorium Oświaty w Poznaniu – Kuratorium Oświaty w Poznaniu – Oficjalny serwis Kuratorium Oświaty w Poznaniu
+ - [http://ko.poznan.pl](http://ko.poznan.pl)
+ - date_published: 2024-09-03T19:24:57.700720+00:00
+
+ ## Kultura Poznań - Wydarzenia Kulturalne, Informacje i Aktualności | Poznan.pl
+ - [https://kultura.poznan.pl](https://kultura.poznan.pl)
+ - date_published: 2024-06-13T17:04:38.035322+00:00
+
+ ## PUT-CS Home Page
+ - [http://libra.cs.put.poznan.pl](http://libra.cs.put.poznan.pl)
+ - date_published: 2010-12-14T09:35:13+00:00
+
+ ## methane2pha project
+ - [https://methane2pha.put.poznan.pl](https://methane2pha.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:39.363656+00:00
+
+ ## Mechanik Lotniczy Politechniki Poznańskiej
+ - [https://mlpp.put.poznan.pl](https://mlpp.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:50.240341+00:00
+
+ ## Mobilna Politechnika Poznańska
+ - [https://mobile.put.poznan.pl](https://mobile.put.poznan.pl)
+ - date_published: 2024-09-02T14:01:14.089437+00:00
+
+ ## Witaj - Poznanski Budzet Obywatelski - 2016
+ - [https://pbo2016.um.poznan.pl](https://pbo2016.um.poznan.pl)
+ - date_published: 2015-07-09T00:00:00+00:00
+
+ ## Witaj - Poznański Budżet Obywatelski 2025
+ - [https://pbo25.um.poznan.pl](https://pbo25.um.poznan.pl)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## PEKA
+ - [https://peka.poznan.pl](https://peka.poznan.pl)
+ - date_published: 2024-03-14T08:46:20+00:00
+
+ ## Strona główna | Szkoła Doktorska Politechniki Poznańskiej
+ - [https://phdschool.put.poznan.pl](https://phdschool.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:43.925860+00:00
+
+ ## Strona główna | Wydział Inżynierii Materiałowej i Fizyki Technicznej
+ - [https://phys.put.poznan.pl](https://phys.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:13.132764+00:00
+
+ ## Welcome to nginx!
+ - [http://piwik.man.poznan.pl](http://piwik.man.poznan.pl)
+ - date_published: 2019-04-09T13:24:36+00:00
+
+ ## Poznan University of Technology
+ - [https://poczta.put.poznan.pl](https://poczta.put.poznan.pl)
+ - date_published: 2024-09-02T14:06:49.701029+00:00
+
+ ## Politechnika Poznańska, Dział Obsługi i Eksploatacji
+ - [https://pomoc.put.poznan.pl](https://pomoc.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:56.977132+00:00
+
+ ## Strona główna | Poznan.pl
+ - [https://poznan.pl](https://poznan.pl)
+ - date_published: 2024-06-13T17:01:02+00:00
+ - tags: ['city']
+
+ ## PROJEKTOWANIE UNIWERSALNE W STRATEGII PODNOSZENIA EFEKTYWNOŚCI KSZTAŁCENIA NA POLITECHNICE POZNAŃSKIEJ – POWR.03.05.00-00-PU21/19
+ - [https://pu.put.poznan.pl](https://pu.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:40.813122+00:00
+
+ ## Strona główna | Politechnika Poznańska
+ - [https://put.poznan.pl](https://put.poznan.pl)
+ - date_published: 2023-10-27T13:02:27.240844+00:00
+ - tags: ['university']
+
+ ## Politechnika Poznańska Portal Kandydata (Rekrutacja kandydatów na studia w Politechnice Poznańskiej)
+ - [https://rekrutacja.put.poznan.pl](https://rekrutacja.put.poznan.pl)
+ - date_published: 2024-09-02T13:57:28.281253+00:00
+
+ ## SSPP – Samorząd Studentów Politechniki Poznańskiej – Samorząd Studentów Politechniki Poznańskiej
+ - [https://samorzad.put.poznan.pl](https://samorzad.put.poznan.pl)
+ - date_published: 2024-09-02T14:03:55.102067+00:00
+
+ ## Odmowa dostępu | Senat Politechniki Poznańskiej
+ - [https://senat.put.poznan.pl](https://senat.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:31.586425+00:00
+
+ ## Scientific Information System
+ - [https://sin.put.poznan.pl](https://sin.put.poznan.pl)
+ - date_published: 2024-09-02T13:58:51.927928+00:00
+
+ ## Page Redirection
+ - [http://sip.poznan.pl](http://sip.poznan.pl)
+ - date_published: 2016-06-13T11:57:29+00:00
+
+ ## SIREN project site – Integrated system for SImultaneousRecovery of Energy, organics and Nutrients and generation of valuable products from municipal wastewater
+ - [https://siren.put.poznan.pl](https://siren.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:44.102476+00:00
+
+ ## Straż Miejska Miasta Poznania | Poznan.pl
+ - [https://sm.poznan.pl](https://sm.poznan.pl)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://stat.put.poznan.pl](https://stat.put.poznan.pl)
+ - date_published: 2024-09-02T14:02:32.511425+00:00
+
+ ## Strona główna | Poznan.pl
+ - [https://um.poznan.pl](https://um.poznan.pl)
+ - date_published: 2024-09-13T17:55:50.786093+00:00
+
+ ## Uroczystości Politechniki Poznańskiej – Organizatorem uroczystości jest Uczelniane Centrum Kultury
+ - [https://uroczystosci.put.poznan.pl](https://uroczystosci.put.poznan.pl)
+ - date_published: 2024-05-26T18:42:08.442402+00:00
+
+ ## Video Poznań | Platforma Streamingowa Video Miasta Poznania – video.poznan.pl
+ - [https://video.poznan.pl](https://video.poznan.pl)
+ - date_published: 2024-09-13T17:52:13+00:00
+
+ ## WasteValue
+ - [https://wastevalue.put.poznan.pl](https://wastevalue.put.poznan.pl)
+ - date_published: 2024-09-02T14:18:46.949313+00:00
+
+ ## Poczta elektroniczna :: Welcome to Poczta elektroniczna
+ - [http://webmail.man.poznan.pl](http://webmail.man.poznan.pl)
+ - date_published: 2024-09-13T17:55:10+00:00
+
+ ## Strona główna | Wydział Inżynierii Lądowej i Transportu
+ - [https://wilit.put.poznan.pl](https://wilit.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:10.675002+00:00
+
+ ## Strona główna | Wydział Inżynierii Mechanicznej
+ - [https://wim.put.poznan.pl](https://wim.put.poznan.pl)
+ - date_published: 2024-09-02T14:08:17+00:00
+
+ ## Jak to działa? | Poznan.pl
+ - [https://wireless.poznan.pl](https://wireless.poznan.pl)
+ - date_published: 2024-06-13T17:04:32.781735+00:00
+
+ ## Wojewódzki Ośrodek Ruchu Drogowego w Poznaniu
+ - [https://word.poznan.pl](https://word.poznan.pl)
+ - date_published: 2024-03-19T11:46:56+00:00
+ - tags: ['ośrodek ruchu drogowego']
+
+ ## Instytut Informatyki Politechniki Poznańskiej
+ - [https://www2.cs.put.poznan.pl](https://www2.cs.put.poznan.pl)
+ - date_published: 2024-02-25T20:58:47.088650+00:00
+
+ ## Aeroklub Poznański
+ - [http://www.aeroklub.poznan.pl](http://www.aeroklub.poznan.pl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## BK PAN – Biblioteka Kórnicka
+ - [http://www.bkpan.poznan.pl](http://www.bkpan.poznan.pl)
+ - date_published: 2024-09-03T19:25:02.981645+00:00
+
+ ## Nowości | Wydawnictwo PP
+ - [http://www.ed.put.poznan.pl](http://www.ed.put.poznan.pl)
+ - date_published: 2024-09-02T13:59:23.157399+00:00
+
+ ## Instytut Chemii Bioorganicznej Polskiej Akademii Nauk - Wizytówka
+ - [http://www.ibch.poznan.pl](http://www.ibch.poznan.pl)
+ - date_published: 2024-09-02T14:16:45.025138+00:00
+
+ ## Instytut Dendrologii PAN - INSTYTUT DENDROLOGII
+ - [http://www.idpan.poznan.pl](http://www.idpan.poznan.pl)
+ - date_published: 2024-09-03T19:25:04+00:00
+
+ ## Księgarnia Instytutu Zachodniego
+ - [http://www.ksiegarnia.iz.poznan.pl](http://www.ksiegarnia.iz.poznan.pl)
+ - date_published: 2024-07-09T07:28:46.284316+00:00
+
+ ## Poznańskie Centrum Superkomputerowo-Sieciowe | PCSS |
+ - [http://www.man.poznan.pl](http://www.man.poznan.pl)
+ - date_published: 2024-09-02T14:16:32.145692+00:00
+
+ ## MPK Poznań Sp. z o.o.
+ - [https://www.mpk.poznan.pl](https://www.mpk.poznan.pl)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ZFPiN – ZFPiN
+ - [http://www.nano.put.poznan.pl](http://www.nano.put.poznan.pl)
+ - date_published: 2024-09-02T14:05:24.139394+00:00
+
+ ## Oddział Wielkopolski::Polskie Towarzystwo Informatyczne
+ - [http://www.pti.poznan.pl](http://www.pti.poznan.pl)
+ - date_published: 2024-01-25T21:34:24+00:00
+
+ ## ROPS POZNAŃ - Regionalny Ośrodek Polityki Społecznej w Poznaniu
+ - [http://www.rops.poznan.pl](http://www.rops.poznan.pl)
+ - date_published: 2024-07-13T19:10:13.301891+00:00
+
+ ## Nowości | Wydawnictwo PP
+ - [https://wydawnictwo.put.poznan.pl](https://wydawnictwo.put.poznan.pl)
+ - date_published: 2024-05-26T18:42:05.219175+00:00
+
+ ## Witamy | Zamówienia Publiczne
+ - [https://zamowienia-publiczne.put.poznan.pl](https://zamowienia-publiczne.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:44.604648+00:00
+
+ ## Zintegrowane Centrum Obsługi – Witryna Zintegrowanego Centrum Obsługi Politechniki Poznańskiej
+ - [https://zco.put.poznan.pl](https://zco.put.poznan.pl)
+ - date_published: 2024-05-26T18:41:25.552801+00:00
+
+ ## Zarząd Dróg Miejskich w Poznaniu
+ - [https://zdm.poznan.pl](https://zdm.poznan.pl)
+ - date_published: 2024-06-13T17:05:17.563156+00:00
+
  ## Strona główna » Zarząd Transportu Miejskiego w Poznaniu
  - [https://ztm.poznan.pl](https://ztm.poznan.pl)
  - date_published: 2024-06-13T17:04:42.531921+00:00
@@ -672,6 +895,7 @@
  ## PulsHR - zarządzanie ludźmi, edukacja, rekrutacja
  - [https://pulshr.pl](https://pulshr.pl)
  - date_published: 2024-03-23T19:14:13.613802+00:00
+ - tags: ['human resources', 'business', 'news']
 
  ## Puls Kids - Zabawa na całego!
  - [https://pulskids.pl](https://pulskids.pl)
@@ -3842,224 +4066,4 @@
  ## Torba Reportera i Podcastera | Zrób z nami podcast
  - [https://torbareportera.pl](https://torbareportera.pl)
  - date_published: 2024-04-27T00:00:00+00:00
-
- ## TORHAMER
- - [http://www.torhamer.pl](http://www.torhamer.pl)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Toril
- - [http://toril.pl](http://toril.pl)
- - date_published: 2024-08-18T15:24:37.581308+00:00
-
- ## Tor Konferencje: Lider w Organizacji Eventów Branżowych
- - [https://tor-konferencje.pl](https://tor-konferencje.pl)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Directory listing of /
- - [https://xml.tor-konferencje.pl](https://xml.tor-konferencje.pl)
- - date_published: 2024-08-11T15:34:51.253365+00:00
-
- ## Szkolenie Bezpiecznej Jazdy Tor Wyścigowy Warszawa
- - [https://tormodlin.pl](https://tormodlin.pl)
- - date_published: 2023-11-25T23:19:41+00:00
-
- ## Praca ZDG TOR
- - [https://tor-praca.pl](https://tor-praca.pl)
- - date_published: 2024-06-14T12:54:36+00:00
-
- ## Portal kopernikański
- - [http://copernicus.torun.pl](http://copernicus.torun.pl)
- - date_published: 2024-10-29T18:19:09+00:00
-
- ## Total Commander - oficjalna polska strona programu
- - [https://totalcmd.pl](https://totalcmd.pl)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Totalizator Sportowy
- - [https://www.totalizator.pl](https://www.totalizator.pl)
- - date_published: 2024-07-17T06:04:48.642209+00:00
-
- ## Ekipa User First – Razem mamy więcej niż kompetencje
- - [https://firma.totalmoney.pl](https://firma.totalmoney.pl)
- - date_published: 2024-06-17T09:48:28.391454+00:00
-
- ## Porównywarka kredytów → Totalmoney.pl - najlepsza porównywarka finansowa
- - [https://totalmoney.pl](https://totalmoney.pl)
- - date_published: 2024-10-18T04:01:43.464411+00:00
-
- ## To Tylko Teoria
- - [https://totylkoteoria.pl](https://totylkoteoria.pl)
- - date_published: 2023-10-25T22:31:50.137858+00:00
-
- ## Sklep Toyota
- - [https://sklep.toyota.pl](https://sklep.toyota.pl)
- - date_published: 2024-10-16T16:33:49.851621+00:00
-
- ## Toyota - Samochody osobowe - sprawdź ceny i promocje
- - [https://www.toyota.pl](https://www.toyota.pl)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Toyota Juniors
- - [https://www.toyotajuniors.pl](https://www.toyotajuniors.pl)
- - date_published: 2024-10-16T16:33:35.711466+00:00
-
- ## Toyota Kids - MotoKosmiczny Świat Toyoty
- - [https://www.toyotakids.pl](https://www.toyotakids.pl)
- - date_published: 2024-10-16T16:35:08.210892+00:00
-
- ## Panel klienta - Panel Klienta TrafficWatchdog
- - [https://trafficscanner.pl](https://trafficscanner.pl)
- - date_published: 2024-05-06T22:31:17.565365+00:00
-
- ## Panel klienta - Panel Klienta TrafficWatchdog
- - [https://panel.trafficwatchdog.pl](https://panel.trafficwatchdog.pl)
- - date_published: 2024-06-28T10:49:58.281246+00:00
-
- ## TrafficWatchdog
- - [https://trafficwatchdog.pl](https://trafficwatchdog.pl)
- - date_published: 2024-06-28T10:49:56.857923+00:00
-
- ## Traktor24 technika rolnicza
- - [https://traktor24.pl](https://traktor24.pl)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## używane maszyny rolnicze - traktorpool.pl
- - [https://www.traktorpool.pl](https://www.traktorpool.pl)
- - date_published: 2024-08-11T15:38:26.216468+00:00
-
- ## Transfery, pogłoski, wartości rynkowe i wiadomości
- - [https://www.transfermarkt.pl](https://www.transfermarkt.pl)
- - date_published: 2024-07-24T06:23:22.468475+00:00
-
- ## TG Polska | Strona główna
- - [https://www.transgourmet.pl](https://www.transgourmet.pl)
- - date_published: 2024-07-11T23:52:59.444200+00:00
-
- ## Transport Publiczny
- - [https://transport-publiczny.pl](https://transport-publiczny.pl)
- - date_published: 2024-08-11T15:31:35+00:00
-
- ## Trapeze Poland - Rozwiązania dla transportu publicznego
- - [https://www.trapezegroup.pl](https://www.trapezegroup.pl)
- - date_published: 2024-07-01T17:11:33.583248+00:00
-
- ## Strona główna – Kancelaria Traple Konarski Podrecki i Wspólnicy
- - [https://www.traple.pl](https://www.traple.pl)
- - date_published: 2024-10-22T21:11:24.680234+00:00
-
- ## Travel Channel
- - [https://travelchanneltv.pl](https://travelchanneltv.pl)
- - date_published: 2024-06-16T01:44:47.949332+00:00
-
- ## Program Partnerski Wakacje.pl - Zarabiaj na Turystyce - TravelLead.pl
- - [https://www.travellead.pl](https://www.travellead.pl)
- - date_published: 2024-10-18T04:03:18.622945+00:00
-
- ## Strona główna
- - [https://szkolenia.trecom.pl](https://szkolenia.trecom.pl)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Główna
- - [https://trecom-lab.pl](https://trecom-lab.pl)
- - date_published: 2024-09-19T11:30:52+00:00
-
- ## Trigon | Grupa Trigon
- - [https://trigon.pl](https://trigon.pl)
- - date_published: 2024-07-14T05:30:28.907911+00:00
-
- ## Trisoft - Oprogramowanie komputerowe, systemy informatyczne
- - [http://www.trisoft.pl](http://www.trisoft.pl)
- - date_published: 2020-04-03T11:20:11+00:00
-
- ## Sklepy internetowe na abonament | Oprogramowanie sklepu internetowego | TrisoSHOP
- - [https://www.trisoshop.pl](https://www.trisoshop.pl)
- - date_published: 2024-10-07T22:43:03.987011+00:00
-
- ## trivago.pl - Compare hotel prices worldwide
- - [https://www.trivago.pl](https://www.trivago.pl)
- - date_published: 2024-09-04T11:19:39.995968+00:00
-
- ## TRIVERNA. Ekskluzywne Hotele. Wyjątkowe Ceny.
- - [http://hub.triverna.pl](http://hub.triverna.pl)
- - date_published: 2024-07-20T04:27:16.538122+00:00
-
- ## TRIVERNA. Ekskluzywne Hotele. Wyjątkowe Ceny.
- - [https://triverna.pl](https://triverna.pl)
- - date_published: 2024-04-11T19:38:16+00:00
-
- ## Trochę o Grach
- - [https://trocheograch.pl](https://trocheograch.pl)
- - date_published: 2024-05-07T23:53:57.633057+00:00
-
- ## Blog about leadership, management, and business in the world of modern technology.
- - [https://trojanczyk.pl](https://trojanczyk.pl)
- - date_published: 2024-05-07T23:55:32.259281+00:00
-
- ## Biznes w Trójmieście (Gdańsk, Gdynia, Sopot) - biznes pomorski
- - [https://biznes.trojmiasto.pl](https://biznes.trojmiasto.pl)
- - date_published: 2023-10-25T22:32:00.191090+00:00
-
- ## Dom i Nieruchomości Trojmiasto.pl
- - [https://dom.trojmiasto.pl](https://dom.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:12+00:00
-
- ## Forum
- - [https://forum.trojmiasto.pl](https://forum.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:48+00:00
-
- ## Galeria zdjęć, fotorelacje, zdjęcia koncertowe i fotki -Trójmiasto
- - [https://galeria.trojmiasto.pl](https://galeria.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:53+00:00
-
- ## Historia Trójmiasta - poznaj sekrety historii Gdańska, Gdyni i Sopotu.
- - [https://historia.trojmiasto.pl](https://historia.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:33+00:00
-
- ## Imprezy, koncerty i wydarzenia w Gdańsku, Gdyni i Sopocie. Lista imprez i wydarzeń w Trójmieście
- - [https://imprezy.trojmiasto.pl](https://imprezy.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:02+00:00
-
- ## Firmy z Trójmiasta
- - [https://katalog.trojmiasto.pl](https://katalog.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:49+00:00
-
- ## Repertuar kin w Gdańsku, Gdyni i Sopocie. Premiery, recenzje filmów.
- - [https://kino.trojmiasto.pl](https://kino.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:17+00:00
-
- ## Portal Trojmiasto.pl
- - [https://komunikacja.trojmiasto.pl](https://komunikacja.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:23+00:00
-
- ## Konkursy - baw się i wygrywaj nagrody
- - [https://konkursy.trojmiasto.pl](https://konkursy.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:40+00:00
-
- ## Kulinaria - Kulinarne Trójmiasto. Gdańsk, Sopot, Gdynia - Trojmiasto.pl
- - [https://kulinaria.trojmiasto.pl](https://kulinaria.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:20+00:00
-
- ## Kultura - Imprezy Kulturalne w Trójmieście  Recenzje i Zapowiedzi
- - [https://kultura.trojmiasto.pl](https://kultura.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:27+00:00
-
- ## Mapa Trójmiasta - Gdańsk, Sopot, Gdynia
- - [https://mapa.trojmiasto.pl](https://mapa.trojmiasto.pl)
- - date_published: 2024-08-18T16:52:09+00:00
-
- ## MOTO - SAMOCHODY - porady, artykuły, autohandel, ogłoszenia, testy, promocje, dane techniczne, opisy. GDAŃSK, GDYNIA, SOPOT.
- - [https://moto.trojmiasto.pl](https://moto.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:25+00:00
-
- ## Trojmiasto.pl - wersja mobilna
- - [https://m.trojmiasto.pl](https://m.trojmiasto.pl)
- - date_published: 2024-10-25T10:20:40+00:00
-
- ## Wydarzenia Naukowe w Trójmieście. Rozwijaj się Sprawdź Kursy i Szkolenia
- - [https://nauka.trojmiasto.pl](https://nauka.trojmiasto.pl)
- - date_published: 2024-08-18T16:51:46+00:00
-
- ## Archiwum Wiadomości z portalu Trojmiasto.pl
- - [https://nekrologi.trojmiasto.pl](https://nekrologi.trojmiasto.pl)
- - date_published: 2024-08-18T16:49:09+00:00
 

@@ -1,3 +1,213 @@
+ ## Home page
+ - [https://mdco2.mini.debconf.org](https://mdco2.mini.debconf.org)
+ - date_published: 2023-10-22T12:19:20+00:00
+
+ ## Index of /
+ - [https://alioth-archive.debian.org](https://alioth-archive.debian.org)
+ - date_published: 2018-05-31T00:00:00+00:00
+
+ ## anonscm
+ - [https://anonscm.debian.org](https://anonscm.debian.org)
+ - date_published: 2018-05-31T00:00:00+00:00
+
+ ## Index of /
+ - [http://archive.debian.org](http://archive.debian.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Debian Backports
+ - [https://backports.debian.org](https://backports.debian.org)
+ - date_published: 2024-07-09T07:40:04+00:00
+
+ ## Bits from Debian - Blog from the Debian Project
+ - [https://bits.debian.org](https://bits.debian.org)
+ - date_published: 2023-10-25T21:13:16.611368+00:00
+
+ ## Debian bug tracking system
+ - [https://bugs.debian.org](https://bugs.debian.org)
+ - date_published: 2023-10-25T21:13:19.916026+00:00
+
+ ## Debian Package Auto-Building
+ - [https://buildd.debian.org](https://buildd.debian.org)
+ - date_published: 2024-07-24T06:51:34.506206+00:00
+
+ ## Debian on CDs/DVDs
+ - [https://cdimage.debian.org](https://cdimage.debian.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Debian mirrors backed by Amazon CloudFront CDN
+ - [http://cdn-aws.deb.debian.org](http://cdn-aws.deb.debian.org)
+ - date_published: 2023-09-02T18:06:59+00:00
+
+ ## Debian Contributors
+ - [https://contributors.debian.org](https://contributors.debian.org)
+ - date_published: 2024-05-13T02:41:43.039252+00:00
+
+ ## Debian Project -- debian.org Developers LDAP Search
+ - [https://db.debian.org](https://db.debian.org)
+ - date_published: 2023-09-21T00:00:00+00:00
+
+ ## Debian mirrors backed by Fastly CDN
+ - [https://deb.debian.org](https://deb.debian.org)
+ - date_published: 2023-09-01T16:12:16+00:00
+
+ ## Debian -- The Universal Operating System
+ - [https://debian.org](https://debian.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+ - tags: ['operating system', 'linux']
+
+ ## Index of /
+ - [https://d-i.debian.org](https://d-i.debian.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## DSA
+ - [https://dsa.debian.org](https://dsa.debian.org)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Index of /
+ - [http://ftp2.cn.debian.org](http://ftp2.cn.debian.org)
+ - date_published: 2024-09-16T20:59:39.884860+00:00
+
+ ## Debian mirrors backed by Fastly CDN
+ - [http://ftp.debian.org](http://ftp.debian.org)
+ - date_published: 2023-09-01T16:12:16+00:00
+
+ ## ftp-master.debian.org
+ - [https://ftp-master.debian.org](https://ftp-master.debian.org)
+ - date_published: 2024-01-01T23:00:09+00:00
+
+ ## Studenten Net Twente - Index of /
+ - [http://ftp.nl.debian.org](http://ftp.nl.debian.org)
+ - date_published: 2024-07-20T12:04:38.076458+00:00
+
+ ## Index of /debian-ports
+ - [http://ftp.ports.debian.org](http://ftp.ports.debian.org)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## mirrors.wikimedia.org
+ - [http://http.us.debian.org](http://http.us.debian.org)
+ - date_published: 2022-10-04T08:06:38+00:00
+
+ ## Index of /
+ - [http://incoming.debian.org](http://incoming.debian.org)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Index of /
+ - [http://incoming.ports.debian.org](http://incoming.ports.debian.org)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## keyring.debian.org
+ - [https://keyring.debian.org](https://keyring.debian.org)
+ - date_published: 2022-06-24T21:18:46+00:00
+
+ ## Debian Mailing Lists -- Index
+ - [https://lists.debian.org](https://lists.debian.org)
+ - date_published: 2023-10-25T21:13:21.561311+00:00
+
+ ## index — Debian Manpages
+ - [https://manpages.debian.org](https://manpages.debian.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Index of /
+ - [https://metadata.ftp-master.debian.org](https://metadata.ftp-master.debian.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Debian micronews
+ - [https://micronews.debian.org](https://micronews.debian.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Debian New Member Process
+ - [https://nm.debian.org](https://nm.debian.org)
+ - date_published: 2024-07-17T05:22:31.489263+00:00
+
+ ## Debian -- Packages
+ - [https://packages.debian.org](https://packages.debian.org)
+ - date_published: 2023-12-11T00:00:00+00:00
+ - tags: ['app store']
+
+ ## Debian Package Tracking System
+ - [https://packages.qa.debian.org](https://packages.qa.debian.org)
+ - date_published: 2017-05-25T04:21:29+00:00
+
+ ## Debian Project -- debian.org Developers LDAP Search
+ - [http://people.debian.org](http://people.debian.org)
+ - date_published: 2023-09-21T00:00:00+00:00
+
+ ## About piuparts.debian.org
+ - [https://piuparts.debian.org](https://piuparts.debian.org)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Planet Debian
+ - [https://planet.debian.org](https://planet.debian.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Planet Debian
+ - [https://planet-search.debian.org](https://planet-search.debian.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Debian Popularity Contest
+ - [https://popcon.debian.org](https://popcon.debian.org)
+ - date_published: 2024-08-05T15:46:34+00:00
+
+ ## Debian Ports
+ - [https://ports.debian.org](https://ports.debian.org)
+ - date_published: 2024-04-29T06:17:50.999742+00:00
+
+ ## Debian Quality Assurance
+ - [https://qa.debian.org](https://qa.debian.org)
+ - date_published: 2023-10-05T00:00:00+00:00
+
+ ## Debian Release Management
+ - [https://release.debian.org](https://release.debian.org)
+ - date_published: 2019-08-04T00:00:00+00:00
+
+ ## Explore projects · GitLab
+ - [https://salsa.debian.org](https://salsa.debian.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Debian Search
+ - [https://search.debian.org](https://search.debian.org)
+ - date_published: 2024-05-09T04:07:46.233396+00:00
+
+ ## Debian -- Security Information
+ - [http://security.debian.org](http://security.debian.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Security Bug Tracker
+ - [https://security-tracker.debian.org](https://security-tracker.debian.org)
+ - date_published: 2024-05-24T16:28:42.455360+00:00
+
+ ## snapshot.debian.org
+ - [https://snapshot.debian.org](https://snapshot.debian.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Debian Package Tracker
+ - [https://tracker.debian.org](https://tracker.debian.org)
+ - date_published: 2024-05-08T09:00:27.031491+00:00
+
+ ## Database
+ - [https://udd.debian.org](https://udd.debian.org)
+ - date_published: 2021-10-06T08:41:24+00:00
+
+ ## FrontPage - Debian Wiki
+ - [https://wiki.debian.org](https://wiki.debian.org)
+ - date_published: 2023-10-25T21:13:23.896963+00:00
+
+ ## Wayback Machine
+ - [http://debian-administration.org](http://debian-administration.org)
+ - date_published: 2024-07-09T08:06:23.258848+00:00
+
+ ## Planeta Debian Brasil
+ - [http://planeta.debianbrasil.org](http://planeta.debianbrasil.org)
+ - date_published: 2024-06-30T21:00:44+00:00
+
+ ## Welcome to klecker!
+ - [https://debian-ports.org](https://debian-ports.org)
+ - date_published: 2024-07-24T06:51:31.254147+00:00
+
+ ## Index of /debian-ports
+ - [http://ftp.debian-ports.org](http://ftp.debian-ports.org)
+ - date_published: 2024-07-23T00:00:00+00:00
+
  ## Index of /
  - [http://incoming.debian-ports.org](http://incoming.debian-ports.org)
  - date_published: 2024-07-24T00:00:00+00:00
@@ -2376,6 +2586,10 @@
  - date_published: 2024-04-13T17:18:06+00:00
  - tags: ['online verification', 'online tool', 'dns verification']
 
+ ## DNSCrypt - Official Project Home Page
+ - [https://www.dnscrypt.org](https://www.dnscrypt.org)
+ - date_published: 2024-03-15T09:15:26+00:00
+
  ## Introduction to DNSCurve
  - [https://dnscurve.org](https://dnscurve.org)
  - date_published: 2017-01-22T18:18:37+00:00
@@ -3819,216 +4033,4 @@
  ## Discretion Advised: 18+ Content
  - [https://pendulumscale.dreamwidth.org](https://pendulumscale.dreamwidth.org)
  - date_published: 2024-06-23T18:30:28.182663+00:00
-
- ## pentapus | Recent Entries
- - [https://pentapus.dreamwidth.org](https://pentapus.dreamwidth.org)
- - date_published: 2024-07-16T19:15:54.100865+00:00
-
- ## pnarp | Recent Entries
- - [https://pnarp.dreamwidth.org](https://pnarp.dreamwidth.org)
- - date_published: 2024-05-06T23:31:08.227339+00:00
-
- ## Discretion Advised
- - [https://pw-kink-meme.dreamwidth.org](https://pw-kink-meme.dreamwidth.org)
- - date_published: 2024-09-16T06:44:31.646346+00:00
-
- ## quailfence | Recent Entries
- - [https://quailfence.dreamwidth.org](https://quailfence.dreamwidth.org)
- - date_published: 2024-06-15T04:40:59.540652+00:00
-
- ## rachelmanija | Recent Entries
- - [https://rachelmanija.dreamwidth.org](https://rachelmanija.dreamwidth.org)
- - date_published: 2024-10-16T09:09:34.912950+00:00
-
- ## rarefemslashexchange | Recent Entries
- - [https://rarefemslashexchange.dreamwidth.org](https://rarefemslashexchange.dreamwidth.org)
- - date_published: 2024-09-16T06:45:07.603257+00:00
-
- ## raremaleslashex | Recent Entries
- - [https://raremaleslashex.dreamwidth.org](https://raremaleslashex.dreamwidth.org)
- - date_published: 2024-09-16T06:44:25.014438+00:00
-
- ## resurrectfeeling | Recent Entries
- - [https://resurrectfeeling.dreamwidth.org](https://resurrectfeeling.dreamwidth.org)
- - date_published: 2024-09-16T06:45:10.887798+00:00
-
- ## roadrunnertwice | Recent Entries
- - [https://roadrunnertwice.dreamwidth.org](https://roadrunnertwice.dreamwidth.org)
- - date_published: 2023-10-25T21:15:47.028918+00:00
-
- ## sartorias | Recent Entries
- - [https://sartorias.dreamwidth.org](https://sartorias.dreamwidth.org)
- - date_published: 2024-07-04T13:46:26.069516+00:00
-
- ## Shostakovich, jump thru the window!
- - [https://sforzinda.dreamwidth.org](https://sforzinda.dreamwidth.org)
- - date_published: 2024-09-02T17:02:59.338955+00:00
-
- ## sharpest_asp | Recent Entries
- - [https://sharpest-asp.dreamwidth.org](https://sharpest-asp.dreamwidth.org)
- - date_published: 2024-06-15T04:40:55.168050+00:00
-
- ## shihadchick | Recent Entries
- - [https://shihadchick.dreamwidth.org](https://shihadchick.dreamwidth.org)
- - date_published: 2024-07-16T19:15:11.353472+00:00
-
- ## Dreamwidth Studios Shop
- - [https://shop.dreamwidth.org](https://shop.dreamwidth.org)
- - date_published: 2024-06-17T14:47:11.953501+00:00
-
- ## shrift | Recent Entries
- - [https://shrift.dreamwidth.org](https://shrift.dreamwidth.org)
- - date_published: 2024-07-16T19:15:50.441903+00:00
-
- ## siderea | Recent Entries
- - [https://siderea.dreamwidth.org](https://siderea.dreamwidth.org)
- - date_published: 2023-10-25T21:15:50.428581+00:00
-
- ## Discretion Advised
- - [https://silmkinkmeme.dreamwidth.org](https://silmkinkmeme.dreamwidth.org)
- - date_published: 2024-09-03T20:40:15.646937+00:00
-
- ## silwritersguild | Recent Entries
- - [https://silwritersguild.dreamwidth.org](https://silwritersguild.dreamwidth.org)
- - date_published: 2024-05-29T17:52:40.902612+00:00
-
- ## Discretion Advised: 18+ Content
- - [https://sinanons.dreamwidth.org](https://sinanons.dreamwidth.org)
- - date_published: 2024-06-16T13:38:23.141518+00:00
-
- ## sl_walker | Recent Entries
- - [https://sl-walker.dreamwidth.org](https://sl-walker.dreamwidth.org)
- - date_published: 2024-06-15T04:40:45.134741+00:00
-
- ## southernmedicine | Recent Entries
- - [https://southernmedicine.dreamwidth.org](https://southernmedicine.dreamwidth.org)
- - date_published: 2024-09-16T06:44:40.094045+00:00
-
- ## sovay | Myth Happens
- - [https://sovay.dreamwidth.org](https://sovay.dreamwidth.org)
- - date_published: 2024-07-04T13:46:31.959306+00:00
-
- ## spindas | Recent Entries
- - [https://spindas.dreamwidth.org](https://spindas.dreamwidth.org)
- - date_published: 2023-10-25T21:15:54.073987+00:00
-
- ## Discretion Advised
- - [https://spook-me.dreamwidth.org](https://spook-me.dreamwidth.org)
- - date_published: 2024-09-16T06:44:02.700526+00:00
-
- ## Discretion Advised
- - [https://squidgiepdx.dreamwidth.org](https://squidgiepdx.dreamwidth.org)
- - date_published: 2024-09-16T06:43:05.113933+00:00
-
- ## Discretion Advised
- - [https://sylph-and-asp.dreamwidth.org](https://sylph-and-asp.dreamwidth.org)
- - date_published: 2024-09-16T06:44:01.555455+00:00
-
- ## terriko | Recent Entries
- - [https://terriko.dreamwidth.org](https://terriko.dreamwidth.org)
- - date_published: 2024-06-28T19:56:59.212051+00:00
-
- ## thefourthvine | Recent Entries
- - [https://thefourthvine.dreamwidth.org](https://thefourthvine.dreamwidth.org)
- - date_published: 2024-05-12T06:45:55.941223+00:00
-
- ## thehoyden | Recent Entries
- - [https://thehoyden.dreamwidth.org](https://thehoyden.dreamwidth.org)
- - date_published: 2024-07-16T19:15:47.612449+00:00
-
- ## theron | Recent Entries
- - [https://theron.dreamwidth.org](https://theron.dreamwidth.org)
- - date_published: 2024-07-15T09:44:25.084742+00:00
-
- ## timeasmymeasure | Recent Entries
- - [https://timeasmymeasure.dreamwidth.org](https://timeasmymeasure.dreamwidth.org)
- - date_published: 2024-05-26T06:16:07.378594+00:00
-
- ## tobli | Posts
- - [https://tobli.dreamwidth.org](https://tobli.dreamwidth.org)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## tolkienshortfanworks | Recent Entries
- - [https://tolkienshortfanworks.dreamwidth.org](https://tolkienshortfanworks.dreamwidth.org)
- - date_published: 2024-09-03T20:40:12.699421+00:00
-
- ## treblesand | Recent Entries
- - [https://treblesand.dreamwidth.org](https://treblesand.dreamwidth.org)
- - date_published: 2024-07-10T09:20:16.334623+00:00
-
- ## vitus_wagner | Recent Entries
- - [https://vitus-wagner.dreamwidth.org](https://vitus-wagner.dreamwidth.org)
- - date_published: 2024-06-21T14:52:04.566659+00:00
-
- ## wetranscripts | Recent Entries
- - [https://wetranscripts.dreamwidth.org](https://wetranscripts.dreamwidth.org)
- - date_published: 2024-06-22T23:33:06.990295+00:00
-
- ## winterfish | Recent Entries
- - [https://winterfish.dreamwidth.org](https://winterfish.dreamwidth.org)
- - date_published: 2024-07-16T19:15:32.477108+00:00
-
- ## winterkoninkje | Recent Entries
- - [https://winterkoninkje.dreamwidth.org](https://winterkoninkje.dreamwidth.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## xiphmont | Recent Entries
- - [https://xiphmont.dreamwidth.org](https://xiphmont.dreamwidth.org)
- - date_published: 2024-08-18T17:29:02.128088+00:00
-
- ## Discretion Advised
- - [https://yhlee.dreamwidth.org](https://yhlee.dreamwidth.org)
- - date_published: 2024-05-02T10:21:55.885589+00:00
-
- ## ysabetwordsmith | Recent Entries
- - [https://ysabetwordsmith.dreamwidth.org](https://ysabetwordsmith.dreamwidth.org)
- - date_published: 2024-07-10T02:36:12.725791+00:00
-
- ## zwol | Recent Entries
- - [https://zwol.dreamwidth.org](https://zwol.dreamwidth.org)
- - date_published: 2024-05-08T11:29:45.295511+00:00
-
- ## Landing - D-REC Initiative
- - [https://drecs.org](https://drecs.org)
- - date_published: 2023-05-11T00:00:00+00:00
-
- ## Dredd — HTTP API Testing Framework — Dredd latest documentation
- - [https://dredd.org](https://dredd.org)
- - date_published: 2023-07-19T20:06:50+00:00
-
- ## The Disability Rights Education and Defense Fund
- - [https://dredf.org](https://dredf.org)
- - date_published: 2012-07-25T02:23:52+00:00
-
- ## software is fun
- - [https://blog.drewolson.org](https://blog.drewolson.org)
- - date_published: 2024-03-17T19:08:32+00:00
-
- ## Michael Greger, M.D. - Physician, Speaker, and NYT Bestselling Author
- - [https://drgreger.org](https://drgreger.org)
- - date_published: 2024-05-08T10:59:25.105784+00:00
-
- ## DRI | Association for Civil Defense Attorneys
- - [https://www.dri.org](https://www.dri.org)
- - date_published: 2024-06-21T10:27:39.855645+00:00
-
- ## dribin.org
- - [https://dribin.org](https://dribin.org)
- - date_published: 2005-10-26T16:27:19+00:00
-
- ## Home
- - [http://www.driehausfoundation.org](http://www.driehausfoundation.org)
- - date_published: 2024-08-18T12:48:49.708701+00:00
-
- ## Latest Oil and Gas Drilling News - Drilling Contractor
- - [https://drillingcontractor.org](https://drillingcontractor.org)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Home - DrillingMatters.org
- - [https://drillingmatters.org](https://drillingmatters.org)
- - date_published: 2024-09-04T15:28:59.147299+00:00
-
- ## Maine Dairy Promotion Board | Dairy Nutrition Council | Augusta, Maine
- - [https://www.drinkmainemilk.org](https://www.drinkmainemilk.org)
- - date_published: 2020-12-15T09:06:11+00:00
 

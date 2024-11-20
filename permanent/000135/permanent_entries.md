@@ -1,3 +1,103 @@
+ ## Laxis | AI Meeting Assistant for Revenue Teams
+ - [https://www.laxis.com](https://www.laxis.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Homepage - Laxmi Sunrise Bank
+ - [https://www.laxmisunrise.com](https://www.laxmisunrise.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Laxton - Biometric Identity Solutions | Laxton
+ - [https://laxton.com](https://laxton.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## موقع فيديو ليالينا
+ - [https://video.layalina.com](https://video.layalina.com)
+ - date_published: 2024-09-05T19:53:58.797337+00:00
+
+ ## موقع ليالينا، موقع المرأة والمشاهير
+ - [https://www.layalina.com](https://www.layalina.com)
+ - date_published: 2024-09-05T19:55:53.565710+00:00
+
+ ## موقع يمّي، موقع الطبخ والغذاء
+ - [https://www.yummy.layalina.com](https://www.yummy.layalina.com)
+ - date_published: 2024-09-05T19:48:45+00:00
+
+ ## ليالينا بريفه - Layalina Privee
+ - [https://layalinaprivee.com](https://layalinaprivee.com)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Layalina Studio
+ - [https://layalinastudio.com](https://layalinastudio.com)
+ - date_published: 2024-09-05T19:53:55.450631+00:00
+
+ ## Augmented Reality (AR) Company | Blippar
+ - [https://www.layar.com](https://www.layar.com)
+ - date_published: 2024-06-22T22:00:03.540486+00:00
+
+ ## Capacity Media - Global Telecoms News, Events and Community | Capacity Media
+ - [http://www.layer123.com](http://www.layer123.com)
+ - date_published: 2024-07-21T03:32:56.745105+00:00
+
+ ## Webapp.io - Better DevOps for modern webapps
+ - [https://layerci.com](https://layerci.com)
+ - date_published: 2024-07-14T09:55:30.321379+00:00
+
+ ## Premium Ghost Themes
+ - [https://layeredcraft.com](https://layeredcraft.com)
+ - date_published: 2024-05-08T03:46:59.342195+00:00
+
+ ## mirrors.kernel.org
+ - [https://mirrors.layeronline.com](https://mirrors.layeronline.com)
+ - date_published: 2023-07-13T18:07:47+00:00
+
+ ## LayerSlider: #1 WordPress Slider Plugin
+ - [https://layerslider.com](https://layerslider.com)
+ - date_published: 2024-04-29T04:17:41.925720+00:00
+
+ ## Layers for Elementor
+ - [https://www.layerswp.com](https://www.layerswp.com)
+ - date_published: 2024-10-11T13:46:37.574478+00:00
+
+ ## Manfaat dan Kesehatan
+ - [http://www.layertennis.com](http://www.layertennis.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## LayerVault IP Vault
+ - [http://layervault.com](http://layervault.com)
+ - date_published: 2024-09-02T15:54:34.314525+00:00
+
+ ## LayerWP WordPress Product Directory, Reviews, Tips & More
+ - [https://layerwp.com](https://layerwp.com)
+ - date_published: 2024-07-15T10:54:32+00:00
+
+ ## Scan | LayerZero Message Explorer
+ - [https://layerzeroscan.com](https://layerzeroscan.com)
+ - date_published: 2024-09-21T23:52:08.324528+00:00
+
+ ## Laylo Help Center
+ - [https://docs.laylo.com](https://docs.laylo.com)
+ - date_published: 2024-06-20T21:41:07.004272+00:00
+
+ ## Laylo
+ - [https://embed.laylo.com](https://embed.laylo.com)
+ - date_published: 2024-06-08T00:26:02+00:00
+
+ ## Laylo - The Drop CRM
+ - [https://go.laylo.com](https://go.laylo.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Laylo - The Drop CRM
+ - [https://laylo.com](https://laylo.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## laymonage
+ - [https://laymonage.com](https://laymonage.com)
+ - date_published: 2024-09-09T20:00:37.833417+00:00
+
+ ## Layoff Score | Layoff Risk Scores for Thousands of Companies
+ - [https://layoffscore.com](https://layoffscore.com)
+ - date_published: 2023-08-09T17:12:43+00:00
+
  ## LayoffsTracker – Track all Tech & Startup layoffs globally
  - [https://layoffstracker.com](https://layoffstracker.com)
  - date_published: 2023-10-25T15:43:16.547456+00:00
@@ -752,7 +852,7 @@
  ## League of Legends Homepage
  - [https://leagueoflegends.com](https://leagueoflegends.com)
  - date_published: 2024-06-14T00:00:00+00:00
- - tags: ['moba']
+ - tags: ['moba', 'video game']
 
  ## Sign in with your Riot account
  - [https://signup.leagueoflegends.com](https://signup.leagueoflegends.com)
@@ -3938,106 +4038,4 @@ LearnWorlds
  ## Ofertas en León: cupones con descuentos de hasta un 70% | Oferplan Leonoticias
  - [https://oferplan.leonoticias.com](https://oferplan.leonoticias.com)
  - date_published: 2024-09-19T19:19:11.185356+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://proyectos.leonoticias.com](https://proyectos.leonoticias.com)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Leonoticias: noticias de León y provincia
- - [https://secure.leonoticias.com](https://secure.leonoticias.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Leon Paternoster
- - [https://www.leonpaternoster.com](https://www.leonpaternoster.com)
- - date_published: 2024-01-28T15:53:14+00:00
-
- ## 污视频app下载|污污视频App网站|污污视频在线免费|污污污视频免费在线观看网站
- - [https://leonsadler.com](https://leonsadler.com)
- - date_published: 2024-10-22T22:04:43.885678+00:00
-
- ## Flight Scheduling Software - Flight Operations Software
- - [https://www.leonsoftware.com](https://www.leonsoftware.com)
- - date_published: 2024-06-17T00:00:00+00:00
- - tags: ['aviation', 'navigation']
-
- ## Most Trusted Software Development Company in India | Conservation Technology Services | IT Services | E-Commerce Development | IT Company
- - [http://leopardtechlabs.com](http://leopardtechlabs.com)
- - date_published: 2023-01-03T04:47:46+00:00
-
- ## Leo Sidran
- - [https://leosidran.com](https://leosidran.com)
- - date_published: 2023-11-29T14:41:07.382707+00:00
- - tags: ['personal']
-
- ## leosims.com
- - [https://www.leosims.com](https://www.leosims.com)
- - date_published: 2024-10-23T07:49:01.842746+00:00
-
- ## Leo Skepi
- - [https://www.leoskepicollection.com](https://www.leoskepicollection.com)
- - date_published: 2024-07-13T12:51:04.916082+00:00
-
- ## LEO Weekly | Louisville Eccentric Observer
- - [https://leoweekly.com](https://leoweekly.com)
- - date_published: 2024-06-27T16:17:23+00:00
-
- ## Foundation Media Server
- - [https://media1.leoweekly.com](https://media1.leoweekly.com)
- - date_published: 2019-03-29T15:43:43+00:00
-
- ## Foundation Media Server
- - [https://media2.leoweekly.com](https://media2.leoweekly.com)
- - date_published: 2019-03-29T15:43:43+00:00
-
- ## LEO Weekly | Louisville Eccentric Observer
- - [https://posting.leoweekly.com](https://posting.leoweekly.com)
- - date_published: 2024-05-04T12:17:26.886194+00:00
-
- ## Home - Leo Widrich
- - [https://leowid.com](https://leowid.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Agence Digitale Le Pavillon Rouge : Communication digitale
- - [https://www.lepavillonrouge.com](https://www.lepavillonrouge.com)
- - date_published: 2022-05-05T09:35:57+00:00
-
- ## Accueil
- - [https://www.lepelerin.com](https://www.lepelerin.com)
- - date_published: 2024-10-18T23:22:11.122950+00:00
-
- ## Le Père Peinard - L'info Libertaire
- - [https://www.leperepeinard.com](https://www.leperepeinard.com)
- - date_published: 2024-07-18T05:27:39.110835+00:00
-
- ## DANIEL LEPIK
- - [https://lepikdaniel.com](https://lepikdaniel.com)
- - date_published: 2024-07-19T18:59:42.703363+00:00
-
- ## Le plaisir d'apprendre - Le site de ressources FLE du CAVILAM - AF
- - [https://www.leplaisirdapprendre.com](https://www.leplaisirdapprendre.com)
- - date_published: 2024-10-19T15:27:14.463588+00:00
-
- ## Thepointofsale.com
- - [https://lepointdevente.com](https://lepointdevente.com)
- - date_published: 2024-07-21T08:34:46.268541+00:00
-
- ## Le Journal du portage salarial
- - [http://www.leportagesalarial.com](http://www.leportagesalarial.com)
- - date_published: 2024-09-15T20:00:21.874841+00:00
-
- ## LePort Montessori Schools
- - [http://www.leportschools.com](http://www.leportschools.com)
- - date_published: 2024-10-31T23:15:09.377218+00:00
-
- ## LePrince Charleston Art Galleries on King Street LePrince Charleston Art Galleries
- - [http://www.leprince.com](http://www.leprince.com)
- - date_published: 2024-07-15T03:17:58.600418+00:00
-
- ## Just lepture
- - [https://lepture.com](https://lepture.com)
- - date_published: 2024-05-06T09:19:44.167000+00:00
-
- ## Shibuya
- - [https://shibuya.lepture.com](https://shibuya.lepture.com)
- - date_published: 2024-07-13T13:20:29+00:00
 

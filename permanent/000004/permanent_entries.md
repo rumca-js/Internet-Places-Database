@@ -1,3 +1,11 @@
+ ## WMDP Benchmark
+ - [https://www.wmdp.ai](https://www.wmdp.ai)
+ - date_published: 2024-07-06T19:50:39.915365+00:00
+
+ ## WNR.AI: The best in conversational AI
+ - [https://wnr.ai](https://wnr.ai)
+ - date_published: 2024-06-19T21:22:40.422378+00:00
+
  ## AI Powered Audio Studio - Wondercraft
  - [https://app.wondercraft.ai](https://app.wondercraft.ai)
  - date_published: 2024-06-23T07:39:08.347253+00:00
@@ -4011,12 +4019,4 @@
  - [https://hoarder.app](https://hoarder.app)
  - date_published: 2024-04-08T19:28:56.756392+00:00
  - tags: ['link aggregator', 'self-host']
-
- ## Hoarder
- - [https://try.hoarder.app](https://try.hoarder.app)
- - date_published: 2024-05-14T03:46:16.964834+00:00
-
- ## Holy Swift
- - [https://holyswift.app](https://holyswift.app)
- - date_published: 2023-10-25T11:46:47.493330+00:00
 

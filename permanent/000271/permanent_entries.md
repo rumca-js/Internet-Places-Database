@@ -1,3 +1,183 @@
+ ## Fraternity & Sorority Life | The University of New Mexico
+ - [http://greeks.unm.edu](http://greeks.unm.edu)
+ - date_published: 2024-05-15T18:59:21+00:00
+
+ ## Service Desk
+ - [https://help.unm.edu](https://help.unm.edu)
+ - date_published: 2024-07-02T05:10:30.529764+00:00
+
+ ## Honors College | The University of New Mexico
+ - [http://honors.unm.edu](http://honors.unm.edu)
+ - date_published: 2024-06-04T14:06:46+00:00
+
+ ## UNM Health System  | Albuquerque, New Mexico
+ - [http://hospitals.unm.edu](http://hospitals.unm.edu)
+ - date_published: 2024-05-07T21:43:42.185086+00:00
+
+ ## Residence Life & Student Housing | The University of New Mexico
+ - [https://housing.unm.edu](https://housing.unm.edu)
+ - date_published: 2024-06-26T21:41:59+00:00
+
+ ## Home :: Human Resources | The University of New Mexico
+ - [https://hr.unm.edu](https://hr.unm.edu)
+ - date_published: 2024-07-02T05:16:31.253677+00:00
+
+ ## Newsroom | UNM Health Sciences
+ - [https://hscnews.unm.edu](https://hscnews.unm.edu)
+ - date_published: 2024-05-07T21:44:33.932111+00:00
+
+ ## UNM Health Sciences Center
+ - [https://hsc.unm.edu](https://hsc.unm.edu)
+ - date_published: 2024-05-19T15:03:42.996265+00:00
+
+ ## Health Sciences Library & Informatics Center
+ - [https://hslic.unm.edu](https://hslic.unm.edu)
+ - date_published: 2024-07-01T16:51:04+00:00
+
+ ## UNM and the Alliance of Hispanic Serving Research Universities | The University of New Mexico
+ - [https://hsru.unm.edu](https://hsru.unm.edu)
+ - date_published: 2022-10-17T17:16:55+00:00
+
+ ## International Admissions | The University of New Mexico
+ - [https://international.unm.edu](https://international.unm.edu)
+ - date_published: 2024-06-05T17:12:37+00:00
+
+ ## UNM Information Security & Privacy Office | The University of New Mexico
+ - [https://ispo.unm.edu](https://ispo.unm.edu)
+ - date_published: 2024-05-03T19:52:59+00:00
+
+ ## IT Alerts :: Information Technologies | The University of New Mexico
+ - [https://italerts.unm.edu](https://italerts.unm.edu)
+ - date_published: 2024-07-02T05:10:33.948986+00:00
+
+ ## UNM IT Events | The University of New Mexico
+ - [https://itevents.unm.edu](https://itevents.unm.edu)
+ - date_published: 2024-01-18T23:58:58+00:00
+
+ ## Sign in to your account
+ - [http://itinternal.unm.edu](http://itinternal.unm.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Information Technologies | The University of New Mexico
+ - [http://it.unm.edu](http://it.unm.edu)
+ - date_published: 2024-06-21T22:22:58+00:00
+
+ ## Landscape Architecture | The University of New Mexico
+ - [http://landscape.unm.edu](http://landscape.unm.edu)
+ - date_published: 2024-04-19T17:50:59+00:00
+
+ ## School of Law | The University of New Mexico
+ - [http://lawschool.unm.edu](http://lawschool.unm.edu)
+ - date_published: 2024-08-17T11:04:05+00:00
+
+ ## University Libraries | The University of New Mexico
+ - [https://library.unm.edu](https://library.unm.edu)
+ - date_published: 2024-07-02T05:10:17.441502+00:00
+
+ ## LoboAchieve
+ - [https://loboachieve.unm.edu](https://loboachieve.unm.edu)
+ - date_published: 2024-05-30T21:26:57+00:00
+
+ ## LoboCard Office | The University of New Mexico
+ - [http://lobocash.unm.edu](http://lobocash.unm.edu)
+ - date_published: 2024-07-02T05:11:13.155991+00:00
+
+ ## Each of us defines all of us | The University of New Mexico
+ - [https://lobograd.unm.edu](https://lobograd.unm.edu)
+ - date_published: 2024-05-10T22:54:58+00:00
+
+ ## The Lobo Life
+ - [https://lobolife.unm.edu](https://lobolife.unm.edu)
+ - date_published: 2024-07-02T05:17:07.832525+00:00
+
+ ## Sign in to Outlook
+ - [http://lobomail.unm.edu](http://lobomail.unm.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## LoboRESPECT Advocacy Center | The University of New Mexico
+ - [https://loborespect.unm.edu](https://loborespect.unm.edu)
+ - date_published: 2023-09-05T18:21:34+00:00
+
+ ## Sign in to your account
+ - [https://login.unm.edu](https://login.unm.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Mailing, Shipping & Receiving | The University of New Mexico
+ - [http://mailingsystems.unm.edu](http://mailingsystems.unm.edu)
+ - date_published: 2024-03-19T15:23:36+00:00
+
+ ## UNM Location Search
+ - [https://map.unm.edu](https://map.unm.edu)
+ - date_published: 2024-07-02T05:05:01.878468+00:00
+
+ ## Marketing & Communication | The University of New Mexico
+ - [https://marcomm.unm.edu](https://marcomm.unm.edu)
+ - date_published: 2021-08-06T16:31:23+00:00
+
+ ## Mid Week Movies | The University of New Mexico
+ - [http://movies.unm.edu](http://movies.unm.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## myUNM | The University of New Mexico
+ - [https://my.unm.edu](https://my.unm.edu)
+ - date_published: 2023-07-15T00:13:35+00:00
+
+ ## UNM Newsroom: UNM Newsroom
+ - [https://news.unm.edu](https://news.unm.edu)
+ - date_published: 2023-10-25T19:03:42.977458+00:00
+
+ ## NM Hack | The University of New Mexico
+ - [https://nmhack.unm.edu](https://nmhack.unm.edu)
+ - date_published: 2020-10-14T13:16:06+00:00
+
+ ## National Student Exchange | The University of New Mexico
+ - [http://nse.unm.edu](http://nse.unm.edu)
+ - date_published: 2024-05-14T16:54:29+00:00
+
+ ## New Student Orientation | The University of New Mexico
+ - [http://nso.unm.edu](http://nso.unm.edu)
+ - date_published: 2024-03-12T17:21:43+00:00
+
+ ## Off-Campus Housing | The University of New Mexico
+ - [http://och.unm.edu](http://och.unm.edu)
+ - date_published: 2023-10-06T21:54:11+00:00
+
+ ## Compliance, Ethics & Equal Opportunity | The University of New Mexico
+ - [http://oeo.unm.edu](http://oeo.unm.edu)
+ - date_published: 2024-05-29T19:54:19+00:00
+
+ ## Office of Institutional Analytics | The University of New Mexico
+ - [http://oia.unm.edu](http://oia.unm.edu)
+ - date_published: 2024-03-11T17:28:29+00:00
+
+ ## UNM 2040: Opportunity Defined | The University of New Mexico
+ - [https://opportunity.unm.edu](https://opportunity.unm.edu)
+ - date_published: 2022-05-11T18:40:12+00:00
+
+ ## Office of Parents & Families | The University of New Mexico
+ - [https://parent.unm.edu](https://parent.unm.edu)
+ - date_published: 2024-05-07T21:44:02.609719+00:00
+
+ ## UNM Passport Acceptance Center | The University of New Mexico
+ - [https://passport.unm.edu](https://passport.unm.edu)
+ - date_published: 2024-06-29T13:44:35+00:00
+
+ ## The Pathfinder - UNM Student Handbook | The University of New Mexico
+ - [http://pathfinder.unm.edu](http://pathfinder.unm.edu)
+ - date_published: 2023-09-05T16:19:21+00:00
+
+ ## Pathology | UNM School of Medicine  | School of Medicine
+ - [https://pathology.unm.edu](https://pathology.unm.edu)
+ - date_published: 2024-07-02T09:22:48+00:00
+
+ ## Payroll Office | The University of New Mexico
+ - [http://payroll.unm.edu](http://payroll.unm.edu)
+ - date_published: 2024-06-26T19:44:08+00:00
+
+ ## | The University of New Mexico
+ - [https://pnmgc.unm.edu](https://pnmgc.unm.edu)
+ - date_published: 2024-06-10T15:58:09+00:00
+
  ## University Policy  | The University of New Mexico
  - [https://policy.unm.edu](https://policy.unm.edu)
  - date_published: 2024-05-22T00:00:00+00:00
@@ -3820,184 +4000,4 @@
  ## President Taylor R. Randall
  - [https://president.utah.edu](https://president.utah.edu)
  - date_published: 2024-07-02T11:18:02.089656+00:00
-
- ## The John and Marcia Price College of Engineering
- - [https://price.utah.edu](https://price.utah.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Psychology - The University of Utah
- - [https://psych.utah.edu](https://psych.utah.edu)
- - date_published: 2024-07-02T11:21:30.615603+00:00
-
- ## University Department of Public Safety
- - [https://publicsafety.utah.edu](https://publicsafety.utah.edu)
- - date_published: 2024-07-02T11:18:33.666208+00:00
-
- ## Home
- - [http://qed.cs.utah.edu](http://qed.cs.utah.edu)
- - date_published: 2024-07-02T11:29:23.851477+00:00
-
- ## Office of the Registrar - The University of Utah
- - [https://registrar.utah.edu](https://registrar.utah.edu)
- - date_published: 2024-07-02T11:18:39.117738+00:00
-
- ## Vice President for Research
- - [http://research.utah.edu](http://research.utah.edu)
- - date_published: 2024-07-02T11:29:47.766696+00:00
-
- ## Robotics Center
- - [https://robotics.coe.utah.edu](https://robotics.coe.utah.edu)
- - date_published: 2024-07-02T11:30:26.726220+00:00
-
- ## home [LL4MA lab]
- - [https://robot-learning.cs.utah.edu](https://robot-learning.cs.utah.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## #SAFEU
- - [https://safeu.utah.edu](https://safeu.utah.edu)
- - date_published: 2024-07-02T11:18:42.515290+00:00
-
- ## College of Science
- - [https://science.utah.edu](https://science.utah.edu)
- - date_published: 2024-05-07T22:10:58.251933+00:00
-
- ## Home
- - [https://sci.utah.edu](https://sci.utah.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Information Security Office - The University of Utah
- - [https://security.it.utah.edu](https://security.it.utah.edu)
- - date_published: 2024-07-14T05:11:15.100155+00:00
-
- ## Skills Workshops and Mindfulness Programs - The University of Utah
- - [https://skills.utah.edu](https://skills.utah.edu)
- - date_published: 2024-07-02T11:32:59.831680+00:00
-
- ## Social
- - [https://social.utah.edu](https://social.utah.edu)
- - date_published: 2024-07-02T11:21:10.467095+00:00
-
- ## Department of Sociology - The University of Utah
- - [https://soc.utah.edu](https://soc.utah.edu)
- - date_published: 2024-07-02T11:27:27.242229+00:00
-
- ## Student Success Coaches - The University of Utah
- - [https://ssc.utah.edu](https://ssc.utah.edu)
- - date_published: 2024-05-07T22:10:34.896061+00:00
-
- ## Student Affairs - The University of Utah
- - [https://studentaffairs.utah.edu](https://studentaffairs.utah.edu)
- - date_published: 2024-07-02T11:18:12.316010+00:00
-
- ## Student Health Center - The University of Utah
- - [https://studenthealth.utah.edu](https://studenthealth.utah.edu)
- - date_published: 2024-07-02T11:33:08.148675+00:00
-
- ## Student Success Coaches - The University of Utah
- - [https://studentsuccess.utah.edu](https://studentsuccess.utah.edu)
- - date_published: 2024-07-02T11:42:40.088613+00:00
-
- ## Student University Development Opportunity (SUDO) - Student University Development Opportunity - The University of Utah
- - [https://sudo.utah.edu](https://sudo.utah.edu)
- - date_published: 2024-07-14T05:11:19.298276+00:00
-
- ## CSBS Computing - Support - CSBS - The University of Utah
- - [https://support.csbs.utah.edu](https://support.csbs.utah.edu)
- - date_published: 2024-07-02T11:27:18.733098+00:00
-
- ## Kahlert School of Computing – IT Support
- - [https://support.cs.utah.edu](https://support.cs.utah.edu)
- - date_published: 2024-05-07T22:10:43.202892+00:00
-
- ## Sign In
- - [http://support.med.utah.edu](http://support.med.utah.edu)
- - date_published: 2024-07-02T11:29:08.498264+00:00
-
- ## Sustainability
- - [https://sustainability.utah.edu](https://sustainability.utah.edu)
- - date_published: 2024-07-02T11:18:10.153751+00:00
-
- ## University of Utah - Portal
- - [https://system.apps.utah.edu](https://system.apps.utah.edu)
- - date_published: 2024-03-14T20:34:52+00:00
-
- ## TA Application Portal - School of Computing - University of Utah - School of Computing - TA Portal
- - [https://ta.cs.utah.edu](https://ta.cs.utah.edu)
- - date_published: 2024-05-07T22:10:21.937589+00:00
-
- ## Technology Licensing Office at the University of Utah - Innovation Powered by U
- - [https://tvc.utah.edu](https://tvc.utah.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Utah Center for Inclusive Computing – Just another COE Research & Staff MultiSite Install Sites site
- - [https://ucic.cs.utah.edu](https://ucic.cs.utah.edu)
- - date_published: 2024-05-07T22:10:25.410286+00:00
-
- ## UGive
- - [https://ugive.app.utah.edu](https://ugive.app.utah.edu)
- - date_published: 2023-11-10T23:09:42+00:00
-
- ## Home
- - [http://ulink.utah.edu](http://ulink.utah.edu)
- - date_published: 2024-07-02T11:33:32.697570+00:00
-
- ## Sign In
- - [https://umail.utah.edu](https://umail.utah.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UNews
- - [https://unews.utah.edu](https://unews.utah.edu)
- - date_published: 2024-07-02T11:21:07.616598+00:00
-
- ## University of Utah Student Union - A. Ray Olpin University Union
- - [https://union.utah.edu](https://union.utah.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## University of Utah Health Academic Medical Center
- - [https://uofuhealth.utah.edu](https://uofuhealth.utah.edu)
- - date_published: 2024-07-02T05:26:17+00:00
-
- ## Kahlert School of Computing
- - [https://users.cs.utah.edu](https://users.cs.utah.edu)
- - date_published: 2024-01-12T03:16:30.394085+00:00
-
- ## Office of Undergraduate Studies - The University of Utah
- - [https://us.utah.edu](https://us.utah.edu)
- - date_published: 2024-07-02T11:31:52.001539+00:00
-
- ## The University of Utah
- - [https://utah.edu](https://utah.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Ute Proud
- - [https://uteproud.utah.edu](https://uteproud.utah.edu)
- - date_published: 2024-07-02T11:18:45.560019+00:00
-
- ## Archaeological Center - The University of Utah
- - [https://uuac.utah.edu](https://uuac.utah.edu)
- - date_published: 2024-07-02T11:27:16.566885+00:00
-
- ## Home | Vis Design Lab
- - [https://vdl.sci.utah.edu](https://vdl.sci.utah.edu)
- - date_published: 2024-06-27T11:22:05+00:00
-
- ## Center for Campus Wellness - Student Affairs - The University of Utah
- - [https://wellness.utah.edu](https://wellness.utah.edu)
- - date_published: 2024-05-07T22:10:51.182376+00:00
-
- ## The Wilkes Center for Climate Science & Policy
- - [https://wilkescenter.utah.edu](https://wilkescenter.utah.edu)
- - date_published: 2024-07-02T11:41:44.188636+00:00
-
- ## Women’s Resource Center - The University of Utah
- - [http://womenscenter.utah.edu](http://womenscenter.utah.edu)
- - date_published: 2024-07-02T11:30:31.114469+00:00
-
- ## Home - Biomedical Engineering at the University of Utah
- - [http://www.bioen.utah.edu](http://www.bioen.utah.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## School of Biological Sciences
- - [http://www.biology.utah.edu](http://www.biology.utah.edu)
- - date_published: 2024-07-02T11:41:56.711271+00:00
 

@@ -1,3 +1,173 @@
+ ## Portfolio - Michael Malura
+ - [https://malura.de](https://malura.de)
+ - date_published: 2024-07-23T23:27:59.245574+00:00
+
+ ## Kostenlose Malvorlagen - fröhlich und kindgerecht | Ausmalbild kostenlos herunterladen
+ - [https://malvorlagen-seite.de](https://malvorlagen-seite.de)
+ - date_published: 2015-09-21T07:25:20+00:00
+
+ ## Mama Mia
+ - [https://mama-mia-bayreuth.de](https://mama-mia-bayreuth.de)
+ - date_published: 2024-07-24T07:12:34.089958+00:00
+
+ ## MaMis en Movimiento e.V. | bilingüe | Berlin, Deutschland
+ - [https://www.mamis-en-movimiento.de](https://www.mamis-en-movimiento.de)
+ - date_published: 2024-09-12T15:57:19.660101+00:00
+
+ ## abo shop | 
+			
+			
+				
+				manager magazin und Harvard Business manager
+ - [https://abo.manager-magazin.de](https://abo.manager-magazin.de)
+ - date_published: 2024-07-24T04:44:38.883778+00:00
+
+ ## Börsen & Märkte aktuell - Aktien, Kurse, Charts, Nachrichten | manager magazin
+ - [https://boersen.manager-magazin.de](https://boersen.manager-magazin.de)
+ - date_published: 2024-04-29T06:45:50.126832+00:00
+
+ ## Alle digitalen Magazine - DER SPIEGEL
+ - [https://cdn.heft.manager-magazin.de](https://cdn.heft.manager-magazin.de)
+ - date_published: 2024-07-24T04:44:37.111171+00:00
+
+ ## Alle digitalen Magazine - manager
+ - [http://heft.manager-magazin.de](http://heft.manager-magazin.de)
+ - date_published: 2024-07-24T04:44:34.057854+00:00
+
+ ## manager LIVE – Die Veranstaltungen der manager Gruppe
+ - [https://live.manager-magazin.de](https://live.manager-magazin.de)
+ - date_published: 2024-07-24T04:44:40.067521+00:00
+
+ ## manager magazin | Wirtschaftsnachrichten
+ - [https://manager-magazin.de](https://manager-magazin.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## man-da.de GmbH
+ - [https://www.man-da.de](https://www.man-da.de)
+ - date_published: 2023-03-21T16:14:28+00:00
+
+ ## MANDARIN Digitalagentur | Verwandelt euch zum Besten
+ - [https://gdpr.mandarin-medien.de](https://gdpr.mandarin-medien.de)
+ - date_published: 2024-07-20T15:25:23.598875+00:00
+
+ ## Lösungen zur Abwehr von Cyberbedrohungen | Threat-Intelligence-Services
+ - [https://mandiant.de](https://mandiant.de)
+ - date_published: 2024-05-11T07:18:46.136315+00:00
+
+ ## Startseite - Microsoft-Beratung von Manfred Helber
+ - [https://www.manfredhelber.de](https://www.manfredhelber.de)
+ - date_published: 2024-07-24T04:41:02.139829+00:00
+
+ ## Mangawelten - Alles rund um Mangas
+ - [https://mangawelten.de](https://mangawelten.de)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Freundeseite | Home
+ - [https://freunde.ma-nic.de](https://freunde.ma-nic.de)
+ - date_published: 2024-07-10T07:29:25.344071+00:00
+
+ ## Manikin Records
+ - [http://www.manikin.de](http://www.manikin.de)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Inxmail Server - professionelles E-Mail-Marketing
+ - [https://mailings.mannheim.de](https://mailings.mannheim.de)
+ - date_published: 2024-05-29T13:58:38+00:00
+
+ ## Startseite | Mannheim.de
+ - [https://mannheim.de](https://mannheim.de)
+ - date_published: 2024-04-07T14:03:13.684444+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.mannheim.de](https://piwik.mannheim.de)
+ - date_published: 2024-05-13T03:13:10.900108+00:00
+
+ ## Startseite
+ - [https://mannheim-gemeinsam-gestalten.de](https://mannheim-gemeinsam-gestalten.de)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Mannheim My Future
+ - [https://www.mannheimmyfuture.de](https://www.mannheimmyfuture.de)
+ - date_published: 2024-07-17T07:59:55+00:00
+
+ ## Stadt Mannheim Videoportal
+ - [https://mannheim-videos.de](https://mannheim-videos.de)
+ - date_published: 2024-05-13T03:13:08.255925+00:00
+
+ ## Design + Code | Manuel Biedermann
+ - [https://manuelbiedermann.de](https://manuelbiedermann.de)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Manuel Strehl
+ - [https://manuel-strehl.de](https://manuel-strehl.de)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.manuel-strehl.de](https://piwik.manuel-strehl.de)
+ - date_published: 2024-07-02T20:32:24.529414+00:00
+
+ ## Manuka Honig: Echter neuseeländischer Manuka Honig
+ - [https://manukadoctor.de](https://manukadoctor.de)
+ - date_published: 2024-10-20T14:06:40.133788+00:00
+
+ ## Support Ticketsystem
+ - [https://zammad.manyelectronics.de](https://zammad.manyelectronics.de)
+ - date_published: 2024-07-24T05:21:44.080253+00:00
+
+ ## Home
+ - [https://iw.mapandroute.de](https://iw.mapandroute.de)
+ - date_published: 2024-09-30T13:16:19+00:00
+
+ ## Home
+ - [https://www.mapandroute.de](https://www.mapandroute.de)
+ - date_published: 2024-09-30T13:16:25+00:00
+
+ ## Marble Imaging
+ - [https://marble-imaging.de](https://marble-imaging.de)
+ - date_published: 2024-06-10T13:56:15+00:00
+
+ ## Marc Anton Dahmen
+ - [https://marcdahmen.de](https://marcdahmen.de)
+ - date_published: 2024-05-14T03:35:04.615640+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.marcdahmen.de](https://matomo.marcdahmen.de)
+ - date_published: 2024-07-18T06:30:48.921812+00:00
+
+ ## Marcel Klehr
+ - [https://marcelklehr.de](https://marcelklehr.de)
+ - date_published: 2023-12-22T17:54:01+00:00
+
+ ## Marco Scheel aka GeekDotNet
+ - [http://marcoscheel.de](http://marcoscheel.de)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Marco's Accessibility Blog
+ - [https://www.marcozehe.de](https://www.marcozehe.de)
+ - date_published: 2024-07-07T10:29:54.194332+00:00
+
+ ## Marcus Burk - Digital. Marketing. Kommunikation.
+ - [https://marcusburk.de](https://marcusburk.de)
+ - date_published: 2023-11-29T17:19:11.975227+00:00
+ - tags: ['personal']
+
+ ## Marcus Jaschen
+ - [https://www.marcusjaschen.de](https://www.marcusjaschen.de)
+ - date_published: 2024-07-24T17:42:19.573206+00:00
+
+ ## Marcus Obst 🍋 Webanwendungen und Digitale Lösungen | Marcus Obst
+ - [https://marcus-obst.de](https://marcus-obst.de)
+ - date_published: 2023-12-10T11:35:16.029787+00:00
+ - tags: ['personal']
+
+ ## Tach auch! | Marek Maras • Webentwicklung aus'm Ruhrpott
+ - [https://marek-maras.de](https://marek-maras.de)
+ - date_published: 2024-07-24T06:38:17.491234+00:00
+
+ ## Marian's Blog
+ - [https://marian42.de](https://marian42.de)
+ - date_published: 2024-06-01T00:00:00+00:00
+
  ## Dr. Mario Albrecht's Homepage
  - [https://www.mario-albrecht.de](https://www.mario-albrecht.de)
  - date_published: 2024-08-19T20:44:36.121019+00:00
@@ -3847,171 +4017,4 @@
  ## pariaradikal.de
  - [http://pariaradikal.de](http://pariaradikal.de)
  - date_published: 2024-07-13T14:46:56.105412+00:00
-
- ## Parken in Bochum
- - [https://www.parken-in-bochum.de](https://www.parken-in-bochum.de)
- - date_published: 2024-06-22T21:15:10.883587+00:00
-
- ## Startseite - Parkett & Dielen Labahn
- - [https://www.parkett-labahn.de](https://www.parkett-labahn.de)
- - date_published: 2024-07-13T05:27:23+00:00
-
- ## Part-DB
- - [https://demo.part-db.de](https://demo.part-db.de)
- - date_published: 2024-07-08T16:20:17.831526+00:00
-
- ## Home
- - [https://docs.part-db.de](https://docs.part-db.de)
- - date_published: 2024-06-23T19:14:38+00:00
-
- ## Partner Marketing Summit - Partner Marketing Summit
- - [https://partner-marketing-summit.de](https://partner-marketing-summit.de)
- - date_published: 2023-03-07T00:00:00+00:00
-
- ## Partner Marketing Summit - Partner Marketing Summit
- - [http://partnermarketingsummit.de](http://partnermarketingsummit.de)
- - date_published: 2023-03-07T00:00:00+00:00
-
- ## Partnerprogramm - WTSH Partnerprogramm
- - [https://partner-sh.de](https://partner-sh.de)
- - date_published: 2024-07-10T09:23:10.606199+00:00
-
- ## PARTS Gesellschaft für soziale Praxis und Projekte mbH
- - [https://www.parts-berlin.de](https://www.parts-berlin.de)
- - date_published: 2022-10-25T09:45:55+00:00
-
- ## Prof. Dr. Pascal Hitzler
- - [http://www.pascal-hitzler.de](http://www.pascal-hitzler.de)
- - date_published: 2024-03-06T15:33:37+00:00
-
- ## Passage-Verlag Leipzig – Bücher & Leipziger Blätter · passageverlag.de
- - [https://www.passageverlag.de](https://www.passageverlag.de)
- - date_published: 2024-10-22T05:21:22.990487+00:00
-
- ## Passolution Dataservice
- - [https://web.passolution.de](https://web.passolution.de)
- - date_published: 2024-08-08T22:53:59.849728+00:00
-
- ## The Patches Scrolls | Home
- - [https://patches-scrolls.de](https://patches-scrolls.de)
- - date_published: 2024-04-08T06:18:02+00:00
- - tags: ['video games']
-
- ## Dein Aufnäher Shop für Bügelbilder und Flicken
- - [https://patchmonkeys.de](https://patchmonkeys.de)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Innenarchitektur – Möbel
- - [http://www.patchwork-spass.de](http://www.patchwork-spass.de)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Patientenbeauftragten der Bundesregierung
- - [https://www.patientenbeauftragter.de](https://www.patientenbeauftragter.de)
- - date_published: 2023-01-24T08:18:29+00:00
-
- ## Patientus Whitelabel Videosprechstunde - KBV - geprüfter Anbieter
- - [https://www.patientus.de](https://www.patientus.de)
- - date_published: 2021-12-07T00:00:00+00:00
-
- ## Schreiben, Marketing, Billard und alles mögliche - Patrick Baumann
- - [https://patrick-baumann.de](https://patrick-baumann.de)
- - date_published: 2023-12-13T20:59:36.150037+00:00
- - tags: ['personal']
-
- ## Attention Required! | Cloudflare
- - [https://news.patrick-breyer.de](https://news.patrick-breyer.de)
- - date_published: 2024-04-29T06:34:46.958470+00:00
-
- ## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
- - [https://patrick-breyer.de](https://patrick-breyer.de)
- - date_published: 2023-10-25T18:32:28.196653+00:00
-
- ## Patterns Kompakt
- - [https://patterns-kompakt.de](https://patterns-kompakt.de)
- - date_published: 2024-02-24T01:50:13+00:00
-
- ## panschk.de – Blog von Panschk aka Paul-Gabriel Müller
- - [http://paul-gabriel-mueller.de](http://paul-gabriel-mueller.de)
- - date_published: 2024-06-01T22:16:59.873126+00:00
-
- ## PAULINE BAUMBERGER
- - [http://paulinebaumberger.de](http://paulinebaumberger.de)
- - date_published: 2024-10-29T14:29:41.565964+00:00
-
- ## PAYBACK Bonusprogramm » °Punkten + Coupons + Aktionen
- - [https://www.payback.de](https://www.payback.de)
- - date_published: 2024-06-25T18:07:34.112349+00:00
-
- ## Payload
- - [https://payload.de](https://payload.de)
- - date_published: 2024-09-24T03:55:38.771542+00:00
-
- ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
- - [http://www.paypal.de](http://www.paypal.de)
- - date_published: 2024-06-29T07:12:12.471541+00:00
-
- ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
- - [https://www.paypal-deutschland.de](https://www.paypal-deutschland.de)
- - date_published: 2024-08-19T22:14:34.310692+00:00
-
- ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
- - [http://www.pcaction.de](http://www.pcaction.de)
- - date_published: 2024-07-08T14:35:55.915875+00:00
-
- ## Configure & Order customised PCB online | Beta LAYOUT Ltd.
- - [http://www.pcb-pool.de](http://www.pcb-pool.de)
- - date_published: 2024-06-22T14:22:39.667010+00:00
-
- ## PC-Experience - das IT-Portal - - Start
- - [https://pc-experience.de](https://pc-experience.de)
- - date_published: 2024-04-29T06:35:45.500387+00:00
-
- ## IOAM
- - [https://data-c5925d7d99.pcgames.de](https://data-c5925d7d99.pcgames.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## PC Games Forum
- - [https://forum.pcgames.de](https://forum.pcgames.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## pcgames.de - Stellenmarkt
- - [https://jobs.pcgames.de](https://jobs.pcgames.de)
- - date_published: 2024-06-17T21:13:36.606518+00:00
-
- ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
- - [https://www.pcgames.de](https://www.pcgames.de)
- - date_published: 2024-04-29T06:41:03.000762+00:00
- - tags: ['video game news']
-
- ## IOAM
- - [https://data-c5925d7d99.pcgameshardware.de](https://data-c5925d7d99.pcgameshardware.de)
- - date_published: 2024-04-29T06:35:44.328251+00:00
-
- ## Die Hardware-Community für PC-Spieler - PCGH Extreme
- - [https://extreme.pcgameshardware.de](https://extreme.pcgameshardware.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PCGH Gear: Produkte für Gamer
- - [https://gear.pcgameshardware.de](https://gear.pcgameshardware.de)
- - date_published: 2024-04-29T06:40:51.190191+00:00
-
- ## pcgameshardware.de - Stellenmarkt
- - [https://jobs.pcgameshardware.de](https://jobs.pcgameshardware.de)
- - date_published: 2024-04-29T06:35:46.756285+00:00
-
- ## PC Games Hardware - Einloggen
- - [https://login.pcgameshardware.de](https://login.pcgameshardware.de)
- - date_published: 2024-08-06T17:32:13.131018+00:00
-
- ## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
- - [https://pcgameshardware.de](https://pcgameshardware.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## PC Games Hardware (PCGH) Preisvergleich Deutschland: Preisvergleich
- - [https://preisvergleich.pcgameshardware.de](https://preisvergleich.pcgameshardware.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PCGH-Ratgeber: Hardware, IT, Gaming & Technik
- - [https://ratgeber.pcgameshardware.de](https://ratgeber.pcgameshardware.de)
- - date_published: 2024-04-25T00:00:00+00:00
 

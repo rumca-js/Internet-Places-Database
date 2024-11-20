@@ -1,3 +1,69 @@
+ ## Fundmetric
+ - [https://app.fundmetric.com](https://app.fundmetric.com)
+ - date_published: 2024-10-15T01:21:06.576254+00:00
+
+ ## Fundor333
+ - [https://fundor333.com](https://fundor333.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Fundraise Up
+ - [https://fundraiseup.com](https://fundraiseup.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## State Fundraising Registration | Affinity Fundraising Registration
+ - [https://fundraisingregistration.com](https://fundraisingregistration.com)
+ - date_published: 2021-09-07T15:23:03+00:00
+
+ ## Free, Success-Driven Online Fundraising Platform | FundRazr
+ - [https://fundrazr.com](https://fundrazr.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Fundrbird
+ - [https://www.fundrbird.com](https://www.fundrbird.com)
+ - date_published: 2024-07-03T01:55:32.390783+00:00
+
+ ## Fundrise
+ - [https://fundrise.com](https://fundrise.com)
+ - date_published: 2024-05-08T12:34:12.469732+00:00
+ - tags: ['investments']
+
+ ## Homepage - Fundserv Inc
+ - [https://www.fundserv.com](https://www.fundserv.com)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Apiture
+ - [https://secure2.fundsxpress.com](https://secure2.fundsxpress.com)
+ - date_published: 2020-04-03T16:31:02+00:00
+
+ ## Fundtruck
+ - [https://en.fundtruck.com](https://en.fundtruck.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Fundtruck
+ - [https://fundtruck.com](https://fundtruck.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Dune II - The Maker
+ - [https://dune2themaker.fundynamic.com](https://dune2themaker.fundynamic.com)
+ - date_published: 2024-05-09T08:53:12.616275+00:00
+ - tags: ['open source', 'dune 2', 'video game port', 'dune']
+
+ ## TransIP - Reserved domain
+ - [https://fundynamic.com](https://fundynamic.com)
+ - date_published: 2024-07-11T17:03:10.786314+00:00
+
+ ## Online Mutual Fund Investment Platform
+ - [https://broking.fundzbazar.com](https://broking.fundzbazar.com)
+ - date_published: 2024-09-10T11:40:08+00:00
+
+ ## FundzBazar - India's Best Mutual Fund Investment Platform
+ - [https://fundzbazar.com](https://fundzbazar.com)
+ - date_published: 2024-06-15T08:01:51.247815+00:00
+
+ ## Invest in ideas | smallcases on fundzbazar
+ - [https://smallcases.fundzbazar.com](https://smallcases.fundzbazar.com)
+ - date_published: 2024-06-13T12:18:43+00:00
+
  ## Funes Fit – Entrenamiento y Nutrición
  - [https://funesfit.com](https://funesfit.com)
  - date_published: 2024-09-19T19:27:02.323162+00:00
@@ -2181,6 +2247,10 @@
  - [https://teeml.galadriel.com](https://teeml.galadriel.com)
  - date_published: 2024-09-21T23:30:02.206999+00:00
 
+ ## ギャラガウェブ　Galaga Web | バンダイナムコエンターテインメント公式サイト
+ - [https://galaga.com](https://galaga.com)
+ - date_published: 2024-11-19T12:08:41+00:00
+
  ## Sign in - Matomo
  - [https://analytics.galangal.com](https://analytics.galangal.com)
  - date_published: 2024-06-21T04:38:04.055459+00:00
@@ -3977,75 +4047,4 @@
  ## GameWorldObserver.com: online magazine about video games industry
  - [https://gameworldobserver.com](https://gameworldobserver.com)
  - date_published: 2023-10-25T10:48:43.476844+00:00
-
- ## Home
- - [http://www.gamezebo.com](http://www.gamezebo.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Gamezop | India Today Gaming
- - [https://indiatodaygaming.gamezop.com](https://indiatodaygaming.gamezop.com)
- - date_published: 2024-07-17T10:14:17.143002+00:00
-
- ## Best Free Games Online | Play Online Games on gamezop.com
- - [https://www.gamezop.com](https://www.gamezop.com)
- - date_published: 2024-09-30T10:49:09.934726+00:00
-
- ## ألعاب سبايدر مان
- - [http://gamezspiderman.com](http://gamezspiderman.com)
- - date_published: 2024-06-15T08:22:25.743930+00:00
- - tags: ['web spam']
-
- ## Gamezyte | GAMEZYTE
- - [https://www.gamezyte.com](https://www.gamezyte.com)
- - date_published: 2023-09-23T09:22:40+00:00
-
- ## Great American Music Hall
- - [https://gamh.com](https://gamh.com)
- - date_published: 2024-06-24T05:33:47.868207+00:00
-
- ## Discover top gamification apps to achieve your goals | Gamify List
- - [https://gamifylist.com](https://gamifylist.com)
- - date_published: 2024-08-18T16:03:56.794990+00:00
-
- ## Free2Play Online- & Browsergames - MMOGs & more | gamigo
- - [https://gamigo.com](https://gamigo.com)
- - date_published: 2024-08-11T05:54:27.869054+00:00
-
- ## gamigo Group Support Center
- - [https://support.gamigo.com](https://support.gamigo.com)
- - date_published: 2024-09-26T09:36:28.906616+00:00
-
- ## Gamil
- - [https://gamil.com](https://gamil.com)
- - date_published: 2024-09-05T12:31:26.320691+00:00
-
- ## Gaming Alexandria – Video Game History and Preservation
- - [https://www.gamingalexandria.com](https://www.gamingalexandria.com)
- - date_published: 2023-10-25T14:41:14.275764+00:00
-
- - [https://gamingbeasts.com](https://gamingbeasts.com)
- - date_published: 2024-11-11T15:02:57+00:00
- - tags: ['piracy']
-
- ## GAMINGbible - Let's All Play
- - [https://gamingbible.com](https://gamingbible.com)
- - date_published: 2024-10-27T07:20:21+00:00
- - tags: ['video games', 'news']
-
- ## Video Game News, Reviews, Walkthroughs And Guides | GamingBolt
- - [https://gamingbolt.com](https://gamingbolt.com)
- - date_published: 2023-11-01T07:18:36.819292+00:00
- - tags: ['video game news']
-
- ## licensing Gaming-Curacao.com - Login
- - [https://licensing.gaming-curacao.com](https://licensing.gaming-curacao.com)
- - date_published: 2024-07-10T10:09:40.505571+00:00
-
- ## Gaming Curacao | Serving the online gaming industry since 1998
- - [https://www.gaming-curacao.com](https://www.gaming-curacao.com)
- - date_published: 2024-07-10T10:09:46.104866+00:00
-
- ## GAMINGDEPUTY - ‏‏‎‎‏‏‎ ‎News, Reviews & Insights
- - [https://www.gamingdeputy.com](https://www.gamingdeputy.com)
- - date_published: 2023-10-25T14:41:18.532720+00:00
 

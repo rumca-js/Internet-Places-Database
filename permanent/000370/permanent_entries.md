@@ -1,3 +1,217 @@
+ ## Shakk – De la révolte à la guerre en Syrie : conflits, déplacements, incertitudes
+ - [https://shakk.hypotheses.org](https://shakk.hypotheses.org)
+ - date_published: 2024-06-14T04:12:37.543474+00:00
+
+ ## Sino-Tibetan-Austronesian – ISSN 2607-8945
+ - [https://stan.hypotheses.org](https://stan.hypotheses.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Hyprland Development
+ - [https://code.hyprland.org](https://code.hyprland.org)
+ - date_published: 2024-05-08T07:33:34.850701+00:00
+
+ ## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
+ - [https://hyprland.org](https://hyprland.org)
+ - date_published: 2023-10-25T21:29:43.958993+00:00
+
+ ## Hyprland Wiki
+ - [https://wiki.hyprland.org](https://wiki.hyprland.org)
+ - date_published: 2024-05-08T07:33:33.845479+00:00
+
+ ## Hyrum's Hiking » Home
+ - [http://hiking.hyrumwright.org](http://hiking.hyrumwright.org)
+ - date_published: 2024-09-04T11:02:25.484177+00:00
+
+ ## Hyrum K. Wright
+ - [https://www.hyrumwright.org](https://www.hyrumwright.org)
+ - date_published: 2024-06-03T08:42:36.434972+00:00
+ - tags: ['personal']
+
+ ## Ali Reza Hayati
+ - [https://hyti.org](https://hyti.org)
+ - date_published: 2024-06-14T06:13:30+00:00
+
+ ## i2cam.org - contact with domain owner | Epik.com
+ - [http://i2cam.org](http://i2cam.org)
+ - date_published: 2024-10-19T08:18:59.803153+00:00
+
+ ## Home - i2E
+ - [https://i2e.org](https://i2e.org)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Sign in · GitLab
+ - [https://i2pgit.org](https://i2pgit.org)
+ - date_published: 2024-09-14T08:43:21.967477+00:00
+
+ ## Home | I2SL
+ - [https://www.i2sl.org](https://www.i2sl.org)
+ - date_published: 2024-09-02T12:49:03.597353+00:00
+
+ ## Free Online CSS3 Typeset Style Generator - i2Style
+ - [http://www.i2style.org](http://www.i2style.org)
+ - date_published: 2024-07-07T08:11:15.649786+00:00
+
+ ## i3 - improved tiling wm
+ - [https://i3wm.org](https://i3wm.org)
+ - date_published: 2024-04-29T07:27:22.342152+00:00
+
+ ## Initiative for Interstellar Studies – Working towards the achievement of interstellar flight through knowledge to the stars – Starships in our lifetime
+ - [http://i4is.org](http://i4is.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## I4OA: Initiative for Open Abstracts
+ - [https://i4oa.org](https://i4oa.org)
+ - date_published: 2024-06-02T16:52:46+00:00
+
+ ## I4OC: Initiative for Open Citations
+ - [https://i4oc.org](https://i4oc.org)
+ - date_published: 2022-09-14T03:18:43+00:00
+
+ ## :: International Association of Advances In Engineering and Technology (IAAET) ::
+ - [http://iaaet.org](http://iaaet.org)
+ - date_published: 2024-10-29T16:55:34.150583+00:00
+
+ ## World Athletics Home Page | World Athletics
+ - [https://www.iaaf.org](https://www.iaaf.org)
+ - date_published: 2024-07-12T15:06:08.220240+00:00
+
+ ## nternational Advertising Association UK - Forums, Webinars & Events
+ - [https://iaauk.iaaglobal.org](https://iaauk.iaaglobal.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## IAASB
+ - [https://www.iaasb.org](https://www.iaasb.org)
+ - date_published: 2024-09-11T17:16:46+00:00
+
+ ## Home - IAA
+ - [https://iaaspace.org](https://iaaspace.org)
+ - date_published: 2020-02-12T13:07:49+00:00
+
+ ## Internet Architecture Board
+ - [https://iab.org](https://iab.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## International Academy of Biological Dentistry & Medicine
+ - [https://iabdm.org](https://iabdm.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [http://iab-rubric.org](http://iab-rubric.org)
+ - date_published: 2024-09-13T18:00:43+00:00
+
+ ## IAB TR
+ - [https://iabtr.org](https://iabtr.org)
+ - date_published: 2024-06-25T19:35:19.690869+00:00
+
+ ## Home Page - IAC2024
+ - [https://www.iac2024.org](https://www.iac2024.org)
+ - date_published: 2024-09-16T10:14:52.982978+00:00
+
+ ## International Accreditation Council for Business Education
+ - [https://iacbe.org](https://iacbe.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## The International Anti-Corruption Conference (IACC)
+ - [https://iaccseries.org](https://iaccseries.org)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Home
+ - [http://www.iacenter.org](http://www.iacenter.org)
+ - date_published: 2024-10-21T16:48:15.336030+00:00
+
+ ## Home
+ - [https://www.iacet.org](https://www.iacet.org)
+ - date_published: 2024-10-14T20:13:04.149328+00:00
+
+ ## IACLEA
+ - [http://www.iaclea.org](http://www.iaclea.org)
+ - date_published: 2024-07-02T01:51:51.485174+00:00
+
+ ## IACR Artifact Archive
+ - [https://artifacts.iacr.org](https://artifacts.iacr.org)
+ - date_published: 2024-07-04T09:44:27+00:00
+
+ ## Asiacrypt 2024
+ - [https://asiacrypt.iacr.org](https://asiacrypt.iacr.org)
+ - date_published: 2024-07-04T17:05:03.018928+00:00
+
+ ## CHES
+ - [https://ches.iacr.org](https://ches.iacr.org)
+ - date_published: 2024-06-17T10:09:18.319988+00:00
+
+ ## IACR Communications in Cryptology
+ - [https://cic.iacr.org](https://cic.iacr.org)
+ - date_published: 2024-07-04T17:05:09.656261+00:00
+
+ ## Crypto 2024
+ - [https://crypto.iacr.org](https://crypto.iacr.org)
+ - date_published: 2024-07-04T17:05:04.180920+00:00
+
+ ## Cryptology ePrint Archive
+ - [https://eprint.iacr.org](https://eprint.iacr.org)
+ - date_published: 2023-10-25T21:29:46.021630+00:00
+
+ ## Eurocrypt 2024
+ - [https://eurocrypt.iacr.org](https://eurocrypt.iacr.org)
+ - date_published: 2024-05-04T15:30:38.028015+00:00
+
+ ## FSE 2024
+ - [https://fse.iacr.org](https://fse.iacr.org)
+ - date_published: 2024-06-17T10:09:13.000082+00:00
+
+ ## The International Association for Cryptologic Research
+ - [https://iacr.org](https://iacr.org)
+ - date_published: 2024-04-28T17:58:15.470255+00:00
+ - tags: ['organisation', 'crypto']
+
+ ## PKC 2025
+ - [https://pkc.iacr.org](https://pkc.iacr.org)
+ - date_published: 2024-07-04T17:05:05.072245+00:00
+
+ ## The International Association for Cryptologic Research
+ - [https://register.iacr.org](https://register.iacr.org)
+ - date_published: 2024-07-04T17:05:06.696091+00:00
+
+ ## RWC
+ - [https://rwc.iacr.org](https://rwc.iacr.org)
+ - date_published: 2024-05-02T09:52:12.993636+00:00
+
+ ## TCC 2024
+ - [https://tcc.iacr.org](https://tcc.iacr.org)
+ - date_published: 2024-07-04T17:04:59.730295+00:00
+
+ ## IACR Transactions on Cryptographic Hardware and Embedded Systems
+ - [https://tches.iacr.org](https://tches.iacr.org)
+ - date_published: 2024-07-04T17:04:58.388409+00:00
+
+ ## IACR Transactions on Symmetric Cryptology
+ - [https://tosc.iacr.org](https://tosc.iacr.org)
+ - date_published: 2024-05-02T09:52:00.236523+00:00
+
+ ## International Association of Computer Science and  Information Technology (IACSIT)
+ - [http://www.iacsit.org](http://www.iacsit.org)
+ - date_published: 2024-10-29T17:21:38.861085+00:00
+
+ ## Inicio - Blog del Banco Interamericano de Desarrollo
+ - [https://blogs.iadb.org](https://blogs.iadb.org)
+ - date_published: 2024-09-11T17:22:19.421594+00:00
+
+ ## Code for Development | Home
+ - [https://code.iadb.org](https://code.iadb.org)
+ - date_published: 2024-09-11T17:21:58.696303+00:00
+
+ ## Cursos | BID | INDES | APRENDIZAJE PARA AMÉRICA LATINA Y EL CARIBE
+ - [https://cursos.iadb.org](https://cursos.iadb.org)
+ - date_published: 2024-09-11T08:27:54+00:00
+
+ ## IDB | Inter American Development Bank
+ - [https://iadb.org](https://iadb.org)
+ - date_published: 2024-06-12T11:04:07.842313+00:00
+
+ ## Home | MICI - IDB Group
+ - [https://mici.iadb.org](https://mici.iadb.org)
+ - date_published: 2024-09-11T17:22:13.404821+00:00
+
  ## IDB | Inter American Development Bank
  - [https://migraciones.iadb.org](https://migraciones.iadb.org)
  - date_published: 2024-09-10T20:37:18+00:00
@@ -3803,217 +4017,4 @@
  ## IndieAuth
  - [https://indieauth.spec.indieweb.org](https://indieauth.spec.indieweb.org)
  - date_published: 2022-02-12T00:00:00+00:00
-
- ## IndieWeb
- - [https://indieweb.org](https://indieweb.org)
- - date_published: 2023-10-25T11:34:51.031707+00:00
- - tags: ['personal sites source', 'indieweb']
-
- ## JF2 Post Serialization Format
- - [http://jf2.spec.indieweb.org](http://jf2.spec.indieweb.org)
- - date_published: 2023-10-12T20:32:09+00:00
-
- ## Micropub
- - [https://micropub.spec.indieweb.org](https://micropub.spec.indieweb.org)
- - date_published: 2020-07-25T00:00:00+00:00
-
- ## IndieNews homepage
- - [https://news.indieweb.org](https://news.indieweb.org)
- - date_published: 2024-05-06T14:58:41.780457+00:00
-
- ## IndieWeb
- - [http://planet.indieweb.org](http://planet.indieweb.org)
- - date_published: 2024-06-30T21:21:29.728501+00:00
-
- ## Standards — IndieWeb
- - [https://spec.indieweb.org](https://spec.indieweb.org)
- - date_published: 2024-02-20T18:30:56+00:00
-
- ## IndieWeb
- - [https://stream.indieweb.org](https://stream.indieweb.org)
- - date_published: 2024-05-02T07:51:06.716245+00:00
-
- ## Independent Wiki Federation
- - [https://indiewikifederation.org](https://indiewikifederation.org)
- - date_published: 2024-05-02T13:29:49.363669+00:00
-
- ## Indigefi - Modern Indigenous music
- - [https://www.indigefi.org](https://www.indigefi.org)
- - date_published: 2024-07-07T05:14:32.617040+00:00
-
- ## Indigenous Language Institute: Preserving Linguistic Diversity
- - [http://www.indigenous-language.org](http://www.indigenous-language.org)
- - date_published: 2024-07-02T09:15:02.800598+00:00
-
- ## Indigenous Values Initiative
- - [https://indigenousvalues.org](https://indigenousvalues.org)
- - date_published: 2024-02-27T15:54:31+00:00
-
- ## Indikator - Smarta enkäter för stora insikter
- - [https://www.indikator.org](https://www.indikator.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## We Are Indivisible: A Blueprint for Democracy After Trump
- - [https://book.indivisible.org](https://book.indivisible.org)
- - date_published: 2024-07-15T07:35:58.492221+00:00
-
- ## Homepage
- - [https://indivisible.org](https://indivisible.org)
- - date_published: 2024-07-10T13:39:46+00:00
-
- ## Indivisible Webstore
- - [https://store.indivisible.org](https://store.indivisible.org)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Indocrypt 2011: Introduction
- - [http://2011.indocrypt.org](http://2011.indocrypt.org)
- - date_published: 2013-10-25T00:21:21+00:00
-
- ## Indusresearch – Game Survival untuk Android dan iOS Terbaik di 2024
- - [https://indusresearch.org](https://indusresearch.org)
- - date_published: 2024-08-20T04:14:40.295055+00:00
-
- ## Hack the Grid
- - [https://hackthegrid.industeeltech.org](https://hackthegrid.industeeltech.org)
- - date_published: 2024-06-20T15:19:40.922232+00:00
-
- ## IDTA – Der Standard für den Digitalen Zwilling - Startseite
- - [https://industrialdigitaltwin.org](https://industrialdigitaltwin.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Start page EN
- - [http://www.industriall-union.org](http://www.industriall-union.org)
- - date_published: 2019-03-06T11:11:23+00:00
-
- ## Industrial Strategy Council
- - [https://industrialstrategycouncil.org](https://industrialstrategycouncil.org)
- - date_published: 2024-10-21T11:56:57.503080+00:00
-
- ## Industrious Labs
- - [https://industriouslabs.org](https://industriouslabs.org)
- - date_published: 2024-06-21T11:39:05.315287+00:00
-
- ## Industry Network Technology Council – Your Voice in Network Standards Development
- - [https://industrynetcouncil.org](https://industrynetcouncil.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Indy Contra Dance
- - [http://www.indycontra.org](http://www.indycontra.org)
- - date_published: 2024-08-20T05:20:53.458422+00:00
-
- ## IndyHacks
- - [https://www.indyhacks.org](https://www.indyhacks.org)
- - date_published: 2023-11-10T02:16:09+00:00
-
- ## We think working alone sucks.
- - [https://www.indyhall.org](https://www.indyhall.org)
- - date_published: 2024-06-20T17:54:41+00:00
-
- ## Indymedia Nantes
- - [https://nantes.indymedia.org](https://nantes.indymedia.org)
- - date_published: 2024-08-18T19:43:47.891972+00:00
-
- ## Indymedia Scotland
- - [http://www.indymediascotland.org](http://www.indymediascotland.org)
- - date_published: 2024-10-21T14:44:03.828365+00:00
-
- ## Home | Indianapolis Public Library
- - [https://www.indypl.org](https://www.indypl.org)
- - date_published: 2024-06-27T17:33:43.846373+00:00
-
- ## IndyPy | Meetup
- - [https://indypy.org](https://indypy.org)
- - date_published: 2024-07-02T23:42:32.456971+00:00
-
- ## Inequality.org
- - [https://inequality.org](https://inequality.org)
- - date_published: 2024-08-08T16:08:11.602255+00:00
-
- ## Global Council on Inequality, AIDS and Pandemics
- - [https://www.inequalitycouncil.org](https://www.inequalitycouncil.org)
- - date_published: 2020-02-05T21:33:10+00:00
-
- ## News | International Network of Engineers And Scientists Against Proliferation
- - [http://www.inesap.org](http://www.inesap.org)
- - date_published: 2024-06-28T20:24:56+00:00
-
- ## Institute for New Economic Thinking | Institute for New Economic Thinking
- - [https://ineteconomics.org](https://ineteconomics.org)
- - date_published: 2023-10-25T21:31:33.465007+00:00
-
- ## YSI INET
- - [https://ysi.ineteconomics.org](https://ysi.ineteconomics.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## INetSim: Internet Services Simulation Suite - Project Homepage
- - [http://www.inetsim.org](http://www.inetsim.org)
- - date_published: 2020-05-19T15:11:14+00:00
-
- ## Inexact Change
- - [http://inexactchange.org](http://inexactchange.org)
- - date_published: 2015-08-30T00:00:00+00:00
-
- ## Inexor
- - [https://inexor.org](https://inexor.org)
- - date_published: 2024-05-09T09:07:18.533579+00:00
-
- ## Home - InfAI
- - [https://infai.org](https://infai.org)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Home - Infantile Spasms Action Network
- - [https://infantilespasms.org](https://infantilespasms.org)
- - date_published: 2019-11-23T22:24:11+00:00
-
- ## Charity Fund Kids Without Fear
- - [https://infear.org](https://infear.org)
- - date_published: 2024-08-15T21:15:06+00:00
-
- ## Infectious Generosity
- - [https://www.infectiousgenerosity.org](https://www.infectiousgenerosity.org)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Inferno
- - [https://infernojs.org](https://infernojs.org)
- - date_published: 2024-05-08T09:00:00.302567+00:00
-
- ## Infertility: A Diabolical Agenda
- - [https://infertilitymovie.org](https://infertilitymovie.org)
- - date_published: 2024-08-18T20:08:14.032535+00:00
-
- ## Internet Infidels » a drop of reason in a pool of confusion
- - [http://www.infidels.org](http://www.infidels.org)
- - date_published: 2024-07-02T06:10:10.494810+00:00
-
- ## Infiltration
- - [http://infiltration.org](http://infiltration.org)
- - date_published: 2023-12-07T12:51:29+00:00
-
- ## Infinispan
- - [https://infinispan.org](https://infinispan.org)
- - date_published: 2024-07-09T13:42:15+00:00
-
- ## Login | Littleton Public Schools
- - [https://littletonco.infinitecampus.org](https://littletonco.infinitecampus.org)
- - date_published: 2024-07-15T07:37:17.594168+00:00
-
- ## Infinite Mac
- - [https://infinitemac.org](https://infinitemac.org)
- - date_published: 2023-10-25T21:31:41.996518+00:00
-
- ## whitespaced's Webpage
- - [https://infisoft.org](https://infisoft.org)
- - date_published: 2024-06-12T22:01:06+00:00
-
- ## Home
- - [https://influencemap.org](https://influencemap.org)
- - date_published: 2024-07-20T15:33:05.958950+00:00
-
- ## Home - InfluenceWatch - InfluenceWatch
- - [https://influencewatch.org](https://influencewatch.org)
- - date_published: 2023-10-25T21:31:45.921130+00:00
-
- ## Infoaut
- - [https://www.infoaut.org](https://www.infoaut.org)
- - date_published: 2024-06-23T20:29:34.436798+00:00
 

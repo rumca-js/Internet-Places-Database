@@ -1,3 +1,11 @@
+ ## Hoarder
+ - [https://try.hoarder.app](https://try.hoarder.app)
+ - date_published: 2024-05-14T03:46:16.964834+00:00
+
+ ## Holy Swift
+ - [https://holyswift.app](https://holyswift.app)
+ - date_published: 2023-10-25T11:46:47.493330+00:00
+
  ## Home Care App
  - [https://home-care.app](https://home-care.app)
  - date_published: 2022-07-20T06:08:45+00:00
@@ -1792,6 +1800,10 @@
  ## King Arthur Mega Menu
  - [https://kab-megamenu-prod.netlify.app](https://kab-megamenu-prod.netlify.app)
  - date_published: 2024-10-17T22:49:22.761194+00:00
+
+ ## KAD - Przekręty
+ - [https://kadantiscam.netlify.app](https://kadantiscam.netlify.app)
+ - date_published: 2024-11-19T14:30:35.575291+00:00
 
  ## Academic
  - [https://kavitshah.netlify.app](https://kavitshah.netlify.app)
@@ -4026,16 +4038,4 @@
  ## Code Shrew
  - [https://shrew.app](https://shrew.app)
  - date_published: 2024-07-12T17:42:01.232844+00:00
-
- ## Newsroom • Sidetrack
- - [https://blog.sidetrack.app](https://blog.sidetrack.app)
- - date_published: 2024-06-23T15:08:11.349556+00:00
-
- ## Signet App – Your digital identity and security of communications at your palm
- - [https://signet.app](https://signet.app)
- - date_published: 2023-06-26T21:31:40+00:00
-
- ## What is SillyTavern? | docs.ST.app
- - [https://docs.sillytavern.app](https://docs.sillytavern.app)
- - date_published: 2024-10-28T15:32:33+00:00
 

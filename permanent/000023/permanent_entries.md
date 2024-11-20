@@ -1,3 +1,19 @@
+ ## Tech demos I've written | André Jaenisch
+ - [https://archive.jaenis.ch](https://archive.jaenis.ch)
+ - date_published: 2024-03-22T10:24:27+00:00
+
+ ## Cheat sheets | André Jaenisch
+ - [https://cheatsheets.jaenis.ch](https://cheatsheets.jaenis.ch)
+ - date_published: 2023-08-11T10:59:48+00:00
+
+ ## Forgejo: Beyond coding. We Forge.
+ - [https://code.jaenis.ch](https://code.jaenis.ch)
+ - date_published: 2024-07-21T05:51:32.844446+00:00
+
+ ## Tech demos I've written | André Jaenisch
+ - [https://demo.jaenis.ch](https://demo.jaenis.ch)
+ - date_published: 2023-08-11T10:56:48+00:00
+
  ## @storybook/cli - Storybook
  - [https://design.jaenis.ch](https://design.jaenis.ch)
  - date_published: 2024-04-30T06:05:07.577124+00:00
@@ -4004,20 +4020,4 @@ Fakultät | Universität Basel
  ## Neuigkeiten - VSV - AUPS
  - [https://www.up-vhs.ch](https://www.up-vhs.ch)
  - date_published: 2024-09-15T00:02:44.944947+00:00
-
- ## LES URBAINES
- - [http://urbaines.ch](http://urbaines.ch)
- - date_published: 2024-07-13T15:16:25.609184+00:00
-
- ## Urner Wochenblatt
- - [https://www.urnerwochenblatt.ch](https://www.urnerwochenblatt.ch)
- - date_published: 2024-06-27T10:56:57.511314+00:00
-
- ## BlueChilli Art Studio, Einfach Du & Best4Web: Kalligraphie und Kunst, Coaching und Begleitung, Webdesign und mehr by Ursi Spaltenstein
- - [http://www.ursispaltenstein.ch](http://www.ursispaltenstein.ch)
- - date_published: 2023-09-26T16:01:21+00:00
-
- ## USI – Informazioni pratiche
- - [https://desk.usi.ch](https://desk.usi.ch)
- - date_published: 2024-07-21T05:15:10+00:00
 

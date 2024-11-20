@@ -1,3 +1,183 @@
+ ## University of Maryland Eastern Shore | The Eastern Shore's Doctoral Research Institution
+ - [http://www.umes.edu](http://www.umes.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home of the Bengals | UMFK Athletics
+ - [https://athletics.umfk.edu](https://athletics.umfk.edu)
+ - date_published: 2024-05-07T21:27:36.965110+00:00
+
+ ## University of Maine at Fort Kent - Campus Store
+ - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
+ - date_published: 2024-05-07T21:27:42.767417+00:00
+
+ ## University of Maine at Fort Kent - Acalog ACMS™
+ - [https://catalog.umfk.edu](https://catalog.umfk.edu)
+ - date_published: 2024-05-07T21:27:32.625402+00:00
+
+ ## Please select your identity provider. - UMFK - UMS
+ - [https://my.umfk.edu](https://my.umfk.edu)
+ - date_published: 2024-07-01T02:52:23.781146+00:00
+
+ ## University of Maine at Fort Kent - UMFK
+ - [https://umfk.edu](https://umfk.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## University of Michigan - Flint - Acalog ACMS™
+ - [http://catalog.umflint.edu](http://catalog.umflint.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## CDN | University of Michigan-Flint
+ - [https://cdn.umflint.edu](https://cdn.umflint.edu)
+ - date_published: 2021-12-22T19:23:00+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://go.umflint.edu](https://go.umflint.edu)
+ - date_published: 2024-07-02T03:41:23.633555+00:00
+
+ ## Home
+ - [https://helpdesk.umflint.edu](https://helpdesk.umflint.edu)
+ - date_published: 2024-09-28T23:28:21.843012+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://intranet.umflint.edu](https://intranet.umflint.edu)
+ - date_published: 2024-07-02T03:40:46.273311+00:00
+
+ ## VMware Horizon
+ - [https://labanywhere.umflint.edu](https://labanywhere.umflint.edu)
+ - date_published: 2024-07-02T03:41:19.259377+00:00
+
+ ## LibGuides
+ - [https://libguides.umflint.edu](https://libguides.umflint.edu)
+ - date_published: 2024-07-02T03:40:43.961503+00:00
+
+ ## Campus Map – University of Michigan-Flint
+ - [https://maps.umflint.edu](https://maps.umflint.edu)
+ - date_published: 2024-07-02T03:41:13.583824+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://my.umflint.edu](https://my.umflint.edu)
+ - date_published: 2024-07-02T03:41:18.177070+00:00
+
+ ## UM-Flint NOW
+ - [https://news.umflint.edu](https://news.umflint.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Weblogin | University of Michigan-Flint
+ - [https://pay.umflint.edu](https://pay.umflint.edu)
+ - date_published: 2024-07-02T03:41:21.368761+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.web.umflint.edu](https://plausible.web.umflint.edu)
+ - date_published: 2024-10-03T20:46:54.196484+00:00
+
+ ## University of Michigan-Flint – UM-Flint
+ - [https://umflint.edu](https://umflint.edu)
+ - date_published: 2024-06-16T11:47:29.972882+00:00
+
+ ## Faculty, Adjunct, and University Jobs | UMGC Careers
+ - [https://careers.umgc.edu](https://careers.umgc.edu)
+ - date_published: 2024-07-02T03:25:32.702711+00:00
+
+ ## University of Maryland Global Campus | UMGC
+ - [https://www.umgc.edu](https://www.umgc.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Welcome | U-M Academic Technology
+ - [https://academictechnology.umich.edu](https://academictechnology.umich.edu)
+ - date_published: 2024-10-03T20:38:13+00:00
+
+ ## IT Accessibility at the University of Michigan | accessibility.umich.edu
+ - [https://accessibility.umich.edu](https://accessibility.umich.edu)
+ - date_published: 2024-05-11T09:25:02.272773+00:00
+
+ ## Associate Dean for Academic Affairs – About the Associate Dean for Academic Affairs
+ - [https://adaa.engin.umich.edu](https://adaa.engin.umich.edu)
+ - date_published: 2024-07-02T03:52:58+00:00
+
+ ## Associate Dean for Graduate & Professional Education – Home for the Associate Dean for Graduate & Professional Education
+ - [https://adgpe.engin.umich.edu](https://adgpe.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:47.525218+00:00
+
+ ## Prospective Students - Office of Undergraduate Admissions
+ - [https://admissions.mivideo.it.umich.edu](https://admissions.mivideo.it.umich.edu)
+ - date_published: 2024-10-03T20:57:54+00:00
+
+ ## Home | University of Michigan Office of Undergraduate Admissions
+ - [https://admissions.umich.edu](https://admissions.umich.edu)
+ - date_published: 2024-06-13T17:09:38+00:00
+
+ ## Associate Dean for Research – Home for the Associate Dean for Research
+ - [https://adr.engin.umich.edu](https://adr.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:03+00:00
+
+ ## Associate Dean for Undergraduate Education |
+ - [https://adue.engin.umich.edu](https://adue.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:24.740306+00:00
+
+ ## Advancement – Office of Advancement, College of Engineering
+ - [https://advancement.engin.umich.edu](https://advancement.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:20+00:00
+
+ ## Index of /
+ - [https://ai.eecs.umich.edu](https://ai.eecs.umich.edu)
+ - date_published: 2023-10-25T19:02:06.146914+00:00
+
+ ## Alumni Association of the University of Michigan
+ - [http://alumni.umich.edu](http://alumni.umich.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.vpcomm.umich.edu](https://analytics.vpcomm.umich.edu)
+ - date_published: 2024-10-29T08:11:21.503808+00:00
+
+ ## ADW: Home
+ - [https://animaldiversity.ummz.umich.edu](https://animaldiversity.ummz.umich.edu)
+ - date_published: 2024-05-07T22:31:35.712086+00:00
+
+ ## University of Michigan Library
+ - [https://apps.lib.umich.edu](https://apps.lib.umich.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## APRIL Laboratory APRIL Laboratory : Autonomy * Perception * Robotics * Interfaces * Learning
+ - [https://april.eecs.umich.edu](https://april.eecs.umich.edu)
+ - date_published: 2024-06-17T03:06:00.561030+00:00
+
+ ## Advanced Research Computing (ARC) / U-M Information and Technology Services
+ - [https://arc.umich.edu](https://arc.umich.edu)
+ - date_published: 2024-09-28T22:35:07+00:00
+
+ ## Home - Arts at Michigan
+ - [https://artsatmichigan.umich.edu](https://artsatmichigan.umich.edu)
+ - date_published: 2024-07-02T03:55:26.980270+00:00
+
+ ## Homepage | Arts & Culture
+ - [https://arts.umich.edu](https://arts.umich.edu)
+ - date_published: 2024-05-07T21:29:05.670819+00:00
+
+ ## Home | Research A to Z
+ - [https://az.research.umich.edu](https://az.research.umich.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Blog | University of Michigan Press
+ - [http://blog.press.umich.edu](http://blog.press.umich.edu)
+ - date_published: 2024-06-17T14:08:58+00:00
+
+ ## Biomedical Engineering - BME
+ - [https://bme.umich.edu](https://bme.umich.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Bold Challenges - U-M Research
+ - [https://boldchallenges.umich.edu](https://boldchallenges.umich.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Brand & Visual Identity – University of Michigan – Brand and Visual Identity
+ - [https://brand.umich.edu](https://brand.umich.edu)
+ - date_published: 2024-07-02T03:48:46.293377+00:00
+
+ ## Biomedical Research Core Facilities (BRCF) | University of Michigan Medical School Research
+ - [https://brcf.medicine.umich.edu](https://brcf.medicine.umich.edu)
+ - date_published: 2024-07-01T22:25:06+00:00
+
  ## CAEN – Michigan Engineering Information Technology
  - [https://caen.engin.umich.edu](https://caen.engin.umich.edu)
  - date_published: 2024-07-02T03:53:08+00:00
@@ -3840,184 +4020,4 @@ Center for Information Technology Integration
              | The University of New Mexico
  - [https://grad.unm.edu](https://grad.unm.edu)
  - date_published: 2024-05-07T15:45:25+00:00
-
- ## Fraternity & Sorority Life | The University of New Mexico
- - [http://greeks.unm.edu](http://greeks.unm.edu)
- - date_published: 2024-05-15T18:59:21+00:00
-
- ## Service Desk
- - [https://help.unm.edu](https://help.unm.edu)
- - date_published: 2024-07-02T05:10:30.529764+00:00
-
- ## Honors College | The University of New Mexico
- - [http://honors.unm.edu](http://honors.unm.edu)
- - date_published: 2024-06-04T14:06:46+00:00
-
- ## UNM Health System  | Albuquerque, New Mexico
- - [http://hospitals.unm.edu](http://hospitals.unm.edu)
- - date_published: 2024-05-07T21:43:42.185086+00:00
-
- ## Residence Life & Student Housing | The University of New Mexico
- - [https://housing.unm.edu](https://housing.unm.edu)
- - date_published: 2024-06-26T21:41:59+00:00
-
- ## Home :: Human Resources | The University of New Mexico
- - [https://hr.unm.edu](https://hr.unm.edu)
- - date_published: 2024-07-02T05:16:31.253677+00:00
-
- ## Newsroom | UNM Health Sciences
- - [https://hscnews.unm.edu](https://hscnews.unm.edu)
- - date_published: 2024-05-07T21:44:33.932111+00:00
-
- ## UNM Health Sciences Center
- - [https://hsc.unm.edu](https://hsc.unm.edu)
- - date_published: 2024-05-19T15:03:42.996265+00:00
-
- ## Health Sciences Library & Informatics Center
- - [https://hslic.unm.edu](https://hslic.unm.edu)
- - date_published: 2024-07-01T16:51:04+00:00
-
- ## UNM and the Alliance of Hispanic Serving Research Universities | The University of New Mexico
- - [https://hsru.unm.edu](https://hsru.unm.edu)
- - date_published: 2022-10-17T17:16:55+00:00
-
- ## International Admissions | The University of New Mexico
- - [https://international.unm.edu](https://international.unm.edu)
- - date_published: 2024-06-05T17:12:37+00:00
-
- ## UNM Information Security & Privacy Office | The University of New Mexico
- - [https://ispo.unm.edu](https://ispo.unm.edu)
- - date_published: 2024-05-03T19:52:59+00:00
-
- ## IT Alerts :: Information Technologies | The University of New Mexico
- - [https://italerts.unm.edu](https://italerts.unm.edu)
- - date_published: 2024-07-02T05:10:33.948986+00:00
-
- ## UNM IT Events | The University of New Mexico
- - [https://itevents.unm.edu](https://itevents.unm.edu)
- - date_published: 2024-01-18T23:58:58+00:00
-
- ## Sign in to your account
- - [http://itinternal.unm.edu](http://itinternal.unm.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Information Technologies | The University of New Mexico
- - [http://it.unm.edu](http://it.unm.edu)
- - date_published: 2024-06-21T22:22:58+00:00
-
- ## Landscape Architecture | The University of New Mexico
- - [http://landscape.unm.edu](http://landscape.unm.edu)
- - date_published: 2024-04-19T17:50:59+00:00
-
- ## School of Law | The University of New Mexico
- - [http://lawschool.unm.edu](http://lawschool.unm.edu)
- - date_published: 2024-08-17T11:04:05+00:00
-
- ## University Libraries | The University of New Mexico
- - [https://library.unm.edu](https://library.unm.edu)
- - date_published: 2024-07-02T05:10:17.441502+00:00
-
- ## LoboAchieve
- - [https://loboachieve.unm.edu](https://loboachieve.unm.edu)
- - date_published: 2024-05-30T21:26:57+00:00
-
- ## LoboCard Office | The University of New Mexico
- - [http://lobocash.unm.edu](http://lobocash.unm.edu)
- - date_published: 2024-07-02T05:11:13.155991+00:00
-
- ## Each of us defines all of us | The University of New Mexico
- - [https://lobograd.unm.edu](https://lobograd.unm.edu)
- - date_published: 2024-05-10T22:54:58+00:00
-
- ## The Lobo Life
- - [https://lobolife.unm.edu](https://lobolife.unm.edu)
- - date_published: 2024-07-02T05:17:07.832525+00:00
-
- ## Sign in to Outlook
- - [http://lobomail.unm.edu](http://lobomail.unm.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## LoboRESPECT Advocacy Center | The University of New Mexico
- - [https://loborespect.unm.edu](https://loborespect.unm.edu)
- - date_published: 2023-09-05T18:21:34+00:00
-
- ## Sign in to your account
- - [https://login.unm.edu](https://login.unm.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Mailing, Shipping & Receiving | The University of New Mexico
- - [http://mailingsystems.unm.edu](http://mailingsystems.unm.edu)
- - date_published: 2024-03-19T15:23:36+00:00
-
- ## UNM Location Search
- - [https://map.unm.edu](https://map.unm.edu)
- - date_published: 2024-07-02T05:05:01.878468+00:00
-
- ## Marketing & Communication | The University of New Mexico
- - [https://marcomm.unm.edu](https://marcomm.unm.edu)
- - date_published: 2021-08-06T16:31:23+00:00
-
- ## Mid Week Movies | The University of New Mexico
- - [http://movies.unm.edu](http://movies.unm.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## myUNM | The University of New Mexico
- - [https://my.unm.edu](https://my.unm.edu)
- - date_published: 2023-07-15T00:13:35+00:00
-
- ## UNM Newsroom: UNM Newsroom
- - [https://news.unm.edu](https://news.unm.edu)
- - date_published: 2023-10-25T19:03:42.977458+00:00
-
- ## NM Hack | The University of New Mexico
- - [https://nmhack.unm.edu](https://nmhack.unm.edu)
- - date_published: 2020-10-14T13:16:06+00:00
-
- ## National Student Exchange | The University of New Mexico
- - [http://nse.unm.edu](http://nse.unm.edu)
- - date_published: 2024-05-14T16:54:29+00:00
-
- ## New Student Orientation | The University of New Mexico
- - [http://nso.unm.edu](http://nso.unm.edu)
- - date_published: 2024-03-12T17:21:43+00:00
-
- ## Off-Campus Housing | The University of New Mexico
- - [http://och.unm.edu](http://och.unm.edu)
- - date_published: 2023-10-06T21:54:11+00:00
-
- ## Compliance, Ethics & Equal Opportunity | The University of New Mexico
- - [http://oeo.unm.edu](http://oeo.unm.edu)
- - date_published: 2024-05-29T19:54:19+00:00
-
- ## Office of Institutional Analytics | The University of New Mexico
- - [http://oia.unm.edu](http://oia.unm.edu)
- - date_published: 2024-03-11T17:28:29+00:00
-
- ## UNM 2040: Opportunity Defined | The University of New Mexico
- - [https://opportunity.unm.edu](https://opportunity.unm.edu)
- - date_published: 2022-05-11T18:40:12+00:00
-
- ## Office of Parents & Families | The University of New Mexico
- - [https://parent.unm.edu](https://parent.unm.edu)
- - date_published: 2024-05-07T21:44:02.609719+00:00
-
- ## UNM Passport Acceptance Center | The University of New Mexico
- - [https://passport.unm.edu](https://passport.unm.edu)
- - date_published: 2024-06-29T13:44:35+00:00
-
- ## The Pathfinder - UNM Student Handbook | The University of New Mexico
- - [http://pathfinder.unm.edu](http://pathfinder.unm.edu)
- - date_published: 2023-09-05T16:19:21+00:00
-
- ## Pathology | UNM School of Medicine  | School of Medicine
- - [https://pathology.unm.edu](https://pathology.unm.edu)
- - date_published: 2024-07-02T09:22:48+00:00
-
- ## Payroll Office | The University of New Mexico
- - [http://payroll.unm.edu](http://payroll.unm.edu)
- - date_published: 2024-06-26T19:44:08+00:00
-
- ## | The University of New Mexico
- - [https://pnmgc.unm.edu](https://pnmgc.unm.edu)
- - date_published: 2024-06-10T15:58:09+00:00
 

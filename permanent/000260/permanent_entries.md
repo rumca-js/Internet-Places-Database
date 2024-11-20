@@ -1,3 +1,183 @@
+ ## Home Page - Title IX at Georgetown University
+ - [https://titleix.georgetown.edu](https://titleix.georgetown.edu)
+ - date_published: 2024-09-02T13:07:08.546381+00:00
+
+ ## Georgetown Today - Georgetown Today
+ - [https://today.advancement.georgetown.edu](https://today.advancement.georgetown.edu)
+ - date_published: 2024-05-11T07:22:18.614196+00:00
+
+ ## Home Page - Tumor Biology Program
+ - [https://tumorbiology.georgetown.edu](https://tumorbiology.georgetown.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home Page - Office of Undergraduate Admissions
+ - [https://uadmissions.georgetown.edu](https://uadmissions.georgetown.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home Page - Office of Undergraduate Admissions
+ - [https://uapply.georgetown.edu](https://uapply.georgetown.edu)
+ - date_published: 2024-10-22T05:40:38.725226+00:00
+
+ ## Home Page - University Information Services
+ - [https://uis.georgetown.edu](https://uis.georgetown.edu)
+ - date_published: 2024-10-18T18:42:13.696689+00:00
+
+ ## China Main Homepage
+ - [https://uschinadialogue.georgetown.edu](https://uschinadialogue.georgetown.edu)
+ - date_published: 2024-10-22T05:42:53.632085+00:00
+
+ ## - Military and Veterans' Resource Center
+ - [https://veterans.georgetown.edu](https://veterans.georgetown.edu)
+ - date_published: 2024-10-22T05:40:22.926956+00:00
+
+ ## Home Page - Writing Center
+ - [https://writingcenter.georgetown.edu](https://writingcenter.georgetown.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Georgetown Law
+ - [https://www.law.georgetown.edu](https://www.law.georgetown.edu)
+ - date_published: 2024-06-15T18:57:13.523802+00:00
+
+ ## GU-Q - Georgetown University in Qatar
+ - [https://www.qatar.georgetown.edu](https://www.qatar.georgetown.edu)
+ - date_published: 2024-10-22T05:42:55.683581+00:00
+
+ ## Events Calendar
+ - [https://calendar.georgiasouthern.edu](https://calendar.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:50.022669+00:00
+
+ ## Georgia Southern University
+ - [https://cdn.georgiasouthern.edu](https://cdn.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:31.176001+00:00
+
+ ## Course Schedule | Georgia Southern University
+ - [https://coursesearch.georgiasouthern.edu](https://coursesearch.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:38.281083+00:00
+
+ ## Home | Directory | Georgia Southern University
+ - [https://directory.georgiasouthern.edu](https://directory.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:52.017931+00:00
+
+ ## Executive Vice President | Georgia Southern University
+ - [https://em.georgiasouthern.edu](https://em.georgiasouthern.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Georgia Southern University | A Public Research University
+ - [https://georgiasouthern.edu](https://georgiasouthern.edu)
+ - date_published: 2014-05-30T17:42:01+00:00
+
+ ## BlueConic: Log In
+ - [https://m516.georgiasouthern.edu](https://m516.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:32.680537+00:00
+
+ ## MyGeorgiaSouthern Portal
+ - [https://my.georgiasouthern.edu](https://my.georgiasouthern.edu)
+ - date_published: 2024-07-03T12:32:43.664803+00:00
+
+ ## Georgia Southern University Newsroom
+ - [https://news.georgiasouthern.edu](https://news.georgiasouthern.edu)
+ - date_published: 2020-11-02T16:54:46+00:00
+
+ ## Getty: Resources for Visual Art and Cultural Heritage
+ - [https://getty.edu](https://getty.edu)
+ - date_published: 2024-01-09T02:59:10.633338+00:00
+
+ ## News & Stories | Getty
+ - [http://news.getty.edu](http://news.getty.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Collecting & Provenance Research (Getty Research Institute)
+ - [http://piprod.getty.edu](http://piprod.getty.edu)
+ - date_published: 2023-09-28T17:16:34+00:00
+
+ ## The Getty Museum Store
+ - [https://shop.getty.edu](https://shop.getty.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://subscriptions.getty.edu](https://subscriptions.getty.edu)
+ - date_published: 2024-04-30T04:25:35.695582+00:00
+
+ ## Gettysburg College Institutional Repository
+ - [https://cupola.gettysburg.edu](https://cupola.gettysburg.edu)
+ - date_published: 2024-07-02T10:48:07.071821+00:00
+
+ ## Golden Gate University - Modern Campus Catalog™
+ - [https://catalog.ggu.edu](https://catalog.ggu.edu)
+ - date_published: 2024-10-18T22:01:44.538345+00:00
+
+ ## Golden Gate University
+ - [https://ggu.edu](https://ggu.edu)
+ - date_published: 2024-10-18T22:01:42.245129+00:00
+
+ ## School of Law | Golden Gate University
+ - [http://law.ggu.edu](http://law.ggu.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Homepage - GGU Newsroom
+ - [https://newsroom.ggu.edu](https://newsroom.ggu.edu)
+ - date_published: 2024-10-18T22:01:46.981465+00:00
+
+ ## Gemological Institute Of America | All About Gemstones - GIA
+ - [https://www.gia.edu](https://www.gia.edu)
+ - date_published: 2024-07-15T02:08:20.755086+00:00
+
+ ## home
+ - [http://aaas.gmu.edu](http://aaas.gmu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## home
+ - [https://academicaffairs.chss.gmu.edu](https://academicaffairs.chss.gmu.edu)
+ - date_published: 2024-08-08T20:35:04.938286+00:00
+
+ ## Speech Accent Archive
+ - [https://accent.gmu.edu](https://accent.gmu.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Accessibility @ Mason – George Mason University
+ - [https://accessibility.gmu.edu](https://accessibility.gmu.edu)
+ - date_published: 2024-04-30T04:25:54.131087+00:00
+
+ ## The C. Boyden Gray Center
+ - [https://administrativestate.gmu.edu](https://administrativestate.gmu.edu)
+ - date_published: 2024-07-21T23:20:55.290857+00:00
+
+ ## Admissions and Financial Aid
+ - [http://admissions.gmu.edu](http://admissions.gmu.edu)
+ - date_published: 2024-08-08T20:50:44+00:00
+
+ ## Home Page - Academic Advising
+ - [https://advising.gmu.edu](https://advising.gmu.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home Page
+ - [https://alumni.gmu.edu](https://alumni.gmu.edu)
+ - date_published: 2024-04-30T04:29:06.154024+00:00
+
+ ## Home
+ - [http://arlington.gmu.edu](http://arlington.gmu.edu)
+ - date_published: 2024-08-10T21:41:38+00:00
+
+ ## George Mason University School of Art
+ - [https://art.gmu.edu](https://art.gmu.edu)
+ - date_published: 2024-07-21T16:59:53+00:00
+
+ ## Home
+ - [https://artsmanagement.gmu.edu](https://artsmanagement.gmu.edu)
+ - date_published: 2024-07-21T15:48:35+00:00
+
+ ## Assistive Technology Initiative
+ - [http://ati.gmu.edu](http://ati.gmu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## (no title)
+ - [https://bas.gmu.edu](https://bas.gmu.edu)
+ - date_published: 2024-08-08T20:35:00.803232+00:00
+
+ ## Home
+ - [https://bioengineering.gmu.edu](https://bioengineering.gmu.edu)
+ - date_published: 2024-08-11T00:48:36+00:00
+
  ## home
  - [https://bis.gmu.edu](https://bis.gmu.edu)
  - date_published: 2024-07-25T00:00:00+00:00
@@ -3828,184 +4008,4 @@ Action
  ## Sign in - Matomo
  - [https://trends.ent.iastate.edu](https://trends.ent.iastate.edu)
  - date_published: 2024-07-01T06:37:37.617462+00:00
-
- ## Department of Economics
- - [https://www2.econ.iastate.edu](https://www2.econ.iastate.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Iowa State University
- - [https://www.admissions.iastate.edu](https://www.admissions.iastate.edu)
- - date_published: 2024-08-09T03:40:14.648111+00:00
-
- ## Department of Aerospace Engineering – College of Engineering, Iowa State University
- - [https://www.aere.iastate.edu](https://www.aere.iastate.edu)
- - date_published: 2024-07-19T05:42:44.391251+00:00
-
- ## College of Agriculture and Life Sciences
- - [https://www.cals.iastate.edu](https://www.cals.iastate.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Center for Agricultural and Rural Development
- - [https://www.card.iastate.edu](https://www.card.iastate.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## CFSPH
- - [https://www.cfsph.iastate.edu](https://www.cfsph.iastate.edu)
- - date_published: 2024-07-01T16:16:42.236858+00:00
-
- ## Department of Computer Science
- - [http://www.cs.iastate.edu](http://www.cs.iastate.edu)
- - date_published: 2024-08-18T22:39:28+00:00
-
- ## College of Design – Iowa State University College of Design
- - [https://www.design.iastate.edu](https://www.design.iastate.edu)
- - date_published: 2024-08-06T18:25:46+00:00
-
- ## Diversity, Equity and Inclusion
- - [https://www.diversity.iastate.edu](https://www.diversity.iastate.edu)
- - date_published: 2024-07-01T06:37:35.223172+00:00
-
- ## Department of Economics
- - [https://www.econ.iastate.edu](https://www.econ.iastate.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## College of Engineering - Iowa State University
- - [http://www.engineering.iastate.edu](http://www.engineering.iastate.edu)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Equal Opportunity
- - [http://www.eoc.iastate.edu](http://www.eoc.iastate.edu)
- - date_published: 2024-10-15T05:23:16.019802+00:00
-
- ## Events • Events Calendar • Iowa State University
- - [https://www.event.iastate.edu](https://www.event.iastate.edu)
- - date_published: 2024-07-03T18:11:56.464078+00:00
-
- ## Facilities Planning and Management
- - [http://www.fpm.iastate.edu](http://www.fpm.iastate.edu)
- - date_published: 2024-07-09T13:09:15.500062+00:00
-
- ## Iowa State Graduate College - Graduate College - Iowa State University
- - [http://www.grad-college.iastate.edu](http://www.grad-college.iastate.edu)
- - date_published: 2024-07-09T13:09:08.390246+00:00
-
- ## Home - Department of Horticulture
- - [https://www.hort.iastate.edu](https://www.hort.iastate.edu)
- - date_published: 2024-06-16T22:36:23.839976+00:00
-
- ## Information Technology Services
- - [https://www.it.iastate.edu](https://www.it.iastate.edu)
- - date_published: 2024-07-01T06:37:33.951242+00:00
-
- ## Home
- - [https://www.ivybusiness.iastate.edu](https://www.ivybusiness.iastate.edu)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## University Library
- - [https://www.lib.iastate.edu](https://www.lib.iastate.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Department of Mechanical Engineering – Iowa State University
- - [https://www.me.iastate.edu](https://www.me.iastate.edu)
- - date_published: 2024-07-21T22:19:36.703784+00:00
-
- ## News Service • Iowa State University
- - [https://www.news.iastate.edu](https://www.news.iastate.edu)
- - date_published: 2024-07-03T18:12:10.608618+00:00
-
- ## Division of Academic Affairs
- - [http://www.provost.iastate.edu](http://www.provost.iastate.edu)
- - date_published: 2024-07-09T13:09:06.249466+00:00
-
- ## ICON Collective Music Production School: LA & Online
- - [https://iconcollective.edu](https://iconcollective.edu)
- - date_published: 2024-05-08T09:20:59.159855+00:00
-
- ## IE - Reinventing Higher Education
- - [https://www.ie.edu](https://www.ie.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Join IESE Alumni Platform
- - [https://alumni.iese.edu](https://alumni.iese.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
- - [https://apply.iese.edu](https://apply.iese.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Management, Leadership and Economy Blogs | IESE Blog Network
- - [https://blog.iese.edu](https://blog.iese.edu)
- - date_published: 2015-03-24T07:18:15+00:00
-
- ## Contigo más lejos
- - [https://giving.iese.edu](https://giving.iese.edu)
- - date_published: 2024-07-04T12:34:34.202430+00:00
-
- ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
- - [https://iese.edu](https://iese.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Sign in to your account
- - [https://my.iese.edu](https://my.iese.edu)
- - date_published: 2024-07-04T12:34:35.244018+00:00
-
- ## Data-Intensive Distributed Systems Laboratory
- - [http://datasys.cs.iit.edu](http://datasys.cs.iit.edu)
- - date_published: 2023-01-31T16:25:40+00:00
-
- ## Next Level You | Elevate
- - [https://elevateyourfuture.iit.edu](https://elevateyourfuture.iit.edu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Illinois Tech | Illinois Institute of Technology
- - [https://iit.edu](https://iit.edu)
- - date_published: 2024-05-11T10:54:11.667812+00:00
-
- ## Chicago-Kent College of Law | Chicago-Kent College of Law
- - [https://kentlaw.iit.edu](https://kentlaw.iit.edu)
- - date_published: 2024-05-11T10:54:08.976687+00:00
-
- ## Illinois Tech
- - [https://portal.iit.edu](https://portal.iit.edu)
- - date_published: 2024-10-12T15:23:56.323844+00:00
-
- ## Illinois Institute of Technology
- - [https://professionallearning.catalog.iit.edu](https://professionallearning.catalog.iit.edu)
- - date_published: 2024-02-08T22:08:52.323949+00:00
-
- ## Illinois Tech | Illinois Institute of Technology
- - [https://web.iit.edu](https://web.iit.edu)
- - date_published: 2024-05-01T07:27:02.099486+00:00
-
- ## You, ELEVATED | Illinois Tech
- - [https://youelevated.iit.edu](https://youelevated.iit.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Home :: ECE 443 - ECE - Illinois
- - [https://443.ece.illinois.edu](https://443.ece.illinois.edu)
- - date_published: 2024-04-30T04:58:06.698315+00:00
-
- ## | Illinois 4-H | UIUC
- - [https://4h.extension.illinois.edu](https://4h.extension.illinois.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home
- - [https://acecenter.grainger.illinois.edu](https://acecenter.grainger.illinois.edu)
- - date_published: 2024-08-11T16:21:10.535227+00:00
-
- ## ACES Alumni Association | College of Agricultural, Consumer and Environmental Sciences | UIUC
- - [https://acesalumni.illinois.edu](https://acesalumni.illinois.edu)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home | ACES | UIUC
- - [https://aces.illinois.edu](https://aces.illinois.edu)
- - date_published: 2024-02-24T10:02:10.954053+00:00
-
- ## University of Illinois Undergraduate Admissions
- - [https://admissions.illinois.edu](https://admissions.illinois.edu)
- - date_published: 2024-04-30T04:56:47.882075+00:00
-
- ## Office of the Associate Dean for Research - Home
- - [https://adr.grainger.illinois.edu](https://adr.grainger.illinois.edu)
- - date_published: 2024-04-30T04:59:02.681205+00:00
 

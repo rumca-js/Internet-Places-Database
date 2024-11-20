@@ -1,3 +1,32 @@
+ ## Blogpocket
+ - [https://blogpocket.com](https://blogpocket.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Mastodon
+ - [https://federate.blogpocket.com](https://federate.blogpocket.com)
+ - date_published: 2024-07-10T09:05:19.297150+00:00
+
+ ## Blogpocket Social - Blogpocket en inglés
+ - [https://social.blogpocket.com](https://social.blogpocket.com)
+ - date_published: 2024-07-10T09:05:20.042638+00:00
+
+ ## Blog Reign - Blogging Lifestyle and The Journey
+ - [https://blogreign.com](https://blogreign.com)
+ - date_published: 2024-05-02T11:22:13.338215+00:00
+
+ ## VoIPWatch
+ - [http://andyabramson.blogs.com](http://andyabramson.blogs.com)
+ - date_published: 2024-06-27T09:10:57.097659+00:00
+
+ ## BlatherWatch
+ - [http://blatherwatch.blogs.com](http://blatherwatch.blogs.com)
+ - date_published: 2024-06-28T21:23:51.611889+00:00
+
+ ## Cierpliwości...
+ - [http://blogs.com](http://blogs.com)
+ - date_published: 2024-06-27T07:30:10+00:00
+ - tags: ['blogs']
+
  ## Stay
  - [http://civpro.blogs.com](http://civpro.blogs.com)
  - date_published: 2024-07-13T10:40:02.302544+00:00
@@ -3984,32 +4013,4 @@
  ## Basil
  - [http://basil-soratemplates.blogspot.com](http://basil-soratemplates.blogspot.com)
  - date_published: 2019-08-21T00:00:00+00:00
-
- ## Bastard Books
- - [http://bastardbooks.blogspot.com](http://bastardbooks.blogspot.com)
- - date_published: 2024-10-19T07:46:55+00:00
-
- ## Blogger
- - [http://bastardoldholborn.blogspot.com](http://bastardoldholborn.blogspot.com)
- - date_published: 2024-10-21T13:58:54.694151+00:00
-
- ## The Bastiat Society
- - [http://bastiatblog.blogspot.com](http://bastiatblog.blogspot.com)
- - date_published: 2024-10-24T20:14:01+00:00
-
- ## Bat, Bean, Beam
- - [http://bat-bean-beam.blogspot.com](http://bat-bean-beam.blogspot.com)
- - date_published: 2024-08-12T13:41:13+00:00
-
- ## bat.blogspot.com
- - [http://bat.blogspot.com](http://bat.blogspot.com)
- - date_published: 2024-03-14T09:31:27+00:00
-
- ## Bat in the Attic
- - [https://batintheattic.blogspot.com](https://batintheattic.blogspot.com)
- - date_published: 2024-06-28T09:43:40+00:00
-
- ## Batman the Animated Toys
- - [http://batmantheanimatedtoys.blogspot.com](http://batmantheanimatedtoys.blogspot.com)
- - date_published: 2024-08-28T07:17:17+00:00
 

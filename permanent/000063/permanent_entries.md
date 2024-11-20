@@ -1,3 +1,31 @@
+ ## Obsolete
+ - [https://septicisle1.blogspot.com](https://septicisle1.blogspot.com)
+ - date_published: 2024-06-01T06:22:30+00:00
+
+ ## Sepulchre of Heroes
+ - [http://sepulchreofheroes.blogspot.com](http://sepulchreofheroes.blogspot.com)
+ - date_published: 2024-03-30T21:10:12+00:00
+
+ ## seraillon
+ - [http://seraillon.blogspot.com](http://seraillon.blogspot.com)
+ - date_published: 2024-09-13T06:01:55+00:00
+
+ ## Serge Beauchamp
+ - [http://sergebeauchamp.blogspot.com](http://sergebeauchamp.blogspot.com)
+ - date_published: 2024-03-08T14:07:02+00:00
+
+ ## Miniatures painted by Sergey Popovichenko
+ - [http://sergeypopovichenko.blogspot.com](http://sergeypopovichenko.blogspot.com)
+ - date_published: 2022-04-21T00:00:00+00:00
+
+ ## Sergio Leone and the Infield Fly Rule
+ - [http://sergioleoneifr.blogspot.com](http://sergioleoneifr.blogspot.com)
+ - date_published: 2024-07-02T06:06:24+00:00
+
+ ## Serious Case of the Runs
+ - [http://seriouscaseoftheruns.blogspot.com](http://seriouscaseoftheruns.blogspot.com)
+ - date_published: 2024-10-05T01:59:20+00:00
+
  ## Late but in Earnest
  - [http://serosedseriocat.blogspot.com](http://serosedseriocat.blogspot.com)
  - date_published: 2024-10-21T15:58:44.130816+00:00
@@ -3986,32 +4014,4 @@
  ## The Naked Typewriter: Revealing What's There
  - [http://thenakedtypewriter.blogspot.com](http://thenakedtypewriter.blogspot.com)
  - date_published: 2024-02-21T07:40:06+00:00
-
- ## The Nation of Procrasti
- - [http://thenationofprocrasti.blogspot.com](http://thenationofprocrasti.blogspot.com)
- - date_published: 2024-10-05T02:44:41+00:00
-
- ## The Nerdroom
- - [https://thenerdroomblog.blogspot.com](https://thenerdroomblog.blogspot.com)
- - date_published: 2024-09-06T03:28:31+00:00
-
- ## The Nerd Store
- - [http://thenerdstore.blogspot.com](http://thenerdstore.blogspot.com)
- - date_published: 2024-09-15T05:56:36+00:00
-
- ## The New Ennui
- - [http://thenewennui.blogspot.com](http://thenewennui.blogspot.com)
- - date_published: 2024-10-21T16:42:34.301607+00:00
-
- ## The New Realms Of Chaos
- - [http://thenewrealmsofchaos.blogspot.com](http://thenewrealmsofchaos.blogspot.com)
- - date_published: 2024-04-03T22:45:32+00:00
-
- ## The New York Crank
- - [http://thenewyorkcrank.blogspot.com](http://thenewyorkcrank.blogspot.com)
- - date_published: 2024-10-17T07:46:11+00:00
-
- ## Horus Heresy Wargaming Tactica
- - [https://the-newzealand-wordbearer.blogspot.com](https://the-newzealand-wordbearer.blogspot.com)
- - date_published: 2024-09-26T01:30:28+00:00
 

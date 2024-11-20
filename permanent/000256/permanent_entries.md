@@ -1,3 +1,184 @@
+ ## The Center for Biomedical Informatics and Biostatistics
+ - [https://cb2.uahs.arizona.edu](https://cb2.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:36.457602+00:00
+
+ ## CCP CollectionSpace | Center for Creative Photography
+ - [http://ccp-emuseum.catnet.arizona.edu](http://ccp-emuseum.catnet.arizona.edu)
+ - date_published: 2024-06-27T04:58:41.649570+00:00
+
+ ## Home | Center for Disparities in Diabetes, Obesity and Metabolism
+ - [https://cddom.uahs.arizona.edu](https://cddom.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:31.454366+00:00
+
+ ## Home Page
+ - [https://ceal.arizona.edu](https://ceal.arizona.edu)
+ - date_published: 2021-01-20T20:17:36+00:00
+
+ ## Home
+ - [https://cert.arizona.edu](https://cert.arizona.edu)
+ - date_published: 2024-07-09T11:59:25+00:00
+
+ ## Home
+ - [https://chs.arizona.edu](https://chs.arizona.edu)
+ - date_published: 2024-08-19T15:30:10+00:00
+
+ ## The Center for Innovation in Brain Science | University of Arizona
+ - [https://cibs.uahs.arizona.edu](https://cibs.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:44.098088+00:00
+
+ ## Home | Emergency Management
+ - [https://cirt.arizona.edu](https://cirt.arizona.edu)
+ - date_published: 2024-05-09T05:50:25.506878+00:00
+
+ ## Home
+ - [https://clery.arizona.edu](https://clery.arizona.edu)
+ - date_published: 2024-07-06T12:17:33+00:00
+
+ ## COM HELP
+ - [https://comhelp.arizona.edu](https://comhelp.arizona.edu)
+ - date_published: 2024-04-30T03:04:08.671140+00:00
+
+ ## Center for CONSCIOUSNESS STUDIES
+ - [https://consciousness.arizona.edu](https://consciousness.arizona.edu)
+ - date_published: 2024-09-15T15:19:16.105889+00:00
+
+ ## Industry Engagement
+ - [https://corporate.arizona.edu](https://corporate.arizona.edu)
+ - date_published: 2024-06-20T18:40:42+00:00
+
+ ## Home
+ - [http://cos.arizona.edu](http://cos.arizona.edu)
+ - date_published: 2024-06-23T02:47:47+00:00
+
+ ## COVID-19
+ - [https://covid19.arizona.edu](https://covid19.arizona.edu)
+ - date_published: 2024-07-06T12:16:24+00:00
+
+ ## Home | Center For Rural Health
+ - [https://crh.arizona.edu](https://crh.arizona.edu)
+ - date_published: 2024-04-30T03:04:45.708854+00:00
+
+ ## Home | Computer Science
+ - [https://cs.arizona.edu](https://cs.arizona.edu)
+ - date_published: 2024-05-08T10:22:04.717495+00:00
+
+ ## Home
+ - [https://ctapps.uahs.arizona.edu](https://ctapps.uahs.arizona.edu)
+ - date_published: 2024-07-19T17:14:44+00:00
+
+ ## Home | the UA Clinical Translational Sciences Graduate Program
+ - [https://cts.uahs.arizona.edu](https://cts.uahs.arizona.edu)
+ - date_published: 2024-08-19T19:42:30+00:00
+
+ ## Home
+ - [https://data.library.arizona.edu](https://data.library.arizona.edu)
+ - date_published: 2024-09-19T17:47:38+00:00
+
+ ## Home | Data Science Team
+ - [https://datascience.cct.arizona.edu](https://datascience.cct.arizona.edu)
+ - date_published: 2024-07-03T21:13:59+00:00
+
+ ## Welcome
+ - [https://deanofstudents.arizona.edu](https://deanofstudents.arizona.edu)
+ - date_published: 2024-07-09T11:53:43+00:00
+
+ ## Home Page | Department of Medicine
+ - [https://deptmedicine.arizona.edu](https://deptmedicine.arizona.edu)
+ - date_published: 2024-07-22T08:48:44.856635+00:00
+
+ ## Health Sciences Design Home
+ - [https://design.uahs.arizona.edu](https://design.uahs.arizona.edu)
+ - date_published: 2021-06-24T18:13:07+00:00
+
+ ## Campus Directory | Campus Directory
+ - [https://directory.arizona.edu](https://directory.arizona.edu)
+ - date_published: 2024-05-09T05:50:14.100824+00:00
+
+ ## Harnessing the Power of Diversity: Every Wildcat, Every Day | Office of Diversity and Inclusion
+ - [https://diversity.arizona.edu](https://diversity.arizona.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home | Diversity at UAHS
+ - [https://diversity.uahs.arizona.edu](https://diversity.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:15.254800+00:00
+ - tags: ['dei']
+
+ ## WebAuth Login
+ - [https://edisclosure.arizona.edu](https://edisclosure.arizona.edu)
+ - date_published: 2024-07-07T09:24:01.697364+00:00
+
+ ## Home | Ecology & Evolutionary Biology
+ - [https://eeb.arizona.edu](https://eeb.arizona.edu)
+ - date_published: 2024-05-04T09:55:59.265592+00:00
+
+ ## WebAuth Login
+ - [https://eirb.arizona.edu](https://eirb.arizona.edu)
+ - date_published: 2024-07-07T09:24:41.495814+00:00
+
+ ## Home
+ - [https://eller.arizona.edu](https://eller.arizona.edu)
+ - date_published: 2024-10-14T17:40:14+00:00
+
+ ## WebAuth Login
+ - [https://employee851.uaccess.arizona.edu](https://employee851.uaccess.arizona.edu)
+ - date_published: 2024-07-07T09:24:11.607794+00:00
+
+ ## The University of Arizona ⋮ Events
+ - [https://events.trellis.arizona.edu](https://events.trellis.arizona.edu)
+ - date_published: 2024-06-06T21:06:51.875734+00:00
+
+ ## WebAuth Login
+ - [http://faq.cs.arizona.edu](http://faq.cs.arizona.edu)
+ - date_published: 2024-06-23T02:47:54.218263+00:00
+
+ ## FormAssembly: Enterprise | University of Arizona : Users
+ - [https://forms-a.trellis.arizona.edu](https://forms-a.trellis.arizona.edu)
+ - date_published: 2024-04-30T03:04:58.725176+00:00
+
+ ## Geosciences |
+ - [https://geo.arizona.edu](https://geo.arizona.edu)
+ - date_published: 2024-07-09T17:11:53.013205+00:00
+
+ ## Home
+ - [https://giving.arizona.edu](https://giving.arizona.edu)
+ - date_published: 2024-07-09T12:11:35+00:00
+
+ ## Home
+ - [https://global.arizona.edu](https://global.arizona.edu)
+ - date_published: 2024-06-20T20:16:01+00:00
+
+ ## Guest Center
+ - [https://guest.studentcenter.arizona.edu](https://guest.studentcenter.arizona.edu)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://hameroff.arizona.edu](https://hameroff.arizona.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Home
+ - [http://has.arizona.edu](http://has.arizona.edu)
+ - date_published: 2024-07-07T05:04:47+00:00
+
+ ## The Humans, Data, and Computers Lab
+ - [http://hdc.cs.arizona.edu](http://hdc.cs.arizona.edu)
+ - date_published: 2024-08-18T16:36:03+00:00
+
+ ## Home
+ - [https://health.arizona.edu](https://health.arizona.edu)
+ - date_published: 2024-07-09T12:02:53+00:00
+
+ ## UArizona Health Sciences |
+ - [https://healthsciences.arizona.edu](https://healthsciences.arizona.edu)
+ - date_published: 2023-10-25T18:46:38.005550+00:00
+
+ ## Home
+ - [https://healthyaging.arizona.edu](https://healthyaging.arizona.edu)
+ - date_published: 2021-06-30T21:43:24+00:00
+
+ ## WebAuth Login
+ - [https://helpdesk.cs.arizona.edu](https://helpdesk.cs.arizona.edu)
+ - date_published: 2024-07-07T09:30:58.629627+00:00
+
  ## HiRISE | High Resolution Imaging Science Experiment
  - [http://hirise.lpl.arizona.edu](http://hirise.lpl.arizona.edu)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -3822,185 +4003,4 @@
  ## Brooklyn Law School - Brooklyn Law School
  - [https://www.brooklaw.edu](https://www.brooklaw.edu)
  - date_published: 2024-06-22T09:37:19.750730+00:00
-
- ## BC Knowledge for Employees – Find answers to your technical, academic and administrative questions.
- - [https://employees.brooklyn.edu](https://employees.brooklyn.edu)
- - date_published: 2024-07-04T16:57:41.933968+00:00
-
- ## BC Knowledge for Students – Search for answers to your questions
- - [https://students.brooklyn.edu](https://students.brooklyn.edu)
- - date_published: 2024-07-03T21:55:14+00:00
-
- ## Home - Brooklyn College
- - [https://www.brooklyn.edu](https://www.brooklyn.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Undergraduate Admission | Brown University
- - [https://admission.brown.edu](https://admission.brown.edu)
- - date_published: 2024-05-09T05:07:33.655388+00:00
-
- ## Admissions | Medical School | Brown University
- - [https://admission.med.brown.edu](https://admission.med.brown.edu)
- - date_published: 2024-05-09T05:07:44.577613+00:00
-
- ## Brunonia
- - [https://advancement.brown.edu](https://advancement.brown.edu)
- - date_published: 2017-02-22T18:40:53+00:00
-
- ## Alumni & Friends | Brown University
- - [https://alumni-friends.brown.edu](https://alumni-friends.brown.edu)
- - date_published: 2024-05-09T05:07:37.480610+00:00
-
- ## Annenberg Institute at Brown University | Annenberg Institute at Brown
- - [https://annenberg.brown.edu](https://annenberg.brown.edu)
- - date_published: 2024-08-18T21:01:40.796307+00:00
-
- ## Cube
- - [https://app.icerm.brown.edu](https://app.icerm.brown.edu)
- - date_published: 2024-07-20T22:29:27.304210+00:00
-
- ## Applied Mathematics
- - [https://appliedmath.brown.edu](https://appliedmath.brown.edu)
- - date_published: 2024-06-30T07:10:33.076690+00:00
-
- ## Undergraduate Admission | Brown University
- - [https://apply.college.brown.edu](https://apply.college.brown.edu)
- - date_published: 2024-07-08T20:54:02+00:00
-
- ## Admissions
- - [https://apply.professional.brown.edu](https://apply.professional.brown.edu)
- - date_published: 2024-07-09T12:43:31+00:00
-
- ## Brown CS: Awards
- - [https://awards.cs.brown.edu](https://awards.cs.brown.edu)
- - date_published: 2024-05-19T02:48:32.091909+00:00
-
- ## Home
- - [https://bbis.advancement.brown.edu](https://bbis.advancement.brown.edu)
- - date_published: 2024-04-30T03:28:45.596355+00:00
-
- ## Biology | Brown University
- - [https://biology.brown.edu](https://biology.brown.edu)
- - date_published: 2024-07-09T12:16:13+00:00
-
- ## Division of Biology and Medicine | Brown University
- - [https://biomedical.brown.edu](https://biomedical.brown.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Biostatistics | School of Public Health | Brown University
- - [https://biostatistics.sph.brown.edu](https://biostatistics.sph.brown.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Brown CS: Brown CS Blog
- - [https://blog.cs.brown.edu](https://blog.cs.brown.edu)
- - date_published: 2024-05-06T21:47:37.403401+00:00
-
- ## Brown University
- - [https://brown.edu](https://brown.edu)
- - date_published: 2024-04-30T03:28:56.747762+00:00
-
- ## Alumni & Friends | Brown University
- - [https://brunonia.brown.edu](https://brunonia.brown.edu)
- - date_published: 2024-07-09T12:32:33+00:00
-
- ## SP-Minimal
- - [https://caps.cs.brown.edu](https://caps.cs.brown.edu)
- - date_published: 2008-10-10T17:34:23+00:00
-
- ## Cognitive Engineering Lab
- - [https://cel.cs.brown.edu](https://cel.cs.brown.edu)
- - date_published: 2024-07-15T22:40:55+00:00
-
- ## Computational Engineering | Brown University
- - [https://computational.engineering.brown.edu](https://computational.engineering.brown.edu)
- - date_published: 2024-07-09T12:54:16+00:00
-
- ## Brown University Department of Computer Science
- - [https://cs.brown.edu](https://cs.brown.edu)
- - date_published: 2024-01-09T02:58:24.829394+00:00
- - tags: ['university']
-
- ## Design Engineering | Brown University
- - [https://design.engineering.brown.edu](https://design.engineering.brown.edu)
- - date_published: 2024-07-08T13:16:49+00:00
-
- ## Directory | Brown University
- - [https://directory.brown.edu](https://directory.brown.edu)
- - date_published: 2024-04-30T03:28:51.807238+00:00
-
- ## Office of Belonging, Equity, Diversity & Inclusion | Brown University
- - [https://diversity.med.brown.edu](https://diversity.med.brown.edu)
- - date_published: 2024-07-09T12:54:35.562302+00:00
-
- ## ICERM Documentation
- - [https://docs.icerm.brown.edu](https://docs.icerm.brown.edu)
- - date_published: 2024-07-20T22:29:30.118822+00:00
-
- ## Public Safety | Brown University
- - [https://dps.brown.edu](https://dps.brown.edu)
- - date_published: 2024-04-30T03:28:38.383047+00:00
-
- ## Home - Drafty
- - [https://drafty.cs.brown.edu](https://drafty.cs.brown.edu)
- - date_published: 2024-08-19T08:23:58.078652+00:00
-
- ## Education | Brown University
- - [https://education.brown.edu](https://education.brown.edu)
- - date_published: 2024-08-18T19:41:10+00:00
-
- ## IE Brown Executive MBA
- - [https://emba.brown.edu](https://emba.brown.edu)
- - date_published: 2024-07-09T12:54:09.619878+00:00
-
- ## Engineering | Brown University
- - [https://engineering.brown.edu](https://engineering.brown.edu)
- - date_published: 2024-05-09T05:07:42.804191+00:00
-
- ## Epidemiology | School of Public Health | Brown University
- - [https://epidemiology.sph.brown.edu](https://epidemiology.sph.brown.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## https://esl.cs.brown.edu
- - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
- - date_published: 2022-08-13T19:49:36+00:00
-
- ## Events | Brown University
- - [https://events.brown.edu](https://events.brown.edu)
- - date_published: 2024-04-30T03:28:53.525598+00:00
-
- ## Financial Aid | Medical School | Brown University
- - [https://finaid.med.brown.edu](https://finaid.med.brown.edu)
- - date_published: 2024-07-09T12:54:29.033196+00:00
-
- ## Giving
- - [https://giving.brown.edu](https://giving.brown.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Graduate Programs | Brown University
- - [https://graduateprograms.brown.edu](https://graduateprograms.brown.edu)
- - date_published: 2024-05-09T05:07:34.895220+00:00
-
- ## Graduate School | Brown University
- - [https://graduateschool.brown.edu](https://graduateschool.brown.edu)
- - date_published: 2024-05-09T05:07:51.086171+00:00
-
- ## Brown Visual Computing
- - [http://graphics.cs.brown.edu](http://graphics.cs.brown.edu)
- - date_published: 2024-06-05T23:59:21+00:00
-
- ## Jeff Huang · HCI Systems Research Projects in Human-Computer Interaction
- - [https://hci.brown.edu](https://hci.brown.edu)
- - date_published: 2024-08-17T16:17:49+00:00
-
- ## HCI @ Brown
- - [https://hci.cs.brown.edu](https://hci.cs.brown.edu)
- - date_published: 2023-11-20T16:17:03+00:00
-
- ## Healthy Brown | Brown University
- - [https://healthy.brown.edu](https://healthy.brown.edu)
- - date_published: 2024-05-09T05:07:52.565203+00:00
-
- ## Watson Institute for International and Public Affairs
- - [https://home.watson.brown.edu](https://home.watson.brown.edu)
- - date_published: 2024-04-30T03:28:43.567311+00:00
 

@@ -1,3 +1,31 @@
+ ## Etoys, Squeak and Sugar
+ - [http://etoys-squeak-and-sugar.blogspot.com](http://etoys-squeak-and-sugar.blogspot.com)
+ - date_published: 2024-03-14T04:02:41+00:00
+
+ ## Etymolist
+ - [http://etymolist.blogspot.com](http://etymolist.blogspot.com)
+ - date_published: 2024-03-06T07:55:54+00:00
+
+ ## LOST FOR WORDS
+ - [http://etymolog.blogspot.com](http://etymolog.blogspot.com)
+ - date_published: 2024-03-06T00:54:46+00:00
+
+ ## The Big E-UAE JIT blog
+ - [http://euaejit.blogspot.com](http://euaejit.blogspot.com)
+ - date_published: 2024-07-07T07:16:17+00:00
+
+ ## Euangelion
+ - [http://euangelizomai.blogspot.com](http://euangelizomai.blogspot.com)
+ - date_published: 2024-06-28T12:38:08+00:00
+
+ ## Eugenio Ocaña
+ - [http://eugenioocana.blogspot.com](http://eugenioocana.blogspot.com)
+ - date_published: 2024-03-13T14:55:21+00:00
+
+ ## EU Law Analysis
+ - [https://eulawanalysis.blogspot.com](https://eulawanalysis.blogspot.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## EU Law Myth Busting
  - [https://eulawstudent.blogspot.com](https://eulawstudent.blogspot.com)
  - date_published: 2024-10-18T21:04:22.674275+00:00
@@ -3985,32 +4013,4 @@
  ## Blogger
  - [http://historyhoydens.blogspot.com](http://historyhoydens.blogspot.com)
  - date_published: 2024-09-09T13:36:30.540645+00:00
-
- ## History in 1/72
- - [http://historyin172.blogspot.com](http://historyin172.blogspot.com)
- - date_published: 2024-07-19T23:46:21+00:00
-
- ## History Is Elementary
- - [http://historyiselementary.blogspot.com](http://historyiselementary.blogspot.com)
- - date_published: 2024-06-20T06:09:52+00:00
-
- ## History's Medical Mysteries
- - [https://historymedmysteries.blogspot.com](https://historymedmysteries.blogspot.com)
- - date_published: 2024-03-13T15:29:10+00:00
-
- ## History of Embroidery
- - [http://historyofembroidery.blogspot.com](http://historyofembroidery.blogspot.com)
- - date_published: 2024-09-04T15:49:05+00:00
-
- ## History of Geology
- - [http://historyofgeology.blogspot.com](http://historyofgeology.blogspot.com)
- - date_published: 2024-05-31T07:27:18+00:00
-
- ## History Unfolding
- - [http://historyunfolding.blogspot.com](http://historyunfolding.blogspot.com)
- - date_published: 2024-08-11T02:25:14+00:00
-
- ## Hitler Was A Capitalist!!!!!
- - [http://hitlerwasacapitalist.blogspot.com](http://hitlerwasacapitalist.blogspot.com)
- - date_published: 2024-10-21T17:37:33.642074+00:00
 

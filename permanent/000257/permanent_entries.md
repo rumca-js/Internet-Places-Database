@@ -1,3 +1,184 @@
+ ## BC Knowledge for Employees – Find answers to your technical, academic and administrative questions.
+ - [https://employees.brooklyn.edu](https://employees.brooklyn.edu)
+ - date_published: 2024-07-04T16:57:41.933968+00:00
+
+ ## BC Knowledge for Students – Search for answers to your questions
+ - [https://students.brooklyn.edu](https://students.brooklyn.edu)
+ - date_published: 2024-07-03T21:55:14+00:00
+
+ ## Home - Brooklyn College
+ - [https://www.brooklyn.edu](https://www.brooklyn.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Undergraduate Admission | Brown University
+ - [https://admission.brown.edu](https://admission.brown.edu)
+ - date_published: 2024-05-09T05:07:33.655388+00:00
+
+ ## Admissions | Medical School | Brown University
+ - [https://admission.med.brown.edu](https://admission.med.brown.edu)
+ - date_published: 2024-05-09T05:07:44.577613+00:00
+
+ ## Brunonia
+ - [https://advancement.brown.edu](https://advancement.brown.edu)
+ - date_published: 2017-02-22T18:40:53+00:00
+
+ ## Alumni & Friends | Brown University
+ - [https://alumni-friends.brown.edu](https://alumni-friends.brown.edu)
+ - date_published: 2024-05-09T05:07:37.480610+00:00
+
+ ## Annenberg Institute at Brown University | Annenberg Institute at Brown
+ - [https://annenberg.brown.edu](https://annenberg.brown.edu)
+ - date_published: 2024-08-18T21:01:40.796307+00:00
+
+ ## Cube
+ - [https://app.icerm.brown.edu](https://app.icerm.brown.edu)
+ - date_published: 2024-07-20T22:29:27.304210+00:00
+
+ ## Applied Mathematics
+ - [https://appliedmath.brown.edu](https://appliedmath.brown.edu)
+ - date_published: 2024-06-30T07:10:33.076690+00:00
+
+ ## Undergraduate Admission | Brown University
+ - [https://apply.college.brown.edu](https://apply.college.brown.edu)
+ - date_published: 2024-07-08T20:54:02+00:00
+
+ ## Admissions
+ - [https://apply.professional.brown.edu](https://apply.professional.brown.edu)
+ - date_published: 2024-07-09T12:43:31+00:00
+
+ ## Brown CS: Awards
+ - [https://awards.cs.brown.edu](https://awards.cs.brown.edu)
+ - date_published: 2024-05-19T02:48:32.091909+00:00
+
+ ## Home
+ - [https://bbis.advancement.brown.edu](https://bbis.advancement.brown.edu)
+ - date_published: 2024-04-30T03:28:45.596355+00:00
+
+ ## Biology | Brown University
+ - [https://biology.brown.edu](https://biology.brown.edu)
+ - date_published: 2024-07-09T12:16:13+00:00
+
+ ## Division of Biology and Medicine | Brown University
+ - [https://biomedical.brown.edu](https://biomedical.brown.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Biostatistics | School of Public Health | Brown University
+ - [https://biostatistics.sph.brown.edu](https://biostatistics.sph.brown.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Brown CS: Brown CS Blog
+ - [https://blog.cs.brown.edu](https://blog.cs.brown.edu)
+ - date_published: 2024-05-06T21:47:37.403401+00:00
+
+ ## Brown University
+ - [https://brown.edu](https://brown.edu)
+ - date_published: 2024-04-30T03:28:56.747762+00:00
+
+ ## Alumni & Friends | Brown University
+ - [https://brunonia.brown.edu](https://brunonia.brown.edu)
+ - date_published: 2024-07-09T12:32:33+00:00
+
+ ## SP-Minimal
+ - [https://caps.cs.brown.edu](https://caps.cs.brown.edu)
+ - date_published: 2008-10-10T17:34:23+00:00
+
+ ## Cognitive Engineering Lab
+ - [https://cel.cs.brown.edu](https://cel.cs.brown.edu)
+ - date_published: 2024-07-15T22:40:55+00:00
+
+ ## Computational Engineering | Brown University
+ - [https://computational.engineering.brown.edu](https://computational.engineering.brown.edu)
+ - date_published: 2024-07-09T12:54:16+00:00
+
+ ## Brown University Department of Computer Science
+ - [https://cs.brown.edu](https://cs.brown.edu)
+ - date_published: 2024-01-09T02:58:24.829394+00:00
+ - tags: ['university']
+
+ ## Design Engineering | Brown University
+ - [https://design.engineering.brown.edu](https://design.engineering.brown.edu)
+ - date_published: 2024-07-08T13:16:49+00:00
+
+ ## Directory | Brown University
+ - [https://directory.brown.edu](https://directory.brown.edu)
+ - date_published: 2024-04-30T03:28:51.807238+00:00
+
+ ## Office of Belonging, Equity, Diversity & Inclusion | Brown University
+ - [https://diversity.med.brown.edu](https://diversity.med.brown.edu)
+ - date_published: 2024-07-09T12:54:35.562302+00:00
+
+ ## ICERM Documentation
+ - [https://docs.icerm.brown.edu](https://docs.icerm.brown.edu)
+ - date_published: 2024-07-20T22:29:30.118822+00:00
+
+ ## Public Safety | Brown University
+ - [https://dps.brown.edu](https://dps.brown.edu)
+ - date_published: 2024-04-30T03:28:38.383047+00:00
+
+ ## Home - Drafty
+ - [https://drafty.cs.brown.edu](https://drafty.cs.brown.edu)
+ - date_published: 2024-08-19T08:23:58.078652+00:00
+
+ ## Education | Brown University
+ - [https://education.brown.edu](https://education.brown.edu)
+ - date_published: 2024-08-18T19:41:10+00:00
+
+ ## IE Brown Executive MBA
+ - [https://emba.brown.edu](https://emba.brown.edu)
+ - date_published: 2024-07-09T12:54:09.619878+00:00
+
+ ## Engineering | Brown University
+ - [https://engineering.brown.edu](https://engineering.brown.edu)
+ - date_published: 2024-05-09T05:07:42.804191+00:00
+
+ ## Epidemiology | School of Public Health | Brown University
+ - [https://epidemiology.sph.brown.edu](https://epidemiology.sph.brown.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## https://esl.cs.brown.edu
+ - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
+ - date_published: 2022-08-13T19:49:36+00:00
+
+ ## Events | Brown University
+ - [https://events.brown.edu](https://events.brown.edu)
+ - date_published: 2024-04-30T03:28:53.525598+00:00
+
+ ## Financial Aid | Medical School | Brown University
+ - [https://finaid.med.brown.edu](https://finaid.med.brown.edu)
+ - date_published: 2024-07-09T12:54:29.033196+00:00
+
+ ## Giving
+ - [https://giving.brown.edu](https://giving.brown.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Graduate Programs | Brown University
+ - [https://graduateprograms.brown.edu](https://graduateprograms.brown.edu)
+ - date_published: 2024-05-09T05:07:34.895220+00:00
+
+ ## Graduate School | Brown University
+ - [https://graduateschool.brown.edu](https://graduateschool.brown.edu)
+ - date_published: 2024-05-09T05:07:51.086171+00:00
+
+ ## Brown Visual Computing
+ - [http://graphics.cs.brown.edu](http://graphics.cs.brown.edu)
+ - date_published: 2024-06-05T23:59:21+00:00
+
+ ## Jeff Huang · HCI Systems Research Projects in Human-Computer Interaction
+ - [https://hci.brown.edu](https://hci.brown.edu)
+ - date_published: 2024-08-17T16:17:49+00:00
+
+ ## HCI @ Brown
+ - [https://hci.cs.brown.edu](https://hci.cs.brown.edu)
+ - date_published: 2023-11-20T16:17:03+00:00
+
+ ## Healthy Brown | Brown University
+ - [https://healthy.brown.edu](https://healthy.brown.edu)
+ - date_published: 2024-05-09T05:07:52.565203+00:00
+
+ ## Watson Institute for International and Public Affairs
+ - [https://home.watson.brown.edu](https://home.watson.brown.edu)
+ - date_published: 2024-04-30T03:28:43.567311+00:00
+
  ## Health Services, Policy & Practice | School of Public Health | Brown University
  - [https://hspp.sph.brown.edu](https://hspp.sph.brown.edu)
  - date_published: 2024-07-09T12:55:19+00:00
@@ -3838,184 +4019,4 @@ Mellon University
  ## ACT Human Rights Film Festival
  - [https://actfilmfest.colostate.edu](https://actfilmfest.colostate.edu)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Admissions
- - [https://admissions.colostate.edu](https://admissions.colostate.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## University Advancement – Giving @ Colorado State University
- - [https://advancing.colostate.edu](https://advancing.colostate.edu)
- - date_published: 2024-06-30T03:02:15.368807+00:00
-
- ## Advising at CSU | Colorado State University
- - [http://advising.colostate.edu](http://advising.colostate.edu)
- - date_published: 2024-08-11T10:40:11.330800+00:00
-
- ## Home - College of Agricultural Sciences
- - [https://agsci.colostate.edu](https://agsci.colostate.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## News - College of Agricultural Sciences, Colorado State University
- - [https://agsci.source.colostate.edu](https://agsci.source.colostate.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Detachment 90 AFROTC | Fly. Fight. Win. | Colorado State University
- - [https://airforce.colostate.edu](https://airforce.colostate.edu)
- - date_published: 2024-07-08T21:39:22.506430+00:00
-
- ## April 2024 - Alumline
- - [https://alumline.source.colostate.edu](https://alumline.source.colostate.edu)
- - date_published: 2024-04-30T03:47:58.113415+00:00
-
- ## Alumni Association | Colorado State University
- - [https://alumni.colostate.edu](https://alumni.colostate.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Administrative Professional Council (APC) | Colorado State University
- - [https://ap.colostate.edu](https://ap.colostate.edu)
- - date_published: 2024-07-22T06:08:45.929861+00:00
-
- ## Home - Gregory Allicar Museum of Art | Colorado State University
- - [http://artmuseum.colostate.edu](http://artmuseum.colostate.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## ASCSU | Search the site here | Colorado State University
- - [https://ascsu.colostate.edu](https://ascsu.colostate.edu)
- - date_published: 2024-08-11T10:42:29.761715+00:00
-
- ## Sign in to your account
- - [https://azuread-auth.ucm.colostate.edu](https://azuread-auth.ucm.colostate.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Colorado State University - College of Business
- - [https://biz.colostate.edu](https://biz.colostate.edu)
- - date_published: 2024-07-22T06:03:04.194347+00:00
-
- ## News - CSU College of Business, Colorado State University
- - [https://biz.source.colostate.edu](https://biz.source.colostate.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## The Official Colorado State University Bookstore f
- - [http://bookstore.colostate.edu](http://bookstore.colostate.edu)
- - date_published: 2024-08-11T10:43:51.279043+00:00
-
- ## Building Success | Explore CSU's transformative growth
- - [https://building.colostate.edu](https://building.colostate.edu)
- - date_published: 2024-07-22T06:02:17.889279+00:00
-
- ## CSU - Business and Financial Services - CSU
- - [http://busfin.colostate.edu](http://busfin.colostate.edu)
- - date_published: 2024-08-11T10:44:01.339415+00:00
-
- ## University Events Calendar | Colorado State University
- - [https://calendar.colostate.edu](https://calendar.colostate.edu)
- - date_published: 2024-04-30T03:47:46.714860+00:00
-
- ## Canvas
- - [http://canvas.colostate.edu](http://canvas.colostate.edu)
- - date_published: 2024-08-11T10:43:43.911043+00:00
-
- ## Home - Career Center
- - [https://career.colostate.edu](https://career.colostate.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## General Catalog - Home < Colorado State University
- - [http://catalog.colostate.edu](http://catalog.colostate.edu)
- - date_published: 2024-07-30T19:34:10+00:00
-
- ## News - College of Health and Human Sciences, Colorado State University
- - [https://chhs.source.colostate.edu](https://chhs.source.colostate.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## HTTP Server Test Page powered by: Rocky Linux
- - [http://cloudsat.atmos.colostate.edu](http://cloudsat.atmos.colostate.edu)
- - date_published: 2022-07-27T18:04:30+00:00
-
- ## Home - cnee
- - [https://cnee.colostate.edu](https://cnee.colostate.edu)
- - date_published: 2024-05-12T05:45:07.120818+00:00
-
- ## Colorado State University
- - [https://colostate.edu](https://colostate.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Commitment to Campus | Colorado State University
- - [https://commitmenttocampus.colostate.edu](https://commitmenttocampus.colostate.edu)
- - date_published: 2024-07-22T06:08:58.912999+00:00
-
- ## Department of Computer Science | CSU – Department of Computer Science at Colorado State University
- - [https://compsci.colostate.edu](https://compsci.colostate.edu)
- - date_published: 2017-07-12T00:00:00+00:00
-
- ## COVID-19 Information & Resources | Colorado State University
- - [https://covid.colostate.edu](https://covid.colostate.edu)
- - date_published: 2024-07-22T06:02:36.998246+00:00
-
- ## Classified Personnel Council | Colorado State University
- - [https://cpc.colostate.edu](https://cpc.colostate.edu)
- - date_published: 2024-07-22T06:08:47.874651+00:00
-
- ## April - 2024 - CSU Life
- - [https://csulife.source.colostate.edu](https://csulife.source.colostate.edu)
- - date_published: 2024-04-30T03:48:00.151495+00:00
-
- ## Home - Campus Recreation
- - [https://csurec.colostate.edu](https://csurec.colostate.edu)
- - date_published: 2024-08-11T10:43:37.753195+00:00
-
- ## College of Veterinary Medicine and Biomedical Sciences | CSU
- - [http://cvmbs.colostate.edu](http://cvmbs.colostate.edu)
- - date_published: 2024-07-22T06:02:25.510364+00:00
-
- ## News from College of Veterinary Medicine and Biomedical Sciences, CSU
- - [https://cvmbs.source.colostate.edu](https://cvmbs.source.colostate.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Online Directory | Colorado State University
- - [https://directory.colostate.edu](https://directory.colostate.edu)
- - date_published: 2024-08-11T10:42:56.394860+00:00
-
- ## Home - Student Disability Center
- - [http://disabilitycenter.colostate.edu](http://disabilitycenter.colostate.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Inclusive Excellence at CSU | Office of Inclusive Excellence
- - [http://diversity.colostate.edu](http://diversity.colostate.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## NetID - Colorado State University System - NetID - Colorado State University System
- - [http://eid.colostate.edu](http://eid.colostate.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## El Paso County Extension – Providing trusted, practical education to help you solve problems, develop skills and build a better future.
- - [http://elpaso.extension.colostate.edu](http://elpaso.extension.colostate.edu)
- - date_published: 2024-07-14T03:54:37.576633+00:00
-
- ## Employee Resources for Conflict Resolution | Colorado State University
- - [https://employeeconflictresolution.colostate.edu](https://employeeconflictresolution.colostate.edu)
- - date_published: 2024-08-11T10:41:34.303082+00:00
-
- ## Colorado State University Office of Engagement and Extension
- - [https://engagement.colostate.edu](https://engagement.colostate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Office of Engagement and Extension
- - [https://engagement.source.colostate.edu](https://engagement.source.colostate.edu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Home - English | Colorado State University
- - [https://english.colostate.edu](https://english.colostate.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## News - Walter Scott, Jr. College of Engineering, Colorado State University
- - [https://engr.source.colostate.edu](https://engr.source.colostate.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Support
- - [https://fachelp.fm.colostate.edu](https://fachelp.fm.colostate.edu)
- - date_published: 2024-07-22T06:02:28.253140+00:00
-
- ## Faculty Council | Colorado State University
- - [https://facultycouncil.colostate.edu](https://facultycouncil.colostate.edu)
- - date_published: 2024-07-22T06:08:56.547025+00:00
 

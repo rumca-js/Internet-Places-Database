@@ -1,3 +1,225 @@
+ ## WIMIR
+ - [https://imir.agh.edu.pl](https://imir.agh.edu.pl)
+ - date_published: 2024-07-04T10:59:45+00:00
+
+ ## Strona główna -- Serwis Akademii Górniczo-Hutniczej
+ - [https://www.agh.edu.pl](https://www.agh.edu.pl)
+ - date_published: 2024-07-07T06:39:14.057506+00:00
+
+ ## KAUT -- Komisja Akredytacyjna Uczelni Technicznych
+ - [http://www.kaut.agh.edu.pl](http://www.kaut.agh.edu.pl)
+ - date_published: 2024-09-02T14:18:53.155462+00:00
+
+ ## The Academy of Zamość | The Academy of Zamość
+ - [https://www.akademiazamojska.edu.pl](https://www.akademiazamojska.edu.pl)
+ - date_published: 2024-07-09T07:28:25.775554+00:00
+
+ ## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
+ - [https://amu.edu.pl](https://amu.edu.pl)
+ - date_published: 2023-10-27T13:02:57.267906+00:00
+ - tags: ['university']
+
+ ## Strona główna - Biuletyn Informacji Publicznej
+ - [https://bip.amu.edu.pl](https://bip.amu.edu.pl)
+ - date_published: 2022-12-15T00:00:00+00:00
+
+ ## Wydział - Wydział Chemii
+ - [https://chemia.amu.edu.pl](https://chemia.amu.edu.pl)
+ - date_published: 2024-07-11T09:24:50+00:00
+
+ ## Home | EPICUR
+ - [http://epicur.amu.edu.pl](http://epicur.amu.edu.pl)
+ - date_published: 2024-07-19T22:57:14.717784+00:00
+
+ ## PRESSto.
+ - [https://pressto.amu.edu.pl](https://pressto.amu.edu.pl)
+ - date_published: 1979-01-01T00:00:00+00:00
+
+ ## Studio Filmowe UAM
+ - [http://tv.amu.edu.pl](http://tv.amu.edu.pl)
+ - date_published: 2024-07-19T22:57:09.493737+00:00
+
+ ## ID-UB UAM - Uczelnia Badawcza
+ - [https://uczelniabadawcza.amu.edu.pl](https://uczelniabadawcza.amu.edu.pl)
+ - date_published: 2024-06-25T07:07:23+00:00
+
+ ## Strona główna - Wydział Anglistyki
+ - [http://wa.amu.edu.pl](http://wa.amu.edu.pl)
+ - date_published: 2024-07-01T22:17:11+00:00
+
+ ## WFPiK - Wydział Filologii Polskiej i Klasycznej
+ - [https://wfpik.amu.edu.pl](https://wfpik.amu.edu.pl)
+ - date_published: 2024-07-17T12:48:20+00:00
+
+ ## Wydział - Wydział Studiów Edukacyjnych
+ - [https://wse.amu.edu.pl](https://wse.amu.edu.pl)
+ - date_published: 2024-07-09T09:39:07+00:00
+
+ ## Wydział - Wydział Fizyki
+ - [https://www.fizyka.amu.edu.pl](https://www.fizyka.amu.edu.pl)
+ - date_published: 2024-07-18T12:25:02+00:00
+
+ ## Narodowy program ochrony antybiotyków – Narodowy program ochrony antybiotyków
+ - [http://www.antybiotyki.edu.pl](http://www.antybiotyki.edu.pl)
+ - date_published: 2024-07-13T19:04:52.582245+00:00
+
+ ## default virtual host
+ - [http://sirius.astrouw.edu.pl](http://sirius.astrouw.edu.pl)
+ - date_published: 2022-04-12T09:58:36+00:00
+
+ ## Strona główna - Akademia Wiedzy Praktycznej - Studia online
+ - [https://awp.edu.pl](https://awp.edu.pl)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Bioinformatyka - makrokierunek UAM i PP
+ - [http://www.bioinformatyka.edu.pl](http://www.bioinformatyka.edu.pl)
+ - date_published: 2024-08-11T13:56:09.777886+00:00
+
+ ## Biblioteka Raczyńskich - Oficjalna strona Biblioteki Raczyńskich w Poznaniu
+ - [https://bracz.edu.pl](https://bracz.edu.pl)
+ - date_published: 2024-02-26T00:00:00+00:00
+ - tags: ['library']
+
+ ## Strona główna - Niepubliczna Placówka Doskonalenia Nauczycieli
+ - [https://npdn.cedrin.edu.pl](https://npdn.cedrin.edu.pl)
+ - date_published: 2024-07-09T13:23:59.165641+00:00
+
+ ## Boya Century Publishing
+ - [http://www.journals.cfp.edu.pl](http://www.journals.cfp.edu.pl)
+ - date_published: 2021-12-27T02:43:18+00:00
+
+ ## Portal Rekrutacyjny
+ - [https://rekrutacja-wsb-nlu.clouda.edu.pl](https://rekrutacja-wsb-nlu.clouda.edu.pl)
+ - date_published: 2024-07-09T13:23:13.384624+00:00
+
+ ## Redirecting...
+ - [https://wsb-nlu.clouda.edu.pl](https://wsb-nlu.clouda.edu.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## IWFM - It Works For Me!
+ - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
+ - date_published: 2024-02-08T22:53:08.246112+00:00
+
+ ## Edukacja medialna
+ - [http://edukacjamedialna.edu.pl](http://edukacjamedialna.edu.pl)
+ - date_published: 2024-07-13T12:14:05+00:00
+
+ ## Farmacja.edu.pl - Nowoczesna Edukacja Farmaceuty
+ - [https://farmacja.edu.pl](https://farmacja.edu.pl)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Strona główna | Związek Uczelni Fahrenheita
+ - [https://faru.edu.pl](https://faru.edu.pl)
+ - date_published: 2024-07-09T07:26:41.152913+00:00
+
+ ## Fundacja Rozwoju Edukacji Cyfrowej
+ - [http://www.frec.edu.pl](http://www.frec.edu.pl)
+ - date_published: 2023-12-11T09:32:39+00:00
+
+ ## FUT - Forum Uczelni Technicznych | Forum Uczelni Technicznych
+ - [http://www.fut.edu.pl](http://www.fut.edu.pl)
+ - date_published: 2024-09-02T14:18:56.057279+00:00
+
+ ## Strona główna - Simons semester 2024
+ - [https://simons2024.fuw.edu.pl](https://simons2024.fuw.edu.pl)
+ - date_published: 2024-07-01T18:46:53.338809+00:00
+
+ ## Zapytaj Fizyka
+ - [https://zapytajfizyka.fuw.edu.pl](https://zapytajfizyka.fuw.edu.pl)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Giganci programowania {#} Nauka programowania dla dzieci i młodzieży ⓵
+ - [https://www.giganciprogramowania.edu.pl](https://www.giganciprogramowania.edu.pl)
+ - date_published: 2024-09-02T14:19:13+00:00
+
+ ## Gdański Uniwersytet Medyczny: Strona główna
+ - [https://gumed.edu.pl](https://gumed.edu.pl)
+ - date_published: 2024-08-17T23:00:46+00:00
+
+ ## Akademia Humanitas - Studia w Sosnowcu
+ - [https://www.humanitas.edu.pl](https://www.humanitas.edu.pl)
+ - date_published: 2024-07-14T05:28:40.785640+00:00
+
+ ## Instytut Badań Edukacyjnych
+ - [https://ibe.edu.pl](https://ibe.edu.pl)
+ - date_published: 2024-01-08T13:28:20+00:00
+
+ ## STER Summer school in redox processes
+ - [http://redox.ichf.edu.pl](http://redox.ichf.edu.pl)
+ - date_published: 2024-07-01T05:47:30.889049+00:00
+
+ ## Search - CEJSH - Yadda
+ - [http://cejsh.icm.edu.pl](http://cejsh.icm.edu.pl)
+ - date_published: 2024-07-14T18:17:28.737790+00:00
+
+ ## EMIS
+ - [http://emis.icm.edu.pl](http://emis.icm.edu.pl)
+ - date_published: 2023-08-22T13:28:00+00:00
+
+ ## Polski SunSITE
+ - [https://ftp.icm.edu.pl](https://ftp.icm.edu.pl)
+ - date_published: 2021-10-17T13:09:29+00:00
+
+ ## Wyszukiwanie - DML-PL - Yadda
+ - [http://matwbn.icm.edu.pl](http://matwbn.icm.edu.pl)
+ - date_published: 2024-06-30T09:26:52.955615+00:00
+
+ ## Polski SunSITE
+ - [https://sunsite.icm.edu.pl](https://sunsite.icm.edu.pl)
+ - date_published: 2021-10-17T13:09:29+00:00
+
+ ## Instytut Fizyki Jądrowej PAN
+ - [https://ifj.edu.pl](https://ifj.edu.pl)
+ - date_published: 2024-08-18T17:11:08.048055+00:00
+
+ ## Serwis prasowy IFJ PAN
+ - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
+ - date_published: 2023-10-25T22:25:01.663981+00:00
+
+ ## Strona główna | Centrum Ochrony Dziecka
+ - [http://cod.ignatianum.edu.pl](http://cod.ignatianum.edu.pl)
+ - date_published: 2023-09-07T11:35:53+00:00
+
+ ## Kuratorium Oświaty w Gorzowie Wlkp. – strona Lubuskiego Kuratorium Oświaty
+ - [http://www.ko-gorzow.edu.pl](http://www.ko-gorzow.edu.pl)
+ - date_published: 2024-08-19T21:18:06.476944+00:00
+
+ ## Porozumienie Doktorantów Uczelni Technicznych
+ - [http://pdut.krd.edu.pl](http://pdut.krd.edu.pl)
+ - date_published: 2024-09-02T14:18:51.837238+00:00
+
+ ## Główna – KRPUT
+ - [https://krput.edu.pl](https://krput.edu.pl)
+ - date_published: 2024-05-26T18:42:12.358580+00:00
+
+ ## Łódzkie Partnerstwo Akademickie
+ - [https://lpa.edu.pl](https://lpa.edu.pl)
+ - date_published: 2024-06-28T16:41:37+00:00
+
+ ## Banach's Algorithmic Corner | University of Warsaw
+ - [https://corner.mimuw.edu.pl](https://corner.mimuw.edu.pl)
+ - date_published: 2024-05-07T16:15:47.406592+00:00
+
+ ## MIMUW
+ - [https://duch.mimuw.edu.pl](https://duch.mimuw.edu.pl)
+ - date_published: 2022-10-17T10:45:47+00:00
+
+ ## IGAFIT - Igafit
+ - [http://igafit.mimuw.edu.pl](http://igafit.mimuw.edu.pl)
+ - date_published: 2024-06-30T11:20:10.603014+00:00
+
+ ## MIMUW portal
+ - [https://www.mimuw.edu.pl](https://www.mimuw.edu.pl)
+ - date_published: 2024-07-11T12:15:12.953215+00:00
+
+ ## Międzyuniwersyteckie Centrum Informatyzacji
+ - [http://www.muci.edu.pl](http://www.muci.edu.pl)
+ - date_published: 2024-10-18T20:34:49.288873+00:00
+
+ ## Strona główna | I LO im. Seweryna Goszczyńskiego w Nowym Targu
+ - [https://goszczynski.nowotarski.edu.pl](https://goszczynski.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:25.341083+00:00
+
  ## Strona główna | Zespół Szkół nr 1 w Nowym Targu
  - [https://zs1.nowotarski.edu.pl](https://zs1.nowotarski.edu.pl)
  - date_published: 2024-07-09T13:30:32.144950+00:00
@@ -3861,230 +4083,4 @@ Polska 1939
  ## 🔴 Szkolenia i Sesje LiveCodingowe Dla Java Developerów!
  - [https://live.bykowski.pl](https://live.bykowski.pl)
  - date_published: 2023-11-25T14:26:36+00:00
-
- ## SEGA-SKY | Niebo dla fanów konsol Dreamcast i Saturn od 2005 roku!
- - [http://prv.c0.pl](http://prv.c0.pl)
- - date_published: 2024-08-04T10:35:33+00:00
-
- ## SEGA-SKY | Niebo dla fanów konsol Dreamcast i Saturn od 2005 roku!
- - [http://sega.c0.pl](http://sega.c0.pl)
- - date_published: 2024-05-24T18:39:32.609049+00:00
- - tags: ['sega', 'dreamcast']
-
- ## CADViewer — przeglądanie CAD i współpraca
- - [https://cadviewer.pl](https://cadviewer.pl)
- - date_published: 2024-02-01T10:15:15+00:00
-
- ## Strona domeny cafebabel.pl
- - [https://cafebabel.pl](https://cafebabel.pl)
- - date_published: 2024-05-07T23:41:22.649755+00:00
-
- ## Calcoolator.pl - Kalkulatory online
- - [https://calcoolator.pl](https://calcoolator.pl)
- - date_published: 2023-10-25T22:26:23.368301+00:00
-
- ## Calfert – Idealnie nawozy dla Twoich roślin.
- - [https://calfert.pl](https://calfert.pl)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## CALLA - Kreowanie zielonych przestrzeni. Lider na rynku.
- - [https://calla.pl](https://calla.pl)
- - date_published: 2024-07-14T05:25:17.731390+00:00
-
- ## Wynajem helikopterów, czarter samolotów, taksówki powietrzne (Air Taxi / Sky Taxi), private jet – Call&Fly
- - [https://www.callandfly.pl](https://www.callandfly.pl)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Strona główna | caltha.pl
- - [http://caltha.pl](http://caltha.pl)
- - date_published: 2024-07-13T10:37:25+00:00
-
- ## EnergaCAMERIMAGE 2024
- - [http://www.camerimage.pl](http://www.camerimage.pl)
- - date_published: 2024-07-04T06:51:54.911965+00:00
-
- ## CAMIL – Center for Artificial Intelligence and Machine Learning
- - [http://www.camil-research.pl](http://www.camil-research.pl)
- - date_published: 2024-08-11T13:56:11.641444+00:00
-
- ## CANAL+ wiki | Baza wiedzy na temat filmów, aktorów i aktorek
- - [https://wiki.canalplus.pl](https://wiki.canalplus.pl)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Capitalbook
- - [https://capitalbook.pl](https://capitalbook.pl)
- - date_published: 2024-07-17T14:56:19.720215+00:00
-
- ## Capterra Polska pomoże Ci znaleźć najlepsze oprogramowanie dla firmy
- - [https://www.capterra.pl](https://www.capterra.pl)
- - date_published: 2024-07-20T19:26:32.738187+00:00
-
- ## Caritas Polska
- - [https://caritas.pl](https://caritas.pl)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Carsmile samochody na abonament - leasing i najem długoterminowy
- - [https://carsmile.pl](https://carsmile.pl)
- - date_published: 2024-05-29T13:27:52.755347+00:00
-
- ## Cartoonito | Kreskówki dla dzieci w wieku przedszkolnym, gry i zabawy z kanału dziecięcego Cartoonito
- - [https://cartoonito.pl](https://cartoonito.pl)
- - date_published: 2024-06-16T01:37:01.120708+00:00
-
- ## Cartoon Network Aplikacje mobilne | Gry mobilne
- - [https://apps.cartoonnetwork.pl](https://apps.cartoonnetwork.pl)
- - date_published: 2024-06-17T19:10:21.457805+00:00
-
- ## Cartoon Network | Darmowe Gry Online, Bajki, Konkursy i Zabawy Dla Dzieci
- - [https://cartoonnetwork.pl](https://cartoonnetwork.pl)
- - date_published: 2024-06-05T00:00:00+00:00
- - tags: ['cartoons', 'tv shows']
-
- ## Puchar Cartoona | Gry futbolowe | Cartoon Network
- - [https://pucharcartoona.cartoonnetwork.pl](https://pucharcartoona.cartoonnetwork.pl)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## CASHFLOW | Ta gra może zmienić Twoje życie!
- - [https://cashflow101.pl](https://cashflow101.pl)
- - date_published: 2024-05-12T06:53:14.483700+00:00
-
- ## Homepage
- - [https://casinoble.pl](https://casinoble.pl)
- - date_published: 2024-09-19T20:32:43.451553+00:00
-
- ## CastoPro - program lojalnościowy dla profesjonalistów | Castorama
- - [https://castopro.castorama.pl](https://castopro.castorama.pl)
- - date_published: 2024-05-29T10:37:59.988887+00:00
-
- ## Sklepy Castorama to sieć marketów z materiałami budowlanymi, remontowymi, dekoracyjnymi i ogrodniczymi.
- - [https://castorama.pl](https://castorama.pl)
- - date_published: 2023-10-26T08:34:33.606484+00:00
- - tags: ['shop']
-
- ## Fundacja Castorama » Fundacja Castorama
- - [https://fundacja.castorama.pl](https://fundacja.castorama.pl)
- - date_published: 2024-05-29T10:38:01.936080+00:00
-
- ## Kariera w Castorama
- - [https://kariera.castorama.pl](https://kariera.castorama.pl)
- - date_published: 2024-05-29T10:37:59.017431+00:00
-
- ## Kuchenne inspiracje
- - [https://kuchenneinspiracje.castorama.pl](https://kuchenneinspiracje.castorama.pl)
- - date_published: 2024-05-29T10:38:25.335825+00:00
-
- ## Castorama
- - [https://planeronline.castorama.pl](https://planeronline.castorama.pl)
- - date_published: 2024-05-29T10:38:21.312180+00:00
-
- ## Szafy Atomia
- - [https://szafyatomia.castorama.pl](https://szafyatomia.castorama.pl)
- - date_published: 2024-05-29T10:38:20.103553+00:00
-
- ## Wiadomości Castorama Polska
- - [https://wiadomosci.castorama.pl](https://wiadomosci.castorama.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## CBA
- - [http://impuls-net.cba.pl](http://impuls-net.cba.pl)
- - date_published: 2024-08-06T22:27:12.930839+00:00
-
- ## CBA
- - [http://viscobar.cba.pl](http://viscobar.cba.pl)
- - date_published: 2024-08-06T22:38:20.702469+00:00
-
- ## CBA
- - [http://visionlighthouse.cba.pl](http://visionlighthouse.cba.pl)
- - date_published: 2024-06-28T19:50:24.355306+00:00
-
- ## CBA
- - [http://www.dbaw.cba.pl](http://www.dbaw.cba.pl)
- - date_published: 2024-09-03T23:24:53.976503+00:00
-
- ## CBA
- - [http://www.nudaveritas.cba.pl](http://www.nudaveritas.cba.pl)
- - date_published: 2024-08-06T22:27:23.187073+00:00
-
- ## Centrum Badań Kosmicznych PAN - CBK PAN
- - [https://cbkpan.pl](https://cbkpan.pl)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Sklep internetowy CCM.PL
- - [https://ccm.pl](https://ccm.pl)
- - date_published: 2024-06-17T16:44:22.182466+00:00
-
- ## New Europe Communications - neweuropecommunications.org
- - [http://nec.ccm.pl](http://nec.ccm.pl)
- - date_published: 2024-10-19T21:58:56.172507+00:00
-
- ## www.ccontrols.pl - Computer Controls Sp. z o.o.  - Computer Controls Group
- - [https://ccontrols.pl](https://ccontrols.pl)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## CDA - Społeczność cda.pl
- - [https://cda.pl](https://cda.pl)
- - date_published: 2023-10-25T11:30:26.520324+00:00
- - tags: ['file sharing', 'video streaming', 'piracy']
-
- ## Benefity dla pracowników 2018/2019 - CDA Premium
- - [https://dlafirm.cda.pl](https://dlafirm.cda.pl)
- - date_published: 2019-02-01T16:28:41+00:00
-
- ## CDA - Społeczność cda.pl
- - [https://ebd.cda.pl](https://ebd.cda.pl)
- - date_published: 2024-08-19T23:40:10.378907+00:00
-
- ## Cda.pl – informacje dla mediów
- - [https://media.cda.pl](https://media.cda.pl)
- - date_published: 2024-08-19T23:40:22.817777+00:00
-
- ## Rejestracja w CDA Premium
- - [https://premium.cda.pl](https://premium.cda.pl)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Karta podarunkowa CDA Premium
- - [https://prezent.cda.pl](https://prezent.cda.pl)
- - date_published: 2024-08-19T23:40:20.784888+00:00
-
- ## Reklama CDA - twoje wideo w internecie
- - [https://reklama.cda.pl](https://reklama.cda.pl)
- - date_published: 2024-08-19T23:40:21.740579+00:00
-
- ## CDA.pl
- - [https://smarttv.cda.pl](https://smarttv.cda.pl)
- - date_published: 2024-08-12T17:52:16+00:00
-
- ## CDA Spółka Akcyjna - Strona korporacyjna
- - [https://spolka.cda.pl](https://spolka.cda.pl)
- - date_published: 2024-08-19T23:40:19.118112+00:00
-
- ## CD-Action – Strona główna
- - [https://cdaction.pl](https://cdaction.pl)
- - date_published: 2023-10-25T09:29:32.142014+00:00
- - tags: ['video game news']
-
- ## forum.cdaction.pl
- - [https://forum.cdaction.pl](https://forum.cdaction.pl)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## SKLEP.CDACTION.PL - OFICJALNY SKLEP CD-ACTION i PC FORMAT
- - [https://sklep.cdaction.pl](https://sklep.cdaction.pl)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## sitebees.com by netPR.pl | sitebees.com
- - [https://cdn-netpr.pl](https://cdn-netpr.pl)
- - date_published: 2024-07-09T12:51:21.121950+00:00
-
- ## AfterMarket.pl
- - [http://cdp.pl](http://cdp.pl)
- - date_published: 2023-02-17T10:11:20+00:00
-
- ## CDRinfo.pl - Serwis poświęcony archiwizacji danych. Nagrywarki, dyski twarde, NAS - CDRinfo.pl
- - [https://cdrinfo.pl](https://cdrinfo.pl)
- - date_published: 2024-05-29T10:48:32.485701+00:00
- - tags: ['cd', 'dvd']
-
- ## Dyski CDRinfo.pl - Dyski Twarde/SSD - CDRinfo.pl
- - [https://dyski.cdrinfo.pl](https://dyski.cdrinfo.pl)
- - date_published: 2024-09-03T19:39:03.811687+00:00
 

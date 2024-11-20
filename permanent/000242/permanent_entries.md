@@ -1,3 +1,168 @@
+ ## Bitte 8 Bit !
+ - [http://www.bitte-8-bit.de](http://www.bitte-8-bit.de)
+ - date_published: 2024-06-25T19:46:09+00:00
+
+ ## Prüfschritte BITV-Test / EN 301 549 (Web) | BIK BITV-Test Ergebnisse und Methodik | BIK BITV-Test
+ - [http://testen.bitv-test.de](http://testen.bitv-test.de)
+ - date_published: 2024-07-20T11:05:02.421400+00:00
+
+ ## BIK BITV-Test
+ - [https://www.bitvtest.de](https://www.bitvtest.de)
+ - date_published: 2024-09-16T04:02:05.273711+00:00
+
+ ## bizeps – Die Gründungsinitiative der Bergischen Region
+ - [http://bizeps.de](http://bizeps.de)
+ - date_published: 2024-07-02T17:46:25.368020+00:00
+
+ ## Bus oder Mitfahrt? Jetzt günstige Fahrten finden. | BlaBlaCar
+ - [https://blablacar.de](https://blablacar.de)
+ - date_published: 2024-06-15T01:01:07.349782+00:00
+
+ ## BlaBlaCar
+ - [https://blog.blablacar.de](https://blog.blablacar.de)
+ - date_published: 2024-09-15T19:55:42.007227+00:00
+
+ ## BLACK CABIN
+ - [https://blackcabin.de](https://blackcabin.de)
+ - date_published: 2024-07-09T19:31:47.085760+00:00
+
+ ## PROJECTS
+ - [http://www.blackpants.de](http://www.blackpants.de)
+ - date_published: 2024-07-24T04:48:08.172986+00:00
+
+ ## Finde Deinen Style auf blacksign.de
+ - [http://www.blacksign.de](http://www.blacksign.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Blasmusik4u – Das Infoportal für die Blasmusik in Bayern / Blasmusik4u
+ - [https://blasmusik4u.de](https://blasmusik4u.de)
+ - date_published: 2024-10-31T04:42:44.040105+00:00
+
+ ## Please Wait While Redirecting to Login page
+ - [https://login-ciam.blau.de](https://login-ciam.blau.de)
+ - date_published: 2022-10-12T13:39:52+00:00
+
+ ## SIM-Karte aktivieren: Mit Vertrag oder Prepaid
+ - [https://sim-aktivieren.blau.de](https://sim-aktivieren.blau.de)
+ - date_published: 2024-06-12T12:34:02+00:00
+
+ ## Mobilfunkanbieter: So günstig geht mobil | Blau entdecken
+ - [https://www.blau.de](https://www.blau.de)
+ - date_published: 2024-05-01T07:18:54.889144+00:00
+
+ ## Das deutsche Umweltzeichen
+ - [https://blauer-engel.de](https://blauer-engel.de)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.blauer-engel.de](https://matomo.blauer-engel.de)
+ - date_published: 2024-08-18T08:00:36.579978+00:00
+
+ ## BLB Karlsruhe
+ - [https://digital.blb-karlsruhe.de](https://digital.blb-karlsruhe.de)
+ - date_published: 2024-05-08T03:05:01.800838+00:00
+
+ ## BLB: Home
+ - [http://www.blb-karlsruhe.de](http://www.blb-karlsruhe.de)
+ - date_published: 2024-07-03T16:04:47.867031+00:00
+
+ ## Bldg-Alt-Entf – Der A-und-O-Podcast
+ - [https://bldg-alt-entf.de](https://bldg-alt-entf.de)
+ - date_published: 2024-08-19T09:03:36.890972+00:00
+
+ ## bleeptrack
+ - [https://bleeptrack.de](https://bleeptrack.de)
+ - date_published: 2024-06-05T20:21:01+00:00
+
+ ## Haftmittel und Hilfsmittel für Zahnprothesen - Blend a Dent
+ - [https://www.blend-a-dent.de](https://www.blend-a-dent.de)
+ - date_published: 2024-10-25T12:44:48+00:00
+
+ ## Bleyder Galabau
+ - [https://bleyder-galabau.de](https://bleyder-galabau.de)
+ - date_published: 2024-07-13T05:27:33.878038+00:00
+
+ ## Blitz Institut – Institute Of Complex Adaptive Networks
+ - [https://blitz-institut.de](https://blitz-institut.de)
+ - date_published: 2024-04-29T06:45:41.887413+00:00
+
+ ## Startseite - Blockchain Hackathon
+ - [https://www.blockchain-hackathon.de](https://www.blockchain-hackathon.de)
+ - date_published: 2024-07-08T17:34:06.326780+00:00
+
+ ## www.blocklist.de -- Fail2Ban-Reporting Service (we sent Reports from Attacks on Postfix, SSH, Apache-Attacks, Spambots, irc-Bots, Reg-Bots, DDos and more) from Fail2Ban via X-ARF.
+ - [http://www.blocklist.de](http://www.blocklist.de)
+ - date_published: 2024-11-08T11:54:43.201636+00:00
+
+ ## Blockmagazin - Das Magazin für dezentrale Technologie
+ - [https://blockmagazin.de](https://blockmagazin.de)
+ - date_published: 2024-06-16T04:52:46.217931+00:00
+
+ ## Blocktrainer - Bitcoin Bildung & News
+ - [https://www.blocktrainer.de](https://www.blocktrainer.de)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Blog Bohème
+ - [https://blogboheme.de](https://blogboheme.de)
+ - date_published: 2024-04-03T06:22:54.195338+00:00
+ - tags: ['personal']
+
+ ## Kids.Bohème
+ - [https://kids.blogboheme.de](https://kids.blogboheme.de)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Blogfrei – Hier bloggt Erik H. – aus Hamburg-Altona.
+ - [https://blogfrei.de](https://blogfrei.de)
+ - date_published: 2024-07-02T18:01:16.252328+00:00
+
+ ## Das Phonetik-Blog
+ - [http://phonetik.blogger.de](http://phonetik.blogger.de)
+ - date_published: 2024-07-02T09:51:30.129934+00:00
+
+ ## Bloggeramt - Das Verzeichnis für Blogs und Blogger
+ - [http://www.bloggeramt.de](http://www.bloggeramt.de)
+ - date_published: 2024-09-02T08:11:30+00:00
+
+ ## Blogverzeichnis Bloggerei.de » für Blogs und Blogger
+ - [https://bloggerei.de](https://bloggerei.de)
+ - date_published: 2024-05-12T06:40:50.468858+00:00
+
+ ## Kein Zugriff
+ - [http://rpc.bloggerei.de](http://rpc.bloggerei.de)
+ - date_published: 2024-07-16T17:48:28.147785+00:00
+
+ ## Bloggmaus
+ - [https://www.bloggmaus.de](https://www.bloggmaus.de)
+ - date_published: 2024-07-16T11:09:28+00:00
+
+ ## Four go to war!
+ - [http://4gotowar.blogspot.de](http://4gotowar.blogspot.de)
+ - date_published: 2024-10-16T09:12:18+00:00
+
+ ## YetAnotherEngineersBlog
+ - [http://alex-witkowski.blogspot.de](http://alex-witkowski.blogspot.de)
+ - date_published: 2024-09-10T04:37:09+00:00
+
+ ## berufundfamilie-Blog
+ - [http://beruf-und-familie.blogspot.de](http://beruf-und-familie.blogspot.de)
+ - date_published: 2024-07-24T04:29:53.438237+00:00
+
+ ## about:random
+ - [http://bokesan.blogspot.de](http://bokesan.blogspot.de)
+ - date_published: 2024-03-06T01:03:42+00:00
+
+ ## Now Appearing
+ - [http://brianclegg.blogspot.de](http://brianclegg.blogspot.de)
+ - date_published: 2024-10-28T18:23:28+00:00
+
+ ## Byte Rot
+ - [https://byterot.blogspot.de](https://byterot.blogspot.de)
+ - date_published: 2024-05-01T03:47:49.161392+00:00
+
+ ## Cardiff Naturalists Society
+ - [http://cardiffnaturalists.blogspot.de](http://cardiffnaturalists.blogspot.de)
+ - date_published: 2024-10-24T10:08:50+00:00
+
  ## Community Peer Review
  - [http://communitypeerreview.blogspot.de](http://communitypeerreview.blogspot.de)
  - date_published: 2024-10-19T07:06:05.771365+00:00
@@ -3851,168 +4016,4 @@ home
  ## Home
  - [https://deif.de](https://deif.de)
  - date_published: 2024-05-01T04:33:26.861963+00:00
-
- ## Café, Bar, Restaurant – Dein ALEX
- - [https://www.dein-alex.de](https://www.dein-alex.de)
- - date_published: 2024-06-20T21:39:38.887888+00:00
-
- ## Organisation „United for Human Rights“: Informationen über die Liste der durch die Allgemeine Erklärung der Menschenrechte geschützten Rechte
- - [http://www.deinemenschenrechte.de](http://www.deinemenschenrechte.de)
- - date_published: 2024-09-04T17:55:09.999835+00:00
-
- ## deinetickets.de - deine Show. deine Gäste. deine Tickets.
- - [https://deinetickets.de](https://deinetickets.de)
- - date_published: 2024-05-24T18:54:06.723567+00:00
-
- ## Evoke 2024
- - [https://evoke24.deinetickets.de](https://evoke24.deinetickets.de)
- - date_published: 2024-06-17T03:33:18.556907+00:00
-
- ## Deinheimbedarf » Parfums, Kamine und mehr
- - [https://deinheimbedarf.de](https://deinheimbedarf.de)
- - date_published: 2023-08-30T00:00:00+00:00
-
- ## DeinProgramm
- - [https://www.deinprogramm.de](https://www.deinprogramm.de)
- - date_published: 2024-07-05T13:52:14+00:00
-
- ## Subway Order
- - [https://dein-subway.de](https://dein-subway.de)
- - date_published: 2024-05-11T07:36:18.157944+00:00
-
- ## Günstige Unterkünfte für die Zwischenzeit | DeinZimmer.de
- - [https://www.deinzimmer.de](https://www.deinzimmer.de)
- - date_published: 2024-06-25T22:36:43.590643+00:00
-
- ## Karriere bei uns | Deka als Arbeitgeberin
- - [https://karriere.deka.de](https://karriere.deka.de)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Deka Investments - Beratungstermin vereinbaren
- - [https://tools.deka.de](https://tools.deka.de)
- - date_published: 2024-09-27T10:25:48.400472+00:00
-
- ## Startseite
- - [https://www.deka.de](https://www.deka.de)
- - date_published: 2024-06-16T08:16:40.504882+00:00
-
- ## Deka ETFs | Wertarbeit für Ihr Geld
- - [https://www.deka-etf.de](https://www.deka-etf.de)
- - date_published: 2024-09-27T10:25:52.224751+00:00
-
- ## Startseite
- - [https://www.deka-institutionell.de](https://www.deka-institutionell.de)
- - date_published: 2024-09-27T10:26:15.893417+00:00
-
- ## Startseite - Deka Private und Wealth
- - [https://www.deka-private-wealth.de](https://www.deka-private-wealth.de)
- - date_published: 2024-09-27T10:26:18.230715+00:00
-
- ## Delphi Code Camp 2024 | Das Trainingsevent für Delphi-Entwickler
- - [https://delphi-code-camp.de](https://delphi-code-camp.de)
- - date_published: 2024-08-07T23:28:50+00:00
-
- ## Let's make a difference. | DELTA
- - [https://delta-comsysto-reply.de](https://delta-comsysto-reply.de)
- - date_published: 2023-09-21T14:24:54+00:00
-
- ## Neuer. Besser. delta.
- - [https://www.deltaradio.de](https://www.deltaradio.de)
- - date_published: 2024-07-20T15:25:25.164625+00:00
-
- ## DELTL AI - DELTL
- - [https://deltl.de](https://deltl.de)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Startseite
- - [https://demographie-netzwerk.de](https://demographie-netzwerk.de)
- - date_published: 2024-09-12T16:03:16.658087+00:00
-
- ## Home - demokratiebildung-thueringen.de
- - [https://demokratiebildung-thueringen.de](https://demokratiebildung-thueringen.de)
- - date_published: 2024-09-12T16:02:57.439950+00:00
-
- ## Demokratie in der Mitte – Moabit – Wedding – Zentrum
- - [https://demokratie-in-der-mitte.de](https://demokratie-in-der-mitte.de)
- - date_published: 2024-09-12T16:04:00.844368+00:00
-
- ## Johannes L. Schönberger
- - [https://demuc.de](https://demuc.de)
- - date_published: 2024-04-15T19:14:29+00:00
-
- ## DENIC Blog
- - [https://blog.denic.de](https://blog.denic.de)
- - date_published: 2024-08-11T06:52:36.735494+00:00
-
- ## www.denic.de
- - [https://denic.de](https://denic.de)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## direct.denic.de
- - [https://direct.secure.denic.de](https://direct.secure.denic.de)
- - date_published: 2024-08-11T06:52:38.458635+00:00
-
- ## Member Login
- - [https://member.secure.denic.de](https://member.secure.denic.de)
- - date_published: 2024-08-11T06:52:37.533434+00:00
-
- ## transit.denic.de
- - [https://transit.secure.denic.de](https://transit.secure.denic.de)
- - date_published: 2024-08-11T06:52:35.394446+00:00
-
- ## denic.de: WebWhois
- - [https://webwhois.denic.de](https://webwhois.denic.de)
- - date_published: 2024-08-11T06:52:34.723099+00:00
-
- ## Denis Reis
- - [http://denisreis.de](http://denisreis.de)
- - date_published: 2024-05-01T04:42:15.986240+00:00
-
- ## Denkmalverein Hamburg | Denkmalverein Hamburg
- - [https://denkmalverein.de](https://denkmalverein.de)
- - date_published: 2024-04-29T06:31:54.337513+00:00
-
- ## DIE Location für kreatives Arbeiten in Düsseldorf - Denkubator
- - [https://www.denkubator.de](https://www.denkubator.de)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Hej, it's Dennis
- - [http://dennishatwieger.de](http://dennishatwieger.de)
- - date_published: 2023-10-28T16:06:22+00:00
-
- ## Dennis Wedding
- - [https://www.denniswedding.de](https://www.denniswedding.de)
- - date_published: 2022-07-06T09:33:43+00:00
-
- ## lists.denx.de Mailing Lists
- - [https://lists.denx.de](https://lists.denx.de)
- - date_published: 2023-10-25T18:29:27.869041+00:00
-
- ## Explore groups · GitLab
- - [https://source.denx.de](https://source.denx.de)
- - date_published: 2024-06-22T21:14:53.156190+00:00
-
- ## Home
- - [https://www.denx.de](https://www.denx.de)
- - date_published: 2024-05-06T09:07:38.708679+00:00
-
- ## Home | Deployn
- - [https://deployn.de](https://deployn.de)
- - date_published: 2024-05-05T11:53:31.195340+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.deployn.de](https://plausible.deployn.de)
- - date_published: 2024-06-22T14:19:22.687464+00:00
-
- ## Self-hosted survey 2023
- - [https://selfhosted-survey-2023.deployn.de](https://selfhosted-survey-2023.deployn.de)
- - date_published: 2024-02-15T08:13:19+00:00
-
- ## Self-Hosted Survey 2024
- - [https://selfhosted-survey-2024.deployn.de](https://selfhosted-survey-2024.deployn.de)
- - date_published: 2024-09-27T08:44:37+00:00
-
- ## Startseite Der-blumen-strauss.de
- - [http://der-blumen-strauss.de](http://der-blumen-strauss.de)
- - date_published: 2024-07-13T15:13:57.239039+00:00
 

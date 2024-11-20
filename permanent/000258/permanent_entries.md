@@ -1,3 +1,183 @@
+ ## Home | Admissions
+ - [https://admissions.colostate.edu](https://admissions.colostate.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## University Advancement – Giving @ Colorado State University
+ - [https://advancing.colostate.edu](https://advancing.colostate.edu)
+ - date_published: 2024-06-30T03:02:15.368807+00:00
+
+ ## Advising at CSU | Colorado State University
+ - [http://advising.colostate.edu](http://advising.colostate.edu)
+ - date_published: 2024-08-11T10:40:11.330800+00:00
+
+ ## Home - College of Agricultural Sciences
+ - [https://agsci.colostate.edu](https://agsci.colostate.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## News - College of Agricultural Sciences, Colorado State University
+ - [https://agsci.source.colostate.edu](https://agsci.source.colostate.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Detachment 90 AFROTC | Fly. Fight. Win. | Colorado State University
+ - [https://airforce.colostate.edu](https://airforce.colostate.edu)
+ - date_published: 2024-07-08T21:39:22.506430+00:00
+
+ ## April 2024 - Alumline
+ - [https://alumline.source.colostate.edu](https://alumline.source.colostate.edu)
+ - date_published: 2024-04-30T03:47:58.113415+00:00
+
+ ## Alumni Association | Colorado State University
+ - [https://alumni.colostate.edu](https://alumni.colostate.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Administrative Professional Council (APC) | Colorado State University
+ - [https://ap.colostate.edu](https://ap.colostate.edu)
+ - date_published: 2024-07-22T06:08:45.929861+00:00
+
+ ## Home - Gregory Allicar Museum of Art | Colorado State University
+ - [http://artmuseum.colostate.edu](http://artmuseum.colostate.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## ASCSU | Search the site here | Colorado State University
+ - [https://ascsu.colostate.edu](https://ascsu.colostate.edu)
+ - date_published: 2024-08-11T10:42:29.761715+00:00
+
+ ## Sign in to your account
+ - [https://azuread-auth.ucm.colostate.edu](https://azuread-auth.ucm.colostate.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Colorado State University - College of Business
+ - [https://biz.colostate.edu](https://biz.colostate.edu)
+ - date_published: 2024-07-22T06:03:04.194347+00:00
+
+ ## News - CSU College of Business, Colorado State University
+ - [https://biz.source.colostate.edu](https://biz.source.colostate.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## The Official Colorado State University Bookstore f
+ - [http://bookstore.colostate.edu](http://bookstore.colostate.edu)
+ - date_published: 2024-08-11T10:43:51.279043+00:00
+
+ ## Building Success | Explore CSU's transformative growth
+ - [https://building.colostate.edu](https://building.colostate.edu)
+ - date_published: 2024-07-22T06:02:17.889279+00:00
+
+ ## CSU - Business and Financial Services - CSU
+ - [http://busfin.colostate.edu](http://busfin.colostate.edu)
+ - date_published: 2024-08-11T10:44:01.339415+00:00
+
+ ## University Events Calendar | Colorado State University
+ - [https://calendar.colostate.edu](https://calendar.colostate.edu)
+ - date_published: 2024-04-30T03:47:46.714860+00:00
+
+ ## Canvas
+ - [http://canvas.colostate.edu](http://canvas.colostate.edu)
+ - date_published: 2024-08-11T10:43:43.911043+00:00
+
+ ## Home - Career Center
+ - [https://career.colostate.edu](https://career.colostate.edu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## General Catalog - Home < Colorado State University
+ - [http://catalog.colostate.edu](http://catalog.colostate.edu)
+ - date_published: 2024-07-30T19:34:10+00:00
+
+ ## News - College of Health and Human Sciences, Colorado State University
+ - [https://chhs.source.colostate.edu](https://chhs.source.colostate.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by: Rocky Linux
+ - [http://cloudsat.atmos.colostate.edu](http://cloudsat.atmos.colostate.edu)
+ - date_published: 2022-07-27T18:04:30+00:00
+
+ ## Home - cnee
+ - [https://cnee.colostate.edu](https://cnee.colostate.edu)
+ - date_published: 2024-05-12T05:45:07.120818+00:00
+
+ ## Colorado State University
+ - [https://colostate.edu](https://colostate.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Commitment to Campus | Colorado State University
+ - [https://commitmenttocampus.colostate.edu](https://commitmenttocampus.colostate.edu)
+ - date_published: 2024-07-22T06:08:58.912999+00:00
+
+ ## Department of Computer Science | CSU – Department of Computer Science at Colorado State University
+ - [https://compsci.colostate.edu](https://compsci.colostate.edu)
+ - date_published: 2017-07-12T00:00:00+00:00
+
+ ## COVID-19 Information & Resources | Colorado State University
+ - [https://covid.colostate.edu](https://covid.colostate.edu)
+ - date_published: 2024-07-22T06:02:36.998246+00:00
+
+ ## Classified Personnel Council | Colorado State University
+ - [https://cpc.colostate.edu](https://cpc.colostate.edu)
+ - date_published: 2024-07-22T06:08:47.874651+00:00
+
+ ## April - 2024 - CSU Life
+ - [https://csulife.source.colostate.edu](https://csulife.source.colostate.edu)
+ - date_published: 2024-04-30T03:48:00.151495+00:00
+
+ ## Home - Campus Recreation
+ - [https://csurec.colostate.edu](https://csurec.colostate.edu)
+ - date_published: 2024-08-11T10:43:37.753195+00:00
+
+ ## College of Veterinary Medicine and Biomedical Sciences | CSU
+ - [http://cvmbs.colostate.edu](http://cvmbs.colostate.edu)
+ - date_published: 2024-07-22T06:02:25.510364+00:00
+
+ ## News from College of Veterinary Medicine and Biomedical Sciences, CSU
+ - [https://cvmbs.source.colostate.edu](https://cvmbs.source.colostate.edu)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Online Directory | Colorado State University
+ - [https://directory.colostate.edu](https://directory.colostate.edu)
+ - date_published: 2024-08-11T10:42:56.394860+00:00
+
+ ## Home - Student Disability Center
+ - [http://disabilitycenter.colostate.edu](http://disabilitycenter.colostate.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Inclusive Excellence at CSU | Office of Inclusive Excellence
+ - [http://diversity.colostate.edu](http://diversity.colostate.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## NetID - Colorado State University System - NetID - Colorado State University System
+ - [http://eid.colostate.edu](http://eid.colostate.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## El Paso County Extension – Providing trusted, practical education to help you solve problems, develop skills and build a better future.
+ - [http://elpaso.extension.colostate.edu](http://elpaso.extension.colostate.edu)
+ - date_published: 2024-07-14T03:54:37.576633+00:00
+
+ ## Employee Resources for Conflict Resolution | Colorado State University
+ - [https://employeeconflictresolution.colostate.edu](https://employeeconflictresolution.colostate.edu)
+ - date_published: 2024-08-11T10:41:34.303082+00:00
+
+ ## Colorado State University Office of Engagement and Extension
+ - [https://engagement.colostate.edu](https://engagement.colostate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Office of Engagement and Extension
+ - [https://engagement.source.colostate.edu](https://engagement.source.colostate.edu)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Home - English | Colorado State University
+ - [https://english.colostate.edu](https://english.colostate.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## News - Walter Scott, Jr. College of Engineering, Colorado State University
+ - [https://engr.source.colostate.edu](https://engr.source.colostate.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Support
+ - [https://fachelp.fm.colostate.edu](https://fachelp.fm.colostate.edu)
+ - date_published: 2024-07-22T06:02:28.253140+00:00
+
+ ## Faculty Council | Colorado State University
+ - [https://facultycouncil.colostate.edu](https://facultycouncil.colostate.edu)
+ - date_published: 2024-07-22T06:08:56.547025+00:00
+
  ## Office of Financial Aid | Colorado State University
  - [https://financialaid.colostate.edu](https://financialaid.colostate.edu)
  - date_published: 2024-08-11T10:43:56.856625+00:00
@@ -3821,184 +4001,4 @@
  ## Welcome | Duke Office of  DKU Relations
  - [https://dkurelations.duke.edu](https://dkurelations.duke.edu)
  - date_published: 2024-09-26T17:46:34+00:00
-
- ## Front Page | Center for Documentary Studies
- - [https://documentarystudies.duke.edu](https://documentarystudies.duke.edu)
- - date_published: 2024-06-16T06:51:05+00:00
-
- ## Front page | Drupal Training & Documentation
- - [https://drupal.trinity.duke.edu](https://drupal.trinity.duke.edu)
- - date_published: 2024-07-21T08:21:35+00:00
-
- ## Home - Duke Science and Technology
- - [https://dst.duke.edu](https://dst.duke.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home - Duke Capital Partners
- - [https://dukecapitalpartners.duke.edu](https://dukecapitalpartners.duke.edu)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Duke University
- - [https://duke.edu](https://duke.edu)
- - date_published: 2024-04-30T04:13:55.301862+00:00
-
- ## DukeEngage
- - [https://dukeengage.duke.edu](https://dukeengage.duke.edu)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Duke Department Of Ophthalmology
- - [https://dukeeyecenter.duke.edu](https://dukeeyecenter.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Duke Forest – Teaching and Research Laboratory
- - [https://dukeforest.duke.edu](https://dukeforest.duke.edu)
- - date_published: 2024-06-24T11:44:16.524993+00:00
-
- ## DukeHub Home
- - [https://dukehub.duke.edu](https://dukehub.duke.edu)
- - date_published: 2024-06-16T07:17:42.494205+00:00
-
- ## Duke | Log In
- - [https://dukelist.duke.edu](https://dukelist.duke.edu)
- - date_published: 2024-09-15T11:56:03.017099+00:00
-
- ## DukeMag
- - [http://dukemagazine.duke.edu](http://dukemagazine.duke.edu)
- - date_published: 2024-09-26T18:01:36+00:00
-
- ## DukeMag
- - [https://dukemag.duke.edu](https://dukemag.duke.edu)
- - date_published: 2024-07-22T04:27:44+00:00
-
- ## Home | DUPRI
- - [https://dupri.duke.edu](https://dupri.duke.edu)
- - date_published: 2024-09-20T12:58:45+00:00
-
- ## Durham, Our Hometown - Duke Undergraduate Admissions
- - [https://durham.duke.edu](https://durham.duke.edu)
- - date_published: 2024-04-30T04:13:47.733513+00:00
-
- ## Duke Electrical and Computer Engineering
- - [https://ece.duke.edu](https://ece.duke.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Front Page | Economics Department
- - [https://econ.duke.edu](https://econ.duke.edu)
- - date_published: 2024-06-22T08:13:59+00:00
-
- ## Duke University Emergency Status
- - [https://emergency.duke.edu](https://emergency.duke.edu)
- - date_published: 2024-06-16T07:16:36+00:00
-
- ## Collections – Nasher Museum of Art at Duke University
- - [https://emuseum.nasher.duke.edu](https://emuseum.nasher.duke.edu)
- - date_published: 2024-09-26T18:05:07.633436+00:00
-
- ## Front Page | English Department
- - [https://english.duke.edu](https://english.duke.edu)
- - date_published: 2024-06-16T07:00:02+00:00
-
- ## Welcome | Duke Innovation & Entrepreneurship
- - [https://entrepreneurship.duke.edu](https://entrepreneurship.duke.edu)
- - date_published: 2024-06-16T06:25:37+00:00
-
- ## Welcome | Conference & Event Services
- - [https://eventservices.duke.edu](https://eventservices.duke.edu)
- - date_published: 2024-09-04T18:52:40+00:00
-
- ## Front Page | Department of Evolutionary Anthropology
- - [https://evolutionaryanthropology.duke.edu](https://evolutionaryanthropology.duke.edu)
- - date_published: 2024-10-14T11:24:02+00:00
-
- ## Duke University Library Exhibits
- - [https://exhibits.library.duke.edu](https://exhibits.library.duke.edu)
- - date_published: 2024-06-17T03:22:10.831708+00:00
-
- ## Duke External Partnerships – Driving Tomorrow's Innovations Through Purposeful Partnerships
- - [https://externalpartnerships.duke.edu](https://externalpartnerships.duke.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Homepage | Office for Faculty Advancement
- - [https://facultyadvancement.duke.edu](https://facultyadvancement.duke.edu)
- - date_published: 2024-09-26T17:43:04+00:00
-
- ## Archives & Manuscripts at Duke University Libraries
- - [https://faids.mcarchives.duke.edu](https://faids.mcarchives.duke.edu)
- - date_published: 2024-10-16T09:14:15.951405+00:00
-
- ## Shibboleth Authentication Request
- - [https://feedcurator.oit.duke.edu](https://feedcurator.oit.duke.edu)
- - date_published: 2024-09-04T19:41:56.671819+00:00
-
- ## Homepage | John Hope Franklin Humanities Institute
- - [https://fhi.duke.edu](https://fhi.duke.edu)
- - date_published: 2024-06-16T07:11:52+00:00
-
- ## Financial Services | Duke
- - [http://finance.duke.edu](http://finance.duke.edu)
- - date_published: 2024-08-08T20:52:41+00:00
-
- ## Homepage | Karsh Office of  Undergraduate Financial Support
- - [https://financialaid.duke.edu](https://financialaid.duke.edu)
- - date_published: 2024-06-16T07:14:28+00:00
-
- ## Duke University Libraries Catalog
- - [https://find.library.duke.edu](https://find.library.duke.edu)
- - date_published: 2024-07-02T04:23:41.461905+00:00
-
- ## FOCS 2020
- - [https://focs2020.cs.duke.edu](https://focs2020.cs.duke.edu)
- - date_published: 2024-07-01T20:05:39.425774+00:00
-
- ## Front Page | Focus Program
- - [https://focus.duke.edu](https://focus.duke.edu)
- - date_published: 2024-09-26T08:19:48+00:00
-
- ## Home | Human Resources
- - [https://forms.hr.duke.edu](https://forms.hr.duke.edu)
- - date_published: 2024-09-26T17:58:41.006179+00:00
-
- ## Home - Duke Office of Foundation Relations
- - [https://foundationrelations.duke.edu](https://foundationrelations.duke.edu)
- - date_published: 2024-06-16T07:16:10.845686+00:00
-
- ## Computer Science - Duke University
- - [http://ftp.cs.duke.edu](http://ftp.cs.duke.edu)
- - date_published: 2024-06-20T17:26:26.032040+00:00
-
- ## Homepage | Duke's Fuqua School of Business
- - [https://fuqua.duke.edu](https://fuqua.duke.edu)
- - date_published: 2024-09-26T18:01:58.548975+00:00
-
- ## Make a Gift to Duke
- - [https://gifts.duke.edu](https://gifts.duke.edu)
- - date_published: 2024-09-04T19:37:35.918134+00:00
-
- ## Home - Giving To Duke
- - [https://giving.duke.edu](https://giving.duke.edu)
- - date_published: 2023-05-22T00:00:00+00:00
-
- ## Home | Duke Global
- - [https://global.duke.edu](https://global.duke.edu)
- - date_published: 2024-06-16T06:04:58+00:00
-
- ## HOME PAGE | Global Education Office
- - [https://globaled.duke.edu](https://globaled.duke.edu)
- - date_published: 2024-06-16T07:15:55.415794+00:00
-
- ## Homepage | Duke Global Health Institute
- - [https://globalhealth.duke.edu](https://globalhealth.duke.edu)
- - date_published: 2024-06-16T07:18:03.992002+00:00
-
- ## Home | Duke Health GME
- - [http://gme.duke.edu](http://gme.duke.edu)
- - date_published: 2024-08-18T08:11:25.792173+00:00
-
- ## Office of Government Relations - Government Relations
- - [https://governmentrelations.duke.edu](https://governmentrelations.duke.edu)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home | Duke Government Relations
- - [https://govrelations.duke.edu](https://govrelations.duke.edu)
- - date_published: 2024-09-27T18:20:42+00:00
 

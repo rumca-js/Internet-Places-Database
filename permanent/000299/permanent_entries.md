@@ -1,3 +1,196 @@
+ ## Unofficial Highscore.dat
+ - [https://highscore.mameworld.info](https://highscore.mameworld.info)
+ - date_published: 2024-06-14T15:50:22.325751+00:00
+
+ ## HispaMAME Frontend
+ - [https://hispamame.mameworld.info](https://hispamame.mameworld.info)
+ - date_published: 2024-06-14T15:49:54.436644+00:00
+
+ ## HitF12!
+ - [https://hitf12.mameworld.info](https://hitf12.mameworld.info)
+ - date_published: 2024-06-14T15:52:31.806755+00:00
+
+ ## HotRod - Unofficial support
+ - [https://hotrod.mameworld.info](https://hotrod.mameworld.info)
+ - date_published: 2024-06-14T15:50:17.762987+00:00
+
+ ## MAMEICONS's BACK !
+ - [https://icons.mameworld.info](https://icons.mameworld.info)
+ - date_published: 2024-06-14T15:53:11.947758+00:00
+
+ ## MAME for iPAQ Pocket PC
+ - [https://imame.mameworld.info](https://imame.mameworld.info)
+ - date_published: 2024-06-14T15:53:15.301846+00:00
+
+ ## FrontEnd XMAME
+ - [https://lanzamame.mameworld.info](https://lanzamame.mameworld.info)
+ - date_published: 2024-06-14T15:51:04.961897+00:00
+
+ ## MadeInMAME32 home page
+ - [https://madeinmame.mameworld.info](https://madeinmame.mameworld.info)
+ - date_published: 2024-06-14T15:49:04.962060+00:00
+
+ ## MameCat32
+ - [https://mamecat32.mameworld.info](https://mamecat32.mameworld.info)
+ - date_published: 2024-06-14T15:48:49.091917+00:00
+
+ ## MameCE3 by Techmaster
+ - [https://mamece3.mameworld.info](https://mamece3.mameworld.info)
+ - date_published: 2024-06-14T15:48:01.620224+00:00
+
+ ## MAME Classic
+ - [https://mameclassic.mameworld.info](https://mameclassic.mameworld.info)
+ - date_published: 2024-06-14T15:48:44.439325+00:00
+
+ ## M.A.M.E. F.E. Official Web Site
+ - [https://mamefe.mameworld.info](https://mamefe.mameworld.info)
+ - date_published: 2024-06-14T15:51:39.453387+00:00
+
+ ## MASH's MAMEINFO
+ - [https://mameinfo.mameworld.info](https://mameinfo.mameworld.info)
+ - date_published: 2024-06-14T15:51:58.444619+00:00
+
+ ## Tafoid's Emulator Utilities [MAMELOAD-ML TNG]
+ - [https://mameload.mameworld.info](https://mameload.mameworld.info)
+ - date_published: 2024-06-14T15:48:32.379837+00:00
+
+ ## Mamemix
+ - [https://mamemix.mameworld.info](https://mamemix.mameworld.info)
+ - date_published: 2024-06-14T15:52:54.455272+00:00
+
+ ## MAMEWorld - The Largest MAME Resource on the Net
+ - [https://mameworld.info](https://mameworld.info)
+ - date_published: 2024-04-28T00:00:00+00:00
+ - tags: ['emulator', 'mame']
+
+ ## The Massive Mame Project - Your One Stop Arcade Cabinet Resource!
+ - [https://massive.mameworld.info](https://massive.mameworld.info)
+ - date_published: 2024-06-14T15:50:26.455656+00:00
+
+ ## MAME Content Manager Plus
+ - [https://mcm.mameworld.info](https://mcm.mameworld.info)
+ - date_published: 2024-06-14T15:49:35.206605+00:00
+
+ ## MiSFiTMAME
+ - [https://misfitmame.mameworld.info](https://misfitmame.mameworld.info)
+ - date_published: 2024-06-14T15:48:58.791090+00:00
+
+ ## Mr. Do!'s Arcade
+ - [https://mrdo.mameworld.info](https://mrdo.mameworld.info)
+ - date_published: 2024-06-14T15:49:34.139652+00:00
+
+ ## Orc's Gaff
+ - [https://orc.mameworld.info](https://orc.mameworld.info)
+ - date_published: 2024-06-14T15:48:18.018277+00:00
+
+ ## PC and Console to JAMMA Page
+ - [https://pc2jamma.mameworld.info](https://pc2jamma.mameworld.info)
+ - date_published: 2024-06-14T15:51:15.756087+00:00
+
+ ## PhilWIP
+ - [https://philwip.mameworld.info](https://philwip.mameworld.info)
+ - date_published: 2024-06-14T15:49:50.913780+00:00
+
+ ## Ranger_lennier's MAME Page
+ - [https://ranger.mameworld.info](https://ranger.mameworld.info)
+ - date_published: 2024-06-14T15:50:57.677922+00:00
+
+ ## Arbee's WIP Emporium
+ - [https://rbelmont.mameworld.info](https://rbelmont.mameworld.info)
+ - date_published: 2024-06-14T15:51:21.937279+00:00
+
+ ## Reip's MAME Wip
+ - [https://reip.mameworld.info](https://reip.mameworld.info)
+ - date_published: 2024-06-14T15:52:48.607034+00:00
+
+ ## Raspy tongue... Retro View - Retrogaming and emulation
+ - [https://retroview.mameworld.info](https://retroview.mameworld.info)
+ - date_published: 2024-06-14T15:50:02.269959+00:00
+
+ ## Twisty's MAME Samples Collection
+ - [https://samples.mameworld.info](https://samples.mameworld.info)
+ - date_published: 2024-06-14T15:51:27.649022+00:00
+
+ ## SetCleaner
+ - [https://setcleaner.mameworld.info](https://setcleaner.mameworld.info)
+ - date_published: 2014-11-08T08:34:05+00:00
+
+ ## smf.mameworld.info
+ - [https://smf.mameworld.info](https://smf.mameworld.info)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Team Japump!!! | Since   11/19/1997
+ - [https://teamjapump.mameworld.info](https://teamjapump.mameworld.info)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Tiger-Heli's Arcade Pages
+ - [https://tigerheli.mameworld.info](https://tigerheli.mameworld.info)
+ - date_published: 2024-06-14T15:48:41.661951+00:00
+
+ ## Tourniquet's MAME News
+ - [https://tourniquet.mameworld.info](https://tourniquet.mameworld.info)
+ - date_published: 2024-06-14T15:48:31.188545+00:00
+
+ ## Turbo MAME - FrontEnd
+ - [https://turbomame.mameworld.info](https://turbomame.mameworld.info)
+ - date_published: 2024-06-14T15:50:40.954712+00:00
+
+ ## ultrastyle
+ - [https://ultrastyle.mameworld.info](https://ultrastyle.mameworld.info)
+ - date_published: 2024-06-14T15:50:44.436349+00:00
+
+ ## unMAMEd arcade games
+ - [https://unmamed.mameworld.info](https://unmamed.mameworld.info)
+ - date_published: 2024-06-14T15:52:08.271546+00:00
+
+ ## Ville's Development Log
+ - [https://vlinde.mameworld.info](https://vlinde.mameworld.info)
+ - date_published: 2024-06-14T15:51:30.233789+00:00
+
+ ## vsyncmame
+ - [https://vsynchmame.mameworld.info](https://vsynchmame.mameworld.info)
+ - date_published: 2024-06-14T15:49:25.319321+00:00
+
+ ## zMame - MAME for the Zaurus
+ - [https://zmame.mameworld.info](https://zmame.mameworld.info)
+ - date_published: 2024-06-14T15:53:14.372682+00:00
+
+ ## Better Ears - Ear Training and Music Theory for Mac, iOS and Android
+ - [https://better-ears.mamp.info](https://better-ears.mamp.info)
+ - date_published: 2024-09-09T20:22:36.112780+00:00
+
+ ## B Flat - lear sight reading on your iPhone or iPad
+ - [https://b-flat.mamp.info](https://b-flat.mamp.info)
+ - date_published: 2024-09-09T20:22:38.017068+00:00
+
+ ## MAMP & MAMP PRO - your local web development solution for PHP and WordPress development
+ - [https://mamp.info](https://mamp.info)
+ - date_published: 2024-05-12T06:39:23.679542+00:00
+
+ ## Receiver - The Radio App for iOS, Android, Fire TV
+ - [https://receiver.mamp.info](https://receiver.mamp.info)
+ - date_published: 2024-09-09T20:22:37.330451+00:00
+
+ ## timeEdition - Time Tracking Software for macOS, iOS and Android
+ - [https://timeedition.mamp.info](https://timeedition.mamp.info)
+ - date_published: 2024-09-09T20:22:35.372459+00:00
+
+ ## Manifest 2023
+ - [https://manifest2023.info](https://manifest2023.info)
+ - date_published: 2024-07-07T07:16:25.390850+00:00
+
+ ## mapf.info | Main / Welcome!
+ - [http://mapf.info](http://mapf.info)
+ - date_published: 2024-09-04T19:02:11.793150+00:00
+
+ ## MARC: Mailing list ARChives
+ - [https://marc.info](https://marc.info)
+ - date_published: 2023-10-25T19:33:43.196860+00:00
+
+ ## Marc Richter's personal site
+ - [https://www.marc-richter.info](https://www.marc-richter.info)
+ - date_published: 2024-06-28T20:08:50.988661+00:00
+
  ## María Fraile Cuentacuentos
  - [https://www.mariafraile.info](https://www.mariafraile.info)
  - date_published: 1970-01-01T00:00:00+00:00
@@ -3853,196 +4046,4 @@
  ## getwtxt-ng - twtxt Registry
  - [https://twtxt.tilde.institute](https://twtxt.tilde.institute)
  - date_published: 2024-08-07T22:55:51.228419+00:00
-
- ## tilde.institute :: Wiki
- - [https://wiki.tilde.institute](https://wiki.tilde.institute)
- - date_published: 2023-10-25T19:36:22.997779+00:00
-
- ## Affinity Star Insurance Brokers Co., Ltd
- - [https://affinitystar.insure](https://affinitystar.insure)
- - date_published: 2024-06-19T06:16:24.853132+00:00
-
- ## Just Insure - Affordable, pay per mile car insurance, where you control the price
- - [https://just.insure](https://just.insure)
- - date_published: 2024-10-21T15:13:10.864597+00:00
-
- ## Homepage - OACPS
- - [http://www.acp.int](http://www.acp.int)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## Home | African Union
- - [https://au.int](https://au.int)
- - date_published: 2024-07-01T10:19:46+00:00
-
- ## Entrepreneurs
- - [https://www.boip.int](https://www.boip.int)
- - date_published: 2024-09-28T23:21:45+00:00
-
- ## Home | Convention on Biological Diversity
- - [https://cbd.int](https://cbd.int)
- - date_published: 2024-06-15T18:45:48+00:00
-
- ## Bienvenue sur le Portail Web du CILSS
- - [http://www.cilss.int](http://www.cilss.int)
- - date_published: 2024-07-15T03:05:28.247364+00:00
-
- ## CMS | Convention on the Conservation of Migratory Species of Wild Animals
- - [https://www.cms.int](https://www.cms.int)
- - date_published: 2024-09-16T19:17:14+00:00
-
- ## Council of Europe Bookshop
- - [https://book.coe.int](https://book.coe.int)
- - date_published: 2024-07-02T23:27:24.124132+00:00
-
- ## The Council of Europe: guardian of Human Rights, Democracy and the Rule of Law for 700 million citizens - Portal - www.coe.int
- - [https://coe.int](https://coe.int)
- - date_published: 2024-05-07T23:44:24.960001+00:00
-
- ## Council of Europe – Online resources
- - [https://edoc.coe.int](https://edoc.coe.int)
- - date_published: 2024-07-02T23:27:11.891577+00:00
-
- ## Safety Of Journalists
- - [https://fom.coe.int](https://fom.coe.int)
- - date_published: 2024-09-13T14:02:11+00:00
-
- ## HUDOC - European Court of Human Rights
- - [http://hudoc.echr.coe.int](http://hudoc.echr.coe.int)
- - date_published: 2024-06-17T11:09:22.073360+00:00
-
- ## ECHR Knowledge Sharing - Gateway homepage - ECHR-KS - Knowledge Sharing
- - [https://ks.echr.coe.int](https://ks.echr.coe.int)
- - date_published: 2024-10-18T20:45:12.597408+00:00
-
- ## Mavise -
- - [http://mavise.obs.coe.int](http://mavise.obs.coe.int)
- - date_published: 2024-08-08T19:39:59.787140+00:00
-
- ## La Médiathèque
- - [http://media-gallery.coe.int](http://media-gallery.coe.int)
- - date_published: 2024-07-02T23:27:18.373637+00:00
-
- ## https://pace.coe.int
- - [https://pace.coe.int](https://pace.coe.int)
- - date_published: 2023-10-25T19:36:23.306616+00:00
-
- ## European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (CPT) - CPT - www.coe.int
- - [http://www.cpt.coe.int](http://www.cpt.coe.int)
- - date_published: 2024-10-18T21:11:53.794129+00:00
-
- ## ECHR - Homepage of the European Court of Human Rights - ECHR - ECHR / CEDH
- - [http://www.echr.coe.int](http://www.echr.coe.int)
- - date_published: 2024-07-02T23:27:20.089772+00:00
-
- ## European Central Bank
- - [http://www.ecb.int](http://www.ecb.int)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## ECMWF | Charts
- - [https://charts.ecmwf.int](https://charts.ecmwf.int)
- - date_published: 2024-06-26T09:33:52+00:00
-
- ## Dashboard - ECMWF Confluence Wiki
- - [https://confluence.ecmwf.int](https://confluence.ecmwf.int)
- - date_published: 2024-06-30T06:34:42.726408+00:00
-
- ## ECMWF
- - [https://ecmwf.int](https://ecmwf.int)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home · ECMWF Events (Indico)
- - [https://events.ecmwf.int](https://events.ecmwf.int)
- - date_published: 2024-06-30T06:34:46.105608+00:00
-
- ## Forum
- - [https://forum.ecmwf.int](https://forum.ecmwf.int)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Public Repositories - ECMWF Bitbucket
- - [https://git.ecmwf.int](https://git.ecmwf.int)
- - date_published: 2024-07-04T08:19:12.592209+00:00
-
- ## ECMWF eLearning
- - [https://learning.ecmwf.int](https://learning.ecmwf.int)
- - date_published: 2024-06-30T06:34:41+00:00
-
- ## ECMWF | Observing System
- - [https://obsstatus.ecmwf.int](https://obsstatus.ecmwf.int)
- - date_published: 2024-04-26T11:19:44+00:00
-
- ## ECMWF | Status
- - [https://status.ecmwf.int](https://status.ecmwf.int)
- - date_published: 2024-06-06T13:16:57+00:00
-
- ## Support Portal - ECMWF Support Portal
- - [https://support.ecmwf.int](https://support.ecmwf.int)
- - date_published: 2024-09-04T15:14:25.039613+00:00
-
- ## EPPO Data Services
- - [https://data.eppo.int](https://data.eppo.int)
- - date_published: 2024-09-25T18:12:16.087039+00:00
-
- ## EPPO Global Database
- - [https://gd.eppo.int](https://gd.eppo.int)
- - date_published: 2024-06-16T05:52:14.614114+00:00
-
- ## Sign in - Matomo
- - [https://stats.eppo.int](https://stats.eppo.int)
- - date_published: 2024-09-25T18:12:18.499600+00:00
-
- ## home page
- - [http://www.eppo.int](http://www.eppo.int)
- - date_published: 2024-09-25T18:12:17.285199+00:00
-
- ## ESA Science & Technology - Science & Technology
- - [http://astronomy2009.esa.int](http://astronomy2009.esa.int)
- - date_published: 2024-08-06T18:13:08.861789+00:00
-
- ## ESA Blog Navigator – Navigator page for active ESA blogs
- - [https://blogs.esa.int](https://blogs.esa.int)
- - date_published: 2024-04-28T02:22:31.017306+00:00
-
- ## ESA Brand Centre
- - [https://brand.esa.int](https://brand.esa.int)
- - date_published: 2024-04-28T02:22:25.047686+00:00
-
- ## ESA Space Solutions
- - [https://business.esa.int](https://business.esa.int)
- - date_published: 2024-10-21T08:05:26.498718+00:00
-
- ## Home
- - [https://climate.esa.int](https://climate.esa.int)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## The ESA Commercialisation gateway
- - [https://commercialisation.esa.int](https://commercialisation.esa.int)
- - date_published: 2024-04-28T02:22:27.370798+00:00
-
- ## ESA Proceedings Database |
- - [https://conference.sdo.esoc.esa.int](https://conference.sdo.esoc.esa.int)
- - date_published: 2024-05-12T07:26:15.581949+00:00
-
- ## Cosmos Home - Cosmos
- - [https://cosmos.esa.int](https://cosmos.esa.int)
- - date_published: 2024-01-09T03:32:43.022113+00:00
-
- ## Discover ESA
- - [https://discover.esa.int](https://discover.esa.int)
- - date_published: 2023-12-14T11:54:08+00:00
-
- ## Earth Online
- - [https://earth.esa.int](https://earth.esa.int)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## European Space Agency
- - [https://esa.int](https://esa.int)
- - date_published: 2024-08-07T22:47:49+00:00
-
- ## ESA - Robotic Exploration of Mars
- - [http://exploration.esa.int](http://exploration.esa.int)
- - date_published: 2024-08-07T22:49:53.669074+00:00
-
- ## https://ideas.esa.int
- - [https://ideas.esa.int](https://ideas.esa.int)
- - date_published: 2023-10-27T17:34:08+00:00
 

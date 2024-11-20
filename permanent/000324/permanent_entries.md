@@ -1,3 +1,199 @@
+ ## hermitage akihabara [エルミタージュ秋葉原]  -アキバ最新情報サイト-
+ - [http://www.gdm.or.jp](http://www.gdm.or.jp)
+ - date_published: 2024-06-21T19:06:58.810723+00:00
+
+ ## 一般社団法人国立代々木競技場世界遺産登録推進協議会
+ - [https://gysc.or.jp](https://gysc.or.jp)
+ - date_published: 2024-07-14T14:14:15.444939+00:00
+
+ ## 全国書店員が選んだ　いちばん！売りたい本　本屋大賞
+ - [https://www.hontai.or.jp](https://www.hontai.or.jp)
+ - date_published: 2024-06-19T09:40:15.946860+00:00
+
+ ## ICPC 国際大学対抗プログラミングコンテスト
+ - [https://icpc.iisf.or.jp](https://icpc.iisf.or.jp)
+ - date_published: 2024-05-06T09:01:27.710527+00:00
+
+ ## 公益財団法人情報科学国際交流財団
+ - [http://www.iisf.or.jp](http://www.iisf.or.jp)
+ - date_published: 2024-06-11T01:08:59+00:00
+
+ ## 公益財団法人 いばらき中小企業グローバル推進機構
+ - [https://www.iis-net.or.jp](https://www.iis-net.or.jp)
+ - date_published: 2024-06-23T22:59:30.620566+00:00
+
+ ## つくば市国際交流協会：日本語講座等案内・ボランティア募集：茨城県つくば市
+ - [https://www.inter.or.jp](https://www.inter.or.jp)
+ - date_published: 2024-06-21T08:16:14+00:00
+
+ ## CVIM研究会へようこそ < CVIM
+ - [http://cvim.ipsj.or.jp](http://cvim.ipsj.or.jp)
+ - date_published: 2024-06-22T08:49:33.151568+00:00
+
+ ## 情報規格調査会
+ - [https://itscj.ipsj.or.jp](https://itscj.ipsj.or.jp)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## 情報処理学会
+ - [https://www.ipsj.or.jp](https://www.ipsj.or.jp)
+ - date_published: 2024-06-16T20:50:31.629696+00:00
+
+ ## 第67回 自動制御連合講演会 –
+ - [https://rengo67.iscie.or.jp](https://rengo67.iscie.or.jp)
+ - date_published: 2024-06-20T04:37:46+00:00
+
+ ## SCI '24 – 第68回 システム制御情報学会 研究発表講演会
+ - [https://sci24.iscie.or.jp](https://sci24.iscie.or.jp)
+ - date_published: 2024-06-10T13:53:00+00:00
+
+ ## 映像情報メディア学会
+ - [http://www.ite.or.jp](http://www.ite.or.jp)
+ - date_published: 2024-07-03T04:37:50.836270+00:00
+
+ ## 公益社団法人 日本通信販売協会【JADMA（ジャドマ）】
+ - [https://www.jadma.or.jp](https://www.jadma.or.jp)
+ - date_published: 2024-07-12T14:59:26.153737+00:00
+
+ ## 化学情報協会
+ - [https://www.jaici.or.jp](https://www.jaici.or.jp)
+ - date_published: 2024-07-14T04:08:48.163303+00:00
+
+ ## 一般財団法人日本医薬情報センター(JAPIC)〜国内外の医薬品に関する情報を提供する法人〜
+ - [https://www.japic.or.jp](https://www.japic.or.jp)
+ - date_published: 2024-08-25T20:12:35+00:00
+
+ ## AnyTime
+ - [https://anytime.jax.or.jp](https://anytime.jax.or.jp)
+ - date_published: 2024-07-09T07:14:44.502939+00:00
+
+ ## ジャクソン・ラボラトリー・ジャパン
+ - [https://www.jax.or.jp](https://www.jax.or.jp)
+ - date_published: 2024-05-09T03:56:55.933450+00:00
+
+ ## トップ | 公益社団法人　日本経済研究センター
+ - [https://www.jcer.or.jp](https://www.jcer.or.jp)
+ - date_published: 2024-07-11T14:47:41.605469+00:00
+
+ ## JEITA 電子情報技術産業協会
+ - [https://www.jeita.or.jp](https://www.jeita.or.jp)
+ - date_published: 2024-10-16T07:59:50.979725+00:00
+
+ ## 全日本囲碁連合 Japan Go Federation（JGOF）
+ - [https://jgof.or.jp](https://jgof.or.jp)
+ - date_published: 2024-06-23T08:00:05.218239+00:00
+
+ ## 公益財団法人日本デザイン振興会
+ - [https://www.jidp.or.jp](https://www.jidp.or.jp)
+ - date_published: 2024-06-24T03:02:06.557513+00:00
+
+ ## 一般財団法人 日本情報経済社会推進協会
+ - [http://www.jipdec.or.jp](http://www.jipdec.or.jp)
+ - date_published: 2024-07-09T00:15:07+00:00
+
+ ## 日本IR協議会
+ - [https://www.jira.or.jp](https://www.jira.or.jp)
+ - date_published: 2024-07-11T14:47:12.326723+00:00
+
+ ## 「JMA会員制度」人と組織のコミュニティ
+ - [https://connect.jma.or.jp](https://connect.jma.or.jp)
+ - date_published: 2024-10-31T10:08:19.195930+00:00
+
+ ## HCJ2025 | ホスピタリティとフードサービスの商談専門展示会
+ - [https://hcj.jma.or.jp](https://hcj.jma.or.jp)
+ - date_published: 2024-10-29T00:56:21+00:00
+
+ ## 猛暑対策展／労働安全衛生展／騒音・振動対策展 3展合同サイト｜日本能率協会
+ - [https://hs-osh.jma.or.jp](https://hs-osh.jma.or.jp)
+ - date_published: 2024-10-30T09:09:02+00:00
+
+ ## ISOWEB｜一般社団法人日本能率協会 ISO研修事業
+ - [https://isoweb.jma.or.jp](https://isoweb.jma.or.jp)
+ - date_published: 2024-10-31T10:07:16.481581+00:00
+
+ ## 一般社団法人日本能率協会　JMA
+ - [https://jma.or.jp](https://jma.or.jp)
+ - date_published: 2024-10-24T07:13:42+00:00
+
+ ## 一般社団法人日本能率協会
+ - [https://jmaqa.jma.or.jp](https://jmaqa.jma.or.jp)
+ - date_published: 2024-06-18T07:26:33+00:00
+
+ ## 「JMA会員制度」人と組織のコミュニティ
+ - [https://member.jma.or.jp](https://member.jma.or.jp)
+ - date_published: 2024-06-19T23:23:58.866201+00:00
+
+ ## 「JMA会員制度」人と組織のコミュニティ
+ - [https://member-list.jma.or.jp](https://member-list.jma.or.jp)
+ - date_published: 2024-06-19T23:24:02.541705+00:00
+
+ ## 日本能率協会（JMAマネジメントスクール）
+ - [https://school.jma.or.jp](https://school.jma.or.jp)
+ - date_published: 2024-10-31T10:07:19.647248+00:00
+
+ ## 一般社団法人 日本雑誌協会
+ - [http://www.j-magazine.or.jp](http://www.j-magazine.or.jp)
+ - date_published: 2024-10-28T23:57:11.803765+00:00
+
+ ## JMSCA 公益社団法人日本山岳・スポーツクライミング協会
+ - [http://www.jma-sangaku.or.jp](http://www.jma-sangaku.or.jp)
+ - date_published: 2024-06-24T01:22:47.456886+00:00
+
+ ## 日本記者クラブ  JapanNationalPressClub (JNPC)
+ - [http://www.jnpc.or.jp](http://www.jnpc.or.jp)
+ - date_published: 2024-07-12T23:23:19.889195+00:00
+
+ ## JPCERT/CC Eyes
+ - [https://blogs.jpcert.or.jp](https://blogs.jpcert.or.jp)
+ - date_published: 2024-06-28T21:39:49.809629+00:00
+
+ ## JPCERT コーディネーションセンター
+ - [https://www.jpcert.or.jp](https://www.jpcert.or.jp)
+ - date_published: 2024-06-21T07:03:12+00:00
+
+ ## 日本製薬工業協会ウェブサイト
+ - [https://www.jpma.or.jp](https://www.jpma.or.jp)
+ - date_published: 2024-06-17T00:04:01+00:00
+
+ ## 日本赤十字社
+ - [http://www.jrc.or.jp](http://www.jrc.or.jp)
+ - date_published: 2024-10-31T16:16:47.258843+00:00
+
+ ## 人とくるまのテクノロジー展 2024
+ - [https://aee.expo-info.jsae.or.jp](https://aee.expo-info.jsae.or.jp)
+ - date_published: 2024-05-04T07:58:05.379205+00:00
+
+ ## Login
+ - [https://aee.regist.jsae.or.jp](https://aee.regist.jsae.or.jp)
+ - date_published: 2024-06-20T04:59:27.102958+00:00
+
+ ## Exhibitor My Page
+ - [https://exb.jsae.or.jp](https://exb.jsae.or.jp)
+ - date_published: 2024-06-20T04:59:33.022639+00:00
+
+ ## “くるまからモビリティへ”の技術展 2024 ONLINE / KuruMobi Tech Expo Online - from Cars to Mobility
+ - [https://expo-info.kurumobi.jsae.or.jp](https://expo-info.kurumobi.jsae.or.jp)
+ - date_published: 2024-06-20T04:59:29.008704+00:00
+
+ ## Login
+ - [https://regist.jsae.or.jp](https://regist.jsae.or.jp)
+ - date_published: 2024-06-20T04:59:24.303806+00:00
+
+ ## 公益社団法人自動車技術会
+ - [https://www.jsae.or.jp](https://www.jsae.or.jp)
+ - date_published: 2024-06-20T04:59:35.911079+00:00
+
+ ## 公社債市場／フェニックス銘柄制度 | 日本証券業協会
+ - [https://market.jsda.or.jp](https://market.jsda.or.jp)
+ - date_published: 2024-05-25T04:46:21+00:00
+
+ ## 日本証券業協会
+ - [https://www.jsda.or.jp](https://www.jsda.or.jp)
+ - date_published: 2024-06-13T06:30:28+00:00
+
+ ## プラズマ・核融合学会
+ - [http://www.jspf.or.jp](http://www.jspf.or.jp)
+ - date_published: 2024-06-16T10:49:09+00:00
+
  ## 一般社団法人日本映像ソフト協会（JVA）
  - [http://www.jva-net.or.jp](http://www.jva-net.or.jp)
  - date_published: 2024-09-26T12:21:56.056114+00:00
@@ -3808,201 +4004,4 @@
  ## Басты бет
  - [https://kbtu.edu.kz](https://kbtu.edu.kz)
  - date_published: 2024-07-04T09:27:33+00:00
-
- ## SDU University
- - [https://sdu.edu.kz](https://sdu.edu.kz)
- - date_published: 2024-07-01T06:47:03+00:00
-
- ## 1С-Битрикс - сервисы и инструменты для бизнеса
- - [https://www.1c-bitrix.kz](https://www.1c-bitrix.kz)
- - date_published: 2024-10-17T14:44:05.506131+00:00
-
- ## 1win Casino мен құмар 1win премиум слоттары ойын атмосферасы
- - [https://1-win-casino.kz](https://1-win-casino.kz)
- - date_published: 2023-12-15T05:09:21+00:00
-
- ## Agronetto Казахстан – онлайн площадка по продаже сельхозтехники и запчастей
- - [https://agronetto.kz](https://agronetto.kz)
- - date_published: 2024-08-11T15:41:10.942696+00:00
-
- ## Официальный дистрибьютор Audi в Казахстане
- - [http://audi.kz](http://audi.kz)
- - date_published: 2024-07-19T22:44:13.158561+00:00
-
- ## Федерация спортивного программирования
- - [https://cpfed.kz](https://cpfed.kz)
- - date_published: 2024-07-04T09:27:51+00:00
-
- ## Авиатор игра: играть онлайн в Казахстане – Официальный сайт Aviator kz
- - [https://aviator.daad.kz](https://aviator.daad.kz)
- - date_published: 2024-10-30T10:51:26+00:00
-
- ## Декатлон Казахстан
- - [https://decathlon.kz](https://decathlon.kz)
- - date_published: 2024-06-15T20:12:30.364546+00:00
-
- ## «Дианетика: современная наука о разуме»
- - [https://www.dianetics.kz](https://www.dianetics.kz)
- - date_published: 2024-09-04T18:06:17.579579+00:00
-
- ## Деловой Казахстан - новости РК и мира на сегодня
- - [https://dknews.kz](https://dknews.kz)
- - date_published: 2024-05-09T06:04:53.170010+00:00
-
- ## Пинап казино в Казахстане
- - [https://eduexpoastana.kz](https://eduexpoastana.kz)
- - date_published: 2024-06-19T07:38:52.762713+00:00
-
- ## Pin Up Казино в Казахстане - Официальный сайт Casino Пин Ап
- - [http://expert-klining.kz](http://expert-klining.kz)
- - date_published: 2024-10-28T06:50:40.934298+00:00
-
- ## Freedom Broker Казахстан | Инвестиционная компания Freedom Broker
- - [https://ffin.kz](https://ffin.kz)
- - date_published: 2024-07-09T18:31:18.829316+00:00
-
- ## Forbes Казахстан
- - [https://forbes.kz](https://forbes.kz)
- - date_published: 2023-11-27T18:25:44.679910+00:00
-
- ## Welcome to nginx!
- - [https://img.forbes.kz](https://img.forbes.kz)
- - date_published: 2024-06-22T18:27:33.867983+00:00
-
- ## Forbes Казахстан
- - [https://m.forbes.kz](https://m.forbes.kz)
- - date_published: 2024-05-06T16:00:42.288911+00:00
-
- ## Подать заявку на участие – Forbes | 30 under 30 | Kazakhstan
- - [https://under30.forbes.kz](https://under30.forbes.kz)
- - date_published: 2024-05-06T16:00:32.054249+00:00
-
- ## Document
- - [https://woman.forbes.kz](https://woman.forbes.kz)
- - date_published: 2024-05-06T16:00:22.396129+00:00
-
- ## Киберспортивный интернет-магазин Goodgame.kz - купить игровые мыши, гарнитуры, клавиатуры с подсветкой в Алматы, Караганде, Нур-Султане (Астане) и по Казахстану
- - [http://www.goodgame.kz](http://www.goodgame.kz)
- - date_published: 2024-07-13T13:34:40.973457+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.kz](https://maps.google.kz)
- - date_published: 2024-07-20T07:41:13.557881+00:00
-
- ## Google
- - [https://www.google.kz](https://www.google.kz)
- - date_published: 2024-06-21T22:25:53.363912+00:00
-
- ## Go Viral - Go Viral
- - [https://goviral.kz](https://goviral.kz)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Homepage
- - [https://www.hilti.kz](https://www.hilti.kz)
- - date_published: 2024-06-20T07:26:03.336679+00:00
-
- ## Informburo.kz: Cвежие новости Казахстана и мира
- - [https://informburo.kz](https://informburo.kz)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Создать сайт интернет магазина бесплатно на конструкторе интернет магазинов InSales Казахстан
- - [https://insales.kz](https://insales.kz)
- - date_published: 2024-10-22T16:27:26.564725+00:00
-
- ## Interattiva | Креативное Агентство
- - [https://interattiva.kz](https://interattiva.kz)
- - date_published: 2024-05-06T16:00:50.354514+00:00
-
- ## Блог Касперского
- - [https://blog.kaspersky.kz](https://blog.kaspersky.kz)
- - date_published: 2024-10-20T23:23:42.906829+00:00
-
- ## Үйге және бизнеске арналған Kaspersky киберқауіпсіздік шешімдері | Kaspersky
- - [https://www.kaspersky.kz](https://www.kaspersky.kz)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Kaspi.kz – Магазин, Платежи, Мой Банк, Переводы, Red, Бонусы, Гид
- - [https://kaspi.kz](https://kaspi.kz)
- - date_published: 2024-07-11T10:47:25.899845+00:00
-
- ## KAZ.KZ - Поисковая Система
- - [http://kaz.kz](http://kaz.kz)
- - date_published: 2016-12-19T06:33:20+00:00
- - tags: ['search engine']
-
- ## Әл-Фараби атындағы Қазақ ұлттық университеті
- - [https://www.kaznu.kz](https://www.kaznu.kz)
- - date_published: 2024-06-23T23:13:35.695105+00:00
-
- ## Казахстанский национальный центр данных - Новости
- - [http://www.kndc.kz](http://www.kndc.kz)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Л. Рон Хаббард, Основатель Саентологии и Дианетики
- - [http://www.lronhubbard.kz](http://www.lronhubbard.kz)
- - date_published: 2024-09-04T18:06:16.712340+00:00
-
- ## Lucky Jet Crash және казино ойындары және мүмкіндіктер байлығы
- - [https://lucky-jet-games.kz](https://lucky-jet-games.kz)
- - date_published: 2024-01-31T05:29:25+00:00
-
- ## Mostbet casino online және сайтында спорттық ставкалар Mosbet kz
- - [https://mostbet-cazino.kz](https://mostbet-cazino.kz)
- - date_published: 2024-03-05T06:01:31+00:00
-
- ## Mostbet Қазақстандағы жоғары төлеммен online casino көшбасшысы
- - [https://mostbet-kazino.kz](https://mostbet-kazino.kz)
- - date_published: 2023-12-28T04:12:38+00:00
-
- ## Mostbet kz online casino және спорттық ставкалар Mosbet Қазақстандағы
- - [https://mostbet-play.kz](https://mostbet-play.kz)
- - date_published: 2024-03-21T07:10:57+00:00
-
- ## Mostbet Kazakhstan толқу мен ұтысқа апаратын жол mosbet
- - [https://mostbet-slot.kz](https://mostbet-slot.kz)
- - date_published: 2024-02-16T07:48:55+00:00
-
- ## Үй - nationalgeographic.kz
- - [https://nationalgeographic.kz](https://nationalgeographic.kz)
- - date_published: 2024-10-14T22:35:48.108478+00:00
-
- ## Shop National Geographic
- - [https://subscribe.nationalgeographic.kz](https://subscribe.nationalgeographic.kz)
- - date_published: 2024-10-14T22:35:53.256494+00:00
-
- ## Мостбет ставки на спорт и казино на официальном сайте: Mostbet Казахстан (KZ)
- - [https://nephro.kz](https://nephro.kz)
- - date_published: 2024-03-13T17:23:43+00:00
-
- ## Сервис объявлений OLX: сайт частных объявлений в Казахстане - купля/продажа б/у товаров на OLX.kz
- - [https://www.olx.kz](https://www.olx.kz)
- - date_published: 2024-08-19T18:04:44.339897+00:00
-
- ## PERI Казахстан Опалубка Строительные леса Инженерное сопровождение
- - [https://www.peri.kz](https://www.peri.kz)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Philips -  Қазақстан
- - [https://www.philips.kz](https://www.philips.kz)
- - date_published: 2024-10-31T12:44:02.763579+00:00
-
- ## Pin Up ən yaxşı onlayn kazino və məşhur slot
- - [https://pin-up-bets.kz](https://pin-up-bets.kz)
- - date_published: 2023-10-27T13:19:09+00:00
-
- ## Pin Up Casino Официальный Сайт, Удовольствие и Удача с pinup
- - [https://pin-up-bk.kz](https://pin-up-bk.kz)
- - date_published: 2024-03-22T06:41:47+00:00
-
- ## pocketbook
- - [https://pocketbook.kz](https://pocketbook.kz)
- - date_published: 2024-07-20T16:12:30.246071+00:00
-
- ## Index of /
- - [http://zalchem.polfirms.kz](http://zalchem.polfirms.kz)
- - date_published: 2023-05-30T00:00:00+00:00
-
- ## Index of /
- - [https://mirror.ps.kz](https://mirror.ps.kz)
- - date_published: 2024-07-20T05:16:12.860644+00:00
 

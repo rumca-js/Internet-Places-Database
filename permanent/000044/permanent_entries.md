@@ -1,3 +1,27 @@
+ ## A. P. Howell
+ - [https://aphowell.com](https://aphowell.com)
+ - date_published: 2024-05-08T06:36:11.095433+00:00
+
+ ## Aphyr - Posts
+ - [https://aphyr.com](https://aphyr.com)
+ - date_published: 2023-10-25T12:42:34.516492+00:00
+
+ ## API2Cart - Unified Shopping Cart API Integration Interface
+ - [https://api2cart.com](https://api2cart.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## API2HTML | Convert raw API data into beautiful webpages
+ - [https://api2html.com](https://api2html.com)
+ - date_published: 2023-03-14T18:26:32+00:00
+
+ ## Home
+ - [https://apiabroad.com](https://apiabroad.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## API Student Application
+ - [https://connect.apiabroad.com](https://connect.apiabroad.com)
+ - date_published: 2024-07-12T23:50:53.239854+00:00
+
  ## API Student Application
  - [https://find.apiabroad.com](https://find.apiabroad.com)
  - date_published: 2024-07-12T23:50:51.005355+00:00
@@ -1181,6 +1205,11 @@ my personal blog
  - [https://apps.apple.com](https://apps.apple.com)
  - date_published: 2023-10-24T20:11:39.065389+00:00
  - tags: ['gatekeeper', 'app store']
+
+ ## Apple Safari
+ - [https://apps.apple.com/pl/app/safari](https://apps.apple.com/pl/app/safari)
+ - date_published: 2024-11-19T15:45:43+00:00
+ - tags: ['web browser', 'gatekeeper']
 
  ## Error
  - [https://apptrailers.itunes.apple.com](https://apptrailers.itunes.apple.com)
@@ -4015,32 +4044,4 @@ my personal blog
  ## ArcGIS Hub
  - [https://trabajoencasa-covid19-mads.hub.arcgis.com](https://trabajoencasa-covid19-mads.hub.arcgis.com)
  - date_published: 2024-09-06T00:00:00+00:00
-
- ## ArcGIS Online Directions and Routing Services
- - [https://traffic.arcgis.com](https://traffic.arcgis.com)
- - date_published: 2024-07-15T06:38:11+00:00
-
- ## Trunk Road Gritter Tracker
- - [https://trunk-road-gritter-tracker-scotgov.hub.arcgis.com](https://trunk-road-gritter-tracker-scotgov.hub.arcgis.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## UN Stats Open SDG Data Hub
- - [https://unstats-undesa.opendata.arcgis.com](https://unstats-undesa.opendata.arcgis.com)
- - date_published: 2024-06-12T12:17:04.804803+00:00
-
- ## IIS Windows Server
- - [https://serverapi.arcgisonline.com](https://serverapi.arcgisonline.com)
- - date_published: 2020-03-25T00:23:56+00:00
-
- ## Folder: /
- - [https://server.arcgisonline.com](https://server.arcgisonline.com)
- - date_published: 2024-05-08T02:51:55.678805+00:00
-
- ## Folder: /
- - [https://services.arcgisonline.com](https://services.arcgisonline.com)
- - date_published: 2024-06-12T10:58:57.691330+00:00
-
- ## ArcGIS
- - [https://utility.arcgisonline.com](https://utility.arcgisonline.com)
- - date_published: 2024-08-19T10:37:36.309844+00:00
 

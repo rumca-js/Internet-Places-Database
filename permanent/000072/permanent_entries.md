@@ -1,3 +1,31 @@
+ ## Music Distribution with No Recurring Fees | CD Baby
+ - [https://cdbaby.com](https://cdbaby.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## DIY Musician
+ - [https://diymusician.cdbaby.com](https://diymusician.cdbaby.com)
+ - date_published: 2024-06-16T11:58:59.580139+00:00
+
+ ## CD Baby Download Portal - Log In
+ - [https://downloads.cdbaby.com](https://downloads.cdbaby.com)
+ - date_published: 2024-06-16T11:59:14.852017+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://duplication.cdbaby.com](https://duplication.cdbaby.com)
+ - date_published: 2024-06-16T11:59:20.952419+00:00
+
+ ## O Seu Assistente de Plano de Lançamento
+ - [https://lancamento.cdbaby.com](https://lancamento.cdbaby.com)
+ - date_published: 2024-10-04T07:01:06.459672+00:00
+
+ ## Tu Asistente de Plan de Lanzamiento
+ - [https://lanzamiento.cdbaby.com](https://lanzamiento.cdbaby.com)
+ - date_published: 2024-10-04T07:01:08.418313+00:00
+
+ ## Music Distribution with No Recurring Fees | CD Baby
+ - [https://members.cdbaby.com](https://members.cdbaby.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## MúsicoDIY
  - [https://musicodiy.cdbaby.com](https://musicodiy.cdbaby.com)
  - date_published: 2024-10-04T07:01:40.205286+00:00
@@ -4015,32 +4043,4 @@ Challonge
  ## Château Mouton Rothschild - Premier Cru Classé, Bordeaux
  - [https://www.chateau-mouton-rothschild.com](https://www.chateau-mouton-rothschild.com)
  - date_published: 2013-02-22T00:00:00+00:00
-
- ## ChatFAI
- - [https://chatfai.com](https://chatfai.com)
- - date_published: 2024-06-13T11:14:44+00:00
-
- ## Check out our sponsor - Spency.tv
- - [http://chatfu.com](http://chatfu.com)
- - date_published: 2024-07-04T14:47:33.213408+00:00
-
- ## Chatfuel | AI agents for automated sales | Meta’s partner
- - [https://ai.chatfuel.com](https://ai.chatfuel.com)
- - date_published: 2024-06-19T20:50:23.838596+00:00
-
- ## Chatfuel Lite
- - [https://app.chatfuel.com](https://app.chatfuel.com)
- - date_published: 2024-06-15T11:56:01.381941+00:00
-
- ## Empower Your Passion, Automate Your Path
- - [https://careers.chatfuel.com](https://careers.chatfuel.com)
- - date_published: 2024-10-30T18:24:57.366549+00:00
-
- ## Chatfuel | AI agents for automated sales | Meta’s partner
- - [https://chatfuel.com](https://chatfuel.com)
- - date_published: 2024-08-06T21:09:14.980724+00:00
-
- ## Chatfuel dashboard
- - [https://dashboard.chatfuel.com](https://dashboard.chatfuel.com)
- - date_published: 2024-09-21T22:58:27.914054+00:00
 

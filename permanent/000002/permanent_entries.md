@@ -456,6 +456,10 @@
  - [https://www.justcomment.ai](https://www.justcomment.ai)
  - date_published: 2024-06-19T20:09:28.324402+00:00
 
+ ## JustPaid - AI Revenue Ops
+ - [https://www.justpaid.ai](https://www.justpaid.ai)
+ - date_published: 2024-11-15T21:17:50+00:00
+
  ## boost user growth with  continuous copy testing
  - [https://justwords.ai](https://justwords.ai)
  - date_published: 2024-02-01T00:00:00+00:00
@@ -4017,8 +4021,4 @@
  ## Quest
  - [https://blog.quest.ai](https://blog.quest.ai)
  - date_published: 2024-10-30T21:13:36.157908+00:00
-
- ## Welcome to Quest | Quest Docs
- - [https://docs.quest.ai](https://docs.quest.ai)
- - date_published: 2024-10-30T21:13:33.765420+00:00
 

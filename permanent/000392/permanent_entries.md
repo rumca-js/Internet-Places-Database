@@ -1,3 +1,227 @@
+ ## Veripool · Veripool
+ - [https://veripool.org](https://veripool.org)
+ - date_published: 2024-01-02T12:13:46+00:00
+ - tags: ['verilog', 'verilator', 'open source']
+
+ ## Vermont Artisans
+ - [https://vermontartisans.org](https://vermontartisans.org)
+ - date_published: 2024-04-14T18:24:14+00:00
+
+ ## Vermont Complex Systems Center
+ - [https://vermontcomplexsystems.org](https://vermontcomplexsystems.org)
+ - date_published: 2024-07-02T12:27:07.177659+00:00
+
+ ## Support Vermont Public
+ - [https://donate.vermontpublic.org](https://donate.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:37.795509+00:00
+
+ ## 2023 Impact Report
+ - [https://impact.vermontpublic.org](https://impact.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:47.763320+00:00
+
+ ## Home
+ - [https://info.vermontpublic.org](https://info.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:34.887017+00:00
+
+ ## Vermont Public's Merch Store
+ - [https://store.vermontpublic.org](https://store.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:56.412032+00:00
+
+ ## Vermont Public
+ - [https://vermontpublic.org](https://vermontpublic.org)
+ - date_published: 2024-01-23T19:10:30.585015+00:00
+
+ ## Vermont Public Video
+ - [https://video.vermontpublic.org](https://video.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:42.768031+00:00
+
+ ## Vermont Technology Alliance – Supporting, promoting, and growing tech-focused businesses and jobs in Vermont
+ - [https://vermonttechnologyalliance.org](https://vermonttechnologyalliance.org)
+ - date_published: 2024-06-15T15:57:23.315409+00:00
+
+ ## Verna J. Kirkness Education Foundation - Home
+ - [https://vernajkirkness.org](https://vernajkirkness.org)
+ - date_published: 2024-08-09T03:53:14.659066+00:00
+
+ ## CHIPS at WPI
+ - [https://vernamlab.org](https://vernamlab.org)
+ - date_published: 2023-11-10T00:00:00+00:00
+
+ ## Vernon Howard's Higher World
+ - [https://vernonhoward.org](https://vernonhoward.org)
+ - date_published: 2024-02-08T17:34:02.979786+00:00
+
+ ## Louis-Philippe Véronneau - Home
+ - [https://veronneau.org](https://veronneau.org)
+ - date_published: 2024-04-19T21:34:56+00:00
+
+ ## Verovio
+ - [https://www.verovio.org](https://www.verovio.org)
+ - date_published: 2024-11-08T11:02:10+00:00
+
+ ## Bundesverband E-Commerce & Versandhandel Deutschland e.V.
+ - [http://www.versandhandel.org](http://www.versandhandel.org)
+ - date_published: 2024-07-24T06:34:55.544508+00:00
+
+ ## VersaTiles - VersaTiles
+ - [https://versatiles.org](https://versatiles.org)
+ - date_published: 2024-04-14T10:33:00+00:00
+
+ ## Welcome to Verse Daily!
+ - [https://www.versedaily.org](https://www.versedaily.org)
+ - date_published: 2024-08-11T05:38:54.201605+00:00
+
+ ## Versipel New Music
+ - [https://versipel.org](https://versipel.org)
+ - date_published: 2024-07-12T14:20:57.375276+00:00
+
+ ## Versus Arthritis
+ - [https://www.versusarthritis.org](https://www.versusarthritis.org)
+ - date_published: 2024-06-28T12:04:33.938754+00:00
+
+ ## Vertebrate Genomes Project
+ - [https://vertebrategenomesproject.org](https://vertebrategenomesproject.org)
+ - date_published: 2024-05-08T06:03:35.266235+00:00
+
+ ## VERTIC - The Verification Research, Training and Information Centre
+ - [https://vertic.org](https://vertic.org)
+ - date_published: 2024-10-18T18:42:24.783952+00:00
+
+ ## Home - Society of Vertebrate Paleontology
+ - [http://www.vertpaleo.org](http://www.vertpaleo.org)
+ - date_published: 2024-06-30T10:08:45.141926+00:00
+
+ ## Home - Vesalius Trust
+ - [http://www.vesaliustrust.org](http://www.vesaliustrust.org)
+ - date_published: 2021-11-18T00:00:00+00:00
+
+ ## Discover a Life Rebalanced - Vestibular Disorders Association
+ - [https://vestibular.org](https://vestibular.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## National Disabled Veterans Golf Clinic
+ - [https://www.veteransgolfclinic.org](https://www.veteransgolfclinic.org)
+ - date_published: 2024-07-09T22:51:04.211591+00:00
+
+ ## Veteran Web Hosting Services
+ - [http://veteranwebservices.org](http://veteranwebservices.org)
+ - date_published: 2023-11-24T15:19:36+00:00
+
+ ## Home - Veterinary Clinical Trials Registry
+ - [https://veterinaryclinicaltrials.org](https://veterinaryclinicaltrials.org)
+ - date_published: 2024-08-05T17:13:14.240541+00:00
+
+ ## vetta project
+ - [https://vetta.org](https://vetta.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://vetupdates.org](https://vetupdates.org)
+ - date_published: 2024-07-21T02:14:12.106687+00:00
+
+ ## Vetusware.org: Welcome to the forum
+ - [https://vetusware.org](https://vetusware.org)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Gynvael's Blog
+ - [https://j00ru.vexillium.org](https://j00ru.vexillium.org)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## oshogbo//vx
+ - [https://oshogbo.vexillium.org](https://oshogbo.vexillium.org)
+ - date_published: 2024-08-18T22:44:29.392221+00:00
+
+ ## Vexpr
+ - [https://vexpr.org](https://vexpr.org)
+ - date_published: 2024-01-11T20:47:33+00:00
+
+ ## Home
+ - [https://vffcu.org](https://vffcu.org)
+ - date_published: 2024-05-09T07:37:45.303472+00:00
+
+ ## Home
+ - [https://vfmk.org](https://vfmk.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Veterans For Responsible Leadership
+ - [https://vfrl.org](https://vfrl.org)
+ - date_published: 2024-06-27T10:35:31.693740+00:00
+
+ ## Video Game Preservation Museum
+ - [https://vgpm.org](https://vgpm.org)
+ - date_published: 2024-06-29T06:55:37.359256+00:00
+
+ ## Video Games Without Borders – great games for a great cause
+ - [https://vgwb.org](https://vgwb.org)
+ - date_published: 2023-09-09T14:50:38+00:00
+
+ ## Vanderburgh Humane Society
+ - [https://www.vhslifesaver.org](https://www.vhslifesaver.org)
+ - date_published: 2024-07-08T16:55:40.327696+00:00
+
+ ## VHWDA | Virginia Health Workforce Development Authority
+ - [https://www.vhwda.org](https://www.vhwda.org)
+ - date_published: 2024-06-17T16:09:21+00:00
+
+ ## VIA Character Strengths Survey & Character Reports | VIA Institute
+ - [https://viacharacter.org](https://viacharacter.org)
+ - date_published: 2024-05-12T05:38:22.986305+00:00
+
+ ## VIAF
+ - [http://viaf.org](http://viaf.org)
+ - date_published: 2024-05-23T05:43:53+00:00
+
+ ## Welcome at ViaISN.org.
+ - [https://viaisn.org](https://viaisn.org)
+ - date_published: 2024-05-08T05:43:42.896249+00:00
+
+ ## ViaNetworking
+ - [https://vianetworking.org](https://vianetworking.org)
+ - date_published: 2024-09-15T08:05:27.084937+00:00
+
+ ## VIA REGIA - Kulturroute des Europarates
+ - [https://via-regia.org](https://via-regia.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## vibe.d
+ - [https://vibed.org](https://vibed.org)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Vibrant Emotional Health
+ - [https://www.vibrant.org](https://www.vibrant.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Vibrant Credit Union | High-Yield Savings and Checking Accounts
+ - [https://vibrantcreditunion.org](https://vibrantcreditunion.org)
+ - date_published: 2024-05-09T07:32:54.432058+00:00
+
+ ## Umami
+ - [https://analytics.vicchi.org](https://analytics.vicchi.org)
+ - date_published: 2024-08-18T08:59:06.167573+00:00
+
+ ## Gary Gale •
+            Gary Gale
+ - [https://vicchi.org](https://vicchi.org)
+ - date_published: 2023-10-05T18:06:13+00:00
+ - tags: ['personal']
+
+ ## Viceroy Research | A group of individuals that see the world differently.
+ - [https://viceroyresearch.org](https://viceroyresearch.org)
+ - date_published: 2024-05-22T20:36:51.297418+00:00
+
+ ## U.S. Legal Resource
+ - [https://viceteam.org](https://viceteam.org)
+ - date_published: 2024-05-23T11:39:45+00:00
+ - tags: ['seo', 'website marketing']
+
+ ## https://victimservicecenter.org/
+ - [https://victimservicecenter.org](https://victimservicecenter.org)
+ - date_published: 2024-07-03T14:41:05.521190+00:00
+
+ ## Home | Victims For Justice
+ - [https://victimsforjustice.org](https://victimsforjustice.org)
+ - date_published: 2018-01-04T00:31:51+00:00
+
  ## The Dictionary of Victorian London, by Lee Jackson, author
  - [http://www.victorianlondon.org](http://www.victorianlondon.org)
  - date_published: 2023-10-19T16:56:59+00:00
@@ -3819,224 +4043,4 @@
  ## Console Standard
  - [https://console.spec.whatwg.org](https://console.spec.whatwg.org)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## HTML Standard, Edition for Web Developers
- - [https://developers.whatwg.org](https://developers.whatwg.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## DOM Standard
- - [https://dom.spec.whatwg.org](https://dom.spec.whatwg.org)
- - date_published: 2024-06-17T11:24:05+00:00
-
- ## Encoding Standard
- - [https://encoding.spec.whatwg.org](https://encoding.spec.whatwg.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Fetch Standard
- - [https://fetch.spec.whatwg.org](https://fetch.spec.whatwg.org)
- - date_published: 2024-06-17T11:23:24+00:00
-
- ## File System Standard
- - [https://fs.spec.whatwg.org](https://fs.spec.whatwg.org)
- - date_published: 2024-06-28T23:01:56+00:00
-
- ## Fullscreen API Standard
- - [https://fullscreen.spec.whatwg.org](https://fullscreen.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## HTML Standard
- - [https://html.spec.whatwg.org](https://html.spec.whatwg.org)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## Ideas — WHATWG
- - [https://idea.whatwg.org](https://idea.whatwg.org)
- - date_published: 2024-09-20T16:18:48+00:00
-
- ## Infra Standard
- - [https://infra.spec.whatwg.org](https://infra.spec.whatwg.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mailing Lists — WHATWG
- - [https://lists.whatwg.org](https://lists.whatwg.org)
- - date_published: 2024-06-19T13:40:43+00:00
-
- ## MIME Sniffing Standard
- - [https://mimesniff.spec.whatwg.org](https://mimesniff.spec.whatwg.org)
- - date_published: 2024-07-15T14:28:18+00:00
-
- ## Notifications API Standard
- - [https://notifications.spec.whatwg.org](https://notifications.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Participation — WHATWG
- - [https://participate.whatwg.org](https://participate.whatwg.org)
- - date_published: 2024-07-03T03:46:07+00:00
-
- ## Quirks Mode Standard
- - [https://quirks.spec.whatwg.org](https://quirks.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Index of /
- - [https://resources.whatwg.org](https://resources.whatwg.org)
- - date_published: 2024-06-17T02:21:53.101553+00:00
-
- ## Standards — WHATWG
- - [https://spec.whatwg.org](https://spec.whatwg.org)
- - date_published: 2024-06-05T15:05:22+00:00
-
- ## Storage Standard
- - [https://storage.spec.whatwg.org](https://storage.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Streams Standard
- - [https://streams.spec.whatwg.org](https://streams.spec.whatwg.org)
- - date_published: 2024-06-20T07:02:21+00:00
-
- ## Test Utils Standard
- - [https://testutils.spec.whatwg.org](https://testutils.spec.whatwg.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## URL Pattern Standard
- - [https://urlpattern.spec.whatwg.org](https://urlpattern.spec.whatwg.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## URL Standard
- - [https://url.spec.whatwg.org](https://url.spec.whatwg.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Web IDL Standard
- - [https://webidl.spec.whatwg.org](https://webidl.spec.whatwg.org)
- - date_published: 2024-07-02T03:12:26+00:00
-
- ## WebSockets Standard
- - [https://websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Web Hypertext Application Technology Working Group (WHATWG)
- - [https://whatwg.org](https://whatwg.org)
- - date_published: 2024-05-11T05:35:57.397694+00:00
-
- ## WHATWG Wiki
- - [https://wiki.whatwg.org](https://wiki.whatwg.org)
- - date_published: 2024-03-18T17:29:51+00:00
-
- ## XMLHttpRequest Standard
- - [https://xhr.spec.whatwg.org](https://xhr.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## What Would You Say?
- - [https://whatwouldyousay.org](https://whatwouldyousay.org)
- - date_published: 2024-07-03T06:01:10+00:00
-
- ## Home - Wheelchairgames
- - [https://wheelchairgames.org](https://wheelchairgames.org)
- - date_published: 2021-09-13T13:07:49+00:00
-
- ## Wheelmap
- - [https://wheelmap.org](https://wheelmap.org)
- - date_published: 2024-07-14T14:49:45.675731+00:00
-
- ## wheels.org
- - [https://www.wheels.org](https://www.wheels.org)
- - date_published: 2024-10-31T15:40:37.846433+00:00
-
- ## Home - When We All Vote
- - [https://whenweallvote.org](https://whenweallvote.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home - Find Shooting Ranges Near You | Where To Shoot
- - [http://wheretoshoot.org](http://wheretoshoot.org)
- - date_published: 2024-07-04T00:00:39.039871+00:00
-
- ## WHI Lab ·
- - [https://whilab.org](https://whilab.org)
- - date_published: 2024-07-18T00:37:30+00:00
-
- ## Whiley
- - [https://whiley.org](https://whiley.org)
- - date_published: 2024-02-11T22:19:37+00:00
-
- ## Whipsnade Zoo | A ZSL conservation zoo
- - [https://www.whipsnadezoo.org](https://www.whipsnadezoo.org)
- - date_published: 2024-10-15T07:06:03.124164+00:00
-
- ## Signal Support
- - [http://support.whispersystems.org](http://support.whispersystems.org)
- - date_published: 2015-10-20T00:00:00+00:00
-
- ## Signal Messenger: Speak Freely
- - [https://whispersystems.org](https://whispersystems.org)
- - date_published: 2024-08-07T14:57:31.650074+00:00
-
- ## Whispy
- - [https://whispy.org](https://whispy.org)
- - date_published: 2024-07-08T09:28:18.387893+00:00
-
- ## Log in | Government Accountability Project CiviCRM
- - [https://crm.whistleblower.org](https://crm.whistleblower.org)
- - date_published: 2024-06-30T02:34:48.783566+00:00
-
- ## Home - Government Accountability Project
- - [https://whistleblower.org](https://whistleblower.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Whistleblower Aid
- - [https://whistlebloweraid.org](https://whistlebloweraid.org)
- - date_published: 2024-01-04T10:20:01+00:00
-
- ## National Whistleblower Center (NWC) - Protecting Whistleblowers
- - [https://whistleblowers.org](https://whistleblowers.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Whistleblower Network News
- - [https://whistleblowersblog.org](https://whistleblowersblog.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - Whistleblowing International Network
- - [https://whistleblowingnetwork.org](https://whistleblowingnetwork.org)
- - date_published: 2024-09-02T11:12:19.909817+00:00
-
- ## Welcome | Whitebark Pine Ecosystem Foundation
- - [http://whitebarkfound.org](http://whitebarkfound.org)
- - date_published: 2024-09-18T02:06:27.665459+00:00
-
- ## 駅からマンホール
- - [https://ekikaramanhole.whitebeach.org](https://ekikaramanhole.whitebeach.org)
- - date_published: 2024-08-11T17:50:56.417565+00:00
-
- ## White Bear Center for the Arts
- - [https://whitebeararts.org](https://whitebeararts.org)
- - date_published: 2024-07-12T21:42:43.716344+00:00
-
- ## Home - Whitecatboard.org - The Internet of Things for Humans
- - [https://whitecatboard.org](https://whitecatboard.org)
- - date_published: 2024-09-05T18:18:03.770859+00:00
-
- ## Homepage
- - [https://www.whitehousehistory.org](https://www.whitehousehistory.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## White-Nose Syndrome
- - [https://whitenosesyndrome.org](https://whitenosesyndrome.org)
- - date_published: 2024-04-08T17:55:03+00:00
-
- ## White Oak Conservation - Animal Conservation in Yulee, Florida
- - [https://www.whiteoakwildlife.org](https://www.whiteoakwildlife.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## whitequark's lab notebook
- - [https://lab.whitequark.org](https://lab.whitequark.org)
- - date_published: 2023-07-22T03:37:15+00:00
-
- ## irc logs at libera.irclog.whitequark.org
- - [https://libera.irclog.whitequark.org](https://libera.irclog.whitequark.org)
- - date_published: 2024-05-08T12:03:16.338108+00:00
-
- ## White Rock Center of Hope
- - [https://whiterockcenterofhope.org](https://whiterockcenterofhope.org)
- - date_published: 2024-07-14T12:32:12.073808+00:00
-
- ## Home - White Rock Lake Conservancy
- - [http://www.whiterockdallas.org](http://www.whiterockdallas.org)
- - date_published: 2024-04-17T00:00:00+00:00
 

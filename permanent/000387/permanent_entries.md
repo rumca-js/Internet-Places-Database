@@ -1,3 +1,222 @@
+ ## Shorenstein Center on Media, Politics and Public Policy
+ - [https://shorensteincenter.org](https://shorensteincenter.org)
+ - date_published: 2024-05-09T07:03:37.690627+00:00
+
+ ## Shortbread
+ - [https://shortbread-tiles.org](https://shortbread-tiles.org)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Shoshin College
+ - [https://shoshincollege.org](https://shoshincollege.org)
+ - date_published: 2024-10-20T21:46:19.924555+00:00
+
+ ## About Adam Shostack
+ - [https://adam.shostack.org](https://adam.shostack.org)
+ - date_published: 2024-08-19T21:34:33.566913+00:00
+
+ ## Home
+ - [https://shostack.org](https://shostack.org)
+ - date_published: 2024-05-09T07:39:17.970171+00:00
+
+ ## Shotcut Forum
+ - [https://forum.shotcut.org](https://forum.shotcut.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Shotcut - Home
+ - [https://shotcut.org](https://shotcut.org)
+ - date_published: 2024-03-28T21:45:17+00:00
+ - tags: ['desktop program', 'video editor']
+
+ ## שוברים שתיקה
+ - [https://www.shovrimshtika.org](https://www.shovrimshtika.org)
+ - date_published: 2024-10-22T20:24:38.522729+00:00
+
+ ## Home
+ - [http://www.showhope.org](http://www.showhope.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Show Up Utah
+ - [https://showuputah.org](https://showuputah.org)
+ - date_published: 2024-06-15T22:36:09.450286+00:00
+
+ ## Home - Summer Health Professions Education Program
+ - [http://www.shpep.org](http://www.shpep.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Shreveport Martyrs | Servants of God
+ - [https://shreveportmartyrs.org](https://shreveportmartyrs.org)
+ - date_published: 2024-06-20T23:56:03.175193+00:00
+
+ ## shreyans
+ - [https://shreyans.org](https://shreyans.org)
+ - date_published: 2023-11-09T19:00:05.108858+00:00
+
+ ## Shriners International | 150 years of Fun, Fellowship & Philanthropy
+ - [https://www.shrinersinternational.org](https://www.shrinersinternational.org)
+ - date_published: 2024-10-18T23:24:50.248896+00:00
+
+ ## My SHRM
+ - [https://account.shrm.org](https://account.shrm.org)
+ - date_published: 2024-04-02T07:58:08+00:00
+
+ ## SHRM24 Annual Conference
+ - [https://annual.shrm.org](https://annual.shrm.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## SHRM Events & Conferences | Connect with Top HR Pros
+ - [https://conferences.shrm.org](https://conferences.shrm.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## SHRM’s HR Jobs. Find or Post HR jobs. Search HR Resume Center. - SHRM's HR Jobs
+ - [https://jobs.shrm.org](https://jobs.shrm.org)
+ - date_published: 2024-07-19T23:04:16.877824+00:00
+
+ ## Welcome to SHRM | The Voice of All Things Work
+ - [https://pages.shrm.org](https://pages.shrm.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## SHRM - The Voice of All Things Work
+ - [https://shrm.org](https://shrm.org)
+ - date_published: 2023-10-25T22:08:14.306313+00:00
+
+ ## Welcome to SHRM | The Voice of All Things Work
+ - [https://stage-aem-www.shrm.org](https://stage-aem-www.shrm.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## SHRM Store - The World's Largest HR Store
+ - [https://store.shrm.org](https://store.shrm.org)
+ - date_published: 2024-07-19T23:09:28.656288+00:00
+
+ ## Customer Experience Community
+ - [https://support.shrm.org](https://support.shrm.org)
+ - date_published: 2023-07-20T23:09:29+00:00
+
+ ## Volunteer Leader Community
+ - [https://vlrc.shrm.org](https://vlrc.shrm.org)
+ - date_published: 2023-07-20T23:04:21+00:00
+
+ ## Shtetl - Haredi Free Press
+ - [https://shtetl.org](https://shtetl.org)
+ - date_published: 2023-10-25T10:53:52.750732+00:00
+
+ ## 书格
+ - [http://shuge.org](http://shuge.org)
+ - date_published: 2024-05-22T08:00:51+00:00
+
+ ## Shutter
+ - [http://shutter-project.org](http://shutter-project.org)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Digiclub
+ - [https://shuttleworthfoundation.org](https://shuttleworthfoundation.org)
+ - date_published: 2024-08-11T03:54:06.220644+00:00
+
+ ## Home
+ — Shweta Narayan
+ - [https://shwetanarayan.org](https://shwetanarayan.org)
+ - date_published: 2021-05-03T07:45:03+00:00
+
+ ## SIAM: Society for Industrial and Applied Mathematics
+ - [https://archive.siam.org](https://archive.siam.org)
+ - date_published: 2024-05-09T04:52:55.255308+00:00
+
+ ## 2024 Travel Awards Program - Program Application and Nominator Portal
+ - [https://awards.siam.org](https://awards.siam.org)
+ - date_published: 2024-06-30T11:21:05.965279+00:00
+
+ ## Cierpliwości...
+ - [https://bookstore.siam.org](https://bookstore.siam.org)
+ - date_published: 2024-05-09T04:53:11.287487+00:00
+
+ ## Home - SIAM
+ - [https://engage.siam.org](https://engage.siam.org)
+ - date_published: 2024-05-09T04:53:02.840246+00:00
+
+ ## Cierpliwości...
+ - [https://epubs.siam.org](https://epubs.siam.org)
+ - date_published: 2024-03-03T23:24:56.260599+00:00
+
+ ## The History of Numerical Analysis and Scientific Computing
+ - [http://history.siam.org](http://history.siam.org)
+ - date_published: 2010-02-08T19:31:22+00:00
+
+ ## SIAM: Career Center
+ - [http://jobs.siam.org](http://jobs.siam.org)
+ - date_published: 2024-07-09T11:48:22.139311+00:00
+
+ ## MathWorks Math Modeling Challenge (M3 Challenge)
+ - [https://m3challenge.siam.org](https://m3challenge.siam.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## SIAM | Home
+ - [https://math.siam.org](https://math.siam.org)
+ - date_published: 2024-05-09T04:52:49.549425+00:00
+
+ ## Conference Participation System
+ - [http://meetings.siam.org](http://meetings.siam.org)
+ - date_published: 2024-07-15T02:38:26.466054+00:00
+
+ ## My M3 Challenge | My M3 Challenge
+ - [https://mym3challenge.siam.org](https://mym3challenge.siam.org)
+ - date_published: 2024-07-09T11:48:27.560898+00:00
+
+ ## Welcome to SIAM
+ - [https://my.siam.org](https://my.siam.org)
+ - date_published: 2024-05-09T04:53:06.129240+00:00
+
+ ## SIAM | Home
+ - [https://siam.org](https://siam.org)
+ - date_published: 2024-03-04T07:21:24+00:00
+ - tags: ['math articles']
+
+ ## SIAM News > Home
+ - [https://sinews.siam.org](https://sinews.siam.org)
+ - date_published: 2024-05-09T04:52:52.563815+00:00
+
+ ## Single Sign On
+ - [https://sso.siam.org](https://sso.siam.org)
+ - date_published: 2024-07-09T11:48:43.133120+00:00
+
+ ## Сибирь.Реалии
+ - [https://sibreal.org](https://sibreal.org)
+ - date_published: 2023-12-18T14:56:48.646089+00:00
+
+ ## Sichos in English
+ - [http://www.sichosinenglish.org](http://www.sichosinenglish.org)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## SICSA Conference 2024 – SICSA promotes international excellence in University-led research, education, and knowledge exchange for Scottish Informatics and Computer Science. We are an SFC-funded Research Pool comprising all 14 Scottish Higher Education Computer Science & Informatics Schools and Departments.
+ - [https://sicsaconf.org](https://sicsaconf.org)
+ - date_published: 2024-07-04T18:54:59.585902+00:00
+
+ ## Sic Transit Philadelphia
+ - [http://sictransitphiladelphia.org](http://sictransitphiladelphia.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## SID 2024 Annual Meeting | Society for Investigative Dermatology
+ - [https://sidannualmeeting.org](https://sidannualmeeting.org)
+ - date_published: 2024-05-09T05:39:53.361698+00:00
+
+ ## Inicio, Seminario Iberoamericano de Diversidad y Accesibilidad en la Red
+ - [http://www.sidar.org](http://www.sidar.org)
+ - date_published: 2024-09-28T21:36:45.049576+00:00
+
+ ## Homepage | Side Effects | Health and Medical News
+ - [https://www.sideeffectspublicmedia.org](https://www.sideeffectspublicmedia.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - Side Hustle Science
+ - [https://sidehustlescience.org](https://sidehustlescience.org)
+ - date_published: 2024-06-19T23:45:23+00:00
+
+ ## Simple, efficient background jobs for Ruby
+ - [https://sidekiq.org](https://sidekiq.org)
+ - date_published: 2024-02-04T19:04:03+00:00
+
+ ## Our Work - SIDO
+ - [https://www.sidoamerica.org](https://www.sidoamerica.org)
+ - date_published: 2024-10-31T10:54:23.023669+00:00
+
  ## Sid Roth’s It’s Supernatural!™
  - [https://sidroth.org](https://sidroth.org)
  - date_published: 2024-09-15T00:00:00+00:00
@@ -3814,220 +4033,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## SPDX – Linux Foundation Projects Site
  - [https://spdx.org](https://spdx.org)
  - date_published: 2024-04-30T00:28:55.279354+00:00
-
- ## SPDX Online Tool
- - [https://tools.spdx.org](https://tools.spdx.org)
- - date_published: 2024-07-22T17:24:36.348915+00:00
-
- ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
- - [http://www.spdxc.org](http://www.spdxc.org)
- - date_published: 2024-07-15T04:11:40.766383+00:00
-
- ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
- - [http://www.spe.org](http://www.spe.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## SPEAKEZEE.ORG
- - [https://speakezee.org](https://speakezee.org)
- - date_published: 2024-06-29T02:57:45.918687+00:00
-
- ## Speakit – Film & TV Production
- - [https://www.speakit.org](https://www.speakit.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Welcome to ICPE2020: ICPE 2020
- - [https://icpe2020.spec.org](https://icpe2020.spec.org)
- - date_published: 2021-03-09T14:22:10+00:00
-
- ## SPEC Research Group
- - [https://research.spec.org](https://research.spec.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Abu Simbel: Secret of Ramses
- - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
- - date_published: 2006-06-25T11:55:50+00:00
-
- ## Akton Films
- - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
- - date_published: 2007-10-22T21:20:07+00:00
-
- ## Bacteria, el emulador mas pequeño del mundo
- - [http://bacteria.speccy.org](http://bacteria.speccy.org)
- - date_published: 2012-11-06T12:30:39+00:00
-
- ## B.A.S.E.
- - [http://base.speccy.org](http://base.speccy.org)
- - date_published: 2008-03-01T20:06:18+00:00
-
- ## Página de Bibosoft
- - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
- - date_published: 2014-11-26T22:37:21+00:00
-
- ## Alexander Podzhunas ZX-Projects/TAP VERSION
- - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
- - date_published: 2011-01-11T16:52:26+00:00
-
- ## Documento sin título
- - [http://canadul.speccy.org](http://canadul.speccy.org)
- - date_published: 2023-10-31T11:23:01+00:00
-
- ## CargandoLeches
- - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
- - date_published: 2012-06-09T14:18:02+00:00
-
- ## Compiler Software
- - [https://compiler.speccy.org](https://compiler.speccy.org)
- - date_published: 2024-05-09T09:07:05.232781+00:00
-
- ## Curso de Código Máquina del ZX-Spectrum
- - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
- - date_published: 2003-09-25T08:53:47+00:00
-
- ## CZArg -Sitio dedicado al Spectrum Argentino y su familia.
- - [http://czarg.speccy.org](http://czarg.speccy.org)
- - date_published: 2021-06-01T00:00:00+00:00
-
- ## CZ Spectrum
- - [http://czspectrum.speccy.org](http://czspectrum.speccy.org)
- - date_published: 2002-10-24T18:44:32+00:00
-
- ## ESpectrum: La página web de los programas españoles para Spectrum
- - [http://espectrum.speccy.org](http://espectrum.speccy.org)
- - date_published: 2024-08-07T08:59:35.134862+00:00
-
- ## foro.speccy.org - Página principal
- - [http://foro.speccy.org](http://foro.speccy.org)
- - date_published: 2024-08-07T08:59:46.564864+00:00
-
- ## El hardware del spectrum
- - [http://hardware.speccy.org](http://hardware.speccy.org)
- - date_published: 2023-03-21T22:31:46+00:00
-
- ## JaS - A Java Spectrum emulator
- - [http://jas.speccy.org](http://jas.speccy.org)
- - date_published: 2011-03-19T22:25:11+00:00
-
- ## JSpeccy, empieza a jugar sin tener que compilar
- - [http://jspeccy.speccy.org](http://jspeccy.speccy.org)
- - date_published: 2015-08-08T16:12:57+00:00
-
- ## K y Enter, la página de los listados MicroHobby
- - [http://kyenter.speccy.org](http://kyenter.speccy.org)
- - date_published: 2003-07-07T21:13:11+00:00
-
- ## La ColecciÃ³n de LoadÂ´nÂ´Run
- - [http://loadnrun.speccy.org](http://loadnrun.speccy.org)
- - date_published: 2023-09-18T11:13:10+00:00
-
- ## Magazine ZX - Lista de Revistas
- - [http://magazinezx.speccy.org](http://magazinezx.speccy.org)
- - date_published: 2023-08-22T12:23:16+00:00
-
- ## Los Manuales del Spectrum
- - [http://manuales.speccy.org](http://manuales.speccy.org)
- - date_published: 2004-12-08T13:05:18+00:00
-
- ## SevenuP
- - [http://metalbrain.speccy.org](http://metalbrain.speccy.org)
- - date_published: 2006-12-17T13:30:29+00:00
-
- ## MHOnline
- - [http://mhonline.speccy.org](http://mhonline.speccy.org)
- - date_published: 2024-08-07T08:59:09.970518+00:00
-
- ## MHoogle: Buscador de contenidos de la revista MicroHobby
- - [http://mhoogle.speccy.org](http://mhoogle.speccy.org)
- - date_published: 2024-08-07T08:59:06.847332+00:00
-
- ## MicroHobby Revisited - index
- - [http://mhr.speccy.org](http://mhr.speccy.org)
- - date_published: 2012-10-10T22:18:28+00:00
-
- ## Octocom
- - [http://octocom.speccy.org](http://octocom.speccy.org)
- - date_published: 2023-01-16T00:12:31+00:00
-
- ## Pasmo, ensamblador Z80 / Z80 assembler
- - [http://pasmo.speccy.org](http://pasmo.speccy.org)
- - date_published: 2022-03-05T18:13:46+00:00
-
- ## La tira de ECSS
- - [http://pedrete.speccy.org](http://pedrete.speccy.org)
- - date_published: 2004-08-29T20:24:09+00:00
-
- ## Portadas MicroHobby
- - [http://portadasmh.speccy.org](http://portadasmh.speccy.org)
- - date_published: 2022-10-22T23:11:42+00:00
-
- ## SinclairManía
- - [http://sinclairmania.speccy.org](http://sinclairmania.speccy.org)
- - date_published: 2014-10-31T08:47:23+00:00
-
- ## Sinclair QL - Recursos en Castellano
- - [http://sinclairql.speccy.org](http://sinclairql.speccy.org)
- - date_published: 2009-04-19T20:24:14+00:00
-
- ## SPA2 - El archivo eSPAñol del Spectrum
- - [http://spa2.speccy.org](http://spa2.speccy.org)
- - date_published: 2024-08-07T08:59:24.545825+00:00
-
- ## speccy4ever
- - [https://speccy4ever.speccy.org](https://speccy4ever.speccy.org)
- - date_published: 2024-05-19T20:52:22+00:00
-
- ## El portal español del Spectrum
- - [https://speccy.org](https://speccy.org)
- - date_published: 2024-04-28T04:43:39.002805+00:00
-
- ## Spectrumaníacos
- - [https://spectrumaniacos.speccy.org](https://spectrumaniacos.speccy.org)
- - date_published: 2022-09-20T20:52:08+00:00
-
- ## Spectrum Forever
- - [http://spectrumforever.speccy.org](http://spectrumforever.speccy.org)
- - date_published: 2009-07-04T13:40:48+00:00
-
- ## TECHNONEW.COM
- - [http://technonew.speccy.org](http://technonew.speccy.org)
- - date_published: 2014-10-31T09:40:35+00:00
-
- ## El Trastero del Spectrum
- - [http://trastero.speccy.org](http://trastero.speccy.org)
- - date_published: 2024-08-05T09:46:15+00:00
-
- ## Uto's 8 bit page
- - [http://uto.speccy.org](http://uto.speccy.org)
- - date_published: 2021-11-05T18:17:25+00:00
-
- ## Vega Solaris - El juego.
- - [http://vegasolaris.speccy.org](http://vegasolaris.speccy.org)
- - date_published: 2024-08-07T08:59:32.863063+00:00
-
- ## indice [El wiki de Speccy.org]
- - [https://wiki.speccy.org](https://wiki.speccy.org)
- - date_published: 2024-08-07T08:58:22.716447+00:00
-
- ## YASS - Yet Another Spectrum Simulator
- - [http://yass.speccy.org](http://yass.speccy.org)
- - date_published: 2012-09-22T10:52:01+00:00
-
- ## Z80 Loader +3
- - [http://z80loader3.speccy.org](http://z80loader3.speccy.org)
- - date_published: 2013-03-29T05:39:47+00:00
-
- ## ZXBaremulator
- - [http://zxmini.speccy.org](http://zxmini.speccy.org)
- - date_published: 2020-01-21T20:40:59+00:00
-
- ## ZX-Uno [Clon de ordenador ZX Spectrum basado en FPGA]
- - [http://zxuno.speccy.org](http://zxuno.speccy.org)
- - date_published: 2016-10-18T00:00:00+00:00
-
- ## BDD Framework for .NET - SpecFlow - Find Bugs before they happen
- - [https://specflow.org](https://specflow.org)
- - date_published: 2024-07-04T11:41:51.176473+00:00
-
- ## Center for Inclusive Health Homepage
- - [http://inclusivehealth.specialolympics.org](http://inclusivehealth.specialolympics.org)
- - date_published: 2024-09-19T22:03:21.010218+00:00
 

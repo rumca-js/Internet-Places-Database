@@ -1,3 +1,220 @@
+ ## Cierpliwości...
+ - [https://jbs.org](https://jbs.org)
+ - date_published: 2024-05-06T17:13:14.555713+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.jbs.org](https://stats.jbs.org)
+ - date_published: 2024-05-06T17:13:16.353646+00:00
+
+ ## Home
+ - [https://www.jcapsj.org](https://www.jcapsj.org)
+ - date_published: 2024-09-11T17:10:28.202541+00:00
+
+ ## Jane Coffin Childs Memorial Fund for Medical Research
+ - [https://www.jccfund.org](https://www.jccfund.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - CCS&ES
+ - [https://j-ccses.org](https://j-ccses.org)
+ - date_published: 2018-01-04T12:14:08+00:00
+
+ ## Joint Conference on Digital Libraries (JCDL) - Home
+ - [http://www.jcdl.org](http://www.jcdl.org)
+ - date_published: 2024-07-02T13:15:46.076102+00:00
+
+ ## Journal of Copyright in Education & Librarianship
+ - [https://www.jcel-pub.org](https://www.jcel-pub.org)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Welcome to the Joseph Campbell Foundation
+ - [https://www.jcf.org](https://www.jcf.org)
+ - date_published: 2024-08-18T10:03:30.256975+00:00
+
+ ## Journal of Computer Graphics Techniques
+ - [https://jcgt.org](https://jcgt.org)
+ - date_published: 2022-01-24T19:49:13+00:00
+
+ ## Sign In - JCI
+ - [https://accounts.jci.org](https://accounts.jci.org)
+ - date_published: 2024-07-07T01:58:30.449569+00:00
+
+ ## JCI Insight -
+Welcome
+ - [https://insight.jci.org](https://insight.jci.org)
+ - date_published: 2023-10-25T21:33:32.162300+00:00
+
+ ## JCI -
+Welcome
+ - [https://jci.org](https://jci.org)
+ - date_published: 2024-05-08T08:57:51.299057+00:00
+
+ ## Sign In - JCI
+ - [https://notices.jci.org](https://notices.jci.org)
+ - date_published: 2024-05-08T08:58:02.738311+00:00
+
+ ## JCommander
+ - [https://jcommander.org](https://jcommander.org)
+ - date_published: 2024-07-23T22:48:39.238539+00:00
+
+ ## The Java Community Process(SM) Program
+ - [https://jcp.org](https://jcp.org)
+ - date_published: 2024-06-26T22:41:38.694932+00:00
+
+ ## Jerusalem Center For Public Affairs
+ - [https://jcpa.org](https://jcpa.org)
+ - date_published: 2024-06-13T17:40:27+00:00
+
+ ## Le CAPE de Jérusalem
+ - [http://www.jcpa-lecape.org](http://www.jcpa-lecape.org)
+ - date_published: 2024-09-17T08:23:29+00:00
+
+ ## joshua stein
+ - [https://jcs.org](https://jcs.org)
+ - date_published: 2023-10-25T21:33:34.730352+00:00
+
+ ## jcs.org
+ - [https://social.jcs.org](https://social.jcs.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Jesuit Conference of South Asia | JCSA
+ - [https://jcsaweb.org](https://jcsaweb.org)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## JCVS
+ - [https://jcvs.org](https://jcvs.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## JD2718
+ - [https://jd2718.org](https://jd2718.org)
+ - date_published: 2024-06-30T08:26:23.299997+00:00
+
+ ## JD Farag Home page
+ - [https://www.jdfarag.org](https://www.jdfarag.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Driving Adoption of Open Source and Standards - Joint Development Foundation
+ - [https://jdfprojects.org](https://jdfprojects.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## 一般社団法人日本ディープラーニング協会【公式】
+ - [https://www.jdla.org](https://www.jdla.org)
+ - date_published: 2024-07-03T04:48:24.918601+00:00
+
+ ## JDownloader Community - Appwork GmbH - Powered by vBulletin
+ - [https://board.jdownloader.org](https://board.jdownloader.org)
+ - date_published: 2024-06-26T13:09:19.759911+00:00
+
+ ## JDownloader.org - Official Homepage
+ - [https://jdownloader.org](https://jdownloader.org)
+ - date_published: 2024-06-26T12:42:22+00:00
+ - tags: ['download manager']
+
+ ## My JDownloader - Web Interface, Android, iOs and Windows Phone App
+ - [https://my.jdownloader.org](https://my.jdownloader.org)
+ - date_published: 2023-02-13T16:36:50+00:00
+
+ ## Support Portal
+ - [https://support.jdownloader.org](https://support.jdownloader.org)
+ - date_published: 2024-06-26T13:09:18.686654+00:00
+
+ ## JDP – Jury de Déontologie Publicitaire
+ - [https://www.jdp-pub.org](https://www.jdp-pub.org)
+ - date_published: 2024-09-15T21:32:22.474656+00:00
+
+ ## Type 1 Diabetes - Breakthrough T1D
+ - [https://www.jdrf.org](https://www.jdrf.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## 一般社団法人 日本宅配水＆サーバー協会
+ - [https://www.jdsa-net.org](https://www.jdsa-net.org)
+ - date_published: 2024-10-31T16:10:49.058229+00:00
+
+ ## Fondation Jean-Jaurès - Accueil
+ - [https://www.jean-jaures.org](https://www.jean-jaures.org)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## The Jean Monnet Program – The NYU Institutes On The Park
+ - [http://jeanmonnetprogram.org](http://jeanmonnetprogram.org)
+ - date_published: 2024-06-17T11:12:19.461573+00:00
+
+ ## Home | JEDEC
+ - [https://jedec.org](https://jedec.org)
+ - date_published: 2023-12-11T10:55:36.795616+00:00
+
+ ## jEdit - Programmer's Text Editor -
+overview
+ - [http://www.jedit.org](http://www.jedit.org)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## Solution complète de dons en ligne - Je donne en ligne
+ - [https://www.jedonneenligne.org](https://www.jedonneenligne.org)
+ - date_published: 2024-07-10T10:10:37.953545+00:00
+
+ ## Uutishuone – Myöhempien Aikojen Pyhien Jeesuksen Kristuksen Kirkko
+ - [https://uutiset.jeesuksenkristuksenkirkko.org](https://uutiset.jeesuksenkristuksenkirkko.org)
+ - date_published: 2024-05-11T09:03:45.466656+00:00
+
+ ## Pressikeskus − Viimse Aja Pühade Jeesuse Kristuse Kirik
+ - [https://uudised.jeesusekristusekirik.org](https://uudised.jeesusekristusekirik.org)
+ - date_published: 2024-05-11T09:03:15.193701+00:00
+
+ ## Jeetbuzz - Download App Win Login লগইন Apk & Live Sports Cricket
+ - [https://jeetbuzz2.org](https://jeetbuzz2.org)
+ - date_published: 2024-09-06T13:44:35.043415+00:00
+
+ ## Home | jeffcofair
+ - [http://jeffcofair.org](http://jeffcofair.org)
+ - date_published: 2024-07-08T22:30:01.163901+00:00
+
+ ## Home
+ - [https://jeffcofairgrounds.org](https://jeffcofairgrounds.org)
+ - date_published: 2024-10-14T23:42:33.132366+00:00
+
+ ## Home
+ - [https://jeffersonhealthcare.org](https://jeffersonhealthcare.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Jefferson River Canoe Trail:  Paddle the Lewis and Clark National Historic Trail.
+ - [http://www.jeffersonriver.org](http://www.jeffersonriver.org)
+ - date_published: 1805-07-28T00:00:00+00:00
+
+ ## Jeff Huang, washed up pianist
+ - [https://jeffhuang.org](https://jeffhuang.org)
+ - date_published: 2023-01-10T23:35:13+00:00
+
+ ## Jeff Thompson
+ - [https://jeffreythompson.org](https://jeffreythompson.org)
+ - date_published: 2005-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://jekyllcodex.org](https://jekyllcodex.org)
+ - date_published: 2023-02-24T11:57:35+00:00
+
+ ## คอร์สการตลาดออนไลน์ – แนะนำคอร์สการตลาดออนไลน์ที่น่าเรียน
+ - [https://jekyllrb.org](https://jekyllrb.org)
+ - date_published: 2024-07-10T06:33:19.111036+00:00
+
+ ## Jellyfin
+ - [https://demo.jellyfin.org](https://demo.jellyfin.org)
+ - date_published: 2024-05-12T07:53:17.315305+00:00
+
+ ## Introduction | Jellyfin
+ - [https://docs.jellyfin.org](https://docs.jellyfin.org)
+ - date_published: 2024-11-11T16:46:04+00:00
+
+ ## Jellyfin Feature Requests
+ - [https://features.jellyfin.org](https://features.jellyfin.org)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Jellyfin Forum
+ - [https://forum.jellyfin.org](https://forum.jellyfin.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## The Free Software Media System | Jellyfin
+ - [https://jellyfin.org](https://jellyfin.org)
+ - date_published: 2023-10-25T21:33:41.843077+00:00
+ - tags: ['video streaming app', 'self-host']
+
  ## Welcome to nginx!
  - [https://static.jellyfin.org](https://static.jellyfin.org)
  - date_published: 2022-10-19T08:02:20+00:00
@@ -3847,218 +4064,4 @@ Hosted by Panix.com.
  ## mirrors.kernel.org
  - [https://mirrors.edge.kernel.org](https://mirrors.edge.kernel.org)
  - date_published: 2023-07-13T18:07:47+00:00
-
- ## mirrors.kernel.org
- - [https://mirrors.kernel.org](https://mirrors.kernel.org)
- - date_published: 2023-07-13T17:56:22+00:00
-
- ## Linux Kernel Modules Wiki
- - [http://modules.wiki.kernel.org](http://modules.wiki.kernel.org)
- - date_published: 2023-02-09T22:13:43+00:00
-
- ## mon
- - [http://mon.wiki.kernel.org](http://mon.wiki.kernel.org)
- - date_published: 2016-04-11T00:00:00+00:00
-
- ## Linux PARISC Wiki
- - [http://parisc.wiki.kernel.org](http://parisc.wiki.kernel.org)
- - date_published: 2024-07-03T17:13:17+00:00
-
- ## Project List - Patchwork
- - [https://patchwork.kernel.org](https://patchwork.kernel.org)
- - date_published: 2024-05-08T09:16:44.869754+00:00
-
- ## people.kernel.org Reader
- - [https://people.kernel.org](https://people.kernel.org)
- - date_published: 2023-10-25T21:36:30.389450+00:00
-
- ## Perf Wiki
- - [https://perf.wiki.kernel.org](https://perf.wiki.kernel.org)
- - date_published: 2024-01-23T17:33:47+00:00
-
- ## Kernel Planet
- - [https://planet.kernel.org](https://planet.kernel.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Linux Raid Wiki
- - [http://raid.wiki.kernel.org](http://raid.wiki.kernel.org)
- - date_published: 2022-08-18T14:54:48+00:00
-
- ## Reiser4 FS Wiki
- - [http://reiser4.wiki.kernel.org](http://reiser4.wiki.kernel.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## RTwiki
- - [http://rt.wiki.kernel.org](http://rt.wiki.kernel.org)
- - date_published: 2023-02-07T20:42:42+00:00
-
- ## Linux Kernel Security Subsystem
- - [http://security.wiki.kernel.org](http://security.wiki.kernel.org)
- - date_published: 2021-06-24T23:16:15+00:00
-
- ## Akkoma
- - [https://social.kernel.org](https://social.kernel.org)
- - date_published: 2024-07-07T04:03:40.689141+00:00
-
- ## Welcome to sparse’s documentation — sparse 0.6.4 documentation
- - [https://sparse.docs.kernel.org](https://sparse.docs.kernel.org)
- - date_published: 2024-01-07T19:49:14+00:00
-
- ## Welcome to sparse’s documentation — sparse 0.6.4 documentation
- - [http://sparse.wiki.kernel.org](http://sparse.wiki.kernel.org)
- - date_published: 2024-01-07T19:49:14+00:00
-
- ## Subspace mailing list server — subspace.kernel.org  documentation
- - [https://subspace.kernel.org](https://subspace.kernel.org)
- - date_published: 2024-07-07T06:20:02+00:00
-
- ## LinuxTVWiki
- - [http://v4ldvb.wiki.kernel.org](http://v4ldvb.wiki.kernel.org)
- - date_published: 2024-01-13T22:23:02+00:00
-
- ## vger.kernel.org — subspace.kernel.org  documentation
- - [http://vger.kernel.org](http://vger.kernel.org)
- - date_published: 2024-05-08T09:43:09.528677+00:00
-
- ## Main Page - Demeter of the Kernel.org
- - [https://wiki.kernel.org](https://wiki.kernel.org)
- - date_published: 2024-05-08T09:16:59.912829+00:00
-
- ## welcome [Linux Wireless]
- - [https://wireless.wiki.kernel.org](https://wireless.wiki.kernel.org)
- - date_published: 2024-07-07T04:00:22.953608+00:00
-
- ## start [Wiki]
- - [http://xfs.wiki.kernel.org](http://xfs.wiki.kernel.org)
- - date_published: 2024-07-07T04:04:28.855702+00:00
-
- ## Documentation
- - [https://docs.kernelci.org](https://docs.kernelci.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - Kernel CI
- - [https://foundation.kernelci.org](https://foundation.kernelci.org)
- - date_published: 2024-05-19T02:58:24.997755+00:00
-
- ## Home - KernelCI Foundation
- - [https://kernelci.org](https://kernelci.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Kernel CI Dashboard — Home
- - [https://linux.kernelci.org](https://linux.kernelci.org)
- - date_published: 2024-07-20T12:51:16.898336+00:00
-
- ## Max Planck Institute for Intelligent Systems
- - [https://www.kernel-machines.org](https://www.kernel-machines.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Linux_Kernel_Newbies - Linux Kernel Newbies
- - [https://kernelnewbies.org](https://kernelnewbies.org)
- - date_published: 2022-03-25T00:00:00+00:00
-
- ## Kernel Planet
- - [https://kernelplanet.org](https://kernelplanet.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Linux Kernel Podcast
- - [https://kernelpodcast.org](https://kernelpodcast.org)
- - date_published: 2024-07-07T04:01:49.193081+00:00
-
- ## Home
- - [https://kernel-recipes.org](https://kernel-recipes.org)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## A kernel-based root solution for Android | KernelSU
- - [https://kernelsu.org](https://kernelsu.org)
- - date_published: 2023-10-25T21:36:36.612083+00:00
-
- ## Kernel Traffic
- - [http://www.kerneltraffic.org](http://www.kerneltraffic.org)
- - date_published: 2023-12-07T07:05:51+00:00
-
- ## Kerry Buckley – What’s the simplest thing that could possibly go wrong?
- - [https://www.kerrybuckley.org](https://www.kerrybuckley.org)
- - date_published: 2024-09-14T23:23:39.672614+00:00
-
- ## Kersnikova
- - [https://kersnikova.org](https://kersnikova.org)
- - date_published: 2023-10-16T22:45:51+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.kersnikova.org](https://plausible.kersnikova.org)
- - date_published: 2024-07-10T08:36:14.198983+00:00
-
- ## Home - Kestrel Land Trust
- - [https://www.kestreltrust.org](https://www.kestreltrust.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Ketto: Crowdfunding India | Online Crowdfunding Website in India
- - [https://www.ketto.org](https://www.ketto.org)
- - date_published: 2024-10-10T12:11:56+00:00
-
- ## Open source key-value database on blockchain
- - [https://kevacoin.org](https://kevacoin.org)
- - date_published: 2022-03-20T18:00:39+00:00
-
- ## kevan dot org
- - [https://kevan.org](https://kevan.org)
- - date_published: 2024-05-11T07:05:52.613664+00:00
-
- ## Kevin Atkinson
- - [http://kevina.org](http://kevina.org)
- - date_published: 2016-10-13T02:41:35+00:00
-
- ## Kevin Bushell Foundation | Do Good, Impact Others, Create Change
- - [https://kevinbushellfoundation.org](https://kevinbushellfoundation.org)
- - date_published: 2024-07-19T18:29:40+00:00
-
- ## Random Geekage
- - [https://kevinisageek.org](https://kevinisageek.org)
- - date_published: 2024-04-08T11:16:15+00:00
-
- ## Kevin Love Fund - Everyone is going through something that we can't see
- - [https://kevinlovefund.org](https://kevinlovefund.org)
- - date_published: 2024-10-18T04:57:24.557732+00:00
-
- ## Kevin's Weblog · Routing kevinmarks.org to omg.lol step 1: make an A record in DNS at hover.com for‌
- - [https://blog.kevinmarks.org](https://blog.kevinmarks.org)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## kevinspencer.org
- - [https://kevinspencer.org](https://kevinspencer.org)
- - date_published: 2024-02-06T09:06:31.790460+00:00
-
- ## WordPress › Error
- - [http://blog.kevtris.org](http://blog.kevtris.org)
- - date_published: 2023-10-25T21:36:37.992822+00:00
-
- ## Royal Botanic Gardens, Kew | Kew
- - [https://kew.org](https://kew.org)
- - date_published: 2024-07-21T03:01:52+00:00
-
- ## KEXP 90.3 FM - Where the Music Matters
- - [https://kexp.org](https://kexp.org)
- - date_published: 2024-01-22T12:40:00+00:00
- - tags: ['radio', 'music']
-
- ## keybiodiversityareas.org
- - [https://www.keybiodiversityareas.org](https://www.keybiodiversityareas.org)
- - date_published: 2024-06-20T08:47:10.713616+00:00
-
- ## keyboardmuseum.org
- - [http://www.keyboardmuseum.org](http://www.keyboardmuseum.org)
- - date_published: 2024-06-29T03:41:32.814777+00:00
-
- ## Keycloak
- - [https://keycloak.org](https://keycloak.org)
- - date_published: 2024-04-08T19:31:41.264672+00:00
- - tags: ['open source', 'identity management', 'self-host']
-
- ## Keylinks - Reading List Management System - Kortext
- - [https://www.keylinks.org](https://www.keylinks.org)
- - date_published: 2024-07-08T14:08:33.594162+00:00
-
- ## Posts
- - [https://blog.keyoxide.org](https://blog.keyoxide.org)
- - date_published: 2024-01-26T00:00:00+00:00
 

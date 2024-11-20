@@ -1,3 +1,183 @@
+ ## Front Page | Center for Documentary Studies
+ - [https://documentarystudies.duke.edu](https://documentarystudies.duke.edu)
+ - date_published: 2024-06-16T06:51:05+00:00
+
+ ## Front page | Drupal Training & Documentation
+ - [https://drupal.trinity.duke.edu](https://drupal.trinity.duke.edu)
+ - date_published: 2024-07-21T08:21:35+00:00
+
+ ## Home - Duke Science and Technology
+ - [https://dst.duke.edu](https://dst.duke.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - Duke Capital Partners
+ - [https://dukecapitalpartners.duke.edu](https://dukecapitalpartners.duke.edu)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Duke University
+ - [https://duke.edu](https://duke.edu)
+ - date_published: 2024-04-30T04:13:55.301862+00:00
+
+ ## DukeEngage
+ - [https://dukeengage.duke.edu](https://dukeengage.duke.edu)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Duke Department Of Ophthalmology
+ - [https://dukeeyecenter.duke.edu](https://dukeeyecenter.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Duke Forest – Teaching and Research Laboratory
+ - [https://dukeforest.duke.edu](https://dukeforest.duke.edu)
+ - date_published: 2024-06-24T11:44:16.524993+00:00
+
+ ## DukeHub Home
+ - [https://dukehub.duke.edu](https://dukehub.duke.edu)
+ - date_published: 2024-06-16T07:17:42.494205+00:00
+
+ ## Duke | Log In
+ - [https://dukelist.duke.edu](https://dukelist.duke.edu)
+ - date_published: 2024-09-15T11:56:03.017099+00:00
+
+ ## DukeMag
+ - [http://dukemagazine.duke.edu](http://dukemagazine.duke.edu)
+ - date_published: 2024-09-26T18:01:36+00:00
+
+ ## DukeMag
+ - [https://dukemag.duke.edu](https://dukemag.duke.edu)
+ - date_published: 2024-07-22T04:27:44+00:00
+
+ ## Home | DUPRI
+ - [https://dupri.duke.edu](https://dupri.duke.edu)
+ - date_published: 2024-09-20T12:58:45+00:00
+
+ ## Durham, Our Hometown - Duke Undergraduate Admissions
+ - [https://durham.duke.edu](https://durham.duke.edu)
+ - date_published: 2024-04-30T04:13:47.733513+00:00
+
+ ## Duke Electrical and Computer Engineering
+ - [https://ece.duke.edu](https://ece.duke.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Front Page | Economics Department
+ - [https://econ.duke.edu](https://econ.duke.edu)
+ - date_published: 2024-06-22T08:13:59+00:00
+
+ ## Duke University Emergency Status
+ - [https://emergency.duke.edu](https://emergency.duke.edu)
+ - date_published: 2024-06-16T07:16:36+00:00
+
+ ## Collections – Nasher Museum of Art at Duke University
+ - [https://emuseum.nasher.duke.edu](https://emuseum.nasher.duke.edu)
+ - date_published: 2024-09-26T18:05:07.633436+00:00
+
+ ## Front Page | English Department
+ - [https://english.duke.edu](https://english.duke.edu)
+ - date_published: 2024-06-16T07:00:02+00:00
+
+ ## Welcome | Duke Innovation & Entrepreneurship
+ - [https://entrepreneurship.duke.edu](https://entrepreneurship.duke.edu)
+ - date_published: 2024-06-16T06:25:37+00:00
+
+ ## Welcome | Conference & Event Services
+ - [https://eventservices.duke.edu](https://eventservices.duke.edu)
+ - date_published: 2024-09-04T18:52:40+00:00
+
+ ## Front Page | Department of Evolutionary Anthropology
+ - [https://evolutionaryanthropology.duke.edu](https://evolutionaryanthropology.duke.edu)
+ - date_published: 2024-10-14T11:24:02+00:00
+
+ ## Duke University Library Exhibits
+ - [https://exhibits.library.duke.edu](https://exhibits.library.duke.edu)
+ - date_published: 2024-06-17T03:22:10.831708+00:00
+
+ ## Duke External Partnerships – Driving Tomorrow's Innovations Through Purposeful Partnerships
+ - [https://externalpartnerships.duke.edu](https://externalpartnerships.duke.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Homepage | Office for Faculty Advancement
+ - [https://facultyadvancement.duke.edu](https://facultyadvancement.duke.edu)
+ - date_published: 2024-09-26T17:43:04+00:00
+
+ ## Archives & Manuscripts at Duke University Libraries
+ - [https://faids.mcarchives.duke.edu](https://faids.mcarchives.duke.edu)
+ - date_published: 2024-10-16T09:14:15.951405+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://feedcurator.oit.duke.edu](https://feedcurator.oit.duke.edu)
+ - date_published: 2024-09-04T19:41:56.671819+00:00
+
+ ## Homepage | John Hope Franklin Humanities Institute
+ - [https://fhi.duke.edu](https://fhi.duke.edu)
+ - date_published: 2024-06-16T07:11:52+00:00
+
+ ## Financial Services | Duke
+ - [http://finance.duke.edu](http://finance.duke.edu)
+ - date_published: 2024-08-08T20:52:41+00:00
+
+ ## Homepage | Karsh Office of  Undergraduate Financial Support
+ - [https://financialaid.duke.edu](https://financialaid.duke.edu)
+ - date_published: 2024-06-16T07:14:28+00:00
+
+ ## Duke University Libraries Catalog
+ - [https://find.library.duke.edu](https://find.library.duke.edu)
+ - date_published: 2024-07-02T04:23:41.461905+00:00
+
+ ## FOCS 2020
+ - [https://focs2020.cs.duke.edu](https://focs2020.cs.duke.edu)
+ - date_published: 2024-07-01T20:05:39.425774+00:00
+
+ ## Front Page | Focus Program
+ - [https://focus.duke.edu](https://focus.duke.edu)
+ - date_published: 2024-09-26T08:19:48+00:00
+
+ ## Home | Human Resources
+ - [https://forms.hr.duke.edu](https://forms.hr.duke.edu)
+ - date_published: 2024-09-26T17:58:41.006179+00:00
+
+ ## Home - Duke Office of Foundation Relations
+ - [https://foundationrelations.duke.edu](https://foundationrelations.duke.edu)
+ - date_published: 2024-06-16T07:16:10.845686+00:00
+
+ ## Computer Science - Duke University
+ - [http://ftp.cs.duke.edu](http://ftp.cs.duke.edu)
+ - date_published: 2024-06-20T17:26:26.032040+00:00
+
+ ## Homepage | Duke's Fuqua School of Business
+ - [https://fuqua.duke.edu](https://fuqua.duke.edu)
+ - date_published: 2024-09-26T18:01:58.548975+00:00
+
+ ## Make a Gift to Duke
+ - [https://gifts.duke.edu](https://gifts.duke.edu)
+ - date_published: 2024-09-04T19:37:35.918134+00:00
+
+ ## Home - Giving To Duke
+ - [https://giving.duke.edu](https://giving.duke.edu)
+ - date_published: 2023-05-22T00:00:00+00:00
+
+ ## Home | Duke Global
+ - [https://global.duke.edu](https://global.duke.edu)
+ - date_published: 2024-06-16T06:04:58+00:00
+
+ ## HOME PAGE | Global Education Office
+ - [https://globaled.duke.edu](https://globaled.duke.edu)
+ - date_published: 2024-06-16T07:15:55.415794+00:00
+
+ ## Homepage | Duke Global Health Institute
+ - [https://globalhealth.duke.edu](https://globalhealth.duke.edu)
+ - date_published: 2024-06-16T07:18:03.992002+00:00
+
+ ## Home | Duke Health GME
+ - [http://gme.duke.edu](http://gme.duke.edu)
+ - date_published: 2024-08-18T08:11:25.792173+00:00
+
+ ## Office of Government Relations - Government Relations
+ - [https://governmentrelations.duke.edu](https://governmentrelations.duke.edu)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Home | Duke Government Relations
+ - [https://govrelations.duke.edu](https://govrelations.duke.edu)
+ - date_published: 2024-09-27T18:20:42+00:00
+
  ## Homepage | The Graduate School
  - [https://gradschool.duke.edu](https://gradschool.duke.edu)
  - date_published: 2024-06-16T06:41:18+00:00
@@ -3820,184 +4000,4 @@
  ## Home - Tech & Society
  - [https://techandsociety.georgetown.edu](https://techandsociety.georgetown.edu)
  - date_published: 2024-01-12T00:00:00+00:00
-
- ## Home Page - Title IX at Georgetown University
- - [https://titleix.georgetown.edu](https://titleix.georgetown.edu)
- - date_published: 2024-09-02T13:07:08.546381+00:00
-
- ## Georgetown Today - Georgetown Today
- - [https://today.advancement.georgetown.edu](https://today.advancement.georgetown.edu)
- - date_published: 2024-05-11T07:22:18.614196+00:00
-
- ## Home Page - Tumor Biology Program
- - [https://tumorbiology.georgetown.edu](https://tumorbiology.georgetown.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home Page - Office of Undergraduate Admissions
- - [https://uadmissions.georgetown.edu](https://uadmissions.georgetown.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Home Page - Office of Undergraduate Admissions
- - [https://uapply.georgetown.edu](https://uapply.georgetown.edu)
- - date_published: 2024-10-22T05:40:38.725226+00:00
-
- ## Home Page - University Information Services
- - [https://uis.georgetown.edu](https://uis.georgetown.edu)
- - date_published: 2024-10-18T18:42:13.696689+00:00
-
- ## China Main Homepage
- - [https://uschinadialogue.georgetown.edu](https://uschinadialogue.georgetown.edu)
- - date_published: 2024-10-22T05:42:53.632085+00:00
-
- ## - Military and Veterans' Resource Center
- - [https://veterans.georgetown.edu](https://veterans.georgetown.edu)
- - date_published: 2024-10-22T05:40:22.926956+00:00
-
- ## Home Page - Writing Center
- - [https://writingcenter.georgetown.edu](https://writingcenter.georgetown.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Georgetown Law
- - [https://www.law.georgetown.edu](https://www.law.georgetown.edu)
- - date_published: 2024-06-15T18:57:13.523802+00:00
-
- ## GU-Q - Georgetown University in Qatar
- - [https://www.qatar.georgetown.edu](https://www.qatar.georgetown.edu)
- - date_published: 2024-10-22T05:42:55.683581+00:00
-
- ## Events Calendar
- - [https://calendar.georgiasouthern.edu](https://calendar.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:50.022669+00:00
-
- ## Georgia Southern University
- - [https://cdn.georgiasouthern.edu](https://cdn.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:31.176001+00:00
-
- ## Course Schedule | Georgia Southern University
- - [https://coursesearch.georgiasouthern.edu](https://coursesearch.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:38.281083+00:00
-
- ## Home | Directory | Georgia Southern University
- - [https://directory.georgiasouthern.edu](https://directory.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:52.017931+00:00
-
- ## Executive Vice President | Georgia Southern University
- - [https://em.georgiasouthern.edu](https://em.georgiasouthern.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Georgia Southern University | A Public Research University
- - [https://georgiasouthern.edu](https://georgiasouthern.edu)
- - date_published: 2014-05-30T17:42:01+00:00
-
- ## BlueConic: Log In
- - [https://m516.georgiasouthern.edu](https://m516.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:32.680537+00:00
-
- ## MyGeorgiaSouthern Portal
- - [https://my.georgiasouthern.edu](https://my.georgiasouthern.edu)
- - date_published: 2024-07-03T12:32:43.664803+00:00
-
- ## Georgia Southern University Newsroom
- - [https://news.georgiasouthern.edu](https://news.georgiasouthern.edu)
- - date_published: 2020-11-02T16:54:46+00:00
-
- ## Getty: Resources for Visual Art and Cultural Heritage
- - [https://getty.edu](https://getty.edu)
- - date_published: 2024-01-09T02:59:10.633338+00:00
-
- ## News & Stories | Getty
- - [http://news.getty.edu](http://news.getty.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Collecting & Provenance Research (Getty Research Institute)
- - [http://piprod.getty.edu](http://piprod.getty.edu)
- - date_published: 2023-09-28T17:16:34+00:00
-
- ## The Getty Museum Store
- - [https://shop.getty.edu](https://shop.getty.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://subscriptions.getty.edu](https://subscriptions.getty.edu)
- - date_published: 2024-04-30T04:25:35.695582+00:00
-
- ## Gettysburg College Institutional Repository
- - [https://cupola.gettysburg.edu](https://cupola.gettysburg.edu)
- - date_published: 2024-07-02T10:48:07.071821+00:00
-
- ## Golden Gate University - Modern Campus Catalog™
- - [https://catalog.ggu.edu](https://catalog.ggu.edu)
- - date_published: 2024-10-18T22:01:44.538345+00:00
-
- ## Golden Gate University
- - [https://ggu.edu](https://ggu.edu)
- - date_published: 2024-10-18T22:01:42.245129+00:00
-
- ## School of Law | Golden Gate University
- - [http://law.ggu.edu](http://law.ggu.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Homepage - GGU Newsroom
- - [https://newsroom.ggu.edu](https://newsroom.ggu.edu)
- - date_published: 2024-10-18T22:01:46.981465+00:00
-
- ## Gemological Institute Of America | All About Gemstones - GIA
- - [https://www.gia.edu](https://www.gia.edu)
- - date_published: 2024-07-15T02:08:20.755086+00:00
-
- ## home
- - [http://aaas.gmu.edu](http://aaas.gmu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## home
- - [https://academicaffairs.chss.gmu.edu](https://academicaffairs.chss.gmu.edu)
- - date_published: 2024-08-08T20:35:04.938286+00:00
-
- ## Speech Accent Archive
- - [https://accent.gmu.edu](https://accent.gmu.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Accessibility @ Mason – George Mason University
- - [https://accessibility.gmu.edu](https://accessibility.gmu.edu)
- - date_published: 2024-04-30T04:25:54.131087+00:00
-
- ## The C. Boyden Gray Center
- - [https://administrativestate.gmu.edu](https://administrativestate.gmu.edu)
- - date_published: 2024-07-21T23:20:55.290857+00:00
-
- ## Admissions and Financial Aid
- - [http://admissions.gmu.edu](http://admissions.gmu.edu)
- - date_published: 2024-08-08T20:50:44+00:00
-
- ## Home Page - Academic Advising
- - [https://advising.gmu.edu](https://advising.gmu.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home Page
- - [https://alumni.gmu.edu](https://alumni.gmu.edu)
- - date_published: 2024-04-30T04:29:06.154024+00:00
-
- ## Home
- - [http://arlington.gmu.edu](http://arlington.gmu.edu)
- - date_published: 2024-08-10T21:41:38+00:00
-
- ## George Mason University School of Art
- - [https://art.gmu.edu](https://art.gmu.edu)
- - date_published: 2024-07-21T16:59:53+00:00
-
- ## Home
- - [https://artsmanagement.gmu.edu](https://artsmanagement.gmu.edu)
- - date_published: 2024-07-21T15:48:35+00:00
-
- ## Assistive Technology Initiative
- - [http://ati.gmu.edu](http://ati.gmu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## (no title)
- - [https://bas.gmu.edu](https://bas.gmu.edu)
- - date_published: 2024-08-08T20:35:00.803232+00:00
-
- ## Home
- - [https://bioengineering.gmu.edu](https://bioengineering.gmu.edu)
- - date_published: 2024-08-11T00:48:36+00:00
 

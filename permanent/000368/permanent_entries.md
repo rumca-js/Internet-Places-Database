@@ -1,3 +1,217 @@
+ ## Global Indigenous Data Alliance
+ - [https://www.gida-global.org](https://www.gida-global.org)
+ - date_published: 2024-06-28T22:10:12.033016+00:00
+
+ ## gifcities.org by Internet Archive – search for GIFs scraped off geocities sites
+ - [https://gifcities.org](https://gifcities.org)
+ - date_published: 2016-10-26T20:33:23+00:00
+ - tags: ['old internet', 'geocities']
+
+ ## giffmex.org/home —
+ - [https://giffmex.org](https://giffmex.org)
+ - date_published: 2024-06-06T15:34:54+00:00
+
+ ## ArtículosGiffmex —
+ - [http://recursos.giffmex.org](http://recursos.giffmex.org)
+ - date_published: 2019-09-13T19:47:03+00:00
+
+ ## Home
+ - [https://giffords.org](https://giffords.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Global Institute for Research & Education
+ - [http://www.gifre.org](http://www.gifre.org)
+ - date_published: 2024-10-29T17:31:52.895233+00:00
+
+ ## Gift of Jazz Home Page | Colorado Jazz Nonprofit since 1995
+ - [http://www.giftofjazz.org](http://www.giftofjazz.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Cornell Lab of Ornithology Planned Giving :: Welcome to Gift Planning
+ - [https://birds.cornell.giftplans.org](https://birds.cornell.giftplans.org)
+ - date_published: 2024-07-12T17:08:37.793969+00:00
+
+ ## The Cleveland Museum of Art Planned Giving :: Welcome
+ - [https://clevelandart.giftplans.org](https://clevelandart.giftplans.org)
+ - date_published: 2024-07-02T09:02:08.319880+00:00
+
+ ## Environmental Defense Fund Planned Giving :: Welcome to Planned Giving
+ - [https://edf.giftplans.org](https://edf.giftplans.org)
+ - date_published: 2024-05-12T07:37:50.346195+00:00
+
+ ## Northwell Health Foundation | Gift Planning :: Welcome to Gift Planning
+ - [https://northwell.giftplans.org](https://northwell.giftplans.org)
+ - date_published: 2024-07-01T16:28:27.758125+00:00
+
+ ## Santa Fe Institute Planned Giving :: Gift Planning
+ - [https://santafe.giftplans.org](https://santafe.giftplans.org)
+ - date_published: 2024-05-07T20:23:15.254397+00:00
+
+ ## Swarthmore College Gift Planning :: Gift Planning
+ - [https://swarthmore.giftplans.org](https://swarthmore.giftplans.org)
+ - date_published: 2024-07-01T20:48:38.876786+00:00
+
+ ## The University of Alabama Planned Giving :: Planned Giving
+ - [https://ua.giftplans.org](https://ua.giftplans.org)
+ - date_published: 2024-07-01T22:02:52.127310+00:00
+
+ ## The University of Houston Planned Giving :: Planned Giving
+ - [https://uh.giftplans.org](https://uh.giftplans.org)
+ - date_published: 2024-07-02T02:26:10.375715+00:00
+
+ ## UNM Planned Giving :: Welcome to Gift Planning
+ - [https://unmfund.giftplans.org](https://unmfund.giftplans.org)
+ - date_published: 2024-07-02T05:05:47.119148+00:00
+
+ ## Gigafact: Making facts ubiquitous and accessible to all
+ - [https://gigafact.org](https://gigafact.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## GIGA！無料通信
+ - [https://www.gigafree.org](https://www.gigafree.org)
+ - date_published: 2024-04-30T06:13:14+00:00
+
+ ## (no title)
+ - [https://www.giga-net.org](https://www.giga-net.org)
+ - date_published: 2024-10-17T22:26:12.280405+00:00
+
+ ## Advisory Contents Page
+ - [https://advisory.gijn.org](https://advisory.gijn.org)
+ - date_published: 2024-08-18T19:06:01.504282+00:00
+
+ ## 全球深度报道网
+ - [https://cn.gijn.org](https://cn.gijn.org)
+ - date_published: 2024-08-18T18:10:07+00:00
+
+ ## Global Investigative Journalism Network
+ - [https://gijn.org](https://gijn.org)
+ - date_published: 2023-10-25T21:24:56.514394+00:00
+
+ ## Home
+ - [https://gilcrease.org](https://gilcrease.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Giles Turnbull's website
+ - [https://gilest.org](https://gilest.org)
+ - date_published: 2024-01-10T02:57:57.538118+00:00
+
+ ## Igor Gilitschenski
+ - [https://www.gilitschenski.org](https://www.gilitschenski.org)
+ - date_published: 2020-11-02T00:00:00+00:00
+
+ ## Gill Foundation
+ - [https://gillfoundation.org](https://gillfoundation.org)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Thomas Gilray's Research
+ - [https://thomas.gilray.org](https://thomas.gilray.org)
+ - date_published: 2024-05-08T23:40:41+00:00
+
+ ## Home - TJ Owens Gilroy Early College Academy 2022
+ - [https://geca.gilroyunified.org](https://geca.gilroyunified.org)
+ - date_published: 2024-07-02T20:13:26.871808+00:00
+
+ ## GIMP Developer - GIMP Development
+ - [https://developer.gimp.org](https://developer.gimp.org)
+ - date_published: 2024-05-12T04:41:33.571629+00:00
+
+ ## GIMP Documentation
+ - [https://docs.gimp.org](https://docs.gimp.org)
+ - date_published: 2024-07-15T01:25:06+00:00
+
+ ## GIMP
+ - [https://gimp.org](https://gimp.org)
+ - date_published: 2024-05-04T09:29:02.915500+00:00
+ - tags: ['open source', 'desktop program', 'image editor']
+
+ ## GIMP - Registry
+ - [http://registry.gimp.org](http://registry.gimp.org)
+ - date_published: 2024-05-28T18:18:56+00:00
+
+ ## GIMP scripts and patterns and stuff...
+ - [https://www.gimphelp.org](https://www.gimphelp.org)
+ - date_published: 2021-04-05T19:03:54+00:00
+
+ ## gina-rodriguez.org
+ - [http://www.gina-rodriguez.org](http://www.gina-rodriguez.org)
+ - date_published: 2024-09-04T02:49:53.124475+00:00
+
+ ## gingerBill
+ - [https://gingerbill.org](https://gingerbill.org)
+ - date_published: 2023-10-25T21:24:58.962507+00:00
+
+ ## Gio UI
+ - [https://gioui.org](https://gioui.org)
+ - date_published: 2024-05-01T08:44:59.670726+00:00
+
+ ## Home - GIPLATFORM
+ - [https://giplatform.org](https://giplatform.org)
+ - date_published: 2022-04-02T15:57:19+00:00
+
+ ## GI Rights Hotline: Military Discharges and Military Counseling
+ - [https://girightshotline.org](https://girightshotline.org)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Girls' Angle: A Math Club for Girls
+ - [http://www.girlsangle.org](http://www.girlsangle.org)
+ - date_published: 2024-06-30T09:29:52.601499+00:00
+
+ ## The Lower Eastside Girls Club of NY • Joy, Power & Possibility
+ - [https://www.girlsclub.org](https://www.girlsclub.org)
+ - date_published: 2024-07-09T19:03:54.167603+00:00
+
+ ## Homepage - Germany
+ - [https://germany.girlsintech.org](https://germany.girlsintech.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home - Girls in Tech
+ - [https://girlsintech.org](https://girlsintech.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://jobs.girlsintech.org](https://jobs.girlsintech.org)
+ - date_published: 2024-06-15T20:05:51.913360+00:00
+
+ ## The Girls in Tech Shop
+ - [https://shop.girlsintech.org](https://shop.girlsintech.org)
+ - date_published: 2024-06-15T20:06:01.957232+00:00
+
+ ## Homepage - spain
+ - [https://spain.girlsintech.org](https://spain.girlsintech.org)
+ - date_published: 2023-05-02T00:00:00+00:00
+
+ ## Girls Learn International –
+ - [https://girlslearn.org](https://girlslearn.org)
+ - date_published: 2024-07-19T02:55:34.240638+00:00
+
+ ## Home | Girls Who Drone
+ - [http://www.girlswhodrone.org](http://www.girlswhodrone.org)
+ - date_published: 2024-06-20T12:54:41.967737+00:00
+
+ ## GISAID - gisaid.org
+ - [https://gisaid.org](https://gisaid.org)
+ - date_published: 2024-06-15T18:57:29.308641+00:00
+
+ ## Home - GISCorps - GIS Professionals Volunteering for a Better World
+ - [https://www.giscorps.org](https://www.giscorps.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Gisha
+ - [https://gisha.org](https://gisha.org)
+ - date_published: 2024-07-16T21:34:25.692312+00:00
+
+ ## Groupe d'information et de soutien des immigrés
+ - [http://www.gisti.org](http://www.gisti.org)
+ - date_published: 2024-10-21T18:08:46.066796+00:00
+
+ ## Where are we watching? | Global Information Society Watch
+ - [https://giswatch.org](https://giswatch.org)
+ - date_published: 2024-05-25T05:39:24.826480+00:00
+
+ ## GitAGI
+ - [https://gitagi.org](https://gitagi.org)
+ - date_published: 2024-05-10T08:50:54+00:00
+
  ## Fundación Secretariado Gitano
  - [https://www.gitanos.org](https://www.gitanos.org)
  - date_published: 2024-07-02T21:27:40.171012+00:00
@@ -3833,218 +4047,4 @@
  ## Differentiable Programming for Image Processing and Deep Learning in Halide
  - [http://gradients.halide-lang.org](http://gradients.halide-lang.org)
  - date_published: 2019-10-29T18:09:04+00:00
-
- ## Halide
- - [https://halide-lang.org](https://halide-lang.org)
- - date_published: 2023-08-15T20:53:29+00:00
-
- ## Home - Halifax Refugee Clinic
- - [https://halifaxrefugeeclinic.org](https://halifaxrefugeeclinic.org)
- - date_published: 2022-11-25T00:00:00+00:00
-
- ## Halium — Halium  documentation
- - [https://docs.halium.org](https://docs.halium.org)
- - date_published: 2023-02-15T00:00:00+00:00
-
- ## Halium Project
- - [https://halium.org](https://halium.org)
- - date_published: 2024-09-14T16:18:43+00:00
-
- ## Hall of Impossible Dreams
- - [https://hallofdreams.org](https://hallofdreams.org)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Hallo: Verein zur Förderung raumöffnender Kultur e.V.
- - [https://hallohallohallo.org](https://hallohallohallo.org)
- - date_published: 2024-07-13T16:11:46.040000+00:00
-
- ## hallucinogens . org
- - [https://www.hallucinogens.org](https://www.hallucinogens.org)
- - date_published: 2023-08-05T01:02:58+00:00
-
- ## Hallwalls Contemporary Arts Center :: Current & Upcoming
- - [http://www.hallwalls.org](http://www.hallwalls.org)
- - date_published: 2024-06-28T14:31:49.445163+00:00
-
- ## Halopedia
- - [https://halopedia.org](https://halopedia.org)
- - date_published: 2024-03-02T02:33:16+00:00
- - tags: ['halo game']
-
- ## Halt.org Directory For Lawyers ✋ Halt Law Directory 🚨
- - [https://www.halt.org](https://www.halt.org)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Halte au Pillage !
- - [http://www.halte-au-pillage.org](http://www.halte-au-pillage.org)
- - date_published: 2024-06-24T10:03:25.294978+00:00
-
- ## Juha-Matti Santala - Community Builder. Dreamer. Adventurer.
- - [https://hamatti.org](https://hamatti.org)
- - date_published: 2024-05-07T23:15:08.677327+00:00
-
- ## Hamcrest
- - [https://hamcrest.org](https://hamcrest.org)
- - date_published: 2022-08-08T16:24:03+00:00
-
- ## hameaux durables : Rénovations et Constructions  Hérault Montpellier 34
- - [https://www.hameaux-durables.org](https://www.hameaux-durables.org)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Webseite von Jörn Hameister
- - [http://www.hameister.org](http://www.hameister.org)
- - date_published: 2024-07-09T12:15:14.423344+00:00
-
- ## Huntsville Hamfest – Huntsville Hamfest
- - [http://www.hamfest.org](http://www.hamfest.org)
- - date_published: 2024-06-29T07:51:08.819126+00:00
-
- ## Recycling & Waste Reduction | Hamilton County Environmental Services, OH
- - [https://hamiltoncountyr3source.org](https://hamiltoncountyr3source.org)
- - date_published: 2024-10-30T01:01:04.901999+00:00
-
- ## The Hamilton Project
- - [https://www.hamiltonproject.org](https://www.hamiltonproject.org)
- - date_published: 2024-06-27T12:58:50+00:00
-
- ## Joel David Hamkins | mathematics and philosophy of the infinite
- - [https://jdh.hamkins.org](https://jdh.hamkins.org)
- - date_published: 2023-10-25T21:27:46.698687+00:00
- - tags: ['personal']
-
- ## The Hamler Programming Language
- - [https://www.hamler-lang.org](https://www.hamler-lang.org)
- - date_published: 2021-08-25T06:35:31+00:00
-
- ## Hammerspoon
- - [https://www.hammerspoon.org](https://www.hammerspoon.org)
- - date_published: 2024-08-06T02:50:58+00:00
-
- ## HaMoked
- - [http://www.hamoked.org](http://www.hamoked.org)
- - date_published: 2024-09-16T20:13:47.935612+00:00
-
- ## 리눅스 커뮤니티 하모니카(HamoniKR)
- - [https://hamonikr.org](https://hamonikr.org)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home - Dayton Hamvention
- - [http://hamvention.org](http://hamvention.org)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Element
- - [http://chat.hanamirb.org](http://chat.hanamirb.org)
- - date_published: 2024-08-06T10:47:38+00:00
-
- ## Hanami
- - [https://discourse.hanamirb.org](https://discourse.hanamirb.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Hanami API docs
- - [https://docs.hanamirb.org](https://docs.hanamirb.org)
- - date_published: 2024-08-18T19:02:54.885996+00:00
-
- ## Hanami Guides
- - [https://guides.hanamirb.org](https://guides.hanamirb.org)
- - date_published: 2024-08-18T19:02:56.227184+00:00
-
- ## Hanami | The web, with simplicity
- - [https://hanamirb.org](https://hanamirb.org)
- - date_published: 2023-10-25T21:27:52.118904+00:00
-
- ## Home
- - [https://hancockshakervillage.org](https://hancockshakervillage.org)
- - date_published: 2024-08-19T10:08:03.196771+00:00
-
- ## Phone Tracker Free | Mobile Tracker | Cell Phone Tracking App
- - [http://www.handhelds.org](http://www.handhelds.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Episode Guide  —  Handmade Hero
- - [https://guide.handmadehero.org](https://guide.handmadehero.org)
- - date_published: 2024-03-12T13:18:49+00:00
-
- ## Handmade Hero
- - [https://handmadehero.org](https://handmadehero.org)
- - date_published: 2022-12-07T19:52:04+00:00
-
- ## from the archives of the Hand Drawn Map Association – from the archives of the Hand Drawn Map Association
- - [http://www.handmaps.org](http://www.handmaps.org)
- - date_published: 2024-09-14T22:49:19.713380+00:00
-
- ## Hands Four Dancers of Ithaca
- - [http://hands4dancers.org](http://hands4dancers.org)
- - date_published: 2024-08-20T05:20:28.670249+00:00
-
- ## Handshake
- - [https://handshake.org](https://handshake.org)
- - date_published: 2023-11-09T09:17:49+00:00
-
- ## Hands Off Mother Earth: Stop geoengineering!
- - [https://www.handsoffmotherearth.org](https://www.handsoffmotherearth.org)
- - date_published: 2020-11-30T02:47:45+00:00
-
- ## Hands Off Venezuela
- - [http://www.handsoffvenezuela.org](http://www.handsoffvenezuela.org)
- - date_published: 2024-10-21T17:53:26.056927+00:00
-
- ## Hands Off Women | Fighting violence against women
- - [http://www.handsoffwomen-how.org](http://www.handsoffwomen-how.org)
- - date_published: 2024-10-22T12:43:58.584908+00:00
-
- ## The Hands Up Project
- - [https://handsupproject.org](https://handsupproject.org)
- - date_published: 2024-10-19T10:38:13.933492+00:00
-
- ## Fondazione Pirelli HangarBicocca Milano: Mostre d'Arte
- - [http://www.hangarbicocca.org](http://www.hangarbicocca.org)
- - date_published: 2023-12-05T00:00:00+00:00
-
- ## Patricia A. Hannaford Career Center | Middlebury, VT
- - [http://www.hannafordcareercenter.org](http://www.hannafordcareercenter.org)
- - date_published: 2024-10-18T17:43:55.359238+00:00
-
- ## Hannah4Change
- - [https://www.hannah4change.org](https://www.hannah4change.org)
- - date_published: 2024-08-20T05:05:39.010974+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.hanscominvestmentservices.org](https://www.hanscominvestmentservices.org)
- - date_published: 2024-07-10T04:55:43.034337+00:00
-
- ## Notes on Designing, Building, and Operating Model Railroads
- - [https://designbuildop.hansmanns.org](https://designbuildop.hansmanns.org)
- - date_published: 2024-02-08T17:49:32.421764+00:00
-
- ## hansmanns.org Home Page!
- - [http://www.hansmanns.org](http://www.hansmanns.org)
- - date_published: 2021-04-08T14:17:45+00:00
-
- ## 汉斯期刊 开放获取
- - [http://www.hanspub.org](http://www.hanspub.org)
- - date_published: 2024-10-29T17:06:01+00:00
-
- ## Let's work together to create a happier world - Happier Lives Institute
- - [https://www.happierlivesinstitute.org](https://www.happierlivesinstitute.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Happier Way Foundation
- - [https://happierway.org](https://happierway.org)
- - date_published: 2024-07-10T09:00:38.223816+00:00
-
- ## HappiLabs
- - [https://www.happilabs.org](https://www.happilabs.org)
- - date_published: 2024-10-19T04:01:44.096254+00:00
-
- ## Happiness Science
- - [https://happiness-science.org](https://happiness-science.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Home - Happonomy
- - [https://www.happonomy.org](https://www.happonomy.org)
- - date_published: 2024-06-30T04:57:22.995391+00:00
-
- ## HappyAtWork, les meilleures entreprises pour travailler
- - [https://happy-at-work.org](https://happy-at-work.org)
- - date_published: 2024-07-16T19:55:47.982552+00:00
 

@@ -1,3 +1,183 @@
+ ## Welcome to Lewis & Clark in Beautiful Portland, Oregon
+ - [https://www.lclark.edu](https://www.lclark.edu)
+ - date_published: 2024-07-12T19:47:53+00:00
+
+ ## Lake Erie College of Osteopathic Medicine (LECOM) | Erie, PA
+ - [http://lecom.edu](http://lecom.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Lee University, Cleveland TN
+ - [http://www.leeuniversity.edu](http://www.leeuniversity.edu)
+ - date_published: 2024-10-30T20:25:59.304461+00:00
+
+ ## AIRWeb: Adversarial Information Retrieval on the Web
+ - [http://airweb.cse.lehigh.edu](http://airweb.cse.lehigh.edu)
+ - date_published: 2011-01-12T01:57:51+00:00
+
+ ## COR@L – Computational Optimization Research At Lehigh
+ - [http://coral.ie.lehigh.edu](http://coral.ie.lehigh.edu)
+ - date_published: 2024-08-08T03:13:27.499259+00:00
+
+ ## COR@L – Computational Optimization Research At Lehigh
+ - [https://coral.ise.lehigh.edu](https://coral.ise.lehigh.edu)
+ - date_published: 2024-08-08T03:13:28.817482+00:00
+
+ ## Lehigh Engineering: Integrated Education and Research
+ - [https://engineering.lehigh.edu](https://engineering.lehigh.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## SeDuMi | Optimization over symmetric cones
+ - [https://sedumi.ie.lehigh.edu](https://sedumi.ie.lehigh.edu)
+ - date_published: 2024-04-28T01:58:14.252018+00:00
+
+ ## Home
+ - [https://www1.lehigh.edu](https://www1.lehigh.edu)
+ - date_published: 2024-06-29T21:03:04+00:00
+
+ ## Home
+ - [https://www2.lehigh.edu](https://www2.lehigh.edu)
+ - date_published: 2024-06-29T21:03:04+00:00
+
+ ## Home
+ - [http://www.lehigh.edu](http://www.lehigh.edu)
+ - date_published: 2024-07-01T20:03:03+00:00
+
+ ## Lehman College | Lehman College
+ - [http://www.lehman.edu](http://www.lehman.edu)
+ - date_published: 2024-06-28T13:25:18.678211+00:00
+
+ ## Redirect to Lockhaven.edu
+ - [https://www.lhup.edu](https://www.lhup.edu)
+ - date_published: 2024-05-07T15:42:12.265148+00:00
+
+ ## Liberty University: A Christian University in Virginia and Online
+ - [https://liberty.edu](https://liberty.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fitness Certification Classes and Programs - Life Time Academy
+ - [https://www.lifetimeacademy.edu](https://www.lifetimeacademy.edu)
+ - date_published: 2024-06-19T10:13:42.076162+00:00
+
+ ## Digital Commons@Lindenwood University
+ - [https://digitalcommons.lindenwood.edu](https://digitalcommons.lindenwood.edu)
+ - date_published: 2024-07-08T21:39:42.618789+00:00
+
+ ## Long Island University
+ - [https://liu.edu](https://liu.edu)
+ - date_published: 2024-06-26T12:31:59.198224+00:00
+
+ ## Loyola Law School
+ - [https://www.lls.edu](https://www.lls.edu)
+ - date_published: 2024-09-15T23:30:53.260162+00:00
+
+ ## Loma Linda University
+ - [http://www.llu.edu](http://www.llu.edu)
+ - date_published: 2024-06-24T09:01:34+00:00
+
+ ## Admission
+ - [http://admission.lmu.edu](http://admission.lmu.edu)
+ - date_published: 2024-09-09T21:59:39.728906+00:00
+
+ ## Seaver College of Science and Engineering - Loyola Marymount University
+ - [https://cse.lmu.edu](https://cse.lmu.edu)
+ - date_published: 2024-09-06T19:50:49.053168+00:00
+
+ ## https://cs.lmu.edu
+ - [https://cs.lmu.edu](https://cs.lmu.edu)
+ - date_published: 2024-01-09T02:59:22.375629+00:00
+
+ ## Digital Commons at Loyola Marymount University and Loyola Law School | Loyola Marymount University and Loyola Law School Research
+ - [https://digitalcommons.lmu.edu](https://digitalcommons.lmu.edu)
+ - date_published: 2024-09-15T23:30:48.651955+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://electra.lmu.edu](http://electra.lmu.edu)
+ - date_published: 2024-06-30T01:25:33.164003+00:00
+
+ ## Loyola Marymount University
+ - [http://lmu.edu](http://lmu.edu)
+ - date_published: 2024-09-09T21:59:42.917287+00:00
+
+ ## Viewbook - Digital Viewbook
+ - [https://viewbook.lmu.edu](https://viewbook.lmu.edu)
+ - date_published: 2024-04-30T06:57:21.481187+00:00
+
+ ## London Business School Publishing - Case Collection
+ - [https://publishing.london.edu](https://publishing.london.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home | London Business School
+ - [https://www.london.edu](https://www.london.edu)
+ - date_published: 2024-06-20T22:45:42.682744+00:00
+
+ ## Calendar
+ - [https://calendar.louisiana.edu](https://calendar.louisiana.edu)
+ - date_published: 2024-06-14T19:08:22+00:00
+
+ ## Make a Gift
+ - [https://give.louisiana.edu](https://give.louisiana.edu)
+ - date_published: 2024-07-02T04:10:19.576903+00:00
+
+ ## Another Degree of Success
+ - [https://gradschool.louisiana.edu](https://gradschool.louisiana.edu)
+ - date_published: 2024-07-01T21:01:12+00:00
+
+ ## Human Resources
+ - [https://humanresources.louisiana.edu](https://humanresources.louisiana.edu)
+ - date_published: 2024-07-02T03:53:33+00:00
+
+ ## University Libraries
+ - [https://library.louisiana.edu](https://library.louisiana.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## University of Louisiana at Lafayette
+ - [https://louisiana.edu](https://louisiana.edu)
+ - date_published: 2024-05-07T21:31:24.047115+00:00
+
+ ## Home | Home
+ - [https://moodle.louisiana.edu](https://moodle.louisiana.edu)
+ - date_published: 2024-07-02T04:10:38+00:00
+
+ ## Office of Communications & Marketing
+ - [https://ocm.louisiana.edu](https://ocm.louisiana.edu)
+ - date_published: 2024-07-02T04:10:30.591706+00:00
+
+ ## Education that fits.
+ - [https://online.louisiana.edu](https://online.louisiana.edu)
+ - date_published: 2024-07-01T20:59:20+00:00
+
+ ## University Police
+ - [https://police.louisiana.edu](https://police.louisiana.edu)
+ - date_published: 2024-07-02T03:38:47+00:00
+
+ ## Office of Admissions
+ - [https://apply.louisville.edu](https://apply.louisville.edu)
+ - date_published: 2024-06-27T12:00:31.796714+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
+ - date_published: 2004-06-27T12:00:49+00:00
+
+ ## University of Louisville – College of Business
+ - [https://business.louisville.edu](https://business.louisville.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## University of Louisville
+ - [https://businessops.louisville.edu](https://businessops.louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## Academic Catalogs < University of Louisville
+ - [https://catalog.louisville.edu](https://catalog.louisville.edu)
+ - date_published: 2024-06-24T13:12:18+00:00
+
+ ## ULink Sign-in
+ - [https://csprd.louisville.edu](https://csprd.louisville.edu)
+ - date_published: 2024-06-27T12:00:42.690096+00:00
+
+ ## Events Calendar - University of Louisville
+ - [https://events.louisville.edu](https://events.louisville.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
  ## Oracle PeopleSoft Sign-in
  - [https://fip.louisville.edu](https://fip.louisville.edu)
  - date_published: 2024-06-27T12:00:37.460152+00:00
@@ -3825,184 +4005,4 @@
  ## Bladen County Center | N.C. Cooperative Extension
  - [https://bladen.ces.ncsu.edu](https://bladen.ces.ncsu.edu)
  - date_published: 2024-10-15T05:26:44.656892+00:00
-
- ## Blueberries | NC State Extension
- - [https://blueberries.ces.ncsu.edu](https://blueberries.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:25.056995+00:00
-
- ## brand.ces.ncsu.edu
- - [https://brand.ces.ncsu.edu](https://brand.ces.ncsu.edu)
- - date_published: 2019-09-24T20:14:47+00:00
-
- ## NC State Brand
- - [https://brand.ncsu.edu](https://brand.ncsu.edu)
- - date_published: 2024-05-07T19:45:15.384528+00:00
-
- ## Brunswick County Center | N.C. Cooperative Extension
- - [https://brunswick.ces.ncsu.edu](https://brunswick.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:17.072212+00:00
-
- ## Buncombe County Center | N.C. Cooperative Extension
- - [https://buncombe.ces.ncsu.edu](https://buncombe.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:22.161532+00:00
-
- ## Burke County Center | N.C. Cooperative Extension
- - [https://burke.ces.ncsu.edu](https://burke.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:04.523617+00:00
-
- ## Cabarrus County Center | N.C. Cooperative Extension
- - [https://cabarrus.ces.ncsu.edu](https://cabarrus.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:34.815330+00:00
-
- ## Caldwell County Center | N.C. Cooperative Extension
- - [https://caldwell.ces.ncsu.edu](https://caldwell.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:20.903389+00:00
-
- ## Events Calendar
- - [https://calendar.ncsu.edu](https://calendar.ncsu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## NC Agricultural Foundation, Inc. Board Portal
- - [https://calsboards.cals.ncsu.edu](https://calsboards.cals.ncsu.edu)
- - date_published: 2024-10-15T05:45:37.616107+00:00
-
- ## College of Agriculture and Life Sciences
- - [https://cals.ncsu.edu](https://cals.ncsu.edu)
- - date_published: 2024-06-16T12:10:40+00:00
-
- ## Camden County Center | N.C. Cooperative Extension
- - [https://camden.ces.ncsu.edu](https://camden.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:47.781194+00:00
-
- ## Career Pathways | NC State Extension
- - [https://careerpathways.ces.ncsu.edu](https://careerpathways.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:12.634658+00:00
-
- ## Carteret County Center | N.C. Cooperative Extension
- - [https://carteret.ces.ncsu.edu](https://carteret.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:49.109406+00:00
-
- ## Caswell County Center | N.C. Cooperative Extension
- - [https://caswell.ces.ncsu.edu](https://caswell.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:02.852946+00:00
-
- ## NC State University Libraries Catalog
- - [https://catalog.lib.ncsu.edu](https://catalog.lib.ncsu.edu)
- - date_published: 2024-07-02T04:23:43.147446+00:00
-
- ## Catawba County Center | N.C. Cooperative Extension
- - [https://catawba.ces.ncsu.edu](https://catawba.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:19.905885+00:00
-
- ## Welcome to Centennial Campus
- - [https://centennial.ncsu.edu](https://centennial.ncsu.edu)
- - date_published: 2024-08-07T09:40:05+00:00
-
- ## NC State Extension
- - [https://ces.ncsu.edu](https://ces.ncsu.edu)
- - date_published: 2024-10-15T05:41:35.167937+00:00
-
- ## Office of the Chancellor
- - [https://chancellor.ncsu.edu](https://chancellor.ncsu.edu)
- - date_published: 2024-08-07T16:55:05.846406+00:00
-
- ## NC State's College of Humanities and Social Sciences
- - [https://chass.ncsu.edu](https://chass.ncsu.edu)
- - date_published: 2024-07-01T15:54:01.090492+00:00
-
- ## Chatham County Center | N.C. Cooperative Extension
- - [https://chatham.ces.ncsu.edu](https://chatham.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:38.030634+00:00
-
- ## Cherokee County Center | N.C. Cooperative Extension
- - [https://cherokee.ces.ncsu.edu](https://cherokee.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:33.142946+00:00
-
- ## Chowan County Center | N.C. Cooperative Extension
- - [https://chowan.ces.ncsu.edu](https://chowan.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:07.428284+00:00
-
- ## Christmas Trees | NC State Extension
- - [https://christmastrees.ces.ncsu.edu](https://christmastrees.ces.ncsu.edu)
- - date_published: 2024-10-15T05:33:15.349892+00:00
-
- ## Citation Index - NCSU Libraries
- - [https://ci.lib.ncsu.edu](https://ci.lib.ncsu.edu)
- - date_published: 2024-10-15T05:45:13.548139+00:00
-
- ## Center for Integrated Pest Management – Pest Informatics for a Healthy Planet
- - [https://cipm.ncsu.edu](https://cipm.ncsu.edu)
- - date_published: 2024-06-16T22:36:56.120465+00:00
-
- ## Clay County Center | N.C. Cooperative Extension
- - [https://clay.ces.ncsu.edu](https://clay.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:24.503539+00:00
-
- ## Cleveland County Center | N.C. Cooperative Extension
- - [https://cleveland.ces.ncsu.edu](https://cleveland.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:30.647687+00:00
-
- ## Technology Services
- - [https://clubs.ncsu.edu](https://clubs.ncsu.edu)
- - date_published: 2024-04-29T03:46:42.276134+00:00
-
- ## The College of Natural Resources at NC State
- - [https://cnr.ncsu.edu](https://cnr.ncsu.edu)
- - date_published: 2024-06-16T22:26:52+00:00
-
- ## Columbus County Center | N.C. Cooperative Extension
- - [https://columbus.ces.ncsu.edu](https://columbus.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:39.330518+00:00
-
- ## Community Development | NC State Extension
- - [https://communitydevelopment.ces.ncsu.edu](https://communitydevelopment.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:17.479803+00:00
-
- ## Composting | NC State Extension
- - [https://composting.ces.ncsu.edu](https://composting.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:59.986078+00:00
-
- ## Extension Resource Catalog - NC State Extension
- - [https://content.ces.ncsu.edu](https://content.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:57.878377+00:00
-
- ## Corn | NC State Extension
- - [https://corn.ces.ncsu.edu](https://corn.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:35.023343+00:00
-
- ## Cotton | NC State Extension
- - [https://cotton.ces.ncsu.edu](https://cotton.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:57.033337+00:00
-
- ## Cover Crops | NC State Extension
- - [https://covercrops.ces.ncsu.edu](https://covercrops.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:26.536100+00:00
-
- ## Craven County Center | N.C. Cooperative Extension
- - [https://craven.ces.ncsu.edu](https://craven.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:40.322613+00:00
-
- ## Cucurbits | NC State Extension
- - [https://cucurbits.ces.ncsu.edu](https://cucurbits.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:05.312897+00:00
-
- ## Cumberland County Center | N.C. Cooperative Extension
- - [https://cumberland.ces.ncsu.edu](https://cumberland.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:52.488926+00:00
-
- ## Currituck County Center | N.C. Cooperative Extension
- - [https://currituck.ces.ncsu.edu](https://currituck.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:08.392603+00:00
-
- ## Cut Flowers | NC State Extension
- - [https://cutflowers.ces.ncsu.edu](https://cutflowers.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:23.131749+00:00
-
- ## Dairy | NC State Extension
- - [https://dairy.ces.ncsu.edu](https://dairy.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:31.943535+00:00
-
- ## Dare County Center | N.C. Cooperative Extension
- - [https://dare.ces.ncsu.edu](https://dare.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:00.405302+00:00
 

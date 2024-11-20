@@ -1,3 +1,219 @@
+ ## SPDX Online Tool
+ - [https://tools.spdx.org](https://tools.spdx.org)
+ - date_published: 2024-07-22T17:24:36.348915+00:00
+
+ ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
+ - [http://www.spdxc.org](http://www.spdxc.org)
+ - date_published: 2024-07-15T04:11:40.766383+00:00
+
+ ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
+ - [http://www.spe.org](http://www.spe.org)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## SPEAKEZEE.ORG
+ - [https://speakezee.org](https://speakezee.org)
+ - date_published: 2024-06-29T02:57:45.918687+00:00
+
+ ## Speakit – Film & TV Production
+ - [https://www.speakit.org](https://www.speakit.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Welcome to ICPE2020: ICPE 2020
+ - [https://icpe2020.spec.org](https://icpe2020.spec.org)
+ - date_published: 2021-03-09T14:22:10+00:00
+
+ ## SPEC Research Group
+ - [https://research.spec.org](https://research.spec.org)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Abu Simbel: Secret of Ramses
+ - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
+ - date_published: 2006-06-25T11:55:50+00:00
+
+ ## Akton Films
+ - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
+ - date_published: 2007-10-22T21:20:07+00:00
+
+ ## Bacteria, el emulador mas pequeño del mundo
+ - [http://bacteria.speccy.org](http://bacteria.speccy.org)
+ - date_published: 2012-11-06T12:30:39+00:00
+
+ ## B.A.S.E.
+ - [http://base.speccy.org](http://base.speccy.org)
+ - date_published: 2008-03-01T20:06:18+00:00
+
+ ## Página de Bibosoft
+ - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
+ - date_published: 2014-11-26T22:37:21+00:00
+
+ ## Alexander Podzhunas ZX-Projects/TAP VERSION
+ - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
+ - date_published: 2011-01-11T16:52:26+00:00
+
+ ## Documento sin título
+ - [http://canadul.speccy.org](http://canadul.speccy.org)
+ - date_published: 2023-10-31T11:23:01+00:00
+
+ ## CargandoLeches
+ - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
+ - date_published: 2012-06-09T14:18:02+00:00
+
+ ## Compiler Software
+ - [https://compiler.speccy.org](https://compiler.speccy.org)
+ - date_published: 2024-05-09T09:07:05.232781+00:00
+
+ ## Curso de Código Máquina del ZX-Spectrum
+ - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
+ - date_published: 2003-09-25T08:53:47+00:00
+
+ ## CZArg -Sitio dedicado al Spectrum Argentino y su familia.
+ - [http://czarg.speccy.org](http://czarg.speccy.org)
+ - date_published: 2021-06-01T00:00:00+00:00
+
+ ## CZ Spectrum
+ - [http://czspectrum.speccy.org](http://czspectrum.speccy.org)
+ - date_published: 2002-10-24T18:44:32+00:00
+
+ ## ESpectrum: La página web de los programas españoles para Spectrum
+ - [http://espectrum.speccy.org](http://espectrum.speccy.org)
+ - date_published: 2024-08-07T08:59:35.134862+00:00
+
+ ## foro.speccy.org - Página principal
+ - [http://foro.speccy.org](http://foro.speccy.org)
+ - date_published: 2024-08-07T08:59:46.564864+00:00
+
+ ## El hardware del spectrum
+ - [http://hardware.speccy.org](http://hardware.speccy.org)
+ - date_published: 2023-03-21T22:31:46+00:00
+
+ ## JaS - A Java Spectrum emulator
+ - [http://jas.speccy.org](http://jas.speccy.org)
+ - date_published: 2011-03-19T22:25:11+00:00
+
+ ## JSpeccy, empieza a jugar sin tener que compilar
+ - [http://jspeccy.speccy.org](http://jspeccy.speccy.org)
+ - date_published: 2015-08-08T16:12:57+00:00
+
+ ## K y Enter, la página de los listados MicroHobby
+ - [http://kyenter.speccy.org](http://kyenter.speccy.org)
+ - date_published: 2003-07-07T21:13:11+00:00
+
+ ## La ColecciÃ³n de LoadÂ´nÂ´Run
+ - [http://loadnrun.speccy.org](http://loadnrun.speccy.org)
+ - date_published: 2023-09-18T11:13:10+00:00
+
+ ## Magazine ZX - Lista de Revistas
+ - [http://magazinezx.speccy.org](http://magazinezx.speccy.org)
+ - date_published: 2023-08-22T12:23:16+00:00
+
+ ## Los Manuales del Spectrum
+ - [http://manuales.speccy.org](http://manuales.speccy.org)
+ - date_published: 2004-12-08T13:05:18+00:00
+
+ ## SevenuP
+ - [http://metalbrain.speccy.org](http://metalbrain.speccy.org)
+ - date_published: 2006-12-17T13:30:29+00:00
+
+ ## MHOnline
+ - [http://mhonline.speccy.org](http://mhonline.speccy.org)
+ - date_published: 2024-08-07T08:59:09.970518+00:00
+
+ ## MHoogle: Buscador de contenidos de la revista MicroHobby
+ - [http://mhoogle.speccy.org](http://mhoogle.speccy.org)
+ - date_published: 2024-08-07T08:59:06.847332+00:00
+
+ ## MicroHobby Revisited - index
+ - [http://mhr.speccy.org](http://mhr.speccy.org)
+ - date_published: 2012-10-10T22:18:28+00:00
+
+ ## Octocom
+ - [http://octocom.speccy.org](http://octocom.speccy.org)
+ - date_published: 2023-01-16T00:12:31+00:00
+
+ ## Pasmo, ensamblador Z80 / Z80 assembler
+ - [http://pasmo.speccy.org](http://pasmo.speccy.org)
+ - date_published: 2022-03-05T18:13:46+00:00
+
+ ## La tira de ECSS
+ - [http://pedrete.speccy.org](http://pedrete.speccy.org)
+ - date_published: 2004-08-29T20:24:09+00:00
+
+ ## Portadas MicroHobby
+ - [http://portadasmh.speccy.org](http://portadasmh.speccy.org)
+ - date_published: 2022-10-22T23:11:42+00:00
+
+ ## SinclairManía
+ - [http://sinclairmania.speccy.org](http://sinclairmania.speccy.org)
+ - date_published: 2014-10-31T08:47:23+00:00
+
+ ## Sinclair QL - Recursos en Castellano
+ - [http://sinclairql.speccy.org](http://sinclairql.speccy.org)
+ - date_published: 2009-04-19T20:24:14+00:00
+
+ ## SPA2 - El archivo eSPAñol del Spectrum
+ - [http://spa2.speccy.org](http://spa2.speccy.org)
+ - date_published: 2024-08-07T08:59:24.545825+00:00
+
+ ## speccy4ever
+ - [https://speccy4ever.speccy.org](https://speccy4ever.speccy.org)
+ - date_published: 2024-05-19T20:52:22+00:00
+
+ ## El portal español del Spectrum
+ - [https://speccy.org](https://speccy.org)
+ - date_published: 2024-04-28T04:43:39.002805+00:00
+
+ ## Spectrumaníacos
+ - [https://spectrumaniacos.speccy.org](https://spectrumaniacos.speccy.org)
+ - date_published: 2022-09-20T20:52:08+00:00
+
+ ## Spectrum Forever
+ - [http://spectrumforever.speccy.org](http://spectrumforever.speccy.org)
+ - date_published: 2009-07-04T13:40:48+00:00
+
+ ## TECHNONEW.COM
+ - [http://technonew.speccy.org](http://technonew.speccy.org)
+ - date_published: 2014-10-31T09:40:35+00:00
+
+ ## El Trastero del Spectrum
+ - [http://trastero.speccy.org](http://trastero.speccy.org)
+ - date_published: 2024-08-05T09:46:15+00:00
+
+ ## Uto's 8 bit page
+ - [http://uto.speccy.org](http://uto.speccy.org)
+ - date_published: 2021-11-05T18:17:25+00:00
+
+ ## Vega Solaris - El juego.
+ - [http://vegasolaris.speccy.org](http://vegasolaris.speccy.org)
+ - date_published: 2024-08-07T08:59:32.863063+00:00
+
+ ## indice [El wiki de Speccy.org]
+ - [https://wiki.speccy.org](https://wiki.speccy.org)
+ - date_published: 2024-08-07T08:58:22.716447+00:00
+
+ ## YASS - Yet Another Spectrum Simulator
+ - [http://yass.speccy.org](http://yass.speccy.org)
+ - date_published: 2012-09-22T10:52:01+00:00
+
+ ## Z80 Loader +3
+ - [http://z80loader3.speccy.org](http://z80loader3.speccy.org)
+ - date_published: 2013-03-29T05:39:47+00:00
+
+ ## ZXBaremulator
+ - [http://zxmini.speccy.org](http://zxmini.speccy.org)
+ - date_published: 2020-01-21T20:40:59+00:00
+
+ ## ZX-Uno [Clon de ordenador ZX Spectrum basado en FPGA]
+ - [http://zxuno.speccy.org](http://zxuno.speccy.org)
+ - date_published: 2016-10-18T00:00:00+00:00
+
+ ## BDD Framework for .NET - SpecFlow - Find Bugs before they happen
+ - [https://specflow.org](https://specflow.org)
+ - date_published: 2024-07-04T11:41:51.176473+00:00
+
+ ## Center for Inclusive Health Homepage
+ - [http://inclusivehealth.specialolympics.org](http://inclusivehealth.specialolympics.org)
+ - date_published: 2024-09-19T22:03:21.010218+00:00
+
  ## Donate | Special Olympics | Support Special Olympics
  - [https://play.specialolympics.org](https://play.specialolympics.org)
  - date_published: 2024-09-19T22:03:06.328432+00:00
@@ -3818,225 +4034,4 @@ photonics applied research.
  ## ハーメルン - SS･小説投稿サイト-
  - [https://syosetu.org](https://syosetu.org)
  - date_published: 2024-09-02T11:07:13.846213+00:00
-
- ## syotr | flows
- - [https://syotr.org](https://syotr.org)
- - date_published: 2024-07-23T23:42:02.595218+00:00
-
- ## Syracuse Country Dancers | Contra Dances and English Country DancesSyracuse Country Dancers | contra dance and English country dance in Syracuse, NY
- - [http://syracusecountrydancers.org](http://syracusecountrydancers.org)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Syrian Archive
- - [https://syrianarchive.org](https://syrianarchive.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Syrian Youth Assembly
- - [https://www.syrian-youth.org](https://www.syrian-youth.org)
- - date_published: 2024-07-02T05:55:17.897787+00:00
-
- ## المجلس الأعلى السوري اللبناني
- - [http://www.syrleb.org](http://www.syrleb.org)
- - date_published: 2024-07-12T07:06:20.653871+00:00
-
- ## Sysad*
- - [https://sysad.org](https://sysad.org)
- - date_published: 2024-07-10T07:29:24.569869+00:00
-
- ## Syscoin Explorer
- - [https://explorer.syscoin.org](https://explorer.syscoin.org)
- - date_published: 2024-09-23T20:47:09.713771+00:00
-
- ## Multi-Chain Faucet from chains.tools
- - [https://faucet.syscoin.org](https://faucet.syscoin.org)
- - date_published: 2024-07-07T08:49:36+00:00
-
- ## Syscoin - Bitcoin’s only Modular Network
- - [https://syscoin.org](https://syscoin.org)
- - date_published: 2024-09-04T06:09:25+00:00
-
- ## Security Tools for Containers, Kubernetes, and Cloud (N)
- - [https://sysdig.org](https://sysdig.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Internet Providers in Washington
- - [http://systbiol.org](http://systbiol.org)
- - date_published: 2024-06-30T10:08:11.000009+00:00
-
- ## shmups.system11.org - Index page
- - [https://shmups.system11.org](https://shmups.system11.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Systematic Paris-Region, Pôle européen des Deep Tech
- - [https://systematic-paris-region.org](https://systematic-paris-region.org)
- - date_published: 2024-06-22T09:02:09.295348+00:00
-
- ## systemc.org
- - [http://www.systemc.org](http://www.systemc.org)
- - date_published: 2024-06-04T14:04:45+00:00
-
- ## Systemic Design Association Home
- - [https://systemic-design.org](https://systemic-design.org)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Home - Systemic Juvenile Idiopathic Arthritis Foundation
- - [https://www.systemicjia.org](https://www.systemicjia.org)
- - date_published: 2024-06-28T12:09:09.059517+00:00
-
- ## SystemRescue - System Rescue Homepage
- - [https://system-rescue.org](https://system-rescue.org)
- - date_published: 2024-04-13T20:44:25+00:00
- - tags: ['linux', 'operating system']
-
- ## Computer Networks: A Systems Approach
- - [https://book.systemsapproach.org](https://book.systemsapproach.org)
- - date_published: 2024-06-05T15:24:26+00:00
-
- ## Systems Approach
- - [https://systemsapproach.org](https://systemsapproach.org)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Center for Systems Awareness
- - [https://systemsawareness.org](https://systemsawareness.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home
- - [https://www.systemsbiology.org](https://www.systemsbiology.org)
- - date_published: 2024-10-19T04:50:16.414441+00:00
-
- ## UK Systems Society – Promoting Systems Thinking for the 21st century
- - [http://www.systemsforum.org](http://www.systemsforum.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Systemshock.org
- - [https://systemshock.org](https://systemshock.org)
- - date_published: 2024-05-08T13:32:22+00:00
- - tags: ['system shock']
-
- ## SystemTap
- - [https://systemtap.org](https://systemtap.org)
- - date_published: 2024-08-07T14:46:21+00:00
-
- ## System Transparency Blog
- - [https://blog.system-transparency.org](https://blog.system-transparency.org)
- - date_published: 2021-02-09T00:00:00+00:00
-
- ## System Transparency | security architecture for bare-metal servers
- - [https://system-transparency.org](https://system-transparency.org)
- - date_published: 2022-12-21T10:24:11+00:00
-
- ## Richard Szeliski
- - [https://szeliski.org](https://szeliski.org)
- - date_published: 2024-05-09T09:16:11.296181+00:00
- - tags: ['personal']
-
- ## 浙江盘石信息技术股份有限公司，盘石诚信认证，网站安全认证
- - [https://credit.szfw.org](https://credit.szfw.org)
- - date_published: 2024-06-30T18:23:02.552874+00:00
-
- ## 诚信网站管理系统
- - [https://search.szfw.org](https://search.szfw.org)
- - date_published: 2016-06-29T09:54:20+00:00
-
- ## Daftar Kumpulan Situs MPO Terpercaya Link Aman Anti Nawala Terbaru
- - [https://szhkbiennale.org](https://szhkbiennale.org)
- - date_published: 2024-10-21T15:03:29.011186+00:00
-
- ## SZI database | subduction initiation
- - [https://szidatabase.org](https://szidatabase.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## helyesiras.szotar.org
- - [https://helyesiras.szotar.org](https://helyesiras.szotar.org)
- - date_published: 2024-07-09T20:15:44.309044+00:00
-
- ## Organisation Selection
- - [https://shibboleth.szotar.org](https://shibboleth.szotar.org)
- - date_published: 2024-07-09T20:15:45.981467+00:00
-
- ## T-1
- - [https://t-1.org](https://t-1.org)
- - date_published: 2024-01-09T03:42:37.325803+00:00
-
- ## T1LIB - a C programmers toolkit for generating bitmaps from Adobe Type 1 fonts
- - [https://t1lib.org](https://t1lib.org)
- - date_published: 2022-12-02T02:50:31+00:00
-
- ## The T2K Experiment
- - [https://t2k-experiment.org](https://t2k-experiment.org)
- - date_published: 2024-05-06T15:41:32.416018+00:00
-
- ## T2 SDE - The Open System Development Environment
- - [https://t2-project.org](https://t2-project.org)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Index of /
- - [https://dl.t2sde.org](https://dl.t2sde.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## T2 SDE - The Open System Development Environment
- - [https://t2sde.org](https://t2sde.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Tunnel to Towers Foundation
- - [https://t2t.org](https://t2t.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Welcome to the Two Towers Mud! - T2T
- - [https://t2tmud.org](https://t2tmud.org)
- - date_published: 2024-03-27T20:53:42.848830+00:00
- - tags: ['mud game']
-
- ## T3 Vakfı
- - [https://t3vakfi.org](https://t3vakfi.org)
- - date_published: 2024-09-05T18:59:12.722742+00:00
-
- ## DHAMMA.T3X.ORG
- - [http://dhamma.t3x.org](http://dhamma.t3x.org)
- - date_published: 2022-03-01T21:20:04+00:00
-
- ## T3X.ORG
- - [https://t3x.org](https://t3x.org)
- - date_published: 2023-10-25T22:12:26.781571+00:00
-
- ## Home - Transportation For America
- - [http://t4america.org](http://t4america.org)
- - date_published: 2024-06-28T12:59:46.806616+00:00
-
- ## T4P — Документування воєнних злочинів в Україні
- - [https://t4pua.org](https://t4pua.org)
- - date_published: 2024-05-08T09:17:52.951655+00:00
-
- ## PrimePages: prime number research records and results
- - [https://t5k.org](https://t5k.org)
- - date_published: 2023-04-23T18:02:33+00:00
- - tags: ['math']
-
- ## TA3D
- - [http://ta3d.org](http://ta3d.org)
- - date_published: 2024-04-07T17:41:09+00:00
-
- ## TAA | Graduate Worker Union of UW-Madison
- - [http://taa-madison.org](http://taa-madison.org)
- - date_published: 2024-07-02T10:03:17.790008+00:00
-
- ## TablePress · The WordPress table plugin to make tables on your website easy!
- - [https://tablepress.org](https://tablepress.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Table Stakes Europe
- - [https://www.tablestakes-europe.org](https://www.tablestakes-europe.org)
- - date_published: 2024-08-10T22:46:02.047470+00:00
-
- ## Tablix: Free software for solving timetabling problems
- - [https://www.tablix.org](https://www.tablix.org)
- - date_published: 2023-10-25T22:12:27.998127+00:00
-
- ## The American Civil Defense Association
- - [http://www.tacda.org](http://www.tacda.org)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Home
- - [https://support.tacf.org](https://support.tacf.org)
- - date_published: 2024-08-18T11:09:34.014623+00:00
 

@@ -1,3 +1,31 @@
+ ## ChatFAI
+ - [https://chatfai.com](https://chatfai.com)
+ - date_published: 2024-06-13T11:14:44+00:00
+
+ ## Check out our sponsor - Spency.tv
+ - [http://chatfu.com](http://chatfu.com)
+ - date_published: 2024-07-04T14:47:33.213408+00:00
+
+ ## Chatfuel | AI agents for automated sales | Meta’s partner
+ - [https://ai.chatfuel.com](https://ai.chatfuel.com)
+ - date_published: 2024-06-19T20:50:23.838596+00:00
+
+ ## Chatfuel Lite
+ - [https://app.chatfuel.com](https://app.chatfuel.com)
+ - date_published: 2024-06-15T11:56:01.381941+00:00
+
+ ## Empower Your Passion, Automate Your Path
+ - [https://careers.chatfuel.com](https://careers.chatfuel.com)
+ - date_published: 2024-10-30T18:24:57.366549+00:00
+
+ ## Chatfuel | AI agents for automated sales | Meta’s partner
+ - [https://chatfuel.com](https://chatfuel.com)
+ - date_published: 2024-08-06T21:09:14.980724+00:00
+
+ ## Chatfuel dashboard
+ - [https://dashboard.chatfuel.com](https://dashboard.chatfuel.com)
+ - date_published: 2024-09-21T22:58:27.914054+00:00
+
  ## Chatfuel Help Center
  - [https://docs.chatfuel.com](https://docs.chatfuel.com)
  - date_published: 2024-10-30T18:25:00.267162+00:00
@@ -1224,6 +1252,10 @@
  ## Mystic Messenger
  - [http://msg.cheritz.com](http://msg.cheritz.com)
  - date_published: 2024-07-15T07:05:19.855267+00:00
+
+ ## Reynaldi’s Blog
+ - [https://chernando.com](https://chernando.com)
+ - date_published: 2024-11-19T13:55:01+00:00
 
  ## Cherry Bombe
  - [https://cherrybombe.com](https://cherrybombe.com)
@@ -2773,6 +2805,10 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  - date_published: 2024-04-29T09:22:41+00:00
  - tags: ['chip verification', 'verilog']
 
+ ## Home - ChipWits Robot Coding Game
+ - [https://chipwits.com](https://chipwits.com)
+ - date_published: 2024-11-19T02:09:36+00:00
+
  ## Laravel
  - [https://elastic.chiqer.com](https://elastic.chiqer.com)
  - date_published: 2024-09-10T14:01:38.969988+00:00
@@ -4009,42 +4045,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  - [https://christiantoday.com](https://christiantoday.com)
  - date_published: 2024-05-08T05:16:53.104702+00:00
  - tags: ['christian', 'news', 'religion']
-
- ## Christian Varga
- - [https://christianvarga.com](https://christianvarga.com)
- - date_published: 2023-10-25T08:45:24.982295+00:00
- - tags: ['personal']
-
- ## Christie Aschwanden
- - [https://christieaschwanden.com](https://christieaschwanden.com)
- - date_published: 2024-04-29T02:29:42.918623+00:00
- - tags: ['personal']
-
- ## Welcome | The Christie Cookie Co.
- - [https://www.christiecookies.com](https://www.christiecookies.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Christie - audio visual products, solutions, and services
- - [https://www.christiedigital.com](https://www.christiedigital.com)
- - date_published: 2024-07-03T04:46:48.525450+00:00
-
- ## Home - Col. Christie Hatman Auctioneer
- - [https://www.christiehatman.com](https://www.christiehatman.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Christie's Education
- - [https://education.christies.com](https://education.christies.com)
- - date_published: 2024-10-29T18:48:58.112259+00:00
-
- ## Christie's 3.0
- - [https://nft.christies.com](https://nft.christies.com)
- - date_published: 2024-10-29T00:12:26+00:00
-
- ## Christie's
- - [https://press.christies.com](https://press.christies.com)
- - date_published: 2024-10-29T18:49:02.385013+00:00
-
- ## Sign in to Your Account | Christie's
- - [https://signup.christies.com](https://signup.christies.com)
- - date_published: 2024-10-29T18:49:21.456516+00:00
 

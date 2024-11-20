@@ -1,3 +1,163 @@
+ ## Technology, Thoughts & Trinkets
+ - [https://christopherparsonscom.wordpress.com](https://christopherparsonscom.wordpress.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## christyoslund
+ - [http://christyoslund.wordpress.com](http://christyoslund.wordpress.com)
+ - date_published: 2024-09-02T12:45:06+00:00
+
+ ## Chris Wraight
+ - [http://chriswraight.wordpress.com](http://chriswraight.wordpress.com)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## Chronically Siobhan
+ - [http://chronicallysiobhan.wordpress.com](http://chronicallysiobhan.wordpress.com)
+ - date_published: 2024-07-10T03:48:33.348007+00:00
+
+ ## chsakell's Blog
+ - [https://chsakell.wordpress.com](https://chsakell.wordpress.com)
+ - date_published: 2024-06-15T16:55:34+00:00
+
+ ## The Champions of Sorien
+ - [https://chsorien.wordpress.com](https://chsorien.wordpress.com)
+ - date_published: 2024-07-17T10:43:30.568590+00:00
+
+ ## chtodelat news
+ - [http://chtodelat.wordpress.com](http://chtodelat.wordpress.com)
+ - date_published: 2024-10-21T16:59:22.049705+00:00
+
+ ## Chuck Hill's CG Blog
+ - [https://chuckhillscgblog.wordpress.com](https://chuckhillscgblog.wordpress.com)
+ - date_published: 2024-06-21T09:50:11.409422+00:00
+
+ ## chuquida
+ - [https://chuquida.wordpress.com](https://chuquida.wordpress.com)
+ - date_published: 2024-06-20T04:06:19.810509+00:00
+
+ ## Churchmouse Campanologist
+ - [https://churchmousec.wordpress.com](https://churchmousec.wordpress.com)
+ - date_published: 2024-10-21T14:13:49.583995+00:00
+
+ ## chuttenblog
+ - [https://chuttenblog.wordpress.com](https://chuttenblog.wordpress.com)
+ - date_published: 2024-07-07T10:31:15.760715+00:00
+
+ ## CIE of UAI
+ - [https://cieofuai.wordpress.com](https://cieofuai.wordpress.com)
+ - date_published: 2024-10-11T13:08:36.184312+00:00
+
+ ## Roger Cigol - Programming
+ - [https://cigolblog.wordpress.com](https://cigolblog.wordpress.com)
+ - date_published: 2024-10-16T11:45:16.832353+00:00
+
+ ## Stacked
+ - [http://cincinnatimercantile.wordpress.com](http://cincinnatimercantile.wordpress.com)
+ - date_published: 2024-08-18T13:20:00.613491+00:00
+
+ ## Cincy Functional Programmers Group
+ - [https://cincyfp.wordpress.com](https://cincyfp.wordpress.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Ciranda de Palavras
+ - [https://cirandadepalavras.wordpress.com](https://cirandadepalavras.wordpress.com)
+ - date_published: 2024-05-01T02:28:17.358744+00:00
+
+ ## Circling Squares
+ - [https://circlingsquares2.wordpress.com](https://circlingsquares2.wordpress.com)
+ - date_published: 2024-06-30T04:31:25.872440+00:00
+
+ ## Circulating Ideas
+ - [https://circulatingideas.wordpress.com](https://circulatingideas.wordpress.com)
+ - date_published: 2024-09-13T16:31:03.311539+00:00
+
+ ## IPCC Citizen Audit
+ - [http://citizenaudit.wordpress.com](http://citizenaudit.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Citizen Sociolinguistics
+ - [https://citizensociolinguistics.wordpress.com](https://citizensociolinguistics.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## City Food & Drink Lecture
+ - [https://cityfoodlecture983827252.wordpress.com](https://cityfoodlecture983827252.wordpress.com)
+ - date_published: 2024-06-19T23:11:27.353932+00:00
+
+ ## CIVILIAN GUNFIGHTER
+ - [https://civiliangunfighter.wordpress.com](https://civiliangunfighter.wordpress.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Civilian Reader
+ - [https://civilianreader.wordpress.com](https://civilianreader.wordpress.com)
+ - date_published: 2024-08-06T11:38:17.210729+00:00
+
+ ## Civilus Defendus
+ - [https://civilusdefendus.wordpress.com](https://civilusdefendus.wordpress.com)
+ - date_published: 2024-07-07T02:06:14.835122+00:00
+
+ ## Christoph's Blog
+ - [https://ckulla.wordpress.com](https://ckulla.wordpress.com)
+ - date_published: 2024-07-18T12:24:27.716356+00:00
+
+ ## Clackety Clink
+ - [https://clacketyclink.wordpress.com](https://clacketyclink.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Claire La Secretaire
+ - [https://clairelasecretaire.wordpress.com](https://clairelasecretaire.wordpress.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Word by Word
+ - [http://clairemca.wordpress.com](http://clairemca.wordpress.com)
+ - date_published: 2024-09-17T17:28:29+00:00
+
+ ## Private Site
+ - [https://clankhorvaak.wordpress.com](https://clankhorvaak.wordpress.com)
+ - date_published: 2024-06-18T23:39:29.663956+00:00
+
+ ## Clare L. Martin
+ - [http://clarelmartin.wordpress.com](http://clarelmartin.wordpress.com)
+ - date_published: 2024-10-19T07:04:36.004212+00:00
+
+ ## Clarion Blog
+ - [https://clarionfoundation.wordpress.com](https://clarionfoundation.wordpress.com)
+ - date_published: 2024-07-02T10:11:44.666873+00:00
+
+ ## Classic Warhammer 40K
+ - [https://classic40k.wordpress.com](https://classic40k.wordpress.com)
+ - date_published: 2024-10-26T16:43:08+00:00
+
+ ## Talks by Experts on Classics
+ - [https://classicstalks.wordpress.com](https://classicstalks.wordpress.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## The Accidental Chef
+ - [http://claudiagiulia.wordpress.com](http://claudiagiulia.wordpress.com)
+ - date_published: 2024-10-25T11:47:53+00:00
+
+ ## Claudio Lassala's Blog
+ - [https://claudiolassala.wordpress.com](https://claudiolassala.wordpress.com)
+ - date_published: 2024-08-18T02:50:04.765118+00:00
+
+ ## claudiom's blog
+ - [https://claudiomiranda.wordpress.com](https://claudiomiranda.wordpress.com)
+ - date_published: 2024-05-09T08:15:02.986720+00:00
+
+ ## Lost in Time
+ - [https://clawcarver.wordpress.com](https://clawcarver.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Private Site
+ - [https://cleantypecheck.wordpress.com](https://cleantypecheck.wordpress.com)
+ - date_published: 2024-07-11T07:54:15.067037+00:00
+
+ ## Ed Bellis - ClearText
+ - [http://cleartext.wordpress.com](http://cleartext.wordpress.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## climateanxietycounseling
+ - [https://climateanxietycounseling.wordpress.com](https://climateanxietycounseling.wordpress.com)
+ - date_published: 2024-10-29T19:31:24.905062+00:00
+
  ## Climate Audit
  - [https://climateaudit.wordpress.com](https://climateaudit.wordpress.com)
  - date_published: 2024-06-28T18:38:08+00:00
@@ -3845,164 +4005,4 @@
  ## GNU topics
  - [https://gnutopics.wordpress.com](https://gnutopics.wordpress.com)
  - date_published: 2024-05-18T00:00:00+00:00
-
- ## GOATMILK: An intellectual playground
- - [http://goatmilk.wordpress.com](http://goatmilk.wordpress.com)
- - date_published: 2024-10-21T18:40:28.594816+00:00
-
- ## God, Autism, and Me
- - [http://godautismandme.wordpress.com](http://godautismandme.wordpress.com)
- - date_published: 2024-09-03T23:08:58.240982+00:00
-
- ## Goethe-Zentrum Harare
- - [https://goetheharare.wordpress.com](https://goetheharare.wordpress.com)
- - date_published: 2024-07-13T17:31:28.595692+00:00
-
- ## Going GNU
- - [https://goinggnu.wordpress.com](https://goinggnu.wordpress.com)
- - date_published: 2024-07-13T23:56:26.494891+00:00
-
- ## Going Medieval
- - [https://goingmedievalblog.wordpress.com](https://goingmedievalblog.wordpress.com)
- - date_published: 2024-05-04T08:19:24.660670+00:00
-
- ## A bit of this, a bit of that...
- - [http://goingspare.wordpress.com](http://goingspare.wordpress.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Gong-Yi's SandBox@WordPress
- - [https://gongyiliao.wordpress.com](https://gongyiliao.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Good Old Bits
- - [https://goodoldbits.wordpress.com](https://goodoldbits.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Good Optics
- - [https://goodoptics.wordpress.com](https://goodoptics.wordpress.com)
- - date_published: 2024-09-05T23:35:38+00:00
-
- ## Gordon Darroch's Unreal Domain
- - [http://gordondarroch.wordpress.com](http://gordondarroch.wordpress.com)
- - date_published: 2024-10-21T13:37:43.820766+00:00
-
- ## Life as a Physicist
- - [http://gordonwatts.wordpress.com](http://gordonwatts.wordpress.com)
- - date_published: 2024-10-19T07:21:24.870951+00:00
-
- ## Gorillaz for Beginners
- - [https://gorillazforbeginners.wordpress.com](https://gorillazforbeginners.wordpress.com)
- - date_published: 2024-10-26T09:40:11+00:00
-
- ## Gosset's student
- - [http://gossetsstudent.wordpress.com](http://gossetsstudent.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## God plays dice
- - [https://gottwurfelt.wordpress.com](https://gottwurfelt.wordpress.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Gowers's Weblog
- - [https://gowers.wordpress.com](https://gowers.wordpress.com)
- - date_published: 2024-05-09T07:08:53.168335+00:00
-
- ## Gordon P. Hemsley
- - [https://gphemsley.wordpress.com](https://gphemsley.wordpress.com)
- - date_published: 2024-05-07T21:54:59.199595+00:00
-
- ## Gabriel Pollard
- - [https://gpollard.wordpress.com](https://gpollard.wordpress.com)
- - date_published: 2024-07-13T23:57:12.928177+00:00
-
- ## What's Gary Thinking Now?
- - [https://gpollice.wordpress.com](https://gpollice.wordpress.com)
- - date_published: 2024-07-10T03:03:46.819667+00:00
-
- ## GPStamper
- - [http://gpstamper.wordpress.com](http://gpstamper.wordpress.com)
- - date_published: 2024-08-18T19:26:20.541950+00:00
-
- ## a GP's view
- - [http://gpview.wordpress.com](http://gpview.wordpress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Johnny's Blog
- - [https://graberj.wordpress.com](https://graberj.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## how to get scholarship in Australia
- - [http://graceintlgroupcom.wordpress.com](http://graceintlgroupcom.wordpress.com)
- - date_published: 2024-08-19T04:59:21.926289+00:00
-
- ## Grace Magazine
- - [http://gracemagazine.wordpress.com](http://gracemagazine.wordpress.com)
- - date_published: 2024-10-19T07:02:44.778682+00:00
-
- ## Graciela Maria Gonzalez
- - [https://gracielamariablog.wordpress.com](https://gracielamariablog.wordpress.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## gradpadscansion
- - [http://gradpadscansion.wordpress.com](http://gradpadscansion.wordpress.com)
- - date_published: 2024-07-02T06:24:16.818381+00:00
-
- ## Grady P Brown - Author
- - [http://gradypbrown.wordpress.com](http://gradypbrown.wordpress.com)
- - date_published: 2024-09-03T22:49:07.463754+00:00
-
- ## Graeme Davis
- - [http://graemedavis.wordpress.com](http://graemedavis.wordpress.com)
- - date_published: 2024-07-20T07:12:02.499617+00:00
-
- ## Graeme Sacks music therapy
- - [https://graemesacks.wordpress.com](https://graemesacks.wordpress.com)
- - date_published: 2024-05-04T08:41:56.309850+00:00
-
- ## Creating a World Without Poverty
- - [https://grameenfoundation.wordpress.com](https://grameenfoundation.wordpress.com)
- - date_published: 2024-06-20T04:02:10.552489+00:00
-
- ## grammararium
- - [https://grammararium.wordpress.com](https://grammararium.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Grammar Police a.k.a. GrammarCops
- - [http://grammarcops.wordpress.com](http://grammarcops.wordpress.com)
- - date_published: 2024-07-02T09:59:59.012315+00:00
-
- ## GRAMMARIANISM
- - [https://grammarianism.wordpress.com](https://grammarianism.wordpress.com)
- - date_published: 2024-10-19T10:44:28.400744+00:00
-
- ## Grand Hotel Abyss
- - [http://grandhotelabyss.wordpress.com](http://grandhotelabyss.wordpress.com)
- - date_published: 2024-10-21T17:42:05.433690+00:00
-
- ## Grants.gov Community Blog
- - [https://grantsgovprod.wordpress.com](https://grantsgovprod.wordpress.com)
- - date_published: 2024-06-15T03:11:36+00:00
-
- ## grapeling
- - [http://grapeling.wordpress.com](http://grapeling.wordpress.com)
- - date_published: 2024-06-30T05:03:10.142673+00:00
-
- ## Guardian Watch
- - [https://graunwatch.wordpress.com](https://graunwatch.wordpress.com)
- - date_published: 2024-10-21T14:31:59.830145+00:00
-
- ## Gravatar Developer Docs
- - [https://gravatar41.wordpress.com](https://gravatar41.wordpress.com)
- - date_published: 2024-06-20T12:19:31+00:00
-
- ## Gravatar Support
- - [https://gravatar730.wordpress.com](https://gravatar730.wordpress.com)
- - date_published: 2024-06-20T12:14:14+00:00
-
- ## Gravatar Blog
- - [https://gravatar.wordpress.com](https://gravatar.wordpress.com)
- - date_published: 2024-06-20T12:20:07.293497+00:00
-
- ## Gravitas Free Zone Weblog
- - [http://gravitasfreezone.wordpress.com](http://gravitasfreezone.wordpress.com)
- - date_published: 2024-10-19T07:32:00.271599+00:00
 

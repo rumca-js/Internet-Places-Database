@@ -1,3 +1,227 @@
+ ## Home — Major Studio
+ - [https://major.studio](https://major.studio)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Make-A-Video
+ - [https://makeavideo.studio](https://makeavideo.studio)
+ - date_published: 2023-03-21T20:56:18+00:00
+
+ ## Marquee
+ - [https://www.marquee.studio](https://www.marquee.studio)
+ - date_published: 2024-05-30T14:43:01+00:00
+
+ ## Thoughts & Research / Matthew Talebi
+ - [https://matthews.studio](https://matthews.studio)
+ - date_published: 2024-07-27T00:00:00+00:00
+
+ ## Max Winter – Art Direction, Graphic Design, Corporate Identity, Berlin
+ - [http://maxwinter.studio](http://maxwinter.studio)
+ - date_published: 2024-10-29T14:25:10.025576+00:00
+
+ ## McSwain Studio
+ - [https://www.mcswain.studio](https://www.mcswain.studio)
+ - date_published: 2024-06-20T23:28:45.702120+00:00
+
+ ## ‎MD Studio Apps on the App Store
+ - [https://md.studio](https://md.studio)
+ - date_published: 2024-07-04T06:32:24.427777+00:00
+
+ ## Melos.Studio – Medium
+ - [https://blog.melos.studio](https://blog.melos.studio)
+ - date_published: 2024-07-04T09:53:34.478737+00:00
+
+ ## Meownica Studio  | The printmaking and generative art of Monica Dinculescu
+ - [https://meownica.studio](https://meownica.studio)
+ - date_published: 2024-10-05T23:49:00.849598+00:00
+
+ ## MICROCITIES
+ - [https://microcities.studio](https://microcities.studio)
+ - date_published: 2024-04-29T05:04:35.364879+00:00
+
+ ## Mindscape — Amplifying Worlds
+ - [https://mindscape.studio](https://mindscape.studio)
+ - date_published: 2023-07-04T05:47:04+00:00
+
+ ## studio de design graphique et de direction artistique | mire • studio | Benoit Böhnke et Cyril Makhoul
+ - [https://mire.studio](https://mire.studio)
+ - date_published: 2024-05-08T00:16:05.522372+00:00
+
+ ## Mireia Gordi Vila – Industrial designer
+ - [https://mireia.studio](https://mireia.studio)
+ - date_published: 2024-07-24T02:34:22.259532+00:00
+
+ ## Mix Check Studio
+ - [https://mixcheck.studio](https://mixcheck.studio)
+ - date_published: 2024-06-19T21:11:18.981615+00:00
+
+ ## MNTS Studio
+ - [https://mnts.studio](https://mnts.studio)
+ - date_published: 2024-09-08T14:27:20+00:00
+
+ ## molly
+ - [https://www.molly.studio](https://www.molly.studio)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## moses sun
+ - [https://www.mosessun.studio](https://www.mosessun.studio)
+ - date_published: 2024-07-04T16:31:30.126049+00:00
+
+ ## MOUTHWASH Studio
+ - [https://mouthwash.studio](https://mouthwash.studio)
+ - date_published: 2024-07-09T19:12:13.807277+00:00
+
+ ## Creative Nest of Awesome Animations | MOWE Studio
+ - [https://mowe.studio](https://mowe.studio)
+ - date_published: 2024-07-04T06:03:56.617326+00:00
+
+ ## Adventure driven digital experiences for the worlds most pioneering companies
+ - [https://multivitamin.studio](https://multivitamin.studio)
+ - date_published: 2024-10-19T08:45:07.207498+00:00
+
+ ## Mood: Bored
+ - [https://mood.musing.studio](https://mood.musing.studio)
+ - date_published: 2024-07-13T03:05:58.833866+00:00
+
+ ## Musing Studio
+ - [https://musing.studio](https://musing.studio)
+ - date_published: 2024-05-10T07:01:23.392276+00:00
+
+ ## Musing Studio Notes
+ - [https://notes.musing.studio](https://notes.musing.studio)
+ - date_published: 2022-05-30T00:00:00+00:00
+
+ ## home - namespace
+ - [http://namespace.studio](http://namespace.studio)
+ - date_published: 2024-07-13T15:19:19.404617+00:00
+
+ ## Directory listing for /
+ - [https://assets.nerf.studio](https://assets.nerf.studio)
+ - date_published: 2024-08-18T16:03:32.247674+00:00
+
+ ## nerfstudio
+ - [https://docs.nerf.studio](https://docs.nerf.studio)
+ - date_published: 2023-10-25T22:43:15.774720+00:00
+
+ ## Cierpliwości...
+ - [https://creator.nightcafe.studio](https://creator.nightcafe.studio)
+ - date_published: 2024-05-01T04:33:00.811462+00:00
+
+ ## NILE
+ - [http://nile.studio](http://nile.studio)
+ - date_published: 2024-07-13T15:47:44.339276+00:00
+
+ ## NJL Studio — Website Development — Shopify Expert
+ - [https://njl.studio](https://njl.studio)
+ - date_published: 2024-09-17T01:35:00.193265+00:00
+
+ ## Neva Game - Nomada Studio
+ - [https://nomada.studio](https://nomada.studio)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Brand, Design, and Development - Non-Linear Studio
+ - [https://non-linear.studio](https://non-linear.studio)
+ - date_published: 2024-07-19T17:52:57.989634+00:00
+
+ ## No Plans
+ - [https://noplans.studio](https://noplans.studio)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## NovaFlow Studio – transforming ideas into a stunning tech experience
+ - [https://novaflow.studio](https://novaflow.studio)
+ - date_published: 2024-10-19T23:28:10.237990+00:00
+
+ ## UK Product Design Agency | Product Design Company | NPD
+ - [https://npd.studio](https://npd.studio)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Welcome to your Strapi app
+ - [https://api.nuxt.studio](https://api.nuxt.studio)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## The Git-based CMS for Nuxt
+ - [https://nuxt.studio](https://nuxt.studio)
+ - date_published: 2024-07-13T12:35:19.792136+00:00
+
+ ## NVL Studio | Turengin tehdas
+ - [https://nvl.studio](https://nvl.studio)
+ - date_published: 2024-01-01T03:40:07.584188+00:00
+
+ ## Oblik Studio - Result-driven Design & Technology
+ - [https://oblik.studio](https://oblik.studio)
+ - date_published: 2024-04-29T07:35:35.863680+00:00
+
+ ## Obra Icons
+ - [https://icons.obra.studio](https://icons.obra.studio)
+ - date_published: 2024-09-04T01:55:06.810857+00:00
+
+ ## Outkast Studio
+ - [https://www.outkast.studio](https://www.outkast.studio)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Overlayz Studio
+ - [https://overlayz.studio](https://overlayz.studio)
+ - date_published: 2024-09-14T09:32:34.981158+00:00
+
+ ## Pablo Diserens
+ - [https://pablodiserens.studio](https://pablodiserens.studio)
+ - date_published: 2024-06-22T07:02:22.674980+00:00
+
+ ## Pangram Playground
+ - [https://pangrampangram.studio](https://pangrampangram.studio)
+ - date_published: 2024-06-19T16:15:10.279304+00:00
+
+ ## Parker Studio
+ - [https://parker.studio](https://parker.studio)
+ - date_published: 2024-07-09T19:32:49.375088+00:00
+
+ ## PCFH Studio
+ - [https://pcfh.studio](https://pcfh.studio)
+ - date_published: 2024-07-12T05:57:07.954324+00:00
+
+ ## paul bowman studio
+ - [https://pdbowman.studio](https://pdbowman.studio)
+ - date_published: 2023-11-10T18:20:29.303681+00:00
+
+ ## Pink Moon Studios - your next Web3 Game Studio
+ - [https://pink-moon.studio](https://pink-moon.studio)
+ - date_published: 2024-10-17T15:36:36+00:00
+
+ ## Digital Product Agency | Planes Studio London
+ - [https://www.planes.studio](https://www.planes.studio)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Poetics.Studio - Poetics of Ordinary
+ - [https://poetics.studio](https://poetics.studio)
+ - date_published: 2024-04-22T16:16:42+00:00
+
+ ## Posty Studio
+ - [https://posty.studio](https://posty.studio)
+ - date_published: 2024-07-17T05:29:09.416109+00:00
+
+ ## PRD.studio | Web Design, Marketing, E-commerce
+ - [https://prd.studio](https://prd.studio)
+ - date_published: 2019-12-03T09:26:51+00:00
+
+ ## Primary | Brand Sprints
+ - [https://www.primary.studio](https://www.primary.studio)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## luka prinčič / prince lucija
+ - [https://luka.princic.studio](https://luka.princic.studio)
+ - date_published: 2024-07-22T11:44:13+00:00
+
+ ## Aifont
+ - [https://aifont.process.studio](https://aifont.process.studio)
+ - date_published: 2023-07-21T10:35:45+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.process.studio](https://matomo.process.studio)
+ - date_published: 2024-10-30T21:45:15.933375+00:00
+
+ ## Process — for Art and Design
+ - [https://process.studio](https://process.studio)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Program, web applications development studio in Barcelona
  - [https://program.studio](https://program.studio)
  - date_published: 2024-06-04T12:52:27+00:00
@@ -3804,233 +4028,4 @@
  ## Safe Network
  - [https://safenetwork.tech](https://safenetwork.tech)
  - date_published: 2024-09-14T08:39:09.518123+00:00
-
- ## Welcome to the Saito Project
- - [https://org.saito.tech](https://org.saito.tech)
- - date_published: 2024-05-06T12:49:59.925801+00:00
-
- ## Saito - Enabling a paradigm shift in blockchain applications
- - [https://saito.tech](https://saito.tech)
- - date_published: 2024-06-21T11:19:50+00:00
-
- ## Samag Tech: servizi digitali, applicazioni, software, IT management
- - [https://samag.tech](https://samag.tech)
- - date_published: 2024-07-19T21:31:08.761671+00:00
-
- ## Sanket Shanbhag
- - [https://sanket.tech](https://sanket.tech)
- - date_published: 2023-10-25T08:57:30.024022+00:00
- - tags: ['personal']
-
- ## Saturn Explorer
- - [https://explorer.saturn.tech](https://explorer.saturn.tech)
- - date_published: 2024-09-22T01:55:31.278944+00:00
-
- ## Filecoin Saturn | The Web3 CDN
- - [https://saturn.tech](https://saturn.tech)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Show HN: Esco – Your Excel AI Agent
- - [https://analytics.saydata.tech](https://analytics.saydata.tech)
- - date_published: 2024-03-22T06:56:34+00:00
-
- ## SBS Earth | August 16 2023
- - [https://sbs.tech](https://sbs.tech)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## PopTalk - Communities centered around today's pop music.  Come join to Popheads, Taylor Swift, Lana Del Rey, or create your own community!
- - [https://poptalk.scrubbles.tech](https://poptalk.scrubbles.tech)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## The embedded investment platform - Seccl.tech
- - [https://seccl.tech](https://seccl.tech)
- - date_published: 2024-07-02T18:44:57.137625+00:00
-
- ## Sennen | Software for Infrastructure Funds & Offshore Wind O&M
- - [https://www.sennen.tech](https://www.sennen.tech)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## prod
- - [https://assets.shadow.tech](https://assets.shadow.tech)
- - date_published: 2024-07-22T11:58:55.040388+00:00
-
- ## Shadow PC
- - [https://pc.shadow.tech](https://pc.shadow.tech)
- - date_published: 2024-07-22T11:58:58.732312+00:00
-
- ## Shadow: Unmatched Cloud Gaming & Professional Cloud PC Services
- - [https://shadow.tech](https://shadow.tech)
- - date_published: 2024-04-30T02:17:41.676434+00:00
-
- ## Shadow
- - [https://support.shadow.tech](https://support.shadow.tech)
- - date_published: 2024-07-22T11:59:04.419261+00:00
-
- ## shadowlabs.tech - shadowlabs Zasoby i informacje.
- - [https://shadowlabs.tech](https://shadowlabs.tech)
- - date_published: 2024-09-25T12:32:28+00:00
-
- ## Sharry | Workplace Experience Platform for Any Office
- - [https://sharry.tech](https://sharry.tech)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## Homepage - Sheila Leon
- - [https://sheilaleon.tech](https://sheilaleon.tech)
- - date_published: 2024-04-03T06:23:29.946255+00:00
- - tags: ['personal']
-
- ## Shine Chain - Blockchain & Artificial Intelligence
- - [https://shinechain.tech](https://shinechain.tech)
- - date_published: 2024-02-15T01:40:47+00:00
-
- ## DocKing
- - [https://docking-demo.shipsaas.tech](https://docking-demo.shipsaas.tech)
- - date_published: 2024-06-19T22:10:55.814742+00:00
-
- ## DocKing from ShipSaaS | DocKing - ShipSaaS
- - [https://docking.shipsaas.tech](https://docking.shipsaas.tech)
- - date_published: 2024-06-19T18:40:33+00:00
-
- ## Brief Biography
- - [https://shuaizhang.tech](https://shuaizhang.tech)
- - date_published: 2024-05-10T07:02:23.386532+00:00
-
- ## The Sia Blog
- - [https://blog.sia.tech](https://blog.sia.tech)
- - date_published: 2024-07-18T06:24:58.410612+00:00
-
- ## Introduction | Sia Docs
- - [https://docs.sia.tech](https://docs.sia.tech)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Sia Forum
- - [https://forum.sia.tech](https://forum.sia.tech)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Sia - Decentralized data storage
- - [https://sia.tech](https://sia.tech)
- - date_published: 2024-05-14T03:34:41.687665+00:00
-
- ## SEGFAULT - 
-    
-    sigsegv.tech
- - [https://sigsegv.tech](https://sigsegv.tech)
- - date_published: 2024-04-04T20:18:14+00:00
-
- ## Silent Flyer – A Birdlike Drone
- - [https://silentflyer.tech](https://silentflyer.tech)
- - date_published: 2023-12-30T21:04:49+00:00
-
- ## SiMedia Tech
- - [https://simedia.tech](https://simedia.tech)
- - date_published: 2024-09-04T15:05:32.413731+00:00
-
- ## Siqueira
- - [https://siqueira.tech](https://siqueira.tech)
- - date_published: 2024-03-14T13:37:47+00:00
-
- ## skagedal's oboy
- - [https://blog.skagedal.tech](https://blog.skagedal.tech)
- - date_published: 2023-11-13T00:00:00+00:00
-
- ## Snyder Tech | Your Digital Transformation Partner
- - [https://snyder.tech](https://snyder.tech)
- - date_published: 2024-07-04T22:22:18+00:00
-
- ## Socket Protocol
- - [https://socket.tech](https://socket.tech)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## SONOFF Official Homepage| Smart Home automation SONOFF Official
- - [https://sonoff.tech](https://sonoff.tech)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Sozo Technologies LLC - Sozo Technologies LLC
- - [http://sozo.tech](http://sozo.tech)
- - date_published: 2023-12-06T00:00:00+00:00
-
- ## You Are Not Alone
- - [https://www.speakout.tech](https://www.speakout.tech)
- - date_published: 2024-07-15T11:27:52.939809+00:00
-
- ## Home | Speculative Technologies
- - [http://spec.tech](http://spec.tech)
- - date_published: 2024-09-26T10:35:08+00:00
-
- ## Speck&Tech
- - [https://speckand.tech](https://speckand.tech)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## spiffytech
- - [https://ghost.spiffy.tech](https://ghost.spiffy.tech)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## spiffytech
- - [https://spiffy.tech](https://spiffy.tech)
- - date_published: 2023-10-25T22:44:49.054342+00:00
-
- ## PostHog
- - [https://posthog.sqlite.tech](https://posthog.sqlite.tech)
- - date_published: 2023-07-07T00:00:00+00:00
-
- ## The modular open source data platform - Stackable
- - [https://stackable.tech](https://stackable.tech)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## StackAdapt Tech Blog
- - [https://stackadapt.tech](https://stackadapt.tech)
- - date_published: 2024-06-25T22:35:39.036652+00:00
-
- ## Apr. 29 - 30 | Silicon Valley | Startup Grind Global Conference 2025
- - [https://startupgrind.tech](https://startupgrind.tech)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Staysail Systems
- - [https://staysail.tech](https://staysail.tech)
- - date_published: 2022-10-29T19:51:40+00:00
-
- ## Stealth Rocket | Stealth Rocket
- - [https://stealthrocket.tech](https://stealthrocket.tech)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Show HN: I made a website that converts YT videos into step-by-step guides
- - [https://stepify.tech](https://stepify.tech)
- - date_published: 2024-04-21T10:52:25+00:00
- - tags: ['youtube', 'artificial intelligence', 'transcript']
-
- ## StorX - Leading Decentralized Cloud Storage
- - [https://storx.tech](https://storx.tech)
- - date_published: 2024-04-12T10:35:22+00:00
-
- ## : maker of AdequateLife, Gained InSite, TechSplained, et al.
- - [https://stucky.tech](https://stucky.tech)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## summarize.tech: AI-powered video summaries
- - [https://www.summarize.tech](https://www.summarize.tech)
- - date_published: 2024-06-19T20:07:54.374410+00:00
-
- ## Sunscreen
- - [https://sunscreen.tech](https://sunscreen.tech)
- - date_published: 2023-11-06T20:55:11+00:00
-
- ## Home - SYCL.tech
- - [https://sycl.tech](https://sycl.tech)
- - date_published: 2024-09-13T14:15:13+00:00
-
- ## Syntax Error
- - [https://syntaxerror.tech](https://syntaxerror.tech)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Synthax.Tech Bangalore's First Student Hosted Hackathon
- - [https://www.synthax.tech](https://www.synthax.tech)
- - date_published: 2024-06-20T15:18:42.335859+00:00
-
- ## Simeon Zimmermann - Your software engineer and web developer in biel
- - [https://sz-development.tech](https://sz-development.tech)
- - date_published: 2024-06-23T03:21:12.124973+00:00
-
- ## Tailor: Composable Headless ERP
- - [https://www.tailor.tech](https://www.tailor.tech)
- - date_published: 2024-06-30T12:31:48.010296+00:00
 

@@ -1,3 +1,225 @@
+ ## Glissando
+ - [http://glissando.pl](http://glissando.pl)
+ - date_published: 2024-06-30T06:27:20.136095+00:00
+
+ ## GlobEnergia » Serwis poświęcony odnawialnym źródłom energii
+ - [https://globenergia.pl](https://globenergia.pl)
+ - date_published: 2024-01-21T18:35:00+00:00
+ - tags: ['energa news']
+
+ ## Zapraszamy na www.glosel.pl
+ - [https://glosel.pl](https://glosel.pl)
+ - date_published: 2024-09-02T11:18:31+00:00
+
+ ## Głos Wielkopolski - Wiadomości Poznań, Wiadomości Wielkopolska
+ - [https://gloswielkopolski.pl](https://gloswielkopolski.pl)
+ - date_published: 2023-10-25T22:27:51.505382+00:00
+
+ ## Gmina Kórnik - Wiadomości, Wydarzenia
+ - [https://gminakornik.pl](https://gminakornik.pl)
+ - date_published: 2021-01-13T15:29:55+00:00
+
+ ## Strona główna - Gmina Siedlce - Portal gov.pl
+ - [https://siedlce.gminasiedlce.pl](https://siedlce.gminasiedlce.pl)
+ - date_published: 2024-07-14T07:42:59.920948+00:00
+
+ ## Tabletop, Board Games, Figure Games, Card Games and Model Accessories
+ - [https://gnom-sklep.pl](https://gnom-sklep.pl)
+ - date_published: 2023-10-25T11:12:46+00:00
+
+ ## Remarketing GO.PL
+ - [https://go.pl](https://go.pl)
+ - date_published: 2024-05-06T18:03:36.601536+00:00
+
+ ## GO.pl - Panel użytkownika
+ - [https://user.go.pl](https://user.go.pl)
+ - date_published: 2024-06-25T23:16:09.667995+00:00
+
+ ## Pole namiotowe w Swaderkach - kajaki, pole namiotowe Mazury
+ - [https://biwak.go3.pl](https://biwak.go3.pl)
+ - date_published: 2023-05-15T00:00:00+00:00
+
+ ## godziny-otwarcia.pl | Sprawdzamy co kiedy jest otwarte
+ - [https://godziny-otwarcia.pl](https://godziny-otwarcia.pl)
+ - date_published: 2024-07-06T19:59:46+00:00
+
+ ## System sprzedaży biletów online - Dołącz do Going.
+ - [https://join.goingapp.pl](https://join.goingapp.pl)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## System sprzedaży biletów online Going. Places
+ - [https://places.goingapp.pl](https://places.goingapp.pl)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Gminny Ośrodek Kultury w Lasecznie - Strona główna
+ - [https://www.goklaseczno.pl](https://www.goklaseczno.pl)
+ - date_published: 2024-07-18T12:12:33+00:00
+
+ ## Widgety z kursem złota i srebra na żywo - GoldBroker.pl
+ - [https://widgety.goldbroker.pl](https://widgety.goldbroker.pl)
+ - date_published: 2024-08-18T15:34:47.573914+00:00
+
+ ## GoldenLine.pl
+ - [https://www.goldenline.pl](https://www.goldenline.pl)
+ - date_published: 2024-07-14T05:22:04.435836+00:00
+
+ ## Golden Weebs
+ - [https://golden-weebs.pl](https://golden-weebs.pl)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Pole Golfowe Zawarcie
+ - [http://golfzawarcie.pl](http://golfzawarcie.pl)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Gomibo.pl - Wszystkie telefony i akcesoria
+ - [https://www.gomibo.pl](https://www.gomibo.pl)
+ - date_published: 2024-10-21T22:25:47.225505+00:00
+
+ ## Fakty i wydarzenia z Polski i świata | Goniec.pl
+ - [https://goniec.pl](https://goniec.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## goodie.pl - zniżki i gazetki
+ - [https://goodie.pl](https://goodie.pl)
+ - date_published: 2024-08-19T12:36:10.345787+00:00
+
+ ## Google Książki
+ - [https://books.google.pl](https://books.google.pl)
+ - date_published: 2024-04-23T15:58:08+00:00
+ - tags: ['search engine', 'books']
+
+ ## Programmable Search Engine by Google
+ - [https://cse.google.pl](https://cse.google.pl)
+ - date_published: 2024-06-14T08:08:00+00:00
+
+ ## Google
+ - [https://google.pl](https://google.pl)
+ - date_published: 2024-06-18T12:08:20.892960+00:00
+
+ ## Grafika Google
+ - [https://images.google.pl](https://images.google.pl)
+ - date_published: 2024-07-20T07:39:47.146885+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.pl](https://scholar.google.pl)
+ - date_published: 2024-04-28T06:22:59.165311+00:00
+
+ ## Google Page Rank
+ - [http://www.google-pagerank.pl](http://www.google-pagerank.pl)
+ - date_published: 2024-07-11T16:33:36.387315+00:00
+
+ ## Fundacja GOPR – Ratownicy górscy GOPR od 1952 r. niosą pomoc ludziom, którzy potrzebują jej górach – bez względu na porę roku, dnia i stan pogody
+ - [http://fundacja.gopr.pl](http://fundacja.gopr.pl)
+ - date_published: 2024-07-09T13:22:27.992454+00:00
+
+ ## Termy Gorący Potok | Szaflary | Baseny termalne na Podhalu z gorącą siarkową wodą | Termy, apartamenty, spa
+ - [https://www.goracypotok.pl](https://www.goracypotok.pl)
+ - date_published: 2024-07-09T13:30:31.340986+00:00
+
+ ## Gorce24.pl - Gorczański Portal Informacyjny
+ - [http://gorce24.pl](http://gorce24.pl)
+ - date_published: 2024-07-09T13:22:35.805085+00:00
+
+ ## Zaloguj się | GoRODO.pl
+ - [https://app.gorodo.pl](https://app.gorodo.pl)
+ - date_published: 2024-09-02T13:40:32.403567+00:00
+
+ ## GoRODO.pl - wdrożenie RODO w Twojej firmie
+ - [https://www.gorodo.pl](https://www.gorodo.pl)
+ - date_published: 2024-09-02T13:40:33.787010+00:00
+
+ ## MSIP Gorzów Wielkopolski
+ - [https://geoportal.um.gorzow.pl](https://geoportal.um.gorzow.pl)
+ - date_published: 2024-07-13T19:15:44.255337+00:00
+
+ ## Gorzów przystań
+ - [http://pgn.um.gorzow.pl](http://pgn.um.gorzow.pl)
+ - date_published: 2024-07-13T19:14:48.503361+00:00
+
+ ## Urząd Miasta Gorzowa Wielkopolskiego
+ - [https://um.gorzow.pl](https://um.gorzow.pl)
+ - date_published: 2024-05-11T08:18:48.784517+00:00
+
+ ## Strona internetowa Urzędu Miasta Gorzowa Wlkp.
+ - [http://www.gorzow.pl](http://www.gorzow.pl)
+ - date_published: 2021-03-01T10:59:29+00:00
+
+ ## Ośrodek Sportu i Rekreacji – Gorzów Wielkopolski
+ - [http://www.osir.gorzow.pl](http://www.osir.gorzow.pl)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## PWiK Sp. z o.o. Gorzów Wielkopolski
+ - [http://www.pwik.gorzow.pl](http://www.pwik.gorzow.pl)
+ - date_published: 2024-05-28T12:07:27+00:00
+
+ ## WiMBP Gorzów Wlkp.
+ - [https://www.wimbp.gorzow.pl](https://www.wimbp.gorzow.pl)
+ - date_published: 2024-07-13T19:14:53.266859+00:00
+
+ ## ZGM - Zakład Gospodarki Mieszkaniowej w Gorzowie Wlkp.
+ - [https://www.zgm.gorzow.pl](https://www.zgm.gorzow.pl)
+ - date_published: 2024-07-13T19:14:15.290437+00:00
+
+ ## Gość Gdański
+ - [https://gdansk.gosc.pl](https://gdansk.gosc.pl)
+ - date_published: 2024-07-17T07:14:31.138131+00:00
+
+ ## Gość Niedzielny
+ - [http://gosc.pl](http://gosc.pl)
+ - date_published: 2024-07-14T05:29:27.801510+00:00
+
+ ## Oprogramowanie sklepów GOshop
+ - [https://www.goshop.pl](https://www.goshop.pl)
+ - date_published: 2024-10-07T22:43:02.504138+00:00
+
+ ## Tomasz Kocot
+ - [http://www.gostudio.pl](http://www.gostudio.pl)
+ - date_published: 2024-09-02T13:54:38.768798+00:00
+
+ ## gotechnology.pl
+ - [http://www.gotechnology.pl](http://www.gotechnology.pl)
+ - date_published: 2024-07-13T19:14:21.381296+00:00
+
+ ## Książka „Gotówka to wolność”
+ - [https://www.gotowkatowolnosc.pl](https://www.gotowkatowolnosc.pl)
+ - date_published: 2024-08-18T17:03:46.420564+00:00
+
+ ## Przepisy Kulinarne = Gotujmy.pl
+ - [https://gotujmy.pl](https://gotujmy.pl)
+ - date_published: 2024-03-17T22:29:00+00:00
+
+ ## governa.pl
+ - [https://governa.pl](https://governa.pl)
+ - date_published: 2023-04-08T14:48:45+00:00
+
+ ## Formularz zgody na otrzymywanie informacji od Głosu Prześladowanych Chrześcijan
+ - [https://zgoda.gpch.pl](https://zgoda.gpch.pl)
+ - date_published: 2024-06-28T16:13:05.471345+00:00
+
+ ## Gazeta Polska Codziennie
+ - [https://gpcodziennie.pl](https://gpcodziennie.pl)
+ - date_published: 2024-06-30T09:27:41.923999+00:00
+
+ ## ISP Diecezja
+ - [http://www.isd.gpg24.pl](http://www.isd.gpg24.pl)
+ - date_published: 2024-07-17T07:14:33.034744+00:00
+
+ ## Główny Rynek GPW - Główny Rynek
+ - [https://gpw.pl](https://gpw.pl)
+ - date_published: 2024-07-20T14:02:19.625323+00:00
+
+ ## www.gry-online.pl brak uprawnien
+ - [https://cdn3.gracza.pl](https://cdn3.gracza.pl)
+ - date_published: 2024-05-09T04:53:51.457896+00:00
+
+ ## GRAFFITI Piotrków - drukarnia, reklama, pieczątki, wydruki, oznaczenia, nadruki na odzieży
+ - [https://graffiti24.pl](https://graffiti24.pl)
+ - date_published: 2022-09-21T15:59:25+00:00
+
+ ## Grajmerki – gry kobiecym okiem
+ - [https://grajmerki.pl](https://grajmerki.pl)
+ - date_published: 2024-02-18T00:00:00+00:00
+
  ## Grajpad.pl - Najlepsze gry MMO
  - [http://grajpad.pl](http://grajpad.pl)
  - date_published: 2024-07-10T02:05:48.595262+00:00
@@ -3850,235 +4072,4 @@
 			 utwórz swojego mema.
  - [https://generator.memy.pl](https://generator.memy.pl)
  - date_published: 2024-08-19T09:39:01.344411+00:00
-
- ## Memy.pl - Zbiór najlepszych memów & generator memów
- - [https://memy.pl](https://memy.pl)
- - date_published: 2023-10-25T14:21:28.640120+00:00
-
- ## Closer to Code - Blog about coding in various languages, security, and my other IT adventures.
- - [https://mensfeld.pl](https://mensfeld.pl)
- - date_published: 2023-10-25T22:28:52.063079+00:00
-
- ## Trening - Zdrowie - Dobre samopoczucie dla faceta - Men's Fitness
- - [https://www.menshealth.pl](https://www.menshealth.pl)
- - date_published: 2024-10-22T21:12:53.419974+00:00
-
- ## → Mercado.pl • Sklep z rodzinnymi tradycjami
- - [https://mercado.pl](https://mercado.pl)
- - date_published: 2024-09-02T13:40:45.940318+00:00
-
- ## Samochody osobowe Mercedes-Benz
- - [https://www.mercedes-benz.pl](https://www.mercedes-benz.pl)
- - date_published: 2024-10-22T21:12:51.268543+00:00
-
- ## Uniwersytety WSB Merito | Uczelnie Wyższe w Polsce, MERITO.pl
- - [https://www.merito.pl](https://www.merito.pl)
- - date_published: 2024-07-14T05:25:00.104498+00:00
-
- ## Merlin mamy to
- - [https://merlin.pl](https://merlin.pl)
- - date_published: 2024-06-15T03:34:14.665950+00:00
-
- ## Największy Portal Branży Metalowej w Polsce
- - [http://www.metale.pl](http://www.metale.pl)
- - date_published: 2024-08-06T22:24:45.969914+00:00
-
- ## Zanzibar
- - [https://metalgearsolid.pl](https://metalgearsolid.pl)
- - date_published: 2024-04-08T10:06:07+00:00
- - tags: ['metal gear solid']
-
- ## MetalNews.pl - Portal muzyczny dla fanów metalu i rocka
- - [https://metalnews.pl](https://metalnews.pl)
- - date_published: 2023-10-29T15:28:56.379324+00:00
- - tags: ['music news']
-
- ## Pogoda.
- - [https://meteofor.pl](https://meteofor.pl)
- - date_published: 2024-06-17T17:20:17.812305+00:00
-
- ## METEOPROG.PL ⇒ Pogoda w Polsce i na świecie • Prognoza pogody długoterminowa online • Temperatura na dziś i jutro
- - [https://meteoprog.pl](https://meteoprog.pl)
- - date_published: 2024-05-11T08:18:32.121974+00:00
-
- ## Metropolia GZM
- - [http://metropoliagzm.pl](http://metropoliagzm.pl)
- - date_published: 2024-07-14T05:27:22.438270+00:00
-
- ## Poznańska Kolej Metropolitalna
- - [https://kolej.metropoliapoznan.pl](https://kolej.metropoliapoznan.pl)
- - date_published: 2024-07-13T19:04:42.105774+00:00
-
- ## MEX ARMORY - Sklep z bronią i amunicją w Warszawie
- - [https://mexarmory.pl](https://mexarmory.pl)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Meteorology Hydrology and Water Management
- - [http://www.mhwm.pl](http://www.mhwm.pl)
- - date_published: 2024-08-07T22:44:13.320604+00:00
-
- ## Oferta sprzedaży domeny: miarywymiary.pl
- - [http://miarywymiary.pl](http://miarywymiary.pl)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## MiastoDzieci.pl – atrakcje dla dzieci, wydarzenia, imprezy rodzinne
- - [https://miastodzieci.pl](https://miastodzieci.pl)
- - date_published: 2024-01-13T08:39:30+00:00
- - tags: ['children', 'kids']
-
- ## Gry komputerowe, gry konsolowe, gry na komórkę, gry online i sprzęt komputerowy || MiastoGier.pl - wirtualna stolica gier
- - [https://miastogier.pl](https://miastogier.pl)
- - date_published: 2023-11-13T11:58:36.214881+00:00
- - tags: ['games', 'game news']
-
- ## Crime District
- - [http://miastozbrodni.pl](http://miastozbrodni.pl)
- - date_published: 2024-07-10T02:05:07.285030+00:00
-
- ## Punkty widzenia – Michał Żelazny
- - [https://michalzelazny.pl](https://michalzelazny.pl)
- - date_published: 2024-05-09T08:18:59.737959+00:00
-
- ## Strona główna | Opony | Oficjalna strona Michelin w Polsce
- - [https://www.michelin.pl](https://www.michelin.pl)
- - date_published: 2024-09-03T13:21:28+00:00
-
- ## Domena midiplus.pl | BlazeCode
- - [https://midiplus.pl](https://midiplus.pl)
- - date_published: 2024-09-03T20:14:19.758101+00:00
-
- ## Fundacja Internet. Czas działać!
- - [https://midline.pl](https://midline.pl)
- - date_published: 2023-10-25T22:28:53.829582+00:00
-
- ## Home - Fundacja Między Niebem a Ziemią
- - [https://www.miedzyniebemaziemia.pl](https://www.miedzyniebemaziemia.pl)
- - date_published: 2024-07-11T15:50:28+00:00
- - tags: ['charity']
-
- ## Miejsca we Wrocławiu
- - [https://miejscawewroclawiu.pl](https://miejscawewroclawiu.pl)
- - date_published: 2024-09-26T20:22:22+00:00
-
- ## Home Mieszkam w Pruszczu
- - [https://mieszkamwpruszczu.pl](https://mieszkamwpruszczu.pl)
- - date_published: 2024-10-16T19:15:07.017875+00:00
-
- ## Strona Główna - Międzynarodowy Instytut Fizjoterapii i Zdrowia
- - [https://mifiz.pl](https://mifiz.pl)
- - date_published: 2024-09-17T18:54:36.368468+00:00
-
- ## Jacek Migdal Web Presence
- - [https://jacek.migdal.pl](https://jacek.migdal.pl)
- - date_published: 2023-10-25T22:28:55.417897+00:00
-
- ## Homepage - Piotr Migdał
- - [https://p.migdal.pl](https://p.migdal.pl)
- - date_published: 2023-10-25T09:24:21.804918+00:00
- - tags: ['personal']
-
- ## Mi-Home.pl | Oficjalny Sklep Xiaomi
- - [https://mi-home.pl](https://mi-home.pl)
- - date_published: 2024-01-25T00:00:00+00:00
- - tags: ['xiaomi']
-
- ## Mika Feiler - homepage
- - [https://a.mikf.pl](https://a.mikf.pl)
- - date_published: 2024-07-22T11:44:33.106005+00:00
-
- ## Home 3
- - [https://www.mikomarczyk.pl](https://www.mikomarczyk.pl)
- - date_published: 2024-07-11T15:50:23.223627+00:00
-
- ## Mikrokontroler.pl - portal dla elektroników
- - [https://mikrokontroler.pl](https://mikrokontroler.pl)
- - date_published: 2024-04-02T13:10:29+00:00
-
- ## Mikulski Rury – Materiały Sanitarne i Instalacyjne – Dystrybutor materiałów Sanitarnych i Instalacyjnych – Kraków
- - [https://www.mikulski-rury.pl](https://www.mikulski-rury.pl)
- - date_published: 2024-07-17T07:50:38.271327+00:00
-
- ## Militaria.pl - sklep z militariami, outdoorem i samoobroną
- - [https://www.militaria.pl](https://www.militaria.pl)
- - date_published: 2024-06-26T11:45:43.715360+00:00
-
- ## Archiwa: Militaria
- - [http://www.militis.pl](http://www.militis.pl)
- - date_published: 2024-08-19T21:17:43.034551+00:00
-
- ## Millenium Studio - Projektowanie stron www, tworzenie sklepów
- - [https://milleniumstudio.pl](https://milleniumstudio.pl)
- - date_published: 2018-07-05T08:54:57+00:00
-
- ## Millennium Leasing sp. z o.o.
- - [https://www.millennium-leasing.pl](https://www.millennium-leasing.pl)
- - date_published: 2024-07-13T19:13:24.349552+00:00
-
- ## MILMAG - wojskowy, militarny portal informacyjny, polityka, uzbrojenie
- - [https://milmag.pl](https://milmag.pl)
- - date_published: 2024-06-25T00:00:00+00:00
- - tags: ['military news']
-
- ## DIVINA MISERICORDIA - MIŁOSIERDZIE BOŻE
- - [http://milosierdzie.pl](http://milosierdzie.pl)
- - date_published: 2024-05-09T08:18:32+00:00
-
- ## Mi Magazyn
- - [http://www.mimagazyn.pl](http://www.mimagazyn.pl)
- - date_published: 2024-06-30T06:18:41.733054+00:00
-
- ## Home
- - [https://mindcloud.pl](https://mindcloud.pl)
- - date_published: 2024-09-02T14:19:45.689049+00:00
-
- ## Mind Group - Serwisy WWW, Aplikacje internetowe i Systemy mobilne
- - [http://mindgroup.pl](http://mindgroup.pl)
- - date_published: 2024-09-02T14:16:33.984284+00:00
-
- ## Ku Harmonii Mira Chlebowska
- - [https://mirachlebowska.pl](https://mirachlebowska.pl)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Oferta sprzedaży domeny: mirakus.pl
- - [http://mirakus.pl](http://mirakus.pl)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Najlepszy blog o Data Science, Machine Learning, AI i wizualizacji danych! - Mirosław Mamczur
- - [https://miroslawmamczur.pl](https://miroslawmamczur.pl)
- - date_published: 2024-05-09T08:38:29+00:00
- - tags: ['monetization', 'personal']
-
- ## Blog informatyczny
- - [https://miroslawzelent.pl](https://miroslawzelent.pl)
- - date_published: 2024-08-10T22:24:12.325098+00:00
-
- ## Komisja Episkopatu Polski ds. Misji
- - [https://misje.pl](https://misje.pl)
- - date_published: 2024-05-26T15:51:08.768151+00:00
-
- ## Dzieło Pomocy „Ad Gentes”
- - [http://www.adgentes.misje.pl](http://www.adgentes.misje.pl)
- - date_published: 2024-09-02T13:39:53.954047+00:00
-
- ## Centrum Formacji Misyjnej
- - [http://www.cfm.misje.pl](http://www.cfm.misje.pl)
- - date_published: 2024-09-02T13:39:57.167169+00:00
-
- ## Prokura Misyjna Misjonarzy Oblatów – Wspieramy misje
- - [https://misjeoblaci.pl](https://misjeoblaci.pl)
- - date_published: 2024-05-26T15:51:12.134133+00:00
- - tags: ['religion', 'catholic']
-
- ## Missio-Polonia
- - [https://misyjny-sklep.missio.pl](https://misyjny-sklep.missio.pl)
- - date_published: 2024-09-02T13:40:34.992823+00:00
-
- ## adopcjamisyjna.pl
- - [https://adopcjamisyjna.misyjne.pl](https://adopcjamisyjna.misyjne.pl)
- - date_published: 2024-05-26T15:51:10.422854+00:00
-
- ## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
- - [https://misyjne.pl](https://misyjne.pl)
- - date_published: 2023-10-25T10:13:22.284811+00:00
- - tags: ['christian', 'catholic']
 

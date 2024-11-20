@@ -1,3 +1,31 @@
+ ## History in 1/72
+ - [http://historyin172.blogspot.com](http://historyin172.blogspot.com)
+ - date_published: 2024-07-19T23:46:21+00:00
+
+ ## History Is Elementary
+ - [http://historyiselementary.blogspot.com](http://historyiselementary.blogspot.com)
+ - date_published: 2024-06-20T06:09:52+00:00
+
+ ## History's Medical Mysteries
+ - [https://historymedmysteries.blogspot.com](https://historymedmysteries.blogspot.com)
+ - date_published: 2024-03-13T15:29:10+00:00
+
+ ## History of Embroidery
+ - [http://historyofembroidery.blogspot.com](http://historyofembroidery.blogspot.com)
+ - date_published: 2024-09-04T15:49:05+00:00
+
+ ## History of Geology
+ - [http://historyofgeology.blogspot.com](http://historyofgeology.blogspot.com)
+ - date_published: 2024-05-31T07:27:18+00:00
+
+ ## History Unfolding
+ - [http://historyunfolding.blogspot.com](http://historyunfolding.blogspot.com)
+ - date_published: 2024-08-11T02:25:14+00:00
+
+ ## Hitler Was A Capitalist!!!!!
+ - [http://hitlerwasacapitalist.blogspot.com](http://hitlerwasacapitalist.blogspot.com)
+ - date_published: 2024-10-21T17:37:33.642074+00:00
+
  ## Hits To Kill
  - [https://hitstokill.blogspot.com](https://hitstokill.blogspot.com)
  - date_published: 2024-10-25T07:28:15+00:00
@@ -3982,32 +4010,4 @@
  ## Last Train to Panvel
  - [https://lasttraintopanvel.blogspot.com](https://lasttraintopanvel.blogspot.com)
  - date_published: 2024-03-05T17:07:02+00:00
-
- ## Last Tram Home
- - [http://lasttramhome.blogspot.com](http://lasttramhome.blogspot.com)
- - date_published: 2024-10-21T04:05:08.935402+00:00
-
- ## Las Visiones de Magnus
- - [https://lasvisionesdemagnus.blogspot.com](https://lasvisionesdemagnus.blogspot.com)
- - date_published: 2024-05-10T06:04:07+00:00
-
- ## La taberna de Hlout-wig
- - [https://latabernadehlout-wig.blogspot.com](https://latabernadehlout-wig.blogspot.com)
- - date_published: 2024-09-02T08:09:00+00:00
-
- ## BE RADIKALT!!!!!! my friend
- - [http://latablacuadrada.blogspot.com](http://latablacuadrada.blogspot.com)
- - date_published: 2024-09-05T05:35:04+00:00
-
- ## L'atelier de zedo
- - [https://latelierdezedo.blogspot.com](https://latelierdezedo.blogspot.com)
- - date_published: 2024-09-09T14:56:27+00:00
-
- ## Latency Tip Of The Day
- - [https://latencytipoftheday.blogspot.com](https://latencytipoftheday.blogspot.com)
- - date_published: 2024-05-08T03:27:37.045410+00:00
-
- ## Laudator Temporis Acti
- - [http://laudatortemporisacti.blogspot.com](http://laudatortemporisacti.blogspot.com)
- - date_published: 2024-06-26T00:00:00+00:00
 

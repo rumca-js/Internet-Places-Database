@@ -1,3 +1,183 @@
+ ## Forms & Requests
+ - [https://commsupport.clas.ufl.edu](https://commsupport.clas.ufl.edu)
+ - date_published: 2024-07-07T08:11:59.501755+00:00
+
+ ## compliance.ufl.edu - Compliance & Ethics - University of Florida
+ - [https://compliance.ufl.edu](https://compliance.ufl.edu)
+ - date_published: 2024-10-15T06:43:21.120010+00:00
+
+ ## MedConsults » College of Medicine » University of Florida
+ - [https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu](https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-10-25T21:04:26+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [http://csea.phhp.ufl.edu](http://csea.phhp.ufl.edu)
+ - date_published: 2024-07-01T21:31:26+00:00
+
+ ## MedConsults » College of Medicine » University of Florida
+ - [https://dcf.psychiatry.ufl.edu](https://dcf.psychiatry.ufl.edu)
+ - date_published: 2024-06-18T21:55:40+00:00
+
+ ## Institute of Food and Agricultural Sciences - University of Florida
+ - [https://directory.ifas.ufl.edu](https://directory.ifas.ufl.edu)
+ - date_published: 2024-09-15T15:18:45.890823+00:00
+
+ ## Directory » University of Florida
+ - [https://directory.ufl.edu](https://directory.ufl.edu)
+ - date_published: 2024-07-02T02:07:51.489872+00:00
+
+ ## Disability Resource Center - Disability
+ - [https://disability.ufl.edu](https://disability.ufl.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## UF/IFAS Disaster Preparation & Recovery - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://disaster.ifas.ufl.edu](https://disaster.ifas.ufl.edu)
+ - date_published: 2024-10-15T05:48:03.020199+00:00
+
+ ## Ask IFAS - Powered by EDIS
+ - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## eLearning - University of Florida
+ - [https://elearning.ufl.edu](https://elearning.ufl.edu)
+ - date_published: 2024-07-02T02:07:58.545229+00:00
+
+ ## UF Election Lab
+ - [https://election.lab.ufl.edu](https://election.lab.ufl.edu)
+ - date_published: 2024-10-14T21:14:49.282029+00:00
+
+ ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://entnemdept.ufl.edu](https://entnemdept.ufl.edu)
+ - date_published: 2024-10-15T05:48:11.814538+00:00
+
+ ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://entomology.ifas.ufl.edu](http://entomology.ifas.ufl.edu)
+ - date_published: 2024-10-15T05:48:07.135878+00:00
+
+ ## University of Florida Experts | Search & Connect
+ - [https://experts.ufl.edu](https://experts.ufl.edu)
+ - date_published: 2024-05-07T21:11:34.496371+00:00
+
+ ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:35.898558+00:00
+
+ ## Faculty Websites – Herbert Wertheim College of Engineering
+ - [https://faculty.eng.ufl.edu](https://faculty.eng.ufl.edu)
+ - date_published: 2024-08-06T10:26:00.307799+00:00
+
+ ## Field and Fork Website
+ - [https://fieldandfork.ufl.edu](https://fieldandfork.ufl.edu)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## ArchivesSpace Public Interface | Special & Area Studies Collections
+ - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
+ - date_published: 2024-06-14T04:11:54.363246+00:00
+
+ ## Florida Museum
+ - [https://floridamuseum.ufl.edu](https://floridamuseum.ufl.edu)
+ - date_published: 2023-11-09T19:00:22.567256+00:00
+
+ ## Florida SeaGrant Programs - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://flseagrant.ifas.ufl.edu](http://flseagrant.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:29.562040+00:00
+
+ ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://fred.ifas.ufl.edu](https://fred.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:33.872122+00:00
+
+ ## Dr. Jie Fu – Assistant Professor at ECE Florida
+ - [https://fujie.ece.ufl.edu](https://fujie.ece.ufl.edu)
+ - date_published: 2024-09-13T19:54:49.243023+00:00
+
+ ## Gulf Coast Research and Education Center - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://gcrec.ifas.ufl.edu](http://gcrec.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:31.793095+00:00
+
+ ## Wireless@UF - Get Online
+ - [https://getonline.ufl.edu](https://getonline.ufl.edu)
+ - date_published: 2024-07-02T02:07:52.798120+00:00
+
+ ## IFAS Advancement Office - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://give.ifas.ufl.edu](https://give.ifas.ufl.edu)
+ - date_published: 2024-09-15T15:18:53.378272+00:00
+
+ ## Graduate Catalog  < University of Florida
+ - [http://gradcatalog.ufl.edu](http://gradcatalog.ufl.edu)
+ - date_published: 2024-06-17T20:04:27+00:00
+
+ ## The Graduate School - University of Florida
+ - [http://graduateschool.ufl.edu](http://graduateschool.ufl.edu)
+ - date_published: 2024-07-02T02:18:23.621879+00:00
+
+ ## LibGuides: home: Home
+ - [https://guides.law.ufl.edu](https://guides.law.ufl.edu)
+ - date_published: 2024-10-18T22:27:29.761367+00:00
+
+ ## handbook.aa.ufl.edu - Faculty Handbook - University of Florida
+ - [http://handbook.aa.ufl.edu](http://handbook.aa.ufl.edu)
+ - date_published: 2024-07-02T02:19:13.447830+00:00
+
+ ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://hr.ifas.ufl.edu](https://hr.ifas.ufl.edu)
+ - date_published: 2024-09-15T15:18:55.840843+00:00
+
+ ## IFAS Communications - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://ics.ifas.ufl.edu](https://ics.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:23.630749+00:00
+
+ ## Identity & Access Management Services » University of Florida
+ - [https://identity.it.ufl.edu](https://identity.it.ufl.edu)
+ - date_published: 2024-07-02T02:08:10.255439+00:00
+
+ ## Home
+ - [https://ifasbooks.ifas.ufl.edu](https://ifasbooks.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:27.774795+00:00
+
+ ## Institute of Food and Agricultural Sciences - University of Florida
+ - [https://ifas.ufl.edu](https://ifas.ufl.edu)
+ - date_published: 2024-06-14T23:31:44.295638+00:00
+
+ ## Procedures and Policies - UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://imm.ifas.ufl.edu](https://imm.ifas.ufl.edu)
+ - date_published: 2024-10-15T06:39:21.320326+00:00
+
+ ## Home - UF Innovate
+ - [https://innovate.research.ufl.edu](https://innovate.research.ufl.edu)
+ - date_published: 2024-06-17T04:16:53.822673+00:00
+
+ ## AdvancementHUB
+ - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
+ - date_published: 2024-07-02T02:19:57.569762+00:00
+
+ ## Institutional Planning and Research
+ - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
+ - date_published: 2024-07-02T01:53:41+00:00
+
+ ## UF/IFAS Information Technology
+ - [http://it.ifas.ufl.edu](http://it.ifas.ufl.edu)
+ - date_published: 2022-12-30T18:49:20+00:00
+
+ ## Information Technology - University of Florida
+ - [https://it.ufl.edu](https://it.ufl.edu)
+ - date_published: 2024-07-02T02:07:49.776780+00:00
+
+ ## Careers
+ - [https://jobs.ufl.edu](https://jobs.ufl.edu)
+ - date_published: 2024-07-02T02:11:23.301447+00:00
+
+ ## Liao Lab »  » University of Florida
+ - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
+ - date_published: 2024-02-08T16:20:48.739035+00:00
+
+ ## Health Science Center Libraries » UF Libraries » University of Florida
+ - [https://library.health.ufl.edu](https://library.health.ufl.edu)
+ - date_published: 2024-08-16T20:05:57+00:00
+
+ ## eLearning - University of Florida
+ - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
+ - date_published: 2024-07-02T02:19:19.447279+00:00
+
  ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
  - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
  - date_published: 2024-05-07T21:11:06.799717+00:00
@@ -3824,184 +4004,4 @@
  ## University of Michigan-Dearborn | University of Michigan-Dearborn
  - [https://umdearborn.edu](https://umdearborn.edu)
  - date_published: 2024-02-24T18:06:35.384429+00:00
-
- ## University of Maryland Eastern Shore | The Eastern Shore's Doctoral Research Institution
- - [http://www.umes.edu](http://www.umes.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home of the Bengals | UMFK Athletics
- - [https://athletics.umfk.edu](https://athletics.umfk.edu)
- - date_published: 2024-05-07T21:27:36.965110+00:00
-
- ## University of Maine at Fort Kent - Campus Store
- - [https://campusstore.umfk.edu](https://campusstore.umfk.edu)
- - date_published: 2024-05-07T21:27:42.767417+00:00
-
- ## University of Maine at Fort Kent - Acalog ACMS™
- - [https://catalog.umfk.edu](https://catalog.umfk.edu)
- - date_published: 2024-05-07T21:27:32.625402+00:00
-
- ## Please select your identity provider. - UMFK - UMS
- - [https://my.umfk.edu](https://my.umfk.edu)
- - date_published: 2024-07-01T02:52:23.781146+00:00
-
- ## University of Maine at Fort Kent - UMFK
- - [https://umfk.edu](https://umfk.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## University of Michigan - Flint - Acalog ACMS™
- - [http://catalog.umflint.edu](http://catalog.umflint.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CDN | University of Michigan-Flint
- - [https://cdn.umflint.edu](https://cdn.umflint.edu)
- - date_published: 2021-12-22T19:23:00+00:00
-
- ## Weblogin | University of Michigan-Flint
- - [https://go.umflint.edu](https://go.umflint.edu)
- - date_published: 2024-07-02T03:41:23.633555+00:00
-
- ## Home
- - [https://helpdesk.umflint.edu](https://helpdesk.umflint.edu)
- - date_published: 2024-09-28T23:28:21.843012+00:00
-
- ## Weblogin | University of Michigan-Flint
- - [https://intranet.umflint.edu](https://intranet.umflint.edu)
- - date_published: 2024-07-02T03:40:46.273311+00:00
-
- ## VMware Horizon
- - [https://labanywhere.umflint.edu](https://labanywhere.umflint.edu)
- - date_published: 2024-07-02T03:41:19.259377+00:00
-
- ## LibGuides
- - [https://libguides.umflint.edu](https://libguides.umflint.edu)
- - date_published: 2024-07-02T03:40:43.961503+00:00
-
- ## Campus Map – University of Michigan-Flint
- - [https://maps.umflint.edu](https://maps.umflint.edu)
- - date_published: 2024-07-02T03:41:13.583824+00:00
-
- ## Weblogin | University of Michigan-Flint
- - [https://my.umflint.edu](https://my.umflint.edu)
- - date_published: 2024-07-02T03:41:18.177070+00:00
-
- ## UM-Flint NOW
- - [https://news.umflint.edu](https://news.umflint.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Weblogin | University of Michigan-Flint
- - [https://pay.umflint.edu](https://pay.umflint.edu)
- - date_published: 2024-07-02T03:41:21.368761+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.web.umflint.edu](https://plausible.web.umflint.edu)
- - date_published: 2024-10-03T20:46:54.196484+00:00
-
- ## University of Michigan-Flint – UM-Flint
- - [https://umflint.edu](https://umflint.edu)
- - date_published: 2024-06-16T11:47:29.972882+00:00
-
- ## Faculty, Adjunct, and University Jobs | UMGC Careers
- - [https://careers.umgc.edu](https://careers.umgc.edu)
- - date_published: 2024-07-02T03:25:32.702711+00:00
-
- ## University of Maryland Global Campus | UMGC
- - [https://www.umgc.edu](https://www.umgc.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Welcome | U-M Academic Technology
- - [https://academictechnology.umich.edu](https://academictechnology.umich.edu)
- - date_published: 2024-10-03T20:38:13+00:00
-
- ## IT Accessibility at the University of Michigan | accessibility.umich.edu
- - [https://accessibility.umich.edu](https://accessibility.umich.edu)
- - date_published: 2024-05-11T09:25:02.272773+00:00
-
- ## Associate Dean for Academic Affairs – About the Associate Dean for Academic Affairs
- - [https://adaa.engin.umich.edu](https://adaa.engin.umich.edu)
- - date_published: 2024-07-02T03:52:58+00:00
-
- ## Associate Dean for Graduate & Professional Education – Home for the Associate Dean for Graduate & Professional Education
- - [https://adgpe.engin.umich.edu](https://adgpe.engin.umich.edu)
- - date_published: 2024-05-07T21:28:47.525218+00:00
-
- ## Prospective Students - Office of Undergraduate Admissions
- - [https://admissions.mivideo.it.umich.edu](https://admissions.mivideo.it.umich.edu)
- - date_published: 2024-10-03T20:57:54+00:00
-
- ## Home | University of Michigan Office of Undergraduate Admissions
- - [https://admissions.umich.edu](https://admissions.umich.edu)
- - date_published: 2024-06-13T17:09:38+00:00
-
- ## Associate Dean for Research – Home for the Associate Dean for Research
- - [https://adr.engin.umich.edu](https://adr.engin.umich.edu)
- - date_published: 2024-07-02T03:53:03+00:00
-
- ## Associate Dean for Undergraduate Education |
- - [https://adue.engin.umich.edu](https://adue.engin.umich.edu)
- - date_published: 2024-05-07T21:28:24.740306+00:00
-
- ## Advancement – Office of Advancement, College of Engineering
- - [https://advancement.engin.umich.edu](https://advancement.engin.umich.edu)
- - date_published: 2024-07-02T03:53:20+00:00
-
- ## Index of /
- - [https://ai.eecs.umich.edu](https://ai.eecs.umich.edu)
- - date_published: 2023-10-25T19:02:06.146914+00:00
-
- ## Alumni Association of the University of Michigan
- - [http://alumni.umich.edu](http://alumni.umich.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://analytics.vpcomm.umich.edu](https://analytics.vpcomm.umich.edu)
- - date_published: 2024-10-29T08:11:21.503808+00:00
-
- ## ADW: Home
- - [https://animaldiversity.ummz.umich.edu](https://animaldiversity.ummz.umich.edu)
- - date_published: 2024-05-07T22:31:35.712086+00:00
-
- ## University of Michigan Library
- - [https://apps.lib.umich.edu](https://apps.lib.umich.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## APRIL Laboratory APRIL Laboratory : Autonomy * Perception * Robotics * Interfaces * Learning
- - [https://april.eecs.umich.edu](https://april.eecs.umich.edu)
- - date_published: 2024-06-17T03:06:00.561030+00:00
-
- ## Advanced Research Computing (ARC) / U-M Information and Technology Services
- - [https://arc.umich.edu](https://arc.umich.edu)
- - date_published: 2024-09-28T22:35:07+00:00
-
- ## Home - Arts at Michigan
- - [https://artsatmichigan.umich.edu](https://artsatmichigan.umich.edu)
- - date_published: 2024-07-02T03:55:26.980270+00:00
-
- ## Homepage | Arts & Culture
- - [https://arts.umich.edu](https://arts.umich.edu)
- - date_published: 2024-05-07T21:29:05.670819+00:00
-
- ## Home | Research A to Z
- - [https://az.research.umich.edu](https://az.research.umich.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Blog | University of Michigan Press
- - [http://blog.press.umich.edu](http://blog.press.umich.edu)
- - date_published: 2024-06-17T14:08:58+00:00
-
- ## Biomedical Engineering - BME
- - [https://bme.umich.edu](https://bme.umich.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Bold Challenges - U-M Research
- - [https://boldchallenges.umich.edu](https://boldchallenges.umich.edu)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Brand & Visual Identity – University of Michigan – Brand and Visual Identity
- - [https://brand.umich.edu](https://brand.umich.edu)
- - date_published: 2024-07-02T03:48:46.293377+00:00
-
- ## Biomedical Research Core Facilities (BRCF) | University of Michigan Medical School Research
- - [https://brcf.medicine.umich.edu](https://brcf.medicine.umich.edu)
- - date_published: 2024-07-01T22:25:06+00:00
 

@@ -1,3 +1,234 @@
+ ## Memy.pl - Zbiór najlepszych memów & generator memów
+ - [https://memy.pl](https://memy.pl)
+ - date_published: 2023-10-25T14:21:28.640120+00:00
+
+ ## Closer to Code - Blog about coding in various languages, security, and my other IT adventures.
+ - [https://mensfeld.pl](https://mensfeld.pl)
+ - date_published: 2023-10-25T22:28:52.063079+00:00
+
+ ## Trening - Zdrowie - Dobre samopoczucie dla faceta - Men's Fitness
+ - [https://www.menshealth.pl](https://www.menshealth.pl)
+ - date_published: 2024-10-22T21:12:53.419974+00:00
+
+ ## → Mercado.pl • Sklep z rodzinnymi tradycjami
+ - [https://mercado.pl](https://mercado.pl)
+ - date_published: 2024-09-02T13:40:45.940318+00:00
+
+ ## Samochody osobowe Mercedes-Benz
+ - [https://www.mercedes-benz.pl](https://www.mercedes-benz.pl)
+ - date_published: 2024-10-22T21:12:51.268543+00:00
+
+ ## Uniwersytety WSB Merito | Uczelnie Wyższe w Polsce, MERITO.pl
+ - [https://www.merito.pl](https://www.merito.pl)
+ - date_published: 2024-07-14T05:25:00.104498+00:00
+
+ ## Merlin mamy to
+ - [https://merlin.pl](https://merlin.pl)
+ - date_published: 2024-06-15T03:34:14.665950+00:00
+
+ ## Największy Portal Branży Metalowej w Polsce
+ - [http://www.metale.pl](http://www.metale.pl)
+ - date_published: 2024-08-06T22:24:45.969914+00:00
+
+ ## Zanzibar
+ - [https://metalgearsolid.pl](https://metalgearsolid.pl)
+ - date_published: 2024-04-08T10:06:07+00:00
+ - tags: ['metal gear solid']
+
+ ## MetalNews.pl - Portal muzyczny dla fanów metalu i rocka
+ - [https://metalnews.pl](https://metalnews.pl)
+ - date_published: 2023-10-29T15:28:56.379324+00:00
+ - tags: ['music news']
+
+ ## Pogoda.
+ - [https://meteofor.pl](https://meteofor.pl)
+ - date_published: 2024-06-17T17:20:17.812305+00:00
+
+ ## METEOPROG.PL ⇒ Pogoda w Polsce i na świecie • Prognoza pogody długoterminowa online • Temperatura na dziś i jutro
+ - [https://meteoprog.pl](https://meteoprog.pl)
+ - date_published: 2024-05-11T08:18:32.121974+00:00
+
+ ## Metropolia GZM
+ - [http://metropoliagzm.pl](http://metropoliagzm.pl)
+ - date_published: 2024-07-14T05:27:22.438270+00:00
+
+ ## Poznańska Kolej Metropolitalna
+ - [https://kolej.metropoliapoznan.pl](https://kolej.metropoliapoznan.pl)
+ - date_published: 2024-07-13T19:04:42.105774+00:00
+
+ ## MEX ARMORY - Sklep z bronią i amunicją w Warszawie
+ - [https://mexarmory.pl](https://mexarmory.pl)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Meteorology Hydrology and Water Management
+ - [http://www.mhwm.pl](http://www.mhwm.pl)
+ - date_published: 2024-08-07T22:44:13.320604+00:00
+
+ ## Oferta sprzedaży domeny: miarywymiary.pl
+ - [http://miarywymiary.pl](http://miarywymiary.pl)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## MiastoDzieci.pl – atrakcje dla dzieci, wydarzenia, imprezy rodzinne
+ - [https://miastodzieci.pl](https://miastodzieci.pl)
+ - date_published: 2024-01-13T08:39:30+00:00
+ - tags: ['children', 'kids']
+
+ ## Gry komputerowe, gry konsolowe, gry na komórkę, gry online i sprzęt komputerowy || MiastoGier.pl - wirtualna stolica gier
+ - [https://miastogier.pl](https://miastogier.pl)
+ - date_published: 2023-11-13T11:58:36.214881+00:00
+ - tags: ['games', 'game news']
+
+ ## Crime District
+ - [http://miastozbrodni.pl](http://miastozbrodni.pl)
+ - date_published: 2024-07-10T02:05:07.285030+00:00
+
+ ## Punkty widzenia – Michał Żelazny
+ - [https://michalzelazny.pl](https://michalzelazny.pl)
+ - date_published: 2024-05-09T08:18:59.737959+00:00
+
+ ## Strona główna | Opony | Oficjalna strona Michelin w Polsce
+ - [https://www.michelin.pl](https://www.michelin.pl)
+ - date_published: 2024-09-03T13:21:28+00:00
+
+ ## Domena midiplus.pl | BlazeCode
+ - [https://midiplus.pl](https://midiplus.pl)
+ - date_published: 2024-09-03T20:14:19.758101+00:00
+
+ ## Fundacja Internet. Czas działać!
+ - [https://midline.pl](https://midline.pl)
+ - date_published: 2023-10-25T22:28:53.829582+00:00
+
+ ## Home - Fundacja Między Niebem a Ziemią
+ - [https://www.miedzyniebemaziemia.pl](https://www.miedzyniebemaziemia.pl)
+ - date_published: 2024-07-11T15:50:28+00:00
+ - tags: ['charity']
+
+ ## Miejsca we Wrocławiu
+ - [https://miejscawewroclawiu.pl](https://miejscawewroclawiu.pl)
+ - date_published: 2024-09-26T20:22:22+00:00
+
+ ## Home Mieszkam w Pruszczu
+ - [https://mieszkamwpruszczu.pl](https://mieszkamwpruszczu.pl)
+ - date_published: 2024-10-16T19:15:07.017875+00:00
+
+ ## Strona Główna - Międzynarodowy Instytut Fizjoterapii i Zdrowia
+ - [https://mifiz.pl](https://mifiz.pl)
+ - date_published: 2024-09-17T18:54:36.368468+00:00
+
+ ## Jacek Migdal Web Presence
+ - [https://jacek.migdal.pl](https://jacek.migdal.pl)
+ - date_published: 2023-10-25T22:28:55.417897+00:00
+
+ ## Homepage - Piotr Migdał
+ - [https://p.migdal.pl](https://p.migdal.pl)
+ - date_published: 2023-10-25T09:24:21.804918+00:00
+ - tags: ['personal']
+
+ ## Mi-Home.pl | Oficjalny Sklep Xiaomi
+ - [https://mi-home.pl](https://mi-home.pl)
+ - date_published: 2024-01-25T00:00:00+00:00
+ - tags: ['xiaomi']
+
+ ## Mika Feiler - homepage
+ - [https://a.mikf.pl](https://a.mikf.pl)
+ - date_published: 2024-07-22T11:44:33.106005+00:00
+
+ ## Home 3
+ - [https://www.mikomarczyk.pl](https://www.mikomarczyk.pl)
+ - date_published: 2024-07-11T15:50:23.223627+00:00
+
+ ## Mikrokontroler.pl - portal dla elektroników
+ - [https://mikrokontroler.pl](https://mikrokontroler.pl)
+ - date_published: 2024-04-02T13:10:29+00:00
+
+ ## Mikulski Rury – Materiały Sanitarne i Instalacyjne – Dystrybutor materiałów Sanitarnych i Instalacyjnych – Kraków
+ - [https://www.mikulski-rury.pl](https://www.mikulski-rury.pl)
+ - date_published: 2024-07-17T07:50:38.271327+00:00
+
+ ## Militaria.pl - sklep z militariami, outdoorem i samoobroną
+ - [https://www.militaria.pl](https://www.militaria.pl)
+ - date_published: 2024-06-26T11:45:43.715360+00:00
+
+ ## Archiwa: Militaria
+ - [http://www.militis.pl](http://www.militis.pl)
+ - date_published: 2024-08-19T21:17:43.034551+00:00
+
+ ## Millenium Studio - Projektowanie stron www, tworzenie sklepów
+ - [https://milleniumstudio.pl](https://milleniumstudio.pl)
+ - date_published: 2018-07-05T08:54:57+00:00
+
+ ## Millennium Leasing sp. z o.o.
+ - [https://www.millennium-leasing.pl](https://www.millennium-leasing.pl)
+ - date_published: 2024-07-13T19:13:24.349552+00:00
+
+ ## MILMAG - wojskowy, militarny portal informacyjny, polityka, uzbrojenie
+ - [https://milmag.pl](https://milmag.pl)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['military news']
+
+ ## DIVINA MISERICORDIA - MIŁOSIERDZIE BOŻE
+ - [http://milosierdzie.pl](http://milosierdzie.pl)
+ - date_published: 2024-05-09T08:18:32+00:00
+
+ ## Mi Magazyn
+ - [http://www.mimagazyn.pl](http://www.mimagazyn.pl)
+ - date_published: 2024-06-30T06:18:41.733054+00:00
+
+ ## Home
+ - [https://mindcloud.pl](https://mindcloud.pl)
+ - date_published: 2024-09-02T14:19:45.689049+00:00
+
+ ## Mind Group - Serwisy WWW, Aplikacje internetowe i Systemy mobilne
+ - [http://mindgroup.pl](http://mindgroup.pl)
+ - date_published: 2024-09-02T14:16:33.984284+00:00
+
+ ## Ku Harmonii Mira Chlebowska
+ - [https://mirachlebowska.pl](https://mirachlebowska.pl)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Oferta sprzedaży domeny: mirakus.pl
+ - [http://mirakus.pl](http://mirakus.pl)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Najlepszy blog o Data Science, Machine Learning, AI i wizualizacji danych! - Mirosław Mamczur
+ - [https://miroslawmamczur.pl](https://miroslawmamczur.pl)
+ - date_published: 2024-05-09T08:38:29+00:00
+ - tags: ['monetization', 'personal']
+
+ ## Blog informatyczny
+ - [https://miroslawzelent.pl](https://miroslawzelent.pl)
+ - date_published: 2024-08-10T22:24:12.325098+00:00
+
+ ## Komisja Episkopatu Polski ds. Misji
+ - [https://misje.pl](https://misje.pl)
+ - date_published: 2024-05-26T15:51:08.768151+00:00
+
+ ## Dzieło Pomocy „Ad Gentes”
+ - [http://www.adgentes.misje.pl](http://www.adgentes.misje.pl)
+ - date_published: 2024-09-02T13:39:53.954047+00:00
+
+ ## Centrum Formacji Misyjnej
+ - [http://www.cfm.misje.pl](http://www.cfm.misje.pl)
+ - date_published: 2024-09-02T13:39:57.167169+00:00
+
+ ## Prokura Misyjna Misjonarzy Oblatów – Wspieramy misje
+ - [https://misjeoblaci.pl](https://misjeoblaci.pl)
+ - date_published: 2024-05-26T15:51:12.134133+00:00
+ - tags: ['religion', 'catholic']
+
+ ## Missio-Polonia
+ - [https://misyjny-sklep.missio.pl](https://misyjny-sklep.missio.pl)
+ - date_published: 2024-09-02T13:40:34.992823+00:00
+
+ ## adopcjamisyjna.pl
+ - [https://adopcjamisyjna.misyjne.pl](https://adopcjamisyjna.misyjne.pl)
+ - date_published: 2024-05-26T15:51:10.422854+00:00
+
+ ## Misyjne.pl - Portal chrześcijański dla ludzi z misją.
+ - [https://misyjne.pl](https://misyjne.pl)
+ - date_published: 2023-10-25T10:13:22.284811+00:00
+ - tags: ['christian', 'catholic']
+
  ## Sklep Z Misją - Produkty z misji oraz intencje mszalne
  - [https://sklep.misyjne.pl](https://sklep.misyjne.pl)
  - date_published: 2024-05-26T15:51:14.723237+00:00
@@ -3868,227 +4099,4 @@
  ## ID.Poznań | Tożsamość Cyfrowa, Status Podatnika Poznań
  - [https://id.poznan.pl](https://id.poznan.pl)
  - date_published: 2024-04-26T08:10:47+00:00
-
- ## info.put.poznan.pl |
- - [https://info.put.poznan.pl](https://info.put.poznan.pl)
- - date_published: 2024-08-30T11:15:01+00:00
-
- ## Poznan University of Technology - Informator PP
- - [https://informator.put.poznan.pl](https://informator.put.poznan.pl)
- - date_published: 2024-05-26T18:42:03.513486+00:00
-
- ## Instrukcje
- - [https://instrukcje.put.poznan.pl](https://instrukcje.put.poznan.pl)
- - date_published: 2024-05-26T18:42:13.723998+00:00
-
- ## Strona główna | Wydział Inżynierii Środowiska i Energetyki
- - [https://isie.put.poznan.pl](https://isie.put.poznan.pl)
- - date_published: 2024-05-26T18:41:56.682989+00:00
-
- ## Instytut Zachodni
- - [https://iz.poznan.pl](https://iz.poznan.pl)
- - date_published: 2024-05-09T04:03:44.974159+00:00
-
- ## Kuratorium Oświaty w Poznaniu – Kuratorium Oświaty w Poznaniu – Oficjalny serwis Kuratorium Oświaty w Poznaniu
- - [http://ko.poznan.pl](http://ko.poznan.pl)
- - date_published: 2024-09-03T19:24:57.700720+00:00
-
- ## Kultura Poznań - Wydarzenia Kulturalne, Informacje i Aktualności | Poznan.pl
- - [https://kultura.poznan.pl](https://kultura.poznan.pl)
- - date_published: 2024-06-13T17:04:38.035322+00:00
-
- ## PUT-CS Home Page
- - [http://libra.cs.put.poznan.pl](http://libra.cs.put.poznan.pl)
- - date_published: 2010-12-14T09:35:13+00:00
-
- ## methane2pha project
- - [https://methane2pha.put.poznan.pl](https://methane2pha.put.poznan.pl)
- - date_published: 2024-09-02T14:18:39.363656+00:00
-
- ## Mechanik Lotniczy Politechniki Poznańskiej
- - [https://mlpp.put.poznan.pl](https://mlpp.put.poznan.pl)
- - date_published: 2024-09-02T14:18:50.240341+00:00
-
- ## Mobilna Politechnika Poznańska
- - [https://mobile.put.poznan.pl](https://mobile.put.poznan.pl)
- - date_published: 2024-09-02T14:01:14.089437+00:00
-
- ## Witaj - Poznanski Budzet Obywatelski - 2016
- - [https://pbo2016.um.poznan.pl](https://pbo2016.um.poznan.pl)
- - date_published: 2015-07-09T00:00:00+00:00
-
- ## Witaj - Poznański Budżet Obywatelski 2025
- - [https://pbo25.um.poznan.pl](https://pbo25.um.poznan.pl)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PEKA
- - [https://peka.poznan.pl](https://peka.poznan.pl)
- - date_published: 2024-03-14T08:46:20+00:00
-
- ## Strona główna | Szkoła Doktorska Politechniki Poznańskiej
- - [https://phdschool.put.poznan.pl](https://phdschool.put.poznan.pl)
- - date_published: 2024-05-26T18:41:43.925860+00:00
-
- ## Strona główna | Wydział Inżynierii Materiałowej i Fizyki Technicznej
- - [https://phys.put.poznan.pl](https://phys.put.poznan.pl)
- - date_published: 2024-05-26T18:41:13.132764+00:00
-
- ## Welcome to nginx!
- - [http://piwik.man.poznan.pl](http://piwik.man.poznan.pl)
- - date_published: 2019-04-09T13:24:36+00:00
-
- ## Poznan University of Technology
- - [https://poczta.put.poznan.pl](https://poczta.put.poznan.pl)
- - date_published: 2024-09-02T14:06:49.701029+00:00
-
- ## Politechnika Poznańska, Dział Obsługi i Eksploatacji
- - [https://pomoc.put.poznan.pl](https://pomoc.put.poznan.pl)
- - date_published: 2024-09-02T14:18:56.977132+00:00
-
- ## Strona główna | Poznan.pl
- - [https://poznan.pl](https://poznan.pl)
- - date_published: 2024-06-13T17:01:02+00:00
- - tags: ['city']
-
- ## PROJEKTOWANIE UNIWERSALNE W STRATEGII PODNOSZENIA EFEKTYWNOŚCI KSZTAŁCENIA NA POLITECHNICE POZNAŃSKIEJ – POWR.03.05.00-00-PU21/19
- - [https://pu.put.poznan.pl](https://pu.put.poznan.pl)
- - date_published: 2024-09-02T14:18:40.813122+00:00
-
- ## Strona główna | Politechnika Poznańska
- - [https://put.poznan.pl](https://put.poznan.pl)
- - date_published: 2023-10-27T13:02:27.240844+00:00
- - tags: ['university']
-
- ## Politechnika Poznańska Portal Kandydata (Rekrutacja kandydatów na studia w Politechnice Poznańskiej)
- - [https://rekrutacja.put.poznan.pl](https://rekrutacja.put.poznan.pl)
- - date_published: 2024-09-02T13:57:28.281253+00:00
-
- ## SSPP – Samorząd Studentów Politechniki Poznańskiej – Samorząd Studentów Politechniki Poznańskiej
- - [https://samorzad.put.poznan.pl](https://samorzad.put.poznan.pl)
- - date_published: 2024-09-02T14:03:55.102067+00:00
-
- ## Odmowa dostępu | Senat Politechniki Poznańskiej
- - [https://senat.put.poznan.pl](https://senat.put.poznan.pl)
- - date_published: 2024-05-26T18:41:31.586425+00:00
-
- ## Scientific Information System
- - [https://sin.put.poznan.pl](https://sin.put.poznan.pl)
- - date_published: 2024-09-02T13:58:51.927928+00:00
-
- ## Page Redirection
- - [http://sip.poznan.pl](http://sip.poznan.pl)
- - date_published: 2016-06-13T11:57:29+00:00
-
- ## SIREN project site – Integrated system for SImultaneousRecovery of Energy, organics and Nutrients and generation of valuable products from municipal wastewater
- - [https://siren.put.poznan.pl](https://siren.put.poznan.pl)
- - date_published: 2024-09-02T14:18:44.102476+00:00
-
- ## Straż Miejska Miasta Poznania | Poznan.pl
- - [https://sm.poznan.pl](https://sm.poznan.pl)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stat.put.poznan.pl](https://stat.put.poznan.pl)
- - date_published: 2024-09-02T14:02:32.511425+00:00
-
- ## Strona główna | Poznan.pl
- - [https://um.poznan.pl](https://um.poznan.pl)
- - date_published: 2024-09-13T17:55:50.786093+00:00
-
- ## Uroczystości Politechniki Poznańskiej – Organizatorem uroczystości jest Uczelniane Centrum Kultury
- - [https://uroczystosci.put.poznan.pl](https://uroczystosci.put.poznan.pl)
- - date_published: 2024-05-26T18:42:08.442402+00:00
-
- ## Video Poznań | Platforma Streamingowa Video Miasta Poznania – video.poznan.pl
- - [https://video.poznan.pl](https://video.poznan.pl)
- - date_published: 2024-09-13T17:52:13+00:00
-
- ## WasteValue
- - [https://wastevalue.put.poznan.pl](https://wastevalue.put.poznan.pl)
- - date_published: 2024-09-02T14:18:46.949313+00:00
-
- ## Poczta elektroniczna :: Welcome to Poczta elektroniczna
- - [http://webmail.man.poznan.pl](http://webmail.man.poznan.pl)
- - date_published: 2024-09-13T17:55:10+00:00
-
- ## Strona główna | Wydział Inżynierii Lądowej i Transportu
- - [https://wilit.put.poznan.pl](https://wilit.put.poznan.pl)
- - date_published: 2024-05-26T18:41:10.675002+00:00
-
- ## Strona główna | Wydział Inżynierii Mechanicznej
- - [https://wim.put.poznan.pl](https://wim.put.poznan.pl)
- - date_published: 2024-09-02T14:08:17+00:00
-
- ## Jak to działa? | Poznan.pl
- - [https://wireless.poznan.pl](https://wireless.poznan.pl)
- - date_published: 2024-06-13T17:04:32.781735+00:00
-
- ## Wojewódzki Ośrodek Ruchu Drogowego w Poznaniu
- - [https://word.poznan.pl](https://word.poznan.pl)
- - date_published: 2024-03-19T11:46:56+00:00
- - tags: ['ośrodek ruchu drogowego']
-
- ## Instytut Informatyki Politechniki Poznańskiej
- - [https://www2.cs.put.poznan.pl](https://www2.cs.put.poznan.pl)
- - date_published: 2024-02-25T20:58:47.088650+00:00
-
- ## Aeroklub Poznański
- - [http://www.aeroklub.poznan.pl](http://www.aeroklub.poznan.pl)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## BK PAN – Biblioteka Kórnicka
- - [http://www.bkpan.poznan.pl](http://www.bkpan.poznan.pl)
- - date_published: 2024-09-03T19:25:02.981645+00:00
-
- ## Nowości | Wydawnictwo PP
- - [http://www.ed.put.poznan.pl](http://www.ed.put.poznan.pl)
- - date_published: 2024-09-02T13:59:23.157399+00:00
-
- ## Instytut Chemii Bioorganicznej Polskiej Akademii Nauk - Wizytówka
- - [http://www.ibch.poznan.pl](http://www.ibch.poznan.pl)
- - date_published: 2024-09-02T14:16:45.025138+00:00
-
- ## Instytut Dendrologii PAN - INSTYTUT DENDROLOGII
- - [http://www.idpan.poznan.pl](http://www.idpan.poznan.pl)
- - date_published: 2024-09-03T19:25:04+00:00
-
- ## Księgarnia Instytutu Zachodniego
- - [http://www.ksiegarnia.iz.poznan.pl](http://www.ksiegarnia.iz.poznan.pl)
- - date_published: 2024-07-09T07:28:46.284316+00:00
-
- ## Poznańskie Centrum Superkomputerowo-Sieciowe | PCSS |
- - [http://www.man.poznan.pl](http://www.man.poznan.pl)
- - date_published: 2024-09-02T14:16:32.145692+00:00
-
- ## MPK Poznań Sp. z o.o.
- - [https://www.mpk.poznan.pl](https://www.mpk.poznan.pl)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ZFPiN – ZFPiN
- - [http://www.nano.put.poznan.pl](http://www.nano.put.poznan.pl)
- - date_published: 2024-09-02T14:05:24.139394+00:00
-
- ## Oddział Wielkopolski::Polskie Towarzystwo Informatyczne
- - [http://www.pti.poznan.pl](http://www.pti.poznan.pl)
- - date_published: 2024-01-25T21:34:24+00:00
-
- ## ROPS POZNAŃ - Regionalny Ośrodek Polityki Społecznej w Poznaniu
- - [http://www.rops.poznan.pl](http://www.rops.poznan.pl)
- - date_published: 2024-07-13T19:10:13.301891+00:00
-
- ## Nowości | Wydawnictwo PP
- - [https://wydawnictwo.put.poznan.pl](https://wydawnictwo.put.poznan.pl)
- - date_published: 2024-05-26T18:42:05.219175+00:00
-
- ## Witamy | Zamówienia Publiczne
- - [https://zamowienia-publiczne.put.poznan.pl](https://zamowienia-publiczne.put.poznan.pl)
- - date_published: 2024-05-26T18:41:44.604648+00:00
-
- ## Zintegrowane Centrum Obsługi – Witryna Zintegrowanego Centrum Obsługi Politechniki Poznańskiej
- - [https://zco.put.poznan.pl](https://zco.put.poznan.pl)
- - date_published: 2024-05-26T18:41:25.552801+00:00
-
- ## Zarząd Dróg Miejskich w Poznaniu
- - [https://zdm.poznan.pl](https://zdm.poznan.pl)
- - date_published: 2024-06-13T17:05:17.563156+00:00
 

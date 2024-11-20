@@ -1,3 +1,48 @@
+ ## Azienda sviluppo software e hardware custom | Develer®
+ - [https://develer.com](https://develer.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## - - - Fby Fabio Barzagli - - - Computer Music - - - Amiga musician since 1987 
+ - - -
+ - [http://fby.develer.com](http://fby.develer.com)
+ - date_published: 2010-05-20T12:17:18+00:00
+
+ ## Developer Monkey
+ - [http://develmonk.com](http://develmonk.com)
+ - date_published: 2024-06-23T08:14:06.857856+00:00
+
+ ## DEVELOP3D
+ - [https://develop3d.com](https://develop3d.com)
+ - date_published: 2024-07-10T11:29:17.993612+00:00
+
+ ## CRE Commercial Real Estate Development Resources - Developer.com
+ - [https://developer.com](https://developer.com)
+ - date_published: 2024-10-19T09:19:29.160767+00:00
+
+ ## The Developer Advocacy Handbook
+ - [https://developer-advocacy.com](https://developer-advocacy.com)
+ - date_published: 2022-10-21T14:39:02+00:00
+
+ ## lightswitch05 | Daniel
+ - [https://www.github.developerdan.com](https://www.github.developerdan.com)
+ - date_published: 2022-04-19T19:42:35+00:00
+
+ ## Developer DAO
+ - [https://www.developerdao.com](https://www.developerdao.com)
+ - date_published: 2024-04-29T03:11:23.921428+00:00
+
+ ## Okta Developer Day
+ - [https://developerday.com](https://developerday.com)
+ - date_published: 2024-09-10T08:18:37.355119+00:00
+
+ ## Developer Evangelism - home of the Developer Evangelist Handbook
+ - [https://developer-evangelism.com](https://developer-evangelism.com)
+ - date_published: 2024-07-04T06:22:53.701072+00:00
+
+ ## developerlife.com
+ - [https://developerlife.com](https://developerlife.com)
+ - date_published: 2024-07-07T01:45:16+00:00
+
  ## Developer Markepear: developer marketing resources from a startup CMO
  - [https://developermarkepear.com](https://developermarkepear.com)
  - date_published: 2024-05-03T00:00:00+00:00
@@ -2109,6 +2154,11 @@ A blog about programming, distributed systems and others
  - [https://www.dfprofiler.com](https://www.dfprofiler.com)
  - date_published: 2024-10-25T10:53:18.405652+00:00
 
+ ## Design for Real Life
+ - [https://dfrlbook.com](https://dfrlbook.com)
+ - date_published: 2024-11-19T06:25:13+00:00
+ - tags: ['book', 'web design']
+
  ## DFRobot Maker Community - A community dedicated to learning open source hardware and sharing maker stories.
  - [https://community.dfrobot.com](https://community.dfrobot.com)
  - date_published: 2024-03-18T00:00:00+00:00
@@ -3988,52 +4038,4 @@ A blog about programming, distributed systems and others
  ## Digital Legends Entertainment: 3D video games for mobile phones, smartphones and tablets
  - [https://digital-legends.com](https://digital-legends.com)
  - date_published: 2022-03-11T21:45:36+00:00
-
- ## DLG - Digital Luxury Group. The Leading Digital Agency for Luxury and Lifestyle Brands
- - [https://digitalluxurygroup.com](https://digitalluxurygroup.com)
- - date_published: 2024-09-16T07:52:29.961088+00:00
-
- ## digitally induced GmbH | We combine extensive software expertise with a startup mindset
- - [https://digitallyinduced.com](https://digitallyinduced.com)
- - date_published: 2024-05-01T05:11:19.188479+00:00
-
- ## IHP
- - [https://discuss.ihp.digitallyinduced.com](https://discuss.ihp.digitallyinduced.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies
- - [https://ihp.digitallyinduced.com](https://ihp.digitallyinduced.com)
- - date_published: 2023-10-25T13:52:33.020994+00:00
-
- ## DigitalMaas | Local Marketing Platform
- - [https://www.digitalmaas.com](https://www.digitalmaas.com)
- - date_published: 2020-01-06T11:18:30+00:00
-
- ## Web Design, SEO, Content Marketing - Macaw Digital Marketing
- - [https://digitalmacaw.com](https://digitalmacaw.com)
- - date_published: 2023-11-07T20:27:26+00:00
-
- ## Digital Maestro
- - [https://digitalmaestro.com](https://digitalmaestro.com)
- - date_published: 2024-06-18T10:23:42.673649+00:00
-
- ## Digital Maneuver
- - [https://digitalmaneuver.com](https://digitalmaneuver.com)
- - date_published: 2024-06-15T04:37:04.377201+00:00
-
- ## Digital Marketing World Forum | #DMWF Series | Conference
- - [https://digitalmarketing-conference.com](https://digitalmarketing-conference.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Marketing Resources from Digital Marketing Depot - Research, Webinars, Whitepapers, and More
- - [https://digitalmarketingdepot.com](https://digitalmarketingdepot.com)
- - date_published: 2024-07-07T07:48:25.644942+00:00
-
- ## Marketing Resources from Digital Marketing Depot - Research, Webinars, Whitepapers, and More
- - [https://downloads.digitalmarketingdepot.com](https://downloads.digitalmarketingdepot.com)
- - date_published: 2024-05-08T10:02:09.613373+00:00
-
- ## Digital Mars C, C++ and D Compilers
- - [https://digitalmars.com](https://digitalmars.com)
- - date_published: 2024-04-19T06:23:36+00:00
 

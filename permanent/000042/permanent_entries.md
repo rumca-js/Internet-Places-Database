@@ -1,3 +1,28 @@
+ ## Alyx
+ - [http://alyx.com](http://alyx.com)
+ - date_published: 2006-09-20T19:14:16+00:00
+ - tags: ['personal']
+
+ ## ALYX
+ - [https://www.alyxchain.com](https://www.alyxchain.com)
+ - date_published: 2024-01-25T17:25:06+00:00
+
+ ## Alzheimer's Buddy: 40Hz Therapy
+ - [https://alzheimersbuddy.com](https://alzheimersbuddy.com)
+ - date_published: 2024-01-26T14:02:26.464371+00:00
+
+ ## A Machine To Live In
+ - [http://amachinetolivein.com](http://amachinetolivein.com)
+ - date_published: 2024-06-15T19:55:49.758766+00:00
+
+ ## 株式会社Amadeus Code | 公式企業サイト
+ - [https://amadeuscode.com](https://amadeuscode.com)
+ - date_published: 2024-06-19T19:04:27.314051+00:00
+
+ ## Amadeus Discover
+ - [https://amadeus-discover.com](https://amadeus-discover.com)
+ - date_published: 2024-06-25T20:01:27.462173+00:00
+
  ## Amadeus-Hospitality/TravelClick | Pioneer in Hotel Software
  - [https://www.amadeus-hospitality.com](https://www.amadeus-hospitality.com)
  - date_published: 2022-10-17T07:37:06+00:00
@@ -4041,29 +4066,4 @@
  ## Microeconomics
  - [https://econs22.classes.andrewheiss.com](https://econs22.classes.andrewheiss.com)
  - date_published: 2022-06-09T00:55:36+00:00
-
- ## Program Evaluation - Program Evaluation for Public Service
- - [https://evalf22.classes.andrewheiss.com](https://evalf22.classes.andrewheiss.com)
- - date_published: 2022-10-03T15:37:20+00:00
-
- ## MPA 630: Data Science for Public Management
- - [https://statsf18.classes.andrewheiss.com](https://statsf18.classes.andrewheiss.com)
- - date_published: 2019-05-10T01:23:35+00:00
-
- ## BUS M 491R: Telling Stories with Data
- - [https://storiesf17.classes.andrewheiss.com](https://storiesf17.classes.andrewheiss.com)
- - date_published: 2017-12-04T22:22:53+00:00
-
- ## Andrew Hitz
- - [https://www.andrewhitz.com](https://www.andrewhitz.com)
- - date_published: 2023-11-29T15:50:04.319666+00:00
- - tags: ['personal']
-
- ## Andrew Isles Natural History Books
- - [https://www.andrewisles.com](https://www.andrewisles.com)
- - date_published: 2024-10-29T18:19:18.988106+00:00
-
- ## andrew | My writings, projects, and links
- - [https://andrewjudson.com](https://andrewjudson.com)
- - date_published: 2023-02-02T06:25:45+00:00
 

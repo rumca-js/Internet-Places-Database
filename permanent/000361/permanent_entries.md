@@ -1,3 +1,211 @@
+ ## Home - Digital Preservation Services - CLOCKSS
+ - [https://clockss.org](https://clockss.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## The Clockwork Pastor
+ - [http://clockworkpastor.org](http://clockworkpastor.org)
+ - date_published: 2024-09-03T22:54:28+00:00
+
+ ## Clojars
+ - [https://clojars.org](https://clojars.org)
+ - date_published: 2024-05-07T19:03:06.969996+00:00
+
+ ## Clojars Repository: /
+ - [https://repo.clojars.org](https://repo.clojars.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Clojerl
+ - [http://clojerl.org](http://clojerl.org)
+ - date_published: 2021-06-06T20:55:15+00:00
+
+ ## Clojure Archive
+ - [https://archive.clojure.org](https://archive.clojure.org)
+ - date_published: 2023-07-28T19:12:38+00:00
+
+ ## Clojure
+ - [https://clojure.org](https://clojure.org)
+ - date_published: 2023-10-25T21:08:00.189323+00:00
+
+ ## Clojure/conj 2015
+ - [http://2015.clojure-conj.org](http://2015.clojure-conj.org)
+ - date_published: 2016-08-05T14:37:21+00:00
+
+ ## Clojure/conj  – October 12-14, 2017 | Baltimore, MD
+ - [http://2017.clojure-conj.org](http://2017.clojure-conj.org)
+ - date_published: 2024-07-03T23:03:42.436728+00:00
+
+ ## Clojure/conj 2018
+ - [http://2018.clojure-conj.org](http://2018.clojure-conj.org)
+ - date_published: 2024-07-03T23:03:47.186891+00:00
+
+ ## CLOJURE/CONJ 2019 – The Conference for Clojure Users and Experts
+ - [http://2019.clojure-conj.org](http://2019.clojure-conj.org)
+ - date_published: 2024-07-03T23:03:53.155624+00:00
+
+ ## CLOJURE/CONJ 2023 – The Conference for Clojure Users and Experts
+ - [https://2023.clojure-conj.org](https://2023.clojure-conj.org)
+ - date_published: 2024-05-08T04:18:35.645835+00:00
+
+ ## Conj 2024
+ - [https://2024.clojure-conj.org](https://2024.clojure-conj.org)
+ - date_published: 2024-09-13T15:55:13+00:00
+
+ ## Dutch Clojure Days
+ - [https://clojuredays.org](https://clojuredays.org)
+ - date_published: 2024-01-11T16:20:10+00:00
+
+ ## Clojure Guides
+ - [http://clojure-doc.org](http://clojure-doc.org)
+ - date_published: 2024-07-06T18:12:01+00:00
+
+ ## Community-Powered Clojure Documentation and Examples | ClojureDocs
+ - [https://clojuredocs.org](https://clojuredocs.org)
+ - date_published: 2024-05-02T13:56:43.159253+00:00
+
+ ## ClojureScript
+ - [https://clojurescript.org](https://clojurescript.org)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## ClojureVerse
+ - [https://clojureverse.org](https://clojureverse.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Clojurists Together
+ - [https://clojuriststogether.org](https://clojuriststogether.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## ClojuTRE
+ - [https://clojutre.org](https://clojutre.org)
+ - date_published: 2021-04-15T11:59:26+00:00
+
+ ## Clonezilla - About
+ - [https://clonezilla.org](https://clonezilla.org)
+ - date_published: 2024-06-30T07:14:50.306230+00:00
+
+ ## The Cloud Appreciation Society - Cloud Appreciation Society
+ - [https://cloudappreciationsociety.org](https://cloudappreciationsociety.org)
+ - date_published: 2023-10-25T21:08:02.476071+00:00
+
+ ## Cloudbreak – Seattle's Citywide Live Music Fest
+ - [http://www.cloudbreakmusicfest.org](http://www.cloudbreakmusicfest.org)
+ - date_published: 2024-10-21T20:03:41.309020+00:00
+
+ ## Cloudburst Nukkit & Minecraft Server Software
+ - [https://cloudburstmc.org](https://cloudburstmc.org)
+ - date_published: 2024-10-22T10:43:17.109419+00:00
+
+ ## Cloud Carbon Footprint - An open source tool to measure and analyze cloud carbon emissions
+ - [https://www.cloudcarbonfootprint.org](https://www.cloudcarbonfootprint.org)
+ - date_published: 2024-06-27T21:42:29+00:00
+
+ ## CloudCV
+ - [https://cloudcv.org](https://cloudcv.org)
+ - date_published: 2022-02-28T20:22:01+00:00
+
+ ## EvalAI: Evaluating state of the art in AI
+ - [https://evalai.cloudcv.org](https://evalai.cloudcv.org)
+ - date_published: 2024-04-26T07:03:49+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://fabrik.cloudcv.org](http://fabrik.cloudcv.org)
+ - date_published: 2024-02-22T13:50:17+00:00
+
+ ## Cloud Foundry – Open Source Cloud Native Application Delivery
+ - [https://cloudfoundry.org](https://cloudfoundry.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## announce lists.cloudfoundry.org Group
+ - [https://lists.cloudfoundry.org](https://lists.cloudfoundry.org)
+ - date_published: 2024-09-18T22:17:03.144560+00:00
+
+ ## Tutorials by Cloud Foundry
+ - [https://tutorials.cloudfoundry.org](https://tutorials.cloudfoundry.org)
+ - date_published: 2024-01-06T21:46:04+00:00
+
+ ## CloudLand 2024: CloudLand
+ - [https://www.cloudland.org](https://www.cloudland.org)
+ - date_published: 2024-07-09T12:14:35.233734+00:00
+
+ ## CloudNativeFolks Community
+ - [https://blog.cloudnativefolks.org](https://blog.cloudnativefolks.org)
+ - date_published: 2023-10-25T21:08:05.587610+00:00
+
+ ## Cloud Publications
+ - [https://www.cloudpublications.org](https://www.cloudpublications.org)
+ - date_published: 2024-10-29T17:23:58+00:00
+
+ ## Cloud Security Alliance - UI
+ - [https://assets.cloudsecurityalliance.org](https://assets.cloudsecurityalliance.org)
+ - date_published: 2023-01-04T18:46:11+00:00
+
+ ## Home | CSA
+ - [https://cloudsecurityalliance.org](https://cloudsecurityalliance.org)
+ - date_published: 2024-05-02T12:57:40.469076+00:00
+
+ ## CSA Exams Platform
+ - [https://exams.cloudsecurityalliance.org](https://exams.cloudsecurityalliance.org)
+ - date_published: 2024-06-18T13:40:30.933596+00:00
+
+ ## CSA Training
+ - [https://knowledge.cloudsecurityalliance.org](https://knowledge.cloudsecurityalliance.org)
+ - date_published: 2024-06-18T13:40:26.046584+00:00
+
+ ## CloudShark Personal SaaS | qa | cafe
+ - [https://www.cloudshark.org](https://www.cloudshark.org)
+ - date_published: 2024-07-14T21:18:32.089890+00:00
+
+ ## Home - Cloudsplitter
+ - [https://cloudsplitter.org](https://cloudsplitter.org)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Home - Cloudsplitter
+ - [https://staging.cloudsplitter.org](https://staging.cloudsplitter.org)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Cloud Village
+ - [https://2019.cloud-village.org](https://2019.cloud-village.org)
+ - date_published: 2024-09-18T15:34:42.914666+00:00
+
+ ## Cloud Village
+ - [https://2020.cloud-village.org](https://2020.cloud-village.org)
+ - date_published: 2024-09-18T15:34:48.080545+00:00
+
+ ## Cloud Village
+ - [https://2021.cloud-village.org](https://2021.cloud-village.org)
+ - date_published: 2024-09-18T15:34:33.866862+00:00
+
+ ## Cloud Village
+ - [https://2022.cloud-village.org](https://2022.cloud-village.org)
+ - date_published: 2024-09-18T15:34:40.972096+00:00
+
+ ## Cloud Village
+ - [https://bsidessf23.cloud-village.org](https://bsidessf23.cloud-village.org)
+ - date_published: 2024-09-18T15:34:29.464991+00:00
+
+ ## Cloud Village
+ - [https://bsidessf24.cloud-village.org](https://bsidessf24.cloud-village.org)
+ - date_published: 2024-09-18T15:34:46.081714+00:00
+
+ ## Cloud Village
+ - [https://cloud-village.org](https://cloud-village.org)
+ - date_published: 2024-06-15T16:06:40.012359+00:00
+
+ ## Cloud Village
+ - [https://dc31.cloud-village.org](https://dc31.cloud-village.org)
+ - date_published: 2024-09-18T15:34:31.391644+00:00
+
+ ## Cloud Village
+ - [https://dc32.cloud-village.org](https://dc32.cloud-village.org)
+ - date_published: 2024-09-18T15:34:50.647866+00:00
+
+ ## Cloud Village
+ - [https://rsa2024.cloud-village.org](https://rsa2024.cloud-village.org)
+ - date_published: 2024-09-18T15:34:44.567674+00:00
+
+ ## LAW AND RELIGION FORUM
+ - [http://clrforum.org](http://clrforum.org)
+ - date_published: 2024-06-28T13:42:20+00:00
+
  ## ClrHome
  - [http://clrhome.org](http://clrhome.org)
  - date_published: 2024-07-09T23:32:59.903210+00:00
@@ -3821,217 +4029,4 @@
  ## Cowmoose Travel! - Travel Company
  - [http://www.cowmoose.org](http://www.cowmoose.org)
  - date_published: 2023-05-27T16:35:16+00:00
-
- ## Scholarships for Black Students UK | Cowrie Scholarships
- - [https://cowriescholarshipfoundation.org](https://cowriescholarshipfoundation.org)
- - date_published: 2024-10-20T04:17:37.251410+00:00
-
- ## CoWriter - The AI platform for creative writing
- - [https://cowriter.org](https://cowriter.org)
- - date_published: 2024-06-19T19:52:48.573893+00:00
-
- ## Coyote Tracks
- - [https://coyotetracks.org](https://coyotetracks.org)
- - date_published: 2024-08-02T16:51:09+00:00
-
- ## Coyote Cartography
- - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
- - date_published: 2023-10-25T21:10:44.276462+00:00
-
- ## CozoDB v0.7
- - [https://docs.cozodb.org](https://docs.cozodb.org)
- - date_published: 2023-10-25T21:10:46.284600+00:00
-
- ## CozoDB: embedded Datalog, performant graphs
- - [https://www.cozodb.org](https://www.cozodb.org)
- - date_published: 2023-06-01T02:45:22+00:00
-
- ## CozyNet Blog
- - [https://cozynet.org](https://cozynet.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## CPA : Association Collectif Performance & Acquisition
- - [https://www.cpa-france.org](https://www.cpa-france.org)
- - date_published: 2024-06-25T10:10:56+00:00
-
- ## Inicio - Jesuitas | Conferencia de Provinciales Jesuitas de América Latina y El Caribe - CPAL
- - [https://cpalsj.org](https://cpalsj.org)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## The Comprehensive Perl Archive Network - www.cpan.org
- - [https://cpan.org](https://cpan.org)
- - date_published: 2024-04-25T09:30:31+00:00
- - tags: ['language libraries', 'perl']
-
- ## the status of CPAN mirrors
- - [http://mirrors.cpan.org](http://mirrors.cpan.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Human Verification
- - [https://rt.cpan.org](https://rt.cpan.org)
- - date_published: 2024-08-18T19:28:08.298747+00:00
-
- ## Search the CPAN - metacpan.org
- - [https://search.cpan.org](https://search.cpan.org)
- - date_published: 2024-04-25T08:54:12+00:00
- - tags: ['internal search engine']
-
- ## CPAN Testers Matrix
- - [http://matrix.cpantesters.org](http://matrix.cpantesters.org)
- - date_published: 2024-08-18T19:27:20.639345+00:00
-
- ## CPB | A Private Corporation Funded by the American People
- - [https://cpb.org](https://cpb.org)
- - date_published: 2024-07-01T21:20:01+00:00
-
- ## Early Learning Academies | R'Club
- - [http://www.cpchildcare.org](http://www.cpchildcare.org)
- - date_published: 2024-06-27T07:12:39.244914+00:00
-
- ## cpdnboinc
- - [https://cpdn.org](https://cpdn.org)
- - date_published: 2024-05-11T07:52:21.697664+00:00
-
- ## CPDP Computers, Privacy and Data Protection conference
- - [https://cpdpconferences.org](https://cpdpconferences.org)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## California Pan-Ethnic Health Network
- - [https://cpehn.org](https://cpehn.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Clear Physics
- - [https://cphysics.org](https://cphysics.org)
- - date_published: 2023-10-25T21:10:48.724655+00:00
- - tags: ['quantum', 'physics']
-
- ## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
- - [https://cpj.org](https://cpj.org)
- - date_published: 2023-10-25T21:10:54.852143+00:00
-
- ## California Pacific Medical Center | Sutter Health
- - [http://www.cpmc.org](http://www.cpmc.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## CRPM
- - [https://cloud.cpmr.org](https://cloud.cpmr.org)
- - date_published: 2024-06-05T07:27:03.817382+00:00
-
- ## CPMR – Conference of Peripheral Maritime Regions
- - [https://cpmr.org](https://cpmr.org)
- - date_published: 2024-05-02T09:57:44.945558+00:00
- - tags: ['conference', 'maritime']
-
- ## CPMR Atlantic Arc Commission – Website of the CPMR AAC
- - [https://cpmr-atlantic.org](https://cpmr-atlantic.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## CPMR Balkan & Black Sea Commission – Website of the CPMR BBSC
- - [https://cpmr-balkan-blacksea.org](https://cpmr-balkan-blacksea.org)
- - date_published: 2024-06-05T07:27:21.687034+00:00
-
- ## CPMR Baltic Sea Commission – Website of the CPMR BSC
- - [https://cpmr-baltic.org](https://cpmr-baltic.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## CPMR Intermediterranean Commission – Website of the CPMR IMC
- - [https://cpmr-intermed.org](https://cpmr-intermed.org)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home | CPMR is 50
- - [https://cpmris50.org](https://cpmris50.org)
- - date_published: 2024-06-05T07:26:55.095274+00:00
-
- ## CPMR Islands Commission – Website of the CPMR IC
- - [https://cpmr-islands.org](https://cpmr-islands.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## CPMR North Sea Commission – Website of the CPMR NSC
- - [https://cpmr-northsea.org](https://cpmr-northsea.org)
- - date_published: 2024-06-05T07:27:17.957121+00:00
-
- ## The C++ Alliance
- - [https://cppalliance.org](https://cppalliance.org)
- - date_published: 2024-05-09T07:11:45.982423+00:00
-
- ## ArchivesSpace Public Interface | ArchivesSpace Public Interface
- - [http://cpparchives.org](http://cpparchives.org)
- - date_published: 2024-08-18T20:00:59.554123+00:00
-
- ## CppCon | The C++ Conference
- - [https://cppcon.org](https://cppcon.org)
- - date_published: 2023-10-25T21:10:58.474003+00:00
-
- ## CppCache - Online Store
- - [https://retail.cppcon.org](https://retail.cppcon.org)
- - date_published: 2024-09-02T12:36:03.832752+00:00
-
- ## The College of Physicians of Philadelphia Digital Library
- - [http://cppdigitallibrary.org](http://cppdigitallibrary.org)
- - date_published: 2024-08-18T20:01:09.596629+00:00
-
- ## C++ FRench User Group - C++FRUG
- - [http://cppfrug.org](http://cppfrug.org)
- - date_published: 2021-08-14T21:21:22+00:00
-
- ## cpplocate
- - [https://cpplocate.org](https://cpplocate.org)
- - date_published: 2022-01-10T08:47:00+00:00
-
- ## C++ London | Meetup
- - [http://cpplondon.org](http://cpplondon.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## cpp-netlib: The C++ Network Library
- - [https://cpp-netlib.org](https://cpp-netlib.org)
- - date_published: 2023-09-26T06:22:53+00:00
-
- ## C++Now
- - [https://cppnow.org](https://cppnow.org)
- - date_published: 2024-05-08T08:50:01.966313+00:00
- - tags: ['online conference', 'c++']
-
- ## C++Now Schedule
- - [https://schedule.cppnow.org](https://schedule.cppnow.org)
- - date_published: 2024-06-27T10:41:32.990968+00:00
-
- ## CPP – Conseil Paritaire de la Publicité
- - [https://www.cpp-pub.org](https://www.cpp-pub.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## 2024年全球C++及系统软件技术大会 | 官方网站
- - [https://cpp-summit.org](https://cpp-summit.org)
- - date_published: 2024-05-12T04:52:43.657674+00:00
-
- ## C++ Usergroup Vienna
- - [https://cppusergroupvienna.org](https://cppusergroupvienna.org)
- - date_published: 2024-07-04T07:39:07.534640+00:00
-
- ## Colorado Public Radio - Colorado News You Trust
- - [https://cpr.org](https://cpr.org)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## CPR Give Now | CPR
- - [https://donate.cpr.org](https://donate.cpr.org)
- - date_published: 2024-05-01T04:46:09.273707+00:00
-
- ## CPR Give Now | CPR
- - [https://secure.cpr.org](https://secure.cpr.org)
- - date_published: 2024-06-15T21:52:51+00:00
-
- ## Colorado Public Radio Shop
- - [https://shop.cpr.org](https://shop.cpr.org)
- - date_published: 2024-05-01T04:46:11.101896+00:00
-
- ## Playlist 2.0
- - [https://playlist.cprnetwork.org](https://playlist.cprnetwork.org)
- - date_published: 2024-09-19T21:22:23.473732+00:00
-
- ## Systems Verification Group Homepage
- - [https://www.cprover.org](https://www.cprover.org)
- - date_published: 2024-05-04T16:03:05.175811+00:00
-
- ## First Transcontinental Railroad - Central Pacific Railroad Photographic History Museum
- - [https://cprr.org](https://cprr.org)
- - date_published: 2024-01-09T03:38:43.521507+00:00
 

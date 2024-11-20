@@ -1,3 +1,183 @@
+ ## Center for Faculty Excellence
+ - [https://faculty.uams.edu](https://faculty.uams.edu)
+ - date_published: 2024-06-20T23:30:10.858641+00:00
+
+ ## Home Page
+ - [http://giving.uams.edu](http://giving.uams.edu)
+ - date_published: 2024-06-20T23:29:11.831157+00:00
+
+ ## UAMS Graduate School
+ - [https://gradschool.uams.edu](https://gradschool.uams.edu)
+ - date_published: 2024-06-19T09:54:19+00:00
+
+ ## College of Health Professions
+ - [https://healthprofessions.uams.edu](https://healthprofessions.uams.edu)
+ - date_published: 2024-06-20T23:30:08.109636+00:00
+
+ ## Join Our Talent Community | UAMS Human Resources
+ - [https://jobs.uams.edu](https://jobs.uams.edu)
+ - date_published: 2024-06-20T23:30:47.405536+00:00
+
+ ## UAMS Library
+ - [http://library.uams.edu](http://library.uams.edu)
+ - date_published: 2024-06-20T23:30:18.954256+00:00
+
+ ## University of Arkansas for Medical Sciences
+ - [https://maps.uams.edu](https://maps.uams.edu)
+ - date_published: 2024-06-20T23:29:09.051126+00:00
+
+ ## UAMS College of Medicine
+ - [https://medicine.uams.edu](https://medicine.uams.edu)
+ - date_published: 2024-06-18T09:57:25+00:00
+
+ ## UAMS News
+ - [https://news.uams.edu](https://news.uams.edu)
+ - date_published: 2024-06-20T23:30:22.176485+00:00
+
+ ## UAMS Northwest Regional Campus
+ - [https://northwestcampus.uams.edu](https://northwestcampus.uams.edu)
+ - date_published: 2024-06-03T10:12:57+00:00
+
+ ## UAMS College of Nursing
+ - [https://nursing.uams.edu](https://nursing.uams.edu)
+ - date_published: 2024-05-29T08:56:19+00:00
+
+ ## UAMS Office of Academic Services
+ - [https://oas.uams.edu](https://oas.uams.edu)
+ - date_published: 2024-06-20T23:29:46.637919+00:00
+
+ ## UAMS College of Pharmacy
+ - [https://pharmacy.uams.edu](https://pharmacy.uams.edu)
+ - date_published: 2024-06-20T09:44:24+00:00
+
+ ## UAMS Fay W. Boozman College of Public Health
+ - [https://publichealth.uams.edu](https://publichealth.uams.edu)
+ - date_published: 2024-06-17T09:16:36+00:00
+
+ ## UAMS Regional Campuses
+ - [https://regionalprograms.uams.edu](https://regionalprograms.uams.edu)
+ - date_published: 2024-06-13T10:22:32+00:00
+
+ ## Office of the University Registrar
+ - [https://registrar.uams.edu](https://registrar.uams.edu)
+ - date_published: 2024-06-20T23:30:14.755977+00:00
+
+ ## UAMS Research and Innovation
+ - [https://research.uams.edu](https://research.uams.edu)
+ - date_published: 2024-06-19T09:54:19+00:00
+
+ ## Student Financial Services | UAMS Students
+ - [https://studentfinancialservices.uams.edu](https://studentfinancialservices.uams.edu)
+ - date_published: 2024-06-20T23:30:33.932895+00:00
+
+ ## Campus Life and Student Support Services | UAMS Students
+ - [https://studentlife.uams.edu](https://studentlife.uams.edu)
+ - date_published: 2024-06-20T23:30:51.014873+00:00
+
+ ## UAMS Students
+ - [https://students.uams.edu](https://students.uams.edu)
+ - date_published: 2024-06-20T09:44:24+00:00
+
+ ## Educational and Student Success Center | UAMS Students
+ - [https://studentsuccess.uams.edu](https://studentsuccess.uams.edu)
+ - date_published: 2024-06-20T23:29:02.253655+00:00
+
+ ## University of Arkansas for Medical Sciences (UAMS)
+ - [https://uams.edu](https://uams.edu)
+ - date_published: 2024-01-16T21:32:23+00:00
+
+ ## University of Arkansas for Medical Sciences (UAMS)
+ - [https://web.uams.edu](https://web.uams.edu)
+ - date_published: 2024-01-16T21:32:23+00:00
+
+ ## Serving Arkansas and Beyond
+ - [https://application.uark.edu](https://application.uark.edu)
+ - date_published: 2024-07-08T14:52:58.962497+00:00
+
+ ## Campus Calendar
+ - [https://calendars.uark.edu](https://calendars.uark.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Log On
+ - [https://campusdata.uark.edu](https://campusdata.uark.edu)
+ - date_published: 2024-07-08T14:53:02.381378+00:00
+
+ ## University of Arkansas - Fayetteville
+ - [http://campusmaps.uark.edu](http://campusmaps.uark.edu)
+ - date_published: 2024-07-08T14:52:40.733484+00:00
+
+ ## Form Plus Function
+ - [http://designblog.uark.edu](http://designblog.uark.edu)
+ - date_published: 2024-07-08T14:52:44.532568+00:00
+
+ ## Campus Directory | University of Arkansas
+ - [https://directory.uark.edu](https://directory.uark.edu)
+ - date_published: 2024-07-08T14:53:10.626246+00:00
+
+ ## Emergency Preparedness | Campus Safety | University of Arkansas
+ - [http://emergency.uark.edu](http://emergency.uark.edu)
+ - date_published: 2024-07-08T14:53:14.193100+00:00
+
+ ## Fay Jones School of Architecture and Design | University of Arkansas
+ - [https://fayjones.uark.edu](https://fayjones.uark.edu)
+ - date_published: 2024-05-08T11:43:35.793457+00:00
+
+ ## Blackboard Learn
+ - [https://learn.uark.edu](https://learn.uark.edu)
+ - date_published: 2004-07-08T14:53:03+00:00
+
+ ## Serving Arkansas and Beyond
+ - [http://m.uark.edu](http://m.uark.edu)
+ - date_published: 2024-07-08T14:53:18.132454+00:00
+
+ ## News | University of Arkansas
+ - [https://news.uark.edu](https://news.uark.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Online Giving
+ - [https://onlinegiving.uark.edu](https://onlinegiving.uark.edu)
+ - date_published: 2024-07-08T14:52:55.367183+00:00
+
+ ## Home | Report | University of Arkansas
+ - [http://report.uark.edu](http://report.uark.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## University of Arkansas Community Design Center
+ - [https://uacdc.uark.edu](https://uacdc.uark.edu)
+ - date_published: 2024-07-08T14:53:15.407312+00:00
+
+ ## UAConnect | University of Arkansas
+ - [https://uaconnect.uark.edu](https://uaconnect.uark.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Serving Arkansas and Beyond
+ - [http://uark.edu](http://uark.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Visit | University of Arkansas
+ - [http://visit.uark.edu](http://visit.uark.edu)
+ - date_published: 2024-07-08T14:53:08.139248+00:00
+
+ ## Sam M. Walton College of Business
+ - [https://walton.uark.edu](https://walton.uark.edu)
+ - date_published: 2024-10-14T19:30:58.491304+00:00
+
+ ## OneLogin
+ - [https://portal.uarts.edu](https://portal.uarts.edu)
+ - date_published: 2024-06-12T05:31:51+00:00
+
+ ## University of the Arts
+ - [https://uarts.edu](https://uarts.edu)
+ - date_published: 2024-05-08T05:03:49.738636+00:00
+
+ ## Job Search
+ - [https://jobs.uasystem.edu](https://jobs.uasystem.edu)
+ - date_published: 2024-07-01T21:52:08.438808+00:00
+
+ ## University of Alabama System
+ - [https://uasystem.edu](https://uasystem.edu)
+ - date_published: 2024-07-01T21:49:33+00:00
+
  ## edició UBWeb - UB
  - [https://estatics.web.ub.edu](https://estatics.web.ub.edu)
  - date_published: 2024-07-07T01:40:44.842312+00:00
@@ -3844,184 +4024,4 @@
  ## School of Natural Sciences
  - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
  - date_published: 2024-07-01T21:12:30+00:00
-
- ## Home | Newsroom
- - [http://news.ucmerced.edu](http://news.ucmerced.edu)
- - date_published: 2024-07-01T21:41:05+00:00
-
- ## University of California, Merced | Off-Campus Housing Search
- - [http://och.ucmerced.edu](http://och.ucmerced.edu)
- - date_published: 2024-07-01T23:19:06.136319+00:00
-
- ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
- - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
- - date_published: 2024-07-01T23:17:44.171009+00:00
-
- ## UC Merced Postdoctoral Scholars
- - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
- - date_published: 2024-07-01T23:04:19+00:00
-
- ## Home | Office of the Executive Vice Chancellor and Provost
- - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
- - date_published: 2024-07-01T22:56:00+00:00
-
- ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
- - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Welcome to Office of Research Development | Office of Research Development
- - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
- - date_published: 2024-07-01T23:17:01.432396+00:00
-
- ## Office of the Registrar | Supporting the Academic Mission
- - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
- - date_published: 2024-07-01T23:11:18.492407+00:00
-
- ## Office of Research and Economic Development
- - [https://research.ucmerced.edu](https://research.ucmerced.edu)
- - date_published: 2024-07-01T22:53:38+00:00
-
- ## Home | Academic Senate
- - [http://senate.ucmerced.edu](http://senate.ucmerced.edu)
- - date_published: 2024-07-01T22:59:39+00:00
-
- ## Sponsored Projects Office
- - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## School of Social Sciences, Humanities and Arts
- - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
- - date_published: 2024-07-01T20:39:06+00:00
-
- ## Home | Student Affairs
- - [https://studentaffairs.ucmerced.edu](https://studentaffairs.ucmerced.edu)
- - date_published: 2024-07-01T21:00:27+00:00
-
- ## Students First Center | Phone: 209-228-7178
- - [https://studentsfirst.ucmerced.edu](https://studentsfirst.ucmerced.edu)
- - date_published: 2024-07-01T22:32:00+00:00
-
- ## Division of Undergraduate Education
- - [https://ue.ucmerced.edu](https://ue.ucmerced.edu)
- - date_published: 2024-07-01T23:16:45.680457+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://vllab1.ucmerced.edu](http://vllab1.ucmerced.edu)
- - date_published: 2018-04-18T23:18:39+00:00
-
- ## VLLab - UC Merced
- - [http://vllab.ucmerced.edu](http://vllab.ucmerced.edu)
- - date_published: 2023-03-12T09:07:46+00:00
-
- ## Home | University Writing Center
- - [https://writingcenter.ucmerced.edu](https://writingcenter.ucmerced.edu)
- - date_published: 2024-07-01T23:18:40.485463+00:00
-
- ## The Karen Merritt Writing Program
- - [https://writingprogram.ucmerced.edu](https://writingprogram.ucmerced.edu)
- - date_published: 2024-05-07T20:56:22.838187+00:00
-
- ## Writing Studies
- - [https://writingstudies.ucmerced.edu](https://writingstudies.ucmerced.edu)
- - date_published: 2024-07-01T23:18:04.509540+00:00
-
- ## University of California, Merced
- - [https://www.ucmerced.edu](https://www.ucmerced.edu)
- - date_published: 2024-05-07T20:56:17.110274+00:00
-
- ## Home | IT Accessibility
- - [https://accessibility.its.uconn.edu](https://accessibility.its.uconn.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home | Aurora
- - [https://accessibility.media.uconn.edu](https://accessibility.media.uconn.edu)
- - date_published: 2024-07-01T23:18:24+00:00
-
- ## Home | Accessibility
- - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Home | Accounting Department
- - [http://accounting.business.uconn.edu](http://accounting.business.uconn.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home | Undergraduate Admissions
- - [https://admissions.uconn.edu](https://admissions.uconn.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## UConn Alert | Home
- - [http://alert.uconn.edu](http://alert.uconn.edu)
- - date_published: 2024-07-01T23:20:39.740632+00:00
-
- ## UConn School of Business | Office of External and Alumni Engagement
- - [http://alumni.business.uconn.edu](http://alumni.business.uconn.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home | Aurora
- - [https://arthur-parzygnat.uconn.edu](https://arthur-parzygnat.uconn.edu)
- - date_published: 2024-05-04T14:40:31.233891+00:00
-
- ## Home | Aurora
- - [https://aurora.media.uconn.edu](https://aurora.media.uconn.edu)
- - date_published: 2024-06-22T05:42:50+00:00
-
- ## Home | Aurora
- - [https://aurora.uconn.edu](https://aurora.uconn.edu)
- - date_published: 2024-06-22T05:42:50+00:00
-
- ## Home | Avery Point
- - [https://averypoint.uconn.edu](https://averypoint.uconn.edu)
- - date_published: 2024-07-01T23:19:55.132584+00:00
-
- ## University of Connecticut | Brand Standards
- - [https://brand.uconn.edu](https://brand.uconn.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Home | Business Law
- - [http://businesslaw.business.uconn.edu](http://businesslaw.business.uconn.edu)
- - date_published: 2024-07-01T23:32:59+00:00
-
- ## UConn School of Business | School of Business
- - [https://business.uconn.edu](https://business.uconn.edu)
- - date_published: 2024-05-07T20:56:51.424555+00:00
-
- ## Home | Business Career Development Office
- - [https://career.business.uconn.edu](https://career.business.uconn.edu)
- - date_published: 2024-07-01T22:05:27+00:00
-
- ## Home | Connecticut Center for Economic Analysis
- - [http://ccea.uconn.edu](http://ccea.uconn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## | Connecticut Center for Entrepreneurship and Innovation
- - [http://ccei.business.uconn.edu](http://ccei.business.uconn.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## | Connecticut Center for Entrepreneurship and Innovation
- - [https://ccei.uconn.edu](https://ccei.uconn.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home | Department of Chemistry
- - [http://chemistry.uconn.edu](http://chemistry.uconn.edu)
- - date_published: 2024-10-19T04:47:38.579363+00:00
-
- ## The 2024 Periodical Cicada Emergence | Periodical Cicada Information Pages
- - [https://cicadas.uconn.edu](https://cicadas.uconn.edu)
- - date_published: 2024-07-17T04:52:21+00:00
-
- ## Home | Connecticut Information Technology Institute
- - [http://citi.uconn.edu](http://citi.uconn.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Home | College of Liberal Arts and Sciences
- - [https://clas.uconn.edu](https://clas.uconn.edu)
- - date_published: 2024-07-21T01:27:03+00:00
-
- ## University of Connecticut | University Communications
- - [https://communications.uconn.edu](https://communications.uconn.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Home | Office of University Compliance
- - [https://compliance.uconn.edu](https://compliance.uconn.edu)
- - date_published: 2024-03-05T00:00:00+00:00
 

@@ -1,3 +1,31 @@
+ ## Blog - Bitergia
+ - [https://blog.bitergia.com](https://blog.bitergia.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## bitesandtickles - wedding photography business resources and presets
+ - [https://bitesandtickles.com](https://bitesandtickles.com)
+ - date_published: 2021-06-11T19:09:56+00:00
+
+ ## Bitesize Bio: Life Science & Bioscience Articles For Researchers
+ - [https://bitesizebio.com](https://bitesizebio.com)
+ - date_published: 2023-10-25T13:01:20.829391+00:00
+
+ ## CRISPR Unedited
+ - [https://crisprunedited.bitesizebio.com](https://crisprunedited.bitesizebio.com)
+ - date_published: 2024-08-19T09:51:52.688861+00:00
+
+ ## Cryo-Talk
+ - [https://cryo-talk.bitesizebio.com](https://cryo-talk.bitesizebio.com)
+ - date_published: 2024-08-19T09:52:04.176448+00:00
+
+ ## Bitesize Bio
+ - [https://events.bitesizebio.com](https://events.bitesizebio.com)
+ - date_published: 2024-08-19T09:52:00.166343+00:00
+
+ ## Flow Stars
+ - [https://flowstars.bitesizebio.com](https://flowstars.bitesizebio.com)
+ - date_published: 2024-08-19T09:52:09.527090+00:00
+
  ## Life Science Marketing | Bitesize Bio Content Marketing
  - [https://lifesciencemarketing.bitesizebio.com](https://lifesciencemarketing.bitesizebio.com)
  - date_published: 2024-02-22T00:00:00+00:00
@@ -4025,33 +4053,4 @@
  ## List: Reading list | Curated by Kathleen Underwood | Medium
  - [http://www.blogpatrol.com](http://www.blogpatrol.com)
  - date_published: 2024-10-19T04:29:09.514806+00:00
-
- ## Blogpocket
- - [https://blogpocket.com](https://blogpocket.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Mastodon
- - [https://federate.blogpocket.com](https://federate.blogpocket.com)
- - date_published: 2024-07-10T09:05:19.297150+00:00
-
- ## Blogpocket Social - Blogpocket en inglés
- - [https://social.blogpocket.com](https://social.blogpocket.com)
- - date_published: 2024-07-10T09:05:20.042638+00:00
-
- ## Blog Reign - Blogging Lifestyle and The Journey
- - [https://blogreign.com](https://blogreign.com)
- - date_published: 2024-05-02T11:22:13.338215+00:00
-
- ## VoIPWatch
- - [http://andyabramson.blogs.com](http://andyabramson.blogs.com)
- - date_published: 2024-06-27T09:10:57.097659+00:00
-
- ## BlatherWatch
- - [http://blatherwatch.blogs.com](http://blatherwatch.blogs.com)
- - date_published: 2024-06-28T21:23:51.611889+00:00
-
- ## Cierpliwości...
- - [http://blogs.com](http://blogs.com)
- - date_published: 2024-06-27T07:30:10+00:00
- - tags: ['blogs']
 

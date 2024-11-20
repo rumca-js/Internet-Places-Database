@@ -1,3 +1,223 @@
+ ## Sabdkosh
+ - [https://hif.wiktionary.org](https://hif.wiktionary.org)
+ - date_published: 2024-05-31T20:19:26+00:00
+
+ ## विक्षनरी
+ - [https://hi.m.wiktionary.org](https://hi.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:14+00:00
+
+ ## विक्षनरी
+ - [https://hi.wiktionary.org](https://hi.wiktionary.org)
+ - date_published: 2024-06-01T02:38:11+00:00
+
+ ## Wiktionary
+ - [https://hr.m.wiktionary.org](https://hr.m.wiktionary.org)
+ - date_published: 2024-09-03T04:15:21+00:00
+
+ ## Wiktionary
+ - [https://hr.wiktionary.org](https://hr.wiktionary.org)
+ - date_published: 2024-05-31T18:36:19+00:00
+
+ ## Wikisłownik
+ - [https://hsb.m.wiktionary.org](https://hsb.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:40+00:00
+
+ ## Wikisłownik
+ - [https://hsb.wiktionary.org](https://hsb.wiktionary.org)
+ - date_published: 2024-06-01T12:27:35+00:00
+
+ ## Wt/ht - Wikimedia Incubator
+ - [https://ht.wiktionary.org](https://ht.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wikiszótár
+ - [https://hu.m.wiktionary.org](https://hu.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikiszótár
+ - [https://hu.wiktionary.org](https://hu.wiktionary.org)
+ - date_published: 2024-06-11T12:31:20+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.m.wiktionary.org](https://hy.m.wiktionary.org)
+ - date_published: 2024-09-03T13:23:54+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.wiktionary.org](https://hy.wiktionary.org)
+ - date_published: 2024-05-31T17:49:59+00:00
+
+ ## Western Armenian Wiktionary - Wikimedia Incubator
+ - [https://hyw.wiktionary.org](https://hyw.wiktionary.org)
+ - date_published: 2024-07-12T04:17:26.525687+00:00
+
+ ## Wiktionario
+ - [https://ia.m.wiktionary.org](https://ia.m.wiktionary.org)
+ - date_published: 2024-09-04T02:56:03+00:00
+
+ ## Wiktionario
+ - [https://ia.wiktionary.org](https://ia.wiktionary.org)
+ - date_published: 2024-05-31T14:27:29+00:00
+
+ ## Wikikamus
+ - [https://id.m.wiktionary.org](https://id.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:43+00:00
+
+ ## Wikikamus
+ - [https://id.wiktionary.org](https://id.wiktionary.org)
+ - date_published: 2024-06-11T12:31:41+00:00
+
+ ## Wiktionary
+ - [https://ie.m.wiktionary.org](https://ie.m.wiktionary.org)
+ - date_published: 2024-09-04T03:39:47+00:00
+
+ ## Wiktionary
+ - [https://ie.wiktionary.org](https://ie.wiktionary.org)
+ - date_published: 2024-06-01T07:34:15+00:00
+
+ ## Ogbá ogbolo - Wt/igl - Wikimedia Incubator
+ - [https://igl.wiktionary.org](https://igl.wiktionary.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Wiktionary
+ - [https://ig.m.wiktionary.org](https://ig.m.wiktionary.org)
+ - date_published: 2024-09-03T15:34:49+00:00
+
+ ## Wiktionary
+ - [https://ig.wiktionary.org](https://ig.wiktionary.org)
+ - date_published: 2024-05-31T20:20:21+00:00
+
+ ## Wiktionary
+ - [https://ik.m.wiktionary.org](https://ik.m.wiktionary.org)
+ - date_published: 2024-09-03T07:24:36+00:00
+
+ ## Wiktionary
+ - [https://ik.wiktionary.org](https://ik.wiktionary.org)
+ - date_published: 2024-05-31T13:33:02+00:00
+
+ ## Wikivortaro
+ - [http://io.m.wiktionary.org](http://io.m.wiktionary.org)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Wikivortaro
+ - [https://io.wiktionary.org](https://io.wiktionary.org)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Wikiorðabók
+ - [https://is.m.wiktionary.org](https://is.m.wiktionary.org)
+ - date_published: 2024-09-14T01:28:54+00:00
+
+ ## Wikiorðabók
+ - [https://is.wiktionary.org](https://is.wiktionary.org)
+ - date_published: 2024-06-12T10:52:31+00:00
+
+ ## Wikizionario
+ - [https://it.m.wiktionary.org](https://it.m.wiktionary.org)
+ - date_published: 2024-09-17T09:00:56+00:00
+
+ ## Wikizionario
+ - [https://it.wiktionary.org](https://it.wiktionary.org)
+ - date_published: 2024-06-14T08:48:07+00:00
+
+ ## Wiktionary
+ - [https://iu.m.wiktionary.org](https://iu.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:45+00:00
+
+ ## Wiktionary
+ - [https://iu.wiktionary.org](https://iu.wiktionary.org)
+ - date_published: 2024-06-10T13:00:05+00:00
+
+ ## Wiktionary
+ - [https://ja.m.wiktionary.org](https://ja.m.wiktionary.org)
+ - date_published: 2024-09-16T11:47:55+00:00
+
+ ## Wiktionary
+ - [https://ja.wiktionary.org](https://ja.wiktionary.org)
+ - date_published: 2024-06-15T03:19:08+00:00
+
+ ## Wiktionary
+ - [https://jbo.m.wiktionary.org](https://jbo.m.wiktionary.org)
+ - date_published: 2024-09-04T03:29:53+00:00
+
+ ## Wiktionary
+ - [https://jbo.wiktionary.org](https://jbo.wiktionary.org)
+ - date_published: 2024-06-01T05:32:21+00:00
+
+ ## Wikisastra, bausastra mardika
+ - [https://jv.m.wiktionary.org](https://jv.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:46+00:00
+
+ ## Wikisastra, bausastra mardika
+ - [https://jv.wiktionary.org](https://jv.wiktionary.org)
+ - date_published: 2024-06-15T02:37:20+00:00
+
+ ## Wiktionary
+ - [https://kaa.m.wiktionary.org](https://kaa.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:46+00:00
+
+ ## Wiktionary
+ - [https://kaa.wiktionary.org](https://kaa.wiktionary.org)
+ - date_published: 2024-06-14T10:43:20+00:00
+
+ ## Asebter agejdan - Wt/kab - Wikimedia Incubator
+ - [https://kab.wiktionary.org](https://kab.wiktionary.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## ვიქსიკონი
+ - [https://ka.m.wiktionary.org](https://ka.m.wiktionary.org)
+ - date_published: 2024-09-04T01:02:58+00:00
+
+ ## ვიქსიკონი
+ - [https://ka.wiktionary.org](https://ka.wiktionary.org)
+ - date_published: 2024-06-12T08:29:08+00:00
+
+ ## Википсалъалъэ
+ - [https://kbd.m.wiktionary.org](https://kbd.m.wiktionary.org)
+ - date_published: 2024-09-04T03:20:00+00:00
+
+ ## Википсалъалъэ
+ - [https://kbd.wiktionary.org](https://kbd.wiktionary.org)
+ - date_published: 2024-06-01T09:25:52+00:00
+
+ ## Swánga̱lyiatwuki
+ - [https://kcg.m.wiktionary.org](https://kcg.m.wiktionary.org)
+ - date_published: 2024-09-04T03:08:44+00:00
+
+ ## Swánga̱lyiatwuki
+ - [https://kcg.wiktionary.org](https://kcg.wiktionary.org)
+ - date_published: 2024-06-01T12:24:40+00:00
+
+ ## Kongo Wiktionary - Wikimedia Incubator
+ - [https://kg.wiktionary.org](https://kg.wiktionary.org)
+ - date_published: 2024-07-12T05:16:56.354069+00:00
+
+ ## Main Page - Wt/ki - Wikimedia Incubator
+ - [https://ki.wiktionary.org](https://ki.wiktionary.org)
+ - date_published: 2024-09-04T03:33:41+00:00
+
+ ## Уикисөздік
+ - [https://kk.m.wiktionary.org](https://kk.m.wiktionary.org)
+ - date_published: 2024-09-03T07:00:42+00:00
+
+ ## Уикисөздік
+ - [https://kk.wiktionary.org](https://kk.wiktionary.org)
+ - date_published: 2024-05-31T23:21:00+00:00
+
+ ## Wiktionary
+ - [https://kl.m.wiktionary.org](https://kl.m.wiktionary.org)
+ - date_published: 2024-09-03T10:01:03+00:00
+
+ ## Wiktionary
+ - [https://kl.wiktionary.org](https://kl.wiktionary.org)
+ - date_published: 2024-06-01T02:31:11+00:00
+
+ ## Wiktionary
+ - [https://km.m.wiktionary.org](https://km.m.wiktionary.org)
+ - date_published: 2024-09-04T02:34:38+00:00
+
+ ## Wiktionary
+ - [https://km.wiktionary.org](https://km.wiktionary.org)
+ - date_published: 2024-05-31T12:33:25+00:00
+
  ## ವಿಕ್ಷನರಿ
  - [https://kn.m.wiktionary.org](https://kn.m.wiktionary.org)
  - date_published: 2024-09-04T03:30:23+00:00
@@ -3794,228 +4014,4 @@
  ## Write Free Software
  - [https://discourse.writefreesoftware.org](https://discourse.writefreesoftware.org)
  - date_published: 2024-03-19T00:00:00+00:00
-
- ## Write Free Software
- - [https://writefreesoftware.org](https://writefreesoftware.org)
- - date_published: 2023-10-25T22:22:24.018433+00:00
-
- ## Home - WriteHive
- - [https://www.writehive.org](https://www.writehive.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Writemyessaycheap – Kumpulan Game Android Terbaru Minggu Ini
- - [https://writemyessaycheap.org](https://writemyessaycheap.org)
- - date_published: 2024-08-20T04:10:30.069243+00:00
-
- ## 🥇 Write My Paper | Top 1 Paper Writing Service
- - [https://writemypaper4me.org](https://writemypaper4me.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## varve's burrow
- - [https://www.write-on.org](https://www.write-on.org)
- - date_published: 2024-07-14T08:15:57.296903+00:00
- - tags: ['personal']
-
- ## Writer's Almanac Archives - Garrison Keillor
- - [http://writersalmanac.org](http://writersalmanac.org)
- - date_published: 2024-10-29T18:09:02.415803+00:00
-
- ## Luanne Castle: Poetry and Other Words (and cats!)
- - [https://writersite.org](https://writersite.org)
- - date_published: 2024-06-30T11:00:52+00:00
-
- ## Job Board - Technical Writers and documentarians - Write the Docs
- - [https://jobs.writethedocs.org](https://jobs.writethedocs.org)
- - date_published: 2024-09-15T10:29:54.137768+00:00
-
- ## Welcome to our community!
- - [https://writethedocs.org](https://writethedocs.org)
- - date_published: 2024-05-15T12:51:03+00:00
-
- ## Welcome to Writing Commons – The Encyclopedia for Writers - Writing Commons
- - [http://writingcommons.org](http://writingcommons.org)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Writing Spaces – Readings on Writing
- - [https://writingspaces.org](https://writingspaces.org)
- - date_published: 2024-06-21T20:36:37.488580+00:00
-
- ## Classy: The fanlisting for CSS.
- - [http://css.written-sins.org](http://css.written-sins.org)
- - date_published: 2024-06-20T21:25:52.539583+00:00
-
- ## Arr! | The PIRATES fanlisting
- - [http://pirates.written-sins.org](http://pirates.written-sins.org)
- - date_published: 2024-06-20T21:17:45.163254+00:00
-
- ## Written-Sins.org | a fanlisting collective
- - [http://written-sins.org](http://written-sins.org)
- - date_published: 2024-06-20T21:25:20.294093+00:00
-
- ## AU Digital Research Archive |
- - [http://auislandora.wrlc.org](http://auislandora.wrlc.org)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## Historic Train Exhibits Vintage Streetcar - Western Railway Museum
- - [https://www.wrm.org](https://www.wrm.org)
- - date_published: 2024-06-24T05:36:32+00:00
-
- ## Home
-       | Wrongly Convicted
- - [https://www.wronglyconvicted.org](https://www.wronglyconvicted.org)
- - date_published: 2024-08-11T03:40:31.837513+00:00
-
- ## Wrytr | AI Writer & Content Generator
- - [https://wrytr.org](https://wrytr.org)
- - date_published: 2024-06-19T19:21:42.012559+00:00
-
- ## NWSidebar
- - [https://nwsidebar.wsba.org](https://nwsidebar.wsba.org)
- - date_published: 2024-10-28T23:17:16+00:00
-
- ## WSBA Home
- - [https://wsba.org](https://wsba.org)
- - date_published: 2024-10-28T23:17:13.741076+00:00
-
- ## Web Search and Data Mining: The ACM WSDM 
-Conference Series
- - [https://www.wsdm-conference.org](https://www.wsdm-conference.org)
- - date_published: 2024-07-02T10:29:48.360369+00:00
-
- ## Home
- - [https://wsdtx.org](https://wsdtx.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## The World Science Fiction Society
- - [https://wsfs.org](https://wsfs.org)
- - date_published: 2024-07-12T13:22:31+00:00
-
- ## WSGF | "Wider is Better"
- - [https://wsgf.org](https://wsgf.org)
- - date_published: 2024-11-08T19:54:37+00:00
- - tags: ['video games', 'wide screen']
-
- ## WSKG
- - [https://wskg.org](https://wskg.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Classical WSMR
- - [https://wsmr.org](https://wsmr.org)
- - date_published: 2024-07-12T18:39:39.657890+00:00
-
- ## Washington Square Park Eco Projects – The biodiversity and nature of Washington Square Park.  An initiative of Local Nature Lab.
- - [https://www.wspecoprojects.org](https://www.wspecoprojects.org)
- - date_published: 2024-07-12T08:49:38.151392+00:00
-
- ## Get WsprDaemon
- - [http://wsprdaemon.org](http://wsprdaemon.org)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Live Draw HK | Live HK Pools | Live Hongkong Prize | Result HK
- - [http://www.wsrjournals.org](http://www.wsrjournals.org)
- - date_published: 2024-10-27T10:19:49+00:00
-
- ## Home
- - [https://wsr-network.org](https://wsr-network.org)
- - date_published: 2024-08-02T18:01:46.347972+00:00
-
- ## William Stein's Homepage
- - [https://wstein.org](https://wstein.org)
- - date_published: 2022-04-24T22:05:25+00:00
-
- ## Wichita State University - Kansas
- - [https://my.wsu-info.org](https://my.wsu-info.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Wichita State University - Kansas
- - [https://my.wsu-info-transfer.org](https://my.wsu-info-transfer.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Mautic
- - [https://mautic.wsws.org](https://mautic.wsws.org)
- - date_published: 2024-08-18T17:30:09.387474+00:00
-
- ## World Socialist Web Site - Marxist analysis, international working class struggles & the fight for socialism
- - [https://wsws.org](https://wsws.org)
- - date_published: 2023-10-25T22:22:35.983932+00:00
-
- ## World Trade Center 7 (WTC 7) University of Alaska Fairbanks
- - [https://files.wtc7report.org](https://files.wtc7report.org)
- - date_published: 2014-09-02T00:00:00+00:00
-
- ## Wtec.org
- - [http://wtec.org](http://wtec.org)
- - date_published: 2024-06-29T22:28:03.419981+00:00
-
- ## WTMD 89.7 – Total Music Discovery
- - [https://wtmd.org](https://wtmd.org)
- - date_published: 2024-07-15T02:34:10.721504+00:00
-
- ## World Trade Organization - Global trade
- - [http://www.wto.org](http://www.wto.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## WTSQ 88.1 FM - The Status Quo
- - [https://wtsq.org](https://wtsq.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## World Travel & Tourism Council (WTTC) | Travel & Tourism Representative Council
- - [https://wttc.org](https://wttc.org)
- - date_published: 2024-06-28T11:38:04.810984+00:00
-
- ## Bot Verification
- - [https://wubuntu.org](https://wubuntu.org)
- - date_published: 2024-05-19T02:58:17.630812+00:00
-
- ## Home - Ninji's Website
- - [https://wuffs.org](https://wuffs.org)
- - date_published: 2023-12-08T00:00:00+00:00
-
- ## GHQ.fm
- - [https://ghq.wuft.org](https://ghq.wuft.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## WUFT Homepage
- - [https://projects.wuft.org](https://projects.wuft.org)
- - date_published: 2024-08-06T07:01:22.883278+00:00
-
- ## WUFT Video
- - [https://video.wuft.org](https://video.wuft.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## WUFT Homepage
- - [https://www.wuft.org](https://www.wuft.org)
- - date_published: 2024-04-29T03:12:55.637538+00:00
-
- ## WUGA | University of Georgia | Your Oasis for Ideas and the Arts
- - [https://www.wuga.org](https://www.wuga.org)
- - date_published: 2024-07-02T02:20:15.539059+00:00
-
- ## WUKY - Home | News and Music
- - [https://www.wuky.org](https://www.wuky.org)
- - date_published: 2024-07-24T22:35:47.120359+00:00
-
- ## The American Homefront Project
- - [https://americanhomefront.wunc.org](https://americanhomefront.wunc.org)
- - date_published: 2024-06-20T04:55:03.242748+00:00
-
- ## Embodied
- - [https://embodied.feed.wunc.org](https://embodied.feed.wunc.org)
- - date_published: 2024-08-15T09:00:00+00:00
-
- ## North Carolina Public Radio - WUNC
- - [https://support.wunc.org](https://support.wunc.org)
- - date_published: 2024-06-20T04:54:57.466309+00:00
-
- ## North Carolina Public Radio - WUNC | Bringing The World Home To You
- - [http://wunc.org](http://wunc.org)
- - date_published: 2024-07-09T09:14:13.304472+00:00
-
- ## LPM Classical
- - [https://wuol.org](https://wuol.org)
- - date_published: 2024-07-08T11:18:13.135060+00:00
-
- ## WUOT | 91.9 FM, Knoxville
- - [https://www.wuot.org](https://www.wuot.org)
- - date_published: 2024-07-02T12:15:40.840289+00:00
 

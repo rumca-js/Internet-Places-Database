@@ -1,3 +1,183 @@
+ ## Undergraduate Admissions - Oklahoma State University
+ - [https://orange.okstate.edu](https://orange.okstate.edu)
+ - date_published: 2018-11-06T16:27:33.539000+00:00
+
+ ## OSU Online - Oklahoma State University
+ - [https://osuonline.okstate.edu](https://osuonline.okstate.edu)
+ - date_published: 2019-08-13T14:51:27.348000+00:00
+
+ ## Parking and Transportation Services - Oklahoma State University
+ - [https://parking.okstate.edu](https://parking.okstate.edu)
+ - date_published: 2019-04-23T21:32:04.858000+00:00
+
+ ## Department of Psychology - Oklahoma State University
+ - [http://psychology.okstate.edu](http://psychology.okstate.edu)
+ - date_published: 2023-03-30T18:55:47.178000+00:00
+
+ ## Office of the Registrar - Oklahoma State University
+ - [https://registrar.okstate.edu](https://registrar.okstate.edu)
+ - date_published: 2019-09-12T19:58:49.811000+00:00
+
+ ## Public Safety - Oklahoma State University
+ - [https://safety.okstate.edu](https://safety.okstate.edu)
+ - date_published: 2019-11-05T17:21:07.712000+00:00
+
+ ## Oklahoma State University
+ - [https://search.okstate.edu](https://search.okstate.edu)
+ - date_published: 2024-06-26T22:10:35.433175+00:00
+
+ ## Social Media - Oklahoma State University
+ - [https://social.okstate.edu](https://social.okstate.edu)
+ - date_published: 2020-01-14T16:50:38.567000+00:00
+
+ ## Trademarks and Licensing - Oklahoma State University
+ - [https://trademarks.okstate.edu](https://trademarks.okstate.edu)
+ - date_published: 2019-07-25T13:33:36.677000+00:00
+
+ ## Oklahoma State University-Tulsa - Oklahoma State University
+ - [https://tulsa.okstate.edu](https://tulsa.okstate.edu)
+ - date_published: 2022-06-06T16:42:47.731000+00:00
+
+ ## Student Union - Oklahoma State University
+ - [https://union.okstate.edu](https://union.okstate.edu)
+ - date_published: 2019-10-08T16:35:18.227000+00:00
+
+ ## University Store - Oklahoma State University
+ - [https://universitystore.okstate.edu](https://universitystore.okstate.edu)
+ - date_published: 2019-04-30T13:09:31.401000+00:00
+
+ ## College of Veterinary Medicine - Oklahoma State University
+ - [https://vetmed.okstate.edu](https://vetmed.okstate.edu)
+ - date_published: 2021-02-17T19:12:21.086000+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.olemiss.edu](https://blackboard.olemiss.edu)
+ - date_published: 2004-07-18T07:24:10+00:00
+
+ ## University of Mississippi Jobs
+ - [https://careers.olemiss.edu](https://careers.olemiss.edu)
+ - date_published: 2024-07-18T07:24:04.660881+00:00
+
+ ## Events | University of Mississippi
+ - [https://events.olemiss.edu](https://events.olemiss.edu)
+ - date_published: 2024-07-18T07:23:40.333213+00:00
+
+ ## Sign in - Google Accounts
+ - [http://mail.go.olemiss.edu](http://mail.go.olemiss.edu)
+ - date_published: 2024-07-18T07:23:51.361191+00:00
+
+ ## Campus Map | University of Mississippi
+ - [https://map.olemiss.edu](https://map.olemiss.edu)
+ - date_published: 2024-07-18T07:23:41.718510+00:00
+
+ ## SAP NetWeaver Portal
+ - [https://my.olemiss.edu](https://my.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Welcome - Now & Ever the Campaign for Ole Miss
+ - [https://nowandever.olemiss.edu](https://nowandever.olemiss.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://office365.olemiss.edu](https://office365.olemiss.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## University of  Mississippi | Ole Miss
+ - [https://olemiss.edu](https://olemiss.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Policy Directory | University of Mississippi
+ - [https://policies.olemiss.edu](https://policies.olemiss.edu)
+ - date_published: 2024-07-18T07:24:06.581560+00:00
+
+ ## Student Housing | Ole Miss
+ - [https://studenthousing.olemiss.edu](https://studenthousing.olemiss.edu)
+ - date_published: 2024-07-18T07:23:47.380957+00:00
+
+ ## Study Abroad Office
+ - [https://studyabroad.olemiss.edu](https://studyabroad.olemiss.edu)
+ - date_published: 2024-07-18T07:24:15.245630+00:00
+
+ ## Division of Outreach and Continuing Education | Ole Miss
+ - [http://www.outreach.olemiss.edu](http://www.outreach.olemiss.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Admission + Financial Aid | Olin College of Engineering
+ - [https://admission.olin.edu](https://admission.olin.edu)
+ - date_published: 2024-09-17T18:47:51+00:00
+
+ ## The Olin Art Gallery
+ - [https://art.olin.edu](https://art.olin.edu)
+ - date_published: 2024-06-15T10:52:53.120653+00:00
+
+ ## Sign in to your account
+ - [https://canvas.olin.edu](https://canvas.olin.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Olin College Library | Home
+ - [https://library.olin.edu](https://library.olin.edu)
+ - date_published: 2024-06-15T10:52:40.625997+00:00
+
+ ## The Shop
+ - [https://machineshop.olin.edu](https://machineshop.olin.edu)
+ - date_published: 2024-06-15T10:53:01+00:00
+
+ ## Home | Welcome to my.olin.edu
+ - [https://my.olin.edu](https://my.olin.edu)
+ - date_published: 2024-06-15T10:52:44.721872+00:00
+
+ ## Home | OLIN MERCH
+ - [https://olingear.olin.edu](https://olingear.olin.edu)
+ - date_published: 2024-06-15T10:52:55.700584+00:00
+
+ ## Welcome to Olin College Library Repository | Olin College Library Repository
+ - [https://phoenixfiles.olin.edu](https://phoenixfiles.olin.edu)
+ - date_published: 2024-09-17T19:00:30+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://wikis.olin.edu](https://wikis.olin.edu)
+ - date_published: 2024-06-14T15:33:05+00:00
+
+ ## Home | Olin College of Engineering
+ - [https://www.olin.edu](https://www.olin.edu)
+ - date_published: 2024-05-01T03:16:17.468469+00:00
+
+ ## Home
+ - [https://www.omsi.edu](https://www.omsi.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Distance Learning Courses and Adult Education - The Open University
+ - [https://open.edu](https://open.edu)
+ - date_published: 2023-10-25T18:56:29.084298+00:00
+
+ ## Accessibility
+ - [https://accessibility.oregonstate.edu](https://accessibility.oregonstate.edu)
+ - date_published: 2024-06-16T22:19:14+00:00
+
+ ## Access OSU
+ - [https://accessosu.oregonstate.edu](https://accessosu.oregonstate.edu)
+ - date_published: 2023-07-13T13:30:20+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.oregonstate.edu](https://admissions.oregonstate.edu)
+ - date_published: 2024-06-14T17:57:12+00:00
+
+ ## Oregon State University
+ - [https://advanced.oregonstate.edu](https://advanced.oregonstate.edu)
+ - date_published: 2024-10-11T23:10:49+00:00
+
+ ## College of Agricultural Sciences
+ - [https://agsci.oregonstate.edu](https://agsci.oregonstate.edu)
+ - date_published: 2024-07-01T15:06:16+00:00
+
+ ## Frequently Asked Questions - Ask Us
+ - [https://answers.library.oregonstate.edu](https://answers.library.oregonstate.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## BEAVER HEALTHY
+ - [https://beaverhealthy.oregonstate.edu](https://beaverhealthy.oregonstate.edu)
+ - date_published: 2024-10-14T18:17:15+00:00
+
  ## Blog Insights From Oregon State University - Online Marketing, the Business of Beer, Gardening and More
  - [https://blog.pace.oregonstate.edu](https://blog.pace.oregonstate.edu)
  - date_published: 2024-09-16T00:00:00+00:00
@@ -3826,184 +4006,4 @@
  ## Home
  - [https://ceremony.rice.edu](https://ceremony.rice.edu)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://chaocenter.rice.edu](https://chaocenter.rice.edu)
- - date_published: 2024-05-04T08:05:24+00:00
-
- ## CLIC
- - [https://clic.rice.edu](https://clic.rice.edu)
- - date_published: 2024-06-18T21:17:30+00:00
-
- ## CMOR
- - [https://cmor.rice.edu](https://cmor.rice.edu)
- - date_published: 2024-05-06T16:16:35+00:00
-
- ## Rice Coffeehouse
- - [http://coffeehouse.rice.edu](http://coffeehouse.rice.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Home
- - [https://commencement.rice.edu](https://commencement.rice.edu)
- - date_published: 2024-05-07T20:05:11.284723+00:00
-
- ## Rice Computational Imaging Group | Veeraraghavan Lab
- - [https://computationalimaging.rice.edu](https://computationalimaging.rice.edu)
- - date_published: 2024-08-07T16:09:46+00:00
-
- ## Rice
- - [https://controller.rice.edu](https://controller.rice.edu)
- - date_published: 2024-07-01T17:57:29.288688+00:00
-
- ## CORISE
- - [https://corise.rice.edu](https://corise.rice.edu)
- - date_published: 2024-05-04T12:45:03+00:00
-
- ## Coronavirus
- - [https://coronavirus.rice.edu](https://coronavirus.rice.edu)
- - date_published: 2024-06-03T23:28:41+00:00
-
- ## Corporate
- - [https://corporate.rice.edu](https://corporate.rice.edu)
- - date_published: 2024-05-07T20:05:15.885783+00:00
-
- ## Course Schedule
- - [https://courses.rice.edu](https://courses.rice.edu)
- - date_published: 2024-05-07T20:06:25.443687+00:00
-
- ## Rice CS
- - [https://cs.rice.edu](https://cs.rice.edu)
- - date_published: 2024-05-07T20:06:13.694490+00:00
-
- ## Rice CS
- - [https://csweb.rice.edu](https://csweb.rice.edu)
- - date_published: 2024-05-07T20:06:20.038814+00:00
-
- ## CSWGS Home
- - [https://cswgs.rice.edu](https://cswgs.rice.edu)
- - date_published: 2024-06-10T16:48:28+00:00
-
- ## Rice
- - [https://ctbp.rice.edu](https://ctbp.rice.edu)
- - date_published: 2024-07-01T17:57:34.354454+00:00
-
- ## CTE
- - [https://cte.rice.edu](https://cte.rice.edu)
- - date_published: 2024-05-24T21:16:01+00:00
-
- ## MCLC Home
- - [https://cultures.rice.edu](https://cultures.rice.edu)
- - date_published: 2024-05-15T15:44:43+00:00
-
- ## Rice
- - [https://dar.rice.edu](https://dar.rice.edu)
- - date_published: 2024-05-07T20:05:56.969117+00:00
-
- ## Rice
- - [https://data.rice.edu](https://data.rice.edu)
- - date_published: 2024-07-01T18:02:34.855628+00:00
-
- ## Welcome | Delivery Services
- - [https://delivery.rice.edu](https://delivery.rice.edu)
- - date_published: 2024-07-01T18:01:36.735616+00:00
-
- ## Inauguration
- - [https://desrochesinauguration.rice.edu](https://desrochesinauguration.rice.edu)
- - date_published: 2024-05-06T08:42:03+00:00
-
- ## Home - Rice University Digital Collections
- - [https://digitalcollections.rice.edu](https://digitalcollections.rice.edu)
- - date_published: 2024-07-01T18:01:28.894730+00:00
-
- ## Home
- - [https://dining.rice.edu](https://dining.rice.edu)
- - date_published: 2024-05-07T20:04:56.671140+00:00
-
- ## DEI
- - [https://diversity.rice.edu](https://diversity.rice.edu)
- - date_published: 2024-05-04T09:12:56+00:00
-
- ## Dean of Undergraduates
- - [https://dou.rice.edu](https://dou.rice.edu)
- - date_published: 2024-05-07T20:05:09.018776+00:00
-
- ## ERROR: HTTP 403
- - [https://ebank.rice.edu](https://ebank.rice.edu)
- - date_published: 2012-06-27T14:07:44+00:00
-
- ## Rice
- - [https://economics.rice.edu](https://economics.rice.edu)
- - date_published: 2024-06-20T17:42:20+00:00
-
- ## Electron Microscopy Center: Rice EMC Website
- - [http://emc.rice.edu](http://emc.rice.edu)
- - date_published: 2024-07-01T17:19:17+00:00
-
- ## Home
- - [https://emergency.rice.edu](https://emergency.rice.edu)
- - date_published: 2024-05-07T20:05:39.392827+00:00
-
- ## Rice Engineering
- - [https://engineering.rice.edu](https://engineering.rice.edu)
- - date_published: 2024-05-07T20:05:28.625924+00:00
-
- ## Department of English
- - [https://english.rice.edu](https://english.rice.edu)
- - date_published: 2024-05-16T15:34:16+00:00
-
- ## Center for Environmental Studies
- - [https://enst.rice.edu](https://enst.rice.edu)
- - date_published: 2024-06-13T18:49:53+00:00
-
- ## Rice EPMP
- - [https://epmp.rice.edu](https://epmp.rice.edu)
- - date_published: 2024-06-06T00:16:38+00:00
-
- ## ESL
- - [https://esl.rice.edu](https://esl.rice.edu)
- - date_published: 2024-06-04T14:55:55+00:00
-
- ## Redirecting to Secure Site...
- - [https://esther.rice.edu](https://esther.rice.edu)
- - date_published: 2024-07-01T17:48:08.896796+00:00
-
- ## Events | Rice University
- - [https://events.rice.edu](https://events.rice.edu)
- - date_published: 2024-05-07T20:05:52.697700+00:00
-
- ## Featured Tours | Rice University Virtual Tour
- - [https://experience.rice.edu](https://experience.rice.edu)
- - date_published: 2024-03-18T06:31:28+00:00
-
- ## Welcome
- - [http://explore.rice.edu](http://explore.rice.edu)
- - date_published: 2024-05-13T14:47:27+00:00
-
- ## Shibboleth Authentication Request
- - [http://ezproxy.rice.edu](http://ezproxy.rice.edu)
- - date_published: 2024-07-01T18:01:39.907333+00:00
-
- ## Faculty Handbook
- - [https://fachandbook.rice.edu](https://fachandbook.rice.edu)
- - date_published: 2024-07-01T18:02:44.372881+00:00
-
- ## Faculty Jobs
- - [https://faculty-jobs.rice.edu](https://faculty-jobs.rice.edu)
- - date_published: 2024-07-01T18:08:34.221258+00:00
-
- ## Office of Financial Aid
- - [https://financialaid.rice.edu](https://financialaid.rice.edu)
- - date_published: 2024-05-07T20:04:30.279467+00:00
-
- ## Rice
- - [https://fulbright.rice.edu](https://fulbright.rice.edu)
- - date_published: 2024-06-17T22:05:14+00:00
-
- ## Rice
- - [https://futureofresearch.rice.edu](https://futureofresearch.rice.edu)
- - date_published: 2024-07-01T18:01:11.696543+00:00
-
- ## Rice
- - [https://futureowls.rice.edu](https://futureowls.rice.edu)
- - date_published: 2024-05-07T20:06:06.266507+00:00
 

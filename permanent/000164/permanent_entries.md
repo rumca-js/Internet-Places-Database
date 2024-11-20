@@ -1,3 +1,132 @@
+ ## Patricia Cleveland-Peck
+ - [https://patriciaclevelandpeck.com](https://patriciaclevelandpeck.com)
+ - date_published: 2024-07-13T12:27:54.692771+00:00
+
+ ## Holding the Light
+ - [http://patriciadubrava.com](http://patriciadubrava.com)
+ - date_published: 2024-07-20T13:03:37.670456+00:00
+
+ ## Home | Nowhere Bound
+ - [http://www.patriciali.com](http://www.patriciali.com)
+ - date_published: 2024-08-19T15:43:00.159662+00:00
+
+ ## Patricia McLinn: USA Today Bestselling Author | USA Today Bestselling Author
+ - [https://www.patriciamclinn.com](https://www.patriciamclinn.com)
+ - date_published: 2024-07-04T13:34:50.810705+00:00
+
+ ## Inicio
+ - [https://www.patriciapaizal.com](https://www.patriciapaizal.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## PATRICIA VILLALOBOS ECHEVERRÍA
+ - [http://www.patriciavillalobos.com](http://www.patriciavillalobos.com)
+ - date_published: 2024-06-28T14:16:59.633009+00:00
+
+ ## Patricio Gonzalez Vivo
+ - [https://patriciogonzalezvivo.com](https://patriciogonzalezvivo.com)
+ - date_published: 2024-05-06T16:30:33.570081+00:00
+ - tags: ['personal']
+
+ ## Patricio Gonzalez Vivo - Shop
+ - [https://shop.patriciogonzalezvivo.com](https://shop.patriciogonzalezvivo.com)
+ - date_published: 2024-06-24T06:19:37.197648+00:00
+
+ ## Pate's PiKon telescope
+ - [http://pikon.patrickaalto.com](http://pikon.patrickaalto.com)
+ - date_published: 2017-11-08T15:11:01+00:00
+
+ ## 👋 Hi, I’m Patrick Altair McDonald. I design and write code.
+ - [https://www.patrickaltair.com](https://www.patrickaltair.com)
+ - date_published: 2024-09-04T06:38:49.999201+00:00
+
+ ## About · Patrick Balestra
+ - [https://patrickbalestra.com](https://patrickbalestra.com)
+ - date_published: 2020-05-31T10:05:38+00:00
+
+ ## Patrick
+ - [https://patrickbrosset.com](https://patrickbrosset.com)
+ - date_published: 2024-05-07T23:23:03.774789+00:00
+
+ ## Patrick Cason
+ - [https://www.patrickcason.com](https://www.patrickcason.com)
+ - date_published: 2024-06-23T08:12:54.502594+00:00
+
+ ## Home · Patrick Collison
+ - [https://patrickcollison.com](https://patrickcollison.com)
+ - date_published: 2023-10-25T08:47:23.257678+00:00
+ - tags: ['personal']
+
+ ## Patrick Conway
+ - [https://patrickconway.com](https://patrickconway.com)
+ - date_published: 2023-11-29T16:18:59.190945+00:00
+ - tags: ['personal']
+
+ ## Patrick D'appollonio
+ - [https://patrickdap.com](https://patrickdap.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## Patrick David Creative Studio | Design.Create.Impress.
+ - [https://patrickdavid.com](https://patrickdavid.com)
+ - date_published: 2024-04-11T06:09:55+00:00
+
+ ## Patrick Evrard
+ - [https://patrickevrard.com](https://patrickevrard.com)
+ - date_published: 2024-04-08T10:12:27+00:00
+ - tags: ['3d artist', 'personal']
+
+ ## Military Housing | Patrick Family Housing | Welcome to Patrick
+ - [http://www.patrick-family-housing.com](http://www.patrick-family-housing.com)
+ - date_published: 2024-07-16T23:00:38.970611+00:00
+
+ ## From Åkerö
+ - [https://patrickfinch.com](https://patrickfinch.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Patrick Fromaget – Blogger, developer and system administrator
+ - [https://patrickfromaget.com](https://patrickfromaget.com)
+ - date_published: 2024-06-10T13:17:26+00:00
+
+ ## Patrick Gillespie Photography
+ - [https://patrickgillespie.com](https://patrickgillespie.com)
+ - date_published: 2024-05-06T22:34:43.996198+00:00
+
+ ## Patrick Heng - Creative Developer Portfolio
+ - [https://patrickheng.com](https://patrickheng.com)
+ - date_published: 2021-10-11T20:14:03+00:00
+
+ ## Patrick Keefe – Strategist + Intellectual + Fun Loving Irishman
+ - [https://patrickkeefe.com](https://patrickkeefe.com)
+ - date_published: 2023-12-21T08:24:19.074982+00:00
+ - tags: ['personal']
+
+ ## Patrick Keith
+ - [http://www.patrickkeith.com](http://www.patrickkeith.com)
+ - date_published: 2024-07-06T06:22:22+00:00
+
+ ## Patrick Kremer
+ - [http://www.patrickkremer.com](http://www.patrickkremer.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## This Modern Web
+ - [https://patrickmarsceill.com](https://patrickmarsceill.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Patrick Marsceill, software designer
+ - [https://work.patrickmarsceill.com](https://work.patrickmarsceill.com)
+ - date_published: 2024-03-19T19:50:47+00:00
+
+ ## W. Patrick McCray
+ - [http://www.patrickmccray.com](http://www.patrickmccray.com)
+ - date_published: 2024-08-18T20:15:54.856807+00:00
+
+ ## Patrick McMath | State Senator District 11
+ - [https://www.patrickmcmath.com](https://www.patrickmcmath.com)
+ - date_published: 2024-10-27T21:23:22.826759+00:00
+
+ ## Performance Matters
+ - [http://blog.patrickmeenan.com](http://blog.patrickmeenan.com)
+ - date_published: 2024-07-06T06:23:12+00:00
+
  ## PATRICK RADDEN KEEFE
  - [https://patrickraddenkeefe.com](https://patrickraddenkeefe.com)
  - date_published: 2024-05-10T06:25:51.905330+00:00
@@ -3921,128 +4050,4 @@
  ## Home | Peninsula Daily News
  - [https://www.peninsuladailynews.com](https://www.peninsuladailynews.com)
  - date_published: 2024-05-01T08:03:22.946200+00:00
-
- ## Peninsula Federal Credit Union Home Page
- - [https://www.peninsulafcu.com](https://www.peninsulafcu.com)
- - date_published: 2024-09-28T19:57:51.256129+00:00
-
- ## Peninsula Funeral Homes | Port Angeles, WA
- - [https://www.peninsulafuneralhomes.com](https://www.peninsulafuneralhomes.com)
- - date_published: 2024-10-14T23:42:17+00:00
-
- ## The Apothecarium Dispensary of Salisbury (formerly Peninsula Alt Health)
- - [https://dispensary.peninsulamd.com](https://dispensary.peninsulamd.com)
- - date_published: 2024-05-07T11:13:38.736325+00:00
-
- ## The Apothecarium Dispensary of Salisbury (formerly Peninsula Alt Health)
- - [https://www.peninsulamd.com](https://www.peninsulamd.com)
- - date_published: 2024-06-29T14:41:38.255195+00:00
-
- ## New and Used Cars and Trucks for sale near Sidney. Auto news and reviews – Peninsula News Review
- - [https://autos.peninsulanewsreview.com](https://autos.peninsulanewsreview.com)
- - date_published: 2024-06-29T11:31:17.325338+00:00
-
- ## Today's Home: Peninsula Real Estate
- - [https://homes.peninsulanewsreview.com](https://homes.peninsulanewsreview.com)
- - date_published: 2024-06-29T11:31:28.167932+00:00
-
- ## Welcome to the Peninsula News Review
- - [https://peninsulanewsreview.com](https://peninsulanewsreview.com)
- - date_published: 2024-05-07T10:42:45.176397+00:00
-
- ## Peninsula Papagayo Club & Resort Community Costa Rica | A World Apart
- - [https://peninsulapapagayo.com](https://peninsulapapagayo.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home - PeninsulaPress - Peninsula Press
- - [https://peninsulapress.com](https://peninsulapress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Penis Scrollbar
- - [http://penisscrollbar.com](http://penisscrollbar.com)
- - date_published: 2019-02-09T07:17:06+00:00
-
- ## PenLink | Comprehensive Digital Intelligence Solutions
- - [https://www.penlink.com](https://www.penlink.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Penmachine - Derek K. Miller
- - [https://www.penmachine.com](https://www.penmachine.com)
- - date_published: 2023-10-25T16:32:10.562369+00:00
-
- ## Pennant Wars
- - [https://cdn.pennantwars.com](https://cdn.pennantwars.com)
- - date_published: 2024-06-25T23:41:01.471844+00:00
-
- ## Pennant Wars
- - [https://www.pennantwars.com](https://www.pennantwars.com)
- - date_published: 2024-06-25T23:41:02.783944+00:00
-
- ## PennApps XXV - Coming Soon
- - [https://pennapps.com](https://pennapps.com)
- - date_published: 2024-05-01T03:10:25.457752+00:00
-
- ## University of Pennsylvania Athletics - Official Athletics Website
- - [https://pennathletics.com](https://pennathletics.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Pennsylvania Business Report -
- - [https://pennbizreport.com](https://pennbizreport.com)
- - date_published: 2024-07-03T14:09:43.292996+00:00
-
- ## Penn Blockchain Conference 2024
- - [https://www.pennblockchain.com](https://www.pennblockchain.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home • Pennsylvania Capital-Star
- - [https://penncapital-star.com](https://penncapital-star.com)
- - date_published: 2024-06-15T08:36:17.078531+00:00
-
- ## Penney Design
- - [https://penneydesign.com](https://penneydesign.com)
- - date_published: 2024-09-14T22:53:56.248875+00:00
-
- ## New Constitution for University of Pennsylvania
- - [https://pennforward.com](https://pennforward.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## PENN HCI
- - [https://pennhci.com](https://pennhci.com)
- - date_published: 2024-07-02T10:29:18.531942+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [https://auth0.pennlive.com](https://auth0.pennlive.com)
- - date_published: 2024-05-06T22:59:36.871870+00:00
-
- ## Search for New and Used Cars for Sale
- - [https://autos.pennlive.com](https://autos.pennlive.com)
- - date_published: 2024-05-06T22:59:34.135343+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [https://businessfinder.pennlive.com](https://businessfinder.pennlive.com)
- - date_published: 2024-06-28T15:42:16+00:00
-
- ## Pennlive.com | Classifieds
- - [https://classifieds.pennlive.com](https://classifieds.pennlive.com)
- - date_published: 2024-05-06T22:59:39.577584+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [https://connect.pennlive.com](https://connect.pennlive.com)
- - date_published: 2024-06-28T15:42:16+00:00
-
- ## The Patriot-News
- - [https://enews.pennlive.com](https://enews.pennlive.com)
- - date_published: 2024-04-09T12:49:39+00:00
-
- ## Central PA Local News, Breaking News, Sports & Weather
- - [http://findnsave.pennlive.com](http://findnsave.pennlive.com)
- - date_published: 2024-06-28T15:42:16+00:00
-
- ## Pennlive.com | Classifieds
- - [https://garagesales.m.pennlive.com](https://garagesales.m.pennlive.com)
- - date_published: 2024-06-28T15:43:43.713222+00:00
-
- ## PennLive High School Sports - pennlive.com
- - [https://highschoolsports.pennlive.com](https://highschoolsports.pennlive.com)
- - date_published: 2024-05-06T22:59:28.987718+00:00
 

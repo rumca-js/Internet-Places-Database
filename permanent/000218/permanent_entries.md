@@ -1,3 +1,156 @@
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [http://content-static.usatoday.com](http://content-static.usatoday.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://content.usatoday.com](https://content.usatoday.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## USA TODAY Coupons
+ - [https://coupons.usatoday.com](https://coupons.usatoday.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://eu.usatoday.com](https://eu.usatoday.com)
+ - date_published: 2023-10-25T10:29:19.995983+00:00
+
+ ## For The Win
+ - [https://ftw.usatoday.com](https://ftw.usatoday.com)
+ - date_published: 2024-05-09T02:30:44.132857+00:00
+
+ ## Golfweek
+ - [https://golfweek.usatoday.com](https://golfweek.usatoday.com)
+ - date_published: 2024-06-22T05:56:14.657907+00:00
+
+ ## Help Center - USA TODAY
+ - [https://help.usatoday.com](https://help.usatoday.com)
+ - date_published: 2024-05-06T21:25:28.914045+00:00
+
+ ## Unsupported EU page
+ - [https://login.usatoday.com](https://login.usatoday.com)
+ - date_published: 2024-06-27T12:14:17.607963+00:00
+
+ ## Newsletters | USA TODAY
+ - [https://profile.usatoday.com](https://profile.usatoday.com)
+ - date_published: 2024-05-06T21:25:29.873426+00:00
+
+ ## Unsupported EU page
+ - [https://puzzles.usatoday.com](https://puzzles.usatoday.com)
+ - date_published: 2024-04-29T02:45:42.590811+00:00
+
+ ## Product Reviews, Features, and Deals - Reviewed
+ - [https://reviewed.usatoday.com](https://reviewed.usatoday.com)
+ - date_published: 2024-01-18T23:12:12.429216+00:00
+
+ ## USA TODAY Sports Scores and Odds Hub
+ - [https://sportsdata.usatoday.com](https://sportsdata.usatoday.com)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## USA TODAY Sports Wire
+ - [https://sportswire.usatoday.com](https://sportswire.usatoday.com)
+ - date_published: 2024-06-15T06:04:27.383638+00:00
+
+ ## A message from USA TODAY NETWORK
+ - [https://static.usatoday.com](https://static.usatoday.com)
+ - date_published: 2018-05-23T21:26:30+00:00
+
+ ## Unsupported EU page
+ - [https://subscribe.usatoday.com](https://subscribe.usatoday.com)
+ - date_published: 2024-06-27T12:14:09.169414+00:00
+
+ ## Support Local Businesses with USA TODAY Network
+ - [https://supportlocal.usatoday.com](https://supportlocal.usatoday.com)
+ - date_published: 2024-10-12T14:19:27.571067+00:00
+
+ ## Unsupported EU page
+ - [https://traveltips.usatoday.com](https://traveltips.usatoday.com)
+ - date_published: 2024-07-04T04:36:08.097282+00:00
+
+ ## Travel News, Tips, and Guides - USA TODAY
+ - [http://travel.usatoday.com](http://travel.usatoday.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://usatoday30.usatoday.com](https://usatoday30.usatoday.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://usatoday.com](https://usatoday.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Homepage
+ - [http://www.usatodayeducate.com](http://www.usatodayeducate.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## USA TODAY High School Sports
+ - [https://usatodayhss.com](https://usatodayhss.com)
+ - date_published: 2024-06-19T02:12:20.625833+00:00
+
+ ## Latest World & National News & Headlines - USATODAY.com
+ - [https://chat.usatodaynetwork.com](https://chat.usatodaynetwork.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Unsupported EU page
+ - [https://stories.usatodaynetwork.com](https://stories.usatodaynetwork.com)
+ - date_published: 2024-07-01T16:55:42.229512+00:00
+
+ ## Real News from Greg Hunter’s USAWatchdog: Economic News and Breaking News Reports
+ - [https://usawatchdog.com](https://usawatchdog.com)
+ - date_published: 2024-09-16T19:40:58+00:00
+
+ ## U.S. Bancorp Asset Management Home Page
+ - [https://www.usbancorpassetmanagement.com](https://www.usbancorpassetmanagement.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Careers at U.S. Bank | Find a Career
+ - [https://careers.usbank.com](https://careers.usbank.com)
+ - date_published: 2024-06-16T06:56:25.528142+00:00
+
+ ## Personal banking from U.S. Bank
+ - [https://onlinebanking.usbank.com](https://onlinebanking.usbank.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - Pivot
+ - [https://pivot.usbank.com](https://pivot.usbank.com)
+ - date_published: 2024-09-26T17:26:47.779602+00:00
+
+ ## Sinequa Enterprise Search
+ - [https://publicsearch.usbank.com](https://publicsearch.usbank.com)
+ - date_published: 2024-06-16T06:56:32.171080+00:00
+
+ ## Personal banking from U.S. Bank
+ - [https://www.usbank.com](https://www.usbank.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Digital Wallet | Mobile Payments | U.S. Bank
+ - [https://www.usbankgomobile.com](https://www.usbankgomobile.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## USBC Bowling Store - Official Store of the United States Bowling Congr | USBC Bowling Store
+ - [http://usbcbowlingstore.com](http://usbcbowlingstore.com)
+ - date_published: 2024-06-20T16:47:06.093697+00:00
+
+ ## Usbek & Rica - le média qui explore le futur
+ - [https://usbeketrica.com](https://usbeketrica.com)
+ - date_published: 2024-06-22T09:19:15.406125+00:00
+
+ ## Usborne
+ - [https://partner.usborne.com](https://partner.usborne.com)
+ - date_published: 2024-05-06T21:25:39.678428+00:00
+
+ ## Children’s books for all ages | Usborne | Be Curious
+ - [https://usborne.com](https://usborne.com)
+ - date_published: 2024-02-12T08:08:55.981028+00:00
+ - tags: ['children', 'book publisher']
+
+ ## English Readers - ELT - English Language Teaching - Browse by Category - Books | Usborne | Be Curious
+ - [http://www.usborneenglishreaders.com](http://www.usborneenglishreaders.com)
+ - date_published: 2024-09-02T16:32:03.676620+00:00
+
+ ## Track USB Events Including Files Copied | USB Radar
+ - [https://www.usbradar.com](https://www.usbradar.com)
+ - date_published: 2024-10-31T07:31:40.178883+00:00
+
  ## US Broadband Summit
  - [https://www.usbroadbandsummit.com](https://www.usbroadbandsummit.com)
  - date_published: 2024-02-14T00:00:00+00:00
@@ -3863,158 +4016,4 @@
  ## Van Dyke's Taxidermy Supply
  - [http://www.vandykestaxidermy.com](http://www.vandykestaxidermy.com)
  - date_published: 2024-08-20T05:35:45.520790+00:00
-
- ## VanEck Polska | ETF-y & Fundusze Inwestycyjne
- - [https://www.vaneck.com](https://www.vaneck.com)
- - date_published: 2023-03-08T20:22:31+00:00
-
- ## VHL Mirror
- - [https://bd.mirror.vanehost.com](https://bd.mirror.vanehost.com)
- - date_published: 2024-08-19T22:20:07.477091+00:00
-
- ## Vanessa C. Burbano
- - [http://www.vanessaburbano.com](http://www.vanessaburbano.com)
- - date_published: 2024-06-16T21:51:36.676709+00:00
-
- ## Currently Re-Imagining | Vanessa Finaughty Books
- - [http://www.vanessafinaughtybooks.com](http://www.vanessafinaughtybooks.com)
- - date_published: 2024-07-04T14:00:26.335812+00:00
-
- ## Porkbun Marketplace: The domain vanessa-kirby.com is for sale.
- - [http://vanessa-kirby.com](http://vanessa-kirby.com)
- - date_published: 2024-09-04T02:45:54.004716+00:00
-
- ## Vanessa Marsden RN
- - [https://vanessamarsden.com](https://vanessamarsden.com)
- - date_published: 2024-08-12T19:47:07+00:00
-
- ## Vanessa Amoah Opoku
- - [https://vanessaopoku.com](https://vanessaopoku.com)
- - date_published: 2024-06-22T15:06:07.512134+00:00
-
- ## Vanessa Zoltan
- - [https://vanessazoltan.com](https://vanessazoltan.com)
- - date_published: 2024-09-18T02:28:14.273532+00:00
-
- ## Official online shop | Van Gogh Museum Shop - Van Gogh Museum shop
- - [https://www.vangoghmuseumshop.com](https://www.vangoghmuseumshop.com)
- - date_published: 2024-07-19T23:17:06.025223+00:00
-
- ## Investment Insights and Company Information
- - [https://about.vanguard.com](https://about.vanguard.com)
- - date_published: 2024-05-06T21:31:24.026380+00:00
-
- ## Vanguard Financial Advisor Services | Vanguard Advisors
- - [https://advisors.vanguard.com](https://advisors.vanguard.com)
- - date_published: 2024-05-06T21:31:31.897725+00:00
-
- ## Enterprise Tag Management - Adobe Launch
- - [https://corp-etm-arl.web.vanguard.com](https://corp-etm-arl.web.vanguard.com)
- - date_published: 2024-10-09T14:26:40+00:00
-
- ## Investment Insights and Company Information
- - [https://corporate.vanguard.com](https://corporate.vanguard.com)
- - date_published: 2024-05-06T21:31:28.608751+00:00
-
- ## DPOC widget App
- - [https://dpoc.web.vanguard.com](https://dpoc.web.vanguard.com)
- - date_published: 2024-09-17T17:19:01+00:00
-
- ## Low-cost investments Vanguard | Investing for non-U.S. investors
- - [https://global.vanguard.com](https://global.vanguard.com)
- - date_published: 2024-03-07T20:03:57+00:00
-
- ## Home
- - [https://institutional.vanguard.com](https://institutional.vanguard.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Vanguard: Helping you reach your investing goals
- - [https://investor.vanguard.com](https://investor.vanguard.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Institutional Log On
- - [https://logon.institutional.vanguard.com](https://logon.institutional.vanguard.com)
- - date_published: 2024-06-27T13:09:08.674765+00:00
-
- ## Log on to vanguard.com
- - [https://logon.vanguard.com](https://logon.vanguard.com)
- - date_published: 2024-06-16T15:49:36.833065+00:00
-
- ## Marketing | Vanguard
- - [https://marketing.vanguard.com](https://marketing.vanguard.com)
- - date_published: 2024-06-27T13:09:28.279779+00:00
-
- ## C3 Serverless Frontend
- - [https://mc3-static-assets.web.vanguard.com](https://mc3-static-assets.web.vanguard.com)
- - date_published: 2024-05-06T21:31:39.316205+00:00
-
- ## medallia-digital
- - [https://mdl-medallia-digital.vanguard.com](https://mdl-medallia-digital.vanguard.com)
- - date_published: 2024-10-11T13:52:09.457044+00:00
-
- ## home
- - [https://ownyourfuture.vanguard.com](https://ownyourfuture.vanguard.com)
- - date_published: 2024-10-11T13:52:23.847373+00:00
-
- ## Balances | Vanguard
- - [https://personal1.vanguard.com](https://personal1.vanguard.com)
- - date_published: 2024-05-13T21:06:44+00:00
-
- ## Vanguard news and announcements
- - [https://pressroom.vanguard.com](https://pressroom.vanguard.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## RGH
- - [https://rgh.ecs.retp.c1.vanguard.com](https://rgh.ecs.retp.c1.vanguard.com)
- - date_published: 2024-06-16T15:49:26.849910+00:00
-
- ## Security code enrollment
- - [https://securityenrollment.web.vanguard.com](https://securityenrollment.web.vanguard.com)
- - date_published: 2024-09-23T20:41:38+00:00
-
- ## Vanguard - Small Business Services
- - [https://smallbiz.vanguard.com](https://smallbiz.vanguard.com)
- - date_published: 2007-02-13T14:41:52+00:00
-
- ## Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard
- - [https://vanguard.com](https://vanguard.com)
- - date_published: 2023-10-25T16:15:21.429996+00:00
- - tags: ['new world order']
-
- ## Vanguard - Sign up for web access
- - [https://web-registration.vanguard.com](https://web-registration.vanguard.com)
- - date_published: 2020-04-01T00:00:00+00:00
-
- ## Vanguard - Sign up for web access
- - [https://web-registration.web.vanguard.com](https://web-registration.web.vanguard.com)
- - date_published: 2020-04-01T00:00:00+00:00
-
- ## Vanguard Discard
- - [https://vanguard-discard.com](https://vanguard-discard.com)
- - date_published: 2024-07-04T01:42:32.011909+00:00
-
- ## Noticias de Bucaramanga, Santander y Colombia en Vanguardia
- - [https://vanguardia.com](https://vanguardia.com)
- - date_published: 2024-06-12T01:29:56.693576+00:00
-
- ## Vanguard Careers
- - [https://www.vanguardjobs.com](https://www.vanguardjobs.com)
- - date_published: 2024-05-06T21:31:40.345854+00:00
-
- ## Asesoría financiera, ETF e inversiones | Vanguard Mexico
- - [https://www.vanguardmexico.com](https://www.vanguardmexico.com)
- - date_published: 2024-10-17T13:57:40.871193+00:00
-
- ## Military Merchandise and Awards - Patriotic Gear and Accessories
- - [https://www.vanguardmil.com](https://www.vanguardmil.com)
- - date_published: 2024-10-19T20:04:10.724749+00:00
-
- ## Home - Vanguard Allure
- - [https://allure.vanguardngr.com](https://allure.vanguardngr.com)
- - date_published: 2024-05-06T11:55:59+00:00
-
- ## https://www.vanguardngr.com
- - [https://www.vanguardngr.com](https://www.vanguardngr.com)
- - date_published: 2023-12-29T20:35:26.118500+00:00
- - tags: ['news', 'nigeria']
 

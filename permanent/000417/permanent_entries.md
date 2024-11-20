@@ -1,3 +1,227 @@
+ ## T.C. ORDU ÜNİVERSİTESİ İKTİSADİ İŞLETME
+ - [http://iktisadiisletme.odu.edu.tr](http://iktisadiisletme.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:57.064617+00:00
+
+ ## T.C. Ordu Üniversitesi - IAYS
+ - [https://isakis.odu.edu.tr](https://isakis.odu.edu.tr)
+ - date_published: 2024-10-19T16:41:38.040002+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI
+ - [http://kddb.odu.edu.tr](http://kddb.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:27.673069+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [http://sem.odu.edu.tr](http://sem.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:29.876851+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [http://tuyam.odu.edu.tr](http://tuyam.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:55.447186+00:00
+
+ ## T.C. Ordu Üniversitesi ULUSLARARASI İLİŞKİLER BİRİMİ
+ - [http://uib.odu.edu.tr](http://uib.odu.edu.tr)
+ - date_published: 2024-10-19T16:44:37.505118+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
+ - [https://uzem.odu.edu.tr](https://uzem.odu.edu.tr)
+ - date_published: 2024-10-19T16:42:50.866934+00:00
+
+ ## Niğde Ömer Halisdemir Üniversitesi Anasayfa
+ - [https://www.ohu.edu.tr](https://www.ohu.edu.tr)
+ - date_published: 2024-10-19T17:02:16.863307+00:00
+
+ ## Polis Akademisi
+ - [https://pa.edu.tr](https://pa.edu.tr)
+ - date_published: 2024-10-19T14:39:17.700296+00:00
+
+ ## .:: Bilgi Sistemleri ::.
+ - [https://katalog.rumeli.edu.tr](https://katalog.rumeli.edu.tr)
+ - date_published: 2024-10-19T16:06:30.421620+00:00
+
+ ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:48.834807+00:00
+
+ ## DSpace Home
+ - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:26:51.817663+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:36.480439+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:10.632499+00:00
+
+ ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
+ - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:27.901194+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:04.263114+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://akreditasyon.sabis.sakarya.edu.tr](https://akreditasyon.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:19.286921+00:00
+
+ ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
+ - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:57.918074+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://ardes.sabis.sakarya.edu.tr](https://ardes.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:47.177651+00:00
+
+ ## SABİS - Sakarya University Information System
+ - [http://bapk.sabis.sakarya.edu.tr](http://bapk.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:54:35.385704+00:00
+
+ ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
+ - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:00.656868+00:00
+
+ ## Başvuru - Anasayfa | SAÜSEM
+ - [https://basvuru.sakarya.edu.tr](https://basvuru.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:32.230392+00:00
+
+ ## Sakarya Üniversitesi |
+ - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:48.395856+00:00
+
+ ## Sakarya Üniversitesi Sürekli Eğitim Merkezi
+ - [https://belgelendirme.sakarya.edu.tr](https://belgelendirme.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:39.177772+00:00
+
+ ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
+ - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:38.456541+00:00
+
+ ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
+ - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:28.512872+00:00
+
+ ## Doç.Dr. Cansu AKBULUT
+ - [http://cansua.sakarya.edu.tr](http://cansua.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:57.767863+00:00
+
+ ## Request Rejected
+ - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:41.731243+00:00
+
+ ## Sakarya Üniversitesi | Çalışma Ekonomisi ve Endüstri İlişkileri
+ - [http://ceko.sakarya.edu.tr](http://ceko.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:46:46.099096+00:00
+
+ ## SABİS - Sakarya University Information System
+ - [http://degisim.sabis.sakarya.edu.tr](http://degisim.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:45:19.922993+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:29.545366+00:00
+
+ ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
+ - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:45.846597+00:00
+
+ ## Sakarya Üniversitesi | Devlet Konservatuarı
+ - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:11.993770+00:00
+
+ ## Doç.Dr. Damla KÜÇÜK
+ - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:57:51.601420+00:00
+
+ ## - SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://dogrulama.sabis.sakarya.edu.tr](https://dogrulama.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:49:49.370985+00:00
+
+ ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
+ - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:56.246355+00:00
+
+ ## Sakarya Üniversitesi | Ebelik
+ - [https://ebelik.sakarya.edu.tr](https://ebelik.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:35:08.750250+00:00
+
+ ## Education Information System
+ - [https://ebs.sabis.sakarya.edu.tr](https://ebs.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:45:53.713264+00:00
+
+ ## Education Information System
+ - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:08.979246+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Fakültesi
+ - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:02.157821+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
+ - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:43.538224+00:00
+
+ ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
+ - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:05.542560+00:00
+
+ ## Enstitü Web-Mail
+ - [https://enstituiletisim.sakarya.edu.tr](https://enstituiletisim.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:47:53.963358+00:00
+
+ ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
+ - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:18.698156+00:00
+
+ ## Sakarya Üniversitesi | ERASMUS+ KOORDİNATÖRLÜĞÜ
+ - [https://erasmustest.sakarya.edu.tr](https://erasmustest.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:56:25.953683+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://esinav.sabis.sakarya.edu.tr](https://esinav.sabis.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:48:33.678510+00:00
+
+ ## Doç.Dr. Emre TABAR
+ - [http://etabar.sakarya.edu.tr](http://etabar.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:39:52.030749+00:00
+
+ ## Sakarya Üniversitesi | Etik Kurulu
+ - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:36.984382+00:00
+
+ ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
+ - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:28.354578+00:00
+
+ ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
+ - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:07.599175+00:00
+
+ ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
+ - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:24.595139+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:45.253223+00:00
+
+ ## Sakarya Üniversitesi | Bahar Festivali
+ - [https://festival.sakarya.edu.tr](https://festival.sakarya.edu.tr)
+ - date_published: 2024-10-19T14:51:47.455533+00:00
+
+ ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
+ - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:20.249760+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:32.479841+00:00
+
+ ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
+ - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
  - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
  - date_published: 2024-06-17T15:57:46.824305+00:00
@@ -3846,231 +4070,4 @@ NMHSs DIRECTORS
  ## Picarto: The World's Best Creative Live Streaming Service
  - [https://picarto.tv](https://picarto.tv)
  - date_published: 2024-05-01T07:19:01.093644+00:00
-
- ## Picture Show
- - [http://pictureshow.tv](http://pictureshow.tv)
- - date_published: 2024-07-13T15:42:33.696315+00:00
-
- ## Piczel.tv
- - [https://piczel.tv](https://piczel.tv)
- - date_published: 2024-06-30T06:00:50.078933+00:00
-
- ## Pixel.TV - Gaming | Film | TV
- - [https://www.pixel.tv](https://www.pixel.tv)
- - date_published: 2024-10-17T21:51:42.333697+00:00
-
- ## PK1 ProStreamer Stands for Video Production Gear
- - [https://pk1.tv](https://pk1.tv)
- - date_published: 2023-12-17T11:26:36+00:00
-
- ## PL1.TV - Niezależna telewizja internetowa
- - [https://pl1.tv](https://pl1.tv)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## 검은사막 TV
- - [https://www.playblackdesert.tv](https://www.playblackdesert.tv)
- - date_published: 2024-06-11T00:56:25+00:00
-
- ## PLAYERONE.TV
- - [https://playerone.tv](https://playerone.tv)
- - date_published: 2024-10-25T17:50:54.694311+00:00
-
- ## Player II
- - [https://player-two.tv](https://player-two.tv)
- - date_published: 2024-10-17T21:51:24.735794+00:00
-
- ## Plex
- - [https://app.plex.tv](https://app.plex.tv)
- - date_published: 2024-05-02T10:37:26.383570+00:00
-
- ## What is cord cutting?
- - [https://cordcutter.plex.tv](https://cordcutter.plex.tv)
- - date_published: 2024-05-02T10:37:25.078091+00:00
-
- ## Plex Forum
- - [https://forums.plex.tv](https://forums.plex.tv)
- - date_published: 2023-10-25T22:47:49.787706+00:00
-
- ## Meet your TV concierge.
- - [https://links.plex.tv](https://links.plex.tv)
- - date_published: 2023-10-24T20:06:12.269474+00:00
-
- ## Meet your TV concierge.
- - [https://plex.tv](https://plex.tv)
- - date_published: 2023-10-24T20:06:05.003193+00:00
- - tags: ['video streaming app']
-
- ## Plex Status
- - [https://status.plex.tv](https://status.plex.tv)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Support
- - [https://support.plex.tv](https://support.plex.tv)
- - date_published: 2024-05-01T07:02:11.765584+00:00
-
- ## Watch Movies and TV Shows Free Online
- - [https://watch.plex.tv](https://watch.plex.tv)
- - date_published: 2024-05-02T10:37:43.055413+00:00
-
- ## Pluto TV - It's Free TV
- - [https://corporate.pluto.tv](https://corporate.pluto.tv)
- - date_published: 2023-09-01T16:30:35+00:00
-
- ## Pluto TV - It's Free TV
- - [https://pluto.tv](https://pluto.tv)
- - date_published: 2023-09-01T16:30:35+00:00
-
- ## Login | Salesforce
- - [https://soporte.pluto.tv](https://soporte.pluto.tv)
- - date_published: 2024-05-02T10:38:07.604296+00:00
-
- ## Pluto TV Support
- - [https://support.pluto.tv](https://support.pluto.tv)
- - date_published: 2023-06-18T16:37:03+00:00
-
- ## ViewNexa™ Revolutionizes Your Video Workflow
- - [https://powr.tv](https://powr.tv)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Custom Domain by Bitly
- - [https://prefec.tv](https://prefec.tv)
- - date_published: 2024-06-15T00:55:37+00:00
-
- ## ViX: Cine y TV Gratis en Español
- - [https://app.prende.tv](https://app.prende.tv)
- - date_published: 2022-03-07T19:09:17+00:00
-
- ## Watch Live High School Sports Videos/Shows/Episode On-line – NSPN.Tv
- - [https://prepspotlight.tv](https://prepspotlight.tv)
- - date_published: 2024-06-21T01:53:19.012003+00:00
-
- ## Prequel
- - [https://prequel.tv](https://prequel.tv)
- - date_published: 2024-06-25T18:25:22.870786+00:00
-
- ## Primary Focus
- - [https://primaryfocus.tv](https://primaryfocus.tv)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## National Problematic Radio
- - [https://problematic.tv](https://problematic.tv)
- - date_published: 2024-06-29T20:43:18.269701+00:00
-
- ## Programme TV par Télé 2 Semaines : à la TV TNT ce soir
- - [https://www.programme.tv](https://www.programme.tv)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Watch LIVE
- - [https://pscp.tv](https://pscp.tv)
- - date_published: 2024-06-23T12:09:35.498736+00:00
-
- ## Eric Normand - Functional Programming and Clojure
- - [https://purelyfunctional.tv](https://purelyfunctional.tv)
- - date_published: 2024-06-22T15:56:04.196899+00:00
-
- ## QSMP - The World's First Multilingual Minecraft server by Quackity
- - [https://qsmp.tv](https://qsmp.tv)
- - date_published: 2024-10-27T08:39:35.349397+00:00
-
- ## Radio Livorno
- - [http://radiolivorno.tv](http://radiolivorno.tv)
- - date_published: 2024-04-30T08:05:24.263467+00:00
-
- ## Rakuten TV
- - [https://es.rakuten.tv](https://es.rakuten.tv)
- - date_published: 2024-06-12T10:23:25+00:00
-
- ## Rakuten TV
- - [https://prod-kuato.rakuten.tv](https://prod-kuato.rakuten.tv)
- - date_published: 2024-09-12T09:25:58+00:00
-
- ## Rakuten TV
- - [https://rakuten.tv](https://rakuten.tv)
- - date_published: 2024-06-12T10:23:25+00:00
-
- ## Web Server's Default Page
- - [http://dsl.rasat.tv](http://dsl.rasat.tv)
- - date_published: 2024-02-29T10:23:12+00:00
-
- ## Real Choice IPTV Streaming Service - Real Choice TV
- - [https://realchoice.tv](https://realchoice.tv)
- - date_published: 2023-10-07T00:00:00+00:00
-
- ## Rebase
- - [https://rebase.tv](https://rebase.tv)
- - date_published: 2024-06-23T05:57:55.841873+00:00
-
- ## REBIT.tv
- - [https://rebit.tv](https://rebit.tv)
- - date_published: 2023-10-10T14:04:16+00:00
-
- ## {{ $root.metadata.title }}
- - [https://recoil.tv](https://recoil.tv)
- - date_published: 2024-05-07T10:34:07.880978+00:00
-
- ## Elma Online
- - [http://recsource.tv](http://recsource.tv)
- - date_published: 2024-05-29T18:43:00+00:00
-
- ## Red Ice | The Future is the Past
- - [https://redice.tv](https://redice.tv)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## LSEG Data & Analytics | Financial Technology & Data
- - [https://refini.tv](https://refini.tv)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Release Notes | The Business of Online Businesses
- - [https://releasenotes.tv](https://releasenotes.tv)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## ReligiousLiberty.TV / Founders' First Freedom®  - News and Updates on Religious Liberty and Freedom
- - [http://religiousliberty.tv](http://religiousliberty.tv)
- - date_published: 2024-06-28T20:52:23.922735+00:00
-
- ## Новости — наше призвание
- - [https://ren.tv](https://ren.tv)
- - date_published: 2019-12-03T12:45:47+00:00
-
- ## RETVRN.TV
- - [https://retvrn.tv](https://retvrn.tv)
- - date_published: 2024-09-14T09:39:42.858380+00:00
-
- ## Watch Free Online HD Movies | RidoMovies
- - [https://ridomovies.tv](https://ridomovies.tv)
- - date_published: 2024-11-12T17:31:31.820845+00:00
- - tags: ['movies', 'piracy']
-
- ## Rise TV - Live shows, Documentaries, Series & more
- - [https://rise.tv](https://rise.tv)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## RT en Français
- - [https://rtenfrance.tv](https://rtenfrance.tv)
- - date_published: 2024-06-14T18:44:13.129302+00:00
-
- ## Sat.tv - World’s largest selection of Free TV channels - by far!
- - [https://sat.tv](https://sat.tv)
- - date_published: 2024-07-13T11:26:11.683484+00:00
-
- ## Savalas TV - Who loves ya, baby?
- - [http://savalas.tv](http://savalas.tv)
- - date_published: 2024-10-29T20:05:31.147487+00:00
-
- ## SBJ Live: Managing the content explosion in live sports
- - [https://www.sbj.tv](https://www.sbj.tv)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## SceneCity.TV
- - [https://scenecity.tv](https://scenecity.tv)
- - date_published: 2024-08-22T22:13:26.881764+00:00
-
- ## Watch Scientology Network: TV Channel and Video On Demand
- - [https://scientology.tv](https://scientology.tv)
- - date_published: 0001-01-01T00:00:00+00:00
- - tags: ['scientology']
-
- ## scottott.tv - Ta strona jest na sprzedaż! - scottott Zasoby i informacje.
- - [https://scottott.tv](https://scottott.tv)
- - date_published: 2024-06-27T09:39:26+00:00
 

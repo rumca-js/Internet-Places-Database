@@ -1,3 +1,31 @@
+ ## Bastard Books
+ - [http://bastardbooks.blogspot.com](http://bastardbooks.blogspot.com)
+ - date_published: 2024-10-19T07:46:55+00:00
+
+ ## Blogger
+ - [http://bastardoldholborn.blogspot.com](http://bastardoldholborn.blogspot.com)
+ - date_published: 2024-10-21T13:58:54.694151+00:00
+
+ ## The Bastiat Society
+ - [http://bastiatblog.blogspot.com](http://bastiatblog.blogspot.com)
+ - date_published: 2024-10-24T20:14:01+00:00
+
+ ## Bat, Bean, Beam
+ - [http://bat-bean-beam.blogspot.com](http://bat-bean-beam.blogspot.com)
+ - date_published: 2024-08-12T13:41:13+00:00
+
+ ## bat.blogspot.com
+ - [http://bat.blogspot.com](http://bat.blogspot.com)
+ - date_published: 2024-03-14T09:31:27+00:00
+
+ ## Bat in the Attic
+ - [https://batintheattic.blogspot.com](https://batintheattic.blogspot.com)
+ - date_published: 2024-06-28T09:43:40+00:00
+
+ ## Batman the Animated Toys
+ - [http://batmantheanimatedtoys.blogspot.com](http://batmantheanimatedtoys.blogspot.com)
+ - date_published: 2024-08-28T07:17:17+00:00
+
  ## When I'm King
  - [http://batsby.blogspot.com](http://batsby.blogspot.com)
  - date_published: 2024-10-21T14:32:55.831396+00:00
@@ -3987,32 +4015,4 @@
  ## Copyright Litigation Blog
  - [https://copyrightlitigation.blogspot.com](https://copyrightlitigation.blogspot.com)
  - date_published: 2024-10-18T19:17:02.542888+00:00
-
- ## Current copyright readings
- - [http://copyrightreadings.blogspot.com](http://copyrightreadings.blogspot.com)
- - date_published: 2024-06-14T01:33:04+00:00
-
- ## Copy, Shake, and Paste
- - [https://copy-shake-paste.blogspot.com](https://copy-shake-paste.blogspot.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## OfficeBuzz
- - [http://cor4office.blogspot.com](http://cor4office.blogspot.com)
- - date_published: 2024-06-18T18:08:22+00:00
-
- ## Revolvo Inritus
- - [http://coralius.blogspot.com](http://coralius.blogspot.com)
- - date_published: 2024-03-07T08:55:30+00:00
-
- ## Malaria, Bedbugs, Sea Lice, and Sunsets
- - [http://coralnotesfromthefield.blogspot.com](http://coralnotesfromthefield.blogspot.com)
- - date_published: 2024-10-19T05:19:11.122661+00:00
-
- ## Corbania Prime
- - [http://corbaniaprime.blogspot.com](http://corbaniaprime.blogspot.com)
- - date_published: 2024-07-14T19:26:44+00:00
-
- ## Cor blog me!
- - [http://corblogme.blogspot.com](http://corblogme.blogspot.com)
- - date_published: 2024-07-19T00:00:00+00:00
 

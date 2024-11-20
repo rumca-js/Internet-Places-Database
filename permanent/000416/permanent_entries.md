@@ -1,3 +1,243 @@
+ ## The open source protocol for web3 messaging
+ - [https://xmtp.to](https://xmtp.to)
+ - date_published: 2024-09-25T12:16:01.047789+00:00
+
+ ## HOME
+ - [https://xoslotz.to](https://xoslotz.to)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://bg.x-plane.to](https://bg.x-plane.to)
+ - date_published: 2024-09-05T10:24:05.062381+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://cs.x-plane.to](https://cs.x-plane.to)
+ - date_published: 2024-09-05T10:24:01.479572+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://da.x-plane.to](https://da.x-plane.to)
+ - date_published: 2024-09-05T10:23:34.189968+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://de.x-plane.to](https://de.x-plane.to)
+ - date_published: 2024-09-05T10:23:48.242302+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://el.x-plane.to](https://el.x-plane.to)
+ - date_published: 2024-09-05T10:23:07.610940+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://es.x-plane.to](https://es.x-plane.to)
+ - date_published: 2024-09-05T10:23:15.280336+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://fi.x-plane.to](https://fi.x-plane.to)
+ - date_published: 2024-09-05T10:23:18.744017+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://fr.x-plane.to](https://fr.x-plane.to)
+ - date_published: 2024-09-05T10:23:39.844693+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://hu.x-plane.to](https://hu.x-plane.to)
+ - date_published: 2024-09-05T10:23:30.166823+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://it.x-plane.to](https://it.x-plane.to)
+ - date_published: 2024-09-05T10:23:04.001355+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://jp.x-plane.to](https://jp.x-plane.to)
+ - date_published: 2024-09-05T10:23:43.242063+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://nl.x-plane.to](https://nl.x-plane.to)
+ - date_published: 2024-09-05T10:23:52.412279+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://pl.x-plane.to](https://pl.x-plane.to)
+ - date_published: 2024-09-05T10:24:13.423900+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://pt.x-plane.to](https://pt.x-plane.to)
+ - date_published: 2024-09-05T10:24:16.974545+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://ro.x-plane.to](https://ro.x-plane.to)
+ - date_published: 2024-09-05T10:23:22.880112+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://ru.x-plane.to](https://ru.x-plane.to)
+ - date_published: 2024-09-05T10:23:11.588954+00:00
+
+ ## X-Plane.to status
+ - [https://status.x-plane.to](https://status.x-plane.to)
+ - date_published: 2024-09-05T10:23:36.596266+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://sv.x-plane.to](https://sv.x-plane.to)
+ - date_published: 2024-09-05T10:22:58.962290+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://x-plane.to](https://x-plane.to)
+ - date_published: 2024-06-08T18:01:24.415701+00:00
+
+ ## X-Plane 12 Mods, Liveries & Add-Ons | X-Plane.to
+ - [https://zh.x-plane.to](https://zh.x-plane.to)
+ - date_published: 2024-09-05T10:24:09.480589+00:00
+
+ ## Startseite - xREL.v3 - Release & NFO Source #1
+ - [https://xrel.to](https://xrel.to)
+ - date_published: 2024-11-07T09:38:55+00:00
+ - tags: ['piracy']
+
+ ## XTV | Watch HD Movies Online Free | TV Series & Stream Live
+ - [https://xtv.to](https://xtv.to)
+ - date_published: 2024-11-12T17:28:17.567912+00:00
+
+ ## 木地屋やまと – 長野県木曽郡南木曽町にある「木地師の里」。惟喬親王の勅命にて椀造りをはじめた木地師の末裔。丸太から切り出す椀・盆などの和食器、漆器・沈金の紹介など。
+ - [https://yama.to](https://yama.to)
+ - date_published: 2024-07-13T04:26:51.517760+00:00
+
+ ## Your Countdown To | Count down the days to everything
+ - [https://yourcountdown.to](https://yourcountdown.to)
+ - date_published: 2024-11-12T17:05:43.179100+00:00
+
+ ## Introduction
+ - [https://bench.cr.yp.to](https://bench.cr.yp.to)
+ - date_published: 2024-07-02T10:45:55+00:00
+
+ ## cr.yp.to: 
+blog
+ - [https://blog.cr.yp.to](https://blog.cr.yp.to)
+ - date_published: 2023-10-25T22:46:22.681247+00:00
+
+ ## Crypto competitions:
+Introduction
+ - [http://competitions.cr.yp.to](http://competitions.cr.yp.to)
+ - date_published: 2019-02-20T23:35:07+00:00
+
+ ## Intro
+ - [https://cpucycles.cr.yp.to](https://cpucycles.cr.yp.to)
+ - date_published: 2023-10-25T22:46:23.684550+00:00
+
+ ## cr.yp.to
+ - [https://cr.yp.to](https://cr.yp.to)
+ - date_published: 2023-06-14T12:55:47+00:00
+
+ ## Introduction
+ - [https://ed25519.cr.yp.to](https://ed25519.cr.yp.to)
+ - date_published: 2017-01-22T18:09:36+00:00
+
+ ## Elligator:
+Introduction
+ - [https://elligator.cr.yp.to](https://elligator.cr.yp.to)
+ - date_published: 2017-01-22T18:20:18+00:00
+
+ ## Eurocrypt 2018 rump session
+ - [https://eurocrypt.2018.rump.cr.yp.to](https://eurocrypt.2018.rump.cr.yp.to)
+ - date_published: 2018-05-02T06:47:47+00:00
+
+ ## FactHacks:
+Introduction
+ - [http://facthacks.cr.yp.to](http://facthacks.cr.yp.to)
+ - date_published: 2013-09-16T22:31:46+00:00
+
+ ## Constant-time gcd:
+Intro
+ - [https://gcd.cr.yp.to](https://gcd.cr.yp.to)
+ - date_published: 2021-01-31T01:59:03+00:00
+
+ ## KyberSlash:
+Introduction
+ - [https://kyberslash.cr.yp.to](https://kyberslash.cr.yp.to)
+ - date_published: 2024-06-25T02:15:14+00:00
+
+ ## cr.yp.to: microblog
+ - [https://microblog.cr.yp.to](https://microblog.cr.yp.to)
+ - date_published: 2024-08-12T15:34:55+00:00
+
+ ## Introduction
+ - [https://nacl.cr.yp.to](https://nacl.cr.yp.to)
+ - date_published: 2019-03-19T13:12:05+00:00
+
+ ## NTRU Prime:
+Intro
+ - [https://ntruprime.cr.yp.to](https://ntruprime.cr.yp.to)
+ - date_published: 2022-03-03T02:58:19+00:00
+
+ ## OpenSSLNTRU: 
+Intro
+ - [https://opensslntru.cr.yp.to](https://opensslntru.cr.yp.to)
+ - date_published: 2021-12-14T18:01:55+00:00
+
+ ## PQSRC:
+Introduction
+ - [https://pqsrc.cr.yp.to](https://pqsrc.cr.yp.to)
+ - date_published: 2023-10-25T22:46:26.119793+00:00
+
+ ## librandombytes: Intro
+ - [https://randombytes.cr.yp.to](https://randombytes.cr.yp.to)
+ - date_published: 2023-09-04T14:39:44+00:00
+
+ ## Rump sessions:
+Introduction
+ - [https://rump.cr.yp.to](https://rump.cr.yp.to)
+ - date_published: 2023-04-26T20:16:53+00:00
+
+ ## SafeCurves:
+Introduction
+ - [https://safecurves.cr.yp.to](https://safecurves.cr.yp.to)
+ - date_published: 2018-05-22T15:35:45+00:00
+
+ ## djbsort:
+Intro
+ - [https://sorting.cr.yp.to](https://sorting.cr.yp.to)
+ - date_published: 2024-01-17T00:05:48+00:00
+
+ ## My Untied Airlines:
+Introduction
+ - [https://untied.cr.yp.to](https://untied.cr.yp.to)
+ - date_published: 2012-02-26T00:00:00+00:00
+
+ ## Zoho | Cloud Software Suite for Businesses
+ - [https://zurl.to](https://zurl.to)
+ - date_published: 2024-09-05T11:40:33+00:00
+
+ ## 0day.today Agreement - 0day.today Exploit Database : vulnerability : 0day : new exploits : buy and sell private exploit : shellcode by 0day Today Team
+ - [https://0day.today](https://0day.today)
+ - date_published: 2024-06-19T22:50:38.133758+00:00
+
+ ## abe's projects
+ - [https://abe.today](https://abe.today)
+ - date_published: 2024-07-12T03:56:29.511832+00:00
+ - tags: ['personal']
+
+ ## Analytics.Today
+ - [https://www.analytics.today](https://www.analytics.today)
+ - date_published: 2024-08-18T15:23:58.863565+00:00
+
+ ## Apple World Today
+ - [https://appleworld.today](https://appleworld.today)
+ - date_published: 2023-10-25T09:38:28.510492+00:00
+
+ ## Welcome
+ - [https://buyback.appleworld.today](https://buyback.appleworld.today)
+ - date_published: 2024-08-19T15:04:10+00:00
+
+ ## Apple World Today Deals
+ - [https://deals.appleworld.today](https://deals.appleworld.today)
+ - date_published: 2024-08-19T15:04:06.587699+00:00
+
+ ## archive.ph
+ - [https://archive.today](https://archive.today)
+ - date_published: 2024-04-30T14:51:51+00:00
+ - tags: ['internet archive', 'internet archive']
+
+ ## Archive.is blog
+ - [https://blog.archive.today](https://blog.archive.today)
+ - date_published: 2024-05-04T09:03:08.637551+00:00
+
  ## blr.today
  - [https://blr.today](https://blr.today)
  - date_published: 2024-08-18T11:17:59.483137+00:00
@@ -3796,228 +4036,4 @@
  ## T.C. ORDU ÜNİVERSİTESİ ENGELLİ ÖĞRENCİ BİRİMİ
  - [http://engelsiz.odu.edu.tr](http://engelsiz.odu.edu.tr)
  - date_published: 2024-10-19T16:41:37.302280+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ İKTİSADİ İŞLETME
- - [http://iktisadiisletme.odu.edu.tr](http://iktisadiisletme.odu.edu.tr)
- - date_published: 2024-10-19T16:42:57.064617+00:00
-
- ## T.C. Ordu Üniversitesi - IAYS
- - [https://isakis.odu.edu.tr](https://isakis.odu.edu.tr)
- - date_published: 2024-10-19T16:41:38.040002+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI
- - [http://kddb.odu.edu.tr](http://kddb.odu.edu.tr)
- - date_published: 2024-10-19T16:44:27.673069+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
- - [http://sem.odu.edu.tr](http://sem.odu.edu.tr)
- - date_published: 2024-10-19T16:44:29.876851+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ
- - [http://tuyam.odu.edu.tr](http://tuyam.odu.edu.tr)
- - date_published: 2024-10-19T16:42:55.447186+00:00
-
- ## T.C. Ordu Üniversitesi ULUSLARARASI İLİŞKİLER BİRİMİ
- - [http://uib.odu.edu.tr](http://uib.odu.edu.tr)
- - date_published: 2024-10-19T16:44:37.505118+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ
- - [https://uzem.odu.edu.tr](https://uzem.odu.edu.tr)
- - date_published: 2024-10-19T16:42:50.866934+00:00
-
- ## Niğde Ömer Halisdemir Üniversitesi Anasayfa
- - [https://www.ohu.edu.tr](https://www.ohu.edu.tr)
- - date_published: 2024-10-19T17:02:16.863307+00:00
-
- ## Polis Akademisi
- - [https://pa.edu.tr](https://pa.edu.tr)
- - date_published: 2024-10-19T14:39:17.700296+00:00
-
- ## .:: Bilgi Sistemleri ::.
- - [https://katalog.rumeli.edu.tr](https://katalog.rumeli.edu.tr)
- - date_published: 2024-10-19T16:06:30.421620+00:00
-
- ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:48.834807+00:00
-
- ## DSpace Home
- - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
- - date_published: 2024-05-02T10:26:51.817663+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:36.480439+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:10.632499+00:00
-
- ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
- - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:27.901194+00:00
-
- ## Sakarya Üniversitesi |
- - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:04.263114+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://akreditasyon.sabis.sakarya.edu.tr](https://akreditasyon.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:49:19.286921+00:00
-
- ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
- - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:57.918074+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://ardes.sabis.sakarya.edu.tr](https://ardes.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:47:47.177651+00:00
-
- ## SABİS - Sakarya University Information System
- - [http://bapk.sabis.sakarya.edu.tr](http://bapk.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:54:35.385704+00:00
-
- ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
- - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:00.656868+00:00
-
- ## Başvuru - Anasayfa | SAÜSEM
- - [https://basvuru.sakarya.edu.tr](https://basvuru.sakarya.edu.tr)
- - date_published: 2024-10-19T14:47:32.230392+00:00
-
- ## Sakarya Üniversitesi |
- - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:48.395856+00:00
-
- ## Sakarya Üniversitesi Sürekli Eğitim Merkezi
- - [https://belgelendirme.sakarya.edu.tr](https://belgelendirme.sakarya.edu.tr)
- - date_published: 2024-10-19T14:47:39.177772+00:00
-
- ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
- - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:38.456541+00:00
-
- ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
- - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:28.512872+00:00
-
- ## Doç.Dr. Cansu AKBULUT
- - [http://cansua.sakarya.edu.tr](http://cansua.sakarya.edu.tr)
- - date_published: 2024-10-19T14:39:57.767863+00:00
-
- ## Request Rejected
- - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:41.731243+00:00
-
- ## Sakarya Üniversitesi | Çalışma Ekonomisi ve Endüstri İlişkileri
- - [http://ceko.sakarya.edu.tr](http://ceko.sakarya.edu.tr)
- - date_published: 2024-10-19T14:46:46.099096+00:00
-
- ## SABİS - Sakarya University Information System
- - [http://degisim.sabis.sakarya.edu.tr](http://degisim.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:45:19.922993+00:00
-
- ## Sakarya Üniversitesi |
- - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:29.545366+00:00
-
- ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
- - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:45.846597+00:00
-
- ## Sakarya Üniversitesi | Devlet Konservatuarı
- - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:11.993770+00:00
-
- ## Doç.Dr. Damla KÜÇÜK
- - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
- - date_published: 2024-02-08T16:57:51.601420+00:00
-
- ## - SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://dogrulama.sabis.sakarya.edu.tr](https://dogrulama.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:49:49.370985+00:00
-
- ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
- - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:56.246355+00:00
-
- ## Sakarya Üniversitesi | Ebelik
- - [https://ebelik.sakarya.edu.tr](https://ebelik.sakarya.edu.tr)
- - date_published: 2024-10-19T14:35:08.750250+00:00
-
- ## Education Information System
- - [https://ebs.sabis.sakarya.edu.tr](https://ebs.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:45:53.713264+00:00
-
- ## Education Information System
- - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:08.979246+00:00
-
- ## Sakarya Üniversitesi | Eğitim Fakültesi
- - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:02.157821+00:00
-
- ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
- - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:43.538224+00:00
-
- ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
- - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:05.542560+00:00
-
- ## Enstitü Web-Mail
- - [https://enstituiletisim.sakarya.edu.tr](https://enstituiletisim.sakarya.edu.tr)
- - date_published: 2024-10-19T14:47:53.963358+00:00
-
- ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
- - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:18.698156+00:00
-
- ## Sakarya Üniversitesi | ERASMUS+ KOORDİNATÖRLÜĞÜ
- - [https://erasmustest.sakarya.edu.tr](https://erasmustest.sakarya.edu.tr)
- - date_published: 2024-10-19T14:56:25.953683+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://esinav.sabis.sakarya.edu.tr](https://esinav.sabis.sakarya.edu.tr)
- - date_published: 2024-10-19T14:48:33.678510+00:00
-
- ## Doç.Dr. Emre TABAR
- - [http://etabar.sakarya.edu.tr](http://etabar.sakarya.edu.tr)
- - date_published: 2024-10-19T14:39:52.030749+00:00
-
- ## Sakarya Üniversitesi | Etik Kurulu
- - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:36.984382+00:00
-
- ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
- - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
- - date_published: 2024-05-02T10:27:28.354578+00:00
-
- ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
- - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:07.599175+00:00
-
- ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
- - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:24.595139+00:00
-
- ## Sakarya Üniversitesi |
- - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:45.253223+00:00
-
- ## Sakarya Üniversitesi | Bahar Festivali
- - [https://festival.sakarya.edu.tr](https://festival.sakarya.edu.tr)
- - date_published: 2024-10-19T14:51:47.455533+00:00
-
- ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
- - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:20.249760+00:00
-
- ## Sakarya Üniversitesi |
- - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:32.479841+00:00
-
- ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
- - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
- - date_published: 2024-06-15T00:00:00+00:00
 

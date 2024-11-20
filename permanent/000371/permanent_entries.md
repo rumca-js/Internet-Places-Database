@@ -1,3 +1,216 @@
+ ## IndieWeb
+ - [https://indieweb.org](https://indieweb.org)
+ - date_published: 2023-10-25T11:34:51.031707+00:00
+ - tags: ['personal sites source', 'indieweb']
+
+ ## JF2 Post Serialization Format
+ - [http://jf2.spec.indieweb.org](http://jf2.spec.indieweb.org)
+ - date_published: 2023-10-12T20:32:09+00:00
+
+ ## Micropub
+ - [https://micropub.spec.indieweb.org](https://micropub.spec.indieweb.org)
+ - date_published: 2020-07-25T00:00:00+00:00
+
+ ## IndieNews homepage
+ - [https://news.indieweb.org](https://news.indieweb.org)
+ - date_published: 2024-05-06T14:58:41.780457+00:00
+
+ ## IndieWeb
+ - [http://planet.indieweb.org](http://planet.indieweb.org)
+ - date_published: 2024-06-30T21:21:29.728501+00:00
+
+ ## Standards — IndieWeb
+ - [https://spec.indieweb.org](https://spec.indieweb.org)
+ - date_published: 2024-02-20T18:30:56+00:00
+
+ ## IndieWeb
+ - [https://stream.indieweb.org](https://stream.indieweb.org)
+ - date_published: 2024-05-02T07:51:06.716245+00:00
+
+ ## Independent Wiki Federation
+ - [https://indiewikifederation.org](https://indiewikifederation.org)
+ - date_published: 2024-05-02T13:29:49.363669+00:00
+
+ ## Indigefi - Modern Indigenous music
+ - [https://www.indigefi.org](https://www.indigefi.org)
+ - date_published: 2024-07-07T05:14:32.617040+00:00
+
+ ## Indigenous Language Institute: Preserving Linguistic Diversity
+ - [http://www.indigenous-language.org](http://www.indigenous-language.org)
+ - date_published: 2024-07-02T09:15:02.800598+00:00
+
+ ## Indigenous Values Initiative
+ - [https://indigenousvalues.org](https://indigenousvalues.org)
+ - date_published: 2024-02-27T15:54:31+00:00
+
+ ## Indikator - Smarta enkäter för stora insikter
+ - [https://www.indikator.org](https://www.indikator.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## We Are Indivisible: A Blueprint for Democracy After Trump
+ - [https://book.indivisible.org](https://book.indivisible.org)
+ - date_published: 2024-07-15T07:35:58.492221+00:00
+
+ ## Homepage
+ - [https://indivisible.org](https://indivisible.org)
+ - date_published: 2024-07-10T13:39:46+00:00
+
+ ## Indivisible Webstore
+ - [https://store.indivisible.org](https://store.indivisible.org)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Indocrypt 2011: Introduction
+ - [http://2011.indocrypt.org](http://2011.indocrypt.org)
+ - date_published: 2013-10-25T00:21:21+00:00
+
+ ## Indusresearch – Game Survival untuk Android dan iOS Terbaik di 2024
+ - [https://indusresearch.org](https://indusresearch.org)
+ - date_published: 2024-08-20T04:14:40.295055+00:00
+
+ ## Hack the Grid
+ - [https://hackthegrid.industeeltech.org](https://hackthegrid.industeeltech.org)
+ - date_published: 2024-06-20T15:19:40.922232+00:00
+
+ ## IDTA – Der Standard für den Digitalen Zwilling - Startseite
+ - [https://industrialdigitaltwin.org](https://industrialdigitaltwin.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Start page EN
+ - [http://www.industriall-union.org](http://www.industriall-union.org)
+ - date_published: 2019-03-06T11:11:23+00:00
+
+ ## Industrial Strategy Council
+ - [https://industrialstrategycouncil.org](https://industrialstrategycouncil.org)
+ - date_published: 2024-10-21T11:56:57.503080+00:00
+
+ ## Industrious Labs
+ - [https://industriouslabs.org](https://industriouslabs.org)
+ - date_published: 2024-06-21T11:39:05.315287+00:00
+
+ ## Industry Network Technology Council – Your Voice in Network Standards Development
+ - [https://industrynetcouncil.org](https://industrynetcouncil.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Indy Contra Dance
+ - [http://www.indycontra.org](http://www.indycontra.org)
+ - date_published: 2024-08-20T05:20:53.458422+00:00
+
+ ## IndyHacks
+ - [https://www.indyhacks.org](https://www.indyhacks.org)
+ - date_published: 2023-11-10T02:16:09+00:00
+
+ ## We think working alone sucks.
+ - [https://www.indyhall.org](https://www.indyhall.org)
+ - date_published: 2024-06-20T17:54:41+00:00
+
+ ## Indymedia Nantes
+ - [https://nantes.indymedia.org](https://nantes.indymedia.org)
+ - date_published: 2024-08-18T19:43:47.891972+00:00
+
+ ## Indymedia Scotland
+ - [http://www.indymediascotland.org](http://www.indymediascotland.org)
+ - date_published: 2024-10-21T14:44:03.828365+00:00
+
+ ## Home | Indianapolis Public Library
+ - [https://www.indypl.org](https://www.indypl.org)
+ - date_published: 2024-06-27T17:33:43.846373+00:00
+
+ ## IndyPy | Meetup
+ - [https://indypy.org](https://indypy.org)
+ - date_published: 2024-07-02T23:42:32.456971+00:00
+
+ ## Inequality.org
+ - [https://inequality.org](https://inequality.org)
+ - date_published: 2024-08-08T16:08:11.602255+00:00
+
+ ## Global Council on Inequality, AIDS and Pandemics
+ - [https://www.inequalitycouncil.org](https://www.inequalitycouncil.org)
+ - date_published: 2020-02-05T21:33:10+00:00
+
+ ## News | International Network of Engineers And Scientists Against Proliferation
+ - [http://www.inesap.org](http://www.inesap.org)
+ - date_published: 2024-06-28T20:24:56+00:00
+
+ ## Institute for New Economic Thinking | Institute for New Economic Thinking
+ - [https://ineteconomics.org](https://ineteconomics.org)
+ - date_published: 2023-10-25T21:31:33.465007+00:00
+
+ ## YSI INET
+ - [https://ysi.ineteconomics.org](https://ysi.ineteconomics.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## INetSim: Internet Services Simulation Suite - Project Homepage
+ - [http://www.inetsim.org](http://www.inetsim.org)
+ - date_published: 2020-05-19T15:11:14+00:00
+
+ ## Inexact Change
+ - [http://inexactchange.org](http://inexactchange.org)
+ - date_published: 2015-08-30T00:00:00+00:00
+
+ ## Inexor
+ - [https://inexor.org](https://inexor.org)
+ - date_published: 2024-05-09T09:07:18.533579+00:00
+
+ ## Home - InfAI
+ - [https://infai.org](https://infai.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Home - Infantile Spasms Action Network
+ - [https://infantilespasms.org](https://infantilespasms.org)
+ - date_published: 2019-11-23T22:24:11+00:00
+
+ ## Charity Fund Kids Without Fear
+ - [https://infear.org](https://infear.org)
+ - date_published: 2024-08-15T21:15:06+00:00
+
+ ## Infectious Generosity
+ - [https://www.infectiousgenerosity.org](https://www.infectiousgenerosity.org)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Inferno
+ - [https://infernojs.org](https://infernojs.org)
+ - date_published: 2024-05-08T09:00:00.302567+00:00
+
+ ## Infertility: A Diabolical Agenda
+ - [https://infertilitymovie.org](https://infertilitymovie.org)
+ - date_published: 2024-08-18T20:08:14.032535+00:00
+
+ ## Internet Infidels » a drop of reason in a pool of confusion
+ - [http://www.infidels.org](http://www.infidels.org)
+ - date_published: 2024-07-02T06:10:10.494810+00:00
+
+ ## Infiltration
+ - [http://infiltration.org](http://infiltration.org)
+ - date_published: 2023-12-07T12:51:29+00:00
+
+ ## Infinispan
+ - [https://infinispan.org](https://infinispan.org)
+ - date_published: 2024-07-09T13:42:15+00:00
+
+ ## Login | Littleton Public Schools
+ - [https://littletonco.infinitecampus.org](https://littletonco.infinitecampus.org)
+ - date_published: 2024-07-15T07:37:17.594168+00:00
+
+ ## Infinite Mac
+ - [https://infinitemac.org](https://infinitemac.org)
+ - date_published: 2023-10-25T21:31:41.996518+00:00
+
+ ## whitespaced's Webpage
+ - [https://infisoft.org](https://infisoft.org)
+ - date_published: 2024-06-12T22:01:06+00:00
+
+ ## Home
+ - [https://influencemap.org](https://influencemap.org)
+ - date_published: 2024-07-20T15:33:05.958950+00:00
+
+ ## Home - InfluenceWatch - InfluenceWatch
+ - [https://influencewatch.org](https://influencewatch.org)
+ - date_published: 2023-10-25T21:31:45.921130+00:00
+
+ ## Infoaut
+ - [https://www.infoaut.org](https://www.infoaut.org)
+ - date_published: 2024-06-23T20:29:34.436798+00:00
+
  ## Info Calories Alcool | Calculatrice de calories dans votre consommation d'alcool
  - [http://info-calories-alcool.org](http://info-calories-alcool.org)
  - date_published: 2024-06-17T12:27:06.077308+00:00
@@ -3812,221 +4025,4 @@
  ## jBPM Business Automation Toolkit
  - [https://www.jbpm.org](https://www.jbpm.org)
  - date_published: 2024-06-07T14:17:30+00:00
-
- ## Cierpliwości...
- - [https://jbs.org](https://jbs.org)
- - date_published: 2024-05-06T17:13:14.555713+00:00
-
- ## Sign in - Matomo
- - [https://stats.jbs.org](https://stats.jbs.org)
- - date_published: 2024-05-06T17:13:16.353646+00:00
-
- ## Home
- - [https://www.jcapsj.org](https://www.jcapsj.org)
- - date_published: 2024-09-11T17:10:28.202541+00:00
-
- ## Jane Coffin Childs Memorial Fund for Medical Research
- - [https://www.jccfund.org](https://www.jccfund.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - CCS&ES
- - [https://j-ccses.org](https://j-ccses.org)
- - date_published: 2018-01-04T12:14:08+00:00
-
- ## Joint Conference on Digital Libraries (JCDL) - Home
- - [http://www.jcdl.org](http://www.jcdl.org)
- - date_published: 2024-07-02T13:15:46.076102+00:00
-
- ## Journal of Copyright in Education & Librarianship
- - [https://www.jcel-pub.org](https://www.jcel-pub.org)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Welcome to the Joseph Campbell Foundation
- - [https://www.jcf.org](https://www.jcf.org)
- - date_published: 2024-08-18T10:03:30.256975+00:00
-
- ## Journal of Computer Graphics Techniques
- - [https://jcgt.org](https://jcgt.org)
- - date_published: 2022-01-24T19:49:13+00:00
-
- ## Sign In - JCI
- - [https://accounts.jci.org](https://accounts.jci.org)
- - date_published: 2024-07-07T01:58:30.449569+00:00
-
- ## JCI Insight -
-Welcome
- - [https://insight.jci.org](https://insight.jci.org)
- - date_published: 2023-10-25T21:33:32.162300+00:00
-
- ## JCI -
-Welcome
- - [https://jci.org](https://jci.org)
- - date_published: 2024-05-08T08:57:51.299057+00:00
-
- ## Sign In - JCI
- - [https://notices.jci.org](https://notices.jci.org)
- - date_published: 2024-05-08T08:58:02.738311+00:00
-
- ## JCommander
- - [https://jcommander.org](https://jcommander.org)
- - date_published: 2024-07-23T22:48:39.238539+00:00
-
- ## The Java Community Process(SM) Program
- - [https://jcp.org](https://jcp.org)
- - date_published: 2024-06-26T22:41:38.694932+00:00
-
- ## Jerusalem Center For Public Affairs
- - [https://jcpa.org](https://jcpa.org)
- - date_published: 2024-06-13T17:40:27+00:00
-
- ## Le CAPE de Jérusalem
- - [http://www.jcpa-lecape.org](http://www.jcpa-lecape.org)
- - date_published: 2024-09-17T08:23:29+00:00
-
- ## joshua stein
- - [https://jcs.org](https://jcs.org)
- - date_published: 2023-10-25T21:33:34.730352+00:00
-
- ## jcs.org
- - [https://social.jcs.org](https://social.jcs.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Jesuit Conference of South Asia | JCSA
- - [https://jcsaweb.org](https://jcsaweb.org)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## JCVS
- - [https://jcvs.org](https://jcvs.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## JD2718
- - [https://jd2718.org](https://jd2718.org)
- - date_published: 2024-06-30T08:26:23.299997+00:00
-
- ## JD Farag Home page
- - [https://www.jdfarag.org](https://www.jdfarag.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Driving Adoption of Open Source and Standards - Joint Development Foundation
- - [https://jdfprojects.org](https://jdfprojects.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## 一般社団法人日本ディープラーニング協会【公式】
- - [https://www.jdla.org](https://www.jdla.org)
- - date_published: 2024-07-03T04:48:24.918601+00:00
-
- ## JDownloader Community - Appwork GmbH - Powered by vBulletin
- - [https://board.jdownloader.org](https://board.jdownloader.org)
- - date_published: 2024-06-26T13:09:19.759911+00:00
-
- ## JDownloader.org - Official Homepage
- - [https://jdownloader.org](https://jdownloader.org)
- - date_published: 2024-06-26T12:42:22+00:00
- - tags: ['download manager']
-
- ## My JDownloader - Web Interface, Android, iOs and Windows Phone App
- - [https://my.jdownloader.org](https://my.jdownloader.org)
- - date_published: 2023-02-13T16:36:50+00:00
-
- ## Support Portal
- - [https://support.jdownloader.org](https://support.jdownloader.org)
- - date_published: 2024-06-26T13:09:18.686654+00:00
-
- ## JDP – Jury de Déontologie Publicitaire
- - [https://www.jdp-pub.org](https://www.jdp-pub.org)
- - date_published: 2024-09-15T21:32:22.474656+00:00
-
- ## Type 1 Diabetes - Breakthrough T1D
- - [https://www.jdrf.org](https://www.jdrf.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## 一般社団法人 日本宅配水＆サーバー協会
- - [https://www.jdsa-net.org](https://www.jdsa-net.org)
- - date_published: 2024-10-31T16:10:49.058229+00:00
-
- ## Fondation Jean-Jaurès - Accueil
- - [https://www.jean-jaures.org](https://www.jean-jaures.org)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## The Jean Monnet Program – The NYU Institutes On The Park
- - [http://jeanmonnetprogram.org](http://jeanmonnetprogram.org)
- - date_published: 2024-06-17T11:12:19.461573+00:00
-
- ## Home | JEDEC
- - [https://jedec.org](https://jedec.org)
- - date_published: 2023-12-11T10:55:36.795616+00:00
-
- ## jEdit - Programmer's Text Editor -
-overview
- - [http://www.jedit.org](http://www.jedit.org)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Solution complète de dons en ligne - Je donne en ligne
- - [https://www.jedonneenligne.org](https://www.jedonneenligne.org)
- - date_published: 2024-07-10T10:10:37.953545+00:00
-
- ## Uutishuone – Myöhempien Aikojen Pyhien Jeesuksen Kristuksen Kirkko
- - [https://uutiset.jeesuksenkristuksenkirkko.org](https://uutiset.jeesuksenkristuksenkirkko.org)
- - date_published: 2024-05-11T09:03:45.466656+00:00
-
- ## Pressikeskus − Viimse Aja Pühade Jeesuse Kristuse Kirik
- - [https://uudised.jeesusekristusekirik.org](https://uudised.jeesusekristusekirik.org)
- - date_published: 2024-05-11T09:03:15.193701+00:00
-
- ## Jeetbuzz - Download App Win Login লগইন Apk & Live Sports Cricket
- - [https://jeetbuzz2.org](https://jeetbuzz2.org)
- - date_published: 2024-09-06T13:44:35.043415+00:00
-
- ## Home | jeffcofair
- - [http://jeffcofair.org](http://jeffcofair.org)
- - date_published: 2024-07-08T22:30:01.163901+00:00
-
- ## Home
- - [https://jeffcofairgrounds.org](https://jeffcofairgrounds.org)
- - date_published: 2024-10-14T23:42:33.132366+00:00
-
- ## Home
- - [https://jeffersonhealthcare.org](https://jeffersonhealthcare.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Jefferson River Canoe Trail:  Paddle the Lewis and Clark National Historic Trail.
- - [http://www.jeffersonriver.org](http://www.jeffersonriver.org)
- - date_published: 1805-07-28T00:00:00+00:00
-
- ## Jeff Huang, washed up pianist
- - [https://jeffhuang.org](https://jeffhuang.org)
- - date_published: 2023-01-10T23:35:13+00:00
-
- ## Jeff Thompson
- - [https://jeffreythompson.org](https://jeffreythompson.org)
- - date_published: 2005-01-01T00:00:00+00:00
-
- ## Home
- - [https://jekyllcodex.org](https://jekyllcodex.org)
- - date_published: 2023-02-24T11:57:35+00:00
-
- ## คอร์สการตลาดออนไลน์ – แนะนำคอร์สการตลาดออนไลน์ที่น่าเรียน
- - [https://jekyllrb.org](https://jekyllrb.org)
- - date_published: 2024-07-10T06:33:19.111036+00:00
-
- ## Jellyfin
- - [https://demo.jellyfin.org](https://demo.jellyfin.org)
- - date_published: 2024-05-12T07:53:17.315305+00:00
-
- ## Introduction | Jellyfin
- - [https://docs.jellyfin.org](https://docs.jellyfin.org)
- - date_published: 2024-11-11T16:46:04+00:00
-
- ## Jellyfin Feature Requests
- - [https://features.jellyfin.org](https://features.jellyfin.org)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Jellyfin Forum
- - [https://forum.jellyfin.org](https://forum.jellyfin.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## The Free Software Media System | Jellyfin
- - [https://jellyfin.org](https://jellyfin.org)
- - date_published: 2023-10-25T21:33:41.843077+00:00
- - tags: ['video streaming app', 'self-host']
 

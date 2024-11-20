@@ -1,3 +1,72 @@
+ ## Wedding Gift Registry of your own - GiftyWeddings.com
+ - [https://giftyweddings.com](https://giftyweddings.com)
+ - date_published: 2024-09-06T01:06:54.515340+00:00
+
+ ## Anonymous, Fast, Free Image hosting
+ - [https://gifyu.com](https://gifyu.com)
+ - date_published: 2024-10-30T11:39:55.723062+00:00
+
+ ## Gifyu- S12 image hosting server
+ - [https://s12.gifyu.com](https://s12.gifyu.com)
+ - date_published: 2023-04-14T08:38:49+00:00
+
+ ## Award winning iGaming platform solution
+ - [https://gig.com](https://gig.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## GigabitNow
+ - [https://www.gigabitnow.com](https://www.gigabitnow.com)
+ - date_published: 2024-05-30T18:54:29+00:00
+
+ ## Sandia Area Federal Credit Union
+ - [https://sandia-area-credit-union.gigabook.com](https://sandia-area-credit-union.gigabook.com)
+ - date_published: 2024-07-10T04:57:16.902843+00:00
+
+ ## GIGABYTE Global
+ - [https://gigabyte.com](https://gigabyte.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+ - tags: ['hardware']
+
+ ## See Your Industry in a Different Perspective
+ - [https://industry.gigabyte.com](https://industry.gigabyte.com)
+ - date_published: 2024-09-04T06:43:45.949002+00:00
+
+ ## Login - GIGABYTE
+ - [https://profile.gigabyte.com](https://profile.gigabyte.com)
+ - date_published: 2024-09-04T06:43:44.649195+00:00
+
+ ## Flash | MCU | Sensor | Analog | Solutions-GigaDevice.com
+ - [http://www.gigadevice.com](http://www.gigadevice.com)
+ - date_published: 2024-09-05T18:14:54.013083+00:00
+
+ ## Glitter text generator!
+ - [http://www.gigaglitters.com](http://www.gigaglitters.com)
+ - date_published: 2024-09-02T17:03:24.228857+00:00
+
+ ## GigaLaw:  Doug Isenberg, domain name attorney (and more)
+ - [http://www.gigalaw.com](http://www.gigalaw.com)
+ - date_published: 2024-07-13T10:22:01.353613+00:00
+
+ ## Web Hosting and Domain Names for Africa
+ - [https://gigalayer.com](https://gigalayer.com)
+ - date_published: 2024-07-11T20:44:15.342988+00:00
+
+ ## Gigalixir - Default Backend
+ - [https://rotb.gigalixirapp.com](https://rotb.gigalixirapp.com)
+ - date_published: 2024-01-09T02:37:25.641305+00:00
+
+ ## gigamonkeys
+ - [https://gigamonkeys.com](https://gigamonkeys.com)
+ - date_published: 2023-10-25T14:43:59.564221+00:00
+
+ ## Home
+ - [https://giganews.com](https://giganews.com)
+ - date_published: 2024-05-09T04:38:33.607164+00:00
+
+ ## Giganews
+ - [https://support.giganews.com](https://support.giganews.com)
+ - date_published: 2024-07-09T10:19:27.516496+00:00
+
  ## HYPER JAPAN Festival Tickets
  - [https://hyperjapan.gigantic.com](https://hyperjapan.gigantic.com)
  - date_published: 2024-10-22T06:22:28.776795+00:00
@@ -1027,6 +1096,7 @@
  ## GitHub - Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist: The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
  - [https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
  - date_published: 2024-11-07T09:48:15+00:00
+ - tags: ['blocklist']
 
  ## GitHub - kieraneglin/pinchflat: Your next YouTube media manager
  - [https://github.com/kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
@@ -1314,6 +1384,26 @@
  - [https://github.com/rumca-js/Django-link-archive](https://github.com/rumca-js/Django-link-archive)
  - date_published: 2024-11-18T14:06:15+00:00
  - tags: ['rss client']
+
+ ## GitHub - badmojr/1Hosts: World's most advanced  DNS filter-/blocklists!
+ - [https://github.com/badmojr/1Hosts](https://github.com/badmojr/1Hosts)
+ - date_published: 2024-11-19T14:25:23+00:00
+ - tags: ['blocklist']
+
+ ## GitHub - FiltersHeroes/KADhosts: Wersja hosts, PiHole, dnsmasq, domenowa (Forti Guard) filtrów KAD
+ - [https://github.com/FiltersHeroes/KADhosts](https://github.com/FiltersHeroes/KADhosts)
+ - date_published: 2024-11-19T14:29:06+00:00
+ - tags: ['blocklist']
+
+ ## GitHub - FadeMind/hosts.extras: Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]
+ - [https://github.com/FadeMind/hosts.extras](https://github.com/FadeMind/hosts.extras)
+ - date_published: 2024-11-19T14:29:22+00:00
+ - tags: ['blocklist']
+
+ ## GitHub - DandelionSprout/adfilt: The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+ - [https://github.com/DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt)
+ - date_published: 2024-11-19T14:29:39+00:00
+ - tags: ['blocklist']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -3994,88 +4084,4 @@
  ## Events | The Economist Group Limited
  - [https://corporatenetwork.glueup.com](https://corporatenetwork.glueup.com)
  - date_published: 2024-07-14T04:02:58.758929+00:00
-
- ## Events | ETIS
- - [https://etis.glueup.com](https://etis.glueup.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Events | Glue Up
- - [https://events.glueup.com](https://events.glueup.com)
- - date_published: 2024-09-24T21:21:00.965142+00:00
-
- ## Events | FinTech Australia
- - [https://fintechaustralia.glueup.com](https://fintechaustralia.glueup.com)
- - date_published: 2024-10-11T22:08:37.049919+00:00
-
- ## Events | IPOPI aisbl
- - [https://ipopi.glueup.com](https://ipopi.glueup.com)
- - date_published: 2024-09-10T13:32:59.754295+00:00
-
- ## All-in-one Association Management Software • Glue Up
- - [https://projectcounter.glueup.com](https://projectcounter.glueup.com)
- - date_published: 2024-07-01T15:12:31.459301+00:00
-
- ## TCAE
- - [https://tcae-website.glueup.com](https://tcae-website.glueup.com)
- - date_published: 2024-06-16T04:15:34.835060+00:00
-
- ## All-in-one Association Management Software • Glue Up
- - [https://www.glueup.com](https://www.glueup.com)
- - date_published: 2024-09-15T11:55:31.803868+00:00
-
- ## Glumberland
- - [http://glumberland.com](http://glumberland.com)
- - date_published: 2022-01-19T16:39:19+00:00
-
- ## Rapid Enterprise Mobile Apps: Build, Connect, Manage with Gluon
- - [https://gluonhq.com](https://gluonhq.com)
- - date_published: 2024-05-06T09:07:06.430090+00:00
-
- ## Gluware Intelligent Network Automation for the Cloud Era™
- - [https://gluware.com](https://gluware.com)
- - date_published: 2022-07-29T21:09:51+00:00
-
- ## GlycoPath Inc.
- - [https://glycopath.com](https://glycopath.com)
- - date_published: 2024-07-13T11:59:11.000473+00:00
-
- ## Parked Page for: glyde.com
- - [http://glyde.com](http://glyde.com)
- - date_published: 2024-05-09T05:18:54.299027+00:00
-
- ## Glyphack
- - [https://glyphack.com](https://glyphack.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Glyph & Cog
- - [https://glyphandcog.com](https://glyphandcog.com)
- - date_published: 2024-05-11T11:32:26.586238+00:00
-
- ## GLYPHICONS - Visual language that everybody understands
- - [http://glyphicons.com](http://glyphicons.com)
- - date_published: 2024-06-17T16:35:43.318207+00:00
-
- ## Glyphish: Icons for iOS and WatchKit
- - [https://glyphish.com](https://glyphish.com)
- - date_published: 2024-05-06T23:30:10.181598+00:00
-
- ## Glyphs
- - [https://cdn2.glyphsapp.com](https://cdn2.glyphsapp.com)
- - date_published: 2024-10-29T14:02:17.580726+00:00
-
- ## Glyphs Forum
- - [https://forum.glyphsapp.com](https://forum.glyphsapp.com)
- - date_published: 2024-10-29T14:02:56.669223+00:00
-
- ## Glyphs
- - [https://glyphsapp.com](https://glyphsapp.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://statistics.glyphsapp.com](https://statistics.glyphsapp.com)
- - date_published: 2024-10-29T14:02:32.732621+00:00
-
- ## GlyphSearch
- - [https://glyphsearch.com](https://glyphsearch.com)
- - date_published: 2024-10-22T19:23:39.700742+00:00
 

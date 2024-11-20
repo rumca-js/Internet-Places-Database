@@ -1,3 +1,183 @@
+ ## Home | Newsroom
+ - [http://news.ucmerced.edu](http://news.ucmerced.edu)
+ - date_published: 2024-07-01T21:41:05+00:00
+
+ ## University of California, Merced | Off-Campus Housing Search
+ - [http://och.ucmerced.edu](http://och.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:06.136319+00:00
+
+ ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
+ - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:44.171009+00:00
+
+ ## UC Merced Postdoctoral Scholars
+ - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
+ - date_published: 2024-07-01T23:04:19+00:00
+
+ ## Home | Office of the Executive Vice Chancellor and Provost
+ - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
+ - date_published: 2024-07-01T22:56:00+00:00
+
+ ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
+ - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Welcome to Office of Research Development | Office of Research Development
+ - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:01.432396+00:00
+
+ ## Office of the Registrar | Supporting the Academic Mission
+ - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:18.492407+00:00
+
+ ## Office of Research and Economic Development
+ - [https://research.ucmerced.edu](https://research.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:38+00:00
+
+ ## Home | Academic Senate
+ - [http://senate.ucmerced.edu](http://senate.ucmerced.edu)
+ - date_published: 2024-07-01T22:59:39+00:00
+
+ ## Sponsored Projects Office
+ - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Social Sciences, Humanities and Arts
+ - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
+ - date_published: 2024-07-01T20:39:06+00:00
+
+ ## Home | Student Affairs
+ - [https://studentaffairs.ucmerced.edu](https://studentaffairs.ucmerced.edu)
+ - date_published: 2024-07-01T21:00:27+00:00
+
+ ## Students First Center | Phone: 209-228-7178
+ - [https://studentsfirst.ucmerced.edu](https://studentsfirst.ucmerced.edu)
+ - date_published: 2024-07-01T22:32:00+00:00
+
+ ## Division of Undergraduate Education
+ - [https://ue.ucmerced.edu](https://ue.ucmerced.edu)
+ - date_published: 2024-07-01T23:16:45.680457+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://vllab1.ucmerced.edu](http://vllab1.ucmerced.edu)
+ - date_published: 2018-04-18T23:18:39+00:00
+
+ ## VLLab - UC Merced
+ - [http://vllab.ucmerced.edu](http://vllab.ucmerced.edu)
+ - date_published: 2023-03-12T09:07:46+00:00
+
+ ## Home | University Writing Center
+ - [https://writingcenter.ucmerced.edu](https://writingcenter.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:40.485463+00:00
+
+ ## The Karen Merritt Writing Program
+ - [https://writingprogram.ucmerced.edu](https://writingprogram.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:22.838187+00:00
+
+ ## Writing Studies
+ - [https://writingstudies.ucmerced.edu](https://writingstudies.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:04.509540+00:00
+
+ ## University of California, Merced
+ - [https://www.ucmerced.edu](https://www.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:17.110274+00:00
+
+ ## Home | IT Accessibility
+ - [https://accessibility.its.uconn.edu](https://accessibility.its.uconn.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://accessibility.media.uconn.edu](https://accessibility.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## Home | Accessibility
+ - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Home | Accounting Department
+ - [http://accounting.business.uconn.edu](http://accounting.business.uconn.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.uconn.edu](https://admissions.uconn.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## UConn Alert | Home
+ - [http://alert.uconn.edu](http://alert.uconn.edu)
+ - date_published: 2024-07-01T23:20:39.740632+00:00
+
+ ## UConn School of Business | Office of External and Alumni Engagement
+ - [http://alumni.business.uconn.edu](http://alumni.business.uconn.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://arthur-parzygnat.uconn.edu](https://arthur-parzygnat.uconn.edu)
+ - date_published: 2024-05-04T14:40:31.233891+00:00
+
+ ## Home | Aurora
+ - [https://aurora.media.uconn.edu](https://aurora.media.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Aurora
+ - [https://aurora.uconn.edu](https://aurora.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Avery Point
+ - [https://averypoint.uconn.edu](https://averypoint.uconn.edu)
+ - date_published: 2024-07-01T23:19:55.132584+00:00
+
+ ## University of Connecticut | Brand Standards
+ - [https://brand.uconn.edu](https://brand.uconn.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Home | Business Law
+ - [http://businesslaw.business.uconn.edu](http://businesslaw.business.uconn.edu)
+ - date_published: 2024-07-01T23:32:59+00:00
+
+ ## UConn School of Business | School of Business
+ - [https://business.uconn.edu](https://business.uconn.edu)
+ - date_published: 2024-05-07T20:56:51.424555+00:00
+
+ ## Home | Business Career Development Office
+ - [https://career.business.uconn.edu](https://career.business.uconn.edu)
+ - date_published: 2024-07-01T22:05:27+00:00
+
+ ## Home | Connecticut Center for Economic Analysis
+ - [http://ccea.uconn.edu](http://ccea.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ccei.business.uconn.edu](http://ccei.business.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [https://ccei.uconn.edu](https://ccei.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home | Department of Chemistry
+ - [http://chemistry.uconn.edu](http://chemistry.uconn.edu)
+ - date_published: 2024-10-19T04:47:38.579363+00:00
+
+ ## The 2024 Periodical Cicada Emergence | Periodical Cicada Information Pages
+ - [https://cicadas.uconn.edu](https://cicadas.uconn.edu)
+ - date_published: 2024-07-17T04:52:21+00:00
+
+ ## Home | Connecticut Information Technology Institute
+ - [http://citi.uconn.edu](http://citi.uconn.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home | College of Liberal Arts and Sciences
+ - [https://clas.uconn.edu](https://clas.uconn.edu)
+ - date_published: 2024-07-21T01:27:03+00:00
+
+ ## University of Connecticut | University Communications
+ - [https://communications.uconn.edu](https://communications.uconn.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | Office of University Compliance
+ - [https://compliance.uconn.edu](https://compliance.uconn.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
  ## Home | Math Courses
  - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
  - date_published: 2024-01-11T00:00:00+00:00
@@ -3822,184 +4002,4 @@
  ## Liao Lab »  » University of Florida
  - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
  - date_published: 2024-05-07T21:11:31.450474+00:00
-
- ## Forms & Requests
- - [https://commsupport.clas.ufl.edu](https://commsupport.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:59.501755+00:00
-
- ## compliance.ufl.edu - Compliance & Ethics - University of Florida
- - [https://compliance.ufl.edu](https://compliance.ufl.edu)
- - date_published: 2024-10-15T06:43:21.120010+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu](https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-10-25T21:04:26+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [http://csea.phhp.ufl.edu](http://csea.phhp.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://dcf.psychiatry.ufl.edu](https://dcf.psychiatry.ufl.edu)
- - date_published: 2024-06-18T21:55:40+00:00
-
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://directory.ifas.ufl.edu](https://directory.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:45.890823+00:00
-
- ## Directory » University of Florida
- - [https://directory.ufl.edu](https://directory.ufl.edu)
- - date_published: 2024-07-02T02:07:51.489872+00:00
-
- ## Disability Resource Center - Disability
- - [https://disability.ufl.edu](https://disability.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## UF/IFAS Disaster Preparation & Recovery - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://disaster.ifas.ufl.edu](https://disaster.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:03.020199+00:00
-
- ## Ask IFAS - Powered by EDIS
- - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## eLearning - University of Florida
- - [https://elearning.ufl.edu](https://elearning.ufl.edu)
- - date_published: 2024-07-02T02:07:58.545229+00:00
-
- ## UF Election Lab
- - [https://election.lab.ufl.edu](https://election.lab.ufl.edu)
- - date_published: 2024-10-14T21:14:49.282029+00:00
-
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://entnemdept.ufl.edu](https://entnemdept.ufl.edu)
- - date_published: 2024-10-15T05:48:11.814538+00:00
-
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://entomology.ifas.ufl.edu](http://entomology.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:07.135878+00:00
-
- ## University of Florida Experts | Search & Connect
- - [https://experts.ufl.edu](https://experts.ufl.edu)
- - date_published: 2024-05-07T21:11:34.496371+00:00
-
- ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:35.898558+00:00
-
- ## Faculty Websites – Herbert Wertheim College of Engineering
- - [https://faculty.eng.ufl.edu](https://faculty.eng.ufl.edu)
- - date_published: 2024-08-06T10:26:00.307799+00:00
-
- ## Field and Fork Website
- - [https://fieldandfork.ufl.edu](https://fieldandfork.ufl.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## ArchivesSpace Public Interface | Special & Area Studies Collections
- - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
- - date_published: 2024-06-14T04:11:54.363246+00:00
-
- ## Florida Museum
- - [https://floridamuseum.ufl.edu](https://floridamuseum.ufl.edu)
- - date_published: 2023-11-09T19:00:22.567256+00:00
-
- ## Florida SeaGrant Programs - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://flseagrant.ifas.ufl.edu](http://flseagrant.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:29.562040+00:00
-
- ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://fred.ifas.ufl.edu](https://fred.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:33.872122+00:00
-
- ## Dr. Jie Fu – Assistant Professor at ECE Florida
- - [https://fujie.ece.ufl.edu](https://fujie.ece.ufl.edu)
- - date_published: 2024-09-13T19:54:49.243023+00:00
-
- ## Gulf Coast Research and Education Center - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://gcrec.ifas.ufl.edu](http://gcrec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:31.793095+00:00
-
- ## Wireless@UF - Get Online
- - [https://getonline.ufl.edu](https://getonline.ufl.edu)
- - date_published: 2024-07-02T02:07:52.798120+00:00
-
- ## IFAS Advancement Office - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://give.ifas.ufl.edu](https://give.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:53.378272+00:00
-
- ## Graduate Catalog  < University of Florida
- - [http://gradcatalog.ufl.edu](http://gradcatalog.ufl.edu)
- - date_published: 2024-06-17T20:04:27+00:00
-
- ## The Graduate School - University of Florida
- - [http://graduateschool.ufl.edu](http://graduateschool.ufl.edu)
- - date_published: 2024-07-02T02:18:23.621879+00:00
-
- ## LibGuides: home: Home
- - [https://guides.law.ufl.edu](https://guides.law.ufl.edu)
- - date_published: 2024-10-18T22:27:29.761367+00:00
-
- ## handbook.aa.ufl.edu - Faculty Handbook - University of Florida
- - [http://handbook.aa.ufl.edu](http://handbook.aa.ufl.edu)
- - date_published: 2024-07-02T02:19:13.447830+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://hr.ifas.ufl.edu](https://hr.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:55.840843+00:00
-
- ## IFAS Communications - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://ics.ifas.ufl.edu](https://ics.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:23.630749+00:00
-
- ## Identity & Access Management Services » University of Florida
- - [https://identity.it.ufl.edu](https://identity.it.ufl.edu)
- - date_published: 2024-07-02T02:08:10.255439+00:00
-
- ## Home
- - [https://ifasbooks.ifas.ufl.edu](https://ifasbooks.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:27.774795+00:00
-
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://ifas.ufl.edu](https://ifas.ufl.edu)
- - date_published: 2024-06-14T23:31:44.295638+00:00
-
- ## Procedures and Policies - UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://imm.ifas.ufl.edu](https://imm.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:21.320326+00:00
-
- ## Home - UF Innovate
- - [https://innovate.research.ufl.edu](https://innovate.research.ufl.edu)
- - date_published: 2024-06-17T04:16:53.822673+00:00
-
- ## AdvancementHUB
- - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
- - date_published: 2024-07-02T02:19:57.569762+00:00
-
- ## Institutional Planning and Research
- - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
- - date_published: 2024-07-02T01:53:41+00:00
-
- ## UF/IFAS Information Technology
- - [http://it.ifas.ufl.edu](http://it.ifas.ufl.edu)
- - date_published: 2022-12-30T18:49:20+00:00
-
- ## Information Technology - University of Florida
- - [https://it.ufl.edu](https://it.ufl.edu)
- - date_published: 2024-07-02T02:07:49.776780+00:00
-
- ## Careers
- - [https://jobs.ufl.edu](https://jobs.ufl.edu)
- - date_published: 2024-07-02T02:11:23.301447+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date_published: 2024-02-08T16:20:48.739035+00:00
-
- ## Health Science Center Libraries » UF Libraries » University of Florida
- - [https://library.health.ufl.edu](https://library.health.ufl.edu)
- - date_published: 2024-08-16T20:05:57+00:00
-
- ## eLearning - University of Florida
- - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
- - date_published: 2024-07-02T02:19:19.447279+00:00
 

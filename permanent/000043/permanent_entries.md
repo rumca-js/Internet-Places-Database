@@ -1,3 +1,28 @@
+ ## Program Evaluation - Program Evaluation for Public Service
+ - [https://evalf22.classes.andrewheiss.com](https://evalf22.classes.andrewheiss.com)
+ - date_published: 2022-10-03T15:37:20+00:00
+
+ ## MPA 630: Data Science for Public Management
+ - [https://statsf18.classes.andrewheiss.com](https://statsf18.classes.andrewheiss.com)
+ - date_published: 2019-05-10T01:23:35+00:00
+
+ ## BUS M 491R: Telling Stories with Data
+ - [https://storiesf17.classes.andrewheiss.com](https://storiesf17.classes.andrewheiss.com)
+ - date_published: 2017-12-04T22:22:53+00:00
+
+ ## Andrew Hitz
+ - [https://www.andrewhitz.com](https://www.andrewhitz.com)
+ - date_published: 2023-11-29T15:50:04.319666+00:00
+ - tags: ['personal']
+
+ ## Andrew Isles Natural History Books
+ - [https://www.andrewisles.com](https://www.andrewisles.com)
+ - date_published: 2024-10-29T18:19:18.988106+00:00
+
+ ## andrew | My writings, projects, and links
+ - [https://andrewjudson.com](https://andrewjudson.com)
+ - date_published: 2023-02-02T06:25:45+00:00
+
  ## Home | Andrew JV Powell
  - [https://www.andrewjvpowell.com](https://www.andrewjvpowell.com)
  - date_published: 2021-09-26T01:22:43+00:00
@@ -216,6 +241,7 @@
  ## Android | Do More With Google on Android Phones & Devices
  - [https://android.com](https://android.com)
  - date_published: 2024-06-17T09:48:00+00:00
+ - tags: ['operating system', 'gatekeeper']
 
  ## Android Mobile App Developer Tools – Android Developers
  - [http://d.android.com](http://d.android.com)
@@ -4036,28 +4062,4 @@
  ## Aphotic
  - [https://aphoticrestaurant.com](https://aphoticrestaurant.com)
  - date_published: 2024-06-24T06:03:55.237314+00:00
-
- ## A. P. Howell
- - [https://aphowell.com](https://aphowell.com)
- - date_published: 2024-05-08T06:36:11.095433+00:00
-
- ## Aphyr - Posts
- - [https://aphyr.com](https://aphyr.com)
- - date_published: 2023-10-25T12:42:34.516492+00:00
-
- ## API2Cart - Unified Shopping Cart API Integration Interface
- - [https://api2cart.com](https://api2cart.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## API2HTML | Convert raw API data into beautiful webpages
- - [https://api2html.com](https://api2html.com)
- - date_published: 2023-03-14T18:26:32+00:00
-
- ## Home
- - [https://apiabroad.com](https://apiabroad.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## API Student Application
- - [https://connect.apiabroad.com](https://connect.apiabroad.com)
- - date_published: 2024-07-12T23:50:53.239854+00:00
 

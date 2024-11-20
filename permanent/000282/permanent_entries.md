@@ -1,3 +1,191 @@
+ ## Klaytn Foundation | A sustainable and verifiable blockchain built for all
+ - [https://klaytn.foundation](https://klaytn.foundation)
+ - date_published: 2024-07-09T11:34:22.013321+00:00
+
+ ## LF AI & Data Landscape
+ - [https://landscape.lfai.foundation](https://landscape.lfai.foundation)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## LFAI & Data – Linux Foundation Project
+ - [https://lfai.foundation](https://lfai.foundation)
+ - date_published: 2024-06-22T20:39:05.409003+00:00
+
+ ## LFAI & Data – Linux Foundation Project
+ - [https://lfaidata.foundation](https://lfaidata.foundation)
+ - date_published: 2024-05-06T08:56:10.770666+00:00
+
+ ## main lists.lfaidata.foundation Group
+ - [https://lists.lfaidata.foundation](https://lists.lfaidata.foundation)
+ - date_published: 2024-06-22T20:39:08.418630+00:00
+
+ ## Join LF AI &amp; Data Foundation on Slack
+ - [https://slack.lfaidata.foundation](https://slack.lfaidata.foundation)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## LF AI & Data Foundation - LF AI Foundation - Confluence
+ - [https://wiki.lfaidata.foundation](https://wiki.lfaidata.foundation)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home - LGBT Foundation
+ - [https://lgbt.foundation](https://lgbt.foundation)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## OPTF | OPTF | A global privacy tech not-for-profit based in Australia | Privacy is a fundamental right.
+ - [https://loki.foundation](https://loki.foundation)
+ - date_published: 2024-06-28T21:41:34.587502+00:00
+
+ ## Help to save lives of Ukrainian protectors and provide relief to Ukrainian civilians.
+ - [https://macpaw.foundation](https://macpaw.foundation)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Martingale Foundation
+ - [https://martingale.foundation](https://martingale.foundation)
+ - date_published: 2024-07-03T21:21:31.776428+00:00
+
+ ## Metis Foundation
+ - [https://www.metis.foundation](https://www.metis.foundation)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Moonbeam Foundation | Funding the Moonbeam Network
+ - [https://moonbeam.foundation](https://moonbeam.foundation)
+ - date_published: 2024-09-21T23:36:23.761838+00:00
+
+ ## Mythos
+ - [https://mythos.foundation](https://mythos.foundation)
+ - date_published: 2024-10-30T17:42:06+00:00
+
+ ## Home - NEAR Foundation
+ - [https://near.foundation](https://near.foundation)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Opalstack: no site here.... yet!
+ - [https://newalexandria.foundation](https://newalexandria.foundation)
+ - date_published: 2021-08-27T06:22:04+00:00
+
+ ## =nil; zkSharding for Ethereum
+ - [https://nil.foundation](https://nil.foundation)
+ - date_published: 2024-09-04T12:15:57.246696+00:00
+
+ ## main lists.o3d.foundation Group
+ - [https://lists.o3d.foundation](https://lists.o3d.foundation)
+ - date_published: 2024-07-09T17:16:37.981417+00:00
+
+ ## Open 3D Foundation – Linux Foundation Project
+ - [https://o3d.foundation](https://o3d.foundation)
+ - date_published: 2024-05-09T05:50:49.337835+00:00
+
+ ## Open Collective Foundation Dissolution - Open Collective Foundation
+ - [https://docs.opencollective.foundation](https://docs.opencollective.foundation)
+ - date_published: 2024-03-11T20:57:37.818276+00:00
+
+ ## Open Source Firmware Foundation
+ - [https://opensourcefirmware.foundation](https://opensourcefirmware.foundation)
+ - date_published: 2024-06-26T09:19:27.920170+00:00
+
+ ## OpenWallet Foundation – Linux Foundation Project
+ - [https://openwallet.foundation](https://openwallet.foundation)
+ - date_published: 2024-09-18T14:38:14.443719+00:00
+
+ ## Parallel Worlds
+ - [https://parallelworlds.foundation](https://parallelworlds.foundation)
+ - date_published: 2023-11-02T10:31:45+00:00
+
+ ## Home - Personio Foundation
+ - [https://www.personio.foundation](https://www.personio.foundation)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Privacy by Design Foundation
+ - [https://privacybydesign.foundation](https://privacybydesign.foundation)
+ - date_published: 2024-03-24T22:34:23+00:00
+
+ ## Proctor Foundation for Art and Science – Art • Science • Inspiration
+ - [https://proctor.foundation](https://proctor.foundation)
+ - date_published: 2024-06-17T16:27:11.171373+00:00
+
+ ## Race Bridge
+ - [https://bridge.race.foundation](https://bridge.race.foundation)
+ - date_published: 2024-09-17T07:26:58+00:00
+
+ ## RACE Foundation
+ - [https://race.foundation](https://race.foundation)
+ - date_published: 2024-09-02T13:33:30+00:00
+
+ ## Race Bridge
+ - [https://testnet-bridge.race.foundation](https://testnet-bridge.race.foundation)
+ - date_published: 2024-09-20T10:33:10+00:00
+
+ ## Regen Foundation
+ - [https://regen.foundation](https://regen.foundation)
+ - date_published: 2023-10-30T00:00:00+00:00
+
+ ## ResearchHub Foundation: The ResearchHub Community
+ - [https://researchhub.foundation](https://researchhub.foundation)
+ - date_published: 2024-04-28T04:39:09.828354+00:00
+
+ ## Risk Labs
+ - [https://risklabs.foundation](https://risklabs.foundation)
+ - date_published: 2024-05-28T15:28:18+00:00
+
+ ## Sentient
+ - [https://sentient.foundation](https://sentient.foundation)
+ - date_published: 2024-09-16T23:04:38.439997+00:00
+
+ ## SSV Foundation
+ - [https://www.ssv.foundation](https://www.ssv.foundation)
+ - date_published: 2024-09-21T23:48:57.287790+00:00
+
+ ## Story Documentation
+ - [https://docs.story.foundation](https://docs.story.foundation)
+ - date_published: 2024-09-22T02:00:35.006391+00:00
+
+ ## Story Explorer
+ - [https://explorer.story.foundation](https://explorer.story.foundation)
+ - date_published: 2024-09-22T02:00:19.079253+00:00
+
+ ## Vercel Security Checkpoint
+ - [https://faucet.story.foundation](https://faucet.story.foundation)
+ - date_published: 2024-09-24T10:18:53.014593+00:00
+
+ ## Learn Story
+ - [https://learn.story.foundation](https://learn.story.foundation)
+ - date_published: 2024-09-22T02:00:23.226068+00:00
+
+ ## Story Staking Dashboard
+ - [https://staking.story.foundation](https://staking.story.foundation)
+ - date_published: 2024-09-22T02:00:32.028934+00:00
+
+ ## Story
+ - [https://www.story.foundation](https://www.story.foundation)
+ - date_published: 2024-09-21T23:23:43.307174+00:00
+
+ ## Sign in - Matomo
+ - [https://mtm.swarm.foundation](https://mtm.swarm.foundation)
+ - date_published: 2024-08-18T19:29:58.788713+00:00
+
+ ## Tezos Foundation
+ - [https://tezos.foundation](https://tezos.foundation)
+ - date_published: 2024-06-07T07:25:09+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.thephp.foundation](https://analytics.thephp.foundation)
+ - date_published: 2024-08-20T19:34:34.837470+00:00
+
+ ## The PHP Foundation
+ - [https://thephp.foundation](https://thephp.foundation)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## The Open Network Foundation
+ - [https://ton.foundation](https://ton.foundation)
+ - date_published: 2024-07-04T09:21:34.821466+00:00
+
+ ## Urban Computing Foundation
+ - [https://uc.foundation](https://uc.foundation)
+ - date_published: 2024-06-26T22:41:07.867771+00:00
+
+ ## Ultron | Crypto for the people.
+ - [https://ultron.foundation](https://ultron.foundation)
+ - date_published: 2024-08-30T00:00:00+00:00
+
  ## Vision - Velocity
  - [https://www.velocitynetwork.foundation](https://www.velocitynetwork.foundation)
  - date_published: 2023-03-05T00:00:00+00:00
@@ -3820,192 +4008,4 @@
  ## Podcasts - CRLO
  - [https://www.crlo.fr](https://www.crlo.fr)
  - date_published: 2024-07-03T06:29:26.027279+00:00
-
- ## Welcome to Croft Mill
- - [https://www.croftmill.fr](https://www.croftmill.fr)
- - date_published: 2024-07-10T03:40:32.760710+00:00
-
- ## Croix-Rouge française : engagez vous à nos côtés
- - [https://www.croix-rouge.fr](https://www.croix-rouge.fr)
- - date_published: 2024-07-03T05:04:15.588508+00:00
-
- ## Crous Grenoble Alpes
- - [https://www.crous-grenoble.fr](https://www.crous-grenoble.fr)
- - date_published: 2022-09-12T07:54:31+00:00
-
- ## Crous Lorraine
- - [https://www.crous-lorraine.fr](https://www.crous-lorraine.fr)
- - date_published: 2022-09-12T07:54:31+00:00
-
- ## CryptCheck
- - [https://cryptcheck.fr](https://cryptcheck.fr)
- - date_published: 2024-05-09T05:38:07.678270+00:00
-
- ## Comprendre le Bitcoin, la blockchain et les crypto-monnaies
- - [https://cryptoast.fr](https://cryptoast.fr)
- - date_published: 2024-09-24T20:24:34+00:00
-
- ## Cryptorobin.fr - Votre source pour comprendre les Crypto
- - [https://cryptorobin.fr](https://cryptorobin.fr)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## CryptPad: end-to-end encrypted collaboration suite
- - [https://cryptpad.fr](https://cryptpad.fr)
- - date_published: 2024-03-27T11:06:39+00:00
-
- ## stph
- - [https://stph.crzt.fr](https://stph.crzt.fr)
- - date_published: 2024-05-09T07:46:47.834089+00:00
-
- ## CSTB Lab Accelérateur de Start-up
- - [https://www.cstb-lab.fr](https://www.cstb-lab.fr)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CTI – Commission des Titres d'Ingénieur
- - [https://www.cti-commission.fr](https://www.cti-commission.fr)
- - date_published: 2024-07-03T04:18:02.332511+00:00
-
- ## Ctrl-Alt-Test - A French Demoscene Group, since 2009
- - [https://ctrl-alt-test.fr](https://ctrl-alt-test.fr)
- - date_published: 2023-10-25T19:14:41.705580+00:00
-
- ## Cuisine actuelle : toutes vos recettes de cuisine
- - [https://www.cuisineactuelle.fr](https://www.cuisineactuelle.fr)
- - date_published: 2024-06-25T18:24:09.165713+00:00
-
- ## CulinoTests
- - [http://culinotests.fr](http://culinotests.fr)
- - date_published: 2024-06-27T08:40:20.608876+00:00
-
- ## Devenez au pair aux États-Unis | Cultural Care
- - [https://www.culturalcare.fr](https://www.culturalcare.fr)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Accueil
- - [https://pass.culture.fr](https://pass.culture.fr)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Ministère de la Culture
- - [http://www.culture.fr](http://www.culture.fr)
- - date_published: 2024-10-19T15:31:19.657826+00:00
-
- ## Musée Curie - Site officiel • Situé à Paris dans le 5e arrondissement - Musée Curie
- - [https://musee.curie.fr](https://musee.curie.fr)
- - date_published: 2024-07-06T23:41:57.353012+00:00
-
- ## Créer un CV en ligne à remplir et télécharger
- - [https://cv.fr](https://cv.fr)
- - date_published: 2024-06-23T12:24:39.016875+00:00
-
- ## Créez votre CV gratuit gagnant
- - [https://cvapp.fr](https://cvapp.fr)
- - date_published: 2024-05-06T09:21:19.782589+00:00
-
- ## Cvapp.fr FAQ
- - [https://help.cvapp.fr](https://help.cvapp.fr)
- - date_published: 2024-06-22T22:12:24.843081+00:00
-
- ## Accueil | Cycles Gitane
- - [https://www.cycles-gitane.fr](https://www.cycles-gitane.fr)
- - date_published: 2024-09-19T14:43:23.904161+00:00
-
- ## Home | CY - ecole de design
- - [https://www.cy-ecolededesign.fr](https://www.cy-ecolededesign.fr)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CY Cergy Paris Université | Design your life
- - [https://www.cyu.fr](https://www.cyu.fr)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Waays - web architect at your service
- - [https://daevel.fr](https://daevel.fr)
- - date_published: 2024-08-05T08:01:37+00:00
-
- ## Ivan Dalmet - Product Designer, UI & UX - Rouen, France
- - [http://ivan.dalmet.fr](http://ivan.dalmet.fr)
- - date_published: 2024-06-23T08:14:08.128814+00:00
-
- ## All posts
- - [https://dambron.fr](https://dambron.fr)
- - date_published: 2024-01-11T13:29:21.444707+00:00
-
- ## DamyR
- - [https://damyr.fr](https://damyr.fr)
- - date_published: 2023-12-07T08:23:58+00:00
-
- ## Dancecode Talent Agency
- - [https://dancecode.fr](https://dancecode.fr)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Dans Un Coin Si Dense
- - [http://dansuncoinsidense.fr](http://dansuncoinsidense.fr)
- - date_published: 2024-06-19T16:18:03.722657+00:00
-
- ## Home
- - [https://pm.dartus.fr](https://pm.dartus.fr)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Data Airlines
- - [https://www.dataairlines.fr](https://www.dataairlines.fr)
- - date_published: 2024-08-22T22:14:23.129902+00:00
-
- ## dataetic, développeur web indépendant
- - [https://dataetic.fr](https://dataetic.fr)
- - date_published: 2021-09-09T10:54:51+00:00
-
- ## David Fayon – Numérique et transformation digitale
- - [https://davidfayon.fr](https://davidfayon.fr)
- - date_published: 2024-09-24T21:21:34.303244+00:00
-
- ## Freelance React Native Developer
- - [https://davidl.fr](https://davidl.fr)
- - date_published: 2024-05-11T10:05:46.918806+00:00
-
- ## Accueil | David Laroche
- - [https://www.davidlaroche.fr](https://www.davidlaroche.fr)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## blog.DavidLibeau.fr
- - [https://blog.davidlibeau.fr](https://blog.davidlibeau.fr)
- - date_published: 2024-04-07T20:28:59.662202+00:00
-
- ## DavidLibeau.fr
- - [https://davidlibeau.fr](https://davidlibeau.fr)
- - date_published: 2024-05-13T03:58:22.158702+00:00
-
- ## Bienvenue sur davlgd.fr
- - [https://davlgd.fr](https://davlgd.fr)
- - date_published: 2024-01-15T20:10:43+00:00
-
- ## db0.company - Deby Lepage Official Website
- - [https://db0.fr](https://db0.fr)
- - date_published: 2024-05-12T06:59:11.827798+00:00
-
- ## D-Block : La Solution pour Monétiser (votre Audience) Adblock
- - [https://d-block.fr](https://d-block.fr)
- - date_published: 2024-05-06T17:48:53.529191+00:00
-
- ## dCode - Solveurs, Crypto, Maths, Codes, Calculs en Ligne
- - [https://www.dcode.fr](https://www.dcode.fr)
- - date_published: 2024-06-23T18:17:29.269908+00:00
-
- ## Home · deaddabe
- - [https://deaddabe.fr](https://deaddabe.fr)
- - date_published: 2022-09-02T00:00:00+00:00
-
- ## Codes promo et bons plans pour acheter moins cher en ligne
- - [https://dealwithit.fr](https://dealwithit.fr)
- - date_published: 2024-05-09T08:20:17.332202+00:00
-
- ## Decathlon Activités - Toutes les activités sportives partout en France, pour les enfants et toute la famille
- - [https://activites.decathlon.fr](https://activites.decathlon.fr)
- - date_published: 2024-09-15T20:53:53.045449+00:00
-
- ## Conseils Sport
- - [https://conseilsport.decathlon.fr](https://conseilsport.decathlon.fr)
- - date_published: 2024-06-15T20:21:44.932619+00:00
-
- ## DECATHLON | Magasin de Sport
- - [https://decathlon.fr](https://decathlon.fr)
- - date_published: 2024-05-01T04:25:12.340773+00:00
 

@@ -1,3 +1,196 @@
+ ## nota.mx
+ - [https://nota.mx](https://nota.mx)
+ - date_published: 2024-05-10T06:40:37.822872+00:00
+
+ ## Online Notepad - store your notes securely online
+ - [https://notepad.mx](https://notepad.mx)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home - Ogletree Deakins
+ - [https://ogletree.mx](https://ogletree.mx)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Conoce Openbank, el banco 100% digital de Grupo Financiero Santander.
+ - [https://www.openbank.mx](https://www.openbank.mx)
+ - date_published: 2024-09-20T07:26:25+00:00
+
+ ## Overview by Whitepaper
+ - [https://overview.mx](https://overview.mx)
+ - date_published: 2024-06-22T21:56:50.860275+00:00
+
+ ## Pages24 - La guía de empresas gratuita en tu localidad
+ - [https://www.pages24.mx](https://www.pages24.mx)
+ - date_published: 2022-01-28T00:00:00+00:00
+
+ ## phoenixNAP: Data CenterDedicado Servers, CloudY Colocación
+ - [https://phoenixnap.mx](https://phoenixnap.mx)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Pitchfork Music Festival – CDMX
+ - [https://pitchforkmusicfestival.mx](https://pitchforkmusicfestival.mx)
+ - date_published: 2024-05-06T23:19:44.825755+00:00
+
+ ## - Sign In
+ - [https://plu.mx](https://plu.mx)
+ - date_published: 2024-10-14T15:11:58.162681+00:00
+
+ ## Podcast Mexico – Los Podcasts Más Populares en Mexico
+ - [https://podcast-mexico.mx](https://podcast-mexico.mx)
+ - date_published: 2024-09-07T23:38:48.877927+00:00
+
+ ## Crear una tienda online fácilmente - E-commerce
+ - [https://prestashop.mx](https://prestashop.mx)
+ - date_published: 2024-07-02T14:47:48+00:00
+
+ ## Radiorama
+ - [https://www.radiorama.mx](https://www.radiorama.mx)
+ - date_published: 2024-09-13T10:20:32.752170+00:00
+
+ ## RappiCard, una genialidad | Tarjeta de crédito Visa sin anualidad
+ - [https://www.rappicard.mx](https://www.rappicard.mx)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Unidad Académica de Mateméticas
+ - [https://matematicas.reduaz.mx](https://matematicas.reduaz.mx)
+ - date_published: 2023-07-19T21:36:19+00:00
+
+ ## Revista Alergia México
+ - [http://revistaalergia.mx](http://revistaalergia.mx)
+ - date_published: 2024-10-30T20:25:03.250692+00:00
+
+ ## The Rockwell Family
+ - [https://rockwell.mx](https://rockwell.mx)
+ - date_published: 2024-06-25T12:55:20+00:00
+
+ ## Consultoría en Negociación Global, Capacitación en Negociación Global | Scotwork Mexico
+ - [https://www.scotwork.mx](https://www.scotwork.mx)
+ - date_published: 2024-06-18T09:42:17.268009+00:00
+
+ ## openage - free, modern RTS game engine
+ - [https://openage.sft.mx](https://openage.sft.mx)
+ - date_published: 2024-02-14T10:37:43+00:00
+ - tags: ['open source', 'video game']
+
+ ## SGS es líder mundial en inspección, verificación, ensayos y certificación.
+ - [https://www.sgs.mx](https://www.sgs.mx)
+ - date_published: 2024-09-10T12:52:29.456618+00:00
+
+ ## Signa_Lab ITESO | EXPERIMENTACIÓN, INVESTIGACIÓN Y DESARROLLO TECNOLÓGICO
+ - [https://signalab.mx](https://signalab.mx)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SinEmbargo MX
+ - [https://www.sinembargo.mx](https://www.sinembargo.mx)
+ - date_published: 2024-08-18T22:42:28+00:00
+
+ ## Soloautos Aviso de Cierre
+ - [https://soloautos.mx](https://soloautos.mx)
+ - date_published: 2024-09-26T17:31:36.943969+00:00
+
+ ## Superprof - La comunidad de profesores particulares
+ - [https://superprof.mx](https://superprof.mx)
+ - date_published: 2024-06-15T01:27:54.390784+00:00
+
+ ## Home
+ - [https://switches.mx](https://switches.mx)
+ - date_published: 2024-07-10T11:23:03.023041+00:00
+
+ ## Tala México | Préstamos Personales Rápidos (hasta $10,000)
+ - [https://talamobile.mx](https://talamobile.mx)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home - Santiago Degetau's Design & Web Development Portfolio
+ - [https://taus.mx](https://taus.mx)
+ - date_published: 2020-07-07T13:08:13+00:00
+
+ ## Tecnológico de Monterrey | Sitio de oportunidades
+ - [https://jobs.tec.mx](https://jobs.tec.mx)
+ - date_published: 2024-08-19T04:59:58.910388+00:00
+
+ ## Inicio | Tecnológico de Monterrey
+ - [https://tec.mx](https://tec.mx)
+ - date_published: 2024-06-30T22:30:35+00:00
+
+ ## Noticias CdMx EN VIVO hoy en Telediario| Telediario México
+ - [https://www.telediario.mx](https://www.telediario.mx)
+ - date_published: 2024-10-31T21:49:51.587651+00:00
+
+ ## The Pool Coworking Space, Renta de Oficinas y Salas de Juntas por Hora en Polanco, Juárez, San Ángel y Montes Urales
+ - [http://thepool.mx](http://thepool.mx)
+ - date_published: 2024-08-18T09:53:19.404962+00:00
+
+ ## Bright
+ - [https://cuenta.thinkbright.mx](https://cuenta.thinkbright.mx)
+ - date_published: 2024-07-03T18:21:08+00:00
+
+ ## Servicio de energía solar sin inversión
+ - [https://thinkbright.mx](https://thinkbright.mx)
+ - date_published: 2024-05-08T04:28:43.856419+00:00
+
+ ## Top Doctors | Para tu tranquilidad, sólo los mejores médicos | Top Doctors
+ - [https://www.topdoctors.mx](https://www.topdoctors.mx)
+ - date_published: 2024-09-06T12:45:41.878349+00:00
+
+ ## Fichajes de fútbol, rumores, valores de mercado y noticias
+ - [https://www.transfermarkt.mx](https://www.transfermarkt.mx)
+ - date_published: 2024-07-24T06:23:28.812569+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://xamanek.izt.uam.mx](http://xamanek.izt.uam.mx)
+ - date_published: 2019-05-28T00:11:09+00:00
+
+ ## Universidad Cristóbal Colón :: Educar para Servir
+ - [https://www.ucc.mx](https://www.ucc.mx)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Universidad de Colima
+ - [http://www.ucol.mx](http://www.ucol.mx)
+ - date_published: 2024-10-30T20:23:40.350821+00:00
+
+ ## Inicio | Universidad de Guadalajara
+ - [http://udg.mx](http://udg.mx)
+ - date_published: 2024-07-04T03:15:08+00:00
+
+ ## uDiscover Store MX
+ - [https://udiscover.mx](https://udiscover.mx)
+ - date_published: 2024-06-26T10:37:19.860267+00:00
+
+ ## UDLAP - Universidad de las Américas Puebla
+ - [http://www.udlap.mx](http://www.udlap.mx)
+ - date_published: 2024-10-30T20:26:40.312950+00:00
+
+ ## Piloto BSF+ - Ultra Biotech México
+ - [https://ultrabiotech.mx](https://ultrabiotech.mx)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## IIMAS-UNAM – Líder en las diversas áreas de las matemáticas aplicadas, la ciencia e ingeniería de la computación y los sistemas
+ - [https://iimas.unam.mx](https://iimas.unam.mx)
+ - date_published: 2024-07-12T08:38:50.361586+00:00
+
+ ## Correo de Ingenieria
+ - [https://ingenieria.unam.mx](https://ingenieria.unam.mx)
+ - date_published: 2024-07-09T08:12:03.327342+00:00
+
+ ## Departamento de Ciencias de la Computación
+ - [https://turing.iimas.unam.mx](https://turing.iimas.unam.mx)
+ - date_published: 2024-05-10T05:04:16.291437+00:00
+
+ ## Facultad de Medicina UNAM
+ - [http://www.facmed.unam.mx](http://www.facmed.unam.mx)
+ - date_published: 2024-06-24T09:31:36.910111+00:00
+
+ ## IPv6 México, Capítulo Mexicano del Foro IPv6
+ - [http://www.ipv6.unam.mx](http://www.ipv6.unam.mx)
+ - date_published: 2011-05-25T19:21:57+00:00
+
+ ## LANMR 2024
+ - [http://www.lanmr.unam.mx](http://www.lanmr.unam.mx)
+ - date_published: 2024-08-08T03:36:21+00:00
+
+ ## Unidad Cuernavaca del Instituto de Matemáticas, UNAM
+ - [http://www.matcuer.unam.mx](http://www.matcuer.unam.mx)
+ - date_published: 2024-06-30T09:20:40.868769+00:00
+
  ## Attention Required! | Cloudflare
  - [https://www.unam.mx](https://www.unam.mx)
  - date_published: 2024-07-01T16:32:18.184198+00:00
@@ -3856,196 +4049,4 @@
  ## لباب – مجلة
  - [https://lubab.aljazeera.net](https://lubab.aljazeera.net)
  - date_published: 2024-06-15T10:41:14.772785+00:00
-
- ## الجزيرة مباشر
- - [https://mubasher.aljazeera.net](https://mubasher.aljazeera.net)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Al Jazeera Media Network | A truly global network
- - [https://network.aljazeera.net](https://network.aljazeera.net)
- - date_published: 2024-05-01T03:15:06.155786+00:00
-
- ## Al Jazeera Hotel Partners
- - [https://partners.aljazeera.net](https://partners.aljazeera.net)
- - date_published: 2024-06-15T10:41:16.911424+00:00
-
- ## Privacy Policy
- - [https://privacy.aljazeera.net](https://privacy.aljazeera.net)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Satellite Frequencies
- - [https://sat.aljazeera.net](https://sat.aljazeera.net)
- - date_published: 2024-05-01T03:14:59.762925+00:00
-
- ## Al Jazeera Centre for Studies
- - [https://studies.aljazeera.net](https://studies.aljazeera.net)
- - date_published: 2024-05-01T03:14:58.473016+00:00
-
- ## Terms & Conditions
- - [https://terms.aljazeera.net](https://terms.aljazeera.net)
- - date_published: 2024-01-02T05:28:38+00:00
-
- ## Home | معهد الجزيرة للإعلام
- - [https://training.aljazeera.net](https://training.aljazeera.net)
- - date_published: 2024-05-01T03:14:30.772892+00:00
-
- ## Al Jazeera Media Network
- - [https://webapps.aljazeera.net](https://webapps.aljazeera.net)
- - date_published: 2020-09-18T22:29:35+00:00
-
- ## الجزيرة مباشر
- - [https://aljazeeramubasher.net](https://aljazeeramubasher.net)
- - date_published: 2024-05-01T03:15:04.755150+00:00
-
- ## Allan Kelly
- - [https://www.allankelly.net](https://www.allankelly.net)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## HOTEL 100 SUNSET | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $49
- - [https://100-sunset-managed-by-eagle-eyes-kuta.all-balihotels.net](https://100-sunset-managed-by-eagle-eyes-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:43:15.663396+00:00
-
- ## AB HOTEL KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $65
- - [https://ab-kuta-kuta.all-balihotels.net](https://ab-kuta-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:40:49.754778+00:00
-
- ## AKSARI RESORT UBUD | ⋆⋆⋆⋆⋆ | TEGALLALANG, INDONESIA | SEASON DEALS FROM $635
- - [https://aksari-resort-ubud.all-balihotels.net](https://aksari-resort-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:28:42.853723+00:00
-
- ## HOTEL ALAYA UBUD | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $180
- - [https://alaya-resort-ubud.all-balihotels.net](https://alaya-resort-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:29:37.547790+00:00
-
- ## HOTEL ALILA MANGGIS | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $127
- - [https://alila-manggis.all-balihotels.net](https://alila-manggis.all-balihotels.net)
- - date_published: 2024-10-16T13:25:26.058145+00:00
-
- ## HOTEL ALILA SEMINYAK | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $2539
- - [https://alila-seminyak.all-balihotels.net](https://alila-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:30:40.473949+00:00
-
- ## HOTEL ALILA UBUD | ⋆⋆⋆⋆ | GIANYAR, INDONESIA | SEASON DEALS FROM $745
- - [https://alila-ubud-gianyar.all-balihotels.net](https://alila-ubud-gianyar.all-balihotels.net)
- - date_published: 2024-10-16T13:32:52.726803+00:00
-
- ## HOTEL IBIS STYLES BALI LEGIAN | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $53
- - [https://all-seasons.all-balihotels.net](https://all-seasons.all-balihotels.net)
- - date_published: 2024-10-16T13:33:26.735432+00:00
-
- ## HOTEL ALOFT BALI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $76
- - [https://aloft-bali-seminyak.all-balihotels.net](https://aloft-bali-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:42:09.314280+00:00
-
- ## HOTEL AMALFI SEMINYAK | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $130
- - [https://amalfi-seminyak.all-balihotels.net](https://amalfi-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:35:57.579818+00:00
-
- ## AMARIS HOTEL DEWI SRI | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $24
- - [https://amaris-dewi-sri-kuta.all-balihotels.net](https://amaris-dewi-sri-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:27:16.120303+00:00
-
- ## AMNAYA RESORT KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $373
- - [https://amnaya-resort-kuta-kuta.all-balihotels.net](https://amnaya-resort-kuta-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:34:52.636597+00:00
-
- ## ANANTARA ULUWATU BALI RESORT | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $226
- - [https://anantara-bali-uluwatu.all-balihotels.net](https://anantara-bali-uluwatu.all-balihotels.net)
- - date_published: 2024-10-16T13:28:05.053559+00:00
-
- ## HOTEL ANANTARA SEMINYAK | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $285
- - [https://anantara-seminyak.all-balihotels.net](https://anantara-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:28:39.095686+00:00
-
- ## ASTON CANGGU BEACH RESORT | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $134
- - [https://aston-canggu-beach-resort.all-balihotels.net](https://aston-canggu-beach-resort.all-balihotels.net)
- - date_published: 2024-10-16T13:31:40.250150+00:00
-
- ## ASTON DENPASAR HOTEL AND CONVENTION CENTER | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $60
- - [https://aston-denpasar-convention-center.all-balihotels.net](https://aston-denpasar-convention-center.all-balihotels.net)
- - date_published: 2024-10-16T13:30:25.716626+00:00
-
- ## ASTON KUTA HOTEL AND RESIDENCE | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $618
- - [https://aston-kuta-and-residence.all-balihotels.net](https://aston-kuta-and-residence.all-balihotels.net)
- - date_published: 2024-10-16T13:32:01.520797+00:00
-
- ## AYANA RESORT AND SPA | ⋆⋆⋆⋆⋆ | JIMBARAN, INDONESIA | SEASON DEALS FROM $401
- - [https://ayana-resort-and-spa-jimbaran.all-balihotels.net](https://ayana-resort-and-spa-jimbaran.all-balihotels.net)
- - date_published: 2024-10-16T13:39:05.365527+00:00
-
- ## BAHANA GUEST HOUSE | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $31
- - [https://bahana-guest-house-by-gamma-hospitality-tuban.all-balihotels.net](https://bahana-guest-house-by-gamma-hospitality-tuban.all-balihotels.net)
- - date_published: 2024-10-16T13:29:45.613233+00:00
-
- ## BAKUNG BEACH RESORT | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
- - [https://bakung-beach-resort-kuta.all-balihotels.net](https://bakung-beach-resort-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:40:25.386211+00:00
-
- ## BALANGAN PARADISE HOSTEL AND RESTAURANT | JIMBARAN, INDONESIA | SEASON DEALS FROM $17
- - [https://balangan-paradise-hostel-and-restaurant-jimbaran.all-balihotels.net](https://balangan-paradise-hostel-and-restaurant-jimbaran.all-balihotels.net)
- - date_published: 2024-10-16T13:24:41.813811+00:00
-
- ## BALI AGUNG VILLAGE | ⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $76
- - [https://bali-agung-village-seminyak.all-balihotels.net](https://bali-agung-village-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:34:11.422434+00:00
-
- ## BALI DYNASTY RESORT | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $204
- - [https://bali-dynasty-resort-kuta.all-balihotels.net](https://bali-dynasty-resort-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:41:18.970119+00:00
-
- ## BALI ECO VILLAGE | PLAGA, INDONESIA | SEASON DEALS FROM $128
- - [https://bali-eco-village.all-balihotels.net](https://bali-eco-village.all-balihotels.net)
- - date_published: 2024-10-16T13:43:27.681545+00:00
-
- ## BALI GARDEN BEACH RESORT | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $100
- - [https://bali-garden-beach-resort-kuta.all-balihotels.net](https://bali-garden-beach-resort-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:28:18.543591+00:00
-
- ## HOTEL BALI NUSA DUA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $176
- - [https://bali-nusa-dua.all-balihotels.net](https://bali-nusa-dua.all-balihotels.net)
- - date_published: 2024-10-16T13:33:42.293259+00:00
-
- ## HOTEL BALI RANI | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $137
- - [https://bali-rani-kuta.all-balihotels.net](https://bali-rani-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:39:57.195996+00:00
-
- ## HOTEL BALISANI PADMA | ⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $23
- - [https://balisani-padma-legian.all-balihotels.net](https://balisani-padma-legian.all-balihotels.net)
- - date_published: 2024-10-16T13:32:04.880740+00:00
-
- ## BALI TROPIC RESORT & SPA | ⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $136
- - [https://bali-tropic-resort-spa-nusa-dua.all-balihotels.net](https://bali-tropic-resort-spa-nusa-dua.all-balihotels.net)
- - date_published: 2024-10-16T13:43:08.971689+00:00
-
- ## BALI TRUE LIVING | ⋆⋆ | DENPASAR, INDONESIA | SEASON DEALS FROM $25
- - [https://bali-true-living-apartment-denpasar.all-balihotels.net](https://bali-true-living-apartment-denpasar.all-balihotels.net)
- - date_published: 2024-10-16T13:27:52.014751+00:00
-
- ## HOTEL BEDROCK | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
- - [https://bedrock-kuta.all-balihotels.net](https://bedrock-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:43:31.169983+00:00
-
- ## HOTEL BEST WESTERN KUTA BEACH | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $43
- - [https://best-western-kuta-beach.all-balihotels.net](https://best-western-kuta-beach.all-balihotels.net)
- - date_published: 2024-10-16T13:35:35.679970+00:00
-
- ## BEST WESTERN RESORT KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $55
- - [https://best-western-resort-kuta-kuta.all-balihotels.net](https://best-western-resort-kuta-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:33:30.286216+00:00
-
- ## HOTEL BINTANG KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $66
- - [https://bintang-kuta.all-balihotels.net](https://bintang-kuta.all-balihotels.net)
- - date_published: 2024-10-16T13:34:26.623486+00:00
-
- ## HOTEL BISMA EIGHT | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $369
- - [https://bisma-eight-ubud.all-balihotels.net](https://bisma-eight-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:25:04.677897+00:00
-
- ## HOTEL BLISS SURFER | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $34
- - [https://bliss-surfer.all-balihotels.net](https://bliss-surfer.all-balihotels.net)
- - date_published: 2024-10-16T13:38:47.177088+00:00
-
- ## BNB STYLE HOTEL SEMINYAK | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $19
- - [https://bnb-style-seminyak.all-balihotels.net](https://bnb-style-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:28:34.980071+00:00
 

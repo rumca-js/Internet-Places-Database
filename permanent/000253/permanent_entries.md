@@ -1,3 +1,182 @@
+ ## Portfolio
+ - [https://paolocorti.dev](https://paolocorti.dev)
+ - date_published: 2024-05-09T09:14:14.822767+00:00
+
+ ## Papercup Engineering Blog
+ - [https://papercup.dev](https://papercup.dev)
+ - date_published: 2024-08-23T19:33:37+00:00
+
+ ## Parca
+ - [https://demo.parca.dev](https://demo.parca.dev)
+ - date_published: 2024-06-28T18:52:26.367736+00:00
+
+ ## Parca - Open Source infrastructure-wide continuous profiling
+ - [https://parca.dev](https://parca.dev)
+ - date_published: 2024-05-06T23:34:20.978749+00:00
+
+ ## Supervision
+ - [https://color.mrmrs.partykit.dev](https://color.mrmrs.partykit.dev)
+ - date_published: 2024-07-23T22:06:42.806218+00:00
+
+ ## PartyKit
+ - [https://cursor-party.genmon.partykit.dev](https://cursor-party.genmon.partykit.dev)
+ - date_published: 2024-05-08T08:47:58.239044+00:00
+
+ ## PartyKit
+ - [https://cursor-party.labs.partykit.dev](https://cursor-party.labs.partykit.dev)
+ - date_published: 2024-06-21T19:55:08.821246+00:00
+
+ ## Firehouse
+ - [https://firehouse-chat.jchris.partykit.dev](https://firehouse-chat.jchris.partykit.dev)
+ - date_published: 2024-07-22T17:11:10.701419+00:00
+
+ ## TinyRooms
+ - [https://tinyrooms.jamesgpearce.partykit.dev](https://tinyrooms.jamesgpearce.partykit.dev)
+ - date_published: 2024-04-30T00:30:11.305774+00:00
+
+ ## Pascal Baljet Blog
+ - [https://pascalbaljet.dev](https://pascalbaljet.dev)
+ - date_published: 2024-10-17T10:06:49.600352+00:00
+
+ ## Passkey Developer Resources
+ - [https://passkeys.dev](https://passkeys.dev)
+ - date_published: 2023-01-31T00:00:00+00:00
+
+ ## Bitwarden Passwordless.dev - Passwordless Authentication | Bitwarden
+ - [https://www.passwordless.dev](https://www.passwordless.dev)
+ - date_published: 2024-08-16T23:50:11+00:00
+
+ ## Patak's home
+ - [https://patak.dev](https://patak.dev)
+ - date_published: 2024-09-04T15:05:18.815412+00:00
+
+ ## Patterns.dev
+ - [https://patterns.dev](https://patterns.dev)
+ - date_published: 2024-04-27T08:05:02.700720+00:00
+ - tags: ['programming patterns', 'javascript']
+
+ ## Hello! • Paul Armstrong
+ - [https://paularmstrong.dev](https://paularmstrong.dev)
+ - date_published: 2023-10-25T08:48:56.005230+00:00
+ - tags: ['personal']
+
+ ## Sign in · GitLab
+ - [https://paulgo.dev](https://paulgo.dev)
+ - date_published: 2024-07-02T20:42:50.029845+00:00
+
+ ## //pauls dev blog
+ - [https://paulsblog.dev](https://paulsblog.dev)
+ - date_published: 2024-02-25T14:02:35.061521+00:00
+ - tags: ['personal']
+
+ ## umami
+ - [https://stats.paulsblog.dev](https://stats.paulsblog.dev)
+ - date_published: 2024-04-29T06:16:29.719870+00:00
+
+ ## Pavan Kalyan's Blog
+ - [https://pavan-kalyan.dev](https://pavan-kalyan.dev)
+ - date_published: 2023-11-20T15:36:49+00:00
+
+ ## Pavex
+ - [https://pavex.dev](https://pavex.dev)
+ - date_published: 2024-07-20T05:40:47.929993+00:00
+
+ ## pcloadletter
+ - [https://pcloadletter.dev](https://pcloadletter.dev)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## pdoc – Generate API Documentation for Python Projects
+ - [https://pdoc.dev](https://pdoc.dev)
+ - date_published: 2024-05-08T10:20:48.015955+00:00
+
+ ## Show HN → Parallel DOM: Upgrade your DOM to be multithreaded
+ - [https://www.pdom.dev](https://www.pdom.dev)
+ - date_published: 2024-07-09T20:36:53+00:00
+
+ ## Phil Piwonka
+ - [https://pdp.dev](https://pdp.dev)
+ - date_published: 2024-07-23T23:40:14.112691+00:00
+
+ ## Get a Design or Code Review
+ - [https://peerreviews.dev](https://peerreviews.dev)
+ - date_published: 2024-07-02T19:03:27.119757+00:00
+
+ ## PeerSwap
+ - [https://peerswap.dev](https://peerswap.dev)
+ - date_published: 2024-07-18T14:21:24.977492+00:00
+
+ ## peio.dev
+ - [https://peio.dev](https://peio.dev)
+ - date_published: 2023-06-12T00:00:00+00:00
+
+ ## Home | Pelican
+ - [https://pelican.dev](https://pelican.dev)
+ - date_published: 2024-11-08T19:14:18.972915+00:00
+
+ ## Hey there! · pema.dev
+ - [https://pema.dev](https://pema.dev)
+ - date_published: 2023-10-25T18:40:45.349933+00:00
+
+ ## Penpot: The Design Tool for Design & Code Collaboration
+ - [https://penpot.dev](https://penpot.dev)
+ - date_published: 2024-08-19T11:38:22.493381+00:00
+
+ ## Home - Emmanuel Raymond's digital garden | Software Developer and Open Source Enthusiast
+ - [https://peoray.dev](https://peoray.dev)
+ - date_published: 2024-06-23T08:13:26.538813+00:00
+
+ ## Vadim Makeev
+ - [https://pepelsbey.dev](https://pepelsbey.dev)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Protocraft AI
+ - [https://perceptionai.dev](https://perceptionai.dev)
+ - date_published: 2024-09-13T19:07:58+00:00
+
+ ## mobile.dev - Maestro, Maestro Studio, Maestro Cloud
+ - [https://perf.dev](https://perf.dev)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Perfetto - System profiling, app tracing and trace analysis
+ - [https://perfetto.dev](https://perfetto.dev)
+ - date_published: 2024-06-17T03:17:39.827314+00:00
+
+ ## Perfetto UI
+ - [https://ui.perfetto.dev](https://ui.perfetto.dev)
+ - date_published: 2024-10-16T08:45:23.249952+00:00
+
+ ## AI PESTEL Analysis Generator
+ - [https://pestel.dev](https://pestel.dev)
+ - date_published: 2024-06-19T20:06:47.938107+00:00
+
+ ## Petals – Decentralized platform for running large language models
+ - [https://chat.petals.dev](https://chat.petals.dev)
+ - date_published: 2024-04-30T02:10:54.138729+00:00
+
+ ## Petals Health Monitor
+ - [https://health.petals.dev](https://health.petals.dev)
+ - date_published: 2024-04-30T02:10:53.472594+00:00
+
+ ## Petals – Run LLMs at home, BitTorrent-style
+ - [https://petals.dev](https://petals.dev)
+ - date_published: 2023-10-25T18:40:45.976979+00:00
+
+ ## Peter Babič
+ - [https://peterbabic.dev](https://peterbabic.dev)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Peter Friese's Blog
+ - [https://peterfriese.dev](https://peterfriese.dev)
+ - date_published: 2024-06-21T08:29:45+00:00
+
+ ## petermolnar.dev - How to become a valuable iOS and macOS developer
+ - [https://petermolnar.dev](https://petermolnar.dev)
+ - date_published: 2024-06-23T15:31:06.938381+00:00
+
+ ## Hi! | Peter Ringset
+ - [https://peterringset.dev](https://peterringset.dev)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## Florian Pfisterer
  - [https://pfisterer.dev](https://pfisterer.dev)
  - date_published: 2024-01-12T10:31:39.595981+00:00
@@ -3893,184 +4072,4 @@
  ## WSCP's blog
  - [https://wscp.dev](https://wscp.dev)
  - date_published: 2024-01-09T01:38:06.059471+00:00
-
- ## WeaveVM blockchain explorer - View WeaveVM stats
- - [https://explorer.wvm.dev](https://explorer.wvm.dev)
- - date_published: 2024-09-24T03:44:48.392295+00:00
-
- ## WeaveVM | The hyperscalable EVM network on Arweave
- - [https://wvm.dev](https://wvm.dev)
- - date_published: 2024-09-24T06:27:57.829826+00:00
-
- ## News, Resources and Articles, Templates about Web-Development
- - [https://wweb.dev](https://wweb.dev)
- - date_published: 2024-10-22T19:23:03.504263+00:00
-
- ## Next-gen Web Extension Framework – WXT
- - [https://wxt.dev](https://wxt.dev)
- - date_published: 2024-09-02T09:51:10.069893+00:00
-
- ## Arx Chess
- - [https://arx.wyczawski.dev](https://arx.wyczawski.dev)
- - date_published: 2024-09-02T09:51:18.940391+00:00
-
- ## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
- - [https://xaml.dev](https://xaml.dev)
- - date_published: 2023-10-25T08:59:01.383042+00:00
- - tags: ['personal']
-
- ## Homepage | National Axial Spondyloarthritis Society
- - [https://nass.xarma.dev](https://nass.xarma.dev)
- - date_published: 2024-09-17T00:43:53.691773+00:00
-
- ## Xarray documentation
- - [https://docs.xarray.dev](https://docs.xarray.dev)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## XD1 Log entries. Begin... Â· Hyprland crash course
- - [https://xd1.dev](https://xd1.dev)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Developers Forum for XinFin XDC Network
- - [https://xdc.dev](https://xdc.dev)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## xDSL
- - [https://xdsl.dev](https://xdsl.dev)
- - date_published: 2024-02-06T11:59:14+00:00
-
- ## XINF
- - [https://xinf.dev](https://xinf.dev)
- - date_published: 2023-10-25T18:44:30.785844+00:00
-
- ## Xinto's web
- - [https://xinto.dev](https://xinto.dev)
- - date_published: 2024-01-31T17:06:50+00:00
-
- ## Hello World! · Kostas "xkon" Xenos
- - [https://xkon.dev](https://xkon.dev)
- - date_published: 2024-03-12T21:13:45+00:00
-
- ## Djinni
- - [https://djinni.xlcpp.dev](https://djinni.xlcpp.dev)
- - date_published: 2023-10-23T20:47:02+00:00
-
- ## Xbox One Research Wiki
- - [https://xosft.dev](https://xosft.dev)
- - date_published: 2024-05-07T09:43:41.420234+00:00
-
- ## XPLAVerse-Mainnet XPLAVerse-Mainnet Explorer
- - [https://explorer-xpla-verse.xpla.dev](https://explorer-xpla-verse.xpla.dev)
- - date_published: 2024-09-23T19:52:55.380842+00:00
-
- ## Xr0
- - [https://xr0.dev](https://xr0.dev)
- - date_published: 2024-03-28T23:52:22.644430+00:00
- - tags: ['ansi c', 'personal']
-
- ## 🌸 katspace 🌸
- - [https://xtract.dev](https://xtract.dev)
- - date_published: 2024-06-17T20:08:57+00:00
-
- ## xy2
- - [https://xy2.dev](https://xy2.dev)
- - date_published: 2023-10-25T18:44:33.489903+00:00
-
- ## Yaky's
- - [https://yaky.dev](https://yaky.dev)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## yp's home page
- - [https://yalinpala.dev](https://yalinpala.dev)
- - date_published: 2024-08-08T15:21:14.926444+00:00
-
- ## YAML8n | Streamline Your App Localization with Type-Safe Translations
- - [https://yaml8n.dev](https://yaml8n.dev)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Yarn Spinner
- - [http://yarnspinner.dev](http://yarnspinner.dev)
- - date_published: 2024-07-12T22:10:05.841529+00:00
-
- ## Yasin Miran
- - [https://www.yasint.dev](https://www.yasint.dev)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Ali Khaleqi Yekta
- - [https://yekta.dev](https://yekta.dev)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Welcome! - Yiming Chen
- - [https://yiming.dev](https://yiming.dev)
- - date_published: 2022-07-12T15:44:04+00:00
-
- ## Max Yinger ☞ UI Engineer
- - [https://yinger.dev](https://yinger.dev)
- - date_published: 2024-05-02T13:27:09.989255+00:00
- - tags: ['personal']
-
- ## Yish
- - [https://yish.dev](https://yish.dev)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Yjs Community
- - [https://discuss.yjs.dev](https://discuss.yjs.dev)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Introduction | Yjs Docs
- - [https://docs.yjs.dev](https://docs.yjs.dev)
- - date_published: 2024-06-23T06:17:28.928913+00:00
-
- ## Yjs Shared Editing
- - [https://yjs.dev](https://yjs.dev)
- - date_published: 2024-04-30T00:30:40.198560+00:00
-
- ## Tous les posts
- - [https://blog.yoannfleury.dev](https://blog.yoannfleury.dev)
- - date_published: 2024-05-11T10:19:04.453247+00:00
-
- ## Yoann Fleury - Web Developer
- - [https://yoannfleury.dev](https://yoannfleury.dev)
- - date_published: 2024-06-23T08:14:36.111500+00:00
-
- - [https://yobulk.dev](https://yobulk.dev)
- - date_published: 2024-01-09T02:57:40.846844+00:00
-
- ## Yoga
- - [https://www.yogalayout.dev](https://www.yogalayout.dev)
- - date_published: 2024-06-23T06:03:28.425164+00:00
-
- ## AI Explained Cartoon Series - 🎨 AI Explained
- - [https://ai-explained.yoko.dev](https://ai-explained.yoko.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Yonatan's dev blog
- - [https://blog.yonatan.dev](https://blog.yonatan.dev)
- - date_published: 2024-06-20T06:59:52.870181+00:00
- - tags: ['personal']
-
- ## 🤘Welcome to Yo! Swift | YoSwift!
- - [https://yoswift.dev](https://yoswift.dev)
- - date_published: 2021-05-08T08:26:12+00:00
-
- ## You don't need a modal window
- - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
- - date_published: 2023-10-25T18:44:35.045129+00:00
-
- ## Hao Qi Wu
- - [https://yourwaifu.dev](https://yourwaifu.dev)
- - date_published: 2022-05-25T00:00:00+00:00
- - tags: ['interesting page design', 'personal']
-
- ## Introduction - yshui --log-level=trace
- - [https://trace.yshui.dev](https://trace.yshui.dev)
- - date_published: 2024-05-10T07:03:10.134857+00:00
-
- ## ytreza.dev
- - [https://www.ytreza.dev](https://www.ytreza.dev)
- - date_published: 2024-07-08T11:02:20.927191+00:00
-
- ## yuanchuan
- - [https://yuanchuan.dev](https://yuanchuan.dev)
- - date_published: 2023-10-25T18:44:37.242773+00:00
 

@@ -1,3 +1,187 @@
+ ## President Taylor R. Randall
+ - [https://president.utah.edu](https://president.utah.edu)
+ - date_published: 2024-07-02T11:18:02.089656+00:00
+
+ ## The John and Marcia Price College of Engineering
+ - [https://price.utah.edu](https://price.utah.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Psychology - The University of Utah
+ - [https://psych.utah.edu](https://psych.utah.edu)
+ - date_published: 2024-07-02T11:21:30.615603+00:00
+
+ ## University Department of Public Safety
+ - [https://publicsafety.utah.edu](https://publicsafety.utah.edu)
+ - date_published: 2024-07-02T11:18:33.666208+00:00
+
+ ## Home
+ - [http://qed.cs.utah.edu](http://qed.cs.utah.edu)
+ - date_published: 2024-07-02T11:29:23.851477+00:00
+
+ ## Office of the Registrar - The University of Utah
+ - [https://registrar.utah.edu](https://registrar.utah.edu)
+ - date_published: 2024-07-02T11:18:39.117738+00:00
+
+ ## Vice President for Research
+ - [http://research.utah.edu](http://research.utah.edu)
+ - date_published: 2024-07-02T11:29:47.766696+00:00
+
+ ## Robotics Center
+ - [https://robotics.coe.utah.edu](https://robotics.coe.utah.edu)
+ - date_published: 2024-07-02T11:30:26.726220+00:00
+
+ ## home [LL4MA lab]
+ - [https://robot-learning.cs.utah.edu](https://robot-learning.cs.utah.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## #SAFEU
+ - [https://safeu.utah.edu](https://safeu.utah.edu)
+ - date_published: 2024-07-02T11:18:42.515290+00:00
+
+ ## College of Science
+ - [https://science.utah.edu](https://science.utah.edu)
+ - date_published: 2024-05-07T22:10:58.251933+00:00
+
+ ## Home
+ - [https://sci.utah.edu](https://sci.utah.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Information Security Office - The University of Utah
+ - [https://security.it.utah.edu](https://security.it.utah.edu)
+ - date_published: 2024-07-14T05:11:15.100155+00:00
+
+ ## Skills Workshops and Mindfulness Programs - The University of Utah
+ - [https://skills.utah.edu](https://skills.utah.edu)
+ - date_published: 2024-07-02T11:32:59.831680+00:00
+
+ ## Social
+ - [https://social.utah.edu](https://social.utah.edu)
+ - date_published: 2024-07-02T11:21:10.467095+00:00
+
+ ## Department of Sociology - The University of Utah
+ - [https://soc.utah.edu](https://soc.utah.edu)
+ - date_published: 2024-07-02T11:27:27.242229+00:00
+
+ ## Student Success Coaches - The University of Utah
+ - [https://ssc.utah.edu](https://ssc.utah.edu)
+ - date_published: 2024-05-07T22:10:34.896061+00:00
+
+ ## Student Affairs - The University of Utah
+ - [https://studentaffairs.utah.edu](https://studentaffairs.utah.edu)
+ - date_published: 2024-07-02T11:18:12.316010+00:00
+
+ ## Student Health Center - The University of Utah
+ - [https://studenthealth.utah.edu](https://studenthealth.utah.edu)
+ - date_published: 2024-07-02T11:33:08.148675+00:00
+
+ ## Student Success Coaches - The University of Utah
+ - [https://studentsuccess.utah.edu](https://studentsuccess.utah.edu)
+ - date_published: 2024-07-02T11:42:40.088613+00:00
+
+ ## Student University Development Opportunity (SUDO) - Student University Development Opportunity - The University of Utah
+ - [https://sudo.utah.edu](https://sudo.utah.edu)
+ - date_published: 2024-07-14T05:11:19.298276+00:00
+
+ ## CSBS Computing - Support - CSBS - The University of Utah
+ - [https://support.csbs.utah.edu](https://support.csbs.utah.edu)
+ - date_published: 2024-07-02T11:27:18.733098+00:00
+
+ ## Kahlert School of Computing – IT Support
+ - [https://support.cs.utah.edu](https://support.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:43.202892+00:00
+
+ ## Sign In
+ - [http://support.med.utah.edu](http://support.med.utah.edu)
+ - date_published: 2024-07-02T11:29:08.498264+00:00
+
+ ## Sustainability
+ - [https://sustainability.utah.edu](https://sustainability.utah.edu)
+ - date_published: 2024-07-02T11:18:10.153751+00:00
+
+ ## University of Utah - Portal
+ - [https://system.apps.utah.edu](https://system.apps.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## TA Application Portal - School of Computing - University of Utah - School of Computing - TA Portal
+ - [https://ta.cs.utah.edu](https://ta.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:21.937589+00:00
+
+ ## Technology Licensing Office at the University of Utah - Innovation Powered by U
+ - [https://tvc.utah.edu](https://tvc.utah.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Utah Center for Inclusive Computing – Just another COE Research & Staff MultiSite Install Sites site
+ - [https://ucic.cs.utah.edu](https://ucic.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:25.410286+00:00
+
+ ## UGive
+ - [https://ugive.app.utah.edu](https://ugive.app.utah.edu)
+ - date_published: 2023-11-10T23:09:42+00:00
+
+ ## Home
+ - [http://ulink.utah.edu](http://ulink.utah.edu)
+ - date_published: 2024-07-02T11:33:32.697570+00:00
+
+ ## Sign In
+ - [https://umail.utah.edu](https://umail.utah.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UNews
+ - [https://unews.utah.edu](https://unews.utah.edu)
+ - date_published: 2024-07-02T11:21:07.616598+00:00
+
+ ## University of Utah Student Union - A. Ray Olpin University Union
+ - [https://union.utah.edu](https://union.utah.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## University of Utah Health Academic Medical Center
+ - [https://uofuhealth.utah.edu](https://uofuhealth.utah.edu)
+ - date_published: 2024-07-02T05:26:17+00:00
+
+ ## Kahlert School of Computing
+ - [https://users.cs.utah.edu](https://users.cs.utah.edu)
+ - date_published: 2024-01-12T03:16:30.394085+00:00
+
+ ## Office of Undergraduate Studies - The University of Utah
+ - [https://us.utah.edu](https://us.utah.edu)
+ - date_published: 2024-07-02T11:31:52.001539+00:00
+
+ ## The University of Utah
+ - [https://utah.edu](https://utah.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Ute Proud
+ - [https://uteproud.utah.edu](https://uteproud.utah.edu)
+ - date_published: 2024-07-02T11:18:45.560019+00:00
+
+ ## Archaeological Center - The University of Utah
+ - [https://uuac.utah.edu](https://uuac.utah.edu)
+ - date_published: 2024-07-02T11:27:16.566885+00:00
+
+ ## Home | Vis Design Lab
+ - [https://vdl.sci.utah.edu](https://vdl.sci.utah.edu)
+ - date_published: 2024-06-27T11:22:05+00:00
+
+ ## Center for Campus Wellness - Student Affairs - The University of Utah
+ - [https://wellness.utah.edu](https://wellness.utah.edu)
+ - date_published: 2024-05-07T22:10:51.182376+00:00
+
+ ## The Wilkes Center for Climate Science & Policy
+ - [https://wilkescenter.utah.edu](https://wilkescenter.utah.edu)
+ - date_published: 2024-07-02T11:41:44.188636+00:00
+
+ ## Women’s Resource Center - The University of Utah
+ - [http://womenscenter.utah.edu](http://womenscenter.utah.edu)
+ - date_published: 2024-07-02T11:30:31.114469+00:00
+
+ ## Home - Biomedical Engineering at the University of Utah
+ - [http://www.bioen.utah.edu](http://www.bioen.utah.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## School of Biological Sciences
+ - [http://www.biology.utah.edu](http://www.biology.utah.edu)
+ - date_published: 2024-07-02T11:41:56.711271+00:00
+
  ## Home - Biomedical Engineering at the University of Utah
  - [https://www.bme.utah.edu](https://www.bme.utah.edu)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -3814,188 +3998,4 @@
  ## Commitment to Privacy
  - [https://sociology.vcu.edu](https://sociology.vcu.edu)
  - date_published: 2024-07-02T12:47:40.589471+00:00
-
- ## Commitment to Privacy
- - [https://soe.vcu.edu](https://soe.vcu.edu)
- - date_published: 2024-07-02T12:46:51.403681+00:00
-
- ## Commitment to Privacy
- - [https://soi.partnership.vcu.edu](https://soi.partnership.vcu.edu)
- - date_published: 2024-07-02T12:47:08.287443+00:00
-
- ## VCU Secrets of the Sequence – VCU Life Sciences
- - [https://sosq.vcu.edu](https://sosq.vcu.edu)
- - date_published: 2024-07-02T12:46:05.828536+00:00
-
- ## Commitment to Privacy
- - [https://spit4science.vcu.edu](https://spit4science.vcu.edu)
- - date_published: 2024-07-02T12:50:44.392156+00:00
-
- ## Commitment to Privacy
- - [https://spnlab.vcu.edu](https://spnlab.vcu.edu)
- - date_published: 2024-07-02T12:49:28.203317+00:00
-
- ## Commitment to Privacy
- - [https://sportleadership.vcu.edu](https://sportleadership.vcu.edu)
- - date_published: 2024-07-02T12:42:21.685197+00:00
-
- ## Commitment to Privacy
- - [https://srm.vcu.edu](https://srm.vcu.edu)
- - date_published: 2024-07-02T12:59:07.763140+00:00
-
- ## Commitment to Privacy
- - [https://ssc.vcu.edu](https://ssc.vcu.edu)
- - date_published: 2024-07-02T12:45:23.266402+00:00
-
- ## Commitment to Privacy
- - [https://ssor.vcu.edu](https://ssor.vcu.edu)
- - date_published: 2024-07-02T12:57:58.782156+00:00
-
- ## Commitment to Privacy
- - [https://stac.vcu.edu](https://stac.vcu.edu)
- - date_published: 2024-07-02T12:57:51.686131+00:00
-
- ## Commitment to Privacy
- - [https://staffsenateconference.vcu.edu](https://staffsenateconference.vcu.edu)
- - date_published: 2024-07-02T12:48:06.383630+00:00
-
- ## Commitment to Privacy
- - [https://staffsenate.vcu.edu](https://staffsenate.vcu.edu)
- - date_published: 2024-07-02T12:44:44.303519+00:00
-
- ## Commitment to Privacy
- - [https://stationery.vcu.edu](https://stationery.vcu.edu)
- - date_published: 2024-07-02T12:50:55.538016+00:00
-
- ## Status page hosting with StatusCast
- - [https://status.ts.vcu.edu](https://status.ts.vcu.edu)
- - date_published: 2024-07-02T10:00:09+00:00
-
- ## Commitment to Privacy
- - [https://studentambassadors.vcu.edu](https://studentambassadors.vcu.edu)
- - date_published: 2024-07-02T12:46:31.763459+00:00
-
- ## Commitment to Privacy
- - [https://studentmedia.vcu.edu](https://studentmedia.vcu.edu)
- - date_published: 2024-07-02T12:50:48.568326+00:00
-
- ## Commitment to Privacy
- - [https://students.chs.vcu.edu](https://students.chs.vcu.edu)
- - date_published: 2024-07-02T12:44:12.637498+00:00
-
- ## Commitment to Privacy
- - [https://studentsuccess.vcu.edu](https://studentsuccess.vcu.edu)
- - date_published: 2024-07-02T12:47:14.480687+00:00
-
- ## Commitment to Privacy
- - [https://students.vcu.edu](https://students.vcu.edu)
- - date_published: 2024-07-02T12:43:20.323819+00:00
-
- ## VCU - Study Finder
- - [https://studyfinder.cctr.vcu.edu](https://studyfinder.cctr.vcu.edu)
- - date_published: 2024-07-02T12:50:25.513573+00:00
-
- ## Commitment to Privacy
- - [https://summerconferences.vcu.edu](https://summerconferences.vcu.edu)
- - date_published: 2024-07-02T12:42:13.185288+00:00
-
- ## Commitment to Privacy
- - [https://summer.vcu.edu](https://summer.vcu.edu)
- - date_published: 2024-07-02T12:58:39.354293+00:00
-
- ## VCU Office of Development and Alumni Relations
- - [https://support.vcu.edu](https://support.vcu.edu)
- - date_published: 2024-05-29T18:32:01+00:00
-
- ## Commitment to Privacy
- - [https://surgery.vcu.edu](https://surgery.vcu.edu)
- - date_published: 2024-07-02T12:51:15.183010+00:00
-
- ## Commitment to Privacy
- - [https://survivorsupport.vcu.edu](https://survivorsupport.vcu.edu)
- - date_published: 2024-07-02T12:48:50.627340+00:00
-
- ## Commitment to Privacy
- - [https://sustainability.vcu.edu](https://sustainability.vcu.edu)
- - date_published: 2024-07-02T12:45:33.932184+00:00
-
- ## Commitment to Privacy
- - [https://sysm.vcu.edu](https://sysm.vcu.edu)
- - date_published: 2024-07-02T12:47:58.624484+00:00
-
- ## Commitment to Privacy
- - [https://systemsbiology.vcu.edu](https://systemsbiology.vcu.edu)
- - date_published: 2024-07-02T12:49:24.267064+00:00
-
- ## TERMINALFOUR
- - [https://t4.vcu.edu](https://t4.vcu.edu)
- - date_published: 2024-07-02T12:35:15.571978+00:00
-
- ## Commitment to Privacy
- - [https://tac.vcu.edu](https://tac.vcu.edu)
- - date_published: 2024-07-02T12:57:43.005265+00:00
-
- ## Commitment to Privacy
- - [https://tbims.vcu.edu](https://tbims.vcu.edu)
- - date_published: 2024-07-02T12:50:28.149562+00:00
-
- ## Commitment to Privacy
- - [https://tbiresources.partnership.vcu.edu](https://tbiresources.partnership.vcu.edu)
- - date_published: 2024-07-02T12:51:11.090679+00:00
-
- ## Commitment to Privacy
- - [https://tbi.vcu.edu](https://tbi.vcu.edu)
- - date_published: 2024-07-02T12:48:10.780186+00:00
-
- ## Commitment to Privacy
- - [https://techfair.vcu.edu](https://techfair.vcu.edu)
- - date_published: 2024-07-02T12:45:56.875111+00:00
-
- ## VCU TelegRAM
- - [http://telegram.vcu.edu](http://telegram.vcu.edu)
- - date_published: 2024-07-02T13:00:58.578387+00:00
-
- ## Commitment to Privacy
- - [https://telework.vcu.edu](https://telework.vcu.edu)
- - date_published: 2024-07-02T12:59:05.315688+00:00
-
- ## Commitment to Privacy
- - [https://thecommons.vcu.edu](https://thecommons.vcu.edu)
- - date_published: 2024-07-02T12:49:25.483499+00:00
-
- ## Commitment to Privacy
- - [https://themoneyspot.vcu.edu](https://themoneyspot.vcu.edu)
- - date_published: 2024-07-02T12:42:03.200110+00:00
-
- ## Commitment to Privacy
- - [https://tobaccofree.vcu.edu](https://tobaccofree.vcu.edu)
- - date_published: 2024-07-02T12:51:08.341044+00:00
-
- ## Commitment to Privacy
- - [https://together.vcu.edu](https://together.vcu.edu)
- - date_published: 2024-07-02T12:57:30.483326+00:00
-
- ## VCU Training
- - [https://training.vcu.edu](https://training.vcu.edu)
- - date_published: 2024-07-02T12:58:09.938544+00:00
-
- ## Commitment to Privacy
- - [https://transfer.vcu.edu](https://transfer.vcu.edu)
- - date_published: 2024-07-02T12:42:43.562955+00:00
-
- ## Commitment to Privacy
- - [https://treasury.vcu.edu](https://treasury.vcu.edu)
- - date_published: 2024-07-02T12:41:44.430257+00:00
-
- ## Commitment to Privacy
- - [https://trio.vcu.edu](https://trio.vcu.edu)
- - date_published: 2024-07-02T12:58:48.122330+00:00
-
- ## Commitment to Privacy
- - [https://ts.som.vcu.edu](https://ts.som.vcu.edu)
- - date_published: 2024-07-02T12:48:42.117198+00:00
-
- ## Commitment to Privacy
- - [https://ts.vcu.edu](https://ts.vcu.edu)
- - date_published: 2024-05-01T05:49:31.967560+00:00
 

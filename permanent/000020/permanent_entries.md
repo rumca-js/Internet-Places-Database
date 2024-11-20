@@ -1,3 +1,19 @@
+ ## Home | University of Toronto Libraries
+ - [https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca](https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Gerstein Science Information Centre
+ - [https://gerstein.library.utoronto.ca](https://gerstein.library.utoronto.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://governingcouncil.utoronto.ca](https://governingcouncil.utoronto.ca)
+ - date_published: 2019-06-27T00:11:02+00:00
+
+ ## Home | Global Professional LLM (GPLLM)
+ - [https://gpllm.law.utoronto.ca](https://gpllm.law.utoronto.ca)
+ - date_published: 2024-07-20T10:24:00+00:00
+
  ## Research guides | University of Toronto Libraries
  - [https://guides.library.utoronto.ca](https://guides.library.utoronto.ca)
  - date_published: 2024-04-30T05:29:03.420725+00:00
@@ -3994,20 +4010,4 @@
  ## S4A Blog
  - [http://blog.s4a.cat](http://blog.s4a.cat)
  - date_published: 2016-02-23T00:00:00+00:00
-
- ## Shadowcat Systems Limited – Sufficiently Advanced Technology
- - [https://www.shadow.cat](https://www.shadow.cat)
- - date_published: 2024-09-03T23:35:58.293117+00:00
-
- ## ShiSH.cat
- - [https://shish.cat](https://shish.cat)
- - date_published: 2024-05-11T10:07:48.644215+00:00
-
- ## sizeof(cat)
- - [https://sizeof.cat](https://sizeof.cat)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## soggy cat
- - [https://soggy.cat](https://soggy.cat)
- - date_published: 2024-05-08T10:45:11.258764+00:00
 

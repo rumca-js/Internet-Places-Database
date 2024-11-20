@@ -1,3 +1,151 @@
+ ## Software Design: Tidy First? | Kent Beck | Substack
+ - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+ - date_published: 2023-10-25T10:06:29.035400+00:00
+ - tags: ['substack']
+
+ ## The Ties That Bind: NATO at 75 and Beyond | FPRI Eurasia Program | Substack
+ - [https://tiesthatbind.substack.com](https://tiesthatbind.substack.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## The Mycelium | Tijn Tjoelker | Substack
+ - [https://tijntjoelker.substack.com](https://tijntjoelker.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Tim Culpan’s Position | Substack
+ - [https://timculpan.substack.com](https://timculpan.substack.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Unfiltered by Tim Denning | Substack
+ - [https://timdenning.substack.com](https://timdenning.substack.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Time Travel Kitchen | Jolene Handy | Substack
+ - [https://timetravelkitchen.substack.com](https://timetravelkitchen.substack.com)
+ - date_published: 2024-07-04T04:40:19.935769+00:00
+
+ ## Intellectual Insights | Tim Robinson | Substack
+ - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
+ - date_published: 2024-05-06T18:31:19.669340+00:00
+
+ ## Eight by Seven | Timothy Burke | Substack
+ - [https://timothyburke.substack.com](https://timothyburke.substack.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## History of the Present | Timothy Garton Ash | Substack
+ - [https://timothygartonash.substack.com](https://timothygartonash.substack.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## It's all obvious or trivial except.... | Tim Worstall | Substack
+ - [https://timworstall.substack.com](https://timworstall.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Adulting Sucks | Tina Dubinsky | Substack
+ - [https://tinadubinsky.substack.com](https://tinadubinsky.substack.com)
+ - date_published: 2024-07-12T15:40:44.228725+00:00
+
+ ## Tiny Empires | JT | Substack
+ - [https://tinyempires.substack.com](https://tinyempires.substack.com)
+ - date_published: 2023-10-25T10:06:31.208743+00:00
+ - tags: ['substack']
+
+ ## Tjaart’s Substack | Substack
+ - [https://tjaart.substack.com](https://tjaart.substack.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## T.L.’s Posts and Podcasts | T.L. Davis | Substack
+ - [https://tldavis.substack.com](https://tldavis.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## tldraw | Steve Ruiz | Substack
+ - [https://tldraw.substack.com](https://tldraw.substack.com)
+ - date_published: 2023-10-25T10:06:33.454002+00:00
+ - tags: ['substack']
+
+ ## Terry Mattingly -- Rational Sheep | tmatt | Substack
+ - [https://tmattingly.substack.com](https://tmattingly.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Modern Software Developer | Richard Donovan | Substack
+ - [https://tmsd.substack.com](https://tmsd.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## uTobian | Toby Rogers | Substack
+ - [https://tobyrogers.substack.com](https://tobyrogers.substack.com)
+ - date_published: 2024-06-15T08:50:41.605666+00:00
+
+ ## Eat More Electrons | Todd Moss | Substack
+ - [https://toddmoss.substack.com](https://toddmoss.substack.com)
+ - date_published: 2024-06-15T05:55:16.030611+00:00
+
+ ## Token Relations  | Substack
+ - [https://tokenrelations.substack.com](https://tokenrelations.substack.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Tomato Potato | Kyle Lambert | Substack
+ - [https://tomatopotato.substack.com](https://tomatopotato.substack.com)
+ - date_published: 2024-09-04T04:11:13.638840+00:00
+
+ ## Tombstone Tales | Sean Lindblad | Substack
+ - [https://tombstonetales.substack.com](https://tombstonetales.substack.com)
+ - date_published: 2024-06-21T18:25:58.608487+00:00
+
+ ## Oxymoron | Tom Greenwood | Substack
+ - [https://tomgreenwood.substack.com](https://tomgreenwood.substack.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Tilting At Windmills | Tom Knighton | Substack
+ - [https://tomknighton.substack.com](https://tomknighton.substack.com)
+ - date_published: 2024-01-09T01:45:38.631800+00:00
+
+ ## The Writing Shed with Tommy Tomlinson | Substack
+ - [https://tommytomlinson.substack.com](https://tommytomlinson.substack.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Tom Nelson | Substack
+ - [https://tomn.substack.com](https://tomn.substack.com)
+ - date_published: 2024-06-28T18:36:05.732146+00:00
+
+ ## Reasonable People | Tom Stafford | Substack
+ - [https://tomstafford.substack.com](https://tomstafford.substack.com)
+ - date_published: 2024-05-04T13:56:24.520866+00:00
+
+ ## The Tom the Dancing Bug Review | Ruben Bolling | Substack
+ - [https://tomthedancingbug.substack.com](https://tomthedancingbug.substack.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Fermentation | Substack
+ - [https://tomwark.substack.com](https://tomwark.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Tone Glow | Substack
+ - [https://toneglow.substack.com](https://toneglow.substack.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## too long; automated | Bartosz Miselis | Substack
+ - [https://toolongautomated.substack.com](https://toolongautomated.substack.com)
+ - date_published: 2024-11-14T08:16:48.038019+00:00
+
+ ## Tools for Possibilities | Cool Tools Lab | Substack
+ - [https://toolsforpossibilities.substack.com](https://toolsforpossibilities.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Top10VPN’s Week in Review | Substack
+ - [https://top10vpn.substack.com](https://top10vpn.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Two Minute Papers | Khushi Lunkad | Substack
+ - [https://toption.substack.com](https://toption.substack.com)
+ - date_published: 2024-07-28T00:00:00+00:00
+
+ ## Torture Chamber Small Talk | Loudt Darrow | Substack
+ - [https://torturechambersmalltalk.substack.com](https://torturechambersmalltalk.substack.com)
+ - date_published: 2023-10-25T10:06:43.996611+00:00
+ - tags: ['substack']
+
+ ## Totality of Evidence News | Just call me Jack | Substack
+ - [https://totalityofevidence.substack.com](https://totalityofevidence.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
  ## Total Rec | Substack
  - [https://totallyrecommend.substack.com](https://totallyrecommend.substack.com)
  - date_published: 2024-01-24T00:00:00+00:00
@@ -3894,148 +4042,4 @@
  ## SurveyMonkey: lo strumento di indagine on-line gratuito più popolare al mondo
  - [https://it.surveymonkey.com](https://it.surveymonkey.com)
  - date_published: 2024-06-16T09:51:03.119874+00:00
-
- ## SurveyMonkey: 世界で最も愛される無料のオンライン アンケート ツール
- - [https://jp.surveymonkey.com](https://jp.surveymonkey.com)
- - date_published: 2024-06-16T09:51:40.823604+00:00
-
- ## SurveyMonkey: 세계 최고 인기의 무료 온라인 설문 도구
- - [https://ko.surveymonkey.com](https://ko.surveymonkey.com)
- - date_published: 2024-06-16T09:51:35.480412+00:00
-
- ## Online enquêtes en vragenlijsten maken | SurveyMonkey
- - [https://nl.surveymonkey.com](https://nl.surveymonkey.com)
- - date_published: 2024-06-16T09:51:05.230342+00:00
-
- ## SurveyMonkey: Verdens mest populære nettbaserte verktøy for spørreundersøkelser
- - [https://no.surveymonkey.com](https://no.surveymonkey.com)
- - date_published: 2024-06-16T09:51:27.663340+00:00
-
- ## Crie pesquisas e questionários online | SurveyMonkey
- - [https://pt.surveymonkey.com](https://pt.surveymonkey.com)
- - date_published: 2024-06-16T09:51:12.546606+00:00
-
- ## SurveyMonkey: самый популярный в мире бесплатный инструмент для проведения онлайн-опросов
- - [https://ru.surveymonkey.com](https://ru.surveymonkey.com)
- - date_published: 2024-06-16T09:51:08.049819+00:00
-
- ## SurveyMonkey Status
- - [https://status.surveymonkey.com](https://status.surveymonkey.com)
- - date_published: 2024-10-03T08:27:10.179431+00:00
-
- ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://surveymonkey.com](https://surveymonkey.com)
- - date_published: 2024-04-29T03:26:10.511286+00:00
-
- ## SurveyMonkey: Världens mest populära gratis webbaserade enkätverktyg
- - [https://sv.surveymonkey.com](https://sv.surveymonkey.com)
- - date_published: 2024-06-16T09:51:20.206659+00:00
-
- ## SurveyMonkey: Dünyanın En Popüler Ücretsiz Çevrimiçi Anket Aracı
- - [https://tr.surveymonkey.com](https://tr.surveymonkey.com)
- - date_published: 2024-06-16T09:51:37.782299+00:00
-
- ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://uk.surveymonkey.com](https://uk.surveymonkey.com)
- - date_published: 2024-06-16T09:51:32.699888+00:00
-
- ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://widget.surveymonkey.com](https://widget.surveymonkey.com)
- - date_published: 2024-06-25T16:01:58.957318+00:00
-
- ## SurveyMonkey：全球最受歡迎的免費線上調查問卷工具
- - [https://zh.surveymonkey.com](https://zh.surveymonkey.com)
- - date_published: 2024-06-16T09:51:30.519927+00:00
-
- ## Survey Nerds | Podcast Online Survey Software & Tools | Questionnaire Maker
- - [http://surveynerds.com](http://surveynerds.com)
- - date_published: 2024-06-23T07:09:53.381957+00:00
-
- ## SurveyPlanet
- - [https://s.surveyplanet.com](https://s.surveyplanet.com)
- - date_published: 2024-03-25T21:23:06+00:00
-
- ## SurveySparrow
- - [https://ibexa.surveysparrow.com](https://ibexa.surveysparrow.com)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## SurveyUSA | America’s Neighborhood Pollster™
- - [https://www.surveyusa.com](https://www.surveyusa.com)
- - date_published: 2024-06-29T10:52:18.259826+00:00
-
- ## Survicate: Effortless Survey Software
- - [https://survicate.com](https://survicate.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Create a survey | Free surveys & questionnaires online | Survio®
- - [https://www.survio.com](https://www.survio.com)
- - date_published: 2024-07-01T03:05:23.397068+00:00
-
- ## Survival 24x7 | Prepping for when SHTF
- - [https://www.survival24x7.com](https://www.survival24x7.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## About
- - [http://survivalandflourishing.com](http://survivalandflourishing.com)
- - date_published: 2024-03-26T18:39:12+00:00
-
- ## Survival Ball
- - [https://survivalball.com](https://survivalball.com)
- - date_published: 2018-11-11T00:00:00+00:00
-
- ## SurvivalBlog
- - [https://survivalblog.com](https://survivalblog.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## HOME | Survivalist On Tap
- - [http://survivalistontap.com](http://survivalistontap.com)
- - date_published: 2023-01-13T00:00:00+00:00
-
- ## SurvivalNutrition.com
- - [https://www.survivalnutrition.com](https://www.survivalnutrition.com)
- - date_published: 2020-10-30T16:59:32+00:00
-
- ## - Survival with a punk attitude
- - [http://survivalpunk.com](http://survivalpunk.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Survive Doomsday - Modern Survival
- - [https://survivedoomsday.com](https://survivedoomsday.com)
- - date_published: 2024-06-29T04:59:42.862322+00:00
-
- ## Survive Outdoors Longer
- - [https://www.surviveoutdoorslonger.com](https://www.surviveoutdoorslonger.com)
- - date_published: 2024-07-13T02:55:36.719369+00:00
-
- ## ARK Store
- - [https://store.survivetheark.com](https://store.survivetheark.com)
- - date_published: 2024-10-25T16:23:56.047522+00:00
-
- ## ARK News
- - [https://survivetheark.com](https://survivetheark.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Surviving As Mom
- - [http://survivingasmom.com](http://survivingasmom.com)
- - date_published: 2024-09-03T23:07:43.744598+00:00
-
- ## Surviving Mars - Paradox Interactive
- - [https://www.survivingmars.com](https://www.survivingmars.com)
- - date_published: 2024-05-04T09:04:06.970030+00:00
-
- ## Home
- - [http://www.survivingprepper.com](http://www.survivingprepper.com)
- - date_published: 2017-10-13T01:00:50+00:00
-
- ## Surviving the Aftermath - Paradox Interactive
- - [https://survivingtheaftermath.com](https://survivingtheaftermath.com)
- - date_published: 2024-05-14T02:49:17.713436+00:00
-
- ## Homepage - Survivopedia
- - [https://www.survivopedia.com](https://www.survivopedia.com)
- - date_published: 2024-06-23T20:44:45+00:00
-
- ## SURYA777: PERMAINAN KREATIF MEMBUAT MOBIL LISTRIK
- - [https://surya777play.com](https://surya777play.com)
- - date_published: 2024-09-10T13:33:02.021612+00:00
 

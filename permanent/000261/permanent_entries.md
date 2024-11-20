@@ -1,3 +1,183 @@
+ ## Department of Economics
+ - [https://www2.econ.iastate.edu](https://www2.econ.iastate.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Iowa State University
+ - [https://www.admissions.iastate.edu](https://www.admissions.iastate.edu)
+ - date_published: 2024-08-09T03:40:14.648111+00:00
+
+ ## Department of Aerospace Engineering – College of Engineering, Iowa State University
+ - [https://www.aere.iastate.edu](https://www.aere.iastate.edu)
+ - date_published: 2024-07-19T05:42:44.391251+00:00
+
+ ## College of Agriculture and Life Sciences
+ - [https://www.cals.iastate.edu](https://www.cals.iastate.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Center for Agricultural and Rural Development
+ - [https://www.card.iastate.edu](https://www.card.iastate.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CFSPH
+ - [https://www.cfsph.iastate.edu](https://www.cfsph.iastate.edu)
+ - date_published: 2024-07-01T16:16:42.236858+00:00
+
+ ## Department of Computer Science
+ - [http://www.cs.iastate.edu](http://www.cs.iastate.edu)
+ - date_published: 2024-08-18T22:39:28+00:00
+
+ ## College of Design – Iowa State University College of Design
+ - [https://www.design.iastate.edu](https://www.design.iastate.edu)
+ - date_published: 2024-08-06T18:25:46+00:00
+
+ ## Diversity, Equity and Inclusion
+ - [https://www.diversity.iastate.edu](https://www.diversity.iastate.edu)
+ - date_published: 2024-07-01T06:37:35.223172+00:00
+
+ ## Department of Economics
+ - [https://www.econ.iastate.edu](https://www.econ.iastate.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## College of Engineering - Iowa State University
+ - [http://www.engineering.iastate.edu](http://www.engineering.iastate.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Equal Opportunity
+ - [http://www.eoc.iastate.edu](http://www.eoc.iastate.edu)
+ - date_published: 2024-10-15T05:23:16.019802+00:00
+
+ ## Events • Events Calendar • Iowa State University
+ - [https://www.event.iastate.edu](https://www.event.iastate.edu)
+ - date_published: 2024-07-03T18:11:56.464078+00:00
+
+ ## Facilities Planning and Management
+ - [http://www.fpm.iastate.edu](http://www.fpm.iastate.edu)
+ - date_published: 2024-07-09T13:09:15.500062+00:00
+
+ ## Iowa State Graduate College - Graduate College - Iowa State University
+ - [http://www.grad-college.iastate.edu](http://www.grad-college.iastate.edu)
+ - date_published: 2024-07-09T13:09:08.390246+00:00
+
+ ## Home - Department of Horticulture
+ - [https://www.hort.iastate.edu](https://www.hort.iastate.edu)
+ - date_published: 2024-06-16T22:36:23.839976+00:00
+
+ ## Information Technology Services
+ - [https://www.it.iastate.edu](https://www.it.iastate.edu)
+ - date_published: 2024-07-01T06:37:33.951242+00:00
+
+ ## Home
+ - [https://www.ivybusiness.iastate.edu](https://www.ivybusiness.iastate.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## University Library
+ - [https://www.lib.iastate.edu](https://www.lib.iastate.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Department of Mechanical Engineering – Iowa State University
+ - [https://www.me.iastate.edu](https://www.me.iastate.edu)
+ - date_published: 2024-07-21T22:19:36.703784+00:00
+
+ ## News Service • Iowa State University
+ - [https://www.news.iastate.edu](https://www.news.iastate.edu)
+ - date_published: 2024-07-03T18:12:10.608618+00:00
+
+ ## Division of Academic Affairs
+ - [http://www.provost.iastate.edu](http://www.provost.iastate.edu)
+ - date_published: 2024-07-09T13:09:06.249466+00:00
+
+ ## ICON Collective Music Production School: LA & Online
+ - [https://iconcollective.edu](https://iconcollective.edu)
+ - date_published: 2024-05-08T09:20:59.159855+00:00
+
+ ## IE - Reinventing Higher Education
+ - [https://www.ie.edu](https://www.ie.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Join IESE Alumni Platform
+ - [https://alumni.iese.edu](https://alumni.iese.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
+ - [https://apply.iese.edu](https://apply.iese.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Management, Leadership and Economy Blogs | IESE Blog Network
+ - [https://blog.iese.edu](https://blog.iese.edu)
+ - date_published: 2015-03-24T07:18:15+00:00
+
+ ## Contigo más lejos
+ - [https://giving.iese.edu](https://giving.iese.edu)
+ - date_published: 2024-07-04T12:34:34.202430+00:00
+
+ ## IESE Business School: MBAs & Executive Education | #1 FT since 2015
+ - [https://iese.edu](https://iese.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.iese.edu](https://my.iese.edu)
+ - date_published: 2024-07-04T12:34:35.244018+00:00
+
+ ## Data-Intensive Distributed Systems Laboratory
+ - [http://datasys.cs.iit.edu](http://datasys.cs.iit.edu)
+ - date_published: 2023-01-31T16:25:40+00:00
+
+ ## Next Level You | Elevate
+ - [https://elevateyourfuture.iit.edu](https://elevateyourfuture.iit.edu)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Illinois Tech | Illinois Institute of Technology
+ - [https://iit.edu](https://iit.edu)
+ - date_published: 2024-05-11T10:54:11.667812+00:00
+
+ ## Chicago-Kent College of Law | Chicago-Kent College of Law
+ - [https://kentlaw.iit.edu](https://kentlaw.iit.edu)
+ - date_published: 2024-05-11T10:54:08.976687+00:00
+
+ ## Illinois Tech
+ - [https://portal.iit.edu](https://portal.iit.edu)
+ - date_published: 2024-10-12T15:23:56.323844+00:00
+
+ ## Illinois Institute of Technology
+ - [https://professionallearning.catalog.iit.edu](https://professionallearning.catalog.iit.edu)
+ - date_published: 2024-02-08T22:08:52.323949+00:00
+
+ ## Illinois Tech | Illinois Institute of Technology
+ - [https://web.iit.edu](https://web.iit.edu)
+ - date_published: 2024-05-01T07:27:02.099486+00:00
+
+ ## You, ELEVATED | Illinois Tech
+ - [https://youelevated.iit.edu](https://youelevated.iit.edu)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Home :: ECE 443 - ECE - Illinois
+ - [https://443.ece.illinois.edu](https://443.ece.illinois.edu)
+ - date_published: 2024-04-30T04:58:06.698315+00:00
+
+ ## | Illinois 4-H | UIUC
+ - [https://4h.extension.illinois.edu](https://4h.extension.illinois.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home
+ - [https://acecenter.grainger.illinois.edu](https://acecenter.grainger.illinois.edu)
+ - date_published: 2024-08-11T16:21:10.535227+00:00
+
+ ## ACES Alumni Association | College of Agricultural, Consumer and Environmental Sciences | UIUC
+ - [https://acesalumni.illinois.edu](https://acesalumni.illinois.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home | ACES | UIUC
+ - [https://aces.illinois.edu](https://aces.illinois.edu)
+ - date_published: 2024-02-24T10:02:10.954053+00:00
+
+ ## University of Illinois Undergraduate Admissions
+ - [https://admissions.illinois.edu](https://admissions.illinois.edu)
+ - date_published: 2024-04-30T04:56:47.882075+00:00
+
+ ## Office of the Associate Dean for Research - Home
+ - [https://adr.grainger.illinois.edu](https://adr.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:59:02.681205+00:00
+
  ## Home
  - [http://adsc.illinois.edu](http://adsc.illinois.edu)
  - date_published: 2024-07-12T16:26:45.746125+00:00
@@ -3829,184 +4009,4 @@ Data Services
  ## Columbus School of Law
  - [https://law.edu](https://law.edu)
  - date_published: 2024-06-14T22:02:48+00:00
-
- ## Welcome to Lewis & Clark in Beautiful Portland, Oregon
- - [https://www.lclark.edu](https://www.lclark.edu)
- - date_published: 2024-07-12T19:47:53+00:00
-
- ## Lake Erie College of Osteopathic Medicine (LECOM) | Erie, PA
- - [http://lecom.edu](http://lecom.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Lee University, Cleveland TN
- - [http://www.leeuniversity.edu](http://www.leeuniversity.edu)
- - date_published: 2024-10-30T20:25:59.304461+00:00
-
- ## AIRWeb: Adversarial Information Retrieval on the Web
- - [http://airweb.cse.lehigh.edu](http://airweb.cse.lehigh.edu)
- - date_published: 2011-01-12T01:57:51+00:00
-
- ## COR@L – Computational Optimization Research At Lehigh
- - [http://coral.ie.lehigh.edu](http://coral.ie.lehigh.edu)
- - date_published: 2024-08-08T03:13:27.499259+00:00
-
- ## COR@L – Computational Optimization Research At Lehigh
- - [https://coral.ise.lehigh.edu](https://coral.ise.lehigh.edu)
- - date_published: 2024-08-08T03:13:28.817482+00:00
-
- ## Lehigh Engineering: Integrated Education and Research
- - [https://engineering.lehigh.edu](https://engineering.lehigh.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SeDuMi | Optimization over symmetric cones
- - [https://sedumi.ie.lehigh.edu](https://sedumi.ie.lehigh.edu)
- - date_published: 2024-04-28T01:58:14.252018+00:00
-
- ## Home
- - [https://www1.lehigh.edu](https://www1.lehigh.edu)
- - date_published: 2024-06-29T21:03:04+00:00
-
- ## Home
- - [https://www2.lehigh.edu](https://www2.lehigh.edu)
- - date_published: 2024-06-29T21:03:04+00:00
-
- ## Home
- - [http://www.lehigh.edu](http://www.lehigh.edu)
- - date_published: 2024-07-01T20:03:03+00:00
-
- ## Lehman College | Lehman College
- - [http://www.lehman.edu](http://www.lehman.edu)
- - date_published: 2024-06-28T13:25:18.678211+00:00
-
- ## Redirect to Lockhaven.edu
- - [https://www.lhup.edu](https://www.lhup.edu)
- - date_published: 2024-05-07T15:42:12.265148+00:00
-
- ## Liberty University: A Christian University in Virginia and Online
- - [https://liberty.edu](https://liberty.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fitness Certification Classes and Programs - Life Time Academy
- - [https://www.lifetimeacademy.edu](https://www.lifetimeacademy.edu)
- - date_published: 2024-06-19T10:13:42.076162+00:00
-
- ## Digital Commons@Lindenwood University
- - [https://digitalcommons.lindenwood.edu](https://digitalcommons.lindenwood.edu)
- - date_published: 2024-07-08T21:39:42.618789+00:00
-
- ## Long Island University
- - [https://liu.edu](https://liu.edu)
- - date_published: 2024-06-26T12:31:59.198224+00:00
-
- ## Loyola Law School
- - [https://www.lls.edu](https://www.lls.edu)
- - date_published: 2024-09-15T23:30:53.260162+00:00
-
- ## Loma Linda University
- - [http://www.llu.edu](http://www.llu.edu)
- - date_published: 2024-06-24T09:01:34+00:00
-
- ## Admission
- - [http://admission.lmu.edu](http://admission.lmu.edu)
- - date_published: 2024-09-09T21:59:39.728906+00:00
-
- ## Seaver College of Science and Engineering - Loyola Marymount University
- - [https://cse.lmu.edu](https://cse.lmu.edu)
- - date_published: 2024-09-06T19:50:49.053168+00:00
-
- ## https://cs.lmu.edu
- - [https://cs.lmu.edu](https://cs.lmu.edu)
- - date_published: 2024-01-09T02:59:22.375629+00:00
-
- ## Digital Commons at Loyola Marymount University and Loyola Law School | Loyola Marymount University and Loyola Law School Research
- - [https://digitalcommons.lmu.edu](https://digitalcommons.lmu.edu)
- - date_published: 2024-09-15T23:30:48.651955+00:00
-
- ## Shibboleth Authentication Request
- - [http://electra.lmu.edu](http://electra.lmu.edu)
- - date_published: 2024-06-30T01:25:33.164003+00:00
-
- ## Loyola Marymount University
- - [http://lmu.edu](http://lmu.edu)
- - date_published: 2024-09-09T21:59:42.917287+00:00
-
- ## Viewbook - Digital Viewbook
- - [https://viewbook.lmu.edu](https://viewbook.lmu.edu)
- - date_published: 2024-04-30T06:57:21.481187+00:00
-
- ## London Business School Publishing - Case Collection
- - [https://publishing.london.edu](https://publishing.london.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home | London Business School
- - [https://www.london.edu](https://www.london.edu)
- - date_published: 2024-06-20T22:45:42.682744+00:00
-
- ## Calendar
- - [https://calendar.louisiana.edu](https://calendar.louisiana.edu)
- - date_published: 2024-06-14T19:08:22+00:00
-
- ## Make a Gift
- - [https://give.louisiana.edu](https://give.louisiana.edu)
- - date_published: 2024-07-02T04:10:19.576903+00:00
-
- ## Another Degree of Success
- - [https://gradschool.louisiana.edu](https://gradschool.louisiana.edu)
- - date_published: 2024-07-01T21:01:12+00:00
-
- ## Human Resources
- - [https://humanresources.louisiana.edu](https://humanresources.louisiana.edu)
- - date_published: 2024-07-02T03:53:33+00:00
-
- ## University Libraries
- - [https://library.louisiana.edu](https://library.louisiana.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## University of Louisiana at Lafayette
- - [https://louisiana.edu](https://louisiana.edu)
- - date_published: 2024-05-07T21:31:24.047115+00:00
-
- ## Home | Home
- - [https://moodle.louisiana.edu](https://moodle.louisiana.edu)
- - date_published: 2024-07-02T04:10:38+00:00
-
- ## Office of Communications & Marketing
- - [https://ocm.louisiana.edu](https://ocm.louisiana.edu)
- - date_published: 2024-07-02T04:10:30.591706+00:00
-
- ## Education that fits.
- - [https://online.louisiana.edu](https://online.louisiana.edu)
- - date_published: 2024-07-01T20:59:20+00:00
-
- ## University Police
- - [https://police.louisiana.edu](https://police.louisiana.edu)
- - date_published: 2024-07-02T03:38:47+00:00
-
- ## Office of Admissions
- - [https://apply.louisville.edu](https://apply.louisville.edu)
- - date_published: 2024-06-27T12:00:31.796714+00:00
-
- ## Blackboard Learn
- - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
- - date_published: 2004-06-27T12:00:49+00:00
-
- ## University of Louisville – College of Business
- - [https://business.louisville.edu](https://business.louisville.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## University of Louisville
- - [https://businessops.louisville.edu](https://businessops.louisville.edu)
- - date_published: 2024-05-02T14:48:53+00:00
-
- ## Academic Catalogs < University of Louisville
- - [https://catalog.louisville.edu](https://catalog.louisville.edu)
- - date_published: 2024-06-24T13:12:18+00:00
-
- ## ULink Sign-in
- - [https://csprd.louisville.edu](https://csprd.louisville.edu)
- - date_published: 2024-06-27T12:00:42.690096+00:00
-
- ## Events Calendar - University of Louisville
- - [https://events.louisville.edu](https://events.louisville.edu)
- - date_published: 2024-05-17T00:00:00+00:00
 

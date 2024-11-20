@@ -1,3 +1,217 @@
+ ## Halide
+ - [https://halide-lang.org](https://halide-lang.org)
+ - date_published: 2023-08-15T20:53:29+00:00
+
+ ## Home - Halifax Refugee Clinic
+ - [https://halifaxrefugeeclinic.org](https://halifaxrefugeeclinic.org)
+ - date_published: 2022-11-25T00:00:00+00:00
+
+ ## Halium — Halium  documentation
+ - [https://docs.halium.org](https://docs.halium.org)
+ - date_published: 2023-02-15T00:00:00+00:00
+
+ ## Halium Project
+ - [https://halium.org](https://halium.org)
+ - date_published: 2024-09-14T16:18:43+00:00
+
+ ## Hall of Impossible Dreams
+ - [https://hallofdreams.org](https://hallofdreams.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Hallo: Verein zur Förderung raumöffnender Kultur e.V.
+ - [https://hallohallohallo.org](https://hallohallohallo.org)
+ - date_published: 2024-07-13T16:11:46.040000+00:00
+
+ ## hallucinogens . org
+ - [https://www.hallucinogens.org](https://www.hallucinogens.org)
+ - date_published: 2023-08-05T01:02:58+00:00
+
+ ## Hallwalls Contemporary Arts Center :: Current & Upcoming
+ - [http://www.hallwalls.org](http://www.hallwalls.org)
+ - date_published: 2024-06-28T14:31:49.445163+00:00
+
+ ## Halopedia
+ - [https://halopedia.org](https://halopedia.org)
+ - date_published: 2024-03-02T02:33:16+00:00
+ - tags: ['halo game']
+
+ ## Halt.org Directory For Lawyers ✋ Halt Law Directory 🚨
+ - [https://www.halt.org](https://www.halt.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Halte au Pillage !
+ - [http://www.halte-au-pillage.org](http://www.halte-au-pillage.org)
+ - date_published: 2024-06-24T10:03:25.294978+00:00
+
+ ## Juha-Matti Santala - Community Builder. Dreamer. Adventurer.
+ - [https://hamatti.org](https://hamatti.org)
+ - date_published: 2024-05-07T23:15:08.677327+00:00
+
+ ## Hamcrest
+ - [https://hamcrest.org](https://hamcrest.org)
+ - date_published: 2022-08-08T16:24:03+00:00
+
+ ## hameaux durables : Rénovations et Constructions  Hérault Montpellier 34
+ - [https://www.hameaux-durables.org](https://www.hameaux-durables.org)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Webseite von Jörn Hameister
+ - [http://www.hameister.org](http://www.hameister.org)
+ - date_published: 2024-07-09T12:15:14.423344+00:00
+
+ ## Huntsville Hamfest – Huntsville Hamfest
+ - [http://www.hamfest.org](http://www.hamfest.org)
+ - date_published: 2024-06-29T07:51:08.819126+00:00
+
+ ## Recycling & Waste Reduction | Hamilton County Environmental Services, OH
+ - [https://hamiltoncountyr3source.org](https://hamiltoncountyr3source.org)
+ - date_published: 2024-10-30T01:01:04.901999+00:00
+
+ ## The Hamilton Project
+ - [https://www.hamiltonproject.org](https://www.hamiltonproject.org)
+ - date_published: 2024-06-27T12:58:50+00:00
+
+ ## Joel David Hamkins | mathematics and philosophy of the infinite
+ - [https://jdh.hamkins.org](https://jdh.hamkins.org)
+ - date_published: 2023-10-25T21:27:46.698687+00:00
+ - tags: ['personal']
+
+ ## The Hamler Programming Language
+ - [https://www.hamler-lang.org](https://www.hamler-lang.org)
+ - date_published: 2021-08-25T06:35:31+00:00
+
+ ## Hammerspoon
+ - [https://www.hammerspoon.org](https://www.hammerspoon.org)
+ - date_published: 2024-08-06T02:50:58+00:00
+
+ ## HaMoked
+ - [http://www.hamoked.org](http://www.hamoked.org)
+ - date_published: 2024-09-16T20:13:47.935612+00:00
+
+ ## 리눅스 커뮤니티 하모니카(HamoniKR)
+ - [https://hamonikr.org](https://hamonikr.org)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Home - Dayton Hamvention
+ - [http://hamvention.org](http://hamvention.org)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Element
+ - [http://chat.hanamirb.org](http://chat.hanamirb.org)
+ - date_published: 2024-08-06T10:47:38+00:00
+
+ ## Hanami
+ - [https://discourse.hanamirb.org](https://discourse.hanamirb.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Hanami API docs
+ - [https://docs.hanamirb.org](https://docs.hanamirb.org)
+ - date_published: 2024-08-18T19:02:54.885996+00:00
+
+ ## Hanami Guides
+ - [https://guides.hanamirb.org](https://guides.hanamirb.org)
+ - date_published: 2024-08-18T19:02:56.227184+00:00
+
+ ## Hanami | The web, with simplicity
+ - [https://hanamirb.org](https://hanamirb.org)
+ - date_published: 2023-10-25T21:27:52.118904+00:00
+
+ ## Home
+ - [https://hancockshakervillage.org](https://hancockshakervillage.org)
+ - date_published: 2024-08-19T10:08:03.196771+00:00
+
+ ## Phone Tracker Free | Mobile Tracker | Cell Phone Tracking App
+ - [http://www.handhelds.org](http://www.handhelds.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Episode Guide  —  Handmade Hero
+ - [https://guide.handmadehero.org](https://guide.handmadehero.org)
+ - date_published: 2024-03-12T13:18:49+00:00
+
+ ## Handmade Hero
+ - [https://handmadehero.org](https://handmadehero.org)
+ - date_published: 2022-12-07T19:52:04+00:00
+
+ ## from the archives of the Hand Drawn Map Association – from the archives of the Hand Drawn Map Association
+ - [http://www.handmaps.org](http://www.handmaps.org)
+ - date_published: 2024-09-14T22:49:19.713380+00:00
+
+ ## Hands Four Dancers of Ithaca
+ - [http://hands4dancers.org](http://hands4dancers.org)
+ - date_published: 2024-08-20T05:20:28.670249+00:00
+
+ ## Handshake
+ - [https://handshake.org](https://handshake.org)
+ - date_published: 2023-11-09T09:17:49+00:00
+
+ ## Hands Off Mother Earth: Stop geoengineering!
+ - [https://www.handsoffmotherearth.org](https://www.handsoffmotherearth.org)
+ - date_published: 2020-11-30T02:47:45+00:00
+
+ ## Hands Off Venezuela
+ - [http://www.handsoffvenezuela.org](http://www.handsoffvenezuela.org)
+ - date_published: 2024-10-21T17:53:26.056927+00:00
+
+ ## Hands Off Women | Fighting violence against women
+ - [http://www.handsoffwomen-how.org](http://www.handsoffwomen-how.org)
+ - date_published: 2024-10-22T12:43:58.584908+00:00
+
+ ## The Hands Up Project
+ - [https://handsupproject.org](https://handsupproject.org)
+ - date_published: 2024-10-19T10:38:13.933492+00:00
+
+ ## Fondazione Pirelli HangarBicocca Milano: Mostre d'Arte
+ - [http://www.hangarbicocca.org](http://www.hangarbicocca.org)
+ - date_published: 2023-12-05T00:00:00+00:00
+
+ ## Patricia A. Hannaford Career Center | Middlebury, VT
+ - [http://www.hannafordcareercenter.org](http://www.hannafordcareercenter.org)
+ - date_published: 2024-10-18T17:43:55.359238+00:00
+
+ ## Hannah4Change
+ - [https://www.hannah4change.org](https://www.hannah4change.org)
+ - date_published: 2024-08-20T05:05:39.010974+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.hanscominvestmentservices.org](https://www.hanscominvestmentservices.org)
+ - date_published: 2024-07-10T04:55:43.034337+00:00
+
+ ## Notes on Designing, Building, and Operating Model Railroads
+ - [https://designbuildop.hansmanns.org](https://designbuildop.hansmanns.org)
+ - date_published: 2024-02-08T17:49:32.421764+00:00
+
+ ## hansmanns.org Home Page!
+ - [http://www.hansmanns.org](http://www.hansmanns.org)
+ - date_published: 2021-04-08T14:17:45+00:00
+
+ ## 汉斯期刊 开放获取
+ - [http://www.hanspub.org](http://www.hanspub.org)
+ - date_published: 2024-10-29T17:06:01+00:00
+
+ ## Let's work together to create a happier world - Happier Lives Institute
+ - [https://www.happierlivesinstitute.org](https://www.happierlivesinstitute.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Happier Way Foundation
+ - [https://happierway.org](https://happierway.org)
+ - date_published: 2024-07-10T09:00:38.223816+00:00
+
+ ## HappiLabs
+ - [https://www.happilabs.org](https://www.happilabs.org)
+ - date_published: 2024-10-19T04:01:44.096254+00:00
+
+ ## Happiness Science
+ - [https://happiness-science.org](https://happiness-science.org)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home - Happonomy
+ - [https://www.happonomy.org](https://www.happonomy.org)
+ - date_published: 2024-06-30T04:57:22.995391+00:00
+
+ ## HappyAtWork, les meilleures entreprises pour travailler
+ - [https://happy-at-work.org](https://happy-at-work.org)
+ - date_published: 2024-07-16T19:55:47.982552+00:00
+
  ## Home | Happy Hen Animal Sanctuary
  - [https://www.happyhen.org](https://www.happyhen.org)
  - date_published: 2024-07-07T07:18:28.305611+00:00
@@ -3809,218 +4023,4 @@
  ## Semantic HPST – Semantic Approach To Epistemology And History Of Science And Technology
  - [https://semhpst.hypotheses.org](https://semhpst.hypotheses.org)
  - date_published: 2024-07-03T06:32:56.451726+00:00
-
- ## Shakk – De la révolte à la guerre en Syrie : conflits, déplacements, incertitudes
- - [https://shakk.hypotheses.org](https://shakk.hypotheses.org)
- - date_published: 2024-06-14T04:12:37.543474+00:00
-
- ## Sino-Tibetan-Austronesian – ISSN 2607-8945
- - [https://stan.hypotheses.org](https://stan.hypotheses.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Hyprland Development
- - [https://code.hyprland.org](https://code.hyprland.org)
- - date_published: 2024-05-08T07:33:34.850701+00:00
-
- ## Hyprland - A wayland compositor that doesn't sacrifice on its looks!
- - [https://hyprland.org](https://hyprland.org)
- - date_published: 2023-10-25T21:29:43.958993+00:00
-
- ## Hyprland Wiki
- - [https://wiki.hyprland.org](https://wiki.hyprland.org)
- - date_published: 2024-05-08T07:33:33.845479+00:00
-
- ## Hyrum's Hiking » Home
- - [http://hiking.hyrumwright.org](http://hiking.hyrumwright.org)
- - date_published: 2024-09-04T11:02:25.484177+00:00
-
- ## Hyrum K. Wright
- - [https://www.hyrumwright.org](https://www.hyrumwright.org)
- - date_published: 2024-06-03T08:42:36.434972+00:00
- - tags: ['personal']
-
- ## Ali Reza Hayati
- - [https://hyti.org](https://hyti.org)
- - date_published: 2024-06-14T06:13:30+00:00
-
- ## i2cam.org - contact with domain owner | Epik.com
- - [http://i2cam.org](http://i2cam.org)
- - date_published: 2024-10-19T08:18:59.803153+00:00
-
- ## Home - i2E
- - [https://i2e.org](https://i2e.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Sign in · GitLab
- - [https://i2pgit.org](https://i2pgit.org)
- - date_published: 2024-09-14T08:43:21.967477+00:00
-
- ## Home | I2SL
- - [https://www.i2sl.org](https://www.i2sl.org)
- - date_published: 2024-09-02T12:49:03.597353+00:00
-
- ## Free Online CSS3 Typeset Style Generator - i2Style
- - [http://www.i2style.org](http://www.i2style.org)
- - date_published: 2024-07-07T08:11:15.649786+00:00
-
- ## i3 - improved tiling wm
- - [https://i3wm.org](https://i3wm.org)
- - date_published: 2024-04-29T07:27:22.342152+00:00
-
- ## Initiative for Interstellar Studies – Working towards the achievement of interstellar flight through knowledge to the stars – Starships in our lifetime
- - [http://i4is.org](http://i4is.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## I4OA: Initiative for Open Abstracts
- - [https://i4oa.org](https://i4oa.org)
- - date_published: 2024-06-02T16:52:46+00:00
-
- ## I4OC: Initiative for Open Citations
- - [https://i4oc.org](https://i4oc.org)
- - date_published: 2022-09-14T03:18:43+00:00
-
- ## :: International Association of Advances In Engineering and Technology (IAAET) ::
- - [http://iaaet.org](http://iaaet.org)
- - date_published: 2024-10-29T16:55:34.150583+00:00
-
- ## World Athletics Home Page | World Athletics
- - [https://www.iaaf.org](https://www.iaaf.org)
- - date_published: 2024-07-12T15:06:08.220240+00:00
-
- ## nternational Advertising Association UK - Forums, Webinars & Events
- - [https://iaauk.iaaglobal.org](https://iaauk.iaaglobal.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## IAASB
- - [https://www.iaasb.org](https://www.iaasb.org)
- - date_published: 2024-09-11T17:16:46+00:00
-
- ## Home - IAA
- - [https://iaaspace.org](https://iaaspace.org)
- - date_published: 2020-02-12T13:07:49+00:00
-
- ## Internet Architecture Board
- - [https://iab.org](https://iab.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## International Academy of Biological Dentistry & Medicine
- - [https://iabdm.org](https://iabdm.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [http://iab-rubric.org](http://iab-rubric.org)
- - date_published: 2024-09-13T18:00:43+00:00
-
- ## IAB TR
- - [https://iabtr.org](https://iabtr.org)
- - date_published: 2024-06-25T19:35:19.690869+00:00
-
- ## Home Page - IAC2024
- - [https://www.iac2024.org](https://www.iac2024.org)
- - date_published: 2024-09-16T10:14:52.982978+00:00
-
- ## International Accreditation Council for Business Education
- - [https://iacbe.org](https://iacbe.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## The International Anti-Corruption Conference (IACC)
- - [https://iaccseries.org](https://iaccseries.org)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Home
- - [http://www.iacenter.org](http://www.iacenter.org)
- - date_published: 2024-10-21T16:48:15.336030+00:00
-
- ## Home
- - [https://www.iacet.org](https://www.iacet.org)
- - date_published: 2024-10-14T20:13:04.149328+00:00
-
- ## IACLEA
- - [http://www.iaclea.org](http://www.iaclea.org)
- - date_published: 2024-07-02T01:51:51.485174+00:00
-
- ## IACR Artifact Archive
- - [https://artifacts.iacr.org](https://artifacts.iacr.org)
- - date_published: 2024-07-04T09:44:27+00:00
-
- ## Asiacrypt 2024
- - [https://asiacrypt.iacr.org](https://asiacrypt.iacr.org)
- - date_published: 2024-07-04T17:05:03.018928+00:00
-
- ## CHES
- - [https://ches.iacr.org](https://ches.iacr.org)
- - date_published: 2024-06-17T10:09:18.319988+00:00
-
- ## IACR Communications in Cryptology
- - [https://cic.iacr.org](https://cic.iacr.org)
- - date_published: 2024-07-04T17:05:09.656261+00:00
-
- ## Crypto 2024
- - [https://crypto.iacr.org](https://crypto.iacr.org)
- - date_published: 2024-07-04T17:05:04.180920+00:00
-
- ## Cryptology ePrint Archive
- - [https://eprint.iacr.org](https://eprint.iacr.org)
- - date_published: 2023-10-25T21:29:46.021630+00:00
-
- ## Eurocrypt 2024
- - [https://eurocrypt.iacr.org](https://eurocrypt.iacr.org)
- - date_published: 2024-05-04T15:30:38.028015+00:00
-
- ## FSE 2024
- - [https://fse.iacr.org](https://fse.iacr.org)
- - date_published: 2024-06-17T10:09:13.000082+00:00
-
- ## The International Association for Cryptologic Research
- - [https://iacr.org](https://iacr.org)
- - date_published: 2024-04-28T17:58:15.470255+00:00
- - tags: ['organisation', 'crypto']
-
- ## PKC 2025
- - [https://pkc.iacr.org](https://pkc.iacr.org)
- - date_published: 2024-07-04T17:05:05.072245+00:00
-
- ## The International Association for Cryptologic Research
- - [https://register.iacr.org](https://register.iacr.org)
- - date_published: 2024-07-04T17:05:06.696091+00:00
-
- ## RWC
- - [https://rwc.iacr.org](https://rwc.iacr.org)
- - date_published: 2024-05-02T09:52:12.993636+00:00
-
- ## TCC 2024
- - [https://tcc.iacr.org](https://tcc.iacr.org)
- - date_published: 2024-07-04T17:04:59.730295+00:00
-
- ## IACR Transactions on Cryptographic Hardware and Embedded Systems
- - [https://tches.iacr.org](https://tches.iacr.org)
- - date_published: 2024-07-04T17:04:58.388409+00:00
-
- ## IACR Transactions on Symmetric Cryptology
- - [https://tosc.iacr.org](https://tosc.iacr.org)
- - date_published: 2024-05-02T09:52:00.236523+00:00
-
- ## International Association of Computer Science and  Information Technology (IACSIT)
- - [http://www.iacsit.org](http://www.iacsit.org)
- - date_published: 2024-10-29T17:21:38.861085+00:00
-
- ## Inicio - Blog del Banco Interamericano de Desarrollo
- - [https://blogs.iadb.org](https://blogs.iadb.org)
- - date_published: 2024-09-11T17:22:19.421594+00:00
-
- ## Code for Development | Home
- - [https://code.iadb.org](https://code.iadb.org)
- - date_published: 2024-09-11T17:21:58.696303+00:00
-
- ## Cursos | BID | INDES | APRENDIZAJE PARA AMÉRICA LATINA Y EL CARIBE
- - [https://cursos.iadb.org](https://cursos.iadb.org)
- - date_published: 2024-09-11T08:27:54+00:00
-
- ## IDB | Inter American Development Bank
- - [https://iadb.org](https://iadb.org)
- - date_published: 2024-06-12T11:04:07.842313+00:00
-
- ## Home | MICI - IDB Group
- - [https://mici.iadb.org](https://mici.iadb.org)
- - date_published: 2024-09-11T17:22:13.404821+00:00
 

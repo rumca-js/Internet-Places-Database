@@ -1,3 +1,216 @@
+ ## Scholarships for Black Students UK | Cowrie Scholarships
+ - [https://cowriescholarshipfoundation.org](https://cowriescholarshipfoundation.org)
+ - date_published: 2024-10-20T04:17:37.251410+00:00
+
+ ## CoWriter - The AI platform for creative writing
+ - [https://cowriter.org](https://cowriter.org)
+ - date_published: 2024-06-19T19:52:48.573893+00:00
+
+ ## Coyote Tracks
+ - [https://coyotetracks.org](https://coyotetracks.org)
+ - date_published: 2024-08-02T16:51:09+00:00
+
+ ## Coyote Cartography
+ - [https://micro.coyotetracks.org](https://micro.coyotetracks.org)
+ - date_published: 2023-10-25T21:10:44.276462+00:00
+
+ ## CozoDB v0.7
+ - [https://docs.cozodb.org](https://docs.cozodb.org)
+ - date_published: 2023-10-25T21:10:46.284600+00:00
+
+ ## CozoDB: embedded Datalog, performant graphs
+ - [https://www.cozodb.org](https://www.cozodb.org)
+ - date_published: 2023-06-01T02:45:22+00:00
+
+ ## CozyNet Blog
+ - [https://cozynet.org](https://cozynet.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## CPA : Association Collectif Performance & Acquisition
+ - [https://www.cpa-france.org](https://www.cpa-france.org)
+ - date_published: 2024-06-25T10:10:56+00:00
+
+ ## Inicio - Jesuitas | Conferencia de Provinciales Jesuitas de América Latina y El Caribe - CPAL
+ - [https://cpalsj.org](https://cpalsj.org)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## The Comprehensive Perl Archive Network - www.cpan.org
+ - [https://cpan.org](https://cpan.org)
+ - date_published: 2024-04-25T09:30:31+00:00
+ - tags: ['language libraries', 'perl']
+
+ ## the status of CPAN mirrors
+ - [http://mirrors.cpan.org](http://mirrors.cpan.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Human Verification
+ - [https://rt.cpan.org](https://rt.cpan.org)
+ - date_published: 2024-08-18T19:28:08.298747+00:00
+
+ ## Search the CPAN - metacpan.org
+ - [https://search.cpan.org](https://search.cpan.org)
+ - date_published: 2024-04-25T08:54:12+00:00
+ - tags: ['internal search engine']
+
+ ## CPAN Testers Matrix
+ - [http://matrix.cpantesters.org](http://matrix.cpantesters.org)
+ - date_published: 2024-08-18T19:27:20.639345+00:00
+
+ ## CPB | A Private Corporation Funded by the American People
+ - [https://cpb.org](https://cpb.org)
+ - date_published: 2024-07-01T21:20:01+00:00
+
+ ## Early Learning Academies | R'Club
+ - [http://www.cpchildcare.org](http://www.cpchildcare.org)
+ - date_published: 2024-06-27T07:12:39.244914+00:00
+
+ ## cpdnboinc
+ - [https://cpdn.org](https://cpdn.org)
+ - date_published: 2024-05-11T07:52:21.697664+00:00
+
+ ## CPDP Computers, Privacy and Data Protection conference
+ - [https://cpdpconferences.org](https://cpdpconferences.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## California Pan-Ethnic Health Network
+ - [https://cpehn.org](https://cpehn.org)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Clear Physics
+ - [https://cphysics.org](https://cphysics.org)
+ - date_published: 2023-10-25T21:10:48.724655+00:00
+ - tags: ['quantum', 'physics']
+
+ ## Committee to Protect Journalists – Defending Journalists Worldwide. - Committee to Protect Journalists
+ - [https://cpj.org](https://cpj.org)
+ - date_published: 2023-10-25T21:10:54.852143+00:00
+
+ ## California Pacific Medical Center | Sutter Health
+ - [http://www.cpmc.org](http://www.cpmc.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## CRPM
+ - [https://cloud.cpmr.org](https://cloud.cpmr.org)
+ - date_published: 2024-06-05T07:27:03.817382+00:00
+
+ ## CPMR – Conference of Peripheral Maritime Regions
+ - [https://cpmr.org](https://cpmr.org)
+ - date_published: 2024-05-02T09:57:44.945558+00:00
+ - tags: ['conference', 'maritime']
+
+ ## CPMR Atlantic Arc Commission – Website of the CPMR AAC
+ - [https://cpmr-atlantic.org](https://cpmr-atlantic.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## CPMR Balkan & Black Sea Commission – Website of the CPMR BBSC
+ - [https://cpmr-balkan-blacksea.org](https://cpmr-balkan-blacksea.org)
+ - date_published: 2024-06-05T07:27:21.687034+00:00
+
+ ## CPMR Baltic Sea Commission – Website of the CPMR BSC
+ - [https://cpmr-baltic.org](https://cpmr-baltic.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## CPMR Intermediterranean Commission – Website of the CPMR IMC
+ - [https://cpmr-intermed.org](https://cpmr-intermed.org)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home | CPMR is 50
+ - [https://cpmris50.org](https://cpmris50.org)
+ - date_published: 2024-06-05T07:26:55.095274+00:00
+
+ ## CPMR Islands Commission – Website of the CPMR IC
+ - [https://cpmr-islands.org](https://cpmr-islands.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## CPMR North Sea Commission – Website of the CPMR NSC
+ - [https://cpmr-northsea.org](https://cpmr-northsea.org)
+ - date_published: 2024-06-05T07:27:17.957121+00:00
+
+ ## The C++ Alliance
+ - [https://cppalliance.org](https://cppalliance.org)
+ - date_published: 2024-05-09T07:11:45.982423+00:00
+
+ ## ArchivesSpace Public Interface | ArchivesSpace Public Interface
+ - [http://cpparchives.org](http://cpparchives.org)
+ - date_published: 2024-08-18T20:00:59.554123+00:00
+
+ ## CppCon | The C++ Conference
+ - [https://cppcon.org](https://cppcon.org)
+ - date_published: 2023-10-25T21:10:58.474003+00:00
+
+ ## CppCache - Online Store
+ - [https://retail.cppcon.org](https://retail.cppcon.org)
+ - date_published: 2024-09-02T12:36:03.832752+00:00
+
+ ## The College of Physicians of Philadelphia Digital Library
+ - [http://cppdigitallibrary.org](http://cppdigitallibrary.org)
+ - date_published: 2024-08-18T20:01:09.596629+00:00
+
+ ## C++ FRench User Group - C++FRUG
+ - [http://cppfrug.org](http://cppfrug.org)
+ - date_published: 2021-08-14T21:21:22+00:00
+
+ ## cpplocate
+ - [https://cpplocate.org](https://cpplocate.org)
+ - date_published: 2022-01-10T08:47:00+00:00
+
+ ## C++ London | Meetup
+ - [http://cpplondon.org](http://cpplondon.org)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## cpp-netlib: The C++ Network Library
+ - [https://cpp-netlib.org](https://cpp-netlib.org)
+ - date_published: 2023-09-26T06:22:53+00:00
+
+ ## C++Now
+ - [https://cppnow.org](https://cppnow.org)
+ - date_published: 2024-05-08T08:50:01.966313+00:00
+ - tags: ['online conference', 'c++']
+
+ ## C++Now Schedule
+ - [https://schedule.cppnow.org](https://schedule.cppnow.org)
+ - date_published: 2024-06-27T10:41:32.990968+00:00
+
+ ## CPP – Conseil Paritaire de la Publicité
+ - [https://www.cpp-pub.org](https://www.cpp-pub.org)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## 2024年全球C++及系统软件技术大会 | 官方网站
+ - [https://cpp-summit.org](https://cpp-summit.org)
+ - date_published: 2024-05-12T04:52:43.657674+00:00
+
+ ## C++ Usergroup Vienna
+ - [https://cppusergroupvienna.org](https://cppusergroupvienna.org)
+ - date_published: 2024-07-04T07:39:07.534640+00:00
+
+ ## Colorado Public Radio - Colorado News You Trust
+ - [https://cpr.org](https://cpr.org)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## CPR Give Now | CPR
+ - [https://donate.cpr.org](https://donate.cpr.org)
+ - date_published: 2024-05-01T04:46:09.273707+00:00
+
+ ## CPR Give Now | CPR
+ - [https://secure.cpr.org](https://secure.cpr.org)
+ - date_published: 2024-06-15T21:52:51+00:00
+
+ ## Colorado Public Radio Shop
+ - [https://shop.cpr.org](https://shop.cpr.org)
+ - date_published: 2024-05-01T04:46:11.101896+00:00
+
+ ## Playlist 2.0
+ - [https://playlist.cprnetwork.org](https://playlist.cprnetwork.org)
+ - date_published: 2024-09-19T21:22:23.473732+00:00
+
+ ## Systems Verification Group Homepage
+ - [https://www.cprover.org](https://www.cprover.org)
+ - date_published: 2024-05-04T16:03:05.175811+00:00
+
+ ## First Transcontinental Railroad - Central Pacific Railroad Photographic History Museum
+ - [https://cprr.org](https://cprr.org)
+ - date_published: 2024-01-09T03:38:43.521507+00:00
+
  ## CPS Web Site
  - [https://www.cps-jp.org](https://www.cps-jp.org)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3823,214 +4036,4 @@ irc logs at libera.irclog.whitequark.org
  ## DebConf
  - [https://debconf.org](https://debconf.org)
  - date_published: 2024-08-04T00:00:00+00:00
-
- ## Home page
- - [https://mdco2.mini.debconf.org](https://mdco2.mini.debconf.org)
- - date_published: 2023-10-22T12:19:20+00:00
-
- ## Index of /
- - [https://alioth-archive.debian.org](https://alioth-archive.debian.org)
- - date_published: 2018-05-31T00:00:00+00:00
-
- ## anonscm
- - [https://anonscm.debian.org](https://anonscm.debian.org)
- - date_published: 2018-05-31T00:00:00+00:00
-
- ## Index of /
- - [http://archive.debian.org](http://archive.debian.org)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Debian Backports
- - [https://backports.debian.org](https://backports.debian.org)
- - date_published: 2024-07-09T07:40:04+00:00
-
- ## Bits from Debian - Blog from the Debian Project
- - [https://bits.debian.org](https://bits.debian.org)
- - date_published: 2023-10-25T21:13:16.611368+00:00
-
- ## Debian bug tracking system
- - [https://bugs.debian.org](https://bugs.debian.org)
- - date_published: 2023-10-25T21:13:19.916026+00:00
-
- ## Debian Package Auto-Building
- - [https://buildd.debian.org](https://buildd.debian.org)
- - date_published: 2024-07-24T06:51:34.506206+00:00
-
- ## Debian on CDs/DVDs
- - [https://cdimage.debian.org](https://cdimage.debian.org)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Debian mirrors backed by Amazon CloudFront CDN
- - [http://cdn-aws.deb.debian.org](http://cdn-aws.deb.debian.org)
- - date_published: 2023-09-02T18:06:59+00:00
-
- ## Debian Contributors
- - [https://contributors.debian.org](https://contributors.debian.org)
- - date_published: 2024-05-13T02:41:43.039252+00:00
-
- ## Debian Project -- debian.org Developers LDAP Search
- - [https://db.debian.org](https://db.debian.org)
- - date_published: 2023-09-21T00:00:00+00:00
-
- ## Debian mirrors backed by Fastly CDN
- - [https://deb.debian.org](https://deb.debian.org)
- - date_published: 2023-09-01T16:12:16+00:00
-
- ## Debian -- The Universal Operating System
- - [https://debian.org](https://debian.org)
- - date_published: 2024-07-05T00:00:00+00:00
- - tags: ['operating system', 'linux']
-
- ## Index of /
- - [https://d-i.debian.org](https://d-i.debian.org)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## DSA
- - [https://dsa.debian.org](https://dsa.debian.org)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Index of /
- - [http://ftp2.cn.debian.org](http://ftp2.cn.debian.org)
- - date_published: 2024-09-16T20:59:39.884860+00:00
-
- ## Debian mirrors backed by Fastly CDN
- - [http://ftp.debian.org](http://ftp.debian.org)
- - date_published: 2023-09-01T16:12:16+00:00
-
- ## ftp-master.debian.org
- - [https://ftp-master.debian.org](https://ftp-master.debian.org)
- - date_published: 2024-01-01T23:00:09+00:00
-
- ## Studenten Net Twente - Index of /
- - [http://ftp.nl.debian.org](http://ftp.nl.debian.org)
- - date_published: 2024-07-20T12:04:38.076458+00:00
-
- ## Index of /debian-ports
- - [http://ftp.ports.debian.org](http://ftp.ports.debian.org)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## mirrors.wikimedia.org
- - [http://http.us.debian.org](http://http.us.debian.org)
- - date_published: 2022-10-04T08:06:38+00:00
-
- ## Index of /
- - [http://incoming.debian.org](http://incoming.debian.org)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Index of /
- - [http://incoming.ports.debian.org](http://incoming.ports.debian.org)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## keyring.debian.org
- - [https://keyring.debian.org](https://keyring.debian.org)
- - date_published: 2022-06-24T21:18:46+00:00
-
- ## Debian Mailing Lists -- Index
- - [https://lists.debian.org](https://lists.debian.org)
- - date_published: 2023-10-25T21:13:21.561311+00:00
-
- ## index — Debian Manpages
- - [https://manpages.debian.org](https://manpages.debian.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Index of /
- - [https://metadata.ftp-master.debian.org](https://metadata.ftp-master.debian.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Debian micronews
- - [https://micronews.debian.org](https://micronews.debian.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Debian New Member Process
- - [https://nm.debian.org](https://nm.debian.org)
- - date_published: 2024-07-17T05:22:31.489263+00:00
-
- ## Debian -- Packages
- - [https://packages.debian.org](https://packages.debian.org)
- - date_published: 2023-12-11T00:00:00+00:00
- - tags: ['app store']
-
- ## Debian Package Tracking System
- - [https://packages.qa.debian.org](https://packages.qa.debian.org)
- - date_published: 2017-05-25T04:21:29+00:00
-
- ## Debian Project -- debian.org Developers LDAP Search
- - [http://people.debian.org](http://people.debian.org)
- - date_published: 2023-09-21T00:00:00+00:00
-
- ## About piuparts.debian.org
- - [https://piuparts.debian.org](https://piuparts.debian.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Planet Debian
- - [https://planet.debian.org](https://planet.debian.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Planet Debian
- - [https://planet-search.debian.org](https://planet-search.debian.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Debian Popularity Contest
- - [https://popcon.debian.org](https://popcon.debian.org)
- - date_published: 2024-08-05T15:46:34+00:00
-
- ## Debian Ports
- - [https://ports.debian.org](https://ports.debian.org)
- - date_published: 2024-04-29T06:17:50.999742+00:00
-
- ## Debian Quality Assurance
- - [https://qa.debian.org](https://qa.debian.org)
- - date_published: 2023-10-05T00:00:00+00:00
-
- ## Debian Release Management
- - [https://release.debian.org](https://release.debian.org)
- - date_published: 2019-08-04T00:00:00+00:00
-
- ## Explore projects · GitLab
- - [https://salsa.debian.org](https://salsa.debian.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Debian Search
- - [https://search.debian.org](https://search.debian.org)
- - date_published: 2024-05-09T04:07:46.233396+00:00
-
- ## Debian -- Security Information
- - [http://security.debian.org](http://security.debian.org)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Security Bug Tracker
- - [https://security-tracker.debian.org](https://security-tracker.debian.org)
- - date_published: 2024-05-24T16:28:42.455360+00:00
-
- ## snapshot.debian.org
- - [https://snapshot.debian.org](https://snapshot.debian.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Debian Package Tracker
- - [https://tracker.debian.org](https://tracker.debian.org)
- - date_published: 2024-05-08T09:00:27.031491+00:00
-
- ## Database
- - [https://udd.debian.org](https://udd.debian.org)
- - date_published: 2021-10-06T08:41:24+00:00
-
- ## FrontPage - Debian Wiki
- - [https://wiki.debian.org](https://wiki.debian.org)
- - date_published: 2023-10-25T21:13:23.896963+00:00
-
- ## Wayback Machine
- - [http://debian-administration.org](http://debian-administration.org)
- - date_published: 2024-07-09T08:06:23.258848+00:00
-
- ## Planeta Debian Brasil
- - [http://planeta.debianbrasil.org](http://planeta.debianbrasil.org)
- - date_published: 2024-06-30T21:00:44+00:00
-
- ## Welcome to klecker!
- - [https://debian-ports.org](https://debian-ports.org)
- - date_published: 2024-07-24T06:51:31.254147+00:00
-
- ## Index of /debian-ports
- - [http://ftp.debian-ports.org](http://ftp.debian-ports.org)
- - date_published: 2024-07-23T00:00:00+00:00
 

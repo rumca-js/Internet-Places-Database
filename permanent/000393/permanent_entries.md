@@ -1,3 +1,223 @@
+ ## HTML Standard, Edition for Web Developers
+ - [https://developers.whatwg.org](https://developers.whatwg.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## DOM Standard
+ - [https://dom.spec.whatwg.org](https://dom.spec.whatwg.org)
+ - date_published: 2024-06-17T11:24:05+00:00
+
+ ## Encoding Standard
+ - [https://encoding.spec.whatwg.org](https://encoding.spec.whatwg.org)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Fetch Standard
+ - [https://fetch.spec.whatwg.org](https://fetch.spec.whatwg.org)
+ - date_published: 2024-06-17T11:23:24+00:00
+
+ ## File System Standard
+ - [https://fs.spec.whatwg.org](https://fs.spec.whatwg.org)
+ - date_published: 2024-06-28T23:01:56+00:00
+
+ ## Fullscreen API Standard
+ - [https://fullscreen.spec.whatwg.org](https://fullscreen.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## HTML Standard
+ - [https://html.spec.whatwg.org](https://html.spec.whatwg.org)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Ideas — WHATWG
+ - [https://idea.whatwg.org](https://idea.whatwg.org)
+ - date_published: 2024-09-20T16:18:48+00:00
+
+ ## Infra Standard
+ - [https://infra.spec.whatwg.org](https://infra.spec.whatwg.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Mailing Lists — WHATWG
+ - [https://lists.whatwg.org](https://lists.whatwg.org)
+ - date_published: 2024-06-19T13:40:43+00:00
+
+ ## MIME Sniffing Standard
+ - [https://mimesniff.spec.whatwg.org](https://mimesniff.spec.whatwg.org)
+ - date_published: 2024-07-15T14:28:18+00:00
+
+ ## Notifications API Standard
+ - [https://notifications.spec.whatwg.org](https://notifications.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Participation — WHATWG
+ - [https://participate.whatwg.org](https://participate.whatwg.org)
+ - date_published: 2024-07-03T03:46:07+00:00
+
+ ## Quirks Mode Standard
+ - [https://quirks.spec.whatwg.org](https://quirks.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Index of /
+ - [https://resources.whatwg.org](https://resources.whatwg.org)
+ - date_published: 2024-06-17T02:21:53.101553+00:00
+
+ ## Standards — WHATWG
+ - [https://spec.whatwg.org](https://spec.whatwg.org)
+ - date_published: 2024-06-05T15:05:22+00:00
+
+ ## Storage Standard
+ - [https://storage.spec.whatwg.org](https://storage.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Streams Standard
+ - [https://streams.spec.whatwg.org](https://streams.spec.whatwg.org)
+ - date_published: 2024-06-20T07:02:21+00:00
+
+ ## Test Utils Standard
+ - [https://testutils.spec.whatwg.org](https://testutils.spec.whatwg.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## URL Pattern Standard
+ - [https://urlpattern.spec.whatwg.org](https://urlpattern.spec.whatwg.org)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## URL Standard
+ - [https://url.spec.whatwg.org](https://url.spec.whatwg.org)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Web IDL Standard
+ - [https://webidl.spec.whatwg.org](https://webidl.spec.whatwg.org)
+ - date_published: 2024-07-02T03:12:26+00:00
+
+ ## WebSockets Standard
+ - [https://websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Web Hypertext Application Technology Working Group (WHATWG)
+ - [https://whatwg.org](https://whatwg.org)
+ - date_published: 2024-05-11T05:35:57.397694+00:00
+
+ ## WHATWG Wiki
+ - [https://wiki.whatwg.org](https://wiki.whatwg.org)
+ - date_published: 2024-03-18T17:29:51+00:00
+
+ ## XMLHttpRequest Standard
+ - [https://xhr.spec.whatwg.org](https://xhr.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## What Would You Say?
+ - [https://whatwouldyousay.org](https://whatwouldyousay.org)
+ - date_published: 2024-07-03T06:01:10+00:00
+
+ ## Home - Wheelchairgames
+ - [https://wheelchairgames.org](https://wheelchairgames.org)
+ - date_published: 2021-09-13T13:07:49+00:00
+
+ ## Wheelmap
+ - [https://wheelmap.org](https://wheelmap.org)
+ - date_published: 2024-07-14T14:49:45.675731+00:00
+
+ ## wheels.org
+ - [https://www.wheels.org](https://www.wheels.org)
+ - date_published: 2024-10-31T15:40:37.846433+00:00
+
+ ## Home - When We All Vote
+ - [https://whenweallvote.org](https://whenweallvote.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home - Find Shooting Ranges Near You | Where To Shoot
+ - [http://wheretoshoot.org](http://wheretoshoot.org)
+ - date_published: 2024-07-04T00:00:39.039871+00:00
+
+ ## WHI Lab ·
+ - [https://whilab.org](https://whilab.org)
+ - date_published: 2024-07-18T00:37:30+00:00
+
+ ## Whiley
+ - [https://whiley.org](https://whiley.org)
+ - date_published: 2024-02-11T22:19:37+00:00
+
+ ## Whipsnade Zoo | A ZSL conservation zoo
+ - [https://www.whipsnadezoo.org](https://www.whipsnadezoo.org)
+ - date_published: 2024-10-15T07:06:03.124164+00:00
+
+ ## Signal Support
+ - [http://support.whispersystems.org](http://support.whispersystems.org)
+ - date_published: 2015-10-20T00:00:00+00:00
+
+ ## Signal Messenger: Speak Freely
+ - [https://whispersystems.org](https://whispersystems.org)
+ - date_published: 2024-08-07T14:57:31.650074+00:00
+
+ ## Whispy
+ - [https://whispy.org](https://whispy.org)
+ - date_published: 2024-07-08T09:28:18.387893+00:00
+
+ ## Log in | Government Accountability Project CiviCRM
+ - [https://crm.whistleblower.org](https://crm.whistleblower.org)
+ - date_published: 2024-06-30T02:34:48.783566+00:00
+
+ ## Home - Government Accountability Project
+ - [https://whistleblower.org](https://whistleblower.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Whistleblower Aid
+ - [https://whistlebloweraid.org](https://whistlebloweraid.org)
+ - date_published: 2024-01-04T10:20:01+00:00
+
+ ## National Whistleblower Center (NWC) - Protecting Whistleblowers
+ - [https://whistleblowers.org](https://whistleblowers.org)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Whistleblower Network News
+ - [https://whistleblowersblog.org](https://whistleblowersblog.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - Whistleblowing International Network
+ - [https://whistleblowingnetwork.org](https://whistleblowingnetwork.org)
+ - date_published: 2024-09-02T11:12:19.909817+00:00
+
+ ## Welcome | Whitebark Pine Ecosystem Foundation
+ - [http://whitebarkfound.org](http://whitebarkfound.org)
+ - date_published: 2024-09-18T02:06:27.665459+00:00
+
+ ## 駅からマンホール
+ - [https://ekikaramanhole.whitebeach.org](https://ekikaramanhole.whitebeach.org)
+ - date_published: 2024-08-11T17:50:56.417565+00:00
+
+ ## White Bear Center for the Arts
+ - [https://whitebeararts.org](https://whitebeararts.org)
+ - date_published: 2024-07-12T21:42:43.716344+00:00
+
+ ## Home - Whitecatboard.org - The Internet of Things for Humans
+ - [https://whitecatboard.org](https://whitecatboard.org)
+ - date_published: 2024-09-05T18:18:03.770859+00:00
+
+ ## Homepage
+ - [https://www.whitehousehistory.org](https://www.whitehousehistory.org)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## White-Nose Syndrome
+ - [https://whitenosesyndrome.org](https://whitenosesyndrome.org)
+ - date_published: 2024-04-08T17:55:03+00:00
+
+ ## White Oak Conservation - Animal Conservation in Yulee, Florida
+ - [https://www.whiteoakwildlife.org](https://www.whiteoakwildlife.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## whitequark's lab notebook
+ - [https://lab.whitequark.org](https://lab.whitequark.org)
+ - date_published: 2023-07-22T03:37:15+00:00
+
+ ## irc logs at libera.irclog.whitequark.org
+ - [https://libera.irclog.whitequark.org](https://libera.irclog.whitequark.org)
+ - date_published: 2024-05-08T12:03:16.338108+00:00
+
+ ## White Rock Center of Hope
+ - [https://whiterockcenterofhope.org](https://whiterockcenterofhope.org)
+ - date_published: 2024-07-14T12:32:12.073808+00:00
+
+ ## Home - White Rock Lake Conservancy
+ - [http://www.whiterockdallas.org](http://www.whiterockdallas.org)
+ - date_published: 2024-04-17T00:00:00+00:00
+
  ## ママ活アプリ・サイトおすすめランキング10選【2024年】
  - [http://www.whiterockdogpark.org](http://www.whiterockdogpark.org)
  - date_published: 2021-01-19T02:36:36+00:00
@@ -3786,224 +4006,4 @@
  ## Wikipedia
  - [https://mad.wikipedia.org](https://mad.wikipedia.org)
  - date_published: 2024-05-10T04:26:06.814825+00:00
-
- ## List Index - lists.wikimedia.org
- - [https://mail.wikipedia.org](https://mail.wikipedia.org)
- - date_published: 2024-09-18T03:31:21.179762+00:00
-
- ## विकिपिडिया
- - [https://mai.m.wikipedia.org](https://mai.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## विकिपिडिया
- - [https://mai.wikipedia.org](https://mai.wikipedia.org)
- - date_published: 2024-05-10T04:19:16.277396+00:00
-
- ## Wikipedia
- - [https://map-bms.m.wikipedia.org](https://map-bms.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://map-bms.wikipedia.org](https://map-bms.wikipedia.org)
- - date_published: 2024-05-10T04:25:22.309203+00:00
-
- ## Википедиесь
- - [https://mdf.m.wikipedia.org](https://mdf.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Википедиесь
- - [https://mdf.wikipedia.org](https://mdf.wikipedia.org)
- - date_published: 2024-05-10T04:16:32.036705+00:00
-
- ## Main Page - Meta
- - [https://meta.wikipedia.org](https://meta.wikipedia.org)
- - date_published: 2024-06-20T13:40:15.684816+00:00
-
- ## Wikipedia
- - [https://mg.m.wikipedia.org](https://mg.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://mg.wikipedia.org](https://mg.wikipedia.org)
- - date_published: 2024-05-10T04:24:40.541936+00:00
-
- ## Wikipedia
- - [https://mh.m.wikipedia.org](https://mh.m.wikipedia.org)
- - date_published: 2024-06-28T03:27:52+00:00
-
- ## Википедий
- - [https://mhr.m.wikipedia.org](https://mhr.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Википедий
- - [https://mhr.wikipedia.org](https://mhr.wikipedia.org)
- - date_published: 2024-05-10T04:16:04.594986+00:00
-
- ## Wikipedia
- - [https://mh.wikipedia.org](https://mh.wikipedia.org)
- - date_published: 2024-05-10T04:24:57.871793+00:00
-
- ## Wikipedia
- - [https://mi.m.wikipedia.org](https://mi.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia Minangkabau
- - [https://min.m.wikipedia.org](https://min.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia Minangkabau
- - [https://min.wikipedia.org](https://min.wikipedia.org)
- - date_published: 2024-05-10T04:15:59.872742+00:00
-
- ## Wikipedia
- - [https://mi.wikipedia.org](https://mi.wikipedia.org)
- - date_published: 2024-05-10T04:28:26.867438+00:00
-
- ## Википедија
- - [https://mk.m.wikipedia.org](https://mk.m.wikipedia.org)
- - date_published: 2024-07-10T21:15:53+00:00
-
- ## Википедија
- - [https://mk.wikipedia.org](https://mk.wikipedia.org)
- - date_published: 2024-05-10T04:30:07.052741+00:00
-
- ## വിക്കിപീഡിയ
- - [https://ml.m.wikipedia.org](https://ml.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## വിക്കിപീഡിയ
- - [https://ml.wikipedia.org](https://ml.wikipedia.org)
- - date_published: 2024-05-10T04:25:38.746479+00:00
-
- ## ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
- - [https://mni.m.wikipedia.org](https://mni.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
- - [https://mni.wikipedia.org](https://mni.wikipedia.org)
- - date_published: 2024-05-10T04:19:06.626078+00:00
-
- ## Википедиа
- - [https://mn.m.wikipedia.org](https://mn.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Википедиа
- - [https://mn.wikipedia.org](https://mn.wikipedia.org)
- - date_published: 2024-05-10T04:29:07.366786+00:00
-
- ## ဝဳကဳပဳဒဳယာ
- - [https://mnw.m.wikipedia.org](https://mnw.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## ဝဳကဳပဳဒဳယာ
- - [https://mnw.wikipedia.org](https://mnw.wikipedia.org)
- - date_published: 2024-05-10T04:19:14.472442+00:00
-
- ## Wikipedia
- - [https://mo.wikipedia.org](https://mo.wikipedia.org)
- - date_published: 2024-07-11T06:46:03+00:00
-
- ## Википеди
- - [https://mrj.m.wikipedia.org](https://mrj.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Википеди
- - [https://mrj.wikipedia.org](https://mrj.wikipedia.org)
- - date_published: 2024-05-10T04:30:18.738532+00:00
-
- ## विकिपीडिया
- - [https://mr.m.wikipedia.org](https://mr.m.wikipedia.org)
- - date_published: 2024-07-12T00:02:23+00:00
-
- ## विकिपीडिया
- - [https://mr.wikipedia.org](https://mr.wikipedia.org)
- - date_published: 2024-05-10T04:29:29.827419+00:00
-
- ## Wikipedia, ensiklopedia bebas
- - [https://ms.m.wikipedia.org](https://ms.m.wikipedia.org)
- - date_published: 2024-07-10T02:20:37+00:00
-
- ## Wikipedia, ensiklopedia bebas
- - [https://ms.wikipedia.org](https://ms.wikipedia.org)
- - date_published: 2024-05-10T04:26:43.364076+00:00
-
- ## Wikipedija
- - [https://mt.m.wikipedia.org](https://mt.m.wikipedia.org)
- - date_published: 2024-07-12T00:02:24+00:00
-
- ## Wikipedija
- - [https://mt.wikipedia.org](https://mt.wikipedia.org)
- - date_published: 2024-05-10T04:18:39.930595+00:00
-
- ## Wikipedia
- - [https://mus.m.wikipedia.org](https://mus.m.wikipedia.org)
- - date_published: 2024-06-27T04:29:58+00:00
-
- ## Wikipedia
- - [https://mus.wikipedia.org](https://mus.wikipedia.org)
- - date_published: 2024-05-10T04:16:08.495818+00:00
-
- ## Biquipédia
- - [https://mwl.m.wikipedia.org](https://mwl.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Biquipédia
- - [https://mwl.wikipedia.org](https://mwl.wikipedia.org)
- - date_published: 2024-05-10T04:27:56.230882+00:00
-
- ## ဝီကီပီးဒီးယား
- - [https://my.m.wikipedia.org](https://my.m.wikipedia.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Википедиясь
- - [https://myv.m.wikipedia.org](https://myv.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Википедиясь
- - [https://myv.wikipedia.org](https://myv.wikipedia.org)
- - date_published: 2024-05-10T04:27:48.856750+00:00
-
- ## ဝီကီပီးဒီးယား
- - [https://my.wikipedia.org](https://my.wikipedia.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## ویکی‌پدیا، آزاد دانشنومه
- - [https://mzn.m.wikipedia.org](https://mzn.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## ویکی‌پدیا، آزاد دانشنومه
- - [https://mzn.wikipedia.org](https://mzn.wikipedia.org)
- - date_published: 2024-05-10T04:25:18.997266+00:00
-
- ## Huiquipedia
- - [https://nah.m.wikipedia.org](https://nah.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Huiquipedia
- - [https://nah.wikipedia.org](https://nah.wikipedia.org)
- - date_published: 2024-05-10T04:25:02.619338+00:00
-
- ## Wikipedia
- - [https://nap.m.wikipedia.org](https://nap.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Wikipedia
- - [https://nap.wikipedia.org](https://nap.wikipedia.org)
- - date_published: 2024-05-10T04:17:59.758717+00:00
-
- ## Wikipedia, dat fre'e Nakieksel
- - [https://nds.m.wikipedia.org](https://nds.m.wikipedia.org)
- - date_published: 2024-07-11T20:04:37+00:00
-
- ## Wikipedia
- - [https://nds-nl.m.wikipedia.org](https://nds-nl.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:19+00:00
-
- ## Wikipedia
- - [https://nds-nl.wikipedia.org](https://nds-nl.wikipedia.org)
- - date_published: 2024-05-10T04:30:54.710022+00:00
-
- ## Wikipedia, dat fre'e Nakieksel
- - [https://nds.wikipedia.org](https://nds.wikipedia.org)
- - date_published: 2024-05-10T04:19:08.254068+00:00
 

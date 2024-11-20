@@ -1,3 +1,31 @@
+ ## Career Linguist
+ - [https://careerlinguist.com](https://careerlinguist.com)
+ - date_published: 2024-05-07T21:57:02.595216+00:00
+
+ ## Careers at the Medical University of South Carolina | MUSC
+ - [https://musc.career-pages.com](https://musc.career-pages.com)
+ - date_published: 2024-05-11T07:20:12.549739+00:00
+
+ ## Careers at University of Alabama
+ - [https://university-of-alabama.career-pages.com](https://university-of-alabama.career-pages.com)
+ - date_published: 2024-07-01T21:51:32.790285+00:00
+
+ ## Career-Picks
+ - [https://career-picks.com](https://career-picks.com)
+ - date_published: 2024-08-08T16:26:48+00:00
+
+ ## GYMGUYZ Careers
+ - [https://gymguyz-careers.careerplug.com](https://gymguyz-careers.careerplug.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## The LINE, The Ned (US) & Saguaro Hotels
+ - [https://line-saguaro-careers.careerplug.com](https://line-saguaro-careers.careerplug.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Maid Brigade Careers
+ - [https://maid-brigade-careers.careerplug.com](https://maid-brigade-careers.careerplug.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## Puck - Podcasts about open roles
  - [https://app.careerpuck.com](https://app.careerpuck.com)
  - date_published: 2024-07-12T06:01:14.016755+00:00
@@ -4009,32 +4037,4 @@
  ## 百货会|第117届上海百货会|百货展-日用百货商品交易会|华百官网
  - [https://www.cdatf.com](https://www.cdatf.com)
  - date_published: 2024-07-17T02:17:35+00:00
-
- ## Music Distribution with No Recurring Fees | CD Baby
- - [https://cdbaby.com](https://cdbaby.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## DIY Musician
- - [https://diymusician.cdbaby.com](https://diymusician.cdbaby.com)
- - date_published: 2024-06-16T11:58:59.580139+00:00
-
- ## CD Baby Download Portal - Log In
- - [https://downloads.cdbaby.com](https://downloads.cdbaby.com)
- - date_published: 2024-06-16T11:59:14.852017+00:00
-
- ## Attention Required! | Cloudflare
- - [https://duplication.cdbaby.com](https://duplication.cdbaby.com)
- - date_published: 2024-06-16T11:59:20.952419+00:00
-
- ## O Seu Assistente de Plano de Lançamento
- - [https://lancamento.cdbaby.com](https://lancamento.cdbaby.com)
- - date_published: 2024-10-04T07:01:06.459672+00:00
-
- ## Tu Asistente de Plan de Lanzamiento
- - [https://lanzamiento.cdbaby.com](https://lanzamiento.cdbaby.com)
- - date_published: 2024-10-04T07:01:08.418313+00:00
-
- ## Music Distribution with No Recurring Fees | CD Baby
- - [https://members.cdbaby.com](https://members.cdbaby.com)
- - date_published: 2024-05-15T00:00:00+00:00
 

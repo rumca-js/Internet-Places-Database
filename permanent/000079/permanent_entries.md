@@ -1,3 +1,44 @@
+ ## Core Creative | Full-service Marketing & Branding
+ - [https://www.corecreative.com](https://www.corecreative.com)
+ - date_published: 2024-07-12T23:48:35.043634+00:00
+
+ ## CoRecursive Podcast - The Stories Behind The Code
+ - [https://corecursive.com](https://corecursive.com)
+ - date_published: 2023-10-25T13:33:46.741558+00:00
+
+ ## Hi! I'm Adam Gordon Bell
+ - [https://newsletter.corecursive.com](https://newsletter.corecursive.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Core Design
+ - [https://core-design.com](https://core-design.com)
+ - date_published: 2023-10-30T15:54:05.416950+00:00
+ - tags: ['video game developer']
+
+ ## CoreEL Technologies
+ - [http://coreel.com](http://coreel.com)
+ - date_published: 2024-06-30T12:47:18+00:00
+
+ ## Corefact Home
+ - [https://www.corefact.com](https://www.corefact.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## CoreFiling - Intelligent software and services to make your data move
+ - [https://www.corefiling.com](https://www.corefiling.com)
+ - date_published: 2023-07-31T00:00:00+00:00
+
+ ## COREHAMMER | PUNK LIFESTYLE FOR PUNKS WITHOUT LIVES
+ - [http://www.corehammer.com](http://www.corehammer.com)
+ - date_published: 2024-07-20T07:21:55.843038+00:00
+
+ ## CORE Higher Ed | Educational & Clinical Software Solutions
+ - [https://corehighered.com](https://corehighered.com)
+ - date_published: 2024-07-21T23:53:34+00:00
+
+ ## CoreIRC – IRC, Social Chat and DCC File Transfers for Android
+ - [https://coreirc.com](https://coreirc.com)
+ - date_published: 2020-11-25T22:07:54+00:00
+
  ## Corel Graphics, Digital Media & Productivity Software
  - [https://corel.com](https://corel.com)
  - date_published: 2024-04-25T18:23:35+00:00
@@ -4002,44 +4043,4 @@
  ## We Develop and Optimize Websites
  - [https://creativoinc.com](https://creativoinc.com)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## API for Automated Video Generation - Creatomate
- - [https://creatomate.com](https://creatomate.com)
- - date_published: 2023-10-25T13:36:31.260062+00:00
-
- ## Creative Automation Platform
- - [https://app.creatopy.com](https://app.creatopy.com)
- - date_published: 2024-10-29T16:31:10+00:00
-
- ## Ad Creation Platform - Design Advertisements Online - Creatopy
- - [https://www.creatopy.com](https://www.creatopy.com)
- - date_published: 2024-06-19T19:19:15.244814+00:00
-
- ## Creator Frameworks | Templates for Digital Creators
- - [https://www.creatorframeworks.com](https://www.creatorframeworks.com)
- - date_published: 2024-08-18T07:31:26.729107+00:00
-
- ## Attention Required! | Cloudflare
- - [https://creatorhookspro.com](https://creatorhookspro.com)
- - date_published: 2024-05-06T13:13:04.447298+00:00
-
- ## Creator Connect
- - [https://alltrails-connect.creatoriq.com](https://alltrails-connect.creatoriq.com)
- - date_published: 2024-06-17T01:34:21.236067+00:00
-
- ## CreatorIQ — The software platform that powers the leading enterprises in creator marketing
- - [https://static.creatoriq.com](https://static.creatoriq.com)
- - date_published: 2024-10-15T19:28:59.416277+00:00
-
- ## Creator Kitchen: A Membership to Push Yourself Creatively
- - [https://creatorkitchen.com](https://creatorkitchen.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Creatorly Media
- - [https://www.creatorlymedia.com](https://www.creatorlymedia.com)
- - date_published: 2024-10-05T23:17:50.546358+00:00
-
- ## Home | Creators Syndicate
- - [https://www.creators.com](https://www.creators.com)
- - date_published: 2024-06-20T03:05:48.687146+00:00
 

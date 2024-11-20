@@ -1,3 +1,200 @@
+ ## Planned Obsolescence
+ - [https://planned-obsolescence.ghost.io](https://planned-obsolescence.ghost.io)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Platformer
+ - [https://platformer.ghost.io](https://platformer.ghost.io)
+ - date_published: 2024-08-18T21:31:49.107565+00:00
+
+ ## PolyInnovator LLC | Official Website for Dustin Miller
+ - [https://polyinnovator.ghost.io](https://polyinnovator.ghost.io)
+ - date_published: 2024-08-18T11:59:52.427314+00:00
+
+ ## Power Moves
+ - [https://power-moves.ghost.io](https://power-moves.ghost.io)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## The Pragmatic Engineer
+ - [https://pragmatic-engineer.ghost.io](https://pragmatic-engineer.ghost.io)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Primary Focus
+ - [https://primary-focus.ghost.io](https://primary-focus.ghost.io)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## PySaaS Blog
+ - [https://pysaas-blog.ghost.io](https://pysaas-blog.ghost.io)
+ - date_published: 2024-06-22T21:32:04.710323+00:00
+
+ ## Python for Engineers
+ - [https://python-for-engineers.ghost.io](https://python-for-engineers.ghost.io)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Quantum Tea
+ - [https://quantum-tea.ghost.io](https://quantum-tea.ghost.io)
+ - date_published: 2024-05-07T10:01:22.342043+00:00
+
+ ## Radix
+ - [https://radix-ai.ghost.io](https://radix-ai.ghost.io)
+ - date_published: 2024-08-05T23:01:37.179874+00:00
+
+ ## Rafael Quintanilha
+ - [https://rafael-quintanilha.ghost.io](https://rafael-quintanilha.ghost.io)
+ - date_published: 2024-07-14T08:07:38.102239+00:00
+
+ ## ralphbarsi.com
+ - [https://ralphbarsi-com.ghost.io](https://ralphbarsi-com.ghost.io)
+ - date_published: 2024-05-12T06:23:33.395982+00:00
+
+ ## Raptors With Hats
+ - [https://raptors-with-hats.ghost.io](https://raptors-with-hats.ghost.io)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Rascal News
+ - [https://rascal-news.ghost.io](https://rascal-news.ghost.io)
+ - date_published: 2024-07-22T10:34:16.579880+00:00
+
+ ## The ReadMe Blog
+ - [https://readmeio.ghost.io](https://readmeio.ghost.io)
+ - date_published: 2024-06-29T10:45:51.247765+00:00
+
+ ## Read This
+ - [https://read-this.ghost.io](https://read-this.ghost.io)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## ReadySet Blog
+ - [https://readyset-blog.ghost.io](https://readyset-blog.ghost.io)
+ - date_published: 2024-05-06T09:20:06.043649+00:00
+
+ ## Reasoning Tokens
+ - [https://reasoning-tokens.ghost.io](https://reasoning-tokens.ghost.io)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Renaissance Life
+ - [https://renaissancelife.ghost.io](https://renaissancelife.ghost.io)
+ - date_published: 2024-05-10T06:28:21.146377+00:00
+
+ ## Charter - Future of Work, AI, Management, Hybrid
+ - [https://resetwork.ghost.io](https://resetwork.ghost.io)
+ - date_published: 2024-06-26T08:17:31.228558+00:00
+
+ ## Ringzer0
+ - [https://ringzer0.ghost.io](https://ringzer0.ghost.io)
+ - date_published: 2024-06-29T09:21:14.867290+00:00
+
+ ## Risky Business Newsletters
+ - [https://risky-biz.ghost.io](https://risky-biz.ghost.io)
+ - date_published: 2024-08-11T12:52:59.461715+00:00
+
+ ## Roboflow Blog
+ - [https://roboflow.ghost.io](https://roboflow.ghost.io)
+ - date_published: 2024-04-28T05:22:19.701152+00:00
+
+ ## Rob Pickering
+ - [https://rob-pickering.ghost.io](https://rob-pickering.ghost.io)
+ - date_published: 2024-06-26T21:25:00.383377+00:00
+
+ ## Rosieland
+ - [https://rosieland.ghost.io](https://rosieland.ghost.io)
+ - date_published: 2024-08-18T23:16:54.632212+00:00
+
+ ## Ruby Central
+ - [https://rubycentral.ghost.io](https://rubycentral.ghost.io)
+ - date_published: 2024-07-16T21:51:24.076370+00:00
+
+ ## RunPod Blog
+ - [https://runpod.ghost.io](https://runpod.ghost.io)
+ - date_published: 2024-07-20T09:44:16.756923+00:00
+
+ ## RunReveal
+ - [https://runreveal.ghost.io](https://runreveal.ghost.io)
+ - date_published: 2024-07-10T03:21:08.355183+00:00
+
+ ## Runtime
+ - [https://runtime.ghost.io](https://runtime.ghost.io)
+ - date_published: 2024-05-12T04:39:03.037499+00:00
+
+ ## Ryan Maynard - Fractional CMO
+ - [https://ryanmaynard.ghost.io](https://ryanmaynard.ghost.io)
+ - date_published: 2022-07-15T17:06:02+00:00
+
+ ## Salesforce AI
+ - [https://salesforce-research.ghost.io](https://salesforce-research.ghost.io)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Samson Hu
+ - [https://samson-hu.ghost.io](https://samson-hu.ghost.io)
+ - date_published: 2024-04-29T01:45:17.814932+00:00
+
+ ## Sandofsky
+ - [https://sandofsky.ghost.io](https://sandofsky.ghost.io)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Scope of Work
+ - [https://scope-of-work.ghost.io](https://scope-of-work.ghost.io)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Scott Helme
+ - [https://scotthelme.ghost.io](https://scotthelme.ghost.io)
+ - date_published: 2024-05-02T12:14:07.015529+00:00
+ - tags: ['personal']
+
+ ## Scott Santens - Basic Income Guide
+ - [https://scott-santens.ghost.io](https://scott-santens.ghost.io)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Sean W. Lawrence
+ - [https://seanlawrence.ghost.io](https://seanlawrence.ghost.io)
+ - date_published: 2024-04-29T02:46:04.821130+00:00
+
+ ## Seastone
+ - [https://seastone.ghost.io](https://seastone.ghost.io)
+ - date_published: 2024-07-14T09:33:04.490562+00:00
+
+ ## Second Breakfast
+ - [https://second-breakfast.ghost.io](https://second-breakfast.ghost.io)
+ - date_published: 2024-04-30T07:02:34.743637+00:00
+
+ ## Securing Laravel
+ - [https://securing-laravel.ghost.io](https://securing-laravel.ghost.io)
+ - date_published: 2024-08-08T17:06:22.316710+00:00
+
+ ## The Sequin Blog
+ - [https://sequin.ghost.io](https://sequin.ghost.io)
+ - date_published: 2024-05-06T12:55:50.990961+00:00
+
+ ## shippo careers
+ - [https://shippo-careers.ghost.io](https://shippo-careers.ghost.io)
+ - date_published: 2024-10-17T14:37:55.550264+00:00
+
+ ## Sid Bala
+ - [https://sidbala.ghost.io](https://sidbala.ghost.io)
+ - date_published: 2024-09-15T11:57:33.245048+00:00
+
+ ## Simon Backx
+ - [https://simon-3.ghost.io](https://simon-3.ghost.io)
+ - date_published: 2024-04-29T03:58:19.006784+00:00
+
+ ## Simone (Philosophy, Photography, and Podcasts)
+ - [https://simone.ghost.io](https://simone.ghost.io)
+ - date_published: 2024-08-18T18:34:37.266040+00:00
+
+ ## Simpler Machines
+ - [https://simpler-machines.ghost.io](https://simpler-machines.ghost.io)
+ - date_published: 2024-08-11T02:55:54.639339+00:00
+
+ ## Sirdata News - Ad, Data & Privacy
+ - [https://sirdata.ghost.io](https://sirdata.ghost.io)
+ - date_published: 2024-09-15T21:32:13.099329+00:00
+
+ ## Socialroots
+ - [https://socialroots.ghost.io](https://socialroots.ghost.io)
+ - date_published: 2024-07-15T06:23:09.595602+00:00
+
+ ## South Park Commons
+ - [https://south-park-commons-2.ghost.io](https://south-park-commons-2.ghost.io)
+ - date_published: 2024-04-29T05:27:46.395026+00:00
+
  ## Speaker Deck Blog
  - [https://speaker-deck-blog.ghost.io](https://speaker-deck-blog.ghost.io)
  - date_published: 2024-07-26T05:03:11.328646+00:00
@@ -3835,202 +4032,4 @@
  ## ICDAR 2023 - CHART-Infographics Competition
  - [https://chartinfo.github.io](https://chartinfo.github.io)
  - date_published: 2023-04-16T01:48:20+00:00
-
- ## Chase Roycroft
- - [https://chaseroycroft.github.io](https://chaseroycroft.github.io)
- - date_published: 2016-09-27T00:00:00+00:00
-
- ## Chase Sobey
- - [https://chasesobey.github.io](https://chasesobey.github.io)
- - date_published: 2024-04-29T07:41:02.836762+00:00
-
- ## Christian Cepe | Portfolio
- - [https://chcepe.github.io](https://chcepe.github.io)
- - date_published: 2024-03-20T10:21:23+00:00
-
- ## Redirecting to https://github.com/parasj/checkmate/
- - [https://checkmateai.github.io](https://checkmateai.github.io)
- - date_published: 2020-03-20T17:58:41+00:00
-
- ## Cheng Chi
- - [https://cheng-chi.github.io](https://cheng-chi.github.io)
- - date_published: 2024-05-09T09:15:36.189810+00:00
-
- ## Xuxin Cheng
- - [https://chengxuxin.github.io](https://chengxuxin.github.io)
- - date_published: 2024-04-28T03:45:11.205795+00:00
-
- ## Cheng-Yu Hsieh
- - [https://chengyuhsieh.github.io](https://chengyuhsieh.github.io)
- - date_published: 2024-07-01T17:59:08+00:00
-
- ## Jixuan Chen
- - [https://chenjix.github.io](https://chenjix.github.io)
- - date_published: 2024-07-17T13:43:16+00:00
-
- ## Wuyang Chen
- - [https://chenwydj.github.io](https://chenwydj.github.io)
- - date_published: 2024-04-28T21:33:17+00:00
-
- ## Chernova
- - [http://chernoooova.github.io](http://chernoooova.github.io)
- - date_published: 2022-03-17T21:21:44+00:00
-
- ## Brief Biography
- - [https://cheungdaven.github.io](https://cheungdaven.github.io)
- - date_published: 2024-06-18T21:26:38+00:00
-
- ## Chun-Han (Hank) Yao - Home
- - [https://chhankyao.github.io](https://chhankyao.github.io)
- - date_published: 2024-08-20T22:29:31+00:00
-
- ## Weirong Chen
- - [https://chiaki530.github.io](https://chiaki530.github.io)
- - date_published: 2024-06-12T16:08:46+00:00
-
- ## index
- - [https://chihyaoma.github.io](https://chihyaoma.github.io)
- - date_published: 2024-04-28T21:15:14+00:00
-
- ## ACM CHIIR 2024
- - [https://chiir2024.github.io](https://chiir2024.github.io)
- - date_published: 2024-03-25T20:52:08+00:00
-
- ## Jinge Li's Blog
- - [https://chinapandaman.github.io](https://chinapandaman.github.io)
- - date_published: 2024-01-15T15:47:00+00:00
-
- ## Qing Shuai | 帅青
- - [https://chingswy.github.io](https://chingswy.github.io)
- - date_published: 2023-08-17T08:41:37+00:00
- - tags: ['personal']
-
- ## Home
- - [https://chloamme.github.io](https://chloamme.github.io)
- - date_published: 2023-05-27T05:41:55+00:00
-
- ## About · Raymond Cheng
- - [https://chngr.github.io](https://chngr.github.io)
- - date_published: 2024-06-03T12:29:51+00:00
-
- ## Christian's Blog – Engineering | Mathematics | Algorithms | Life
- - [https://choward1491.github.io](https://choward1491.github.io)
- - date_published: 2024-08-30T03:56:59+00:00
-
- ## McCormick Tech
- - [https://chr15m.github.io](https://chr15m.github.io)
- - date_published: 2022-11-29T13:34:55+00:00
-
- ## About
- - [https://chrdek.github.io](https://chrdek.github.io)
- - date_published: 2024-03-24T14:20:20+00:00
-
- ## Christian Rupprecht
- - [https://chrirupp.github.io](https://chrirupp.github.io)
- - date_published: 2024-03-19T18:40:13+00:00
-
- ## Christopher Clark
- - [https://chrisc36.github.io](https://chrisc36.github.io)
- - date_published: 2022-12-13T19:44:00+00:00
-
- ## Zhiding's Homepage
- - [https://chrisding.github.io](https://chrisding.github.io)
- - date_published: 2021-06-10T22:56:49+00:00
-
- ## Christopher Xie
- - [https://chrisdxie.github.io](https://chrisdxie.github.io)
- - date_published: 2021-11-28T16:44:49+00:00
-
- ## Chris Nager
- - [http://chrisnager.github.io](http://chrisnager.github.io)
- - date_published: 2020-04-24T04:18:13+00:00
-
- ## Christian Keilstrup Ingwersen
- - [https://christianingwersen.github.io](https://christianingwersen.github.io)
- - date_published: 2023-11-06T13:33:07+00:00
-
- ## Christopher Hsu
- - [https://christopher-hsu.github.io](https://christopher-hsu.github.io)
- - date_published: 2024-06-13T14:31:44+00:00
-
- ## Sasank's Blog - Code. Books. Languages.
- - [https://chsasank.github.io](https://chsasank.github.io)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Hang Chu
- - [http://chuhang.github.io](http://chuhang.github.io)
- - date_published: 2022-12-20T20:28:55+00:00
-
- ## Chun Feng
- - [https://chunfeng3364.github.io](https://chunfeng3364.github.io)
- - date_published: 2024-05-16T14:58:24+00:00
-
- ## Chung-Yi Weng - University of Washington
- - [https://chungyiweng.github.io](https://chungyiweng.github.io)
- - date_published: 2023-10-12T06:59:42+00:00
-
- ## Chun-Liang Li
- - [https://chunliangli.github.io](https://chunliangli.github.io)
- - date_published: 2024-01-30T07:45:23+00:00
-
- ## Chunyi
- - [https://chuny1.github.io](https://chuny1.github.io)
- - date_published: 2023-12-22T05:12:34.200449+00:00
-
- ## The Church of the Singularity by Church-of-the-Singularity
- - [https://church-of-the-singularity.github.io](https://church-of-the-singularity.github.io)
- - date_published: 2016-09-21T06:06:39+00:00
-
- ## Stefano Cianciulli
- - [https://cianciustyles.github.io](https://cianciustyles.github.io)
- - date_published: 2023-11-29T15:45:13.460255+00:00
- - tags: ['personal']
-
- ## Cihang Xie
- - [https://cihangxie.github.io](https://cihangxie.github.io)
- - date_published: 2024-05-13T06:00:43+00:00
-
- ## CIKM2023
- - [https://cikm2023.github.io](https://cikm2023.github.io)
- - date_published: 2023-04-18T20:37:36+00:00
-
- ## cinematic-visualization
- - [https://cinematic-visualization.github.io](https://cinematic-visualization.github.io)
- - date_published: 2020-11-23T04:05:38+00:00
-
- ## CINICSystems
- - [https://cinicsystems.github.io](https://cinicsystems.github.io)
- - date_published: 2024-05-07T14:11:46.757736+00:00
-
- ## citélab
- - [https://citelab.github.io](https://citelab.github.io)
- - date_published: 2021-11-04T14:20:15+00:00
-
- ## Seasoned & Agile
- - [https://cito.github.io](https://cito.github.io)
- - date_published: 2024-01-02T20:11:50+00:00
-
- ## CitySCENE
- - [https://cityscene.github.io](https://cityscene.github.io)
- - date_published: 2020-07-07T03:08:23+00:00
-
- ## CitySuper
- - [https://city-super.github.io](https://city-super.github.io)
- - date_published: 2024-07-10T05:11:59+00:00
-
- ## Corentin Jeudy
- - [https://cjeudy.github.io](https://cjeudy.github.io)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Kelvin C.K. Chan
- - [https://ckkelvinchan.github.io](https://ckkelvinchan.github.io)
- - date_published: 2024-08-14T04:45:12+00:00
-
- ## Sofía Celi - cryptographer
- - [http://claucece.github.io](http://claucece.github.io)
- - date_published: 2024-06-13T19:04:39+00:00
-
- ## Claudio Menghi
- - [https://claudiomenghi.github.io](https://claudiomenghi.github.io)
- - date_published: 2020-01-01T00:00:00+00:00
 

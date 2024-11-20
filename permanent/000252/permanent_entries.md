@@ -1,3 +1,176 @@
+ ## gukov.dev
+ - [https://gukov.dev](https://gukov.dev)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Guru Das Srinagesh
+ - [https://gurudas.dev](https://gurudas.dev)
+ - date_published: 2024-02-09T00:21:14.311084+00:00
+ - tags: ['personal']
+
+ ## Gut - Ease your journey with Git
+ - [https://gut-cli.dev](https://gut-cli.dev)
+ - date_published: 2023-10-25T18:38:12.352081+00:00
+
+ ## Simple Analytics
+ - [https://simple.gut-cli.dev](https://simple.gut-cli.dev)
+ - date_published: 2024-04-29T07:46:17.636483+00:00
+
+ ## On coding and tools
+ - [https://gutov.dev](https://gutov.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## The Container Security Platform | gVisor
+ - [https://gvisor.dev](https://gvisor.dev)
+ - date_published: 2023-10-25T18:38:13.344166+00:00
+
+ ## Gym Documentation
+ - [https://www.gymlibrary.dev](https://www.gymlibrary.dev)
+ - date_published: 2023-06-23T13:54:30+00:00
+
+ ## Blot
+ - [https://blot.hackclub.dev](https://blot.hackclub.dev)
+ - date_published: 2024-05-04T09:12:49.087770+00:00
+
+ ## Jams – Hack Club
+ - [https://code-jams.hackclub.dev](https://code-jams.hackclub.dev)
+ - date_published: 2024-06-20T15:22:15.878585+00:00
+
+ ## Components In A Hat
+ - [https://component-hat-site.hackclub.dev](https://component-hat-site.hackclub.dev)
+ - date_published: 2024-06-20T15:23:14.172549+00:00
+
+ ## Hackclubs Directory - Hackclub
+ - [https://directory-3a1ebvsys.hackclub.dev](https://directory-3a1ebvsys.hackclub.dev)
+ - date_published: 2024-06-20T15:38:02.896498+00:00
+
+ ## Oasis Hackathon
+ - [https://oasis.hackclub.dev](https://oasis.hackclub.dev)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Sprig
+ - [https://sprig-nocode.hackclub.dev](https://sprig-nocode.hackclub.dev)
+ - date_published: 2024-06-20T15:25:22.649152+00:00
+
+ ## AI powered job recommendations for developers
+ - [https://hackers.dev](https://hackers.dev)
+ - date_published: 2024-06-19T18:50:08.570610+00:00
+
+ ## Redirecting
+ - [https://unimport.hakancelik.dev](https://unimport.hakancelik.dev)
+ - date_published: 2023-12-24T07:42:28+00:00
+
+ ## Hamel’s Blog
+ - [https://hamel.dev](https://hamel.dev)
+ - date_published: 2023-10-25T08:58:29.383909+00:00
+ - tags: ['personal']
+
+ ## Python Notes
+ - [https://python.hamel.dev](https://python.hamel.dev)
+ - date_published: 2020-02-05T00:00:00+00:00
+
+ ## Refine - a drop-in query builder for Laravel Nova and Rails
+ - [https://hammerstone.dev](https://hammerstone.dev)
+ - date_published: 2024-06-23T11:17:38.280374+00:00
+
+ ## Hamstro
+ - [https://hamstro.dev](https://hamstro.dev)
+ - date_published: 2024-10-20T22:39:21.506911+00:00
+
+ ## hapi.dev
+ - [https://hapi.dev](https://hapi.dev)
+ - date_published: 2024-06-23T04:13:58.610330+00:00
+
+ ## Harrie Pieters - Personal Website
+ - [https://harriepieters.dev](https://harriepieters.dev)
+ - date_published: 2024-05-16T14:12:48+00:00
+
+ ## Harris Jose
+ - [https://harrisjose.dev](https://harrisjose.dev)
+ - date_published: 2023-12-12T13:08:55.908400+00:00
+ - tags: ['personal']
+
+ ## Harry Llewelyn - Developer
+ - [https://harry.dev](https://harry.dev)
+ - date_published: 2023-12-28T22:26:50.855629+00:00
+ - tags: ['personal']
+
+ ## Haseeb Majid
+ - [https://haseebmajid.dev](https://haseebmajid.dev)
+ - date_published: 2024-05-11T10:19:31.928258+00:00
+
+ ## haseebmajid – GoatCounter
+ - [https://stats.haseebmajid.dev](https://stats.haseebmajid.dev)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## HASH.dev – HASH for Developers
+ - [https://hash.dev](https://hash.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Abid Moon
+ - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
+ - date_published: 2023-10-25T18:38:19.386013+00:00
+
+ ## Moncef AOUDIA's Blog
+ - [https://aoudiamoncef.hashnode.dev](https://aoudiamoncef.hashnode.dev)
+ - date_published: 2024-07-14T08:17:49.757014+00:00
+
+ ## Ayoyimika
+ - [https://ayoyimika.hashnode.dev](https://ayoyimika.hashnode.dev)
+ - date_published: 2024-07-09T08:23:42.950322+00:00
+
+ ## Angles and Braces
+ - [https://chainofcommand.hashnode.dev](https://chainofcommand.hashnode.dev)
+ - date_published: 2024-07-09T08:08:54.078118+00:00
+
+ ## CodeSnap
+ - [https://codesnapmag.hashnode.dev](https://codesnapmag.hashnode.dev)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Dan Dan Da Developer Man
+ - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
+ - date_published: 2023-10-25T18:38:20.191019+00:00
+
+ ## Darshan
+ - [https://darshan.hashnode.dev](https://darshan.hashnode.dev)
+ - date_published: 2024-11-08T16:42:31.234824+00:00
+
+ ## dSebastien
+ - [https://dsebastien.hashnode.dev](https://dsebastien.hashnode.dev)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Dr. Ehoneah Obed
+ - [https://ehoneahobed.hashnode.dev](https://ehoneahobed.hashnode.dev)
+ - date_published: 2024-05-01T08:40:23.545973+00:00
+
+ ## Hardik Sachan
+ - [https://hardiksachan.hashnode.dev](https://hardiksachan.hashnode.dev)
+ - date_published: 2024-05-04T09:18:24.512744+00:00
+
+ ## Start a Developer Blog: Custom Domains, Sub-paths & Headless CMS Options — Hashnode
+ - [https://hashnode.dev](https://hashnode.dev)
+ - date_published: 2024-06-02T06:57:21+00:00
+ - tags: ['web hosting']
+
+ ## Ihu(oma)
+ - [https://ihuoma.hashnode.dev](https://ihuoma.hashnode.dev)
+ - date_published: 2024-07-14T10:06:16.188004+00:00
+
+ ## jindraivanek F# Node
+ - [https://jindraivanek.hashnode.dev](https://jindraivanek.hashnode.dev)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Rust and Web Dev with Josh
+ - [https://joshmo.hashnode.dev](https://joshmo.hashnode.dev)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Klima Engineering
+ - [https://klima.hashnode.dev](https://klima.hashnode.dev)
+ - date_published: 2024-07-20T15:17:54.115185+00:00
+
+ ## minimal swift
+ - [https://laurentbrusa.hashnode.dev](https://laurentbrusa.hashnode.dev)
+ - date_published: 2024-06-23T15:45:06.493226+00:00
+
  ## Meandering Thoughts
  - [https://meanderingthoughts.hashnode.dev](https://meanderingthoughts.hashnode.dev)
  - date_published: 2024-10-22T21:30:15.932807+00:00
@@ -1271,6 +1444,11 @@
  - [https://knpfletcher.dev](https://knpfletcher.dev)
  - date_published: 2022-08-16T16:03:28+00:00
 
+ ## Beautiful Wrld
+ - [https://koan39.dev](https://koan39.dev)
+ - date_published: 2024-11-19T10:22:59.479544+00:00
+ - tags: ['personal']
+
  ## Tom.K
  - [https://tom.kobalt.dev](https://tom.kobalt.dev)
  - date_published: 2024-06-20T21:56:01.626084+00:00
@@ -1701,6 +1879,10 @@
  ## Niantic Lightship
  - [https://lightship.dev](https://lightship.dev)
  - date_published: 2024-09-04T14:44:56.416419+00:00
+
+ ## Home
+ - [https://likang.dev](https://likang.dev)
+ - date_published: 2024-11-19T16:50:55.234855+00:00
 
  ## Linear algebra node environment
  - [https://linalg.dev](https://linalg.dev)
@@ -3901,183 +4083,4 @@
  ## Panora status
  - [https://status.panora.dev](https://status.panora.dev)
  - date_published: 2024-10-31T03:54:57.187437+00:00
-
- ## Portfolio
- - [https://paolocorti.dev](https://paolocorti.dev)
- - date_published: 2024-05-09T09:14:14.822767+00:00
-
- ## Papercup Engineering Blog
- - [https://papercup.dev](https://papercup.dev)
- - date_published: 2024-08-23T19:33:37+00:00
-
- ## Parca
- - [https://demo.parca.dev](https://demo.parca.dev)
- - date_published: 2024-06-28T18:52:26.367736+00:00
-
- ## Parca - Open Source infrastructure-wide continuous profiling
- - [https://parca.dev](https://parca.dev)
- - date_published: 2024-05-06T23:34:20.978749+00:00
-
- ## Supervision
- - [https://color.mrmrs.partykit.dev](https://color.mrmrs.partykit.dev)
- - date_published: 2024-07-23T22:06:42.806218+00:00
-
- ## PartyKit
- - [https://cursor-party.genmon.partykit.dev](https://cursor-party.genmon.partykit.dev)
- - date_published: 2024-05-08T08:47:58.239044+00:00
-
- ## PartyKit
- - [https://cursor-party.labs.partykit.dev](https://cursor-party.labs.partykit.dev)
- - date_published: 2024-06-21T19:55:08.821246+00:00
-
- ## Firehouse
- - [https://firehouse-chat.jchris.partykit.dev](https://firehouse-chat.jchris.partykit.dev)
- - date_published: 2024-07-22T17:11:10.701419+00:00
-
- ## TinyRooms
- - [https://tinyrooms.jamesgpearce.partykit.dev](https://tinyrooms.jamesgpearce.partykit.dev)
- - date_published: 2024-04-30T00:30:11.305774+00:00
-
- ## Pascal Baljet Blog
- - [https://pascalbaljet.dev](https://pascalbaljet.dev)
- - date_published: 2024-10-17T10:06:49.600352+00:00
-
- ## Passkey Developer Resources
- - [https://passkeys.dev](https://passkeys.dev)
- - date_published: 2023-01-31T00:00:00+00:00
-
- ## Bitwarden Passwordless.dev - Passwordless Authentication | Bitwarden
- - [https://www.passwordless.dev](https://www.passwordless.dev)
- - date_published: 2024-08-16T23:50:11+00:00
-
- ## Patak's home
- - [https://patak.dev](https://patak.dev)
- - date_published: 2024-09-04T15:05:18.815412+00:00
-
- ## Patterns.dev
- - [https://patterns.dev](https://patterns.dev)
- - date_published: 2024-04-27T08:05:02.700720+00:00
- - tags: ['programming patterns', 'javascript']
-
- ## Hello! • Paul Armstrong
- - [https://paularmstrong.dev](https://paularmstrong.dev)
- - date_published: 2023-10-25T08:48:56.005230+00:00
- - tags: ['personal']
-
- ## Sign in · GitLab
- - [https://paulgo.dev](https://paulgo.dev)
- - date_published: 2024-07-02T20:42:50.029845+00:00
-
- ## //pauls dev blog
- - [https://paulsblog.dev](https://paulsblog.dev)
- - date_published: 2024-02-25T14:02:35.061521+00:00
- - tags: ['personal']
-
- ## umami
- - [https://stats.paulsblog.dev](https://stats.paulsblog.dev)
- - date_published: 2024-04-29T06:16:29.719870+00:00
-
- ## Pavan Kalyan's Blog
- - [https://pavan-kalyan.dev](https://pavan-kalyan.dev)
- - date_published: 2023-11-20T15:36:49+00:00
-
- ## Pavex
- - [https://pavex.dev](https://pavex.dev)
- - date_published: 2024-07-20T05:40:47.929993+00:00
-
- ## pcloadletter
- - [https://pcloadletter.dev](https://pcloadletter.dev)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## pdoc – Generate API Documentation for Python Projects
- - [https://pdoc.dev](https://pdoc.dev)
- - date_published: 2024-05-08T10:20:48.015955+00:00
-
- ## Show HN → Parallel DOM: Upgrade your DOM to be multithreaded
- - [https://www.pdom.dev](https://www.pdom.dev)
- - date_published: 2024-07-09T20:36:53+00:00
-
- ## Phil Piwonka
- - [https://pdp.dev](https://pdp.dev)
- - date_published: 2024-07-23T23:40:14.112691+00:00
-
- ## Get a Design or Code Review
- - [https://peerreviews.dev](https://peerreviews.dev)
- - date_published: 2024-07-02T19:03:27.119757+00:00
-
- ## PeerSwap
- - [https://peerswap.dev](https://peerswap.dev)
- - date_published: 2024-07-18T14:21:24.977492+00:00
-
- ## peio.dev
- - [https://peio.dev](https://peio.dev)
- - date_published: 2023-06-12T00:00:00+00:00
-
- ## Home | Pelican
- - [https://pelican.dev](https://pelican.dev)
- - date_published: 2024-11-08T19:14:18.972915+00:00
-
- ## Hey there! · pema.dev
- - [https://pema.dev](https://pema.dev)
- - date_published: 2023-10-25T18:40:45.349933+00:00
-
- ## Penpot: The Design Tool for Design & Code Collaboration
- - [https://penpot.dev](https://penpot.dev)
- - date_published: 2024-08-19T11:38:22.493381+00:00
-
- ## Home - Emmanuel Raymond's digital garden | Software Developer and Open Source Enthusiast
- - [https://peoray.dev](https://peoray.dev)
- - date_published: 2024-06-23T08:13:26.538813+00:00
-
- ## Vadim Makeev
- - [https://pepelsbey.dev](https://pepelsbey.dev)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Protocraft AI
- - [https://perceptionai.dev](https://perceptionai.dev)
- - date_published: 2024-09-13T19:07:58+00:00
-
- ## mobile.dev - Maestro, Maestro Studio, Maestro Cloud
- - [https://perf.dev](https://perf.dev)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Perfetto - System profiling, app tracing and trace analysis
- - [https://perfetto.dev](https://perfetto.dev)
- - date_published: 2024-06-17T03:17:39.827314+00:00
-
- ## Perfetto UI
- - [https://ui.perfetto.dev](https://ui.perfetto.dev)
- - date_published: 2024-10-16T08:45:23.249952+00:00
-
- ## AI PESTEL Analysis Generator
- - [https://pestel.dev](https://pestel.dev)
- - date_published: 2024-06-19T20:06:47.938107+00:00
-
- ## Petals – Decentralized platform for running large language models
- - [https://chat.petals.dev](https://chat.petals.dev)
- - date_published: 2024-04-30T02:10:54.138729+00:00
-
- ## Petals Health Monitor
- - [https://health.petals.dev](https://health.petals.dev)
- - date_published: 2024-04-30T02:10:53.472594+00:00
-
- ## Petals – Run LLMs at home, BitTorrent-style
- - [https://petals.dev](https://petals.dev)
- - date_published: 2023-10-25T18:40:45.976979+00:00
-
- ## Peter Babič
- - [https://peterbabic.dev](https://peterbabic.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Peter Friese's Blog
- - [https://peterfriese.dev](https://peterfriese.dev)
- - date_published: 2024-06-21T08:29:45+00:00
-
- ## petermolnar.dev - How to become a valuable iOS and macOS developer
- - [https://petermolnar.dev](https://petermolnar.dev)
- - date_published: 2024-06-23T15:31:06.938381+00:00
-
- ## Hi! | Peter Ringset
- - [https://peterringset.dev](https://peterringset.dev)
- - date_published: 2024-01-30T00:00:00+00:00
 

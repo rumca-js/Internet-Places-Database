@@ -1,3 +1,170 @@
+ ## Parken in Bochum
+ - [https://www.parken-in-bochum.de](https://www.parken-in-bochum.de)
+ - date_published: 2024-06-22T21:15:10.883587+00:00
+
+ ## Startseite - Parkett & Dielen Labahn
+ - [https://www.parkett-labahn.de](https://www.parkett-labahn.de)
+ - date_published: 2024-07-13T05:27:23+00:00
+
+ ## Part-DB
+ - [https://demo.part-db.de](https://demo.part-db.de)
+ - date_published: 2024-07-08T16:20:17.831526+00:00
+
+ ## Home
+ - [https://docs.part-db.de](https://docs.part-db.de)
+ - date_published: 2024-06-23T19:14:38+00:00
+
+ ## Partner Marketing Summit - Partner Marketing Summit
+ - [https://partner-marketing-summit.de](https://partner-marketing-summit.de)
+ - date_published: 2023-03-07T00:00:00+00:00
+
+ ## Partner Marketing Summit - Partner Marketing Summit
+ - [http://partnermarketingsummit.de](http://partnermarketingsummit.de)
+ - date_published: 2023-03-07T00:00:00+00:00
+
+ ## Partnerprogramm - WTSH Partnerprogramm
+ - [https://partner-sh.de](https://partner-sh.de)
+ - date_published: 2024-07-10T09:23:10.606199+00:00
+
+ ## PARTS Gesellschaft für soziale Praxis und Projekte mbH
+ - [https://www.parts-berlin.de](https://www.parts-berlin.de)
+ - date_published: 2022-10-25T09:45:55+00:00
+
+ ## Prof. Dr. Pascal Hitzler
+ - [http://www.pascal-hitzler.de](http://www.pascal-hitzler.de)
+ - date_published: 2024-03-06T15:33:37+00:00
+
+ ## Passage-Verlag Leipzig – Bücher & Leipziger Blätter · passageverlag.de
+ - [https://www.passageverlag.de](https://www.passageverlag.de)
+ - date_published: 2024-10-22T05:21:22.990487+00:00
+
+ ## Passolution Dataservice
+ - [https://web.passolution.de](https://web.passolution.de)
+ - date_published: 2024-08-08T22:53:59.849728+00:00
+
+ ## The Patches Scrolls | Home
+ - [https://patches-scrolls.de](https://patches-scrolls.de)
+ - date_published: 2024-04-08T06:18:02+00:00
+ - tags: ['video games']
+
+ ## Dein Aufnäher Shop für Bügelbilder und Flicken
+ - [https://patchmonkeys.de](https://patchmonkeys.de)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Innenarchitektur – Möbel
+ - [http://www.patchwork-spass.de](http://www.patchwork-spass.de)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Patientenbeauftragten der Bundesregierung
+ - [https://www.patientenbeauftragter.de](https://www.patientenbeauftragter.de)
+ - date_published: 2023-01-24T08:18:29+00:00
+
+ ## Patientus Whitelabel Videosprechstunde - KBV - geprüfter Anbieter
+ - [https://www.patientus.de](https://www.patientus.de)
+ - date_published: 2021-12-07T00:00:00+00:00
+
+ ## Schreiben, Marketing, Billard und alles mögliche - Patrick Baumann
+ - [https://patrick-baumann.de](https://patrick-baumann.de)
+ - date_published: 2023-12-13T20:59:36.150037+00:00
+ - tags: ['personal']
+
+ ## Attention Required! | Cloudflare
+ - [https://news.patrick-breyer.de](https://news.patrick-breyer.de)
+ - date_published: 2024-04-29T06:34:46.958470+00:00
+
+ ## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
+ - [https://patrick-breyer.de](https://patrick-breyer.de)
+ - date_published: 2023-10-25T18:32:28.196653+00:00
+
+ ## Patterns Kompakt
+ - [https://patterns-kompakt.de](https://patterns-kompakt.de)
+ - date_published: 2024-02-24T01:50:13+00:00
+
+ ## panschk.de – Blog von Panschk aka Paul-Gabriel Müller
+ - [http://paul-gabriel-mueller.de](http://paul-gabriel-mueller.de)
+ - date_published: 2024-06-01T22:16:59.873126+00:00
+
+ ## PAULINE BAUMBERGER
+ - [http://paulinebaumberger.de](http://paulinebaumberger.de)
+ - date_published: 2024-10-29T14:29:41.565964+00:00
+
+ ## PAYBACK Bonusprogramm » °Punkten + Coupons + Aktionen
+ - [https://www.payback.de](https://www.payback.de)
+ - date_published: 2024-06-25T18:07:34.112349+00:00
+
+ ## Payload
+ - [https://payload.de](https://payload.de)
+ - date_published: 2024-09-24T03:55:38.771542+00:00
+
+ ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
+ - [http://www.paypal.de](http://www.paypal.de)
+ - date_published: 2024-06-29T07:12:12.471541+00:00
+
+ ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
+ - [https://www.paypal-deutschland.de](https://www.paypal-deutschland.de)
+ - date_published: 2024-08-19T22:14:34.310692+00:00
+
+ ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
+ - [http://www.pcaction.de](http://www.pcaction.de)
+ - date_published: 2024-07-08T14:35:55.915875+00:00
+
+ ## Configure & Order customised PCB online | Beta LAYOUT Ltd.
+ - [http://www.pcb-pool.de](http://www.pcb-pool.de)
+ - date_published: 2024-06-22T14:22:39.667010+00:00
+
+ ## PC-Experience - das IT-Portal - - Start
+ - [https://pc-experience.de](https://pc-experience.de)
+ - date_published: 2024-04-29T06:35:45.500387+00:00
+
+ ## IOAM
+ - [https://data-c5925d7d99.pcgames.de](https://data-c5925d7d99.pcgames.de)
+ - date_published: 2024-01-17T09:13:53+00:00
+
+ ## PC Games Forum
+ - [https://forum.pcgames.de](https://forum.pcgames.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## pcgames.de - Stellenmarkt
+ - [https://jobs.pcgames.de](https://jobs.pcgames.de)
+ - date_published: 2024-06-17T21:13:36.606518+00:00
+
+ ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
+ - [https://www.pcgames.de](https://www.pcgames.de)
+ - date_published: 2024-04-29T06:41:03.000762+00:00
+ - tags: ['video game news']
+
+ ## IOAM
+ - [https://data-c5925d7d99.pcgameshardware.de](https://data-c5925d7d99.pcgameshardware.de)
+ - date_published: 2024-04-29T06:35:44.328251+00:00
+
+ ## Die Hardware-Community für PC-Spieler - PCGH Extreme
+ - [https://extreme.pcgameshardware.de](https://extreme.pcgameshardware.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## PCGH Gear: Produkte für Gamer
+ - [https://gear.pcgameshardware.de](https://gear.pcgameshardware.de)
+ - date_published: 2024-04-29T06:40:51.190191+00:00
+
+ ## pcgameshardware.de - Stellenmarkt
+ - [https://jobs.pcgameshardware.de](https://jobs.pcgameshardware.de)
+ - date_published: 2024-04-29T06:35:46.756285+00:00
+
+ ## PC Games Hardware - Einloggen
+ - [https://login.pcgameshardware.de](https://login.pcgameshardware.de)
+ - date_published: 2024-08-06T17:32:13.131018+00:00
+
+ ## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
+ - [https://pcgameshardware.de](https://pcgameshardware.de)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## PC Games Hardware (PCGH) Preisvergleich Deutschland: Preisvergleich
+ - [https://preisvergleich.pcgameshardware.de](https://preisvergleich.pcgameshardware.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## PCGH-Ratgeber: Hardware, IT, Gaming & Technik
+ - [https://ratgeber.pcgameshardware.de](https://ratgeber.pcgameshardware.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
  ## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
  - [https://www.pcgh.de](https://www.pcgh.de)
  - date_published: 2024-07-19T00:00:00+00:00
@@ -3858,169 +4025,4 @@
  ## Karriereseite und Stellenangebote – EURONICS Deutschland eG
  - [https://ausbildung-euronics.career.softgarden.de](https://ausbildung-euronics.career.softgarden.de)
  - date_published: 2024-10-14T00:00:00+00:00
-
- ## Karriereseite und Stellenangebote – Messe Berlin GmbH
- - [https://messe-berlin.career.softgarden.de](https://messe-berlin.career.softgarden.de)
- - date_published: 2024-10-14T12:46:59+00:00
-
- ## Softmachine – Softmachine
- - [http://www.softmachine.de](http://www.softmachine.de)
- - date_published: 2024-07-08T15:22:08.489705+00:00
-
- ## Softwareauswahl leicht gemacht
- - [https://www.softwareadvice.de](https://www.softwareadvice.de)
- - date_published: 2024-06-25T22:51:20.230787+00:00
-
- ## Software Analytics
- - [https://softwareanalytics.de](https://softwareanalytics.de)
- - date_published: 2024-04-29T06:04:33.442563+00:00
-
- ## Software Architecture Camp mit iSAQB-Zertifizierung
- - [https://software-architecture-camp.de](https://software-architecture-camp.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Software Architecture Summit 2024 | Berlin
- - [https://software-architecture-summit.de](https://software-architecture-summit.de)
- - date_published: 2024-09-18T17:38:52+00:00
-
- ## Software Lab. Alexander Burger
- - [https://software-lab.de](https://software-lab.de)
- - date_published: 2023-11-05T16:50:20+00:00
-
- ## Home - SoftwareNotion
- - [https://software-notion.de](https://software-notion.de)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Univention Corporate Server
- - [https://docs.software-univention.de](https://docs.software-univention.de)
- - date_published: 2024-09-03T09:13:28+00:00
-
- ## Ausbau Photovoltaik - Solarindustrie - Jobs - Solarbranche
- - [https://solarbranche.de](https://solarbranche.de)
- - date_published: 2024-04-29T06:15:16.587123+00:00
-
- ## Solar.creator
- - [https://fronius.solarconfigurator.de](https://fronius.solarconfigurator.de)
- - date_published: 2024-08-06T10:07:45+00:00
-
- ## Solar Fabrik | Creating a Powerful Future
- - [https://www.solar-fabrik.de](https://www.solar-fabrik.de)
- - date_published: 2024-07-11T17:40:12.601847+00:00
-
- ## Fedi.Solibre (Friendica) | Home
- - [https://fedi.solibre.de](https://fedi.solibre.de)
- - date_published: 2024-07-10T10:08:35.084136+00:00
-
- ## Solibre Design - Designing Privacy by Design
- - [https://solibre.de](https://solibre.de)
- - date_published: 2024-05-09T08:25:58.594999+00:00
-
- ## Home - Solid Apps GmbH
- - [http://www.solid-apps.de](http://www.solid-apps.de)
- - date_published: 2024-07-10T06:32:18.564645+00:00
-
- ## Europäisches Solidaritätskorps
- - [https://www.solidaritaetskorps.de](https://www.solidaritaetskorps.de)
- - date_published: 2024-09-12T17:16:42.612207+00:00
-
- ## Solinger Tageblatt
- - [https://www.solinger-tageblatt.de](https://www.solinger-tageblatt.de)
- - date_published: 2024-07-12T03:04:57+00:00
-
- ## So Loved Manufacture - Onlineshop für modernen Schmuck und Accessoires
- - [https://soloved.de](https://soloved.de)
- - date_published: 2024-05-06T21:57:59.712941+00:00
-
- ## Geoportal
- - [https://geoportal-mvv-netze.soluvia.de](https://geoportal-mvv-netze.soluvia.de)
- - date_published: 2024-07-17T08:02:00.216340+00:00
-
- ## some.marketing | Brands made in Germany
- - [https://www.somemarketing.de](https://www.somemarketing.de)
- - date_published: 2023-04-04T18:49:22+00:00
-
- ## Ihr DJ in Aichach, Augsburg, Donauwörth, Ingolstadt, Dachau, FFB, München, Bayerisch Schwaben, Wittelsbacher Land - DJ Meikel
- - [https://something.de](https://something.de)
- - date_published: 2019-08-15T09:43:03+00:00
-
- ## Sprachunterricht, Literatur, Theater, Musik und Kunst | Sommerschule Wust e.V.
- - [https://sommerschule-wust.de](https://sommerschule-wust.de)
- - date_published: 2024-10-19T10:33:31.580795+00:00
-
- ## Sonja Weckenmann, IAAP Web Accessibility Specialist
- - [https://sonja-weckenmann.de](https://sonja-weckenmann.de)
- - date_published: 2024-05-12T13:11:47+00:00
-
- ## ...ooOOOoo...
- - [https://sonnenburgs.de](https://sonnenburgs.de)
- - date_published: 2009-03-07T16:11:32+00:00
-
- ## Stadtwerke Schwetzingen - Sonnenstrom Solarrechner Solardach
- - [https://sonnenstrom-schwetzingen.de](https://sonnenstrom-schwetzingen.de)
- - date_published: 2024-10-29T11:16:17.509355+00:00
-
- ## Verkaufsoffene Sonntage 2023 - Sonntagsöffnungen deutschlandweit im Überblick
- - [https://www.sonntagsoeffnungen.de](https://www.sonntagsoeffnungen.de)
- - date_published: 2024-07-16T17:48:10.697273+00:00
-
- ## Sony Deutschland | Neueste Technologie-News | Elektronik | Unterhaltung
- - [http://www.sony.de](http://www.sony.de)
- - date_published: 2024-06-28T09:33:06+00:00
-
- ## Home - Sony Music Entertainment Germany GmbH
- - [https://www.sonymusic.de](https://www.sonymusic.de)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Sony Pictures Germany | Home
- - [https://www.sonypictures.de](https://www.sonypictures.de)
- - date_published: 2024-07-27T17:27:29.981755+00:00
-
- ## SOPHISTICATES – Mehr Gewinn durch Digitalisierung.
- - [https://sophisticates.de](https://sophisticates.de)
- - date_published: 2024-04-29T06:15:48.040484+00:00
-
- ## fabio campos
- - [https://www.sopmac.de](https://www.sopmac.de)
- - date_published: 2024-02-06T14:59:21+00:00
-
- ## Home | Sopra Steria
- - [https://www.soprasteria.de](https://www.soprasteria.de)
- - date_published: 2024-07-04T12:16:30.245900+00:00
-
- ## SOL - Sorbisch Online Lernen
- - [https://sprachkurs.sorbischlernen.de](https://sprachkurs.sorbischlernen.de)
- - date_published: 2021-05-16T18:47:14+00:00
-
- ## Sortimo | van racking & services for mobile work
- - [http://www.sortimo.de](http://www.sortimo.de)
- - date_published: 2024-10-29T21:22:34.487095+00:00
-
- ## SoSci Survey ‣ the Professional Solution for Your Online Survey
- - [https://www.soscisurvey.de](https://www.soscisurvey.de)
- - date_published: 2024-07-24T03:48:12.594387+00:00
-
- ## Eintauchen in die Welt der Klangschalen mit Sound-Spirit
- - [http://www.sound-spirit.de](http://www.sound-spirit.de)
- - date_published: 2024-11-15T13:21:09+00:00
-
- ## South Park Deutschland Shop | Offizieller Merch Store
- - [https://southparkshop.de](https://southparkshop.de)
- - date_published: 2024-07-27T02:51:21.238219+00:00
-
- ## Das führende Netzwerk für Gutscheine und Vorteilsangebote - Sovendus
- - [https://www.sovendus.de](https://www.sovendus.de)
- - date_published: 2020-08-05T16:49:19+00:00
-
- ## Home | Sovereign Tech Fund
- - [https://sovereigntechfund.de](https://sovereigntechfund.de)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Space Shop des Sozialwerks beim DLR e.V.
- - [https://www.sozialwerk-spaceshop.de](https://www.sozialwerk-spaceshop.de)
- - date_published: 2024-10-14T02:38:52+00:00
-
- ## SPACEFACTS - Discover the world of astronauts and
-		cosmonauts.
- - [http://spacefacts.de](http://spacefacts.de)
- - date_published: 2023-10-02T10:07:00+00:00
 

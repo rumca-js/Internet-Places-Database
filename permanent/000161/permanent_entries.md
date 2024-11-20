@@ -1,3 +1,124 @@
+ ## Opensource.com
+ - [https://opensource.com](https://opensource.com)
+ - date_published: 2021-12-14T00:00:00+00:00
+
+ ## Search & AI - Solr,Elasticsearch,OpenSearch - Training & Consulting
+ - [https://opensourceconnections.com](https://opensourceconnections.com)
+ - date_published: 2024-02-09T21:40:34.541019+00:00
+
+ ## Open Source Data Summit | Virtual Peer Data Conference | October 2, 2024
+ - [https://opensourcedatasummit.com](https://opensourcedatasummit.com)
+ - date_published: 2024-06-16T20:41:57.424222+00:00
+
+ ## Home - OpenSourceDB
+ - [https://opensource-db.com](https://opensource-db.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Open Source Experience
+ - [https://www.opensource-experience.com](https://www.opensource-experience.com)
+ - date_published: 2024-07-17T21:30:50+00:00
+
+ ## Open Source Football: Latest posts
+ - [https://opensourcefootball.com](https://opensourcefootball.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## The Official Website of Open Source For You Magazine
+ - [http://magazine.opensourceforu.com](http://magazine.opensourceforu.com)
+ - date_published: 2019-06-17T11:10:37+00:00
+
+ ## Open Source For You | Open Source Updates
+ - [http://opensourceforu.com](http://opensourceforu.com)
+ - date_published: 2018-07-13T14:08:12+00:00
+
+ ## Open Source Friday
+ - [https://opensourcefriday.com](https://opensourcefriday.com)
+ - date_published: 2024-07-23T22:46:41.991956+00:00
+
+ ## About Us – Open-Source-Gaming-Tournament
+ - [https://open-source-gaming-tournament.com](https://open-source-gaming-tournament.com)
+ - date_published: 2024-07-02T18:36:31.576492+00:00
+
+ ## Programming, UNIX and web dev insights
+ - [https://opensourcehacker.com](https://opensourcehacker.com)
+ - date_published: 2024-06-28T20:11:04.167045+00:00
+
+ ## Show HN: Open Source Heroes – Explore the world of Open Source
+ - [https://opensource-heroes.com](https://opensource-heroes.com)
+ - date_published: 2023-11-06T18:16:28+00:00
+
+ ## Open Source JobHub
+ - [https://opensourcejobhub.com](https://opensourcejobhub.com)
+ - date_published: 2024-05-04T12:44:47.124389+00:00
+
+ ## Open Source Musings
+ - [https://opensourcemusings.com](https://opensourcemusings.com)
+ - date_published: 2024-05-10T06:18:06.846452+00:00
+ - tags: ['blog', 'personal']
+
+ ## Home - Open Source North
+ - [https://www.opensourcenorth.com](https://www.opensourcenorth.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home Open Sourceress
+ - [https://open-sourceress.com](https://open-sourceress.com)
+ - date_published: 2024-07-09T20:01:26.999198+00:00
+
+ ## Open Source Score
+ - [https://opensourcescore.com](https://opensourcescore.com)
+ - date_published: 2024-06-23T08:32:56.224194+00:00
+
+ ## Free Open Source Scrum Tools Agile Project Management Software
+ - [https://www.opensourcescrum.com](https://www.opensourcescrum.com)
+ - date_published: 2024-06-23T06:48:01.798183+00:00
+
+ ## Open Source Security
+ - [https://opensourcesecuritypodcast.com](https://opensourcesecuritypodcast.com)
+ - date_published: 2024-05-01T05:29:32.759532+00:00
+
+ ## OpenSpace
+ - [https://www.openspaceproject.com](https://www.openspaceproject.com)
+ - date_published: 2024-09-04T03:19:44.867123+00:00
+
+ ## SpeedTest by OpenSpeedTest™ HTML5 Internet Speed Test.
+ - [https://openspeedtest.com](https://openspeedtest.com)
+ - date_published: 2024-03-02T20:03:21.258571+00:00
+
+ ## OpenSpot Theatre – Theatre For People of ALL Abilities
+ - [https://openspottheatre.com](https://openspottheatre.com)
+ - date_published: 2020-08-10T18:42:42+00:00
+
+ ## Open Source Security, Inc.
+ - [https://www.opensrcsec.com](https://www.opensrcsec.com)
+ - date_published: 2024-05-04T15:30:19.417020+00:00
+
+ ## Support
+ - [https://help.opensrs.com](https://help.opensrs.com)
+ - date_published: 2024-06-14T22:24:10.218059+00:00
+
+ ## Leading Reseller Platform for Domains, Email, SSL & More | OpenSRS
+ - [https://opensrs.com](https://opensrs.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Support
+ - [https://support.opensrs.com](https://support.opensrs.com)
+ - date_published: 2024-09-15T14:34:21.642660+00:00
+
+ ## OpenSRS Status
+ - [https://www.opensrsstatus.com](https://www.opensrsstatus.com)
+ - date_published: 2024-06-16T17:35:10.426181+00:00
+
+ ## OpenSSH
+ - [https://www.openssh.com](https://www.openssh.com)
+ - date_published: 2023-10-25T08:32:56.764937+00:00
+
+ ## OpenStage: Exceptional Theatre in Fort Collins. Performing Art
+ - [https://openstage.com](https://openstage.com)
+ - date_published: 2024-04-29T02:00:18.122240+00:00
+
+ ## OSP Demo
+ - [https://demo.openstreamingplatform.com](https://demo.openstreamingplatform.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## Open Streaming Platform Hub
  - [https://hub.openstreamingplatform.com](https://hub.openstreamingplatform.com)
  - date_published: 2024-07-17T22:22:02.172608+00:00
@@ -3653,6 +3774,7 @@
  ## OctaneStudio+ 2024 Launches with Greyscalegorilla Plus, KitBash3D, MoI 3D and more!
  - [https://home.otoy.com](https://home.otoy.com)
  - date_published: 2024-10-11T21:51:41.843496+00:00
+ - tags: ['game dev']
 
  ## OctaneStudio+ 2024 Launches with Greyscalegorilla Plus, KitBash3D, MoI 3D and more!
  - [https://otoy.com](https://otoy.com)
@@ -3915,125 +4037,4 @@
  ## Human Verification
  - [http://ukcatalogue.oup.com](http://ukcatalogue.oup.com)
  - date_published: 2024-06-24T10:15:34.870255+00:00
-
- ## Teaching English with Oxford Blog
- - [http://oupeltglobalblog.com](http://oupeltglobalblog.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## 国产成人午夜福利在线视频-人妻少妇偷人精品久久人妻5-人妻少妇一区二区三区色a-97人妻人人做人碰人人爽免费
- - [http://oupeltpromo.com](http://oupeltpromo.com)
- - date_published: 2024-10-19T10:24:47.887282+00:00
-
- ## Home
- - [https://opil.ouplaw.com](https://opil.ouplaw.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Advertising and Corporate Services
- - [http://www.oupmediainfo.com](http://www.oupmediainfo.com)
- - date_published: 2024-06-18T11:27:07.094708+00:00
-
- ## Home page - Oakland University Police Department - Oakland University
- - [https://oupolice.com](https://oupolice.com)
- - date_published: 2024-05-30T22:45:15+00:00
-
- ## The University of Oklahoma Press
- - [https://www.oupress.com](https://www.oupress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Our America
- - [https://ouramericaabc.com](https://ouramericaabc.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://blog.ouraring.com](https://blog.ouraring.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Oura on the web
- - [https://cloud.ouraring.com](https://cloud.ouraring.com)
- - date_published: 2024-06-18T05:42:57+00:00
-
- ## Oura Ring: Accurate Health Information Accessible to Everyone
- - [https://ouraring.com](https://ouraring.com)
- - date_published: 2024-02-24T10:08:28.118354+00:00
- - tags: ['smart ring', 'hardware']
-
- ## OurBabyAI: The #1 AI Baby Generator
- - [https://ourbabyai.com](https://ourbabyai.com)
- - date_published: 2024-06-14T14:44:09+00:00
-
- ## Our Beagle World Forums
- - [https://www.ourbeagleworld.com](https://www.ourbeagleworld.com)
- - date_published: 2024-06-29T18:04:11+00:00
-
- ## Scalar
- - [https://www.ourbelovedkin.com](https://www.ourbelovedkin.com)
- - date_published: 2024-07-04T13:42:18.494346+00:00
-
- ## OurBigBook Project
- - [https://docs.ourbigbook.com](https://docs.ourbigbook.com)
- - date_published: 2024-05-06T22:15:15.661977+00:00
-
- ## OurBigBook.com
- - [https://ourbigbook.com](https://ourbigbook.com)
- - date_published: 2023-12-02T02:46:08.135245+00:00
-
- ## OurBlind
- - [https://ourblind.com](https://ourblind.com)
- - date_published: 2024-07-31T15:50:56+00:00
-
- ## Our Blog Templates
- - [http://www.ourblogtemplates.com](http://www.ourblogtemplates.com)
- - date_published: 2024-06-20T04:19:24.270215+00:00
-
- ## Our Body Politic • A Podcast from Farai Chideya
- - [https://ourbodypolitic.com](https://ourbodypolitic.com)
- - date_published: 2024-08-18T17:48:48.777923+00:00
-
- ## Amanda Alderson
- - [https://language.ourboldhero.com](https://language.ourboldhero.com)
- - date_published: 2024-05-07T21:57:28.002629+00:00
-
- ## Our Bold Hero Dot Com
- - [http://www.ourboldhero.com](http://www.ourboldhero.com)
- - date_published: 2013-03-28T19:23:18+00:00
-
- ## Our Bow
- - [https://www.ourbow.com](https://www.ourbow.com)
- - date_published: 2024-08-18T16:19:40+00:00
-
- ## Here's a new way to save on home & car insurance
- - [https://ourbranch.com](https://ourbranch.com)
- - date_published: 2024-06-27T12:07:44.300549+00:00
-
- ## Our Brilliant Ruin
- - [https://ourbrilliantruin.com](https://ourbrilliantruin.com)
- - date_published: 2024-06-27T12:50:10.269371+00:00
-
- ## OurCal | Shared Calendar App | Family, Couple, Group
- - [https://ourcal.com](https://ourcal.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Civilisation And The Human Condition Explained
- - [https://ourcivilisation.com](https://ourcivilisation.com)
- - date_published: 2016-04-09T00:00:00+00:00
-
- ## Actions
- - [https://ourcountryourchoice.com](https://ourcountryourchoice.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## http://info.ourcrowd.com/
- - [https://info.ourcrowd.com](https://info.ourcrowd.com)
- - date_published: 2024-06-27T06:33:04.479027+00:00
-
- ## Investing in the Future: Startup, Venture Capital and Alternative Investments | OurCrowd
- - [https://www.ourcrowd.com](https://www.ourcrowd.com)
- - date_published: 2024-09-02T11:48:37.088092+00:00
-
- ## Small Business - Davie County Enterprise Record | Davie County Enterprise Record
- - [https://smb.ourdavie.com](https://smb.ourdavie.com)
- - date_published: 2024-06-29T01:45:43.938140+00:00
-
- ## Our DJ Talk
- - [https://ourdjtalk.com](https://ourdjtalk.com)
- - date_published: 2024-07-02T20:12:21+00:00
 

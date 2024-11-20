@@ -1,3 +1,183 @@
+ ## Faculty Affairs Office of the Provost
+ - [https://facultyaffairs.stanford.edu](https://facultyaffairs.stanford.edu)
+ - date_published: 2024-06-26T00:00:13+00:00
+
+ ## Office of Faculty Development, Diversity and Engagement
+ - [https://facultydevelopment.stanford.edu](https://facultydevelopment.stanford.edu)
+ - date_published: 2024-06-28T12:57:42+00:00
+
+ ## Stanford | Faculty Positions
+ - [https://facultypositions.stanford.edu](https://facultypositions.stanford.edu)
+ - date_published: 2024-05-07T20:30:55.775515+00:00
+
+ ## Homepage | SLAC Faculty
+ - [https://faculty.slac.stanford.edu](https://faculty.slac.stanford.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home
+ - [http://fairuse.stanford.edu](http://fairuse.stanford.edu)
+ - date_published: 2013-04-02T07:58:15+00:00
+
+ ## Stanford Login
+ - [https://fasa.stanford.edu](https://fasa.stanford.edu)
+ - date_published: 2024-07-01T20:08:47.915865+00:00
+
+ ## Future of Digital Currency Initiative
+ - [https://fdc.stanford.edu](https://fdc.stanford.edu)
+ - date_published: 2024-05-30T06:34:25+00:00
+
+ ## FFIT Home Page
+ - [https://ffit.stanford.edu](https://ffit.stanford.edu)
+ - date_published: 2022-10-07T23:36:19+00:00
+
+ ## Log in | Finance
+ - [https://finance-humsci.stanford.edu](https://finance-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:13.020990+00:00
+
+ ## Financial Aid : Stanford University
+ - [https://financialaid.stanford.edu](https://financialaid.stanford.edu)
+ - date_published: 2024-05-07T20:31:00.088096+00:00
+
+ ## Flash Teams | Home
+ - [https://flashteams.stanford.edu](https://flashteams.stanford.edu)
+ - date_published: 2024-05-07T20:27:57.915742+00:00
+
+ ## First Generation and/or Low-Income Student Success Center
+ - [https://fli.stanford.edu](https://fli.stanford.edu)
+ - date_published: 2024-06-10T23:20:37+00:00
+
+ ## Computer Forum
+ - [https://forum.stanford.edu](https://forum.stanford.edu)
+ - date_published: 2024-05-07T20:25:48.767557+00:00
+
+ ## Frosh 101 & Transfer 101
+ - [https://frosh101.stanford.edu](https://frosh101.stanford.edu)
+ - date_published: 2024-04-19T02:06:02+00:00
+
+ ## Faculty Search and Applicant Tracking
+ - [https://fsat.stanford.edu](https://fsat.stanford.edu)
+ - date_published: 2024-04-19T01:19:36+00:00
+
+ ## Freeman Spogli Institute for International Studies | FSI
+ - [https://fsi.stanford.edu](https://fsi.stanford.edu)
+ - date_published: 2024-04-30T06:34:30.351718+00:00
+
+ ## Neural Dynamics and Computation Lab
+ - [https://ganguli-gang.stanford.edu](https://ganguli-gang.stanford.edu)
+ - date_published: 2024-04-29T05:14:11.707254+00:00
+
+ ## Guibas Lab
+ - [https://geometry.stanford.edu](https://geometry.stanford.edu)
+ - date_published: 2023-08-18T01:31:08+00:00
+
+ ## Stanford Login
+ - [https://gfps.stanford.edu](https://gfps.stanford.edu)
+ - date_published: 2024-07-01T20:08:40.795395+00:00
+
+ ## Overview : Graduate Financial Support : Stanford University
+ - [https://gfs.stanford.edu](https://gfs.stanford.edu)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Gibson Environment | Stanford
+ - [http://gibsonenv.stanford.edu](http://gibsonenv.stanford.edu)
+ - date_published: 2019-11-24T06:46:20+00:00
+
+ ## Make a Gift to Stanford
+ - [https://give.stanford.edu](https://give.stanford.edu)
+ - date_published: 2024-07-01T19:37:16.214289+00:00
+
+ ## Giving to Stanford
+ - [https://giving.stanford.edu](https://giving.stanford.edu)
+ - date_published: 2024-05-07T20:31:07.160939+00:00
+
+ ## Graduate Life Office
+ - [https://glo.stanford.edu](https://glo.stanford.edu)
+ - date_published: 2024-05-17T16:41:49+00:00
+
+ ## Graduate Medical Education
+ - [https://gme.stanford.edu](https://gme.stanford.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Google Workspace | University IT
+ - [http://google.stanford.edu](http://google.stanford.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## The Gordian Knot Center for National Security Innovation
+ - [https://gordianknot.stanford.edu](https://gordianknot.stanford.edu)
+ - date_published: 2024-06-22T17:14:59+00:00
+
+ ## Stanford University
+ - [https://goto.stanford.edu](https://goto.stanford.edu)
+ - date_published: 2024-05-11T11:23:51.995536+00:00
+
+ ## Graduate Admissions
+ - [https://gradadmissions.stanford.edu](https://gradadmissions.stanford.edu)
+ - date_published: 2024-04-19T01:55:50+00:00
+
+ ## Graduate Diversity
+ - [https://graddiversity.stanford.edu](https://graddiversity.stanford.edu)
+ - date_published: 2024-04-19T01:49:18+00:00
+
+ ## Computer Graphics at Stanford University
+ - [https://graphics.stanford.edu](https://graphics.stanford.edu)
+ - date_published: 2024-05-01T08:47:34.499825+00:00
+
+ ## Join Stanford Alumni Groups
+ - [https://groups.stanford.edu](https://groups.stanford.edu)
+ - date_published: 2024-05-07T20:31:24.482508+00:00
+
+ ## Home - GSB Courses Sites WordPress Network
+ - [https://gsb-courses.stanford.edu](https://gsb-courses.stanford.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Stanford Graduate School of Business
+ - [https://gsb.stanford.edu](https://gsb.stanford.edu)
+ - date_published: 2024-05-07T20:30:37.947776+00:00
+
+ ## stan-x
+ - [https://gsc.stanford.edu](https://gsc.stanford.edu)
+ - date_published: 2024-05-11T10:40:37.394708+00:00
+
+ ## Office of Innovation & Technology
+ - [https://gse-it.stanford.edu](https://gse-it.stanford.edu)
+ - date_published: 2024-07-01T19:40:21+00:00
+
+ ## Graduate and Undergraduate Studies
+ - [https://gus-humsci.stanford.edu](https://gus-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:07.640877+00:00
+
+ ## Hacking for Climate and Sustainability
+ - [https://h4cs.stanford.edu](https://h4cs.stanford.edu)
+ - date_published: 2024-04-19T02:34:55+00:00
+
+ ## Hacking 4 Defense Stanford
+ - [http://h4d.stanford.edu](http://h4d.stanford.edu)
+ - date_published: 2024-07-20T15:33:47.504712+00:00
+
+ ## Haas Center for Public Service
+ - [https://haas.stanford.edu](https://haas.stanford.edu)
+ - date_published: 2024-06-27T19:55:37+00:00
+
+ ## Home | Stanford HAI
+ - [https://hai.stanford.edu](https://hai.stanford.edu)
+ - date_published: 2023-10-25T18:58:24.324282+00:00
+
+ ## Stanford Login
+ - [https://handsonweb.stanford.edu](https://handsonweb.stanford.edu)
+ - date_published: 2024-07-01T20:08:43.739286+00:00
+
+ ## Wrigley Field Program in Hawaii
+ - [https://hawaii.stanford.edu](https://hawaii.stanford.edu)
+ - date_published: 2024-07-01T20:22:23+00:00
+
+ ## Hazy Research
+ - [https://hazyresearch.stanford.edu](https://hazyresearch.stanford.edu)
+ - date_published: 2023-10-25T18:58:25.276211+00:00
+
+ ## Stanford HCI Group
+ - [https://hci.stanford.edu](https://hci.stanford.edu)
+ - date_published: 2023-10-25T18:58:28.830172+00:00
+
  ## HEADSUP
  - [https://headsup.stanford.edu](https://headsup.stanford.edu)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3831,184 +4011,4 @@
  ## UAMS Office of Continuing Education
  - [https://ce.uams.edu](https://ce.uams.edu)
  - date_published: 2024-06-20T23:29:14.455614+00:00
-
- ## Center for Faculty Excellence
- - [https://faculty.uams.edu](https://faculty.uams.edu)
- - date_published: 2024-06-20T23:30:10.858641+00:00
-
- ## Home Page
- - [http://giving.uams.edu](http://giving.uams.edu)
- - date_published: 2024-06-20T23:29:11.831157+00:00
-
- ## UAMS Graduate School
- - [https://gradschool.uams.edu](https://gradschool.uams.edu)
- - date_published: 2024-06-19T09:54:19+00:00
-
- ## College of Health Professions
- - [https://healthprofessions.uams.edu](https://healthprofessions.uams.edu)
- - date_published: 2024-06-20T23:30:08.109636+00:00
-
- ## Join Our Talent Community | UAMS Human Resources
- - [https://jobs.uams.edu](https://jobs.uams.edu)
- - date_published: 2024-06-20T23:30:47.405536+00:00
-
- ## UAMS Library
- - [http://library.uams.edu](http://library.uams.edu)
- - date_published: 2024-06-20T23:30:18.954256+00:00
-
- ## University of Arkansas for Medical Sciences
- - [https://maps.uams.edu](https://maps.uams.edu)
- - date_published: 2024-06-20T23:29:09.051126+00:00
-
- ## UAMS College of Medicine
- - [https://medicine.uams.edu](https://medicine.uams.edu)
- - date_published: 2024-06-18T09:57:25+00:00
-
- ## UAMS News
- - [https://news.uams.edu](https://news.uams.edu)
- - date_published: 2024-06-20T23:30:22.176485+00:00
-
- ## UAMS Northwest Regional Campus
- - [https://northwestcampus.uams.edu](https://northwestcampus.uams.edu)
- - date_published: 2024-06-03T10:12:57+00:00
-
- ## UAMS College of Nursing
- - [https://nursing.uams.edu](https://nursing.uams.edu)
- - date_published: 2024-05-29T08:56:19+00:00
-
- ## UAMS Office of Academic Services
- - [https://oas.uams.edu](https://oas.uams.edu)
- - date_published: 2024-06-20T23:29:46.637919+00:00
-
- ## UAMS College of Pharmacy
- - [https://pharmacy.uams.edu](https://pharmacy.uams.edu)
- - date_published: 2024-06-20T09:44:24+00:00
-
- ## UAMS Fay W. Boozman College of Public Health
- - [https://publichealth.uams.edu](https://publichealth.uams.edu)
- - date_published: 2024-06-17T09:16:36+00:00
-
- ## UAMS Regional Campuses
- - [https://regionalprograms.uams.edu](https://regionalprograms.uams.edu)
- - date_published: 2024-06-13T10:22:32+00:00
-
- ## Office of the University Registrar
- - [https://registrar.uams.edu](https://registrar.uams.edu)
- - date_published: 2024-06-20T23:30:14.755977+00:00
-
- ## UAMS Research and Innovation
- - [https://research.uams.edu](https://research.uams.edu)
- - date_published: 2024-06-19T09:54:19+00:00
-
- ## Student Financial Services | UAMS Students
- - [https://studentfinancialservices.uams.edu](https://studentfinancialservices.uams.edu)
- - date_published: 2024-06-20T23:30:33.932895+00:00
-
- ## Campus Life and Student Support Services | UAMS Students
- - [https://studentlife.uams.edu](https://studentlife.uams.edu)
- - date_published: 2024-06-20T23:30:51.014873+00:00
-
- ## UAMS Students
- - [https://students.uams.edu](https://students.uams.edu)
- - date_published: 2024-06-20T09:44:24+00:00
-
- ## Educational and Student Success Center | UAMS Students
- - [https://studentsuccess.uams.edu](https://studentsuccess.uams.edu)
- - date_published: 2024-06-20T23:29:02.253655+00:00
-
- ## University of Arkansas for Medical Sciences (UAMS)
- - [https://uams.edu](https://uams.edu)
- - date_published: 2024-01-16T21:32:23+00:00
-
- ## University of Arkansas for Medical Sciences (UAMS)
- - [https://web.uams.edu](https://web.uams.edu)
- - date_published: 2024-01-16T21:32:23+00:00
-
- ## Serving Arkansas and Beyond
- - [https://application.uark.edu](https://application.uark.edu)
- - date_published: 2024-07-08T14:52:58.962497+00:00
-
- ## Campus Calendar
- - [https://calendars.uark.edu](https://calendars.uark.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Log On
- - [https://campusdata.uark.edu](https://campusdata.uark.edu)
- - date_published: 2024-07-08T14:53:02.381378+00:00
-
- ## University of Arkansas - Fayetteville
- - [http://campusmaps.uark.edu](http://campusmaps.uark.edu)
- - date_published: 2024-07-08T14:52:40.733484+00:00
-
- ## Form Plus Function
- - [http://designblog.uark.edu](http://designblog.uark.edu)
- - date_published: 2024-07-08T14:52:44.532568+00:00
-
- ## Campus Directory | University of Arkansas
- - [https://directory.uark.edu](https://directory.uark.edu)
- - date_published: 2024-07-08T14:53:10.626246+00:00
-
- ## Emergency Preparedness | Campus Safety | University of Arkansas
- - [http://emergency.uark.edu](http://emergency.uark.edu)
- - date_published: 2024-07-08T14:53:14.193100+00:00
-
- ## Fay Jones School of Architecture and Design | University of Arkansas
- - [https://fayjones.uark.edu](https://fayjones.uark.edu)
- - date_published: 2024-05-08T11:43:35.793457+00:00
-
- ## Blackboard Learn
- - [https://learn.uark.edu](https://learn.uark.edu)
- - date_published: 2004-07-08T14:53:03+00:00
-
- ## Serving Arkansas and Beyond
- - [http://m.uark.edu](http://m.uark.edu)
- - date_published: 2024-07-08T14:53:18.132454+00:00
-
- ## News | University of Arkansas
- - [https://news.uark.edu](https://news.uark.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Online Giving
- - [https://onlinegiving.uark.edu](https://onlinegiving.uark.edu)
- - date_published: 2024-07-08T14:52:55.367183+00:00
-
- ## Home | Report | University of Arkansas
- - [http://report.uark.edu](http://report.uark.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## University of Arkansas Community Design Center
- - [https://uacdc.uark.edu](https://uacdc.uark.edu)
- - date_published: 2024-07-08T14:53:15.407312+00:00
-
- ## UAConnect | University of Arkansas
- - [https://uaconnect.uark.edu](https://uaconnect.uark.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Serving Arkansas and Beyond
- - [http://uark.edu](http://uark.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Visit | University of Arkansas
- - [http://visit.uark.edu](http://visit.uark.edu)
- - date_published: 2024-07-08T14:53:08.139248+00:00
-
- ## Sam M. Walton College of Business
- - [https://walton.uark.edu](https://walton.uark.edu)
- - date_published: 2024-10-14T19:30:58.491304+00:00
-
- ## OneLogin
- - [https://portal.uarts.edu](https://portal.uarts.edu)
- - date_published: 2024-06-12T05:31:51+00:00
-
- ## University of the Arts
- - [https://uarts.edu](https://uarts.edu)
- - date_published: 2024-05-08T05:03:49.738636+00:00
-
- ## Job Search
- - [https://jobs.uasystem.edu](https://jobs.uasystem.edu)
- - date_published: 2024-07-01T21:52:08.438808+00:00
-
- ## University of Alabama System
- - [https://uasystem.edu](https://uasystem.edu)
- - date_published: 2024-07-01T21:49:33+00:00
 

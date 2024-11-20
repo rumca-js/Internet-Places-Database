@@ -1,3 +1,19 @@
+ ## LES URBAINES
+ - [http://urbaines.ch](http://urbaines.ch)
+ - date_published: 2024-07-13T15:16:25.609184+00:00
+
+ ## Urner Wochenblatt
+ - [https://www.urnerwochenblatt.ch](https://www.urnerwochenblatt.ch)
+ - date_published: 2024-06-27T10:56:57.511314+00:00
+
+ ## BlueChilli Art Studio, Einfach Du & Best4Web: Kalligraphie und Kunst, Coaching und Begleitung, Webdesign und mehr by Ursi Spaltenstein
+ - [http://www.ursispaltenstein.ch](http://www.ursispaltenstein.ch)
+ - date_published: 2023-09-26T16:01:21+00:00
+
+ ## USI – Informazioni pratiche
+ - [https://desk.usi.ch](https://desk.usi.ch)
+ - date_published: 2024-07-21T05:15:10+00:00
+
  ## Welcome to the Evaluate Collaboratory! | Evaluate Collaboratory
  - [http://evaluate.inf.usi.ch](http://evaluate.inf.usi.ch)
  - date_published: 2024-07-14T16:25:24.487395+00:00
@@ -3995,20 +4011,4 @@
  ## UK Rail News | UK Train News | Rail Business Daily
  - [https://railbusinessdaily.temp927.kinsta.cloud](https://railbusinessdaily.temp927.kinsta.cloud)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Masonic Children's Home - Masonic Children's Home of Pennsylvania
- - [https://staging-masonicchildrenshome.kinsta.cloud](https://staging-masonicchildrenshome.kinsta.cloud)
- - date_published: 2024-10-19T09:42:37.090929+00:00
-
- ## Retail News & Insights - Retail TouchPoints
- - [https://staging-retailtouchpointsv4.kinsta.cloud](https://staging-retailtouchpointsv4.kinsta.cloud)
- - date_published: 2024-07-21T04:44:07.778514+00:00
-
- ## Social Media Scheduling, Marketing and Analytics Tool | SocialPilot
- - [https://staging-socialpilot.kinsta.cloud](https://staging-socialpilot.kinsta.cloud)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Datawords | Agence de marketing et stratégie digitale
- - [https://stg-datawords-staging.kinsta.cloud](https://stg-datawords-staging.kinsta.cloud)
- - date_published: 2023-06-27T05:45:42+00:00
 

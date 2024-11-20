@@ -1,3 +1,219 @@
+ ## Learn to Code — For Free — Coding Courses for Busy People
+ - [https://learn.freecodecamp.org](https://learn.freecodecamp.org)
+ - date_published: 2024-05-06T14:01:28.924687+00:00
+
+ ## freeCodeCamp.org
+ - [https://medium.freecodecamp.org](https://medium.freecodecamp.org)
+ - date_published: 2024-05-04T15:28:57.462937+00:00
+
+ ## freeCodeCamp Podcast
+ - [https://podcast.freecodecamp.org](https://podcast.freecodecamp.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## freeCodeCamp's Terms of Service
+ - [https://terms-of-service.freecodecamp.org](https://terms-of-service.freecodecamp.org)
+ - date_published: 2018-05-25T17:17:00+00:00
+
+ ## Free Code Tools - Build better and faster
+ - [https://freecodetools.org](https://freecodetools.org)
+ - date_published: 2023-10-25T21:22:36.834803+00:00
+
+ ## Home
+ - [https://freecol.org](https://freecol.org)
+ - date_published: 2023-05-07T18:37:06+00:00
+ - tags: ['open source', 'video game']
+
+ ## Free Counters for Your Website! 100% free! Get Your Counter now!
+ - [https://free-counters.org](https://free-counters.org)
+ - date_published: 2024-05-11T05:35:29.896149+00:00
+
+ ## FreeCSSTemplates.org is now FCT.co
+ - [https://www.freecsstemplates.org](https://www.freecsstemplates.org)
+ - date_published: 2024-05-04T09:16:54.040486+00:00
+
+ ## Cul-Tur Efree
+ - [http://free-culture.org](http://free-culture.org)
+ - date_published: 2024-07-23T13:10:54+00:00
+
+ ## Freecycle: Front Door
+ - [http://www.freecycle.org](http://www.freecycle.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugs.freedesktop.org](https://bugs.freedesktop.org)
+ - date_published: 2024-05-08T10:34:17.857845+00:00
+
+ ## freedesktop.org git repository browser
+ - [https://cgit.freedesktop.org](https://cgit.freedesktop.org)
+ - date_published: 2024-01-09T03:40:11.555074+00:00
+
+ ## dbus
+ - [https://dbus.freedesktop.org](https://dbus.freedesktop.org)
+ - date_published: 2022-02-28T18:21:58+00:00
+
+ ## DRI Wiki
+ - [https://dri.freedesktop.org](https://dri.freedesktop.org)
+ - date_published: 2020-10-21T18:27:05+00:00
+
+ ## Fingerprint reader support
+ - [https://fprint.freedesktop.org](https://fprint.freedesktop.org)
+ - date_published: 2023-03-15T14:10:31+00:00
+
+ ## www
+ - [https://freedesktop.org](https://freedesktop.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['software platform']
+
+ ## Explore groups · GitLab
+ - [https://gitlab.freedesktop.org](https://gitlab.freedesktop.org)
+ - date_published: 2023-10-25T21:22:53.665835+00:00
+ - tags: ['linux', 'graphic stack', 'open source']
+
+ ## GStreamer: open source multimedia framework
+ - [https://gstreamer.freedesktop.org](https://gstreamer.freedesktop.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Indico
+ - [https://indico.freedesktop.org](https://indico.freedesktop.org)
+ - date_published: 2024-07-09T20:00:34.041856+00:00
+
+ ## lists.freedesktop.org Mailing Lists
+ - [https://lists.freedesktop.org](https://lists.freedesktop.org)
+ - date_published: 2024-03-07T21:42:44.490922+00:00
+
+ ## Home — The Mesa 3D Graphics Library
+ - [https://mesa.freedesktop.org](https://mesa.freedesktop.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## libnice – The GLib ICE implementation
+ - [https://nice.freedesktop.org](https://nice.freedesktop.org)
+ - date_published: 2024-03-04T20:43:29+00:00
+
+ ## nouveau · freedesktop.org
+ - [https://nouveau.freedesktop.org](https://nouveau.freedesktop.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Panfrost
+ - [https://panfrost.freedesktop.org](https://panfrost.freedesktop.org)
+ - date_published: 2021-07-30T14:50:10+00:00
+
+ ## Project List - Patchwork
+ - [https://patchwork.freedesktop.org](https://patchwork.freedesktop.org)
+ - date_published: 2024-07-14T03:14:43.461094+00:00
+
+ ## planet.freedesktop.org
+ - [https://planet.freedesktop.org](https://planet.freedesktop.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Poppler
+ - [https://poppler.freedesktop.org](https://poppler.freedesktop.org)
+ - date_published: 2023-10-25T21:22:54.773695+00:00
+
+ ## www
+ - [https://secure.freedesktop.org](https://secure.freedesktop.org)
+ - date_published: 2023-05-31T19:39:00+00:00
+
+ ## Freedesktop.org Specifications
+ - [https://specifications.freedesktop.org](https://specifications.freedesktop.org)
+ - date_published: 2024-04-29T07:29:06.636149+00:00
+
+ ## Freedesktop.org Specifications
+ - [https://standards.freedesktop.org](https://standards.freedesktop.org)
+ - date_published: 2024-05-23T02:49:46.816821+00:00
+
+ ## Wayland
+ - [https://wayland.freedesktop.org](https://wayland.freedesktop.org)
+ - date_published: 2023-10-30T14:01:41.938140+00:00
+ - tags: ['open source', 'wayland']
+
+ ## xcb
+ - [https://xcb.freedesktop.org](https://xcb.freedesktop.org)
+ - date_published: 2024-03-02T21:47:09+00:00
+
+ ## Mirror for Open Source Projects
+ - [http://freedif.org](http://freedif.org)
+ - date_published: 2024-05-10T14:33:34+00:00
+
+ ## Index of /
+ - [https://mirror.freedif.org](https://mirror.freedif.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home
+ - [http://www.freedomandprosperity.org](http://www.freedomandprosperity.org)
+ - date_published: 2024-10-21T14:10:22.938893+00:00
+
+ ## FreedomBox Forum
+ - [https://discuss.freedombox.org](https://discuss.freedombox.org)
+ - date_published: 2024-10-31T06:07:44.754869+00:00
+
+ ## FreedomBox - Personal Server at Home
+ - [https://freedombox.org](https://freedombox.org)
+ - date_published: 2024-06-19T22:12:33+00:00
+
+ ## Welcome — FreedomBox Foundation
+ - [https://freedomboxfoundation.org](https://freedomboxfoundation.org)
+ - date_published: 2024-06-14T11:41:38+00:00
+
+ ## Definition of Free Cultural Works
+ - [https://freedomdefined.org](https://freedomdefined.org)
+ - date_published: 2024-04-30T05:44:32.703703+00:00
+
+ ## Homepage
+ - [https://www.freedomforum.org](https://www.freedomforum.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Freedom from the FDA
+ - [http://www.freedomfromfda.org](http://www.freedomfromfda.org)
+ - date_published: 2014-06-02T00:00:00+00:00
+
+ ## Expanding Freedom and Democracy
+ - [https://freedomhouse.org](https://freedomhouse.org)
+ - date_published: 2024-05-12T04:27:17.360727+00:00
+
+ ## Freedom: Investigative Journalism in the Public Interest
+ - [https://freedommag.org](https://freedommag.org)
+ - date_published: 2024-10-19T21:35:25.774556+00:00
+
+ ## Human Trafficking Advocacy | Freedom Network USA
+ - [https://freedomnetworkusa.org](https://freedomnetworkusa.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home | Freedom of Mobility Forum
+ - [https://freedomofmobilityforum.org](https://freedomofmobilityforum.org)
+ - date_published: 2024-05-10T04:34:13.562803+00:00
+
+ ## San Leandro, CA Lawyers and Attorneys
+ - [https://freedoms-edge.org](https://freedoms-edge.org)
+ - date_published: 2023-12-17T20:34:51+00:00
+
+ ## | Freedom to Marry
+ - [http://www.freedomtomarry.org](http://www.freedomtomarry.org)
+ - date_published: 2015-06-26T00:00:00+00:00
+
+ ## Our future. Our votes. Our democracy.
+ - [https://www.freedomtovoteact.org](https://www.freedomtovoteact.org)
+ - date_published: 2024-07-20T21:47:25.662903+00:00
+
+ ## readable.css
+ - [https://readable-css.freedomtowrite.org](https://readable-css.freedomtowrite.org)
+ - date_published: 2022-06-15T00:00:00+00:00
+
+ ## The FreeDOS Project
+ - [https://www.freedos.org](https://www.freedos.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Entdecken Sie die besten App-Downloads für Mac OS X auf FDM
+ - [https://de.freedownloadmanager.org](https://de.freedownloadmanager.org)
+ - date_published: 2024-07-17T14:56:51.067218+00:00
+
+ ## Most Popular Downloads for Windows on FreeDownloadManager.org
+ - [https://download.freedownloadmanager.org](https://download.freedownloadmanager.org)
+ - date_published: 2024-07-17T14:56:48.932765+00:00
+
+ ## Discover the best software downloads for Windows on FDM
+ - [https://en.freedownloadmanager.org](https://en.freedownloadmanager.org)
+ - date_published: 2024-05-14T02:45:13.825099+00:00
+
  ## Descubre las mejores descargas de programas para Windows en FDM
  - [https://es.freedownloadmanager.org](https://es.freedownloadmanager.org)
  - date_published: 2024-07-17T14:56:56.884199+00:00
@@ -3843,218 +4059,4 @@ encryption
  ## Who's That Pokemon?
  - [https://whos-that-pokemon.gicelascona.org](https://whos-that-pokemon.gicelascona.org)
  - date_published: 2024-09-01T22:53:38+00:00
-
- ## Global Indigenous Data Alliance
- - [https://www.gida-global.org](https://www.gida-global.org)
- - date_published: 2024-06-28T22:10:12.033016+00:00
-
- ## gifcities.org by Internet Archive – search for GIFs scraped off geocities sites
- - [https://gifcities.org](https://gifcities.org)
- - date_published: 2016-10-26T20:33:23+00:00
- - tags: ['old internet', 'geocities']
-
- ## giffmex.org/home —
- - [https://giffmex.org](https://giffmex.org)
- - date_published: 2024-06-06T15:34:54+00:00
-
- ## ArtículosGiffmex —
- - [http://recursos.giffmex.org](http://recursos.giffmex.org)
- - date_published: 2019-09-13T19:47:03+00:00
-
- ## Home
- - [https://giffords.org](https://giffords.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Global Institute for Research & Education
- - [http://www.gifre.org](http://www.gifre.org)
- - date_published: 2024-10-29T17:31:52.895233+00:00
-
- ## Gift of Jazz Home Page | Colorado Jazz Nonprofit since 1995
- - [http://www.giftofjazz.org](http://www.giftofjazz.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Cornell Lab of Ornithology Planned Giving :: Welcome to Gift Planning
- - [https://birds.cornell.giftplans.org](https://birds.cornell.giftplans.org)
- - date_published: 2024-07-12T17:08:37.793969+00:00
-
- ## The Cleveland Museum of Art Planned Giving :: Welcome
- - [https://clevelandart.giftplans.org](https://clevelandart.giftplans.org)
- - date_published: 2024-07-02T09:02:08.319880+00:00
-
- ## Environmental Defense Fund Planned Giving :: Welcome to Planned Giving
- - [https://edf.giftplans.org](https://edf.giftplans.org)
- - date_published: 2024-05-12T07:37:50.346195+00:00
-
- ## Northwell Health Foundation | Gift Planning :: Welcome to Gift Planning
- - [https://northwell.giftplans.org](https://northwell.giftplans.org)
- - date_published: 2024-07-01T16:28:27.758125+00:00
-
- ## Santa Fe Institute Planned Giving :: Gift Planning
- - [https://santafe.giftplans.org](https://santafe.giftplans.org)
- - date_published: 2024-05-07T20:23:15.254397+00:00
-
- ## Swarthmore College Gift Planning :: Gift Planning
- - [https://swarthmore.giftplans.org](https://swarthmore.giftplans.org)
- - date_published: 2024-07-01T20:48:38.876786+00:00
-
- ## The University of Alabama Planned Giving :: Planned Giving
- - [https://ua.giftplans.org](https://ua.giftplans.org)
- - date_published: 2024-07-01T22:02:52.127310+00:00
-
- ## The University of Houston Planned Giving :: Planned Giving
- - [https://uh.giftplans.org](https://uh.giftplans.org)
- - date_published: 2024-07-02T02:26:10.375715+00:00
-
- ## UNM Planned Giving :: Welcome to Gift Planning
- - [https://unmfund.giftplans.org](https://unmfund.giftplans.org)
- - date_published: 2024-07-02T05:05:47.119148+00:00
-
- ## Gigafact: Making facts ubiquitous and accessible to all
- - [https://gigafact.org](https://gigafact.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## GIGA！無料通信
- - [https://www.gigafree.org](https://www.gigafree.org)
- - date_published: 2024-04-30T06:13:14+00:00
-
- ## (no title)
- - [https://www.giga-net.org](https://www.giga-net.org)
- - date_published: 2024-10-17T22:26:12.280405+00:00
-
- ## Advisory Contents Page
- - [https://advisory.gijn.org](https://advisory.gijn.org)
- - date_published: 2024-08-18T19:06:01.504282+00:00
-
- ## 全球深度报道网
- - [https://cn.gijn.org](https://cn.gijn.org)
- - date_published: 2024-08-18T18:10:07+00:00
-
- ## Global Investigative Journalism Network
- - [https://gijn.org](https://gijn.org)
- - date_published: 2023-10-25T21:24:56.514394+00:00
-
- ## Home
- - [https://gilcrease.org](https://gilcrease.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Giles Turnbull's website
- - [https://gilest.org](https://gilest.org)
- - date_published: 2024-01-10T02:57:57.538118+00:00
-
- ## Igor Gilitschenski
- - [https://www.gilitschenski.org](https://www.gilitschenski.org)
- - date_published: 2020-11-02T00:00:00+00:00
-
- ## Gill Foundation
- - [https://gillfoundation.org](https://gillfoundation.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Thomas Gilray's Research
- - [https://thomas.gilray.org](https://thomas.gilray.org)
- - date_published: 2024-05-08T23:40:41+00:00
-
- ## Home - TJ Owens Gilroy Early College Academy 2022
- - [https://geca.gilroyunified.org](https://geca.gilroyunified.org)
- - date_published: 2024-07-02T20:13:26.871808+00:00
-
- ## GIMP Developer - GIMP Development
- - [https://developer.gimp.org](https://developer.gimp.org)
- - date_published: 2024-05-12T04:41:33.571629+00:00
-
- ## GIMP Documentation
- - [https://docs.gimp.org](https://docs.gimp.org)
- - date_published: 2024-07-15T01:25:06+00:00
-
- ## GIMP
- - [https://gimp.org](https://gimp.org)
- - date_published: 2024-05-04T09:29:02.915500+00:00
- - tags: ['open source', 'desktop program', 'image editor']
-
- ## GIMP - Registry
- - [http://registry.gimp.org](http://registry.gimp.org)
- - date_published: 2024-05-28T18:18:56+00:00
-
- ## GIMP scripts and patterns and stuff...
- - [https://www.gimphelp.org](https://www.gimphelp.org)
- - date_published: 2021-04-05T19:03:54+00:00
-
- ## gina-rodriguez.org
- - [http://www.gina-rodriguez.org](http://www.gina-rodriguez.org)
- - date_published: 2024-09-04T02:49:53.124475+00:00
-
- ## gingerBill
- - [https://gingerbill.org](https://gingerbill.org)
- - date_published: 2023-10-25T21:24:58.962507+00:00
-
- ## Gio UI
- - [https://gioui.org](https://gioui.org)
- - date_published: 2024-05-01T08:44:59.670726+00:00
-
- ## Home - GIPLATFORM
- - [https://giplatform.org](https://giplatform.org)
- - date_published: 2022-04-02T15:57:19+00:00
-
- ## GI Rights Hotline: Military Discharges and Military Counseling
- - [https://girightshotline.org](https://girightshotline.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Girls' Angle: A Math Club for Girls
- - [http://www.girlsangle.org](http://www.girlsangle.org)
- - date_published: 2024-06-30T09:29:52.601499+00:00
-
- ## The Lower Eastside Girls Club of NY • Joy, Power & Possibility
- - [https://www.girlsclub.org](https://www.girlsclub.org)
- - date_published: 2024-07-09T19:03:54.167603+00:00
-
- ## Homepage - Germany
- - [https://germany.girlsintech.org](https://germany.girlsintech.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Home - Girls in Tech
- - [https://girlsintech.org](https://girlsintech.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://jobs.girlsintech.org](https://jobs.girlsintech.org)
- - date_published: 2024-06-15T20:05:51.913360+00:00
-
- ## The Girls in Tech Shop
- - [https://shop.girlsintech.org](https://shop.girlsintech.org)
- - date_published: 2024-06-15T20:06:01.957232+00:00
-
- ## Homepage - spain
- - [https://spain.girlsintech.org](https://spain.girlsintech.org)
- - date_published: 2023-05-02T00:00:00+00:00
-
- ## Girls Learn International –
- - [https://girlslearn.org](https://girlslearn.org)
- - date_published: 2024-07-19T02:55:34.240638+00:00
-
- ## Home | Girls Who Drone
- - [http://www.girlswhodrone.org](http://www.girlswhodrone.org)
- - date_published: 2024-06-20T12:54:41.967737+00:00
-
- ## GISAID - gisaid.org
- - [https://gisaid.org](https://gisaid.org)
- - date_published: 2024-06-15T18:57:29.308641+00:00
-
- ## Home - GISCorps - GIS Professionals Volunteering for a Better World
- - [https://www.giscorps.org](https://www.giscorps.org)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Gisha
- - [https://gisha.org](https://gisha.org)
- - date_published: 2024-07-16T21:34:25.692312+00:00
-
- ## Groupe d'information et de soutien des immigrés
- - [http://www.gisti.org](http://www.gisti.org)
- - date_published: 2024-10-21T18:08:46.066796+00:00
-
- ## Where are we watching? | Global Information Society Watch
- - [https://giswatch.org](https://giswatch.org)
- - date_published: 2024-05-25T05:39:24.826480+00:00
-
- ## GitAGI
- - [https://gitagi.org](https://gitagi.org)
- - date_published: 2024-05-10T08:50:54+00:00
 

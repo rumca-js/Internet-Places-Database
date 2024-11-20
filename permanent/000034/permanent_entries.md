@@ -1,3 +1,19 @@
+ ## U. Central | Credyty
+ - [https://credicentral.ucentral.edu.co](https://credicentral.ucentral.edu.co)
+ - date_published: 2024-09-06T20:09:33+00:00
+
+ ## Red Académico-Administrativa Interna (RAAI) | Universidad Central
+ - [https://raai.ucentral.edu.co](https://raai.ucentral.edu.co)
+ - date_published: 2024-09-10T02:52:58+00:00
+
+ ## Universidad Central – Sitio oficial
+ - [https://ucentral.edu.co](https://ucentral.edu.co)
+ - date_published: 2024-06-11T23:04:25+00:00
+
+ ## Sitios de la Universidad Central - Universidad Central
+ - [https://universidad.ucentral.edu.co](https://universidad.ucentral.edu.co)
+ - date_published: 2024-09-10T11:45:37.780101+00:00
+
  ## Universidad Central – Sitio oficial
  - [https://uxxi.ucentral.edu.co](https://uxxi.ucentral.edu.co)
  - date_published: 2024-09-09T23:03:28+00:00
@@ -4024,21 +4040,4 @@
  ## Texas Toland
  - [https://tex.codes](https://tex.codes)
  - date_published: 2024-06-22T15:50:27.219328+00:00
-
- ## Blog - Stargirl (Thea) Flowers
- - [https://blog.thea.codes](https://blog.thea.codes)
- - date_published: 2023-10-25T09:04:01.639181+00:00
- - tags: ['personal']
-
- ## Welcome to Nox — Nox 2024.4.15 documentation
- - [https://nox.thea.codes](https://nox.thea.codes)
- - date_published: 2024-04-15T14:08:18+00:00
-
- ## Stargirl (Thea) Flowers - Photography
- - [https://photos.thea.codes](https://photos.thea.codes)
- - date_published: 2020-11-07T00:00:00+00:00
-
- ## Thea "Stargirl" Flowers | Creative technologist & open source advocate
- - [https://thea.codes](https://thea.codes)
- - date_published: 2024-03-28T21:26:38+00:00
 

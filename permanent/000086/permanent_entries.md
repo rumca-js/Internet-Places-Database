@@ -1,3 +1,51 @@
+ ## DLG - Digital Luxury Group. The Leading Digital Agency for Luxury and Lifestyle Brands
+ - [https://digitalluxurygroup.com](https://digitalluxurygroup.com)
+ - date_published: 2024-09-16T07:52:29.961088+00:00
+
+ ## digitally induced GmbH | We combine extensive software expertise with a startup mindset
+ - [https://digitallyinduced.com](https://digitallyinduced.com)
+ - date_published: 2024-05-01T05:11:19.188479+00:00
+
+ ## IHP
+ - [https://discuss.ihp.digitallyinduced.com](https://discuss.ihp.digitallyinduced.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies
+ - [https://ihp.digitallyinduced.com](https://ihp.digitallyinduced.com)
+ - date_published: 2023-10-25T13:52:33.020994+00:00
+
+ ## DigitalMaas | Local Marketing Platform
+ - [https://www.digitalmaas.com](https://www.digitalmaas.com)
+ - date_published: 2020-01-06T11:18:30+00:00
+
+ ## Web Design, SEO, Content Marketing - Macaw Digital Marketing
+ - [https://digitalmacaw.com](https://digitalmacaw.com)
+ - date_published: 2023-11-07T20:27:26+00:00
+
+ ## Digital Maestro
+ - [https://digitalmaestro.com](https://digitalmaestro.com)
+ - date_published: 2024-06-18T10:23:42.673649+00:00
+
+ ## Digital Maneuver
+ - [https://digitalmaneuver.com](https://digitalmaneuver.com)
+ - date_published: 2024-06-15T04:37:04.377201+00:00
+
+ ## Digital Marketing World Forum | #DMWF Series | Conference
+ - [https://digitalmarketing-conference.com](https://digitalmarketing-conference.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Marketing Resources from Digital Marketing Depot - Research, Webinars, Whitepapers, and More
+ - [https://digitalmarketingdepot.com](https://digitalmarketingdepot.com)
+ - date_published: 2024-07-07T07:48:25.644942+00:00
+
+ ## Marketing Resources from Digital Marketing Depot - Research, Webinars, Whitepapers, and More
+ - [https://downloads.digitalmarketingdepot.com](https://downloads.digitalmarketingdepot.com)
+ - date_published: 2024-05-08T10:02:09.613373+00:00
+
+ ## Digital Mars C, C++ and D Compilers
+ - [https://digitalmars.com](https://digitalmars.com)
+ - date_published: 2024-04-19T06:23:36+00:00
+
  ## Index of /
  - [http://ftp.digitalmars.com](http://ftp.digitalmars.com)
  - date_published: 2024-08-19T15:54:33.305177+00:00
@@ -3988,52 +4036,4 @@
  ## IT Solutions in Toledo & Southeast Michigan - DMC Technology Group
  - [https://dmctechgroup.com](https://dmctechgroup.com)
  - date_published: 2024-07-03T00:00:00+00:00
-
- ## Local Credit Union in Michigan | Diversified Members Credit Union
- - [https://dmcu.com](https://dmcu.com)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Dmepp.com Le site pour dépenser moins et profiter plus
- - [https://dmepp.com](https://dmepp.com)
- - date_published: 2024-03-07T21:59:21+00:00
-
- ## DMEXCO - Digital Marketing Exposition & Conference
- - [https://dmexco.com](https://dmexco.com)
- - date_published: 2024-06-25T14:55:14+00:00
-
- ## DMG Lighting
- - [http://www.dmglumiere.com](http://www.dmglumiere.com)
- - date_published: 2024-07-04T06:47:48+00:00
-
- ## Homepage - DMGT
- - [https://www.dmgt.com](https://www.dmgt.com)
- - date_published: 2024-06-18T06:27:01.796438+00:00
-
- ## Dario Milicic - Android & Flutter Engineer
- - [https://dmilicic.com](https://dmilicic.com)
- - date_published: 2024-04-02T14:49:28+00:00
-
- ## The Diamond Mine Online System
- - [http://www.dmine.com](http://www.dmine.com)
- - date_published: 2022-05-08T16:58:18+00:00
-
- ## DMIS – Home
- - [https://about.dmis211.com](https://about.dmis211.com)
- - date_published: 2024-06-28T22:37:03.163645+00:00
-
- ## Dmitri Pavlutin Blog
- - [https://dmitripavlutin.com](https://dmitripavlutin.com)
- - date_published: 2024-08-19T04:48:26.687596+00:00
-
- ## about    [Dmitry Frank]
- - [https://dmitryfrank.com](https://dmitryfrank.com)
- - date_published: 2023-10-25T13:55:11.237067+00:00
-
- ## Pictures&Blather
- - [https://shop.dmitrysamarov.com](https://shop.dmitrysamarov.com)
- - date_published: 2024-10-27T11:28:49.354685+00:00
-
- ## DMM.com このページはお住まいの地域からご利用になれません。
- - [https://affiliate.dmm.com](https://affiliate.dmm.com)
- - date_published: 2024-06-11T09:09:09.436955+00:00
 

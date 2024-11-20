@@ -1,3 +1,191 @@
+ ## U.S. Representative Brittany Pettersen
+ - [https://pettersen.house.gov](https://pettersen.house.gov)
+ - date_published: 2024-06-27T14:09:29+00:00
+
+ ## Congressman August Pfluger
+ - [https://pfluger.house.gov](https://pfluger.house.gov)
+ - date_published: 2024-06-27T14:21:07+00:00
+
+ ## U.S. Representative Dean Phillips
+ - [https://phillips.house.gov](https://phillips.house.gov)
+ - date_published: 2024-06-27T14:02:13+00:00
+
+ ## U.S. Representative Chellie Pingree
+ - [https://pingree.house.gov](https://pingree.house.gov)
+ - date_published: 2024-06-27T14:22:53+00:00
+
+ ## Congresswoman Stacey E. Plaskett
+ - [https://plaskett.house.gov](https://plaskett.house.gov)
+ - date_published: 2024-06-27T14:16:52+00:00
+
+ ## Congressman Mark Pocan
+ - [https://pocan.house.gov](https://pocan.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## U.S. Representative Katie Porter
+ - [https://porter.house.gov](https://porter.house.gov)
+ - date_published: 2024-06-27T14:01:42+00:00
+
+ ## Congressman Bill Posey | Representing the 8th District of Florida
+ - [https://posey.house.gov](https://posey.house.gov)
+ - date_published: 2024-06-27T14:09:51+00:00
+
+ ## Home - Ayanna Pressley
+ - [https://pressley.house.gov](https://pressley.house.gov)
+ - date_published: 2024-06-27T14:13:17.218195+00:00
+
+ ## Congressional Progressive Caucus
+ - [https://progressives.house.gov](https://progressives.house.gov)
+ - date_published: 2024-06-04T13:51:37.352538+00:00
+
+ ## Congressman Mike Quigley
+ - [https://quigley.house.gov](https://quigley.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## US Representative Aumua Amata Coleman Radewagen
+ - [https://radewagen.house.gov](https://radewagen.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Delia Ramirez
+ - [https://ramirez.house.gov](https://ramirez.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congressman Jamie Raskin
+ - [https://raskin.house.gov](https://raskin.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Republican Policy
+ - [https://republicanpolicy.house.gov](https://republicanpolicy.house.gov)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Committee on Education & the Workforce | Republicans
+ - [https://republicans-edlabor.house.gov](https://republicans-edlabor.house.gov)
+ - date_published: 2024-07-07T05:04:00+00:00
+
+ ## U.S. House Committee on Oversight and Accountability
+ - [https://republicans-oversight.house.gov](https://republicans-oversight.house.gov)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## House Majority Whip Tom Emmer
+ - [https://republicanwhip.house.gov](https://republicanwhip.house.gov)
+ - date_published: 2024-06-27T14:00:48+00:00
+
+ ## Home | U.S. Congressman Guy Reschenthaler
+ - [https://reschenthaler.house.gov](https://reschenthaler.house.gov)
+ - date_published: 2024-06-27T14:10:59.411613+00:00
+
+ ## Home - Torres
+ - [https://ritchietorres.house.gov](https://ritchietorres.house.gov)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Congressman Robert Garcia
+ - [https://robertgarcia.house.gov](https://robertgarcia.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Robin Kelly
+ - [https://robinkelly.house.gov](https://robinkelly.house.gov)
+ - date_published: 2024-06-27T14:23:12.089047+00:00
+
+ ## U.S. Representative Matt Rosendale
+ - [https://rosendale.house.gov](https://rosendale.house.gov)
+ - date_published: 2024-06-27T14:01:33+00:00
+
+ ## Representative Deborah Ross
+ - [https://ross.house.gov](https://ross.house.gov)
+ - date_published: 2024-06-27T14:02:40.366825+00:00
+
+ ## U.S. Representative David Rouzer
+ - [https://rouzer.house.gov](https://rouzer.house.gov)
+ - date_published: 2024-06-27T14:21:17+00:00
+
+ ## Representative Chip Roy
+ - [https://roy.house.gov](https://roy.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | U.S. Congressman Ruben Gallego
+ - [https://rubengallego.house.gov](https://rubengallego.house.gov)
+ - date_published: 2024-06-27T14:17:28.022447+00:00
+
+ ## Congressman Raul Ruiz
+ - [https://ruiz.house.gov](https://ruiz.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## House of Representatives Committee on Rules
+ - [https://rules.house.gov](https://rules.house.gov)
+ - date_published: 2023-11-14T19:59:35.907324+00:00
+
+ ## Congressman Michael Rulli
+ - [https://rulli.house.gov](https://rulli.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman C.A. Dutch Ruppersberger
+ - [https://ruppersberger.house.gov](https://ruppersberger.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman John Rutherford
+ - [https://rutherford.house.gov](https://rutherford.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Gregorio Kilili Camacho Sablan
+ - [https://sablan.house.gov](https://sablan.house.gov)
+ - date_published: 2024-06-27T14:00:39.435596+00:00
+
+ ## Representative Maria Salazar
+ - [https://salazar.house.gov](https://salazar.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Representative Andrea Salinas
+ - [https://salinas.house.gov](https://salinas.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Sara Jacobs Of California's 51st District
+ - [https://sarajacobs.house.gov](https://sarajacobs.house.gov)
+ - date_published: 2024-06-27T14:17:37.914612+00:00
+
+ ## Congressman John Sarbanes
+ - [https://sarbanes.house.gov](https://sarbanes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Steve Scalise
+ - [https://scalise.house.gov](https://scalise.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congresswoman Mary Gay Scanlon
+ - [https://scanlon.house.gov](https://scanlon.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congresswoman Jan Schakowsky
+ - [https://schakowsky.house.gov](https://schakowsky.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home
+ - [https://schiff.house.gov](https://schiff.house.gov)
+ - date_published: 2024-06-27T14:14:10.003010+00:00
+
+ ## Congressman Brad Schneider
+ - [https://schneider.house.gov](https://schneider.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Representative Hillary Scholten
+ - [https://scholten.house.gov](https://scholten.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Kim Schrier
+ - [https://schrier.house.gov](https://schrier.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman Schweikert – Arizona's 1st District
+ - [https://schweikert.house.gov](https://schweikert.house.gov)
+ - date_published: 2024-06-27T14:01:14.209421+00:00
+
+ ## House Committee on Science Space & Tech - Republicans
+ - [http://science.house.gov](http://science.house.gov)
+ - date_published: 2024-06-23T13:24:45.316515+00:00
+
+ ## United States Congressman Scott Peters
+ - [https://scottpeters.house.gov](https://scottpeters.house.gov)
+ - date_published: 2024-06-27T14:12:08.964046+00:00
+
  ## | house.gov
  - [https://search.house.gov](https://search.house.gov)
  - date_published: 2024-06-27T14:02:37.034070+00:00
@@ -3829,192 +4017,4 @@
  ## Gray's Reef National Marine Sanctuary
  - [https://graysreef.noaa.gov](https://graysreef.noaa.gov)
  - date_published: 2024-10-14T21:53:49.293012+00:00
-
- ## NOAA - Global Systems Laboratory
- - [https://gsl.noaa.gov](https://gsl.noaa.gov)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Hawaiian Islands Humpback Whale National Marine Sanctuary
- - [https://hawaiihumpbackwhale.noaa.gov](https://hawaiihumpbackwhale.noaa.gov)
- - date_published: 2024-10-14T21:54:11.532150+00:00
-
- ## NOAA HF Radar Server
- - [https://hfradar.ndbc.noaa.gov](https://hfradar.ndbc.noaa.gov)
- - date_published: 2024-10-30T00:33:35.471140+00:00
-
- ## ICOADS
- - [http://icoads.noaa.gov](http://icoads.noaa.gov)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## InteractiveNWS
- - [https://inws.ncep.noaa.gov](https://inws.ncep.noaa.gov)
- - date_published: 2024-03-26T15:58:12+00:00
-
- ## Home - The U.S. Integrated Ocean Observing System (IOOS)
- - [https://ioos.noaa.gov](https://ioos.noaa.gov)
- - date_published: 2024-08-16T20:51:31+00:00
-
- ## Access rights validated
- - [https://iris.ncep.noaa.gov](https://iris.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:15.364806+00:00
-
- ## NOAA Central Library
- - [https://library.noaa.gov](https://library.noaa.gov)
- - date_published: 2024-06-29T17:11:14.007368+00:00
-
- ## NCEP Meteorological Assimilation Data Ingest System (MADIS)
- - [https://madis-data.ncep.noaa.gov](https://madis-data.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:20.845923+00:00
-
- ## Model Analyses and Guidance
- - [http://mag.ncep.noaa.gov](http://mag.ncep.noaa.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Monitor National Marine Sanctuary
- - [https://monitor.noaa.gov](https://monitor.noaa.gov)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Monterey Bay National Marine Sanctuary Home Page
- - [https://montereybay.noaa.gov](https://montereybay.noaa.gov)
- - date_published: 2024-10-14T21:53:52.990975+00:00
-
- ## National Centers for Environmental Information (NCEI)
- - [https://ncdc.noaa.gov](https://ncdc.noaa.gov)
- - date_published: 2024-05-08T11:33:04.384732+00:00
-
- ## National Centers for Environmental Information (NCEI)
- - [https://ncei.noaa.gov](https://ncei.noaa.gov)
- - date_published: 2023-10-25T19:24:22.011014+00:00
-
- ## NOAA National Centers for Environmental Information (NCEI)
- - [https://ngdc.noaa.gov](https://ngdc.noaa.gov)
- - date_published: 2024-08-13T20:22:33+00:00
-
- ## National Hurricane Center
- - [https://nhc.noaa.gov](https://nhc.noaa.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## National Oceanic and Atmospheric Administration
- - [https://noaa.gov](https://noaa.gov)
- - date_published: 2024-06-16T22:48:28+00:00
-
- ## NOMADS at ncep.noaa.gov
- - [https://nomads.ncep.noaa.gov](https://nomads.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:02.973640+00:00
-
- ## Sanctuary Nomination Process
- - [https://nominate.noaa.gov](https://nominate.noaa.gov)
- - date_published: 2024-10-14T21:53:54.430184+00:00
-
- ## nowCOAST
- - [https://nowcoast.noaa.gov](https://nowcoast.noaa.gov)
- - date_published: 2024-07-31T23:47:46+00:00
-
- ## Home: NOAA Ocean Exploration
- - [https://oceanexplorer.noaa.gov](https://oceanexplorer.noaa.gov)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## NOAA's National Ocean Service
- - [https://oceanservice.noaa.gov](https://oceanservice.noaa.gov)
- - date_published: 2023-10-25T19:23:48.997984+00:00
-
- ## Upper Ocean Heat Content Anomaly | Ocean Climate
- - [http://oceans.pmel.noaa.gov](http://oceans.pmel.noaa.gov)
- - date_published: 2024-09-16T20:30:17.785332+00:00
-
- ## Ocean Today | Watch. Discover. Learn. | Ocean Today videos focus on both the ocean's influence on us and our influence upon the ocean.
- - [https://oceantoday.noaa.gov](https://oceantoday.noaa.gov)
- - date_published: 2014-12-08T00:00:00+00:00
-
- ## Olympic Coast National Marine Sanctuary
- - [https://olympiccoast.noaa.gov](https://olympiccoast.noaa.gov)
- - date_published: 2024-10-14T21:53:50.938750+00:00
-
- ## GeoServer: Redirecting
- - [https://opengeo.ncep.noaa.gov](https://opengeo.ncep.noaa.gov)
- - date_published: 2020-06-29T15:04:16+00:00
-
- ## Climate Prediction Center
- - [https://origin.cpc.ncep.noaa.gov](https://origin.cpc.ncep.noaa.gov)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home: NOAA Physical Sciences Laboratory
- - [https://psl.noaa.gov](https://psl.noaa.gov)
- - date_published: 2024-09-16T21:09:39.572424+00:00
-
- ## NWS Level II Radar Receive Status
- - [https://radar2pub.ncep.noaa.gov](https://radar2pub.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:11+00:00
-
- ## NWS Level III Radar System Site Status
- - [https://radar3pub.ncep.noaa.gov](https://radar3pub.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:07.841299+00:00
-
- ## Rapid Refresh (RAP)
- - [https://rapidrefresh.noaa.gov](https://rapidrefresh.noaa.gov)
- - date_published: 2024-08-14T20:56:08.125199+00:00
-
- ## Welcome to the NOAA Institutional Repository
- - [https://repository.library.noaa.gov](https://repository.library.noaa.gov)
- - date_published: 2024-07-08T13:23:53+00:00
-
- ## NOAA Research
- - [https://research.noaa.gov](https://research.noaa.gov)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## NOAA Office of National Marine Sanctuaries
- - [http://sanctuaries.noaa.gov](http://sanctuaries.noaa.gov)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Homepage | National Sea Grant College Program - NOAA Sea Grant
- - [http://seagrant.noaa.gov](http://seagrant.noaa.gov)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.noaa.gov](https://search.noaa.gov)
- - date_published: 2024-06-16T22:51:47.030347+00:00
-
- ## Index of /
- - [https://services.swpc.noaa.gov](https://services.swpc.noaa.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Science On a Sphere
- - [https://sos.noaa.gov](https://sos.noaa.gov)
- - date_published: 2023-10-25T19:24:08.336867+00:00
-
- ## STAR - NOAA / NESDIS / Center for Satellite Applications and Research
- - [https://star.nesdis.noaa.gov](https://star.nesdis.noaa.gov)
- - date_published: 2023-10-25T19:24:30.758583+00:00
-
- ## Stellwagen Bank National Marine Sanctuary
- - [https://stellwagen.noaa.gov](https://stellwagen.noaa.gov)
- - date_published: 2024-10-14T21:54:16.356464+00:00
-
- ## National Geodetic Survey - Emergency Response Imagery Index
- - [https://storms.ngs.noaa.gov](https://storms.ngs.noaa.gov)
- - date_published: 2024-05-09T14:53:04+00:00
-
- ## Homepage | NOAA / NWS Space Weather Prediction Center
- - [https://swpc.noaa.gov](https://swpc.noaa.gov)
- - date_published: 2023-10-25T19:24:35.156999+00:00
-
- ## Index of /
- - [http://tgftp.ncep.noaa.gov](http://tgftp.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:11.823004+00:00
-
- ## Thunder Bay National Marine Sanctuary
- - [https://thunderbay.noaa.gov](https://thunderbay.noaa.gov)
- - date_published: 2024-10-14T21:54:09.773987+00:00
-
- ## NOAA Tides and Currents
- - [https://tidesandcurrents.noaa.gov](https://tidesandcurrents.noaa.gov)
- - date_published: 2024-06-19T17:49:23.602898+00:00
-
- ## NOAA/NOS's VDatum 4.7: Vertical Datums Transformation
- - [http://vdatum.noaa.gov](http://vdatum.noaa.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## How to Resuscitate a Sea Turtle
- - [https://videos.fisheries.noaa.gov](https://videos.fisheries.noaa.gov)
- - date_published: 2024-08-19T03:48:05.248746+00:00
 

@@ -1,3 +1,195 @@
+ ## ZNC
+ - [https://wiki.znc.in](https://wiki.znc.in)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## ZNC
+ - [https://znc.in](https://znc.in)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.in](https://www2.zoetis.in)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Zoho CRM | Top-rated Sales CRM Software by Customers
+ - [https://crm.zoho.in](https://crm.zoho.in)
+ - date_published: 2024-08-22T07:05:09+00:00
+
+ ## One stop recruitment solution | Talent Acquisition Software - Zoho Recruit
+ - [https://recruit.zoho.in](https://recruit.zoho.in)
+ - date_published: 2023-10-30T09:46:33+00:00
+
+ ## Zoho SalesIQ | The Customer Engagement Platform For Your Business
+ - [https://salesiq.zoho.in](https://salesiq.zoho.in)
+ - date_published: 2023-09-21T11:13:50+00:00
+
+ ## Zoho Web Fonts
+ - [https://webfonts.zoho.in](https://webfonts.zoho.in)
+ - date_published: 2024-10-15T21:49:52.819224+00:00
+
+ ## iitm
+ - [https://iitm.zohobackstage.in](https://iitm.zohobackstage.in)
+ - date_published: 2024-10-15T14:13:35.160646+00:00
+
+ ## Zoho CRM | Top-rated Sales CRM Software by Customers
+ - [https://crm.zohopublic.in](https://crm.zohopublic.in)
+ - date_published: 2024-09-24T06:47:21+00:00
+
+ ## Form Builder | Create Free Online Forms - Zoho Forms
+ - [https://forms.zohopublic.in](https://forms.zohopublic.in)
+ - date_published: 2024-01-25T07:08:01+00:00
+
+ ## Zoho SalesIQ | The Customer Engagement Platform For Your Business
+ - [https://salesiq.zohopublic.in](https://salesiq.zohopublic.in)
+ - date_published: 2023-09-21T11:13:50+00:00
+
+ ## Zoho WorkDrive
+ - [https://workdrive.zohopublic.in](https://workdrive.zohopublic.in)
+ - date_published: 2024-10-15T21:49:41.394155+00:00
+
+ ## Page does not exist
+ - [https://oneplus.zohorecruit.in](https://oneplus.zohorecruit.in)
+ - date_published: 2024-06-30T05:29:47.638763+00:00
+
+ ## Careers at Walnut Folks Group - Confluencr & Intent Farm
+ - [https://walnutfolks.zohorecruit.in](https://walnutfolks.zohorecruit.in)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Zombie Tracker
+ - [https://zombietracker.in](https://zombietracker.in)
+ - date_published: 2024-04-28T01:40:46.055846+00:00
+
+ ## EcoEarth | online lighting shop
+ - [http://www.ecoearth.ind.in](http://www.ecoearth.ind.in)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Sportswear for Gym, Running, and More: Activewear for Men & Women
+ - [https://www.hummel.net.in](https://www.hummel.net.in)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## IJMR | International Journal
+ - [http://www.ijmr.net.in](http://www.ijmr.net.in)
+ - date_published: 2024-10-29T16:55:31.506286+00:00
+
+ ## Welcome to www.love.net.in || Home - list of domains
+ - [http://www.love.net.in](http://www.love.net.in)
+ - date_published: 2024-06-29T01:58:26.863032+00:00
+
+ ## Public Contribution Portal | Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
+ - [https://akam.nic.in](https://akam.nic.in)
+ - date_published: 2024-04-28T01:44:53.175047+00:00
+
+ ## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
+ - [https://amritmahotsav.nic.in](https://amritmahotsav.nic.in)
+ - date_published: 2023-10-25T19:31:59.115176+00:00
+
+ ## Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
+ - [https://cmsadmin.amritmahotsav.nic.in](https://cmsadmin.amritmahotsav.nic.in)
+ - date_published: 2024-04-28T01:44:14.468429+00:00
+
+ ## Prime Ministers of India
+ - [https://archivepmo.nic.in](https://archivepmo.nic.in)
+ - date_published: 2020-03-18T09:47:23+00:00
+
+ ## Bhavishya 9.3(05082024): (Pension Sanction & Payment Tracking System) An Initiative of D/o of Pension & Pensioners' Welfare
+ - [https://bhavishya.nic.in](https://bhavishya.nic.in)
+ - date_published: 2024-08-08T13:18:41.352840+00:00
+
+ ## ..: BPR&D :..
+ - [https://bprd.nic.in](https://bprd.nic.in)
+ - date_published: 2024-08-08T13:32:02.347004+00:00
+
+ ## CBSE RESULTS
+ - [https://cbseresults.nic.in](https://cbseresults.nic.in)
+ - date_published: 2024-05-16T11:09:18+00:00
+
+ ## Central Institute of Educational Technology | A Constituent unit of NCERT
+ - [https://ciet.nic.in](https://ciet.nic.in)
+ - date_published: 2024-09-11T17:27:46.905501+00:00
+
+ ## Home | Department of Consumer Affairs | Ministry of Consumer Affairs Food and Public Distribution | Government of India
+ - [https://consumeraffairs.nic.in](https://consumeraffairs.nic.in)
+ - date_published: 2024-04-28T00:27:39.517081+00:00
+
+ ## CPAO – Central Pension Accounting Office
+ - [https://cpao.nic.in](https://cpao.nic.in)
+ - date_published: 2024-04-28T00:30:15.910301+00:00
+
+ ## Central Teacher Eligibility Test  | CTET | India
+ - [https://ctet.nic.in](https://ctet.nic.in)
+ - date_published: 2024-08-08T12:33:57.450792+00:00
+
+ ## Central Vigilance Commission
+ - [https://pledge.cvc.nic.in](https://pledge.cvc.nic.in)
+ - date_published: 2023-10-30T06:33:49+00:00
+
+ ## Dashboard
+ - [https://mib.dashboard.nic.in](https://mib.dashboard.nic.in)
+ - date_published: 2024-08-08T14:13:31.271200+00:00
+
+ ## delhitrafficpolice
+ - [https://delhitrafficpolice.nic.in](https://delhitrafficpolice.nic.in)
+ - date_published: 2024-07-20T09:13:30+00:00
+
+ ## CCIS
+ - [https://doptcirculars.nic.in](https://doptcirculars.nic.in)
+ - date_published: 2024-08-08T18:38:40.350507+00:00
+
+ ## eDaakhil - Case Filing Made Easy
+ - [https://edaakhil.nic.in](https://edaakhil.nic.in)
+ - date_published: 2024-05-03T07:45:53+00:00
+
+ ## e-Granthalaya 4.0
+ - [https://eg4.nic.in](https://eg4.nic.in)
+ - date_published: 2024-03-12T09:15:17+00:00
+
+ ## Integrated Government Online Directory
+ - [http://goidirectory.nic.in](http://goidirectory.nic.in)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home :: Integrated Disease Surveillance Programme (IDSP)
+ - [http://idsp.nic.in](http://idsp.nic.in)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## India Code: Home
+ - [https://indiacode.nic.in](https://indiacode.nic.in)
+ - date_published: 2024-08-08T13:32:12.939577+00:00
+
+ ## IOCL eProcurement System
+ - [https://iocletenders.nic.in](https://iocletenders.nic.in)
+ - date_published: 2022-05-23T07:04:52+00:00
+
+ ## Digital Sansad
+ - [https://loksabha.nic.in](https://loksabha.nic.in)
+ - date_published: 2024-08-08T15:04:27.446548+00:00
+
+ ## Medical Counselling Committee (MCC) | India
+ - [https://mcc.nic.in](https://mcc.nic.in)
+ - date_published: 2024-08-08T18:39:40.050820+00:00
+
+ ## Pradhan Mantri Poshan Shakti Nirman (PM POSHAN) in India
+ - [http://mdm.nic.in](http://mdm.nic.in)
+ - date_published: 2022-07-21T18:19:41+00:00
+
+ ## Protocol Division, Ministry of External Affairs, Government of India
+ - [https://meaprotocol.nic.in](https://meaprotocol.nic.in)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ministry of Food Processing Industries | GOI
+ - [https://mofpi.nic.in](https://mofpi.nic.in)
+ - date_published: 2024-04-28T00:26:31.533601+00:00
+
+ ## Ministry of Road Transport and Highways.
+ - [https://morth.nic.in](https://morth.nic.in)
+ - date_published: 2024-07-20T09:10:17+00:00
+
+ ## NATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION
+ - [http://ncdrc.nic.in](http://ncdrc.nic.in)
+ - date_published: 2024-08-02T09:52:06+00:00
+
+ ## National Mission on Monuments and Antiquities
+ - [https://nmma.nic.in](https://nmma.nic.in)
+ - date_published: 2024-08-08T11:49:13.639095+00:00
+
  ## Joint Entrance Examination (Main) | India
  - [https://jeemain.nta.nic.in](https://jeemain.nta.nic.in)
  - date_published: 2024-08-19T20:29:14.244846+00:00
@@ -3838,197 +4030,4 @@ built-in pre- and post-processing facilities
  ## Emu Loader: Multiple Systems Frontend
  - [https://emuloader.mameworld.info](https://emuloader.mameworld.info)
  - date_published: 2024-06-14T15:49:00.405399+00:00
-
- ## Unofficial Highscore.dat
- - [https://highscore.mameworld.info](https://highscore.mameworld.info)
- - date_published: 2024-06-14T15:50:22.325751+00:00
-
- ## HispaMAME Frontend
- - [https://hispamame.mameworld.info](https://hispamame.mameworld.info)
- - date_published: 2024-06-14T15:49:54.436644+00:00
-
- ## HitF12!
- - [https://hitf12.mameworld.info](https://hitf12.mameworld.info)
- - date_published: 2024-06-14T15:52:31.806755+00:00
-
- ## HotRod - Unofficial support
- - [https://hotrod.mameworld.info](https://hotrod.mameworld.info)
- - date_published: 2024-06-14T15:50:17.762987+00:00
-
- ## MAMEICONS's BACK !
- - [https://icons.mameworld.info](https://icons.mameworld.info)
- - date_published: 2024-06-14T15:53:11.947758+00:00
-
- ## MAME for iPAQ Pocket PC
- - [https://imame.mameworld.info](https://imame.mameworld.info)
- - date_published: 2024-06-14T15:53:15.301846+00:00
-
- ## FrontEnd XMAME
- - [https://lanzamame.mameworld.info](https://lanzamame.mameworld.info)
- - date_published: 2024-06-14T15:51:04.961897+00:00
-
- ## MadeInMAME32 home page
- - [https://madeinmame.mameworld.info](https://madeinmame.mameworld.info)
- - date_published: 2024-06-14T15:49:04.962060+00:00
-
- ## MameCat32
- - [https://mamecat32.mameworld.info](https://mamecat32.mameworld.info)
- - date_published: 2024-06-14T15:48:49.091917+00:00
-
- ## MameCE3 by Techmaster
- - [https://mamece3.mameworld.info](https://mamece3.mameworld.info)
- - date_published: 2024-06-14T15:48:01.620224+00:00
-
- ## MAME Classic
- - [https://mameclassic.mameworld.info](https://mameclassic.mameworld.info)
- - date_published: 2024-06-14T15:48:44.439325+00:00
-
- ## M.A.M.E. F.E. Official Web Site
- - [https://mamefe.mameworld.info](https://mamefe.mameworld.info)
- - date_published: 2024-06-14T15:51:39.453387+00:00
-
- ## MASH's MAMEINFO
- - [https://mameinfo.mameworld.info](https://mameinfo.mameworld.info)
- - date_published: 2024-06-14T15:51:58.444619+00:00
-
- ## Tafoid's Emulator Utilities [MAMELOAD-ML TNG]
- - [https://mameload.mameworld.info](https://mameload.mameworld.info)
- - date_published: 2024-06-14T15:48:32.379837+00:00
-
- ## Mamemix
- - [https://mamemix.mameworld.info](https://mamemix.mameworld.info)
- - date_published: 2024-06-14T15:52:54.455272+00:00
-
- ## MAMEWorld - The Largest MAME Resource on the Net
- - [https://mameworld.info](https://mameworld.info)
- - date_published: 2024-04-28T00:00:00+00:00
- - tags: ['emulator', 'mame']
-
- ## The Massive Mame Project - Your One Stop Arcade Cabinet Resource!
- - [https://massive.mameworld.info](https://massive.mameworld.info)
- - date_published: 2024-06-14T15:50:26.455656+00:00
-
- ## MAME Content Manager Plus
- - [https://mcm.mameworld.info](https://mcm.mameworld.info)
- - date_published: 2024-06-14T15:49:35.206605+00:00
-
- ## MiSFiTMAME
- - [https://misfitmame.mameworld.info](https://misfitmame.mameworld.info)
- - date_published: 2024-06-14T15:48:58.791090+00:00
-
- ## Mr. Do!'s Arcade
- - [https://mrdo.mameworld.info](https://mrdo.mameworld.info)
- - date_published: 2024-06-14T15:49:34.139652+00:00
-
- ## Orc's Gaff
- - [https://orc.mameworld.info](https://orc.mameworld.info)
- - date_published: 2024-06-14T15:48:18.018277+00:00
-
- ## PC and Console to JAMMA Page
- - [https://pc2jamma.mameworld.info](https://pc2jamma.mameworld.info)
- - date_published: 2024-06-14T15:51:15.756087+00:00
-
- ## PhilWIP
- - [https://philwip.mameworld.info](https://philwip.mameworld.info)
- - date_published: 2024-06-14T15:49:50.913780+00:00
-
- ## Ranger_lennier's MAME Page
- - [https://ranger.mameworld.info](https://ranger.mameworld.info)
- - date_published: 2024-06-14T15:50:57.677922+00:00
-
- ## Arbee's WIP Emporium
- - [https://rbelmont.mameworld.info](https://rbelmont.mameworld.info)
- - date_published: 2024-06-14T15:51:21.937279+00:00
-
- ## Reip's MAME Wip
- - [https://reip.mameworld.info](https://reip.mameworld.info)
- - date_published: 2024-06-14T15:52:48.607034+00:00
-
- ## Raspy tongue... Retro View - Retrogaming and emulation
- - [https://retroview.mameworld.info](https://retroview.mameworld.info)
- - date_published: 2024-06-14T15:50:02.269959+00:00
-
- ## Twisty's MAME Samples Collection
- - [https://samples.mameworld.info](https://samples.mameworld.info)
- - date_published: 2024-06-14T15:51:27.649022+00:00
-
- ## SetCleaner
- - [https://setcleaner.mameworld.info](https://setcleaner.mameworld.info)
- - date_published: 2014-11-08T08:34:05+00:00
-
- ## smf.mameworld.info
- - [https://smf.mameworld.info](https://smf.mameworld.info)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Team Japump!!! | Since   11/19/1997
- - [https://teamjapump.mameworld.info](https://teamjapump.mameworld.info)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Tiger-Heli's Arcade Pages
- - [https://tigerheli.mameworld.info](https://tigerheli.mameworld.info)
- - date_published: 2024-06-14T15:48:41.661951+00:00
-
- ## Tourniquet's MAME News
- - [https://tourniquet.mameworld.info](https://tourniquet.mameworld.info)
- - date_published: 2024-06-14T15:48:31.188545+00:00
-
- ## Turbo MAME - FrontEnd
- - [https://turbomame.mameworld.info](https://turbomame.mameworld.info)
- - date_published: 2024-06-14T15:50:40.954712+00:00
-
- ## ultrastyle
- - [https://ultrastyle.mameworld.info](https://ultrastyle.mameworld.info)
- - date_published: 2024-06-14T15:50:44.436349+00:00
-
- ## unMAMEd arcade games
- - [https://unmamed.mameworld.info](https://unmamed.mameworld.info)
- - date_published: 2024-06-14T15:52:08.271546+00:00
-
- ## Ville's Development Log
- - [https://vlinde.mameworld.info](https://vlinde.mameworld.info)
- - date_published: 2024-06-14T15:51:30.233789+00:00
-
- ## vsyncmame
- - [https://vsynchmame.mameworld.info](https://vsynchmame.mameworld.info)
- - date_published: 2024-06-14T15:49:25.319321+00:00
-
- ## zMame - MAME for the Zaurus
- - [https://zmame.mameworld.info](https://zmame.mameworld.info)
- - date_published: 2024-06-14T15:53:14.372682+00:00
-
- ## Better Ears - Ear Training and Music Theory for Mac, iOS and Android
- - [https://better-ears.mamp.info](https://better-ears.mamp.info)
- - date_published: 2024-09-09T20:22:36.112780+00:00
-
- ## B Flat - lear sight reading on your iPhone or iPad
- - [https://b-flat.mamp.info](https://b-flat.mamp.info)
- - date_published: 2024-09-09T20:22:38.017068+00:00
-
- ## MAMP & MAMP PRO - your local web development solution for PHP and WordPress development
- - [https://mamp.info](https://mamp.info)
- - date_published: 2024-05-12T06:39:23.679542+00:00
-
- ## Receiver - The Radio App for iOS, Android, Fire TV
- - [https://receiver.mamp.info](https://receiver.mamp.info)
- - date_published: 2024-09-09T20:22:37.330451+00:00
-
- ## timeEdition - Time Tracking Software for macOS, iOS and Android
- - [https://timeedition.mamp.info](https://timeedition.mamp.info)
- - date_published: 2024-09-09T20:22:35.372459+00:00
-
- ## Manifest 2023
- - [https://manifest2023.info](https://manifest2023.info)
- - date_published: 2024-07-07T07:16:25.390850+00:00
-
- ## mapf.info | Main / Welcome!
- - [http://mapf.info](http://mapf.info)
- - date_published: 2024-09-04T19:02:11.793150+00:00
-
- ## MARC: Mailing list ARChives
- - [https://marc.info](https://marc.info)
- - date_published: 2023-10-25T19:33:43.196860+00:00
-
- ## Marc Richter's personal site
- - [https://www.marc-richter.info](https://www.marc-richter.info)
- - date_published: 2024-06-28T20:08:50.988661+00:00
 

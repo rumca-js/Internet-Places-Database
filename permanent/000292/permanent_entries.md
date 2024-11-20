@@ -1,3 +1,195 @@
+ ## ~green
+ - [https://tilde.green](https://tilde.green)
+ - date_published: 2024-07-20T21:10:36.382387+00:00
+
+ ## We Were One of the First  Crypto Exchanges
+ - [https://100x.group](https://100x.group)
+ - date_published: 2024-08-19T09:43:33+00:00
+
+ ## A1 Group - A1 Group
+ - [https://www.a1.group](https://www.a1.group)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## AIDOS Lab
+ - [https://aidos.group](https://aidos.group)
+ - date_published: 2024-07-08T08:43:57+00:00
+
+ ## BCW Group
+ - [https://www.bcw.group](https://www.bcw.group)
+ - date_published: 2024-09-12T19:21:48.205657+00:00
+
+ ## Booklet
+ - [https://booklet.group](https://booklet.group)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## btn.group
+ - [https://btn.group](https://btn.group)
+ - date_published: 2024-07-03T03:23:49.989495+00:00
+
+ ## Computerland Group – Computerland Group
+ - [https://computerland.group](https://computerland.group)
+ - date_published: 2024-09-16T02:06:42.150067+00:00
+
+ ## elephant.crime.group
+ - [https://elephant.crime.group](https://elephant.crime.group)
+ - date_published: 2024-07-02T13:29:10.212113+00:00
+
+ ## home - Cryptomind Group
+ - [https://cryptomind.group](https://cryptomind.group)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## CTIA GROUP LTD
+ - [https://en.ctia.group](https://en.ctia.group)
+ - date_published: 2024-06-27T05:30:31.342073+00:00
+
+ ## Daman Games
+ - [https://damangames.group](https://damangames.group)
+ - date_published: 2024-08-04T13:10:52+00:00
+
+ ## DFG - An Investment Firm Empowering Blockchain & Web 3.0
+ - [https://dfg.group](https://dfg.group)
+ - date_published: 2024-07-04T09:53:53.763970+00:00
+
+ ## ADSB Exchange
+ - [https://adsbx.discourse.group](https://adsbx.discourse.group)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## C3 Language Forum
+ - [https://c3lang.discourse.group](https://c3lang.discourse.group)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Chapel Programming Language
+ - [https://chapel.discourse.group](https://chapel.discourse.group)
+ - date_published: 2024-08-18T20:08:37.372564+00:00
+
+ ## Chronicles of George Forums
+ - [https://cog.discourse.group](https://cog.discourse.group)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Conda Community Forum
+ - [https://conda.discourse.group](https://conda.discourse.group)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Coq
+ - [https://coq.discourse.group](https://coq.discourse.group)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Dask Forum
+ - [https://dask.discourse.group](https://dask.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Dragonfly
+ - [https://dragonfly.discourse.group](https://dragonfly.discourse.group)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## The Eldraeverse
+ - [https://eldraeverse.discourse.group](https://eldraeverse.discourse.group)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## TC39
+ - [https://es.discourse.group](https://es.discourse.group)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## farmOS
+ - [https://farmos.discourse.group](https://farmos.discourse.group)
+ - date_published: 2024-10-31T04:43:17.555961+00:00
+
+ ## Fortran Discourse - Fortran open source community
+ - [https://fortran-lang.discourse.group](https://fortran-lang.discourse.group)
+ - date_published: 2023-10-25T19:27:46.377370+00:00
+
+ ## Genode Users Forum
+ - [https://genode.discourse.group](https://genode.discourse.group)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## igraph support forum
+ - [https://igraph.discourse.group](https://igraph.discourse.group)
+ - date_published: 2024-10-05T00:00:00+00:00
+
+ ## ITensor Discourse
+ - [https://itensor.discourse.group](https://itensor.discourse.group)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Kanboard
+ - [https://kanboard.discourse.group](https://kanboard.discourse.group)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Kopia Forum
+ - [https://kopia.discourse.group](https://kopia.discourse.group)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## LibrePCB Discussion
+ - [https://librepcb.discourse.group](https://librepcb.discourse.group)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## LLVM Discussion Forums
+ - [https://llvm.discourse.group](https://llvm.discourse.group)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## melonJS
+ - [https://melonjs.discourse.group](https://melonjs.discourse.group)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Meshtastic
+ - [https://meshtastic.discourse.group](https://meshtastic.discourse.group)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Neovim Discourse
+ - [https://neovim.discourse.group](https://neovim.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## The Nivenly Foundation
+ - [https://nivenly.discourse.group](https://nivenly.discourse.group)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Numba Discussion
+ - [https://numba.discourse.group](https://numba.discourse.group)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## GNU Octave
+ - [https://octave.discourse.group](https://octave.discourse.group)
+ - date_published: 2024-07-08T11:33:32.450762+00:00
+
+ ## OpenTURNS
+ - [https://openturns.discourse.group](https://openturns.discourse.group)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## openziti
+ - [https://openziti.discourse.group](https://openziti.discourse.group)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Racket Discourse
+ - [https://racket.discourse.group](https://racket.discourse.group)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Syncloud
+ - [https://syncloud.discourse.group](https://syncloud.discourse.group)
+ - date_published: 2024-10-31T05:31:39.258966+00:00
+
+ ## TagSpaces Forum
+ - [https://tagspaces.discourse.group](https://tagspaces.discourse.group)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Tiledesk
+ - [https://tiledesk.discourse.group](https://tiledesk.discourse.group)
+ - date_published: 2024-10-30T19:37:02.460381+00:00
+
+ ## Trio forum
+ - [https://trio.discourse.group](https://trio.discourse.group)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Universal Blue
+ - [https://universal-blue.discourse.group](https://universal-blue.discourse.group)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## United States Chess Federation
+ - [https://uschess.discourse.group](https://uschess.discourse.group)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Vaultwarden Forum (formerly Bitwarden_RS)
+ - [https://vaultwarden.discourse.group](https://vaultwarden.discourse.group)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Wazo Platform
  - [https://wazo-platform.discourse.group](https://wazo-platform.discourse.group)
  - date_published: 2024-10-31T04:40:54.070318+00:00
@@ -3822,196 +4014,4 @@
  ## Трофейный дом - Таксидермия, оформление охотничьих трофеев, создание интерьеров, чучела животных (Киев, Украина)
  - [http://trofey.house](http://trofey.house)
  - date_published: 2024-08-20T05:36:19.675692+00:00
-
- ## m.unix.house
- - [https://m.unix.house](https://m.unix.house)
- - date_published: 2024-06-23T08:56:52.667679+00:00
-
- - [https://abby.how](https://abby.how)
- - date_published: 2024-01-09T03:31:50.062520+00:00
-
- ## Lifecycle & Governance
- - [http://apis.how](http://apis.how)
- - date_published: 2023-03-17T17:41:22+00:00
-
- ## Everything Engineering
- - [https://backend.how](https://backend.how)
- - date_published: 2024-07-16T18:17:07.856811+00:00
-
- ## New
- - [https://beecreative.how](https://beecreative.how)
- - date_published: 2023-12-20T17:04:27+00:00
-
- ## Chester's Garden
- - [https://chester.how](https://chester.how)
- - date_published: 2024-08-18T04:58:37.847834+00:00
-
- ## Is It Toxic To? | Check if a plant is toxic to an animal
- - [https://iitt.chester.how](https://iitt.chester.how)
- - date_published: 2024-01-09T03:31:51.181707+00:00
-
- ## Advanced Tutorials: Empowering Elementor Users - Element How
- - [https://element.how](https://element.how)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Teach the world .how
- - [https://get.how](https://get.how)
- - date_published: 2024-05-10T05:47:13.815973+00:00
-
- ## HHH.how
- - [https://hhh.how](https://hhh.how)
- - date_published: 2024-07-02T23:32:35.752012+00:00
-
- ## Hollow (Netflix OSS)
- - [https://hollow.how](https://hollow.how)
- - date_published: 2023-04-26T21:41:11+00:00
-
- ## Houdini.how
- - [https://houdini.how](https://houdini.how)
- - date_published: 2024-06-23T04:02:40.998447+00:00
-
- ## Ian DeHaan
- - [https://ian.how](https://ian.how)
- - date_published: 2024-06-04T02:34:15+00:00
-
- ## Decentralized publishing for the web
- - [https://nostr.how](https://nostr.how)
- - date_published: 2024-06-15T22:32:25.057659+00:00
-
- ## Pad.how | Bricoleur du dimanche mais en semaine !
- - [https://pad.how](https://pad.how)
- - date_published: 2024-07-12T17:57:40.909718+00:00
-
- ## Polymath — the app that makes maths fun
- - [https://polymath.how](https://polymath.how)
- - date_published: 2024-07-12T17:57:49.060551+00:00
-
- ## RxJS and Reactive Programming - Animations and visual lessons
- - [https://reactive.how](https://reactive.how)
- - date_published: 2024-07-12T17:57:48.155497+00:00
-
- ## REMOTE.HOW | Gabriele Proni | Substack
- - [https://remote.how](https://remote.how)
- - date_published: 2024-05-04T12:04:10.866696+00:00
-
- ## Ukraine Support Alliance at Stanford
- - [https://www.standwithukraine.how](https://www.standwithukraine.how)
- - date_published: 2024-08-18T22:58:30.108263+00:00
-
- ## Welcome - Taubyte Documentation
- - [https://tau.how](https://tau.how)
- - date_published: 2024-03-31T16:54:12+00:00
- - tags: ['open source']
-
- ## this.how index
- - [https://this.how](https://this.how)
- - date_published: 2023-10-25T19:28:11.834590+00:00
-
- ## 🧇 waffle.how
- - [https://waffle.how](https://waffle.how)
- - date_published: 2024-07-12T17:57:46.359291+00:00
-
- ## wilkie writes a thing
- - [https://wilkie.how](https://wilkie.how)
- - date_published: 2022-11-21T21:52:20+00:00
-
- ## 3M Science. Applied to Life.™ | 3M (East) AG Podružnica Republika Hrvatska
- - [https://www.3m.com.hr](https://www.3m.com.hr)
- - date_published: 2024-08-06T10:38:41.445047+00:00
-
- ## GGlam – Kozmetika i ljepota svaki dan
- - [http://www.glitter-glam.com.hr](http://www.glitter-glam.com.hr)
- - date_published: 2024-06-20T01:33:10.556158+00:00
-
- ## Besplatno obiteljsko stablo, genealogija, obiteljska povijest i DNK testiranje
- - [https://www.myheritage.com.hr](https://www.myheritage.com.hr)
- - date_published: 2024-10-30T07:55:27.824108+00:00
-
- ## Nela Dunato - Dobra vila dizajna - Dizajn logotipa i vizualnih identiteta
- - [https://neladunato.com.hr](https://neladunato.com.hr)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## NOD32 | nod32
- - [https://nod32.com.hr](https://nod32.com.hr)
- - date_published: 2024-09-12T07:33:13+00:00
-
- ## Njega Bebe, Razvoj i Pelene | Pampers HR
- - [https://www.pampers.com.hr](https://www.pampers.com.hr)
- - date_published: 2024-06-28T07:24:30+00:00
-
- ## PERI sistemi oplata i skela
- - [https://www.peri.com.hr](https://www.peri.com.hr)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Radio Sunce Split - najsunčaniji radio na svitu i okolici | Slušajte nas na 90,9 i 92,9
- - [https://www.radiosunce.com.hr](https://www.radiosunce.com.hr)
- - date_published: 2024-01-17T13:10:46+00:00
-
- ## SPARTOO | Obuća, odjeća i torbe | Besplatna dostava *.
- - [https://spartoo.com.hr](https://spartoo.com.hr)
- - date_published: 2024-09-11T18:33:36.918033+00:00
-
- ## Revive Adserver
- - [https://ads.split.com.hr](https://ads.split.com.hr)
- - date_published: 2024-09-24T22:12:40.807992+00:00
-
- ## Samo je jedan original - splitski.portal
- - [https://split.com.hr](https://split.com.hr)
- - date_published: 2024-06-16T04:19:39.161185+00:00
-
- ## Visa, lider u digitalnim plaćanjima
- - [https://visa.com.hr](https://visa.com.hr)
- - date_published: 2024-05-12T04:00:07.013711+00:00
-
- ## ZEISS Hrvatska
- - [https://www.zeiss.com.hr](https://www.zeiss.com.hr)
- - date_published: 2024-09-16T07:56:13.324519+00:00
-
- ## JoomBoos.24sata.hr
- - [https://joomboos.24sata.hr](https://joomboos.24sata.hr)
- - date_published: 2024-09-24T22:13:35.505436+00:00
-
- ## Udruga 3. zmaj
- - [http://3zmaj.hr](http://3zmaj.hr)
- - date_published: 2024-10-28T08:27:27.233900+00:00
-
- ## AAI@EduHr administracija
- - [https://administracija.aaiedu.hr](https://administracija.aaiedu.hr)
- - date_published: 2024-06-16T14:38:22.262935+00:00
-
- ## AAI@EduHr
- - [https://login.aaiedu.hr](https://login.aaiedu.hr)
- - date_published: 2023-03-23T04:59:42+00:00
-
- ## MojAAI@EduHr | Naslovnica
- - [https://moj.aaiedu.hr](https://moj.aaiedu.hr)
- - date_published: 2024-06-16T14:38:21.664762+00:00
-
- ## Registar resursa
- - [https://registar.aaiedu.hr](https://registar.aaiedu.hr)
- - date_published: 2024-06-16T14:38:26.131105+00:00
-
- ## AAI@EduHr | Autentikacijska i autorizacijska infrastruktura sustava znanosti i visokog obrazovanja u Republici Hrvatskoj
- - [https://www.aaiedu.hr](https://www.aaiedu.hr)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Moda online sa više od >1500 top modnih marki | ABOUT YOU
- - [https://m.aboutyou.hr](https://m.aboutyou.hr)
- - date_published: 2024-09-17T19:55:18+00:00
-
- ## Moda online sa više od >1500 top modnih marki | ABOUT YOU
- - [https://www.aboutyou.hr](https://www.aboutyou.hr)
- - date_published: 2024-09-17T19:55:18+00:00
-
- ## Addiko eBank
- - [https://ebank.addiko.hr](https://ebank.addiko.hr)
- - date_published: 2024-04-25T08:26:40+00:00
-
- ## Addiko eBank
- - [https://ecnet.addiko.hr](https://ecnet.addiko.hr)
- - date_published: 2024-09-18T12:37:59+00:00
-
- ## Addiko eBank
- - [https://ecorp.addiko.hr](https://ecorp.addiko.hr)
- - date_published: 2024-08-06T21:27:41+00:00
 

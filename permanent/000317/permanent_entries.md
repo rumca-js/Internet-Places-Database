@@ -1,3 +1,207 @@
+ ## Istituto Istruzione Superiore Boscardin Vicenza
+ - [https://www.boscardin.edu.it](https://www.boscardin.edu.it)
+ - date_published: 2024-10-13T07:08:09.158157+00:00
+
+ ## Istituto Tecnico Economico Statale "Caio Plinio Secondo"
+ - [https://www.caioplinio.edu.it](https://www.caioplinio.edu.it)
+ - date_published: 2024-10-13T06:50:14.775631+00:00
+
+ ## Istituto Istruzione Superiore L. Calabrese P. Levi San Pietro in Cariano
+ - [https://www.calabreselevi.edu.it](https://www.calabreselevi.edu.it)
+ - date_published: 2024-10-13T07:24:07.620331+00:00
+
+ ## I.I.S. Calvino – Istituto di Istruzione Superiore
+ - [https://calvino.edu.it](https://calvino.edu.it)
+ - date_published: 2024-10-13T06:50:05.245888+00:00
+
+ ## Campus DaVinci
+ - [https://campusdavinci.edu.it](https://campusdavinci.edu.it)
+ - date_published: 2024-10-13T07:02:10.254624+00:00
+
+ ## Istituto Statale Superiore "Carlo Anti" - Villafranca di Verona
+ - [https://www.carloanti.edu.it](https://www.carloanti.edu.it)
+ - date_published: 2024-10-13T07:33:46.378621+00:00
+
+ ## I.I.S.P.T.C. A. CASAGRANDE - F. CESI Terni
+ - [https://www.casagrandecesi.edu.it](https://www.casagrandecesi.edu.it)
+ - date_published: 2024-10-13T07:15:01.724704+00:00
+
+ ## Istituto di Istruzione Superiore Raffaele Casimiri Gualdo Tadino
+ - [https://www.casimiri.edu.it](https://www.casimiri.edu.it)
+ - date_published: 2024-10-07T08:56:44+00:00
+
+ ## I.T.E.T. CASSANDRO FERMI NERVI
+ - [https://www.cassandroferminervi.edu.it](https://www.cassandroferminervi.edu.it)
+ - date_published: 2024-10-13T06:59:44.815593+00:00
+
+ ## Home Page | I.I.S. CESTARI-RIGHI
+ - [https://www.cestari-righi.edu.it](https://www.cestari-righi.edu.it)
+ - date_published: 2024-10-13T07:14:44.003946+00:00
+
+ ## Istituto Tecnico Tecnologico Giacomo Chilesotti
+ - [https://www.chilesotti.edu.it](https://www.chilesotti.edu.it)
+ - date_published: 2024-10-13T07:33:56.208856+00:00
+
+ ## IISS Colamonico Chiarulli - Acquaviva delle Fonti
+ - [https://www.colamonicochiarulli.edu.it](https://www.colamonicochiarulli.edu.it)
+ - date_published: 2024-10-13T07:15:44.960507+00:00
+
+ ## Convitto Nazionale Statale Giordano Bruno – Maddaloni
+ - [https://www.convittogiordanobruno.edu.it](https://www.convittogiordanobruno.edu.it)
+ - date_published: 2024-10-13T07:05:51.315469+00:00
+
+ ## I.I.S. "G. Cossali" - Home
+ - [https://www.cossali.edu.it](https://www.cossali.edu.it)
+ - date_published: 2024-10-13T06:57:49+00:00
+
+ ## LICEO SCIENTIFICO M. CURIE Di PINEROLO
+ - [https://www.curiepinerolo.edu.it](https://www.curiepinerolo.edu.it)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## I.S.I.S. R. D’Aronco – Gemona del Friuli
+ - [https://daronco.edu.it](https://daronco.edu.it)
+ - date_published: 2024-10-13T06:51:25.447216+00:00
+
+ ## Istituto Istruzione Superiore Leonardo Da Vinci Carate Brianza
+ - [https://www.davincicarate.edu.it](https://www.davincicarate.edu.it)
+ - date_published: 2024-10-13T06:57:28.004293+00:00
+
+ ## Istituto Statale d'Istruzione Leonardo da Vinci - Cerea
+ - [https://www.davincicerea.edu.it](https://www.davincicerea.edu.it)
+ - date_published: 2024-10-13T07:11:44.112845+00:00
+
+ ## ITET LEONARDO DA VINCI
+ - [https://www.davincimilazzo.edu.it](https://www.davincimilazzo.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## I.T. Attilio Deffenu
+ - [https://www.deffenu.edu.it](https://www.deffenu.edu.it)
+ - date_published: 2024-10-13T07:21:27.142219+00:00
+
+ ## Home
+ - [https://www.defilippisgaldi.edu.it](https://www.defilippisgaldi.edu.it)
+ - date_published: 2024-10-13T06:56:45+00:00
+
+ ## IIS "A.M. de' Liguori" – Sito Ufficiale dell'IIS "A.M. de' Liguori"
+ - [https://www.deliguori.edu.it](https://www.deliguori.edu.it)
+ - date_published: 2024-10-13T07:02:57.563486+00:00
+
+ ## Istituto Istruzione Secondaria Superiore "Del Prete – Falcone"
+ - [https://www.delpretefalcone.edu.it](https://www.delpretefalcone.edu.it)
+ - date_published: 2024-10-13T07:16:44.212995+00:00
+
+ ## I.T.C. "E. DE NICOLA" - SAN GIOVANNI LA PUNTA - Home
+ - [https://www.denicola.edu.it](https://www.denicola.edu.it)
+ - date_published: 2024-10-13T07:23:20+00:00
+
+ ## Istituto Tecnico Economico e Tecnologico de Viti de Marco -
+ - [https://www.devitidemarco.edu.it](https://www.devitidemarco.edu.it)
+ - date_published: 2024-10-13T07:34:48.655620+00:00
+
+ ## ITIS Eustachio Divini – San Severino Marche
+ - [https://divini.edu.it](https://divini.edu.it)
+ - date_published: 2024-10-13T07:24:25.657479+00:00
+
+ ## Istituto Tecnico Statale Luigi Einaudi Correggio
+ - [https://www.einaudicorreggio.edu.it](https://www.einaudicorreggio.edu.it)
+ - date_published: 2024-10-13T07:24:16.863289+00:00
+
+ ## Liceo A. Einstein di Rimini – Il presente che diventa futuro
+ - [https://www.einsteinrimini.edu.it](https://www.einsteinrimini.edu.it)
+ - date_published: 2024-10-13T07:13:40.328152+00:00
+
+ ## Istituto di Istruzione Superiore Albert Einstein – Chi non si forma si ferma
+ - [https://www.einsteinvimercate.edu.it](https://www.einsteinvimercate.edu.it)
+ - date_published: 2024-10-13T07:04:05.258356+00:00
+
+ ## Istituto Tecnico Economico Enrico Tosi
+ - [https://www.etosi.edu.it](https://www.etosi.edu.it)
+ - date_published: 2024-10-13T07:10:54.129148+00:00
+
+ ## IISS Ettore Majorana
+ - [https://www.ettoremajorana.edu.it](https://www.ettoremajorana.edu.it)
+ - date_published: 2024-10-13T06:51:15.946429+00:00
+
+ ## Istituto di Istruzione Superiore "Euganeo" – Este (PD)
+ - [https://euganeo.edu.it](https://euganeo.edu.it)
+ - date_published: 2024-10-13T07:10:48.724802+00:00
+
+ ## Istituto d'Istruzione Superiore "Fazzini-Mercantini"
+ - [https://www.fazzinimercantini.edu.it](https://www.fazzinimercantini.edu.it)
+ - date_published: 2024-10-13T06:50:17.907510+00:00
+
+ ## Istituto di Istruzione Superiore Federico Caffè
+ - [https://www.federicocaffe.edu.it](https://www.federicocaffe.edu.it)
+ - date_published: 2024-10-13T06:56:48.796830+00:00
+
+ ## Istituto Tecnico Industriale Enrico Fermi  Via Gaetana Agnesi 24 - Desio (MB)
+ - [https://fermidesio.edu.it](https://fermidesio.edu.it)
+ - date_published: 2024-10-13T07:10:37.244113+00:00
+
+ ## IISS Enrico Fermi – Lecce
+ - [http://www.fermilecce.edu.it](http://www.fermilecce.edu.it)
+ - date_published: 2024-10-13T06:58:08.879145+00:00
+
+ ## ISIS "Fermi-Mattei"
+ - [https://www.fermimattei.edu.it](https://www.fermimattei.edu.it)
+ - date_published: 2024-10-13T07:17:45.312854+00:00
+
+ ## Home
+            
+            
+                
+                    - IS Fermi
+ - [https://www.fermimn.edu.it](https://www.fermimn.edu.it)
+ - date_published: 2024-10-13T06:56:31.041608+00:00
+
+ ## Istituto Tecnico Industriale Statale Enrico Fermi Modena
+ - [https://www.fermi-mo.edu.it](https://www.fermi-mo.edu.it)
+ - date_published: 2024-10-13T07:03:49.095075+00:00
+
+ ## G. Ferraris F. Brunelleschi
+ - [https://ferraris.edu.it](https://ferraris.edu.it)
+ - date_published: 2024-10-13T07:23:10.703451+00:00
+
+ ## I.I.S.S. "G. Ferraris"
+ - [https://www.ferrarismolfetta.edu.it](https://www.ferrarismolfetta.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## ISS "Ferraris-Pancaldo" | Il sito ufficiale del "Ferraris-Pancaldo"
+ - [https://www.ferrarispancaldo.edu.it](https://www.ferrarispancaldo.edu.it)
+ - date_published: 2024-10-13T07:07:19.151582+00:00
+
+ ## LICEO / ISTITUTO TECNICO E PROFESSIONALE "ENZO FERRARI"
+ - [https://ferrarisusa.edu.it](https://ferrarisusa.edu.it)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Liceo "Don Giuseppe Fogazzaro"
+ - [https://www.fogazzaro.edu.it](https://www.fogazzaro.edu.it)
+ - date_published: 2024-10-13T07:19:33.711930+00:00
+
+ ## Home
+ - [https://www.fossatidapassano.edu.it](https://www.fossatidapassano.edu.it)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Istituto Statale Istruzione Superiore Gonzaga
+ - [https://www.francescogonzaga.edu.it](https://www.francescogonzaga.edu.it)
+ - date_published: 2024-10-13T07:19:44.649595+00:00
+
+ ## I.T.T.E. Galileo Galilei Arzignano
+        
+        
+        
+        - I.T.T.E. Galileo Galilei Arzignano
+ - [https://galileiarzignano.edu.it](https://galileiarzignano.edu.it)
+ - date_published: 2024-10-13T07:07:50.919104+00:00
+
+ ## IISS Galilei-Costa-Scarambone
+ - [https://www.galileicostascarambone.edu.it](https://www.galileicostascarambone.edu.it)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Home | I.I.S. Galileo Galilei
+ - [https://www.galileicrema.edu.it](https://www.galileicrema.edu.it)
+ - date_published: 2024-10-13T07:28:05.995501+00:00
+
  ## Istituto Istruzione Superiore "Galilei – Di Palo"
  - [https://www.galileidipalo.edu.it](https://www.galileidipalo.edu.it)
  - date_published: 2024-10-13T07:28:09.335931+00:00
@@ -3811,201 +4015,4 @@
  ## DeepFreeze | Journalism corruption reference
  - [http://www.deepfreeze.it](http://www.deepfreeze.it)
  - date_published: 2017-09-10T00:00:00+00:00
-
- ## Crobots
- - [https://crobots.deepthought.it](https://crobots.deepthought.it)
- - date_published: 2024-06-13T21:08:41+00:00
-
- ## John Deere IT
- - [https://www.deere.it](https://www.deere.it)
- - date_published: 2024-09-19T19:37:14.187499+00:00
-
- ## Online broker | basse tariffe | trading | Broker DEGIRO
- - [https://www.degiro.it](https://www.degiro.it)
- - date_published: 2024-05-31T14:30:08+00:00
-
- ## Careers at Deliveroo - Discover a career full of possibility
- - [https://careers.deliveroo.it](https://careers.deliveroo.it)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Deliveroo
- - [https://deliveroo.it](https://deliveroo.it)
- - date_published: 2024-10-11T19:16:17.101136+00:00
-
- ## Istituto di Istruzione Superiore – Della Corte Vanvitelli – Della Corte Vanvitelli Istituto d'Istruzione Superiore
- - [https://www.dellacortevanvitelli.it](https://www.dellacortevanvitelli.it)
- - date_published: 2024-10-13T06:52:42.450733+00:00
-
- ## Libri di fantascienza fantasy horror giallo thriller | Delos Store
- - [https://www.delosstore.it](https://www.delosstore.it)
- - date_published: 2024-07-04T13:17:22.990838+00:00
-
- ## IIS Denina Pellico Rivoira
- - [https://www.denina.it](https://www.denina.it)
- - date_published: 2024-10-13T07:13:59.496565+00:00
-
- ## lnx.desambrois.it
- - [https://lnx.desambrois.it](https://lnx.desambrois.it)
- - date_published: 2024-10-13T07:17:41.383306+00:00
-
- ## deshi.it
- - [https://deshi.it](https://deshi.it)
- - date_published: 2024-05-07T15:18:19.561384+00:00
-
- ## Designflows
- - [https://designflows.it](https://designflows.it)
- - date_published: 2024-03-13T17:12:36+00:00
-
- ## detektywi.it
- - [https://detektywi.it](https://detektywi.it)
- - date_published: 2024-08-08T15:24:09.269529+00:00
-
- ## DEV Challenge
- - [https://www.devchallenge.it](https://www.devchallenge.it)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home | Devol
- - [https://devol.it](https://devol.it)
- - date_published: 2023-01-06T11:40:18+00:00
-
- ## Uptime Kuma
- - [https://uptime.devol.it](https://uptime.devol.it)
- - date_published: 2024-06-23T21:18:53.162207+00:00
-
- ## Scopri il nuovo Devoto-Oli 2024 - Devoto-Oli
- - [https://www.devoto-oli.it](https://www.devoto-oli.it)
- - date_published: 2024-07-02T06:24:53.936460+00:00
-
- ## dfir it!
- - [https://dfir.it](https://dfir.it)
- - date_published: 2019-02-26T20:40:04+00:00
-
- ## Dianetics: La Forza delPensiero sul Corpo
- - [https://www.dianetics.it](https://www.dianetics.it)
- - date_published: 2024-06-17T16:42:23.606568+00:00
-
- ## Aeronautica Militare | Home
- - [http://www.aeronautica.difesa.it](http://www.aeronautica.difesa.it)
- - date_published: 2024-08-07T22:48:37.378320+00:00
-
- ## Ministero della Difesa
- - [https://www.difesa.it](https://www.difesa.it)
- - date_published: 2024-06-23T21:06:05.247049+00:00
-
- ## DigiKey
- - [https://digikey.it](https://digikey.it)
- - date_published: 2024-05-01T05:04:24.572230+00:00
-
- ## DigitalSide Threat-Intel - Just another OSINT hub
- - [https://osint.digitalside.it](https://osint.digitalside.it)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## DiLei
- - [https://dilei.it](https://dilei.it)
- - date_published: 2024-06-15T06:19:06.690130+00:00
-
- ## - Dintec
- - [http://www.dintec.it](http://www.dintec.it)
- - date_published: 2024-07-14T16:10:24.456208+00:00
-
- ## Museum of Comparative Anatomy – Bologna – Laboratorio and Department of Experimental Evolutionary Biology
- - [http://www.dipartimentobiologia.it](http://www.dipartimentobiologia.it)
- - date_published: 2024-06-24T09:36:59.726749+00:00
-
- ## DiPI Online - Dizionario di Pronuncia Italiana
- - [https://www.dipionline.it](https://www.dipionline.it)
- - date_published: 2024-07-02T06:31:35.827499+00:00
-
- ## Discover Trieste - Your Official Trieste City Guide
- - [https://www.discover-trieste.it](https://www.discover-trieste.it)
- - date_published: 2024-06-20T12:58:39.801933+00:00
-
- ## Disney.it | Pagina ufficiale italiana del mondo Disney
- - [https://disney.it](https://disney.it)
- - date_published: 2024-06-16T01:51:16.503778+00:00
-
- ## Disney TV | Disney Italia
- - [https://tv.disney.it](https://tv.disney.it)
- - date_published: 2024-09-20T20:45:54.195808+00:00
-
- ## Disney TV | Disney Italia
- - [http://video.disney.it](http://video.disney.it)
- - date_published: 2024-06-16T02:03:04.311050+00:00
-
- ## Disney Magic Moments – Attività, video e molto altro | Italia
- - [https://www.disneymagicmoments.it](https://www.disneymagicmoments.it)
- - date_published: 2024-09-20T20:46:42.462800+00:00
-
- ## Disney Store IT | Negozio Online Dei Prodotti Disney
- - [https://disneystore.it](https://disneystore.it)
- - date_published: 2024-06-16T02:01:19.741245+00:00
-
- ## Disney Store Guest Services
- - [https://support.disneystore.it](https://support.disneystore.it)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Distretto Cyber Security
- - [https://www.distrettocybersecurity.it](https://www.distrettocybersecurity.it)
- - date_published: 2022-06-21T09:21:06+00:00
-
- ## DivinBaffo | Una selezione hand-made di prodotti culinari dai migliori e-commerce italiani
- - [https://divinbaffo.it](https://divinbaffo.it)
- - date_published: 2024-06-26T21:21:36.170162+00:00
-
- ## Benvenuti nel sito dell'IIS-Di Vittorio - Lattanzio  Roma
- - [https://divittoriolattanzio.it](https://divittoriolattanzio.it)
- - date_published: 2024-10-13T07:15:41+00:00
-
- ## Do It Yourself - biglietti concerti, teatro, sport, cultura
- - [https://www.diyticket.it](https://www.diyticket.it)
- - date_published: 2024-07-10T10:35:31.770482+00:00
-
- ## dlvr.it - #1 Social Media Automation Tool
- - [http://dlvr.it](http://dlvr.it)
- - date_published: 2024-06-27T03:04:17+00:00
-
- ## DMAX.it è il sito di DMAX, canale 52 del digitale terrestre
- - [https://dmax.it](https://dmax.it)
- - date_published: 2024-07-17T11:15:03.958832+00:00
-
- ## Sign in - Matomo
- - [https://matomo.dmcultura.it](https://matomo.dmcultura.it)
- - date_published: 2024-07-02T23:49:25.918199+00:00
-
- ## DnaX Web Site
- - [https://www.dnax.it](https://www.dnax.it)
- - date_published: 2024-07-11T11:37:20+00:00
-
- ## DNV.it - When trust matters - DNV
- - [https://www.dnv.it](https://www.dnv.it)
- - date_published: 2024-09-04T15:26:24.209087+00:00
-
- ## Domino: Agenzia digital Marketing, Lead generation, Siti corporate B2B
- - [http://domino.it](http://domino.it)
- - date_published: 2024-09-09T08:31:52+00:00
-
- ## it
- - [https://www.domusweb.it](https://www.domusweb.it)
- - date_published: 2024-07-09T09:59:27+00:00
-
- ## Home - Donne 4.0
- - [https://donne4.it](https://donne4.it)
- - date_published: 2024-06-23T16:48:27.199758+00:00
-
- ## Donzelli Editore
- - [https://www.donzelli.it](https://www.donzelli.it)
- - date_published: 2024-09-13T17:15:49.684385+00:00
-
- ## Doria Pamphilj - da 500 anni contemporanei all'arte
- - [http://www.doriapamphilj.it](http://www.doriapamphilj.it)
- - date_published: 2024-06-24T09:23:51.509648+00:00
-
- ## dotcoma - A blog
- - [https://dotcoma.it](https://dotcoma.it)
- - date_published: 2024-06-01T04:56:25.414730+00:00
- - tags: ['personal']
-
- ## Dot Next - Sviluppo App Mobile, Realizzazione Siti Web, Comunicazione
- - [https://www.dotnext.it](https://www.dotnext.it)
- - date_published: 2024-07-12T05:19:02.590293+00:00
 

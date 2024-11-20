@@ -1,3 +1,19 @@
+ ## 内蒙古文明网_文明 让生活更美好！
+ - [http://nmg.wenming.cn](http://nmg.wenming.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 宁夏文明网
+ - [http://nx.wenming.cn](http://nx.wenming.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中国文明网---您访问的页面已过期
+ - [http://pdf.wenming.cn](http://pdf.wenming.cn)
+ - date_published: 2022-10-17T13:20:21+00:00
+
+ ## 山东文明网
+ - [http://sd.wenming.cn](http://sd.wenming.cn)
+ - date_published: 2024-06-30T17:07:05.694884+00:00
+
  ## 搜索主界面
  - [http://search.wenming.cn](http://search.wenming.cn)
  - date_published: 2024-06-30T17:08:58.967803+00:00
@@ -3992,20 +4008,4 @@ _中国网
  ## 首页_中国高等教育学会
  - [https://www.cahe.edu.cn](https://www.cahe.edu.cn)
  - date_published: 2024-06-21T23:08:45.739192+00:00
-
- ## 中国农业大学经济管理学院
- - [https://cem.cau.edu.cn](https://cem.cau.edu.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 中国农业大学
- - [http://www.cau.edu.cn](http://www.cau.edu.cn)
- - date_published: 2024-09-09T06:36:22+00:00
-
- ## 教育部中外人文交流中心
- - [http://ppe.ccipe.edu.cn](http://ppe.ccipe.edu.cn)
- - date_published: 2024-09-04T05:55:20+00:00
-
- ## 资本市场学院
- - [http://www.ccmi.edu.cn](http://www.ccmi.edu.cn)
- - date_published: 2024-06-28T07:11:45+00:00
 

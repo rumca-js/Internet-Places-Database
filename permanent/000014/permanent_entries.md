@@ -1,3 +1,15 @@
+ ## Zimmo.be
+ - [https://tickers.zimmo.be](https://tickers.zimmo.be)
+ - date_published: 2024-07-13T09:54:16.162723+00:00
+
+ ## Zimmo
+ - [http://www.zimmo.be](http://www.zimmo.be)
+ - date_published: 2024-09-02T11:10:46.249214+00:00
+
+ ## Zin in meer: tips voor elke dag
+ - [https://www.zininmeer.be](https://www.zininmeer.be)
+ - date_published: 2024-10-29T05:55:31.647748+00:00
+
  ## Classic Web - Embracing Open-Source and Privacy
  - [https://classic.zoemp.be](https://classic.zoemp.be)
  - date_published: 2024-01-22T13:07:24+00:00
@@ -2115,6 +2127,10 @@
  - [https://in30minutes.biz](https://in30minutes.biz)
  - date_published: 2024-11-08T11:43:02.034427+00:00
 
+ ## Indiaweekly – British #1 Asian Weekly Newspaper in UK | UK News Today
+ - [https://www.indiaweekly.biz](https://www.indiaweekly.biz)
+ - date_published: 2022-06-02T16:55:08+00:00
+
  ## indiebookclub
  - [https://indiebookclub.biz](https://indiebookclub.biz)
  - date_published: 2024-05-12T06:14:09.956959+00:00
@@ -4043,20 +4059,4 @@
  ## ner3y
  - [https://ner3y.micro.blog](https://ner3y.micro.blog)
  - date_published: 2024-08-05T00:00:00+00:00
-
- ## Micro.blog News
- - [https://news.micro.blog](https://news.micro.blog)
- - date_published: 2024-08-16T22:26:50+00:00
-
- ## Paul Kafasis
- - [https://pbones.micro.blog](https://pbones.micro.blog)
- - date_published: 2024-03-22T21:04:24+00:00
-
- ## Bask in the glow
- - [https://peroty.micro.blog](https://peroty.micro.blog)
- - date_published: 2024-08-04T13:30:28+00:00
-
- ## P in the wild
- - [https://pinthewild.micro.blog](https://pinthewild.micro.blog)
- - date_published: 2024-07-04T10:48:22+00:00
 

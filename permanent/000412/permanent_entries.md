@@ -1,3 +1,228 @@
+ ## Recepty online, varenie, pečenie, najlepšie recepty | Dobruchut.sk
+ - [https://dobruchut.aktuality.sk](https://dobruchut.aktuality.sk)
+ - date_published: 2024-10-15T20:00:04+00:00
+
+ ## Horoskopy na dnešný deň pre všetky znamenia | Aktuality.sk
+ - [https://horoskopy.aktuality.sk](https://horoskopy.aktuality.sk)
+ - date_published: 2024-10-15T20:00:46+00:00
+
+ ## Kalendár mien Október 2024 - Slovensko - Meniny dnes
+ - [https://kalendar.aktuality.sk](https://kalendar.aktuality.sk)
+ - date_published: 2024-10-15T20:00:24.798041+00:00
+
+ ## Prihlásenie | aktuality.sk
+ - [https://konto.aktuality.sk](https://konto.aktuality.sk)
+ - date_published: 2024-10-15T20:00:06.328324+00:00
+
+ ## Najmama.sk - Magazín pre mamičky a ich detičky
+ - [https://najmama.aktuality.sk](https://najmama.aktuality.sk)
+ - date_published: 2024-10-15T19:59:39.470868+00:00
+
+ ## E-shop na Aktuality.sk - obchod s knihami a produktami | Aktuality.sk
+ - [https://obchod.aktuality.sk](https://obchod.aktuality.sk)
+ - date_published: 2024-10-15T19:59:57.304370+00:00
+
+ ## Aktuálne počasie na Slovensku. Predpoveď počasia na dnes na Aktuality.sk
+ - [https://pocasie.aktuality.sk](https://pocasie.aktuality.sk)
+ - date_published: 2024-10-15T20:00:12+00:00
+
+ ## Recepty.sk | Jednoduchá príprava najlepších receptov online
+ - [https://recepty.aktuality.sk](https://recepty.aktuality.sk)
+ - date_published: 2024-10-15T20:00:47.736870+00:00
+
+ ## Prekladové slovníky & prekladač - Slovnik.sk
+ - [https://slovnik.aktuality.sk](https://slovnik.aktuality.sk)
+ - date_published: 2024-10-15T19:59:45.018744+00:00
+
+ ## Chyba 403
+ - [https://sport.aktuality.sk](https://sport.aktuality.sk)
+ - date_published: 2024-06-17T01:45:33.609698+00:00
+
+ ## TV PROGRAM DNES, aktuálny televízny program | Aktuality.sk
+ - [https://tv-program.aktuality.sk](https://tv-program.aktuality.sk)
+ - date_published: 2024-10-15T20:00:08+00:00
+
+ ## Aktuálne správy zo Slovenska a zo sveta | Aktuality.sk
+ - [https://www.aktuality.sk](https://www.aktuality.sk)
+ - date_published: 2024-10-15T19:59:41.880971+00:00
+
+ ## Živé.sk: Najnovšie správy o počítačoch, mobiloch, IT a internete
+ - [https://zive.aktuality.sk](https://zive.aktuality.sk)
+ - date_published: 2024-10-15T20:00:15.309940+00:00
+
+ ## home
+ - [https://www.alfaromeo.sk](https://www.alfaromeo.sk)
+ - date_published: 2024-06-18T09:57:04+00:00
+
+ ## Alza.sk – rýchly a pohodlný nákup odkiaľkoľvek | Alza.sk
+ - [https://www.alza.sk](https://www.alza.sk)
+ - date_published: 2024-09-16T02:46:17.991557+00:00
+
+ ## Amiga on PC/Mac/Raspberry | AmiKit - Modern Retro Amiga
+ - [https://amikit.amiga.sk](https://amikit.amiga.sk)
+ - date_published: 2024-01-09T03:47:10.780472+00:00
+ - tags: ['amiga']
+
+ ## AmiKit Support Forum
+ - [https://forum.amiga.sk](https://forum.amiga.sk)
+ - date_published: 2024-01-09T03:47:12.690325+00:00
+
+ ## AKReal - unofficial
+ - [http://real.amiga.sk](http://real.amiga.sk)
+ - date_published: 2024-07-14T12:20:41.117944+00:00
+
+ ## AMV Projekt
+ - [http://www.amvprojekt.sk](http://www.amvprojekt.sk)
+ - date_published: 2024-07-02T22:44:50.807946+00:00
+
+ ## Tolkien.sk
+ - [http://www.slavcon.arda.sk](http://www.slavcon.arda.sk)
+ - date_published: 2024-07-01T10:14:56.833464+00:00
+
+ ## ATLAS FOR MEN - Lacné outdoorové oblečenie a doplnky pre mužov
+ - [https://atlasformen.sk](https://atlasformen.sk)
+ - date_published: 2024-05-29T10:08:19.125515+00:00
+
+ ## Audi Slovensko
+ - [https://www.audi.sk](https://www.audi.sk)
+ - date_published: 2024-07-19T22:44:23.767007+00:00
+
+ ## Všetko zo sveta automobilov a motorizmu
+ - [https://www.autobild.sk](https://www.autobild.sk)
+ - date_published: 2024-07-24T21:31:57.953362+00:00
+
+ ## Autodesk empowers innovators everywhere to make the new possible
+ - [https://autode.sk](https://autode.sk)
+ - date_published: 2024-05-04T03:56:02+00:00
+
+ ## Hlavná stránka vyhľadávania | Autosphere
+ - [https://www.autosphere.sk](https://www.autosphere.sk)
+ - date_published: 2024-07-04T07:38:25.460919+00:00
+
+ ## Azet.sk - Všetky správy a informácie na jednom mieste
+ - [https://www.azet.sk](https://www.azet.sk)
+ - date_published: 2024-10-31T00:19:32.442528+00:00
+
+ ## Mail BBXNET :: Welcome to Mail BBXNET
+ - [https://bbmail.sk](https://bbmail.sk)
+ - date_published: 2024-07-08T14:40:39+00:00
+
+ ## BBXNET - hrdinský NET & TV
+ - [https://bbxnet.sk](https://bbxnet.sk)
+ - date_published: 2024-05-08T11:42:29.754842+00:00
+
+ ## BBX admin
+ - [https://moj.bbxnet.sk](https://moj.bbxnet.sk)
+ - date_published: 2024-07-08T14:40:41.732431+00:00
+
+ ## Najlepšie online casino na Slovensku v 2024
+ - [https://betrating.sk](https://betrating.sk)
+ - date_published: 2021-09-10T10:14:11+00:00
+
+ ## Výrobca a distribútor potravín | Bidfood.sk
+ - [https://www.bidfood.sk](https://www.bidfood.sk)
+ - date_published: 2024-10-15T13:49:26+00:00
+
+ ## Bistro 24
+ - [https://bistro24.sk](https://bistro24.sk)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## MMA & BJJ Nitra
+ - [https://bjjnitra.sk](https://bjjnitra.sk)
+ - date_published: 2023-08-29T00:00:00+00:00
+
+ ## Autobus alebo spolujazda? Výber jázd za nízke ceny pre teba. | BlaBlaCar
+ - [https://blablacar.sk](https://blablacar.sk)
+ - date_published: 2024-06-15T01:00:37.750268+00:00
+
+ ## BlaBlaCar
+ - [https://blog.blablacar.sk](https://blog.blablacar.sk)
+ - date_published: 2024-09-15T19:52:22.208260+00:00
+
+ ## The Ancient's Den
+ - [http://theancientsden.blogspot.sk](http://theancientsden.blogspot.sk)
+ - date_published: 2024-07-16T14:30:12+00:00
+
+ ## Blueweb - tvoríme úspešné e-shopy
+ - [https://www.blueweb.sk](https://www.blueweb.sk)
+ - date_published: 2024-09-09T22:12:01.249208+00:00
+
+ ## Hlavná stránka | BMWklub.sk
+ - [http://www.bmwklub.sk](http://www.bmwklub.sk)
+ - date_published: 2024-07-02T09:50:57.180593+00:00
+
+ ## Logické hádanky a hlavolamy - BrainQuest.sk
+ - [https://www.brainquest.sk](https://www.brainquest.sk)
+ - date_published: 2024-10-31T07:33:43+00:00
+
+ ## Domov | Brother Online
+ - [https://atyourside.brother.sk](https://atyourside.brother.sk)
+ - date_published: 2024-06-17T21:03:55.136525+00:00
+
+ ## Podnikové tlačiarne | Biznis riešenia | Brother
+ - [https://www.brother.sk](https://www.brother.sk)
+ - date_published: 2024-05-02T11:28:09.823148+00:00
+
+ ## BTS GROUP s. r. o. – Špecializujeme na tvorbu živých prenosov
+ - [https://www.btsgroup.sk](https://www.btsgroup.sk)
+ - date_published: 2024-07-02T23:42:43.245235+00:00
+
+ ## bulbulistan
+ - [http://blog.bulbul.sk](http://blog.bulbul.sk)
+ - date_published: 2024-06-29T05:19:03+00:00
+
+ ## C64 News Commodore 64 New Software Demos Games Downloads Competitions Parties 8-bit Scene
+ - [http://www.c64.sk](http://www.c64.sk)
+ - date_published: 2024-09-04T11:11:45.548870+00:00
+
+ ## Sledujte skvelé filmy a seriály | CANAL+
+ - [https://www.canalplus.sk](https://www.canalplus.sk)
+ - date_published: 2024-06-25T21:53:27.222109+00:00
+
+ ## 🏅 Najlepšie Slovenské Live Casino s Euro | | 2024 ✅
+ - [https://casinoble.sk](https://casinoble.sk)
+ - date_published: 2024-09-19T20:32:04.696807+00:00
+
+ ## SOLIDWORKS, SOLIDCAM autorizovaný predajca Computer Controls SK
+ - [https://www.ccontrols.sk](https://www.ccontrols.sk)
+ - date_published: 2024-07-15T04:10:41.196647+00:00
+
+ ## Cukráreň Fantázia
+ - [http://www.cukraren.cerny.sk](http://www.cukraren.cerny.sk)
+ - date_published: 2024-07-11T12:30:40.633558+00:00
+
+ ## Citáty slávnych osobností: Najväčšia zbierka citátov a myšlienok
+ - [https://citaty-slavnych.sk](https://citaty-slavnych.sk)
+ - date_published: 2024-07-04T06:32:01.101793+00:00
+
+ ## Predaj a servis osobných a úžitkových vozidiel Citroën
+ - [https://citroen.sk](https://citroen.sk)
+ - date_published: 2024-05-08T05:30:35.633529+00:00
+
+ ## Predaj a servis osobných a úžitkových vozidiel Citroën
+ - [https://konfiguratorpro.citroen.sk](https://konfiguratorpro.citroen.sk)
+ - date_published: 2024-07-03T13:40:52+00:00
+
+ ## Servisné kontrakty
+ - [https://servisne-kontrakty.citroen.sk](https://servisne-kontrakty.citroen.sk)
+ - date_published: 2024-07-04T07:38:21.221221+00:00
+
+ ## Skladové vozidlá Citroën dostupné ihneď.
+ - [https://skladoveauta.citroen.sk](https://skladoveauta.citroen.sk)
+ - date_published: 2024-07-04T07:38:18.468762+00:00
+
+ ## Skladové vozidlá Citroën dostupné ihneď.
+ - [https://skladovevozidla.citroen.sk](https://skladovevozidla.citroen.sk)
+ - date_published: 2024-07-04T07:38:17.047447+00:00
+
+ ## Citroën Slovensko - Zvažujete kúpu nového auta citroën? Požiadajte o cenovú ponuku alebo testovaciu jazdu. | Citroen
+ - [https://ziadosti.citroen.sk](https://ziadosti.citroen.sk)
+ - date_published: 2024-07-04T07:38:20.250816+00:00
+
+ ## Prestavby skladových vozidiel Citroën
+ - [https://citroenprestavby.sk](https://citroenprestavby.sk)
+ - date_published: 2024-07-04T07:38:14.456387+00:00
+
  ## CoderDojo Bratislava
  - [https://bratislava.coderdojo.sk](https://bratislava.coderdojo.sk)
  - date_published: 2023-11-18T10:55:15+00:00
@@ -3823,233 +4048,4 @@ conflicts of interest and restore Community Trust.
  ## Tabletop Social
  - [https://tabletop.social](https://tabletop.social)
  - date_published: 2024-07-10T07:28:42.526340+00:00
-
- ## Welcome - takahe.social
- - [https://takahe.social](https://takahe.social)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## tapbots.social
- - [https://tapbots.social](https://tapbots.social)
- - date_published: 2023-10-24T20:14:25.808474+00:00
- - tags: ['mastodon']
-
- ## tapir is inevitable
- - [https://tapir.social](https://tapir.social)
- - date_published: 2024-08-11T20:27:16.102433+00:00
-
- ## Tech Bacon
- - [https://techbacon.social](https://techbacon.social)
- - date_published: 2024-04-29T07:18:31.324735+00:00
-
- ## TechHub.social media storage
- - [https://files.techhub.social](https://files.techhub.social)
- - date_published: 2024-05-26T17:54:39+00:00
-
- ## TechHub.social status
- - [https://status.techhub.social](https://status.techhub.social)
- - date_published: 2024-08-19T18:06:45.716390+00:00
-
- ## TechHub
- - [https://techhub.social](https://techhub.social)
- - date_published: 2023-10-24T20:14:26.335577+00:00
- - tags: ['mastodon']
-
- ## techpolicy
- - [https://techpolicy.social](https://techpolicy.social)
- - date_published: 2024-04-03T06:39:18.511331+00:00
-
- ## Custom Domain by Bitly
- - [https://tedtalks.social](https://tedtalks.social)
- - date_published: 2024-05-11T09:22:38.923245+00:00
-
- ## NodePing - Monitoring
- - [https://status.tenforward.social](https://status.tenforward.social)
- - date_published: 2024-07-21T03:51:06.773069+00:00
-
- ## Ten Forward
- - [https://tenforward.social](https://tenforward.social)
- - date_published: 2024-04-30T07:17:34.188830+00:00
-
- ## Texas Observer Social
- - [https://texasobserver.social](https://texasobserver.social)
- - date_published: 2024-08-19T12:56:11.866091+00:00
-
- ## Thinktanki
- - [https://thinktanki.social](https://thinktanki.social)
- - date_published: 2024-04-28T01:41:56.629134+00:00
-
- ## thoughtbot Social
- - [https://thoughtbot.social](https://thoughtbot.social)
- - date_published: 2024-05-06T18:17:24.722962+00:00
-
- ## Mastodon
- - [https://tietz.social](https://tietz.social)
- - date_published: 2024-05-07T22:57:28.632021+00:00
-
- ## timetheft.social
- - [https://timetheft.social](https://timetheft.social)
- - date_published: 2024-06-23T20:17:06.991046+00:00
-
- ## toad.social
- - [https://assets.toad.social](https://assets.toad.social)
- - date_published: 2024-06-27T14:25:42.497160+00:00
-
- ## toad.social
- - [https://toad.social](https://toad.social)
- - date_published: 2024-05-06T21:44:42.622113+00:00
-
- ## toki.social
- - [https://toki.social](https://toki.social)
- - date_published: 2024-06-15T22:08:46.438329+00:00
-
- ## Tools For Thought Rocks!
- - [https://toolsforthought.social](https://toolsforthought.social)
- - date_published: 2024-07-03T16:03:07.058306+00:00
-
- ## TransFem Space
- - [https://transfem.social](https://transfem.social)
- - date_published: 2024-05-08T10:45:41.057855+00:00
-
- ## tty0.social
- - [https://tty0.social](https://tty0.social)
- - date_published: 2024-06-26T09:04:23.904730+00:00
-
- ## Tucows Social
- - [https://tucows.social](https://tucows.social)
- - date_published: 2024-06-16T17:33:15.175225+00:00
-
- ## TweeseCake
- - [https://tweesecake.social](https://tweesecake.social)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## twentyZEN Social
- - [https://twentyzen.social](https://twentyzen.social)
- - date_published: 2024-06-23T17:08:53.174118+00:00
-
- ## TWiT.social
- - [https://twit.social](https://twit.social)
- - date_published: 2024-05-10T06:44:05.491274+00:00
-
- ## Typetura
- - [https://typetura.social](https://typetura.social)
- - date_published: 2024-07-01T08:46:44.779024+00:00
-
- ## typo.social
- - [https://typo.social](https://typo.social)
- - date_published: 2024-05-04T06:31:49.106454+00:00
-
- ## Uberspace Mastodon
- - [https://uberspace.social](https://uberspace.social)
- - date_published: 2024-07-24T16:59:45.592927+00:00
-
- ## Ubuntu Social
- - [https://ubuntu.social](https://ubuntu.social)
- - date_published: 2024-06-16T02:51:38.157068+00:00
-
- ## UniFi - Introduction - Ubiquiti
- - [https://ui.social](https://ui.social)
- - date_published: 2024-04-29T03:19:49.151996+00:00
-
- ## Umbraco Community Mastodon
- - [https://umbracocommunity.social](https://umbracocommunity.social)
- - date_published: 2024-05-04T12:13:30.127597+00:00
-
- ## Mastodon
- - [https://univention.social](https://univention.social)
- - date_published: 2024-09-16T13:06:19.981383+00:00
-
- ## Urbanists.Social
- - [https://urbanists.social](https://urbanists.social)
- - date_published: 2023-10-24T20:14:26.879258+00:00
- - tags: ['mastodon']
-
- ## uwu.social
- - [https://uwu.social](https://uwu.social)
- - date_published: 2024-06-18T16:52:18.807204+00:00
-
- ## #Fedipact - The instances blocking Zuckerberg's Threads.net
- - [https://fedipact.veganism.social](https://fedipact.veganism.social)
- - date_published: 2024-07-01T01:33:59.123965+00:00
-
- ## Veganism Social - The social network for vegans
- - [https://veganism.social](https://veganism.social)
- - date_published: 2024-04-28T04:10:28.334679+00:00
-
- ## venera.social 🍀 | Home
- - [https://venera.social](https://venera.social)
- - date_published: 2024-06-20T15:38:43.362997+00:00
-
- ## Verbraucherzentrale
- - [https://verbraucherzentrale.social](https://verbraucherzentrale.social)
- - date_published: 2024-04-29T07:02:39.007047+00:00
-
- ## vis.social
- - [https://vis.social](https://vis.social)
- - date_published: 2024-04-29T06:02:16.662121+00:00
-
- ## VT Social
- - [https://vt.social](https://vt.social)
- - date_published: 2023-10-24T20:14:28.715062+00:00
- - tags: ['mastodon']
-
- ## w3c.social
- - [https://w3c.social](https://w3c.social)
- - date_published: 2023-12-06T18:22:37.078866+00:00
-
- ## Waag Mastodon
- - [https://waag.social](https://waag.social)
- - date_published: 2024-06-15T18:53:03.872229+00:00
-
- ## Mastodon Wargamers
- - [https://wargamers.social](https://wargamers.social)
- - date_published: 2024-07-02T21:47:44.810872+00:00
-
- ## WebPerformance
- - [https://webperf.social](https://webperf.social)
- - date_published: 2024-05-08T07:06:18.607639+00:00
-
- ## Werd Social
- - [https://werd.social](https://werd.social)
- - date_published: 2024-05-06T14:48:54.946611+00:00
-
- ## Mastodon
- - [https://wikimedia.social](https://wikimedia.social)
- - date_published: 2023-10-24T20:14:29.349003+00:00
- - tags: ['mastodon']
-
- ## Wissenschaft trötet
- - [https://wisskomm.social](https://wisskomm.social)
- - date_published: 2024-04-29T05:58:39.025411+00:00
-
- ## WMD Social
- - [https://wmd.social](https://wmd.social)
- - date_published: 2024-07-15T10:24:13.029351+00:00
-
- ## Mastodon
- - [https://wordnik.social](https://wordnik.social)
- - date_published: 2024-05-09T04:56:40.709248+00:00
-
- ## Worthy Social – Worthy Social Identity
- - [https://worthy.social](https://worthy.social)
- - date_published: 2024-05-07T16:12:20.967582+00:00
-
- ## WP Builds Social
- - [https://wpbuilds.social](https://wpbuilds.social)
- - date_published: 2024-05-08T03:29:07.430708+00:00
-
- ## WordPress Mastodon Toots
- - [https://wptoots.social](https://wptoots.social)
- - date_published: 2024-08-06T03:53:28.313222+00:00
-
- ## BaWü.social – Mastodon für Baden-Württemberg
- - [https://xn--baw-joa.social](https://xn--baw-joa.social)
- - date_published: 2024-07-24T03:46:49.760385+00:00
-
- ## Yarn.social - The decentralised social micro-blogging platform that actually respects your privacy
- - [https://yarn.social](https://yarn.social)
- - date_published: 2023-10-11T14:22:22+00:00
-
- ## yatil.social
- - [https://yatil.social](https://yatil.social)
- - date_published: 2024-07-02T18:19:35.317162+00:00
 

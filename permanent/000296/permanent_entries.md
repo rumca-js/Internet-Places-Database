@@ -1,3 +1,194 @@
+ ## מגזין יין 2024  - וואלה zoom
+ - [https://zoom.walla.co.il](https://zoom.walla.co.il)
+ - date_published: 2024-09-17T17:58:36.877870+00:00
+
+ ## albume
+ - [https://www.wallaprint.co.il](https://www.wallaprint.co.il)
+ - date_published: 2024-09-17T17:55:40.627596+00:00
+
+ ## וואלה שופס
+ - [https://www.wallashops.co.il](https://www.wallashops.co.il)
+ - date_published: 2024-09-17T17:58:10.535777+00:00
+
+ ## וובסטר – הבלוג של חנן כהן
+ - [http://webster.co.il](http://webster.co.il)
+ - date_published: 2024-07-04T03:55:17+00:00
+
+ ## wpPlugins פיתוח תוספי וורדפרס
+ - [https://wpplugins.co.il](https://wpplugins.co.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## אתר המנויים וההטבות של ידיעות אחרונות
+ - [https://yedioth.co.il](https://yedioth.co.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## פלאנט- כל הסרטים החדשים
+ - [http://www.yesplanet.co.il](http://www.yesplanet.co.il)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## mynet - מיינט - mynet - חדשות מקומיות
+ - [https://de-wcm-mynet-cloud.yit.co.il](https://de-wcm-mynet-cloud.yit.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## פיתוח אפליקציות, עיצוב UX\UI, בניית אתרים, עיצוב חווית משתמש
+ - [https://yit.co.il](https://yit.co.il)
+ - date_published: 2024-05-08T04:15:17.392336+00:00
+
+ ## IFRAME ynet
+ - [https://iframe.ynet.co.il](https://iframe.ynet.co.il)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## INTERACTIVE ynet
+ - [https://interactive.ynet.co.il](https://interactive.ynet.co.il)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## סקר השירות הגדול של המדינה - חלק 1
+ - [https://leumisurvey.ynet.co.il](https://leumisurvey.ynet.co.il)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## עושים שמות +ynet
+ - [https://myname.ynet.co.il](https://myname.ynet.co.il)
+ - date_published: 2023-03-30T11:49:04+00:00
+
+ ## נרצחי וחללי המלחמה: השמות והזכרונות
+ - [https://names2023war.ynet.co.il](https://names2023war.ynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## pplus - פנאי פלוס
+ - [https://pplus.ynet.co.il](https://pplus.ynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## ynet - פלוס
+ - [https://premium.ynet.co.il](https://premium.ynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## ynet - תחזית מזג אוויר יומית בישראל
+ - [https://weather.ynet.co.il](https://weather.ynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## W ynet
+ - [https://w.ynet.co.il](https://w.ynet.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## ynet - חדשות, כלכלה, ספורט ובריאות - דיווחים שוטפים מהארץ ומהעולם
+ - [https://ynet.co.il](https://ynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Web App - Unavailable
+ - [https://yschool.co.il](https://yschool.co.il)
+ - date_published: 2024-05-07T18:32:44.971729+00:00
+
+ ## ZDRONE FaceBoook Page
+ - [https://zdrone.co.il](https://zdrone.co.il)
+ - date_published: 2020-12-05T18:11:21+00:00
+
+ ## ZEISS Israel
+ - [https://www.zeiss.co.il](https://www.zeiss.co.il)
+ - date_published: 2024-09-16T07:55:45.530921+00:00
+
+ ## זמן ישראל | פוליטיקה · מדיניות · כלכלה · שלטון החוק
+ - [https://www.zman.co.il](https://www.zman.co.il)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.il](https://www2.zoetis.co.il)
+ - date_published: 2024-06-27T09:52:45+00:00
+
+ ## דף הבית | קמפוס IL
+ - [https://campus.gov.il](https://campus.gov.il)
+ - date_published: 2024-07-21T23:24:22.789887+00:00
+
+ ## הלשכה המרכזית לסטטיסטיקה - cbs.gov.il
+ - [https://cbs.gov.il](https://cbs.gov.il)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ - [https://supreme.court.gov.il](https://supreme.court.gov.il)
+ - date_published: 2024-01-09T03:32:15.467545+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.gov.il](https://www.gov.il)
+ - date_published: 2024-07-14T21:50:46.854906+00:00
+
+ ## https://www.idf.il
+ - [https://www.idf.il](https://www.idf.il)
+ - date_published: 2023-11-13T20:52:27.483837+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://acum.org.il](https://acum.org.il)
+ - date_published: 2024-05-10T05:57:02.182767+00:00
+
+ ## עמותת תפוח – Appleseeds – עמותת תפוח
+ - [https://appleseeds.org.il](https://appleseeds.org.il)
+ - date_published: 2024-07-04T12:27:41.249084+00:00
+
+ ## אגודת הסטודנטים בר אילן
+ - [https://www.bis.org.il](https://www.bis.org.il)
+ - date_published: 2024-08-07T15:11:49.111069+00:00
+
+ ## אתר בנק ישראל | הבנק המרכזי
+ - [https://www.boi.org.il](https://www.boi.org.il)
+ - date_published: 2024-10-06T17:00:50.255262+00:00
+
+ ## Breaking the Silence
+ - [https://www.breakingthesilence.org.il](https://www.breakingthesilence.org.il)
+ - date_published: 2024-06-18T16:24:43.641332+00:00
+
+ ## Homepage - BSF
+ - [http://www.bsf.org.il](http://www.bsf.org.il)
+ - date_published: 2024-10-27T07:55:20+00:00
+
+ ## עמותת מגן לזכויות אנושדף הבית של CCHR צפה בתשדירי השירות
+ - [http://www.cchr-israel.org.il](http://www.cchr-israel.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## עיר דוד - לסייר בין שכבות ההיסטוריה ולהתחבר לשורשים
+ - [http://www.cityofdavid.org.il](http://www.cityofdavid.org.il)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## מוזיאון גן המדע ע"ש קלור
+ - [https://gan-hamada.davidson.org.il](https://gan-hamada.davidson.org.il)
+ - date_published: 2024-06-15T01:34:50+00:00
+
+ ## The Dead Sea Scrolls
+ - [https://www.deadseascrolls.org.il](https://www.deadseascrolls.org.il)
+ - date_published: 2024-06-23T18:06:08.252850+00:00
+
+ ## דיאנטיקה: המדע המודרני של בריאות הנפש
+ - [https://www.dianetics.org.il](https://www.dianetics.org.il)
+ - date_published: 2024-06-17T16:42:14.923914+00:00
+
+ ## תולדות הדיגיטל בישראל – ארכיון תולדות המיחשוב, האינטרנט וההייטק בישראל
+ - [https://www.digital-archive.org.il](https://www.digital-archive.org.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## קרן אדמונד דה רוטשילד
+ - [https://edrf.org.il](https://edrf.org.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [https://epoch.org.il](https://epoch.org.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [https://shop.epoch.org.il](https://shop.epoch.org.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.football.org.il](https://www.football.org.il)
+ - date_published: 2024-07-21T21:39:15.959199+00:00
+
+ ## בתוך Scientology – הסיפור הלא מצונזר
+ - [https://www.freedommag.org.il](https://www.freedommag.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## GFI Israel – the Good Food Institute Israel - GFI Israel
+ - [https://gfi.org.il](https://gfi.org.il)
+ - date_published: 2021-05-14T14:45:29+00:00
+
+ ## פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
+ - [https://planet.hamakor.org.il](https://planet.hamakor.org.il)
+ - date_published: 2024-06-30T21:28:05.658029+00:00
+
  ## המקור
  - [https://www.hamakor.org.il](https://www.hamakor.org.il)
  - date_published: 2024-07-04T12:26:51.616759+00:00
@@ -3822,198 +4013,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Bhushan Shah
  - [https://blog.bshah.in](https://blog.bshah.in)
  - date_published: 2024-08-04T09:17:20+00:00
-
- ## BSides Odisha 2023
- - [https://bsidesodisha.in](https://bsidesodisha.in)
- - date_published: 2024-06-14T07:48:20+00:00
-
- ## Mostbet India Official Online Website — Mostbet Login and Register
- - [https://bslimited.in](https://bslimited.in)
- - date_published: 2024-09-04T15:30:30.035974+00:00
-
- ## SQL-Ease
- - [https://sqlease.buildnship.in](https://sqlease.buildnship.in)
- - date_published: 2023-04-14T03:43:26+00:00
-
- ## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://businessinsider.in](https://businessinsider.in)
- - date_published: 2023-10-25T10:58:21.187120+00:00
-
- ## Business News in Hindi: बिजनेस न्यूज, बिजनेस समाचार, शेयर मार्केट की ताज़ा खबरें, व्यापार समाचार - BT Bazaar
- - [https://bazaar.businesstoday.in](https://bazaar.businesstoday.in)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Business News India: Latest Business News Today, Share Market, Economy
- - [https://businesstoday.in](https://businesstoday.in)
- - date_published: 2023-10-25T19:30:33.199366+00:00
-
- ## Latest Business Economy Breaking News Updates Today in India
- - [https://businessworld.in](https://businessworld.in)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## News & Updates - Indian Startups, Small Businesses, Founders
- - [https://bwdisrupt.businessworld.in](https://bwdisrupt.businessworld.in)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Latest News on India’s Higher Education & Management Studies
- - [http://bweducation.businessworld.in](http://bweducation.businessworld.in)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Welcome to mjunction Enterprise Procurement System
- - [https://eps.buyjunction.in](https://eps.buyjunction.in)
- - date_published: 2024-08-08T13:02:20.171030+00:00
-
- ## Latest News & Updates On Human Resources & People Management
- - [https://bwpeople.in](https://bwpeople.in)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## CALVIN
- - [https://calv.in](https://calv.in)
- - date_published: 2018-06-05T23:19:18+00:00
-
- ## Custom Domain by Bitly
- - [https://ca-n.in](https://ca-n.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Web Hosting Services | Best hosting India with 24/7 Support
- - [https://www.cantech.in](https://www.cantech.in)
- - date_published: 2024-06-29T19:04:46.988853+00:00
-
- ## Capitalmind App: view premium portfolios and manage your account
- - [https://app.capitalmind.in](https://app.capitalmind.in)
- - date_published: 2024-07-08T07:51:36+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://capitalmind.in](https://capitalmind.in)
- - date_published: 2024-04-28T01:39:30.631133+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://content.capitalmind.in](https://content.capitalmind.in)
- - date_published: 2024-04-28T01:39:24.607273+00:00
-
- ## Capitalmind PMS: Elevate Your Wealth Journey
- - [https://pms.capitalmind.in](https://pms.capitalmind.in)
- - date_published: 2024-04-28T01:39:29.660491+00:00
-
- ## Capitalmind
- - [https://premium.capitalmind.in](https://premium.capitalmind.in)
- - date_published: 2024-04-28T01:39:28.214871+00:00
-
- ## Wealth / Progress
- - [https://progress.capitalmind.in](https://progress.capitalmind.in)
- - date_published: 2024-04-28T01:39:26.303176+00:00
-
- ## Discover the Best Software for Your Business
- - [https://www.capterra.in](https://www.capterra.in)
- - date_published: 2024-07-19T18:05:06.463437+00:00
-
- ## Home
- - [https://captnemo.in](https://captnemo.in)
- - date_published: 2024-05-09T08:04:57.618789+00:00
-
- ## Care Today Fund takes relief to Covid-19 impacted communities with the support of TV Today Network Ltd
- - [https://www.caretoday.in](https://www.caretoday.in)
- - date_published: 2024-05-13T03:27:27.987252+00:00
-
- ## Sell Used Mobile Phones Online in India For Cash | Cashmen
- - [https://cashmen.in](https://cashmen.in)
- - date_published: 2024-07-02T19:01:56.608143+00:00
-
- ## Homepage
- - [https://casinoble.in](https://casinoble.in)
- - date_published: 2024-09-19T20:32:11.893199+00:00
-
- ## Best Online Casinos in India » Top 20 Sites of 2024
- - [https://casinofox.in](https://casinofox.in)
- - date_published: 2024-09-16T05:06:35+00:00
-
- ## Best Online Casino Websites in India - Biggest Bonuses [2024 ]
- - [https://casinowebsites.in](https://casinowebsites.in)
- - date_published: 2024-09-19T15:07:50+00:00
-
- ## C-DAC: Centre for Development of Advanced Computing, India
- - [https://www.cdac.in](https://www.cdac.in)
- - date_published: 2024-08-08T16:02:52.725559+00:00
-
- ## Central Modern School | Home
- - [http://www.centralmodernschool.in](http://www.centralmodernschool.in)
- - date_published: 2024-07-02T21:15:43.903907+00:00
-
- ## Cetaphil India - Number 1 Doctor-recommended Skincare Brand offers Facewash, Cleansers, Moisturizers and Sunscreen
- - [https://www.cetaphil.in](https://www.cetaphil.in)
- - date_published: 2024-10-30T23:03:21.697639+00:00
-
- ## :: CGEWHO ::
- - [https://cgewho.in](https://cgewho.in)
- - date_published: 2024-08-07T10:19:54+00:00
-
- ## Omniport
- - [https://channeli.in](https://channeli.in)
- - date_published: 2024-06-16T20:15:27+00:00
-
- ## Charles Lin 林夏樾
- - [https://charlesl.in](https://charlesl.in)
- - date_published: 2024-04-09T04:22:33+00:00
-
- ## checkra1n
- - [https://checkra.in](https://checkra.in)
- - date_published: 2024-05-12T04:14:58.749014+00:00
-
- ## छत्तीसगढ़ - Chhattisgarh News in Hindi (छत्तीसगढ़ हिन्दी न्यूज़) - Chhattisgarh Hindi News, Latest छत्तीसगढ़ समाचार, Chhattisgarh की ताज़ा ख़बर - ChhattisgarhTak
- - [https://www.chhattisgarhtak.in](https://www.chhattisgarhtak.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Chipp.in Tech News and Reviews
- - [https://chipp.in](https://chipp.in)
- - date_published: 2024-03-31T21:02:34.450879+00:00
- - tags: ['tech news']
-
- ## Chris' Full Stack Blog
- - [https://chrisfrew.in](https://chrisfrew.in)
- - date_published: 2024-06-01T05:06:20.041537+00:00
- - tags: ['personal']
-
- ## Employer Brand Agency | Chatter Communications
- - [http://chttr.in](http://chttr.in)
- - date_published: 2024-10-21T08:44:31.349217+00:00
-
- ## CII FOODPRO 2024
- - [https://ciifoodpro.in](https://ciifoodpro.in)
- - date_published: 2024-08-08T16:19:55.794819+00:00
-
- ## Cinny
- - [https://cinny.in](https://cinny.in)
- - date_published: 2024-09-14T10:24:11.579847+00:00
-
- ## https://cirw.in
- - [https://cirw.in](https://cirw.in)
- - date_published: 2023-10-07T04:27:41+00:00
-
- ## Citações e frases famosas: Extensa coleção de citações, frases e pensamentos
- - [https://citacoes.in](https://citacoes.in)
- - date_published: 2024-07-04T06:31:57.886823+00:00
-
- ## Frases de famosos: La mayor colección de frases, citas, pensamientos y aforismos
- - [https://citas.in](https://citas.in)
- - date_published: 2024-07-04T06:31:53.368234+00:00
-
- ## Citroën
- - [https://citroen.in](https://citroen.in)
- - date_published: 2023-12-11T16:02:57.040160+00:00
-
- ## CivicDataLab | Data, Tech, Design, Social Science
- - [https://civicdatalab.in](https://civicdatalab.in)
- - date_published: 2024-07-16T11:04:01+00:00
-
- ## Clarin.com
- - [https://clar.in](https://clar.in)
- - date_published: 2024-07-01T15:57:28.627351+00:00
-
- ## Income Tax Login | Income Tax efiling in India for FY 2023-24 (AY 2024-25) | ClearTax ITR Filing
- - [https://cleartax.in](https://cleartax.in)
- - date_published: 2024-08-08T12:13:49.164993+00:00
-
- ## Planet Clojure
- - [http://planet.clojure.in](http://planet.clojure.in)
- - date_published: 2024-06-22T00:00:00+00:00
 

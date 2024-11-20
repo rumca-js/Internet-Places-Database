@@ -1,3 +1,43 @@
+ ## Tombone's Computer Vision Blog
+ - [https://www.computervisionblog.com](https://www.computervisionblog.com)
+ - date_published: 2019-11-19T00:00:00+00:00
+
+ ## Computer Weekly | Information Technology (IT) News, UK IT Jobs, Industry News
+ - [https://computerweekly.com](https://computerweekly.com)
+ - date_published: 2023-10-25T13:32:49.374619+00:00
+
+ ## TechTarget
+ - [https://users.computerweekly.com](https://users.computerweekly.com)
+ - date_published: 2020-08-28T02:23:13+00:00
+
+ ## Blogs
+ - [http://blogs.computerworld.com](http://blogs.computerworld.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## United States
+ - [https://computerworld.com](https://computerworld.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - United States Edition
+ - [https://us.resources.computerworld.com](https://us.resources.computerworld.com)
+ - date_published: 2022-06-27T00:00:00+00:00
+
+ ## COMPUTEX Taipei | COMPUTEX Daily - COMPUTEX 2024 Official Publication Website
+ - [https://computexdaily.com](https://computexdaily.com)
+ - date_published: 2024-10-31T12:02:43.993215+00:00
+
+ ## Computing Den
+ - [https://computing-den.com](https://computing-den.com)
+ - date_published: 2024-06-11T21:27:30.293665+00:00
+
+ ## Unforget
+ - [https://unforget.computing-den.com](https://unforget.computing-den.com)
+ - date_published: 2024-06-11T15:48:35.568510+00:00
+
+ ## Home | ComputingForGeeks
+ - [https://computingforgeeks.com](https://computingforgeeks.com)
+ - date_published: 2016-06-01T17:14:20+00:00
+
  ## Computing Reviews, the leading online review service for computing literature.
  - [http://computingreviews.com](http://computingreviews.com)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -3983,45 +4023,4 @@ Real Estate Supercenter
  ## CoreAVI - Safety Critical Graphics & Compute Experts
  - [https://www.coreavi.com](https://www.coreavi.com)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Core Creative | Full-service Marketing & Branding
- - [https://www.corecreative.com](https://www.corecreative.com)
- - date_published: 2024-07-12T23:48:35.043634+00:00
-
- ## CoRecursive Podcast - The Stories Behind The Code
- - [https://corecursive.com](https://corecursive.com)
- - date_published: 2023-10-25T13:33:46.741558+00:00
-
- ## Hi! I'm Adam Gordon Bell
- - [https://newsletter.corecursive.com](https://newsletter.corecursive.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Core Design
- - [https://core-design.com](https://core-design.com)
- - date_published: 2023-10-30T15:54:05.416950+00:00
- - tags: ['video game developer']
-
- ## CoreEL Technologies
- - [http://coreel.com](http://coreel.com)
- - date_published: 2024-06-30T12:47:18+00:00
-
- ## Corefact Home
- - [https://www.corefact.com](https://www.corefact.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## CoreFiling - Intelligent software and services to make your data move
- - [https://www.corefiling.com](https://www.corefiling.com)
- - date_published: 2023-07-31T00:00:00+00:00
-
- ## COREHAMMER | PUNK LIFESTYLE FOR PUNKS WITHOUT LIVES
- - [http://www.corehammer.com](http://www.corehammer.com)
- - date_published: 2024-07-20T07:21:55.843038+00:00
-
- ## CORE Higher Ed | Educational & Clinical Software Solutions
- - [https://corehighered.com](https://corehighered.com)
- - date_published: 2024-07-21T23:53:34+00:00
-
- ## CoreIRC – IRC, Social Chat and DCC File Transfers for Android
- - [https://coreirc.com](https://coreirc.com)
- - date_published: 2020-11-25T22:07:54+00:00
 
