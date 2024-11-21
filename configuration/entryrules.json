@@ -1,1 +1,31 @@
-{"entryrules": [{"id": 1, "enabled": true, "rule_url": ".bit.ly", "rule_name": "link service", "block": true, "auto_tag": "", "requires_headless": false, "requires_full_browser": false}, {"id": 2, "enabled": true, "rule_url": ".shoparena.pl, .ascii.uk, .bestbuenosaireshotels.com, .itch.io, .softonic.com, .winsite.com, .gaycities.com", "rule_name": "spammy", "block": true, "auto_tag": "", "requires_headless": false, "requires_full_browser": false}]}
+{
+  "entryrules": [
+    {
+      "id": 1,
+      "enabled": true,
+      "rule_url": ".bit.ly",
+      "rule_name": "link service",
+      "block": true,
+      "auto_tag": "",
+      "browser": null
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "rule_url": ".goatcounter.com, .cloudfront.net, static1.squarespace.com",
+      "rule_name": "internet service",
+      "block": true,
+      "auto_tag": "",
+      "browser": null
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "rule_url": ".shoparena.pl, .ascii.uk, .bestbuenosaireshotels.com, .itch.io, .softonic., .winsite.com, .gaycities.com, .salesforce.com, .softonic-, .hotels-lombardy., .salon24, .4shared.com",
+      "rule_name": "spammy",
+      "block": true,
+      "auto_tag": "",
+      "browser": null
+    }
+  ]
+}
