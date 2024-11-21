@@ -1,3 +1,47 @@
+ ## Calgary Herald ePaper
+ - [https://epaper.calgaryherald.com](https://epaper.calgaryherald.com)
+ - date_published: 2024-05-08T04:16:12.660168+00:00
+
+ ## All Events Calendar | Calgary Herald | Calgary, Canada
+ - [https://events.calgaryherald.com](https://events.calgaryherald.com)
+ - date_published: 2024-05-08T04:16:21.679467+00:00
+
+ ## Local Businesses from The Calgary Herald
+ - [https://local.calgaryherald.com](https://local.calgaryherald.com)
+ - date_published: 2024-05-08T04:16:25.026265+00:00
+
+ ## READERS' CHOICE AWARDS CALGARY
+ - [https://readerschoice.calgaryherald.com](https://readerschoice.calgaryherald.com)
+ - date_published: 2024-05-08T04:16:19.006276+00:00
+
+ ## Local Businesses from The Calgary Herald
+ - [https://shopping.calgaryherald.com](https://shopping.calgaryherald.com)
+ - date_published: 2024-05-08T04:16:04.782998+00:00
+
+ ## Job Search Canada | Find Your Next Job With The Calgary Herald
+ - [https://working.calgaryherald.com](https://working.calgaryherald.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Calgary Sun
+ - [https://calgarysun.com](https://calgarysun.com)
+ - date_published: 2024-03-15T20:42:12.104903+00:00
+
+ ## Calgary Sun ePaper
+ - [https://epaper.calgarysun.com](https://epaper.calgarysun.com)
+ - date_published: 2024-05-11T07:20:43.042591+00:00
+
+ ## Local Businesses from the Calgary Sun
+ - [https://local.calgarysun.com](https://local.calgarysun.com)
+ - date_published: 2024-05-11T07:20:39.720775+00:00
+
+ ## Local Businesses from the Calgary Sun
+ - [https://shopping.calgarysun.com](https://shopping.calgarysun.com)
+ - date_published: 2024-05-11T07:20:49.301560+00:00
+
+ ## Job Search Canada | Find Your Next Job With The Calgary SUN
+ - [https://working.calgarysun.com](https://working.calgarysun.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## One Suggestion by ... Calhariz
  - [http://blog.calhariz.com](http://blog.calhariz.com)
  - date_published: 2024-01-08T00:00:00+00:00
@@ -3984,48 +4028,4 @@
  ## Hiring Consulting — Gayle Laakmann McDowell
  - [http://careercup.com](http://careercup.com)
  - date_published: 2024-06-15T19:05:08.039917+00:00
-
- ## CareerExplorer
- - [https://www.careerexplorer.com](https://www.careerexplorer.com)
- - date_published: 2024-08-17T22:59:37.496418+00:00
-
- ## Career Fair Plus ™
- - [https://app.careerfairplus.com](https://app.careerfairplus.com)
- - date_published: 2024-08-28T12:55:44+00:00
-
- ## CareerFoundry | The Online Career Academy For Tech
- - [https://careerfoundry.com](https://careerfoundry.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## DMMキャリアグリップ（キャリグリ）| 転職攻略トレーニング
- - [https://career-grip.com](https://career-grip.com)
- - date_published: 2024-06-11T09:10:39.366955+00:00
-
- ## Home - Career Hackers
- - [https://careerhackers.com](https://careerhackers.com)
- - date_published: 2024-05-10T05:18:18.818359+00:00
-
- ## Do You Want To Be the Writer You Dreamed Of? - Career Indie Author
- - [https://www.careerindieauthor.com](https://www.careerindieauthor.com)
- - date_published: 2024-10-27T18:26:37.523119+00:00
-
- ## HMRC | Find or get answers from employees
- - [https://hmrc-jobs.career-inspiration.com](https://hmrc-jobs.career-inspiration.com)
- - date_published: 2024-09-27T21:12:21.765946+00:00
-
- ## Black Genius Academy
- - [https://blackgeniusacademy.careerkarma.com](https://blackgeniusacademy.careerkarma.com)
- - date_published: 2024-06-15T06:14:37.224001+00:00
-
- ## Discover Career Karma AI for Business Growth
- - [https://careerkarma.com](https://careerkarma.com)
- - date_published: 2024-05-01T02:34:28.981376+00:00
-
- ## Career Karma
- - [https://privacy.careerkarma.com](https://privacy.careerkarma.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Homepage | Big Issue Recruit
- - [https://bigissue-test.careerleaf.com](https://bigissue-test.careerleaf.com)
- - date_published: 2024-10-22T11:01:00.024714+00:00
 

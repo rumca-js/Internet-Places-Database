@@ -1,3 +1,172 @@
+ ## Newsroom
+ - [https://newsroom.uclaextension.edu](https://newsroom.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:32.296367+00:00
+
+ ## Home | UCLA Extension
+ - [https://portal.uclaextension.edu](https://portal.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:26.000928+00:00
+
+ ## UCLA Extension - Continuing Education Courses & Certificates
+ - [https://uclaextension.edu](https://uclaextension.edu)
+ - date_published: 2024-05-07T20:55:05.477271+00:00
+
+ ## Writing & Journalism Courses & Certificates | UCLA Extension
+ - [http://writers.uclaextension.edu](http://writers.uclaextension.edu)
+ - date_published: 2024-06-29T20:04:18.999916+00:00
+
+ ## UC Law SF Scholarship Repository | UC Law SF Research
+ - [https://repository.uclawsf.edu](https://repository.uclawsf.edu)
+ - date_published: 2024-07-17T17:16:35.501110+00:00
+
+ ## Accessibility at UC Merced
+ - [https://accessibility.ucmerced.edu](https://accessibility.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Undergraduate Admissions | Division of Enrollment Management
+ - [https://admissions.ucmerced.edu](https://admissions.ucmerced.edu)
+ - date_published: 2024-07-01T21:46:04+00:00
+
+ ## Applied Mathematics
+ - [https://appliedmath.ucmerced.edu](https://appliedmath.ucmerced.edu)
+ - date_published: 2024-07-01T21:45:38+00:00
+
+ ## Apply Now | Graduate Division
+ - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:30.115935+00:00
+
+ ## Basic Needs
+ - [https://basicneeds.ucmerced.edu](https://basicneeds.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:46.497349+00:00
+
+ ## Biological Engineering and Small-Scale Technologies
+ - [https://best.ucmerced.edu](https://best.ucmerced.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Bioengineering
+ - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:24.812623+00:00
+
+ ## University of California Merced - Acalog ACMS™
+ - [http://catalog.ucmerced.edu](http://catalog.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Center for Cellular and Biomolecular Machines | National Science Foundation Center of Research Excellence in Science and Technology (CREST)
+ - [https://ccbm.ucmerced.edu](https://ccbm.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:13.753480+00:00
+
+ ## Center for Educational Partnerships
+ - [https://cep.ucmerced.edu](https://cep.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:41.329936+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucmerced.edu](https://chancellor.ucmerced.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UC Merced Community and Labor Center
+ - [https://clc.ucmerced.edu](https://clc.ucmerced.edu)
+ - date_published: 2024-07-01T20:55:14+00:00
+
+ ## Convergence of Nano-engineered Devices for Environmental and Sustainable Applications (CONDESA) | A National Science Foundation Research Traineeship Program
+ - [https://condesa.ucmerced.edu](https://condesa.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:34+00:00
+
+ ## SIR UCMerced Admission
+ - [https://decision.ucmerced.edu](https://decision.ucmerced.edu)
+ - date_published: 2024-06-04T07:03:18+00:00
+
+ ## Division of Finance and Administration
+ - [https://dfa.ucmerced.edu](https://dfa.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Directory
+ - [https://directory.ucmerced.edu](https://directory.ucmerced.edu)
+ - date_published: 2024-06-25T07:05:06+00:00
+
+ ## Division of Equity, Justice, & Inclusive Excellence
+ - [https://diversity.ucmerced.edu](https://diversity.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:32+00:00
+ - tags: ['dei']
+
+ ## Home | Emergency Preparedness
+ - [https://emergency.ucmerced.edu](https://emergency.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:37+00:00
+
+ ## Engineering Service Learning | School of Engineering
+ - [https://engineeringservicelearning.ucmerced.edu](https://engineeringservicelearning.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Engineering
+ - [https://engineering.ucmerced.edu](https://engineering.ucmerced.edu)
+ - date_published: 2024-07-01T22:40:53+00:00
+
+ ## School of Engineering
+ - [https://eng.ucmerced.edu](https://eng.ucmerced.edu)
+ - date_published: 2024-06-22T06:19:46+00:00
+
+ ## Environmental Systems Graduate Group
+ - [https://es.ucmerced.edu](https://es.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:09.391442+00:00
+
+ ## Events Calendar
+ - [https://events.ucmerced.edu](https://events.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | University Extension
+ - [https://extension.ucmerced.edu](https://extension.ucmerced.edu)
+ - date_published: 2024-07-01T22:54:36+00:00
+
+ ## External Relations & Strategic Communications
+ - [https://externalrelations.ucmerced.edu](https://externalrelations.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:58+00:00
+
+ ## Financial Aid | Helping Students Succeed
+ - [https://financialaid.ucmerced.edu](https://financialaid.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Division of Management and Information
+ - [https://gallo.ucmerced.edu](https://gallo.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:56.998444+00:00
+
+ ## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:27.415446+00:00
+
+ ## Home | Health Services
+ - [http://health.ucmerced.edu](http://health.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## G-RISE I-BioSTeP | Interdisciplinary Biomedical Science and Technology Program
+ - [https://ibiostep.ucmerced.edu](https://ibiostep.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Office of Information Technology
+ - [https://it.ucmerced.edu](https://it.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:29.991059+00:00
+
+ ## Home | Staff Jobs
+ - [https://jobs.ucmerced.edu](https://jobs.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:16+00:00
+
+ ## UC Merced Library | Not what other research libraries are, what they will be.
+ - [https://library.ucmerced.edu](https://library.ucmerced.edu)
+ - date_published: 2024-07-01T19:38:14+00:00
+
+ ## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:19.947352+00:00
+
+ ## UC Merced | Premier Academic Institution in California
+ - [https://mist.ucmerced.edu](https://mist.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:05.684504+00:00
+
+ ## Welcome to UC Merced Connect | UC Merced Connect
+ - [https://my.ucmerced.edu](https://my.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:11.919076+00:00
+
+ ## School of Natural Sciences
+ - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
+ - date_published: 2024-07-01T21:12:30+00:00
+
  ## Home | Newsroom
  - [http://news.ucmerced.edu](http://news.ucmerced.edu)
  - date_published: 2024-07-01T21:41:05+00:00
@@ -3834,172 +4003,4 @@
  ## Joseph R. Biden, Jr. School of Public Policy & Administration
  - [https://www.bidenschool.udel.edu](https://www.bidenschool.udel.edu)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## College of Arts & Sciences
- - [https://www.cas.udel.edu](https://www.cas.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Center for Composite Materials - University of Delaware
- - [https://www.ccm.udel.edu](https://www.ccm.udel.edu)
- - date_published: 2024-07-02T02:05:05.336896+00:00
-
- ## Home - College of Education & Human Development
- - [http://www.cehd.udel.edu](http://www.cehd.udel.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## College of Earth, Ocean & Environment | University of Delaware
- - [http://www.ceoe.udel.edu](http://www.ceoe.udel.edu)
- - date_published: 2024-07-01T22:58:22+00:00
-
- ## Computer & Information Sciences at the University of Delaware
- - [https://www.cis.udel.edu](https://www.cis.udel.edu)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Home | Electrical & Computer Engineering
- - [http://www.ece.udel.edu](http://www.ece.udel.edu)
- - date_published: 2024-09-02T10:41:10.359822+00:00
-
- ## ECE/CIS
- - [https://www.eecis.udel.edu](https://www.eecis.udel.edu)
- - date_published: 2024-05-24T22:39:08.772559+00:00
-
- ## UD College of Engineering
- - [http://www.engr.udel.edu](http://www.engr.udel.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## OEIP | University of Delaware
- - [http://www.oeip.udel.edu](http://www.oeip.udel.edu)
- - date_published: 2024-07-01T23:40:16+00:00
-
- ## Join us at OLLI! - Osher Lifelong Learning Institute %
- - [https://www.olli.udel.edu](https://www.olli.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home - Undergraduate Research Program
- - [https://www.urp.udel.edu](https://www.urp.udel.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Universitat de Girona > UdG
- - [http://www.udg.edu](http://www.udg.edu)
- - date_published: 2024-07-02T10:36:06.638771+00:00
-
- ## ONE.UF
- - [https://one.uf.edu](https://one.uf.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## Accessibility at UF
- - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
- - date_published: 2024-05-07T21:11:08.489230+00:00
-
- ## UF ADA Compliance
- - [https://ada.ufl.edu](https://ada.ufl.edu)
- - date_published: 2024-07-02T02:17:54.009807+00:00
-
- ## University of Florida Office of Admissions
- - [https://admissions.ufl.edu](https://admissions.ufl.edu)
- - date_published: 2024-07-02T02:06:22.599170+00:00
-
- ## Welcome
- - [https://advancement.clas.ufl.edu](https://advancement.clas.ufl.edu)
- - date_published: 2024-07-07T08:12:01.425998+00:00
-
- ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:21.398370+00:00
-
- ## Welcome to the Center for African Studies
- - [http://africa.ufl.edu](http://africa.ufl.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://ahc-webservices-a2.sites.medinfo.ufl.edu](https://ahc-webservices-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:14:03+00:00
-
- ## AI - University of Florida
- - [https://ai.ufl.edu](https://ai.ufl.edu)
- - date_published: 2024-07-02T02:11:02.126501+00:00
-
- ## UF IT Alerts Dashboard
- - [https://alerts.it.ufl.edu](https://alerts.it.ufl.edu)
- - date_published: 2024-07-02T02:07:54.283886+00:00
-
- ## Alumni & Giving » College of Public Health and Health Professions » University of Florida
- - [https://alumni-giving.phhp.ufl.edu](https://alumni-giving.phhp.ufl.edu)
- - date_published: 2024-07-01T21:22:22+00:00
-
- ## Home
- - [https://antiracism.ufl.edu](https://antiracism.ufl.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Welcome
- - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
- - date_published: 2024-05-08T10:03:56.364600+00:00
-
- ## Biotility - Biotech Professional Development & Credentialing
- - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
- - date_published: 2024-10-22T03:51:42.004239+00:00
-
- ## UF/IFAS Blogs Homepage - What's Happening Around Florida
- - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
- - [https://bme.ufl.edu](https://bme.ufl.edu)
- - date_published: 2024-05-07T21:11:14.981767+00:00
-
- ## Branding Portal - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://branding.ifas.ufl.edu](https://branding.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:06.440779+00:00
-
- ## Calendar - University of Florida
- - [https://calendar.ufl.edu](https://calendar.ufl.edu)
- - date_published: 2024-07-02T00:06:16+00:00
-
- ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://cals.ufl.edu](http://cals.ufl.edu)
- - date_published: 2024-06-16T22:50:43.417250+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date_published: 2023-10-25T19:01:26.632166+00:00
-
- ## Campus Closures
- - [https://campusclosures.ufl.edu](https://campusclosures.ufl.edu)
- - date_published: 2024-07-02T02:11:26.723216+00:00
-
- ## UF Campus Map
- - [https://campusmap.ufl.edu](https://campusmap.ufl.edu)
- - date_published: 2024-03-27T14:23:43+00:00
-
- ## University of Florida Catalog < University of Florida
- - [https://catalog.ufl.edu](https://catalog.ufl.edu)
- - date_published: 2024-06-28T21:03:19+00:00
-
- ## Home - Computer & Information Science & Engineering
- - [https://cise.ufl.edu](https://cise.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## College of Liberal Arts & Sciences
- - [http://clas.ufl.edu](http://clas.ufl.edu)
- - date_published: 2024-07-07T08:11:50.445375+00:00
-
- ## GatorCloud - University of Florida
- - [https://cloud.it.ufl.edu](https://cloud.it.ufl.edu)
- - date_published: 2024-07-02T02:06:14.155895+00:00
-
- ## IFAS-CLUE
- - [https://clue.ifas.ufl.edu](https://clue.ifas.ufl.edu)
- - date_published: 2024-10-14T23:51:28+00:00
-
- ## Tiny Tech
- - [https://cnem.chem.ufl.edu](https://cnem.chem.ufl.edu)
- - date_published: 2021-11-09T02:11:06+00:00
-
- ## Center for Natural Products, Drug Discovery and Development (CNPD3) » College of Pharmacy » University of Florida
- - [https://cnpd3.pharmacy.ufl.edu](https://cnpd3.pharmacy.ufl.edu)
- - date_published: 2024-06-28T15:43:26+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:31.450474+00:00
 

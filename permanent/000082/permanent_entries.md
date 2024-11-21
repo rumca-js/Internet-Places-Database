@@ -1,3 +1,55 @@
+ ## Los Angeles Daily News
+ - [https://dailynews.com](https://dailynews.com)
+ - date_published: 2023-10-25T11:02:39.182115+00:00
+
+ ## Sign In with MNG
+ - [https://enewspaper.dailynews.com](https://enewspaper.dailynews.com)
+ - date_published: 2024-05-01T03:30:47.733180+00:00
+
+ ## Shop the Los Angeles Daily News Official Store
+ - [https://store.dailynews.com](https://store.dailynews.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## DNA - Daily News Agency
+ - [http://dailynewsagency.com](http://dailynewsagency.com)
+ - date_published: 2024-06-22T08:49:52.809418+00:00
+
+ ## Dailynewsegypt
+ - [https://dailynewsegypt.com](https://dailynewsegypt.com)
+ - date_published: 2022-04-08T00:39:27+00:00
+
+ ## Home - Daily News Hungary
+ - [https://contentf5.dailynewshungary.com](https://contentf5.dailynewshungary.com)
+ - date_published: 2024-05-01T03:32:02.890645+00:00
+
+ ## Home - Daily News Hungary
+ - [https://dailynewshungary.com](https://dailynewshungary.com)
+ - date_published: 2024-02-25T21:16:34.183217+00:00
+
+ ## Daily News
+ - [http://www.dailynewslosangeles.com](http://www.dailynewslosangeles.com)
+ - date_published: 2024-06-20T03:06:32.728407+00:00
+
+ ## DailyNK | 빠르고 정확한 북한뉴스
+ - [https://www.dailynk.com](https://www.dailynk.com)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Shop - Daily Noah
+ - [https://dailynoah.com](https://dailynoah.com)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## DAILYNOMIE – Know Thyself
+ - [https://www.dailynomie.com](https://www.dailynomie.com)
+ - date_published: 2024-06-29T10:33:42.452606+00:00
+
+ ## a Minnesota Vikings community
+ - [https://dailynorseman.com](https://dailynorseman.com)
+ - date_published: 2024-04-29T02:14:10.405855+00:00
+
+ ## The Daily Northwestern
+ - [https://dailynorthwestern.com](https://dailynorthwestern.com)
+ - date_published: 2024-05-08T09:00:19.284495+00:00
+
  ## Daily Nous - news for & about the philosophy profession
  - [https://dailynous.com](https://dailynous.com)
  - date_published: 2023-10-25T13:41:48.743475+00:00
@@ -3995,56 +4047,4 @@
  ## Datomic Developers
  - [https://forum.datomic.com](https://forum.datomic.com)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## Welcome - Birmingham City Observatory Data Portal
- - [https://birmingham-city-observatory.datopian.com](https://birmingham-city-observatory.datopian.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Login - Opendata FCSC
- - [https://ckan.fcsc.production.datopian.com](https://ckan.fcsc.production.datopian.com)
- - date_published: 2022-02-04T00:00:00+00:00
-
- ## FCSC CMS
- - [https://cms.fcsc.production.datopian.com](https://cms.fcsc.production.datopian.com)
- - date_published: 2024-09-12T20:25:54.295959+00:00
-
- ## Datopian - Leading CKAN and Data Experts
- - [https://datopian.com](https://datopian.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Welcome - Datopian CKAN instance
- - [https://demo.dev.datopian.com](https://demo.dev.datopian.com)
- - date_published: 2022-01-28T00:00:00+00:00
-
- ## giftless 0.5.0 documentation
- - [https://giftless.datopian.com](https://giftless.datopian.com)
- - date_published: 2022-04-26T17:00:06+00:00
-
- ## Playbook
- - [https://handbook.datopian.com](https://handbook.datopian.com)
- - date_published: 2024-06-12T12:51:48.420594+00:00
-
- ## Playbook
- - [https://playbook.datopian.com](https://playbook.datopian.com)
- - date_published: 2024-06-12T12:36:02.695882+00:00
-
- ## docs
- - [https://tech.datopian.com](https://tech.datopian.com)
- - date_published: 2024-09-12T17:10:10.903390+00:00
-
- ## Loading
- - [https://platform.datorama.com](https://platform.datorama.com)
- - date_published: 2024-07-17T08:21:48+00:00
-
- ## Home | Datos Insights - Datos Insights
- - [https://datos-insights.com](https://datos-insights.com)
- - date_published: 2024-10-17T11:24:19.486458+00:00
-
- ## Datosmacro.com - Información económica y sociodemográfica
- - [https://www.datosmacro.com](https://www.datosmacro.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## DatosMundial: El mundo en números
- - [https://www.datosmundial.com](https://www.datosmundial.com)
- - date_published: 2024-08-06T11:06:18.226197+00:00
 

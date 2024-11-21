@@ -1,3 +1,105 @@
+ ## Patient First: Urgent Care, Primary Care, and Walk In Care
+ - [https://www.patientfirst.com](https://www.patientfirst.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Find Experienced Doctor | Call or Text Physician - PatientMD
+ - [https://patientmd.com](https://patientmd.com)
+ - date_published: 2024-07-14T07:54:16.344405+00:00
+
+ ## Medical Practice Management | PatientNow | Call 800-436-3150
+ - [https://www.patientnow.com](https://www.patientnow.com)
+ - date_published: 2024-07-09T16:33:13.746198+00:00
+
+ ## Patient Safety Technology Challenge
+ - [https://www.patientsafetytech.com](https://www.patientsafetytech.com)
+ - date_published: 2024-08-05T23:59:43.355911+00:00
+
+ ## patientslounge.com
+ - [https://patientslounge.com](https://patientslounge.com)
+ - date_published: 2024-06-29T19:20:09.147536+00:00
+
+ ## Patient Zero
+ - [https://www.patientzeropodcast.com](https://www.patientzeropodcast.com)
+ - date_published: 2024-07-08T10:29:57.097533+00:00
+
+ ## Patio 1 Outdoor Furniture
+ - [https://patio1.com](https://patio1.com)
+ - date_published: 2024-07-04T06:34:58.029563+00:00
+
+ ## Patio Covers, Sunrooms, Alumawood - Do it Yourself Specialists - Patio Covers Online
+ - [http://www.patiocoversonline.com](http://www.patiocoversonline.com)
+ - date_published: 2024-11-16T19:39:30.595817+00:00
+
+ ## PJK's Blog
+ - [https://patjk.com](https://patjk.com)
+ - date_published: 2024-07-03T04:32:53.108343+00:00
+ - tags: ['personal']
+
+ ## Official Website of PATLITE Corporation - Your Specialist in Signal Technology and Safety Solutions
+ - [https://www.patlite.com](https://www.patlite.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## ~patmaddox: Home
+ - [https://patmaddox.com](https://patmaddox.com)
+ - date_published: 2023-12-04T06:13:53.079304+00:00
+
+ ## patorjk.com
+ - [https://patorjk.com](https://patorjk.com)
+ - date_published: 2018-07-21T01:50:15+00:00
+ - tags: ['personal', 'ascii generator', 'interesting page design']
+
+ ## Patou Films International | France | Cinema africain - Séries
+ - [https://www.patoufilms.com](https://www.patoufilms.com)
+ - date_published: 2024-10-19T15:30:23.382532+00:00
+
+ ## Pat Pannuto
+ - [https://patpannuto.com](https://patpannuto.com)
+ - date_published: 2024-10-16T02:41:09.766963+00:00
+
+ ## Patreon | News | Home
+ - [https://blog.patreon.com](https://blog.patreon.com)
+ - date_published: 2023-10-25T11:32:44.994110+00:00
+
+ - [https://c6.patreon.com](https://c6.patreon.com)
+ - date_published: 2024-02-26T15:23:53.559834+00:00
+
+ ## Patreon | Creator Hubs
+ - [https://creatorhub.patreon.com](https://creatorhub.patreon.com)
+ - date_published: 2024-05-06T22:34:49.619911+00:00
+
+ ## Patreon | News | Home
+ - [https://news.patreon.com](https://news.patreon.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home — Patreon
+ - [https://patreon.com](https://patreon.com)
+ - date_published: 2023-12-11T17:25:04.928912+00:00
+ - tags: ['crowdfunding']
+
+ ## Patreon Help Center
+ - [https://support.patreon.com](https://support.patreon.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Patreon | News | Home
+ - [https://patreonhq.com](https://patreonhq.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Stark et al. vs. Patreon, Inc. Class Action Settlement
+ - [https://www.patreonsettlement.com](https://www.patreonsettlement.com)
+ - date_published: 2024-10-18T23:59:43+00:00
+
+ ## Welcome to patricescheidt.com
+ - [https://patricescheidt.com](https://patricescheidt.com)
+ - date_published: 2023-04-14T19:10:08+00:00
+
+ ## Patricia BT |
+ - [https://cdn.patriciabt.com](https://cdn.patriciabt.com)
+ - date_published: 2021-03-20T00:00:00+00:00
+
+ ## Home
+ - [https://patriciabt.com](https://patriciabt.com)
+ - date_published: 2021-03-20T13:59:17+00:00
+
  ## Patricia Cleveland-Peck
  - [https://patriciaclevelandpeck.com](https://patriciaclevelandpeck.com)
  - date_published: 2024-07-13T12:27:54.692771+00:00
@@ -3950,104 +4052,4 @@
  ## Penguinjaa
  - [https://penguinjaa.com](https://penguinjaa.com)
  - date_published: 2024-01-09T02:45:54.096725+00:00
-
- ## Sign In | Penguin Random House
- - [https://account.penguinrandomhouse.com](https://account.penguinrandomhouse.com)
- - date_published: 2024-05-06T22:57:45.875668+00:00
-
- ## Penguin RandomHouse – Careers
- - [https://careers.penguinrandomhouse.com](https://careers.penguinrandomhouse.com)
- - date_published: 2024-05-06T22:57:57.156999+00:00
-
- ## Request Rejected
- - [https://cart.penguinrandomhouse.com](https://cart.penguinrandomhouse.com)
- - date_published: 2024-05-06T22:57:43.443430+00:00
-
- ## Penguin Random House
- - [https://global.penguinrandomhouse.com](https://global.penguinrandomhouse.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Access Manager
- - [https://login.penguinrandomhouse.com](https://login.penguinrandomhouse.com)
- - date_published: 2022-10-06T10:54:00+00:00
-
- ## Penguin Random House Global - Production - Sign In
- - [https://ourhouse.penguinrandomhouse.com](https://ourhouse.penguinrandomhouse.com)
- - date_published: 2024-06-28T15:25:54.129894+00:00
-
- ## Penguin Random House Permissions
- - [https://permissions.penguinrandomhouse.com](https://permissions.penguinrandomhouse.com)
- - date_published: 2024-06-29T05:03:23.608387+00:00
-
- ## Social Impact at Penguin Random House
- - [https://social-impact.penguinrandomhouse.com](https://social-impact.penguinrandomhouse.com)
- - date_published: 2024-05-06T22:57:42.300749+00:00
-
- ## Penguin Random House
- - [https://www.penguinrandomhouse.com](https://www.penguinrandomhouse.com)
- - date_published: 2024-02-15T22:32:33.341645+00:00
-
- ## Home - Penguin Random House Audio
- - [https://penguinrandomhouseaudio.com](https://penguinrandomhouseaudio.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Penguin Random House Education
- - [https://penguinrandomhouseeducation.com](https://penguinrandomhouseeducation.com)
- - date_published: 2024-05-06T22:57:58.194087+00:00
-
- ## Homepage - Penguin Random House Elementary Education
- - [http://penguinrandomhouseelementaryeducation.com](http://penguinrandomhouseelementaryeducation.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Penguin Random House Grupo Editorial
- - [https://www.penguinrandomhousegrupoeditorial.com](https://www.penguinrandomhousegrupoeditorial.com)
- - date_published: 2024-06-28T14:50:58.142602+00:00
-
- ## Homepage - Penguin Random House Higher Education
- - [https://penguinrandomhousehighereducation.com](https://penguinrandomhousehighereducation.com)
- - date_published: 2024-06-28T14:52:17.265859+00:00
-
- ## Homepage | Penguin Random House Library Marketing
- - [https://penguinrandomhouselibrary.com](https://penguinrandomhouselibrary.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Homepage - Penguin Random House Retail
- - [http://www.penguinrandomhouseretail.com](http://www.penguinrandomhouseretail.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Homepage - Penguin Random House Secondary Education
- - [https://penguinrandomhousesecondaryeducation.com](https://penguinrandomhousesecondaryeducation.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## PENGUIN SERIES DESIGN
- - [https://penguinseriesdesign.com](https://penguinseriesdesign.com)
- - date_published: 2024-09-13T09:15:55+00:00
-
- ## HPC and AI Computing Company | Penguin Solutions
- - [https://www.penguinsolutions.com](https://www.penguinsolutions.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage - Penguin Teen
- - [http://www.penguinteen.com](http://www.penguinteen.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Penguin UI - Tailwind CSS & Alpine JS UI Component Library
- - [https://www.penguinui.com](https://www.penguinui.com)
- - date_published: 2024-06-23T06:17:13.615969+00:00
-
- ## Peninsula Clarion
- - [https://www.peninsulaclarion.com](https://www.peninsulaclarion.com)
- - date_published: 2024-10-14T23:41:02.371275+00:00
-
- ## BlueConic: Log In
- - [https://p247.peninsuladailynews.com](https://p247.peninsuladailynews.com)
- - date_published: 2024-10-14T23:08:33.161800+00:00
-
- ## Best of Jefferson County 2024 Nomination - Home
- - [https://vote.peninsuladailynews.com](https://vote.peninsuladailynews.com)
- - date_published: 2024-06-16T22:22:28.245376+00:00
-
- ## Home | Peninsula Daily News
- - [https://www.peninsuladailynews.com](https://www.peninsuladailynews.com)
- - date_published: 2024-05-01T08:03:22.946200+00:00
 

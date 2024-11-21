@@ -1,3 +1,171 @@
+ ## Purdue University College of Veterinary Medicine
+ - [http://www.vet.purdue.edu](http://www.vet.purdue.edu)
+ - date_published: 2024-07-01T17:45:47.351188+00:00
+
+ ## PG Campus
+ - [https://campus.purdueglobal.edu](https://campus.purdueglobal.edu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Purdue University Global Academic Catalog < Purdue University Global
+ - [https://catalog.purdueglobal.edu](https://catalog.purdueglobal.edu)
+ - date_published: 2024-04-15T14:46:27+00:00
+
+ ## Purdue Global - An Accredited Online University
+ - [https://purdueglobal.edu](https://purdueglobal.edu)
+ - date_published: 2024-05-07T20:04:07.229589+00:00
+
+ ## Purdue Global Law School | Earn a Law Degree Online
+ - [https://www.purduegloballawschool.edu](https://www.purduegloballawschool.edu)
+ - date_published: 2024-07-01T17:46:44.058928+00:00
+
+ ## Homepage | PVAMU Home
+ - [https://www.pvamu.edu](https://www.pvamu.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Prince William County Public Schools
+ - [https://www.pwcs.edu](https://www.pwcs.edu)
+ - date_published: 2024-06-25T21:01:35+00:00
+
+ ## Home Page | Quinnipiac University Poll
+ - [https://poll.qu.edu](https://poll.qu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home
+ - [https://www.rccd.edu](https://www.rccd.edu)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Find people - Public directory - Reed College
+ - [https://directory.reed.edu](https://directory.reed.edu)
+ - date_published: 2024-07-13T02:52:51.075897+00:00
+
+ ## Events Calendar
+ - [https://events.reed.edu](https://events.reed.edu)
+ - date_published: 2024-07-13T02:52:59.621576+00:00
+
+ ## Web Login Service
+ - [https://iris.reed.edu](https://iris.reed.edu)
+ - date_published: 2024-07-13T02:52:47.953333+00:00
+
+ ## Staff Jobs - Human Resources - Reed College
+ - [https://jobs.reed.edu](https://jobs.reed.edu)
+ - date_published: 2024-07-13T02:52:53.501429+00:00
+
+ ## Reed College
+ - [https://reed.edu](https://reed.edu)
+ - date_published: 2024-05-10T06:59:48.090653+00:00
+
+ ## RDGS Home
+ - [https://www.reissdavis.edu](https://www.reissdavis.edu)
+ - date_published: 2024-07-20T18:06:56.958839+00:00
+
+ ## Home
+ - [https://access.rice.edu](https://access.rice.edu)
+ - date_published: 2024-05-07T20:05:07.913628+00:00
+
+ ## Rice
+ - [https://admission.rice.edu](https://admission.rice.edu)
+ - date_published: 2024-05-07T20:04:40.530964+00:00
+
+ ## Access, Equity and Equal Opportunity (AEEO)
+ - [https://aeeo.rice.edu](https://aeeo.rice.edu)
+ - date_published: 2024-05-04T16:20:40+00:00
+
+ ## Alumni
+ - [https://alumni.rice.edu](https://alumni.rice.edu)
+ - date_published: 2024-05-07T20:05:21.017192+00:00
+
+ ## Ancient Mediterranean Civilizations
+ - [https://amc.rice.edu](https://amc.rice.edu)
+ - date_published: 2024-06-16T01:53:07+00:00
+
+ ## Anthropology
+ - [https://anthropology.rice.edu](https://anthropology.rice.edu)
+ - date_published: 2024-06-05T20:52:57+00:00
+
+ ## Access and Opportunity Portal
+ - [https://aop.rice.edu](https://aop.rice.edu)
+ - date_published: 2024-07-01T17:58:51.682053+00:00
+
+ ## You Belong Here
+ - [https://apply.business.rice.edu](https://apply.business.rice.edu)
+ - date_published: 2024-07-01T17:16:44+00:00
+
+ ## Architecture | Rice University
+ - [https://arch.rice.edu](https://arch.rice.edu)
+ - date_published: 2024-05-07T20:05:34.835835+00:00
+
+ ## Art History
+ - [https://arthistory.rice.edu](https://arthistory.rice.edu)
+ - date_published: 2024-05-30T18:01:13+00:00
+
+ ## Celebrating the Arts at Rice University | Rice Arts
+ - [https://arts.rice.edu](https://arts.rice.edu)
+ - date_published: 2024-05-07T20:04:58.330259+00:00
+
+ ## Home
+ - [https://asianstudies.rice.edu](https://asianstudies.rice.edu)
+ - date_published: 2024-06-10T18:59:14+00:00
+
+ ## ASPLOS 2013 | Eighteenth International Conference on Architectural Support for Programming Languages and Operating Systems, Houston, Texas, March 16-20 2013
+ - [http://asplos13.rice.edu](http://asplos13.rice.edu)
+ - date_published: 2024-09-13T19:13:14+00:00
+
+ ## Home | Rice bikes
+ - [http://bikes.rice.edu](http://bikes.rice.edu)
+ - date_published: 2024-07-01T18:03:02.704338+00:00
+
+ ## Rice University Biotech Launch Pad
+ - [https://biotechlaunchpad.rice.edu](https://biotechlaunchpad.rice.edu)
+ - date_published: 2024-07-01T17:57:36.045235+00:00
+
+ ## Rice University Blogs
+ - [http://blogs.rice.edu](http://blogs.rice.edu)
+ - date_published: 2024-06-22T11:53:55.480961+00:00
+
+ ## Boniuk Institute
+ - [https://boniuk.rice.edu](https://boniuk.rice.edu)
+ - date_published: 2024-06-14T03:50:36+00:00
+
+ ## Brand
+ - [https://brand.rice.edu](https://brand.rice.edu)
+ - date_published: 2024-04-29T21:28:52+00:00
+
+ ## BRIDGE
+ - [https://bridge.rice.edu](https://bridge.rice.edu)
+ - date_published: 2024-05-04T13:48:12+00:00
+
+ ## Home
+ - [https://buildingricesfuture.rice.edu](https://buildingricesfuture.rice.edu)
+ - date_published: 2024-05-05T06:29:49+00:00
+
+ ## You Belong Here
+ - [https://business.rice.edu](https://business.rice.edu)
+ - date_published: 2024-05-07T20:05:02.683503+00:00
+
+ ## CAAAS
+ - [https://caaas.rice.edu](https://caaas.rice.edu)
+ - date_published: 2024-05-30T16:04:58+00:00
+
+ ## Digital Teaching and Learning – Information and Updates on Digital Teaching and Learning @ Rice University
+ - [http://canvasinfo.blogs.rice.edu](http://canvasinfo.blogs.rice.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Canvas at Rice
+ - [https://canvas.rice.edu](https://canvas.rice.edu)
+ - date_published: 2024-05-07T20:06:04.134728+00:00
+
+ ## Carbon Hub
+ - [https://carbonhub.rice.edu](https://carbonhub.rice.edu)
+ - date_published: 2024-07-01T17:57:10.834697+00:00
+
+ ## Bursar's Office
+ - [https://cashier.rice.edu](https://cashier.rice.edu)
+ - date_published: 2024-05-28T13:45:15+00:00
+
+ ## Home
+ - [https://ceremony.rice.edu](https://ceremony.rice.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
  ## Home
  - [https://chaocenter.rice.edu](https://chaocenter.rice.edu)
  - date_published: 2024-05-04T08:05:24+00:00
@@ -3835,173 +4003,4 @@
  ## Design in Action
  - [https://designinaction.stanford.edu](https://designinaction.stanford.edu)
  - date_published: 2023-04-30T00:00:00+00:00
-
- ## Daniel E. Ho
- - [https://dho.stanford.edu](https://dho.stanford.edu)
- - date_published: 2024-07-01T19:38:42.340232+00:00
-
- ## Diamond Democracy
- - [https://diamond-democracy.stanford.edu](https://diamond-democracy.stanford.edu)
- - date_published: 2024-08-22T18:28:45+00:00
-
- ## Home
- - [https://digitaleconomy.stanford.edu](https://digitaleconomy.stanford.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Digital Education
- - [https://digitaleducation.stanford.edu](https://digitaleducation.stanford.edu)
- - date_published: 2024-07-01T18:46:31+00:00
-
- ## Diversity and Access Office
- - [https://diversityandaccess.stanford.edu](https://diversityandaccess.stanford.edu)
- - date_published: 2024-05-29T20:46:25+00:00
-
- ## Institute for Diversity in the Arts
- - [https://diversityarts.stanford.edu](https://diversityarts.stanford.edu)
- - date_published: 2024-07-01T20:25:41.659922+00:00
-
- ## DiversityWorks
- - [https://diversityworks.stanford.edu](https://diversityworks.stanford.edu)
- - date_published: 2024-07-01T19:24:11+00:00
- - tags: ['dei']
-
- ## d.school Public Library
- - [https://dlibrary.stanford.edu](https://dlibrary.stanford.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## DocXpress Document Delivery - Login
- - [https://docxpress.stanford.edu](https://docxpress.stanford.edu)
- - date_published: 2023-08-28T18:20:58+00:00
-
- ## Homepage | DoResearch
- - [http://doresearch.stanford.edu](http://doresearch.stanford.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Welcome to nginx!
- - [http://downloads.cs.stanford.edu](http://downloads.cs.stanford.edu)
- - date_published: 2018-10-11T19:05:38+00:00
-
- ## d.school Craft Supplies | Login
- - [https://dschoolcraft.stanford.edu](https://dschoolcraft.stanford.edu)
- - date_published: 2024-06-15T19:17:42.873789+00:00
-
- ## Stanford d.school
- - [https://dschool.stanford.edu](https://dschool.stanford.edu)
- - date_published: 2024-05-01T04:14:47.181085+00:00
-
- ## Dune
- - [http://dune.scs.stanford.edu](http://dune.scs.stanford.edu)
- - date_published: 2017-04-14T18:08:42+00:00
-
- ## EarthWorks
- - [https://earthworks.stanford.edu](https://earthworks.stanford.edu)
- - date_published: 2024-07-01T19:36:04.871285+00:00
-
- ## pswebprd12 Apache server
- - [https://ecmform.stanford.edu](https://ecmform.stanford.edu)
- - date_published: 2024-07-01T20:34:42.342816+00:00
-
- ## Stanford eCorner
- - [https://ecorner.stanford.edu](https://ecorner.stanford.edu)
- - date_published: 2024-07-01T19:35:51.607284+00:00
-
- ## Stanford Graduate School of Education
- - [https://ed.stanford.edu](https://ed.stanford.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## EE108A Redirect
- - [https://ee108a.stanford.edu](https://ee108a.stanford.edu)
- - date_published: 2024-05-07T20:26:02.994318+00:00
-
- ## https://ee380.stanford.edu
- - [https://ee380.stanford.edu](https://ee380.stanford.edu)
- - date_published: 2024-01-09T03:27:56.799112+00:00
-
- ## Electrical Engineering Home
- - [http://ee.stanford.edu](http://ee.stanford.edu)
- - date_published: 2024-06-15T13:30:15+00:00
-
- ## EMED
- - [https://emed.stanford.edu](https://emed.stanford.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SLAC Emergency Information | Emergency Information
- - [https://emergency.slac.stanford.edu](https://emergency.slac.stanford.edu)
- - date_published: 2024-07-05T17:16:19+00:00
-
- ## Emergency Information | Stanford University
- - [https://emergency.stanford.edu](https://emergency.stanford.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Emma Dataset
- - [https://emma.stanford.edu](https://emma.stanford.edu)
- - date_published: 2023-05-19T06:09:35+00:00
-
- ## ENERGY
- - [http://energy.stanford.edu](http://energy.stanford.edu)
- - date_published: 2024-07-01T15:15:01+00:00
-
- ## Stanford University School of Engineering
- - [https://engineering.stanford.edu](https://engineering.stanford.edu)
- - date_published: 2024-05-07T20:25:33.144127+00:00
-
- ## Stanford Enterprise Education for Transformation
- - [https://enterpriseeducation.stanford.edu](https://enterpriseeducation.stanford.edu)
- - date_published: 2024-07-12T17:09:37.949487+00:00
-
- ## Entitled Opinions
- - [https://entitledopinions.stanford.edu](https://entitledopinions.stanford.edu)
- - date_published: 2024-07-07T05:41:54+00:00
-
- ## Education & STEM Outreach
- - [https://eso.stanford.edu](https://eso.stanford.edu)
- - date_published: 2024-05-21T14:59:00+00:00
-
- ## Stanford Empirical Security Research Group
- - [https://esrg.stanford.edu](https://esrg.stanford.edu)
- - date_published: 2024-06-19T15:26:08+00:00
-
- ## Events Help
- - [https://events-help.stanford.edu](https://events-help.stanford.edu)
- - date_published: 2024-07-01T20:24:54.024806+00:00
-
- ## Events Calendar
- - [https://events.stanford.edu](https://events.stanford.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Spotlight at Stanford
- - [https://exhibits.stanford.edu](https://exhibits.stanford.edu)
- - date_published: 2024-06-15T07:22:20.610754+00:00
-
- ## Stanford University Explore Courses
- - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
- - date_published: 2024-05-06T23:12:41.668136+00:00
-
- ## Stanford University Bulletin
- - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
- - date_published: 2024-05-07T20:25:19.667900+00:00
-
- ## Explore Energy
- - [https://explore-energy.stanford.edu](https://explore-energy.stanford.edu)
- - date_published: 2024-07-01T02:25:12+00:00
-
- ## Office of External Relations
- - [https://externalrelations.sites.stanford.edu](https://externalrelations.sites.stanford.edu)
- - date_published: 2024-05-15T23:56:40+00:00
-
- ## Office of External Relations
- - [https://externalrelations.stanford.edu](https://externalrelations.stanford.edu)
- - date_published: 2024-05-15T23:56:40+00:00
-
- ## FACET - II | Facility for Advanced Accelerator Experimental Tests
- - [https://facet-ii.slac.stanford.edu](https://facet-ii.slac.stanford.edu)
- - date_published: 2024-07-06T22:34:08+00:00
-
- ## Facts
- - [https://facts.stanford.edu](https://facts.stanford.edu)
- - date_published: 2024-05-07T20:31:11.947829+00:00
-
- ## Faculty Affairs
- - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
- - date_published: 2024-05-07T20:28:15.011247+00:00
 

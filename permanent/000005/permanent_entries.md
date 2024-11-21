@@ -3608,6 +3608,10 @@
  - [https://raster.app](https://raster.app)
  - date_published: 2024-07-23T21:46:14.684721+00:00
 
+ ## RaveDaddy - Play Hard. Play Safe.
+ - [https://www.ravedaddy.app](https://www.ravedaddy.app)
+ - date_published: 2024-10-23T17:40:41+00:00
+
  ## Raven Reader
  - [https://ravenreader.app](https://ravenreader.app)
  - date_published: 2024-10-10T04:59:52+00:00
@@ -3991,6 +3995,11 @@
  - [https://sequels.app](https://sequels.app)
  - date_published: 2024-08-11T17:24:41.099190+00:00
 
+ ## Open source, self-hosted bookmark manager
+ - [https://servas.app](https://servas.app)
+ - date_published: 2024-11-18T20:22:30+00:00
+ - tags: ['self-host', 'bookmark manager']
+
  ## ServicePlanner :: Ministry & Field Service App
  - [https://serviceplanner.app](https://serviceplanner.app)
  - date_published: 2024-07-09T15:51:29.287371+00:00
@@ -4030,12 +4039,4 @@
  ## Weryfikowanie połączenia...
  - [https://shop.app](https://shop.app)
  - date_published: 2024-04-28T03:00:17.300790+00:00
-
- ## Save Money & Earn Rewards
- - [https://www.shopruby.app](https://www.shopruby.app)
- - date_published: 2024-10-30T21:10:05.477926+00:00
-
- ## Code Shrew
- - [https://shrew.app](https://shrew.app)
- - date_published: 2024-07-12T17:42:01.232844+00:00
 

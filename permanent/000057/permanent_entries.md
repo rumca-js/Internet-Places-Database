@@ -1,3 +1,43 @@
+ ## Blogger
+ - [https://copiousdissent.blogspot.com](https://copiousdissent.blogspot.com)
+ - date_published: 2024-05-06T21:01:03.786581+00:00
+
+ ## Copious Free Time
+ - [https://copiousfreetime.blogspot.com](https://copiousfreetime.blogspot.com)
+ - date_published: 2024-03-07T08:35:05+00:00
+
+ ## Campaign for Conservative Democracy
+ - [https://copov.blogspot.com](https://copov.blogspot.com)
+ - date_published: 2024-10-21T15:13:42.052947+00:00
+
+ ## +Copper Oracle+
+ - [http://copperoracle.blogspot.com](http://copperoracle.blogspot.com)
+ - date_published: 2024-06-14T02:45:52+00:00
+
+ ## Blogger
+ - [http://coppersblog.blogspot.com](http://coppersblog.blogspot.com)
+ - date_published: 2024-06-27T07:32:03.219402+00:00
+
+ ## Law Enforcement Against Prohibition
+ - [http://copssaylegalize.blogspot.com](http://copssaylegalize.blogspot.com)
+ - date_published: 2024-10-21T13:08:56.760151+00:00
+
+ ## Copy, Right?
+ - [http://copycommaright.blogspot.com](http://copycommaright.blogspot.com)
+ - date_published: 2024-10-21T04:21:23.490008+00:00
+
+ ## Science Geek
+ - [http://copyleftgeek.blogspot.com](http://copyleftgeek.blogspot.com)
+ - date_published: 2023-06-20T13:25:10+00:00
+
+ ## The copy/paste programmer
+ - [http://copypasteprogrammer.blogspot.com](http://copypasteprogrammer.blogspot.com)
+ - date_published: 2024-02-07T17:54:06+00:00
+
+ ## Copyright Litigation Blog
+ - [https://copyrightlitigation.blogspot.com](https://copyrightlitigation.blogspot.com)
+ - date_published: 2024-10-18T19:17:02.542888+00:00
+
  ## Current copyright readings
  - [http://copyrightreadings.blogspot.com](http://copyrightreadings.blogspot.com)
  - date_published: 2024-06-14T01:33:04+00:00
@@ -3967,44 +4007,4 @@
  ## ESMOKHAR
  - [https://esmokhar.blogspot.com](https://esmokhar.blogspot.com)
  - date_published: 2024-09-08T15:25:22+00:00
-
- ## Esoteric Murmurs
- - [http://esotericmurmurs.blogspot.com](http://esotericmurmurs.blogspot.com)
- - date_published: 2024-05-07T17:45:07+00:00
-
- ## Essential House
- - [http://essentialhouse.blogspot.com](http://essentialhouse.blogspot.com)
- - date_published: 2024-09-02T08:47:23+00:00
-
- ## Est 21
- - [https://est21er.blogspot.com](https://est21er.blogspot.com)
- - date_published: 2024-09-02T15:22:31+00:00
-
- ## Estado Civil
- - [http://estadocivil.blogspot.com](http://estadocivil.blogspot.com)
- - date_published: 2024-02-19T03:25:22+00:00
-
- ## ~THE PARSONS~
- - [http://estherandrobby.blogspot.com](http://estherandrobby.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Talking Sense
- - [http://eternalfrontier.blogspot.com](http://eternalfrontier.blogspot.com)
- - date_published: 2024-10-26T22:20:11+00:00
-
- ## From The Frontline
- - [http://eternalkeep.blogspot.com](http://eternalkeep.blogspot.com)
- - date_published: 2024-09-27T20:58:00+00:00
-
- ## Khepri's Eternal Legion
- - [http://eternal-legion.blogspot.com](http://eternal-legion.blogspot.com)
- - date_published: 2024-10-02T06:30:38+00:00
-
- ## On New and Alternative Religions
- - [http://ethandoylewhite.blogspot.com](http://ethandoylewhite.blogspot.com)
- - date_published: 2024-10-28T21:43:27+00:00
-
- ## Blogger
- - [http://ethylbenzene.blogspot.com](http://ethylbenzene.blogspot.com)
- - date_published: 2024-10-19T08:20:01.524341+00:00
 

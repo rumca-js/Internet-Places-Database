@@ -1,3 +1,31 @@
+ ## Welcome to Avira's new beta approach
+ - [https://betacenter.avira.com](https://betacenter.avira.com)
+ - date_published: 2023-10-11T10:10:28+00:00
+
+ ## Contract Cancellation
+ - [https://contract-support.avira.com](https://contract-support.avira.com)
+ - date_published: 2024-05-22T12:39:56.075586+00:00
+
+ ## Checkout error
+ - [https://e-shop.avira.com](https://e-shop.avira.com)
+ - date_published: 2024-05-22T12:39:55.301632+00:00
+
+ ## OEM
+ - [https://oem.avira.com](https://oem.avira.com)
+ - date_published: 2024-05-22T12:39:52.295545+00:00
+
+ ## OEM Partner Portal - Welcome
+ - [https://oem-portal.avira.com](https://oem-portal.avira.com)
+ - date_published: 2024-07-20T20:40:57.845310+00:00
+
+ ## Official Avira Support | Knowledgebase & Customer Support | Avira
+ - [https://support.avira.com](https://support.avira.com)
+ - date_published: 2024-07-20T20:41:36.371922+00:00
+
+ ## A Virtual Home
+ - [http://blog.avirtualhome.com](http://blog.avirtualhome.com)
+ - date_published: 2018-10-06T00:33:49+00:00
+
  ## Avi Rubin
  - [https://avirubin.com](https://avirubin.com)
  - date_published: 2024-05-09T07:38:38.378130+00:00
@@ -3999,33 +4027,4 @@
  ## Baldur Bjarnason's Store
  - [https://store.baldurbjarnason.com](https://store.baldurbjarnason.com)
  - date_published: 2024-07-22T11:51:52.113943+00:00
-
- ## Baldur's Gate
- - [https://baldursgate.com](https://baldursgate.com)
- - date_published: 2024-07-01T12:39:03+00:00
- - tags: ['video game', "baldur's gate", 'dungeons and dragons']
-
- ## Baldur's Gate II: Enhanced Edition
- - [http://baldursgateii.com](http://baldursgateii.com)
- - date_published: 2024-07-01T12:41:25+00:00
-
- ## The Baldwin Group - Protecting the Possible
- - [https://baldwin.com](https://baldwin.com)
- - date_published: 2024-10-31T00:04:42.512044+00:00
-
- ## Baldwin LightStream - Internet Provider - St. Croix County
- - [https://www.baldwinlightstream.com](https://www.baldwinlightstream.com)
- - date_published: 2024-06-29T16:09:25.747956+00:00
-
- ## balena dashboard
- - [https://dashboard.balena-cloud.com](https://dashboard.balena-cloud.com)
- - date_published: 2024-06-12T17:15:04+00:00
-
- ## Sites-BAL-R-WEUR-Site
- - [http://balenciaga.com](http://balenciaga.com)
- - date_published: 2024-07-13T15:43:28.727633+00:00
-
- ## Class Rings, Yearbooks, Graduation and Gifts | Balfour
- - [https://www.balfour.com](https://www.balfour.com)
- - date_published: 2024-06-26T10:31:13+00:00
 

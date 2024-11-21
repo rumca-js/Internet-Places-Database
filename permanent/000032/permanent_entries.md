@@ -1,3 +1,23 @@
+ ## Lean Startup Co: Innovation & Product Development Consulting
+ - [http://2014.leanstartup.co](http://2014.leanstartup.co)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Lean Startup Co: Innovation & Product Development Consulting
+ - [https://leanstartup.co](https://leanstartup.co)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Flatiron School - Sign up
+ - [https://learn.co](https://learn.co)
+ - date_published: 2024-04-30T07:12:39.738267+00:00
+
+ ## Mental Models - Decision-making models with AI Coach
+ - [https://learnmentalmodels.co](https://learnmentalmodels.co)
+ - date_published: 2024-06-19T19:06:17.901677+00:00
+
+ ## LearnVue
+ - [https://learnvue.co](https://learnvue.co)
+ - date_published: 2024-09-04T14:59:06.312051+00:00
+
  ## Learn With Me – A Resource for Mindful Living
  - [https://learnwithme.co](https://learnwithme.co)
  - date_published: 2023-12-29T20:10:41.952123+00:00
@@ -4002,24 +4022,4 @@
  ## Simple Goods – Sell the things you make
  - [https://simplegoods.co](https://simplegoods.co)
  - date_published: 2024-07-09T20:24:08.423556+00:00
-
- ## Simple Goods status
- - [https://status.simplegoods.co](https://status.simplegoods.co)
- - date_published: 2024-07-09T20:24:10.872021+00:00
-
- ## - Simplon.co - Fabriques labellisées Grande Ecole du Numérique - In Code We Trust #frenchtech #ess #empowerment
- - [https://simplon.co](https://simplon.co)
- - date_published: 2024-07-03T05:04:58.569556+00:00
-
- ## simulai: Find & Email Websites Built With Specific Tech
- - [https://www.simulai.co](https://www.simulai.co)
- - date_published: 2024-06-19T21:22:51.550491+00:00
-
- ## Create account - Singlelink
- - [https://app.singlelink.co](https://app.singlelink.co)
- - date_published: 2024-07-02T20:17:19.575350+00:00
-
- ## Sins of Saints - Official ITZPSYICONIC Merch
- - [https://www.sinsofsaints.co](https://www.sinsofsaints.co)
- - date_published: 2024-07-13T12:51:50.143360+00:00
 

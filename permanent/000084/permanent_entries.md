@@ -1,3 +1,55 @@
+ ## Defence Blog
+ - [https://defence-blog.com](https://defence-blog.com)
+ - date_published: 2023-06-27T15:28:10+00:00
+
+ ## Defence IQ
+ - [https://defenceiq.com](https://defenceiq.com)
+ - date_published: 2024-05-07T23:37:23.948422+00:00
+
+ ## Defence Review Asia | Defence Business|Asia-Pacific
+ - [http://www.defencereviewasia.com](http://www.defencereviewasia.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CCTV Camera in Goa | CCTV Installation in Goa
+ - [http://www.defencesecurityindia.com](http://www.defencesecurityindia.com)
+ - date_published: 2017-07-22T00:00:00+00:00
+
+ ## DefenceTalk | Defense News Military Forum Pictures
+ - [http://www.defencetalk.com](http://www.defencetalk.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Defence Turkey Magazine
+ - [https://www.defenceturkey.com](https://www.defenceturkey.com)
+ - date_published: 2024-09-19T19:57:29.276424+00:00
+
+ ## Військовий портал Defense Express - все про військову справу
+ - [https://defence-ua.com](https://defence-ua.com)
+ - date_published: 2024-05-01T04:32:02.435694+00:00
+
+ ## Defense Express - Ukraine military industry, technology, equipment
+ - [https://en.defence-ua.com](https://en.defence-ua.com)
+ - date_published: 2023-12-25T22:35:54.461715+00:00
+
+ ## Defense Express
+ - [https://old.defence-ua.com](https://old.defence-ua.com)
+ - date_published: 2024-05-01T04:32:05.333657+00:00
+
+ ## defensa.com - Noticias de Fuerzas Armadas, Armamento y su industria
+ - [http://www.defensa.com](http://www.defensa.com)
+ - date_published: 2024-07-09T22:02:52.978723+00:00
+
+ ## Accueil - Defense aerospace
+ - [http://www.defense-aerospace.com](http://www.defense-aerospace.com)
+ - date_published: 2024-07-09T22:14:22.922848+00:00
+
+ ## دفاع العرب Defense Arabia
+ - [https://defensearabia.com](https://defensearabia.com)
+ - date_published: 2024-09-19T19:52:44+00:00
+
+ ## Defense Daily
+ - [https://www.defensedaily.com](https://www.defensedaily.com)
+ - date_published: 2024-06-29T04:49:12.854100+00:00
+
  ## Home
  - [https://defensehere.com](https://defensehere.com)
  - date_published: 2022-01-12T15:32:07+00:00
@@ -3978,56 +4030,4 @@
  ## Home • DEVCLASS
  - [https://devclass.com](https://devclass.com)
  - date_published: 2023-10-25T13:50:42.438218+00:00
-
- ## One Click Social Login | Social Login Integration for your Website
- - [https://oneclicksociallogin.devcloudsoftware.com](https://oneclicksociallogin.devcloudsoftware.com)
- - date_published: 2024-05-08T12:29:47.501587+00:00
-
- ## DevCurry
- - [https://devcurry.com](https://devcurry.com)
- - date_published: 2024-05-01T03:55:42.761535+00:00
-
- ## Log in | DevCycle Dashboard
- - [https://app.devcycle.com](https://app.devcycle.com)
- - date_published: 2024-05-01T04:49:37.722610+00:00
-
- ## DevCycle
- - [https://blog.devcycle.com](https://blog.devcycle.com)
- - date_published: 2024-05-01T04:49:31.292630+00:00
-
- ## DevCycle | Feature Flag Management for Developers
- - [https://devcycle.com](https://devcycle.com)
- - date_published: 2023-10-25T13:50:46.064161+00:00
-
- ## Welcome to DevCycle | DevCycle Docs
- - [https://docs.devcycle.com](https://docs.devcycle.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Roland's Mastodon
- - [https://devdilettante.com](https://devdilettante.com)
- - date_published: 2024-05-15T20:53:35.417983+00:00
-
- ## International Development News, Breaking News, Opinion and Analysis - Devdiscourse
- - [https://devdiscourse.com](https://devdiscourse.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.devdojo.com](https://cdn.devdojo.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Dev Community - DevDojo
- - [https://devdojo.com](https://devdojo.com)
- - date_published: 2023-10-25T13:50:50.978170+00:00
-
- ## Static · The Static Site Generator you're going to love
- - [https://static.devdojo.com](https://static.devdojo.com)
- - date_published: 2024-02-27T22:44:56+00:00
-
- ## Online Acquisitions Newsletter
- - [https://devdrivenacquisitions.com](https://devdrivenacquisitions.com)
- - date_published: 2023-11-07T19:50:22+00:00
-
- ## DevDungeon
- - [https://www.devdungeon.com](https://www.devdungeon.com)
- - date_published: 2024-08-10T21:22:06+00:00
 

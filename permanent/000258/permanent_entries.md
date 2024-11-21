@@ -1,3 +1,167 @@
+ ## Colgate University Libraries | Colgate University Libraries
+ - [https://cul.colgate.edu](https://cul.colgate.edu)
+ - date_published: 2024-09-09T14:48:03.253297+00:00
+
+ ## Colgate University Digital Collections  | Digital Collections
+ - [https://digitalcollections.colgate.edu](https://digitalcollections.colgate.edu)
+ - date_published: 2024-04-30T06:33:20.211343+00:00
+
+ ## Welcome | CIRES
+ - [https://admin-cires.colorado.edu](https://admin-cires.colorado.edu)
+ - date_published: 2024-07-08T11:24:13+00:00
+
+ ## Home | Undergraduate Advising
+ - [http://advising.colorado.edu](http://advising.colorado.edu)
+ - date_published: 2024-08-11T02:43:55.729830+00:00
+
+ ## CU Boulder Alerts
+ - [https://alerts.colorado.edu](https://alerts.colorado.edu)
+ - date_published: 2024-04-30T03:47:29.522386+00:00
+
+ ## Applied Mathematics
+ - [http://amath.colorado.edu](http://amath.colorado.edu)
+ - date_published: 2024-10-19T07:27:52.884275+00:00
+
+ ## Home - Institute of Behavioral Science
+ - [https://behavioralscience.colorado.edu](https://behavioralscience.colorado.edu)
+ - date_published: 2024-10-18T22:29:00.939041+00:00
+
+ ## Federated Identity Service | University of Colorado Boulder - Loading Session Information
+ - [https://buffportal.colorado.edu](https://buffportal.colorado.edu)
+ - date_published: 2024-04-30T03:47:23.280588+00:00
+
+ ## Events Calendar - University of Colorado Boulder
+ - [https://calendar.colorado.edu](https://calendar.colorado.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Federated Identity Service | University of Colorado Boulder - Loading Session Information
+ - [https://canvas.colorado.edu](https://canvas.colorado.edu)
+ - date_published: 2024-04-30T03:47:32.075794+00:00
+
+ ## University of Colorado Boulder < University of Colorado Boulder
+ - [https://catalog.colorado.edu](https://catalog.colorado.edu)
+ - date_published: 2024-04-30T03:47:28.139932+00:00
+
+ ## CCAR Research Websites | CU-Boulder
+ - [http://ccar.colorado.edu](http://ccar.colorado.edu)
+ - date_published: 2019-02-11T21:14:41+00:00
+
+ ## University of Colorado Boulder
+ - [https://cdn.colorado.edu](https://cdn.colorado.edu)
+ - date_published: 2024-07-20T21:33:45+00:00
+
+ ## Welcome
+ - [https://cires.colorado.edu](https://cires.colorado.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Search Classes
+ - [https://classes.colorado.edu](https://classes.colorado.edu)
+ - date_published: 2024-04-30T03:47:20.966550+00:00
+
+ ## College of Media, Communication and Information
+ - [http://cmci.colorado.edu](http://cmci.colorado.edu)
+ - date_published: 2024-07-01T19:50:06.925236+00:00
+
+ ## University of Colorado Boulder
+ - [https://colorado.edu](https://colorado.edu)
+ - date_published: 2024-04-28T01:52:15.551326+00:00
+
+ ## Search
+ - [http://cusearch.colorado.edu](http://cusearch.colorado.edu)
+ - date_published: 2017-10-05T20:10:38+00:00
+
+ ## Home - FOCS 2021
+ - [https://focs2021.cs.colorado.edu](https://focs2021.cs.colorado.edu)
+ - date_published: 2024-06-30T11:15:36.326208+00:00
+
+ ## Computer Science | University of Colorado Boulder
+ - [https://home.cs.colorado.edu](https://home.cs.colorado.edu)
+ - date_published: 2024-02-02T01:26:07+00:00
+
+ ## Institute for Behavioral Genetics
+ - [http://ibg.colorado.edu](http://ibg.colorado.edu)
+ - date_published: 2024-08-18T12:53:03.875250+00:00
+
+ ## InsideCIRES
+ - [https://insidecires.colorado.edu](https://insidecires.colorado.edu)
+ - date_published: 2024-07-08T11:24:18.002697+00:00
+
+ ## | JILA - Exploring the Frontiers of Physics
+ - [http://jila.colorado.edu](http://jila.colorado.edu)
+ - date_published: 2024-08-06T10:22:40.953124+00:00
+
+ ## Home
+ - [http://lasp.colorado.edu](http://lasp.colorado.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Word Embedding Analysis
+ - [http://lsa.colorado.edu](http://lsa.colorado.edu)
+ - date_published: 2022-11-10T17:49:21+00:00
+
+ ## National Education Policy Center
+ - [https://nepc.colorado.edu](https://nepc.colorado.edu)
+ - date_published: 2024-05-07T10:11:49.292610+00:00
+
+ ## New Worlds
+ - [http://newworlds.colorado.edu](http://newworlds.colorado.edu)
+ - date_published: 2015-05-27T18:29:33+00:00
+
+ ## CU Boulder Outreach
+ - [https://outreach.colorado.edu](https://outreach.colorado.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## PhET Interactive Simulations
+ - [https://phet.colorado.edu](https://phet.colorado.edu)
+ - date_published: 2024-07-03T09:01:00.297430+00:00
+
+ ## Police Department
+ - [http://police.colorado.edu](http://police.colorado.edu)
+ - date_published: 2024-07-22T06:10:06.685422+00:00
+
+ ## Political Science
+ - [http://polsci.colorado.edu](http://polsci.colorado.edu)
+ - date_published: 2024-06-17T11:15:52.891276+00:00
+
+ ## Center for Science and Technology Policy Research
+ - [http://sciencepolicy.colorado.edu](http://sciencepolicy.colorado.edu)
+ - date_published: 2024-07-04T08:18:02.223739+00:00
+
+ ## welcome | Sea Level Research Group
+ - [https://sealevel.colorado.edu](https://sealevel.colorado.edu)
+ - date_published: 2024-05-08T11:33:06.437877+00:00
+
+ ## Introduction | CU Boulder Web Style Guide | University of Colorado Boulder
+ - [https://styleguide.colorado.edu](https://styleguide.colorado.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Admissions
+ - [https://ugrad.apply.colorado.edu](https://ugrad.apply.colorado.edu)
+ - date_published: 2019-07-26T14:29:33+00:00
+
+ ## Verbs Index
+ - [https://verbs.colorado.edu](https://verbs.colorado.edu)
+ - date_published: 2017-09-20T19:12:53+00:00
+
+ ## Welcome to WWA | Western Water Assessment
+ - [https://wwa.colorado.edu](https://wwa.colorado.edu)
+ - date_published: 2024-07-08T11:24:16.521769+00:00
+
+ ## Computer Science | University of Colorado Boulder
+ - [https://www.cs.colorado.edu](https://www.cs.colorado.edu)
+ - date_published: 2024-02-02T01:26:07+00:00
+
+ ## Home | About
+ - [https://about.colostate.edu](https://about.colostate.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Accessibility by Design
+ - [https://accessibility.colostate.edu](https://accessibility.colostate.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## ACT Human Rights Film Festival
+ - [https://actfilmfest.colostate.edu](https://actfilmfest.colostate.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Home | Admissions
  - [https://admissions.colostate.edu](https://admissions.colostate.edu)
  - date_published: 2024-03-07T00:00:00+00:00
@@ -3837,168 +4001,4 @@
  ## Sign in - Matomo
  - [https://ariel.mclibrary.duke.edu](https://ariel.mclibrary.duke.edu)
  - date_published: 2024-10-16T09:14:17.547413+00:00
-
- ## Home - Duke Arts
- - [https://arts.duke.edu](https://arts.duke.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Ask a Blue Devil
- - [https://askabluedevil.duke.edu](https://askabluedevil.duke.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Duke | Log In
- - [https://assets.styleguide.duke.edu](https://assets.styleguide.duke.edu)
- - date_published: 2024-04-30T04:13:40.189075+00:00
-
- ## Duke Bass Connections
- - [https://bassconnections.duke.edu](https://bassconnections.duke.edu)
- - date_published: 2024-06-16T06:24:02+00:00
-
- ## Duke University
- - [https://beacon.oit.duke.edu](https://beacon.oit.duke.edu)
- - date_published: 2024-06-16T14:05:14.934809+00:00
-
- ## Duke Rhodes iiD
- - [https://bigdata.duke.edu](https://bigdata.duke.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Crossroads: Where Healthcare and Information Meet
- - [http://blog.mclibrary.duke.edu](http://blog.mclibrary.duke.edu)
- - date_published: 2024-02-07T09:17:28+00:00
-
- ## Duke Fuqua Student Blogs | Duke's Fuqua School of Business
- - [http://blogs.fuqua.duke.edu](http://blogs.fuqua.duke.edu)
- - date_published: 2024-06-17T03:22:18.049915+00:00
-
- ## News, Events & Exhibits - Duke University Libraries Blogs
- - [https://blogs.library.duke.edu](https://blogs.library.duke.edu)
- - date_published: 2024-05-01T20:00:50.690868+00:00
-
- ## Duke Biomedical Engineering
- - [https://bme.duke.edu](https://bme.duke.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## This is Duke - Brand Guide
- - [https://brand.duke.edu](https://brand.duke.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Duke Event Calendar
- - [https://calendar.duke.edu](https://calendar.duke.edu)
- - date_published: 2024-06-07T21:24:53.643996+00:00
-
- ## Homepage | Canvas
- - [https://canvas.duke.edu](https://canvas.duke.edu)
- - date_published: 2024-09-26T17:27:31+00:00
-
- ## Duke Careers
- - [https://careers.duke.edu](https://careers.duke.edu)
- - date_published: 2024-08-08T22:19:13.804554+00:00
-
- ## Aleph Catalog
- - [http://catalog.library.duke.edu](http://catalog.library.duke.edu)
- - date_published: 2021-01-26T16:48:20+00:00
-
- ## Fuqua Centers
- - [https://centers.fuqua.duke.edu](https://centers.fuqua.duke.edu)
- - date_published: 2024-09-26T18:00:39.875407+00:00
-
- ## Welcome | Duke University Chapel
- - [https://chapel.duke.edu](https://chapel.duke.edu)
- - date_published: 2024-09-26T18:09:47+00:00
-
- ## Duke Center for Human Systems Immunology logo
- - [https://chsi.duke.edu](https://chsi.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Duke Learning Innovation
- - [http://cit.duke.edu](http://cit.duke.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Duke Climate Commitment
- - [https://climate.duke.edu](https://climate.duke.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Program on Climate, Resilience and Mobility - Program on Climate, Resilience and Mobility
- - [https://climatemigration.duke.edu](https://climatemigration.duke.edu)
- - date_published: 2024-09-26T17:59:47.958313+00:00
-
- ## Front Page | Computational Media, Arts & Cultures
- - [https://cmac.duke.edu](https://cmac.duke.edu)
- - date_published: 2024-06-16T06:48:04+00:00
-
- ## Communicator Toolkit - Communicator Toolkit
- - [https://commskit.duke.edu](https://commskit.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Let me tell you a story... - Communications and Marketing
- - [https://communications.duke.edu](https://communications.duke.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Communicator Toolkit - Communicator Toolkit
- - [https://communicators.duke.edu](https://communicators.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Updates on Duke’s Coronavirus Response
- - [https://coronavirus.duke.edu](https://coronavirus.duke.edu)
- - date_published: 2024-04-30T04:13:03.759771+00:00
-
- ## Duke Computer Science
- - [https://courses.cs.duke.edu](https://courses.cs.duke.edu)
- - date_published: 2024-07-03T09:03:36.459097+00:00
-
- ## Front Page | Continuing Studies
- - [https://courses.learnmore.duke.edu](https://courses.learnmore.duke.edu)
- - date_published: 2024-09-26T17:10:55+00:00
-
- ## Front Page | Department of Computer Science
- - [https://cs.duke.edu](https://cs.duke.edu)
- - date_published: 2024-04-29T03:30:31.922892+00:00
-
- ## Front Page | Dance Program
- - [https://danceprogram.duke.edu](https://danceprogram.duke.edu)
- - date_published: 2024-06-16T06:51:03+00:00
-
- ## Duke MIDS
- - [https://datascience.duke.edu](https://datascience.duke.edu)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Duke Database Devils
- - [https://db.cs.duke.edu](https://db.cs.duke.edu)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Homepage | Duke Center for International Development
- - [https://dcid.sanford.duke.edu](https://dcid.sanford.duke.edu)
- - date_published: 2024-07-20T18:49:41+00:00
-
- ## Service Portal - Service Portal
- - [https://dhts.duke.edu](https://dhts.duke.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Homepage | Duke Institute for Brain Sciences
- - [https://dibs.duke.edu](https://dibs.duke.edu)
- - date_published: 2024-06-16T07:15:23+00:00
-
- ## Front Page | DIGITAL HUMANITIES
- - [http://digitalhumanities.duke.edu](http://digitalhumanities.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Duke | Log In
- - [https://directory.duke.edu](https://directory.duke.edu)
- - date_published: 2024-06-16T07:17:53.302085+00:00
-
- ## Duke University Libraries Staff Directory
- - [https://directory.library.duke.edu](https://directory.library.duke.edu)
- - date_published: 2024-09-26T18:07:17.453895+00:00
-
- ## DiversifyIT at Duke – Advancing Inclusion and Diversity in the IT community at Duke
- - [https://diversifyit.duke.edu](https://diversifyit.duke.edu)
- - date_published: 2024-10-08T04:24:47.480538+00:00
-
- ## Duke Divinity School
- - [https://divinity.duke.edu](https://divinity.duke.edu)
- - date_published: 2024-06-14T20:03:17+00:00
-
- ## Welcome | Duke Office of  DKU Relations
- - [https://dkurelations.duke.edu](https://dkurelations.duke.edu)
- - date_published: 2024-09-26T17:46:34+00:00
 

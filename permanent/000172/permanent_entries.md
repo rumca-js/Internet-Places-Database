@@ -1,3 +1,117 @@
+ ## PyLadies – Women Who Love Coding in Python
+ - [https://pyladies.com](https://pyladies.com)
+ - date_published: 2024-05-22T13:50:40+00:00
+
+ ## Join PyLadies on Slack!
+ - [https://slackin.pyladies.com](https://slackin.pyladies.com)
+ - date_published: 2020-07-01T00:00:00+00:00
+
+ ## Home - PylonsHQ
+ - [http://pylonshq.com](http://pylonshq.com)
+ - date_published: 2024-06-26T23:53:34.688445+00:00
+
+ ## Pymble Software
+ - [http://pymblesoftware.com](http://pymblesoftware.com)
+ - date_published: 2024-07-08T19:12:44.158036+00:00
+
+ ## PyMC Labs
+ - [https://pymc-labs.com](https://pymc-labs.com)
+ - date_published: 2024-06-06T20:50:14+00:00
+
+ ## Medusa
+ - [https://pymedusa.com](https://pymedusa.com)
+ - date_published: 2022-12-12T14:09:59+00:00
+ - tags: ['video library manager', 'self-host']
+
+ ## Pymnts Charts
+ - [https://charts.pymnts.com](https://charts.pymnts.com)
+ - date_published: 2023-03-23T00:16:39+00:00
+
+ ## Pymnts.com
+ - [https://pymnts.com](https://pymnts.com)
+ - date_published: 2023-10-25T16:42:52.300386+00:00
+
+ ## JW OTT Webapp
+ - [https://tv.pymnts.com](https://tv.pymnts.com)
+ - date_published: 2023-10-11T18:42:56+00:00
+
+ ## JW OTT Webapp
+ - [https://webapp.pymnts.com](https://webapp.pymnts.com)
+ - date_published: 2023-10-11T18:42:56+00:00
+
+ ## PyMOTW
+ - [https://pymotw.com](https://pymotw.com)
+ - date_published: 2021-10-30T14:27:02+00:00
+
+ ## Python Mauritius Usergroup
+ - [https://pymug.com](https://pymug.com)
+ - date_published: 2024-05-08T06:07:20.987897+00:00
+
+ ## Palestinian Youth Movement
+ - [https://www.pymusa.com](https://www.pymusa.com)
+ - date_published: 2024-07-08T16:27:06.412226+00:00
+
+ ## PYnative: Learn Python with Tutorials, Exercises, and Quizzes
+ - [https://pynative.com](https://pynative.com)
+ - date_published: 2024-10-28T00:17:37+00:00
+
+ ## Pynerds Index
+ - [https://www.pynerds.com](https://www.pynerds.com)
+ - date_published: 2024-11-09T23:07:28.979235+00:00
+
+ ## Pype
+ - [https://web.pypestream.com](https://web.pypestream.com)
+ - date_published: 2024-10-22T17:47:55+00:00
+
+ ## Pype
+ - [https://web-sandbox.pypestream.com](https://web-sandbox.pypestream.com)
+ - date_published: 2024-10-22T17:47:55+00:00
+
+ ## Pypestream | Welcome to The Happiness Platform
+ - [http://www.pypestream.com](http://www.pypestream.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://about.pypl.com](https://about.pypl.com)
+ - date_published: 2024-06-21T23:50:49.903744+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://careers.pypl.com](https://careers.pypl.com)
+ - date_published: 2024-05-06T22:46:25.611855+00:00
+
+ ## Pyrae
+ - [https://app.pyrae.com](https://app.pyrae.com)
+ - date_published: 2024-06-19T21:51:44.967844+00:00
+
+ ## Pyrae Policy Engine | Pyrae Policy Engine
+ - [https://pyrae.com](https://pyrae.com)
+ - date_published: 2024-05-04T07:02:19.079473+00:00
+
+ ## Pyramid Federal Credit Union
+ - [https://www.pyramidfcu.com](https://www.pyramidfcu.com)
+ - date_published: 2024-06-20T22:38:11.714496+00:00
+
+ ## Home 💎 Pyroclastica
+ - [https://pyroclastica.com](https://pyroclastica.com)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## Top-Rated FPV Drones | Shop Now at PyroDrone | The Best in Drones
+ - [https://pyrodrone.com](https://pyrodrone.com)
+ - date_published: 2024-09-05T18:31:47.789030+00:00
+
+ ## ABOUT US - PYR
+ - [http://www.pyrsf.com](http://www.pyrsf.com)
+ - date_published: 2024-07-14T16:49:01.795391+00:00
+
+ ## Humatic Labs
+ - [https://pyrunner.com](https://pyrunner.com)
+ - date_published: 2023-09-05T22:36:32+00:00
+
+ ## The Project - PySimpleGUI Documentation
+ - [https://docs.pysimplegui.com](https://docs.pysimplegui.com)
+ - date_published: 2024-02-14T15:25:27.937708+00:00
+ - tags: ['python']
+
  ## PySimpleGUI
  - [https://home.pysimplegui.com](https://home.pysimplegui.com)
  - date_published: 2024-04-30T08:11:23.383165+00:00
@@ -3934,117 +4048,4 @@
  ## Quixy | No-Code App Development, BPM & Workflow Automation Software
  - [https://quixy.com](https://quixy.com)
  - date_published: 2024-06-06T00:00:00+00:00
-
- ## Quiz2D: Political Quizzes, Polls, and Experiments that Go Beyond the Left-Right Political Spectrum
- - [http://www.quiz2d.com](http://www.quiz2d.com)
- - date_published: 2024-08-19T22:02:26.524206+00:00
-
- ## QuizBreaker | All-in-One Team Engagement Platform
- - [https://www.quizbreaker.com](https://www.quizbreaker.com)
- - date_published: 2024-06-10T00:53:58+00:00
-
- ## Quizgecko Help Center
- - [https://help.quizgecko.com](https://help.quizgecko.com)
- - date_published: 2024-05-07T10:03:47.826463+00:00
-
- ## Quizgecko | AI Question Generator | Make a Test or Exam
- - [https://quizgecko.com](https://quizgecko.com)
- - date_published: 2023-10-25T16:44:02.786230+00:00
-
- ## QuizLaw: Simple Answers to Complex Legal Questions
- - [http://www.quizlaw.com](http://www.quizlaw.com)
- - date_published: 2024-06-28T12:43:04.811171+00:00
-
- ## Flashcards, learning tools and textbook solutions | Quizlet
- - [https://quizlet.com](https://quizlet.com)
- - date_published: 2024-05-02T10:29:07.537144+00:00
-
- ## Quizopolis - Fun Quizzes, Name Generators, Fun Surveys
- - [http://www.quizopolis.com](http://www.quizopolis.com)
- - date_published: 2024-07-04T15:00:18.622648+00:00
-
- ## Quiz Social
- - [https://quizsocial.com](https://quizsocial.com)
- - date_published: 2024-09-19T00:59:53.336870+00:00
-
- ## Make knowledge stick
- - [https://quizwithit.com](https://quizwithit.com)
- - date_published: 2024-01-18T21:57:37.469654+00:00
-
- ## Qumana News - Qumana | Healthcare & Skin Care [Reddit]
- - [http://www.qumana.com](http://www.qumana.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Sign in to your account
- - [https://fanniemae.qumucloud.com](https://fanniemae.qumucloud.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Sign On
- - [https://rbs.qumucloud.com](https://rbs.qumucloud.com)
- - date_published: 2024-06-16T23:45:41.858083+00:00
-
- ## Qumulo | Data Simplified Anywhere at Exabyte Scale
- - [https://qumulo.com](https://qumulo.com)
- - date_published: 2024-09-24T14:21:14+00:00
-
- ## QUnit
- - [https://api.qunitjs.com](https://api.qunitjs.com)
- - date_published: 2024-07-12T01:38:08+00:00
-
- ## QUnit
- - [https://qunitjs.com](https://qunitjs.com)
- - date_published: 2024-05-10T03:59:38.619106+00:00
-
- ## 群众网
- - [http://m.qunzh.com](http://m.qunzh.com)
- - date_published: 2024-06-30T17:53:52.059634+00:00
-
- ## 100% Software Storage - Quobyte
- - [https://quobyte.com](https://quobyte.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Quobyte® - Customer Portal
- - [https://support.quobyte.com](https://support.quobyte.com)
- - date_published: 2023-10-13T09:18:20+00:00
-
- ## Privacy First
- - [https://privacyfirst.quodari.com](https://privacyfirst.quodari.com)
- - date_published: 2024-06-29T04:26:33.219732+00:00
-
- ## QuoDB | The movie quotes database
- - [https://www.quodb.com](https://www.quodb.com)
- - date_published: 2024-10-23T07:08:58+00:00
-
- ## QUODD Developer Platform | QUODD Developer Platform
- - [https://developer.quodd.com](https://developer.quodd.com)
- - date_published: 2024-07-24T20:18:07+00:00
-
- ## Market Data On Demand: Tailor-Made Solutions by QUODD
- - [https://www.quodd.com](https://www.quodd.com)
- - date_published: 2024-09-15T22:50:08+00:00
-
- ## Quod Soler | Unreal Engine Gameplay Programming
- - [https://quodsoler.com](https://quodsoler.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Diseño gráfico y web - Quokka Design
- - [http://quokkadesign.com](http://quokkadesign.com)
- - date_published: 2024-09-18T23:40:00.799049+00:00
-
- ## Quokka - JavaScript and TypeScript playground in your editor
- - [https://quokkajs.com](https://quokkajs.com)
- - date_published: 2024-03-03T00:00:00+00:00
- - tags: ['typescript', 'online tool', 'javascript']
-
- ## Quontic Bank
- - [https://olb.quontic.com](https://olb.quontic.com)
- - date_published: 2024-07-10T03:55:19.417413+00:00
-
- ## Home
- - [https://quontic.com](https://quontic.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Quontic Bank
- - [https://olb.quonticbank.com](https://olb.quonticbank.com)
- - date_published: 2024-07-10T03:55:01.026546+00:00
 

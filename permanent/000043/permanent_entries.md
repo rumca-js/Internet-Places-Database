@@ -1,3 +1,25 @@
+ ## Andrew Griffiths | DevOps Engineer
+ - [https://andrewgriffithsonline.com](https://andrewgriffithsonline.com)
+ - date_published: 2023-01-07T09:35:18+00:00
+ - tags: ['personal']
+
+ ## Andrew Hallam - Speaker, Author, Personal Finance Journalist
+ - [https://andrewhallam.com](https://andrewhallam.com)
+ - date_published: 2024-05-29T04:08:05.335637+00:00
+
+ ## Andrew Heiss
+ - [https://andrewheiss.com](https://andrewheiss.com)
+ - date_published: 2024-04-16T05:28:33.597955+00:00
+ - tags: ['personal']
+
+ ## Data Visualization
+ - [https://datavizs22.classes.andrewheiss.com](https://datavizs22.classes.andrewheiss.com)
+ - date_published: 2022-06-09T01:03:26+00:00
+
+ ## Microeconomics
+ - [https://econs22.classes.andrewheiss.com](https://econs22.classes.andrewheiss.com)
+ - date_published: 2022-06-09T00:55:36+00:00
+
  ## Program Evaluation - Program Evaluation for Public Service
  - [https://evalf22.classes.andrewheiss.com](https://evalf22.classes.andrewheiss.com)
  - date_published: 2022-10-03T15:37:20+00:00
@@ -4042,24 +4064,4 @@
  ## Home | Under The Sea
  - [https://www.aphmeow.com](https://www.aphmeow.com)
  - date_published: 2024-06-19T01:59:04.103293+00:00
-
- ## Daily Computer & Technology News, Reviews, Discussion | APH Networks
- - [https://aphnetworks.com](https://aphnetworks.com)
- - date_published: 2024-06-29T06:22:38+00:00
-
- ## Andrew Holt, Ph.D.
- - [https://apholt.com](https://apholt.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## APhone
- - [http://aphone.com](http://aphone.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Aphotic Ink – Words by Frances Rowat
- - [https://aphotic-ink.com](https://aphotic-ink.com)
- - date_published: 2024-08-19T05:13:52.862062+00:00
-
- ## Aphotic
- - [https://aphoticrestaurant.com](https://aphoticrestaurant.com)
- - date_published: 2024-06-24T06:03:55.237314+00:00
 

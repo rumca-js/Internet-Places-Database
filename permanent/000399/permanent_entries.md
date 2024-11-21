@@ -1,3 +1,248 @@
+ ## Bogaty Ojciec
+ - [https://bogatyojciec.pl](https://bogatyojciec.pl)
+ - date_published: 2024-04-04T19:55:07+00:00
+ - tags: ['robert kiyosaki']
+
+ ## Sklep Bogaty Ojciec
+ - [https://sklep.bogatyojciec.pl](https://sklep.bogatyojciec.pl)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Dołącz do bohaterów domu!
+ - [https://bohaterdomu.pl](https://bohaterdomu.pl)
+ - date_published: 2024-05-26T13:42:07.731032+00:00
+
+ ## BOLTER.pl
+ - [https://bolter.pl](https://bolter.pl)
+ - date_published: 2023-10-27T08:00:40.271425+00:00
+ - tags: ['board games', 'tabletop games']
+
+ ## Bôłt – New Music in Eastern Europe
+ - [https://boltrecords.pl](https://boltrecords.pl)
+ - date_published: 2024-05-07T15:31:19.145051+00:00
+
+ ## BOMEGA | To serwis internetowy z ogromną dawką wiarygodnych informacji, poświęcony dla tych, którzy lubią znać prawdę. Każdy z nas tworzy własną rzeczywistość, i każdy z nas chce wypełniać swój dzień pozytywną dawką dziennych informacji. Sam zdecyduj, jakimi wiadomościami z Polski oraz Świata chcesz się otaczać, dzięki zaawansowanym filtrom, dobierz tematy, które najbardziej Cię interesują.
+ - [https://bomega.pl](https://bomega.pl)
+ - date_published: 2023-10-25T22:26:10.720989+00:00
+
+ ## BOMET | Producent maszyn rolniczych
+ - [https://bomet.pl](https://bomet.pl)
+ - date_published: 2024-08-19T19:50:05.617259+00:00
+
+ ## Bonnier Business Polska
+ - [https://bonnier.pl](https://bonnier.pl)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Sklep internetowy z odzieżą damską, męską i dziecięcą
+ - [https://www.bonprix.pl](https://www.bonprix.pl)
+ - date_published: 2024-10-13T08:05:14.132594+00:00
+
+ ## * Fotografia * Design * Architektura * Moda * Sztuka *
+ - [http://www.bookoff.pl](http://www.bookoff.pl)
+ - date_published: 2021-05-18T00:00:00+00:00
+
+ ## Boop
+ - [https://boop.pl](https://boop.pl)
+ - date_published: 2024-06-13T17:05:22+00:00
+ - tags: ['drama news']
+
+ ## Home Page
+ - [https://www.bosbank.pl](https://www.bosbank.pl)
+ - date_published: 2024-07-13T19:13:12.139534+00:00
+
+ ## Strona główna
+ - [http://www.bosch.pl](http://www.bosch.pl)
+ - date_published: 2024-10-13T23:45:03+00:00
+
+ ## Wysokiej jakości zrównoważone urządzenia gospodarstwa domowego | Bosch
+ - [https://bosch-home.pl](https://bosch-home.pl)
+ - date_published: 2024-10-14T18:44:45.886384+00:00
+
+ ## Cyberprzestępcy u nas w świetle reflektorów.
+ - [http://bothunters.pl](http://bothunters.pl)
+ - date_published: 2024-07-13T20:26:55.954057+00:00
+
+ ## Botsense
+ - [https://botsense.pl](https://botsense.pl)
+ - date_published: 2024-05-26T17:01:12.603485+00:00
+
+ ## Botsense - english version
+ - [https://en.botsense.pl](https://en.botsense.pl)
+ - date_published: 2024-09-02T13:52:16.911095+00:00
+
+ ## Boże Krówki
+ - [https://bozekrowki.pl](https://bozekrowki.pl)
+ - date_published: 2023-12-04T17:42:45+00:00
+ - tags: ['catholic', 'charity', 'religion']
+
+ ## BraciaSamcy.pl
+ - [http://braciasamcy.pl](http://braciasamcy.pl)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## BrandBuddies - Home of influencers marketing
+ - [https://brandbuddies.pl](https://brandbuddies.pl)
+ - date_published: 2024-07-14T08:04:39.857321+00:00
+
+ ## Usuwanie włosów, Produkty do pielęgnacji ciała i włosów dla mężczyzn i kobiet – Braun PL
+ - [https://www.braun.pl](https://www.braun.pl)
+ - date_published: 2024-10-18T20:27:45.123596+00:00
+
+ ## Home - brd24.pl
+ - [https://brd24.pl](https://brd24.pl)
+ - date_published: 2023-10-31T16:18:06.350280+00:00
+ - tags: ['news']
+
+ ## Breakout Days
+ - [https://breakoutdays.pl](https://breakoutdays.pl)
+ - date_published: 2024-09-03T19:25:40.118354+00:00
+
+ ## .:ILG:. - Internetowa Liturgia Godzin
+ - [https://brewiarz.pl](https://brewiarz.pl)
+ - date_published: 2024-11-16T06:36:02+00:00
+ - tags: ['catholic', 'religiom']
+
+ ## Opony Premium i Rozwiązania w zakresie mobilności. | Bridgestone Polska |Opony Premium i Rozwiązania w zakresie mobilności.
+ - [https://www.bridgestone.pl](https://www.bridgestone.pl)
+ - date_published: 2024-09-03T12:17:56+00:00
+
+ ## BRIEF.PL - Pierwsze źródło inspiracji w biznesie
+ - [https://brief.pl](https://brief.pl)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Software Development Company
+ - [https://brightinventions.pl](https://brightinventions.pl)
+ - date_published: 2024-06-21T07:32:15+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.pl](https://atyourside.brother.pl)
+ - date_published: 2024-06-17T21:03:45.678152+00:00
+
+ ## Drukarki biurowe | Rozwiązania biznesowe | Brother
+ - [https://www.brother.pl](https://www.brother.pl)
+ - date_published: 2024-05-02T11:29:17.430748+00:00
+
+ ## Brotherstore - oficjalny sklep internetowy
+ - [https://brotherstore.pl](https://brotherstore.pl)
+ - date_published: 2024-06-18T06:01:52.777617+00:00
+
+ ## Portal technologiczny BrowseHappy.pl
+ - [http://browsehappy.pl](http://browsehappy.pl)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## Biuro Reklamy TVP - Telewizja Polska S.A
+ - [https://brtvp.pl](https://brtvp.pl)
+ - date_published: 2024-06-27T05:35:27.002124+00:00
+
+ ## Ściągi, wypracowania, lektury - Bryk.pl
+ - [https://www.bryk.pl](https://www.bryk.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Klienci indywidualni - Bank Spółdzielczy w Andrespolu
+ - [https://bs-andrespol.pl](https://bs-andrespol.pl)
+ - date_published: 2024-06-26T13:44:17+00:00
+
+ ## Rozwiązania i usługi dla firm
+ - [https://cdndev.bsbox.pl](https://cdndev.bsbox.pl)
+ - date_published: 2024-07-09T12:51:20.094804+00:00
+
+ ## Strona startowa
+ - [http://www.bskozuchow.pl](http://www.bskozuchow.pl)
+ - date_published: 2024-07-13T19:13:17.633213+00:00
+
+ ## Klienci indywidualni - Bank Spółdzielczy w Lubaczowie
+ - [https://www.bslubaczow.pl](https://www.bslubaczow.pl)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Budda Play- Twój Kawałek Podłogi
+ - [https://buddaplay.pl](https://buddaplay.pl)
+ - date_published: 2024-08-08T19:24:07.353448+00:00
+
+ ## Strona główna - Budimex
+ - [https://www.budimex.pl](https://www.budimex.pl)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## BudownictwoB2B
+ - [https://budownictwob2b.pl](https://budownictwob2b.pl)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Budujemy Dom
+ - [https://budujemydom.pl](https://budujemydom.pl)
+ - date_published: 2023-12-13T14:59:39.198025+00:00
+ - tags: ['home articles']
+
+ ## Forum budowlane - BudujemyDom.pl
+ - [https://forum.budujemydom.pl](https://forum.budujemydom.pl)
+ - date_published: 2024-08-18T10:49:03+00:00
+
+ ## Magazyn Budujemy Dom
+ - [https://magazyn.budujemydom.pl](https://magazyn.budujemydom.pl)
+ - date_published: 2024-08-18T10:49:08.026549+00:00
+
+ ## Projekty domów - gotowe projekty 2023 | Projekty BD
+ - [https://projekty.budujemydom.pl](https://projekty.budujemydom.pl)
+ - date_published: 2023-12-13T14:58:11.556097+00:00
+ - tags: ['home articles']
+
+ ## Strona główna
+ - [https://buldogi-francuskie.pl](https://buldogi-francuskie.pl)
+ - date_published: 2024-01-20T00:02:49+00:00
+
+ ## Projektowanie stron www - Agencja interaktywna Warszawa BULL DESIGN
+ - [https://bull-design.pl](https://bull-design.pl)
+ - date_published: 2024-05-26T20:31:02.013194+00:00
+
+ ## Bulldogjob - Think IT
+ - [https://bulldogjob.pl](https://bulldogjob.pl)
+ - date_published: 2023-10-25T22:26:18.519501+00:00
+
+ ## Kup złoto i srebro przez Internet po najniższych cenach | BullionVault
+ - [https://zloto.bullionvault.pl](https://zloto.bullionvault.pl)
+ - date_published: 2024-06-18T08:56:23.424688+00:00
+
+ ## Strona główna - Publisher BurdaConnect
+ - [https://www.burdaconnect.pl](https://www.burdaconnect.pl)
+ - date_published: 2024-06-20T07:15:33.959281+00:00
+
+ ## mojedane.burdamedia.pl
+ - [https://mojedane.burdamedia.pl](https://mojedane.burdamedia.pl)
+ - date_published: 2024-06-20T07:15:09.504972+00:00
+
+ ## Burda Media Polska
+ - [https://www.burdamedia.pl](https://www.burdamedia.pl)
+ - date_published: 2024-06-20T08:19:25.237579+00:00
+
+ ## Kursy Busem Przez Świat – Platforma z kursami online
+ - [https://kursy.busemprzezswiat.pl](https://kursy.busemprzezswiat.pl)
+ - date_published: 2024-05-09T07:10:11.012863+00:00
+
+ ## Business Marketer is coming soon
+ - [https://businessmarketer.pl](https://businessmarketer.pl)
+ - date_published: 2024-07-11T23:52:09.939860+00:00
+
+ ## Strona główna - BusLive
+ - [https://buslive.pl](https://buslive.pl)
+ - date_published: 2023-01-12T15:49:15+00:00
+
+ ## Strona startowa ceny od 2023-12-10
+ - [http://bustramwajkolej.pl](http://bustramwajkolej.pl)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## BiggerB - Performance Marketing, Social Media
+ - [http://www.buzzit.pl](http://www.buzzit.pl)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## BWA Zielona Góra - Aktualności
+ - [https://bwazg.pl](https://bwazg.pl)
+ - date_published: 2024-05-07T18:39:50.201257+00:00
+
+ ## Spring, Hibernate, Java - Programistyczny blog Java, Spring
+ - [https://bykowski.pl](https://bykowski.pl)
+ - date_published: 2024-06-06T14:03:20+00:00
+ - tags: ['personal']
+
+ ## 🔴 Szkolenia i Sesje LiveCodingowe Dla Java Developerów!
+ - [https://live.bykowski.pl](https://live.bykowski.pl)
+ - date_published: 2023-11-25T14:26:36+00:00
+
  ## SEGA-SKY | Niebo dla fanów konsol Dreamcast i Saturn od 2005 roku!
  - [http://prv.c0.pl](http://prv.c0.pl)
  - date_published: 2024-08-04T10:35:33+00:00
@@ -3827,247 +4072,4 @@
  ## Obserwatorium Kultury - Strona główna
  - [http://obserwatorium.ikm.gda.pl](http://obserwatorium.ikm.gda.pl)
  - date_published: 2024-07-01T08:07:06.269601+00:00
-
- ## Otwarty IKM
- - [https://otwarty.ikm.gda.pl](https://otwarty.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:21.207581+00:00
-
- ## Homepage - ${res.getProperty('base.library.full')}
- - [https://pbc.gda.pl](https://pbc.gda.pl)
- - date_published: 2024-08-19T17:45:50+00:00
-
- ## Informacje dla autorów nadsyłających materiały
- - [https://utw.diecezja.gda.pl](https://utw.diecezja.gda.pl)
- - date_published: 2024-07-17T07:14:36.271691+00:00
-
- ## Agencja Rozwoju Pomorza S.A. | Agencja Rozwoju Pomorza S.A.
- - [https://www.arp.gda.pl](https://www.arp.gda.pl)
- - date_published: 2024-07-01T08:06:23.780276+00:00
-
- ## Strona główna
- - [https://www.caritas.gda.pl](https://www.caritas.gda.pl)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Wydział Katechetyczny Archidiecezji Gdańskiej
- - [http://www.katecheza.diecezja.gda.pl](http://www.katecheza.diecezja.gda.pl)
- - date_published: 2024-07-17T07:09:13.744143+00:00
-
- ## Diecezjalne Duszpasterstwo Młodzieży
- - [https://www.mlodziez.diecezja.gda.pl](https://www.mlodziez.diecezja.gda.pl)
- - date_published: 2024-07-17T07:09:07.882924+00:00
-
- ## Witamy na stronie startowej
- - [http://www.poradnictwo.gda.pl](http://www.poradnictwo.gda.pl)
- - date_published: 2024-07-17T07:14:28+00:00
-
- ## Pomorska Rada Bezpieczeństwa Ruchu Drogowego
- - [http://www.prbrd.gda.pl](http://www.prbrd.gda.pl)
- - date_published: 2024-07-13T19:10:47.751277+00:00
-
- ## Studia Gdańskie
- - [http://www.studiagdanskie.diecezja.gda.pl](http://www.studiagdanskie.diecezja.gda.pl)
- - date_published: 2024-07-17T07:14:41.086699+00:00
-
- ## Szkoła Biblijna Archidiecezji Gdańskiej
- - [http://www.szkolabiblijna.gda.pl](http://www.szkolabiblijna.gda.pl)
- - date_published: 2024-07-17T07:08:58.603119+00:00
-
- ## ZTM w Gdańsku
- - [https://ztm.gda.pl](https://ztm.gda.pl)
- - date_published: 2024-10-16T19:15:04.218788+00:00
- - tags: ['public transportation', 'government']
-
- ## Bazylika Mariacka w Gdańsku
- - [https://bazylikamariacka.gdansk.pl](https://bazylikamariacka.gdansk.pl)
- - date_published: 2024-07-17T07:14:27.366366+00:00
-
- ## Oficjalny portal miasta Gdańska
- - [https://www.gdansk.pl](https://www.gdansk.pl)
- - date_published: 2024-07-01T08:07:38.820459+00:00
-
- ## Strona główna
- - [http://gdanskifunduszfilmowy.pl](http://gdanskifunduszfilmowy.pl)
- - date_published: 2024-07-01T08:07:40.633786+00:00
-
- ## SEO Blog - Blog O Pozycjonowaniu I Optymalizacji Stron
- - [http://www.blog.gdaq.pl](http://www.blog.gdaq.pl)
- - date_published: 2024-07-02T17:27:19+00:00
-
- ## Gdynia - Otwarte Dane
- - [https://otwartedane.gdynia.pl](https://otwartedane.gdynia.pl)
- - date_published: 2024-07-17T16:27:26.357456+00:00
-
- ## Serwis internetowy Miasta Gdynia
- - [https://www.gdynia.pl](https://www.gdynia.pl)
- - date_published: 2024-07-01T08:06:21.306096+00:00
-
- ## Co i gdzie?
- - [http://gdzie.pl](http://gdzie.pl)
- - date_published: 2023-10-07T11:55:43+00:00
-
- ## Co i gdzie?
- - [http://www.tpak.gdzie.pl](http://www.tpak.gdzie.pl)
- - date_published: 2023-10-07T11:55:43+00:00
-
- ## GeekRetro blog - Pasja do gier klasycznych | geekretro.pl
- - [https://geekretro.pl](https://geekretro.pl)
- - date_published: 2024-05-30T01:02:10.680766+00:00
-
- ## Software House WooCommerce — GeekRoom.pl
- - [http://geekroom.pl](http://geekroom.pl)
- - date_published: 2024-07-15T11:16:12+00:00
-
- ## Geekweb – Lekki blog technologiczno-rozrywkowy
- - [https://geekweb.pl](https://geekweb.pl)
- - date_published: 2024-08-19T23:58:54.669473+00:00
-
- ## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
- - [https://geekweek.pl](https://geekweek.pl)
- - date_published: 2023-10-25T22:27:43.375194+00:00
-
- ## GELG – We Work With Metal
- - [https://gelg.pl](https://gelg.pl)
- - date_published: 2024-09-02T13:53:56.609805+00:00
-
- ## Strona główna
- - [https://www.gemius.pl](https://www.gemius.pl)
- - date_published: 2024-06-25T20:20:49+00:00
-
- ## Generator domen
- - [http://www.generatordomen.pl](http://www.generatordomen.pl)
- - date_published: 2024-09-04T10:57:04.192076+00:00
-
- ## Generujemy.pl
- - [https://generujemy.pl](https://generujemy.pl)
- - date_published: 2024-07-12T15:12:06.509837+00:00
-
- ## Genialne - Zainspiruj się!
- - [https://genialne.pl](https://genialne.pl)
- - date_published: 2024-07-20T02:58:01.059324+00:00
-
- ## genompolski.pl
- - [https://genompolski.pl](https://genompolski.pl)
- - date_published: 2024-09-02T14:16:33.374258+00:00
-
- ## Page Redirection
- - [http://sip.geopoz.pl](http://sip.geopoz.pl)
- - date_published: 2016-06-13T11:57:29+00:00
-
- ## Doradzamy, Projektujemy, Kodujemy, Angażujemy. | GETID Interactive
- - [http://getid.pl](http://getid.pl)
- - date_published: 2024-09-02T13:55:38.998162+00:00
-
- ## Klienci indywidualni - VeloBank
- - [https://www.getinbank.pl](https://www.getinbank.pl)
- - date_published: 2024-07-13T19:12:49+00:00
-
- ## GetResponse | Profesjonalny email marketing dla każdego
- - [https://www.getresponse.pl](https://www.getresponse.pl)
- - date_published: 2024-09-03T20:24:37.787586+00:00
-
- ## Game Exe :: Pillars of Eternity, Skyrim, Wiedźmin 3, Dragon Age: Inkwizycja, Mass Effect 3, cRPG, RPG, Fantasy
- - [https://gexe.pl](https://gexe.pl)
- - date_published: 2023-10-27T13:52:06.302322+00:00
- - tags: ['game news']
-
- ## Biuro prasowe GG
- - [https://biuroprasowe.gg.pl](https://biuroprasowe.gg.pl)
- - date_published: 2024-06-14T07:32:35.312667+00:00
-
- ## GG - Messenger Lightweight & Simple
- - [https://en.gg.pl](https://en.gg.pl)
- - date_published: 2024-06-14T07:32:39.236469+00:00
-
- ## Forum pomocy GG - 
-		
-		Forum pomocy GG
- - [https://forum.gg.pl](https://forum.gg.pl)
- - date_published: 2024-06-14T07:32:26.583044+00:00
-
- ## GG - Lekki i Niezawodny Komunikator (d. Gadu-Gadu)
- - [https://gg.pl](https://gg.pl)
- - date_published: 2023-10-25T13:22:16.410779+00:00
- - tags: ['gadu gadu', 'social communicator']
-
- ## Ogłoszenia GG
- - [https://ogloszenia.gg.pl](https://ogloszenia.gg.pl)
- - date_published: 2024-06-14T07:32:33+00:00
-
- ## Sklep GG ( Gadu-Gadu )
- - [https://shop.gg.pl](https://shop.gg.pl)
- - date_published: 2024-06-14T07:32:32.907624+00:00
-
- ## GG Widget
- - [https://widget2.gg.pl](https://widget2.gg.pl)
- - date_published: 2024-08-22T12:28:08+00:00
-
- ## GHOST Day: Applied Machine Learning Conference
- - [https://ghostday.pl](https://ghostday.pl)
- - date_published: 2024-07-13T04:41:33.925683+00:00
-
- ## Giełda Metali Szlachetnych
- - [https://www.gieldametaliszlachetnych.pl](https://www.gieldametaliszlachetnych.pl)
- - date_published: 2024-08-18T17:03:43.217867+00:00
-
- ## Giełda Miejskich Technologii
- - [https://gieldamiejskichtechnologii.pl](https://gieldamiejskichtechnologii.pl)
- - date_published: 2024-07-17T08:00:34+00:00
-
- ## Giełda Rolna – ogłoszenia rolnicze i spożywcze
- - [https://www.gieldarolna.pl](https://www.gieldarolna.pl)
- - date_published: 2024-07-14T05:21:43.129071+00:00
-
- ## Gry online - zagraj w darmowe gry na Giercownia.pl
- - [https://giercownia.pl](https://giercownia.pl)
- - date_published: 2023-11-13T11:59:22.324826+00:00
- - tags: ['video games']
-
- ## Gry na telefon i tablet - darmowe gry online!
- - [http://m.giercownia.pl](http://m.giercownia.pl)
- - date_published: 2024-08-18T13:38:23.744336+00:00
-
- ## Gildia.pl
- - [https://www.gildia.pl](https://www.gildia.pl)
- - date_published: 2024-08-17T22:46:52.060732+00:00
-
- ## Gildia Pióra
- - [https://api.gildiapiora.pl](https://api.gildiapiora.pl)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Gildia Pióra
- - [https://gildiapiora.pl](https://gildiapiora.pl)
- - date_published: 2024-04-01T00:00:00+00:00
- - tags: ['writing', 'reading', 'hobby', 'poems', 'books']
-
- ## Mężczyzn Maszynki Golarki I Trymery  | Gillette Polska
- - [https://www.gillette.pl](https://www.gillette.pl)
- - date_published: 2024-10-18T20:28:07.194810+00:00
-
- ## Maszynki i produkty do golenia dla kobiet  Gillette Venus | Venus PL
- - [https://www.gillettevenus.pl](https://www.gillettevenus.pl)
- - date_published: 2024-10-18T20:27:42.500657+00:00
-
- ## girls.js – JavaScript dla kobiet i dziewcząt – zawsze za darmo, zawsze na luzie
- - [http://girlsjs.pl](http://girlsjs.pl)
- - date_published: 2024-06-28T17:27:45.724198+00:00
-
- ## gisplay.pl - portal geoinformacyjny
- - [https://gisplay.pl](https://gisplay.pl)
- - date_published: 2024-07-03T01:56:13+00:00
-
- ## Dla domu
- - [https://www.gkpge.pl](https://www.gkpge.pl)
- - date_published: 2024-06-20T09:03:37.086185+00:00
-
- ## Adserver
- - [https://tools.glamour.pl](https://tools.glamour.pl)
- - date_published: 2024-06-20T07:14:55.158878+00:00
-
- ## Glamour.pl – Trendy, Mody, Uroda, Rozrywka
- - [https://www.glamour.pl](https://www.glamour.pl)
- - date_published: 2024-05-04T08:12:55.107432+00:00
-
- ## GlamRap.pl - Napędza hip-hop'ową gospodarkę
- - [https://glamrap.pl](https://glamrap.pl)
- - date_published: 2024-09-02T13:50:48.304143+00:00
 

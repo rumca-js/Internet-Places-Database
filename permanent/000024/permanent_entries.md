@@ -1,3 +1,19 @@
+ ## Umami
+ - [https://umami.upchur.ch](https://umami.upchur.ch)
+ - date_published: 2024-08-18T03:28:46.091771+00:00
+
+ ## Unlocking the Power of Data Initiative
+ - [https://www.upd-initiative.ch](https://www.upd-initiative.ch)
+ - date_published: 2024-07-16T22:16:49.625367+00:00
+
+ ## Accueil
+ - [https://uplausanne.ch](https://uplausanne.ch)
+ - date_published: 2024-06-14T15:27:59.244840+00:00
+
+ ## Neuigkeiten - VSV - AUPS
+ - [https://www.up-vhs.ch](https://www.up-vhs.ch)
+ - date_published: 2024-09-15T00:02:44.944947+00:00
+
  ## LES URBAINES
  - [http://urbaines.ch](http://urbaines.ch)
  - date_published: 2024-07-13T15:16:25.609184+00:00
@@ -3995,20 +4011,4 @@
  ## Datameer | A Data Transformation Platform
  - [https://datameer.kinsta.cloud](https://datameer.kinsta.cloud)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## Datawords | Agence de marketing et stratégie digitale
- - [https://datawords.kinsta.cloud](https://datawords.kinsta.cloud)
- - date_published: 2023-06-27T05:45:42+00:00
-
- ## Digital Solutions for Frontline Work | Dimagi
- - [https://dimagi.kinsta.cloud](https://dimagi.kinsta.cloud)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## index - Mad in Norway
- - [https://madinnorway.kinsta.cloud](https://madinnorway.kinsta.cloud)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## UK Rail News | UK Train News | Rail Business Daily
- - [https://railbusinessdaily.temp927.kinsta.cloud](https://railbusinessdaily.temp927.kinsta.cloud)
- - date_published: 2024-04-15T00:00:00+00:00
 

@@ -1,3 +1,240 @@
+ ## ONU Programme Alimentaire Mondial (PAM)
+ - [https://fr.wfp.org](https://fr.wfp.org)
+ - date_published: 2024-06-19T16:44:55.863779+00:00
+
+ ## HungerMap LIVE
+ - [https://hungermap.wfp.org](https://hungermap.wfp.org)
+ - date_published: 2024-05-20T12:32:14+00:00
+
+ ## WFP Innovation
+ - [https://innovation.wfp.org](https://innovation.wfp.org)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## ONU World Food Programme (WFP)
+ - [https://it1.wfp.org](https://it1.wfp.org)
+ - date_published: 2024-10-29T15:57:53.360931+00:00
+
+ ## ONU World Food Programme (WFP)
+ - [https://it.wfp.org](https://it.wfp.org)
+ - date_published: 2024-06-19T16:44:49.449955+00:00
+
+ ## WFP国連世界食糧計画（WFP）
+ - [https://ja.wfp.org](https://ja.wfp.org)
+ - date_published: 2024-06-19T16:44:57.796209+00:00
+
+ ## 유엔세계식량계획(WFP)
+ - [https://ko1.wfp.org](https://ko1.wfp.org)
+ - date_published: 2024-10-29T16:04:07.051040+00:00
+
+ ## 유엔세계식량계획(WFP)
+ - [https://ko.wfp.org](https://ko.wfp.org)
+ - date_published: 2024-06-19T16:45:18.817509+00:00
+
+ ## World Food Programme | Multimedia Hub  - Login/Registration
+ - [https://multimedia.wfp.org](https://multimedia.wfp.org)
+ - date_published: 2024-06-19T16:44:51.221368+00:00
+
+ ## FNs World Food Programme (WFP)
+ - [https://no1.wfp.org](https://no1.wfp.org)
+ - date_published: 2024-10-29T16:01:09.630583+00:00
+
+ ## FNs World Food Programme (WFP)
+ - [https://no.wfp.org](https://no.wfp.org)
+ - date_published: 2024-06-19T16:45:04.508890+00:00
+
+ ## Всемирная продовольственная программа ООН (ВПП ООН)
+ - [https://ru1.wfp.org](https://ru1.wfp.org)
+ - date_published: 2024-10-29T16:06:13.114176+00:00
+
+ ## Всемирная продовольственная программа ООН (ВПП ООН)
+ - [https://ru.wfp.org](https://ru.wfp.org)
+ - date_published: 2024-06-19T16:45:23.342943+00:00
+
+ ## FN World Food Programme (WFP)
+ - [http://sv1.wfp.org](http://sv1.wfp.org)
+ - date_published: 2024-10-29T16:01:55.645413+00:00
+
+ ## FN World Food Programme (WFP)
+ - [https://sv.wfp.org](https://sv.wfp.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## UN World Food Programme (WFP)
+ - [https://wfp.org](https://wfp.org)
+ - date_published: 2024-06-19T16:57:51+00:00
+
+ ## UN World Food Programme (WFP)
+ - [http://www1.wfp.org](http://www1.wfp.org)
+ - date_published: 2024-10-29T15:55:42.106078+00:00
+
+ ## 世界粮食计划署(WFP)
+ - [https://zh.wfp.org](https://zh.wfp.org)
+ - date_published: 2024-06-19T16:45:12.182661+00:00
+
+ ## CDP
+ - [https://donate.wfyi.org](https://donate.wfyi.org)
+ - date_published: 2024-08-18T17:35:49+00:00
+
+ ## WFYI Video
+ - [https://video.wfyi.org](https://video.wfyi.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Indianapolis' Public Radio, TV & News Station | WFYI
+ - [https://wfyi.org](https://wfyi.org)
+ - date_published: 2023-10-25T22:20:00.574986+00:00
+
+ ## WG5 Fortran Standards Home
+ - [https://wg5-fortran.org](https://wg5-fortran.org)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## WGAW Candidate
+ - [https://elections.wga.org](https://elections.wga.org)
+ - date_published: 2024-06-28T17:32:46+00:00
+
+ ## Writers Guild America West
+ - [https://secure.wga.org](https://secure.wga.org)
+ - date_published: 2024-08-07T23:52:45.306177+00:00
+
+ ## Writers Guild America West
+ - [https://www.wga.org](https://www.wga.org)
+ - date_published: 2024-07-16T21:36:12.524943+00:00
+
+ ## WGA Contract 2023
+ - [https://wgacontract2023.org](https://wgacontract2023.org)
+ - date_published: 2023-10-25T22:20:03.583080+00:00
+
+ ## CDP
+ - [https://donate.wgbh.org](https://donate.wgbh.org)
+ - date_published: 2024-08-18T12:09:46+00:00
+
+ ## Home
+ - [https://sponsorship.wgbh.org](https://sponsorship.wgbh.org)
+ - date_published: 2024-07-02T14:13:01+00:00
+
+ ## GBH.org
+ - [https://wgbh.org](https://wgbh.org)
+ - date_published: 2023-11-29T05:46:53.911077+00:00
+
+ ## WCGU: PBS and NPR for Southwest Florida | WGCU PBS & NPR for Southwest Florida
+ - [https://news.wgcu.org](https://news.wgcu.org)
+ - date_published: 2024-10-16T20:36:05.540176+00:00
+
+ ## William G. Pomeroy Foundation | For History, For Life
+ - [https://www.wgpfoundation.org](https://www.wgpfoundation.org)
+ - date_published: 2024-06-24T00:03:39+00:00
+
+ ## Whale Facts and Information
+ - [https://www.whalefacts.org](https://www.whalefacts.org)
+ - date_published: 2021-04-26T22:33:20+00:00
+
+ ## Kevin Whalen
+ - [https://whalen.org](https://whalen.org)
+ - date_published: 2024-07-21T23:28:06+00:00
+
+ ## Donate to Save Whales and Dolphins | Whale and Dolphin Conservation
+ - [https://adopt-us.whales.org](https://adopt-us.whales.org)
+ - date_published: 2024-06-21T10:04:11.299897+00:00
+
+ ## Whale & Dolphin Conservation Australia
+ - [https://au.whales.org](https://au.whales.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## whales.org | Whale & Dolphin Conservation | Wal- & Delfinschutz
+ - [https://de.whales.org](https://de.whales.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Whale & Dolphin Conservation UK
+ - [https://uk.whales.org](https://uk.whales.org)
+ - date_published: 2024-06-21T10:04:26.751076+00:00
+
+ ## Whale & Dolphin Conservation USA
+ - [https://us.whales.org](https://us.whales.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Whale & Dolphin Conservation UK
+ - [https://whales.org](https://whales.org)
+ - date_published: 2024-06-21T10:04:57.766650+00:00
+
+ ## The Whale Store
+ - [https://whalestore.org](https://whalestore.org)
+ - date_published: 2024-06-21T10:04:16.518926+00:00
+
+ ## IIS Windows Server
+ - [https://collections.whalingmuseum.org](https://collections.whalingmuseum.org)
+ - date_published: 2017-03-14T12:30:10+00:00
+
+ ## The White Whale at the New Bedford Whaling Museum. Gifts, Books, More.
+ - [http://store.whalingmuseum.org](http://store.whalingmuseum.org)
+ - date_published: 2024-06-29T04:52:00.179559+00:00
+
+ ## Home - New Bedford Whaling Museum
+ - [https://whalingmuseum.org](https://whalingmuseum.org)
+ - date_published: 2022-02-14T19:04:40+00:00
+
+ ## Wharton FinTech
+ - [https://www.whartonfintech.org](https://www.whartonfintech.org)
+ - date_published: 2024-05-06T13:10:34.908148+00:00
+
+ ## What can I do for Fedora?
+ - [https://whatcanidoforfedora.org](https://whatcanidoforfedora.org)
+ - date_published: 2023-11-16T18:42:04+00:00
+
+ ## What can I do for LibreOffice
+ - [https://whatcanidoforlibreoffice.org](https://whatcanidoforlibreoffice.org)
+ - date_published: 2024-05-08T09:35:16.347122+00:00
+
+ ## whatevs (dot org) | p.h.c.f.y.s.b.
+ - [http://whatevs.org](http://whatevs.org)
+ - date_published: 2024-10-21T05:28:49.356735+00:00
+
+ ## Chris Sacca's 'What is left?'
+ - [https://whatisleft.org](https://whatisleft.org)
+ - date_published: 2024-06-15T18:38:24.557379+00:00
+
+ ## What Is My Screen Resolution
+ - [https://whatismyscreenresolution.org](https://whatismyscreenresolution.org)
+ - date_published: 2024-01-07T05:40:05+00:00
+
+ ## What Is Scientology? Beliefs & Facts - Church of Scientology
+ - [https://whatisscientology.org](https://whatisscientology.org)
+ - date_published: 2015-03-31T00:00:00+00:00
+ - tags: ['scientology']
+
+ ## Hello world
+ - [https://whatpr.org](https://whatpr.org)
+ - date_published: 2017-12-01T16:48:49+00:00
+
+ ## Get Breaking News, Latest Updates and In-Depth Analysis | What's In The News
+ - [https://whatsinthenews.org](https://whatsinthenews.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## What browser am I using?
+ - [https://www.whatsmybrowser.org](https://www.whatsmybrowser.org)
+ - date_published: 2024-06-16T10:55:06.035761+00:00
+
+ ## What's Up With Opioids?
+ - [https://www.whatsupwithopioids.org](https://www.whatsupwithopioids.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Index of /
+ - [http://whattf.org](http://whattf.org)
+ - date_published: 2021-01-17T00:00:00+00:00
+
+ ## The WHATWG Blog
+ - [https://blog.whatwg.org](https://blog.whatwg.org)
+ - date_published: 2023-10-25T00:00:00+00:00
+
+ ## Compatibility Standard
+ - [https://compat.spec.whatwg.org](https://compat.spec.whatwg.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Compression Standard
+ - [https://compression.spec.whatwg.org](https://compression.spec.whatwg.org)
+ - date_published: 2024-05-30T08:26:26+00:00
+
+ ## Console Standard
+ - [https://console.spec.whatwg.org](https://console.spec.whatwg.org)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## HTML Standard, Edition for Web Developers
  - [https://developers.whatwg.org](https://developers.whatwg.org)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -3770,240 +4007,4 @@
  ## វិគីភីឌា
  - [https://km.m.wikipedia.org](https://km.m.wikipedia.org)
  - date_published: 2024-07-09T12:22:16+00:00
-
- ## វិគីភីឌា
- - [https://km.wikipedia.org](https://km.wikipedia.org)
- - date_published: 2024-05-10T04:26:54.029627+00:00
-
- ## ವಿಕಿಪೀಡಿಯ
- - [https://kn.m.wikipedia.org](https://kn.m.wikipedia.org)
- - date_published: 2024-06-29T18:17:04+00:00
-
- ## ವಿಕಿಪೀಡಿಯ
- - [https://kn.wikipedia.org](https://kn.wikipedia.org)
- - date_published: 2024-05-07T15:41:51.112229+00:00
-
- ## Википедия
- - [https://koi.m.wikipedia.org](https://koi.m.wikipedia.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Википедия
- - [https://koi.wikipedia.org](https://koi.wikipedia.org)
- - date_published: 2024-05-10T04:29:16.545393+00:00
-
- ## 위키백과, 우리 모두의 백과사전
- - [https://ko.m.wikipedia.org](https://ko.m.wikipedia.org)
- - date_published: 2024-07-11T15:34:55+00:00
-
- ## 위키백과, 우리 모두의 백과사전
- - [https://ko.wikipedia.org](https://ko.wikipedia.org)
- - date_published: 2024-05-10T03:54:47.237768+00:00
-
- ## Википедия
- - [https://krc.m.wikipedia.org](https://krc.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Википедия
- - [https://krc.wikipedia.org](https://krc.wikipedia.org)
- - date_published: 2024-05-10T04:28:51.225670+00:00
-
- ## Wikipedia
- - [https://ksh.m.wikipedia.org](https://ksh.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Wikipedia
- - [https://ksh.wikipedia.org](https://ksh.wikipedia.org)
- - date_published: 2024-05-10T04:26:47.295403+00:00
-
- ## وِکیٖپیٖڈیا
- - [https://ks.m.wikipedia.org](https://ks.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## وِکیٖپیٖڈیا
- - [https://ks.wikipedia.org](https://ks.wikipedia.org)
- - date_published: 2024-05-10T04:17:55.632310+00:00
-
- ## Wîkîpediya
- - [https://ku.m.wikipedia.org](https://ku.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Wikipiidia
- - [https://kus.m.wikipedia.org](https://kus.m.wikipedia.org)
- - date_published: 2024-08-30T18:22:17+00:00
-
- ## Wikipedia
- - [https://kus.wikipedia.org](https://kus.wikipedia.org)
- - date_published: 2024-05-29T07:08:22.075321+00:00
-
- ## Wîkîpediya
- - [https://ku.wikipedia.org](https://ku.wikipedia.org)
- - date_published: 2024-05-10T04:27:52.847444+00:00
-
- ## Wikipedia
- - [https://kv.m.wikipedia.org](https://kv.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Wikipedia
- - [https://kv.wikipedia.org](https://kv.wikipedia.org)
- - date_published: 2024-05-10T04:15:51.313487+00:00
-
- ## Wikipedia, an godhoniador rydh
- - [https://kw.m.wikipedia.org](https://kw.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Wikipedia, an godhoniador rydh
- - [https://kw.wikipedia.org](https://kw.wikipedia.org)
- - date_published: 2024-05-10T04:29:49.436132+00:00
-
- ## Википедия
- - [https://ky.m.wikipedia.org](https://ky.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Википедия
- - [https://ky.wikipedia.org](https://ky.wikipedia.org)
- - date_published: 2024-05-10T04:25:46.419816+00:00
-
- ## Vikipedya
- - [https://lad.m.wikipedia.org](https://lad.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Vikipedya
- - [https://lad.wikipedia.org](https://lad.wikipedia.org)
- - date_published: 2024-05-10T04:26:10.635103+00:00
-
- ## Vicipaedia
- - [https://la.m.wikipedia.org](https://la.m.wikipedia.org)
- - date_published: 2024-07-11T17:49:10+00:00
-
- ## Vicipaedia
- - [https://la.wikipedia.org](https://la.wikipedia.org)
- - date_published: 2024-05-10T04:28:58.716323+00:00
-
- ## Википедия
- - [https://lbe.m.wikipedia.org](https://lbe.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Википедия
- - [https://lbe.wikipedia.org](https://lbe.wikipedia.org)
- - date_published: 2024-05-10T04:29:51.304841+00:00
-
- ## Wikipedia
- - [https://lb.m.wikipedia.org](https://lb.m.wikipedia.org)
- - date_published: 2024-07-11T20:27:18+00:00
-
- ## Wikipedia
- - [https://lb.wikipedia.org](https://lb.wikipedia.org)
- - date_published: 2024-05-10T04:17:31.526184+00:00
-
- ## Википедия
- - [https://lez.m.wikipedia.org](https://lez.m.wikipedia.org)
- - date_published: 2024-07-11T19:38:26+00:00
-
- ## Википедия
- - [https://lez.wikipedia.org](https://lez.wikipedia.org)
- - date_published: 2024-05-10T04:25:52.210299+00:00
-
- ## Vicipedia
- - [https://lfn.m.wikipedia.org](https://lfn.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:17+00:00
-
- ## Vicipedia
- - [https://lfn.wikipedia.org](https://lfn.wikipedia.org)
- - date_published: 2024-05-10T04:26:49.532365+00:00
-
- ## Wikipedia
- - [https://lg.m.wikipedia.org](https://lg.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://lg.wikipedia.org](https://lg.wikipedia.org)
- - date_published: 2024-05-10T04:18:51.927690+00:00
-
- ## Wikipedia
- - [https://lij.m.wikipedia.org](https://lij.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://lij.wikipedia.org](https://lij.wikipedia.org)
- - date_published: 2024-05-10T04:30:13.821089+00:00
-
- ## Wikipedia
- - [https://li.m.wikipedia.org](https://li.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://li.wikipedia.org](https://li.wikipedia.org)
- - date_published: 2024-05-10T04:25:36.939545+00:00
-
- ## Wikipedia
- - [https://lld.m.wikipedia.org](https://lld.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://lld.wikipedia.org](https://lld.wikipedia.org)
- - date_published: 2024-05-10T04:18:16.325903+00:00
-
- ## Wikipedia
- - [https://lmo.m.wikipedia.org](https://lmo.m.wikipedia.org)
- - date_published: 2024-07-10T12:28:40+00:00
-
- ## Wikipedia
- - [https://lmo.wikipedia.org](https://lmo.wikipedia.org)
- - date_published: 2024-05-10T04:27:39.194662+00:00
-
- ## Wikipedia
- - [https://ln.m.wikipedia.org](https://ln.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://ln.wikipedia.org](https://ln.wikipedia.org)
- - date_published: 2024-05-10T04:25:06.200030+00:00
-
- ## ວິກິພີເດຍ
- - [https://lo.m.wikipedia.org](https://lo.m.wikipedia.org)
- - date_published: 2024-07-11T21:48:33+00:00
-
- ## ວິກິພີເດຍ
- - [https://lo.wikipedia.org](https://lo.wikipedia.org)
- - date_published: 2024-05-10T04:18:22.956555+00:00
-
- ## ڤیکیپدیا، دونسمنامٱ آزاد
- - [https://lrc.m.wikipedia.org](https://lrc.m.wikipedia.org)
- - date_published: 2024-06-27T19:44:50+00:00
-
- ## ڤیکیپدیا، دونسمنامٱ آزاد
- - [https://lrc.wikipedia.org](https://lrc.wikipedia.org)
- - date_published: 2024-05-10T04:25:14.254896+00:00
-
- ## Vikipedeja
- - [https://ltg.m.wikipedia.org](https://ltg.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Vikipedeja
- - [https://ltg.wikipedia.org](https://ltg.wikipedia.org)
- - date_published: 2024-05-10T04:26:38.917027+00:00
-
- ## Vikipedija
- - [https://lt.m.wikipedia.org](https://lt.m.wikipedia.org)
- - date_published: 2024-06-19T16:18:18+00:00
-
- ## Vikipedija
- - [https://lt.wikipedia.org](https://lt.wikipedia.org)
- - date_published: 2024-05-04T14:04:02.356263+00:00
-
- ## Vikipēdija
- - [https://lv.m.wikipedia.org](https://lv.m.wikipedia.org)
- - date_published: 2024-07-11T01:05:13+00:00
-
- ## Vikipēdija
- - [https://lv.wikipedia.org](https://lv.wikipedia.org)
- - date_published: 2024-05-10T03:55:47.357975+00:00
-
- ## Wikipedia
- - [https://mad.m.wikipedia.org](https://mad.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:18+00:00
-
- ## Wikipedia
- - [https://mad.wikipedia.org](https://mad.wikipedia.org)
- - date_published: 2024-05-10T04:26:06.814825+00:00
 

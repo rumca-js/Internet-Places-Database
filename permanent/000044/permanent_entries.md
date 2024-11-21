@@ -1,3 +1,23 @@
+ ## Daily Computer & Technology News, Reviews, Discussion | APH Networks
+ - [https://aphnetworks.com](https://aphnetworks.com)
+ - date_published: 2024-06-29T06:22:38+00:00
+
+ ## Andrew Holt, Ph.D.
+ - [https://apholt.com](https://apholt.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## APhone
+ - [http://aphone.com](http://aphone.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Aphotic Ink – Words by Frances Rowat
+ - [https://aphotic-ink.com](https://aphotic-ink.com)
+ - date_published: 2024-08-19T05:13:52.862062+00:00
+
+ ## Aphotic
+ - [https://aphoticrestaurant.com](https://aphoticrestaurant.com)
+ - date_published: 2024-06-24T06:03:55.237314+00:00
+
  ## A. P. Howell
  - [https://aphowell.com](https://aphowell.com)
  - date_published: 2024-05-08T06:36:11.095433+00:00
@@ -892,6 +912,10 @@ my personal blog
  ## Appdome Support
  - [https://support.appdome.com](https://support.appdome.com)
  - date_published: 2024-07-13T19:55:17.488769+00:00
+
+ ## AppDoze - THE TRUSTED APPLICATION STORE
+ - [https://appdoze.com](https://appdoze.com)
+ - date_published: 2024-11-20T22:57:25.823286+00:00
 
  ## Cloud Academy - Learn serverless full stack development for free
  - [https://academy.appdrag.com](https://academy.appdrag.com)
@@ -4019,29 +4043,4 @@ my personal blog
  ## Home
  - [https://services9.arcgis.com](https://services9.arcgis.com)
  - date_published: 2024-10-14T22:01:05.188318+00:00
-
- ## Portal de Datos Abiertos del Sector Ambiente
- - [https://siac-datosabiertos-mads.hub.arcgis.com](https://siac-datosabiertos-mads.hub.arcgis.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## ArcGIS Online Health Dashboard
- - [https://status.arcgis.com](https://status.arcgis.com)
- - date_published: 2023-09-29T01:27:53+00:00
-
- ## ArcGIS StoryMaps
- - [https://storymaps.arcgis.com](https://storymaps.arcgis.com)
- - date_published: 2023-10-25T12:44:06.277153+00:00
- - tags: ['geoinformatics']
-
- ## Account Login - ArcGIS Survey123
- - [https://survey123.arcgis.com](https://survey123.arcgis.com)
- - date_published: 2024-04-24T23:53:48+00:00
-
- ## ArcGIS Hub
- - [https://tablero-datos-covid19-mads.hub.arcgis.com](https://tablero-datos-covid19-mads.hub.arcgis.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## ArcGIS Hub
- - [https://trabajoencasa-covid19-mads.hub.arcgis.com](https://trabajoencasa-covid19-mads.hub.arcgis.com)
- - date_published: 2024-09-06T00:00:00+00:00
 

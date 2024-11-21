@@ -1,3 +1,44 @@
+ ## Barry & Christy
+ - [https://barryandchristy.blogspot.com](https://barryandchristy.blogspot.com)
+ - date_published: 2024-10-05T03:12:07+00:00
+
+ ## Support for "Trick and Treat": How 'healthy eating' is making us ill
+ - [http://barrygroves.blogspot.com](http://barrygroves.blogspot.com)
+ - date_published: 2024-09-25T22:52:26+00:00
+
+ ## Barry Male Voice choir
+ - [http://barry-male-voice-choir.blogspot.com](http://barry-male-voice-choir.blogspot.com)
+ - date_published: 2024-09-09T08:48:41+00:00
+
+ ## The art of simplicity
+ - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
+ - date_published: 2023-10-25T09:06:01.627020+00:00
+ - tags: ['personal']
+
+ ## Getting Back into Baseball Cards....in Japan
+ - [http://baseballcardsinjapan.blogspot.com](http://baseballcardsinjapan.blogspot.com)
+ - date_published: 2024-08-03T23:30:08+00:00
+
+ ## Basement Gaming Bunker
+ - [http://basementgamingbunker.blogspot.com](http://basementgamingbunker.blogspot.com)
+ - date_published: 2024-03-14T10:37:58+00:00
+
+ ## Basic Fantasist
+ - [http://basicfantasist.blogspot.com](http://basicfantasist.blogspot.com)
+ - date_published: 2024-03-13T14:03:14+00:00
+
+ ## Basic Red
+ - [http://basicredrpg.blogspot.com](http://basicredrpg.blogspot.com)
+ - date_published: 2024-07-07T09:07:20+00:00
+
+ ## basic_sounds
+ - [http://basic_sounds.blogspot.com](http://basic_sounds.blogspot.com)
+ - date_published: 2024-09-09T03:54:39+00:00
+
+ ## Basil
+ - [http://basil-soratemplates.blogspot.com](http://basil-soratemplates.blogspot.com)
+ - date_published: 2019-08-21T00:00:00+00:00
+
  ## Bastard Books
  - [http://bastardbooks.blogspot.com](http://bastardbooks.blogspot.com)
  - date_published: 2024-10-19T07:46:55+00:00
@@ -3975,44 +4016,4 @@
  ## copernican turn
  - [http://copernicanturn.blogspot.com](http://copernicanturn.blogspot.com)
  - date_published: 2024-03-13T04:31:29+00:00
-
- ## Blogger
- - [https://copiousdissent.blogspot.com](https://copiousdissent.blogspot.com)
- - date_published: 2024-05-06T21:01:03.786581+00:00
-
- ## Copious Free Time
- - [https://copiousfreetime.blogspot.com](https://copiousfreetime.blogspot.com)
- - date_published: 2024-03-07T08:35:05+00:00
-
- ## Campaign for Conservative Democracy
- - [https://copov.blogspot.com](https://copov.blogspot.com)
- - date_published: 2024-10-21T15:13:42.052947+00:00
-
- ## +Copper Oracle+
- - [http://copperoracle.blogspot.com](http://copperoracle.blogspot.com)
- - date_published: 2024-06-14T02:45:52+00:00
-
- ## Blogger
- - [http://coppersblog.blogspot.com](http://coppersblog.blogspot.com)
- - date_published: 2024-06-27T07:32:03.219402+00:00
-
- ## Law Enforcement Against Prohibition
- - [http://copssaylegalize.blogspot.com](http://copssaylegalize.blogspot.com)
- - date_published: 2024-10-21T13:08:56.760151+00:00
-
- ## Copy, Right?
- - [http://copycommaright.blogspot.com](http://copycommaright.blogspot.com)
- - date_published: 2024-10-21T04:21:23.490008+00:00
-
- ## Science Geek
- - [http://copyleftgeek.blogspot.com](http://copyleftgeek.blogspot.com)
- - date_published: 2023-06-20T13:25:10+00:00
-
- ## The copy/paste programmer
- - [http://copypasteprogrammer.blogspot.com](http://copypasteprogrammer.blogspot.com)
- - date_published: 2024-02-07T17:54:06+00:00
-
- ## Copyright Litigation Blog
- - [https://copyrightlitigation.blogspot.com](https://copyrightlitigation.blogspot.com)
- - date_published: 2024-10-18T19:17:02.542888+00:00
 

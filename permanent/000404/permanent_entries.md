@@ -1,3 +1,241 @@
+ ## Visit Pitcairn - Open To Explore
+ - [https://visitpitcairn.pn](https://visitpitcairn.pn)
+ - date_published: 2024-05-12T06:31:54.904872+00:00
+
+ ## International Tracking
+ - [https://postnl.post](https://postnl.post)
+ - date_published: 2024-09-04T12:37:27+00:00
+
+ ## 3M Science. Applied to Life. | 3M Puerto Rico
+ - [https://www.3m.com.pr](https://www.3m.com.pr)
+ - date_published: 2024-08-06T10:37:23.813195+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.pr](https://images.google.com.pr)
+ - date_published: 2024-07-20T07:38:43.144014+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.com.pr](https://scholar.google.com.pr)
+ - date_published: 2024-06-22T21:45:07.827593+00:00
+
+ ## Google
+ - [https://www.google.com.pr](https://www.google.com.pr)
+ - date_published: 2024-06-21T22:23:38.820538+00:00
+
+ ## Santillana Digital Puerto Rico
+ - [https://digital.santillana.com.pr](https://digital.santillana.com.pr)
+ - date_published: 2023-07-27T17:21:22+00:00
+
+ ## SANTILLANA Puerto Rico - santillana.com.pr
+ - [https://santillana.com.pr](https://santillana.com.pr)
+ - date_published: 2024-06-12T12:56:18.051560+00:00
+
+ ## Tienda Santillana Puerto Rico
+ - [https://tienda.santillana.com.pr](https://tienda.santillana.com.pr)
+ - date_published: 2024-09-12T21:58:12.221956+00:00
+
+ ## Visa, un líder confiable en pagos digitales.
+ - [https://visa.com.pr](https://visa.com.pr)
+ - date_published: 2024-05-12T04:00:22.204093+00:00
+
+ ## Clarity Global | Digital Marketing & Communications Agency
+ - [https://clarity.pr](https://clarity.pr)
+ - date_published: 2024-10-29T15:45:49.893332+00:00
+
+ ## Droplr
+ - [https://d.pr](https://d.pr)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## IKEA Puerto Rico - Tienda online de muebles y decoración
+ - [https://www.ikea.pr](https://www.ikea.pr)
+ - date_published: 2024-07-19T23:44:23.018823+00:00
+
+ ## Short.nr login
+ - [https://kas.pr](https://kas.pr)
+ - date_published: 2024-05-02T12:06:37.542372+00:00
+
+ ## Money Group
+ - [https://moneygroup.pr](https://moneygroup.pr)
+ - date_published: 2024-05-04T05:25:29.777412+00:00
+
+ ## Distribuidor de Componentes Electrónicos - Mouser Electronics Puerto Rico
+ - [https://www.mouser.pr](https://www.mouser.pr)
+ - date_published: 2024-07-01T20:57:20.327936+00:00
+
+ ## NPR - Breaking News, Analysis, Music, Arts & Podcasts
+ - [https://n.pr](https://n.pr)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://aperio.press](https://aperio.press)
+ - date_published: 2024-10-19T11:07:09.972992+00:00
+
+ ## Asimov Press | Substack
+ - [https://www.asimov.press](https://www.asimov.press)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Boiler House Press | Literary publisher | University of East Anglia, Norwich, UK
+ - [https://www.boilerhouse.press](https://www.boilerhouse.press)
+ - date_published: 2024-08-18T13:25:08.625758+00:00
+
+ ## Bottlecap Press
+ - [https://bottlecap.press](https://bottlecap.press)
+ - date_published: 2024-07-15T07:25:23.784733+00:00
+
+ ## Climate- Science.press
+ - [https://climate-science.press](https://climate-science.press)
+ - date_published: 2024-06-29T20:02:34+00:00
+
+ ## Assert HN: An SQS Different on Postgres
+ - [https://cybe.press](https://cybe.press)
+ - date_published: 2024-05-11T05:35:55.650233+00:00
+
+ ## Decathlon Stampa - Comunicati e Cartelle Stampa, Attualità Sportiva ed Innovazione
+ - [https://it.decathlon.press](https://it.decathlon.press)
+ - date_published: 2024-09-19T13:35:32.263685+00:00
+
+ ## Discovery Institute Press
+ - [https://discovery.press](https://discovery.press)
+ - date_published: 2024-07-01T15:32:35.565398+00:00
+
+ ## Dogpatch Press
+ - [https://dogpatch.press](https://dogpatch.press)
+ - date_published: 2024-06-30T06:01:58.316099+00:00
+
+ ## The Elysian | Elle Griffin | Substack
+ - [https://elysian.press](https://elysian.press)
+ - date_published: 2024-04-22T21:21:30.902569+00:00
+
+ ## EMS Press
+ - [https://ems.press](https://ems.press)
+ - date_published: 2024-06-30T08:07:47.499972+00:00
+
+ ## ENCOUNT | エンカウント ―日本の「今」がここにある―
+ - [https://encount.press](https://encount.press)
+ - date_published: 2024-07-04T07:07:33.963885+00:00
+
+ ## Mastodon
+ - [https://federated.press](https://federated.press)
+ - date_published: 2024-05-08T10:50:34.861253+00:00
+
+ ## FeedPress – RSS Analytics and Podcast Hosting, Done Right
+ - [https://feed.press](https://feed.press)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://analytics.freedom.press](https://analytics.freedom.press)
+ - date_published: 2024-05-11T08:50:04.135711+00:00
+
+ ## Freedom of the Press Foundation
+ - [https://freedom.press](https://freedom.press)
+ - date_published: 2024-03-20T10:31:13+00:00
+ - tags: ['organisation', 'journalism', 'news']
+
+ ## Home - Game.Press
+ - [https://game.press](https://game.press)
+ - date_published: 2024-07-09T14:49:40+00:00
+
+ ## Ilex Press – Home
+ - [http://www.ilex.press](http://www.ilex.press)
+ - date_published: 2019-07-31T13:08:51+00:00
+
+ ## Insert Press
+ - [https://insert.press](https://insert.press)
+ - date_published: 2024-07-07T05:52:03.445821+00:00
+
+ ## Cтворення сайтів під ключ на Wordpress в Україні - замовити у веб-студії Letsmake.site
+ - [http://kroog.press](http://kroog.press)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Lenz Press
+ - [https://lenz.press](https://lenz.press)
+ - date_published: 2024-10-29T13:52:53.832053+00:00
+
+ ## Data-centric Machine Learning Research
+ - [https://data.mlr.press](https://data.mlr.press)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Proceedings of Machine Learning Research
+ - [https://proceedings.mlr.press](https://proceedings.mlr.press)
+ - date_published: 2024-04-30T05:43:17.903070+00:00
+
+ ## Navigatio Press
+ - [https://navigatio.press](https://navigatio.press)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## nuxt.press
+ - [https://nuxt.press](https://nuxt.press)
+ - date_published: 2024-09-04T15:05:09.271501+00:00
+
+ ## OKO.press – Informacje, analizy, śledztwa, reportaże, fact-checkingi
+ - [https://oko.press](https://oko.press)
+ - date_published: 2023-10-25T22:34:03.062465+00:00
+ - tags: ['the left news']
+
+ - [https://server-side.oko.press](https://server-side.oko.press)
+ - date_published: 2024-04-07T14:02:48.369532+00:00
+
+ ## The Climate Issue
+ - [https://parametric.press](https://parametric.press)
+ - date_published: 2020-10-19T04:50:58+00:00
+
+ ## Passage Publishing
+ - [https://passage.press](https://passage.press)
+ - date_published: 2024-06-18T16:17:25.294028+00:00
+
+ ## Homepage
+ - [http://princeton.press](http://princeton.press)
+ - date_published: 2024-07-01T05:18:48+00:00
+
+ ## The Private Citizen
+ - [https://privatecitizen.press](https://privatecitizen.press)
+ - date_published: 2023-12-01T08:32:07+00:00
+ - tags: ['surveillance', 'privacy']
+
+ ## Home
+ - [https://redwave.press](https://redwave.press)
+ - date_published: 2024-09-19T10:53:16+00:00
+
+ ## Schema Plugin for WordPress - Structured Data By SchemaPress
+ - [https://schema.press](https://schema.press)
+ - date_published: 2022-01-25T00:00:00+00:00
+
+ ## SSTO Press makes TTRPG adventures
+ - [https://ssto.press](https://ssto.press)
+ - date_published: 2024-08-07T20:11:28.475002+00:00
+
+ ## Stripe Press — Ideas for progress
+ - [https://stripe.press](https://stripe.press)
+ - date_published: 2023-12-04T07:13:57.601019+00:00
+
+ ## Suntup Editions - Finely Crafted Limited Editions
+ - [https://suntup.press](https://suntup.press)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Swordfish Islands
+ - [https://blog.swordfish.press](https://blog.swordfish.press)
+ - date_published: 2024-10-07T05:40:44+00:00
+
+ ## Tech Policy Press - Technology and Democracy
+ - [https://techpolicy.press](https://techpolicy.press)
+ - date_published: 2023-10-25T22:34:08.882662+00:00
+
+ ## The Insider — reports, analytics, investigations
+ - [https://theins.press](https://theins.press)
+ - date_published: 2024-03-15T03:42:19.306313+00:00
+
+ ## Be More Relatable
+ - [https://thesphere.press](https://thesphere.press)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Український інтерес - інформаційний портал | Украинский интерес
+ - [https://uain.press](https://uain.press)
+ - date_published: 2024-08-18T08:01:33.068599+00:00
+
+ ## Home
+ - [https://ecosystem.vuejs.press](https://ecosystem.vuejs.press)
+ - date_published: 2024-02-06T00:00:00+00:00
+
  ## Home
  - [https://marketplace.vuejs.press](https://marketplace.vuejs.press)
  - date_published: 2024-02-07T00:00:00+00:00
@@ -3770,240 +4008,4 @@
  ## RTP Arquivos
  - [https://arquivos.rtp.pt](https://arquivos.rtp.pt)
  - date_published: 2024-05-09T06:22:41.568773+00:00
-
- ## IIS7
- - [http://docweb.rtp.pt](http://docweb.rtp.pt)
- - date_published: 2010-04-21T17:24:24+00:00
-
- ## RTP Ensina
- - [https://ensina.rtp.pt](https://ensina.rtp.pt)
- - date_published: 2024-05-09T06:22:44.030543+00:00
-
- ## Museu Virtual da RTP
- - [https://museu.rtp.pt](https://museu.rtp.pt)
- - date_published: 2024-05-09T06:22:47.291315+00:00
-
- ## RTP | Comercial
- - [https://publicidade.rtp.pt](https://publicidade.rtp.pt)
- - date_published: 2024-05-09T06:22:54.498005+00:00
-
- ## RDP África - RTP
- - [https://rdpafrica.rtp.pt](https://rdpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:59.735075+00:00
-
- ## RTP África
- - [https://rtpafrica.rtp.pt](https://rtpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:52.497659+00:00
-
- ## RTP - Rádio e Televisão de Portugal
- - [https://rtp.pt](https://rtp.pt)
- - date_published: 2024-03-09T22:52:42.458441+00:00
-
- ## Home | Sociedade Anti-Alcoólica Portuguesa
- - [https://www.saap.pt](https://www.saap.pt)
- - date_published: 2024-10-18T21:25:26.849935+00:00
-
- ## Página Inicial | 20 Anos Beleza Real
- - [https://20anosdebelezareal.sabado.pt](https://20anosdebelezareal.sabado.pt)
- - date_published: 2024-07-12T20:30:33.183014+00:00
-
- ## Home | La Dolce Vita
- - [https://ladolcevita.sabado.pt](https://ladolcevita.sabado.pt)
- - date_published: 2024-07-12T20:30:48.530844+00:00
-
- ## (M)Eu, Verso | Saúde em Poesia
- - [https://meuverso.sabado.pt](https://meuverso.sabado.pt)
- - date_published: 2024-07-12T20:30:13.218448+00:00
-
- ## Respeito | Respeito
- - [https://respeitopelaagua.sabado.pt](https://respeitopelaagua.sabado.pt)
- - date_published: 2024-07-12T20:31:06.724629+00:00
-
- ## SÁBADO
- - [http://www.sabado.pt](http://www.sabado.pt)
- - date_published: 2024-06-25T18:52:58.455811+00:00
-
- ## Santander
- - [https://santander.pt](https://santander.pt)
- - date_published: 2024-09-27T13:01:51+00:00
-
- ## Santander Consumer Finance S.A., Sucursal em Portugal, financiamento à sua medida
- - [https://www.santanderconsumer.pt](https://www.santanderconsumer.pt)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Início
- - [https://21tv.sapo.pt](https://21tv.sapo.pt)
- - date_published: 2024-06-10T07:00:24.839276+00:00
-
- ## SAPO 24
- - [https://24.sapo.pt](https://24.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## A espuma dos dias
- - [https://aespumadosdias.blogs.sapo.pt](https://aespumadosdias.blogs.sapo.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## A Gata Christie
- - [http://agatachristie.blogs.sapo.pt](http://agatachristie.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:59.167961+00:00
-
- ## Ainda Há Bilhetes
- - [https://aindahabilhetes.blogs.sapo.pt](https://aindahabilhetes.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:43.196818+00:00
-
- ## SAPO Alertas
- - [https://alertas.sapo.pt](https://alertas.sapo.pt)
- - date_published: 2024-06-10T06:58:14.808868+00:00
-
- ## Almadense - As notícias de Almada
- - [https://almadense.sapo.pt](https://almadense.sapo.pt)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Portugal Amanhã - Pensar o futuro do país.
- - [https://amanha.sapo.pt](https://amanha.sapo.pt)
- - date_published: 2024-06-10T06:57:34.691310+00:00
-
- ## Home - Amarante Magazine
- - [https://amarantemagazine.sapo.pt](https://amarantemagazine.sapo.pt)
- - date_published: 2024-06-10T06:57:38.520181+00:00
-
- ## Jornal A Nação - jornal online, íntegros e atuais.
- - [https://anacao.sapo.pt](https://anacao.sapo.pt)
- - date_published: 2024-06-10T06:59:43.854175+00:00
-
- ## antologia
- - [http://antologia.blogs.sapo.pt](http://antologia.blogs.sapo.pt)
- - date_published: 2024-07-12T21:01:48.446471+00:00
-
- ## Home
- - [https://aponte.sapo.pt](https://aponte.sapo.pt)
- - date_published: 2024-06-10T06:58:12.060982+00:00
-
- ## A Psique de Guilherme
- - [https://apsiquedeguilherme.blogs.sapo.pt](https://apsiquedeguilherme.blogs.sapo.pt)
- - date_published: 2024-07-12T20:29:53.682240+00:00
-
- ## Página Inicial - Auto SAPO
- - [https://auto-frontoffice.sapo.pt](https://auto-frontoffice.sapo.pt)
- - date_published: 2024-09-05T15:21:15.669769+00:00
-
- ## Auto SAPO - Comprar e vender carros
- - [https://auto.sapo.pt](https://auto.sapo.pt)
- - date_published: 2024-06-10T06:58:09.547938+00:00
-
- ## A Voz de Bragança - Imprensa Regional
- - [https://avozdebraganca.sapo.pt](https://avozdebraganca.sapo.pt)
- - date_published: 2024-09-05T15:02:06.529018+00:00
-
- ## A Voz de Castelo Branco - Imprensa Regional
- - [https://avozdecastelobranco.sapo.pt](https://avozdecastelobranco.sapo.pt)
- - date_published: 2024-09-05T15:01:33.440283+00:00
-
- ## A Voz de Évora - Imprensa Regional
- - [https://avozdeevora.sapo.pt](https://avozdeevora.sapo.pt)
- - date_published: 2024-06-10T07:00:16.278296+00:00
-
- ## A Voz de Matosinhos - Imprensa Regional
- - [https://avozdematosinhos.sapo.pt](https://avozdematosinhos.sapo.pt)
- - date_published: 2024-06-10T06:55:49.178208+00:00
-
- ## Terras de Santa Maria - Imprensa Regional
- - [https://avozdeterrasdesantamaria.sapo.pt](https://avozdeterrasdesantamaria.sapo.pt)
- - date_published: 2024-09-05T15:01:11.466989+00:00
-
- ## Azeméis.Net Notícias - Jornal online de Oliveira de Azeméis
- - [https://azemeisnet.sapo.pt](https://azemeisnet.sapo.pt)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Beira Alta TV
- - [https://beiraaltatv.sapo.pt](https://beiraaltatv.sapo.pt)
- - date_published: 2024-06-10T06:57:29.302931+00:00
-
- ## Bic Laranja
- - [http://biclaranja.blogs.sapo.pt](http://biclaranja.blogs.sapo.pt)
- - date_published: 2024-07-12T20:40:22.895908+00:00
-
- ## SAPO Blogs
- - [https://blogs.sapo.pt](https://blogs.sapo.pt)
- - date_published: 2024-05-10T06:15:29.612455+00:00
-
- ## BombeirosTV | Portal de Notícias de e sobre bombeiros
- - [https://bombeirostv.sapo.pt](https://bombeirostv.sapo.pt)
- - date_published: 2023-04-11T14:10:10+00:00
-
- ## Canal Alentejo - Canal Alentejo
- - [https://canalalentejo.sapo.pt](https://canalalentejo.sapo.pt)
- - date_published: 2024-06-10T06:59:46.492967+00:00
-
- ## Caricaturas por Encomenda
- - [https://caricaturasencomendadas.blogs.sapo.pt](https://caricaturasencomendadas.blogs.sapo.pt)
- - date_published: 2024-09-05T15:21:37.940275+00:00
-
- ## Casa dos Poetas - Blogue de Poesia, poetas portugueses e do mundo
- - [http://casadospoetas.blogs.sapo.pt](http://casadospoetas.blogs.sapo.pt)
- - date_published: 2024-07-12T21:05:16.859157+00:00
-
- ## CASA SAPO - Portal Nacional de Imobiliário
- - [https://casa.sapo.pt](https://casa.sapo.pt)
- - date_published: 2024-09-05T14:57:54.103383+00:00
-
- ## CentroTV - Notícias Região Centro de Portugal
- - [https://centrotv.sapo.pt](https://centrotv.sapo.pt)
- - date_published: 2024-06-10T06:55:33.145240+00:00
-
- ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
- - [http://ciberduvidas.sapo.pt](http://ciberduvidas.sapo.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Cidade do Porto - Imprensa Regional
- - [https://cidadedoporto.sapo.pt](https://cidadedoporto.sapo.pt)
- - date_published: 2024-09-05T15:02:04.047010+00:00
-
- ## Cidade Hoje - Rádio / Jornal / TV
- - [https://cidadehoje.sapo.pt](https://cidadehoje.sapo.pt)
- - date_published: 2024-06-10T06:56:08.814954+00:00
-
- ## Cinematograficamente Falando ...
- - [https://cinematograficamentefalando.blogs.sapo.pt](https://cinematograficamentefalando.blogs.sapo.pt)
- - date_published: 2024-07-12T20:34:52.884056+00:00
-
- ## Clube de Jornalistas
- - [https://clubedejornalistas.sapo.pt](https://clubedejornalistas.sapo.pt)
- - date_published: 2024-06-10T06:58:27.151319+00:00
-
- ## Concelho de Vila Nova de Gaia - Imprensa Regional
- - [https://concelhodevilanovadegaia.sapo.pt](https://concelhodevilanovadegaia.sapo.pt)
- - date_published: 2024-09-05T15:01:20.723301+00:00
-
- ## Correio da Beira Serra
- - [https://correiodabeiraserra.sapo.pt](https://correiodabeiraserra.sapo.pt)
- - date_published: 2024-06-10T06:56:31.823326+00:00
-
- ## Correio de Azambuja – Website do Jornal Correio de Azambuja
- - [https://correiodeazambuja.sapo.pt](https://correiodeazambuja.sapo.pt)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Correio de Azeméis - Notícias de Oliveira de Azeméis
- - [https://correiodeazemeis.sapo.pt](https://correiodeazemeis.sapo.pt)
- - date_published: 2024-06-10T06:59:50.084405+00:00
-
- ## Corta-fitas
- - [http://corta-fitas.blogs.sapo.pt](http://corta-fitas.blogs.sapo.pt)
- - date_published: 2024-07-12T20:34:37.522284+00:00
-
- ## Defender o Quadrado
- - [https://defenderoquadrado.blogs.sapo.pt](https://defenderoquadrado.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:13.673616+00:00
-
- ## Homepage
- - [https://defesadeespinho.sapo.pt](https://defesadeespinho.sapo.pt)
- - date_published: 2024-06-10T06:59:14.062657+00:00
-
- ## Delito de Opinião
- - [https://delitodeopiniao.blogs.sapo.pt](https://delitodeopiniao.blogs.sapo.pt)
- - date_published: 2024-05-10T06:15:39.781013+00:00
-
- ## Desportivo Transmontano
- - [https://desportivotransmontano.sapo.pt](https://desportivotransmontano.sapo.pt)
- - date_published: 2024-06-09T00:00:00+00:00
 

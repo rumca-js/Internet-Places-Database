@@ -1,3 +1,32 @@
+ ## Biteca - Bibliotecas Digitales, Aplicaciones para Bibliotecas - Software Revistas Científicas, Recorridos Virtuales, Koha Bogotá Colombia
+ - [https://biteca.com](https://biteca.com)
+ - date_published: 2016-03-29T08:20:08+00:00
+
+ ## bitego Documentation | bitegoDocs
+ - [https://docs.bitego.com](https://docs.bitego.com)
+ - date_published: 2024-09-06T21:32:34.381721+00:00
+
+ ## Bite Stream | Investor Solutions Software | Bite Investments
+ - [https://www.biteinvestments.com](https://www.biteinvestments.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Chris Allen -  home
+ - [http://bitemyapp.com](http://bitemyapp.com)
+ - date_published: 2022-09-04T21:54:31+00:00
+
+ ## Bite My Bun
+ - [https://bitemybun.com](https://bitemybun.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+ - tags: ['japan', 'cooking']
+
+ ## Bite Night Orlando — Enjoy Orlando’s Best Restaurants and Chefs, all in one amazing night!
+ - [https://bitenightorlando.com](https://bitenightorlando.com)
+ - date_published: 2024-06-27T16:50:42.017526+00:00
+
+ ## Software Development Data - Bitergia
+ - [https://bitergia.com](https://bitergia.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## Blog - Bitergia
  - [https://blog.bitergia.com](https://blog.bitergia.com)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -2984,10 +3013,20 @@
  - date_published: 2023-12-13T16:18:22.660901+00:00
  - tags: ['video game', 'diablo']
 
+ ## Diablo III
+ - [https://diablo3.blizzard.com](https://diablo3.blizzard.com)
+ - date_published: 2024-10-25T17:00:00+00:00
+ - tags: ['video game']
+
  ## Diablo IV
  - [https://diablo4.blizzard.com](https://diablo4.blizzard.com)
  - date_published: 2024-04-30T00:00:00+00:00
  - tags: ['video game', 'diablo']
+
+ ## Diablo IV
+ - [https://diablo.blizzard.com](https://diablo.blizzard.com)
+ - date_published: 2024-11-20T20:54:38+00:00
+ - tags: ['video game']
 
  ## Diablo Immortal
  - [https://diabloimmortal.blizzard.com](https://diabloimmortal.blizzard.com)
@@ -3025,11 +3064,17 @@
  ## Battle.net
  - [https://shop.blizzard.com](https://shop.blizzard.com)
  - date_published: 2024-07-19T22:55:15.922849+00:00
+ - tags: ['game store', 'app store']
 
  ## StarCraft II
  - [https://starcraft2.blizzard.com](https://starcraft2.blizzard.com)
  - date_published: 2024-06-28T17:59:15.839259+00:00
  - tags: ['video game', 'starcraft']
+
+ ## StarCraft: Remastered
+ - [https://starcraft.blizzard.com](https://starcraft.blizzard.com)
+ - date_published: 2024-11-20T20:57:10+00:00
+ - tags: ['video game']
 
  ## Blizzard Support
  - [https://support.blizzard.com](https://support.blizzard.com)
@@ -3047,7 +3092,7 @@
  ## Diablo III
  - [https://us.diablo3.blizzard.com](https://us.diablo3.blizzard.com)
  - date_published: 2024-03-27T17:00:00+00:00
- - tags: ['diablo']
+ - tags: ['diablo', 'video game']
 
  ## https://us.forums.blizzard.com
  - [https://us.forums.blizzard.com](https://us.forums.blizzard.com)
@@ -3066,7 +3111,7 @@
  ## World of Warcraft
  - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
  - date_published: 2024-04-10T00:00:00+00:00
- - tags: ['warcraft', 'video game']
+ - tags: ['mmorpg', 'warcraft', 'video game']
 
  ## World of Warcraft®: Cataclysm Classic™
  - [https://wowclassic.blizzard.com](https://wowclassic.blizzard.com)
@@ -4012,45 +4057,4 @@
  ## BlogNLP: Revolutionize Your Writing with AI - Free Trial | AI Content Generator & SEO Assistant
  - [https://www.blognlp.com](https://www.blognlp.com)
  - date_published: 2024-06-19T21:29:32.050194+00:00
-
- ## BlogNomic: The Fifth Dynasty of JonathanDark
- - [http://blognomic.com](http://blognomic.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Blognone | ข่าวไอที เทคโนโลยี มือถือ เกม ความปลอดภัย โอเพนซอร์ส
- - [http://blognone.com](http://blognone.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Blog of Drew
- - [https://blogofdrew.com](https://blogofdrew.com)
- - date_published: 2023-12-17T05:08:07.684561+00:00
- - tags: ['personal']
-
- ## Blog of Holding
- - [https://www.blogofholding.com](https://www.blogofholding.com)
- - date_published: 2024-07-15T09:44:05.656138+00:00
-
- ## Ex Real SJ- Define your world in a whole new way
- - [http://www.blogofthegods.com](http://www.blogofthegods.com)
- - date_published: 2023-04-04T19:16:54+00:00
-
- ## Home Page - Blog of the Planet of the Apes
- - [https://blogoftheplanetoftheapes.com](https://blogoftheplanetoftheapes.com)
- - date_published: 2024-07-18T11:26:21+00:00
-
- ## Blog Oh! Blog
- - [http://www.blogohblog.com](http://www.blogohblog.com)
- - date_published: 2024-06-22T23:19:03.916104+00:00
-
- ## Morphex's blogologue (Life, technology, music, politics, business, mental health and more)
- - [https://blogologue.com](https://blogologue.com)
- - date_published: 2024-06-28T20:19:47+00:00
-
- ## Stack Exchange Theoretical Computer Science Blog
- - [http://cstheory.blogoverflow.com](http://cstheory.blogoverflow.com)
- - date_published: 2017-03-03T15:24:32+00:00
-
- ## List: Reading list | Curated by Kathleen Underwood | Medium
- - [http://www.blogpatrol.com](http://www.blogpatrol.com)
- - date_published: 2024-10-19T04:29:09.514806+00:00
 

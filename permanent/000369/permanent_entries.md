@@ -1,3 +1,235 @@
+ ## Hackmatack Playhouse | Berwick, Maine
+ - [https://www.hackmatackplayhouse.org](https://www.hackmatackplayhouse.org)
+ - date_published: 2024-08-20T05:23:01.680354+00:00
+
+ ## HackMIT Archive
+ - [https://archive.hackmit.org](https://archive.hackmit.org)
+ - date_published: 2024-05-22T14:05:59.816991+00:00
+
+ ## Blueprint 2024
+ - [https://blueprint.hackmit.org](https://blueprint.hackmit.org)
+ - date_published: 2024-04-01T21:26:37+00:00
+
+ ## HackMIT 2023 🎈
+ - [https://hackmit.org](https://hackmit.org)
+ - date_published: 2024-05-22T14:05:56.558254+00:00
+ - tags: ['hacking', 'convention']
+
+ ## HackPGH
+ - [http://www.hackpittsburgh.org](http://www.hackpittsburgh.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## HackPNW
+ - [https://hackpnw.org](https://hackpnw.org)
+ - date_published: 2024-06-20T15:18:34.310310+00:00
+
+ ## Hack/Reduce
+ - [http://www.hackreduce.org](http://www.hackreduce.org)
+ - date_published: 2024-07-03T18:31:03.376143+00:00
+
+ ## Hackswift
+ - [https://hackswift.org](https://hackswift.org)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## hackTAMS 2024
+ - [https://2024.hacktams.org](https://2024.hacktams.org)
+ - date_published: 2024-06-20T15:18:59.386118+00:00
+
+ ## Global Hackteria Network
+ - [https://forum.hackteria.org](https://forum.hackteria.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Hackteria
+ - [https://hackteria.org](https://hackteria.org)
+ - date_published: 2024-05-09T04:11:55.046496+00:00
+
+ ## thGAP - Transgenic Human Genome Alternatives Project
+ - [https://thgap.hackteria.org](https://thgap.hackteria.org)
+ - date_published: 2024-07-09T08:53:25.641597+00:00
+
+ ## Hack The Hood
+ - [https://hackthehood.org](https://hackthehood.org)
+ - date_published: 2024-05-06T13:16:37.282012+00:00
+
+ ## Hack the Nest
+ - [https://www.hackthenest.org](https://www.hackthenest.org)
+ - date_published: 2024-06-20T15:19:49.295148+00:00
+
+ ## HackThisSite
+ - [http://hackthissite.org](http://hackthissite.org)
+ - date_published: 2024-10-31T06:54:51.298511+00:00
+
+ ## HackThisSite Legal
+ - [https://legal.hackthissite.org](https://legal.hackthissite.org)
+ - date_published: 2018-05-19T11:39:10+00:00
+
+ ## index - powered by h5ai v0.29.2 (https://larsjung.de/h5ai/)
+ - [https://mirror.hackthissite.org](https://mirror.hackthissite.org)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Hack@UCF
+ - [https://hackucf.org](https://hackucf.org)
+ - date_published: 2024-09-09T20:00:31.412516+00:00
+
+ ## Hack United
+ - [https://unitedhacks.hackunited.org](https://unitedhacks.hackunited.org)
+ - date_published: 2024-06-20T15:18:35.490224+00:00
+
+ ## HACS Workshop
+ - [https://www.hacs-workshop.org](https://www.hacs-workshop.org)
+ - date_published: 2024-03-12T14:24:25+00:00
+
+ ## Hadar Hatorah Yeshiva
+ - [http://www.hadarhatorah.org](http://www.hadarhatorah.org)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Haddock
+ - [http://haddock.org](http://haddock.org)
+ - date_published: 2024-09-14T23:00:57.820196+00:00
+
+ ## Haematologica
+ - [https://haematologica.org](https://haematologica.org)
+ - date_published: 2024-10-20T07:19:34.275936+00:00
+
+ ## hafenradio
+ - [http://hafenradio.org](http://hafenradio.org)
+ - date_published: 2024-07-24T05:38:18.525223+00:00
+
+ ## はげあたま.org
+ - [https://www.hageatama.org](https://www.hageatama.org)
+ - date_published: 2024-07-04T07:07:37.425654+00:00
+ - tags: ['blog']
+
+ ## Featured Collections
+ - [https://digital.hagley.org](https://digital.hagley.org)
+ - date_published: 2024-04-29T02:56:53.091491+00:00
+
+ ## Hagley Museum and Library Archives | Hagley Museum and Library Archives
+ - [https://findingaids.hagley.org](https://findingaids.hagley.org)
+ - date_published: 2024-09-10T08:08:26.733186+00:00
+
+ ## Welcome to Hagley Museum & Library
+ - [https://hagley.org](https://hagley.org)
+ - date_published: 2024-08-06T07:55:22+00:00
+
+ ## Welcome to the Hagley Vault
+ - [http://hagleyvault.org](http://hagleyvault.org)
+ - date_published: 2021-06-03T14:13:38+00:00
+
+ ## Sami Abu-El-Haija
+ - [http://www.haija.org](http://www.haija.org)
+ - date_published: 2021-11-03T22:51:42+00:00
+
+ ## Haiku, Inc.
+ - [https://haiku-inc.org](https://haiku-inc.org)
+ - date_published: 2024-08-18T19:03:20.353805+00:00
+
+ ## Haiku's repositories
+ - [https://cgit.haiku-os.org](https://cgit.haiku-os.org)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Haiku Depot Server
+ - [https://depot.haiku-os.org](https://depot.haiku-os.org)
+ - date_published: 2024-08-18T19:03:17.045001+00:00
+
+ ## Haiku
+ - [https://dev.haiku-os.org](https://dev.haiku-os.org)
+ - date_published: 2020-01-03T00:00:00+00:00
+
+ ## Haiku Community
+ - [https://discuss.haiku-os.org](https://discuss.haiku-os.org)
+ - date_published: 2023-10-25T21:27:25.896496+00:00
+
+ ## Haiku Downloads
+ - [https://download.haiku-os.org](https://download.haiku-os.org)
+ - date_published: 2024-08-18T18:38:09+00:00
+
+ ## Home | Haiku Project
+ - [https://haiku-os.org](https://haiku-os.org)
+ - date_published: 2023-10-25T21:27:27.267272+00:00
+ - tags: ['operating system']
+
+ ## Fathom - simple website analytics
+ - [https://metrics.haiku-os.org](https://metrics.haiku-os.org)
+ - date_published: 2024-07-21T08:04:30+00:00
+
+ ## hails.org
+ - [https://hails.org](https://hails.org)
+ - date_published: 2023-10-25T21:27:29.684298+00:00
+
+ ## Home
+ - [https://www.haiti.org](https://www.haiti.org)
+ - date_published: 2024-09-18T04:05:34.447503+00:00
+
+ ## Log in — Hak5
+ - [https://account.shop.hak5.org](https://account.shop.hak5.org)
+ - date_published: 2024-09-02T10:59:05.080399+00:00
+
+ ## Product Documentation | Product Documentation
+ - [https://docs.hak5.org](https://docs.hak5.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Hak5 Download Portal
+ - [https://downloads.hak5.org](https://downloads.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://hak5.org](https://hak5.org)
+ - date_published: 2024-08-26T20:53:21+00:00
+ - tags: ['hardware hacking']
+
+ ## Payload Hub
+ - [https://payloads.hak5.org](https://payloads.hak5.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Hak5 PayloadStudio
+ - [https://payloadstudio.hak5.org](https://payloadstudio.hak5.org)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Pentest Tools & Media | Hak5 Official Site
+ - [https://shop.hak5.org](https://shop.hak5.org)
+ - date_published: 2024-09-02T10:58:40.529490+00:00
+
+ ## Hakai Institute
+ - [https://hakai.org](https://hakai.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## hakank's homepage
+ - [http://www.hakank.org](http://www.hakank.org)
+ - date_published: 2024-06-11T07:44:12+00:00
+
+ ## Haka | Software Defined Security
+ - [http://www.haka-security.org](http://www.haka-security.org)
+ - date_published: 2015-06-23T08:26:27+00:00
+
+ ## Hakin9 - IT Security Magazine
+ - [https://hakin9.org](https://hakin9.org)
+ - date_published: 2023-02-06T12:40:38+00:00
+
+ ## H A K U M E I    |    version 1.0 / deadly blossom
+ - [https://tfl.hakumei.org](https://tfl.hakumei.org)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## .:: Halal Research Council ::.
+ - [https://www.halalrc.org](https://www.halalrc.org)
+ - date_published: 2024-09-24T21:40:12.070687+00:00
+
+ ## Haldane's Sieve
+ - [https://haldanessieve.org](https://haldanessieve.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Half Acre Cycling
+ - [https://halfacrecycling.org](https://halfacrecycling.org)
+ - date_published: 2024-05-08T06:48:34.520985+00:00
+
+ ## Index of /
+ - [https://buildbot.halide-lang.org](https://buildbot.halide-lang.org)
+ - date_published: 2024-07-21T09:24:19.449461+00:00
+
+ ## Differentiable Programming for Image Processing and Deep Learning in Halide
+ - [http://gradients.halide-lang.org](http://gradients.halide-lang.org)
+ - date_published: 2019-10-29T18:09:04+00:00
+
  ## Halide
  - [https://halide-lang.org](https://halide-lang.org)
  - date_published: 2023-08-15T20:53:29+00:00
@@ -3794,233 +4026,4 @@
  ## Visualizing Hyperbolic Honeycombs
  - [http://hyperbolichoneycombs.org](http://hyperbolichoneycombs.org)
  - date_published: 2018-07-26T21:34:01+00:00
-
- ## Hyperborea: Kelson Vibber
- - [https://hyperborea.org](https://hyperborea.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## HyperCard
- - [https://hypercard.org](https://hypercard.org)
- - date_published: 2023-01-18T13:30:39+00:00
-
- ## Hypercerts
- - [https://hypercerts.org](https://hypercerts.org)
- - date_published: 2024-09-09T14:09:14.073316+00:00
-
- ## HyperDbg Debugger
- - [https://hyperdbg.org](https://hyperdbg.org)
- - date_published: 2024-07-10T08:02:14+00:00
-
- ## Hyperelliptic org
- - [https://hyperelliptic.org](https://hyperelliptic.org)
- - date_published: 2014-07-14T01:07:58+00:00
-
- ## HypergraphDB - A Graph Database
- - [https://hypergraphdb.org](https://hypergraphdb.org)
- - date_published: 2024-07-23T21:15:45.253179+00:00
-
- ## ハイパーカミオカンデ ホームページ | ハイパーカミオカンデ
- - [http://www.hyper-k.org](http://www.hyper-k.org)
- - date_published: 2024-05-06T15:41:42.409041+00:00
-
- ## Welcome | Besu documentation
- - [https://besu.hyperledger.org](https://besu.hyperledger.org)
- - date_published: 2024-08-01T06:15:07+00:00
-
- ## Our chat service - Hyperledger - Hyperledger Foundation
- - [https://chat.hyperledger.org](https://chat.hyperledger.org)
- - date_published: 2024-06-15T16:16:37.683223+00:00
-
- ## Hyperledger DLT Landscape
- - [https://dltlandscape.hyperledger.org](https://dltlandscape.hyperledger.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Hyperledger - The Open Global Ecosystem for Enterprise Blockchain
- - [https://hyperledger.org](https://hyperledger.org)
- - date_published: 2024-05-01T03:46:31.330596+00:00
-
- ## Labs
- - [https://labs.hyperledger.org](https://labs.hyperledger.org)
- - date_published: 2024-08-27T14:36:09+00:00
-
- ## main lists.hyperledger.org Group
- - [https://lists.hyperledger.org](https://lists.hyperledger.org)
- - date_published: 2024-06-15T16:16:28.630071+00:00
-
- ## Welcome! - Hyperledger Member Portal Landing - Hyperledger Foundation Member Wiki
- - [https://members.hyperledger.org](https://members.hyperledger.org)
- - date_published: 2024-06-15T16:16:25.733270+00:00
-
- ## Start Here Hyperledger
- - [https://start-here.hyperledger.org](https://start-here.hyperledger.org)
- - date_published: 2024-01-11T14:11:35+00:00
-
- ## Hyperledger Foundation Store
- - [https://store.hyperledger.org](https://store.hyperledger.org)
- - date_published: 2024-06-15T16:16:31.846873+00:00
-
- ## Hyperledger TOC
- - [https://toc.hyperledger.org](https://toc.hyperledger.org)
- - date_published: 2024-09-16T16:01:14+00:00
-
- ## Hyperledger TOC
- - [https://tsc.hyperledger.org](https://tsc.hyperledger.org)
- - date_published: 2024-09-16T16:01:14+00:00
-
- ## Hyperledger - Hyperledger - Hyperledger Foundation
- - [https://wiki.hyperledger.org](https://wiki.hyperledger.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Hypermail project home page
- - [http://www.hypermail-project.org](http://www.hypermail-project.org)
- - date_published: 2016-03-08T18:46:22+00:00
-
- ## Programming Languages - Hyperpolyglot
- - [https://hyperpolyglot.org](https://hyperpolyglot.org)
- - date_published: 2019-04-27T17:07:07+00:00
-
- ## _hyperscript
- - [https://hyperscript.org](https://hyperscript.org)
- - date_published: 2024-04-23T04:00:00+00:00
- - tags: ['html framework']
-
- ## Hyperskill - Learn to code and break into tech
- - [http://hyperskill.org](http://hyperskill.org)
- - date_published: 2024-07-20T18:08:34.330833+00:00
-
- ## What are hypersomnia sleep disorders, such as idiopathic hypersomnia, narcolepsy types 1 and 2, and Kleine-Levin syndrome? - Hypersomnia Foundation
- - [https://www.hypersomniafoundation.org](https://www.hypersomniafoundation.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home — HyperSpy Website
- - [https://hyperspy.org](https://hyperspy.org)
- - date_published: 2024-05-31T11:06:05+00:00
-
- ## Hyperview · Native mobile apps, as easy as creating a web site
- - [https://hyperview.org](https://hyperview.org)
- - date_published: 2023-10-25T21:29:42.395442+00:00
-
- ## Hyperworlds â€“ Web Replacement Projects
- - [https://hyperworlds.org](https://hyperworlds.org)
- - date_published: 2023-02-12T20:15:17+00:00
-
- ## Hyphanet
- - [https://hyphanet.org](https://hyphanet.org)
- - date_published: 2023-06-26T00:00:00+00:00
-
- ## A-label: African Languages Between the Lines – Notes on sub-Saharan languages written in Arabic script
- - [https://ajami.hypotheses.org](https://ajami.hypotheses.org)
- - date_published: 2024-07-02T10:18:00.524282+00:00
-
- ## Archivbibliothek für Post-Neukantianismus und kritischen Idealismus der Gegenwart (APIG)
- - [https://apig.hypotheses.org](https://apig.hypotheses.org)
- - date_published: 2024-07-01T05:46:59.558788+00:00
-
- ## Computer-Assisted Language Comparison in Practice | Tutorials on Computational Approaches to the History and Diversity of Languages
- - [https://calc.hypotheses.org](https://calc.hypotheses.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Caramel – Sciences du langage et monde contemporain
- - [https://caramel.hypotheses.org](https://caramel.hypotheses.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Les carnets d'HTL – Actualités et ressources en histoire des théories linguistiques
- - [https://carnetshtl.hypotheses.org](https://carnetshtl.hypotheses.org)
- - date_published: 2024-07-02T10:15:06.673310+00:00
-
- ## Accueil
- - [https://cavailles.hypotheses.org](https://cavailles.hypotheses.org)
- - date_published: 2024-07-03T06:31:53.124534+00:00
-
- ## Cipanglossia | Thomas Pellard
- - [https://cipanglo.hypotheses.org](https://cipanglo.hypotheses.org)
- - date_published: 2024-07-02T10:17:03.148034+00:00
-
- ## CIRMATH | Circulations des mathématiques dans et par les journaux : histoire, territoires et publics
- - [https://cirmath.hypotheses.org](https://cirmath.hypotheses.org)
- - date_published: 2024-07-03T06:31:49.388638+00:00
-
- ## Présentation du séminaire Codes sources
- - [https://codesource.hypotheses.org](https://codesource.hypotheses.org)
- - date_published: 2024-07-03T06:32:13.183283+00:00
-
- ## Project DDS
- - [https://dds.hypotheses.org](https://dds.hypotheses.org)
- - date_published: 2024-07-03T06:32:48.493625+00:00
-
- ## Diversity Linguistics Comment | Language structures throughout the world
- - [http://dlc.hypotheses.org](http://dlc.hypotheses.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Pragmaties/Cahier eLV – Le cahier des Archives Numériques de l’École de Lvov-Varsovie éLV
- - [https://elv.hypotheses.org](https://elv.hypotheses.org)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## About
- - [https://euihos.hypotheses.org](https://euihos.hypotheses.org)
- - date_published: 2024-10-29T18:33:23.005026+00:00
-
- ## Freakonometrics | "sendo l'intento mio scrivere cosa utile a chi la intende…"
- - [http://freakonometrics.hypotheses.org](http://freakonometrics.hypotheses.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Séminaire « Science ouverte: enjeux et méthodes »
- - [https://himalco.hypotheses.org](https://himalco.hypotheses.org)
- - date_published: 2024-07-02T10:18:28.060101+00:00
-
- ## Le Bureau des longitudes (1795-1932) | De la Révolution française à la Troisième République
- - [https://histbdl.hypotheses.org](https://histbdl.hypotheses.org)
- - date_published: 2024-07-03T06:32:38.269743+00:00
-
- ## Le séminaire
- - [https://hnfp.hypotheses.org](https://hnfp.hypotheses.org)
- - date_published: 2024-07-03T06:32:14.613988+00:00
-
- ## Home
- - [https://hypotheses.org](https://hypotheses.org)
- - date_published: 2024-06-29T10:14:00.336206+00:00
-
- ## HyperTwardowski/Cahier métanumérique – Cahier métanumérique
- - [https://hyt.hypotheses.org](https://hyt.hypotheses.org)
- - date_published: 2024-07-03T06:31:58.738938+00:00
-
- ## IFRA Nairobi
- - [https://ifranairobi.hypotheses.org](https://ifranairobi.hypotheses.org)
- - date_published: 2024-07-09T14:16:32.930114+00:00
-
- ## LES CARNETS DU LACITO – DIVERSITÉ DES LANGUES ET DES CIVILISATIONS
- - [https://lacito.hypotheses.org](https://lacito.hypotheses.org)
- - date_published: 2024-07-02T10:15:47.392410+00:00
-
- ## Anthropologie linguistique au-delà de l'humain
- - [https://linganth.hypotheses.org](https://linganth.hypotheses.org)
- - date_published: 2024-07-02T10:17:27.191690+00:00
-
- ## OpenCitations blog – The blog of the OpenCitations Infrastructure
- - [https://opencitations.hypotheses.org](https://opencitations.hypotheses.org)
- - date_published: 2024-06-17T18:04:19.236714+00:00
-
- ## Panchronica | Carnet de recherches d'un linguiste de terrain
- - [https://panchr.hypotheses.org](https://panchr.hypotheses.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## PatriMaths – Patrimoines et patrimonialisation des mathématiques (XVIIIe-XXe)
- - [https://patrimaths.hypotheses.org](https://patrimaths.hypotheses.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Philo-linguistica | Typologie linguistique, comparatisme, réflexions interdisciplinaires
- - [https://philoling.hypotheses.org](https://philoling.hypotheses.org)
- - date_published: 2024-07-02T10:17:53.459698+00:00
-
- ## Winter 2024
- - [https://recipes.hypotheses.org](https://recipes.hypotheses.org)
- - date_published: 2024-05-07T10:26:13.290802+00:00
-
- ## Rotulus – Mettre l'écrit en rouleau dans l'Occident médiéval
- - [https://rotulus.hypotheses.org](https://rotulus.hypotheses.org)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Semantic HPST – Semantic Approach To Epistemology And History Of Science And Technology
- - [https://semhpst.hypotheses.org](https://semhpst.hypotheses.org)
- - date_published: 2024-07-03T06:32:56.451726+00:00
 

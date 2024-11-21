@@ -1,3 +1,55 @@
+ ## Cordial
+ - [https://cordial.com](https://cordial.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Cordial | Legal
+ - [https://legal.cordial.com](https://legal.cordial.com)
+ - date_published: 2024-06-11T17:58:37+00:00
+
+ ## Cordial Systems | Digital Asset Custody and Settlement
+ - [https://cordialsystems.com](https://cordialsystems.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Cordico Home - Cordico
+ - [https://www.cordico.com](https://www.cordico.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Córdoba Ecuestre |
+ - [http://www.cordobaecuestre.com](http://www.cordobaecuestre.com)
+ - date_published: 2024-07-02T11:11:45+00:00
+
+ ## Córdoba Flamenca | Moda Flamenca y Flamenco en Córdoba
+ - [http://www.cordobaflamenca.com](http://www.cordobaflamenca.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## charismagrid
+ - [http://www.cordychase.com](http://www.cordychase.com)
+ - date_published: 2010-11-22T00:04:33+00:00
+
+ ## Home - Core3 Solutions
+ - [https://core3solutions.com](https://core3solutions.com)
+ - date_published: 2024-07-13T12:49:49.189357+00:00
+
+ ## Core77 Discussion Boards
+ - [https://boards.core77.com](https://boards.core77.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Core77 / Login
+ - [https://codex.core77.com](https://codex.core77.com)
+ - date_published: 2024-05-08T06:43:43.004678+00:00
+
+ ## Core77 / Industrial Design Magazine + Resource
+ - [https://core77.com](https://core77.com)
+ - date_published: 2023-10-25T10:52:48.337026+00:00
+
+ ## Core77 Design Awards
+ - [https://designawards.core77.com](https://designawards.core77.com)
+ - date_published: 2024-05-08T06:43:47.259694+00:00
+
+ ## CoreAVI - Safety Critical Graphics & Compute Experts
+ - [https://www.coreavi.com](https://www.coreavi.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Core Creative | Full-service Marketing & Branding
  - [https://www.corecreative.com](https://www.corecreative.com)
  - date_published: 2024-07-12T23:48:35.043634+00:00
@@ -3990,57 +4042,4 @@
  ## Home
  - [https://creativestrategies.com](https://creativestrategies.com)
  - date_published: 2024-05-29T00:00:00+00:00
-
- ## Creative Syria - Syrian Culture, Arts, History & Current Affairs
- - [https://creativesyria.com](https://creativesyria.com)
- - date_published: 2024-08-19T16:10:11.776199+00:00
-
- ## Creative Tapas - Robert Poynton
- - [https://creativetapas.com](https://creativetapas.com)
- - date_published: 2024-02-01T12:57:29+00:00
-
- ## Free Gutenberg and WooCommerce WordPress Theme - Blocksy
- - [https://creativethemes.com](https://creativethemes.com)
- - date_published: 2019-05-01T05:26:47+00:00
-
- ## Blocksy – Free Creative Multi-Purpose WordPress Theme
- - [https://demo.creativethemes.com](https://demo.creativethemes.com)
- - date_published: 2020-01-28T00:00:00+00:00
-
- ## Creative Thermal Solutions Inc | Testing Services Urbana IL
- - [https://creativethermalsolutions.com](https://creativethermalsolutions.com)
- - date_published: 2024-05-07T10:04:18.497658+00:00
-
- ## Creative Think
- - [http://blog.creativethink.com](http://blog.creativethink.com)
- - date_published: 2024-07-01T14:43:18.580145+00:00
-
- ## Premium Bootstrap Themes and Templates
- - [https://creative-tim.com](https://creative-tim.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Premium Themes and Templates - Creative Tim
- - [https://demos.creative-tim.com](https://demos.creative-tim.com)
- - date_published: 2024-07-20T04:45:32.180115+00:00
-
- ## Creative Twilight
- - [https://creativetwilight.com](https://creativetwilight.com)
- - date_published: 2024-06-18T22:00:27+00:00
- - tags: ['blog', 'wargames', 'miniatures']
-
- ## Creativity Portal | Chris Dunmire's Positive Playfullness Prompts, Creative Humor, Art and Writing Coaching | Creativity-Portal.com
- - [http://www.creativity-portal.com](http://www.creativity-portal.com)
- - date_published: 2024-07-04T14:32:36.534751+00:00
-
- ## Creativitity (R)Evolution – Growing creative sparks into flames
- - [http://creativityrevolution.com](http://creativityrevolution.com)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Creativity School
- - [https://www.creativityschoolpodcast.com](https://www.creativityschoolpodcast.com)
- - date_published: 2024-07-14T19:32:35.076362+00:00
-
- ## We Develop and Optimize Websites
- - [https://creativoinc.com](https://creativoinc.com)
- - date_published: 2024-05-08T00:00:00+00:00
 

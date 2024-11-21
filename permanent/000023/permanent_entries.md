@@ -1,3 +1,19 @@
+ ## Startseite
+ - [https://www.iway.ch](https://www.iway.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Outdoor Bekleidung, Schuhe und Ausrüstung – JACK WOLFSKIN
+ - [https://www.jack-wolfskin.ch](https://www.jack-wolfskin.ch)
+ - date_published: 2024-07-14T12:16:08.848714+00:00
+
+ ## Keyoxide
+ - [https://alias.jaenis.ch](https://alias.jaenis.ch)
+ - date_published: 2024-07-21T05:51:31.973519+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.jaenis.ch](https://analytics.jaenis.ch)
+ - date_published: 2024-04-30T06:05:09.388034+00:00
+
  ## Tech demos I've written | André Jaenisch
  - [https://archive.jaenis.ch](https://archive.jaenis.ch)
  - date_published: 2024-03-22T10:24:27+00:00
@@ -4004,20 +4020,4 @@ Fakultät | Universität Basel
  ## Webdesign und Programmierung nach Mass – unlocked GmbH
  - [https://unlocked.ch](https://unlocked.ch)
  - date_published: 2024-04-30T06:49:05.829621+00:00
-
- ## Umami
- - [https://umami.upchur.ch](https://umami.upchur.ch)
- - date_published: 2024-08-18T03:28:46.091771+00:00
-
- ## Unlocking the Power of Data Initiative
- - [https://www.upd-initiative.ch](https://www.upd-initiative.ch)
- - date_published: 2024-07-16T22:16:49.625367+00:00
-
- ## Accueil
- - [https://uplausanne.ch](https://uplausanne.ch)
- - date_published: 2024-06-14T15:27:59.244840+00:00
-
- ## Neuigkeiten - VSV - AUPS
- - [https://www.up-vhs.ch](https://www.up-vhs.ch)
- - date_published: 2024-09-15T00:02:44.944947+00:00
 

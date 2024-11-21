@@ -1,3 +1,197 @@
+ ## Yannis Jaquet
+ - [https://yann.is](https://yann.is)
+ - date_published: 2021-08-01T10:09:34+00:00
+
+ ## Mastodon
+ - [https://toot.yosh.is](https://toot.yosh.is)
+ - date_published: 2024-09-05T12:59:09.670197+00:00
+
+ ## z-lib.is - Ebook library Zasoby i informacje.
+ - [https://z-lib.is](https://z-lib.is)
+ - date_published: 2024-06-23T18:00:09+00:00
+
+ ## The.Ismaili | The official website of the Ismaili Muslim community.
+ - [https://the.ismaili](https://the.ismaili)
+ - date_published: 2024-07-09T12:56:45.723176+00:00
+
+ ## blomqu.ist
+ - [https://blomqu.ist](https://blomqu.ist)
+ - date_published: 2024-04-14T19:33:50.702135+00:00
+ - tags: ['personal']
+
+ ## GoatCounter
+ - [https://stats.blomqu.ist](https://stats.blomqu.ist)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Chalk.ist - Create beautiful images of your source code
+ - [https://chalk.ist](https://chalk.ist)
+ - date_published: 2024-05-06T15:18:41.577380+00:00
+
+ ## Cloakist Dashboard
+ - [https://app.cloak.ist](https://app.cloak.ist)
+ - date_published: 2024-07-17T05:28:47.280929+00:00
+
+ ## Cloakist | Connect any webpage to your own domain and customise branding
+ - [https://cloak.ist](https://cloak.ist)
+ - date_published: 2024-05-13T02:42:19.207955+00:00
+
+ ## Fact.ist
+ - [https://fact.ist](https://fact.ist)
+ - date_published: 2024-06-03T10:27:00.186490+00:00
+
+ ## Gavin Gamboa | Music
+ - [https://faircamp.gavart.ist](https://faircamp.gavart.ist)
+ - date_published: 2024-08-31T19:58:28+00:00
+
+ ## gavart.ist — 🌱 digital garden  🗂  work repository
+ - [https://gavart.ist](https://gavart.ist)
+ - date_published: 2023-12-20T00:59:57.888289+00:00
+ - tags: ['personal']
+
+ ## Madhan Kanagavel - Kaizenist
+ - [https://kaizen.ist](https://kaizen.ist)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Shop - Minimalism Life®
+ - [https://mnmll.ist](https://mnmll.ist)
+ - date_published: 2024-04-29T06:00:36.593650+00:00
+
+ ## Find Nonprofit Experts - Consultants, Lawyers, & Accountants | Nonprofit.ist
+ - [https://www.nonprofit.ist](https://www.nonprofit.ist)
+ - date_published: 2024-10-06T03:48:46.256957+00:00
+
+ ## The Productivity Pedia
+ - [https://productivity.ist](https://productivity.ist)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Practitioners • Somalist
+ - [http://somal.ist](http://somal.ist)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## penguin cafe
+ - [https://penguincafe.waifu.ist](https://penguincafe.waifu.ist)
+ - date_published: 2024-07-21T04:32:24.661181+00:00
+
+ ## Castrum Istanbul
+ - [https://castrum.istanbul](https://castrum.istanbul)
+ - date_published: 2024-10-30T18:15:13.366685+00:00
+
+ ## Gazhane İstanbul – Gazhane İstanbul
+ - [https://muzegazhane.istanbul](https://muzegazhane.istanbul)
+ - date_published: 2024-08-18T17:34:03.655428+00:00
+
+ ## ITIS Q. Sella - Biella
+ - [https://www.itis.biella.it](https://www.itis.biella.it)
+ - date_published: 2024-10-13T06:49:52.505242+00:00
+
+ ## Niccolò Copernico
+ - [https://liceo.copernico.bo.it](https://liceo.copernico.bo.it)
+ - date_published: 2024-10-13T06:57:42.429525+00:00
+
+ ## Comune di Bologna
+ - [https://iperbole.bologna.it](https://iperbole.bologna.it)
+ - date_published: 2024-07-23T22:04:18.174107+00:00
+
+ ## home - autonomiae
+ - [http://www.autonomiae.bz.it](http://www.autonomiae.bz.it)
+ - date_published: 2023-12-07T00:00:00+00:00
+
+ ## Startseite | CIVIS, das neue Südtiroler Bürgernetz
+ - [https://civis.bz.it](https://civis.bz.it)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## DOC srl Agenzia Pubblicitaria | Video Produzioni | Bolzano - Alto Adige
+ - [https://doc.bz.it](https://doc.bz.it)
+ - date_published: 2024-05-11T09:19:27.749413+00:00
+
+ ## Planetarium Südtirol - Das gesamte Universum in Gummer
+ - [https://www.planetarium.bz.it](https://www.planetarium.bz.it)
+ - date_published: 2024-07-14T04:03:52.739900+00:00
+
+ ## Azienda Musei provinciali | Azienda Musei provinciali | Provincia autonoma di Bolzano - Alto Adige
+ - [https://azienda-musei.provincia.bz.it](https://azienda-musei.provincia.bz.it)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Informazioni in lingua facile | Provincia autonoma di Bolzano | Provincia autonoma di Bolzano - Alto Adige
+ - [https://lingua-facile.provincia.bz.it](https://lingua-facile.provincia.bz.it)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Betrieb Landesmuseen | Betrieb Landesmuseen | Autonome Provinz Bozen - Südtirol
+ - [https://betrieb-landesmuseen.provinz.bz.it](https://betrieb-landesmuseen.provinz.bz.it)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Regione Campania
+ - [https://www.regione.campania.it](https://www.regione.campania.it)
+ - date_published: 2024-09-24T11:17:02.545554+00:00
+
+ ## Assumi dei freelance e trova lavori freelance online
+ - [https://www.freelancer.co.it](https://www.freelancer.co.it)
+ - date_published: 2024-06-16T12:01:14.827018+00:00
+
+ ## 2° Istituto Superiore "A-Ruiz"
+ - [https://www.2superioreaugusta.edu.it](https://www.2superioreaugusta.edu.it)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Istituto d'istruzione Superiore Adriano Tilgher
+ - [https://www.adrianotilgher.edu.it](https://www.adrianotilgher.edu.it)
+ - date_published: 2024-10-13T07:13:03.575798+00:00
+
+ ## LICEO "E. AINIS"
+ - [https://www.ainis.edu.it](https://www.ainis.edu.it)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Home - Allende Custodi
+ - [https://www.allendecustodi.edu.it](https://www.allendecustodi.edu.it)
+ - date_published: 2024-10-13T06:55:33.981980+00:00
+
+ ## Istituto Superiore Antonio Scarpa Motta di Livenza
+ - [https://www.antonioscarpa.edu.it](https://www.antonioscarpa.edu.it)
+ - date_published: 2024-10-13T07:15:39.871107+00:00
+
+ ## ITC V.ARANGIO RUIZ
+ - [http://www.arangioruiz.edu.it](http://www.arangioruiz.edu.it)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Istituto Di Istruzione Superiore "Archimede"
+ - [https://www.archimedemodica.edu.it](https://www.archimedemodica.edu.it)
+ - date_published: 2024-09-22T00:00:00+00:00
+
+ ## Istituto di Istruzione Secondaria Superiore Archimede – Taranto – La scuola è una meravigliosa comunità: costruiamo insieme il nostro futuro!
+ - [https://www.archimedetaranto.edu.it](https://www.archimedetaranto.edu.it)
+ - date_published: 2024-10-13T07:02:14.433187+00:00
+
+ ## I.I.S. "ARIMONDI-EULA"
+ - [https://www.arimondieula.edu.it](https://www.arimondieula.edu.it)
+ - date_published: 2024-10-13T06:56:08.884953+00:00
+
+ ## I.I.S. "Giorgio Asproni" - "Enrico Fermi"
+ - [http://asproni-fermi.edu.it](http://asproni-fermi.edu.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Home - I.I.S.S. "A. Vespucci"
+ - [https://www.avespucci.edu.it](https://www.avespucci.edu.it)
+ - date_published: 2024-10-13T05:02:56+00:00
+
+ ## Istituto Tecnico Tecnologico Statale Alessandro Volta Perugia
+ - [https://www.avoltapg.edu.it](https://www.avoltapg.edu.it)
+ - date_published: 2024-10-13T07:20:53.148678+00:00
+
+ ## ITT Eugenio Barsanti – “La scienza di oggi è la tecnologia di domani.”
+ - [https://www.barsanti.edu.it](https://www.barsanti.edu.it)
+ - date_published: 2024-10-13T07:18:17.340728+00:00
+
+ ## Liceo Scientifico Di Stato "G. Battaglini"
+ - [https://www.battaglini.edu.it](https://www.battaglini.edu.it)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## belluzzifioravanti
+ - [https://belluzzifioravanti.edu.it](https://belluzzifioravanti.edu.it)
+ - date_published: 2024-10-13T06:58:24.186818+00:00
+
+ ## IIS Bertacchi
+ - [https://www.bertacchi.edu.it](https://www.bertacchi.edu.it)
+ - date_published: 2024-10-13T07:18:26.495728+00:00
+
  ## Istituto Istruzione Superiore Boscardin Vicenza
  - [https://www.boscardin.edu.it](https://www.boscardin.edu.it)
  - date_published: 2024-10-13T07:08:09.158157+00:00
@@ -3822,197 +4016,4 @@
  ## Pagina Cortesia | Netsons
  - [http://cronofillers.it](http://cronofillers.it)
  - date_published: 2024-07-13T15:55:27.391452+00:00
-
- ## Homepage - CryptoGirl
- - [https://cryptogirl.it](https://cryptogirl.it)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## CryptoLeges - Il portale per legislazione e fiscalità del mondo crypto
- - [https://www.cryptoleges.it](https://www.cryptoleges.it)
- - date_published: 2024-09-03T23:22:47.603347+00:00
-
- ## CryptoNet Labs – La sicurezza intorno al tuo business.
- - [https://www.cryptonetlabs.it](https://www.cryptonetlabs.it)
- - date_published: 2024-09-22T23:06:27+00:00
-
- ## Cryptorobin.it
- - [https://cryptorobin.it](https://cryptorobin.it)
- - date_published: 2024-09-24T11:19:43.791864+00:00
-
- ## CRYPTOROMA
- - [https://cryptoroma.it](https://cryptoroma.it)
- - date_published: 2024-09-25T10:31:34.158624+00:00
-
- ## Exchange Crypto Italiano 100% dove comprare Bitcoin e cripto
- - [https://cryptosmart.it](https://cryptosmart.it)
- - date_published: 2024-05-05T15:22:38+00:00
-
- ## Home
- - [https://www.csec.it](https://www.csec.it)
- - date_published: 2024-06-23T20:44:36.474201+00:00
-
- ## www.cubase.it
- - [http://www.cubase.it](http://www.cubase.it)
- - date_published: 2024-06-30T07:42:55.406726+00:00
-
- ## Case e appartamenti in vendita - Cubocasa.it
- - [http://www.cubocasa.it](http://www.cubocasa.it)
- - date_published: 2024-11-16T19:37:30.075239+00:00
-
- ## Cultural Care Au Pair | Cultural Care
- - [https://www.culturalcare.it](https://www.culturalcare.it)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Cupido - Incontri online
- - [https://cupido.it](https://cupido.it)
- - date_published: 2024-09-16T10:22:27.543180+00:00
-
- ## Giovanni Cappellotto's Blog
- - [https://giovanni.curlybrackets.it](https://giovanni.curlybrackets.it)
- - date_published: 2024-07-23T23:42:53.484622+00:00
-
- ## Crea il tuo curriculum di successo - Editor CV (Gratis)
- - [https://cvapp.it](https://cvapp.it)
- - date_published: 2024-05-06T09:21:11.463773+00:00
-
- ## Cvapp.it FAQ
- - [https://help.cvapp.it](https://help.cvapp.it)
- - date_published: 2024-06-22T22:11:47.154243+00:00
-
- ## CyberChallenge.IT
- - [https://cyberchallenge.it](https://cyberchallenge.it)
- - date_published: 2024-05-01T07:33:09.665019+00:00
-
- ## CyberHighSchools.IT
- - [https://cyberhighschools.it](https://cyberhighschools.it)
- - date_published: 2024-06-16T19:41:10.250830+00:00
-
- ## Cyber Saiyan - Associazione Culturale
- - [https://www.cybersaiyan.it](https://www.cybersaiyan.it)
- - date_published: 2024-04-23T16:23:02+00:00
-
- ## CyberSecurity Italia - Quotidiano online sulla sicurezza informatica
- - [https://www.cybersecitalia.it](https://www.cybersecitalia.it)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://analytics.cybersecnatlab.it](https://analytics.cybersecnatlab.it)
- - date_published: 2024-06-16T19:41:11.626600+00:00
-
- ## Home - Cybersecurity National Lab
- - [https://cybersecnatlab.it](https://cybersecnatlab.it)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## CyberTrials - Formazione gratuita e gaming per studentesse delle scuole superiori - Cybertrials
- - [https://cybertrials.it](https://cybertrials.it)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Bartłomiej Czyż - Portfolio
- - [https://czyz.it](https://czyz.it)
- - date_published: 2020-01-08T20:48:09+00:00
-
- ## Directory Aziendale per le imprese Italiane ed Estere - DaBro Registro Aziendale Milano Italy
- - [https://dabro.it](https://dabro.it)
- - date_published: 2024-05-07T13:45:24.641918+00:00
-
- ## Dallara
- - [http://www.dallara.it](http://www.dallara.it)
- - date_published: 2024-07-12T13:32:25.883832+00:00
-
- ## Ivo Damjanović
- - [https://damjanovic.it](https://damjanovic.it)
- - date_published: 2024-08-05T14:38:01+00:00
-
- ## Responsive Web Agency DAM-Project, Internet Company
- - [https://www.dam-project.it](https://www.dam-project.it)
- - date_published: 2024-09-10T13:23:07.739533+00:00
-
- ## Daniele's personal web site
- - [https://www.danielediminica.it](https://www.danielediminica.it)
- - date_published: 2023-07-18T11:06:16+00:00
- - tags: ['personal']
-
- ## Istituto Statale di Istruzione Secondaria Superiore "GABRIELE D’ANNUNZIO" - Gorizia
- - [https://www.dannunzio-fabiani.it](https://www.dannunzio-fabiani.it)
- - date_published: 2024-10-13T06:57:18.293773+00:00
-
- ## Commedia
- - [https://dantecommedia.it](https://dantecommedia.it)
- - date_published: 2021-12-07T14:05:55+00:00
-
- ## dantonag.it - the next iteration
- - [https://dantonag.it](https://dantonag.it)
- - date_published: 2023-06-02T18:28:40+00:00
-
- ## Da Un Universo All'Altro
- - [https://www.daununiversoallaltro.it](https://www.daununiversoallaltro.it)
- - date_published: 2024-09-02T16:55:13.888959+00:00
-
- ## Nostr Redirect
- - [https://nostredirect.davidcoen.it](https://nostredirect.davidcoen.it)
- - date_published: 2023-03-15T14:55:36+00:00
-
- ## Davide Aversa
- - [https://davideaversa.it](https://davideaversa.it)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Istituto D'Istruzione Superiore "Da Vinci-Nitti"
- - [https://www.davinci-nitti.it](https://www.davinci-nitti.it)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Davide Quaranta
- - [https://davquar.it](https://davquar.it)
- - date_published: 2023-10-25T20:14:47.000469+00:00
-
- ## dayr.it
- - [https://dayr.it](https://dayr.it)
- - date_published: 2024-07-13T04:15:19.975243+00:00
-
- ## Decathlon - Consigli per lo sport
- - [https://consigli-sport.decathlon.it](https://consigli-sport.decathlon.it)
- - date_published: 2024-09-19T14:38:14.887225+00:00
-
- ## Decathlon | Abbigliamento e articoli sportivi | Lo Sport per tutti
- - [https://decathlon.it](https://decathlon.it)
- - date_published: 2024-06-15T20:09:37.903418+00:00
-
- ## ES DECATHLON
- - [https://esperienzasportiva.decathlon.it](https://esperienzasportiva.decathlon.it)
- - date_published: 2024-09-19T13:35:45.776730+00:00
-
- ## HOMEPAGE
- - [https://impegni.decathlon.it](https://impegni.decathlon.it)
- - date_published: 2024-09-19T01:57:24.075057+00:00
-
- ## Dashboard | Decathlon - Lista Regalo
- - [https://listaregalo.decathlon.it](https://listaregalo.decathlon.it)
- - date_published: 2024-05-27T08:05:08+00:00
-
- ## Decathlon assistenza tecnica
- - [https://support.decathlon.it](https://support.decathlon.it)
- - date_published: 2024-09-19T14:54:41.857779+00:00
-
- ## Decathlon Careers
- - [https://decathlon-careers.it](https://decathlon-careers.it)
- - date_published: 2024-09-19T13:35:34.999021+00:00
-
- ## Bastian Allgeier
- - [http://decentralize.it](http://decentralize.it)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Radio Deejay
- - [https://deejay.it](https://deejay.it)
- - date_published: 2024-05-12T06:44:36.888176+00:00
-
- ## Deejay Ten - Radio Deejay
- - [http://deejayten.deejay.it](http://deejayten.deejay.it)
- - date_published: 2024-07-16T18:54:28.612939+00:00
-
- ## Radio Deejay Official Store
- - [https://store.deejay.it](https://store.deejay.it)
- - date_published: 2024-07-16T18:54:33.478428+00:00
-
- ## DeepFreeze | Journalism corruption reference
- - [http://www.deepfreeze.it](http://www.deepfreeze.it)
- - date_published: 2017-09-10T00:00:00+00:00
 

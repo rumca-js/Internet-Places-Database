@@ -1,3 +1,55 @@
+ ## One Click Social Login | Social Login Integration for your Website
+ - [https://oneclicksociallogin.devcloudsoftware.com](https://oneclicksociallogin.devcloudsoftware.com)
+ - date_published: 2024-05-08T12:29:47.501587+00:00
+
+ ## DevCurry
+ - [https://devcurry.com](https://devcurry.com)
+ - date_published: 2024-05-01T03:55:42.761535+00:00
+
+ ## Log in | DevCycle Dashboard
+ - [https://app.devcycle.com](https://app.devcycle.com)
+ - date_published: 2024-05-01T04:49:37.722610+00:00
+
+ ## DevCycle
+ - [https://blog.devcycle.com](https://blog.devcycle.com)
+ - date_published: 2024-05-01T04:49:31.292630+00:00
+
+ ## DevCycle | Feature Flag Management for Developers
+ - [https://devcycle.com](https://devcycle.com)
+ - date_published: 2023-10-25T13:50:46.064161+00:00
+
+ ## Welcome to DevCycle | DevCycle Docs
+ - [https://docs.devcycle.com](https://docs.devcycle.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Roland's Mastodon
+ - [https://devdilettante.com](https://devdilettante.com)
+ - date_published: 2024-05-15T20:53:35.417983+00:00
+
+ ## International Development News, Breaking News, Opinion and Analysis - Devdiscourse
+ - [https://devdiscourse.com](https://devdiscourse.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn.devdojo.com](https://cdn.devdojo.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Dev Community - DevDojo
+ - [https://devdojo.com](https://devdojo.com)
+ - date_published: 2023-10-25T13:50:50.978170+00:00
+
+ ## Static · The Static Site Generator you're going to love
+ - [https://static.devdojo.com](https://static.devdojo.com)
+ - date_published: 2024-02-27T22:44:56+00:00
+
+ ## Online Acquisitions Newsletter
+ - [https://devdrivenacquisitions.com](https://devdrivenacquisitions.com)
+ - date_published: 2023-11-07T19:50:22+00:00
+
+ ## DevDungeon
+ - [https://www.devdungeon.com](https://www.devdungeon.com)
+ - date_published: 2024-08-10T21:22:06+00:00
+
  ## Azienda sviluppo software e hardware custom | Develer®
  - [https://develer.com](https://develer.com)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -3986,56 +4038,4 @@ A blog about programming, distributed systems and others
  ## Digital Information World
  - [https://digitalinformationworld.com](https://digitalinformationworld.com)
  - date_published: 2023-10-25T13:52:28.987711+00:00
-
- ## Subscribe to The Washington Post
- - [https://subscribe.digitalink.com](https://subscribe.digitalink.com)
- - date_published: 2024-06-29T15:27:32.070181+00:00
-
- ## Consultant Inbound & Outbound Marketing Indépendant
- - [https://digital-in-progress.com](https://digital-in-progress.com)
- - date_published: 2018-02-27T11:29:20+00:00
-
- ## Digital Inspiration - Automate your Business with Google Addons for Gmail and Google Workspace
- - [https://digitalinspiration.com](https://digitalinspiration.com)
- - date_published: 2024-06-19T13:21:52+00:00
-
- ## Digital Intercourse
- - [https://digitalintercourse.com](https://digitalintercourse.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Keyloop Chat Sales Consultant Console
- - [https://canada.digital-interview.com](https://canada.digital-interview.com)
- - date_published: 2024-06-26T22:36:48.909768+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.digitalinvestmentservices.com](https://www.digitalinvestmentservices.com)
- - date_published: 2024-09-23T11:57:27.863691+00:00
-
- ## Digitalis - Welcome!
- - [http://www.digitaliseducation.com](http://www.digitaliseducation.com)
- - date_published: 2024-06-26T15:34:03+00:00
-
- ## Digitalist Hub
- - [https://digitalisthub.com](https://digitalisthub.com)
- - date_published: 2024-06-24T08:02:06.015232+00:00
-
- ## Digital Journal | Elevating voices
- - [https://digitaljournal.com](https://digitaljournal.com)
- - date_published: 2024-01-06T05:09:22.107188+00:00
-
- ## Digital Journal Insight Forum
- - [https://if.digitaljournal.com](https://if.digitaljournal.com)
- - date_published: 2024-06-14T03:13:16+00:00
-
- ## Digital Journal content marketing eStore
- - [https://store.digitaljournal.com](https://store.digitaljournal.com)
- - date_published: 2024-05-01T05:11:11.810003+00:00
-
- ## Home - DigitalLaserCutting.com
- - [https://digitallasercutting.com](https://digitallasercutting.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Digital Legends Entertainment: 3D video games for mobile phones, smartphones and tablets
- - [https://digital-legends.com](https://digital-legends.com)
- - date_published: 2022-03-11T21:45:36+00:00
 

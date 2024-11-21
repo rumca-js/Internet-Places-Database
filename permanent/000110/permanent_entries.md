@@ -1,3 +1,67 @@
+ ## Attention Required! | Cloudflare
+ - [http://alaska.giftlegacy.com](http://alaska.giftlegacy.com)
+ - date_published: 2024-07-01T22:04:18.357568+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://baylor.giftlegacy.com](https://baylor.giftlegacy.com)
+ - date_published: 2024-08-19T18:39:21.357815+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://kpbs.giftlegacy.com](https://kpbs.giftlegacy.com)
+ - date_published: 2024-07-07T04:41:59.339640+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ndsufoundation.giftlegacy.com](https://ndsufoundation.giftlegacy.com)
+ - date_published: 2024-07-01T16:02:02.495998+00:00
+
+ ## KITAB4D | Saluran Resmi Online Sudah Terpercaya No.1
+ - [https://giftmatchr.com](https://giftmatchr.com)
+ - date_published: 2024-07-24T11:17:40+00:00
+
+ ## GiftMelody
+ - [http://giftmelody.com](http://giftmelody.com)
+ - date_published: 2024-09-14T07:44:07.226482+00:00
+
+ ## Giftnote | Shopify Gift Messaging & Voucher App
+ - [https://giftnote.com](https://giftnote.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Website Speed Test | Choose your test location
+ - [https://giftofspeed.com](https://giftofspeed.com)
+ - date_published: 2024-09-09T16:23:21.884985+00:00
+
+ ## GiftRocker | Gift Cards, Events, Loyalty and Marketing
+ - [https://www.giftrocker.com](https://www.giftrocker.com)
+ - date_published: 2024-06-29T15:22:42.193996+00:00
+
+ ## Gift Saved - Never run out of gift ideas again
+ - [https://giftsaved.com](https://giftsaved.com)
+ - date_published: 2021-08-03T07:35:11+00:00
+
+ ## 北京礼品展官方网站
+ - [https://www.giftsbeijing.com](https://www.giftsbeijing.com)
+ - date_published: 2024-08-06T01:47:23+00:00
+
+ ## Premium Gifts That Give Back
+ - [https://giftsforgood.com](https://giftsforgood.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Giftster - The family wish list maker
+ - [https://giftster.com](https://giftster.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## React App
+ - [https://assets.gifttagg.com](https://assets.gifttagg.com)
+ - date_published: 2023-06-15T13:16:52+00:00
+
+ ## GiftTool - cloud-based fundraising, donations, event management, ecommerce solutions & more.
+ - [https://www.gifttool.com](https://www.gifttool.com)
+ - date_published: 2024-09-09T21:10:10+00:00
+
+ ## GiftYa | Textable Gift Cards, Fast and Personalized
+ - [https://www.giftya.com](https://www.giftya.com)
+ - date_published: 2024-08-08T22:47:52.363373+00:00
+
  ## Wedding Gift Registry of your own - GiftyWeddings.com
  - [https://giftyweddings.com](https://giftyweddings.com)
  - date_published: 2024-09-06T01:06:54.515340+00:00
@@ -1074,6 +1138,7 @@
  ## GitHub · Build and ship software on a single, collaborative platform
  - [https://github.com](https://github.com)
  - date_published: 2023-10-25T14:42:43.938249+00:00
+ - tags: ['gatekeeper', 'software platform']
 
  ## GitHub - ImKKingshuk/Awesome-CustomROM: Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
  - [https://github.com/ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM)
@@ -1405,6 +1470,21 @@
  - date_published: 2024-11-19T14:29:39+00:00
  - tags: ['blocklist']
 
+ ## GitHub - alecmuffett/real-world-onion-sites: This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
+ - [https://github.com/alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites)
+ - date_published: 2024-11-20T05:18:38+00:00
+ - tags: ['onion web pages', 'onion aires']
+
+ ## GitHub - gitroomhq/postiz-app: 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+ - [https://github.com/gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+ - date_published: 2024-11-20T13:21:47+00:00
+ - tags: ['social media management']
+
+ ## GitHub - zotify-dev/zotify: A fast and customizable music and podcast downloader.
+ - [https://github.com/zotify-dev/zotify](https://github.com/zotify-dev/zotify)
+ - date_published: 2024-11-20T18:59:10+00:00
+ - tags: ['download manager']
+
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
  - date_published: 2024-04-18T13:56:46+00:00
@@ -1660,6 +1740,7 @@
  ## The most-comprehensive AI-powered DevSecOps platform
  - [https://gitlab.com](https://gitlab.com)
  - date_published: 2023-10-25T14:45:19.469977+00:00
+ - tags: ['software platform']
 
  ## The most-comprehensive AI-powered DevSecOps platform
  - [https://go.gitlab.com](https://go.gitlab.com)
@@ -4008,80 +4089,4 @@
  ## Glowtxt
  - [https://glowtxt.com](https://glowtxt.com)
  - date_published: 2024-06-22T09:07:46.421706+00:00
-
- ## Glowtxt
- - [https://static1.glowtxt.com](https://static1.glowtxt.com)
- - date_published: 2024-06-22T09:07:42.259563+00:00
-
- ## Glowup AI - AI Powered Professional Photoshoot From Your Home
- - [https://app.glowupai.com](https://app.glowupai.com)
- - date_published: 2024-10-30T18:54:13.509980+00:00
-
- ## Glowup AI - AI Photoshoot for a Stunning Online Presence
- - [https://glowupai.com](https://glowupai.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Logistics Real Estate | GLP Europe
- - [https://www.glp.com](https://www.glp.com)
- - date_published: 2024-10-28T00:51:21.717923+00:00
-
- ## GLS
- - [https://gls-canada.com](https://gls-canada.com)
- - date_published: 2024-06-20T12:17:50.240061+00:00
-
- ## GLS: Parcels to people.
- - [https://gls-group.com](https://gls-group.com)
- - date_published: 2024-10-11T06:15:20+00:00
-
- ## GLSL Sandbox Gallery
- - [http://glslsandbox.com](http://glslsandbox.com)
- - date_published: 2024-06-20T17:44:50.461011+00:00
-
- ## Greene-Levin-Snyder LLC | Legal Search Group
- - [http://www.glslsg.com](http://www.glslsg.com)
- - date_published: 2024-06-21T10:13:26.737158+00:00
-
- ## GLS/NXT - Delightful Logistics
- - [https://www.glsnxt.com](https://www.glsnxt.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Parcel & Freight Delivery Services Throughout the West - GLS
- - [https://www.gls-us.com](https://www.gls-us.com)
- - date_published: 2024-06-20T12:17:58.178280+00:00
-
- ## GLUE Benchmark
- - [https://gluebenchmark.com](https://gluebenchmark.com)
- - date_published: 2023-04-13T16:35:32+00:00
-
- ## glueckkanja.com | Home
- - [https://www.glueckkanja.com](https://www.glueckkanja.com)
- - date_published: 2024-06-21T06:05:43+00:00
-
- ## Die besten Online Casinos 2024 | Gluecksspielinformationen.com
- - [https://gluecksspielinformationen.com](https://gluecksspielinformationen.com)
- - date_published: 2024-08-07T21:27:31.271860+00:00
-
- ## GlueCMS.com
- - [https://gluecms.com](https://gluecms.com)
- - date_published: 2024-07-03T21:47:50.899856+00:00
-
- ## SW2 CON 2024
- - [https://gluecon.com](https://gluecon.com)
- - date_published: 2024-05-14T03:32:32.095258+00:00
-
- ## Home Page - Glue Sticks, Guns, Dots & Hot Melt Adhesives UK | Glue Guns Direct
- - [http://www.gluegunsdirect.com](http://www.gluegunsdirect.com)
- - date_published: 2024-11-16T19:46:17.198790+00:00
-
- ## slotwin | PaglalaroAndroid
- - [http://www.glue-sniffing.com](http://www.glue-sniffing.com)
- - date_published: 2024-06-29T22:32:26.534429+00:00
-
- ## Log In | Glue Up
- - [https://app.glueup.com](https://app.glueup.com)
- - date_published: 2024-06-14T18:04:50.537038+00:00
-
- ## Events | The Economist Group Limited
- - [https://corporatenetwork.glueup.com](https://corporatenetwork.glueup.com)
- - date_published: 2024-07-14T04:02:58.758929+00:00
 

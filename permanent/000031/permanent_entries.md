@@ -1,3 +1,19 @@
+ ## Vacancies - Costa Group
+ - [https://costagroup.currentjobs.co](https://costagroup.currentjobs.co)
+ - date_published: 2024-10-31T09:42:04.214520+00:00
+
+ ## Home of Esports Education | Gaming Cxmmunity Co | Atlanta
+ - [https://www.cxmmunity.co](https://www.cxmmunity.co)
+ - date_published: 2024-06-28T17:50:30.621374+00:00
+
+ ## Cyber.co | Ethereum Layer 2 Solutions  for Web3 Social
+ - [https://cyber.co](https://cyber.co)
+ - date_published: 2024-09-23T22:34:39.011649+00:00
+
+ ## Cyber L2
+ - [https://docs.cyber.co](https://docs.cyber.co)
+ - date_published: 2024-09-25T10:56:15.757339+00:00
+
  ## Cyber Forum: latest updates and discussion for the community and CYBER stakers
  - [https://forum.cyber.co](https://forum.cyber.co)
  - date_published: 2024-09-25T10:56:17.334736+00:00
@@ -2172,6 +2188,10 @@
  - [https://help.gameball.co](https://help.gameball.co)
  - date_published: 2024-10-31T05:07:57.640747+00:00
 
+ ## The GameDiscoverCo newsletter | Simon Carless | Substack
+ - [https://newsletter.gamediscover.co](https://newsletter.gamediscover.co)
+ - date_published: 2024-11-20T02:35:21.774256+00:00
+
  ## Gameplay | Real stories, virtual worlds.
  - [https://gameplay.co](https://gameplay.co)
  - date_published: 2024-06-22T12:53:09.711595+00:00
@@ -4021,24 +4041,4 @@ It’s what you do.
  ## LeanLaw - Legal Billing Made Easy
  - [https://www.leanlaw.co](https://www.leanlaw.co)
  - date_published: 2024-10-30T10:38:47.150695+00:00
-
- ## Lean Startup Co: Innovation & Product Development Consulting
- - [http://2014.leanstartup.co](http://2014.leanstartup.co)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Lean Startup Co: Innovation & Product Development Consulting
- - [https://leanstartup.co](https://leanstartup.co)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Flatiron School - Sign up
- - [https://learn.co](https://learn.co)
- - date_published: 2024-04-30T07:12:39.738267+00:00
-
- ## Mental Models - Decision-making models with AI Coach
- - [https://learnmentalmodels.co](https://learnmentalmodels.co)
- - date_published: 2024-06-19T19:06:17.901677+00:00
-
- ## LearnVue
- - [https://learnvue.co](https://learnvue.co)
- - date_published: 2024-09-04T14:59:06.312051+00:00
 

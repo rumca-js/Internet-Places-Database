@@ -1,3 +1,44 @@
+ ## BlogNomic: The Fifth Dynasty of JonathanDark
+ - [http://blognomic.com](http://blognomic.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Blognone | ข่าวไอที เทคโนโลยี มือถือ เกม ความปลอดภัย โอเพนซอร์ส
+ - [http://blognone.com](http://blognone.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Blog of Drew
+ - [https://blogofdrew.com](https://blogofdrew.com)
+ - date_published: 2023-12-17T05:08:07.684561+00:00
+ - tags: ['personal']
+
+ ## Blog of Holding
+ - [https://www.blogofholding.com](https://www.blogofholding.com)
+ - date_published: 2024-07-15T09:44:05.656138+00:00
+
+ ## Ex Real SJ- Define your world in a whole new way
+ - [http://www.blogofthegods.com](http://www.blogofthegods.com)
+ - date_published: 2023-04-04T19:16:54+00:00
+
+ ## Home Page - Blog of the Planet of the Apes
+ - [https://blogoftheplanetoftheapes.com](https://blogoftheplanetoftheapes.com)
+ - date_published: 2024-07-18T11:26:21+00:00
+
+ ## Blog Oh! Blog
+ - [http://www.blogohblog.com](http://www.blogohblog.com)
+ - date_published: 2024-06-22T23:19:03.916104+00:00
+
+ ## Morphex's blogologue (Life, technology, music, politics, business, mental health and more)
+ - [https://blogologue.com](https://blogologue.com)
+ - date_published: 2024-06-28T20:19:47+00:00
+
+ ## Stack Exchange Theoretical Computer Science Blog
+ - [http://cstheory.blogoverflow.com](http://cstheory.blogoverflow.com)
+ - date_published: 2017-03-03T15:24:32+00:00
+
+ ## List: Reading list | Curated by Kathleen Underwood | Medium
+ - [http://www.blogpatrol.com](http://www.blogpatrol.com)
+ - date_published: 2024-10-19T04:29:09.514806+00:00
+
  ## Blogpocket
  - [https://blogpocket.com](https://blogpocket.com)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -3972,45 +4013,4 @@
  ## Barracuda
  - [https://barracudanls.blogspot.com](https://barracudanls.blogspot.com)
  - date_published: 2024-06-29T11:01:46+00:00
-
- ## Barry & Christy
- - [https://barryandchristy.blogspot.com](https://barryandchristy.blogspot.com)
- - date_published: 2024-10-05T03:12:07+00:00
-
- ## Support for "Trick and Treat": How 'healthy eating' is making us ill
- - [http://barrygroves.blogspot.com](http://barrygroves.blogspot.com)
- - date_published: 2024-09-25T22:52:26+00:00
-
- ## Barry Male Voice choir
- - [http://barry-male-voice-choir.blogspot.com](http://barry-male-voice-choir.blogspot.com)
- - date_published: 2024-09-09T08:48:41+00:00
-
- ## The art of simplicity
- - [https://bartwullems.blogspot.com](https://bartwullems.blogspot.com)
- - date_published: 2023-10-25T09:06:01.627020+00:00
- - tags: ['personal']
-
- ## Getting Back into Baseball Cards....in Japan
- - [http://baseballcardsinjapan.blogspot.com](http://baseballcardsinjapan.blogspot.com)
- - date_published: 2024-08-03T23:30:08+00:00
-
- ## Basement Gaming Bunker
- - [http://basementgamingbunker.blogspot.com](http://basementgamingbunker.blogspot.com)
- - date_published: 2024-03-14T10:37:58+00:00
-
- ## Basic Fantasist
- - [http://basicfantasist.blogspot.com](http://basicfantasist.blogspot.com)
- - date_published: 2024-03-13T14:03:14+00:00
-
- ## Basic Red
- - [http://basicredrpg.blogspot.com](http://basicredrpg.blogspot.com)
- - date_published: 2024-07-07T09:07:20+00:00
-
- ## basic_sounds
- - [http://basic_sounds.blogspot.com](http://basic_sounds.blogspot.com)
- - date_published: 2024-09-09T03:54:39+00:00
-
- ## Basil
- - [http://basil-soratemplates.blogspot.com](http://basil-soratemplates.blogspot.com)
- - date_published: 2019-08-21T00:00:00+00:00
 

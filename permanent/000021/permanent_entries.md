@@ -1,3 +1,19 @@
+ ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
+ - [https://www.regio7.cat](https://www.regio7.cat)
+ - date_published: 2024-10-14T21:00:08+00:00
+
+ ## River MacLeod
+ - [https://river.cat](https://river.cat)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## ROBOCAT 2024
+ - [https://robocat.cat](https://robocat.cat)
+ - date_published: 2024-07-12T08:40:29.123161+00:00
+
+ ## S4A Blog
+ - [http://blog.s4a.cat](http://blog.s4a.cat)
+ - date_published: 2016-02-23T00:00:00+00:00
+
  ## Shadowcat Systems Limited – Sufficiently Advanced Technology
  - [https://www.shadow.cat](https://www.shadow.cat)
  - date_published: 2024-09-03T23:35:58.293117+00:00
@@ -4020,20 +4036,4 @@
  ## Jass Fédéral | Differenzler | Schieber
  - [https://jass.bluewin.ch](https://jass.bluewin.ch)
  - date_published: 2024-02-28T09:42:07+00:00
-
- ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
- - [https://www.bod.ch](https://www.bod.ch)
- - date_published: 2024-07-08T13:06:06.430136+00:00
-
- ## BOHEM Verlag - Schöne Bilderbücher
- - [http://www.bohem.ch](http://www.bohem.ch)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
- - [https://bolo.ch](https://bolo.ch)
- - date_published: 2024-05-12T07:15:04.597151+00:00
-
- ## Bonto.ch - Junior B.
- - [https://www.bonto.ch](https://www.bonto.ch)
- - date_published: 2023-01-22T11:41:37+00:00
 

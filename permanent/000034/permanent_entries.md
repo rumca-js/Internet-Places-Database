@@ -1,3 +1,23 @@
+ ## Fundación Universitaria San Mateo: Educación de calidad
+ - [https://www.sanmateo.edu.co](https://www.sanmateo.edu.co)
+ - date_published: 2024-09-11T16:51:57.822872+00:00
+
+ ## Santoto Virtual, Programas Virtuales
+ - [https://santotovirtual.edu.co](https://santotovirtual.edu.co)
+ - date_published: 2024-09-10T11:35:50.056661+00:00
+
+ ## Campus Virtual - Universidad Cooperativa de Colombia
+ - [https://campusvirtual.ucc.edu.co](https://campusvirtual.ucc.edu.co)
+ - date_published: 2021-04-09T01:24:16+00:00
+
+ ## Index Page
+ - [https://opscs.ucc.edu.co](https://opscs.ucc.edu.co)
+ - date_published: 2020-01-04T00:21:37+00:00
+
+ ## Universidad Cooperativa de Colombia | UCC
+ - [https://ucc.edu.co](https://ucc.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## U. Central | Credyty
  - [https://credicentral.ucentral.edu.co](https://credicentral.ucentral.edu.co)
  - date_published: 2024-09-06T20:09:33+00:00
@@ -4019,25 +4039,4 @@
  ## Søren Johanson | Freelance Software Engineer
  - [https://soeren.codes](https://soeren.codes)
  - date_published: 2024-08-08T15:24:43.457537+00:00
-
- ## solnic.codes
- - [https://solnic.codes](https://solnic.codes)
- - date_published: 2023-10-25T08:44:02.393684+00:00
- - tags: ['personal']
-
- ## Soto
- - [https://soto.codes](https://soto.codes)
- - date_published: 2023-08-11T09:06:41+00:00
-
- ## SsmCodes
- - [https://ssm.codes](https://ssm.codes)
- - date_published: 2024-06-30T10:34:32.470469+00:00
-
- ## tanis.codes | Articles about Backend, DevOps, Systems and Performance
- - [https://tanis.codes](https://tanis.codes)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## Texas Toland
- - [https://tex.codes](https://tex.codes)
- - date_published: 2024-06-22T15:50:27.219328+00:00
 

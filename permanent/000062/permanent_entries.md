@@ -1,3 +1,43 @@
+ ## Philosophy, et cetera
+ - [http://pixnaps.blogspot.com](http://pixnaps.blogspot.com)
+ - date_published: 2024-10-08T19:00:06+00:00
+
+ ## PlacesPeopleStuff with Character
+ - [https://placeswithcharacter.blogspot.com](https://placeswithcharacter.blogspot.com)
+ - date_published: 2024-06-22T15:53:00+00:00
+
+ ## "Plagiarism is almost always a symptom of other educational problems"
+ - [http://plagiarism-main.blogspot.com](http://plagiarism-main.blogspot.com)
+ - date_published: 2024-09-20T10:28:11+00:00
+
+ ## Plagiointitutkija
+ - [http://plagiointitutkija.blogspot.com](http://plagiointitutkija.blogspot.com)
+ - date_published: 2024-10-06T21:53:29+00:00
+
+ ## a PLAGUE of ANGELS
+ - [http://plagueofangels.blogspot.com](http://plagueofangels.blogspot.com)
+ - date_published: 2024-03-23T18:02:48+00:00
+
+ ## Plaid Stallions : Rambling and Reflections on '70s pop culture
+ - [http://plaidstallions.blogspot.com](http://plaidstallions.blogspot.com)
+ - date_published: 2024-09-13T13:15:39+00:00
+
+ ## PLANET ALGOL
+ - [http://planetalgol.blogspot.com](http://planetalgol.blogspot.com)
+ - date_published: 2024-07-13T06:25:53+00:00
+
+ ## PLANET ARES VI
+ - [http://planetares6.blogspot.com](http://planetares6.blogspot.com)
+ - date_published: 2024-07-13T06:19:40+00:00
+
+ ## Furahan Biology and Allied Matters
+ - [https://planetfuraha.blogspot.com](https://planetfuraha.blogspot.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Blogger
+ - [http://planet-politics.blogspot.com](http://planet-politics.blogspot.com)
+ - date_published: 2024-10-21T16:14:28.189546+00:00
+
  ## Urban Planning Research
  - [http://planningresearch.blogspot.com](http://planningresearch.blogspot.com)
  - date_published: 2024-03-07T09:14:37+00:00
@@ -3971,45 +4011,4 @@
  ## Mad Dogs and Englishmen
  - [http://self-preservationsociety.blogspot.com](http://self-preservationsociety.blogspot.com)
  - date_published: 2024-10-21T13:38:45.408938+00:00
-
- ## Blogger
- - [http://selfstyledsiren.blogspot.com](http://selfstyledsiren.blogspot.com)
- - date_published: 2024-10-21T03:58:46.507765+00:00
-
- ## Standing Into Danger
- - [http://selkiegrey4.blogspot.com](http://selkiegrey4.blogspot.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Semantic Domain
- - [https://semantic-domain.blogspot.com](https://semantic-domain.blogspot.com)
- - date_published: 2024-05-08T06:14:41.566223+00:00
-
- ## semola
- - [http://semolaa.blogspot.com](http://semolaa.blogspot.com)
- - date_published: 2024-09-02T08:48:00+00:00
-
- ## 40K Bump
- - [http://semperfibolter.blogspot.com](http://semperfibolter.blogspot.com)
- - date_published: 2024-03-14T14:57:38+00:00
-
- ## BLOG FENGSHUI DAN HOKI
- - [https://sempurnajayahoki.blogspot.com](https://sempurnajayahoki.blogspot.com)
- - date_published: 2023-11-23T00:00:00+00:00
-
- ## Sentient Developments
- - [http://sentientdevelopments.blogspot.com](http://sentientdevelopments.blogspot.com)
- - date_published: 2015-11-23T00:00:00+00:00
-
- ## SEO Next Demo
- - [https://seo-next-demo.blogspot.com](https://seo-next-demo.blogspot.com)
- - date_published: 2024-05-24T09:30:07+00:00
-
- ## SEO Spot - Demo
- - [https://seo-spot-demo.blogspot.com](https://seo-spot-demo.blogspot.com)
- - date_published: 2024-02-08T13:38:20+00:00
-
- ## Separated by a Common Language
- - [https://separatedbyacommonlanguage.blogspot.com](https://separatedbyacommonlanguage.blogspot.com)
- - date_published: 2024-05-07T15:45:25.630414+00:00
- - tags: ['personal']
 

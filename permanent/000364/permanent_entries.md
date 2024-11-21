@@ -1,3 +1,228 @@
+ ## days_unfolding | Recent Entries
+ - [https://days-unfolding.dreamwidth.org](https://days-unfolding.dreamwidth.org)
+ - date_published: 2024-07-02T06:06:45.660096+00:00
+
+ ## deepad | Recent Entries
+ - [http://deepad.dreamwidth.org](http://deepad.dreamwidth.org)
+ - date_published: 2024-07-04T15:13:30.858055+00:00
+
+ ## diziet | Recent Entries
+ - [https://diziet.dreamwidth.org](https://diziet.dreamwidth.org)
+ - date_published: 2023-10-25T21:15:30.379033+00:00
+
+ ## Dreamwidth Studios
+ - [https://dreamwidth.org](https://dreamwidth.org)
+ - date_published: 2024-04-28T04:11:18.535471+00:00
+
+ ## dw_news | Recent Entries
+ - [https://dw-news.dreamwidth.org](https://dw-news.dreamwidth.org)
+ - date_published: 2024-08-07T13:09:49.344106+00:00
+
+ ## emceeaich | Recent Entries
+ - [https://emceeaich.dreamwidth.org](https://emceeaich.dreamwidth.org)
+ - date_published: 2024-07-07T10:28:58.172575+00:00
+
+ ## erinptah | Recent Entries
+ - [https://erinptah.dreamwidth.org](https://erinptah.dreamwidth.org)
+ - date_published: 2024-07-17T09:15:26.558572+00:00
+
+ ## escapewindow | Recent Entries
+ - [http://escapewindow.dreamwidth.org](http://escapewindow.dreamwidth.org)
+ - date_published: 2024-07-07T10:26:52.765572+00:00
+
+ ## fancake | Recent Entries
+ - [https://fancake.dreamwidth.org](https://fancake.dreamwidth.org)
+ - date_published: 2024-09-16T06:44:54.297192+00:00
+
+ ## Discretion Advised: 18+ Content
+ - [https://fandomgiftbasket.dreamwidth.org](https://fandomgiftbasket.dreamwidth.org)
+ - date_published: 2024-09-16T06:44:30.651376+00:00
+
+ ## fanlore | Recent Entries
+ - [http://fanlore.dreamwidth.org](http://fanlore.dreamwidth.org)
+ - date_published: 2024-09-03T20:40:38.021224+00:00
+
+ ## Discretion Advised
+ - [https://ffprompts.dreamwidth.org](https://ffprompts.dreamwidth.org)
+ - date_published: 2024-08-11T09:21:43.916280+00:00
+
+ ## finch | Recent Entries
+ - [https://finch.dreamwidth.org](https://finch.dreamwidth.org)
+ - date_published: 2024-06-23T18:48:48.759975+00:00
+
+ ## fonderdiamondsreview | Recent Entries
+ - [https://fonderdiamondsreview.dreamwidth.org](https://fonderdiamondsreview.dreamwidth.org)
+ - date_published: 2024-05-07T13:31:14.666427+00:00
+
+ ## Discretion Advised
+ - [https://frostfire.dreamwidth.org](https://frostfire.dreamwidth.org)
+ - date_published: 2024-07-16T19:15:33.965806+00:00
+
+ ## Discretion Advised
+ - [https://gdgdbaby.dreamwidth.org](https://gdgdbaby.dreamwidth.org)
+ - date_published: 2024-09-16T06:43:00.346357+00:00
+
+ ## genehack | Recent Entries
+ - [https://genehack.dreamwidth.org](https://genehack.dreamwidth.org)
+ - date_published: 2024-05-10T06:28:14.428985+00:00
+
+ ## Discretion Advised
+ - [https://genprompt-bingo.dreamwidth.org](https://genprompt-bingo.dreamwidth.org)
+ - date_published: 2024-09-16T06:43:01.859884+00:00
+
+ ## Discretion Advised
+ - [https://goldenet.dreamwidth.org](https://goldenet.dreamwidth.org)
+ - date_published: 2024-10-07T22:15:19.801738+00:00
+
+ ## ɢᴏʟᴅᴇɴ ᴘᴇᴀᴄᴏᴄᴋ ʟᴏɢ ᴄᴏᴍᴍᴜɴɪᴛʏ
+ - [https://goldenlogs.dreamwidth.org](https://goldenlogs.dreamwidth.org)
+ - date_published: 2024-10-07T22:15:18.845689+00:00
+
+ ## ɢᴏʟᴅᴇɴ ᴘᴇᴀᴄᴏᴄᴋ ᴏᴏᴄ ᴄᴏᴍᴍᴜɴɪᴛʏ
+ - [https://goldenooc.dreamwidth.org](https://goldenooc.dreamwidth.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Discretion Advised: 18+ Content
+ - [https://goldmods.dreamwidth.org](https://goldmods.dreamwidth.org)
+ - date_published: 2024-10-07T22:14:46.757793+00:00
+
+ ## graydon2 | Recent Entries
+ - [https://graydon2.dreamwidth.org](https://graydon2.dreamwidth.org)
+ - date_published: 2023-10-25T21:15:34.097894+00:00
+
+ ## grundyscribbling | Recent Entries
+ - [https://grundyscribbling.dreamwidth.org](https://grundyscribbling.dreamwidth.org)
+ - date_published: 2024-09-03T20:43:04.447730+00:00
+
+ ## hansdegoede | Recent Entries
+ - [https://hansdegoede.dreamwidth.org](https://hansdegoede.dreamwidth.org)
+ - date_published: 2024-05-11T09:06:05.935271+00:00
+
+ ## haptalaon | Nous allons en varouv'rie!
+ - [https://haptalaon.dreamwidth.org](https://haptalaon.dreamwidth.org)
+ - date_published: 2024-05-29T07:53:48.791401+00:00
+
+ ## hartmans | Recent Entries
+ - [https://hartmans.dreamwidth.org](https://hartmans.dreamwidth.org)
+ - date_published: 2024-07-09T08:22:41.896678+00:00
+
+ ## help_for_ephemere | Recent Entries
+ - [https://help-for-ephemere.dreamwidth.org](https://help-for-ephemere.dreamwidth.org)
+ - date_published: 2024-09-02T13:09:13.612976+00:00
+
+ ## hidden_paths | Recent Entries
+ - [https://hidden-paths.dreamwidth.org](https://hidden-paths.dreamwidth.org)
+ - date_published: 2024-09-03T20:55:56.960798+00:00
+
+ ## hotelmultiverse | Recent Entries
+ - [https://hotelmultiverse.dreamwidth.org](https://hotelmultiverse.dreamwidth.org)
+ - date_published: 2024-10-07T22:03:46.463062+00:00
+
+ ## hp_diversity | Recent Entries
+ - [http://hp-diversity.dreamwidth.org](http://hp-diversity.dreamwidth.org)
+ - date_published: 2024-09-02T13:09:28.229378+00:00
+
+ ## injectable | entries
+ - [https://injectable.dreamwidth.org](https://injectable.dreamwidth.org)
+ - date_published: 2024-08-07T20:13:11.657162+00:00
+
+ ## jmvalin | Recent Entries
+ - [https://jmvalin.dreamwidth.org](https://jmvalin.dreamwidth.org)
+ - date_published: 2024-07-07T10:10:34.047188+00:00
+
+ ## kalloway | Recent Entries
+ - [https://kalloway.dreamwidth.org](https://kalloway.dreamwidth.org)
+ - date_published: 2024-09-16T06:44:09.271313+00:00
+
+ ## kate_schaefer | Recent Entries
+ - [https://kate-schaefer.dreamwidth.org](https://kate-schaefer.dreamwidth.org)
+ - date_published: 2024-06-27T09:02:52.546259+00:00
+
+ ## Discretion Advised
+ - [https://kowe.dreamwidth.org](https://kowe.dreamwidth.org)
+ - date_published: 2024-09-02T13:09:10.239354+00:00
+
+ ## Discretion Advised
+ - [https://krja.dreamwidth.org](https://krja.dreamwidth.org)
+ - date_published: 2024-08-18T19:43:58.744189+00:00
+
+ ## ladybusiness | Recent Entries
+ - [https://ladybusiness.dreamwidth.org](https://ladybusiness.dreamwidth.org)
+ - date_published: 2024-07-04T13:20:31.423832+00:00
+
+ ## Discretion Advised: 18+ Content
+ - [https://lands-of-magic.dreamwidth.org](https://lands-of-magic.dreamwidth.org)
+ - date_published: 2024-07-10T02:36:37.356254+00:00
+
+ ## Discretion Advised
+ - [https://lassarina.dreamwidth.org](https://lassarina.dreamwidth.org)
+ - date_published: 2024-09-16T06:42:59.131113+00:00
+
+ ## liam_on_linux | Recent Entries
+ - [https://liam-on-linux.dreamwidth.org](https://liam-on-linux.dreamwidth.org)
+ - date_published: 2023-10-25T21:15:39.084907+00:00
+ - tags: ['personal', 'open source']
+
+ ## linwoodblog | Recent Entries
+ - [https://linwoodblog.dreamwidth.org](https://linwoodblog.dreamwidth.org)
+ - date_published: 2024-09-05T16:01:50.990328+00:00
+
+ ## ○
+ - [https://luckyzukky.dreamwidth.org](https://luckyzukky.dreamwidth.org)
+ - date_published: 2024-09-16T06:42:22.322162+00:00
+
+ ## mcwetboy | Recent Entries
+ - [https://mcwetboy.dreamwidth.org](https://mcwetboy.dreamwidth.org)
+ - date_published: 2024-08-12T05:02:37.648837+00:00
+
+ ## melime | Recent Entries
+ - [https://melime.dreamwidth.org](https://melime.dreamwidth.org)
+ - date_published: 2024-09-16T06:44:36.622658+00:00
+
+ ## Discretion Advised
+ - [https://minim-calibre.dreamwidth.org](https://minim-calibre.dreamwidth.org)
+ - date_published: 2024-05-12T06:45:58.526930+00:00
+
+ ## mithriltabby | Recent Entries
+ - [https://mithriltabby.dreamwidth.org](https://mithriltabby.dreamwidth.org)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## mjg59 | Recent Entries
+ - [https://mjg59.dreamwidth.org](https://mjg59.dreamwidth.org)
+ - date_published: 2023-10-25T21:15:42.543885+00:00
+
+ ## momijizukamori / Recent Entries
+ - [https://momijizukamori.dreamwidth.org](https://momijizukamori.dreamwidth.org)
+ - date_published: 2024-07-18T05:35:59.948140+00:00
+
+ ## multibeautiful | Recent Entries
+ - [https://multibeautiful.dreamwidth.org](https://multibeautiful.dreamwidth.org)
+ - date_published: 2024-09-02T13:09:24.646638+00:00
+
+ ## Discretion Advised
+ - [https://ninetydegrees.dreamwidth.org](https://ninetydegrees.dreamwidth.org)
+ - date_published: 2024-07-23T23:45:41.978715+00:00
+
+ ## norah | Recent Entries
+ - [https://norah.dreamwidth.org](https://norah.dreamwidth.org)
+ - date_published: 2024-07-16T19:15:45.764114+00:00
+
+ ## no_true_pair | Recent Entries
+ - [https://no-true-pair.dreamwidth.org](https://no-true-pair.dreamwidth.org)
+ - date_published: 2024-09-16T06:44:44.043361+00:00
+
+ ## pameladean | Recent Entries
+ - [http://pameladean.dreamwidth.org](http://pameladean.dreamwidth.org)
+ - date_published: 2024-10-16T09:09:25.283469+00:00
+
+ ## ɢᴏʟᴅᴇɴ ᴘᴇᴀᴄᴏᴄᴋ ᴍᴇᴍᴇs
+ - [https://peacockstop.dreamwidth.org](https://peacockstop.dreamwidth.org)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Discretion Advised: 18+ Content
+ - [https://pendulumscale.dreamwidth.org](https://pendulumscale.dreamwidth.org)
+ - date_published: 2024-06-23T18:30:28.182663+00:00
+
  ## pentapus | Recent Entries
  - [https://pentapus.dreamwidth.org](https://pentapus.dreamwidth.org)
  - date_published: 2024-07-16T19:15:54.100865+00:00
@@ -714,6 +939,10 @@
  ## DrugsData.org: Lab Analysis / Drug Checking for Recreational Drugs
  - [http://www.drugsdata.org](http://www.drugsdata.org)
  - date_published: 2024-08-18T19:55:57.494763+00:00
+
+ ## Introduction
+ - [http://drugusersbible.org](http://drugusersbible.org)
+ - date_published: 2024-10-30T12:19:38+00:00
 
  ## OBOD | Order of Bards, Ovates & Druids | Druidry
  - [https://druidry.org](https://druidry.org)
@@ -3802,236 +4031,4 @@ Home Page
  ## Ella Baker Center for Human Rights
  - [https://ellabakercenter.org](https://ellabakercenter.org)
  - date_published: 2024-06-10T13:14:35.514297+00:00
-
- ## Ellaism - The Pure Blockchain DApp Platform
- - [https://ellaism.org](https://ellaism.org)
- - date_published: 2024-04-23T14:47:12+00:00
-
- ## Elle Fanning Network / Your online source for all things Elle Fanning
- - [https://elle-fanning.org](https://elle-fanning.org)
- - date_published: 2024-07-02T13:44:32.065231+00:00
-
- ## Believe in a brighter future
- - [https://www.ellenmacarthurcancertrust.org](https://www.ellenmacarthurcancertrust.org)
- - date_published: 2024-06-27T16:32:09.741067+00:00
-
- ## How to Build a Circular Economy | Ellen MacArthur Foundation
- - [https://ellenmacarthurfoundation.org](https://ellenmacarthurfoundation.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## DAVID ELLERMAN — David Ellerman's draft and published papers
- - [https://www.ellerman.org](https://www.ellerman.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Ellijay Makerspace
- - [https://ellijaymakerspace.org](https://ellijaymakerspace.org)
- - date_published: 2024-06-15T07:54:33.916972+00:00
-
- ## Home
- - [http://www.elliott.org](http://www.elliott.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Ellis Impact
- - [http://www.ellisimpact.org](http://www.ellisimpact.org)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Museo de Arte Moderno de Medellín
- - [http://elmamm.org](http://elmamm.org)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## ELM by ChaN
- - [http://elm-chan.org](http://elm-chan.org)
- - date_published: 2023-10-25T21:17:29.697589+00:00
-
- ## Elm FAQ
- - [http://faq.elm-community.org](http://faq.elm-community.org)
- - date_published: 2022-08-09T18:31:05+00:00
-
- ## El Mirador project |
- - [https://elmiradorproject.org](https://elmiradorproject.org)
- - date_published: 2024-04-30T03:04:23.336344+00:00
-
- ## Elm
- - [https://discourse.elm-lang.org](https://discourse.elm-lang.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## home
- - [https://elm-lang.org](https://elm-lang.org)
- - date_published: 2023-10-25T21:17:32.410731+00:00
-
- ## Introduction · An Introduction to Elm
- - [http://guide.elm-lang.org](http://guide.elm-lang.org)
- - date_published: 2022-04-05T00:00:00+00:00
-
- ## Elm Packages
- - [http://package.elm-lang.org](http://package.elm-lang.org)
- - date_published: 2024-06-23T08:27:33.303790+00:00
-
- ## e-longoria.org - e longoria Zasoby i informacje.
- - [https://www.e-longoria.org](https://www.e-longoria.org)
- - date_published: 2024-09-04T03:09:37+00:00
-
- ## El Paso Children's Hospital
- - [https://elpasochildrens.org](https://elpasochildrens.org)
- - date_published: 2018-10-16T00:00:00+00:00
-
- ## Homepage - El Paso Matters
- - [https://elpasomatters.org](https://elpasomatters.org)
- - date_published: 2024-01-01T01:49:03.036321+00:00
-
- ## elpauer – question everything
- - [https://www.elpauer.org](https://www.elpauer.org)
- - date_published: 2024-07-09T08:06:53.333789+00:00
-
- ## Home - Detroit Catholic
- - [https://elpreg.org](https://elpreg.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## start [ELRepo Wiki]
- - [https://elrepo.org](https://elrepo.org)
- - date_published: 2024-07-24T06:14:24.644649+00:00
-
- ## Empirical Legal Studies
- - [http://www.elsblog.org](http://www.elsblog.org)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Communications From Elsewhere
- - [https://elsewhere.org](https://elsewhere.org)
- - date_published: 2024-06-15T12:12:18.528860+00:00
-
- ## Loteria Collection | Communications From Elsewhere
- - [http://loteria.elsewhere.org](http://loteria.elsewhere.org)
- - date_published: 2024-09-18T02:30:29+00:00
-
- ## Elsewhere Editions: An imprint for international children's books
- - [https://elsewhereeditions.org](https://elsewhereeditions.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Eltanin OS | Eltanin OS
- - [https://eltaninos.org](https://eltaninos.org)
- - date_published: 2024-04-01T14:34:29+00:00
-
- ## Elton John AIDS Foundation | Ending HIV Stigma
- - [https://www.eltonjohnaidsfoundation.org](https://www.eltonjohnaidsfoundation.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Eludamos: Journal for Computer Game Culture
- - [https://eludamos.org](https://eludamos.org)
- - date_published: 2022-11-28T00:00:00+00:00
-
- ## FuSoYa's Niche
- - [https://fusoya.eludevisibility.org](https://fusoya.eludevisibility.org)
- - date_published: 2024-09-02T08:41:54.979855+00:00
- - tags: ['personal']
-
- ## Minimalist Jettison
- - [http://mijet.eludevisibility.org](http://mijet.eludevisibility.org)
- - date_published: 2024-08-18T22:23:43.327591+00:00
-
- ## ELUNA – Ex Libris Users of North America
- - [https://el-una.org](https://el-una.org)
- - date_published: 2024-10-14T23:50:22+00:00
-
- ## Ely MN: Minnesota Resorts, Lodging, Outfitting, Shopping, Dining, BWCA
- - [https://www.ely.org](https://www.ely.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## EMAC 2024 Annual Conference in Bucharest
- - [https://emac2024.org](https://emac2024.org)
- - date_published: 2024-07-01T20:06:16.678996+00:00
-
- ## Welcome to EMAC - The European Marketing Academy
- - [http://www.emac-online.org](http://www.emac-online.org)
- - date_published: 2024-10-10T09:22:16+00:00
-
- ## GNU Emacs - GNU Project
- - [https://emacs.org](https://emacs.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Emacs Berlin
- - [https://emacs-berlin.org](https://emacs-berlin.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Jitsi Meet
- - [https://jitsi.emacs-berlin.org](https://jitsi.emacs-berlin.org)
- - date_published: 2024-08-11T07:51:44.864153+00:00
-
- ## Emacs China
- - [https://emacs-china.org](https://emacs-china.org)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## The Lounge
- - [https://chat.emacsconf.org](https://chat.emacsconf.org)
- - date_published: 2024-05-30T15:10:09.347468+00:00
-
- ## EmacsConf
- - [https://emacsconf.org](https://emacsconf.org)
- - date_published: 2023-10-25T21:17:34.183101+00:00
- - tags: ['conference', 'emacs']
-
- ## EmacsConf git repositories
- - [https://git.emacsconf.org](https://git.emacsconf.org)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Index of /
- - [https://media.emacsconf.org](https://media.emacsconf.org)
- - date_published: 2024-08-18T18:59:18.738767+00:00
-
- ## Lifehacks for Anyone, Anytime: Universal Solutions | EMAS CONF 2015
- - [http://emacsconf2015.org](http://emacsconf2015.org)
- - date_published: 2024-08-18T18:59:43.675435+00:00
-
- ## Hello from Emacs Docs | Emacs Docs
- - [https://emacsdocs.org](https://emacsdocs.org)
- - date_published: 2024-04-06T06:24:10+00:00
- - tags: ['programming ide', 'emacs']
-
- ## (emacs-nyc)
- - [http://emacsnyc.org](http://emacsnyc.org)
- - date_published: 2022-03-17T03:09:58+00:00
-
- ## Emacs User Survey
- - [https://emacssurvey.org](https://emacssurvey.org)
- - date_published: 2023-10-25T21:17:38.020899+00:00
-
- ## BigBlueButton
- - [https://bbb.emacsverse.org](https://bbb.emacsverse.org)
- - date_published: 2024-08-08T18:54:46.650731+00:00
-
- ## EmacsWiki: Site Map
- - [https://emacswiki.org](https://emacswiki.org)
- - date_published: 2023-10-25T21:17:41.959548+00:00
- - tags: ['emacs']
-
- ## EmailHistory - home
- - [http://emailhistory.org](http://emailhistory.org)
- - date_published: 2020-12-21T19:41:03+00:00
-
- ## E-mams.org
- - [http://www.e-mams.org](http://www.e-mams.org)
- - date_published: 2024-07-15T07:19:12.599770+00:00
-
- ## Emancip'Asso
- - [https://www.emancipasso.org](https://www.emancipasso.org)
- - date_published: 2024-07-18T05:27:52.507242+00:00
-
- ## EMAP 2023 – The Home of EMAP 2023
- - [https://emap.org](https://emap.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## | Embarcadero Media |
- - [https://www.embarcaderomedia.org](https://www.embarcaderomedia.org)
- - date_published: 2024-06-26T12:34:38.400418+00:00
-
- ## | Embarcadero Media |
- - [https://www.embarcaderomediafoundation.org](https://www.embarcaderomediafoundation.org)
- - date_published: 2024-06-26T12:34:35.765747+00:00
-
- ## WRI Ross Center for Sustainable Cities
- - [http://www.embarq.org](http://www.embarq.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Embassy.org: the Electronic Embassy
- - [http://www.embassy.org](http://www.embassy.org)
- - date_published: 2024-06-29T13:37:24.782280+00:00
 

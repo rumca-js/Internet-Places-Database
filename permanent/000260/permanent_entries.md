@@ -1,3 +1,168 @@
+ ## Lombardi Gala - Lombardi Gala
+ - [https://lombardigala.georgetown.edu](https://lombardigala.georgetown.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home Page - Lombardi Comprehensive Cancer Center
+ - [https://lombardi.georgetown.edu](https://lombardi.georgetown.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Lombardi Women - Georgetown University
+ - [https://lombardiwomen.georgetown.edu](https://lombardiwomen.georgetown.edu)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Georgetown University Campus Map
+ - [https://maps.georgetown.edu](https://maps.georgetown.edu)
+ - date_published: 2023-02-17T21:22:18+00:00
+
+ ## Home Page - Master Planning
+ - [https://masterplanning.georgetown.edu](https://masterplanning.georgetown.edu)
+ - date_published: 2024-07-13T12:27:17.968282+00:00
+
+ ## McCourt School of Public Policy - McCourt School of Public Policy
+ - [https://mccourt.georgetown.edu](https://mccourt.georgetown.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Massive Data Institute - Massive Data Institute
+ - [https://mdi.georgetown.edu](https://mdi.georgetown.edu)
+ - date_published: 2024-07-22T07:26:36.064371+00:00
+
+ ## Medical Humanities Initiative - Medical Humanities Initiative
+ - [https://medicalhumanities.georgetown.edu](https://medicalhumanities.georgetown.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home Page - Department of Medicine
+ - [https://medicine.georgetown.edu](https://medicine.georgetown.edu)
+ - date_published: 2024-06-28T12:11:10.711943+00:00
+
+ ## McDonough School of Business | Georgetown University
+ - [https://msb.georgetown.edu](https://msb.georgetown.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## GU Experience - Experience
+ - [https://myaccess.georgetown.edu](https://myaccess.georgetown.edu)
+ - date_published: 2024-10-22T05:41:46.357129+00:00
+
+ ## Georgetown University Advancement
+ - [https://my.giving.georgetown.edu](https://my.giving.georgetown.edu)
+ - date_published: 2024-07-13T12:24:05.862803+00:00
+
+ ## The School of Nursing & Health Studies is now the School of Nursing and the School of Health - Georgetown University Medical Center
+ - [https://nhs.georgetown.edu](https://nhs.georgetown.edu)
+ - date_published: 2024-07-13T12:23:41.673267+00:00
+
+ ## Home Page - Doctor of Nurse Anesthesia Practice Program
+ - [https://nurseanesthesia.georgetown.edu](https://nurseanesthesia.georgetown.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home Page - School of Nursing
+ - [https://nursing.georgetown.edu](https://nursing.georgetown.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Online Nursing Programs
+ - [https://online.nursing.georgetown.edu](https://online.nursing.georgetown.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home Page - Office of Research Oversight/Regulatory Affairs
+ - [http://ora.georgetown.edu](http://ora.georgetown.edu)
+ - date_published: 2024-07-13T12:23:59.667866+00:00
+
+ ## Joint Office of Research Administration (JORA) - Georgetown Research Services
+ - [https://osr.gumc.georgetown.edu](https://osr.gumc.georgetown.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home Page - Online Executive Master's in Clinical Quality, Safety & Leadership
+ - [https://patientsafetymasters.georgetown.edu](https://patientsafetymasters.georgetown.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home Page - Human Resources Policy Manual
+ - [https://policymanual.hr.georgetown.edu](https://policymanual.hr.georgetown.edu)
+ - date_published: 2024-10-22T05:40:14.350346+00:00
+
+ ## Georgetown University Press
+ - [https://press.georgetown.edu](https://press.georgetown.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home Page - Protection of Minors
+ - [http://protectionofminors.georgetown.edu](http://protectionofminors.georgetown.edu)
+ - date_published: 2024-09-02T13:07:06.278399+00:00
+
+ ## GU-Q - Georgetown University in Qatar
+ - [http://qatar.sfs.georgetown.edu](http://qatar.sfs.georgetown.edu)
+ - date_published: 2024-10-22T05:41:44.783331+00:00
+
+ ## Home Page - University Registrar
+ - [https://registrar.georgetown.edu](https://registrar.georgetown.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## DigitalGeorgetown Home
+ - [https://repository.library.georgetown.edu](https://repository.library.georgetown.edu)
+ - date_published: 2024-04-05T18:55:25.692886+00:00
+
+ ## Georgetown Research Services - Georgetown Research Services
+ - [https://researchservices.georgetown.edu](https://researchservices.georgetown.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Rome Office Homepage
+ - [https://romeoffice.georgetown.edu](https://romeoffice.georgetown.edu)
+ - date_published: 2024-06-21T09:01:47.044013+00:00
+
+ ## Room Reservations -
+        Dahlgren Memorial Library
+ - [https://rooms.dml.georgetown.edu](https://rooms.dml.georgetown.edu)
+ - date_published: 2024-07-13T12:27:32.431904+00:00
+
+ ## The Nation's Premiere ROTC Battalion  - The Hoya Battalion
+ - [http://rotc.georgetown.edu](http://rotc.georgetown.edu)
+ - date_published: 2024-10-22T05:40:31.825647+00:00
+
+ ## Home Page - The Ruesch Center for the Cure of Gastrointestinal Cancers
+ - [https://ruesch.georgetown.edu](https://ruesch.georgetown.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home Page - Schedule of Classes
+ - [https://schedule.georgetown.edu](https://schedule.georgetown.edu)
+ - date_published: 2024-10-22T05:42:07.032134+00:00
+
+ ## Scholarship @ GEORGETOWN LAW
+ - [https://scholarship.law.georgetown.edu](https://scholarship.law.georgetown.edu)
+ - date_published: 2024-07-08T09:03:55.158542+00:00
+
+ ## Search - Georgetown University
+ - [https://search.georgetown.edu](https://search.georgetown.edu)
+ - date_published: 2023-10-25T10:11:11+00:00
+
+ ## Search - Georgetown University
+ - [https://search.uis.georgetown.edu](https://search.uis.georgetown.edu)
+ - date_published: 2023-10-25T10:11:11+00:00
+
+ ## Homepage - SFS - School of Foreign Service - Georgetown University
+ - [https://sfs.georgetown.edu](https://sfs.georgetown.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## WordPress at Georgetown - WordPress at Georgetown
+ - [https://sites.georgetown.edu](https://sites.georgetown.edu)
+ - date_published: 2024-10-22T05:41:41.330425+00:00
+
+ ## Home Page - School of Medicine
+ - [https://som.georgetown.edu](https://som.georgetown.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Home Page - Revenue and Receivables
+ - [http://studentaccounts.georgetown.edu](http://studentaccounts.georgetown.edu)
+ - date_published: 2024-10-22T03:52:22.964455+00:00
+
+ ## Home Page - Student Health Services
+ - [http://studenthealth.georgetown.edu](http://studenthealth.georgetown.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home Page - Student Services
+ - [https://studentservices.georgetown.edu](https://studentservices.georgetown.edu)
+ - date_published: 2024-10-22T05:42:07.984858+00:00
+
+ ## Home - Tech & Society
+ - [https://techandsociety.georgetown.edu](https://techandsociety.georgetown.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
  ## Home Page - Title IX at Georgetown University
  - [https://titleix.georgetown.edu](https://titleix.georgetown.edu)
  - date_published: 2024-09-02T13:07:08.546381+00:00
@@ -3843,169 +4008,4 @@ Action
  ## G>GEL IELTS Practice Test - Hult International Business School
  - [https://ielts.hult.edu](https://ielts.hult.edu)
  - date_published: 2024-06-18T06:48:11.989748+00:00
-
- ## Hult International Business School - For Those Made to Do
- - [https://www.hult.edu](https://www.hult.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Huntington University | Top-Rated Christian University in Indiana | Huntington University
- - [http://www.huntington.edu](http://www.huntington.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Hutchinson Community College
- - [https://www.hutchcc.edu](https://www.hutchcc.edu)
- - date_published: 2024-10-30T04:50:15.884364+00:00
-
- ## Hobart and William Smith Colleges
- - [https://apply.hws.edu](https://apply.hws.edu)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Hobart and William Smith Colleges
- - [https://hws.edu](https://hws.edu)
- - date_published: 2024-05-01T03:32:47.553931+00:00
-
- ## Albert :: Home
- - [https://albert.ias.edu](https://albert.ias.edu)
- - date_published: 2024-04-30T04:56:35.530469+00:00
-
- ## Shelby White and Leon Levy Archives Center | Shelby White and Leon Levy Archives Center
- - [https://archives.ias.edu](https://archives.ias.edu)
- - date_published: 2024-07-21T22:50:29.124564+00:00
-
- ## Home | Institute for Advanced Study
- - [https://ias.edu](https://ias.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Redirecting...
- - [https://mail.ias.edu](https://mail.ias.edu)
- - date_published: 2024-07-01T18:45:15.432604+00:00
-
- ## School of Mathematics
- - [https://math.ias.edu](https://math.ias.edu)
- - date_published: 2019-09-11T19:48:03+00:00
-
- ## Faculty & Emeriti
- - [https://publications.ias.edu](https://publications.ias.edu)
- - date_published: 2019-12-26T21:39:37+00:00
-
- ## School of Natural Sciences
- - [https://sns.ias.edu](https://sns.ias.edu)
- - date_published: 2009-10-19T23:20:51+00:00
-
- ## IAS Store
- - [https://store.ias.edu](https://store.ias.edu)
- - date_published: 2024-04-30T04:56:28.052317+00:00
-
- ## AccessPlus Login
- - [http://accessplus.iastate.edu](http://accessplus.iastate.edu)
- - date_published: 2024-07-09T13:09:18.066119+00:00
-
- ## Iowa State University
- - [https://apps.admissions.iastate.edu](https://apps.admissions.iastate.edu)
- - date_published: 2024-07-01T06:37:20.702093+00:00
-
- ## Iowa State University - Signing in...
- - [http://canvas.iastate.edu](http://canvas.iastate.edu)
- - date_published: 2024-07-09T13:09:03.620249+00:00
-
- ## Iowa State University | Iowa State University Catalog
- - [http://catalog.iastate.edu](http://catalog.iastate.edu)
- - date_published: 2024-06-26T16:44:51+00:00
-
- ## IAState Web Theme
- - [https://cdn.theme.iastate.edu](https://cdn.theme.iastate.edu)
- - date_published: 2024-07-03T18:12:02.285441+00:00
-
- ## Integrated Crop Management
- - [https://crops.extension.iastate.edu](https://crops.extension.iastate.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Iowa State University - Signing in...
- - [http://cymail.iastate.edu](http://cymail.iastate.edu)
- - date_published: 2024-07-09T13:09:20.206027+00:00
-
- ## Laboratory for Software Design
- - [http://design.cs.iastate.edu](http://design.cs.iastate.edu)
- - date_published: 2024-05-31T18:23:01+00:00
-
- ## Digital Accessibility - Information Technology Services
- - [https://digitalaccess.iastate.edu](https://digitalaccess.iastate.edu)
- - date_published: 2024-08-09T03:40:12.059304+00:00
-
- ## DSpace
- - [https://dr.lib.iastate.edu](https://dr.lib.iastate.edu)
- - date_published: 2024-06-25T23:26:45+00:00
-
- ## Department of Electrical and Computer Engineering – College of Engineering, Iowa State University
- - [https://ece.iastate.edu](https://ece.iastate.edu)
- - date_published: 2024-04-23T00:00:00+00:00
- - tags: ['university']
-
- ## Home • Electronics and Technology Group • Iowa State University
- - [https://etg.ece.iastate.edu](https://etg.ece.iastate.edu)
- - date_published: 2024-08-09T03:40:19.081407+00:00
-
- ## Faculty and Staff Information
- - [https://facultystaff.info.iastate.edu](https://facultystaff.info.iastate.edu)
- - date_published: 2024-07-01T06:37:28.424363+00:00
-
- ## Free Speech
- - [https://freespeech.iastate.edu](https://freespeech.iastate.edu)
- - date_published: 2024-07-03T18:12:06.266649+00:00
-
- ## Iowa State University
- - [https://iastate.edu](https://iastate.edu)
- - date_published: 2024-07-01T06:37:24.891319+00:00
-
- ## Welcome - Directory Information - Iowa State University
- - [http://info.iastate.edu](http://info.iastate.edu)
- - date_published: 2024-07-09T13:09:00.198309+00:00
-
- ## Employment Opportunities
- - [https://jobs.iastate.edu](https://jobs.iastate.edu)
- - date_published: 2024-08-09T03:40:04.718648+00:00
-
- ## College of Liberal Arts and Sciences - Iowa State University
- - [https://las.iastate.edu](https://las.iastate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Connecting LAS alumni and friends
- - [https://link.las.iastate.edu](https://link.las.iastate.edu)
- - date_published: 2024-07-03T18:11:59.267433+00:00
-
- ## Iowa State University - Sign In
- - [https://login.iastate.edu](https://login.iastate.edu)
- - date_published: 2020-06-23T14:12:38+00:00
-
- ## Department of Mathematics
- - [https://math.iastate.edu](https://math.iastate.edu)
- - date_published: 2024-06-30T03:00:26.661502+00:00
-
- ## College of Engineering News - Iowa State University
- - [https://news.engineering.iastate.edu](https://news.engineering.iastate.edu)
- - date_published: 2024-08-09T03:40:20.805593+00:00
-
- ## Iowa State University - Signing in...
- - [http://outlook.iastate.edu](http://outlook.iastate.edu)
- - date_published: 2024-07-09T13:09:10.852804+00:00
-
- ## Parent and Family Programs
- - [https://parents.dso.iastate.edu](https://parents.dso.iastate.edu)
- - date_published: 2024-07-03T18:12:14.393241+00:00
-
- ## Policy Library
- - [https://policy.iastate.edu](https://policy.iastate.edu)
- - date_published: 2024-05-09T05:10:05.209039+00:00
-
- ## University Records Retention Schedule | Records Retention
- - [http://records.policy.iastate.edu](http://records.policy.iastate.edu)
- - date_published: 2024-07-09T13:08:57.842973+00:00
-
- ## Student Information
- - [https://students.info.iastate.edu](https://students.info.iastate.edu)
- - date_published: 2024-07-01T06:37:42.977619+00:00
-
- ## Sign in - Matomo
- - [https://trends.ent.iastate.edu](https://trends.ent.iastate.edu)
- - date_published: 2024-07-01T06:37:37.617462+00:00
 

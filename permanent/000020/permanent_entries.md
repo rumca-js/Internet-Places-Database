@@ -1,3 +1,19 @@
+ ## Collections U of T
+ - [https://fishercollections.library.utoronto.ca](https://fishercollections.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:55.311399+00:00
+
+ ## Browse Exhibits · Digitus - Online Exhibitions from the Thomas Fisher Rare Book Library
+ - [https://fisherdigitus.library.utoronto.ca](https://fisherdigitus.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:59.192274+00:00
+
+ ## Thomas Fisher Rare Book Library
+ - [https://fisher.library.utoronto.ca](https://fisher.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:46.773041+00:00
+
+ ## Home - Future Students. University of Toronto
+ - [https://future.utoronto.ca](https://future.utoronto.ca)
+ - date_published: 2024-07-01T21:36:15.652102+00:00
+
  ## Home | University of Toronto Libraries
  - [https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca](https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca)
  - date_published: 2024-07-20T07:03:17+00:00
@@ -3994,20 +4010,4 @@
  ## RAC1 - Últimes noticies, ràdio en directe i podcasts a la carta
  - [https://www.rac1.cat](https://www.rac1.cat)
  - date_published: 2024-07-17T00:00:00+00:00
-
- ## Regió7 | Diari líder a la Catalunya central: últimes notícies i actualitat, entrevistes, anàlisi i opinió
- - [https://www.regio7.cat](https://www.regio7.cat)
- - date_published: 2024-10-14T21:00:08+00:00
-
- ## River MacLeod
- - [https://river.cat](https://river.cat)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## ROBOCAT 2024
- - [https://robocat.cat](https://robocat.cat)
- - date_published: 2024-07-12T08:40:29.123161+00:00
-
- ## S4A Blog
- - [http://blog.s4a.cat](http://blog.s4a.cat)
- - date_published: 2016-02-23T00:00:00+00:00
 

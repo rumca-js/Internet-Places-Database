@@ -1,3 +1,20 @@
+ ## Micro.blog
+ - [https://micro.blog](https://micro.blog)
+ - date_published: 2023-11-29T15:49:12.955798+00:00
+
+ ## Micro Monday
+		- Micro Monday
+ - [https://monday.micro.blog](https://monday.micro.blog)
+ - date_published: 2023-08-14T16:09:38+00:00
+
+ ## NRH
+ - [http://nathanrhale.micro.blog](http://nathanrhale.micro.blog)
+ - date_published: 2024-06-15T04:23:57+00:00
+
+ ## ner3y
+ - [https://ner3y.micro.blog](https://ner3y.micro.blog)
+ - date_published: 2024-08-05T00:00:00+00:00
+
  ## Micro.blog News
  - [https://news.micro.blog](https://news.micro.blog)
  - date_published: 2024-08-16T22:26:50+00:00
@@ -4024,20 +4041,4 @@ Educação
  ## Home
  - [https://intrinseca.com.br](https://intrinseca.com.br)
  - date_published: 2024-05-10T06:57:10.843398+00:00
-
- ## Invest Curitiba | Venha para Curitiba
- - [http://investcuritiba.com.br](http://investcuritiba.com.br)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Formação Singular de Patrimônio
- - [http://investimentoemconsorcio.com.br](http://investimentoemconsorcio.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Notícias sobre Economia, Investimentos e Educação Financeira | InvestNews
- - [https://investnews.com.br](https://investnews.com.br)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Homepage
- - [https://irisbh.com.br](https://irisbh.com.br)
- - date_published: 2024-08-18T19:05:21.468762+00:00
 

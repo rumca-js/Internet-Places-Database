@@ -1,3 +1,19 @@
+ ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
+ - [https://www.bod.ch](https://www.bod.ch)
+ - date_published: 2024-07-08T13:06:06.430136+00:00
+
+ ## BOHEM Verlag - Schöne Bilderbücher
+ - [http://www.bohem.ch](http://www.bohem.ch)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
+ - [https://bolo.ch](https://bolo.ch)
+ - date_published: 2024-05-12T07:15:04.597151+00:00
+
+ ## Bonto.ch - Junior B.
+ - [https://www.bonto.ch](https://www.bonto.ch)
+ - date_published: 2023-01-22T11:41:37+00:00
+
  ## I Borghi più Belli della Svizzera
  - [https://www.borghisvizzera.ch](https://www.borghisvizzera.ch)
  - date_published: 2024-09-14T09:28:38.931369+00:00
@@ -3993,20 +4009,4 @@
  ## Swiss IT Magazine - News und Know-how für die ICT-Branche
  - [https://www.itmagazine.ch](https://www.itmagazine.ch)
  - date_published: 2024-09-18T14:53:45.687781+00:00
-
- ## Startseite
- - [https://www.iway.ch](https://www.iway.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Outdoor Bekleidung, Schuhe und Ausrüstung – JACK WOLFSKIN
- - [https://www.jack-wolfskin.ch](https://www.jack-wolfskin.ch)
- - date_published: 2024-07-14T12:16:08.848714+00:00
-
- ## Keyoxide
- - [https://alias.jaenis.ch](https://alias.jaenis.ch)
- - date_published: 2024-07-21T05:51:31.973519+00:00
-
- ## Sign in - Matomo
- - [https://analytics.jaenis.ch](https://analytics.jaenis.ch)
- - date_published: 2024-04-30T06:05:09.388034+00:00
 

@@ -1,3 +1,172 @@
+ ## Daniel E. Ho
+ - [https://dho.stanford.edu](https://dho.stanford.edu)
+ - date_published: 2024-07-01T19:38:42.340232+00:00
+
+ ## Diamond Democracy
+ - [https://diamond-democracy.stanford.edu](https://diamond-democracy.stanford.edu)
+ - date_published: 2024-08-22T18:28:45+00:00
+
+ ## Home
+ - [https://digitaleconomy.stanford.edu](https://digitaleconomy.stanford.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Digital Education
+ - [https://digitaleducation.stanford.edu](https://digitaleducation.stanford.edu)
+ - date_published: 2024-07-01T18:46:31+00:00
+
+ ## Diversity and Access Office
+ - [https://diversityandaccess.stanford.edu](https://diversityandaccess.stanford.edu)
+ - date_published: 2024-05-29T20:46:25+00:00
+
+ ## Institute for Diversity in the Arts
+ - [https://diversityarts.stanford.edu](https://diversityarts.stanford.edu)
+ - date_published: 2024-07-01T20:25:41.659922+00:00
+
+ ## DiversityWorks
+ - [https://diversityworks.stanford.edu](https://diversityworks.stanford.edu)
+ - date_published: 2024-07-01T19:24:11+00:00
+ - tags: ['dei']
+
+ ## d.school Public Library
+ - [https://dlibrary.stanford.edu](https://dlibrary.stanford.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## DocXpress Document Delivery - Login
+ - [https://docxpress.stanford.edu](https://docxpress.stanford.edu)
+ - date_published: 2023-08-28T18:20:58+00:00
+
+ ## Homepage | DoResearch
+ - [http://doresearch.stanford.edu](http://doresearch.stanford.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Welcome to nginx!
+ - [http://downloads.cs.stanford.edu](http://downloads.cs.stanford.edu)
+ - date_published: 2018-10-11T19:05:38+00:00
+
+ ## d.school Craft Supplies | Login
+ - [https://dschoolcraft.stanford.edu](https://dschoolcraft.stanford.edu)
+ - date_published: 2024-06-15T19:17:42.873789+00:00
+
+ ## Stanford d.school
+ - [https://dschool.stanford.edu](https://dschool.stanford.edu)
+ - date_published: 2024-05-01T04:14:47.181085+00:00
+
+ ## Dune
+ - [http://dune.scs.stanford.edu](http://dune.scs.stanford.edu)
+ - date_published: 2017-04-14T18:08:42+00:00
+
+ ## EarthWorks
+ - [https://earthworks.stanford.edu](https://earthworks.stanford.edu)
+ - date_published: 2024-07-01T19:36:04.871285+00:00
+
+ ## pswebprd12 Apache server
+ - [https://ecmform.stanford.edu](https://ecmform.stanford.edu)
+ - date_published: 2024-07-01T20:34:42.342816+00:00
+
+ ## Stanford eCorner
+ - [https://ecorner.stanford.edu](https://ecorner.stanford.edu)
+ - date_published: 2024-07-01T19:35:51.607284+00:00
+
+ ## Stanford Graduate School of Education
+ - [https://ed.stanford.edu](https://ed.stanford.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EE108A Redirect
+ - [https://ee108a.stanford.edu](https://ee108a.stanford.edu)
+ - date_published: 2024-05-07T20:26:02.994318+00:00
+
+ ## https://ee380.stanford.edu
+ - [https://ee380.stanford.edu](https://ee380.stanford.edu)
+ - date_published: 2024-01-09T03:27:56.799112+00:00
+
+ ## Electrical Engineering Home
+ - [http://ee.stanford.edu](http://ee.stanford.edu)
+ - date_published: 2024-06-15T13:30:15+00:00
+
+ ## EMED
+ - [https://emed.stanford.edu](https://emed.stanford.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## SLAC Emergency Information | Emergency Information
+ - [https://emergency.slac.stanford.edu](https://emergency.slac.stanford.edu)
+ - date_published: 2024-07-05T17:16:19+00:00
+
+ ## Emergency Information | Stanford University
+ - [https://emergency.stanford.edu](https://emergency.stanford.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Emma Dataset
+ - [https://emma.stanford.edu](https://emma.stanford.edu)
+ - date_published: 2023-05-19T06:09:35+00:00
+
+ ## ENERGY
+ - [http://energy.stanford.edu](http://energy.stanford.edu)
+ - date_published: 2024-07-01T15:15:01+00:00
+
+ ## Stanford University School of Engineering
+ - [https://engineering.stanford.edu](https://engineering.stanford.edu)
+ - date_published: 2024-05-07T20:25:33.144127+00:00
+
+ ## Stanford Enterprise Education for Transformation
+ - [https://enterpriseeducation.stanford.edu](https://enterpriseeducation.stanford.edu)
+ - date_published: 2024-07-12T17:09:37.949487+00:00
+
+ ## Entitled Opinions
+ - [https://entitledopinions.stanford.edu](https://entitledopinions.stanford.edu)
+ - date_published: 2024-07-07T05:41:54+00:00
+
+ ## Education & STEM Outreach
+ - [https://eso.stanford.edu](https://eso.stanford.edu)
+ - date_published: 2024-05-21T14:59:00+00:00
+
+ ## Stanford Empirical Security Research Group
+ - [https://esrg.stanford.edu](https://esrg.stanford.edu)
+ - date_published: 2024-06-19T15:26:08+00:00
+
+ ## Events Help
+ - [https://events-help.stanford.edu](https://events-help.stanford.edu)
+ - date_published: 2024-07-01T20:24:54.024806+00:00
+
+ ## Events Calendar
+ - [https://events.stanford.edu](https://events.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Spotlight at Stanford
+ - [https://exhibits.stanford.edu](https://exhibits.stanford.edu)
+ - date_published: 2024-06-15T07:22:20.610754+00:00
+
+ ## Stanford University Explore Courses
+ - [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
+ - date_published: 2024-05-06T23:12:41.668136+00:00
+
+ ## Stanford University Bulletin
+ - [https://exploredegrees.stanford.edu](https://exploredegrees.stanford.edu)
+ - date_published: 2024-05-07T20:25:19.667900+00:00
+
+ ## Explore Energy
+ - [https://explore-energy.stanford.edu](https://explore-energy.stanford.edu)
+ - date_published: 2024-07-01T02:25:12+00:00
+
+ ## Office of External Relations
+ - [https://externalrelations.sites.stanford.edu](https://externalrelations.sites.stanford.edu)
+ - date_published: 2024-05-15T23:56:40+00:00
+
+ ## Office of External Relations
+ - [https://externalrelations.stanford.edu](https://externalrelations.stanford.edu)
+ - date_published: 2024-05-15T23:56:40+00:00
+
+ ## FACET - II | Facility for Advanced Accelerator Experimental Tests
+ - [https://facet-ii.slac.stanford.edu](https://facet-ii.slac.stanford.edu)
+ - date_published: 2024-07-06T22:34:08+00:00
+
+ ## Facts
+ - [https://facts.stanford.edu](https://facts.stanford.edu)
+ - date_published: 2024-05-07T20:31:11.947829+00:00
+
+ ## Faculty Affairs
+ - [https://facultyaffairs-humsci.stanford.edu](https://facultyaffairs-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:15.011247+00:00
+
  ## Faculty Affairs Office of the Provost
  - [https://facultyaffairs.stanford.edu](https://facultyaffairs.stanford.edu)
  - date_published: 2024-06-26T00:00:13+00:00
@@ -3842,173 +4011,4 @@
  ## Visit
  - [https://visit.ua.edu](https://visit.ua.edu)
  - date_published: 2024-06-29T23:50:09.907759+00:00
-
- ## worklife.ua.edu – Supporting faculty & staff with resources to be productive, successful, and satisfied. | The University of Alabama
- - [https://worklife.ua.edu](https://worklife.ua.edu)
- - date_published: 2024-07-01T21:52:05.168560+00:00
-
- ## College of Human Environmental Sciences - College of Human Environmental Sciences | The University of Alabama
- - [http://www.ches.ua.edu](http://www.ches.ua.edu)
- - date_published: 2024-07-01T21:50:27.604181+00:00
-
- ## The University of Alabama Libraries – Research and Information Services for the University of Alabama
- - [http://www.lib.ua.edu](http://www.lib.ua.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://www.math.ua.edu](http://www.math.ua.edu)
- - date_published: 2024-07-13T11:10:10.873667+00:00
-
- ## Service Portal - UAB Service Portal
- - [https://askit.uab.edu](https://askit.uab.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## UAB Events Calendar | The University of Alabama at Birmingham
- - [https://calendar.uab.edu](https://calendar.uab.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## University of Alabama at Birmingham < Catalog | The University of Alabama at Birmingham
- - [https://catalog.uab.edu](https://catalog.uab.edu)
- - date_published: 2024-05-11T07:33:05.955583+00:00
-
- ## UAB Digital Commons
- - [https://digitalcommons.library.uab.edu](https://digitalcommons.library.uab.edu)
- - date_published: 2024-07-04T13:15:35.507143+00:00
-
- ## GoLink and UTM Generator - Toolkit
- - [https://go.uab.edu](https://go.uab.edu)
- - date_published: 2024-05-11T07:33:02.111033+00:00
-
- ## Research Guides: Research Guides: Home
- - [http://guides.library.uab.edu](http://guides.library.uab.edu)
- - date_published: 2024-07-13T13:07:01.871047+00:00
-
- ## UAB Libraries Events -
-        UAB Libraries
- - [https://libcal.library.uab.edu](https://libcal.library.uab.edu)
- - date_published: 2024-07-13T13:06:59.042641+00:00
-
- ## Home - Libraries
- - [https://library.uab.edu](https://library.uab.edu)
- - date_published: 2024-05-11T07:32:26.037982+00:00
-
- ## UAB Central Authentication System - CAS – Central Authentication Service
- - [https://mail.uab.edu](https://mail.uab.edu)
- - date_published: 2024-05-11T07:32:51.308294+00:00
-
- ## UAB Portal
- - [https://my.uab.edu](https://my.uab.edu)
- - date_published: 2024-05-11T07:32:39.560867+00:00
-
- ## Welcome!
- - [https://padlock.idm.uab.edu](https://padlock.idm.uab.edu)
- - date_published: 2019-05-10T18:40:57+00:00
-
- ## Professional Studies Non-Credit Courses at University of Alabama at Birmingham UAB
- - [https://prostudies.uab.edu](https://prostudies.uab.edu)
- - date_published: 2024-07-13T13:08:13.121347+00:00
-
- ## The University of Alabama at Birmingham | UAB
- - [https://uab.edu](https://uab.edu)
- - date_published: 2024-03-17T17:11:05.424790+00:00
-
- ## Welcome < University of Alaska Fairbanks
- - [https://catalog.uaf.edu](https://catalog.uaf.edu)
- - date_published: 2024-05-07T20:41:56.595731+00:00
-
- ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
- - [https://ctl.uaf.edu](https://ctl.uaf.edu)
- - date_published: 2024-07-01T22:04:30.777890+00:00
-
- ## UAF eCampus | Distance Education, Online Degree Programs
- - [https://ecampus.uaf.edu](https://ecampus.uaf.edu)
- - date_published: 2024-05-07T20:41:59.600170+00:00
-
- ## INE University of Alaska Fairbanks
- - [http://ine.uaf.edu](http://ine.uaf.edu)
- - date_published: 2024-07-20T20:57:06.332261+00:00
-
- ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
- - [https://iteachu.uaf.edu](https://iteachu.uaf.edu)
- - date_published: 2024-07-01T22:04:28.514270+00:00
-
- ## How Do I ..... - How Do I .....
- - [https://libanswers.library.uaf.edu](https://libanswers.library.uaf.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Guides: Elmer E. Rasmuson Library: Home
- - [https://library.uaf.edu](https://library.uaf.edu)
- - date_published: 2024-05-07T20:42:02.630962+00:00
-
- ## Home | UAF news and information
- - [http://news.uaf.edu](http://news.uaf.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UAF North – Alaska's Community Learning Catalog
- - [https://north.open.uaf.edu](https://north.open.uaf.edu)
- - date_published: 2024-07-01T22:04:21.412952+00:00
-
- ## Historical Sea Ice Atlas
- - [https://seaiceatlas.snap.uaf.edu](https://seaiceatlas.snap.uaf.edu)
- - date_published: 2024-05-06T23:32:58.174081+00:00
-
- ## UAF Home | University of Alaska Fairbanks
- - [https://uaf.edu](https://uaf.edu)
- - date_published: 2024-05-07T20:41:16.792968+00:00
-
- ## umami
- - [https://umami.snap.uaf.edu](https://umami.snap.uaf.edu)
- - date_published: 2024-06-28T18:42:09.854767+00:00
-
- ## Home | IARC
- - [http://www.iarc.uaf.edu](http://www.iarc.uaf.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Accredited Online College | UAGC | University of Arizona Global Campus
- - [https://www.uagc.edu](https://www.uagc.edu)
- - date_published: 2024-06-19T01:24:25+00:00
-
- ## IdeaExchange@UAkron
- - [https://ideaexchange.uakron.edu](https://ideaexchange.uakron.edu)
- - date_published: 2024-05-06T18:31:01.062758+00:00
-
- ## Wayne College Campus
- - [https://wayne.uakron.edu](https://wayne.uakron.edu)
- - date_published: 2024-07-02T03:47:03.114350+00:00
-
- ## The University of Akron : YOU BELONG HERE!
- - [http://www.uakron.edu](http://www.uakron.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Sign in to your account
- - [https://blackboard.ualr.edu](https://blackboard.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Welcome to the University of Arkansas at Little Rock
- - [https://boss.ualr.edu](https://boss.ualr.edu)
- - date_published: 2024-07-09T20:30:37.402270+00:00
-
- ## UA Little Rock Directory
- - [https://directory.ualr.edu](https://directory.ualr.edu)
- - date_published: 2024-07-09T20:30:52.041202+00:00
-
- ## Sign in to your account
- - [https://mail.ualr.edu](https://mail.ualr.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Undergraduate Admissions - Admissions - UA Little Rock
- - [https://slate.ualr.edu](https://slate.ualr.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## University of Arkansas at Little Rock
- - [https://ualr.edu](https://ualr.edu)
- - date_published: 2024-05-09T06:34:25.789119+00:00
-
- ## Academic Affairs
- - [https://academicaffairs.uams.edu](https://academicaffairs.uams.edu)
- - date_published: 2024-06-20T23:29:55.225980+00:00
-
- ## UAMS Office of Continuing Education
- - [https://ce.uams.edu](https://ce.uams.edu)
- - date_published: 2024-06-20T23:29:14.455614+00:00
 

@@ -1,3 +1,116 @@
+ ## Shorefront Investments – We buy houses fast and pay you cash.
+ - [https://shorefront-investments.com](https://shorefront-investments.com)
+ - date_published: 2024-06-29T23:03:23.336540+00:00
+
+ ## Shoreline of Infinity – Science fiction magazine published in Scotland for the World
+ - [https://www.shorelineofinfinity.com](https://www.shorelineofinfinity.com)
+ - date_published: 2024-07-04T05:37:50.799762+00:00
+
+ ## ShorelineWeather.com: Current Weather Conditions and resources for Shoreline, Washington
+ - [http://www.shorelineweather.com](http://www.shorelineweather.com)
+ - date_published: 2024-08-11T03:12:56.911654+00:00
+
+ ## Shore News Network - The Latest Breaking, Viral and Trending News
+ - [https://www.shorenewsnetwork.com](https://www.shorenewsnetwork.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Shorer.com – Ed Shorer – Family, Hobbies, Music, Travel…
+ - [https://shorer.com](https://shorer.com)
+ - date_published: 2023-11-29T14:25:19.463201+00:00
+ - tags: ['personal']
+
+ ## Lake Erie Vacations & Getaways | Shores & Islands Ohio
+ - [https://www.shoresandislands.com](https://www.shoresandislands.com)
+ - date_published: 2024-07-04T08:03:05.144503+00:00
+
+ ## Mitel Connect Contact Center
+ - [https://chat4.sky.shoretel.com](https://chat4.sky.shoretel.com)
+ - date_published: 2022-01-27T19:12:10+00:00
+
+ ## Shorpy.com
+ - [https://shorpy.com](https://shorpy.com)
+ - date_published: 2024-05-07T15:03:47.631648+00:00
+
+ ## Show HN: Shortbread App – AI-powered, romantic comics for women
+ - [https://shortbreadapp.com](https://shortbreadapp.com)
+ - date_published: 2024-06-04T15:22:31+00:00
+
+ ## Shortcut
+ - [https://app.shortcut.com](https://app.shortcut.com)
+ - date_published: 2024-08-07T13:30:17+00:00
+
+ ## Shortcut Rest API, V3
+ - [https://developer.shortcut.com](https://developer.shortcut.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Shortcut Help Center
+ - [https://help.shortcut.com](https://help.shortcut.com)
+ - date_published: 2024-08-08T17:08:49.229657+00:00
+
+ ## Shortcut | Focus on Outcomes, not Output
+ - [https://shortcut.com](https://shortcut.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Shortcut Status
+ - [https://status.shortcut.com](https://status.shortcut.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Shortcutly — Discover and share your iOS Shortcuts
+ - [https://www.shortcutly.com](https://www.shortcutly.com)
+ - date_published: 2024-05-04T07:55:39.674500+00:00
+
+ ## shortdigger
+ - [https://shortdigger.com](https://shortdigger.com)
+ - date_published: 2024-05-01T04:29:20.275741+00:00
+
+ ## Kurzfilm Festival Hamburg
+ - [https://festival.shortfilm.com](https://festival.shortfilm.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Short Films Matter - Short Film Reviews
+ - [https://shortfilmsmatter.com](https://shortfilmsmatter.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Shortform
+ - [https://www.shortform.com](https://www.shortform.com)
+ - date_published: 2024-05-01T03:16:10.069839+00:00
+
+ ## Shorthand
+ - [https://app.shorthand.com](https://app.shorthand.com)
+ - date_published: 2024-07-01T02:53:28+00:00
+
+ ## What's New - Master the Craft
+ - [https://community.shorthand.com](https://community.shorthand.com)
+ - date_published: 2024-07-02T02:25:51.590676+00:00
+
+ ## Start creating stunning visual web content for free | Shorthand
+ - [https://shorthand.com](https://shorthand.com)
+ - date_published: 2024-05-07T21:12:59.750109+00:00
+
+ ## Shorthand Status
+ - [https://status.shorthand.com](https://status.shorthand.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Shorthand
+ - [https://support.shorthand.com](https://support.shorthand.com)
+ - date_published: 2024-07-02T02:25:45.691689+00:00
+
+ ## Shortify: Summarize Anything. Works Everywhere.
+ - [https://shortifyapp.com](https://shortifyapp.com)
+ - date_published: 2024-07-08T18:14:28.504895+00:00
+
+ ## AI Recruiting: Screening Candidates Effectively | ShortlistIQ
+ - [https://www.shortlistiq.com](https://www.shortlistiq.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Before you continue to YouTube
+ - [https://shortlogs.com](https://shortlogs.com)
+ - date_published: 2024-04-29T07:48:48.466265+00:00
+
+ ## ShortlyAI | Your AI Writing Partner. Get rid of writer's block.
+ - [https://www.shortlyai.com](https://www.shortlyai.com)
+ - date_published: 2024-01-24T17:59:11+00:00
+
  ## Watch the Best Short Films | Short of the Week
  - [https://www.shortoftheweek.com](https://www.shortoftheweek.com)
  - date_published: 2024-07-21T04:22:17.708914+00:00
@@ -3932,118 +4045,4 @@
  ## FrontPage - Simutrans日本語化･解説
  - [http://japanese.simutrans.com](http://japanese.simutrans.com)
  - date_published: 2024-08-17T00:00:00+00:00
-
- ## Simutrans Transport Simulator
- - [https://simutrans.com](https://simutrans.com)
- - date_published: 2024-06-08T18:03:05+00:00
- - tags: ['video game', 'open source']
-
- ## Simutrans Translator Home
- - [https://translator.simutrans.com](https://translator.simutrans.com)
- - date_published: 2024-04-29T04:18:26.282931+00:00
-
- ## Simutrans Tikiwiki Home | Simutrans Tikiwiki
- - [https://wiki.simutrans.com](https://wiki.simutrans.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Simutrans File Sharing
- - [http://files.simutrans-germany.com](http://files.simutrans-germany.com)
- - date_published: 2024-08-05T21:01:50.940697+00:00
-
- ## Simutrans Patches
- - [http://patches.simutrans-germany.com](http://patches.simutrans-germany.com)
- - date_published: 2024-08-05T21:01:51.733377+00:00
-
- ## Homepage simutrans-germany.com
- - [https://simutrans-germany.com](https://simutrans-germany.com)
- - date_published: 2024-04-29T04:18:20.031883+00:00
-
- ## Simventions – Your Success is Our Honor
- - [https://www.simventions.com](https://www.simventions.com)
- - date_published: 2024-07-09T14:48:11.548291+00:00
-
- ## 新闻中心首页_新浪网
- - [http://dailynews.sina.com](http://dailynews.sina.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Sina English - China Real-time Report
- - [http://english.sina.com](http://english.sina.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## WWW.SINA.COM
- - [https://sina.com](https://sina.com)
- - date_published: 2024-10-21T21:10:56.285860+00:00
-
- ## Sin & Syntax
- - [http://sinandsyntax.com](http://sinandsyntax.com)
- - date_published: 2022-05-28T00:00:00+00:00
-
- ## Sinan Moses
- - [https://sinanmoses.com](https://sinanmoses.com)
- - date_published: 2023-11-29T15:49:58.272955+00:00
- - tags: ['personal']
-
- ## Sina Taherkhani
- - [https://sinataherkhani.com](https://sinataherkhani.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Sinatra
- - [http://www.sinatrarb.com](http://www.sinatrarb.com)
- - date_published: 2024-08-02T02:00:33+00:00
-
- ## Sincere Cider
- - [https://www.sincerecider.com](https://www.sincerecider.com)
- - date_published: 2024-07-01T09:49:55.732678+00:00
-
- ## Sincerelycollins
- - [https://www.sincerelycollins.com](https://www.sincerelycollins.com)
- - date_published: 2024-08-20T04:10:47.123066+00:00
-
- ## Sinch Community
- - [https://community.sinch.com](https://community.sinch.com)
- - date_published: 2024-06-21T21:20:26.600184+00:00
-
- ## Sinch Customer Dashboard - public App
- - [https://dashboard.sinch.com](https://dashboard.sinch.com)
- - date_published: 2024-06-13T14:36:01+00:00
-
- ## Sinch Developer Documentation | Sinch
- - [https://developers.sinch.com](https://developers.sinch.com)
- - date_published: 2024-06-20T22:22:58+00:00
-
- ## Sinch Engage • Leverage messaging apps for marketing, sales, and customer service
- - [https://engage.sinch.com](https://engage.sinch.com)
- - date_published: 2024-06-21T16:35:40+00:00
-
- ## Investor Relations | Sinch AB (publ)
- - [https://investors.sinch.com](https://investors.sinch.com)
- - date_published: 2024-06-21T20:57:35+00:00
-
- ## SMS Messaging, Voice, Video & Verification APIs | Sinch
- - [https://www.sinch.com](https://www.sinch.com)
- - date_published: 2024-05-04T14:04:23.426073+00:00
-
- ## Sinclair Cares – A company-wide initiative.
- - [https://sinclaircares.com](https://sinclaircares.com)
- - date_published: 2024-07-21T03:02:39.973396+00:00
-
- ## Blog Posts - Sinclairinat0r
- - [https://sinclairinat0r.com](https://sinclairinat0r.com)
- - date_published: 2024-09-02T16:05:27+00:00
-
- ## Global Fresh Produce Labeling Solutions | Sinclair
- - [https://www.sinclair-intl.com](https://www.sinclair-intl.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Sinclair Storyline
- - [https://sinclairstoryline.com](https://sinclairstoryline.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Sinclair Trails
- - [https://sinclairtrails.com](https://sinclairtrails.com)
- - date_published: 2024-09-06T01:00:03.913490+00:00
-
- ## Sinclair ZX80 / ZX81 / Z88 Forums - Index page
- - [https://www.sinclairzxworld.com](https://www.sinclairzxworld.com)
- - date_published: 2024-08-07T00:00:00+00:00
 

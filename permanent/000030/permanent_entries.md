@@ -1,3 +1,19 @@
+ ## 上街区人民政府
+ - [https://www.zzsj.gov.cn](https://www.zzsj.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中央国家机关住房资金管理中心欢迎您！
+ - [http://www.zzz.gov.cn](http://www.zzz.gov.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 中共江苏省委党校
+ - [http://www.sdx.js.cn](http://www.sdx.js.cn)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## 中国人民解放军专业技术人才网
+ - [http://www.81rc.mil.cn](http://www.81rc.mil.cn)
+ - date_published: 2024-01-28T00:00:00+00:00
+
  ## 中国社会科学院
  - [http://www.cass.net.cn](http://www.cass.net.cn)
  - date_published: 2024-06-30T21:12:12.250876+00:00
@@ -4002,20 +4018,4 @@
  ## Curdis
  - [https://curdis.co](https://curdis.co)
  - date_published: 2024-09-16T23:47:22.940591+00:00
-
- ## Vacancies - Costa Group
- - [https://costagroup.currentjobs.co](https://costagroup.currentjobs.co)
- - date_published: 2024-10-31T09:42:04.214520+00:00
-
- ## Home of Esports Education | Gaming Cxmmunity Co | Atlanta
- - [https://www.cxmmunity.co](https://www.cxmmunity.co)
- - date_published: 2024-06-28T17:50:30.621374+00:00
-
- ## Cyber.co | Ethereum Layer 2 Solutions  for Web3 Social
- - [https://cyber.co](https://cyber.co)
- - date_published: 2024-09-23T22:34:39.011649+00:00
-
- ## Cyber L2
- - [https://docs.cyber.co](https://docs.cyber.co)
- - date_published: 2024-09-25T10:56:15.757339+00:00
 

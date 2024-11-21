@@ -1,3 +1,176 @@
+ ## Me olemme maailman johtava testaus-, tarkastus- ja sertifiointialan yritys.
+ - [https://www.sgs.fi](https://www.sgs.fi)
+ - date_published: 2024-09-10T12:52:26.380916+00:00
+
+ ## Shareville, Pohjoismaiden isoin sosiaalinen sijoitusfoorumi
+ - [https://www.shareville.fi](https://www.shareville.fi)
+ - date_published: 2024-06-16T13:23:25.345834+00:00
+
+ ## idp4.shh.fi
+ - [https://idp.shh.fi](https://idp.shh.fi)
+ - date_published: 2023-09-13T05:44:30+00:00
+
+ ## Sijoitustieto.fi | Sijoittajien verkkoyhteisö
+ - [https://www.sijoitustieto.fi](https://www.sijoitustieto.fi)
+ - date_published: 2024-10-22T21:57:32.585568+00:00
+
+ ## Home page of Harry Sintonen
+ - [https://sintonen.fi](https://sintonen.fi)
+ - date_published: 2022-11-19T07:18:35+00:00
+
+ ## Etusivu - Sitra
+ - [https://www.sitra.fi](https://www.sitra.fi)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Vuokra-asunnot Oulu - Tuhansia vuokra-asuntoja Oulussa
+ - [https://sivakka.fi](https://sivakka.fi)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Autonvuokraus – Sixt Autovuokraamo, vuokra-autot edullisesti
+ - [https://sixt.fi](https://sixt.fi)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Rakentamassa parempaa yhteiskuntaa | www.skanska.fi
+ - [https://www.skanska.fi](https://www.skanska.fi)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## S-kaupat - tuttu ruokakauppasi verkossa
+ - [https://www.s-kaupat.fi](https://www.s-kaupat.fi)
+ - date_published: 2024-06-25T16:37:12.838016+00:00
+
+ ## Etusivu - Skrolli - Tasavallan tietokonelehti
+ - [https://skrolli.fi](https://skrolli.fi)
+ - date_published: 2024-06-20T14:55:42+00:00
+
+ ## Skydda | Turvaa työpäiväsi
+ - [https://site.skydda.fi](https://site.skydda.fi)
+ - date_published: 2024-06-24T03:11:18+00:00
+
+ ## Gitea
+ - [https://git.skyjake.fi](https://git.skyjake.fi)
+ - date_published: 2024-07-08T18:20:02.943983+00:00
+
+ ## skyjake's Capsule
+ - [https://gmi.skyjake.fi](https://gmi.skyjake.fi)
+ - date_published: 2024-05-08T12:18:17.126060+00:00
+ - tags: ['personal']
+
+ ## Empty Page
+ - [https://media.skyjake.fi](https://media.skyjake.fi)
+ - date_published: 2020-04-17T07:01:23+00:00
+
+ ## skyjake.fi
+ - [https://skyjake.fi](https://skyjake.fi)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Halvat lennot ja lentoliput kaikkialle | Skyscanner
+ - [https://www.skyscanner.fi](https://www.skyscanner.fi)
+ - date_published: 2024-07-10T03:24:08.094599+00:00
+
+ ## Sokos Hotellit - sokoshotels.fi
+ - [http://www.sokoshotels.fi](http://www.sokoshotels.fi)
+ - date_published: 2024-06-25T16:33:52.297551+00:00
+
+ ## Solend | Lend and borrow on Solana
+ - [https://solend.fi](https://solend.fi)
+ - date_published: 2024-09-25T11:22:54.368155+00:00
+
+ ## YZ360
+ - [https://yazamut360.solved.fi](https://yazamut360.solved.fi)
+ - date_published: 2024-07-14T03:36:11.385985+00:00
+
+ ## Sony Suomi | Uusimmat tekniikkauutiset | Elektroniikka | Viihde
+ - [http://www.sony.fi](http://www.sony.fi)
+ - date_published: 2024-10-21T07:38:03.765465+00:00
+
+ ## Project Carrot
+ - [https://carrot.soulweaver.fi](https://carrot.soulweaver.fi)
+ - date_published: 2017-02-11T21:38:45+00:00
+
+ ## Spark - Maker-Powered Lending Market
+ - [https://app.spark.fi](https://app.spark.fi)
+ - date_published: 2024-09-21T20:32:18+00:00
+
+ ## Spark Developer Documentation | Spark Dev Docs
+ - [https://devs.spark.fi](https://devs.spark.fi)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Home | Spark Docs
+ - [https://docs.spark.fi](https://docs.spark.fi)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Spark - Empowering the DAI ecosystem
+ - [https://spark.fi](https://spark.fi)
+ - date_published: 2023-11-09T13:07:05+00:00
+
+ ## SPARTOO| Kengät, laukut ja vaatteet | Ilmainen Toimitus
+ - [https://spartoo.fi](https://spartoo.fi)
+ - date_published: 2024-06-12T11:11:38.603117+00:00
+
+ ## SpookySwap
+ - [https://spooky.fi](https://spooky.fi)
+ - date_published: 2024-06-16T16:37:46.272747+00:00
+
+ ## Spotify - Web Player: Music for everyone
+ - [https://spoti.fi](https://spoti.fi)
+ - date_published: 2024-01-22T07:43:20.742120+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.fi](https://my.spreadshirt.fi)
+ - date_published: 2024-10-21T09:05:03.319334+00:00
+
+ ## Myy t-paitoja & luo itse t-paidat I Spreadshirt
+ - [https://spreadshirt.fi](https://spreadshirt.fi)
+ - date_published: 2024-10-21T09:05:02.802666+00:00
+
+ ## Spark | Trade & Swap on Fuel
+ - [https://sprk.fi](https://sprk.fi)
+ - date_published: 2024-09-23T09:01:41+00:00
+
+ ## Tilastokeskus
+ - [https://stat.fi](https://stat.fi)
+ - date_published: 2024-09-14T22:23:24.270053+00:00
+
+ ## Statkraft in Finland
+ - [https://www.statkraft.fi](https://www.statkraft.fi)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Steve Kemp's Blog
+ - [https://blog.steve.fi](https://blog.steve.fi)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Tee omat tarrat ja etiketit!
+ - [https://stickerapp.fi](https://stickerapp.fi)
+ - date_published: 2024-04-30T02:46:28.211369+00:00
+
+ ## STON.fi
+ - [https://app.ston.fi](https://app.ston.fi)
+ - date_published: 2024-07-31T11:43:19+00:00
+
+ ## STON.fi – DEX for TON blockchain
+ - [http://ston.fi](http://ston.fi)
+ - date_published: 2024-09-06T11:54:26+00:00
+
+ ## Happy studying and living
+ - [https://www.studyinfinland.fi](https://www.studyinfinland.fi)
+ - date_published: 2024-09-14T22:22:35+00:00
+
+ ## Etusivu | Säteilyturvakeskus STUK
+ - [http://www.stuk.fi](http://www.stuk.fi)
+ - date_published: 2024-06-30T23:07:15.720187+00:00
+
+ ## Suilend
+ - [https://suilend.fi](https://suilend.fi)
+ - date_published: 2024-06-23T16:52:22.178838+00:00
+
+ ## The best place to Borrow and Earn in DeFi
+ - [http://summer.fi](http://summer.fi)
+ - date_published: 2024-10-11T21:59:12.421078+00:00
+
+ ## Suomalaiset Podcastit – Podcastit suomeksi
+ - [https://suomalaiset-podcastit.fi](https://suomalaiset-podcastit.fi)
+ - date_published: 2024-09-07T23:38:39.318885+00:00
+
  ## Etusivu
  - [https://suomenkuvalehti.fi](https://suomenkuvalehti.fi)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -3839,176 +4012,4 @@
  ## home - Zcash Foundation
  - [http://z.cash.foundation](http://z.cash.foundation)
  - date_published: 2024-07-03T03:25:28.269679+00:00
-
- ## CD Foundation
- - [https://cd.foundation](https://cd.foundation)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Changcoin foundation
- - [https://changcoin.foundation](https://changcoin.foundation)
- - date_published: 2024-09-23T20:01:43.146177+00:00
-
- ## Explore projects · GitLab
- - [https://gitlab.coko.foundation](https://gitlab.coko.foundation)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Cordite — Cordite Documentation 1 documentation
- - [https://docs.cordite.foundation](https://docs.cordite.foundation)
- - date_published: 2021-01-29T01:17:21+00:00
-
- ## DChain | blockchain for games
- - [https://www.dchain.foundation](https://www.dchain.foundation)
- - date_published: 2024-09-24T03:22:04.318851+00:00
-
- ## DIN - Digital Identity Nordics
- - [https://www.din.foundation](https://www.din.foundation)
- - date_published: 2024-07-22T11:19:06.311489+00:00
-
- ## DISARM Foundation
- - [https://www.disarm.foundation](https://www.disarm.foundation)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Governance, Community and Decentralization | dYdX Foundation
- - [https://dydx.foundation](https://dydx.foundation)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## /e/OS community
- - [https://community.e.foundation](https://community.e.foundation)
- - date_published: 2024-05-28T18:05:15.936873+00:00
-
- ## Welcome to /e/OS documentation
- - [https://doc.e.foundation](https://doc.e.foundation)
- - date_published: 2024-05-28T18:06:06.264343+00:00
-
- ## e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data
- - [https://e.foundation](https://e.foundation)
- - date_published: 2023-10-25T08:31:59.915876+00:00
-
- ## e · GitLab
- - [https://gitlab.e.foundation](https://gitlab.e.foundation)
- - date_published: 2024-05-28T18:05:42.771022+00:00
-
- ## eBPF – Linux Foundation Project
- - [https://ebpf.foundation](https://ebpf.foundation)
- - date_published: 2024-05-08T09:17:41.207003+00:00
-
- ## Home | Ethereum Foundation ESP
- - [https://esp.ethereum.foundation](https://esp.ethereum.foundation)
- - date_published: 2024-05-12T04:07:41.706735+00:00
-
- ## Exclamation Foundation
- - [https://exclamation.foundation](https://exclamation.foundation)
- - date_published: 2024-08-15T01:26:43+00:00
-
- ## Fantom Insights
- - [https://blog.fantom.foundation](https://blog.fantom.foundation)
- - date_published: 2024-06-26T08:29:20.366580+00:00
-
- ## Developer Documentation | Fantom
- - [https://docs.fantom.foundation](https://docs.fantom.foundation)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home
- - [https://fantom.foundation](https://fantom.foundation)
- - date_published: 2024-06-04T04:58:37+00:00
-
- ## Fedihosting Foundation Home Page
- - [https://fedihosting.foundation](https://fedihosting.foundation)
- - date_published: 2024-05-02T13:41:13.761779+00:00
-
- ## Fediverse Foundation Environment
- - [https://status.fediverse.foundation](https://status.fediverse.foundation)
- - date_published: 2024-08-18T16:39:11.136735+00:00
-
- ## Home
- - [https://fetchai.foundation](https://fetchai.foundation)
- - date_published: 2024-08-29T16:18:18+00:00
-
- ## Gear Academy
- - [https://academy.gear.foundation](https://academy.gear.foundation)
- - date_published: 2024-09-21T23:35:45.956072+00:00
-
- ## Gear Foundation | Crypto. Smarter.
- - [https://gear.foundation](https://gear.foundation)
- - date_published: 2024-06-16T03:35:12.709461+00:00
-
- ## Gear Whitepaper
- - [https://whitepaper.gear.foundation](https://whitepaper.gear.foundation)
- - date_published: 2024-07-12T13:36:52+00:00
-
- ## The most advanced responsive front-end framework in the world. | Foundation
- - [https://get.foundation](https://get.foundation)
- - date_published: 2024-06-20T22:15:04.383664+00:00
-
- ## Godot Foundation
- - [https://godot.foundation](https://godot.foundation)
- - date_published: 2024-07-11T14:36:43+00:00
-
- ## Golem Foundation – enriching the Golem ecosystem
- - [https://golem.foundation](https://golem.foundation)
- - date_published: 2024-09-11T13:54:43+00:00
-
- ## Green Software Champions
- - [https://champions.greensoftware.foundation](https://champions.greensoftware.foundation)
- - date_published: 2024-06-06T10:31:49+00:00
-
- ## Green Software Foundation
- - [https://greensoftware.foundation](https://greensoftware.foundation)
- - date_published: 2024-04-29T23:33:56.408358+00:00
-
- ## Welcome | Learn Green Software
- - [https://learn.greensoftware.foundation](https://learn.greensoftware.foundation)
- - date_published: 2024-07-22T11:16:03+00:00
-
- ## Software Carbon Intensity (SCI) Specification
- - [https://sci.greensoftware.foundation](https://sci.greensoftware.foundation)
- - date_published: 2024-05-09T15:41:45+00:00
-
- ## Haskell Foundation
- - [https://haskell.foundation](https://haskell.foundation)
- - date_published: 2023-10-25T19:14:11.510664+00:00
-
- ## Helium Foundation
- - [https://www.helium.foundation](https://www.helium.foundation)
- - date_published: 2024-06-16T04:32:22.791352+00:00
-
- ## Yayasan Humanis Inovasi Sosial
- - [https://hsi.foundation](https://hsi.foundation)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## ICPC Foundation |
- - [https://icpc.foundation](https://icpc.foundation)
- - date_published: 2024-07-03T10:32:45.225409+00:00
-
- ## Decentralized Identity Foundation - Blog
- - [https://blog.identity.foundation](https://blog.identity.foundation)
- - date_published: 2024-05-01T03:56:09.894225+00:00
-
- ## DIF - Decentralized Identity Foundation
- - [https://identity.foundation](https://identity.foundation)
- - date_published: 2024-04-30T02:26:56.638789+00:00
-
- ## main lists.identity.foundation Group
- - [https://lists.identity.foundation](https://lists.identity.foundation)
- - date_published: 2024-07-22T11:23:03.448241+00:00
-
- ## Universal Resolver
- - [https://resolver.identity.foundation](https://resolver.identity.foundation)
- - date_published: 2024-02-19T20:14:23+00:00
-
- ## IOTA Ecosystem DLT Foundation
- - [https://iotadlt.foundation](https://iotadlt.foundation)
- - date_published: 2024-07-27T17:25:46.502307+00:00
-
- ## Jeffrey Cheah Foundation | Nurturing the Seeds of Wisdom
- - [https://jeffreycheah.foundation](https://jeffreycheah.foundation)
- - date_published: 2024-09-23T13:49:23.983952+00:00
-
- ## A safe and modern home for JavaScript technologies | OpenJS Foundation
- - [https://js.foundation](https://js.foundation)
- - date_published: 2024-06-23T03:53:38.969683+00:00
-
- ## Khalili Foundation
- - [https://khalili.foundation](https://khalili.foundation)
- - date_published: 2024-06-05T00:00:00+00:00
 

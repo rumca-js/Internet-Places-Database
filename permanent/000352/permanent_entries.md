@@ -1,3 +1,220 @@
+ ## Hjelp og informasjon – Hjelp og informasjon
+ - [https://info.nrk.no](https://info.nrk.no)
+ - date_published: 2024-08-03T02:23:06.992326+00:00
+
+ ## NRK.no – nyheter, tv og radio fra Norge og hele verden
+ - [https://nrk.no](https://nrk.no)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## NRK Radio
+ - [https://radio.nrk.no](https://radio.nrk.no)
+ - date_published: 2024-04-29T05:14:28.009705+00:00
+
+ ## Forsiden - NRK TV
+ - [https://tv.nrk.no](https://tv.nrk.no)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## NRKbeta
+ - [https://nrkbeta.no](https://nrkbeta.no)
+ - date_published: 2023-10-27T12:06:09.586789+00:00
+
+ ## NRK Super
+ - [https://nrksuper.no](https://nrksuper.no)
+ - date_published: 2024-08-03T02:21:28.086165+00:00
+
+ ## nrmn
+ - [https://blog.nrmn.no](https://blog.nrmn.no)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## NTB Kommunikasjon
+ - [https://kommunikasjon.ntb.no](https://kommunikasjon.ntb.no)
+ - date_published: 2024-07-15T04:15:44.653507+00:00
+
+ ## NTNU Innsida
+ - [https://innsida.ntnu.no](https://innsida.ntnu.no)
+ - date_published: 2024-10-18T15:53:05.286125+00:00
+
+ ## NTNU: Norges teknisk-naturvitenskapelige universitet - NTNU
+ - [http://ntnu.no](http://ntnu.no)
+ - date_published: 2024-08-19T13:55:55.923769+00:00
+
+ ## Nettverksgruppa - NVG
+ - [https://nvg.ntnu.no](https://nvg.ntnu.no)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## NTNU Nyheter
+ - [https://nyheter.ntnu.no](https://nyheter.ntnu.no)
+ - date_published: 2024-10-18T15:53:02.911925+00:00
+
+ ## Institutt for matematiske fag - NTNU
+ - [http://www.math.ntnu.no](http://www.math.ntnu.no)
+ - date_published: 2024-06-30T08:50:26.532163+00:00
+
+ ## The NUUG Foundation
+ - [https://www.nuugfoundation.no](https://www.nuugfoundation.no)
+ - date_published: 2018-04-12T12:32:05+00:00
+
+ ## IIS Windows Server
+ - [https://gis3.nve.no](https://gis3.nve.no)
+ - date_published: 2018-04-03T08:34:53+00:00
+
+ ## NVE - Norges vassdrags- og energidirektorat
+ - [https://www.nve.no](https://www.nve.no)
+ - date_published: 2024-10-13T22:08:05.611837+00:00
+
+ ## bsdly.net - Reliable Networking With Free Software
+ - [https://nxdomain.no](https://nxdomain.no)
+ - date_published: 2023-10-27T12:06:10.297276+00:00
+
+ ## Buresboahtin Oahpa-siidduide!
+ - [https://oahpa.no](https://oahpa.no)
+ - date_published: 2024-07-11T11:30:48+00:00
+
+ ## Velkommen til O'Briens Retro & Vintage - O'Briens Retro & Vintage
+ - [https://obriens.no](https://obriens.no)
+ - date_published: 2023-12-11T17:45:26.757944+00:00
+
+ ## Homepage
+ - [https://oca.no](https://oca.no)
+ - date_published: 2024-07-10T10:35:22.017830+00:00
+
+ ## Ødegaard
+ - [https://odegaardmote.no](https://odegaardmote.no)
+ - date_published: 2024-10-21T16:01:19.022049+00:00
+
+ ## Oderland - Premium hosting för din webbplats
+ - [https://www.oderland.no](https://www.oderland.no)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home | OMV.no
+ - [https://www.omv.no](https://www.omv.no)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## OnSite
+ - [http://onsite.no](http://onsite.no)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Opel Norge | Fremtiden tilhører alle
+ - [https://www.opel.no](https://www.opel.no)
+ - date_published: 2024-07-11T10:45:43+00:00
+
+ ## Hjem
+ - [https://opendoors.no](https://opendoors.no)
+ - date_published: 2024-05-08T11:13:48.006826+00:00
+
+ ## Oppdalfjellmaraton |
+ - [https://oppdalfjellmaraton.no](https://oppdalfjellmaraton.no)
+ - date_published: 2024-08-08T17:19:10.275434+00:00
+
+ ## Oppdalsykkelfestival | Sykkelfestival på Oppdal - stisykling, el-stisykling og gravel
+ - [https://oppdalsykkelfestival.no](https://oppdalsykkelfestival.no)
+ - date_published: 2024-08-08T17:19:14.765875+00:00
+
+ ## Oslo | euronext.com
+ - [https://www.oslobors.no](https://www.oslobors.no)
+ - date_published: 2024-08-18T08:11:02+00:00
+
+ ## Oslo Jazzfestival
+ - [http://www.oslojazz.no](http://www.oslojazz.no)
+ - date_published: 2024-08-10T08:27:07+00:00
+
+ ## Infront | Market data & trading software for peak performance
+ - [https://oslomarketsolutions.no](https://oslomarketsolutions.no)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## OsloMet – storbyuniversitetet
+ - [https://www.oslomet.no](https://www.oslomet.no)
+ - date_published: 2024-07-14T14:38:22.828232+00:00
+
+ ## Kim Øyhus's Home Page
+ - [http://oyhus.no](http://oyhus.no)
+ - date_published: 2023-06-05T13:30:39+00:00
+
+ ## Velkommen til P3.no
+ - [http://p3.no](http://p3.no)
+ - date_published: 2010-06-17T00:00:00+00:00
+
+ ## På Høyden UiB
+ - [https://pahoyden.no](https://pahoyden.no)
+ - date_published: 2024-08-18T12:54:07.538290+00:00
+
+ ## Bleier, babyprodukter og foreldreinformasjon | Pampers NO
+ - [https://www.pampers.no](https://www.pampers.no)
+ - date_published: 2024-10-28T22:48:04+00:00
+
+ ## www.paranaiv.no is parked
+ - [http://www.paranaiv.no](http://www.paranaiv.no)
+ - date_published: 2024-06-24T05:16:24.553634+00:00
+
+ ## Schibsted Partnerstudio
+ - [https://partnerstudio.no](https://partnerstudio.no)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Patricia Aas - Programmer
+ - [https://patricia.no](https://patricia.no)
+ - date_published: 2023-10-27T12:06:11.527326+00:00
+
+ ## Spar penger med Penger.no - Laget av VG
+ - [https://www.penger.no](https://www.penger.no)
+ - date_published: 2024-09-02T11:11:55.060271+00:00
+
+ ## Pent
+ - [https://pent.no](https://pent.no)
+ - date_published: 2024-09-02T11:11:33.314945+00:00
+
+ ## PERI Norge - Forskaling, Stillas, Kryssfiner/OSB og Forbruk
+ - [https://www.peri.no](https://www.peri.no)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Nordic Perl Workshop 2009
+ - [http://perlworkshop.no](http://perlworkshop.no)
+ - date_published: 2024-06-28T18:28:00+00:00
+
+ ## startsiden - Personvernbloggen
+ - [https://www.personvernbloggen.no](https://www.personvernbloggen.no)
+ - date_published: 2024-08-18T21:21:31.898563+00:00
+
+ ## Philips - Norge
+ - [https://www.philips.no](https://www.philips.no)
+ - date_published: 2024-10-30T12:18:24+00:00
+
+ ## Piksel XX – AI
+ - [https://22.piksel.no](https://22.piksel.no)
+ - date_published: 2024-08-18T10:12:30.681107+00:00
+
+ ## Innovasjon- og teknologipartiet
+ - [https://www.piratpartiet.no](https://www.piratpartiet.no)
+ - date_published: 2024-09-02T13:07:21.199090+00:00
+
+ ## Playground Music Norway
+ - [https://www.playgroundmusic.no](https://www.playgroundmusic.no)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## pocketbook
+ - [https://pocketbook.no](https://pocketbook.no)
+ - date_published: 2024-07-20T16:12:04.554274+00:00
+
+ ## Poet Software
+ - [https://www.poetsoftware.no](https://www.poetsoftware.no)
+ - date_published: 2023-05-05T10:00:04+00:00
+ - tags: ['personal']
+
+ ## Et arktisk opplevelsessenter for hele familien | Polaria - Møt arktis
+ - [http://www.polaria.no](http://www.polaria.no)
+ - date_published: 2020-12-05T00:00:00+00:00
+
+ ## Posten: Post- og frakttjenester i Norge og utlandet
+ - [https://adressesok.posten.no](https://adressesok.posten.no)
+ - date_published: 2024-06-20T12:17:21.673858+00:00
+
+ ## Postenid
+ - [https://id.posten.no](https://id.posten.no)
+ - date_published: 2024-06-20T12:17:20.585188+00:00
+
+ ## Hjemlevering - Posten
+ - [https://sending.posten.no](https://sending.posten.no)
+ - date_published: 2024-06-20T11:34:29+00:00
+
  ## Spor sendingene dine | Posten
  - [https://sporing.posten.no](https://sporing.posten.no)
  - date_published: 2024-06-20T12:17:17.698617+00:00
@@ -3820,220 +4037,4 @@ marginalia.nu
  ## Patagonia Outdoor Clothing & Gear | New Zealand
  - [https://patagonia.co.nz](https://patagonia.co.nz)
  - date_published: 2024-05-06T22:33:20.850561+00:00
-
- ## Patchwork Architecture.
- - [http://patchworkarchitecture.co.nz](http://patchworkarchitecture.co.nz)
- - date_published: 2024-07-13T15:43:25.341391+00:00
-
- ## Welcome to nginx!
- - [https://clickcustompay.paymark.co.nz](https://clickcustompay.paymark.co.nz)
- - date_published: 2024-05-28T13:22:30+00:00
-
- ## Penguin Books New Zealand
- - [https://www.penguin.co.nz](https://www.penguin.co.nz)
- - date_published: 2024-06-28T14:51:50.307099+00:00
-
- ## Philips - New Zealand | Philips
- - [https://www.philips.co.nz](https://www.philips.co.nz)
- - date_published: 2024-10-31T12:31:46+00:00
-
- ## Pixeleyes
- - [https://www.pixeleyes.co.nz](https://www.pixeleyes.co.nz)
- - date_published: 2024-06-23T06:25:20.548368+00:00
-
- ## The best gaming PC's in NZ | Playtech
- - [https://playtech.co.nz](https://playtech.co.nz)
- - date_published: 2024-07-13T13:33:49.825330+00:00
-
- ## Property Investment & Fund Management | PMG Funds - PMG
- - [https://pmgfunds.co.nz](https://pmgfunds.co.nz)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## PriceSpy Media Ltd.
- - [https://pricespy.co.nz](https://pricespy.co.nz)
- - date_published: 2024-10-17T06:58:22.190145+00:00
-
- ## Psychoactive Studios
- - [https://psychoactive.co.nz](https://psychoactive.co.nz)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## New Zealand Public Holidays - PublicHolidays.co.nz
- - [https://publicholidays.co.nz](https://publicholidays.co.nz)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Public Library — Consumer culture, Communication & Brand strategy
- - [http://publiclibrary.co.nz](http://publiclibrary.co.nz)
- - date_published: 2024-07-13T15:19:52.243542+00:00
-
- ## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date_published: 2023-10-25T20:50:15.343196+00:00
-
- ## Pundit
- - [http://www.pundit.co.nz](http://www.pundit.co.nz)
- - date_published: 2024-10-29T19:37:13.511239+00:00
-
- ## RAAIE Skincare - Active New Zealand Botanical Skincare
- - [https://raaie.co.nz](https://raaie.co.nz)
- - date_published: 2024-06-15T10:12:50.857462+00:00
-
- ## #echo var="server_name"
- - [https://podcast.radionz.co.nz](https://podcast.radionz.co.nz)
- - date_published: 2017-08-24T21:38:26+00:00
-
- ## RNZ - NZ News, Current Affairs, Audio On Demand
- - [http://www.radionz.co.nz](http://www.radionz.co.nz)
- - date_published: 2024-09-03T22:14:07.168284+00:00
-
- ## Ram Trucks New Zealand - RAM 4x4 Pickup Trucks & V8 Utes | RAM Trucks New Zealand
- - [https://www.ramtrucks.co.nz](https://www.ramtrucks.co.nz)
- - date_published: 2024-06-19T08:58:54.384621+00:00
-
- ## Penguin Books New Zealand
- - [http://www.randomhouse.co.nz](http://www.randomhouse.co.nz)
- - date_published: 2024-06-28T15:27:14.132347+00:00
-
- ## Why It's a Better Choice for your Deck or Home - Real Cedar
- - [https://realcedar.co.nz](https://realcedar.co.nz)
- - date_published: 2024-06-16T21:38:43.040050+00:00
-
- ## Recycle Boutique
- - [https://customer.recycleboutique.co.nz](https://customer.recycleboutique.co.nz)
- - date_published: 2024-09-12T18:45:48+00:00
-
- ## Recycle Boutique | Second Hand Designer Boutique
- - [https://recycleboutique.co.nz](https://recycleboutique.co.nz)
- - date_published: 2024-06-15T10:13:00.046115+00:00
-
- ## Relab - 360 degree unbiased property data
- - [https://relab.co.nz](https://relab.co.nz)
- - date_published: 2024-07-03T23:09:23.552855+00:00
-
- ## Re: | Rethinking New Zealand's News
- - [https://www.renews.co.nz](https://www.renews.co.nz)
- - date_published: 2024-10-28T08:37:20.288103+00:00
-
- ## Te Rangaihi Reo Māori
- - [https://www.reomaori.co.nz](https://www.reomaori.co.nz)
- - date_published: 2024-07-15T03:20:36.224378+00:00
-
- ## Home | Repair Café Aotearoa NZ
- - [https://www.repaircafeaotearoa.co.nz](https://www.repaircafeaotearoa.co.nz)
- - date_published: 2024-09-09T21:32:53.042276+00:00
-
- ## Reseller News - The voice of the New Zealand IT channel
- - [https://reseller.co.nz](https://reseller.co.nz)
- - date_published: 2023-10-25T20:50:24.511375+00:00
-
- ## Home - Reseller News NZ
- - [https://resources.reseller.co.nz](https://resources.reseller.co.nz)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Resene paint, wallpapers, curtains... get inspired
- - [https://www.resene.co.nz](https://www.resene.co.nz)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Resident
- - [https://resident.co.nz](https://resident.co.nz)
- - date_published: 2024-09-06T20:59:37.379540+00:00
-
- ## Fun GUI
- - [https://fungui.resn.co.nz](https://fungui.resn.co.nz)
- - date_published: 2022-04-04T09:06:02+00:00
-
- ## Wildflower
- - [http://wildflower.resn.co.nz](http://wildflower.resn.co.nz)
- - date_published: 2015-02-13T06:48:26+00:00
-
- ## Home - Restaurant Hub NZ
- - [https://www.restauranthub.co.nz](https://www.restauranthub.co.nz)
- - date_published: 2024-08-18T21:20:12.815407+00:00
-
- ## Rhythmethod
- - [https://rhythmethod.co.nz](https://rhythmethod.co.nz)
- - date_published: 2024-06-15T09:59:34.838778+00:00
-
- ## RNZ - NZ News, Current Affairs, Audio On Demand
- - [https://rnz.co.nz](https://rnz.co.nz)
- - date_published: 2023-10-25T20:50:30.480752+00:00
-
- ## Storytime by RNZ
- - [https://storytime.rnz.co.nz](https://storytime.rnz.co.nz)
- - date_published: 2024-08-13T22:44:40+00:00
-
- ## Home - Romance Writers of New Zealand
- - [http://www.romancewriters.co.nz](http://www.romancewriters.co.nz)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Event Results | Director4 Results
- - [https://results.runningevents.co.nz](https://results.runningevents.co.nz)
- - date_published: 2024-06-27T15:11:12.512639+00:00
-
- ## Login
- - [https://ccc.saberonline.co.nz](https://ccc.saberonline.co.nz)
- - date_published: 2024-07-04T06:18:07.126416+00:00
-
- ## Sage Midwife Coaching
- - [https://sagemidwifecoaching.co.nz](https://sagemidwifecoaching.co.nz)
- - date_published: 2024-07-02T20:50:15.776993+00:00
-
- ## Sam Jarman | Software Developer • Speaker • Writer
- - [https://www.samjarman.co.nz](https://www.samjarman.co.nz)
- - date_published: 2024-09-15T11:38:47.775439+00:00
-
- ## SchoolBookings - Home
- - [https://www.schoolinterviews.co.nz](https://www.schoolinterviews.co.nz)
- - date_published: 2024-08-19T09:03:20.842200+00:00
-
- ## Jason Schwarzenberger
- - [https://jason.schwarzenberger.co.nz](https://jason.schwarzenberger.co.nz)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Sciblogs | Farewell to Sciblogs
- - [http://sciblogs.co.nz](http://sciblogs.co.nz)
- - date_published: 2024-09-06T21:13:34.029979+00:00
-
- ## Home
- - [https://www.sciencemediacentre.co.nz](https://www.sciencemediacentre.co.nz)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://scientology.co.nz](https://scientology.co.nz)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Scoop InfoPages
- - [https://info.scoop.co.nz](https://info.scoop.co.nz)
- - date_published: 2024-06-29T08:28:22.668628+00:00
-
- ## Scoop Media - New Zealand news
- - [http://www.scoop.co.nz](http://www.scoop.co.nz)
- - date_published: 2024-10-29T19:37:27.456389+00:00
-
- ## Global Negotiation Skills Training & Consultancy | Scotwork New Zealand
- - [https://www.scotwork.co.nz](https://www.scotwork.co.nz)
- - date_published: 2024-06-18T09:42:07.237116+00:00
-
- ## Secretlab Gaming Chairs & Gaming Desk | Secretlab NZ
- - [https://secretlab.co.nz](https://secretlab.co.nz)
- - date_published: 2024-09-03T20:59:06.644246+00:00
-
- ## Jobs on SEEK - New Zealand's no. 1 Employment, Career and Recruitment site
- - [https://www.seek.co.nz](https://www.seek.co.nz)
- - date_published: 2024-07-12T18:29:35.882297+00:00
-
- ## We are the world's leading testing, inspection and certification company.
- - [https://www.sgs.co.nz](https://www.sgs.co.nz)
- - date_published: 2024-09-10T12:51:55.477323+00:00
-
- ## Home - Shared Kitchen
- - [https://sharedkitchen.co.nz](https://sharedkitchen.co.nz)
- - date_published: 2024-10-29T03:02:45+00:00
-
- ## Women's Refuge
- - [https://shielded.co.nz](https://shielded.co.nz)
- - date_published: 2024-06-12T00:11:05+00:00
-
- ## Shoebox Christmas Aotearoa
- - [https://www.shoeboxchristmas.co.nz](https://www.shoeboxchristmas.co.nz)
- - date_published: 2024-08-18T03:13:59.824860+00:00
 

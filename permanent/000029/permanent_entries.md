@@ -1,3 +1,19 @@
+ ## 重庆市合川区人民政府
+ - [http://www.hc.gov.cn](http://www.hc.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 河北省纪委监委网站
+ - [http://www.hebcdi.gov.cn](http://www.hebcdi.gov.cn)
+ - date_published: 2024-06-30T13:55:00.135023+00:00
+
+ ## 河北省生态环境厅
+ - [http://hbepb.hebei.gov.cn](http://hbepb.hebei.gov.cn)
+ - date_published: 2024-06-28T08:53:54+00:00
+
+ ## 河北省人民政府外事办公室
+ - [http://hebwb.hebei.gov.cn](http://hebwb.hebei.gov.cn)
+ - date_published: 2024-06-30T16:08:39+00:00
+
  ## 河北省粮食和物资储备局
  - [http://lswz.hebei.gov.cn](http://lswz.hebei.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3981,20 +3997,4 @@
  ## 郑州高新技术产业开发区管理委员会
  - [https://www.zzgx.gov.cn](https://www.zzgx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 上街区人民政府
- - [https://www.zzsj.gov.cn](https://www.zzsj.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中央国家机关住房资金管理中心欢迎您！
- - [http://www.zzz.gov.cn](http://www.zzz.gov.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 中共江苏省委党校
- - [http://www.sdx.js.cn](http://www.sdx.js.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 中国人民解放军专业技术人才网
- - [http://www.81rc.mil.cn](http://www.81rc.mil.cn)
- - date_published: 2024-01-28T00:00:00+00:00
 

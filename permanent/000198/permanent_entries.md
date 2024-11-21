@@ -1,3 +1,120 @@
+ ## The Why Axis | Christopher Ingraham | Substack
+ - [https://thewhyaxis.substack.com](https://thewhyaxis.substack.com)
+ - date_published: 2024-01-09T01:45:36.113692+00:00
+
+ ## The Wide 9 | Substack
+ - [https://thewide9.substack.com](https://thewide9.substack.com)
+ - date_published: 2024-07-03T22:56:02.501190+00:00
+
+ ## The Wild Business Mate | Oliver Dauert | Substack
+ - [https://thewildbusinessmate.substack.com](https://thewildbusinessmate.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## The Willful Writer | Will J Murphy | Substack
+ - [https://thewillfulwriter.substack.com](https://thewillfulwriter.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## The Wonder Project | Dan Vekhter | Substack
+ - [https://thewonderproject.substack.com](https://thewonderproject.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Writing Life by Matt Taibbi | Substack
+ - [https://thewritinglife.substack.com](https://thewritinglife.substack.com)
+ - date_published: 2024-05-07T12:52:01.047742+00:00
+
+ ## ⚡️ The Zag | Chris Blahoot | Substack
+ - [https://thezag.substack.com](https://thezag.substack.com)
+ - date_published: 2024-07-16T17:42:20.811573+00:00
+
+ ## Don't Worry About the Vase | Substack
+ - [https://thezvi.substack.com](https://thezvi.substack.com)
+ - date_published: 2023-11-22T18:18:35.241169+00:00
+
+ ## Tech Thoughts | Thiago Caserta | Substack
+ - [https://thiagocaserta.substack.com](https://thiagocaserta.substack.com)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Thing of Things | Ozy Brennan | Substack
+ - [https://thingofthings.substack.com](https://thingofthings.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## The Big Picture | Substack
+ - [https://thinkbigpicture.substack.com](https://thinkbigpicture.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Thinker and Doer | Leon G. Marincowitz | Substack
+ - [https://thinkeranddoer.substack.com](https://thinkeranddoer.substack.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## This is indexing. | Michelle Guiliano | Substack
+ - [https://thisisindexing.substack.com](https://thisisindexing.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Craig’s Cabinet of Meagre Offerings | Craig Burgess | Substack
+ - [https://thisisnotvalue.substack.com](https://thisisnotvalue.substack.com)
+ - date_published: 2024-07-16T16:46:04.454524+00:00
+
+ ## This Is The Point | Paulo A. José | Substack
+ - [https://thisisthepoint.substack.com](https://thisisthepoint.substack.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## This is the Top | Douglas A. Boneparth | Substack
+ - [https://thisisthetop.substack.com](https://thisisthetop.substack.com)
+ - date_published: 2024-05-06T15:16:59.382060+00:00
+
+ ## Unpacked | Viggy Balagopalakrishnan | Substack
+ - [https://thisisunpacked.substack.com](https://thisisunpacked.substack.com)
+ - date_published: 2023-12-17T00:30:40.265669+00:00
+
+ ## This Week in Africa | Jeffrey Paller | Substack
+ - [https://thisweekinafrica.substack.com](https://thisweekinafrica.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Think Clearly Newsletter | Mathias Jakobsen | Substack
+ - [https://thnkclrly.substack.com](https://thnkclrly.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date_published: 2023-11-08T09:45:32.418742+00:00
+
+ ## Thomas Kidd’s Substack | Thomas S. Kidd | Substack
+ - [https://thomaskidd.substack.com](https://thomaskidd.substack.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## The Path Not Taken | Thomas Prosser | Substack
+ - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
+ - date_published: 2023-10-25T10:06:26.448291+00:00
+ - tags: ['substack']
+
+ ## Technological Optimism with Thomas Walker-Werth | Substack
+ - [https://thomaswalkerwerth.substack.com](https://thomaswalkerwerth.substack.com)
+ - date_published: 2024-10-31T22:51:18.664270+00:00
+
+ ## Democracy Americana | Thomas Zimmer | Substack
+ - [https://thomaszimmer.substack.com](https://thomaszimmer.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Ideas Big & Simple | Thom Scott-Phillips | Substack
+ - [https://thomscottphillips.substack.com](https://thomscottphillips.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Thot's Thoughts | Nikhil Thota | Substack
+ - [https://thot.substack.com](https://thot.substack.com)
+ - date_published: 2024-05-12T06:17:29.138394+00:00
+
+ ## Throwanotherbearinthecanoe Newsletter | Elizabeth Bear | Substack
+ - [https://throwanotherbearinthecanoe.substack.com](https://throwanotherbearinthecanoe.substack.com)
+ - date_published: 2024-07-04T15:06:39.641553+00:00
+
+ ## The Anti-Fundamentalist | Tia Levings | Substack
+ - [https://tialevings.substack.com](https://tialevings.substack.com)
+ - date_published: 2024-07-02T09:43:15.368329+00:00
+
+ ## TiddlyWiki Newsletter | Jeremy Ruston | Substack
+ - [https://tiddlywiki.substack.com](https://tiddlywiki.substack.com)
+ - date_published: 2024-09-06T20:10:56.028427+00:00
+
  ## Software Design: Tidy First? | Kent Beck | Substack
  - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
  - date_published: 2023-10-25T10:06:29.035400+00:00
@@ -3926,120 +4043,4 @@
  ## Surperformance
  - [https://surperformance.com](https://surperformance.com)
  - date_published: 2024-05-04T14:28:35.723364+00:00
-
- ## [S][J][P]
- - [https://surplusjouissance.com](https://surplusjouissance.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## SurrealDB status
- - [https://status.surrealdb.com](https://status.surrealdb.com)
- - date_published: 2024-08-18T15:17:58.324737+00:00
-
- ## SurrealDB | The ultimate multi-model database for tomorrow's applications
- - [https://surrealdb.com](https://surrealdb.com)
- - date_published: 2023-10-29T17:22:37.369138+00:00
-
- ## Surreptitious Evil
- - [http://www.surreptitiousevil.com](http://www.surreptitiousevil.com)
- - date_published: 2024-10-21T14:30:01.133458+00:00
-
- ## Today's Home: Surrey Real Estate
- - [https://homes.surreynowleader.com](https://homes.surreynowleader.com)
- - date_published: 2024-06-29T11:36:03.655214+00:00
-
- ## Homepage
- - [https://surrey-research-park.com](https://surrey-research-park.com)
- - date_published: 2024-05-09T05:20:16.037179+00:00
-
- ## lists.kernelnewbies.org Mailing Lists
- - [http://blogs.surriel.com](http://blogs.surriel.com)
- - date_published: 2024-07-07T04:04:15.738012+00:00
-
- ## Rik van Riel's home page | Rik van Riel's home page
- - [http://surriel.com](http://surriel.com)
- - date_published: 2024-07-07T04:04:11+00:00
-
- ## The Best Architecture and Design-Driven Shows
- - [http://surroundpodcasts.com](http://surroundpodcasts.com)
- - date_published: 2024-08-08T00:05:51+00:00
-
- ## SursockHouse
- - [https://sursockhouse.com](https://sursockhouse.com)
- - date_published: 2023-10-25T17:19:53.345575+00:00
-
- ## Surveillance Index
- - [http://surveillanceindex.com](http://surveillanceindex.com)
- - date_published: 2024-07-13T15:04:30.488435+00:00
-
- ## Surveillance Valley | Surveillance Valley — Yasha Levine
- - [http://surveillancevalley.com](http://surveillancevalley.com)
- - date_published: 2024-06-28T16:32:36.024780+00:00
-
- ## surverysparrow.com
- - [https://surverysparrow.com](https://surverysparrow.com)
- - date_published: 2024-08-06T21:11:06.642261+00:00
-
- ## The Survex Project
- - [http://survex.com](http://survex.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## SurveyCake 企業級雲端問卷｜最專業的免費線上調查表單
- - [https://www.surveycake.com](https://www.surveycake.com)
- - date_published: 2024-07-07T02:56:59.351387+00:00
-
- ## Survey Generator
- - [https://reply.surveygenerator.com](https://reply.surveygenerator.com)
- - date_published: 2024-06-16T09:39:59.911608+00:00
-
- ## Enkätverktyget för myndigheter, offentliga organisationer och företag – Survey Generator
- - [https://surveygenerator.com](https://surveygenerator.com)
- - date_published: 2024-06-27T13:24:38+00:00
-
- ## Surveying Experts | Land Survey | Quantity Surveying | Land Surveyor | Property Survey | Surveyors | Boundary Surveyor
- - [https://www.surveying-experts.com](https://www.surveying-experts.com)
- - date_published: 2024-07-16T16:44:26.419720+00:00
-
- ## Gorgeous surveys, engaging polls and responsive forms
- - [https://ssr.surveylegend.com](https://ssr.surveylegend.com)
- - date_published: 2024-07-03T03:43:35.588751+00:00
-
- ## Gorgeous surveys, engaging polls and responsive forms
- - [https://surveylegend.com](https://surveylegend.com)
- - date_published: 2024-05-08T00:09:40.667365+00:00
-
- ## SurveyMonkey Apply | Online Application Management System
- - [https://apply.surveymonkey.com](https://apply.surveymonkey.com)
- - date_published: 2024-10-30T23:47:02.265039+00:00
-
- ## SurveyMonkey: Verdens mest populære gratis online spørgeundersøgelsesredskab
- - [https://da.surveymonkey.com](https://da.surveymonkey.com)
- - date_published: 2024-06-16T09:51:00.799568+00:00
-
- ## Online-Umfragen und Fragebögen erstellen | SurveyMonkey
- - [https://de.surveymonkey.com](https://de.surveymonkey.com)
- - date_published: 2024-06-16T08:07:00.635510+00:00
-
- ## SurveyMonkey API Developer Portal
- - [https://developer.surveymonkey.com](https://developer.surveymonkey.com)
- - date_published: 2024-06-16T09:51:17.351833+00:00
-
- ## Crea encuestas y cuestionarios online | SurveyMonkey
- - [https://es.surveymonkey.com](https://es.surveymonkey.com)
- - date_published: 2024-06-12T10:57:27.788172+00:00
-
- ## SurveyMonkey: maailman suosituin kyselytutkimustyökalu verkossa
- - [https://fi.surveymonkey.com](https://fi.surveymonkey.com)
- - date_published: 2024-06-16T09:51:09.750570+00:00
-
- ## Créer des sondages et questionnaires en ligne | SurveyMonkey
- - [https://fr.surveymonkey.com](https://fr.surveymonkey.com)
- - date_published: 2024-02-08T16:43:54.667347+00:00
-
- ## SurveyMonkey Help | SurveyMonkey
- - [https://help.surveymonkey.com](https://help.surveymonkey.com)
- - date_published: 2024-06-16T09:51:25.186903+00:00
-
- ## SurveyMonkey: lo strumento di indagine on-line gratuito più popolare al mondo
- - [https://it.surveymonkey.com](https://it.surveymonkey.com)
- - date_published: 2024-06-16T09:51:03.119874+00:00
 
