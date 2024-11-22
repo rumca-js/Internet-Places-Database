@@ -1,3 +1,167 @@
+ ## Søgning – Københavns Universitet
+ - [https://soeg.ku.dk](https://soeg.ku.dk)
+ - date_published: 2024-04-30T02:42:28.327018+00:00
+
+ ## Studier på Københavns Universitet – Københavns Universitet
+ - [https://studier.ku.dk](https://studier.ku.dk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## International Students – University of Copenhagen
+ - [https://studies.ku.dk](https://studies.ku.dk)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## SUND Hub - en del af the Pipeline & KU Lighthouse – Københavns Universitet
+ - [https://sundhub.ku.dk](https://sundhub.ku.dk)
+ - date_published: 2024-04-30T02:41:48.499126+00:00
+
+ ## Det Sundhedsvidenskabelige Fakultet – Københavns Universitet
+ - [https://sund.ku.dk](https://sund.ku.dk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Sustainability Science Centre – University of Copenhagen
+ - [https://sustainability.ku.dk](https://sustainability.ku.dk)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Det Teologiske Fakultet – Københavns Universitet
+ - [https://teol.ku.dk](https://teol.ku.dk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Kvalitetssikring af uddannelser – Københavns Universitet
+ - [https://uddannelseskvalitet.ku.dk](https://uddannelseskvalitet.ku.dk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Universitetshistorie – Københavns Universitet
+ - [https://universitetshistorie.ku.dk](https://universitetshistorie.ku.dk)
+ - date_published: 2024-08-06T17:55:30.403572+00:00
+
+ ## Uddannelser & studerende – Københavns Universitet
+ - [https://us.ku.dk](https://us.ku.dk)
+ - date_published: 2024-08-05T10:06:04+00:00
+
+ ## Om universitetet – Københavns Universitet
+ - [http://velkommen.ku.dk](http://velkommen.ku.dk)
+ - date_published: 2024-07-22T09:30:22+00:00
+
+ ## Skolen for Veterinærmedicin og Husdyrvidenskab – Københavns Universitet
+ - [https://vetschool.ku.dk](https://vetschool.ku.dk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Københavns Universitets Videoportal
+ - [https://video.ku.dk](https://video.ku.dk)
+ - date_published: 2024-04-30T02:42:22.445399+00:00
+
+ ## Webguide – Hjælp og inspiration til webredaktører (Obvius CMS)
+ - [https://webguide.ku.dk](https://webguide.ku.dk)
+ - date_published: 2024-07-22T09:55:55.777328+00:00
+
+ ## Institut for Matematiske  Fag – Københavns Universitet
+ - [http://web.math.ku.dk](http://web.math.ku.dk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## SNM Webshop
+ - [https://webshop.snm.ku.dk](https://webshop.snm.ku.dk)
+ - date_published: 2024-08-11T03:42:34.494552+00:00
+
+ ## Biocenter – Københavns Universitet
+ - [https://www.biocenter.ku.dk](https://www.biocenter.ku.dk)
+ - date_published: 2024-07-12T08:19:38.107742+00:00
+
+ ## Økonomisk Institut – Københavns Universitet
+ - [https://www.econ.ku.dk](https://www.econ.ku.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Sociologisk Institut – Københavns Universitet
+ - [https://www.soc.ku.dk](https://www.soc.ku.dk)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## tandlægeskolen.ku.dk – Københavns Universitet
+ - [https://xn--tandlgeskolen-7fb.ku.dk](https://xn--tandlgeskolen-7fb.ku.dk)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Kulturkraft
+ - [https://www.kulturkraft.dk](https://www.kulturkraft.dk)
+ - date_published: 2024-07-22T09:48:28.385259+00:00
+
+ ## Kulturmonitor
+ - [https://kulturmonitor.dk](https://kulturmonitor.dk)
+ - date_published: 2024-04-30T02:44:00.510964+00:00
+
+ ## KU Merchandise. Beklædning og accessories til studerende og gæster.
+ - [https://ku-shop.dk](https://ku-shop.dk)
+ - date_published: 2024-04-30T02:42:13.081954+00:00
+
+ ## Kulturværftet & Toldkammeret
+ - [https://kuto.dk](https://kuto.dk)
+ - date_published: 2023-09-05T14:43:25+00:00
+
+ ## Kvalifik - Digital Innovation Agency in Copenhagen, Denmark
+ - [https://www.kvalifik.dk](https://www.kvalifik.dk)
+ - date_published: 2024-10-19T12:10:53.582334+00:00
+
+ ## Designet med omtanke for den næste generation | Kvik
+ - [https://kvik.dk](https://kvik.dk)
+ - date_published: 2024-06-15T21:40:17.684293+00:00
+
+ ## Charlotte Steen - Design Kunst og Smedeværksted på Christianshavn - Kvindesmedien
+ - [http://www.kvindesmedien.dk](http://www.kvindesmedien.dk)
+ - date_published: 2024-09-12T17:23:16.071341+00:00
+
+ ## Victor Kyllesbech
+ - [https://kyll.dk](https://kyll.dk)
+ - date_published: 2024-04-25T15:38:10+00:00
+
+ ## Lægemiddelstyrelsen
+ - [https://laegemiddelstyrelsen.dk](https://laegemiddelstyrelsen.dk)
+ - date_published: 2024-09-19T20:34:56.192957+00:00
+
+ ## Conditori La Glace
+ - [http://www.laglace.dk](http://www.laglace.dk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Land Rover | Oplev luksus-SUV'er og 4x4-køretøjer | Land Rover Denmark
+ - [https://www.landrover.dk](https://www.landrover.dk)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Lars Hartmann Design – Identitets- & webdesigner fra skønne Frederiksberg
+ - [https://www.larshartmann.dk](https://www.larshartmann.dk)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Velkommen til Laudrup Vin
+ - [https://laudrup.dk](https://laudrup.dk)
+ - date_published: 2024-06-25T16:54:05.268337+00:00
+
+ ## LEGOLAND® Billund
+ - [https://www.legoland.dk](https://www.legoland.dk)
+ - date_published: 2024-07-03T09:45:22.782858+00:00
+
+ ## Sammenlign lån fra 21 banker helt gratis og uforpligtende | Lendo
+ - [https://lendo.dk](https://lendo.dk)
+ - date_published: 2024-10-30T22:02:47+00:00
+
+ ## Lån op til 400.000 - Få det bedste lån i dag | 2024
+ - [https://letfinans.dk](https://letfinans.dk)
+ - date_published: 2024-10-31T00:48:49.670375+00:00
+
+ ## Lidl Danmark
+ - [https://www.lidl.dk](https://www.lidl.dk)
+ - date_published: 2024-06-25T19:03:02.653231+00:00
+
+ ## LINAK - elektrisk lineær aktuatorteknologi til systemer med bevægelse
+ - [https://www.linak.dk](https://www.linak.dk)
+ - date_published: 2024-09-05T21:35:43.339357+00:00
+
+ ## Lingoblog
+ - [https://www.lingoblog.dk](https://www.lingoblog.dk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## LiveAgent | Simple Customer Support Software for Teams
+ - [https://www.liveagent.dk](https://www.liveagent.dk)
+ - date_published: 2024-10-19T20:26:28.124085+00:00
+
+ ## Find billetter til koncerter og events
+ - [https://livenation.dk](https://livenation.dk)
+ - date_published: 2024-07-17T11:17:32.656266+00:00
+
  ## Lokalavisen.dk | læs og opdag lokale nyheder fra hele Danmark 📰
  - [https://lokalavisen.dk](https://lokalavisen.dk)
  - date_published: 2024-07-22T17:53:59.939018+00:00
@@ -3844,168 +4008,4 @@ I box, ...
  ## Directory Search
  - [https://people.alaska.edu](https://people.alaska.edu)
  - date_published: 2024-05-07T20:42:05.472604+00:00
-
- ## ScholarWorks@UA Home
- - [https://scholarworks.alaska.edu](https://scholarworks.alaska.edu)
- - date_published: 2024-07-01T22:04:44.669404+00:00
-
- ## Sea Ice Group
- - [https://seaice.alaska.edu](https://seaice.alaska.edu)
- - date_published: 2023-11-29T00:15:05+00:00
-
- ## OIT Services Status
- - [http://status.alaska.edu](http://status.alaska.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## UA Alert
- - [https://uaalert.alaska.edu](https://uaalert.alaska.edu)
- - date_published: 2024-07-01T22:04:13.468654+00:00
-
- ## UAF ON ALERT
- - [https://uafalert.alaska.edu](https://uafalert.alaska.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## UAOnline Services | UAOnline Services
- - [https://uaonline.alaska.edu](https://uaonline.alaska.edu)
- - date_published: 2024-07-01T22:04:24.480833+00:00
-
- ## UA Web SSO Service
- - [http://webmail.alaska.edu](http://webmail.alaska.edu)
- - date_published: 2024-07-01T22:04:03.216996+00:00
-
- ## University of Alaska Anchorage | University of Alaska Anchorage
- - [https://www.uaa.alaska.edu](https://www.uaa.alaska.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## University of Alaska Southeast
- - [http://www.uas.alaska.edu](http://www.uas.alaska.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Alaska Pacific University - Discover Active Learning
- - [https://alaskapacific.edu](https://alaskapacific.edu)
- - date_published: 2024-06-15T04:49:31.690907+00:00
-
- ## Admissions & Costs - Alaska Pacific University
- - [https://apply.alaskapacific.edu](https://apply.alaskapacific.edu)
- - date_published: 2024-09-16T07:06:54.990577+00:00
-
- ## IIS Windows Server
- - [https://apu-portal.alaskapacific.edu](https://apu-portal.alaskapacific.edu)
- - date_published: 2020-02-19T01:46:15+00:00
-
- ## Alaska Pacific University - Modern Campus Catalog™
- - [http://catalog.alaskapacific.edu](http://catalog.alaskapacific.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Turnagain Currents – Alaska Pacific University
- - [http://turnagain.alaskapacific.edu](http://turnagain.alaskapacific.edu)
- - date_published: 2024-09-16T07:06:51.438909+00:00
-
- ## University at Albany - State University of New York
- - [https://albany.edu](https://albany.edu)
- - date_published: 2024-08-11T22:43:41+00:00
-
- ## Department of Atmospheric and Environmental Sciences | University at Albany
- - [http://www.atmos.albany.edu](http://www.atmos.albany.edu)
- - date_published: 2024-06-21T20:19:28+00:00
-
- ## Computer Science | University at Albany
- - [http://www.cs.albany.edu](http://www.cs.albany.edu)
- - date_published: 2024-09-02T15:40:21+00:00
-
- ## Allegheny College Meadville PA
- - [http://www.allegheny.edu](http://www.allegheny.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://bard.alquds.edu](https://bard.alquds.edu)
- - date_published: 2020-12-30T09:07:45+00:00
-
- ## Al-Quds University - Al-Quds University جامعة القدس
- - [https://www.alquds.edu](https://www.alquds.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## American University, Washington, D.C.
- - [https://american.edu](https://american.edu)
- - date_published: 2024-04-30T03:03:33.528880+00:00
-
- ## Canvas Login
- - [https://canvas.american.edu](https://canvas.american.edu)
- - date_published: 2024-07-22T08:50:22.221499+00:00
-
- ## American University Washington College of Law - Acalog ACMS™
- - [http://catalog.wcl.american.edu](http://catalog.wcl.american.edu)
- - date_published: 2024-07-07T08:46:29.068021+00:00
-
- ## Digital Commons @ American University Washington College of Law | American University Washington College of Law Research
- - [http://digitalcommons.wcl.american.edu](http://digitalcommons.wcl.american.edu)
- - date_published: 2024-07-07T08:46:18.350482+00:00
-
- ## Sign In
- - [https://future-eagle.american.edu](https://future-eagle.american.edu)
- - date_published: 2024-07-22T08:50:32+00:00
-
- ## Sign in to Outlook
- - [https://mail.american.edu](https://mail.american.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Browser SSO
- - [https://myau.american.edu](https://myau.american.edu)
- - date_published: 2024-07-07T08:46:16.316897+00:00
-
- ## Browser SSO
- - [https://my.wcl.american.edu](https://my.wcl.american.edu)
- - date_published: 2024-07-07T08:46:27.322242+00:00
-
- ## Online Law Degree
- - [https://onlinelaw.wcl.american.edu](https://onlinelaw.wcl.american.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Research @ AU
- - [https://research.american.edu](https://research.american.edu)
- - date_published: 2023-10-25T18:46:30.302927+00:00
-
- ## American University Washington College of Law
- - [https://wcl.american.edu](https://wcl.american.edu)
- - date_published: 2024-05-08T10:07:22.676670+00:00
-
- ## Home
- - [https://acpress.amherst.edu](https://acpress.amherst.edu)
- - date_published: 2024-10-19T11:07:13.648046+00:00
-
- ## Home | Amherst College
- - [http://amherst.edu](http://amherst.edu)
- - date_published: 2024-07-21T22:35:27+00:00
-
- ## Amherst College Directory
- - [http://directory.amherst.edu](http://directory.amherst.edu)
- - date_published: 2024-07-21T23:36:16.758619+00:00
-
- ## Home
- - [https://www.anderson.edu](https://www.anderson.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## An independent and inclusive coed boarding high school
- - [http://www.andover.edu](http://www.andover.edu)
- - date_published: 2024-07-01T15:25:20.953925+00:00
-
- ## Homepage | Saint Anselm College
- - [https://www.anselm.edu](https://www.anselm.edu)
- - date_published: 2024-06-28T08:02:22+00:00
-
- ## Accessibility at App State
- - [https://accessibility.appstate.edu](https://accessibility.appstate.edu)
- - date_published: 2024-08-07T16:52:33+00:00
-
- ## api.appstate.edu
- - [https://api.appstate.edu](https://api.appstate.edu)
- - date_published: 2018-02-22T14:15:42+00:00
-
- ## AppalNet | Appalachian State University
- - [https://appalnet.appstate.edu](https://appalnet.appstate.edu)
- - date_published: 2024-05-15T14:56:59+00:00
-
- ## Appalachian State University
- - [https://appstate.edu](https://appstate.edu)
- - date_published: 2024-08-07T16:52:36.364030+00:00
 

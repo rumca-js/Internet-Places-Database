@@ -1,3 +1,167 @@
+ ## Then. Now. Next. Celebrating the Bicentennial of the Medical University of South Carolina
+ - [https://bicentennial.musc.edu](https://bicentennial.musc.edu)
+ - date_published: 2024-07-13T12:10:11.625773+00:00
+
+ ## College of Health Professions
+ - [https://chp.musc.edu](https://chp.musc.edu)
+ - date_published: 2024-05-11T07:19:48.619505+00:00
+
+ ## MUSC LIBRARIES
+ - [https://colbert.library.musc.edu](https://colbert.library.musc.edu)
+ - date_published: 2024-07-13T12:09:21.093704+00:00
+
+ ## Home - Medical University of South Carolina
+ - [https://connect2.musc.edu](https://connect2.musc.edu)
+ - date_published: 2024-07-13T11:58:22.376648+00:00
+
+ ## Data Coordination Unit at Medical University of South Carolina
+ - [https://dcu.musc.edu](https://dcu.musc.edu)
+ - date_published: 2024-07-13T11:58:18.792117+00:00
+
+ ## The James B. Edwards College of Dental Medicine
+ - [https://dentistry.musc.edu](https://dentistry.musc.edu)
+ - date_published: 2024-05-11T07:20:06.455606+00:00
+
+ ## Education at MUSC
+ - [https://education.musc.edu](https://education.musc.edu)
+ - date_published: 2024-05-11T07:19:45.735976+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://ezproxy.musc.edu](https://ezproxy.musc.edu)
+ - date_published: 2024-07-13T12:09:33.692928+00:00
+
+ ## You Can Change What's Possible
+ - [https://fundraise.musc.edu](https://fundraise.musc.edu)
+ - date_published: 2024-07-13T11:57:54.549962+00:00
+
+ ## You Can Change What's Possible
+ - [https://giving.musc.edu](https://giving.musc.edu)
+ - date_published: 2024-05-11T07:19:55.548907+00:00
+
+ ## College of Graduate Studies
+ - [https://gradstudies.musc.edu](https://gradstudies.musc.edu)
+ - date_published: 2024-05-11T07:20:19.418887+00:00
+
+ ## MUSC Hollings Cancer Center
+ - [https://hollingscancercenter.musc.edu](https://hollingscancercenter.musc.edu)
+ - date_published: 2024-05-11T07:20:15.446722+00:00
+
+ ## Sign In
+ - [https://horseshoe.musc.edu](https://horseshoe.musc.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://illiad.library.musc.edu](http://illiad.library.musc.edu)
+ - date_published: 2024-07-13T12:09:02.625674+00:00
+
+ ## Current Job Openings - MUSC Library
+ - [https://jobs.library.musc.edu](https://jobs.library.musc.edu)
+ - date_published: 2024-07-13T12:09:06.054972+00:00
+
+ ## MUSC LIBRARIES
+ - [https://library.musc.edu](https://library.musc.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Sign In
+ - [http://life.musc.edu](http://life.musc.edu)
+ - date_published: 2024-07-13T12:07:46.442351+00:00
+
+ ## Sign In
+ - [https://lifenet.musc.edu](https://lifenet.musc.edu)
+ - date_published: 2024-07-13T12:08:03.048001+00:00
+
+ ## Sign In
+ - [https://lifeprod.musc.edu](https://lifeprod.musc.edu)
+ - date_published: 2024-07-13T12:09:01.212346+00:00
+
+ ## Redirecting...
+ - [http://mail.musc.edu](http://mail.musc.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## The College of Medicine at MUSC
+ - [https://medicine.musc.edu](https://medicine.musc.edu)
+ - date_published: 2024-05-11T07:19:36.154751+00:00
+
+ ## Welcome to the Medical University of South Carolina
+ - [http://musc.edu](http://musc.edu)
+ - date_published: 2018-12-11T02:45:50+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.musc.edu](https://mychart.musc.edu)
+ - date_published: 2024-05-11T07:20:03.984490+00:00
+
+ ## Sign In
+ - [http://myrecords.musc.edu](http://myrecords.musc.edu)
+ - date_published: 2024-07-13T12:09:05.007350+00:00
+
+ ## MUSC NetID - Home
+ - [https://netid.musc.edu](https://netid.musc.edu)
+ - date_published: 2024-07-13T12:09:16.798887+00:00
+
+ ## College of Nursing
+ - [https://nursing.musc.edu](https://nursing.musc.edu)
+ - date_published: 2024-05-11T07:20:08.754055+00:00
+
+ ## College of Pharmacy
+ - [https://pharmacy.musc.edu](https://pharmacy.musc.edu)
+ - date_published: 2024-05-11T07:20:17.642865+00:00
+
+ ## Home Organization Selection
+ - [https://redcap.musc.edu](https://redcap.musc.edu)
+ - date_published: 2024-07-13T11:58:25.011762+00:00
+
+ ## Hollings Profiles
+ - [https://researchers.hcc.musc.edu](https://researchers.hcc.musc.edu)
+ - date_published: 2024-07-03T11:49:09+00:00
+
+ ## Research at MUSC
+ - [https://research.musc.edu](https://research.musc.edu)
+ - date_published: 2024-05-11T07:19:51.332423+00:00
+
+ ## Sign In
+ - [http://valueinstitute.musc.edu](http://valueinstitute.musc.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Welcome - MUSC
+ - [https://virtualtour.musc.edu](https://virtualtour.musc.edu)
+ - date_published: 2024-07-13T12:07:54.174906+00:00
+
+ ## The Waring Historical Library
+ - [https://waring.library.musc.edu](https://waring.library.musc.edu)
+ - date_published: 2024-07-13T12:09:24.365673+00:00
+
+ ## Weather @ MUSC Library
+ - [https://weather.library.musc.edu](https://weather.library.musc.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## NetScaler AAA
+ - [https://webapps.musc.edu](https://webapps.musc.edu)
+ - date_published: 2024-06-10T03:00:02+00:00
+
+ ## The Medical University of South Carolina
+ - [https://web.musc.edu](https://web.musc.edu)
+ - date_published: 2024-03-15T18:22:29.962237+00:00
+
+ ## Singapore Management University: Personal Homepages
+ - [http://www.mysmu.edu](http://www.mysmu.edu)
+ - date_published: 2013-08-26T11:55:29+00:00
+
+ ## Home
+ - [https://nae.edu](https://nae.edu)
+ - date_published: 2024-05-07T20:25:17.386625+00:00
+
+ ## Home - National Academy of Medicine
+ - [https://nam.edu](https://nam.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## The National Academies Press
+ - [https://nap.edu](https://nap.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Notes From NAP - Spotlighting the Books and Reports on Science, Engineering and Medicine from the National Academies Press
+ - [https://notes.nap.edu](https://notes.nap.edu)
+ - date_published: 2024-05-08T10:36:17.335183+00:00
+
  ## in.nau.edu | Northern Arizona University
  - [https://in.nau.edu](https://in.nau.edu)
  - date_published: 2024-07-09T13:30:26+00:00
@@ -3837,169 +4001,4 @@
  ## Oakland University Employment Site | Home
  - [https://jobs.oakland.edu](https://jobs.oakland.edu)
  - date_published: 2024-06-22T10:46:54+00:00
-
- ## OU Libraries
- - [https://library.oakland.edu](https://library.oakland.edu)
- - date_published: 2024-06-22T10:46:37.644339+00:00
-
- ## Oakland University
- - [https://oakland.edu](https://oakland.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Oakland University Login
- - [https://webmail.oakland.edu](https://webmail.oakland.edu)
- - date_published: 2024-06-22T10:47:13.042631+00:00
-
- ## Oberlin College and Conservatory | Oberlin College and Conservatory
- - [http://new.oberlin.edu](http://new.oberlin.edu)
- - date_published: 2021-01-22T14:51:57+00:00
-
- ## Oberlin College and Conservatory | Oberlin College and Conservatory
- - [http://www.oberlin.edu](http://www.oberlin.edu)
- - date_published: 2021-01-22T14:51:57+00:00
-
- ## Ouachita Baptist University
- - [https://obu.edu](https://obu.edu)
- - date_published: 2024-09-16T07:25:11.597267+00:00
-
- ## https://bookstore.occc.edu
- - [https://bookstore.occc.edu](https://bookstore.occc.edu)
- - date_published: 2024-02-08T21:52:39.432927+00:00
-
- ## This Page Has Moved - You will be redirected!
- - [http://www.lib.odu.edu](http://www.lib.odu.edu)
- - date_published: 2019-05-30T23:09:00+00:00
-
- ## Home Page
- - [https://www.odu.edu](https://www.odu.edu)
- - date_published: 2024-09-26T17:51:49+00:00
-
- ## OHSU | Healing Begins with Discovery
- - [http://www.ogi.edu](http://www.ogi.edu)
- - date_published: 2024-06-16T19:29:53+00:00
-
- ## CAD Angular Template
- - [https://account.ohio.edu](https://account.ohio.edu)
- - date_published: 2024-06-19T08:19:30+00:00
-
- ## Undergraduate Admissions | Ohio University
- - [https://admissions.ohio.edu](https://admissions.ohio.edu)
- - date_published: 2024-05-07T19:50:50.065504+00:00
-
- ## Sign in to your account
- - [https://blackboard.ohio.edu](https://blackboard.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.ohio.edu](https://calendar.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in to your account
- - [https://canvas.ohio.edu](https://canvas.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Ohio University - Modern Campus Catalog™
- - [http://catalogs.ohio.edu](http://catalogs.ohio.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sign in to Outlook
- - [https://catmail.ohio.edu](https://catmail.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Gift Planning | Ohio University
- - [https://giftplanning.ohio.edu](https://giftplanning.ohio.edu)
- - date_published: 2024-07-01T16:40:37.986309+00:00
-
- ## Give to Ohio University | Ohio University
- - [https://give.ohio.edu](https://give.ohio.edu)
- - date_published: 2024-05-07T19:50:29.807496+00:00
-
- ## Graduate College | Ohio University
- - [https://grad.ohio.edu](https://grad.ohio.edu)
- - date_published: 2024-05-07T19:51:03.382723+00:00
-
- ## Library Guides
- - [https://libguides.library.ohio.edu](https://libguides.library.ohio.edu)
- - date_published: 2024-07-01T16:40:31.662209+00:00
-
- ## Sign in to your account
- - [https://news.ohio.edu](https://news.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Welcome to Ohio University
- - [https://ohio.edu](https://ohio.edu)
- - date_published: 2024-05-07T19:50:45.281171+00:00
- - tags: ['university']
-
- ## Regional Higher Education | Ohio University
- - [https://rhe.ohio.edu](https://rhe.ohio.edu)
- - date_published: 2024-05-07T19:50:22.215267+00:00
-
- ## Sign in to your account
- - [https://sis.ohio.edu](https://sis.ohio.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Online Journal of Space Communication | OHIO Open Library Journals | Ohio University
- - [http://spacejournal.ohio.edu](http://spacejournal.ohio.edu)
- - date_published: 2024-07-09T22:19:48.978837+00:00
-
- ## OhioLINK Library Catalog
- - [http://olc1.ohiolink.edu](http://olc1.ohiolink.edu)
- - date_published: 2024-07-01T11:11:23.450974+00:00
-
- ## Home | Marketing and Communications
- - [http://communications.cfaes.ohio-state.edu](http://communications.cfaes.ohio-state.edu)
- - date_published: 2024-07-17T03:36:49.603351+00:00
-
- ## Home | Extension Operations
- - [https://extops.cfaes.ohio-state.edu](https://extops.cfaes.ohio-state.edu)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://gpa.esue.ohio-state.edu](https://gpa.esue.ohio-state.edu)
- - date_published: 2024-07-17T03:28:03.773790+00:00
-
- ## Home | Information Technology Services
- - [https://ithelpdesk.cfaes.ohio-state.edu](https://ithelpdesk.cfaes.ohio-state.edu)
- - date_published: 2024-07-17T03:36:43.253412+00:00
-
- ## OSU Libraries Catalog
- - [http://library.ohio-state.edu](http://library.ohio-state.edu)
- - date_published: 2024-06-30T01:19:58.673716+00:00
-
- ## Home | Learning and Organizational Development
- - [https://lod.cfaes.ohio-state.edu](https://lod.cfaes.ohio-state.edu)
- - date_published: 2024-10-15T07:36:56.058728+00:00
-
- ## Home | PAAR
- - [https://paar.cfaes.ohio-state.edu](https://paar.cfaes.ohio-state.edu)
- - date_published: 2024-07-17T03:36:58.016027+00:00
-
- ## CSE Database Portal
- - [https://portal.cse.ohio-state.edu](https://portal.cse.ohio-state.edu)
- - date_published: 2024-05-14T16:16:34+00:00
-
- ## Home | Agricultural Operations
- - [https://researchoperations.cfaes.ohio-state.edu](https://researchoperations.cfaes.ohio-state.edu)
- - date_published: 2024-07-17T03:36:34.682480+00:00
-
- ## Please Log in to Continue | VetMed Schedules
- - [https://schedule.vet.ohio-state.edu](https://schedule.vet.ohio-state.edu)
- - date_published: 2024-07-17T03:42:45.462018+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://shshealthportal.studentaffairs.ohio-state.edu](https://shshealthportal.studentaffairs.ohio-state.edu)
- - date_published: 2024-07-17T03:27:15.765116+00:00
-
- ## CSE
- - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
- - date_published: 2023-10-25T18:56:24.315200+00:00
-
- ## Home | Department of Economics
- - [https://web.econ.ohio-state.edu](https://web.econ.ohio-state.edu)
- - date_published: 2024-06-15T21:22:28.975305+00:00
-
- ## COLLEGE OF ENGINEERING
- - [http://www2.ece.ohio-state.edu](http://www2.ece.ohio-state.edu)
- - date_published: 2014-02-03T10:53:00+00:00
 

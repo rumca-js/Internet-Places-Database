@@ -1,3 +1,63 @@
+ ## Devamanyu Hazarika
+ - [https://www.devamanyu.com](https://www.devamanyu.com)
+ - date_published: 2024-06-22T09:51:11.302887+00:00
+
+ ## Tech Discovery and Inspiration
+ - [https://api.devandgear.com](https://api.devandgear.com)
+ - date_published: 2024-07-03T16:12:49.000016+00:00
+
+ ## Tech Discovery and Inspiration
+ - [https://devandgear.com](https://devandgear.com)
+ - date_published: 2024-05-08T03:05:24.411783+00:00
+
+ ## Dev & Gear status
+ - [https://status.devandgear.com](https://status.devandgear.com)
+ - date_published: 2024-07-03T16:12:52.530629+00:00
+
+ ## Homepage - Devart Blog
+ - [https://blog.devart.com](https://blog.devart.com)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Devart: Database Management Software and Developer Tools
+ - [https://devart.com](https://devart.com)
+ - date_published: 2024-06-16T20:04:52.055848+00:00
+
+ ## Documentation
+ - [https://docs.devart.com](https://docs.devart.com)
+ - date_published: 2024-05-31T13:14:42+00:00
+
+ ## Devart Forums - Index page
+ - [http://forums.devart.com](http://forums.devart.com)
+ - date_published: 2022-10-26T00:00:00+00:00
+
+ ## Devasa Yazılım
+ - [https://devasayazilim.com](https://devasayazilim.com)
+ - date_published: 2024-07-17T07:48:51+00:00
+
+ ## Do You Love as Good as You Lurk? | 💕 Devastatia 💕
+ - [https://www.devastatia.com](https://www.devastatia.com)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## DevBcn 2024 - Barcelona Developers Conference in Spain — 13-14 — June
+ - [https://www.devbcn.com](https://www.devbcn.com)
+ - date_published: 2024-06-30T13:33:48+00:00
+
+ ## Software Engineering Services
+ - [https://www.devbridge.com](https://www.devbridge.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## AB Software Development
+ - [http://www.dev-c.com](http://www.dev-c.com)
+ - date_published: 2024-06-20T13:41:10.833041+00:00
+
+ ## Cara's Blog
+ - [https://devcara.com](https://devcara.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home • DEVCLASS
+ - [https://devclass.com](https://devclass.com)
+ - date_published: 2023-10-25T13:50:42.438218+00:00
+
  ## One Click Social Login | Social Login Integration for your Website
  - [https://oneclicksociallogin.devcloudsoftware.com](https://oneclicksociallogin.devcloudsoftware.com)
  - date_published: 2024-05-08T12:29:47.501587+00:00
@@ -3978,64 +4038,4 @@ A blog about programming, distributed systems and others
  ## MediaNews Group
  - [https://digitalfirstmedia.com](https://digitalfirstmedia.com)
  - date_published: 2024-06-14T19:37:09.445399+00:00
-
- ## Media News Group Philly
- - [http://www.digitalfirstmediapa.com](http://www.digitalfirstmediapa.com)
- - date_published: 2024-06-29T05:14:38.725021+00:00
-
- ## Digital Flurry
- - [http://digitalflurry.com](http://digitalflurry.com)
- - date_published: 2024-09-18T04:44:32.289845+00:00
-
- ## Home - Digital Future
- - [https://www.digitalfuturemagazine.com](https://www.digitalfuturemagazine.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## DigitalGenius – The AI concierge built for Ecommerce
- - [https://digitalgenius.com](https://digitalgenius.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Digital Geography - We blog about GIS, geodata, webtechnology and have jobs too!
- - [https://de.digital-geography.com](https://de.digital-geography.com)
- - date_published: 2024-07-15T06:19:32.757455+00:00
-
- ## Digital Geography - We blog about GIS, geodata, webtechnology and have jobs too!
- - [https://digital-geography.com](https://digital-geography.com)
- - date_published: 2024-05-12T05:29:20.871129+00:00
-
- ## Buy an egift for  Gilles Frozen Custard
- - [https://gillesfrozencustard.digitalgiftcardmanager.com](https://gillesfrozencustard.digitalgiftcardmanager.com)
- - date_published: 2024-09-17T21:09:08.434799+00:00
-
- ## G-EGD Login
- - [https://evwhs.digitalglobe.com](https://evwhs.digitalglobe.com)
- - date_published: 2024-07-20T18:29:17.139312+00:00
-
- ## Digital Gravity Media | Inbound Marketing Done Right!
- - [https://digitalgravitymedia.com](https://digitalgravitymedia.com)
- - date_published: 2024-04-25T22:16:35+00:00
-
- ## Enterprise IP & DLP Software
- - [https://digitalguardian.com](https://digitalguardian.com)
- - date_published: 2024-06-28T16:33:44.870772+00:00
-
- ## Digital Health Jobs
- - [https://www.digital-health-jobs.com](https://www.digital-health-jobs.com)
- - date_published: 2024-08-07T18:57:41.106781+00:00
-
- ## Digitalia Public Libraries
- - [https://public.digitaliapublishing.com](https://public.digitaliapublishing.com)
- - date_published: 2024-06-12T06:00:21.454507+00:00
-
- ## Digital iD™ - ID on Your Phone
- - [https://www.digitalid.com](https://www.digitalid.com)
- - date_published: 2024-06-14T07:06:00+00:00
-
- ## The Magic of Digital Image Restoration...
- - [http://digitalimageservices.com](http://digitalimageservices.com)
- - date_published: 2014-11-10T13:21:19+00:00
-
- ## Digital Information World
- - [https://digitalinformationworld.com](https://digitalinformationworld.com)
- - date_published: 2023-10-25T13:52:28.987711+00:00
 

@@ -1,3 +1,59 @@
+ ## Bardiac
+ - [http://bardiac.blogspot.com](http://bardiac.blogspot.com)
+ - date_published: 2024-10-19T08:03:44.980562+00:00
+
+ ## Bardiches & Bathhouses
+ - [http://bardichesandbathhouses.blogspot.com](http://bardichesandbathhouses.blogspot.com)
+ - date_published: 2024-10-27T07:09:35+00:00
+
+ ## Bar do Escritor
+ - [http://bardoescritor.blogspot.com](http://bardoescritor.blogspot.com)
+ - date_published: 2024-07-04T05:30:31+00:00
+
+ ## bare•bones e-zine
+ - [http://barebonesez.blogspot.com](http://barebonesez.blogspot.com)
+ - date_published: 2024-09-17T22:23:17+00:00
+
+ ## DO NOT READ THIS BLOG!
+ - [http://barefootcoder.blogspot.com](http://barefootcoder.blogspot.com)
+ - date_published: 2024-09-03T09:51:58+00:00
+
+ ## Barely Legal: The Blog
+ - [http://barelylegalblog.blogspot.com](http://barelylegalblog.blogspot.com)
+ - date_published: 2024-05-07T07:54:54+00:00
+
+ ## BARE RECORD OF TRUTH
+ - [http://barerecord.blogspot.com](http://barerecord.blogspot.com)
+ - date_published: 2024-06-22T06:32:15+00:00
+
+ ## Roses of Barfunweltz
+ - [https://barfunweltz.blogspot.com](https://barfunweltz.blogspot.com)
+ - date_published: 2024-10-24T17:02:40+00:00
+
+ ## BARKING ALIEN
+ - [http://barkingalien.blogspot.com](http://barkingalien.blogspot.com)
+ - date_published: 2024-07-14T21:01:58+00:00
+
+ ## Barking Irons Magazine
+ - [http://barkingirons.blogspot.com](http://barkingirons.blogspot.com)
+ - date_published: 2011-10-05T00:00:00+00:00
+
+ ## Blogger
+ - [http://barkingside21.blogspot.com](http://barkingside21.blogspot.com)
+ - date_published: 2024-10-21T17:55:39.114309+00:00
+
+ ## Barnestormin
+ - [http://barnestormin.blogspot.com](http://barnestormin.blogspot.com)
+ - date_published: 2024-06-27T05:02:31+00:00
+
+ ## Baron's Blog
+ - [http://baronvonj.blogspot.com](http://baronvonj.blogspot.com)
+ - date_published: 2024-07-08T21:08:16+00:00
+
+ ## Barracuda
+ - [https://barracudanls.blogspot.com](https://barracudanls.blogspot.com)
+ - date_published: 2024-06-29T11:01:46+00:00
+
  ## Barry & Christy
  - [https://barryandchristy.blogspot.com](https://barryandchristy.blogspot.com)
  - date_published: 2024-10-05T03:12:07+00:00
@@ -3960,60 +4016,4 @@
  ## By Other Means
  - [http://continuationofpolitics.blogspot.com](http://continuationofpolitics.blogspot.com)
  - date_published: 2024-07-03T11:00:00+00:00
-
- ## Contraptions for programming
- - [http://contraptionsforprogramming.blogspot.com](http://contraptionsforprogramming.blogspot.com)
- - date_published: 2024-03-13T20:35:36+00:00
-
- ## 2 Dedos de Conversa
- - [http://conversa2.blogspot.com](http://conversa2.blogspot.com)
- - date_published: 2024-07-12T08:20:00+00:00
-
- ## CONVERSABLE ECONOMIST
- - [http://conversableeconomist.blogspot.com](http://conversableeconomist.blogspot.com)
- - date_published: 2024-07-03T02:31:38+00:00
-
- ## Conversion Fanboy-Customizing for Gaming
- - [http://conversionfanboy.blogspot.com](http://conversionfanboy.blogspot.com)
- - date_published: 2024-05-07T07:59:26+00:00
-
- ## THE CONVERTORUM
- - [http://convertorum.blogspot.com](http://convertorum.blogspot.com)
- - date_published: 2020-10-22T00:00:00+00:00
-
- ## Con without con
- - [http://conwithoutcon.blogspot.com](http://conwithoutcon.blogspot.com)
- - date_published: 2024-07-19T00:03:45+00:00
-
- ## cookiesinheaven
- - [http://cookiesinheaven.blogspot.com](http://cookiesinheaven.blogspot.com)
- - date_published: 2024-07-09T05:52:05+00:00
-
- ## Cook the Wolf
- - [http://cookwolf.blogspot.com](http://cookwolf.blogspot.com)
- - date_published: 2024-02-19T01:33:20+00:00
-
- ## CoolAnimeHustler  ʕु-̫͡-ʔु”♬ !
- - [https://coolanimehustler.blogspot.com](https://coolanimehustler.blogspot.com)
- - date_published: 2024-07-06T04:45:00+00:00
-
- ## Cool Beans
- - [http://coolbeanscool.blogspot.com](http://coolbeanscool.blogspot.com)
- - date_published: 2024-03-23T18:14:24+00:00
-
- ## Celebrity Hairstyles
- - [http://coolout.blogspot.com](http://coolout.blogspot.com)
- - date_published: 2024-10-21T04:32:09.986892+00:00
-
- ## coolstuff4819
- - [https://coolstuff4819.blogspot.com](https://coolstuff4819.blogspot.com)
- - date_published: 2020-08-06T20:10:00+00:00
-
- ## Coordinated Illumination
- - [http://coordillum.blogspot.com](http://coordillum.blogspot.com)
- - date_published: 2024-03-13T15:20:02+00:00
-
- ## copernican turn
- - [http://copernicanturn.blogspot.com](http://copernicanturn.blogspot.com)
- - date_published: 2024-03-13T04:31:29+00:00
 

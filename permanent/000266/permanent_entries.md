@@ -1,3 +1,167 @@
+ ## Community
+ - [https://community.stanford.edu](https://community.stanford.edu)
+ - date_published: 2024-05-07T20:30:52.367842+00:00
+
+ ## Log in
+ - [https://cop.stanford.edu](https://cop.stanford.edu)
+ - date_published: 2024-06-16T08:14:13.328224+00:00
+
+ ## CPU DB, a complete database of processors for researchers and hobbyists alike
+ - [http://cpudb.stanford.edu](http://cpudb.stanford.edu)
+ - date_published: 2024-05-12T21:41:30+00:00
+
+ ## Stanford Login
+ - [https://crctime.stanford.edu](https://crctime.stanford.edu)
+ - date_published: 2024-07-01T20:08:22.756844+00:00
+
+ ## Stanford CRFM
+ - [https://crfm.stanford.edu](https://crfm.stanford.edu)
+ - date_published: 2023-10-25T18:58:08.596511+00:00
+
+ ## CryoEM/ET at SLAC/Stanford | SLAC National Accelerator Laboratory
+ - [https://cryoem.slac.stanford.edu](https://cryoem.slac.stanford.edu)
+ - date_published: 2024-07-06T23:03:09+00:00
+
+ ## Applied Cryptography Group | Stanford University
+ - [https://crypto.stanford.edu](https://crypto.stanford.edu)
+ - date_published: 2024-03-20T02:37:02+00:00
+
+ ## CS106S: Coding for Social Good at Stanford
+ - [https://cs106s.stanford.edu](https://cs106s.stanford.edu)
+ - date_published: 2024-08-18T23:17:13.719663+00:00
+
+ ## CS144
+ - [https://cs144.stanford.edu](https://cs144.stanford.edu)
+ - date_published: 2024-06-22T07:21:59.195612+00:00
+
+ ## CS155 Computer and Network Security
+ - [https://cs155.stanford.edu](https://cs155.stanford.edu)
+ - date_published: 2024-06-17T17:44:26+00:00
+
+ ## CS224W | Home
+ - [https://cs224w.stanford.edu](https://cs224w.stanford.edu)
+ - date_published: 2024-08-07T11:21:32.096147+00:00
+
+ ## CS229: Machine Learning
+ - [https://cs229.stanford.edu](https://cs229.stanford.edu)
+ - date_published: 2024-06-25T04:19:28+00:00
+
+ ## CS230 Deep Learning
+ - [https://cs230.stanford.edu](https://cs230.stanford.edu)
+ - date_published: 2024-07-12T09:03:39.960539+00:00
+
+ ## Stanford University CS231n: Deep Learning for Computer Vision
+ - [https://cs231n.stanford.edu](https://cs231n.stanford.edu)
+ - date_published: 2024-04-14T03:46:02+00:00
+
+ ## CS246 | Home
+ - [https://cs246.stanford.edu](https://cs246.stanford.edu)
+ - date_published: 2024-08-07T11:21:53.536678+00:00
+
+ ## CS249i: The Modern Internet
+ - [https://cs249i.stanford.edu](https://cs249i.stanford.edu)
+ - date_published: 2024-05-04T15:11:51.253843+00:00
+
+ ## CS 251: Cryptocurrencies and Blockchain Technologies
+ - [https://cs251.stanford.edu](https://cs251.stanford.edu)
+ - date_published: 2024-01-07T00:38:59+00:00
+
+ ## CS253 - Web Security
+ - [https://cs253.stanford.edu](https://cs253.stanford.edu)
+ - date_published: 2024-06-23T06:24:49.679671+00:00
+
+ ## Psych225 / CS322
+ - [https://cs322.stanford.edu](https://cs322.stanford.edu)
+ - date_published: 2022-03-08T23:19:48+00:00
+
+ ## CS341 | Home
+ - [https://cs341.stanford.edu](https://cs341.stanford.edu)
+ - date_published: 2024-08-07T11:21:55.634216+00:00
+
+ ## CS348I
+ - [http://cs348i.stanford.edu](http://cs348i.stanford.edu)
+ - date_published: 2024-02-05T22:24:16+00:00
+
+ ## CS356: Topics in Computer and Network Security
+ - [https://cs356.stanford.edu](https://cs356.stanford.edu)
+ - date_published: 2023-11-11T15:46:15+00:00
+
+ ## Computer Science
+ - [https://csd9.sites.stanford.edu](https://csd9.sites.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## CSLI Publications
+ - [http://csli-publications.stanford.edu](http://csli-publications.stanford.edu)
+ - date_published: 2024-09-02T15:56:10.337345+00:00
+
+ ## Center for the Study of Language and Information
+ - [https://csli.stanford.edu](https://csli.stanford.edu)
+ - date_published: 2024-05-30T04:00:49+00:00
+
+ ## Stanford Computer Science Department
+ - [http://csl.stanford.edu](http://csl.stanford.edu)
+ - date_published: 2009-02-02T21:41:09+00:00
+
+ ## Computer Science
+ - [https://cs.stanford.edu](https://cs.stanford.edu)
+ - date_published: 2023-10-25T11:23:16.227465+00:00
+
+ ## Center for Teaching and Learning
+ - [https://ctl.stanford.edu](https://ctl.stanford.edu)
+ - date_published: 2024-06-10T18:29:24+00:00
+
+ ## Stanford CVA Group - Concurrent VLSI Architecture Group
+ - [http://cva.stanford.edu](http://cva.stanford.edu)
+ - date_published: 2020-01-07T21:05:43+00:00
+
+ ## Stanford Computational Vision and Geometry Lab
+ - [https://cvgl.stanford.edu](https://cvgl.stanford.edu)
+ - date_published: 2020-03-10T01:47:47+00:00
+
+ ## Cyber Policy Center | FSI
+ - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
+ - date_published: 2023-10-25T18:58:18.772573+00:00
+
+ ## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
+ - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
+ - date_published: 2023-10-25T18:58:20.662315+00:00
+
+ ## DAGS - Daphne Koller's Research Group
+ - [http://dags.stanford.edu](http://dags.stanford.edu)
+ - date_published: 2011-04-11T18:50:24+00:00
+
+ ## Data Science
+ - [https://datascience.stanford.edu](https://datascience.stanford.edu)
+ - date_published: 2023-11-12T13:46:11.993969+00:00
+
+ ## Stanford DAWN · DAWN
+ - [https://dawn.cs.stanford.edu](https://dawn.cs.stanford.edu)
+ - date_published: 2022-01-24T19:16:17+00:00
+
+ ## Stanford – Department of Biomedical Data Science
+ - [https://dbds.stanford.edu](https://dbds.stanford.edu)
+ - date_published: 2024-06-30T05:32:22.525586+00:00
+
+ ## Welcome to Stanford InfoLab Publication Server - Stanford InfoLab Publication Server
+ - [http://dbpubs.stanford.edu](http://dbpubs.stanford.edu)
+ - date_published: 2024-07-01T20:11:05.345253+00:00
+
+ ## Home
+ - [https://dcp.stanford.edu](https://dcp.stanford.edu)
+ - date_published: 2024-08-08T03:13:12.361681+00:00
+
+ ## Dean of Students
+ - [https://deanofstudents.stanford.edu](https://deanofstudents.stanford.edu)
+ - date_published: 2024-06-07T22:44:41+00:00
+
+ ## DeepDive
+ - [http://deepdive.stanford.edu](http://deepdive.stanford.edu)
+ - date_published: 2017-08-31T13:23:04+00:00
+
+ ## Design in Action
+ - [https://designinaction.stanford.edu](https://designinaction.stanford.edu)
+ - date_published: 2023-04-30T00:00:00+00:00
+
  ## Daniel E. Ho
  - [https://dho.stanford.edu](https://dho.stanford.edu)
  - date_published: 2024-07-01T19:38:42.340232+00:00
@@ -3847,168 +4011,4 @@
  ## Human Resources – The University of Alabama. | The University of Alabama
  - [https://hr.ua.edu](https://hr.ua.edu)
  - date_published: 2024-07-01T21:51:25.750275+00:00
-
- ## Informal Resolution – Informal Resolution | The University of Alabama
- - [https://informalresolution.ua.edu](https://informalresolution.ua.edu)
- - date_published: 2024-05-07T20:40:56.021566+00:00
-
- ## Careers at University of Alabama
- - [https://jobs.ua.edu](https://jobs.ua.edu)
- - date_published: 2024-05-07T20:40:27.590554+00:00
-
- ## University of Alabama School of Law
- - [https://law.ua.edu](https://law.ua.edu)
- - date_published: 2010-06-16T22:16:08+00:00
-
- ## Where Legends are Made
- - [https://legends.ua.edu](https://legends.ua.edu)
- - date_published: 2023-10-17T18:53:12+00:00
-
- ## Bounds Law Library | Bounds Law Library
- - [https://library.law.ua.edu](https://library.law.ua.edu)
- - date_published: 2024-09-15T23:32:31.752971+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://museums.ua.edu](http://museums.ua.edu)
- - date_published: 2024-07-01T21:50:14.819129+00:00
-
- ## CAS - Central Authentication Service
- - [https://mybama.ua.edu](https://mybama.ua.edu)
- - date_published: 2024-05-07T20:41:00.894020+00:00
-
- ## UA News Center
- - [https://news.ua.edu](https://news.ua.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Capstone College of Nursing – The University of Alabama –  | The University of Alabama
- - [http://nursing.ua.edu](http://nursing.ua.edu)
- - date_published: 2024-07-01T21:49:45.177576+00:00
-
- ## Homepage - Office of Disability Services | The University of Alabama
- - [http://ods.ua.edu](http://ods.ua.edu)
- - date_published: 2024-07-01T22:03:02.873835+00:00
-
- ## Home UA | Office of Institutional Effectiveness
- - [https://oie.ua.edu](https://oie.ua.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
- - [http://oit.ua.edu](http://oit.ua.edu)
- - date_published: 2024-07-01T21:50:21.515616+00:00
-
- ## University of Alabama - Online and Distance Degrees - UA Online
- - [https://online.ua.edu](https://online.ua.edu)
- - date_published: 2024-07-01T21:54:49.791925+00:00
-
- ## Homepage - Orientation | The University of Alabama
- - [https://orientation.ua.edu](https://orientation.ua.edu)
- - date_published: 2024-07-01T21:54:15.693553+00:00
-
- ## Research & Economic Development
- - [http://ovpred.ua.edu](http://ovpred.ua.edu)
- - date_published: 2024-07-01T21:54:00.402086+00:00
-
- ## The University of Alabama Planned Giving :: Planned Giving
- - [https://plannedgiving.ua.edu](https://plannedgiving.ua.edu)
- - date_published: 2024-07-01T22:02:59.934492+00:00
-
- ## The University of Alabama Police – The University of Alabama Police | The University of Alabama
- - [http://police.ua.edu](http://police.ua.edu)
- - date_published: 2024-07-01T21:49:29.761824+00:00
-
- ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
- - [http://prepare.ua.edu](http://prepare.ua.edu)
- - date_published: 2024-05-07T20:40:22.428032+00:00
-
- ## Office of the President –  | The University of Alabama
- - [http://president.ua.edu](http://president.ua.edu)
- - date_published: 2024-07-01T21:49:06.136552+00:00
-
- ## Homepage - Office for Academic Affairs | The University of Alabama
- - [http://provost.ua.edu](http://provost.ua.edu)
- - date_published: 2024-07-01T21:50:02.723408+00:00
-
- ## UA Commencement
- - [http://pubs.ua.edu](http://pubs.ua.edu)
- - date_published: 2024-07-01T21:54:11.004065+00:00
-
- ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
- - [http://ready.ua.edu](http://ready.ua.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## The Office of the University Registrar – The University of Alabama – Information about areas managed by the Office of the University Registrar at the University of Alabama | The University of Alabama
- - [https://registrar.ua.edu](https://registrar.ua.edu)
- - date_published: 2024-05-07T20:40:12.489693+00:00
-
- ## Research & Economic Development
- - [https://research.ua.edu](https://research.ua.edu)
- - date_published: 2024-07-01T21:50:30.435065+00:00
-
- ## The Rising Tide 2.0 – The Rising Tide 2.0
- - [https://risingtide.ua.edu](https://risingtide.ua.edu)
- - date_published: 2024-07-01T21:54:52.177945+00:00
-
- ## Risk Management –  | The University of Alabama
- - [https://riskmanagement.ua.edu](https://riskmanagement.ua.edu)
- - date_published: 2024-07-01T21:55:36.737529+00:00
-
- ## Home - Division of Student Life | The University of Alabama
- - [http://sa.ua.edu](http://sa.ua.edu)
- - date_published: 2024-07-01T21:50:24.988709+00:00
-
- ## Alabama Law Scholarly Commons | University of Alabama School of Law Research
- - [https://scholarship.law.ua.edu](https://scholarship.law.ua.edu)
- - date_published: 2024-09-15T23:32:33.382195+00:00
-
- ## Scholarships - Afford | The University of Alabama
- - [https://scholarships.ua.edu](https://scholarships.ua.edu)
- - date_published: 2024-07-01T21:54:17.286512+00:00
-
- ## Homepage - Graduate School | The University of Alabama
- - [https://slate.ua.edu](https://slate.ua.edu)
- - date_published: 2024-07-01T21:53:30.755926+00:00
-
- ## School of Social Work – School of Social Work
- - [http://socialwork.ua.edu](http://socialwork.ua.edu)
- - date_published: 2024-07-01T21:49:38.657664+00:00
-
- ## STCWPMS02
- - [https://stcwpms02.ua.edu](https://stcwpms02.ua.edu)
- - date_published: 2024-07-01T21:54:03.095930+00:00
-
- ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
- - [https://stratcomm.ua.edu](https://stratcomm.ua.edu)
- - date_published: 2024-06-29T23:44:57.391700+00:00
-
- ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
- - [http://strategiccommunications.ua.edu](http://strategiccommunications.ua.edu)
- - date_published: 2024-07-01T21:49:31.628615+00:00
-
- ## Home - Student Involvement
- - [https://studentinvolvement.sa.ua.edu](https://studentinvolvement.sa.ua.edu)
- - date_published: 2024-07-01T21:54:47.846005+00:00
-
- ## Behavioral Threat Assessment –  | The University of Alabama
- - [http://threatassessment.ua.edu](http://threatassessment.ua.edu)
- - date_published: 2024-07-01T21:50:09.550298+00:00
-
- ## Title IX – Title IX | The University of Alabama
- - [https://titleix.ua.edu](https://titleix.ua.edu)
- - date_published: 2024-07-01T21:56:15.123831+00:00
-
- ## The University of Alabama
- - [https://ua.edu](https://ua.edu)
- - date_published: 2024-05-07T20:40:49.958248+00:00
-
- ## uastudentjobs.ua.edu – Find Your Student Job | The University of Alabama
- - [http://uastudentjobs.ua.edu](http://uastudentjobs.ua.edu)
- - date_published: 2024-07-01T21:51:28.329863+00:00
-
- ## University of Alabama System
- - [http://uasystem.ua.edu](http://uasystem.ua.edu)
- - date_published: 2024-07-01T21:54:06+00:00
-
- ## Visit
- - [https://visit.ua.edu](https://visit.ua.edu)
- - date_published: 2024-06-29T23:50:09.907759+00:00
 

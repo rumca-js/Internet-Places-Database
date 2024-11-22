@@ -1,3 +1,136 @@
+ ## BILD ePaper
+ - [https://epaper.bild.de](https://epaper.bild.de)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Online Führerscheintest
+ - [https://fahrschule.bild.de](https://fahrschule.bild.de)
+ - date_published: 2024-04-29T05:50:18.082942+00:00
+
+ ## Fehler
+ - [https://fonti.prod.ps.bild.de](https://fonti.prod.ps.bild.de)
+ - date_published: 2024-07-24T03:23:28.948697+00:00
+
+ ## bild slotmachine
+ - [https://gluecksdreh.bild.de](https://gluecksdreh.bild.de)
+ - date_published: 2024-04-29T05:50:37.598085+00:00
+
+ ## Kostenlose Gutscheine für alle Top-Online-Shops - BILD
+ - [https://gutscheine.bild.de](https://gutscheine.bild.de)
+ - date_published: 2024-04-29T05:50:03.502164+00:00
+
+ ## Fehler 404 invalid url
+ - [https://hds.ak.token.bild.de](https://hds.ak.token.bild.de)
+ - date_published: 2024-04-29T05:50:05.624408+00:00
+
+ ## Hey_ Ihr Helfer mit KI
+ - [https://hey.bild.de](https://hey.bild.de)
+ - date_published: 2024-04-29T05:50:00.492442+00:00
+
+ ## Der große IQ-Trainer
+ - [https://iqtest.bild.de](https://iqtest.bild.de)
+ - date_published: 2024-04-29T05:55:52.269493+00:00
+
+ ## BILD Jobs Stellenmarkt
+ - [https://jobs.bild.de](https://jobs.bild.de)
+ - date_published: 2024-04-29T05:50:44.837748+00:00
+
+ ## Login - oculus - Axel Springer
+ - [https://marketing.bild.de](https://marketing.bild.de)
+ - date_published: 2024-04-29T05:50:49.716403+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://marktplatz.bild.de](https://marktplatz.bild.de)
+ - date_published: 2024-04-29T05:50:31.050510+00:00
+
+ ## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date_published: 2023-10-29T18:15:30.206767+00:00
+ - tags: ['news']
+
+ ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
+ - [https://m.sportbild.bild.de](https://m.sportbild.bild.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
+ - [https://m.sport.bild.de](https://m.sport.bild.de)
+ - date_published: 2024-04-29T05:55:54.730835+00:00
+
+ ## {bdeTitle}
+ - [https://m.wetter.bild.de](https://m.wetter.bild.de)
+ - date_published: 2024-04-29T05:50:12.924192+00:00
+
+ ## Bild PLAY | Der innovative Video Feed
+ - [https://play.bild.de](https://play.bild.de)
+ - date_published: 2024-04-29T05:50:18.940780+00:00
+
+ ## Fehler
+ - [https://rosetta.prod.ps.bild.de](https://rosetta.prod.ps.bild.de)
+ - date_published: 2024-04-29T05:50:22.057313+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://shop.bild.de](https://shop.bild.de)
+ - date_published: 2024-07-24T20:15:07.165079+00:00
+
+ ## Kostenlose Onlinegames: Jetzt gratis online spielen
+ - [https://spiele.bild.de](https://spiele.bild.de)
+ - date_published: 2024-04-29T05:49:45.914739+00:00
+
+ ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
+ - [https://sportbild.bild.de](https://sportbild.bild.de)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
+ - [https://sport.bild.de](https://sport.bild.de)
+ - date_published: 2024-04-29T05:49:59.043688+00:00
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 08.08.2024
+ - [https://sportdaten.sportbild.bild.de](https://sportdaten.sportbild.bild.de)
+ - date_published: 2024-08-08T17:11:56.081364+00:00
+
+ ## Bild Sportwetten
+ - [https://sportwetten.bild.de](https://sportwetten.bild.de)
+ - date_published: 2024-04-29T05:50:11.324451+00:00
+
+ ## Wetter
+ - [https://wetter.bild.de](https://wetter.bild.de)
+ - date_published: 2024-04-29T05:50:46.850712+00:00
+
+ ## Wissenstest: Testen Sie Ihre Allgemeinbildung
+ - [https://wissenstest.bild.de](https://wissenstest.bild.de)
+ - date_published: 2024-07-24T20:15:15.345957+00:00
+
+ ## BILDblog
+ - [http://www.bildblog.de](http://www.bildblog.de)
+ - date_published: 2024-07-25T08:54:00+00:00
+
+ ## BILDconnect
+ - [https://bildconnect.de](https://bildconnect.de)
+ - date_published: 2024-04-29T05:50:33.759534+00:00
+
+ ## Persönliche Servicewelt
+ - [https://service.bildconnect.de](https://service.bildconnect.de)
+ - date_published: 2024-07-24T20:13:52.645561+00:00
+
+ ## FAQ – Die wichtigsten Fragen und Antworten für BILDplus
+ - [https://faq.bildplus.de](https://faq.bildplus.de)
+ - date_published: 2019-10-09T14:32:19+00:00
+
+ ## Moodle-System des Bildungsservers Sachsen-Anhalt
+ - [https://moodle.bildung-lsa.de](https://moodle.bildung-lsa.de)
+ - date_published: 2015-10-22T00:00:00+00:00
+
+ ## Topic: Unterrichtszeiten | Sekundarschule "Saale-Elster-Auen" Schkopau | Sek Schkopau
+ - [https://www.sks-schkopau.bildung-lsa.de](https://www.sks-schkopau.bildung-lsa.de)
+ - date_published: 2024-05-10T06:54:36.727069+00:00
+
+ ## BildungsCent e.V.: Startseite
+ - [http://www.bildungscent.de](http://www.bildungscent.de)
+ - date_published: 2024-09-12T16:05:15.387489+00:00
+
+ ## Startseite - Bildungsinitiative Ferhat Unvar
+ - [https://www.bildungsinitiative-ferhatunvar.de](https://www.bildungsinitiative-ferhatunvar.de)
+ - date_published: 2024-10-22T12:35:56.222454+00:00
+
  ## Bildungsregion Südniedersachsen – Ihr Bildungsnetzwerk für die Region Südniedersachsen
  - [https://bildungsregion-suedniedersachsen.de](https://bildungsregion-suedniedersachsen.de)
  - date_published: 2024-09-02T12:35:38.408831+00:00
@@ -3883,136 +4016,4 @@ home
  ## data2day 2024– Die Konferenz für Data Scientists, Data Engineers und Data Teams
  - [https://www.data2day.de](https://www.data2day.de)
  - date_published: 2024-07-24T07:16:56.193623+00:00
-
- ## data:unplugged am 07.03.2024!
- - [https://www.data-unplugged.de](https://www.data-unplugged.de)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Datawrapper Academy
- - [https://academy.datawrapper.de](https://academy.datawrapper.de)
- - date_published: 2024-04-29T06:02:07.790040+00:00
-
- ## Datawrapper
- - [https://app.datawrapper.de](https://app.datawrapper.de)
- - date_published: 2024-04-29T06:02:06.409109+00:00
-
- ## Datawrapper Blog
- - [https://blog.datawrapper.de](https://blog.datawrapper.de)
- - date_published: 2023-10-25T18:29:23.861867+00:00
-
- ## Datawrapper: Create charts, maps, and tables
- - [https://datawrapper.de](https://datawrapper.de)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Getting Started
- - [https://developer.datawrapper.de](https://developer.datawrapper.de)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://pwk.datawrapper.de](https://pwk.datawrapper.de)
- - date_published: 2024-04-29T06:02:05.528406+00:00
-
- ## Datawrapper River
- - [https://river.datawrapper.de](https://river.datawrapper.de)
- - date_published: 2024-04-29T06:02:18.985375+00:00
-
- ## Blogless — Writing Articles online without a Blog
- - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
- - date_published: 2021-09-23T22:00:00+00:00
-
- ## datenbrei.de
- - [http://datenbrei.de](http://datenbrei.de)
- - date_published: 2024-07-24T07:56:14.199348+00:00
-
- ## Martin DÃ¶ring
- - [https://martin.datenbrei.de](https://martin.datenbrei.de)
- - date_published: 2024-04-29T06:02:26.813129+00:00
-
- ## mobiki — the mobile first wiki
- - [http://mobiki.datenbrei.de](http://mobiki.datenbrei.de)
- - date_published: 2017-02-01T00:00:00+00:00
-
- ## Reisen
- - [http://reisen.datenbrei.de](http://reisen.datenbrei.de)
- - date_published: 2017-01-02T00:00:00+00:00
-
- ## Aram Bartholl
- - [http://datenform.de](http://datenform.de)
- - date_published: 2024-07-13T16:14:49.729681+00:00
-
- ## Home - Software für Hochschulen | Datenlotsen Informationssysteme GmbH
- - [http://www.datenlotsen.de](http://www.datenlotsen.de)
- - date_published: 2024-10-22T05:20:17.054305+00:00
-
- ## Startseite - Berliner Beauftragte für Datenschutz und Informationsfreiheit
- - [https://www.datenschutz-berlin.de](https://www.datenschutz-berlin.de)
- - date_published: 2024-06-23T11:48:24.147849+00:00
-
- ## Datenschutzerklärung Generator - kostenlos & DSGVO sicher
- - [https://datenschutz-generator.de](https://datenschutz-generator.de)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## datensicherheit.de - Informationen zu Datensicherheit und Datenschutz
- - [https://www.datensicherheit.de](https://www.datensicherheit.de)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Datenspuren 2024
- - [https://datenspuren.de](https://datenspuren.de)
- - date_published: 2024-04-29T05:57:59.049558+00:00
-
- ## Home
- - [https://dateo-software.de](https://dateo-software.de)
- - date_published: 2024-06-18T06:03:57.515516+00:00
-
- ## Daumenkinographie Volker Gerling
- - [https://www.daumenkinographie.de](https://www.daumenkinographie.de)
- - date_published: 2018-06-11T12:29:54+00:00
-
- ## Fortbildungstool
- - [https://cockpit.davfobi.de](https://cockpit.davfobi.de)
- - date_published: 2023-10-26T14:32:50+00:00
-
- ## davidak.de
- - [https://davidak.de](https://davidak.de)
- - date_published: 2016-02-28T22:24:45+00:00
-
- ## David Greve
- - [https://www.david-greve.de](https://www.david-greve.de)
- - date_published: 2024-07-10T05:49:02.925042+00:00
-
- ## David Kopp
- - [https://davidkopp.de](https://davidkopp.de)
- - date_published: 2024-05-09T07:57:04.982170+00:00
-
- ## Welcome
- - [https://notes.davidkopp.de](https://notes.davidkopp.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## David Latz
- - [https://davidlatz.de](https://davidlatz.de)
- - date_published: 2024-07-13T16:12:42.614213+00:00
-
- ## David Liebermann
- - [https://davidliebermann.de](https://davidliebermann.de)
- - date_published: 2024-04-05T07:07:57+00:00
-
- ## PROFI STUDIO
- - [http://profistudio.davidliebermann.de](http://profistudio.davidliebermann.de)
- - date_published: 2024-07-13T16:00:50.036210+00:00
-
- ## david-peter.de
- - [https://david-peter.de](https://david-peter.de)
- - date_published: 2023-12-05T15:10:57+00:00
-
- ## Der Domainname davidpfifferling.de steht zum Verkauf.
- - [http://davidpfifferling.de](http://davidpfifferling.de)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## David Tielke - Consulting, Coaching, Trainings
- - [http://david-tielke.de](http://david-tielke.de)
- - date_published: 2024-09-18T14:27:13.736474+00:00
-
- ## start
- - [http://www.daxo.de](http://www.daxo.de)
- - date_published: 2017-02-08T10:54:54+00:00
 

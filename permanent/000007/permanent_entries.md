@@ -1,3 +1,15 @@
+ ## Agencia De Programación & Marketing | DeProg.ar
+ - [https://deprog.ar](https://deprog.ar)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Giskard - Testing platform for AI models
+ - [https://gisk.ar](https://gisk.ar)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Recopilador de contenidos curados | iyaki
+ - [https://curated.iyaki.ar](https://curated.iyaki.ar)
+ - date_published: 2024-09-14T00:44:41+00:00
+
  ## iyaki - Allons-y!
  - [https://iyaki.ar](https://iyaki.ar)
  - date_published: 2024-06-14T14:47:47.990393+00:00
@@ -4018,16 +4030,4 @@ October 2024 in Singapore
  ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
  - [http://m.ebay.at](http://m.ebay.at)
  - date_published: 2024-06-16T23:21:41.125311+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.at](https://mesg.ebay.at)
- - date_published: 2024-06-16T23:21:49.290655+00:00
-
- ## Elektronik, Autos, Mode, Sammlerstücke, Gutscheine und mehr Online-Shopping | eBay
- - [https://pages.ebay.at](https://pages.ebay.at)
- - date_published: 2024-06-16T23:21:55.851243+00:00
-
- ## Einloggen oder neu anmelden | eBay
- - [https://pay.ebay.at](https://pay.ebay.at)
- - date_published: 2024-10-15T11:31:59.456832+00:00
 

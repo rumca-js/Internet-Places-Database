@@ -1,3 +1,15 @@
+ ## YouTube
+ - [https://youtu.be](https://youtu.be)
+ - date_published: 2023-11-08T20:32:57.103890+00:00
+
+ ## YouTube
+ - [http://yt.be](http://yt.be)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## zach's tech blog | Substack
+ - [https://www.zach.be](https://www.zach.be)
+ - date_published: 2024-11-16T17:14:20.037889+00:00
+
  ## Lounge by Zalando België - Online mode- en lifestyle outlet
  - [https://www.zalando-lounge.be](https://www.zalando-lounge.be)
  - date_published: 2024-09-26T00:00:00+00:00
@@ -4046,16 +4058,4 @@
  ## Link Punk: A Linkblog
  - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
  - date_published: 2024-06-17T22:01:16+00:00
-
- ## Manton Reece
- - [http://manton.micro.blog](http://manton.micro.blog)
- - date_published: 2024-07-02T15:57:08+00:00
-
- ## mattypenny
- - [https://mattypenny.micro.blog](https://mattypenny.micro.blog)
- - date_published: 2024-07-07T00:10:58+00:00
-
- ## Merson the Person
- - [https://mersontheperson.micro.blog](https://mersontheperson.micro.blog)
- - date_published: 2024-06-28T19:41:21+00:00
 

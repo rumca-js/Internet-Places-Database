@@ -1,3 +1,167 @@
+ ## RBVI Home Page
+ - [https://www.rbvi.ucsf.edu](https://www.rbvi.ucsf.edu)
+ - date_published: 2019-03-08T00:26:55+00:00
+
+ ## Home
+ - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
+ - date_published: 2024-02-08T17:58:04.593788+00:00
+
+ ## Home
+ - [https://ucumberlands.edu](https://ucumberlands.edu)
+ - date_published: 2024-05-07T21:10:08.991388+00:00
+
+ ## Events Calendar
+ - [https://calendar.udallas.edu](https://calendar.udallas.edu)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## U of Dallas | Continuing Ed
+ - [https://continuinged.udallas.edu](https://continuinged.udallas.edu)
+ - date_published: 2024-09-18T08:32:21.717071+00:00
+
+ ## University of Dallas News - American Council of Trustees and Alumni
+ - [https://news.udallas.edu](https://news.udallas.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Tower Magazine | University of Dallas
+ - [https://tower.udallas.edu](https://tower.udallas.edu)
+ - date_published: 2024-09-18T07:15:18+00:00
+
+ ## University of Dallas - The Catholic University for Independent Thinkers
+ - [https://udallas.edu](https://udallas.edu)
+ - date_published: 2024-05-01T03:33:02.211564+00:00
+
+ ## Office of Development and University Relations
+ - [https://udrelations.udallas.edu](https://udrelations.udallas.edu)
+ - date_published: 2024-09-18T08:32:47.945319+00:00
+
+ ## Index Page - EECIS Accounts System
+ - [https://accounts.eecis.udel.edu](https://accounts.eecis.udel.edu)
+ - date_published: 2024-09-02T10:41:12.174055+00:00
+
+ ## Home - Advising Central
+ - [https://advising.udel.edu](https://advising.udel.edu)
+ - date_published: 2024-05-07T21:10:50.020124+00:00
+
+ ## Ask the Library - Ask the Library
+ - [https://ask.lib.udel.edu](https://ask.lib.udel.edu)
+ - date_published: 2024-07-02T02:03:48.243088+00:00
+
+ ## College of Agriculture & Natural Resources | University of Delaware
+ - [http://canr.udel.edu](http://canr.udel.edu)
+ - date_published: 2024-07-01T22:57:57+00:00
+
+ ## University of Delaware
+ - [https://cas.nss.udel.edu](https://cas.nss.udel.edu)
+ - date_published: 2018-01-11T20:27:17+00:00
+
+ ## DSpace Repository :: Home
+ - [http://dspace.udel.edu](http://dspace.udel.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Events Calendar - University of Delaware
+ - [https://events.udel.edu](https://events.udel.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Library, Museums and Press – Online Exhibitions
+ - [https://exhibitions.lib.udel.edu](https://exhibitions.lib.udel.edu)
+ - date_published: 2024-07-02T02:04:14.498023+00:00
+
+ ## Faculty Handbook | Faculty Senate
+ - [https://facultyhandbook.udel.edu](https://facultyhandbook.udel.edu)
+ - date_published: 2024-07-02T01:52:44+00:00
+
+ ## Finding Aids for Archival Collections | Finding Aids for Archival Collections
+ - [https://findingaids.lib.udel.edu](https://findingaids.lib.udel.edu)
+ - date_published: 2024-07-02T02:04:23.381436+00:00
+
+ ## University of Delaware Graduate College | Graduate College | University of Delaware
+ - [https://grad.udel.edu](https://grad.udel.edu)
+ - date_published: 2024-05-07T21:10:33.985298+00:00
+
+ ## Research Guides
+ - [http://guides.lib.udel.edu](http://guides.lib.udel.edu)
+ - date_published: 2024-07-02T02:04:05.591529+00:00
+
+ ## UD Library, Museums and Press
+ - [https://library.udel.edu](https://library.udel.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Lerner College Intranet – University of Delaware
+ - [https://my.lerner.udel.edu](https://my.lerner.udel.edu)
+ - date_published: 2024-07-02T02:06:02.980467+00:00
+
+ ## My UD
+ - [https://my.udel.edu](https://my.udel.edu)
+ - date_published: 2024-05-07T21:10:20.790392+00:00
+
+ ## Online Degree Programs | University of Delaware
+ - [https://online.udel.edu](https://online.udel.edu)
+ - date_published: 2024-05-07T21:10:28.553956+00:00
+
+ ## Home - University of Delaware Div. of Professional and Continuing Studies
+ - [https://pcs.udel.edu](https://pcs.udel.edu)
+ - date_published: 2024-05-07T21:10:35.232512+00:00
+
+ ## University of Delaware Research Office
+ - [https://research.udel.edu](https://research.udel.edu)
+ - date_published: 2024-05-07T21:10:45.959700+00:00
+
+ ## Service Portal Home
+ - [https://services.udel.edu](https://services.udel.edu)
+ - date_published: 2024-07-02T02:04:45.918512+00:00
+
+ ## WordPress at UD |
+ - [https://sites.udel.edu](https://sites.udel.edu)
+ - date_published: 2024-05-07T21:10:31.254051+00:00
+
+ ## ECE/CIS
+ - [https://staff.eecis.udel.edu](https://staff.eecis.udel.edu)
+ - date_published: 2024-08-16T19:42:00+00:00
+
+ ## University of Delaware Central Authentication Service - Login
+ - [http://staffweb.lib.udel.edu](http://staffweb.lib.udel.edu)
+ - date_published: 2024-07-02T02:03:51.897412+00:00
+
+ ## UD Capture | University of Delaware
+ - [https://udcapture.udel.edu](https://udcapture.udel.edu)
+ - date_published: 2024-07-02T01:47:18+00:00
+
+ ## University of Delaware
+ - [https://udel.edu](https://udel.edu)
+ - date_published: 2023-12-23T17:33:38.138635+00:00
+
+ ## UDLib/SEARCH
+ - [https://udlibsearch.lib.udel.edu](https://udlibsearch.lib.udel.edu)
+ - date_published: 2024-07-02T02:04:03.027418+00:00
+
+ ## University of Delaware Press
+ - [https://udpress.udel.edu](https://udpress.udel.edu)
+ - date_published: 2024-07-02T02:03:49.757729+00:00
+
+ ## DSpace Repository :: Home
+ - [https://udspace.udel.edu](https://udspace.udel.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## | University Studies
+ - [http://ust.udel.edu](http://ust.udel.edu)
+ - date_published: 2024-07-02T02:05:58.798849+00:00
+
+ ## Writing Center
+ - [https://writingcenter.udel.edu](https://writingcenter.udel.edu)
+ - date_published: 2024-07-02T02:05:02+00:00
+
+ ## University of Delaware
+ - [https://www1.udel.edu](https://www1.udel.edu)
+ - date_published: 2024-05-07T21:10:24.567419+00:00
+
+ ## AAP
+ - [https://www.aap.udel.edu](https://www.aap.udel.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Joseph R. Biden, Jr. School of Public Policy & Administration
+ - [https://www.bidenschool.udel.edu](https://www.bidenschool.udel.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## College of Arts & Sciences
  - [https://www.cas.udel.edu](https://www.cas.udel.edu)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -3840,168 +4004,4 @@
  ## Michelle Smith Collaboratory for Visual Culture | Department of Art History and Archaeology
  - [https://michellesmithcollaboratory.umd.edu](https://michellesmithcollaboratory.umd.edu)
  - date_published: 2024-09-17T20:29:44+00:00
-
- ## Home
- - [https://mith.umd.edu](https://mith.umd.edu)
- - date_published: 2024-07-22T18:08:36+00:00
-
- ## mnemosyne
- - [https://mnemosyne.umd.edu](https://mnemosyne.umd.edu)
- - date_published: 2019-02-15T09:31:02+00:00
-
- ## School of Music | School of Music
- - [https://music.umd.edu](https://music.umd.edu)
- - date_published: 2024-09-17T20:24:43+00:00
-
- ## Welcome | National Foreign Language Center
- - [http://nflc.umd.edu](http://nflc.umd.edu)
- - date_published: 2024-09-18T08:33:51.402399+00:00
-
- ## Off-Campus Housing Services (OCH) - University of Maryland, College Park
- - [http://och.umd.edu](http://och.umd.edu)
- - date_published: 2024-06-28T20:06:17+00:00
-
- ## Home | University of Maryland Extended Studies
- - [https://oes.umd.edu](https://oes.umd.edu)
- - date_published: 2024-09-17T20:36:16+00:00
-
- ## Home | Office of Marketing and Communications
- - [https://osc.umd.edu](https://osc.umd.edu)
- - date_published: 2024-05-09T05:20:02.382633+00:00
-
- ## Home | Department of Philosophy
- - [https://philosophy.umd.edu](https://philosophy.umd.edu)
- - date_published: 2024-05-01T03:33:04.932130+00:00
-
- ## University Policies | UMD | University Policies | Home
- - [https://policies.umd.edu](https://policies.umd.edu)
- - date_published: 2024-07-02T03:39:19.788620+00:00
-
- ## Welcome to the Maryland Population Research Center — Maryland Population Research Center
- - [https://popcenter.umd.edu](https://popcenter.umd.edu)
- - date_published: 2024-04-30T03:50:06.126217+00:00
-
- ## Home | Office of Emergency Management and Business Continuity
- - [http://prepare.umd.edu](http://prepare.umd.edu)
- - date_published: 2024-07-02T03:25:27.345458+00:00
-
- ## Home | Office of the President
- - [https://president.umd.edu](https://president.umd.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Home | The Maryland Promise Scholarship Program
- - [https://promise.umd.edu](https://promise.umd.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Reimagining Teaching and Learning at UMD  The… | Office of the Provost
- - [https://provost.umd.edu](https://provost.umd.edu)
- - date_published: 2024-05-07T21:26:42.608062+00:00
-
- ## Shibboleth Authentication Request
- - [http://proxy-sm.researchport.umd.edu](http://proxy-sm.researchport.umd.edu)
- - date_published: 2024-06-30T01:19:47.214942+00:00
-
- ## MOSF Journal of Science Fiction
- - [http://publish.lib.umd.edu](http://publish.lib.umd.edu)
- - date_published: 2024-08-19T22:03:28.604617+00:00
-
- ## QuICS
- - [https://quics.umd.edu](https://quics.umd.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Drupal 8 Templates
- - [https://recwell.umd.edu](https://recwell.umd.edu)
- - date_published: 2024-07-02T03:36:30.433684+00:00
-
- ## Home | Office of the University Registrar
- - [https://registrar.umd.edu](https://registrar.umd.edu)
- - date_published: 2024-07-02T02:40:29+00:00
-
- ## UMD Research Home | Division of Research
- - [https://research.umd.edu](https://research.umd.edu)
- - date_published: 2024-07-02T03:40:14.521675+00:00
-
- ## Department of Resident Life - University of Maryland
- - [http://reslife.umd.edu](http://reslife.umd.edu)
- - date_published: 2024-07-01T18:06:13+00:00
-
- ## Maryland Robotics Center
- - [https://robotics.umd.edu](https://robotics.umd.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Institute for Robust Quantum Simulation (RQS)
- - [https://rqs.umd.edu](https://rqs.umd.edu)
- - date_published: 2024-07-20T23:39:01.430151+00:00
-
- ## Science Academy | College of Computer, Mathematical, and Natural Sciences | University of Maryland
- - [https://scienceacademy.umd.edu](https://scienceacademy.umd.edu)
- - date_published: 2024-05-07T21:26:56.514594+00:00
-
- ## University of Maryland | Search
- - [https://search.umd.edu](https://search.umd.edu)
- - date_published: 2023-06-07T21:05:12+00:00
-
- ## Cyber-Physical Systems Engineering | Cyber-Physical Systems Engineering
- - [https://shadygrove.ece.umd.edu](https://shadygrove.ece.umd.edu)
- - date_published: 2024-06-22T09:00:06+00:00
-
- ## Home | School of Languages, Literatures, and Cultures
- - [http://sllc.umd.edu](http://sllc.umd.edu)
- - date_published: 2024-09-18T02:31:23+00:00
-
- ## UMD Space Physics Group
- - [https://space.umd.edu](https://space.umd.edu)
- - date_published: 2024-05-23T10:04:51+00:00
-
- ## Home | University of Maryland | School of Public Health
- - [https://sph.umd.edu](https://sph.umd.edu)
- - date_published: 2023-10-25T19:01:57.872396+00:00
-
- ## Home | UMD School of Public Policy
- - [https://spp.umd.edu](https://spp.umd.edu)
- - date_published: 2024-07-02T03:37:41+00:00
-
- ## Home | Adele H. Stamp Student Union
- - [https://stamp.umd.edu](https://stamp.umd.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home | University of Maryland Strategic Plan
- - [https://strategicplan.umd.edu](https://strategicplan.umd.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | Division of Student Affairs
- - [http://studentaffairs.umd.edu](http://studentaffairs.umd.edu)
- - date_published: 2024-07-02T03:37:32.471413+00:00
-
- ## Summer Session | University of Maryland Extended Studies
- - [https://summer.umd.edu](https://summer.umd.edu)
- - date_published: 2024-07-01T22:04:17+00:00
-
- ## Homepage | SustainableUMD
- - [https://sustainability.umd.edu](https://sustainability.umd.edu)
- - date_published: 2024-07-02T03:36:19+00:00
-
- ## Talks
- - [https://talks.cs.umd.edu](https://talks.cs.umd.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Theatre, Dance, & Performance Studies | School of Theatre, Dance, and Performance Studies
- - [http://tdps.umd.edu](http://tdps.umd.edu)
- - date_published: 2024-07-01T19:38:03+00:00
-
- ## - TerpLink
- - [https://terplink.umd.edu](https://terplink.umd.edu)
- - date_published: 2024-07-02T03:38:02.804319+00:00
-
- ## Home
- - [https://terp.umd.edu](https://terp.umd.edu)
- - date_published: 2024-05-09T05:19:45.983807+00:00
-
- ## Unit Homepage
- - [https://terrapinstrong.umd.edu](https://terrapinstrong.umd.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## The Clarice Smith Performing Arts Center
- - [http://theclarice.umd.edu](http://theclarice.umd.edu)
- - date_published: 2024-07-02T03:35:57+00:00
 

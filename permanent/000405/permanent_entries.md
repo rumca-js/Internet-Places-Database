@@ -1,3 +1,251 @@
+ ## Novos automóveis, SUVs e veículos eléctricos da | Peugeot PT
+ - [https://www.peugeot.pt](https://www.peugeot.pt)
+ - date_published: 2024-10-28T13:33:25+00:00
+
+ ## Philips - Portugal
+ - [https://www.philips.pt](https://www.philips.pt)
+ - date_published: 2024-10-30T19:41:19+00:00
+
+ ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
+ - [https://phoenixnap.pt](https://phoenixnap.pt)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Pinterest
+ - [https://www.pinterest.pt](https://www.pinterest.pt)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Pixel Inquieto
+ - [https://pixel-inquieto.pt](https://pixel-inquieto.pt)
+ - date_published: 2024-09-05T15:41:54.802544+00:00
+
+ ## Home
+ - [http://www.placer.pt](http://www.placer.pt)
+ - date_published: 2024-07-02T19:00:49.946457+00:00
+
+ ## Compete2020
+ - [http://www.poci-compete2020.pt](http://www.poci-compete2020.pt)
+ - date_published: 2024-07-09T19:53:31.564932+00:00
+
+ ## pocketbook
+ - [https://pocketbook.pt](https://pocketbook.pt)
+ - date_published: 2024-07-20T16:11:55.956883+00:00
+
+ ## Início - ePortugal.gov.pt
+ - [https://www.portaldocidadao.pt](https://www.portaldocidadao.pt)
+ - date_published: 2024-07-09T20:10:21.412452+00:00
+
+ ## PORTAL DO CLIMA
+ - [http://portaldoclima.pt](http://portaldoclima.pt)
+ - date_published: 2024-08-07T22:48:17.304435+00:00
+
+ ## Portal do Eleitor
+ - [http://www.portaldoeleitor.pt](http://www.portaldoeleitor.pt)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Abre Horizontes - Porto Editora
+ - [http://www.portoeditora.pt](http://www.portoeditora.pt)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - PT2020
+ - [https://www.portugal2020.pt](https://www.portugal2020.pt)
+ - date_published: 2021-02-02T06:45:59+00:00
+
+ ## Wiki P@P
+ - [https://wiki.portugal-a-programar.pt](https://wiki.portugal-a-programar.pt)
+ - date_published: 2024-10-16T11:44:40.238681+00:00
+
+ ## Home - Portugal-a-Programar
+ - [https://www.portugal-a-programar.pt](https://www.portugal-a-programar.pt)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Melhores casinos online em Portugal
+ - [https://www.portugalcasino.pt](https://www.portugalcasino.pt)
+ - date_published: 2019-02-18T16:24:49+00:00
+
+ ## Homepage - Portugal Chama
+ - [https://portugalchama.pt](https://portugalchama.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## PiPplware
+ - [http://pipplware.pplware.pt](http://pipplware.pplware.pt)
+ - date_published: 2024-09-05T15:23:51.093692+00:00
+
+ ## Grupo Editorial Presença
+ - [http://www.presenca.pt](http://www.presenca.pt)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## PTisp. Wherever internet can take you...
+ - [https://ptisp.pt](https://ptisp.pt)
+ - date_published: 2024-09-04T15:13:42+00:00
+
+ ## Europe-Africa Space Earth Observation High-Level Forum
+ - [https://africaeurope-eoforum.ptspace.pt](https://africaeurope-eoforum.ptspace.pt)
+ - date_published: 2023-04-27T00:00:00+00:00
+
+ ## Portuguese Space Agency
+ - [https://ptspace.pt](https://ptspace.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## UN Portugal |
+ - [https://www.unportugal.ptspace.pt](https://www.unportugal.ptspace.pt)
+ - date_published: 2024-10-14T21:16:59.785040+00:00
+
+ ## Artéria - Lisboa contada por quem a tem no coração
+ - [https://arteria.publico.pt](https://arteria.publico.pt)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## page
+ - [https://comunique.publico.pt](https://comunique.publico.pt)
+ - date_published: 2020-12-04T15:31:07+00:00
+
+ ## Público Imobiliário
+ - [https://imobiliario.publico.pt](https://imobiliario.publico.pt)
+ - date_published: 2024-07-12T20:41:12.465377+00:00
+
+ ## Loja Público
+ - [https://loja.publico.pt](https://loja.publico.pt)
+ - date_published: 2024-07-12T20:40:58.970714+00:00
+
+ ## PÚBLICO
+ - [https://publico.pt](https://publico.pt)
+ - date_published: 2024-05-10T06:15:48.860838+00:00
+
+ ## PÚBLICO
+ - [https://static.publico.pt](https://static.publico.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home - Vozes de Gaia
+ - [https://vozesdegaia.publico.pt](https://vozesdegaia.publico.pt)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## PyCon Portugal 2023 Website
+ - [https://2023.pycon.pt](https://2023.pycon.pt)
+ - date_published: 2023-12-11T16:53:35+00:00
+
+ ## PyCon Portugal 2024 Website
+ - [https://2024.pycon.pt](https://2024.pycon.pt)
+ - date_published: 2024-07-01T03:52:46.992728+00:00
+
+ ## quidnovi.pt
+ - [http://www.quidnovi.pt](http://www.quidnovi.pt)
+ - date_published: 2024-07-12T20:50:11.364936+00:00
+
+ ## about
+ - [https://quiteade.pt](https://quiteade.pt)
+ - date_published: 2024-07-22T11:46:09.289770+00:00
+
+ ## Rádio online gratuita e transmissāo de música online
+ - [https://www.radio.pt](https://www.radio.pt)
+ - date_published: 2024-07-01T10:56:05.344184+00:00
+
+ ## Início
+ - [https://www.radioboanova.pt](https://www.radioboanova.pt)
+ - date_published: 2020-09-12T03:01:30+00:00
+
+ ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
+ - [http://www.radiosines.pt](http://www.radiosines.pt)
+ - date_published: 2024-09-05T15:27:55.275674+00:00
+
+ ## Rafael Albuquerque (rafaqueque)
+ - [https://rafael.pt](https://rafael.pt)
+ - date_published: 2024-05-28T17:47:18+00:00
+
+ ## Ralph Lauren® PT | Promoção de verão até 50% de desconto
+ - [https://www.ralphlauren.pt](https://www.ralphlauren.pt)
+ - date_published: 2024-06-19T23:58:36.332096+00:00
+
+ ## Revistas e colecionáveis ​​RBA (Loja Online) - RBA
+ - [https://loja.rbaportugal.pt](https://loja.rbaportugal.pt)
+ - date_published: 2024-10-14T22:52:39.148084+00:00
+
+ ## Rádio Clube de Angra |  A Voz da Terceira
+ - [https://rcangra.pt](https://rcangra.pt)
+ - date_published: 2024-09-05T15:04:59.689194+00:00
+
+ ## Rui Carlos Gonçalves
+ - [https://rcgoncalves.pt](https://rcgoncalves.pt)
+ - date_published: 2024-05-08T03:15:38.189196+00:00
+
+ ## RealGaming.pt - Notícias sobre jogos, revisões, análises guias and mais!
+ - [https://realgaming101.pt](https://realgaming101.pt)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Reativa | Marketing Digital | Fotografia | Filme | Design
+ - [https://www.reativa.pt](https://www.reativa.pt)
+ - date_published: 2024-09-05T14:02:05.455634+00:00
+
+ ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
+ - [http://www.record.pt](http://www.record.pt)
+ - date_published: 2024-06-25T18:52:17.480524+00:00
+
+ ## relampago
+ - [http://www.relampago.pt](http://www.relampago.pt)
+ - date_published: 2022-03-29T21:57:15+00:00
+
+ ## Relógio D'Água - Editores
+ - [http://www.relogiodagua.pt](http://www.relogiodagua.pt)
+ - date_published: 2023-09-19T10:14:46+00:00
+
+ ## RE/MAX Portugal
+ - [https://remax.pt](https://remax.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## JackHammer
+ - [https://media.rentals.pt](https://media.rentals.pt)
+ - date_published: 2024-09-05T14:57:55.300596+00:00
+
+ ## Rentals.pt - Casas, apartamentos e alojamento para férias
+ - [https://rentals.pt](https://rentals.pt)
+ - date_published: 2024-06-10T06:55:50.883934+00:00
+
+ ## Inicio
+ - [http://sines.repsol.pt](http://sines.repsol.pt)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## CITROËN COMPRE O SEU VEÍCULO - Avaliação gratuita do seu veículo
+ - [https://www.retoma-citroen.pt](https://www.retoma-citroen.pt)
+ - date_published: 2024-07-12T06:30:31.446254+00:00
+
+ ## Ricardo Bernardo
+ - [http://ricardobernardo.pt](http://ricardobernardo.pt)
+ - date_published: 2024-01-23T19:17:44+00:00
+
+ ## Rock in Rio Academy 2024
+ - [https://rockinrioacademy.pt](https://rockinrioacademy.pt)
+ - date_published: 2024-06-10T06:57:21.870118+00:00
+
+ ## Rock in Rio Lisboa
+ - [https://rockinriolisboa.pt](https://rockinriolisboa.pt)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Tech Rock Experience
+ - [https://techrocks.rockinriolisboa.pt](https://techrocks.rockinriolisboa.pt)
+ - date_published: 2024-06-18T19:14:58+00:00
+
+ ## Roma Editora
+ - [http://roma-editora.pt](http://roma-editora.pt)
+ - date_published: 2024-07-12T20:49:40.038164+00:00
+
+ ## Roman Imankulov
+ - [https://roman.pt](https://roman.pt)
+ - date_published: 2024-05-05T14:51:20+00:00
+
+ ## ROOFTOP EVA – Your summer start here
+ - [https://rooftop-eva.pt](https://rooftop-eva.pt)
+ - date_published: 2024-07-07T05:54:28.859070+00:00
+
+ ## Antena 1 - RTP
+ - [https://antena1.rtp.pt](https://antena1.rtp.pt)
+ - date_published: 2024-05-09T06:22:39.314246+00:00
+
+ ## RTP Arena - Esports
+ - [http://arena.rtp.pt](http://arena.rtp.pt)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## RTP Arquivos
+ - [https://arquivos.rtp.pt](https://arquivos.rtp.pt)
+ - date_published: 2024-05-09T06:22:41.568773+00:00
+
  ## IIS7
  - [http://docweb.rtp.pt](http://docweb.rtp.pt)
  - date_published: 2010-04-21T17:24:24+00:00
@@ -3784,253 +4032,4 @@
  ## Colorprinter - Colorprinter©
  - [https://colorprinter.ro](https://colorprinter.ro)
  - date_published: 2024-02-04T18:52:48+00:00
-
- ## HOME
- - [http://computergames.ro](http://computergames.ro)
- - date_published: 2024-06-23T17:44:41+00:00
-
- ## Verificare Firme Online - Lista Firme din Romania | Confidas
- - [http://www.confidas.ro](http://www.confidas.ro)
- - date_published: 2024-07-13T17:25:57.418897+00:00
-
- ## consuma-responsabil – Ce inseamna consumul responsabil de alcool
- - [http://www.consuma-responsabil.ro](http://www.consuma-responsabil.ro)
- - date_published: 2024-09-24T11:16:06.441121+00:00
-
- ## CORE Design - Agenție de web development creativ si design digital, Romania
- - [https://www.coredesign.ro](https://www.coredesign.ro)
- - date_published: 2024-06-28T05:35:17+00:00
-
- ## Crama Rasova
- - [https://cramarasova.ro](https://cramarasova.ro)
- - date_published: 2024-09-24T11:16:04.120274+00:00
-
- ## CrazyGames - Jocuri gratuite online pe CrazyGames.ro
- - [https://crazygames.ro](https://crazygames.ro)
- - date_published: 2024-05-08T06:50:51.209708+00:00
-
- ## Creative Broadcast
- - [https://creativebroadcast.ro](https://creativebroadcast.ro)
- - date_published: 2022-06-04T17:06:10+00:00
-
- ## Colțul de internet al lui ThinkRoot
- - [https://crism.ro](https://crism.ro)
- - date_published: 2024-08-06T06:15:09+00:00
-
- ## Cristina Chipurici – Spun povești care merită învățate
- - [https://cristinachipurici.ro](https://cristinachipurici.ro)
- - date_published: 2024-04-03T06:29:44.982769+00:00
- - tags: ['personal']
-
- ## Cristina Oțel
- - [https://www.cristinaotel.ro](https://www.cristinaotel.ro)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Acasă - Centrul Roman de Politici Europene
- - [http://www.crpe.ro](http://www.crpe.ro)
- - date_published: 2024-10-18T23:56:26.110546+00:00
-
- ## crypto.ro - Stiri despre Bitcoin si alte criptomonede
- - [http://crypto.ro](http://crypto.ro)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## the alliance by crypto.ro | community crypto conference
- - [https://events.crypto.ro](https://events.crypto.ro)
- - date_published: 2023-03-04T12:46:12+00:00
-
- ## Cryptonita.ro - Sursa Ta de Crypto Knowledge | Stiri Criptomonede | Pret & Curs Monede Virtuale
- - [https://cryptonita.ro](https://cryptonita.ro)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Redactează un CV de succes - Creator de CV-uri (gratuit)
- - [https://cvapp.ro](https://cvapp.ro)
- - date_published: 2024-05-06T09:21:30.799354+00:00
-
- ## CVapp.ro
- - [https://help.cvapp.ro](https://help.cvapp.ro)
- - date_published: 2024-06-22T22:18:43.955519+00:00
-
- ## Welcome · Dan Cătălin Burzo
- - [https://danburzo.ro](https://danburzo.ro)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## https://www.dancefm.ro/
- - [https://www.dancefm.ro](https://www.dancefm.ro)
- - date_published: 2024-08-18T08:47:48.432415+00:00
-
- ## Darius Lupșa
- - [https://dariuslupsa.ro](https://dariuslupsa.ro)
- - date_published: 2023-09-24T16:42:12+00:00
-
- ## RESPONSABILITATE SOCIALĂ DECATHLON ROMÂNIA
- - [https://csr.decathlon.ro](https://csr.decathlon.ro)
- - date_published: 2024-06-15T20:23:28.547912+00:00
-
- ## Decathlon | Magazinul tău de echipamente și articole sportive
- - [https://decathlon.ro](https://decathlon.ro)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Ajutor
- - [https://help.decathlon.ro](https://help.decathlon.ro)
- - date_published: 2024-09-19T15:10:26.314890+00:00
-
- ## Sfaturi Decathlon: Articole cu Informatii Sportive, Nutritie ...
- - [https://sfaturi.decathlon.ro](https://sfaturi.decathlon.ro)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Homepage
- - [https://support.decathlon.ro](https://support.decathlon.ro)
- - date_published: 2024-06-15T20:23:16.413188+00:00
-
- ## Dental House – Welcome to the family!
- - [https://dentalhouse.ro](https://dentalhouse.ro)
- - date_published: 2024-07-17T07:50:10.346872+00:00
-
- ## dexonline
- - [http://dexonline.ro](http://dexonline.ro)
- - date_published: 2024-06-30T07:23:51.578056+00:00
-
- ## Digi
- - [https://www.digi.ro](https://www.digi.ro)
- - date_published: 2024-10-28T12:30:30+00:00
-
- ## Digi24 - Stiri - Informația la putere!
- - [https://digi24.ro](https://digi24.ro)
- - date_published: 2023-12-28T01:24:07.795811+00:00
-
- ## Digi24 - Stiri - Informația la putere!
- - [https://m.digi24.ro](https://m.digi24.ro)
- - date_published: 2024-08-18T08:47:37.714974+00:00
-
- ## DigiFm.ro
- - [https://www.digifm.ro](https://www.digifm.ro)
- - date_published: 2024-08-18T08:47:34.539308+00:00
-
- ## DigiKey Home
- - [https://digikey.ro](https://digikey.ro)
- - date_published: 2024-05-01T05:03:01.399334+00:00
-
- ## Digi Online – vezi online știri, sport, filme, desene animate și documentare
- - [https://www.digionline.ro](https://www.digionline.ro)
- - date_published: 2024-08-18T08:47:55.661701+00:00
-
- ## Digi
- - [https://www.digiromania.ro](https://www.digiromania.ro)
- - date_published: 2024-08-16T11:29:44+00:00
-
- ## Digi Sport - stiri din sport, meciuri live - Spectacolul campionilor!
- - [https://digisport.ro](https://digisport.ro)
- - date_published: 2024-08-18T08:47:42.069813+00:00
-
- ## digitaliada.ro
- - [http://www.digitaliada.ro](http://www.digitaliada.ro)
- - date_published: 2024-10-18T23:56:53.675514+00:00
-
- ## Digital Nature
- - [http://digitalnature.ro](http://digitalnature.ro)
- - date_published: 2024-04-29T04:18:10.889878+00:00
-
- ## Digital Trip – Ghidul afacerii tale în online
- - [https://digitaltrip.ro](https://digitaltrip.ro)
- - date_published: 2024-09-10T13:40:09.140454+00:00
-
- ## Web design premium. Aplicații online complexe. Proiecte GIS.
- - [https://www.directdesign.ro](https://www.directdesign.ro)
- - date_published: 2024-06-17T11:28:42.684752+00:00
-
- ## Disney România | Disney oficial
- - [https://disney.ro](https://disney.ro)
- - date_published: 2024-06-16T01:51:00.062238+00:00
-
- ## Dixid NFC business card - DiXiD | Digital Business Cards
- - [https://dixid.ro](https://dixid.ro)
- - date_published: 2024-04-30T20:45:26+00:00
-
- ## dmyt.ro
- - [https://dmyt.ro](https://dmyt.ro)
- - date_published: 2024-07-13T04:04:08.436127+00:00
-
- ## dorinlazar.ro
- - [https://dorinlazar.ro](https://dorinlazar.ro)
- - date_published: 2023-10-25T22:35:40.022074+00:00
-
- ## Prezentare generală a problemei
- - [https://downdetector.ro](https://downdetector.ro)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Apache2 Debian Default Page: It works
- - [http://wmts.dpd.ro](http://wmts.dpd.ro)
- - date_published: 2017-03-25T16:33:35+00:00
-
- ## Acasă - Duracell
- - [https://www.duracell.ro](https://www.duracell.ro)
- - date_published: 2024-07-22T07:22:42+00:00
-
- ## Articole - ECOMpedia
- - [https://ecompedia.ro](https://ecompedia.ro)
- - date_published: 2024-09-19T15:00:28.464753+00:00
-
- ## Ministerul Educației
- - [https://www.edu.ro](https://www.edu.ro)
- - date_published: 2024-10-14T12:21:07+00:00
-
- ## EF Education First | România
- - [https://www.ef.ro](https://www.ef.ro)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Homepage
- - [http://www.elearning.ro](http://www.elearning.ro)
- - date_published: 2022-05-12T13:02:59+00:00
-
- ## Electrica - Societatea Energetică Electrica SA este lider pe piaţa de distribuție și furnizare a energiei electrice din România, precum și unul dintre cei mai importanți jucători din sectorul serviciilor energetice. Poziţia de top este susţinută atât de rezultatele economice, cât şi de o experienţă în domeniu ce se întinde pe mai mult de 120 ani.
- - [https://www.electrica.ro](https://www.electrica.ro)
- - date_published: 2024-08-19T16:34:28.922247+00:00
-
- ## Home | Revista online de biciclete electrice
- - [https://electrobike.ro](https://electrobike.ro)
- - date_published: 2024-09-19T14:59:15.094895+00:00
-
- ## elefant.ro - mallul online al familiei tale! • Branduri de top, preturi excelente • Peste 500.000 de produse pentru tine!
- - [https://www.elefant.ro](https://www.elefant.ro)
- - date_published: 2024-07-11T10:51:23.936802+00:00
-
- ## Un curs introductiv disponibil gratuit online despre inteligența artificială pentrunespecialiști
- - [https://www.elementsofai.ro](https://www.elementsofai.ro)
- - date_published: 2024-07-01T08:47:09.737873+00:00
-
- ## Bine ai venit la eMAG - Căutarea nu se oprește niciodată - eMAG
- - [https://about.emag.ro](https://about.emag.ro)
- - date_published: 2024-09-16T02:24:12.042194+00:00
-
- ## eMAG.ro - Căutarea nu se oprește niciodată
- - [https://emag.ro](https://emag.ro)
- - date_published: 2024-06-15T03:29:28.104552+00:00
-
- ## Confirmare email inregistrare - eMAG Marketplace Sellers
- - [https://marketplace-leads.emag.ro](https://marketplace-leads.emag.ro)
- - date_published: 2024-09-16T02:24:20.080407+00:00
-
- ## eMAG.ro
- - [https://sapi.emag.ro](https://sapi.emag.ro)
- - date_published: 2024-09-16T02:24:10.980010+00:00
-
- ## Creare site web profesional + solutii software✔️ End Soft Design
- - [https://endd.ro](https://endd.ro)
- - date_published: 2020-09-18T14:36:38+00:00
-
- ## Acasă - E-Romnja
- - [https://e-romnja.ro](https://e-romnja.ro)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## ESERO Romania – ESERO is an education project of the European Space Agency (ESA) co-funded by ESA and by national partners active in the fields of education and space.
- - [http://www.esero.ro](http://www.esero.ro)
- - date_published: 2024-10-14T21:22:14.096219+00:00
-
- ## Blog ESET România – Știri despre securitate, dezvăluiri și puncte de vedere ale experților ESET
- - [https://blog.eset.ro](https://blog.eset.ro)
- - date_published: 2024-09-26T10:30:17.364988+00:00
-
- ## Soluții de securitate antivirus și anti-malware | ESET
- - [https://eset.ro](https://eset.ro)
- - date_published: 2024-09-26T10:30:20.832061+00:00
 

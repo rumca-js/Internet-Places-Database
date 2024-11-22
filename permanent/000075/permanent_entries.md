@@ -1,3 +1,59 @@
+ ## New Hanover County, NC | Official Website
+ - [https://nc-newhanovercounty.civicplus.com](https://nc-newhanovercounty.civicplus.com)
+ - date_published: 2024-05-07T13:57:46.774395+00:00
+
+ ## Ashland, OR | Official Website
+ - [https://or-ashland.civicplus.com](https://or-ashland.civicplus.com)
+ - date_published: 2024-06-17T12:32:37.822738+00:00
+
+ ## Where activists and progresive causes stand together
+ - [https://civicshout.com](https://civicshout.com)
+ - date_published: 2024-09-02T10:33:24.005782+00:00
+
+ ## CivicSource.com – The Property Auction Authority®
+ - [https://www.civicsource.com](https://www.civicsource.com)
+ - date_published: 2024-06-15T03:18:12.774124+00:00
+
+ ## CIVIC
+ - [https://civicuk.com](https://civicuk.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## CivIdle
+ - [https://cividle.com](https://cividle.com)
+ - date_published: 2024-04-28T05:58:48.147900+00:00
+
+ ## Hawaii News: In-Depth Local News From Honolulu Civil Beat
+ - [http://www.civilbeat.com](http://www.civilbeat.com)
+ - date_published: 2024-07-15T06:01:19.074661+00:00
+
+ ## Home
+ - [https://civileats.com](https://civileats.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Civilengineerlink - Game populer Indonesia yang menyajikan informasi, berita, review Game Mobile danPC
+ - [https://civilengineerlink.com](https://civilengineerlink.com)
+ - date_published: 2024-08-20T04:07:22.396883+00:00
+
+ ## Civilian Reader
+ - [https://civilianreader.com](https://civilianreader.com)
+ - date_published: 2024-04-29T02:17:42.954344+00:00
+
+ ## Civilloquy - A community for general friendly discussion
+ - [https://civilloquy.com](https://civilloquy.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Civil Maps | HD Maps and Localization
+ - [https://civilmaps.com](https://civilmaps.com)
+ - date_published: 2020-11-02T13:32:23+00:00
+
+ ## Civil service, Westminster,  Whitehall news & analysis for civil servants | Civil Service World maga
+ - [https://www.civilserviceworld.com](https://www.civilserviceworld.com)
+ - date_published: 2024-10-23T06:54:53.736839+00:00
+
+ ## History of American Women - Colonial Women - 18th-19th Century Women - Civil War Women
+ - [https://www.civilwarwomenblog.com](https://www.civilwarwomenblog.com)
+ - date_published: 2024-10-29T18:20:41.114760+00:00
+
  ## Civiqs
  - [https://cdn.results.civiqs.com](https://cdn.results.civiqs.com)
  - date_published: 2024-06-13T20:05:42+00:00
@@ -3972,60 +4028,4 @@
  ## Cloud RADIUS
  - [https://www.cloudradius.com](https://www.cloudradius.com)
  - date_published: 2024-09-02T08:47:44+00:00
-
- ## Cloud Range | Cyber Range Simulation Solutions
- - [https://www.cloudrangecyber.com](https://www.cloudrangecyber.com)
- - date_published: 2024-06-20T16:45:03.877310+00:00
-
- ## Cloud Radio | A SaaS Podcast
- - [https://cloudradio.cloudratings.com](https://cloudradio.cloudratings.com)
- - date_published: 2024-10-19T11:59:40.040429+00:00
-
- ## Cloud Returns | A SaaS Investing Podcast
- - [https://cloudreturns.cloudratings.com](https://cloudreturns.cloudratings.com)
- - date_published: 2024-10-19T11:59:42.537099+00:00
-
- ## CloudRaya: Cloud for Every Need | VMs, Object Storage, KaaS, IaaS
- - [https://cloudraya.com](https://cloudraya.com)
- - date_published: 2021-11-02T05:48:04+00:00
-
- ## Cloudscaling
- - [http://cloudscaling.com](http://cloudscaling.com)
- - date_published: 2017-12-04T00:00:00+00:00
-
- ## Cloud & Cyber Security Expo London
- - [https://www.cloudsecurityexpo.com](https://www.cloudsecurityexpo.com)
- - date_published: 2024-10-22T06:34:49.249304+00:00
-
- ## https://www.cloudsek.com
- - [https://cloudsek.com](https://cloudsek.com)
- - date_published: 2024-01-10T21:16:05.705650+00:00
-
- ## Smarter Digital Customer Experience Transformation | Cloudsmartz
- - [https://cloudsmartz.com](https://cloudsmartz.com)
- - date_published: 2024-10-23T06:34:23.439020+00:00
-
- ## What's new on Cloudsmith | Beamer
- - [https://changelog.cloudsmith.com](https://changelog.cloudsmith.com)
- - date_published: 2024-05-21T02:49:31.466328+00:00
-
- ## Cloudsmith | Universal, cloud-native software artifact management
- - [https://cloudsmith.com](https://cloudsmith.com)
- - date_published: 2024-05-08T06:17:13.518921+00:00
-
- ## Simple Analytics
- - [https://simple.cloudsmith.com](https://simple.cloudsmith.com)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Cloudsmith
- - [https://support.cloudsmith.com](https://support.cloudsmith.com)
- - date_published: 2024-07-20T16:41:55.737222+00:00
-
- ## Cloudspace
- - [http://www.cloudspace.com](http://www.cloudspace.com)
- - date_published: 2017-02-08T19:07:53+00:00
-
- ## Home - Global IT Solutions & Managed Services Provider
- - [https://cloudspinx.com](https://cloudspinx.com)
- - date_published: 2024-05-29T09:38:11+00:00
 

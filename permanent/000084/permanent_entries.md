@@ -1,3 +1,64 @@
+ ## Deezer Community | Deezer Community, bringing music lovers together
+ - [https://en.deezercommunity.com](https://en.deezercommunity.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Deezer Investors
+ - [https://deezer-investors.com](https://deezer-investors.com)
+ - date_published: 2024-05-02T13:51:43+00:00
+
+ ## Ready to rock? - Deezer Jobs
+ - [https://deezerjobs.com](https://deezerjobs.com)
+ - date_published: 2023-12-19T15:32:43+00:00
+
+ ## Deezer tech services, business audio innovations
+ - [https://www.deezer-techservices.com](https://www.deezer-techservices.com)
+ - date_published: 2022-10-20T00:00:00+00:00
+
+ ## Sign Shop Panama City Beach | Deezigns & Graphics Sign Company 850-740-3598
+ - [http://deezignsngraphics.com](http://deezignsngraphics.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Automate Workflows with Default
+ - [https://www.default.com](https://www.default.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Def-Con News
+ - [https://defconnews.com](https://defconnews.com)
+ - date_published: 2024-07-04T01:28:38.940015+00:00
+
+ ## DEF CON Hacking Conference Online
+ - [http://defcononline.com](http://defcononline.com)
+ - date_published: 2024-02-05T19:20:30.491695+00:00
+ - tags: ['hacking']
+
+ ## MS-DEFCON patch alerts from AskWoody
+ - [https://defconpatch.com](https://defconpatch.com)
+ - date_published: 2024-09-04T01:07:17.972041+00:00
+
+ ## DefectDojo
+ - [https://defectdojo.com](https://defectdojo.com)
+ - date_published: 2024-06-28T19:29:13+00:00
+
+ ## defective yeti
+ - [https://defectiveyeti.com](https://defectiveyeti.com)
+ - date_published: 2020-08-26T20:17:07+00:00
+
+ ## Defector | The last good website.
+ - [https://defector.com](https://defector.com)
+ - date_published: 2023-10-25T13:48:09.544452+00:00
+
+ ## Defector | The last good website.
+ - [https://lede-admin.defector.com](https://lede-admin.defector.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Defector Store
+ - [https://defectorstore.com](https://defectorstore.com)
+ - date_published: 2024-05-01T04:31:55.281154+00:00
+
+ ## Strona główna
+ - [https://defence24.com](https://defence24.com)
+ - date_published: 2024-06-17T04:21:20.406736+00:00
+
  ## Defence Blog
  - [https://defence-blog.com](https://defence-blog.com)
  - date_published: 2023-06-27T15:28:10+00:00
@@ -3970,64 +4031,4 @@
  ## Evidence-based medicine | Deva Boone, MD
  - [https://devaboone.com](https://devaboone.com)
  - date_published: 2024-03-18T16:03:48.224318+00:00
-
- ## Devamanyu Hazarika
- - [https://www.devamanyu.com](https://www.devamanyu.com)
- - date_published: 2024-06-22T09:51:11.302887+00:00
-
- ## Tech Discovery and Inspiration
- - [https://api.devandgear.com](https://api.devandgear.com)
- - date_published: 2024-07-03T16:12:49.000016+00:00
-
- ## Tech Discovery and Inspiration
- - [https://devandgear.com](https://devandgear.com)
- - date_published: 2024-05-08T03:05:24.411783+00:00
-
- ## Dev & Gear status
- - [https://status.devandgear.com](https://status.devandgear.com)
- - date_published: 2024-07-03T16:12:52.530629+00:00
-
- ## Homepage - Devart Blog
- - [https://blog.devart.com](https://blog.devart.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Devart: Database Management Software and Developer Tools
- - [https://devart.com](https://devart.com)
- - date_published: 2024-06-16T20:04:52.055848+00:00
-
- ## Documentation
- - [https://docs.devart.com](https://docs.devart.com)
- - date_published: 2024-05-31T13:14:42+00:00
-
- ## Devart Forums - Index page
- - [http://forums.devart.com](http://forums.devart.com)
- - date_published: 2022-10-26T00:00:00+00:00
-
- ## Devasa Yazılım
- - [https://devasayazilim.com](https://devasayazilim.com)
- - date_published: 2024-07-17T07:48:51+00:00
-
- ## Do You Love as Good as You Lurk? | 💕 Devastatia 💕
- - [https://www.devastatia.com](https://www.devastatia.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## DevBcn 2024 - Barcelona Developers Conference in Spain — 13-14 — June
- - [https://www.devbcn.com](https://www.devbcn.com)
- - date_published: 2024-06-30T13:33:48+00:00
-
- ## Software Engineering Services
- - [https://www.devbridge.com](https://www.devbridge.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## AB Software Development
- - [http://www.dev-c.com](http://www.dev-c.com)
- - date_published: 2024-06-20T13:41:10.833041+00:00
-
- ## Cara's Blog
- - [https://devcara.com](https://devcara.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home • DEVCLASS
- - [https://devclass.com](https://devclass.com)
- - date_published: 2023-10-25T13:50:42.438218+00:00
 

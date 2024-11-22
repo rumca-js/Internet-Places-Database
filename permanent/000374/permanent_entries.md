@@ -1,3 +1,244 @@
+ ## Loogle!
+ - [https://loogle.lean-lang.org](https://loogle.lean-lang.org)
+ - date_published: 2024-04-29T06:16:20.387794+00:00
+ - tags: ['open source', 'application']
+
+ ## Lean Media: Amazon Consulting
+ - [https://leanmedia.org](https://leanmedia.org)
+ - date_published: 2024-11-08T11:42:58.490186+00:00
+
+ ## Site is undergoing maintenance
+ - [http://alumni.leapafrica.org](http://alumni.leapafrica.org)
+ - date_published: 2024-07-14T12:42:02.314864+00:00
+
+ ## LEAP Africa
+ - [https://leapafrica.org](https://leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## learnwithleapafrica
+ - [http://learn.leapafrica.org](http://learn.leapafrica.org)
+ - date_published: 2024-07-14T12:35:45.304928+00:00
+
+ ## Social Innovators Programme & Awards
+ - [https://sipa.leapafrica.org](https://sipa.leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## LeapChat
+ - [https://www.leapchat.org](https://www.leapchat.org)
+ - date_published: 2023-03-07T19:56:19+00:00
+
+ ## Leapfrog
+ - [https://www.leapfroggroup.org](https://www.leapfroggroup.org)
+ - date_published: 2024-07-19T04:40:14.213312+00:00
+
+ ## California Agriculture in the Classroom
+ - [https://learnaboutag.org](https://learnaboutag.org)
+ - date_published: 2024-07-08T11:54:29.925239+00:00
+
+ ## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date_published: 2023-10-25T21:38:15.033617+00:00
+
+ ## The World's First AI-Native Coding Bootcamp - LEARN Academy
+ - [https://learnacademy.org](https://learnacademy.org)
+ - date_published: 2024-10-18T05:41:10.302328+00:00
+
+ ## BCHS software stack: BSD, C, httpd, SQLite
+ - [https://learnbchs.org](https://learnbchs.org)
+ - date_published: 2020-05-11T14:51:49+00:00
+
+ ## Learn C - Free
+    Interactive C Tutorial
+ - [http://www.learn-c.org](http://www.learn-c.org)
+ - date_published: 2024-06-22T21:15:01+00:00
+
+ ## Learn Code the Hard Way
+ - [https://learncodethehardway.org](https://learncodethehardway.org)
+ - date_published: 2024-02-28T01:19:33+00:00
+
+ ## Learn C++
+ - [https://learncplusplus.org](https://learncplusplus.org)
+ - date_published: 2024-05-02T07:51:42.877800+00:00
+
+ ## Learn Datalog Today!
+ - [https://www.learndatalogtoday.org](https://www.learndatalogtoday.org)
+ - date_published: 2013-01-01T00:00:00+00:00
+
+ ## Learn Delphi
+ - [https://learndelphi.org](https://learndelphi.org)
+ - date_published: 2017-11-17T15:19:40+00:00
+ - tags: ['programming language', 'delphi']
+
+ ## Cierpliwości...
+ - [https://learner.org](https://learner.org)
+ - date_published: 2024-05-07T15:55:17.518248+00:00
+
+ ## Institute of General Semantics - Home
+ - [http://learn-gs.org](http://learn-gs.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Learn How To Learn - Learn How To Learn
+ - [https://learnhowtolearn.org](https://learnhowtolearn.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## LEARNIAC | E-Learning, Online-Kurse & Schulungen
+ - [https://www.learniac.org](https://www.learniac.org)
+ - date_published: 2024-10-21T09:22:05.052778+00:00
+
+ ## Learning4You – Courseware for Mastery
+ - [https://learning4you.org](https://learning4you.org)
+ - date_published: 2024-07-03T19:05:43.467924+00:00
+
+ ## Kolibri
+ - [https://kolibridemo.learningequality.org](https://kolibridemo.learningequality.org)
+ - date_published: 2024-07-06T23:47:48.366388+00:00
+
+ ## Home | Learning Equality
+ - [https://learningequality.org](https://learningequality.org)
+ - date_published: 2024-07-06T23:47:46.957405+00:00
+
+ ## Home - Zarlengo Foundation Learning Evaluation Center
+ - [https://learningevaluationcenter.org](https://learningevaluationcenter.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Learning for Justice | Education Resources
+ - [https://www.learningforjustice.org](https://www.learningforjustice.org)
+ - date_published: 2024-08-18T18:24:12+00:00
+
+ ## Learning for Real
+ - [https://www.learningforreal.org](https://www.learningforreal.org)
+ - date_published: 2024-06-27T17:22:00.495687+00:00
+
+ ## Welcome to Learning Policy Institute
+ - [https://learningpolicyinstitute.org](https://learningpolicyinstitute.org)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Max Planck ETH Center for Learning Systems
+ - [http://learning-systems.org](http://learning-systems.org)
+ - date_published: 2024-06-22T11:14:15.379906+00:00
+
+ ## ACL - Association for Computational Learning
+ - [https://learningtheory.org](https://learningtheory.org)
+ - date_published: 2024-04-09T21:57:08+00:00
+
+ ## The Coding Career Handbook
+ - [https://learninpublic.org](https://learninpublic.org)
+ - date_published: 2024-05-06T13:29:22.054929+00:00
+
+ ## Learn LaTeX | learnlatex.org
+ - [https://learnlatex.org](https://learnlatex.org)
+ - date_published: 2024-04-25T12:07:38+00:00
+ - tags: ['latex', 'tutorials']
+
+ ## Home | Learn Liberty
+ - [http://www.learnliberty.org](http://www.learnliberty.org)
+ - date_published: 2024-07-03T22:20:37.240867+00:00
+
+ ## Learn Linux and LibreOffice
+ - [https://learnlinuxandlibreoffice.org](https://learnlinuxandlibreoffice.org)
+ - date_published: 2024-07-15T03:12:46+00:00
+
+ ## Learning & Memory
+ - [http://learnmem.org](http://learnmem.org)
+ - date_published: 2024-06-17T11:48:44.825691+00:00
+
+ ## Learning and Memory Manuscript Processing System
+ - [http://submit.learnmem.org](http://submit.learnmem.org)
+ - date_published: 2024-10-19T04:09:24.579729+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://learnnavi.org](https://learnnavi.org)
+ - date_published: 2024-06-19T17:36:33+00:00
+ - tags: ['pandora', 'avatar']
+
+ ## Organic Intelligence®
+ - [https://www.learnoi.org](https://www.learnoi.org)
+ - date_published: 2024-09-12T19:02:11.397859+00:00
+
+ ## Learn Prompting: Your Guide to Communicating with AI
+ - [https://learnprompting.org](https://learnprompting.org)
+ - date_published: 2024-05-11T08:25:56.695517+00:00
+
+ ## Learn Python - Free Interactive Python Tutorial
+ - [https://www.learnpython.org](https://www.learnpython.org)
+ - date_published: 2024-07-19T21:58:14+00:00
+
+ ## Learn Python the Hard Way
+ - [https://learnpythonthehardway.org](https://learnpythonthehardway.org)
+ - date_published: 2024-04-22T01:09:51+00:00
+
+ ## Learn Sanskrit Online
+ - [http://www.learnsanskrit.org](http://www.learnsanskrit.org)
+ - date_published: 2023-01-09T05:51:36+00:00
+
+ ## LearnTechLib: Learning & Technology Library
+ - [https://www.learntechlib.org](https://www.learntechlib.org)
+ - date_published: 2024-07-26T05:18:22.734450+00:00
+
+ ## Learn-to-Race
+ - [https://learn-to-race.org](https://learn-to-race.org)
+ - date_published: 2022-08-23T04:21:59+00:00
+
+ ## Welcome learntoskiandsnowboard.org - BlueHost.com
+ - [http://learntoskiandsnowboard.org](http://learntoskiandsnowboard.org)
+ - date_published: 2024-10-11T21:31:46.148942+00:00
+
+ ## Leather Panel
+ - [http://leatherpanel.org](http://leatherpanel.org)
+ - date_published: 2024-10-20T14:55:38.605396+00:00
+
+ ## Lebanon Lodge #175
+ - [https://lebanonlodge175.org](https://lebanonlodge175.org)
+ - date_published: 2024-10-19T09:54:02.638564+00:00
+
+ ## Le BIB : hackerspace à Montpellier
+ - [https://lebib.org](https://lebib.org)
+ - date_published: 2024-04-28T06:13:29.834059+00:00
+
+ ## Le Blog d'Eric Granier
+ - [http://leblogdericgranier.org](http://leblogdericgranier.org)
+ - date_published: 2024-07-10T06:52:49.295980+00:00
+
+ ## Le CECIL
+ - [http://www.lececil.org](http://www.lececil.org)
+ - date_published: 2023-05-14T00:00:00+00:00
+
+ ## Law Enforcement Charitable Foundation, Inc.
+ - [https://give.lecf-inc.org](https://give.lecf-inc.org)
+ - date_published: 2024-06-25T16:05:44.317866+00:00
+
+ ## LECF-INC.ORG
+ - [https://www.lecf-inc.org](https://www.lecf-inc.org)
+ - date_published: 2024-05-06T17:13:26.777711+00:00
+
+ ## Le CNEF | CNEF
+ - [http://www.lecnef.org](http://www.lecnef.org)
+ - date_published: 2024-07-08T12:20:01.125632+00:00
+
+ ## Welcome
+ - [https://lecticalive.org](https://lecticalive.org)
+ - date_published: 2024-06-12T12:50:15.603295+00:00
+
+ ## les Le Cun
+ - [http://www.lecun.org](http://www.lecun.org)
+ - date_published: 2003-08-20T06:37:25+00:00
+
+ ## Latino Economic Development Center – LEDC – An association of Latino entrepreneurs and leaders in the state of Minnesota
+ - [http://www.ledcmn.org](http://www.ledcmn.org)
+ - date_published: 2024-09-18T21:44:22.144718+00:00
+
+ ## Ledger
+ - [https://git.ledger-cli.org](https://git.ledger-cli.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## ledger, a powerful command-line accounting system - ledger
+ - [https://ledger-cli.org](https://ledger-cli.org)
+ - date_published: 2024-05-08T11:45:24.400260+00:00
+
+ ## Ledger - Google Groups
+ - [https://list.ledger-cli.org](https://list.ledger-cli.org)
+ - date_published: 2024-05-08T11:45:46.713617+00:00
+
  ## Home
  - [https://wiki.ledger-cli.org](https://wiki.ledger-cli.org)
  - date_published: 2024-07-03T06:58:19.397475+00:00
@@ -3797,243 +4038,4 @@ Intro
  ## Free Online Loudness Analyser | LUFS
  - [https://lufs.org](https://lufs.org)
  - date_published: 2024-06-22T12:57:03.990602+00:00
-
- ## LUGBZ
- - [https://www.lugbz.org](https://www.lugbz.org)
- - date_published: 2024-07-21T05:51:08.075117+00:00
-
- ## LugRadio archive
- - [https://audio.lugradio.org](https://audio.lugradio.org)
- - date_published: 2005-12-16T00:21:00+00:00
-
- ## Linux radio show - LugRadio
- - [https://lugradio.org](https://lugradio.org)
- - date_published: 2024-06-16T03:11:37.138515+00:00
-
- ## Luis Pedro Coelho
- - [https://luispedro.org](https://luispedro.org)
- - date_published: 2024-07-08T10:34:02.782871+00:00
-
- ## Luke Harold Miles
- - [https://lukemiles.org](https://lukemiles.org)
- - date_published: 2023-05-24T19:16:24+00:00
-
- ## lukemiller.org – Miscellaneous topics vaguely related to science
- - [https://lukemiller.org](https://lukemiller.org)
- - date_published: 2024-05-09T04:24:16.287556+00:00
-
- ## Home - Luke's Wings - Flying Families. Lifting Spirits.
- - [https://lukeswings.org](https://lukeswings.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Dariusz Łuksza
- - [https://luksza.org](https://luksza.org)
- - date_published: 2024-07-18T12:27:00.300464+00:00
-
- ## LUMA Arles
- - [https://www.luma.org](https://www.luma.org)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## The Lumen Christi Institute
- - [https://lumenchristi.org](https://lumenchristi.org)
- - date_published: 2024-10-19T11:49:23.193991+00:00
-
- ## Lumen
- - [https://lumendatabase.org](https://lumendatabase.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home - Lumina Studio Theatre
- - [https://www.luminastudio.org](https://www.luminastudio.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## KOKI NAGANO
- - [https://luminohope.org](https://luminohope.org)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Lumoz | ZK-RaaS Network Featuring ZKP Mining
- - [https://lumoz.org](https://lumoz.org)
- - date_published: 2024-09-23T16:32:09.611637+00:00
-
- ## Lumpen Magazine
- - [http://www.lumpenmagazine.org](http://www.lumpenmagazine.org)
- - date_published: 2024-06-30T02:10:52.320071+00:00
-
- ## LUNAR - Livermore Unit of the NAR
- - [http://www.lunar.org](http://www.lunar.org)
- - date_published: 2023-02-24T00:53:55+00:00
-
- ## LunarVim | LunarVim
- - [https://www.lunarvim.org](https://www.lunarvim.org)
- - date_published: 2024-05-20T07:14:47+00:00
-
- ## Help Us Solve The Cruel Mystery
- - [https://www.lupus.org](https://www.lupus.org)
- - date_published: 2024-06-28T11:44:37+00:00
-
- ## Lupus Canada Home
- - [https://lupuscanada.org](https://lupuscanada.org)
- - date_published: 2024-03-04T09:39:56+00:00
-
- ## #LupusChat
- - [http://lupuschat.org](http://lupuschat.org)
- - date_published: 2024-06-28T12:11:18.469868+00:00
-
- ## Home - Community - Lupus Europe
- - [https://www.lupus-europe.org](https://www.lupus-europe.org)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Lupus Society of Illinois
- - [https://www.lupusil.org](https://www.lupusil.org)
- - date_published: 2015-04-28T00:00:00+00:00
-
- ## Homepage - Lupus Foundation New England
- - [http://www.lupusne.org](http://www.lupusne.org)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Lupus Research Alliance
- - [https://www.lupusresearch.org](https://www.lupusresearch.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## The Lura Project
- - [https://luraproject.org](https://luraproject.org)
- - date_published: 2023-03-14T14:12:31+00:00
-
- ## Lurie Children's
- - [https://www.luriechildrens.org](https://www.luriechildrens.org)
- - date_published: 2024-06-28T19:34:45.956148+00:00
-
- ## LURK
- - [https://lurk.org](https://lurk.org)
- - date_published: 2024-02-16T17:17:19+00:00
-
- ## post.lurk.org
- - [https://post.lurk.org](https://post.lurk.org)
- - date_published: 2024-05-08T10:29:30.909903+00:00
-
- ## Argument Computer Corporation
- - [https://lurk-lang.org](https://lurk-lang.org)
- - date_published: 2024-08-17T22:29:36.779633+00:00
-
- ## Home Page for David Drysdale
- - [https://lurklurk.org](https://lurklurk.org)
- - date_published: 2023-10-25T21:39:48.617218+00:00
-
- ## lists.lustre.org Mailing Lists
- - [http://lists.lustre.org](http://lists.lustre.org)
- - date_published: 2024-07-07T04:00:19.709426+00:00
-
- ## Lutherans Restoring Creation
- - [https://lutheransrestoringcreation.org](https://lutheransrestoringcreation.org)
- - date_published: 2018-03-03T00:00:00+00:00
-
- ## Lux Mentis
- - [https://luxmentis.org](https://luxmentis.org)
- - date_published: 2024-06-23T15:00:11.349824+00:00
-
- ## Las Vegas-Clark County Library District
- - [https://lvccld.org](https://lvccld.org)
- - date_published: 2024-06-30T01:25:58.121876+00:00
-
- ## Leavenworth, Kansas |
- - [https://www.lvks.org](https://www.lvks.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## LWJGL - Lightweight Java Game Library
- - [https://lwjgl.org](https://lwjgl.org)
- - date_published: 2024-04-25T17:16:25+00:00
- - tags: ['java', 'game library', 'game development']
-
- ## Startseite
- - [https://www.lwl.org](https://www.lwl.org)
- - date_published: 2024-07-03T11:03:49.303480+00:00
-
- ## LXDE Blog
- - [https://blog.lxde.org](https://blog.lxde.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## LXDE Forums - Index page
- - [https://forum.lxde.org](https://forum.lxde.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## LXDE
- - [https://lxde.org](https://lxde.org)
- - date_published: 2024-02-08T19:05:31+00:00
- - tags: ['linux desktop environment']
-
- ## LXQt - The Lightweight Qt Desktop Environment
- - [https://lxqt-project.org](https://lxqt-project.org)
- - date_published: 2024-03-18T20:28:55.233986+00:00
- - tags: ['linux desktop environment']
-
- ## LXQt Weblate
- - [https://translate.lxqt-project.org](https://translate.lxqt-project.org)
- - date_published: 2024-05-11T08:03:21.449084+00:00
-
- ## NameBright - Coming Soon
- - [http://lycheejs.org](http://lycheejs.org)
- - date_published: 2024-05-11T10:34:27.420304+00:00
-
- ## Lyman Allyn Art Museum - welcome
- - [https://www.lymanallyn.org](https://www.lymanallyn.org)
- - date_published: 2024-06-27T01:36:29+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://bulgarian.lymphoma-net.org](https://bulgarian.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://czech.lymphoma-net.org](https://czech.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://french.lymphoma-net.org](https://french.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://german.lymphoma-net.org](https://german.lymphoma-net.org)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://hungarian.lymphoma-net.org](https://hungarian.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://indonesian.lymphoma-net.org](https://indonesian.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://italian.lymphoma-net.org](https://italian.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://lymphoma-net.org](https://lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://portuguese.lymphoma-net.org](https://portuguese.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://russian.lymphoma-net.org](https://russian.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Lymphoma Net - non-Hodgkin's lymphoma symptoms, treatment & disease information
- - [https://spanish.lymphoma-net.org](https://spanish.lymphoma-net.org)
- - date_published: 2024-01-11T04:20:18+00:00
-
- ## Dr. Linus Dietz
- - [http://lynyus.org](http://lynyus.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## LyonJUG
- - [https://lyonjug.org](https://lyonjug.org)
- - date_published: 2024-07-28T15:55:05+00:00
-
- ## Cenbe's Web Site
- - [https://www.lyonlabs.org](https://www.lyonlabs.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Welcome to lyra.org
- - [http://www.lyra.org](http://www.lyra.org)
- - date_published: 2024-05-02T09:37:59.861819+00:00
 

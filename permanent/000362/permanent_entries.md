@@ -1,3 +1,216 @@
+ ## Corpos Informáticos
+ - [http://www.corpos.org](http://www.corpos.org)
+ - date_published: 2021-04-08T22:25:39+00:00
+
+ ## Full-text data from English-Corpora.org: billions of words of downloadable data
+ - [https://www.corpusdata.org](https://www.corpusdata.org)
+ - date_published: 2024-06-30T07:28:18.044414+00:00
+
+ ## Corpus del Español: 10 billion words: Dialects / Genres / Historical
+ - [http://www.corpusdelespanol.org](http://www.corpusdelespanol.org)
+ - date_published: 2024-07-02T09:46:24.708224+00:00
+
+ ## Corpus do Português: 2.5 billion words: Dialects / Genres / Historical
+ - [http://www.corpusdoportugues.org](http://www.corpusdoportugues.org)
+ - date_published: 2024-07-02T09:46:07.151963+00:00
+
+ ## About CorpWatch | corpwatch
+ - [https://corpwatch.org](https://corpwatch.org)
+ - date_published: 2023-10-25T21:10:20.522811+00:00
+
+ ## CORRECTIV | Recherchen für die Gesellschaft
+ - [https://correctiv.org](https://correctiv.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.correctiv.org](https://matomo.correctiv.org)
+ - date_published: 2024-06-17T11:26:45.057000+00:00
+
+ ## CORRECTIV.Verlag - Bücher für die Gesellschaft
+ - [https://shop.correctiv.org](https://shop.correctiv.org)
+ - date_published: 2024-06-17T11:26:50.642482+00:00
+
+ ## Spendengerichte Datenbank - CORRECTIV
+ - [https://spendengerichte.correctiv.org](https://spendengerichte.correctiv.org)
+ - date_published: 2024-06-17T11:26:53.782832+00:00
+
+ ## CORRECTIV – ANONYMER BRIEFKASTEN
+ - [https://correctiv-upload.org](https://correctiv-upload.org)
+ - date_published: 2024-06-28T21:41:11.475143+00:00
+
+ ## Correlated
+ - [https://correlated.org](https://correlated.org)
+ - date_published: 2024-05-07T09:15:22.592753+00:00
+
+ ## CORSAIRE
+ - [https://corsaire.org](https://corsaire.org)
+ - date_published: 2024-04-30T08:02:44.585548+00:00
+ - tags: ['radio station', 'interesting page design']
+
+ ## Radio CORSAIRE
+ - [https://radio.corsaire.org](https://radio.corsaire.org)
+ - date_published: 2024-07-08T19:35:36.893327+00:00
+
+ ## SOS CORSAIRE
+ - [https://sos.corsaire.org](https://sos.corsaire.org)
+ - date_published: 2024-07-08T19:35:41.874486+00:00
+
+ ## corsix.org
+ - [https://corsix.org](https://corsix.org)
+ - date_published: 2023-10-25T21:10:23.384582+00:00
+
+ ## CorsixTH
+ - [http://th.corsix.org](http://th.corsix.org)
+ - date_published: 2014-01-02T17:39:07+00:00
+
+ ## CorteX - Le Cortecs
+ - [https://cortecs.org](https://cortecs.org)
+ - date_published: 2024-07-10T06:24:45.614208+00:00
+
+ ## Corteza - Corteza
+ - [https://cortezaproject.org](https://cortezaproject.org)
+ - date_published: 2023-12-01T11:00:47+00:00
+
+ ## Corteza
+ - [https://forum.cortezaproject.org](https://forum.cortezaproject.org)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## One
+ - [https://latest.cortezaproject.org](https://latest.cortezaproject.org)
+ - date_published: 2024-06-19T22:08:40.292779+00:00
+
+ ## Cortland County, NY | Official Website
+ - [https://www.cortland-co.org](https://www.cortland-co.org)
+ - date_published: 2024-09-18T04:09:17.214340+00:00
+
+ ## Corvallis Folklore Society | Where the community gathers for music, dancing and more
+ - [http://corvallisfolklore.org](http://corvallisfolklore.org)
+ - date_published: 2024-08-20T05:17:15.845972+00:00
+
+ ## COSADE: Constructive Side-Channel Analysis and Secure Design 2024
+ - [https://www.cosade.org](https://www.cosade.org)
+ - date_published: 2024-03-22T09:54:08+00:00
+
+ ## Council on Substance Abuse-NCADD – Our mission is to reduce the incidence and prevalence of the disease of alcoholism, other drug addiction diseases, and related problems
+ - [https://cosancadd.org](https://cosancadd.org)
+ - date_published: 2024-06-30T00:01:11+00:00
+
+ ## Inicio - COSEFIN
+ - [https://cosefin.org](https://cosefin.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## COSI - Center of Science and Industry
+ - [https://cosi.org](https://cosi.org)
+ - date_published: 2024-10-18T06:56:52.347450+00:00
+
+ ## Cosmebio - The organic cosmetics label since 2002
+ - [https://www.cosmebio.org](https://www.cosmebio.org)
+ - date_published: 2017-11-15T16:04:42.795808+00:00
+
+ ## Welcome to Cosmic Diary
+ - [http://www.cosmicdiary.org](http://www.cosmicdiary.org)
+ - date_published: 2024-08-18T20:26:59.340425+00:00
+
+ ## COSMO Site
+ - [http://www.cosmo-model.org](http://www.cosmo-model.org)
+ - date_published: 2024-04-23T04:52:07+00:00
+
+ ## H2020 Project | COSMOS - DevOps for CPS
+ - [https://www.cosmos-devops.org](https://www.cosmos-devops.org)
+ - date_published: 2024-07-07T10:18:22.958780+00:00
+
+ ## CosmoStat – An AIM laboratory  @CEA Saclay
+ - [http://www.cosmostat.org](http://www.cosmostat.org)
+ - date_published: 2024-07-08T15:40:35.027968+00:00
+
+ ## Cosmoverse 2024 – Dubai – October 21-22
+ - [https://cosmoverse.org](https://cosmoverse.org)
+ - date_published: 2024-05-01T05:40:45.455471+00:00
+
+ ## COSS/LAB
+ - [https://cosslab.org](https://cosslab.org)
+ - date_published: 2024-07-01T15:00:30.770504+00:00
+
+ ## COST-G | Combination Service for Time-variable Gravity Fields
+ - [https://cost-g.org](https://cost-g.org)
+ - date_published: 2024-10-14T21:39:43.257156+00:00
+
+ ## Costume-Con 42 - Costume-Con 42
+ - [https://costumecon42.org](https://costumecon42.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Corvallis-OSU Symphony Orchestra
+ - [http://www.cosusymphony.org](http://www.cosusymphony.org)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## COTA Home
+ - [http://www.cota-home.org](http://www.cota-home.org)
+ - date_published: 2024-04-22T05:16:35+00:00
+
+ ## coTer numérique
+ - [https://coter-numerique.org](https://coter-numerique.org)
+ - date_published: 2024-08-11T07:37:02.596814+00:00
+
+ ## COtrip Traveler Information
+ - [https://www.cotrip.org](https://www.cotrip.org)
+ - date_published: 2024-05-30T02:13:29+00:00
+
+ ## A Blog Around The Clock
+ - [http://blog.coturnix.org](http://blog.coturnix.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## CouchDB Blog
+ - [https://blog.couchdb.org](https://blog.couchdb.org)
+ - date_published: 2024-06-26T14:52:42+00:00
+
+ ## Apache CouchDB Conf • Vancouver, Canada • November 13, 2013
+ - [http://conf.couchdb.org](http://conf.couchdb.org)
+ - date_published: 2013-11-13T00:00:00+00:00
+
+ ## Overview — Apache CouchDB® 3.3 Documentation
+ - [https://docs.couchdb.org](https://docs.couchdb.org)
+ - date_published: 2024-01-03T16:04:00+00:00
+
+ ## Frédéric Couchet
+ - [https://www.couchet.org](https://www.couchet.org)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Couchsurfing
+ - [http://couchsurfing.org](http://couchsurfing.org)
+ - date_published: 2024-09-03T21:09:33.457365+00:00
+
+ ## CEE: eCommerce Website
+ - [http://ve.councilforeconed.org](http://ve.councilforeconed.org)
+ - date_published: 2024-08-18T19:42:35.714955+00:00
+
+ ## Financial Knowledge Organization for Youth | CEE
+ - [https://www.councilforeconed.org](https://www.councilforeconed.org)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## International Council for Helplines
+ - [http://www.councilforhelplines.org](http://www.councilforhelplines.org)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Council for Responsible Sport
+ - [https://www.councilforresponsiblesport.org](https://www.councilforresponsiblesport.org)
+ - date_published: 2024-06-19T17:50:54.451955+00:00
+
+ ## Council for the National Interest
+ - [https://councilforthenationalinterest.org](https://councilforthenationalinterest.org)
+ - date_published: 2024-09-16T20:12:08.407493+00:00
+
+ ## Nonprofit Jobs and Careers | Find a Job in the Nonprofit Sector
+ - [https://careers.councilofnonprofits.org](https://careers.councilofnonprofits.org)
+ - date_published: 2024-07-09T20:39:22.871508+00:00
+
+ ## National Council of Nonprofits
+ - [https://councilofnonprofits.org](https://councilofnonprofits.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Council on Strategic Risks - Anticipating, Analyzing, and Addressing Systemic Risks
+ - [https://councilonstrategicrisks.org](https://councilonstrategicrisks.org)
+ - date_published: 2024-06-17T10:47:53+00:00
+
  ## The Count Basie Center for the Arts
  - [http://countbasietheatre.org](http://countbasietheatre.org)
  - date_published: 2024-09-13T00:00:00+00:00
@@ -3315,6 +3528,7 @@ irc logs at libera.irclog.whitequark.org
  ## Dark Reader — dark theme for every website
  - [https://darkreader.org](https://darkreader.org)
  - date_published: 2024-05-09T05:48:32.034498+00:00
+ - tags: ['browser extension']
 
  ## ASIC Clouds, Dark Silicon, Tiled Processors, Specialization, Vision and Bitcoin
  - [http://darksilicon.org](http://darksilicon.org)
@@ -3824,217 +4038,4 @@ irc logs at libera.irclog.whitequark.org
  ## Davidson Institute: Programs & Support for the Profoundly Gifted
  - [https://www.davidsongifted.org](https://www.davidsongifted.org)
  - date_published: 2024-08-19T00:00:00+00:00
-
- ## DavidTan.org
- - [http://www.davidtan.org](http://www.davidtan.org)
- - date_published: 2024-10-27T12:11:17.266812+00:00
-
- ## DAVIS: Densely Annotated VIdeo Segmentation
- - [https://davischallenge.org](https://davischallenge.org)
- - date_published: 2023-01-26T20:27:43+00:00
-
- ## Home - Davis Legacy Soccer Club
- - [https://davislegacysoccer.org](https://davislegacysoccer.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Davmac.org - software and stuff
- - [https://davmac.org](https://davmac.org)
- - date_published: 2023-09-22T08:16:21+00:00
-
- ## Brattleboro Dawn Dances
- - [https://dawndance.org](https://dawndance.org)
- - date_published: 2024-08-20T05:22:56.450043+00:00
-
- ## Democracy for the Arab World Now - DAWN - Home
- - [https://dawnmena.org](https://dawnmena.org)
- - date_published: 2023-10-25T21:12:58.207782+00:00
-
- ## DaXHordes.org - Comunidad scener de PS4, PS3, PS Vita y PSP
- - [https://daxhordes.org](https://daxhordes.org)
- - date_published: 2024-05-07T09:43:12.145490+00:00
-
- ## Day Air Credit Union | Perks Checking and Higher Dividends
- - [https://dayair.org](https://dayair.org)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Daybreak
- - [https://daybreakgame.org](https://daybreakgame.org)
- - date_published: 2024-07-10T08:31:33.411192+00:00
-
- ## Adam Lee's Homepage
- - [http://www.daylightatheism.org](http://www.daylightatheism.org)
- - date_published: 2023-02-25T00:21:26+00:00
-
- ## Daylight Books
- - [https://daylightbooks.org](https://daylightbooks.org)
- - date_published: 2024-09-20T14:43:54.987817+00:00
-
- ## Day One Project - Federation of American Scientists
- - [https://www.dayoneproject.org](https://www.dayoneproject.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Daytonabeachswimming - Cara Menghancurkan Turret Lawan Game League of Legends
- - [https://daytonabeachswimming.org](https://daytonabeachswimming.org)
- - date_published: 2024-08-20T04:13:48.935384+00:00
-
- ## Dayton Codebreakers | A story so important it was secret for 50 years
- - [https://www.daytoncodebreakers.org](https://www.daytoncodebreakers.org)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Dayton Metro Library
- - [https://www.daytonmetrolibrary.org](https://www.daytonmetrolibrary.org)
- - date_published: 2024-07-20T21:44:55.278048+00:00
-
- ## DazeEnd.org
- - [https://dazeend.org](https://dazeend.org)
- - date_published: 2024-06-23T14:53:18.042409+00:00
-
- ## Python Training by Dan Bader – dbader.org
- - [https://dbader.org](https://dbader.org)
- - date_published: 2024-06-28T19:53:11.998211+00:00
-
- ## David Baron
- - [https://dbaron.org](https://dbaron.org)
- - date_published: 2008-01-19T00:00:00+00:00
-
- ## Desert Botanical Garden in Phoenix, Arizona | DBG
- - [https://dbg.org](https://dbg.org)
- - date_published: 2024-06-21T01:56:41.686521+00:00
-
- ## home | dbinvest
- - [https://dbinvest.org](https://dbinvest.org)
- - date_published: 2023-06-23T15:10:10+00:00
- - tags: ['personal']
-
- ## The SLA Biomedical and Life Sciences Division (DBIO)
- - [https://dbiosla.org](https://dbiosla.org)
- - date_published: 2023-04-08T21:23:16+00:00
-
- ## dbj( org );  IT Architecture, Coding & IT Industry
- - [http://dbj.org](http://dbj.org)
- - date_published: 2024-06-26T13:43:27.279635+00:00
-
- ## blog.dblp.org – A blog about the dblp computer science bibliography
- - [https://blog.dblp.org](https://blog.dblp.org)
- - date_published: 2024-06-22T06:12:13.152960+00:00
-
- ## dblp: computer science bibliography
- - [https://dblp.org](https://dblp.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## OIDC Form_Post Response
- - [https://databus.dbpedia.org](https://databus.dbpedia.org)
- - date_published: 2024-07-07T03:10:51.038056+00:00
-
- ## Home - DBpedia Association
- - [https://dbpedia.org](https://dbpedia.org)
- - date_published: 2024-05-08T09:03:06.819623+00:00
-
- ## es.dbpedia.org
- - [https://es.dbpedia.org](https://es.dbpedia.org)
- - date_published: 2020-06-11T12:08:54+00:00
-
- ## DBpedia Forum
- - [https://forum.dbpedia.org](https://forum.dbpedia.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## DBpedia French chapter
- - [https://fr.dbpedia.org](https://fr.dbpedia.org)
- - date_published: 2022-06-07T13:38:30+00:00
-
- ## Home - DBpedia Association
- - [http://wiki.dbpedia.org](http://wiki.dbpedia.org)
- - date_published: 2024-07-02T05:48:24.291161+00:00
-
- ## Software Development & Consulting
- - [https://dbservices.org](https://dbservices.org)
- - date_published: 2024-10-28T23:26:55.014783+00:00
-
- ## DEF CON 864 (DC864) Group – Upstate South Carolina's DEF CON Group
- - [https://dc864.org](https://dc864.org)
- - date_published: 2024-05-08T03:34:02.356141+00:00
-
- ## DCEmulation
- - [https://dcemulation.org](https://dcemulation.org)
- - date_published: 2023-10-15T20:54:34+00:00
-
- ## DC FOP Lodge 1
- - [http://www.dc-fop.org](http://www.dc-fop.org)
- - date_published: 2024-07-18T04:13:28+00:00
-
- ## Habitat for Humanity D.C. & Northern Virginia
- - [https://dchabitat.org](https://dchabitat.org)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## A Data-Centric Introduction to Computing
- - [https://dcic-world.org](https://dcic-world.org)
- - date_published: 2023-02-21T23:13:02+00:00
-
- ## No Way to Treat a Child
- - [http://nwttac.dci-palestine.org](http://nwttac.dci-palestine.org)
- - date_published: 2024-09-16T20:17:52.157130+00:00
-
- ## Defense for Children Palestine
- - [https://www.dci-palestine.org](https://www.dci-palestine.org)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## DC Jobs with Justice | Fighting for working people in the nation's capital
- - [http://www.dcjwj.org](http://www.dcjwj.org)
- - date_published: 2024-09-18T04:30:28.621116+00:00
-
- ## Washington Kurdish Institute | Est. 1996
- - [http://dckurd.org](http://dckurd.org)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Welcome to DCMNY | DCMNY
- - [https://dcmny.org](https://dcmny.org)
- - date_published: 2024-06-28T19:58:51+00:00
-
- ## Start | DCND
- - [https://www.dcnd.org](https://www.dcnd.org)
- - date_published: 2024-07-24T04:20:27.443535+00:00
-
- ## https://dconf.org
- - [https://dconf.org](https://dconf.org)
- - date_published: 2024-01-09T03:38:54.424034+00:00
-
- ## dConstruct 2012 · Home
- - [https://2012.dconstruct.org](https://2012.dconstruct.org)
- - date_published: 2024-06-15T04:16:36.321884+00:00
-
- ## DCOSS-IoT 2025 – INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING IN SMART SYSTEMS AND THE INTERNET OF THINGS
- - [http://www.dcoss.org](http://www.dcoss.org)
- - date_published: 2024-06-22T09:32:48.608534+00:00
-
- ## D.C. Policy Center - D.C. Policy Center
- - [https://dcpolicycenter.org](https://dcpolicycenter.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## DCReport
- - [https://www.dcreport.org](https://www.dcreport.org)
- - date_published: 2024-08-19T16:57:11+00:00
-
- ## Duke Clinical Research Institute
- - [https://www.dcri.org](https://www.dcri.org)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## dcsummit.org - dcsummit Zasoby i informacje.
- - [https://dcsummit.org](https://dcsummit.org)
- - date_published: 2024-09-23T13:25:14+00:00
-
- ## Biggest National Academy Conference
- - [http://dcthink.org](http://dcthink.org)
- - date_published: 2024-10-29T17:27:40.453870+00:00
-
- ## DCU Online
- - [https://app.dcu.org](https://app.dcu.org)
- - date_published: 2024-06-10T18:13:04+00:00
-
- ## DCU | Personal & Business Banking | Digital Federal Credit Union
- - [https://dcu.org](https://dcu.org)
- - date_published: 2024-06-14T18:07:36+00:00
-
- ## DCU Fintech Innovation | MassChallenge
- - [https://dcufintech.org](https://dcufintech.org)
- - date_published: 2024-06-14T18:24:15+00:00
 

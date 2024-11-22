@@ -1,3 +1,219 @@
+ ## Consult QD
+ - [https://consultqd.clevelandclinic.org](https://consultqd.clevelandclinic.org)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Events Calendar | Cleveland Clinic
+ - [https://events.clevelandclinic.org](https://events.clevelandclinic.org)
+ - date_published: 2024-08-11T15:09:19.475228+00:00
+
+ ## Cleveland Clinic Health Essentials
+ - [https://health.clevelandclinic.org](https://health.clevelandclinic.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://jobs.clevelandclinic.org](https://jobs.clevelandclinic.org)
+ - date_published: 2024-07-12T21:54:45.930858+00:00
+
+ ## Access Anytime Anywhere | Cleveland Clinic
+ - [https://my.clevelandclinic.org](https://my.clevelandclinic.org)
+ - date_published: 2024-02-24T18:06:03.736765+00:00
+
+ ## Cleveland Clinic Newsroom
+ - [https://newsroom.clevelandclinic.org](https://newsroom.clevelandclinic.org)
+ - date_published: 2024-07-12T21:54:52.457819+00:00
+
+ ## Cleveland ConCoction - Home
+ - [https://www.clevelandconcoction.org](https://www.clevelandconcoction.org)
+ - date_published: 2024-08-18T03:30:46.976804+00:00
+
+ ## Federal Reserve Bank of Cleveland
+ - [https://clevelandfed.org](https://clevelandfed.org)
+ - date_published: 2023-10-25T21:07:54.878569+00:00
+
+ ## Cleveland Historical
+ - [https://clevelandhistorical.org](https://clevelandhistorical.org)
+ - date_published: 2024-04-19T19:49:15.778571+00:00
+ - tags: ['mobile app', 'history', 'cleveland']
+
+ ## The Cleveland Memory Project: Cleveland History in Photos, Video, and More
+ - [http://www.clevelandmemory.org](http://www.clevelandmemory.org)
+ - date_published: 2024-06-28T14:19:37.767507+00:00
+
+ ## ดูหนังออนไลน์ฟรี รีวิวหนัง จะมาพูดถึงเรื่องประเภทของหนังหรือภาพยนต์
+ - [http://www.clevelandpublicart.org](http://www.clevelandpublicart.org)
+ - date_published: 2024-06-28T14:12:51.840447+00:00
+
+ ## Home - CLever Audio Plug-In
+ - [https://cleveraudio.org](https://cleveraudio.org)
+ - date_published: 2024-03-06T16:24:07+00:00
+
+ ## GitHub - free-audio/clap: Audio Plugin API
+ - [https://github.cleveraudio.org](https://github.cleveraudio.org)
+ - date_published: 2024-10-16T08:40:51.811937+00:00
+
+ ## Clever Creations | Your Hub for 3D Printing, Laser Cutting, and 3D Scanning
+ - [https://clevercreations.org](https://clevercreations.org)
+ - date_published: 2023-10-25T11:20:10.803835+00:00
+ - tags: ['3d printing']
+
+ ## CLEVER Planets - CLEVER Planets
+ - [http://cleverplanets.org](http://cleverplanets.org)
+ - date_published: 2024-08-18T20:25:09.946911+00:00
+
+ ## Engaging Networks: Nonprofit Digital Engagement Platform
+ - [https://act.clf.org](https://act.clf.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home
+ - [https://clf.org](https://clf.org)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home
+ - [https://cl-foundation.org](https://cl-foundation.org)
+ - date_published: 2020-07-01T13:28:08+00:00
+
+ ## CLFS Trac
+ - [https://trac.clfs.org](https://trac.clfs.org)
+ - date_published: 2024-05-08T09:42:34.604829+00:00
+
+ ## CLIdea Digital | Agencia marketing digital Madrid
+ - [https://clidea.org](https://clidea.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## ClientEarth | Environmental law charity
+ - [https://act.clientearth.org](https://act.clientearth.org)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## ClientEarth | Environmental law charity
+ - [https://donate.clientearth.org](https://donate.clientearth.org)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## ClientEarth | Environmental law charity
+ - [https://www.clientearth.org](https://www.clientearth.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Homepage - iCS
+ - [https://climaesociedade.org](https://climaesociedade.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## The Climate21 Project
+ - [https://climate21.org](https://climate21.org)
+ - date_published: 2024-09-16T21:53:39.631062+00:00
+
+ ## Climate Action 100+
+ - [http://climateaction100.org](http://climateaction100.org)
+ - date_published: 2024-07-08T10:05:42.258978+00:00
+
+ ## Climate Action Stokesley and Villages
+ - [https://climateactionstokesleyandvillages.org](https://climateactionstokesleyandvillages.org)
+ - date_published: 2024-08-07T03:55:53.538899+00:00
+
+ ## Home
+ - [https://climateactiontracker.org](https://climateactiontracker.org)
+ - date_published: 2024-05-20T13:47:09+00:00
+ - tags: ['global warming', 'climate change']
+
+ ## Homepage
+ - [https://climateanalytics.org](https://climateanalytics.org)
+ - date_published: 2023-11-26T13:56:16.649268+00:00
+
+ ## Climate and Land Use Alliance - Cultivating Solutions for People and the Planet
+ - [https://www.climateandlandusealliance.org](https://www.climateandlandusealliance.org)
+ - date_published: 2024-07-14T14:51:02.866931+00:00
+
+ ## Climate Audit
+ - [https://climateaudit.org](https://climateaudit.org)
+ - date_published: 2024-05-06T23:32:38.800177+00:00
+
+ ## Climatebase
+ - [https://climatebase.org](https://climatebase.org)
+ - date_published: 2024-07-15T11:46:28.299881+00:00
+
+ ## Climate Cafes – Ultimate resource for green and sustainable living | Speak your #ClimateTruth
+ - [https://climatecafes.org](https://climatecafes.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Climate Cardinals
+ - [https://www.climatecardinals.org](https://www.climatecardinals.org)
+ - date_published: 2024-10-22T11:40:27.502269+00:00
+
+ ## Making Real Change Possible
+ - [http://www.climatecare.org](http://www.climatecare.org)
+ - date_published: 2024-07-12T17:14:39.183832+00:00
+
+ ## The climate case - Saúl vs. RWE
+ - [https://rwe.climatecase.org](https://rwe.climatecase.org)
+ - date_published: 2024-07-02T17:59:33.600160+00:00
+
+ ## Climate Central
+ - [https://climatecentral.org](https://climatecentral.org)
+ - date_published: 2024-09-25T16:33:11.012367+00:00
+
+ ## Sea level rise and coastal flood risk maps -- a global screening tool by Climate Central
+ - [https://coastal.climatecentral.org](https://coastal.climatecentral.org)
+ - date_published: 2024-06-16T05:35:20.744125+00:00
+
+ ## Coastal Risk Finder
+ - [http://crf.climatecentral.org](http://crf.climatecentral.org)
+ - date_published: 2024-09-25T16:32:57.723716+00:00
+
+ ## Climate Central
+ - [https://giving.climatecentral.org](https://giving.climatecentral.org)
+ - date_published: 2024-09-25T16:32:48.045495+00:00
+
+ ## Resources | Climate Central
+ - [https://medialibrary.climatecentral.org](https://medialibrary.climatecentral.org)
+ - date_published: 2024-09-25T16:33:32.170065+00:00
+
+ ## Picturing Our Future
+ - [https://picturing.climatecentral.org](https://picturing.climatecentral.org)
+ - date_published: 2024-06-16T05:35:27.762967+00:00
+
+ ## See your local sea level and coastal flood risk
+ - [https://riskfinder.climatecentral.org](https://riskfinder.climatecentral.org)
+ - date_published: 2024-06-16T05:35:22.741064+00:00
+
+ ## Surging Seas: Sea level rise analysis by Climate Central
+ - [http://sealevel.climatecentral.org](http://sealevel.climatecentral.org)
+ - date_published: 2024-09-12T15:05:57+00:00
+
+ ## Daily Solar & Wind Power Forecasts | Climate Central
+ - [https://weatherpower.climatecentral.org](https://weatherpower.climatecentral.org)
+ - date_published: 2024-06-16T05:35:19.010737+00:00
+
+ ## Climate Chain Coalition – Collaboration for Transformative Digital Climate Innovations
+ - [https://climatechaincoalition.org](https://climatechaincoalition.org)
+ - date_published: 2024-09-25T13:15:39.206840+00:00
+
+ ## Climate Change Awards
+ - [http://climatechangeawards.org](http://climatechangeawards.org)
+ - date_published: 2024-06-30T02:33:43.035018+00:00
+
+ ## Home - Center for Climate Change Communication
+ - [https://www.climatechangecommunication.org](https://www.climatechangecommunication.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Climate Change Predictions
+ - [https://climatechangepredictions.org](https://climatechangepredictions.org)
+ - date_published: 2023-10-16T00:00:00+00:00
+
+ ## Home
+ - [http://climatechangereconsidered.org](http://climatechangereconsidered.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Climate Change Tracker
+ - [https://climatechangetracker.org](https://climatechangetracker.org)
+ - date_published: 2023-10-25T08:31:20.212953+00:00
+ - tags: ['climate change', 'global warming']
+
+ ## Climate—Conflict—Vulnerability Index (CCVI)
+ - [https://climate-conflict.org](https://climate-conflict.org)
+ - date_published: 2024-10-27T19:05:41.128490+00:00
+
+ ## Center for Climate Crime Analysis | We fight climate change
+ - [https://climatecrimeanalysis.org](https://climatecrimeanalysis.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## Home page
  - [https://climate-cryosphere.org](https://climate-cryosphere.org)
  - date_published: 2024-05-07T21:24:04.986891+00:00
@@ -3818,217 +4034,4 @@
  ## Center for Corporate Policy – Working to curb corporate abuses and make corporations publicly accountable.
  - [http://www.corporatepolicy.org](http://www.corporatepolicy.org)
  - date_published: 2019-12-28T17:41:53+00:00
-
- ## Corpos Informáticos
- - [http://www.corpos.org](http://www.corpos.org)
- - date_published: 2021-04-08T22:25:39+00:00
-
- ## Full-text data from English-Corpora.org: billions of words of downloadable data
- - [https://www.corpusdata.org](https://www.corpusdata.org)
- - date_published: 2024-06-30T07:28:18.044414+00:00
-
- ## Corpus del Español: 10 billion words: Dialects / Genres / Historical
- - [http://www.corpusdelespanol.org](http://www.corpusdelespanol.org)
- - date_published: 2024-07-02T09:46:24.708224+00:00
-
- ## Corpus do Português: 2.5 billion words: Dialects / Genres / Historical
- - [http://www.corpusdoportugues.org](http://www.corpusdoportugues.org)
- - date_published: 2024-07-02T09:46:07.151963+00:00
-
- ## About CorpWatch | corpwatch
- - [https://corpwatch.org](https://corpwatch.org)
- - date_published: 2023-10-25T21:10:20.522811+00:00
-
- ## CORRECTIV | Recherchen für die Gesellschaft
- - [https://correctiv.org](https://correctiv.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://matomo.correctiv.org](https://matomo.correctiv.org)
- - date_published: 2024-06-17T11:26:45.057000+00:00
-
- ## CORRECTIV.Verlag - Bücher für die Gesellschaft
- - [https://shop.correctiv.org](https://shop.correctiv.org)
- - date_published: 2024-06-17T11:26:50.642482+00:00
-
- ## Spendengerichte Datenbank - CORRECTIV
- - [https://spendengerichte.correctiv.org](https://spendengerichte.correctiv.org)
- - date_published: 2024-06-17T11:26:53.782832+00:00
-
- ## CORRECTIV – ANONYMER BRIEFKASTEN
- - [https://correctiv-upload.org](https://correctiv-upload.org)
- - date_published: 2024-06-28T21:41:11.475143+00:00
-
- ## Correlated
- - [https://correlated.org](https://correlated.org)
- - date_published: 2024-05-07T09:15:22.592753+00:00
-
- ## CORSAIRE
- - [https://corsaire.org](https://corsaire.org)
- - date_published: 2024-04-30T08:02:44.585548+00:00
- - tags: ['radio station', 'interesting page design']
-
- ## Radio CORSAIRE
- - [https://radio.corsaire.org](https://radio.corsaire.org)
- - date_published: 2024-07-08T19:35:36.893327+00:00
-
- ## SOS CORSAIRE
- - [https://sos.corsaire.org](https://sos.corsaire.org)
- - date_published: 2024-07-08T19:35:41.874486+00:00
-
- ## corsix.org
- - [https://corsix.org](https://corsix.org)
- - date_published: 2023-10-25T21:10:23.384582+00:00
-
- ## CorsixTH
- - [http://th.corsix.org](http://th.corsix.org)
- - date_published: 2014-01-02T17:39:07+00:00
-
- ## CorteX - Le Cortecs
- - [https://cortecs.org](https://cortecs.org)
- - date_published: 2024-07-10T06:24:45.614208+00:00
-
- ## Corteza - Corteza
- - [https://cortezaproject.org](https://cortezaproject.org)
- - date_published: 2023-12-01T11:00:47+00:00
-
- ## Corteza
- - [https://forum.cortezaproject.org](https://forum.cortezaproject.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## One
- - [https://latest.cortezaproject.org](https://latest.cortezaproject.org)
- - date_published: 2024-06-19T22:08:40.292779+00:00
-
- ## Cortland County, NY | Official Website
- - [https://www.cortland-co.org](https://www.cortland-co.org)
- - date_published: 2024-09-18T04:09:17.214340+00:00
-
- ## Corvallis Folklore Society | Where the community gathers for music, dancing and more
- - [http://corvallisfolklore.org](http://corvallisfolklore.org)
- - date_published: 2024-08-20T05:17:15.845972+00:00
-
- ## COSADE: Constructive Side-Channel Analysis and Secure Design 2024
- - [https://www.cosade.org](https://www.cosade.org)
- - date_published: 2024-03-22T09:54:08+00:00
-
- ## Council on Substance Abuse-NCADD – Our mission is to reduce the incidence and prevalence of the disease of alcoholism, other drug addiction diseases, and related problems
- - [https://cosancadd.org](https://cosancadd.org)
- - date_published: 2024-06-30T00:01:11+00:00
-
- ## Inicio - COSEFIN
- - [https://cosefin.org](https://cosefin.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## COSI - Center of Science and Industry
- - [https://cosi.org](https://cosi.org)
- - date_published: 2024-10-18T06:56:52.347450+00:00
-
- ## Cosmebio - The organic cosmetics label since 2002
- - [https://www.cosmebio.org](https://www.cosmebio.org)
- - date_published: 2017-11-15T16:04:42.795808+00:00
-
- ## Welcome to Cosmic Diary
- - [http://www.cosmicdiary.org](http://www.cosmicdiary.org)
- - date_published: 2024-08-18T20:26:59.340425+00:00
-
- ## COSMO Site
- - [http://www.cosmo-model.org](http://www.cosmo-model.org)
- - date_published: 2024-04-23T04:52:07+00:00
-
- ## H2020 Project | COSMOS - DevOps for CPS
- - [https://www.cosmos-devops.org](https://www.cosmos-devops.org)
- - date_published: 2024-07-07T10:18:22.958780+00:00
-
- ## CosmoStat – An AIM laboratory  @CEA Saclay
- - [http://www.cosmostat.org](http://www.cosmostat.org)
- - date_published: 2024-07-08T15:40:35.027968+00:00
-
- ## Cosmoverse 2024 – Dubai – October 21-22
- - [https://cosmoverse.org](https://cosmoverse.org)
- - date_published: 2024-05-01T05:40:45.455471+00:00
-
- ## COSS/LAB
- - [https://cosslab.org](https://cosslab.org)
- - date_published: 2024-07-01T15:00:30.770504+00:00
-
- ## COST-G | Combination Service for Time-variable Gravity Fields
- - [https://cost-g.org](https://cost-g.org)
- - date_published: 2024-10-14T21:39:43.257156+00:00
-
- ## Costume-Con 42 - Costume-Con 42
- - [https://costumecon42.org](https://costumecon42.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Corvallis-OSU Symphony Orchestra
- - [http://www.cosusymphony.org](http://www.cosusymphony.org)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## COTA Home
- - [http://www.cota-home.org](http://www.cota-home.org)
- - date_published: 2024-04-22T05:16:35+00:00
-
- ## coTer numérique
- - [https://coter-numerique.org](https://coter-numerique.org)
- - date_published: 2024-08-11T07:37:02.596814+00:00
-
- ## COtrip Traveler Information
- - [https://www.cotrip.org](https://www.cotrip.org)
- - date_published: 2024-05-30T02:13:29+00:00
-
- ## A Blog Around The Clock
- - [http://blog.coturnix.org](http://blog.coturnix.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CouchDB Blog
- - [https://blog.couchdb.org](https://blog.couchdb.org)
- - date_published: 2024-06-26T14:52:42+00:00
-
- ## Apache CouchDB Conf • Vancouver, Canada • November 13, 2013
- - [http://conf.couchdb.org](http://conf.couchdb.org)
- - date_published: 2013-11-13T00:00:00+00:00
-
- ## Overview — Apache CouchDB® 3.3 Documentation
- - [https://docs.couchdb.org](https://docs.couchdb.org)
- - date_published: 2024-01-03T16:04:00+00:00
-
- ## Frédéric Couchet
- - [https://www.couchet.org](https://www.couchet.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Couchsurfing
- - [http://couchsurfing.org](http://couchsurfing.org)
- - date_published: 2024-09-03T21:09:33.457365+00:00
-
- ## CEE: eCommerce Website
- - [http://ve.councilforeconed.org](http://ve.councilforeconed.org)
- - date_published: 2024-08-18T19:42:35.714955+00:00
-
- ## Financial Knowledge Organization for Youth | CEE
- - [https://www.councilforeconed.org](https://www.councilforeconed.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## International Council for Helplines
- - [http://www.councilforhelplines.org](http://www.councilforhelplines.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Council for Responsible Sport
- - [https://www.councilforresponsiblesport.org](https://www.councilforresponsiblesport.org)
- - date_published: 2024-06-19T17:50:54.451955+00:00
-
- ## Council for the National Interest
- - [https://councilforthenationalinterest.org](https://councilforthenationalinterest.org)
- - date_published: 2024-09-16T20:12:08.407493+00:00
-
- ## Nonprofit Jobs and Careers | Find a Job in the Nonprofit Sector
- - [https://careers.councilofnonprofits.org](https://careers.councilofnonprofits.org)
- - date_published: 2024-07-09T20:39:22.871508+00:00
-
- ## National Council of Nonprofits
- - [https://councilofnonprofits.org](https://councilofnonprofits.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Council on Strategic Risks - Anticipating, Analyzing, and Addressing Systemic Risks
- - [https://councilonstrategicrisks.org](https://councilonstrategicrisks.org)
- - date_published: 2024-06-17T10:47:53+00:00
 

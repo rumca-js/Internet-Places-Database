@@ -1,3 +1,121 @@
+ ## Developer Community
+ - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
+ - date_published: 2023-10-25T17:57:41.357962+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://docs-archive.visualstudio.com](https://docs-archive.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://jeremylikness.visualstudio.com](https://jeremylikness.visualstudio.com)
+ - date_published: 2024-06-15T15:39:13.588028+00:00
+
+ ## Sign in to your account
+ - [https://manage.visualstudio.com](https://manage.visualstudio.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Visual Studio Marketplace
+ - [https://marketplace.visualstudio.com](https://marketplace.visualstudio.com)
+ - date_published: 2024-03-08T17:41:10.734423+00:00
+ - tags: ['app store', 'app extensions']
+
+ ## Azure DevOps Services | Sign In
+ - [https://msasg.visualstudio.com](https://msasg.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.visualstudio.com](https://my.visualstudio.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://onedrive.visualstudio.com](https://onedrive.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://spsprodeus27.vssps.visualstudio.com](https://spsprodeus27.vssps.visualstudio.com)
+ - date_published: 2024-09-18T14:12:33.921127+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://spsprodwus23.vssps.visualstudio.com](https://spsprodwus23.vssps.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Visual Studio: IDE and Code Editor for Software Developers and Teams
+ - [https://visualstudio.com](https://visualstudio.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+ - tags: ['programming ide']
+
+ ## Visual Studio Magazine Home -- Visual Studio Magazine
+ - [https://visualstudiomagazine.com](https://visualstudiomagazine.com)
+ - date_published: 2023-10-25T17:57:48.493438+00:00
+
+ ## Thinkmap Visual Thesaurus - An online thesaurus and dictionary of over 145,000 words that you explore using an interactive map.
+ - [https://visualthesaurus.com](https://visualthesaurus.com)
+ - date_published: 2024-05-07T21:52:47.983465+00:00
+
+ ## Home - Visual Thinkery
+ - [http://visualthinkery.com](http://visualthinkery.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - New
+ - [https://www.visualvisitor.com](https://www.visualvisitor.com)
+ - date_published: 2024-07-15T12:39:37.991427+00:00
+
+ ## VWO | Digital Experience Optimization
+ - [https://visualwebsiteoptimizer.com](https://visualwebsiteoptimizer.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Visuex - Brand Strategy Design Consultancy. We Help Your Business Grow.
+ - [https://visuex.com](https://visuex.com)
+ - date_published: 2024-06-16T02:58:35.889555+00:00
+
+ ## Visuino - Visual Development for Arduino
+ - [https://www.visuino.com](https://www.visuino.com)
+ - date_published: 2024-09-05T18:11:40.286474+00:00
+
+ ## Requirements Management Software & Tool | Visure Solutions
+ - [https://visuresolutions.com](https://visuresolutions.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## VIS USA: Industrial Conveyor Belt and Flat Power Transmission Belt Manufacturer
+ - [http://www.visusa.com](http://www.visusa.com)
+ - date_published: 2023-08-28T16:26:03+00:00
+
+ ## Visvaldas Morkevicius
+ - [https://visvaldas.com](https://visvaldas.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Viswagyan -
+ - [https://viswagyan.com](https://viswagyan.com)
+ - date_published: 2023-12-30T09:16:45.834804+00:00
+
+ ## visxa.com
+ - [https://visxa.com](https://visxa.com)
+ - date_published: 2024-06-28T11:04:31.046689+00:00
+
+ ## Expert Captioning, Transcription and Localization Services | Vitac
+ - [https://vitac.com](https://vitac.com)
+ - date_published: 2024-07-03T13:21:02.750794+00:00
+
+ ## Vita Coco
+ - [https://vitacoco.com](https://vitacoco.com)
+ - date_published: 2024-02-23T17:49:00.504180+00:00
+
+ ## The Vita Coco Company Wholesale
+ - [https://wholesale.vitacoco.com](https://wholesale.vitacoco.com)
+ - date_published: 2024-05-07T10:55:40.353837+00:00
+
+ ## Discount Vitamins, Supplements, Health Foods & More | Vitacost
+ - [https://www.vitacost.com](https://www.vitacost.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## VitaCup - Infused Coffees and Teas with Vitamins & Superfoods
+ - [https://vitacup.com](https://vitacup.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## VitaDAO
+ - [https://dao.vitadao.com](https://dao.vitadao.com)
+ - date_published: 2024-09-24T11:02:51.032242+00:00
+
  ## Governance Forum | VitaDAO
  - [https://gov.vitadao.com](https://gov.vitadao.com)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -690,6 +808,14 @@
  ## Home - Vlad Mihalcea
  - [https://vladmihalcea.com](https://vladmihalcea.com)
  - date_published: 2024-06-17T07:05:11+00:00
+
+ ## Vlad Mykol – Medium
+ - [https://medium.vladmykol.com](https://medium.vladmykol.com)
+ - date_published: 2024-11-21T17:25:40.313426+00:00
+
+ ## Vlad Mykol - personal website
+ - [https://vladmykol.com](https://vladmykol.com)
+ - date_published: 2024-11-21T17:26:32.631800+00:00
 
  ## Vlado Vince
  - [https://blog.vladovince.com](https://blog.vladovince.com)
@@ -3919,129 +4045,4 @@
  ## Create your own website | W3 Spaces
  - [https://joko77.w3spaces.com](https://joko77.w3spaces.com)
  - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://panen138.w3spaces.com](https://panen138.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://panen77.w3spaces.com](https://panen77.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://panengg.w3spaces.com](https://panengg.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://slot138a.w3spaces.com](https://slot138a.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://slot300.w3spaces.com](https://slot300.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## 404 - Not found | W3 Spaces
- - [https://slot69a.w3spaces.com](https://slot69a.w3spaces.com)
- - date_published: 2021-12-20T10:29:18+00:00
-
- ## Create your own website | W3 Spaces
- - [https://sultan188.w3spaces.com](https://sultan188.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://sultan69.w3spaces.com](https://sultan69.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## W3Techs Advertising
- - [https://b.w3techs.com](https://b.w3techs.com)
- - date_published: 2024-06-23T00:01:23.110525+00:00
-
- ## W3Techs - extensive and reliable web technology surveys
- - [https://w3techs.com](https://w3techs.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## 라바카지노 검증카지노 라바도메인 라바주소 소개
- - [https://w3use.com](https://w3use.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Berita Dan Fakta Dunia
- - [http://w3vina.com](http://w3vina.com)
- - date_published: 2024-06-29T06:24:24.759741+00:00
-
- ## W4 Games – Home
- - [https://w4games.com](https://w4games.com)
- - date_published: 2023-10-25T17:58:48.483188+00:00
- - tags: ['video game developer', 'godot']
-
- ## Welcome to the Ham Shack of W5JGV
- - [https://w5jgv.com](https://w5jgv.com)
- - date_published: 2013-05-22T00:00:00+00:00
-
- ## W6LVP
- - [https://w6lvp.com](https://w6lvp.com)
- - date_published: 2024-08-10T23:49:43.229419+00:00
-
- ## W7APK - Aaron Parecki
- - [https://w7apk.com](https://w7apk.com)
- - date_published: 2024-05-01T00:32:33.119413+00:00
-
- ## W88 - Link W88 Mobile, PC nhanh nhất 2024
- - [https://w88oaz.com](https://w88oaz.com)
- - date_published: 2024-07-17T04:25:22.226956+00:00
-
- ## WA3RNC Online Store
- - [https://wa3rnc.com](https://wa3rnc.com)
- - date_published: 2024-05-07T09:49:56.203303+00:00
-
- ## WA4E - Web Applications for Everybody
- - [https://www.wa4e.com](https://www.wa4e.com)
- - date_published: 2024-09-10T07:51:28.035775+00:00
-
- ## -- The WA7X Page --
- - [http://www.wa7x.com](http://www.wa7x.com)
- - date_published: 2024-01-12T06:09:06+00:00
-
- ## Waasland Shopping
- - [https://www.waaslandshopping.com](https://www.waaslandshopping.com)
- - date_published: 2024-10-29T12:00:08.722765+00:00
-
- ## Home -
- - [http://www.wabash.com](http://www.wabash.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## WABA Chain Testnet blockchain explorer
- - [https://explorer.wabaworld.com](https://explorer.wabaworld.com)
- - date_published: 2024-09-24T00:45:22.607074+00:00
-
- ## WABetaInfo
- - [https://wabetainfo.com](https://wabetainfo.com)
- - date_published: 2024-06-30T23:01:40+00:00
-
- ## WABI Productions
- - [https://wabiproductions.com](https://wabiproductions.com)
- - date_published: 2024-06-20T01:56:11+00:00
-
- ## wabi tek sabi
- - [https://www.wabiteksabi.com](https://www.wabiteksabi.com)
- - date_published: 2024-02-12T22:22:15+00:00
-
- ## Home - Wachsman
- - [https://wachsman.com](https://wachsman.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## 温克特尔|WACHTEL烤炉设备|瓦赫烘焙烤箱设备|上海瓦赫
- - [http://www.wachtelcn.com](http://www.wachtelcn.com)
- - date_published: 2024-10-16T14:47:07.904888+00:00
-
- ## The Wachtmeister's Patrol
- - [http://wachtmeisterspatrol.com](http://wachtmeisterspatrol.com)
- - date_published: 2024-10-26T18:09:56.721436+00:00
-
- ## Brewery Near Me | Wachusett Brewing Company | Massachusetts
- - [https://www.wachusettbrewingcompany.com](https://www.wachusettbrewingcompany.com)
- - date_published: 2024-08-18T17:44:01.397254+00:00
-
- ## home | throughkimseyes
- - [https://www.wachusettphotos.com](https://www.wachusettphotos.com)
- - date_published: 2024-07-22T10:20:40.193381+00:00
 

@@ -1,3 +1,192 @@
+ ## Free Weather API | Weatherbit
+ - [https://weatherbit.io](https://weatherbit.io)
+ - date_published: 2024-10-14T17:42:09.357287+00:00
+
+ ## Weather Machine
+ - [https://status.weathermachine.io](https://status.weathermachine.io)
+ - date_published: 2024-05-06T14:47:34.219085+00:00
+
+ ## Weather Machine
+ - [https://weathermachine.io](https://weathermachine.io)
+ - date_published: 2023-10-25T20:12:29.991634+00:00
+
+ ## WeatherWidget.io
+ - [https://weatherwidget.io](https://weatherwidget.io)
+ - date_published: 2024-05-01T05:43:22.823122+00:00
+
+ ## Online Workshops & Events | Weaviate - Vector Database
+ - [https://events.weaviate.io](https://events.weaviate.io)
+ - date_published: 2024-05-06T14:47:36.950149+00:00
+
+ ## Weaviate Community Forum
+ - [https://forum.weaviate.io](https://forum.weaviate.io)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Weaviate Newsletter
+ - [https://newsletter.weaviate.io](https://newsletter.weaviate.io)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Welcome | Weaviate - vector database
+ - [https://weaviate.io](https://weaviate.io)
+ - date_published: 2023-10-25T20:12:31.538432+00:00
+
+ ## Web3Auth Blog | Key Management SDKs with MPC and AA enabled
+ - [https://blog.web3auth.io](https://blog.web3auth.io)
+ - date_published: 2024-09-23T10:55:35.520043+00:00
+
+ ## Web3Auth Developers
+ - [https://dashboard.web3auth.io](https://dashboard.web3auth.io)
+ - date_published: 2024-09-18T12:44:30+00:00
+
+ ## Web3Auth Demo
+ - [https://demo.web3auth.io](https://demo.web3auth.io)
+ - date_published: 2024-08-27T03:32:40+00:00
+
+ ## Web3Auth Status
+ - [https://status.web3auth.io](https://status.web3auth.io)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Torus Labs Web3Auth Trust Center | Powered by SafeBase
+ - [https://trust.web3auth.io](https://trust.web3auth.io)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Web3Auth - Key Management SDKs with MPC and AA enabled
+ - [https://web3auth.io](https://web3auth.io)
+ - date_published: 2024-06-12T03:17:04+00:00
+
+ ## Web3 Equity
+ - [https://www.web3equity.io](https://www.web3equity.io)
+ - date_published: 2024-06-16T05:00:10.592699+00:00
+
+ ## Home
+ - [http://web3espa.io](http://web3espa.io)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Web3 Is A Joke
+ - [http://www.web3isajoke.io](http://www.web3isajoke.io)
+ - date_published: 2024-09-04T12:23:14.363250+00:00
+
+ ## Home
+ - [https://www.web3lex.io](https://www.web3lex.io)
+ - date_published: 2023-10-30T00:00:00+00:00
+
+ ## Ramo
+ - [http://docs.web3mine.io](http://docs.web3mine.io)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Stake with web3mine
+ - [https://stake.web3mine.io](https://stake.web3mine.io)
+ - date_published: 2024-09-04T11:53:58.330857+00:00
+
+ ## web3mine
+ - [https://web3mine.io](https://web3mine.io)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## WEB3Q
+ - [https://galileo.web3q.io](https://galileo.web3q.io)
+ - date_published: 2024-09-23T15:44:21.667963+00:00
+
+ ## WEB3Q
+ - [https://web3q.io](https://web3q.io)
+ - date_published: 2024-09-24T04:29:54.923231+00:00
+
+ ## Web3 Talents
+ - [https://web3-talents.io](https://web3-talents.io)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Web3 Tales Conference
+ - [https://web3tales.io](https://web3tales.io)
+ - date_published: 2024-09-23T16:15:24+00:00
+
+ ## Introduction | Web3URL
+ - [https://docs.web3url.io](https://docs.web3url.io)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Documentation - Webapp.io Documentation
+ - [https://docs.webapp.io](https://docs.webapp.io)
+ - date_published: 2024-05-06T14:48:07.389681+00:00
+
+ ## Webapp.io - Better DevOps for modern webapps
+ - [https://webapp.io](https://webapp.io)
+ - date_published: 2023-10-25T20:12:34.784265+00:00
+
+ ## A demonstration of the WebAuthn specification
+ - [https://webauthn.io](https://webauthn.io)
+ - date_published: 2024-01-24T09:42:50+00:00
+ - tags: ['passkeys']
+
+ ## Video Recorder – Record Video with your Webcam
+ - [https://webcamera.io](https://webcamera.io)
+ - date_published: 2024-06-23T15:14:58+00:00
+
+ ## DMM WEBCAMP DX研修 | デジタル人材育成のための法人向けDX研修
+ - [https://business.web-camp.io](https://business.web-camp.io)
+ - date_published: 2024-09-09T16:47:18.954835+00:00
+
+ ## DMM 生成AI CAMP | ChatGPTなど生成AIスキル特化のオンラインスクール
+ - [https://generative-ai.web-camp.io](https://generative-ai.web-camp.io)
+ - date_published: 2024-09-03T02:34:58+00:00
+
+ ## 3年連続No.1Webマーケティングスクール
+ - [https://makecam.web-camp.io](https://makecam.web-camp.io)
+ - date_published: 2024-09-09T01:54:33+00:00
+
+ ## DMM WEBCAMP
+ - [https://web-camp.io](https://web-camp.io)
+ - date_published: 2024-06-11T09:08:28.967318+00:00
+
+ ## Webcam Test: Check webcam online
+ - [https://webcamtest.io](https://webcamtest.io)
+ - date_published: 2024-05-11T07:04:39.684213+00:00
+
+ ## WebComponent.io: Web Components in Easy Mode
+ - [https://webcomponent.io](https://webcomponent.io)
+ - date_published: 2024-04-28T02:42:07.004088+00:00
+
+ ## WebContainers - Dev environments. In your web app. | WebContainers
+ - [https://webcontainers.io](https://webcontainers.io)
+ - date_published: 2023-10-25T20:12:35.939943+00:00
+
+ ## WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO
+ - [https://webdriver.io](https://webdriver.io)
+ - date_published: 2024-06-18T17:57:52+00:00
+
+ ## הדירוגים של כלכליסט
+ - [https://100-2020.webflow.io](https://100-2020.webflow.io)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Memorable | Home
+ - [https://111-memorable.webflow.io](https://111-memorable.webflow.io)
+ - date_published: 2024-10-25T04:34:18+00:00
+
+ ## 54370-archway-publishing
+ - [https://54370-archway-publishing.webflow.io](https://54370-archway-publishing.webflow.io)
+ - date_published: 2023-11-14T00:00:00+00:00
+
+ ## Automate All The Things
+ - [https://aatt.webflow.io](https://aatt.webflow.io)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Airbyte | Open-Source Data Integration Platform | ELT tool
+ - [https://airbyte-dev.webflow.io](https://airbyte-dev.webflow.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## BRAND x DESIGN x TYPE
+ - [https://altertype.webflow.io](https://altertype.webflow.io)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Alvy - Webflow Ecommerce Website Template
+ - [https://alvy-template.webflow.io](https://alvy-template.webflow.io)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Crypto Bank for Institutions | Anchorage Digital
+ - [https://anchorage-digital.webflow.io](https://anchorage-digital.webflow.io)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Avoma - AI Meeting Assistant with Conversation Intelligence
+ - [https://avoma.webflow.io](https://avoma.webflow.io)
+ - date_published: 2024-10-30T07:58:47+00:00
+
  ## Batuta
  - [https://batuta.webflow.io](https://batuta.webflow.io)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -3845,194 +4034,4 @@
  ## Welcome
  - [https://trav.is](https://trav.is)
  - date_published: 2019-11-05T00:00:00+00:00
-
- ## SHOUTcast Server
- - [https://hb.trolli.is](https://hb.trolli.is)
- - date_published: 2017-10-09T00:00:00+00:00
-
- ## Auðna Tæknitorg | TTO ICELAND
- - [https://ttoiceland.is](https://ttoiceland.is)
- - date_published: 2024-06-21T11:11:35.949873+00:00
-
- ## tty.is
- - [https://tty.is](https://tty.is)
- - date_published: 2022-06-29T01:31:35+00:00
-
- ## Tyler Willis
- - [http://tyler.is](http://tyler.is)
- - date_published: 2024-06-23T02:48:46.621425+00:00
-
- ## Umami
- - [https://analytics.eu.umami.is](https://analytics.eu.umami.is)
- - date_published: 2024-05-01T02:42:52.039896+00:00
-
- ## Umami
- - [https://analytics.umami.is](https://analytics.umami.is)
- - date_published: 2024-04-30T07:17:46.399435+00:00
-
- ## Umami
- - [https://analytics.us.umami.is](https://analytics.us.umami.is)
- - date_published: 2024-04-28T02:45:02.356351+00:00
-
- ## Websites | Umami Cloud
- - [https://cloud.umami.is](https://cloud.umami.is)
- - date_published: 2024-05-06T20:19:38.021849+00:00
-
- ## Umami
- - [https://eu.umami.is](https://eu.umami.is)
- - date_published: 2024-05-02T11:10:57.123850+00:00
-
- ## Umami
- - [https://umami.is](https://umami.is)
- - date_published: 2024-04-08T19:31:04.401640+00:00
- - tags: ['self-host', 'open source', 'website analytics']
-
- ## Umami
- - [https://us.umami.is](https://us.umami.is)
- - date_published: 2024-04-28T01:40:24.646587+00:00
-
- ## Umferðin
- - [https://umferdin.is](https://umferdin.is)
- - date_published: 2024-06-27T17:29:08.509080+00:00
-
- ## SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime
- - [https://uptime.is](https://uptime.is)
- - date_published: 2024-04-28T03:23:35.964987+00:00
-
- ## Bloggsíður Veðurstofu Íslands
- - [https://blog.vedur.is](https://blog.vedur.is)
- - date_published: 2024-08-07T22:43:35.389866+00:00
-
- ## Home-page - Icelandic Meteorological Office | Icelandic Meteorological office
- - [https://en.vedur.is](https://en.vedur.is)
- - date_published: 2024-04-28T02:23:22.906270+00:00
-
- ## Hraun
- - [http://hraun.vedur.is](http://hraun.vedur.is)
- - date_published: 2011-05-30T11:09:55+00:00
-
- ## Skráningarvefur Veðurstofu Íslands
- - [http://skraflod.vedur.is](http://skraflod.vedur.is)
- - date_published: 2024-08-07T22:43:26.448271+00:00
-
- ## Skráningarvefur Veðurstofu Íslands
- - [https://skraning.vedur.is](https://skraning.vedur.is)
- - date_published: 2024-08-07T22:43:31.665383+00:00
-
- ## Forsíða Veðurstofu Íslands | Veðurstofa Íslands
- - [https://vedur.is](https://vedur.is)
- - date_published: 2024-08-07T22:43:28+00:00
-
- ## Innskráning - Vegagerðin
- - [https://minarsidur.vegagerdin.is](https://minarsidur.vegagerdin.is)
- - date_published: 2024-06-27T17:29:07.805313+00:00
-
- ## Vegagerðin
- - [https://www.vegagerdin.is](https://www.vegagerdin.is)
- - date_published: 2024-06-27T17:29:06.150835+00:00
-
- ## Gerald's blog about .NET, .NET MAUI, Blazor, ASP.NET, Git, Azure and more!
- - [https://blog.verslu.is](https://blog.verslu.is)
- - date_published: 2023-12-22T09:34:11+00:00
-
- ## Visa er traustur leiðtogi í stafrænum greiðslum.
- - [https://visa.is](https://visa.is)
- - date_published: 2024-05-12T03:58:58.704410+00:00
-
- ## BYLGJAN | Hlustaðu í beinni og á upptökur
- - [https://bylgjan.visir.is](https://bylgjan.visir.is)
- - date_published: 2024-05-06T15:13:48.537142+00:00
-
- ## Fasteignir.is
- - [https://fasteignir.visir.is](https://fasteignir.visir.is)
- - date_published: 2024-05-06T15:14:04.454784+00:00
-
- ## FM957 | Hlustaðu í beinni og á upptökur
- - [https://fm957.visir.is](https://fm957.visir.is)
- - date_published: 2024-05-06T15:14:19.183648+00:00
-
- ## Vodafone - Sjáðu rautt
- - [https://konnun.visir.is](https://konnun.visir.is)
- - date_published: 2024-05-06T15:14:07.221132+00:00
-
- ## Tal - Vísir | Heimili íslenskra hlaðvarpa
- - [https://tal.visir.is](https://tal.visir.is)
- - date_published: 2024-05-06T15:13:59.287535+00:00
-
- ## Vefútvarp Vísis | Íslenskar útvarpsstöðvar á netinu
- - [https://vefutvarp.visir.is](https://vefutvarp.visir.is)
- - date_published: 2024-04-23T12:50:53+00:00
-
- ## Forsíða - Vísir
- - [https://visir.is](https://visir.is)
- - date_published: 2024-05-06T15:14:11.684634+00:00
-
- ## X977 | Hlustaðu í beinni og á upptökur
- - [https://x977.visir.is](https://x977.visir.is)
- - date_published: 2024-05-06T15:13:56.783569+00:00
-
- ## Verkami
- - [http://vkm.is](http://vkm.is)
- - date_published: 2024-08-07T03:59:09.140193+00:00
-
- ## Mínar síður - Vodafone
- - [https://minar.vodafone.is](https://minar.vodafone.is)
- - date_published: 2023-10-05T09:03:22+00:00
-
- ## Vodafone - Sjáðu rautt
- - [https://vodafone.is](https://vodafone.is)
- - date_published: 2024-06-23T20:53:25.083066+00:00
-
- ## Vodafone - Sjáðu rautt
- - [http://vodafonelive.is](http://vodafonelive.is)
- - date_published: 2024-06-23T21:03:39.377858+00:00
-
- ## waller.is
- - [https://waller.is](https://waller.is)
- - date_published: 2024-08-23T19:54:50+00:00
-
- ## Waves.is
- - [https://waves.is](https://waves.is)
- - date_published: 2024-02-21T15:35:49+00:00
-
- ## Webstudio Login
- - [https://apps.webstudio.is](https://apps.webstudio.is)
- - date_published: 2024-05-06T15:14:27.122452+00:00
-
- ## Welcome | Webstudio Documentation
- - [https://docs.webstudio.is](https://docs.webstudio.is)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Open visual  development for the open web
- - [https://webstudio.is](https://webstudio.is)
- - date_published: 2023-10-25T20:14:38.592018+00:00
-
- ## owo · home
- - [https://whats-th.is](https://whats-th.is)
- - date_published: 2024-03-13T17:53:34+00:00
-
- ## Haochen Wang
- - [https://whc.is](https://whc.is)
- - date_published: 2024-07-10T03:50:57.260992+00:00
-
- ## Whiteboard | a creative agency for purposeful ventures
- - [https://www.whiteboard.is](https://www.whiteboard.is)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## WHOIS Search, Domain Name, Website, and IP Tools - Who.is
- - [https://who.is](https://who.is)
- - date_published: 2024-05-01T07:55:19.679257+00:00
- - tags: ['online verification', 'online tool']
-
- ## Hire and retain hourly workers | Workstream
- - [https://www.workstream.is](https://www.workstream.is)
- - date_published: 2024-08-08T11:43:15+00:00
-
- ## Keyboard PCB Builder
- - [https://kb.xyz.is](https://kb.xyz.is)
- - date_published: 2020-09-05T23:25:46+00:00
-
- ## OpenMicroWave
- - [https://omw.xyz.is](https://omw.xyz.is)
- - date_published: 2019-06-02T22:16:01+00:00
 

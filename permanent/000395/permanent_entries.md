@@ -1,3 +1,239 @@
+ ## Samogitian Wiktionary - Wikimedia Incubator
+ - [https://bat-smg.wiktionary.org](https://bat-smg.wiktionary.org)
+ - date_published: 2024-07-12T03:00:30.553937+00:00
+
+ ## Баш бит - Wt/ba - Wikimedia Incubator
+ - [https://ba.wiktionary.org](https://ba.wiktionary.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Wiksyunaryo
+ - [https://bcl.m.wiktionary.org](https://bcl.m.wiktionary.org)
+ - date_published: 2024-09-09T12:08:41+00:00
+
+ ## Wiksyunaryo
+ - [https://bcl.wiktionary.org](https://bcl.wiktionary.org)
+ - date_published: 2024-06-01T10:22:12+00:00
+
+ ## Вікіслоўнік
+ - [https://be.m.wiktionary.org](https://be.m.wiktionary.org)
+ - date_published: 2024-09-03T12:28:12+00:00
+
+ ## Wt/be-tarask - Wikimedia Incubator
+ - [https://be-tarask.wiktionary.org](https://be-tarask.wiktionary.org)
+ - date_published: 2024-09-04T03:36:02+00:00
+
+ ## Вікіслоўнік
+ - [https://be.wiktionary.org](https://be.wiktionary.org)
+ - date_published: 2024-06-01T10:22:16+00:00
+
+ ## Уикиречник
+ - [https://bg.m.wiktionary.org](https://bg.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:03+00:00
+
+ ## Уикиречник
+ - [https://bg.wiktionary.org](https://bg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:03+00:00
+
+ ## Wiktionary
+ - [https://bh.wiktionary.org](https://bh.wiktionary.org)
+ - date_published: 2024-09-03T06:46:23+00:00
+
+ ## Wiktionary
+ - [https://bjn.m.wiktionary.org](https://bjn.m.wiktionary.org)
+ - date_published: 2024-09-04T06:46:34+00:00
+
+ ## Wiktionary
+ - [https://bjn.wiktionary.org](https://bjn.wiktionary.org)
+ - date_published: 2024-06-01T12:23:54+00:00
+
+ ## ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ - ဝိစ်သိဉ်နရီ
+ - [https://blk.m.wiktionary.org](https://blk.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:04+00:00
+
+ ## ဝိစ်သိဉ်နရီ:အဓိကလိတ်မဲ့ငါ - ဝိစ်သိဉ်နရီ
+ - [https://blk.wiktionary.org](https://blk.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wiktionary
+ - [https://bm.wiktionary.org](https://bm.wiktionary.org)
+ - date_published: 2024-09-03T06:47:50+00:00
+
+ ## উইকিঅভিধান, একটি মুক্ত অভিধান
+ - [https://bn.m.wiktionary.org](https://bn.m.wiktionary.org)
+ - date_published: 2024-09-06T17:52:33+00:00
+
+ ## উইকিঅভিধান, একটি মুক্ত অভিধান
+ - [https://bn.wiktionary.org](https://bn.wiktionary.org)
+ - date_published: 2024-05-31T20:53:58+00:00
+
+ ## Wiktionary
+ - [https://bo.wiktionary.org](https://bo.wiktionary.org)
+ - date_published: 2024-06-27T20:56:45+00:00
+
+ ## Bishnupriya Wiktionary - Wikimedia Incubator
+ - [https://bpy.wiktionary.org](https://bpy.wiktionary.org)
+ - date_published: 2024-07-12T04:46:00.186105+00:00
+
+ ## Wikeriadur
+ - [https://br.m.wiktionary.org](https://br.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:04+00:00
+
+ ## Wikeriadur
+ - [https://br.wiktionary.org](https://br.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wikirječnik
+ - [https://bs.m.wiktionary.org](https://bs.m.wiktionary.org)
+ - date_published: 2024-09-04T03:22:21+00:00
+
+ ## Wikirječnik
+ - [https://bs.wiktionary.org](https://bs.wiktionary.org)
+ - date_published: 2024-06-01T00:39:13+00:00
+
+ ## Wikikamus
+ - [https://btm.m.wiktionary.org](https://btm.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## Wikikamus
+ - [https://btm.wiktionary.org](https://btm.wiktionary.org)
+ - date_published: 2024-06-11T12:31:04+00:00
+
+ ## Wt/bug - Wikimedia Incubator
+ - [https://bug.wiktionary.org](https://bug.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Нюур хуудаһан - Wt/bxr - Wikimedia Incubator
+ - [https://bxr.wiktionary.org](https://bxr.wiktionary.org)
+ - date_published: 2024-06-28T03:58:21+00:00
+
+ ## Viccionari
+ - [https://ca.m.wiktionary.org](https://ca.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:12+00:00
+
+ ## Viccionari
+ - [https://ca.wiktionary.org](https://ca.wiktionary.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Unang Panid - Wt/ceb - Wikimedia Incubator
+ - [https://ceb.wiktionary.org](https://ceb.wiktionary.org)
+ - date_published: 2024-06-28T05:28:39+00:00
+
+ ## Коьрта агӀо - Wt/ce - Wikimedia Incubator
+ - [https://ce.wiktionary.org](https://ce.wiktionary.org)
+ - date_published: 2024-06-27T22:03:11+00:00
+
+ ## Wiktionary
+ - [https://chr.m.wiktionary.org](https://chr.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## Wiktionary
+ - [https://chr.wiktionary.org](https://chr.wiktionary.org)
+ - date_published: 2024-06-11T12:31:05+00:00
+
+ ## Wiktionary
+ - [https://ch.wiktionary.org](https://ch.wiktionary.org)
+ - date_published: 2024-09-03T06:46:23+00:00
+
+ ## ویکیفەرھەنگ
+ - [https://ckb.m.wiktionary.org](https://ckb.m.wiktionary.org)
+ - date_published: 2024-09-07T06:41:05+00:00
+
+ ## ویکیفەرھەنگ
+ - [https://ckb.wiktionary.org](https://ckb.wiktionary.org)
+ - date_published: 2024-06-11T12:31:05+00:00
+
+ ## Wiktionary
+ - [https://co.m.wiktionary.org](https://co.m.wiktionary.org)
+ - date_published: 2024-09-03T21:43:21+00:00
+
+ ## Wiktionary
+ - [https://co.wiktionary.org](https://co.wiktionary.org)
+ - date_published: 2024-06-01T02:37:47+00:00
+
+ ## Baş Saife - Wt/crh - Wikimedia Incubator
+ - [https://crh.wiktionary.org](https://crh.wiktionary.org)
+ - date_published: 2024-09-04T03:45:54+00:00
+
+ ## Wiktionary
+ - [https://csb.m.wiktionary.org](https://csb.m.wiktionary.org)
+ - date_published: 2024-09-04T03:34:33+00:00
+
+ ## Wiktionary
+ - [https://csb.wiktionary.org](https://csb.wiktionary.org)
+ - date_published: 2024-06-01T01:06:35+00:00
+
+ ## Wikislovník
+ - [https://cs.m.wiktionary.org](https://cs.m.wiktionary.org)
+ - date_published: 2024-09-17T20:09:28+00:00
+
+ ## Wikislovník
+ - [https://cs.wiktionary.org](https://cs.wiktionary.org)
+ - date_published: 2024-06-11T12:31:06+00:00
+
+ ## главьна страница - Wt/cu - Wikimedia Incubator
+ - [https://cu.wiktionary.org](https://cu.wiktionary.org)
+ - date_published: 2024-06-28T02:36:06+00:00
+
+ ## Тĕп страница - Wt/cv - Wikimedia Incubator
+ - [https://cv.wiktionary.org](https://cv.wiktionary.org)
+ - date_published: 2024-06-27T21:50:36+00:00
+
+ ## Wiciadur
+ - [https://cy.m.wiktionary.org](https://cy.m.wiktionary.org)
+ - date_published: 2024-09-03T14:01:07+00:00
+
+ ## Wiciadur
+ - [https://cy.wiktionary.org](https://cy.wiktionary.org)
+ - date_published: 2024-05-31T14:03:14+00:00
+
+ ## Main Page - Wt/dag - Wikimedia Incubator
+ - [https://dag.wiktionary.org](https://dag.wiktionary.org)
+ - date_published: 2024-06-28T03:14:44+00:00
+
+ ## Wiktionary
+ - [https://da.wiktionary.org](https://da.wiktionary.org)
+ - date_published: 2024-06-01T11:23:28+00:00
+
+ ## Wiktionary
+ - [https://de.m.wiktionary.org](https://de.m.wiktionary.org)
+ - date_published: 2024-09-18T03:16:19+00:00
+
+ ## Wiktionary
+ - [https://de.wiktionary.org](https://de.wiktionary.org)
+ - date_published: 2024-06-15T12:16:16+00:00
+
+ ## Dagaare Wiktionary - Wikimedia Incubator
+ - [https://dga.wiktionary.org](https://dga.wiktionary.org)
+ - date_published: 2024-07-12T03:14:09.535212+00:00
+
+ ## Wikiqısebend
+ - [https://diq.wiktionary.org](https://diq.wiktionary.org)
+ - date_published: 2024-06-27T20:53:58+00:00
+
+ ## Lower Sorbian Wiktionary - Wikimedia Incubator
+ - [https://dsb.wiktionary.org](https://dsb.wiktionary.org)
+ - date_published: 2024-09-18T03:35:59.581145+00:00
+
+ ## मुख्य पन्ना - Wt/dty - Wikimedia Incubator
+ - [https://dty.wiktionary.org](https://dty.wiktionary.org)
+ - date_published: 2024-07-02T09:39:28+00:00
+
+ ## ވިކިރަދީފު
+ - [https://dv.m.wiktionary.org](https://dv.m.wiktionary.org)
+ - date_published: 2024-09-04T03:11:54+00:00
+
+ ## ވިކިރަދީފު
+ - [https://dv.wiktionary.org](https://dv.wiktionary.org)
+ - date_published: 2024-05-31T11:47:02+00:00
+
+ ## Wt/ee - Wikimedia Incubator
+ - [https://ee.wiktionary.org](https://ee.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Βικιλεξικό
+ - [https://el.m.wiktionary.org](https://el.m.wiktionary.org)
+ - date_published: 2024-09-17T04:12:19+00:00
+
  ## Βικιλεξικό
  - [https://el.wiktionary.org](https://el.wiktionary.org)
  - date_published: 2024-06-15T04:40:55+00:00
@@ -3775,242 +4011,4 @@
  ## World Heritage Site | For UNESCO World Heritage Travellers
  - [https://www.worldheritagesite.org](https://www.worldheritagesite.org)
  - date_published: 2024-06-20T08:43:11.016122+00:00
-
- ## World History Encyclopedia
- - [https://worldhistory.org](https://worldhistory.org)
- - date_published: 2023-10-25T22:22:14.640193+00:00
-
- ## World IPv6 Launch
- - [http://worldipv6launch.org](http://worldipv6launch.org)
- - date_published: 2024-07-15T11:43:14.762505+00:00
-
- ## World Jewish Congress
- - [http://www.worldjewishcongress.org](http://www.worldjewishcongress.org)
- - date_published: 2024-10-21T19:03:22.527336+00:00
-
- ## World Justice Project | Advancing the rule of law worldwide
- - [https://worldjusticeproject.org](https://worldjusticeproject.org)
- - date_published: 2024-06-29T19:55:03+00:00
-
- ## Home
- - [http://www.worldlandtrust.org](http://www.worldlandtrust.org)
- - date_published: 2017-02-06T00:00:00+00:00
-
- ## World Legal Information Institute (WorldLII)
- - [http://www.worldlii.org](http://www.worldlii.org)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## World Literacy Foundation - Changing Lives Through Literacy
- - [https://worldliteracyfoundation.org](https://worldliteracyfoundation.org)
- - date_published: 2023-01-30T23:56:24+00:00
-
- ## World Literature Today
- - [https://www.worldliteraturetoday.org](https://www.worldliteraturetoday.org)
- - date_published: 2024-10-29T19:24:24+00:00
-
- ## WLA Home
- - [https://www.world-lotteries.org](https://www.world-lotteries.org)
- - date_published: 2024-07-19T13:15:08+00:00
-
- ## Welterzeugung (
- - [https://www.worldmaking-china.org](https://www.worldmaking-china.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## World Malaria Day
- - [http://www.worldmalariaday.org](http://www.worldmalariaday.org)
- - date_published: 2024-06-28T15:44:15.309847+00:00
-
- ## Home - 2023 World Medical Innovation Forum
- - [https://2023.worldmedicalinnovation.org](https://2023.worldmedicalinnovation.org)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Home - 2024 World Medical Innovation Forum
- - [https://2024.worldmedicalinnovation.org](https://2024.worldmedicalinnovation.org)
- - date_published: 2024-07-07T08:08:16.361526+00:00
-
- ## Home - World Medical Innovation Forum
- - [https://worldmedicalinnovation.org](https://worldmedicalinnovation.org)
- - date_published: 2024-05-08T10:03:16.694333+00:00
-
- ## Home
- - [https://worldmosquito.org](https://worldmosquito.org)
- - date_published: 2024-08-08T13:47:34+00:00
-
- ## Home
- - [https://worldmosquitoprogram.org](https://worldmosquitoprogram.org)
- - date_published: 2024-02-20T16:42:47.804993+00:00
-
- ## Home Page - World Nuclear Association
- - [https://world-nuclear.org](https://world-nuclear.org)
- - date_published: 2024-08-18T17:30:56.370380+00:00
-
- ## Homepage - World Nuclear News
- - [https://world-nuclear-news.org](https://world-nuclear-news.org)
- - date_published: 2024-08-18T06:49:48.915856+00:00
-
- ## World of Paleoanthropology – Join us on a Journey through Deep Human Time…
- - [https://worldofpaleoanthropology.org](https://worldofpaleoanthropology.org)
- - date_published: 2023-10-25T22:22:16.776641+00:00
-
- ## World of Spectrum
- - [https://worldofspectrum.org](https://worldofspectrum.org)
- - date_published: 2024-03-30T03:02:10.269809+00:00
- - tags: ['zx spectrum']
-
- ## World Ovarian Cancer Coalition Partner Site
- - [http://partners.worldovariancancercoalition.org](http://partners.worldovariancancercoalition.org)
- - date_published: 2024-06-23T20:51:51.673781+00:00
-
- ## Home
- - [https://worldovariancancercoalition.org](https://worldovariancancercoalition.org)
- - date_published: 2024-05-06T15:13:36.200561+00:00
-
- ## Research for non-violent futures - World Peace Foundation
- - [https://worldpeacefoundation.org](https://worldpeacefoundation.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home - World Peace Game Foundation
- - [https://worldpeacegame.org](https://worldpeacegame.org)
- - date_published: 2022-11-04T00:00:00+00:00
-
- ## Home | Platform for Experimental Collaborative Ethnography
- - [https://worldpece.org](https://worldpece.org)
- - date_published: 2024-08-19T17:14:26.575224+00:00
-
- ## Homepage
- - [https://www.worldphoto.org](https://www.worldphoto.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## World Possible Community
- - [https://community.worldpossible.org](https://community.worldpossible.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## RACHEL - Preview
- - [http://preview.worldpossible.org](http://preview.worldpossible.org)
- - date_published: 2024-07-06T23:48:26.285926+00:00
-
- ## Home - RACHEL
- - [https://rachel.worldpossible.org](https://rachel.worldpossible.org)
- - date_published: 2024-05-08T08:48:22.582201+00:00
-
- ## World Possible's RACHEL Server - The Best of the Web Offline
- - [https://worldpossible.org](https://worldpossible.org)
- - date_published: 2024-07-06T23:48:27.994872+00:00
-
- ## Worldpress.org - World News From World Newspapers
- - [http://www.worldpress.org](http://www.worldpress.org)
- - date_published: 2024-06-27T16:14:55+00:00
-
- ## World Privacy Forum
- - [http://www.worldprivacyforum.org](http://www.worldprivacyforum.org)
- - date_published: 2024-06-27T07:55:04.181158+00:00
-
- ## World Puzzle Federation
- - [https://worldpuzzle.org](https://worldpuzzle.org)
- - date_published: 2024-09-16T12:25:45+00:00
-
- ## World Rainforest Day
- - [https://www.worldrainforestday.org](https://www.worldrainforestday.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## World Refrigeration Day | 26th June
- - [https://worldrefrigerationday.org](https://worldrefrigerationday.org)
- - date_published: 2024-06-28T22:51:34.140750+00:00
-
- ## Worlds
- - [https://www.worlds.org](https://www.worlds.org)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## World Shipping Council
- - [http://www.worldshipping.org](http://www.worldshipping.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## WorldSkills - Follow your passion, improve your economic prospects, make society better
- - [https://worldskills.org](https://worldskills.org)
- - date_published: 2024-07-22T10:33:39.338769+00:00
-
- ## worldstainless - Home of stainless steels
- - [https://www.worldstainless.org](https://www.worldstainless.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home page
- - [https://worldsteel.org](https://worldsteel.org)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## The World’s Writing Systems
- - [https://worldswritingsystems.org](https://worldswritingsystems.org)
- - date_published: 2024-09-06T21:31:43.862550+00:00
-
- ## World Time API: Simple JSON/plain-text API to obtain the current
-  time in, and related data about, a timezone.
- - [http://worldtimeapi.org](http://worldtimeapi.org)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## World Usability Day – Make Life Easy.
- - [http://www.worldusabilityday.org](http://www.worldusabilityday.org)
- - date_published: 2023-11-08T00:00:00+00:00
-
- ## Subscribe to world change
- - [http://www.worldvision.org](http://www.worldvision.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home - World War I Centennial site
- - [https://www.worldwar1centennial.org](https://www.worldwar1centennial.org)
- - date_published: 2024-07-10T10:42:38+00:00
-
- ## Themes - World Water Atlas
- - [http://worldwateratlas.org](http://worldwateratlas.org)
- - date_published: 2024-10-27T19:07:10.518107+00:00
-
- ## Home | World Water Council
- - [https://worldwatercouncil.org](https://worldwatercouncil.org)
- - date_published: 2024-04-28T02:13:48.294704+00:00
-
- ## SWIC3.0 - 404
- - [http://severe.worldweather.org](http://severe.worldweather.org)
- - date_published: 2024-03-31T14:50:46+00:00
-
- ## World Weather Attribution – Exploring the contribution of climate change to extreme weather events
- - [https://www.worldweatherattribution.org](https://www.worldweatherattribution.org)
- - date_published: 2024-10-14T23:09:15.070944+00:00
-
- ## Worldwide Cancer Research Weekly Lottery  | Home page
- - [https://lottery.worldwidecancerresearch.org](https://lottery.worldwidecancerresearch.org)
- - date_published: 2024-05-11T08:04:58.099611+00:00
-
- ## Be a Curestarter | Cancer Cures | Worldwide Cancer Research
- - [https://worldwidecancerresearch.org](https://worldwidecancerresearch.org)
- - date_published: 2024-03-18T22:26:20.767736+00:00
-
- ## Словники української мови онлайн
- - [https://uk.worldwidedictionary.org](https://uk.worldwidedictionary.org)
- - date_published: 2024-08-18T08:01:24.907725+00:00
-
- ## WorldWideScience.org | WorldWideScience
- - [https://worldwidescience.org](https://worldwidescience.org)
- - date_published: 2023-06-30T19:07:04+00:00
-
- ## WorldWide Telescope
- - [http://worldwidetelescope.org](http://worldwidetelescope.org)
- - date_published: 2024-08-18T21:10:05.776666+00:00
-
- ## World Wide Words: Welcome!
- - [https://worldwidewords.org](https://worldwidewords.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## fyia | Pages | WWF
- - [http://fyia.worldwildlife.org](http://fyia.worldwildlife.org)
- - date_published: 2024-07-02T20:42:13.624948+00:00
-
- ## WWFGifts – Symbolic Animal Adoptions, T-Shirts, Socks and More from WWF
- - [https://gifts.worldwildlife.org](https://gifts.worldwildlife.org)
- - date_published: 2024-05-01T08:04:14.390444+00:00
-
- ## WWF - Endangered Species Conservation | World Wildlife Fund
- - [https://worldwildlife.org](https://worldwildlife.org)
- - date_published: 2024-05-08T11:28:18.439635+00:00
-
- ## World Without Obesity - Obesity Awareness
- - [https://www.worldwithoutobesity.org](https://www.worldwithoutobesity.org)
- - date_published: 2024-10-22T15:33:54+00:00
 

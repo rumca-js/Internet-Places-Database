@@ -1,3 +1,157 @@
+ ## Viktors Blog
+ - [https://blog.v-gar.de](https://blog.v-gar.de)
+ - date_published: 2024-04-29T07:02:16.864479+00:00
+ - tags: ['personal']
+
+ ## Toolserver
+ - [https://tools.v-gar.de](https://tools.v-gar.de)
+ - date_published: 2024-07-24T03:31:40.212293+00:00
+
+ ## Viktor Garske
+ - [https://v-gar.de](https://v-gar.de)
+ - date_published: 2024-04-29T07:02:15.649190+00:00
+ - tags: ['personal']
+
+ ## VGH Versicherungen aus Niedersachsen | VGH
+ - [https://www.vgh.de](https://www.vgh.de)
+ - date_published: 2024-07-20T15:25:17+00:00
+
+ ## index
+ - [https://vgnpwr.de](https://vgnpwr.de)
+ - date_published: 2024-02-17T17:32:12+00:00
+
+ ## Verband der Gründer und Selbstständigen - Wir geben dir eine Stimme
+ - [https://www.vgsd.de](https://www.vgsd.de)
+ - date_published: 2024-07-10T07:40:36.060455+00:00
+
+ ## blank.gif (1×1)
+ - [https://vg05.met.vgwort.de](https://vg05.met.vgwort.de)
+ - date_published: 2024-04-29T06:16:28.686180+00:00
+
+ ## blank.gif (1×1)
+ - [https://vg06.met.vgwort.de](https://vg06.met.vgwort.de)
+ - date_published: 2024-04-29T06:44:18.728686+00:00
+
+ ## Startseite - VG WORT
+ - [https://vgwort.de](https://vgwort.de)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## start [VHDL-Online]
+ - [https://www.vhdl-online.de](https://www.vhdl-online.de)
+ - date_published: 2024-04-29T09:22:04+00:00
+
+ ## Startseite
+ - [https://www.viadee.de](https://www.viadee.de)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home
+ - [https://www.viagateway-th.de](https://www.viagateway-th.de)
+ - date_published: 2024-10-18T23:28:52.676116+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.de](https://www.viagogo.de)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## VIA REGIA - Barrierefreies Reisen entlang der Kulturroute des Europarates
+ - [http://via-regia-barrierefrei.de](http://via-regia-barrierefrei.de)
+ - date_published: 2024-08-19T21:50:58.568393+00:00
+
+ ## Home
+ - [http://www.viaregia-sachsen.de](http://www.viaregia-sachsen.de)
+ - date_published: 2024-08-19T21:51:06.335358+00:00
+
+ ## AKTUELL
+ - [https://www.viaregia-sachsen-anhalt.de](https://www.viaregia-sachsen-anhalt.de)
+ - date_published: 2024-08-19T21:51:08.473140+00:00
+
+ ## Page Redirection
+ - [https://vibecyber.de](https://vibecyber.de)
+ - date_published: 2023-03-02T11:01:30+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.de](https://www.victronenergy.de)
+ - date_published: 2024-06-21T18:24:23+00:00
+
+ ## IOAM
+ - [https://data-c5925d7d99.videogameszone.de](https://data-c5925d7d99.videogameszone.de)
+ - date_published: 2024-01-17T09:13:53+00:00
+
+ ## Videogameszone Forum
+ - [https://forum.videogameszone.de](https://forum.videogameszone.de)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## videogameszone.de - Stellenmarkt
+ - [https://jobs.videogameszone.de](https://jobs.videogameszone.de)
+ - date_published: 2024-08-06T17:59:39.025494+00:00
+
+ ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
+ - [https://mobile.videogameszone.de](https://mobile.videogameszone.de)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
+ - [https://videogameszone.de](https://videogameszone.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Startseite - Vielfalt Plus⁺
+ - [https://www.vielfalt-plus.de](https://www.vielfalt-plus.de)
+ - date_published: 2019-08-24T12:59:49+00:00
+
+ ## Willkommen - Virtuelle Fachbibliothek Biologie (vifabio)
+ - [http://www.vifabio.de](http://www.vifabio.de)
+ - date_published: 2024-08-18T14:43:53.799577+00:00
+
+ ## Villa Hügel in Essen
+ - [http://www.villahuegel.de](http://www.villahuegel.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Vimcar Support - FAQ Bereich | Vimcar GmbH
+ - [https://support.vimcar.de](https://support.vimcar.de)
+ - date_published: 2024-10-25T09:32:57+00:00
+
+ ## Fahrzeugverwaltung professionell und effizient | Vimcar
+ - [https://vimcar.de](https://vimcar.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## VIMpay Support Center
+ - [https://support.vimpay.de](https://support.vimpay.de)
+ - date_published: 2024-10-09T12:24:38.568441+00:00
+
+ ## Violence Prevention Network
+ - [https://violence-prevention-network.de](https://violence-prevention-network.de)
+ - date_published: 2024-09-12T16:04:02.604246+00:00
+
+ ## Home / Viren im Wasser
+ - [https://viren-im-wasser.de](https://viren-im-wasser.de)
+ - date_published: 2024-04-29T06:57:45.959379+00:00
+
+ ## Wir gestalten die digitale Zukunft Deutschlands
+ - [https://virtual7.de](https://virtual7.de)
+ - date_published: 2024-07-24T06:05:24.023948+00:00
+
+ ## Virtual Dimension Multimedia Produktionen
+ - [http://aktuell.virtualdimension.de](http://aktuell.virtualdimension.de)
+ - date_published: 2022-03-09T11:07:50+00:00
+
+ ## European Modular Adtechnology Full Stack | virtual minds GmbH
+ - [https://virtualminds.de](https://virtualminds.de)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Virtuopolis Ticket System
+ - [https://www.virtuopolis.de](https://www.virtuopolis.de)
+ - date_published: 2024-10-17T18:08:45.211027+00:00
+
+ ## Visa, ein zuverlässiger Partner für digitale Zahlungen
+ - [https://visa.de](https://visa.de)
+ - date_published: 2024-05-12T03:59:55.905717+00:00
+
+ ## Home
+ - [https://www.viscotec.de](https://www.viscotec.de)
+ - date_published: 2024-10-15T21:13:40.742503+00:00
+
+ ## Alles über Berlins offizielle Tourismus- und Kongressorganisation | about.visitBerlin.de
+ - [https://about.visitberlin.de](https://about.visitberlin.de)
+ - date_published: 2024-09-23T00:00:00+00:00
+
  ## Berlin Startseite
  - [https://buchen.visitberlin.de](https://buchen.visitberlin.de)
  - date_published: 2024-09-23T13:40:21.236592+00:00
@@ -3873,157 +4027,4 @@ Bibliotheken / Z39.50
  ## Home
  - [https://andrewbyrd.dev](https://andrewbyrd.dev)
  - date_published: 2021-10-19T00:00:00+00:00
-
- ## Home
- - [https://andrewgilliland.dev](https://andrewgilliland.dev)
- - date_published: 2024-05-11T10:18:07.250167+00:00
-
- ## Andrew Chan
- - [https://andrewkchan.dev](https://andrewkchan.dev)
- - date_published: 2023-12-19T18:48:03.347748+00:00
-
- ## Andrew Nolan
- - [https://andrewnolan.dev](https://andrewnolan.dev)
- - date_published: 2024-06-01T04:57:27.248594+00:00
- - tags: ['personal']
-
- ## activity.andros.dev - GoToSocial
- - [https://activity.andros.dev](https://activity.andros.dev)
- - date_published: 2024-08-18T07:14:10.543930+00:00
-
- ## Soy Andros Fenollosa
- - [https://andros.dev](https://andros.dev)
- - date_published: 2024-07-02T09:12:42+00:00
-
- ## Maza ad blocking - Like Pi-hole but local
- - [https://maza-ad-blocking.andros.dev](https://maza-ad-blocking.andros.dev)
- - date_published: 2024-05-05T13:04:49+00:00
-
- ## Bienvenido al blog
- - [https://angelcruz.dev](https://angelcruz.dev)
- - date_published: 2024-05-11T10:05:48.139150+00:00
-
- ## Angular
- - [https://angular.dev](https://angular.dev)
- - date_published: 2024-04-28T02:37:23.759656+00:00
-
- ## Angular Blog
- - [https://blog.angular.dev](https://blog.angular.dev)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Angular Material Dev
- - [https://angular-material.dev](https://angular-material.dev)
- - date_published: 2024-06-17T19:10:50.075886+00:00
-
- ## Theme Builder for Angular Material
- - [https://themes.angular-material.dev](https://themes.angular-material.dev)
- - date_published: 2024-10-20T08:08:48.102455+00:00
-
- ## Animations on the web
- - [https://animations.dev](https://animations.dev)
- - date_published: 2024-06-22T13:58:51.682983+00:00
-
- ## Hi! I'm Anjana · Anjana Sofia Vakil
- - [https://anjana.dev](https://anjana.dev)
- - date_published: 2024-04-29T07:30:30.767227+00:00
-
- ## Blog | Ankush Menat
- - [https://ankush.dev](https://ankush.dev)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Annotate | Craft walkthroughs that clarify code
- - [https://annotate.dev](https://annotate.dev)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Simple Analytics
- - [https://sa.annotate.dev](https://sa.annotate.dev)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Apache Answer
- - [https://answer.dev](https://answer.dev)
- - date_published: 2024-06-13T02:39:20+00:00
-
- ## Apache Answer Meta
- - [https://meta.answer.dev](https://meta.answer.dev)
- - date_published: 2024-10-31T03:39:40.547754+00:00
-
- ## Antares Programming
- - [https://antaresph.dev](https://antaresph.dev)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Francis Rubio
- - [https://francisrubio.antaresph.dev](https://francisrubio.antaresph.dev)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Pinoy Websites
- - [https://webring.antaresph.dev](https://webring.antaresph.dev)
- - date_published: 2024-07-02T19:47:06.827745+00:00
-
- ## There's no place like /home
- - [https://anthonymorris.dev](https://anthonymorris.dev)
- - date_published: 2024-05-11T10:06:03.266692+00:00
-
- ## Yet another place where a developer rants
- - [https://antopiras.dev](https://antopiras.dev)
- - date_published: 2024-05-11T10:22:22.547294+00:00
-
- ## antunes.dev
- - [https://antunes.dev](https://antunes.dev)
- - date_published: 2024-06-15T16:41:27.733908+00:00
-
- ## Abraham A. Aremu (aka anubra266) - Software Engineer and Open Source Enthusiast
- - [https://anubra266.dev](https://anubra266.dev)
- - date_published: 2024-06-23T08:14:30.277827+00:00
-
- ## Home Page
- - [https://anuraj.dev](https://anuraj.dev)
- - date_published: 2024-06-02T04:36:23+00:00
-
- ## Blog
- - [https://via.anuraj.dev](https://via.anuraj.dev)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## any.dev
- - [https://any.dev](https://any.dev)
- - date_published: 2024-10-21T09:26:56.447328+00:00
-
- ## Anzui.dev - Home
- - [https://anzui.dev](https://anzui.dev)
- - date_published: 2024-05-09T07:52:02.202397+00:00
-
- ## Anzui's PeerTube
- - [https://peertube.anzui.dev](https://peertube.anzui.dev)
- - date_published: 2024-07-10T07:16:50.129606+00:00
-
- ## Anzui's Pixelfed
- - [https://pixelfed.anzui.dev](https://pixelfed.anzui.dev)
- - date_published: 2024-07-10T07:16:52.085351+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.anzui.dev](https://plausible.anzui.dev)
- - date_published: 2024-07-10T07:16:50.851071+00:00
-
- ## Home - Anna Kudriavtsev
- - [https://ap5.dev](https://ap5.dev)
- - date_published: 2023-01-10T00:00:00+00:00
-
- ## linja suwi
- - [https://linjasuwi.ap5.dev](https://linjasuwi.ap5.dev)
- - date_published: 2022-12-26T21:41:19+00:00
-
- ## The personal garden of a broken doll. - Aphrodite.dev
- - [https://aphrodite.dev](https://aphrodite.dev)
- - date_published: 2024-05-09T08:15:34.356700+00:00
-
- ## API Breaking-Change Management - Detection & Remediation
- - [https://apicontract.dev](https://apicontract.dev)
- - date_published: 2024-07-26T13:43:54+00:00
-
- ## API Governance | Ensure API best practices, industry-standards | Automated API reviews
- - [https://apigovernance.dev](https://apigovernance.dev)
- - date_published: 2024-07-25T10:53:33+00:00
-
- ## API Performance: Enhance Your API's Speed and Reliability
- - [https://apiperformance.dev](https://apiperformance.dev)
- - date_published: 2024-07-25T14:14:28+00:00
 

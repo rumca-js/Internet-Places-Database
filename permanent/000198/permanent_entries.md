@@ -1,3 +1,115 @@
+ ## Rick Wilson’s Substack | Substack
+ - [https://therickwilson.substack.com](https://therickwilson.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Build in Private and Do Things that Scale | Jun Kim | Substack
+ - [https://therne.substack.com](https://therne.substack.com)
+ - date_published: 2024-10-18T20:59:47.123569+00:00
+
+ ## The Roots of Liberty | Peter Venetoklis | Substack
+ - [https://therootsofliberty.substack.com](https://therootsofliberty.substack.com)
+ - date_published: 2024-10-31T22:40:25.777763+00:00
+
+ ## The Run Out Grooves | Mitchell Stirling | Substack
+ - [https://therunoutgrooves.substack.com](https://therunoutgrooves.substack.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## The Sauce | Charlie Brown | Substack
+ - [https://thesaucemag.substack.com](https://thesaucemag.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## The Screen | Akos Peterbencze | Substack
+ - [https://thescreen.substack.com](https://thescreen.substack.com)
+ - date_published: 2024-06-22T14:00:13.417355+00:00
+
+ ## These Are Systems | Jacob Bayless | Substack
+ - [https://thesearesystems.substack.com](https://thesearesystems.substack.com)
+ - date_published: 2024-08-18T05:53:29.068794+00:00
+
+ ## thesecondrenaissance | Martin Hooss | Substack
+ - [https://thesecondrenaissance.substack.com](https://thesecondrenaissance.substack.com)
+ - date_published: 2024-10-31T22:49:49.175984+00:00
+
+ ## The Selfish Mind | Akshay Raveendran | Substack
+ - [https://theselfishmind.substack.com](https://theselfishmind.substack.com)
+ - date_published: 2024-08-18T14:04:56.205799+00:00
+
+ ## TheSequence | Jesus Rodriguez | Substack
+ - [https://thesequence.substack.com](https://thesequence.substack.com)
+ - date_published: 2024-01-09T01:45:33.787078+00:00
+
+ ## The Shattered Moon’s Substack | Jon Sparks | Substack
+ - [https://theshatteredmoon.substack.com](https://theshatteredmoon.substack.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## The Software Engineering Times | Ryan Murphy | Substack
+ - [https://thesoftwareengineeringtimes.substack.com](https://thesoftwareengineeringtimes.substack.com)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Latest In Space/ Weekly Space Newsletter | The Space Newsletter | Substack
+ - [https://thespacenewsletter.substack.com](https://thespacenewsletter.substack.com)
+ - date_published: 2024-05-18T02:47:43.508767+00:00
+
+ ## Rec Room | Substack
+ - [https://thespinoffrecroom.substack.com](https://thespinoffrecroom.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## The Bulletin | The Spinoff | Substack
+ - [https://thespinoff.substack.com](https://thespinoff.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Weekend with Madeleine Chapman | The Weekend with Mad Chapman | Substack
+ - [https://thespinoffweekly.substack.com](https://thespinoffweekly.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Wonkette's THE SPLIT | Rebecca Schoenkopf | Substack
+ - [https://thesplit.substack.com](https://thesplit.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## The Street Tree | Paul Wood | Substack
+ - [https://thestreettree.substack.com](https://thestreettree.substack.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## The Sunday Soother | Catherine Andrews | Substack
+ - [https://thesundaysoother.substack.com](https://thesundaysoother.substack.com)
+ - date_published: 2024-09-05T11:28:34.760753+00:00
+
+ ## The Sword and the Sandwich | Talia Lavin | Substack
+ - [https://theswordandthesandwich.substack.com](https://theswordandthesandwich.substack.com)
+ - date_published: 2024-07-09T21:31:03.440832+00:00
+
+ ## The Tea Letter | Mike Newton | Substack
+ - [https://thetealetter.substack.com](https://thetealetter.substack.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## The UnPopulist | Shikha Dalmia | Substack
+ - [https://theunpopulist.substack.com](https://theunpopulist.substack.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## The Upheaval | N.S. Lyons | Substack
+ - [https://theupheaval.substack.com](https://theupheaval.substack.com)
+ - date_published: 2024-07-04T01:28:39.741383+00:00
+
+ ## The VC Corner | Ruben Dominguez Ibar | Substack
+ - [https://thevccorner.substack.com](https://thevccorner.substack.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## The Walrus | Substack
+ - [https://thewalrusca.substack.com](https://thewalrusca.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Walters File | Andy Walters | Substack
+ - [https://thewaltersfile.substack.com](https://thewaltersfile.substack.com)
+ - date_published: 2023-11-19T22:14:18.392857+00:00
+
+ ## The Week in Polls | Dr. Mark Pack | Substack
+ - [https://theweekinpolls.substack.com](https://theweekinpolls.substack.com)
+ - date_published: 2024-10-21T09:10:08.003160+00:00
+
+ ## The White Pages | Garrett Bucks | Substack
+ - [https://thewhitepages.substack.com](https://thewhitepages.substack.com)
+ - date_published: 2024-09-06T12:58:24.407392+00:00
+
  ## The Why Axis | Christopher Ingraham | Substack
  - [https://thewhyaxis.substack.com](https://thewhyaxis.substack.com)
  - date_published: 2024-01-09T01:45:36.113692+00:00
@@ -3931,116 +4043,4 @@
  ## Surfing Waves -  Online Resource for Surf Addicts!
  - [https://imgcdn.surfing-waves.com](https://imgcdn.surfing-waves.com)
  - date_published: 2024-07-20T19:19:22.592992+00:00
-
- ## Surfing Waves -  Online Resource for Surf Addicts!
- - [https://js1.surfing-waves.com](https://js1.surfing-waves.com)
- - date_published: 2024-07-20T19:19:16.612635+00:00
-
- ## Surfing Waves -  Online Resource for Surf Addicts!
- - [https://surfing-waves.com](https://surfing-waves.com)
- - date_published: 2024-05-22T02:48:46.206387+00:00
-
- ## Cierpliwości...
- - [https://www.surfline.com](https://www.surfline.com)
- - date_published: 2024-05-04T10:11:20.626239+00:00
-
- ## Co-browse, co-sell, co-demo, co-anything | Surfly
- - [https://surfly.com](https://surfly.com)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Surfly
- - [https://uat.surfly.com](https://uat.surfly.com)
- - date_published: 2024-10-11T10:16:12.389524+00:00
-
- ## Surfly
- - [https://surfly-us.com](https://surfly-us.com)
- - date_published: 2024-10-11T10:16:49.687377+00:00
-
- ## 老王加速器【官方网站】
- - [http://www.surfmydot.com](http://www.surfmydot.com)
- - date_published: 2024-10-29T08:14:14+00:00
-
- ## Cierpliwości...
- - [https://my.surfshark.com](https://my.surfshark.com)
- - date_published: 2024-04-29T07:13:31.486895+00:00
-
- ## Sign up for Surfshark VPN account
- - [https://order.surfshark.com](https://order.surfshark.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Surfshark: my account
- - [https://search.surfshark.com](https://search.surfshark.com)
- - date_published: 2024-07-24T02:36:59.228542+00:00
-
- ## Cierpliwości...
- - [https://support.surfshark.com](https://support.surfshark.com)
- - date_published: 2024-04-29T07:13:23.596394+00:00
-
- ## Surfshark: secure online VPN service & more
- - [https://surfshark.com](https://surfshark.com)
- - date_published: 2024-04-29T07:13:20.101866+00:00
-
- ## Сергей Сурганов, дизайнер
- - [http://surganov.com](http://surganov.com)
- - date_published: 2024-07-13T15:02:13.068675+00:00
-
- ## Surge: A seed platform for company builders
- - [https://www.surgeahead.com](https://www.surgeahead.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## The Surgery Center - The Surgery Center Shrewsbury
- - [https://www.surgerycentershrewsbury.com](https://www.surgerycentershrewsbury.com)
- - date_published: 2024-07-02T03:23:16.006191+00:00
-
- ## Surgical Robotics Technology | Robotic Surgery News
- - [https://www.surgicalroboticstechnology.com](https://www.surgicalroboticstechnology.com)
- - date_published: 2024-07-12T13:56:35+00:00
-
- ## Surgimed Solutions - Medical Mounting Systems, Medical Carts, Medical Grade PCs, and Disinfectible Keyboards
- - [https://surgimed-cart.com](https://surgimed-cart.com)
- - date_published: 2024-06-10T13:11:12.887861+00:00
-
- ## Suri Agro Fresh – Experience The Difference
- - [https://www.suriagrofresh.com](https://www.suriagrofresh.com)
- - date_published: 2024-06-19T23:09:31.356824+00:00
-
- ## Surindra Auto Industries, Ludhiana - Manufacturer of Trailer Suspension Parts and Trailer Parts
- - [http://www.surindraauto.com](http://www.surindraauto.com)
- - date_published: 2024-10-15T21:37:37.976531+00:00
-
- ## Inicia Sesión. larioja.com
- - [https://areapersonal.surinenglish.com](https://areapersonal.surinenglish.com)
- - date_published: 2024-07-19T21:28:01.342640+00:00
-
- ## Business guide | Surinenglish.com |
- - [https://business-guide.surinenglish.com](https://business-guide.surinenglish.com)
- - date_published: 2024-07-19T21:28:26.844732+00:00
-
- ## Classified ads | Surinenglish.com
- - [https://classifieds.surinenglish.com](https://classifieds.surinenglish.com)
- - date_published: 2024-07-19T21:28:17.742910+00:00
-
- ## Sur in English in PDF version Surinenglish.com | July | 2024
- - [https://print-edition.surinenglish.com](https://print-edition.surinenglish.com)
- - date_published: 2024-07-19T21:27:56.987183+00:00
-
- ## SUR in English - Spanish news in English
- - [https://secure.surinenglish.com](https://secure.surinenglish.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## SUR in English - Spanish news in English
- - [https://surinenglish.com](https://surinenglish.com)
- - date_published: 2023-12-28T16:42:30.076739+00:00
-
- ## Home
- - [https://www.suriyun.com](https://www.suriyun.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## SUR LE JOURNALISME…
- - [http://surlejournalisme.com](http://surlejournalisme.com)
- - date_published: 2024-07-21T06:12:05.285152+00:00
-
- ## Surperformance
- - [https://surperformance.com](https://surperformance.com)
- - date_published: 2024-05-04T14:28:35.723364+00:00
 

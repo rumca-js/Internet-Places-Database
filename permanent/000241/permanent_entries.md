@@ -1,3 +1,135 @@
+ ## Centrum sportovních aktivit
+ - [https://cesa.vut.cz](https://cesa.vut.cz)
+ - date_published: 2024-06-15T02:48:55+00:00
+
+ ## FaVU / Workshops
+ - [https://dilny.favu.vut.cz](https://dilny.favu.vut.cz)
+ - date_published: 2024-09-16T00:42:27.460181+00:00
+
+ ## DSpace Angular :: Home
+ - [https://dspace.vut.cz](https://dspace.vut.cz)
+ - date_published: 2024-07-01T10:22:16.805508+00:00
+
+ ## Fakulta výtvarných umění VUT
+ - [https://favu.vut.cz](https://favu.vut.cz)
+ - date_published: 2024-09-16T00:42:24+00:00
+
+ ## Web fakulty chemické VUT v Brně
+ - [https://fch.vut.cz](https://fch.vut.cz)
+ - date_published: 2024-09-16T00:42:50+00:00
+
+ ## Faculty of Information Technology
+ - [https://fit.vut.cz](https://fit.vut.cz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Matter FAVU
+ - [https://matter.favu.vut.cz](https://matter.favu.vut.cz)
+ - date_published: 2024-09-16T00:42:40.130418+00:00
+
+ ## Přihlásit se na stránky | E-LEARNING VUT
+ - [https://moodle.vut.cz](https://moodle.vut.cz)
+ - date_published: 2024-09-16T00:42:35.420535+00:00
+
+ ## VIDEOGRAM
+ - [https://videogram.favu.vut.cz](https://videogram.favu.vut.cz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Vysoké učení technické v Brně
+ - [https://vut.cz](https://vut.cz)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home | FEKT VUT
+ - [https://www.fekt.vut.cz](https://www.fekt.vut.cz)
+ - date_published: 2024-09-16T00:41:08.763782+00:00
+
+ ## Fakulta podnikatelská, VUT v Brně
+ - [https://www.fp.vut.cz](https://www.fp.vut.cz)
+ - date_published: 2024-09-16T00:46:12.515974+00:00
+
+ ## Poradenské centrum Alfons
+ - [https://alfons.vutbr.cz](https://alfons.vutbr.cz)
+ - date_published: 1990-01-01T00:00:00+00:00
+
+ ## Alumni klub
+ - [https://alumni.fbm.vutbr.cz](https://alumni.fbm.vutbr.cz)
+ - date_published: 2024-09-16T00:46:06.213038+00:00
+
+ ## Authentication Required
+ - [https://cas.fit.vutbr.cz](https://cas.fit.vutbr.cz)
+ - date_published: 1983-04-18T00:00:00+00:00
+
+ ## Citace PRO
+ - [https://citace.lib.vutbr.cz](https://citace.lib.vutbr.cz)
+ - date_published: 2024-07-01T10:22:18.708099+00:00
+
+ ## DSpace Angular :: Home
+ - [https://dspace.vutbr.cz](https://dspace.vutbr.cz)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Fakulta výtvarných umění VUT
+ - [https://favu.vutbr.cz](https://favu.vutbr.cz)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Web fakulty chemické VUT v Brně
+ - [https://fch.vutbr.cz](https://fch.vutbr.cz)
+ - date_published: 2024-06-15T02:48:37+00:00
+
+ ## Home | FEKT VUT
+ - [https://fekt.vutbr.cz](https://fekt.vutbr.cz)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Fakulta strojního inženýrství, Vysoké učení technické v Brně
+ - [https://fme.vutbr.cz](https://fme.vutbr.cz)
+ - date_published: 2024-09-16T00:43:07.319245+00:00
+
+ ## Fakulta podnikatelská, VUT v Brně
+ - [https://fp.vutbr.cz](https://fp.vutbr.cz)
+ - date_published: 2024-06-15T02:48:52.568171+00:00
+
+ ## Fakulta strojního inženýrství, Vysoké učení technické v Brně
+ - [https://fsi.vutbr.cz](https://fsi.vutbr.cz)
+ - date_published: 2024-06-15T02:48:39.806287+00:00
+
+ ## Fakulta strojního inženýrství, Vysoké učení technické v Brně
+ - [https://grantomat.fme.vutbr.cz](https://grantomat.fme.vutbr.cz)
+ - date_published: 2024-09-16T00:43:17.439093+00:00
+
+ ## Studentský intranet FAST - Studentský intranet FAST VUT v Brně
+ - [https://intranet.study.fce.vutbr.cz](https://intranet.study.fce.vutbr.cz)
+ - date_published: 2024-09-16T00:41:43.708672+00:00
+
+ ## HeRoDiS - úvodní strana
+ - [https://is.fme.vutbr.cz](https://is.fme.vutbr.cz)
+ - date_published: 2024-09-16T00:43:12.803376+00:00
+
+ ## Institut celoživotního vzdělávání VUT v Brně
+ - [https://lli.vutbr.cz](https://lli.vutbr.cz)
+ - date_published: 2024-06-15T02:48:41.686693+00:00
+
+ ## Titulní stránka | FAST Moodle
+ - [https://lms.fce.vutbr.cz](https://lms.fce.vutbr.cz)
+ - date_published: 2024-09-16T00:41:45+00:00
+
+ ## BUT unified login
+ - [http://mail.apps.vutbr.cz](http://mail.apps.vutbr.cz)
+ - date_published: 2024-09-16T00:41:48.957135+00:00
+
+ ## Zimbra Web Client Log In
+ - [https://mail.fme.vutbr.cz](https://mail.fme.vutbr.cz)
+ - date_published: 2024-09-16T00:43:10.559624+00:00
+
+ ## Jitsi Meet
+ - [https://meet.fit.vutbr.cz](https://meet.fit.vutbr.cz)
+ - date_published: 2024-08-08T22:47:36.101387+00:00
+
+ ## Přihlášení – VUT
+ - [https://moodle.vutbr.cz](https://moodle.vutbr.cz)
+ - date_published: 2024-06-15T02:48:48+00:00
+
+ ## FIT Nextcloud
+ - [https://nextcloud.fit.vutbr.cz](https://nextcloud.fit.vutbr.cz)
+ - date_published: 2024-09-16T00:43:34.047922+00:00
+
  ## BUT unified login
  - [https://pcest.vutbr.cz](https://pcest.vutbr.cz)
  - date_published: 2024-09-16T00:43:02.875585+00:00
@@ -3893,137 +4025,4 @@ web | Webarchiv.cz
  ## IOAM
  - [https://data-bb21a2f11b.bild.de](https://data-bb21a2f11b.bild.de)
  - date_published: 2024-04-29T05:49:53.409996+00:00
-
- ## BILD ePaper
- - [https://epaper.bild.de](https://epaper.bild.de)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Online Führerscheintest
- - [https://fahrschule.bild.de](https://fahrschule.bild.de)
- - date_published: 2024-04-29T05:50:18.082942+00:00
-
- ## Fehler
- - [https://fonti.prod.ps.bild.de](https://fonti.prod.ps.bild.de)
- - date_published: 2024-07-24T03:23:28.948697+00:00
-
- ## bild slotmachine
- - [https://gluecksdreh.bild.de](https://gluecksdreh.bild.de)
- - date_published: 2024-04-29T05:50:37.598085+00:00
-
- ## Kostenlose Gutscheine für alle Top-Online-Shops - BILD
- - [https://gutscheine.bild.de](https://gutscheine.bild.de)
- - date_published: 2024-04-29T05:50:03.502164+00:00
-
- ## Fehler 404 invalid url
- - [https://hds.ak.token.bild.de](https://hds.ak.token.bild.de)
- - date_published: 2024-04-29T05:50:05.624408+00:00
-
- ## Hey_ Ihr Helfer mit KI
- - [https://hey.bild.de](https://hey.bild.de)
- - date_published: 2024-04-29T05:50:00.492442+00:00
-
- ## Der große IQ-Trainer
- - [https://iqtest.bild.de](https://iqtest.bild.de)
- - date_published: 2024-04-29T05:55:52.269493+00:00
-
- ## BILD Jobs Stellenmarkt
- - [https://jobs.bild.de](https://jobs.bild.de)
- - date_published: 2024-04-29T05:50:44.837748+00:00
-
- ## Login - oculus - Axel Springer
- - [https://marketing.bild.de](https://marketing.bild.de)
- - date_published: 2024-04-29T05:50:49.716403+00:00
-
- ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
- - [https://marktplatz.bild.de](https://marktplatz.bild.de)
- - date_published: 2024-04-29T05:50:31.050510+00:00
-
- ## Aktuelle Nachrichten | BILD.de
- - [https://m.bild.de](https://m.bild.de)
- - date_published: 2023-10-29T18:15:30.206767+00:00
- - tags: ['news']
-
- ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
- - [https://m.sportbild.bild.de](https://m.sportbild.bild.de)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
- - [https://m.sport.bild.de](https://m.sport.bild.de)
- - date_published: 2024-04-29T05:55:54.730835+00:00
-
- ## {bdeTitle}
- - [https://m.wetter.bild.de](https://m.wetter.bild.de)
- - date_published: 2024-04-29T05:50:12.924192+00:00
-
- ## Bild PLAY | Der innovative Video Feed
- - [https://play.bild.de](https://play.bild.de)
- - date_published: 2024-04-29T05:50:18.940780+00:00
-
- ## Fehler
- - [https://rosetta.prod.ps.bild.de](https://rosetta.prod.ps.bild.de)
- - date_published: 2024-04-29T05:50:22.057313+00:00
-
- ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
- - [https://shop.bild.de](https://shop.bild.de)
- - date_published: 2024-07-24T20:15:07.165079+00:00
-
- ## Kostenlose Onlinegames: Jetzt gratis online spielen
- - [https://spiele.bild.de](https://spiele.bild.de)
- - date_published: 2024-04-29T05:49:45.914739+00:00
-
- ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
- - [https://sportbild.bild.de](https://sportbild.bild.de)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
- - [https://sport.bild.de](https://sport.bild.de)
- - date_published: 2024-04-29T05:49:59.043688+00:00
-
- ## Sport Ergebnisse, Spiele und Liveticker von Heute - 08.08.2024
- - [https://sportdaten.sportbild.bild.de](https://sportdaten.sportbild.bild.de)
- - date_published: 2024-08-08T17:11:56.081364+00:00
-
- ## Bild Sportwetten
- - [https://sportwetten.bild.de](https://sportwetten.bild.de)
- - date_published: 2024-04-29T05:50:11.324451+00:00
-
- ## Wetter
- - [https://wetter.bild.de](https://wetter.bild.de)
- - date_published: 2024-04-29T05:50:46.850712+00:00
-
- ## Wissenstest: Testen Sie Ihre Allgemeinbildung
- - [https://wissenstest.bild.de](https://wissenstest.bild.de)
- - date_published: 2024-07-24T20:15:15.345957+00:00
-
- ## BILDblog
- - [http://www.bildblog.de](http://www.bildblog.de)
- - date_published: 2024-07-25T08:54:00+00:00
-
- ## BILDconnect
- - [https://bildconnect.de](https://bildconnect.de)
- - date_published: 2024-04-29T05:50:33.759534+00:00
-
- ## Persönliche Servicewelt
- - [https://service.bildconnect.de](https://service.bildconnect.de)
- - date_published: 2024-07-24T20:13:52.645561+00:00
-
- ## FAQ – Die wichtigsten Fragen und Antworten für BILDplus
- - [https://faq.bildplus.de](https://faq.bildplus.de)
- - date_published: 2019-10-09T14:32:19+00:00
-
- ## Moodle-System des Bildungsservers Sachsen-Anhalt
- - [https://moodle.bildung-lsa.de](https://moodle.bildung-lsa.de)
- - date_published: 2015-10-22T00:00:00+00:00
-
- ## Topic: Unterrichtszeiten | Sekundarschule "Saale-Elster-Auen" Schkopau | Sek Schkopau
- - [https://www.sks-schkopau.bildung-lsa.de](https://www.sks-schkopau.bildung-lsa.de)
- - date_published: 2024-05-10T06:54:36.727069+00:00
-
- ## BildungsCent e.V.: Startseite
- - [http://www.bildungscent.de](http://www.bildungscent.de)
- - date_published: 2024-09-12T16:05:15.387489+00:00
-
- ## Startseite - Bildungsinitiative Ferhat Unvar
- - [https://www.bildungsinitiative-ferhatunvar.de](https://www.bildungsinitiative-ferhatunvar.de)
- - date_published: 2024-10-22T12:35:56.222454+00:00
 

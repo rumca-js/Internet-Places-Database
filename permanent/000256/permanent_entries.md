@@ -1,3 +1,167 @@
+ ## ScholarWorks@UA Home
+ - [https://scholarworks.alaska.edu](https://scholarworks.alaska.edu)
+ - date_published: 2024-07-01T22:04:44.669404+00:00
+
+ ## Sea Ice Group
+ - [https://seaice.alaska.edu](https://seaice.alaska.edu)
+ - date_published: 2023-11-29T00:15:05+00:00
+
+ ## OIT Services Status
+ - [http://status.alaska.edu](http://status.alaska.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## UA Alert
+ - [https://uaalert.alaska.edu](https://uaalert.alaska.edu)
+ - date_published: 2024-07-01T22:04:13.468654+00:00
+
+ ## UAF ON ALERT
+ - [https://uafalert.alaska.edu](https://uafalert.alaska.edu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## UAOnline Services | UAOnline Services
+ - [https://uaonline.alaska.edu](https://uaonline.alaska.edu)
+ - date_published: 2024-07-01T22:04:24.480833+00:00
+
+ ## UA Web SSO Service
+ - [http://webmail.alaska.edu](http://webmail.alaska.edu)
+ - date_published: 2024-07-01T22:04:03.216996+00:00
+
+ ## University of Alaska Anchorage | University of Alaska Anchorage
+ - [https://www.uaa.alaska.edu](https://www.uaa.alaska.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## University of Alaska Southeast
+ - [http://www.uas.alaska.edu](http://www.uas.alaska.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Alaska Pacific University - Discover Active Learning
+ - [https://alaskapacific.edu](https://alaskapacific.edu)
+ - date_published: 2024-06-15T04:49:31.690907+00:00
+
+ ## Admissions & Costs - Alaska Pacific University
+ - [https://apply.alaskapacific.edu](https://apply.alaskapacific.edu)
+ - date_published: 2024-09-16T07:06:54.990577+00:00
+
+ ## IIS Windows Server
+ - [https://apu-portal.alaskapacific.edu](https://apu-portal.alaskapacific.edu)
+ - date_published: 2020-02-19T01:46:15+00:00
+
+ ## Alaska Pacific University - Modern Campus Catalog™
+ - [http://catalog.alaskapacific.edu](http://catalog.alaskapacific.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Turnagain Currents – Alaska Pacific University
+ - [http://turnagain.alaskapacific.edu](http://turnagain.alaskapacific.edu)
+ - date_published: 2024-09-16T07:06:51.438909+00:00
+
+ ## University at Albany - State University of New York
+ - [https://albany.edu](https://albany.edu)
+ - date_published: 2024-08-11T22:43:41+00:00
+
+ ## Department of Atmospheric and Environmental Sciences | University at Albany
+ - [http://www.atmos.albany.edu](http://www.atmos.albany.edu)
+ - date_published: 2024-06-21T20:19:28+00:00
+
+ ## Computer Science | University at Albany
+ - [http://www.cs.albany.edu](http://www.cs.albany.edu)
+ - date_published: 2024-09-02T15:40:21+00:00
+
+ ## Allegheny College Meadville PA
+ - [http://www.allegheny.edu](http://www.allegheny.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home
+ - [https://bard.alquds.edu](https://bard.alquds.edu)
+ - date_published: 2020-12-30T09:07:45+00:00
+
+ ## Al-Quds University - Al-Quds University جامعة القدس
+ - [https://www.alquds.edu](https://www.alquds.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## American University, Washington, D.C.
+ - [https://american.edu](https://american.edu)
+ - date_published: 2024-04-30T03:03:33.528880+00:00
+
+ ## Canvas Login
+ - [https://canvas.american.edu](https://canvas.american.edu)
+ - date_published: 2024-07-22T08:50:22.221499+00:00
+
+ ## American University Washington College of Law - Acalog ACMS™
+ - [http://catalog.wcl.american.edu](http://catalog.wcl.american.edu)
+ - date_published: 2024-07-07T08:46:29.068021+00:00
+
+ ## Digital Commons @ American University Washington College of Law | American University Washington College of Law Research
+ - [http://digitalcommons.wcl.american.edu](http://digitalcommons.wcl.american.edu)
+ - date_published: 2024-07-07T08:46:18.350482+00:00
+
+ ## Sign In
+ - [https://future-eagle.american.edu](https://future-eagle.american.edu)
+ - date_published: 2024-07-22T08:50:32+00:00
+
+ ## Sign in to Outlook
+ - [https://mail.american.edu](https://mail.american.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Browser SSO
+ - [https://myau.american.edu](https://myau.american.edu)
+ - date_published: 2024-07-07T08:46:16.316897+00:00
+
+ ## Browser SSO
+ - [https://my.wcl.american.edu](https://my.wcl.american.edu)
+ - date_published: 2024-07-07T08:46:27.322242+00:00
+
+ ## Online Law Degree
+ - [https://onlinelaw.wcl.american.edu](https://onlinelaw.wcl.american.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Research @ AU
+ - [https://research.american.edu](https://research.american.edu)
+ - date_published: 2023-10-25T18:46:30.302927+00:00
+
+ ## American University Washington College of Law
+ - [https://wcl.american.edu](https://wcl.american.edu)
+ - date_published: 2024-05-08T10:07:22.676670+00:00
+
+ ## Home
+ - [https://acpress.amherst.edu](https://acpress.amherst.edu)
+ - date_published: 2024-10-19T11:07:13.648046+00:00
+
+ ## Home | Amherst College
+ - [http://amherst.edu](http://amherst.edu)
+ - date_published: 2024-07-21T22:35:27+00:00
+
+ ## Amherst College Directory
+ - [http://directory.amherst.edu](http://directory.amherst.edu)
+ - date_published: 2024-07-21T23:36:16.758619+00:00
+
+ ## Home
+ - [https://www.anderson.edu](https://www.anderson.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## An independent and inclusive coed boarding high school
+ - [http://www.andover.edu](http://www.andover.edu)
+ - date_published: 2024-07-01T15:25:20.953925+00:00
+
+ ## Homepage | Saint Anselm College
+ - [https://www.anselm.edu](https://www.anselm.edu)
+ - date_published: 2024-06-28T08:02:22+00:00
+
+ ## Accessibility at App State
+ - [https://accessibility.appstate.edu](https://accessibility.appstate.edu)
+ - date_published: 2024-08-07T16:52:33+00:00
+
+ ## api.appstate.edu
+ - [https://api.appstate.edu](https://api.appstate.edu)
+ - date_published: 2018-02-22T14:15:42+00:00
+
+ ## AppalNet | Appalachian State University
+ - [https://appalnet.appstate.edu](https://appalnet.appstate.edu)
+ - date_published: 2024-05-15T14:56:59+00:00
+
+ ## Appalachian State University
+ - [https://appstate.edu](https://appstate.edu)
+ - date_published: 2024-08-07T16:52:36.364030+00:00
+
  ## Home | AsULearn
  - [https://asulearn.appstate.edu](https://asulearn.appstate.edu)
  - date_published: 2024-08-07T16:52:30+00:00
@@ -3838,169 +4002,4 @@
  ## anthrohub - Search Results - Digital Collections
  - [http://techreports.lib.berkeley.edu](http://techreports.lib.berkeley.edu)
  - date_published: 2024-07-02T13:34:33.530623+00:00
-
- ## Home - Terner Center
- - [https://ternercenter.berkeley.edu](https://ternercenter.berkeley.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home | Thriving
- - [https://thriving.berkeley.edu](https://thriving.berkeley.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home | The Third World Liberation Front
- - [https://twlf.berkeley.edu](https://twlf.berkeley.edu)
- - date_published: 2024-07-22T06:35:48+00:00
-
- ## Home | Berkeley UCPD
- - [https://ucpd.berkeley.edu](https://ucpd.berkeley.edu)
- - date_published: 2024-07-22T07:43:40+00:00
-
- ## Home | University of California Undergraduate Experience Survey
- - [https://ucues.berkeley.edu](https://ucues.berkeley.edu)
- - date_published: 2024-07-22T06:54:25+00:00
-
- ## Home | Undergraduate Education
- - [https://ue.berkeley.edu](https://ue.berkeley.edu)
- - date_published: 2024-08-09T02:58:08+00:00
-
- ## University Health Services
- - [https://uhs.berkeley.edu](https://uhs.berkeley.edu)
- - date_published: 2024-04-30T03:19:15.085528+00:00
-
- ## Undocumented Student Program: The University of California at Berkeley
- - [https://undocu.berkeley.edu](https://undocu.berkeley.edu)
- - date_published: 2015-05-10T00:00:00+00:00
-
- ## Home | University Business Partnerships & Services
- - [https://upp.berkeley.edu](https://upp.berkeley.edu)
- - date_published: 2024-09-04T18:41:44+00:00
-
- ## Home | Vice Chancellor Administration
- - [https://vca.berkeley.edu](https://vca.berkeley.edu)
- - date_published: 2024-08-08T22:55:45+00:00
-
- ## Home | Research UC Berkeley
- - [https://vcresearch.berkeley.edu](https://vcresearch.berkeley.edu)
- - date_published: 2024-07-13T13:04:39.678634+00:00
-
- ## Home | Undergraduate Education
- - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Visualization Lab | UC Berkeley
- - [http://vis.berkeley.edu](http://vis.berkeley.edu)
- - date_published: 2022-10-23T06:26:12+00:00
-
- ## UC Berkeley Vision
- - [https://vision-api.berkeley.edu](https://vision-api.berkeley.edu)
- - date_published: 2024-07-22T07:36:41.861282+00:00
-
- ## UC Berkeley Vision
- - [https://vision.berkeley.edu](https://vision.berkeley.edu)
- - date_published: 2024-04-30T03:25:52.728450+00:00
-
- ## Home | Visitor Services
- - [https://visit.berkeley.edu](https://visit.berkeley.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Voices
- - [https://voices.berkeley.edu](https://voices.berkeley.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home | Visiting Scholar & Postdoc Affairs
- - [https://vspa.berkeley.edu](https://vspa.berkeley.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## WAFR 2016
- - [http://wafr2016.berkeley.edu](http://wafr2016.berkeley.edu)
- - date_published: 2021-05-06T01:19:28+00:00
-
- ## UC Berkeley WarnMe Emergency Alert Service
- - [http://warnme.berkeley.edu](http://warnme.berkeley.edu)
- - date_published: 2024-07-22T07:42:14.452172+00:00
-
- ## Home | Digital Accessibility
- - [https://webaccess.berkeley.edu](https://webaccess.berkeley.edu)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Home | Web Platform Services
- - [https://web.berkeley.edu](https://web.berkeley.edu)
- - date_published: 2024-07-22T17:35:47+00:00
-
- ## Webcast and Legacy Course Capture | Research, Teaching, and Learning
- - [http://webcast.berkeley.edu](http://webcast.berkeley.edu)
- - date_published: 2024-08-06T05:17:42+00:00
-
- ## Wikis | EECS Wiki Server
- - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:27:43.570975+00:00
-
- ## Index of /
- - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
- - date_published: 2024-04-28T03:26:46.953639+00:00
-
- ## Home | EECS at UC Berkeley
- - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:26:00.185920+00:00
-
- ## SIMS: School of Information Management and Systems,
-         UC Berkeley
- - [http://www2.sims.berkeley.edu](http://www2.sims.berkeley.edu)
- - date_published: 2008-05-20T21:26:47+00:00
-
- ## Berkeley Emerging Technologies Research (BETR)
- - [https://www.betr.berkeley.edu](https://www.betr.berkeley.edu)
- - date_published: 2024-10-19T08:13:49.462989+00:00
-
- ## People @ EECS at UC Berkeley
- - [http://www-cad.eecs.berkeley.edu](http://www-cad.eecs.berkeley.edu)
- - date_published: 2024-08-19T20:41:21.786029+00:00
-
- ## Home | CSUA
- - [https://www.csua.berkeley.edu](https://www.csua.berkeley.edu)
- - date_published: 2024-08-07T15:54:40.805067+00:00
-
- ## Department of Economics
- - [https://www.econ.berkeley.edu](https://www.econ.berkeley.edu)
- - date_published: 2024-06-22T05:45:40+00:00
-
- ## Gopnik Lab
- - [http://www.gopniklab.berkeley.edu](http://www.gopniklab.berkeley.edu)
- - date_published: 2024-06-22T08:13:10.885646+00:00
-
- ## EECS Instructional Support Group Home Page
- - [http://www-inst.eecs.berkeley.edu](http://www-inst.eecs.berkeley.edu)
- - date_published: 2024-03-22T19:03:40+00:00
-
- ## Space Sciences Lab
- - [https://www.ssl.berkeley.edu](https://www.ssl.berkeley.edu)
- - date_published: 2024-07-14T04:06:54.165634+00:00
-
- ## VIP Lab
- - [http://www-video.eecs.berkeley.edu](http://www-video.eecs.berkeley.edu)
- - date_published: 2024-06-22T09:06:30.537459+00:00
-
- ## Boston Conservatory at Berklee
- - [https://bostonconservatory.berklee.edu](https://bostonconservatory.berklee.edu)
- - date_published: 2024-06-21T13:59:48+00:00
-
- ## OneLogin
- - [https://canvas.berklee.edu](https://canvas.berklee.edu)
- - date_published: 2024-06-12T05:31:51+00:00
-
- ## Berklee College of Music
- - [https://college.berklee.edu](https://college.berklee.edu)
- - date_published: 2024-06-21T14:00:45+00:00
-
- ## OneLogin
- - [https://hub.berklee.edu](https://hub.berklee.edu)
- - date_published: 2024-06-12T05:31:51+00:00
-
- ## Welcome | The Library
- - [https://library.berklee.edu](https://library.berklee.edu)
- - date_published: 2024-06-21T13:55:46+00:00
-
- ## Berklee NYC
- - [https://nyc.berklee.edu](https://nyc.berklee.edu)
- - date_published: 2024-06-21T13:24:34+00:00
 

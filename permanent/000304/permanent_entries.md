@@ -1,3 +1,179 @@
+ ## Jorge Castro
+ - [https://jorge-castro.ghost.io](https://jorge-castro.ghost.io)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## joseph of iowa
+ - [https://josephofiowa.ghost.io](https://josephofiowa.ghost.io)
+ - date_published: 2024-08-18T14:04:25.749918+00:00
+
+ ## J. Sanilac
+ - [https://j-sanilac.ghost.io](https://j-sanilac.ghost.io)
+ - date_published: 2024-08-19T08:08:59.102108+00:00
+
+ ## Duane O'Brien Is A Jumpsuit Wizard
+ - [https://jumpsuit-wizard-pilot.ghost.io](https://jumpsuit-wizard-pilot.ghost.io)
+ - date_published: 2024-10-17T22:28:35.852581+00:00
+
+ ## Jussi Roine
+ - [https://jussi-roine.ghost.io](https://jussi-roine.ghost.io)
+ - date_published: 2024-06-15T16:30:32.986985+00:00
+
+ ## Jvandemo.com
+ - [https://jvandemo-com.ghost.io](https://jvandemo-com.ghost.io)
+ - date_published: 2024-06-23T10:14:21.026669+00:00
+
+ ## @kamranicus
+ - [https://kamranicus.ghost.io](https://kamranicus.ghost.io)
+ - date_published: 2024-08-19T19:46:30.545013+00:00
+
+ ## Karl's Notes
+ - [https://karls-notes.ghost.io](https://karls-notes.ghost.io)
+ - date_published: 2024-08-19T07:58:05.889630+00:00
+
+ ## Karl Sutt
+ - [https://karl-sutt.ghost.io](https://karl-sutt.ghost.io)
+ - date_published: 2024-08-19T07:58:03.119452+00:00
+
+ ## Kate Heartfield
+ - [https://kate-heartfield.ghost.io](https://kate-heartfield.ghost.io)
+ - date_published: 2024-06-19T05:59:36.182632+00:00
+
+ ## Interconnected
+ - [https://kevinxu-3.ghost.io](https://kevinxu-3.ghost.io)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Kickstarter Blog: Project Updates
+ - [https://kickstarter.ghost.io](https://kickstarter.ghost.io)
+ - date_published: 2024-07-14T15:17:35.416036+00:00
+
+ ## Klang Magazine
+ - [https://klang.ghost.io](https://klang.ghost.io)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Knowledge Ecologist
+ - [https://knowledge-ecologist.ghost.io](https://knowledge-ecologist.ghost.io)
+ - date_published: 2024-05-12T05:30:18.217579+00:00
+
+ ## Kojo's blog
+ - [https://kojos-blog.ghost.io](https://kojos-blog.ghost.io)
+ - date_published: 2024-09-14T10:04:04.473876+00:00
+
+ ## Kawan
+ - [https://kontinentalist.ghost.io](https://kontinentalist.ghost.io)
+ - date_published: 2024-09-12T15:26:47.449743+00:00
+
+ ## Kyle Platt
+ - [https://kyle-platt.ghost.io](https://kyle-platt.ghost.io)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## LanceDB Blog
+ - [https://lance-blog.ghost.io](https://lance-blog.ghost.io)
+ - date_published: 2024-05-04T11:47:18.188237+00:00
+
+ ## LangChain Blog
+ - [https://langchain-blog.ghost.io](https://langchain-blog.ghost.io)
+ - date_published: 2024-04-29T07:57:20.166667+00:00
+
+ ## Last9 Blog: Exploring the Realm of Monitoring, Observability, and Reliability for SREs and DevOps
+ - [https://last9.ghost.io](https://last9.ghost.io)
+ - date_published: 2024-05-06T06:39:40.193169+00:00
+
+ ## Blog - Lennart Heim
+ - [https://lennart.ghost.io](https://lennart.ghost.io)
+ - date_published: 2024-06-19T02:29:35.085365+00:00
+
+ ## @levelsio (Pieter Levels)
+ - [https://levels.ghost.io](https://levels.ghost.io)
+ - date_published: 2024-06-22T23:17:49.976509+00:00
+
+ ## Life after GDPR
+ - [https://lifeaftergdpr.ghost.io](https://lifeaftergdpr.ghost.io)
+ - date_published: 2024-06-26T09:16:39.413759+00:00
+
+ ## liftingstones.org letters - the newsletter for stonelifters.
+ - [https://liftingstones.ghost.io](https://liftingstones.ghost.io)
+ - date_published: 2024-07-07T06:12:30.394452+00:00
+
+ ## Indispensable
+ - [https://little-big-world.ghost.io](https://little-big-world.ghost.io)
+ - date_published: 2024-08-07T18:56:42.955632+00:00
+
+ ## Art by Lucas
+ - [https://lucas-art.ghost.io](https://lucas-art.ghost.io)
+ - date_published: 2024-09-04T19:12:58.147934+00:00
+
+ ## Lux
+ - [https://lux-optics.ghost.io](https://lux-optics.ghost.io)
+ - date_published: 2024-04-30T05:35:13.245311+00:00
+
+ ## Maginative
+ - [https://maginative.ghost.io](https://maginative.ghost.io)
+ - date_published: 2024-05-04T14:03:42.061602+00:00
+
+ ## Workspaces and Desk Setups
+ - [https://makerstations.ghost.io](https://makerstations.ghost.io)
+ - date_published: 2024-07-11T17:58:55.854971+00:00
+
+ ## MakeWorkWork
+ - [https://makeworkwork.ghost.io](https://makeworkwork.ghost.io)
+ - date_published: 2024-06-20T16:01:37.775343+00:00
+
+ ## Market Cities Network
+ - [https://market-cities-network.ghost.io](https://market-cities-network.ghost.io)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## ofosos.org
+ - [https://markmark.ghost.io](https://markmark.ghost.io)
+ - date_published: 2024-07-10T06:39:34.749448+00:00
+
+ ## Más Bandwidth
+ - [https://mas-bandwidth.ghost.io](https://mas-bandwidth.ghost.io)
+ - date_published: 2024-05-12T06:55:14.856386+00:00
+
+ ## Matt Boegner
+ - [https://mattboegner.ghost.io](https://mattboegner.ghost.io)
+ - date_published: 2024-05-04T14:41:20.506544+00:00
+
+ ## Thoughts on building & selling software
+ - [https://matthensley.ghost.io](https://matthensley.ghost.io)
+ - date_published: 2024-05-06T08:55:07.504056+00:00
+
+ ## Dr. Matthias Röder
+ - [https://matthias-roder.ghost.io](https://matthias-roder.ghost.io)
+ - date_published: 2024-05-04T14:42:40.371827+00:00
+
+ ## Matt Rutherford 👓
+ - [https://matt-rutherford.ghost.io](https://matt-rutherford.ghost.io)
+ - date_published: 2024-06-22T13:46:52.814611+00:00
+
+ ## Maurizio Leo
+ - [https://maurizioleo.ghost.io](https://maurizioleo.ghost.io)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Meilisearch Blog
+ - [https://meilisearch.ghost.io](https://meilisearch.ghost.io)
+ - date_published: 2024-08-19T07:55:46.593236+00:00
+
+ ## UI UX Design and Development Blog | Merge Development
+ - [https://merge-development.ghost.io](https://merge-development.ghost.io)
+ - date_published: 2024-07-23T22:31:58.964117+00:00
+
+ ## Merit
+ - [https://merit.ghost.io](https://merit.ghost.io)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Metacurity
+ - [https://metacurity.ghost.io](https://metacurity.ghost.io)
+ - date_published: 2024-09-18T23:14:42.981011+00:00
+
+ ## Micah Walter
+ - [https://micah-walter.ghost.io](https://micah-walter.ghost.io)
+ - date_published: 2024-07-02T20:21:12.232035+00:00
+
+ ## MinIO Blog
+ - [https://minio.ghost.io](https://minio.ghost.io)
+ - date_published: 2024-08-17T00:00:00+00:00
+
  ## Rich Mironov's Product Bytes
  - [https://mironov-consulting.ghost.io](https://mironov-consulting.ghost.io)
  - date_published: 2024-08-19T07:42:14.138832+00:00
@@ -2959,6 +3135,11 @@
  - [https://aravindr93.github.io](https://aravindr93.github.io)
  - date_published: 2023-12-11T20:21:54+00:00
 
+ ## Arcade Classics
+ - [https://arcade-classics.github.io](https://arcade-classics.github.io)
+ - date_published: 2024-11-21T18:30:33+00:00
+ - tags: ['browser extension']
+
  ## Index - Archivy
  - [https://archivy.github.io](https://archivy.github.io)
  - date_published: 2023-07-25T23:34:23+00:00
@@ -3850,184 +4031,4 @@
  ## Bidipta Sarkar
  - [https://bsarkar321.github.io](https://bsarkar321.github.io)
  - date_published: 2024-04-03T00:00:00+00:00
-
- ## Bhargava Shastry
- - [https://bshastry.github.io](https://bshastry.github.io)
- - date_published: 2024-05-07T12:33:57+00:00
-
- ## Emscripten-Generated Code
- - [http://bspaans.github.io](http://bspaans.github.io)
- - date_published: 2022-07-23T02:26:23+00:00
-
- ## BSP-Net
- - [https://bsp-net.github.io](https://bsp-net.github.io)
- - date_published: 2020-05-27T13:13:29+00:00
-
- ## Bernardo Subercaseaux <i>(he/him/his)</i> | about
- - [https://bsubercaseaux.github.io](https://bsubercaseaux.github.io)
- - date_published: 2024-01-09T01:37:35.815578+00:00
-
- ## https://btco.github.io
- - [https://btco.github.io](https://btco.github.io)
- - date_published: 2023-10-25T19:44:38.089132+00:00
-
- ## Buğra Tekin
- - [https://btekin.github.io](https://btekin.github.io)
- - date_published: 2024-07-12T10:38:08+00:00
-
- ## Confessions of a Wall Street Programmer
- - [http://btorpey.github.io](http://btorpey.github.io)
- - date_published: 2023-02-09T21:38:27+00:00
-
- ## Chen Yiwen
- - [https://buaacyw.github.io](https://buaacyw.github.io)
- - date_published: 2024-06-17T08:41:24+00:00
-
- ## bueltge.github.io
- - [http://bueltge.github.io](http://bueltge.github.io)
- - date_published: 2023-05-20T17:07:13+00:00
-
- ## BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer
- - [https://buffetfs.github.io](https://buffetfs.github.io)
- - date_published: 2023-05-24T18:10:47+00:00
-
- ## My Octopress Blog
- - [https://bugzmanov.github.io](https://bugzmanov.github.io)
- - date_published: 2014-12-11T03:09:30+00:00
-
- ## Buildarr
- - [https://buildarr.github.io](https://buildarr.github.io)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - Bullet Docs
- - [https://bullet-db.github.io](https://bullet-db.github.io)
- - date_published: 2022-04-01T00:00:00+00:00
-
- ## Bulmenisaurus.github.io
- - [https://bulmenisaurus.github.io](https://bulmenisaurus.github.io)
- - date_published: 2023-11-30T05:47:22+00:00
-
- ## BumpTop - Open Source 3D Physics Desktop
- - [https://bumptop.github.io](https://bumptop.github.io)
- - date_published: 2023-05-09T22:34:27+00:00
-
- ## /root
- - [https://buredoranna.github.io](https://buredoranna.github.io)
- - date_published: 2020-01-10T18:23:37+00:00
-
- ## My Octopress Blog
- - [https://butlerx.github.io](https://butlerx.github.io)
- - date_published: 2015-11-14T12:57:09+00:00
-
- ## github:buttons
- - [https://buttons.github.io](https://buttons.github.io)
- - date_published: 2023-12-11T19:35:06.408108+00:00
-
- ## μ
- - [https://buzzdecafe.github.io](https://buzzdecafe.github.io)
- - date_published: 2022-12-03T01:51:08+00:00
-
- ## Blake’s Mozilla Project Pages
- - [https://bwinton.github.io](https://bwinton.github.io)
- - date_published: 2023-02-10T15:55:51+00:00
-
- ## Speech demo
- - [https://bytedancespeech.github.io](https://bytedancespeech.github.io)
- - date_published: 2024-06-06T16:20:12+00:00
-
- ## Cabernet
- - [https://cabernetwork.github.io](https://cabernetwork.github.io)
- - date_published: 2021-08-25T18:28:33+00:00
-
- ## CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning
- - [https://cacti-framework.github.io](https://cacti-framework.github.io)
- - date_published: 2023-02-28T13:51:50+00:00
-
- ## Covert Bitops C64 page
- - [https://cadaver.github.io](https://cadaver.github.io)
- - date_published: 2023-09-13T18:07:19+00:00
-
- ## Caiorss.GitHub.io by caiorss
- - [https://caiorss.github.io](https://caiorss.github.io)
- - date_published: 2015-02-14T18:47:42+00:00
-
- ## The Cairo Programming Language - The Cairo Programming Language
- - [https://cairo-book.github.io](https://cairo-book.github.io)
- - date_published: 2023-10-25T19:44:39.830616+00:00
-
- ## YanchengCai
- - [https://caiyancheng.github.io](https://caiyancheng.github.io)
- - date_published: 2024-05-30T14:57:38+00:00
-
- ## Xin Yan
- - [https://cakeyan.github.io](https://cakeyan.github.io)
- - date_published: 2024-05-09T09:04:46+00:00
-
- ## Caleb Kim
- - [https://calebmkim.github.io](https://calebmkim.github.io)
- - date_published: 2024-08-07T22:06:46+00:00
-
- ## Caleko.github.io
- - [https://caleko.github.io](https://caleko.github.io)
- - date_published: 2024-01-14T21:59:09+00:00
-
- ## Caltech Library's Digital Library Development Sandbox
- - [https://caltechlibrary.github.io](https://caltechlibrary.github.io)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Data Origami
- - [https://camdavidsonpilon.github.io](https://camdavidsonpilon.github.io)
- - date_published: 2020-08-03T00:00:00+00:00
-
- ## Cameron Smith
- - [https://cameronosmith.github.io](https://cameronosmith.github.io)
- - date_published: 2024-04-26T19:56:18+00:00
-
- ## CaMML
- - [https://camml-project.github.io](https://camml-project.github.io)
- - date_published: 2024-01-16T09:22:59+00:00
-
- ## CamP: Camera Preconditioning for Neural Radiance Fields
- - [https://camp-nerf.github.io](https://camp-nerf.github.io)
- - date_published: 2024-03-22T20:28:20+00:00
-
- ## About Me - Andrew Lee
- - [https://candrewlee14.github.io](https://candrewlee14.github.io)
- - date_published: 2023-10-25T19:44:40.542809+00:00
-
- ## Candy Box 2
- - [https://candybox2.github.io](https://candybox2.github.io)
- - date_published: 2023-12-01T14:22:31+00:00
-
- ## Ang Cao
- - [https://caoang327.github.io](https://caoang327.github.io)
- - date_published: 2024-01-16T21:48:58+00:00
-
- ## Blog
- - [https://carbon-steel.github.io](https://carbon-steel.github.io)
- - date_published: 2024-06-23T03:20:11+00:00
-
- ## About - Riley Peterlinz
- - [https://cardiacmangoes.github.io](https://cardiacmangoes.github.io)
- - date_published: 2024-05-17T18:05:12+00:00
-
- ## Show HN: Cardo ‒ Open Source desktop podcast client
- - [https://cardo-podcast.github.io](https://cardo-podcast.github.io)
- - date_published: 2024-11-20T12:56:15+00:00
-
- ## Carl Newton
- - [https://carlnewton.github.io](https://carlnewton.github.io)
- - date_published: 2024-06-24T16:05:46+00:00
-
- ## Carlos Rodrigues - Full-Stack Developer
- - [https://carlosvini.github.io](https://carlosvini.github.io)
- - date_published: 2022-07-20T21:06:26+00:00
-
- ## Youxin Pang's Homepage
- - [https://carlyx.github.io](https://carlyx.github.io)
- - date_published: 2024-03-26T13:23:41+00:00
-
- ## Carolina Scarton
- - [https://carolscarton.github.io](https://carolscarton.github.io)
- - date_published: 2016-01-01T00:00:00+00:00
 

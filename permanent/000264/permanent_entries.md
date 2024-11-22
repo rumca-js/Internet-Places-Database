@@ -1,3 +1,168 @@
+ ## OU Libraries
+ - [https://library.oakland.edu](https://library.oakland.edu)
+ - date_published: 2024-06-22T10:46:37.644339+00:00
+
+ ## Oakland University
+ - [https://oakland.edu](https://oakland.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Oakland University Login
+ - [https://webmail.oakland.edu](https://webmail.oakland.edu)
+ - date_published: 2024-06-22T10:47:13.042631+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://new.oberlin.edu](http://new.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Oberlin College and Conservatory | Oberlin College and Conservatory
+ - [http://www.oberlin.edu](http://www.oberlin.edu)
+ - date_published: 2021-01-22T14:51:57+00:00
+
+ ## Ouachita Baptist University
+ - [https://obu.edu](https://obu.edu)
+ - date_published: 2024-09-16T07:25:11.597267+00:00
+
+ ## https://bookstore.occc.edu
+ - [https://bookstore.occc.edu](https://bookstore.occc.edu)
+ - date_published: 2024-02-08T21:52:39.432927+00:00
+
+ ## This Page Has Moved - You will be redirected!
+ - [http://www.lib.odu.edu](http://www.lib.odu.edu)
+ - date_published: 2019-05-30T23:09:00+00:00
+
+ ## Home Page
+ - [https://www.odu.edu](https://www.odu.edu)
+ - date_published: 2024-09-26T17:51:49+00:00
+
+ ## OHSU | Healing Begins with Discovery
+ - [http://www.ogi.edu](http://www.ogi.edu)
+ - date_published: 2024-06-16T19:29:53+00:00
+
+ ## CAD Angular Template
+ - [https://account.ohio.edu](https://account.ohio.edu)
+ - date_published: 2024-06-19T08:19:30+00:00
+
+ ## Undergraduate Admissions | Ohio University
+ - [https://admissions.ohio.edu](https://admissions.ohio.edu)
+ - date_published: 2024-05-07T19:50:50.065504+00:00
+
+ ## Sign in to your account
+ - [https://blackboard.ohio.edu](https://blackboard.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.ohio.edu](https://calendar.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://canvas.ohio.edu](https://canvas.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Ohio University - Modern Campus Catalog™
+ - [http://catalogs.ohio.edu](http://catalogs.ohio.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Sign in to Outlook
+ - [https://catmail.ohio.edu](https://catmail.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Gift Planning | Ohio University
+ - [https://giftplanning.ohio.edu](https://giftplanning.ohio.edu)
+ - date_published: 2024-07-01T16:40:37.986309+00:00
+
+ ## Give to Ohio University | Ohio University
+ - [https://give.ohio.edu](https://give.ohio.edu)
+ - date_published: 2024-05-07T19:50:29.807496+00:00
+
+ ## Graduate College | Ohio University
+ - [https://grad.ohio.edu](https://grad.ohio.edu)
+ - date_published: 2024-05-07T19:51:03.382723+00:00
+
+ ## Library Guides
+ - [https://libguides.library.ohio.edu](https://libguides.library.ohio.edu)
+ - date_published: 2024-07-01T16:40:31.662209+00:00
+
+ ## Sign in to your account
+ - [https://news.ohio.edu](https://news.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Welcome to Ohio University
+ - [https://ohio.edu](https://ohio.edu)
+ - date_published: 2024-05-07T19:50:45.281171+00:00
+ - tags: ['university']
+
+ ## Regional Higher Education | Ohio University
+ - [https://rhe.ohio.edu](https://rhe.ohio.edu)
+ - date_published: 2024-05-07T19:50:22.215267+00:00
+
+ ## Sign in to your account
+ - [https://sis.ohio.edu](https://sis.ohio.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Online Journal of Space Communication | OHIO Open Library Journals | Ohio University
+ - [http://spacejournal.ohio.edu](http://spacejournal.ohio.edu)
+ - date_published: 2024-07-09T22:19:48.978837+00:00
+
+ ## OhioLINK Library Catalog
+ - [http://olc1.ohiolink.edu](http://olc1.ohiolink.edu)
+ - date_published: 2024-07-01T11:11:23.450974+00:00
+
+ ## Home | Marketing and Communications
+ - [http://communications.cfaes.ohio-state.edu](http://communications.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:49.603351+00:00
+
+ ## Home | Extension Operations
+ - [https://extops.cfaes.ohio-state.edu](https://extops.cfaes.ohio-state.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://gpa.esue.ohio-state.edu](https://gpa.esue.ohio-state.edu)
+ - date_published: 2024-07-17T03:28:03.773790+00:00
+
+ ## Home | Information Technology Services
+ - [https://ithelpdesk.cfaes.ohio-state.edu](https://ithelpdesk.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:43.253412+00:00
+
+ ## OSU Libraries Catalog
+ - [http://library.ohio-state.edu](http://library.ohio-state.edu)
+ - date_published: 2024-06-30T01:19:58.673716+00:00
+
+ ## Home | Learning and Organizational Development
+ - [https://lod.cfaes.ohio-state.edu](https://lod.cfaes.ohio-state.edu)
+ - date_published: 2024-10-15T07:36:56.058728+00:00
+
+ ## Home | PAAR
+ - [https://paar.cfaes.ohio-state.edu](https://paar.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:58.016027+00:00
+
+ ## CSE Database Portal
+ - [https://portal.cse.ohio-state.edu](https://portal.cse.ohio-state.edu)
+ - date_published: 2024-05-14T16:16:34+00:00
+
+ ## Home | Agricultural Operations
+ - [https://researchoperations.cfaes.ohio-state.edu](https://researchoperations.cfaes.ohio-state.edu)
+ - date_published: 2024-07-17T03:36:34.682480+00:00
+
+ ## Please Log in to Continue | VetMed Schedules
+ - [https://schedule.vet.ohio-state.edu](https://schedule.vet.ohio-state.edu)
+ - date_published: 2024-07-17T03:42:45.462018+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://shshealthportal.studentaffairs.ohio-state.edu](https://shshealthportal.studentaffairs.ohio-state.edu)
+ - date_published: 2024-07-17T03:27:15.765116+00:00
+
+ ## CSE
+ - [https://web.cse.ohio-state.edu](https://web.cse.ohio-state.edu)
+ - date_published: 2023-10-25T18:56:24.315200+00:00
+
+ ## Home | Department of Economics
+ - [https://web.econ.ohio-state.edu](https://web.econ.ohio-state.edu)
+ - date_published: 2024-06-15T21:22:28.975305+00:00
+
+ ## COLLEGE OF ENGINEERING
+ - [http://www2.ece.ohio-state.edu](http://www2.ece.ohio-state.edu)
+ - date_published: 2014-02-03T10:53:00+00:00
+
  ## Home | College of Arts and Sciences
  - [https://www.asc.ohio-state.edu](https://www.asc.ohio-state.edu)
  - date_published: 2024-01-11T18:56:17.405128+00:00
@@ -3840,170 +4005,4 @@
  ## Home | Purdue University IT
  - [https://it.purdue.edu](https://it.purdue.edu)
  - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home - DSB IT
- - [https://kcc.krannert.purdue.edu](https://kcc.krannert.purdue.edu)
- - date_published: 2024-07-01T17:43:20.288101+00:00
-
- ## Mitchell E. Daniels, Jr. School of Business - Purdue Business
- - [https://krannert.purdue.edu](https://krannert.purdue.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home | Purdue Libraries
- - [https://lib.purdue.edu](https://lib.purdue.edu)
- - date_published: 2024-05-07T20:03:47.066812+00:00
-
- ## Impact Report
- - [https://lifeat.purdue.edu](https://lifeat.purdue.edu)
- - date_published: 2023-01-30T16:39:55+00:00
-
- ## Purdue University Marketing and Communications
- - [https://marcom.purdue.edu](https://marcom.purdue.edu)
- - date_published: 2024-05-07T20:03:24.750525+00:00
-
- ## ML@Purdue
- - [https://mlp.cs.purdue.edu](https://mlp.cs.purdue.edu)
- - date_published: 2024-03-03T17:19:11+00:00
-
- ## welcome to myCS
- - [https://my.cs.purdue.edu](https://my.cs.purdue.edu)
- - date_published: 2024-07-01T17:41:52.281588+00:00
-
- ## Purdue Web Authentication - Loading Session Information
- - [https://mypurdue.purdue.edu](https://mypurdue.purdue.edu)
- - date_published: 2024-05-07T20:03:23.621941+00:00
-
- ## IIS Windows Server
- - [https://net.housing.purdue.edu](https://net.housing.purdue.edu)
- - date_published: 2022-02-09T13:16:15+00:00
-
- ## OneCampus
- - [https://one.purdue.edu](https://one.purdue.edu)
- - date_published: 2024-05-07T20:04:23.660823+00:00
-
- ## Purdue Online
- - [https://onlinedegrees.purdue.edu](https://onlinedegrees.purdue.edu)
- - date_published: 2024-07-06T21:40:26.713202+00:00
-
- ## Purdue Online
- - [https://online.purdue.edu](https://online.purdue.edu)
- - date_published: 2024-07-01T17:45:50.153896+00:00
-
- ## Office of Professional Practice - Purdue University
- - [https://opp.purdue.edu](https://opp.purdue.edu)
- - date_published: 2024-05-07T20:03:39.491132+00:00
-
- ## Purdue OWL® - 
-			 Purdue OWL® -  Purdue University
- - [http://owl.english.purdue.edu](http://owl.english.purdue.edu)
- - date_published: 2024-01-11T00:55:30+00:00
-
- ## Purdue OWL® - 
-			 Purdue OWL® -  Purdue University
- - [https://owl.purdue.edu](https://owl.purdue.edu)
- - date_published: 2024-01-11T00:55:30+00:00
-
- ## PLDI 2012 | Programming Language Design and Implementation — 11–16 June, Beijing
- - [http://pldi12.cs.purdue.edu](http://pldi12.cs.purdue.edu)
- - date_published: 2020-01-24T12:32:20+00:00
-
- ## Protect Purdue Redirect - Purdue University
- - [https://protect.purdue.edu](https://protect.purdue.edu)
- - date_published: 2024-07-01T17:43:28.937199+00:00
-
- ## Purdue University
- - [https://purdue.edu](https://purdue.edu)
- - date_published: 2024-04-28T03:27:49.632821+00:00
-
- ## Home | Purdue Libraries
- - [http://purl.lib.purdue.edu](http://purl.lib.purdue.edu)
- - date_published: 2024-07-01T17:36:34+00:00
-
- ## PURR - Purdue University Research Repository
- - [https://purr.purdue.edu](https://purr.purdue.edu)
- - date_published: 2024-07-01T17:44:30.181189+00:00
-
- ## Home
- - [https://service.purdue.edu](https://service.purdue.edu)
- - date_published: 2024-07-01T17:47:50.882817+00:00
-
- ## The Persistent Pursuit
- - [https://stories.purdue.edu](https://stories.purdue.edu)
- - date_published: 2024-05-07T20:04:08.792823+00:00
-
- ## Timetabling
- - [https://timetable.mypurdue.purdue.edu](https://timetable.mypurdue.purdue.edu)
- - date_published: 2024-07-01T17:41:46.452483+00:00
-
- ## Purdue Virtual Tour
- - [https://tour.purdue.edu](https://tour.purdue.edu)
- - date_published: 2024-03-26T21:38:59+00:00
-
- ## Purdue Memorial Union Home | PMU Purdue University
- - [https://union.purdue.edu](https://union.purdue.edu)
- - date_published: 2024-04-25T15:25:34+00:00
-
- ## Krannert WebApps
- - [https://webapps.krannert.purdue.edu](https://webapps.krannert.purdue.edu)
- - date_published: 2022-08-19T19:52:41+00:00
-
- ## Home | Purdue Libraries
- - [https://webapps.lib.purdue.edu](https://webapps.lib.purdue.edu)
- - date_published: 2024-07-01T17:36:34+00:00
-
- ## Purdue Web Authentication - Loading Session Information
- - [https://wl.mypurdue.purdue.edu](https://wl.mypurdue.purdue.edu)
- - date_published: 2024-07-01T17:43:41.527990+00:00
-
- ## Purdue CCO
- - [https://www.cco.purdue.edu](https://www.cco.purdue.edu)
- - date_published: 2024-07-01T17:43:23.384066+00:00
-
- ## CERIAS - Center for Education and Research in Information Assurance and Security
- - [https://www.cerias.purdue.edu](https://www.cerias.purdue.edu)
- - date_published: 2024-08-07T15:00:14.330802+00:00
-
- ## Purdue University James Tarpo Jr. and Margaret Tarpo Department of Chemistry
- - [https://www.chem.purdue.edu](https://www.chem.purdue.edu)
- - date_published: 2024-10-19T04:51:08.762283+00:00
-
- ## Elmore Family School of Electrical and Computer Engineering, Purdue University
- - [https://www.ece.purdue.edu](https://www.ece.purdue.edu)
- - date_published: 2024-05-07T21:17:14.205070+00:00
-
- ## Homepage
- - [http://www.ecn.purdue.edu](http://www.ecn.purdue.edu)
- - date_published: 2024-07-02T03:02:55.321617+00:00
-
- ## Global Trade Analysis Project (GTAP)
- - [https://www.gtap.agecon.purdue.edu](https://www.gtap.agecon.purdue.edu)
- - date_published: 2024-10-19T05:09:01.094194+00:00
-
- ## Home | Purdue University IT
- - [https://www.itap.purdue.edu](https://www.itap.purdue.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home - Department of Mathematics - Purdue University
- - [https://www.math.purdue.edu](https://www.math.purdue.edu)
- - date_published: 2024-06-21T00:37:50+00:00
-
- ## Borch Department of Medicinal Chemistry and Molecular Pharmacology
- - [http://www.mcmp.purdue.edu](http://www.mcmp.purdue.edu)
- - date_published: 2024-06-29T08:29:31.082982+00:00
-
- ## Military Family Research Institute at Purdue University
- - [https://www.mfri.purdue.edu](https://www.mfri.purdue.edu)
- - date_published: 2024-07-01T17:40:47.977992+00:00
-
- ## Purdue University College of Pharmacy
- - [https://www.pharmacy.purdue.edu](https://www.pharmacy.purdue.edu)
- - date_published: 2024-07-01T12:33:38+00:00
-
- ## College of Science - Purdue University
- - [https://www.science.purdue.edu](https://www.science.purdue.edu)
- - date_published: 2024-06-28T16:46:56+00:00
-
- ## Home Page - Purdue University Press
- - [http://www.thepress.purdue.edu](http://www.thepress.purdue.edu)
- - date_published: 2024-03-21T00:00:00+00:00
 

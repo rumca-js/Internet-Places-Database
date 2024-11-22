@@ -1,3 +1,243 @@
+ ## Gothic 2 Online
+ - [https://forum.gothic-online.com.pl](https://forum.gothic-online.com.pl)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Gothic Online
+ - [https://gothic-online.com.pl](https://gothic-online.com.pl)
+ - date_published: 2024-05-09T20:41:54+00:00
+
+ ## Grg - smycze reklamowe, plecaki, gadżety
+ - [http://www.grg.com.pl](http://www.grg.com.pl)
+ - date_published: 2024-07-09T13:30:39.091036+00:00
+
+ ## H2POLAND&NetZero Forum | Poznań | 9-10.04.2025
+ - [https://h2poland.com.pl](https://h2poland.com.pl)
+ - date_published: 2024-08-19T09:13:37.114438+00:00
+
+ ## Technologia, oprogramowanie rehabilitacyjne dla niepełnosprawnych HARPO
+ - [https://harpo.com.pl](https://harpo.com.pl)
+ - date_published: 2024-06-11T07:53:19+00:00
+
+ ## Harpo Adaptive Technology – innovative solutions for people with disabilities
+ - [https://int.harpo.com.pl](https://int.harpo.com.pl)
+ - date_published: 2015-06-16T11:39:09+00:00
+
+ ## Polska ekskluzywna odzież damska  | hexe.com.pl
+ - [https://hexe.com.pl](https://hexe.com.pl)
+ - date_published: 2024-06-28T19:12:54.054777+00:00
+
+ ## Hoshi-Fusion - Twoje centrum gwiezdnej fuzji.. - News
+ - [http://hoshi-fusion.com.pl](http://hoshi-fusion.com.pl)
+ - date_published: 2024-07-12T15:10:50.632274+00:00
+
+ ## Hotel Głogów Małopolski
+ - [https://www.hotelczteryporyroku.com.pl](https://www.hotelczteryporyroku.com.pl)
+ - date_published: 2024-09-02T13:55:00.284875+00:00
+
+ ## hussar.com.pl – Blog tematyczny o historii, rozwoju osobistym i książkach
+ - [http://www.hussar.com.pl](http://www.hussar.com.pl)
+ - date_published: 2024-08-15T09:39:04+00:00
+
+ ## Central Europe: Tech Marketing Insights • Foundry
+ - [http://www.idg.com.pl](http://www.idg.com.pl)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Aktualności | Igrz
+ - [http://www.igrz.com.pl](http://www.igrz.com.pl)
+ - date_published: 2024-07-14T05:36:37.473035+00:00
+
+ ## Jbzd.com.pl - najgorsze obrazki w internecie!
+ - [https://i1.jbzd.com.pl](https://i1.jbzd.com.pl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Jbzd.com.pl - najgorsze obrazki w internecie!
+ - [https://jbzd.com.pl](https://jbzd.com.pl)
+ - date_published: 2023-10-27T11:55:01.917890+00:00
+ - tags: ['memes', 'funny images']
+
+ ## Marcin Juszkiewicz
+ - [https://marcin.juszkiewicz.com.pl](https://marcin.juszkiewicz.com.pl)
+ - date_published: 2024-08-16T15:51:24+00:00
+
+ ## Artykuły | PORTAL MODLITWY I REFLEKSJI DLA KAPŁANÓW
+ - [http://www.kaplani.com.pl](http://www.kaplani.com.pl)
+ - date_published: 2024-09-03T19:25:36.959739+00:00
+
+ ## Kaspersky | Ochrona antywirusowa i oprogramowanie Internet Security
+ - [https://kaspersky.com.pl](https://kaspersky.com.pl)
+ - date_published: 2024-10-20T23:22:09.504760+00:00
+
+ ## Panel Dla Partnerów K Dystrybucja
+ - [https://partner.kaspersky.com.pl](https://partner.kaspersky.com.pl)
+ - date_published: 2024-06-18T08:39:13.640716+00:00
+
+ ## Rejestracja produktu | Kaspersky Lab
+ - [https://rejestracja.kaspersky.com.pl](https://rejestracja.kaspersky.com.pl)
+ - date_published: 2024-06-18T08:39:14.420716+00:00
+
+ ## Sklep internetowy K Dystrybucja
+ - [https://store.kaspersky.com.pl](https://store.kaspersky.com.pl)
+ - date_published: 2024-06-18T08:39:20.600525+00:00
+
+ ## START
+ - [http://katechizmy.com.pl](http://katechizmy.com.pl)
+ - date_published: 2024-09-03T19:25:53.995925+00:00
+
+ ## Zdrowe i Naturalne Suplementy Diety - Sklep Internetowy Kenay
+ - [https://kenay.com.pl](https://kenay.com.pl)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## King Cross Developments Sp. z o.o.
+ - [https://www.kingcross.com.pl](https://www.kingcross.com.pl)
+ - date_published: 2024-06-28T19:22:34.418534+00:00
+
+ ## Strona główna | BIP Koleje Wielkopolskie
+ - [https://bip.koleje-wielkopolskie.com.pl](https://bip.koleje-wielkopolskie.com.pl)
+ - date_published: 2024-09-13T17:56:32.494567+00:00
+
+ ## Oficjalna strona internetowa Koleje Wielkopolskie Sp. z o.o.
+ - [https://koleje-wielkopolskie.com.pl](https://koleje-wielkopolskie.com.pl)
+ - date_published: 2024-06-12T08:25:16+00:00
+
+ ## Podróżuj z Kolibri - biuro podróży Knurów Gliwice Śląsk, biuro polowań.
+ - [http://www.kolibri.com.pl](http://www.kolibri.com.pl)
+ - date_published: 2024-05-10T07:17:27+00:00
+
+ ## Kolster: urządzenia sterowania ruchem kolejowym
+ - [http://kolster.com.pl](http://kolster.com.pl)
+ - date_published: 2024-08-11T15:35:42.518375+00:00
+
+ ## KSSE - KSSE
+ - [http://www.ksse.com.pl](http://www.ksse.com.pl)
+ - date_published: 2024-07-14T05:26:51.427802+00:00
+
+ ## kuBogu - Sklep
+ - [https://sklep.kubogu.com.pl](https://sklep.kubogu.com.pl)
+ - date_published: 2024-05-09T07:10:06.712886+00:00
+
+ ## KUKE | Ubezpieczenia należności, gwarancje i finansowanie
+ - [https://www.kuke.com.pl](https://www.kuke.com.pl)
+ - date_published: 2024-07-14T05:25:19.263060+00:00
+
+ ## KWORUM - Polsko-Polonijna Gazeta Internetowa - www.kworum.com.pl
+ - [http://kworum.com.pl](http://kworum.com.pl)
+ - date_published: 2024-08-06T22:38:35.782700+00:00
+
+ ## https://www.lady-pank.com.pl
+ - [https://lady-pank.com.pl](https://lady-pank.com.pl)
+ - date_published: 2023-12-12T09:20:53+00:00
+ - tags: ['music band']
+
+ ## Last Chaos - Polska gra MMORPG
+ - [http://www.lastchaos.com.pl](http://www.lastchaos.com.pl)
+ - date_published: 2021-04-14T09:04:00+00:00
+
+ ## Branding przejdź z nim na TY! | Agencja Brandingowa LOGARYTM™
+ - [http://logarytm.com.pl](http://logarytm.com.pl)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## Skuteczne antywirusy Bitdefender - MARKEN
+ - [https://marken.com.pl](https://marken.com.pl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Maskpol - producent sprzętu ochronnego dla Wojska
+ - [https://www.maskpol.com.pl](https://www.maskpol.com.pl)
+ - date_published: 2024-06-26T11:45:34.256575+00:00
+ - tags: ['military']
+
+ ## Mastodon Poland
+ - [https://mastodon.com.pl](https://mastodon.com.pl)
+ - date_published: 2024-07-09T20:14:55.676989+00:00
+
+ ## Producent ceramiki reklamowej MAXIM
+ - [https://maxim.com.pl](https://maxim.com.pl)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## ITM 2024
+ - [http://mazakvirtualitm.com.pl](http://mazakvirtualitm.com.pl)
+ - date_published: 2024-06-05T07:00:56+00:00
+
+ ## STOM_2024
+ - [http://mazakvirtualstomtool.com.pl](http://mazakvirtualstomtool.com.pl)
+ - date_published: 2024-03-25T11:57:07+00:00
+
+ ## Medcom - producent energoelektroniki  dla transportu publicznego oraz branży energetycznej i przemysłowej
+ - [http://www.medcom.com.pl](http://www.medcom.com.pl)
+ - date_published: 2024-08-11T15:34:57.648570+00:00
+
+ ## Strona Główna * Media Group - Dom Mediowy
+ - [https://mediagroup.com.pl](https://mediagroup.com.pl)
+ - date_published: 2024-10-22T21:11:26.865216+00:00
+
+ ## Zakład Pogrzebowy Poznań Memento Mori, Usługi Pogrzebowe Poznań
+ - [https://www.memento-mori.com.pl](https://www.memento-mori.com.pl)
+ - date_published: 2024-08-11T16:36:35.670354+00:00
+
+ ## Micros - Hurtownia części elektronicznych
+ - [https://www.micros.com.pl](https://www.micros.com.pl)
+ - date_published: 2024-08-18T10:49:34+00:00
+
+ ## Mokate | sklep z kawą i herbatą
+ - [https://www.mokate.com.pl](https://www.mokate.com.pl)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Money2Money: Program partnerski - zwiększ z nami swoje zyski
+ - [https://www.money2money.com.pl](https://www.money2money.com.pl)
+ - date_published: 2024-10-18T04:01:30.979369+00:00
+
+ ## mServices | digital banking transformation
+ - [https://mservices.com.pl](https://mservices.com.pl)
+ - date_published: 2024-09-02T13:37:43.511694+00:00
+
+ ## MZK Gorzów
+ - [https://mzk-gorzow.com.pl](https://mzk-gorzow.com.pl)
+ - date_published: 2024-07-13T19:14:41.518245+00:00
+
+ ## Polskie Forum Neverwinter - Tu zaczynają się przygody!
+ - [http://forum.neverwinter.com.pl](http://forum.neverwinter.com.pl)
+ - date_published: 2024-07-10T02:05:16.622068+00:00
+
+ ## Neverwinter Online
+ - [https://neverwinter.com.pl](https://neverwinter.com.pl)
+ - date_published: 2024-05-09T07:07:23.297134+00:00
+
+ ## Nickelodeon Polska
+ - [https://konkursy.nick.com.pl](https://konkursy.nick.com.pl)
+ - date_published: 2024-08-08T20:48:33.482612+00:00
+
+ ## Nickelodeon Polska
+ - [https://www.nick.com.pl](https://www.nick.com.pl)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## NOVO.SĄDECKA | resto & business club
+ - [https://novosadecka.com.pl](https://novosadecka.com.pl)
+ - date_published: 2024-07-09T13:24:09.054339+00:00
+
+ ## Strona główna
+ - [https://nowyswiat24.com.pl](https://nowyswiat24.com.pl)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Olsztyn.com.pl - regionalny portal Warmii i Mazur
+ - [https://olsztyn.com.pl](https://olsztyn.com.pl)
+ - date_published: 2024-05-09T14:14:01.625514+00:00
+
+ ## OPG Property Professionals - specjaliści od nieruchomości
+ - [https://opg.com.pl](https://opg.com.pl)
+ - date_published: 2024-06-28T19:22:32.960620+00:00
+
+ ## PAN OD KULTURY
+ - [https://panodkultury.com.pl](https://panodkultury.com.pl)
+ - date_published: 2023-10-27T13:12:52.295579+00:00
+
+ ## Parafie w Polsce - Parafia.com.pl
+ - [https://parafia.com.pl](https://parafia.com.pl)
+ - date_published: 2024-05-11T18:59:15+00:00
+ - tags: ['catholic', 'religion']
+
+ ## Bank Pekao S.A. - Strona główna
+ - [https://pekao.com.pl](https://pekao.com.pl)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Pekao Leasing - Pekao Leasing Sp. z o.o
  - [https://www.pekaoleasing.com.pl](https://www.pekaoleasing.com.pl)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -3837,244 +4077,4 @@ Polska 1939
  ## BIBLIJNI.pl - Słuchamy razem Biblii
  - [http://biblijni.pl](http://biblijni.pl)
  - date_published: 2024-09-03T00:00:00+00:00
-
- ## Bicyclemind 🇵🇱
- - [https://bicyclemind.pl](https://bicyclemind.pl)
- - date_published: 2024-08-07T21:03:10.144212+00:00
-
- ## Strona główna – Biedronka.pl
- - [https://biedronka.pl](https://biedronka.pl)
- - date_published: 2024-07-20T03:13:34.118312+00:00
-
- ## Bieganie.pl porady treningowe, plany, dieta, sprzęt, maraton
- - [https://bieganie.pl](https://bieganie.pl)
- - date_published: 2021-07-30T21:26:28+00:00
-
- ## Biennale Warszawa
- - [http://biennalewarszawa.pl](http://biennalewarszawa.pl)
- - date_published: 2024-07-20T17:54:59.010198+00:00
-
- ## Bieszczadzkie Schroniska i Hotele PTTK Sp. z o.o. – Bieszczadzkie Schroniska i Hotele PTTK Sp. z o.o.
- - [https://bieszczadypttk.pl](https://bieszczadypttk.pl)
- - date_published: 2024-07-19T22:33:40.388772+00:00
-
- ## BIG CYC - oficjalny serwis internetowy zespołu
- - [https://bigcyc.pl](https://bigcyc.pl)
- - date_published: 2023-11-13T10:27:04.357594+00:00
- - tags: ['music band']
-
- ## HOME - BIG CYC - Oficjalny sklep
- - [https://sklep.bigcyc.pl](https://sklep.bigcyc.pl)
- - date_published: 2021-09-20T14:56:16+00:00
-
- ## big-eye.pl
- - [https://www.big-eye.pl](https://www.big-eye.pl)
- - date_published: 2023-06-02T00:20:32+00:00
-
- ## Biuro Informacji Kredytowej | Strona główna
- - [https://www.bik.pl](https://www.bik.pl)
- - date_published: 2024-09-03T19:26:39.273489+00:00
-
- ## Bilety online na koncerty, wydarzenia klubowe oraz festiwale - Biletomat.pl
- - [https://biletomat.pl](https://biletomat.pl)
- - date_published: 2024-05-08T00:39:46.788069+00:00
-
- ## Bilety24 - wydarzenia: koncerty, kino, teatr, filharmonia, kabaret
- - [https://bilety24.pl](https://bilety24.pl)
- - date_published: 2024-02-23T16:34:03+00:00
- - tags: ['tickets']
-
- ## biletyna.pl
- - [https://iframe41.biletyna.pl](https://iframe41.biletyna.pl)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Bilkom – bilety i rozkład PKP. Pakiet podróżnika
- - [https://bilkom.pl](https://bilkom.pl)
- - date_published: 2024-09-13T17:56:26.127133+00:00
-
- ## Billz.pl - najszybsze faktury w mieście;)
- - [https://panel.billz.pl](https://panel.billz.pl)
- - date_published: 2023-08-23T12:05:21+00:00
-
- ## Biofarm - producent leków, firma farmaceutyczna z Poznania
- - [https://www.biofarm.pl](https://www.biofarm.pl)
- - date_published: 2024-09-02T13:53:48.486411+00:00
-
- ## Polski Portal Biograficzny
- - [http://www.biogramy.pl](http://www.biogramy.pl)
- - date_published: 2024-07-20T17:52:49.503648+00:00
-
- ## Bitcoin.pl - Bitcoin, kryptowaluty i technologia blockchain
- - [https://bitcoin.pl](https://bitcoin.pl)
- - date_published: 2023-10-29T15:13:20.134080+00:00
-
- ## Antywirus Bitdefender - Najwyższa skuteczność ochrony
- - [https://bitdefender.pl](https://bitdefender.pl)
- - date_published: 2020-03-05T06:06:15+00:00
- - tags: ['antivirus']
-
- ## bitiba - Twój internetowy sklep zoologiczny: produkty i karma dla zwierząt
- - [https://www.bitiba.pl](https://www.bitiba.pl)
- - date_published: 2024-09-26T11:24:40.862860+00:00
-
- ## home -  Artistic websites CMS, graphics, AI art - Witold Augustynski
- - [http://www.bitis.pl](http://www.bitis.pl)
- - date_published: 2024-08-18T04:21:59.234388+00:00
-
- ## bitplan.pl
- - [https://bitplan.pl](https://bitplan.pl)
- - date_published: 2023-03-24T12:34:17+00:00
-
- ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
- - [https://bitrix24.pl](https://bitrix24.pl)
- - date_published: 2024-05-12T03:57:09.374376+00:00
-
- ## Bitrix24Care
- - [https://helpdesk.bitrix24.pl](https://helpdesk.bitrix24.pl)
- - date_published: 2024-05-12T03:57:12.162987+00:00
-
- ## Bitrix Partner Program
- - [https://partners.bitrix24.pl](https://partners.bitrix24.pl)
- - date_published: 2024-05-12T03:57:24.235370+00:00
-
- ## Amazon Newsroom - Strona główna
- - [https://biuroprasoweamazon.pl](https://biuroprasoweamazon.pl)
- - date_published: 2024-06-15T02:14:24.054229+00:00
-
- ## Biuro rachunkowe Sofi Mrągowo
- - [http://biurosofi.pl](http://biurosofi.pl)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## biweekly.pl - link with culture / issue 44/2017
- - [https://www.biweekly.pl](https://www.biweekly.pl)
- - date_published: 2024-06-30T06:13:12.851795+00:00
-
- ## | Robert Kiyosaki | Biznes XXI wieku
- - [https://biznes21wieku.pl](https://biznes21wieku.pl)
- - date_published: 2024-05-12T06:53:13.262229+00:00
-
- ## BIZNES24 - FIRMA, GIEŁDA, PIENIĄDZE / OGLĄDAJ BIZNES24 ONLINE - BIZNES24
- - [https://biznes24.pl](https://biznes24.pl)
- - date_published: 2019-05-08T18:27:04+00:00
-
- ## BiznesAlert.pl - Portal informacyjny poświęcony energetyce, infrastrukturze i bezpieczeństwu
- - [https://biznesalert.pl](https://biznesalert.pl)
- - date_published: 2023-10-25T22:25:56.810285+00:00
- - tags: ['energy news']
-
- ## Najnowsze informacje ze świata gospodarki i biznesu. | BiznesINFO.pl
- - [https://www.biznesinfo.pl](https://www.biznesinfo.pl)
- - date_published: 2024-07-14T05:16:54+00:00
-
- ## bizWebStudio | Agencja TYPO3 Wdrożenia TYPO3 Strony internetowe
- - [https://bizwebstudio.pl](https://bizwebstudio.pl)
- - date_published: 2024-09-02T13:54:25.427308+00:00
-
- ## Bilety online - KupBilecik
- - [https://bkb.pl](https://bkb.pl)
- - date_published: 2024-07-18T12:12:01.405555+00:00
-
- ## Autobusy czy wspólne przejazdy? Wybór najtańszych. | BlaBlaCar
- - [https://blablacar.pl](https://blablacar.pl)
- - date_published: 2024-06-15T01:00:35.018073+00:00
-
- ## BlaBlaCar
- - [https://blog.blablacar.pl](https://blog.blablacar.pl)
- - date_published: 2024-09-15T19:51:56.024331+00:00
-
- ## Błękitny Świt – Z życia fana, czyli blog o RPG, fantastyce, grach, filmach, książkach i fandomie. Autor: Marcin Segit
- - [https://www.blekitnyswit.pl](https://www.blekitnyswit.pl)
- - date_published: 2024-07-03T06:30:13.394343+00:00
-
- ## Gazetki promocyjne, promocje, aktualne gazetki reklamowe | Blix.pl
- - [https://blix.pl](https://blix.pl)
- - date_published: 2024-10-22T21:17:11.097172+00:00
-
- ## Bliżej Życia z Wiarą - Nowy tygodnik!
- - [https://blizejzycia.pl](https://blizejzycia.pl)
- - date_published: 2024-08-18T16:56:10.948186+00:00
-
- ## mieć znaczy być…..
- - [https://besol.blogi.pl](https://besol.blogi.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## biologia i ochrona przyrody
- - [https://biologiaiochronaprzyrody.blogi.pl](https://biologiaiochronaprzyrody.blogi.pl)
- - date_published: 2024-07-11T16:33:59.258948+00:00
-
- ## Biznes
- - [https://biznes.blogi.pl](https://biznes.blogi.pl)
- - date_published: 2024-07-11T16:34:03.451526+00:00
-
- ## Najlepsze blogi, blogi bez opłat, fajne blogi za darmo
- - [https://blogi.pl](https://blogi.pl)
- - date_published: 2024-05-09T14:13:50.542138+00:00
-
- ## Oficjalny blog Grupy Pino
- - [https://grupapino.blogi.pl](https://grupapino.blogi.pl)
- - date_published: 2024-07-11T16:33:11.839998+00:00
-
- ## Sekretny pamiętnik Marii Kosaciec.
- - [https://sekretny-pamietnik.blogi.pl](https://sekretny-pamietnik.blogi.pl)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## A żyć możesz tylko dzięki temu, za co mógłbyś umrzeć.
- - [https://swiatlo-spadajacych-gwiazd.blogi.pl](https://swiatlo-spadajacych-gwiazd.blogi.pl)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Systemy przeciwpożarowe w biurowcach i budynkach użyteczności publicznej
- - [https://wentylacjepozarowe.blogi.pl](https://wentylacjepozarowe.blogi.pl)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Zostawili we mnie swój ślad.
- - [https://zostawicslad.blogi.pl](https://zostawicslad.blogi.pl)
- - date_published: 2024-07-11T16:34:02.530170+00:00
-
- ## Blogmedia24 | Blogerzy o mediach i polityce
- - [http://www.blogmedia24.pl](http://www.blogmedia24.pl)
- - date_published: 2024-08-19T21:12:52+00:00
-
- ## Blogrys
- - [https://blogrys.pl](https://blogrys.pl)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Oferta sprzedaży domeny: blogspot.pl
- - [http://wiejskoczarodziejsko.blogspot.pl](http://wiejskoczarodziejsko.blogspot.pl)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## BLOW | Sklep internetowy
- - [https://blow.pl](https://blow.pl)
- - date_published: 2024-05-15T14:15:08.026660+00:00
-
- ## Strony internetowe - Administracja Joomla! - BlueCoyote
- - [https://bluecoyote.pl](https://bluecoyote.pl)
- - date_published: 2024-07-14T02:17:15+00:00
-
- ## bluegames
- - [https://bluegames.pl](https://bluegames.pl)
- - date_published: 2024-06-27T05:58:50.074952+00:00
-
- ## Rozwiązania i usługi dla firm
- - [https://bluemedia.pl](https://bluemedia.pl)
- - date_published: 2024-09-02T13:35:04.773584+00:00
-
- ## Pozycjonowanie stron internetowych - Blumo Łódź. Tworzenie stron pod pozycjonowanie.
- - [https://www.blumo.pl](https://www.blumo.pl)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Roman Workshop - amatorskie projekty programistyczno-elektroniczne
- - [http://romanworkshop.blutu.pl](http://romanworkshop.blutu.pl)
- - date_published: 2024-07-14T12:28:09.607261+00:00
-
- ## Klienci indywidualni
- - [https://www.bnpparibas.pl](https://www.bnpparibas.pl)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Szkolenia dla programistów, wzorce projektowe - BNS IT
- - [https://bnsit.pl](https://bnsit.pl)
- - date_published: 2024-05-26T18:51:38.274964+00:00
-
- ## Podcast „Bo czemu nie?”
- - [https://boczemunie.pl](https://boczemunie.pl)
- - date_published: 2024-07-11T23:53:14.634404+00:00
 

@@ -1,3 +1,216 @@
+ ## DavidTan.org
+ - [http://www.davidtan.org](http://www.davidtan.org)
+ - date_published: 2024-10-27T12:11:17.266812+00:00
+
+ ## DAVIS: Densely Annotated VIdeo Segmentation
+ - [https://davischallenge.org](https://davischallenge.org)
+ - date_published: 2023-01-26T20:27:43+00:00
+
+ ## Home - Davis Legacy Soccer Club
+ - [https://davislegacysoccer.org](https://davislegacysoccer.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Davmac.org - software and stuff
+ - [https://davmac.org](https://davmac.org)
+ - date_published: 2023-09-22T08:16:21+00:00
+
+ ## Brattleboro Dawn Dances
+ - [https://dawndance.org](https://dawndance.org)
+ - date_published: 2024-08-20T05:22:56.450043+00:00
+
+ ## Democracy for the Arab World Now - DAWN - Home
+ - [https://dawnmena.org](https://dawnmena.org)
+ - date_published: 2023-10-25T21:12:58.207782+00:00
+
+ ## DaXHordes.org - Comunidad scener de PS4, PS3, PS Vita y PSP
+ - [https://daxhordes.org](https://daxhordes.org)
+ - date_published: 2024-05-07T09:43:12.145490+00:00
+
+ ## Day Air Credit Union | Perks Checking and Higher Dividends
+ - [https://dayair.org](https://dayair.org)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Daybreak
+ - [https://daybreakgame.org](https://daybreakgame.org)
+ - date_published: 2024-07-10T08:31:33.411192+00:00
+
+ ## Adam Lee's Homepage
+ - [http://www.daylightatheism.org](http://www.daylightatheism.org)
+ - date_published: 2023-02-25T00:21:26+00:00
+
+ ## Daylight Books
+ - [https://daylightbooks.org](https://daylightbooks.org)
+ - date_published: 2024-09-20T14:43:54.987817+00:00
+
+ ## Day One Project - Federation of American Scientists
+ - [https://www.dayoneproject.org](https://www.dayoneproject.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Daytonabeachswimming - Cara Menghancurkan Turret Lawan Game League of Legends
+ - [https://daytonabeachswimming.org](https://daytonabeachswimming.org)
+ - date_published: 2024-08-20T04:13:48.935384+00:00
+
+ ## Dayton Codebreakers | A story so important it was secret for 50 years
+ - [https://www.daytoncodebreakers.org](https://www.daytoncodebreakers.org)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Dayton Metro Library
+ - [https://www.daytonmetrolibrary.org](https://www.daytonmetrolibrary.org)
+ - date_published: 2024-07-20T21:44:55.278048+00:00
+
+ ## DazeEnd.org
+ - [https://dazeend.org](https://dazeend.org)
+ - date_published: 2024-06-23T14:53:18.042409+00:00
+
+ ## Python Training by Dan Bader – dbader.org
+ - [https://dbader.org](https://dbader.org)
+ - date_published: 2024-06-28T19:53:11.998211+00:00
+
+ ## David Baron
+ - [https://dbaron.org](https://dbaron.org)
+ - date_published: 2008-01-19T00:00:00+00:00
+
+ ## Desert Botanical Garden in Phoenix, Arizona | DBG
+ - [https://dbg.org](https://dbg.org)
+ - date_published: 2024-06-21T01:56:41.686521+00:00
+
+ ## home | dbinvest
+ - [https://dbinvest.org](https://dbinvest.org)
+ - date_published: 2023-06-23T15:10:10+00:00
+ - tags: ['personal']
+
+ ## The SLA Biomedical and Life Sciences Division (DBIO)
+ - [https://dbiosla.org](https://dbiosla.org)
+ - date_published: 2023-04-08T21:23:16+00:00
+
+ ## dbj( org );  IT Architecture, Coding & IT Industry
+ - [http://dbj.org](http://dbj.org)
+ - date_published: 2024-06-26T13:43:27.279635+00:00
+
+ ## blog.dblp.org – A blog about the dblp computer science bibliography
+ - [https://blog.dblp.org](https://blog.dblp.org)
+ - date_published: 2024-06-22T06:12:13.152960+00:00
+
+ ## dblp: computer science bibliography
+ - [https://dblp.org](https://dblp.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## OIDC Form_Post Response
+ - [https://databus.dbpedia.org](https://databus.dbpedia.org)
+ - date_published: 2024-07-07T03:10:51.038056+00:00
+
+ ## Home - DBpedia Association
+ - [https://dbpedia.org](https://dbpedia.org)
+ - date_published: 2024-05-08T09:03:06.819623+00:00
+
+ ## es.dbpedia.org
+ - [https://es.dbpedia.org](https://es.dbpedia.org)
+ - date_published: 2020-06-11T12:08:54+00:00
+
+ ## DBpedia Forum
+ - [https://forum.dbpedia.org](https://forum.dbpedia.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## DBpedia French chapter
+ - [https://fr.dbpedia.org](https://fr.dbpedia.org)
+ - date_published: 2022-06-07T13:38:30+00:00
+
+ ## Home - DBpedia Association
+ - [http://wiki.dbpedia.org](http://wiki.dbpedia.org)
+ - date_published: 2024-07-02T05:48:24.291161+00:00
+
+ ## Software Development & Consulting
+ - [https://dbservices.org](https://dbservices.org)
+ - date_published: 2024-10-28T23:26:55.014783+00:00
+
+ ## DEF CON 864 (DC864) Group – Upstate South Carolina's DEF CON Group
+ - [https://dc864.org](https://dc864.org)
+ - date_published: 2024-05-08T03:34:02.356141+00:00
+
+ ## DCEmulation
+ - [https://dcemulation.org](https://dcemulation.org)
+ - date_published: 2023-10-15T20:54:34+00:00
+
+ ## DC FOP Lodge 1
+ - [http://www.dc-fop.org](http://www.dc-fop.org)
+ - date_published: 2024-07-18T04:13:28+00:00
+
+ ## Habitat for Humanity D.C. & Northern Virginia
+ - [https://dchabitat.org](https://dchabitat.org)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## A Data-Centric Introduction to Computing
+ - [https://dcic-world.org](https://dcic-world.org)
+ - date_published: 2023-02-21T23:13:02+00:00
+
+ ## No Way to Treat a Child
+ - [http://nwttac.dci-palestine.org](http://nwttac.dci-palestine.org)
+ - date_published: 2024-09-16T20:17:52.157130+00:00
+
+ ## Defense for Children Palestine
+ - [https://www.dci-palestine.org](https://www.dci-palestine.org)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## DC Jobs with Justice | Fighting for working people in the nation's capital
+ - [http://www.dcjwj.org](http://www.dcjwj.org)
+ - date_published: 2024-09-18T04:30:28.621116+00:00
+
+ ## Washington Kurdish Institute | Est. 1996
+ - [http://dckurd.org](http://dckurd.org)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Welcome to DCMNY | DCMNY
+ - [https://dcmny.org](https://dcmny.org)
+ - date_published: 2024-06-28T19:58:51+00:00
+
+ ## Start | DCND
+ - [https://www.dcnd.org](https://www.dcnd.org)
+ - date_published: 2024-07-24T04:20:27.443535+00:00
+
+ ## https://dconf.org
+ - [https://dconf.org](https://dconf.org)
+ - date_published: 2024-01-09T03:38:54.424034+00:00
+
+ ## dConstruct 2012 · Home
+ - [https://2012.dconstruct.org](https://2012.dconstruct.org)
+ - date_published: 2024-06-15T04:16:36.321884+00:00
+
+ ## DCOSS-IoT 2025 – INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING IN SMART SYSTEMS AND THE INTERNET OF THINGS
+ - [http://www.dcoss.org](http://www.dcoss.org)
+ - date_published: 2024-06-22T09:32:48.608534+00:00
+
+ ## D.C. Policy Center - D.C. Policy Center
+ - [https://dcpolicycenter.org](https://dcpolicycenter.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## DCReport
+ - [https://www.dcreport.org](https://www.dcreport.org)
+ - date_published: 2024-08-19T16:57:11+00:00
+
+ ## Duke Clinical Research Institute
+ - [https://www.dcri.org](https://www.dcri.org)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## dcsummit.org - dcsummit Zasoby i informacje.
+ - [https://dcsummit.org](https://dcsummit.org)
+ - date_published: 2024-09-23T13:25:14+00:00
+
+ ## Biggest National Academy Conference
+ - [http://dcthink.org](http://dcthink.org)
+ - date_published: 2024-10-29T17:27:40.453870+00:00
+
+ ## DCU Online
+ - [https://app.dcu.org](https://app.dcu.org)
+ - date_published: 2024-06-10T18:13:04+00:00
+
+ ## DCU | Personal & Business Banking | Digital Federal Credit Union
+ - [https://dcu.org](https://dcu.org)
+ - date_published: 2024-06-14T18:07:36+00:00
+
+ ## DCU Fintech Innovation | MassChallenge
+ - [https://dcufintech.org](https://dcufintech.org)
+ - date_published: 2024-06-14T18:24:15+00:00
+
  ## DCU for Kids – Make a difference
  - [https://www.dcuforkids.org](https://www.dcuforkids.org)
  - date_published: 2024-06-16T11:35:54.212623+00:00
@@ -3819,217 +4032,4 @@
  ## DragonFlyBSD bugtracker
  - [http://bugs.dragonflybsd.org](http://bugs.dragonflybsd.org)
  - date_published: 2024-08-18T19:44:30.405599+00:00
-
- ## Dashboard [Jenkins]
- - [https://ci.dragonflybsd.org](https://ci.dragonflybsd.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## DragonFlyBSD: DragonFly BSD
- - [https://dragonflybsd.org](https://dragonflybsd.org)
- - date_published: 2023-10-25T21:15:22.406789+00:00
-
- ## gitweb.dragonflybsd.org Git
- - [https://gitweb.dragonflybsd.org](https://gitweb.dragonflybsd.org)
- - date_published: 2024-08-18T19:44:33.207154+00:00
-
- ## DragonFly BSD Mailing List Archives
- - [https://lists.dragonflybsd.org](https://lists.dragonflybsd.org)
- - date_published: 2024-09-14T23:10:00+00:00
-
- ## Dragon Quest Wiki
- - [https://dragon-quest.org](https://dragon-quest.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Join the DragonRuby Game Toolkit Discord Server!
- - [https://discord.dragonruby.org](https://discord.dragonruby.org)
- - date_published: 2024-05-07T19:01:14.529638+00:00
-
- ## DragonRuby | DragonRuby
- - [https://dragonruby.org](https://dragonruby.org)
- - date_published: 2024-05-07T19:01:15.914429+00:00
-
- ## DragonRuby Game Toolkit Tutorial
- - [https://fiddle.dragonruby.org](https://fiddle.dragonruby.org)
- - date_published: 2021-07-17T03:13:12+00:00
-
- ## Welcome to Dragonsfoot
- - [https://www.dragonsfoot.org](https://www.dragonsfoot.org)
- - date_published: 2024-07-14T20:37:12.860522+00:00
-
- ## Home — Dragora.org
- - [https://dragora.org](https://dragora.org)
- - date_published: 2024-04-19T18:00:07+00:00
-
- ## Meditation Retreats and Mountain Retreats | Drala Mountain Center
- - [https://www.dralamountain.org](https://www.dralamountain.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Sarah Dufeutrelle → Dramathérapie, Psychodrame, Théâtre Forum
- - [https://www.dramatherapie.org](https://www.dramatherapie.org)
- - date_published: 2024-10-29T14:13:25.504149+00:00
-
- ## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
- - [https://drasticresearch.org](https://drasticresearch.org)
- - date_published: 2023-10-25T21:15:25.874666+00:00
-
- ## Home
- - [https://drawdown.org](https://drawdown.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Drawing Machines
- - [https://drawingmachines.org](https://drawingmachines.org)
- - date_published: 2024-06-12T12:44:14+00:00
-
- ## Drawing Matter
- - [https://drawingmatter.org](https://drawingmatter.org)
- - date_published: 2024-09-14T20:27:28+00:00
-
- ## Free online drawing tools, SVG editor, generators, png converter
- - [http://www.drawsvg.org](http://www.drawsvg.org)
- - date_published: 2024-07-20T13:18:24.395923+00:00
-
- ## Douay-Rheims Bible Online, Official Catholic Version with Search.
- - [http://drbo.org](http://drbo.org)
- - date_published: 2023-06-14T21:58:57+00:00
-
- ## Homepage | Denver Regional Council of Governments
- - [https://drcog.org](https://drcog.org)
- - date_published: 2024-08-06T22:33:31+00:00
-
- ## DRD Team Development Builds • News
- - [http://devbuilds.drdteam.org](http://devbuilds.drdteam.org)
- - date_published: 2024-06-21T14:34:59.908298+00:00
- - tags: ['doom']
-
- ## Doomseeker - Cross platform Doom server browser.
- - [http://doomseeker.drdteam.org](http://doomseeker.drdteam.org)
- - date_published: 2024-07-11T12:41:41.521769+00:00
-
- ## DRD Team • News
- - [https://drdteam.org](https://drdteam.org)
- - date_published: 2024-06-21T14:34:47.259036+00:00
-
- ## Adaptive Recreation in Montana - DREAM Adaptive Recreation
- - [https://www.dreamadaptive.org](https://www.dreamadaptive.org)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Home
- - [https://dreamchallenges.org](https://dreamchallenges.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## The Dream Foundry
- - [https://dreamfoundry.org](https://dreamfoundry.org)
- - date_published: 2024-10-28T08:29:48.059348+00:00
-
- ## DreamLarge
- - [https://www.dreamlarge.org](https://www.dreamlarge.org)
- - date_published: 2024-07-13T17:11:35.129241+00:00
-
- ## DreamSDK — Sega Dreamcast SDK for Microsoft Windows
- - [https://dreamsdk.org](https://dreamsdk.org)
- - date_published: 2024-08-22T22:15:16.728129+00:00
-
- ## dream shrine
- - [https://dreamshrine.org](https://dreamshrine.org)
- - date_published: 2024-04-19T03:25:25+00:00
-
- ## 【𝚍𝚛𝚎𝚊𝚖𝚜░𝚒𝚗░𝚍𝚒𝚐𝚒𝚝𝚊𝚕】
- - [https://dreamsindigital.org](https://dreamsindigital.org)
- - date_published: 2024-06-23T18:51:38.469898+00:00
-
- ## 100ships | Recent Entries
- - [https://100ships.dreamwidth.org](https://100ships.dreamwidth.org)
- - date_published: 2024-09-16T06:45:19.021946+00:00
-
- ## 92_lina | Recent Entries
- - [http://92-lina.dreamwidth.org](http://92-lina.dreamwidth.org)
- - date_published: 2024-06-30T08:10:29.180473+00:00
-
- ## adastrafanfic | Recent Entries
- - [https://adastrafanfic.dreamwidth.org](https://adastrafanfic.dreamwidth.org)
- - date_published: 2024-05-01T02:26:36.455142+00:00
-
- ## afrikate | Recent Entries
- - [https://afrikate.dreamwidth.org](https://afrikate.dreamwidth.org)
- - date_published: 2024-07-16T19:15:40.170252+00:00
-
- ## Discretion Advised
- - [https://anna-unfolding.dreamwidth.org](https://anna-unfolding.dreamwidth.org)
- - date_published: 2024-07-16T19:15:55.535757+00:00
-
- ## arduinna | Recent Entries
- - [https://arduinna.dreamwidth.org](https://arduinna.dreamwidth.org)
- - date_published: 2024-09-02T13:08:59.381744+00:00
-
- ## athornton | Recent Entries
- - [https://athornton.dreamwidth.org](https://athornton.dreamwidth.org)
- - date_published: 2024-07-15T09:25:25.586062+00:00
-
- ## Discretion Advised
- - [https://autisticwriter.dreamwidth.org](https://autisticwriter.dreamwidth.org)
- - date_published: 2024-09-16T06:45:04.402615+00:00
-
- ## avzel | Recent Entries
- - [http://avzel.dreamwidth.org](http://avzel.dreamwidth.org)
- - date_published: 2024-06-30T08:11:14.122909+00:00
-
- ## bluelander. Recent Entries
- - [https://bluelander.dreamwidth.org](https://bluelander.dreamwidth.org)
- - date_published: 2024-04-29T07:25:54.844937+00:00
-
- ## branchandroot | Recent Entries
- - [https://branchandroot.dreamwidth.org](https://branchandroot.dreamwidth.org)
- - date_published: 2024-06-28T18:21:05.495477+00:00
-
- ## bunn | Recent Entries
- - [https://bunn.dreamwidth.org](https://bunn.dreamwidth.org)
- - date_published: 2024-09-03T20:46:09.080547+00:00
-
- ## capri0mni | Recent Entries
- - [https://capri0mni.dreamwidth.org](https://capri0mni.dreamwidth.org)
- - date_published: 2024-09-06T12:42:55.014745+00:00
-
- ## carisma_sensei | Recent Entries
- - [https://carisma-sensei.dreamwidth.org](https://carisma-sensei.dreamwidth.org)
- - date_published: 2024-09-16T06:44:14.003044+00:00
-
- ## catsidhe | Recent Entries
- - [http://catsidhe.dreamwidth.org](http://catsidhe.dreamwidth.org)
- - date_published: 2024-09-03T23:07:14.705341+00:00
-
- ## ceb | Recent Entries
- - [https://ceb.dreamwidth.org](https://ceb.dreamwidth.org)
- - date_published: 2024-08-18T19:44:16.902001+00:00
-
- ## cellio | Recent Entries
- - [https://cellio.dreamwidth.org](https://cellio.dreamwidth.org)
- - date_published: 2024-03-14T17:29:57.709889+00:00
-
- ## chromicons | Recent Entries
- - [https://chromicons.dreamwidth.org](https://chromicons.dreamwidth.org)
- - date_published: 2024-09-02T13:09:08.486216+00:00
-
- ## cnovels | Recent Entries
- - [https://cnovels.dreamwidth.org](https://cnovels.dreamwidth.org)
- - date_published: 2024-07-18T05:36:05.225380+00:00
-
- ## cobaltnine | Recent Entries
- - [https://cobaltnine.dreamwidth.org](https://cobaltnine.dreamwidth.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## corabuhlert_feed | Recent Entries
- - [https://corabuhlert-feed.dreamwidth.org](https://corabuhlert-feed.dreamwidth.org)
- - date_published: 2024-05-08T06:33:13.312161+00:00
-
- ## dancing_serpent | Arcadia Gateway
- - [https://dancing-serpent.dreamwidth.org](https://dancing-serpent.dreamwidth.org)
- - date_published: 2024-06-28T18:21:02.157541+00:00
-
- ## daughterofshadows | Recent Entries
- - [https://daughterofshadows.dreamwidth.org](https://daughterofshadows.dreamwidth.org)
- - date_published: 2024-09-03T20:42:58.996643+00:00
-
- ## dawn_felagund | The Now |
- - [https://dawn-felagund.dreamwidth.org](https://dawn-felagund.dreamwidth.org)
- - date_published: 2024-09-03T20:42:50.321033+00:00
 

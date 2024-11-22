@@ -1,3 +1,7 @@
+ ## Informly • Make Informed Decisions with Instant Insights. Powered with AI & Live Web Data
+ - [https://informly.ai](https://informly.ai)
+ - date_published: 2024-09-13T20:30:57.428850+00:00
+
  ## Idea Validator • Informly • Validate your Business Idea instantly. Powered with AI.
  - [https://validator.informly.ai](https://validator.informly.ai)
  - date_published: 2024-06-14T08:51:46.429014+00:00
@@ -423,6 +427,10 @@
  ## Jounce - Free AI Copywriting & Art for Marketers
  - [https://www.jounce.ai](https://www.jounce.ai)
  - date_published: 2023-09-09T00:00:00+00:00
+
+ ## Jovin | Jovin
+ - [https://backend.jovin.ai](https://backend.jovin.ai)
+ - date_published: 2024-11-21T15:50:15.552177+00:00
 
  ## Joyland.ai | Joyful AI Character & Story
  - [https://www.joyland.ai](https://www.joyland.ai)
@@ -3167,9 +3175,9 @@
  - [https://llama.perplexity.ai](https://llama.perplexity.ai)
  - date_published: 2024-06-19T20:41:12.774235+00:00
 
- ## Cierpliwości...
+ ## Perplexity AI
  - [https://perplexity.ai](https://perplexity.ai)
- - date_published: 2024-05-14T03:37:40.311437+00:00
+ - date_published: 2024-05-14T03:37:40+00:00
  - tags: ['artificial intelligence bot', 'search engine']
 
  ## Persana AI | 10x your Prospecting with AI | Best Clay Alternative
@@ -4013,12 +4021,4 @@
  ## Sales Training Software: AI Role-Play and Coaching | Quantified
  - [https://quantified.ai](https://quantified.ai)
  - date_published: 2024-10-30T22:25:28.585278+00:00
-
- ## Turn your content into an AI copilot | Quench
- - [https://quench.ai](https://quench.ai)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Quest
- - [https://blog.quest.ai](https://blog.quest.ai)
- - date_published: 2024-10-30T21:13:36.157908+00:00
 

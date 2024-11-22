@@ -1,3 +1,19 @@
+ ## Queen's School of Computing
+ - [http://www.cs.queensu.ca](http://www.cs.queensu.ca)
+ - date_published: 2024-06-23T11:33:51.342032+00:00
+
+ ## Department of Mathematics and Statistics | Queen's University
+ - [http://www.mast.queensu.ca](http://www.mast.queensu.ca)
+ - date_published: 2024-06-23T11:33:43.399561+00:00
+
+ ## Queen's University Canada
+ - [http://www.queensu.ca](http://www.queensu.ca)
+ - date_published: 2024-06-23T11:33:45.922496+00:00
+
+ ## Queer Computer Club
+ - [https://queercomputerclub.ca](https://queercomputerclub.ca)
+ - date_published: 2024-02-14T01:17:43+00:00
+
  ## Oil Change, Tires, Service & Repair  | Quick Lane® Tire & Auto Centre
  - [http://quicklane.ca](http://quicklane.ca)
  - date_published: 2024-10-29T10:45:00+00:00
@@ -4011,20 +4027,4 @@
  ## Exhibits
  - [https://exhibits.library.utoronto.ca](https://exhibits.library.utoronto.ca)
  - date_published: 2024-04-30T05:28:39.291395+00:00
-
- ## Home - Family Care Office
- - [https://familycare.utoronto.ca](https://familycare.utoronto.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - Parents & Supporters
- - [https://family.utoronto.ca](https://family.utoronto.ca)
- - date_published: 2022-01-14T00:00:00+00:00
-
- ## BMO Financial Group Finance Research and Trading Lab
- - [http://financelab.rotman.utoronto.ca](http://financelab.rotman.utoronto.ca)
- - date_published: 2024-04-30T05:30:07.926058+00:00
-
- ## Home - Financial Services
- - [https://finance.utoronto.ca](https://finance.utoronto.ca)
- - date_published: 2024-07-01T21:35:57.357791+00:00
 

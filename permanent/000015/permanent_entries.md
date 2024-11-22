@@ -1,3 +1,15 @@
+ ## Manton Reece
+ - [http://manton.micro.blog](http://manton.micro.blog)
+ - date_published: 2024-07-02T15:57:08+00:00
+
+ ## mattypenny
+ - [https://mattypenny.micro.blog](https://mattypenny.micro.blog)
+ - date_published: 2024-07-07T00:10:58+00:00
+
+ ## Merson the Person
+ - [https://mersontheperson.micro.blog](https://mersontheperson.micro.blog)
+ - date_published: 2024-06-28T19:41:21+00:00
+
  ## Micro.blog
  - [https://micro.blog](https://micro.blog)
  - date_published: 2023-11-29T15:49:12.955798+00:00
@@ -4029,16 +4041,4 @@ Educação
  ## Inoplastic
  - [https://www.inoplastic.com.br](https://www.inoplastic.com.br)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Intel | Soluções para data center, Internet das Coisas e inovação...
- - [https://intel.com.br](https://intel.com.br)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Homepage | Intesa Sanpaolo Banche Estere
- - [https://www.intesasanpaolobrasil.com.br](https://www.intesasanpaolobrasil.com.br)
- - date_published: 2024-09-26T21:30:15.886251+00:00
-
- ## Home
- - [https://intrinseca.com.br](https://intrinseca.com.br)
- - date_published: 2024-05-10T06:57:10.843398+00:00
 

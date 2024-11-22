@@ -1,3 +1,11 @@
+ ## Wispr
+ - [https://wispr.ai](https://wispr.ai)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Wizzy for Shopify
+ - [https://shopify-app.wizzy.ai](https://shopify-app.wizzy.ai)
+ - date_published: 2024-06-15T20:22:59.465481+00:00
+
  ## WMDP Benchmark
  - [https://www.wmdp.ai](https://www.wmdp.ai)
  - date_published: 2024-07-06T19:50:39.915365+00:00
@@ -4010,13 +4018,4 @@
  ## Hive Social
  - [https://hivesocial.app](https://hivesocial.app)
  - date_published: 2024-02-16T00:00:00+00:00
-
- ## Introduction | Hoarder Docs
- - [https://docs.hoarder.app](https://docs.hoarder.app)
- - date_published: 2024-05-14T03:46:21.700968+00:00
-
- ## Hoarder
- - [https://hoarder.app](https://hoarder.app)
- - date_published: 2024-04-08T19:28:56.756392+00:00
- - tags: ['link aggregator', 'self-host']
 

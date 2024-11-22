@@ -1,3 +1,135 @@
+ ## data:unplugged am 07.03.2024!
+ - [https://www.data-unplugged.de](https://www.data-unplugged.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Datawrapper Academy
+ - [https://academy.datawrapper.de](https://academy.datawrapper.de)
+ - date_published: 2024-04-29T06:02:07.790040+00:00
+
+ ## Datawrapper
+ - [https://app.datawrapper.de](https://app.datawrapper.de)
+ - date_published: 2024-04-29T06:02:06.409109+00:00
+
+ ## Datawrapper Blog
+ - [https://blog.datawrapper.de](https://blog.datawrapper.de)
+ - date_published: 2023-10-25T18:29:23.861867+00:00
+
+ ## Datawrapper: Create charts, maps, and tables
+ - [https://datawrapper.de](https://datawrapper.de)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Getting Started
+ - [https://developer.datawrapper.de](https://developer.datawrapper.de)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://pwk.datawrapper.de](https://pwk.datawrapper.de)
+ - date_published: 2024-04-29T06:02:05.528406+00:00
+
+ ## Datawrapper River
+ - [https://river.datawrapper.de](https://river.datawrapper.de)
+ - date_published: 2024-04-29T06:02:18.985375+00:00
+
+ ## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date_published: 2021-09-23T22:00:00+00:00
+
+ ## datenbrei.de
+ - [http://datenbrei.de](http://datenbrei.de)
+ - date_published: 2024-07-24T07:56:14.199348+00:00
+
+ ## Martin DÃ¶ring
+ - [https://martin.datenbrei.de](https://martin.datenbrei.de)
+ - date_published: 2024-04-29T06:02:26.813129+00:00
+
+ ## mobiki — the mobile first wiki
+ - [http://mobiki.datenbrei.de](http://mobiki.datenbrei.de)
+ - date_published: 2017-02-01T00:00:00+00:00
+
+ ## Reisen
+ - [http://reisen.datenbrei.de](http://reisen.datenbrei.de)
+ - date_published: 2017-01-02T00:00:00+00:00
+
+ ## Aram Bartholl
+ - [http://datenform.de](http://datenform.de)
+ - date_published: 2024-07-13T16:14:49.729681+00:00
+
+ ## Home - Software für Hochschulen | Datenlotsen Informationssysteme GmbH
+ - [http://www.datenlotsen.de](http://www.datenlotsen.de)
+ - date_published: 2024-10-22T05:20:17.054305+00:00
+
+ ## Startseite - Berliner Beauftragte für Datenschutz und Informationsfreiheit
+ - [https://www.datenschutz-berlin.de](https://www.datenschutz-berlin.de)
+ - date_published: 2024-06-23T11:48:24.147849+00:00
+
+ ## Datenschutzerklärung Generator - kostenlos & DSGVO sicher
+ - [https://datenschutz-generator.de](https://datenschutz-generator.de)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## datensicherheit.de - Informationen zu Datensicherheit und Datenschutz
+ - [https://www.datensicherheit.de](https://www.datensicherheit.de)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Datenspuren 2024
+ - [https://datenspuren.de](https://datenspuren.de)
+ - date_published: 2024-04-29T05:57:59.049558+00:00
+
+ ## Home
+ - [https://dateo-software.de](https://dateo-software.de)
+ - date_published: 2024-06-18T06:03:57.515516+00:00
+
+ ## Daumenkinographie Volker Gerling
+ - [https://www.daumenkinographie.de](https://www.daumenkinographie.de)
+ - date_published: 2018-06-11T12:29:54+00:00
+
+ ## Fortbildungstool
+ - [https://cockpit.davfobi.de](https://cockpit.davfobi.de)
+ - date_published: 2023-10-26T14:32:50+00:00
+
+ ## davidak.de
+ - [https://davidak.de](https://davidak.de)
+ - date_published: 2016-02-28T22:24:45+00:00
+
+ ## David Greve
+ - [https://www.david-greve.de](https://www.david-greve.de)
+ - date_published: 2024-07-10T05:49:02.925042+00:00
+
+ ## David Kopp
+ - [https://davidkopp.de](https://davidkopp.de)
+ - date_published: 2024-05-09T07:57:04.982170+00:00
+
+ ## Welcome
+ - [https://notes.davidkopp.de](https://notes.davidkopp.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## David Latz
+ - [https://davidlatz.de](https://davidlatz.de)
+ - date_published: 2024-07-13T16:12:42.614213+00:00
+
+ ## David Liebermann
+ - [https://davidliebermann.de](https://davidliebermann.de)
+ - date_published: 2024-04-05T07:07:57+00:00
+
+ ## PROFI STUDIO
+ - [http://profistudio.davidliebermann.de](http://profistudio.davidliebermann.de)
+ - date_published: 2024-07-13T16:00:50.036210+00:00
+
+ ## david-peter.de
+ - [https://david-peter.de](https://david-peter.de)
+ - date_published: 2023-12-05T15:10:57+00:00
+
+ ## Der Domainname davidpfifferling.de steht zum Verkauf.
+ - [http://davidpfifferling.de](http://davidpfifferling.de)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## David Tielke - Consulting, Coaching, Trainings
+ - [http://david-tielke.de](http://david-tielke.de)
+ - date_published: 2024-09-18T14:27:13.736474+00:00
+
+ ## start
+ - [http://www.daxo.de](http://www.daxo.de)
+ - date_published: 2017-02-08T10:54:54+00:00
+
  ## DB Engineering & Consulting | Eisenbahn für die Welt von morgen
  - [https://www.db-engineering-consulting.de](https://www.db-engineering-consulting.de)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -2099,6 +2231,10 @@ Heinsohn
  - [https://ecodigit.de](https://ecodigit.de)
  - date_published: 2024-04-30T00:00:00+00:00
 
+ ## ecomento.de
+ - [https://ecomento.de](https://ecomento.de)
+ - date_published: 2024-11-21T20:17:40+00:00
+
  ## Startseite
  - [https://cdn.econda.de](https://cdn.econda.de)
  - date_published: 2024-08-07T00:00:00+00:00
@@ -3878,141 +4014,4 @@ Heinsohn
  ## FluxFM
  - [https://www.fluxfm.de](https://www.fluxfm.de)
  - date_published: 2024-06-22T13:11:25.002905+00:00
-
- ## Cutting Edge Software for the Enterprise
- - [https://www.flyingdog.de](https://www.flyingdog.de)
- - date_published: 2024-06-19T19:27:39.168641+00:00
-
- ## Informationen zur Fachschaft - Fachschaft Mathe/Info
- - [http://www.fmi-wuerzburg.de](http://www.fmi-wuerzburg.de)
- - date_published: 2024-06-26T22:12:51.506323+00:00
-
- ## Home - FMX | EN
- - [https://fmx.de](https://fmx.de)
- - date_published: 2024-04-29T06:29:59.809601+00:00
-
- ## freenet.de Partnersuche: Deutschlands erfolgreiche Partnerbörse
- - [https://partnersuche.fn.de](https://partnersuche.fn.de)
- - date_published: 2024-06-16T10:12:11.432129+00:00
-
- ## fnordig.de
- - [https://fnordig.de](https://fnordig.de)
- - date_published: 2024-06-04T21:33:18+00:00
-
- ## Redis RDB
- - [https://rdb.fnordig.de](https://rdb.fnordig.de)
- - date_published: 2015-09-21T19:04:30+00:00
-
- ## Fnordon
- - [https://fnordon.de](https://fnordon.de)
- - date_published: 2024-05-09T07:50:38.936097+00:00
-
- ## Fnordon Status
- - [https://status.fnordon.de](https://status.fnordon.de)
- - date_published: 2024-07-10T07:04:54.625643+00:00
-
- ## Regionale Nachrichten aus Frankfurt, Rhein-Main und Hessen | fnp.de
- - [https://www.fnp.de](https://www.fnp.de)
- - date_published: 2024-07-24T07:40:59.710741+00:00
-
- ## Aktuelle Nachrichten aus Tauberbischofsheim und der Region - Fränkische Nachrichten
- - [https://www.fnweb.de](https://www.fnweb.de)
- - date_published: 2024-07-24T04:00:00+00:00
-
- ## FOCUS online - Nachrichten
- - [https://amp.focus.de](https://amp.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Focus Online
- - [https://article.focus.de](https://article.focus.de)
- - date_published: 2024-09-18T17:35:31.696868+00:00
-
- ## contentpass
- - [https://cp.focus.de](https://cp.focus.de)
- - date_published: 2024-09-18T17:34:27.776684+00:00
-
- ## IOAM
- - [https://data-1818d50639.focus.de](https://data-1818d50639.focus.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## ETF-Sparplan-Vergleich 2024: Empfehlungen + Tests | FOCUS
- - [https://etf-sparplan.focus.de](https://etf-sparplan.focus.de)
- - date_published: 2024-09-18T17:35:33.272372+00:00
-
- ## Festgeld-Vergleich 09/2024 | Beste Zinsen fürs Festgeldkonto | FOCUS
- - [https://festgeld.focus.de](https://festgeld.focus.de)
- - date_published: 2024-09-18T17:35:02.484835+00:00
-
- ## FOCUS online - Nachrichten
- - [https://focus.de](https://focus.de)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Kostenlose Online Spiele: Jetzt spielen | FOCUS.de
- - [https://games.focus.de](https://games.focus.de)
- - date_published: 2024-09-18T17:34:45.105504+00:00
-
- ## Girokonto-Vergleich 2024: Bestes Konto finden | FOCUS
- - [https://girokonto.focus.de](https://girokonto.focus.de)
- - date_published: 2024-09-18T17:34:40.271363+00:00
-
- ## FOCUS Online Gutscheine - Ihr Partner für Gutscheine & Rabatte
- - [https://gutscheine.focus.de](https://gutscheine.focus.de)
- - date_published: 2024-09-18T17:35:24.276631+00:00
-
- ## FOCUS Online
- - [https://kreditkarte.focus.de](https://kreditkarte.focus.de)
- - date_published: 2024-09-18T17:34:43.175084+00:00
-
- ## Jetzt online kündigen mit aboalarm & FOCUS Online
- - [https://kuendigen.focus.de](https://kuendigen.focus.de)
- - date_published: 2024-09-18T17:35:49.531818+00:00
-
- ## FOCUS online - Nachrichten
- - [https://m.focus.de](https://m.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Depot-Vergleich 2024: Besten Online-Broker finden | FOCUS
- - [https://online-broker-vergleich.focus.de](https://online-broker-vergleich.focus.de)
- - date_published: 2024-09-18T17:35:09.129257+00:00
-
- ## Focus Kiosk
- - [https://pdf.focus.de](https://pdf.focus.de)
- - date_published: 2024-09-18T17:34:29.527315+00:00
-
- ## Ratgeber zu Problemen mit Technik, Internet, Windows, iPhone, Android, MS Office, Bad, Garage, Garten, Hobbyraum, Kueche, Smarthome | FOCUS.de
- - [https://praxistipps.focus.de](https://praxistipps.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## 
-					FOCUS online
- - [https://rss.focus.de](https://rss.focus.de)
- - date_published: 2024-09-18T17:34:50+00:00
-
- ## FOCUS online - Nachrichten
- - [https://static.focus.de](https://static.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Tagesgeld-Vergleich 09/2024: Beste Zinsen beim Tagesgeldkonto | FOCUS
- - [https://tagesgeld.focus.de](https://tagesgeld.focus.de)
- - date_published: 2024-09-18T17:34:39.207730+00:00
-
- ## Tarifrechner Mobilfunk - Tarife - Digital
- - [https://tarife.focus.de](https://tarife.focus.de)
- - date_published: 2024-09-18T17:35:14.401102+00:00
-
- ## Unternehmen - Produkte, Services, Angebote - FOCUS.de
- - [https://unternehmen.focus.de](https://unternehmen.focus.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## FOCUS Online Produktvergleiche
- - [https://vergleich.focus.de](https://vergleich.focus.de)
- - date_published: 2024-09-18T17:35:07.494934+00:00
-
- ## Interactive Brand Page
- - [https://v.focus.de](https://v.focus.de)
- - date_published: 2024-07-22T15:20:33+00:00
-
- ## FOCUS | Bis zu 200 € Prämie sichern | Offizieller Abo-Shop
- - [https://focus-abo.de](https://focus-abo.de)
- - date_published: 2024-09-18T17:35:10.433999+00:00
 

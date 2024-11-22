@@ -1,3 +1,167 @@
+ ## Festival Playhouse –  | Kalamazoo College
+ - [https://festivalplayhouse.kzoo.edu](https://festivalplayhouse.kzoo.edu)
+ - date_published: 2024-05-07T19:23:32.930640+00:00
+
+ ## Film and Media Studies –  | Kalamazoo College
+ - [https://filmandmediastudies.kzoo.edu](https://filmandmediastudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:21.062141+00:00
+
+ ## Office of Financial Aid –  | Kalamazoo College
+ - [https://finaid.kzoo.edu](https://finaid.kzoo.edu)
+ - date_published: 2024-05-07T19:25:02.513515+00:00
+
+ ## Fitness & Wellness Center –  | Kalamazoo College
+ - [https://fitnesscenter.kzoo.edu](https://fitnesscenter.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Log in to Faculty Personnel Committee
+ - [https://fpc.kzoo.edu](https://fpc.kzoo.edu)
+ - date_published: 2024-05-07T19:22:24.888096+00:00
+
+ ## French and Francophone Studies –  | Kalamazoo College
+ - [https://french.kzoo.edu](https://french.kzoo.edu)
+ - date_published: 2024-05-07T19:24:36.709196+00:00
+
+ ## First Year Experience –  | Kalamazoo College
+ - [https://fye.kzoo.edu](https://fye.kzoo.edu)
+ - date_published: 2024-07-01T13:07:06.521166+00:00
+
+ ## Gardens and Growing Spaces –  | Kalamazoo College
+ - [https://gardens.kzoo.edu](https://gardens.kzoo.edu)
+ - date_published: 2024-05-07T19:24:50.232506+00:00
+
+ ## Department of German Studies –  | Kalamazoo College
+ - [https://german.kzoo.edu](https://german.kzoo.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Global Crossroads –  | Kalamazoo College
+ - [https://globalcrossroads.kzoo.edu](https://globalcrossroads.kzoo.edu)
+ - date_published: 2024-05-07T19:22:29.079782+00:00
+
+ ## Student Health Center –  | Kalamazoo College
+ - [https://healthcenter.kzoo.edu](https://healthcenter.kzoo.edu)
+ - date_published: 2024-05-07T19:21:36.379512+00:00
+
+ ## HILL Project – Humanities Integrated Locational Learning –  | Kalamazoo College
+ - [https://hill.kzoo.edu](https://hill.kzoo.edu)
+ - date_published: 2024-05-07T19:24:19.761219+00:00
+
+ ## History Department –  | Kalamazoo College
+ - [https://history.kzoo.edu](https://history.kzoo.edu)
+ - date_published: 2024-05-07T19:23:57.402201+00:00
+
+ ## Log in to Hornet Hive
+ - [https://hive.kzoo.edu](https://hive.kzoo.edu)
+ - date_published: 2024-05-07T19:20:54.316236+00:00
+
+ ## Homecoming and Reunions –  | Kalamazoo College
+ - [https://homecoming.kzoo.edu](https://homecoming.kzoo.edu)
+ - date_published: 2024-07-01T12:48:19.910931+00:00
+
+ ## Kalamazoo College Hornet HQ - Ellucian Student Application
+ - [https://hornethq.kzoo.edu](https://hornethq.kzoo.edu)
+ - date_published: 2024-05-07T19:20:56.475717+00:00
+
+ ## Kalamazoo College Athletics
+ - [https://hornets.kzoo.edu](https://hornets.kzoo.edu)
+ - date_published: 2024-05-07T19:21:09.425711+00:00
+
+ ## Human Resources –  | Kalamazoo College
+ - [https://hr.kzoo.edu](https://hr.kzoo.edu)
+ - date_published: 2024-05-07T19:22:18.632001+00:00
+
+ ## Institutional Assessment –  | Kalamazoo College
+ - [https://ia.kzoo.edu](https://ia.kzoo.edu)
+ - date_published: 2024-05-07T19:20:47.849753+00:00
+
+ ## International and Area Studies –  | Kalamazoo College
+ - [https://ias.kzoo.edu](https://ias.kzoo.edu)
+ - date_published: 2024-05-07T19:24:54.522691+00:00
+
+ ## Inclusive Excellence Initiatives –  | Kalamazoo College
+ - [https://inclusiveexcellence.kzoo.edu](https://inclusiveexcellence.kzoo.edu)
+ - date_published: 2024-05-07T19:20:34.033986+00:00
+
+ ## The Index – The Student Newspaper of Kalamazoo College
+ - [https://index.kzoo.edu](https://index.kzoo.edu)
+ - date_published: 2024-05-07T19:24:38.235925+00:00
+
+ ## Intercultural Student Life –  | Kalamazoo College
+ - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
+ - date_published: 2024-05-07T19:23:37.547180+00:00
+
+ ## Intramural Sports –  | Kalamazoo College
+ - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Institutional Review Board –  | Kalamazoo College
+ - [https://irb.kzoo.edu](https://irb.kzoo.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Institutional Research –  | Kalamazoo College
+ - [https://ir.kzoo.edu](https://ir.kzoo.edu)
+ - date_published: 2024-05-07T19:21:41.665156+00:00
+
+ ## Information Services –  | Kalamazoo College
+ - [https://is.kzoo.edu](https://is.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Jewish Studies –  | Kalamazoo College
+ - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:18.804746+00:00
+
+ ## Kalamazoo College – Kalamazoo College
+ - [https://kzoo.edu](https://kzoo.edu)
+ - date_published: 2024-05-07T19:20:36.564844+00:00
+
+ ## Land Acknowledgment –  | Kalamazoo College
+ - [https://land.kzoo.edu](https://land.kzoo.edu)
+ - date_published: 2024-07-01T12:48:16.711916+00:00
+
+ ## LandSea –  | Kalamazoo College
+ - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Learning Commons –  | Kalamazoo College
+ - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
+ - date_published: 2024-05-07T19:23:22.437613+00:00
+
+ ## Learning Support –  | Kalamazoo College
+ - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
+ - date_published: 2024-05-07T19:22:12.610474+00:00
+
+ ## Resources for LGBTQAI+ Students –  | Kalamazoo College
+ - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
+ - date_published: 2024-05-07T19:22:31.049956+00:00
+
+ ## Library –  | Kalamazoo College
+ - [https://library.kzoo.edu](https://library.kzoo.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Mail and Copy Center –  | Kalamazoo College
+ - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
+ - date_published: 2024-05-07T19:24:15.465235+00:00
+
+ ## Math Department –  | Kalamazoo College
+ - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
+ - date_published: 2024-05-07T19:21:21.736782+00:00
+
+ ## Kalamazoo College Moodle
+ - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
+ - date_published: 2024-05-07T19:21:27.963153+00:00
+
+ ## Math/Physics Center –  | Kalamazoo College
+ - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
+ - date_published: 2024-05-07T19:23:24.951429+00:00
+
+ ## Music Department –  | Kalamazoo College
+ - [https://music.kzoo.edu](https://music.kzoo.edu)
+ - date_published: 2024-05-07T19:22:22.689215+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.kzoo.edu](https://mychart.kzoo.edu)
+ - date_published: 2024-07-01T12:56:47.079707+00:00
+
  ## Office of Religious and Spiritual Life –  | Kalamazoo College
  - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
  - date_published: 2024-05-07T19:25:12.361773+00:00
@@ -3840,168 +4004,4 @@
  ## Home Realm Discovery
  - [https://adfs.musc.edu](https://adfs.musc.edu)
  - date_published: 2024-07-13T12:08:51.033522+00:00
-
- ## Then. Now. Next. Celebrating the Bicentennial of the Medical University of South Carolina
- - [https://bicentennial.musc.edu](https://bicentennial.musc.edu)
- - date_published: 2024-07-13T12:10:11.625773+00:00
-
- ## College of Health Professions
- - [https://chp.musc.edu](https://chp.musc.edu)
- - date_published: 2024-05-11T07:19:48.619505+00:00
-
- ## MUSC LIBRARIES
- - [https://colbert.library.musc.edu](https://colbert.library.musc.edu)
- - date_published: 2024-07-13T12:09:21.093704+00:00
-
- ## Home - Medical University of South Carolina
- - [https://connect2.musc.edu](https://connect2.musc.edu)
- - date_published: 2024-07-13T11:58:22.376648+00:00
-
- ## Data Coordination Unit at Medical University of South Carolina
- - [https://dcu.musc.edu](https://dcu.musc.edu)
- - date_published: 2024-07-13T11:58:18.792117+00:00
-
- ## The James B. Edwards College of Dental Medicine
- - [https://dentistry.musc.edu](https://dentistry.musc.edu)
- - date_published: 2024-05-11T07:20:06.455606+00:00
-
- ## Education at MUSC
- - [https://education.musc.edu](https://education.musc.edu)
- - date_published: 2024-05-11T07:19:45.735976+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezproxy.musc.edu](https://ezproxy.musc.edu)
- - date_published: 2024-07-13T12:09:33.692928+00:00
-
- ## You Can Change What's Possible
- - [https://fundraise.musc.edu](https://fundraise.musc.edu)
- - date_published: 2024-07-13T11:57:54.549962+00:00
-
- ## You Can Change What's Possible
- - [https://giving.musc.edu](https://giving.musc.edu)
- - date_published: 2024-05-11T07:19:55.548907+00:00
-
- ## College of Graduate Studies
- - [https://gradstudies.musc.edu](https://gradstudies.musc.edu)
- - date_published: 2024-05-11T07:20:19.418887+00:00
-
- ## MUSC Hollings Cancer Center
- - [https://hollingscancercenter.musc.edu](https://hollingscancercenter.musc.edu)
- - date_published: 2024-05-11T07:20:15.446722+00:00
-
- ## Sign In
- - [https://horseshoe.musc.edu](https://horseshoe.musc.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [http://illiad.library.musc.edu](http://illiad.library.musc.edu)
- - date_published: 2024-07-13T12:09:02.625674+00:00
-
- ## Current Job Openings - MUSC Library
- - [https://jobs.library.musc.edu](https://jobs.library.musc.edu)
- - date_published: 2024-07-13T12:09:06.054972+00:00
-
- ## MUSC LIBRARIES
- - [https://library.musc.edu](https://library.musc.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Sign In
- - [http://life.musc.edu](http://life.musc.edu)
- - date_published: 2024-07-13T12:07:46.442351+00:00
-
- ## Sign In
- - [https://lifenet.musc.edu](https://lifenet.musc.edu)
- - date_published: 2024-07-13T12:08:03.048001+00:00
-
- ## Sign In
- - [https://lifeprod.musc.edu](https://lifeprod.musc.edu)
- - date_published: 2024-07-13T12:09:01.212346+00:00
-
- ## Redirecting...
- - [http://mail.musc.edu](http://mail.musc.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## The College of Medicine at MUSC
- - [https://medicine.musc.edu](https://medicine.musc.edu)
- - date_published: 2024-05-11T07:19:36.154751+00:00
-
- ## Welcome to the Medical University of South Carolina
- - [http://musc.edu](http://musc.edu)
- - date_published: 2018-12-11T02:45:50+00:00
-
- ## MyChart - Login Page
- - [https://mychart.musc.edu](https://mychart.musc.edu)
- - date_published: 2024-05-11T07:20:03.984490+00:00
-
- ## Sign In
- - [http://myrecords.musc.edu](http://myrecords.musc.edu)
- - date_published: 2024-07-13T12:09:05.007350+00:00
-
- ## MUSC NetID - Home
- - [https://netid.musc.edu](https://netid.musc.edu)
- - date_published: 2024-07-13T12:09:16.798887+00:00
-
- ## College of Nursing
- - [https://nursing.musc.edu](https://nursing.musc.edu)
- - date_published: 2024-05-11T07:20:08.754055+00:00
-
- ## College of Pharmacy
- - [https://pharmacy.musc.edu](https://pharmacy.musc.edu)
- - date_published: 2024-05-11T07:20:17.642865+00:00
-
- ## Home Organization Selection
- - [https://redcap.musc.edu](https://redcap.musc.edu)
- - date_published: 2024-07-13T11:58:25.011762+00:00
-
- ## Hollings Profiles
- - [https://researchers.hcc.musc.edu](https://researchers.hcc.musc.edu)
- - date_published: 2024-07-03T11:49:09+00:00
-
- ## Research at MUSC
- - [https://research.musc.edu](https://research.musc.edu)
- - date_published: 2024-05-11T07:19:51.332423+00:00
-
- ## Sign In
- - [http://valueinstitute.musc.edu](http://valueinstitute.musc.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Welcome - MUSC
- - [https://virtualtour.musc.edu](https://virtualtour.musc.edu)
- - date_published: 2024-07-13T12:07:54.174906+00:00
-
- ## The Waring Historical Library
- - [https://waring.library.musc.edu](https://waring.library.musc.edu)
- - date_published: 2024-07-13T12:09:24.365673+00:00
-
- ## Weather @ MUSC Library
- - [https://weather.library.musc.edu](https://weather.library.musc.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## NetScaler AAA
- - [https://webapps.musc.edu](https://webapps.musc.edu)
- - date_published: 2024-06-10T03:00:02+00:00
-
- ## The Medical University of South Carolina
- - [https://web.musc.edu](https://web.musc.edu)
- - date_published: 2024-03-15T18:22:29.962237+00:00
-
- ## Singapore Management University: Personal Homepages
- - [http://www.mysmu.edu](http://www.mysmu.edu)
- - date_published: 2013-08-26T11:55:29+00:00
-
- ## Home
- - [https://nae.edu](https://nae.edu)
- - date_published: 2024-05-07T20:25:17.386625+00:00
-
- ## Home - National Academy of Medicine
- - [https://nam.edu](https://nam.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## The National Academies Press
- - [https://nap.edu](https://nap.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Notes From NAP - Spotlighting the Books and Reports on Science, Engineering and Medicine from the National Academies Press
- - [https://notes.nap.edu](https://notes.nap.edu)
- - date_published: 2024-05-08T10:36:17.335183+00:00
 

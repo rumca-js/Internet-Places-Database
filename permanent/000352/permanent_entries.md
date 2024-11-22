@@ -1,3 +1,212 @@
+ ## Forside
+ - [https://www.naturfagsenteret.no](https://www.naturfagsenteret.no)
+ - date_published: 2024-06-22T08:46:36.775194+00:00
+
+ ## AI-lab – Innovations on AI in Libraries
+ - [https://ai.nb.no](https://ai.nb.no)
+ - date_published: 2024-07-15T04:22:54.633280+00:00
+
+ ## Det flerspråklige bibliot
+ - [https://dfb.nb.no](https://dfb.nb.no)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Nasjonalbiblioteket
+ - [https://nb.no](https://nb.no)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Spør Nasjonalbiblioteket - Spør Nasjonalbiblioteket
+ - [https://sporbiblioteket.nb.no](https://sporbiblioteket.nb.no)
+ - date_published: 2024-07-15T04:23:01.952552+00:00
+
+ ## The fund | Norges Bank Investment Management
+ - [https://nbim.no](https://nbim.no)
+ - date_published: 2024-05-12T04:25:29.971878+00:00
+
+ ## Home page
+ - [http://www.nestle.no](http://www.nestle.no)
+ - date_published: 2024-09-14T18:28:42+00:00
+
+ ## Home 2024
+ - [https://netthandelsgruppen.no](https://netthandelsgruppen.no)
+ - date_published: 2024-07-14T10:07:00.349578+00:00
+
+ ## Forside - Nettvett.no
+ - [https://nettvett.no](https://nettvett.no)
+ - date_published: 2019-05-06T00:00:00+00:00
+
+ ## Home - Norway's News in English — www.newsinenglish.no
+ - [https://newsinenglish.no](https://newsinenglish.no)
+ - date_published: 2024-03-18T00:00:00+00:00
+ - tags: ['norway news']
+
+ ## Forsiden for Norges geologiske undersøkelse (NGU) | NGU
+ - [http://www.ngu.no](http://www.ngu.no)
+ - date_published: 2024-06-23T22:10:25+00:00
+
+ ## Norsk helsenett
+ - [https://www.nhn.no](https://www.nhn.no)
+ - date_published: 2024-08-17T23:51:09.310731+00:00
+
+ ## Nibio - Nibio
+ - [https://nibio.no](https://nibio.no)
+ - date_published: 2024-06-24T04:53:29.769882+00:00
+
+ ## Nickelodeon Norway
+ - [https://www.nickelodeon.no](https://www.nickelodeon.no)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## NILU
+ - [https://nilu.no](https://nilu.no)
+ - date_published: 2024-06-24T04:53:35.238367+00:00
+
+ ## Norsk institutt for naturforskning
+ - [https://nina.no](https://nina.no)
+ - date_published: 2024-06-24T04:53:57.982173+00:00
+
+ ## Akvaplan-niva
+ - [http://www.akvaplan.niva.no](http://www.akvaplan.niva.no)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Norsk institutt for vannforskning
+ - [https://www.niva.no](https://www.niva.no)
+ - date_published: 2024-06-24T04:53:36.887538+00:00
+
+ ## Tibi
+ - [https://www.nlb.no](https://www.nlb.no)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## NNUG - Norwegian .NET User Group
+ - [https://www.nnug.no](https://www.nnug.no)
+ - date_published: 2024-08-17T23:51:07.806931+00:00
+
+ ## Nofima - vi forsker på mat
+ - [https://nofima.no](https://nofima.no)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Forside - NOPA
+ - [https://nopa.no](https://nopa.no)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## NORAC - a leading manufacturer and supplier of marine interior systems
+ - [http://www.norac.no](http://www.norac.no)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Forskningsinstituttet NORCE - Norce
+ - [https://www.norceresearch.no](https://www.norceresearch.no)
+ - date_published: 2024-06-21T06:22:42+00:00
+
+ ## Nord universitet
+ - [http://www.nord.no](http://www.nord.no)
+ - date_published: 2024-07-22T07:33:51+00:00
+
+ ## Søk om lån til kjøretøy - Nordea
+ - [https://billan.nordea.no](https://billan.nordea.no)
+ - date_published: 2024-09-11T09:14:05+00:00
+
+ ## Nordea
+ - [https://corporate.nordea.no](https://corporate.nordea.no)
+ - date_published: 2024-06-28T08:27:28+00:00
+
+ ## Digital Login
+ - [https://digital.nordea.no](https://digital.nordea.no)
+ - date_published: 2024-10-07T09:46:03+00:00
+
+ ## Nordea Investor
+ - [https://investor.nordea.no](https://investor.nordea.no)
+ - date_published: 2024-10-07T18:27:19.236786+00:00
+
+ ## Siden du ser etter finnes ikke
+ - [https://liv.nordea.no](https://liv.nordea.no)
+ - date_published: 2024-10-07T18:27:16.180645+00:00
+
+ ## Nordea
+ - [https://netbank.nordea.no](https://netbank.nordea.no)
+ - date_published: 2024-06-28T08:29:16+00:00
+
+ ## Velkommen til Nordea - bank for privat- og bedriftskunder
+ - [https://nordea.no](https://nordea.no)
+ - date_published: 2024-10-07T18:26:33.709771+00:00
+
+ ## Velkommen til Nordea Liv - pensjonssparing for bedrifter og privatpersoner
+ - [http://www.nordealiv.no](http://www.nordealiv.no)
+ - date_published: 2024-10-07T18:27:17.131504+00:00
+
+ ## Nordnetbloggen – En blogg om sparing, investering og finans
+ - [https://blogg.nordnet.no](https://blogg.nordnet.no)
+ - date_published: 2017-05-08T14:54:35+00:00
+
+ ## Ta sparingen din til neste nivå
+ - [https://nordnet.no](https://nordnet.no)
+ - date_published: 2024-10-07T21:17:02.864716+00:00
+
+ ## Gjenopplev Medieleder 2024 her
+ - [https://nored.no](https://nored.no)
+ - date_published: 2024-07-15T04:24:06.694776+00:00
+
+ ## Forside - data.norge.no
+ - [https://data.norge.no](https://data.norge.no)
+ - date_published: 2024-09-29T20:06:54.920851+00:00
+
+ ## Norge i Bilder
+ - [https://norgeibilder.no](https://norgeibilder.no)
+ - date_published: 2024-02-08T16:47:28.312626+00:00
+
+ ## Forside
+ - [http://norges-bank.no](http://norges-bank.no)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Norkart - Norges komplette datavarehus for geografisk informasjon
+ - [https://www.norkart.no](https://www.norkart.no)
+ - date_published: 2024-08-17T23:01:58+00:00
+
+ ## Norli Bokhandel
+ - [https://www.norli.no](https://www.norli.no)
+ - date_published: 2024-07-11T10:48:46.063825+00:00
+
+ ## NORSAR - NORSAR.no
+ - [https://www.norsar.no](https://www.norsar.no)
+ - date_published: 2024-08-17T22:01:20+00:00
+
+ ## Sjekk hvor mye du har i forbruksgjeld
+ - [https://www.norskgjeld.no](https://www.norskgjeld.no)
+ - date_published: 2024-07-07T03:48:27.837502+00:00
+
+ ## The Norway Portal - Norwegian Ministry of Foreign Affairs
+ - [https://www.norway.no](https://www.norway.no)
+ - date_published: 2024-07-14T05:35:55+00:00
+
+ ## Norway Chess - Frontpage
+ - [https://norwaychess.no](https://norwaychess.no)
+ - date_published: 2024-06-20T01:57:52+00:00
+
+ ## Home - Notam
+ - [https://notam.no](https://notam.no)
+ - date_published: 2024-08-18T09:47:58.808444+00:00
+
+ ## Nova Consulting Group | Excellence made Easy
+ - [https://www.novaconsultinggroup.no](https://www.novaconsultinggroup.no)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Novanet AS
+ - [https://novanet.no](https://novanet.no)
+ - date_published: 2024-08-17T23:49:16.769620+00:00
+
+ ## Faktasider - Sokkeldirektoratet
+ - [http://factpages.npd.no](http://factpages.npd.no)
+ - date_published: 2024-09-16T21:21:21.269478+00:00
+
+ ## Home Flexbox - Polar Bear Specialist Group
+ - [https://pbsg.npolar.no](https://pbsg.npolar.no)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Norsk Polarinstitutt
+ - [http://www.npolar.no](http://www.npolar.no)
+ - date_published: 2024-06-24T04:53:53.982998+00:00
+
+ ## NRC
+ - [https://www.nrc.no](https://www.nrc.no)
+ - date_published: 2024-08-18T21:35:11.631836+00:00
+
  ## Hjelp og informasjon – Hjelp og informasjon
  - [https://info.nrk.no](https://info.nrk.no)
  - date_published: 2024-08-03T02:23:06.992326+00:00
@@ -3828,213 +4037,4 @@ marginalia.nu
  ## MARLE - Official Online Store
  - [http://www.marle.co.nz](http://www.marle.co.nz)
  - date_published: 2024-09-17T01:35:16.226417+00:00
-
- ## Official Website| Maserati NZ
- - [http://www.maserati.co.nz](http://www.maserati.co.nz)
- - date_published: 2024-07-12T05:18:40+00:00
-
- ## MEGA
- - [https://mega.co.nz](https://mega.co.nz)
- - date_published: 2024-09-15T08:50:35.766108+00:00
-
- ## MenuAid
- - [https://app.menuaid.co.nz](https://app.menuaid.co.nz)
- - date_published: 2024-08-11T20:21:45.773895+00:00
-
- ## Home
- - [https://menuaid.co.nz](https://menuaid.co.nz)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## MetOcean Solutions
- - [https://www.metocean.co.nz](https://www.metocean.co.nz)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## MightyApe.co.nz | Buy Games, Books, Toys, Furniture & more | Next Day Delivery
- - [https://www.mightyape.co.nz](https://www.mightyape.co.nz)
- - date_published: 2024-06-17T05:41:24.887272+00:00
-
- ## Mighty Ape Travel: Book Hotels & Resorts Worldwide | NZ's…
- - [https://www.mightyapetravel.co.nz](https://www.mightyapetravel.co.nz)
- - date_published: 2024-10-17T06:58:04.388675+00:00
-
- ## Mighty Mobile - NZ's Mightiest Prepay Plans
- - [https://www.mightymobile.co.nz](https://www.mightymobile.co.nz)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## Fuels, Motor Oils, Fuel Cards & More | Mobil New Zealand
- - [https://www.mobil.co.nz](https://www.mobil.co.nz)
- - date_published: 2024-07-17T16:36:53.011343+00:00
-
- ## MOCA | Innovative Digital Solutions for Websites and Software
- - [https://moca.co.nz](https://moca.co.nz)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Monkey 2 – Create cross-platform apps and games in 2D+3D
- - [http://www.monkeycoder.co.nz](http://www.monkeycoder.co.nz)
- - date_published: 2024-09-02T15:57:57.541287+00:00
-
- ## A creative agency based in Aotearoa.
- - [https://motionsickness.co.nz](https://motionsickness.co.nz)
- - date_published: 2024-08-12T04:45:32.403456+00:00
-
- ## Mudstuck.co.nz - Wake Up Anywhere 4x4 Gear
- - [https://www.mudstuck.co.nz](https://www.mudstuck.co.nz)
- - date_published: 2024-08-18T07:16:24.757751+00:00
-
- ## Music of Sound – obsessed with vibrating air molecules
- - [http://www.musicofsound.co.nz](http://www.musicofsound.co.nz)
- - date_published: 2024-06-30T07:52:57.944741+00:00
-
- ## MyMansion.co.nz: Houses for Sale in New Zealand
- - [https://mymansion.co.nz](https://mymansion.co.nz)
- - date_published: 2017-01-31T21:38:11+00:00
-
- ## Neighbourhood Support New Zealand | Not-For-Profit
- - [https://neighbourhoodsupport.co.nz](https://neighbourhoodsupport.co.nz)
- - date_published: 2024-10-28T11:54:47.146885+00:00
-
- ## Home
- - [http://www.nestle.co.nz](http://www.nestle.co.nz)
- - date_published: 2024-09-14T19:28:52+00:00
-
- ## Home
- - [https://www.newshub.co.nz](https://www.newshub.co.nz)
- - date_published: 2024-05-02T21:55:22.340355+00:00
-
- ## Homepage
- - [https://newsroom.co.nz](https://newsroom.co.nz)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Newstalk ZB
- - [http://www.newstalkzb.co.nz](http://www.newstalkzb.co.nz)
- - date_published: 2024-09-03T22:13:49.828689+00:00
-
- ## New Talisman Gold Home Page
- - [http://www.newtalismangoldmines.co.nz](http://www.newtalismangoldmines.co.nz)
- - date_published: 2011-04-01T04:57:09+00:00
-
- ## Niche Software - Niche Software
- - [https://nichesoftware.co.nz](https://nichesoftware.co.nz)
- - date_published: 2023-10-25T20:49:26.344940+00:00
-
- ## Noel Leeming - Technology and Appliances Store in NZ
- - [https://www.noelleeming.co.nz](https://www.noelleeming.co.nz)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Northport offers deep-water access to the world | Northport
- - [https://northport.co.nz](https://northport.co.nz)
- - date_published: 2024-08-07T11:52:48.152429+00:00
-
- ## Homepage | Now to Love - New Zealand
- - [https://www.nowtolove.co.nz](https://www.nowtolove.co.nz)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## nzflatmates
- - [https://www.nzflatmates.co.nz](https://www.nzflatmates.co.nz)
- - date_published: 2024-10-17T06:57:57.165461+00:00
-
- ## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
- - [https://nzherald.co.nz](https://nzherald.co.nz)
- - date_published: 2023-10-25T20:50:14.328097+00:00
-
- ## NZME - Subscriber Services
- - [https://subscriptions.nzherald.co.nz](https://subscriptions.nzherald.co.nz)
- - date_published: 2024-08-18T21:19:19.806073+00:00
-
- ## NZ Herald: Breaking & Latest New Zealand News - NZ Herald
- - [http://www2.nzherald.co.nz](http://www2.nzherald.co.nz)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## @ - CMS LOGIN
- - [https://zen.nzherald.co.nz](https://zen.nzherald.co.nz)
- - date_published: 2024-08-18T21:19:58.935221+00:00
-
- ## Homepage | NZ Maths
- - [https://nzmaths.co.nz](https://nzmaths.co.nz)
- - date_published: 2024-06-14T05:25:36+00:00
-
- ## NZME. - Advertise with New Zealand's Leading Media Brands - NZME.
- - [https://advertising.nzme.co.nz](https://advertising.nzme.co.nz)
- - date_published: 2024-08-18T21:19:38.157461+00:00
-
- ## Home - NZME
- - [https://careers.nzme.co.nz](https://careers.nzme.co.nz)
- - date_published: 2024-08-18T21:19:52.201554+00:00
-
- ## NZME. - Home
- - [https://www.nzme.co.nz](https://www.nzme.co.nz)
- - date_published: 2024-08-18T21:20:02.832038+00:00
-
- ## New Zealand Podcasts – The Most Popular New Zealand Podcasts Right Now
- - [https://nzpod.co.nz](https://nzpod.co.nz)
- - date_published: 2024-09-07T23:38:21.587358+00:00
-
- ## New Zealand Rugby Official Photography Library
- - [https://images.nzrugby.co.nz](https://images.nzrugby.co.nz)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage | NZ Woman's Weekly Food
- - [https://www.nzwomansweeklyfood.co.nz](https://www.nzwomansweeklyfood.co.nz)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## oatthegoat.co.nz
- - [http://oatthegoat.co.nz](http://oatthegoat.co.nz)
- - date_published: 2024-08-06T20:07:53.997641+00:00
-
- ## Seagliders - The Future of Travel | Ocean Flyer
- - [https://oceanflyer.co.nz](https://oceanflyer.co.nz)
- - date_published: 2024-04-28T04:27:30.030949+00:00
-
- ## Otago Daily Times Online News
- - [https://www.odt.co.nz](https://www.odt.co.nz)
- - date_published: 2024-07-04T13:15:08+00:00
-
- ## One Answer
- - [https://portal.oneanswer.co.nz](https://portal.oneanswer.co.nz)
- - date_published: 2024-09-28T20:49:03.532063+00:00
-
- ## Find Real Estate for Sale on OneRoof NZ
- - [https://www.oneroof.co.nz](https://www.oneroof.co.nz)
- - date_published: 2024-08-18T21:19:55.739152+00:00
-
- ## Online Betting NZ - Best Sports Betting Sites in New Zealand 2024
- - [https://onlinebettingnz.co.nz](https://onlinebettingnz.co.nz)
- - date_published: 2024-07-08T08:33:00.199209+00:00
-
- ## Online Casino real money NZ ( 2024 ) - Best online slots real money
- - [https://onlinecasinosrealmoneynz.co.nz](https://onlinecasinosrealmoneynz.co.nz)
- - date_published: 2024-07-17T12:56:40.316126+00:00
-
- ## Online Pokies NZ 2024 - Best Online Pokies in New Zealand
- - [https://onlinepokiesnz.co.nz](https://onlinepokiesnz.co.nz)
- - date_published: 2024-07-05T09:12:47+00:00
-
- ## Opel NZ | German Cars & SUVs | Bold & Pure
- - [https://www.opel.co.nz](https://www.opel.co.nz)
- - date_published: 2024-07-09T14:00:20+00:00
-
- ## Open to Grow
- - [https://opentogrow.co.nz](https://opentogrow.co.nz)
- - date_published: 2024-01-01T03:40:17.027386+00:00
- - tags: ['personal']
-
- ## Optimi
- - [https://www.optimi.co.nz](https://www.optimi.co.nz)
- - date_published: 2024-07-15T11:09:47.144280+00:00
-
- ## Cafe Modern Menu | OscarandOtto | Tauranga Restaurant
- - [http://www.oscarandotto.co.nz](http://www.oscarandotto.co.nz)
- - date_published: 2024-09-18T19:01:08.356258+00:00
-
- ## Palfinger Cranes NZ | Palfinger NZ
- - [https://palfinger.co.nz](https://palfinger.co.nz)
- - date_published: 2024-09-18T18:40:41+00:00
-
- ## Home - MakeThis
- - [https://palmerdesign.co.nz](https://palmerdesign.co.nz)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Patagonia Outdoor Clothing & Gear | New Zealand
- - [https://patagonia.co.nz](https://patagonia.co.nz)
- - date_published: 2024-05-06T22:33:20.850561+00:00
 

@@ -1,3 +1,167 @@
+ ## UCLA
+ - [https://ucla.edu](https://ucla.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Archaeological Centers Coalition
+ - [https://uee.cdh.ucla.edu](https://uee.cdh.ucla.edu)
+ - date_published: 2024-07-09T18:44:50.810773+00:00
+
+ ## UCLA Vision Lab
+ - [http://vision.ucla.edu](http://vision.ucla.edu)
+ - date_published: 2024-01-09T08:07:39+00:00
+
+ ## We're Here to Serve | Volunteer Center
+ - [https://volunteer.ucla.edu](https://volunteer.ucla.edu)
+ - date_published: 2024-07-01T22:17:29+00:00
+
+ ## UCLA Computer Science
+ - [http://web.cs.ucla.edu](http://web.cs.ucla.edu)
+ - date_published: 2017-03-29T23:40:19+00:00
+
+ ## Home
+ - [https://williamsinstitute.law.ucla.edu](https://williamsinstitute.law.ucla.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Life Sciences WordPress Template – Based on UCLA Starter Theme
+ - [https://wp-misc.lifesci.ucla.edu](https://wp-misc.lifesci.ucla.edu)
+ - date_published: 2024-07-01T23:07:40.944325+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
+ - date_published: 2023-10-25T19:00:46.288421+00:00
+
+ ## UCLA Anderson Home
+ - [https://www.anderson.ucla.edu](https://www.anderson.ucla.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## UCLA Division of Astronomy & Astrophysics
+ - [http://www.astro.ucla.edu](http://www.astro.ucla.edu)
+ - date_published: 2024-07-22T07:04:06.347077+00:00
+
+ ## Atmospheric and Oceanic Sciences | AOS
+ - [http://www.atmos.ucla.edu](http://www.atmos.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## BE | Bioengineering
+ - [https://www.bioeng.ucla.edu](https://www.bioeng.ucla.edu)
+ - date_published: 2024-06-30T05:33:59+00:00
+
+ ## Biological Chemistry Department
+ - [http://www.biolchem.ucla.edu](http://www.biolchem.ucla.edu)
+ - date_published: 2024-10-19T04:52:31.756069+00:00
+
+ ## UCLA Film & Television Archive
+ - [https://www.cinema.ucla.edu](https://www.cinema.ucla.edu)
+ - date_published: 2024-07-01T22:51:29+00:00
+
+ ## Home - Clark Library
+ - [http://www.clarklibrary.ucla.edu](http://www.clarklibrary.ucla.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Counseling & Psychological Services | Counseling and Psychological Services
+ - [https://www.counseling.ucla.edu](https://www.counseling.ucla.edu)
+ - date_published: 2024-06-27T15:11:34+00:00
+
+ ## CS | Computer Science
+ - [https://www.cs.ucla.edu](https://www.cs.ucla.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home
+ - [http://www.environment.ucla.edu](http://www.environment.ucla.edu)
+ - date_published: 2024-07-08T12:05:02.595610+00:00
+
+ ## .::. UCLA Global .::.
+ - [https://www.global.ucla.edu](https://www.global.ucla.edu)
+ - date_published: 2024-07-01T22:56:06+00:00
+
+ ## UCLA | Honors Programs | University of California, Los Angeles
+ - [http://www.honors.ucla.edu](http://www.honors.ucla.edu)
+ - date_published: 2024-07-01T23:02:22.845039+00:00
+
+ ## Institute of the Environment and Sustainability at UCLA
+ - [https://www.ioes.ucla.edu](https://www.ioes.ucla.edu)
+ - date_published: 2024-08-22T22:12:46.119028+00:00
+
+ ## Home - IPAM
+ - [http://www.ipam.ucla.edu](http://www.ipam.ucla.edu)
+ - date_published: 2013-12-07T10:17:26+00:00
+
+ ## UCLA Labor Center
+ - [https://www.labor.ucla.edu](https://www.labor.ucla.edu)
+ - date_published: 2024-07-01T23:06:04.685386+00:00
+
+ ## UCLA Library
+ - [https://www.library.ucla.edu](https://www.library.ucla.edu)
+ - date_published: 2024-10-29T09:13:44.538331+00:00
+
+ ## Home - Department of Linguistics - UCLA
+ - [http://www.linguistics.ucla.edu](http://www.linguistics.ucla.edu)
+ - date_published: 2024-07-02T09:18:05.787206+00:00
+
+ ## Home - UCLA Mathematics
+ - [http://www.math.ucla.edu](http://www.math.ucla.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home | Office of Emergency Management
+ - [https://www.oem.ucla.edu](https://www.oem.ucla.edu)
+ - date_published: 2024-07-01T22:46:35+00:00
+
+ ## CD to accompany Vowels and Consonants
+ - [http://www.phonetics.ucla.edu](http://www.phonetics.ucla.edu)
+ - date_published: 2020-09-11T17:43:27+00:00
+
+ ## Welcome to UCLA Recreation | Recreation
+ - [https://www.recreation.ucla.edu](https://www.recreation.ucla.edu)
+ - date_published: 2024-07-01T20:12:47+00:00
+
+ ## Home - Royce Reading Room - UCLA
+ - [http://www.roycereadingroom.ucla.edu](http://www.roycereadingroom.ucla.edu)
+ - date_published: 2024-06-29T10:15:59.504404+00:00
+
+ ## OASA | Office of Academic and Student Affairs
+ - [http://www.seasoasa.ucla.edu](http://www.seasoasa.ucla.edu)
+ - date_published: 2024-08-11T03:41:53.520949+00:00
+
+ ## Home | Academic Senate
+ - [https://www.senate.ucla.edu](https://www.senate.ucla.edu)
+ - date_published: 2024-07-01T22:45:15+00:00
+
+ ## Social Sciences
+ - [http://www.sscnet.ucla.edu](http://www.sscnet.ucla.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - UCLA Statistics
+ - [http://www.stat.ucla.edu](http://www.stat.ucla.edu)
+ - date_published: 2019-03-19T11:37:06+00:00
+
+ ## UCLA Student Affairs
+ - [https://www.studentaffairs.ucla.edu](https://www.studentaffairs.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Shine Inside and Out: Student Health at UCLA | Arthur Ashe Student
+ - [https://www.studenthealth.ucla.edu](https://www.studenthealth.ucla.edu)
+ - date_published: 2024-07-01T17:41:58+00:00
+
+ ## UCLA Sustainability | Sustainability at UCLA brings together a community of students, faculty, and staff
+ - [https://www.sustain.ucla.edu](https://www.sustain.ucla.edu)
+ - date_published: 2024-07-01T23:03:02.629818+00:00
+
+ ## HOME - xLAB
+ - [https://xlab.aud.ucla.edu](https://xlab.aud.ucla.edu)
+ - date_published: 2024-07-12T18:09:42.098373+00:00
+
+ ## Zocchi Laboratory
+ - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
+ - date_published: 2024-02-08T21:48:42.972695+00:00
+
+ ## UCLA Extension Career Center
+ - [https://careers.uclaextension.edu](https://careers.uclaextension.edu)
+ - date_published: 2024-06-29T01:45:00.284389+00:00
+
+ ## Log In to Canvas
+ - [https://my.uclaextension.edu](https://my.uclaextension.edu)
+ - date_published: 2023-09-20T00:00:00+00:00
+
  ## Newsroom
  - [https://newsroom.uclaextension.edu](https://newsroom.uclaextension.edu)
  - date_published: 2024-07-01T23:05:32.296367+00:00
@@ -3839,168 +4003,4 @@
  ## Industry Documents Library
  - [https://www.industrydocuments.ucsf.edu](https://www.industrydocuments.ucsf.edu)
  - date_published: 2024-06-30T02:47:42.092119+00:00
-
- ## RBVI Home Page
- - [https://www.rbvi.ucsf.edu](https://www.rbvi.ucsf.edu)
- - date_published: 2019-03-08T00:26:55+00:00
-
- ## Home
- - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
- - date_published: 2024-02-08T17:58:04.593788+00:00
-
- ## Home
- - [https://ucumberlands.edu](https://ucumberlands.edu)
- - date_published: 2024-05-07T21:10:08.991388+00:00
-
- ## Events Calendar
- - [https://calendar.udallas.edu](https://calendar.udallas.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## U of Dallas | Continuing Ed
- - [https://continuinged.udallas.edu](https://continuinged.udallas.edu)
- - date_published: 2024-09-18T08:32:21.717071+00:00
-
- ## University of Dallas News - American Council of Trustees and Alumni
- - [https://news.udallas.edu](https://news.udallas.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Tower Magazine | University of Dallas
- - [https://tower.udallas.edu](https://tower.udallas.edu)
- - date_published: 2024-09-18T07:15:18+00:00
-
- ## University of Dallas - The Catholic University for Independent Thinkers
- - [https://udallas.edu](https://udallas.edu)
- - date_published: 2024-05-01T03:33:02.211564+00:00
-
- ## Office of Development and University Relations
- - [https://udrelations.udallas.edu](https://udrelations.udallas.edu)
- - date_published: 2024-09-18T08:32:47.945319+00:00
-
- ## Index Page - EECIS Accounts System
- - [https://accounts.eecis.udel.edu](https://accounts.eecis.udel.edu)
- - date_published: 2024-09-02T10:41:12.174055+00:00
-
- ## Home - Advising Central
- - [https://advising.udel.edu](https://advising.udel.edu)
- - date_published: 2024-05-07T21:10:50.020124+00:00
-
- ## Ask the Library - Ask the Library
- - [https://ask.lib.udel.edu](https://ask.lib.udel.edu)
- - date_published: 2024-07-02T02:03:48.243088+00:00
-
- ## College of Agriculture & Natural Resources | University of Delaware
- - [http://canr.udel.edu](http://canr.udel.edu)
- - date_published: 2024-07-01T22:57:57+00:00
-
- ## University of Delaware
- - [https://cas.nss.udel.edu](https://cas.nss.udel.edu)
- - date_published: 2018-01-11T20:27:17+00:00
-
- ## DSpace Repository :: Home
- - [http://dspace.udel.edu](http://dspace.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Events Calendar - University of Delaware
- - [https://events.udel.edu](https://events.udel.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Library, Museums and Press – Online Exhibitions
- - [https://exhibitions.lib.udel.edu](https://exhibitions.lib.udel.edu)
- - date_published: 2024-07-02T02:04:14.498023+00:00
-
- ## Faculty Handbook | Faculty Senate
- - [https://facultyhandbook.udel.edu](https://facultyhandbook.udel.edu)
- - date_published: 2024-07-02T01:52:44+00:00
-
- ## Finding Aids for Archival Collections | Finding Aids for Archival Collections
- - [https://findingaids.lib.udel.edu](https://findingaids.lib.udel.edu)
- - date_published: 2024-07-02T02:04:23.381436+00:00
-
- ## University of Delaware Graduate College | Graduate College | University of Delaware
- - [https://grad.udel.edu](https://grad.udel.edu)
- - date_published: 2024-05-07T21:10:33.985298+00:00
-
- ## Research Guides
- - [http://guides.lib.udel.edu](http://guides.lib.udel.edu)
- - date_published: 2024-07-02T02:04:05.591529+00:00
-
- ## UD Library, Museums and Press
- - [https://library.udel.edu](https://library.udel.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Lerner College Intranet – University of Delaware
- - [https://my.lerner.udel.edu](https://my.lerner.udel.edu)
- - date_published: 2024-07-02T02:06:02.980467+00:00
-
- ## My UD
- - [https://my.udel.edu](https://my.udel.edu)
- - date_published: 2024-05-07T21:10:20.790392+00:00
-
- ## Online Degree Programs | University of Delaware
- - [https://online.udel.edu](https://online.udel.edu)
- - date_published: 2024-05-07T21:10:28.553956+00:00
-
- ## Home - University of Delaware Div. of Professional and Continuing Studies
- - [https://pcs.udel.edu](https://pcs.udel.edu)
- - date_published: 2024-05-07T21:10:35.232512+00:00
-
- ## University of Delaware Research Office
- - [https://research.udel.edu](https://research.udel.edu)
- - date_published: 2024-05-07T21:10:45.959700+00:00
-
- ## Service Portal Home
- - [https://services.udel.edu](https://services.udel.edu)
- - date_published: 2024-07-02T02:04:45.918512+00:00
-
- ## WordPress at UD |
- - [https://sites.udel.edu](https://sites.udel.edu)
- - date_published: 2024-05-07T21:10:31.254051+00:00
-
- ## ECE/CIS
- - [https://staff.eecis.udel.edu](https://staff.eecis.udel.edu)
- - date_published: 2024-08-16T19:42:00+00:00
-
- ## University of Delaware Central Authentication Service - Login
- - [http://staffweb.lib.udel.edu](http://staffweb.lib.udel.edu)
- - date_published: 2024-07-02T02:03:51.897412+00:00
-
- ## UD Capture | University of Delaware
- - [https://udcapture.udel.edu](https://udcapture.udel.edu)
- - date_published: 2024-07-02T01:47:18+00:00
-
- ## University of Delaware
- - [https://udel.edu](https://udel.edu)
- - date_published: 2023-12-23T17:33:38.138635+00:00
-
- ## UDLib/SEARCH
- - [https://udlibsearch.lib.udel.edu](https://udlibsearch.lib.udel.edu)
- - date_published: 2024-07-02T02:04:03.027418+00:00
-
- ## University of Delaware Press
- - [https://udpress.udel.edu](https://udpress.udel.edu)
- - date_published: 2024-07-02T02:03:49.757729+00:00
-
- ## DSpace Repository :: Home
- - [https://udspace.udel.edu](https://udspace.udel.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## | University Studies
- - [http://ust.udel.edu](http://ust.udel.edu)
- - date_published: 2024-07-02T02:05:58.798849+00:00
-
- ## Writing Center
- - [https://writingcenter.udel.edu](https://writingcenter.udel.edu)
- - date_published: 2024-07-02T02:05:02+00:00
-
- ## University of Delaware
- - [https://www1.udel.edu](https://www1.udel.edu)
- - date_published: 2024-05-07T21:10:24.567419+00:00
-
- ## AAP
- - [https://www.aap.udel.edu](https://www.aap.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Joseph R. Biden, Jr. School of Public Policy & Administration
- - [https://www.bidenschool.udel.edu](https://www.bidenschool.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
 

@@ -1,3 +1,55 @@
+ ## Balkonic.com - Index
+ - [https://balconik.com](https://balconik.com)
+ - date_published: 2024-10-19T08:01:48.312248+00:00
+
+ ## Station de ski Auris en Oisans en Isère - Les Balcons de l'Oisans - Station familiale Domaine des Grandes Rousses
+ - [https://www.balconsdeloisans.com](https://www.balconsdeloisans.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Balcony Inspections & Repair | SB 326 & SB 721 | Balcony1
+ - [https://balcony1.com](https://balcony1.com)
+ - date_published: 2021-11-03T10:21:16+00:00
+
+ ## Home Remodeling Seattle - Bald Eagle Remodeling
+ - [https://baldeagleremodelinginc.com](https://baldeagleremodelinginc.com)
+ - date_published: 2024-06-29T07:26:59+00:00
+
+ ## Bald Engineer
+ - [https://www.baldengineer.com](https://www.baldengineer.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Romey's Ramblings
+ - [https://balderromey.com](https://balderromey.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Europe’s leading venture firm focused exclusively on backing European-founded tech companies
+ - [http://www.balderton.com](http://www.balderton.com)
+ - date_published: 2024-08-18T02:28:18.385858+00:00
+
+ ## บาคาร่า เกมไพ่ที่กำลังมาแรง สร้างรายได้เยอะที่สุด
+ - [https://www.baldingsworld.com](https://www.baldingsworld.com)
+ - date_published: 2024-05-01T05:46:05.775661+00:00
+
+ ## Baldur Bjarnason – Baldur Bjarnason
+ - [https://baldurbjarnason.com](https://baldurbjarnason.com)
+ - date_published: 2023-10-25T12:52:03.128142+00:00
+
+ ## The Intelligence Illusion: a practical guide to the business risks of Generative AI
+ - [https://illusion.baldurbjarnason.com](https://illusion.baldurbjarnason.com)
+ - date_published: 2024-04-30T02:18:24.560000+00:00
+
+ ## Baldur Bjarnason
+ - [https://notes.baldurbjarnason.com](https://notes.baldurbjarnason.com)
+ - date_published: 2024-05-29T15:13:30+00:00
+
+ ## Out of the Software Crisis: Systems-Thinking for Software Projects
+ - [https://softwarecrisis.baldurbjarnason.com](https://softwarecrisis.baldurbjarnason.com)
+ - date_published: 2024-04-30T02:18:25.962625+00:00
+
+ ## Baldur Bjarnason's Store
+ - [https://store.baldurbjarnason.com](https://store.baldurbjarnason.com)
+ - date_published: 2024-07-22T11:51:52.113943+00:00
+
  ## Baldur's Gate
  - [https://baldursgate.com](https://baldursgate.com)
  - date_published: 2024-07-01T12:39:03+00:00
@@ -3951,56 +4003,4 @@
  ## Lane Lines, by Massage
  - [https://massagetheband.bandcamp.com](https://massagetheband.bandcamp.com)
  - date_published: 2024-09-16T03:35:09.326704+00:00
-
- ## MASTER BOOT RECORD
- - [https://masterbootrecord.bandcamp.com](https://masterbootrecord.bandcamp.com)
- - date_published: 2024-07-01T07:44:16.374517+00:00
-
- ## Maston
- - [https://maston.bandcamp.com](https://maston.bandcamp.com)
- - date_published: 2024-09-16T03:37:26.011068+00:00
-
- ## Artists | Matador Records
- - [https://matadorrecords.bandcamp.com](https://matadorrecords.bandcamp.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Materia Collective
- - [https://materiacollective.bandcamp.com](https://materiacollective.bandcamp.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Broken Audio - Heaven Out Of Hell (Ruthless Remedy 22 Refix) EP, by Matteo Stella
- - [https://matteostella.bandcamp.com](https://matteostella.bandcamp.com)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Matt Hawkins
- - [https://matthawkinssingingsomesongs.bandcamp.com](https://matthawkinssingingsomesongs.bandcamp.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Merch from Matt the Electrician
- - [https://matttheelectrician.bandcamp.com](https://matttheelectrician.bandcamp.com)
- - date_published: 2024-08-19T20:28:31.043878+00:00
-
- ## Mauskovic Dance Band
- - [https://mauskovicdanceband.bandcamp.com](https://mauskovicdanceband.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## CASH BURN/RIDDIM DUSTER, by Kelan x YOKEL
- - [https://maxkelan.bandcamp.com](https://maxkelan.bandcamp.com)
- - date_published: 2024-07-19T22:25:58.803098+00:00
-
- ## Max LL
- - [https://maxll.bandcamp.com](https://maxll.bandcamp.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Mazut
- - [https://mazutnoise.bandcamp.com](https://mazutnoise.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Michael Boezi
- - [https://mboezi.bandcamp.com](https://mboezi.bandcamp.com)
- - date_published: 2024-08-11T21:06:10.797361+00:00
-
- ## Medium Sound
- - [https://mediumsound.bandcamp.com](https://mediumsound.bandcamp.com)
- - date_published: 2024-06-22T00:00:00+00:00
 

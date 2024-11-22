@@ -1,3 +1,169 @@
+ ## Home - DSB IT
+ - [https://kcc.krannert.purdue.edu](https://kcc.krannert.purdue.edu)
+ - date_published: 2024-07-01T17:43:20.288101+00:00
+
+ ## Mitchell E. Daniels, Jr. School of Business - Purdue Business
+ - [https://krannert.purdue.edu](https://krannert.purdue.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home | Purdue Libraries
+ - [https://lib.purdue.edu](https://lib.purdue.edu)
+ - date_published: 2024-05-07T20:03:47.066812+00:00
+
+ ## Impact Report
+ - [https://lifeat.purdue.edu](https://lifeat.purdue.edu)
+ - date_published: 2023-01-30T16:39:55+00:00
+
+ ## Purdue University Marketing and Communications
+ - [https://marcom.purdue.edu](https://marcom.purdue.edu)
+ - date_published: 2024-05-07T20:03:24.750525+00:00
+
+ ## ML@Purdue
+ - [https://mlp.cs.purdue.edu](https://mlp.cs.purdue.edu)
+ - date_published: 2024-03-03T17:19:11+00:00
+
+ ## welcome to myCS
+ - [https://my.cs.purdue.edu](https://my.cs.purdue.edu)
+ - date_published: 2024-07-01T17:41:52.281588+00:00
+
+ ## Purdue Web Authentication - Loading Session Information
+ - [https://mypurdue.purdue.edu](https://mypurdue.purdue.edu)
+ - date_published: 2024-05-07T20:03:23.621941+00:00
+
+ ## IIS Windows Server
+ - [https://net.housing.purdue.edu](https://net.housing.purdue.edu)
+ - date_published: 2022-02-09T13:16:15+00:00
+
+ ## OneCampus
+ - [https://one.purdue.edu](https://one.purdue.edu)
+ - date_published: 2024-05-07T20:04:23.660823+00:00
+
+ ## Purdue Online
+ - [https://onlinedegrees.purdue.edu](https://onlinedegrees.purdue.edu)
+ - date_published: 2024-07-06T21:40:26.713202+00:00
+
+ ## Purdue Online
+ - [https://online.purdue.edu](https://online.purdue.edu)
+ - date_published: 2024-07-01T17:45:50.153896+00:00
+
+ ## Office of Professional Practice - Purdue University
+ - [https://opp.purdue.edu](https://opp.purdue.edu)
+ - date_published: 2024-05-07T20:03:39.491132+00:00
+
+ ## Purdue OWL® - 
+			 Purdue OWL® -  Purdue University
+ - [http://owl.english.purdue.edu](http://owl.english.purdue.edu)
+ - date_published: 2024-01-11T00:55:30+00:00
+
+ ## Purdue OWL® - 
+			 Purdue OWL® -  Purdue University
+ - [https://owl.purdue.edu](https://owl.purdue.edu)
+ - date_published: 2024-01-11T00:55:30+00:00
+
+ ## PLDI 2012 | Programming Language Design and Implementation — 11–16 June, Beijing
+ - [http://pldi12.cs.purdue.edu](http://pldi12.cs.purdue.edu)
+ - date_published: 2020-01-24T12:32:20+00:00
+
+ ## Protect Purdue Redirect - Purdue University
+ - [https://protect.purdue.edu](https://protect.purdue.edu)
+ - date_published: 2024-07-01T17:43:28.937199+00:00
+
+ ## Purdue University
+ - [https://purdue.edu](https://purdue.edu)
+ - date_published: 2024-04-28T03:27:49.632821+00:00
+
+ ## Home | Purdue Libraries
+ - [http://purl.lib.purdue.edu](http://purl.lib.purdue.edu)
+ - date_published: 2024-07-01T17:36:34+00:00
+
+ ## PURR - Purdue University Research Repository
+ - [https://purr.purdue.edu](https://purr.purdue.edu)
+ - date_published: 2024-07-01T17:44:30.181189+00:00
+
+ ## Home
+ - [https://service.purdue.edu](https://service.purdue.edu)
+ - date_published: 2024-07-01T17:47:50.882817+00:00
+
+ ## The Persistent Pursuit
+ - [https://stories.purdue.edu](https://stories.purdue.edu)
+ - date_published: 2024-05-07T20:04:08.792823+00:00
+
+ ## Timetabling
+ - [https://timetable.mypurdue.purdue.edu](https://timetable.mypurdue.purdue.edu)
+ - date_published: 2024-07-01T17:41:46.452483+00:00
+
+ ## Purdue Virtual Tour
+ - [https://tour.purdue.edu](https://tour.purdue.edu)
+ - date_published: 2024-03-26T21:38:59+00:00
+
+ ## Purdue Memorial Union Home | PMU Purdue University
+ - [https://union.purdue.edu](https://union.purdue.edu)
+ - date_published: 2024-04-25T15:25:34+00:00
+
+ ## Krannert WebApps
+ - [https://webapps.krannert.purdue.edu](https://webapps.krannert.purdue.edu)
+ - date_published: 2022-08-19T19:52:41+00:00
+
+ ## Home | Purdue Libraries
+ - [https://webapps.lib.purdue.edu](https://webapps.lib.purdue.edu)
+ - date_published: 2024-07-01T17:36:34+00:00
+
+ ## Purdue Web Authentication - Loading Session Information
+ - [https://wl.mypurdue.purdue.edu](https://wl.mypurdue.purdue.edu)
+ - date_published: 2024-07-01T17:43:41.527990+00:00
+
+ ## Purdue CCO
+ - [https://www.cco.purdue.edu](https://www.cco.purdue.edu)
+ - date_published: 2024-07-01T17:43:23.384066+00:00
+
+ ## CERIAS - Center for Education and Research in Information Assurance and Security
+ - [https://www.cerias.purdue.edu](https://www.cerias.purdue.edu)
+ - date_published: 2024-08-07T15:00:14.330802+00:00
+
+ ## Purdue University James Tarpo Jr. and Margaret Tarpo Department of Chemistry
+ - [https://www.chem.purdue.edu](https://www.chem.purdue.edu)
+ - date_published: 2024-10-19T04:51:08.762283+00:00
+
+ ## Elmore Family School of Electrical and Computer Engineering, Purdue University
+ - [https://www.ece.purdue.edu](https://www.ece.purdue.edu)
+ - date_published: 2024-05-07T21:17:14.205070+00:00
+
+ ## Homepage
+ - [http://www.ecn.purdue.edu](http://www.ecn.purdue.edu)
+ - date_published: 2024-07-02T03:02:55.321617+00:00
+
+ ## Global Trade Analysis Project (GTAP)
+ - [https://www.gtap.agecon.purdue.edu](https://www.gtap.agecon.purdue.edu)
+ - date_published: 2024-10-19T05:09:01.094194+00:00
+
+ ## Home | Purdue University IT
+ - [https://www.itap.purdue.edu](https://www.itap.purdue.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home - Department of Mathematics - Purdue University
+ - [https://www.math.purdue.edu](https://www.math.purdue.edu)
+ - date_published: 2024-06-21T00:37:50+00:00
+
+ ## Borch Department of Medicinal Chemistry and Molecular Pharmacology
+ - [http://www.mcmp.purdue.edu](http://www.mcmp.purdue.edu)
+ - date_published: 2024-06-29T08:29:31.082982+00:00
+
+ ## Military Family Research Institute at Purdue University
+ - [https://www.mfri.purdue.edu](https://www.mfri.purdue.edu)
+ - date_published: 2024-07-01T17:40:47.977992+00:00
+
+ ## Purdue University College of Pharmacy
+ - [https://www.pharmacy.purdue.edu](https://www.pharmacy.purdue.edu)
+ - date_published: 2024-07-01T12:33:38+00:00
+
+ ## College of Science - Purdue University
+ - [https://www.science.purdue.edu](https://www.science.purdue.edu)
+ - date_published: 2024-06-28T16:46:56+00:00
+
+ ## Home Page - Purdue University Press
+ - [http://www.thepress.purdue.edu](http://www.thepress.purdue.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## Purdue University College of Veterinary Medicine
  - [http://www.vet.purdue.edu](http://www.vet.purdue.edu)
  - date_published: 2024-07-01T17:45:47.351188+00:00
@@ -3839,168 +4005,4 @@
  ## Office of Community Standards
  - [https://communitystandards.stanford.edu](https://communitystandards.stanford.edu)
  - date_published: 2024-06-19T23:20:52+00:00
-
- ## Community
- - [https://community.stanford.edu](https://community.stanford.edu)
- - date_published: 2024-05-07T20:30:52.367842+00:00
-
- ## Log in
- - [https://cop.stanford.edu](https://cop.stanford.edu)
- - date_published: 2024-06-16T08:14:13.328224+00:00
-
- ## CPU DB, a complete database of processors for researchers and hobbyists alike
- - [http://cpudb.stanford.edu](http://cpudb.stanford.edu)
- - date_published: 2024-05-12T21:41:30+00:00
-
- ## Stanford Login
- - [https://crctime.stanford.edu](https://crctime.stanford.edu)
- - date_published: 2024-07-01T20:08:22.756844+00:00
-
- ## Stanford CRFM
- - [https://crfm.stanford.edu](https://crfm.stanford.edu)
- - date_published: 2023-10-25T18:58:08.596511+00:00
-
- ## CryoEM/ET at SLAC/Stanford | SLAC National Accelerator Laboratory
- - [https://cryoem.slac.stanford.edu](https://cryoem.slac.stanford.edu)
- - date_published: 2024-07-06T23:03:09+00:00
-
- ## Applied Cryptography Group | Stanford University
- - [https://crypto.stanford.edu](https://crypto.stanford.edu)
- - date_published: 2024-03-20T02:37:02+00:00
-
- ## CS106S: Coding for Social Good at Stanford
- - [https://cs106s.stanford.edu](https://cs106s.stanford.edu)
- - date_published: 2024-08-18T23:17:13.719663+00:00
-
- ## CS144
- - [https://cs144.stanford.edu](https://cs144.stanford.edu)
- - date_published: 2024-06-22T07:21:59.195612+00:00
-
- ## CS155 Computer and Network Security
- - [https://cs155.stanford.edu](https://cs155.stanford.edu)
- - date_published: 2024-06-17T17:44:26+00:00
-
- ## CS224W | Home
- - [https://cs224w.stanford.edu](https://cs224w.stanford.edu)
- - date_published: 2024-08-07T11:21:32.096147+00:00
-
- ## CS229: Machine Learning
- - [https://cs229.stanford.edu](https://cs229.stanford.edu)
- - date_published: 2024-06-25T04:19:28+00:00
-
- ## CS230 Deep Learning
- - [https://cs230.stanford.edu](https://cs230.stanford.edu)
- - date_published: 2024-07-12T09:03:39.960539+00:00
-
- ## Stanford University CS231n: Deep Learning for Computer Vision
- - [https://cs231n.stanford.edu](https://cs231n.stanford.edu)
- - date_published: 2024-04-14T03:46:02+00:00
-
- ## CS246 | Home
- - [https://cs246.stanford.edu](https://cs246.stanford.edu)
- - date_published: 2024-08-07T11:21:53.536678+00:00
-
- ## CS249i: The Modern Internet
- - [https://cs249i.stanford.edu](https://cs249i.stanford.edu)
- - date_published: 2024-05-04T15:11:51.253843+00:00
-
- ## CS 251: Cryptocurrencies and Blockchain Technologies
- - [https://cs251.stanford.edu](https://cs251.stanford.edu)
- - date_published: 2024-01-07T00:38:59+00:00
-
- ## CS253 - Web Security
- - [https://cs253.stanford.edu](https://cs253.stanford.edu)
- - date_published: 2024-06-23T06:24:49.679671+00:00
-
- ## Psych225 / CS322
- - [https://cs322.stanford.edu](https://cs322.stanford.edu)
- - date_published: 2022-03-08T23:19:48+00:00
-
- ## CS341 | Home
- - [https://cs341.stanford.edu](https://cs341.stanford.edu)
- - date_published: 2024-08-07T11:21:55.634216+00:00
-
- ## CS348I
- - [http://cs348i.stanford.edu](http://cs348i.stanford.edu)
- - date_published: 2024-02-05T22:24:16+00:00
-
- ## CS356: Topics in Computer and Network Security
- - [https://cs356.stanford.edu](https://cs356.stanford.edu)
- - date_published: 2023-11-11T15:46:15+00:00
-
- ## Computer Science
- - [https://csd9.sites.stanford.edu](https://csd9.sites.stanford.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## CSLI Publications
- - [http://csli-publications.stanford.edu](http://csli-publications.stanford.edu)
- - date_published: 2024-09-02T15:56:10.337345+00:00
-
- ## Center for the Study of Language and Information
- - [https://csli.stanford.edu](https://csli.stanford.edu)
- - date_published: 2024-05-30T04:00:49+00:00
-
- ## Stanford Computer Science Department
- - [http://csl.stanford.edu](http://csl.stanford.edu)
- - date_published: 2009-02-02T21:41:09+00:00
-
- ## Computer Science
- - [https://cs.stanford.edu](https://cs.stanford.edu)
- - date_published: 2023-10-25T11:23:16.227465+00:00
-
- ## Center for Teaching and Learning
- - [https://ctl.stanford.edu](https://ctl.stanford.edu)
- - date_published: 2024-06-10T18:29:24+00:00
-
- ## Stanford CVA Group - Concurrent VLSI Architecture Group
- - [http://cva.stanford.edu](http://cva.stanford.edu)
- - date_published: 2020-01-07T21:05:43+00:00
-
- ## Stanford Computational Vision and Geometry Lab
- - [https://cvgl.stanford.edu](https://cvgl.stanford.edu)
- - date_published: 2020-03-10T01:47:47+00:00
-
- ## Cyber Policy Center | FSI
- - [https://cyber.fsi.stanford.edu](https://cyber.fsi.stanford.edu)
- - date_published: 2023-10-25T18:58:18.772573+00:00
-
- ## Center for Internet and Society | The Center for Internet and Society is a leader in the study of the law & policy around the Internet & emerging technologies.
- - [https://cyberlaw.stanford.edu](https://cyberlaw.stanford.edu)
- - date_published: 2023-10-25T18:58:20.662315+00:00
-
- ## DAGS - Daphne Koller's Research Group
- - [http://dags.stanford.edu](http://dags.stanford.edu)
- - date_published: 2011-04-11T18:50:24+00:00
-
- ## Data Science
- - [https://datascience.stanford.edu](https://datascience.stanford.edu)
- - date_published: 2023-11-12T13:46:11.993969+00:00
-
- ## Stanford DAWN · DAWN
- - [https://dawn.cs.stanford.edu](https://dawn.cs.stanford.edu)
- - date_published: 2022-01-24T19:16:17+00:00
-
- ## Stanford – Department of Biomedical Data Science
- - [https://dbds.stanford.edu](https://dbds.stanford.edu)
- - date_published: 2024-06-30T05:32:22.525586+00:00
-
- ## Welcome to Stanford InfoLab Publication Server - Stanford InfoLab Publication Server
- - [http://dbpubs.stanford.edu](http://dbpubs.stanford.edu)
- - date_published: 2024-07-01T20:11:05.345253+00:00
-
- ## Home
- - [https://dcp.stanford.edu](https://dcp.stanford.edu)
- - date_published: 2024-08-08T03:13:12.361681+00:00
-
- ## Dean of Students
- - [https://deanofstudents.stanford.edu](https://deanofstudents.stanford.edu)
- - date_published: 2024-06-07T22:44:41+00:00
-
- ## DeepDive
- - [http://deepdive.stanford.edu](http://deepdive.stanford.edu)
- - date_published: 2017-08-31T13:23:04+00:00
-
- ## Design in Action
- - [https://designinaction.stanford.edu](https://designinaction.stanford.edu)
- - date_published: 2023-04-30T00:00:00+00:00
 

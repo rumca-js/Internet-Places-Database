@@ -1,3 +1,243 @@
+ ## Bicyclemind 🇵🇱
+ - [https://bicyclemind.pl](https://bicyclemind.pl)
+ - date_published: 2024-08-07T21:03:10.144212+00:00
+
+ ## Strona główna – Biedronka.pl
+ - [https://biedronka.pl](https://biedronka.pl)
+ - date_published: 2024-07-20T03:13:34.118312+00:00
+
+ ## Bieganie.pl porady treningowe, plany, dieta, sprzęt, maraton
+ - [https://bieganie.pl](https://bieganie.pl)
+ - date_published: 2021-07-30T21:26:28+00:00
+
+ ## Biennale Warszawa
+ - [http://biennalewarszawa.pl](http://biennalewarszawa.pl)
+ - date_published: 2024-07-20T17:54:59.010198+00:00
+
+ ## Bieszczadzkie Schroniska i Hotele PTTK Sp. z o.o. – Bieszczadzkie Schroniska i Hotele PTTK Sp. z o.o.
+ - [https://bieszczadypttk.pl](https://bieszczadypttk.pl)
+ - date_published: 2024-07-19T22:33:40.388772+00:00
+
+ ## BIG CYC - oficjalny serwis internetowy zespołu
+ - [https://bigcyc.pl](https://bigcyc.pl)
+ - date_published: 2023-11-13T10:27:04.357594+00:00
+ - tags: ['music band']
+
+ ## HOME - BIG CYC - Oficjalny sklep
+ - [https://sklep.bigcyc.pl](https://sklep.bigcyc.pl)
+ - date_published: 2021-09-20T14:56:16+00:00
+
+ ## big-eye.pl
+ - [https://www.big-eye.pl](https://www.big-eye.pl)
+ - date_published: 2023-06-02T00:20:32+00:00
+
+ ## Biuro Informacji Kredytowej | Strona główna
+ - [https://www.bik.pl](https://www.bik.pl)
+ - date_published: 2024-09-03T19:26:39.273489+00:00
+
+ ## Bilety online na koncerty, wydarzenia klubowe oraz festiwale - Biletomat.pl
+ - [https://biletomat.pl](https://biletomat.pl)
+ - date_published: 2024-05-08T00:39:46.788069+00:00
+
+ ## Bilety24 - wydarzenia: koncerty, kino, teatr, filharmonia, kabaret
+ - [https://bilety24.pl](https://bilety24.pl)
+ - date_published: 2024-02-23T16:34:03+00:00
+ - tags: ['tickets']
+
+ ## biletyna.pl
+ - [https://iframe41.biletyna.pl](https://iframe41.biletyna.pl)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Bilkom – bilety i rozkład PKP. Pakiet podróżnika
+ - [https://bilkom.pl](https://bilkom.pl)
+ - date_published: 2024-09-13T17:56:26.127133+00:00
+
+ ## Billz.pl - najszybsze faktury w mieście;)
+ - [https://panel.billz.pl](https://panel.billz.pl)
+ - date_published: 2023-08-23T12:05:21+00:00
+
+ ## Biofarm - producent leków, firma farmaceutyczna z Poznania
+ - [https://www.biofarm.pl](https://www.biofarm.pl)
+ - date_published: 2024-09-02T13:53:48.486411+00:00
+
+ ## Polski Portal Biograficzny
+ - [http://www.biogramy.pl](http://www.biogramy.pl)
+ - date_published: 2024-07-20T17:52:49.503648+00:00
+
+ ## Bitcoin.pl - Bitcoin, kryptowaluty i technologia blockchain
+ - [https://bitcoin.pl](https://bitcoin.pl)
+ - date_published: 2023-10-29T15:13:20.134080+00:00
+
+ ## Antywirus Bitdefender - Najwyższa skuteczność ochrony
+ - [https://bitdefender.pl](https://bitdefender.pl)
+ - date_published: 2020-03-05T06:06:15+00:00
+ - tags: ['antivirus']
+
+ ## bitiba - Twój internetowy sklep zoologiczny: produkty i karma dla zwierząt
+ - [https://www.bitiba.pl](https://www.bitiba.pl)
+ - date_published: 2024-09-26T11:24:40.862860+00:00
+
+ ## home -  Artistic websites CMS, graphics, AI art - Witold Augustynski
+ - [http://www.bitis.pl](http://www.bitis.pl)
+ - date_published: 2024-08-18T04:21:59.234388+00:00
+
+ ## bitplan.pl
+ - [https://bitplan.pl](https://bitplan.pl)
+ - date_published: 2023-03-24T12:34:17+00:00
+
+ ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://bitrix24.pl](https://bitrix24.pl)
+ - date_published: 2024-05-12T03:57:09.374376+00:00
+
+ ## Bitrix24Care
+ - [https://helpdesk.bitrix24.pl](https://helpdesk.bitrix24.pl)
+ - date_published: 2024-05-12T03:57:12.162987+00:00
+
+ ## Bitrix Partner Program
+ - [https://partners.bitrix24.pl](https://partners.bitrix24.pl)
+ - date_published: 2024-05-12T03:57:24.235370+00:00
+
+ ## Amazon Newsroom - Strona główna
+ - [https://biuroprasoweamazon.pl](https://biuroprasoweamazon.pl)
+ - date_published: 2024-06-15T02:14:24.054229+00:00
+
+ ## Biuro rachunkowe Sofi Mrągowo
+ - [http://biurosofi.pl](http://biurosofi.pl)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## biweekly.pl - link with culture / issue 44/2017
+ - [https://www.biweekly.pl](https://www.biweekly.pl)
+ - date_published: 2024-06-30T06:13:12.851795+00:00
+
+ ## | Robert Kiyosaki | Biznes XXI wieku
+ - [https://biznes21wieku.pl](https://biznes21wieku.pl)
+ - date_published: 2024-05-12T06:53:13.262229+00:00
+
+ ## BIZNES24 - FIRMA, GIEŁDA, PIENIĄDZE / OGLĄDAJ BIZNES24 ONLINE - BIZNES24
+ - [https://biznes24.pl](https://biznes24.pl)
+ - date_published: 2019-05-08T18:27:04+00:00
+
+ ## BiznesAlert.pl - Portal informacyjny poświęcony energetyce, infrastrukturze i bezpieczeństwu
+ - [https://biznesalert.pl](https://biznesalert.pl)
+ - date_published: 2023-10-25T22:25:56.810285+00:00
+ - tags: ['energy news']
+
+ ## Najnowsze informacje ze świata gospodarki i biznesu. | BiznesINFO.pl
+ - [https://www.biznesinfo.pl](https://www.biznesinfo.pl)
+ - date_published: 2024-07-14T05:16:54+00:00
+
+ ## bizWebStudio | Agencja TYPO3 Wdrożenia TYPO3 Strony internetowe
+ - [https://bizwebstudio.pl](https://bizwebstudio.pl)
+ - date_published: 2024-09-02T13:54:25.427308+00:00
+
+ ## Bilety online - KupBilecik
+ - [https://bkb.pl](https://bkb.pl)
+ - date_published: 2024-07-18T12:12:01.405555+00:00
+
+ ## Autobusy czy wspólne przejazdy? Wybór najtańszych. | BlaBlaCar
+ - [https://blablacar.pl](https://blablacar.pl)
+ - date_published: 2024-06-15T01:00:35.018073+00:00
+
+ ## BlaBlaCar
+ - [https://blog.blablacar.pl](https://blog.blablacar.pl)
+ - date_published: 2024-09-15T19:51:56.024331+00:00
+
+ ## Błękitny Świt – Z życia fana, czyli blog o RPG, fantastyce, grach, filmach, książkach i fandomie. Autor: Marcin Segit
+ - [https://www.blekitnyswit.pl](https://www.blekitnyswit.pl)
+ - date_published: 2024-07-03T06:30:13.394343+00:00
+
+ ## Gazetki promocyjne, promocje, aktualne gazetki reklamowe | Blix.pl
+ - [https://blix.pl](https://blix.pl)
+ - date_published: 2024-10-22T21:17:11.097172+00:00
+
+ ## Bliżej Życia z Wiarą - Nowy tygodnik!
+ - [https://blizejzycia.pl](https://blizejzycia.pl)
+ - date_published: 2024-08-18T16:56:10.948186+00:00
+
+ ## mieć znaczy być…..
+ - [https://besol.blogi.pl](https://besol.blogi.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## biologia i ochrona przyrody
+ - [https://biologiaiochronaprzyrody.blogi.pl](https://biologiaiochronaprzyrody.blogi.pl)
+ - date_published: 2024-07-11T16:33:59.258948+00:00
+
+ ## Biznes
+ - [https://biznes.blogi.pl](https://biznes.blogi.pl)
+ - date_published: 2024-07-11T16:34:03.451526+00:00
+
+ ## Najlepsze blogi, blogi bez opłat, fajne blogi za darmo
+ - [https://blogi.pl](https://blogi.pl)
+ - date_published: 2024-05-09T14:13:50.542138+00:00
+
+ ## Oficjalny blog Grupy Pino
+ - [https://grupapino.blogi.pl](https://grupapino.blogi.pl)
+ - date_published: 2024-07-11T16:33:11.839998+00:00
+
+ ## Sekretny pamiętnik Marii Kosaciec.
+ - [https://sekretny-pamietnik.blogi.pl](https://sekretny-pamietnik.blogi.pl)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## A żyć możesz tylko dzięki temu, za co mógłbyś umrzeć.
+ - [https://swiatlo-spadajacych-gwiazd.blogi.pl](https://swiatlo-spadajacych-gwiazd.blogi.pl)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Systemy przeciwpożarowe w biurowcach i budynkach użyteczności publicznej
+ - [https://wentylacjepozarowe.blogi.pl](https://wentylacjepozarowe.blogi.pl)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Zostawili we mnie swój ślad.
+ - [https://zostawicslad.blogi.pl](https://zostawicslad.blogi.pl)
+ - date_published: 2024-07-11T16:34:02.530170+00:00
+
+ ## Blogmedia24 | Blogerzy o mediach i polityce
+ - [http://www.blogmedia24.pl](http://www.blogmedia24.pl)
+ - date_published: 2024-08-19T21:12:52+00:00
+
+ ## Blogrys
+ - [https://blogrys.pl](https://blogrys.pl)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Oferta sprzedaży domeny: blogspot.pl
+ - [http://wiejskoczarodziejsko.blogspot.pl](http://wiejskoczarodziejsko.blogspot.pl)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## BLOW | Sklep internetowy
+ - [https://blow.pl](https://blow.pl)
+ - date_published: 2024-05-15T14:15:08.026660+00:00
+
+ ## Strony internetowe - Administracja Joomla! - BlueCoyote
+ - [https://bluecoyote.pl](https://bluecoyote.pl)
+ - date_published: 2024-07-14T02:17:15+00:00
+
+ ## bluegames
+ - [https://bluegames.pl](https://bluegames.pl)
+ - date_published: 2024-06-27T05:58:50.074952+00:00
+
+ ## Rozwiązania i usługi dla firm
+ - [https://bluemedia.pl](https://bluemedia.pl)
+ - date_published: 2024-09-02T13:35:04.773584+00:00
+
+ ## Pozycjonowanie stron internetowych - Blumo Łódź. Tworzenie stron pod pozycjonowanie.
+ - [https://www.blumo.pl](https://www.blumo.pl)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Roman Workshop - amatorskie projekty programistyczno-elektroniczne
+ - [http://romanworkshop.blutu.pl](http://romanworkshop.blutu.pl)
+ - date_published: 2024-07-14T12:28:09.607261+00:00
+
+ ## Klienci indywidualni
+ - [https://www.bnpparibas.pl](https://www.bnpparibas.pl)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Szkolenia dla programistów, wzorce projektowe - BNS IT
+ - [https://bnsit.pl](https://bnsit.pl)
+ - date_published: 2024-05-26T18:51:38.274964+00:00
+
+ ## Podcast „Bo czemu nie?”
+ - [https://boczemunie.pl](https://boczemunie.pl)
+ - date_published: 2024-07-11T23:53:14.634404+00:00
+
  ## Bogaty Ojciec
  - [https://bogatyojciec.pl](https://bogatyojciec.pl)
  - date_published: 2024-04-04T19:55:07+00:00
@@ -3834,242 +4074,4 @@
  ## Gazeta.pl - Polska i świat - wiadomości | informacje | wydarzenia
  - [http://aplikacja.gazeta.pl](http://aplikacja.gazeta.pl)
  - date_published: 2024-08-18T11:28:34.681701+00:00
-
- ## Buzz - Porady, Ciekawostki, Ważne informacje - Buzz.Gazeta.pl
- - [https://buzz.gazeta.pl](https://buzz.gazeta.pl)
- - date_published: 2024-08-18T11:28:36.097883+00:00
-
- ## Forum - Gazeta.pl
- - [https://forum.gazeta.pl](https://forum.gazeta.pl)
- - date_published: 2024-07-01T08:02:53.924771+00:00
-
- ## Forum - Gazeta.pl
- - [https://fotoforum.gazeta.pl](https://fotoforum.gazeta.pl)
- - date_published: 2024-08-18T13:32:25.840017+00:00
-
- ## Gazeta.pl - Polska i świat - wiadomości | informacje | wydarzenia
- - [https://gazeta.pl](https://gazeta.pl)
- - date_published: 2024-07-01T08:02:12+00:00
- - tags: ['news']
-
- ## Horoskopy 2024 - Dzienny, Tygodniowy, Roczny - Horoskopy.Gazeta.pl
- - [https://horoskopy.gazeta.pl](https://horoskopy.gazeta.pl)
- - date_published: 2024-08-18T11:28:45.569665+00:00
-
- ## Kalendarz świąt
- - [https://kalendarz.gazeta.pl](https://kalendarz.gazeta.pl)
- - date_published: 2024-08-18T11:29:04.399899+00:00
-
- ## Dla Kobiet - Moda, Uroda, Zdrowie, Wywiady, Porady I Kobieta.Gazeta.pl
- - [https://kobieta.gazeta.pl](https://kobieta.gazeta.pl)
- - date_published: 2024-08-18T11:28:43.086246+00:00
-
- ## Logowanie - Konto
- - [https://konto.gazeta.pl](https://konto.gazeta.pl)
- - date_published: 2024-08-18T11:28:59.851213+00:00
-
- ## Kraków.Wyborcza.pl - Najnowsze wiadomości z Krakowa
- - [http://krakow.gazeta.pl](http://krakow.gazeta.pl)
- - date_published: 2024-08-19T21:16:38.945893+00:00
-
- ## Film, seriale, muzyka - Kultura.Gazeta.pl
- - [https://kultura.gazeta.pl](https://kultura.gazeta.pl)
- - date_published: 2023-12-04T12:48:18.132743+00:00
-
- ## Strona główna - Reklama Gazeta.pl
- - [http://lab.gazeta.pl](http://lab.gazeta.pl)
- - date_published: 2024-08-19T13:32:53.557287+00:00
-
- ## Indeksy giełdowe - GPW, WIG, notowania, akcje, inwestycje oraz aktualności
- - [https://lotto.gazeta.pl](https://lotto.gazeta.pl)
- - date_published: 2024-08-18T11:28:39.590455+00:00
-
- ## Trening, Ćwiczenia, Odchudzanie, Dieta, Zdrowie - MyFitness.Gazeta.pl
- - [https://myfitness.gazeta.pl](https://myfitness.gazeta.pl)
- - date_published: 2024-08-18T11:29:15.470378+00:00
-
- ## Next Gazeta.pl - Biznes, Nowe Technologie i Pieniądze
- - [https://next.gazeta.pl](https://next.gazeta.pl)
- - date_published: 2023-10-25T10:31:14.489308+00:00
-
- ## Logowanie - Poczta
- - [https://oauth.gazeta.pl](https://oauth.gazeta.pl)
- - date_published: 2024-08-18T11:28:32.411097+00:00
-
- ## O nas - Reklama Gazeta.pl
- - [http://onas.gazeta.pl](http://onas.gazeta.pl)
- - date_published: 2018-06-28T07:55:58+00:00
-
- ## Logowanie - Poczta
- - [https://poczta.gazeta.pl](https://poczta.gazeta.pl)
- - date_published: 2024-08-18T11:28:51.283262+00:00
-
- ## Wakacje w Polsce i za granicą, pomysły na wycieczkę, wczasy, urlop - Podróże Gazeta.pl
- - [https://podroze.gazeta.pl](https://podroze.gazeta.pl)
- - date_published: 2024-07-01T08:02:32.143384+00:00
-
- ## Pogoda Polska - długoterminowa prognoza pogody na dziś i jutro - Gazeta.pl
- - [https://pogoda.gazeta.pl](https://pogoda.gazeta.pl)
- - date_published: 2024-07-01T08:02:40.490520+00:00
-
- ## Pomoc portalu Gazeta.pl
- - [https://pomoc.gazeta.pl](https://pomoc.gazeta.pl)
- - date_published: 2024-08-18T11:29:02.638518+00:00
-
- ## Quizy, Testy, Psychotesty - Gazeta.pl
- - [https://quizy.gazeta.pl](https://quizy.gazeta.pl)
- - date_published: 2024-08-18T13:32:30.843135+00:00
-
- ## Strona główna - Reklama Gazeta.pl
- - [https://reklama.gazeta.pl](https://reklama.gazeta.pl)
- - date_published: 2024-08-18T11:28:58.238232+00:00
-
- ## Szukaj w Gazeta.pl
- - [https://szukaj.gazeta.pl](https://szukaj.gazeta.pl)
- - date_published: 2024-08-18T11:29:16.755452+00:00
-
- ## program TV - Kultura.gazeta.pl
- - [https://tv.gazeta.pl](https://tv.gazeta.pl)
- - date_published: 2024-08-18T11:28:54.703449+00:00
-
- ## Weekend w Gazeta.pl trwa ca³y tydzieñ
- - [https://weekend.gazeta.pl](https://weekend.gazeta.pl)
- - date_published: 2023-10-25T22:27:32.339026+00:00
-
- ## Wiadomo¶ci - Gazeta.pl
- - [https://wiadomosci.gazeta.pl](https://wiadomosci.gazeta.pl)
- - date_published: 2023-10-25T10:31:23.272215+00:00
-
- ## Zdrowie - choroby - leczenie - porady o zdrowiu - Zdrowy tryb życia | Zdrowie.Gazeta.pl
- - [https://zdrowie.gazeta.pl](https://zdrowie.gazeta.pl)
- - date_published: 2023-10-25T10:31:32.035588+00:00
-
- ## Zielona Gazeta.pl
- - [https://zielona.gazeta.pl](https://zielona.gazeta.pl)
- - date_published: 2024-08-18T11:28:47.151739+00:00
-
- ## Cierpliwości...
- - [https://gazetakrakowska.pl](https://gazetakrakowska.pl)
- - date_published: 2024-05-07T18:45:29.282115+00:00
-
- ## Gazeta Lubuska
- - [https://gazetalubuska.pl](https://gazetalubuska.pl)
- - date_published: 2024-03-19T18:29:04+00:00
- - tags: ['news']
-
- ## Gazeta Mosińsko-Puszczykowska
- - [https://gazeta-mosina.pl](https://gazeta-mosina.pl)
- - date_published: 2024-02-23T16:55:56.363610+00:00
-
- ## Gazeta Polska
- - [https://gazetapolska.pl](https://gazetapolska.pl)
- - date_published: 2024-06-30T09:27:48.997413+00:00
-
- ## Gazeta Polska VOD - publicystyka, wiadomości, fakty
- - [https://vod.gazetapolska.pl](https://vod.gazetapolska.pl)
- - date_published: 2024-06-28T08:23:51+00:00
-
- ## GoldenLine.pl
- - [http://gazetapraca.pl](http://gazetapraca.pl)
- - date_published: 2024-08-18T11:28:48.848772+00:00
-
- ## Biznes - GazetaPrawna.pl - wiadomości, finanse osobiste
- - [https://biznes.gazetaprawna.pl](https://biznes.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:14.284782+00:00
-
- ## Cyfrowa Gospodarka - serwis gospodarczy, nowe technologie, najświeższe wiadomości z biznesu.
- - [https://cyfrowa-gospodarka.gazetaprawna.pl](https://cyfrowa-gospodarka.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:24.147131+00:00
-
- ## e-Dziennik Gazeta Prawna - e-wydanie - prawo, podatki, biznes, finanse
- - [https://edgp.gazetaprawna.pl](https://edgp.gazetaprawna.pl)
- - date_published: 2024-02-24T00:16:28.390512+00:00
-
- ## Finanse - GazetaPrawna.pl - serwis informacyjny
- - [https://finanse.gazetaprawna.pl](https://finanse.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:03.466479+00:00
-
- ## GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca
- - [https://gazetaprawna.pl](https://gazetaprawna.pl)
- - date_published: 2023-12-17T16:47:11.471502+00:00
-
- ## Kultura - GazetaPrawna.pl - serwis kulturalny
- - [https://kultura.gazetaprawna.pl](https://kultura.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:34.214675+00:00
-
- ## omówienia - GazetaPrawna.pl
- - [https://omowienia.gazetaprawna.pl](https://omowienia.gazetaprawna.pl)
- - date_published: 2024-08-18T10:14:48.427388+00:00
-
- ## Podatki - GazetaPrawna.pl - wiadomości, akcyza, CIT, PIT, VAT
- - [https://podatki.gazetaprawna.pl](https://podatki.gazetaprawna.pl)
- - date_published: 2023-10-25T22:27:36.796232+00:00
-
- ## Praca i kariera - GazetaPrawna.pl - prawo i rynek pracy
- - [https://praca.gazetaprawna.pl](https://praca.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:28.920561+00:00
-
- ## Prawo i wymiar sprawiedliwości - GazetaPrawna.pl
- - [https://prawo.gazetaprawna.pl](https://prawo.gazetaprawna.pl)
- - date_published: 2024-08-18T10:15:12.237735+00:00
-
- ## Serwisy Tematyczne- GazetaPrawna.pl
- - [https://serwisy.gazetaprawna.pl](https://serwisy.gazetaprawna.pl)
- - date_published: 2023-10-25T22:27:40.688880+00:00
-
- ## Gazeta Wrocławska - Wiadomości Wrocław, Wiadomości Dolnośląskie
- - [https://gazetawroclawska.pl](https://gazetawroclawska.pl)
- - date_published: 2024-09-29T20:05:40.976084+00:00
-
- ## Oferta sprzedaży domeny: gazete.pl
- - [http://gazete.pl](http://gazete.pl)
- - date_published: 2024-10-15T17:06:15.888110+00:00
-
- ## GBForever | Portal polskiej sceny Game Boy
- - [https://gbforever.pl](https://gbforever.pl)
- - date_published: 2024-05-24T18:39:29.324424+00:00
-
- ## Gospodarczy Bank Spółdzielczy w Barlinku - GBSBank
- - [http://www.gbsbank.pl](http://www.gbsbank.pl)
- - date_published: 2024-07-13T19:13:21.336997+00:00
-
- ## Światowy Dzień Książki: Celebrowanie Mocy Słowa – Odkrywajmy świat literatury razem – inspiracje z okazji Światowego Dnia Książki
- - [http://www.gckkroscienko.pl](http://www.gckkroscienko.pl)
- - date_published: 2024-03-21T19:55:11+00:00
-
- ## Wybór grupy wydarzeń
- - [https://bilety.ikm.gda.pl](https://bilety.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:18.795157+00:00
-
- ## Biuletyn Informacji Publicznej - Instytut Kultury Miejskiej
- - [https://bip.ikm.gda.pl](https://bip.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:25.467346+00:00
-
- ## Archidiecezja Gdańska
- - [https://diecezja.gda.pl](https://diecezja.gda.pl)
- - date_published: 2024-05-13T03:10:32.083670+00:00
-
- ## Strona główna - Gdańskie Miniatury
- - [https://gdanskieminiatury.ikm.gda.pl](https://gdanskieminiatury.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:05.443412+00:00
-
- ## Strona główna - Gdańskie Seminarium Duchowne
- - [https://gsd.gda.pl](https://gsd.gda.pl)
- - date_published: 2024-07-17T07:09:05.827621+00:00
-
- ## Strona główna - Instytut Kultury Miejskiej
- - [https://ikm.gda.pl](https://ikm.gda.pl)
- - date_published: 2024-05-07T18:45:58.120890+00:00
-
- ## Strona główna
- - [https://marketingwkulturze.ikm.gda.pl](https://marketingwkulturze.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:23.128614+00:00
-
- ## Zadzwoń w sprawie pomocy! - Miejski Ośrodek Pomocy Rodzinie w Gdańsku
- - [http://mopr.gda.pl](http://mopr.gda.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Obserwatorium Kultury - Strona główna
- - [http://obserwatorium.ikm.gda.pl](http://obserwatorium.ikm.gda.pl)
- - date_published: 2024-07-01T08:07:06.269601+00:00
 

@@ -1,3 +1,160 @@
+ ## Home
+ - [https://andrewbyrd.dev](https://andrewbyrd.dev)
+ - date_published: 2021-10-19T00:00:00+00:00
+
+ ## Home
+ - [https://andrewgilliland.dev](https://andrewgilliland.dev)
+ - date_published: 2024-05-11T10:18:07.250167+00:00
+
+ ## Andrew Chan
+ - [https://andrewkchan.dev](https://andrewkchan.dev)
+ - date_published: 2023-12-19T18:48:03.347748+00:00
+
+ ## Andrew Nolan
+ - [https://andrewnolan.dev](https://andrewnolan.dev)
+ - date_published: 2024-06-01T04:57:27.248594+00:00
+ - tags: ['personal']
+
+ ## activity.andros.dev - GoToSocial
+ - [https://activity.andros.dev](https://activity.andros.dev)
+ - date_published: 2024-08-18T07:14:10.543930+00:00
+
+ ## Soy Andros Fenollosa
+ - [https://andros.dev](https://andros.dev)
+ - date_published: 2024-07-02T09:12:42+00:00
+
+ ## Maza ad blocking - Like Pi-hole but local
+ - [https://maza-ad-blocking.andros.dev](https://maza-ad-blocking.andros.dev)
+ - date_published: 2024-05-05T13:04:49+00:00
+
+ ## Bienvenido al blog
+ - [https://angelcruz.dev](https://angelcruz.dev)
+ - date_published: 2024-05-11T10:05:48.139150+00:00
+
+ ## Angular
+ - [https://angular.dev](https://angular.dev)
+ - date_published: 2024-04-28T02:37:23.759656+00:00
+
+ ## Angular Blog
+ - [https://blog.angular.dev](https://blog.angular.dev)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Angular Material Dev
+ - [https://angular-material.dev](https://angular-material.dev)
+ - date_published: 2024-06-17T19:10:50.075886+00:00
+
+ ## Theme Builder for Angular Material
+ - [https://themes.angular-material.dev](https://themes.angular-material.dev)
+ - date_published: 2024-10-20T08:08:48.102455+00:00
+
+ ## Animations on the web
+ - [https://animations.dev](https://animations.dev)
+ - date_published: 2024-06-22T13:58:51.682983+00:00
+
+ ## Hi! I'm Anjana · Anjana Sofia Vakil
+ - [https://anjana.dev](https://anjana.dev)
+ - date_published: 2024-04-29T07:30:30.767227+00:00
+
+ ## Blog | Ankush Menat
+ - [https://ankush.dev](https://ankush.dev)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Annotate | Craft walkthroughs that clarify code
+ - [https://annotate.dev](https://annotate.dev)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Simple Analytics
+ - [https://sa.annotate.dev](https://sa.annotate.dev)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Apache Answer
+ - [https://answer.dev](https://answer.dev)
+ - date_published: 2024-06-13T02:39:20+00:00
+
+ ## Apache Answer Meta
+ - [https://meta.answer.dev](https://meta.answer.dev)
+ - date_published: 2024-10-31T03:39:40.547754+00:00
+
+ ## Antares Programming
+ - [https://antaresph.dev](https://antaresph.dev)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Francis Rubio
+ - [https://francisrubio.antaresph.dev](https://francisrubio.antaresph.dev)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Pinoy Websites
+ - [https://webring.antaresph.dev](https://webring.antaresph.dev)
+ - date_published: 2024-07-02T19:47:06.827745+00:00
+
+ ## There's no place like /home
+ - [https://anthonymorris.dev](https://anthonymorris.dev)
+ - date_published: 2024-05-11T10:06:03.266692+00:00
+
+ ## Yet another place where a developer rants
+ - [https://antopiras.dev](https://antopiras.dev)
+ - date_published: 2024-05-11T10:22:22.547294+00:00
+
+ ## antunes.dev
+ - [https://antunes.dev](https://antunes.dev)
+ - date_published: 2024-06-15T16:41:27.733908+00:00
+
+ ## Abraham A. Aremu (aka anubra266) - Software Engineer and Open Source Enthusiast
+ - [https://anubra266.dev](https://anubra266.dev)
+ - date_published: 2024-06-23T08:14:30.277827+00:00
+
+ ## Home Page
+ - [https://anuraj.dev](https://anuraj.dev)
+ - date_published: 2024-06-02T04:36:23+00:00
+
+ ## Blog
+ - [https://via.anuraj.dev](https://via.anuraj.dev)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## any.dev
+ - [https://any.dev](https://any.dev)
+ - date_published: 2024-10-21T09:26:56.447328+00:00
+
+ ## Anzui.dev - Home
+ - [https://anzui.dev](https://anzui.dev)
+ - date_published: 2024-05-09T07:52:02.202397+00:00
+
+ ## Anzui's PeerTube
+ - [https://peertube.anzui.dev](https://peertube.anzui.dev)
+ - date_published: 2024-07-10T07:16:50.129606+00:00
+
+ ## Anzui's Pixelfed
+ - [https://pixelfed.anzui.dev](https://pixelfed.anzui.dev)
+ - date_published: 2024-07-10T07:16:52.085351+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.anzui.dev](https://plausible.anzui.dev)
+ - date_published: 2024-07-10T07:16:50.851071+00:00
+
+ ## Home - Anna Kudriavtsev
+ - [https://ap5.dev](https://ap5.dev)
+ - date_published: 2023-01-10T00:00:00+00:00
+
+ ## linja suwi
+ - [https://linjasuwi.ap5.dev](https://linjasuwi.ap5.dev)
+ - date_published: 2022-12-26T21:41:19+00:00
+
+ ## The personal garden of a broken doll. - Aphrodite.dev
+ - [https://aphrodite.dev](https://aphrodite.dev)
+ - date_published: 2024-05-09T08:15:34.356700+00:00
+
+ ## API Breaking-Change Management - Detection & Remediation
+ - [https://apicontract.dev](https://apicontract.dev)
+ - date_published: 2024-07-26T13:43:54+00:00
+
+ ## API Governance | Ensure API best practices, industry-standards | Automated API reviews
+ - [https://apigovernance.dev](https://apigovernance.dev)
+ - date_published: 2024-07-25T10:53:33+00:00
+
+ ## API Performance: Enhance Your API's Speed and Reliability
+ - [https://apiperformance.dev](https://apiperformance.dev)
+ - date_published: 2024-07-25T14:14:28+00:00
+
  ## API RANK | Benchmarks of public APIs, by Escape
  - [https://apirank.dev](https://apirank.dev)
  - date_published: 2023-10-25T18:34:50.703389+00:00
@@ -585,6 +742,10 @@
  - [https://herman.bearblog.dev](https://herman.bearblog.dev)
  - date_published: 2023-10-25T09:21:35.599140+00:00
  - tags: ['personal']
+
+ ## *ฅ^•ﻌ•^ฅ* ✨✨  HWisnu's blog  ✨✨ о ฅ^•ﻌ•^ฅ
+ - [https://hwisnu.bearblog.dev](https://hwisnu.bearblog.dev)
+ - date_published: 2024-11-21T03:23:36.034326+00:00
 
  ## INFINITE↓SCROLL
  - [https://infinitescroll.bearblog.dev](https://infinitescroll.bearblog.dev)
@@ -3901,173 +4062,4 @@
  ## Sign In | gero.dev
  - [https://abc.gero.dev](https://abc.gero.dev)
  - date_published: 2024-09-04T03:34:32.909679+00:00
-
- ## Gero Gerke — Freelancer
- - [https://gero.dev](https://gero.dev)
- - date_published: 2024-06-01T04:49:55.181817+00:00
-
- ## Hello .dev
- - [https://get.dev](https://get.dev)
- - date_published: 2024-05-10T05:47:18.464618+00:00
-
- ## Show HN: Getada: rustup-like installer for Ada's toolchain/package manager
- - [https://getada.dev](https://getada.dev)
- - date_published: 2024-04-23T14:26:26+00:00
- - tags: ['ada', 'toolchain']
-
- ## Aurora
- - [https://getaurora.dev](https://getaurora.dev)
- - date_published: 2024-05-06T09:12:19.951623+00:00
- - tags: ['linux', 'operating system']
-
- ## Canary
- - [https://getcanary.dev](https://getcanary.dev)
- - date_published: 2024-10-12T00:00:00+00:00
-
- ## Darkmatter - CMS for Astro content collections
- - [https://getdarkmatter.dev](https://getdarkmatter.dev)
- - date_published: 2024-05-06T21:28:53.480944+00:00
-
- ## HomePage
- - [https://gethomepage.dev](https://gethomepage.dev)
- - date_published: 2024-04-08T19:28:36+00:00
- - tags: ['dashboard', 'self-host', 'server management', 'home page']
-
- ## GETlang
- - [https://getlang.dev](https://getlang.dev)
- - date_published: 2024-06-20T17:55:25.467386+00:00
- - tags: ['programming language']
-
- ## The Ludic Framework
- - [https://getludic.dev](https://getludic.dev)
- - date_published: 2024-06-04T11:02:06.119753+00:00
- - tags: ['python', 'programming framework']
-
- ## Luna.ai | The Only AI Prospecting Tool That Outperforms Humans
- - [https://getluna.dev](https://getluna.dev)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Lynx
- - [https://demo.getlynx.dev](https://demo.getlynx.dev)
- - date_published: 2024-05-14T03:44:36.694730+00:00
-
- ## Welcome | Lynx
- - [https://docs.getlynx.dev](https://docs.getlynx.dev)
- - date_published: 2024-05-14T03:44:35.438775+00:00
-
- ## Lynx
- - [https://getlynx.dev](https://getlynx.dev)
- - date_published: 2024-04-08T19:28:37.439999+00:00
- - tags: ['self-host', 'link service']
-
- ## Porter
- - [https://dashboard.getporter.dev](https://dashboard.getporter.dev)
- - date_published: 2024-06-25T20:58:55+00:00
-
- ## FREE Tools for Webmasters, SEO, Network, Developers and SMBs
- - [https://gf.dev](https://gf.dev)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Invidious
- - [https://iv.ggtyler.dev](https://iv.ggtyler.dev)
- - date_published: 2024-05-04T15:59:39.979093+00:00
-
- ## GitHub Card - gh-card
- - [https://gh-card.dev](https://gh-card.dev)
- - date_published: 2021-09-10T09:12:58+00:00
-
- ## Grégoire Hébert
- - [https://knot.gheb.dev](https://knot.gheb.dev)
- - date_published: 2023-08-10T17:58:02+00:00
-
- ## Ghola - Palette Generator for Developers
- - [https://ghola.dev](https://ghola.dev)
- - date_published: 2024-03-17T14:00:35+00:00
-
- ## Ghost Plugins - Free Squarespace Plugins and Templates
- - [https://www.ghostplugins.dev](https://www.ghostplugins.dev)
- - date_published: 2024-05-06T20:12:55.470928+00:00
-
- ## OMG, it's Giako!
- - [https://profile.giako.dev](https://profile.giako.dev)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.gilmi.dev](https://analytics.gilmi.dev)
- - date_published: 2024-09-04T04:46:47.227275+00:00
-
- ## Mobile menu
- - [https://gingerkiwi.dev](https://gingerkiwi.dev)
- - date_published: 2024-06-16T21:44:38+00:00
-
- ## Giraffe Security
- - [https://giraffesecurity.dev](https://giraffesecurity.dev)
- - date_published: 2023-05-06T19:31:47+00:00
-
- ## GitBook API Explorer
- - [https://api-explorer.gitbook.dev](https://api-explorer.gitbook.dev)
- - date_published: 2024-07-13T20:22:20.766163+00:00
-
- ## GitKraken.dev
- - [https://gitkraken.dev](https://gitkraken.dev)
- - date_published: 2024-06-21T19:56:16.384456+00:00
-
- ## gitmoji
- - [https://gitmoji.dev](https://gitmoji.dev)
- - date_published: 2024-10-18T10:43:03+00:00
-
- ## GitPoet - AI generated git commit messages
- - [https://www.gitpoet.dev](https://www.gitpoet.dev)
- - date_published: 2024-06-19T20:03:50.835805+00:00
-
- ## gitsell.dev
- - [https://gitsell.dev](https://gitsell.dev)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Join the GitWit.dev Discord Server!
- - [https://discord.gitwit.dev](https://discord.gitwit.dev)
- - date_published: 2024-10-25T18:56:27+00:00
-
- ## GitWit: Ship React apps in minutes
- - [https://gitwit.dev](https://gitwit.dev)
- - date_published: 2024-10-23T12:08:28+00:00
-
- ## GitWit Library
- - [https://library.gitwit.dev](https://library.gitwit.dev)
- - date_published: 2024-10-30T08:36:41.426673+00:00
-
- ## GitWit React
- - [https://react.gitwit.dev](https://react.gitwit.dev)
- - date_published: 2024-10-30T08:36:36.395704+00:00
-
- ## Sandbox
- - [https://sandbox.gitwit.dev](https://sandbox.gitwit.dev)
- - date_published: 2024-10-30T08:36:45.151019+00:00
-
- ## 🧊 The missing Package Manager for Kubernetes 📦 | Glasskube.dev
- - [https://glasskube.dev](https://glasskube.dev)
- - date_published: 2024-02-02T14:48:31.122557+00:00
- - tags: ['package manager']
-
- ## Oops! This project isn't running.
- - [https://glitch.dev](https://glitch.dev)
- - date_published: 2024-07-12T17:58:32.357232+00:00
-
- ## Hello! I'm @glpzzz
- - [https://glpzzz.dev](https://glpzzz.dev)
- - date_published: 2024-03-03T00:00:00+00:00
- - tags: ['personal']
-
- ## Giampaolo Rodola
- - [https://gmpy.dev](https://gmpy.dev)
- - date_published: 2023-03-16T22:41:58+00:00
-
- ## The Go Programming Language
- - [https://go.dev](https://go.dev)
- - date_published: 2023-10-25T08:38:22.802255+00:00
- - tags: ['go', 'programming language']
-
- ## Get Started - The Go Programming Language
- - [https://learn.go.dev](https://learn.go.dev)
- - date_published: 2024-08-07T19:56:26.724900+00:00
 

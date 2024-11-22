@@ -1,3 +1,55 @@
+ ## Página de inicio - Unidad de Educación Continua - I.U. Pascual Bravo
+ - [https://educacioncontinua.pascualbravo.edu.co](https://educacioncontinua.pascualbravo.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Unidad de EducaciÃ³n Digital
+ - [https://mercurio.pascualbravo.edu.co](https://mercurio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:15.432028+00:00
+
+ ## Inicio - Institución Universitaria Pascual Bravo
+ - [https://pascualbravo.edu.co](https://pascualbravo.edu.co)
+ - date_published: 2024-06-12T03:34:57.633125+00:00
+
+ ## Institucion Universitaria Pascual Bravo: Home
+ - [https://repositorio.pascualbravo.edu.co](https://repositorio.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:32.568514+00:00
+
+ ## Revista CINTEX
+ - [https://revistas.pascualbravo.edu.co](https://revistas.pascualbravo.edu.co)
+ - date_published: 2024-06-12T11:28:27.678794+00:00
+
+ ## SICAU - Acceso no autorizado
+ - [http://sicau.pascualbravo.edu.co](http://sicau.pascualbravo.edu.co)
+ - date_published: 2016-10-20T16:38:17+00:00
+
+ ## Campus Digital
+ - [https://pascualbravovirtual.edu.co](https://pascualbravovirtual.edu.co)
+ - date_published: 2024-06-12T11:28:12.198264+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://directorio.pedagogica.edu.co](http://directorio.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://estilos.pedagogica.edu.co](http://estilos.pedagogica.edu.co)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Inicio | UPN
+ - [https://pqrsfd.pedagogica.edu.co](https://pqrsfd.pedagogica.edu.co)
+ - date_published: 2024-06-12T03:12:24.934979+00:00
+
+ ## UPN
+ - [http://www.pedagogica.edu.co](http://www.pedagogica.edu.co)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## | Politécnico Grancolombiano
+ - [https://poli.edu.co](https://poli.edu.co)
+ - date_published: 2024-06-12T12:15:01.726761+00:00
+
+ ## Poliradio » PoliRadio
+ - [https://poliradio.poligran.edu.co](https://poliradio.poligran.edu.co)
+ - date_published: 2024-09-12T14:41:02.107180+00:00
+
  ## Fundación Universitaria San Mateo: Educación de calidad
  - [https://www.sanmateo.edu.co](https://www.sanmateo.edu.co)
  - date_published: 2024-09-11T16:51:57.822872+00:00
@@ -3981,62 +4033,4 @@
  ## Ricky Miller's wwwebsite
  - [https://ricky.codes](https://ricky.codes)
  - date_published: 2024-07-23T23:32:19.023373+00:00
-
- ## Great Books - A Liberal Education
- - [https://books.rory.codes](https://books.rory.codes)
- - date_published: 2024-04-30T07:17:45.438551+00:00
-
- ## Day by Day - Rory Flint
- - [https://days.rory.codes](https://days.rory.codes)
- - date_published: 2023-10-25T09:03:59.903891+00:00
- - tags: ['personal']
-
- ## Home
- - [https://rory.codes](https://rory.codes)
- - date_published: 2023-12-17T16:41:47.575823+00:00
- - tags: ['personal']
-
- ## 로토의 블로그
- - [https://blog.roto.codes](https://blog.roto.codes)
- - date_published: 2024-07-14T09:54:43.494617+00:00
-
- ## Hi! I'm Rowdy.
-            - { r()wdy.c[]des: true }
- - [https://rowdy.codes](https://rowdy.codes)
- - date_published: 2024-05-22T00:00:00+00:00
- - tags: ['personal']
-
- ## ryjo.codes - Ryan Johnston's Personal Website
- - [https://ryjo.codes](https://ryjo.codes)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sarah Federman - UX Engineer
- - [https://sarah.codes](https://sarah.codes)
- - date_published: 2024-05-29T20:57:59.343723+00:00
- - tags: ['personal']
-
- ## Home
- - [http://schulz.codes](http://schulz.codes)
- - date_published: 2024-06-23T08:13:20.073424+00:00
-
- ## Sia Karamalegos, Web Performance
- - [https://sia.codes](https://sia.codes)
- - date_published: 2024-05-09T00:00:00+00:00
- - tags: ['personal']
-
- ## Code Line Daily
- - [https://cld.silvestar.codes](https://cld.silvestar.codes)
- - date_published: 2020-08-08T00:00:00+00:00
-
- ## My home ✣ S.Bistrović
- - [https://silvestar.codes](https://silvestar.codes)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Starter Project ✣ S.Bistrović
- - [https://starter.silvestar.codes](https://starter.silvestar.codes)
- - date_published: 2024-09-04T03:29:04.171992+00:00
-
- ## Søren Johanson | Freelance Software Engineer
- - [https://soeren.codes](https://soeren.codes)
- - date_published: 2024-08-08T15:24:43.457537+00:00
 

@@ -1,3 +1,155 @@
+ ## TUM School of Computation, Information and Technology
+ - [http://www.lkn.ei.tum.de](http://www.lkn.ei.tum.de)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://www.ma.tum.de](http://www.ma.tum.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Department of Science, Technology and Society
+ - [https://www.mcts.tum.de](https://www.mcts.tum.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.mec.ed.tum.de](https://www.mec.ed.tum.de)
+ - date_published: 2024-08-08T23:03:32.565910+00:00
+
+ ## Startseite
+ - [https://www.mh.tum.de](https://www.mh.tum.de)
+ - date_published: 2024-07-24T04:20:11.803466+00:00
+
+ ## Home | TUM
+ - [https://www.moodle.tum.de](https://www.moodle.tum.de)
+ - date_published: 2024-08-11T06:40:12+00:00
+
+ ## MRI TUM
+ - [https://www.mri.tum.de](https://www.mri.tum.de)
+ - date_published: 2024-07-24T04:20:13.800634+00:00
+
+ ## Startseite
+ - [https://www.nat.tum.de](https://www.nat.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.ph.nat.tum.de](https://www.ph.nat.tum.de)
+ - date_published: 2024-08-11T06:40:11.438706+00:00
+
+ ## Professoren an der Technischen Universität München (TUM) - Akademische Exzellenz
+ - [https://www.professoren.tum.de](https://www.professoren.tum.de)
+ - date_published: 2024-04-29T06:56:38.550596+00:00
+
+ ## Home
+ - [https://www.prolehre.tum.de](https://www.prolehre.tum.de)
+ - date_published: 2024-04-29T06:56:41.969327+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://www.rcs.ei.tum.de](http://www.rcs.ei.tum.de)
+ - date_published: 2024-07-12T16:27:12.293779+00:00
+
+ ## Home
+ - [https://www.sot.tum.de](https://www.sot.tum.de)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Department of Science, Technology and Society
+ - [https://www.sts.sot.tum.de](https://www.sts.sot.tum.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Think. Make. Start. – Build your own prototypes
+ - [https://www.tms.tum.de](https://www.tms.tum.de)
+ - date_published: 2024-08-08T23:03:37.439399+00:00
+
+ ## Startseite - TUM Community
+ - [http://www.together.tum.de](http://www.together.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.typo3.tum.de](https://www.typo3.tum.de)
+ - date_published: 2024-07-24T04:21:05.273718+00:00
+
+ ## Uniting Management and Technology | TUM School of Management
+ - [https://www.wi.tum.de](https://www.wi.tum.de)
+ - date_published: 2024-08-11T06:41:21.784862+00:00
+
+ ## Startseite
+ - [https://www.zv.tum.de](https://www.zv.tum.de)
+ - date_published: 2024-04-29T06:56:36.119166+00:00
+
+ ## Startseite
+ - [https://tum4health.de](https://tum4health.de)
+ - date_published: 2024-04-29T06:57:01.568063+00:00
+
+ ## Universitätsklinikum Freiburg - Reha gGmbH | Universitätsklinikum Freiburg - Reha gGmbH
+ - [https://www.tumorbiologie-freiburg.de](https://www.tumorbiologie-freiburg.de)
+ - date_published: 2024-07-24T06:20:28.249072+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://mailmanbroy.informatik.tu-muenchen.de](https://mailmanbroy.informatik.tu-muenchen.de)
+ - date_published: 2019-03-06T10:33:41+00:00
+
+ ## Chair for Database Systems
+ - [http://www3.informatik.tu-muenchen.de](http://www3.informatik.tu-muenchen.de)
+ - date_published: 2024-09-02T16:21:10.733426+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www4.informatik.tu-muenchen.de](http://www4.informatik.tu-muenchen.de)
+ - date_published: 2024-07-04T11:18:00.036179+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www.informatik.tu-muenchen.de](http://www.informatik.tu-muenchen.de)
+ - date_published: 2024-06-20T13:13:27.363586+00:00
+
+ ## Physics Department, TUM | Home
+ - [http://www.physik.tu-muenchen.de](http://www.physik.tu-muenchen.de)
+ - date_published: 2024-07-13T03:59:56.485781+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www.tu-muenchen.de](http://www.tu-muenchen.de)
+ - date_published: 2024-07-13T03:59:51.430852+00:00
+
+ ## TUM Universitätsstiftung: gemeinsam die TUM fördern
+ - [https://www.tum-universitaetsstiftung.de](https://www.tum-universitaetsstiftung.de)
+ - date_published: 2024-04-29T06:57:08.865106+00:00
+
+ ## TUM Venture Labs x TUM Venture Labs
+ - [https://tum-venture-labs.de](https://tum-venture-labs.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
+ - [https://tunkl.de](https://tunkl.de)
+ - date_published: 2024-01-01T03:39:24.415411+00:00
+
+ ## Der Kommunikationsclub | turi2
+ - [https://www.turi2.de](https://www.turi2.de)
+ - date_published: 2024-07-08T19:36:37.054747+00:00
+
+ ## Befähigen Sie Studierende, ihre beste, eigenständige Arbeit zu leisten | Turnitin
+ - [https://www.turnitin.de](https://www.turnitin.de)
+ - date_published: 2024-10-03T13:38:14+00:00
+
+ ## Andreas Zwinkau
+ - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
+ - date_published: 2023-10-25T18:33:06.452394+00:00
+
+ ## groffstudio
+ - [https://groff.tuxproject.de](https://groff.tuxproject.de)
+ - date_published: 2024-07-10T06:32:24.726444+00:00
+
+ ## Stadtπrat
+ - [https://stadtrat.tuxproject.de](https://stadtrat.tuxproject.de)
+ - date_published: 2024-07-03T18:58:44+00:00
+
+ ## tuxproject.de :: Scheibe Wurst dazu?
+ - [https://tuxproject.de](https://tuxproject.de)
+ - date_published: 2024-05-09T07:49:05.827641+00:00
+
+ ## Tux-Tage – Menschen und Wissen vernetzen
+ - [https://www.tux-tage.de](https://www.tux-tage.de)
+ - date_published: 2024-04-29T20:15:26+00:00
+
+ ## Kevin James' neue Netflix-Serie ist eine Zeitreise (der schlechten Art)
+ - [https://www.tvdigital.de](https://www.tvdigital.de)
+ - date_published: 2024-06-25T22:09:00+00:00
+
  ## Startseite - TV Movie star lounge
  - [https://www.tvmovie-lounge.de](https://www.tvmovie-lounge.de)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -3850,158 +4002,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Viktor Garske
  - [https://ai.v-gar.de](https://ai.v-gar.de)
  - date_published: 2023-05-29T20:09:31+00:00
-
- ## Viktors Blog
- - [https://blog.v-gar.de](https://blog.v-gar.de)
- - date_published: 2024-04-29T07:02:16.864479+00:00
- - tags: ['personal']
-
- ## Toolserver
- - [https://tools.v-gar.de](https://tools.v-gar.de)
- - date_published: 2024-07-24T03:31:40.212293+00:00
-
- ## Viktor Garske
- - [https://v-gar.de](https://v-gar.de)
- - date_published: 2024-04-29T07:02:15.649190+00:00
- - tags: ['personal']
-
- ## VGH Versicherungen aus Niedersachsen | VGH
- - [https://www.vgh.de](https://www.vgh.de)
- - date_published: 2024-07-20T15:25:17+00:00
-
- ## index
- - [https://vgnpwr.de](https://vgnpwr.de)
- - date_published: 2024-02-17T17:32:12+00:00
-
- ## Verband der Gründer und Selbstständigen - Wir geben dir eine Stimme
- - [https://www.vgsd.de](https://www.vgsd.de)
- - date_published: 2024-07-10T07:40:36.060455+00:00
-
- ## blank.gif (1×1)
- - [https://vg05.met.vgwort.de](https://vg05.met.vgwort.de)
- - date_published: 2024-04-29T06:16:28.686180+00:00
-
- ## blank.gif (1×1)
- - [https://vg06.met.vgwort.de](https://vg06.met.vgwort.de)
- - date_published: 2024-04-29T06:44:18.728686+00:00
-
- ## Startseite - VG WORT
- - [https://vgwort.de](https://vgwort.de)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## start [VHDL-Online]
- - [https://www.vhdl-online.de](https://www.vhdl-online.de)
- - date_published: 2024-04-29T09:22:04+00:00
-
- ## Startseite
- - [https://www.viadee.de](https://www.viadee.de)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [https://www.viagateway-th.de](https://www.viagateway-th.de)
- - date_published: 2024-10-18T23:28:52.676116+00:00
-
- ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
- - [https://www.viagogo.de](https://www.viagogo.de)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## VIA REGIA - Barrierefreies Reisen entlang der Kulturroute des Europarates
- - [http://via-regia-barrierefrei.de](http://via-regia-barrierefrei.de)
- - date_published: 2024-08-19T21:50:58.568393+00:00
-
- ## Home
- - [http://www.viaregia-sachsen.de](http://www.viaregia-sachsen.de)
- - date_published: 2024-08-19T21:51:06.335358+00:00
-
- ## AKTUELL
- - [https://www.viaregia-sachsen-anhalt.de](https://www.viaregia-sachsen-anhalt.de)
- - date_published: 2024-08-19T21:51:08.473140+00:00
-
- ## Page Redirection
- - [https://vibecyber.de](https://vibecyber.de)
- - date_published: 2023-03-02T11:01:30+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.de](https://www.victronenergy.de)
- - date_published: 2024-06-21T18:24:23+00:00
-
- ## IOAM
- - [https://data-c5925d7d99.videogameszone.de](https://data-c5925d7d99.videogameszone.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## Videogameszone Forum
- - [https://forum.videogameszone.de](https://forum.videogameszone.de)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## videogameszone.de - Stellenmarkt
- - [https://jobs.videogameszone.de](https://jobs.videogameszone.de)
- - date_published: 2024-08-06T17:59:39.025494+00:00
-
- ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
- - [https://mobile.videogameszone.de](https://mobile.videogameszone.de)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
- - [https://videogameszone.de](https://videogameszone.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Startseite - Vielfalt Plus⁺
- - [https://www.vielfalt-plus.de](https://www.vielfalt-plus.de)
- - date_published: 2019-08-24T12:59:49+00:00
-
- ## Willkommen - Virtuelle Fachbibliothek Biologie (vifabio)
- - [http://www.vifabio.de](http://www.vifabio.de)
- - date_published: 2024-08-18T14:43:53.799577+00:00
-
- ## Villa Hügel in Essen
- - [http://www.villahuegel.de](http://www.villahuegel.de)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Vimcar Support - FAQ Bereich | Vimcar GmbH
- - [https://support.vimcar.de](https://support.vimcar.de)
- - date_published: 2024-10-25T09:32:57+00:00
-
- ## Fahrzeugverwaltung professionell und effizient | Vimcar
- - [https://vimcar.de](https://vimcar.de)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## VIMpay Support Center
- - [https://support.vimpay.de](https://support.vimpay.de)
- - date_published: 2024-10-09T12:24:38.568441+00:00
-
- ## Violence Prevention Network
- - [https://violence-prevention-network.de](https://violence-prevention-network.de)
- - date_published: 2024-09-12T16:04:02.604246+00:00
-
- ## Home / Viren im Wasser
- - [https://viren-im-wasser.de](https://viren-im-wasser.de)
- - date_published: 2024-04-29T06:57:45.959379+00:00
-
- ## Wir gestalten die digitale Zukunft Deutschlands
- - [https://virtual7.de](https://virtual7.de)
- - date_published: 2024-07-24T06:05:24.023948+00:00
-
- ## Virtual Dimension Multimedia Produktionen
- - [http://aktuell.virtualdimension.de](http://aktuell.virtualdimension.de)
- - date_published: 2022-03-09T11:07:50+00:00
-
- ## European Modular Adtechnology Full Stack | virtual minds GmbH
- - [https://virtualminds.de](https://virtualminds.de)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Virtuopolis Ticket System
- - [https://www.virtuopolis.de](https://www.virtuopolis.de)
- - date_published: 2024-10-17T18:08:45.211027+00:00
-
- ## Visa, ein zuverlässiger Partner für digitale Zahlungen
- - [https://visa.de](https://visa.de)
- - date_published: 2024-05-12T03:59:55.905717+00:00
-
- ## Home
- - [https://www.viscotec.de](https://www.viscotec.de)
- - date_published: 2024-10-15T21:13:40.742503+00:00
-
- ## Alles über Berlins offizielle Tourismus- und Kongressorganisation | about.visitBerlin.de
- - [https://about.visitberlin.de](https://about.visitberlin.de)
- - date_published: 2024-09-23T00:00:00+00:00
 

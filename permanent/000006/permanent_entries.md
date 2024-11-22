@@ -1,3 +1,11 @@
+ ## https://go.shop.app
+ - [https://go.shop.app](https://go.shop.app)
+ - date_published: 2024-02-24T09:57:16.776865+00:00
+
+ ## Weryfikowanie połączenia...
+ - [https://shop.app](https://shop.app)
+ - date_published: 2024-04-28T03:00:17.300790+00:00
+
  ## Save Money & Earn Rewards
  - [https://www.shopruby.app](https://www.shopruby.app)
  - date_published: 2024-10-30T21:10:05.477926+00:00
@@ -1110,6 +1118,11 @@
  ## Vcity.app | 第五城
  - [https://vcity.app](https://vcity.app)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Free Video Downloader Extension – VeeVee
+ - [https://veevee.app](https://veevee.app)
+ - date_published: 2024-11-21T18:19:15+00:00
+ - tags: ['browser extension']
 
  ## Is it vegan? – Veganify
  - [https://veganify.app](https://veganify.app)
@@ -3907,7 +3920,7 @@
  ## Zen: Firefox Based Browser
  - [https://zen-browser.app](https://zen-browser.app)
  - date_published: 2024-10-19T10:59:42+00:00
- - tags: ['web browser']
+ - tags: ['zen browser', 'web browser']
 
  ## Zen Mode for macOS
  - [https://zenmode.app](https://zenmode.app)
@@ -4005,16 +4018,4 @@
  ## Imprenta para empresas » Colorprinter
  - [https://colorprinter.ar](https://colorprinter.ar)
  - date_published: 2021-05-03T14:20:25+00:00
-
- ## Agencia De Programación & Marketing | DeProg.ar
- - [https://deprog.ar](https://deprog.ar)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Giskard - Testing platform for AI models
- - [https://gisk.ar](https://gisk.ar)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Recopilador de contenidos curados | iyaki
- - [https://curated.iyaki.ar](https://curated.iyaki.ar)
- - date_published: 2024-09-14T00:44:41+00:00
 
