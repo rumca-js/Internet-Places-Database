@@ -1,3 +1,91 @@
+ ## The Blake Center for Faith and Freedom | Hillsdale College
+ - [https://blakecenter.hillsdale.edu](https://blakecenter.hillsdale.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Hillsdale Dialogues | Hillsdale College
+ - [https://blog.hillsdale.edu](https://blog.hillsdale.edu)
+ - date_published: 2024-07-20T01:19:38+00:00
+
+ ## Home
+ - [http://bookstore.hillsdale.edu](http://bookstore.hillsdale.edu)
+ - date_published: 2024-08-11T12:37:17.582934+00:00
+
+ ## Hillsdale College | Work for good. Work for Hillsdale.
+ - [https://careers.hillsdale.edu](https://careers.hillsdale.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Hillsdale College | Hillsdale College
+ - [https://catalog.hillsdale.edu](https://catalog.hillsdale.edu)
+ - date_published: 2024-07-27T16:33:16+00:00
+
+ ## Home | The Center for Commerce and Freedom | Hillsdale College
+ - [https://ccf.hillsdale.edu](https://ccf.hillsdale.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Graduate School of Education | Hillsdale College
+ - [https://classicalgrad.hillsdale.edu](https://classicalgrad.hillsdale.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home | Hillsdale in D.C.
+ - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
+ - date_published: 2023-10-25T18:52:19.460793+00:00
+
+ ## Events Calendar
+ - [http://events.hillsdale.edu](http://events.hillsdale.edu)
+ - date_published: 2024-08-11T12:37:23.275785+00:00
+
+ ## Hillsdale College Freedom Library
+ - [https://freedomlibrary.hillsdale.edu](https://freedomlibrary.hillsdale.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://gradschool.hillsdale.edu](https://gradschool.hillsdale.edu)
+ - date_published: 2024-08-06T20:01:45.682250+00:00
+
+ ## Developing Minds. Improving Hearts. Hillsdale College
+ - [https://hillsdale.edu](https://hillsdale.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Imprimis
+ - [https://imprimis.hillsdale.edu](https://imprimis.hillsdale.edu)
+ - date_published: 2024-07-21T10:48:42+00:00
+
+ ## Hillsdale College K-12 At Home
+ - [https://k12athome.hillsdale.edu](https://k12athome.hillsdale.edu)
+ - date_published: 2022-09-20T19:07:42+00:00
+
+ ## The Classical Classroom – A glimpse inside Hillsdale College's network of classical schools across the country.
+ - [https://k12blog.hillsdale.edu](https://k12blog.hillsdale.edu)
+ - date_published: 2024-08-06T20:01:41.656590+00:00
+
+ ## Home
+ - [https://k12.hillsdale.edu](https://k12.hillsdale.edu)
+ - date_published: 2024-04-28T05:59:02.187698+00:00
+
+ ## Developing Minds. Improving Hearts. Hillsdale College
+ - [https://lp.hillsdale.edu](https://lp.hillsdale.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.hillsdale.edu](https://my.hillsdale.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Hillsdale College Online Courses
+ - [https://online.hillsdale.edu](https://online.hillsdale.edu)
+ - date_published: 2024-07-19T07:06:04+00:00
+
+ ## Home - Hillsdale College Podcast Network
+ - [https://podcast.hillsdale.edu](https://podcast.hillsdale.edu)
+ - date_published: 2024-08-11T12:37:26.157890+00:00
+
+ ## Support Hillsdale College
+ - [https://secured.hillsdale.edu](https://secured.hillsdale.edu)
+ - date_published: 2024-08-11T12:35:57.719667+00:00
+
+ ## Home Halter
+ - [https://shootingsports.hillsdale.edu](https://shootingsports.hillsdale.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Hillsdale College | Official Store
  - [https://shop.hillsdale.edu](https://shop.hillsdale.edu)
  - date_published: 2024-04-30T04:56:07.440908+00:00
@@ -3921,93 +4009,4 @@ Data Services
  ## Department of Chemistry and Biochemistry –  | Kalamazoo College
  - [https://chemistry.kzoo.edu](https://chemistry.kzoo.edu)
  - date_published: 2024-05-07T19:22:40.957290+00:00
-
- ## Center for International Programs –  | Kalamazoo College
- - [https://cip.kzoo.edu](https://cip.kzoo.edu)
- - date_published: 2024-05-07T19:21:49.147558+00:00
-
- ## Classics –  | Kalamazoo College
- - [https://classics.kzoo.edu](https://classics.kzoo.edu)
- - date_published: 2024-05-07T19:24:05.747587+00:00
-
- ## Commencement –  | Kalamazoo College
- - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
- - date_published: 2024-02-08T17:31:34.676457+00:00
-
- ## Computer Science –  | Kalamazoo College
- - [https://computerscience.kzoo.edu](https://computerscience.kzoo.edu)
- - date_published: 2024-05-07T19:23:50.796434+00:00
-
- ## Copyright at K –  | Kalamazoo College
- - [https://copyright.kzoo.edu](https://copyright.kzoo.edu)
- - date_published: 2024-05-07T19:24:17.499264+00:00
-
- ## Counseling Center –  | Kalamazoo College
- - [https://counseling.kzoo.edu](https://counseling.kzoo.edu)
- - date_published: 2024-05-07T19:21:33.332935+00:00
-
- ## COVID-19 Information –  | Kalamazoo College
- - [https://covid.kzoo.edu](https://covid.kzoo.edu)
- - date_published: 2024-05-07T19:30:16.485068+00:00
-
- ## Critical Ethnic Studies –  | Kalamazoo College
- - [https://criticalethnicstudies.kzoo.edu](https://criticalethnicstudies.kzoo.edu)
- - date_published: 2024-05-07T19:24:26.268394+00:00
-
- ## Critical Theory Concentration –  | Kalamazoo College
- - [https://criticaltheory.kzoo.edu](https://criticaltheory.kzoo.edu)
- - date_published: 2024-05-07T19:21:19.374102+00:00
-
- ## DEI – Diversity, Equity and Inclusion Initiatives at K –  | Kalamazoo College
- - [https://dei.kzoo.edu](https://dei.kzoo.edu)
- - date_published: 2024-05-07T19:23:43.222020+00:00
- - tags: ['dei']
-
- ## Disability Services for Students –  | Kalamazoo College
- - [https://disabilities.kzoo.edu](https://disabilities.kzoo.edu)
- - date_published: 2024-05-07T19:24:47.880874+00:00
-
- ## East Asian Studies –  | Kalamazoo College
- - [https://eas.kzoo.edu](https://eas.kzoo.edu)
- - date_published: 2024-05-07T19:22:10.135714+00:00
-
- ## Economics and Business –  | Kalamazoo College
- - [https://econbusn.kzoo.edu](https://econbusn.kzoo.edu)
- - date_published: 2024-05-07T19:22:20.551036+00:00
-
- ## EMS Redirect
- - [https://ems.kzoo.edu](https://ems.kzoo.edu)
- - date_published: 2023-10-16T19:08:29+00:00
-
- ## English –  | Kalamazoo College
- - [https://english.kzoo.edu](https://english.kzoo.edu)
- - date_published: 2024-05-07T19:21:57.626281+00:00
-
- ## Environmental Studies –  | Kalamazoo College
- - [https://environmentalstudies.kzoo.edu](https://environmentalstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:23.723753+00:00
-
- ## Environmental Stewardship Center –  | Kalamazoo College
- - [https://envirostewardship.kzoo.edu](https://envirostewardship.kzoo.edu)
- - date_published: 2024-05-07T19:24:21.709206+00:00
-
- ## Educational Policies Committee –  | Kalamazoo College
- - [https://epc.kzoo.edu](https://epc.kzoo.edu)
- - date_published: 2024-05-07T19:22:59.036045+00:00
-
- ## Facilities Management –  | Kalamazoo College
- - [https://facilities.kzoo.edu](https://facilities.kzoo.edu)
- - date_published: 2024-05-07T19:22:15.602461+00:00
-
- ## Faculty Grant Assistance –  | Kalamazoo College
- - [https://facultygrants.kzoo.edu](https://facultygrants.kzoo.edu)
- - date_published: 2024-05-07T19:22:53.435750+00:00
-
- ## Log in to Faculty Development Committee
- - [https://fdc.kzoo.edu](https://fdc.kzoo.edu)
- - date_published: 2024-05-07T19:21:46.604098+00:00
-
- ## Grants, Scholarships and Fellowships –  | Kalamazoo College
- - [https://fellowships.kzoo.edu](https://fellowships.kzoo.edu)
- - date_published: 2024-03-15T00:00:00+00:00
 

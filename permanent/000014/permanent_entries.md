@@ -1,3 +1,16 @@
+ ## Invidious - search
+ - [https://yewtu.be](https://yewtu.be)
+ - date_published: 2023-10-24T20:05:36.098030+00:00
+ - tags: ['youtube']
+
+ ## Youreka ∙ 360° Virtual Tours ∙ Show Don't Tell
+ - [https://youreka-virtualtours.be](https://youreka-virtualtours.be)
+ - date_published: 2024-10-22T10:53:44.348458+00:00
+
+ ## Yous
+ - [https://yous.be](https://yous.be)
+ - date_published: 2024-08-03T07:39:53+00:00
+
  ## YouTube
  - [https://youtu.be](https://youtu.be)
  - date_published: 2023-11-08T20:32:57.103890+00:00
@@ -4046,16 +4059,4 @@
  ## The Art Of Not Asking Why
  - [https://jtr-test.micro.blog](https://jtr-test.micro.blog)
  - date_published: 2024-06-26T17:37:39+00:00
-
- ## Ken Kocienda
- - [https://kocienda.micro.blog](https://kocienda.micro.blog)
- - date_published: 2024-04-11T17:12:36+00:00
-
- ## Lex Friedman
- - [https://lex.micro.blog](https://lex.micro.blog)
- - date_published: 2024-07-03T20:17:38+00:00
-
- ## Link Punk: A Linkblog
- - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
- - date_published: 2024-06-17T22:01:16+00:00
 

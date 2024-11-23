@@ -1,3 +1,127 @@
+ ## lists.nongnu.org
+ - [https://lists.nongnu.org](https://lists.nongnu.org)
+ - date_published: 2021-01-02T17:59:32+00:00
+
+ ## Welcome [Savannah]
+ - [https://nongnu.org](https://nongnu.org)
+ - date_published: 2023-12-08T15:49:15.150101+00:00
+
+ ## Welcome [Savannah]
+ - [https://savannah.nongnu.org](https://savannah.nongnu.org)
+ - date_published: 2024-05-10T03:58:19.722480+00:00
+
+ ## MIT's Optics and Quantum Electronics Seminar
+ - [https://oqe.nonlocally.org](https://oqe.nonlocally.org)
+ - date_published: 2024-07-01T05:47:08.723548+00:00
+
+ ## nonmetallic.org | non-metallic.org | 38800 Country Club Dr, Farmington Hills, MI 48331, USA
+ - [https://www.nonmetallic.org](https://www.nonmetallic.org)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Nonprofit Association of the Midlands | NAM
+ - [https://www.nonprofitam.org](https://www.nonprofitam.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Homepage - Non Profit News | Nonprofit Quarterly
+ - [https://nonprofitquarterly.org](https://nonprofitquarterly.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## James Martin Center for Nonproliferation Studies (CNS)
+ - [https://nonproliferation.org](https://nonproliferation.org)
+ - date_published: 2024-06-17T10:48:46.930419+00:00
+
+ ## 70+ UK Casinos Not on GamStop » Best Sites of October 2024
+ - [https://nongamstop.nonstopcasino.org](https://nongamstop.nonstopcasino.org)
+ - date_published: 2024-10-30T14:01:07+00:00
+
+ ## 70+ UK Casinos Not on GamStop » Best Sites of August 2024
+ - [https://nonstopcasino.org](https://nonstopcasino.org)
+ - date_published: 2024-08-06T09:11:42+00:00
+
+ ## 70+ UK Casinos Not on GamStop » Best Sites of July 2024
+ - [https://uk.nonstopcasino.org](https://uk.nonstopcasino.org)
+ - date_published: 2024-07-17T02:58:17+00:00
+
+ ## Nonsymbolic – Center for the Study of Non-Symbolic Consciousness
+ - [http://nonsymbolic.org](http://nonsymbolic.org)
+ - date_published: 2024-09-12T18:39:57.235398+00:00
+
+ ## Non-Trivial | Start solving the world's most pressing problems
+ - [https://non-trivial.org](https://non-trivial.org)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Homepage | ICNC
+ - [https://www.nonviolent-conflict.org](https://www.nonviolent-conflict.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home
+ - [https://give.nonviolentpeaceforce.org](https://give.nonviolentpeaceforce.org)
+ - date_published: 2024-10-28T02:29:08.801988+00:00
+
+ ## Cierpliwości...
+ - [http://nonviolentpeaceforce.org](http://nonviolentpeaceforce.org)
+ - date_published: 2024-06-19T05:37:00.853675+00:00
+
+ ## #NoOffice - the definitive guide to working in a modern way!
+ - [https://nooffice.org](https://nooffice.org)
+ - date_published: 2023-04-06T21:19:17+00:00
+
+ ## Axel Beckert
+ - [http://noone.org](http://noone.org)
+ - date_published: 2024-07-03T00:22:57+00:00
+
+ ## NoOne'sListening.org
+ - [http://www.nooneslistening.org](http://www.nooneslistening.org)
+ - date_published: 2024-06-30T09:41:15.237114+00:00
+
+ ## noooxml.org
+ - [http://www.noooxml.org](http://www.noooxml.org)
+ - date_published: 2024-07-13T16:32:49.497930+00:00
+
+ ## Home | NO PATENTS ON SEEDS!
+ - [http://www.no-patents-on-seeds.org](http://www.no-patents-on-seeds.org)
+ - date_published: 2024-07-08T13:23:34.779656+00:00
+
+ ## Official NORAD Tracks Santa
+ - [https://noradsanta.org](https://noradsanta.org)
+ - date_published: 2023-10-25T21:49:15.959731+00:00
+
+ ## NORC at the University of Chicago
+ - [http://www.norc.org](http://www.norc.org)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Northern California Bats - Northern California Bats
+ - [https://norcalbats.org](https://norcalbats.org)
+ - date_published: 2024-06-15T03:49:05+00:00
+
+ ## NorCal QRP Club - Home Page
+ - [https://norcalqrp.org](https://norcalqrp.org)
+ - date_published: 2019-03-11T00:00:00+00:00
+
+ ## Northern California Water Association
+ - [https://norcalwater.org](https://norcalwater.org)
+ - date_published: 2024-01-24T20:56:43.500076+00:00
+
+ ## pub.norden.org
+ - [https://pub.norden.org](https://pub.norden.org)
+ - date_published: 2023-06-07T13:56:38+00:00
+
+ ## Front page | Nordic cooperation
+ - [http://www.norden.org](http://www.norden.org)
+ - date_published: 2024-06-17T04:30:43+00:00
+
+ ## Nordic Alcohol Policy Report
+ - [https://www.nordicalcohol.org](https://www.nordicalcohol.org)
+ - date_published: 2024-10-18T21:27:02.319109+00:00
+
+ ## Nordic Game Lab LLC
+ - [https://nordicgamelab.org](https://nordicgamelab.org)
+ - date_published: 2024-08-18T04:35:11.995108+00:00
+
+ ## Welcome • Nordic Game 2024
+ - [http://www.nordicgameprogram.org](http://www.nordicgameprogram.org)
+ - date_published: 2023-12-18T06:00:19+00:00
+
  ## Front page
  - [https://www.nordicinnovation.org](https://www.nordicinnovation.org)
  - date_published: 2024-09-13T10:59:26+00:00
@@ -3903,131 +4027,4 @@
  ## OpenCog Foundation
  - [https://opencog.org](https://opencog.org)
  - date_published: 2024-07-14T19:23:48.533222+00:00
-
- ## OpenColorIO
- - [https://opencolorio.org](https://opencolorio.org)
- - date_published: 2023-04-18T03:23:41+00:00
-
- ## Open Compute Project
- - [https://opencompute.org](https://opencompute.org)
- - date_published: 2023-10-27T12:06:56.023487+00:00
-
- ## OpenConf Peer-Review, Conference and Abstract Management Software System
- - [https://www.openconf.org](https://www.openconf.org)
- - date_published: 2024-07-08T18:11:08.680765+00:00
-
- ## OpenCongress - Track bills, votes, senators, and representatives in the U.S. Congress
- - [http://www.opencongress.org](http://www.opencongress.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Open Container Initiative - Open Container Initiative
- - [https://opencontainers.org](https://opencontainers.org)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Open Context
- - [https://opencontext.org](https://opencontext.org)
- - date_published: 2024-06-24T09:59:43.348709+00:00
-
- ## Data Registry | Open Contracting Partnership
- - [https://data.open-contracting.org](https://data.open-contracting.org)
- - date_published: 2024-09-12T15:08:29.392705+00:00
-
- ## Open Contracting Partnership
- - [https://open-contracting.org](https://open-contracting.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Open Contracting Data Standard — Open Contracting Data Standard 1.1.5 documentation
- - [https://standard.open-contracting.org](https://standard.open-contracting.org)
- - date_published: 2024-09-12T15:08:31.681276+00:00
-
- ## Open Corridor
- - [https://opencorridor.org](https://opencorridor.org)
- - date_published: 2023-10-25T02:55:11+00:00
-
- ## Producing and Reproducing Results
- - [https://www.opencpu.org](https://www.opencpu.org)
- - date_published: 2024-05-02T19:20:04+00:00
-
- ## Open Crypto Audit Project
- - [https://opencryptoaudit.org](https://opencryptoaudit.org)
- - date_published: 2015-04-02T14:40:39+00:00
-
- ## OpenCSW Solaris packages
- - [https://www.opencsw.org](https://www.opencsw.org)
- - date_published: 2024-08-18T18:58:31.436834+00:00
-
- ## OpenCtx
- - [https://openctx.org](https://openctx.org)
- - date_published: 2024-08-11T10:10:19.054343+00:00
-
- ## OpenCV documentation index
- - [https://docs.opencv.org](https://docs.opencv.org)
- - date_published: 2024-05-08T03:58:20.942862+00:00
-
- ## OpenCV
- - [https://forum.opencv.org](https://forum.opencv.org)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Home
- - [https://opencv.org](https://opencv.org)
- - date_published: 2023-11-27T11:43:39.740043+00:00
- - tags: ['machine learning', 'computer vision', 'artificial intelligence', 'facial recognition']
-
- ## OpenCycleMap.org - the OpenStreetMap Cycle Map
- - [https://www.opencyclemap.org](https://www.opencyclemap.org)
- - date_published: 2023-12-04T15:04:23+00:00
-
- ## opendaap.org
- - [http://www.opendaap.org](http://www.opendaap.org)
- - date_published: 2024-07-13T11:13:44.970414+00:00
-
- ## Open Data Capture
- - [https://demo.opendatacapture.org](https://demo.opendatacapture.org)
- - date_published: 2024-07-22T17:39:34+00:00
-
- ## Open Data Capture - Instrument Playground
- - [https://playground.opendatacapture.org](https://playground.opendatacapture.org)
- - date_published: 2024-07-22T16:04:46+00:00
-
- ## Home — Open Data Commons: legal tools for open data
- - [https://opendatacommons.org](https://opendatacommons.org)
- - date_published: 2023-10-03T13:40:30+00:00
-
- ## Open Data Day 2024 – Celebrate #opendata where you are
- - [https://opendataday.org](https://opendataday.org)
- - date_published: 2024-06-12T06:02:32.777499+00:00
- - tags: ['open data']
-
- ## Home - Center for Open Data Enterprise
- - [https://www.opendataenterprise.org](https://www.opendataenterprise.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The Open Data Handbook
- - [https://opendatahandbook.org](https://opendatahandbook.org)
- - date_published: 2018-05-22T14:45:12+00:00
-
- ## OpenDaylight
- - [https://www.opendaylight.org](https://www.opendaylight.org)
- - date_published: 2024-05-20T23:05:03+00:00
-
- ## OpenDC
- - [http://opendc.org](http://opendc.org)
- - date_published: 2024-02-18T19:44:59+00:00
-
- ## Open Data Description Language
- - [https://openddl.org](https://openddl.org)
- - date_published: 2024-03-10T03:00:15+00:00
-
- ## The Licenses Service - an API for Open Licenses - from the Open Knowledge Foundation
- - [https://licenses.opendefinition.org](https://licenses.opendefinition.org)
- - date_published: 2023-03-24T05:15:06+00:00
-
- ## The Open Definition - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge
- - [https://opendefinition.org](https://opendefinition.org)
- - date_published: 2024-02-12T09:11:31+00:00
- - tags: ['open data', 'open source', 'open hardware']
-
- ## Download free website templates from OpenDesigns.org
- - [http://www.opendesigns.org](http://www.opendesigns.org)
- - date_published: 2020-11-12T03:02:36+00:00
 

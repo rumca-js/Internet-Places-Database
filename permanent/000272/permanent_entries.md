@@ -1,3 +1,91 @@
+ ## Utah Arch
+ - [https://arch.cs.utah.edu](https://arch.cs.utah.edu)
+ - date_published: 2024-04-03T16:29:39+00:00
+
+ ## Arts Tickets
+ - [https://artstickets.utah.edu](https://artstickets.utah.edu)
+ - date_published: 2024-09-10T08:35:35.616833+00:00
+
+ ## U Asia Campus
+ - [https://asiacampus.utah.edu](https://asiacampus.utah.edu)
+ - date_published: 2024-07-02T11:18:30.216543+00:00
+
+ ## Department of Atmospheric Sciences - The University of Utah
+ - [https://atmos.utah.edu](https://atmos.utah.edu)
+ - date_published: 2024-07-02T11:36:25.622021+00:00
+
+ ## @theU
+ - [https://attheu.utah.edu](https://attheu.utah.edu)
+ - date_published: 2024-05-07T22:10:01.319459+00:00
+
+ ## University of Utah - Portal
+ - [https://auxiliary.apps.utah.edu](https://auxiliary.apps.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## Basic Needs - The University of Utah
+ - [https://basicneeds.utah.edu](https://basicneeds.utah.edu)
+ - date_published: 2024-07-02T11:33:06.216575+00:00
+
+ ## Bennion Center - The University of Utah
+ - [https://bennioncenter.utah.edu](https://bennioncenter.utah.edu)
+ - date_published: 2024-07-02T11:32:55.990567+00:00
+
+ ## BHIDC - The University of Utah
+ - [https://bhidc.utah.edu](https://bhidc.utah.edu)
+ - date_published: 2024-07-02T11:27:37.997571+00:00
+
+ ## Ubox - The University of Utah
+ - [http://box.utah.edu](http://box.utah.edu)
+ - date_published: 2024-07-14T05:11:21.715013+00:00
+
+ ## Brand
+ - [https://brand.utah.edu](https://brand.utah.edu)
+ - date_published: 2024-07-02T11:18:16.891217+00:00
+
+ ## Campus Recreation Services - The University of Utah
+ - [https://campusrec.utah.edu](https://campusrec.utah.edu)
+ - date_published: 2024-07-02T11:18:35.721636+00:00
+
+ ## U Career Success
+ - [https://careers.utah.edu](https://careers.utah.edu)
+ - date_published: 2024-07-02T11:18:05.216365+00:00
+
+ ## University of Utah Catalog
+ - [https://catalog.utah.edu](https://catalog.utah.edu)
+ - date_published: 2024-07-02T11:32:28.904468+00:00
+
+ ## Center for Cell and Genome Science - The University of Utah
+ - [https://ccgs.utah.edu](https://ccgs.utah.edu)
+ - date_published: 2024-07-02T11:41:35.363290+00:00
+
+ ## University of Utah - Portal
+ - [https://cis.utah.edu](https://cis.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## Home Page - Civil & Environmental Engineering
+ - [https://civil.utah.edu](https://civil.utah.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Climate Action at the U
+ - [https://climate.utah.edu](https://climate.utah.edu)
+ - date_published: 2024-07-02T11:27:40.879030+00:00
+
+ ## Home Page - Civil & Environmental Engineering
+ - [https://construction.utah.edu](https://construction.utah.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Continuum | is now magazine.utah.edu
+ - [https://continuum.utah.edu](https://continuum.utah.edu)
+ - date_published: 2024-07-02T11:33:36.566227+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19)
+ - [https://coronavirus.utah.edu](https://coronavirus.utah.edu)
+ - date_published: 2020-02-11T00:00:00+00:00
+
+ ## Counseling Services - University of Utah Counseling Center - The University of Utah
+ - [https://counselingcenter.utah.edu](https://counselingcenter.utah.edu)
+ - date_published: 2024-07-02T11:33:04.199347+00:00
+
  ## College of Social and Behavioral Science - The University of Utah
  - [https://csbs.utah.edu](https://csbs.utah.edu)
  - date_published: 2024-05-07T22:10:04.632731+00:00
@@ -3910,92 +3998,4 @@
  ## Online Homeland Security Degree and Emergency Preparedness
  - [https://onlinewilder.vcu.edu](https://onlinewilder.vcu.edu)
  - date_published: 2023-01-12T00:30:48+00:00
-
- ## Commitment to Privacy
- - [https://opds.vcu.edu](https://opds.vcu.edu)
- - date_published: 2024-05-07T22:23:33.140061+00:00
-
- ## Commitment to Privacy
- - [https://openminds.vcu.edu](https://openminds.vcu.edu)
- - date_published: 2024-07-02T12:51:19.217464+00:00
-
- ## Commitment to Privacy
- - [https://oppo.vcu.edu](https://oppo.vcu.edu)
- - date_published: 2024-07-02T12:47:12.507311+00:00
-
- ## Commitment to Privacy
- - [https://optforhealth.lab.vcu.edu](https://optforhealth.lab.vcu.edu)
- - date_published: 2024-07-02T12:41:56.486965+00:00
-
- ## Commitment to Privacy
- - [https://oraldiagnosticsciences.vcu.edu](https://oraldiagnosticsciences.vcu.edu)
- - date_published: 2024-07-02T12:50:10.482942+00:00
-
- ## Commitment to Privacy
- - [https://oralmaxillofacialsurgery.vcu.edu](https://oralmaxillofacialsurgery.vcu.edu)
- - date_published: 2024-07-02T12:42:27.324869+00:00
-
- ## Commitment to Privacy
- - [http://orientation.vcu.edu](http://orientation.vcu.edu)
- - date_published: 2024-07-02T12:47:06.648996+00:00
-
- ## Commitment to Privacy
- - [https://orthodontics.vcu.edu](https://orthodontics.vcu.edu)
- - date_published: 2024-07-02T12:47:49.129611+00:00
-
- ## Commitment to Privacy
- - [https://orthopaedics.vcu.edu](https://orthopaedics.vcu.edu)
- - date_published: 2024-07-02T12:43:18.776923+00:00
-
- ## Commitment to Privacy
- - [https://parking.vcu.edu](https://parking.vcu.edu)
- - date_published: 2024-07-02T12:50:24.227357+00:00
-
- ## Commitment to Privacy
- - [https://parkinsons.vcu.edu](https://parkinsons.vcu.edu)
- - date_published: 2024-07-02T12:47:50.469592+00:00
-
- ## Commitment to Privacy
- - [https://partnership.vcu.edu](https://partnership.vcu.edu)
- - date_published: 2024-07-02T12:43:28.330787+00:00
-
- ## Commitment to Privacy
- - [https://pass.vcu.edu](https://pass.vcu.edu)
- - date_published: 2024-07-02T12:57:05.863757+00:00
-
- ## Commitment to Privacy
- - [https://pathology.vcu.edu](https://pathology.vcu.edu)
- - date_published: 2024-07-02T12:47:24.652145+00:00
-
- ## Commitment to Privacy
- - [https://pauleyundergradfellowship.vcu.edu](https://pauleyundergradfellowship.vcu.edu)
- - date_published: 2024-07-02T12:48:55.211682+00:00
-
- ## Commitment to Privacy
- - [https://pcpsych.vcu.edu](https://pcpsych.vcu.edu)
- - date_published: 2024-07-02T12:50:22.654396+00:00
-
- ## Commitment to Privacy
- - [https://pediatricdentistry.vcu.edu](https://pediatricdentistry.vcu.edu)
- - date_published: 2024-07-02T12:48:03.631403+00:00
-
- ## Commitment to Privacy
- - [https://pediatrics.vcu.edu](https://pediatrics.vcu.edu)
- - date_published: 2024-07-02T12:49:11.500840+00:00
-
- ## Commitment to Privacy
- - [https://peerleadership.vcu.edu](https://peerleadership.vcu.edu)
- - date_published: 2024-07-02T12:58:54.729866+00:00
-
- ## A to Z Directory – Virginia Commonwealth University
- - [https://people.vcu.edu](https://people.vcu.edu)
- - date_published: 2024-05-07T22:23:43.856583+00:00
-
- ## Commitment to Privacy
- - [https://periodontics.vcu.edu](https://periodontics.vcu.edu)
- - date_published: 2024-07-02T12:48:54.004727+00:00
-
- ## Commitment to Privacy
- - [https://personcenteredpractices.partnership.vcu.edu](https://personcenteredpractices.partnership.vcu.edu)
- - date_published: 2024-07-02T12:46:45.777708+00:00
 

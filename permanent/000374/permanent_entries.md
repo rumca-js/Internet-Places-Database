@@ -1,3 +1,127 @@
+ ## Philanthropies
+ - [https://ldsphilanthropies.org](https://ldsphilanthropies.org)
+ - date_published: 2024-04-30T03:32:16.947662+00:00
+
+ ## Lead Academy: Online Courses - TEFL, BSL and Functional Skills
+ - [https://lead-academy.org](https://lead-academy.org)
+ - date_published: 2024-10-22T12:47:20.571079+00:00
+
+ ## Cierpliwości...
+ - [https://leadcounsel.org](https://leadcounsel.org)
+ - date_published: 2024-05-07T13:27:05.304269+00:00
+
+ ## Lead Elimination | We are working to reduce lead poisoning and improve the health, wellbeing, and potential of children worldwide.
+ - [https://leadelimination.org](https://leadelimination.org)
+ - date_published: 2024-06-18T13:18:12+00:00
+
+ ## LEA-DER.org | Law Enforcement Agencies – Development/Engineering/Research
+ - [https://www.lea-der.org](https://www.lea-der.org)
+ - date_published: 2024-07-02T22:01:39.241799+00:00
+
+ ## Leader in Me | Educational & Student Leadership Programs & Curriculum
+ - [https://www.leaderinme.org](https://www.leaderinme.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Leadership Development Lab
+ - [http://www.leadershipdevelopmentlab.org](http://www.leadershipdevelopmentlab.org)
+ - date_published: 2024-04-30T05:30:03.851098+00:00
+
+ ## Home - Leadership Foundations
+ - [https://www.leadershipfoundations.org](https://www.leadershipfoundations.org)
+ - date_published: 2024-07-08T16:54:28.818922+00:00
+
+ ## Home - Leadership Montgomery
+ - [https://leadershipmontgomerymd.org](https://leadershipmontgomerymd.org)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Lead Free CT ‒ A hub of lead Information for residents and homeowners
+ - [https://leadfreect.org](https://leadfreect.org)
+ - date_published: 2024-09-18T20:25:59.530788+00:00
+
+ ## LeadingAge PA
+ - [http://leadingagepa.org](http://leadingagepa.org)
+ - date_published: 2024-10-19T09:43:58.991632+00:00
+
+ ## Global Lead Pollution Map
+ - [https://leadpollution.org](https://leadpollution.org)
+ - date_published: 2024-05-22T18:27:16+00:00
+
+ ## LEADx: Scale and Sustain Leadership Development
+ - [https://leadx.org](https://leadx.org)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## LEADx Mobile App
+ - [https://mobile.leadx.org](https://mobile.leadx.org)
+ - date_published: 2024-05-08T09:34:20.884760+00:00
+
+ ## LEAF – [Lafayette Electronic Arts Festival]
+ - [https://leafcolorado.org](https://leafcolorado.org)
+ - date_published: 2024-06-21T17:26:36+00:00
+
+ ## The League of Entropy
+ - [https://leagueofentropy.org](https://leagueofentropy.org)
+ - date_published: 2024-07-10T01:54:08.583529+00:00
+
+ ## The League of Robot Runners
+ - [https://www.leagueofrobotrunners.org](https://www.leagueofrobotrunners.org)
+ - date_published: 2024-07-15T09:02:21+00:00
+
+ ## Leah Neukirchen - leah2
+ - [https://leahneukirchen.org](https://leahneukirchen.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Home
+ - [https://leakeyfoundation.org](https://leakeyfoundation.org)
+ - date_published: 2024-10-29T18:24:02.558156+00:00
+
+ ## Lea-Linux
+ - [https://lea-linux.org](https://lea-linux.org)
+ - date_published: 2024-05-06T14:20:18.353073+00:00
+
+ ## Lean Blog
+ - [http://www.leanblog.org](http://www.leanblog.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Lean Coffee | Start one in your city!
+ - [http://leancoffee.org](http://leancoffee.org)
+ - date_published: 2024-07-07T07:36:25.323493+00:00
+
+ ## LeanDojo: Theorem Proving in Lean Using LLMs
+ - [https://leandojo.org](https://leandojo.org)
+ - date_published: 2024-07-28T22:34:36+00:00
+
+ ## Focused Research Organization — Lean FRO
+ - [https://lean-fro.org](https://lean-fro.org)
+ - date_published: 2024-04-29T06:15:59.677196+00:00
+
+ ## Lean Impact
+ - [https://www.leanimpact.org](https://www.leanimpact.org)
+ - date_published: 2024-06-21T21:56:41.621009+00:00
+
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://cdn-static.leanin.org](https://cdn-static.leanin.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://leanin.org](https://leanin.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Lean In Store
+ - [https://shop.leanin.org](https://shop.leanin.org)
+ - date_published: 2024-06-23T01:31:54.886281+00:00
+
+ ## Lean In Girls | Girls Leadership Program
+ - [https://leaningirls.org](https://leaningirls.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Programming Language and Theorem Prover — Lean
+ - [https://lean-lang.org](https://lean-lang.org)
+ - date_published: 2024-04-29T06:15:56.514317+00:00
+
+ ## Lean 4 Web
+ - [https://live.lean-lang.org](https://live.lean-lang.org)
+ - date_published: 2024-05-07T15:57:13.078779+00:00
+
  ## Loogle!
  - [https://loogle.lean-lang.org](https://loogle.lean-lang.org)
  - date_published: 2024-04-29T06:16:20.387794+00:00
@@ -3913,129 +4037,4 @@ Intro
  - [https://www.lspace.org](https://www.lspace.org)
  - date_published: 2023-11-16T07:01:44.475059+00:00
  - tags: ['discworld', 'terry pratchett', 'fantasy']
-
- ## Senior Living St Louis Metro, Central Missouri, & Central Illinois | LSS
- - [https://www.lssliving.org](https://www.lssliving.org)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## LSST Informatics & Statistics Science Collaboration
- - [https://issc.science.lsst.org](https://issc.science.lsst.org)
- - date_published: 2024-07-03T19:56:30+00:00
-
- ## Rubin Observatory
- - [http://www.lsst.org](http://www.lsst.org)
- - date_published: 2024-06-22T21:46:12+00:00
-
- ## Home
- - [https://lsstdesc.org](https://lsstdesc.org)
- - date_published: 2024-07-08T10:46:27+00:00
-
- ## Homepage
- - [https://www.lstream.org](https://www.lstream.org)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## LSU Alumni Association | Louisiana State University Alumni
- - [https://www.lsualumni.org](https://www.lsualumni.org)
- - date_published: 2024-10-18T02:47:09.239022+00:00
-
- ## Home Page
- - [https://lsufoundation.org](https://lsufoundation.org)
- - date_published: 2024-05-07T19:30:51.222062+00:00
-
- ## Home > Lane Transit District
- - [https://www.ltd.org](https://www.ltd.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Life Time Foundation
- - [https://www.ltfoundation.org](https://www.ltfoundation.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## LT Game Jam
- - [https://ltgamejam.org](https://ltgamejam.org)
- - date_published: 2024-08-08T11:28:01.619442+00:00
-
- ## ltrace
- - [http://ltrace.org](http://ltrace.org)
- - date_published: 2019-07-19T21:20:33+00:00
-
- ## LTTng: an open source tracing framework for Linux
- - [https://lttng.org](https://lttng.org)
- - date_published: 2024-07-12T15:04:13+00:00
-
- ## The Programming Language Lua
- - [https://lua.org](https://lua.org)
- - date_published: 2024-04-28T06:06:48.516360+00:00
-
- ## Coco — True C Coroutines for Lua
- - [https://coco.luajit.org](https://coco.luajit.org)
- - date_published: 2018-05-20T15:31:47+00:00
-
- ## The LuaJIT Project
- - [https://luajit.org](https://luajit.org)
- - date_published: 2023-08-21T01:32:29+00:00
-
- ## LuaRocks - The Lua package manager
- - [https://luarocks.org](https://luarocks.org)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## LuaRT Community
- - [https://community.luart.org](https://community.luart.org)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## LuaRT | Free and open source Windows programming framework for Lua
- - [https://luart.org](https://luart.org)
- - date_published: 2024-05-25T23:33:00.365791+00:00
-
- ## Luau
- - [https://luau-lang.org](https://luau-lang.org)
- - date_published: 2024-04-28T02:51:21.982266+00:00
-
- ## lua-users.org
- - [https://lua-users.org](https://lua-users.org)
- - date_published: 2021-12-05T12:13:57+00:00
-
- ## Friends of the Lubbock Library
- - [http://www.lubbockfol.org](http://www.lubbockfol.org)
- - date_published: 2024-05-28T18:13:05+00:00
-
- ## Lubomir Bourdev
- - [http://www.lubomir.org](http://www.lubomir.org)
- - date_published: 2023-02-28T05:58:53+00:00
-
- ## Luca Mariot
- - [https://lucamariot.org](https://lucamariot.org)
- - date_published: 2024-01-14T15:48:55+00:00
-
- ## Lucee Dev
- - [https://dev.lucee.org](https://dev.lucee.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Accelerate your development with Lucee
- - [http://lucee.org](http://lucee.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## The Lucid Manager
- - [https://lucidmanager.org](https://lucidmanager.org)
- - date_published: 2024-04-28T06:12:22.270046+00:00
- - tags: ['personal']
-
- ## Lucky Fin Project – Ten Fingers Are Overrated.
- - [https://luckyfinproject.org](https://luckyfinproject.org)
- - date_published: 2024-04-30T05:49:34.207363+00:00
-
- ## luckynetwork.org
- - [https://luckynetwork.org](https://luckynetwork.org)
- - date_published: 2024-09-23T23:28:59.763363+00:00
-
- ## LudDan BlockChain - Easy for Developers & Investors
- - [https://www.ludan.org](https://www.ludan.org)
- - date_published: 2022-03-31T15:57:07+00:00
-
- ## Ludocity
- - [http://ludocity.org](http://ludocity.org)
- - date_published: 2022-07-03T18:50:41+00:00
-
- ## Free Online Loudness Analyser | LUFS
- - [https://lufs.org](https://lufs.org)
- - date_published: 2024-06-22T12:57:03.990602+00:00
 

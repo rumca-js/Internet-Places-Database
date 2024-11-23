@@ -1,3 +1,143 @@
+ ## ranked.vote: detailed reports on ranked-choice elections.
+ - [https://ranked.vote](https://ranked.vote)
+ - date_published: 2024-05-09T04:38:55.548982+00:00
+
+ ## Im.pulsa — Trilhas, guias, vídeos e materiais para inspirar, treinar e conectar mulheres líderes na América Latina
+ - [https://www.impulsa.voto](https://www.impulsa.voto)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Cosmic Voyage - Messages from Humanity's Stellar Diaspora
+ - [https://cosmic.voyage](https://cosmic.voyage)
+ - date_published: 2024-07-10T07:29:53.864613+00:00
+
+ ## GreenGo | Stays that do good.
+ - [https://www.greengo.voyage](https://www.greengo.voyage)
+ - date_published: 2024-09-19T14:43:12.171737+00:00
+
+ ## Longest Voyage
+ - [https://longest.voyage](https://longest.voyage)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Veer · Oceans of solutions, delivered.
+ - [https://veer.voyage](https://veer.voyage)
+ - date_published: 2024-04-28T01:45:54.571074+00:00
+
+ ## Grafika Google
+ - [https://images.google.vu](https://images.google.vu)
+ - date_published: 2024-07-20T07:40:15.804312+00:00
+
+ ## Google
+ - [https://www.google.vu](https://www.google.vu)
+ - date_published: 2024-06-21T22:25:45.242615+00:00
+
+ ## Chimmie Firefly
+ - [https://chimmie.k.vu](https://chimmie.k.vu)
+ - date_published: 2024-06-06T09:41:20+00:00
+
+ ## Arts Council of Wales | Arts Council of Wales
+ - [http://www.arts.wales](http://www.arts.wales)
+ - date_published: 2024-08-19T15:59:00+00:00
+
+ ## Home | Launch
+ - [https://cardiffmusiccity.wales](https://cardiffmusiccity.wales)
+ - date_published: 2024-05-06T22:04:53.254558+00:00
+
+ ## Home | Dance House Wales
+ - [http://dancehouse.wales](http://dancehouse.wales)
+ - date_published: 2024-07-16T19:27:14+00:00
+
+ ## Podcasts from Wales
+ - [https://pod.foss.wales](https://pod.foss.wales)
+ - date_published: 2024-09-19T21:47:26.773362+00:00
+
+ ## Digital and Data Blog
+ - [https://digitalanddata.blog.gov.wales](https://digitalanddata.blog.gov.wales)
+ - date_published: 2024-10-21T09:58:51.589672+00:00
+
+ ## Home | GOV.WALES
+ - [https://gov.wales](https://gov.wales)
+ - date_published: 2024-08-20T04:46:18+00:00
+
+ ## Catalogue
+ - [https://statswales.gov.wales](https://statswales.gov.wales)
+ - date_published: 2024-06-18T10:41:07.211976+00:00
+
+ ## Sell2Wales: Welcome to Sell2Wales - Sell2Wales
+ - [https://www.sell2wales.gov.wales](https://www.sell2wales.gov.wales)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Ignite Cardiff - Enlighten us, but make it quick
+ - [https://ignite.wales](https://ignite.wales)
+ - date_published: 2024-08-08T22:53:23.001957+00:00
+
+ ## Institute of Welsh Affairs | Wales' Leading Independent Think Tank
+ - [https://iwa.wales](https://iwa.wales)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## News - National Library of Wales
+ - [http://blog.library.wales](http://blog.library.wales)
+ - date_published: 2024-06-29T10:07:57.844590+00:00
+
+ ## Welsh Journals             - Home
+ - [https://journals.library.wales](https://journals.library.wales)
+ - date_published: 2024-06-29T10:07:27.905191+00:00
+
+ ## National Library of Wales - Llyfrgell Genedlaethol Cymru
+ - [https://library.wales](https://library.wales)
+ - date_published: 2024-05-07T10:26:00.971780+00:00
+
+ ## Welsh Newspapers             - Home
+ - [https://newspapers.library.wales](https://newspapers.library.wales)
+ - date_published: 2024-06-29T10:07:36.492820+00:00
+
+ ## Welsh Tithe Maps             - Home
+ - [https://places.library.wales](https://places.library.wales)
+ - date_published: 2024-06-29T10:07:54.664523+00:00
+
+ ## National Library of Wales Online Shop
+ - [https://shop.library.wales](https://shop.library.wales)
+ - date_published: 2024-06-29T10:07:59.667037+00:00
+
+ ## Homepage | Amgueddfa Cymru
+ - [https://museum.wales](https://museum.wales)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## National Music Service for Wales
+ - [https://www.musicservice.wales](https://www.musicservice.wales)
+ - date_published: 2024-07-15T06:18:43.983898+00:00
+
+ ## Home
+ - [https://phw.nhs.wales](https://phw.nhs.wales)
+ - date_published: 2024-10-21T09:43:11.470895+00:00
+
+ ## .wales WHOIS
+ - [http://whois.nic.wales](http://whois.nic.wales)
+ - date_published: 2024-10-11T20:13:58.863614+00:00
+
+ ## Home
+ - [https://ogi.wales](https://ogi.wales)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Homepage - Our Home Online
+ - [https://ourhomeonline.wales](https://ourhomeonline.wales)
+ - date_published: 2024-06-06T12:31:58+00:00
+
+ ## General Election
+ - [https://www.partyof.wales](https://www.partyof.wales)
+ - date_published: 2024-06-22T18:54:40.592451+00:00
+
+ ## Senedd Cymru | Welsh Parliament
+ - [http://www.senedd.wales](http://www.senedd.wales)
+ - date_published: 2024-06-24T06:21:26.131194+00:00
+
+ ## Home - Swansea Bay Sports Park
+ - [https://www.swanseabaysportspark.wales](https://www.swanseabaysportspark.wales)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Tŵt Cymru | Toot Wales
+ - [https://toot.wales](https://toot.wales)
+ - date_published: 2024-05-08T03:04:21.324938+00:00
+
  ## Homepage - Welsh Labour - Welsh Labour | Llafur Cymru
  - [https://www.welshlabour.wales](https://www.welshlabour.wales)
  - date_published: 2024-09-16T20:21:05.307736+00:00
@@ -3909,145 +4049,4 @@ VANCOUVER BC PROGRAMMER
  ## Центр технологического лидерства
  - [https://xn--d1abjl7at.xn--p1ai](https://xn--d1abjl7at.xn--p1ai)
  - date_published: 2024-10-23T06:51:30.828889+00:00
-
- ## Ազատութիւն Ամենեցուն | Անդրանիկ Վարդանեանի ցանցային օրագիրը
- - [https://xn--y9aai3au2bc2f.xn--y9a3aq](https://xn--y9aai3au2bc2f.xn--y9a3aq)
- - date_published: 2024-08-19T11:58:28.154346+00:00
-
- ## Սարեան
- - [https://xn--y9aal3e5at.xn--y9aam0eb9a4abc.xn--y9a3aq](https://xn--y9aal3e5at.xn--y9aam0eb9a4abc.xn--y9a3aq)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Օրագիր
- - [https://xn--y9aey5fdz.xn--y9a3aq](https://xn--y9aey5fdz.xn--y9a3aq)
- - date_published: 2024-08-19T11:58:10.042398+00:00
-
- ## Adult Content
- - [http://achos.xxx](http://achos.xxx)
- - date_published: 2024-07-13T15:14:45.503146+00:00
-
- ## Darnell (Hard News)
- - [https://darnell.xxx](https://darnell.xxx)
- - date_published: 2024-05-04T00:00:00+00:00
- - tags: ['police news']
-
- ## Hack.lu CTF 2024
- - [https://flu.xxx](https://flu.xxx)
- - date_published: 2024-04-06T21:25:19+00:00
-
- ## Open Pit
- - [https://minecraft.xxx](https://minecraft.xxx)
- - date_published: 2024-10-22T22:18:42.897041+00:00
-
- ## Chatwoot
- - [https://chatwoot.07102020.xyz](https://chatwoot.07102020.xyz)
- - date_published: 2024-09-27T20:31:22.586186+00:00
-
- ## Umami
- - [https://umami.07102020.xyz](https://umami.07102020.xyz)
- - date_published: 2024-09-27T20:31:25.421880+00:00
-
- ## Cryptorave #10 Basel - 0b673cce.xyz
- - [https://0b673cce.xyz](https://0b673cce.xyz)
- - date_published: 2019-03-11T14:05:16+00:00
-
- ## 0xCastle
- - [https://0xcastle.xyz](https://0xcastle.xyz)
- - date_published: 2024-05-30T09:53:07+00:00
-
- ## 0xJiuJitsuJerry
- - [https://0xjiujitsujerry.xyz](https://0xjiujitsujerry.xyz)
- - date_published: 2024-06-20T05:46:14.295695+00:00
-
- ## Dashboard | Splits
- - [https://app.0xsplits.xyz](https://app.0xsplits.xyz)
- - date_published: 2024-09-06T21:38:01.966327+00:00
-
- ## Umami
- - [https://umami.200226.xyz](https://umami.200226.xyz)
- - date_published: 2024-08-18T03:26:54.103989+00:00
-
- ## 20[ ]
- - [https://20squares.xyz](https://20squares.xyz)
- - date_published: 2024-06-13T22:54:04+00:00
-
- ## 3D Book — Give some perspective to your book cover
- - [https://3dbook.xyz](https://3dbook.xyz)
- - date_published: 2023-12-08T15:05:10+00:00
-
- ## React App
- - [https://charts.4vitruveo.xyz](https://charts.4vitruveo.xyz)
- - date_published: 2024-08-20T21:53:24+00:00
-
- ## 6eamed.xyz
- - [https://6eamed.xyz](https://6eamed.xyz)
- - date_published: 2024-07-03T03:01:30+00:00
-
- ## 9021007's Links
- - [https://links.9021007.xyz](https://links.9021007.xyz)
- - date_published: 2024-08-18T04:35:20.106185+00:00
-
- ## GitHub 文件加速
- - [https://gh.api.99988866.xyz](https://gh.api.99988866.xyz)
- - date_published: 2022-06-20T05:19:55+00:00
-
- ## welcome — aaoth.xyz
- - [https://aaoth.xyz](https://aaoth.xyz)
- - date_published: 2023-11-26T16:27:28+00:00
-
- ## Aaron's notes
- - [https://aarnphm.xyz](https://aarnphm.xyz)
- - date_published: 2024-05-11T10:24:29.868802+00:00
-
- ## Alphabet Investor Relations
- - [https://abc.xyz](https://abc.xyz)
- - date_published: 2023-10-25T23:02:24.106484+00:00
-
- - [https://abctorrents.xyz](https://abctorrents.xyz)
- - date_published: 2024-11-07T09:26:09+00:00
- - tags: ['piracy']
-
- ## Abstract
- - [https://abs.xyz](https://abs.xyz)
- - date_published: 2024-09-24T09:33:30.991918+00:00
-
- ## Abstract Block Explorer
- - [https://explorer.testnet.abs.xyz](https://explorer.testnet.abs.xyz)
- - date_published: 2024-09-24T06:54:37.797216+00:00
-
- ## Abstract Bridge | Transfer funds between Abstract and Ethereum
- - [https://portal.testnet.abs.xyz](https://portal.testnet.abs.xyz)
- - date_published: 2024-09-23T21:43:25.414276+00:00
-
- ## Abstract Office
- - [http://abstractoffice.xyz](http://abstractoffice.xyz)
- - date_published: 2024-09-30T11:24:12.200976+00:00
-
- ## Mizi Website
- - [https://abstractxan.xyz](https://abstractxan.xyz)
- - date_published: 2024-08-07T23:59:28.041437+00:00
-
- ## Home - Accelchain
- - [https://accelchain.xyz](https://accelchain.xyz)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Blockchain Security Services | Ackee Blockchain
- - [https://ackee.xyz](https://ackee.xyz)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## ADOBE ACROBAT 2024 FREE DOWNLOAD (v24.002)
- - [https://acrobat-24.xyz](https://acrobat-24.xyz)
- - date_published: 2024-09-24T21:05:27+00:00
-
- ## Actineo Consulting LLP
- - [https://www.actineo.xyz](https://www.actineo.xyz)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## ADHD Pro - Increase Productivity with ADHD
- - [https://adhdpro.xyz](https://adhdpro.xyz)
- - date_published: 2024-05-07T14:15:10.033004+00:00
-
- ## Dull Copy Pasta
- - [https://adhominem.xyz](https://adhominem.xyz)
- - date_published: 2020-03-13T22:17:47+00:00
 

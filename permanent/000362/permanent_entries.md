@@ -1,3 +1,127 @@
+ ## CoreShop: Transforming E-Commerce with Pimcore
+ - [https://www.coreshop.org](https://www.coreshop.org)
+ - date_published: 2024-06-19T22:24:57.694649+00:00
+
+ ## sourceware.org:  Free software!  Get your fresh hot free software!
+ - [https://coretoolchain.org](https://coretoolchain.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## CoreTrustSeal-AMT
+ - [https://amt.coretrustseal.org](https://amt.coretrustseal.org)
+ - date_published: 2024-05-12T07:41:40.534682+00:00
+
+ ## CoreTrustSeal
+ - [https://coretrustseal.org](https://coretrustseal.org)
+ - date_published: 2024-09-12T14:55:34.705939+00:00
+
+ ## Corflu 42
+ - [https://corflu.org](https://corflu.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home - Cor Jesu Academy
+ - [https://www.corjesu.org](https://www.corjesu.org)
+ - date_published: 2024-10-19T18:15:47.341282+00:00
+
+ ## Hi
+ - [http://www.corknut.org](http://www.corknut.org)
+ - date_published: 2018-01-21T03:48:27+00:00
+
+ ## CoRL 2024
+ - [https://corl.org](https://corl.org)
+ - date_published: 2024-09-13T18:00:15.930811+00:00
+
+ ## CORL 2022 – Dec 14-18, 2022 – Auckland, NZ
+ - [https://corl2022.org](https://corl2022.org)
+ - date_published: 2022-12-14T00:00:00+00:00
+
+ ## CoRL 2023
+ - [https://corl2023.org](https://corl2023.org)
+ - date_published: 2024-07-11T14:30:32.104205+00:00
+
+ ## {walk}  —  cornelia street
+ - [http://corneliastreet.org](http://corneliastreet.org)
+ - date_published: 2024-09-04T02:49:04.290069+00:00
+
+ ## Cornell Blockchain
+ - [https://www.cornellblockchain.org](https://www.cornellblockchain.org)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## CornellBotanicGardens
+ - [https://cornellbotanicgardens.org](https://cornellbotanicgardens.org)
+ - date_published: 2024-08-06T17:29:48.146490+00:00
+
+ ## Cornell Club of Greater Buffalo
+ - [http://www.cornellclub-buffalo.org](http://www.cornellclub-buffalo.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home : Corner Post
+ - [https://cornerpost.org](https://cornerpost.org)
+ - date_published: 2024-09-26T18:07:13.021375+00:00
+
+ ## Home
+ - [http://www.cornerstonefamilyhealthcare.org](http://www.cornerstonefamilyhealthcare.org)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Cornerstone Foundation | Transforming the way people help people
+ - [https://www.cornerstoneondemand.org](https://www.cornerstoneondemand.org)
+ - date_published: 2024-08-06T17:15:55.103718+00:00
+
+ ## Home — Cornica
+ - [http://cornica.org](http://cornica.org)
+ - date_published: 2024-06-21T18:57:08.532820+00:00
+
+ ## Corning Credit Union
+ - [https://banking.corningcu.org](https://banking.corningcu.org)
+ - date_published: 2024-06-29T20:37:54.023775+00:00
+
+ ## Home | Corning Credit Union
+ - [https://corningcu.org](https://corningcu.org)
+ - date_published: 2024-05-07T14:02:21.208112+00:00
+
+ ## Home - Cornucopia Institute
+ - [https://www.cornucopia.org](https://www.cornucopia.org)
+ - date_published: 2024-06-29T21:34:02.009409+00:00
+
+ ## Cornwall Alliance
+ - [https://cornwallalliance.org](https://cornwallalliance.org)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## corona-soli-ffm.org - Ta strona jest na sprzedaż! - corona soli ffm Zasoby i informacje.
+ - [https://corona-soli-ffm.org](https://corona-soli-ffm.org)
+ - date_published: 2020-11-26T11:43:41+00:00
+
+ ## Coronasurveys Home
+ - [https://coronasurveys.org](https://coronasurveys.org)
+ - date_published: 2021-03-31T14:06:46+00:00
+
+ ## Corporate Accountability Lab
+ - [https://corpaccountabilitylab.org](https://corpaccountabilitylab.org)
+ - date_published: 2024-05-09T02:33:37.362046+00:00
+
+ ## Corporación DÍA - Corporacion DIA
+ - [http://corporaciondia.org](http://corporaciondia.org)
+ - date_published: 2024-10-31T09:10:53.878263+00:00
+
+ ## Society of Corporate Compliance & Ethics - SCCE | Resources & Support
+ - [https://www.corporatecompliance.org](https://www.corporatecompliance.org)
+ - date_published: 2024-07-22T00:01:02+00:00
+
+ ## Home | Corporate Europe Observatory
+ - [https://corporateeurope.org](https://corporateeurope.org)
+ - date_published: 2023-10-25T21:10:18.379127+00:00
+
+ ## European Coalition for Corporate Justice - Home
+ - [https://corporatejustice.org](https://corporatejustice.org)
+ - date_published: 2024-05-07T23:56:08.517135+00:00
+
+ ## Corporate Justice Coalition
+ - [https://corporatejusticecoalition.org](https://corporatejusticecoalition.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Center for Corporate Policy – Working to curb corporate abuses and make corporations publicly accountable.
+ - [http://www.corporatepolicy.org](http://www.corporatepolicy.org)
+ - date_published: 2019-12-28T17:41:53+00:00
+
  ## Corpos Informáticos
  - [http://www.corpos.org](http://www.corpos.org)
  - date_published: 2021-04-08T22:25:39+00:00
@@ -3911,131 +4035,4 @@ irc logs at libera.irclog.whitequark.org
  ## Workshop on Data and Algorithmic Transparency
  - [http://datworkshop.org](http://datworkshop.org)
  - date_published: 2016-11-18T04:32:17+00:00
-
- ## dave everitt | home |
- - [https://daveeveritt.org](https://daveeveritt.org)
- - date_published: 2023-11-08T18:18:53+00:00
- - tags: ['personal']
-
- ## Dave Knows Portland
- - [http://portland.daveknows.org](http://portland.daveknows.org)
- - date_published: 2024-06-28T12:55:16.518822+00:00
-
- ## Humorist and Motivational Speaker - Dave Lieber
- - [https://davelieber.org](https://davelieber.org)
- - date_published: 2024-09-18T13:09:08.593880+00:00
-
- ## blog.davep.org
- - [https://blog.davep.org](https://blog.davep.org)
- - date_published: 2024-01-01T12:05:05.774145+00:00
-
- ## [52.WKS]
- - [https://52wks.davepeck.org](https://52wks.davepeck.org)
- - date_published: 2024-03-04T19:12:29+00:00
-
- ## [The Dangercast 2.0]
- - [https://dangercast.davepeck.org](https://dangercast.davepeck.org)
- - date_published: 2024-03-04T19:29:55+00:00
-
- ## Dave Peck
- - [https://davepeck.org](https://davepeck.org)
- - date_published: 2024-01-04T22:41:55.591112+00:00
- - tags: ['personal']
-
- ## [Dave Peck's Go]
- - [https://go.davepeck.org](https://go.davepeck.org)
- - date_published: 2024-08-18T07:30:45.163165+00:00
-
- ## Mastodon
- - [https://mastodon.davepeck.org](https://mastodon.davepeck.org)
- - date_published: 2024-08-18T07:30:44.474477+00:00
-
- ## DRA 2020
- - [https://davesredistricting.org](https://davesredistricting.org)
- - date_published: 2024-07-26T21:11:07+00:00
-
- ## DAViCal - DAViCal Home
- - [https://davical.org](https://davical.org)
- - date_published: 2024-04-08T19:31:30.696145+00:00
- - tags: ['calendar', 'caldav', 'self-host']
-
- ## Davical
- - [https://wiki.davical.org](https://wiki.davical.org)
- - date_published: 2023-10-22T14:30:41+00:00
-
- ## David Abram
- - [https://www.davidabram.org](https://www.davidabram.org)
- - date_published: 2024-06-28T23:05:57.703975+00:00
-
- ## David Adger
- - [https://davidadger.org](https://davidadger.org)
- - date_published: 2024-07-02T10:15:31.831496+00:00
-
- ## David Adrian
- - [https://davidadrian.org](https://davidadrian.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## davidbordwell.net : home
- - [http://davidbordwell.org](http://davidbordwell.org)
- - date_published: 2024-08-18T22:38:37.402662+00:00
-
- ## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
- - [https://davidcummings.org](https://davidcummings.org)
- - date_published: 2023-10-25T21:12:47.339422+00:00
-
- ## devDependency status | david-dm.org
- - [https://david-dm.org](https://david-dm.org)
- - date_published: 2024-07-06T23:24:42.660386+00:00
-
- ## David Edgerton
- - [https://www.davidedgerton.org](https://www.davidedgerton.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## david galbraith
- - [https://davidgalbraith.org](https://davidgalbraith.org)
- - date_published: 2023-10-25T21:12:51.395744+00:00
-
- ## David Gilbert Blog
- - [https://davidgilbert.org](https://davidgilbert.org)
- - date_published: 2013-11-30T00:00:00+00:00
-
- ## Reading Marx's Capital with David Harvey
- - [http://davidharvey.org](http://davidharvey.org)
- - date_published: 2024-06-29T21:05:35+00:00
-
- ## Hume Texts Online
- - [https://davidhume.org](https://davidhume.org)
- - date_published: 2023-11-02T12:07:39+00:00
-
- ## David Lazar
- - [https://davidlazar.org](https://davidlazar.org)
- - date_published: 2024-06-22T11:09:34.903621+00:00
-
- ## David Mintz, homo sapiens
- - [https://davidmintz.org](https://davidmintz.org)
- - date_published: 2024-10-16T09:05:38.740126+00:00
-
- ## David Miscavige Scientology Ecclesiastical Leader
- - [https://davidmiscavige.org](https://davidmiscavige.org)
- - date_published: 2024-08-18T12:22:53.816153+00:00
-
- ## David Rudnick
- - [http://davidrudnick.org](http://davidrudnick.org)
- - date_published: 2024-07-13T15:41:17.395152+00:00
-
- ## David Simmons-Duffin
- - [http://davidsd.org](http://davidsd.org)
- - date_published: 2023-08-23T07:35:51+00:00
-
- ## Home - David's Legacy Foundation
- - [https://www.davidslegacy.org](https://www.davidslegacy.org)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## David Smith, Independent iOS Developer
- - [https://david-smith.org](https://david-smith.org)
- - date_published: 2024-05-08T10:00:29.826650+00:00
-
- ## Davidson Institute: Programs & Support for the Profoundly Gifted
- - [https://www.davidsongifted.org](https://www.davidsongifted.org)
- - date_published: 2024-08-19T00:00:00+00:00
 

@@ -1,3 +1,31 @@
+ ## Barbara's Journey Toward Justice
+ - [http://barbarasblogspot.blogspot.com](http://barbarasblogspot.blogspot.com)
+ - date_published: 2024-03-07T09:10:54+00:00
+
+ ## Barbarian Politics
+ - [http://barbarianpolitics.blogspot.com](http://barbarianpolitics.blogspot.com)
+ - date_published: 2024-10-21T16:14:38.967959+00:00
+
+ ## The Barbarian Scholar
+ - [http://barbarian-scholar.blogspot.com](http://barbarian-scholar.blogspot.com)
+ - date_published: 2024-03-19T04:19:12+00:00
+
+ ## Barbaric Frontier
+ - [http://barbaricfrontier.blogspot.com](http://barbaricfrontier.blogspot.com)
+ - date_published: 2024-07-12T08:07:11+00:00
+
+ ## A barbearia do senhor Luís
+ - [https://barbearialnt.blogspot.com](https://barbearialnt.blogspot.com)
+ - date_published: 2024-07-12T16:05:55+00:00
+
+ ## BARCAZA DE COMBATE
+ - [http://barcazadecombate.blogspot.com](http://barcazadecombate.blogspot.com)
+ - date_published: 2024-08-30T14:30:18+00:00
+
+ ## Barcepundit  (English edition)
+ - [http://barcepundit-english.blogspot.com](http://barcepundit-english.blogspot.com)
+ - date_published: 2024-03-05T06:06:54+00:00
+
  ## Bardiac
  - [http://bardiac.blogspot.com](http://bardiac.blogspot.com)
  - date_published: 2024-10-19T08:03:44.980562+00:00
@@ -3988,32 +4016,4 @@
  ## Constantly Furious
  - [http://constantlyfurious.blogspot.com](http://constantlyfurious.blogspot.com)
  - date_published: 2024-10-21T14:10:05.456258+00:00
-
- ## Blogger
- - [http://consul-at-arms.blogspot.com](http://consul-at-arms.blogspot.com)
- - date_published: 2024-06-27T09:25:17.747787+00:00
-
- ## contagio
- - [http://contagiodump.blogspot.com](http://contagiodump.blogspot.com)
- - date_published: 2024-07-13T05:53:36+00:00
-
- ## Contains Graphic Images
- - [http://containsgraphicimages.blogspot.com](http://containsgraphicimages.blogspot.com)
- - date_published: 2022-05-11T00:00:00+00:00
-
- ## Notes: a Calligraphic Journal
- - [http://contemporarycalligraphy.blogspot.com](http://contemporarycalligraphy.blogspot.com)
- - date_published: 2024-09-02T08:42:43+00:00
-
- ## Contemporary Visual Culture
- - [http://contemporaryvisualculture.blogspot.com](http://contemporaryvisualculture.blogspot.com)
- - date_published: 2024-02-21T07:40:32+00:00
-
- ## Open Carefully.
- - [http://contentsmayvary.blogspot.com](http://contentsmayvary.blogspot.com)
- - date_published: 2024-03-19T16:36:18+00:00
-
- ## By Other Means
- - [http://continuationofpolitics.blogspot.com](http://continuationofpolitics.blogspot.com)
- - date_published: 2024-07-03T11:00:00+00:00
 

@@ -1,3 +1,127 @@
+ ## Cryptoeconomic Systems
+ - [https://cryptoeconomicsystems.pubpub.org](https://cryptoeconomicsystems.pubpub.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Data & Analytics for Good
+ - [https://data-for-good.pubpub.org](https://data-for-good.pubpub.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Design Justice
+ - [https://design-justice.pubpub.org](https://design-justice.pubpub.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Economics in the Age of COVID-19
+ - [https://economics-in-the-age-of-covid-19.pubpub.org](https://economics-in-the-age-of-covid-19.pubpub.org)
+ - date_published: 2020-05-15T00:00:00+00:00
+
+ ## European Law Blog
+ - [https://europeanlawblog.pubpub.org](https://europeanlawblog.pubpub.org)
+ - date_published: 2024-10-18T20:39:29.587516+00:00
+
+ ## Fermentology
+ - [https://fermentology.pubpub.org](https://fermentology.pubpub.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Goldsmiths Press
+ - [https://goldsmithspress.pubpub.org](https://goldsmithspress.pubpub.org)
+ - date_published: 2024-07-01T15:24:40.647964+00:00
+
+ ## Graduate Journal of Food Studies
+ - [https://gradfoodstudies.pubpub.org](https://gradfoodstudies.pubpub.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## PubPub Help
+ - [https://help.pubpub.org](https://help.pubpub.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Journal of Design and Science
+ - [https://jods.pubpub.org](https://jods.pubpub.org)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Law for Computer Scientists
+ - [https://lawforcomputerscientists.pubpub.org](https://lawforcomputerscientists.pubpub.org)
+ - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Metagov Community
+ - [https://metagov.pubpub.org](https://metagov.pubpub.org)
+ - date_published: 2024-07-15T11:14:03.504200+00:00
+
+ ## Celebrating Millie
+ - [http://millie.pubpub.org](http://millie.pubpub.org)
+ - date_published: 2024-06-21T20:53:49.805580+00:00
+
+ ## An MIT Exploration of Generative AI
+ - [https://mit-genai.pubpub.org](https://mit-genai.pubpub.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## MIT Case Studies in Social and Ethical Responsibilities of Computing
+ - [https://mit-serc.pubpub.org](https://mit-serc.pubpub.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## International Conference on New Interfaces for Musical Expression
+ - [https://nime.pubpub.org](https://nime.pubpub.org)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Open and Sustainable Innovation Systems (OASIS) Lab
+ - [https://oasislab.pubpub.org](https://oasislab.pubpub.org)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Off-University. Organisation für den Frieden e.V.
+ - [https://off.pubpub.org](https://off.pubpub.org)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Pandemics and Games Essay Jam
+ - [https://pandemics-and-games-essay-jam.pubpub.org](https://pandemics-and-games-essay-jam.pubpub.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Perseus Journal of Data Preservation and Sustainability
+ - [https://pdldatajournal.pubpub.org](https://pdldatajournal.pubpub.org)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Projections
+ - [https://projections.pubpub.org](https://projections.pubpub.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## PubPub · Community Publishing
+ - [https://pubpub.org](https://pubpub.org)
+ - date_published: 2024-05-08T12:02:02.374095+00:00
+
+ ## punctum books
+ - [https://punctumbooks.pubpub.org](https://punctumbooks.pubpub.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Reviews in Digital Humanities
+ - [https://reviewsindh.pubpub.org](https://reviewsindh.pubpub.org)
+ - date_published: 2024-07-08T16:36:23.983207+00:00
+
+ ## RS Open Journal on Innovative Communication Technologies
+ - [https://rs-ojict.pubpub.org](https://rs-ojict.pubpub.org)
+ - date_published: 2023-10-25T22:01:11.596207+00:00
+
+ ## Scaling Small: Community-Owned Futures for Open Access Books
+ - [https://scalingsmall.pubpub.org](https://scalingsmall.pubpub.org)
+ - date_published: 2024-06-17T18:04:17.254995+00:00
+
+ ## Stanford Journal of Blockchain Law & Policy
+ - [https://stanford-jblp.pubpub.org](https://stanford-jblp.pubpub.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Lexique vivant de la révolution et de la guerre en Syrie
+ - [https://syria-lexicon.pubpub.org](https://syria-lexicon.pubpub.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## The Cuvette
+ - [https://thecuvette.pubpub.org](https://thecuvette.pubpub.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## The Digital Closet
+ - [https://the-digital-closet.pubpub.org](https://the-digital-closet.pubpub.org)
+ - date_published: 2024-07-01T15:24:44.102761+00:00
+
+ ## The Good Drone: How Social Movements Democratize Surveillance
+ - [https://thegooddrone.pubpub.org](https://thegooddrone.pubpub.org)
+ - date_published: 2024-05-25T00:00:00+00:00
+
  ## TokenSpace, a Parallel Industries research project
  - [https://tokenspace.pubpub.org](https://tokenspace.pubpub.org)
  - date_published: 2024-09-23T13:30:21.090956+00:00
@@ -3935,128 +4059,4 @@
  ## Home - Duke Reporters' Lab
  - [https://reporterslab.org](https://reporterslab.org)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## The Reporter's Notebook
- - [https://reportersnotebook.org](https://reportersnotebook.org)
- - date_published: 2024-07-02T21:15:53+00:00
-
- ## Home Page - Report for America
- - [https://images.reportforamerica.org](https://images.reportforamerica.org)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home Page - Report for America
- - [https://reportforamerica.org](https://reportforamerica.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Show HN: Report Phone Spam – Shut down robocallers and text spammers
- - [https://reportphonespam.org](https://reportphonespam.org)
- - date_published: 2023-12-03T14:49:51+00:00
-
- ## Index of /
- - [http://repoze.org](http://repoze.org)
- - date_published: 2022-12-26T00:00:00+00:00
-
- ## RepRap - RepRap
- - [https://reprap.org](https://reprap.org)
- - date_published: 2024-05-09T04:24:26.988106+00:00
-
- ## RRF Config Tool
- - [https://configtool.reprapfirmware.org](https://configtool.reprapfirmware.org)
- - date_published: 2024-06-27T21:08:16+00:00
-
- ## RepresentWomen
- - [https://www.representwomen.org](https://www.representwomen.org)
- - date_published: 2024-06-30T11:10:06.104163+00:00
-
- ## re.press
- - [http://www.re-press.org](http://www.re-press.org)
- - date_published: 2024-06-30T04:29:06.180157+00:00
-
- ## Institute for Reproducible Research
- - [https://reproducibilityinstitute.org](https://reproducibilityinstitute.org)
- - date_published: 2024-05-01T02:10:52.023511+00:00
-
- ## lists.reproducible-builds.org Mailing Lists
- - [https://lists.reproducible-builds.org](https://lists.reproducible-builds.org)
- - date_published: 2024-06-30T02:18:34.432418+00:00
-
- ## Reproducible Builds — a set of software development practices that create an independently-verifiable path from source to binary code
- - [https://reproducible-builds.org](https://reproducible-builds.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Continuous tests — reproducible-builds.org
- - [https://tests.reproducible-builds.org](https://tests.reproducible-builds.org)
- - date_published: 2024-05-08T08:49:55.898909+00:00
-
- ## Center for Reproductive Rights
- - [https://reproductiverights.org](https://reproductiverights.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Repta | Repta UK
- - [https://repta.org](https://repta.org)
- - date_published: 2024-06-24T05:21:38.440883+00:00
-
- ## News
- - [http://republicancommunist.org](http://republicancommunist.org)
- - date_published: 2022-11-21T19:16:17+00:00
-
- ## Republic Broadcasting Network
- - [https://republicbroadcasting.org](https://republicbroadcasting.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Republic Broadcasting Network – Real News Real Talk Real People
- - [http://republicbroadcastingarchives.org](http://republicbroadcastingarchives.org)
- - date_published: 2024-06-17T11:32:55.859274+00:00
-
- ## Republic Report
- - [https://republicreport.org](https://republicreport.org)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## RequireJS
- - [https://requirejs.org](https://requirejs.org)
- - date_published: 2024-04-30T02:45:21.300473+00:00
-
- ## Res Artis: Worldwide Network of Arts Residencies
- - [http://www.resartis.org](http://www.resartis.org)
- - date_published: 2015-10-17T22:25:43+00:00
-
- ## ReScript Forum
- - [https://forum.rescript-lang.org](https://forum.rescript-lang.org)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## The ReScript Programming Language
- - [https://rescript-lang.org](https://rescript-lang.org)
- - date_published: 2024-06-23T06:16:44.765410+00:00
-
- ## Research and Innovation
- - [https://airbel.rescue.org](https://airbel.rescue.org)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Careers at International Rescue Committee | International Rescue Committee jobs
- - [https://careers.rescue.org](https://careers.rescue.org)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Donate Today. The IRC helps people caught in the world's worst disasters to survive, recover and regain control of their future.
- - [https://help.rescue.org](https://help.rescue.org)
- - date_published: 2024-09-16T13:36:21.468404+00:00
-
- ## The IRC
- - [https://rescue.org](https://rescue.org)
- - date_published: 2024-06-15T06:41:42+00:00
-
- ## IRC Deutschland
- - [http://rescue-de.org](http://rescue-de.org)
- - date_published: 2024-09-16T12:38:41+00:00
-
- ## The IRC in the EU
- - [http://rescue-eu.org](http://rescue-eu.org)
- - date_published: 2024-09-16T12:52:10+00:00
-
- ## RESCUE
- - [http://rescue-se.org](http://rescue-se.org)
- - date_published: 2024-09-16T12:49:42+00:00
-
- ## The IRC
- - [https://www.rescue-uk.org](https://www.rescue-uk.org)
- - date_published: 2024-09-16T12:37:26+00:00
 

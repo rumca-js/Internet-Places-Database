@@ -1,3 +1,72 @@
+ ## The New Urban Order | Diana Lind | Substack
+ - [https://thenewurbanorder.substack.com](https://thenewurbanorder.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Optionist  | Janice Min | Substack
+ - [https://theoptionist.substack.com](https://theoptionist.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## The Outlaw Ocean Project | Ian Urbina | Substack
+ - [https://theoutlawocean.substack.com](https://theoutlawocean.substack.com)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## The Outpost | Cornelius Stahlblau | Substack
+ - [https://theoutpostreport.substack.com](https://theoutpostreport.substack.com)
+ - date_published: 2024-07-03T16:06:09.556344+00:00
+
+ ## Owen’s Newsletter | Owen Young | Substack
+ - [https://theowenyoung.substack.com](https://theowenyoung.substack.com)
+ - date_published: 2024-05-06T22:18:48.326848+00:00
+
+ ## The People's Software Engineer | Bhavana | Substack
+ - [https://thepeoplessoftwareengineer.substack.com](https://thepeoplessoftwareengineer.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Perceptron | Casey Frechette | Substack
+ - [https://theperceptron.substack.com](https://theperceptron.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Philosophy Garden, Stoicism and beyond | Massimo Pigliucci | Substack
+ - [https://thephilosophygarden.substack.com](https://thephilosophygarden.substack.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## The Phoenix | Shivani Singh | Substack
+ - [https://thephoenix.substack.com](https://thephoenix.substack.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The Product Courier | Substack
+ - [https://theproductcourier.substack.com](https://theproductcourier.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## The Pudding | Substack
+ - [https://thepuddingmail.substack.com](https://thepuddingmail.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Quack Doctor | Caroline Rance | Substack
+ - [https://thequackdoctor.substack.com](https://thequackdoctor.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Thoughts of Commercial Real Estate | The Ranger | Substack
+ - [https://theranger.substack.com](https://theranger.substack.com)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## The Rationalist | Petra | Substack
+ - [https://therationalist.substack.com](https://therationalist.substack.com)
+ - date_published: 2023-10-25T10:06:07.569258+00:00
+ - tags: ['substack']
+
+ ## The Rebooting | Brian Morrissey | Substack
+ - [https://therebooting.substack.com](https://therebooting.substack.com)
+ - date_published: 2024-04-30T06:56:31.533394+00:00
+
+ ## The Rectangle | Callum Booth | Substack
+ - [https://therectangle.substack.com](https://therectangle.substack.com)
+ - date_published: 2024-01-09T01:45:25.693485+00:00
+
+ ## The Revolution Continues | Substack
+ - [https://therevolutioncontinues.substack.com](https://therevolutioncontinues.substack.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Rick Wilson’s Substack | Substack
  - [https://therickwilson.substack.com](https://therickwilson.substack.com)
  - date_published: 2024-01-09T00:00:00+00:00
@@ -3974,73 +4043,4 @@
  ## Suresupport.com - Login
  - [https://suresupport.com](https://suresupport.com)
  - date_published: 2024-06-16T14:25:57.509823+00:00
-
- ## Suresupport.com - Login
- - [https://tickets.suresupport.com](https://tickets.suresupport.com)
- - date_published: 2024-05-01T07:16:33.534208+00:00
-
- ## Sell Your SaaS Business - SureSwift Capital, Inc.
- - [https://www.sureswiftcapital.com](https://www.sureswiftcapital.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Limp Bizkit - Home
- - [https://store.suretone.com](https://store.suretone.com)
- - date_published: 2024-05-15T20:52:21.762091+00:00
-
- ## suretonemerch
- - [https://suretoneshop.com](https://suretoneshop.com)
- - date_published: 2024-07-19T04:59:40.059230+00:00
-
- ## Central Maine Real Estate & Homes for Sale | Surette Real Estate
- - [https://surette-realestate.com](https://surette-realestate.com)
- - date_published: 2021-06-22T16:03:15+00:00
-
- ## Home | Surf303.com
- - [http://surf303.com](http://surf303.com)
- - date_published: 2018-06-06T06:28:09+00:00
-
- ## SURFACE 51: Marketing, Everything.
- - [https://surface51.com](https://surface51.com)
- - date_published: 2024-10-15T07:24:34.712145+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investors.surfair.com](https://investors.surfair.com)
- - date_published: 2024-08-11T10:24:13.754771+00:00
-
- ## Transforming regional flying through electrification - Surf Air
- - [https://www.surfair.com](https://www.surfair.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## My blog.
- - [https://surfcoderepeat.com](https://surfcoderepeat.com)
- - date_published: 2023-04-22T22:35:33+00:00
- - tags: ['personal']
-
- ## Surfdog, Inc.
- - [http://www.surfdog.com](http://www.surfdog.com)
- - date_published: 2024-10-21T05:15:22.917762+00:00
-
- ## LinkedIn prospecting, streamlined. - SURFE
- - [https://www.surfe.com](https://www.surfe.com)
- - date_published: 2024-01-15T16:16:46+00:00
-
- ## Surfer — SEO, simplified.
- - [http://surferseo.com](http://surferseo.com)
- - date_published: 2024-07-14T13:27:28.768627+00:00
-
- ## SurferToday.com | The Ultimate Surfing News Website
- - [https://surfertoday.com](https://surfertoday.com)
- - date_published: 2024-03-04T18:53:53.898974+00:00
-
- ## Surf Forecast and Surf Reports Worldwide | Surf-forecast.com
- - [https://www.surf-forecast.com](https://www.surf-forecast.com)
- - date_published: 2024-10-28T23:05:04.729963+00:00
-
- ## Surfing Waves -  Online Resource for Surf Addicts!
- - [https://csscdn.surfing-waves.com](https://csscdn.surfing-waves.com)
- - date_published: 2024-07-20T19:19:20.784129+00:00
-
- ## Surfing Waves -  Online Resource for Surf Addicts!
- - [https://imgcdn.surfing-waves.com](https://imgcdn.surfing-waves.com)
- - date_published: 2024-07-20T19:19:22.592992+00:00
 

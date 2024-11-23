@@ -1,3 +1,91 @@
+ ## Dickinson College Homepage
+ - [http://www.dickinson.edu](http://www.dickinson.edu)
+ - date_published: 2024-06-18T07:52:10.636164+00:00
+
+ ## Home
+ - [http://www.dickinsonstate.edu](http://www.dickinsonstate.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## DigiPen Academy | Academic Preparatory and STEAM Courses
+ - [https://academy.digipen.edu](https://academy.digipen.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Admissions
+ - [https://connect.digipen.edu](https://connect.digipen.edu)
+ - date_published: 2024-07-14T09:34:26+00:00
+
+ ## Homepage
+ - [https://digipen.edu](https://digipen.edu)
+ - date_published: 2024-05-11T10:26:25.058580+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.digipen.edu](https://forms.digipen.edu)
+ - date_published: 2024-07-14T10:34:23.351157+00:00
+
+ ## Home - Diné College
+ - [https://dinecollege.edu](https://dinecollege.edu)
+ - date_published: 2018-03-30T17:35:48+00:00
+
+ ## Diné College KXWR Radio | Diné College KXWR Radio
+ - [https://kxwr.dinecollege.edu](https://kxwr.dinecollege.edu)
+ - date_published: 2024-07-08T15:05:21.340303+00:00
+
+ ## Diné College Libraries: Dine College Libraries Homepage: Home
+ - [https://lib.dinecollege.edu](https://lib.dinecollege.edu)
+ - date_published: 2024-07-08T15:05:15.982377+00:00
+
+ ## DiploFoundation - Where diplomacy meets technology
+ - [https://diplomacy.edu](https://diplomacy.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Diplo's Digital Repository :: Home
+ - [http://dspace.diplomacy.edu](http://dspace.diplomacy.edu)
+ - date_published: 2024-06-18T14:23:58.603753+00:00
+
+ ## Home - G. R. Berridge
+ - [https://grberridge.diplomacy.edu](https://grberridge.diplomacy.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## [Online conference] Digital and Diplomacy Conference (Sept 2021)
+ - [https://meetings.diplomacy.edu](https://meetings.diplomacy.edu)
+ - date_published: 2024-06-18T14:24:07.313423+00:00
+
+ ## Diplo Study – Learn Management System
+ - [https://study.diplomacy.edu](https://study.diplomacy.edu)
+ - date_published: 2024-06-18T14:23:55.138256+00:00
+
+ ## Home
+ - [https://www.dodea.edu](https://www.dodea.edu)
+ - date_published: 2024-07-20T20:22:50+00:00
+
+ ## SUNY Downstate Health Sciences University
+ - [https://www.downstate.edu](https://www.downstate.edu)
+ - date_published: 2024-07-15T03:39:49.530919+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://depts.drew.edu](http://depts.drew.edu)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Home - Drew University
+ - [https://drew.edu](https://drew.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Drew University
+ - [https://groups.drew.edu](https://groups.drew.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## uLogin
+ - [http://mail.drew.edu](http://mail.drew.edu)
+ - date_published: 2024-08-08T23:38:34.270306+00:00
+
+ ## Drew University Moodle
+ - [https://moodle.drew.edu](https://moodle.drew.edu)
+ - date_published: 2024-08-08T23:37:27+00:00
+
+ ## uLogin
+ - [https://s.drew.edu](https://s.drew.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## uLogin
  - [http://treehouse.drew.edu](http://treehouse.drew.edu)
  - date_published: 2024-08-08T00:00:00+00:00
@@ -3910,92 +3998,4 @@
  ## Home Page - 2024-2025 Undergraduate Bulletin
  - [http://bulletin.georgetown.edu](http://bulletin.georgetown.edu)
  - date_published: 2024-10-22T05:40:36.778529+00:00
-
- ## Called to Be: The Campaign for Georgetown
- - [https://calledtobe.georgetown.edu](https://calledtobe.georgetown.edu)
- - date_published: 2024-10-22T05:40:45.069358+00:00
-
- ## Georgetown Lombardi Institute for Cancer and Aging - Georgetown Lombardi Institute for Cancer and Aging
- - [https://cancerandaging.georgetown.edu](https://cancerandaging.georgetown.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Canvas Home Page - Canvas at Georgetown
- - [http://canvas.georgetown.edu](http://canvas.georgetown.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home Page - Capitol Campus
- - [https://capitolcampus.georgetown.edu](https://capitolcampus.georgetown.edu)
- - date_published: 2024-10-22T05:42:41.197481+00:00
-
- ## Home Page - Careers
- - [https://careers.georgetown.edu](https://careers.georgetown.edu)
- - date_published: 2024-06-18T13:34:38.474869+00:00
-
- ## Catholic Social Thought Homepage
- - [https://catholicsocialthought.georgetown.edu](https://catholicsocialthought.georgetown.edu)
- - date_published: 2024-10-22T05:42:49.993101+00:00
-
- ## Homepage - CCAS
- - [http://ccas.georgetown.edu](http://ccas.georgetown.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## MA Communication Culture & Technology | Georgetown University
- - [http://cct.georgetown.edu](http://cct.georgetown.edu)
- - date_published: 2024-06-22T09:58:58.394574+00:00
-
- ## Home Page - Classroom Educational Technology Services
- - [http://cets.georgetown.edu](http://cets.georgetown.edu)
- - date_published: 2024-10-22T05:41:47.901006+00:00
-
- ## Georgetown University Center on Education and the Workforce
- - [https://cew.georgetown.edu](https://cew.georgetown.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Homepage
- - [https://chinaforum.georgetown.edu](https://chinaforum.georgetown.edu)
- - date_published: 2024-05-04T11:46:00.311110+00:00
-
- ## Home Page - Center for Multicultural Equity and Access
- - [https://cmea.georgetown.edu](https://cmea.georgetown.edu)
- - date_published: 2024-10-22T05:35:48.263653+00:00
-
- ## CNDLS - Center for New Designs in Learning and Scholarship
- - [https://cndls.georgetown.edu](https://cndls.georgetown.edu)
- - date_published: 2024-07-12T19:41:20+00:00
-
- ## Home - College of Arts & Sciences
- - [https://college.georgetown.edu](https://college.georgetown.edu)
- - date_published: 2024-10-22T03:42:19.962060+00:00
-
- ## Class of 2024 Commencement - Commencement
- - [http://commencement.georgetown.edu](http://commencement.georgetown.edu)
- - date_published: 2024-10-22T05:41:49.232533+00:00
-
- ## Directory - Georgetown University
- - [http://contact.georgetown.edu](http://contact.georgetown.edu)
- - date_published: 2024-06-18T13:34:52.153318+00:00
-
- ## corpling@GU
- - [https://corpling.uis.georgetown.edu](https://corpling.uis.georgetown.edu)
- - date_published: 2022-09-04T15:15:22+00:00
-
- ## Georgetown Center for Retirement Initiatives
- - [https://cri.georgetown.edu](https://cri.georgetown.edu)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## CSET | Center for Security and Emerging Technology
- - [https://cset.georgetown.edu](https://cset.georgetown.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home Page - Department of Computer Science
- - [https://cs.georgetown.edu](https://cs.georgetown.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home Page - Disability Cultural Center
- - [https://disabilityculture.georgetown.edu](https://disabilityculture.georgetown.edu)
- - date_published: 2024-07-13T12:27:15.179632+00:00
-
- ## Home Page - Dahlgren Memorial Library
- - [https://dml.georgetown.edu](https://dml.georgetown.edu)
- - date_published: 2024-05-08T00:00:00+00:00
 

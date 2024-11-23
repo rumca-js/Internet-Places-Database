@@ -1,3 +1,55 @@
+ ## BigCharts: Stock Charts, Screeners, Interactive Charting and Research Tools
+ - [https://bigcharts.marketwatch.com](https://bigcharts.marketwatch.com)
+ - date_published: 2024-05-04T14:29:28.626174+00:00
+
+ ## Chat
+ - [https://chat.marketwatch.com](https://chat.marketwatch.com)
+ - date_published: 2024-06-21T23:41:32.388376+00:00
+
+ ## Home
+ - [https://corporate.marketwatch.com](https://corporate.marketwatch.com)
+ - date_published: 2024-05-04T14:29:05.602428+00:00
+
+ ## Customer Center - MarketWatch
+ - [https://customercenter.marketwatch.com](https://customercenter.marketwatch.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## MarketWatch: Stock Market News - Financial News - MarketWatch
+ - [https://marketwatch.com](https://marketwatch.com)
+ - date_published: 2023-10-25T10:57:58.274767+00:00
+
+ ## MarketWatch's Onboarding
+ - [https://onboarding.marketwatch.com](https://onboarding.marketwatch.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
+ - [https://s.marketwatch.com](https://s.marketwatch.com)
+ - date_published: 2024-05-04T14:29:17.383400+00:00
+
+ ## Virtual Stock Exchange - MarketWatch
+ - [http://vse.marketwatch.com](http://vse.marketwatch.com)
+ - date_published: 2024-07-17T06:28:44.954269+00:00
+
+ ## Send Press Releases With GlobeNews Wire | GlobeNewswire
+ - [http://www.marketwire.com](http://www.marketwire.com)
+ - date_published: 2024-07-06T23:58:19+00:00
+
+ ## Send Press Releases With GlobeNews Wire | GlobeNewswire
+ - [http://www.marketwired.com](http://www.marketwired.com)
+ - date_published: 2024-07-07T00:00:55+00:00
+
+ ## Mark Fiore's Political Animation
+ - [http://www.markfiore.com](http://www.markfiore.com)
+ - date_published: 2024-10-29T19:48:31.133704+00:00
+
+ ## Industrial Additive Manufacturing Platform | Markforged
+ - [https://3d.markforged.com](https://3d.markforged.com)
+ - date_published: 2024-06-18T07:42:03.719683+00:00
+
+ ## Investor Relations
+ - [https://investors.markforged.com](https://investors.markforged.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## Industrial Additive Manufacturing Platform | Markforged
  - [https://markforged.com](https://markforged.com)
  - date_published: 2024-05-02T11:56:27.159764+00:00
@@ -4006,56 +4058,4 @@
  ## Maven Creative
  - [https://mavencreative.com](https://mavencreative.com)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Maven Game
- - [https://mavengame.com](https://mavengame.com)
- - date_published: 2024-08-18T09:09:37.989200+00:00
-
- ## MavenGlobe.com - Jacob Wolfsheimer
- - [http://www.mavenglobe.com](http://www.mavenglobe.com)
- - date_published: 2024-01-04T18:10:46+00:00
-
- ## Trust the Future | Mavenir
- - [http://mavenir.com](http://mavenir.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Maven Motive – Making Technology Simple
- - [https://www.mavenmotive.com](https://www.mavenmotive.com)
- - date_published: 2024-09-17T21:30:48.674575+00:00
-
- ## Mavenoid troubleshooter
- - [https://app.mavenoid.com](https://app.mavenoid.com)
- - date_published: 2024-05-06T21:33:05.086012+00:00
-
- ## Mavenoid troubleshooter
- - [https://konecranes.mavenoid.com](https://konecranes.mavenoid.com)
- - date_published: 2024-05-04T09:57:21.183348+00:00
-
- ## Jewish Directory and Jewish Search by MavenSearch
- - [http://www.mavensearch.com](http://www.mavensearch.com)
- - date_published: 2024-06-27T07:58:19.402157+00:00
-
- ## Maven Securities - Advanced Trading & Technology
- - [https://mavensecurities.com](https://mavensecurities.com)
- - date_published: 2024-05-14T04:00:37.048353+00:00
-
- ## Mavenseed
- - [https://mavenseed.com](https://mavenseed.com)
- - date_published: 2024-06-30T09:38:19.483151+00:00
-
- ## Mavensmanor.com
- - [http://www.mavensmanor.com](http://www.mavensmanor.com)
- - date_published: 2024-07-08T12:05:17.480818+00:00
-
- ## California water news
- - [https://mavensnotebook.com](https://mavensnotebook.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Best Funded Trading Forex Prop Firm | Maven Trading
- - [https://maventrading.com](https://maventrading.com)
- - date_published: 2024-10-15T20:43:09+00:00
-
- ## Maverick Servers and Gaming
- - [http://maverickservers.com](http://maverickservers.com)
- - date_published: 2012-12-22T10:08:36+00:00
 

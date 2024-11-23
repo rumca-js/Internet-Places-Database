@@ -1,3 +1,39 @@
+ ## Doug TenNapel Comics
+ - [http://dougtcomics.com](http://dougtcomics.com)
+ - date_published: 2021-06-30T21:08:19+00:00
+
+ ## Home | DoujinStyle.com - The Home of Doujin Music and Games
+ - [https://doujinstyle.com](https://doujinstyle.com)
+ - date_published: 2024-06-23T18:08:17.351773+00:00
+
+ ## Home - Douwes Fine Art
+ - [http://www.douwesfineart.com](http://www.douwesfineart.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## https://www.douyin.com
+ - [https://douyin.com](https://douyin.com)
+ - date_published: 2024-01-09T02:35:21.185525+00:00
+
+ ## 斗鱼 - 每个人的直播平台
+ - [https://www.douyu.com](https://www.douyu.com)
+ - date_published: 2024-06-28T18:04:30.140870+00:00
+
+ ## Witaj w Dove
+ - [https://www.dove.com](https://www.dove.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Dove Medical Press - Open Access Publisher of Medical Journals
+ - [https://dovepress.com](https://dovepress.com)
+ - date_published: 2023-12-08T09:32:44.907062+00:00
+
+ ## Redefining what's possible | Dover Corporation
+ - [https://www.dovercorporation.com](https://www.dovercorporation.com)
+ - date_published: 2024-10-14T11:32:16.153116+00:00
+
+ ## Solid Waste Processing Solutions | Environmental Solutions Group
+ - [https://www.doveresg.com](https://www.doveresg.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
  ## Instant Loan Pre-qualification. No Credit Impact
  - [https://apply.doverfcu.com](https://apply.doverfcu.com)
  - date_published: 2024-07-05T09:55:57+00:00
@@ -1326,6 +1362,11 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## Home - Donna Hicks, PhD
  - [https://drdonnahicks.com](https://drdonnahicks.com)
  - date_published: 2018-04-15T21:38:46+00:00
+
+ ## Home - Dr. Dre
+ - [https://drdre.com](https://drdre.com)
+ - date_published: 1970-01-01T01:00:00+00:00
+ - tags: ['hip-hop', 'music artist']
 
  ## Dreadquill Publishing
  - [https://dreadquill.com](https://dreadquill.com)
@@ -4000,45 +4041,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## Duke Energy - Lakes And Recreation
  - [https://lakes.duke-energy.com](https://lakes.duke-energy.com)
  - date_published: 2017-03-13T00:00:00+00:00
-
- ## Home
- - [https://news.duke-energy.com](https://news.duke-energy.com)
- - date_published: 2024-06-16T07:06:22.601236+00:00
-
- ## Outage Map - Duke Energy
- - [https://outagemaps.duke-energy.com](https://outagemaps.duke-energy.com)
- - date_published: 2024-08-21T13:31:20+00:00
-
- ## Top Energy Service Companies | Duke Energy Sustainable Solutions
- - [http://sustainablesolutions.duke-energy.com](http://sustainablesolutions.duke-energy.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Duke Health Sector Advisory Council
- - [https://dukehsac.com](https://dukehsac.com)
- - date_published: 2024-10-16T09:13:58.051950+00:00
-
- ## Duke Nukem
- - [https://www.dukenukem.com](https://www.dukenukem.com)
- - date_published: 2016-10-10T00:00:00+00:00
-
- ## DUKES London Mayfair : Boutique Hotel, England’s Leading Hotel
- - [https://www.dukeshotel.com](https://www.dukeshotel.com)
- - date_published: 2024-07-10T10:23:45.938960+00:00
-
- ## Dukesnuz Blog And Favorite Websites
- - [https://david.dukesnuz.com](https://david.dukesnuz.com)
- - date_published: 2024-05-11T10:23:12.472089+00:00
-
- ## DukesNuz | Home | David Petringa
- - [http://www.dukesnuz.com](http://www.dukesnuz.com)
- - date_published: 2024-07-14T10:07:27.568773+00:00
-
- ## Dukeworld  - back from the past to kick your ass... hail to the king, baby!
- - [https://dukeworld.com](https://dukeworld.com)
- - date_published: 2024-06-18T21:17:19.698276+00:00
-
- ## Games by Lucas Pope
- - [https://dukope.com](https://dukope.com)
- - date_published: 2023-10-25T13:59:39.811375+00:00
- - tags: ['video game developer', 'personal']
 

@@ -1,3 +1,35 @@
+ ## The Secret Science Club
+ - [http://secretscienceclub.blogspot.com](http://secretscienceclub.blogspot.com)
+ - date_published: 2024-10-29T08:05:06+00:00
+
+ ## Tell Me a Secret
+ - [http://secretsinbaghdad.blogspot.com](http://secretsinbaghdad.blogspot.com)
+ - date_published: 2024-04-23T18:42:50+00:00
+
+ ## Gerald Weinberg's Secrets of Writing and Consulting
+ - [http://secretsofconsulting.blogspot.com](http://secretsofconsulting.blogspot.com)
+ - date_published: 2024-05-28T07:17:12+00:00
+
+ ## The Secular Foxhole
+ - [http://secularfoxhole.blogspot.com](http://secularfoxhole.blogspot.com)
+ - date_published: 2024-03-30T17:44:47+00:00
+
+ ## Secure.App.Dev
+ - [http://secureappdev.blogspot.com](http://secureappdev.blogspot.com)
+ - date_published: 2024-09-08T18:43:45+00:00
+
+ ## Blogger
+ - [http://seeglassrun.blogspot.com](http://seeglassrun.blogspot.com)
+ - date_published: 2024-10-29T20:31:17.824913+00:00
+
+ ## What I Do
+ - [http://seeifeyecare.blogspot.com](http://seeifeyecare.blogspot.com)
+ - date_published: 2024-09-08T16:27:14+00:00
+
+ ## See Jane Compute
+ - [http://seejanecompute.blogspot.com](http://seejanecompute.blogspot.com)
+ - date_published: 2024-10-19T08:20:08.694070+00:00
+
  ## The Seeking Wing
  - [http://seekingwing.blogspot.com](http://seekingwing.blogspot.com)
  - date_published: 2024-03-05T16:20:55+00:00
@@ -3981,37 +4013,4 @@
  ## The Liberty Sphere
  - [http://thelibertysphere.blogspot.com](http://thelibertysphere.blogspot.com)
  - date_published: 2024-07-03T06:50:11+00:00
-
- ## Find Joy in the Journey
- - [http://thelifeofmarkandaprilleespencer.blogspot.com](http://thelifeofmarkandaprilleespencer.blogspot.com)
- - date_published: 2024-04-04T15:05:10+00:00
-
- ## The life of Mr Andy C
- - [http://thelifeofmrandyc.blogspot.com](http://thelifeofmrandyc.blogspot.com)
- - date_published: 2024-10-21T13:46:23.333047+00:00
-
- ## The Line Writer
- - [http://thelinewriter.blogspot.com](http://thelinewriter.blogspot.com)
- - date_published: 2024-03-05T13:31:49+00:00
-
- ## The Long Island Rail Road Today
- - [https://thelirrtoday.blogspot.com](https://thelirrtoday.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Little Engineer That Could
- - [https://thelittleengineerthatcould.blogspot.com](https://thelittleengineerthatcould.blogspot.com)
- - date_published: 2023-10-25T09:18:26.159190+00:00
- - tags: ['personal']
-
- ## The Little Stitcher
- - [http://thelittlestitcher.blogspot.com](http://thelittlestitcher.blogspot.com)
- - date_published: 2024-08-18T10:22:33+00:00
-
- ## The little white attic
- - [http://thelittlewhiteattic.blogspot.com](http://thelittlewhiteattic.blogspot.com)
- - date_published: 2024-08-19T15:16:07+00:00
-
- ## The Looseleaf Report
- - [http://thelooseleafreport.blogspot.com](http://thelooseleafreport.blogspot.com)
- - date_published: 2024-10-05T02:00:09+00:00
 

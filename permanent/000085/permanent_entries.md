@@ -1,3 +1,39 @@
+ ## Sicherheit und Datenschutz | Deutsche Grammophon
+ - [https://sicherheitunddatenschutz.deutschegrammophon.com](https://sicherheitunddatenschutz.deutschegrammophon.com)
+ - date_published: 2024-09-16T02:57:00+00:00
+
+ ## Deutsche Grammophon - Das Label für klassische Musik seit 1898
+ - [https://www.deutschegrammophon.com](https://www.deutschegrammophon.com)
+ - date_published: 2024-07-20T12:51:49.319769+00:00
+
+ ## Akademie Deutsche POP: Ausbildung & Studium Kreativberufe
+ - [https://deutsche-pop.com](https://deutsche-pop.com)
+ - date_published: 2024-05-10T06:17:19.393944+00:00
+
+ ## America | DEUTZ-FAHR - DEUTZ-FAHR
+ - [https://www.deutz-fahr.com](https://www.deutz-fahr.com)
+ - date_published: 2024-08-11T16:53:39.604400+00:00
+
+ ## Conception Deux Huit Huit
+ - [https://watermark.deuxhuithuit.com](https://watermark.deuxhuithuit.com)
+ - date_published: 2024-07-16T19:55:41.297380+00:00
+
+ ## dev2next Conference
+ - [https://www.dev2next.com](https://www.dev2next.com)
+ - date_published: 2024-07-18T12:27:49.743783+00:00
+
+ ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
+ - [https://dev7studios.com](https://dev7studios.com)
+ - date_published: 2024-05-12T05:43:53.163897+00:00
+
+ ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
+ - [http://docs.dev7studios.com](http://docs.dev7studios.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Evidence-based medicine | Deva Boone, MD
+ - [https://devaboone.com](https://devaboone.com)
+ - date_published: 2024-03-18T16:03:48.224318+00:00
+
  ## Devamanyu Hazarika
  - [https://www.devamanyu.com](https://www.devamanyu.com)
  - date_published: 2024-06-22T09:51:11.302887+00:00
@@ -4002,40 +4038,4 @@ A blog about programming, distributed systems and others
  ## Assessbase
  - [https://assessbase-v2.digitalefqm.com](https://assessbase-v2.digitalefqm.com)
  - date_published: 2024-10-19T16:25:30.737455+00:00
-
- ## Knowledge Base Home Page
- - [https://knowledgebase.digitalefqm.com](https://knowledgebase.digitalefqm.com)
- - date_published: 2024-06-03T17:01:37+00:00
-
- ## Klasse Digitale Grafik — HFBK Hamburg
- - [http://digitale-grafik.com](http://digitale-grafik.com)
- - date_published: 2024-07-10T08:42:58+00:00
-
- ## Digital Engineering - Optimal Technology for Engineering Design, Simulation, Prototyping, Testing and Computing
- - [https://www.digitalengineering247.com](https://www.digitalengineering247.com)
- - date_published: 2024-08-11T08:10:50+00:00
-
- ## Digital Executrix - Digital Branding Agency - Copy | Graphics | Web
- - [https://www.digitalexecutrix.com](https://www.digitalexecutrix.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## 云上会展有限公司官网 – 打造数字会展新基建，数字展会，线上会展
- - [https://www.digitalexpo.com](https://www.digitalexpo.com)
- - date_published: 2024-07-09T11:01:24.552578+00:00
-
- ## Digital Extremes
- - [http://www.digitalextremes.com](http://www.digitalextremes.com)
- - date_published: 2024-07-19T15:07:54.969279+00:00
-
- ## Digital Finance Analytics
- - [https://digitalfinanceanalytics.com](https://digitalfinanceanalytics.com)
- - date_published: 2020-11-21T00:52:15+00:00
-
- ## Advertising Resources
- - [https://ads.digitalfirstmedia.com](https://ads.digitalfirstmedia.com)
- - date_published: 2024-06-15T12:49:19.092969+00:00
-
- ## MediaNews Group
- - [https://digitalfirstmedia.com](https://digitalfirstmedia.com)
- - date_published: 2024-06-14T19:37:09.445399+00:00
 

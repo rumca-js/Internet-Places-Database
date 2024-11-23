@@ -1,3 +1,15 @@
+ ## Servicio de Obstetricia | Hospital del Mar
+ - [https://obstetricia.parcdesalutmar.cat](https://obstetricia.parcdesalutmar.cat)
+ - date_published: 2021-07-12T00:00:00+00:00
+
+ ## Parc de Salut Mar
+ - [https://parcdesalutmar.cat](https://parcdesalutmar.cat)
+ - date_published: 2024-05-08T08:49:33.681184+00:00
+
+ ## Pirates de Catalunya
+ - [https://pirates.cat](https://pirates.cat)
+ - date_published: 2024-07-10T08:32:29.333417+00:00
+
  ## Inici
  - [http://www.portdebarcelona.cat](http://www.portdebarcelona.cat)
  - date_published: 2024-05-27T00:00:00+00:00
@@ -3730,10 +3742,6 @@
  - [https://audi.ch](https://audi.ch)
  - date_published: 2024-11-21T15:50:22.136004+00:00
 
- ## Audi Schweiz
- - [https://www.audi.ch](https://www.audi.ch)
- - date_published: 2024-07-19T20:46:40+00:00
-
  ## audienzz - premium. digital. advertising.
  - [https://audienzz.ch](https://audienzz.ch)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -4028,12 +4036,4 @@
  ## sirdarckcat
  - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
  - date_published: 2024-03-05T08:00:48+00:00
-
- ## Chocolats Blondel, Chocolatier depuis 1850
- - [https://blondel.ch](https://blondel.ch)
- - date_published: 2024-06-14T15:28:31.291077+00:00
-
- ## blue TV
- - [https://tv.blue.ch](https://tv.blue.ch)
- - date_published: 2024-06-13T16:45:40+00:00
 

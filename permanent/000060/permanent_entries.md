@@ -1,3 +1,35 @@
+ ## langguj 5
+ - [https://langguj.blogspot.com](https://langguj.blogspot.com)
+ - date_published: 2024-02-08T11:08:18+00:00
+
+ ## The Chocolate Interrobang
+ - [http://language-grammar.blogspot.com](http://language-grammar.blogspot.com)
+ - date_published: 2024-06-29T18:19:07+00:00
+
+ ## Language Hippie
+ - [http://languagehippie.blogspot.com](http://languagehippie.blogspot.com)
+ - date_published: 2024-06-27T08:10:41+00:00
+
+ ## The Language Nest
+ - [http://languagenest.blogspot.com](http://languagenest.blogspot.com)
+ - date_published: 2024-06-23T04:11:51+00:00
+
+ ## The Language of Food
+ - [https://languageoffood.blogspot.com](https://languageoffood.blogspot.com)
+ - date_published: 2024-04-29T03:18:58.592162+00:00
+
+ ## Languages of the World
+ - [http://languages-of-the-world.blogspot.com](http://languages-of-the-world.blogspot.com)
+ - date_published: 2024-03-06T00:50:51+00:00
+
+ ## Language Soup
+ - [http://languagesoup.blogspot.com](http://languagesoup.blogspot.com)
+ - date_published: 2024-10-21T17:16:23.287716+00:00
+
+ ## L'Antre du Collectionneur
+ - [https://lantreducollectionneur.blogspot.com](https://lantreducollectionneur.blogspot.com)
+ - date_published: 2024-09-22T09:42:47+00:00
+
  ## l'antro celtico
  - [https://lantrodellemagie.blogspot.com](https://lantrodellemagie.blogspot.com)
  - date_published: 2024-08-28T23:00:16+00:00
@@ -3978,36 +4010,4 @@
  ## Blogger
  - [http://moseknows.blogspot.com](http://moseknows.blogspot.com)
  - date_published: 2024-07-20T21:17:09.582791+00:00
-
- ## The Eastern Frontier
- - [http://mosemanmachine.blogspot.com](http://mosemanmachine.blogspot.com)
- - date_published: 2024-10-05T02:10:48+00:00
-
- ## Mostly Cajun
- - [https://mostlycajun.blogspot.com](https://mostlycajun.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Mostly Paved
- - [http://mostlypaved.blogspot.com](http://mostlypaved.blogspot.com)
- - date_published: 2024-02-02T05:14:04+00:00
-
- ## Hill 107
- - [http://moth107.blogspot.com](http://moth107.blogspot.com)
- - date_published: 2024-07-03T01:36:41+00:00
-
- ## Motherhood and Me
- - [https://motherhoodraandme.blogspot.com](https://motherhoodraandme.blogspot.com)
- - date_published: 2024-05-10T06:03:38+00:00
-
- ## Mother of Reinvention
- - [http://mother-of-reinvention.blogspot.com](http://mother-of-reinvention.blogspot.com)
- - date_published: 2024-07-04T06:34:37+00:00
-
- ## The Mother's Lounge
- - [http://motherslounge.blogspot.com](http://motherslounge.blogspot.com)
- - date_published: 2024-02-02T17:14:03+00:00
-
- ## Brilliant-Looking by Candlelight
- - [http://motlo.blogspot.com](http://motlo.blogspot.com)
- - date_published: 2024-03-13T20:18:57+00:00
 

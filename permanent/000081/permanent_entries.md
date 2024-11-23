@@ -1,3 +1,39 @@
+ ## Transformational CTO Coaching, Mentoring and Community | CTO Craft
+ - [https://ctocraft.com](https://ctocraft.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home - CTOS Digital Berhad
+ - [https://ctosdigital.com](https://ctosdigital.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Home
+ - [https://ctpost.com](https://ctpost.com)
+ - date_published: 2023-11-27T18:05:35.802450+00:00
+
+ ## CampusTours - Interactive Virtual Tours and Campus Maps
+ - [https://code.ctpprojects.com](https://code.ctpprojects.com)
+ - date_published: 2024-04-30T03:50:11.377625+00:00
+
+ ## CampusTours - Interactive Virtual Tours and Campus Maps
+ - [https://style.ctpprojects.com](https://style.ctpprojects.com)
+ - date_published: 2024-04-30T03:50:08.943733+00:00
+
+ ## Spotware cTrader | Open Trading Platform
+ - [https://app.ctrader.com](https://app.ctrader.com)
+ - date_published: 2024-06-26T09:03:56.563540+00:00
+
+ ## Forex & Algorithmic Trading Community | cTrader Community
+ - [https://ctrader.com](https://ctrader.com)
+ - date_published: 2024-05-06T18:31:26.642333+00:00
+
+ ## cTrader Help Center
+ - [https://help.ctrader.com](https://help.ctrader.com)
+ - date_published: 2024-05-28T13:07:44+00:00
+
+ ## cTrader Open API
+ - [https://openapi.ctrader.com](https://openapi.ctrader.com)
+ - date_published: 2024-06-26T09:03:59.759637+00:00
+
  ## CTRify | A.I. that do Webs, Content, Backlinks, Traffic & CTR Optimization
  - [https://ctrify.com](https://ctrify.com)
  - date_published: 2024-10-27T19:12:33+00:00
@@ -4003,40 +4039,4 @@ for your agency
  ## Daily Investor – Investing and business news, financial data, and insights for intelligent South African investors.
  - [https://dailyinvestor.com](https://dailyinvestor.com)
  - date_published: 2023-10-25T13:41:40.446699+00:00
-
- ## Smart Money
- - [https://watch.dailyinvestor.com](https://watch.dailyinvestor.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Daily Jugarr
- - [https://dailyjugarr.com](https://dailyjugarr.com)
- - date_published: 2024-03-29T04:27:16.475098+00:00
-
- ## Daily Kos: Comics
- - [http://comics.dailykos.com](http://comics.dailykos.com)
- - date_published: 2024-05-01T03:30:44.107276+00:00
-
- ## Daily Kos
- - [https://dailykos.com](https://dailykos.com)
- - date_published: 2024-05-01T03:30:27.820533+00:00
-
- ## Daily Kos: Daily Kos Elections
- - [https://elections.dailykos.com](https://elections.dailykos.com)
- - date_published: 2024-05-01T03:30:37.300094+00:00
-
- ## Daily Kos
- - [https://feeds.dailykos.com](https://feeds.dailykos.com)
- - date_published: 2024-05-01T02:31:22+00:00
-
- ## DailyKos
- - [https://store.dailykos.com](https://store.dailykos.com)
- - date_published: 2024-05-01T03:30:45.758639+00:00
-
- ## The ultimate Daily Kos Elections guide to all of our data sets
- - [https://dailykosdata.com](https://dailykosdata.com)
- - date_published: 2024-06-15T12:39:37.246561+00:00
-
- ## Small Business - Daily Leader
- - [https://smb.dailyleader.com](https://smb.dailyleader.com)
- - date_published: 2024-06-29T01:58:31.215915+00:00
 

@@ -1,3 +1,31 @@
+ ## Drug substance CDMO located in California, USA.
+ - [https://avidbio.com](https://avidbio.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Investor Relations | Avid Bioservices, Inc.
+ - [http://ir.avidbio.com](http://ir.avidbio.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Neo Floor Cleaner - Commercial Floor Scrubber  | Avidbots
+ - [https://avidbots.com](https://avidbots.com)
+ - date_published: 2024-09-05T20:39:46.603538+00:00
+
+ ## Avidfolk — Home — Avidfolk Consulting, LLP
+ - [https://avidfolk.com](https://avidfolk.com)
+ - date_published: 2024-07-02T20:49:08.631132+00:00
+
+ ## Avid Reader Press // Home
+ - [http://avidreaderpress.com](http://avidreaderpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## A view from the cycle path
+ - [https://aviewfromthecyclepath.com](https://aviewfromthecyclepath.com)
+ - date_published: 2023-10-25T12:50:44.833761+00:00
+
+ ## Avifa Infotech - Tech Incubator & Accelerator in Kolkata
+ - [https://www.avifainfotech.com](https://www.avifainfotech.com)
+ - date_published: 2024-05-25T12:04:41+00:00
+
  ## End-to-End Security Solutions | Avigilon (Openpath & Ava)
  - [https://www.avigilon.com](https://www.avigilon.com)
  - date_published: 2024-06-29T03:24:10+00:00
@@ -4003,32 +4031,4 @@
  - [https://balanc3dgame.com](https://balanc3dgame.com)
  - date_published: 2024-06-28T18:42:44+00:00
  - tags: ['video game', 'web game']
-
- ## العاب توازن
- - [https://balancinggame.com](https://balancinggame.com)
- - date_published: 2024-06-15T08:16:49.145714+00:00
-
- ## Balardi - luksusowe marki po przystępnych cenach
- - [https://balardi.com](https://balardi.com)
- - date_published: 2024-10-30T11:04:53.482788+00:00
-
- ## Balashon - Hebrew Language Detective
- - [http://www.balashon.com](http://www.balashon.com)
- - date_published: 2024-06-28T23:18:33+00:00
-
- ## Venkat Balasubramani on about.me
- - [http://www.balasubramani.com](http://www.balasubramani.com)
- - date_published: 2024-07-13T10:29:02.019908+00:00
-
- ## CINEMASF
- - [https://www.balboamovies.com](https://www.balboamovies.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Balbooa — Joomla Extensions for Professionals
- - [http://www.balbooa.com](http://www.balbooa.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Home - Balchem
- - [https://balchem.com](https://balchem.com)
- - date_published: 2024-05-09T00:00:00+00:00
 

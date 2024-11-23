@@ -1,3 +1,91 @@
+ ## UCLA Profiles • Find/collaborate with leading health researchers
+ - [https://profiles.ucla.edu](https://profiles.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Automated Reasoning Group - UCLA
+ - [http://reasoning.cs.ucla.edu](http://reasoning.cs.ucla.edu)
+ - date_published: 2024-08-18T18:44:55.622444+00:00
+
+ ## Welcome - UCLA Academic RECRUIT
+ - [https://recruit.apo.ucla.edu](https://recruit.apo.ucla.edu)
+ - date_published: 2024-10-29T18:27:51.485184+00:00
+
+ ## Welcome! | UCLA Registrar’s Office
+ - [https://registrar.ucla.edu](https://registrar.ucla.edu)
+ - date_published: 2024-07-01T20:43:03+00:00
+
+ ## Home | Research & Creative Activities
+ - [https://research.ucla.edu](https://research.ucla.edu)
+ - date_published: 2024-07-01T22:44:57+00:00
+
+ ## Welcome to Residential Life! | Residential Life
+ - [https://reslife.ucla.edu](https://reslife.ucla.edu)
+ - date_published: 2024-06-29T01:32:20+00:00
+
+ ## UCLA Samueli School of Engineering. Engineer Change.
+ - [https://samueli.ucla.edu](https://samueli.ucla.edu)
+ - date_published: 2024-06-30T05:34:01+00:00
+
+ ## UCLA Student Affairs
+ - [https://sa.ucla.edu](https://sa.ucla.edu)
+ - date_published: 2016-02-18T23:53:14+00:00
+
+ ## UCLA Single Sign-On
+ - [https://saweb.uclanet.ucla.edu](https://saweb.uclanet.ucla.edu)
+ - date_published: 2024-07-01T23:05:16.259442+00:00
+
+ ## Scalable Analytics Institute (ScAi) | where data finds its meaning
+ - [https://scai.cs.ucla.edu](https://scai.cs.ucla.edu)
+ - date_published: 2024-06-30T05:33:56.550428+00:00
+
+ ## UCLA Herb Alpert School of Music - All in One Place
+ - [https://schoolofmusic.ucla.edu](https://schoolofmusic.ucla.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## UCLA Cognitive Systems Laboratory (Experimental)
+ - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
+ - date_published: 2023-04-12T18:21:36+00:00
+
+ ## Smadar Naoz
+ - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
+ - date_published: 2024-04-30T03:33:26.794955+00:00
+
+ ## Social Media | UCLA Social Media
+ - [https://socialmedia.ucla.edu](https://socialmedia.ucla.edu)
+ - date_published: 2024-07-01T23:07:14.437929+00:00
+
+ ## Social Sciences
+ - [http://socialsciences.ucla.edu](http://socialsciences.ucla.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## UCLA | Spark
+ - [https://spark.ucla.edu](https://spark.ucla.edu)
+ - date_published: 2024-07-01T23:05:01.147710+00:00
+
+ ## UCLA Anderson Blogs – UCLA Anderson Blogs
+ - [https://stories.anderson.ucla.edu](https://stories.anderson.ucla.edu)
+ - date_published: 2024-10-29T09:13:58.273481+00:00
+
+ ## Creating the Future: UCLA Strategic Plan 2023-28
+ - [https://strategic-plan.ucla.edu](https://strategic-plan.ucla.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - UCLA Summer Sessions
+ - [https://summer.ucla.edu](https://summer.ucla.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## D|MA Support v2.0
+ - [https://support.dma.ucla.edu](https://support.dma.ucla.edu)
+ - date_published: 2024-10-29T11:44:26.044988+00:00
+
+ ## Home | UCLA TDG
+ - [https://tdg.ucla.edu](https://tdg.ucla.edu)
+ - date_published: 2024-07-01T23:02:00.263817+00:00
+
+ ## Home | Transportation
+ - [https://transportation.ucla.edu](https://transportation.ucla.edu)
+ - date_published: 2024-07-01T22:44:57+00:00
+
  ## UCLA
  - [https://ucla.edu](https://ucla.edu)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -3915,92 +4003,4 @@
  ## Rx for Change: Home
  - [https://rxforchange.ucsf.edu](https://rxforchange.ucsf.edu)
  - date_published: 2024-07-02T01:48:50.613632+00:00
-
- ## Student Academic Affairs
- - [https://saa.ucsf.edu](https://saa.ucsf.edu)
- - date_published: 2024-07-02T01:35:55+00:00
-
- ## Shibboleth Authentication Request
- - [http://scholar.ucsf.edu](http://scholar.ucsf.edu)
- - date_published: 2024-07-02T01:54:55.724491+00:00
-
- ## HOME
- - [http://sds.ucsf.edu](http://sds.ucsf.edu)
- - date_published: 2024-07-02T01:37:17+00:00
-
- ## UCSF School of Medicine Vice Dean's Office at ZSFG
- - [http://sfgh.ucsf.edu](http://sfgh.ucsf.edu)
- - date_published: 2024-07-02T01:48:38+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://shpr.ucsf.edu](https://shpr.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## Welcome to the UCSF Center for ASD and NDDs | The UCSF Center for ASD and NDDs
- - [https://star.ucsf.edu](https://star.ucsf.edu)
- - date_published: 2024-07-02T00:24:10+00:00
-
- ## Student Academic Affairs
- - [http://studentaffairs.ucsf.edu](http://studentaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:40:12+00:00
-
- ## Student Life
- - [https://studentlife.ucsf.edu](https://studentlife.ucsf.edu)
- - date_published: 2024-07-02T01:40:16+00:00
-
- ## Welcome to Student Mental Health and Wellbeing
- - [https://studentmentalhealth.ucsf.edu](https://studentmentalhealth.ucsf.edu)
- - date_published: 2024-07-02T01:34:51+00:00
-
- ## HOME
- - [https://success.ucsf.edu](https://success.ucsf.edu)
- - date_published: 2024-05-07T21:07:48.715308+00:00
-
- ## Home Page
- - [http://synapse.ucsf.edu](http://synapse.ucsf.edu)
- - date_published: 2024-07-01T19:46:38+00:00
-
- ## tiny.ucsf.edu home
- - [https://tiny.ucsf.edu](https://tiny.ucsf.edu)
- - date_published: 2024-07-02T01:55:11.626802+00:00
-
- ## Home | UCSF Together
- - [https://together.ucsf.edu](https://together.ucsf.edu)
- - date_published: 2024-05-07T21:07:53.774272+00:00
-
- ## Learning &amp; Organization Development
- - [https://training.ucsf.edu](https://training.ucsf.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UCSF Climate
- - [https://ucsfclimate.ucsf.edu](https://ucsfclimate.ucsf.edu)
- - date_published: 2024-07-02T01:54:02+00:00
-
- ## Home | UC San Francisco
- - [https://ucsf.edu](https://ucsf.edu)
- - date_published: 2023-10-25T19:01:18.504331+00:00
-
- ## What We Do
- - [https://undocu.ucsf.edu](https://undocu.ucsf.edu)
- - date_published: 2024-07-02T01:40:18+00:00
-
- ## Shibboleth Authentication Request
- - [https://uptodate.ucsf.edu](https://uptodate.ucsf.edu)
- - date_published: 2024-07-02T01:54:53.644796+00:00
-
- ## Vale_Lab_Homepage
- - [http://valelab4.ucsf.edu](http://valelab4.ucsf.edu)
- - date_published: 2014-11-04T23:17:09+00:00
-
- ## Welcome
- - [http://veterans.ucsf.edu](http://veterans.ucsf.edu)
- - date_published: 2024-07-02T01:40:07+00:00
-
- ## Homepage
- - [https://websites.ucsf.edu](https://websites.ucsf.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Industry Documents Library
- - [https://www.industrydocuments.ucsf.edu](https://www.industrydocuments.ucsf.edu)
- - date_published: 2024-06-30T02:47:42.092119+00:00
 

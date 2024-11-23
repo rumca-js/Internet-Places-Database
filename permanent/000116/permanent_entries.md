@@ -1,3 +1,51 @@
+ ## Log-in - HealthFusion MediTouch
+ - [https://login.healthfusion.com](https://login.healthfusion.com)
+ - date_published: 2024-10-28T06:41:33.541601+00:00
+
+ ## Book FREE Doctor Consultation & Appointment | Health Gennie
+ - [https://www.healthgennie.com](https://www.healthgennie.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Health Gorilla | Health Data Network, Infrastructure, & APIs
+ - [https://www.healthgorilla.com](https://www.healthgorilla.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## This page is not available in your area
+ - [https://www.healthgrades.com](https://www.healthgrades.com)
+ - date_published: 2024-06-22T07:00:20.099826+00:00
+
+ ## HealthHelpZone.com: Your Online Health Guide
+ - [https://www.healthhelpzone.com](https://www.healthhelpzone.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Private Health Clinics & Therapists Directory | HealthHubble
+ - [https://healthhubble.com](https://healthhubble.com)
+ - date_published: 2024-04-30T06:17:08.781542+00:00
+
+ ## Feed Fortification | Healthier Hens
+ - [https://www.healthierhens.com](https://www.healthierhens.com)
+ - date_published: 2024-06-21T11:38:39.076682+00:00
+
+ ## Home - Healthier Steps
+ - [https://healthiersteps.com](https://healthiersteps.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Health Imaging | Homepage
+ - [https://healthimaging.com](https://healthimaging.com)
+ - date_published: 2023-12-07T14:49:42.637664+00:00
+
+ ## Health Impact News
+ - [https://healthimpactnews.com](https://healthimpactnews.com)
+ - date_published: 2014-10-10T03:53:36+00:00
+
+ ## Home - VibraTec
+ - [https://healthisfreedom.com](https://healthisfreedom.com)
+ - date_published: 2024-10-28T08:14:30+00:00
+
+ ## Predictive Analytics, Artificial Intelligence, and Population Health Management News and Insights - HealthITAnalytics
+ - [https://healthitanalytics.com](https://healthitanalytics.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## Home
  - [https://www.healthleadersmedia.com](https://www.healthleadersmedia.com)
  - date_published: 2024-09-14T07:06:16+00:00
@@ -3979,52 +4027,4 @@
  ## Hevo Data | ETL, Data Integration & Data Pipeline Platform
  - [https://hevodata.com](https://hevodata.com)
  - date_published: 2024-05-01T07:43:42.396748+00:00
-
- ## Hevo Status
- - [https://status.hevodata.com](https://status.hevodata.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Hevo - Automated Data Pipeline
- - [https://us.hevodata.com](https://us.hevodata.com)
- - date_published: 2024-10-07T12:02:06+00:00
-
- ## Hevy
- - [https://hevy.com](https://hevy.com)
- - date_published: 2024-08-07T20:58:16.930723+00:00
-
- ## Hewell | Your Tour Guide to the World
- - [https://hewellapp.com](https://hewellapp.com)
- - date_published: 2022-08-14T22:08:16+00:00
-
- ## hewgill.com: Greg Hewgill's Site
- - [https://hewgill.com](https://hewgill.com)
- - date_published: 2018-10-25T08:34:13+00:00
-
- ## Hewlett-Packard Historical Archive - Hewlett-Packard History
- - [https://www.hewlettpackardhistory.com](https://www.hewlettpackardhistory.com)
- - date_published: 2024-07-19T23:57:07.485735+00:00
-
- ## hewner.com
- - [https://files.hewner.com](https://files.hewner.com)
- - date_published: 2024-05-04T15:26:45.327276+00:00
-
- ## hewner.com
- - [https://hewner.com](https://hewner.com)
- - date_published: 2024-05-04T15:26:54.897289+00:00
-
- ## hewner.com
- - [http://ww38.files.hewner.com](http://ww38.files.hewner.com)
- - date_published: 2024-06-22T09:18:14.312780+00:00
-
- ## hewner.com
- - [http://ww38.hewner.com](http://ww38.hewner.com)
- - date_published: 2024-06-22T09:19:28.121583+00:00
-
- ## Hexaèdre
- - [https://hexaedre.com](https://hexaedre.com)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Global leader in sensor and software technologies I Hexagon
- - [https://hexagon.com](https://hexagon.com)
- - date_published: 2024-04-04T00:00:00+00:00
 

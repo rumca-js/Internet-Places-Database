@@ -1,3 +1,144 @@
+ ## Home
+		 · PS Connect
+ - [https://psconnect.exeter.ac.uk](https://psconnect.exeter.ac.uk)
+ - date_published: 2024-06-17T17:52:12.259867+00:00
+
+ ## University of Exeter WordPress
+ - [https://sites.exeter.ac.uk](https://sites.exeter.ac.uk)
+ - date_published: 2024-10-20T04:09:57.925856+00:00
+
+ ## College of Social Sciences and International Studies  | College of Social Sciences and International Studies | University of Exeter
+ - [https://socialsciences.exeter.ac.uk](https://socialsciences.exeter.ac.uk)
+ - date_published: 2023-09-29T17:30:12+00:00
+
+ ## Sport  | Sport | University of Exeter
+ - [https://sport.exeter.ac.uk](https://sport.exeter.ac.uk)
+ - date_published: 2024-06-17T17:51:57.277109+00:00
+
+ ## Log in to the portal
+ - [https://srs.exeter.ac.uk](https://srs.exeter.ac.uk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Secure Portal Redirect
+ - [https://staff.exeter.ac.uk](https://staff.exeter.ac.uk)
+ - date_published: 2020-11-18T17:20:43+00:00
+
+ ## Faculty of Occupational Medicine
+ - [http://www.fom.ac.uk](http://www.fom.ac.uk)
+ - date_published: 2024-07-03T15:35:16.030310+00:00
+
+ ## Home | Forth Valley College
+ - [https://www.forthvalley.ac.uk](https://www.forthvalley.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## GATE Cloud: Text Analytics in the Cloud
+ - [http://cloud.gate.ac.uk](http://cloud.gate.ac.uk)
+ - date_published: 2024-08-07T16:58:43.695321+00:00
+
+ ## GATE.ac.uk  - index.html
+ - [https://gate.ac.uk](https://gate.ac.uk)
+ - date_published: 2024-04-28T03:36:36.486418+00:00
+
+ ## Joker Slot: Keseruan Tanpa Batas dalam Permainan Favorit
+ - [http://www.genomicsnetwork.ac.uk](http://www.genomicsnetwork.ac.uk)
+ - date_published: 2024-10-19T07:06:36.575958+00:00
+
+ ## Welcome to Enlighten Publications - Enlighten Publications
+ - [http://eprints.gla.ac.uk](http://eprints.gla.ac.uk)
+ - date_published: 2024-06-18T13:07:27.083645+00:00
+
+ ## Historical Thesaurus :: Home :: Welcome
+ - [https://historicalthesaurus.arts.gla.ac.uk](https://historicalthesaurus.arts.gla.ac.uk)
+ - date_published: 2024-05-07T15:44:57.773361+00:00
+
+ ## University of Glasgow - Schools - School of Computing Science - Research - Research sections - IDA-Section - Information Retrieval
+ - [http://ir.dcs.gla.ac.uk](http://ir.dcs.gla.ac.uk)
+ - date_published: 2024-06-18T13:08:19.916184+00:00
+
+ ## A Thesaurus of Old English :: Home :: Welcome
+ - [http://oldenglishthesaurus.arts.gla.ac.uk](http://oldenglishthesaurus.arts.gla.ac.uk)
+ - date_published: 2024-06-30T07:37:19.410882+00:00
+
+ ## Graham Woan's Home Page
+ - [http://radio.astro.gla.ac.uk](http://radio.astro.gla.ac.uk)
+ - date_published: 2020-02-24T13:32:14+00:00
+
+ ## University of Glasgow Events
+ - [https://samoa.dcs.gla.ac.uk](https://samoa.dcs.gla.ac.uk)
+ - date_published: 2024-04-28T04:06:58.154890+00:00
+
+ ## University of Glasgow - MyGlasgow - Archives & Special Collections - Collections
+ - [http://special.lib.gla.ac.uk](http://special.lib.gla.ac.uk)
+ - date_published: 2024-06-24T09:18:05.561781+00:00
+
+ ## The Terrier Team
+ - [https://terrierteam.dcs.gla.ac.uk](https://terrierteam.dcs.gla.ac.uk)
+ - date_published: 2024-02-28T10:17:26+00:00
+
+ ## Astronomy & Astrophysics Group | University of Glasgow
+ - [https://www.astro.gla.ac.uk](https://www.astro.gla.ac.uk)
+ - date_published: 2023-12-19T10:03:15.681293+00:00
+
+ ## University of Glasgow - Schools - School of Chemistry
+ - [https://www.chem.gla.ac.uk](https://www.chem.gla.ac.uk)
+ - date_published: 2024-10-19T05:49:35.019304+00:00
+
+ ## The University of Glasgow, Scotland, UK. A world top 100 university
+ - [http://www.gla.ac.uk](http://www.gla.ac.uk)
+ - date_published: 2024-11-04T19:56:29.892248+00:00
+
+ ## University of Glasgow - The Hunterian
+ - [http://www.hunterian.gla.ac.uk](http://www.hunterian.gla.ac.uk)
+ - date_published: 2024-06-24T09:07:04.302704+00:00
+
+ ## The University of Glasgow, Scotland, UK. A world top 100 university
+ - [https://glasgow.ac.uk](https://glasgow.ac.uk)
+ - date_published: 2024-10-17T06:38:04.103128+00:00
+
+ ## Godalming College
+ - [https://www.godalming.ac.uk](https://www.godalming.ac.uk)
+ - date_published: 2024-06-29T03:30:44.889214+00:00
+
+ ## Sign in to your account
+ - [https://learn.gold.ac.uk](https://learn.gold.ac.uk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Welcome to the Goldsmiths Virtual Tour - Goldsmiths Virtual Tour
+ - [https://virtualtours.gold.ac.uk](https://virtualtours.gold.ac.uk)
+ - date_published: 2024-06-27T15:06:01+00:00
+
+ ## Goldsmiths, University of London
+ - [https://www.gold.ac.uk](https://www.gold.ac.uk)
+ - date_published: 2024-05-06T22:11:53.527906+00:00
+
+ ## University of Greenwich Journals and Working Papers
+ - [https://journals.gre.ac.uk](https://journals.gre.ac.uk)
+ - date_published: 2024-06-26T14:13:38.473817+00:00
+
+ ## Welcome to the University of Greenwich, London
+ - [http://www.gre.ac.uk](http://www.gre.ac.uk)
+ - date_published: 2024-10-29T18:27:08.594596+00:00
+
+ ## Gresham College
+ - [https://www.gresham.ac.uk](https://www.gresham.ac.uk)
+ - date_published: 2024-09-09T23:31:11.523258+00:00
+
+ ## The Glasgow School of Art
+ - [http://www.gsa.ac.uk](http://www.gsa.ac.uk)
+ - date_published: 2024-10-21T16:39:03.560944+00:00
+
+ ## Welcome to Guildhall
+ - [https://www.gsmd.ac.uk](https://www.gsmd.ac.uk)
+ - date_published: 2024-10-20T03:46:23.059230+00:00
+
+ ## HECToR » HECToR Home Page
+ - [http://www.hector.ac.uk](http://www.hector.ac.uk)
+ - date_published: 2014-10-27T12:31:20+00:00
+
+ ## Archive Timeline - UK Government Web Archive
+ - [http://www.hefce.ac.uk](http://www.hefce.ac.uk)
+ - date_published: 2024-10-17T06:33:02.749532+00:00
+
  ## HEPI: Higher Education Policy Institute
  - [https://www.hepi.ac.uk](https://www.hepi.ac.uk)
  - date_published: 2024-07-09T14:16:57.513347+00:00
@@ -3868,144 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## University of Strathclyde - Service Catalogue
  - [https://servicecatalogue.strath.ac.uk](https://servicecatalogue.strath.ac.uk)
  - date_published: 2023-10-03T08:25:54+00:00
-
- ## University of Strathclyde - Service Status
- - [https://status.strath.ac.uk](https://status.strath.ac.uk)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## STAX
- - [https://stax.strath.ac.uk](https://stax.strath.ac.uk)
- - date_published: 2024-05-10T05:39:33.530643+00:00
-
- ## Strathprints: The University of Strathclyde institutional repository - Strathprints
- - [https://strathprints.strath.ac.uk](https://strathprints.strath.ac.uk)
- - date_published: 2023-12-07T17:36:01.374666+00:00
-
- ## Telephone Directory - Search
- - [https://teledir.strath.ac.uk](https://teledir.strath.ac.uk)
- - date_published: 2024-07-12T16:51:19.428053+00:00
-
- ## University of Strathclyde, Glasgow
- - [https://www.strath.ac.uk](https://www.strath.ac.uk)
- - date_published: 2024-05-10T05:39:32.331054+00:00
-
- ## Studying Economics
- - [https://www.studyingeconomics.ac.uk](https://www.studyingeconomics.ac.uk)
- - date_published: 2024-07-02T13:49:39+00:00
-
- ## Suffolk New College - Further Education Provider of the Year
- - [https://www.suffolk.ac.uk](https://www.suffolk.ac.uk)
- - date_published: 2024-08-06T10:26:39+00:00
-
- ## University of Sunderland in London
- - [https://london.sunderland.ac.uk](https://london.sunderland.ac.uk)
- - date_published: 2024-10-20T03:47:00.211194+00:00
-
- ## Home | My.SUPA
- - [http://my.supa.ac.uk](http://my.supa.ac.uk)
- - date_published: 2024-06-17T17:53:17+00:00
-
- ## Scottish Universities Physics Alliance |
- - [https://www.supa.ac.uk](https://www.supa.ac.uk)
- - date_published: 2024-05-02T10:54:23.791727+00:00
-
- ## International Conference on 3D Vision 2021   - International Conference on 3D Vision 2021
- - [https://3dv2021.surrey.ac.uk](https://3dv2021.surrey.ac.uk)
- - date_published: 2024-07-24T05:50:05.178369+00:00
-
- ## University of Surrey Blogs
- - [https://blogs.surrey.ac.uk](https://blogs.surrey.ac.uk)
- - date_published: 2024-02-08T16:44:58.359175+00:00
-
- ## University of Surrey International Study Centre | UK University Preparation
- - [https://isc.surrey.ac.uk](https://isc.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:18.915303+00:00
-
- ## MORPH – A blog about languages and how they change
- - [https://morph.surrey.ac.uk](https://morph.surrey.ac.uk)
- - date_published: 2024-07-02T10:14:48.714128+00:00
-
- ## University Of Surrey | MySurrey
- - [https://my.surrey.ac.uk](https://my.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:20.165436+00:00
-
- ## HTTP Server Test Page powered by: Rocky Linux
- - [http://personal.ee.surrey.ac.uk](http://personal.ee.surrey.ac.uk)
- - date_published: 2022-07-27T18:04:30+00:00
-
- ## Surrey Online Store
- - [https://store.surrey.ac.uk](https://store.surrey.ac.uk)
- - date_published: 2024-07-09T13:46:29.553402+00:00
-
- ## Sign in to Outlook
- - [https://surrey365.surrey.ac.uk](https://surrey365.surrey.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Surrey
- - [https://surrey.ac.uk](https://surrey.ac.uk)
- - date_published: 2024-05-09T05:20:14.677825+00:00
-
- ## Sign in to your account
- - [https://surreylearn.surrey.ac.uk](https://surreylearn.surrey.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Teaching Innovations
- - [https://teachinginnovations.surrey.ac.uk](https://teachinginnovations.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:25.816078+00:00
-
- ## Welcome to Surrey
- - [https://welcome.surrey.ac.uk](https://welcome.surrey.ac.uk)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## University Of Surrey | MySurrey
- - [https://wellbeing.surrey.ac.uk](https://wellbeing.surrey.ac.uk)
- - date_published: 2024-07-08T13:02:55+00:00
-
- ## Search Home
- - [https://cronfa.swan.ac.uk](https://cronfa.swan.ac.uk)
- - date_published: 2024-10-14T23:48:57.706442+00:00
-
- ## IMO – Immersive Media Observatory , CoE research department for the practical use of VR into teaching, industry and research
- - [https://eng-imo.swan.ac.uk](https://eng-imo.swan.ac.uk)
- - date_published: 2024-06-16T15:28:39.042685+00:00
-
- ## Home - Y Ganolfan Eifftaidd / Egypt Centre
- - [https://www.egypt.swan.ac.uk](https://www.egypt.swan.ac.uk)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Swansea University
- - [http://www.swan.ac.uk](http://www.swan.ac.uk)
- - date_published: 2024-06-24T10:53:26.599328+00:00
-
- ## Events at Swansea University
- - [https://events.swansea.ac.uk](https://events.swansea.ac.uk)
- - date_published: 2024-10-14T23:49:14.256254+00:00
-
- ## The home of current students - Swansea University
- - [https://myuni.swansea.ac.uk](https://myuni.swansea.ac.uk)
- - date_published: 2024-10-14T23:49:21.852900+00:00
-
- ## Sign in to your account
- - [https://staff.swansea.ac.uk](https://staff.swansea.ac.uk)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Swansea University
- - [https://www.swansea.ac.uk](https://www.swansea.ac.uk)
- - date_published: 2024-06-16T22:22:46.946543+00:00
-
- ## Tameside College Courses for School Leavers, Adults and Employers in Greater Manchester
- - [https://www.tameside.ac.uk](https://www.tameside.ac.uk)
- - date_published: 2024-08-06T11:06:12.450454+00:00
-
- ## Journal of the British Academy
- - [https://journal.thebritishacademy.ac.uk](https://journal.thebritishacademy.ac.uk)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home
- - [https://thebritishacademy.ac.uk](https://thebritishacademy.ac.uk)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## British Museum
- - [http://www.thebritishmuseum.ac.uk](http://www.thebritishmuseum.ac.uk)
- - date_published: 2024-06-24T10:20:32+00:00
 

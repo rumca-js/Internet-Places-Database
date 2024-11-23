@@ -1,3 +1,107 @@
+ ## Partnersuche bei LoveScout24 | Singles finden in Deutschland
+ - [https://www.lovescout24.de](https://www.lovescout24.de)
+ - date_published: 2024-09-04T11:50:22.600436+00:00
+
+ ## Osteuropa Länder und Regionen - Politik und Themen  - Welche Länder gehören zu Osteuropa? Länderinfos über 24 Länder des östlichen Europa, ihre Politik, Geschichte, Wirtschaft und Außenpolitik
+ - [https://osteuropa.lpb-bw.de](https://osteuropa.lpb-bw.de)
+ - date_published: 2024-10-16T20:54:58.066998+00:00
+
+ ## Landeszentrale für politische Bildung Baden-Württemberg
+ - [https://www.lpb-bw.de](https://www.lpb-bw.de)
+ - date_published: 2024-10-16T20:54:37.809301+00:00
+
+ ## Landratsamt Berchtesgadener Land - Landratsamt BGL
+ - [https://www.lra-bgl.de](https://www.lra-bgl.de)
+ - date_published: 2024-10-31T05:02:26.376678+00:00
+
+ ## L. Ron Hubbard – Gründer von Dianetics und Scientology
+ - [https://www.lronhubbard.de](https://www.lronhubbard.de)
+ - date_published: 2024-06-06T19:38:41.386739+00:00
+
+ ## Willkommen
+ - [https://doku.lrz.de](https://doku.lrz.de)
+ - date_published: 2024-07-08T10:45:16.782605+00:00
+
+ ## Sign in · GitLab
+ - [https://gitlab.lrz.de](https://gitlab.lrz.de)
+ - date_published: 2024-07-04T08:18:11.664273+00:00
+
+ ## LRZ: Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften
+ - [https://www.lrz.de](https://www.lrz.de)
+ - date_published: 2024-06-24T12:35:12+00:00
+
+ ## Das neue LS-POS® von Luwosoft
+ - [http://www.ls-pos.de](http://www.ls-pos.de)
+ - date_published: 2024-10-22T20:06:40.559968+00:00
+
+ ## Lang und Schwarz Tradecenter
+ - [https://www.ls-tc.de](https://www.ls-tc.de)
+ - date_published: 2024-06-18T15:40:49.698572+00:00
+
+ ## Home - LSVD Berlin-Brandenburg
+ - [https://berlin.lsvd.de](https://berlin.lsvd.de)
+ - date_published: 2024-09-30T13:10:02.105989+00:00
+
+ ## LSVD⁺ – Verband Queere Vielfalt
+ - [http://www.lsvd.de](http://www.lsvd.de)
+ - date_published: 2024-09-12T16:02:29.840633+00:00
+
+ ## Files - lsww.de
+ - [https://files.lsww.de](https://files.lsww.de)
+ - date_published: 2024-04-29T06:20:25.492484+00:00
+
+ ## Not Found | Shlink
+ - [https://go.lsww.de](https://go.lsww.de)
+ - date_published: 2024-04-29T06:20:24.909327+00:00
+
+ ## LSWW - Mach dein Online Business smarter!
+ - [https://lsww.de](https://lsww.de)
+ - date_published: 2023-10-25T18:31:53.223152+00:00
+
+ ## Lang und Schwarz Exchange
+ - [https://www.ls-x.de](https://www.ls-x.de)
+ - date_published: 2024-06-27T15:07:04.966119+00:00
+
+ ## Studio Lucas Hesse — Graphic & Motion Design based in Hamburg with focus on kinetic typography.
+ - [http://lucas-hesse.de](http://lucas-hesse.de)
+ - date_published: 2024-07-13T15:18:13.347569+00:00
+
+ ## Lucas Werkmeister
+ - [https://lucaswerkmeister.de](https://lucaswerkmeister.de)
+ - date_published: 2024-06-12T19:57:15+00:00
+
+ ## Lucatec – IT Service und Beratung in Bremen
+ - [https://lucatec.de](https://lucatec.de)
+ - date_published: 2024-03-04T22:32:40+00:00
+
+ ## Stackbit Ampersand Theme
+ - [https://blog.lucianojung.de](https://blog.lucianojung.de)
+ - date_published: 2021-10-20T00:00:00+00:00
+
+ ## Luciano Jung
+ - [https://lucianojung.de](https://lucianojung.de)
+ - date_published: 2022-06-06T08:27:47+00:00
+
+ ## Lucky Bricks - Lego-Onlineshop
+ - [https://lucky-bricks.de](https://lucky-bricks.de)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Startseite
+ - [https://luckypets.de](https://luckypets.de)
+ - date_published: 2024-06-15T16:17:51+00:00
+
+ ## LUDWIG BECK – Beauty Produkte und Mode online kaufen
+ - [https://kaufhaus.ludwigbeck.de](https://kaufhaus.ludwigbeck.de)
+ - date_published: 2024-07-03T01:44:02+00:00
+
+ ## Ludwig Type Foundry
+ - [https://www.ludwigtype.de](https://www.ludwigtype.de)
+ - date_published: 2024-10-29T14:22:12.833237+00:00
+
+ ## Lübzer
+ - [https://www.luebzer.de](https://www.luebzer.de)
+ - date_published: 2024-06-22T13:11:07.022870+00:00
+
  ## Lüttville e.V.
  - [https://luettville.de](https://luettville.de)
  - date_published: 2024-07-13T16:03:45.064361+00:00
@@ -3913,108 +4017,4 @@
  ## Open Source Datenschutzmanagement System - Open-Datenschutzcenter
  - [https://open-datenschutzcenter.de](https://open-datenschutzcenter.de)
  - date_published: 2024-07-11T07:08:02.075009+00:00
-
- ## Frontpage
- - [https://opendoors.de](https://opendoors.de)
- - date_published: 2024-05-08T11:13:51.791797+00:00
-
- ## openEMS
- - [https://openems.de](https://openems.de)
- - date_published: 2023-02-23T17:01:13+00:00
-
- ## OpenFireMap
- - [https://openfiremap.de](https://openfiremap.de)
- - date_published: 2021-02-24T08:35:55+00:00
-
- ## Open Food Network
- - [https://openfoodnetwork.de](https://openfoodnetwork.de)
- - date_published: 2024-10-31T03:28:49.635696+00:00
-
- ## OpenGPT-X
- - [https://opengpt-x.de](https://opengpt-x.de)
- - date_published: 2024-03-02T19:19:15.617874+00:00
-
- ## Open Humboldt
- - [https://open-humboldt.de](https://open-humboldt.de)
- - date_published: 2024-07-18T05:50:44.833623+00:00
-
- ## OPEN KNOWLEDGE | Individuelle Softwarelösungen
- - [https://www.openknowledge.de](https://www.openknowledge.de)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## OpenLab Augsburg – Ein Raum für Deine Ideen
- - [https://openlab-augsburg.de](https://openlab-augsburg.de)
- - date_published: 2024-07-13T11:28:26.725302+00:00
-
- ## openPetition – Citizens' initiatives, online petitions, campaigns
- - [https://www.openpetition.de](https://www.openpetition.de)
- - date_published: 2024-06-24T10:01:51.380117+00:00
-
- ## openPunk
- - [https://openpunk.de](https://openpunk.de)
- - date_published: 2022-10-16T18:12:41+00:00
-
- ## Open Source Ecology - Germany
- - [https://wiki.opensourceecology.de](https://wiki.opensourceecology.de)
- - date_published: 2024-07-03T16:01:18+00:00
-
- ## Erklärung
- - [https://www.opensourcelms.de](https://www.opensourcelms.de)
- - date_published: 2024-05-08T11:42:01+00:00
-
- ## Wochennotiz
- - [https://blog.openstreetmap.de](https://blog.openstreetmap.de)
- - date_published: 2022-09-24T16:45:39+00:00
-
- ## JOSM
- - [https://josm.openstreetmap.de](https://josm.openstreetmap.de)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Map with layer for the tag opening_hours based on OpenStreetMap
- - [https://openingh.openstreetmap.de](https://openingh.openstreetmap.de)
- - date_published: 2021-04-10T14:59:18+00:00
-
- ## OpenStreetMap Deutschland - Die freie Wiki-Weltkarte
- - [https://openstreetmap.de](https://openstreetmap.de)
- - date_published: 2024-05-11T11:32:37.370321+00:00
-
- ## OpenStreetMap Routing with Open Source Routing Machine
- - [https://routing.openstreetmap.de](https://routing.openstreetmap.de)
- - date_published: 2023-08-20T14:53:41+00:00
-
- ## uMap
- - [https://umap.openstreetmap.de](https://umap.openstreetmap.de)
- - date_published: 2024-07-24T03:32:02.877593+00:00
-
- ## Restaurant-Reservierungssoftware | OpenTable für Restaurants
- - [https://restaurant.opentable.de](https://restaurant.opentable.de)
- - date_published: 2024-10-30T12:44:49.692409+00:00
-
- ## OpenTable - Entdecken & Reservieren Sie die Besten Restaurants
- - [https://www.opentable.de](https://www.opentable.de)
- - date_published: 2024-06-30T12:08:27.324408+00:00
-
- ## Synonyme - OpenThesaurus - Deutscher Thesaurus
- - [https://www.openthesaurus.de](https://www.openthesaurus.de)
- - date_published: 2024-10-19T16:13:09.062128+00:00
-
- ## OpenValue - Better software, faster.
- - [https://www.openvalue.de](https://www.openvalue.de)
- - date_published: 2024-07-24T06:05:08.141050+00:00
-
- ## OpenWeb Podcast - Der Podcast über offene Standards im Internet
- - [https://openwebpodcast.de](https://openwebpodcast.de)
- - date_published: 2024-07-09T07:19:18+00:00
-
- ## Startseite
- - [https://www.operation-karriere.de](https://www.operation-karriere.de)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Verein Opferperspektive e.V.
- - [https://www.opferperspektive.de](https://www.opferperspektive.de)
- - date_published: 2024-09-12T16:06:39.428608+00:00
-
- ## Aktuelle Nachrichten aus Offenbach - op-online.de
- - [https://www.op-online.de](https://www.op-online.de)
- - date_published: 2024-07-24T07:41:20.742814+00:00
 

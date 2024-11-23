@@ -1,3 +1,11 @@
+ ## 北京理工大学党委组织部
+ - [http://zzb.bit.edu.cn](http://zzb.bit.edu.cn)
+ - date_published: 2024-07-26T10:55:00+00:00
+
+ ## 北京林业大学
+ - [http://www.bjfu.edu.cn](http://www.bjfu.edu.cn)
+ - date_published: 2024-09-09T08:25:23+00:00
+
  ## 北京交通大学
  - [http://www.bjtu.edu.cn](http://www.bjtu.edu.cn)
  - date_published: 2024-09-09T01:26:12+00:00
@@ -3994,12 +4002,4 @@
  ## 海南省卫生健康委员会
  - [http://wst.hainan.gov.cn](http://wst.hainan.gov.cn)
  - date_published: 2024-06-30T13:46:11.811678+00:00
-
- ## 海南省人民政府网
- - [http://www.hainan.gov.cn](http://www.hainan.gov.cn)
- - date_published: 2023-11-08T01:31:16+00:00
-
- ## 海南省医疗保障局
- - [http://ybj.hainan.gov.cn](http://ybj.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

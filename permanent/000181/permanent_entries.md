@@ -1,3 +1,67 @@
+ ## savagemessiahzine.com
+ - [http://savagemessiahzine.com](http://savagemessiahzine.com)
+ - date_published: 2024-10-21T16:36:13.081520+00:00
+
+ ## Savage Thoughts
+ - [http://savagethoughts.com](http://savagethoughts.com)
+ - date_published: 2024-06-23T06:56:51.948318+00:00
+
+ ## Home - Savannah Alalia
+ - [https://savannahalalia.com](https://savannahalalia.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Savannah Goldfields – A gold production and growth story unfolding in North Queensland.
+ - [https://savannahgoldfields.com](https://savannahgoldfields.com)
+ - date_published: 2024-09-16T22:24:43.428030+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://chat.savannahnow.com](https://chat.savannahnow.com)
+ - date_published: 2024-10-31T20:47:26.918441+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [http://cm.savannahnow.com](http://cm.savannahnow.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://eu.savannahnow.com](https://eu.savannahnow.com)
+ - date_published: 2024-10-31T20:46:12.198681+00:00
+
+ ## Help Center - Savannah Morning News
+ - [https://help.savannahnow.com](https://help.savannahnow.com)
+ - date_published: 2024-06-20T02:00:27.533943+00:00
+
+ ## Newsletters | Savannah Morning News
+ - [https://profile.savannahnow.com](https://profile.savannahnow.com)
+ - date_published: 2024-06-20T02:00:25.348253+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://savannahnow.com](https://savannahnow.com)
+ - date_published: 2024-10-31T20:47:30.426367+00:00
+
+ ## The New Frontier of Experience & Research Technology | Forsta
+ - [https://surveys.savanta.com](https://surveys.savanta.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Show HN: Sava OS – A desktop interface for you web browser
+ - [https://savaos.com](https://savaos.com)
+ - date_published: 2024-10-17T16:20:30+00:00
+
+ ## Savaria Dance Studio
+ - [https://savariadance.com](https://savariadance.com)
+ - date_published: 2024-02-08T22:52:14.864745+00:00
+
+ ## Lawn Care and Tree Care Service | SavATree
+ - [https://www.savatree.com](https://www.savatree.com)
+ - date_published: 2024-10-28T08:16:05.121656+00:00
+
+ ## Save A Lot | Low Price Grocery Stores
+ - [https://savealot.com](https://savealot.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Save America from Trump
+ - [http://saveamericafromtrump.com](http://saveamericafromtrump.com)
+ - date_published: 2024-07-13T15:01:59.818690+00:00
+
  ## Save Empire Earth - Index page
  - [http://www.save-ee.com](http://www.save-ee.com)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -3973,69 +4037,4 @@ Scopus - Welcome to Scopus
  ## 人工知能Webスクレイピングツール | Webクローラ | ScrapeStorm
  - [https://jp.scrapestorm.com](https://jp.scrapestorm.com)
  - date_published: 2024-10-30T22:39:15.330694+00:00
-
- ## AI 기반 웹크롤링 툴 & 데이터 추출기 | ScrapeStorm
- - [https://kr.scrapestorm.com](https://kr.scrapestorm.com)
- - date_published: 2024-10-30T22:39:28.712246+00:00
-
- ## AI-Powered Web Scraping Tool & Web Data Extractor | ScrapeStorm
- - [https://scrapestorm.com](https://scrapestorm.com)
- - date_published: 2024-10-30T22:39:26.209357+00:00
-
- ## Scrape Table
- - [https://scrapetable.com](https://scrapetable.com)
- - date_published: 2024-05-30T18:31:29.573037+00:00
-
- ## ScrapingBee
- - [https://app.scrapingbee.com](https://app.scrapingbee.com)
- - date_published: 2024-08-19T06:10:07.748556+00:00
-
- ## ScrapingBee Knowledge Base
- - [https://help.scrapingbee.com](https://help.scrapingbee.com)
- - date_published: 2024-08-19T06:09:56.798945+00:00
-
- ## ScrapingBee, the best web scraping API.
- - [https://scrapingbee.com](https://scrapingbee.com)
- - date_published: 2023-10-25T16:59:56.121936+00:00
- - tags: ['web scraping service']
-
- ## Full-Stack Web Scraping API & World Class Data Extraction Services | Zyte
- - [https://scrapinghub.com](https://scrapinghub.com)
- - date_published: 2024-05-06T15:17:35.458086+00:00
-
- ## Loading ...
- - [https://dashboard.scrapingrobot.com](https://dashboard.scrapingrobot.com)
- - date_published: 2021-12-14T18:56:43+00:00
-
- ## Basic Usage
- - [https://docs.scrapingrobot.com](https://docs.scrapingrobot.com)
- - date_published: 2024-07-18T06:54:32.755742+00:00
-
- ## User feedback software - Upvoty
- - [https://roadmap.scrapingrobot.com](https://roadmap.scrapingrobot.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Scraping Robot | Quality Web Scraping | Try Our API Today
- - [https://scrapingrobot.com](https://scrapingrobot.com)
- - date_published: 2024-05-14T03:37:24.211666+00:00
-
- ## ScrapingZone
- - [https://scrapingzone.com](https://scrapingzone.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Scrap Mechanic: Welcome to the machine-filled creative paradise of Scrap Mechanic, a multiplayer sandbox game with imagination and ingenuity at its core.
- - [http://scrapmechanic.com](http://scrapmechanic.com)
- - date_published: 2024-10-27T08:11:55.982069+00:00
-
- ## ScrappleFace
- - [http://www.scrappleface.com](http://www.scrappleface.com)
- - date_published: 2024-06-03T09:52:37+00:00
-
- ## ScrapYard Armory
- - [https://www.scrapyardarmory.com](https://www.scrapyardarmory.com)
- - date_published: 2024-07-09T14:31:56.245589+00:00
-
- ## Scratchapixel 4.0, Learn Computer Graphics Programming
- - [https://scratchapixel.com](https://scratchapixel.com)
- - date_published: 2024-03-24T15:08:21.783897+00:00
 

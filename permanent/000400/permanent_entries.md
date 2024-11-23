@@ -1,3 +1,139 @@
+ ## FUTUREBEAT.pl
+ - [https://futurebeat.pl](https://futurebeat.pl)
+ - date_published: 2023-11-27T17:47:00+00:00
+ - tags: ['tech news']
+
+ ## Futurex Gdynia - sklep online
+ - [https://futurex.pl](https://futurex.pl)
+ - date_published: 2023-11-01T19:13:40.420967+00:00
+ - tags: ['wargames', 'shop', 'tabletop games']
+
+ ## Futuriti - IT dla liderów eCommerce
+ - [https://futuriti.pl](https://futuriti.pl)
+ - date_published: 2023-08-28T00:00:00+00:00
+
+ ## Futuriti - IT dla liderów eCommerce
+ - [https://new.futuriti.pl](https://new.futuriti.pl)
+ - date_published: 2024-09-24T16:20:08+00:00
+
+ ## Futuriti WMS - optymalizuje prace magazynu
+ - [https://wms.futuriti.pl](https://wms.futuriti.pl)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## FXCUFFS.pl – narzędzia dla każdego Tradera
+ - [http://fxcuffs.pl](http://fxcuffs.pl)
+ - date_published: 2024-08-18T15:34:45.404388+00:00
+
+ ## FXMAG Login
+ - [https://admin.fxmag.pl](https://admin.fxmag.pl)
+ - date_published: 2024-08-18T04:22:12.710272+00:00
+
+ ## Forex Kursy walut Akcje Giełda Waluty Kryptowaluty | FXMAG INWESTOR
+ - [https://fxmag.pl](https://fxmag.pl)
+ - date_published: 2024-01-09T03:44:13.910462+00:00
+
+ ## G.pl - Pieniądze, Lifestyle, Nauka - porady i ciekawostki w jednym miejscu
+ - [https://g.pl](https://g.pl)
+ - date_published: 2024-08-18T11:29:07.079125+00:00
+
+ ## Strona główna - Projektowanie stron i sklepów interentowych
+ - [https://gabiec.pl](https://gabiec.pl)
+ - date_published: 2024-06-30T06:27:58.099235+00:00
+
+ ## GAD Records
+ - [http://gadrecords.pl](http://gadrecords.pl)
+ - date_published: 2023-10-09T12:11:10+00:00
+
+ ## Gadu-Gadu na każdy temat - komunikator GG - Blog - Strona Główna
+ - [https://gadu-gadu.pl](https://gadu-gadu.pl)
+ - date_published: 2024-06-14T07:32:25.064133+00:00
+
+ ## Katalog publiczny
+ - [http://ipubdir.gadu-gadu.pl](http://ipubdir.gadu-gadu.pl)
+ - date_published: 2024-06-21T13:54:26.777479+00:00
+
+ ## Gadżetomania - strona główna
+ - [https://gadzetomania.pl](https://gadzetomania.pl)
+ - date_published: 2024-06-22T14:20:23.538535+00:00
+
+ ## Galeria Arsenał w Białymstoku
+ - [https://galeria-arsenal.pl](https://galeria-arsenal.pl)
+ - date_published: 2024-09-19T01:37:18.381478+00:00
+
+ ## Galeria Audio - Twoje drzwi do świata Hi-Fi i Hi-End
+ - [http://www.galeriaaudio.pl](http://www.galeriaaudio.pl)
+ - date_published: 2024-09-02T17:08:39.733168+00:00
+
+ ## GLL | Galeria Łódzka
+ - [https://galeria-lodzka.pl](https://galeria-lodzka.pl)
+ - date_published: 2024-06-28T19:13:01.522615+00:00
+
+ ## Witamy w hurtowni Galerii Łucznik
+ - [https://b2b.galerialucznik.pl](https://b2b.galerialucznik.pl)
+ - date_published: 2024-08-08T18:33:54.884522+00:00
+
+ ## Main page
+ - [https://galerialucznik.pl](https://galerialucznik.pl)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Galfarm
+ - [https://galfarm.pl](https://galfarm.pl)
+ - date_published: 2024-07-03T03:26:01.551623+00:00
+
+ ## Poznań Game Arena | 6-8 października 2023 | Tu Bije Serce Gamingu
+ - [https://gamearena.pl](https://gamearena.pl)
+ - date_published: 2023-11-01T08:41:25.764766+00:00
+ - tags: ['video games', 'poznan', 'convention']
+
+ ## Gamebook.pl - książki o grach wideo i popkulturze
+ - [https://gamebook.pl](https://gamebook.pl)
+ - date_published: 2024-07-03T01:53:37.740732+00:00
+
+ ## Polskie forum gry Unreal Tournament 1999 --> Forum
+ - [https://forum.gameclan.pl](https://forum.gameclan.pl)
+ - date_published: 2024-05-13T03:44:59.678147+00:00
+
+ ## Gamefinity.pl
+ - [https://gamefinity.pl](https://gamefinity.pl)
+ - date_published: 2024-06-26T07:51:54.113107+00:00
+
+ ## Gamemusic
+ - [https://gamemusic.pl](https://gamemusic.pl)
+ - date_published: 2024-05-14T02:52:59.349215+00:00
+
+ ## GAMEPLAY.pl gry, filmy, komputery, konsole, muzyka, gadżety.
+ - [https://gameplay.pl](https://gameplay.pl)
+ - date_published: 2024-09-03T22:36:17.853148+00:00
+
+ ## Zwiastuny, Livestreamy i Wywiady | Gamereactor Polska
+ - [https://gamereactor.pl](https://gamereactor.pl)
+ - date_published: 2023-11-17T21:45:33+00:00
+ - tags: ['game news']
+
+ ## GAMESGURU - Niezależny portal o grach i technologii
+ - [https://gamesguru.pl](https://gamesguru.pl)
+ - date_published: 2024-07-18T20:40:45+00:00
+
+ ## Gametoon - telewizja graczy i fanów esportu
+ - [https://gametoon.pl](https://gametoon.pl)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## GARDENcity Restaurants & Catering
+ - [https://garden-city.pl](https://garden-city.pl)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Homepage - Garnier.com
+ - [http://www.garnier.pl](http://www.garnier.pl)
+ - date_published: 2024-10-30T17:03:01.000234+00:00
+
+ ## Amazon - Poznajmy się lepiej
+ - [https://amazon.gazeta.pl](https://amazon.gazeta.pl)
+ - date_published: 2024-08-19T13:32:59.277371+00:00
+
+ ## Gazeta.pl - Polska i świat - wiadomości | informacje | wydarzenia
+ - [http://aplikacja.gazeta.pl](http://aplikacja.gazeta.pl)
+ - date_published: 2024-08-18T11:28:34.681701+00:00
+
  ## Buzz - Porady, Ciekawostki, Ważne informacje - Buzz.Gazeta.pl
  - [https://buzz.gazeta.pl](https://buzz.gazeta.pl)
  - date_published: 2024-08-18T11:28:36.097883+00:00
@@ -3939,138 +4075,4 @@
  ## lubieniebieski by adam nowak
  - [https://lubieniebieski.pl](https://lubieniebieski.pl)
  - date_published: 2024-06-01T00:00:00+00:00
-
- ## Największy serwis o książkach. Porównywarka cen książek, opinie, oceny, rekomendacje, wywiady, aktualności.
- - [https://lubimyczytac.pl](https://lubimyczytac.pl)
- - date_published: 2023-10-25T11:19:34.231441+00:00
-
- ## Radio Lublin
- - [https://archiwum.radio.lublin.pl](https://archiwum.radio.lublin.pl)
- - date_published: 2023-04-23T22:21:10+00:00
-
- ## Strona główna - BIP Radio Lublin S.A. w likwidacji
- - [http://bip.radio.lublin.pl](http://bip.radio.lublin.pl)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Strona główna - Lubelskie Hospicjum dla Dzieci im. Małego Księcia
- - [http://hospicjum.lublin.pl](http://hospicjum.lublin.pl)
- - date_published: 2024-08-18T17:09:53.524416+00:00
-
- ## Department of Theoretical Physics UMCS
- - [https://kft.umcs.lublin.pl](https://kft.umcs.lublin.pl)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## Polskie Radio Lublin
- - [https://radio.lublin.pl](https://radio.lublin.pl)
- - date_published: 2023-10-25T22:28:34.758687+00:00
-
- ## BRD - Wojewódzka Rada Bezpieczeństwa Ruchu Drogowego w Lublinie
- - [http://www.brd.lublin.pl](http://www.brd.lublin.pl)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## KUL
- - [http://www.kul.lublin.pl](http://www.kul.lublin.pl)
- - date_published: 2024-08-19T21:17:22.847813+00:00
-
- ## Strona główna - OIC POLAND Fundacja Akademii WSEI
- - [https://www.oic.lublin.pl](https://www.oic.lublin.pl)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Lublin112.pl - Wiadomości z Lublina i regionu. Ważne informacje z kraju
- - [https://lublin112.pl](https://lublin112.pl)
- - date_published: 2023-12-21T12:40:49.083831+00:00
-
- ## Lubsport - Polub sport w Polsce i na Świecie - Portal Sportowy
- - [https://lubsport.pl](https://lubsport.pl)
- - date_published: 2024-08-08T23:10:31+00:00
-
- ## Portal Województwa Lubuskiego
- - [https://lubuskie.pl](https://lubuskie.pl)
- - date_published: 2024-05-11T08:18:40.836509+00:00
-
- ## OdraVelo
- - [https://portal-odravelo.lubuskie.pl](https://portal-odravelo.lubuskie.pl)
- - date_published: 2024-07-05T12:07:46+00:00
-
- ## Strona główna - Łukasz Hodorowicz
- - [http://www.lukaszhodorowicz.pl](http://www.lukaszhodorowicz.pl)
- - date_published: 2023-05-25T18:53:02+00:00
-
- ## LUMEN - Sprzęt dla niewidomych i słabowidzących
- - [https://lumen.pl](https://lumen.pl)
- - date_published: 2024-06-12T10:22:29+00:00
-
- ## Łuszczek - High quality made in Poland
- - [https://luszczek.pl](https://luszczek.pl)
- - date_published: 2024-06-26T11:44:35.803398+00:00
-
- ## LUXTORPEDASKLEP
- - [https://luxtorpedasklep.pl](https://luxtorpedasklep.pl)
- - date_published: 2024-05-29T09:58:11.845218+00:00
-
- ## LWW Łyszyk Wesołowski i Wspólnicy sp.k.
- - [https://lww.pl](https://lww.pl)
- - date_published: 2024-07-14T05:29:13.045865+00:00
-
- ## Giełda Maszyn Budowlanych i Sprzedaż Sprzętu Przemysłowego | Machineryline Polska
- - [https://machineryline.pl](https://machineryline.pl)
- - date_published: 2024-08-11T15:40:21.901428+00:00
-
- ## Przygody z oprogramowaniem | Blog poświęcony inżynierii oprogramowania, C#/.Net i T-SQLowi
- - [https://blog.macmichal.pl](https://blog.macmichal.pl)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## macmichal.pl | Szkolenia IT, konsulting, mentoring
- - [https://macmichal.pl](https://macmichal.pl)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Zapisy na Szkolenia | Zapisy na Szkolenia Otwarte macmichal.pl
- - [https://zapisy.macmichal.pl](https://zapisy.macmichal.pl)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Mactronic - Oświetlenie dla profesjonalistów
- - [https://mactronic.pl](https://mactronic.pl)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Catering dietetyczny Warszawa 🥗 Dieta pudełkowa | Maczfit
- - [https://www.maczfit.pl](https://www.maczfit.pl)
- - date_published: 2024-07-12T22:23:52.551510+00:00
-
- ## Made in PR
- - [https://madeinpr.pl](https://madeinpr.pl)
- - date_published: 2024-09-03T19:34:49.496869+00:00
-
- ## Magazyn Auto
- - [https://magazynauto.pl](https://magazynauto.pl)
- - date_published: 2024-01-09T03:44:22.357854+00:00
-
- ## Strona Główna - Magazyn Biomasa
- - [https://magazynbiomasa.pl](https://magazynbiomasa.pl)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Magazyn Gitarzysta - najlepszy serwis dla gitarzystów w Polsce!
- - [https://magazyngitarzysta.pl](https://magazyngitarzysta.pl)
- - date_published: 2023-12-13T14:57:42.982425+00:00
- - tags: ['music news', 'guitars']
-
- ## benchmark.pl | recenzje, testy, newsy, rankingi
- - [http://www.magazyn-hamag.pl](http://www.magazyn-hamag.pl)
- - date_published: 2024-08-20T04:45:00.538357+00:00
-
- ## Magazyn Kontakt
- - [https://magazynkontakt.pl](https://magazynkontakt.pl)
- - date_published: 2024-07-20T17:55:08.260042+00:00
-
- ## Kuchnia - magazyn dla smakoszy!
- - [https://magazyn-kuchnia.pl](https://magazyn-kuchnia.pl)
- - date_published: 2024-07-01T08:02:30.506219+00:00
-
- ## Magazyn Perkusista - uderzamy w punkt!
- - [https://magazynperkusista.pl](https://magazynperkusista.pl)
- - date_published: 2023-12-13T14:57:52.978136+00:00
- - tags: ['music news']
-
- ## SZUM
- - [https://magazynszum.pl](https://magazynszum.pl)
- - date_published: 2024-05-07T18:45:33.964917+00:00
 

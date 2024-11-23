@@ -1,3 +1,39 @@
+ ## Civic Game Jam – We want better stories
+ - [https://civicgamejam.com](https://civicgamejam.com)
+ - date_published: 2024-05-06T06:33:21.197196+00:00
+
+ ## Civic Impulse, LLC — The Intersection of Civics and Technology
+ - [https://civicimpulse.com](https://civicimpulse.com)
+ - date_published: 2016-11-26T22:30:29+00:00
+
+ ## Government Software and Services - Accela
+ - [http://civicinsight.com](http://civicinsight.com)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Web Posting Information
+ - [https://cdnsm1-clradscript.civiclive.com](https://cdnsm1-clradscript.civiclive.com)
+ - date_published: 2023-09-05T17:50:10+00:00
+
+ ## CivicMapper | Modern geospatial technology solutions for solving problems in the natural and built environments
+ - [https://www.civicmapper.com](https://www.civicmapper.com)
+ - date_published: 2023-11-08T00:00:00+00:00
+
+ ## Social Studies Simulation | Civics Simulation | Civic Mirror
+ - [https://civicmirror.com](https://civicmirror.com)
+ - date_published: 2024-05-09T05:23:06.227117+00:00
+
+ ## Home
+ - [https://civicplus.com](https://civicplus.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Grand Junction, CO | Official Website
+ - [https://co-grandjunction.civicplus.com](https://co-grandjunction.civicplus.com)
+ - date_published: 2024-06-20T22:23:48.973908+00:00
+
+ ## Adams County, IN - Official Website | Official Website
+ - [http://in-adamscounty.civicplus.com](http://in-adamscounty.civicplus.com)
+ - date_published: 2024-07-21T02:43:13.928608+00:00
+
  ## New Hanover County, NC | Official Website
  - [https://nc-newhanovercounty.civicplus.com](https://nc-newhanovercounty.civicplus.com)
  - date_published: 2024-05-07T13:57:46.774395+00:00
@@ -3992,40 +4028,4 @@
  ## Cloud Microphones | Manufacturer of Microphones and Cloudlifters
  - [https://www.cloudmicrophones.com](https://www.cloudmicrophones.com)
  - date_published: 2024-06-23T06:01:15.435785+00:00
-
- ## cloud-monk.com
- - [https://cloud-monk.com](https://cloud-monk.com)
- - date_published: 2016-03-23T15:48:41+00:00
-
- ## Home
- - [https://cloudnativenow.com](https://cloudnativenow.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## The eDiscovery Automation Software Company
- - [https://cloudnine.com](https://cloudnine.com)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Cloudogu EcoSystem
- - [https://cloudogu.com](https://cloudogu.com)
- - date_published: 2024-10-24T18:40:59+00:00
-
- ## Best Shopify Apps and E-commerce Website by Cloud1galaxy Apps
- - [https://cloudonegalaxy.com](https://cloudonegalaxy.com)
- - date_published: 2021-04-17T16:10:46+00:00
-
- ## Cloud Photographic
- - [http://www.cloudphotographic.com](http://www.cloudphotographic.com)
- - date_published: 2020-12-30T05:08:33+00:00
-
- ## CloudPrima: Premium Cloud VPS servers
- - [https://cloudprima.com](https://cloudprima.com)
- - date_published: 2024-10-07T19:13:12.642250+00:00
-
- ## CloudPrima
- - [https://panel.cloudprima.com](https://panel.cloudprima.com)
- - date_published: 2024-10-07T19:13:11.274316+00:00
-
- ## Cloud RADIUS
- - [https://www.cloudradius.com](https://www.cloudradius.com)
- - date_published: 2024-09-02T08:47:44+00:00
 

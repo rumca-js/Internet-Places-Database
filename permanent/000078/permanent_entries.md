@@ -1,3 +1,39 @@
+ ## CompuMark Trademark, Uspto & Copyright Research Services
+ - [https://www.compumark.com](https://www.compumark.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Compunode
+ - [https://compunode.com](https://compunode.com)
+ - date_published: 2024-05-01T04:16:31.137045+00:00
+
+ ## Amiga Kit Amiga Store - the world's largest Amiga Store - we ship worldwide
+ - [http://www.compuquick-amigadirect.com](http://www.compuquick-amigadirect.com)
+ - date_published: 2024-07-14T12:03:53.134309+00:00
+
+ ## AOL is part of the Yahoo family of brands
+ - [https://compuserve.com](https://compuserve.com)
+ - date_published: 2023-10-25T13:32:28.259728+00:00
+
+ ## Home-2022
+ - [https://www.compusystems.com](https://www.compusystems.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Our Purpose: Helping our customers change the world
+ - [https://www.computacenter.com](https://www.computacenter.com)
+ - date_published: 2024-08-11T04:24:55.741215+00:00
+
+ ## Forside
+ - [https://computas.com](https://computas.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Computational Audiology Computational Audiology - Computational Audiology
+ - [https://computationalaudiology.com](https://computationalaudiology.com)
+ - date_published: 2023-10-25T13:32:34.981402+00:00
+
+ ## Understanding Computation
+ - [https://computationbook.com](https://computationbook.com)
+ - date_published: 2024-07-14T11:18:50.923778+00:00
+
  ## Compute Cuter
  - [https://computecuter.com](https://computecuter.com)
  - date_published: 2021-07-16T19:06:37+00:00
@@ -3986,40 +4022,4 @@ Real Estate Supercenter
  ## Corante – The Latest News & Trends
  - [http://brainwaves.corante.com](http://brainwaves.corante.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [http://copyfight.corante.com](http://copyfight.corante.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [https://corante.com](https://corante.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [https://many.corante.com](https://many.corante.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [https://pipeline.corante.com](https://pipeline.corante.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Cora SEO - Save 25% - Lifetime Discount
- - [https://corasoftwarereview.com](https://corasoftwarereview.com)
- - date_published: 2024-06-18T06:08:10.849453+00:00
-
- ## Sign in - Matomo
- - [https://analytics.corbado.com](https://analytics.corbado.com)
- - date_published: 2024-07-04T15:16:19.234784+00:00
-
- ## Corbado Backend API reference
- - [https://api.corbado.com](https://api.corbado.com)
- - date_published: 2024-07-04T14:43:46+00:00
-
- ## Corbado
- - [https://app.corbado.com](https://app.corbado.com)
- - date_published: 2024-05-08T06:43:33.126294+00:00
-
- ## Corbado - We help you bring passkeys to your customers
- - [https://corbado.com](https://corbado.com)
- - date_published: 2023-10-25T13:33:33.485982+00:00
 

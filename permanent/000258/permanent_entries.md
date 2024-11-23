@@ -1,3 +1,91 @@
+ ## M.S. in Automated Science - M.S. in Automated Science - Ray and Stephanie Lane Computational Biology Department - Carnegie Mellon University
+ - [http://msas.cbd.cmu.edu](http://msas.cbd.cmu.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Software Engineering Masters Programs - Master of Software Engineering Programs - Software and Societal Systems Department - Carnegie Mellon University
+ - [https://mse.isri.cmu.edu](https://mse.isri.cmu.edu)
+ - date_published: 2024-07-17T17:45:52+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://my.contrib.andrew.cmu.edu](https://my.contrib.andrew.cmu.edu)
+ - date_published: 2024-07-20T10:31:32.622653+00:00
+
+ ## OpenSlide
+ - [https://openslide.cs.cmu.edu](https://openslide.cs.cmu.edu)
+ - date_published: 2024-09-29T00:00:00+00:00
+
+ ## Penrose | Penrose
+ - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
+ - date_published: 2023-10-25T18:49:42.884999+00:00
+
+ ## Log In - Carnegie Mellon University CyLab
+ - [https://portal.cylab.cmu.edu](https://portal.cylab.cmu.edu)
+ - date_published: 2024-07-08T13:51:07.595402+00:00
+
+ ## Home | ETC Press - Carnegie Mellon University
+ - [https://press.etc.cmu.edu](https://press.etc.cmu.edu)
+ - date_published: 2024-07-13T17:12:06+00:00
+
+ ## Privacy Engineering Program - Privacy Engineering Program - Software and Societal Systems Department - Carnegie Mellon University
+ - [https://privacy.cs.cmu.edu](https://privacy.cs.cmu.edu)
+ - date_published: 2024-04-25T14:53:29+00:00
+
+ ## Puzzlehunt CMU
+ - [https://puzzlehunt.club.cc.cmu.edu](https://puzzlehunt.club.cc.cmu.edu)
+ - date_published: 2024-05-01T03:11:08.162765+00:00
+
+ ## Qatar - Carnegie Mellon University in Qatar
+ - [https://qatar.cmu.edu](https://qatar.cmu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## SCS TECHNICAL REPORT COLLECTION
+ - [http://reports-archive.adm.cs.cmu.edu](http://reports-archive.adm.cs.cmu.edu)
+ - date_published: 2013-02-04T17:56:13+00:00
+
+ ## SEI Digital Library
+ - [https://resources.sei.cmu.edu](https://resources.sei.cmu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Carnegie Mellon Research Experiences for Undergraduates - Research Experiences for Undergraduates in Software Engineering (REUSE) Program - Software and Societal Systems Department - Carnegie Mellon University
+ - [https://reuse.cs.cmu.edu](https://reuse.cs.cmu.edu)
+ - date_published: 2024-03-04T15:00:22+00:00
+
+ ## Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
+ - [https://ri.cmu.edu](https://ri.cmu.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Home - Robotics Institute Summer Scholars (RISS)
+ - [https://riss.ri.cmu.edu](https://riss.ri.cmu.edu)
+ - date_published: 2024-04-30T03:47:07.096026+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://roboguide.ri.cmu.edu](https://roboguide.ri.cmu.edu)
+ - date_published: 2024-04-30T03:47:09.101638+00:00
+
+ ## RoboTouch Lab
+ - [http://robotouch.ri.cmu.edu](http://robotouch.ri.cmu.edu)
+ - date_published: 2021-08-30T05:00:54+00:00
+
+ ## SCS Rooms - SCS Building Facilities - Carnegie Mellon University
+ - [https://rooms.cs.cmu.edu](https://rooms.cs.cmu.edu)
+ - date_published: 2023-10-27T19:58:59+00:00
+
+ ## Read the Web :: Carnegie Mellon University
+ - [http://rtw.ml.cmu.edu](http://rtw.ml.cmu.edu)
+ - date_published: 2024-07-02T05:51:26.623678+00:00
+
+ ## Software and Societal Systems Department - Software and Societal Systems - School of Computer Science - Carnegie Mellon University
+ - [https://s3d.cmu.edu](https://s3d.cmu.edu)
+ - date_published: 2024-04-28T03:37:44.480066+00:00
+
+ ## Societal Computing - Societal Computing - Software and Societal Systems Department - Carnegie Mellon University
+ - [http://sc.cs.cmu.edu](http://sc.cs.cmu.edu)
+ - date_published: 2024-06-12T15:42:11+00:00
+
+ ## Carnegie Mellon University
+ - [https://scholars.cmu.edu](https://scholars.cmu.edu)
+ - date_published: 2024-10-14T19:31:01.936047+00:00
+
  ## Web Login Service - Loading Session Information
  - [https://scotty.qatar.cmu.edu](https://scotty.qatar.cmu.edu)
  - date_published: 2024-08-08T22:48:41.646740+00:00
@@ -3914,92 +4002,4 @@ Mellon University
  ## React App
  - [https://viewbook.dickinson.edu](https://viewbook.dickinson.edu)
  - date_published: 2022-02-16T23:20:46+00:00
-
- ## Dickinson College Homepage
- - [http://www.dickinson.edu](http://www.dickinson.edu)
- - date_published: 2024-06-18T07:52:10.636164+00:00
-
- ## Home
- - [http://www.dickinsonstate.edu](http://www.dickinsonstate.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## DigiPen Academy | Academic Preparatory and STEAM Courses
- - [https://academy.digipen.edu](https://academy.digipen.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Admissions
- - [https://connect.digipen.edu](https://connect.digipen.edu)
- - date_published: 2024-07-14T09:34:26+00:00
-
- ## Homepage
- - [https://digipen.edu](https://digipen.edu)
- - date_published: 2024-05-11T10:26:25.058580+00:00
-
- ## MachForm Admin Panel
- - [https://forms.digipen.edu](https://forms.digipen.edu)
- - date_published: 2024-07-14T10:34:23.351157+00:00
-
- ## Home - Diné College
- - [https://dinecollege.edu](https://dinecollege.edu)
- - date_published: 2018-03-30T17:35:48+00:00
-
- ## Diné College KXWR Radio | Diné College KXWR Radio
- - [https://kxwr.dinecollege.edu](https://kxwr.dinecollege.edu)
- - date_published: 2024-07-08T15:05:21.340303+00:00
-
- ## Diné College Libraries: Dine College Libraries Homepage: Home
- - [https://lib.dinecollege.edu](https://lib.dinecollege.edu)
- - date_published: 2024-07-08T15:05:15.982377+00:00
-
- ## DiploFoundation - Where diplomacy meets technology
- - [https://diplomacy.edu](https://diplomacy.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Diplo's Digital Repository :: Home
- - [http://dspace.diplomacy.edu](http://dspace.diplomacy.edu)
- - date_published: 2024-06-18T14:23:58.603753+00:00
-
- ## Home - G. R. Berridge
- - [https://grberridge.diplomacy.edu](https://grberridge.diplomacy.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## [Online conference] Digital and Diplomacy Conference (Sept 2021)
- - [https://meetings.diplomacy.edu](https://meetings.diplomacy.edu)
- - date_published: 2024-06-18T14:24:07.313423+00:00
-
- ## Diplo Study – Learn Management System
- - [https://study.diplomacy.edu](https://study.diplomacy.edu)
- - date_published: 2024-06-18T14:23:55.138256+00:00
-
- ## Home
- - [https://www.dodea.edu](https://www.dodea.edu)
- - date_published: 2024-07-20T20:22:50+00:00
-
- ## SUNY Downstate Health Sciences University
- - [https://www.downstate.edu](https://www.downstate.edu)
- - date_published: 2024-07-15T03:39:49.530919+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://depts.drew.edu](http://depts.drew.edu)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Home - Drew University
- - [https://drew.edu](https://drew.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Drew University
- - [https://groups.drew.edu](https://groups.drew.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## uLogin
- - [http://mail.drew.edu](http://mail.drew.edu)
- - date_published: 2024-08-08T23:38:34.270306+00:00
-
- ## Drew University Moodle
- - [https://moodle.drew.edu](https://moodle.drew.edu)
- - date_published: 2024-08-08T23:37:27+00:00
-
- ## uLogin
- - [https://s.drew.edu](https://s.drew.edu)
- - date_published: 2024-08-08T00:00:00+00:00
 

@@ -1,3 +1,108 @@
+ ## Free Java Doc hosting for open source projects - javadoc.io
+ - [https://static.javadoc.io](https://static.javadoc.io)
+ - date_published: 2024-06-20T09:28:28.066360+00:00
+
+ ## Javalin - A lightweight Java and Kotlin web framework. Create REST APIs in Java or Kotlin easily.
+ - [https://javalin.io](https://javalin.io)
+ - date_published: 2024-07-16T08:39:09+00:00
+
+ ## Home | Thoughts by Javier
+ - [https://javiergonzalez.io](https://javiergonzalez.io)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## jbp.io ::
+ - [https://jbp.io](https://jbp.io)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Jekyll Themes – a curated directory
+ - [https://jekyllthemes.io](https://jekyllthemes.io)
+ - date_published: 2024-05-10T02:46:30.879050+00:00
+
+ ## Log in | Jeli
+ - [https://app.jeli.io](https://app.jeli.io)
+ - date_published: 2024-06-22T15:53:49.976753+00:00
+
+ ## Log in | Jeli
+ - [https://login.app.jeli.io](https://login.app.jeli.io)
+ - date_published: 2024-06-22T15:53:31.095542+00:00
+
+ ## What's new on Jeli | Beamer
+ - [https://updates.jeli.io](https://updates.jeli.io)
+ - date_published: 2024-06-22T15:53:59.384933+00:00
+
+ ## Jeli
+ - [https://www.jeli.io](https://www.jeli.io)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Jelly Mario
+ - [https://jellymar.io](https://jellymar.io)
+ - date_published: 2018-08-11T16:20:52+00:00
+
+ ## Jenkins Contributor Spotlight
+ - [https://contributors.jenkins.io](https://contributors.jenkins.io)
+ - date_published: 2023-11-29T00:00:00+00:00
+
+ ## Jenkins
+ - [https://jenkins.io](https://jenkins.io)
+ - date_published: 2024-05-09T04:56:31.783399+00:00
+ - tags: ['test automation', 'open source', 'build automation']
+
+ ## Index of /
+ - [https://pkg.jenkins.io](https://pkg.jenkins.io)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Jenkins - User Story Library
+ - [https://stories.jenkins.io](https://stories.jenkins.io)
+ - date_published: 2024-06-23T14:19:52.123318+00:00
+
+ ## Jenkins Update Sites
+ - [https://updates.jenkins.io](https://updates.jenkins.io)
+ - date_published: 2024-09-09T20:07:20+00:00
+
+ ## Jenkins Wiki : Home
+ - [https://wiki.jenkins.io](https://wiki.jenkins.io)
+ - date_published: 2024-07-01T08:48:37.162875+00:00
+
+ ## Jenkins X - Cloud Native CI/CD Built On Kubernetes
+ - [https://jenkins-x.io](https://jenkins-x.io)
+ - date_published: 2024-05-09T04:56:38.525964+00:00
+
+ ## Jennifer Long
+ - [https://jenniferlong.io](https://jenniferlong.io)
+ - date_published: 2023-08-07T22:42:55+00:00
+
+ ## Distributed Systems Safety Research
+ - [https://jepsen.io](https://jepsen.io)
+ - date_published: 2023-12-19T14:47:01.110295+00:00
+
+ ## Jepsen
+ - [https://mastodon.jepsen.io](https://mastodon.jepsen.io)
+ - date_published: 2024-05-06T06:36:21.750443+00:00
+
+ ## Jest · 🃏 Delightful JavaScript Testing
+ - [https://archive.jestjs.io](https://archive.jestjs.io)
+ - date_published: 2024-07-23T22:30:55.412998+00:00
+
+ ## Jest
+ - [https://jestjs.io](https://jestjs.io)
+ - date_published: 2024-04-29T07:32:14.061510+00:00
+
+ ## Build Custom Business Apps with No-Code | Jet Admin
+ - [https://www.jetadmin.io](https://www.jetadmin.io)
+ - date_published: 2024-10-20T12:20:04.197413+00:00
+
+ ## No-code search and filters for Webflow CMS | Jetboost
+ - [https://www.jetboost.io](https://www.jetboost.io)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Jetpack.io | Tools for sophisticated cloud development
+ - [https://www.jetpack.io](https://www.jetpack.io)
+ - date_published: 2023-10-25T19:59:15.286431+00:00
+
+ ## TLS Protect for Kubernetes Platform
+ - [https://platform.jetstack.io](https://platform.jetstack.io)
+ - date_published: 2024-06-19T14:52:45+00:00
+
  ## Jetstack Consult Services Overview | Venafi
  - [https://www.jetstack.io](https://www.jetstack.io)
  - date_published: 2023-10-25T19:59:19.124604+00:00
@@ -3938,110 +4043,4 @@
  ## Microservices.IO Premium
  - [https://premium.microservices.io](https://premium.microservices.io)
  - date_published: 2024-07-01T09:29:30.927764+00:00
-
- ## 👨‍💻 Richard Chan
- - [https://middlekid.io](https://middlekid.io)
- - date_published: 2023-07-10T19:10:18+00:00
- - tags: ['personal']
-
- ## MIDL 2021
- - [https://2021.midl.io](https://2021.midl.io)
- - date_published: 2021-07-09T00:00:00+00:00
-
- ## Simple Demo - Discord Oauth
- - [https://machines.midlibrary.io](https://machines.midlibrary.io)
- - date_published: 2024-05-06T08:55:51.797019+00:00
-
- ## Andrei Kovalev's Midlibrary: Midjourney AI Styles Library and Guide
- - [https://midlibrary.io](https://midlibrary.io)
- - date_published: 2024-01-13T04:17:36.992723+00:00
-
- ## Mighty Merge
- - [https://mightymerge.io](https://mightymerge.io)
- - date_published: 2024-10-04T23:51:03.848853+00:00
-
- ## Presidenttoto: Pasaran togel terbanyak dan slot online terlengkap
- - [https://mikerogers.io](https://mikerogers.io)
- - date_published: 2023-12-15T17:03:02+00:00
-
- ## Mikhail Shilkov
- - [https://mikhail.io](https://mikhail.io)
- - date_published: 2022-03-30T13:16:20+00:00
-
- ## Mikoto
- - [https://alpha.mikoto.io](https://alpha.mikoto.io)
- - date_published: 2024-07-20T12:59:49.861776+00:00
-
- ## Mikoto
- - [https://blog.mikoto.io](https://blog.mikoto.io)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Mikoto
- - [https://mikoto.io](https://mikoto.io)
- - date_published: 2024-05-19T03:00:06.527417+00:00
-
- ## TimePod 5330A
- - [https://www.miles.io](https://www.miles.io)
- - date_published: 2017-10-10T09:19:45+00:00
-
- ## MilkV Community
- - [https://community.milkv.io](https://community.milkv.io)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Milk-V | Embracing RISC-V with us
- - [https://milkv.io](https://milkv.io)
- - date_published: 2023-10-25T20:00:53.948439+00:00
-
- ## Milligram - A minimalist CSS framework
- - [https://milligram.io](https://milligram.io)
- - date_published: 2020-08-20T04:49:02.278000+00:00
-
- ## Mills
- - [https://git.mills.io](https://git.mills.io)
- - date_published: 2024-06-10T07:06:43.849344+00:00
-
- ## Tracking
- - [https://tube.mills.io](https://tube.mills.io)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Životne priče i monasi Šaolina
- - [https://milos.io](https://milos.io)
- - date_published: 2016-12-16T16:49:52+00:00
-
- ## Milvus codelabs
- - [https://codelabs.milvus.io](https://codelabs.milvus.io)
- - date_published: 2022-11-04T03:20:28+00:00
-
- ## Vector database - Milvus
- - [https://milvus.io](https://milvus.io)
- - date_published: 2023-10-25T20:00:58.393335+00:00
-
- ## MinIO Blog
- - [https://blog.min.io](https://blog.min.io)
- - date_published: 2023-10-25T20:01:04.713504+00:00
-
- ## MinIO | S3 & Kubernetes Native Object Storage for AI
- - [https://min.io](https://min.io)
- - date_published: 2024-04-08T19:29:49.715981+00:00
- - tags: ['self-host']
-
- ## MinIO | Resources
- - [https://resources.min.io](https://resources.min.io)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Join MinIO on Slack
- - [https://slack.min.io](https://slack.min.io)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## MinIO SUBNET
- - [https://subnet.min.io](https://subnet.min.io)
- - date_published: 2024-05-14T03:51:06.990770+00:00
-
- ## Minascan Block Explorer
- - [https://minascan.io](https://minascan.io)
- - date_published: 2024-06-21T23:12:25.070025+00:00
-
- ## Mind Ease: Anxiety Relief
- - [https://mindease.io](https://mindease.io)
- - date_published: 2020-10-01T08:17:25+00:00
 

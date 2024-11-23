@@ -1,3 +1,99 @@
+ ## Frontpage
+ - [https://opendoors.de](https://opendoors.de)
+ - date_published: 2024-05-08T11:13:51.791797+00:00
+
+ ## openEMS
+ - [https://openems.de](https://openems.de)
+ - date_published: 2023-02-23T17:01:13+00:00
+
+ ## OpenFireMap
+ - [https://openfiremap.de](https://openfiremap.de)
+ - date_published: 2021-02-24T08:35:55+00:00
+
+ ## Open Food Network
+ - [https://openfoodnetwork.de](https://openfoodnetwork.de)
+ - date_published: 2024-10-31T03:28:49.635696+00:00
+
+ ## OpenGPT-X
+ - [https://opengpt-x.de](https://opengpt-x.de)
+ - date_published: 2024-03-02T19:19:15.617874+00:00
+
+ ## Open Humboldt
+ - [https://open-humboldt.de](https://open-humboldt.de)
+ - date_published: 2024-07-18T05:50:44.833623+00:00
+
+ ## OPEN KNOWLEDGE | Individuelle Softwarelösungen
+ - [https://www.openknowledge.de](https://www.openknowledge.de)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## OpenLab Augsburg – Ein Raum für Deine Ideen
+ - [https://openlab-augsburg.de](https://openlab-augsburg.de)
+ - date_published: 2024-07-13T11:28:26.725302+00:00
+
+ ## openPetition – Citizens' initiatives, online petitions, campaigns
+ - [https://www.openpetition.de](https://www.openpetition.de)
+ - date_published: 2024-06-24T10:01:51.380117+00:00
+
+ ## openPunk
+ - [https://openpunk.de](https://openpunk.de)
+ - date_published: 2022-10-16T18:12:41+00:00
+
+ ## Open Source Ecology - Germany
+ - [https://wiki.opensourceecology.de](https://wiki.opensourceecology.de)
+ - date_published: 2024-07-03T16:01:18+00:00
+
+ ## Erklärung
+ - [https://www.opensourcelms.de](https://www.opensourcelms.de)
+ - date_published: 2024-05-08T11:42:01+00:00
+
+ ## Wochennotiz
+ - [https://blog.openstreetmap.de](https://blog.openstreetmap.de)
+ - date_published: 2022-09-24T16:45:39+00:00
+
+ ## JOSM
+ - [https://josm.openstreetmap.de](https://josm.openstreetmap.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Map with layer for the tag opening_hours based on OpenStreetMap
+ - [https://openingh.openstreetmap.de](https://openingh.openstreetmap.de)
+ - date_published: 2021-04-10T14:59:18+00:00
+
+ ## OpenStreetMap Deutschland - Die freie Wiki-Weltkarte
+ - [https://openstreetmap.de](https://openstreetmap.de)
+ - date_published: 2024-05-11T11:32:37.370321+00:00
+
+ ## OpenStreetMap Routing with Open Source Routing Machine
+ - [https://routing.openstreetmap.de](https://routing.openstreetmap.de)
+ - date_published: 2023-08-20T14:53:41+00:00
+
+ ## uMap
+ - [https://umap.openstreetmap.de](https://umap.openstreetmap.de)
+ - date_published: 2024-07-24T03:32:02.877593+00:00
+
+ ## Restaurant-Reservierungssoftware | OpenTable für Restaurants
+ - [https://restaurant.opentable.de](https://restaurant.opentable.de)
+ - date_published: 2024-10-30T12:44:49.692409+00:00
+
+ ## OpenTable - Entdecken & Reservieren Sie die Besten Restaurants
+ - [https://www.opentable.de](https://www.opentable.de)
+ - date_published: 2024-06-30T12:08:27.324408+00:00
+
+ ## Synonyme - OpenThesaurus - Deutscher Thesaurus
+ - [https://www.openthesaurus.de](https://www.openthesaurus.de)
+ - date_published: 2024-10-19T16:13:09.062128+00:00
+
+ ## OpenValue - Better software, faster.
+ - [https://www.openvalue.de](https://www.openvalue.de)
+ - date_published: 2024-07-24T06:05:08.141050+00:00
+
+ ## OpenWeb Podcast - Der Podcast über offene Standards im Internet
+ - [https://openwebpodcast.de](https://openwebpodcast.de)
+ - date_published: 2024-07-09T07:19:18+00:00
+
+ ## Startseite
+ - [https://www.operation-karriere.de](https://www.operation-karriere.de)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## Verein Opferperspektive e.V.
  - [https://www.opferperspektive.de](https://www.opferperspektive.de)
  - date_published: 2024-09-12T16:06:39.428608+00:00
@@ -3924,104 +4020,4 @@
  ## Shoutcast Tools
  - [https://www.shoutcast-tools.de](https://www.shoutcast-tools.de)
  - date_published: 2024-09-13T00:00:00+00:00
-
- ## Aktuelle Nachrichten aus Schleswig-Holstein | SHZ
- - [http://www.shz.de](http://www.shz.de)
- - date_published: 2024-07-03T11:46:01.147792+00:00
-
- ## SID – Sport-Informations-Dienst
- - [https://sid.de](https://sid.de)
- - date_published: 2024-06-15T05:40:09.172698+00:00
-
- ## SID-Spieler
- - [https://sidspieler.de](https://sidspieler.de)
- - date_published: 2024-02-15T22:12:23.997316+00:00
- - tags: ['chiptune', 'demoscene']
-
- ## siegfried haase-skulpturen & objekte - Überblick
- - [http://www.siegfried-haase-skulpturen-und-objekte.de](http://www.siegfried-haase-skulpturen-und-objekte.de)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## sigAI HDP
- - [https://sigai.de](https://sigai.de)
- - date_published: 2024-07-20T14:31:08.998615+00:00
-
- ## Träum schön, Siggi Sternenschläfer
- - [https://www.siggi-sternenschlaefer.de](https://www.siggi-sternenschlaefer.de)
- - date_published: 2024-04-29T06:44:52.137073+00:00
-
- ## Versicherungen und Finanzen – SIGNAL IDUNA Gruppe
- - [https://www.signal-iduna.de](https://www.signal-iduna.de)
- - date_published: 2024-07-15T12:03:18.493433+00:00
-
- ## Qualifizierte Elektronische Signatur und Siegel | SIGNIUS
- - [https://signius.de](https://signius.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Übermüdet – pädagogisch wertfrei erziehen
- - [https://silberkind.de](https://silberkind.de)
- - date_published: 2024-06-30T18:51:06+00:00
-
- ## silicon.de
- - [https://itjobs.silicon.de](https://itjobs.silicon.de)
- - date_published: 2024-07-01T08:33:58.005302+00:00
-
- ## Whitepaper - Silicon.de
- - [https://whitepaper.silicon.de](https://whitepaper.silicon.de)
- - date_published: 2024-07-01T08:34:06.540086+00:00
-
- ## silicon.de
- - [https://www.silicon.de](https://www.silicon.de)
- - date_published: 2024-07-01T08:34:09.321061+00:00
-
- ## Silke Hohmann
- - [http://silkehohmann.de](http://silkehohmann.de)
- - date_published: 2024-07-13T16:03:42.757701+00:00
-
- ## SilvaSatellit
- - [http://silva-satellit.de](http://silva-satellit.de)
- - date_published: 2024-07-24T07:54:54.175302+00:00
-
- ## Deutsch
- - [https://sim4dexterity.de](https://sim4dexterity.de)
- - date_published: 2022-10-05T00:00:00+00:00
-
- ## SiME Congress
- - [https://sime-congress.de](https://sime-congress.de)
- - date_published: 2024-08-08T23:03:40.168211+00:00
-
- ## Simon Broich · Freelance Digital Product & UX/UI Designer
- - [http://simonbroich.de](http://simonbroich.de)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Simon Grunwald - CV
- - [https://simongrunwald.de](https://simongrunwald.de)
- - date_published: 2024-04-12T16:16:02+00:00
-
- ## Simon Kissel - offizielle Homepage
- - [https://simon-kissel.de](https://simon-kissel.de)
- - date_published: 2020-03-14T01:03:53+00:00
- - tags: ['personal']
-
- ## Simon Kraft – WordPress-Mensch aus Stuttgart
- - [https://simonkraft.de](https://simonkraft.de)
- - date_published: 2024-07-12T23:10:25.614556+00:00
-
- ## Join the simonschreibt's super-duper server Discord Server!
- - [https://discord.simonschreibt.de](https://discord.simonschreibt.de)
- - date_published: 2024-04-29T06:44:46.655433+00:00
-
- ## GDC/ADDON 2022: How (not) to create Textures for VFX | Simonschreibt.
- - [https://gdc2022.simonschreibt.de](https://gdc2022.simonschreibt.de)
- - date_published: 2024-07-24T04:47:50.501128+00:00
-
- ## Simon schreibt.
- - [https://simonschreibt.de](https://simonschreibt.de)
- - date_published: 2023-10-25T18:32:36.399916+00:00
- - tags: ['personal']
-
- ## Simon Trümpler – VFX Artist
- - [https://simont.de](https://simont.de)
- - date_published: 2024-04-29T06:44:49.579831+00:00
- - tags: ['personal']
 

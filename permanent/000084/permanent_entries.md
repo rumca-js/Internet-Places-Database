@@ -1,3 +1,39 @@
+ ## Deezer for developers
+ - [https://developers.deezer.com](https://developers.deezer.com)
+ - date_published: 2024-05-10T04:33:32.271116+00:00
+
+ ## Deezer plans | Compare Deezer's offer prices
+ - [https://fr-www.deezer.com](https://fr-www.deezer.com)
+ - date_published: 2024-07-17T08:08:15.505874+00:00
+
+ ## Publications
+ - [https://research.deezer.com](https://research.deezer.com)
+ - date_published: 2024-05-03T09:03:52+00:00
+
+ ## Deezer Support
+ - [https://support.deezer.com](https://support.deezer.com)
+ - date_published: 2024-07-12T06:07:46.974849+00:00
+
+ ## VDP
+ - [https://vdp.deezer.com](https://vdp.deezer.com)
+ - date_published: 2024-05-10T04:33:31.685897+00:00
+
+ ## Portal - Deezer
+ - [https://widget.deezer.com](https://widget.deezer.com)
+ - date_published: 2024-07-03T06:36:03.916585+00:00
+
+ ## Zen by Deezer - Découvrez l'application bien-être
+ - [https://zen.deezer.com](https://zen.deezer.com)
+ - date_published: 2024-07-12T06:08:16.732999+00:00
+
+ ## The Backstage - The new Deezer blog!
+ - [https://deezer-blog.com](https://deezer-blog.com)
+ - date_published: 2024-05-10T04:33:26.635155+00:00
+
+ ## Home | Deezer Brand Partnerships
+ - [https://deezer-brandpartnerships.com](https://deezer-brandpartnerships.com)
+ - date_published: 2022-07-28T13:16:18+00:00
+
  ## Deezer Community | Deezer Community, bringing music lovers together
  - [https://en.deezercommunity.com](https://en.deezercommunity.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -3995,40 +4031,4 @@
  ## Gruppe Deutsche Börse - Gruppe Deutsche Börse
  - [https://deutsche-boerse.com](https://deutsche-boerse.com)
  - date_published: 2024-06-22T21:40:06.781385+00:00
-
- ## Sicherheit und Datenschutz | Deutsche Grammophon
- - [https://sicherheitunddatenschutz.deutschegrammophon.com](https://sicherheitunddatenschutz.deutschegrammophon.com)
- - date_published: 2024-09-16T02:57:00+00:00
-
- ## Deutsche Grammophon - Das Label für klassische Musik seit 1898
- - [https://www.deutschegrammophon.com](https://www.deutschegrammophon.com)
- - date_published: 2024-07-20T12:51:49.319769+00:00
-
- ## Akademie Deutsche POP: Ausbildung & Studium Kreativberufe
- - [https://deutsche-pop.com](https://deutsche-pop.com)
- - date_published: 2024-05-10T06:17:19.393944+00:00
-
- ## America | DEUTZ-FAHR - DEUTZ-FAHR
- - [https://www.deutz-fahr.com](https://www.deutz-fahr.com)
- - date_published: 2024-08-11T16:53:39.604400+00:00
-
- ## Conception Deux Huit Huit
- - [https://watermark.deuxhuithuit.com](https://watermark.deuxhuithuit.com)
- - date_published: 2024-07-16T19:55:41.297380+00:00
-
- ## dev2next Conference
- - [https://www.dev2next.com](https://www.dev2next.com)
- - date_published: 2024-07-18T12:27:49.743783+00:00
-
- ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
- - [https://dev7studios.com](https://dev7studios.com)
- - date_published: 2024-05-12T05:43:53.163897+00:00
-
- ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
- - [http://docs.dev7studios.com](http://docs.dev7studios.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Evidence-based medicine | Deva Boone, MD
- - [https://devaboone.com](https://devaboone.com)
- - date_published: 2024-03-18T16:03:48.224318+00:00
 

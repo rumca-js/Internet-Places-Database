@@ -1,3 +1,91 @@
+ ## Startseite
+ - [https://web.tum.de](https://web.tum.de)
+ - date_published: 2024-07-24T04:20:52.882846+00:00
+
+ ## Login - BayernCollab
+ - [https://wiki.tum.de](https://wiki.tum.de)
+ - date_published: 2024-04-29T06:57:07.882141+00:00
+
+ ## Stories - TUM Community
+ - [https://www.150.alumni.tum.de](https://www.150.alumni.tum.de)
+ - date_published: 2024-08-08T21:10:31.660354+00:00
+
+ ## Home
+ - [https://www21.in.tum.de](https://www21.in.tum.de)
+ - date_published: 2024-07-22T14:41:41+00:00
+
+ ## Startseite
+ - [https://www.arc.ed.tum.de](https://www.arc.ed.tum.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Informatik III - Datenbanksysteme und Wissensbasen
+ - [http://wwwbayer.in.tum.de](http://wwwbayer.in.tum.de)
+ - date_published: 2014-05-12T14:09:33+00:00
+
+ ## Startseite
+ - [https://www.chancengleichheit.tum.de](https://www.chancengleichheit.tum.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Chair for Database Systems
+ - [http://www-db.in.tum.de](http://www-db.in.tum.de)
+ - date_published: 2024-09-02T16:19:21.331994+00:00
+
+ ## MDCO_Home
+ - [https://www.dualcareer.tum.de](https://www.dualcareer.tum.de)
+ - date_published: 2024-04-29T06:57:00.323508+00:00
+
+ ## TUM Center for Educational Technologies
+ - [https://www.edtech.tum.de](https://www.edtech.tum.de)
+ - date_published: 2024-07-24T04:21:42.615077+00:00
+
+ ## Startseite
+ - [https://www.edu.sot.tum.de](https://www.edu.sot.tum.de)
+ - date_published: 2024-08-08T21:10:24.909309+00:00
+
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://www.eec.wi.tum.de](https://www.eec.wi.tum.de)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://www.ei.tum.de](http://www.ei.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Startseite
+ - [http://www.emeriti-of-excellence.tum.de](http://www.emeriti-of-excellence.tum.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Converia • Conference overview
+ - [https://www.events.tum.de](https://www.events.tum.de)
+ - date_published: 2024-08-08T23:03:46.378962+00:00
+
+ ## Startseite
+ - [https://www.fa.mgt.tum.de](https://www.fa.mgt.tum.de)
+ - date_published: 2024-09-25T13:41:46.392761+00:00
+
+ ## Effektive Förderung: Unterstützung für die Technische Universität München
+ - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
+ - date_published: 2024-04-29T06:56:54.029375+00:00
+
+ ## Home
+ - [https://www.gov.sot.tum.de](https://www.gov.sot.tum.de)
+ - date_published: 2024-08-08T23:36:15.848989+00:00
+
+ ## Promovieren an der Technischen Universität München
+ - [https://www.gs.tum.de](https://www.gs.tum.de)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.hfp.tum.de](https://www.hfp.tum.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## International Graduate School of Science and Engineering (IGSSE)
+ - [https://www.igsse.gs.tum.de](https://www.igsse.gs.tum.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.international.tum.de](https://www.international.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## TUM School of Computation, Information and Technology
  - [http://www.lkn.ei.tum.de](http://www.lkn.ei.tum.de)
  - date_published: 2024-09-06T00:00:00+00:00
@@ -3914,92 +4002,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Home
  - [https://publik.verdi.de](https://publik.verdi.de)
  - date_published: 2024-06-27T06:14:41.161239+00:00
-
- ## ver.di
- - [https://vod.verdi.de](https://vod.verdi.de)
- - date_published: 2024-06-27T06:14:53.503256+00:00
-
- ## Sign in - Matomo
- - [https://web-stat.verdi.de](https://web-stat.verdi.de)
- - date_published: 2024-06-27T06:14:56.892207+00:00
-
- ## Vereinte Dienstleistungsgewerkschaft
- - [https://www.verdi.de](https://www.verdi.de)
- - date_published: 2024-05-06T20:48:18.688892+00:00
-
- ## Tarif- und Besoldungsrunde öffentlicher Dienst Bund und Kommunen 2025
- - [https://zusammen-geht-mehr.verdi.de](https://zusammen-geht-mehr.verdi.de)
- - date_published: 2024-06-27T06:14:45.855676+00:00
-
- ## START
- - [https://verdi-mitgliederservice.de](https://verdi-mitgliederservice.de)
- - date_published: 2022-01-05T08:39:25+00:00
-
- ## VERDURE Internetagentur Stuttgart
- - [https://www.verdure.de](https://www.verdure.de)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Willkommen beim Klimawissen e.V.
- - [https://verein-klimawissen.de](https://verein-klimawissen.de)
- - date_published: 2019-05-03T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://analytics.verfassungsblog.de](https://analytics.verfassungsblog.de)
- - date_published: 2024-10-18T20:51:09.069555+00:00
-
- ## Home
- - [http://verfassungsblog.de](http://verfassungsblog.de)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Startseite
- - [https://www.verfassungsschutz.de](https://www.verfassungsschutz.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Ihre Ausweise im persönlichen ID-Wallet - Verimi
- - [https://verimi.de](https://verimi.de)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## VERIVOX | Tarife vergleichen & stressfrei sparen!
- - [https://www.verivox.de](https://www.verivox.de)
- - date_published: 2024-07-09T07:53:19.108637+00:00
-
- ## Home
- - [https://www.verkehrsmuseum-dresden.de](https://www.verkehrsmuseum-dresden.de)
- - date_published: 2024-07-14T03:08:14.143685+00:00
-
- ## Kreisverkehrswacht Bayreuth e.V.
- - [https://www.verkehrswacht-bt-ku.de](https://www.verkehrswacht-bt-ku.de)
- - date_published: 2024-07-24T07:12:18.383810+00:00
-
- ## Verpackungskontor Krumbein - Verpackungskontor
- - [https://www.verpackungs-kontor.de](https://www.verpackungs-kontor.de)
- - date_published: 2024-02-07T09:59:15+00:00
-
- ## Willkommen auf vesab.de
- - [https://www.vesab.de](https://www.vesab.de)
- - date_published: 2020-06-25T10:03:17+00:00
-
- ## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
- - [https://vesalia.de](https://vesalia.de)
- - date_published: 2023-12-11T19:07:27.880695+00:00
-
- ## Performance art | Film | VestAndPage - Verena Stenke & Andrea Pagnes | Germany
- - [https://vest-and-page.de](https://vest-and-page.de)
- - date_published: 2024-06-12T12:40:51.148300+00:00
-
- ## Vestas Germany
- - [https://vestas.de](https://vestas.de)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Home | VeWa
- - [https://www.vewa-project.de](https://www.vewa-project.de)
- - date_published: 2022-10-16T00:00:00+00:00
-
- ## Verlag für Standesamtswesen
- - [https://www.vfst.de](https://www.vfst.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Viktor Garske
- - [https://ai.v-gar.de](https://ai.v-gar.de)
- - date_published: 2023-05-29T20:09:31+00:00
 

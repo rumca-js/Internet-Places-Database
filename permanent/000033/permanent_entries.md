@@ -1,3 +1,15 @@
+ ## The First Operator of E-Commerce Software - Shop Circle
+ - [https://shopcircle.co](https://shopcircle.co)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## shopdev - Leading Custom Software Development Company in USA
+ - [https://shopdev.co](https://shopdev.co)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Howl | A new social commerce platform
+ - [https://shop-links.co](https://shop-links.co)
+ - date_published: 2024-08-09T00:00:00+00:00
+
  ## Show.co
  - [https://backstage.show.co](https://backstage.show.co)
  - date_published: 2024-07-10T22:00:50+00:00
@@ -4008,16 +4020,4 @@
  ## Error
  - [https://gf.libertadores.edu.co](https://gf.libertadores.edu.co)
  - date_published: 2024-09-12T14:45:10.304694+00:00
-
- ## Intranet Los Libertadores – Intranet Los Libertadores
- - [https://intranet.libertadores.edu.co](https://intranet.libertadores.edu.co)
- - date_published: 2024-09-12T14:45:49.221857+00:00
-
- ## Error
- - [https://to.libertadores.edu.co](https://to.libertadores.edu.co)
- - date_published: 2024-09-12T14:43:12.303473+00:00
-
- ## Secretaría de Educación ⋆ Secretaría de Educación
- - [https://medellin.edu.co](https://medellin.edu.co)
- - date_published: 2024-06-04T00:00:00+00:00
 

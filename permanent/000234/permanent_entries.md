@@ -1,3 +1,95 @@
+ ## Mike Principato, Freelance & Contract B2B/B2C Content Creator
+ - [http://mikeprincipato.writerfolio.com](http://mikeprincipato.writerfolio.com)
+ - date_published: 2024-06-15T09:20:21.572487+00:00
+
+ ## Peter Manu
+ - [https://petermanu.writerfolio.com](https://petermanu.writerfolio.com)
+ - date_published: 2024-09-16T23:19:03.375791+00:00
+
+ ## Falderal
+ - [https://raymond.writerfolio.com](https://raymond.writerfolio.com)
+ - date_published: 2024-06-15T09:20:22.541420+00:00
+
+ ## Rebecca M. Farrar, M.A.
+ - [https://rebeccamfarrar.writerfolio.com](https://rebeccamfarrar.writerfolio.com)
+ - date_published: 2024-09-16T23:19:07.230218+00:00
+
+ ## Ryan Rodal's Writer Portfolio
+ - [https://ryanrodal.writerfolio.com](https://ryanrodal.writerfolio.com)
+ - date_published: 2024-09-16T23:18:29.170346+00:00
+
+ ## Check Out My Writing!
+ - [https://shelbyneely.writerfolio.com](https://shelbyneely.writerfolio.com)
+ - date_published: 2024-09-16T23:23:07.032303+00:00
+
+ ## For writing that works high and low, Sky's the Write Guy
+ - [https://skythewritingguy.writerfolio.com](https://skythewritingguy.writerfolio.com)
+ - date_published: 2024-09-16T23:23:08.289376+00:00
+
+ ## Strategic Content Writer | Managing Editor
+ - [https://suzannemoriarity.writerfolio.com](https://suzannemoriarity.writerfolio.com)
+ - date_published: 2024-06-15T09:20:20.658603+00:00
+
+ ## Content Makes the World Move
+ - [https://tammyjostory.writerfolio.com](https://tammyjostory.writerfolio.com)
+ - date_published: 2024-09-16T23:19:04.350521+00:00
+
+ ## Tania Lorena Rivera
+ - [https://tanialorenarivera.writerfolio.com](https://tanialorenarivera.writerfolio.com)
+ - date_published: 2024-06-15T09:20:18.713749+00:00
+
+ ## Edit this title at your Dashboard!
+ - [https://terrigoode.writerfolio.com](https://terrigoode.writerfolio.com)
+ - date_published: 2024-09-16T23:18:36.660346+00:00
+
+ ## Stony Lane Press
+ - [https://thomasjayrush.writerfolio.com](https://thomasjayrush.writerfolio.com)
+ - date_published: 2024-06-15T09:20:26.404819+00:00
+
+ ## Coordinating Documentation with Lightning Precision and Speed
+ - [https://tiamarciel.writerfolio.com](https://tiamarciel.writerfolio.com)
+ - date_published: 2024-09-16T23:23:11.382513+00:00
+
+ ## Easy, professional online writing portfolios | Writerfolio
+ - [https://writerfolio.com](https://writerfolio.com)
+ - date_published: 2024-05-01T03:04:42.570360+00:00
+
+ ## WriterGate - Content Management Made Easy
+ - [https://www.writergate.com](https://www.writergate.com)
+ - date_published: 2024-05-04T13:43:31.392647+00:00
+
+ ## The Writer
+ - [https://www.writermag.com](https://www.writermag.com)
+ - date_published: 2024-06-29T19:57:30.269836+00:00
+
+ ## Writer on Deck
+ - [https://www.writerondeck.com](https://www.writerondeck.com)
+ - date_published: 2024-07-02T06:06:19.183243+00:00
+
+ ## Writeropolis Media || Creativity by design.
+ - [http://writeropolis.com](http://writeropolis.com)
+ - date_published: 2024-08-18T09:34:04.463677+00:00
+
+ ## Writer Ruth
+ - [https://writerruth.com](https://writerruth.com)
+ - date_published: 2024-10-19T10:54:55.763447+00:00
+
+ ## Online Writing Classes, Learning, and Community | Writers.com
+ - [https://writers.com](https://writers.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## WRITERS AGAINST THE WAR ON GAZA
+ - [https://writersagainstthewarongaza.com](https://writersagainstthewarongaza.com)
+ - date_published: 2024-05-08T12:01:10.300332+00:00
+
+ ## Writer Sanctum - Index
+ - [https://writersanctum.com](https://writersanctum.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## 万象城体育-（中国）网站首页
+ - [http://www.writerscreativestudio.com](http://www.writerscreativestudio.com)
+ - date_published: 2024-10-17T22:58:04.882484+00:00
+
  ## Writer's Digest
  - [http://www.writersdigest.com](http://www.writersdigest.com)
  - date_published: 2024-07-04T13:19:01.426862+00:00
@@ -1477,6 +1569,10 @@
  ## Wyoming Trust & LLC Attorney - Asset Protection is Our Only Focus
  - [https://wyomingllcattorney.com](https://wyomingllcattorney.com)
  - date_published: 2023-10-25T18:21:07.429056+00:00
+
+ ## Thoughts of an imprint | Waqas Younas | Substack
+ - [https://thoughts.wyounas.com](https://thoughts.wyounas.com)
+ - date_published: 2024-11-22T15:12:13.600065+00:00
 
  ## Hello and welcome! | Waqas Younas' Personal Website.
  - [https://wyounas.com](https://wyounas.com)
@@ -3240,6 +3336,11 @@
  - [http://xmacros.com](http://xmacros.com)
  - date_published: 2024-07-10T01:58:40+00:00
 
+ ## xManager
+ - [https://xmanagerapp.com](https://xmanagerapp.com)
+ - date_published: 1970-01-01T01:00:00+00:00
+ - tags: ['download manager']
+
  ## Coming Soon
  - [https://x-matik.com](https://x-matik.com)
  - date_published: 2024-07-12T07:19:30.088716+00:00
@@ -3923,106 +4024,4 @@
  ## xt-Commerce – Ihr Start in den eCommerce – Onlineshop Komplettlösung Shopsoftware
  - [https://xt-commerce.com](https://xt-commerce.com)
  - date_published: 2024-05-10T03:56:27.535899+00:00
-
- ## Discuss XTDB
- - [https://discuss.xtdb.com](https://discuss.xtdb.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Welcome to XTDB!
- - [https://docs.xtdb.com](https://docs.xtdb.com)
- - date_published: 2021-05-15T00:00:00+00:00
-
- ## XTDB — immutable SQL database for data compliance
- - [https://xtdb.com](https://xtdb.com)
- - date_published: 2024-05-07T16:56:45.422581+00:00
- - tags: ['database system']
-
- ## Xtendlife | Official Site | Supplements & Skincare
- - [http://www.xtend-life.com](http://www.xtend-life.com)
- - date_published: 2024-11-16T19:30:27.907040+00:00
-
- ## Thiago Rodrigues (xthiago) // versão TXT — arquiteto de softw...
- - [https://txt.xthiago.com](https://txt.xthiago.com)
- - date_published: 2024-06-18T16:14:35.140504+00:00
-
- ## Thiago Rodrigues (xthiago)
- - [https://xthiago.com](https://xthiago.com)
- - date_published: 2024-10-22T18:34:53.920674+00:00
-
- ## XTO Energy Inc.
- - [https://www.xtoenergy.com](https://www.xtoenergy.com)
- - date_published: 2024-07-17T16:38:53.582689+00:00
-
- ## xTool Australia | Desktop Laser Cutter and Engraver
- - [https://au.xtool.com](https://au.xtool.com)
- - date_published: 2024-09-20T14:08:12.847077+00:00
-
- ## xTool Canada | Desktop Laser Cutter and Engraver
- - [https://ca.xtool.com](https://ca.xtool.com)
- - date_published: 2024-09-20T14:08:17.515095+00:00
-
- ## xTool Deutschland | Desktop Laser Cutter und Graviermaschinen
- - [https://de.xtool.com](https://de.xtool.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## xTool Material Settings Library
- - [https://easyset.xtool.com](https://easyset.xtool.com)
- - date_published: 2024-09-20T14:07:48.103386+00:00
-
- ## Découpeur et Graveur Laser Intelligent | xTool France Officiel
- - [https://fr.xtool.com](https://fr.xtool.com)
- - date_published: 2024-09-20T14:07:45.202489+00:00
-
- ## xTool Japan ストア
- - [https://jp.xtool.com](https://jp.xtool.com)
- - date_published: 2024-09-20T14:08:28.106344+00:00
-
- ## xTool Material Settings Library
- - [https://mt.xtool.com](https://mt.xtool.com)
- - date_published: 2024-09-20T14:08:34.030368+00:00
-
- ## xTool Support Center
- - [https://support.xtool.com](https://support.xtool.com)
- - date_published: 2024-09-20T14:07:41.787704+00:00
-
- ## xTool UK | Desktop Laser Cutter and Engraver
- - [https://uk.xtool.com](https://uk.xtool.com)
- - date_published: 2024-09-20T14:07:36.450828+00:00
-
- ## xTool Laser | Smart Desktop Laser Cutter and Engraver
- - [https://xtool.com](https://xtool.com)
- - date_published: 2024-06-15T23:36:49.093424+00:00
-
- ## Xtrac - Transmission Technology Specialists
- - [http://www.xtrac.com](http://www.xtrac.com)
- - date_published: 2024-07-12T13:16:36+00:00
-
- ## Kaizen
- - [https://kaizen.xtralife.com](https://kaizen.xtralife.com)
- - date_published: 2023-06-08T14:01:38+00:00
-
- ## Todas Las Novedades y Ofertas en tu plataforma a la diversion, xtralife.com
- - [https://newsletter.xtralife.com](https://newsletter.xtralife.com)
- - date_published: 2024-09-05T15:46:18+00:00
-
- ## xtralife: Tienda de Videojuegos, Consolas y Merchandising
- - [https://www.xtralife.com](https://www.xtralife.com)
- - date_published: 2024-06-17T21:13:22.348252+00:00
-
- ## Media Kit
- - [https://mediakit.xtramagazine.com](https://mediakit.xtramagazine.com)
- - date_published: 2024-05-07T16:56:53.787525+00:00
-
- ## Xtra Magazine - Queering the conversation
- - [https://xtramagazine.com](https://xtramagazine.com)
- - date_published: 2023-10-25T18:22:10.782790+00:00
- - tags: ['lgbt', 'the left wing']
-
- ## XtraOrbit :: Domain Registration and Web Hosting :: Perfect Money, Skrill, PayPal, BitCoin, Payza, OKPay and Credit Cards Accepted.
- - [http://domains.xtraorbit.com](http://domains.xtraorbit.com)
- - date_published: 2024-10-20T12:31:22.696564+00:00
-
- ## XtraOrbit :: Web Hosting :: Skrill, Bitcoin, Perfect Money, PayPal, Payza and Credit Cards Accepted.
- - [https://www.xtraorbit.com](https://www.xtraorbit.com)
- - date_published: 2024-06-17T21:12:59.608231+00:00
 

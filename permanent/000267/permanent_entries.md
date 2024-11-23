@@ -1,3 +1,91 @@
+ ## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
+ - [https://compliance.ua.edu](https://compliance.ua.edu)
+ - date_published: 2024-05-07T20:40:52.548818+00:00
+
+ ## Office of Teaching Innovation and Digital Education
+ - [http://continuingstudies.ua.edu](http://continuingstudies.ua.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
+ - date_published: 2024-02-08T18:16:42.939005+00:00
+
+ ## The University of Alabama | Crowdfunding
+ - [https://crowdfunding.ua.edu](https://crowdfunding.ua.edu)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## The Culverhouse College of Business – The University of Alabamas Culverhouse College of Business | The University of Alabama
+ - [http://culverhouse.ua.edu](http://culverhouse.ua.edu)
+ - date_published: 2024-07-01T21:50:18.856382+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://degreeworks.ua.edu](https://degreeworks.ua.edu)
+ - date_published: 2024-05-07T20:40:25.349326+00:00
+
+ ## Diversity – Diversity Equity and Inclusion | The University of Alabama
+ - [https://diversity.ua.edu](https://diversity.ua.edu)
+ - date_published: 2024-07-01T21:49:58.151527+00:00
+
+ ## Electrical and Computer Engineering – Just another eng.ua.edu Sites site | The University of Alabama
+ - [http://ece.eng.ua.edu](http://ece.eng.ua.edu)
+ - date_published: 2024-07-13T11:10:14.705382+00:00
+
+ ## College of Education
+ - [http://education.ua.edu](http://education.ua.edu)
+ - date_published: 2024-07-01T21:49:27.452726+00:00
+
+ ## Environmental Health & Safety – Environmental Health & Safety | The University of Alabama
+ - [https://ehs.ua.edu](https://ehs.ua.edu)
+ - date_published: 2024-07-01T21:50:06.099145+00:00
+
+ ## College of Engineering
+ - [http://eng.ua.edu](http://eng.ua.edu)
+ - date_published: 2024-07-01T21:50:12.515570+00:00
+
+ ## eop.ua.edu – Equal Opportunity | The University of Alabama
+ - [https://eop.ua.edu](https://eop.ua.edu)
+ - date_published: 2024-02-08T22:03:09.704384+00:00
+
+ ## Faculty Handbook –  | The University of Alabama
+ - [https://facultyhandbook.ua.edu](https://facultyhandbook.ua.edu)
+ - date_published: 2024-07-01T21:56:11.933754+00:00
+
+ ## Finance and Operations – Division of Finance and Operations
+ - [https://financeandoperations.ua.edu](https://financeandoperations.ua.edu)
+ - date_published: 2024-07-01T21:54:44.180366+00:00
+
+ ## Financial Aid - Afford | The University of Alabama
+ - [https://financialaid.ua.edu](https://financialaid.ua.edu)
+ - date_published: 2024-07-01T21:53:48.265920+00:00
+
+ ## The University of Alabama
+ - [https://give.ua.edu](https://give.ua.edu)
+ - date_published: 2024-07-01T22:02:49.688001+00:00
+
+ ## Advancement  –  | The University of Alabama
+ - [https://giving.ua.edu](https://giving.ua.edu)
+ - date_published: 2024-05-07T20:41:03.467559+00:00
+
+ ## Admissions
+ - [https://gobama.ua.edu](https://gobama.ua.edu)
+ - date_published: 2024-05-07T20:40:35.865786+00:00
+
+ ## Homepage - Graduate School | The University of Alabama
+ - [https://graduate.ua.edu](https://graduate.ua.edu)
+ - date_published: 2024-05-07T20:40:31.664983+00:00
+
+ ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
+ - [http://helpdesk.ua.edu](http://helpdesk.ua.edu)
+ - date_published: 2024-07-01T21:50:39.709953+00:00
+
+ ## honors.ua.edu – Honors College | The University of Alabama
+ - [http://honors.ua.edu](http://honors.ua.edu)
+ - date_published: 2024-07-01T21:50:00.737661+00:00
+
+ ## Human Resources – The University of Alabama. | The University of Alabama
+ - [https://hr.ua.edu](https://hr.ua.edu)
+ - date_published: 2024-07-01T21:51:25.750275+00:00
+
  ## Informal Resolution – Informal Resolution | The University of Alabama
  - [https://informalresolution.ua.edu](https://informalresolution.ua.edu)
  - date_published: 2024-05-07T20:40:56.021566+00:00
@@ -3936,92 +4024,4 @@
  ## Home – UCLA Housing | Housing
  - [https://portal.housing.ucla.edu](https://portal.housing.ucla.edu)
  - date_published: 2024-07-01T22:39:35+00:00
-
- ## UCLA Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucla.edu](https://profiles.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Automated Reasoning Group - UCLA
- - [http://reasoning.cs.ucla.edu](http://reasoning.cs.ucla.edu)
- - date_published: 2024-08-18T18:44:55.622444+00:00
-
- ## Welcome - UCLA Academic RECRUIT
- - [https://recruit.apo.ucla.edu](https://recruit.apo.ucla.edu)
- - date_published: 2024-10-29T18:27:51.485184+00:00
-
- ## Welcome! | UCLA Registrar’s Office
- - [https://registrar.ucla.edu](https://registrar.ucla.edu)
- - date_published: 2024-07-01T20:43:03+00:00
-
- ## Home | Research & Creative Activities
- - [https://research.ucla.edu](https://research.ucla.edu)
- - date_published: 2024-07-01T22:44:57+00:00
-
- ## Welcome to Residential Life! | Residential Life
- - [https://reslife.ucla.edu](https://reslife.ucla.edu)
- - date_published: 2024-06-29T01:32:20+00:00
-
- ## UCLA Samueli School of Engineering. Engineer Change.
- - [https://samueli.ucla.edu](https://samueli.ucla.edu)
- - date_published: 2024-06-30T05:34:01+00:00
-
- ## UCLA Student Affairs
- - [https://sa.ucla.edu](https://sa.ucla.edu)
- - date_published: 2016-02-18T23:53:14+00:00
-
- ## UCLA Single Sign-On
- - [https://saweb.uclanet.ucla.edu](https://saweb.uclanet.ucla.edu)
- - date_published: 2024-07-01T23:05:16.259442+00:00
-
- ## Scalable Analytics Institute (ScAi) | where data finds its meaning
- - [https://scai.cs.ucla.edu](https://scai.cs.ucla.edu)
- - date_published: 2024-06-30T05:33:56.550428+00:00
-
- ## UCLA Herb Alpert School of Music - All in One Place
- - [https://schoolofmusic.ucla.edu](https://schoolofmusic.ucla.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## UCLA Cognitive Systems Laboratory (Experimental)
- - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
- - date_published: 2023-04-12T18:21:36+00:00
-
- ## Smadar Naoz
- - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
- - date_published: 2024-04-30T03:33:26.794955+00:00
-
- ## Social Media | UCLA Social Media
- - [https://socialmedia.ucla.edu](https://socialmedia.ucla.edu)
- - date_published: 2024-07-01T23:07:14.437929+00:00
-
- ## Social Sciences
- - [http://socialsciences.ucla.edu](http://socialsciences.ucla.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## UCLA | Spark
- - [https://spark.ucla.edu](https://spark.ucla.edu)
- - date_published: 2024-07-01T23:05:01.147710+00:00
-
- ## UCLA Anderson Blogs – UCLA Anderson Blogs
- - [https://stories.anderson.ucla.edu](https://stories.anderson.ucla.edu)
- - date_published: 2024-10-29T09:13:58.273481+00:00
-
- ## Creating the Future: UCLA Strategic Plan 2023-28
- - [https://strategic-plan.ucla.edu](https://strategic-plan.ucla.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - UCLA Summer Sessions
- - [https://summer.ucla.edu](https://summer.ucla.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## D|MA Support v2.0
- - [https://support.dma.ucla.edu](https://support.dma.ucla.edu)
- - date_published: 2024-10-29T11:44:26.044988+00:00
-
- ## Home | UCLA TDG
- - [https://tdg.ucla.edu](https://tdg.ucla.edu)
- - date_published: 2024-07-01T23:02:00.263817+00:00
-
- ## Home | Transportation
- - [https://transportation.ucla.edu](https://transportation.ucla.edu)
- - date_published: 2024-07-01T22:44:57+00:00
 

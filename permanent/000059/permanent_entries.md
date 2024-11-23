@@ -1,3 +1,31 @@
+ ## a slowboat to mediocrity
+ - [https://hihosilvero.blogspot.com](https://hihosilvero.blogspot.com)
+ - date_published: 2024-07-27T09:11:02+00:00
+
+ ## HIJOS DE CTHULHU.
+ - [http://hijosdecthulhu.blogspot.com](http://hijosdecthulhu.blogspot.com)
+ - date_published: 2024-07-01T20:47:25+00:00
+
+ ## k i t t o d a i j o u b u
+ - [http://hikarinomonogatari.blogspot.com](http://hikarinomonogatari.blogspot.com)
+ - date_published: 2009-05-19T00:00:00+00:00
+
+ ## Hiking the British Coastline
+ - [http://hikethecoast.blogspot.com](http://hikethecoast.blogspot.com)
+ - date_published: 2024-02-07T08:07:45+00:00
+
+ ## An Emphatic Umph
+ - [https://hilariousbookbinder.blogspot.com](https://hilariousbookbinder.blogspot.com)
+ - date_published: 2024-09-22T23:44:18+00:00
+
+ ## Hillbilly White Trash
+ - [http://hillbillywhitetrash.blogspot.com](http://hillbillywhitetrash.blogspot.com)
+ - date_published: 2024-03-23T18:19:19+00:00
+
+ ## Hill Cantons
+ - [http://hillcantons.blogspot.com](http://hillcantons.blogspot.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
  ## Hilmichess
  - [http://hilmichess.blogspot.com](http://hilmichess.blogspot.com)
  - date_published: 2024-03-05T15:17:21+00:00
@@ -3981,32 +4009,4 @@
  ## Language Evolution
  - [https://langevo.blogspot.com](https://langevo.blogspot.com)
  - date_published: 2024-05-07T21:47:05.988289+00:00
-
- ## langguj 5
- - [https://langguj.blogspot.com](https://langguj.blogspot.com)
- - date_published: 2024-02-08T11:08:18+00:00
-
- ## The Chocolate Interrobang
- - [http://language-grammar.blogspot.com](http://language-grammar.blogspot.com)
- - date_published: 2024-06-29T18:19:07+00:00
-
- ## Language Hippie
- - [http://languagehippie.blogspot.com](http://languagehippie.blogspot.com)
- - date_published: 2024-06-27T08:10:41+00:00
-
- ## The Language Nest
- - [http://languagenest.blogspot.com](http://languagenest.blogspot.com)
- - date_published: 2024-06-23T04:11:51+00:00
-
- ## The Language of Food
- - [https://languageoffood.blogspot.com](https://languageoffood.blogspot.com)
- - date_published: 2024-04-29T03:18:58.592162+00:00
-
- ## Languages of the World
- - [http://languages-of-the-world.blogspot.com](http://languages-of-the-world.blogspot.com)
- - date_published: 2024-03-06T00:50:51+00:00
-
- ## Language Soup
- - [http://languagesoup.blogspot.com](http://languagesoup.blogspot.com)
- - date_published: 2024-10-21T17:16:23.287716+00:00
 

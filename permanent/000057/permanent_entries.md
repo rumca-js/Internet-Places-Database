@@ -1,3 +1,31 @@
+ ## Blogger
+ - [http://consul-at-arms.blogspot.com](http://consul-at-arms.blogspot.com)
+ - date_published: 2024-06-27T09:25:17.747787+00:00
+
+ ## contagio
+ - [http://contagiodump.blogspot.com](http://contagiodump.blogspot.com)
+ - date_published: 2024-07-13T05:53:36+00:00
+
+ ## Contains Graphic Images
+ - [http://containsgraphicimages.blogspot.com](http://containsgraphicimages.blogspot.com)
+ - date_published: 2022-05-11T00:00:00+00:00
+
+ ## Notes: a Calligraphic Journal
+ - [http://contemporarycalligraphy.blogspot.com](http://contemporarycalligraphy.blogspot.com)
+ - date_published: 2024-09-02T08:42:43+00:00
+
+ ## Contemporary Visual Culture
+ - [http://contemporaryvisualculture.blogspot.com](http://contemporaryvisualculture.blogspot.com)
+ - date_published: 2024-02-21T07:40:32+00:00
+
+ ## Open Carefully.
+ - [http://contentsmayvary.blogspot.com](http://contentsmayvary.blogspot.com)
+ - date_published: 2024-03-19T16:36:18+00:00
+
+ ## By Other Means
+ - [http://continuationofpolitics.blogspot.com](http://continuationofpolitics.blogspot.com)
+ - date_published: 2024-07-03T11:00:00+00:00
+
  ## Contraptions for programming
  - [http://contraptionsforprogramming.blogspot.com](http://contraptionsforprogramming.blogspot.com)
  - date_published: 2024-03-13T20:35:36+00:00
@@ -3979,32 +4007,4 @@
  ## Equatorial Minnesota
  - [https://equatorialminnesota.blogspot.com](https://equatorialminnesota.blogspot.com)
  - date_published: 2024-10-19T05:17:34.354669+00:00
-
- ## The Unstable Dice
- - [http://equinox999.blogspot.com](http://equinox999.blogspot.com)
- - date_published: 2024-03-29T03:29:24+00:00
-
- ## era la mattina di natale...
- - [https://eralamattinadinatale-tissi.blogspot.com](https://eralamattinadinatale-tissi.blogspot.com)
- - date_published: 2024-09-02T08:59:00+00:00
-
- ## Erdal Karaca musing about Eclipse
- - [http://erdalkaracade.blogspot.com](http://erdalkaracade.blogspot.com)
- - date_published: 2024-03-13T09:23:59+00:00
-
- ## The Ergosphere
- - [http://ergosphere.blogspot.com](http://ergosphere.blogspot.com)
- - date_published: 2024-06-25T09:15:32+00:00
-
- ## Erica Gazzoldi - Le Porte dei Sogni
- - [http://erica-gazzoldi.blogspot.com](http://erica-gazzoldi.blogspot.com)
- - date_published: 2024-08-25T22:45:18+00:00
-
- ## Bouwers > Eric  > Blog
- - [http://ericbouwers.blogspot.com](http://ericbouwers.blogspot.com)
- - date_published: 2024-10-17T21:15:38.586111+00:00
-
- ## Eric on Eclipse
- - [http://ericoneclipse.blogspot.com](http://ericoneclipse.blogspot.com)
- - date_published: 2024-03-14T03:08:51+00:00
 

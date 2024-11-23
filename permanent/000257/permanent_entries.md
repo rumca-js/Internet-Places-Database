@@ -1,3 +1,91 @@
+ ## SETI@home
+ - [https://setiathome.ssl.berkeley.edu](https://setiathome.ssl.berkeley.edu)
+ - date_published: 2024-04-30T03:27:57.598323+00:00
+
+ ## Homepage
+ - [https://simons.berkeley.edu](https://simons.berkeley.edu)
+ - date_published: 2024-05-04T15:31:14.510826+00:00
+
+ ## School of Information Sites • sites for the I School community
+ - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
+ - date_published: 2024-02-26T12:52:56.312090+00:00
+
+ ## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
+ - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
+ - date_published: 2024-05-04T15:31:10.029141+00:00
+
+ ## UC Berkeley SLICE Lab – UC Berkeley, Electrical Engineering and Computer Sciences Department
+ - [https://slice.eecs.berkeley.edu](https://slice.eecs.berkeley.edu)
+ - date_published: 2024-07-01T20:09:27.632339+00:00
+
+ ## Snap! Build Your Own Blocks
+ - [https://snap.berkeley.edu](https://snap.berkeley.edu)
+ - date_published: 2024-04-30T03:18:17.219037+00:00
+
+ ## Home | UC Berkeley Sociology Department
+ - [http://sociology.berkeley.edu](http://sociology.berkeley.edu)
+ - date_published: 2024-06-17T11:15:15.363073+00:00
+
+ ## Socrates and Berkeley Scholars Web Hosting Services Have Been Retired | Web Platform Services
+ - [http://socrates.berkeley.edu](http://socrates.berkeley.edu)
+ - date_published: 2024-07-02T08:45:16+00:00
+
+ ## The Soft Walls Project
+ - [https://softwalls.eecs.berkeley.edu](https://softwalls.eecs.berkeley.edu)
+ - date_published: 2013-12-17T00:00:00+00:00
+
+ ## UC Berkeley Sponsored Projects
+ - [https://spo.berkeley.edu](https://spo.berkeley.edu)
+ - date_published: 2024-06-17T22:02:15+00:00
+
+ ## Home | Staff Ombuds Office
+ - [http://staffombuds.berkeley.edu](http://staffombuds.berkeley.edu)
+ - date_published: 2024-07-22T07:02:15+00:00
+
+ ## Statistics at UC Berkeley | Department of Statistics
+ - [https://stat.berkeley.edu](https://stat.berkeley.edu)
+ - date_published: 2023-10-25T18:48:16.122861+00:00
+
+ ## Statistics at UC Berkeley | Department of Statistics
+ - [https://statistics.berkeley.edu](https://statistics.berkeley.edu)
+ - date_published: 2024-07-22T07:42:41.429629+00:00
+
+ ## Open Computing Facility Status
+ - [https://status.ocf.berkeley.edu](https://status.ocf.berkeley.edu)
+ - date_published: 2024-03-23T18:14:52+00:00
+
+ ## Welcome | UCB Study Abroad
+ - [https://studyabroad.berkeley.edu](https://studyabroad.berkeley.edu)
+ - date_published: 2024-07-13T10:44:24+00:00
+
+ ## Berkeley Summer Sessions | Berkeley Summer Sessions
+ - [https://summer.berkeley.edu](https://summer.berkeley.edu)
+ - date_published: 2024-07-10T17:19:03+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [http://sunsite.berkeley.edu](http://sunsite.berkeley.edu)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## supernode
+ - [https://supernode.berkeley.edu](https://supernode.berkeley.edu)
+ - date_published: 2024-05-24T00:14:24+00:00
+
+ ## Home | Support Portal
+ - [https://supportal.berkeley.edu](https://supportal.berkeley.edu)
+ - date_published: 2024-07-22T07:35:48+00:00
+
+ ## Home | Swarm Lab
+ - [http://swarmlab.eecs.berkeley.edu](http://swarmlab.eecs.berkeley.edu)
+ - date_published: 2024-07-22T06:45:49+00:00
+
+ ## Information Technology
+ - [https://technology.berkeley.edu](https://technology.berkeley.edu)
+ - date_published: 2024-07-02T17:43:18+00:00
+
+ ## anthrohub - Search Results - Digital Collections
+ - [http://techreports.lib.berkeley.edu](http://techreports.lib.berkeley.edu)
+ - date_published: 2024-07-02T13:34:33.530623+00:00
+
  ## Home - Terner Center
  - [https://ternercenter.berkeley.edu](https://ternercenter.berkeley.edu)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3931,92 +4019,4 @@ Home
  ## Home - MRSD | Master of Science - Robotic Systems Development Program
  - [https://mrsd.ri.cmu.edu](https://mrsd.ri.cmu.edu)
  - date_published: 2024-04-30T03:47:11.873698+00:00
-
- ## M.S. in Automated Science - M.S. in Automated Science - Ray and Stephanie Lane Computational Biology Department - Carnegie Mellon University
- - [http://msas.cbd.cmu.edu](http://msas.cbd.cmu.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Software Engineering Masters Programs - Master of Software Engineering Programs - Software and Societal Systems Department - Carnegie Mellon University
- - [https://mse.isri.cmu.edu](https://mse.isri.cmu.edu)
- - date_published: 2024-07-17T17:45:52+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://my.contrib.andrew.cmu.edu](https://my.contrib.andrew.cmu.edu)
- - date_published: 2024-07-20T10:31:32.622653+00:00
-
- ## OpenSlide
- - [https://openslide.cs.cmu.edu](https://openslide.cs.cmu.edu)
- - date_published: 2024-09-29T00:00:00+00:00
-
- ## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date_published: 2023-10-25T18:49:42.884999+00:00
-
- ## Log In - Carnegie Mellon University CyLab
- - [https://portal.cylab.cmu.edu](https://portal.cylab.cmu.edu)
- - date_published: 2024-07-08T13:51:07.595402+00:00
-
- ## Home | ETC Press - Carnegie Mellon University
- - [https://press.etc.cmu.edu](https://press.etc.cmu.edu)
- - date_published: 2024-07-13T17:12:06+00:00
-
- ## Privacy Engineering Program - Privacy Engineering Program - Software and Societal Systems Department - Carnegie Mellon University
- - [https://privacy.cs.cmu.edu](https://privacy.cs.cmu.edu)
- - date_published: 2024-04-25T14:53:29+00:00
-
- ## Puzzlehunt CMU
- - [https://puzzlehunt.club.cc.cmu.edu](https://puzzlehunt.club.cc.cmu.edu)
- - date_published: 2024-05-01T03:11:08.162765+00:00
-
- ## Qatar - Carnegie Mellon University in Qatar
- - [https://qatar.cmu.edu](https://qatar.cmu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## SCS TECHNICAL REPORT COLLECTION
- - [http://reports-archive.adm.cs.cmu.edu](http://reports-archive.adm.cs.cmu.edu)
- - date_published: 2013-02-04T17:56:13+00:00
-
- ## SEI Digital Library
- - [https://resources.sei.cmu.edu](https://resources.sei.cmu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Carnegie Mellon Research Experiences for Undergraduates - Research Experiences for Undergraduates in Software Engineering (REUSE) Program - Software and Societal Systems Department - Carnegie Mellon University
- - [https://reuse.cs.cmu.edu](https://reuse.cs.cmu.edu)
- - date_published: 2024-03-04T15:00:22+00:00
-
- ## Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
- - [https://ri.cmu.edu](https://ri.cmu.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home - Robotics Institute Summer Scholars (RISS)
- - [https://riss.ri.cmu.edu](https://riss.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:07.096026+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://roboguide.ri.cmu.edu](https://roboguide.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:09.101638+00:00
-
- ## RoboTouch Lab
- - [http://robotouch.ri.cmu.edu](http://robotouch.ri.cmu.edu)
- - date_published: 2021-08-30T05:00:54+00:00
-
- ## SCS Rooms - SCS Building Facilities - Carnegie Mellon University
- - [https://rooms.cs.cmu.edu](https://rooms.cs.cmu.edu)
- - date_published: 2023-10-27T19:58:59+00:00
-
- ## Read the Web :: Carnegie Mellon University
- - [http://rtw.ml.cmu.edu](http://rtw.ml.cmu.edu)
- - date_published: 2024-07-02T05:51:26.623678+00:00
-
- ## Software and Societal Systems Department - Software and Societal Systems - School of Computer Science - Carnegie Mellon University
- - [https://s3d.cmu.edu](https://s3d.cmu.edu)
- - date_published: 2024-04-28T03:37:44.480066+00:00
-
- ## Societal Computing - Societal Computing - Software and Societal Systems Department - Carnegie Mellon University
- - [http://sc.cs.cmu.edu](http://sc.cs.cmu.edu)
- - date_published: 2024-06-12T15:42:11+00:00
-
- ## Carnegie Mellon University
- - [https://scholars.cmu.edu](https://scholars.cmu.edu)
- - date_published: 2024-10-14T19:31:01.936047+00:00
 

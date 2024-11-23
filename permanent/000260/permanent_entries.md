@@ -1,3 +1,91 @@
+ ## Called to Be: The Campaign for Georgetown
+ - [https://calledtobe.georgetown.edu](https://calledtobe.georgetown.edu)
+ - date_published: 2024-10-22T05:40:45.069358+00:00
+
+ ## Georgetown Lombardi Institute for Cancer and Aging - Georgetown Lombardi Institute for Cancer and Aging
+ - [https://cancerandaging.georgetown.edu](https://cancerandaging.georgetown.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Canvas Home Page - Canvas at Georgetown
+ - [http://canvas.georgetown.edu](http://canvas.georgetown.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home Page - Capitol Campus
+ - [https://capitolcampus.georgetown.edu](https://capitolcampus.georgetown.edu)
+ - date_published: 2024-10-22T05:42:41.197481+00:00
+
+ ## Home Page - Careers
+ - [https://careers.georgetown.edu](https://careers.georgetown.edu)
+ - date_published: 2024-06-18T13:34:38.474869+00:00
+
+ ## Catholic Social Thought Homepage
+ - [https://catholicsocialthought.georgetown.edu](https://catholicsocialthought.georgetown.edu)
+ - date_published: 2024-10-22T05:42:49.993101+00:00
+
+ ## Homepage - CCAS
+ - [http://ccas.georgetown.edu](http://ccas.georgetown.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## MA Communication Culture & Technology | Georgetown University
+ - [http://cct.georgetown.edu](http://cct.georgetown.edu)
+ - date_published: 2024-06-22T09:58:58.394574+00:00
+
+ ## Home Page - Classroom Educational Technology Services
+ - [http://cets.georgetown.edu](http://cets.georgetown.edu)
+ - date_published: 2024-10-22T05:41:47.901006+00:00
+
+ ## Georgetown University Center on Education and the Workforce
+ - [https://cew.georgetown.edu](https://cew.georgetown.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Homepage
+ - [https://chinaforum.georgetown.edu](https://chinaforum.georgetown.edu)
+ - date_published: 2024-05-04T11:46:00.311110+00:00
+
+ ## Home Page - Center for Multicultural Equity and Access
+ - [https://cmea.georgetown.edu](https://cmea.georgetown.edu)
+ - date_published: 2024-10-22T05:35:48.263653+00:00
+
+ ## CNDLS - Center for New Designs in Learning and Scholarship
+ - [https://cndls.georgetown.edu](https://cndls.georgetown.edu)
+ - date_published: 2024-07-12T19:41:20+00:00
+
+ ## Home - College of Arts & Sciences
+ - [https://college.georgetown.edu](https://college.georgetown.edu)
+ - date_published: 2024-10-22T03:42:19.962060+00:00
+
+ ## Class of 2024 Commencement - Commencement
+ - [http://commencement.georgetown.edu](http://commencement.georgetown.edu)
+ - date_published: 2024-10-22T05:41:49.232533+00:00
+
+ ## Directory - Georgetown University
+ - [http://contact.georgetown.edu](http://contact.georgetown.edu)
+ - date_published: 2024-06-18T13:34:52.153318+00:00
+
+ ## corpling@GU
+ - [https://corpling.uis.georgetown.edu](https://corpling.uis.georgetown.edu)
+ - date_published: 2022-09-04T15:15:22+00:00
+
+ ## Georgetown Center for Retirement Initiatives
+ - [https://cri.georgetown.edu](https://cri.georgetown.edu)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## CSET | Center for Security and Emerging Technology
+ - [https://cset.georgetown.edu](https://cset.georgetown.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home Page - Department of Computer Science
+ - [https://cs.georgetown.edu](https://cs.georgetown.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home Page - Disability Cultural Center
+ - [https://disabilityculture.georgetown.edu](https://disabilityculture.georgetown.edu)
+ - date_published: 2024-07-13T12:27:15.179632+00:00
+
+ ## Home Page - Dahlgren Memorial Library
+ - [https://dml.georgetown.edu](https://dml.georgetown.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
  ## Home Page - The Earth Commons
  - [https://earthcommons.georgetown.edu](https://earthcommons.georgetown.edu)
  - date_published: 2024-10-22T05:42:30.887952+00:00
@@ -3921,92 +4009,4 @@ Action
  ## Admissions
  - [https://apply2.hillsdale.edu](https://apply2.hillsdale.edu)
  - date_published: 2024-02-27T00:00:00+00:00
-
- ## The Blake Center for Faith and Freedom | Hillsdale College
- - [https://blakecenter.hillsdale.edu](https://blakecenter.hillsdale.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Hillsdale Dialogues | Hillsdale College
- - [https://blog.hillsdale.edu](https://blog.hillsdale.edu)
- - date_published: 2024-07-20T01:19:38+00:00
-
- ## Home
- - [http://bookstore.hillsdale.edu](http://bookstore.hillsdale.edu)
- - date_published: 2024-08-11T12:37:17.582934+00:00
-
- ## Hillsdale College | Work for good. Work for Hillsdale.
- - [https://careers.hillsdale.edu](https://careers.hillsdale.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Hillsdale College | Hillsdale College
- - [https://catalog.hillsdale.edu](https://catalog.hillsdale.edu)
- - date_published: 2024-07-27T16:33:16+00:00
-
- ## Home | The Center for Commerce and Freedom | Hillsdale College
- - [https://ccf.hillsdale.edu](https://ccf.hillsdale.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Graduate School of Education | Hillsdale College
- - [https://classicalgrad.hillsdale.edu](https://classicalgrad.hillsdale.edu)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Home | Hillsdale in D.C.
- - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
- - date_published: 2023-10-25T18:52:19.460793+00:00
-
- ## Events Calendar
- - [http://events.hillsdale.edu](http://events.hillsdale.edu)
- - date_published: 2024-08-11T12:37:23.275785+00:00
-
- ## Hillsdale College Freedom Library
- - [https://freedomlibrary.hillsdale.edu](https://freedomlibrary.hillsdale.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://gradschool.hillsdale.edu](https://gradschool.hillsdale.edu)
- - date_published: 2024-08-06T20:01:45.682250+00:00
-
- ## Developing Minds. Improving Hearts. Hillsdale College
- - [https://hillsdale.edu](https://hillsdale.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Imprimis
- - [https://imprimis.hillsdale.edu](https://imprimis.hillsdale.edu)
- - date_published: 2024-07-21T10:48:42+00:00
-
- ## Hillsdale College K-12 At Home
- - [https://k12athome.hillsdale.edu](https://k12athome.hillsdale.edu)
- - date_published: 2022-09-20T19:07:42+00:00
-
- ## The Classical Classroom – A glimpse inside Hillsdale College's network of classical schools across the country.
- - [https://k12blog.hillsdale.edu](https://k12blog.hillsdale.edu)
- - date_published: 2024-08-06T20:01:41.656590+00:00
-
- ## Home
- - [https://k12.hillsdale.edu](https://k12.hillsdale.edu)
- - date_published: 2024-04-28T05:59:02.187698+00:00
-
- ## Developing Minds. Improving Hearts. Hillsdale College
- - [https://lp.hillsdale.edu](https://lp.hillsdale.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Sign in to your account
- - [https://my.hillsdale.edu](https://my.hillsdale.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Hillsdale College Online Courses
- - [https://online.hillsdale.edu](https://online.hillsdale.edu)
- - date_published: 2024-07-19T07:06:04+00:00
-
- ## Home - Hillsdale College Podcast Network
- - [https://podcast.hillsdale.edu](https://podcast.hillsdale.edu)
- - date_published: 2024-08-11T12:37:26.157890+00:00
-
- ## Support Hillsdale College
- - [https://secured.hillsdale.edu](https://secured.hillsdale.edu)
- - date_published: 2024-08-11T12:35:57.719667+00:00
-
- ## Home Halter
- - [https://shootingsports.hillsdale.edu](https://shootingsports.hillsdale.edu)
- - date_published: 2024-06-21T00:00:00+00:00
 

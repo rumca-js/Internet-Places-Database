@@ -1,3 +1,19 @@
+ ## Ramona Schwering
+ - [https://ramona.codes](https://ramona.codes)
+ - date_published: 2024-06-20T06:59:51.214374+00:00
+
+ ## Raphael Pierzina
+ - [https://raphael.codes](https://raphael.codes)
+ - date_published: 2022-06-10T00:00:00+00:00
+
+ ## redth.codes
+ - [https://redth.codes](https://redth.codes)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Ricky Miller's wwwebsite
+ - [https://ricky.codes](https://ricky.codes)
+ - date_published: 2024-07-23T23:32:19.023373+00:00
+
  ## Great Books - A Liberal Education
  - [https://books.rory.codes](https://books.rory.codes)
  - date_published: 2024-04-30T07:17:45.438551+00:00
@@ -4026,20 +4042,4 @@ syndication,XML,RDF,news ...
  ## The Loft at 36 Eleven + 36 Eleven DIY & Decor. Style for home & her
  - [https://36eleven.com](https://36eleven.com)
  - date_published: 2024-06-29T18:04:39.299031+00:00
-
- ## 36氪_让一部分人先看到未来
- - [http://36kr.com](http://36kr.com)
- - date_published: 2024-09-04T11:53:20.845770+00:00
-
- ## 36 Point
- - [https://www.36point.com](https://www.36point.com)
- - date_published: 2024-07-01T08:46:27.312564+00:00
-
- ## 36 Questions - How to fall in love
- - [https://36questionsinlove.com](https://36questionsinlove.com)
- - date_published: 2023-03-30T23:27:21+00:00
-
- ## 36tribus
- - [https://www.36tribus.com](https://www.36tribus.com)
- - date_published: 2023-01-18T10:23:52+00:00
 

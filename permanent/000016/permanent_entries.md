@@ -1,3 +1,15 @@
+ ## Inhotim Loja Design
+ - [https://inhotimloja.com.br](https://inhotimloja.com.br)
+ - date_published: 2024-05-29T00:28:03.096284+00:00
+
+ ## Home - INOCAS
+ - [https://inocas.com.br](https://inocas.com.br)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Inoplastic
+ - [https://www.inoplastic.com.br](https://www.inoplastic.com.br)
+ - date_published: 2024-06-10T00:00:00+00:00
+
  ## Intel | Soluções para data center, Internet das Coisas e inovação...
  - [https://intel.com.br](https://intel.com.br)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -4000,16 +4012,4 @@
  - [https://mw.rat.bz](https://mw.rat.bz)
  - date_published: 2024-02-10T00:00:00+00:00
  - tags: ['personal', 'blog']
-
- ## Custom Domain by Bitly
- - [https://samg.bz](https://samg.bz)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Index of /
- - [https://scientech.bz](https://scientech.bz)
- - date_published: 2019-03-11T00:00:00+00:00
-
- ## Sergio Benitez - Who Am I?
- - [https://sergio.bz](https://sergio.bz)
- - date_published: 2024-06-04T05:44:26+00:00
 

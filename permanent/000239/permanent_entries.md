@@ -1,3 +1,104 @@
+ ## RFD / Oxide
+ - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
+ - date_published: 2023-11-03T17:54:12.549938+00:00
+
+ ## Pi Relay - The Private Human Network
+ - [https://pirelay.computer](https://pirelay.computer)
+ - date_published: 2024-04-14T18:10:31+00:00
+
+ ## Raphael Kabo
+ - [https://raphael.computer](https://raphael.computer)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Sacred
+ - [https://sacred.computer](https://sacred.computer)
+ - date_published: 2024-07-09T19:28:39.476378+00:00
+
+ ## simone.computer
+ - [https://simone.computer](https://simone.computer)
+ - date_published: 2024-06-21T10:19:15+00:00
+
+ ## simone.computer
+ - [https://system31.simone.computer](https://system31.simone.computer)
+ - date_published: 2024-08-06T20:17:01+00:00
+
+ ## Slim Lim
+ - [https://slim.computer](https://slim.computer)
+ - date_published: 2024-05-09T05:21:04.952303+00:00
+
+ ## The Thin Computer – A Self Hosted Server and My Life With It
+ - [https://thin.computer](https://thin.computer)
+ - date_published: 2024-03-22T00:26:03.656552+00:00
+ - tags: ['personal']
+
+ ## Tiana Dueck
+ - [https://tiana.computer](https://tiana.computer)
+ - date_published: 2024-05-25T22:32:37+00:00
+
+ ## T I L T
+ - [https://tilt.computer](https://tilt.computer)
+ - date_published: 2024-05-08T13:26:06+00:00
+
+ ## Trudy Painter
+ - [https://trudy.computer](https://trudy.computer)
+ - date_published: 2024-05-07T19:32:58.706033+00:00
+
+ ## Tulip Creative Computer. Now available.
+ - [https://tulip.computer](https://tulip.computer)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## A modern 8 bit design, built using 1950s thermionic valves
+ - [https://www.valve.computer](https://www.valve.computer)
+ - date_published: 2024-06-27T19:18:10+00:00
+
+ ## Complete Computing - The Complete Computer
+ - [https://cce.whatthefuck.computer](https://cce.whatthefuck.computer)
+ - date_published: 2024-08-08T18:53:02.805919+00:00
+
+ ## what happens when computer: meantones and microtonal tuning
+ - [https://what.happens.when.computer](https://what.happens.when.computer)
+ - date_published: 2017-01-21T00:00:00+00:00
+
+ ## Home - Starter Template
+ - [https://starter.alchemy.construction](https://starter.alchemy.construction)
+ - date_published: 2024-09-16T23:40:01.810911+00:00
+
+ ## 1st Consulting
+ - [https://www.1st.consulting](https://www.1st.consulting)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## ABDK Consulting - Your Guide in the World of Crypto
+ - [https://www.abdk.consulting](https://www.abdk.consulting)
+ - date_published: 2024-09-21T23:44:45.353528+00:00
+
+ ## Leadership Anywhere
+ - [https://anywhere.consulting](https://anywhere.consulting)
+ - date_published: 2024-08-11T04:08:40.182960+00:00
+
+ ## Barkey Wolf Consulting
+ - [https://barkeywolf.consulting](https://barkeywolf.consulting)
+ - date_published: 2024-01-16T14:31:43.706149+00:00
+
+ ## Certitude Consulting Vienna - Information Security
+ - [https://certitude.consulting](https://certitude.consulting)
+ - date_published: 2023-10-25T18:26:41.919963+00:00
+
+ ## Chris Hart Consulting - Strategic software advice
+ - [https://chrishart.consulting](https://chrishart.consulting)
+ - date_published: 2024-07-10T09:57:58.765243+00:00
+
+ ## Ask AI for Business Advice | GPT-4 Consulting
+ - [https://advice.gpt4.consulting](https://advice.gpt4.consulting)
+ - date_published: 2024-06-19T19:41:22.527203+00:00
+
+ ## Koinon Consulting
+ - [https://koinon.consulting](https://koinon.consulting)
+ - date_published: 2024-09-12T14:58:11.680712+00:00
+
+ ## Palisade
+ - [https://palisade.consulting](https://palisade.consulting)
+ - date_published: 2024-10-31T07:38:34.393087+00:00
+
  ## Self-Issued Consulting
  - [https://self-issued.consulting](https://self-issued.consulting)
  - date_published: 2024-06-15T15:55:14.689508+00:00
@@ -3917,105 +4018,4 @@
  ## Nejbohatší lidé světa 2024 | Forbes
  - [https://nejbohatsilide.forbes.cz](https://nejbohatsilide.forbes.cz)
  - date_published: 2024-10-29T15:18:14.587424+00:00
-
- ## Od kolébky do důchodu
- - [https://odkolebkydoduchodu.forbes.cz](https://odkolebkydoduchodu.forbes.cz)
- - date_published: 2024-10-17T17:00:31+00:00
-
- ## Předplaťte si Forbes.cz premium
- | Forbes.cz premium
- - [https://predplatne.forbes.cz](https://predplatne.forbes.cz)
- - date_published: 2024-10-29T15:18:56.691145+00:00
-
- ## Oficiální stránky Ford | Ford CZ
- - [https://www.ford.cz](https://www.ford.cz)
- - date_published: 2024-06-19T10:59:49+00:00
-
- ## Poptávkové formuláře | Ford CZ Formuláře
- - [https://forms.fordissimo.cz](https://forms.fordissimo.cz)
- - date_published: 2024-10-29T20:49:51.478316+00:00
-
- ## Ford Kariéra - Připojte se k Fordu
- - [https://fordkariera.cz](https://fordkariera.cz)
- - date_published: 2024-10-29T20:50:25.885802+00:00
-
- ## Ford Czech Republic
- - [https://www.fordmedia.cz](https://www.fordmedia.cz)
- - date_published: 2024-10-29T20:50:13.387885+00:00
-
- ## FORD SKLADEM - skladové vozy FORD
- - [https://www.fordskladem.cz](https://www.fordskladem.cz)
- - date_published: 2024-10-29T20:50:24.071987+00:00
-
- ## Forpsi Cloud | Cloud Computing | Cloudové služby | ForpsiCloud.cz | ForpsiCloud.cz
- - [https://www.forpsicloud.cz](https://www.forpsicloud.cz)
- - date_published: 2024-10-21T10:02:38.657349+00:00
-
- ## ESHOP FORUM
- - [https://eshop.forum24.cz](https://eshop.forum24.cz)
- - date_published: 2024-09-05T16:49:19.256537+00:00
-
- ## FORUM 24 – Názorový internetový deník
- - [https://forum24.cz](https://forum24.cz)
- - date_published: 2024-06-10T10:34:38.119034+00:00
-
- ## Nabídka předplatného | FORUM 24+
- - [https://predplatne.forum24.cz](https://predplatne.forum24.cz)
- - date_published: 2024-09-05T16:49:14.916352+00:00
-
- ## Fórum pro média
- - [https://forumpromedia.cz](https://forumpromedia.cz)
- - date_published: 2024-09-05T16:49:13.080061+00:00
-
- ## FOTO | Pavla Slezáková | Fotoateliér Slaný - Hlavní stránka
- - [https://www.foto-slezakova.cz](https://www.foto-slezakova.cz)
- - date_published: 2024-07-01T10:23:47.360362+00:00
-
- ## Founders4Founders – investoři a startupy na jednom místě
- - [https://www.founders4founders.cz](https://www.founders4founders.cz)
- - date_published: 2024-07-15T11:33:43.228742+00:00
-
- ## Fource - Koncerty, standupy, nejvíce fresh shows široko daleko. Kupujte vstupenky na akce Fource Entertainment a připojte se k programu Fource Friends.
- - [https://fource.cz](https://fource.cz)
- - date_published: 2024-07-08T22:30:56.814052+00:00
-
- ## Fragmenty -  SJ World News - Best of Joomla!
- - [https://fragmenty.cz](https://fragmenty.cz)
- - date_published: 2024-10-22T14:56:35.366104+00:00
-
- ## La France en République tchèque
- - [http://www.france.cz](http://www.france.cz)
- - date_published: 2024-07-17T08:46:10+00:00
-
- ## FranklinCovey: Tady se rodí výjimečnost
- - [https://www.franklincovey.cz](https://www.franklincovey.cz)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## The domain name is registered
- - [http://www.freecoolin.cz](http://www.freecoolin.cz)
- - date_published: 2024-11-16T20:23:44.178231+00:00
-
- ## Zaměstnejte freelancery a najděte freelance práci online
- - [https://www.freelancer.cz](https://www.freelancer.cz)
- - date_published: 2024-06-16T12:00:21.584836+00:00
-
- ## Fresh Proxy List | Free-Proxy.cz
- - [http://free-proxy.cz](http://free-proxy.cz)
- - date_published: 2024-10-19T01:27:24.131297+00:00
-
- ## Frontendisti.cz
- - [https://frontendisti.cz](https://frontendisti.cz)
- - date_published: 2024-09-02T16:02:28.740296+00:00
-
- ## Jakub Kadlčík
- - [http://frostyx.cz](http://frostyx.cz)
- - date_published: 2024-07-03T08:50:12+00:00
-
- ## FTVS veřejnost
- - [https://www.ftvs-verejnost.cz](https://www.ftvs-verejnost.cz)
- - date_published: 2024-07-01T10:10:17.830316+00:00
-
- ## Home | Hudební server FMZine.cz
- - [https://www.fullmoonzine.cz](https://www.fullmoonzine.cz)
- - date_published: 2024-09-14T00:00:00+00:00
 

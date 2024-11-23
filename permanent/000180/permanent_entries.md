@@ -1,3 +1,67 @@
+ ## Nuvei Support
+ - [https://support.sagepayments.com](https://support.sagepayments.com)
+ - date_published: 2024-07-06T23:12:46.557580+00:00
+
+ ## Sage Publishing Rate Cards | SAGE is a global academic publisher of books, journals, and a growing suite of library products and services.
+ - [https://advertising.sagepub.com](https://advertising.sagepub.com)
+ - date_published: 2024-07-09T14:51:24.884727+00:00
+
+ ## Careers - Sage
+ - [https://careers.sagepub.com](https://careers.sagepub.com)
+ - date_published: 2024-07-09T14:51:22.720592+00:00
+
+ ## Default Page Title
+ - [https://collegepublishing.sagepub.com](https://collegepublishing.sagepub.com)
+ - date_published: 2024-07-09T14:51:20.406920+00:00
+
+ ## Sage
+ - [https://group.sagepub.com](https://group.sagepub.com)
+ - date_published: 2024-07-09T14:51:23.699883+00:00
+
+ ## https://journals.sagepub.com
+ - [https://journals.sagepub.com](https://journals.sagepub.com)
+ - date_published: 2023-10-25T16:56:38.723045+00:00
+
+ ## Home | Sage Learning Resources
+ - [https://learningresources.sagepub.com](https://learningresources.sagepub.com)
+ - date_published: 2024-07-09T14:51:12.531241+00:00
+
+ ## Cierpliwości...
+ - [http://pps.sagepub.com](http://pps.sagepub.com)
+ - date_published: 2024-07-02T09:43:11.822165+00:00
+
+ ## Cierpliwości...
+ - [https://psi.sagepub.com](https://psi.sagepub.com)
+ - date_published: 2024-06-12T12:48:24.227236+00:00
+
+ ## Cierpliwości...
+ - [http://pss.sagepub.com](http://pss.sagepub.com)
+ - date_published: 2024-07-02T09:42:12.750850+00:00
+
+ ## SAGE Publications Inc
+ - [https://sagepub.com](https://sagepub.com)
+ - date_published: 2024-05-09T05:26:58.154176+00:00
+
+ ## Cierpliwości...
+ - [https://sag.sagepub.com](https://sag.sagepub.com)
+ - date_published: 2024-05-09T05:24:09.385631+00:00
+
+ ## Social Psychological and Personality Science: Sage Journals
+ - [http://spp.sagepub.com](http://spp.sagepub.com)
+ - date_published: 2024-09-19T01:01:30.675468+00:00
+
+ ## SAGE Publications Ltd
+ - [https://uk.sagepub.com](https://uk.sagepub.com)
+ - date_published: 2024-05-12T05:44:37.668880+00:00
+
+ ## Home
+ - [https://us.sagepub.com](https://us.sagepub.com)
+ - date_published: 2024-06-17T14:10:23.119224+00:00
+
+ ## Sager Electronics - Electronic components and custom solutions.
+ - [https://beta.sager.com](https://beta.sager.com)
+ - date_published: 2024-09-05T21:00:20.539832+00:00
+
  ## Power
  - [https://power.sager.com](https://power.sager.com)
  - date_published: 2024-09-05T21:00:09.734166+00:00
@@ -3979,68 +4043,4 @@ Scribbles
  ## Dan Savage – Dan Savage's Website
  - [https://www.savagelovecast.com](https://www.savagelovecast.com)
  - date_published: 2024-07-09T15:13:30.159254+00:00
-
- ## savagemessiahzine.com
- - [http://savagemessiahzine.com](http://savagemessiahzine.com)
- - date_published: 2024-10-21T16:36:13.081520+00:00
-
- ## Savage Thoughts
- - [http://savagethoughts.com](http://savagethoughts.com)
- - date_published: 2024-06-23T06:56:51.948318+00:00
-
- ## Home - Savannah Alalia
- - [https://savannahalalia.com](https://savannahalalia.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Savannah Goldfields – A gold production and growth story unfolding in North Queensland.
- - [https://savannahgoldfields.com](https://savannahgoldfields.com)
- - date_published: 2024-09-16T22:24:43.428030+00:00
-
- ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
- - [https://chat.savannahnow.com](https://chat.savannahnow.com)
- - date_published: 2024-10-31T20:47:26.918441+00:00
-
- ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
- - [http://cm.savannahnow.com](http://cm.savannahnow.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
- - [https://eu.savannahnow.com](https://eu.savannahnow.com)
- - date_published: 2024-10-31T20:46:12.198681+00:00
-
- ## Help Center - Savannah Morning News
- - [https://help.savannahnow.com](https://help.savannahnow.com)
- - date_published: 2024-06-20T02:00:27.533943+00:00
-
- ## Newsletters | Savannah Morning News
- - [https://profile.savannahnow.com](https://profile.savannahnow.com)
- - date_published: 2024-06-20T02:00:25.348253+00:00
-
- ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
- - [https://savannahnow.com](https://savannahnow.com)
- - date_published: 2024-10-31T20:47:30.426367+00:00
-
- ## The New Frontier of Experience & Research Technology | Forsta
- - [https://surveys.savanta.com](https://surveys.savanta.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Show HN: Sava OS – A desktop interface for you web browser
- - [https://savaos.com](https://savaos.com)
- - date_published: 2024-10-17T16:20:30+00:00
-
- ## Savaria Dance Studio
- - [https://savariadance.com](https://savariadance.com)
- - date_published: 2024-02-08T22:52:14.864745+00:00
-
- ## Lawn Care and Tree Care Service | SavATree
- - [https://www.savatree.com](https://www.savatree.com)
- - date_published: 2024-10-28T08:16:05.121656+00:00
-
- ## Save A Lot | Low Price Grocery Stores
- - [https://savealot.com](https://savealot.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Save America from Trump
- - [http://saveamericafromtrump.com](http://saveamericafromtrump.com)
- - date_published: 2024-07-13T15:01:59.818690+00:00
 

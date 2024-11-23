@@ -1,3 +1,52 @@
+ ## Take Ownership — by Karen Sergeant
+ - [https://blog.karensergeant.com](https://blog.karensergeant.com)
+ - date_published: 2024-05-10T06:58:58.704605+00:00
+
+ ## Turn Growing Pains into Growth Plans — Karen Sergeant
+ - [https://karensergeant.com](https://karensergeant.com)
+ - date_published: 2023-11-29T14:22:47.196746+00:00
+ - tags: ['personal']
+
+ ## HOME
+ - [https://www.karenstclaireft.com](https://www.karenstclaireft.com)
+ - date_published: 2024-08-08T23:51:37.102148+00:00
+
+ ## Karen Traviss NYT bestselling author
+ - [http://www.karentraviss.com](http://www.karentraviss.com)
+ - date_published: 2024-09-03T14:38:37+00:00
+
+ ## karenying.com
+ - [https://karenying.com](https://karenying.com)
+ - date_published: 2024-05-07T23:12:12.718352+00:00
+
+ ## Medical Software for Your Independent Practice | Kareo
+ - [http://www.kareo.com](http://www.kareo.com)
+ - date_published: 2024-06-22T23:31:23.279212+00:00
+
+ ## Susan Kare Limited Edition Prints. Signed & Numbered. Kare Prints
+ - [http://kareprints.com](http://kareprints.com)
+ - date_published: 2024-07-01T08:44:59.798986+00:00
+
+ ## Le meilleur du karité naturel - Beurre de karité cheveux - Beurre de karité visage
+ - [https://karethic.com](https://karethic.com)
+ - date_published: 2016-05-02T12:33:01+00:00
+
+ ## Karey Helms, PhD
+ - [http://kareyhelms.com](http://kareyhelms.com)
+ - date_published: 2024-07-13T15:28:50.241789+00:00
+
+ ## Karger Publishers
+ - [http://content.karger.com](http://content.karger.com)
+ - date_published: 2024-07-02T08:58:08.996527+00:00
+
+ ## Karger Courses
+ - [https://courses.karger.com](https://courses.karger.com)
+ - date_published: 2024-10-16T18:45:37.920761+00:00
+
+ ## Homepage - Experience Karger
+ - [https://experience.karger.com](https://experience.karger.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## Karger Publishers
  - [http://karger.com](http://karger.com)
  - date_published: 2024-10-16T18:45:29.623624+00:00
@@ -4007,53 +4056,4 @@ Broad Band Ltd
  ## Kia Global Brand Site | Movement that inspires
  - [https://worldwide.kia.com](https://worldwide.kia.com)
  - date_published: 2024-06-20T17:48:39.791258+00:00
-
- ## Main
- - [https://www.kia.com](https://www.kia.com)
- - date_published: 2023-11-01T08:42:25.388134+00:00
- - tags: ['car producer', 'company']
-
- ## Kia E2 Settlement - Home
- - [https://www.kiaengineclasssettlement.com](https://www.kiaengineclasssettlement.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home - Kia Georgia
- - [https://www.kiageorgia.com](https://www.kiageorgia.com)
- - date_published: 2021-05-18T00:00:00+00:00
-
- ## Kia HECU Settlement - Home
- - [https://www.kiahecusettlement.com](https://www.kiahecusettlement.com)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Home
- - [https://kiakamgar.com](https://kiakamgar.com)
- - date_published: 2024-05-06T15:00:38.674944+00:00
-
- ## Kia of Frisco | New & Used Kia Dealer in Frisco, TX
- - [https://www.kiaoffrisco.com](https://www.kiaoffrisco.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Top Recruitment Services-KGS Solutions- Kiaraglobalservices.com
- - [https://kiaraglobalservices.com](https://kiaraglobalservices.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Kia Hyundai Vehicle Theft Litigation
- - [https://www.kiatheftsettlement.com](https://www.kiatheftsettlement.com)
- - date_published: 2024-07-02T23:14:45+00:00
-
- ## Login | Techline Support
- - [https://ksupport.kiausa.com](https://ksupport.kiausa.com)
- - date_published: 2024-04-29T04:13:32.832236+00:00
-
- ## Kibidango(きびだんご) : クラウドファンディング型EC
- - [https://kibidango.com](https://kibidango.com)
- - date_published: 2024-09-05T18:11:53.070619+00:00
-
- ## Professional Proofreading, Editing, and Essay Help 24/7 | Kibin
- - [https://www.kibin.com](https://www.kibin.com)
- - date_published: 2024-09-02T15:56:36.201589+00:00
-
- ## Kibler Electronics
- - [http://kiblerelectronics.com](http://kiblerelectronics.com)
- - date_published: 2024-05-09T07:02:04.157248+00:00
 

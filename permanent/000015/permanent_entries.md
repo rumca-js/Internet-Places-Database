@@ -1,3 +1,15 @@
+ ## Ken Kocienda
+ - [https://kocienda.micro.blog](https://kocienda.micro.blog)
+ - date_published: 2024-04-11T17:12:36+00:00
+
+ ## Lex Friedman
+ - [https://lex.micro.blog](https://lex.micro.blog)
+ - date_published: 2024-07-03T20:17:38+00:00
+
+ ## Link Punk: A Linkblog
+ - [https://linkpunk.micro.blog](https://linkpunk.micro.blog)
+ - date_published: 2024-06-17T22:01:16+00:00
+
  ## Manton Reece
  - [http://manton.micro.blog](http://manton.micro.blog)
  - date_published: 2024-07-02T15:57:08+00:00
@@ -4029,16 +4041,4 @@ Educação
  ## Inhotim Loja Design
  - [https://2022up.inhotimloja.com.br](https://2022up.inhotimloja.com.br)
  - date_published: 2024-09-02T16:11:57.509905+00:00
-
- ## Inhotim Loja Design
- - [https://inhotimloja.com.br](https://inhotimloja.com.br)
- - date_published: 2024-05-29T00:28:03.096284+00:00
-
- ## Home - INOCAS
- - [https://inocas.com.br](https://inocas.com.br)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Inoplastic
- - [https://www.inoplastic.com.br](https://www.inoplastic.com.br)
- - date_published: 2024-06-10T00:00:00+00:00
 

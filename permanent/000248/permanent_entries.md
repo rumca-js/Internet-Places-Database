@@ -1,3 +1,93 @@
+ ## Aktuelle Nachrichten aus Schleswig-Holstein | SHZ
+ - [http://www.shz.de](http://www.shz.de)
+ - date_published: 2024-07-03T11:46:01.147792+00:00
+
+ ## SID – Sport-Informations-Dienst
+ - [https://sid.de](https://sid.de)
+ - date_published: 2024-06-15T05:40:09.172698+00:00
+
+ ## SID-Spieler
+ - [https://sidspieler.de](https://sidspieler.de)
+ - date_published: 2024-02-15T22:12:23.997316+00:00
+ - tags: ['chiptune', 'demoscene']
+
+ ## siegfried haase-skulpturen & objekte - Überblick
+ - [http://www.siegfried-haase-skulpturen-und-objekte.de](http://www.siegfried-haase-skulpturen-und-objekte.de)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## sigAI HDP
+ - [https://sigai.de](https://sigai.de)
+ - date_published: 2024-07-20T14:31:08.998615+00:00
+
+ ## Träum schön, Siggi Sternenschläfer
+ - [https://www.siggi-sternenschlaefer.de](https://www.siggi-sternenschlaefer.de)
+ - date_published: 2024-04-29T06:44:52.137073+00:00
+
+ ## Versicherungen und Finanzen – SIGNAL IDUNA Gruppe
+ - [https://www.signal-iduna.de](https://www.signal-iduna.de)
+ - date_published: 2024-07-15T12:03:18.493433+00:00
+
+ ## Qualifizierte Elektronische Signatur und Siegel | SIGNIUS
+ - [https://signius.de](https://signius.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Übermüdet – pädagogisch wertfrei erziehen
+ - [https://silberkind.de](https://silberkind.de)
+ - date_published: 2024-06-30T18:51:06+00:00
+
+ ## silicon.de
+ - [https://itjobs.silicon.de](https://itjobs.silicon.de)
+ - date_published: 2024-07-01T08:33:58.005302+00:00
+
+ ## Whitepaper - Silicon.de
+ - [https://whitepaper.silicon.de](https://whitepaper.silicon.de)
+ - date_published: 2024-07-01T08:34:06.540086+00:00
+
+ ## silicon.de
+ - [https://www.silicon.de](https://www.silicon.de)
+ - date_published: 2024-07-01T08:34:09.321061+00:00
+
+ ## Silke Hohmann
+ - [http://silkehohmann.de](http://silkehohmann.de)
+ - date_published: 2024-07-13T16:03:42.757701+00:00
+
+ ## SilvaSatellit
+ - [http://silva-satellit.de](http://silva-satellit.de)
+ - date_published: 2024-07-24T07:54:54.175302+00:00
+
+ ## Deutsch
+ - [https://sim4dexterity.de](https://sim4dexterity.de)
+ - date_published: 2022-10-05T00:00:00+00:00
+
+ ## SiME Congress
+ - [https://sime-congress.de](https://sime-congress.de)
+ - date_published: 2024-08-08T23:03:40.168211+00:00
+
+ ## Simon Broich · Freelance Digital Product & UX/UI Designer
+ - [http://simonbroich.de](http://simonbroich.de)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Simon Grunwald - CV
+ - [https://simongrunwald.de](https://simongrunwald.de)
+ - date_published: 2024-04-12T16:16:02+00:00
+
+ ## Simon Kissel - offizielle Homepage
+ - [https://simon-kissel.de](https://simon-kissel.de)
+ - date_published: 2020-03-14T01:03:53+00:00
+ - tags: ['personal']
+
+ ## Simon Kraft – WordPress-Mensch aus Stuttgart
+ - [https://simonkraft.de](https://simonkraft.de)
+ - date_published: 2024-07-12T23:10:25.614556+00:00
+
+ ## Join the simonschreibt's super-duper server Discord Server!
+ - [https://discord.simonschreibt.de](https://discord.simonschreibt.de)
+ - date_published: 2024-04-29T06:44:46.655433+00:00
+
+ ## GDC/ADDON 2022: How (not) to create Textures for VFX | Simonschreibt.
+ - [https://gdc2022.simonschreibt.de](https://gdc2022.simonschreibt.de)
+ - date_published: 2024-07-24T04:47:50.501128+00:00
+
  ## Simon schreibt.
  - [https://simonschreibt.de](https://simonschreibt.de)
  - date_published: 2023-10-25T18:32:36.399916+00:00
@@ -3927,92 +4017,4 @@
  ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
  - [https://web.dse.in.tum.de](https://web.dse.in.tum.de)
  - date_published: 2024-06-22T09:36:53.585696+00:00
-
- ## Startseite
- - [https://web.tum.de](https://web.tum.de)
- - date_published: 2024-07-24T04:20:52.882846+00:00
-
- ## Login - BayernCollab
- - [https://wiki.tum.de](https://wiki.tum.de)
- - date_published: 2024-04-29T06:57:07.882141+00:00
-
- ## Stories - TUM Community
- - [https://www.150.alumni.tum.de](https://www.150.alumni.tum.de)
- - date_published: 2024-08-08T21:10:31.660354+00:00
-
- ## Home
- - [https://www21.in.tum.de](https://www21.in.tum.de)
- - date_published: 2024-07-22T14:41:41+00:00
-
- ## Startseite
- - [https://www.arc.ed.tum.de](https://www.arc.ed.tum.de)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Informatik III - Datenbanksysteme und Wissensbasen
- - [http://wwwbayer.in.tum.de](http://wwwbayer.in.tum.de)
- - date_published: 2014-05-12T14:09:33+00:00
-
- ## Startseite
- - [https://www.chancengleichheit.tum.de](https://www.chancengleichheit.tum.de)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Chair for Database Systems
- - [http://www-db.in.tum.de](http://www-db.in.tum.de)
- - date_published: 2024-09-02T16:19:21.331994+00:00
-
- ## MDCO_Home
- - [https://www.dualcareer.tum.de](https://www.dualcareer.tum.de)
- - date_published: 2024-04-29T06:57:00.323508+00:00
-
- ## TUM Center for Educational Technologies
- - [https://www.edtech.tum.de](https://www.edtech.tum.de)
- - date_published: 2024-07-24T04:21:42.615077+00:00
-
- ## Startseite
- - [https://www.edu.sot.tum.de](https://www.edu.sot.tum.de)
- - date_published: 2024-08-08T21:10:24.909309+00:00
-
- ## TUM Institute for LifeLong Learning - Executive & Professional Education
- - [https://www.eec.wi.tum.de](https://www.eec.wi.tum.de)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## TUM School of Computation, Information and Technology
- - [http://www.ei.tum.de](http://www.ei.tum.de)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Startseite
- - [http://www.emeriti-of-excellence.tum.de](http://www.emeriti-of-excellence.tum.de)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Converia • Conference overview
- - [https://www.events.tum.de](https://www.events.tum.de)
- - date_published: 2024-08-08T23:03:46.378962+00:00
-
- ## Startseite
- - [https://www.fa.mgt.tum.de](https://www.fa.mgt.tum.de)
- - date_published: 2024-09-25T13:41:46.392761+00:00
-
- ## Effektive Förderung: Unterstützung für die Technische Universität München
- - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
- - date_published: 2024-04-29T06:56:54.029375+00:00
-
- ## Home
- - [https://www.gov.sot.tum.de](https://www.gov.sot.tum.de)
- - date_published: 2024-08-08T23:36:15.848989+00:00
-
- ## Promovieren an der Technischen Universität München
- - [https://www.gs.tum.de](https://www.gs.tum.de)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Startseite
- - [https://www.hfp.tum.de](https://www.hfp.tum.de)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## International Graduate School of Science and Engineering (IGSSE)
- - [https://www.igsse.gs.tum.de](https://www.igsse.gs.tum.de)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Startseite
- - [https://www.international.tum.de](https://www.international.tum.de)
- - date_published: 2024-04-26T00:00:00+00:00
 

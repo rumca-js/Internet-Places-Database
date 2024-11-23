@@ -1,3 +1,55 @@
+ ## The Maven Game
+ - [https://mavengame.com](https://mavengame.com)
+ - date_published: 2024-08-18T09:09:37.989200+00:00
+
+ ## MavenGlobe.com - Jacob Wolfsheimer
+ - [http://www.mavenglobe.com](http://www.mavenglobe.com)
+ - date_published: 2024-01-04T18:10:46+00:00
+
+ ## Trust the Future | Mavenir
+ - [http://mavenir.com](http://mavenir.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Maven Motive – Making Technology Simple
+ - [https://www.mavenmotive.com](https://www.mavenmotive.com)
+ - date_published: 2024-09-17T21:30:48.674575+00:00
+
+ ## Mavenoid troubleshooter
+ - [https://app.mavenoid.com](https://app.mavenoid.com)
+ - date_published: 2024-05-06T21:33:05.086012+00:00
+
+ ## Mavenoid troubleshooter
+ - [https://konecranes.mavenoid.com](https://konecranes.mavenoid.com)
+ - date_published: 2024-05-04T09:57:21.183348+00:00
+
+ ## Jewish Directory and Jewish Search by MavenSearch
+ - [http://www.mavensearch.com](http://www.mavensearch.com)
+ - date_published: 2024-06-27T07:58:19.402157+00:00
+
+ ## Maven Securities - Advanced Trading & Technology
+ - [https://mavensecurities.com](https://mavensecurities.com)
+ - date_published: 2024-05-14T04:00:37.048353+00:00
+
+ ## Mavenseed
+ - [https://mavenseed.com](https://mavenseed.com)
+ - date_published: 2024-06-30T09:38:19.483151+00:00
+
+ ## Mavensmanor.com
+ - [http://www.mavensmanor.com](http://www.mavensmanor.com)
+ - date_published: 2024-07-08T12:05:17.480818+00:00
+
+ ## California water news
+ - [https://mavensnotebook.com](https://mavensnotebook.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Best Funded Trading Forex Prop Firm | Maven Trading
+ - [https://maventrading.com](https://maventrading.com)
+ - date_published: 2024-10-15T20:43:09+00:00
+
+ ## Maverick Servers and Gaming
+ - [http://maverickservers.com](http://maverickservers.com)
+ - date_published: 2012-12-22T10:08:36+00:00
+
  ## Mavericks Festival – Surf.Community.Music
  - [http://www.mavericksfestival.com](http://www.mavericksfestival.com)
  - date_published: 2024-07-12T10:21:33+00:00
@@ -622,6 +674,10 @@
  ## Maxxelli
  - [http://maxxelli-consulting.com](http://maxxelli-consulting.com)
  - date_published: 2024-07-14T08:45:11.809252+00:00
+
+ ## MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX
+ - [https://docs.maxxinteractive.com](https://docs.maxxinteractive.com)
+ - date_published: 2024-11-22T23:21:18+00:00
 
  ## Homepage
  - [https://maxxis.com](https://maxxis.com)
@@ -3970,60 +4026,4 @@
  ## Benjamin Sledge – Medium
  - [https://benjaminsledge.medium.com](https://benjaminsledge.medium.com)
  - date_published: 2024-07-01T08:43:11.169688+00:00
-
- ## Benya Clark – Medium
- - [https://benyaclark.medium.com](https://benyaclark.medium.com)
- - date_published: 2024-02-08T16:45:53.072106+00:00
-
- ## Better Allies® – Medium
- - [https://betterallies.medium.com](https://betterallies.medium.com)
- - date_published: 2024-06-22T07:16:44.344638+00:00
-
- ## Ben Golus – Medium
- - [https://bgolus.medium.com](https://bgolus.medium.com)
- - date_published: 2024-07-17T04:58:11.352449+00:00
-
- ## Bidao Smart Chain – Medium
- - [https://bidao-blockchain.medium.com](https://bidao-blockchain.medium.com)
- - date_published: 2024-09-25T12:21:20.925290+00:00
-
- ## Mykola Fiantsev – Medium
- - [https://bigmotor.medium.com](https://bigmotor.medium.com)
- - date_published: 2024-06-23T15:03:59.730630+00:00
-
- ## Bilal Mahmood – Medium
- - [https://bilalmahmood.medium.com](https://bilalmahmood.medium.com)
- - date_published: 2023-10-25T10:18:53.537436+00:00
-
- ## Xin Cheng – Medium
- - [https://billtcheng2013.medium.com](https://billtcheng2013.medium.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Billy Chasen – Medium
- - [https://billychasen.medium.com](https://billychasen.medium.com)
- - date_published: 2023-10-25T10:18:55.524086+00:00
-
- ## Billy Lo – Medium
- - [https://billylo.medium.com](https://billylo.medium.com)
- - date_published: 2024-06-01T04:56:22.628191+00:00
-
- ## Bitrue – Medium
- - [https://bitrue.medium.com](https://bitrue.medium.com)
- - date_published: 2024-09-25T15:01:23.445177+00:00
-
- ## Blockless – Medium
- - [https://blockless.medium.com](https://blockless.medium.com)
- - date_published: 2024-09-23T10:44:56.892128+00:00
-
- ## The Medium Blog
- - [https://blog.medium.com](https://blog.medium.com)
- - date_published: 2023-10-25T10:18:57.853664+00:00
-
- ## The Boa Foundation – Medium
- - [https://boafoundation.medium.com](https://boafoundation.medium.com)
- - date_published: 2024-09-15T23:08:04.795241+00:00
-
- ## Boba Network – Medium
- - [https://bobanetwork.medium.com](https://bobanetwork.medium.com)
- - date_published: 2024-09-21T23:26:15.076146+00:00
 

@@ -1,3 +1,91 @@
+ ## Home | ACE
+ - [https://ace.edu](https://ace.edu)
+ - date_published: 2024-10-27T13:02:08.055106+00:00
+
+ ## American College of Education - Modern Campus Catalog™
+ - [https://catalog.ace.edu](https://catalog.ace.edu)
+ - date_published: 2024-10-27T13:02:16.941302+00:00
+
+ ## Carnegie Classification of Institutions of Higher Education®
+ - [https://carnegieclassifications.acenet.edu](https://carnegieclassifications.acenet.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## American Council on Education
+ - [https://www.acenet.edu](https://www.acenet.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Alabama Cooperative Extension System
+ - [https://www.aces.edu](https://www.aces.edu)
+ - date_published: 2024-07-02T13:05:20.545210+00:00
+
+ ## Abilene Christian University
+ - [https://acu.edu](https://acu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Adrian College | Liberal Arts College in MI
+ - [https://adrian.edu](https://adrian.edu)
+ - date_published: 2024-04-30T07:25:56.502677+00:00
+
+ ## Blackboard Learn
+ - [https://bb.adrian.edu](https://bb.adrian.edu)
+ - date_published: 2004-07-21T03:18:08+00:00
+
+ ## Air University
+ - [https://www.airuniversity.af.edu](https://www.airuniversity.af.edu)
+ - date_published: 2024-07-20T21:12:29.225657+00:00
+
+ ## Welcome to the Air Force Institute of Technology / Celebrating 100 Year of Inspiration to Innovation / 1919 - 2019
+ - [https://www.afit.edu](https://www.afit.edu)
+ - date_published: 2024-06-30T03:00:23.905191+00:00
+
+ ## Home - Africa University
+ - [https://www.africau.edu](https://www.africau.edu)
+ - date_published: 2024-06-29T13:51:17.129360+00:00
+
+ ## Events Calendar
+ - [https://events.aims.edu](https://events.aims.edu)
+ - date_published: 2024-07-02T01:46:52.128313+00:00
+
+ ## Association of Jesuit Colleges and Universities - HOME
+ - [http://www.ajcunet.edu](http://www.ajcunet.edu)
+ - date_published: 2024-10-18T22:34:29.777198+00:00
+
+ ## The Aga Khan University
+ - [https://www.aku.edu](https://www.aku.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UA System | University of Alaska System
+ - [https://alaska.edu](https://alaska.edu)
+ - date_published: 2024-05-07T20:41:09.067327+00:00
+
+ ## UAF North
+ - [https://canvas.alaska.edu](https://canvas.alaska.edu)
+ - date_published: 2024-05-07T20:41:53.614034+00:00
+
+ ## Home Page
+ - [https://careers.alaska.edu](https://careers.alaska.edu)
+ - date_published: 2024-07-01T22:03:27.535906+00:00
+
+ ## Blackboard Learn
+ - [https://classes.alaska.edu](https://classes.alaska.edu)
+ - date_published: 2004-07-01T22:02:06+00:00
+
+ ## UA ELMO
+ - [https://elmo.alaska.edu](https://elmo.alaska.edu)
+ - date_published: 2024-07-01T22:03:58.761092+00:00
+
+ ## Home - Empower Alaska
+ - [https://empower.alaska.edu](https://empower.alaska.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Give Now - UA
+ - [https://engage.alaska.edu](https://engage.alaska.edu)
+ - date_published: 2024-05-07T20:41:45.421621+00:00
+
+ ## Directory Search
+ - [https://people.alaska.edu](https://people.alaska.edu)
+ - date_published: 2024-05-07T20:42:05.472604+00:00
+
  ## ScholarWorks@UA Home
  - [https://scholarworks.alaska.edu](https://scholarworks.alaska.edu)
  - date_published: 2024-07-01T22:04:44.669404+00:00
@@ -3914,92 +4002,4 @@
  ## SETI@home
  - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
  - date_published: 2023-10-25T18:48:06.909632+00:00
-
- ## SETI@home
- - [https://setiathome.ssl.berkeley.edu](https://setiathome.ssl.berkeley.edu)
- - date_published: 2024-04-30T03:27:57.598323+00:00
-
- ## Homepage
- - [https://simons.berkeley.edu](https://simons.berkeley.edu)
- - date_published: 2024-05-04T15:31:14.510826+00:00
-
- ## School of Information Sites • sites for the I School community
- - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
- - date_published: 2024-02-26T12:52:56.312090+00:00
-
- ## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
- - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
- - date_published: 2024-05-04T15:31:10.029141+00:00
-
- ## UC Berkeley SLICE Lab – UC Berkeley, Electrical Engineering and Computer Sciences Department
- - [https://slice.eecs.berkeley.edu](https://slice.eecs.berkeley.edu)
- - date_published: 2024-07-01T20:09:27.632339+00:00
-
- ## Snap! Build Your Own Blocks
- - [https://snap.berkeley.edu](https://snap.berkeley.edu)
- - date_published: 2024-04-30T03:18:17.219037+00:00
-
- ## Home | UC Berkeley Sociology Department
- - [http://sociology.berkeley.edu](http://sociology.berkeley.edu)
- - date_published: 2024-06-17T11:15:15.363073+00:00
-
- ## Socrates and Berkeley Scholars Web Hosting Services Have Been Retired | Web Platform Services
- - [http://socrates.berkeley.edu](http://socrates.berkeley.edu)
- - date_published: 2024-07-02T08:45:16+00:00
-
- ## The Soft Walls Project
- - [https://softwalls.eecs.berkeley.edu](https://softwalls.eecs.berkeley.edu)
- - date_published: 2013-12-17T00:00:00+00:00
-
- ## UC Berkeley Sponsored Projects
- - [https://spo.berkeley.edu](https://spo.berkeley.edu)
- - date_published: 2024-06-17T22:02:15+00:00
-
- ## Home | Staff Ombuds Office
- - [http://staffombuds.berkeley.edu](http://staffombuds.berkeley.edu)
- - date_published: 2024-07-22T07:02:15+00:00
-
- ## Statistics at UC Berkeley | Department of Statistics
- - [https://stat.berkeley.edu](https://stat.berkeley.edu)
- - date_published: 2023-10-25T18:48:16.122861+00:00
-
- ## Statistics at UC Berkeley | Department of Statistics
- - [https://statistics.berkeley.edu](https://statistics.berkeley.edu)
- - date_published: 2024-07-22T07:42:41.429629+00:00
-
- ## Open Computing Facility Status
- - [https://status.ocf.berkeley.edu](https://status.ocf.berkeley.edu)
- - date_published: 2024-03-23T18:14:52+00:00
-
- ## Welcome | UCB Study Abroad
- - [https://studyabroad.berkeley.edu](https://studyabroad.berkeley.edu)
- - date_published: 2024-07-13T10:44:24+00:00
-
- ## Berkeley Summer Sessions | Berkeley Summer Sessions
- - [https://summer.berkeley.edu](https://summer.berkeley.edu)
- - date_published: 2024-07-10T17:19:03+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [http://sunsite.berkeley.edu](http://sunsite.berkeley.edu)
- - date_published: 2023-04-28T16:52:29+00:00
-
- ## supernode
- - [https://supernode.berkeley.edu](https://supernode.berkeley.edu)
- - date_published: 2024-05-24T00:14:24+00:00
-
- ## Home | Support Portal
- - [https://supportal.berkeley.edu](https://supportal.berkeley.edu)
- - date_published: 2024-07-22T07:35:48+00:00
-
- ## Home | Swarm Lab
- - [http://swarmlab.eecs.berkeley.edu](http://swarmlab.eecs.berkeley.edu)
- - date_published: 2024-07-22T06:45:49+00:00
-
- ## Information Technology
- - [https://technology.berkeley.edu](https://technology.berkeley.edu)
- - date_published: 2024-07-02T17:43:18+00:00
-
- ## anthrohub - Search Results - Digital Collections
- - [http://techreports.lib.berkeley.edu](http://techreports.lib.berkeley.edu)
- - date_published: 2024-07-02T13:34:33.530623+00:00
 

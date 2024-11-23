@@ -1,3 +1,95 @@
+ ## University Ombudsman
+ - [https://defensoria.ua.es](https://defensoria.ua.es)
+ - date_published: 2024-10-15T03:17:03.718606+00:00
+
+ ## University Ombudsman
+ - [https://defensor.ua.es](https://defensor.ua.es)
+ - date_published: 2024-06-16T22:32:00.019944+00:00
+
+ ## Departamento de Expresión Gráfica, Composición y Proyectos
+ - [https://degraf.ua.es](https://degraf.ua.es)
+ - date_published: 2024-06-16T22:32:42.362388+00:00
+
+ ## Departamento de Estudios Jurídicos del Estado
+ - [https://deje.ua.es](https://deje.ua.es)
+ - date_published: 2024-06-16T22:35:24.701487+00:00
+
+ ## Departamento de Enfermería
+ - [https://denfe.ua.es](https://denfe.ua.es)
+ - date_published: 2024-10-14T23:19:18.812909+00:00
+
+ ## Facultad de Derecho
+ - [https://derecho.ua.es](https://derecho.ua.es)
+ - date_published: 2024-06-16T22:34:40.638199+00:00
+
+ ## Building Sciences and Urbanism Department
+ - [https://deu.ua.es](https://deu.ua.es)
+ - date_published: 2024-06-16T22:32:27.915163+00:00
+
+ ## Devuélveme la Voz
+ - [https://devuelvemelavoz.ua.es](https://devuelvemelavoz.ua.es)
+ - date_published: 2024-10-15T04:53:05.872405+00:00
+
+ ## Department of Fundamentals of Economic Analysis
+ - [http://dfae.ua.es](http://dfae.ua.es)
+ - date_published: 2024-06-16T22:33:08.093748+00:00
+
+ ## Department of Applied Physics
+ - [https://dfapl.ua.es](https://dfapl.ua.es)
+ - date_published: 2024-06-16T22:31:49.440410+00:00
+
+ ## Departamento de Filología Catalana
+ - [https://dfc.ua.es](https://dfc.ua.es)
+ - date_published: 2024-06-16T22:30:51.652595+00:00
+
+ ## Department of Philosophy of Law and Private International Law
+ - [https://dfddip.ua.es](https://dfddip.ua.es)
+ - date_published: 2024-06-16T22:32:02.249412+00:00
+
+ ## Información general. Department of Spanish studies, General Linguistics & Literary Theory
+ - [https://dfelg.ua.es](https://dfelg.ua.es)
+ - date_published: 2024-06-16T22:31:20.696837+00:00
+
+ ## Departamento de Física, Ingeniería de Sistemas y Teoría de la Señal
+ - [https://dfests.ua.es](https://dfests.ua.es)
+ - date_published: 2024-06-16T22:32:54.057706+00:00
+
+ ## Departamento de Fisiología, Genética y Microbiología
+ - [https://dfgm.ua.es](https://dfgm.ua.es)
+ - date_published: 2024-06-16T22:33:33.703366+00:00
+
+ ## Department of English Philology
+ - [https://dfing.ua.es](https://dfing.ua.es)
+ - date_published: 2024-06-16T22:30:21.111212+00:00
+
+ ## Departamento de Filologías Integradas
+ - [https://dfint.ua.es](https://dfint.ua.es)
+ - date_published: 2024-06-16T22:34:48.915311+00:00
+
+ ## Department of Human Geography
+ - [https://dghum.ua.es](https://dghum.ua.es)
+ - date_published: 2024-06-16T22:35:50.807049+00:00
+
+ ## Departamento de Humanidades Contemporáneas
+ - [https://dhcon.ua.es](https://dhcon.ua.es)
+ - date_published: 2024-06-16T22:35:42.403008+00:00
+
+ ## Departamento de Historia Medieval, Historia Moderna y Ciencias y Técnicas Historiográficas. University of Alicante
+ - [https://dhmmo.ua.es](https://dhmmo.ua.es)
+ - date_published: 2024-06-16T22:31:13.485059+00:00
+
+ ## Departamento de Ingeniería Civil
+ - [https://dic.ua.es](https://dic.ua.es)
+ - date_published: 2024-06-16T22:31:24.765683+00:00
+
+ ## Departamento de Innovación y Formación Didáctica
+ - [https://difd.ua.es](https://difd.ua.es)
+ - date_published: 2024-06-16T22:32:14.889791+00:00
+
+ ## Chemical Engineering Department
+ - [https://diq.ua.es](https://diq.ua.es)
+ - date_published: 2024-06-16T22:31:29.812657+00:00
+
  ## Disjuntiva. Crítica de les Ciències Socials
  - [https://disjuntiva.ua.es](https://disjuntiva.ua.es)
  - date_published: 2024-10-15T04:27:41.043658+00:00
@@ -3921,98 +4013,4 @@
  ## ColosseumTicket | Tickets - culture and events | Prague, Brno, Ostrava and more.
  - [https://tickets.colosseum.eu](https://tickets.colosseum.eu)
  - date_published: 2024-07-17T08:36:47.451347+00:00
-
- ## Homepage - The European Community Power Coalition
- - [https://communitypowercoalition.eu](https://communitypowercoalition.eu)
- - date_published: 2020-05-04T18:59:33+00:00
-
- ## Home - The Competition Law Hub
- - [https://www.complawhub.eu](https://www.complawhub.eu)
- - date_published: 2024-10-18T18:17:55.294760+00:00
-
- ## Computational Pathology Group
- - [https://www.computationalpathologygroup.eu](https://www.computationalpathologygroup.eu)
- - date_published: 2024-05-04T07:17:16.498241+00:00
-
- ## ComputerPartner
- - [https://computerpartner.eu](https://computerpartner.eu)
- - date_published: 2024-06-05T19:55:02+00:00
-
- ## Home - Concawe
- - [https://concawe.eu](https://concawe.eu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## construkt.eu - Philipp Brunner's UX and product design blog
- - [https://construkt.eu](https://construkt.eu)
- - date_published: 2023-11-29T16:20:17.841086+00:00
- - tags: ['personal']
-
- ## Consumer Education Hub | Home
- - [https://consumer-education.eu](https://consumer-education.eu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Contrabanda.eu | o Retro. Po Bandzie
- - [https://contrabanda.eu](https://contrabanda.eu)
- - date_published: 2022-04-26T13:39:09+00:00
-
- ## Forum ContraBanda.eu - O RETRO. PO BANDZIE
- - [http://forum.contrabanda.eu](http://forum.contrabanda.eu)
- - date_published: 2024-07-03T01:54:39+00:00
-
- ## CONTRETEMPS
- - [http://contretemps.eu](http://contretemps.eu)
- - date_published: 2024-10-21T18:11:06.526215+00:00
-
- ## STS Reklámajándék
- - [https://stsreklamajandek.cool-shop.eu](https://stsreklamajandek.cool-shop.eu)
- - date_published: 2024-09-18T04:52:08.705638+00:00
-
- ## SpaceTec Partners, merged with Euroconsult Group to form Novaspace - A boutique consultancy with in-depth expertise of the space industry
- - [https://accelerator.copernicus.eu](https://accelerator.copernicus.eu)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Atmosphere Data Store
- - [https://ads-beta.atmosphere.copernicus.eu](https://ads-beta.atmosphere.copernicus.eu)
- - date_published: 2024-09-04T15:18:22.651578+00:00
-
- ## Sign in - Matomo
- - [https://analytics.copernicus.eu](https://analytics.copernicus.eu)
- - date_published: 2024-06-05T06:23:20.610370+00:00
-
- ## Copernicus Interactive Climate Atlas
- - [https://atlas.climate.copernicus.eu](https://atlas.climate.copernicus.eu)
- - date_published: 2024-06-07T09:58:09+00:00
-
- ## Home | Copernicus
- - [https://atmosphere.copernicus.eu](https://atmosphere.copernicus.eu)
- - date_published: 2024-06-05T06:23:19.713204+00:00
-
- ## Copernicus Climate Data Store | Copernicus Climate Data Store
- - [https://cds.climate.copernicus.eu](https://cds.climate.copernicus.eu)
- - date_published: 2024-05-07T15:32:34.295414+00:00
-
- ## Copernicus
- - [https://climate.copernicus.eu](https://climate.copernicus.eu)
- - date_published: 2024-06-05T06:23:02.266148+00:00
-
- ## Homepage | Copernicus
- - [https://copernicus.eu](https://copernicus.eu)
- - date_published: 2024-06-05T06:17:05+00:00
- - tags: ['european union space program']
-
- ## Copernicus Marine Data Store
- - [https://data.marine.copernicus.eu](https://data.marine.copernicus.eu)
- - date_published: 2024-09-04T15:14:49.421251+00:00
-
- ## Copernicus Data Space Ecosystem | Europe's eyes on Earth
- - [https://dataspace.copernicus.eu](https://dataspace.copernicus.eu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Drought Observatories
- - [https://drought.emergency.copernicus.eu](https://drought.emergency.copernicus.eu)
- - date_published: 2024-09-04T15:14:36.458013+00:00
-
- ## Copernicus Emergency Management Service
- - [https://emergency.copernicus.eu](https://emergency.copernicus.eu)
- - date_published: 2024-06-05T06:23:04.522003+00:00
 

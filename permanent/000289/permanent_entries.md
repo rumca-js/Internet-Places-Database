@@ -1,3 +1,103 @@
+ ## Representative Krishnamoorthi
+ - [https://krishnamoorthi.house.gov](https://krishnamoorthi.house.gov)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## U.S. Representative Ann McLane Kuster
+ - [https://kuster.house.gov](https://kuster.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Congressman David Kustoff
+ - [https://kustoff.house.gov](https://kustoff.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Darin LaHood
+ - [https://lahood.house.gov](https://lahood.house.gov)
+ - date_published: 2024-06-27T14:01:46.387799+00:00
+
+ ## Congressman Nick LaLota
+ - [https://lalota.house.gov](https://lalota.house.gov)
+ - date_published: 2024-06-27T14:17:07.856965+00:00
+
+ ## Congressman Doug LaMalfa
+ - [https://lamalfa.house.gov](https://lamalfa.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Doug Lamborn
+ - [https://lamborn.house.gov](https://lamborn.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - Greg Landsman
+ - [https://landsman.house.gov](https://landsman.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congressman Nick Langworthy
+ - [https://langworthy.house.gov](https://langworthy.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Rick Larsen
+ - [https://larsen.house.gov](https://larsen.house.gov)
+ - date_published: 2024-06-27T14:20:36+00:00
+
+ ## Congressman John Larson
+ - [https://larson.house.gov](https://larson.house.gov)
+ - date_published: 2024-06-27T14:20:56.188133+00:00
+
+ ## Congressman Bob Latta
+ - [https://latta.house.gov](https://latta.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Jake LaTurner
+ - [https://laturner.house.gov](https://laturner.house.gov)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Congresswoman Laurel Lee
+ - [https://laurellee.house.gov](https://laurellee.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Mike Lawler
+ - [https://lawler.house.gov](https://lawler.house.gov)
+ - date_published: 2024-06-27T14:23:36+00:00
+
+ ## Home | Barbara Lee - Congresswoman for the 12th District of California
+ - [https://lee.house.gov](https://lee.house.gov)
+ - date_published: 2024-06-27T14:21:53.533228+00:00
+
+ ## Representative Legcounsel-evo
+ - [https://legcounsel.house.gov](https://legcounsel.house.gov)
+ - date_published: 2024-06-27T14:12:53.953920+00:00
+
+ ## United States Congresswoman Debbie Lesko
+ - [https://lesko.house.gov](https://lesko.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Representative Julia Letlow
+ - [https://letlow.house.gov](https://letlow.house.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## home | U.S. Congressman Mike Levin
+ - [https://levin.house.gov](https://levin.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Ted Lieu
+ - [https://lieu.house.gov](https://lieu.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Congresswoman Linda Sanchez
+ - [https://lindasanchez.house.gov](https://lindasanchez.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## live.house.gov, U.S. House of Representatives
+ - [https://live.house.gov](https://live.house.gov)
+ - date_published: 2024-06-17T11:43:08+00:00
+
+ ## Lobbying Disclosure, Office of the Clerk
+ - [http://lobbyingdisclosure.house.gov](http://lobbyingdisclosure.house.gov)
+ - date_published: 2024-09-14T23:21:58.884235+00:00
+
+ ## Congresswoman Zoe Lofgren
+ - [https://lofgren.house.gov](https://lofgren.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## U.S. Representative Barry Loudermilk
  - [https://loudermilk.house.gov](https://loudermilk.house.gov)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -3911,107 +4011,4 @@
  ## NIH Record | The biweekly newsletter for NIH employees since 1949
  - [https://nihrecord.nih.gov](https://nihrecord.nih.gov)
  - date_published: 2024-07-09T08:17:38+00:00
-
- ## National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses
- - [https://nimh.nih.gov](https://nimh.nih.gov)
- - date_published: 2024-03-14T14:04:53.970911+00:00
-
- ## Home
- - [https://ninds.nih.gov](https://ninds.nih.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## NLM Musings from the Mezzanine
- - [https://nlmdirector.nlm.nih.gov](https://nlmdirector.nlm.nih.gov)
- - date_published: 2024-07-06T21:26:12+00:00
-
- ## National Toxicology Program
- - [https://ntp.niehs.nih.gov](https://ntp.niehs.nih.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage | Office of Management
- - [https://om.od.nih.gov](https://om.od.nih.gov)
- - date_published: 2024-07-03T13:56:13.355039+00:00
-
- ## OppNet
- - [https://oppnet.nih.gov](https://oppnet.nih.gov)
- - date_published: 2024-07-02T14:28:15+00:00
-
- ## Order Free Publications
- - [https://order.nia.nih.gov](https://order.nia.nih.gov)
- - date_published: 2024-08-19T03:49:26.796140+00:00
-
- ## ORS
-            
-            
-             - Office Of Research Services | NIH
- - [https://ors.od.nih.gov](https://ors.od.nih.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Homepage
- - [https://osp.od.nih.gov](https://osp.od.nih.gov)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## PMC Home
- - [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov)
- - date_published: 2024-10-21T17:18:11.057235+00:00
-
- ## RePORT ⟩ RePORTER
- - [https://projectreporter.nih.gov](https://projectreporter.nih.gov)
- - date_published: 2024-06-11T17:32:16+00:00
-
- ## PubChem
- - [https://pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov)
- - date_published: 2024-06-29T23:11:39+00:00
-
- ## Home | eRA
- - [https://public.era.nih.gov](https://public.era.nih.gov)
- - date_published: 2024-07-02T03:51:04.337559+00:00
-
- ## PubMed
- - [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov)
- - date_published: 2023-10-25T19:23:21.730556+00:00
-
- ## National Institute on Alcohol Abuse and Alcoholism (NIAAA) | National Institute on Alcohol Abuse and Alcoholism (NIAAA)
- - [https://pubs.niaaa.nih.gov](https://pubs.niaaa.nih.gov)
- - date_published: 2024-09-13T15:43:50+00:00
-
- ## Home - Genetic and Rare Diseases Information Center
- - [https://rarediseases.info.nih.gov](https://rarediseases.info.nih.gov)
- - date_published: 2024-06-18T21:25:56+00:00
-
- ## Home | RePORT
- - [https://report.nih.gov](https://report.nih.gov)
- - date_published: 2024-07-02T03:51:06+00:00
-
- ## Home | NINDS Division of Intramural Research
- - [https://research.ninds.nih.gov](https://research.ninds.nih.gov)
- - date_published: 2024-08-09T19:04:32+00:00
-
- ## NIDA IRP Research Studies
- - [https://researchstudies.nida.nih.gov](https://researchstudies.nida.nih.gov)
- - date_published: 2024-08-19T03:50:01.791249+00:00
-
- ## Rethinking Drinking | NIAAA
- - [https://rethinkingdrinking.niaaa.nih.gov](https://rethinkingdrinking.niaaa.nih.gov)
- - date_published: 2024-06-27T16:02:32+00:00
-
- ## ImageJ Wiki
- - [https://rsbweb.nih.gov](https://rsbweb.nih.gov)
- - date_published: 2024-05-01T08:47:30.396412+00:00
-
- ## Los Institutos Nacionales de Salud |
- - [https://salud.nih.gov](https://salud.nih.gov)
- - date_published: 2024-07-02T12:46:21+00:00
-
- ## Oficina de Servicios de Investigación
- - [https://salud.ors.od.nih.gov](https://salud.ors.od.nih.gov)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Homepage | STEM Teaching Resources
- - [https://science.education.nih.gov](https://science.education.nih.gov)
- - date_published: 2024-07-13T09:17:35.573437+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.nih.gov](https://search.nih.gov)
- - date_published: 2024-07-09T13:17:31.908270+00:00
 

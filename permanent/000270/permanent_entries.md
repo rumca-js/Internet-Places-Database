@@ -1,3 +1,92 @@
+ ## Directory Tools
+ - [https://identity.umd.edu](https://identity.umd.edu)
+ - date_published: 2024-05-07T21:26:53.366138+00:00
+
+ ## Home | Immersive Media Design | University of Maryland
+ - [https://imd.umd.edu](https://imd.umd.edu)
+ - date_published: 2024-07-02T03:39:39.520288+00:00
+
+ ## Iribe Initiative for Inclusion and Diversity in Computing | Bringing extraordinary women to computing fields
+ - [https://inclusion.cs.umd.edu](https://inclusion.cs.umd.edu)
+ - date_published: 2024-05-07T21:26:39.666373+00:00
+ - tags: ['dei']
+
+ ## Innovation Starts Here | University of Maryland
+ - [https://innovate.umd.edu](https://innovate.umd.edu)
+ - date_published: 2024-06-27T22:31:32+00:00
+
+ ## Home | Academy for Innovation & Entrepreneurship
+ - [http://innovation.umd.edu](http://innovation.umd.edu)
+ - date_published: 2024-07-02T03:37:45+00:00
+
+ ## UMIACS Intranet
+ - [https://intranet.umiacs.umd.edu](https://intranet.umiacs.umd.edu)
+ - date_published: 2024-06-22T00:21:22+00:00
+
+ ## The Institute for Research in Electronics and Applied Physics
+ - [https://ireap.umd.edu](https://ireap.umd.edu)
+ - date_published: 2024-06-22T08:40:06+00:00
+
+ ## College of Information (INFO) - Information and Technology for Good
+ - [https://ischool.umd.edu](https://ischool.umd.edu)
+ - date_published: 2024-10-22T05:30:34.164370+00:00
+
+ ## Institute for Systems Research
+ - [https://isr.umd.edu](https://isr.umd.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## ITSC Service Portal - IT Service Desk
+ - [http://itsupport.umd.edu](http://itsupport.umd.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home | Division of Information Technology
+ - [https://it.umd.edu](https://it.umd.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## The Astronomy Workshop
+ - [https://janus.astro.umd.edu](https://janus.astro.umd.edu)
+ - date_published: 2021-02-13T19:28:48+00:00
+
+ ## Home | Joseph and Rebecca Meyerhoff Center for Jewish Studies
+ - [http://jewishstudies.umd.edu](http://jewishstudies.umd.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Joint Quantum Institute
+ - [https://jqi.umd.edu](https://jqi.umd.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Joint Space-Science Institute |
+ - [https://jsi.umd.edu](https://jsi.umd.edu)
+ - date_published: 2024-07-20T10:05:52+00:00
+
+ ## Exciting News: LACS has New Director | Latin American and Caribbean Studies
+ - [http://lacs.umd.edu](http://lacs.umd.edu)
+ - date_published: 2024-09-17T20:28:27+00:00
+
+ ## Language Science
+ - [https://languagescience.umd.edu](https://languagescience.umd.edu)
+ - date_published: 2024-09-18T08:34:41.583094+00:00
+
+ ## Index of /
+ - [http://legacydirs.umiacs.umd.edu](http://legacydirs.umiacs.umd.edu)
+ - date_published: 2024-07-07T09:01:10.173847+00:00
+
+ ## Home | Department of Linguistics
+ - [https://linguistics.umd.edu](https://linguistics.umd.edu)
+ - date_published: 2024-08-05T16:51:36+00:00
+
+ ## Home | Maryland Global
+ - [https://marylandglobal.umd.edu](https://marylandglobal.umd.edu)
+ - date_published: 2024-07-01T18:59:55+00:00
+
+ ## Philip Merrill College of Journalism | University of Maryland | Philip Merrill College of Journalism
+ - [https://merrill.umd.edu](https://merrill.umd.edu)
+ - date_published: 2024-07-18T13:42:14+00:00
+
+ ## Michelle Smith Collaboratory for Visual Culture | Department of Art History and Archaeology
+ - [https://michellesmithcollaboratory.umd.edu](https://michellesmithcollaboratory.umd.edu)
+ - date_published: 2024-09-17T20:29:44+00:00
+
  ## Home
  - [https://mith.umd.edu](https://mith.umd.edu)
  - date_published: 2024-07-22T18:08:36+00:00
@@ -3924,92 +4013,4 @@ Center for Information Technology Integration
  ## Campus Maps | University of Nebraska–Lincoln
  - [https://maps.unl.edu](https://maps.unl.edu)
  - date_published: 2024-05-07T21:41:59.287114+00:00
-
- ## UNL Marketplace
- - [https://marketplace.unl.edu](https://marketplace.unl.edu)
- - date_published: 2015-12-01T00:00:00+00:00
-
- ## MediaHub | University of Nebraska-Lincoln
- - [http://mediahub.unl.edu](http://mediahub.unl.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Mobile Resources | Nebraska
- - [https://mobile.unl.edu](https://mobile.unl.edu)
- - date_published: 2024-05-07T21:41:35.056753+00:00
-
- ## UNSM Morrill Hall
- - [https://museum.unl.edu](https://museum.unl.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## MyUNL | Information Technology Services | Nebraska
- - [http://my.unl.edu](http://my.unl.edu)
- - date_published: 2024-07-01T21:04:43+00:00
-
- ## Nebraska College of Technical Agriculture in Curtis
- - [http://ncta.unl.edu](http://ncta.unl.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Journals - Nebraska Journals
- - [http://nebraskapressjournals.unl.edu](http://nebraskapressjournals.unl.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## About the University of Nebraska Press - Nebraska Press
- - [https://nebraskapress.unl.edu](https://nebraskapress.unl.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Nebraska Manufacturing Extension Partnership | Nebraska
- - [https://nemep.unl.edu](https://nemep.unl.edu)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Nebraska Today | University Communication & Marketing | Nebraska
- - [https://newsroom.unl.edu](https://newsroom.unl.edu)
- - date_published: 2024-05-07T21:42:37.536020+00:00
-
- ## Nebraska Today | Newsroom | University of Nebraska–Lincoln
- - [https://news.unl.edu](https://news.unl.edu)
- - date_published: 2023-10-25T19:03:32.872689+00:00
-
- ## NSave | Nebraska
- - [http://nsave.unl.edu](http://nsave.unl.edu)
- - date_published: 2024-07-01T10:04:49+00:00
-
- ## Online Education | Nebraska
- - [https://online.unl.edu](https://online.unl.edu)
- - date_published: 2024-07-02T04:47:15.304916+00:00
-
- ## PARENTS ASSOCIATION | Nebraska
- - [https://parentsassoc.unl.edu](https://parentsassoc.unl.edu)
- - date_published: 2024-07-02T04:47:25.355369+00:00
-
- ## Parking & Transit Services | Nebraska
- - [https://parking.unl.edu](https://parking.unl.edu)
- - date_published: 2024-07-01T09:10:38+00:00
-
- ## University Police | Nebraska
- - [https://police.unl.edu](https://police.unl.edu)
- - date_published: 2024-07-02T04:49:37.760373+00:00
-
- ## Power of Parenting | Nebraska
- - [https://powerofparenting.unl.edu](https://powerofparenting.unl.edu)
- - date_published: 2024-07-01T19:49:52+00:00
-
- ## Prevent Suicide | Nebraska
- - [https://preventsuicide.unl.edu](https://preventsuicide.unl.edu)
- - date_published: 2024-07-01T13:01:08+00:00
-
- ## Jeffrey S. Raikes School of Computer Science and Management | Nebraska
- - [https://raikes.unl.edu](https://raikes.unl.edu)
- - date_published: 2024-07-01T16:20:24+00:00
-
- ## Office of the University Registrar |
- - [https://registrar.unl.edu](https://registrar.unl.edu)
- - date_published: 2024-07-01T17:26:49+00:00
-
- ## Home
- - [https://research.unl.edu](https://research.unl.edu)
- - date_published: 2024-07-02T04:47:13.193036+00:00
-
- ## Home · Roz Payne Sixties Archive
- - [https://rozsixties.unl.edu](https://rozsixties.unl.edu)
- - date_published: 2018-11-15T00:00:00+00:00
 

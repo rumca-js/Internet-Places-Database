@@ -1,4 +1,92 @@
  ## Commitment to Privacy
+ - [https://opds.vcu.edu](https://opds.vcu.edu)
+ - date_published: 2024-05-07T22:23:33.140061+00:00
+
+ ## Commitment to Privacy
+ - [https://openminds.vcu.edu](https://openminds.vcu.edu)
+ - date_published: 2024-07-02T12:51:19.217464+00:00
+
+ ## Commitment to Privacy
+ - [https://oppo.vcu.edu](https://oppo.vcu.edu)
+ - date_published: 2024-07-02T12:47:12.507311+00:00
+
+ ## Commitment to Privacy
+ - [https://optforhealth.lab.vcu.edu](https://optforhealth.lab.vcu.edu)
+ - date_published: 2024-07-02T12:41:56.486965+00:00
+
+ ## Commitment to Privacy
+ - [https://oraldiagnosticsciences.vcu.edu](https://oraldiagnosticsciences.vcu.edu)
+ - date_published: 2024-07-02T12:50:10.482942+00:00
+
+ ## Commitment to Privacy
+ - [https://oralmaxillofacialsurgery.vcu.edu](https://oralmaxillofacialsurgery.vcu.edu)
+ - date_published: 2024-07-02T12:42:27.324869+00:00
+
+ ## Commitment to Privacy
+ - [http://orientation.vcu.edu](http://orientation.vcu.edu)
+ - date_published: 2024-07-02T12:47:06.648996+00:00
+
+ ## Commitment to Privacy
+ - [https://orthodontics.vcu.edu](https://orthodontics.vcu.edu)
+ - date_published: 2024-07-02T12:47:49.129611+00:00
+
+ ## Commitment to Privacy
+ - [https://orthopaedics.vcu.edu](https://orthopaedics.vcu.edu)
+ - date_published: 2024-07-02T12:43:18.776923+00:00
+
+ ## Commitment to Privacy
+ - [https://parking.vcu.edu](https://parking.vcu.edu)
+ - date_published: 2024-07-02T12:50:24.227357+00:00
+
+ ## Commitment to Privacy
+ - [https://parkinsons.vcu.edu](https://parkinsons.vcu.edu)
+ - date_published: 2024-07-02T12:47:50.469592+00:00
+
+ ## Commitment to Privacy
+ - [https://partnership.vcu.edu](https://partnership.vcu.edu)
+ - date_published: 2024-07-02T12:43:28.330787+00:00
+
+ ## Commitment to Privacy
+ - [https://pass.vcu.edu](https://pass.vcu.edu)
+ - date_published: 2024-07-02T12:57:05.863757+00:00
+
+ ## Commitment to Privacy
+ - [https://pathology.vcu.edu](https://pathology.vcu.edu)
+ - date_published: 2024-07-02T12:47:24.652145+00:00
+
+ ## Commitment to Privacy
+ - [https://pauleyundergradfellowship.vcu.edu](https://pauleyundergradfellowship.vcu.edu)
+ - date_published: 2024-07-02T12:48:55.211682+00:00
+
+ ## Commitment to Privacy
+ - [https://pcpsych.vcu.edu](https://pcpsych.vcu.edu)
+ - date_published: 2024-07-02T12:50:22.654396+00:00
+
+ ## Commitment to Privacy
+ - [https://pediatricdentistry.vcu.edu](https://pediatricdentistry.vcu.edu)
+ - date_published: 2024-07-02T12:48:03.631403+00:00
+
+ ## Commitment to Privacy
+ - [https://pediatrics.vcu.edu](https://pediatrics.vcu.edu)
+ - date_published: 2024-07-02T12:49:11.500840+00:00
+
+ ## Commitment to Privacy
+ - [https://peerleadership.vcu.edu](https://peerleadership.vcu.edu)
+ - date_published: 2024-07-02T12:58:54.729866+00:00
+
+ ## A to Z Directory – Virginia Commonwealth University
+ - [https://people.vcu.edu](https://people.vcu.edu)
+ - date_published: 2024-05-07T22:23:43.856583+00:00
+
+ ## Commitment to Privacy
+ - [https://periodontics.vcu.edu](https://periodontics.vcu.edu)
+ - date_published: 2024-07-02T12:48:54.004727+00:00
+
+ ## Commitment to Privacy
+ - [https://personcenteredpractices.partnership.vcu.edu](https://personcenteredpractices.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:46:45.777708+00:00
+
+ ## Commitment to Privacy
  - [https://pharmacy.vcu.edu](https://pharmacy.vcu.edu)
  - date_published: 2024-07-02T12:44:29.829724+00:00
 
@@ -3914,92 +4002,4 @@
  ## Student Self-Service
  - [https://sss.wtamu.edu](https://sss.wtamu.edu)
  - date_published: 2013-02-15T17:54:26+00:00
-
- ## West Texas A&M University | WTAMU
- - [https://wtamu.edu](https://wtamu.edu)
- - date_published: 2023-10-25T19:06:41.753042+00:00
-
- ## WTAMU
- - [https://wtclass.wtamu.edu](https://wtclass.wtamu.edu)
- - date_published: 2024-05-07T22:38:45.171972+00:00
-
- ## WebSTAC
- - [https://acadinfo.wustl.edu](https://acadinfo.wustl.edu)
- - date_published: 2013-03-06T00:00:00+00:00
-
- ## Undergraduate Admissions | Washington University in St. Louis
- - [https://admissions.wustl.edu](https://admissions.wustl.edu)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## University Advancement - Washington University in St. Louis
- - [https://advancement.wustl.edu](https://advancement.wustl.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Advancing Neuroscience | Washington University in St. Louis
- - [https://advancingneuroscience.wustl.edu](https://advancingneuroscience.wustl.edu)
- - date_published: 2024-05-07T22:39:06.235827+00:00
-
- ## WUSTL Key Login
- - [https://alumnidirectory.wustl.edu](https://alumnidirectory.wustl.edu)
- - date_published: 2024-07-02T15:05:58.017167+00:00
-
- ## Home - Alumni
- - [https://alumni.med.wustl.edu](https://alumni.med.wustl.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Alumni and Friends - Washington University in St. Louis
- - [https://alumni.wustl.edu](https://alumni.wustl.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Department of Anesthesiology - Washington University School of Medicine
- - [https://anesthesiology.wustl.edu](https://anesthesiology.wustl.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Arts & Sciences
- - [http://artsci.wustl.edu](http://artsci.wustl.edu)
- - date_published: 2024-07-02T15:05:51.372377+00:00
-
- ## Home
- - [https://bme.wustl.edu](https://bme.wustl.edu)
- - date_published: 2024-07-07T02:02:04+00:00
-
- ## Home - Brown School at Washington University in St. Louis
- - [https://brownschool.wustl.edu](https://brownschool.wustl.edu)
- - date_published: 2023-01-20T19:23:04+00:00
-
- ## School of Continuing & Professional Studies | WashU
- - [https://caps.wustl.edu](https://caps.wustl.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Center for Clinical Pharmacology
- - [https://clinicalpharmacology.wustl.edu](https://clinicalpharmacology.wustl.edu)
- - date_published: 2024-07-02T15:03:41+00:00
-
- ## Home  | Commencement | Washington University in St. Louis
- - [http://commencement.wustl.edu](http://commencement.wustl.edu)
- - date_published: 2024-07-02T15:06:13.000297+00:00
-
- ## Common Reader
- - [https://commonreader.wustl.edu](https://commonreader.wustl.edu)
- - date_published: 2024-04-30T07:57:08.931175+00:00
-
- ## WashU Together: COVID-19 Response
- - [https://covid19.wustl.edu](https://covid19.wustl.edu)
- - date_published: 2024-07-07T05:03:02+00:00
-
- ## Home
- - [https://cse.wustl.edu](https://cse.wustl.edu)
- - date_published: 2024-07-07T02:04:08+00:00
-
- ## Home - Center for Teaching and Learning
- - [https://ctl.wustl.edu](https://ctl.wustl.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## DBBS Home - Division of Biology & Biomedical Sciences
- - [https://dbbs.wustl.edu](https://dbbs.wustl.edu)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Home - Desegregation History
- - [https://desegregationhistory.med.wustl.edu](https://desegregationhistory.med.wustl.edu)
- - date_published: 2024-04-05T00:00:00+00:00
 

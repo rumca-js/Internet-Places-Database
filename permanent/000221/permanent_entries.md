@@ -1,3 +1,89 @@
+ ## The Chartmaker Directory
+ - [https://chartmaker.visualisingdata.com](https://chartmaker.visualisingdata.com)
+ - date_published: 2019-09-08T09:04:51+00:00
+
+ ## Home - Visualising Data
+ - [https://visualisingdata.com](https://visualisingdata.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Visualizing Economics
+ - [http://www.visualizingeconomics.com](http://www.visualizingeconomics.com)
+ - date_published: 2024-06-20T04:01:19.471242+00:00
+
+ ## Visual Language Lab |
+    The website of Neil Cohn and the Visual Language Lab
+ - [http://www.visuallanguagelab.com](http://www.visuallanguagelab.com)
+ - date_published: 2024-06-21T20:34:37.750873+00:00
+
+ ## Visual Natives
+ - [http://www.visualnatives.com](http://www.visualnatives.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Home - Visual Paradigm Blog
+ - [https://blog.visual-paradigm.com](https://blog.visual-paradigm.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Smart Board - Create and organize your ideas visually
+ - [https://board.visual-paradigm.com](https://board.visual-paradigm.com)
+ - date_published: 2024-07-03T21:39:46.650016+00:00
+
+ ## Online Animated Explainer Video Maker
+ - [https://explainer.visual-paradigm.com](https://explainer.visual-paradigm.com)
+ - date_published: 2024-07-03T21:39:44.322103+00:00
+
+ ## Discuss the Visual Paradigm
+ - [https://forums.visual-paradigm.com](https://forums.visual-paradigm.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Visual Paradigm - Online Productivity Suite
+ - [https://online.visual-paradigm.com](https://online.visual-paradigm.com)
+ - date_published: 2024-05-08T04:07:02.739827+00:00
+
+ ## What's New in VP Online? Important Updates and New Features
+ - [https://whats-new.visual-paradigm.com](https://whats-new.visual-paradigm.com)
+ - date_published: 2024-07-03T21:39:37.538599+00:00
+
+ ## Ideal Modeling & Diagramming Tool for Agile Team Collaboration
+ - [https://www.visual-paradigm.com](https://www.visual-paradigm.com)
+ - date_published: 2024-07-03T21:39:50.801100+00:00
+
+ ## VisualPDE | Interactive live solutions of PDE systems, right on your device
+ - [https://visualpde.com](https://visualpde.com)
+ - date_published: 2023-10-25T17:57:37.518948+00:00
+
+ ## Free Icons in SVG and PNG
+ - [https://visualpharm.com](https://visualpharm.com)
+ - date_published: 2024-05-07T16:31:20.652217+00:00
+
+ ## Home Page
+ - [https://visualproducts.com](https://visualproducts.com)
+ - date_published: 2024-05-08T05:19:37.762156+00:00
+
+ ## We're better together - Visualsoft Partners
+ - [https://www.visualsoftpartners.com](https://www.visualsoftpartners.com)
+ - date_published: 2024-10-07T23:12:39.660778+00:00
+
+ ## Visual Space Agency
+ - [https://visual-space-agency.com](https://visual-space-agency.com)
+ - date_published: 2024-10-29T14:30:34.146067+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://app.vsaex.visualstudio.com](https://app.vsaex.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://app.vssps.visualstudio.com](https://app.vssps.visualstudio.com)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Azure DevOps Services | Sign In
+ - [https://blackbaud.visualstudio.com](https://blackbaud.visualstudio.com)
+ - date_published: 2024-09-16T14:38:01.500749+00:00
+
+ ## Visual Studio Code - Code Editing. Redefined
+ - [https://code.visualstudio.com](https://code.visualstudio.com)
+ - date_published: 2023-10-25T17:57:39.109407+00:00
+ - tags: ['visual studio', 'programming ide']
+
  ## Developer Community
  - [https://developercommunity.visualstudio.com](https://developercommunity.visualstudio.com)
  - date_published: 2023-10-25T17:57:41.357962+00:00
@@ -3959,90 +4045,4 @@
  ## W3docs
  - [https://es.w3docs.com](https://es.w3docs.com)
  - date_published: 2024-07-08T09:34:53.755327+00:00
-
- ## W3docs
- - [https://fr.w3docs.com](https://fr.w3docs.com)
- - date_published: 2024-07-08T09:34:56.301463+00:00
-
- ## W3docs
- - [https://ru.w3docs.com](https://ru.w3docs.com)
- - date_published: 2024-07-08T09:34:55.213999+00:00
-
- ## W3docs
- - [https://w3docs.com](https://w3docs.com)
- - date_published: 2024-05-08T10:44:54.873547+00:00
-
- ## W3 Total Cache - WordPress Performance Plugin | BoldGrid
- - [https://w3-edge.com](https://w3-edge.com)
- - date_published: 2024-04-28T05:10:54.624816+00:00
-
- ## W3Fools – Better web education for all
- - [https://w3fools.com](https://w3fools.com)
- - date_published: 2017-09-20T00:02:34+00:00
-
- ## Templates and Themes » W3Layouts
- - [http://w3layouts.com](http://w3layouts.com)
- - date_published: 2024-07-10T08:23:12+00:00
-
- ## takahē - Bringing literature and art from Aotearoa New Zealand to the world.
- - [https://b3takahe0.nz.w3pcloud.com](https://b3takahe0.nz.w3pcloud.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Future Photonics Hub | Our goals | Lead research | Integrate processes
- - [http://futurephotdev.uk.w3pcloud.com](http://futurephotdev.uk.w3pcloud.com)
- - date_published: 2024-10-21T19:13:49.797795+00:00
-
- ## Warcraft 3: Reforged - Map database
- - [https://maps.w3reforged.com](https://maps.w3reforged.com)
- - date_published: 2023-10-29T10:35:07.109924+00:00
- - tags: ['warcraft', 'video game maps']
-
- ## Warcraft 3: Reforged - Map database
- - [https://w3reforged.com](https://w3reforged.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## web development tutorials from w3resource
- - [https://www.w3resource.com](https://www.w3resource.com)
- - date_published: 2024-05-06T13:16:05.680064+00:00
-
- ## W3Schools | Launch Your Tech Career with Coding Courses & Certificates
- - [https://campus.w3schools.com](https://campus.w3schools.com)
- - date_published: 2024-07-09T17:02:45.891515+00:00
-
- ## My learning | W3Schools
- - [https://my-learning.w3schools.com](https://my-learning.w3schools.com)
- - date_published: 2024-07-08T06:34:22+00:00
-
- ## W3Schools Pathfinder
- - [https://pathfinder.w3schools.com](https://pathfinder.w3schools.com)
- - date_published: 2024-07-08T10:18:44+00:00
-
- ## W3Schools
- - [https://profile.w3schools.com](https://profile.w3schools.com)
- - date_published: 2024-07-09T17:02:47+00:00
-
- ## W3Schools | Launch Your Tech Career with Coding Courses & Certificates
- - [https://shop.w3schools.com](https://shop.w3schools.com)
- - date_published: 2024-07-09T17:02:41.030450+00:00
-
- ## Spaces - W3schools
- - [https://spaces.w3schools.com](https://spaces.w3schools.com)
- - date_published: 2024-07-09T17:02:43+00:00
-
- ## W3Schools.com
- - [https://w3schools.com](https://w3schools.com)
- - date_published: 2024-07-09T15:48:16+00:00
- - tags: ['html', 'css', 'internet', 'javascript']
-
- ## Create your own website | W3 Spaces
- - [https://bdslot88.w3spaces.com](https://bdslot88.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://eric3dprints.w3spaces.com](https://eric3dprints.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
-
- ## Create your own website | W3 Spaces
- - [https://joko77.w3spaces.com](https://joko77.w3spaces.com)
- - date_published: 2024-09-30T06:46:35+00:00
 

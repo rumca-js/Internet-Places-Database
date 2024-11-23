@@ -1,3 +1,91 @@
+ ## Student Academic Affairs
+ - [https://saa.ucsf.edu](https://saa.ucsf.edu)
+ - date_published: 2024-07-02T01:35:55+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://scholar.ucsf.edu](http://scholar.ucsf.edu)
+ - date_published: 2024-07-02T01:54:55.724491+00:00
+
+ ## HOME
+ - [http://sds.ucsf.edu](http://sds.ucsf.edu)
+ - date_published: 2024-07-02T01:37:17+00:00
+
+ ## UCSF School of Medicine Vice Dean's Office at ZSFG
+ - [http://sfgh.ucsf.edu](http://sfgh.ucsf.edu)
+ - date_published: 2024-07-02T01:48:38+00:00
+
+ ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
+ - [https://shpr.ucsf.edu](https://shpr.ucsf.edu)
+ - date_published: 2024-07-02T01:50:16+00:00
+
+ ## Welcome to the UCSF Center for ASD and NDDs | The UCSF Center for ASD and NDDs
+ - [https://star.ucsf.edu](https://star.ucsf.edu)
+ - date_published: 2024-07-02T00:24:10+00:00
+
+ ## Student Academic Affairs
+ - [http://studentaffairs.ucsf.edu](http://studentaffairs.ucsf.edu)
+ - date_published: 2024-07-02T01:40:12+00:00
+
+ ## Student Life
+ - [https://studentlife.ucsf.edu](https://studentlife.ucsf.edu)
+ - date_published: 2024-07-02T01:40:16+00:00
+
+ ## Welcome to Student Mental Health and Wellbeing
+ - [https://studentmentalhealth.ucsf.edu](https://studentmentalhealth.ucsf.edu)
+ - date_published: 2024-07-02T01:34:51+00:00
+
+ ## HOME
+ - [https://success.ucsf.edu](https://success.ucsf.edu)
+ - date_published: 2024-05-07T21:07:48.715308+00:00
+
+ ## Home Page
+ - [http://synapse.ucsf.edu](http://synapse.ucsf.edu)
+ - date_published: 2024-07-01T19:46:38+00:00
+
+ ## tiny.ucsf.edu home
+ - [https://tiny.ucsf.edu](https://tiny.ucsf.edu)
+ - date_published: 2024-07-02T01:55:11.626802+00:00
+
+ ## Home | UCSF Together
+ - [https://together.ucsf.edu](https://together.ucsf.edu)
+ - date_published: 2024-05-07T21:07:53.774272+00:00
+
+ ## Learning &amp; Organization Development
+ - [https://training.ucsf.edu](https://training.ucsf.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## UCSF Climate
+ - [https://ucsfclimate.ucsf.edu](https://ucsfclimate.ucsf.edu)
+ - date_published: 2024-07-02T01:54:02+00:00
+
+ ## Home | UC San Francisco
+ - [https://ucsf.edu](https://ucsf.edu)
+ - date_published: 2023-10-25T19:01:18.504331+00:00
+
+ ## What We Do
+ - [https://undocu.ucsf.edu](https://undocu.ucsf.edu)
+ - date_published: 2024-07-02T01:40:18+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://uptodate.ucsf.edu](https://uptodate.ucsf.edu)
+ - date_published: 2024-07-02T01:54:53.644796+00:00
+
+ ## Vale_Lab_Homepage
+ - [http://valelab4.ucsf.edu](http://valelab4.ucsf.edu)
+ - date_published: 2014-11-04T23:17:09+00:00
+
+ ## Welcome
+ - [http://veterans.ucsf.edu](http://veterans.ucsf.edu)
+ - date_published: 2024-07-02T01:40:07+00:00
+
+ ## Homepage
+ - [https://websites.ucsf.edu](https://websites.ucsf.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Industry Documents Library
+ - [https://www.industrydocuments.ucsf.edu](https://www.industrydocuments.ucsf.edu)
+ - date_published: 2024-06-30T02:47:42.092119+00:00
+
  ## RBVI Home Page
  - [https://www.rbvi.ucsf.edu](https://www.rbvi.ucsf.edu)
  - date_published: 2019-03-08T00:26:55+00:00
@@ -3915,93 +4003,4 @@
  ## Home | ICONS Project
  - [https://icons.umd.edu](https://icons.umd.edu)
  - date_published: 2024-05-09T05:23:40.660768+00:00
-
- ## Directory Tools
- - [https://identity.umd.edu](https://identity.umd.edu)
- - date_published: 2024-05-07T21:26:53.366138+00:00
-
- ## Home | Immersive Media Design | University of Maryland
- - [https://imd.umd.edu](https://imd.umd.edu)
- - date_published: 2024-07-02T03:39:39.520288+00:00
-
- ## Iribe Initiative for Inclusion and Diversity in Computing | Bringing extraordinary women to computing fields
- - [https://inclusion.cs.umd.edu](https://inclusion.cs.umd.edu)
- - date_published: 2024-05-07T21:26:39.666373+00:00
- - tags: ['dei']
-
- ## Innovation Starts Here | University of Maryland
- - [https://innovate.umd.edu](https://innovate.umd.edu)
- - date_published: 2024-06-27T22:31:32+00:00
-
- ## Home | Academy for Innovation & Entrepreneurship
- - [http://innovation.umd.edu](http://innovation.umd.edu)
- - date_published: 2024-07-02T03:37:45+00:00
-
- ## UMIACS Intranet
- - [https://intranet.umiacs.umd.edu](https://intranet.umiacs.umd.edu)
- - date_published: 2024-06-22T00:21:22+00:00
-
- ## The Institute for Research in Electronics and Applied Physics
- - [https://ireap.umd.edu](https://ireap.umd.edu)
- - date_published: 2024-06-22T08:40:06+00:00
-
- ## College of Information (INFO) - Information and Technology for Good
- - [https://ischool.umd.edu](https://ischool.umd.edu)
- - date_published: 2024-10-22T05:30:34.164370+00:00
-
- ## Institute for Systems Research
- - [https://isr.umd.edu](https://isr.umd.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## ITSC Service Portal - IT Service Desk
- - [http://itsupport.umd.edu](http://itsupport.umd.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Home | Division of Information Technology
- - [https://it.umd.edu](https://it.umd.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## The Astronomy Workshop
- - [https://janus.astro.umd.edu](https://janus.astro.umd.edu)
- - date_published: 2021-02-13T19:28:48+00:00
-
- ## Home | Joseph and Rebecca Meyerhoff Center for Jewish Studies
- - [http://jewishstudies.umd.edu](http://jewishstudies.umd.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Joint Quantum Institute
- - [https://jqi.umd.edu](https://jqi.umd.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Joint Space-Science Institute |
- - [https://jsi.umd.edu](https://jsi.umd.edu)
- - date_published: 2024-07-20T10:05:52+00:00
-
- ## Exciting News: LACS has New Director | Latin American and Caribbean Studies
- - [http://lacs.umd.edu](http://lacs.umd.edu)
- - date_published: 2024-09-17T20:28:27+00:00
-
- ## Language Science
- - [https://languagescience.umd.edu](https://languagescience.umd.edu)
- - date_published: 2024-09-18T08:34:41.583094+00:00
-
- ## Index of /
- - [http://legacydirs.umiacs.umd.edu](http://legacydirs.umiacs.umd.edu)
- - date_published: 2024-07-07T09:01:10.173847+00:00
-
- ## Home | Department of Linguistics
- - [https://linguistics.umd.edu](https://linguistics.umd.edu)
- - date_published: 2024-08-05T16:51:36+00:00
-
- ## Home | Maryland Global
- - [https://marylandglobal.umd.edu](https://marylandglobal.umd.edu)
- - date_published: 2024-07-01T18:59:55+00:00
-
- ## Philip Merrill College of Journalism | University of Maryland | Philip Merrill College of Journalism
- - [https://merrill.umd.edu](https://merrill.umd.edu)
- - date_published: 2024-07-18T13:42:14+00:00
-
- ## Michelle Smith Collaboratory for Visual Culture | Department of Art History and Archaeology
- - [https://michellesmithcollaboratory.umd.edu](https://michellesmithcollaboratory.umd.edu)
- - date_published: 2024-09-17T20:29:44+00:00
 

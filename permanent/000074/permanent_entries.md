@@ -1,3 +1,41 @@
+ ## Christian Website Designers (Christian Web Design Pros) CIDesign
+ - [http://www.christian-internet.com](http://www.christian-internet.com)
+ - date_published: 2024-10-28T22:16:48+00:00
+
+ ## Christianity - The Beliefs and History of Faith in Jesus Christ
+ - [http://www.christianity.com](http://www.christianity.com)
+ - date_published: 2024-06-30T10:37:47.814482+00:00
+
+ ## Christianity Cove
+ - [https://christianitycove.com](https://christianitycove.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## ChristianityToday.com
+ - [https://christianitytoday.com](https://christianitytoday.com)
+ - date_published: 2023-11-27T12:11:51+00:00
+ - tags: ['christian news']
+
+ ## Help Center
+ - [https://help.christianitytoday.com](https://help.christianitytoday.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## My Account | Christianity Today
+ - [https://newsletters.christianitytoday.com](https://newsletters.christianitytoday.com)
+ - date_published: 2024-05-08T05:16:10.108799+00:00
+
+ ## Christianity Today Store
+ - [https://store.christianitytoday.com](https://store.christianitytoday.com)
+ - date_published: 2024-07-04T06:23:37.877811+00:00
+
+ ## CT Advertising | Reach Your Audience
+ - [https://christianitytodayads.com](https://christianitytodayads.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Christian Mills
+ - [https://christianjmills.com](https://christianjmills.com)
+ - date_published: 2023-10-25T08:45:22.645601+00:00
+ - tags: ['personal']
+
  ## Christian Jobs and Employment, Search and Find Ministry Jobs and Nonprofit Jobs
  - [https://www.christianjobs.com](https://www.christianjobs.com)
  - date_published: 2024-07-03T09:43:49.766047+00:00
@@ -3993,40 +4031,4 @@
  ## Voter Guide
  - [https://app.ipl.civicengine.com](https://app.ipl.civicengine.com)
  - date_published: 2024-06-10T19:18:29+00:00
-
- ## Civic Game Jam – We want better stories
- - [https://civicgamejam.com](https://civicgamejam.com)
- - date_published: 2024-05-06T06:33:21.197196+00:00
-
- ## Civic Impulse, LLC — The Intersection of Civics and Technology
- - [https://civicimpulse.com](https://civicimpulse.com)
- - date_published: 2016-11-26T22:30:29+00:00
-
- ## Government Software and Services - Accela
- - [http://civicinsight.com](http://civicinsight.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Web Posting Information
- - [https://cdnsm1-clradscript.civiclive.com](https://cdnsm1-clradscript.civiclive.com)
- - date_published: 2023-09-05T17:50:10+00:00
-
- ## CivicMapper | Modern geospatial technology solutions for solving problems in the natural and built environments
- - [https://www.civicmapper.com](https://www.civicmapper.com)
- - date_published: 2023-11-08T00:00:00+00:00
-
- ## Social Studies Simulation | Civics Simulation | Civic Mirror
- - [https://civicmirror.com](https://civicmirror.com)
- - date_published: 2024-05-09T05:23:06.227117+00:00
-
- ## Home
- - [https://civicplus.com](https://civicplus.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Grand Junction, CO | Official Website
- - [https://co-grandjunction.civicplus.com](https://co-grandjunction.civicplus.com)
- - date_published: 2024-06-20T22:23:48.973908+00:00
-
- ## Adams County, IN - Official Website | Official Website
- - [http://in-adamscounty.civicplus.com](http://in-adamscounty.civicplus.com)
- - date_published: 2024-07-21T02:43:13.928608+00:00
 

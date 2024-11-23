@@ -1,3 +1,107 @@
+ ## Ilya Grigorik
+ - [https://igrigorik.ghost.io](https://igrigorik.ghost.io)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## I Know How Much You Care
+ - [https://i-know-how-much-you-care.ghost.io](https://i-know-how-much-you-care.ghost.io)
+ - date_published: 2024-07-05T10:50:47.493976+00:00
+
+ ## The Imaginary Engine Review
+ - [https://imaginaryenginereview.ghost.io](https://imaginaryenginereview.ghost.io)
+ - date_published: 2024-08-17T22:58:23.588297+00:00
+
+ ## INDIGNITY
+ - [https://indignity.ghost.io](https://indignity.ghost.io)
+ - date_published: 2024-09-15T13:44:07.527042+00:00
+
+ ## inFERENCe
+ - [https://inference.ghost.io](https://inference.ghost.io)
+ - date_published: 2024-05-02T13:18:31.557940+00:00
+
+ ## Interregnum
+ - [https://interregnum.ghost.io](https://interregnum.ghost.io)
+ - date_published: 2024-06-10T07:07:03.635754+00:00
+
+ ## Investigative Journalism Foundation
+ - [https://investigative-journalism-foundation.ghost.io](https://investigative-journalism-foundation.ghost.io)
+ - date_published: 2024-07-11T18:12:15.145736+00:00
+
+ ## IO Rodeo Blog
+ - [https://iorodeo-blog.ghost.io](https://iorodeo-blog.ghost.io)
+ - date_published: 2024-10-27T22:49:49.866503+00:00
+
+ ## Isosceles Blog
+ - [https://isosceles.ghost.io](https://isosceles.ghost.io)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## It's Me Waldi | Create the Life You Want
+ - [https://itsmewaldi.ghost.io](https://itsmewaldi.ghost.io)
+ - date_published: 2024-05-12T05:43:03.703925+00:00
+
+ ## SubAnima
+ - [https://jake-brown-2.ghost.io](https://jake-brown-2.ghost.io)
+ - date_published: 2024-08-18T18:20:23.499873+00:00
+
+ ## James A. Reeves
+ - [https://jamesreeves.ghost.io](https://jamesreeves.ghost.io)
+ - date_published: 2024-08-17T23:54:07.591875+00:00
+
+ ## James Stuber
+ - [https://james-stuber.ghost.io](https://james-stuber.ghost.io)
+ - date_published: 2024-09-06T23:07:13.034904+00:00
+
+ ## Janet A. Carr
+ - [https://janetacarr.ghost.io](https://janetacarr.ghost.io)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Jason Shen | The Outlier Coach
+ - [https://jason-shen.ghost.io](https://jason-shen.ghost.io)
+ - date_published: 2024-08-19T17:35:48.906777+00:00
+
+ ## JavaScript Jam, a podcast/community for JS developers
+ - [https://javascript-jam.ghost.io](https://javascript-jam.ghost.io)
+ - date_published: 2024-06-23T01:32:22.744119+00:00
+
+ ## Bernard Vander Beken
+ - [https://jawn.ghost.io](https://jawn.ghost.io)
+ - date_published: 2024-08-18T02:25:25.685606+00:00
+
+ ## Jeremy Danyow
+ - [https://jdanyow.ghost.io](https://jdanyow.ghost.io)
+ - date_published: 2024-08-19T15:29:06.867499+00:00
+
+ ## Jenna Pederson
+ - [https://jennapederson.ghost.io](https://jennapederson.ghost.io)
+ - date_published: 2024-07-14T09:41:20.840615+00:00
+
+ ## WHY EDIFY
+ - [https://jeremy-jorgensen.ghost.io](https://jeremy-jorgensen.ghost.io)
+ - date_published: 2024-08-18T11:59:26.901984+00:00
+
+ ## Jina AI
+ - [https://jina-ai-gmbh.ghost.io](https://jina-ai-gmbh.ghost.io)
+ - date_published: 2024-07-20T02:30:46.957764+00:00
+
+ ## Jodie Cook
+ - [https://jodie-cook.ghost.io](https://jodie-cook.ghost.io)
+ - date_published: 2024-05-13T02:41:19.448927+00:00
+
+ ## John O'Nolan
+ - [https://john.ghost.io](https://john.ghost.io)
+ - date_published: 2024-08-06T10:06:22.185602+00:00
+
+ ## John Hawks
+ - [https://johnhawks.ghost.io](https://johnhawks.ghost.io)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## John Papa
+ - [https://johnpapa.ghost.io](https://johnpapa.ghost.io)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Clubhouse Blog
+ - [https://joinclubhouse.ghost.io](https://joinclubhouse.ghost.io)
+ - date_published: 2024-05-08T05:43:25.937698+00:00
+
  ## Jorge Castro
  - [https://jorge-castro.ghost.io](https://jorge-castro.ghost.io)
  - date_published: 2024-04-04T00:00:00+00:00
@@ -3925,110 +4029,4 @@
  ## Björn Ottosson
  - [https://bottosson.github.io](https://bottosson.github.io)
  - date_published: 2023-11-19T12:28:20+00:00
-
- ## Уютная тумбочка
- - [https://bouncepaw.github.io](https://bouncepaw.github.io)
- - date_published: 2023-07-14T07:36:19+00:00
-
- ## Boundary Attention
- - [https://boundaryattention.github.io](https://boundaryattention.github.io)
- - date_published: 2024-04-01T15:28:03+00:00
-
- ## Bowen Cheng 程博文
- - [https://bowenc0221.github.io](https://bowenc0221.github.io)
- - date_published: 2024-05-14T08:26:35+00:00
-
- ## The Boxer Project
- - [https://boxer-project.github.io](https://boxer-project.github.io)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Patrik J. Braun
- - [https://bpatrik.github.io](https://bpatrik.github.io)
- - date_published: 2021-05-10T07:21:40+00:00
-
- ## Blog O' Braheezy
- - [https://braheezy.github.io](https://braheezy.github.io)
- - date_published: 2023-10-25T08:59:08.009471+00:00
- - tags: ['personal']
-
- ## Braintree Open Source & Community Page
- - [https://braintree.github.io](https://braintree.github.io)
- - date_published: 2022-11-01T20:29:44+00:00
-
- ## Xiao Han @ Vision
- - [https://brandonhanx.github.io](https://brandonhanx.github.io)
- - date_published: 2023-06-06T12:45:21+00:00
-
- ## https://brandonspark.github.io
- - [https://brandonspark.github.io](https://brandonspark.github.io)
- - date_published: 2023-11-20T19:04:01.531859+00:00
-
- ## Brandon Y. Feng
- - [https://brandonyfeng.github.io](https://brandonyfeng.github.io)
- - date_published: 2024-06-13T23:36:06+00:00
-
- ## Brave new ideas in motion representations
- - [http://bravenewmotion.github.io](http://bravenewmotion.github.io)
- - date_published: 2017-07-22T01:44:26+00:00
-
- ## Barry’s C++ Blog
- - [https://brevzin.github.io](https://brevzin.github.io)
- - date_published: 2024-07-25T18:59:00.615902+00:00
-
- ## Home
- - [https://brianc5.github.io](https://brianc5.github.io)
- - date_published: 2021-09-07T15:32:20+00:00
-
- ## Brian Coyner
- - [https://briancoyner.github.io](https://briancoyner.github.io)
- - date_published: 2022-02-01T00:00:00+00:00
-
- ## BRICS: Bi-level Feature Representation of Image CollectionS
- - [https://brics-project.github.io](https://brics-project.github.io)
- - date_published: 2023-11-13T22:01:15+00:00
-
- ## Brihi  Joshi
- - [https://brihijoshi.github.io](https://brihijoshi.github.io)
- - date_published: 2024-06-14T03:04:02+00:00
-
- ## The British Machine Vision Association : Home
- - [https://britishmachinevisionassociation.github.io](https://britishmachinevisionassociation.github.io)
- - date_published: 2024-07-23T11:45:17+00:00
-
- ## Musical Web Dev | Brittany Walker
- - [https://brittanyrw.github.io](https://brittanyrw.github.io)
- - date_published: 2024-06-16T17:53:00+00:00
-
- ## Bea's Blog
- - [https://brizental.github.io](https://brizental.github.io)
- - date_published: 2021-04-07T00:00:00+00:00
-
- ## Speed matters blog
- - [https://brmmm3.github.io](https://brmmm3.github.io)
- - date_published: 2020-01-10T00:00:00+00:00
-
- ## Haibin Huang
- - [https://brotherhuang.github.io](https://brotherhuang.github.io)
- - date_published: 2024-05-03T23:15:39+00:00
-
- ## Bruce W. Lee - Home Page
- - [https://brucewlee.github.io](https://brucewlee.github.io)
- - date_published: 2023-05-31T00:00:00+00:00
-
- ## Bruno Ruviaro – electronic musician
- - [http://brunoruviaro.github.io](http://brunoruviaro.github.io)
- - date_published: 2014-12-20T19:00:02+00:00
-
- ## {} | Bryan Wang
- - [https://bryanwbear.github.io](https://bryanwbear.github.io)
- - date_published: 2023-06-08T21:31:15+00:00
- - tags: ['personal']
-
- ## About me
- - [https://bryanwilder.github.io](https://bryanwilder.github.io)
- - date_published: 2024-06-05T17:36:42+00:00
-
- ## Bidipta Sarkar
- - [https://bsarkar321.github.io](https://bsarkar321.github.io)
- - date_published: 2024-04-03T00:00:00+00:00
 

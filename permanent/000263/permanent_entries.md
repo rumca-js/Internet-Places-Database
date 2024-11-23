@@ -1,3 +1,91 @@
+ ## Sign in to your account
+ - [https://elearn.mtsu.edu](https://elearn.mtsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## EZproxy Login
+ - [https://ezproxy.mtsu.edu](https://ezproxy.mtsu.edu)
+ - date_published: 2024-06-30T01:27:55.583220+00:00
+
+ ## JEWLScholar@MTSU :: Home
+ - [http://jewlscholar.mtsu.edu](http://jewlscholar.mtsu.edu)
+ - date_published: 2024-07-01T15:46:53.927230+00:00
+
+ ## Ask Us! - Ask Us!
+ - [https://libanswers.mtsu.edu](https://libanswers.mtsu.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Walker Library: Home: Walker Library: Home
+ - [https://library.mtsu.edu](https://library.mtsu.edu)
+ - date_published: 2024-05-07T19:39:22.281382+00:00
+
+ ## Home - MTSU
+ - [https://mtsu.edu](https://mtsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## MTSU Jobs | Middle Tennessee State University
+ - [https://mtsujobs.mtsu.edu](https://mtsujobs.mtsu.edu)
+ - date_published: 2024-07-01T15:44:04.895408+00:00
+
+ ## MT Open Press
+ - [https://openpress.mtsu.edu](https://openpress.mtsu.edu)
+ - date_published: 2023-09-15T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://pipeline.mtsu.edu](https://pipeline.mtsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - MTSU
+ - [https://w1.mtsu.edu](https://w1.mtsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - MTSU
+ - [https://wwwt.mtsu.edu](https://wwwt.mtsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## About the Michigan Tech Blogs System
+ - [https://blogs.mtu.edu](https://blogs.mtu.edu)
+ - date_published: 2024-07-19T18:18:10+00:00
+
+ ## Michigan Tech Events Calendar
+ - [https://events.mtu.edu](https://events.mtu.edu)
+ - date_published: 2024-07-20T10:05:59.115678+00:00
+
+ ## Undergraduate Admissions | Michigan Technological University
+ - [https://go.mtu.edu](https://go.mtu.edu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Campus Map | Michigan Technological University
+ - [https://map.mtu.edu](https://map.mtu.edu)
+ - date_published: 2024-07-20T10:04:50.152526+00:00
+
+ ## Michigan Technological University
+ - [https://mtu.edu](https://mtu.edu)
+ - date_published: 2024-07-20T10:06:06.173326+00:00
+
+ ## Michigan Tech Single Sign On
+ - [https://mymichigantech.mtu.edu](https://mymichigantech.mtu.edu)
+ - date_published: 2024-07-20T10:06:03.788581+00:00
+
+ ## Managing your personal web pages (pages.mtu.edu)
+ - [https://pages.mtu.edu](https://pages.mtu.edu)
+ - date_published: 2018-05-03T14:12:00+00:00
+
+ ## Physics | Michigan Technological University
+ - [https://phy.mtu.edu](https://phy.mtu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Department of Computer Science | Michigan Technological University
+ - [http://www.cs.mtu.edu](http://www.cs.mtu.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## The Medical University of South Carolina
+ - [http://academicdepartments.musc.edu](http://academicdepartments.musc.edu)
+ - date_published: 2024-07-13T11:58:29.877414+00:00
+
+ ## Home Realm Discovery
+ - [https://adfs.musc.edu](https://adfs.musc.edu)
+ - date_published: 2024-07-13T12:08:51.033522+00:00
+
  ## Then. Now. Next. Celebrating the Bicentennial of the Medical University of South Carolina
  - [https://bicentennial.musc.edu](https://bicentennial.musc.edu)
  - date_published: 2024-07-13T12:10:11.625773+00:00
@@ -3913,92 +4001,4 @@
  ## Welcome to SBSL | SBSL | NYU Shanghai
  - [https://sbsl.shanghai.nyu.edu](https://sbsl.shanghai.nyu.edu)
  - date_published: 2024-06-21T23:06:16.618627+00:00
-
- ## Department of Social and Cultural Analysis
- - [http://sca.as.nyu.edu](http://sca.as.nyu.edu)
- - date_published: 2024-07-12T16:44:19+00:00
-
- ## Education | NYU Langone Health
- - [http://school.med.nyu.edu](http://school.med.nyu.edu)
- - date_published: 2024-06-21T23:05:34.535983+00:00
-
- ## NYU Shanghai | NYU Shanghai
- - [https://shanghai.nyu.edu](https://shanghai.nyu.edu)
- - date_published: 2024-05-04T14:25:44.862379+00:00
-
- ## Start Page
- - [https://start.nyu.edu](https://start.nyu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## NYU Steinhardt
- - [https://steinhardt.nyu.edu](https://steinhardt.nyu.edu)
- - date_published: 2024-03-11T20:56:22.990916+00:00
-
- ## Stern at NYUAD One-year Full-time MBA
- - [https://stern.nyuad.nyu.edu](https://stern.nyuad.nyu.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## NYU Login
- - [https://students.nyuad.nyu.edu](https://students.nyuad.nyu.edu)
- - date_published: 2024-06-10T12:58:43.159416+00:00
-
- ## NYU Tisch School of the Arts
- - [https://tisch.nyu.edu](https://tisch.nyu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## NYU Wagner Graduate School of Public Service
- - [http://wagner.nyu.edu](http://wagner.nyu.edu)
- - date_published: 2024-06-21T22:15:16+00:00
-
- ## Web Publishing
- - [https://wp.nyu.edu](https://wp.nyu.edu)
- - date_published: 2024-05-07T10:20:27.687982+00:00
-
- ## Center for Neural Science
- - [http://www.cns.nyu.edu](http://www.cns.nyu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Liberal Studies
- - [http://www.liberalstudies.nyu.edu](http://www.liberalstudies.nyu.edu)
- - date_published: 2024-06-21T20:36:58+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://www-sciencedirect-com.ezproxy.med.nyu.edu](https://www-sciencedirect-com.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:51.032311+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://www-science-org.ezproxy.med.nyu.edu](https://www-science-org.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:31.507558+00:00
-
- ## NYU School of Professional Studies
- - [http://www.sps.nyu.edu](http://www.sps.nyu.edu)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## NYU Stern School of Business | Full-time MBA, Part-time (Langone) MBA, Undergraduate, PhD, Executive MBA Business Programs - NYU Stern
- - [http://www.stern.nyu.edu](http://www.stern.nyu.edu)
- - date_published: 2024-06-21T17:39:47+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://www-unboundmedicine-com.ezproxy.med.nyu.edu](https://www-unboundmedicine-com.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:33.401895+00:00
-
- ## Homepage - Undergraduate Admissions - Oakland University
- - [https://apply.oakland.edu](https://apply.oakland.edu)
- - date_published: 2024-05-22T15:28:54+00:00
-
- ## Oakland University: Events Calendar
- - [https://calendar.oakland.edu](https://calendar.oakland.edu)
- - date_published: 2024-06-21T14:49:05+00:00
-
- ## Academic Catalog | Oakland University
- - [http://catalog.oakland.edu](http://catalog.oakland.edu)
- - date_published: 2024-03-25T14:56:18+00:00
-
- ## Oakland University Login
- - [https://ern.oakland.edu](https://ern.oakland.edu)
- - date_published: 2024-06-22T10:46:49.924421+00:00
-
- ## Oakland University Employment Site | Home
- - [https://jobs.oakland.edu](https://jobs.oakland.edu)
- - date_published: 2024-06-22T10:46:54+00:00
 

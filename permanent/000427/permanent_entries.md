@@ -1,3 +1,143 @@
+ ## HSE Books - the official Health and Safety Executive publications   shop.
+ - [https://books.hse.gov.uk](https://books.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:13.358674+00:00
+
+ ## HSE Careers | Our people save lives can you? YOU CAN with HSE
+ - [https://careers.hse.gov.uk](https://careers.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:16.247329+00:00
+
+ ## HSE: Information about health and safety at work
+ - [https://hse.gov.uk](https://hse.gov.uk)
+ - date_published: 2024-06-05T07:28:55.611122+00:00
+
+ ## HSE Media Centre
+ - [https://press.hse.gov.uk](https://press.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:11.877303+00:00
+
+ ## Home - Solutions from HSE
+ - [https://solutions.hse.gov.uk](https://solutions.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:14.808665+00:00
+
+ ## Boundary Commission for England | The Commission is required by the Parliamentary Constituencies Act 1986 to review the Parliamentary constituencies in England every five years
+ - [https://boundarycommissionforengland.independent.gov.uk](https://boundarycommissionforengland.independent.gov.uk)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Home - Civil Service Commission
+ - [http://civilservicecommission.independent.gov.uk](http://civilservicecommission.independent.gov.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Intelligence and Security Committee of Parliament
+ - [https://isc.independent.gov.uk](https://isc.independent.gov.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://infrastructure-ni.gov.uk](https://infrastructure-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:21.633604+00:00
+
+ ## Innovate UK
+ - [http://www.innovateuk.gov.uk](http://www.innovateuk.gov.uk)
+ - date_published: 2024-10-21T09:09:00.973385+00:00
+
+ ## Intellectual Property Office
+ - [https://ipo.gov.uk](https://ipo.gov.uk)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Intellectual property: Trade marks
+ - [https://trademarks.ipo.gov.uk](https://trademarks.ipo.gov.uk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home - Courts and Tribunals Judiciary
+ - [http://www.judiciary.gov.uk](http://www.judiciary.gov.uk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Justice UK
+ - [http://www.justice.gov.uk](http://www.justice.gov.uk)
+ - date_published: 2024-07-20T10:48:46.547878+00:00
+
+ ## Home
+ - [http://www.lakedistrict.gov.uk](http://www.lakedistrict.gov.uk)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Love Lambeth
+ - [https://love.lambeth.gov.uk](https://love.lambeth.gov.uk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Welcome to Lambeth | Lambeth Council
+ - [https://www.lambeth.gov.uk](https://www.lambeth.gov.uk)
+ - date_published: 2024-01-24T20:56:18.339942+00:00
+
+ ## Home
+ - [https://www.lancashire.gov.uk](https://www.lancashire.gov.uk)
+ - date_published: 2024-07-17T05:27:26.020189+00:00
+
+ ## Homepage | London Borough of Hammersmith & Fulham
+ - [https://www.lbhf.gov.uk](https://www.lbhf.gov.uk)
+ - date_published: 2024-10-21T09:33:53.810828+00:00
+
+ ## Legislation.gov.uk
+ - [https://www.legislation.gov.uk](https://www.legislation.gov.uk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | Leicester City
+ - [https://mychoice.leicester.gov.uk](https://mychoice.leicester.gov.uk)
+ - date_published: 2024-06-27T14:51:10.292719+00:00
+
+ ## Welcome | Leicestershire County Council
+ - [https://www.leicestershire.gov.uk](https://www.leicestershire.gov.uk)
+ - date_published: 2024-06-27T14:28:50+00:00
+
+ ## The London Archives • Welcome
+ - [https://search.lma.gov.uk](https://search.lma.gov.uk)
+ - date_published: 2024-07-30T17:19:37+00:00
+
+ ## Local Government Association
+ - [https://www.local.gov.uk](https://www.local.gov.uk)
+ - date_published: 2024-07-03T16:40:46+00:00
+
+ ## Home | Local Digital
+ - [https://www.localdigital.gov.uk](https://www.localdigital.gov.uk)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## maps.london.gov.uk
+ - [https://apps.london.gov.uk](https://apps.london.gov.uk)
+ - date_published: 2023-10-25T22:56:20.873232+00:00
+
+ ## London Datastore – Greater London Authority
+ - [https://data.london.gov.uk](https://data.london.gov.uk)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home page
+ - [https://london.gov.uk](https://london.gov.uk)
+ - date_published: 2024-05-02T12:28:58.396475+00:00
+
+ ## London Councils is the collective of local government in London | London Councils - Localgov Drupal
+ - [http://www.londoncouncils.gov.uk](http://www.londoncouncils.gov.uk)
+ - date_published: 2024-06-18T10:12:46+00:00
+
+ ## Home
+ - [https://www.london-fire.gov.uk](https://www.london-fire.gov.uk)
+ - date_published: 2024-05-02T12:29:34.072040+00:00
+
+ ## Official blog of the Met Office news team
+ - [https://blog.metoffice.gov.uk](https://blog.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:26.754484+00:00
+
+ ## Met Office Careers
+ - [https://careers.metoffice.gov.uk](https://careers.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:22.943085+00:00
+
+ ## The Met Office climate data portal
+ - [https://climatedataportal.metoffice.gov.uk](https://climatedataportal.metoffice.gov.uk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Learning Portal: Log in to the site
+ - [https://college.metoffice.gov.uk](https://college.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:24.553428+00:00
+
+ ## Met Office - Search
+ - [https://library.metoffice.gov.uk](https://library.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:20.866592+00:00
+
  ## Weather and climate change
  - [https://metoffice.gov.uk](https://metoffice.gov.uk)
  - date_published: 2024-04-28T02:23:26.982648+00:00
@@ -3880,144 +4020,4 @@
  ## www.pogo.org.uk
  - [https://www.pogo.org.uk](https://www.pogo.org.uk)
  - date_published: 2022-07-15T14:29:33+00:00
-
- ## Policy Exchange
- - [https://policyexchange.org.uk](https://policyexchange.org.uk)
- - date_published: 2024-10-19T05:49:49.064059+00:00
-
- ## polsy.org.uk
- - [http://polsy.org.uk](http://polsy.org.uk)
- - date_published: 2020-04-11T17:48:59+00:00
-
- ## Support Trust | Postcode Support Trust
- - [https://postcodesupporttrust.org.uk](https://postcodesupporttrust.org.uk)
- - date_published: 2024-10-21T10:49:43.080900+00:00
-
- ## Postcode Trust | Postcode Trust
- - [https://www.postcodetrust.org.uk](https://www.postcodetrust.org.uk)
- - date_published: 2024-08-07T12:06:48.514182+00:00
-
- ## Homepage | Post Office Horizon IT Inquiry
- - [https://www.postofficehorizoninquiry.org.uk](https://www.postofficehorizoninquiry.org.uk)
- - date_published: 2024-06-18T06:41:35.066730+00:00
-
- ## Power to Change - Strengthening communities through community business
- - [https://powertochange.org.uk](https://powertochange.org.uk)
- - date_published: 2024-04-30T05:56:40.141637+00:00
-
- ## Donate to Grassroots Suicide Prevention
- - [https://donate.prevent-suicide.org.uk](https://donate.prevent-suicide.org.uk)
- - date_published: 2024-10-20T09:05:55.266628+00:00
-
- ## Grassroots Suicide Prevention | Educating, Connecting, Campaigning
- - [https://prevent-suicide.org.uk](https://prevent-suicide.org.uk)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Confidence, courses, careers | The Prince's Trust
- - [https://www.princes-trust.org.uk](https://www.princes-trust.org.uk)
- - date_published: 2024-06-17T19:47:49.590861+00:00
-
- ## Progress For Providers
- - [https://progressforproviders.org.uk](https://progressforproviders.org.uk)
- - date_published: 2024-06-30T23:26:13.373338+00:00
-
- ## Home - Progressive Britain
- - [http://www.progressonline.org.uk](http://www.progressonline.org.uk)
- - date_published: 2024-10-21T11:58:31.901641+00:00
-
- ## Home
- - [https://psr.org.uk](https://psr.org.uk)
- - date_published: 2024-09-25T19:41:14.759053+00:00
-
- ## The Psychedelic Society
- - [https://psychedelicsociety.org.uk](https://psychedelicsociety.org.uk)
- - date_published: 2024-09-12T19:19:30.657027+00:00
-
- ## UK Council for Psychotherapy | UKCP
- - [https://psychotherapy.org.uk](https://psychotherapy.org.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Public Practice
- - [http://www.publicpractice.org.uk](http://www.publicpractice.org.uk)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Homepage
- - [http://www.publishers.org.uk](http://www.publishers.org.uk)
- - date_published: 2024-10-21T08:08:03.305514+00:00
-
- ## The Puppy Contract - for responsible puppy breeding and buying.
- - [https://puppycontract.org.uk](https://puppycontract.org.uk)
- - date_published: 2024-10-21T11:45:57.900406+00:00
-
- ## Purr-n-Fur UK | Pages about cats!
- - [http://www.purr-n-fur.org.uk](http://www.purr-n-fur.org.uk)
- - date_published: 2021-01-25T19:08:01+00:00
-
- ## Push Bikes | The Birmingham Cycling Campaign
- - [https://www.pushbikes.org.uk](https://www.pushbikes.org.uk)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Put People First - Sustainable route out of recession
- - [http://www.putpeoplefirst.org.uk](http://www.putpeoplefirst.org.uk)
- - date_published: 2024-10-21T18:49:13.479926+00:00
-
- ## Home - The Quantitative Developer Certificate
- - [https://qdc.org.uk](https://qdc.org.uk)
- - date_published: 2024-09-02T12:35:57.377949+00:00
-
- ## Quaker Bookshop. Quaker Bookshop
- - [https://bookshop.quaker.org.uk](https://bookshop.quaker.org.uk)
- - date_published: 2024-09-12T19:50:44.050225+00:00
-
- ## Quaker faith & practice | 5th Edition
- - [https://qfp.quaker.org.uk](https://qfp.quaker.org.uk)
- - date_published: 2024-06-12T12:50:12.719802+00:00
-
- ## Quakers in Britain
- - [https://quaker.org.uk](https://quaker.org.uk)
- - date_published: 2024-10-20T16:34:21.472567+00:00
-
- ## Home - Queens Anniversary Prizes
- - [https://www.queensanniversaryprizes.org.uk](https://www.queensanniversaryprizes.org.uk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Race Archive – Ahmed Iqbal Ullah Race Relations Resource Centre and Education Trust
- - [https://racearchive.org.uk](https://racearchive.org.uk)
- - date_published: 2024-04-28T06:07:59.707529+00:00
-
- ## Radical Routes  – A Network of Housing and Workers Co-ops Working for Radical Social Change
- - [https://www.radicalroutes.org.uk](https://www.radicalroutes.org.uk)
- - date_published: 2024-05-06T14:32:11.046253+00:00
-
- ## Africa Prize
- - [https://africaprize.raeng.org.uk](https://africaprize.raeng.org.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Engineering X
- - [https://engineeringx.raeng.org.uk](https://engineeringx.raeng.org.uk)
- - date_published: 2024-07-21T09:42:32.690862+00:00
-
- ## Enterprise Hub
- - [https://enterprisehub.raeng.org.uk](https://enterprisehub.raeng.org.uk)
- - date_published: 2024-07-21T09:42:36.159817+00:00
-
- ## Login
- - [https://grants.raeng.org.uk](https://grants.raeng.org.uk)
- - date_published: 2024-07-21T09:42:38.954381+00:00
-
- ## MacRobert Award
- - [https://macrobertaward.raeng.org.uk](https://macrobertaward.raeng.org.uk)
- - date_published: 2024-07-21T09:42:37.305057+00:00
-
- ## National Engineering Policy Centre
- - [https://nepc.raeng.org.uk](https://nepc.raeng.org.uk)
- - date_published: 2024-07-21T09:42:31.728478+00:00
-
- ## Royal Academy of Engineering
- - [https://raeng.org.uk](https://raeng.org.uk)
- - date_published: 2024-04-30T05:11:25.067189+00:00
-
- ## Home
- - [https://www.rafa.org.uk](https://www.rafa.org.uk)
- - date_published: 2024-06-17T00:00:00+00:00
 

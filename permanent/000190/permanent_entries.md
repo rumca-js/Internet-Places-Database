@@ -1,3 +1,67 @@
+ ## Speechify Studio
+ - [https://studio.speechify.com](https://studio.speechify.com)
+ - date_published: 2024-08-18T11:47:28.222949+00:00
+
+ ## Speech in Action – In touch with real speech
+ - [http://www.speechinaction.com](http://www.speechinaction.com)
+ - date_published: 2024-07-02T06:24:42.373924+00:00
+
+ ## Home page
+ - [https://speechllect.com](https://speechllect.com)
+ - date_published: 2024-06-19T20:11:34.044194+00:00
+
+ ## Speechmatics | Speechmatics
+ - [https://blog.speechmatics.com](https://blog.speechmatics.com)
+ - date_published: 2024-09-09T10:40:10+00:00
+
+ ## AI Speech Technology | Speech-To-Text API | Speechmatics
+ - [https://page.speechmatics.com](https://page.speechmatics.com)
+ - date_published: 2024-10-30T14:21:40.938335+00:00
+
+ ## Speechmatics Status
+ - [https://status.speechmatics.com](https://status.speechmatics.com)
+ - date_published: 2024-10-30T14:21:54.550903+00:00
+
+ ## AI Speech Technology | Speech-To-Text API | Speechmatics
+ - [https://www.speechmatics.com](https://www.speechmatics.com)
+ - date_published: 2024-06-19T19:49:43.488739+00:00
+
+ ## Speech Meter - Analyze your accent and improve your pronunciation
+ - [https://speechmeter.com](https://speechmeter.com)
+ - date_published: 2023-10-25T17:09:54.893442+00:00
+
+ ## Fast Transcription Services for Audio & Video, Captions | Speechpad
+ - [https://www.speechpad.com](https://www.speechpad.com)
+ - date_published: 2024-06-23T02:36:32.241046+00:00
+
+ ## SpeechTexter | Type with your voice online
+ - [https://www.speechtexter.com](https://www.speechtexter.com)
+ - date_published: 2024-06-22T07:15:50.531699+00:00
+
+ ## Speed & Function Software development company
+ - [https://speedandfunction.com](https://speedandfunction.com)
+ - date_published: 2024-05-07T11:15:23.327993+00:00
+
+ ## An Action Plan for Solving our Climate Crisis Now | Speed & Scale - Speed & Scale
+ - [https://speedandscale.com](https://speedandscale.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Your Daily Racing Fix!
+ - [https://speedcafe.com](https://speedcafe.com)
+ - date_published: 2024-10-23T08:53:54+00:00
+
+ ## SpeedCapture.com
+ - [https://speedcapture.com](https://speedcapture.com)
+ - date_published: 2016-11-20T00:00:00+00:00
+
+ ## Getting Started
+ - [http://api.speedcurve.com](http://api.speedcurve.com)
+ - date_published: 2024-07-19T21:14:08.630373+00:00
+
+ ## SpeedCurve | Log In
+ - [https://app.speedcurve.com](https://app.speedcurve.com)
+ - date_published: 2024-04-29T05:42:01.000105+00:00
+
  ## SpeedCurve | Log In
  - [https://assets.speedcurve.com](https://assets.speedcurve.com)
  - date_published: 2024-07-26T05:00:02.724638+00:00
@@ -3981,68 +4045,4 @@
  ## Brookline Symphony Orchestra
  - [https://andrew-altenbach-8cae.squarespace.com](https://andrew-altenbach-8cae.squarespace.com)
  - date_published: 2024-07-14T20:39:53.200497+00:00
-
- ## The Lola Retreat
- - [https://andrew-hanna-pxmm.squarespace.com](https://andrew-hanna-pxmm.squarespace.com)
- - date_published: 2024-06-19T23:08:54.024579+00:00
-
- ## anhudy
- - [https://andrew-hudson-ht2k.squarespace.com](https://andrew-hudson-ht2k.squarespace.com)
- - date_published: 2024-08-18T06:33:09.251296+00:00
-
- ## Blender Guru
- - [https://andrew-price-a9bl.squarespace.com](https://andrew-price-a9bl.squarespace.com)
- - date_published: 2024-05-08T12:34:44.442060+00:00
-
- ## Lego Artwork | Andy Bauch Studio
- - [https://andy-bauch.squarespace.com](https://andy-bauch.squarespace.com)
- - date_published: 2024-06-18T07:42:10.327889+00:00
-
- ## COSMIC COMIX
- - [https://andy-bridges-ghpd.squarespace.com](https://andy-bridges-ghpd.squarespace.com)
- - date_published: 2024-10-29T00:51:19.353612+00:00
-
- ## Angela Winter
- - [https://angela-winter-nfxk.squarespace.com](https://angela-winter-nfxk.squarespace.com)
- - date_published: 2024-08-18T03:04:01.437890+00:00
-
- ## Little Village Toy & Book Shop
- - [https://angie-low-7m3h.squarespace.com](https://angie-low-7m3h.squarespace.com)
- - date_published: 2024-06-17T09:48:56.511641+00:00
-
- ## Angie Renfro's online gallery
- - [http://angie-renfro.squarespace.com](http://angie-renfro.squarespace.com)
- - date_published: 2024-07-15T03:17:49.011706+00:00
-
- ## Humane and Sustainable Food Lab at Stanford University
- - [https://animalwelfare.squarespace.com](https://animalwelfare.squarespace.com)
- - date_published: 2024-08-06T05:45:09.940971+00:00
-
- ## Anke Weckmann  •  Illustration
- - [https://ankeweckmann.squarespace.com](https://ankeweckmann.squarespace.com)
- - date_published: 2024-06-20T05:32:46.939579+00:00
-
- ## ANNA-ALEXIA BASILE
- - [https://annaalexia-basile.squarespace.com](https://annaalexia-basile.squarespace.com)
- - date_published: 2024-06-24T05:35:25.510410+00:00
-
- ## ANNA DORN
- - [http://anna-dorn.squarespace.com](http://anna-dorn.squarespace.com)
- - date_published: 2024-07-03T06:46:39.455390+00:00
-
- ## This Is The Place Heritage Park
- - [https://anna-hirschi.squarespace.com](https://anna-hirschi.squarespace.com)
- - date_published: 2024-09-19T21:59:31.935725+00:00
-
- ## SaaStr Annual 2023 | Where The Cloud Meets
- - [https://annual2023.squarespace.com](https://annual2023.squarespace.com)
- - date_published: 2024-08-06T19:33:17.354704+00:00
-
- ## Squarespace Forum
- - [http://answers.squarespace.com](http://answers.squarespace.com)
- - date_published: 2024-08-19T05:32:59+00:00
-
- ## Celebrate Community
- - [https://antelope-apricot-dgkg.squarespace.com](https://antelope-apricot-dgkg.squarespace.com)
- - date_published: 2024-06-29T05:08:15.652654+00:00
 

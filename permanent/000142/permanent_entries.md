@@ -1,3 +1,55 @@
+ ## Make Zoom Safe
+ - [https://www.makezoomsafe.com](https://www.makezoomsafe.com)
+ - date_published: 2024-07-15T11:27:42.543413+00:00
+
+ ## Makigiaqta Strategic Plan
+ - [https://makigiaqta.com](https://makigiaqta.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Making&Candor
+ - [http://makingandcandor.com](http://makingandcandor.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Blog | Colonial Williamsburg Foundation
+ - [http://makinghistorynow.com](http://makinghistorynow.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Making It with Chris G.
+ - [https://www.makingitwithchrisg.com](https://www.makingitwithchrisg.com)
+ - date_published: 2023-11-29T17:12:52.483030+00:00
+
+ ## Making Lunch by Zina Saunders
+ - [http://www.makinglunch.com](http://www.makinglunch.com)
+ - date_published: 2017-07-01T19:13:19+00:00
+
+ ## Making Magic
+ - [https://makingmagicseries.com](https://makingmagicseries.com)
+ - date_published: 2024-06-14T15:21:29.515970+00:00
+
+ ## Making Math Visible
+ - [http://makingmathvisible.com](http://makingmathvisible.com)
+ - date_published: 2024-07-15T11:29:35.172192+00:00
+
+ ## (no title)
+ - [https://makingnoiseandhearingthings.com](https://makingnoiseandhearingthings.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## HOME PAGE MAKING VINYL | Making Vinyl
+ - [https://makingvinyl.com](https://makingvinyl.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Makino | CNC Machine Tool Manufacturer & Machining Centers
+ - [https://makino.com](https://makino.com)
+ - date_published: 2024-05-12T06:31:19.804800+00:00
+
+ ## Makino Studios
+ - [https://www.makinostudios.com](https://www.makinostudios.com)
+ - date_published: 2024-07-22T10:20:43.240915+00:00
+
+ ## HOME | Maki's Curry Buns | Rowarth
+ - [https://www.makiscurrybuns.com](https://www.makiscurrybuns.com)
+ - date_published: 2024-02-08T18:16:51.734772+00:00
+
  ## الرئيسية page
  - [https://makkahnewspaper.com](https://makkahnewspaper.com)
  - date_published: 2024-09-25T00:00:00+00:00
@@ -3987,56 +4039,4 @@
  ## The Market Urbanist
  - [https://www.marketurbanist.com](https://www.marketurbanist.com)
  - date_published: 2024-10-24T23:05:19+00:00
-
- ## BigCharts: Stock Charts, Screeners, Interactive Charting and Research Tools
- - [https://bigcharts.marketwatch.com](https://bigcharts.marketwatch.com)
- - date_published: 2024-05-04T14:29:28.626174+00:00
-
- ## Chat
- - [https://chat.marketwatch.com](https://chat.marketwatch.com)
- - date_published: 2024-06-21T23:41:32.388376+00:00
-
- ## Home
- - [https://corporate.marketwatch.com](https://corporate.marketwatch.com)
- - date_published: 2024-05-04T14:29:05.602428+00:00
-
- ## Customer Center - MarketWatch
- - [https://customercenter.marketwatch.com](https://customercenter.marketwatch.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## MarketWatch: Stock Market News - Financial News - MarketWatch
- - [https://marketwatch.com](https://marketwatch.com)
- - date_published: 2023-10-25T10:57:58.274767+00:00
-
- ## MarketWatch's Onboarding
- - [https://onboarding.marketwatch.com](https://onboarding.marketwatch.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
- - [https://s.marketwatch.com](https://s.marketwatch.com)
- - date_published: 2024-05-04T14:29:17.383400+00:00
-
- ## Virtual Stock Exchange - MarketWatch
- - [http://vse.marketwatch.com](http://vse.marketwatch.com)
- - date_published: 2024-07-17T06:28:44.954269+00:00
-
- ## Send Press Releases With GlobeNews Wire | GlobeNewswire
- - [http://www.marketwire.com](http://www.marketwire.com)
- - date_published: 2024-07-06T23:58:19+00:00
-
- ## Send Press Releases With GlobeNews Wire | GlobeNewswire
- - [http://www.marketwired.com](http://www.marketwired.com)
- - date_published: 2024-07-07T00:00:55+00:00
-
- ## Mark Fiore's Political Animation
- - [http://www.markfiore.com](http://www.markfiore.com)
- - date_published: 2024-10-29T19:48:31.133704+00:00
-
- ## Industrial Additive Manufacturing Platform | Markforged
- - [https://3d.markforged.com](https://3d.markforged.com)
- - date_published: 2024-06-18T07:42:03.719683+00:00
-
- ## Investor Relations
- - [https://investors.markforged.com](https://investors.markforged.com)
- - date_published: 2024-05-08T00:00:00+00:00
 

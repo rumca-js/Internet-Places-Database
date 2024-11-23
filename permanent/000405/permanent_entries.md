@@ -1,3 +1,135 @@
+ ## Golden Eagle – Smart Living in Nature
+ - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
+ - date_published: 2024-06-25T16:32:25.133225+00:00
+
+ ## Academia Observador
+ - [https://academia.observador.pt](https://academia.observador.pt)
+ - date_published: 2024-10-20T21:34:50.038362+00:00
+
+ ## Observador – Notícias, Opinião, Especiais, Explicadores e Newsletters
+ - [https://observador.pt](https://observador.pt)
+ - date_published: 2024-06-18T07:42:22.375773+00:00
+
+ ## O Caminho para a Felicidade: Ensino de Carácter Moral, Bons Conselhos, Valores Éticos, Virtudes de Mais Felizes de Vida
+ - [http://www.ocaminhoparaafelicidade.pt](http://www.ocaminhoparaafelicidade.pt)
+ - date_published: 2024-09-04T17:51:32.316859+00:00
+
+ ## Leya
+ - [http://www.oficinadolivro.pt](http://www.oficinadolivro.pt)
+ - date_published: 2024-07-12T20:49:38.600830+00:00
+
+ ## O Jogo
+ - [http://www.ojogo.pt](http://www.ojogo.pt)
+ - date_published: 2024-06-25T18:52:52.974531+00:00
+
+ ## FREGUESIA DE OLEIROS AMIEIRA
+ - [http://www.oleirosamieira.pt](http://www.oleirosamieira.pt)
+ - date_published: 2024-09-05T15:23:28.060318+00:00
+
+ ## Portugal Anúncios Classificados OLX
+ - [https://olx.pt](https://olx.pt)
+ - date_published: 2024-08-19T18:04:50.770117+00:00
+
+ ## Jornalismo de proximidade
+ - [https://omirante.pt](https://omirante.pt)
+ - date_published: 2024-07-12T21:24:53.905505+00:00
+
+ ## Nothing found for  404
+ - [http://www.viaoptima.online.pt](http://www.viaoptima.online.pt)
+ - date_published: 2013-12-16T13:20:07+00:00
+
+ ## onlinecurriculo.pt FAQ
+ - [https://help.onlinecurriculo.pt](https://help.onlinecurriculo.pt)
+ - date_published: 2024-06-22T22:19:09.905145+00:00
+
+ ## Crie o seu Currículo Vencedor de Vagas - (Grátis) Criador de Currículos
+ - [https://onlinecurriculo.pt](https://onlinecurriculo.pt)
+ - date_published: 2024-05-06T09:21:33.033344+00:00
+
+ ## Jornal NOVO
+ - [https://onovo.pt](https://onovo.pt)
+ - date_published: 2024-09-05T14:01:24.064623+00:00
+
+ ## Agência de Marketing Digital | OnVision
+ - [http://www.onvision.pt](http://www.onvision.pt)
+ - date_published: 2023-06-09T19:27:05+00:00
+
+ ## OPEL | SITE OFICIAL | O FUTURO É DE TODOS
+ - [https://www.opel.pt](https://www.opel.pt)
+ - date_published: 2024-07-11T09:14:09+00:00
+
+ ## Openbank | Banco Online e Digital do Grupo Santander
+ - [https://www.openbank.pt](https://www.openbank.pt)
+ - date_published: 2024-06-14T11:30:16+00:00
+
+ ## Lodo Ostraria - Espaço gastronômico na cidade algarvia de Faro
+ - [https://ostrarialodo.pt](https://ostrarialodo.pt)
+ - date_published: 2018-01-15T00:00:00+00:00
+
+ ## contentpass
+ - [https://cp.otempo.pt](https://cp.otempo.pt)
+ - date_published: 2024-06-25T17:31:01.558716+00:00
+
+ ## Descubra a app Otempo.pt
+ - [https://descobre-app.otempo.pt](https://descobre-app.otempo.pt)
+ - date_published: 2022-11-23T10:43:42+00:00
+
+ ## O Tempo
+ - [https://www.otempo.pt](https://www.otempo.pt)
+ - date_published: 2024-05-06T17:25:23.029213+00:00
+
+ ## Pages24 presented by Marktplatz-Mittelstand.de
+ - [https://www.pages24.pt](https://www.pages24.pt)
+ - date_published: 2022-03-07T13:51:42+00:00
+
+ ## A Página Negra de Manuel S. Fonseca
+ - [https://paginanegra.pt](https://paginanegra.pt)
+ - date_published: 2024-07-12T20:34:11+00:00
+
+ ## Palpito Portugal - Participe em Inquéritos Remunerados Online
+ - [https://palpito.pt](https://palpito.pt)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Descuentos gratis - App La Cuponera - Consejos para el hogar
+ - [https://pantene.pt](https://pantene.pt)
+ - date_published: 2024-10-29T06:15:30.797410+00:00
+
+ ## Index of /
+ - [https://www.papelariafernandes.pt](https://www.papelariafernandes.pt)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## ARTV | canal parlamento
+ - [https://canal.parlamento.pt](https://canal.parlamento.pt)
+ - date_published: 2024-06-28T21:50:59.149142+00:00
+
+ ## Assembleia da República
+ - [https://www.parlamento.pt](https://www.parlamento.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## PASC-CC
+ - [https://pasc.pt](https://pasc.pt)
+ - date_published: 2024-07-20T14:13:07+00:00
+
+ ## Home - Perfect Portugal
+ - [https://perfectportugal.pt](https://perfectportugal.pt)
+ - date_published: 2024-05-06T17:17:11.527367+00:00
+
+ ## PERI Portugal Cofragem Andaime Engenharia
+ - [https://www.peri.pt](https://www.peri.pt)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 3CX Webclient
+ - [https://don.pescada.pt](https://don.pescada.pt)
+ - date_published: 2023-12-16T12:16:19+00:00
+
+ ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
+ - [https://pescada.pt](https://pescada.pt)
+ - date_published: 2024-07-02T22:56:43+00:00
+
+ ## A manutenção do construtor - Peugeot
+ - [https://oficinasonline.peugeot.pt](https://oficinasonline.peugeot.pt)
+ - date_published: 2024-06-19T08:44:17.913325+00:00
+
  ## Novos automóveis, SUVs e veículos eléctricos da | Peugeot PT
  - [https://www.peugeot.pt](https://www.peugeot.pt)
  - date_published: 2024-10-28T13:33:25+00:00
@@ -3900,136 +4032,4 @@
  ## Muzeul Naţional Brukenthal
  - [http://www.brukenthalmuseum.ro](http://www.brukenthalmuseum.ro)
  - date_published: 2024-06-24T09:50:15+00:00
-
- ## bruno claro / há boatos
- - [https://brunocla.ro](https://brunocla.ro)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## BT Asset Management
- - [https://www.btassetmanagement.ro](https://www.btassetmanagement.ro)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## BT Capital Partners | Servicii de Brokeraj
- - [https://btcapitalpartners.ro](https://btcapitalpartners.ro)
- - date_published: 2024-09-16T03:04:44.163164+00:00
-
- ## Build close, go far ✨ | Code Crafters
- - [https://btcodecrafters.ro](https://btcodecrafters.ro)
- - date_published: 2024-09-16T03:05:13.860561+00:00
-
- ## BT Direct - Imprumuturi rapide
- - [https://www.btdirect.ro](https://www.btdirect.ro)
- - date_published: 2024-09-16T03:04:40.768057+00:00
-
- ## BT Leasing | Banca Transilvania
- - [https://btleasing.ro](https://btleasing.ro)
- - date_published: 2024-09-16T03:04:38.931810+00:00
-
- ## BT Mic | Banca Transilvania
- - [https://www.btmic.ro](https://www.btmic.ro)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## BT Pensii | Banca Transilvania
- - [https://btpensii.ro](https://btpensii.ro)
- - date_published: 2024-09-16T03:05:12.212018+00:00
-
- ## Bursa de Valori Bucuresti. Viitorul e al celor care investesc in el !
- - [https://bvb.ro](https://bvb.ro)
- - date_published: 2024-09-16T03:04:18.123969+00:00
-
- ## Cafelutza - Your Global News Hub
- - [https://www.cafelutza.ro](https://www.cafelutza.ro)
- - date_published: 2024-10-28T07:13:11.183094+00:00
-
- ## Servicii IT, Outsourcing IT, Suport IT | camscape.ro
- - [http://www.camscape.ro](http://www.camscape.ro)
- - date_published: 2024-10-31T07:12:03.343096+00:00
-
- ## Capodopere
- - [http://www.capodopere2019.ro](http://www.capodopere2019.ro)
- - date_published: 2024-08-06T19:19:24+00:00
-
- ## Decathlon Recrutare | Decathlon – Cariere pentru oameni activi!
- - [https://cariere-decathlon.ro](https://cariere-decathlon.ro)
- - date_published: 2024-06-15T20:23:14.977925+00:00
-
- ## Cărțile pe față - Prima pagină
- - [https://cartilepefata.ro](https://cartilepefata.ro)
- - date_published: 2024-07-14T08:43:56.368507+00:00
-
- ## Cartoonito | Desene animate, jocuri şi activităţi pentru preşcolari de la canalul pentru copii Cartoonito
- - [https://www.cartoonito.ro](https://www.cartoonito.ro)
- - date_published: 2024-09-20T18:01:28.941980+00:00
-
- ## Homepage
- - [https://casinoble.ro](https://casinoble.ro)
- - date_published: 2024-09-19T20:32:39.896899+00:00
-
- ## Top 45 Cazinouri Online România 2024 ᐈ Lista Cazinouri Online
- - [https://casinohex.ro](https://casinohex.ro)
- - date_published: 2024-07-16T19:15:31+00:00
-
- ## Enhatec
- - [https://enhatec.ccea.ro](https://enhatec.ccea.ro)
- - date_published: 2024-09-24T11:21:25.875866+00:00
-
- ## Camera Deputatilor
- - [https://www.cdep.ro](https://www.cdep.ro)
- - date_published: 2024-10-14T21:21:29.691661+00:00
-
- ## Cetaphil - recomandat de medicii dermatologi pentru pielea sensibilă
- - [https://www.cetaphil.ro](https://www.cetaphil.ro)
- - date_published: 2024-10-30T23:02:29.170781+00:00
-
- ## Chaox is based
- - [https://chaox.ro](https://chaox.ro)
- - date_published: 2024-01-14T09:29:46+00:00
-
- ## Ty3r0X's Lair
- - [https://ty3r0x.chaox.ro](https://ty3r0x.chaox.ro)
- - date_published: 2023-04-01T14:58:49+00:00
-
- ## CitesteAsta
- - [http://citesteasta.ro](http://citesteasta.ro)
- - date_published: 2024-10-19T07:28:41.207226+00:00
-
- ## Citroën România | Automobile & Autoutilitare
- - [https://citroen.ro](https://citroen.ro)
- - date_published: 2023-12-11T16:01:02.901260+00:00
-
- ## Întreţinerea constructor - Citroen
- - [https://programare-service-online.citroen.ro](https://programare-service-online.citroen.ro)
- - date_published: 2024-05-10T04:43:02.725141+00:00
-
- ## Florarie online Bucuresti | Cityflowers.ro
- - [https://www.cityflowers.ro](https://www.cityflowers.ro)
- - date_published: 2020-02-18T06:55:31+00:00
-
- ## CityPodcast.ro  | Prima Retea de Podcast-uri din Romania
- - [https://www.citypodcast.ro](https://www.citypodcast.ro)
- - date_published: 2024-07-09T06:43:48.990309+00:00
-
- ## Agricultura de precizie - Management agricol | Climate Fieldview
- - [https://climatefieldview.ro](https://climatefieldview.ro)
- - date_published: 2024-10-22T21:35:23.028639+00:00
-
- ## Gazeta SF – Science fiction pe pâine!
- - [http://fanzin.clubsf.ro](http://fanzin.clubsf.ro)
- - date_published: 2024-07-04T13:32:28.857168+00:00
-
- ## CNCAN » CNCAN
- - [http://www.cncan.ro](http://www.cncan.ro)
- - date_published: 2024-06-30T23:08:14.531727+00:00
-
- ## Angajează freelanceri și găsește proiecte freelance în mediul online
- - [https://www.freelancer.co.ro](https://www.freelancer.co.ro)
- - date_published: 2024-06-16T12:00:08.625861+00:00
-
- ## Your IT Conference - Codecamp
- - [https://codecamp.ro](https://codecamp.ro)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.ro](https://colorprinter.ro)
- - date_published: 2024-02-04T18:52:48+00:00
 

@@ -1,3 +1,91 @@
+ ## ver.di
+ - [https://vod.verdi.de](https://vod.verdi.de)
+ - date_published: 2024-06-27T06:14:53.503256+00:00
+
+ ## Sign in - Matomo
+ - [https://web-stat.verdi.de](https://web-stat.verdi.de)
+ - date_published: 2024-06-27T06:14:56.892207+00:00
+
+ ## Vereinte Dienstleistungsgewerkschaft
+ - [https://www.verdi.de](https://www.verdi.de)
+ - date_published: 2024-05-06T20:48:18.688892+00:00
+
+ ## Tarif- und Besoldungsrunde öffentlicher Dienst Bund und Kommunen 2025
+ - [https://zusammen-geht-mehr.verdi.de](https://zusammen-geht-mehr.verdi.de)
+ - date_published: 2024-06-27T06:14:45.855676+00:00
+
+ ## START
+ - [https://verdi-mitgliederservice.de](https://verdi-mitgliederservice.de)
+ - date_published: 2022-01-05T08:39:25+00:00
+
+ ## VERDURE Internetagentur Stuttgart
+ - [https://www.verdure.de](https://www.verdure.de)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Willkommen beim Klimawissen e.V.
+ - [https://verein-klimawissen.de](https://verein-klimawissen.de)
+ - date_published: 2019-05-03T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.verfassungsblog.de](https://analytics.verfassungsblog.de)
+ - date_published: 2024-10-18T20:51:09.069555+00:00
+
+ ## Home
+ - [http://verfassungsblog.de](http://verfassungsblog.de)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.verfassungsschutz.de](https://www.verfassungsschutz.de)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Ihre Ausweise im persönlichen ID-Wallet - Verimi
+ - [https://verimi.de](https://verimi.de)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## VERIVOX | Tarife vergleichen & stressfrei sparen!
+ - [https://www.verivox.de](https://www.verivox.de)
+ - date_published: 2024-07-09T07:53:19.108637+00:00
+
+ ## Home
+ - [https://www.verkehrsmuseum-dresden.de](https://www.verkehrsmuseum-dresden.de)
+ - date_published: 2024-07-14T03:08:14.143685+00:00
+
+ ## Kreisverkehrswacht Bayreuth e.V.
+ - [https://www.verkehrswacht-bt-ku.de](https://www.verkehrswacht-bt-ku.de)
+ - date_published: 2024-07-24T07:12:18.383810+00:00
+
+ ## Verpackungskontor Krumbein - Verpackungskontor
+ - [https://www.verpackungs-kontor.de](https://www.verpackungs-kontor.de)
+ - date_published: 2024-02-07T09:59:15+00:00
+
+ ## Willkommen auf vesab.de
+ - [https://www.vesab.de](https://www.vesab.de)
+ - date_published: 2020-06-25T10:03:17+00:00
+
+ ## Vesalia Online - The Amiga & Retrocomputing Store (Est. 1987)
+ - [https://vesalia.de](https://vesalia.de)
+ - date_published: 2023-12-11T19:07:27.880695+00:00
+
+ ## Performance art | Film | VestAndPage - Verena Stenke & Andrea Pagnes | Germany
+ - [https://vest-and-page.de](https://vest-and-page.de)
+ - date_published: 2024-06-12T12:40:51.148300+00:00
+
+ ## Vestas Germany
+ - [https://vestas.de](https://vestas.de)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Home | VeWa
+ - [https://www.vewa-project.de](https://www.vewa-project.de)
+ - date_published: 2022-10-16T00:00:00+00:00
+
+ ## Verlag für Standesamtswesen
+ - [https://www.vfst.de](https://www.vfst.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Viktor Garske
+ - [https://ai.v-gar.de](https://ai.v-gar.de)
+ - date_published: 2023-05-29T20:09:31+00:00
+
  ## Viktors Blog
  - [https://blog.v-gar.de](https://blog.v-gar.de)
  - date_published: 2024-04-29T07:02:16.864479+00:00
@@ -3937,94 +4025,4 @@ Bibliotheken / Z39.50
  ## Home | Alvezs
  - [https://alvez.dev](https://alvez.dev)
  - date_published: 2024-05-07T23:11:54.541598+00:00
-
- ## amanhimself.dev
- - [https://amanhimself.dev](https://amanhimself.dev)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Homepage - Andrei Marchenko
- - [https://amarchenko.dev](https://amarchenko.dev)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Sprout Anime Recommender, Stats, and Visualizations
- - [https://anime.ameo.dev](https://anime.ameo.dev)
- - date_published: 2023-07-14T17:54:48+00:00
-
- ## mastodon.ameo.dev
- - [https://mastodon.ameo.dev](https://mastodon.ameo.dev)
- - date_published: 2024-05-08T12:14:43.368185+00:00
-
- ## Plausible · Web analytics
- - [https://pause.ameo.dev](https://pause.ameo.dev)
- - date_published: 2024-05-08T12:14:44.461695+00:00
-
- ## Technical blog by Alexander Ameye.
- - [https://ameye.dev](https://ameye.dev)
- - date_published: 2023-10-25T18:34:46.760527+00:00
-
- ## Amir Karimi - Fractional Head of Engineering for early-stage startups
- - [https://amirkarimi.dev](https://amirkarimi.dev)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Amoenus Dev
- - [https://amoenus.dev](https://amoenus.dev)
- - date_published: 2023-12-07T17:36:20.416462+00:00
- - tags: ['personal']
-
- ## amolas.dev
- - [http://ww12.amolas.dev](http://ww12.amolas.dev)
- - date_published: 2024-08-18T05:06:47.104167+00:00
-
- ## Amorpheuz's Portfolio
- - [https://amorpheuz.dev](https://amorpheuz.dev)
- - date_published: 2024-05-11T10:19:19.024970+00:00
-
- ## AMP - a web component framework to easily create user-first web experiences
- - [https://amp.dev](https://amp.dev)
- - date_published: 2024-06-15T04:14:54.311778+00:00
-
- ## The AMP Blog
- - [https://blog.amp.dev](https://blog.amp.dev)
- - date_published: 2024-06-20T20:46:24.372373+00:00
-
- ## We believe in a future where developers are amplified, not automated
- - [https://amplified.dev](https://amplified.dev)
- - date_published: 2024-04-29T07:30:27.199091+00:00
-
- ## Amr Diab - Web Developer
- - [https://amrdiab.dev](https://amrdiab.dev)
- - date_published: 2023-12-29T18:59:56.823678+00:00
- - tags: ['personal']
-
- ## Analysis Tools and Linters to Improve Code Quality and Avoid Bugs
- - [https://analysis-tools.dev](https://analysis-tools.dev)
- - date_published: 2024-04-29T07:41:48.998128+00:00
-
- ## Show HN: Anchor – developer-friendly private CAs for internal TLS
- - [https://anchor.dev](https://anchor.dev)
- - date_published: 2023-11-01T14:17:14+00:00
-
- ## Effortless Encryption
- - [https://blog.anchor.dev](https://blog.anchor.dev)
- - date_published: 2023-11-01T14:43:17.307157+00:00
-
- ## Introduction to Anchor – Anchor
- - [https://docs.anchor.dev](https://docs.anchor.dev)
- - date_published: 2024-04-29T07:19:19.641300+00:00
-
- ## andersource
- - [https://andersource.dev](https://andersource.dev)
- - date_published: 2024-01-09T23:47:51.887993+00:00
-
- ## andrea simone costa
- - [https://andreasimonecosta.dev](https://andreasimonecosta.dev)
- - date_published: 2024-01-07T16:03:32.309409+00:00
-
- ## go on rails framework
- - [https://andrewarrow.dev](https://andrewarrow.dev)
- - date_published: 2024-08-18T16:46:41.044012+00:00
-
- ## Home
- - [https://andrewbyrd.dev](https://andrewbyrd.dev)
- - date_published: 2021-10-19T00:00:00+00:00
 

@@ -1,3 +1,130 @@
+ ## dave everitt | home |
+ - [https://daveeveritt.org](https://daveeveritt.org)
+ - date_published: 2023-11-08T18:18:53+00:00
+ - tags: ['personal']
+
+ ## Dave Knows Portland
+ - [http://portland.daveknows.org](http://portland.daveknows.org)
+ - date_published: 2024-06-28T12:55:16.518822+00:00
+
+ ## Humorist and Motivational Speaker - Dave Lieber
+ - [https://davelieber.org](https://davelieber.org)
+ - date_published: 2024-09-18T13:09:08.593880+00:00
+
+ ## blog.davep.org
+ - [https://blog.davep.org](https://blog.davep.org)
+ - date_published: 2024-01-01T12:05:05.774145+00:00
+
+ ## [52.WKS]
+ - [https://52wks.davepeck.org](https://52wks.davepeck.org)
+ - date_published: 2024-03-04T19:12:29+00:00
+
+ ## [The Dangercast 2.0]
+ - [https://dangercast.davepeck.org](https://dangercast.davepeck.org)
+ - date_published: 2024-03-04T19:29:55+00:00
+
+ ## Dave Peck
+ - [https://davepeck.org](https://davepeck.org)
+ - date_published: 2024-01-04T22:41:55.591112+00:00
+ - tags: ['personal']
+
+ ## [Dave Peck's Go]
+ - [https://go.davepeck.org](https://go.davepeck.org)
+ - date_published: 2024-08-18T07:30:45.163165+00:00
+
+ ## Mastodon
+ - [https://mastodon.davepeck.org](https://mastodon.davepeck.org)
+ - date_published: 2024-08-18T07:30:44.474477+00:00
+
+ ## DRA 2020
+ - [https://davesredistricting.org](https://davesredistricting.org)
+ - date_published: 2024-07-26T21:11:07+00:00
+
+ ## DAViCal - DAViCal Home
+ - [https://davical.org](https://davical.org)
+ - date_published: 2024-04-08T19:31:30.696145+00:00
+ - tags: ['calendar', 'caldav', 'self-host']
+
+ ## Davical
+ - [https://wiki.davical.org](https://wiki.davical.org)
+ - date_published: 2023-10-22T14:30:41+00:00
+
+ ## David Abram
+ - [https://www.davidabram.org](https://www.davidabram.org)
+ - date_published: 2024-06-28T23:05:57.703975+00:00
+
+ ## David Adger
+ - [https://davidadger.org](https://davidadger.org)
+ - date_published: 2024-07-02T10:15:31.831496+00:00
+
+ ## David Adrian
+ - [https://davidadrian.org](https://davidadrian.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## davidbordwell.net : home
+ - [http://davidbordwell.org](http://davidbordwell.org)
+ - date_published: 2024-08-18T22:38:37.402662+00:00
+
+ ## David Cummings on Startups – 3,000+ posts on entrepreneurship and startups
+ - [https://davidcummings.org](https://davidcummings.org)
+ - date_published: 2023-10-25T21:12:47.339422+00:00
+
+ ## devDependency status | david-dm.org
+ - [https://david-dm.org](https://david-dm.org)
+ - date_published: 2024-07-06T23:24:42.660386+00:00
+
+ ## David Edgerton
+ - [https://www.davidedgerton.org](https://www.davidedgerton.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## david galbraith
+ - [https://davidgalbraith.org](https://davidgalbraith.org)
+ - date_published: 2023-10-25T21:12:51.395744+00:00
+
+ ## David Gilbert Blog
+ - [https://davidgilbert.org](https://davidgilbert.org)
+ - date_published: 2013-11-30T00:00:00+00:00
+
+ ## Reading Marx's Capital with David Harvey
+ - [http://davidharvey.org](http://davidharvey.org)
+ - date_published: 2024-06-29T21:05:35+00:00
+
+ ## Hume Texts Online
+ - [https://davidhume.org](https://davidhume.org)
+ - date_published: 2023-11-02T12:07:39+00:00
+
+ ## David Lazar
+ - [https://davidlazar.org](https://davidlazar.org)
+ - date_published: 2024-06-22T11:09:34.903621+00:00
+
+ ## David Mintz, homo sapiens
+ - [https://davidmintz.org](https://davidmintz.org)
+ - date_published: 2024-10-16T09:05:38.740126+00:00
+
+ ## David Miscavige Scientology Ecclesiastical Leader
+ - [https://davidmiscavige.org](https://davidmiscavige.org)
+ - date_published: 2024-08-18T12:22:53.816153+00:00
+
+ ## David Rudnick
+ - [http://davidrudnick.org](http://davidrudnick.org)
+ - date_published: 2024-07-13T15:41:17.395152+00:00
+
+ ## David Simmons-Duffin
+ - [http://davidsd.org](http://davidsd.org)
+ - date_published: 2023-08-23T07:35:51+00:00
+
+ ## Home - David's Legacy Foundation
+ - [https://www.davidslegacy.org](https://www.davidslegacy.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## David Smith, Independent iOS Developer
+ - [https://david-smith.org](https://david-smith.org)
+ - date_published: 2024-05-08T10:00:29.826650+00:00
+
+ ## Davidson Institute: Programs & Support for the Profoundly Gifted
+ - [https://www.davidsongifted.org](https://www.davidsongifted.org)
+ - date_published: 2024-08-19T00:00:00+00:00
+
  ## DavidTan.org
  - [http://www.davidtan.org](http://www.davidtan.org)
  - date_published: 2024-10-27T12:11:17.266812+00:00
@@ -3907,129 +4034,4 @@
  ## Dovecot | The Secure IMAP server
  - [https://dovecot.org](https://dovecot.org)
  - date_published: 2024-05-14T03:49:49.329164+00:00
-
- ## Dovecot community software repository
- - [https://repo.dovecot.org](https://repo.dovecot.org)
- - date_published: 2023-09-15T11:02:08+00:00
-
- ## Wiki has been closed
- - [https://wiki2.dovecot.org](https://wiki2.dovecot.org)
- - date_published: 2023-07-13T09:35:28+00:00
-
- ## Wiki has been closed
- - [https://wiki.dovecot.org](https://wiki.dovecot.org)
- - date_published: 2023-07-13T09:35:28+00:00
-
- ## Dovetail Impact Foundation
- - [https://dovetailimpact.org](https://dovetailimpact.org)
- - date_published: 2024-05-22T02:38:38.315599+00:00
-
- ## DOVE Transplant | Matching Kidney Donors with Veterans in Need
- - [https://dovetransplant.org](https://dovetransplant.org)
- - date_published: 2024-05-12T05:10:37.763565+00:00
-
- ## Home
- - [https://dowcreditunion.org](https://dowcreditunion.org)
- - date_published: 2024-05-09T07:35:08.432098+00:00
-
- ## Dow Credit Union
- - [https://ob.dowcreditunion.org](https://ob.dowcreditunion.org)
- - date_published: 2024-07-10T04:40:25.100623+00:00
-
- ## DLTKU - Download Game PC Gratis Offline Full Version Terbaru
- - [https://game.downloadtanku.org](https://game.downloadtanku.org)
- - date_published: 2024-07-14T13:20:35.906582+00:00
-
- ## Boca Raton Downtown, FL | Official Website
- - [https://www.downtownboca.org](https://www.downtownboca.org)
- - date_published: 2024-09-02T12:29:55.756040+00:00
-
- ## Downtown Lafayette - Downtown Lafayette Unlimited
- - [https://www.downtownlafayette.org](https://www.downtownlafayette.org)
- - date_published: 2024-07-02T04:10:24.390909+00:00
-
- ## Home | Downtown Los Altos
- - [https://downtownlosaltos.org](https://downtownlosaltos.org)
- - date_published: 2015-03-12T14:07:46+00:00
-
- ## Doxide
- - [https://doxide.org](https://doxide.org)
- - date_published: 2024-11-08T19:35:34.145926+00:00
-
- ## Doxygen homepage
- - [https://doxygen.org](https://doxygen.org)
- - date_published: 2024-05-08T11:03:31.290717+00:00
-
- ## dozame.org
- - [http://www.dozame.org](http://www.dozame.org)
- - date_published: 2024-10-21T17:12:44.673201+00:00
-
- ## dpaste
- - [https://dpaste.org](https://dpaste.org)
- - date_published: 2024-06-19T22:10:54.344450+00:00
-
- ## dpaste
- - [https://git.dpaste.org](https://git.dpaste.org)
- - date_published: 2024-05-01T04:02:44.084748+00:00
-
- ## about lore.dpaste.org
- - [https://lore.dpaste.org](https://lore.dpaste.org)
- - date_published: 2024-05-01T04:02:42.483127+00:00
-
- ## DPC Homepage - Digital Preservation Coalition
- - [http://www.dpconline.org](http://www.dpconline.org)
- - date_published: 2024-07-02T09:33:28+00:00
-
- ## DPDK
- - [http://core.dpdk.org](http://core.dpdk.org)
- - date_published: 2024-06-28T11:30:59+00:00
-
- ## Home - DPDK
- - [https://dpdk.org](https://dpdk.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## The Home of Developer Productivity Engineering (DPE)
- - [https://dpe.org](https://dpe.org)
- - date_published: 2024-03-21T19:56:15+00:00
-
- ## Department for Professional Employees, AFL-CIO
- - [https://dpeaflcio.org](https://dpeaflcio.org)
- - date_published: 2024-09-18T04:30:42.927222+00:00
-
- ## dprg.org - robots rule
- - [http://www.dprg.org](http://www.dprg.org)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## DQ institute – DQ Institute. All Rights Reserved
- - [https://dqinstitute.org](https://dqinstitute.org)
- - date_published: 2024-05-11T08:11:28.150910+00:00
-
- ## The Drabblecast
- - [https://www.drabblecast.org](https://www.drabblecast.org)
- - date_published: 2024-05-04T05:59:58.917667+00:00
-
- ## Dragonchat
- - [https://dragonchat.org](https://dragonchat.org)
- - date_published: 2024-06-23T19:03:01.846355+00:00
-
- ## The Dragon Award
- - [https://awards.dragoncon.org](https://awards.dragoncon.org)
- - date_published: 2024-07-17T13:23:07.375277+00:00
-
- ## Dragon Con - Largest Multi-genre and Pop Culture Convention
- - [https://dragoncon.org](https://dragoncon.org)
- - date_published: 2024-07-17T13:23:05.127744+00:00
- - tags: ['convention', 'pop culture']
-
- ## Dragon Con Gaming
- - [https://gaming.dragoncon.org](https://gaming.dragoncon.org)
- - date_published: 2024-06-17T12:40:49.301070+00:00
-
- ## DragonFly BSD - avalon home - Grrrrr!
- - [https://avalon.dragonflybsd.org](https://avalon.dragonflybsd.org)
- - date_published: 2024-10-15T11:34:01+00:00
-
- ## DragonFlyBSD bugtracker
- - [http://bugs.dragonflybsd.org](http://bugs.dragonflybsd.org)
- - date_published: 2024-08-18T19:44:30.405599+00:00
 

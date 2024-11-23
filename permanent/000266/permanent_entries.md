@@ -1,3 +1,91 @@
+ ## Centers for Equity Community and Leadership
+ - [https://cecl.stanford.edu](https://cecl.stanford.edu)
+ - date_published: 2024-04-19T01:18:13+00:00
+
+ ## Stanford Registrar
+ - [https://cecredential.stanford.edu](https://cecredential.stanford.edu)
+ - date_published: 2024-07-01T19:39:04.967579+00:00
+
+ ## Center for Computational, Evolutionary and Human Genomics (CEHG)
+ - [https://cehg.stanford.edu](https://cehg.stanford.edu)
+ - date_published: 2024-06-25T19:49:55+00:00
+
+ ## Center for Spatial and Textual Analysis
+ - [https://cesta.stanford.edu](https://cesta.stanford.edu)
+ - date_published: 2024-06-20T06:23:00+00:00
+
+ ## University Corporate and Foundation Relations
+ - [https://cfr.stanford.edu](https://cfr.stanford.edu)
+ - date_published: 2024-05-17T18:53:03+00:00
+
+ ## Computer Science
+ - [https://cf.stanford.edu](https://cf.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Chemical Engineering
+ - [https://cheme.stanford.edu](https://cheme.stanford.edu)
+ - date_published: 2024-07-09T16:44:46+00:00
+
+ ## ChEM-H Building and Neurosciences Building
+ - [https://chemhneurod9.sites.stanford.edu](https://chemhneurod9.sites.stanford.edu)
+ - date_published: 2024-06-21T21:39:30+00:00
+
+ ## ChEM-H Building and Neurosciences Building
+ - [https://chemhneuro.stanford.edu](https://chemhneuro.stanford.edu)
+ - date_published: 2024-05-11T11:24:08.006481+00:00
+
+ ## Sarafan ChEM-H
+ - [https://chemh.stanford.edu](https://chemh.stanford.edu)
+ - date_published: 2024-06-28T13:02:27+00:00
+
+ ## CareWait
+ - [https://childcare.stanford.edu](https://childcare.stanford.edu)
+ - date_published: 2024-01-29T04:39:00+00:00
+
+ ## CISAC | FSI
+ - [https://cisac.fsi.stanford.edu](https://cisac.fsi.stanford.edu)
+ - date_published: 2024-07-20T15:33:55+00:00
+
+ ## Stanford Computational Journalism Lab
+ - [http://cjlab.stanford.edu](http://cjlab.stanford.edu)
+ - date_published: 2022-10-03T16:21:09+00:00
+
+ ## Clinical Trials
+ - [https://clinicaltrials.stanford.edu](https://clinicaltrials.stanford.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Cellular and Molecular Biology Training Program
+ - [https://cmbprogram.stanford.edu](https://cmbprogram.stanford.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## CoAuthor
+ - [https://coauthor.stanford.edu](https://coauthor.stanford.edu)
+ - date_published: 2023-07-11T00:05:17+00:00
+
+ ## Home
+ - [https://cocolab.stanford.edu](https://cocolab.stanford.edu)
+ - date_published: 2024-05-04T15:15:17.753402+00:00
+
+ ## Civic, Liberal, and Global Education
+ - [https://college.stanford.edu](https://college.stanford.edu)
+ - date_published: 2024-06-12T23:53:39+00:00
+
+ ## Commencement
+ - [https://commencement.stanford.edu](https://commencement.stanford.edu)
+ - date_published: 2024-06-16T16:02:53+00:00
+
+ ## Communication Department
+ - [http://communication.stanford.edu](http://communication.stanford.edu)
+ - date_published: 2024-07-01T12:59:19+00:00
+
+ ## Log In ‹ Communicator Resources — WordPress
+ - [https://communicators.stanford.edu](https://communicators.stanford.edu)
+ - date_published: 2024-07-01T20:22:36.523056+00:00
+
+ ## Office of Community Standards
+ - [https://communitystandards.stanford.edu](https://communitystandards.stanford.edu)
+ - date_published: 2024-06-19T23:20:52+00:00
+
  ## Community
  - [https://community.stanford.edu](https://community.stanford.edu)
  - date_published: 2024-05-07T20:30:52.367842+00:00
@@ -3923,92 +4011,4 @@
  ## Compliance and Risk Services - Compliance and Risk Services
  - [https://complianceandriskservices.ua.edu](https://complianceandriskservices.ua.edu)
  - date_published: 2024-07-01T21:55:33.886164+00:00
-
- ## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
- - [https://compliance.ua.edu](https://compliance.ua.edu)
- - date_published: 2024-05-07T20:40:52.548818+00:00
-
- ## Office of Teaching Innovation and Digital Education
- - [http://continuingstudies.ua.edu](http://continuingstudies.ua.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
- - date_published: 2024-02-08T18:16:42.939005+00:00
-
- ## The University of Alabama | Crowdfunding
- - [https://crowdfunding.ua.edu](https://crowdfunding.ua.edu)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## The Culverhouse College of Business – The University of Alabamas Culverhouse College of Business | The University of Alabama
- - [http://culverhouse.ua.edu](http://culverhouse.ua.edu)
- - date_published: 2024-07-01T21:50:18.856382+00:00
-
- ## CAS - Central Authentication Service
- - [https://degreeworks.ua.edu](https://degreeworks.ua.edu)
- - date_published: 2024-05-07T20:40:25.349326+00:00
-
- ## Diversity – Diversity Equity and Inclusion | The University of Alabama
- - [https://diversity.ua.edu](https://diversity.ua.edu)
- - date_published: 2024-07-01T21:49:58.151527+00:00
-
- ## Electrical and Computer Engineering – Just another eng.ua.edu Sites site | The University of Alabama
- - [http://ece.eng.ua.edu](http://ece.eng.ua.edu)
- - date_published: 2024-07-13T11:10:14.705382+00:00
-
- ## College of Education
- - [http://education.ua.edu](http://education.ua.edu)
- - date_published: 2024-07-01T21:49:27.452726+00:00
-
- ## Environmental Health & Safety – Environmental Health & Safety | The University of Alabama
- - [https://ehs.ua.edu](https://ehs.ua.edu)
- - date_published: 2024-07-01T21:50:06.099145+00:00
-
- ## College of Engineering
- - [http://eng.ua.edu](http://eng.ua.edu)
- - date_published: 2024-07-01T21:50:12.515570+00:00
-
- ## eop.ua.edu – Equal Opportunity | The University of Alabama
- - [https://eop.ua.edu](https://eop.ua.edu)
- - date_published: 2024-02-08T22:03:09.704384+00:00
-
- ## Faculty Handbook –  | The University of Alabama
- - [https://facultyhandbook.ua.edu](https://facultyhandbook.ua.edu)
- - date_published: 2024-07-01T21:56:11.933754+00:00
-
- ## Finance and Operations – Division of Finance and Operations
- - [https://financeandoperations.ua.edu](https://financeandoperations.ua.edu)
- - date_published: 2024-07-01T21:54:44.180366+00:00
-
- ## Financial Aid - Afford | The University of Alabama
- - [https://financialaid.ua.edu](https://financialaid.ua.edu)
- - date_published: 2024-07-01T21:53:48.265920+00:00
-
- ## The University of Alabama
- - [https://give.ua.edu](https://give.ua.edu)
- - date_published: 2024-07-01T22:02:49.688001+00:00
-
- ## Advancement  –  | The University of Alabama
- - [https://giving.ua.edu](https://giving.ua.edu)
- - date_published: 2024-05-07T20:41:03.467559+00:00
-
- ## Admissions
- - [https://gobama.ua.edu](https://gobama.ua.edu)
- - date_published: 2024-05-07T20:40:35.865786+00:00
-
- ## Homepage - Graduate School | The University of Alabama
- - [https://graduate.ua.edu](https://graduate.ua.edu)
- - date_published: 2024-05-07T20:40:31.664983+00:00
-
- ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
- - [http://helpdesk.ua.edu](http://helpdesk.ua.edu)
- - date_published: 2024-07-01T21:50:39.709953+00:00
-
- ## honors.ua.edu – Honors College | The University of Alabama
- - [http://honors.ua.edu](http://honors.ua.edu)
- - date_published: 2024-07-01T21:50:00.737661+00:00
-
- ## Human Resources – The University of Alabama. | The University of Alabama
- - [https://hr.ua.edu](https://hr.ua.edu)
- - date_published: 2024-07-01T21:51:25.750275+00:00
 

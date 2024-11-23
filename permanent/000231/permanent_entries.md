@@ -1,3 +1,95 @@
+ ## Nic Prigg's Blog
+ - [https://priggy.wordpress.com](https://priggy.wordpress.com)
+ - date_published: 2024-10-21T15:41:11.633527+00:00
+
+ ## Pythia Guide and PrimaSounds
+ - [https://primasounds.wordpress.com](https://primasounds.wordpress.com)
+ - date_published: 2024-06-16T21:49:32+00:00
+
+ ## Primes2h's Weblog
+ - [https://primes2h.wordpress.com](https://primes2h.wordpress.com)
+ - date_published: 2024-09-21T22:51:08+00:00
+
+ ## Age of Dusk
+ - [https://princeofnothingblogs.wordpress.com](https://princeofnothingblogs.wordpress.com)
+ - date_published: 2024-08-18T09:24:09.383432+00:00
+
+ ## Prinny's Taylor - Louis Bazalgette (1750-1830)
+ - [http://prinnystaylor.wordpress.com](http://prinnystaylor.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## prior probability
+ - [https://priorprobability.wordpress.com](https://priorprobability.wordpress.com)
+ - date_published: 2024-06-30T11:04:53.146113+00:00
+
+ ## Prisoners of Faith
+ - [http://prisonersoffaith.wordpress.com](http://prisonersoffaith.wordpress.com)
+ - date_published: 2024-06-28T21:19:57.809889+00:00
+
+ ## Priya's Learning Centre
+ - [http://priyaslearningcentre.wordpress.com](http://priyaslearningcentre.wordpress.com)
+ - date_published: 2024-07-12T22:36:24.116263+00:00
+
+ ## The Proactionary Transhumanist
+ - [https://proactiontranshuman.wordpress.com](https://proactiontranshuman.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Probably Dance
+ - [https://probablydance.wordpress.com](https://probablydance.wordpress.com)
+ - date_published: 2024-05-07T09:29:15.413480+00:00
+
+ ## Problemas e Teoremas
+ - [http://problemasteoremas.wordpress.com](http://problemasteoremas.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Probus Global
+ - [https://probusglobal.wordpress.com](https://probusglobal.wordpress.com)
+ - date_published: 2024-07-15T03:51:48.311235+00:00
+
+ ## PRODUCTIVITY REPORT
+ - [https://productivityreportorg.wordpress.com](https://productivityreportorg.wordpress.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## profkeithdevlin.org
+ - [http://profkeithdevlin.wordpress.com](http://profkeithdevlin.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Global Warming: Man or Myth?
+ - [https://profmandia.wordpress.com](https://profmandia.wordpress.com)
+ - date_published: 2024-06-30T02:49:08.847306+00:00
+
+ ## Of Particular Significance
+ - [http://profmattstrassler.wordpress.com](http://profmattstrassler.wordpress.com)
+ - date_published: 2024-06-30T09:26:58.488222+00:00
+
+ ## prograft
+ - [https://prograft1.wordpress.com](https://prograft1.wordpress.com)
+ - date_published: 2024-05-08T06:42:52.373873+00:00
+
+ ## Pedagogik för programmering
+ - [https://programmeringspedagogik.wordpress.com](https://programmeringspedagogik.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Programming Ideas With Jake
+ - [https://programmingideaswithjake.wordpress.com](https://programmingideaswithjake.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Programming pedagogy
+ - [https://programmingpedagogy.wordpress.com](https://programmingpedagogy.wordpress.com)
+ - date_published: 2024-07-20T12:06:18.745459+00:00
+
+ ## programmium
+ - [https://programmium.wordpress.com](https://programmium.wordpress.com)
+ - date_published: 2024-11-09T23:07:33.428380+00:00
+
+ ## Progressive Geographies
+ - [http://progressivegeographies.wordpress.com](http://progressivegeographies.wordpress.com)
+ - date_published: 2024-10-21T16:46:53.767807+00:00
+
+ ## Project PEN
+ - [http://projectpen.wordpress.com](http://projectpen.wordpress.com)
+ - date_published: 2024-07-01T14:43:05.806925+00:00
+
  ## eLuma Team in Yele, Sierra Leone
  - [https://projectyele2011.wordpress.com](https://projectyele2011.wordpress.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -3920,96 +4012,4 @@
  ## Paul Isaacs' Blog
  - [http://theisaacs22.wordpress.com](http://theisaacs22.wordpress.com)
  - date_published: 2024-09-03T23:09:28.290338+00:00
-
- ## the jeanSpace
- - [http://thejeanspace.wordpress.com](http://thejeanspace.wordpress.com)
- - date_published: 2024-09-03T23:00:56.457343+00:00
-
- ## The Jenkins
- - [https://thejenkinscomic.wordpress.com](https://thejenkinscomic.wordpress.com)
- - date_published: 2024-05-22T13:50:02.426443+00:00
-
- ## The joy in small things
- - [https://thejoyinsmallthings.wordpress.com](https://thejoyinsmallthings.wordpress.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## thekiltedgerman
- - [https://thekiltedgerman.wordpress.com](https://thekiltedgerman.wordpress.com)
- - date_published: 2024-10-26T16:37:55.462299+00:00
-
- ## Left Luggage
- - [http://theleftluggage.wordpress.com](http://theleftluggage.wordpress.com)
- - date_published: 2024-10-21T13:47:38.342239+00:00
-
- ## The Lexicans
- - [https://thelexicans.wordpress.com](https://thelexicans.wordpress.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Linguist Blogger
- - [http://thelinguistblogger.wordpress.com](http://thelinguistblogger.wordpress.com)
- - date_published: 2024-07-01T14:46:43.159653+00:00
-
- ## The Lintas
- - [https://thelintas.wordpress.com](https://thelintas.wordpress.com)
- - date_published: 2024-06-30T04:32:47.898882+00:00
-
- ## LinuxJedi's /dev/null
- - [https://thelinuxjedi.files.wordpress.com](https://thelinuxjedi.files.wordpress.com)
- - date_published: 2024-05-02T12:07:39.564180+00:00
-
- ## LinuxJedi's /dev/null
- - [https://thelinuxjedi.wordpress.com](https://thelinuxjedi.wordpress.com)
- - date_published: 2024-05-02T12:07:40.764309+00:00
-
- ## Lion & Unicorn
- - [https://thelionandunicorn.wordpress.com](https://thelionandunicorn.wordpress.com)
- - date_published: 2024-10-02T07:48:55.802309+00:00
-
- ## The Literary Omnivore
- - [http://theliteraryomnivore.wordpress.com](http://theliteraryomnivore.wordpress.com)
- - date_published: 2024-07-20T09:23:58+00:00
-
- ## theliterarysisters
- - [https://theliterarysisters.wordpress.com](https://theliterarysisters.wordpress.com)
- - date_published: 2024-09-11T05:18:44+00:00
-
- ## The Lore of Yss
- - [https://theloreofyss.wordpress.com](https://theloreofyss.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The Lost and the Damned
- - [http://thelostandthedamned.wordpress.com](http://thelostandthedamned.wordpress.com)
- - date_published: 2024-07-08T16:16:18+00:00
-
- ## The Mad Jewess
- - [http://themadjewess.wordpress.com](http://themadjewess.wordpress.com)
- - date_published: 2024-06-27T10:19:15.980777+00:00
-
- ## The Magic of Moths
- - [http://themagicofmoths.wordpress.com](http://themagicofmoths.wordpress.com)
- - date_published: 2024-10-21T22:57:30.333190+00:00
-
- ## The Makers of the Oxford English Dictionary
- - [https://themakersoftheoed.wordpress.com](https://themakersoftheoed.wordpress.com)
- - date_published: 2024-06-29T03:41:03.178233+00:00
-
- ## The Maltese Autist
- - [http://themalteseautist.wordpress.com](http://themalteseautist.wordpress.com)
- - date_published: 2024-09-03T23:00:06.252871+00:00
-
- ## A mathematical melting pot
- - [http://themathingpot.wordpress.com](http://themathingpot.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## I am a committer
- - [https://themcq.wordpress.com](https://themcq.wordpress.com)
- - date_published: 2024-07-18T12:25:00.066533+00:00
-
- ## PSD to WordPress
- - [https://themeawesomecom.wordpress.com](https://themeawesomecom.wordpress.com)
- - date_published: 2024-07-09T12:40:04.741314+00:00
-
- ## WordPress Themes
- - [https://theme.wordpress.com](https://theme.wordpress.com)
- - date_published: 2024-05-08T00:00:00+00:00
 

@@ -1,3 +1,91 @@
+ ## Institut for Nordiske Studier og Sprogvidenskab (NorS) – Københavns Universitet
+ - [https://nors.ku.dk](https://nors.ku.dk)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Nyheder - Forskning - Videnskab – Københavns Universitet
+ - [https://nyheder.ku.dk](https://nyheder.ku.dk)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Odontologisk Institut – Københavns Universitet
+ - [https://odont.ku.dk](https://odont.ku.dk)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Department of Odontology – University of Copenhagen
+ - [https://odontology.ku.dk](https://odontology.ku.dk)
+ - date_published: 2024-04-30T02:41:49.950503+00:00
+
+ ## Om universitetet – Københavns Universitet
+ - [https://om.ku.dk](https://om.ku.dk)
+ - date_published: 2024-04-30T02:42:07.321302+00:00
+
+ ## PhD at the Faculty of Humanities – University of Copenhagen
+ - [https://phd.hum.ku.dk](https://phd.hum.ku.dk)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Ph.d.-uddannelserne på Københavns Universitet – Københavns Universitet
+ - [https://phd.ku.dk](https://phd.ku.dk)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Department of Psychology – Department of Psychology - University of Copenhagen
+ - [https://psychology.ku.dk](https://psychology.ku.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Institut for Psykologi – Institut for Psykologi - Københavns Universitet
+ - [https://psy.ku.dk](https://psy.ku.dk)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Center for Quantum Devices – Københavns Universitet
+ - [https://qdev.nbi.ku.dk](https://qdev.nbi.ku.dk)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Research – University of Copenhagen
+ - [https://research.ku.dk](https://research.ku.dk)
+ - date_published: 2024-04-30T02:41:45.518368+00:00
+
+ ## Roots of Europe – Københavns Universitet
+ - [https://rootsofeurope.ku.dk](https://rootsofeurope.ku.dk)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Roots of Europe – Language, Culture, and Migrations
+ - [https://rootsofeurope.sites.ku.dk](https://rootsofeurope.sites.ku.dk)
+ - date_published: 2024-07-02T10:17:55.242928+00:00
+
+ ## Samarbejde – Københavns Universitet
+ - [https://samarbejde.ku.dk](https://samarbejde.ku.dk)
+ - date_published: 2024-04-30T02:42:24.650876+00:00
+
+ ## Det Samfundsvidenskabelige Fakultet – Københavns Universitet
+ - [https://samf.ku.dk](https://samf.ku.dk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Saxo-Instituttet – Københavns Universitet
+ - [https://saxo.ku.dk](https://saxo.ku.dk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## SCIENCE – Københavns Universitet
+ - [https://science.ku.dk](https://science.ku.dk)
+ - date_published: 2023-10-25T18:45:30.552340+00:00
+
+ ## Search – University of Copenhagen
+ - [https://search.ku.dk](https://search.ku.dk)
+ - date_published: 2024-04-30T02:41:38.724843+00:00
+
+ ## Skovskolen – Københavns Universitet
+ - [https://skovskolen.ku.dk](https://skovskolen.ku.dk)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Statens Naturhistoriske Museum – Københavns Universitet
+ - [https://snm.ku.dk](https://snm.ku.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Faculty of Social Sciences – University of Copenhagen
+ - [https://socialsciences.ku.dk](https://socialsciences.ku.dk)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Copenhagen Center for Social Data Science – University of Copenhagen
+ - [https://sodas.ku.dk](https://sodas.ku.dk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## Søgning – Københavns Universitet
  - [https://soeg.ku.dk](https://soeg.ku.dk)
  - date_published: 2024-04-30T02:42:28.327018+00:00
@@ -3920,92 +4008,4 @@ I box, ...
  ## American College of the Building Arts
  - [https://acba.edu](https://acba.edu)
  - date_published: 2024-02-08T17:01:49.403956+00:00
-
- ## Home | ACE
- - [https://ace.edu](https://ace.edu)
- - date_published: 2024-10-27T13:02:08.055106+00:00
-
- ## American College of Education - Modern Campus Catalog™
- - [https://catalog.ace.edu](https://catalog.ace.edu)
- - date_published: 2024-10-27T13:02:16.941302+00:00
-
- ## Carnegie Classification of Institutions of Higher Education®
- - [https://carnegieclassifications.acenet.edu](https://carnegieclassifications.acenet.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## American Council on Education
- - [https://www.acenet.edu](https://www.acenet.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Alabama Cooperative Extension System
- - [https://www.aces.edu](https://www.aces.edu)
- - date_published: 2024-07-02T13:05:20.545210+00:00
-
- ## Abilene Christian University
- - [https://acu.edu](https://acu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Adrian College | Liberal Arts College in MI
- - [https://adrian.edu](https://adrian.edu)
- - date_published: 2024-04-30T07:25:56.502677+00:00
-
- ## Blackboard Learn
- - [https://bb.adrian.edu](https://bb.adrian.edu)
- - date_published: 2004-07-21T03:18:08+00:00
-
- ## Air University
- - [https://www.airuniversity.af.edu](https://www.airuniversity.af.edu)
- - date_published: 2024-07-20T21:12:29.225657+00:00
-
- ## Welcome to the Air Force Institute of Technology / Celebrating 100 Year of Inspiration to Innovation / 1919 - 2019
- - [https://www.afit.edu](https://www.afit.edu)
- - date_published: 2024-06-30T03:00:23.905191+00:00
-
- ## Home - Africa University
- - [https://www.africau.edu](https://www.africau.edu)
- - date_published: 2024-06-29T13:51:17.129360+00:00
-
- ## Events Calendar
- - [https://events.aims.edu](https://events.aims.edu)
- - date_published: 2024-07-02T01:46:52.128313+00:00
-
- ## Association of Jesuit Colleges and Universities - HOME
- - [http://www.ajcunet.edu](http://www.ajcunet.edu)
- - date_published: 2024-10-18T22:34:29.777198+00:00
-
- ## The Aga Khan University
- - [https://www.aku.edu](https://www.aku.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UA System | University of Alaska System
- - [https://alaska.edu](https://alaska.edu)
- - date_published: 2024-05-07T20:41:09.067327+00:00
-
- ## UAF North
- - [https://canvas.alaska.edu](https://canvas.alaska.edu)
- - date_published: 2024-05-07T20:41:53.614034+00:00
-
- ## Home Page
- - [https://careers.alaska.edu](https://careers.alaska.edu)
- - date_published: 2024-07-01T22:03:27.535906+00:00
-
- ## Blackboard Learn
- - [https://classes.alaska.edu](https://classes.alaska.edu)
- - date_published: 2004-07-01T22:02:06+00:00
-
- ## UA ELMO
- - [https://elmo.alaska.edu](https://elmo.alaska.edu)
- - date_published: 2024-07-01T22:03:58.761092+00:00
-
- ## Home - Empower Alaska
- - [https://empower.alaska.edu](https://empower.alaska.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Give Now - UA
- - [https://engage.alaska.edu](https://engage.alaska.edu)
- - date_published: 2024-05-07T20:41:45.421621+00:00
-
- ## Directory Search
- - [https://people.alaska.edu](https://people.alaska.edu)
- - date_published: 2024-05-07T20:42:05.472604+00:00
 
