@@ -1,3 +1,67 @@
+ ## itziconference.eu
+ - [http://www.itziconference.eu](http://www.itziconference.eu)
+ - date_published: 2024-06-30T10:07:04.887439+00:00
+
+ ## Ivan Evtimov
+ - [https://ivanevtimov.eu](https://ivanevtimov.eu)
+ - date_published: 2021-07-06T18:26:13+00:00
+
+ ## ---
+ - [https://www.ivw.eu](https://www.ivw.eu)
+ - date_published: 2021-11-07T13:02:21+00:00
+
+ ## Eternal Sunshine of SpotlessMind1975 - Accettata ogni preghiera e rinunciato a ogni desiderio.
+ - [https://blog.iwashere.eu](https://blog.iwashere.eu)
+ - date_published: 2024-07-02T23:51:22.110780+00:00
+
+ ## ugBASIC forum - Index page
+ - [https://forum.ugbasic.iwashere.eu](https://forum.ugbasic.iwashere.eu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Marco Spedaletti | Software Problem Solver
+ - [https://iwashere.eu](https://iwashere.eu)
+ - date_published: 2024-07-02T23:51:23.507982+00:00
+
+ ## homepage [Retroprogramming by spotlessmind1975]
+ - [https://retroprogramming.iwashere.eu](https://retroprogramming.iwashere.eu)
+ - date_published: 2024-05-07T23:46:59.957525+00:00
+
+ ## ugBASIC 1.16.1 (sandbox)
+ - [https://sandbox.ugbasic.iwashere.eu](https://sandbox.ugbasic.iwashere.eu)
+ - date_published: 2024-05-07T23:47:07.940662+00:00
+
+ ## ugBASIC - An isomorphic BASIC language compiler for retrocomputers
+ - [https://ugbasic.iwashere.eu](https://ugbasic.iwashere.eu)
+ - date_published: 2023-10-25T19:10:40.211235+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://cy.jack-wolfskin.eu](https://cy.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:31.327113+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://ro.jack-wolfskin.eu](https://ro.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:18.844369+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://sk.jack-wolfskin.eu](https://sk.jack-wolfskin.eu)
+ - date_published: 2024-07-14T12:15:26.646643+00:00
+
+ ## Jake - Eat What You Need - Completely vegan & plant-based
+ - [https://jakeshake.eu](https://jakeshake.eu)
+ - date_published: 2024-08-18T08:12:36.451578+00:00
+
+ ## James O'Neill - Full Stack Web Developer
+ - [https://jamesoneill.eu](https://jamesoneill.eu)
+ - date_published: 2024-05-11T10:24:55.798131+00:00
+
+ ## Jan Kremer
+ - [https://jankremer.eu](https://jankremer.eu)
+ - date_published: 2023-11-15T10:39:22.705314+00:00
+
+ ## Jan Stępień
+ - [https://janstepien.eu](https://janstepien.eu)
+ - date_published: 2024-01-03T10:55:19+00:00
+
  ## Home Page - publication_tool_common
  - [http://publicationtool.jao.eu](http://publicationtool.jao.eu)
  - date_published: 2024-07-20T14:03:14.352584+00:00
@@ -3971,68 +4035,4 @@
  ## WBG Pooling
  - [https://wbg-pooling.eu](https://wbg-pooling.eu)
  - date_published: 2024-06-19T23:22:45.599974+00:00
-
- ## Hearken - Admin
- - [https://ems.wearehearken.eu](https://ems.wearehearken.eu)
- - date_published: 2024-07-07T03:47:03.979006+00:00
-
- ## WEAR Sustain
- - [https://wearsustain.eu](https://wearsustain.eu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## European Web3 Summit: May 2023, Brussels
- - [https://www.web3eurosummit.eu](https://www.web3eurosummit.eu)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## webapp4you
- - [https://common.webapp4you.eu](https://common.webapp4you.eu)
- - date_published: 2024-07-24T15:25:56.365031+00:00
-
- ## Webilum | Digitalna agencija za web dizajn i razvoj
- - [https://webilum.eu](https://webilum.eu)
- - date_published: 2023-12-20T05:13:24+00:00
-
- ## WebJax – Professional Online Casino Web Development
- - [https://www.webjax.eu](https://www.webjax.eu)
- - date_published: 2024-08-07T21:34:48.899783+00:00
-
- ## WebMan Design - Accessibility Ready WordPress Themes
- - [https://www.webmandesign.eu](https://www.webmandesign.eu)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Wt, C++ Web Toolkit  —  Emweb
- - [http://www.webtoolkit.eu](http://www.webtoolkit.eu)
- - date_published: 2024-11-08T19:41:05.762569+00:00
-
- ## webwewant.eu – webwewant.eu
- - [http://www.webwewant.eu](http://www.webwewant.eu)
- - date_published: 2024-07-02T22:44:26.304151+00:00
-
- ## Dermokosmetyki: Jakie Nowości Rewolucjonizują Pielęgnację Skóry?
- - [http://wecoop2.eu](http://wecoop2.eu)
- - date_published: 2024-10-15T15:34:38.170763+00:00
-
- ## weekly - semanario - hebdo - 週刊 - týdeník - Wochennotiz - 주간 - tygodnik
- - [https://weeklyosm.eu](https://weeklyosm.eu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Uptime Kuma
- - [https://status.weingaertner-it.eu](https://status.weingaertner-it.eu)
- - date_published: 2024-07-24T07:15:39.389477+00:00
-
- ## Jupyter Notebook Competition by WEkEO
- - [https://notebook.wekeo.eu](https://notebook.wekeo.eu)
- - date_published: 2024-05-10T05:00:56.786682+00:00
-
- ## Copernicus and Sentinel data at your fingertips
- - [https://wekeo.eu](https://wekeo.eu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Welcome Japan |
- - [https://welcome-japan.eu](https://welcome-japan.eu)
- - date_published: 2024-08-07T21:27:46.630429+00:00
-
- ## Home
- - [https://act.wemove.eu](https://act.wemove.eu)
- - date_published: 2023-10-25T19:12:09.146978+00:00
 

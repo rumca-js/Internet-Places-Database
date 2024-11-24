@@ -1,3 +1,11 @@
+ ## highwaylass
+ - [http://highwaylass.blogspot.com](http://highwaylass.blogspot.com)
+ - date_published: 2024-10-21T15:41:52.388638+00:00
+
+ ## Highway To Elf
+ - [http://highwaytoelf.blogspot.com](http://highwaytoelf.blogspot.com)
+ - date_published: 2024-09-06T01:27:43+00:00
+
  ## a slowboat to mediocrity
  - [https://hihosilvero.blogspot.com](https://hihosilvero.blogspot.com)
  - date_published: 2024-07-27T09:11:02+00:00
@@ -4001,12 +4009,4 @@
  ## on the dump
  - [http://landskipper.blogspot.com](http://landskipper.blogspot.com)
  - date_published: 2024-03-14T12:32:06+00:00
-
- ## Blogger
- - [http://landwithoutbread.blogspot.com](http://landwithoutbread.blogspot.com)
- - date_published: 2024-06-19T16:57:09.870804+00:00
-
- ## Language Evolution
- - [https://langevo.blogspot.com](https://langevo.blogspot.com)
- - date_published: 2024-05-07T21:47:05.988289+00:00
 

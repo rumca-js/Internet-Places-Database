@@ -1,3 +1,63 @@
+ ## University of Turku
+ - [https://utu.academia.edu](https://utu.academia.edu)
+ - date_published: 2024-04-30T02:58:09.045137+00:00
+
+ ## Utrecht University
+ - [https://uu.academia.edu](https://uu.academia.edu)
+ - date_published: 2024-04-30T02:56:43.182045+00:00
+
+ ## Vilnius University
+ - [https://vu-lt.academia.edu](https://vu-lt.academia.edu)
+ - date_published: 2024-04-30T02:56:23.161974+00:00
+
+ ## Vrije Universiteit Amsterdam
+ - [https://vu-nl.academia.edu](https://vu-nl.academia.edu)
+ - date_published: 2024-04-30T02:59:28.214088+00:00
+
+ ## University of Warwick
+ - [https://warwick.academia.edu](https://warwick.academia.edu)
+ - date_published: 2024-04-30T03:02:32.869312+00:00
+
+ ## Western University Canada
+ - [https://westernu.academia.edu](https://westernu.academia.edu)
+ - date_published: 2024-04-30T02:50:30.035037+00:00
+
+ ## University of Wisconsin-Madison
+ - [https://wisc.academia.edu](https://wisc.academia.edu)
+ - date_published: 2024-04-30T03:00:54.514977+00:00
+
+ ## Washington University in St. Louis
+ - [https://wustl.academia.edu](https://wustl.academia.edu)
+ - date_published: 2024-04-30T02:50:25.947691+00:00
+
+ ## West Virginia University
+ - [https://wvu.academia.edu](https://wvu.academia.edu)
+ - date_published: 2024-04-30T02:59:22.255414+00:00
+
+ ## Academy of Art University
+ - [https://academyart.edu](https://academyart.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Academy of Art University
+ - [https://catalog.academyart.edu](https://catalog.academyart.edu)
+ - date_published: 2024-07-07T04:43:02.715930+00:00
+
+ ## Academy of Art University Media Center
+ - [https://mediacenter.academyart.edu](https://mediacenter.academyart.edu)
+ - date_published: 2024-07-07T04:42:41.886477+00:00
+
+ ## Student Life and Services
+ - [https://my.academyart.edu](https://my.academyart.edu)
+ - date_published: 2024-07-07T04:42:46.228344+00:00
+
+ ## Academy of Art University Spring Show
+ - [https://springshow.academyart.edu](https://springshow.academyart.edu)
+ - date_published: 2024-07-07T04:43:01.520579+00:00
+
+ ## American College of the Building Arts
+ - [https://acba.edu](https://acba.edu)
+ - date_published: 2024-02-08T17:01:49.403956+00:00
+
  ## Home | ACE
  - [https://ace.edu](https://ace.edu)
  - date_published: 2024-10-27T13:02:08.055106+00:00
@@ -3942,64 +4002,4 @@
  ## Homepage - Office of the Registrar
  - [https://registrar.berkeley.edu](https://registrar.berkeley.edu)
  - date_published: 2024-04-16T00:00:00+00:00
-
- ## Undergraduate Research & Scholarships – University California, Berkeley
- - [https://research.berkeley.edu](https://research.berkeley.edu)
- - date_published: 2024-07-13T13:04:37.990596+00:00
-
- ## Welcome to Research IT | Research IT
- - [http://research-it.berkeley.edu](http://research-it.berkeley.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Inclusive Restrooms | Facilities Services
- - [https://restrooms.berkeley.edu](https://restrooms.berkeley.edu)
- - date_published: 2024-08-08T21:40:05+00:00
-
- ## RISE Camp – RISE Camp
- - [http://risecamp.berkeley.edu](http://risecamp.berkeley.edu)
- - date_published: 2024-06-22T10:19:05.935208+00:00
-
- ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
- - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
- - date_published: 2021-04-26T00:00:00+00:00
-
- ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
- - [http://riselab.cs.berkeley.edu](http://riselab.cs.berkeley.edu)
- - date_published: 2021-04-26T00:00:00+00:00
-
- ## Home | Risk Services
- - [http://riskservices.berkeley.edu](http://riskservices.berkeley.edu)
- - date_published: 2024-07-22T07:45:02+00:00
-
- ## Berkeley Robotics and Intelligent Machines Lab
- - [http://robotics.eecs.berkeley.edu](http://robotics.eecs.berkeley.edu)
- - date_published: 2018-05-03T00:01:31+00:00
-
- ## Roorda Lab
- - [http://roorda.vision.berkeley.edu](http://roorda.vision.berkeley.edu)
- - date_published: 2017-04-18T19:12:58+00:00
-
- ## Home | Research, Teaching, and Learning
- - [https://rtl.berkeley.edu](https://rtl.berkeley.edu)
- - date_published: 2024-07-02T16:54:40+00:00
-
- ## UC Berkeley Sutardja Center for Entrepreneurship & Technology - Home - UC Berkeley Sutardja Center
- - [https://scet.berkeley.edu](https://scet.berkeley.edu)
- - date_published: 2023-06-07T00:00:00+00:00
-
- ## Open Computing Facility at UC Berkeley
- - [https://secure.ocf.berkeley.edu](https://secure.ocf.berkeley.edu)
- - date_published: 2024-10-22T17:45:55.304038+00:00
-
- ## Home | Information Security Office
- - [https://security.berkeley.edu](https://security.berkeley.edu)
- - date_published: 2024-07-08T14:52:04+00:00
-
- ## UC Berkeley Seismology Lab
- - [http://seismo.berkeley.edu](http://seismo.berkeley.edu)
- - date_published: 2024-07-19T16:15:50+00:00
-
- ## SETI@home
- - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
- - date_published: 2023-10-25T18:48:06.909632+00:00
 

@@ -1,3 +1,63 @@
+ ## Arcus Center for Social Justice Leadership –  | Kalamazoo College
+ - [https://arcuscenter.kzoo.edu](https://arcuscenter.kzoo.edu)
+ - date_published: 2024-05-07T19:24:52.364476+00:00
+
+ ## Art and Art History –  | Kalamazoo College
+ - [https://art.kzoo.edu](https://art.kzoo.edu)
+ - date_published: 2024-05-07T19:22:26.978143+00:00
+
+ ## Black Faculty and Staff Association –  | Kalamazoo College
+ - [https://bafsa.kzoo.edu](https://bafsa.kzoo.edu)
+ - date_published: 2024-05-07T19:21:24.545397+00:00
+
+ ## Student Accounts –  | Kalamazoo College
+ - [https://billing.kzoo.edu](https://billing.kzoo.edu)
+ - date_published: 2024-05-07T19:23:13.966047+00:00
+
+ ## Biology –  | Kalamazoo College
+ - [https://biology.kzoo.edu](https://biology.kzoo.edu)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Room Reservations –  | Kalamazoo College
+ - [https://bookaroom.kzoo.edu](https://bookaroom.kzoo.edu)
+ - date_published: 2024-05-07T19:24:13.323399+00:00
+
+ ## BrandK –  | Kalamazoo College
+ - [https://brandk.kzoo.edu](https://brandk.kzoo.edu)
+ - date_published: 2024-05-07T19:24:10.909125+00:00
+
+ ## DSpace
+ - [https://cache.kzoo.edu](https://cache.kzoo.edu)
+ - date_published: 2024-02-27T07:26:20+00:00
+
+ ## Campus Safety –  | Kalamazoo College
+ - [https://campussafety.kzoo.edu](https://campussafety.kzoo.edu)
+ - date_published: 2024-05-07T19:23:30.879105+00:00
+
+ ## Center for Career and Professional Development –  | Kalamazoo College
+ - [https://career.kzoo.edu](https://career.kzoo.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Careers in Health –  | Kalamazoo College
+ - [https://careersinhealth.kzoo.edu](https://careersinhealth.kzoo.edu)
+ - date_published: 2024-05-07T19:22:56.389888+00:00
+
+ ## The Cauldron – Kalamazoo's annual literary and visual arts magazine –  | Kalamazoo College
+ - [https://cauldron.kzoo.edu](https://cauldron.kzoo.edu)
+ - date_published: 2024-05-07T19:21:55.073843+00:00
+
+ ## Center for Civic Engagement –  | Kalamazoo College
+ - [https://cce.kzoo.edu](https://cce.kzoo.edu)
+ - date_published: 2024-05-07T19:25:04.811810+00:00
+
+ ## Center for Complex Systems Studies –  | Kalamazoo College
+ - [https://ccss.kzoo.edu](https://ccss.kzoo.edu)
+ - date_published: 2024-05-07T19:22:01.068287+00:00
+
+ ## Department of Chemistry and Biochemistry –  | Kalamazoo College
+ - [https://chemistry.kzoo.edu](https://chemistry.kzoo.edu)
+ - date_published: 2024-05-07T19:22:40.957290+00:00
+
  ## Center for International Programs –  | Kalamazoo College
  - [https://cip.kzoo.edu](https://cip.kzoo.edu)
  - date_published: 2024-05-07T19:21:49.147558+00:00
@@ -370,6 +430,10 @@
  ## Home - LaGuardia Community College
  - [https://www.laguardia.edu](https://www.laguardia.edu)
  - date_published: 2022-11-04T15:21:26+00:00
+
+ ## Lake Forest College
+ - [https://www.lakeforest.edu](https://www.lakeforest.edu)
+ - date_published: 2024-11-23T05:16:52.198227+00:00
 
  ## Pauls Online Math Notes
  - [https://tutorial.math.lamar.edu](https://tutorial.math.lamar.edu)
@@ -3941,68 +4005,4 @@
  ## Michigan State University College of Law
  - [http://www.law.msu.edu](http://www.law.msu.edu)
  - date_published: 2024-06-06T18:40:37+00:00
-
- ## MSUvote
- - [https://www.msuvote.msu.edu](https://www.msuvote.msu.edu)
- - date_published: 2024-07-01T15:43:26.868290+00:00
-
- ## Home - Department of Physics & Astronomy
- - [http://www.pa.msu.edu](http://www.pa.msu.edu)
- - date_published: 2024-06-29T22:27:35.601155+00:00
-
- ## Welcome | MSU - Resource Center for Persons with Disabilities
- - [http://www.rcpd.msu.edu](http://www.rcpd.msu.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home
- - [http://www.servicelearning.msu.edu](http://www.servicelearning.msu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## MSU Texas
- - [http://www.msutexas.edu](http://www.msutexas.edu)
- - date_published: 2024-09-11T13:46:38+00:00
-
- ## Admission & Financial Aid
- - [https://admission.mtholyoke.edu](https://admission.mtholyoke.edu)
- - date_published: 2024-05-11T09:25:06.487256+00:00
-
- ## Mount Holyoke
- - [https://athletics.mtholyoke.edu](https://athletics.mtholyoke.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Mount Holyoke College
- - [https://embark.mtholyoke.edu](https://embark.mtholyoke.edu)
- - date_published: 2024-05-11T09:25:14.535296+00:00
-
- ## Events Calendar
- - [https://events.mtholyoke.edu](https://events.mtholyoke.edu)
- - date_published: 2024-05-11T09:25:09.075690+00:00
-
- ## MHC Campus Map
- - [https://map.mtholyoke.edu](https://map.mtholyoke.edu)
- - date_published: 2024-04-15T17:00:13+00:00
-
- ## Mount Holyoke College
- - [https://mtholyoke.edu](https://mtholyoke.edu)
- - date_published: 2024-03-22T21:54:23.920926+00:00
-
- ## Sign In
- - [https://my.mtholyoke.edu](https://my.mtholyoke.edu)
- - date_published: 2024-07-14T04:43:44.099620+00:00
-
- ## MTSU Jobs | Middle Tennessee State University
- - [https://careers.mtsu.edu](https://careers.mtsu.edu)
- - date_published: 2024-07-01T15:46:05.831281+00:00
-
- ## Middle Tennessee State University - Acalog ACMS™
- - [https://catalog.mtsu.edu](https://catalog.mtsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | DSI
- - [https://dsi.mtsu.edu](https://dsi.mtsu.edu)
- - date_published: 2024-07-01T15:46:27.453587+00:00
-
- ## WSO2 Management Console
- - [https://eis.mtsu.edu](https://eis.mtsu.edu)
- - date_published: 2024-07-01T15:47:53.812048+00:00
 

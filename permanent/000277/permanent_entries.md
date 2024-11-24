@@ -1,3 +1,67 @@
+ ## Departamento de Análisis Económico Aplicado
+ - [https://daea.ua.es](https://daea.ua.es)
+ - date_published: 2024-06-16T22:32:31.696057+00:00
+
+ ## Departamento de Análisis Geográfico Regional y Geografía Física
+ - [https://dagrygf.ua.es](https://dagrygf.ua.es)
+ - date_published: 2024-06-16T22:33:27.512408+00:00
+
+ ## Departamento de Biotecnología
+ - [https://dbt.ua.es](https://dbt.ua.es)
+ - date_published: 2024-06-16T22:33:19.978290+00:00
+
+ ## Department of Environmental Sciences and Natural Resources
+ - [https://dcarn.ua.es](https://dcarn.ua.es)
+ - date_published: 2024-06-16T22:35:45.852858+00:00
+
+ ## Departamento de Construcciones Arquitectónicas
+ - [https://dca.ua.es](https://dca.ua.es)
+ - date_published: 2024-06-16T22:35:04.686593+00:00
+
+ ## Departamento de Ciencias Histórico-Jurídicas
+ - [https://dchj.ua.es](https://dchj.ua.es)
+ - date_published: 2024-06-16T22:35:21.556520+00:00
+
+ ## Departamento de Ciencias del Mar y Biología Aplicada
+ - [https://dcmba.ua.es](https://dcmba.ua.es)
+ - date_published: 2024-06-16T22:31:52.878948+00:00
+
+ ## Departamento de Comunicación y Psicología Social
+ - [https://dcps.ua.es](https://dcps.ua.es)
+ - date_published: 2024-06-16T22:31:06.086372+00:00
+
+ ## Environment and Earth Sciences Department
+ - [https://dctma.ua.es](https://dctma.ua.es)
+ - date_published: 2024-06-16T22:30:57.793656+00:00
+
+ ## Civil Law Department
+ - [https://ddc.ua.es](https://ddc.ua.es)
+ - date_published: 2024-06-16T22:33:55.283969+00:00
+
+ ## Departamento de Didáctica General y Didácticas Específicas
+ - [https://ddgde.ua.es](https://ddgde.ua.es)
+ - date_published: 2024-06-16T22:30:24.878095+00:00
+
+ ## Department of Public International Law and Criminal Law
+ - [https://ddipdp.ua.es](https://ddipdp.ua.es)
+ - date_published: 2024-06-16T22:32:43.920649+00:00
+
+ ## Home. Department of commercial law and procedural law
+ - [https://ddmdp.ua.es](https://ddmdp.ua.es)
+ - date_published: 2024-06-16T22:34:19.050994+00:00
+
+ ## Departamento de Derecho del Trabajo y de la Seguridad Social
+ - [https://ddtss.ua.es](https://ddtss.ua.es)
+ - date_published: 2024-06-16T22:34:09.684836+00:00
+
+ ## Department of Applied Economics and Economic Policy
+ - [https://deape.ua.es](https://deape.ua.es)
+ - date_published: 2024-06-16T22:33:22.395995+00:00
+
+ ## Department of Ecology
+ - [https://deco.ua.es](https://deco.ua.es)
+ - date_published: 2024-06-16T22:32:22.173542+00:00
+
  ## University Ombudsman
  - [https://defensoria.ua.es](https://defensoria.ua.es)
  - date_published: 2024-10-15T03:17:03.718606+00:00
@@ -3949,68 +4013,4 @@
  ## Kowalstwo obłoków
  - [https://bs-blog.clouds-forge.eu](https://bs-blog.clouds-forge.eu)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## Accueil - Club Vosgien
- - [https://www.club-vosgien.eu](https://www.club-vosgien.eu)
- - date_published: 2018-09-24T07:29:25+00:00
-
- ## Homepage | European Cluster Collaboration Platform
- - [https://clustercollaboration.eu](https://clustercollaboration.eu)
- - date_published: 2024-09-13T12:44:59+00:00
-
- ## ▷ CML Transport & Logistik GmbH & Co. | Truck & Intermodal
- - [https://cm-log.eu](https://cm-log.eu)
- - date_published: 2022-01-11T09:21:15+00:00
-
- ## cmotion | Lens and Camera Control Systems
- - [http://www.cmotion.eu](http://www.cmotion.eu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## CoARA - Coalition for Advancing Research Assessment
- - [https://coara.eu](https://coara.eu)
- - date_published: 2024-10-20T04:39:27.462801+00:00
-
- ## Codeberg Service Status
- - [https://status.codeberg.eu](https://status.codeberg.eu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home
- - [https://blog.codeinside.eu](https://blog.codeinside.eu)
- - date_published: 2024-05-15T20:23:33+00:00
-
- ## Code Inside Hub
- - [https://www.codeinside.eu](https://www.codeinside.eu)
- - date_published: 2024-09-18T05:30:36+00:00
-
- ## Codit - design, build and run, Azure integration solutions
- - [https://www.codit.eu](https://www.codit.eu)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Home - Cognor
- - [https://cognorholding.eu](https://cognorholding.eu)
- - date_published: 2020-08-18T00:00:00+00:00
-
- ## Coimbra Group Universities
- - [https://coimbra-group.eu](https://coimbra-group.eu)
- - date_published: 2024-04-29T07:01:47.991719+00:00
-
- ## College of Europe | Collège d'Europe | Coleurope
- - [http://coleurope.eu](http://coleurope.eu)
- - date_published: 2024-06-17T10:58:47+00:00
-
- ## CollEx - Persée
- - [https://www.collexpersee.eu](https://www.collexpersee.eu)
- - date_published: 2024-06-16T21:06:11.245493+00:00
-
- ## Colors TCG
- - [https://colors-tcg.eu](https://colors-tcg.eu)
- - date_published: 2024-07-10T11:35:42.326827+00:00
-
- ## ColosseumTicket | Tickets - culture and events | Prague, Brno, Ostrava and more.
- - [https://online.colosseum.eu](https://online.colosseum.eu)
- - date_published: 2024-07-17T08:36:34.052401+00:00
-
- ## ColosseumTicket | Tickets - culture and events | Prague, Brno, Ostrava and more.
- - [https://tickets.colosseum.eu](https://tickets.colosseum.eu)
- - date_published: 2024-07-17T08:36:47.451347+00:00
 

@@ -1,3 +1,63 @@
+ ## Undergraduate Research & Scholarships – University California, Berkeley
+ - [https://research.berkeley.edu](https://research.berkeley.edu)
+ - date_published: 2024-07-13T13:04:37.990596+00:00
+
+ ## Welcome to Research IT | Research IT
+ - [http://research-it.berkeley.edu](http://research-it.berkeley.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Inclusive Restrooms | Facilities Services
+ - [https://restrooms.berkeley.edu](https://restrooms.berkeley.edu)
+ - date_published: 2024-08-08T21:40:05+00:00
+
+ ## RISE Camp – RISE Camp
+ - [http://risecamp.berkeley.edu](http://risecamp.berkeley.edu)
+ - date_published: 2024-06-22T10:19:05.935208+00:00
+
+ ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+ - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
+ - date_published: 2021-04-26T00:00:00+00:00
+
+ ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+ - [http://riselab.cs.berkeley.edu](http://riselab.cs.berkeley.edu)
+ - date_published: 2021-04-26T00:00:00+00:00
+
+ ## Home | Risk Services
+ - [http://riskservices.berkeley.edu](http://riskservices.berkeley.edu)
+ - date_published: 2024-07-22T07:45:02+00:00
+
+ ## Berkeley Robotics and Intelligent Machines Lab
+ - [http://robotics.eecs.berkeley.edu](http://robotics.eecs.berkeley.edu)
+ - date_published: 2018-05-03T00:01:31+00:00
+
+ ## Roorda Lab
+ - [http://roorda.vision.berkeley.edu](http://roorda.vision.berkeley.edu)
+ - date_published: 2017-04-18T19:12:58+00:00
+
+ ## Home | Research, Teaching, and Learning
+ - [https://rtl.berkeley.edu](https://rtl.berkeley.edu)
+ - date_published: 2024-07-02T16:54:40+00:00
+
+ ## UC Berkeley Sutardja Center for Entrepreneurship & Technology - Home - UC Berkeley Sutardja Center
+ - [https://scet.berkeley.edu](https://scet.berkeley.edu)
+ - date_published: 2023-06-07T00:00:00+00:00
+
+ ## Open Computing Facility at UC Berkeley
+ - [https://secure.ocf.berkeley.edu](https://secure.ocf.berkeley.edu)
+ - date_published: 2024-10-22T17:45:55.304038+00:00
+
+ ## Home | Information Security Office
+ - [https://security.berkeley.edu](https://security.berkeley.edu)
+ - date_published: 2024-07-08T14:52:04+00:00
+
+ ## UC Berkeley Seismology Lab
+ - [http://seismo.berkeley.edu](http://seismo.berkeley.edu)
+ - date_published: 2024-07-19T16:15:50+00:00
+
+ ## SETI@home
+ - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
+ - date_published: 2023-10-25T18:48:06.909632+00:00
+
  ## SETI@home
  - [https://setiathome.ssl.berkeley.edu](https://setiathome.ssl.berkeley.edu)
  - date_published: 2024-04-30T03:27:57.598323+00:00
@@ -3959,64 +4019,4 @@ Home
  ## Home - labs
  - [https://labs.ri.cmu.edu](https://labs.ri.cmu.edu)
  - date_published: 2024-07-16T23:23:43+00:00
-
- ## LEAF
- - [https://leaf.cmu.edu](https://leaf.cmu.edu)
- - date_published: 2021-12-19T13:47:01+00:00
-
- ## Home | CMU Libraries
- - [https://library.cmu.edu](https://library.cmu.edu)
- - date_published: 2024-04-30T03:46:12.715013+00:00
-
- ## Andrew Mailman Mailing Lists at Carnegie Mellon
- - [http://lists.andrew.cmu.edu](http://lists.andrew.cmu.edu)
- - date_published: 2018-10-16T16:41:57+00:00
-
- ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
- - [http://lti.cmu.edu](http://lti.cmu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
- - [https://lti.cs.cmu.edu](https://lti.cs.cmu.edu)
- - date_published: 2024-06-12T21:50:46+00:00
-
- ## The Link - The Magazine of CMU's School of Computer Science
- - [https://magazine.cs.cmu.edu](https://magazine.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:29.941665+00:00
-
- ## MAGVIT
- - [https://magvit.cs.cmu.edu](https://magvit.cs.cmu.edu)
- - date_published: 2024-01-04T15:47:45+00:00
-
- ## Department of Mathematical Sciences
- - [https://math.cmu.edu](https://math.cmu.edu)
- - date_published: 2011-04-05T14:01:54+00:00
-
- ## Michael Trick's Operations Research Page
- - [http://mat.tepper.cmu.edu](http://mat.tepper.cmu.edu)
- - date_published: 2018-07-25T19:47:07+00:00
-
- ## Introducing the MemexQA dataset
- - [https://memexqa.cs.cmu.edu](https://memexqa.cs.cmu.edu)
- - date_published: 2024-07-13T03:18:00.941688+00:00
-
- ## Miller Institute for Contemporary Art
- - [http://miller-ica.cmu.edu](http://miller-ica.cmu.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Machine Learning | CMU | Carnegie Mellon University
- - [https://ml.cmu.edu](https://ml.cmu.edu)
- - date_published: 2018-09-28T19:15:36+00:00
-
- ## MLSP Carnegie Mellon University
- - [http://mlsp.cs.cmu.edu](http://mlsp.cs.cmu.edu)
- - date_published: 2018-02-14T20:47:08+00:00
-
- ## Morphing Matter Lab Directed by Lining Yao
- - [https://morphingmatter.cs.cmu.edu](https://morphingmatter.cs.cmu.edu)
- - date_published: 2024-02-25T08:48:26.700946+00:00
-
- ## Home - MRSD | Master of Science - Robotic Systems Development Program
- - [https://mrsd.ri.cmu.edu](https://mrsd.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:11.873698+00:00
 

@@ -1,3 +1,55 @@
+ ## Pragmatic Emacs
+ - [https://pragmaticemacs.wordpress.com](https://pragmaticemacs.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Pratt Courses
+ - [https://prattcourses.wordpress.com](https://prattcourses.wordpress.com)
+ - date_published: 2024-02-08T16:35:17.664852+00:00
+
+ ## Prat Vemana's Blog
+ - [https://pratvemana.wordpress.com](https://pratvemana.wordpress.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Praxis
+ - [http://praxisblog.wordpress.com](http://praxisblog.wordpress.com)
+ - date_published: 2024-06-30T04:27:06.466596+00:00
+
+ ## PrayogShala
+ - [https://prayogshala.wordpress.com](https://prayogshala.wordpress.com)
+ - date_published: 2024-06-28T20:06:03.388382+00:00
+
+ ## PRDeving – typeof  FUN
+ - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
+ - date_published: 2023-10-25T18:14:52.804446+00:00
+
+ ## Fred Klonsky
+ - [http://preaprez.wordpress.com](http://preaprez.wordpress.com)
+ - date_published: 2024-06-25T00:11:49+00:00
+
+ ## Predesign for Safe Driving App
+ - [https://predesign.wordpress.com](https://predesign.wordpress.com)
+ - date_published: 2024-06-20T04:05:40.032826+00:00
+
+ ## predictablyunconventional
+ - [https://predictablyunconventional.wordpress.com](https://predictablyunconventional.wordpress.com)
+ - date_published: 2024-10-26T16:18:43.173723+00:00
+
+ ## Writing To Be Read
+ - [https://premkumarrao.wordpress.com](https://premkumarrao.wordpress.com)
+ - date_published: 2024-10-17T23:10:45.122382+00:00
+
+ ## Present Discontent
+ - [http://presentdiscontent.wordpress.com](http://presentdiscontent.wordpress.com)
+ - date_published: 2024-06-27T10:25:29.214481+00:00
+
+ ## Pressed Leaf Reader
+ - [https://pressedleafreader.wordpress.com](https://pressedleafreader.wordpress.com)
+ - date_published: 2024-10-22T18:49:43.356896+00:00
+
+ ## preston history
+ - [https://prestonhistory.wordpress.com](https://prestonhistory.wordpress.com)
+ - date_published: 2024-07-17T05:27:22.505943+00:00
+
  ## Nic Prigg's Blog
  - [https://priggy.wordpress.com](https://priggy.wordpress.com)
  - date_published: 2024-10-21T15:41:11.633527+00:00
@@ -3960,56 +4012,4 @@
  ## The Speech Bubble
  - [http://thegothamrogue.wordpress.com](http://thegothamrogue.wordpress.com)
  - date_published: 2024-07-17T00:00:00+00:00
-
- ## The Greasy Goblin
- - [https://thegreasygoblin.wordpress.com](https://thegreasygoblin.wordpress.com)
- - date_published: 2024-10-31T18:11:08.529722+00:00
-
- ## (no title)
- - [https://thegrimdarkharvest.wordpress.com](https://thegrimdarkharvest.wordpress.com)
- - date_published: 2024-06-18T23:40:37.129051+00:00
-
- ## Helpless Dancer
- - [http://thehelplessdancer.wordpress.com](http://thehelplessdancer.wordpress.com)
- - date_published: 2024-06-27T06:45:10.085662+00:00
-
- ## The HFT Guy
- - [https://thehftguy.wordpress.com](https://thehftguy.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## theHigherGeometer
- - [https://thehighergeometer.wordpress.com](https://thehighergeometer.wordpress.com)
- - date_published: 2024-05-07T16:15:52.320063+00:00
-
- ## The History of How We Play – Video game history, pontifications, and other ludic touches.
- - [https://thehistoryofhowweplay.wordpress.com](https://thehistoryofhowweplay.wordpress.com)
- - date_published: 2023-10-25T18:17:25.574500+00:00
-
- ## Private Site
- - [https://thehurstreview.wordpress.com](https://thehurstreview.wordpress.com)
- - date_published: 2024-05-07T14:44:52.981568+00:00
-
- ## The Identity Function
- - [https://theidentityfunction.wordpress.com](https://theidentityfunction.wordpress.com)
- - date_published: 2024-06-30T09:25:34.613235+00:00
-
- ## The Imperfect Modeller
- - [https://theimperfectmodeller.wordpress.com](https://theimperfectmodeller.wordpress.com)
- - date_published: 2024-10-31T17:26:27.757768+00:00
-
- ## Private Site
- - [http://theinkedautist20.wordpress.com](http://theinkedautist20.wordpress.com)
- - date_published: 2024-09-03T23:02:25.241857+00:00
-
- ## The Inquisitive Anystid
- - [https://theinquisitiveanystid.wordpress.com](https://theinquisitiveanystid.wordpress.com)
- - date_published: 2024-10-19T05:15:13.549649+00:00
-
- ## The Invasion Network
- - [https://theinvasionnetwork.wordpress.com](https://theinvasionnetwork.wordpress.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Paul Isaacs' Blog
- - [http://theisaacs22.wordpress.com](http://theisaacs22.wordpress.com)
- - date_published: 2024-09-03T23:09:28.290338+00:00
 

@@ -1,3 +1,83 @@
+ ## LBRY Foundation
+ - [https://lbry.org](https://lbry.org)
+ - date_published: 2024-05-04T12:02:45.698005+00:00
+
+ ## מדע גדול, בקטנה - מדע גדול, בקטנה
+ - [https://lbscience.org](https://lbscience.org)
+ - date_published: 2024-06-30T09:10:43.380741+00:00
+
+ ## Large Binocular Telescope Observatory
+ - [http://www.lbto.org](http://www.lbto.org)
+ - date_published: 2024-08-18T20:23:40.389648+00:00
+
+ ## Home - Liberty Counsel
+ - [https://lc.org](https://lc.org)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Lavender Folk and Country Dancers
+ - [http://lcfd.org](http://lcfd.org)
+ - date_published: 2024-08-20T05:18:54.508286+00:00
+
+ ## The Lutheran Church—Missouri Synod
+ - [https://www.lcms.org](https://www.lcms.org)
+ - date_published: 2024-08-11T23:14:16.685288+00:00
+
+ ## LCompilers
+ - [https://lcompilers.org](https://lcompilers.org)
+ - date_published: 2021-12-22T21:11:15+00:00
+
+ ## Workshops on Languages and Compilers for Parallel Computing (LCPC)
+ - [http://lcpcworkshop.org](http://lcpcworkshop.org)
+ - date_published: 2023-06-21T16:19:40+00:00
+
+ ## LCR-Rouge.org : Love Comparateur Rencontre
+ - [http://www.lcr-rouge.org](http://www.lcr-rouge.org)
+ - date_published: 2024-10-21T18:16:48.546777+00:00
+
+ ## Home
+ - [https://www.lcsb.org](https://www.lcsb.org)
+ - date_published: 2024-07-03T14:55:51.961875+00:00
+
+ ## LCV - Build Power for People and the Planet
+ - [https://www.lcv.org](https://www.lcv.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Leela Chess Zero
+ - [https://lczero.org](https://lczero.org)
+ - date_published: 2024-07-04T05:06:04+00:00
+
+ ## Remix Starter
+ - [https://www.ldatadao.org](https://www.ldatadao.org)
+ - date_published: 2024-09-14T07:49:08.238863+00:00
+
+ ## Linked Data Benchmark Council
+ - [http://ldbcouncil.org](http://ldbcouncil.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## LDH (Ligue des droits de l'Homme)
+ - [https://www.ldh-france.org](https://www.ldh-france.org)
+ - date_published: 2024-07-02T21:26:51.351199+00:00
+
+ ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
+ - [https://byupathway.lds.org](https://byupathway.lds.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Homepage - The Church of Jesus Christ of Latter-day Saints
+ - [http://lds.org](http://lds.org)
+ - date_published: 2024-07-20T21:13:50.806303+00:00
+
+ ## The Church of Jesus Christ of Latter-day Saints
+ - [https://edge.ldscdn.org](https://edge.ldscdn.org)
+ - date_published: 2024-05-28T19:15:51+00:00
+
+ ## PeopleGrove
+ - [http://www.ldsces.org](http://www.ldsces.org)
+ - date_published: 2024-08-11T11:23:03+00:00
+
+ ## Philanthropies | Donation Page
+ - [https://ldsp-pay.ldschurch.org](https://ldsp-pay.ldschurch.org)
+ - date_published: 2024-04-30T03:32:29.018562+00:00
+
  ## Philanthropies
  - [https://ldsphilanthropies.org](https://ldsphilanthropies.org)
  - date_published: 2024-04-30T03:32:16.947662+00:00
@@ -3955,86 +4035,4 @@ Intro
  ## Louisville Public Media
  - [http://events.lpm.org](http://events.lpm.org)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## Louisville Public Media
- - [https://lpm.org](https://lpm.org)
- - date_published: 2023-11-06T14:35:50.495843+00:00
-
- ## LPM Store
- - [https://shop.lpm.org](https://shop.lpm.org)
- - date_published: 2024-07-07T06:41:02.139504+00:00
-
- ## LPython
- - [https://dev.lpython.org](https://dev.lpython.org)
- - date_published: 2023-09-17T05:05:46+00:00
-
- ## https://lpython.org
- - [https://lpython.org](https://lpython.org)
- - date_published: 2023-10-25T21:39:41.946449+00:00
-
- ## Wildlife Experience in the Heart of Chicago | Lincoln Park Zoo
- - [https://www.lpzoo.org](https://www.lpzoo.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Lloyd's Register trusted advice in the maritime industry | LR
- - [https://www.lr.org](https://www.lr.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
- - [https://lrec-coling-2024.org](https://lrec-coling-2024.org)
- - date_published: 2024-07-10T05:44:35.911089+00:00
-
- ## LREC 2022  - LREC 2022
- - [https://lrec2022.lrec-conf.org](https://lrec2022.lrec-conf.org)
- - date_published: 2024-08-07T14:56:21.516374+00:00
-
- ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
- - [https://lrec-coling-2024.lrec-conf.org](https://lrec-coling-2024.lrec-conf.org)
- - date_published: 2024-09-13T18:00:46.310712+00:00
-
- ## LREC Conferences
- - [http://www.lrec-conf.org](http://www.lrec-conf.org)
- - date_published: 2023-05-30T09:40:46+00:00
-
- ## The Long Riders Guild Academic Foundation
- - [https://lrgaf.org](https://lrgaf.org)
- - date_published: 2020-05-15T08:45:33+00:00
-
- ## LRJC
- - [https://www.lrjc.org](https://www.lrjc.org)
- - date_published: 2024-05-06T16:18:35.856992+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://lronhubbard.org](https://lronhubbard.org)
- - date_published: 2024-06-06T19:38:05+00:00
- - tags: ['scientology']
-
- ## The Light Rail Transit Association | The Light Rail Transit Association
- - [http://www.lrta.org](http://www.lrta.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## LRUG | London Ruby User Group
- - [http://lrug.org](http://lrug.org)
- - date_published: 2024-07-22T20:21:23+00:00
-
- ## Loading...
- - [http://os.lsac.org](http://os.lsac.org)
- - date_published: 2024-08-19T18:23:56.286437+00:00
-
- ## LSA
- - [http://www.lsadc.org](http://www.lsadc.org)
- - date_published: 2024-07-02T06:17:20.267722+00:00
-
- ## The Logistics & Supply Chain Management Society – The Regional Professional Body for Logistics and Supply Chain Practitioners
- - [http://lscms.org](http://lscms.org)
- - date_published: 2024-09-12T15:25:13.218583+00:00
-
- ## Liceo Scientifico Galileo Galilei
- - [https://www.lsgalilei.org](https://www.lsgalilei.org)
- - date_published: 2024-10-13T07:21:36+00:00
-
- ## The L-Space Web - A Terry Pratchett / Discworld Web® Site
- - [https://www.lspace.org](https://www.lspace.org)
- - date_published: 2023-11-16T07:01:44.475059+00:00
- - tags: ['discworld', 'terry pratchett', 'fantasy']
 

@@ -1,3 +1,67 @@
+ ## Digital Experience Group | University Communication & Marketing | Nebraska
+ - [https://iim.unl.edu](https://iim.unl.edu)
+ - date_published: 2024-07-01T09:17:07+00:00
+
+ ## Nebraska Innovation Campus
+ - [https://innovate.unl.edu](https://innovate.unl.edu)
+ - date_published: 2024-07-02T04:47:56+00:00
+
+ ## Innovation Studio | Nebraska
+ - [https://innovationstudio.unl.edu](https://innovationstudio.unl.edu)
+ - date_published: 2024-09-05T20:37:03.093098+00:00
+
+ ## In Our Grit, Our Glory | Nebraska
+ - [https://inourgritourglory.unl.edu](https://inourgritourglory.unl.edu)
+ - date_published: 2024-05-07T21:41:52.954449+00:00
+
+ ## Institutional Effectiveness and Analytics | Nebraska
+ - [http://irads.unl.edu](http://irads.unl.edu)
+ - date_published: 2024-07-02T04:54:25.423761+00:00
+
+ ## Institutional Effectiveness and Analytics | Nebraska
+ - [http://irp.unl.edu](http://irp.unl.edu)
+ - date_published: 2024-07-02T04:52:43.752608+00:00
+
+ ## Information Technology Services | Nebraska
+ - [http://is.unl.edu](http://is.unl.edu)
+ - date_published: 2024-07-01T21:57:27+00:00
+
+ ## Information Technology Services | Nebraska
+ - [https://its.unl.edu](https://its.unl.edu)
+ - date_published: 2024-05-07T21:42:05.964788+00:00
+
+ ## College of Journalism and Mass Communications | Nebraska
+ - [https://journalism.unl.edu](https://journalism.unl.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Nebraska Extension in Lancaster County
+ - [https://lancaster.unl.edu](https://lancaster.unl.edu)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Nebraska College of Law |
+ - [https://law.unl.edu](https://law.unl.edu)
+ - date_published: 2024-07-01T20:23:33+00:00
+
+ ## We've got answers! - ASKus FAQ
+ - [https://libanswers.unl.edu](https://libanswers.unl.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Libraries |
+ - [https://libraries.unl.edu](https://libraries.unl.edu)
+ - date_published: 2024-05-07T21:41:39.660272+00:00
+
+ ## Licensing | Nebraska
+ - [https://licensing.unl.edu](https://licensing.unl.edu)
+ - date_published: 2024-07-02T05:02:06.471941+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.libproxy.unl.edu](https://login.libproxy.unl.edu)
+ - date_published: 2024-07-02T04:50:52.903088+00:00
+
+ ## Campus Maps | University of Nebraska–Lincoln
+ - [https://maps.unl.edu](https://maps.unl.edu)
+ - date_published: 2024-05-07T21:41:59.287114+00:00
+
  ## UNL Marketplace
  - [https://marketplace.unl.edu](https://marketplace.unl.edu)
  - date_published: 2015-12-01T00:00:00+00:00
@@ -3944,68 +4008,4 @@
  ## UT Arlington Go Server
  - [https://go.uta.edu](https://go.uta.edu)
  - date_published: 2024-07-02T11:16:50.636044+00:00
-
- ## IDIR: The Innovative Data Intelligence Research Laboratory
- - [https://idir.uta.edu](https://idir.uta.edu)
- - date_published: 2024-03-24T19:02:51+00:00
-
- ## Help Desk Support – Office of Information Technology – The University of Texas at Arlington
- - [https://ithelp.uta.edu](https://ithelp.uta.edu)
- - date_published: 2024-07-02T11:17:32.625694+00:00
-
- ## - MavOrgs
- - [https://mavorgs.uta.edu](https://mavorgs.uta.edu)
- - date_published: 2024-07-02T11:16:47.732674+00:00
-
- ## Mentis
- - [https://mentis.uta.edu](https://mentis.uta.edu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## UTA Police
- - [https://police.uta.edu](https://police.uta.edu)
- - date_published: 2024-07-02T11:16:57.886061+00:00
-
- ## UTA Faculty & Staff Resources
- - [https://resources.uta.edu](https://resources.uta.edu)
- - date_published: 2024-07-02T11:17:00.094953+00:00
-
- ## UT Arlington – UTA
- - [https://uta.edu](https://uta.edu)
- - date_published: 2024-05-07T22:09:36.450505+00:00
-
- ## Website Hosting
- - [https://websites.uta.edu](https://websites.uta.edu)
- - date_published: 2023-09-30T00:00:00+00:00
-
- ## About the U
- - [https://about.utah.edu](https://about.utah.edu)
- - date_published: 2024-07-02T11:19:22.245535+00:00
-
- ## Accessibility - The University of Utah
- - [https://accessibility.utah.edu](https://accessibility.utah.edu)
- - date_published: 2024-07-02T11:18:24.045543+00:00
-
- ## Login - The University of Utah
- - [https://admin.coe.utah.edu](https://admin.coe.utah.edu)
- - date_published: 2024-07-02T11:29:50.615496+00:00
-
- ## University Leadership
- - [https://administration.utah.edu](https://administration.utah.edu)
- - date_published: 2024-07-02T11:19:08.855522+00:00
-
- ## Utah Admissions
- - [https://admissions.utah.edu](https://admissions.utah.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Academic Advising Center - The University of Utah
- - [https://advising.utah.edu](https://advising.utah.edu)
- - date_published: 2024-07-02T11:18:47.627928+00:00
-
- ## Air Force ROTC - Department of Aerospace Studies - The University of Utah
- - [https://afrotc.utah.edu](https://afrotc.utah.edu)
- - date_published: 2024-07-02T11:27:11.243936+00:00
-
- ## Department of Anthropology - The University of Utah
- - [https://anthro.utah.edu](https://anthro.utah.edu)
- - date_published: 2024-07-02T11:27:07.507329+00:00
 

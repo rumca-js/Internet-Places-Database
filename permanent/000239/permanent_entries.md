@@ -1,3 +1,55 @@
+ ## Mohamed Attia's Macrocosm
+ - [https://mohamed.computer](https://mohamed.computer)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## MYTHIC
+ - [https://mythic.computer](https://mythic.computer)
+ - date_published: 2024-05-07T19:02:16.398950+00:00
+
+ ## Mastodon
+ - [https://mastodon.neat.computer](https://mastodon.neat.computer)
+ - date_published: 2024-05-08T11:51:58.714173+00:00
+
+ ## Neil Panchal
+ - [https://neil.computer](https://neil.computer)
+ - date_published: 2023-10-25T18:26:32.134105+00:00
+ - tags: ['personal']
+
+ ## Dot by New Computer
+ - [https://new.computer](https://new.computer)
+ - date_published: 2023-11-01T17:45:32+00:00
+
+ ## Nondeterministic Computer
+ - [https://nondeterministic.computer](https://nondeterministic.computer)
+ - date_published: 2024-05-04T09:48:30.472013+00:00
+
+ ## note.computer
+ - [https://note.computer](https://note.computer)
+ - date_published: 2024-05-01T04:17:16.216679+00:00
+
+ ## ohayo - a fast and free data science studio
+ - [https://ohayo.computer](https://ohayo.computer)
+ - date_published: 2024-05-13T03:43:16.708340+00:00
+
+ - [https://v20.ohayo.computer](https://v20.ohayo.computer)
+ - date_published: 2024-01-09T02:55:50.855876+00:00
+
+ ## Our Friend The Computer
+ - [https://ourfriendthe.computer](https://ourfriendthe.computer)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## List disks /  API / Oxide
+ - [https://docs.oxide.computer](https://docs.oxide.computer)
+ - date_published: 2023-10-25T18:26:35.191809+00:00
+
+ ## Hubris
+ - [https://hubris.oxide.computer](https://hubris.oxide.computer)
+ - date_published: 2021-11-30T23:34:34+00:00
+
+ ## Oxide Computer Company
+ - [https://oxide.computer](https://oxide.computer)
+ - date_published: 2023-10-25T18:26:40.340286+00:00
+
  ## RFD / Oxide
  - [https://rfd.shared.oxide.computer](https://rfd.shared.oxide.computer)
  - date_published: 2023-11-03T17:54:12.549938+00:00
@@ -3966,56 +4018,4 @@
  ## FocusOn.cz
  - [https://www.focuson.cz](https://www.focuson.cz)
  - date_published: 2024-08-26T00:00:00+00:00
-
- ## Česko-německý fond budoucnosti
- - [http://www.fondbudoucnosti.cz](http://www.fondbudoucnosti.cz)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Font
- - [https://www.font.cz](https://www.font.cz)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## 12 prací budoucnosti | Forbes | BTL
- - [https://12pracibudoucnosti.forbes.cz](https://12pracibudoucnosti.forbes.cz)
- - date_published: 2024-10-17T19:04:03+00:00
-
- ## 30 inspirativích | Forbes
- - [https://30inspirativnich.forbes.cz](https://30inspirativnich.forbes.cz)
- - date_published: 2024-10-17T15:46:15+00:00
-
- ## Behind the business | Forbes speciál
- - [https://behind-the-business.forbes.cz](https://behind-the-business.forbes.cz)
- - date_published: 2024-10-24T02:52:28+00:00
-
- ## Vystoupejte k budoucnosti | Forbes Speciál
- - [https://digiexpedice.forbes.cz](https://digiexpedice.forbes.cz)
- - date_published: 2024-10-24T14:03:20+00:00
-
- ## Forbes
- - [https://forbes.cz](https://forbes.cz)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Forbes Jobs
- - [https://jobs.forbes.cz](https://jobs.forbes.cz)
- - date_published: 2024-10-22T15:50:33+00:00
-
- ## Létat jako boss
- - [https://letatjakoboss.forbes.cz](https://letatjakoboss.forbes.cz)
- - date_published: 2024-10-22T19:39:40+00:00
-
- ## Život je bohatý | Forbes - Magazín nabitý informacemi
- - [https://life.forbes.cz](https://life.forbes.cz)
- - date_published: 2024-10-29T15:19:01.908766+00:00
-
- ## 100 nejbohatších Čechů 2024 | Forbes
- - [https://miliardari.forbes.cz](https://miliardari.forbes.cz)
- - date_published: 2024-10-29T15:18:13.100571+00:00
-
- ## Nabitá jízda | Forbes | Porsche
- - [https://nabitajizda.forbes.cz](https://nabitajizda.forbes.cz)
- - date_published: 2024-10-17T17:27:59+00:00
-
- ## Nejbohatší lidé světa 2024 | Forbes
- - [https://nejbohatsilide.forbes.cz](https://nejbohatsilide.forbes.cz)
- - date_published: 2024-10-29T15:18:14.587424+00:00
 

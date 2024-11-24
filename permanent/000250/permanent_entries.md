@@ -1,3 +1,55 @@
+ ## Startseite | Verbraucherzentrale Bremen
+ - [http://www.verbraucherzentrale-bremen.de](http://www.verbraucherzentrale-bremen.de)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Ihre Energieberatung der Verbraucherzentrale
+ - [https://verbraucherzentrale-energieberatung.de](https://verbraucherzentrale-energieberatung.de)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Hessen
+ - [https://www.verbraucherzentrale-hessen.de](https://www.verbraucherzentrale-hessen.de)
+ - date_published: 2024-07-24T03:31:06.868376+00:00
+
+ ## Verbraucherzentrale Niedersachsen: Startseite
+ - [https://www.verbraucherzentrale-niedersachsen.de](https://www.verbraucherzentrale-niedersachsen.de)
+ - date_published: 2024-08-08T21:11:29.762111+00:00
+
+ ## Startseite | Verbraucherzentrale Rheinland-Pfalz
+ - [http://www.verbraucherzentrale-rlp.de](http://www.verbraucherzentrale-rlp.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Sachsen
+ - [https://www.verbraucherzentrale-sachsen.de](https://www.verbraucherzentrale-sachsen.de)
+ - date_published: 2024-07-24T03:31:05.265436+00:00
+
+ ## Landesbezirk Berlin-Brandenburg
+ - [https://bb.verdi.de](https://bb.verdi.de)
+ - date_published: 2024-06-22T13:07:13.996830+00:00
+
+ ## Datenschutz
+ - [https://datenschutz.verdi.de](https://datenschutz.verdi.de)
+ - date_published: 2024-06-27T06:14:38.744291+00:00
+
+ ## Gesundheit, Soziale Dienste, Bildung und Wissenschaft
+ - [https://gesundheit-soziales-bildung.verdi.de](https://gesundheit-soziales-bildung.verdi.de)
+ - date_published: 2024-06-27T06:14:48.048771+00:00
+
+ ## ver.di
+ - [https://intra.verdi.de](https://intra.verdi.de)
+ - date_published: 2024-06-27T06:14:55.314456+00:00
+
+ ## meineverdi
+ - [http://mitgliedsdaten.verdi.de](http://mitgliedsdaten.verdi.de)
+ - date_published: 2024-06-27T06:14:43.249039+00:00
+
+ ## meine ver.di
+ - [https://mitgliedwerden.verdi.de](https://mitgliedwerden.verdi.de)
+ - date_published: 2024-05-31T15:00:34+00:00
+
+ ## Home
+ - [https://publik.verdi.de](https://publik.verdi.de)
+ - date_published: 2024-06-27T06:14:41.161239+00:00
+
  ## ver.di
  - [https://vod.verdi.de](https://vod.verdi.de)
  - date_published: 2024-06-27T06:14:53.503256+00:00
@@ -3972,57 +4024,4 @@ Bibliotheken / Z39.50
  ## Of Chaos and Order - Index
  - [https://alexbilson.dev](https://alexbilson.dev)
  - date_published: 2024-05-07T23:15:35.361064+00:00
-
- ## Alex DeLorenzo - Software Engineer
- - [https://alexdelorenzo.dev](https://alexdelorenzo.dev)
- - date_published: 2024-05-07T23:24:09.124204+00:00
-
- ## alexlazar.dev
- - [https://alexlazar.dev](https://alexlazar.dev)
- - date_published: 2024-10-28T15:27:27+00:00
-
- ## Alex Patterson
- - [https://alexpatterson.dev](https://alexpatterson.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Alex Saveau | https://alexsaveau.dev
- - [https://alexsaveau.dev](https://alexsaveau.dev)
- - date_published: 2023-10-25T18:34:44.776986+00:00
-
- ## Home | Ali Alaa - Front-end Web Developer
- - [https://alialaa.dev](https://alialaa.dev)
- - date_published: 2024-05-11T10:23:08.010684+00:00
-
- ## Adrian Alic - Blogging about High-Performance Systems
- - [https://alic.dev](https://alic.dev)
- - date_published: 2023-10-25T08:48:21.706613+00:00
- - tags: ['personal']
-
- ## Alignment Ecosystem Development
- - [https://alignment.dev](https://alignment.dev)
- - date_published: 2024-07-30T16:49:08+00:00
-
- ## Alpha Omega – Linux Foundation Project
- - [https://alpha-omega.dev](https://alpha-omega.dev)
- - date_published: 2024-08-19T15:53:55.971048+00:00
-
- ## Alpine.js
- - [https://alpinejs.dev](https://alpinejs.dev)
- - date_published: 2023-10-25T18:34:45.599743+00:00
-
- ## Altho
- - [https://www.altho.dev](https://www.altho.dev)
- - date_published: 2024-07-15T07:08:40.579600+00:00
-
- ## Alt Labs - Building the Foundation of Web3 Infrastructure
- - [https://altlabs.dev](https://altlabs.dev)
- - date_published: 2024-06-16T03:50:46.616525+00:00
-
- ## AlvaroSabu | Creative Engineer
- - [https://alvarosaburido.dev](https://alvarosaburido.dev)
- - date_published: 2024-09-04T15:13:06.291531+00:00
-
- ## Home | Alvezs
- - [https://alvez.dev](https://alvez.dev)
- - date_published: 2024-05-07T23:11:54.541598+00:00
 

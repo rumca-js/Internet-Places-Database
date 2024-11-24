@@ -1,3 +1,91 @@
+ ## Tennessee Right to Repair
+ - [https://tennessee.repair.org](https://tennessee.repair.org)
+ - date_published: 2024-07-17T22:34:56.681530+00:00
+
+ ## Texas Right to Repair
+ - [https://texas.repair.org](https://texas.repair.org)
+ - date_published: 2024-07-17T22:34:18.916763+00:00
+
+ ## Utah Right to Repair
+ - [https://utah.repair.org](https://utah.repair.org)
+ - date_published: 2024-07-17T22:35:10.440329+00:00
+
+ ## Vermont Right to Repair
+ - [https://vermont.repair.org](https://vermont.repair.org)
+ - date_published: 2024-07-17T22:34:19.838517+00:00
+
+ ## Virginia Right to Repair
+ - [https://virginia.repair.org](https://virginia.repair.org)
+ - date_published: 2024-07-17T22:34:29.263135+00:00
+
+ ## Washington Right to Repair
+ - [https://washington.repair.org](https://washington.repair.org)
+ - date_published: 2024-07-17T22:35:06.066437+00:00
+
+ ## The Repair Association
+ - [https://web.repair.org](https://web.repair.org)
+ - date_published: 2024-07-17T22:34:59.739573+00:00
+
+ ## West Virginia Right to Repair
+ - [https://westvirginia.repair.org](https://westvirginia.repair.org)
+ - date_published: 2024-07-17T22:34:21.365675+00:00
+
+ ## Wisconsin Right to Repair
+ - [https://wisconsin.repair.org](https://wisconsin.repair.org)
+ - date_published: 2024-07-17T22:34:06.025248+00:00
+
+ ## Wyoming Right to Repair
+ - [https://wyoming.repair.org](https://wyoming.repair.org)
+ - date_published: 2024-07-17T22:34:28.259780+00:00
+
+ ## Repair Café - Fixing Together, Worldwide
+ - [https://repaircafe.org](https://repaircafe.org)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Sci.Electronics.Repair FAQ: Home Page
+ - [https://www.repairfaq.org](https://www.repairfaq.org)
+ - date_published: 2022-09-18T19:08:54+00:00
+
+ ## Dashboard Repairmonitor
+ - [https://dashboard.repairmonitor.org](https://dashboard.repairmonitor.org)
+ - date_published: 2023-10-04T08:29:51+00:00
+
+ ## Home - RePaper
+ - [http://repaper.org](http://repaper.org)
+ - date_published: 2024-09-04T03:42:35.476802+00:00
+
+ ## Economics and Finance Research | IDEAS/RePEc
+ - [https://ideas.repec.org](https://ideas.repec.org)
+ - date_published: 2024-06-28T12:57:00.063959+00:00
+
+ ## RePEc: Research Papers in Economics
+ - [http://repec.org](http://repec.org)
+ - date_published: 2024-01-01T20:18:53+00:00
+
+ ## Replate | Your Trusted Food Donation Platform
+ - [https://www.re-plate.org](https://www.re-plate.org)
+ - date_published: 2024-05-21T02:49:03.305678+00:00
+
+ ## Replate Blog
+ - [https://blog.replate.org](https://blog.replate.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Replate | Your Trusted Food Donation Platform
+ - [https://www.replate.org](https://www.replate.org)
+ - date_published: 2024-07-20T16:39:33.397673+00:00
+
+ ## Repology
+ - [https://repology.org](https://repology.org)
+ - date_published: 2024-04-28T03:46:29.646249+00:00
+
+ ## Reporterfabrik – Webakademie des Journalismus
+ - [http://reporterfabrik.org](http://reporterfabrik.org)
+ - date_published: 2024-06-17T11:26:49.303096+00:00
+
+ ## Home - Duke Reporters' Lab
+ - [https://reporterslab.org](https://reporterslab.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
  ## The Reporter's Notebook
  - [https://reportersnotebook.org](https://reportersnotebook.org)
  - date_published: 2024-07-02T21:15:53+00:00
@@ -3949,94 +4037,4 @@
  ## San Mateo County Association of REALTORS®
  - [https://www.samcar.org](https://www.samcar.org)
  - date_published: 2024-09-04T03:45:16.682140+00:00
-
- ## Home
- - [https://www.same.org](https://www.same.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Sameer Singh
- - [https://sameersingh.org](https://sameersingh.org)
- - date_published: 2024-05-02T19:10:05+00:00
-
- ## Sam Harris | Home of the Making Sense Podcast
- - [https://www.samharris.org](https://www.samharris.org)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Samic - سمیک
- - [https://samic.org](https://samic.org)
- - date_published: 2024-08-08T15:08:04.687988+00:00
-
- ## Sam Johnston - Tech executive & serial entrepreneur
- - [https://samjohnston.org](https://samjohnston.org)
- - date_published: 2024-10-20T16:58:30.453896+00:00
-
- ## SavingFreak.com | Save Money, Make Money, Invest and Prosper
- - [http://www.sammoore.org](http://www.sammoore.org)
- - date_published: 2021-05-06T17:24:43+00:00
-
- ## MARIOTOTO | Agen Situs Toto Asli & Situs Togel Terpercaya
- - [https://samods.org](https://samods.org)
- - date_published: 2024-06-01T22:21:53.204258+00:00
-
- ## Samotsvety Forecasting
- - [https://samotsvety.org](https://samotsvety.org)
- - date_published: 2024-05-02T15:03:36.587568+00:00
-
- ## SamsaraJS
- - [http://samsarajs.org](http://samsarajs.org)
- - date_published: 2022-01-28T00:43:30+00:00
- - tags: ['javascript', 'programming library']
-
- ## Leeum Museum of Art
- - [http://leeum.samsungfoundation.org](http://leeum.samsungfoundation.org)
- - date_published: 2024-05-07T14:43:28.332582+00:00
- - tags: ['art', 'museum']
-
- ## Bio - Samuel Moore
- - [https://www.samuelmoore.org](https://www.samuelmoore.org)
- - date_published: 2024-10-20T04:37:34.403479+00:00
-
- ## Hyrax: a community-supported repository front-end
- - [https://hyrax.samvera.org](https://hyrax.samvera.org)
- - date_published: 2019-04-16T16:25:22+00:00
-
- ## Samvera - a vibrant and welcoming community developing repository software tools
- - [https://samvera.org](https://samvera.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - Samaritan Daytop Village
- - [https://samvill.org](https://samvill.org)
- - date_published: 2024-06-15T21:53:16+00:00
-
- ## Sam Yan Press - Writing and Translating as ways to Protect and Promote Democracy in Thailand - SAMYANPRESS
- - [https://samyanpress.org](https://samyanpress.org)
- - date_published: 2022-11-21T00:00:00+00:00
-
- ## San Antonio Free Market Medical Association
- - [https://sanantoniofmma.org](https://sanantoniofmma.org)
- - date_published: 2024-08-06T05:17:17.393741+00:00
-
- ## San Antonio Report - Nonprofit journalism for an informed community
- - [https://sanantonioreport.org](https://sanantonioreport.org)
- - date_published: 2023-10-25T22:05:42.245865+00:00
-
- ## Home | Sancta Missa
- - [http://www.sanctamissa.org](http://www.sanctamissa.org)
- - date_published: 2024-06-29T23:51:27.616488+00:00
-
- ## Entrepreneurs Sandbox
- - [https://sandboxhawaii.org](https://sandboxhawaii.org)
- - date_published: 2024-06-23T09:40:12.952454+00:00
-
- ## SAND - Symposium on Algorithmic Foundations of Dynamic Networks
- - [https://sand-conf.org](https://sand-conf.org)
- - date_published: 2024-07-26T02:54:00+00:00
-
- ## Sandia Area - Banking, Home Loans, Auto Loans & Credit Cards
- - [https://sandia.org](https://sandia.org)
- - date_published: 2024-05-09T07:36:31.886588+00:00
-
- ## HTML Meta Tag
- - [https://sandiegocontra.org](https://sandiegocontra.org)
- - date_published: 2022-06-23T01:34:28+00:00
 

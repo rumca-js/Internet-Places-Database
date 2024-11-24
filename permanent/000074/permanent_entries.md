@@ -1,3 +1,15 @@
+ ## www.christianfredynaa.com
+ - [http://www.christianfredynaa.com](http://www.christianfredynaa.com)
+ - date_published: 2024-06-30T04:25:25.211039+00:00
+
+ ## Christian News Headlines - Breaking and Trending Religion News
+ - [https://christianheadlines.com](https://christianheadlines.com)
+ - date_published: 2023-10-25T10:13:08.561605+00:00
+
+ ## Christian Heilmann
+ - [https://christianheilmann.com](https://christianheilmann.com)
+ - date_published: 2023-10-25T13:22:37.195350+00:00
+
  ## Christian Website Designers (Christian Web Design Pros) CIDesign
  - [http://www.christian-internet.com](http://www.christian-internet.com)
  - date_published: 2024-10-28T22:16:48+00:00
@@ -4019,16 +4031,4 @@
  ## Public Portal • CivicClerk
  - [https://charlestonwv.portal.civicclerk.com](https://charlestonwv.portal.civicclerk.com)
  - date_published: 2024-07-15T05:15:18+00:00
-
- ## CIVIC
- - [https://apikeys.civiccomputing.com](https://apikeys.civiccomputing.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stats.civiccomputing.com](https://stats.civiccomputing.com)
- - date_published: 2024-06-29T11:47:02.236487+00:00
-
- ## Voter Guide
- - [https://app.ipl.civicengine.com](https://app.ipl.civicengine.com)
- - date_published: 2024-06-10T19:18:29+00:00
 

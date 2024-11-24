@@ -1,3 +1,15 @@
+ ## Cards Against Humanity Lab
+ - [https://lab.cardsagainsthumanity.com](https://lab.cardsagainsthumanity.com)
+ - date_published: 2024-07-13T02:40:39.823317+00:00
+
+ ## Care.com: Find Child Care, Babysitters, Senior Care, Pet Care and Housekeeping
+ - [https://care.com](https://care.com)
+ - date_published: 2024-06-14T14:36:50.573000+00:00
+
+ ## Care Help Center for Families, Caregivers & Partners
+ - [https://help.care.com](https://help.care.com)
+ - date_published: 2023-09-15T10:08:11+00:00
+
  ## Care2 is the world&#039;s largest social network for good, a community of over 40 million people standing together, starting petitions and sharing stories that inspire action.
  - [http://www.care2.com](http://www.care2.com)
  - date_published: 2024-09-18T21:36:25.190296+00:00
@@ -4025,16 +4037,4 @@
  ## 中央广播电视总台上海总站
  - [https://sh.cctv.com](https://sh.cctv.com)
  - date_published: 2024-06-30T20:35:00.353108+00:00
-
- ## 体育_央视网(cctv.com)
- - [https://sports.cctv.com](https://sports.cctv.com)
- - date_published: 2023-12-09T12:18:44.730556+00:00
-
- ## 时尚频道_央视网
- - [https://style.cctv.com](https://style.cctv.com)
- - date_published: 2024-06-30T20:29:24.308913+00:00
-
- ## CCTV节目官网_央视网
- - [https://tv.cctv.com](https://tv.cctv.com)
- - date_published: 2024-05-10T05:28:19.726462+00:00
 

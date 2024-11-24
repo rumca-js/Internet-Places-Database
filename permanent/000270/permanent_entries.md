@@ -1,3 +1,67 @@
+ ## Office of Faculty Affairs | Office of Faculty Affairs
+ - [https://faculty.umd.edu](https://faculty.umd.edu)
+ - date_published: 2024-07-02T03:39:32.663736+00:00
+
+ ## Office of Student Financial Aid
+ - [https://financialaid.umd.edu](https://financialaid.umd.edu)
+ - date_published: 2024-06-27T16:48:05+00:00
+
+ ## FIRE: The First-Year Innovation & Research Experience
+ - [https://fire.umd.edu](https://fire.umd.edu)
+ - date_published: 2024-07-02T03:37:53.913445+00:00
+
+ ## GAMMA
+ - [https://gamma.umd.edu](https://gamma.umd.edu)
+ - date_published: 2024-07-04T10:49:38+00:00
+
+ ## Geneva: Evolving Censorship Evasion
+ - [https://geneva.cs.umd.edu](https://geneva.cs.umd.edu)
+ - date_published: 2023-05-21T16:59:20+00:00
+
+ ## Support Maryland / Giving at UMD
+ - [https://giving.umd.edu](https://giving.umd.edu)
+ - date_published: 2024-06-13T20:58:30.585527+00:00
+
+ ## Center for Global Migration Studies | Department of History
+ - [http://globalmigration.umd.edu](http://globalmigration.umd.edu)
+ - date_published: 2024-09-17T20:44:34+00:00
+
+ ## URLs
+ - [https://go.umd.edu](https://go.umd.edu)
+ - date_published: 2024-07-02T03:39:41.136616+00:00
+
+ ## Home | The Graduate School
+ - [https://gradschool.umd.edu](https://gradschool.umd.edu)
+ - date_published: 2024-07-02T03:06:41+00:00
+
+ ## Home | Department of Fraternity and Sorority Life
+ - [http://greek.umd.edu](http://greek.umd.edu)
+ - date_published: 2024-07-02T03:37:37.849792+00:00
+
+ ## Mokhtarzada Hatchery at the University of Maryland
+ - [https://hatchery.umd.edu](https://hatchery.umd.edu)
+ - date_published: 2024-07-01T02:51:58.753180+00:00
+
+ ## Human-Data Interaction Group
+ - [https://hdi.cs.umd.edu](https://hdi.cs.umd.edu)
+ - date_published: 2024-03-12T18:25:38+00:00
+
+ ## University of Maryland Health Center | UMD Health Center
+ - [http://health.umd.edu](http://health.umd.edu)
+ - date_published: 2024-07-01T15:44:52+00:00
+
+ ## Home | Department of History
+ - [https://history.umd.edu](https://history.umd.edu)
+ - date_published: 2024-09-17T20:27:44+00:00
+
+ ## 2024 IAU GA FM2 Home
+ - [https://iaugas2024.astro.umd.edu](https://iaugas2024.astro.umd.edu)
+ - date_published: 2024-07-01T16:32:12.836747+00:00
+
+ ## Home | ICONS Project
+ - [https://icons.umd.edu](https://icons.umd.edu)
+ - date_published: 2024-05-09T05:23:40.660768+00:00
+
  ## Directory Tools
  - [https://identity.umd.edu](https://identity.umd.edu)
  - date_published: 2024-05-07T21:26:53.366138+00:00
@@ -3949,68 +4013,4 @@ Center for Information Technology Integration
  ## Institutional Effectiveness and Analytics | Nebraska
  - [https://iea.unl.edu](https://iea.unl.edu)
  - date_published: 2024-05-07T21:42:34.287694+00:00
-
- ## Digital Experience Group | University Communication & Marketing | Nebraska
- - [https://iim.unl.edu](https://iim.unl.edu)
- - date_published: 2024-07-01T09:17:07+00:00
-
- ## Nebraska Innovation Campus
- - [https://innovate.unl.edu](https://innovate.unl.edu)
- - date_published: 2024-07-02T04:47:56+00:00
-
- ## Innovation Studio | Nebraska
- - [https://innovationstudio.unl.edu](https://innovationstudio.unl.edu)
- - date_published: 2024-09-05T20:37:03.093098+00:00
-
- ## In Our Grit, Our Glory | Nebraska
- - [https://inourgritourglory.unl.edu](https://inourgritourglory.unl.edu)
- - date_published: 2024-05-07T21:41:52.954449+00:00
-
- ## Institutional Effectiveness and Analytics | Nebraska
- - [http://irads.unl.edu](http://irads.unl.edu)
- - date_published: 2024-07-02T04:54:25.423761+00:00
-
- ## Institutional Effectiveness and Analytics | Nebraska
- - [http://irp.unl.edu](http://irp.unl.edu)
- - date_published: 2024-07-02T04:52:43.752608+00:00
-
- ## Information Technology Services | Nebraska
- - [http://is.unl.edu](http://is.unl.edu)
- - date_published: 2024-07-01T21:57:27+00:00
-
- ## Information Technology Services | Nebraska
- - [https://its.unl.edu](https://its.unl.edu)
- - date_published: 2024-05-07T21:42:05.964788+00:00
-
- ## College of Journalism and Mass Communications | Nebraska
- - [https://journalism.unl.edu](https://journalism.unl.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Nebraska Extension in Lancaster County
- - [https://lancaster.unl.edu](https://lancaster.unl.edu)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Nebraska College of Law |
- - [https://law.unl.edu](https://law.unl.edu)
- - date_published: 2024-07-01T20:23:33+00:00
-
- ## We've got answers! - ASKus FAQ
- - [https://libanswers.unl.edu](https://libanswers.unl.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Libraries |
- - [https://libraries.unl.edu](https://libraries.unl.edu)
- - date_published: 2024-05-07T21:41:39.660272+00:00
-
- ## Licensing | Nebraska
- - [https://licensing.unl.edu](https://licensing.unl.edu)
- - date_published: 2024-07-02T05:02:06.471941+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.libproxy.unl.edu](https://login.libproxy.unl.edu)
- - date_published: 2024-07-02T04:50:52.903088+00:00
-
- ## Campus Maps | University of Nebraska–Lincoln
- - [https://maps.unl.edu](https://maps.unl.edu)
- - date_published: 2024-05-07T21:41:59.287114+00:00
 

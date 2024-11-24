@@ -1,3 +1,39 @@
+ ## Living Fossils | The Living Fossils | Substack
+ - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
+ - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
+ - date_published: 2024-01-09T01:45:22.656513+00:00
+
+ ## The Magnet | Mark Frauenfelder | Substack
+ - [https://themagnet.substack.com](https://themagnet.substack.com)
+ - date_published: 2024-04-03T06:41:26.030404+00:00
+
+ ## The Malarkey Musket | David Haggith | Substack
+ - [https://themalarkeymusket.substack.com](https://themalarkeymusket.substack.com)
+ - date_published: 2024-07-04T01:28:36.587732+00:00
+
+ ## Media Report | Janice | Substack
+ - [https://themediareport.substack.com](https://themediareport.substack.com)
+ - date_published: 2024-08-19T14:44:05.237205+00:00
+
+ ## Explorer's Guild Travel Log | The Middle Earth Companion | Substack
+ - [https://themiddleearthcompanion.substack.com](https://themiddleearthcompanion.substack.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Misfits | Substack
+ - [https://themisfits.substack.com](https://themisfits.substack.com)
+ - date_published: 2024-08-18T02:58:34.793138+00:00
+
+ ## The Most Endangered Species | Jeffrey Falk | Substack
+ - [https://themostendangeredspecies.substack.com](https://themostendangeredspecies.substack.com)
+ - date_published: 2024-10-31T22:49:53.148179+00:00
+
+ ## The New Lede | The New Lede Staff | Substack
+ - [https://thenewlede.substack.com](https://thenewlede.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
  ## The New Urban Order | Diana Lind | Substack
  - [https://thenewurbanorder.substack.com](https://thenewurbanorder.substack.com)
  - date_published: 2024-01-08T00:00:00+00:00
@@ -4007,40 +4043,4 @@
  ## Surcar Europe
  - [http://cannes.surcarcongress.com](http://cannes.surcarcongress.com)
  - date_published: 2024-10-31T09:52:13+00:00
-
- ## SureAdhere
- - [https://www.sureadhere.com](https://www.sureadhere.com)
- - date_published: 2024-07-04T15:31:34.890443+00:00
-
- ## Surebet  | ⚽ Betting Sports in Nigeria Online
- - [https://surebet247.com](https://surebet247.com)
- - date_published: 2024-07-14T10:53:23.620403+00:00
-
- ## SureCritic - Verified Customer Reviews
- - [https://www.surecritic.com](https://www.surecritic.com)
- - date_published: 2024-08-18T14:54:22.302197+00:00
-
- ## SureFire CPR - Emergency healthcare training that’s engaging and fun.
- - [https://www.surefirecpr.com](https://www.surefirecpr.com)
- - date_published: 2022-04-20T20:00:21+00:00
-
- ## SureHits - For Insurance and Loans, It's SureHits!
- - [http://www.surehits.com](http://www.surehits.com)
- - date_published: 2024-06-27T15:29:40.487895+00:00
-
- ## Simming With Myself
- - [https://surelysims.com](https://surelysims.com)
- - date_published: 2024-10-23T08:06:44.669023+00:00
-
- ## Top-Rated WordPress Membership Plugin | SureMembers
- - [https://suremembers.com](https://suremembers.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Trusted Health Intelligence Sharing
- - [https://surescripts.com](https://surescripts.com)
- - date_published: 2024-08-19T10:04:00+00:00
-
- ## Suresupport.com - Login
- - [https://suresupport.com](https://suresupport.com)
- - date_published: 2024-06-16T14:25:57.509823+00:00
 

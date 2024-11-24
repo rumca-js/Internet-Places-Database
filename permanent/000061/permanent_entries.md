@@ -1,3 +1,11 @@
+ ## Morts 1938 Scrapbook
+ - [http://morts1938scrapbook.blogspot.com](http://morts1938scrapbook.blogspot.com)
+ - date_published: 2024-06-16T17:39:20+00:00
+
+ ## Blogger
+ - [http://moseknows.blogspot.com](http://moseknows.blogspot.com)
+ - date_published: 2024-07-20T21:17:09.582791+00:00
+
  ## The Eastern Frontier
  - [http://mosemanmachine.blogspot.com](http://mosemanmachine.blogspot.com)
  - date_published: 2024-10-05T02:10:48+00:00
@@ -1617,6 +1625,10 @@
  ## NoSoloHammer
  - [http://nosolohammer.blogspot.com](http://nosolohammer.blogspot.com)
  - date_published: 2024-07-02T06:21:04+00:00
+
+ ## No Swamp Coolers
+ - [https://noswampcoolers.blogspot.com](https://noswampcoolers.blogspot.com)
+ - date_published: 2024-11-17T10:25:01+00:00
 
  ## Mary Baader Kaley (is) Not an Editor
  - [http://notaneditor.blogspot.com](http://notaneditor.blogspot.com)
@@ -4000,17 +4012,4 @@
  ## DOMUS project
  - [http://pietrasupietra.blogspot.com](http://pietrasupietra.blogspot.com)
  - date_published: 2024-08-12T10:36:36+00:00
-
- ## Pietro Saba World
- - [http://pietrosabaworld.blogspot.com](http://pietrosabaworld.blogspot.com)
- - date_published: 2024-09-02T12:05:27+00:00
-
- ## Pijlie´s Wargames Blog
- - [http://pijlieblog.blogspot.com](http://pijlieblog.blogspot.com)
- - date_published: 2024-07-16T08:10:00+00:00
-
- ## PinAtWar
- - [https://pinatwar.blogspot.com](https://pinatwar.blogspot.com)
- - date_published: 2024-06-03T22:25:00+00:00
- - tags: ['tabletop games', 'warhammer', 'wargames']
 

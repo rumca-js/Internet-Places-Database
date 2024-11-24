@@ -1,3 +1,67 @@
+ ## IDIR: The Innovative Data Intelligence Research Laboratory
+ - [https://idir.uta.edu](https://idir.uta.edu)
+ - date_published: 2024-03-24T19:02:51+00:00
+
+ ## Help Desk Support – Office of Information Technology – The University of Texas at Arlington
+ - [https://ithelp.uta.edu](https://ithelp.uta.edu)
+ - date_published: 2024-07-02T11:17:32.625694+00:00
+
+ ## - MavOrgs
+ - [https://mavorgs.uta.edu](https://mavorgs.uta.edu)
+ - date_published: 2024-07-02T11:16:47.732674+00:00
+
+ ## Mentis
+ - [https://mentis.uta.edu](https://mentis.uta.edu)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## UTA Police
+ - [https://police.uta.edu](https://police.uta.edu)
+ - date_published: 2024-07-02T11:16:57.886061+00:00
+
+ ## UTA Faculty & Staff Resources
+ - [https://resources.uta.edu](https://resources.uta.edu)
+ - date_published: 2024-07-02T11:17:00.094953+00:00
+
+ ## UT Arlington – UTA
+ - [https://uta.edu](https://uta.edu)
+ - date_published: 2024-05-07T22:09:36.450505+00:00
+
+ ## Website Hosting
+ - [https://websites.uta.edu](https://websites.uta.edu)
+ - date_published: 2023-09-30T00:00:00+00:00
+
+ ## About the U
+ - [https://about.utah.edu](https://about.utah.edu)
+ - date_published: 2024-07-02T11:19:22.245535+00:00
+
+ ## Accessibility - The University of Utah
+ - [https://accessibility.utah.edu](https://accessibility.utah.edu)
+ - date_published: 2024-07-02T11:18:24.045543+00:00
+
+ ## Login - The University of Utah
+ - [https://admin.coe.utah.edu](https://admin.coe.utah.edu)
+ - date_published: 2024-07-02T11:29:50.615496+00:00
+
+ ## University Leadership
+ - [https://administration.utah.edu](https://administration.utah.edu)
+ - date_published: 2024-07-02T11:19:08.855522+00:00
+
+ ## Utah Admissions
+ - [https://admissions.utah.edu](https://admissions.utah.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Academic Advising Center - The University of Utah
+ - [https://advising.utah.edu](https://advising.utah.edu)
+ - date_published: 2024-07-02T11:18:47.627928+00:00
+
+ ## Air Force ROTC - Department of Aerospace Studies - The University of Utah
+ - [https://afrotc.utah.edu](https://afrotc.utah.edu)
+ - date_published: 2024-07-02T11:27:11.243936+00:00
+
+ ## Department of Anthropology - The University of Utah
+ - [https://anthro.utah.edu](https://anthro.utah.edu)
+ - date_published: 2024-07-02T11:27:07.507329+00:00
+
  ## Utah Arch
  - [https://arch.cs.utah.edu](https://arch.cs.utah.edu)
  - date_published: 2024-04-03T16:29:39+00:00
@@ -3934,68 +3998,4 @@
  ## Commitment to Privacy
  - [https://neurotraumarepair.vcu.edu](https://neurotraumarepair.vcu.edu)
  - date_published: 2024-07-02T12:58:32.916849+00:00
-
- ## VCU News
- - [https://news.vcu.edu](https://news.vcu.edu)
- - date_published: 2024-05-07T22:22:46.409257+00:00
-
- ## Commitment to Privacy
- - [https://nlp.cs.vcu.edu](https://nlp.cs.vcu.edu)
- - date_published: 2024-07-02T12:44:47.137375+00:00
-
- ## Commitment to Privacy
- - [https://nrsa.chp.vcu.edu](https://nrsa.chp.vcu.edu)
- - date_published: 2024-07-02T12:44:58.858466+00:00
-
- ## Commitment to Privacy
- - [https://nso.vcu.edu](https://nso.vcu.edu)
- - date_published: 2024-07-02T12:51:21.973954+00:00
-
- ## Commitment to Privacy
- - [https://nursing.vcu.edu](https://nursing.vcu.edu)
- - date_published: 2024-07-02T12:43:35.396293+00:00
-
- ## Commitment to Privacy
- - [https://obgyn.vcu.edu](https://obgyn.vcu.edu)
- - date_published: 2024-07-02T12:45:10.632447+00:00
-
- ## Commitment to Privacy
- - [https://occu.chp.vcu.edu](https://occu.chp.vcu.edu)
- - date_published: 2024-07-02T12:51:31.893987+00:00
-
- ## Commitment to Privacy
- - [https://ocpe.vcu.edu](https://ocpe.vcu.edu)
- - date_published: 2024-07-02T12:46:26.460598+00:00
-
- ## Redirect - Virginia Commonwealth University
- - [https://ocss.soe.vcu.edu](https://ocss.soe.vcu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Commitment to Privacy
- - [https://odup.partnership.vcu.edu](https://odup.partnership.vcu.edu)
- - date_published: 2024-07-02T12:58:58.508610+00:00
-
- ## Virginia Commonwealth University | Off-Campus Housing Search
- - [https://offcampus.vcu.edu](https://offcampus.vcu.edu)
- - date_published: 2024-07-02T12:48:48.561209+00:00
-
- ## Commitment to Privacy
- - [https://ombudsperson.vcu.edu](https://ombudsperson.vcu.edu)
- - date_published: 2024-07-02T12:43:59.058429+00:00
-
- ## Commitment to Privacy
- - [https://omsa.vcu.edu](https://omsa.vcu.edu)
- - date_published: 2024-07-02T12:58:08.808199+00:00
-
- ## Commitment to Privacy
- - [https://oneprint.vcu.edu](https://oneprint.vcu.edu)
- - date_published: 2024-07-02T12:42:10.393688+00:00
-
- ## Commitment to Privacy
- - [https://onevcuresearch.vcu.edu](https://onevcuresearch.vcu.edu)
- - date_published: 2024-07-02T12:58:23.747119+00:00
-
- ## Online Homeland Security Degree and Emergency Preparedness
- - [https://onlinewilder.vcu.edu](https://onlinewilder.vcu.edu)
- - date_published: 2023-01-12T00:30:48+00:00
 

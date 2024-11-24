@@ -1,3 +1,23 @@
+ ## HealthDay: Information For Healthier Living
+ - [https://spanish.healthday.com](https://spanish.healthday.com)
+ - date_published: 2024-07-02T03:55:55.914029+00:00
+
+ ## Health Digest | Health News, Wellness, Expert Insights
+ - [https://healthdigest.com](https://healthdigest.com)
+ - date_published: 2024-04-29T04:43:45.232579+00:00
+
+ ## Healthcare Jobs, Recruiting, Networking | Health eCareers
+ - [https://www.healthecareers.com](https://www.healthecareers.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Keck Medicine of USC
+ - [https://keckmedicine.patientportal.us-1.healtheintent.com](https://keckmedicine.patientportal.us-1.healtheintent.com)
+ - date_published: 2024-07-02T11:01:32.677759+00:00
+
+ ## HealthExec | Homepage
+ - [https://healthexec.com](https://healthexec.com)
+ - date_published: 2024-05-10T05:40:08.247011+00:00
+
  ## Log-in - HealthFusion MediTouch
  - [https://login.healthfusion.com](https://login.healthfusion.com)
  - date_published: 2024-10-28T06:41:33.541601+00:00
@@ -4007,24 +4027,4 @@
  ## Introduction
  - [https://api-docs.hevodata.com](https://api-docs.hevodata.com)
  - date_published: 2024-06-16T20:36:33.814294+00:00
-
- ## Explore data strategy insights on Data and Engineering - Blog | Hevo
- - [https://blog.hevodata.com](https://blog.hevodata.com)
- - date_published: 2020-06-09T19:52:41+00:00
-
- ## Hevo changelog
- - [https://changelog.hevodata.com](https://changelog.hevodata.com)
- - date_published: 2024-06-16T20:36:30.267705+00:00
-
- ## Design @Hevo: Hevo Brand Guidelines
- - [https://design.hevodata.com](https://design.hevodata.com)
- - date_published: 2024-06-16T20:36:30.963137+00:00
-
- ## Hevo Documentation - Hevo Data
- - [https://docs.hevodata.com](https://docs.hevodata.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Hevo Data | ETL, Data Integration & Data Pipeline Platform
- - [https://hevodata.com](https://hevodata.com)
- - date_published: 2024-05-01T07:43:42.396748+00:00
 

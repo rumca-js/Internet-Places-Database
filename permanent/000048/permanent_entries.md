@@ -1,3 +1,11 @@
+ ## 中航御铭（安阳）科技有限公司
+ - [https://www.avic-ume.com](https://www.avic-ume.com)
+ - date_published: 2023-08-28T09:11:02+00:00
+
+ ## Cierpliwości...
+ - [https://www.avid.com](https://www.avid.com)
+ - date_published: 2024-06-29T21:09:47.501277+00:00
+
  ## Drug substance CDMO located in California, USA.
  - [https://avidbio.com](https://avidbio.com)
  - date_published: 2024-05-23T00:00:00+00:00
@@ -4022,13 +4030,4 @@
  ## balajis.com | Substack
  - [https://balajis.com](https://balajis.com)
  - date_published: 2023-11-06T01:54:36.678817+00:00
-
- ## Balakook Tienda is under construction
- - [https://balakook.com](https://balakook.com)
- - date_published: 2024-09-19T19:24:20.990911+00:00
-
- ## Balanc3d
- - [https://balanc3dgame.com](https://balanc3dgame.com)
- - date_published: 2024-06-28T18:42:44+00:00
- - tags: ['video game', 'web game']
 

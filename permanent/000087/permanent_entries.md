@@ -1,3 +1,19 @@
+ ## tuxdigital Shop | Redbubble
+ - [https://dlnstore.com](https://dlnstore.com)
+ - date_published: 2024-06-16T03:10:25.660743+00:00
+
+ ## Linux Out Loud
+ - [https://dlnxtend.com](https://dlnxtend.com)
+ - date_published: 2024-05-01T05:30:03.349476+00:00
+
+ ## Detroit Lakes Tribune | Detroit Lakes, Minnesota - Detroit Lakes Tribune | News, weather, sports from Detroit Lakes, Minnesota
+ - [https://www.dl-online.com](https://www.dl-online.com)
+ - date_published: 2024-07-13T12:46:58.732014+00:00
+
+ ## New York City Lawyers | DL Partners NYC Law Firm
+ - [https://dlpartnerslaw.com](https://dlpartnerslaw.com)
+ - date_published: 2024-06-03T22:08:40+00:00
+
  ## Home
  - [https://dlsc.com](https://dlsc.com)
  - date_published: 2024-05-06T09:07:19.462111+00:00
@@ -4019,20 +4035,4 @@
  ## Doug McInnes
  - [https://www.dougmcinnes.com](https://www.dougmcinnes.com)
  - date_published: 2024-05-11T10:56:43.786109+00:00
-
- ## Doug McNeall's blog
- - [https://dougmcneall.com](https://dougmcneall.com)
- - date_published: 2024-06-30T02:48:01.028726+00:00
-
- ## Doug Savage – Cartoonist and Moose Wrangler
- - [https://dougsavage.com](https://dougsavage.com)
- - date_published: 2024-04-29T02:01:14.195382+00:00
-
- ## Doug Seven – Something can be learned in the course of observing things
- - [https://dougseven.com](https://dougseven.com)
- - date_published: 2023-10-25T13:57:37.103486+00:00
-
- ## Douglas Simpson - Lawyer, Educator, Writer
- - [http://dougsimpson.com](http://dougsimpson.com)
- - date_published: 2011-08-19T23:50:08+00:00
 

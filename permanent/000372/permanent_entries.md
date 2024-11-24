@@ -1,3 +1,83 @@
+ ## IWSEC (International Workshop on Security)
+ - [https://www.iwsec.org](https://www.iwsec.org)
+ - date_published: 2024-04-11T09:14:16+00:00
+
+ ## Home | Independent Women's Voice
+ - [https://iwv.org](https://iwv.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## ecology.iww.org | Abolish wage slavery AND live in harmony with the Earth!
+ - [https://ecology.iww.org](https://ecology.iww.org)
+ - date_published: 2024-06-23T13:51:06.007995+00:00
+
+ ## Select login method
+ - [https://forum.iww.org](https://forum.iww.org)
+ - date_published: 2024-06-23T13:51:18.650279+00:00
+
+ ## Industrial Worker
+ - [https://industrialworker.iww.org](https://industrialworker.iww.org)
+ - date_published: 2024-06-20T15:00:20+00:00
+
+ ## Industrial Workers of the World
+ - [https://iww.org](https://iww.org)
+ - date_published: 2024-06-23T13:51:23.009114+00:00
+
+ ## IWW Ísland
+ - [https://iwwisland.org](https://iwwisland.org)
+ - date_published: 2024-06-23T13:51:03.714212+00:00
+
+ ## IWW İSTANBUL
+ - [https://iwwist.org](https://iwwist.org)
+ - date_published: 2024-06-23T13:51:11.935617+00:00
+
+ ## IWW Netherlands – An injury to one is an injury to all!
+ - [https://iwwnederland.org](https://iwwnederland.org)
+ - date_published: 2024-06-23T13:50:58.126789+00:00
+
+ ## HOME | IWWPoland
+ - [https://iwwpoland.org](https://iwwpoland.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Felix Elsner · ix5.org
+ - [https://ix5.org](https://ix5.org)
+ - date_published: 2023-04-06T00:45:44+00:00
+
+ ## Interaction Design Detroit | Interaction Design Detroit
+ - [https://2023.ixd2.org](https://2023.ixd2.org)
+ - date_published: 2024-09-16T06:16:29.061122+00:00
+
+ ## Interaction Design Detroit | Interaction Design Detroit
+ - [https://ixd2.org](https://ixd2.org)
+ - date_published: 2024-06-15T04:15:11.852975+00:00
+
+ ## IxDA | Interaction Awards
+ - [http://awards.ixda.org](http://awards.ixda.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Home - interaction17
+ - [http://interaction17.ixda.org](http://interaction17.ixda.org)
+ - date_published: 2024-01-29T21:06:25+00:00
+
+ ## Home – Interaction 18 – 3—8 February 2018 • Lyon, France
+ - [https://interaction18.ixda.org](https://interaction18.ixda.org)
+ - date_published: 2018-02-08T00:00:00+00:00
+
+ ## Credits - Interaction20
+ - [https://interaction20.ixda.org](https://interaction20.ixda.org)
+ - date_published: 2024-01-29T21:23:17+00:00
+
+ ## Student Design Charette
+ - [http://sdc.ixda.org](http://sdc.ixda.org)
+ - date_published: 2023-10-26T18:53:06+00:00
+
+ ## Intel eXtreme Performance Users Group | IXPUG
+ - [https://www.ixpug.org](https://www.ixpug.org)
+ - date_published: 2024-07-19T17:32:41+00:00
+
+ ## Home15 decembre #2
+ - [https://www.iybssd2022.org](https://www.iybssd2022.org)
+ - date_published: 2024-06-30T08:22:03.007211+00:00
+
  ## Johannes Ernst | Welcome
  - [https://j12t.org](https://j12t.org)
  - date_published: 2024-07-31T19:51:19+00:00
@@ -3982,85 +4062,4 @@ Resources
  ## Akademy 2010 | Akademy 2010
  - [https://akademy2010.kde.org](https://akademy2010.kde.org)
  - date_published: 2023-12-08T09:14:24+00:00
-
- ## Akademy 2012 | 30th June - 6th July
- - [https://akademy2012.kde.org](https://akademy2012.kde.org)
- - date_published: 2023-12-08T09:17:23+00:00
-
- ## Home
- - [https://akademy.kde.org](https://akademy.kde.org)
- - date_published: 2024-05-07T14:57:50.679907+00:00
-
- ## Amarok | Rediscover Your Music!
- - [https://amarok.kde.org](https://amarok.kde.org)
- - date_published: 2024-04-29T00:00:00+00:00
- - tags: ['media player', 'music player']
-
- ## API Documentation
- - [https://api.kde.org](https://api.kde.org)
- - date_published: 2024-05-08T09:05:51.047164+00:00
-
- ## KDE Applications
- - [https://apps.kde.org](https://apps.kde.org)
- - date_published: 2024-05-08T09:05:54.840048+00:00
-
- ## KDE neon Developers' Blog – The Latest KDE Software
- - [https://blog.neon.kde.org](https://blog.neon.kde.org)
- - date_published: 2024-06-21T23:53:19.143205+00:00
-
- ## KDE Blogs
- - [https://blogs.kde.org](https://blogs.kde.org)
- - date_published: 2024-06-13T20:52:56+00:00
-
- ## KDE Brasil – A comunidade brasileira da KDE
- - [https://br.kde.org](https://br.kde.org)
- - date_published: 2024-07-07T03:35:42.628009+00:00
-
- ## KDE Bugtracking System Main Page
- - [https://bugs.kde.org](https://bugs.kde.org)
- - date_published: 2024-02-01T21:35:21.710668+00:00
-
- ## Choqok
- - [https://choqok.kde.org](https://choqok.kde.org)
- - date_published: 2010-07-11T16:46:59+00:00
-
- ## KDE Collaborative Storage
- - [https://collaborate.kde.org](https://collaborate.kde.org)
- - date_published: 2024-05-07T14:57:45.033815+00:00
-
- ## KDE Community Wiki
- - [https://community.kde.org](https://community.kde.org)
- - date_published: 2024-03-12T21:03:10.494551+00:00
-
- ## KDE Events Homepage - KDE Community World Summit 2004 "aKademy"
- - [https://conference2004.kde.org](https://conference2004.kde.org)
- - date_published: 2023-12-08T09:06:32+00:00
-
- ## KDE Events Homepage - KDE Developers and Users Conference 2005 "aKademy"
- - [https://conference2005.kde.org](https://conference2005.kde.org)
- - date_published: 2023-12-08T09:09:16+00:00
-
- ## Home · KDE Events (Indico)
- - [https://conf.kde.org](https://conf.kde.org)
- - date_published: 2024-07-07T03:36:19.225039+00:00
-
- ## KDE Developer
- - [https://develop.kde.org](https://develop.kde.org)
- - date_published: 2024-05-02T11:41:51.478091+00:00
-
- ## KDE Discuss
- - [https://discuss-cdn.kde.org](https://discuss-cdn.kde.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## KDE Discuss - KDE Community
- - [https://discuss.kde.org](https://discuss.kde.org)
- - date_published: 2023-10-25T21:36:01.965434+00:00
-
- ## KDE Documentation -
- - [https://docs.kde.org](https://docs.kde.org)
- - date_published: 2024-06-30T02:17:26.274179+00:00
-
- ## KDE.news
- - [https://dot.kde.org](https://dot.kde.org)
- - date_published: 2024-05-08T09:05:59.912225+00:00
 

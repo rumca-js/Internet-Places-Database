@@ -1,3 +1,95 @@
+ ## Museu do Aljube
+ - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
+ - date_published: 2024-05-04T13:34:48.830766+00:00
+
+ ## Mycorp®
+ - [http://www.mycorp.pt](http://www.mycorp.pt)
+ - date_published: 2022-06-22T11:13:47+00:00
+
+ ## Website da Fundação para um Mundo Sem Drogas: Factos sobre Drogas e Toxicodependência de Adultos e Adolescentes, Livros Informativos sobre as Drogas, Educação
+ - [http://www.naoasdrogas.pt](http://www.naoasdrogas.pt)
+ - date_published: 2024-09-04T17:51:28.903269+00:00
+
+ ## Narconon | Reabilitação de Toxicodependentes | Educação Sobre as Drogas
+ - [https://www.narconon.pt](https://www.narconon.pt)
+ - date_published: 2024-09-04T18:08:48.119588+00:00
+
+ ## National Geographic Portugal - Site Oficial - Ciência, natureza, história e viagens
+ - [https://www.nationalgeographic.pt](https://www.nationalgeographic.pt)
+ - date_published: 2024-10-14T22:48:30+00:00
+
+ ## Página Inicial | Media Trends
+ - [https://mediatrends.negocios.pt](https://mediatrends.negocios.pt)
+ - date_published: 2024-07-12T20:30:57.336857+00:00
+
+ ## Nestlé Portugal
+ - [https://empresa.nestle.pt](https://empresa.nestle.pt)
+ - date_published: 2024-09-14T19:39:58+00:00
+
+ ## New Era Publications International ApS
+ - [https://newerapublications.pt](https://newerapublications.pt)
+ - date_published: 2024-06-06T19:42:34.080259+00:00
+
+ ## Capas - Jornal 'Nascer do Sol' e 'i'
+ - [https://capas.newsplex.pt](https://capas.newsplex.pt)
+ - date_published: 2024-07-12T20:31:16.736295+00:00
+
+ ## Newsplex
+ - [https://encartes.newsplex.pt](https://encartes.newsplex.pt)
+ - date_published: 2024-04-25T16:47:24+00:00
+
+ ## Nickelodeon Portugal
+ - [https://www.nickelodeon.pt](https://www.nickelodeon.pt)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Site oficial da Nintendo Ibérica
+ - [https://www.nintendo.pt](https://www.nintendo.pt)
+ - date_published: 2024-05-06T15:46:50.860153+00:00
+
+ ## NiTfm: a primeira rádio de lifestyle de Portugal
+ - [https://www.nitfm.pt](https://www.nitfm.pt)
+ - date_published: 2024-09-05T14:57:04.472530+00:00
+
+ ## bem-vindo - Nmotor
+ - [https://nmotor.pt](https://nmotor.pt)
+ - date_published: 2024-07-16T17:37:02+00:00
+
+ ## Noesis |  Helping Your Business Grow Faster
+ - [https://www.noesis.pt](https://www.noesis.pt)
+ - date_published: 2024-10-14T15:36:03.784297+00:00
+
+ ## NORTFILMES – VIDEO
+ - [https://www.nortfilmes.pt](https://www.nortfilmes.pt)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## notEqual Consulting - We lead innovation for digital products
+ - [https://notequal.pt](https://notequal.pt)
+ - date_published: 2024-10-14T15:36:21.812487+00:00
+
+ ## Home - Notícias de Águeda
+ - [https://www.noticiasdeagueda.pt](https://www.noticiasdeagueda.pt)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Home - Notícias de Anadia
+ - [https://noticiasdeanadia.pt](https://noticiasdeanadia.pt)
+ - date_published: 2024-09-05T15:17:32+00:00
+
+ ## Homepage
+ - [http://noticiasdosorraia.pt](http://noticiasdosorraia.pt)
+ - date_published: 2019-06-27T16:04:27+00:00
+
+ ## Novo Atalho -  O caminho mais económico para as suas compras em tecnologia.
+ - [https://www.novoatalho.pt](https://www.novoatalho.pt)
+ - date_published: 2024-07-13T13:39:47.403974+00:00
+
+ ## Particulares - Juntos fazemos o futuro | novobanco
+ - [https://www.novobanco.pt](https://www.novobanco.pt)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## N-TV
+ - [http://www.n-tv.pt](http://www.n-tv.pt)
+ - date_published: 2024-06-25T18:51:56.812183+00:00
+
  ## Golden Eagle – Smart Living in Nature
  - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
  - date_published: 2024-06-25T16:32:25.133225+00:00
@@ -3940,96 +4032,4 @@
  ## Banca Transilvania. Bank for Entrepreneurs
  - [https://en.bancatransilvania.ro](https://en.bancatransilvania.ro)
  - date_published: 2024-05-28T00:00:00+00:00
-
- ## BT GO | Aplicația ta de business
- - [https://go.bancatransilvania.ro](https://go.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:01.249802+00:00
-
- ## Banca Transilvania. Bank vállalkozóknak
- - [https://hu.bancatransilvania.ro](https://hu.bancatransilvania.ro)
- - date_published: 2024-09-16T03:05:21.194811+00:00
-
- ## Întreb BT | Banca Transilvania
- - [https://intreb.bancatransilvania.ro](https://intreb.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:33.807808+00:00
-
- ## Banca Transilvania. Banca per gli imprenditori
- - [https://it.bancatransilvania.ro](https://it.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:59.678925+00:00
-
- ## Banca Transilvania. Банк для підприємців
- - [https://ukr.bancatransilvania.ro](https://ukr.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:25.941209+00:00
-
- ## Banca Transilvania. Banca Oamenilor Întreprinzători
- - [https://www.bancatransilvania.ro](https://www.bancatransilvania.ro)
- - date_published: 2024-09-16T03:04:52.427216+00:00
-
- ## Owlet BBC BASIC Editor
- - [https://bbcmic.ro](https://bbcmic.ro)
- - date_published: 2024-01-17T05:11:30.033411+00:00
-
- ## VirtualBeeb - BBC Micro 3D simulation
- - [https://virtual.bbcmic.ro](https://virtual.bbcmic.ro)
- - date_published: 2021-12-01T00:00:00+00:00
-
- ## BCR - Persoane fizice
- - [https://www.bcr.ro](https://www.bcr.ro)
- - date_published: 2024-10-02T10:28:52+00:00
-
- ## Biblioteca Centrală Universitară "Lucian Blaga" Cluj-Napoca |
- - [http://www.bcucluj.ro](http://www.bcucluj.ro)
- - date_published: 2024-06-23T08:14:30+00:00
-
- ## BEREA OFICIALĂ A REDACȚIEI TIMES NEW ROMAN
- - [https://bereatnr.ro](https://bereatnr.ro)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Bitdefender - Lider global software de securitate cibernetică
- - [https://www.bitdefender.ro](https://www.bitdefender.ro)
- - date_published: 2024-07-20T02:26:46.575962+00:00
-
- ## Custom web applications and websites | BIXEL - Web development agency
- - [http://bixel.ro](http://bixel.ro)
- - date_published: 2024-10-16T20:53:44.530561+00:00
-
- ## Curse cu mașina sau cu autobuzul la prețuri mici. | BlaBlaCar
- - [https://blablacar.ro](https://blablacar.ro)
- - date_published: 2024-06-15T01:00:52.366419+00:00
-
- ## BlaBlaLife
- - [https://blog.blablacar.ro](https://blog.blablacar.ro)
- - date_published: 2024-09-15T19:54:09.476966+00:00
-
- ## python-catalin
- - [http://python-catalin.blogspot.ro](http://python-catalin.blogspot.ro)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Creare Magazin Online pe Platforma Ecommerce Magento. Realizare magazine online - Blugento
- - [https://www.blugento.ro](https://www.blugento.ro)
- - date_published: 2024-04-25T09:55:53+00:00
-
- ## TOP 20 Casino Online în 2024 - Cazinouri Online Noi Romania
- - [https://www.bogdancazino.ro](https://www.bogdancazino.ro)
- - date_published: 2024-06-19T12:14:58+00:00
-
- ## Electrocasnice Bosch: experimentează sustenabilitatea, calitatea și precizia.
- - [https://www.bosch-home.ro](https://www.bosch-home.ro)
- - date_published: 2024-06-16T21:35:51.747457+00:00
-
- ## Brico Dépôt - Totul pentru casa si gradina
- - [https://www.bricodepot.ro](https://www.bricodepot.ro)
- - date_published: 2024-09-03T19:36:32.013095+00:00
-
- ## Brother Online
- - [https://atyourside.brother.ro](https://atyourside.brother.ro)
- - date_published: 2024-06-17T21:02:07.009141+00:00
-
- ## Imprimante pentru birou | Soluții pentru afaceri | Brother
- - [https://brother.ro](https://brother.ro)
- - date_published: 2024-10-20T12:07:56.644875+00:00
-
- ## Muzeul Naţional Brukenthal
- - [http://www.brukenthalmuseum.ro](http://www.brukenthalmuseum.ro)
- - date_published: 2024-06-24T09:50:15+00:00
 

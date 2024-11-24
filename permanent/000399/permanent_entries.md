@@ -1,3 +1,99 @@
+ ## Płatne autostrady w Polsce, punkty poboru opłat, MOP, stacje | Autostrada Wielkopolska S.A.
+ - [https://www.autostrada-a2.pl](https://www.autostrada-a2.pl)
+ - date_published: 2024-07-13T19:17:01.970350+00:00
+
+ ## Auto Świat -
+        
+        Portal motoryzacyjny
+ - [https://auto-swiat.pl](https://auto-swiat.pl)
+ - date_published: 2024-05-26T12:31:09.142994+00:00
+ - tags: ['cars']
+
+ ## Avanti24.pl
+ - [https://avanti24.pl](https://avanti24.pl)
+ - date_published: 2024-07-01T08:02:43.567288+00:00
+
+ ## Avanti24.pl
+ - [https://zakupy.avanti24.pl](https://zakupy.avanti24.pl)
+ - date_published: 2024-08-19T13:33:07.756799+00:00
+
+ ## AVIATION4U - Aviation store, gifts for the pilot
+ - [https://aviation4u.pl](https://aviation4u.pl)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Drones FPV
+ - [https://avifly.pl](https://avifly.pl)
+ - date_published: 2024-09-05T18:33:55.783629+00:00
+
+ ## Fundacja AVLab.pl dla Cyberbezpieczeństwa
+ - [https://avlab.pl](https://avlab.pl)
+ - date_published: 2023-10-25T22:25:46.610794+00:00
+
+ ## Avrii - Hurtownia fotowoltaiczna, instalacje, sklep fotowoltaika, szkolenia - Avrii
+ - [https://avrii.pl](https://avrii.pl)
+ - date_published: 2024-05-30T00:42:29.546079+00:00
+
+ ## Hurtownia fotowoltaiczna - Avrii Platforma B2B
+ - [http://b2b.avrii.pl](http://b2b.avrii.pl)
+ - date_published: 2024-09-03T22:36:08.593737+00:00
+
+ ## Wydawnictwo AVT - tworzymy z pasją
+ - [https://avt.pl](https://avt.pl)
+ - date_published: 2023-12-13T14:58:41.817221+00:00
+
+ ## Serwis.AVT.pl
+ - [https://serwis.avt.pl](https://serwis.avt.pl)
+ - date_published: 2024-08-18T10:50:18.817550+00:00
+
+ ## Internetowy Sklep Elektroniczny - Sklep AVT z Elektroniką
+ - [https://sklep.avt.pl](https://sklep.avt.pl)
+ - date_published: 2023-12-13T14:59:13.012287+00:00
+
+ ## cyber_Folks - logowanie do panelu administratora
+ - [http://aweo.pl](http://aweo.pl)
+ - date_published: 2022-07-25T12:02:14+00:00
+
+ ## Strona główna
+ - [https://axelo.pl](https://axelo.pl)
+ - date_published: 2024-07-09T13:24:03.746215+00:00
+
+ ## Organizacja loterii promocyjnych i konkursów - Axia Retail
+ - [https://axiaretail.pl](https://axiaretail.pl)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## AZB - Centrum Usług Wspólnych
+ - [https://azb-cuw.pl](https://azb-cuw.pl)
+ - date_published: 2024-05-09T05:56:16.320876+00:00
+
+ ## Free educational websites
+ - [http://aztekium.pl](http://aztekium.pl)
+ - date_published: 2024-07-17T06:51:00.804382+00:00
+
+ ## BabaGra.pl | Baba Gra i pisze, czyli informacje o grach na topie i tych nieco mniej znanych - BabaGra.pl
+ - [https://babagra.pl](https://babagra.pl)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Bajeczki24 | Oglądaj najnowsze filmy i seriale za darmo, bez logowania
+ - [https://bajeczki24.pl](https://bajeczki24.pl)
+ - date_published: 2024-11-07T07:36:47+00:00
+ - tags: ['piracy']
+
+ ## Homepage-en - Baker Tilly TPA
+ - [https://bakertilly.pl](https://bakertilly.pl)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Ogród Balamb — Tłumaczenia FFVIII, FFX, Crisis Core, FFXIII, FFXIII-2, FFXV, Chronidia
+ - [https://balamb.pl](https://balamb.pl)
+ - date_published: 2024-05-30T12:10:55.998541+00:00
+
+ ## Domy drewniane z bali całoroczne - projekty - BaleiDetale.pl
+ - [https://baleidetale.pl](https://baleidetale.pl)
+ - date_published: 2020-09-21T07:03:34+00:00
+
+ ## Baltic Summit
+ - [https://balticsummit.pl](https://balticsummit.pl)
+ - date_published: 2024-08-11T17:42:01.965011+00:00
+
  ## Klient indywidualny - Bank Polskiej Spółdzielczości
  - [http://www.bankbps.pl](http://www.bankbps.pl)
  - date_published: 2024-07-13T19:13:08+00:00
@@ -3979,98 +4075,4 @@
  ## Fresh Point - Dystrybutor świeżych owoców i warzyw
  - [http://www.fresh-point.pl](http://www.fresh-point.pl)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## Wkrótce ruszamy - Frizbi
- - [https://www.frizbi.pl](https://www.frizbi.pl)
- - date_published: 2024-08-08T19:24:18.854776+00:00
-
- ## Fronda - strona główna | Fronda.pl
- - [https://fronda.pl](https://fronda.pl)
- - date_published: 2023-10-25T22:27:20.822064+00:00
-
- ## Witamy w firmie Fronius Polska Sp. Z o.o.
- - [http://www.fronius.pl](http://www.fronius.pl)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Forum Rynku Spożywczego i Handlu 4-5 listopada 2024 r., Warszawa, Hotel Sheraton
- - [https://www.frsih.pl](https://www.frsih.pl)
- - date_published: 2024-07-14T05:21:52.012941+00:00
-
- ## A Certain Magical Index
- - [https://pop.fsck.pl](https://pop.fsck.pl)
- - date_published: 2023-12-06T08:54:14.512570+00:00
- - tags: ['personal', 'hardware']
-
- ## FTB.pl
- - [https://ftb.pl](https://ftb.pl)
- - date_published: 2024-09-02T13:50:33.512441+00:00
-
- ## Fundacja Technologie dla Ludzi
- - [https://ftdl.pl](https://ftdl.pl)
- - date_published: 2021-04-05T12:02:38+00:00
-
- ## FujiCup - konkurs na najlepszą grę na Atari XL/XE
- - [https://fujicup.pl](https://fujicup.pl)
- - date_published: 2024-09-04T17:27:35.621892+00:00
-
- ## Fundacja Zoo Wrocław DODO
- - [https://fundacjadodo.pl](https://fundacjadodo.pl)
- - date_published: 2024-08-11T04:29:01.827270+00:00
-
- ## Fundacja DPD Polska
- - [https://fundacja-dpd.pl](https://fundacja-dpd.pl)
- - date_published: 2024-06-16T19:49:47.896458+00:00
-
- ## Fundacja Edukacji Klimatycznej
- - [https://fundacjaedukacjiklimatycznej.pl](https://fundacjaedukacjiklimatycznej.pl)
- - date_published: 2024-08-18T17:02:12.554609+00:00
-
- ## Fundacja inCanto | zachwycamy muzyką sakralną
- - [https://fundacjaincanto.pl](https://fundacjaincanto.pl)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Fundacja In_Spire
- - [https://fundacjainspire.pl](https://fundacjainspire.pl)
- - date_published: 2024-08-18T14:40:47.451820+00:00
-
- ## Fundacja ISKIERKA
- - [http://fundacjaiskierka.pl](http://fundacjaiskierka.pl)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Fundacja Komputronik
- - [https://fundacjakomputronik.pl](https://fundacjakomputronik.pl)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Rozdział 1 Wstęp | Teoria Współczesnych Systemów Monetarnych
- - [https://mmt.fundacjalipinskiego.pl](https://mmt.fundacjalipinskiego.pl)
- - date_published: 2023-05-24T00:00:00+00:00
-
- ## Strona główna — Site
- - [https://www.fundacjapkobp.pl](https://www.fundacjapkobp.pl)
- - date_published: 2024-07-25T20:04:28+00:00
-
- ## Fundacja Plaster |
- - [https://fundacjaplaster.pl](https://fundacjaplaster.pl)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Strona główna
- - [https://www.fundacjaradiazet.pl](https://www.fundacjaradiazet.pl)
- - date_published: 2024-08-18T15:24:07+00:00
-
- ## Fundacja Salony |
- - [http://fundacjasalony.pl](http://fundacjasalony.pl)
- - date_published: 2024-07-01T07:53:40.907172+00:00
-
- ## Fundacja Pomocy Osobom Niepełnosprawnym Słoneczko
- - [http://www.fundacja-sloneczko.pl](http://www.fundacja-sloneczko.pl)
- - date_published: 2024-08-18T17:10:08.414016+00:00
-
- ## Fundacja Tygodnika „Wprost”
- - [https://fundacjawprost.pl](https://fundacjawprost.pl)
- - date_published: 2024-07-17T05:57:51.650812+00:00
-
- ## Fundacja wspieram – Podnosimy poziom zaangażowania młodzieży oraz seniorów w sprawy lokalne
- - [https://fundacjawspieram.pl](https://fundacjawspieram.pl)
- - date_published: 2024-07-11T15:50:29.817939+00:00
- - tags: ['charity']
 

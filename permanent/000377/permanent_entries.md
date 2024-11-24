@@ -1,3 +1,83 @@
+ ## lists.mpi-sws.org Mailing Lists
+ - [https://lists.mpi-sws.org](https://lists.mpi-sws.org)
+ - date_published: 2024-07-07T04:14:40.581688+00:00
+
+ ## MPI SWS – Max Planck Institute for Software Systems
+ - [https://mpi-sws.org](https://mpi-sws.org)
+ - date_published: 2024-04-29T06:29:36.436738+00:00
+
+ ## Page Redirection
+ - [https://os-services.mpi-sws.org](https://os-services.mpi-sws.org)
+ - date_published: 2024-03-05T08:57:43+00:00
+
+ ## People at MPI-SWS – MPI SWS
+ - [https://people.mpi-sws.org](https://people.mpi-sws.org)
+ - date_published: 2024-06-24T10:20:30+00:00
+
+ ## Programming Languages & Verification – MPI SWS
+ - [https://plv.mpi-sws.org](https://plv.mpi-sws.org)
+ - date_published: 2024-05-08T09:17:27.012170+00:00
+
+ ## Principles of Programming Languages (POPL)
+ - [http://popl.mpi-sws.org](http://popl.mpi-sws.org)
+ - date_published: 2022-10-26T16:22:02+00:00
+
+ ## SOSP 2021 - Symposium on Operating Systems Principles
+ - [https://sosp2021.mpi-sws.org](https://sosp2021.mpi-sws.org)
+ - date_published: 2021-10-28T21:42:59+00:00
+
+ ## SOSP 2023 - Symposium on Operating Systems Principles
+ - [https://sosp2023.mpi-sws.org](https://sosp2023.mpi-sws.org)
+ - date_published: 2023-11-16T14:22:44+00:00
+
+ ## FrontPage - wiki
+ - [https://wiki.mpi-sws.org](https://wiki.mpi-sws.org)
+ - date_published: 2024-07-07T04:16:30.614748+00:00
+
+ ## wp.mpi-sws.org
+ - [https://wp.mpi-sws.org](https://wp.mpi-sws.org)
+ - date_published: 2024-06-18T11:59:05.099347+00:00
+
+ ## mpmath - Python library for arbitrary-precision floating-point arithmetic
+ - [https://mpmath.org](https://mpmath.org)
+ - date_published: 2023-03-07T21:24:07+00:00
+
+ ## MPQC
+ - [https://mpqc.org](https://mpqc.org)
+ - date_published: 2020-02-04T15:13:11+00:00
+
+ ## Home | Minnesota Public Radio
+ - [https://mpr.org](https://mpr.org)
+ - date_published: 2024-05-08T10:32:55.152059+00:00
+
+ ## Support Minnesota Public Radio Today! | American Public Media
+ - [https://support.mpr.org](https://support.mpr.org)
+ - date_published: 2024-07-04T08:11:29+00:00
+
+ ## MPR Events – St. Paul, MN
+ - [https://www.mprevents.org](https://www.mprevents.org)
+ - date_published: 2024-07-07T10:34:27.274272+00:00
+
+ ## MPR News
+ - [https://mprnews.org](https://mprnews.org)
+ - date_published: 2023-10-25T11:07:25.515521+00:00
+
+ ## Monterey Peninsula Regional Park District
+ - [https://mprpd.org](https://mprpd.org)
+ - date_published: 2024-05-15T14:26:40.620038+00:00
+
+ ## Uncode - Creative Multiuse WordPress Theme
+ - [https://www.mpsanet.org](https://www.mpsanet.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Mountain Pacific Sports Federation
+ - [https://mpsports.org](https://mpsports.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Muscatine Power and Water | Muscatine Power and Water
+ - [http://www.mpw.org](http://www.mpw.org)
+ - date_published: 2024-06-29T16:21:20.722257+00:00
+
  ## MQTT - The Standard for IoT Messaging
  - [https://mqtt.org](https://mqtt.org)
  - date_published: 2024-05-23T12:39:16+00:00
@@ -3944,84 +4024,4 @@
  ## Neko Buttons
  - [https://buttons.nekoweb.org](https://buttons.nekoweb.org)
  - date_published: 2024-05-08T09:43:38+00:00
-
- ## calico's site!!
- - [https://calico.nekoweb.org](https://calico.nekoweb.org)
- - date_published: 2024-02-26T19:01:26.538464+00:00
-
- ## My site!
- - [https://catpea.nekoweb.org](https://catpea.nekoweb.org)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Charbomber's Game Corner
- - [https://charbomber.nekoweb.org](https://charbomber.nekoweb.org)
- - date_published: 2024-05-03T19:20:37+00:00
-
- ## click here!!
- - [https://charle.nekoweb.org](https://charle.nekoweb.org)
- - date_published: 2024-02-26T19:01:27.769468+00:00
-
- ## My site!
- - [https://clown.nekoweb.org](https://clown.nekoweb.org)
- - date_published: 2024-02-26T19:01:28.452107+00:00
-
- ## collections has moved
- - [https://collections.nekoweb.org](https://collections.nekoweb.org)
- - date_published: 2024-04-23T03:30:08+00:00
-
- ## mischief
- - [https://coolbunnies.nekoweb.org](https://coolbunnies.nekoweb.org)
- - date_published: 2024-02-26T19:01:29.122920+00:00
-
- ## the cosiest diner in town
- - [https://cosy-diner.nekoweb.org](https://cosy-diner.nekoweb.org)
- - date_published: 2024-08-29T20:15:09+00:00
-
- ## Cirno's Frozen Wonderland
- - [https://csprea.nekoweb.org](https://csprea.nekoweb.org)
- - date_published: 2024-02-26T02:20:05+00:00
-
- ## DARKO-SPARKO Systems!
- - [https://darkosparko.nekoweb.org](https://darkosparko.nekoweb.org)
- - date_published: 2024-07-09T07:58:49+00:00
-
- ## Daryl Sun's Journal
- - [https://darylsun.nekoweb.org](https://darylsun.nekoweb.org)
- - date_published: 2024-03-17T08:34:04+00:00
-
- ## Suddenly everything flowing like water...
- - [https://deathlobotomy.nekoweb.org](https://deathlobotomy.nekoweb.org)
- - date_published: 2024-02-26T19:01:30.331782+00:00
-
- ## thxdeeply
- - [https://deeply.nekoweb.org](https://deeply.nekoweb.org)
- - date_published: 2024-06-16T23:53:04+00:00
-
- ## dimden's cool site
- - [https://dimden.nekoweb.org](https://dimden.nekoweb.org)
- - date_published: 2024-02-26T19:01:31.146400+00:00
-
- ## Nekoweb Districts
- - [https://districts.nekoweb.org](https://districts.nekoweb.org)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## My site!
- - [https://dobryzuber.nekoweb.org](https://dobryzuber.nekoweb.org)
- - date_published: 2024-02-26T19:01:31.616150+00:00
-
- ## basural
- - [https://dogbobby.nekoweb.org](https://dogbobby.nekoweb.org)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## dyrk x laz
- - [https://dyrk.nekoweb.org](https://dyrk.nekoweb.org)
- - date_published: 2024-02-25T19:42:44+00:00
-
- ## Ender's Less Terrible Site
- - [https://enderoxxo.nekoweb.org](https://enderoxxo.nekoweb.org)
- - date_published: 2024-04-24T21:48:33+00:00
-
- ## ★ aetheryte plaza!
- - [https://etheirys.nekoweb.org](https://etheirys.nekoweb.org)
- - date_published: 2024-05-08T10:44:06.766593+00:00
 

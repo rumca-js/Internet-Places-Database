@@ -1,3 +1,19 @@
+ ## Doug McNeall's blog
+ - [https://dougmcneall.com](https://dougmcneall.com)
+ - date_published: 2024-06-30T02:48:01.028726+00:00
+
+ ## Doug Savage – Cartoonist and Moose Wrangler
+ - [https://dougsavage.com](https://dougsavage.com)
+ - date_published: 2024-04-29T02:01:14.195382+00:00
+
+ ## Doug Seven – Something can be learned in the course of observing things
+ - [https://dougseven.com](https://dougseven.com)
+ - date_published: 2023-10-25T13:57:37.103486+00:00
+
+ ## Douglas Simpson - Lawyer, Educator, Writer
+ - [http://dougsimpson.com](http://dougsimpson.com)
+ - date_published: 2011-08-19T23:50:08+00:00
+
  ## Doug TenNapel Comics
  - [http://dougtcomics.com](http://dougtcomics.com)
  - date_published: 2021-06-30T21:08:19+00:00
@@ -4025,20 +4041,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## The Duke Chronicle
  - [https://store.dukechronicle.com](https://store.dukechronicle.com)
  - date_published: 2024-09-15T11:55:59.953255+00:00
-
- ## Top Energy Service Companies | Duke Energy One
- - [https://energyservices.duke-energy.com](https://energyservices.duke-energy.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home
- - [https://illumination.duke-energy.com](https://illumination.duke-energy.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investors.duke-energy.com](https://investors.duke-energy.com)
- - date_published: 2024-06-16T07:06:18.725718+00:00
-
- ## Duke Energy - Lakes And Recreation
- - [https://lakes.duke-energy.com](https://lakes.duke-energy.com)
- - date_published: 2017-03-13T00:00:00+00:00
 

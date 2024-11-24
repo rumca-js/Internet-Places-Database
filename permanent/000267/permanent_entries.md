@@ -1,3 +1,67 @@
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://accessibleweb.as.ua.edu](https://accessibleweb.as.ua.edu)
+ - date_published: 2024-05-07T20:39:39.735712+00:00
+
+ ## Admissions
+ - [https://admissions.ua.edu](https://admissions.ua.edu)
+ - date_published: 2024-07-01T21:54:20.639415+00:00
+
+ ## Admissions
+ - [https://adm.ua.edu](https://adm.ua.edu)
+ - date_published: 2024-07-01T21:54:09.170637+00:00
+
+ ## Afford - Afford | The University of Alabama
+ - [https://afford.ua.edu](https://afford.ua.edu)
+ - date_published: 2024-07-01T21:54:18.257452+00:00
+
+ ## The University of Alabama National Alumni Association
+ - [https://alumni.ua.edu](https://alumni.ua.edu)
+ - date_published: 2024-07-01T22:02:54.453268+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://as.ua.edu](https://as.ua.edu)
+ - date_published: 2024-05-07T20:40:15.778686+00:00
+
+ ## University of Alabama - Online and Distance Degrees - UA Online
+ - [http://bamabydistance.ua.edu](http://bamabydistance.ua.edu)
+ - date_published: 2024-07-01T21:49:09.767019+00:00
+
+ ## Events Calendar
+ - [https://calendar.ua.edu](https://calendar.ua.edu)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Careers at University of Alabama
+ - [https://careers.ua.edu](https://careers.ua.edu)
+ - date_published: 2024-07-01T21:51:30.412077+00:00
+
+ ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
+ - [https://catalogs.ua.edu](https://catalogs.ua.edu)
+ - date_published: 2024-05-07T20:40:08.577119+00:00
+
+ ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
+ - [https://catalog.ua.edu](https://catalog.ua.edu)
+ - date_published: 2024-05-07T20:40:54.119330+00:00
+
+ ## College of Community Health Sciences –  | The University of Alabama
+ - [http://cchs.ua.edu](http://cchs.ua.edu)
+ - date_published: 2024-07-01T21:49:25.264140+00:00
+
+ ## College of Communication & Information Sciences – Create Your Story
+ - [http://cis.ua.edu](http://cis.ua.edu)
+ - date_published: 2024-07-01T21:49:41.158573+00:00
+
+ ## Center for Instructional Technology – Center for Instructional Technology | The University of Alabama
+ - [https://cit.ua.edu](https://cit.ua.edu)
+ - date_published: 2024-07-01T22:03:05.672470+00:00
+
+ ## Community Affairs – Engaging Communities, Changing Lives | The University of Alabama
+ - [http://communityaffairs.ua.edu](http://communityaffairs.ua.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Compliance and Risk Services - Compliance and Risk Services
+ - [https://complianceandriskservices.ua.edu](https://complianceandriskservices.ua.edu)
+ - date_published: 2024-07-01T21:55:33.886164+00:00
+
  ## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
  - [https://compliance.ua.edu](https://compliance.ua.edu)
  - date_published: 2024-05-07T20:40:52.548818+00:00
@@ -3960,68 +4024,4 @@
  ## School of Public Affairs | UCLA Luskin
  - [https://luskin.ucla.edu](https://luskin.ucla.edu)
  - date_published: 2024-05-07T20:55:15.920022+00:00
-
- ## Home | Transportation
- - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
- - date_published: 2024-05-07T20:55:26.311984+00:00
-
- ## UCLA Med School
- - [https://medschool.ucla.edu](https://medschool.ucla.edu)
- - date_published: 2024-06-29T11:34:56+00:00
-
- ## Memory Work | Los Angeles
- - [https://memorywork.irle.ucla.edu](https://memorywork.irle.ucla.edu)
- - date_published: 2024-07-01T23:06:24.623787+00:00
-
- ## UCLA MII – Medical and Imaging Informatics
- - [https://mii.ucla.edu](https://mii.ucla.edu)
- - date_published: 2024-05-07T15:26:25.393622+00:00
-
- ## MSOL | Master of Science in Engineering Online
- - [http://msengrol.seas.ucla.edu](http://msengrol.seas.ucla.edu)
- - date_published: 2024-08-11T03:42:02.102106+00:00
-
- ## UCLA
- - [https://mygiving.ucla.edu](https://mygiving.ucla.edu)
- - date_published: 2024-05-30T21:50:59+00:00
-
- ## Sign in to your account
- - [https://my.law.ucla.edu](https://my.law.ucla.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MyUCLA
- - [https://my.ucla.edu](https://my.ucla.edu)
- - date_published: 2024-07-01T23:05:07.433141+00:00
-
- ## Newsroom | UCLA
- - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
- - date_published: 2023-10-25T19:00:36.419553+00:00
-
- ## New Student & Transition Programs
- - [https://newstudents.ucla.edu](https://newstudents.ucla.edu)
- - date_published: 2024-07-01T22:56:03.305914+00:00
-
- ## Optimism - UCLA
- - [https://optimism.ucla.edu](https://optimism.ucla.edu)
- - date_published: 2023-01-03T22:52:19+00:00
-
- ## UCLA Philanthropy Forward
- - [https://philanthropy.ucla.edu](https://philanthropy.ucla.edu)
- - date_published: 2024-07-01T23:04:55.531345+00:00
-
- ## Home - Department of Philosophy - UCLA
- - [https://philosophy.ucla.edu](https://philosophy.ucla.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UCLA Fielding School of Public Health | UCLA Fielding
- - [https://ph.ucla.edu](https://ph.ucla.edu)
- - date_published: 2023-10-25T19:00:39.211230+00:00
-
- ## UCLA’s Division of Physical Sciences
- - [https://physicalsciences.ucla.edu](https://physicalsciences.ucla.edu)
- - date_published: 2024-07-01T02:37:43.582969+00:00
-
- ## Home – UCLA Housing | Housing
- - [https://portal.housing.ucla.edu](https://portal.housing.ucla.edu)
- - date_published: 2024-07-01T22:39:35+00:00
 

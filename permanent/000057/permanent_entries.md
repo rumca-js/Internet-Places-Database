@@ -1,3 +1,11 @@
+ ## ConstantCon
+ - [http://constantcon.blogspot.com](http://constantcon.blogspot.com)
+ - date_published: 2024-03-13T10:17:27+00:00
+
+ ## Constantly Furious
+ - [http://constantlyfurious.blogspot.com](http://constantlyfurious.blogspot.com)
+ - date_published: 2024-10-21T14:10:05.456258+00:00
+
  ## Blogger
  - [http://consul-at-arms.blogspot.com](http://consul-at-arms.blogspot.com)
  - date_published: 2024-06-27T09:25:17.747787+00:00
@@ -3999,12 +4007,4 @@
  ## E-Pression
  - [http://e-pression.blogspot.com](http://e-pression.blogspot.com)
  - date_published: 2008-02-10T03:09:00+00:00
-
- ## Everquest Daily Grind: MMORPG Infinity (no beyond)
- - [https://eqdailygrind.blogspot.com](https://eqdailygrind.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Equatorial Minnesota
- - [https://equatorialminnesota.blogspot.com](https://equatorialminnesota.blogspot.com)
- - date_published: 2024-10-19T05:17:34.354669+00:00
 

@@ -1,3 +1,15 @@
+ ## CIVIC
+ - [https://apikeys.civiccomputing.com](https://apikeys.civiccomputing.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.civiccomputing.com](https://stats.civiccomputing.com)
+ - date_published: 2024-06-29T11:47:02.236487+00:00
+
+ ## Voter Guide
+ - [https://app.ipl.civicengine.com](https://app.ipl.civicengine.com)
+ - date_published: 2024-06-10T19:18:29+00:00
+
  ## Civic Game Jam – We want better stories
  - [https://civicgamejam.com](https://civicgamejam.com)
  - date_published: 2024-05-06T06:33:21.197196+00:00
@@ -4016,16 +4028,4 @@
 		CloudLinux Community Forum
  - [https://forum.cloudlinux.com](https://forum.cloudlinux.com)
  - date_published: 2024-09-27T09:37:44.262917+00:00
-
- ## Welcome to Cisco Cloudlock
- - [https://login.cloudlock.com](https://login.cloudlock.com)
- - date_published: 2024-06-16T17:08:57.886308+00:00
-
- ## CloudMade
- - [http://www.cloudmade.com](http://www.cloudmade.com)
- - date_published: 2024-06-20T14:40:21.950404+00:00
-
- ## Cloud Microphones | Manufacturer of Microphones and Cloudlifters
- - [https://www.cloudmicrophones.com](https://www.cloudmicrophones.com)
- - date_published: 2024-06-23T06:01:15.435785+00:00
 

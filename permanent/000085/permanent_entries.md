@@ -1,3 +1,19 @@
+ ## Open Source @ Deutsche Bahn
+ - [https://opensource.deutschebahn.com](https://opensource.deutschebahn.com)
+ - date_published: 2024-06-20T12:16:31.604150+00:00
+
+ ## Deutsche Bahn
+ - [https://www.deutschebahn.com](https://www.deutschebahn.com)
+ - date_published: 2024-06-16T12:17:09.769194+00:00
+
+ ## Deutsche Beverage & Process
+ - [https://deutschebeverage.com](https://deutschebeverage.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Gruppe Deutsche Börse - Gruppe Deutsche Börse
+ - [https://deutsche-boerse.com](https://deutsche-boerse.com)
+ - date_published: 2024-06-22T21:40:06.781385+00:00
+
  ## Sicherheit und Datenschutz | Deutsche Grammophon
  - [https://sicherheitunddatenschutz.deutschegrammophon.com](https://sicherheitunddatenschutz.deutschegrammophon.com)
  - date_published: 2024-09-16T02:57:00+00:00
@@ -4021,21 +4037,4 @@ A blog about programming, distributed systems and others
  ## DigitalDreamDoor.com - Greatest Music, Movie, and Book lists
  - [http://www.digitaldreamdoor.com](http://www.digitaldreamdoor.com)
  - date_published: 2003-09-11T00:00:00+00:00
-
- ## Digital Eclipse
- - [https://digitaleclipse.com](https://digitaleclipse.com)
- - date_published: 2024-06-17T00:00:00+00:00
- - tags: ['video game developer', 'retro games']
-
- ## Home - DigitalEd
- - [https://www.digitaled.com](https://www.digitaled.com)
- - date_published: 2024-07-06T23:17:14.744440+00:00
-
- ## Assessbase
- - [https://assessbase.digitalefqm.com](https://assessbase.digitalefqm.com)
- - date_published: 2024-06-17T15:56:30.576329+00:00
-
- ## Assessbase
- - [https://assessbase-v2.digitalefqm.com](https://assessbase-v2.digitalefqm.com)
- - date_published: 2024-10-19T16:25:30.737455+00:00
 

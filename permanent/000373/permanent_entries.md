@@ -1,3 +1,84 @@
+ ## Akademy 2012 | 30th June - 6th July
+ - [https://akademy2012.kde.org](https://akademy2012.kde.org)
+ - date_published: 2023-12-08T09:17:23+00:00
+
+ ## Home
+ - [https://akademy.kde.org](https://akademy.kde.org)
+ - date_published: 2024-05-07T14:57:50.679907+00:00
+
+ ## Amarok | Rediscover Your Music!
+ - [https://amarok.kde.org](https://amarok.kde.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+ - tags: ['media player', 'music player']
+
+ ## API Documentation
+ - [https://api.kde.org](https://api.kde.org)
+ - date_published: 2024-05-08T09:05:51.047164+00:00
+
+ ## KDE Applications
+ - [https://apps.kde.org](https://apps.kde.org)
+ - date_published: 2024-05-08T09:05:54.840048+00:00
+
+ ## KDE neon Developers' Blog – The Latest KDE Software
+ - [https://blog.neon.kde.org](https://blog.neon.kde.org)
+ - date_published: 2024-06-21T23:53:19.143205+00:00
+
+ ## KDE Blogs
+ - [https://blogs.kde.org](https://blogs.kde.org)
+ - date_published: 2024-06-13T20:52:56+00:00
+
+ ## KDE Brasil – A comunidade brasileira da KDE
+ - [https://br.kde.org](https://br.kde.org)
+ - date_published: 2024-07-07T03:35:42.628009+00:00
+
+ ## KDE Bugtracking System Main Page
+ - [https://bugs.kde.org](https://bugs.kde.org)
+ - date_published: 2024-02-01T21:35:21.710668+00:00
+
+ ## Choqok
+ - [https://choqok.kde.org](https://choqok.kde.org)
+ - date_published: 2010-07-11T16:46:59+00:00
+
+ ## KDE Collaborative Storage
+ - [https://collaborate.kde.org](https://collaborate.kde.org)
+ - date_published: 2024-05-07T14:57:45.033815+00:00
+
+ ## KDE Community Wiki
+ - [https://community.kde.org](https://community.kde.org)
+ - date_published: 2024-03-12T21:03:10.494551+00:00
+
+ ## KDE Events Homepage - KDE Community World Summit 2004 "aKademy"
+ - [https://conference2004.kde.org](https://conference2004.kde.org)
+ - date_published: 2023-12-08T09:06:32+00:00
+
+ ## KDE Events Homepage - KDE Developers and Users Conference 2005 "aKademy"
+ - [https://conference2005.kde.org](https://conference2005.kde.org)
+ - date_published: 2023-12-08T09:09:16+00:00
+
+ ## Home · KDE Events (Indico)
+ - [https://conf.kde.org](https://conf.kde.org)
+ - date_published: 2024-07-07T03:36:19.225039+00:00
+
+ ## KDE Developer
+ - [https://develop.kde.org](https://develop.kde.org)
+ - date_published: 2024-05-02T11:41:51.478091+00:00
+
+ ## KDE Discuss
+ - [https://discuss-cdn.kde.org](https://discuss-cdn.kde.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## KDE Discuss - KDE Community
+ - [https://discuss.kde.org](https://discuss.kde.org)
+ - date_published: 2023-10-25T21:36:01.965434+00:00
+
+ ## KDE Documentation -
+ - [https://docs.kde.org](https://docs.kde.org)
+ - date_published: 2024-06-30T02:17:26.274179+00:00
+
+ ## KDE.news
+ - [https://dot.kde.org](https://dot.kde.org)
+ - date_published: 2024-05-08T09:05:59.912225+00:00
+
  ## KDE - Experience Freedom!
  - [https://download.kde.org](https://download.kde.org)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -3962,84 +4043,4 @@ Hosted by Panix.com.
  ## Lewy Body Dementia Symptoms, Diagnosis, and Treatment
  - [https://www.lbda.org](https://www.lbda.org)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## LBRY Foundation
- - [https://lbry.org](https://lbry.org)
- - date_published: 2024-05-04T12:02:45.698005+00:00
-
- ## מדע גדול, בקטנה - מדע גדול, בקטנה
- - [https://lbscience.org](https://lbscience.org)
- - date_published: 2024-06-30T09:10:43.380741+00:00
-
- ## Large Binocular Telescope Observatory
- - [http://www.lbto.org](http://www.lbto.org)
- - date_published: 2024-08-18T20:23:40.389648+00:00
-
- ## Home - Liberty Counsel
- - [https://lc.org](https://lc.org)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Lavender Folk and Country Dancers
- - [http://lcfd.org](http://lcfd.org)
- - date_published: 2024-08-20T05:18:54.508286+00:00
-
- ## The Lutheran Church—Missouri Synod
- - [https://www.lcms.org](https://www.lcms.org)
- - date_published: 2024-08-11T23:14:16.685288+00:00
-
- ## LCompilers
- - [https://lcompilers.org](https://lcompilers.org)
- - date_published: 2021-12-22T21:11:15+00:00
-
- ## Workshops on Languages and Compilers for Parallel Computing (LCPC)
- - [http://lcpcworkshop.org](http://lcpcworkshop.org)
- - date_published: 2023-06-21T16:19:40+00:00
-
- ## LCR-Rouge.org : Love Comparateur Rencontre
- - [http://www.lcr-rouge.org](http://www.lcr-rouge.org)
- - date_published: 2024-10-21T18:16:48.546777+00:00
-
- ## Home
- - [https://www.lcsb.org](https://www.lcsb.org)
- - date_published: 2024-07-03T14:55:51.961875+00:00
-
- ## LCV - Build Power for People and the Planet
- - [https://www.lcv.org](https://www.lcv.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Leela Chess Zero
- - [https://lczero.org](https://lczero.org)
- - date_published: 2024-07-04T05:06:04+00:00
-
- ## Remix Starter
- - [https://www.ldatadao.org](https://www.ldatadao.org)
- - date_published: 2024-09-14T07:49:08.238863+00:00
-
- ## Linked Data Benchmark Council
- - [http://ldbcouncil.org](http://ldbcouncil.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## LDH (Ligue des droits de l'Homme)
- - [https://www.ldh-france.org](https://www.ldh-france.org)
- - date_published: 2024-07-02T21:26:51.351199+00:00
-
- ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
- - [https://byupathway.lds.org](https://byupathway.lds.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Homepage - The Church of Jesus Christ of Latter-day Saints
- - [http://lds.org](http://lds.org)
- - date_published: 2024-07-20T21:13:50.806303+00:00
-
- ## The Church of Jesus Christ of Latter-day Saints
- - [https://edge.ldscdn.org](https://edge.ldscdn.org)
- - date_published: 2024-05-28T19:15:51+00:00
-
- ## PeopleGrove
- - [http://www.ldsces.org](http://www.ldsces.org)
- - date_published: 2024-08-11T11:23:03+00:00
-
- ## Philanthropies | Donation Page
- - [https://ldsp-pay.ldschurch.org](https://ldsp-pay.ldschurch.org)
- - date_published: 2024-04-30T03:32:29.018562+00:00
 

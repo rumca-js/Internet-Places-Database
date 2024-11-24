@@ -1,3 +1,83 @@
+ ## Human Rights Law Review | Oxford Academic
+ - [http://hrlr.oxfordjournals.org](http://hrlr.oxfordjournals.org)
+ - date_published: 2024-10-18T21:00:12.674362+00:00
+
+ ## History Workshop Journal | Oxford Academic
+ - [https://hwj.oxfordjournals.org](https://hwj.oxfordjournals.org)
+ - date_published: 2024-05-02T12:38:22.772736+00:00
+
+ ## International Journal of Transitional Justice | Oxford Academic
+ - [http://ijtj.oxfordjournals.org](http://ijtj.oxfordjournals.org)
+ - date_published: 2024-10-18T21:01:24.253103+00:00
+
+ ## IMA Journal of Numerical Analysis | Oxford Academic
+ - [http://imajna.oxfordjournals.org](http://imajna.oxfordjournals.org)
+ - date_published: 2024-08-19T07:03:49.676670+00:00
+
+ ## Interacting with Computers | Oxford Academic
+ - [https://iwc.oxfordjournals.org](https://iwc.oxfordjournals.org)
+ - date_published: 2024-05-09T09:11:24.038941+00:00
+
+ ## Journal of the American Medical Informatics Association | Oxford Academic
+ - [http://jamia.oxfordjournals.org](http://jamia.oxfordjournals.org)
+ - date_published: 2024-07-02T13:31:25.228781+00:00
+
+ ## The Journal of Infectious Diseases | Oxford Academic
+ - [http://jid.oxfordjournals.org](http://jid.oxfordjournals.org)
+ - date_published: 2024-10-19T05:08:09.536913+00:00
+
+ ## Journal of Law and the Biosciences | Oxford Academic
+ - [https://jlb.oxfordjournals.org](https://jlb.oxfordjournals.org)
+ - date_published: 2024-09-04T20:20:38.966518+00:00
+
+ ## Molecular Biology and Evolution | Oxford Academic
+ - [http://mbe.oxfordjournals.org](http://mbe.oxfordjournals.org)
+ - date_published: 2024-10-19T06:20:29.990201+00:00
+
+ ## Nucleic Acids Research | Oxford Academic
+ - [http://nar.oxfordjournals.org](http://nar.oxfordjournals.org)
+ - date_published: 2024-10-19T06:20:21.585317+00:00
+
+ ## Oxford Journal of Law and Religion | Oxford Academic
+ - [http://ojlr.oxfordjournals.org](http://ojlr.oxfordjournals.org)
+ - date_published: 2024-06-28T20:53:47.725019+00:00
+
+ ## Parliamentary Affairs | Oxford Academic
+ - [http://pa.oxfordjournals.org](http://pa.oxfordjournals.org)
+ - date_published: 2024-08-07T14:21:11.883782+00:00
+
+ ## The Quarterly Journal of Mathematics | Oxford Academic
+ - [http://qjmath.oxfordjournals.org](http://qjmath.oxfordjournals.org)
+ - date_published: 2024-06-30T09:13:04.307127+00:00
+
+ ## Science and Mathematics
+ - [http://science-and-mathematics-careernetwork.oxfordjournals.org](http://science-and-mathematics-careernetwork.oxfordjournals.org)
+ - date_published: 2024-07-11T12:55:57.376547+00:00
+
+ ## Journals | Oxford Academic
+ - [https://www.oxfordjournals.org](https://www.oxfordjournals.org)
+ - date_published: 2024-05-06T22:14:49.916659+00:00
+
+ ## Oxford Literary Festival March 16 - 24 2024 | Oxford Literary Festival
+ - [https://oxfordliteraryfestival.org](https://oxfordliteraryfestival.org)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Courses - Oxford Mindfulness -
+ - [https://courses.oxfordmindfulness.org](https://courses.oxfordmindfulness.org)
+ - date_published: 2024-09-12T19:34:34.856375+00:00
+
+ ## Oxford Mindfulness Foundation - Online Training Courses
+ - [https://oxfordmindfulness.org](https://oxfordmindfulness.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Home - University of Oxford North American Office
+ - [http://www.oxfordna.org](http://www.oxfordna.org)
+ - date_published: 2024-06-17T18:47:28.666664+00:00
+
+ ## University of Oxford China Office
+ - [http://www.oxforduchina.org](http://www.oxforduchina.org)
+ - date_published: 2024-06-17T18:47:30.654390+00:00
+
  ## University of Oxford Japan Office | オックスフォード大学日本事務所
  - [http://oxfordujapan.org](http://oxfordujapan.org)
  - date_published: 2024-06-17T18:47:26.533604+00:00
@@ -3964,84 +4044,4 @@ TECHNICAL SPEAKER — @p01
  ## Planet PHP
  - [https://www.planet-php.org](https://www.planet-php.org)
  - date_published: 2024-06-26T12:30:17+00:00
-
- ## Planet Puppet
- - [https://www.planetpuppet.org](https://www.planetpuppet.org)
- - date_published: 2024-06-30T21:37:03+00:00
-
- ## Planet Python
- - [https://planetpython.org](https://planetpython.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Inicio | Planetree América Latina Sur
- - [https://planetreealsur.org](https://planetreealsur.org)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## PlanetStation.org - Tutoriales de PS3, PSP, decodificadores satélite Iris, Gestión web, Joomla y tecnología en general
- - [http://planetstation.org](http://planetstation.org)
- - date_published: 2024-06-29T06:54:29+00:00
-
- ## Planet Tracker
- - [https://planet-tracker.org](https://planet-tracker.org)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Plan International - Until we are all equal.
- - [https://www.plan-international.org](https://www.plan-international.org)
- - date_published: 2024-10-31T04:12:06+00:00
-
- ## Discover the Benefits of Giving Wisely | New Hampshire Public Radio
- - [https://nhpr.plannedgiving.org](https://nhpr.plannedgiving.org)
- - date_published: 2024-05-08T10:50:11.954516+00:00
-
- ## Discover the Benefits of Giving Wisely | North Country Public Radio
- - [https://northcountrypublicradio.plannedgiving.org](https://northcountrypublicradio.plannedgiving.org)
- - date_published: 2024-05-08T10:52:08.376075+00:00
-
- ## Discover the Benefits of Giving Wisely | Oregon State University Foundation
- - [https://osufoundation.plannedgiving.org](https://osufoundation.plannedgiving.org)
- - date_published: 2024-10-15T01:09:59.195885+00:00
-
- ## Planned Giving - Peace Action
- - [http://peaceeducationfund.plannedgiving.org](http://peaceeducationfund.plannedgiving.org)
- - date_published: 2024-06-20T13:56:45.429257+00:00
-
- ## Reason Foundation
- - [https://reason.plannedgiving.org](https://reason.plannedgiving.org)
- - date_published: 2024-05-06T23:55:42.362829+00:00
-
- ## Planned Obsolescence
- - [https://planned-obsolescence.org](https://planned-obsolescence.org)
- - date_published: 2024-06-15T06:35:42.083012+00:00
-
- ## Planned Parenthood | Official Site
- - [https://www.plannedparenthood.org](https://www.plannedparenthood.org)
- - date_published: 2024-08-09T03:31:50+00:00
-
- ## Planners Network – The Organization of Progressive Planning
- - [http://www.plannersnetwork.org](http://www.plannersnetwork.org)
- - date_published: 2024-06-28T13:13:16.074675+00:00
-
- ## Transportation Planning Division
- - [https://transportation.planning.org](https://transportation.planning.org)
- - date_published: 2024-06-28T14:35:53.472692+00:00
-
- ## American Planning Association
- - [https://www.planning.org](https://www.planning.org)
- - date_published: 2024-06-28T13:24:21.316907+00:00
-
- ## Plano Symphony Orchestra
- - [https://planosymphony.org](https://planosymphony.org)
- - date_published: 2022-06-24T18:08:21+00:00
-
- ## Plano Economic Development, TX - Official Website | Official Website
- - [https://www.planotexas.org](https://www.planotexas.org)
- - date_published: 2024-05-01T03:42:25.849867+00:00
-
- ## We Work With Brands - connect with the world’s leading vegan media platform.
- - [https://brands.plantbasednews.org](https://brands.plantbasednews.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - Plant Based News
- - [https://plantbasednews.org](https://plantbasednews.org)
- - date_published: 2023-10-25T21:58:22.257095+00:00
 

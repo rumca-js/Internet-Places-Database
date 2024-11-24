@@ -1,3 +1,19 @@
+ ## FirstCycling | Complete and up to date Cycling Database
+ - [https://se.firstcycling.com](https://se.firstcycling.com)
+ - date_published: 2024-10-28T05:27:01.398511+00:00
+
+ ## FirstCycling | Complete and up to date Cycling Database
+ - [https://si.firstcycling.com](https://si.firstcycling.com)
+ - date_published: 2024-10-28T05:27:33.126017+00:00
+
+ ## FirstCycling | Complete and up to date Cycling Database
+ - [https://tr.firstcycling.com](https://tr.firstcycling.com)
+ - date_published: 2024-10-28T05:27:38.554070+00:00
+
+ ## Login
+ - [https://360control.firstdata.com](https://360control.firstdata.com)
+ - date_published: 2024-07-02T06:45:30+00:00
+
  ## PaymentJS
  - [https://docs.paymentjs.firstdata.com](https://docs.paymentjs.firstdata.com)
  - date_published: 2024-06-29T08:05:06.800895+00:00
@@ -4004,21 +4020,4 @@
  ## FLYING
  - [https://subscribe.flyingmag.com](https://subscribe.flyingmag.com)
  - date_published: 2024-05-04T06:28:02.550640+00:00
-
- ## Flying-media-group
- - [https://flyingmagstore.com](https://flyingmagstore.com)
- - date_published: 2024-05-04T06:28:08.431772+00:00
-
- ## Flying Meat Software - Great Apps for MacOS
- - [https://flyingmeat.com](https://flyingmeat.com)
- - date_published: 2024-05-31T01:34:04.355294+00:00
- - tags: ['acorn']
-
- ## Flying Meat Community Forums
- - [https://forums.flyingmeat.com](https://forums.flyingmeat.com)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## RANDOM HOO HAAS HUB
- - [https://randomhoohaas.flyingomelette.com](https://randomhoohaas.flyingomelette.com)
- - date_published: 2023-10-06T19:35:39+00:00
 

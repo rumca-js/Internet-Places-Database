@@ -1,3 +1,23 @@
+ ## Explore data strategy insights on Data and Engineering - Blog | Hevo
+ - [https://blog.hevodata.com](https://blog.hevodata.com)
+ - date_published: 2020-06-09T19:52:41+00:00
+
+ ## Hevo changelog
+ - [https://changelog.hevodata.com](https://changelog.hevodata.com)
+ - date_published: 2024-06-16T20:36:30.267705+00:00
+
+ ## Design @Hevo: Hevo Brand Guidelines
+ - [https://design.hevodata.com](https://design.hevodata.com)
+ - date_published: 2024-06-16T20:36:30.963137+00:00
+
+ ## Hevo Documentation - Hevo Data
+ - [https://docs.hevodata.com](https://docs.hevodata.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Hevo Data | ETL, Data Integration & Data Pipeline Platform
+ - [https://hevodata.com](https://hevodata.com)
+ - date_published: 2024-05-01T07:43:42.396748+00:00
+
  ## Hevo Status
  - [https://status.hevodata.com](https://status.hevodata.com)
  - date_published: 2024-03-19T00:00:00+00:00
@@ -4015,26 +4035,4 @@ Ireland.
  ## Tools, Resources, and News for Hogwarts Legacy - Hogwarts Companion
  - [https://hogwartscompanion.com](https://hogwartscompanion.com)
  - date_published: 2023-12-13T16:05:16.497518+00:00
-
- ## Home
- - [https://hogwartslegacy.com](https://hogwartslegacy.com)
- - date_published: 2024-06-20T19:40:41+00:00
- - tags: ['video game', 'harry potter']
-
- ## Hogwarts Legacy Mods | Best Hogwarts Legacy Mod
- - [https://hogwartslegacymod.com](https://hogwartslegacymod.com)
- - date_published: 2024-06-08T21:16:17.826325+00:00
- - tags: ['video game mods']
-
- ## hoho.com
- - [https://hoho.com](https://hoho.com)
- - date_published: 2023-01-13T00:21:57+00:00
-
- ## House Of Henry Irish Pub – Panama City Florida
- - [https://www.hohpub.com](https://www.hohpub.com)
- - date_published: 2024-06-29T23:00:42.447716+00:00
-
- ## Hoia Baciu Forest: World’s Most Haunted Forest - Hoia Baciu Forest
- - [https://hoiabaciuforest.com](https://hoiabaciuforest.com)
- - date_published: 2024-10-20T20:51:26.421285+00:00
 

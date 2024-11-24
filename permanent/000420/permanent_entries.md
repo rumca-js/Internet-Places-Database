@@ -1,3 +1,107 @@
+ ## University of Edinburgh Research Explorer
+ - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
+ - date_published: 2024-04-28T04:01:00.882394+00:00
+
+ ## Home | Tower Block
+ - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
+ - date_published: 2024-09-14T22:47:24.448503+00:00
+
+ ## Dashboard - Wiki Service
+ - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
+ - date_published: 2024-07-21T06:43:07.730143+00:00
+
+ ## Environmental Information Data Centre | EIDC
+ - [https://eidc.ac.uk](https://eidc.ac.uk)
+ - date_published: 2024-05-02T10:52:18.599276+00:00
+
+ ## Edinburgh Mathematical Society
+ - [https://ems.ac.uk](https://ems.ac.uk)
+ - date_published: 2024-06-17T17:51:20.737823+00:00
+
+ ## The English Association | The English Association
+ - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Enhancement Themes
+ - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
+ - date_published: 2024-07-04T09:50:42+00:00
+
+ ## Engineering and Physical Sciences Research Council (EPSRC)
+ - [http://epsrc.ac.uk](http://epsrc.ac.uk)
+ - date_published: 2024-07-08T17:37:09.965108+00:00
+
+ ## Escape Studios | School of Animation, Games and VFX
+ - [https://www.escapestudios.ac.uk](https://www.escapestudios.ac.uk)
+ - date_published: 2024-10-20T03:46:35.312911+00:00
+
+ ## Welcome
+ - [https://www.escg.ac.uk](https://www.escg.ac.uk)
+ - date_published: 2024-08-06T11:06:03.955022+00:00
+
+ ## Economic and Social Research Council (ESRC)
+ - [http://www.esrc.ac.uk](http://www.esrc.ac.uk)
+ - date_published: 2024-10-20T06:12:46.465817+00:00
+
+ ## Sixty Stories for Sixty Years
+ - [https://60stories.essex.ac.uk](https://60stories.essex.ac.uk)
+ - date_published: 2024-05-11T07:21:53.649032+00:00
+
+ ## AnaWiki: Creating anaphorically annotated resources through Web cooperation
+ - [http://anawiki.essex.ac.uk](http://anawiki.essex.ac.uk)
+ - date_published: 2020-09-22T19:16:58+00:00
+
+ ## Online Bachelors and Masters degree programmes
+ - [https://online.essex.ac.uk](https://online.essex.ac.uk)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Untitled Document
+ - [https://bart.exeter.ac.uk](https://bart.exeter.ac.uk)
+ - date_published: 2010-11-18T14:26:59+00:00
+
+ ## University of Exeter WordPress -
+ - [http://blogs.exeter.ac.uk](http://blogs.exeter.ac.uk)
+ - date_published: 2024-08-11T13:43:49.015297+00:00
+
+ ## University of Exeter Business School  | University of Exeter Business School | University of Exeter
+ - [https://business-school.exeter.ac.uk](https://business-school.exeter.ac.uk)
+ - date_published: 2024-06-17T17:52:11.098686+00:00
+
+ ## Expertise · Business School · University of Exeter
+ - [https://business-school-expertise.exeter.ac.uk](https://business-school-expertise.exeter.ac.uk)
+ - date_published: 2024-10-20T04:13:01.468112+00:00
+
+ ## Home | University of Exeter
+ - [https://exeter.ac.uk](https://exeter.ac.uk)
+ - date_published: 2024-10-20T04:09:12.241076+00:00
+
+ ## Fundraising | Fundraising | University of Exeter
+ - [https://fundraising.exeter.ac.uk](https://fundraising.exeter.ac.uk)
+ - date_published: 2024-06-17T17:51:56.389126+00:00
+
+ ## Home - Green Futures Network
+ - [https://gfn.exeter.ac.uk](https://gfn.exeter.ac.uk)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Homepage · GreenFutures
+ - [https://greenfutures.exeter.ac.uk](https://greenfutures.exeter.ac.uk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## College of Humanities  | Humanities | University of Exeter
+ - [https://humanities.exeter.ac.uk](https://humanities.exeter.ac.uk)
+ - date_published: 2023-11-03T20:30:03+00:00
+
+ ## Secure Portal Redirect
+ - [https://jobs.exeter.ac.uk](https://jobs.exeter.ac.uk)
+ - date_published: 2023-07-06T09:19:11+00:00
+
+ ## Sign in to your account
+ - [https://mytimetable.exeter.ac.uk](https://mytimetable.exeter.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## News
+ - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
+ - date_published: 2023-11-05T21:53:50.885706+00:00
+
  ## Home
 		 · PS Connect
  - [https://psconnect.exeter.ac.uk](https://psconnect.exeter.ac.uk)
@@ -3905,108 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## News | University of St Andrews
  - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
  - date_published: 2024-04-24T00:00:00+00:00
-
- ## Research Computing Team
- - [https://researchcomputing.wp.st-andrews.ac.uk](https://researchcomputing.wp.st-andrews.ac.uk)
- - date_published: 2024-07-09T20:40:20.560995+00:00
-
- ## Special Collections blog
- - [https://special-collections.wp.st-andrews.ac.uk](https://special-collections.wp.st-andrews.ac.uk)
- - date_published: 2024-06-29T10:08:11.912096+00:00
-
- ## University of St Andrews - Scotland's first university, founded 1413
- - [https://st-andrews.ac.uk](https://st-andrews.ac.uk)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## WordPress at St Andrews
- - [https://wp.st-andrews.ac.uk](https://wp.st-andrews.ac.uk)
- - date_published: 2018-03-21T16:41:14+00:00
-
- ## School of Computer Science - University of St Andrews
- - [https://www.cs.st-andrews.ac.uk](https://www.cs.st-andrews.ac.uk)
- - date_published: 2024-05-08T07:35:46.046567+00:00
-
- ## Welcome
- - [https://www.vacancies.st-andrews.ac.uk](https://www.vacancies.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:43.358963+00:00
-
- ## WelcomePage - Starlink
- - [https://www.starlink.ac.uk](https://www.starlink.ac.uk)
- - date_published: 2024-10-16T08:39:38.776989+00:00
-
- ## Science and Technology Facilities Council (STFC)
- - [http://www.stfc.ac.uk](http://www.stfc.ac.uk)
- - date_published: 2024-07-02T10:06:11.708286+00:00
-
- ## UKATC
- - [http://www.ukatc.stfc.ac.uk](http://www.ukatc.stfc.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## University of Stirling Blog
- - [https://blog.stir.ac.uk](https://blog.stir.ac.uk)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## University of Stirling - My Portal
- - [https://portal.stir.ac.uk](https://portal.stir.ac.uk)
- - date_published: 2024-10-11T16:07:28+00:00
-
- ## University of Stirling Online Shop
- - [https://shop.stir.ac.uk](https://shop.stir.ac.uk)
- - date_published: 2024-10-14T23:52:55.561649+00:00
-
- ## Institute of Aquaculture | About | University of Stirling
- - [http://www.aqua.stir.ac.uk](http://www.aqua.stir.ac.uk)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Home |  | University of Stirling
- - [https://www.stir.ac.uk](https://www.stir.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
- - [https://5g.eee.strath.ac.uk](https://5g.eee.strath.ac.uk)
- - date_published: 2024-07-08T12:12:12.570878+00:00
-
- ## Pegasus
- - [https://ben.mis.strath.ac.uk](https://ben.mis.strath.ac.uk)
- - date_published: 2024-04-07T09:22:50+00:00
-
- ## Home | classes
- - [https://classes.myplace.strath.ac.uk](https://classes.myplace.strath.ac.uk)
- - date_published: 2024-07-12T16:51:15+00:00
-
- ## University of Strathclyde International Study Centre | Scotland
- - [https://isc.strath.ac.uk](https://isc.strath.ac.uk)
- - date_published: 2024-07-12T16:51:08.838770+00:00
-
- ## Mathematically Structured Programming Group @ University of Strathclyde
- - [https://msp.cis.strath.ac.uk](https://msp.cis.strath.ac.uk)
- - date_published: 2024-05-07T16:54:36+00:00
-
- ## Home | University of Strathclyde
- - [https://og.is.strath.ac.uk](https://og.is.strath.ac.uk)
- - date_published: 2024-07-09T18:01:48+00:00
-
- ## Pegasus
- - [https://pegasus.strath.ac.uk](https://pegasus.strath.ac.uk)
- - date_published: 2024-04-07T09:22:50+00:00
-
- ## CIS Personal Web Pages
- - [http://personal.cis.strath.ac.uk](http://personal.cis.strath.ac.uk)
- - date_published: 2024-07-04T11:16:13.478788+00:00
-
- ## University of Strathclyde
- - [https://pureportal.strath.ac.uk](https://pureportal.strath.ac.uk)
- - date_published: 2024-07-12T16:51:06.736733+00:00
-
- ## University of Strathclyde
- - [https://pure.strath.ac.uk](https://pure.strath.ac.uk)
- - date_published: 2024-07-12T16:51:13.617637+00:00
-
- ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
- - [https://sdr.eee.strath.ac.uk](https://sdr.eee.strath.ac.uk)
- - date_published: 2024-05-08T11:07:15.010845+00:00
-
- ## University of Strathclyde - Service Catalogue
- - [https://servicecatalogue.strath.ac.uk](https://servicecatalogue.strath.ac.uk)
- - date_published: 2023-10-03T08:25:54+00:00
 

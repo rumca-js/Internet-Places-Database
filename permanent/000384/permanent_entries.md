@@ -1,3 +1,84 @@
+ ## PublicSource: Pittsburgh, Allegheny County news that matters
+ - [http://publicsource.org](http://publicsource.org)
+ - date_published: 2024-06-28T14:14:54+00:00
+
+ ## Home - PublicSpace
+ - [https://www.publicspace.org](https://www.publicspace.org)
+ - date_published: 2024-07-14T23:28:48.724554+00:00
+
+ ## Public Suffix List
+ - [https://publicsuffix.org](https://publicsuffix.org)
+ - date_published: 2024-06-17T07:28:18+00:00
+
+ ## Home
+ - [https://publictheater.org](https://publictheater.org)
+ - date_published: 2024-06-20T11:44:28.797276+00:00
+
+ ## Public Transportation
+ - [http://www.publictransportation.org](http://www.publictransportation.org)
+ - date_published: 2024-06-16T22:25:18+00:00
+
+ ## Home Page - AAP
+ - [https://publishers.org](https://publishers.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Publishers for Palestine
+ - [https://publishersforpalestine.org](https://publishersforpalestine.org)
+ - date_published: 2023-12-03T05:58:10.182044+00:00
+ - tags: ['palestine']
+
+ ## Home
+ - [https://publishwhatyoufund.org](https://publishwhatyoufund.org)
+ - date_published: 2024-09-25T17:39:39.019550+00:00
+
+ ## PubMedInfo - niewygodne informacje i komunikaty - Chcesz podejmować świadome decyzje na temat szczepień? Dowiedz się tego co jest pomijane w debacie na temat szczepień, aby móc takie decyzje podejmować.
+ - [https://pubmedinfo.org](https://pubmedinfo.org)
+ - date_published: 2023-10-25T22:01:02.466312+00:00
+
+ ## 0xSalon
+ - [https://0xsalon.pubpub.org](https://0xsalon.pubpub.org)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## AfricArXiv
+ - [https://africarxiv.pubpub.org](https://africarxiv.pubpub.org)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Artificial Communication
+ - [https://artificial-communication.pubpub.org](https://artificial-communication.pubpub.org)
+ - date_published: 2024-07-01T15:25:03.745203+00:00
+
+ ## https://assets.pubpub.org
+ - [https://assets.pubpub.org](https://assets.pubpub.org)
+ - date_published: 2024-01-23T19:09:02.082157+00:00
+
+ ## Bulletin of the AAS
+ - [https://baas.pubpub.org](https://baas.pubpub.org)
+ - date_published: 2024-08-11T15:10:44.625306+00:00
+
+ ## Bee XML Journal
+ - [https://beexml.pubpub.org](https://beexml.pubpub.org)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## The MIT Press - open access @ PubPub
+ - [https://bookbook.pubpub.org](https://bookbook.pubpub.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Digital Scholarship at the British Library
+ - [https://britishlibrary.pubpub.org](https://britishlibrary.pubpub.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Coalition for Diversity and Inclusion in Scholarly Communications
+ - [https://c4disc.pubpub.org](https://c4disc.pubpub.org)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Contours Collaborations: Border Crossings in Art and Humanities
+ - [https://contours.pubpub.org](https://contours.pubpub.org)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Copim
+ - [https://copim.pubpub.org](https://copim.pubpub.org)
+ - date_published: 2024-10-20T04:37:39.218580+00:00
+
  ## Cryptoeconomic Systems
  - [https://cryptoeconomicsystems.pubpub.org](https://cryptoeconomicsystems.pubpub.org)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -1668,6 +1749,10 @@
  - [http://www.r7rs.org](http://www.r7rs.org)
  - date_published: 2023-12-01T16:54:07+00:00
 
+ ## Home
+ - [https://ra.org](https://ra.org)
+ - date_published: 1970-01-01T01:00:00+00:00
+
  ## Regional Airline Association – A unified voice of advocacy and support for North American regional airlines
  - [http://www.raa.org](http://www.raa.org)
  - date_published: 2024-07-09T22:04:22.533229+00:00
@@ -1997,6 +2082,10 @@
  ## another day another vice another roll of the dice
  - [http://techtonik.rainforce.org](http://techtonik.rainforce.org)
  - date_published: 2024-03-13T00:20:31+00:00
+
+ ## Home
+ - [https://rainforest-alliance.org](https://rainforest-alliance.org)
+ - date_published: 2024-11-23T09:04:02.237500+00:00
 
  ## RAW - Rainforest Awareness Worldwide | A non profit organization raising awareness of rainforest culture, spirituality and preservation.
  - [https://rainforestawarenessworldwide.org](https://rainforestawarenessworldwide.org)
@@ -3971,92 +4060,4 @@
  ## South Dakota Right to Repair
  - [https://southdakota.repair.org](https://southdakota.repair.org)
  - date_published: 2024-07-17T22:35:02.224719+00:00
-
- ## Tennessee Right to Repair
- - [https://tennessee.repair.org](https://tennessee.repair.org)
- - date_published: 2024-07-17T22:34:56.681530+00:00
-
- ## Texas Right to Repair
- - [https://texas.repair.org](https://texas.repair.org)
- - date_published: 2024-07-17T22:34:18.916763+00:00
-
- ## Utah Right to Repair
- - [https://utah.repair.org](https://utah.repair.org)
- - date_published: 2024-07-17T22:35:10.440329+00:00
-
- ## Vermont Right to Repair
- - [https://vermont.repair.org](https://vermont.repair.org)
- - date_published: 2024-07-17T22:34:19.838517+00:00
-
- ## Virginia Right to Repair
- - [https://virginia.repair.org](https://virginia.repair.org)
- - date_published: 2024-07-17T22:34:29.263135+00:00
-
- ## Washington Right to Repair
- - [https://washington.repair.org](https://washington.repair.org)
- - date_published: 2024-07-17T22:35:06.066437+00:00
-
- ## The Repair Association
- - [https://web.repair.org](https://web.repair.org)
- - date_published: 2024-07-17T22:34:59.739573+00:00
-
- ## West Virginia Right to Repair
- - [https://westvirginia.repair.org](https://westvirginia.repair.org)
- - date_published: 2024-07-17T22:34:21.365675+00:00
-
- ## Wisconsin Right to Repair
- - [https://wisconsin.repair.org](https://wisconsin.repair.org)
- - date_published: 2024-07-17T22:34:06.025248+00:00
-
- ## Wyoming Right to Repair
- - [https://wyoming.repair.org](https://wyoming.repair.org)
- - date_published: 2024-07-17T22:34:28.259780+00:00
-
- ## Repair Café - Fixing Together, Worldwide
- - [https://repaircafe.org](https://repaircafe.org)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Sci.Electronics.Repair FAQ: Home Page
- - [https://www.repairfaq.org](https://www.repairfaq.org)
- - date_published: 2022-09-18T19:08:54+00:00
-
- ## Dashboard Repairmonitor
- - [https://dashboard.repairmonitor.org](https://dashboard.repairmonitor.org)
- - date_published: 2023-10-04T08:29:51+00:00
-
- ## Home - RePaper
- - [http://repaper.org](http://repaper.org)
- - date_published: 2024-09-04T03:42:35.476802+00:00
-
- ## Economics and Finance Research | IDEAS/RePEc
- - [https://ideas.repec.org](https://ideas.repec.org)
- - date_published: 2024-06-28T12:57:00.063959+00:00
-
- ## RePEc: Research Papers in Economics
- - [http://repec.org](http://repec.org)
- - date_published: 2024-01-01T20:18:53+00:00
-
- ## Replate | Your Trusted Food Donation Platform
- - [https://www.re-plate.org](https://www.re-plate.org)
- - date_published: 2024-05-21T02:49:03.305678+00:00
-
- ## Replate Blog
- - [https://blog.replate.org](https://blog.replate.org)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Replate | Your Trusted Food Donation Platform
- - [https://www.replate.org](https://www.replate.org)
- - date_published: 2024-07-20T16:39:33.397673+00:00
-
- ## Repology
- - [https://repology.org](https://repology.org)
- - date_published: 2024-04-28T03:46:29.646249+00:00
-
- ## Reporterfabrik – Webakademie des Journalismus
- - [http://reporterfabrik.org](http://reporterfabrik.org)
- - date_published: 2024-06-17T11:26:49.303096+00:00
-
- ## Home - Duke Reporters' Lab
- - [https://reporterslab.org](https://reporterslab.org)
- - date_published: 2024-05-30T00:00:00+00:00
 

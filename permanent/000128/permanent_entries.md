@@ -1,3 +1,23 @@
+ ## Jean Cocteau Cinema
+ - [https://jeancocteaucinema.com](https://jeancocteaucinema.com)
+ - date_published: 2024-06-15T11:53:54.507992+00:00
+
+ ## JeanettePurkis.com
+ - [http://jeanettepurkis.com](http://jeanettepurkis.com)
+ - date_published: 2024-09-03T23:09:52.708070+00:00
+
+ ## Jeaniene Frost – New York Times and USA Today Bestselling Author
+ - [http://jeanienefrost.com](http://jeanienefrost.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Jean Lain Mobilités
+ - [https://mobilite.jeanlain.com](https://mobilite.jeanlain.com)
+ - date_published: 2024-07-03T06:33:19+00:00
+
+ ## Bienvenue sur Jean-Marc Morandini
+ - [https://www.jeanmarcmorandini.com](https://www.jeanmarcmorandini.com)
+ - date_published: 2024-09-15T20:51:06+00:00
+
  ## Share The Future
  - [https://www.jeanmicheljarre.com](https://www.jeanmicheljarre.com)
  - date_published: 2024-07-19T00:00:00+00:00
@@ -4052,24 +4072,4 @@
  - [https://joelonsoftware.com](https://joelonsoftware.com)
  - date_published: 2024-03-12T00:00:00+00:00
  - tags: ['personal']
-
- ## Joel Auterson
- - [https://joelotter.com](https://joelotter.com)
- - date_published: 2024-02-06T10:21:53.837820+00:00
-
- ## XXYXXY
- - [https://www.joelpedersenarts.com](https://www.joelpedersenarts.com)
- - date_published: 2024-07-12T06:45:01+00:00
-
- ## Joel Runyon | Athlete, Entrepreneur | Founder of IMPOSSIBLE ®
- - [https://joelrunyon.com](https://joelrunyon.com)
- - date_published: 2024-08-19T09:02:01.387353+00:00
-
- ## Joel Rust
- - [http://www.joelrust.com](http://www.joelrust.com)
- - date_published: 2023-05-02T14:46:54+00:00
-
- ## The Ultimate Answer to Kings
- - [http://joelsgulch.com](http://joelsgulch.com)
- - date_published: 2024-07-03T00:00:00+00:00
 

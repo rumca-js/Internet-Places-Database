@@ -1,3 +1,55 @@
+ ## Portal
+ - [https://uga.sharepoint-live.de](https://uga.sharepoint-live.de)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Shareware4U - Das Software Archiv (Freeware, Games, kostenloser Download...)
+ - [https://shareware4u.de](https://shareware4u.de)
+ - date_published: 2024-08-17T23:18:39.305686+00:00
+
+ ## SHC-Care - Main Page
+ - [https://shc-care.de](https://shc-care.de)
+ - date_published: 2024-07-18T06:22:09.744817+00:00
+
+ ## Start - Sherpa.Dresden
+ - [https://sherpa-dresden.de](https://sherpa-dresden.de)
+ - date_published: 2024-07-15T12:40:37.610625+00:00
+
+ ## Startseite | Shift Studio
+ - [https://shift-studio.de](https://shift-studio.de)
+ - date_published: 2024-07-13T16:11:38.836676+00:00
+
+ ## Yoga im Loft in Frankfurt - verschiedene Yoga Stile & Ausbildungen
+ - [http://www.shiva-yoga.de](http://www.shiva-yoga.de)
+ - date_published: 2023-01-11T00:00:00+00:00
+
+ ## shizoo.de
+ - [https://shizoo.de](https://shizoo.de)
+ - date_published: 2016-07-23T09:24:39+00:00
+
+ ## Shopauskunft.de Blog - blog.Shopauskunft.de
+ - [https://blog.shopauskunft.de](https://blog.shopauskunft.de)
+ - date_published: 2024-10-22T20:06:49.099159+00:00
+
+ ## Anmeldung -  Shopauskunft
+ - [https://business.shopauskunft.de](https://business.shopauskunft.de)
+ - date_published: 2024-06-18T16:20:11.066147+00:00
+
+ ## Shopauskunft
+ - [https://helpdesk.shopauskunft.de](https://helpdesk.shopauskunft.de)
+ - date_published: 2024-06-18T16:20:09.886759+00:00
+
+ ## Shopauskunft.de – Dein unabhängiges Bewertungsportal
+ - [https://www.shopauskunft.de](https://www.shopauskunft.de)
+ - date_published: 2024-05-02T13:47:55.815076+00:00
+
+ ## Disney Store DE | Offizielle Website für Disney-Merchandise
+ - [https://www.shopdisney.de](https://www.shopdisney.de)
+ - date_published: 2024-09-20T20:15:04.077441+00:00
+
+ ## Shoutcast Tools
+ - [https://www.shoutcast-tools.de](https://www.shoutcast-tools.de)
+ - date_published: 2024-09-13T00:00:00+00:00
+
  ## Aktuelle Nachrichten aus Schleswig-Holstein | SHZ
  - [http://www.shz.de](http://www.shz.de)
  - date_published: 2024-07-03T11:46:01.147792+00:00
@@ -3965,56 +4017,4 @@
  ## Startseite
  - [https://ls.tum.de](https://ls.tum.de)
  - date_published: 2024-04-26T00:00:00+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://mailman46.in.tum.de](https://mailman46.in.tum.de)
- - date_published: 2019-03-06T10:33:41+00:00
-
- ## Element
- - [https://matrix.tum.de](https://matrix.tum.de)
- - date_published: 2024-07-30T12:54:31+00:00
-
- ## mediaTUM - Media and Publication Server
- - [https://mediatum.ub.tum.de](https://mediatum.ub.tum.de)
- - date_published: 2024-06-22T19:11:45.157411+00:00
-
- ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
- - [https://med.tum.de](https://med.tum.de)
- - date_published: 2024-04-29T06:57:06.066785+00:00
-
- ## Uniting Management and Technology | TUM School of Management
- - [https://mgt.tum.de](https://mgt.tum.de)
- - date_published: 2024-04-29T06:56:57.887730+00:00
-
- ## Standorte - NavigaTUM
- - [https://nav.tum.de](https://nav.tum.de)
- - date_published: 2024-04-29T06:57:11.219692+00:00
-
- ## TUM OPAC
- - [https://opac.ub.tum.de](https://opac.ub.tum.de)
- - date_published: 2024-07-24T04:20:55.749187+00:00
-
- ## Home | Online Shop | Technische Universität München
- - [https://shop.tum.de](https://shop.tum.de)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## ACM SIGMOD 2018 Programming Contest
- - [http://sigmod18contest.db.in.tum.de](http://sigmod18contest.db.in.tum.de)
- - date_published: 2024-09-02T16:21:04.274704+00:00
-
- ## The Entrepreneurial University - TUM
- - [https://tum.de](https://tum.de)
- - date_published: 2024-04-29T06:56:29.965799+00:00
-
- ## Universitätsbibliothek der TUM |
- - [https://ub.tum.de](https://ub.tum.de)
- - date_published: 2024-04-29T06:56:50.124217+00:00
-
- ## The Umbra Database System
- - [https://umbra.db.in.tum.de](https://umbra.db.in.tum.de)
- - date_published: 2024-08-19T06:56:01+00:00
-
- ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
- - [https://web.dse.in.tum.de](https://web.dse.in.tum.de)
- - date_published: 2024-06-22T09:36:53.585696+00:00
 

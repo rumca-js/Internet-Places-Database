@@ -1,3 +1,35 @@
+ ## Chelsey Flood notes | Substack
+ - [http://chelseyflood.substack.com](http://chelseyflood.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## cherry-flavored | Substack
+ - [https://cherryflavored111.substack.com](https://cherryflavored111.substack.com)
+ - date_published: 2024-05-02T10:12:16.038533+00:00
+
+ ## ChinAI Newsletter | Jeffrey Ding | Substack
+ - [https://chinai.substack.com](https://chinai.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## CHINA POLICY leads | philippa jones | Substack
+ - [https://chinapolicy.substack.com](https://chinapolicy.substack.com)
+ - date_published: 2024-05-07T10:30:22.719618+00:00
+
+ ## The China Space Monitor | Substack
+ - [https://chinaspacemonitor.substack.com](https://chinaspacemonitor.substack.com)
+ - date_published: 2024-10-31T22:41:45.725812+00:00
+
+ ## Chipmonk Meditations | Chris Lakin | Substack
+ - [https://chipmonk.substack.com](https://chipmonk.substack.com)
+ - date_published: 2023-11-27T04:46:41.596650+00:00
+
+ ## Chiwi Journal | Camellia Yang | Substack
+ - [https://chiwijournal.substack.com](https://chiwijournal.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Tell Me How This Ends | Chris Bray | Substack
+ - [https://chrisbray.substack.com](https://chrisbray.substack.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
  ## Can't Get Much Higher | Chris Dalla Riva | Substack
  - [https://chrisdallariva.substack.com](https://chrisdallariva.substack.com)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -4047,36 +4079,4 @@
  ## Links I Would Gchat You If We Were Friends | Caitlin Dewey | Substack
  - [https://linksiwouldgchatyou.substack.com](https://linksiwouldgchatyou.substack.com)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## Exposing The Darkness | Lioness of Judah Ministry | Substack
- - [https://lionessofjudah.substack.com](https://lionessofjudah.substack.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
- - [https://liorn.substack.com](https://liorn.substack.com)
- - date_published: 2024-01-09T01:41:52.451998+00:00
-
- ## Alive Awake Empowered | Lisa Hedley | Substack
- - [https://lisahedley.substack.com](https://lisahedley.substack.com)
- - date_published: 2024-10-16T01:25:09.009805+00:00
-
- ## Notes From the Margin | Lisa Unger | Substack
- - [https://lisaunger.substack.com](https://lisaunger.substack.com)
- - date_published: 2024-10-19T10:12:03.651362+00:00
-
- ## Engineer, Evolve, Excel | Lisi Linhart | Substack
- - [https://lisilinhart.substack.com](https://lisilinhart.substack.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Li's Newsletter | Li Jin | Substack
- - [https://li.substack.com](https://li.substack.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Literary Activism | Book Riot | Substack
- - [https://literaryactivism.substack.com](https://literaryactivism.substack.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Tech, investment and a little bit of everything.  | John | Substack
- - [https://littlebitofeverything.substack.com](https://littlebitofeverything.substack.com)
- - date_published: 2024-01-09T01:41:54.188835+00:00
 

@@ -1,3 +1,11 @@
+ ## Bitcoins Norway
+ - [https://bitcoinsnorway.com](https://bitcoinsnorway.com)
+ - date_published: 2024-04-12T13:23:37+00:00
+
+ ## The Bitcoin Trader
+ - [https://www.bitcointrader.com](https://www.bitcointrader.com)
+ - date_published: 2021-01-11T17:50:25+00:00
+
  ## BitComet - 無料の C++ BitTorrent/HTTP/FTP ダウンロードソフト
  - [http://jp.bitcomet.com](http://jp.bitcomet.com)
  - date_published: 2024-06-23T09:50:33+00:00
@@ -4051,12 +4059,4 @@
  ## bloggy
  - [http://bloggy.com](http://bloggy.com)
  - date_published: 2020-12-30T01:25:00+00:00
-
- ## Full Service Managed WordPress Hosting - PressHarbor
- - [http://aicyberlaw.blogharbor.com](http://aicyberlaw.blogharbor.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Blogging Tips & Events for Content Creators Everywhere | Blogher
- - [http://www.blogher.com](http://www.blogher.com)
- - date_published: 2024-06-30T09:57:22.673530+00:00
 

@@ -1,3 +1,23 @@
+ ## International Pipeline Conference & Expo
+ - [https://www.ipceyyc.com](https://www.ipceyyc.com)
+ - date_published: 2024-08-18T21:57:57.443196+00:00
+
+ ## IPCGS Gigerich Sedlmaier Patentanwälte Rechtsanwälte PartG mbB
+ - [https://www.ipcgs.com](https://www.ipcgs.com)
+ - date_published: 2024-05-04T06:48:13.340120+00:00
+
+ ## Simple Analytics
+ - [https://a.ipde.com](https://a.ipde.com)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## IP/DE | A Blog About Intellectual Property Litigation and the District of Delaware
+ - [https://ipde.com](https://ipde.com)
+ - date_published: 2023-10-25T15:23:16.826594+00:00
+
+ ## Indo-Pacific Defense Forum
+ - [https://ipdefenseforum.com](https://ipdefenseforum.com)
+ - date_published: 2023-11-09T00:00:00+00:00
+
  ## Dynamic DNS IPDong.com
  - [https://ipdong.com](https://ipdong.com)
  - date_published: 2023-12-26T07:22:57+00:00
@@ -4022,24 +4042,4 @@
  ## Jan van den Berg - j11g.com
  - [https://j11g.com](https://j11g.com)
  - date_published: 2023-10-25T15:25:14.241613+00:00
-
- ## J-14
- - [https://www.j-14.com](https://www.j-14.com)
- - date_published: 2024-10-25T10:32:49.919846+00:00
-
- ## J2 Global is now ZiffDavis, Inc.
- - [https://www.j2global.com](https://www.j2global.com)
- - date_published: 2021-10-07T00:00:00+00:00
-
- ## International broker Just2trade
- - [https://j2t.com](https://j2t.com)
- - date_published: 2024-08-18T04:22:13+00:00
-
- ## Javvad Malik
- - [https://j4vv4d.com](https://j4vv4d.com)
- - date_published: 2024-10-31T07:45:53.332420+00:00
-
- ## _/ /\/\/\ /\/\
- - [https://www.jaaam.com](https://www.jaaam.com)
- - date_published: 2024-08-04T03:59:30+00:00
 

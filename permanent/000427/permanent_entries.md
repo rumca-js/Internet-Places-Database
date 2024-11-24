@@ -1,3 +1,112 @@
+ ## Find a job
+ - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
+ - date_published: 2024-06-17T17:49:05.465349+00:00
+
+ ## Department for Work and Pensions
+ - [http://research.dwp.gov.uk](http://research.dwp.gov.uk)
+ - date_published: 2024-10-21T14:03:35.809741+00:00
+
+ ## Department for Work and Pensions
+ - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
+ - date_published: 2024-10-21T14:05:07.059945+00:00
+
+ ## Home
+ - [https://economy-ni.gov.uk](https://economy-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:25.236342+00:00
+
+ ## Home
+ - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
+ - date_published: 2024-10-20T03:58:18.336590+00:00
+
+ ## Department for Education
+            
+            - Citizen Space
+ - [https://consult.education.gov.uk](https://consult.education.gov.uk)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Department for Education
+ - [https://education.gov.uk](https://education.gov.uk)
+ - date_published: 2024-10-21T09:31:06.074057+00:00
+
+ ## Environment Agency
+            
+            - Citizen Space
+ - [https://consult.environment-agency.gov.uk](https://consult.environment-agency.gov.uk)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home | Civil Service Fast Stream
+ - [https://www.faststream.gov.uk](https://www.faststream.gov.uk)
+ - date_published: 2023-10-12T00:00:00+00:00
+
+ ## Foreign & Commonwealth Office
+ - [http://www.fco.gov.uk](http://www.fco.gov.uk)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Home
+ - [https://finance-ni.gov.uk](https://finance-ni.gov.uk)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.food.gov.uk](https://www.food.gov.uk)
+ - date_published: 2024-07-13T17:41:23+00:00
+
+ ## Government Actuary's Department
+ - [http://www.gad.gov.uk](http://www.gad.gov.uk)
+ - date_published: 2024-10-21T14:08:35.049506+00:00
+
+ ## Invalid request
+ - [https://registers.gamblingcommission.gov.uk](https://registers.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:06.328481+00:00
+
+ ## Gambling Commission website
+ - [https://www.gamblingcommission.gov.uk](https://www.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:00.435898+00:00
+
+ ## NCSC
+ - [https://www.gchq.gov.uk](https://www.gchq.gov.uk)
+ - date_published: 2024-02-07T15:32:38+00:00
+ - tags: ['uk security intelligence', 'security intelligence']
+
+ ## Civil Service Careers
+ - [https://gdscareers.gov.uk](https://gdscareers.gov.uk)
+ - date_published: 2024-06-17T19:25:14.295338+00:00
+
+ ## Home | Gloucestershire County Council
+ - [https://www.gloucestershire.gov.uk](https://www.gloucestershire.gov.uk)
+ - date_published: 2024-08-11T12:51:12.223530+00:00
+
+ ## Welcome to Haringey Council | Haringey Council
+ - [https://www.haringey.gov.uk](https://www.haringey.gov.uk)
+ - date_published: 2024-07-18T23:52:12+00:00
+
+ ## Home
+ - [https://health-ni.gov.uk](https://health-ni.gov.uk)
+ - date_published: 2024-10-21T10:00:00.549859+00:00
+
+ ## Meetings, agendas, and minutes | Hertfordshire County Council
+ - [https://democracy.hertfordshire.gov.uk](https://democracy.hertfordshire.gov.uk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - Hertsmere Borough Council
+ - [https://www.hertsmere.gov.uk](https://www.hertsmere.gov.uk)
+ - date_published: 2024-07-03T17:14:45.650413+00:00
+
+ ## HM Revenue & Customs
+ - [https://hmrc.gov.uk](https://hmrc.gov.uk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Legislation.gov.uk
+ - [http://www.uk-legislation.hmso.gov.uk](http://www.uk-legislation.hmso.gov.uk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## HM Treasury
+ - [http://www.hm-treasury.gov.uk](http://www.hm-treasury.gov.uk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home Office
+ - [http://www.homeoffice.gov.uk](http://www.homeoffice.gov.uk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## HSE Books - the official Health and Safety Executive publications   shop.
  - [https://books.hse.gov.uk](https://books.hse.gov.uk)
  - date_published: 2024-09-04T15:28:13.358674+00:00
@@ -3916,108 +4025,4 @@
  ## Oxfam GB | We are Oxfam
  - [https://oxfam.org.uk](https://oxfam.org.uk)
  - date_published: 2024-05-08T06:00:57.633697+00:00
-
- ## Views & Voices
- - [https://views-voices.oxfam.org.uk](https://views-voices.oxfam.org.uk)
- - date_published: 2024-05-08T11:29:50.305349+00:00
-
- ## Oxfam GB | We are Oxfam
- - [https://www.oxfamapps.org.uk](https://www.oxfamapps.org.uk)
- - date_published: 2024-07-04T10:24:34.918515+00:00
-
- ## Oxford House Community & Arts Centre in Bethnal Green, London.
- - [https://oxfordhouse.org.uk](https://oxfordhouse.org.uk)
- - date_published: 2024-10-17T12:58:19.823255+00:00
-
- ## Homepage | Oxford Preservation Trust
- - [https://www.oxfordpreservation.org.uk](https://www.oxfordpreservation.org.uk)
- - date_published: 2024-06-17T18:17:48.495418+00:00
-
- ## How to buy a pet - Home
- - [https://paag.org.uk](https://paag.org.uk)
- - date_published: 2024-10-21T11:45:56.319605+00:00
-
- ## Princess Alice Hospice
- - [http://www.pah.org.uk](http://www.pah.org.uk)
- - date_published: 2024-10-17T22:59:03.709460+00:00
-
- ## Paj's Home
- - [https://pajhome.org.uk](https://pajhome.org.uk)
- - date_published: 2020-07-06T00:41:36+00:00
-
- ## Pallant House Gallery | Home
- - [http://pallant.org.uk](http://pallant.org.uk)
- - date_published: 2024-06-21T15:05:53.113899+00:00
-
- ## The Dartmouth Boutique Bed and Breakfast
- - [https://pcc.org.uk](https://pcc.org.uk)
- - date_published: 2024-10-31T11:47:51.756794+00:00
-
- ## BFPO Veterans – PCS Branch Royal Engineers Association
- - [https://pcsbranch.org.uk](https://pcsbranch.org.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home
- - [https://www.pect.org.uk](https://www.pect.org.uk)
- - date_published: 2024-06-27T02:21:03.069595+00:00
-
- ## Pensions Policy. UK Pension Statistics and Facts - Pensions Policy Institute
- - [https://www.pensionspolicyinstitute.org.uk](https://www.pensionspolicyinstitute.org.uk)
- - date_published: 2024-10-21T08:30:02.455330+00:00
-
- ## Home | Permaculture Association
- - [https://www.permaculture.org.uk](https://www.permaculture.org.uk)
- - date_published: 2024-07-10T06:13:28.025774+00:00
-
- ## Public health profiles - OHID
- - [https://fingertips.phe.org.uk](https://fingertips.phe.org.uk)
- - date_published: 2024-06-18T10:41:09.150620+00:00
-
- ## The Philological Society Blog
- - [https://blog.philsoc.org.uk](https://blog.philsoc.org.uk)
- - date_published: 2024-07-02T10:19:26.301551+00:00
-
- ## PHP Developer – Freelance PHP Developer based in Manchester, UK
- - [https://www.phpdeveloper.org.uk](https://www.phpdeveloper.org.uk)
- - date_published: 2024-10-20T15:14:51.598655+00:00
-
- ## Phrases, Sayings and Proverbs we use everyday - with their meanings and origins explained.
- - [https://phrases.org.uk](https://phrases.org.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Andy Mabbett, aka pigsonthewing.
- - [https://pigsonthewing.org.uk](https://pigsonthewing.org.uk)
- - date_published: 2024-07-13T23:54:50.970204+00:00
-
- ## Home
- - [http://www.pkdcharity.org.uk](http://www.pkdcharity.org.uk)
- - date_published: 2024-09-17T17:34:16+00:00
-
- ## Plantlife
- - [https://www.plantlife.org.uk](https://www.plantlife.org.uk)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Plot Generator
- - [https://www.plot-generator.org.uk](https://www.plot-generator.org.uk)
- - date_published: 2024-10-30T10:49:13.240070+00:00
-
- ## Publishers' Licensing Services (PLS).
- - [https://www.pls.org.uk](https://www.pls.org.uk)
- - date_published: 2024-06-18T09:55:46.974740+00:00
-
- ## NAPS – National Association for Premenstrual Syndromes | NAPS
- - [http://www.pms.org.uk](http://www.pms.org.uk)
- - date_published: 2024-10-21T04:28:31.181848+00:00
-
- ## Poem Generator
- - [https://www.poem-generator.org.uk](https://www.poem-generator.org.uk)
- - date_published: 2024-10-30T10:49:08.563101+00:00
-
- ## The Poetry Station | Poems to view on video
- - [http://poetrystation.org.uk](http://poetrystation.org.uk)
- - date_published: 2024-07-02T22:29:28+00:00
-
- ## www.pogo.org.uk
- - [https://www.pogo.org.uk](https://www.pogo.org.uk)
- - date_published: 2022-07-15T14:29:33+00:00
 

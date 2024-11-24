@@ -1,3 +1,63 @@
+ ## LEAF
+ - [https://leaf.cmu.edu](https://leaf.cmu.edu)
+ - date_published: 2021-12-19T13:47:01+00:00
+
+ ## Home | CMU Libraries
+ - [https://library.cmu.edu](https://library.cmu.edu)
+ - date_published: 2024-04-30T03:46:12.715013+00:00
+
+ ## Andrew Mailman Mailing Lists at Carnegie Mellon
+ - [http://lists.andrew.cmu.edu](http://lists.andrew.cmu.edu)
+ - date_published: 2018-10-16T16:41:57+00:00
+
+ ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
+ - [http://lti.cmu.edu](http://lti.cmu.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
+ - [https://lti.cs.cmu.edu](https://lti.cs.cmu.edu)
+ - date_published: 2024-06-12T21:50:46+00:00
+
+ ## The Link - The Magazine of CMU's School of Computer Science
+ - [https://magazine.cs.cmu.edu](https://magazine.cs.cmu.edu)
+ - date_published: 2024-04-30T03:46:29.941665+00:00
+
+ ## MAGVIT
+ - [https://magvit.cs.cmu.edu](https://magvit.cs.cmu.edu)
+ - date_published: 2024-01-04T15:47:45+00:00
+
+ ## Department of Mathematical Sciences
+ - [https://math.cmu.edu](https://math.cmu.edu)
+ - date_published: 2011-04-05T14:01:54+00:00
+
+ ## Michael Trick's Operations Research Page
+ - [http://mat.tepper.cmu.edu](http://mat.tepper.cmu.edu)
+ - date_published: 2018-07-25T19:47:07+00:00
+
+ ## Introducing the MemexQA dataset
+ - [https://memexqa.cs.cmu.edu](https://memexqa.cs.cmu.edu)
+ - date_published: 2024-07-13T03:18:00.941688+00:00
+
+ ## Miller Institute for Contemporary Art
+ - [http://miller-ica.cmu.edu](http://miller-ica.cmu.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Machine Learning | CMU | Carnegie Mellon University
+ - [https://ml.cmu.edu](https://ml.cmu.edu)
+ - date_published: 2018-09-28T19:15:36+00:00
+
+ ## MLSP Carnegie Mellon University
+ - [http://mlsp.cs.cmu.edu](http://mlsp.cs.cmu.edu)
+ - date_published: 2018-02-14T20:47:08+00:00
+
+ ## Morphing Matter Lab Directed by Lining Yao
+ - [https://morphingmatter.cs.cmu.edu](https://morphingmatter.cs.cmu.edu)
+ - date_published: 2024-02-25T08:48:26.700946+00:00
+
+ ## Home - MRSD | Master of Science - Robotic Systems Development Program
+ - [https://mrsd.ri.cmu.edu](https://mrsd.ri.cmu.edu)
+ - date_published: 2024-04-30T03:47:11.873698+00:00
+
  ## M.S. in Automated Science - M.S. in Automated Science - Ray and Stephanie Lane Computational Biology Department - Carnegie Mellon University
  - [http://msas.cbd.cmu.edu](http://msas.cbd.cmu.edu)
  - date_published: 2024-02-28T00:00:00+00:00
@@ -3942,64 +4002,4 @@ Mellon University
  ## Events Calendar - DePaul University
  - [https://events.depaul.edu](https://events.depaul.edu)
  - date_published: 2024-07-09T21:29:41.613091+00:00
-
- ## DePaul University Libraries: EZproxy
- - [https://ezproxy.depaul.edu](https://ezproxy.depaul.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Foundations of Programming Languages Group
- - [http://fpl.cs.depaul.edu](http://fpl.cs.depaul.edu)
- - date_published: 2022-10-21T20:24:08+00:00
-
- ## www.depaul.edu
- - [http://go.depaul.edu](http://go.depaul.edu)
- - date_published: 2024-07-09T21:29:36.475304+00:00
-
- ## DePaul University | DePaul University, Chicago
- - [https://grad.depaul.edu](https://grad.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## College of Liberal Arts and Social Sciences | DePaul University, Chicago
- - [https://las.depaul.edu](https://las.depaul.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## DePaul University Libraries | DePaul University, Chicago
- - [https://library.depaul.edu](https://library.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## DePaul University Standard Sites | DePaul University, Chicago
- - [https://offices.depaul.edu](https://offices.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## DePaul University Resources | DePaul University, Chicago
- - [https://resources.depaul.edu](https://resources.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## DePaul University's institutional repository: Digital Commons@DePaul
- - [https://via.library.depaul.edu](https://via.library.depaul.edu)
- - date_published: 2024-06-28T20:50:40.984900+00:00
-
- ## DePaul University | DePaul University, Chicago
- - [http://www.depaul.edu](http://www.depaul.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## DePauw University - A Private Liberal Arts College - DePauw University
- - [https://depauw.edu](https://depauw.edu)
- - date_published: 2024-09-18T07:48:39.263628+00:00
-
- ## Home | Moodle
- - [https://moodle.depauw.edu](https://moodle.depauw.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## DePauw e-Services:
- - [https://my.depauw.edu](https://my.depauw.edu)
- - date_published: 2024-09-18T07:49:10.864749+00:00
-
- ## Dickinson College Bookstore - serving the campus of Dickinson College
- - [https://bookstore.dickinson.edu](https://bookstore.dickinson.edu)
- - date_published: 2024-10-20T22:02:38.542900+00:00
-
- ## React App
- - [https://viewbook.dickinson.edu](https://viewbook.dickinson.edu)
- - date_published: 2022-02-16T23:20:46+00:00
 

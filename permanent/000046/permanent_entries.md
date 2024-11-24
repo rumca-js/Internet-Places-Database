@@ -2292,6 +2292,10 @@
  - [https://shop.astra.com](https://shop.astra.com)
  - date_published: 2024-08-19T19:42:36.926039+00:00
 
+ ## Astradot Blog
+ - [https://blog.astradot.com](https://blog.astradot.com)
+ - date_published: 2024-11-23T19:24:53.575135+00:00
+
  ## Astral Codex Ten | Scott Alexander | Substack
  - [https://astralcodexten.com](https://astralcodexten.com)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -4020,8 +4024,4 @@
  ## ATOMIC ENTERTAINMENT | Video Production | New York
  - [https://www.atomicentertainment.com](https://www.atomicentertainment.com)
  - date_published: 2024-09-21T23:06:17.835428+00:00
-
- ## Atomic Front End
- - [http://atomicfe.com](http://atomicfe.com)
- - date_published: 2009-10-05T20:18:34+00:00
 

@@ -1,3 +1,15 @@
+ ## Deeter Cesler is your favorite person | strategist, software engineer, marketer
+ - [https://deetercesler.com](https://deetercesler.com)
+ - date_published: 2024-01-22T18:18:53.973365+00:00
+
+ ## Deezer login | Access your Deezer account by signing in
+ - [https://account.deezer.com](https://account.deezer.com)
+ - date_published: 2024-07-15T05:52:55.418942+00:00
+
+ ## Deezer plans | Compare Deezer's offer prices
+ - [https://deezer.com](https://deezer.com)
+ - date_published: 2024-05-12T05:25:32.129659+00:00
+
  ## Deezer for developers
  - [https://developers.deezer.com](https://developers.deezer.com)
  - date_published: 2024-05-10T04:33:32.271116+00:00
@@ -150,6 +162,10 @@
  ## Home
  - [https://defensehere.com](https://defensehere.com)
  - date_published: 2022-01-12T15:32:07+00:00
+
+ ## DEFENSEMAGAZINE.com - World of defense and security
+ - [https://www.defensemagazine.com](https://www.defensemagazine.com)
+ - date_published: 2024-11-23T18:12:42.809691+00:00
 
  ## Defense Aerospace news, exhibitions, contracts and procurement
  - [https://www.defensemirror.com](https://www.defensemirror.com)
@@ -3765,6 +3781,7 @@
  ## Destroy All Humans! 2 - Reprobed - Official Game Site
  - [https://destroyallhumansgame.com](https://destroyallhumansgame.com)
  - date_published: 2024-10-24T13:08:30.170823+00:00
+ - tags: ['video game']
 
  ## Destroy All Software
  - [https://destroyallsoftware.com](https://destroyallsoftware.com)
@@ -4015,20 +4032,4 @@
  ## Nachhaltigkeit bei der Deutschen Bahn
  - [https://nachhaltigkeit.deutschebahn.com](https://nachhaltigkeit.deutschebahn.com)
  - date_published: 2024-06-20T12:16:29.961287+00:00
-
- ## Open Source @ Deutsche Bahn
- - [https://opensource.deutschebahn.com](https://opensource.deutschebahn.com)
- - date_published: 2024-06-20T12:16:31.604150+00:00
-
- ## Deutsche Bahn
- - [https://www.deutschebahn.com](https://www.deutschebahn.com)
- - date_published: 2024-06-16T12:17:09.769194+00:00
-
- ## Deutsche Beverage & Process
- - [https://deutschebeverage.com](https://deutschebeverage.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Gruppe Deutsche Börse - Gruppe Deutsche Börse
- - [https://deutsche-boerse.com](https://deutsche-boerse.com)
- - date_published: 2024-06-22T21:40:06.781385+00:00
 

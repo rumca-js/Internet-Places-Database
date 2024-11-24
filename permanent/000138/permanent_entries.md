@@ -1,3 +1,27 @@
+ ## Literary Safari
+ - [http://www.literarysafari.com](http://www.literarysafari.com)
+ - date_published: 2024-07-17T10:48:51.752843+00:00
+
+ ## Storj Community Forum (official)
+ - [https://storj.bcdn.literatehosting.com](https://storj.bcdn.literatehosting.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://acm-stag.literatumonline.com](https://acm-stag.literatumonline.com)
+ - date_published: 2024-06-22T11:45:34.138812+00:00
+
+ ## Literatura Infantil y Juvenil SM
+ - [https://es.literaturasm.com](https://es.literaturasm.com)
+ - date_published: 2024-07-17T12:54:22.946505+00:00
+
+ ## Home
+ - [https://literatureandhistory.com](https://literatureandhistory.com)
+ - date_published: 2024-06-23T05:56:48.303633+00:00
+
+ ## Literature & Latte
+ - [https://www.literatureandlatte.com](https://www.literatureandlatte.com)
+ - date_published: 2024-05-04T14:00:27.385414+00:00
+
  ## Literature Map - The Tourist Map of Literature
  - [https://www.literature-map.com](https://www.literature-map.com)
  - date_published: 2024-07-12T20:29:45.368663+00:00
@@ -3999,28 +4023,4 @@
  ## Gannett Media Solutions | LocaliQ
  - [https://newjersey.localiq.com](https://newjersey.localiq.com)
  - date_published: 2024-05-11T11:31:53.516647+00:00
-
- ## LocaliQ | Growth Marketing Platform
- - [https://staging.localiq.com](https://staging.localiq.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Events Calendar - Florida International University
- - [https://fiu.enterprise.localist.com](https://fiu.enterprise.localist.com)
- - date_published: 2024-07-22T04:15:37.656849+00:00
-
- ## Events Calendar
- - [http://georgiastate.enterprise.localist.com](http://georgiastate.enterprise.localist.com)
- - date_published: 2024-07-20T22:38:38.563486+00:00
-
- ## Events Calendar - Harvard SEAS
- - [https://harvardseas.enterprise.localist.com](https://harvardseas.enterprise.localist.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Events Calendar
- - [https://ku.enterprise.localist.com](https://ku.enterprise.localist.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Localist: Online Event Calendar
- - [https://localist.com](https://localist.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

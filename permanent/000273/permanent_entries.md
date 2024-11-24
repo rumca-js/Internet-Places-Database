@@ -1,3 +1,67 @@
+ ## VCU News
+ - [https://news.vcu.edu](https://news.vcu.edu)
+ - date_published: 2024-05-07T22:22:46.409257+00:00
+
+ ## Commitment to Privacy
+ - [https://nlp.cs.vcu.edu](https://nlp.cs.vcu.edu)
+ - date_published: 2024-07-02T12:44:47.137375+00:00
+
+ ## Commitment to Privacy
+ - [https://nrsa.chp.vcu.edu](https://nrsa.chp.vcu.edu)
+ - date_published: 2024-07-02T12:44:58.858466+00:00
+
+ ## Commitment to Privacy
+ - [https://nso.vcu.edu](https://nso.vcu.edu)
+ - date_published: 2024-07-02T12:51:21.973954+00:00
+
+ ## Commitment to Privacy
+ - [https://nursing.vcu.edu](https://nursing.vcu.edu)
+ - date_published: 2024-07-02T12:43:35.396293+00:00
+
+ ## Commitment to Privacy
+ - [https://obgyn.vcu.edu](https://obgyn.vcu.edu)
+ - date_published: 2024-07-02T12:45:10.632447+00:00
+
+ ## Commitment to Privacy
+ - [https://occu.chp.vcu.edu](https://occu.chp.vcu.edu)
+ - date_published: 2024-07-02T12:51:31.893987+00:00
+
+ ## Commitment to Privacy
+ - [https://ocpe.vcu.edu](https://ocpe.vcu.edu)
+ - date_published: 2024-07-02T12:46:26.460598+00:00
+
+ ## Redirect - Virginia Commonwealth University
+ - [https://ocss.soe.vcu.edu](https://ocss.soe.vcu.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://odup.partnership.vcu.edu](https://odup.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:58:58.508610+00:00
+
+ ## Virginia Commonwealth University | Off-Campus Housing Search
+ - [https://offcampus.vcu.edu](https://offcampus.vcu.edu)
+ - date_published: 2024-07-02T12:48:48.561209+00:00
+
+ ## Commitment to Privacy
+ - [https://ombudsperson.vcu.edu](https://ombudsperson.vcu.edu)
+ - date_published: 2024-07-02T12:43:59.058429+00:00
+
+ ## Commitment to Privacy
+ - [https://omsa.vcu.edu](https://omsa.vcu.edu)
+ - date_published: 2024-07-02T12:58:08.808199+00:00
+
+ ## Commitment to Privacy
+ - [https://oneprint.vcu.edu](https://oneprint.vcu.edu)
+ - date_published: 2024-07-02T12:42:10.393688+00:00
+
+ ## Commitment to Privacy
+ - [https://onevcuresearch.vcu.edu](https://onevcuresearch.vcu.edu)
+ - date_published: 2024-07-02T12:58:23.747119+00:00
+
+ ## Online Homeland Security Degree and Emergency Preparedness
+ - [https://onlinewilder.vcu.edu](https://onlinewilder.vcu.edu)
+ - date_published: 2023-01-12T00:30:48+00:00
+
  ## Commitment to Privacy
  - [https://opds.vcu.edu](https://opds.vcu.edu)
  - date_published: 2024-05-07T22:23:33.140061+00:00
@@ -3938,68 +4002,4 @@
  ## Trademark Licensing
  - [https://trademarks.wsu.edu](https://trademarks.wsu.edu)
  - date_published: 2024-07-02T15:00:28+00:00
-
- ## Transfer Center for Policy & Resources |  Washington State University
- - [https://transfercredit.wsu.edu](https://transfercredit.wsu.edu)
- - date_published: 2024-07-02T14:56:41.979760+00:00
-
- ## WSU Tri-Cities - apply now to earn your degree
- - [https://tricities.wsu.edu](https://tricities.wsu.edu)
- - date_published: 2024-05-07T22:37:56.680744+00:00
-
- ## University Marketing & Communications |  Washington State University
- - [https://ucomm.wsu.edu](https://ucomm.wsu.edu)
- - date_published: 2024-05-07T22:38:23.634584+00:00
-
- ## Home
- - [https://urec.wsu.edu](https://urec.wsu.edu)
- - date_published: 2024-07-02T14:59:47.840953+00:00
-
- ## Washington State University Vancouver - Vancouver, WA, USA
- - [https://vancouver.wsu.edu](https://vancouver.wsu.edu)
- - date_published: 2024-07-01T23:15:15+00:00
-
- ## Home
- - [https://vetmed.wsu.edu](https://vetmed.wsu.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## UCOMM Network |  Washington State University
- - [https://wpnetwork.ucomm.wsu.edu](https://wpnetwork.ucomm.wsu.edu)
- - date_published: 2024-05-07T22:38:17.705065+00:00
-
- ## Washington State University
- - [https://wsu.edu](https://wsu.edu)
- - date_published: 2024-05-07T22:38:13.947997+00:00
-
- ## UCOMM Network |  Washington State University
- - [https://wsuwp.ucomm.wsu.edu](https://wsuwp.ucomm.wsu.edu)
- - date_published: 2024-07-02T14:18:18+00:00
-
- ## Student Handbook
- - [https://www.handbook.wsu.edu](https://www.handbook.wsu.edu)
- - date_published: 2024-07-02T14:58:22.887081+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://zzusis-utilities.wsu.edu](https://zzusis-utilities.wsu.edu)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## West Texas A&M University | WTAMU
- - [https://apps.wtamu.edu](https://apps.wtamu.edu)
- - date_published: 2024-05-07T22:38:25.860004+00:00
-
- ## BuffTransit - WTAMU Shuttle Bus Tracker
- - [https://bufftransit.wtamu.edu](https://bufftransit.wtamu.edu)
- - date_published: 2023-07-07T04:54:38+00:00
-
- ## West Texas A&M University Campus Map
- - [https://map.wtamu.edu](https://map.wtamu.edu)
- - date_published: 2024-05-07T22:38:46.798203+00:00
-
- ## WTAMU
- - [https://mybuff.wtamu.edu](https://mybuff.wtamu.edu)
- - date_published: 2024-05-07T22:38:48.576296+00:00
-
- ## Student Self-Service
- - [https://sss.wtamu.edu](https://sss.wtamu.edu)
- - date_published: 2013-02-15T17:54:26+00:00
 

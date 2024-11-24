@@ -1,3 +1,107 @@
+ ## İdari ve Mali İşler Daire Başkanlığı
+ - [http://imid.isparta.edu.tr](http://imid.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:22.546555+00:00
+
+ ## İşletme Fakültesi
+ - [http://isletme.isparta.edu.tr](http://isletme.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:06.281961+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi Üniversitesi
+ - [https://isparta.edu.tr](https://isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:24.400280+00:00
+
+ ## Isparta Meslek Yüksekokulu
+ - [http://ispartamyo.isparta.edu.tr](http://ispartamyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:43.321456+00:00
+
+ ## Kalite Koordinatörlüğü
+ - [https://kalite.isparta.edu.tr](https://kalite.isparta.edu.tr)
+ - date_published: 2024-02-08T16:47:44.515639+00:00
+
+ ## Kariyer Geliştirme Uygulama ve Araştırma Merkezi
+ - [http://kariyer.isparta.edu.tr](http://kariyer.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:04.108562+00:00
+
+ ## ISUBÜ - KBYS
+ - [https://kbys.isparta.edu.tr](https://kbys.isparta.edu.tr)
+ - date_published: 2024-10-19T13:35:54.811858+00:00
+
+ ## Keçiborlu Meslek Yüksekokulu
+ - [http://keciborlumyo.isparta.edu.tr](http://keciborlumyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:48.840050+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://kutuphane.isparta.edu.tr](https://kutuphane.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:11.765310+00:00
+
+ ## Kişisel Verilerin Korunması Kanunu Komisyonu
+ - [https://kvkk.isparta.edu.tr](https://kvkk.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:45.604201+00:00
+
+ ## Search Home
+ - [https://librarycatalog.isparta.edu.tr](https://librarycatalog.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:38.532067+00:00
+
+ ## Lisansüstü Eğitim Enstitüsü
+ - [http://lisansustu.isparta.edu.tr](http://lisansustu.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:40.327833+00:00
+
+ ## Mevlana Ofis Koordinatörlüğü
+ - [https://mevlana.isparta.edu.tr](https://mevlana.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:43.714137+00:00
+
+ ## MezunTakipSistemi
+ - [https://mezun.isparta.edu.tr](https://mezun.isparta.edu.tr)
+ - date_published: 2023-11-28T09:15:56+00:00
+
+ ## ISUBÜ Öğrenci Bilgi Sistemi
+ - [https://obs.isparta.edu.tr](https://obs.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:19.456664+00:00
+
+ ## Öğrenci Konseyi
+ - [https://ogrencikonseyi.isparta.edu.tr](https://ogrencikonseyi.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:14.332918+00:00
+
+ ## Öğrenci İşleri Daire Başkanlığı
+ - [https://oidb.isparta.edu.tr](https://oidb.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:33.631570+00:00
+
+ ## Orman Fakültesi
+ - [http://orman.isparta.edu.tr](http://orman.isparta.edu.tr)
+ - date_published: 2024-06-17T15:15:18.056572+00:00
+
+ ## Ortak Dersler Bölüm Başkanlığı
+ - [https://ortakdersler.isparta.edu.tr](https://ortakdersler.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:35.281895+00:00
+
+ ## Isparta Organize Sanayi Bölgesi Meslek Yüksekokulu
+ - [http://osbmyo.isparta.edu.tr](http://osbmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:18:48.159496+00:00
+
+ ## ISUBU SKS Otomasyon Sistemi
+ - [https://otomasyon.isparta.edu.tr](https://otomasyon.isparta.edu.tr)
+ - date_published: 2024-10-19T13:35:56.267476+00:00
+
+ ## ÖYP Kurum Koordinatörlüğü
+ - [https://oyp.isparta.edu.tr](https://oyp.isparta.edu.tr)
+ - date_published: 2024-06-17T15:28:12.422361+00:00
+
+ ## PbsV3 - Personel Bilgi Sistemi V3
+ - [https://pbs.isparta.edu.tr](https://pbs.isparta.edu.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Personel Daire Başkanlığı
+ - [https://persdb.isparta.edu.tr](https://persdb.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:31.308692+00:00
+
+ ## Sürekli Eğitim Uygulama ve Araştırma Merkezi
+ - [https://sem.isparta.edu.tr](https://sem.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:07.749747+00:00
+
+ ## Senirkent Meslek Yüksekokulu
+ - [http://senirkentmyo.isparta.edu.tr](http://senirkentmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:36.942464+00:00
+
  ## Strateji Geliştirme Daire Başkanlığı
  - [http://sgdb.isparta.edu.tr](http://sgdb.isparta.edu.tr)
  - date_published: 2024-06-17T15:18:22.753618+00:00
@@ -3958,108 +4062,4 @@ NMHSs DIRECTORS
  ## Home – Heimspiel
  - [http://heimspiel.tv](http://heimspiel.tv)
  - date_published: 2024-07-13T15:30:15.896460+00:00
-
- ## HiAnime Official Websites - List of HiAnime alternative and proxy domains
- - [https://hianime.tv](https://hianime.tv)
- - date_published: 2024-03-22T16:02:49+00:00
-
- ## Home - Hireworks
- - [https://hireworks.tv](https://hireworks.tv)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## 安全检测
- - [https://hj999.tv](https://hj999.tv)
- - date_published: 2024-04-19T13:41:15+00:00
-
- ## Explore volumetric AI-generated art
- - [https://explore.holovolo.tv](https://explore.holovolo.tv)
- - date_published: 2023-05-12T01:28:10+00:00
-
- ## holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
- - [https://holovolo.tv](https://holovolo.tv)
- - date_published: 2023-10-25T22:47:24.915722+00:00
-
- ## HSEO tv
- - [https://hseo.tv](https://hseo.tv)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Human Music TV
- - [https://humanmusic.tv](https://humanmusic.tv)
- - date_published: 2022-05-26T16:49:02+00:00
-
- ## 火星网校_火星时代教育旗下CG设计在线学习平台
- - [https://www.hxsd.tv](https://www.hxsd.tv)
- - date_published: 2024-10-25T11:56:48.370202+00:00
-
- ## I24NEWS VOD
- - [https://video.i24news.tv](https://video.i24news.tv)
- - date_published: 2024-05-02T10:35:45.175218+00:00
-
- ## I24NEWS - Breaking news from the Middle East, Israel and around the world
- - [https://www.i24news.tv](https://www.i24news.tv)
- - date_published: 2023-10-30T20:58:57.678391+00:00
-
- ## HowTheLightGetsIn London 2024
- - [https://hay.htlgi.iai.tv](https://hay.htlgi.iai.tv)
- - date_published: 2024-03-22T16:54:20+00:00
-
- ## HowTheLightGetsIn London 2024
- - [https://howthelightgetsin.iai.tv](https://howthelightgetsin.iai.tv)
- - date_published: 2024-03-22T16:54:20+00:00
-
- ## Home » IAI TV
- - [https://iai.tv](https://iai.tv)
- - date_published: 2023-10-25T22:47:27.304357+00:00
-
- ## Sign in - Matomo
- - [https://matomo.iai.tv](https://matomo.iai.tv)
- - date_published: 2024-05-02T10:35:54.626594+00:00
-
- ## ICONOCLAST France
- - [http://www.iconoclastimage.tv](http://www.iconoclastimage.tv)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Indie Film Hustle TV - Streaming for Filmmaker, Screenwriters & Content Creators
- - [https://indiefilmhustle.tv](https://indiefilmhustle.tv)
- - date_published: 2024-08-18T12:33:21.343193+00:00
-
- ## Insurance Journal TV - A delicious mix of Insurance and TV
- - [http://www.insurancejournal.tv](http://www.insurancejournal.tv)
- - date_published: 2024-08-19T08:47:16.674506+00:00
-
- ## DARMOWA TELEWIZJA INTERNETOWA - INTERIA.TV - teledyski, plotki, śmieszne filmiki, wywiady wideo
- - [https://www.interia.tv](https://www.interia.tv)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Invisible People - Organization That Helps Homeless People
- - [https://invisiblepeople.tv](https://invisiblepeople.tv)
- - date_published: 2023-10-25T22:47:31.099052+00:00
-
- ## Polsatboxgo.pl - Najlepsze seriale, filmy i sport na żywo
- - [https://www.ipla.tv](https://www.ipla.tv)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## ISBnews.TV | Nowa Telewizja Biznesowa
- - [https://www.isbnews.tv](https://www.isbnews.tv)
- - date_published: 2024-07-14T05:23:55.454109+00:00
-
- ## iSpot.tv: The New Standard for TV Ad Measurement
- - [https://www.ispot.tv](https://www.ispot.tv)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## On-Demand Cybersecurity & IT Training | ACI Learning
- - [https://itpro.tv](https://itpro.tv)
- - date_published: 2024-10-22T21:58:00.563340+00:00
-
- ## Parrilla de Televisión | Guía de programación de TV
- - [https://elmundodeportivo.its-not.tv](https://elmundodeportivo.its-not.tv)
- - date_published: 2024-10-31T21:56:23.937369+00:00
-
- ## Iwara
- - [https://ecchi.iwara.tv](https://ecchi.iwara.tv)
- - date_published: 2024-07-19T07:36:42+00:00
-
- ## Iwara
- - [https://iwara.tv](https://iwara.tv)
- - date_published: 2024-07-19T07:36:42+00:00
 

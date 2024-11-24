@@ -1,3 +1,63 @@
+ ## DePaul University Libraries: EZproxy
+ - [https://ezproxy.depaul.edu](https://ezproxy.depaul.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Foundations of Programming Languages Group
+ - [http://fpl.cs.depaul.edu](http://fpl.cs.depaul.edu)
+ - date_published: 2022-10-21T20:24:08+00:00
+
+ ## www.depaul.edu
+ - [http://go.depaul.edu](http://go.depaul.edu)
+ - date_published: 2024-07-09T21:29:36.475304+00:00
+
+ ## DePaul University | DePaul University, Chicago
+ - [https://grad.depaul.edu](https://grad.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## College of Liberal Arts and Social Sciences | DePaul University, Chicago
+ - [https://las.depaul.edu](https://las.depaul.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## DePaul University Libraries | DePaul University, Chicago
+ - [https://library.depaul.edu](https://library.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University Standard Sites | DePaul University, Chicago
+ - [https://offices.depaul.edu](https://offices.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University Resources | DePaul University, Chicago
+ - [https://resources.depaul.edu](https://resources.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University's institutional repository: Digital Commons@DePaul
+ - [https://via.library.depaul.edu](https://via.library.depaul.edu)
+ - date_published: 2024-06-28T20:50:40.984900+00:00
+
+ ## DePaul University | DePaul University, Chicago
+ - [http://www.depaul.edu](http://www.depaul.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## DePauw University - A Private Liberal Arts College - DePauw University
+ - [https://depauw.edu](https://depauw.edu)
+ - date_published: 2024-09-18T07:48:39.263628+00:00
+
+ ## Home | Moodle
+ - [https://moodle.depauw.edu](https://moodle.depauw.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## DePauw e-Services:
+ - [https://my.depauw.edu](https://my.depauw.edu)
+ - date_published: 2024-09-18T07:49:10.864749+00:00
+
+ ## Dickinson College Bookstore - serving the campus of Dickinson College
+ - [https://bookstore.dickinson.edu](https://bookstore.dickinson.edu)
+ - date_published: 2024-10-20T22:02:38.542900+00:00
+
+ ## React App
+ - [https://viewbook.dickinson.edu](https://viewbook.dickinson.edu)
+ - date_published: 2022-02-16T23:20:46+00:00
+
  ## Dickinson College Homepage
  - [http://www.dickinson.edu](http://www.dickinson.edu)
  - date_published: 2024-06-18T07:52:10.636164+00:00
@@ -3938,64 +3998,4 @@
  ## Alumni Admissions Program - Alumni Admissions Program
  - [https://aap.georgetown.edu](https://aap.georgetown.edu)
  - date_published: 2024-10-22T05:35:38.198476+00:00
-
- ## Home Page - The Academic Resource Center
- - [https://academicsupport.georgetown.edu](https://academicsupport.georgetown.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Home Page - Accessibility at Georgetown
- - [https://accessibility.georgetown.edu](https://accessibility.georgetown.edu)
- - date_published: 2024-05-11T07:22:42.660229+00:00
-
- ## Alumni Home - Georgetown Alumni
- - [https://alumni.georgetown.edu](https://alumni.georgetown.edu)
- - date_published: 2024-06-18T13:34:30.568731+00:00
-
- ## Americas Institute Homepage
- - [https://americas.georgetown.edu](https://americas.georgetown.edu)
- - date_published: 2024-10-22T05:42:27.342760+00:00
-
- ## | Georgetown Google Apps | Georgetown University
- - [http://apps.georgetown.edu](http://apps.georgetown.edu)
- - date_published: 2022-04-11T10:05:09+00:00
-
- ## - Office of Faculty & Staff Benefits
- - [https://benefits.georgetown.edu](https://benefits.georgetown.edu)
- - date_published: 2024-10-22T05:40:16.595107+00:00
-
- ## Berkley Center for Religion, Peace and World Affairs
- - [http://berkleycenter.georgetown.edu](http://berkleycenter.georgetown.edu)
- - date_published: 2024-06-28T20:54:09.453790+00:00
-
- ## Home Page - Bias Reporting
- - [https://biasreporting.georgetown.edu](https://biasreporting.georgetown.edu)
- - date_published: 2023-06-16T00:00:00+00:00
-
- ## Bioethics Research Library | Georgetown University Library
- - [https://bioethics.georgetown.edu](https://bioethics.georgetown.edu)
- - date_published: 2024-07-16T23:02:11+00:00
-
- ## Home Page - Biomedical Graduate Education
- - [https://biomedicalprograms.georgetown.edu](https://biomedicalprograms.georgetown.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home Page - Biomedical and Health Sciences
- - [https://biomedicalresearch.georgetown.edu](https://biomedicalresearch.georgetown.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home Page - Department of Biostatistics, Bioinformatics & Biomathematics
- - [https://biostatistics.georgetown.edu](https://biostatistics.georgetown.edu)
- - date_published: 2024-07-13T12:24:28.876625+00:00
-
- ## CNDLS Course Sites
- - [https://blogs.commons.georgetown.edu](https://blogs.commons.georgetown.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Georgetown Box - Georgetown Box
- - [https://box.georgetown.edu](https://box.georgetown.edu)
- - date_published: 2024-09-18T23:27:36.044114+00:00
-
- ## Home Page - 2024-2025 Undergraduate Bulletin
- - [http://bulletin.georgetown.edu](http://bulletin.georgetown.edu)
- - date_published: 2024-10-22T05:40:36.778529+00:00
 

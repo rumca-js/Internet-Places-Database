@@ -1,3 +1,67 @@
+ ## Congresswoman Sydney Kamlager-Dove
+ - [https://kamlager-dove.house.gov](https://kamlager-dove.house.gov)
+ - date_published: 2024-06-27T14:10:18.659466+00:00
+
+ ## Congresswoman Marcy Kaptur
+ - [https://kaptur.house.gov](https://kaptur.house.gov)
+ - date_published: 2024-06-27T14:18:48.243155+00:00
+
+ ## Congresswoman Katherine Clark
+ - [https://katherineclark.house.gov](https://katherineclark.house.gov)
+ - date_published: 2024-06-27T14:11:33.462846+00:00
+
+ ## Congresswoman Kay Granger
+ - [https://kaygranger.house.gov](https://kaygranger.house.gov)
+ - date_published: 2024-06-27T14:23:18.597764+00:00
+
+ ## Congressman Thomas Kean Jr.
+ - [https://kean.house.gov](https://kean.house.gov)
+ - date_published: 2024-06-27T14:10:26.476315+00:00
+
+ ## Congressman Bill Keating
+ - [https://keating.house.gov](https://keating.house.gov)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Representative Keith Self
+ - [https://keithself.house.gov](https://keithself.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congressman Mike Kelly
+ - [https://kelly.house.gov](https://kelly.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Congressman Timothy M. Kennedy
+ - [https://kennedy.house.gov](https://kennedy.house.gov)
+ - date_published: 2024-06-27T14:00:52+00:00
+
+ ## Representative Kevin Mullin
+ - [https://kevinmullin.house.gov](https://kevinmullin.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Congressman Ro Khanna |
+ - [https://khanna.house.gov](https://khanna.house.gov)
+ - date_published: 2023-10-25T19:22:25.514559+00:00
+
+ ## Kids in the House - Office of the Clerk, U.S. House of Representatives
+ - [https://kids-clerk.house.gov](https://kids-clerk.house.gov)
+ - date_published: 2024-06-27T14:13:47.196748+00:00
+
+ ## Home - Jen Kiggans
+ - [https://kiggans.house.gov](https://kiggans.house.gov)
+ - date_published: 2024-06-27T14:22:51.962539+00:00
+
+ ## Home - Kevin Kiley
+ - [https://kiley.house.gov](https://kiley.house.gov)
+ - date_published: 2024-06-27T14:10:35.569484+00:00
+
+ ## home | U.S. Congressman Derek Kilmer of Washington's 6th District
+ - [https://kilmer.house.gov](https://kilmer.house.gov)
+ - date_published: 2024-06-27T14:13:53.297477+00:00
+
+ ## Representative Andy Kim
+ - [https://kim.house.gov](https://kim.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Representative Krishnamoorthi
  - [https://krishnamoorthi.house.gov](https://krishnamoorthi.house.gov)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -3946,69 +4010,4 @@
  ## NCBI Insights
  - [https://ncbiinsights.ncbi.nlm.nih.gov](https://ncbiinsights.ncbi.nlm.nih.gov)
  - date_published: 2024-07-08T00:00:00+00:00
-
- ## National Center for Biotechnology Information
- - [https://ncbi.nlm.nih.gov](https://ncbi.nlm.nih.gov)
- - date_published: 2023-10-25T11:20:27.525952+00:00
-
- ## NCCIH
- - [https://nccih.nih.gov](https://nccih.nih.gov)
- - date_published: 2024-07-09T12:35:22+00:00
-
- ## Home Page | CBIIT
- - [https://ncip.nci.nih.gov](https://ncip.nci.nih.gov)
- - date_published: 2024-09-02T15:06:16+00:00
-
- ## NIH Enterprise Directory (NED) - National Institutes of Health (NIH)
- - [https://ned.nih.gov](https://ned.nih.gov)
- - date_published: 2024-07-09T13:17:08.094313+00:00
-
- ## National Eye Institute | National Eye Institute
- - [https://nei.nih.gov](https://nei.nih.gov)
- - date_published: 2024-07-09T08:11:04+00:00
-
- ## Home | Blueprint
- - [https://neuroscienceblueprint.nih.gov](https://neuroscienceblueprint.nih.gov)
- - date_published: 2024-07-09T13:17:27+00:00
-
- ## ORS News2Use -
-	ORS News2Use
- - [https://news2use.ors.nih.gov](https://news2use.ors.nih.gov)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Homepage
- - [https://newsinhealth.nih.gov](https://newsinhealth.nih.gov)
- - date_published: 2024-07-01T14:54:28+00:00
-
- ## Teen Drinking | NIAAA
- - [https://niaaaforteens.niaaa.nih.gov](https://niaaaforteens.niaaa.nih.gov)
- - date_published: 2024-07-03T22:53:29.264542+00:00
-
- ## National Institute on Alcohol Abuse and Alcoholism (NIAAA) | National Institute on Alcohol Abuse and Alcoholism (NIAAA)
- - [https://niaaa.nih.gov](https://niaaa.nih.gov)
- - date_published: 2024-05-08T04:17:28.968856+00:00
-
- ## National Institute on Aging
- - [https://nia.nih.gov](https://nia.nih.gov)
- - date_published: 2023-10-25T19:23:24.748138+00:00
-
- ## NIDA.NIH.GOV | National Institute on Drug Abuse (NIDA)
- - [https://nida.nih.gov](https://nida.nih.gov)
- - date_published: 2023-10-25T19:23:19.022378+00:00
-
- ## National Institute of General Medical Sciences
- - [https://nigms.nih.gov](https://nigms.nih.gov)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## National Institutes of Health (NIH)
- - [https://nih.gov](https://nih.gov)
- - date_published: 2024-05-09T05:10:53.930592+00:00
-
- ## NIH LIBRARY | NIH Library
- - [https://nihlibrary.nih.gov](https://nihlibrary.nih.gov)
- - date_published: 2024-05-08T02:44:39.351073+00:00
-
- ## NIH Record | The biweekly newsletter for NIH employees since 1949
- - [https://nihrecord.nih.gov](https://nihrecord.nih.gov)
- - date_published: 2024-07-09T08:17:38+00:00
 

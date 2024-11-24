@@ -1,3 +1,95 @@
+ ## World Integrated Trade Solution (WITS) | Data on Export, Import, Tariff, NTM
+ - [https://wits.worldbank.org](https://wits.worldbank.org)
+ - date_published: 2024-05-12T07:30:43.555058+00:00
+
+ ## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://worldbank.org](https://worldbank.org)
+ - date_published: 2024-06-18T13:26:58+00:00
+
+ ## أجاي بانغا رئيس مجموعة البنك الدولي
+ - [https://ar.president.worldbankgroup.org](https://ar.president.worldbankgroup.org)
+ - date_published: 2024-07-15T15:06:30+00:00
+
+ ## | Independent Evaluation Group
+ - [https://ieg.worldbankgroup.org](https://ieg.worldbankgroup.org)
+ - date_published: 2024-07-16T22:44:37+00:00
+
+ ## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://worldbankgroup.org](https://worldbankgroup.org)
+ - date_published: 2024-07-16T14:14:52+00:00
+
+ ## Home | World Benchmarking Alliance
+ - [https://worldbenchmarkingalliance.org](https://worldbenchmarkingalliance.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## World BEYOND War
+ - [https://dev.worldbeyondwar.org](https://dev.worldbeyondwar.org)
+ - date_published: 2024-08-18T17:30:41.217702+00:00
+
+ ## World BEYOND War Events Calendar - World BEYOND War Events Calendar
+ - [https://events.worldbeyondwar.org](https://events.worldbeyondwar.org)
+ - date_published: 2024-08-18T17:30:38.359406+00:00
+
+ ## Engaging in Learning & Action Toward a Global Security System: an Alternative to War - Study war no more
+ - [https://globalsecurity.worldbeyondwar.org](https://globalsecurity.worldbeyondwar.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## World BEYOND War - World BEYOND War
+ - [https://worldbeyondwar.org](https://worldbeyondwar.org)
+ - date_published: 2023-10-25T22:22:10.341829+00:00
+
+ ## World Bicycle Relief | Global Bicycle Charity
+ - [https://www.worldbicyclerelief.org](https://www.worldbicyclerelief.org)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## World Biodiversity Summit
+ - [https://www.worldbiodiversitysummit.org](https://www.worldbiodiversitysummit.org)
+ - date_published: 2024-07-08T10:00:31.077176+00:00
+
+ ## World Biogas Association | Making biogas happen
+ - [https://www.worldbiogasassociation.org](https://www.worldbiogasassociation.org)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## OCLC FAST (Faceted Application of Subject Terminology)
+ - [http://id.worldcat.org](http://id.worldcat.org)
+ - date_published: 2024-01-29T21:25:18+00:00
+
+ ## WorldCat.org
+ - [https://search.worldcat.org](https://search.worldcat.org)
+ - date_published: 2024-06-23T09:43:25.345382+00:00
+
+ ## WorldCat.org
+ - [http://worldcat.org](http://worldcat.org)
+ - date_published: 2024-10-29T18:54:58.500408+00:00
+
+ ## WORLD Channel
+ - [http://worldchannel.org](http://worldchannel.org)
+ - date_published: 2024-08-06T07:01:15.015621+00:00
+
+ ## World Coalition Against the Death Penalty
+ - [https://worldcoalition.org](https://worldcoalition.org)
+ - date_published: 2024-09-17T17:12:02.584415+00:00
+
+ ## For every human
+ - [https://de-de.worldcoin.org](https://de-de.worldcoin.org)
+ - date_published: 2024-07-19T23:03:23.199556+00:00
+
+ ## Worldcoin Docs
+ - [https://docs.worldcoin.org](https://docs.worldcoin.org)
+ - date_published: 2024-07-04T17:05:36.717536+00:00
+
+ ## For every human
+ - [https://es-es.worldcoin.org](https://es-es.worldcoin.org)
+ - date_published: 2024-07-19T23:03:11.665447+00:00
+
+ ## For every human
+ - [https://es-la.worldcoin.org](https://es-la.worldcoin.org)
+ - date_published: 2024-07-19T23:03:25.155189+00:00
+
+ ## For every human
+ - [https://fr-fr.worldcoin.org](https://fr-fr.worldcoin.org)
+ - date_published: 2024-07-19T23:03:28.018166+00:00
+
  ## For every human
  - [https://hi-in.worldcoin.org](https://hi-in.worldcoin.org)
  - date_published: 2024-07-19T23:03:24.074525+00:00
@@ -3951,97 +4043,4 @@ Zig Programming Language
  ## Josh Thompson
  - [https://josh-thompson.ck.page](https://josh-thompson.ck.page)
  - date_published: 2024-06-22T14:35:12.468713+00:00
-
- ## CK homepage redirect
- - [https://journalology.ck.page](https://journalology.ck.page)
- - date_published: 2024-06-20T19:50:17+00:00
-
- ## Katherine Galligan
- - [https://katherinegalligan.ck.page](https://katherinegalligan.ck.page)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## How to Sell Advice
- - [https://kevin.ck.page](https://kevin.ck.page)
- - date_published: 2023-12-18T00:00:00+00:00
-
- ## Kristen Bousquet
- - [https://kristen-bousquet.ck.page](https://kristen-bousquet.ck.page)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Lauren Kay, Young Adult Author
- - [https://laurenkaywrites.ck.page](https://laurenkaywrites.ck.page)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Tech help for solo lawyers
- - [https://lawfirm-autopilot.ck.page](https://lawfirm-autopilot.ck.page)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Hi, I’m a creator
- - [https://legalnomads.ck.page](https://legalnomads.ck.page)
- - date_published: 2024-05-13T03:27:17.710908+00:00
-
- ## Silent Reflections
- - [https://lifestoriescircle.ck.page](https://lifestoriescircle.ck.page)
- - date_published: 2024-03-17T18:39:20+00:00
-
- ## Democratizing our lives is empowering and we will share actionable tips how to do it starting today.
- - [https://lifestyledemocracy.ck.page](https://lifestyledemocracy.ck.page)
- - date_published: 2024-04-02T18:25:58+00:00
-
- ## Erik Ireland
- - [https://listentosleep.ck.page](https://listentosleep.ck.page)
- - date_published: 2024-05-06T16:02:34.761670+00:00
- - tags: ['personal']
-
- ## 8-page 'Print and Go' Sunflower Printable Pack!
- - [https://long-breeze-9473.ck.page](https://long-breeze-9473.ck.page)
- - date_published: 2023-04-17T19:06:49+00:00
-
- ## David Perell
- - [https://long-water-221.ck.page](https://long-water-221.ck.page)
- - date_published: 2024-05-06T23:01:15.341723+00:00
-
- ## Luca Dellanna
- - [https://luca.ck.page](https://luca.ck.page)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Martijn van Zwieten
- - [https://martijnvanzwieten.ck.page](https://martijnvanzwieten.ck.page)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Hi, I’m a creator
- - [https://marvelous-motivator-7866.ck.page](https://marvelous-motivator-7866.ck.page)
- - date_published: 2024-08-19T05:19:44+00:00
-
- ## Hi! I'm Max.
- - [https://max-engineer.ck.page](https://max-engineer.ck.page)
- - date_published: 2024-05-07T22:58:46.256616+00:00
-
- ## Michael Frew | Dev Driven Acquisitions
- - [https://michael-frew.ck.page](https://michael-frew.ck.page)
- - date_published: 2024-05-10T06:31:16.431048+00:00
-
- ## The Weekly Vest
- - [https://mike-troxell.ck.page](https://mike-troxell.ck.page)
- - date_published: 2024-09-16T01:17:08+00:00
-
- ## ATTN: From The Outbox of Mike Vardy
- - [https://mikevardy.ck.page](https://mikevardy.ck.page)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Words Behind Maps
- - [https://mindsbehindsmaps_newsletter.ck.page](https://mindsbehindsmaps_newsletter.ck.page)
- - date_published: 2024-02-03T09:17:40+00:00
-
- ## Story Retreat - A More To That storytelling summit
- - [https://moretothat.ck.page](https://moretothat.ck.page)
- - date_published: 2023-02-16T23:19:11+00:00
-
- ## Hi! I'm Piotr.
- - [https://motivated-architect-9138.ck.page](https://motivated-architect-9138.ck.page)
- - date_published: 2024-04-28T02:57:22.339842+00:00
-
- ## Write • Build • Scale with Sinem Günel
- - [https://mwa.ck.page](https://mwa.ck.page)
- - date_published: 2024-09-03T00:00:00+00:00
 

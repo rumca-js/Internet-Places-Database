@@ -1,3 +1,15 @@
+ ## Second City Cop
+ - [https://secondcitycop.blogspot.com](https://secondcitycop.blogspot.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Blogger
+ - [http://secondcitywifey.blogspot.com](http://secondcitywifey.blogspot.com)
+ - date_published: 2024-06-27T10:01:12.772458+00:00
+
+ ## SECRET FUN BLOG
+ - [http://secretfunspot.blogspot.com](http://secretfunspot.blogspot.com)
+ - date_published: 2024-09-14T21:52:16+00:00
+
  ## The Secret Science Club
  - [http://secretscienceclub.blogspot.com](http://secretscienceclub.blogspot.com)
  - date_published: 2024-10-29T08:05:06+00:00
@@ -4001,16 +4013,4 @@
  ## The Lead Will Walk The Earth
  - [http://theleadwillwalktheearth.blogspot.com](http://theleadwillwalktheearth.blogspot.com)
  - date_published: 2015-11-05T00:00:00+00:00
-
- ## The Leutnants Diary
- - [http://theleutnantsdiary.blogspot.com](http://theleutnantsdiary.blogspot.com)
- - date_published: 2024-07-04T05:24:54+00:00
-
- ## The LibertyPhile
- - [http://thelibertyphile.blogspot.com](http://thelibertyphile.blogspot.com)
- - date_published: 2023-11-15T13:41:36+00:00
-
- ## The Liberty Sphere
- - [http://thelibertysphere.blogspot.com](http://thelibertysphere.blogspot.com)
- - date_published: 2024-07-03T06:50:11+00:00
 

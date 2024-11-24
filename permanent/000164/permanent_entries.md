@@ -1,3 +1,35 @@
+ ## Nonreligious Questions
+ - [https://friendlyatheist.patheos.com](https://friendlyatheist.patheos.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Patheos | Hosting The Conversation On Faith
+ - [https://media.patheos.com](https://media.patheos.com)
+ - date_published: 2024-10-18T14:52:26.920171+00:00
+
+ ## Nonreligious Questions
+ - [https://wp-media.patheos.com](https://wp-media.patheos.com)
+ - date_published: 2024-10-18T14:52:09.977307+00:00
+
+ ## Patheos | Hosting The Conversation On Faith
+ - [https://www.patheos.com](https://www.patheos.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## PCR's notepad - The area in patheticcockroach.com where the EEG isn't isoelectric
+ - [https://notepad.patheticcockroach.com](https://notepad.patheticcockroach.com)
+ - date_published: 2024-09-02T16:06:11.646906+00:00
+
+ ## PathFactory
+ - [https://franklincovey.pathfactory.com](https://franklincovey.pathfactory.com)
+ - date_published: 2024-06-23T02:31:11.895663+00:00
+
+ ## PathFactory
+ - [https://login.pathfactory.com](https://login.pathfactory.com)
+ - date_published: 2024-07-24T02:35:15.173078+00:00
+
+ ## PathFactory
+ - [https://trendmicro.pathfactory.com](https://trendmicro.pathfactory.com)
+ - date_published: 2024-06-26T23:41:53.370219+00:00
+
  ## Homepage 2024
  - [https://www.pathfactory.com](https://www.pathfactory.com)
  - date_published: 2024-07-24T02:35:16.901151+00:00
@@ -4022,37 +4054,4 @@
  ## Luotettavat suomenkieliset nettikasinot - Pelipiste.com
  - [https://pelipiste.com](https://pelipiste.com)
  - date_published: 2024-07-17T04:25:11.080088+00:00
-
- ## Rahapelit netissä - Parhaat suomalaiset pelisivut 2024
- - [https://www.pelisivut.com](https://www.pelisivut.com)
- - date_published: 2024-07-18T03:14:38+00:00
-
- ## Pella Pressroom
- - [https://pressroom.pella.com](https://pressroom.pella.com)
- - date_published: 2024-10-17T21:18:02.507549+00:00
-
- ## Pella Windows & Doors
- - [https://www.pella.com](https://www.pella.com)
- - date_published: 2024-06-14T17:18:03+00:00
-
- ## Tech @ Pelmorex Corp.
- - [https://tech.pelmorex.com](https://tech.pelmorex.com)
- - date_published: 2024-06-25T17:25:08.516354+00:00
-
- ## Pelmorex Corp.
- - [https://www.pelmorex.com](https://www.pelmorex.com)
- - date_published: 2023-11-10T17:16:14+00:00
-
- ## Pelmorex Corp
- - [https://www.pelmorexsolutions.com](https://www.pelmorexsolutions.com)
- - date_published: 2024-05-06T17:25:35.042693+00:00
-
- ## PELock Software Protection & Software License Key System
- - [https://pelock.com](https://pelock.com)
- - date_published: 2024-03-19T15:09:07+00:00
- - tags: ['reverse engineering']
-
- ## PelotonCal
- - [https://pelotoncal.com](https://pelotoncal.com)
- - date_published: 2023-10-25T16:32:06.386585+00:00
 

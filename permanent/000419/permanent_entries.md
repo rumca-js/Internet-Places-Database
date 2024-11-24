@@ -1,3 +1,108 @@
+ ## plusone social impact
+ - [http://www.plusone.com.ua](http://www.plusone.com.ua)
+ - date_published: 2024-10-19T22:44:58.120105+00:00
+
+ ## Все для татуажа в Украине, Киеве. Интернет магазин оборудования, материалов для перманентного макияжа
+ - [https://pmpro.com.ua](https://pmpro.com.ua)
+ - date_published: 2024-05-08T09:02:41.465817+00:00
+
+ ## PocketBook
+ - [https://pocketbook.com.ua](https://pocketbook.com.ua)
+ - date_published: 2024-07-20T16:13:06.373431+00:00
+
+ ## Погода & Радар Україна
+ - [https://pogodairadar.com.ua](https://pogodairadar.com.ua)
+ - date_published: 2024-05-07T13:25:14.492211+00:00
+
+ ## Блог Portmone
+ - [https://blog.portmone.com.ua](https://blog.portmone.com.ua)
+ - date_published: 2024-10-19T23:37:02.644046+00:00
+
+ ## Платіжна система Portmone.com — оплати онлайн в Україні
+ - [https://www.portmone.com.ua](https://www.portmone.com.ua)
+ - date_published: 2024-06-17T17:13:03.207817+00:00
+
+ ## Цікаві новини та статті – Післязавтра
+ - [https://poslezavtra.com.ua](https://poslezavtra.com.ua)
+ - date_published: 2024-10-15T10:48:07+00:00
+
+ ## Блоги - Українська правда
+ - [https://blogs.pravda.com.ua](https://blogs.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:21.345623+00:00
+
+ ## Клуб УП
+ - [https://cabinet.pravda.com.ua](https://cabinet.pravda.com.ua)
+ - date_published: 2024-06-17T16:58:58.454241+00:00
+
+ ## Українська правда
+ - [https://club.pravda.com.ua](https://club.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:38.662458+00:00
+
+ ## Доступ до правди
+ - [https://dostup.pravda.com.ua](https://dostup.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:19.404639+00:00
+
+ ## Політичний ФОРУМ - Головна форума - Форум Української Правди
+ - [https://forum.pravda.com.ua](https://forum.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:15.787851+00:00
+
+ ## УП. Життя - новини про здоров'я, психологія та соціум
+ - [https://life.pravda.com.ua](https://life.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:14.359297+00:00
+
+ ## Промокоди на знижку до 60% ❤ Вигідні акції, бонуси та купони • Promokod.pravda.com.ua
+ - [https://promokod.pravda.com.ua](https://promokod.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:41.535039+00:00
+
+ ## РўР°Р±Р»РѕID
+ - [https://tabloid.pravda.com.ua](https://tabloid.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:17.848192+00:00
+
+ ## Українська правда
+ - [https://www.pravda.com.ua](https://www.pravda.com.ua)
+ - date_published: 2023-10-31T19:10:45.452974+00:00
+ - tags: ['ukraine news']
+
+ ## ПРАВЕКС БАНК | Офіційний сайт
+ - [https://www.pravex.com.ua](https://www.pravex.com.ua)
+ - date_published: 2024-09-26T21:04:05.139942+00:00
+
+ ## Cierpliwości...
+ - [https://rozetka.com.ua](https://rozetka.com.ua)
+ - date_published: 2024-06-30T09:28:00.293698+00:00
+
+ ## Консультации и тренинги по переговором по всему миру | Scotwork Украина
+ - [https://www.scotwork.com.ua](https://www.scotwork.com.ua)
+ - date_published: 2024-06-18T09:42:48.593833+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgsgroup.com.ua](https://www.sgsgroup.com.ua)
+ - date_published: 2024-06-26T10:38:36.419892+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.ua](https://www.skyscanner.com.ua)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## #StandWithUkraine - Support Ukraine against Russian Aggression
+ - [https://standwithukraine.com.ua](https://standwithukraine.com.ua)
+ - date_published: 2024-07-10T01:55:56.839192+00:00
+
+ ## Superprof — спільнота репетиторів
+ - [https://superprof.com.ua](https://superprof.com.ua)
+ - date_published: 2024-06-15T01:27:35.406321+00:00
+
+ ## Ігрові автомати на гроші онлайн - Кращі гральні слоти в Україні
+ - [https://svitua.com.ua](https://svitua.com.ua)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Головна | Журнал «Управління якістю»
+ - [https://ya.techmedia.com.ua](https://ya.techmedia.com.ua)
+ - date_published: 2024-10-19T23:05:03.288343+00:00
+
+ ## Безкоштовні психологічні консультації. Ваша підтримка поруч!
+ - [https://tellme.com.ua](https://tellme.com.ua)
+ - date_published: 2024-07-01T10:48:34+00:00
+
  ## Головні новини України - THE-NEWS.com.ua
  - [https://the-news.com.ua](https://the-news.com.ua)
  - date_published: 2023-11-03T17:12:53.092066+00:00
@@ -3904,108 +4009,4 @@
  ## Log in - Your University Login - The University of Edinburgh
  - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
  - date_published: 1980-01-01T00:00:00+00:00
-
- ## University of Edinburgh Research Explorer
- - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
- - date_published: 2024-04-28T04:01:00.882394+00:00
-
- ## Home | Tower Block
- - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
- - date_published: 2024-09-14T22:47:24.448503+00:00
-
- ## Dashboard - Wiki Service
- - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
- - date_published: 2024-07-21T06:43:07.730143+00:00
-
- ## Environmental Information Data Centre | EIDC
- - [https://eidc.ac.uk](https://eidc.ac.uk)
- - date_published: 2024-05-02T10:52:18.599276+00:00
-
- ## Edinburgh Mathematical Society
- - [https://ems.ac.uk](https://ems.ac.uk)
- - date_published: 2024-06-17T17:51:20.737823+00:00
-
- ## The English Association | The English Association
- - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Enhancement Themes
- - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
- - date_published: 2024-07-04T09:50:42+00:00
-
- ## Engineering and Physical Sciences Research Council (EPSRC)
- - [http://epsrc.ac.uk](http://epsrc.ac.uk)
- - date_published: 2024-07-08T17:37:09.965108+00:00
-
- ## Escape Studios | School of Animation, Games and VFX
- - [https://www.escapestudios.ac.uk](https://www.escapestudios.ac.uk)
- - date_published: 2024-10-20T03:46:35.312911+00:00
-
- ## Welcome
- - [https://www.escg.ac.uk](https://www.escg.ac.uk)
- - date_published: 2024-08-06T11:06:03.955022+00:00
-
- ## Economic and Social Research Council (ESRC)
- - [http://www.esrc.ac.uk](http://www.esrc.ac.uk)
- - date_published: 2024-10-20T06:12:46.465817+00:00
-
- ## Sixty Stories for Sixty Years
- - [https://60stories.essex.ac.uk](https://60stories.essex.ac.uk)
- - date_published: 2024-05-11T07:21:53.649032+00:00
-
- ## AnaWiki: Creating anaphorically annotated resources through Web cooperation
- - [http://anawiki.essex.ac.uk](http://anawiki.essex.ac.uk)
- - date_published: 2020-09-22T19:16:58+00:00
-
- ## Online Bachelors and Masters degree programmes
- - [https://online.essex.ac.uk](https://online.essex.ac.uk)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Untitled Document
- - [https://bart.exeter.ac.uk](https://bart.exeter.ac.uk)
- - date_published: 2010-11-18T14:26:59+00:00
-
- ## University of Exeter WordPress -
- - [http://blogs.exeter.ac.uk](http://blogs.exeter.ac.uk)
- - date_published: 2024-08-11T13:43:49.015297+00:00
-
- ## University of Exeter Business School  | University of Exeter Business School | University of Exeter
- - [https://business-school.exeter.ac.uk](https://business-school.exeter.ac.uk)
- - date_published: 2024-06-17T17:52:11.098686+00:00
-
- ## Expertise · Business School · University of Exeter
- - [https://business-school-expertise.exeter.ac.uk](https://business-school-expertise.exeter.ac.uk)
- - date_published: 2024-10-20T04:13:01.468112+00:00
-
- ## Home | University of Exeter
- - [https://exeter.ac.uk](https://exeter.ac.uk)
- - date_published: 2024-10-20T04:09:12.241076+00:00
-
- ## Fundraising | Fundraising | University of Exeter
- - [https://fundraising.exeter.ac.uk](https://fundraising.exeter.ac.uk)
- - date_published: 2024-06-17T17:51:56.389126+00:00
-
- ## Home - Green Futures Network
- - [https://gfn.exeter.ac.uk](https://gfn.exeter.ac.uk)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Homepage · GreenFutures
- - [https://greenfutures.exeter.ac.uk](https://greenfutures.exeter.ac.uk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## College of Humanities  | Humanities | University of Exeter
- - [https://humanities.exeter.ac.uk](https://humanities.exeter.ac.uk)
- - date_published: 2023-11-03T20:30:03+00:00
-
- ## Secure Portal Redirect
- - [https://jobs.exeter.ac.uk](https://jobs.exeter.ac.uk)
- - date_published: 2023-07-06T09:19:11+00:00
-
- ## Sign in to your account
- - [https://mytimetable.exeter.ac.uk](https://mytimetable.exeter.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## News
- - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
- - date_published: 2023-11-05T21:53:50.885706+00:00
 

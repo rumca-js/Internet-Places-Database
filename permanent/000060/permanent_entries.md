@@ -1,3 +1,11 @@
+ ## Blogger
+ - [http://landwithoutbread.blogspot.com](http://landwithoutbread.blogspot.com)
+ - date_published: 2024-06-19T16:57:09.870804+00:00
+
+ ## Language Evolution
+ - [https://langevo.blogspot.com](https://langevo.blogspot.com)
+ - date_published: 2024-05-07T21:47:05.988289+00:00
+
  ## langguj 5
  - [https://langguj.blogspot.com](https://langguj.blogspot.com)
  - date_published: 2024-02-08T11:08:18+00:00
@@ -4002,12 +4010,4 @@
  ## https://mormanity.blogspot.com
  - [https://mormanity.blogspot.com](https://mormanity.blogspot.com)
  - date_published: 1999-01-01T00:00:00+00:00
-
- ## Morts 1938 Scrapbook
- - [http://morts1938scrapbook.blogspot.com](http://morts1938scrapbook.blogspot.com)
- - date_published: 2024-06-16T17:39:20+00:00
-
- ## Blogger
- - [http://moseknows.blogspot.com](http://moseknows.blogspot.com)
- - date_published: 2024-07-20T21:17:09.582791+00:00
 

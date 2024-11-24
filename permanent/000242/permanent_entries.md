@@ -1,3 +1,55 @@
+ ## Startseite - berufundfamilie Service GmbH
+ - [https://berufundfamilie.de](https://berufundfamilie.de)
+ - date_published: 2024-04-29T06:55:57.732114+00:00
+
+ ## Zitate berühmter Personen: Die größte Sammlung von Zitaten, Gedanken und Aphorismen
+ - [https://beruhmte-zitate.de](https://beruhmte-zitate.de)
+ - date_published: 2024-07-04T06:31:51.586411+00:00
+
+ ## Besser als sein Ruf – Ein Podcast über Popkultur, die den Hass nicht verdient.
+ - [https://besseralsseinruf.de](https://besseralsseinruf.de)
+ - date_published: 2024-06-17T16:22:40.678893+00:00
+
+ ## Preisvergleich BestCheck
+ - [https://www.bestcheck.de](https://www.bestcheck.de)
+ - date_published: 2024-06-18T15:39:28.550593+00:00
+
+ ## BEST PLACE TO LEARN® - Gütesiegel für Ausbildungsbetriebe
+ - [https://www.bestplacetolearn.de](https://www.bestplacetolearn.de)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Betreuung, Haushaltshilfe, Tiersitter & mehr - Betreut.de
+ - [https://www.betreut.de](https://www.betreut.de)
+ - date_published: 2024-09-14T10:08:15.084546+00:00
+
+ ## Betrunken Gutes Tun 2024 - Sei dabei !
+ - [http://betrunkengutestun.de](http://betrunkengutestun.de)
+ - date_published: 2023-11-08T14:00:55+00:00
+
+ ## Deine digitale Vermögensverwaltung
+ - [https://bevestor.de](https://bevestor.de)
+ - date_published: 2024-09-23T08:14:34+00:00
+
+ ## Vorlagen und Muster für Ihre Bewerbung | b2go
+ - [https://www.bewerbung2go.de](https://www.bewerbung2go.de)
+ - date_published: 2024-07-24T04:40:10.008912+00:00
+
+ ## Home - Rassismus
+ - [https://bewusst-gegen-rassismus.de](https://bewusst-gegen-rassismus.de)
+ - date_published: 2024-10-19T15:07:31.378483+00:00
+
+ ## We create software tools and video-courses for web developers – Beyond Code
+ - [https://api.beyondco.de](https://api.beyondco.de)
+ - date_published: 2024-06-21T09:26:02.276298+00:00
+
+ ## We create software tools and video-courses for web developers – Beyond Code
+ - [https://beyondco.de](https://beyondco.de)
+ - date_published: 2024-06-19T09:30:30.137485+00:00
+
+ ## Startseite
+ - [https://www.bfarm.de](https://www.bfarm.de)
+ - date_published: 2024-07-14T16:07:48+00:00
+
  ## Home | BFL
  - [https://www.bfl-leasing.de](https://www.bfl-leasing.de)
  - date_published: 2024-09-27T09:30:06.032911+00:00
@@ -3963,56 +4015,4 @@ home
  ## damals.de
  - [http://www.damals.de](http://www.damals.de)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## DAMcraft.de
- - [https://damcraft.de](https://damcraft.de)
- - date_published: 2024-06-19T02:25:40.999418+00:00
-
- ## Dachverband der Migrant*innenorganisationen in Ostdeutschland DaMOst e.V.
- - [https://www.damost.de](https://www.damost.de)
- - date_published: 2024-09-12T16:08:20.364290+00:00
-
- ## Kunst, Code und Maschine - News
- - [http://www.danielbotz.de](http://www.danielbotz.de)
- - date_published: 2012-12-30T21:27:19+00:00
-
- ## Welcome - danielfett.de
- - [https://danielfett.de](https://danielfett.de)
- - date_published: 2018-10-19T00:00:00+00:00
-
- ## Zettelkasten. Nach dem Vorbild von Niklas Luhmann - Eine OpenSource-Literaturkartei für Windows, Macintosh (Mac OS X) und Linux.
- - [http://zettelkasten.danielluedecke.de](http://zettelkasten.danielluedecke.de)
- - date_published: 2024-06-21T19:58:30.238568+00:00
-
- ## Daniel Siepmann: Blog Posts
- - [https://daniel-siepmann.de](https://daniel-siepmann.de)
- - date_published: 2024-05-09T07:45:59.551942+00:00
-
- ## Daniel Siepmann - Friendica | Daniel Siepmann @ Daniel Siepmann - Friendica
- - [https://friendica.daniel-siepmann.de](https://friendica.daniel-siepmann.de)
- - date_published: 2024-07-10T06:09:26.148725+00:00
-
- ## Forgejo of Daniel Siepmann
- - [https://git.daniel-siepmann.de](https://git.daniel-siepmann.de)
- - date_published: 2024-07-10T06:08:20.262722+00:00
-
- ## Danpower — Energie für morgen | Danpower
- - [https://www.danpower-gruppe.de](https://www.danpower-gruppe.de)
- - date_published: 2024-07-10T01:56:12.427948+00:00
-
- ## Forgejo
- - [https://dansleco.de](https://dansleco.de)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## DANTE e.V. | Deutschsprachige Anwendervereinigung TeX e.V.
- - [https://www.dante.de](https://www.dante.de)
- - date_published: 2024-07-13T16:55:16.652311+00:00
-
- ## Dark Passion GFX
- - [http://www.dark-passion-gfx.de](http://www.dark-passion-gfx.de)
- - date_published: 2024-09-18T02:36:48.564851+00:00
-
- ## Fedor Indutny's Blog
- - [https://darksi.de](https://darksi.de)
- - date_published: 2023-12-16T13:36:25.831545+00:00
 

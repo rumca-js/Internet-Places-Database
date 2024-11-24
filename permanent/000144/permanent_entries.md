@@ -1,3 +1,27 @@
+ ## Welcome
+ - [https://mauvegas.com](https://mauvegas.com)
+ - date_published: 2024-07-16T23:15:32.536981+00:00
+
+ ## Maven Help Center
+ - [https://help.maven.com](https://help.maven.com)
+ - date_published: 2024-07-24T02:15:18.448190+00:00
+
+ ## Maven | Live, Online Courses
+ - [https://maven.com](https://maven.com)
+ - date_published: 2024-04-29T07:18:28.422882+00:00
+
+ ## Maven 11
+ - [https://www.maven11.com](https://www.maven11.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Maven Clinic - The next generation of care for women and families
+ - [https://mavenclinic.com](https://mavenclinic.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Maven Creative
+ - [https://mavencreative.com](https://mavencreative.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## The Maven Game
  - [https://mavengame.com](https://mavengame.com)
  - date_published: 2024-08-18T09:09:37.989200+00:00
@@ -4002,28 +4026,4 @@
  ## Beck Moulton – Medium
  - [https://beckmoulton.medium.com](https://beckmoulton.medium.com)
  - date_published: 2024-10-08T04:16:29.989511+00:00
-
- ## Behdad Esfahbod – Medium
- - [https://behdadesfahbod.medium.com](https://behdadesfahbod.medium.com)
- - date_published: 2023-10-25T10:18:46.008539+00:00
-
- ## Beiersdorf AG – Medium
- - [https://beiersdorf.medium.com](https://beiersdorf.medium.com)
- - date_published: 2024-10-30T05:32:45.720617+00:00
-
- ## Marianne Bellotti – Medium
- - [https://bellmar.medium.com](https://bellmar.medium.com)
- - date_published: 2023-10-25T10:18:48.828996+00:00
-
- ## Ben Kehoe – Medium
- - [https://ben11kehoe.medium.com](https://ben11kehoe.medium.com)
- - date_published: 2024-03-01T06:00:54.588354+00:00
-
- ## Ben Einstein – Medium
- - [https://beneinstein.medium.com](https://beneinstein.medium.com)
- - date_published: 2023-10-25T10:18:51.271180+00:00
-
- ## Benjamin Sledge – Medium
- - [https://benjaminsledge.medium.com](https://benjaminsledge.medium.com)
- - date_published: 2024-07-01T08:43:11.169688+00:00
 

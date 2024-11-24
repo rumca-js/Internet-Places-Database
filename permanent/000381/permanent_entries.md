@@ -1,3 +1,85 @@
+ ## OpenCampingMap
+ - [https://opencampingmap.org](https://opencampingmap.org)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## HBCU Student Journalism Network · Open Campus
+ - [https://hbcu.opencampusmedia.org](https://hbcu.opencampusmedia.org)
+ - date_published: 2023-10-26T15:55:32+00:00
+
+ ## Open Campus
+ - [https://opencampusmedia.org](https://opencampusmedia.org)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Open CASCADE Technology | Collaborative development portal
+ - [https://dev.opencascade.org](https://dev.opencascade.org)
+ - date_published: 2024-08-19T11:49:58.475071+00:00
+
+ ## Opencast
+ - [https://opencast.org](https://opencast.org)
+ - date_published: 2024-08-02T23:32:52.290948+00:00
+
+ ## Open Catalyst Project
+ - [https://discuss.opencatalystproject.org](https://discuss.opencatalystproject.org)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Open Catalyst Project
+ - [https://opencatalystproject.org](https://opencatalystproject.org)
+ - date_published: 2024-05-10T05:09:42.676198+00:00
+
+ ## OpenCelliD - Open Database of Cell Towers & Geolocation
+ - [https://opencellid.org](https://opencellid.org)
+ - date_published: 2024-10-21T12:48:04.538446+00:00
+
+ ## Welcome to the OpenChain Project - OpenChain
+ - [https://www.openchainproject.org](https://www.openchainproject.org)
+ - date_published: 2024-06-28T19:25:24.970507+00:00
+
+ ## OpenChess - Index page
+ - [http://open-chess.org](http://open-chess.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Xoilac TV | Trực tiếp bóng đá Xôi Lạc, xem trực tuyến hôm nay
+ - [https://opencitiesproject.org](https://opencitiesproject.org)
+ - date_published: 2024-09-10T13:56:58+00:00
+
+ ## Open Climate Fix
+ - [https://openclimatefix.org](https://openclimatefix.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Openclipart - Clipping Culture
+ - [https://openclipart.org](https://openclipart.org)
+ - date_published: 2024-04-30T04:16:48.542361+00:00
+ - tags: ['assets icons', 'clipart']
+
+ ## OpenClonk Blog
+ - [https://blog.openclonk.org](https://blog.openclonk.org)
+ - date_published: 2024-06-28T19:04:55.239598+00:00
+
+ ## Issues · openclonk/openclonk
+ - [https://bugs.openclonk.org](https://bugs.openclonk.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## OpenClonk Forum
+ - [https://forum.openclonk.org](https://forum.openclonk.org)
+ - date_published: 2018-03-17T00:00:00+00:00
+
+ ## OpenClonk League
+ - [https://league.openclonk.org](https://league.openclonk.org)
+ - date_published: 2024-06-28T19:04:53.283197+00:00
+
+ ## OpenClonk
+ - [https://www.openclonk.org](https://www.openclonk.org)
+ - date_published: 2024-05-09T08:54:52.199841+00:00
+ - tags: ['video game', 'open source']
+
+ ## OpenCodelists
+ - [https://www.opencodelists.org](https://www.opencodelists.org)
+ - date_published: 2024-07-08T12:38:45.793411+00:00
+
+ ## OpenCog Foundation
+ - [https://opencog.org](https://opencog.org)
+ - date_published: 2024-07-14T19:23:48.533222+00:00
+
  ## OpenColorIO
  - [https://opencolorio.org](https://opencolorio.org)
  - date_published: 2023-04-18T03:23:41+00:00
@@ -3987,84 +4069,4 @@ for emulation
  ## Journals Career Network (Powered by Yourmembership.com)
  - [https://globaljobs-careernetwork.oxfordjournals.org](https://globaljobs-careernetwork.oxfordjournals.org)
  - date_published: 2024-10-18T05:30:06.296434+00:00
-
- ## Human Rights Law Review | Oxford Academic
- - [http://hrlr.oxfordjournals.org](http://hrlr.oxfordjournals.org)
- - date_published: 2024-10-18T21:00:12.674362+00:00
-
- ## History Workshop Journal | Oxford Academic
- - [https://hwj.oxfordjournals.org](https://hwj.oxfordjournals.org)
- - date_published: 2024-05-02T12:38:22.772736+00:00
-
- ## International Journal of Transitional Justice | Oxford Academic
- - [http://ijtj.oxfordjournals.org](http://ijtj.oxfordjournals.org)
- - date_published: 2024-10-18T21:01:24.253103+00:00
-
- ## IMA Journal of Numerical Analysis | Oxford Academic
- - [http://imajna.oxfordjournals.org](http://imajna.oxfordjournals.org)
- - date_published: 2024-08-19T07:03:49.676670+00:00
-
- ## Interacting with Computers | Oxford Academic
- - [https://iwc.oxfordjournals.org](https://iwc.oxfordjournals.org)
- - date_published: 2024-05-09T09:11:24.038941+00:00
-
- ## Journal of the American Medical Informatics Association | Oxford Academic
- - [http://jamia.oxfordjournals.org](http://jamia.oxfordjournals.org)
- - date_published: 2024-07-02T13:31:25.228781+00:00
-
- ## The Journal of Infectious Diseases | Oxford Academic
- - [http://jid.oxfordjournals.org](http://jid.oxfordjournals.org)
- - date_published: 2024-10-19T05:08:09.536913+00:00
-
- ## Journal of Law and the Biosciences | Oxford Academic
- - [https://jlb.oxfordjournals.org](https://jlb.oxfordjournals.org)
- - date_published: 2024-09-04T20:20:38.966518+00:00
-
- ## Molecular Biology and Evolution | Oxford Academic
- - [http://mbe.oxfordjournals.org](http://mbe.oxfordjournals.org)
- - date_published: 2024-10-19T06:20:29.990201+00:00
-
- ## Nucleic Acids Research | Oxford Academic
- - [http://nar.oxfordjournals.org](http://nar.oxfordjournals.org)
- - date_published: 2024-10-19T06:20:21.585317+00:00
-
- ## Oxford Journal of Law and Religion | Oxford Academic
- - [http://ojlr.oxfordjournals.org](http://ojlr.oxfordjournals.org)
- - date_published: 2024-06-28T20:53:47.725019+00:00
-
- ## Parliamentary Affairs | Oxford Academic
- - [http://pa.oxfordjournals.org](http://pa.oxfordjournals.org)
- - date_published: 2024-08-07T14:21:11.883782+00:00
-
- ## The Quarterly Journal of Mathematics | Oxford Academic
- - [http://qjmath.oxfordjournals.org](http://qjmath.oxfordjournals.org)
- - date_published: 2024-06-30T09:13:04.307127+00:00
-
- ## Science and Mathematics
- - [http://science-and-mathematics-careernetwork.oxfordjournals.org](http://science-and-mathematics-careernetwork.oxfordjournals.org)
- - date_published: 2024-07-11T12:55:57.376547+00:00
-
- ## Journals | Oxford Academic
- - [https://www.oxfordjournals.org](https://www.oxfordjournals.org)
- - date_published: 2024-05-06T22:14:49.916659+00:00
-
- ## Oxford Literary Festival March 16 - 24 2024 | Oxford Literary Festival
- - [https://oxfordliteraryfestival.org](https://oxfordliteraryfestival.org)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Courses - Oxford Mindfulness -
- - [https://courses.oxfordmindfulness.org](https://courses.oxfordmindfulness.org)
- - date_published: 2024-09-12T19:34:34.856375+00:00
-
- ## Oxford Mindfulness Foundation - Online Training Courses
- - [https://oxfordmindfulness.org](https://oxfordmindfulness.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Home - University of Oxford North American Office
- - [http://www.oxfordna.org](http://www.oxfordna.org)
- - date_published: 2024-06-17T18:47:28.666664+00:00
-
- ## University of Oxford China Office
- - [http://www.oxforduchina.org](http://www.oxforduchina.org)
- - date_published: 2024-06-17T18:47:30.654390+00:00
 

@@ -1,3 +1,63 @@
+ ## Home Page - The Academic Resource Center
+ - [https://academicsupport.georgetown.edu](https://academicsupport.georgetown.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home Page - Accessibility at Georgetown
+ - [https://accessibility.georgetown.edu](https://accessibility.georgetown.edu)
+ - date_published: 2024-05-11T07:22:42.660229+00:00
+
+ ## Alumni Home - Georgetown Alumni
+ - [https://alumni.georgetown.edu](https://alumni.georgetown.edu)
+ - date_published: 2024-06-18T13:34:30.568731+00:00
+
+ ## Americas Institute Homepage
+ - [https://americas.georgetown.edu](https://americas.georgetown.edu)
+ - date_published: 2024-10-22T05:42:27.342760+00:00
+
+ ## | Georgetown Google Apps | Georgetown University
+ - [http://apps.georgetown.edu](http://apps.georgetown.edu)
+ - date_published: 2022-04-11T10:05:09+00:00
+
+ ## - Office of Faculty & Staff Benefits
+ - [https://benefits.georgetown.edu](https://benefits.georgetown.edu)
+ - date_published: 2024-10-22T05:40:16.595107+00:00
+
+ ## Berkley Center for Religion, Peace and World Affairs
+ - [http://berkleycenter.georgetown.edu](http://berkleycenter.georgetown.edu)
+ - date_published: 2024-06-28T20:54:09.453790+00:00
+
+ ## Home Page - Bias Reporting
+ - [https://biasreporting.georgetown.edu](https://biasreporting.georgetown.edu)
+ - date_published: 2023-06-16T00:00:00+00:00
+
+ ## Bioethics Research Library | Georgetown University Library
+ - [https://bioethics.georgetown.edu](https://bioethics.georgetown.edu)
+ - date_published: 2024-07-16T23:02:11+00:00
+
+ ## Home Page - Biomedical Graduate Education
+ - [https://biomedicalprograms.georgetown.edu](https://biomedicalprograms.georgetown.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Home Page - Biomedical and Health Sciences
+ - [https://biomedicalresearch.georgetown.edu](https://biomedicalresearch.georgetown.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home Page - Department of Biostatistics, Bioinformatics & Biomathematics
+ - [https://biostatistics.georgetown.edu](https://biostatistics.georgetown.edu)
+ - date_published: 2024-07-13T12:24:28.876625+00:00
+
+ ## CNDLS Course Sites
+ - [https://blogs.commons.georgetown.edu](https://blogs.commons.georgetown.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Georgetown Box - Georgetown Box
+ - [https://box.georgetown.edu](https://box.georgetown.edu)
+ - date_published: 2024-09-18T23:27:36.044114+00:00
+
+ ## Home Page - 2024-2025 Undergraduate Bulletin
+ - [http://bulletin.georgetown.edu](http://bulletin.georgetown.edu)
+ - date_published: 2024-10-22T05:40:36.778529+00:00
+
  ## Called to Be: The Campaign for Georgetown
  - [https://calledtobe.georgetown.edu](https://calledtobe.georgetown.edu)
  - date_published: 2024-10-22T05:40:45.069358+00:00
@@ -3949,64 +4009,4 @@ Action
  ## Center for International Education
  - [https://international.hccfl.edu](https://international.hccfl.edu)
  - date_published: 2024-02-08T22:24:58.075754+00:00
-
- ## MyHCC
- - [https://my.hccfl.edu](https://my.hccfl.edu)
- - date_published: 2024-04-16T02:08:01+00:00
-
- ## Attention Required! | Cloudflare
- - [https://news.hccfl.edu](https://news.hccfl.edu)
- - date_published: 2024-07-20T22:29:11.439325+00:00
-
- ## Hebrew College - A Private, Not-for-Profit College of Jewish Studies in MA
- - [https://hebrewcollege.edu](https://hebrewcollege.edu)
- - date_published: 2024-07-14T14:33:51.616869+00:00
-
- ## HEC Paris
- - [http://www.hec.edu](http://www.hec.edu)
- - date_published: 2024-06-17T10:11:44+00:00
-
- ## Admission | Hendrix College
- - [https://apply.hendrix.edu](https://apply.hendrix.edu)
- - date_published: 2024-06-30T02:01:26.400578+00:00
-
- ## Hendrix College
- - [https://hendrix.edu](https://hendrix.edu)
- - date_published: 2024-05-07T14:49:45.124041+00:00
-
- ## Testing!
- - [http://ozark.hendrix.edu](http://ozark.hendrix.edu)
- - date_published: 2019-04-04T14:46:31+00:00
-
- ## Home | Hendrix College Spirit Store
- - [https://spirit.hendrix.edu](https://spirit.hendrix.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - High Point Dining
- - [https://dining.highpoint.edu](https://dining.highpoint.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Undergraduate Admissions - Undergraduate Admissions
- - [https://discover.highpoint.edu](https://discover.highpoint.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - High Point University
- - [https://engage.highpoint.edu](https://engage.highpoint.edu)
- - date_published: 2024-06-30T10:53:18.417404+00:00
-
- ## Attention Required! | Cloudflare
- - [https://highpoint.edu](https://highpoint.edu)
- - date_published: 2024-05-07T16:13:51.345944+00:00
-
- ## - HPU Connect
- - [https://involved.highpoint.edu](https://involved.highpoint.edu)
- - date_published: 2024-06-30T10:53:16.384733+00:00
-
- ## Home
- - [https://academy.hillsdale.edu](https://academy.hillsdale.edu)
- - date_published: 2024-08-06T20:01:50.633012+00:00
-
- ## Admissions
- - [https://apply2.hillsdale.edu](https://apply2.hillsdale.edu)
- - date_published: 2024-02-27T00:00:00+00:00
 

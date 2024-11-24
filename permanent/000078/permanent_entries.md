@@ -1,3 +1,15 @@
+ ## Compulsive Confessions
+ - [https://www.compulsiveconfessions.com](https://www.compulsiveconfessions.com)
+ - date_published: 2024-08-05T17:07:00+00:00
+
+ ## Compulsive Reader – Reviews of books by some of the hottest writers working today, exclusive author interviews, literary news and criticism.
+ - [https://compulsivereader.com](https://compulsivereader.com)
+ - date_published: 2024-09-14T23:15:05.480058+00:00
+
+ ## THE COMPULSIVE SEAMSTRESS
+ - [http://compulsiveseamstress.com](http://compulsiveseamstress.com)
+ - date_published: 2024-07-10T03:48:39.956620+00:00
+
  ## CompuMark Trademark, Uspto & Copyright Research Services
  - [https://www.compumark.com](https://www.compumark.com)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -4010,16 +4022,4 @@ Real Estate Supercenter
  ## Cierpliwości...
  - [https://www.coraltreecafe.com](https://www.coraltreecafe.com)
  - date_published: 2024-06-20T16:58:31.730119+00:00
-
- ## Coranac | my own little world
- - [http://www.coranac.com](http://www.coranac.com)
- - date_published: 2024-06-23T20:20:26.908965+00:00
-
- ## Corante – The Latest News & Trends
- - [http://betweenlawyers.corante.com](http://betweenlawyers.corante.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [http://brainwaves.corante.com](http://brainwaves.corante.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

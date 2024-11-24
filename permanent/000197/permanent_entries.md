@@ -1,3 +1,35 @@
+ ## Exposing The Darkness | Lioness of Judah Ministry | Substack
+ - [https://lionessofjudah.substack.com](https://lionessofjudah.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## I Have No Idea What I'm Doing | Lior Neu-ner | Substack
+ - [https://liorn.substack.com](https://liorn.substack.com)
+ - date_published: 2024-01-09T01:41:52.451998+00:00
+
+ ## Alive Awake Empowered | Lisa Hedley | Substack
+ - [https://lisahedley.substack.com](https://lisahedley.substack.com)
+ - date_published: 2024-10-16T01:25:09.009805+00:00
+
+ ## Notes From the Margin | Lisa Unger | Substack
+ - [https://lisaunger.substack.com](https://lisaunger.substack.com)
+ - date_published: 2024-10-19T10:12:03.651362+00:00
+
+ ## Engineer, Evolve, Excel | Lisi Linhart | Substack
+ - [https://lisilinhart.substack.com](https://lisilinhart.substack.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Li's Newsletter | Li Jin | Substack
+ - [https://li.substack.com](https://li.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Literary Activism | Book Riot | Substack
+ - [https://literaryactivism.substack.com](https://literaryactivism.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Tech, investment and a little bit of everything.  | John | Substack
+ - [https://littlebitofeverything.substack.com](https://littlebitofeverything.substack.com)
+ - date_published: 2024-01-09T01:41:54.188835+00:00
+
  ## Paola Writes | Paola Bonomo | Substack
  - [https://livepaola.substack.com](https://livepaola.substack.com)
  - date_published: 2024-01-09T01:41:56.123787+00:00
@@ -405,6 +437,10 @@
  ## Mastering JS | Substack
  - [https://masteringjs.substack.com](https://masteringjs.substack.com)
  - date_published: 2024-06-23T11:17:08.888264+00:00
+
+ ## Master Mentee | Keyul Patel | Substack
+ - [https://mastermentee.substack.com](https://mastermentee.substack.com)
+ - date_published: 2024-11-23T17:07:44.959588+00:00
 
  ## Matt Pearce | Substack
  - [https://mattdpearce.substack.com](https://mattdpearce.substack.com)
@@ -4041,40 +4077,4 @@
  ## The Literary Compass | Georgia Clare | Substack
  - [https://theliterarycompass.substack.com](https://theliterarycompass.substack.com)
  - date_published: 2024-10-19T11:53:29.581055+00:00
-
- ## Living Fossils | The Living Fossils | Substack
- - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
- - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
- - date_published: 2024-01-09T01:45:22.656513+00:00
-
- ## The Magnet | Mark Frauenfelder | Substack
- - [https://themagnet.substack.com](https://themagnet.substack.com)
- - date_published: 2024-04-03T06:41:26.030404+00:00
-
- ## The Malarkey Musket | David Haggith | Substack
- - [https://themalarkeymusket.substack.com](https://themalarkeymusket.substack.com)
- - date_published: 2024-07-04T01:28:36.587732+00:00
-
- ## Media Report | Janice | Substack
- - [https://themediareport.substack.com](https://themediareport.substack.com)
- - date_published: 2024-08-19T14:44:05.237205+00:00
-
- ## Explorer's Guild Travel Log | The Middle Earth Companion | Substack
- - [https://themiddleearthcompanion.substack.com](https://themiddleearthcompanion.substack.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Misfits | Substack
- - [https://themisfits.substack.com](https://themisfits.substack.com)
- - date_published: 2024-08-18T02:58:34.793138+00:00
-
- ## The Most Endangered Species | Jeffrey Falk | Substack
- - [https://themostendangeredspecies.substack.com](https://themostendangeredspecies.substack.com)
- - date_published: 2024-10-31T22:49:53.148179+00:00
-
- ## The New Lede | The New Lede Staff | Substack
- - [https://thenewlede.substack.com](https://thenewlede.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
 

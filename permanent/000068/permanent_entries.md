@@ -1,3 +1,15 @@
+ ## brianmay.com - Home
+ - [http://www.brianmay.com](http://www.brianmay.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Brian McClellan
+ - [http://www.brianmcclellan.com](http://www.brianmcclellan.com)
+ - date_published: 2024-10-25T19:30:39.598751+00:00
+
+ ## Brian Micklethwait's New Blog
+ - [https://www.brianmicklethwaitsnewblog.com](https://www.brianmicklethwaitsnewblog.com)
+ - date_published: 2024-07-03T22:25:14.848759+00:00
+
  ## Brian Moore — artist / creative director
  - [https://brianmoore.com](https://brianmoore.com)
  - date_published: 2023-10-25T13:13:04.355704+00:00
@@ -4031,16 +4043,4 @@
  ## Keeps Home – Solid oak furniture for modern dwellers.
  - [https://builtforkeeps.com](https://builtforkeeps.com)
  - date_published: 2024-07-09T19:32:37.477330+00:00
-
- ## Built For Mars
- - [https://builtformars.com](https://builtformars.com)
- - date_published: 2024-06-22T23:36:51.207021+00:00
-
- ## Built In Single Sign On
- - [https://accounts.builtin.com](https://accounts.builtin.com)
- - date_published: 2024-06-16T19:22:56.359689+00:00
-
- ## National Tech & Startups | Built In
- - [https://builtin.com](https://builtin.com)
- - date_published: 2024-05-01T07:30:02.387429+00:00
 

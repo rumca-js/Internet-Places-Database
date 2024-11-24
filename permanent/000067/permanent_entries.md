@@ -1,3 +1,15 @@
+ ## Home
+ - [https://www.boschaftermarket.com](https://www.boschaftermarket.com)
+ - date_published: 2024-07-24T04:19:46.563017+00:00
+
+ ## Home
+ - [https://bosch-ai.com](https://bosch-ai.com)
+ - date_published: 2023-12-14T00:00:00+00:00
+
+ ## Startseite
+ - [https://blog.bosch-digital.com](https://blog.bosch-digital.com)
+ - date_published: 2023-02-08T00:00:00+00:00
+
  ## Location selection | Bosch DIY
  - [https://www.bosch-diy.com](https://www.bosch-diy.com)
  - date_published: 2024-10-14T13:06:05+00:00
@@ -4024,16 +4036,4 @@
  ## Brian Maier Jr. | UI/UX Designer & Front-end Developer
  - [https://brianmaierjr.com](https://brianmaierjr.com)
  - date_published: 2024-09-14T23:26:12.746223+00:00
-
- ## brianmay.com - Home
- - [http://www.brianmay.com](http://www.brianmay.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Brian McClellan
- - [http://www.brianmcclellan.com](http://www.brianmcclellan.com)
- - date_published: 2024-10-25T19:30:39.598751+00:00
-
- ## Brian Micklethwait's New Blog
- - [https://www.brianmicklethwaitsnewblog.com](https://www.brianmicklethwaitsnewblog.com)
- - date_published: 2024-07-03T22:25:14.848759+00:00
 

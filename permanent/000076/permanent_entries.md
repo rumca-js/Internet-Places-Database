@@ -1,3 +1,15 @@
+ ## Welcome to Cisco Cloudlock
+ - [https://login.cloudlock.com](https://login.cloudlock.com)
+ - date_published: 2024-06-16T17:08:57.886308+00:00
+
+ ## CloudMade
+ - [http://www.cloudmade.com](http://www.cloudmade.com)
+ - date_published: 2024-06-20T14:40:21.950404+00:00
+
+ ## Cloud Microphones | Manufacturer of Microphones and Cloudlifters
+ - [https://www.cloudmicrophones.com](https://www.cloudmicrophones.com)
+ - date_published: 2024-06-23T06:01:15.435785+00:00
+
  ## cloud-monk.com
  - [https://cloud-monk.com](https://cloud-monk.com)
  - date_published: 2016-03-23T15:48:41+00:00
@@ -4026,16 +4038,4 @@
  ## Cogram
  - [https://app.cogram.com](https://app.cogram.com)
  - date_published: 2024-10-29T11:54:01+00:00
-
- ## Cogram - AI for project and client work, online and in the field.
- - [https://cogram.com](https://cogram.com)
- - date_published: 2024-10-29T17:28:09+00:00
-
- ## Coheed and Cambria | Official Website
- - [https://www.coheedandcambria.com](https://www.coheedandcambria.com)
- - date_published: 2024-08-10T15:30:10+00:00
-
- ## Home
- - [https://cohere.com](https://cohere.com)
- - date_published: 2024-02-13T17:40:53.507525+00:00
 

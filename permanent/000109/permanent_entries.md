@@ -1,3 +1,23 @@
+ ## Genuitec :: Driving Development for Leading Organizations - Genuitec
+ - [https://www.genuitec.com](https://www.genuitec.com)
+ - date_published: 2018-09-24T18:24:05+00:00
+
+ ## Bayer Traits | Crop Science US
+ - [http://www.genuity.com](http://www.genuity.com)
+ - date_published: 2024-07-11T15:10:44.952282+00:00
+
+ ## Genworks International Knowledge-based Engineering Development Tools
+ - [http://genworks.com](http://genworks.com)
+ - date_published: 2024-07-07T05:56:21.445730+00:00
+
+ ## Investors
+ - [https://investor.genworth.com](https://investor.genworth.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Genworth Login | Genworth
+ - [https://service.genworth.com](https://service.genworth.com)
+ - date_published: 2024-10-29T15:34:01.340167+00:00
+
  ## Genworth: Financial Solutions for Long Term Care
  - [https://www.genworth.com](https://www.genworth.com)
  - date_published: 2024-05-04T06:40:44.819045+00:00
@@ -4020,24 +4040,4 @@ Homepage
  ## GIANTS Software
  - [https://giants-software.com](https://giants-software.com)
  - date_published: 2024-05-24T18:54:37.974366+00:00
-
- ## GIANTS Partner Program
- - [https://partner.giants-software.com](https://partner.giants-software.com)
- - date_published: 2024-07-12T19:09:03.761345+00:00
-
- ## GIANTS Software Press Center
- - [https://press.giants-software.com](https://press.giants-software.com)
- - date_published: 2024-07-12T19:09:06.977429+00:00
-
- ## Giant Bicycles Türkiye |  Bisiklet ve Bisiklet Ekipmanları
- - [https://www.giant-turkey.com](https://www.giant-turkey.com)
- - date_published: 2024-09-18T02:02:31.787564+00:00
-
- ## GIÃO & GIÃO
- - [http://giao-giao.com](http://giao-giao.com)
- - date_published: 2024-07-07T05:54:27.375023+00:00
-
- ## Giardini di Toscana |  Shop Online | Profumi
- - [https://www.giardiniditoscana.com](https://www.giardiniditoscana.com)
- - date_published: 2024-09-06T13:13:18.880060+00:00
 

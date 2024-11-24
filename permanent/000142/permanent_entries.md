@@ -1,3 +1,28 @@
+ ## 3D printers, CAD designers, CNC, and 3D scanners in your neighborhood
+ - [http://www.makexyz.com](http://www.makexyz.com)
+ - date_published: 2024-06-29T03:45:39.627696+00:00
+
+ ## Makey Makey
+ - [https://makeymakey.com](https://makeymakey.com)
+ - date_published: 2024-07-19T15:08:24.470152+00:00
+
+ ## FamilyIQ
+ - [http://www.makeyourcoatofarms.com](http://www.makeyourcoatofarms.com)
+ - date_published: 2024-07-04T15:00:47.728242+00:00
+
+ ## Home
+ - [http://blog.makezine.com](http://blog.makezine.com)
+ - date_published: 2024-06-30T05:43:44.329684+00:00
+
+ ## Home
+ - [https://makezine.com](https://makezine.com)
+ - date_published: 2023-11-27T16:27:53+00:00
+ - tags: ['single-board', '3d printing', 'creators', 'tech']
+
+ ## Make
+ - [https://subscribe.makezine.com](https://subscribe.makezine.com)
+ - date_published: 2024-05-04T14:11:05.944312+00:00
+
  ## Make Zoom Safe
  - [https://www.makezoomsafe.com](https://www.makezoomsafe.com)
  - date_published: 2024-07-15T11:27:42.543413+00:00
@@ -4015,28 +4040,4 @@
  ## Stock Market Today : Share prices and News - MarketScreener
  - [https://uk.marketscreener.com](https://uk.marketscreener.com)
  - date_published: 2024-01-07T00:00:00+00:00
-
- ## Stock market : Quotes & Financial news - MarketScreener
- - [https://www.marketscreener.com](https://www.marketscreener.com)
- - date_published: 2024-01-09T02:42:57.012734+00:00
-
- ## MarketSpice Teas Spices & Accessories
- - [https://marketspice.com](https://marketspice.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Marketstack API - Real-Time & Historical Stock Data API
- - [https://marketstack.com](https://marketstack.com)
- - date_published: 2024-06-29T11:21:29.270209+00:00
-
- ## MarketsWiki
- - [http://www.marketswiki.com](http://www.marketswiki.com)
- - date_published: 2024-06-19T22:05:47.004567+00:00
-
- ## Market Urbanism
- - [https://marketurbanism.com](https://marketurbanism.com)
- - date_published: 2024-05-06T22:49:33.430929+00:00
-
- ## The Market Urbanist
- - [https://www.marketurbanist.com](https://www.marketurbanist.com)
- - date_published: 2024-10-24T23:05:19+00:00
 

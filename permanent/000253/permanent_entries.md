@@ -1,3 +1,58 @@
+ ## orionc.dev
+ - [https://orionc.dev](https://orionc.dev)
+ - date_published: 2023-11-29T17:14:05.577990+00:00
+ - tags: ['personal']
+
+ ## Gram Publishing v2
+ - [https://blog.orsinium.dev](https://blog.orsinium.dev)
+ - date_published: 2023-10-25T18:40:28.464597+00:00
+
+ ## Hi, I'm Gram
+ - [https://orsinium.dev](https://orsinium.dev)
+ - date_published: 2024-04-30T02:05:20.761869+00:00
+
+ ## Ory - API-first Identity Management, Authentication and Authorization. For Secure, Global, GDPR-compliant Apps | Ory
+ - [https://www.ory.dev](https://www.ory.dev)
+ - date_published: 2023-10-25T18:40:33.383690+00:00
+
+ ## oscard0m Blog
+ - [https://oscardom.dev](https://oscardom.dev)
+ - date_published: 2024-01-05T10:28:24.995014+00:00
+ - tags: ['personal']
+
+ ## Oscar Marion - Javascript engineer in Stockholm
+ - [https://oscarmarion.dev](https://oscarmarion.dev)
+ - date_published: 2024-05-11T10:22:13.792071+00:00
+ - tags: ['personal']
+
+ ## Join Open Source Firmware on Slack!
+ - [https://slack.osfw.dev](https://slack.osfw.dev)
+ - date_published: 2018-09-19T00:00:00+00:00
+
+ ## Home
+ - [https://osgood.dev](https://osgood.dev)
+ - date_published: 2024-05-11T10:06:23.170372+00:00
+
+ ## OSINSKI.DEV
+ - [https://osinski.dev](https://osinski.dev)
+ - date_published: 2020-05-18T00:00:00+00:00
+
+ ## ossjobs.dev - Find jobs in open source startups
+ - [https://www.ossjobs.dev](https://www.ossjobs.dev)
+ - date_published: 2024-07-18T13:06:07.662060+00:00
+
+ ## Osty | Framework for building Nostr web applications
+ - [https://osty.dev](https://osty.dev)
+ - date_published: 2024-08-17T10:45:23+00:00
+
+ ## OSV - Open Source Vulnerabilities
+ - [https://osv.dev](https://osv.dev)
+ - date_published: 2024-07-04T12:00:45.077877+00:00
+
+ ## OTP verification API | GetOTP
+ - [https://otp.dev](https://otp.dev)
+ - date_published: 2024-10-30T19:00:41.355357+00:00
+
  ## Outer Group
  - [https://outergroup.dev](https://outergroup.dev)
  - date_published: 2024-01-07T19:49:32+00:00
@@ -323,6 +378,10 @@
  ## Treemap of World GDP by Purchasing Power Parity (PPP) 2020
  - [https://treemap-world-economy.pages.dev](https://treemap-world-economy.pages.dev)
  - date_published: 2024-03-28T06:59:55+00:00
+
+ ## TrickPal - The Most Fun Way to Surprise Your Friends
+ - [https://trick-pal2.pages.dev](https://trick-pal2.pages.dev)
+ - date_published: 2024-11-23T04:06:57.957817+00:00
 
  ## https://tropical.pages.dev
  - [https://tropical.pages.dev](https://tropical.pages.dev)
@@ -2204,6 +2263,10 @@
  - [https://shumate.dev](https://shumate.dev)
  - date_published: 2024-01-09T00:00:00+00:00
 
+ ## Shuttle - Build Backends Fast
+ - [https://www.shuttle.dev](https://www.shuttle.dev)
+ - date_published: 2024-11-23T14:57:40.299296+00:00
+
  ## Ye Shu (@yechs) | Ye Shu
  - [https://shuye.dev](https://shuye.dev)
  - date_published: 2024-09-26T00:14:48+00:00
@@ -4016,65 +4079,4 @@
  ## Join the Vite Land Discord Server!
  - [https://chat.vitejs.dev](https://chat.vitejs.dev)
  - date_published: 2024-08-16T20:07:53+00:00
-
- ## Vite
- - [https://cn.vitejs.dev](https://cn.vitejs.dev)
- - date_published: 2024-08-19T03:52:24.401203+00:00
-
- ## Vite
- - [https://de.vitejs.dev](https://de.vitejs.dev)
- - date_published: 2024-08-19T03:52:25.548669+00:00
-
- ## Vite
- - [https://es.vitejs.dev](https://es.vitejs.dev)
- - date_published: 2024-08-19T03:52:29.090270+00:00
-
- ## Vite
- - [https://ja.vitejs.dev](https://ja.vitejs.dev)
- - date_published: 2024-08-19T03:52:23.648333+00:00
-
- ## Vite
- - [https://ko.vitejs.dev](https://ko.vitejs.dev)
- - date_published: 2024-08-19T03:52:22.522068+00:00
-
- ## Vite
- - [https://pt.vitejs.dev](https://pt.vitejs.dev)
- - date_published: 2024-08-19T03:52:26.636386+00:00
-
- ## Vite
- - [https://v2.vitejs.dev](https://v2.vitejs.dev)
- - date_published: 2024-08-19T03:52:27.368546+00:00
-
- ## Vite
- - [https://v3.vitejs.dev](https://v3.vitejs.dev)
- - date_published: 2024-08-19T03:52:31.324964+00:00
-
- ## Vite
- - [https://v4.vitejs.dev](https://v4.vitejs.dev)
- - date_published: 2024-08-19T03:52:28.413436+00:00
-
- ## Vite | Next Generation Frontend Tooling
- - [https://vitejs.dev](https://vitejs.dev)
- - date_published: 2023-10-25T18:43:39.671574+00:00
- - tags: ['typescript', 'web server']
-
- ## VitePress | Vite & Vue Powered Static Site Generator
- - [https://vitepress.dev](https://vitepress.dev)
- - date_published: 2024-05-11T09:09:56.419559+00:00
-
- ## Join the Vitest Dev Discord Server!
- - [https://chat.vitest.dev](https://chat.vitest.dev)
- - date_published: 2024-07-23T22:31:05.817222+00:00
-
- ## Vitest
- - [https://cn.vitest.dev](https://cn.vitest.dev)
- - date_published: 2024-07-23T22:31:06.976746+00:00
-
- ## Vitest
- - [https://main.vitest.dev](https://main.vitest.dev)
- - date_published: 2024-07-23T22:31:08.264634+00:00
-
- ## Vitest
- - [https://v0.vitest.dev](https://v0.vitest.dev)
- - date_published: 2024-07-23T22:31:03.324268+00:00
 

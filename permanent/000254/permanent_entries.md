@@ -1,3 +1,64 @@
+ ## Vite
+ - [https://cn.vitejs.dev](https://cn.vitejs.dev)
+ - date_published: 2024-08-19T03:52:24.401203+00:00
+
+ ## Vite
+ - [https://de.vitejs.dev](https://de.vitejs.dev)
+ - date_published: 2024-08-19T03:52:25.548669+00:00
+
+ ## Vite
+ - [https://es.vitejs.dev](https://es.vitejs.dev)
+ - date_published: 2024-08-19T03:52:29.090270+00:00
+
+ ## Vite
+ - [https://ja.vitejs.dev](https://ja.vitejs.dev)
+ - date_published: 2024-08-19T03:52:23.648333+00:00
+
+ ## Vite
+ - [https://ko.vitejs.dev](https://ko.vitejs.dev)
+ - date_published: 2024-08-19T03:52:22.522068+00:00
+
+ ## Vite
+ - [https://pt.vitejs.dev](https://pt.vitejs.dev)
+ - date_published: 2024-08-19T03:52:26.636386+00:00
+
+ ## Vite
+ - [https://v2.vitejs.dev](https://v2.vitejs.dev)
+ - date_published: 2024-08-19T03:52:27.368546+00:00
+
+ ## Vite
+ - [https://v3.vitejs.dev](https://v3.vitejs.dev)
+ - date_published: 2024-08-19T03:52:31.324964+00:00
+
+ ## Vite
+ - [https://v4.vitejs.dev](https://v4.vitejs.dev)
+ - date_published: 2024-08-19T03:52:28.413436+00:00
+
+ ## Vite | Next Generation Frontend Tooling
+ - [https://vitejs.dev](https://vitejs.dev)
+ - date_published: 2023-10-25T18:43:39.671574+00:00
+ - tags: ['typescript', 'web server']
+
+ ## VitePress | Vite & Vue Powered Static Site Generator
+ - [https://vitepress.dev](https://vitepress.dev)
+ - date_published: 2024-05-11T09:09:56.419559+00:00
+
+ ## Join the Vitest Dev Discord Server!
+ - [https://chat.vitest.dev](https://chat.vitest.dev)
+ - date_published: 2024-07-23T22:31:05.817222+00:00
+
+ ## Vitest
+ - [https://cn.vitest.dev](https://cn.vitest.dev)
+ - date_published: 2024-07-23T22:31:06.976746+00:00
+
+ ## Vitest
+ - [https://main.vitest.dev](https://main.vitest.dev)
+ - date_published: 2024-07-23T22:31:08.264634+00:00
+
+ ## Vitest
+ - [https://v0.vitest.dev](https://v0.vitest.dev)
+ - date_published: 2024-07-23T22:31:03.324268+00:00
+
  ## Vitest
  - [https://v1.vitest.dev](https://v1.vitest.dev)
  - date_published: 2024-07-23T22:31:04.565635+00:00
@@ -3957,64 +4018,4 @@
  ## KU-IT - IT-afdelingen – Københavns Universitet
  - [https://it.ku.dk](https://it.ku.dk)
  - date_published: 2024-07-19T00:53:08+00:00
-
- ## Institut for Veterinær- og Husdyrvidenskab – Københavns Universitet
- - [http://ivh.ku.dk](http://ivh.ku.dk)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
- - [https://jobportal.ku.dk](https://jobportal.ku.dk)
- - date_published: 2024-04-30T02:42:25.907218+00:00
-
- ## Jura - Det Juridiske Fakultet – Københavns Universitet
- - [https://jura.ku.dk](https://jura.ku.dk)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Offentlige arrangementer – Københavns Universitet
- - [https://kalender.ku.dk](https://kalender.ku.dk)
- - date_published: 2024-04-30T02:42:31.744210+00:00
-
- ## Københavns Universitet – Københavns Universitet
- - [https://kommunikation.ku.dk](https://kommunikation.ku.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Københavns Universitetsbibliotek  – Københavns Universitet
- - [https://kub.ku.dk](https://kub.ku.dk)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Københavns Universitet – Københavns Universitet
- - [https://ku.dk](https://ku.dk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## University of Copenhagen - Courses
- - [https://kurser.ku.dk](https://kurser.ku.dk)
- - date_published: 2024-04-30T02:42:32.840519+00:00
-
- ## KU Lighthouse – Københavns Universitet
- - [https://lighthouse.ku.dk](https://lighthouse.ku.dk)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Københavns Universitet – Københavns Universitet
- - [https://mangfoldighed.ku.dk](https://mangfoldighed.ku.dk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Institut for Matematiske  Fag – Københavns Universitet
- - [https://math.ku.dk](https://math.ku.dk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Center of Excellence on Global Mobility Law – University of Copenhagen
- - [https://mobilitylaw.ku.dk](https://mobilitylaw.ku.dk)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Niels Bohr Institutet – Niels Bohr Institutet - Københavns Universitet
- - [https://nbi.ku.dk](https://nbi.ku.dk)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## News – University of Copenhagen
- - [https://news.ku.dk](https://news.ku.dk)
- - date_published: 2023-10-25T11:22:10.749501+00:00
-
- ## Institut for Idræt og Ernæring – Københavns Universitet
- - [https://nexs.ku.dk](https://nexs.ku.dk)
- - date_published: 2024-07-15T00:00:00+00:00
 

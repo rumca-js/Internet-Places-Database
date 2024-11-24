@@ -1,3 +1,55 @@
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://mailman46.in.tum.de](https://mailman46.in.tum.de)
+ - date_published: 2019-03-06T10:33:41+00:00
+
+ ## Element
+ - [https://matrix.tum.de](https://matrix.tum.de)
+ - date_published: 2024-07-30T12:54:31+00:00
+
+ ## mediaTUM - Media and Publication Server
+ - [https://mediatum.ub.tum.de](https://mediatum.ub.tum.de)
+ - date_published: 2024-06-22T19:11:45.157411+00:00
+
+ ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
+ - [https://med.tum.de](https://med.tum.de)
+ - date_published: 2024-04-29T06:57:06.066785+00:00
+
+ ## Uniting Management and Technology | TUM School of Management
+ - [https://mgt.tum.de](https://mgt.tum.de)
+ - date_published: 2024-04-29T06:56:57.887730+00:00
+
+ ## Standorte - NavigaTUM
+ - [https://nav.tum.de](https://nav.tum.de)
+ - date_published: 2024-04-29T06:57:11.219692+00:00
+
+ ## TUM OPAC
+ - [https://opac.ub.tum.de](https://opac.ub.tum.de)
+ - date_published: 2024-07-24T04:20:55.749187+00:00
+
+ ## Home | Online Shop | Technische Universität München
+ - [https://shop.tum.de](https://shop.tum.de)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## ACM SIGMOD 2018 Programming Contest
+ - [http://sigmod18contest.db.in.tum.de](http://sigmod18contest.db.in.tum.de)
+ - date_published: 2024-09-02T16:21:04.274704+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [https://tum.de](https://tum.de)
+ - date_published: 2024-04-29T06:56:29.965799+00:00
+
+ ## Universitätsbibliothek der TUM |
+ - [https://ub.tum.de](https://ub.tum.de)
+ - date_published: 2024-04-29T06:56:50.124217+00:00
+
+ ## The Umbra Database System
+ - [https://umbra.db.in.tum.de](https://umbra.db.in.tum.de)
+ - date_published: 2024-08-19T06:56:01+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://web.dse.in.tum.de](https://web.dse.in.tum.de)
+ - date_published: 2024-06-22T09:36:53.585696+00:00
+
  ## Startseite
  - [https://web.tum.de](https://web.tum.de)
  - date_published: 2024-07-24T04:20:52.882846+00:00
@@ -3950,56 +4002,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Startseite | Verbraucherzentrale Brandenburg
  - [https://www.verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de)
  - date_published: 2024-07-24T03:31:08.754541+00:00
-
- ## Startseite | Verbraucherzentrale Bremen
- - [http://www.verbraucherzentrale-bremen.de](http://www.verbraucherzentrale-bremen.de)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Ihre Energieberatung der Verbraucherzentrale
- - [https://verbraucherzentrale-energieberatung.de](https://verbraucherzentrale-energieberatung.de)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Hessen
- - [https://www.verbraucherzentrale-hessen.de](https://www.verbraucherzentrale-hessen.de)
- - date_published: 2024-07-24T03:31:06.868376+00:00
-
- ## Verbraucherzentrale Niedersachsen: Startseite
- - [https://www.verbraucherzentrale-niedersachsen.de](https://www.verbraucherzentrale-niedersachsen.de)
- - date_published: 2024-08-08T21:11:29.762111+00:00
-
- ## Startseite | Verbraucherzentrale Rheinland-Pfalz
- - [http://www.verbraucherzentrale-rlp.de](http://www.verbraucherzentrale-rlp.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Sachsen
- - [https://www.verbraucherzentrale-sachsen.de](https://www.verbraucherzentrale-sachsen.de)
- - date_published: 2024-07-24T03:31:05.265436+00:00
-
- ## Landesbezirk Berlin-Brandenburg
- - [https://bb.verdi.de](https://bb.verdi.de)
- - date_published: 2024-06-22T13:07:13.996830+00:00
-
- ## Datenschutz
- - [https://datenschutz.verdi.de](https://datenschutz.verdi.de)
- - date_published: 2024-06-27T06:14:38.744291+00:00
-
- ## Gesundheit, Soziale Dienste, Bildung und Wissenschaft
- - [https://gesundheit-soziales-bildung.verdi.de](https://gesundheit-soziales-bildung.verdi.de)
- - date_published: 2024-06-27T06:14:48.048771+00:00
-
- ## ver.di
- - [https://intra.verdi.de](https://intra.verdi.de)
- - date_published: 2024-06-27T06:14:55.314456+00:00
-
- ## meineverdi
- - [http://mitgliedsdaten.verdi.de](http://mitgliedsdaten.verdi.de)
- - date_published: 2024-06-27T06:14:43.249039+00:00
-
- ## meine ver.di
- - [https://mitgliedwerden.verdi.de](https://mitgliedwerden.verdi.de)
- - date_published: 2024-05-31T15:00:34+00:00
-
- ## Home
- - [https://publik.verdi.de](https://publik.verdi.de)
- - date_published: 2024-06-27T06:14:41.161239+00:00
 

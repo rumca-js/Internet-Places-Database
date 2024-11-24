@@ -1,3 +1,11 @@
+ ## bark & whiskers
+ - [https://www.barkandwhiskers.com](https://www.barkandwhiskers.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home
+ - [https://barkeepersfriend.com](https://barkeepersfriend.com)
+ - date_published: 2024-06-21T14:11:35+00:00
+
  ## The Barker Hangar – Event Venue Santa Monica
  - [https://barkerhangar.com](https://barkerhangar.com)
  - date_published: 2024-02-08T16:36:20.738882+00:00
@@ -4014,12 +4022,4 @@
  ## befores & afters - VFX magazine
  - [https://beforesandafters.com](https://beforesandafters.com)
  - date_published: 2023-10-25T12:56:37.675468+00:00
-
- ## Homepage · Before Shakespeare
- - [https://beforeshakespeare.com](https://beforeshakespeare.com)
- - date_published: 2024-08-08T19:40:15.333331+00:00
-
- ## BEFOREWEGOBLOG - Fantasy, Sci-Fi & Graphic Novels
- - [https://beforewegoblog.com](https://beforewegoblog.com)
- - date_published: 2024-05-02T10:21:07.651483+00:00
 

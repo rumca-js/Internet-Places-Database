@@ -1,3 +1,95 @@
+ ## Юридические услуги Сколково для инновационных компаний
+ - [https://sklegal.ru](https://sklegal.ru)
+ - date_published: 2024-10-23T06:49:44.276859+00:00
+
+ ## Инновационный центр «Сколково»
+ - [https://skolcity.ru](https://skolcity.ru)
+ - date_published: 2024-10-23T06:49:27.986096+00:00
+
+ ## SmartData 2024. Конференция по инженерии данных
+ - [https://smartdataconf.ru](https://smartdataconf.ru)
+ - date_published: 2024-09-07T23:36:57.004000+00:00
+
+ ## Клуб трейдеров sMart-Lab. Мы делаем деньги на бирже.
+ - [https://smart-lab.ru](https://smart-lab.ru)
+ - date_published: 2024-06-20T13:32:04.178779+00:00
+
+ ## Skymods - Game Mods Catalogue
+ - [https://catalogue.smods.ru](https://catalogue.smods.ru)
+ - date_published: 2024-06-21T13:04:38+00:00
+
+ ## Skymods - Hearts of Iron IV Mods Catalogue
+ - [http://hearts-of-iron-4.smods.ru](http://hearts-of-iron-4.smods.ru)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Skymods - Cities: Skylines Mods Catalogue
+ - [https://smods.ru](https://smods.ru)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Skymods - Stellaris Mods Catalogue
+ - [https://stellaris.smods.ru](https://stellaris.smods.ru)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## СМОТРИМ ГЛАВНОЕ, ВЕСТИ, ФИЛЬМЫ, СЕРИАЛЫ, ШОУ И ЭФИР РОССИЙСКИХ КАНАЛОВ
+ - [https://smotrim.ru](https://smotrim.ru)
+ - date_published: 2024-06-21T14:39:44.037708+00:00
+
+ ## Fundraising and payment acceptance — collective fundraising in YooMoney
+ - [http://sobe.ru](http://sobe.ru)
+ - date_published: 2024-06-21T14:38:03.126007+00:00
+
+ ## R-Style Softlab – разработчик программного обеспечения для банков, промышленных и агропромышленных предприятий
+ - [https://www.softlab.ru](https://www.softlab.ru)
+ - date_published: 2024-06-21T14:53:13.730732+00:00
+
+ ## Новости и обзоры приложений, лучшие загрузки и поиск приложений - Softonic
+ - [https://softonic.ru](https://softonic.ru)
+ - date_published: 2024-04-29T05:10:59.747776+00:00
+
+ ## VPN 1111: Fast Safe Easy
+ - [https://vpn-1111-fast-safe-easy.softonic.ru](https://vpn-1111-fast-safe-easy.softonic.ru)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## АНО «НАШ СОЛНЕЧНЫЙ МИР» - Главная
+ - [http://solnechnymir.ru](http://solnechnymir.ru)
+ - date_published: 2024-09-04T05:18:32.583298+00:00
+
+ ## Sony Россия | Новости о последних технологиях | Электроника | Развлечения
+ - [http://www.sony.ru](http://www.sony.ru)
+ - date_published: 2024-10-21T07:38:34.537944+00:00
+
+ ## Стойкая краска для волос ГЛИСС КУР Уход & Увлажнение Холодный каштановый 5-1
+ - [http://makecd.sotchenko.ru](http://makecd.sotchenko.ru)
+ - date_published: 2024-07-08T20:22:26.394957+00:00
+
+ ## Стойкая краска для волос ГЛИСС КУР Уход & Увлажнение Холодный каштановый 5-1
+ - [http://ps2m.sotchenko.ru](http://ps2m.sotchenko.ru)
+ - date_published: 2024-07-08T20:22:29.458344+00:00
+
+ ## Издательство «Социум». Книжный магазин «Социум».
+ - [https://sotsium.ru](https://sotsium.ru)
+ - date_published: 2024-05-01T04:14:16.748407+00:00
+
+ ## SPARK — платформа для общения бизнеса с бизнесом
+ - [http://spark.ru](http://spark.ru)
+ - date_published: 2024-06-27T05:34:23.454504+00:00
+
+ ## РБК Спецпроекты
+ - [https://specialists.ru](https://specialists.ru)
+ - date_published: 2024-07-04T10:12:31.614924+00:00
+
+ ## SoundProLab | spl.ru
+ - [https://spl.ru](https://spl.ru)
+ - date_published: 2024-07-20T11:32:41.202012+00:00
+
+ ## Все новости спорта, фото и видео, трансляции и репортажи, статистика и результаты матчей
+ - [https://sportmail.ru](https://sportmail.ru)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## РБК Спорт: главные спортивные новости России и мира
+ - [https://sportrbc.ru](https://sportrbc.ru)
+ - date_published: 2024-07-04T10:11:25.732797+00:00
+
  ## Sprimg.Ru - 3D, AI, VR, Digital Arts
  - [https://spring.ru](https://spring.ru)
  - date_published: 2023-09-24T09:38:45+00:00
@@ -3927,97 +4019,4 @@
  ## CDON | Välkommen till CDON!
  - [https://www.discshop.se](https://www.discshop.se)
  - date_published: 2024-06-17T05:43:07.956736+00:00
-
- ## Disney Sverige | Den officiella webbplatsen för Disney-filmer
- - [https://disney.se](https://disney.se)
- - date_published: 2024-05-01T05:25:55.853985+00:00
-
- ## David Marby
- - [https://dmarby.se](https://dmarby.se)
- - date_published: 2024-05-08T19:27:46+00:00
-
- ## Arkivet - DN.se
- - [https://arkivet.dn.se](https://arkivet.dn.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## DN Granskar
- - [https://dngranskar.dn.se](https://dngranskar.dn.se)
- - date_published: 2024-06-17T18:21:52.773764+00:00
-
- ## Dagens Nyheter – senaste nyheterna från Sverige och världen
- - [https://dn.se](https://dn.se)
- - date_published: 2024-10-20T05:53:36.752717+00:00
-
- ## DN.Erbjudanden
- - [https://erbjudanden.dn.se](https://erbjudanden.dn.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## eDN
- - [https://etidning.dn.se](https://etidning.dn.se)
- - date_published: 2024-06-17T18:21:57.810887+00:00
-
- ## Logga in – Bonnier News
- - [https://id.dn.se](https://id.dn.se)
- - date_published: 2024-06-17T18:22:04.270859+00:00
-
- ## Annonsera hos Dagens Nyheter
- - [https://kampanj.dn.se](https://kampanj.dn.se)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Prenumerera - DN.se
- - [https://kampanjer.dn.se](https://kampanjer.dn.se)
- - date_published: 2024-10-20T05:55:55.489632+00:00
-
- ## Prenumerera - DN.se
- - [https://prenumerera.dn.se](https://prenumerera.dn.se)
- - date_published: 2024-06-17T18:22:09.038905+00:00
-
- ## DN Skola - Dagens Nyheter till elever - DN.se
- - [https://skola.www.dn.se](https://skola.www.dn.se)
- - date_published: 2024-06-17T18:22:16.855396+00:00
-
- ## DNB Sverige | Företag
- - [https://www.dnb.se](https://www.dnb.se)
- - date_published: 2024-06-15T21:06:03+00:00
-
- ## DNB Portal
- - [https://dnbportal.se](https://dnbportal.se)
- - date_published: 2022-01-13T13:40:09+00:00
-
- ## Inleed Docsign
- - [https://docsign.se](https://docsign.se)
- - date_published: 2024-06-16T17:36:17.071162+00:00
-
- ## Dooer
- - [https://dooer.se](https://dooer.se)
- - date_published: 2024-04-30T13:04:52+00:00
-
- ## Statusöversikt
- - [https://downdetector.se](https://downdetector.se)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Johan Driessen
- - [https://johan.driessen.se](https://johan.driessen.se)
- - date_published: 2023-08-23T00:00:00+00:00
- - tags: ['personal', 'retro games']
-
- ## Driftinformation från Loopia
- - [https://www.driftbloggen.se](https://www.driftbloggen.se)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## David's Perspective
- - [https://blog.dskeppstedt.se](https://blog.dskeppstedt.se)
- - date_published: 2024-11-13T16:36:10.711360+00:00
-
- ## Business Communications Today and Tomorrow | Dstny
- - [https://www.dstny.se](https://www.dstny.se)
- - date_published: 2024-10-20T21:59:40.570124+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.se](https://www.duracell.se)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Dysons officiella webbplats  | Dyson.se
- - [https://www.dyson.se](https://www.dyson.se)
- - date_published: 2024-07-07T01:56:15.112931+00:00
 

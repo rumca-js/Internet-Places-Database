@@ -1,3 +1,11 @@
+ ## Big Guy's Teleprompter's Blog
+ - [http://baracksteleprompter.blogspot.com](http://baracksteleprompter.blogspot.com)
+ - date_published: 2024-06-27T07:48:00+00:00
+
+ ## Regreso a Barak Tor
+ - [https://baraktor.blogspot.com](https://baraktor.blogspot.com)
+ - date_published: 2024-07-03T02:17:21+00:00
+
  ## Barbara's Journey Toward Justice
  - [http://barbarasblogspot.blogspot.com](http://barbarasblogspot.blogspot.com)
  - date_published: 2024-03-07T09:10:54+00:00
@@ -4008,12 +4016,4 @@
  ## The Conservative Mom
  - [http://consrvativemom.blogspot.com](http://consrvativemom.blogspot.com)
  - date_published: 2024-06-15T09:23:11+00:00
-
- ## ConstantCon
- - [http://constantcon.blogspot.com](http://constantcon.blogspot.com)
- - date_published: 2024-03-13T10:17:27+00:00
-
- ## Constantly Furious
- - [http://constantlyfurious.blogspot.com](http://constantlyfurious.blogspot.com)
- - date_published: 2024-10-21T14:10:05.456258+00:00
 

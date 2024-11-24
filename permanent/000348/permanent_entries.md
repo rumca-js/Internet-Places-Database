@@ -1,3 +1,80 @@
+ ## Haskell Weekly
+ - [https://haskellweekly.news](https://haskellweekly.news)
+ - date_published: 2023-10-25T20:42:45.054681+00:00
+ - tags: ['news', 'haskell']
+
+ ## Health News | Health News & Health Studies
+ - [https://www.health.news](https://www.health.news)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Health Freedom News | Health Freedom News – Health Freedom Information
+ - [https://www.healthfreedom.news](https://www.healthfreedom.news)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home - Health Policy Watch
+ - [https://healthpolicy-watch.news](https://healthpolicy-watch.news)
+ - date_published: 2018-05-08T11:09:48+00:00
+
+ ## Heart News | Heart News – Heart Information
+ - [http://www.heart.news](http://www.heart.news)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Heatmap News
+ - [https://heatmap.news](https://heatmap.news)
+ - date_published: 2023-10-25T10:54:47.126489+00:00
+
+ ## Heavy Metals News | Heavy Metals News – Heavy Metals Information
+ - [http://www.heavymetals.news](http://www.heavymetals.news)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Heidi.news
+ - [https://heidi.news](https://heidi.news)
+ - date_published: 2024-07-12T16:54:45.836298+00:00
+
+ ## Museum Street | Henry Cooke | Substack
+ - [https://www.henrycooke.news](https://www.henrycooke.news)
+ - date_published: 2024-10-31T22:43:36.140734+00:00
+
+ ## Herbs News | Herbs News – Herbs Information
+ - [https://herbs.news](https://herbs.news)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 500 Server Error
+ - [https://here.news](https://here.news)
+ - date_published: 2023-10-25T10:16:53.490443+00:00
+
+ ## Hill Heat
+ - [https://hillheat.news](https://hillheat.news)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Show HN: No-bs "HN: Who is Hiring?" job picks straight to your inbox
+ - [https://hnrecap.news](https://hnrecap.news)
+ - date_published: 2024-04-05T12:30:01+00:00
+
+ ## スポーツ報知
+ - [https://hochi.news](https://hochi.news)
+ - date_published: 2024-06-24T02:07:21.065474+00:00
+
+ ## Hyundai Europe
+ - [https://hyundai.news](https://hyundai.news)
+ - date_published: 2023-12-12T14:08:13.098131+00:00
+
+ ## I Doubt News
+ - [https://idoubt.news](https://idoubt.news)
+ - date_published: 2024-10-30T07:39:35.564871+00:00
+
+ ## Iffy.news
+ - [https://iffy.news](https://iffy.news)
+ - date_published: 2024-07-16T21:37:48.433874+00:00
+
+ ## Ingredients News | Ingredients News – Ingredients Information
+ - [https://www.ingredients.news](https://www.ingredients.news)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Interstellar News - Interstellar News
+ - [https://interstellar.news](https://interstellar.news)
+ - date_published: 2024-05-11T10:53:33.509052+00:00
+
  ## Focus on Western Islamism (FWI)
  - [https://islamism.news](https://islamism.news)
  - date_published: 2024-07-06T00:00:00+00:00
@@ -3943,80 +4020,4 @@
  ## Dialogic innovatie & interactie
  - [https://dialogic.nl](https://dialogic.nl)
  - date_published: 2024-05-25T02:54:09.162580+00:00
-
- ## Dianetics: De Leidraad voor het Menselijk Verstand
- - [https://www.dianetics.nl](https://www.dianetics.nl)
- - date_published: 2024-06-17T16:42:24.918814+00:00
-
- ## Deskundige Dierenzorg - Dierenkliniek van de Wolf
- - [https://dierenkliniekvdwolf.nl](https://dierenkliniekvdwolf.nl)
- - date_published: 2024-08-07T21:41:55.488844+00:00
-
- ## Global Automotive Solutions – Made in Germany
- - [http://www.dieseltechnic.nl](http://www.dieseltechnic.nl)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Digiater.nl
- - [https://digiater.nl](https://digiater.nl)
- - date_published: 2020-03-10T06:15:32+00:00
-
- ## DigiCal - Making Organizing Easier! - Apps by Digibites
- - [https://digibites.nl](https://digibites.nl)
- - date_published: 2024-07-09T15:51:36.676402+00:00
-
- ## Home | DigiD
- - [https://digid.nl](https://digid.nl)
- - date_published: 2024-09-16T09:39:07+00:00
-
- ## DigiD: Inloggen | Keuze
- - [https://mijn.digid.nl](https://mijn.digid.nl)
- - date_published: 2024-06-16T11:19:42.869090+00:00
-
- ## Consultancy bureau for digital defence
- - [https://digidef.nl](https://digidef.nl)
- - date_published: 2024-05-07T14:17:08.873159+00:00
-
- ## DigiKey Home
- - [https://digikey.nl](https://digikey.nl)
- - date_published: 2024-05-01T05:02:55.217060+00:00
-
- ## Welkom - Digipal.nl
- - [https://www.digipal.nl](https://www.digipal.nl)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Digitaal FM Groningen
- - [http://www.digitaal896.nl](http://www.digitaal896.nl)
- - date_published: 2024-09-13T19:04:36.362784+00:00
-
- ## Home
- - [https://digitalezaken.nl](https://digitalezaken.nl)
- - date_published: 2018-01-09T16:23:15+00:00
-
- ## Dimensions Online | Rotterdam Online Marketing Experts
- - [https://dimensionsonline.nl](https://dimensionsonline.nl)
- - date_published: 2024-08-07T21:40:51.844646+00:00
-
- ## Stichting DINL
- - [https://www.dinl.nl](https://www.dinl.nl)
- - date_published: 2020-06-20T15:43:29+00:00
-
- ## Disney Nederland | De Officiële Website Voor Alles Disney
- - [https://disney.nl](https://disney.nl)
- - date_published: 2024-06-16T02:29:55.568221+00:00
-
- ## djcbsoftware
- - [https://djcbsoftware.nl](https://djcbsoftware.nl)
- - date_published: 2024-05-07T22:57:47.848902+00:00
-
- ## DJpaneel - Radio management
- - [https://hitgolfradio.djpaneel.nl](https://hitgolfradio.djpaneel.nl)
- - date_published: 2024-09-13T19:20:52.712859+00:00
-
- ## DJpaneel - Radio management
- - [https://piratenfamilie.djpaneel.nl](https://piratenfamilie.djpaneel.nl)
- - date_published: 2024-09-13T18:59:41.131033+00:00
-
- ## DMWS - Lightspeed en Shopify Partner
- - [https://dmws.nl](https://dmws.nl)
- - date_published: 2024-10-30T05:50:02.141033+00:00
 

@@ -1,3 +1,15 @@
+ ## The Leutnants Diary
+ - [http://theleutnantsdiary.blogspot.com](http://theleutnantsdiary.blogspot.com)
+ - date_published: 2024-07-04T05:24:54+00:00
+
+ ## The LibertyPhile
+ - [http://thelibertyphile.blogspot.com](http://thelibertyphile.blogspot.com)
+ - date_published: 2023-11-15T13:41:36+00:00
+
+ ## The Liberty Sphere
+ - [http://thelibertysphere.blogspot.com](http://thelibertysphere.blogspot.com)
+ - date_published: 2024-07-03T06:50:11+00:00
+
  ## Find Joy in the Journey
  - [http://thelifeofmarkandaprilleespencer.blogspot.com](http://thelifeofmarkandaprilleespencer.blogspot.com)
  - date_published: 2024-04-04T15:05:10+00:00
@@ -3996,16 +4008,4 @@
  ## Wind Spot Demo
  - [https://windspot-demo.blogspot.com](https://windspot-demo.blogspot.com)
  - date_published: 2024-03-12T23:56:42+00:00
-
- ## Blogger
- - [http://wineink.blogspot.com](http://wineink.blogspot.com)
- - date_published: 2024-07-20T09:22:47.422910+00:00
-
- ## wine me, dine me
- - [http://winemedinemecinci.blogspot.com](http://winemedinemecinci.blogspot.com)
- - date_published: 2008-10-26T00:00:00+00:00
-
- ## Wingless Burst
- - [http://winglessburst.blogspot.com](http://winglessburst.blogspot.com)
- - date_published: 2024-09-01T05:41:34+00:00
 

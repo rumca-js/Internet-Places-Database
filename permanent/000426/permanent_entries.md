@@ -1,3 +1,109 @@
+ ## The Bow, Waddesdon
+ - [https://www.thebowwaddesdon.co.uk](https://www.thebowwaddesdon.co.uk)
+ - date_published: 2024-10-18T22:41:49.124034+00:00
+
+ ## Fantasy, Sci-Fi, Horror & More | The Broken Binding
+ - [https://thebrokenbinding.co.uk](https://thebrokenbinding.co.uk)
+ - date_published: 2024-10-19T11:39:35.313479+00:00
+
+ ## Home
+ - [https://bookings.thecairncollection.co.uk](https://bookings.thecairncollection.co.uk)
+ - date_published: 2024-10-20T08:47:26.937474+00:00
+
+ ## Home
+ - [https://www.thecairncollection.co.uk](https://www.thecairncollection.co.uk)
+ - date_published: 2024-06-17T19:25:49.529471+00:00
+
+ ## The Chefs' Forum | Chef Organisation UK | Join The Community
+ - [https://thechefsforum.co.uk](https://thechefsforum.co.uk)
+ - date_published: 2024-10-29T14:45:15.477894+00:00
+
+ ## The Chinese Room
+ - [https://www.thechineseroom.co.uk](https://www.thechineseroom.co.uk)
+ - date_published: 2024-07-08T10:34:58.594731+00:00
+
+ ## Jason's  blog
+ - [https://theclouddude.co.uk](https://theclouddude.co.uk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Simon Painter
+ - [https://www.thecodepainter.co.uk](https://www.thecodepainter.co.uk)
+ - date_published: 2023-10-25T08:56:41.765528+00:00
+ - tags: ['personal']
+
+ ## Co-living | Live Like You've Never Lived Before | The Collective
+ - [https://thecollective.co.uk](https://thecollective.co.uk)
+ - date_published: 2024-06-12T12:37:12.445610+00:00
+
+ ## The College Store
+ - [https://thecollegestore.co.uk](https://thecollegestore.co.uk)
+ - date_published: 2024-06-17T18:18:27.510952+00:00
+
+ ## Complete University Guide - University Rankings, Guides and Courses
+ - [https://thecompleteuniversityguide.co.uk](https://thecompleteuniversityguide.co.uk)
+ - date_published: 2024-10-20T08:15:23.780600+00:00
+
+ ## TheCourier - The Courier Podcasts
+ - [https://podcasts.thecourier.co.uk](https://podcasts.thecourier.co.uk)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## The Critic Magazine | Britain’s new monthly magazine for politics, ideas, art, literature and more
+ - [https://thecritic.co.uk](https://thecritic.co.uk)
+ - date_published: 2023-10-25T22:55:14.545276+00:00
+
+ ## The Daily Mash
+ - [https://thedailymash.co.uk](https://thedailymash.co.uk)
+ - date_published: 2024-05-07T14:49:03.560688+00:00
+
+ ## The Dark Fortress | A resource for the Dark Angels Space Marine Chapter
+ - [https://www.thedarkfortress.co.uk](https://www.thedarkfortress.co.uk)
+ - date_published: 2024-10-26T17:42:04.112168+00:00
+
+ ## The Data School
+ - [https://www.thedataschool.co.uk](https://www.thedataschool.co.uk)
+ - date_published: 2024-07-03T14:28:15+00:00
+
+ ## Home - The Design Bank
+ - [https://www.thedesignbank.co.uk](https://www.thedesignbank.co.uk)
+ - date_published: 2024-10-20T13:13:47.323245+00:00
+
+ ## The Dice Dungeon | The UK's DND Dice Set Specialist
+ - [https://thedicedungeon.co.uk](https://thedicedungeon.co.uk)
+ - date_published: 2024-07-01T05:14:10.470591+00:00
+
+ ## The Distance | Award-Winning UK App Developers
+ - [https://thedistance.co.uk](https://thedistance.co.uk)
+ - date_published: 2024-06-20T09:41:59+00:00
+
+ ## thedogweb.co.uk - thedogweb.co.uk
+ - [http://www.thedogweb.co.uk](http://www.thedogweb.co.uk)
+ - date_published: 2022-02-23T00:00:00+00:00
+
+ ## The Down Recorder | Local Newspaper | News in Co Down Northern Ireland
+ - [http://www.thedownrecorder.co.uk](http://www.thedownrecorder.co.uk)
+ - date_published: 2024-10-29T18:20:31.505183+00:00
+
+ ## thedragonscave.co.uk
+ - [http://thedragonscave.co.uk](http://thedragonscave.co.uk)
+ - date_published: 2024-06-13T06:51:52.803615+00:00
+
+ ## The Dreamcast Junkyard
+ - [https://thedreamcastjunkyard.co.uk](https://thedreamcastjunkyard.co.uk)
+ - date_published: 2024-05-24T18:30:07.561966+00:00
+ - tags: ['dreamcast']
+
+ ## Get the Latest Hyper-local News for Edinburgh
+ - [http://www.theedinburghreporter.co.uk](http://www.theedinburghreporter.co.uk)
+ - date_published: 2024-10-21T17:32:52.860099+00:00
+
+ ## C2i Awards 2024 - Home Page
+ - [https://awards.theengineer.co.uk](https://awards.theengineer.co.uk)
+ - date_published: 2024-05-02T12:22:02.603292+00:00
+
+ ## The Engineer Jobs
+ - [https://jobs.theengineer.co.uk](https://jobs.theengineer.co.uk)
+ - date_published: 2024-05-02T12:22:00.995407+00:00
+
  ## Why am I here?
  - [https://mail.theengineer.co.uk](https://mail.theengineer.co.uk)
  - date_published: 2020-12-23T19:02:09+00:00
@@ -3914,113 +4020,4 @@ Bracknell
  ## DWP Digital – Digital With Purpose
  - [https://careers.dwp.gov.uk](https://careers.dwp.gov.uk)
  - date_published: 2024-10-21T09:40:03.833304+00:00
-
- ## Find a job
- - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
- - date_published: 2024-06-17T17:49:05.465349+00:00
-
- ## Department for Work and Pensions
- - [http://research.dwp.gov.uk](http://research.dwp.gov.uk)
- - date_published: 2024-10-21T14:03:35.809741+00:00
-
- ## Department for Work and Pensions
- - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
- - date_published: 2024-10-21T14:05:07.059945+00:00
-
- ## Home
- - [https://economy-ni.gov.uk](https://economy-ni.gov.uk)
- - date_published: 2024-10-21T10:31:25.236342+00:00
-
- ## Home
- - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
- - date_published: 2024-10-20T03:58:18.336590+00:00
-
- ## Department for Education
-            
-            - Citizen Space
- - [https://consult.education.gov.uk](https://consult.education.gov.uk)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Department for Education
- - [https://education.gov.uk](https://education.gov.uk)
- - date_published: 2024-10-21T09:31:06.074057+00:00
-
- ## Environment Agency
-            
-            - Citizen Space
- - [https://consult.environment-agency.gov.uk](https://consult.environment-agency.gov.uk)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home | Civil Service Fast Stream
- - [https://www.faststream.gov.uk](https://www.faststream.gov.uk)
- - date_published: 2023-10-12T00:00:00+00:00
-
- ## Foreign & Commonwealth Office
- - [http://www.fco.gov.uk](http://www.fco.gov.uk)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Home
- - [https://finance-ni.gov.uk](https://finance-ni.gov.uk)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Homepage
- - [https://www.food.gov.uk](https://www.food.gov.uk)
- - date_published: 2024-07-13T17:41:23+00:00
-
- ## Government Actuary's Department
- - [http://www.gad.gov.uk](http://www.gad.gov.uk)
- - date_published: 2024-10-21T14:08:35.049506+00:00
-
- ## Invalid request
- - [https://registers.gamblingcommission.gov.uk](https://registers.gamblingcommission.gov.uk)
- - date_published: 2024-06-18T06:58:06.328481+00:00
-
- ## Gambling Commission website
- - [https://www.gamblingcommission.gov.uk](https://www.gamblingcommission.gov.uk)
- - date_published: 2024-06-18T06:58:00.435898+00:00
-
- ## NCSC
- - [https://www.gchq.gov.uk](https://www.gchq.gov.uk)
- - date_published: 2024-02-07T15:32:38+00:00
- - tags: ['uk security intelligence', 'security intelligence']
-
- ## Civil Service Careers
- - [https://gdscareers.gov.uk](https://gdscareers.gov.uk)
- - date_published: 2024-06-17T19:25:14.295338+00:00
-
- ## Home | Gloucestershire County Council
- - [https://www.gloucestershire.gov.uk](https://www.gloucestershire.gov.uk)
- - date_published: 2024-08-11T12:51:12.223530+00:00
-
- ## Welcome to Haringey Council | Haringey Council
- - [https://www.haringey.gov.uk](https://www.haringey.gov.uk)
- - date_published: 2024-07-18T23:52:12+00:00
-
- ## Home
- - [https://health-ni.gov.uk](https://health-ni.gov.uk)
- - date_published: 2024-10-21T10:00:00.549859+00:00
-
- ## Meetings, agendas, and minutes | Hertfordshire County Council
- - [https://democracy.hertfordshire.gov.uk](https://democracy.hertfordshire.gov.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - Hertsmere Borough Council
- - [https://www.hertsmere.gov.uk](https://www.hertsmere.gov.uk)
- - date_published: 2024-07-03T17:14:45.650413+00:00
-
- ## HM Revenue & Customs
- - [https://hmrc.gov.uk](https://hmrc.gov.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Legislation.gov.uk
- - [http://www.uk-legislation.hmso.gov.uk](http://www.uk-legislation.hmso.gov.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## HM Treasury
- - [http://www.hm-treasury.gov.uk](http://www.hm-treasury.gov.uk)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Home Office
- - [http://www.homeoffice.gov.uk](http://www.homeoffice.gov.uk)
- - date_published: 2024-07-18T00:00:00+00:00
 

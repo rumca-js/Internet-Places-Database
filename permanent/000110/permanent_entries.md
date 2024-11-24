@@ -1,3 +1,23 @@
+ ## GIANTS Partner Program
+ - [https://partner.giants-software.com](https://partner.giants-software.com)
+ - date_published: 2024-07-12T19:09:03.761345+00:00
+
+ ## GIANTS Software Press Center
+ - [https://press.giants-software.com](https://press.giants-software.com)
+ - date_published: 2024-07-12T19:09:06.977429+00:00
+
+ ## Giant Bicycles Türkiye |  Bisiklet ve Bisiklet Ekipmanları
+ - [https://www.giant-turkey.com](https://www.giant-turkey.com)
+ - date_published: 2024-09-18T02:02:31.787564+00:00
+
+ ## GIÃO & GIÃO
+ - [http://giao-giao.com](http://giao-giao.com)
+ - date_published: 2024-07-07T05:54:27.375023+00:00
+
+ ## Giardini di Toscana |  Shop Online | Profumi
+ - [https://www.giardiniditoscana.com](https://www.giardiniditoscana.com)
+ - date_published: 2024-09-06T13:13:18.880060+00:00
+
  ## Gibb River Diamonds Limited
  - [http://www.gibbriverdiamonds.com](http://www.gibbriverdiamonds.com)
  - date_published: 2024-09-16T22:24:46.289226+00:00
@@ -1323,7 +1343,7 @@
  ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
  - date_published: 2024-11-08T19:10:00+00:00
- - tags: ['awesome list']
+ - tags: ['bookmark managers', 'awesome list']
 
  ## GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.
  - [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -4073,24 +4093,4 @@
  ## GlooData
  - [https://gloodata.com](https://gloodata.com)
  - date_published: 2024-06-16T21:16:02.742357+00:00
-
- ## Free Online Ordering System for Restaurants | GloriaFood
- - [https://www.gloriafood.com](https://www.gloriafood.com)
- - date_published: 2024-06-23T12:16:48.904750+00:00
-
- ## Gloria's® Latin Cuisine | Distinct Latin Flavor, Authentic Charm | Gloria's® Latin Cuisine
- - [https://gloriascuisine.com](https://gloriascuisine.com)
- - date_published: 2024-07-10T11:03:58.984437+00:00
-
- ## Premium WordPress Themes from Gloria Themes
- - [https://gloriathemes.com](https://gloriathemes.com)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Support
- - [https://support.gloriathemes.com](https://support.gloriathemes.com)
- - date_published: 2024-09-16T01:07:51.967386+00:00
-
- ## Glorieta Geoscience Inc
- - [https://www.glorietageo.com](https://www.glorietageo.com)
- - date_published: 2024-07-17T02:42:04.501459+00:00
 

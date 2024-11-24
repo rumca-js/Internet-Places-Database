@@ -1,3 +1,35 @@
+ ## Palmas Altas wind farm and La Chalupa wind farm | ACCIONA | Business as unusual
+ - [https://www.palmaswind.com](https://www.palmaswind.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Asphalt Paving Company - West Palm Beach FL
+ - [https://www.palmbeach-asphalt.com](https://www.palmbeach-asphalt.com)
+ - date_published: 2024-02-25T12:05:35+00:00
+
+ ## Palm Beach Daily News: Local News, Politics & Sports in W. Palm Beach, FL
+ - [https://www.palmbeachdailynews.com](https://www.palmbeachdailynews.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## West Palm Beach Criminal Lawyer
+ - [https://www.palmbeachdefense.com](https://www.palmbeachdefense.com)
+ - date_published: 2024-06-28T10:00:54+00:00
+
+ ## General Data Protection Regulation (GDPR) | Kravis Center for the Performing Arts
+ - [http://palmbeachimprov.com](http://palmbeachimprov.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Palm Beach Post: Local News, Politics & Sports in W. Palm Beach, FL
+ - [https://cm.palmbeachpost.com](https://cm.palmbeachpost.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Palm Beach Post: Local News, Politics & Sports in W. Palm Beach, FL
+ - [https://eu.palmbeachpost.com](https://eu.palmbeachpost.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Help Center - The Palm Beach Post
+ - [https://help.palmbeachpost.com](https://help.palmbeachpost.com)
+ - date_published: 2024-06-28T18:21:38.637040+00:00
+
  ## Palm Beach Post: Local News, Politics & Sports in W. Palm Beach, FL
  - [https://palmbeachpost.com](https://palmbeachpost.com)
  - date_published: 2024-05-06T00:00:00+00:00
@@ -3996,36 +4028,4 @@
  ## AC Repair and Service | HVAC Company Panama City Beach FL - Pat Green
  - [http://www.patgreenair.com](http://www.patgreenair.com)
  - date_published: 2024-06-29T23:14:16.746702+00:00
-
- ## Nonreligious Questions
- - [https://friendlyatheist.patheos.com](https://friendlyatheist.patheos.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Patheos | Hosting The Conversation On Faith
- - [https://media.patheos.com](https://media.patheos.com)
- - date_published: 2024-10-18T14:52:26.920171+00:00
-
- ## Nonreligious Questions
- - [https://wp-media.patheos.com](https://wp-media.patheos.com)
- - date_published: 2024-10-18T14:52:09.977307+00:00
-
- ## Patheos | Hosting The Conversation On Faith
- - [https://www.patheos.com](https://www.patheos.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## PCR's notepad - The area in patheticcockroach.com where the EEG isn't isoelectric
- - [https://notepad.patheticcockroach.com](https://notepad.patheticcockroach.com)
- - date_published: 2024-09-02T16:06:11.646906+00:00
-
- ## PathFactory
- - [https://franklincovey.pathfactory.com](https://franklincovey.pathfactory.com)
- - date_published: 2024-06-23T02:31:11.895663+00:00
-
- ## PathFactory
- - [https://login.pathfactory.com](https://login.pathfactory.com)
- - date_published: 2024-07-24T02:35:15.173078+00:00
-
- ## PathFactory
- - [https://trendmicro.pathfactory.com](https://trendmicro.pathfactory.com)
- - date_published: 2024-06-26T23:41:53.370219+00:00
 

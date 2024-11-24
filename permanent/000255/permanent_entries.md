@@ -1,3 +1,63 @@
+ ## Institut for Veterinær- og Husdyrvidenskab – Københavns Universitet
+ - [http://ivh.ku.dk](http://ivh.ku.dk)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
+ - [https://jobportal.ku.dk](https://jobportal.ku.dk)
+ - date_published: 2024-04-30T02:42:25.907218+00:00
+
+ ## Jura - Det Juridiske Fakultet – Københavns Universitet
+ - [https://jura.ku.dk](https://jura.ku.dk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Offentlige arrangementer – Københavns Universitet
+ - [https://kalender.ku.dk](https://kalender.ku.dk)
+ - date_published: 2024-04-30T02:42:31.744210+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://kommunikation.ku.dk](https://kommunikation.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Københavns Universitetsbibliotek  – Københavns Universitet
+ - [https://kub.ku.dk](https://kub.ku.dk)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://ku.dk](https://ku.dk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## University of Copenhagen - Courses
+ - [https://kurser.ku.dk](https://kurser.ku.dk)
+ - date_published: 2024-04-30T02:42:32.840519+00:00
+
+ ## KU Lighthouse – Københavns Universitet
+ - [https://lighthouse.ku.dk](https://lighthouse.ku.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://mangfoldighed.ku.dk](https://mangfoldighed.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Institut for Matematiske  Fag – Københavns Universitet
+ - [https://math.ku.dk](https://math.ku.dk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Center of Excellence on Global Mobility Law – University of Copenhagen
+ - [https://mobilitylaw.ku.dk](https://mobilitylaw.ku.dk)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Niels Bohr Institutet – Niels Bohr Institutet - Københavns Universitet
+ - [https://nbi.ku.dk](https://nbi.ku.dk)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## News – University of Copenhagen
+ - [https://news.ku.dk](https://news.ku.dk)
+ - date_published: 2023-10-25T11:22:10.749501+00:00
+
+ ## Institut for Idræt og Ernæring – Københavns Universitet
+ - [https://nexs.ku.dk](https://nexs.ku.dk)
+ - date_published: 2024-07-15T00:00:00+00:00
+
  ## Institut for Nordiske Studier og Sprogvidenskab (NorS) – Københavns Universitet
  - [https://nors.ku.dk](https://nors.ku.dk)
  - date_published: 2024-08-30T00:00:00+00:00
@@ -3948,64 +4008,4 @@ I box, ...
  ## University of Toronto
  - [http://utoronto.academia.edu](http://utoronto.academia.edu)
  - date_published: 2024-04-30T03:01:46.223047+00:00
-
- ## University of Turku
- - [https://utu.academia.edu](https://utu.academia.edu)
- - date_published: 2024-04-30T02:58:09.045137+00:00
-
- ## Utrecht University
- - [https://uu.academia.edu](https://uu.academia.edu)
- - date_published: 2024-04-30T02:56:43.182045+00:00
-
- ## Vilnius University
- - [https://vu-lt.academia.edu](https://vu-lt.academia.edu)
- - date_published: 2024-04-30T02:56:23.161974+00:00
-
- ## Vrije Universiteit Amsterdam
- - [https://vu-nl.academia.edu](https://vu-nl.academia.edu)
- - date_published: 2024-04-30T02:59:28.214088+00:00
-
- ## University of Warwick
- - [https://warwick.academia.edu](https://warwick.academia.edu)
- - date_published: 2024-04-30T03:02:32.869312+00:00
-
- ## Western University Canada
- - [https://westernu.academia.edu](https://westernu.academia.edu)
- - date_published: 2024-04-30T02:50:30.035037+00:00
-
- ## University of Wisconsin-Madison
- - [https://wisc.academia.edu](https://wisc.academia.edu)
- - date_published: 2024-04-30T03:00:54.514977+00:00
-
- ## Washington University in St. Louis
- - [https://wustl.academia.edu](https://wustl.academia.edu)
- - date_published: 2024-04-30T02:50:25.947691+00:00
-
- ## West Virginia University
- - [https://wvu.academia.edu](https://wvu.academia.edu)
- - date_published: 2024-04-30T02:59:22.255414+00:00
-
- ## Academy of Art University
- - [https://academyart.edu](https://academyart.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Academy of Art University
- - [https://catalog.academyart.edu](https://catalog.academyart.edu)
- - date_published: 2024-07-07T04:43:02.715930+00:00
-
- ## Academy of Art University Media Center
- - [https://mediacenter.academyart.edu](https://mediacenter.academyart.edu)
- - date_published: 2024-07-07T04:42:41.886477+00:00
-
- ## Student Life and Services
- - [https://my.academyart.edu](https://my.academyart.edu)
- - date_published: 2024-07-07T04:42:46.228344+00:00
-
- ## Academy of Art University Spring Show
- - [https://springshow.academyart.edu](https://springshow.academyart.edu)
- - date_published: 2024-07-07T04:43:01.520579+00:00
-
- ## American College of the Building Arts
- - [https://acba.edu](https://acba.edu)
- - date_published: 2024-02-08T17:01:49.403956+00:00
 

@@ -1,3 +1,15 @@
+ ## Homepage | BMJ Neurology Open
+ - [https://neurologyopen.bmj.com](https://neurologyopen.bmj.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## BMJ Learning: Online Courses for Healthcare Professionals
+ - [https://new-learning.bmj.com](https://new-learning.bmj.com)
+ - date_published: 2024-06-27T08:51:51+00:00
+
+ ## Homepage | BMJ Nutrition, Prevention & Health
+ - [https://nutrition.bmj.com](https://nutrition.bmj.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
  ## Homepage | Occupational and Environmental Medicine (OEM)
  - [https://oem.bmj.com](https://oem.bmj.com)
  - date_published: 2024-04-18T00:00:00+00:00
@@ -4020,16 +4032,4 @@
  ## Supply chain
  - [http://purchasing.bosch.com](http://purchasing.bosch.com)
  - date_published: 2024-06-13T14:06:25+00:00
-
- ## Home
- - [https://www.boschaftermarket.com](https://www.boschaftermarket.com)
- - date_published: 2024-07-24T04:19:46.563017+00:00
-
- ## Home
- - [https://bosch-ai.com](https://bosch-ai.com)
- - date_published: 2023-12-14T00:00:00+00:00
-
- ## Startseite
- - [https://blog.bosch-digital.com](https://blog.bosch-digital.com)
- - date_published: 2023-02-08T00:00:00+00:00
 

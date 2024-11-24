@@ -1,3 +1,67 @@
+ ## Brown Institute
+ - [https://brown.stanford.edu](https://brown.stanford.edu)
+ - date_published: 2024-05-07T20:27:56.428711+00:00
+
+ ## University Budget Office
+ - [https://budget.stanford.edu](https://budget.stanford.edu)
+ - date_published: 2024-06-25T23:31:24+00:00
+
+ ## Stanford University Bulletin
+ - [https://bulletin.stanford.edu](https://bulletin.stanford.edu)
+ - date_published: 2024-06-28T16:40:15.519310+00:00
+
+ ## Stanford Searchable Map
+ - [https://campus-map.stanford.edu](https://campus-map.stanford.edu)
+ - date_published: 2024-05-07T20:25:40.739874+00:00
+
+ ## Canvas Login Stanford University
+ - [https://canvas.stanford.edu](https://canvas.stanford.edu)
+ - date_published: 2024-06-24T21:24:21+00:00
+
+ ## Stanford Profiles - Stanford University
+ - [https://cap.stanford.edu](https://cap.stanford.edu)
+ - date_published: 2024-07-01T19:39:22.771035+00:00
+
+ ## Cardinal at Work
+ - [https://cardinalatwork.stanford.edu](https://cardinalatwork.stanford.edu)
+ - date_published: 2024-06-30T13:06:39+00:00
+
+ ## Stanford University
+ - [https://cardinalengage.stanford.edu](https://cardinalengage.stanford.edu)
+ - date_published: 2024-07-14T11:45:16.754461+00:00
+
+ ## Cardinal Service
+ - [https://cardinalservice.stanford.edu](https://cardinalservice.stanford.edu)
+ - date_published: 2024-06-26T18:42:20+00:00
+
+ ## Stanford Career Education
+ - [https://careered.stanford.edu](https://careered.stanford.edu)
+ - date_published: 2024-07-01T16:58:44+00:00
+
+ ## Job Opportunities at Stanford University
+ - [https://careersearch.stanford.edu](https://careersearch.stanford.edu)
+ - date_published: 2024-05-07T20:30:50.759748+00:00
+
+ ## Careers at SLAC | SLAC National Accelerator Laboratory
+ - [https://careers.slac.stanford.edu](https://careers.slac.stanford.edu)
+ - date_published: 2024-07-05T20:24:04+00:00
+
+ ## Center for Advanced Study in the Behavioral Sciences
+ - [https://casbs.stanford.edu](https://casbs.stanford.edu)
+ - date_published: 2024-05-07T20:27:28.196250+00:00
+
+ ## Stanford Center for Blockchain Research
+ - [https://cbr.stanford.edu](https://cbr.stanford.edu)
+ - date_published: 2022-12-16T21:42:38+00:00
+
+ ## Center for Computer Research in Music and Acoustics | CCRMA
+ - [https://ccrma.stanford.edu](https://ccrma.stanford.edu)
+ - date_published: 2024-06-22T08:29:57+00:00
+
+ ## Center on Democracy, Development and the Rule of Law | FSI
+ - [https://cddrl.fsi.stanford.edu](https://cddrl.fsi.stanford.edu)
+ - date_published: 2024-09-03T00:00:00+00:00
+
  ## Centers for Equity Community and Leadership
  - [https://cecl.stanford.edu](https://cecl.stanford.edu)
  - date_published: 2024-04-19T01:18:13+00:00
@@ -3947,68 +4011,4 @@
  ## kcsmalley@ua.edu –  | The University of Alabama
  - [https://accessibility.ua.edu](https://accessibility.ua.edu)
  - date_published: 2024-05-07T20:41:05.062467+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://accessibleweb.as.ua.edu](https://accessibleweb.as.ua.edu)
- - date_published: 2024-05-07T20:39:39.735712+00:00
-
- ## Admissions
- - [https://admissions.ua.edu](https://admissions.ua.edu)
- - date_published: 2024-07-01T21:54:20.639415+00:00
-
- ## Admissions
- - [https://adm.ua.edu](https://adm.ua.edu)
- - date_published: 2024-07-01T21:54:09.170637+00:00
-
- ## Afford - Afford | The University of Alabama
- - [https://afford.ua.edu](https://afford.ua.edu)
- - date_published: 2024-07-01T21:54:18.257452+00:00
-
- ## The University of Alabama National Alumni Association
- - [https://alumni.ua.edu](https://alumni.ua.edu)
- - date_published: 2024-07-01T22:02:54.453268+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://as.ua.edu](https://as.ua.edu)
- - date_published: 2024-05-07T20:40:15.778686+00:00
-
- ## University of Alabama - Online and Distance Degrees - UA Online
- - [http://bamabydistance.ua.edu](http://bamabydistance.ua.edu)
- - date_published: 2024-07-01T21:49:09.767019+00:00
-
- ## Events Calendar
- - [https://calendar.ua.edu](https://calendar.ua.edu)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Careers at University of Alabama
- - [https://careers.ua.edu](https://careers.ua.edu)
- - date_published: 2024-07-01T21:51:30.412077+00:00
-
- ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [https://catalogs.ua.edu](https://catalogs.ua.edu)
- - date_published: 2024-05-07T20:40:08.577119+00:00
-
- ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [https://catalog.ua.edu](https://catalog.ua.edu)
- - date_published: 2024-05-07T20:40:54.119330+00:00
-
- ## College of Community Health Sciences –  | The University of Alabama
- - [http://cchs.ua.edu](http://cchs.ua.edu)
- - date_published: 2024-07-01T21:49:25.264140+00:00
-
- ## College of Communication & Information Sciences – Create Your Story
- - [http://cis.ua.edu](http://cis.ua.edu)
- - date_published: 2024-07-01T21:49:41.158573+00:00
-
- ## Center for Instructional Technology – Center for Instructional Technology | The University of Alabama
- - [https://cit.ua.edu](https://cit.ua.edu)
- - date_published: 2024-07-01T22:03:05.672470+00:00
-
- ## Community Affairs – Engaging Communities, Changing Lives | The University of Alabama
- - [http://communityaffairs.ua.edu](http://communityaffairs.ua.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Compliance and Risk Services - Compliance and Risk Services
- - [https://complianceandriskservices.ua.edu](https://complianceandriskservices.ua.edu)
- - date_published: 2024-07-01T21:55:33.886164+00:00
 

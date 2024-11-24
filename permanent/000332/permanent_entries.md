@@ -1,3 +1,72 @@
+ ## CAMCM
+ - [https://camcm.aefcm.gob.mx](https://camcm.aefcm.gob.mx)
+ - date_published: 2024-01-10T00:13:22+00:00
+
+ ## .::: Buró de Entidades Financieras :::.
+ - [http://www.buro.gob.mx](http://www.buro.gob.mx)
+ - date_published: 2024-07-12T06:00:19.940548+00:00
+
+ ## SecretarÃ­a de Movilidad de la CDMX
+ - [https://app.semovi.cdmx.gob.mx](https://app.semovi.cdmx.gob.mx)
+ - date_published: 2024-02-26T22:48:46+00:00
+
+ ## cloud.semovi.cdmx.gob.mx
+ - [https://cloud.semovi.cdmx.gob.mx](https://cloud.semovi.cdmx.gob.mx)
+ - date_published: 2024-04-18T20:41:10+00:00
+
+ ## Comisión Nacional Bancaria y de Valores | Gobierno | gob.mx
+ - [https://www.cnbv.gob.mx](https://www.cnbv.gob.mx)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Comisión Nacional para el Conocimiento y Uso de la Biodiversidad | Gobierno | gob.mx
+ - [http://www.conabio.gob.mx](http://www.conabio.gob.mx)
+ - date_published: 2021-09-04T04:33:45+00:00
+
+ ## Inicio – Conahcyt
+ - [https://www.conacyt.gob.mx](https://www.conacyt.gob.mx)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## GOB.mx - Guía de estilo | Error 403
+ - [https://webapps.condusef.gob.mx](https://webapps.condusef.gob.mx)
+ - date_published: 2019-04-04T11:15:15+00:00
+
+ ## Condusef
+ - [http://www.condusef.gob.mx](http://www.condusef.gob.mx)
+ - date_published: 2024-07-14T12:31:51.990875+00:00
+
+ ## Congreso del Estado de Tlaxcala – LXIV Legislatura
+ - [https://congresodetlaxcala.gob.mx](https://congresodetlaxcala.gob.mx)
+ - date_published: 2024-10-14T17:14:07.261675+00:00
+
+ ## Home - Gobierno Municipal 2022-2024
+ - [http://cuernavaca.gob.mx](http://cuernavaca.gob.mx)
+ - date_published: 2024-09-10T13:13:05.334295+00:00
+
+ ## Datos Abiertos de México - datos.gob.mx
+ - [https://datos.gob.mx](https://datos.gob.mx)
+ - date_published: 2024-06-12T01:20:02.762346+00:00
+
+ ## Boletines Dependencias
+ - [https://boletines.guanajuato.gob.mx](https://boletines.guanajuato.gob.mx)
+ - date_published: 2024-10-18T17:53:20.738292+00:00
+
+ ## IMCINE
+ - [https://www.imcine.gob.mx](https://www.imcine.gob.mx)
+ - date_published: 2024-09-10T14:53:48.570600+00:00
+
+ ## Marcanet
+ - [https://acervomarcas.impi.gob.mx](https://acervomarcas.impi.gob.mx)
+ - date_published: 2024-07-12T06:00:29.280158+00:00
+
+ ## Error
+ - [http://www.imss.gob.mx](http://www.imss.gob.mx)
+ - date_published: 2024-09-12T21:54:18.374157+00:00
+
+ ## Museo Nacional de Antropología
+ - [https://mna.inah.gob.mx](https://mna.inah.gob.mx)
+ - date_published: 2024-05-30T03:42:15.917963+00:00
+ - tags: ['museum']
+
  ## AGENDA DE MEJORA PARA PROGRAMAS PÚBLICOS ESTATALES
  - [https://agendasdemejora.jalisco.gob.mx](https://agendasdemejora.jalisco.gob.mx)
  - date_published: 2024-09-11T01:28:41.882452+00:00
@@ -3979,72 +4048,4 @@
  ## AutoHotkey Wiki
  - [https://ahkwiki.net](https://ahkwiki.net)
  - date_published: 2024-05-12T04:13:59.962012+00:00
-
- ## Home | Alexander Sorkine-Hornung
- - [http://ahornung.net](http://ahornung.net)
- - date_published: 2024-07-24T05:51:39.973009+00:00
-
- ## Home - Archaeology Review
- - [https://ahotcupofjoe.net](https://ahotcupofjoe.net)
- - date_published: 2024-06-24T10:01:56.350817+00:00
-
- ## AI4CC 2024
- - [https://ai4cc.net](https://ai4cc.net)
- - date_published: 2024-06-18T05:12:58+00:00
-
- ## Artificial Intelligence Companies Directory - Find Artificial Intelligence Companies - Artificial Intelligence Business Directory
- - [https://www.ai-businessdirectory.net](https://www.ai-businessdirectory.net)
- - date_published: 2024-10-30T19:51:13.269611+00:00
-
- ## Home - AICAT
- - [https://aicat.net](https://aicat.net)
- - date_published: 2024-10-18T21:26:41.096375+00:00
-
- ## Free AI Chat Website - Talk to AI Chatbot and Ask AI Anything Online
- - [https://www.aichatting.net](https://www.aichatting.net)
- - date_published: 2024-06-19T19:06:08.048975+00:00
-
- ## aicracy – governed by algorithms, finally.
- - [https://aicracy.net](https://aicracy.net)
- - date_published: 2023-10-25T20:24:04.381842+00:00
-
- ## Alibaba International IPP Platform
- - [https://ipp.aidcgroup.net](https://ipp.aidcgroup.net)
- - date_published: 2024-05-09T04:48:04.249714+00:00
-
- ## AI dream interpreter
- - [https://www.aidreaminterpreter.net](https://www.aidreaminterpreter.net)
- - date_published: 2024-06-19T19:22:44.946187+00:00
-
- ## AI & Big Data Expo World Series of Events
- - [https://ai-expo.net](https://ai-expo.net)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Asia Investor Group on Climate Change
- - [https://aigcc.net](https://aigcc.net)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## AIHelp Web Portal
- - [https://cdn.aihelp.net](https://cdn.aihelp.net)
- - date_published: 2024-04-18T13:35:22+00:00
-
- ## AI Horde
- - [https://aihorde.net](https://aihorde.net)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Grafana
- - [https://grafana.aihorde.net](https://grafana.aihorde.net)
- - date_published: 2024-09-15T13:36:50.085840+00:00
-
- ## Automated Interactive Infrastructure and Database for Computational Science — AiiDA  documentation
- - [https://aiida.net](https://aiida.net)
- - date_published: 2024-04-22T08:18:36+00:00
-
- ## AiiDAlab – AiiDA Jupyter Environment
- - [https://aiidalab.net](https://aiidalab.net)
- - date_published: 2024-06-17T16:55:42+00:00
-
- ## Jobs and Talents in AI, ML, Data Science and Big Data
- - [http://aijobs.net](http://aijobs.net)
- - date_published: 2024-09-04T11:25:20+00:00
 

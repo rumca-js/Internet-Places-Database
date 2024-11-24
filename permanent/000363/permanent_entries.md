@@ -1,3 +1,84 @@
+ ## Home | Datastory
+ - [https://datastory.org](https://datastory.org)
+ - date_published: 2024-06-23T08:14:56.824736+00:00
+
+ ## dataswamp.org
+ - [https://dataswamp.org](https://dataswamp.org)
+ - date_published: 2023-10-25T21:12:41.913989+00:00
+
+ ## Human-centered Data Thinking
+ - [https://www.datathinking.org](https://www.datathinking.org)
+ - date_published: 2024-07-01T09:44:59.292181+00:00
+
+ ## Digitogy.eu: The best gadget website in 2024
+ - [http://datatransparencylab.org](http://datatransparencylab.org)
+ - date_published: 2024-06-22T09:37:16+00:00
+
+ ## data.txt: Data for the Web
+ - [https://datatxt.org](https://datatxt.org)
+ - date_published: 2024-07-23T23:43:12.850593+00:00
+
+ ## Data Vending Machines
+ - [https://www.data-vending-machines.org](https://www.data-vending-machines.org)
+ - date_published: 2024-05-02T09:58:45+00:00
+
+ ## The Dataverse Project - Dataverse.org
+ - [http://dataverse.org](http://dataverse.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Data Visualization Society
+ - [https://datavisualizationsociety.org](https://datavisualizationsociety.org)
+ - date_published: 2024-08-19T07:02:27.850753+00:00
+
+ ## DVS Jobs | A job board for data visualization
+ - [https://jobs.datavisualizationsociety.org](https://jobs.datavisualizationsociety.org)
+ - date_published: 2024-08-19T07:02:32.565060+00:00
+
+ ## Nightingale Magazine
+ - [https://shop.datavisualizationsociety.org](https://shop.datavisualizationsociety.org)
+ - date_published: 2024-08-19T07:02:29.617405+00:00
+
+ ## Data-Vocabulary.org
+ - [https://data-vocabulary.org](https://data-vocabulary.org)
+ - date_published: 2023-12-13T16:06:19.374927+00:00
+
+ ## dat-ecosystem - explore p2p projects
+ - [https://dat-ecosystem.org](https://dat-ecosystem.org)
+ - date_published: 2024-02-08T21:26:06+00:00
+
+ ## date-fns blog
+ - [https://blog.date-fns.org](https://blog.date-fns.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Modern JavaScript Date Utility Library
+ - [https://date-fns.org](https://date-fns.org)
+ - date_published: 2024-06-23T03:59:20.812242+00:00
+
+ ## Adult Dating Sites - All The Truth About Adult Sites | DatingPeak
+ - [https://datingpeak.org](https://datingpeak.org)
+ - date_published: 2022-09-20T00:00:00+00:00
+ - tags: ['nudity']
+
+ ## Datos Freak :: Curiosidades :: Datos Curiosos – Desde 2003 recopilando datos y curiosidades del mundo categorizados y documentados con fuentes
+ - [http://www.datosfreak.org](http://www.datosfreak.org)
+ - date_published: 2024-07-01T05:58:54.135606+00:00
+
+ ## Fundación Datos Protegidos, ¡Involúcrate & Comparte!
+ - [https://datosprotegidos.org](https://datosprotegidos.org)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Datoviz Documentation
+ - [https://datoviz.org](https://datoviz.org)
+ - date_published: 2021-11-04T10:44:29+00:00
+
+ ## Dat.Foundation - A Community-Driven Web Protocol
+ - [https://datproject.org](https://datproject.org)
+ - date_published: 2022-01-30T17:50:31+00:00
+
+ ## Workshop on Data and Algorithmic Transparency
+ - [http://datworkshop.org](http://datworkshop.org)
+ - date_published: 2016-11-18T04:32:17+00:00
+
  ## dave everitt | home |
  - [https://daveeveritt.org](https://daveeveritt.org)
  - date_published: 2023-11-08T18:18:53+00:00
@@ -3953,85 +4034,4 @@
  ## Help Center
  - [https://help.dosomething.org](https://help.dosomething.org)
  - date_published: 2024-08-08T17:51:59.090394+00:00
-
- ## DoSomething Year in Review 2023
- - [https://www.dosomethingyir.org](https://www.dosomethingyir.org)
- - date_published: 2024-08-08T17:51:33.995727+00:00
-
- ## 502 Bad Gateway
- - [https://dotclear.org](https://dotclear.org)
- - date_published: 2024-04-28T02:10:34.239895+00:00
-
- ## git@dotclear
- - [https://git.dotclear.org](https://git.dotclear.org)
- - date_published: 2024-06-19T22:10:50.048170+00:00
-
- ## Dotenv
- - [https://www.dotenv.org](https://www.dotenv.org)
- - date_published: 2024-06-18T01:14:13+00:00
-
- ## DotGNU Project
- - [http://www.dotgnu.org](http://www.dotgnu.org)
- - date_published: 2012-12-19T01:28:02+00:00
-
- ## Dot Net Curry -
- - [https://dotnetcurry.org](https://dotnetcurry.org)
- - date_published: 2024-06-15T16:55:55.785564+00:00
-
- ## .NET Foundation | .NET Foundation
- - [https://dotnetfoundation.org](https://dotnetfoundation.org)
- - date_published: 2023-10-25T21:15:11.977111+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2015.dotnetfringe.org](http://2015.dotnetfringe.org)
- - date_published: 2015-04-12T00:00:00+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2016.dotnetfringe.org](http://2016.dotnetfringe.org)
- - date_published: 2016-07-10T00:00:00+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2017.dotnetfringe.org](http://2017.dotnetfringe.org)
- - date_published: 2017-06-04T00:00:00+00:00
-
- ## .NET Fringe - An atypical conference for open-source .NET developers
- - [https://dotnetfringe.org](https://dotnetfringe.org)
- - date_published: 2018-03-13T20:54:09+00:00
-
- ## About dotsrc
- - [https://dotsrc.org](https://dotsrc.org)
- - date_published: 2023-11-21T00:00:00+00:00
-
- ## mirrors.dotsrc.org
- - [http://mirrors.dotsrc.org](http://mirrors.dotsrc.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Double Edge Theatre
- - [https://doubleedgetheatre.org](https://doubleedgetheatre.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## DOUBLE MERSENNE PRIME | A distributed math search
- - [https://doublemersennes.org](https://doublemersennes.org)
- - date_published: 2024-04-10T08:11:08.178949+00:00
- - tags: ['math']
-
- ## DoublePell Campaign
- - [https://doublepell.org](https://doublepell.org)
- - date_published: 2024-09-27T21:47:09.976235+00:00
-
- ## A Way with Words
- - [http://doubletongued.org](http://doubletongued.org)
- - date_published: 2021-12-03T20:08:15+00:00
-
- ## Welcome - Doug Engelbart Institute
- - [https://dougengelbart.org](https://dougengelbart.org)
- - date_published: 2024-08-06T09:28:04+00:00
-
- ## Dovecot manual — Dovecot documentation
- - [https://doc.dovecot.org](https://doc.dovecot.org)
- - date_published: 2024-06-13T04:53:45+00:00
-
- ## Dovecot | The Secure IMAP server
- - [https://dovecot.org](https://dovecot.org)
- - date_published: 2024-05-14T03:49:49.329164+00:00
 

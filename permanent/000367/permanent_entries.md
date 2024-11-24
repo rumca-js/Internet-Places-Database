@@ -1,3 +1,84 @@
+ ## foundweekends — foundweekends
+ - [https://www.foundweekends.org](https://www.foundweekends.org)
+ - date_published: 2023-09-11T22:29:22+00:00
+
+ ## Four Mile Historic Park | House museum & landmark in Denver, Colorado
+ - [https://www.fourmilepark.org](https://www.fourmilepark.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Four Springs Retreat Middletown California
+ - [http://foursprings.org](http://foursprings.org)
+ - date_published: 2023-08-12T05:03:22+00:00
+
+ ## Four Thieves Vinegar Collective – Harm Reduction for the Living
+ - [https://fourthievesvinegar.org](https://fourthievesvinegar.org)
+ - date_published: 2024-09-07T14:19:25+00:00
+
+ ## Davenport Veterans Memorial Park
+ - [https://fovmp.org](https://fovmp.org)
+ - date_published: 2024-04-25T15:30:47+00:00
+
+ ## Friends of Wissahickon
+ - [https://events.fow.org](https://events.fow.org)
+ - date_published: 2024-08-19T08:50:45.133676+00:00
+
+ ## Fox Federal Credit Union: Coast to Coast Financial Services
+ - [https://www.foxcredit.org](https://www.foxcredit.org)
+ - date_published: 2024-09-28T20:00:49.914772+00:00
+
+ ## The History of FoxPro
+ - [http://foxprohistory.org](http://foxprohistory.org)
+ - date_published: 2023-10-25T21:22:16.878309+00:00
+
+ ## Foyer Vietnam
+ - [http://www.foyer-vietnam.org](http://www.foyer-vietnam.org)
+ - date_published: 2024-06-18T13:14:25+00:00
+
+ ## · Tutorial
+ - [http://fpanalysistools.org](http://fpanalysistools.org)
+ - date_published: 2020-01-27T22:10:02+00:00
+
+ ## FPBench
+ - [https://fpbench.org](https://fpbench.org)
+ - date_published: 2024-05-06T22:45:53.943793+00:00
+
+ ## Home - First Presbyterian Church of Santa Monica
+ - [https://fpcsantamonica.org](https://fpcsantamonica.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Financial Partners Credit Union | Best CA Credit Union | Banking
+ - [https://www.fpcu.org](https://www.fpcu.org)
+ - date_published: 2024-05-09T07:35:33.558950+00:00
+
+ ## FreedomProject Academy | Faithfully Educating America
+ - [https://fpeusa.org](https://fpeusa.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - Future of Privacy Forum
+ - [https://engage.fpf.org](https://engage.fpf.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Future of Privacy Forum
+ - [https://fpf.org](https://fpf.org)
+ - date_published: 2024-06-18T17:36:30.626711+00:00
+
+ ## FPGAcademy
+ - [https://fpgacademy.org](https://fpgacademy.org)
+ - date_published: 2024-06-08T11:03:49+00:00
+ - tags: ['fpga']
+
+ ## Foreign Policy in Focus
+ - [http://www.fpif.org](http://www.fpif.org)
+ - date_published: 2024-10-21T12:56:42.291364+00:00
+
+ ## fping Homepage
+ - [https://www.fping.org](https://www.fping.org)
+ - date_published: 2024-04-22T05:43:06+00:00
+
+ ## Home | Fundación Pasqual Maragall
+ - [https://fpmaragall.org](https://fpmaragall.org)
+ - date_published: 2024-07-02T10:45:10.219860+00:00
+
  ## The Flying Pigs QRP Club International - W8PIG
  - [http://fpqrp.org](http://fpqrp.org)
  - date_published: 2024-06-29T08:00:06.512166+00:00
@@ -3973,86 +4054,4 @@ encryption
  ## Geoscience Information Society – Professional society for geoscience librarians
  - [http://www.geoinfo.org](http://www.geoinfo.org)
  - date_published: 2020-01-17T00:00:00+00:00
-
- ## geojournalism.org
- - [http://geojournalism.org](http://geojournalism.org)
- - date_published: 2024-08-18T05:26:06.041749+00:00
-
- ## GeoJSON
- - [https://geojson.org](https://geojson.org)
- - date_published: 2019-05-07T15:34:25+00:00
-
- ## Geomagnetism
- - [http://geomag.org](http://geomag.org)
- - date_published: 2024-07-10T05:47:48.138858+00:00
-
- ## The Geomblog
- - [http://blog.geomblog.org](http://blog.geomblog.org)
- - date_published: 2024-06-28T13:33:18+00:00
-
- ## GeoNames
- - [https://download.geonames.org](https://download.geonames.org)
- - date_published: 2024-07-10T03:10:21.625196+00:00
-
- ## GeoNames Forum
- - [http://forum.geonames.org](http://forum.geonames.org)
- - date_published: 2024-07-10T03:10:05.785847+00:00
-
- ## GeoNames
- - [https://geonames.org](https://geonames.org)
- - date_published: 2024-05-09T07:19:33.485060+00:00
-
- ## GeoPandas 0.14.4 — GeoPandas 0.14.4+0.g60c9773.dirty documentation
- - [https://geopandas.org](https://geopandas.org)
- - date_published: 2024-04-28T13:57:20+00:00
-
- ## GEOSS Portal
- - [https://geoportal.org](https://geoportal.org)
- - date_published: 2024-06-12T12:17:10.002294+00:00
-
- ## Hello! I’m George (a.k.a. eigenfoo)
- - [https://georgeho.org](https://georgeho.org)
- - date_published: 2023-12-20T00:00:00+00:00
- - tags: ['personal']
-
- ## Home | The George Institute for Global Health
- - [https://www.georgeinstitute.org](https://www.georgeinstitute.org)
- - date_published: 2024-09-13T17:17:48.022969+00:00
-
- ## Home - George J. Pappas
- - [https://www.georgejpappas.org](https://www.georgejpappas.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## George Orwell - Complete works, Biography, Quotes, Essays
- - [https://george-orwell.org](https://george-orwell.org)
- - date_published: 2024-07-02T08:41:30+00:00
- - tags: ['george orwell']
-
- ## I am traffic
- - [https://georgeroter.org](https://georgeroter.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Home - Georgetown Center on Poverty and Inequality
- - [https://www.georgetownpoverty.org](https://www.georgetownpoverty.org)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Institute for Technology Law & Policy
- - [https://www.georgetowntech.org](https://www.georgetowntech.org)
- - date_published: 2024-07-16T20:40:19.868288+00:00
-
- ## Home - Friends of Georgetown Waterfront Park
- - [http://georgetownwaterfrontpark.org](http://georgetownwaterfrontpark.org)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Georgia Department of Economic Development | #1 State for Business
- - [https://georgia.org](https://georgia.org)
- - date_published: 2024-10-31T15:13:02+00:00
-
- ## Home - Georgia 4-H
- - [https://georgia4h.org](https://georgia4h.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Georgia Artificial Intelligence in Manufacturing Georgia AI in Manufacturing
- - [https://georgiaaim.org](https://georgiaaim.org)
- - date_published: 2024-03-08T00:00:00+00:00
 

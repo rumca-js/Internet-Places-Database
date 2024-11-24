@@ -1,3 +1,63 @@
+ ## MyHCC
+ - [https://my.hccfl.edu](https://my.hccfl.edu)
+ - date_published: 2024-04-16T02:08:01+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://news.hccfl.edu](https://news.hccfl.edu)
+ - date_published: 2024-07-20T22:29:11.439325+00:00
+
+ ## Hebrew College - A Private, Not-for-Profit College of Jewish Studies in MA
+ - [https://hebrewcollege.edu](https://hebrewcollege.edu)
+ - date_published: 2024-07-14T14:33:51.616869+00:00
+
+ ## HEC Paris
+ - [http://www.hec.edu](http://www.hec.edu)
+ - date_published: 2024-06-17T10:11:44+00:00
+
+ ## Admission | Hendrix College
+ - [https://apply.hendrix.edu](https://apply.hendrix.edu)
+ - date_published: 2024-06-30T02:01:26.400578+00:00
+
+ ## Hendrix College
+ - [https://hendrix.edu](https://hendrix.edu)
+ - date_published: 2024-05-07T14:49:45.124041+00:00
+
+ ## Testing!
+ - [http://ozark.hendrix.edu](http://ozark.hendrix.edu)
+ - date_published: 2019-04-04T14:46:31+00:00
+
+ ## Home | Hendrix College Spirit Store
+ - [https://spirit.hendrix.edu](https://spirit.hendrix.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - High Point Dining
+ - [https://dining.highpoint.edu](https://dining.highpoint.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Undergraduate Admissions - Undergraduate Admissions
+ - [https://discover.highpoint.edu](https://discover.highpoint.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home - High Point University
+ - [https://engage.highpoint.edu](https://engage.highpoint.edu)
+ - date_published: 2024-06-30T10:53:18.417404+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://highpoint.edu](https://highpoint.edu)
+ - date_published: 2024-05-07T16:13:51.345944+00:00
+
+ ## - HPU Connect
+ - [https://involved.highpoint.edu](https://involved.highpoint.edu)
+ - date_published: 2024-06-30T10:53:16.384733+00:00
+
+ ## Home
+ - [https://academy.hillsdale.edu](https://academy.hillsdale.edu)
+ - date_published: 2024-08-06T20:01:50.633012+00:00
+
+ ## Admissions
+ - [https://apply2.hillsdale.edu](https://apply2.hillsdale.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
  ## The Blake Center for Faith and Freedom | Hillsdale College
  - [https://blakecenter.hillsdale.edu](https://blakecenter.hillsdale.edu)
  - date_published: 2024-05-14T00:00:00+00:00
@@ -3949,64 +4009,4 @@ Data Services
  ## College Archives –  | Kalamazoo College
  - [https://archives.kzoo.edu](https://archives.kzoo.edu)
  - date_published: 2024-05-07T19:23:11.169551+00:00
-
- ## Arcus Center for Social Justice Leadership –  | Kalamazoo College
- - [https://arcuscenter.kzoo.edu](https://arcuscenter.kzoo.edu)
- - date_published: 2024-05-07T19:24:52.364476+00:00
-
- ## Art and Art History –  | Kalamazoo College
- - [https://art.kzoo.edu](https://art.kzoo.edu)
- - date_published: 2024-05-07T19:22:26.978143+00:00
-
- ## Black Faculty and Staff Association –  | Kalamazoo College
- - [https://bafsa.kzoo.edu](https://bafsa.kzoo.edu)
- - date_published: 2024-05-07T19:21:24.545397+00:00
-
- ## Student Accounts –  | Kalamazoo College
- - [https://billing.kzoo.edu](https://billing.kzoo.edu)
- - date_published: 2024-05-07T19:23:13.966047+00:00
-
- ## Biology –  | Kalamazoo College
- - [https://biology.kzoo.edu](https://biology.kzoo.edu)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Room Reservations –  | Kalamazoo College
- - [https://bookaroom.kzoo.edu](https://bookaroom.kzoo.edu)
- - date_published: 2024-05-07T19:24:13.323399+00:00
-
- ## BrandK –  | Kalamazoo College
- - [https://brandk.kzoo.edu](https://brandk.kzoo.edu)
- - date_published: 2024-05-07T19:24:10.909125+00:00
-
- ## DSpace
- - [https://cache.kzoo.edu](https://cache.kzoo.edu)
- - date_published: 2024-02-27T07:26:20+00:00
-
- ## Campus Safety –  | Kalamazoo College
- - [https://campussafety.kzoo.edu](https://campussafety.kzoo.edu)
- - date_published: 2024-05-07T19:23:30.879105+00:00
-
- ## Center for Career and Professional Development –  | Kalamazoo College
- - [https://career.kzoo.edu](https://career.kzoo.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Careers in Health –  | Kalamazoo College
- - [https://careersinhealth.kzoo.edu](https://careersinhealth.kzoo.edu)
- - date_published: 2024-05-07T19:22:56.389888+00:00
-
- ## The Cauldron – Kalamazoo's annual literary and visual arts magazine –  | Kalamazoo College
- - [https://cauldron.kzoo.edu](https://cauldron.kzoo.edu)
- - date_published: 2024-05-07T19:21:55.073843+00:00
-
- ## Center for Civic Engagement –  | Kalamazoo College
- - [https://cce.kzoo.edu](https://cce.kzoo.edu)
- - date_published: 2024-05-07T19:25:04.811810+00:00
-
- ## Center for Complex Systems Studies –  | Kalamazoo College
- - [https://ccss.kzoo.edu](https://ccss.kzoo.edu)
- - date_published: 2024-05-07T19:22:01.068287+00:00
-
- ## Department of Chemistry and Biochemistry –  | Kalamazoo College
- - [https://chemistry.kzoo.edu](https://chemistry.kzoo.edu)
- - date_published: 2024-05-07T19:22:40.957290+00:00
 
