@@ -1,3 +1,74 @@
+ ## Codon | Niko McCarty | Substack
+ - [https://cell.substack.com](https://cell.substack.com)
+ - date_published: 2023-10-25T09:44:41.858083+00:00
+ - tags: ['substack']
+
+ ## The Century of Biology | Elliot Hershberg | Substack
+ - [https://centuryofbio.substack.com](https://centuryofbio.substack.com)
+ - date_published: 2023-10-25T09:44:44.711477+00:00
+ - tags: ['substack']
+
+ ## CerraJazz Substack | Steven Cerra | Substack
+ - [https://cerra.substack.com](https://cerra.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Dopamina a fuego lento | Carlos Fenollosa | Substack
+ - [https://cfenollosa.substack.com](https://cfenollosa.substack.com)
+ - date_published: 2024-05-08T04:47:43.971651+00:00
+
+ ## Chamath Palihapitiya | Substack
+ - [https://chamathreads.substack.com](https://chamathreads.substack.com)
+ - date_published: 2023-10-25T09:44:47.316484+00:00
+ - tags: ['substack']
+
+ ## Chamath Palihapitiya | Substack
+ - [https://chamath.substack.com](https://chamath.substack.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## China Animal Welfare Translations  | Gabriel Wagner | Substack
+ - [https://chanimal.substack.com](https://chanimal.substack.com)
+ - date_published: 2024-06-29T10:46:12.960177+00:00
+
+ ## The Science of Better | Charles Duhigg | Substack
+ - [https://charlesduhigg.substack.com](https://charlesduhigg.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Charles Eisenstein | Substack
+ - [https://charleseisenstein.substack.com](https://charleseisenstein.substack.com)
+ - date_published: 2024-01-09T01:38:26.098409+00:00
+
+ ## The Wall | Charles McKenna | Substack
+ - [https://charlesmckenna.substack.com](https://charlesmckenna.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## CHARL-E | Charlie's Newsletter | Substack
+ - [https://charleupdates.substack.com](https://charleupdates.substack.com)
+ - date_published: 2024-05-08T04:49:31.879949+00:00
+
+ ## Castles in the Sky | Charlie Becker | Substack
+ - [https://charliebecker.substack.com](https://charliebecker.substack.com)
+ - date_published: 2024-01-09T01:38:28.560827+00:00
+
+ ## Charlie Rose Conversations | Substack
+ - [https://charlierose.substack.com](https://charlierose.substack.com)
+ - date_published: 2024-07-15T09:56:08.269426+00:00
+
+ ## The Blonde not Beige Archive | Charlotte Dallison | Substack
+ - [https://charlottedallison.substack.com](https://charlottedallison.substack.com)
+ - date_published: 2024-06-20T20:53:36.340629+00:00
+
+ ## Charybdis | Samir Unni | Substack
+ - [https://charybdis.substack.com](https://charybdis.substack.com)
+ - date_published: 2024-10-27T11:25:51.065753+00:00
+
+ ## The Checklist | Meedan | Substack
+ - [https://checklist.substack.com](https://checklist.substack.com)
+ - date_published: 2024-07-14T05:10:17.250541+00:00
+
+ ## ChellayTiger’s Substack | Substack
+ - [https://chellaytiger.substack.com](https://chellaytiger.substack.com)
+ - date_published: 2024-07-11T23:21:14.365924+00:00
+
  ## Chelsey Flood notes | Substack
  - [http://chelseyflood.substack.com](http://chelseyflood.substack.com)
  - date_published: 2024-03-07T00:00:00+00:00
@@ -4010,73 +4081,4 @@
  ## Level Up by Ethan Evans | Substack
  - [https://levelupwithethanevans.substack.com](https://levelupwithethanevans.substack.com)
  - date_published: 2024-04-19T00:00:00+00:00
-
- ## Leviathan | Wessel van Rensburg | Substack
- - [https://leviathan.substack.com](https://leviathan.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Religious in Tech | Levi Nunnink | Substack
- - [https://levinunnink.substack.com](https://levinunnink.substack.com)
- - date_published: 2024-07-02T20:43:29.986923+00:00
-
- ## The Looking Glass | Julie Zhuo | Substack
- - [https://lg.substack.com](https://lg.substack.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## ICYMI by Lia Haberman | Substack
- - [https://liahaberman.substack.com](https://liahaberman.substack.com)
- - date_published: 2023-10-25T09:57:18.422857+00:00
- - tags: ['substack']
-
- ## Liam Sturgess | Substack
- - [https://liamsturgess.substack.com](https://liamsturgess.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Liberty Papers | Ken Smith | Substack
- - [https://libertypapers.substack.com](https://libertypapers.substack.com)
- - date_published: 2024-07-01T09:11:56.157388+00:00
-
- ## The Library of Celaeno | Librarian of Celaeno | Substack
- - [https://librarianofcelaeno.substack.com](https://librarianofcelaeno.substack.com)
- - date_published: 2024-10-31T22:38:42.256686+00:00
-
- ## library/card’s Newsletter | cav/ar | Substack
- - [https://librarycard.substack.com](https://librarycard.substack.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Libre Solutions Network | Gabriel | Substack
- - [https://libresolutionsnetwork.substack.com](https://libresolutionsnetwork.substack.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Life and Letters | Julianne Werlin | Substack
- - [https://lifeandletters.substack.com](https://lifeandletters.substack.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Lifeline Comics Substack | Kat & Phil | Substack
- - [https://lifelinecomics.substack.com](https://lifelinecomics.substack.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Lightning Bug | Scott Marsland, FNP-C | Substack
- - [https://lightningbug.substack.com](https://lightningbug.substack.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## No Bad Cards with Lindsay Mack | Substack
- - [https://lindsaymack.substack.com](https://lindsaymack.substack.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Lindy Letters | Peter Hagen | Substack
- - [https://lindylearn.substack.com](https://lindylearn.substack.com)
- - date_published: 2024-05-12T05:40:36.238874+00:00
-
- ## Lingthusiasm’s Newsletter | Substack
- - [https://lingthusiasm.substack.com](https://lingthusiasm.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Lingua Sinica | Substack
- - [https://linguasinica.substack.com](https://linguasinica.substack.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Links I Would Gchat You If We Were Friends | Caitlin Dewey | Substack
- - [https://linksiwouldgchatyou.substack.com](https://linksiwouldgchatyou.substack.com)
- - date_published: 2024-03-01T00:00:00+00:00
 

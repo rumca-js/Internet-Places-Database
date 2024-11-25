@@ -1,3 +1,75 @@
+ ## The Spirit's Call
+ - [http://capost2k.wordpress.com](http://capost2k.wordpress.com)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Captain Apathy's Secret Lab
+ - [https://captainapathy.wordpress.com](https://captainapathy.wordpress.com)
+ - date_published: 2024-10-31T17:21:29.593706+00:00
+
+ ## CaptainAwkward.com
+ - [https://captainawkwarddotcom.wordpress.com](https://captainawkwarddotcom.wordpress.com)
+ - date_published: 2024-06-17T10:40:09.190771+00:00
+
+ ## CAPTAP
+ - [https://captapnetwork.wordpress.com](https://captapnetwork.wordpress.com)
+ - date_published: 2024-07-10T08:45:29.018673+00:00
+
+ ## Writings of a Cornish Classicist
+ - [https://carasheldrake.wordpress.com](https://carasheldrake.wordpress.com)
+ - date_published: 2024-06-24T10:18:46.309921+00:00
+
+ ## The Carbon Dioxide Ensemble (CO2E)
+ - [https://carbondioxideensemble.wordpress.com](https://carbondioxideensemble.wordpress.com)
+ - date_published: 2024-06-21T23:49:36.931090+00:00
+
+ ## Carcinisation
+ - [https://carcinisation.wordpress.com](https://carcinisation.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Carers Speaking Out
+ - [https://carersspeakingout.wordpress.com](https://carersspeakingout.wordpress.com)
+ - date_published: 2024-10-21T15:38:26.266179+00:00
+
+ ## Ruff Notes
+ - [https://carinruff.wordpress.com](https://carinruff.wordpress.com)
+ - date_published: 2024-06-24T10:22:56.336106+00:00
+
+ ## Parapsychology
+ - [http://carlossalvarado.wordpress.com](http://carlossalvarado.wordpress.com)
+ - date_published: 2024-10-29T18:36:40.804367+00:00
+
+ ## Carly Brown
+ - [https://carlyjbrown.wordpress.com](https://carlyjbrown.wordpress.com)
+ - date_published: 2024-06-29T09:05:00+00:00
+
+ ## The Carnal Carnival
+ - [https://carnalcarnival.wordpress.com](https://carnalcarnival.wordpress.com)
+ - date_published: 2024-10-19T06:26:03.707312+00:00
+
+ ## Filling the Well
+ - [https://carriev.wordpress.com](https://carriev.wordpress.com)
+ - date_published: 2024-05-08T06:43:22.879940+00:00
+
+ ## Private Site
+ - [https://cartastrophe.wordpress.com](https://cartastrophe.wordpress.com)
+ - date_published: 2024-06-20T03:52:46.392313+00:00
+
+ ## Carter and Complexity
+ - [http://carterschonwald.wordpress.com](http://carterschonwald.wordpress.com)
+ - date_published: 2024-06-30T11:03:31.168774+00:00
+
+ ## Casey Handmer's blog – Space, Travel, Technology, 3D Printing, Energy, Writing
+ - [https://caseyhandmer.wordpress.com](https://caseyhandmer.wordpress.com)
+ - date_published: 2023-10-25T18:09:57.703133+00:00
+
+ ## cassidyslangscam
+ - [http://cassidyslangscam.wordpress.com](http://cassidyslangscam.wordpress.com)
+ - date_published: 2024-06-29T03:19:57.043663+00:00
+
+ ## Devil's Advocates
+ - [https://cassiejourney.wordpress.com](https://cassiejourney.wordpress.com)
+ - date_published: 2024-08-19T21:46:58.745569+00:00
+
  ## Cass Morris -- Author
  - [https://cassmorriswrites.wordpress.com](https://cassmorriswrites.wordpress.com)
  - date_published: 2024-05-08T04:33:32.468021+00:00
@@ -3933,76 +4005,4 @@
  ## fulltimesportsfan
  - [https://fulltimesportsfan.wordpress.com](https://fulltimesportsfan.wordpress.com)
  - date_published: 2024-07-04T13:19:44.059393+00:00
-
- ## Functional C++
- - [http://functionalcpp.wordpress.com](http://functionalcpp.wordpress.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Funky16Corners
- - [http://funky16corners.wordpress.com](http://funky16corners.wordpress.com)
- - date_published: 2024-10-21T05:28:17.343138+00:00
-
- ## Private Site
- - [https://funwwords.wordpress.com](https://funwwords.wordpress.com)
- - date_published: 2024-06-22T10:04:05.792775+00:00
-
- ## Scrapbookpages Blog
- - [https://furtherglory.wordpress.com](https://furtherglory.wordpress.com)
- - date_published: 2024-06-27T09:44:52.745375+00:00
-
- ## FUTURE ALBERTA
- - [http://futurealberta.wordpress.com](http://futurealberta.wordpress.com)
- - date_published: 2024-07-20T15:44:31.248372+00:00
-
- ## Future of the LMS
- - [http://futurelms.wordpress.com](http://futurelms.wordpress.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Futures and Pasts
- - [http://futuresandpasts.wordpress.com](http://futuresandpasts.wordpress.com)
- - date_published: 2024-10-21T18:51:16.451105+00:00
-
- ## Fuzzy Logic
- - [http://fuzislippers.wordpress.com](http://fuzislippers.wordpress.com)
- - date_published: 2024-06-27T10:34:03.729828+00:00
-
- ## fussy fuZZy face
- - [http://fuzzyfacial.wordpress.com](http://fuzzyfacial.wordpress.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## i passatempi infantili di gabbi
- - [http://gabbigames.wordpress.com](http://gabbigames.wordpress.com)
- - date_published: 2024-10-26T17:54:23.654900+00:00
-
- ## gaberlungi
- - [http://gaberlungi.wordpress.com](http://gaberlungi.wordpress.com)
- - date_published: 2024-07-04T13:17:59.522761+00:00
-
- ## Gaijin Mama
- - [http://gaijinmama.wordpress.com](http://gaijinmama.wordpress.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Pierre-Yves Gaillard's Weblog
- - [http://gaillardpy.wordpress.com](http://gaillardpy.wordpress.com)
- - date_published: 2024-06-30T08:27:00.431653+00:00
-
- ## Our Finite World
- - [http://gailtheactuary.wordpress.com](http://gailtheactuary.wordpress.com)
- - date_published: 2024-06-30T04:52:10+00:00
-
- ## So I decided to take my work back underground
- - [https://gaiustech.wordpress.com](https://gaiustech.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Galactic Anthropology
- - [https://galacticanthropology.wordpress.com](https://galacticanthropology.wordpress.com)
- - date_published: 2024-08-11T23:45:11+00:00
-
- ## galadrim
- - [http://galadrim.wordpress.com](http://galadrim.wordpress.com)
- - date_published: 2024-10-19T07:02:47.947599+00:00
-
- ## SLNKB
- - [http://gallimaufree.wordpress.com](http://gallimaufree.wordpress.com)
- - date_published: 2024-08-07T15:00:06.645996+00:00
 

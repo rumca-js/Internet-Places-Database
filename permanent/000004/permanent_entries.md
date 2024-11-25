@@ -1,3 +1,7 @@
+ ## Wisecut | AI Video Editor
+ - [https://www.wisecut.ai](https://www.wisecut.ai)
+ - date_published: 2024-10-30T20:52:28.000661+00:00
+
  ## Wispr
  - [https://wispr.ai](https://wispr.ai)
  - date_published: 2024-03-13T00:00:00+00:00
@@ -4014,8 +4018,4 @@
  ## Hive | Fulfillment Provider | All-in-one Operations
  - [https://www.hive.app](https://www.hive.app)
  - date_published: 2024-06-12T00:00:00+00:00
-
- ## Hive Social
- - [https://hivesocial.app](https://hivesocial.app)
- - date_published: 2024-02-16T00:00:00+00:00
 

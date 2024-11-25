@@ -1,3 +1,23 @@
+ ## Piedmont Writer
+ - [http://piedmontwriter.blogspot.com](http://piedmontwriter.blogspot.com)
+ - date_published: 2024-10-17T22:53:38.535471+00:00
+
+ ## Pier(ef)fect
+ - [https://pier-ef-fect.blogspot.com](https://pier-ef-fect.blogspot.com)
+ - date_published: 2024-09-02T16:27:39+00:00
+
+ ## PIERRE LOYVET ARTWORKS
+ - [http://pierreloyvet.blogspot.com](http://pierreloyvet.blogspot.com)
+ - date_published: 2024-08-30T04:57:00+00:00
+
+ ## Pretty Happy Dummies
+ - [http://pietchdi.blogspot.com](http://pietchdi.blogspot.com)
+ - date_published: 2024-03-13T14:55:34+00:00
+
+ ## DOMUS project
+ - [http://pietrasupietra.blogspot.com](http://pietrasupietra.blogspot.com)
+ - date_published: 2024-08-12T10:36:36+00:00
+
  ## Pietro Saba World
  - [http://pietrosabaworld.blogspot.com](http://pietrosabaworld.blogspot.com)
  - date_published: 2024-09-02T12:05:27+00:00
@@ -3992,24 +4012,4 @@
  ## The Southeast Asia Movie Theater Project
  - [http://seatheater.blogspot.com](http://seatheater.blogspot.com)
  - date_published: 2024-06-24T06:46:05+00:00
-
- ## Sea to Sea
- - [http://seatoseawithpatricksweeney.blogspot.com](http://seatoseawithpatricksweeney.blogspot.com)
- - date_published: 2024-10-07T05:02:35+00:00
-
- ## Seaweed, Sand & Sunsets
- - [http://seaweedsandandsunsets.blogspot.com](http://seaweedsandandsunsets.blogspot.com)
- - date_published: 2024-09-05T03:15:55+00:00
-
- ## Ce que nous réserve le passé - Le blog de Seb Musset
- - [http://sebmusset.blogspot.com](http://sebmusset.blogspot.com)
- - date_published: 2024-07-09T09:42:33+00:00
-
- ## Muts' Blog
- - [https://secmaniac.blogspot.com](https://secmaniac.blogspot.com)
- - date_published: 2024-03-13T20:12:50+00:00
-
- ## Second Bedroom Project Space
- - [http://secondbedroomproject.blogspot.com](http://secondbedroomproject.blogspot.com)
- - date_published: 2024-03-05T04:09:11+00:00
 

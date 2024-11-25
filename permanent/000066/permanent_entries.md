@@ -1,3 +1,23 @@
+ ## BMJ clinical CPD courses for GPs, Physicians and Nurses.
+ - [http://masterclasses.bmj.com](http://masterclasses.bmj.com)
+ - date_published: 2024-07-03T15:32:25.417082+00:00
+
+ ## Homepage | BMJ Mental Health
+ - [https://mentalhealth.bmj.com](https://mentalhealth.bmj.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Homepage | Medical Humanities
+ - [https://mh.bmj.com](https://mh.bmj.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Homepage | BMJ Military Health
+ - [https://militaryhealth.bmj.com](https://militaryhealth.bmj.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## BMJ My Account - Sign in
+ - [https://myaccount.bmj.com](https://myaccount.bmj.com)
+ - date_published: 2024-05-08T03:00:54.563195+00:00
+
  ## Homepage | BMJ Neurology Open
  - [https://neurologyopen.bmj.com](https://neurologyopen.bmj.com)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -4012,24 +4032,4 @@
  ## Bosa Themes – Bosa Theme Shop
  - [https://bosathemes.com](https://bosathemes.com)
  - date_published: 2024-05-08T09:45:08.358390+00:00
-
- ## Bosa Theme Demos – Demos of Bosa Theme
- - [https://demo.bosathemes.com](https://demo.bosathemes.com)
- - date_published: 2024-07-07T06:28:02.831836+00:00
-
- ## Want to know how to live #LikeABosch?
- - [https://bosch.com](https://bosch.com)
- - date_published: 2024-05-14T02:51:08.122334+00:00
-
- ## Careers at Bosch
- - [https://jobs.bosch.com](https://jobs.bosch.com)
- - date_published: 2024-06-19T10:10:18.162538+00:00
-
- ## Bosch PSIRT
- - [https://psirt.bosch.com](https://psirt.bosch.com)
- - date_published: 2024-07-04T10:30:58+00:00
-
- ## Supply chain
- - [http://purchasing.bosch.com](http://purchasing.bosch.com)
- - date_published: 2024-06-13T14:06:25+00:00
 

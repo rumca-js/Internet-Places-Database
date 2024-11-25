@@ -1,3 +1,123 @@
+ ## Join 40,000+ other designers levelling up their design career
+ - [https://femke.ck.page](https://femke.ck.page)
+ - date_published: 2024-04-29T07:18:24.862699+00:00
+
+ ## Hi! I'm Tae from Financial Tortoise.
+ - [https://financial-tortoise.ck.page](https://financial-tortoise.ck.page)
+ - date_published: 2024-10-31T08:17:47+00:00
+
+ ## Hi! We're the FinCon Team.
+ - [https://fincon.ck.page](https://fincon.ck.page)
+ - date_published: 2024-10-31T06:37:26+00:00
+
+ ## Follow along on my journey
+ - [https://fivesixseven.ck.page](https://fivesixseven.ck.page)
+ - date_published: 2024-06-11T02:02:33+00:00
+
+ ## The page you were looking for doesn't exist (404)
+ - [https://flightcontrol.ck.page](https://flightcontrol.ck.page)
+ - date_published: 2024-04-29T07:44:00.936914+00:00
+
+ ## Floris Gierman | Extramilest
+ - [https://floris-gierman.ck.page](https://floris-gierman.ck.page)
+ - date_published: 2023-06-09T00:00:00+00:00
+
+ ## The Fluency Course
+ - [https://fluency-course.ck.page](https://fluency-course.ck.page)
+ - date_published: 2024-09-02T16:30:40+00:00
+
+ ## Less Work. More Freedom.
+ - [https://garthdew.ck.page](https://garthdew.ck.page)
+ - date_published: 2024-05-04T07:28:23.013549+00:00
+
+ ## Golden
+ - [https://goldencom.ck.page](https://goldencom.ck.page)
+ - date_published: 2024-08-08T23:35:02+00:00
+
+ ## Rev Up for the Week
+ - [https://grahamallcott.ck.page](https://grahamallcott.ck.page)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Weekly Wisdom by Graham Mann
+ - [https://grahammann.ck.page](https://grahammann.ck.page)
+ - date_published: 2024-06-23T11:10:55+00:00
+
+ ## Grumpy Wizard Blog
+ - [https://grumpy-wizard-blog.ck.page](https://grumpy-wizard-blog.ck.page)
+ - date_published: 2024-08-18T09:24:05+00:00
+
+ ## Applied LLMs
+ - [https://hamel.ck.page](https://hamel.ck.page)
+ - date_published: 2024-08-19T16:43:39+00:00
+
+ ## Pete from High Signal
+ - [https://highsignalnewsletter.ck.page](https://highsignalnewsletter.ck.page)
+ - date_published: 2024-06-22T12:53:47+00:00
+
+ ## How To Market A Game
+ - [https://htmag.ck.page](https://htmag.ck.page)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Saifedean Ammous
+ - [https://hustling-composer-4525.ck.page](https://hustling-composer-4525.ck.page)
+ - date_published: 2024-09-19T21:39:42+00:00
+
+ ## The page you were looking for doesn't exist (404)
+ - [https://hyphenated-enterprises-llc-2.ck.page](https://hyphenated-enterprises-llc-2.ck.page)
+ - date_published: 2024-04-29T09:09:26.601743+00:00
+
+ ## Joel Runyon
+ - [https://impossible.ck.page](https://impossible.ck.page)
+ - date_published: 2024-08-19T09:02:14+00:00
+
+ ## IM To Thrive
+ - [https://imtothrive.ck.page](https://imtothrive.ck.page)
+ - date_published: 2024-08-18T12:20:46+00:00
+
+ ## Indystry.cc
+ - [https://indystry-cc.ck.page](https://indystry-cc.ck.page)
+ - date_published: 2024-07-03T21:35:26+00:00
+
+ ## Ramit Sethi
+ - [https://i-will-teach-you-to-be-rich.ck.page](https://i-will-teach-you-to-be-rich.ck.page)
+ - date_published: 2024-06-30T03:26:47+00:00
+
+ ## James Clear
+ - [https://jamesclear.ck.page](https://jamesclear.ck.page)
+ - date_published: 2024-08-19T08:32:41+00:00
+
+ ## Electric Speed: resources for creative people
+ - [https://jane-friedman.ck.page](https://jane-friedman.ck.page)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## JD Meier
+ - [https://jdmeier.ck.page](https://jdmeier.ck.page)
+ - date_published: 2024-08-19T08:24:41+00:00
+
+ ## Main list of links
+ - [https://jessicanickelsen.ck.page](https://jessicanickelsen.ck.page)
+ - date_published: 2024-03-05T21:12:22+00:00
+
+ ## Jocelyn K. Glei
+ - [https://jkg.ck.page](https://jkg.ck.page)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Jobs to be Done
+ - [https://jobstobedone.ck.page](https://jobstobedone.ck.page)
+ - date_published: 2024-06-21T21:55:47+00:00
+
+ ## Josh Bicknell | Powered by ConvertKit
+ - [https://joshbicknell.ck.page](https://joshbicknell.ck.page)
+ - date_published: 2022-05-03T01:11:31+00:00
+
+ ## For The Interested
+ - [https://joshspector.ck.page](https://joshspector.ck.page)
+ - date_published: 2024-06-23T09:30:43+00:00
+
+ ## Josh Thompson
+ - [https://josh-thompson.ck.page](https://josh-thompson.ck.page)
+ - date_published: 2024-06-22T14:35:12.468713+00:00
+
  ## CK homepage redirect
  - [https://journalology.ck.page](https://journalology.ck.page)
  - date_published: 2024-06-20T19:50:17+00:00
@@ -3908,130 +4028,4 @@ Sign up
  ## Facebook
  - [http://www.bik.bydgoszcz.pl](http://www.bik.bydgoszcz.pl)
  - date_published: 2024-07-03T11:52:38.230129+00:00
-
- ## Galeria Miejska bwa w Bydgoszczy
- - [https://www.galeriabwa.bydgoszcz.pl](https://www.galeriabwa.bydgoszcz.pl)
- - date_published: 2024-07-03T11:52:45.786434+00:00
-
- ## SEO, pozycjonowanie, informatyka - Hyper Link
- - [http://hyperlink.bydgoszcz.pl](http://hyperlink.bydgoszcz.pl)
- - date_published: 2024-11-16T21:28:36.681835+00:00
-
- ## Oficjalny Serwis Bydgoszczy - Strona główna
- - [https://www.bydgoszcz.pl](https://www.bydgoszcz.pl)
- - date_published: 2024-07-03T11:53:11.040203+00:00
-
- ## Tablice Sportowe - 3D Sport
- - [https://3d.com.pl](https://3d.com.pl)
- - date_published: 2024-09-03T19:33:19.947108+00:00
-
- ## 4Story - Polska gra MMORPG
- - [http://www.4story.com.pl](http://www.4story.com.pl)
- - date_published: 2024-07-10T02:05:52.045719+00:00
-
- ## Radio Afera 98.6MHz
- - [https://afera.com.pl](https://afera.com.pl)
- - date_published: 2024-05-26T18:41:20.488930+00:00
- - tags: ['radio station']
-
- ## Studio nagrań Radia Afera
- - [http://studio.afera.com.pl](http://studio.afera.com.pl)
- - date_published: 2024-09-02T15:01:22.459879+00:00
-
- ## SPACE Database Manager 2.0
- - [https://talos.afera.com.pl](https://talos.afera.com.pl)
- - date_published: 2024-09-02T15:01:21.857678+00:00
-
- ## Części elektroniczne sklep internetowy Aksotronik
- - [https://www.aksotronik.com.pl](https://www.aksotronik.com.pl)
- - date_published: 2024-08-18T10:49:58.155266+00:00
-
- ## Wiadomości - Altair Agencja Lotnicza
- - [https://altair.com.pl](https://altair.com.pl)
- - date_published: 2024-06-26T11:26:51+00:00
- - tags: ['avionics', 'news', 'aviation', 'aerospace']
-
- ## AMS | ams.com.pl
- - [https://ams.com.pl](https://ams.com.pl)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://android.com.pl](https://android.com.pl)
- - date_published: 2023-10-25T22:24:55+00:00
- - tags: ['tech news']
-
- ## Forum Android.com.pl - dyskutujemy o technologii
- - [https://forum.android.com.pl](https://forum.android.com.pl)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://img.android.com.pl](https://img.android.com.pl)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Apteka rodzinna l Rynkowe ceny l Sprawdź nasze lokalizacje
- - [http://www.aptekarodzinna.com.pl](http://www.aptekarodzinna.com.pl)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Archi-TECH "Serwis i Warsztat"
- - [https://programatory.archi-tech.com.pl](https://programatory.archi-tech.com.pl)
- - date_published: 2024-07-08T19:54:32.550356+00:00
-
- ## Testy sprzętu hi-fi, hi-end i kina domowego. Porady, opinie, wykaz sklepów i dystrybutorów audiofilskich marek
- - [https://audio.com.pl](https://audio.com.pl)
- - date_published: 2023-12-13T14:59:46.327809+00:00
- - tags: ['audio news', 'audio equipment']
-
- ## Forum Audio.com.pl
- - [https://forum.audio.com.pl](https://forum.audio.com.pl)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Autoline – sprzedaż sprzętu użytkowego, części zamiennych i osprzętu
- - [https://autoline.com.pl](https://autoline.com.pl)
- - date_published: 2024-08-11T15:39:45.472411+00:00
-
- ## Stalexport Autostrada Małopolska S.A.
- - [https://www.autostrada-a4.com.pl](https://www.autostrada-a4.com.pl)
- - date_published: 2024-07-14T05:27:58.930408+00:00
-
- ## British American Tobacco Poland
- - [http://www.bat.com.pl](http://www.bat.com.pl)
- - date_published: 2024-06-18T15:07:10+00:00
-
- ## BCMM
- - [http://www.bcmm.com.pl](http://www.bcmm.com.pl)
- - date_published: 2024-07-14T05:29:19.529868+00:00
-
- ## Sklep Elektroniczny Botland - Sklep z Elektroniką
- - [https://botland.com.pl](https://botland.com.pl)
- - date_published: 2023-10-25T11:16:01.784913+00:00
- - tags: ['electronic parts']
-
- ## Bottega IT Minds
- - [https://bottega.com.pl](https://bottega.com.pl)
- - date_published: 2024-08-09T03:29:37.944349+00:00
-
- ## BrandMe CEO
- - [https://brandmeceo.businessinsider.com.pl](https://brandmeceo.businessinsider.com.pl)
- - date_published: 2023-10-25T22:24:57.674006+00:00
-
- ## Business Insider Polska
- - [https://businessinsider.com.pl](https://businessinsider.com.pl)
- - date_published: 2023-10-25T10:58:26.656129+00:00
-
- ## Capitalbook
- - [https://capitalbook.com.pl](https://capitalbook.com.pl)
- - date_published: 2024-05-14T02:45:03.863295+00:00
-
- ## eCarAudio
- - [http://www.caraudio.com.pl](http://www.caraudio.com.pl)
- - date_published: 2020-10-20T20:29:38+00:00
-
- ## CentOS- otwarty system operacyjny dla biznesu
- - [http://centos.com.pl](http://centos.com.pl)
- - date_published: 2024-10-31T07:06:06.404276+00:00
-
- ## Ciemna strona
- - [https://www.ciemnastrona.com.pl](https://www.ciemnastrona.com.pl)
- - date_published: 2024-04-02T07:22:58+00:00
- - tags: ['blog', 'cybersecurity']
 

@@ -1,3 +1,83 @@
+ ## Courses Taught by Golan Levin at Carnegie Mellon University, 2009-2022
+ - [https://ems.andrew.cmu.edu](https://ems.andrew.cmu.edu)
+ - date_published: 2023-10-02T04:29:57+00:00
+
+ ## College of Engineering, Carnegie Mellon University
+ - [https://engineering.cmu.edu](https://engineering.cmu.edu)
+ - date_published: 2024-04-30T03:46:05.535695+00:00
+
+ ## enr-apps.as.cmu.edu index
+ - [https://enr-apps.as.cmu.edu](https://enr-apps.as.cmu.edu)
+ - date_published: 2020-05-28T18:15:13+00:00
+
+ ## Home Page of Michael Shamos
+ - [http://euro.ecom.cmu.edu](http://euro.ecom.cmu.edu)
+ - date_published: 2018-08-12T17:31:37+00:00
+
+ ## Executive & Professional Education
+ - [https://exec.cs.cmu.edu](https://exec.cs.cmu.edu)
+ - date_published: 2024-04-30T03:46:27.749594+00:00
+
+ ## CMU - Executive Education - Software and Societal Systems Department - Carnegie Mellon University
+ - [https://execed.s3d.cmu.edu](https://execed.s3d.cmu.edu)
+ - date_published: 2024-01-04T14:06:26+00:00
+
+ ## Carnegie Mellon University School of Computer Science
+ - [https://execonline.cs.cmu.edu](https://execonline.cs.cmu.edu)
+ - date_published: 2024-07-22T06:11:28.369347+00:00
+
+ ## Geometry Collective
+ - [http://geometry.cs.cmu.edu](http://geometry.cs.cmu.edu)
+ - date_published: 2024-05-10T18:53:00+00:00
+
+ ## Cierpliwości...
+ - [https://give.cmu.edu](https://give.cmu.edu)
+ - date_published: 2024-04-30T03:46:38.712095+00:00
+
+ ## Carnegie Mellon UniversityCarnegie Mellon University
+ - [https://givenow.cmu.edu](https://givenow.cmu.edu)
+ - date_published: 2024-08-07T16:52:08.066635+00:00
+
+ ## Give - Engage with CMU - Carnegie Mellon University
+ - [http://giving.cmu.edu](http://giving.cmu.edu)
+ - date_published: 2024-07-19T19:25:09+00:00
+
+ ## Carnegie Mellon Computer Graphics
+ - [http://graphics.cs.cmu.edu](http://graphics.cs.cmu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Welcome to HCII | Human-Computer Interaction Institute
+ - [https://hcii.cmu.edu](https://hcii.cmu.edu)
+ - date_published: 2024-07-02T13:33:48+00:00
+
+ ## Carnegie Mellon University's Heinz College - Public Policy & Information Systems Graduate School
+ - [https://heinz.cmu.edu](https://heinz.cmu.edu)
+ - date_published: 2024-05-08T09:36:17.507547+00:00
+
+ ## Imaging @ CMU
+ - [https://imaging.cs.cmu.edu](https://imaging.cs.cmu.edu)
+ - date_published: 2024-06-22T07:36:41.163768+00:00
+
+ ## Information Networking Institute - Information Networking Institute - College of Engineering - Carnegie Mellon University
+ - [https://ini.cmu.edu](https://ini.cmu.edu)
+ - date_published: 2024-10-07T15:33:23+00:00
+
+ ## Blog Index (Homepage) | CMU Software Engineering Institute
+ - [https://insights.sei.cmu.edu](https://insights.sei.cmu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Carnegie Mellon University research repository - Browse
+ - [https://kilthub.cmu.edu](https://kilthub.cmu.edu)
+ - date_published: 2024-04-30T05:50:25.305533+00:00
+
+ ## The Kitchin Research Group
+ - [https://kitchingroup.cheme.cmu.edu](https://kitchingroup.cheme.cmu.edu)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Home - labs
+ - [https://labs.ri.cmu.edu](https://labs.ri.cmu.edu)
+ - date_published: 2024-07-16T23:23:43+00:00
+
  ## LEAF
  - [https://leaf.cmu.edu](https://leaf.cmu.edu)
  - date_published: 2021-12-19T13:47:01+00:00
@@ -3922,84 +4002,4 @@ Mellon University
  ## Tuck School of Business
  - [https://tuck.dartmouth.edu](https://tuck.dartmouth.edu)
  - date_published: 2024-04-30T04:04:37.132226+00:00
-
- ## TuckLAB - Welcome
- - [https://tucklab.tuck.dartmouth.edu](https://tucklab.tuck.dartmouth.edu)
- - date_published: 2024-07-22T04:42:34.787189+00:00
-
- ## Home
- - [https://web.cs.dartmouth.edu](https://web.cs.dartmouth.edu)
- - date_published: 2020-05-07T14:55:09+00:00
-
- ## WeBWorK at Dartmouth
- - [https://webwork.dartmouth.edu](https://webwork.dartmouth.edu)
- - date_published: 2024-04-30T04:11:47.206770+00:00
-
- ## Home
- - [https://wgs.dartmouth.edu](https://wgs.dartmouth.edu)
- - date_published: 2020-10-22T15:57:28+00:00
-
- ## Home
- - [https://writing.dartmouth.edu](https://writing.dartmouth.edu)
- - date_published: 2022-11-17T21:32:45+00:00
-
- ## WS Demo Homepage
- - [https://ws.dartmouth.edu](https://ws.dartmouth.edu)
- - date_published: 2016-06-09T13:16:45+00:00
-
- ## Home | Dartmouth TTO
- - [https://www.tto.dartmouth.edu](https://www.tto.dartmouth.edu)
- - date_published: 2024-07-22T04:46:48.111931+00:00
-
- ## March MATHness
- - [https://marchmathness.davidson.edu](https://marchmathness.davidson.edu)
- - date_published: 2017-01-01T00:00:00+00:00
-
- ## Davidson College | Davidson
- - [http://www.davidson.edu](http://www.davidson.edu)
- - date_published: 2024-08-19T20:00:30+00:00
-
- ## University of Dubuque Theological Seminary
- - [http://udts.dbq.edu](http://udts.dbq.edu)
- - date_published: 2024-06-28T20:40:10.466054+00:00
-
- ## DC3 CTA
- - [https://www.dcita.edu](https://www.dcita.edu)
- - date_published: 2024-04-18T15:43:07+00:00
-
- ## De Anza College - Tops in Transfer
- - [https://deanza.edu](https://deanza.edu)
- - date_published: 2024-05-09T08:42:01.183697+00:00
-
- ## DePaul University Academics | DePaul University, Chicago
- - [https://academics.depaul.edu](https://academics.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Sign in to Outlook
- - [https://bluemail.depaul.edu](https://bluemail.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## HTML REDIRECT
- - [https://campusconnect.depaul.edu](https://campusconnect.depaul.edu)
- - date_published: 2019-06-28T19:07:52+00:00
-
- ## Academic Catalog < DePaul University
- - [https://catalog.depaul.edu](https://catalog.depaul.edu)
- - date_published: 2024-06-24T14:23:46+00:00
-
- ## Foundations of Programming Languages Group
- - [http://cryptyc.cs.depaul.edu](http://cryptyc.cs.depaul.edu)
- - date_published: 2022-10-21T20:24:08+00:00
-
- ## Sign in to your account
- - [https://d2l.depaul.edu](https://d2l.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Emergency Plan | DePaul University, Chicago
- - [https://emergencyplan.depaul.edu](https://emergencyplan.depaul.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Events Calendar - DePaul University
- - [https://events.depaul.edu](https://events.depaul.edu)
- - date_published: 2024-07-09T21:29:41.613091+00:00
 

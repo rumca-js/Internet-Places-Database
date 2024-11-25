@@ -1,3 +1,47 @@
+ ## Lite Queen - Manage SQLite databases on your server with ease
+ - [https://litequeen.com](https://litequeen.com)
+ - date_published: 2024-10-17T14:34:30+00:00
+
+ ## Resources
+ - [https://info.litera.com](https://info.litera.com)
+ - date_published: 2024-06-20T18:05:23+00:00
+
+ ## Litera Customer Center
+ - [https://support.litera.com](https://support.litera.com)
+ - date_published: 2023-06-22T10:34:35+00:00
+
+ ## Litera | Legal Technology Solutions
+ - [https://www.litera.com](https://www.litera.com)
+ - date_published: 2024-05-04T12:02:12.055911+00:00
+
+ ## Literary Articles
+ - [https://literacle.com](https://literacle.com)
+ - date_published: 2024-05-11T11:20:16.437912+00:00
+
+ ## Literal Humans | Digital Marketing by Humans for Humans
+ - [https://literalhumans.com](https://literalhumans.com)
+ - date_published: 2024-10-18T17:50:46.273769+00:00
+
+ ## Literal Magazine - Latin American Voices
+ - [http://www.literalmagazine.com](http://www.literalmagazine.com)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Literary Chaplaincy
+ - [https://literarychaplaincy.com](https://literarychaplaincy.com)
+ - date_published: 2024-06-15T12:11:24.667326+00:00
+
+ ## Literary Devices - Literary Terms, Techniques, and Elements
+ - [http://www.literarydevices.com](http://www.literarydevices.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Literary Escapism
+ - [http://www.literaryescapism.com](http://www.literaryescapism.com)
+ - date_published: 2021-02-10T15:27:00+00:00
+
+ ## Literary Rambles
+ - [http://www.literaryrambles.com](http://www.literaryrambles.com)
+ - date_published: 2024-07-09T12:51:15+00:00
+
  ## Literary Safari
  - [http://www.literarysafari.com](http://www.literarysafari.com)
  - date_published: 2024-07-17T10:48:51.752843+00:00
@@ -3979,48 +4023,4 @@
  ## Online Training for Government Personnel | LocalGovU
  - [https://www.localgovu.com](https://www.localgovu.com)
  - date_published: 2024-03-30T00:00:00+00:00
-
- ## Local Green Fees- the United States' definitive green fee directory
- - [https://localgreenfees.com](https://localgreenfees.com)
- - date_published: 2024-07-11T19:51:16.832256+00:00
-
- ## Local Groundz
- - [https://www.localgroundz.com](https://www.localgroundz.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Centurylink Internet, Phone & TV Plans | Call 800-238-3620 Today!
- - [http://www.localinternetservice.com](http://www.localinternetservice.com)
- - date_published: 2024-07-19T16:17:43+00:00
-
- ## LocaliQ
- - [https://account.localiq.com](https://account.localiq.com)
- - date_published: 2024-05-01T17:07:26+00:00
-
- ## Gannett Media Solutions | LocaliQ
- - [https://azcentral.localiq.com](https://azcentral.localiq.com)
- - date_published: 2024-08-07T16:16:35+00:00
-
- ## LocaliQ - Powered by Reachlocal.com
- - [https://cc-can.localiq.com](https://cc-can.localiq.com)
- - date_published: 2024-06-15T22:45:34.356788+00:00
-
- ## LocaliQ - Powered by Reachlocal.com
- - [https://cc-usa.localiq.com](https://cc-usa.localiq.com)
- - date_published: 2024-06-15T22:45:37.759450+00:00
-
- ## LocaliQ
- - [https://client.localiq.com](https://client.localiq.com)
- - date_published: 2024-05-01T17:07:26+00:00
-
- ## LocaliQ | Growth Marketing Platform
- - [https://localiq.com](https://localiq.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## LocaliQ | Growth Marketing Platform
- - [https://marketing.localiq.com](https://marketing.localiq.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Gannett Media Solutions | LocaliQ
- - [https://newjersey.localiq.com](https://newjersey.localiq.com)
- - date_published: 2024-05-11T11:31:53.516647+00:00
 

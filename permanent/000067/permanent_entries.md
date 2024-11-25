@@ -1,3 +1,23 @@
+ ## Bosa Theme Demos – Demos of Bosa Theme
+ - [https://demo.bosathemes.com](https://demo.bosathemes.com)
+ - date_published: 2024-07-07T06:28:02.831836+00:00
+
+ ## Want to know how to live #LikeABosch?
+ - [https://bosch.com](https://bosch.com)
+ - date_published: 2024-05-14T02:51:08.122334+00:00
+
+ ## Careers at Bosch
+ - [https://jobs.bosch.com](https://jobs.bosch.com)
+ - date_published: 2024-06-19T10:10:18.162538+00:00
+
+ ## Bosch PSIRT
+ - [https://psirt.bosch.com](https://psirt.bosch.com)
+ - date_published: 2024-07-04T10:30:58+00:00
+
+ ## Supply chain
+ - [http://purchasing.bosch.com](http://purchasing.bosch.com)
+ - date_published: 2024-06-13T14:06:25+00:00
+
  ## Home
  - [https://www.boschaftermarket.com](https://www.boschaftermarket.com)
  - date_published: 2024-07-24T04:19:46.563017+00:00
@@ -4014,26 +4034,4 @@
  - [https://briankoponen.com](https://briankoponen.com)
  - date_published: 2024-06-12T00:00:00+00:00
  - tags: ['blog', 'warcraft', 'diablo']
-
- ## Solving problems with code...
- - [https://briankvagnini.com](https://briankvagnini.com)
- - date_published: 2023-11-29T16:22:24.722622+00:00
- - tags: ['personal']
-
- ## Open-Source Routing and Network Simulation
- - [https://brianlinkletter.com](https://brianlinkletter.com)
- - date_published: 2024-05-08T03:29:35.149688+00:00
- - tags: ['articles', 'tech']
-
- ## Brian Lovin
- - [https://brianlovin.com](https://brianlovin.com)
- - date_published: 2024-05-06T14:14:40.422398+00:00
-
- ## Brian Lumley.com Home Page | The Undead, Undying, Unforgettable Worlds
- - [https://brianlumley.com](https://brianlumley.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Brian Maier Jr. | UI/UX Designer & Front-end Developer
- - [https://brianmaierjr.com](https://brianmaierjr.com)
- - date_published: 2024-09-14T23:26:12.746223+00:00
 

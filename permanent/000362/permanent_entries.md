@@ -1,3 +1,111 @@
+ ## GMD - Recent
+ - [https://gmd.copernicus.org](https://gmd.copernicus.org)
+ - date_published: 2024-01-05T19:35:31.677543+00:00
+
+ ## JM - Recent
+ - [https://jm.copernicus.org](https://jm.copernicus.org)
+ - date_published: 2023-12-23T16:46:09.558293+00:00
+
+ ## CO Meeting Organizer
+ - [https://meetingorganizer.copernicus.org](https://meetingorganizer.copernicus.org)
+ - date_published: 2024-05-25T09:40:18.884389+00:00
+
+ ## Copernicus Meetings - Meetings
+ - [https://meetings.copernicus.org](https://meetings.copernicus.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Copernicus Office authentication
+ - [https://networker.copernicus.org](https://networker.copernicus.org)
+ - date_published: 2024-06-30T06:33:44.675186+00:00
+
+ ## NHESS - Recent
+ - [https://nhess.copernicus.org](https://nhess.copernicus.org)
+ - date_published: 2024-09-04T15:14:45.048389+00:00
+
+ ## OS - Recent
+ - [https://os.copernicus.org](https://os.copernicus.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Copernicus Publications - Publications
+ - [https://publications.copernicus.org](https://publications.copernicus.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## SOIL - Recent
+ - [https://soil.copernicus.org](https://soil.copernicus.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## TC - Recent
+ - [https://tc.copernicus.org](https://tc.copernicus.org)
+ - date_published: 2024-07-20T15:32:30.298395+00:00
+
+ ## Copernicus Office authentication
+ - [https://trader.copernicus.org](https://trader.copernicus.org)
+ - date_published: 2024-09-02T12:30:10.183853+00:00
+
+ ## WCD - Recent
+ - [https://wcd.copernicus.org](https://wcd.copernicus.org)
+ - date_published: 2024-02-28T08:52:28.952543+00:00
+ - tags: ['scientific articles']
+
+ ## CO Trader
+ - [https://webforms.copernicus.org](https://webforms.copernicus.org)
+ - date_published: 2024-07-02T23:28:57.828278+00:00
+
+ ## The Copetti site | Rodrigo Copetti
+ - [https://classic.copetti.org](https://classic.copetti.org)
+ - date_published: 2024-07-20T03:09:49.666609+00:00
+
+ ## The Copetti site | Rodrigo Copetti
+ - [https://copetti.org](https://copetti.org)
+ - date_published: 2023-10-25T08:54:33.181982+00:00
+ - tags: ['xbox', 'personal', 'consoles', 'playstation']
+
+ ## Storied Landscapes: 21st-Century Nature Writing – A COPLACDigital Course — Spring 2018
+ - [https://storyland.coplacdigital.org](https://storyland.coplacdigital.org)
+ - date_published: 2024-08-18T17:57:10.050276+00:00
+
+ ## International Copper Association
+ - [https://copperalliance.org](https://copperalliance.org)
+ - date_published: 2024-10-29T04:42:57.530982+00:00
+
+ ## Copper Hills High School
+ - [http://copperhillshigh.org](http://copperhillshigh.org)
+ - date_published: 2024-10-18T05:48:28.879470+00:00
+
+ ## Amiga Hardware Programming | Coppershade
+ - [http://coppershade.org](http://coppershade.org)
+ - date_published: 2023-11-02T11:02:31.779250+00:00
+ - tags: ['programming', 'personal', 'amiga']
+
+ ## Co-Prosperity
+ - [https://coprosperity.org](https://coprosperity.org)
+ - date_published: 2024-05-07T14:56:10.921008+00:00
+
+ ## Copyheart.org
+ - [https://copyheart.org](https://copyheart.org)
+ - date_published: 2024-06-17T08:22:45.716461+00:00
+
+ ## lists.copyleft.org Mailing Lists
+ - [https://lists.copyleft.org](https://lists.copyleft.org)
+ - date_published: 2024-08-07T22:58:44.984568+00:00
+
+ ## February 4, 2019 | CopyleftConf 2019
+ - [https://2019.copyleftconf.org](https://2019.copyleftconf.org)
+ - date_published: 2019-02-04T00:00:00+00:00
+
+ ## Home
+ - [https://copyrightalliance.org](https://copyrightalliance.org)
+ - date_published: 2020-09-21T05:21:51+00:00
+
+ ## Home | The Copyright Society We know copyright
+ - [https://copyrightsociety.org](https://copyrightsociety.org)
+ - date_published: 2024-10-27T18:57:54.362966+00:00
+
+ ## CopyrightX
+ - [http://copyx.org](http://copyx.org)
+ - date_published: 2024-06-27T18:14:07.047453+00:00
+ - tags: ['abandoned']
+
  ## Αρχική - Corallia
  - [http://www.corallia.org](http://www.corallia.org)
  - date_published: 2024-07-02T22:02:20.995797+00:00
@@ -3933,108 +4041,4 @@ irc logs at libera.irclog.whitequark.org
  ## DataCite Status
  - [https://status.datacite.org](https://status.datacite.org)
  - date_published: 2024-05-14T00:00:00+00:00
-
- ## DataCite Support
- - [https://support.datacite.org](https://support.datacite.org)
- - date_published: 2024-08-11T10:07:46.110532+00:00
-
- ## Home
- - [http://www.datacoalition.org](http://www.datacoalition.org)
- - date_published: 2024-06-29T06:03:06.096274+00:00
-
- ## Data Colada - Thinking about evidence and vice versa
- - [https://datacolada.org](https://datacolada.org)
- - date_published: 2023-10-25T21:12:37.004872+00:00
-
- ## Data Collaborative for Justice
- - [https://datacollaborativeforjustice.org](https://datacollaborativeforjustice.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home - Data Commons
- - [https://datacommons.org](https://datacommons.org)
- - date_published: 2024-09-10T22:46:03.911557+00:00
-
- ## Front Page - Data Curation Network
- - [https://datacurationnetwork.org](https://datacurationnetwork.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Data Detox Kit: Homepage
- - [https://datadetoxkit.org](https://datadetoxkit.org)
- - date_published: 2024-05-29T12:04:48+00:00
-
- ## Data-Driven Hypothesis
- - [https://www.datadrivenhypothesis.org](https://www.datadrivenhypothesis.org)
- - date_published: 2024-02-01T18:57:00+00:00
-
- ## Data For Progress
- - [https://www.dataforprogress.org](https://www.dataforprogress.org)
- - date_published: 2024-06-28T13:13:26.968321+00:00
-
- ## Home
- - [https://www.datafoundation.org](https://www.datafoundation.org)
- - date_published: 2024-07-16T20:39:01.695317+00:00
-
- ## Data Horde
- - [https://datahorde.org](https://datahorde.org)
- - date_published: 2024-05-04T07:25:43.896439+00:00
-
- ## DataLad – DataLad
- - [https://datalad.org](https://datalad.org)
- - date_published: 2024-05-08T10:51:02.229073+00:00
-
- ## DataLad — data management and publication multitool — DataLad 1.1.1+0.gc399b0e.dirty documentation
- - [http://docs.datalad.org](http://docs.datalad.org)
- - date_published: 2024-07-03T18:29:19+00:00
-
- ## The Handbook — The DataLad Handbook
- - [https://handbook.datalad.org](https://handbook.datalad.org)
- - date_published: 2024-07-05T06:29:44+00:00
-
- ## ROM
- - [http://datamapper.org](http://datamapper.org)
- - date_published: 2021-07-14T18:01:29+00:00
-
- ## datamate | rethink IT
- - [https://www.datamate.org](https://www.datamate.org)
- - date_published: 2024-07-18T05:51:02.901038+00:00
-
- ## Data Package
- - [https://datapackage.org](https://datapackage.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## datapanik.org | Permanent Gecontroleerde Zones
- - [https://www.datapanik.org](https://www.datapanik.org)
- - date_published: 2024-07-02T21:27:05.065386+00:00
-
- ## Data Physicalization - Data Physicalization Wiki
- - [http://dataphys.org](http://dataphys.org)
- - date_published: 2021-04-30T13:06:47+00:00
-
- ## DataPortals.org - A Comprehensive List of Open Data Portals from Around the World
- - [https://dataportals.org](https://dataportals.org)
- - date_published: 2024-06-12T12:16:17.319552+00:00
-
- ## Data Privacy Lab
- - [https://dataprivacylab.org](https://dataprivacylab.org)
- - date_published: 2021-11-06T14:15:44+00:00
-
- ## Streamlit
- - [https://www.dataprovenance.org](https://www.dataprovenance.org)
- - date_published: 2024-06-20T13:23:04+00:00
-
- ## The Professional Data Science Manifesto
- - [https://datasciencemanifesto.org](https://datasciencemanifesto.org)
- - date_published: 2020-05-02T17:19:29+00:00
-
- ## Data Science Course in Pune | Data Science Classes in Pune
- - [https://datasciencemilan.org](https://datasciencemilan.org)
- - date_published: 2020-06-15T14:18:48+00:00
-
- ## Data Science Weekly Newsletter
- - [https://www.datascienceweekly.org](https://www.datascienceweekly.org)
- - date_published: 2023-09-28T00:00:00+00:00
-
- ## dataspelsakademin.org
- - [http://dataspelsakademin.org](http://dataspelsakademin.org)
- - date_published: 2024-06-17T09:14:26.320399+00:00
 

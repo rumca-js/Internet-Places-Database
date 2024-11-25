@@ -1,3 +1,108 @@
+ ## Composite – Internet — information — criticism — poetry — connection — feminism — open source — open spaces — translation — digression — recursion — boats —  wheelchairs — disability rights — ranting — the future — by Liz Henry
+ - [http://bookmaniac.org](http://bookmaniac.org)
+ - date_published: 2024-07-07T10:28:13.476253+00:00
+
+ ## BP International – Innovative Science, Technology, Medicine, Humanities & Commerce book publisher.
+ - [https://www.bookpi.org](https://www.bookpi.org)
+ - date_published: 2024-10-29T17:32:18.950349+00:00
+
+ ## Bookshop
+ - [https://bookshop.org](https://bookshop.org)
+ - date_published: 2024-04-03T06:41:30+00:00
+
+ ## Cierpliwości...
+ - [https://images-eu.bookshop.org](https://images-eu.bookshop.org)
+ - date_published: 2024-05-01T02:18:23.483330+00:00
+
+ ## Cierpliwości...
+ - [https://images-us.bookshop.org](https://images-us.bookshop.org)
+ - date_published: 2024-05-06T23:29:36.543613+00:00
+
+ ## Support
+ - [https://support.bookshop.org](https://support.bookshop.org)
+ - date_published: 2024-07-16T21:36:41.064634+00:00
+
+ ## Cierpliwości...
+ - [https://uk.bookshop.org](https://uk.bookshop.org)
+ - date_published: 2024-04-28T03:09:37.831971+00:00
+
+ ## Free Picture Storybooks for Children
+ - [https://www.booksie.org](https://www.booksie.org)
+ - date_published: 2024-01-07T00:56:20+00:00
+
+ ## Literary Event Consultants - Books In Common
+ - [https://www.booksincommon.org](https://www.booksincommon.org)
+ - date_published: 2024-09-16T06:19:56.162078+00:00
+
+ ## BooksPlease
+ - [https://booksplease.org](https://booksplease.org)
+ - date_published: 2024-06-15T06:43:01+00:00
+
+ ## The Book Thing of Baltimore
+ - [http://www.bookthing.org](http://www.bookthing.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Book TV | Series | C-SPAN.org | C-SPAN.org
+ - [http://www.booktv.org](http://www.booktv.org)
+ - date_published: 2024-07-02T06:24:23.598966+00:00
+
+ ## Welcome to the American Booksellers Association
+ - [https://www.bookweb.org](https://www.bookweb.org)
+ - date_published: 2024-07-03T07:56:34.665256+00:00
+
+ ## Booles' Rings - Recent writing
+ - [http://boolesrings.org](http://boolesrings.org)
+ - date_published: 2024-06-30T04:28:44+00:00
+
+ ## Boom California
+ - [https://boomcalifornia.org](https://boomcalifornia.org)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Boom | Substack
+ - [https://www.boomcampaign.org](https://www.boomcampaign.org)
+ - date_published: 2024-10-31T22:49:11.541166+00:00
+
+ ## The Nine Play Super Season
+ - [https://boomerangtheatre.org](https://boomerangtheatre.org)
+ - date_published: 2024-08-19T21:06:07.314222+00:00
+
+ ## Boost C++ Libraries
+ - [https://beta.boost.org](https://beta.boost.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Boost C++ Libraries
+ - [https://boost.org](https://boost.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['programming framework', 'c++', 'cpp']
+
+ ## lists.boost.org Mailing Lists
+ - [https://lists.boost.org](https://lists.boost.org)
+ - date_published: 2024-06-30T11:01:35.042826+00:00
+
+ ## Join Boost
+ - [https://boostcommunity.org](https://boostcommunity.org)
+ - date_published: 2024-09-18T23:30:34.259180+00:00
+
+ ## Welcome - Doug Engelbart Institute
+ - [http://bootstrap.org](http://bootstrap.org)
+ - date_published: 2024-07-07T06:29:25+00:00
+
+ ## BootstrapVue
+ - [https://bootstrap-vue.org](https://bootstrap-vue.org)
+ - date_published: 2024-05-02T12:23:35.447702+00:00
+
+ ## BootstrapVue
+ - [https://dev.bootstrap-vue.org](https://dev.bootstrap-vue.org)
+ - date_published: 2024-06-18T10:09:30.630847+00:00
+
+ ## Bootstrap: Integrated Computer Science for Math, Social Studies, History, and Physics, for every student.
+ - [http://www.bootstrapworld.org](http://www.bootstrapworld.org)
+ - date_published: 2024-07-03T07:10:34.260865+00:00
+
+ ## Bureau of Public Secrets website
+ - [http://www.bopsecrets.org](http://www.bopsecrets.org)
+ - date_published: 2024-09-12T19:12:31.866733+00:00
+
  ## The B&O Railroad Museum
  - [https://www.borail.org](https://www.borail.org)
  - date_published: 2024-08-05T00:00:00+00:00
@@ -3929,108 +4034,4 @@ Carnegie Museums of Pittsburgh
  ## Jar of Fortune Files
  - [http://fortunes.cat-v.org](http://fortunes.cat-v.org)
  - date_published: 2024-08-18T20:29:30.594930+00:00
-
- ## Hotel Genius
- - [http://genius.cat-v.org](http://genius.cat-v.org)
- - date_published: 2024-07-03T21:07:38.160372+00:00
-
- ## Glenda's lair The unofficial home of the Plan 9 Bunny
- - [http://glenda.cat-v.org](http://glenda.cat-v.org)
- - date_published: 2024-07-08T15:42:31.444689+00:00
-
- ## Go Programming Language Resources
- - [http://go-lang.cat-v.org](http://go-lang.cat-v.org)
- - date_published: 2024-07-08T15:42:47.046767+00:00
-
- ## Encyclopedia of things considered harmful
- - [http://harmful.cat-v.org](http://harmful.cat-v.org)
- - date_published: 2024-07-08T15:42:27.324383+00:00
-
- ## International Workshops for Plan 9 and Inferno unofficial homepage
- - [http://iwp9.cat-v.org](http://iwp9.cat-v.org)
- - date_published: 2024-08-18T20:29:31.610539+00:00
-
- ## The Manual Page Library
- - [https://man.cat-v.org](https://man.cat-v.org)
- - date_published: 2024-04-30T06:29:15.997807+00:00
-
- ## NineTimes Plan 9, Inferno, Unix and Bell Labs operating systems news
- - [http://ninetimes.cat-v.org](http://ninetimes.cat-v.org)
- - date_published: 2024-07-08T15:42:40.623649+00:00
-
- ## Plan 9 from Bell Labs
- - [http://plan9.cat-v.org](http://plan9.cat-v.org)
- - date_published: 2024-07-08T15:42:33.413407+00:00
-
- ## Quotes Archive
- - [http://quotes.cat-v.org](http://quotes.cat-v.org)
- - date_published: 2024-07-08T15:42:45.744418+00:00
-
- ## Rc — The Plan 9 Shell
- - [http://rc.cat-v.org](http://rc.cat-v.org)
- - date_published: 2024-07-08T15:42:25.329415+00:00
-
- ## The Software Repo
- - [http://repo.cat-v.org](http://repo.cat-v.org)
- - date_published: 2024-07-08T15:42:34.644543+00:00
-
- ## The Text Editor Sam by Rob Pike
- - [http://sam.cat-v.org](http://sam.cat-v.org)
- - date_published: 2024-07-08T15:42:43.885094+00:00
-
- ## Uriel Utopian Philosopher, 1982-2012
- - [http://uriel.cat-v.org](http://uriel.cat-v.org)
- - date_published: 2024-07-08T15:42:30.487964+00:00
-
- ## werc - A sane web anti-framework
- - [https://werc.cat-v.org](https://werc.cat-v.org)
- - date_published: 2024-05-08T11:49:16.513879+00:00
-
- ## CAUCE | Fighting messaging abuse since 1997
- - [https://www.cauce.org](https://www.cauce.org)
- - date_published: 2024-07-01T15:31:37.537762+00:00
-
- ## CA UPK Home - California Universal PreKindergarten
- - [https://cauniversalprek.org](https://cauniversalprek.org)
- - date_published: 2023-09-15T00:00:00+00:00
-
- ## California IPv6 Task Force | Devoted to IPv6 Use & Expansion
- - [http://www.cav6tf.org](http://www.cav6tf.org)
- - date_published: 2024-07-07T00:01:02.892507+00:00
-
- ## 中国音像著作权集体管理协会
- - [http://www.cavca.org](http://www.cavca.org)
- - date_published: 2024-06-30T20:36:59.438661+00:00
-
- ## [ CAVEDAY ]
- - [https://caveday.org](https://caveday.org)
- - date_published: 2024-05-12T06:14:42.762587+00:00
-
- ## Caveday
- - [https://my.caveday.org](https://my.caveday.org)
- - date_published: 2024-07-15T12:16:32.294589+00:00
-
- ## Cavendish Labs
- - [https://cavendishlabs.org](https://cavendishlabs.org)
- - date_published: 2024-07-08T18:16:59.093273+00:00
-
- ## CaveProductions - Home of CaveExpress and CavePacker
- - [https://caveproductions.org](https://caveproductions.org)
- - date_published: 2024-05-09T08:57:00.327484+00:00
-
- ## Home - National Speleological Society
- - [https://caves.org](https://caves.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## National Speleological Society
- - [https://members.caves.org](https://members.caves.org)
- - date_published: 2024-07-09T09:37:56.034988+00:00
-
- ## Cave Story (Doukutsu Monogatari), A Tribute Site
- - [https://www.cavestory.org](https://www.cavestory.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## CA vs Hate
- - [https://www.cavshate.org](https://www.cavshate.org)
- - date_published: 2024-07-03T13:19:32.337383+00:00
 

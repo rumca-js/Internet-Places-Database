@@ -1,3 +1,83 @@
+ ## Nutrition, Dietetics and Food Sciences
+ - [https://ndfs.usu.edu](https://ndfs.usu.edu)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Plants, Soils & Climate
+ - [https://psc.usu.edu](https://psc.usu.edu)
+ - date_published: 2024-08-08T22:07:48.785975+00:00
+
+ ## Home / EMS
+ - [https://scheduling.usu.edu](https://scheduling.usu.edu)
+ - date_published: 2024-08-08T22:08:26.777204+00:00
+
+ ## Statewide Campuses
+ - [https://statewide.usu.edu](https://statewide.usu.edu)
+ - date_published: 2024-08-08T22:07:56.142805+00:00
+
+ ## Summer Citizens | Event Services | USU
+ - [http://summercitizens.usu.edu](http://summercitizens.usu.edu)
+ - date_published: 2024-09-19T21:59:52.819696+00:00
+
+ ## Welcome To Utah State University
+ - [https://usu.edu](https://usu.edu)
+ - date_published: 2024-06-22T06:22:30.054343+00:00
+
+ ## College of Veterinary Medicine
+ - [https://vetmed.usu.edu](https://vetmed.usu.edu)
+ - date_published: 2024-04-29T04:47:57.155754+00:00
+
+ ## WebAIM: Online course listings
+ - [https://webaim.learn.usu.edu](https://webaim.learn.usu.edu)
+ - date_published: 2024-06-22T06:29:39.400624+00:00
+
+ ## Writing Center | Writing
+ - [https://writing.usu.edu](https://writing.usu.edu)
+ - date_published: 2024-07-13T13:02:43.371974+00:00
+
+ ## USU News
+ - [https://news.usuhs.edu](https://news.usuhs.edu)
+ - date_published: 2024-08-09T18:48:59+00:00
+
+ ## ACES – The University of Texas at Arlington – Abacus Cloud and Edge Systems
+ - [https://aceslab.uta.edu](https://aceslab.uta.edu)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## Alumni Relations
+ - [https://alumni.uta.edu](https://alumni.uta.edu)
+ - date_published: 2024-07-02T11:17:04.909733+00:00
+
+ ## About this Edition of the University Catalog < University of Texas Arlington
+ - [https://catalog.uta.edu](https://catalog.uta.edu)
+ - date_published: 2024-06-10T15:41:02+00:00
+
+ ## MachForm Admin Panel
+ - [https://common.forms.uta.edu](https://common.forms.uta.edu)
+ - date_published: 2024-07-02T11:17:18.473662+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.uta.edu](https://cse.uta.edu)
+ - date_published: 2024-05-07T22:09:34.230352+00:00
+
+ ## Home
+ - [https://ds.web.uta.edu](https://ds.web.uta.edu)
+ - date_published: 2024-04-15T15:16:05+00:00
+
+ ## Events Calendar - UTA Events Calendar
+ - [https://events.uta.edu](https://events.uta.edu)
+ - date_published: 2024-07-02T11:17:23.603076+00:00
+
+ ## UTA Fort Worth
+ - [https://fortworth.uta.edu](https://fortworth.uta.edu)
+ - date_published: 2024-07-02T11:17:28.120839+00:00
+
+ ## Giving
+ - [https://giving.uta.edu](https://giving.uta.edu)
+ - date_published: 2024-07-02T11:16:53.898898+00:00
+
+ ## UT Arlington Go Server
+ - [https://go.uta.edu](https://go.uta.edu)
+ - date_published: 2024-07-02T11:16:50.636044+00:00
+
  ## IDIR: The Innovative Data Intelligence Research Laboratory
  - [https://idir.uta.edu](https://idir.uta.edu)
  - date_published: 2024-03-24T19:02:51+00:00
@@ -3918,84 +3998,4 @@
  ## Commitment to Privacy
  - [https://metabolomics.pharmacy.vcu.edu](https://metabolomics.pharmacy.vcu.edu)
  - date_published: 2024-07-02T12:49:35.885737+00:00
-
- ## Commitment to Privacy
- - [https://metrics.vcu.edu](https://metrics.vcu.edu)
- - date_published: 2024-07-02T12:47:33.411927+00:00
-
- ## Commitment to Privacy
- - [https://microbiology.vcu.edu](https://microbiology.vcu.edu)
- - date_published: 2024-07-02T12:42:15.118090+00:00
-
- ## Commitment to Privacy
- - [https://militaryservices.vcu.edu](https://militaryservices.vcu.edu)
- - date_published: 2024-07-02T12:48:36.302712+00:00
-
- ## Commitment to Privacy
- - [https://military.vcu.edu](https://military.vcu.edu)
- - date_published: 2024-07-02T12:47:42.235641+00:00
-
- ## Commitment to Privacy
- - [https://mlkday.vcu.edu](https://mlkday.vcu.edu)
- - date_published: 2024-07-02T12:48:51.860062+00:00
-
- ## Commitment to Privacy
- - [http://mls.chp.vcu.edu](http://mls.chp.vcu.edu)
- - date_published: 2024-07-02T12:49:46.372226+00:00
-
- ## Commitment to Privacy
- - [https://mobile.vcu.edu](https://mobile.vcu.edu)
- - date_published: 2024-07-02T12:45:46.341637+00:00
-
- ## Commitment to Privacy
- - [https://movr.vcu.edu](https://movr.vcu.edu)
- - date_published: 2024-07-02T12:47:43.505731+00:00
-
- ## Commitment to Privacy
- - [https://music.lab.vcu.edu](https://music.lab.vcu.edu)
- - date_published: 2024-07-02T12:43:50.360537+00:00
-
- ## Commitment to Privacy
- - [https://myeid.vcu.edu](https://myeid.vcu.edu)
- - date_published: 2024-07-02T12:51:02.259922+00:00
-
- ## Commitment to Privacy
- - [https://myname.vcu.edu](https://myname.vcu.edu)
- - date_published: 2024-07-02T12:49:13.022530+00:00
-
- ## Commitment to Privacy
- - [https://mytuition.vcu.edu](https://mytuition.vcu.edu)
- - date_published: 2024-07-02T12:57:47.560870+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://my.vcu.edu](https://my.vcu.edu)
- - date_published: 2024-05-07T22:23:29.894456+00:00
-
- ## Commitment to Privacy
- - [https://nanotherapeutics.pharmacy.vcu.edu](https://nanotherapeutics.pharmacy.vcu.edu)
- - date_published: 2024-07-02T12:48:33.490442+00:00
-
- ## Commitment to Privacy
- - [https://nano.vcu.edu](https://nano.vcu.edu)
- - date_published: 2024-07-02T12:43:53.783718+00:00
-
- ## Commitment to Privacy
- - [https://nci.partnership.vcu.edu](https://nci.partnership.vcu.edu)
- - date_published: 2024-07-02T12:50:39.005373+00:00
-
- ## Commitment to Privacy
- - [https://neurology.vcu.edu](https://neurology.vcu.edu)
- - date_published: 2024-07-02T12:51:24.748325+00:00
-
- ## Commitment to Privacy
- - [https://neuroscience.pharmacy.vcu.edu](https://neuroscience.pharmacy.vcu.edu)
- - date_published: 2024-07-02T12:43:29.940110+00:00
-
- ## Commitment to Privacy
- - [https://neurosurgery.vcu.edu](https://neurosurgery.vcu.edu)
- - date_published: 2024-07-02T12:50:37.475911+00:00
-
- ## Commitment to Privacy
- - [https://neurotraumarepair.vcu.edu](https://neurotraumarepair.vcu.edu)
- - date_published: 2024-07-02T12:58:32.916849+00:00
 

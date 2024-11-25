@@ -1,3 +1,127 @@
+ ## Omega-PSIR
+ - [https://son.uni.lodz.pl](https://son.uni.lodz.pl)
+ - date_published: 2024-06-13T00:05:24+00:00
+
+ ## Strona główna
+ - [https://uml.lodz.pl](https://uml.lodz.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## UNIWERSYTET ŁÓDZKI | UWOLNIJ UMYSŁ!
+ - [https://uni.lodz.pl](https://uni.lodz.pl)
+ - date_published: 2024-05-06T23:40:30.971464+00:00
+
+ ## WYDZIAŁ BIOLOGII I OCHRONY ŚRODOWISKA
+ - [https://www.biol.uni.lodz.pl](https://www.biol.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:39.940668+00:00
+
+ ## BIP
+ - [https://www.bip.uni.lodz.pl](https://www.bip.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:21.523455+00:00
+
+ ## BIURO KARIER
+ - [https://www.biurokarier.uni.lodz.pl](https://www.biurokarier.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:11.027080+00:00
+
+ ## Ogród Botaniczny
+ - [https://www.botaniczny.lodz.pl](https://www.botaniczny.lodz.pl)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## WYDZIAŁ CHEMII UNIWERSYTETU ŁÓDZKIEGO
+ - [https://www.chemia.uni.lodz.pl](https://www.chemia.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:27.734126+00:00
+
+ ## AKADEMICKI CHÓR UNIWERSYTETU ŁÓDZKIEGO
+ - [https://www.chorakademicki.uni.lodz.pl](https://www.chorakademicki.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:53.230471+00:00
+
+ ## TRANSFER TECHNOLOGII UŁ
+ - [https://www.ctt.uni.lodz.pl](https://www.ctt.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:09.537170+00:00
+
+ ## WYDZIAŁ EKONOMICZNO-SOCJOLOGICZNY
+ - [https://www.eksoc.uni.lodz.pl](https://www.eksoc.uni.lodz.pl)
+ - date_published: 2024-06-28T19:08:07.954258+00:00
+
+ ## FILIA W TOMASZOWIE MAZOWIECKIM
+ - [https://www.filia.uni.lodz.pl](https://www.filia.uni.lodz.pl)
+ - date_published: 2024-06-28T19:08:26.329736+00:00
+
+ ## WYDZIAŁ FILOLOGICZNY
+ - [https://www.filolog.uni.lodz.pl](https://www.filolog.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:35.971263+00:00
+
+ ## WYDZIAŁ NAUK GEOGRAFICZNYCH
+ - [https://www.geo.uni.lodz.pl](https://www.geo.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:11.586366+00:00
+
+ ## British International School of the University of Lodz
+ - [http://www.interschool.uni.lodz.pl](http://www.interschool.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:22.470441+00:00
+
+ ## Kuratorium Oświaty w Łodzi – Aktualności, adresy i telefony, regulaminy, niezbędne informacje dla ludzi związanych z oświatą.
+ - [http://www.kuratorium.lodz.pl](http://www.kuratorium.lodz.pl)
+ - date_published: 2024-08-19T21:15:05.701716+00:00
+
+ ## BIBLIOTEKA UŁ
+ - [http://www.lib.uni.lodz.pl](http://www.lib.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:23.234309+00:00
+
+ ## PUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE UŁ
+ - [http://www.liceum.uni.lodz.pl](http://www.liceum.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:29.942199+00:00
+
+ ## WYDZIAŁ MATEMATYKI I INFORMATYKI
+ - [https://www.math.uni.lodz.pl](https://www.math.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:20.802378+00:00
+
+ ## MIGAWKA - Twoja elektroniczna karta
+ - [http://www.migawka.lodz.pl](http://www.migawka.lodz.pl)
+ - date_published: 2024-06-28T19:13:14+00:00
+
+ ## Muzeum Komunikacji Miejskiej MPK
+ - [http://www.muzeum.mpk.lodz.pl](http://www.muzeum.mpk.lodz.pl)
+ - date_published: 2024-06-19T08:20:04+00:00
+
+ ## PAŁAC ALFREDA BIEDERMANNA
+ - [https://www.palac.uni.lodz.pl](https://www.palac.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:00.957419+00:00
+
+ ## AKADEMIA PRZEDSIĘBIORCZOŚCI NA UNIWERSYTECIE ŁÓDZKIM
+ - [https://www.przedsiebiorczosc.uni.lodz.pl](https://www.przedsiebiorczosc.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:34.720638+00:00
+
+ ## SCIENCE HUB UŁ
+ - [https://www.sciencehub.uni.lodz.pl](https://www.sciencehub.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:46.139894+00:00
+
+ ## WYDZIAŁ FIZYKI I INFORMATYKI STOSOWANEJ
+ - [https://www.wfis.uni.lodz.pl](https://www.wfis.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:12.641372+00:00
+
+ ## WYDZIAŁ NAUK O WYCHOWANIU
+ - [https://www.wnow.uni.lodz.pl](https://www.wnow.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:38.403012+00:00
+
+ ## WYDZIAŁ PRAWA I ADMINISTRACJI
+ - [https://www.wpia.uni.lodz.pl](https://www.wpia.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:57.946754+00:00
+
+ ## WYDZIAŁ STUDIÓW MIĘDZYNARODOWYCH I POLITOLOGICZNYCH
+ - [https://www.wsmip.uni.lodz.pl](https://www.wsmip.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:20.714854+00:00
+
+ ## WYDZIAŁ ZARZĄDZANIA
+ - [https://www.wz.uni.lodz.pl](https://www.wz.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:31.360716+00:00
+
+ ## ZZM
+ - [https://zzm.lodz.pl](https://zzm.lodz.pl)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Łódź Film Commission
+ - [https://lodzfilmcommission.pl](https://lodzfilmcommission.pl)
+ - date_published: 2024-06-28T18:32:24+00:00
+
  ## Platforma workflow – elektroniczny obieg dokumentów - LOGITO
  - [https://www.logito.pl](https://www.logito.pl)
  - date_published: 2024-07-14T21:35:16.744615+00:00
@@ -3976,130 +4100,4 @@
  ## Konfiguruj telefon - Plus
  - [https://ustaw.plus.pl](https://ustaw.plus.pl)
  - date_published: 2024-07-12T15:26:05.993653+00:00
-
- ## Plus GSM
- - [https://ssl.plusgsm.pl](https://ssl.plusgsm.pl)
- - date_published: 2009-05-07T15:04:45+00:00
-
- ## PMPG SA - Platforma Mediowa Point Group (PGM)
- - [http://www.media.pmpg.pl](http://www.media.pmpg.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## PMPG SA - Platforma Mediowa Point Group (PGM)
- - [http://www.pmpg.pl](http://www.pmpg.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## pocketbook
- - [https://pocketbook.pl](https://pocketbook.pl)
- - date_published: 2024-07-20T16:11:58.895766+00:00
-
- ## BIP Poczta Polska S.A. | Biuletyn Informacji Publicznej
- - [https://bip.poczta-polska.pl](https://bip.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:12.149062+00:00
-
- ## Cennik - Informacje
- - [https://cennik.poczta-polska.pl](https://cennik.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:18.811634+00:00
-
- ## Doładowania liczników energetycznych online - Poczta Polska
- - [https://doladowania.poczta-polska.pl](https://doladowania.poczta-polska.pl)
- - date_published: 2024-07-08T05:49:36+00:00
-
- ## e-Polecony Poczta Polska
- - [https://edoreczenia.poczta-polska.pl](https://edoreczenia.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:01.364027+00:00
-
- ## Śledzenie przesyłek - Tracking | emonitoring.poczta-polska.pl
- - [https://emonitoring.poczta-polska.pl](https://emonitoring.poczta-polska.pl)
- - date_published: 2023-11-01T08:44:38.654053+00:00
-
- ## Sklep Internetowy Poczty Polskiej
- - [https://esklep.poczta-polska.pl](https://esklep.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:15.877847+00:00
-
- ## ezwroty
- - [https://ezwroty.poczta-polska.pl](https://ezwroty.poczta-polska.pl)
- - date_published: 2024-06-11T08:43:04+00:00
-
- ## Biuro prasowe Poczty Polskiej
- - [https://media.poczta-polska.pl](https://media.poczta-polska.pl)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Nieruchomości Poczta Polska
- - [http://nieruchomosci.poczta-polska.pl](http://nieruchomosci.poczta-polska.pl)
- - date_published: 2024-08-18T14:51:57.356716+00:00
-
- ## https://www.poczta-polska.pl
- - [https://poczta-polska.pl](https://poczta-polska.pl)
- - date_published: 2023-11-01T08:44:39.037871+00:00
-
- ## Sklep Internetowy Poczty Polskiej
- - [https://sklep.poczta-polska.pl](https://sklep.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:09.393089+00:00
-
- ## For You - Pocztex
- - [https://www.pocztex.pl](https://www.pocztex.pl)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Montaż podcastów. Edycja podcastów. Maszyna podcastowych treści.
- - [https://podcastuje.pl](https://podcastuje.pl)
- - date_published: 2024-07-11T23:51:52.894118+00:00
-
- ## podhale24.pl - Podhalański Portal Informacyjny
- - [https://alert.podhale24.pl](https://alert.podhale24.pl)
- - date_published: 2024-05-09T05:17:09.247905+00:00
- - tags: ['local news']
-
- ## podhale24.pl - Podhalański Portal Informacyjny
- - [https://m.podhale24.pl](https://m.podhale24.pl)
- - date_published: 2024-05-09T05:12:01.627821+00:00
-
- ## podhale24.pl - Podhalański Portal Informacyjny
- - [https://podhale24.pl](https://podhale24.pl)
- - date_published: 2024-03-05T15:01:33.408568+00:00
-
- ## Home
- - [http://podhalenowytarg.pl](http://podhalenowytarg.pl)
- - date_published: 2024-07-09T13:30:41.661093+00:00
-
- ## Podhale Region
- - [https://podhaleregion.pl](https://podhaleregion.pl)
- - date_published: 2024-07-09T13:21:36+00:00
-
- ## Regionalny Portal Informacyjny - Podlasie24.pl|Podlasie24 - Regionalny Portal Informacyjny
- - [http://podlasie24.pl](http://podlasie24.pl)
- - date_published: 2024-07-14T07:43:37.560785+00:00
-
- ## Oferta znanego podologa z Wrocławia | Leczenie schorzeń stóp
- - [https://podoland.pl](https://podoland.pl)
- - date_published: 2024-08-11T04:26:43.790231+00:00
-
- ## Podróże - Ciekawe miejsca w Polsce i na świecie - Podroze.se.pl
- - [http://www.podroze.pl](http://www.podroze.pl)
- - date_published: 2024-07-09T17:51:53.117424+00:00
-
- ## Podróże z Hubertem
- - [https://podrozezhubertem.pl](https://podrozezhubertem.pl)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Darmowa aplikacja | Pogoda24.pl
- - [https://www.pogoda24.pl](https://www.pogoda24.pl)
- - date_published: 2024-06-25T19:49:02.342512+00:00
-
- ## Pogoda & Radar Polska
- - [https://pogodairadar.pl](https://pogodairadar.pl)
- - date_published: 2024-05-07T13:25:16.877735+00:00
-
- ## METEO IMGW-PIB | Serwis pogodowy
- - [http://www.pogodynka.pl](http://www.pogodynka.pl)
- - date_published: 2024-06-26T12:15:06+00:00
-
- ## Strona główna - Pogotowie Ratunkowe we Wrocławiu
- - [https://pogotowie-ratunkowe.pl](https://pogotowie-ratunkowe.pl)
- - date_published: 2024-07-17T15:45:24.049418+00:00
-
- ## Pokemon Crystal :: Strona Główna
- - [https://pokemoncrystal.pl](https://pokemoncrystal.pl)
- - date_published: 2024-05-30T00:00:00+00:00
- - tags: ['pokemon']
 

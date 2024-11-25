@@ -1,3 +1,131 @@
+ ## Chuyên trang thông tin Chính sách và cuộc sống - TTXVN
+ - [https://chinhsachcuocsong.vnanet.vn](https://chinhsachcuocsong.vnanet.vn)
+ - date_published: 2024-06-18T14:19:20.171443+00:00
+
+ ## Điểm chuẩn đại học - Điểm thi THPT quốc gia 2024 - Chỉ tiêu các trường ĐH-CĐ năm 2024
+ - [https://diemthi.vnanet.vn](https://diemthi.vnanet.vn)
+ - date_published: 2024-06-18T14:08:21+00:00
+
+ ## Chuyên trang thông tin Việt Nam hạnh phúc (TTXVN)
+ - [https://happyvietnam.vnanet.vn](https://happyvietnam.vnanet.vn)
+ - date_published: 2024-10-22T07:28:43.260527+00:00
+
+ ## IIS Windows Server
+ - [https://images.vnanet.vn](https://images.vnanet.vn)
+ - date_published: 2021-10-26T02:08:06+00:00
+
+ ## VNANET.VN - Thông Tấn Xã Việt Nam
+ - [https://news.vnanet.vn](https://news.vnanet.vn)
+ - date_published: 2024-05-02T13:26:21.229280+00:00
+
+ ## Chuyên trang Nhân vật - Sự kiện của TTXVN
+ - [https://nvsk.vnanet.vn](https://nvsk.vnanet.vn)
+ - date_published: 2024-06-18T14:19:25.856707+00:00
+
+ ## VNANET.VN - Thông Tấn Xã Việt Nam
+ - [https://service.vnanet.vn](https://service.vnanet.vn)
+ - date_published: 2024-06-18T14:19:31.395480+00:00
+
+ ## Vietnam News | Politics, Business, Economy, Society, Life, Sports - VietNam News
+ - [http://vietnamnews.vnanet.vn](http://vietnamnews.vnanet.vn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## TTXVN-vietnam.vnanet.vn
+ - [https://vietnam.vnanet.vn](https://vietnam.vnanet.vn)
+ - date_published: 2024-05-02T13:26:38.426026+00:00
+
+ ## Thông tấn xã Việt Nam (TTXVN)
+ - [https://vnanet.vn](https://vnanet.vn)
+ - date_published: 2024-05-02T13:25:45.017775+00:00
+
+ ## Dịch vụ dịch thuật VNET Global, dịch thuật, phiên dịch tiếng Anh, nhật
+ - [https://vnetglobal.vn](https://vnetglobal.vn)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Công ty cổ phần Hóa Dầu và Xơ Sợi Việt Nam
+ - [http://vnpoly.vn](http://vnpoly.vn)
+ - date_published: 2024-10-22T08:48:31.238753+00:00
+
+ ## Cộng đồng XenForo lớn nhất Việt Nam
+ - [https://vnxf.vn](https://vnxf.vn)
+ - date_published: 2024-06-29T18:04:57.282421+00:00
+
+ ## Safety Verification | Whoops
+ - [http://dotkich.vtcgame.vn](http://dotkich.vtcgame.vn)
+ - date_published: 2024-06-18T18:53:44.144936+00:00
+
+ ## Báo điện tử VTC News - Đọc báo tin tức trong ngày hôm nay
+ - [http://vtcnews.vn](http://vtcnews.vn)
+ - date_published: 2024-10-22T08:12:26.793265+00:00
+
+ ## Diễn đàn xuất nhập khẩu và logistics lớn nhất Việt Nam
+ - [https://weblogistics.vn](https://weblogistics.vn)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## wikiHow: Các bài viết hướng dẫn đáng tin cậy
+ - [https://wikihow.vn](https://wikihow.vn)
+ - date_published: 2024-06-12T15:28:22+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baoanhdantocmiennui.xembao.vn](https://baoanhdantocmiennui.xembao.vn)
+ - date_published: 2024-06-18T14:22:23.206437+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baoapbac.xembao.vn](https://baoapbac.xembao.vn)
+ - date_published: 2024-10-22T08:30:53.606623+00:00
+
+ ## TTXVN - Báo Bắc Giang - Xem báo giấy Online
+ - [https://baobacgiang.xembao.vn](https://baobacgiang.xembao.vn)
+ - date_published: 2024-10-22T08:29:55.320741+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baobacninh.xembao.vn](https://baobacninh.xembao.vn)
+ - date_published: 2024-10-22T08:30:17.576916+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baocantho.xembao.vn](https://baocantho.xembao.vn)
+ - date_published: 2024-10-22T08:30:21.103759+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baodaknong.xembao.vn](https://baodaknong.xembao.vn)
+ - date_published: 2024-10-22T08:30:05.984115+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baodanang.xembao.vn](https://baodanang.xembao.vn)
+ - date_published: 2024-10-22T08:29:44.356276+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baodienbien.xembao.vn](https://baodienbien.xembao.vn)
+ - date_published: 2024-10-22T08:30:08.529736+00:00
+
+ ## TTXVN
+ - [https://baodongnai.xembao.vn](https://baodongnai.xembao.vn)
+ - date_published: 2024-10-22T08:29:47.538728+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baohaiduong.xembao.vn](https://baohaiduong.xembao.vn)
+ - date_published: 2024-10-22T08:30:29.391992+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baohaiphong.xembao.vn](https://baohaiphong.xembao.vn)
+ - date_published: 2024-10-22T08:30:23.759912+00:00
+
+ ## TTXVN
+ - [https://baohatinh.xembao.vn](https://baohatinh.xembao.vn)
+ - date_published: 2024-10-22T08:30:03.214493+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baokiengiang.xembao.vn](https://baokiengiang.xembao.vn)
+ - date_published: 2024-10-22T08:30:46.917554+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baolaichau.xembao.vn](https://baolaichau.xembao.vn)
+ - date_published: 2024-10-22T08:30:32.403863+00:00
+
+ ## TTXVN - Xem báo giấy Online
+ - [https://baolamdong.xembao.vn](https://baolamdong.xembao.vn)
+ - date_published: 2024-10-22T08:30:41.316131+00:00
+
  ## TTXVN - Xem báo giấy Online
  - [https://baolongan.xembao.vn](https://baolongan.xembao.vn)
  - date_published: 2024-10-22T08:30:44.414016+00:00
@@ -3914,137 +4042,4 @@ VANCOUVER BC PROGRAMMER
  ## excuse me, what the fuck?
  - [https://excuseme.wtf](https://excuseme.wtf)
  - date_published: 2024-09-14T23:31:34.280328+00:00
-
- ## What-The-Format?
- - [https://format.wtf](https://format.wtf)
- - date_published: 2024-08-14T00:08:15+00:00
-
- ## Framed - The daily movie guessing game
- - [https://framed.wtf](https://framed.wtf)
- - date_published: 2024-05-09T07:19:06.002370+00:00
-
- ## fx – command-line tool for JSON
- - [https://fx.wtf](https://fx.wtf)
- - date_published: 2023-10-25T08:34:35.904683+00:00
- - tags: ['cli tool', 'json']
-
- ## 呂丹冊工
- - [https://gami.wtf](https://gami.wtf)
- - date_published: 2024-09-17T23:38:18+00:00
-
- ## Genders.WTF
- - [https://genders.wtf](https://genders.wtf)
- - date_published: 2023-10-25T23:02:12.421357+00:00
-
- ## glyph 6
- - [https://g6.glyph.wtf](https://g6.glyph.wtf)
- - date_published: 2024-09-16T23:57:20.625930+00:00
-
- ## Gnars DAO
- - [https://www.gnars.wtf](https://www.gnars.wtf)
- - date_published: 2024-05-02T13:43:43.908527+00:00
-
- ## Home
- - [https://how.wtf](https://how.wtf)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Hurl, the Exceptional Language
- - [https://hurl.wtf](https://hurl.wtf)
- - date_published: 2024-05-26T05:57:52+00:00
- - tags: ['programming language']
-
- ## Jacky Alciné has a homepage.
- - [https://jacky.wtf](https://jacky.wtf)
- - date_published: 2024-06-30T18:06:30+00:00
-
- ## Jacky Alciné has a homepage.
- - [https://v2.jacky.wtf](https://v2.jacky.wtf)
- - date_published: 2024-06-12T22:47:03+00:00
-
- ## WTF is Jamstack?
- - [https://jamstack.wtf](https://jamstack.wtf)
- - date_published: 2024-05-04T14:03:03.334256+00:00
-
- ## Jer...WTF Redirection Service
- - [http://jer.wtf](http://jer.wtf)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Jerry Liu
- - [https://jerry.wtf](https://jerry.wtf)
- - date_published: 2024-04-16T00:00:00+00:00
- - tags: ['personal']
-
- ## Jito Labs
- - [https://www.jito.wtf](https://www.jito.wtf)
- - date_published: 2024-09-09T13:58:41.263020+00:00
-
- ## Justmatch - The Art of Perfect Job Matching
- - [https://justmatch.wtf](https://justmatch.wtf)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home | Lanre Adelowo
- - [https://lanre.wtf](https://lanre.wtf)
- - date_published: 2024-07-14T17:01:29.210159+00:00
-
- ## Will twitter outlast this lettuce?
- - [https://lettuce.wtf](https://lettuce.wtf)
- - date_published: 2023-10-25T23:02:13.189906+00:00
-
- ## Mack
- - [https://mack.wtf](https://mack.wtf)
- - date_published: 2024-08-06T05:14:45.706310+00:00
-
- ## cobalt
- - [https://co.mae.wtf](https://co.mae.wtf)
- - date_published: 2024-09-27T20:53:56+00:00
-
- ## mae / vimae's cozy site ✨
- - [https://mae.wtf](https://mae.wtf)
- - date_published: 2024-06-19T02:26:19.728440+00:00
-
- ## Plausible · Web analytics
- - [https://metrics.mae.wtf](https://metrics.mae.wtf)
- - date_published: 2024-10-27T12:26:58.620769+00:00
-
- ## mtg.wtf
- - [https://mtg.wtf](https://mtg.wtf)
- - date_published: 2024-10-09T11:13:16.169979+00:00
-
- ## Ned! WTF?!?!?
- - [https://www.ned.wtf](https://www.ned.wtf)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Dmitry Non
- - [https://nondv.wtf](https://nondv.wtf)
- - date_published: 2023-11-08T22:10:31.500527+00:00
- - tags: ['devlog']
-
- ## Noundation
- - [https://www.noundation.wtf](https://www.noundation.wtf)
- - date_published: 2023-11-10T16:53:12+00:00
-
- ## Noundry Studio
- - [https://studio.noundry.wtf](https://studio.noundry.wtf)
- - date_published: 2024-09-21T23:47:01.335133+00:00
-
- ## Nouns DAO
- - [https://nouns.wtf](https://nouns.wtf)
- - date_published: 2024-06-16T03:46:15.068144+00:00
-
- ## Oliver Leaver-Smith
- - [https://ols.wtf](https://ols.wtf)
- - date_published: 2024-07-23T23:31:08.503959+00:00
-
- ## yeet
- - [https://yeet.ols.wtf](https://yeet.ols.wtf)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## overkill.wtf | Steam Deck news, reviews and more
- - [https://overkill.wtf](https://overkill.wtf)
- - date_published: 2023-10-25T23:02:15.238658+00:00
- - tags: ['steam deck', 'video game news']
-
- ## Home
- - [https://patrick.wtf](https://patrick.wtf)
- - date_published: 2024-05-07T23:10:51.057859+00:00
 

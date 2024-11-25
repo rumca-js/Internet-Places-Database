@@ -1,3 +1,11 @@
+ ## Netatmo - Order tracking
+ - [https://netatmo.shipup.co](https://netatmo.shipup.co)
+ - date_published: 2023-12-13T17:42:25+00:00
+
+ ## Shock es Música, Cine, Cultura Joven y mucho más cotenido
+ - [https://shock.co](https://shock.co)
+ - date_published: 2024-06-12T06:01:42.972443+00:00
+
  ## The First Operator of E-Commerce Software - Shop Circle
  - [https://shopcircle.co](https://shopcircle.co)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -2052,6 +2060,7 @@
  ## Vine
  - [https://vine.co](https://vine.co)
  - date_published: 2024-05-02T12:37:17.905537+00:00
+ - tags: ['memes', 'depricated']
 
  ## Show HN: I made Vinlo – Spinning artwork video for your music
  - [https://vinlo.co](https://vinlo.co)
@@ -4012,12 +4021,4 @@
  ## inicio
  - [https://calendarioacademico.libertadores.edu.co](https://calendarioacademico.libertadores.edu.co)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## Educación Continua | Diplomados seminarios y cursos
- - [https://educacion-continua.libertadores.edu.co](https://educacion-continua.libertadores.edu.co)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Error
- - [https://gf.libertadores.edu.co](https://gf.libertadores.edu.co)
- - date_published: 2024-09-12T14:45:10.304694+00:00
 

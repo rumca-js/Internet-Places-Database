@@ -1,3 +1,83 @@
+ ## TuckLAB - Welcome
+ - [https://tucklab.tuck.dartmouth.edu](https://tucklab.tuck.dartmouth.edu)
+ - date_published: 2024-07-22T04:42:34.787189+00:00
+
+ ## Home
+ - [https://web.cs.dartmouth.edu](https://web.cs.dartmouth.edu)
+ - date_published: 2020-05-07T14:55:09+00:00
+
+ ## WeBWorK at Dartmouth
+ - [https://webwork.dartmouth.edu](https://webwork.dartmouth.edu)
+ - date_published: 2024-04-30T04:11:47.206770+00:00
+
+ ## Home
+ - [https://wgs.dartmouth.edu](https://wgs.dartmouth.edu)
+ - date_published: 2020-10-22T15:57:28+00:00
+
+ ## Home
+ - [https://writing.dartmouth.edu](https://writing.dartmouth.edu)
+ - date_published: 2022-11-17T21:32:45+00:00
+
+ ## WS Demo Homepage
+ - [https://ws.dartmouth.edu](https://ws.dartmouth.edu)
+ - date_published: 2016-06-09T13:16:45+00:00
+
+ ## Home | Dartmouth TTO
+ - [https://www.tto.dartmouth.edu](https://www.tto.dartmouth.edu)
+ - date_published: 2024-07-22T04:46:48.111931+00:00
+
+ ## March MATHness
+ - [https://marchmathness.davidson.edu](https://marchmathness.davidson.edu)
+ - date_published: 2017-01-01T00:00:00+00:00
+
+ ## Davidson College | Davidson
+ - [http://www.davidson.edu](http://www.davidson.edu)
+ - date_published: 2024-08-19T20:00:30+00:00
+
+ ## University of Dubuque Theological Seminary
+ - [http://udts.dbq.edu](http://udts.dbq.edu)
+ - date_published: 2024-06-28T20:40:10.466054+00:00
+
+ ## DC3 CTA
+ - [https://www.dcita.edu](https://www.dcita.edu)
+ - date_published: 2024-04-18T15:43:07+00:00
+
+ ## De Anza College - Tops in Transfer
+ - [https://deanza.edu](https://deanza.edu)
+ - date_published: 2024-05-09T08:42:01.183697+00:00
+
+ ## DePaul University Academics | DePaul University, Chicago
+ - [https://academics.depaul.edu](https://academics.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sign in to Outlook
+ - [https://bluemail.depaul.edu](https://bluemail.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## HTML REDIRECT
+ - [https://campusconnect.depaul.edu](https://campusconnect.depaul.edu)
+ - date_published: 2019-06-28T19:07:52+00:00
+
+ ## Academic Catalog < DePaul University
+ - [https://catalog.depaul.edu](https://catalog.depaul.edu)
+ - date_published: 2024-06-24T14:23:46+00:00
+
+ ## Foundations of Programming Languages Group
+ - [http://cryptyc.cs.depaul.edu](http://cryptyc.cs.depaul.edu)
+ - date_published: 2022-10-21T20:24:08+00:00
+
+ ## Sign in to your account
+ - [https://d2l.depaul.edu](https://d2l.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Emergency Plan | DePaul University, Chicago
+ - [https://emergencyplan.depaul.edu](https://emergencyplan.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Events Calendar - DePaul University
+ - [https://events.depaul.edu](https://events.depaul.edu)
+ - date_published: 2024-07-09T21:29:41.613091+00:00
+
  ## DePaul University Libraries: EZproxy
  - [https://ezproxy.depaul.edu](https://ezproxy.depaul.edu)
  - date_published: 1999-01-01T00:00:00+00:00
@@ -3918,84 +3998,4 @@
  ## Home | Wellness Empowerment Center
  - [https://wellnesscenter.gatech.edu](https://wellnesscenter.gatech.edu)
  - date_published: 2024-07-17T12:22:20+00:00
-
- ## Williams Lab
- - [https://williams.chemistry.gatech.edu](https://williams.chemistry.gatech.edu)
- - date_published: 2024-06-19T03:09:00+00:00
-
- ## Welcome | Center for the Study of Women, Science and Technology  | Office of the Vice Provost for Faculty
- - [https://wst.gatech.edu](https://wst.gatech.edu)
- - date_published: 2024-10-11T22:44:46.437281+00:00
-
- ## GT Campus Closet – Don't have a Suit?   Rent one from Us.
- - [https://www.campuscloset.gatech.edu](https://www.campuscloset.gatech.edu)
- - date_published: 2024-07-22T03:27:27.767111+00:00
-
- ## Georgia Tech Foundation | Transforming Tomorrow
- - [https://www.gtf.gatech.edu](https://www.gtf.gatech.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Irfan Essa
- - [https://www.irfanessa.gatech.edu](https://www.irfanessa.gatech.edu)
- - date_published: 2024-07-13T03:18:25.528781+00:00
-
- ## ZL Wang's Homepage
- - [http://www.nanoscience.gatech.edu](http://www.nanoscience.gatech.edu)
- - date_published: 2024-06-29T22:30:32.135969+00:00
-
- ## Online Master of Science in Computer Science (OMSCS)
- - [https://www.omscs.gatech.edu](https://www.omscs.gatech.edu)
- - date_published: 2024-05-06T13:41:51.495789+00:00
-
- ## Home | Georgia Tech Supply Chain and Logistics Institute
- - [https://www.scl.gatech.edu](https://www.scl.gatech.edu)
- - date_published: 2024-07-15T02:16:30+00:00
-
- ## Student Government Association
- - [https://www.sga.gatech.edu](https://www.sga.gatech.edu)
- - date_published: 2024-09-13T17:50:58+00:00
-
- ## Home Page | Vertically Integrated Projects |  Offical Site
- - [https://www.vip.gatech.edu](https://www.vip.gatech.edu)
- - date_published: 2024-10-11T22:45:03.683071+00:00
-
- ## GateWay Community College
- - [https://www.gatewaycc.edu](https://www.gatewaycc.edu)
- - date_published: 2024-07-09T15:29:18+00:00
-
- ## Home - Gavilan College
- - [https://www.gavilan.edu](https://www.gavilan.edu)
- - date_published: 2024-07-02T20:13:38.153860+00:00
-
- ## login home page - default - Main View | Home Page | Campus Web
- - [https://campusweb.gbc.edu](https://campusweb.gbc.edu)
- - date_published: 2024-04-30T04:20:18.705462+00:00
-
- ## Goldey-Beacom College
- - [https://gbc.edu](https://gbc.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Goldey-Beacom College
- - [http://go.gbc.edu](http://go.gbc.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Grove City College | A Conservative Christian College in PA
- - [http://www.gcc.edu](http://www.gcc.edu)
- - date_published: 2024-06-28T14:31:34.704549+00:00
-
- ## Grand Canyon University | Online, Evening & Campus Degrees
- - [https://explore.gcu.edu](https://explore.gcu.edu)
- - date_published: 2024-07-06T21:40:28.060624+00:00
-
- ## Gemini Observatory
- - [http://www.gemini.edu](http://www.gemini.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Geneva College
- - [http://www.geneva.edu](http://www.geneva.edu)
- - date_published: 2024-06-28T14:16:39.631467+00:00
-
- ## Alumni Admissions Program - Alumni Admissions Program
- - [https://aap.georgetown.edu](https://aap.georgetown.edu)
- - date_published: 2024-10-22T05:35:38.198476+00:00
 

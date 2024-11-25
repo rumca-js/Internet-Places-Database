@@ -1,3 +1,12 @@
+ ## 年賀状2025（令和7年・巳年・へび）無料素材
+ - [https://www.new-year.bz](https://www.new-year.bz)
+ - date_published: 2024-10-30T18:37:03.546458+00:00
+
+ ## -=:[ From the mind of Michael Walden ]:=-
+ - [https://mw.rat.bz](https://mw.rat.bz)
+ - date_published: 2024-02-10T00:00:00+00:00
+ - tags: ['personal', 'blog']
+
  ## Custom Domain by Bitly
  - [https://samg.bz](https://samg.bz)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4012,12 +4021,4 @@
  ## Forest Anderson - Backend Developer
  - [https://www.forest-anderson.ca](https://www.forest-anderson.ca)
  - date_published: 2021-05-21T01:26:29+00:00
-
- ## Home
- - [https://www.fortedmontonpark.ca](https://www.fortedmontonpark.ca)
- - date_published: 2024-07-08T11:26:41.383165+00:00
-
- ## Colin Woodbury - About
- - [https://www.fosskers.ca](https://www.fosskers.ca)
- - date_published: 2024-01-29T23:02:20.819692+00:00
 

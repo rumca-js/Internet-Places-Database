@@ -1,3 +1,114 @@
+ ## The OpenAMP Project
+ - [https://openampproject.org](https://openampproject.org)
+ - date_published: 2024-05-08T09:36:49.335525+00:00
+
+ ## OpenAndroMaps Rad.- und Wanderkarten für Android
+ - [https://www.openandromaps.org](https://www.openandromaps.org)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Getting Started
+ - [https://learn.openapis.org](https://learn.openapis.org)
+ - date_published: 2024-08-22T13:07:02+00:00
+
+ ## Home 2024 - OpenAPI Initiative
+ - [https://openapis.org](https://openapis.org)
+ - date_published: 2024-04-30T06:58:10.807394+00:00
+
+ ## Home
+ - [https://spec.openapis.org](https://spec.openapis.org)
+ - date_published: 2024-05-07T19:02:17.440639+00:00
+
+ ## GitHub - OpenApoc/OpenApoc: Opensource rebuild of the XCOM Apocalypse Engine that requires the original files to run.
+ - [http://openapoc.org](http://openapoc.org)
+ - date_published: 2024-08-20T00:01:28.235228+00:00
+
+ ## Home
+ - [https://openaq.org](https://openaq.org)
+ - date_published: 2024-09-11T16:44:44+00:00
+
+ ## Open Archives Initiative
+ - [https://openarchives.org](https://openarchives.org)
+ - date_published: 2023-12-14T15:53:42+00:00
+
+ ## https://code.openark.org
+ - [https://code.openark.org](https://code.openark.org)
+ - date_published: 2013-05-21T06:41:54+00:00
+
+ ## Open Asteroid Impact
+ - [https://openasteroidimpact.org](https://openasteroidimpact.org)
+ - date_published: 2024-05-04T12:17:58.607615+00:00
+
+ ## OpenAtom Foundation
+ - [https://www.openatom.org](https://www.openatom.org)
+ - date_published: 2024-09-21T22:45:35.838638+00:00
+
+ ## boards · Topics · GitLab
+ - [https://openbeagle.org](https://openbeagle.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## OpenBenches Welcome!
+ - [https://openbenches.org](https://openbenches.org)
+ - date_published: 2019-05-05T00:00:00+00:00
+
+ ## OpenBenchmarking.org - Cross-Platform, Open-Source Automated Benchmarking Platform
+ - [https://openbenchmarking.org](https://openbenchmarking.org)
+ - date_published: 2024-05-06T23:16:42.691875+00:00
+
+ ## OpenBGPD
+ - [https://openbgpd.org](https://openbgpd.org)
+ - date_published: 2022-07-25T17:05:09+00:00
+ - tags: ['open source']
+
+ ## OBF        Open Bioinformatics Foundation
+ - [http://open-bio.org](http://open-bio.org)
+ - date_published: 2024-10-31T06:52:30.537248+00:00
+
+ ## OBF        Open Bioinformatics Foundation
+ - [https://www.open-bio.org](https://www.open-bio.org)
+ - date_published: 2024-06-28T19:57:02.511311+00:00
+
+ ## COBA
+ - [https://openbioimageanalysis.org](https://openbioimageanalysis.org)
+ - date_published: 2024-10-19T07:57:35.392848+00:00
+
+ ## OpenBot
+ - [https://www.openbot.org](https://www.openbot.org)
+ - date_published: 2024-07-22T03:53:33.367992+00:00
+
+ ## CVS Repository
+ - [https://cvsweb.openbsd.org](https://cvsweb.openbsd.org)
+ - date_published: 2024-05-06T22:01:05.765074+00:00
+
+ ## Majordomo at openbsd.org: welcome
+ - [https://lists.openbsd.org](https://lists.openbsd.org)
+ - date_published: 2024-06-27T17:05:30.831054+00:00
+
+ ## OpenBSD manual pages
+ - [https://man.openbsd.org](https://man.openbsd.org)
+ - date_published: 2024-04-29T07:19:14.024519+00:00
+
+ ## OpenBSD
+ - [https://openbsd.org](https://openbsd.org)
+ - date_published: 2024-04-05T00:00:00+00:00
+ - tags: ['operating system', 'unix']
+
+ ## The OpenBSD Foundation
+ - [https://openbsdfoundation.org](https://openbsdfoundation.org)
+ - date_published: 2024-04-04T13:10:02+00:00
+ - tags: ['open source', 'openbsd', 'organisation']
+
+ ## Free Bug Bounty Program and Coordinated Vulnerability Disclosure | Open Bug Bounty
+ - [https://www.openbugbounty.org](https://www.openbugbounty.org)
+ - date_published: 2024-06-19T22:41:58.105168+00:00
+
+ ## Open Build Service
+ - [https://openbuildservice.org](https://openbuildservice.org)
+ - date_published: 2024-05-09T06:25:03.690575+00:00
+
+ ## businessabc.net - The Global Business Directory
+ - [https://www.openbusinesscouncil.org](https://www.openbusinesscouncil.org)
+ - date_published: 2024-09-25T12:42:58.085920+00:00
+
  ## OpenCampingMap
  - [https://opencampingmap.org](https://opencampingmap.org)
  - date_published: 2024-07-14T00:00:00+00:00
@@ -3603,6 +3714,20 @@ OpenJDK Wiki
  - [https://2024.otcnet.org](https://2024.otcnet.org)
  - date_published: 2024-08-18T19:29:46.436719+00:00
 
+ ## The Ipe extensible drawing editor
+ - [https://ipe.otfried.org](https://ipe.otfried.org)
+ - date_published: 2024-11-24T18:39:08+00:00
+ - tags: ['drawing editor', 'latex']
+
+ ## Ipe Web Edition
+ - [https://ipe-web.otfried.org](https://ipe-web.otfried.org)
+ - date_published: 2024-11-24T17:45:56.399797+00:00
+
+ ## Otfried Cheong
+ - [https://otfried.org](https://otfried.org)
+ - date_published: 2024-11-24T18:40:16+00:00
+ - tags: ['personal', 'professor']
+
  ## Othello Park Alliance – A Beautiful 7 Acre Park in the Othello Neighborhood of Seattle
  - [https://othellopark.org](https://othellopark.org)
  - date_published: 2024-08-19T05:41:34.873025+00:00
@@ -3949,124 +4074,4 @@ for emulation
  ## ownCloud Documentation Overview
  - [https://doc.owncloud.org](https://doc.owncloud.org)
  - date_published: 2024-07-09T00:57:18+00:00
-
- ## ownCloud - share files and folders, easy and secure
- - [https://owncloud.org](https://owncloud.org)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home Page | IHG Owners Association
- - [http://www.owners.org](http://www.owners.org)
- - date_published: 2024-06-28T17:09:43.934092+00:00
-
- ## 4clojure 4ever
- - [https://4clojure.oxal.org](https://4clojure.oxal.org)
- - date_published: 2024-03-12T11:57:21+00:00
-
- ## oxalorg ><><><><><
- - [https://oxal.org](https://oxal.org)
- - date_published: 2022-04-14T10:26:28+00:00
-
- ## أوكسفام بالعربية
- - [https://arabic.oxfam.org](https://arabic.oxfam.org)
- - date_published: 2024-05-08T11:30:04.902558+00:00
-
- ## Compass | Oxfam
- - [https://compass.oxfam.org](https://compass.oxfam.org)
- - date_published: 2024-05-08T03:19:39.192839+00:00
-
- ## The future is equal | Oxfam International
- - [https://oxfam.org](https://oxfam.org)
- - date_published: 2023-10-25T21:55:30.733555+00:00
-
- ## Home - Oxfam Policy & Practice
- - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Take action
- - [https://act.oxfamamerica.org](https://act.oxfamamerica.org)
- - date_published: 2024-07-08T13:53:34.136351+00:00
-
- ## Donate now | Oxfam
- - [https://give.oxfamamerica.org](https://give.oxfamamerica.org)
- - date_published: 2024-07-08T13:53:39.330610+00:00
-
- ## Oxfam America
- - [https://oxfamamerica.org](https://oxfamamerica.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Oxfam France
- - [https://www.oxfamfrance.org](https://www.oxfamfrance.org)
- - date_published: 2024-07-08T13:45:03+00:00
-
- ## Oxfam India | NGO Working For Child Education, Inequality, Women Empowerment
- - [https://www.oxfamindia.org](https://www.oxfamindia.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Oxfam Intermón
- - [https://www.oxfamintermon.org](https://www.oxfamintermon.org)
- - date_published: 2024-07-07T01:41:05+00:00
-
- ## GAZA CRISIS APPEAL
- - [https://www.oxfamireland.org](https://www.oxfamireland.org)
- - date_published: 2023-06-04T13:19:00+00:00
-
- ## Home
- - [https://www.oxfamitalia.org](https://www.oxfamitalia.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Oxfam México | La igualdad es el futuro
- - [https://www.oxfammexico.org](https://www.oxfammexico.org)
- - date_published: 2024-07-08T13:54:00.740177+00:00
-
- ## Oxford American | Home
- - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
- - date_published: 2023-10-25T21:55:33.395856+00:00
-
- ## Oxford American | Home
- - [https://oxfordamerican.org](https://oxfordamerican.org)
- - date_published: 2023-10-25T21:55:35.228196+00:00
-
- ## Oxford American Goods
- - [https://oxfordamericangoods.org](https://oxfordamericangoods.org)
- - date_published: 2024-05-08T11:30:08.608224+00:00
-
- ## Home - OBA Network - University of Oxford
- - [https://www.oxfordbusinessalumni.org](https://www.oxfordbusinessalumni.org)
- - date_published: 2024-08-11T02:35:13.373250+00:00
-
- ## TEST OSOBNOSTI
- - [https://cz.oxfordcapacityanalysis.org](https://cz.oxfordcapacityanalysis.org)
- - date_published: 2024-06-17T16:40:46.813216+00:00
-
- ## Personality Test
- - [https://www.oxfordcapacityanalysis.org](https://www.oxfordcapacityanalysis.org)
- - date_published: 2024-05-02T10:38:15.773984+00:00
-
- ## Welcome to Oxford Interfaith Forum - Oxford Interfaith Forum
- - [https://www.oxfordinterfaithforum.org](https://www.oxfordinterfaithforum.org)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Bioinformatics | Oxford Academic
- - [http://bioinformatics.oxfordjournals.org](http://bioinformatics.oxfordjournals.org)
- - date_published: 2024-07-21T02:06:09.579507+00:00
-
- ## Conservation Physiology | Oxford Academic
- - [https://conphys.oxfordjournals.org](https://conphys.oxfordjournals.org)
- - date_published: 2024-06-30T04:57:57.473304+00:00
-
- ## Journal of Cybersecurity | Oxford Academic
- - [http://cybersecurity.oxfordjournals.org](http://cybersecurity.oxfordjournals.org)
- - date_published: 2024-06-17T10:10:57.495579+00:00
-
- ## European Journal of International Law | Oxford Academic
- - [http://ejil.oxfordjournals.org](http://ejil.oxfordjournals.org)
- - date_published: 2024-10-18T21:08:21.378909+00:00
-
- ## Genome Biology and Evolution | Oxford Academic
- - [http://gbe.oxfordjournals.org](http://gbe.oxfordjournals.org)
- - date_published: 2024-10-19T06:22:29.437477+00:00
-
- ## Journals Career Network (Powered by Yourmembership.com)
- - [https://globaljobs-careernetwork.oxfordjournals.org](https://globaljobs-careernetwork.oxfordjournals.org)
- - date_published: 2024-10-18T05:30:06.296434+00:00
 

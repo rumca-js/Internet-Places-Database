@@ -1,3 +1,44 @@
+ ## Influ2: Person-Based Ads That Help You Sell
+ - [https://www.influ2.com](https://www.influ2.com)
+ - date_published: 2024-05-06T12:57:14.866450+00:00
+
+ ## The Influence Association - Influence and effectiveness
+ - [https://influenceassociation.com](https://influenceassociation.com)
+ - date_published: 2023-12-27T01:06:23.856215+00:00
+ - tags: ['personal']
+
+ ## INFLUENCE AT WORK | Dr. Robert Cialdini Influence Training & Keynotes
+ - [https://www.influenceatwork.com](https://www.influenceatwork.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Performance Partnerships for Creators and Brands
+ - [https://influencelogic.com](https://influencelogic.com)
+ - date_published: 2024-09-21T23:05:54.101878+00:00
+
+ ## INFLUENCE Magazine
+ - [http://influencemagazineflorida.com](http://influencemagazineflorida.com)
+ - date_published: 2024-10-29T11:26:51.266064+00:00
+
+ ## Influencer and Affiliate Marketing Conference 2024- London, New York & Amsterdam
+ - [https://www.influencermarketing-conference.com](https://www.influencermarketing-conference.com)
+ - date_published: 2024-09-20T10:17:01.508004+00:00
+
+ ## Influencer Marketing Hub | Leading Digital Marketing Resource with over 5M Monthly Readers
+ - [https://influencermarketinghub.com](https://influencermarketinghub.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Influencive - Top entrepreneur publication red pilled on web3
+ - [https://www.influencive.com](https://www.influencive.com)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Influex
+ - [http://influex.com](http://influex.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Customer Ambassador Program
+ - [https://goto-logmein.influitive.com](https://goto-logmein.influitive.com)
+ - date_published: 2024-06-21T15:44:55.456311+00:00
+
  ## RingCentral Game Changers
  - [https://ringcentraldevs.influitive.com](https://ringcentraldevs.influitive.com)
  - date_published: 2024-06-15T10:02:00.703977+00:00
@@ -3981,44 +4022,4 @@
  ## ctcLink - Sign In
  - [https://pencol.instructure.com](https://pencol.instructure.com)
  - date_published: 2024-07-01T16:57:09.050762+00:00
-
- ## Canvas @ Princeton
- - [https://princeton.instructure.com](https://princeton.instructure.com)
- - date_published: 2024-08-10T14:18:11+00:00
-
- ## Sign in to your account
- - [https://psu.instructure.com](https://psu.instructure.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Canvas
- - [https://rutgers.instructure.com](https://rutgers.instructure.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Instructure Status
- - [https://status.instructure.com](https://status.instructure.com)
- - date_published: 2024-07-01T18:09:46.685972+00:00
-
- ## Sign in to your account
- - [http://swlaw.instructure.com](http://swlaw.instructure.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Sign in to your account
- - [https://tuskegee.instructure.com](https://tuskegee.instructure.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Log In | UCSB Canvas
- - [https://ucsb.instructure.com](https://ucsb.instructure.com)
- - date_published: 2024-09-13T11:41:55+00:00
-
- ## eLearning - University of Florida
- - [https://ufl.instructure.com](https://ufl.instructure.com)
- - date_published: 2024-07-02T02:06:26.245673+00:00
-
- ## University of Illinois Springfield - UIS Login Service
- - [https://uispringfield.instructure.com](https://uispringfield.instructure.com)
- - date_published: 2024-07-02T02:49:34.169764+00:00
-
- ## UMD CAS - Central Authentication Service
- - [https://umd.instructure.com](https://umd.instructure.com)
- - date_published: 2024-07-02T03:39:51.177536+00:00
 

@@ -1,3 +1,37 @@
+ ## Homepage
+ - [https://games.gamesplaza.com](https://games.gamesplaza.com)
+ - date_published: 2024-09-30T10:49:13.467678+00:00
+
+ ## Comic Vine
+ - [https://comicvine.gamespot.com](https://comicvine.gamespot.com)
+ - date_published: 2024-06-23T20:32:22.486212+00:00
+
+ ## GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More
+ - [https://gamefaqs.gamespot.com](https://gamefaqs.gamespot.com)
+ - date_published: 2023-10-25T14:41:09.308883+00:00
+
+ ## Video Games Reviews & News - GameSpot
+ - [https://gamespot.com](https://gamespot.com)
+ - date_published: 2023-10-25T10:48:12.023848+00:00
+ - tags: ['video game news', 'video games']
+
+ ## Blizzard Press Center - Komunikaty prasowe
+ - [https://blizzard.gamespress.com](https://blizzard.gamespress.com)
+ - date_published: 2024-09-16T02:58:39.390135+00:00
+
+ ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
+ - [http://comrade.gamespy.com](http://comrade.gamespy.com)
+ - date_published: 2016-10-20T19:28:14+00:00
+
+ - [https://planetquake.gamespy.com](https://planetquake.gamespy.com)
+ - date_published: 2014-07-16T17:00:47+00:00
+ - tags: ['quake']
+
+ ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
+ - [http://www.gamespy.com](http://www.gamespy.com)
+ - date_published: 2016-10-20T19:28:14+00:00
+ - tags: ['abandoned', 'video game news']
+
  ## Xbox 360 - X360 - Cheats, Cheat Codes, Videos, Reviews - GameSpy
  - [http://xbox360.gamespy.com](http://xbox360.gamespy.com)
  - date_published: 2013-06-28T17:23:11+00:00
@@ -4016,36 +4050,4 @@
  ## Gentle Giant Moving Company
  - [https://www.gentlegiant.com](https://www.gentlegiant.com)
  - date_published: 2024-06-29T15:21:52.281206+00:00
-
- ## The Gentleman Stationer
- - [https://www.gentlemanstationer.com](https://www.gentlemanstationer.com)
- - date_published: 2024-05-06T16:33:40.420324+00:00
-
- ## PHP Scripts - GentleSource PHP Scripts
- - [http://www.gentlesource.com](http://www.gentlesource.com)
- - date_published: 2024-08-06T22:29:11.113256+00:00
-
- ## Gently - shop every secondhand site
- - [https://www.gently.com](https://www.gently.com)
- - date_published: 2024-07-09T19:13:45.632752+00:00
-
- ## Gentside - Gentside - Le média qui parle à tous les hommes
- - [https://podcasts.gentside.com](https://podcasts.gentside.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Gentside, la voix de tous les jeunes
- - [https://www.gentside.com](https://www.gentside.com)
- - date_published: 2024-06-25T18:24:16.460777+00:00
-
- ## Genucel® Skin Care - Official Site
- - [http://genucel.com](http://genucel.com)
- - date_published: 2024-07-13T23:59:12.447457+00:00
-
- ## Genuina
- - [https://genuinamedia.com](https://genuinamedia.com)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## OEM & Aftermarket Auto Parts | Genuine GM Parts & ACDelco
- - [https://www.genuinegmparts.com](https://www.genuinegmparts.com)
- - date_published: 2024-06-20T07:47:01.190817+00:00
 

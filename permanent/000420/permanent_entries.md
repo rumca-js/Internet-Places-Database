@@ -1,3 +1,131 @@
+ ## School of Engineering
+ - [https://eng.ed.ac.uk](https://eng.ed.ac.uk)
+ - date_published: 2024-04-30T05:56:14.002565+00:00
+
+ ## Edinburgh Global
+ - [https://global.ed.ac.uk](https://global.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:48.023260+00:00
+
+ ## Informatics Group Pages Server
+ - [https://groups.inf.ed.ac.uk](https://groups.inf.ed.ac.uk)
+ - date_published: 2024-06-23T08:58:55.091441+00:00
+
+ ## Informatics Homepages Server
+ - [https://homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk)
+ - date_published: 2024-04-28T03:45:38.567021+00:00
+
+ ## Edinburgh Impact | The University of Edinburgh - Research
+ - [https://impact.ed.ac.uk](https://impact.ed.ac.uk)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Linguistics and English Language
+ - [https://lel.ed.ac.uk](https://lel.ed.ac.uk)
+ - date_published: 2024-04-23T23:25:28.634108+00:00
+
+ ## Library & University Collections
+ - [http://libraryblogs.is.ed.ac.uk](http://libraryblogs.is.ed.ac.uk)
+ - date_published: 2024-10-29T18:44:30.511707+00:00
+
+ ## Linguistics and English Language
+ - [http://ling.ed.ac.uk](http://ling.ed.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Informatics Mailing Lists Server
+ - [http://lists.inf.ed.ac.uk](http://lists.inf.ed.ac.uk)
+ - date_published: 2024-08-07T13:27:51.269551+00:00
+
+ ## 404
+ - [https://mailings.ed.ac.uk](https://mailings.ed.ac.uk)
+ - date_published: 2024-04-09T17:39:17.034725+00:00
+
+ ## Degree finder
+ - [https://postgraduate.degrees.ed.ac.uk](https://postgraduate.degrees.ed.ac.uk)
+ - date_published: 2024-10-17T06:37:18.532133+00:00
+
+ ## School of Philosophy, Psychology & Language Sciences
+ - [https://ppls.ed.ac.uk](https://ppls.ed.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Proof General
+ - [https://proofgeneral.inf.ed.ac.uk](https://proofgeneral.inf.ed.ac.uk)
+ - date_published: 2024-05-17T02:59:18.218334+00:00
+
+ ## SAFE website Login
+ - [https://safe.epcc.ed.ac.uk](https://safe.epcc.ed.ac.uk)
+ - date_published: 2024-06-17T17:29:17.275122+00:00
+
+ ## Search results | The University of Edinburgh
+ - [https://search.ed.ac.uk](https://search.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:50.026219+00:00
+
+ ## School of Mathematics Teaching
+ - [https://teaching.maths.ed.ac.uk](https://teaching.maths.ed.ac.uk)
+ - date_published: 2024-05-02T10:54:02.253074+00:00
+
+ ## Degree finder
+ - [https://undergraduate.degrees.ed.ac.uk](https://undergraduate.degrees.ed.ac.uk)
+ - date_published: 2024-10-17T06:37:22.145255+00:00
+
+ ## InfWeb | InfWeb
+ - [https://web.inf.ed.ac.uk](https://web.inf.ed.ac.uk)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Physics & Astronomy
+ - [http://www2.ph.ed.ac.uk](http://www2.ph.ed.ac.uk)
+ - date_published: 2024-06-20T14:45:50+00:00
+
+ ## Accommodation, Catering and Events at The University of Edinburgh
+ - [https://www.accom.ed.ac.uk](https://www.accom.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:49.061701+00:00
+
+ ## University of Edinburgh Business School
+ - [https://www.business-school.ed.ac.uk](https://www.business-school.ed.ac.uk)
+ - date_published: 2024-10-14T19:32:01.636477+00:00
+
+ ## Centre for the Study of Christian Origins
+ - [http://www.christianorigins.div.ed.ac.uk](http://www.christianorigins.div.ed.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home - Current Law Students
+ - [http://www.currentstudents.law.ed.ac.uk](http://www.currentstudents.law.ed.ac.uk)
+ - date_published: 2024-10-18T22:23:37.232547+00:00
+
+ ## The University of Edinburgh
+ - [https://www.ed.ac.uk](https://www.ed.ac.uk)
+ - date_published: 2024-02-26T15:42:27.741470+00:00
+
+ ## Edinburgh University Students' Association
+ - [https://www.eusa.ed.ac.uk](https://www.eusa.ed.ac.uk)
+ - date_published: 2024-08-07T12:06:45+00:00
+
+ ## Home | Edinburgh Law School
+ - [http://www.law.ed.ac.uk](http://www.law.ed.ac.uk)
+ - date_published: 2024-06-17T11:15:33.311374+00:00
+
+ ## LFCS | InfWeb
+ - [http://www.lfcs.inf.ed.ac.uk](http://www.lfcs.inf.ed.ac.uk)
+ - date_published: 2024-08-18T18:21:07.084648+00:00
+
+ ## School of Mathematics | School of Mathematics
+ - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
+ - date_published: 2023-10-25T22:48:35.495631+00:00
+
+ ## Reid School of Music | Edinburgh College of Art
+ - [http://www.music.ed.ac.uk](http://www.music.ed.ac.uk)
+ - date_published: 2024-08-08T03:36:53.927004+00:00
+
+ ## MyEd Student and Staff Portal
+ - [https://www.myed.ed.ac.uk](https://www.myed.ed.ac.uk)
+ - date_published: 2024-01-24T10:38:29+00:00
+
+ ## Physics & Astronomy
+ - [http://www.ph.ed.ac.uk](http://www.ph.ed.ac.uk)
+ - date_published: 2024-06-17T17:45:05+00:00
+
+ ## Log in - Your University Login - The University of Edinburgh
+ - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
+ - date_published: 1980-01-01T00:00:00+00:00
+
  ## University of Edinburgh Research Explorer
  - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
  - date_published: 2024-04-28T04:01:00.882394+00:00
@@ -3881,132 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Recruitment at the University of Southampton
  - [https://jobs.soton.ac.uk](https://jobs.soton.ac.uk)
  - date_published: 2024-06-18T10:52:10.922625+00:00
-
- ## LibGuides@Southampton: Library Services: Home
- - [https://library.soton.ac.uk](https://library.soton.ac.uk)
- - date_published: 2024-07-08T11:24:26.911235+00:00
-
- ## Manifold Scholarship
- - [https://manifold.soton.ac.uk](https://manifold.soton.ac.uk)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Optoelectronics Research Centre (ORC)
- - [https://orc.soton.ac.uk](https://orc.soton.ac.uk)
- - date_published: 2024-10-21T19:14:12.910812+00:00
-
- ## Sign in to your account
- - [https://sussed.soton.ac.uk](https://sussed.soton.ac.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Homepage
- - [http://users.ecs.soton.ac.uk](http://users.ecs.soton.ac.uk)
- - date_published: 2024-07-07T09:38:20+00:00
-
- ## Winchester School of Art
- - [http://wsa.soton.ac.uk](http://wsa.soton.ac.uk)
- - date_published: 2024-07-10T08:58:30+00:00
-
- ## Airguide Photonics | University of Southampton
- - [https://www.airguide.soton.ac.uk](https://www.airguide.soton.ac.uk)
- - date_published: 2024-06-18T11:27:39.373444+00:00
-
- ## Centre for Health Technologies
- - [https://www.cht.ecs.soton.ac.uk](https://www.cht.ecs.soton.ac.uk)
- - date_published: 2024-07-22T07:03:19+00:00
-
- ## Centre for Internet of Things and Pervasive Systems
- - [https://www.c-iot.ecs.soton.ac.uk](https://www.c-iot.ecs.soton.ac.uk)
- - date_published: 2024-07-22T06:58:30+00:00
-
- ## Centre for Machine Intelligence
- - [https://www.cmi.ecs.soton.ac.uk](https://www.cmi.ecs.soton.ac.uk)
- - date_published: 2024-07-22T06:32:47+00:00
-
- ## Home Page
- - [http://www.hpcc.ecs.soton.ac.uk](http://www.hpcc.ecs.soton.ac.uk)
- - date_published: 2024-04-05T15:23:46+00:00
-
- ## Homepage
- - [https://www.soton.ac.uk](https://www.soton.ac.uk)
- - date_published: 2024-05-02T12:38:47.346883+00:00
-
- ## GitHub - libvips/libvips: A fast image processing library with low memory needs.
- - [http://www.vips.ecs.soton.ac.uk](http://www.vips.ecs.soton.ac.uk)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Zepler Institute
- - [https://zepler.soton.ac.uk](https://zepler.soton.ac.uk)
- - date_published: 2024-06-18T10:58:39+00:00
-
- ## University of Southampton Online Store
- - [https://store.southampton.ac.uk](https://store.southampton.ac.uk)
- - date_published: 2024-07-22T07:04:59.929624+00:00
-
- ## Homepage
- - [https://www.southampton.ac.uk](https://www.southampton.ac.uk)
- - date_published: 2024-05-02T12:29:57.550421+00:00
-
- ## SRHE | Society for Research into Higher Education | SRHE.ac.uk
- - [https://srhe.ac.uk](https://srhe.ac.uk)
- - date_published: 2024-10-19T10:18:37.330350+00:00
-
- ## Home
- - [https://www.sruc.ac.uk](https://www.sruc.ac.uk)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Jobs at Staffs
- - [https://jobs.staffs.ac.uk](https://jobs.staffs.ac.uk)
- - date_published: 2024-05-09T09:16:27.322459+00:00
-
- ## Home - Staffordshire University
- - [https://staffs.ac.uk](https://staffs.ac.uk)
- - date_published: 2023-12-12T13:24:55.758245+00:00
-
- ## Sign in to your account
- - [https://workvivo.staffs.ac.uk](https://workvivo.staffs.ac.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home - Staffordshire University London
- - [https://staffslondon.ac.uk](https://staffslondon.ac.uk)
- - date_published: 2024-05-09T09:16:30.519523+00:00
-
- ## CS Proxy Service
- - [http://www.dcs.st-and.ac.uk](http://www.dcs.st-and.ac.uk)
- - date_published: 2024-05-14T14:55:56+00:00
-
- ## MacTutor Index
- - [http://www-groups.dcs.st-and.ac.uk](http://www-groups.dcs.st-and.ac.uk)
- - date_published: 2024-06-28T08:29:32+00:00
-
- ## Research Computing Server
- - [https://arts.st-andrews.ac.uk](https://arts.st-andrews.ac.uk)
- - date_published: 2024-01-16T15:37:58+00:00
-
- ## Computer Science WordPress – School of Computer Science, University of St Andrews
- - [https://blogs.cs.st-andrews.ac.uk](https://blogs.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:47.657147+00:00
-
- ## Events
- - [https://events.st-andrews.ac.uk](https://events.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:42.143458+00:00
-
- ## Information for current CS students
- - [https://info.cs.st-andrews.ac.uk](https://info.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:46.757251+00:00
-
- ## IT Services blog – Latest news, advice and information from the IT Services team
- - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:46.498310+00:00
-
- ## MacTutor Index - MacTutor History of Mathematics
- - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:48.719060+00:00
-
- ## Home | Moodle
- - [https://moody.st-andrews.ac.uk](https://moody.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:38.746062+00:00
-
- ## News | University of St Andrews
- - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
- - date_published: 2024-04-24T00:00:00+00:00
 

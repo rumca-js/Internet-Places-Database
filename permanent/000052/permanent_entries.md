@@ -1,3 +1,19 @@
+ ## Before I Play
+ - [https://beforeiplay.com](https://beforeiplay.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Before It's News | People Powered News
+ - [http://beforeitsnews.com](http://beforeitsnews.com)
+ - date_published: 2024-06-27T10:35:06.042723+00:00
+
+ ## beforemario
+ - [http://blog.beforemario.com](http://blog.beforemario.com)
+ - date_published: 2024-07-28T00:00:00+00:00
+
+ ## befores & afters - VFX magazine
+ - [https://beforesandafters.com](https://beforesandafters.com)
+ - date_published: 2023-10-25T12:56:37.675468+00:00
+
  ## Homepage · Before Shakespeare
  - [https://beforeshakespeare.com](https://beforeshakespeare.com)
  - date_published: 2024-08-08T19:40:15.333331+00:00
@@ -4020,20 +4036,4 @@
  ## Beyond The Safe Harbor
  - [https://beyondthesafeharbor.com](https://beyondthesafeharbor.com)
  - date_published: 2024-10-27T08:10:02+00:00
-
- ## Home - Beyond the Tabletop
- - [https://beyondthetabletop.com](https://beyondthetabletop.com)
- - date_published: 2024-10-26T21:50:49.879658+00:00
-
- ## Home
- - [https://beyondthosehills.com](https://beyondthosehills.com)
- - date_published: 2024-09-19T21:35:47.273732+00:00
-
- ## Identity and Access Security | BeyondTrust
- - [https://beyondtrust.com](https://beyondtrust.com)
- - date_published: 2024-04-29T07:41:02.095404+00:00
-
- ## BeyondUnreal Forums
- - [http://forums.beyondunreal.com](http://forums.beyondunreal.com)
- - date_published: 2024-04-20T00:00:00+00:00
 

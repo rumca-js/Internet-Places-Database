@@ -1,3 +1,133 @@
+ ## The Charity Commission for England and Wales
+ - [http://apps.charitycommission.gov.uk](http://apps.charitycommission.gov.uk)
+ - date_published: 2012-12-05T00:00:00+00:00
+
+ ## About the register of charities
+ - [http://beta.charitycommission.gov.uk](http://beta.charitycommission.gov.uk)
+ - date_published: 2024-06-18T06:33:27.931844+00:00
+
+ ## About the register of charities
+ - [https://register-of-charities.charitycommission.gov.uk](https://register-of-charities.charitycommission.gov.uk)
+ - date_published: 2024-06-17T18:46:41.247562+00:00
+
+ ## Things to do - City of London
+ - [https://www.cityoflondon.gov.uk](https://www.cityoflondon.gov.uk)
+ - date_published: 2024-05-04T08:28:41.223048+00:00
+
+ ## Government Analysis Function – The Government Analysis Function is a network for all civil servants working in government analysis.
+ - [https://analysisfunction.civilservice.gov.uk](https://analysisfunction.civilservice.gov.uk)
+ - date_published: 2024-06-18T10:41:13.780062+00:00
+
+ ## Civil Service
+ - [http://www.civilservice.gov.uk](http://www.civilservice.gov.uk)
+ - date_published: 2024-10-21T14:06:20.577392+00:00
+
+ ## Civil Service Careers
+ - [https://www.civil-service-careers.gov.uk](https://www.civil-service-careers.gov.uk)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home
+ - [https://communities-ni.gov.uk](https://communities-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:28.902835+00:00
+
+ ## Find and update company information - GOV.UK
+ - [https://beta.companieshouse.gov.uk](https://beta.companieshouse.gov.uk)
+ - date_published: 2024-05-07T10:35:10.002530+00:00
+
+ ## Companies House
+ - [https://companieshouse.gov.uk](https://companieshouse.gov.uk)
+ - date_published: 2024-10-21T10:04:51.053941+00:00
+
+ ## Developer Hub Home
+ - [https://developer.companieshouse.gov.uk](https://developer.companieshouse.gov.uk)
+ - date_published: 2024-05-02T12:29:27.511728+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.companieshouse.gov.uk](https://matomo.companieshouse.gov.uk)
+ - date_published: 2024-05-02T12:29:24.709844+00:00
+
+ ## Media room
+ - [https://mediaroom.companieshouse.gov.uk](https://mediaroom.companieshouse.gov.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Companies House
+ - [https://resources.companieshouse.gov.uk](https://resources.companieshouse.gov.uk)
+ - date_published: 2024-04-29T03:31:25.594693+00:00
+
+ ## The Crown Prosecution Service | The Crown Prosecution Service
+ - [https://www.cps.gov.uk](https://www.cps.gov.uk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Crown Commercial Service - CCS
+ - [https://www.crowncommercial.gov.uk](https://www.crowncommercial.gov.uk)
+ - date_published: 2024-10-11T19:51:57.786153+00:00
+
+ ## Crown Office and Procurator Fiscal Service
+ - [http://www.crownoffice.gov.uk](http://www.crownoffice.gov.uk)
+ - date_published: 2024-10-21T15:59:07.298133+00:00
+
+ ## Department for Culture, Media and Sport
+ - [http://www.culture.gov.uk](http://www.culture.gov.uk)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Welcome to Cumberland | Cumberland Council
+ - [https://www.cumberland.gov.uk](https://www.cumberland.gov.uk)
+ - date_published: 2024-05-06T16:58:38.992341+00:00
+
+ ## Home
+ - [https://daera-ni.gov.uk](https://daera-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:34.774757+00:00
+
+ ## Find open data - data.gov.uk
+ - [https://data.gov.uk](https://data.gov.uk)
+ - date_published: 2024-06-12T06:03:55.998495+00:00
+
+ ## GOV.UK Documentation Example
+ - [https://guidance.data.gov.uk](https://guidance.data.gov.uk)
+ - date_published: 2024-05-17T09:09:21+00:00
+
+ ## Planning Data
+ - [https://www.planning.data.gov.uk](https://www.planning.data.gov.uk)
+ - date_published: 2024-08-19T05:19:36.949347+00:00
+
+ ## Department for Business, Energy & Industrial Strategy
+ - [http://www.decc.gov.uk](http://www.decc.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Department for Environment, Food & Rural Affairs
+ - [https://defra.gov.uk](https://defra.gov.uk)
+ - date_published: 2024-10-21T11:45:46.722277+00:00
+
+ ## Home
+   - Defra, UK
+ - [https://uk-air.defra.gov.uk](https://uk-air.defra.gov.uk)
+ - date_published: 2024-06-18T16:04:47.024812+00:00
+
+ ## Department of Health and Social Care
+ - [http://www.dh.gov.uk](http://www.dh.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Welcome to GOV.UK
+ - [http://www.direct.gov.uk](http://www.direct.gov.uk)
+ - date_published: 2024-10-21T09:58:59.342011+00:00
+
+ ## Discover Uni Home |
+                Discover Uni
+ - [https://discoveruni.gov.uk](https://discoveruni.gov.uk)
+ - date_published: 2024-06-17T17:49:24.336370+00:00
+
+ ## MOT Service Status Status
+ - [http://motservice.status.dvsa.gov.uk](http://motservice.status.dvsa.gov.uk)
+ - date_published: 2024-10-21T09:49:19.200482+00:00
+
+ ## Home - DWP Accessibility Manual
+ - [https://accessibility-manual.dwp.gov.uk](https://accessibility-manual.dwp.gov.uk)
+ - date_published: 2024-06-15T04:14:57.576505+00:00
+
+ ## DWP Digital – Digital With Purpose
+ - [https://careers.dwp.gov.uk](https://careers.dwp.gov.uk)
+ - date_published: 2024-10-21T09:40:03.833304+00:00
+
  ## Find a job
  - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
  - date_published: 2024-06-17T17:49:05.465349+00:00
@@ -3897,132 +4027,4 @@
  ## ocharles.org.uk
  - [https://blog.ocharles.org.uk](https://blog.ocharles.org.uk)
  - date_published: 1970-01-01T00:00:01+00:00
-
- ## ocharles.org.uk
- - [https://ocharles.org.uk](https://ocharles.org.uk)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## OCR - awarding body for A Levels, GCSEs, Cambridge Nationals, Cambridge Technicals and other qualifications
- - [https://ocr.org.uk](https://ocr.org.uk)
- - date_published: 2024-10-20T03:23:06.451688+00:00
-
- ## We represent an integrating offshore energy industry which safely provides cleaner fuel, power and products to everyone in the UK.
- - [http://oeuk.org.uk](http://oeuk.org.uk)
- - date_published: 2024-09-04T15:26:56.712006+00:00
-
- ## Home - Ofcom Careers
- - [https://careers.ofcom.org.uk](https://careers.ofcom.org.uk)
- - date_published: 2023-04-13T00:00:00+00:00
-
- ## Home - Ofcom
- - [https://www.ofcom.org.uk](https://www.ofcom.org.uk)
- - date_published: 2023-10-25T22:57:15.911643+00:00
-
- ## Home - Office for Students
- - [https://officeforstudents.org.uk](https://officeforstudents.org.uk)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## TEF 2023 outcomes
- - [https://tef2023.officeforstudents.org.uk](https://tef2023.officeforstudents.org.uk)
- - date_published: 2024-05-02T11:08:24.463395+00:00
-
- ## We represent an integrating offshore energy industry which safely provides cleaner fuel, power and products to everyone in the UK.
- - [https://oguk.org.uk](https://oguk.org.uk)
- - date_published: 2024-06-05T07:28:42.539762+00:00
-
- ## Home - Oikos Digital
- - [http://oikos.org.uk](http://oikos.org.uk)
- - date_published: 2023-10-14T20:55:27+00:00
-
- ## Oldhammer Forum
- - [https://forum.oldhammer.org.uk](https://forum.oldhammer.org.uk)
- - date_published: 2024-05-14T00:00:00+00:00
- - tags: ['warhammer', 'miniatures']
-
- - [https://oldhammer.org.uk](https://oldhammer.org.uk)
- - date_published: 2024-06-03T12:48:41+00:00
-
- ## The Oldhammer Opponent Finder
- - [http://opponentfinder.oldhammer.org.uk](http://opponentfinder.oldhammer.org.uk)
- - date_published: 2023-06-07T22:08:25+00:00
-
- ## The Oldhammer Wiki
- - [https://wiki.oldhammer.org.uk](https://wiki.oldhammer.org.uk)
- - date_published: 2023-02-13T18:58:36+00:00
-
- ## Home | Office for Nuclear Regulation
- - [http://www.onr.org.uk](http://www.onr.org.uk)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home - Open Banking
- - [https://www.openbanking.org.uk](https://www.openbanking.org.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Open Europe - Forex Trading Guides, Tips and Reviews
- - [http://www.openeurope.org.uk](http://www.openeurope.org.uk)
- - date_published: 2020-11-26T00:00:00+00:00
-
- ## Open Food Network
- - [https://www.openfoodnetwork.org.uk](https://www.openfoodnetwork.org.uk)
- - date_published: 2024-10-31T03:28:33.369198+00:00
-
- ## Opal - A full stack web framework for building health care applications
- - [http://opal.openhealthcare.org.uk](http://opal.openhealthcare.org.uk)
- - date_published: 2022-12-21T09:33:41+00:00
-
- ## Open Health Care UK
- - [https://openhealthcare.org.uk](https://openhealthcare.org.uk)
- - date_published: 2019-06-11T11:07:51+00:00
-
- ## Open House Festival
- - [https://programme.openhouse.org.uk](https://programme.openhouse.org.uk)
- - date_published: 2024-08-19T16:12:10.291064+00:00
-
- ## OPTIONS XII 2024 | OPTIONS XII Event | OPTIONS 2024 Brisbane | Influenza Congress
- - [https://www.optionsxii2024.org.uk](https://www.optionsxii2024.org.uk)
- - date_published: 2024-09-18T23:28:02.841348+00:00
-
- ## Oriel - Creating the centre for advancing eye health
- - [https://oriel-london.org.uk](https://oriel-london.org.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## OSCR Online
- - [https://oscronline.oscr.org.uk](https://oscronline.oscr.org.uk)
- - date_published: 2024-05-31T10:02:18+00:00
-
- ## OSCR | Home
- - [https://www.oscr.org.uk](https://www.oscr.org.uk)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://www.oss.org.uk](https://www.oss.org.uk)
- - date_published: 2024-10-21T11:56:25.048396+00:00
-
- ## Home
- - [https://otw.org.uk](https://otw.org.uk)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Neighbourhood Watch | National network | Local Watch areas | Community crime prevention groups
- - [https://ourwatch.org.uk](https://ourwatch.org.uk)
- - date_published: 2024-03-28T13:38:57.778181+00:00
-
- ## OutStories Bristol – Recording the lives of LGBTQ+ people of Bristol
- - [https://outstoriesbristol.org.uk](https://outstoriesbristol.org.uk)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Orpington Video and Film Makers
- - [http://ovfm.org.uk](http://ovfm.org.uk)
- - date_published: 2024-09-03T22:55:24.155320+00:00
-
- ## The Order of Women Freemasons | Womens Freemasonry | Nationwide
- - [https://www.owf.org.uk](https://www.owf.org.uk)
- - date_published: 2024-10-19T02:44:35.690063+00:00
-
- ## oxfamgb | Oxfam Festivals
- - [https://festivals.oxfam.org.uk](https://festivals.oxfam.org.uk)
- - date_published: 2024-07-04T10:24:31.966351+00:00
-
- ## Oxfam GB | We are Oxfam
- - [https://oxfam.org.uk](https://oxfam.org.uk)
- - date_published: 2024-05-08T06:00:57.633697+00:00
 

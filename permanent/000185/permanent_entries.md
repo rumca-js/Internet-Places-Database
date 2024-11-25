@@ -1,3 +1,63 @@
+ ## Mautic
+ - [https://mautic.shoppingfeeder.com](https://mautic.shoppingfeeder.com)
+ - date_published: 2024-09-19T14:43:56.358553+00:00
+
+ ## ShoppingFeeder | World-Leading Feeds For Shopify, Google Ads & Google Shopping, Facebook, WooCommerce & More
+ - [https://www.shoppingfeeder.com](https://www.shoppingfeeder.com)
+ - date_published: 2024-09-19T14:43:49+00:00
+
+ ## ShoppingGives | Cause Marketing Software Solution
+ - [https://shoppinggives.com](https://shoppinggives.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Compliant Solutions for Estimating College Costs with ShoppingSheet.com
+ - [https://www.shoppingsheet.com](https://www.shoppingsheet.com)
+ - date_published: 2024-07-13T17:15:48.558600+00:00
+
+ ## Home - Development Blog
+ - [https://dev.shoppingukapp.com](https://dev.shoppingukapp.com)
+ - date_published: 2023-06-19T10:52:28+00:00
+
+ ## Quality WooCommerce Plugins - Shop Plugins
+ - [https://shopplugins.com](https://shopplugins.com)
+ - date_published: 2014-10-01T10:10:10+00:00
+
+ ## ShopSimon: Brands You Love. On Sale. 24/7.
+ - [https://shoppremiumoutlets.com](https://shoppremiumoutlets.com)
+ - date_published: 2024-10-12T12:19:59.485061+00:00
+
+ ## Shoppster - International
+ - [https://www.shoppster.com](https://www.shoppster.com)
+ - date_published: 2024-09-13T08:52:10+00:00
+
+ ## ShopRaise to support your cause!
+ - [https://shopraise.com](https://shopraise.com)
+ - date_published: 2024-08-18T07:17:10.259351+00:00
+
+ ## Official Marketing Site | Raleigh's Best
+ - [https://www.shopraleighsbest.com](https://www.shopraleighsbest.com)
+ - date_published: 2024-10-16T05:19:57.355282+00:00
+
+ ## Shop RBN - Republic Broadcasting Network online store
+ - [https://shoprbn.com](https://shoprbn.com)
+ - date_published: 2017-06-14T09:23:16+00:00
+
+ ## Gas138 火 Join Situs Game Online Resmi Gampang Cuan
+ - [https://shoprihanna.com](https://shoprihanna.com)
+ - date_published: 2024-08-05T23:38:49+00:00
+
+ ## ShopRisingFC.com
+ - [https://shoprisingfc.com](https://shoprisingfc.com)
+ - date_published: 2024-07-09T23:05:50.397369+00:00
+
+ ## Shop Room Ideas – Home Decorating Ideas, DIY Projects, Home and Garden, Renovations, and More!
+ - [https://www.shoproomideas.com](https://www.shoproomideas.com)
+ - date_published: 2024-08-11T23:12:10.941976+00:00
+
+ ## RU  - SHOP-RT.COM
+ - [https://shop-rt.com](https://shop-rt.com)
+ - date_published: 2024-08-06T20:26:34.525205+00:00
+
  ## ShopRunBack | Consumer
  - [https://consumer-path.shoprunback.com](https://consumer-path.shoprunback.com)
  - date_published: 2024-08-30T08:21:53+00:00
@@ -3983,65 +4043,4 @@
  - [http://simplybrad.com](http://simplybrad.com)
  - date_published: 2024-11-08T08:59:12+00:00
  - tags: ['fan page']
-
- ## Welcome - Business Insurance
- - [https://quote.simplybusiness.com](https://quote.simplybusiness.com)
- - date_published: 2024-06-19T16:41:33.888512+00:00
-
- ## Small Business Insurance
- - [https://www.simplybusiness.com](https://www.simplybusiness.com)
- - date_published: 2024-05-04T06:40:33.749332+00:00
-
- ## 91视频好色先生丝瓜|好色tv下载地址|好色先生视频软件下载大全|好色先生下
- - [http://www.simplycapitalism.com](http://www.simplycapitalism.com)
- - date_published: 2024-06-20T03:36:19.305744+00:00
-
- ## Home - Simply Computers
- - [https://simply-computers.com](https://simply-computers.com)
- - date_published: 2024-06-29T23:03:48+00:00
-
- ## Simply Dane DeHaan
- - [https://simplydanedehaan.com](https://simplydanedehaan.com)
- - date_published: 2024-07-02T13:45:05.406232+00:00
-
- ## Simply Daniel Radcliffe
- - [https://simplydanielradcliffe.com](https://simplydanielradcliffe.com)
- - date_published: 2024-07-02T13:44:54.895351+00:00
-
- ## Simply Elijah Wood
- - [https://simplyelijahwood.com](https://simplyelijahwood.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Simply Erin Darke
- - [https://simplyerindarke.com](https://simplyerindarke.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home
- - [https://simplyexplained.com](https://simplyexplained.com)
- - date_published: 2024-09-10T08:32:46.780214+00:00
-
- ## Simply-How.com | Simplified Tech Tutorials, How-To Guides and Reviews
- - [https://simply-how.com](https://simply-how.com)
- - date_published: 2024-06-23T17:51:18.942428+00:00
-
- ## Simply James McAvoy
- - [https://simplyjamesmcavoy.com](https://simplyjamesmcavoy.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Simply Josh Hutcherson
- - [https://simplyjoshhutcherson.com](https://simplyjoshhutcherson.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Simply Leonardo DiCaprio
- - [https://simplyleonardodicaprio.com](https://simplyleonardodicaprio.com)
- - date_published: 2024-03-10T00:00:00+00:00
- - tags: ['actor']
-
- ## Simply Max Minghella
- - [https://simplymaxminghella.com](https://simplymaxminghella.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sprout Social: Social Media Management Solutions
- - [http://simplymeasured.com](http://simplymeasured.com)
- - date_published: 2024-08-06T19:26:22+00:00
 

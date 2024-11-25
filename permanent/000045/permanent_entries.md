@@ -1,3 +1,15 @@
+ ## ArcGIS Maps SDK for JavaScript | Overview | ArcGIS Maps SDK for JavaScript 4.29 | ArcGIS Developers
+ - [https://js.arcgis.com](https://js.arcgis.com)
+ - date_published: 2024-05-02T09:44:05.259044+00:00
+
+ ## Durham, NC  Open Data Portal
+ - [https://live-durhamnc.opendata.arcgis.com](https://live-durhamnc.opendata.arcgis.com)
+ - date_published: 2024-09-26T18:08:26.580881+00:00
+
+ ## ArcGIS Online Directions and Routing Services
+ - [https://logistics.arcgis.com](https://logistics.arcgis.com)
+ - date_published: 2024-07-15T06:38:11+00:00
+
  ## Coconino County GIS Site
  - [https://main-coconinocounty.hub.arcgis.com](https://main-coconinocounty.hub.arcgis.com)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -1021,6 +1033,10 @@
  ## Then & Now: The Changing Face of the Arctic
  - [https://www.arcticapublishing.com](https://www.arcticapublishing.com)
  - date_published: 2024-01-25T14:28:22+00:00
+
+ ## Arctic Fox
+ - [https://arcticfoxhaircolor.com](https://arcticfoxhaircolor.com)
+ - date_published: 2024-11-24T18:44:05.625520+00:00
 
  ## Arctic Frontiers - Arcticfrontiers.com
  - [https://arcticfrontiers.com](https://arcticfrontiers.com)
@@ -4021,20 +4037,4 @@ By Arts Economics
  ## 免费无码国产v片在线观看视频_日韩亚洲中文字幕东京热_精品人妻中文无码AV在线_亚洲av永久无码一区
  - [http://arx-fatalis.com](http://arx-fatalis.com)
  - date_published: 2024-07-11T11:40:12.716486+00:00
-
- ## the physics arXiv blog
- - [http://www.arxivblog.com](http://www.arxivblog.com)
- - date_published: 2024-06-23T10:40:01.572230+00:00
-
- ## Research Papers
- - [http://arxivgen.com](http://arxivgen.com)
- - date_published: 2023-10-25T12:45:51.082018+00:00
-
- ## arxiv-sanity
- - [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## arxiv-sanity
- - [https://arxiv-sanity-lite.com](https://arxiv-sanity-lite.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

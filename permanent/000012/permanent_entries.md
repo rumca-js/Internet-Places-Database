@@ -1,3 +1,11 @@
+ ## Textbooks Archives - AMSI Schools
+ - [http://www.icemaths.org.au](http://www.icemaths.org.au)
+ - date_published: 2017-04-12T00:00:00+00:00
+
+ ## Investor Group on Climate Change
+ - [https://igcc.org.au](https://igcc.org.au)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Home - IMOS
  - [https://imos.org.au](https://imos.org.au)
  - date_published: 2024-07-11T00:00:00+00:00
@@ -4001,12 +4009,4 @@
  ## Eric Moreau – Digital Marketing Specialist
  - [https://www.ericmoreau.be](https://www.ericmoreau.be)
  - date_published: 2024-07-08T11:03:01.659864+00:00
-
- ## Accueil - Esenca
- - [https://www.esenca.be](https://www.esenca.be)
- - date_published: 2024-10-29T09:47:58.626087+00:00
-
- ## ESP32 open MAC
- - [https://esp32-open-mac.be](https://esp32-open-mac.be)
- - date_published: 2024-01-14T18:00:14.190501+00:00
 

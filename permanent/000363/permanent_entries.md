@@ -1,3 +1,107 @@
+ ## DataCite Support
+ - [https://support.datacite.org](https://support.datacite.org)
+ - date_published: 2024-08-11T10:07:46.110532+00:00
+
+ ## Home
+ - [http://www.datacoalition.org](http://www.datacoalition.org)
+ - date_published: 2024-06-29T06:03:06.096274+00:00
+
+ ## Data Colada - Thinking about evidence and vice versa
+ - [https://datacolada.org](https://datacolada.org)
+ - date_published: 2023-10-25T21:12:37.004872+00:00
+
+ ## Data Collaborative for Justice
+ - [https://datacollaborativeforjustice.org](https://datacollaborativeforjustice.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home - Data Commons
+ - [https://datacommons.org](https://datacommons.org)
+ - date_published: 2024-09-10T22:46:03.911557+00:00
+
+ ## Front Page - Data Curation Network
+ - [https://datacurationnetwork.org](https://datacurationnetwork.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Data Detox Kit: Homepage
+ - [https://datadetoxkit.org](https://datadetoxkit.org)
+ - date_published: 2024-05-29T12:04:48+00:00
+
+ ## Data-Driven Hypothesis
+ - [https://www.datadrivenhypothesis.org](https://www.datadrivenhypothesis.org)
+ - date_published: 2024-02-01T18:57:00+00:00
+
+ ## Data For Progress
+ - [https://www.dataforprogress.org](https://www.dataforprogress.org)
+ - date_published: 2024-06-28T13:13:26.968321+00:00
+
+ ## Home
+ - [https://www.datafoundation.org](https://www.datafoundation.org)
+ - date_published: 2024-07-16T20:39:01.695317+00:00
+
+ ## Data Horde
+ - [https://datahorde.org](https://datahorde.org)
+ - date_published: 2024-05-04T07:25:43.896439+00:00
+
+ ## DataLad – DataLad
+ - [https://datalad.org](https://datalad.org)
+ - date_published: 2024-05-08T10:51:02.229073+00:00
+
+ ## DataLad — data management and publication multitool — DataLad 1.1.1+0.gc399b0e.dirty documentation
+ - [http://docs.datalad.org](http://docs.datalad.org)
+ - date_published: 2024-07-03T18:29:19+00:00
+
+ ## The Handbook — The DataLad Handbook
+ - [https://handbook.datalad.org](https://handbook.datalad.org)
+ - date_published: 2024-07-05T06:29:44+00:00
+
+ ## ROM
+ - [http://datamapper.org](http://datamapper.org)
+ - date_published: 2021-07-14T18:01:29+00:00
+
+ ## datamate | rethink IT
+ - [https://www.datamate.org](https://www.datamate.org)
+ - date_published: 2024-07-18T05:51:02.901038+00:00
+
+ ## Data Package
+ - [https://datapackage.org](https://datapackage.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## datapanik.org | Permanent Gecontroleerde Zones
+ - [https://www.datapanik.org](https://www.datapanik.org)
+ - date_published: 2024-07-02T21:27:05.065386+00:00
+
+ ## Data Physicalization - Data Physicalization Wiki
+ - [http://dataphys.org](http://dataphys.org)
+ - date_published: 2021-04-30T13:06:47+00:00
+
+ ## DataPortals.org - A Comprehensive List of Open Data Portals from Around the World
+ - [https://dataportals.org](https://dataportals.org)
+ - date_published: 2024-06-12T12:16:17.319552+00:00
+
+ ## Data Privacy Lab
+ - [https://dataprivacylab.org](https://dataprivacylab.org)
+ - date_published: 2021-11-06T14:15:44+00:00
+
+ ## Streamlit
+ - [https://www.dataprovenance.org](https://www.dataprovenance.org)
+ - date_published: 2024-06-20T13:23:04+00:00
+
+ ## The Professional Data Science Manifesto
+ - [https://datasciencemanifesto.org](https://datasciencemanifesto.org)
+ - date_published: 2020-05-02T17:19:29+00:00
+
+ ## Data Science Course in Pune | Data Science Classes in Pune
+ - [https://datasciencemilan.org](https://datasciencemilan.org)
+ - date_published: 2020-06-15T14:18:48+00:00
+
+ ## Data Science Weekly Newsletter
+ - [https://www.datascienceweekly.org](https://www.datascienceweekly.org)
+ - date_published: 2023-09-28T00:00:00+00:00
+
+ ## dataspelsakademin.org
+ - [http://dataspelsakademin.org](http://dataspelsakademin.org)
+ - date_published: 2024-06-17T09:14:26.320399+00:00
+
  ## Home | Datastory
  - [https://datastory.org](https://datastory.org)
  - date_published: 2024-06-23T08:14:56.824736+00:00
@@ -3930,108 +4034,4 @@
  ## donp.org
  - [http://donp.org](http://donp.org)
  - date_published: 2024-09-15T10:34:34.093055+00:00
-
- ## DONPARK
- - [https://donpark.org](https://donpark.org)
- - date_published: 2024-06-14T13:19:47+00:00
-
- ## Learn Spanish with don Quijote spanish school.
- - [http://www.donquijote.org](http://www.donquijote.org)
- - date_published: 2024-11-15T09:38:26+00:00
-
- ## Don't Ask Tig
- - [https://www.dontasktig.org](https://www.dontasktig.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Don't Waste Michigan
- - [https://www.dontwastemichigan.org](https://www.dontwastemichigan.org)
- - date_published: 2024-03-29T19:14:25+00:00
-
- ## Doom9's Forum - Powered by vBulletin
- - [https://forum.doom9.org](https://forum.doom9.org)
- - date_published: 2024-05-12T04:14:25.580694+00:00
-
- ## Doom9.net - The Definitive DVD Backup Resource
- - [http://www.doom9.org](http://www.doom9.org)
- - date_published: 2023-11-15T01:04:05+00:00
-
- ## World Doom League
- - [http://doomleague.org](http://doomleague.org)
- - date_published: 2022-02-22T06:05:12+00:00
-
- ## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
- - [https://doomwiki.org](https://doomwiki.org)
- - date_published: 2023-10-25T21:15:10.502720+00:00
-
- ## DoOneThing.org - Do One Thing for a Better World
- - [http://doonething.org](http://doonething.org)
- - date_published: 2015-03-31T16:17:37+00:00
-
- ## Door43
- - [https://door43.org](https://door43.org)
- - date_published: 2024-04-11T04:19:12+00:00
-
- ## Door43 Forum
- - [https://forum.door43.org](https://forum.door43.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Home
- - [https://dev.doortofreedom.org](https://dev.doortofreedom.org)
- - date_published: 2023-09-10T21:14:08+00:00
-
- ## Home
- - [https://doortofreedom.org](https://doortofreedom.org)
- - date_published: 2024-04-05T15:25:05+00:00
-
- ## Door To Freedom
- - [https://tube.doortofreedom.org](https://tube.doortofreedom.org)
- - date_published: 2024-07-04T15:21:20.920458+00:00
-
- ## Door to Virtue #46 A.F. & A.M. – Making good men better since 1811
- - [https://www.doortovirtue.org](https://www.doortovirtue.org)
- - date_published: 2024-06-17T14:03:00.257375+00:00
-
- ## DOP - Data Ownership Protocol
- - [https://dop.org](https://dop.org)
- - date_published: 2024-09-25T10:10:06.039073+00:00
-
- ## Dorf on Law
- - [http://dorfonlaw.org](http://dorfonlaw.org)
- - date_published: 2024-07-02T09:06:35+00:00
-
- ## Home | Doris Duke Foundation
- - [https://www.dorisduke.org](https://www.dorisduke.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## dorkbot
- - [http://dorkbot.org](http://dorkbot.org)
- - date_published: 2021-11-16T17:47:02+00:00
-
- ## เว็บพนันที่นิยมที่สุด คาสิโนออนไลน์เว็บใด ที่เซียนพนันเลือกใช้ทำเงิน
- - [http://www.dorkbotaustin.org](http://www.dorkbotaustin.org)
- - date_published: 2024-07-11T16:12:10.473919+00:00
-
- ## Dorkbot PDX
- - [https://dorkbotpdx.org](https://dorkbotpdx.org)
- - date_published: 2024-05-09T04:18:55.669987+00:00
-
- ## Matt Lakeman
- - [https://dormin.org](https://dormin.org)
- - date_published: 2024-05-08T04:46:56.746135+00:00
-
- ## Dorset Devils – Volunteers make a difference
- - [https://dorsetdevils.org](https://dorsetdevils.org)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## DOSBox Staging
- - [https://www.dosbox-staging.org](https://www.dosbox-staging.org)
- - date_published: 2024-10-27T03:43:32+00:00
-
- ## Fueling Young People to Change the World | DoSomething.org
- - [https://dosomething.org](https://dosomething.org)
- - date_published: 2024-04-27T08:03:28.137569+00:00
-
- ## Help Center
- - [https://help.dosomething.org](https://help.dosomething.org)
- - date_published: 2024-08-08T17:51:59.090394+00:00
 

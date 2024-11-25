@@ -1,3 +1,11 @@
+ ## Vie de campus - Vie de campus - UNIGE
+ - [https://vie-de-campus.unige.ch](https://vie-de-campus.unige.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## UNIL > Annuaire en ligne
+ - [https://annuaire.unil.ch](https://annuaire.unil.ch)
+ - date_published: 2024-09-14T23:58:05.626855+00:00
+
  ## Redirection sur le menu principal...
  - [https://applicationspub.unil.ch](https://applicationspub.unil.ch)
  - date_published: 2024-09-14T23:58:07.667709+00:00
@@ -4003,12 +4011,4 @@
  ## Truly thrifty cloud hosting - Hetzner Online GmbH
  - [https://hetzner.cloud](https://hetzner.cloud)
  - date_published: 2024-05-08T00:40:40.949082+00:00
-
- ## Blockscout: A block explorer designed for a decentralized world.
- - [https://explorer.evm.hydration.cloud](https://explorer.evm.hydration.cloud)
- - date_published: 2024-09-24T00:51:45.686436+00:00
-
- ## Hyperstack: Cloud GPU Provider for Project Acceleration
- - [https://www.hyperstack.cloud](https://www.hyperstack.cloud)
- - date_published: 2024-07-11T06:51:02+00:00
 

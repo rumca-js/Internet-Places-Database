@@ -1,3 +1,123 @@
+ ## Wikivoyage – Informazioni di viaggio gratuite dal mondo
+ - [https://it.m.wikivoyage.org](https://it.m.wikivoyage.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Wikivoyage – Informazioni di viaggio gratuite dal mondo
+ - [https://it.wikivoyage.org](https://it.wikivoyage.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## ウィキボヤージュ — 誰でも編集できるフリーな旅行ガイド
+ - [https://ja.wikivoyage.org](https://ja.wikivoyage.org)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Javanese Wikivoyage - Wikimedia Incubator
+ - [https://jv.wikivoyage.org](https://jv.wikivoyage.org)
+ - date_published: 2024-07-12T04:43:46.211481+00:00
+
+ ## Wy/kaa - Wikimedia Incubator
+ - [https://kaa.wikivoyage.org](https://kaa.wikivoyage.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Басты бет - Wy/kk - Wikimedia Incubator
+ - [https://kk.wikivoyage.org](https://kk.wikivoyage.org)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## ಮುಖ್ಯ ಪುಟ - Wy/kn - Wikimedia Incubator
+ - [https://kn.wikivoyage.org](https://kn.wikivoyage.org)
+ - date_published: 2024-06-29T14:16:09+00:00
+
+ ## 위키여행:대문 - Wy/ko - Wikimedia Incubator
+ - [https://ko.wikivoyage.org](https://ko.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Destpêk - Wy/ku - Wikimedia Incubator
+ - [https://ku.wikivoyage.org](https://ku.wikivoyage.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Башкы барак - Wy/ky - Wikimedia Incubator
+ - [https://ky.wikivoyage.org](https://ky.wikivoyage.org)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Haaptsäit - Wy/lb - Wikimedia Incubator
+ - [https://lb.wikivoyage.org](https://lb.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Minangkabau Wikivoyage - Wikimedia Incubator
+ - [https://min.wikivoyage.org](https://min.wikivoyage.org)
+ - date_published: 2024-09-18T03:06:34.757961+00:00
+
+ ## Нүүр хуудас - Wy/mn - Wikimedia Incubator
+ - [https://mn.wikivoyage.org](https://mn.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## မုက်လိက်တမ် - Wy/mnw - Wikimedia Incubator
+ - [https://mnw.wikivoyage.org](https://mnw.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## मुखपृष्ठ - Wy/mr - Wikimedia Incubator
+ - [https://mr.wikivoyage.org](https://mr.wikivoyage.org)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## ဗဟိုစာမျက်နှာ - Wy/my - Wikimedia Incubator
+ - [https://my.wikivoyage.org](https://my.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Paggena prencepale - Wy/nap - Wikimedia Incubator
+ - [https://nap.wikivoyage.org](https://nap.wikivoyage.org)
+ - date_published: 2024-06-28T02:48:26+00:00
+
+ ## मुख्य पृष्ठ - Wy/ne - Wikimedia Incubator
+ - [https://ne.wikivoyage.org](https://ne.wikivoyage.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Nias Wikivoyage - Wikimedia Incubator
+ - [https://nia.wikivoyage.org](https://nia.wikivoyage.org)
+ - date_published: 2024-07-12T05:00:36.592210+00:00
+
+ ## Wikivoyage
+ - [https://nl.wikivoyage.org](https://nl.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:15+00:00
+
+ ## Novial Wikivoyage - Wikimedia Incubator
+ - [https://nov.wikivoyage.org](https://nov.wikivoyage.org)
+ - date_published: 2024-07-12T03:04:16.388030+00:00
+
+ ## Papiamento Wikivoyage - Wikimedia Incubator
+ - [https://pap.wikivoyage.org](https://pap.wikivoyage.org)
+ - date_published: 2024-07-12T05:02:17.387279+00:00
+
+ ## ਮੁੱਖ ਸਫ਼ਾ - Wy/pa - Wikimedia Incubator
+ - [https://pa.wikivoyage.org](https://pa.wikivoyage.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Wikipodróże – wolny przewodnik turystyczny
+ - [https://pl.wikivoyage.org](https://pl.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:16+00:00
+
+ ## ويکيسفر – د سفر لپاره وړيا لارښود ځای چې هر څوک يې سمولی سي
+ - [https://ps.wikivoyage.org](https://ps.wikivoyage.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Wikivoyage
+ - [https://pt.wikivoyage.org](https://pt.wikivoyage.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wikivoyage
+ - [https://ro.wikivoyage.org](https://ro.wikivoyage.org)
+ - date_published: 2024-07-07T05:04:17+00:00
+
+ ## Викигид — свободный путеводитель
+ - [https://ru.m.wikivoyage.org](https://ru.m.wikivoyage.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Викигид — свободный путеводитель
+ - [https://ru.wikivoyage.org](https://ru.wikivoyage.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Scots Wikivoyage - Wikimedia Incubator
+ - [https://sco.wikivoyage.org](https://sco.wikivoyage.org)
+ - date_published: 2024-07-12T05:27:11.427772+00:00
+
  ## ဝီႇၶီႇဝွႆးဢဵတ်ႇꩡ် - ၵႅမ်မိုဝ်း ၵၢၼ်ဢႅဝ်ႇလႄႇ လွတ်ႈလႅဝ်းထၢင်ႇႁၢင်ႈ ဢၼ်ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈမႄးထတ်း
  - [https://shn.wikivoyage.org](https://shn.wikivoyage.org)
  - date_published: 2024-07-07T05:04:18+00:00
@@ -3889,124 +4009,4 @@
  ## World Bank Open Data
  - [https://data.worldbank.org](https://data.worldbank.org)
  - date_published: 2024-03-15T00:00:00+00:00
-
- ## Documents & Reports - All Documents | The World Bank
- - [https://documents1.worldbank.org](https://documents1.worldbank.org)
- - date_published: 2024-07-16T23:38:02.444332+00:00
-
- ## Documents & Reports - All Documents | The World Bank
- - [http://documents.worldbank.org](http://documents.worldbank.org)
- - date_published: 2024-07-01T06:37:06.970177+00:00
-
- ## eBusiness
- - [https://ebizprd.worldbank.org](https://ebizprd.worldbank.org)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## WBG Finances - Home
- - [https://financesapp.worldbank.org](https://financesapp.worldbank.org)
- - date_published: 2024-07-16T23:33:41.369235+00:00
-
- ## WBG Open Finances | WBG Open Finances
- - [https://finances.worldbank.org](https://finances.worldbank.org)
- - date_published: 2024-05-12T07:30:22.928534+00:00
-
- ## The Global Findex Database 2021
- - [https://globalfindex.worldbank.org](https://globalfindex.worldbank.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## International Centre for Settlement of Investment Disputes
- - [https://icsid.worldbank.org](https://icsid.worldbank.org)
- - date_published: 2024-05-12T07:29:52.128873+00:00
-
- ## International Development Association - World Bank
- - [https://ida.worldbank.org](https://ida.worldbank.org)
- - date_published: 2024-07-15T13:17:40+00:00
-
- ## | Independent Evaluation Group
- - [https://ieg.worldbank.org](https://ieg.worldbank.org)
- - date_published: 2024-07-16T22:44:37+00:00
-
- ## Sign in to your account
- - [https://intranet.worldbank.org](https://intranet.worldbank.org)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Home
- - [https://live.worldbank.org](https://live.worldbank.org)
- - date_published: 2024-07-08T10:29:29+00:00
-
- ## World Bank Maps
- - [https://maps.worldbank.org](https://maps.worldbank.org)
- - date_published: 2024-07-12T18:23:44+00:00
-
- ## System Unavailable
- - [http://message.worldbank.org](http://message.worldbank.org)
- - date_published: 2024-05-02T16:32:26+00:00
-
- ## The World Bank Group
- - [https://olc.worldbank.org](https://olc.worldbank.org)
- - date_published: 2024-07-16T23:33:53.492511+00:00
-
- ## Open Government Data Toolkit | Data
- - [https://opendatatoolkit.worldbank.org](https://opendatatoolkit.worldbank.org)
- - date_published: 2024-05-12T07:30:36.346457+00:00
-
- ## Open Knowledge Repository
- - [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org)
- - date_published: 2024-06-20T11:31:56+00:00
-
- ## Home | Geospatial Poverty Portal
- - [https://pipmaps.worldbank.org](https://pipmaps.worldbank.org)
- - date_published: 2024-07-24T05:45:00+00:00
-
- ## Poverty and Inequality Platform
- - [https://pip.worldbank.org](https://pip.worldbank.org)
- - date_published: 2024-05-12T07:30:15.824117+00:00
-
- ## Policy & Procedure Framework
- - [https://policies.worldbank.org](https://policies.worldbank.org)
- - date_published: 2024-07-16T10:07:38+00:00
-
- ## Projects & Operations | The World Bank
- - [https://projects.worldbank.org](https://projects.worldbank.org)
- - date_published: 2024-05-12T07:30:00.844404+00:00
-
- ## Prosperity Data360
- - [https://prosperitydata360.worldbank.org](https://prosperitydata360.worldbank.org)
- - date_published: 2024-07-16T23:39:10.145412+00:00
-
- ## Remittance Prices Worldwide | MAKING MARKETS MORE TRANSPARENT
- - [https://remittanceprices.worldbank.org](https://remittanceprices.worldbank.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## RISE
- - [http://rise.worldbank.org](http://rise.worldbank.org)
- - date_published: 2024-07-16T23:33:18.833730+00:00
-
- ## Results and Impact | World Bank Group Scorecard
- - [https://scorecard.worldbank.org](https://scorecard.worldbank.org)
- - date_published: 2024-07-15T13:31:48+00:00
-
- ## World Bank Global SSB Tax Database
- - [https://ssbtax.worldbank.org](https://ssbtax.worldbank.org)
- - date_published: 2024-08-15T16:43:38+00:00
-
- ## Prosperity Data360
- - [https://tcdata360.worldbank.org](https://tcdata360.worldbank.org)
- - date_published: 2024-05-12T07:30:51.234655+00:00
-
- ## Public Documents | The World Bank
- - [https://thedocs.worldbank.org](https://thedocs.worldbank.org)
- - date_published: 2024-07-03T22:07:38.136922+00:00
-
- ## Treasury
- - [https://treasury.worldbank.org](https://treasury.worldbank.org)
- - date_published: 2024-07-16T23:07:10+00:00
-
- ## World Development Report 2021: Data for Better Lives
- - [https://wdr2021.worldbank.org](https://wdr2021.worldbank.org)
- - date_published: 2022-05-26T16:36:18+00:00
-
- ## World Bank Group - International Development, Poverty, & Sustainability
- - [https://web.worldbank.org](https://web.worldbank.org)
- - date_published: 2024-04-28T02:13:39.131138+00:00
 

@@ -1,3 +1,19 @@
+ ## the physics arXiv blog
+ - [http://www.arxivblog.com](http://www.arxivblog.com)
+ - date_published: 2024-06-23T10:40:01.572230+00:00
+
+ ## Research Papers
+ - [http://arxivgen.com](http://arxivgen.com)
+ - date_published: 2023-10-25T12:45:51.082018+00:00
+
+ ## arxiv-sanity
+ - [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## arxiv-sanity
+ - [https://arxiv-sanity-lite.com](https://arxiv-sanity-lite.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Home - Aryza
  - [https://www.aryza.com](https://www.aryza.com)
  - date_published: 2024-03-15T00:00:00+00:00
@@ -4008,20 +4024,4 @@
  ## Atomic Books
  - [https://atomicbooks.com](https://atomicbooks.com)
  - date_published: 2024-06-29T11:01:08.190071+00:00
-
- ## HOME | Atomic Brand Energy
- - [https://atomicbrandenergy.com](https://atomicbrandenergy.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Atomic Canyon
- - [https://atomic-canyon.com](https://atomic-canyon.com)
- - date_published: 2024-10-26T14:28:43.589624+00:00
-
- ## Atomic Dead Guy: The Art of Shawn Conn
- - [https://atomicdeadguy.com](https://atomicdeadguy.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## ATOMIC ENTERTAINMENT | Video Production | New York
- - [https://www.atomicentertainment.com](https://www.atomicentertainment.com)
- - date_published: 2024-09-21T23:06:17.835428+00:00
 

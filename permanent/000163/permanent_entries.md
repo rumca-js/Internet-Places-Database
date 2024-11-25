@@ -1,3 +1,51 @@
+ ## Welcome to Click — Click Documentation (8.1.x)
+ - [https://click.palletsprojects.com](https://click.palletsprojects.com)
+ - date_published: 2024-04-29T07:29:09.262948+00:00
+
+ ## Welcome to Flask — Flask Documentation (3.0.x)
+ - [https://flask.palletsprojects.com](https://flask.palletsprojects.com)
+ - date_published: 2024-04-29T05:57:27.329296+00:00
+
+ ## Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (3.1.x)
+ - [https://flask-sqlalchemy.palletsprojects.com](https://flask-sqlalchemy.palletsprojects.com)
+ - date_published: 2024-04-25T19:40:27+00:00
+
+ ## ItsDangerous — ItsDangerous Documentation (2.2.x)
+ - [https://itsdangerous.palletsprojects.com](https://itsdangerous.palletsprojects.com)
+ - date_published: 2024-05-11T17:35:47+00:00
+
+ ## Jinja — Jinja Documentation (3.1.x)
+ - [https://jinja.palletsprojects.com](https://jinja.palletsprojects.com)
+ - date_published: 2024-05-06T18:18:33.027780+00:00
+
+ ## Hello | The Pallets Projects
+ - [https://palletsprojects.com](https://palletsprojects.com)
+ - date_published: 2024-07-24T16:59:58.494214+00:00
+
+ ## Quart documentation — Quart 0.19.6 documentation
+ - [https://quart.palletsprojects.com](https://quart.palletsprojects.com)
+ - date_published: 2024-05-19T19:59:15+00:00
+
+ ## Werkzeug — Werkzeug Documentation (3.0.x)
+ - [https://werkzeug.palletsprojects.com](https://werkzeug.palletsprojects.com)
+ - date_published: 2024-05-18T15:44:05+00:00
+
+ ## DRM Solution - Forensic Watermarking & DRM Services | PallyCon
+ - [https://pallycon.com](https://pallycon.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Pallyy | Social Media Management Platform
+ - [http://pallyy.com](http://pallyy.com)
+ - date_published: 2024-10-18T03:31:39+00:00
+
+ ## palmacas
+ - [https://palmacas.com](https://palmacas.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Edinburg Attorney for Personal Injuries | Palma Law
+ - [https://palmalaw.com](https://palmalaw.com)
+ - date_published: 2024-06-22T06:08:58.517120+00:00
+
  ## Palmas Altas wind farm and La Chalupa wind farm | ACCIONA | Business as unusual
  - [https://www.palmaswind.com](https://www.palmaswind.com)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3980,52 +4028,4 @@
  ## NgPortfolio
  - [https://ng-app.patelrikin.com](https://ng-app.patelrikin.com)
  - date_published: 2024-07-14T09:55:45.913186+00:00
-
- ## Rikin Patel | Philadelphia | Javascript | React | Frontend Web Developer
- - [https://patelrikin.com](https://patelrikin.com)
- - date_published: 2024-05-11T10:22:17.371204+00:00
-
- ## Rikin Patel | Philadelphia | Javascript / Frontend Web Developer
- - [https://preact.patelrikin.com](https://preact.patelrikin.com)
- - date_published: 2024-07-14T09:55:44.541173+00:00
-
- ## Pateno Payments | Advanced Business Payment Solutions
- - [https://www.pateno.com](https://www.pateno.com)
- - date_published: 2024-09-23T05:32:56+00:00
-
- ## Institute of Professional Representatives before the European Patent Office - epi
- - [https://patentepi.com](https://patentepi.com)
- - date_published: 2024-07-20T13:02:49.803037+00:00
-
- ## Patent Hawk: Prior Art Search +
- - [http://www.patenthawk.com](http://www.patenthawk.com)
- - date_published: 2024-10-19T06:12:05.224884+00:00
-
- ## Patently-O, the nation's leading patent law blog
- - [https://patentlyo.com](https://patentlyo.com)
- - date_published: 2024-06-15T02:25:55.160448+00:00
-
- ## PatentPal Draft
- - [http://draft.patentpal.com](http://draft.patentpal.com)
- - date_published: 2022-05-06T15:20:58+00:00
-
- ## PatentPal
- - [https://patentpal.com](https://patentpal.com)
- - date_published: 2024-06-18T20:00:42+00:00
-
- ## Patentyourkiss
- - [https://patentyourkiss.com](https://patentyourkiss.com)
- - date_published: 2024-08-20T04:11:26.785308+00:00
-
- ## Inpics Gadget Repair Services - InPics Solutions
- - [https://patersontech.com](https://patersontech.com)
- - date_published: 2023-10-25T16:30:59.777009+00:00
-
- ## Everything Must Change
- - [http://www.patgarciaandeverythingmustchange.com](http://www.patgarciaandeverythingmustchange.com)
- - date_published: 2024-07-09T07:00:00+00:00
-
- ## AC Repair and Service | HVAC Company Panama City Beach FL - Pat Green
- - [http://www.patgreenair.com](http://www.patgreenair.com)
- - date_published: 2024-06-29T23:14:16.746702+00:00
 

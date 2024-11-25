@@ -1,3 +1,23 @@
+ ## The Land of Obscusion: Home of the Obscure & Forgotten
+ - [http://landofobscusion.blogspot.com](http://landofobscusion.blogspot.com)
+ - date_published: 2024-07-18T02:54:28+00:00
+
+ ## Land of the Lead
+ - [http://landofthelead.blogspot.com](http://landofthelead.blogspot.com)
+ - date_published: 2024-06-23T04:08:52+00:00
+
+ ## The  Land  O  Misfit  Toys
+ - [http://landomisfittoys.blogspot.com](http://landomisfittoys.blogspot.com)
+ - date_published: 2024-10-24T22:11:10+00:00
+
+ ## From a LAN Downunder
+ - [http://landownunder.blogspot.com](http://landownunder.blogspot.com)
+ - date_published: 2024-10-21T04:11:23.203174+00:00
+
+ ## on the dump
+ - [http://landskipper.blogspot.com](http://landskipper.blogspot.com)
+ - date_published: 2024-03-14T12:32:06+00:00
+
  ## Blogger
  - [http://landwithoutbread.blogspot.com](http://landwithoutbread.blogspot.com)
  - date_published: 2024-06-19T16:57:09.870804+00:00
@@ -3990,24 +4010,4 @@
  ## more indirection
  - [http://moreindirection.blogspot.com](http://moreindirection.blogspot.com)
  - date_published: 2024-02-07T21:57:26+00:00
-
- ## PyPy Status Blog
- - [https://morepypy.blogspot.com](https://morepypy.blogspot.com)
- - date_published: 2024-05-08T12:03:23.431084+00:00
-
- ## Mountain Running Mama
- - [http://morevertmorefun.blogspot.com](http://morevertmorefun.blogspot.com)
- - date_published: 2024-10-09T01:44:14+00:00
-
- ## Moridura - - - ©Copyright  Peter Curran 2015
- - [https://moridura.blogspot.com](https://moridura.blogspot.com)
- - date_published: 2024-05-20T09:03:16+00:00
-
- ## morksminis
- - [https://mork6969.blogspot.com](https://mork6969.blogspot.com)
- - date_published: 2024-10-17T08:52:59+00:00
-
- ## https://mormanity.blogspot.com
- - [https://mormanity.blogspot.com](https://mormanity.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
 

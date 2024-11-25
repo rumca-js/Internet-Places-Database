@@ -1,3 +1,51 @@
+ ## 1843 magazine | The Economist
+ - [http://moreintelligentlife.com](http://moreintelligentlife.com)
+ - date_published: 2024-05-15T03:01:31.588876+00:00
+
+ ## Live smarter, do more
+ - [https://morelabs.com](https://morelabs.com)
+ - date_published: 2024-04-29T04:30:14.072428+00:00
+
+ ## MorelandConnect - Software Development Company
+ - [http://morelandconnect.com](http://morelandconnect.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## More Life, Less Waste
+ - [http://www.morelifelesswaste.com](http://www.morelifelesswaste.com)
+ - date_published: 2024-09-02T09:11:09+00:00
+
+ ## Matt Katz –  More Light! More Light! | Almost completely true
+ - [http://morelightmorelight.com](http://morelightmorelight.com)
+ - date_published: 2024-09-26T21:36:26.564029+00:00
+
+ ## Moremi Game Reserve: Botswana's wildlife haven for an unmatched safari experience
+ - [https://www.moremi.com](https://www.moremi.com)
+ - date_published: 2024-05-06T21:44:53.759320+00:00
+
+ ## Advocate, Scholar, Mom, Changemaker
+ - [https://morenikego.com](https://morenikego.com)
+ - date_published: 2024-03-17T15:44:06+00:00
+
+ ## MVA – Moreno Vlk & Asociados
+ - [http://www.moreno-vlk.com](http://www.moreno-vlk.com)
+ - date_published: 2024-06-28T21:53:23.910426+00:00
+
+ ## Nexis Newsdesk™ - Sign In | LexisNexis
+ - [http://newsdesk-feeds.moreover.com](http://newsdesk-feeds.moreover.com)
+ - date_published: 2024-10-18T21:30:38.622373+00:00
+
+ ## More Pablo
+ - [https://morepablo.com](https://morepablo.com)
+ - date_published: 2023-10-25T16:06:48.588242+00:00
+
+ ## MoreRSS : Discover and Translate RSS Feeds, Control Your Content, Gain Global Insights
+ - [https://morerss.com](https://morerss.com)
+ - date_published: 2024-05-12T06:41:28.417546+00:00
+
+ ## Campaign Finance Law Blog: More Soft Money Hard Law: By Bob Bauer
+ - [http://www.moresoftmoneyhardlaw.com](http://www.moresoftmoneyhardlaw.com)
+ - date_published: 2024-06-27T08:29:07.529543+00:00
+
  ## More Than A Dodo
  - [http://morethanadodo.com](http://morethanadodo.com)
  - date_published: 2024-06-17T18:38:02.157890+00:00
@@ -3999,53 +4047,4 @@
  ## Dictionary
  - [https://www.multitran.com](https://www.multitran.com)
  - date_published: 2024-08-18T08:01:22.442014+00:00
-
- ## Multiverse Computing
- - [https://www.multiversecomputing.com](https://www.multiversecomputing.com)
- - date_published: 2024-07-02T23:36:09.971663+00:00
-
- ## Multiverse Publishing
- - [https://multiversepublishingllc.com](https://multiversepublishingllc.com)
- - date_published: 2024-04-29T05:31:45.766602+00:00
-
- ## HOME
- - [https://multiversus.com](https://multiversus.com)
- - date_published: 2024-05-28T00:00:00+00:00
- - tags: ['video game']
-
- ## MultiversX Explorer
- - [https://explorer.multiversx.com](https://explorer.multiversx.com)
- - date_published: 2024-09-14T11:59:09+00:00
-
- ## The Internet-Scale Blockchain | MultiversX
- - [https://multiversx.com](https://multiversx.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Digital Media Agency - B2B Marketing Services | Multiview
- - [https://www.multiview.com](https://www.multiview.com)
- - date_published: 2024-10-12T13:38:00+00:00
-
- ## MultiVu: Award-Winning Multimedia Production & Strategic Distribution
- - [https://www.multivu.com](https://www.multivu.com)
- - date_published: 2024-06-29T05:32:18.130532+00:00
-
- ## Introversion Software
- - [http://www.multiwinia.com](http://www.multiwinia.com)
- - date_published: 2023-09-19T09:15:41+00:00
-
- ## Multiwoven - open-source reverse ETL and data activation
- - [https://www.multiwoven.com](https://www.multiwoven.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Multpl - Market, financial, and economic data
- - [https://www.multpl.com](https://www.multpl.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Elizabeth Freeman – mumbet.com
- - [http://www.mumbet.com](http://www.mumbet.com)
- - date_published: 2024-06-26T21:41:14.945876+00:00
-
- ## Mumble Note - AI voice note taker on the go
- - [https://www.mumbleapp.com](https://www.mumbleapp.com)
- - date_published: 2024-09-03T00:00:00+00:00
 

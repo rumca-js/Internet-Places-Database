@@ -1,3 +1,83 @@
+ ## Office of Spartan Experiences | Michigan State University
+ - [https://spartanexperiences.msu.edu](https://spartanexperiences.msu.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Spartan Spirit Shop
+ - [https://spartanspiritshop.msu.edu](https://spartanspiritshop.msu.edu)
+ - date_published: 2024-07-01T15:43:13.366023+00:00
+
+ ## Spartan Life Welcome Letter | Office of Spartan Experiences | Michigan State University
+ - [http://splife.studentlife.msu.edu](http://splife.studentlife.msu.edu)
+ - date_published: 2024-01-19T20:50:11+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://studentaffairs.msu.edu](https://studentaffairs.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Office of Spartan Experiences | Michigan State University
+ - [https://studentlife.msu.edu](https://studentlife.msu.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## MSU Student Parent Resource Center
+ - [http://studentparents.msu.edu](http://studentparents.msu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Michigan State University Tours | Experience MSU
+ - [https://tour.msu.edu](https://tour.msu.edu)
+ - date_published: 2024-07-01T15:43:23.490694+00:00
+
+ ## University Health and Wellbeing | Michigan State University
+ - [https://uhw.msu.edu](https://uhw.msu.edu)
+ - date_published: 2024-07-01T15:43:15.211636+00:00
+
+ ## Home | MSU Union
+ - [https://union.msu.edu](https://union.msu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Universal Search Tool | Michigan State University
+ - [https://u.search.msu.edu](https://u.search.msu.edu)
+ - date_published: 2024-06-22T10:16:53.091388+00:00
+
+ ## Home | Student Veterans Resource Center
+ - [https://veterans.msu.edu](https://veterans.msu.edu)
+ - date_published: 2024-07-01T15:02:24+00:00
+
+ ## Women*s Student Services | Michigan State University
+ - [https://wss.msu.edu](https://wss.msu.edu)
+ - date_published: 2023-09-13T17:51:24+00:00
+
+ ## College of Agriculture & Natural Resources
+ - [https://www.canr.msu.edu](https://www.canr.msu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## The Center - MSU Engineering Careers Start Here - East Lansing
+ - [https://www.careers.egr.msu.edu](https://www.careers.egr.msu.edu)
+ - date_published: 2024-06-22T10:16:51.650570+00:00
+
+ ## MSU Off-Campus Life
+ - [http://www.collegelifeel.msu.edu](http://www.collegelifeel.msu.edu)
+ - date_published: 2024-07-01T15:43:05.628254+00:00
+
+ ## College Homepage - College of Education Events
+ - [http://www.educ.msu.edu](http://www.educ.msu.edu)
+ - date_published: 2024-07-13T07:49:18.789678+00:00
+
+ ## College of Engineering | Michigan State University
+ - [https://www.egr.msu.edu](https://www.egr.msu.edu)
+ - date_published: 2024-06-22T10:16:43.534744+00:00
+
+ ## Fraternity & Sorority Life | Michigan State University
+ - [http://www.greeklife.msu.edu](http://www.greeklife.msu.edu)
+ - date_published: 2024-05-21T20:21:57+00:00
+
+ ## MSU Health Sciences | Michigan State University
+ - [https://www.healthsciences.msu.edu](https://www.healthsciences.msu.edu)
+ - date_published: 2024-11-15T14:05:49+00:00
+
+ ## Michigan State University College of Law
+ - [http://www.law.msu.edu](http://www.law.msu.edu)
+ - date_published: 2024-06-06T18:40:37+00:00
+
  ## MSUvote
  - [https://www.msuvote.msu.edu](https://www.msuvote.msu.edu)
  - date_published: 2024-07-01T15:43:26.868290+00:00
@@ -3919,85 +3999,4 @@
  ## NYU Game Center
  - [http://gamecenter.nyu.edu](http://gamecenter.nyu.edu)
  - date_published: 2024-06-22T08:43:40.855631+00:00
-
- ## NYU Tandon School of Engineering Game Innovation Lab |
- - [http://game.engineering.nyu.edu](http://game.engineering.nyu.edu)
- - date_published: 2024-06-22T08:43:39.102758+00:00
-
- ## Graduate School of Arts & Science
- - [http://gsas.nyu.edu](http://gsas.nyu.edu)
- - date_published: 2024-06-21T18:55:37+00:00
-
- ## Research Guides
- - [https://guides.nyu.edu](https://guides.nyu.edu)
- - date_published: 2024-09-06T12:37:30.457329+00:00
-
- ## NYU Login
- - [https://home.nyu.edu](https://home.nyu.edu)
- - date_published: 2024-05-07T19:50:03.869850+00:00
-
- ## Subject Guides
- - [https://hslguides.med.nyu.edu](https://hslguides.med.nyu.edu)
- - date_published: 2024-07-08T11:28:28.767472+00:00
-
- ## NYU Health Sciences Library
- - [https://hsl.med.nyu.edu](https://hsl.med.nyu.edu)
- - date_published: 2024-05-08T11:00:12.848241+00:00
-
- ## LibCal -
-        NYU Health Sciences Library
- - [https://hslrooms.med.nyu.edu](https://hslrooms.med.nyu.edu)
- - date_published: 2024-07-08T11:28:52.898521+00:00
-
- ## The Institute of Fine Arts, NYU
- - [https://ifa.nyu.edu](https://ifa.nyu.edu)
- - date_published: 2024-06-01T01:24:44+00:00
-
- ## NYU Login
- - [https://intranet.nyuad.nyu.edu](https://intranet.nyuad.nyu.edu)
- - date_published: 2024-06-10T12:58:34.254016+00:00
-
- ## Institute for the Study of the Ancient World
- - [http://isaw.nyu.edu](http://isaw.nyu.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## ITP / IMA
- - [http://itp.nyu.edu](http://itp.nyu.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Home | NYU School of Law
- - [https://its.law.nyu.edu](https://its.law.nyu.edu)
- - date_published: 2024-06-17T11:12:07.623149+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://jamanetwork-com.ezproxy.med.nyu.edu](https://jamanetwork-com.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:41.009573+00:00
-
- ## NYU Journalism - Arthur L. Carter Journalism Institute
- - [https://journalism.nyu.edu](https://journalism.nyu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home | NYU School of Law
- - [https://law.nyu.edu](https://law.nyu.edu)
- - date_published: 2024-05-08T10:59:49.830912+00:00
-
- ## Ask the Library - Ask the Library
- - [https://libraryhelp.med.nyu.edu](https://libraryhelp.med.nyu.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## LibGuides: Hollis Health Sciences Library: Home
- - [https://library.medli.nyu.edu](https://library.medli.nyu.edu)
- - date_published: 2024-07-08T11:28:04.599846+00:00
-
- ## Index
- - [http://library.nyu.edu](http://library.nyu.edu)
- - date_published: 2024-06-29T02:13:51+00:00
-
- ## Department of Linguistics
- - [http://linguistics.as.nyu.edu](http://linguistics.as.nyu.edu)
- - date_published: 2024-09-05T21:24:18+00:00
-
- ## Math and Data
- - [https://mad.cds.nyu.edu](https://mad.cds.nyu.edu)
- - date_published: 2024-04-26T20:24:52+00:00
 

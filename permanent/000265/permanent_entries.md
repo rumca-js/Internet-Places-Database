@@ -1,3 +1,83 @@
+ ## Tech Tutors | IT Learning & Development
+ - [https://techtutors.psu.edu](https://techtutors.psu.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Teaching and Learning with Technology | Penn State
+ - [http://tlt.its.psu.edu](http://tlt.its.psu.edu)
+ - date_published: 2024-07-02T08:46:49+00:00
+
+ ## Teaching and Learning with Technology | Penn State
+ - [https://tlt.psu.edu](https://tlt.psu.edu)
+ - date_published: 2024-07-01T16:46:20+00:00
+
+ ## Office of the Board of Trustees |
+ - [https://trustees.psu.edu](https://trustees.psu.edu)
+ - date_published: 2024-10-14T23:03:51+00:00
+
+ ## Travel Registry
+ - [http://tsn.psu.edu](http://tsn.psu.edu)
+ - date_published: 2024-06-27T20:27:37+00:00
+
+ ## Home Page - Penn State Office of Ethics and Compliance
+ - [https://universityethics.psu.edu](https://universityethics.psu.edu)
+ - date_published: 2024-05-07T20:01:39.011868+00:00
+
+ ## Veterans – Veteran Affairs and Services
+ - [https://veterans.psu.edu](https://veterans.psu.edu)
+ - date_published: 2024-05-07T20:01:35.068137+00:00
+
+ ## Respiratory Symptoms | Penn State Student Affairs
+ - [https://virusinfo.psu.edu](https://virusinfo.psu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Penn State Wilkes-Barre
+ - [http://wilkesbarre.psu.edu](http://wilkesbarre.psu.edu)
+ - date_published: 2024-07-01T15:45:31+00:00
+
+ ## Pennsylvania State University-One_Password_Update | Powered by SecureW2
+ - [https://wireless.psu.edu](https://wireless.psu.edu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## WorkLion – Penn State’s HR Portal
+ - [https://worklion.psu.edu](https://worklion.psu.edu)
+ - date_published: 2023-08-22T17:53:35+00:00
+
+ ## www.work -- Personalized
+ - [https://work.psu.edu](https://work.psu.edu)
+ - date_published: 2024-05-07T20:02:21.048939+00:00
+
+ ## Penn State World Campus - Degrees, Certificates, and Courses Offered Online
+ - [https://worldcampus.psu.edu](https://worldcampus.psu.edu)
+ - date_published: 2024-05-07T20:02:19.052585+00:00
+
+ ## Penn State Abington
+ - [http://www.abington.psu.edu](http://www.abington.psu.edu)
+ - date_published: 2024-07-01T17:24:45+00:00
+
+ ## Penn State Altoona
+ - [http://www.altoona.psu.edu](http://www.altoona.psu.edu)
+ - date_published: 2024-07-01T17:30:11+00:00
+
+ ## PSAA Website
+ - [https://www.alumni.psu.edu](https://www.alumni.psu.edu)
+ - date_published: 2024-05-07T20:02:10.840968+00:00
+
+ ## The Applied Research Laboratory at Penn State University – A University Affiliated Research Center
+ - [https://www.arl.psu.edu](https://www.arl.psu.edu)
+ - date_published: 2024-07-14T14:22:10.536302+00:00
+
+ ## Home Page | Office of the Bursar
+ - [https://www.bursar.psu.edu](https://www.bursar.psu.edu)
+ - date_published: 2024-06-27T14:52:59+00:00
+
+ ## Homepage
+ - [https://www.commencement.psu.edu](https://www.commencement.psu.edu)
+ - date_published: 2024-07-01T16:37:41+00:00
+
+ ## School of Electrical Engineering and Computer Science | Penn State Engineering
+ - [http://www.cse.psu.edu](http://www.cse.psu.edu)
+ - date_published: 2024-06-30T11:17:12.617289+00:00
+
  ## Penn State Data Commons - Penn State's source for data sharing, discovery, and archiving
  - [https://www.datacommons.psu.edu](https://www.datacommons.psu.edu)
  - date_published: 2021-07-07T19:07:06+00:00
@@ -3928,84 +4008,4 @@
  ## Arts Intensive
  - [https://artsintensive.stanford.edu](https://artsintensive.stanford.edu)
  - date_published: 2024-04-26T19:43:24+00:00
-
- ## Stanford Arts
- - [https://arts.stanford.edu](https://arts.stanford.edu)
- - date_published: 2024-05-07T20:30:31.849575+00:00
-
- ## Stanford ASdb Dataset
- - [https://asdb.stanford.edu](https://asdb.stanford.edu)
- - date_published: 2024-01-30T15:39:34+00:00
-
- ## Search Results
- - [https://ask.stanford.edu](https://ask.stanford.edu)
- - date_published: 2024-05-07T20:26:08.500822+00:00
-
- ## Autonomous Systems Laboratory
- - [https://asl.stanford.edu](https://asl.stanford.edu)
- - date_published: 2024-05-07T10:17:56.429005+00:00
-
- ## Stanford Asset CDN
- - [https://assets.stanford.edu](https://assets.stanford.edu)
- - date_published: 2024-07-01T20:12:07.358516+00:00
-
- ## Associated Students of Stanford University
- - [https://assu.stanford.edu](https://assu.stanford.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## init
- - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
- - date_published: 2024-07-01T19:56:12.906323+00:00
-
- ## Stanford | Axess
- - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## Stanford | Axess
- - [https://axess.stanford.edu](https://axess.stanford.edu)
- - date_published: 2023-09-01T18:19:30+00:00
-
- ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
- - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Bechtel International Center
- - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
- - date_published: 2024-07-01T17:10:36+00:00
-
- ## BEHAVIOR – BEHAVIOR
- - [https://behavior.stanford.edu](https://behavior.stanford.edu)
- - date_published: 2024-05-13T22:21:37+00:00
-
- ## Home - Stanford BeWell
- - [https://bewell.stanford.edu](https://bewell.stanford.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Future of Health Care
- - [https://biodesign.stanford.edu](https://biodesign.stanford.edu)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Department of Biology
- - [https://biology.stanford.edu](https://biology.stanford.edu)
- - date_published: 2024-05-07T20:29:32.574767+00:00
-
- ## Welcome to Bio-X
- - [https://biox.stanford.edu](https://biox.stanford.edu)
- - date_published: 2024-07-01T20:17:37+00:00
-
- ## Stanford Login
- - [http://bi.stanford.edu](http://bi.stanford.edu)
- - date_published: 2024-07-01T20:08:27.443247+00:00
-
- ## The Book Haven
- - [https://bookhaven.stanford.edu](https://bookhaven.stanford.edu)
- - date_published: 2024-07-03T21:35:03.640765+00:00
-
- ## Bing Overseas Studies Programs
- - [https://bosp.stanford.edu](https://bosp.stanford.edu)
- - date_published: 2024-06-24T05:17:29+00:00
-
- ## Knight Initiative
- - [https://brainresilience.stanford.edu](https://brainresilience.stanford.edu)
- - date_published: 2024-05-11T11:24:06.122496+00:00
 

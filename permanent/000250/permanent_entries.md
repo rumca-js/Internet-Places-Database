@@ -1,3 +1,83 @@
+ ## Der Verband Deutscher Verkehrsunternehmen (VDV) stellt sich vor | VDV - Die Verkehrsunternehmen
+ - [https://www.vdv.de](https://www.vdv.de)
+ - date_published: 2024-07-08T17:21:38.580742+00:00
+
+ ## VEB Farben
+ - [https://veb-farben.de](https://veb-farben.de)
+ - date_published: 2024-04-15T08:11:29+00:00
+
+ ## IT-Systemhaus aus Brakel, Bremen, Osnabrück, Stuttgart und München
+ - [https://vectano.de](https://vectano.de)
+ - date_published: 2024-07-09T11:10:58+00:00
+
+ ## Vegconom GmbH
+ - [https://vegconom.de](https://vegconom.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## vegconomist - Das vegane Wirtschaftsmagazin
+ - [https://vegconomist.de](https://vegconomist.de)
+ - date_published: 2024-05-06T21:35:06.463707+00:00
+
+ ## Startseite - veit-ingenieure.de
+ - [http://www.veit-ingenieure.de](http://www.veit-ingenieure.de)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## VELCRO® Markenbefestigungslösungen | Velcro.de
+ - [https://www.velcro.de](https://www.velcro.de)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Vereinigte Evangelisch-Lutherische Kirche Deutschlands - VELKD
+ - [https://www.velkd.de](https://www.velkd.de)
+ - date_published: 2024-10-22T05:20:50.501659+00:00
+
+ ## VEMA Versicherungsmakler Genossenschaft eG Niederlassung Heinersreuth
+ - [https://www.vema-eg.de](https://www.vema-eg.de)
+ - date_published: 2024-09-09T20:41:31.417363+00:00
+
+ ## still don't have a title | Bastian Venthur's Blog
+ - [https://venthur.de](https://venthur.de)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Beratungsstellen für Betroffene rechter, rassistischer und antisemitischer Gewalt | VBRG
+ - [https://verband-brg.de](https://verband-brg.de)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Verbraucherbildung: Leben. Lernen. Leicht gemacht.
+ - [https://verbraucherbildung.de](https://verbraucherbildung.de)
+ - date_published: 2024-04-29T07:02:43.281545+00:00
+
+ ## Auszeichnung Verbraucherschule
+ - [http://www.verbraucherschule.de](http://www.verbraucherschule.de)
+ - date_published: 2024-08-08T10:02:56+00:00
+
+ ## Deutsche Stiftung Verbraucherschutz
+ - [https://www.verbraucherstiftung.de](https://www.verbraucherstiftung.de)
+ - date_published: 2024-08-08T19:47:25+00:00
+
+ ## Sign in - Matomo
+ - [https://auswertung.verbraucherzentrale.de](https://auswertung.verbraucherzentrale.de)
+ - date_published: 2024-04-29T07:02:36.188871+00:00
+
+ ## Startseite | Verbraucherzentrale.de
+ - [https://verbraucherzentrale.de](https://verbraucherzentrale.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Baden-Württemberg
+ - [http://www.verbraucherzentrale-bawue.de](http://www.verbraucherzentrale-bawue.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Bayern
+ - [http://www.verbraucherzentrale-bayern.de](http://www.verbraucherzentrale-bayern.de)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Berlin
+ - [http://www.verbraucherzentrale-berlin.de](http://www.verbraucherzentrale-berlin.de)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Startseite | Verbraucherzentrale Brandenburg
+ - [https://www.verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de)
+ - date_published: 2024-07-24T03:31:08.754541+00:00
+
  ## Startseite | Verbraucherzentrale Bremen
  - [http://www.verbraucherzentrale-bremen.de](http://www.verbraucherzentrale-bremen.de)
  - date_published: 2024-07-31T00:00:00+00:00
@@ -3944,84 +4024,4 @@ Bibliotheken / Z39.50
  ## The Aha Stack
  - [https://ahastack.dev](https://ahastack.dev)
  - date_published: 2024-01-03T14:54:40+00:00
-
- ## AIBoosted.dev | Gergely Szerovay | Substack
- - [https://aiboosted.dev](https://aiboosted.dev)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Aide
- - [https://aide.dev](https://aide.dev)
- - date_published: 2024-08-19T12:24:56.568408+00:00
-
- ## AI Events
- - [https://www.aievents.dev](https://www.aievents.dev)
- - date_published: 2024-06-21T06:29:22.901739+00:00
-
- ## Aigur
- - [https://aigur.dev](https://aigur.dev)
- - date_published: 2024-04-29T07:28:50.477109+00:00
-
- ## Aigur
- - [https://client.aigur.dev](https://client.aigur.dev)
- - date_published: 2024-06-19T21:26:22.181598+00:00
-
- ## Aikido — AppSec Platform For Code & Cloud Security
- - [https://www.aikido.dev](https://www.aikido.dev)
- - date_published: 2024-11-13T14:34:30+00:00
-
- ## AI opt-out for web developers
- - [https://aioptout.dev](https://aioptout.dev)
- - date_published: 2024-09-10T08:22:11.662838+00:00
-
- ## AI-Powered Landing Page Generator | Simplify Web Development
- - [https://www.aipage.dev](https://www.aipage.dev)
- - date_published: 2024-06-19T19:25:39.168949+00:00
-
- ## Home | airfusion.dev
- - [https://airfusion.dev](https://airfusion.dev)
- - date_published: 2024-05-11T10:23:56.164066+00:00
-
- ## Home Cloud
- - [https://cloud.airfusion.dev](https://cloud.airfusion.dev)
- - date_published: 2024-07-14T10:17:24.698629+00:00
-
- ## Airplane | The developer platform for internal tools
- - [https://www.airplane.dev](https://www.airplane.dev)
- - date_published: 2023-10-25T18:34:38.548749+00:00
-
- ## Show HN: What do your GitHub starred repos say about you?
- - [https://starlens.aisprint.dev](https://starlens.aisprint.dev)
- - date_published: 2024-09-09T10:19:55+00:00
-
- ## Simple AI Pages
- - [https://aitec.dev](https://aitec.dev)
- - date_published: 2024-09-19T18:59:14.404175+00:00
-
- ## Akash Goswami
- - [https://akashgoswami.dev](https://akashgoswami.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## akkoma
- - [https://akkoma.dev](https://akkoma.dev)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## AksDev
- - [https://akselmo.dev](https://akselmo.dev)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Contact - akselmo.dev
- - [https://contact.akselmo.dev](https://contact.akselmo.dev)
- - date_published: 2024-04-29T07:19:06.536675+00:00
-
- ## Teabyte
- - [https://alexanderweiss.dev](https://alexanderweiss.dev)
- - date_published: 2023-09-16T00:00:00+00:00
-
- ## Blog – Tailwind CSS
- - [https://alexandro.dev](https://alexandro.dev)
- - date_published: 2024-07-10T11:14:32.893003+00:00
-
- ## Of Chaos and Order - Index
- - [https://alexbilson.dev](https://alexbilson.dev)
- - date_published: 2024-05-07T23:15:35.361064+00:00
 

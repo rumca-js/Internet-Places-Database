@@ -1,3 +1,19 @@
+ ## MARAUDEUR
+ - [https://maraudeur.bandcamp.com](https://maraudeur.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Merch from Marc Gunn
+ - [https://marcgunn.bandcamp.com](https://marcgunn.bandcamp.com)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Marc Ribot
+ - [https://marcribot.bandcamp.com](https://marcribot.bandcamp.com)
+ - date_published: 2024-09-09T14:51:21.370696+00:00
+
+ ## Marc Straight
+ - [https://marcstraight.bandcamp.com](https://marcstraight.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Horus Torus, by Marc UÅ
  - [https://marcua.bandcamp.com](https://marcua.bandcamp.com)
  - date_published: 2024-10-17T22:09:35.593796+00:00
@@ -3989,20 +4005,4 @@ rain or shine
  ## Baris Derin
  - [http://barisderin.com](http://barisderin.com)
  - date_published: 2024-08-18T08:32:43.163706+00:00
-
- ## Bark.com: A Revolutionary Way to Hire Local Services & Professionals
- - [https://bark.com](https://bark.com)
- - date_published: 2024-05-07T13:45:49.406186+00:00
-
- ## Bark
- - [https://careers.bark.com](https://careers.bark.com)
- - date_published: 2024-06-29T18:57:52.710195+00:00
-
- ## NrfScript
- - [https://frontend.bark.com](https://frontend.bark.com)
- - date_published: 2024-06-18T11:56:34+00:00
-
- ## Bark.com Help
- - [https://help.bark.com](https://help.bark.com)
- - date_published: 2024-06-29T18:57:49.395772+00:00
 

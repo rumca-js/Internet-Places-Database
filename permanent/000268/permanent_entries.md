@@ -1,3 +1,83 @@
+ ## Careers Home | UCLA
+ - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Humanities Division - UCLA
+ - [http://humanities.ucla.edu](http://humanities.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - HumTech - UCLA
+ - [https://humtech.ucla.edu](https://humtech.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Integrated Diagnostics IDx Shared Resource Portal - Home
+ - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
+ - date_published: 2024-06-07T21:58:40+00:00
+
+ ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
+ - [https://ieo.ucla.edu](https://ieo.ucla.edu)
+ - date_published: 2024-07-01T23:02:33.540862+00:00
+
+ ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
+ - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Institute for Research on Labor and Employment
+ - [https://irle.ucla.edu](https://irle.ucla.edu)
+ - date_published: 2024-05-07T20:55:11.391952+00:00
+
+ ## Home - UCLA Institute of Transportation Studies
+ - [https://its.ucla.edu](https://its.ucla.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UCLA Center for Neighborhood Knowledge
+ - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## LAERI@UCLA | The Los Angeles Education Research Institute
+ - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:25.237557+00:00
+
+ ## Engaging LA, Changing the World | LA Social Science
+ - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
+ - date_published: 2024-07-01T23:06:08.159487+00:00
+
+ ## Latino Policy & Politics Institute
+ - [https://latino.ucla.edu](https://latino.ucla.edu)
+ - date_published: 2024-07-01T23:07:12.647596+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://law.ucla.edu](https://law.ucla.edu)
+ - date_published: 2024-05-04T14:42:25.180876+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://legacy.ucla.edu](https://legacy.ucla.edu)
+ - date_published: 2024-07-01T23:04:58.808632+00:00
+
+ ## Homepage - UCLA Let There Be
+ - [https://lettherebe.ucla.edu](https://lettherebe.ucla.edu)
+ - date_published: 2020-08-26T00:00:00+00:00
+
+ ## Lewis Home - UCLA Lewis Center for Regional Policy Studies
+ - [https://lewis.ucla.edu](https://lewis.ucla.edu)
+ - date_published: 2024-04-30T05:05:25.842498+00:00
+
+ ## Home - LGBTQ Studies - UCLA
+ - [https://lgbtqstudies.ucla.edu](https://lgbtqstudies.ucla.edu)
+ - date_published: 2024-10-29T11:44:56.942880+00:00
+
+ ## Labor Occupational Safety and Health Program
+ - [https://losh.ucla.edu](https://losh.ucla.edu)
+ - date_published: 2024-07-01T23:06:11.308355+00:00
+
+ ## UCLA Conference Center | Meyer & Renee Luskin Center | UCLA Luskin Conference Center
+ - [https://luskinconferencecenter.ucla.edu](https://luskinconferencecenter.ucla.edu)
+ - date_published: 2024-07-01T23:03:08.451096+00:00
+
+ ## School of Public Affairs | UCLA Luskin
+ - [https://luskin.ucla.edu](https://luskin.ucla.edu)
+ - date_published: 2024-05-07T20:55:15.920022+00:00
+
  ## Home | Transportation
  - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
  - date_published: 2024-05-07T20:55:26.311984+00:00
@@ -3923,84 +4003,4 @@
  ## University of California, San Francisco - MyAccess - Loading Session Information
  - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
  - date_published: 2024-05-07T21:08:39.463840+00:00
-
- ## MyFamily at UCSF
- - [https://myfamily.ucsf.edu](https://myfamily.ucsf.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://netpartner.ucsf.edu](https://netpartner.ucsf.edu)
- - date_published: 2024-07-02T01:48:41.626403+00:00
-
- ## Home
- - [https://neurosurgery.ucsf.edu](https://neurosurgery.ucsf.edu)
- - date_published: 2024-07-02T01:35:56+00:00
-
- ## Home
- - [https://nic.ucsf.edu](https://nic.ucsf.edu)
- - date_published: 2024-05-02T10:08:50.424455+00:00
-
- ## Home | UCSF School of Nursing
- - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
- - date_published: 2024-05-07T21:09:24.970801+00:00
-
- ## Home
- - [http://ombuds.ucsf.edu](http://ombuds.ucsf.edu)
- - date_published: 2024-07-02T01:39:56+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://ophd.ucsf.edu](https://ophd.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## OCPD Opportunities and Job Board
- - [https://opportunities.ucsf.edu](https://opportunities.ucsf.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## PAB at UCSF
- - [https://pab.ucsf.edu](https://pab.ucsf.edu)
- - date_published: 2024-07-02T01:54:14+00:00
-
- ## Center for Community Engagement
- - [https://partnerships.ucsf.edu](https://partnerships.ucsf.edu)
- - date_published: 2024-07-02T01:52:57+00:00
-
- ## The Tudors
- - [https://pcounterwebdeposit.ucsf.edu](https://pcounterwebdeposit.ucsf.edu)
- - date_published: 2023-03-12T15:09:12+00:00
-
- ## UCSF School of Pharmacy
- - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
- - date_published: 2024-05-07T21:08:11.071638+00:00
-
- ## Department of Pharmaceutical Chemistry
- - [https://pharmchem.ucsf.edu](https://pharmchem.ucsf.edu)
- - date_published: 2024-07-02T01:49:08+00:00
-
- ## PharmD Degree Program
- - [https://pharmd.ucsf.edu](https://pharmd.ucsf.edu)
- - date_published: 2024-07-02T01:48:39+00:00
-
- ## List of Sites
- - [https://pharm.ucsf.edu](https://pharm.ucsf.edu)
- - date_published: 2024-07-02T01:40:39+00:00
-
- ## UCSF Brand Portal
- - [https://photolibrary.ucsf.edu](https://photolibrary.ucsf.edu)
- - date_published: 2024-07-02T01:49:48.240505+00:00
-
- ## The Power of In-House Consulting
- - [https://pmo.ucsf.edu](https://pmo.ucsf.edu)
- - date_published: 2024-07-02T01:50:04+00:00
-
- ## Home
- - [https://police.ucsf.edu](https://police.ucsf.edu)
- - date_published: 2024-05-07T21:08:45.814832+00:00
-
- ## Home | Campus Administrative Policies
- - [https://policies.ucsf.edu](https://policies.ucsf.edu)
- - date_published: 2024-05-07T21:08:12.703899+00:00
-
- ## Home
- - [https://pophealth.ucsf.edu](https://pophealth.ucsf.edu)
- - date_published: 2024-07-02T01:53:17+00:00
 

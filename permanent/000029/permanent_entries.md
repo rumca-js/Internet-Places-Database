@@ -1,3 +1,11 @@
+ ## 海南省退役军人事务厅
+ - [http://tyt.hainan.gov.cn](http://tyt.hainan.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 海南省卫生健康委员会
+ - [http://wst.hainan.gov.cn](http://wst.hainan.gov.cn)
+ - date_published: 2024-06-30T13:46:11.811678+00:00
+
  ## 海南省人民政府网
  - [http://www.hainan.gov.cn](http://www.hainan.gov.cn)
  - date_published: 2023-11-08T01:31:16+00:00
@@ -3988,13 +3996,5 @@
 
  ## 浙江省统计局
  - [http://tjj.zj.gov.cn](http://tjj.zj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 浙江省退役军人事务厅
- - [http://tyjrswt.zj.gov.cn](http://tyjrswt.zj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 浙江省卫生健康委员会
- - [https://wsjkw.zj.gov.cn](https://wsjkw.zj.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
 

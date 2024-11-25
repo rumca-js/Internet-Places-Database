@@ -1,3 +1,75 @@
+ ## Functional C++
+ - [http://functionalcpp.wordpress.com](http://functionalcpp.wordpress.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Funky16Corners
+ - [http://funky16corners.wordpress.com](http://funky16corners.wordpress.com)
+ - date_published: 2024-10-21T05:28:17.343138+00:00
+
+ ## Private Site
+ - [https://funwwords.wordpress.com](https://funwwords.wordpress.com)
+ - date_published: 2024-06-22T10:04:05.792775+00:00
+
+ ## Scrapbookpages Blog
+ - [https://furtherglory.wordpress.com](https://furtherglory.wordpress.com)
+ - date_published: 2024-06-27T09:44:52.745375+00:00
+
+ ## FUTURE ALBERTA
+ - [http://futurealberta.wordpress.com](http://futurealberta.wordpress.com)
+ - date_published: 2024-07-20T15:44:31.248372+00:00
+
+ ## Future of the LMS
+ - [http://futurelms.wordpress.com](http://futurelms.wordpress.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Futures and Pasts
+ - [http://futuresandpasts.wordpress.com](http://futuresandpasts.wordpress.com)
+ - date_published: 2024-10-21T18:51:16.451105+00:00
+
+ ## Fuzzy Logic
+ - [http://fuzislippers.wordpress.com](http://fuzislippers.wordpress.com)
+ - date_published: 2024-06-27T10:34:03.729828+00:00
+
+ ## fussy fuZZy face
+ - [http://fuzzyfacial.wordpress.com](http://fuzzyfacial.wordpress.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## i passatempi infantili di gabbi
+ - [http://gabbigames.wordpress.com](http://gabbigames.wordpress.com)
+ - date_published: 2024-10-26T17:54:23.654900+00:00
+
+ ## gaberlungi
+ - [http://gaberlungi.wordpress.com](http://gaberlungi.wordpress.com)
+ - date_published: 2024-07-04T13:17:59.522761+00:00
+
+ ## Gaijin Mama
+ - [http://gaijinmama.wordpress.com](http://gaijinmama.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Pierre-Yves Gaillard's Weblog
+ - [http://gaillardpy.wordpress.com](http://gaillardpy.wordpress.com)
+ - date_published: 2024-06-30T08:27:00.431653+00:00
+
+ ## Our Finite World
+ - [http://gailtheactuary.wordpress.com](http://gailtheactuary.wordpress.com)
+ - date_published: 2024-06-30T04:52:10+00:00
+
+ ## So I decided to take my work back underground
+ - [https://gaiustech.wordpress.com](https://gaiustech.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Galactic Anthropology
+ - [https://galacticanthropology.wordpress.com](https://galacticanthropology.wordpress.com)
+ - date_published: 2024-08-11T23:45:11+00:00
+
+ ## galadrim
+ - [http://galadrim.wordpress.com](http://galadrim.wordpress.com)
+ - date_published: 2024-10-19T07:02:47.947599+00:00
+
+ ## SLNKB
+ - [http://gallimaufree.wordpress.com](http://gallimaufree.wordpress.com)
+ - date_published: 2024-08-07T15:00:06.645996+00:00
+
  ## Persiflage | Galois Representations and more!
  - [https://galoisrepresentations.wordpress.com](https://galoisrepresentations.wordpress.com)
  - date_published: 2024-05-07T15:57:05.156863+00:00
@@ -3938,76 +4010,4 @@
  ## Lizzy's Literary Life (Volume One)
  - [http://lizzysiddal.wordpress.com](http://lizzysiddal.wordpress.com)
  - date_published: 2024-06-28T20:57:35.724215+00:00
-
- ## the bunsen boerner
- - [http://ljkboerner.wordpress.com](http://ljkboerner.wordpress.com)
- - date_published: 2024-06-17T11:57:33.347980+00:00
-
- ## llewelly
- - [http://llewelly.wordpress.com](http://llewelly.wordpress.com)
- - date_published: 2024-07-15T09:17:57.648850+00:00
-
- ## Motley News, Photos and Fun
- - [https://llwproductions.wordpress.com](https://llwproductions.wordpress.com)
- - date_published: 2024-08-11T22:58:19+00:00
-
- ## El Space--The Blog of L. Marie
- - [http://lmarie7b.wordpress.com](http://lmarie7b.wordpress.com)
- - date_published: 2024-09-17T17:09:38.102197+00:00
-
- ## Editing and proofreading services for fiction authors and academic writers
- - [http://lmaskill.wordpress.com](http://lmaskill.wordpress.com)
- - date_published: 2024-10-19T10:50:42.265017+00:00
-
- ## L.M.Y.Lim
- - [https://lmylim.wordpress.com](https://lmylim.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## loadedremington
- - [https://loadedremington.wordpress.com](https://loadedremington.wordpress.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## WordPress VIP Lobby
- - [https://lobby.vip.wordpress.com](https://lobby.vip.wordpress.com)
- - date_published: 2024-06-30T11:24:14.182724+00:00
-
- ## Lobotomy Software
- - [https://lobotomysoftware.wordpress.com](https://lobotomysoftware.wordpress.com)
- - date_published: 2024-07-11T11:16:44.076234+00:00
-
- ## The Lo Fidelity Bicycle Club
- - [https://lofidelitybicycleclub.wordpress.com](https://lofidelitybicycleclub.wordpress.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## the logic grimoire
- - [https://logicgrimoire.wordpress.com](https://logicgrimoire.wordpress.com)
- - date_published: 2024-07-01T17:23:56.694762+00:00
-
- ## LOGIC SEMINAR VERONA
- - [https://logicseminarverona.wordpress.com](https://logicseminarverona.wordpress.com)
- - date_published: 2024-08-19T03:52:14.219194+00:00
-
- ## loldebian: i can has a rc bug?
- - [https://loldebian.wordpress.com](https://loldebian.wordpress.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## London Algebra Colloquium
- - [http://londonalgebra.wordpress.com](http://londonalgebra.wordpress.com)
- - date_published: 2024-06-30T11:22:08.098265+00:00
-
- ## london-brussels one-way or return
- - [https://londonbrussels.wordpress.com](https://londonbrussels.wordpress.com)
- - date_published: 2024-10-18T20:54:11.290563+00:00
-
- ## London Flow Screed Info
- - [https://londonflowscreedinfo.wordpress.com](https://londonflowscreedinfo.wordpress.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## London Historians' Blog
- - [https://londonhistorians.wordpress.com](https://londonhistorians.wordpress.com)
- - date_published: 2024-06-24T10:48:03.951871+00:00
-
- ## London Street Views
- - [https://londonstreetviews.wordpress.com](https://londonstreetviews.wordpress.com)
- - date_published: 2024-06-30T01:42:50.590913+00:00
 

@@ -1,3 +1,83 @@
+ ## University of Melbourne
+ - [https://unimelb.academia.edu](https://unimelb.academia.edu)
+ - date_published: 2024-04-30T02:49:36.651007+00:00
+
+ ## University of Naples "Federico II" / Università di Napoli Federico II
+ - [https://unina.academia.edu](https://unina.academia.edu)
+ - date_published: 2024-07-19T23:10:13.601289+00:00
+
+ ## Università di Perugia
+ - [https://uniperugia.academia.edu](https://uniperugia.academia.edu)
+ - date_published: 2024-04-30T03:02:11.527533+00:00
+
+ ## Università degli Studi di Torino
+ - [http://unito.academia.edu](http://unito.academia.edu)
+ - date_published: 2024-06-17T11:13:47.262939+00:00
+
+ ## University of Vienna
+ - [http://univie.academia.edu](http://univie.academia.edu)
+ - date_published: 2024-10-29T18:47:05.711967+00:00
+
+ ## Université Paris 1 - Panthéon-Sorbonne
+ - [https://univ-paris1.academia.edu](https://univ-paris1.academia.edu)
+ - date_published: 2024-04-30T03:03:09.313574+00:00
+
+ ## University of New Mexico
+ - [https://unm.academia.edu](https://unm.academia.edu)
+ - date_published: 2024-04-30T02:58:33.906049+00:00
+
+ ## University of Oregon
+ - [https://uoregon.academia.edu](https://uoregon.academia.edu)
+ - date_published: 2024-06-24T10:34:11.149437+00:00
+
+ ## University of Wollongong
+ - [https://uow.academia.edu](https://uow.academia.edu)
+ - date_published: 2024-04-30T03:02:15.855812+00:00
+
+ ## University of Pardubice
+ - [https://upce.academia.edu](https://upce.academia.edu)
+ - date_published: 2024-04-30T02:58:36.490590+00:00
+
+ ## University of Pennsylvania
+ - [https://upenn.academia.edu](https://upenn.academia.edu)
+ - date_published: 2024-04-30T02:56:50.871718+00:00
+
+ ## Uppsala University
+ - [https://uppsala.academia.edu](https://uppsala.academia.edu)
+ - date_published: 2024-04-30T03:03:02.362142+00:00
+
+ ## University of Pretoria
+ - [https://up-za.academia.edu](https://up-za.academia.edu)
+ - date_published: 2024-04-30T02:50:10.513363+00:00
+
+ ## University of Rhode Island
+ - [http://uri.academia.edu](http://uri.academia.edu)
+ - date_published: 2024-09-03T22:57:41.975912+00:00
+
+ ## University of Southern California
+ - [https://usc.academia.edu](https://usc.academia.edu)
+ - date_published: 2024-04-30T02:56:31.622228+00:00
+
+ ## University of Santiago de Compostela
+ - [https://usc-es.academia.edu](https://usc-es.academia.edu)
+ - date_published: 2024-04-30T02:59:14.678139+00:00
+
+ ## Universidad San Francisco de Quito
+ - [https://usfq.academia.edu](https://usfq.academia.edu)
+ - date_published: 2024-10-14T20:49:42.339299+00:00
+
+ ## Universidade de São Paulo
+ - [https://usp-br.academia.edu](https://usp-br.academia.edu)
+ - date_published: 2024-04-30T03:00:11.371153+00:00
+
+ ## The University of Texas at Austin
+ - [https://utexas.academia.edu](https://utexas.academia.edu)
+ - date_published: 2024-04-30T02:59:46.906021+00:00
+
+ ## University of Toronto
+ - [http://utoronto.academia.edu](http://utoronto.academia.edu)
+ - date_published: 2024-04-30T03:01:46.223047+00:00
+
  ## University of Turku
  - [https://utu.academia.edu](https://utu.academia.edu)
  - date_published: 2024-04-30T02:58:09.045137+00:00
@@ -3922,84 +4002,4 @@
  ## Home | Open Berkeley
  - [https://open.berkeley.edu](https://open.berkeley.edu)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home | Office for the Prevention of Harassment & Discrimination
- - [https://ophd.berkeley.edu](https://ophd.berkeley.edu)
- - date_published: 2024-04-30T03:18:04.437102+00:00
-
- ## UC Berkeley School of Optometry
- - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
- - date_published: 2023-12-02T21:50:54.268970+00:00
-
- ## Home - Adept Lab at UCBerkeley
- - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
- - date_published: 2023-10-25T18:47:55.838189+00:00
-
- ## People @ EECS at UC Berkeley
- - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
- - date_published: 2023-10-25T18:47:59.063312+00:00
-
- ## Hello World
- - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
- - date_published: 2023-08-24T22:41:05+00:00
-
- ## People's Park Housing
- - [https://peoplesparkhousing.berkeley.edu](https://peoplesparkhousing.berkeley.edu)
- - date_published: 2024-06-24T11:31:58+00:00
-
- ## UC Berkeley - Department of Philosophy
- - [http://philosophy.berkeley.edu](http://philosophy.berkeley.edu)
- - date_published: 2024-07-01T14:42:15.726657+00:00
-
- ## Home | Physics
- - [https://physics.berkeley.edu](https://physics.berkeley.edu)
- - date_published: 2024-07-08T15:32:04+00:00
-
- ## Department of Political Science | UC Berkeley
- - [https://polisci.berkeley.edu](https://polisci.berkeley.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Privacy | Office of Ethics
- - [http://privacy.berkeley.edu](http://privacy.berkeley.edu)
- - date_published: 2024-07-22T07:48:14+00:00
-
- ## Ptolemy Project Home Page
- - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
- - date_published: 2023-10-25T18:48:03.786652+00:00
-
- ## Ptolemy Project Home Page
- - [https://ptolemy.eecs.berkeley.edu](https://ptolemy.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:26:13.031871+00:00
-
- ## Communications & Public Affairs | Communications & Public Affairs
- - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
- - date_published: 2024-04-30T03:19:52.155020+00:00
-
- ## School of Public Health | University of California, Berkeley
- - [https://publichealth.berkeley.edu](https://publichealth.berkeley.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## RAD Lab
- - [http://radlab.cs.berkeley.edu](http://radlab.cs.berkeley.edu)
- - date_published: 2024-06-22T09:31:06+00:00
-
- ## Robotics and AI Lab @ BAIR
- - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
- - date_published: 2019-12-13T00:00:00+00:00
-
- ## Richard Allen
- - [http://rallen.berkeley.edu](http://rallen.berkeley.edu)
- - date_published: 2024-06-13T21:48:05+00:00
-
- ## Home
- - [https://recsports.berkeley.edu](https://recsports.berkeley.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home - Redwood Center for Theoretical Neuroscience
- - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
- - date_published: 2019-09-05T00:00:00+00:00
-
- ## Homepage - Office of the Registrar
- - [https://registrar.berkeley.edu](https://registrar.berkeley.edu)
- - date_published: 2024-04-16T00:00:00+00:00
 

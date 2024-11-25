@@ -1,3 +1,23 @@
+ ## PyPy Status Blog
+ - [https://morepypy.blogspot.com](https://morepypy.blogspot.com)
+ - date_published: 2024-05-08T12:03:23.431084+00:00
+
+ ## Mountain Running Mama
+ - [http://morevertmorefun.blogspot.com](http://morevertmorefun.blogspot.com)
+ - date_published: 2024-10-09T01:44:14+00:00
+
+ ## Moridura - - - ©Copyright  Peter Curran 2015
+ - [https://moridura.blogspot.com](https://moridura.blogspot.com)
+ - date_published: 2024-05-20T09:03:16+00:00
+
+ ## morksminis
+ - [https://mork6969.blogspot.com](https://mork6969.blogspot.com)
+ - date_published: 2024-10-17T08:52:59+00:00
+
+ ## https://mormanity.blogspot.com
+ - [https://mormanity.blogspot.com](https://mormanity.blogspot.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
  ## Morts 1938 Scrapbook
  - [http://morts1938scrapbook.blogspot.com](http://morts1938scrapbook.blogspot.com)
  - date_published: 2024-06-16T17:39:20+00:00
@@ -3992,24 +4012,4 @@
  ## pieczenie w dupie*
  - [http://pieczeniewdupie.blogspot.com](http://pieczeniewdupie.blogspot.com)
  - date_published: 2024-10-24T15:56:32+00:00
-
- ## Piedmont Writer
- - [http://piedmontwriter.blogspot.com](http://piedmontwriter.blogspot.com)
- - date_published: 2024-10-17T22:53:38.535471+00:00
-
- ## Pier(ef)fect
- - [https://pier-ef-fect.blogspot.com](https://pier-ef-fect.blogspot.com)
- - date_published: 2024-09-02T16:27:39+00:00
-
- ## PIERRE LOYVET ARTWORKS
- - [http://pierreloyvet.blogspot.com](http://pierreloyvet.blogspot.com)
- - date_published: 2024-08-30T04:57:00+00:00
-
- ## Pretty Happy Dummies
- - [http://pietchdi.blogspot.com](http://pietchdi.blogspot.com)
- - date_published: 2024-03-13T14:55:34+00:00
-
- ## DOMUS project
- - [http://pietrasupietra.blogspot.com](http://pietrasupietra.blogspot.com)
- - date_published: 2024-08-12T10:36:36+00:00
 

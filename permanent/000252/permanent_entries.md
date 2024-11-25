@@ -1,3 +1,86 @@
+ ## Featured Resources | qwik.framework.dev
+ - [https://qwik.framework.dev](https://qwik.framework.dev)
+ - date_published: 2024-07-21T04:29:04.735189+00:00
+
+ ## Featured Resources | react.framework.dev
+ - [https://react.framework.dev](https://react.framework.dev)
+ - date_published: 2024-07-21T04:29:03.413602+00:00
+
+ ## Featured Resources | solidjs.framework.dev
+ - [https://solidjs.framework.dev](https://solidjs.framework.dev)
+ - date_published: 2024-07-21T04:28:54.287317+00:00
+
+ ## Featured Resources | svelte.framework.dev
+ - [https://svelte.framework.dev](https://svelte.framework.dev)
+ - date_published: 2024-07-21T04:28:49.044717+00:00
+
+ ## Featured Resources | vue.framework.dev
+ - [https://vue.framework.dev](https://vue.framework.dev)
+ - date_published: 2024-07-21T04:28:50.444822+00:00
+
+ ## FrankenPHP: the modern PHP app server
+ - [https://frankenphp.dev](https://frankenphp.dev)
+ - date_published: 2023-10-25T18:38:06.820817+00:00
+ - tags: ['app server', 'php']
+
+ ## HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI
+ - [https://franken-ui.dev](https://franken-ui.dev)
+ - date_published: 2024-04-22T22:18:42+00:00
+ - tags: ['ui components', 'html', 'open source']
+
+ ## DiagramGPT
+ - [https://diagram-gpt.fraserxu.dev](https://diagram-gpt.fraserxu.dev)
+ - date_published: 2024-06-19T18:55:15.240168+00:00
+
+ ## fred.dev
+ - [https://fred.dev](https://fred.dev)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Free for Developers
+ - [https://free-for.dev](https://free-for.dev)
+ - date_published: 2024-07-26T04:58:09.995856+00:00
+
+ ## Freek Van der Herten's blog on PHP, Laravel and JavaScript
+ - [https://freek.dev](https://freek.dev)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://technical.freek.dev](https://technical.freek.dev)
+ - date_published: 2024-10-17T10:06:45.709499+00:00
+
+ ## Free tools and services for Developer
+ - [https://freestuff.dev](https://freestuff.dev)
+ - date_published: 2024-07-02T20:50:54.539310+00:00
+
+ ## freiwald.dev
+ - [https://freiwald.dev](https://freiwald.dev)
+ - date_published: 2023-10-05T00:00:00+00:00
+
+ ## Home - Frills
+ - [https://frills.dev](https://frills.dev)
+ - date_published: 2024-05-06T15:02:51.729640+00:00
+
+ ## Front-end Hero - Tutorials on all things Front-end
+ - [https://frontendhero.dev](https://frontendhero.dev)
+ - date_published: 2024-05-04T09:28:27.735690+00:00
+
+ ## Juliano Farias - Front End Engineer
+ - [http://frontendwizard.dev](http://frontendwizard.dev)
+ - date_published: 2024-06-23T08:15:43.792624+00:00
+
+ ## Fuchsia
+ - [https://bugs.fuchsia.dev](https://bugs.fuchsia.dev)
+ - date_published: 2024-06-29T20:42:51.043369+00:00
+
+ ## Fuchsia
+ - [https://fuchsia.dev](https://fuchsia.dev)
+ - date_published: 2022-09-13T18:32:23+00:00
+ - tags: ['operating system']
+
+ ## f*ck regex!
+ - [https://fuckregex.dev](https://fuckregex.dev)
+ - date_published: 2024-01-09T02:57:16.185519+00:00
+
  ## Revolutionary way to grow your Business Online - Fullo
  - [https://fullo.dev](https://fullo.dev)
  - date_published: 2021-11-02T13:59:24+00:00
@@ -4005,85 +4088,4 @@
  ## getButterfly
  - [https://getbutterfly.openstatus.dev](https://getbutterfly.openstatus.dev)
  - date_published: 2024-06-23T00:00:00+00:00
-
- ## Hanko Status
- - [https://hanko.openstatus.dev](https://hanko.openstatus.dev)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## marimo
- - [https://marimo.openstatus.dev](https://marimo.openstatus.dev)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## OpenStatus
- - [https://openstatus.dev](https://openstatus.dev)
- - date_published: 2023-10-25T18:40:21.230486+00:00
-
- ## Papermark Status
- - [https://papermark.openstatus.dev](https://papermark.openstatus.dev)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Podwise Statuspage
- - [https://podwise.openstatus.dev](https://podwise.openstatus.dev)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Rallly
- - [https://rallly.openstatus.dev](https://rallly.openstatus.dev)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## OpenStatus Status Page
- - [https://status.openstatus.dev](https://status.openstatus.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Trigger.dev Status
- - [https://trigger.openstatus.dev](https://trigger.openstatus.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## OP GUILD | JOIN THE INDIE GAME DEV REVOLUTION
- - [https://opguild.dev](https://opguild.dev)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Corporate Conundrum
- - [https://conundrum.ophir.dev](https://conundrum.ophir.dev)
- - date_published: 2024-04-30T02:05:18.461555+00:00
-
- ## SQLPage
- - [https://sql.ophir.dev](https://sql.ophir.dev)
- - date_published: 2023-10-25T18:40:22.802342+00:00
-
- ## WBO — Collaborative whiteboard
- - [https://wbo.ophir.dev](https://wbo.ophir.dev)
- - date_published: 2024-06-19T22:35:20.458767+00:00
-
- ## optics-dev.github.io
- - [https://www.optics.dev](https://www.optics.dev)
- - date_published: 2020-05-22T21:16:59+00:00
-
- ## OrbStack · Fast, light, simple Docker & Linux on macOS
- - [https://orbstack.dev](https://orbstack.dev)
- - date_published: 2023-10-25T18:40:25.084437+00:00
-
- ## Orca
- - [https://orca-app.dev](https://orca-app.dev)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Orhun's Blog
- - [https://blog.orhun.dev](https://blog.orhun.dev)
- - date_published: 2023-10-25T18:40:26.754894+00:00
- - tags: ['personal']
-
- ## Support My Work
- - [https://donate.orhun.dev](https://donate.orhun.dev)
- - date_published: 2024-04-30T02:05:18.874135+00:00
-
- ## orhun(1)
- - [https://orhun.dev](https://orhun.dev)
- - date_published: 2024-04-30T02:05:20.061372+00:00
-
- ## Umami
- - [https://umami.orhun.dev](https://umami.orhun.dev)
- - date_published: 2024-04-30T02:05:19.472665+00:00
-
- ## orib
- - [https://orib.dev](https://orib.dev)
- - date_published: 2024-05-19T15:22:08+00:00
 

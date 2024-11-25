@@ -1,3 +1,83 @@
+ ## Offentlige arrangementer – Københavns Universitet
+ - [https://event.ku.dk](https://event.ku.dk)
+ - date_published: 2024-08-06T17:40:27+00:00
+
+ ## Efteruddannelse – Københavns Universitet
+ - [https://evu.ku.dk](https://evu.ku.dk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Forskningsbaseret uddannelse – Københavns Universitet
+ - [https://fbu.ku.dk](https://fbu.ku.dk)
+ - date_published: 2024-07-22T09:57:05.247541+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://fi.ku.dk](https://fi.ku.dk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Kort over KU's enheder – Københavns Universitet
+ - [https://findvej.ku.dk](https://findvej.ku.dk)
+ - date_published: 2024-04-30T02:41:53.759111+00:00
+
+ ## Københavns Universitets tilbud til gymnasiet og grundskolen
+ - [https://fokus.ku.dk](https://fokus.ku.dk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Forskning ved Københavns Universitet – Københavns Universitet
+ - [https://forskning.ku.dk](https://forskning.ku.dk)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Fysikleksikon - Viden om fysik – Fysikleksikon - Niels Bohr Institutet - Københavns Universitet
+ - [https://fysikleksikon.nbi.ku.dk](https://fysikleksikon.nbi.ku.dk)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Faculty of Health and Medical Sciences – University of Copenhagen
+ - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
+ - date_published: 2023-11-14T09:26:10.548804+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://hr.ku.dk](https://hr.ku.dk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Faculty of Humanities – University of Copenhagen
+ - [https://humanities.ku.dk](https://humanities.ku.dk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Det Humanistiske Fakultet – Københavns Universitet
+ - [https://hum.ku.dk](https://hum.ku.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Institut for Fødevare- og Ressourceøkonomi – Københavns Universitet
+ - [https://ifro.ku.dk](https://ifro.ku.dk)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Institut for Klinisk Veterinærmedicin – Københavns Universitet
+ - [https://ikv.ku.dk](https://ikv.ku.dk)
+ - date_published: 2024-08-11T06:39:55.804244+00:00
+
+ ## Home · NBI Conference and Meetings (Indico)
+ - [https://indico.nbi.ku.dk](https://indico.nbi.ku.dk)
+ - date_published: 2024-09-13T17:26:18.683688+00:00
+
+ ## Informationssikkerhed – Københavns Universitet
+ - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
+ - date_published: 2024-04-30T02:41:19.562536+00:00
+
+ ## International Education – University of Copenhagen
+ - [https://international.ku.dk](https://international.ku.dk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## About the University of Copenhagen – University of Copenhagen
+ - [https://introduction.ku.dk](https://introduction.ku.dk)
+ - date_published: 2024-07-22T09:54:52.426800+00:00
+
+ ## For international researchers at the University of Copenhagen – University of Copenhagen
+ - [https://ism.ku.dk](https://ism.ku.dk)
+ - date_published: 2024-04-30T02:41:58.649146+00:00
+
+ ## KU-IT - IT-afdelingen – Københavns Universitet
+ - [https://it.ku.dk](https://it.ku.dk)
+ - date_published: 2024-07-19T00:53:08+00:00
+
  ## Institut for Veterinær- og Husdyrvidenskab – Københavns Universitet
  - [http://ivh.ku.dk](http://ivh.ku.dk)
  - date_published: 2024-03-18T00:00:00+00:00
@@ -3928,84 +4008,4 @@ I box, ...
  ## Université du Luxembourg
  - [https://uni-lu.academia.edu](https://uni-lu.academia.edu)
  - date_published: 2024-04-30T02:59:18.242304+00:00
-
- ## University of Melbourne
- - [https://unimelb.academia.edu](https://unimelb.academia.edu)
- - date_published: 2024-04-30T02:49:36.651007+00:00
-
- ## University of Naples "Federico II" / Università di Napoli Federico II
- - [https://unina.academia.edu](https://unina.academia.edu)
- - date_published: 2024-07-19T23:10:13.601289+00:00
-
- ## Università di Perugia
- - [https://uniperugia.academia.edu](https://uniperugia.academia.edu)
- - date_published: 2024-04-30T03:02:11.527533+00:00
-
- ## Università degli Studi di Torino
- - [http://unito.academia.edu](http://unito.academia.edu)
- - date_published: 2024-06-17T11:13:47.262939+00:00
-
- ## University of Vienna
- - [http://univie.academia.edu](http://univie.academia.edu)
- - date_published: 2024-10-29T18:47:05.711967+00:00
-
- ## Université Paris 1 - Panthéon-Sorbonne
- - [https://univ-paris1.academia.edu](https://univ-paris1.academia.edu)
- - date_published: 2024-04-30T03:03:09.313574+00:00
-
- ## University of New Mexico
- - [https://unm.academia.edu](https://unm.academia.edu)
- - date_published: 2024-04-30T02:58:33.906049+00:00
-
- ## University of Oregon
- - [https://uoregon.academia.edu](https://uoregon.academia.edu)
- - date_published: 2024-06-24T10:34:11.149437+00:00
-
- ## University of Wollongong
- - [https://uow.academia.edu](https://uow.academia.edu)
- - date_published: 2024-04-30T03:02:15.855812+00:00
-
- ## University of Pardubice
- - [https://upce.academia.edu](https://upce.academia.edu)
- - date_published: 2024-04-30T02:58:36.490590+00:00
-
- ## University of Pennsylvania
- - [https://upenn.academia.edu](https://upenn.academia.edu)
- - date_published: 2024-04-30T02:56:50.871718+00:00
-
- ## Uppsala University
- - [https://uppsala.academia.edu](https://uppsala.academia.edu)
- - date_published: 2024-04-30T03:03:02.362142+00:00
-
- ## University of Pretoria
- - [https://up-za.academia.edu](https://up-za.academia.edu)
- - date_published: 2024-04-30T02:50:10.513363+00:00
-
- ## University of Rhode Island
- - [http://uri.academia.edu](http://uri.academia.edu)
- - date_published: 2024-09-03T22:57:41.975912+00:00
-
- ## University of Southern California
- - [https://usc.academia.edu](https://usc.academia.edu)
- - date_published: 2024-04-30T02:56:31.622228+00:00
-
- ## University of Santiago de Compostela
- - [https://usc-es.academia.edu](https://usc-es.academia.edu)
- - date_published: 2024-04-30T02:59:14.678139+00:00
-
- ## Universidad San Francisco de Quito
- - [https://usfq.academia.edu](https://usfq.academia.edu)
- - date_published: 2024-10-14T20:49:42.339299+00:00
-
- ## Universidade de São Paulo
- - [https://usp-br.academia.edu](https://usp-br.academia.edu)
- - date_published: 2024-04-30T03:00:11.371153+00:00
-
- ## The University of Texas at Austin
- - [https://utexas.academia.edu](https://utexas.academia.edu)
- - date_published: 2024-04-30T02:59:46.906021+00:00
-
- ## University of Toronto
- - [http://utoronto.academia.edu](http://utoronto.academia.edu)
- - date_published: 2024-04-30T03:01:46.223047+00:00
 

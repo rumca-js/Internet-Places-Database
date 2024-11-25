@@ -1,3 +1,72 @@
+ ## Leviathan | Wessel van Rensburg | Substack
+ - [https://leviathan.substack.com](https://leviathan.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Religious in Tech | Levi Nunnink | Substack
+ - [https://levinunnink.substack.com](https://levinunnink.substack.com)
+ - date_published: 2024-07-02T20:43:29.986923+00:00
+
+ ## The Looking Glass | Julie Zhuo | Substack
+ - [https://lg.substack.com](https://lg.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## ICYMI by Lia Haberman | Substack
+ - [https://liahaberman.substack.com](https://liahaberman.substack.com)
+ - date_published: 2023-10-25T09:57:18.422857+00:00
+ - tags: ['substack']
+
+ ## Liam Sturgess | Substack
+ - [https://liamsturgess.substack.com](https://liamsturgess.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Liberty Papers | Ken Smith | Substack
+ - [https://libertypapers.substack.com](https://libertypapers.substack.com)
+ - date_published: 2024-07-01T09:11:56.157388+00:00
+
+ ## The Library of Celaeno | Librarian of Celaeno | Substack
+ - [https://librarianofcelaeno.substack.com](https://librarianofcelaeno.substack.com)
+ - date_published: 2024-10-31T22:38:42.256686+00:00
+
+ ## library/card’s Newsletter | cav/ar | Substack
+ - [https://librarycard.substack.com](https://librarycard.substack.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Libre Solutions Network | Gabriel | Substack
+ - [https://libresolutionsnetwork.substack.com](https://libresolutionsnetwork.substack.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Life and Letters | Julianne Werlin | Substack
+ - [https://lifeandletters.substack.com](https://lifeandletters.substack.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Lifeline Comics Substack | Kat & Phil | Substack
+ - [https://lifelinecomics.substack.com](https://lifelinecomics.substack.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Lightning Bug | Scott Marsland, FNP-C | Substack
+ - [https://lightningbug.substack.com](https://lightningbug.substack.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## No Bad Cards with Lindsay Mack | Substack
+ - [https://lindsaymack.substack.com](https://lindsaymack.substack.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Lindy Letters | Peter Hagen | Substack
+ - [https://lindylearn.substack.com](https://lindylearn.substack.com)
+ - date_published: 2024-05-12T05:40:36.238874+00:00
+
+ ## Lingthusiasm’s Newsletter | Substack
+ - [https://lingthusiasm.substack.com](https://lingthusiasm.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Lingua Sinica | Substack
+ - [https://linguasinica.substack.com](https://linguasinica.substack.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Links I Would Gchat You If We Were Friends | Caitlin Dewey | Substack
+ - [https://linksiwouldgchatyou.substack.com](https://linksiwouldgchatyou.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## Exposing The Darkness | Lioness of Judah Ministry | Substack
  - [https://lionessofjudah.substack.com](https://lionessofjudah.substack.com)
  - date_published: 2024-04-21T00:00:00+00:00
@@ -4009,72 +4078,4 @@
  ## The Iowa Mercury | Douglas Burns | Substack
  - [https://theiowamercury.substack.com](https://theiowamercury.substack.com)
  - date_published: 2024-07-28T00:00:00+00:00
-
- ## The Irish Stoic | Enda Harte | Substack
- - [https://theirishstoic.substack.com](https://theirishstoic.substack.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## The Jaggy Thistle | Kenny Farquharson | Substack
- - [https://thejaggythistle.substack.com](https://thejaggythistle.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## The Jewish Table | Leah Koenig | Substack
- - [https://thejewishtable.substack.com](https://thejewishtable.substack.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Become The Wild | Kat | Substack
- - [https://thekatgeorga.substack.com](https://thekatgeorga.substack.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## The Kennedy Beacon | Substack
- - [https://thekennedybeacon.substack.com](https://thekennedybeacon.substack.com)
- - date_published: 2024-05-07T10:32:15.530674+00:00
-
- ## The Knead | Mariette Papic | Substack
- - [https://theknead.substack.com](https://theknead.substack.com)
- - date_published: 2024-07-04T05:22:48.785305+00:00
-
- ## The Ladybird Purse • Opening up about money | Keris Fox | Substack
- - [https://theladybirdpurse.substack.com](https://theladybirdpurse.substack.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Lancashire Lead | Substack
- - [https://thelancashirelead.substack.com](https://thelancashirelead.substack.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## The Land of Random | David Nichols | Substack
- - [https://thelandofrandom.substack.com](https://thelandofrandom.substack.com)
- - date_published: 2024-05-01T04:29:28.870910+00:00
-
- ## The Lap | Charlie Daly | Substack
- - [https://thelap.substack.com](https://thelap.substack.com)
- - date_published: 2024-05-10T06:46:46.106332+00:00
-
- ## Adapt : Survive : Prevail | TheLastFarm | Substack
- - [https://thelastfarm.substack.com](https://thelastfarm.substack.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## johan’s substack | Substack
- - [https://thelastwave.substack.com](https://thelastwave.substack.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## The Lead | Substack
- - [https://theleaduk.substack.com](https://theleaduk.substack.com)
- - date_published: 2024-10-17T13:21:22.548357+00:00
-
- ## The Lettuce | Dave Macleod | Substack
- - [https://thelettuce.substack.com](https://thelettuce.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## The Liberal Patriot | John Halpin | Substack
- - [https://theliberalpatriot.substack.com](https://theliberalpatriot.substack.com)
- - date_published: 2024-06-29T10:59:04.295600+00:00
-
- ## The Lineup | John Pugh | Substack
- - [https://thelineupwithjohnpugh.substack.com](https://thelineupwithjohnpugh.substack.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## The Literary Compass | Georgia Clare | Substack
- - [https://theliterarycompass.substack.com](https://theliterarycompass.substack.com)
- - date_published: 2024-10-19T11:53:29.581055+00:00
 

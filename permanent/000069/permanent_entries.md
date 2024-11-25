@@ -1,3 +1,23 @@
+ ## Fully Managed Websites & Solutions - Worcestershire
+ - [https://builtbygo.com](https://builtbygo.com)
+ - date_published: 2024-06-17T01:29:15.798383+00:00
+
+ ## Digital Product, Website, and Mobile App Agency, Seattle
+ - [http://builtbymoby.com](http://builtbymoby.com)
+ - date_published: 2024-07-03T12:05:33.507468+00:00
+
+ ## /website-design-service
+ - [https://builtbywp.com](https://builtbywp.com)
+ - date_published: 2022-09-01T00:00:48+00:00
+
+ ## The Built Environment Research Group
+ - [http://built-envi.com](http://built-envi.com)
+ - date_published: 2024-07-09T09:12:47.057682+00:00
+
+ ## Keeps Home – Solid oak furniture for modern dwellers.
+ - [https://builtforkeeps.com](https://builtforkeeps.com)
+ - date_published: 2024-07-09T19:32:37.477330+00:00
+
  ## Built For Mars
  - [https://builtformars.com](https://builtformars.com)
  - date_published: 2024-06-22T23:36:51.207021+00:00
@@ -4003,24 +4023,4 @@
  ## Home
  - [https://www.caldic.com](https://www.caldic.com)
  - date_published: 2024-06-16T21:26:06.664446+00:00
-
- ## CalDigit – Considerate. Authentic. Design.
- - [https://www.caldigit.com](https://www.caldigit.com)
- - date_published: 2024-06-23T05:54:50.104887+00:00
-
- ## Hearthside by Caleb Hearth
- - [https://calebhearth.com](https://calebhearth.com)
- - date_published: 2023-10-25T13:16:46.641621+00:00
-
- ## Caleb Hearth
- - [https://pub.calebhearth.com](https://pub.calebhearth.com)
- - date_published: 2024-05-08T04:15:48.569882+00:00
-
- ## Caleb's Website
- - [https://calebjay.com](https://calebjay.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Caleb J. Murphy
- - [https://calebjmurphy.com](https://calebjmurphy.com)
- - date_published: 2008-01-01T00:00:00+00:00
 

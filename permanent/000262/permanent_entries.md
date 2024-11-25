@@ -1,3 +1,83 @@
+ ## Homepage
+ - [https://tsc.ku.edu](https://tsc.ku.edu)
+ - date_published: 2024-07-01T12:35:09.302051+00:00
+
+ ## KU Web Media Directory
+ - [https://webmedia.ku.edu](https://webmedia.ku.edu)
+ - date_published: 2022-07-08T20:22:40+00:00
+
+ ## Homepage
+ - [https://websupport.ku.edu](https://websupport.ku.edu)
+ - date_published: 2024-07-01T12:47:48.298351+00:00
+
+ ## Institute for Information Sciences Home
+ - [http://www.ittc.ku.edu](http://www.ittc.ku.edu)
+ - date_published: 2024-07-11T07:54:48.309671+00:00
+
+ ## Museum
+ - [http://clendening.kumc.edu](http://clendening.kumc.edu)
+ - date_published: 2024-06-24T09:45:39.504342+00:00
+
+ ## University of Kansas Medical Center
+ - [https://www.kumc.edu](https://www.kumc.edu)
+ - date_published: 2024-07-01T12:35:40.463773+00:00
+
+ ## Home of the Kutztown University Research Commons
+ - [https://research.library.kutztown.edu](https://research.library.kutztown.edu)
+ - date_published: 2024-07-02T10:48:37.331167+00:00
+
+ ## Kutztown University
+ - [https://www.kutztown.edu](https://www.kutztown.edu)
+ - date_published: 2024-07-09T17:16:44.114611+00:00
+
+ ## Accessibility at K –  | Kalamazoo College
+ - [https://access.kzoo.edu](https://access.kzoo.edu)
+ - date_published: 2024-05-07T19:24:30.279103+00:00
+
+ ## Arcus Center Radical Futures Now Podcast –  | Kalamazoo College
+ - [http://acsjlradicalfutures.kzoo.edu](http://acsjlradicalfutures.kzoo.edu)
+ - date_published: 2024-07-01T14:31:48.756964+00:00
+
+ ## Admission –  | Kalamazoo College
+ - [https://admission.kzoo.edu](https://admission.kzoo.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Advising –  | Kalamazoo College
+ - [https://advising.kzoo.edu](https://advising.kzoo.edu)
+ - date_published: 2024-05-07T19:22:03.340633+00:00
+
+ ## African Studies –  | Kalamazoo College
+ - [https://africanstudies.kzoo.edu](https://africanstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:24:27.952564+00:00
+
+ ## American Studies –  | Kalamazoo College
+ - [https://americanstudies.kzoo.edu](https://americanstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:30.207816+00:00
+
+ ## Anthropology and Sociology –  | Kalamazoo College
+ - [https://anso.kzoo.edu](https://anso.kzoo.edu)
+ - date_published: 2024-05-07T19:22:50.972691+00:00
+
+ ## Alcohol and Other Drugs – Education, Prevention, and Intervention –  | Kalamazoo College
+ - [https://aod.kzoo.edu](https://aod.kzoo.edu)
+ - date_published: 2024-05-07T19:23:08.531810+00:00
+
+ ## Admission –  | Kalamazoo College
+ - [https://apply.kzoo.edu](https://apply.kzoo.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Arabic –  | Kalamazoo College
+ - [https://arabic.kzoo.edu](https://arabic.kzoo.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Lillian Anderson Arboretum –  | Kalamazoo College
+ - [https://arboretum.kzoo.edu](https://arboretum.kzoo.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## College Archives –  | Kalamazoo College
+ - [https://archives.kzoo.edu](https://archives.kzoo.edu)
+ - date_published: 2024-05-07T19:23:11.169551+00:00
+
  ## Arcus Center for Social Justice Leadership –  | Kalamazoo College
  - [https://arcuscenter.kzoo.edu](https://arcuscenter.kzoo.edu)
  - date_published: 2024-05-07T19:24:52.364476+00:00
@@ -3925,84 +4005,4 @@
  ## Home | Spartan Cash
  - [https://spartancash.msu.edu](https://spartancash.msu.edu)
  - date_published: 2024-05-07T19:38:41.505141+00:00
-
- ## Office of Spartan Experiences | Michigan State University
- - [https://spartanexperiences.msu.edu](https://spartanexperiences.msu.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Spartan Spirit Shop
- - [https://spartanspiritshop.msu.edu](https://spartanspiritshop.msu.edu)
- - date_published: 2024-07-01T15:43:13.366023+00:00
-
- ## Spartan Life Welcome Letter | Office of Spartan Experiences | Michigan State University
- - [http://splife.studentlife.msu.edu](http://splife.studentlife.msu.edu)
- - date_published: 2024-01-19T20:50:11+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://studentaffairs.msu.edu](https://studentaffairs.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Office of Spartan Experiences | Michigan State University
- - [https://studentlife.msu.edu](https://studentlife.msu.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## MSU Student Parent Resource Center
- - [http://studentparents.msu.edu](http://studentparents.msu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Michigan State University Tours | Experience MSU
- - [https://tour.msu.edu](https://tour.msu.edu)
- - date_published: 2024-07-01T15:43:23.490694+00:00
-
- ## University Health and Wellbeing | Michigan State University
- - [https://uhw.msu.edu](https://uhw.msu.edu)
- - date_published: 2024-07-01T15:43:15.211636+00:00
-
- ## Home | MSU Union
- - [https://union.msu.edu](https://union.msu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Universal Search Tool | Michigan State University
- - [https://u.search.msu.edu](https://u.search.msu.edu)
- - date_published: 2024-06-22T10:16:53.091388+00:00
-
- ## Home | Student Veterans Resource Center
- - [https://veterans.msu.edu](https://veterans.msu.edu)
- - date_published: 2024-07-01T15:02:24+00:00
-
- ## Women*s Student Services | Michigan State University
- - [https://wss.msu.edu](https://wss.msu.edu)
- - date_published: 2023-09-13T17:51:24+00:00
-
- ## College of Agriculture & Natural Resources
- - [https://www.canr.msu.edu](https://www.canr.msu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## The Center - MSU Engineering Careers Start Here - East Lansing
- - [https://www.careers.egr.msu.edu](https://www.careers.egr.msu.edu)
- - date_published: 2024-06-22T10:16:51.650570+00:00
-
- ## MSU Off-Campus Life
- - [http://www.collegelifeel.msu.edu](http://www.collegelifeel.msu.edu)
- - date_published: 2024-07-01T15:43:05.628254+00:00
-
- ## College Homepage - College of Education Events
- - [http://www.educ.msu.edu](http://www.educ.msu.edu)
- - date_published: 2024-07-13T07:49:18.789678+00:00
-
- ## College of Engineering | Michigan State University
- - [https://www.egr.msu.edu](https://www.egr.msu.edu)
- - date_published: 2024-06-22T10:16:43.534744+00:00
-
- ## Fraternity & Sorority Life | Michigan State University
- - [http://www.greeklife.msu.edu](http://www.greeklife.msu.edu)
- - date_published: 2024-05-21T20:21:57+00:00
-
- ## MSU Health Sciences | Michigan State University
- - [https://www.healthsciences.msu.edu](https://www.healthsciences.msu.edu)
- - date_published: 2024-11-15T14:05:49+00:00
-
- ## Michigan State University College of Law
- - [http://www.law.msu.edu](http://www.law.msu.edu)
- - date_published: 2024-06-06T18:40:37+00:00
 

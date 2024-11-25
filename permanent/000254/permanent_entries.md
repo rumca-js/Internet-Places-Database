@@ -1,3 +1,84 @@
+ ## Viam Python SDK — Viam Python SDK  documentation
+ - [https://python.viam.dev](https://python.viam.dev)
+ - date_published: 2024-06-25T18:32:21+00:00
+
+ ## Viam SDK
+ - [https://ts.viam.dev](https://ts.viam.dev)
+ - date_published: 2024-06-25T19:11:03+00:00
+
+ ## Vicky Bhandari - Web & Front End Developer from India 🇮🇳
+ - [https://vicky.dev](https://vicky.dev)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## victoria.dev
+ - [https://victoria.dev](https://victoria.dev)
+ - date_published: 2023-10-25T09:26:22.317356+00:00
+ - tags: ['personal']
+
+ ## Victor Pierre
+ - [https://victorpierre.dev](https://victorpierre.dev)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## Vid Binge Embed API -  Movie & TV Streaming Integration
+ - [https://vidbinge.dev](https://vidbinge.dev)
+ - date_published: 2024-11-08T03:51:45+00:00
+
+ ## VidSrc -  Movie & TV Streaming API
+ - [https://vidsrc.dev](https://vidsrc.dev)
+ - date_published: 2024-11-08T03:58:51+00:00
+
+ ## Vieb - Vim bindings for the web by design
+ - [https://vieb.dev](https://vieb.dev)
+ - date_published: 2024-01-04T11:07:27+00:00
+
+ ## Vike
+ - [https://vike.dev](https://vike.dev)
+ - date_published: 2024-05-07T10:56:10.378926+00:00
+
+ ## The V word
+ - [https://vikky.dev](https://vikky.dev)
+ - date_published: 2024-10-30T09:02:53.401917+00:00
+
+ ## Home | vili.dev
+ - [https://vili.dev](https://vili.dev)
+ - date_published: 2024-08-02T14:27:36+00:00
+
+ ## home
+ - [https://vimproved.dev](https://vimproved.dev)
+ - date_published: 2024-06-23T09:06:14+00:00
+
+ ## Vincents.dev
+ - [https://vincentsg.dev](https://vincentsg.dev)
+ - date_published: 2024-01-01T06:20:20.098022+00:00
+
+ ## Introduction | Vircadia Developer Documentation
+ - [https://docs.vircadia.dev](https://docs.vircadia.dev)
+ - date_published: 2024-05-27T14:49:30+00:00
+
+ ## Visibly
+ - [https://visibly.dev](https://visibly.dev)
+ - date_published: 2023-10-25T18:43:30.995597+00:00
+
+ ## VisionScript - VisionScript Documentation
+ - [https://visionscript.dev](https://visionscript.dev)
+ - date_published: 2023-10-25T18:43:37.995056+00:00
+
+ ## The Visual Framework for life science websites
+ - [https://latest.visual-framework.dev](https://latest.visual-framework.dev)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## The Visual Framework for life science websites
+ - [https://stable.visual-framework.dev](https://stable.visual-framework.dev)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Loading...
+ - [https://vitebook.dev](https://vitebook.dev)
+ - date_published: 2024-06-22T23:32:31.994057+00:00
+
+ ## Join the Vite Land Discord Server!
+ - [https://chat.vitejs.dev](https://chat.vitejs.dev)
+ - date_published: 2024-08-16T20:07:53+00:00
+
  ## Vite
  - [https://cn.vitejs.dev](https://cn.vitejs.dev)
  - date_published: 2024-08-19T03:52:24.401203+00:00
@@ -3938,84 +4019,4 @@
  ## Humanistisk erhvervsforskning – Københavns Universitet
  - [https://erhverv.hum.ku.dk](https://erhverv.hum.ku.dk)
  - date_published: 2024-08-13T00:00:00+00:00
-
- ## Offentlige arrangementer – Københavns Universitet
- - [https://event.ku.dk](https://event.ku.dk)
- - date_published: 2024-08-06T17:40:27+00:00
-
- ## Efteruddannelse – Københavns Universitet
- - [https://evu.ku.dk](https://evu.ku.dk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Forskningsbaseret uddannelse – Københavns Universitet
- - [https://fbu.ku.dk](https://fbu.ku.dk)
- - date_published: 2024-07-22T09:57:05.247541+00:00
-
- ## Københavns Universitet – Københavns Universitet
- - [https://fi.ku.dk](https://fi.ku.dk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Kort over KU's enheder – Københavns Universitet
- - [https://findvej.ku.dk](https://findvej.ku.dk)
- - date_published: 2024-04-30T02:41:53.759111+00:00
-
- ## Københavns Universitets tilbud til gymnasiet og grundskolen
- - [https://fokus.ku.dk](https://fokus.ku.dk)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Forskning ved Københavns Universitet – Københavns Universitet
- - [https://forskning.ku.dk](https://forskning.ku.dk)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Fysikleksikon - Viden om fysik – Fysikleksikon - Niels Bohr Institutet - Københavns Universitet
- - [https://fysikleksikon.nbi.ku.dk](https://fysikleksikon.nbi.ku.dk)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Faculty of Health and Medical Sciences – University of Copenhagen
- - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
- - date_published: 2023-11-14T09:26:10.548804+00:00
-
- ## Københavns Universitet – Københavns Universitet
- - [https://hr.ku.dk](https://hr.ku.dk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Faculty of Humanities – University of Copenhagen
- - [https://humanities.ku.dk](https://humanities.ku.dk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Det Humanistiske Fakultet – Københavns Universitet
- - [https://hum.ku.dk](https://hum.ku.dk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Institut for Fødevare- og Ressourceøkonomi – Københavns Universitet
- - [https://ifro.ku.dk](https://ifro.ku.dk)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Institut for Klinisk Veterinærmedicin – Københavns Universitet
- - [https://ikv.ku.dk](https://ikv.ku.dk)
- - date_published: 2024-08-11T06:39:55.804244+00:00
-
- ## Home · NBI Conference and Meetings (Indico)
- - [https://indico.nbi.ku.dk](https://indico.nbi.ku.dk)
- - date_published: 2024-09-13T17:26:18.683688+00:00
-
- ## Informationssikkerhed – Københavns Universitet
- - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
- - date_published: 2024-04-30T02:41:19.562536+00:00
-
- ## International Education – University of Copenhagen
- - [https://international.ku.dk](https://international.ku.dk)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## About the University of Copenhagen – University of Copenhagen
- - [https://introduction.ku.dk](https://introduction.ku.dk)
- - date_published: 2024-07-22T09:54:52.426800+00:00
-
- ## For international researchers at the University of Copenhagen – University of Copenhagen
- - [https://ism.ku.dk](https://ism.ku.dk)
- - date_published: 2024-04-30T02:41:58.649146+00:00
-
- ## KU-IT - IT-afdelingen – Københavns Universitet
- - [https://it.ku.dk](https://it.ku.dk)
- - date_published: 2024-07-19T00:53:08+00:00
 

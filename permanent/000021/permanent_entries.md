@@ -1,3 +1,11 @@
+ ## 97jcp
+ - [https://notes.orga.cat](https://notes.orga.cat)
+ - date_published: 2024-06-19T22:09:30.300730+00:00
+
+ ## Publicacions de l'Abadia de Montserrat
+ - [https://www.pamsa.cat](https://www.pamsa.cat)
+ - date_published: 2024-09-17T21:14:38.037082+00:00
+
  ## Servicio de Obstetricia | Hospital del Mar
  - [https://obstetricia.parcdesalutmar.cat](https://obstetricia.parcdesalutmar.cat)
  - date_published: 2021-07-12T00:00:00+00:00
@@ -4028,12 +4036,4 @@
  ## Reflections of a Newsosaur
  - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
  - date_published: 2024-07-30T08:15:33+00:00
-
- ## Nuit Blanche
- - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
- - date_published: 2023-08-17T05:00:00+00:00
-
- ## sirdarckcat
- - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
- - date_published: 2024-03-05T08:00:48+00:00
 

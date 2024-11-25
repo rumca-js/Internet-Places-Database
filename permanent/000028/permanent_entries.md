@@ -1,3 +1,11 @@
+ ## 北京理工大学信息公开网
+ - [https://xxgk.bit.edu.cn](https://xxgk.bit.edu.cn)
+ - date_published: 2024-08-06T17:42:17+00:00
+
+ ## 北京理工大学校友会
+ - [http://xyw.bit.edu.cn](http://xyw.bit.edu.cn)
+ - date_published: 2024-08-06T06:54:50+00:00
+
  ## 北京理工大学党委组织部
  - [http://zzb.bit.edu.cn](http://zzb.bit.edu.cn)
  - date_published: 2024-07-26T10:55:00+00:00
@@ -3994,12 +4002,4 @@
  ## 海南省统计局
  - [http://stats.hainan.gov.cn](http://stats.hainan.gov.cn)
  - date_published: 2024-06-30T20:21:46.484509+00:00
-
- ## 海南省退役军人事务厅
- - [http://tyt.hainan.gov.cn](http://tyt.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省卫生健康委员会
- - [http://wst.hainan.gov.cn](http://wst.hainan.gov.cn)
- - date_published: 2024-06-30T13:46:11.811678+00:00
 

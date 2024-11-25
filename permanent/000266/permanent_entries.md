@@ -1,3 +1,83 @@
+ ## Stanford Arts
+ - [https://arts.stanford.edu](https://arts.stanford.edu)
+ - date_published: 2024-05-07T20:30:31.849575+00:00
+
+ ## Stanford ASdb Dataset
+ - [https://asdb.stanford.edu](https://asdb.stanford.edu)
+ - date_published: 2024-01-30T15:39:34+00:00
+
+ ## Search Results
+ - [https://ask.stanford.edu](https://ask.stanford.edu)
+ - date_published: 2024-05-07T20:26:08.500822+00:00
+
+ ## Autonomous Systems Laboratory
+ - [https://asl.stanford.edu](https://asl.stanford.edu)
+ - date_published: 2024-05-07T10:17:56.429005+00:00
+
+ ## Stanford Asset CDN
+ - [https://assets.stanford.edu](https://assets.stanford.edu)
+ - date_published: 2024-07-01T20:12:07.358516+00:00
+
+ ## Associated Students of Stanford University
+ - [https://assu.stanford.edu](https://assu.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## init
+ - [https://atcasbs.stanford.edu](https://atcasbs.stanford.edu)
+ - date_published: 2024-07-01T19:56:12.906323+00:00
+
+ ## Stanford | Axess
+ - [https://axess.sahr.stanford.edu](https://axess.sahr.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## Stanford | Axess
+ - [https://axess.stanford.edu](https://axess.stanford.edu)
+ - date_published: 2023-09-01T18:19:30+00:00
+
+ ## SLAC-Stanford Battery Center | SLAC National Accelerator Laboratory
+ - [https://batterycenter.slac.stanford.edu](https://batterycenter.slac.stanford.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Bechtel International Center
+ - [https://bechtel.stanford.edu](https://bechtel.stanford.edu)
+ - date_published: 2024-07-01T17:10:36+00:00
+
+ ## BEHAVIOR – BEHAVIOR
+ - [https://behavior.stanford.edu](https://behavior.stanford.edu)
+ - date_published: 2024-05-13T22:21:37+00:00
+
+ ## Home - Stanford BeWell
+ - [https://bewell.stanford.edu](https://bewell.stanford.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The Future of Health Care
+ - [https://biodesign.stanford.edu](https://biodesign.stanford.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Department of Biology
+ - [https://biology.stanford.edu](https://biology.stanford.edu)
+ - date_published: 2024-05-07T20:29:32.574767+00:00
+
+ ## Welcome to Bio-X
+ - [https://biox.stanford.edu](https://biox.stanford.edu)
+ - date_published: 2024-07-01T20:17:37+00:00
+
+ ## Stanford Login
+ - [http://bi.stanford.edu](http://bi.stanford.edu)
+ - date_published: 2024-07-01T20:08:27.443247+00:00
+
+ ## The Book Haven
+ - [https://bookhaven.stanford.edu](https://bookhaven.stanford.edu)
+ - date_published: 2024-07-03T21:35:03.640765+00:00
+
+ ## Bing Overseas Studies Programs
+ - [https://bosp.stanford.edu](https://bosp.stanford.edu)
+ - date_published: 2024-06-24T05:17:29+00:00
+
+ ## Knight Initiative
+ - [https://brainresilience.stanford.edu](https://brainresilience.stanford.edu)
+ - date_published: 2024-05-11T11:24:06.122496+00:00
+
  ## Brown Institute
  - [https://brown.stanford.edu](https://brown.stanford.edu)
  - date_published: 2024-05-07T20:27:56.428711+00:00
@@ -3931,84 +4011,4 @@
  ## Home | Tulane University
  - [http://www.museum.tulane.edu](http://www.museum.tulane.edu)
  - date_published: 2024-06-23T10:35:31+00:00
-
- ## Shibboleth Authentication Request
- - [https://eaccess.tum.edu](https://eaccess.tum.edu)
- - date_published: 2024-07-24T04:20:54.072651+00:00
-
- ## Golden Tiger Network Website
- - [https://alumni.tuskegee.edu](https://alumni.tuskegee.edu)
- - date_published: 2024-07-08T14:44:19.880439+00:00
-
- ## Admissions | Tuskegee University
- - [https://apply.tuskegee.edu](https://apply.tuskegee.edu)
- - date_published: 2024-07-08T14:50:28.558811+00:00
-
- ## Tuskegee University - Acalog ACMS™
- - [http://catalog.tuskegee.edu](http://catalog.tuskegee.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Department Directory
- - [https://directory.tuskegee.edu](https://directory.tuskegee.edu)
- - date_published: 2024-07-08T14:50:37.564170+00:00
-
- ## Tuskegee University eLearning
- - [https://elearning.tuskegee.edu](https://elearning.tuskegee.edu)
- - date_published: 2024-07-08T14:50:35.997770+00:00
-
- ## MyPhoto - Tuskegee University
- - [https://mytuphoto.tuskegee.edu](https://mytuphoto.tuskegee.edu)
- - date_published: 2024-07-08T14:44:14.400484+00:00
-
- ## Sign in to your account
- - [https://tuhelpdesk.tuskegee.edu](https://tuhelpdesk.tuskegee.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home | Tuskegee University
- - [https://tuskegee.edu](https://tuskegee.edu)
- - date_published: 2024-05-08T11:43:25.937647+00:00
-
- ## Tuskegee Scholarly Publications | Tuskegee University Research
- - [http://tuspubs.tuskegee.edu](http://tuspubs.tuskegee.edu)
- - date_published: 2024-07-08T14:44:21.956813+00:00
-
- ## Career Connections | Texas Woman's University
- - [https://careerconnections.twu.edu](https://careerconnections.twu.edu)
- - date_published: 2024-09-15T13:09:02.935639+00:00
-
- ## Catalog Home | Texas Woman's University Catalog
- - [https://catalog.twu.edu](https://catalog.twu.edu)
- - date_published: 2024-08-09T19:29:31+00:00
-
- ## Make a Gift - Texas Woman's University Foundation
- - [https://giving.twu.edu](https://giving.twu.edu)
- - date_published: 2024-09-15T13:07:29.779848+00:00
-
- ## Texas Woman’s University
- - [https://portal.twu.edu](https://portal.twu.edu)
- - date_published: 2024-09-15T13:07:33.198572+00:00
-
- ## TWU Home | Texas Woman's University | BOLDLY GO
- - [https://twu.edu](https://twu.edu)
- - date_published: 2024-06-14T19:47:39.747033+00:00
-
- ## TWU Registration
- - [https://webadvisor.twu.edu](https://webadvisor.twu.edu)
- - date_published: 2009-11-21T05:05:13+00:00
-
- ## Faculty Profiles
- - [https://faculty.txstate.edu](https://faculty.txstate.edu)
- - date_published: 2024-09-05T07:21:00+00:00
-
- ## ICPC Asia Council Chair CJ Hwang Blog – ICPC Asia Governor 亚洲主席黄金雄 (西杰)博客
- - [http://icpcasia.wp.txstate.edu](http://icpcasia.wp.txstate.edu)
- - date_published: 2024-06-22T21:05:49.732763+00:00
-
- ## Texas State University
- - [https://www.txstate.edu](https://www.txstate.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## kcsmalley@ua.edu –  | The University of Alabama
- - [https://accessibility.ua.edu](https://accessibility.ua.edu)
- - date_published: 2024-05-07T20:41:05.062467+00:00
 

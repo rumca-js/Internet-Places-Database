@@ -1,3 +1,123 @@
+ ## ownCloud - share files and folders, easy and secure
+ - [https://owncloud.org](https://owncloud.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home Page | IHG Owners Association
+ - [http://www.owners.org](http://www.owners.org)
+ - date_published: 2024-06-28T17:09:43.934092+00:00
+
+ ## 4clojure 4ever
+ - [https://4clojure.oxal.org](https://4clojure.oxal.org)
+ - date_published: 2024-03-12T11:57:21+00:00
+
+ ## oxalorg ><><><><><
+ - [https://oxal.org](https://oxal.org)
+ - date_published: 2022-04-14T10:26:28+00:00
+
+ ## أوكسفام بالعربية
+ - [https://arabic.oxfam.org](https://arabic.oxfam.org)
+ - date_published: 2024-05-08T11:30:04.902558+00:00
+
+ ## Compass | Oxfam
+ - [https://compass.oxfam.org](https://compass.oxfam.org)
+ - date_published: 2024-05-08T03:19:39.192839+00:00
+
+ ## The future is equal | Oxfam International
+ - [https://oxfam.org](https://oxfam.org)
+ - date_published: 2023-10-25T21:55:30.733555+00:00
+
+ ## Home - Oxfam Policy & Practice
+ - [https://policy-practice.oxfam.org](https://policy-practice.oxfam.org)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Take action
+ - [https://act.oxfamamerica.org](https://act.oxfamamerica.org)
+ - date_published: 2024-07-08T13:53:34.136351+00:00
+
+ ## Donate now | Oxfam
+ - [https://give.oxfamamerica.org](https://give.oxfamamerica.org)
+ - date_published: 2024-07-08T13:53:39.330610+00:00
+
+ ## Oxfam America
+ - [https://oxfamamerica.org](https://oxfamamerica.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Oxfam France
+ - [https://www.oxfamfrance.org](https://www.oxfamfrance.org)
+ - date_published: 2024-07-08T13:45:03+00:00
+
+ ## Oxfam India | NGO Working For Child Education, Inequality, Women Empowerment
+ - [https://www.oxfamindia.org](https://www.oxfamindia.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Oxfam Intermón
+ - [https://www.oxfamintermon.org](https://www.oxfamintermon.org)
+ - date_published: 2024-07-07T01:41:05+00:00
+
+ ## GAZA CRISIS APPEAL
+ - [https://www.oxfamireland.org](https://www.oxfamireland.org)
+ - date_published: 2023-06-04T13:19:00+00:00
+
+ ## Home
+ - [https://www.oxfamitalia.org](https://www.oxfamitalia.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Oxfam México | La igualdad es el futuro
+ - [https://www.oxfammexico.org](https://www.oxfammexico.org)
+ - date_published: 2024-07-08T13:54:00.740177+00:00
+
+ ## Oxford American | Home
+ - [https://main.oxfordamerican.org](https://main.oxfordamerican.org)
+ - date_published: 2023-10-25T21:55:33.395856+00:00
+
+ ## Oxford American | Home
+ - [https://oxfordamerican.org](https://oxfordamerican.org)
+ - date_published: 2023-10-25T21:55:35.228196+00:00
+
+ ## Oxford American Goods
+ - [https://oxfordamericangoods.org](https://oxfordamericangoods.org)
+ - date_published: 2024-05-08T11:30:08.608224+00:00
+
+ ## Home - OBA Network - University of Oxford
+ - [https://www.oxfordbusinessalumni.org](https://www.oxfordbusinessalumni.org)
+ - date_published: 2024-08-11T02:35:13.373250+00:00
+
+ ## TEST OSOBNOSTI
+ - [https://cz.oxfordcapacityanalysis.org](https://cz.oxfordcapacityanalysis.org)
+ - date_published: 2024-06-17T16:40:46.813216+00:00
+
+ ## Personality Test
+ - [https://www.oxfordcapacityanalysis.org](https://www.oxfordcapacityanalysis.org)
+ - date_published: 2024-05-02T10:38:15.773984+00:00
+
+ ## Welcome to Oxford Interfaith Forum - Oxford Interfaith Forum
+ - [https://www.oxfordinterfaithforum.org](https://www.oxfordinterfaithforum.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Bioinformatics | Oxford Academic
+ - [http://bioinformatics.oxfordjournals.org](http://bioinformatics.oxfordjournals.org)
+ - date_published: 2024-07-21T02:06:09.579507+00:00
+
+ ## Conservation Physiology | Oxford Academic
+ - [https://conphys.oxfordjournals.org](https://conphys.oxfordjournals.org)
+ - date_published: 2024-06-30T04:57:57.473304+00:00
+
+ ## Journal of Cybersecurity | Oxford Academic
+ - [http://cybersecurity.oxfordjournals.org](http://cybersecurity.oxfordjournals.org)
+ - date_published: 2024-06-17T10:10:57.495579+00:00
+
+ ## European Journal of International Law | Oxford Academic
+ - [http://ejil.oxfordjournals.org](http://ejil.oxfordjournals.org)
+ - date_published: 2024-10-18T21:08:21.378909+00:00
+
+ ## Genome Biology and Evolution | Oxford Academic
+ - [http://gbe.oxfordjournals.org](http://gbe.oxfordjournals.org)
+ - date_published: 2024-10-19T06:22:29.437477+00:00
+
+ ## Journals Career Network (Powered by Yourmembership.com)
+ - [https://globaljobs-careernetwork.oxfordjournals.org](https://globaljobs-careernetwork.oxfordjournals.org)
+ - date_published: 2024-10-18T05:30:06.296434+00:00
+
  ## Human Rights Law Review | Oxford Academic
  - [http://hrlr.oxfordjournals.org](http://hrlr.oxfordjournals.org)
  - date_published: 2024-10-18T21:00:12.674362+00:00
@@ -3924,124 +4044,4 @@ TECHNICAL SPEAKER — @p01
  ## PlainSite :: The law in plain sight.
  - [https://www.plainsite.org](https://www.plainsite.org)
  - date_published: 2024-05-06T20:48:14.394723+00:00
-
- ## Plain Text Accounting forum
- - [https://forum.plaintextaccounting.org](https://forum.plaintextaccounting.org)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Plain Text Accounting portal - plaintextaccounting.org
- - [https://plaintextaccounting.org](https://plaintextaccounting.org)
- - date_published: 2023-10-25T21:58:11.439732+00:00
-
- ## plaintxt.org
- - [http://plaintxt.org](http://plaintxt.org)
- - date_published: 2024-05-08T11:17:52.382175+00:00
-
- ## Thane Plambeck
- - [http://www.plambeck.org](http://www.plambeck.org)
- - date_published: 2023-01-18T04:13:28+00:00
-
- ## Plan 28 Blog
- - [https://plan28.org](https://plan28.org)
- - date_published: 2024-06-29T08:56:59+00:00
-
- ## Optimization Algorithms for Planar Graphs
- - [https://planarity.org](https://planarity.org)
- - date_published: 2023-10-25T21:58:12.876978+00:00
-
- ## Planck ClojureScript REPL
- - [https://planck-repl.org](https://planck-repl.org)
- - date_published: 2019-10-13T16:51:06+00:00
-
- ## Home - Planemo
- - [https://planemo.org](https://planemo.org)
- - date_published: 2024-05-09T07:02:08.580336+00:00
-
- ## Planet 3.0 | Website repair in progress; come back later.
- - [http://planet3.org](http://planet3.org)
- - date_published: 2014-12-02T00:00:00+00:00
-
- ## Jonathan's Space Report
- - [https://planet4589.org](https://planet4589.org)
- - date_published: 2023-02-17T13:36:59+00:00
-
- ## Home - Centennial of the Planetarium
- - [https://planetarium100.org](https://planetarium100.org)
- - date_published: 2023-10-25T21:58:18.210126+00:00
-
- ## Worldwide Planetariums Database
- - [https://planetariums-database.org](https://planetariums-database.org)
- - date_published: 2024-05-08T11:46:28.554033+00:00
-
- ## The Planetary Society
- - [https://community.planetary.org](https://community.planetary.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://phenomenal-terrific.planetary.org](https://phenomenal-terrific.planetary.org)
- - date_published: 2024-05-08T11:46:29.985787+00:00
-
- ## The Planetary Society
- - [https://planetary.org](https://planetary.org)
- - date_published: 2024-02-24T18:05:00.221642+00:00
-
- ## The Planetary Society
- - [https://secure.planetary.org](https://secure.planetary.org)
- - date_published: 2024-05-08T11:46:33.806741+00:00
-
- ## Planetary Council
- - [https://planetarycouncil.org](https://planetarycouncil.org)
- - date_published: 2024-05-23T16:24:19+00:00
-
- ## Planet Cataloging
- - [http://www.planetcataloging.org](http://www.planetcataloging.org)
- - date_published: 2023-07-11T14:16:34+00:00
-
- ## planet commandline
- - [https://planet-commandline.org](https://planet-commandline.org)
- - date_published: 2024-06-30T21:13:08+00:00
-
- ## Planet CX
- - [http://www.planetcx.org](http://www.planetcx.org)
- - date_published: 2013-02-04T00:00:00+00:00
-
- ## Planet Detroit | An independent, nonprofit newsroom in Michigan.
- - [https://planetdetroit.org](https://planetdetroit.org)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Planet Eclipse
- - [https://planeteclipse.org](https://planeteclipse.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Zooniverse
- - [http://www.planetfour.org](http://www.planetfour.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Planet illumos
- - [https://planetillumos.org](https://planetillumos.org)
- - date_published: 2024-06-30T21:30:03+00:00
-
- ## Planet KDE
- - [http://planetkde.org](http://planetkde.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## PlanetLab | An open platform for developing, deploying, and accessing planetary-scale services
- - [http://www.planet-lab.org](http://www.planet-lab.org)
- - date_published: 2020-12-03T18:21:38+00:00
-
- ## Planet Libre
- - [http://www.planet-libre.org](http://www.planet-libre.org)
- - date_published: 2024-08-08T10:57:38.640295+00:00
-
- ## PlanetMath.org
- - [http://planetmath.org](http://planetmath.org)
- - date_published: 2018-03-10T21:23:41+00:00
-
- ## Planet MySQL
- - [http://www.planetmysql.org](http://www.planetmysql.org)
- - date_published: 2024-06-28T20:08:10.299455+00:00
-
- ## Planet PHP
- - [https://www.planet-php.org](https://www.planet-php.org)
- - date_published: 2024-06-26T12:30:17+00:00
 

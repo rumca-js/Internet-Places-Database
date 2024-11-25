@@ -1,3 +1,131 @@
+ ## Öğrenci Bilgi Sistemi - Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://akts.isparta.edu.tr](https://akts.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:09.256740+00:00
+
+ ## Araştırma Görevlileri Konseyi
+ - [https://arsgorkonsey.isparta.edu.tr](https://arsgorkonsey.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:37.543109+00:00
+
+ ## Atabey Meslek Yüksekokulu
+ - [http://atabeymyo.isparta.edu.tr](http://atabeymyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:32.227450+00:00
+
+ ## Bilimsel Araştırma Projeleri Koordinasyon Birimi
+ - [https://bap.isparta.edu.tr](https://bap.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:10.205208+00:00
+
+ ## ISUBÜ BAPSTS
+ - [http://bapsts.isparta.edu.tr](http://bapsts.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:32.560122+00:00
+
+ ## Bilgi İşlem Daire Başkanlığı
+ - [http://bidb.isparta.edu.tr](http://bidb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:06.976665+00:00
+
+ ## Bilişim Teknolojileri MYO
+ - [https://bilisimtekmyo.isparta.edu.tr](https://bilisimtekmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:32.843329+00:00
+
+ ## Isparta Uygulamalı Bilimler Üniversitesi
+ - [https://birimsayfalari.isparta.edu.tr](https://birimsayfalari.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:31.743848+00:00
+
+ ## Büyükkutlu Uygulamalı Bilimler Fakültesi
+ - [http://bubfa.isparta.edu.tr](http://bubfa.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:42.317877+00:00
+
+ ## ISUBÜ - Lisansüstü
+ - [https://dbp.isparta.edu.tr](https://dbp.isparta.edu.tr)
+ - date_published: 2024-10-19T13:27:11.066384+00:00
+
+ ## Döner Sermaye İşletme Müdürlüğü
+ - [https://dsermaye.isparta.edu.tr](https://dsermaye.isparta.edu.tr)
+ - date_published: 2024-06-17T15:17:43.116990+00:00
+
+ ## ISUBÜ - Elektronik Belge Yönetim Sistemi
+ - [https://ebys.isparta.edu.tr](https://ebys.isparta.edu.tr)
+ - date_published: 2023-01-17T10:59:37+00:00
+
+ ## Eduroam
+ - [http://eduroam.isparta.edu.tr](http://eduroam.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:48.322647+00:00
+
+ ## Eğirdir Meslek Yüksekokulu
+ - [http://egirdirmyo.isparta.edu.tr](http://egirdirmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:47.873341+00:00
+
+ ## Enerji Yönetim Birimi
+ - [https://enerjiyonetim.isparta.edu.tr](https://enerjiyonetim.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:24.823090+00:00
+
+ ## Engelsiz ISUBÜ Birimi
+ - [https://engelsiz.isparta.edu.tr](https://engelsiz.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:10.804030+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://eposta.isparta.edu.tr](https://eposta.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:43.618008+00:00
+
+ ## Erasmus Kurum Koordinatörlüğü
+ - [https://erasmus.isparta.edu.tr](https://erasmus.isparta.edu.tr)
+ - date_published: 2024-05-02T10:26:18.454465+00:00
+
+ ## Eğirdir Su Ürünleri Fakültesi
+ - [http://esuf.isparta.edu.tr](http://esuf.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:27.874441+00:00
+
+ ## Etik Kurul
+ - [https://etikkurul.isparta.edu.tr](https://etikkurul.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:01.487630+00:00
+
+ ## Farabi Kurum Koordinatörlüğü
+ - [https://farabi.isparta.edu.tr](https://farabi.isparta.edu.tr)
+ - date_published: 2024-05-02T10:25:36.104272+00:00
+
+ ## FSMLO
+ - [https://fsmlo.isparta.edu.tr](https://fsmlo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:27:30.321337+00:00
+
+ ## GELENDOST MESLEK YÜKSEKOKULU
+ - [http://gelendostmyo.isparta.edu.tr](http://gelendostmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:12:45.959076+00:00
+
+ ## Genel Sekreterlik
+ - [http://genelsekreterlik.isparta.edu.tr](http://genelsekreterlik.isparta.edu.tr)
+ - date_published: 2024-06-17T15:10:59.451043+00:00
+
+ ## Gölcük ÖİBS
+ - [https://golcuk.isparta.edu.tr](https://golcuk.isparta.edu.tr)
+ - date_published: 2024-10-19T13:26:24.221090+00:00
+
+ ## Gönen Meslek Yüksekokulu
+ - [http://gonenmyo.isparta.edu.tr](http://gonenmyo.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:18.923027+00:00
+
+ ## Hayvan Deneyleri Yerel Etik Kurulu
+ - [https://hadyek.isparta.edu.tr](https://hadyek.isparta.edu.tr)
+ - date_published: 2024-06-17T15:19:21.847608+00:00
+
+ ## Hizmet İçi Eğitim
+ - [https://hizmetici.isparta.edu.tr](https://hizmetici.isparta.edu.tr)
+ - date_published: 2024-06-17T15:26:52.610095+00:00
+
+ ## Hukuk Müşavirliği
+ - [https://hukukmusavirligi.isparta.edu.tr](https://hukukmusavirligi.isparta.edu.tr)
+ - date_published: 2024-06-17T15:13:44.837075+00:00
+
+ ## İç Denetim Birimi
+ - [https://idb.isparta.edu.tr](https://idb.isparta.edu.tr)
+ - date_published: 2024-06-17T15:14:24.744238+00:00
+
+ ## İhale Sayfası
+ - [http://ihale.isparta.edu.tr](http://ihale.isparta.edu.tr)
+ - date_published: 2024-06-17T15:11:02.575484+00:00
+
+ ## ISUBÜ Personel İlan
+ - [https://ik.isparta.edu.tr](https://ik.isparta.edu.tr)
+ - date_published: 2023-06-11T21:50:40+00:00
+
  ## İdari ve Mali İşler Daire Başkanlığı
  - [http://imid.isparta.edu.tr](http://imid.isparta.edu.tr)
  - date_published: 2024-06-17T15:14:22.546555+00:00
@@ -3934,132 +4062,4 @@ NMHSs DIRECTORS
  ## Simple Analytics
  - [https://sa.futureland.tv](https://sa.futureland.tv)
  - date_published: 2020-01-10T12:35:14+00:00
-
- ## FuzzyMemories.TV -- The Museum of Classic Chicago Television
- - [http://fuzzymemories.tv](http://fuzzymemories.tv)
- - date_published: 2024-08-18T09:15:34.803279+00:00
-
- ## Firework
- - [https://fw.tv](https://fw.tv)
- - date_published: 2024-06-29T13:55:55.398106+00:00
-
- ## Homepage | A+E Networks EMEA
- - [https://www.fyi.tv](https://www.fyi.tv)
- - date_published: 2024-07-20T23:40:22.992234+00:00
-
- ## GAME TRADE MEDIA – Board Games are for Everyone!
- - [http://www.gametrademedia.tv](http://www.gametrademedia.tv)
- - date_published: 2024-06-29T09:07:26.906384+00:00
-
- ## Ganymede & Titan – Ain't no place in the whole of cyberspace
- - [https://www.ganymede.tv](https://www.ganymede.tv)
- - date_published: 2024-06-20T14:10:16.733820+00:00
-
- ## Gazeta.tv: wideo publicystyka, lifestyle i rozrywka, gwiazdy YouTube
- - [https://www.gazeta.tv](https://www.gazeta.tv)
- - date_published: 2024-08-18T11:28:56.441178+00:00
-
- ## Michael Geers, Frontend Engineer, Osnabrück
- - [https://geers.tv](https://geers.tv)
- - date_published: 2023-11-13T13:56:18+00:00
-
- ## Generation Black TV
- - [https://generationblack.tv](https://generationblack.tv)
- - date_published: 2024-06-25T20:33:43.891696+00:00
-
- ## Generation Hispanic TV – GenHX: Unleash the Culture, Embrace the Latin X
- - [https://generationhispanic.tv](https://generationhispanic.tv)
- - date_published: 2024-06-25T20:33:36.005768+00:00
-
- ## Geo Asool
- - [https://asool.geo.tv](https://asool.geo.tv)
- - date_published: 2024-06-28T17:11:35.612865+00:00
-
- ## Geo.tv: Latest News Breaking Pakistan, World, Live Videos
- - [https://geo.tv](https://geo.tv)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## LIVE - Geo News - Watch Pakistan News Channel - Geo News Live Streaming Online UK
- - [https://live.geo.tv](https://live.geo.tv)
- - date_published: 2024-06-28T17:11:18.003351+00:00
-
- ## Talent Management - Geo TV Network
- - [https://talent.geo.tv](https://talent.geo.tv)
- - date_published: 2024-06-28T17:11:45.706779+00:00
-
- ## Urdu News - Latest live Breaking News updates today in Urdu, Livestream & online Videos - Geo News Urdu
- - [https://urdu.geo.tv](https://urdu.geo.tv)
- - date_published: 2024-06-28T17:11:24.884566+00:00
-
- ## Games.get.tv
- - [https://games.get.tv](https://games.get.tv)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home Page | Get TV
- - [https://get.tv](https://get.tv)
- - date_published: 2024-06-21T01:50:46.394845+00:00
-
- ## GitGudTV -
- - [https://gitgud.tv](https://gitgud.tv)
- - date_published: 2024-08-07T17:53:57.340696+00:00
-
- ## Home Page - Golf Clash
- - [https://golfclash.tv](https://golfclash.tv)
- - date_published: 2024-01-09T03:48:12.967360+00:00
-
- ## GoSwim
- - [https://www.goswim.tv](https://www.goswim.tv)
- - date_published: 2024-08-19T05:53:30.612796+00:00
-
- ## Grand Slam Marketing
- - [https://grandslammarketing.tv](https://grandslammarketing.tv)
- - date_published: 2024-06-19T18:04:12.408286+00:00
-
- ## Grand Slam Marketing
- - [https://kvvu.grandslammarketing.tv](https://kvvu.grandslammarketing.tv)
- - date_published: 2024-05-04T06:55:58.067201+00:00
-
- ## Granite House - Michigan Granite Countertops | Macomb, Sterling Heights
- - [https://www.granitehouse.tv](https://www.granitehouse.tv)
- - date_published: 2024-07-17T07:46:51.120997+00:00
-
- ## Gray CONNECT
- - [https://content.gray.tv](https://content.gray.tv)
- - date_published: 2024-07-21T03:03:13.112824+00:00
-
- ## Home - Gray Television
- - [https://gray.tv](https://gray.tv)
- - date_published: 2024-04-30T07:25:50.722819+00:00
-
- ## Grand Theft Auto IV: Grand Theft Auto IV News, Guides, Cheats, Images and much more! - GTA4.TV
- - [https://www.gta4.tv](https://www.gta4.tv)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## HackerWarehouse.TV
- - [https://hackerwarehouse.tv](https://hackerwarehouse.tv)
- - date_published: 2024-05-04T09:13:54.088608+00:00
-
- ## Watch Free Hentai Video Streams Online in 720p, 1080p HD - hanime.tv
- - [https://hanime.tv](https://hanime.tv)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Your Store
- - [http://happyant.tv](http://happyant.tv)
- - date_published: 2024-06-30T07:07:44.348897+00:00
-
- ## Havoc TV
- - [http://www.havoc.tv](http://www.havoc.tv)
- - date_published: 2024-09-14T09:00:36.781416+00:00
-
- ## Haystack News Help Center
- - [https://help.haystack.tv](https://help.haystack.tv)
- - date_published: 2024-06-24T08:38:27.021176+00:00
-
- ## Haystack News lets you watch the news tuned to your interests
- - [https://www.haystack.tv](https://www.haystack.tv)
- - date_published: 2024-05-06T16:55:51.167619+00:00
-
- ## Home – Heimspiel
- - [http://heimspiel.tv](http://heimspiel.tv)
- - date_published: 2024-07-13T15:30:15.896460+00:00
 

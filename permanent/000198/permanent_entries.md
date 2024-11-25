@@ -1,3 +1,71 @@
+ ## The Irish Stoic | Enda Harte | Substack
+ - [https://theirishstoic.substack.com](https://theirishstoic.substack.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## The Jaggy Thistle | Kenny Farquharson | Substack
+ - [https://thejaggythistle.substack.com](https://thejaggythistle.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## The Jewish Table | Leah Koenig | Substack
+ - [https://thejewishtable.substack.com](https://thejewishtable.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Become The Wild | Kat | Substack
+ - [https://thekatgeorga.substack.com](https://thekatgeorga.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## The Kennedy Beacon | Substack
+ - [https://thekennedybeacon.substack.com](https://thekennedybeacon.substack.com)
+ - date_published: 2024-05-07T10:32:15.530674+00:00
+
+ ## The Knead | Mariette Papic | Substack
+ - [https://theknead.substack.com](https://theknead.substack.com)
+ - date_published: 2024-07-04T05:22:48.785305+00:00
+
+ ## The Ladybird Purse • Opening up about money | Keris Fox | Substack
+ - [https://theladybirdpurse.substack.com](https://theladybirdpurse.substack.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## The Lancashire Lead | Substack
+ - [https://thelancashirelead.substack.com](https://thelancashirelead.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## The Land of Random | David Nichols | Substack
+ - [https://thelandofrandom.substack.com](https://thelandofrandom.substack.com)
+ - date_published: 2024-05-01T04:29:28.870910+00:00
+
+ ## The Lap | Charlie Daly | Substack
+ - [https://thelap.substack.com](https://thelap.substack.com)
+ - date_published: 2024-05-10T06:46:46.106332+00:00
+
+ ## Adapt : Survive : Prevail | TheLastFarm | Substack
+ - [https://thelastfarm.substack.com](https://thelastfarm.substack.com)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## johan’s substack | Substack
+ - [https://thelastwave.substack.com](https://thelastwave.substack.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## The Lead | Substack
+ - [https://theleaduk.substack.com](https://theleaduk.substack.com)
+ - date_published: 2024-10-17T13:21:22.548357+00:00
+
+ ## The Lettuce | Dave Macleod | Substack
+ - [https://thelettuce.substack.com](https://thelettuce.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## The Liberal Patriot | John Halpin | Substack
+ - [https://theliberalpatriot.substack.com](https://theliberalpatriot.substack.com)
+ - date_published: 2024-06-29T10:59:04.295600+00:00
+
+ ## The Lineup | John Pugh | Substack
+ - [https://thelineupwithjohnpugh.substack.com](https://thelineupwithjohnpugh.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## The Literary Compass | Georgia Clare | Substack
+ - [https://theliterarycompass.substack.com](https://theliterarycompass.substack.com)
+ - date_published: 2024-10-19T11:53:29.581055+00:00
+
  ## Living Fossils | The Living Fossils | Substack
  - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
  - date_published: 2024-02-23T00:00:00+00:00
@@ -3975,72 +4043,4 @@
  ## Overview | Supra Docs
  - [https://docs.supra.com](https://docs.supra.com)
  - date_published: 2024-08-21T00:00:00+00:00
-
- ## Home
- - [https://hub.supra.com](https://hub.supra.com)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Blockchain Technology: Decentralized Web3, DeFi, GameFi | Supra
- - [https://supra.com](https://supra.com)
- - date_published: 2024-09-25T10:57:43.028315+00:00
-
- ## Toyota Supra Connect
- - [https://www.supraconnect.com](https://www.supraconnect.com)
- - date_published: 2024-06-25T19:29:27+00:00
-
- ## Home
- - [https://hub.supraoracles.com](https://hub.supraoracles.com)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Blockchain Technology: Decentralized Web3, DeFi, GameFi | Supra
- - [https://supraoracles.com](https://supraoracles.com)
- - date_published: 2024-06-16T04:33:08.925047+00:00
-
- ## Attention Required! | Cloudflare
- - [https://play.supremacy1914.com](https://play.supremacy1914.com)
- - date_published: 2024-09-30T13:13:07.778215+00:00
-
- ## Supreme Golf | Discount Tee Times, Deals & Course Reviews
- - [https://supremegolf.com](https://supremegolf.com)
- - date_published: 2024-05-10T05:15:44.977502+00:00
-
- ## Supreme
- - [http://supremenewyork.com](http://supremenewyork.com)
- - date_published: 2024-07-13T15:01:22.319292+00:00
-
- ## Supreme People's Court Monitor
- - [https://supremepeoplescourtmonitor.com](https://supremepeoplescourtmonitor.com)
- - date_published: 2024-05-07T15:13:11.397324+00:00
-
- ## Home - Supreme Vinegar
- - [https://supremevinegar.com](https://supremevinegar.com)
- - date_published: 2024-10-26T19:16:40.617376+00:00
-
- ## Homepage - Supro USA
- - [https://www.suprousa.com](https://www.suprousa.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Notification Infrastructure for email, sms, slack, push, inbox | SuprSend
- - [https://www.suprsend.com](https://www.suprsend.com)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Supsystic
- - [https://supsystic.com](https://supsystic.com)
- - date_published: 2024-06-24T07:48:54.394756+00:00
-
- ## Suraj Remanan
- - [https://surajremanan.com](https://surajremanan.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Tchat coquin en France et Rencontre coquine en France
- - [https://www.surayamedia.com](https://www.surayamedia.com)
- - date_published: 2024-08-11T23:33:42.784271+00:00
-
- ## Surbhi Goel
- - [https://www.surbhigoel.com](https://www.surbhigoel.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Surcar Europe
- - [http://cannes.surcarcongress.com](http://cannes.surcarcongress.com)
- - date_published: 2024-10-31T09:52:13+00:00
 

@@ -1,3 +1,83 @@
+ ## Commitment to Privacy
+ - [https://metrics.vcu.edu](https://metrics.vcu.edu)
+ - date_published: 2024-07-02T12:47:33.411927+00:00
+
+ ## Commitment to Privacy
+ - [https://microbiology.vcu.edu](https://microbiology.vcu.edu)
+ - date_published: 2024-07-02T12:42:15.118090+00:00
+
+ ## Commitment to Privacy
+ - [https://militaryservices.vcu.edu](https://militaryservices.vcu.edu)
+ - date_published: 2024-07-02T12:48:36.302712+00:00
+
+ ## Commitment to Privacy
+ - [https://military.vcu.edu](https://military.vcu.edu)
+ - date_published: 2024-07-02T12:47:42.235641+00:00
+
+ ## Commitment to Privacy
+ - [https://mlkday.vcu.edu](https://mlkday.vcu.edu)
+ - date_published: 2024-07-02T12:48:51.860062+00:00
+
+ ## Commitment to Privacy
+ - [http://mls.chp.vcu.edu](http://mls.chp.vcu.edu)
+ - date_published: 2024-07-02T12:49:46.372226+00:00
+
+ ## Commitment to Privacy
+ - [https://mobile.vcu.edu](https://mobile.vcu.edu)
+ - date_published: 2024-07-02T12:45:46.341637+00:00
+
+ ## Commitment to Privacy
+ - [https://movr.vcu.edu](https://movr.vcu.edu)
+ - date_published: 2024-07-02T12:47:43.505731+00:00
+
+ ## Commitment to Privacy
+ - [https://music.lab.vcu.edu](https://music.lab.vcu.edu)
+ - date_published: 2024-07-02T12:43:50.360537+00:00
+
+ ## Commitment to Privacy
+ - [https://myeid.vcu.edu](https://myeid.vcu.edu)
+ - date_published: 2024-07-02T12:51:02.259922+00:00
+
+ ## Commitment to Privacy
+ - [https://myname.vcu.edu](https://myname.vcu.edu)
+ - date_published: 2024-07-02T12:49:13.022530+00:00
+
+ ## Commitment to Privacy
+ - [https://mytuition.vcu.edu](https://mytuition.vcu.edu)
+ - date_published: 2024-07-02T12:57:47.560870+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://my.vcu.edu](https://my.vcu.edu)
+ - date_published: 2024-05-07T22:23:29.894456+00:00
+
+ ## Commitment to Privacy
+ - [https://nanotherapeutics.pharmacy.vcu.edu](https://nanotherapeutics.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:48:33.490442+00:00
+
+ ## Commitment to Privacy
+ - [https://nano.vcu.edu](https://nano.vcu.edu)
+ - date_published: 2024-07-02T12:43:53.783718+00:00
+
+ ## Commitment to Privacy
+ - [https://nci.partnership.vcu.edu](https://nci.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:50:39.005373+00:00
+
+ ## Commitment to Privacy
+ - [https://neurology.vcu.edu](https://neurology.vcu.edu)
+ - date_published: 2024-07-02T12:51:24.748325+00:00
+
+ ## Commitment to Privacy
+ - [https://neuroscience.pharmacy.vcu.edu](https://neuroscience.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:43:29.940110+00:00
+
+ ## Commitment to Privacy
+ - [https://neurosurgery.vcu.edu](https://neurosurgery.vcu.edu)
+ - date_published: 2024-07-02T12:50:37.475911+00:00
+
+ ## Commitment to Privacy
+ - [https://neurotraumarepair.vcu.edu](https://neurotraumarepair.vcu.edu)
+ - date_published: 2024-07-02T12:58:32.916849+00:00
+
  ## VCU News
  - [https://news.vcu.edu](https://news.vcu.edu)
  - date_published: 2024-05-07T22:22:46.409257+00:00
@@ -3922,84 +4002,4 @@
  ## College of Nursing - WSU Vancouver
  - [https://nursing.vancouver.wsu.edu](https://nursing.vancouver.wsu.edu)
  - date_published: 2024-06-07T17:07:16+00:00
-
- ## Compliance and Civil Rights |  Washington State University
- - [https://oeo.wsu.edu](https://oeo.wsu.edu)
- - date_published: 2024-07-02T14:40:03+00:00
-
- ## WSU Global Campus Home
- - [https://online.wsu.edu](https://online.wsu.edu)
- - date_published: 2024-07-02T14:49:35+00:00
-
- ## Office of Research Support and Operations |  Washington State University
- - [https://orso.wsu.edu](https://orso.wsu.edu)
- - date_published: 2024-07-02T14:58:38+00:00
-
- ## Washington State University Policies |  Washington State University
- - [https://policies.wsu.edu](https://policies.wsu.edu)
- - date_published: 2024-05-07T22:38:08.728504+00:00
-
- ## WSU Authentication | Washington State University
- - [https://portal.wsu.edu](https://portal.wsu.edu)
- - date_published: 2024-05-07T22:38:00.756576+00:00
-
- ## Design and Printing Services |  Washington State University
- - [https://printing.wsu.edu](https://printing.wsu.edu)
- - date_published: 2024-07-02T14:58:28+00:00
-
- ## Office of the Provost | Washington State University
- - [https://provost.wsu.edu](https://provost.wsu.edu)
- - date_published: 2024-07-02T14:59:39+00:00
-
- ## Washington State University
- - [http://public.wsu.edu](http://public.wsu.edu)
- - date_published: 2024-07-02T14:45:55+00:00
-
- ## Home
- - [https://pullman.wsu.edu](https://pullman.wsu.edu)
- - date_published: 2024-07-02T14:49:58+00:00
-
- ## Office of the Registrar
- - [http://registrar.wsu.edu](http://registrar.wsu.edu)
- - date_published: 2024-07-02T14:58:21.001589+00:00
-
- ## Research Home
- - [https://research.wsu.edu](https://research.wsu.edu)
- - date_published: 2024-07-02T14:58:17+00:00
-
- ## Schedule of Classes
- - [http://schedules.wsu.edu](http://schedules.wsu.edu)
- - date_published: 2024-07-02T14:59:04.331496+00:00
-
- ## Search |  Washington State University
- - [https://search.wsu.edu](https://search.wsu.edu)
- - date_published: 2024-05-07T22:38:04.754548+00:00
-
- ## Social Media at WSU |  Washington State University
- - [https://socialmedia.wsu.edu](https://socialmedia.wsu.edu)
- - date_published: 2024-05-07T22:38:06.745254+00:00
-
- ## WSU Spokane |  Washington State University
- - [https://spokane.wsu.edu](https://spokane.wsu.edu)
- - date_published: 2024-07-02T14:41:51+00:00
-
- ## Home
- - [https://stage.events.wsu.edu](https://stage.events.wsu.edu)
- - date_published: 2024-07-02T14:48:19+00:00
-
- ## WSU System Strategic Plan |  Washington State University
- - [https://strategicplan.wsu.edu](https://strategicplan.wsu.edu)
- - date_published: 2024-07-02T14:54:57+00:00
-
- ## Student Affairs and Enrollment - Home - WSU Vancouver
- - [https://studentaffairs.vancouver.wsu.edu](https://studentaffairs.vancouver.wsu.edu)
- - date_published: 2024-06-14T18:46:06+00:00
-
- ## Threat Assessment |  Washington State University
- - [https://threatassessment.wsu.edu](https://threatassessment.wsu.edu)
- - date_published: 2024-07-02T14:59:56+00:00
-
- ## Trademark Licensing
- - [https://trademarks.wsu.edu](https://trademarks.wsu.edu)
- - date_published: 2024-07-02T15:00:28+00:00
 

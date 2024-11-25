@@ -1,3 +1,109 @@
+ ## Fossil: A Coherent Software Configuration Management System
+ - [https://fossil-scm.org](https://fossil-scm.org)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## | FOSSlife
+ - [https://fosslife.org](https://fosslife.org)
+ - date_published: 2024-06-21T13:42:31.652647+00:00
+
+ ## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date_published: 2023-10-24T20:13:36.118898+00:00
+ - tags: ['mastodon', 'open source']
+
+ ## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date_published: 2023-10-25T21:22:06.810545+00:00
+ - tags: ['mastodon']
+
+ ## Fosstodon Status
+ - [https://status.fosstodon.org](https://status.fosstodon.org)
+ - date_published: 2024-08-18T19:16:16.025260+00:00
+
+ ## FOSS United
+ - [https://forum.fossunited.org](https://forum.fossunited.org)
+ - date_published: 2024-09-16T13:10:40.136570+00:00
+
+ ## FOSS United Foundation
+ - [https://fossunited.org](https://fossunited.org)
+ - date_published: 2024-06-15T06:55:46.332925+00:00
+
+ ## FOSS United Foundation
+ - [https://platform.fossunited.org](https://platform.fossunited.org)
+ - date_published: 2024-09-16T13:10:37.292865+00:00
+
+ ## Foster Care Old Page
+ - [https://foster-sf.org](https://foster-sf.org)
+ - date_published: 2024-02-16T20:31:55+00:00
+
+ ## FOTEGAL | Foro de Tesorerías Gubernamentales de América Latina
+ - [https://fotegal.org](https://fotegal.org)
+ - date_published: 2024-06-12T11:04:10.976275+00:00
+
+ ## Fotokino | Expositions, projections, ateliers et conférences dédiés aux arts visuels
+ - [https://fotokino.org](https://fotokino.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
+ - [https://fotuva.org](https://fotuva.org)
+ - date_published: 2024-01-09T03:39:38.501537+00:00
+
+ ## Foundance
+ - [https://app.foundance.org](https://app.foundance.org)
+ - date_published: 2024-06-16T04:17:20.485245+00:00
+
+ ## Foundance
+ - [https://foundance.org](https://foundance.org)
+ - date_published: 2024-09-24T21:15:15.720127+00:00
+
+ ## Foundation 2 Crisis Services
+ - [https://foundation2.org](https://foundation2.org)
+ - date_published: 2024-07-16T20:07:05.923176+00:00
+
+ ## Home – Center on Long-Term Risk
+ - [https://foundational-research.org](https://foundational-research.org)
+ - date_published: 2024-05-07T09:59:32.867779+00:00
+
+ ## Find Grants for Nonprofits | Foundation Directory | Candid
+ - [https://fconline.foundationcenter.org](https://fconline.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:11.408480+00:00
+
+ ## Foundation Maps | Candid
+ - [https://maps.foundationcenter.org](https://maps.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:03.467621+00:00
+
+ ## Foundation Center Dev
+ - [https://wordpressdev.foundationcenter.org](https://wordpressdev.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:35.388107+00:00
+
+ ## FoundationDB
+ - [https://forums.foundationdb.org](https://forums.foundationdb.org)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## FoundationDB | Home
+ - [https://www.foundationdb.org](https://www.foundationdb.org)
+ - date_published: 2024-04-29T07:32:02.352669+00:00
+
+ ## Home - ICF Foundation
+ - [https://foundationoficf.org](https://foundationoficf.org)
+ - date_published: 2024-06-15T09:27:37.937576+00:00
+
+ ## Foundations of Digital Games (FDG) Conference Series
+ - [http://www.foundationsofdigitalgames.org](http://www.foundationsofdigitalgames.org)
+ - date_published: 2018-10-06T17:05:34+00:00
+
+ ## Found History – by Tom Scheinfeldt
+ - [http://www.foundhistory.org](http://www.foundhistory.org)
+ - date_published: 2024-08-11T12:51:47.446106+00:00
+
+ ## Found on the Web
+ - [https://foundontheweb.org](https://foundontheweb.org)
+ - date_published: 2024-05-04T07:41:05.022388+00:00
+
+ ## FoundSF
+ - [https://foundsf.org](https://foundsf.org)
+ - date_published: 2023-08-24T19:23:51+00:00
+
  ## foundweekends — foundweekends
  - [https://www.foundweekends.org](https://www.foundweekends.org)
  - date_published: 2023-09-11T22:29:22+00:00
@@ -3950,108 +4056,4 @@ encryption
  ## Downloads – Gentoo Linux
  - [https://get.gentoo.org](https://get.gentoo.org)
  - date_published: 2024-07-07T00:00:00+00:00
-
- ## Gentoo Git Repositories
- - [https://gitweb.gentoo.org](https://gitweb.gentoo.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Gentoo infrastructure status
- - [https://infra-status.gentoo.org](https://infra-status.gentoo.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Gentoo Packages
- - [https://packages.gentoo.org](https://packages.gentoo.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Planet Gentoo
- - [https://planet.gentoo.org](https://planet.gentoo.org)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Gentoo Git Repositories
- - [https://sources.gentoo.org](https://sources.gentoo.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Gentoo Wiki
- - [https://wiki.gentoo.org](https://wiki.gentoo.org)
- - date_published: 2023-10-25T21:24:31.672851+00:00
-
- ## Generation Vegan - GenV
- - [https://genv.org](https://genv.org)
- - date_published: 2024-07-08T15:25:35.905607+00:00
-
- ## Coming Soon | Gen-Z for Change
- - [https://genzforchange.org](https://genzforchange.org)
- - date_published: 2024-08-02T18:01:14.731637+00:00
-
- ## Geobites – Down-to-Earth Geoscience Writing
- - [https://geobites.org](https://geobites.org)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## GEO BON
- - [https://geobon.org](https://geobon.org)
- - date_published: 2024-06-20T08:47:36.941430+00:00
-
- ## 医局からの円満退局。 – 医局外転職の成功と失敗事例
- - [http://geochangemag.org](http://geochangemag.org)
- - date_published: 2024-09-16T19:47:31.256114+00:00
-
- ## geocompx
- - [https://geocompx.org](https://geocompx.org)
- - date_published: 2024-09-18T21:20:59.255803+00:00
-
- ## Geocomputation with Python
- - [https://py.geocompx.org](https://py.geocompx.org)
- - date_published: 2024-07-15T06:19:24.728826+00:00
-
- ## Welcome | Geocomputation with R
- - [https://r.geocompx.org](https://r.geocompx.org)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Professor Peck
- - [https://peck.geoengineer.org](https://peck.geoengineer.org)
- - date_published: 2023-10-25T21:24:33.960963+00:00
-
- ## Geotechnical Engineering News & Technical Resources for Geotech Professionals
- - [http://www.geoengineer.org](http://www.geoengineer.org)
- - date_published: 2024-08-18T19:12:03.983466+00:00
-
- ## Geoengineering Monitor
- - [http://www.geoengineeringmonitor.org](http://www.geoengineeringmonitor.org)
- - date_published: 2024-08-11T16:41:13.754278+00:00
-
- ## Geoengineering Affects You, Your Environment, and Your Loved Ones
- - [https://www.geoengineeringwatch.org](https://www.geoengineeringwatch.org)
- - date_published: 2024-09-16T19:57:38.638350+00:00
-
- ## Geoffrey Brown | Design & Innovation
- - [https://geoffbrown.org](https://geoffbrown.org)
- - date_published: 2024-01-16T17:02:33.670436+00:00
-
- ## Sign in - GeoGebra
- - [https://accounts.geogebra.org](https://accounts.geogebra.org)
- - date_published: 2024-07-21T02:15:47.482191+00:00
-
- ## GeoGebra - the world’s favorite, free math tools used by over 100 million students and teachers
- - [https://geogebra.org](https://geogebra.org)
- - date_published: 2024-04-30T07:34:52.293034+00:00
-
- ## Help Center
- - [https://help.geogebra.org](https://help.geogebra.org)
- - date_published: 2024-07-21T02:17:12.158098+00:00
-
- ## Sign in - Matomo
- - [https://matomo.geogebra.org](https://matomo.geogebra.org)
- - date_published: 2024-07-21T02:17:13.283166+00:00
-
- ## GEOGRAPHY 2050
- - [http://2020.geography2050.org](http://2020.geography2050.org)
- - date_published: 2024-08-18T21:04:14.916083+00:00
-
- ## GEOGRAPHY 2050
- - [https://www.geography2050.org](https://www.geography2050.org)
- - date_published: 2024-06-21T01:54:41.711902+00:00
-
- ## Geoscience Information Society – Professional society for geoscience librarians
- - [http://www.geoinfo.org](http://www.geoinfo.org)
- - date_published: 2020-01-17T00:00:00+00:00
 

@@ -1,3 +1,83 @@
+ ## Loading
+ - [https://campus.tum.de](https://campus.tum.de)
+ - date_published: 2024-04-29T06:57:12.485784+00:00
+
+ ## pAIge - TUM MGT Chatbot
+ - [https://chat.it.tum.de](https://chat.it.tum.de)
+ - date_published: 2024-07-24T04:20:36.152399+00:00
+
+ ## Computational Imaging and Inverse Problems - Home
+ - [https://ciip.in.tum.de](https://ciip.in.tum.de)
+ - date_published: 2024-06-21T19:53:44+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://cit.tum.de](https://cit.tum.de)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [https://community.tum.de](https://community.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://cs.cit.tum.de](https://cs.cit.tum.de)
+ - date_published: 2023-10-25T18:33:05.751862+00:00
+
+ ## Computer Vision Group - Home
+ - [https://cvg.cit.tum.de](https://cvg.cit.tum.de)
+ - date_published: 2024-08-07T17:11:08.997237+00:00
+
+ ## Chair for Database Systems
+ - [https://db.in.tum.de](https://db.in.tum.de)
+ - date_published: 2024-05-29T01:37:53.244255+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://dse.in.tum.de](https://dse.in.tum.de)
+ - date_published: 2024-05-04T15:27:57.079929+00:00
+
+ ## TUM School of Engineering and Design (ED)
+ - [https://ed.tum.de](https://ed.tum.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## |
+ - [https://events.gni.tum.de](https://events.gni.tum.de)
+ - date_published: 2024-08-08T23:03:41.225527+00:00
+
+ ## ForNeRo
+ - [https://fornero.ed.tum.de](https://fornero.ed.tum.de)
+ - date_published: 2024-09-05T21:59:33.942561+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://in.tum.de](http://in.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Isabelle
+ - [https://isabelle.in.tum.de](https://isabelle.in.tum.de)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## TUM Jobportal
+ - [https://jobportal.community.tum.de](https://jobportal.community.tum.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://kaldir.vc.in.tum.de](https://kaldir.vc.in.tum.de)
+ - date_published: 2024-07-24T05:49:04.535775+00:00
+
+ ## KI.FABRIK
+ - [https://kifabrik.mirmi.tum.de](https://kifabrik.mirmi.tum.de)
+ - date_published: 2024-09-05T21:59:38.070121+00:00
+
+ ## TUM Living
+ - [https://living.tum.de](https://living.tum.de)
+ - date_published: 2024-07-24T04:20:45.036772+00:00
+
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://lll.tum.de](https://lll.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startseite
+ - [https://ls.tum.de](https://ls.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## Apache2 Ubuntu Default Page: It works
  - [https://mailman46.in.tum.de](https://mailman46.in.tum.de)
  - date_published: 2019-03-06T10:33:41+00:00
@@ -3922,84 +4002,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Datenraum ist weltweit und jederzeit verfügbar.
  - [https://vdrdienst.de](https://vdrdienst.de)
  - date_published: 2024-10-16T03:07:45.359744+00:00
-
- ## Der Verband Deutscher Verkehrsunternehmen (VDV) stellt sich vor | VDV - Die Verkehrsunternehmen
- - [https://www.vdv.de](https://www.vdv.de)
- - date_published: 2024-07-08T17:21:38.580742+00:00
-
- ## VEB Farben
- - [https://veb-farben.de](https://veb-farben.de)
- - date_published: 2024-04-15T08:11:29+00:00
-
- ## IT-Systemhaus aus Brakel, Bremen, Osnabrück, Stuttgart und München
- - [https://vectano.de](https://vectano.de)
- - date_published: 2024-07-09T11:10:58+00:00
-
- ## Vegconom GmbH
- - [https://vegconom.de](https://vegconom.de)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## vegconomist - Das vegane Wirtschaftsmagazin
- - [https://vegconomist.de](https://vegconomist.de)
- - date_published: 2024-05-06T21:35:06.463707+00:00
-
- ## Startseite - veit-ingenieure.de
- - [http://www.veit-ingenieure.de](http://www.veit-ingenieure.de)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## VELCRO® Markenbefestigungslösungen | Velcro.de
- - [https://www.velcro.de](https://www.velcro.de)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Vereinigte Evangelisch-Lutherische Kirche Deutschlands - VELKD
- - [https://www.velkd.de](https://www.velkd.de)
- - date_published: 2024-10-22T05:20:50.501659+00:00
-
- ## VEMA Versicherungsmakler Genossenschaft eG Niederlassung Heinersreuth
- - [https://www.vema-eg.de](https://www.vema-eg.de)
- - date_published: 2024-09-09T20:41:31.417363+00:00
-
- ## still don't have a title | Bastian Venthur's Blog
- - [https://venthur.de](https://venthur.de)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Beratungsstellen für Betroffene rechter, rassistischer und antisemitischer Gewalt | VBRG
- - [https://verband-brg.de](https://verband-brg.de)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Verbraucherbildung: Leben. Lernen. Leicht gemacht.
- - [https://verbraucherbildung.de](https://verbraucherbildung.de)
- - date_published: 2024-04-29T07:02:43.281545+00:00
-
- ## Auszeichnung Verbraucherschule
- - [http://www.verbraucherschule.de](http://www.verbraucherschule.de)
- - date_published: 2024-08-08T10:02:56+00:00
-
- ## Deutsche Stiftung Verbraucherschutz
- - [https://www.verbraucherstiftung.de](https://www.verbraucherstiftung.de)
- - date_published: 2024-08-08T19:47:25+00:00
-
- ## Sign in - Matomo
- - [https://auswertung.verbraucherzentrale.de](https://auswertung.verbraucherzentrale.de)
- - date_published: 2024-04-29T07:02:36.188871+00:00
-
- ## Startseite | Verbraucherzentrale.de
- - [https://verbraucherzentrale.de](https://verbraucherzentrale.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Baden-Württemberg
- - [http://www.verbraucherzentrale-bawue.de](http://www.verbraucherzentrale-bawue.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Bayern
- - [http://www.verbraucherzentrale-bayern.de](http://www.verbraucherzentrale-bayern.de)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Berlin
- - [http://www.verbraucherzentrale-berlin.de](http://www.verbraucherzentrale-berlin.de)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Startseite | Verbraucherzentrale Brandenburg
- - [https://www.verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de)
- - date_published: 2024-07-24T03:31:08.754541+00:00
 

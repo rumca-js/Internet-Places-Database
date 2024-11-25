@@ -1,3 +1,11 @@
+ ## Educación Continua | Diplomados seminarios y cursos
+ - [https://educacion-continua.libertadores.edu.co](https://educacion-continua.libertadores.edu.co)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Error
+ - [https://gf.libertadores.edu.co](https://gf.libertadores.edu.co)
+ - date_published: 2024-09-12T14:45:10.304694+00:00
+
  ## Intranet Los Libertadores – Intranet Los Libertadores
  - [https://intranet.libertadores.edu.co](https://intranet.libertadores.edu.co)
  - date_published: 2024-09-12T14:45:49.221857+00:00
@@ -4023,14 +4031,5 @@
  ## Qubyte Codes - About
  - [https://qubyte.codes](https://qubyte.codes)
  - date_published: 2023-10-25T08:43:56.747901+00:00
- - tags: ['personal']
-
- ## Rafael Winterhalter - software consultant
- - [https://rafael.codes](https://rafael.codes)
- - date_published: 2021-09-19T20:50:15+00:00
-
- ## Rambo.codes | Gui Rambo writes about his coding and reverse engineering adventures. | Rambo Codes
- - [https://rambo.codes](https://rambo.codes)
- - date_published: 2023-10-25T09:03:57.646840+00:00
  - tags: ['personal']
 

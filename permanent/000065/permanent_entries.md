@@ -1,4 +1,24 @@
  ## Blogger
+ - [http://windowinbetween.blogspot.com](http://windowinbetween.blogspot.com)
+ - date_published: 2024-07-20T21:14:38.644153+00:00
+
+ ## Window on Eurasia -- New Series
+ - [http://windowoneurasia2.blogspot.com](http://windowoneurasia2.blogspot.com)
+ - date_published: 2024-06-30T20:18:14+00:00
+
+ ## Windows Incident Response
+ - [http://windowsir.blogspot.com](http://windowsir.blogspot.com)
+ - date_published: 2024-07-09T11:13:49+00:00
+
+ ## WindRose Hotel
+ - [http://windrosehotel.blogspot.com](http://windrosehotel.blogspot.com)
+ - date_published: 2024-06-09T21:38:41+00:00
+
+ ## Wind Spot Demo
+ - [https://windspot-demo.blogspot.com](https://windspot-demo.blogspot.com)
+ - date_published: 2024-03-12T23:56:42+00:00
+
+ ## Blogger
  - [http://wineink.blogspot.com](http://wineink.blogspot.com)
  - date_published: 2024-07-20T09:22:47.422910+00:00
 
@@ -4026,24 +4046,4 @@
  ## Homepage | Lupus Science & Medicine
  - [https://lupus.bmj.com](https://lupus.bmj.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## BMJ clinical CPD courses for GPs, Physicians and Nurses.
- - [http://masterclasses.bmj.com](http://masterclasses.bmj.com)
- - date_published: 2024-07-03T15:32:25.417082+00:00
-
- ## Homepage | BMJ Mental Health
- - [https://mentalhealth.bmj.com](https://mentalhealth.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Medical Humanities
- - [https://mh.bmj.com](https://mh.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Homepage | BMJ Military Health
- - [https://militaryhealth.bmj.com](https://militaryhealth.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## BMJ My Account - Sign in
- - [https://myaccount.bmj.com](https://myaccount.bmj.com)
- - date_published: 2024-05-08T03:00:54.563195+00:00
 

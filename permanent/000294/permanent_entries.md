@@ -1,3 +1,84 @@
+ ## KLIMADAT térinformatikai rendszer
+ - [http://klimadat.met.hu](http://klimadat.met.hu)
+ - date_published: 2024-08-08T15:05:50.000922+00:00
+
+ ## Országos Légszennyezettségi Mérőhálózat
+ - [https://legszennyezettseg.met.hu](https://legszennyezettseg.met.hu)
+ - date_published: 2024-08-08T15:05:59.006384+00:00
+
+ ## HungaroMet Meteora
+ - [http://meteora.met.hu](http://meteora.met.hu)
+ - date_published: 2024-02-13T03:44:45+00:00
+
+ ## met.hu - HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.
+ - [https://met.hu](https://met.hu)
+ - date_published: 2024-04-28T00:23:18+00:00
+
+ ## Meta Consulting – Create value from data
+ - [https://www.metaconsulting.hu](https://www.metaconsulting.hu)
+ - date_published: 2024-06-22T13:19:35.105675+00:00
+
+ ## Családi Ház és Lakásfelújítás, Generálkivitelezés | METE Építő
+ - [https://mete.hu](https://mete.hu)
+ - date_published: 2024-10-20T12:51:03.291693+00:00
+
+ ## Főoldal
+ - [https://www.metlife.hu](https://www.metlife.hu)
+ - date_published: 2024-07-19T16:39:36+00:00
+
+ ## Metropol - Az utca hangja. Hiteles tartalom | metropol.hu
+ - [https://metropol.hu](https://metropol.hu)
+ - date_published: 2024-09-04T04:19:49.707834+00:00
+
+ ## Millásreggeli • gazdasági muppet show
+ - [https://millasreggeli.hu](https://millasreggeli.hu)
+ - date_published: 2024-07-09T06:57:37.966261+00:00
+
+ ## Milyen nap van
+ - [https://milyennapvanma.hu](https://milyennapvanma.hu)
+ - date_published: 2024-06-01T05:15:08.860782+00:00
+ - tags: ['personal']
+
+ ## Mindmegette
+ - [https://www.mindmegette.hu](https://www.mindmegette.hu)
+ - date_published: 2024-09-04T04:20:03.872657+00:00
+
+ ## Nyitólap HU - Orbán Viktor
+ - [https://miniszterelnok.hu](https://miniszterelnok.hu)
+ - date_published: 2022-11-09T17:21:52+00:00
+
+ ## MixIt
+ - [https://www.mixit.hu](https://www.mixit.hu)
+ - date_published: 2024-07-17T11:57:05+00:00
+
+ ## MNB Adatszolgáltatói Portál - Kezdőlap
+ - [https://aszp.mnb.hu](https://aszp.mnb.hu)
+ - date_published: 2024-10-11T22:20:53.957834+00:00
+
+ ## Bejelentkezés az egyenleg lekérdező alkalmazásba / Login to the online query application
+ - [https://eszlaweb.mnb.hu](https://eszlaweb.mnb.hu)
+ - date_published: 2024-10-11T22:20:52.827211+00:00
+
+ ## Főoldal
+ - [https://mnb.hu](https://mnb.hu)
+ - date_published: 2024-10-11T22:20:56.307324+00:00
+
+ ## MNB Statisztika
+ - [https://statisztika.mnb.hu](https://statisztika.mnb.hu)
+ - date_published: 2024-10-11T22:20:58.862506+00:00
+
+ ## Főoldal
+ - [https://zoldpenzugyitermek.mnb.hu](https://zoldpenzugyitermek.mnb.hu)
+ - date_published: 2024-10-11T22:20:51.331403+00:00
+
+ ## mndl.hu
+ - [https://mndl.hu](https://mndl.hu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Mnemotechnika
+ - [https://mnemotechnika.hu](https://mnemotechnika.hu)
+ - date_published: 2024-06-02T10:52:06+00:00
+
  ## MOL
  - [https://mol.hu](https://mol.hu)
  - date_published: 2024-06-24T07:30:44+00:00
@@ -3927,85 +4008,4 @@
  ## Penjualan dan jasa pembuatan program pos|retail|koperasi|klinik
  - [https://coinbali.web.id](https://coinbali.web.id)
  - date_published: 2023-09-16T12:49:26+00:00
-
- ## Search for services or information
- - [https://gov.ie](https://gov.ie)
- - date_published: 2024-05-11T08:23:02.787333+00:00
-
- ## Department of Agriculture, Food and the Marine
- - [https://www.agriculture.gov.ie](https://www.agriculture.gov.ie)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Department of Tourism, Culture, Arts, Gaeltacht, Sport and Media
- - [https://chg.gov.ie](https://chg.gov.ie)
- - date_published: 2024-07-13T12:28:49.662178+00:00
-
- ## Creative Ireland - Connecting people, creativity and wellbeing
- - [https://www.creativeireland.gov.ie](https://www.creativeireland.gov.ie)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## PSB Data Catalogue - PSB Data Catalogue
- - [https://datacatalogue.gov.ie](https://datacatalogue.gov.ie)
- - date_published: 2024-08-08T18:34:44.627706+00:00
-
- ## European Structural and Investment Funds in Ireland 2014-2020 | EU Funding: the European Structural and Investment Funding in Ireland
- - [https://eufunds.gov.ie](https://eufunds.gov.ie)
- - date_published: 2024-05-08T12:18:40.838731+00:00
-
- ## Department of Housing, Local Government and Heritage
- - [https://housing.gov.ie](https://housing.gov.ie)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Department of Public Expenditure, NDP Delivery and Reform
- - [http://www.per.gov.ie](http://www.per.gov.ie)
- - date_published: 2024-07-08T17:44:56.114614+00:00
-
- ## Home - 2rn
- - [https://www.2rn.ie](https://www.2rn.ie)
- - date_published: 2024-08-18T13:38:44.339172+00:00
-
- ## Ireland | 3M Ireland
- - [https://www.3mireland.ie](https://www.3mireland.ie)
- - date_published: 2024-08-06T10:41:26.769918+00:00
-
- ## Abbey Presbyterian Church, Parnell Square North, Dublin, Ireland.
- - [http://www.abbeychurch.ie](http://www.abbeychurch.ie)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://abbv.ie](https://abbv.ie)
- - date_published: 2024-07-09T16:32:33.512698+00:00
-
- ## Online fashion from over 1500 top brands  | ABOUT YOU
- - [https://m.aboutyou.ie](https://m.aboutyou.ie)
- - date_published: 2024-09-17T19:20:17+00:00
-
- ## Online fashion from over 1500 top brands  | ABOUT YOU
- - [https://www.aboutyou.ie](https://www.aboutyou.ie)
- - date_published: 2024-09-17T15:19:33+00:00
-
- ## Achtanna » Fáilte
- - [http://www.acts.ie](http://www.acts.ie)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Adams Auctioneers of Dublin
- - [https://adams.ie](https://adams.ie)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Adam’s Auctioneers of Dublin
- - [https://content.adams.ie](https://content.adams.ie)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Elevate with Addy Osmani
- - [https://addy.ie](https://addy.ie)
- - date_published: 2024-04-27T12:54:46+00:00
- - tags: ['personal']
-
- ## Developer Experience Book
- - [https://dx.addy.ie](https://dx.addy.ie)
- - date_published: 2024-04-27T08:04:53.824398+00:00
-
- ## Learning JavaScript Design Patterns
- - [https://patterns.addy.ie](https://patterns.addy.ie)
- - date_published: 2024-04-27T08:04:48.548415+00:00
 

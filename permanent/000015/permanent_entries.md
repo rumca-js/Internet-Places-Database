@@ -1,3 +1,11 @@
+ ## JP Camara
+ - [https://jpcamara.micro.blog](https://jpcamara.micro.blog)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## The Art Of Not Asking Why
+ - [https://jtr-test.micro.blog](https://jtr-test.micro.blog)
+ - date_published: 2024-06-26T17:37:39+00:00
+
  ## Ken Kocienda
  - [https://kocienda.micro.blog](https://kocienda.micro.blog)
  - date_published: 2024-04-11T17:12:36+00:00
@@ -4033,12 +4041,4 @@ Educação
  ## Ferramentas Simples para Construir Produtos Incríveis - Inflectra Brasil
  - [http://www.inflectra.com.br](http://www.inflectra.com.br)
  - date_published: 2023-09-03T23:50:20+00:00
-
- ## home - Especialista em Tráfego Pago
- - [https://infoextreme.com.br](https://infoextreme.com.br)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Inhotim Loja Design
- - [https://2022up.inhotimloja.com.br](https://2022up.inhotimloja.com.br)
- - date_published: 2024-09-02T16:11:57.509905+00:00
 

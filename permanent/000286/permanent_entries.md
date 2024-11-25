@@ -1,3 +1,83 @@
+ ## Vaevictis magazine - VaeVictis
+ - [https://www.vaevictismag.fr](https://www.vaevictismag.fr)
+ - date_published: 2024-07-02T21:47:31.910140+00:00
+
+ ## Vaillant France - Le bien-être chez soi | Fabricant chauffage
+ - [https://www.vaillant.fr](https://www.vaillant.fr)
+ - date_published: 2024-09-27T21:16:31.534536+00:00
+
+ ## Valeo Service | L'après-vente automobile
+ - [https://www.valeoservice.fr](https://www.valeoservice.fr)
+ - date_published: 2024-10-31T11:24:33+00:00
+
+ ## Validata – Accueil
+ - [https://validata.fr](https://validata.fr)
+ - date_published: 2024-09-14T22:12:07.728324+00:00
+
+ ## V and B Fest' - Du 23 au 25 août 2024 - Château-Gontier (53)
+ - [https://vandbfest.fr](https://vandbfest.fr)
+ - date_published: 2024-05-08T00:39:48.249241+00:00
+
+ ## Vanessa Jesné - Création de sites web éthiques
+ - [https://www.vanessa-jesne.fr](https://www.vanessa-jesne.fr)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Les Newsletters Vanity Fair
+ - [https://newsletter.vanityfair.fr](https://newsletter.vanityfair.fr)
+ - date_published: 2024-06-25T13:12:36+00:00
+
+ ## Magazine Vanity Fair France
+ - [https://www.vanityfair.fr](https://www.vanityfair.fr)
+ - date_published: 2024-05-06T21:32:39.400442+00:00
+
+ ## Study in the Best Hospitality Management School in France
+ - [https://www.vatel.fr](https://www.vatel.fr)
+ - date_published: 2024-07-01T04:48:37.685459+00:00
+
+ ## Open Virtualization Platform - VM infrastructure made simple
+ - [https://vates.fr](https://vates.fr)
+ - date_published: 2024-06-21T21:50:00+00:00
+
+ ## mediaspot.io
+ - [https://studiocanal-digitalfactory.vdm.fr](https://studiocanal-digitalfactory.vdm.fr)
+ - date_published: 2024-10-24T07:52:27+00:00
+
+ ## Veepee - Accueil
+ - [https://www.veepee.fr](https://www.veepee.fr)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## vegconomist – le magazine de l'économie végane
+ - [https://vegconomist.fr](https://vegconomist.fr)
+ - date_published: 2024-05-06T21:35:05.026895+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://www.velcro.fr](https://www.velcro.fr)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Véligo Location - Location de vélo électrique en Île-de-France
+ - [https://www.veligo-location.fr](https://www.veligo-location.fr)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## Velvetyne
+ - [https://velvetyne.fr](https://velvetyne.fr)
+ - date_published: 2024-06-19T16:29:59.313566+00:00
+
+ ## Découvrez les Aventures potables d'une goutte d'eau - par Veolia
+ - [https://experience.eau.veolia.fr](https://experience.eau.veolia.fr)
+ - date_published: 2024-08-06T20:07:38.450086+00:00
+
+ ## https://www.veracrypt.fr
+ - [https://veracrypt.fr](https://veracrypt.fr)
+ - date_published: 2021-03-13T21:12:22+00:00
+
+ ## Verilor : Comparateur de produits financiers
+ - [https://verilor.fr](https://verilor.fr)
+ - date_published: 2024-06-15T01:15:13.042153+00:00
+
+ ## Cabinet de Conseil en Gestion de Patrimoine à Paris - Verney Conseil
+ - [https://verneyconseil.fr](https://verneyconseil.fr)
+ - date_published: 2024-01-16T00:00:00+00:00
+
  ## Technologies du Langage
  - [http://blog.veronis.fr](http://blog.veronis.fr)
  - date_published: 2024-06-17T00:30:58+00:00
@@ -3957,85 +4037,4 @@ Secrétariat d'État chargé de la Mer
  ## React App
  - [https://1983.gent](https://1983.gent)
  - date_published: 2019-09-21T22:43:42+00:00
-
- ## WITT - Webdesign en branding studio uit Gent
- - [https://witt.gent](https://witt.gent)
- - date_published: 2024-07-19T18:45:48.345512+00:00
-
- ## Gamification 2
- - [https://gamification.zeus.gent](https://gamification.zeus.gent)
- - date_published: 2024-08-19T11:13:39.966412+00:00
-
- ## Zeus WPI
- - [https://mattermost.zeus.gent](https://mattermost.zeus.gent)
- - date_published: 2024-08-19T11:13:39.175275+00:00
-
- ## ZeusWPI
- - [https://pics.zeus.gent](https://pics.zeus.gent)
- - date_published: 2024-08-19T11:13:37.760850+00:00
-
- ## Zeus WPI: WerkgroeP Informatica van de Universiteit Gent
- - [https://zeus.gent](https://zeus.gent)
- - date_published: 2024-08-07T06:13:32+00:00
-
- ## Abarth | Constructeur de Voitures de sport | Abarth Guyane
- - [https://www.abarth.gf](https://www.abarth.gf)
- - date_published: 2024-06-28T10:27:16+00:00
-
- ## Citroën Guyane : Vente et achat de voitures neuves
- - [https://citroen.gf](https://citroen.gf)
- - date_published: 2023-12-11T15:49:41.790122+00:00
-
- ## Service Plan - Citroen
- - [https://rendezvousenligne.citroen.gf](https://rendezvousenligne.citroen.gf)
- - date_published: 2024-05-10T04:45:27.345879+00:00
-
- ## Jeep® SUVs & Crossovers - Official Jeep Site
- - [https://www.jeep.gf](https://www.jeep.gf)
- - date_published: 1940-11-11T00:00:00+00:00
-
- ## METEO GUYANE par Météo-France - Prévisions Météo gratuites à 15 jours sur toutes les villes de la Guyane
- - [https://meteofrance.gf](https://meteofrance.gf)
- - date_published: 2024-07-03T19:33:12.085250+00:00
-
- ## Pièces auto en Guyane Française à bas prix - MISTER-AUTO
- - [https://www.mister-auto.gf](https://www.mister-auto.gf)
- - date_published: 2024-10-31T02:38:30.159314+00:00
-
- ## Accueil - Constructeur Automobile  | Opel Guyane
- - [https://www.opel.gf](https://www.opel.gf)
- - date_published: 2024-07-09T13:15:34+00:00
-
- ## Abby - Your AI Therapist. 100% Free, Available 24/7
- - [https://abby.gg](https://abby.gg)
- - date_published: 2024-10-30T14:48:25+00:00
-
- ## Adlab | Stream, play and get paid
- - [https://adlab.gg](https://adlab.gg)
- - date_published: 2024-07-03T12:09:25.828348+00:00
-
- ## Guernsey Airport Official Website | Channel Islands
- - [https://www.airport.gg](https://www.airport.gg)
- - date_published: 2024-05-04T08:57:36.523985+00:00
-
- ## Allstar: Play. Share. Star. | Free Cloud-Based Clip Capture, Just Type !Allstar
- - [https://allstar.gg](https://allstar.gg)
- - date_published: 2024-07-07T17:43:55+00:00
-
- ## Build On The Edge Of Gaming
- - [https://ancient8.gg](https://ancient8.gg)
- - date_published: 2024-07-17T09:09:34+00:00
-
- ## Ancient8 blockchain explorer | Blockscout
- - [https://scan.ancient8.gg](https://scan.ancient8.gg)
- - date_published: 2024-06-22T05:50:19.275083+00:00
-
- ## Ancient8 Celestia Testnet blockchain explorer - View Ancient8 Celestia Testnet stats | Blockscout
- - [https://scanv2-testnet.ancient8.gg](https://scanv2-testnet.ancient8.gg)
- - date_published: 2024-09-24T02:07:14.196907+00:00
-
- ## Build Guides, Tools, Trackers, and more - ArreatSummit.gg
- - [https://arreatsummit.gg](https://arreatsummit.gg)
- - date_published: 2024-05-20T00:00:00+00:00
- - tags: ['fan page', 'diablo']
 

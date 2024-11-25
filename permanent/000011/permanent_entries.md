@@ -1,4 +1,12 @@
  ## Home
+ - [https://wooliesx.com.au](https://wooliesx.com.au)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Woolworths Supermarket - Buy Groceries Online
+ - [https://www.woolworths.com.au](https://www.woolworths.com.au)
+ - date_published: 2024-07-12T07:48:11.343890+00:00
+
+ ## Home
  - [https://woolworthsgroup.com.au](https://woolworthsgroup.com.au)
  - date_published: 2024-01-23T00:00:00+00:00
 
@@ -4015,12 +4023,4 @@ University of Technology
  ## Hydrogen Society of Australia
  - [https://hydrogensociety.org.au](https://hydrogensociety.org.au)
  - date_published: 2024-09-03T04:12:08+00:00
-
- ## Textbooks Archives - AMSI Schools
- - [http://www.icemaths.org.au](http://www.icemaths.org.au)
- - date_published: 2017-04-12T00:00:00+00:00
-
- ## Investor Group on Climate Change
- - [https://igcc.org.au](https://igcc.org.au)
- - date_published: 2024-05-07T00:00:00+00:00
 

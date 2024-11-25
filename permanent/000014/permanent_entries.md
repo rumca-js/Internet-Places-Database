@@ -1,3 +1,11 @@
+ ## Yelp
+ - [https://nl.m.yelp.be](https://nl.m.yelp.be)
+ - date_published: 2024-07-01T06:59:29.069979+00:00
+
+ ## Yelp
+ - [https://nl.yelp.be](https://nl.yelp.be)
+ - date_published: 2024-07-01T06:59:24.482459+00:00
+
  ## Invidious - search
  - [https://yewtu.be](https://yewtu.be)
  - date_published: 2023-10-24T20:05:36.098030+00:00
@@ -4051,12 +4059,4 @@
 		- Jacob Graudin
  - [https://jbgraudin.micro.blog](https://jbgraudin.micro.blog)
  - date_published: 2024-07-06T18:29:04+00:00
-
- ## JP Camara
- - [https://jpcamara.micro.blog](https://jpcamara.micro.blog)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## The Art Of Not Asking Why
- - [https://jtr-test.micro.blog](https://jtr-test.micro.blog)
- - date_published: 2024-06-26T17:37:39+00:00
 

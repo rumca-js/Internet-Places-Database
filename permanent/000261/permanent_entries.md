@@ -1,3 +1,83 @@
+ ## University of Hawai'i College of Engineering
+ - [https://www.eng.hawaii.edu](https://www.eng.hawaii.edu)
+ - date_published: 2024-07-21T22:54:22.750489+00:00
+
+ ## Information and Computer Sciences – University of Hawai‘i at Mānoa
+ - [http://www.ics.hawaii.edu](http://www.ics.hawaii.edu)
+ - date_published: 2024-09-03T21:19:08.414165+00:00
+
+ ## Home
+ - [https://www.leeward.hawaii.edu](https://www.leeward.hawaii.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Your future is our focus.
+ - [https://www.outreach.hawaii.edu](https://www.outreach.hawaii.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Banner 8 Self-Service (SSB)
+ - [https://www.sis.hawaii.edu](https://www.sis.hawaii.edu)
+ - date_published: 2019-07-16T00:21:05+00:00
+
+ ## Get Your Degree at a Distance
+ - [https://www.uhonline.hawaii.edu](https://www.uhonline.hawaii.edu)
+ - date_published: 2024-07-21T23:03:44.785157+00:00
+
+ ## Alumni - Harvard Business School
+ - [https://alumni.hbs.edu](https://alumni.hbs.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Fast Answers - Fast Answers
+ - [https://asklib.library.hbs.edu](https://asklib.library.hbs.edu)
+ - date_published: 2024-07-21T22:53:34.484533+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://cloudinary.hbs.edu](https://cloudinary.hbs.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home | Digital Data Design Institute at Harvard
+ - [https://digital.hbs.edu](https://digital.hbs.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Entrepreneurship - Harvard Business School
+ - [https://entrepreneurship.hbs.edu](https://entrepreneurship.hbs.edu)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Harvard Business School
+ - [https://hbs.edu](https://hbs.edu)
+ - date_published: 2024-07-21T22:53:41.961269+00:00
+
+ ## HBS Working Knowledge – Harvard Business School Faculty Research
+ - [https://hbswk.hbs.edu](https://hbswk.hbs.edu)
+ - date_published: 2023-10-25T18:52:16.527569+00:00
+
+ ## Baker Library | Bloomberg Center | Harvard Business School
+ - [https://library.hbs.edu](https://library.hbs.edu)
+ - date_published: 2024-04-30T04:55:49.228900+00:00
+
+ ## Harvard Business School Online Courses & Learning Platforms
+ - [https://online.hbs.edu](https://online.hbs.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Executive Education - Harvard Business School
+ - [https://www.exed.hbs.edu](https://www.exed.hbs.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Institute For Strategy And Competitiveness - Harvard Business School
+ - [https://www.isc.hbs.edu](https://www.isc.hbs.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Search for Classes | HCC
+ - [https://classes.hccfl.edu](https://classes.hccfl.edu)
+ - date_published: 2024-04-04T17:22:28+00:00
+
+ ## Home | Hillsborough Community College
+ - [https://hccfl.edu](https://hccfl.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Center for International Education
+ - [https://international.hccfl.edu](https://international.hccfl.edu)
+ - date_published: 2024-02-08T22:24:58.075754+00:00
+
  ## MyHCC
  - [https://my.hccfl.edu](https://my.hccfl.edu)
  - date_published: 2024-04-16T02:08:01+00:00
@@ -3929,84 +4009,4 @@ Data Services
  ## KU Today | The University of Kansas
  - [https://today.ku.edu](https://today.ku.edu)
  - date_published: 2023-10-25T18:53:30.550703+00:00
-
- ## Homepage
- - [https://tsc.ku.edu](https://tsc.ku.edu)
- - date_published: 2024-07-01T12:35:09.302051+00:00
-
- ## KU Web Media Directory
- - [https://webmedia.ku.edu](https://webmedia.ku.edu)
- - date_published: 2022-07-08T20:22:40+00:00
-
- ## Homepage
- - [https://websupport.ku.edu](https://websupport.ku.edu)
- - date_published: 2024-07-01T12:47:48.298351+00:00
-
- ## Institute for Information Sciences Home
- - [http://www.ittc.ku.edu](http://www.ittc.ku.edu)
- - date_published: 2024-07-11T07:54:48.309671+00:00
-
- ## Museum
- - [http://clendening.kumc.edu](http://clendening.kumc.edu)
- - date_published: 2024-06-24T09:45:39.504342+00:00
-
- ## University of Kansas Medical Center
- - [https://www.kumc.edu](https://www.kumc.edu)
- - date_published: 2024-07-01T12:35:40.463773+00:00
-
- ## Home of the Kutztown University Research Commons
- - [https://research.library.kutztown.edu](https://research.library.kutztown.edu)
- - date_published: 2024-07-02T10:48:37.331167+00:00
-
- ## Kutztown University
- - [https://www.kutztown.edu](https://www.kutztown.edu)
- - date_published: 2024-07-09T17:16:44.114611+00:00
-
- ## Accessibility at K –  | Kalamazoo College
- - [https://access.kzoo.edu](https://access.kzoo.edu)
- - date_published: 2024-05-07T19:24:30.279103+00:00
-
- ## Arcus Center Radical Futures Now Podcast –  | Kalamazoo College
- - [http://acsjlradicalfutures.kzoo.edu](http://acsjlradicalfutures.kzoo.edu)
- - date_published: 2024-07-01T14:31:48.756964+00:00
-
- ## Admission –  | Kalamazoo College
- - [https://admission.kzoo.edu](https://admission.kzoo.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Advising –  | Kalamazoo College
- - [https://advising.kzoo.edu](https://advising.kzoo.edu)
- - date_published: 2024-05-07T19:22:03.340633+00:00
-
- ## African Studies –  | Kalamazoo College
- - [https://africanstudies.kzoo.edu](https://africanstudies.kzoo.edu)
- - date_published: 2024-05-07T19:24:27.952564+00:00
-
- ## American Studies –  | Kalamazoo College
- - [https://americanstudies.kzoo.edu](https://americanstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:30.207816+00:00
-
- ## Anthropology and Sociology –  | Kalamazoo College
- - [https://anso.kzoo.edu](https://anso.kzoo.edu)
- - date_published: 2024-05-07T19:22:50.972691+00:00
-
- ## Alcohol and Other Drugs – Education, Prevention, and Intervention –  | Kalamazoo College
- - [https://aod.kzoo.edu](https://aod.kzoo.edu)
- - date_published: 2024-05-07T19:23:08.531810+00:00
-
- ## Admission –  | Kalamazoo College
- - [https://apply.kzoo.edu](https://apply.kzoo.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Arabic –  | Kalamazoo College
- - [https://arabic.kzoo.edu](https://arabic.kzoo.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Lillian Anderson Arboretum –  | Kalamazoo College
- - [https://arboretum.kzoo.edu](https://arboretum.kzoo.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## College Archives –  | Kalamazoo College
- - [https://archives.kzoo.edu](https://archives.kzoo.edu)
- - date_published: 2024-05-07T19:23:11.169551+00:00
 

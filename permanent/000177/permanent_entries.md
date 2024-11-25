@@ -1,3 +1,55 @@
+ ## https://rexresearch.com
+ - [https://rexresearch.com](https://rexresearch.com)
+ - date_published: 2013-12-02T17:44:29+00:00
+
+ ## Rex Swain's Home Page
+ - [http://rexswain.com](http://rexswain.com)
+ - date_published: 2023-11-14T23:08:44+00:00
+
+ ## REX Technologie | Der Vakuumfüller  & Portioniersysteme
+ - [https://www.rex-technologie.com](https://www.rex-technologie.com)
+ - date_published: 2024-10-31T09:58:15.886193+00:00
+
+ ## Innovative Software, die Mittelstand & Konzerne begeistert
+ - [https://www.rexx-systems.com](https://www.rexx-systems.com)
+ - date_published: 2020-09-28T19:22:46+00:00
+
+ ## Rexy Tseng 曾慶強
+ - [http://rexytseng.com](http://rexytseng.com)
+ - date_published: 2024-10-29T11:44:36.758573+00:00
+
+ ## Reykjavik Raincoats
+ - [https://www.reykjavikraincoats.com](https://www.reykjavikraincoats.com)
+ - date_published: 2024-05-06T15:12:06.868558+00:00
+
+ ## Custom Optics and Thin-Film Coatings - Reynard Corporation
+ - [http://www.reynardcorp.com](http://www.reynardcorp.com)
+ - date_published: 2024-10-19T03:54:23.722344+00:00
+
+ ## Reza
+ - [http://www.rezab.com](http://www.rezab.com)
+ - date_published: 2024-03-23T18:18:10+00:00
+
+ ## Lights Over Lapland Reservations
+ - [https://lightsoverlapland.rezdy.com](https://lightsoverlapland.rezdy.com)
+ - date_published: 2024-08-11T03:28:01.157306+00:00
+
+ ## Mayawalk Tours Reservations
+ - [https://mayawalk.rezdy.com](https://mayawalk.rezdy.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home - Jon Evans
+ - [http://www.rezendi.com](http://www.rezendi.com)
+ - date_published: 2023-04-01T00:03:30+00:00
+
+ ## Rezilion | Automated Software Supply Chain Security Platform
+ - [https://www.rezilion.com](https://www.rezilion.com)
+ - date_published: 2024-07-22T17:22:59.043327+00:00
+
+ ## Rezolutions Design – Shopify E-Commerce Professional Developers
+ - [https://rezolutionsdesign.com](https://rezolutionsdesign.com)
+ - date_published: 2024-06-22T05:06:00+00:00
+
  ## Rezon8AI - Master Your Online Reputation
  - [https://rezon8ai.com](https://rezon8ai.com)
  - date_published: 2024-06-19T19:40:22.968422+00:00
@@ -2147,6 +2199,10 @@
  - [https://engineering.riotgames.com](https://engineering.riotgames.com)
  - date_published: 2024-05-06T21:47:38.570896+00:00
 
+ ## Homepage | Riot Games Store
+ - [https://merch.riotgames.com](https://merch.riotgames.com)
+ - date_published: 2024-11-24T18:43:53.253709+00:00
+
  ## Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports.
  - [https://riotgames.com](https://riotgames.com)
  - date_published: 2024-06-20T19:50:09+00:00
@@ -3995,61 +4051,4 @@ Robertson County Sheriff's Office
  ## Join Robinhood with my referral link. Limitations apply.
  - [https://join.robinhood.com](https://join.robinhood.com)
  - date_published: 2024-06-15T02:24:21.931102+00:00
-
- ## Your financial journey starts here | Robinhood Learn
- - [https://learn.robinhood.com](https://learn.robinhood.com)
- - date_published: 2024-05-01T02:03:27.547945+00:00
-
- ## Robinhood | Let’s put your money to work
- - [https://press.robinhood.com](https://press.robinhood.com)
- - date_published: 2024-05-01T02:03:09.081992+00:00
-
- ## Robinhood Crypto
- - [https://robinhood.com](https://robinhood.com)
- - date_published: 2024-05-01T02:03:04.311151+00:00
-
- ## Robinhood Merch Store
- - [https://shop.robinhood.com](https://shop.robinhood.com)
- - date_published: 2024-09-15T23:12:21.553483+00:00
-
- ## Snacks Archive
- - [https://snacks.robinhood.com](https://snacks.robinhood.com)
- - date_published: 2024-05-01T02:03:24.443176+00:00
-
- ## Robinhood Support
- - [https://support.robinhood.com](https://support.robinhood.com)
- - date_published: 2024-05-01T06:44:03.751148+00:00
-
- ## Under the Hood Podcast | Robinhood
- - [https://underthehoodpod.robinhood.com](https://underthehoodpod.robinhood.com)
- - date_published: 2024-05-06T13:43:01.534299+00:00
-
- ## NGO & volunteer work for food donation - Robin Hood Army
- - [https://robinhoodarmy.com](https://robinhoodarmy.com)
- - date_published: 2024-07-12T12:17:42+00:00
-
- ## Robinhood Cash Card
- - [https://www.robinhoodcashcard.com](https://www.robinhoodcashcard.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Robin Janssens
- - [https://robinjanssens.com](https://robinjanssens.com)
- - date_published: 2024-09-03T23:47:29.393070+00:00
-
- ## Robin Kothari's homepage
- - [https://robinkothari.com](https://robinkothari.com)
- - date_published: 2024-04-29T02:34:03.149099+00:00
-
- ## Robin Laws
- - [https://robinlawsart.com](https://robinlawsart.com)
- - date_published: 2024-06-21T22:34:18.309382+00:00
-
- ## Robin Linacre's blog
- - [https://robinlinacre.com](https://robinlinacre.com)
- - date_published: 2024-01-18T00:00:00+00:00
- - tags: ['personal']
-
- ## Robin Linus
- - [https://robinlinus.com](https://robinlinus.com)
- - date_published: 2024-08-18T13:09:53+00:00
 

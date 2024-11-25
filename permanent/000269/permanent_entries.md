@@ -1,3 +1,83 @@
+ ## MyFamily at UCSF
+ - [https://myfamily.ucsf.edu](https://myfamily.ucsf.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## University of California, San Francisco - MyAccess - Loading Session Information
+ - [https://netpartner.ucsf.edu](https://netpartner.ucsf.edu)
+ - date_published: 2024-07-02T01:48:41.626403+00:00
+
+ ## Home
+ - [https://neurosurgery.ucsf.edu](https://neurosurgery.ucsf.edu)
+ - date_published: 2024-07-02T01:35:56+00:00
+
+ ## Home
+ - [https://nic.ucsf.edu](https://nic.ucsf.edu)
+ - date_published: 2024-05-02T10:08:50.424455+00:00
+
+ ## Home | UCSF School of Nursing
+ - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
+ - date_published: 2024-05-07T21:09:24.970801+00:00
+
+ ## Home
+ - [http://ombuds.ucsf.edu](http://ombuds.ucsf.edu)
+ - date_published: 2024-07-02T01:39:56+00:00
+
+ ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
+ - [https://ophd.ucsf.edu](https://ophd.ucsf.edu)
+ - date_published: 2024-07-02T01:50:16+00:00
+
+ ## OCPD Opportunities and Job Board
+ - [https://opportunities.ucsf.edu](https://opportunities.ucsf.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## PAB at UCSF
+ - [https://pab.ucsf.edu](https://pab.ucsf.edu)
+ - date_published: 2024-07-02T01:54:14+00:00
+
+ ## Center for Community Engagement
+ - [https://partnerships.ucsf.edu](https://partnerships.ucsf.edu)
+ - date_published: 2024-07-02T01:52:57+00:00
+
+ ## The Tudors
+ - [https://pcounterwebdeposit.ucsf.edu](https://pcounterwebdeposit.ucsf.edu)
+ - date_published: 2023-03-12T15:09:12+00:00
+
+ ## UCSF School of Pharmacy
+ - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
+ - date_published: 2024-05-07T21:08:11.071638+00:00
+
+ ## Department of Pharmaceutical Chemistry
+ - [https://pharmchem.ucsf.edu](https://pharmchem.ucsf.edu)
+ - date_published: 2024-07-02T01:49:08+00:00
+
+ ## PharmD Degree Program
+ - [https://pharmd.ucsf.edu](https://pharmd.ucsf.edu)
+ - date_published: 2024-07-02T01:48:39+00:00
+
+ ## List of Sites
+ - [https://pharm.ucsf.edu](https://pharm.ucsf.edu)
+ - date_published: 2024-07-02T01:40:39+00:00
+
+ ## UCSF Brand Portal
+ - [https://photolibrary.ucsf.edu](https://photolibrary.ucsf.edu)
+ - date_published: 2024-07-02T01:49:48.240505+00:00
+
+ ## The Power of In-House Consulting
+ - [https://pmo.ucsf.edu](https://pmo.ucsf.edu)
+ - date_published: 2024-07-02T01:50:04+00:00
+
+ ## Home
+ - [https://police.ucsf.edu](https://police.ucsf.edu)
+ - date_published: 2024-05-07T21:08:45.814832+00:00
+
+ ## Home | Campus Administrative Policies
+ - [https://policies.ucsf.edu](https://policies.ucsf.edu)
+ - date_published: 2024-05-07T21:08:12.703899+00:00
+
+ ## Home
+ - [https://pophealth.ucsf.edu](https://pophealth.ucsf.edu)
+ - date_published: 2024-07-02T01:53:17+00:00
+
  ## UCSF Postdocs
  - [https://postdocs.ucsf.edu](https://postdocs.ucsf.edu)
  - date_published: 2024-05-07T21:08:43.275417+00:00
@@ -3923,84 +4003,4 @@
  ## Home | Department of Communication
  - [http://comm.umd.edu](http://comm.umd.edu)
  - date_published: 2024-09-17T20:24:39+00:00
-
- ## Home | Department of Communication
- - [https://communication.umd.edu](https://communication.umd.edu)
- - date_published: 2024-09-17T20:24:39+00:00
-
- ## Center for Research and Exploration in Space Sciences & Technology II
- - [https://cresst2.umd.edu](https://cresst2.umd.edu)
- - date_published: 2024-07-20T10:09:32.419900+00:00
-
- ## Center for Research and Exploration in Space Sciences & Technology II
- - [https://cresst.umd.edu](https://cresst.umd.edu)
- - date_published: 2024-07-20T10:06:15.413060+00:00
-
- ## Welcome | UMD Department of Computer Science
- - [https://cs.umd.edu](https://cs.umd.edu)
- - date_published: 2023-10-25T19:02:00.597734+00:00
-
- ## IU Webmaster redirect
- - [http://cufflinks.cbcb.umd.edu](http://cufflinks.cbcb.umd.edu)
- - date_published: 2014-12-10T18:45:40+00:00
-
- ## Deep Impact: Your First Look Inside a Comet!
- - [https://deepimpact.astro.umd.edu](https://deepimpact.astro.umd.edu)
- - date_published: 2024-07-20T10:08:29.458044+00:00
-
- ## DeVos Institute of Arts Management at the University of Maryland
- - [http://devosinstitute.umd.edu](http://devosinstitute.umd.edu)
- - date_published: 2024-07-02T03:36:52.617686+00:00
-
- ## Do Good Robotics Symposium  | October 3-4, 2019 | University of Maryland, College Park
- - [https://dgrs.umd.edu](https://dgrs.umd.edu)
- - date_published: 2024-06-22T08:25:41+00:00
-
- ## Home | UMD Dining Services
- - [http://dining.umd.edu](http://dining.umd.edu)
- - date_published: 2024-07-02T03:37:08+00:00
-
- ## DGI | Do Good Institute
- - [http://dogood.umd.edu](http://dogood.umd.edu)
- - date_published: 2024-07-02T03:36:05+00:00
-
- ## Home | The David C. Driskell Center
- - [http://driskellcenter.umd.edu](http://driskellcenter.umd.edu)
- - date_published: 2024-09-17T20:24:47+00:00
-
- ## Digital Studies in Arts and Humanities
- - [https://dsah.umd.edu](https://dsah.umd.edu)
- - date_published: 2024-09-18T08:35:02.770767+00:00
-
- ## Department of Electrical and Computer Engineering
- - [https://ece.umd.edu](https://ece.umd.edu)
- - date_published: 2024-05-04T15:19:47.511806+00:00
-
- ## University of Maryland College Park Employment Site | Home
- - [https://ejobs.umd.edu](https://ejobs.umd.edu)
- - date_published: 2024-05-07T21:26:28.719146+00:00
-
- ## UMD Department of English
- - [https://english.umd.edu](https://english.umd.edu)
- - date_published: 2024-09-17T20:30:03+00:00
-
- ## A. James Clark School of Engineering, University of Maryland
- - [https://eng.umd.edu](https://eng.umd.edu)
- - date_published: 2024-06-22T08:33:46+00:00
-
- ## NASA - EPOXI Mission - Home
- - [https://epoxi.astro.umd.edu](https://epoxi.astro.umd.edu)
- - date_published: 2024-07-20T10:09:26.786568+00:00
-
- ## Home | Environmental Safety, Sustainability and Risk
- - [https://essr.umd.edu](https://essr.umd.edu)
- - date_published: 2024-06-27T16:19:13+00:00
-
- ## Home | University of Maryland Extended Studies
- - [https://exst.umd.edu](https://exst.umd.edu)
- - date_published: 2024-07-01T22:03:13+00:00
-
- ## University of Maryland Extension | University of Maryland Extension
- - [https://extension.umd.edu](https://extension.umd.edu)
- - date_published: 2024-09-04T15:13:40+00:00
 

@@ -1,3 +1,83 @@
+ ## Shibboleth Authentication Request
+ - [https://eaccess.tum.edu](https://eaccess.tum.edu)
+ - date_published: 2024-07-24T04:20:54.072651+00:00
+
+ ## Golden Tiger Network Website
+ - [https://alumni.tuskegee.edu](https://alumni.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:19.880439+00:00
+
+ ## Admissions | Tuskegee University
+ - [https://apply.tuskegee.edu](https://apply.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:28.558811+00:00
+
+ ## Tuskegee University - Acalog ACMS™
+ - [http://catalog.tuskegee.edu](http://catalog.tuskegee.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Department Directory
+ - [https://directory.tuskegee.edu](https://directory.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:37.564170+00:00
+
+ ## Tuskegee University eLearning
+ - [https://elearning.tuskegee.edu](https://elearning.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:35.997770+00:00
+
+ ## MyPhoto - Tuskegee University
+ - [https://mytuphoto.tuskegee.edu](https://mytuphoto.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:14.400484+00:00
+
+ ## Sign in to your account
+ - [https://tuhelpdesk.tuskegee.edu](https://tuhelpdesk.tuskegee.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Tuskegee University
+ - [https://tuskegee.edu](https://tuskegee.edu)
+ - date_published: 2024-05-08T11:43:25.937647+00:00
+
+ ## Tuskegee Scholarly Publications | Tuskegee University Research
+ - [http://tuspubs.tuskegee.edu](http://tuspubs.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:21.956813+00:00
+
+ ## Career Connections | Texas Woman's University
+ - [https://careerconnections.twu.edu](https://careerconnections.twu.edu)
+ - date_published: 2024-09-15T13:09:02.935639+00:00
+
+ ## Catalog Home | Texas Woman's University Catalog
+ - [https://catalog.twu.edu](https://catalog.twu.edu)
+ - date_published: 2024-08-09T19:29:31+00:00
+
+ ## Make a Gift - Texas Woman's University Foundation
+ - [https://giving.twu.edu](https://giving.twu.edu)
+ - date_published: 2024-09-15T13:07:29.779848+00:00
+
+ ## Texas Woman’s University
+ - [https://portal.twu.edu](https://portal.twu.edu)
+ - date_published: 2024-09-15T13:07:33.198572+00:00
+
+ ## TWU Home | Texas Woman's University | BOLDLY GO
+ - [https://twu.edu](https://twu.edu)
+ - date_published: 2024-06-14T19:47:39.747033+00:00
+
+ ## TWU Registration
+ - [https://webadvisor.twu.edu](https://webadvisor.twu.edu)
+ - date_published: 2009-11-21T05:05:13+00:00
+
+ ## Faculty Profiles
+ - [https://faculty.txstate.edu](https://faculty.txstate.edu)
+ - date_published: 2024-09-05T07:21:00+00:00
+
+ ## ICPC Asia Council Chair CJ Hwang Blog – ICPC Asia Governor 亚洲主席黄金雄 (西杰)博客
+ - [http://icpcasia.wp.txstate.edu](http://icpcasia.wp.txstate.edu)
+ - date_published: 2024-06-22T21:05:49.732763+00:00
+
+ ## Texas State University
+ - [https://www.txstate.edu](https://www.txstate.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## kcsmalley@ua.edu –  | The University of Alabama
+ - [https://accessibility.ua.edu](https://accessibility.ua.edu)
+ - date_published: 2024-05-07T20:41:05.062467+00:00
+
  ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
  - [https://accessibleweb.as.ua.edu](https://accessibleweb.as.ua.edu)
  - date_published: 2024-05-07T20:39:39.735712+00:00
@@ -3944,84 +4024,4 @@
  ## Home – UCLA Housing | Housing
  - [https://housing.ucla.edu](https://housing.ucla.edu)
  - date_published: 2024-07-01T22:38:01+00:00
-
- ## Careers Home | UCLA
- - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Humanities Division - UCLA
- - [http://humanities.ucla.edu](http://humanities.ucla.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - HumTech - UCLA
- - [https://humtech.ucla.edu](https://humtech.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Integrated Diagnostics IDx Shared Resource Portal - Home
- - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
- - date_published: 2024-06-07T21:58:40+00:00
-
- ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
- - [https://ieo.ucla.edu](https://ieo.ucla.edu)
- - date_published: 2024-07-01T23:02:33.540862+00:00
-
- ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
- - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Institute for Research on Labor and Employment
- - [https://irle.ucla.edu](https://irle.ucla.edu)
- - date_published: 2024-05-07T20:55:11.391952+00:00
-
- ## Home - UCLA Institute of Transportation Studies
- - [https://its.ucla.edu](https://its.ucla.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UCLA Center for Neighborhood Knowledge
- - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
- - date_published: 2023-12-21T00:00:00+00:00
-
- ## LAERI@UCLA | The Los Angeles Education Research Institute
- - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:25.237557+00:00
-
- ## Engaging LA, Changing the World | LA Social Science
- - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
- - date_published: 2024-07-01T23:06:08.159487+00:00
-
- ## Latino Policy & Politics Institute
- - [https://latino.ucla.edu](https://latino.ucla.edu)
- - date_published: 2024-07-01T23:07:12.647596+00:00
-
- ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://law.ucla.edu](https://law.ucla.edu)
- - date_published: 2024-05-04T14:42:25.180876+00:00
-
- ## Attention Required! | Cloudflare
- - [https://legacy.ucla.edu](https://legacy.ucla.edu)
- - date_published: 2024-07-01T23:04:58.808632+00:00
-
- ## Homepage - UCLA Let There Be
- - [https://lettherebe.ucla.edu](https://lettherebe.ucla.edu)
- - date_published: 2020-08-26T00:00:00+00:00
-
- ## Lewis Home - UCLA Lewis Center for Regional Policy Studies
- - [https://lewis.ucla.edu](https://lewis.ucla.edu)
- - date_published: 2024-04-30T05:05:25.842498+00:00
-
- ## Home - LGBTQ Studies - UCLA
- - [https://lgbtqstudies.ucla.edu](https://lgbtqstudies.ucla.edu)
- - date_published: 2024-10-29T11:44:56.942880+00:00
-
- ## Labor Occupational Safety and Health Program
- - [https://losh.ucla.edu](https://losh.ucla.edu)
- - date_published: 2024-07-01T23:06:11.308355+00:00
-
- ## UCLA Conference Center | Meyer & Renee Luskin Center | UCLA Luskin Conference Center
- - [https://luskinconferencecenter.ucla.edu](https://luskinconferencecenter.ucla.edu)
- - date_published: 2024-07-01T23:03:08.451096+00:00
-
- ## School of Public Affairs | UCLA Luskin
- - [https://luskin.ucla.edu](https://luskin.ucla.edu)
- - date_published: 2024-05-07T20:55:15.920022+00:00
 

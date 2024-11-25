@@ -1,3 +1,84 @@
+ ## Romaric Pascal | Lettering & web development
+ - [https://old.romaricpascal.is](https://old.romaricpascal.is)
+ - date_published: 2024-07-10T09:16:23.010407+00:00
+
+ ## Romaric Pascal
+ - [https://romaricpascal.is](https://romaricpascal.is)
+ - date_published: 2024-05-09T08:18:47.024515+00:00
+
+ ## Maxim Leyzerovich — Designer
+ - [http://round.is](http://round.is)
+ - date_published: 2024-06-21T13:55:57.586114+00:00
+
+ ## Forsíða | Háskólinn í Reykjavík
+ - [http://www.ru.is](http://www.ru.is)
+ - date_published: 2024-07-07T10:12:55.595760+00:00
+
+ ## Innskrá - Wagtail
+ - [https://images.nyr.ruv.is](https://images.nyr.ruv.is)
+ - date_published: 2024-05-06T15:13:26.480479+00:00
+
+ ## Mitt RÚV
+ - [https://mitt.ruv.is](https://mitt.ruv.is)
+ - date_published: 2024-05-06T15:13:28.606984+00:00
+
+ ## RÚV.is
+ - [https://nyr.ruv.is](https://nyr.ruv.is)
+ - date_published: 2022-09-27T21:08:51.852000+00:00
+
+ ## Innskrá - Wagtail
+ - [https://static.nyr.ruv.is](https://static.nyr.ruv.is)
+ - date_published: 2024-06-23T20:51:17.503675+00:00
+
+ ## RÚV.is
+ - [https://www.ruv.is](https://www.ruv.is)
+ - date_published: 2023-11-11T03:29:34.003690+00:00
+
+ ## Sælkerabúðin
+ - [https://saelkerabudin.is](https://saelkerabudin.is)
+ - date_published: 2024-09-25T12:56:38.254368+00:00
+
+ ## Skrädderi Helsingborg Skåne | Skräddare För Dam & Herr | Bespoke Tailor
+ - [http://www.sari.is](http://www.sari.is)
+ - date_published: 2024-11-16T19:57:08.716558+00:00
+
+ ## Richard Emile Sarkis
+ - [https://sark.is](https://sark.is)
+ - date_published: 2020-09-11T01:30:53+00:00
+
+ ## Scott is...
+ - [https://scottsmith.is](https://scottsmith.is)
+ - date_published: 2024-06-21T10:05:37.892623+00:00
+
+ ## Sean Coker
+ - [https://sean.is](https://sean.is)
+ - date_published: 2024-02-10T10:02:08+00:00
+ - tags: ['personal']
+
+ ## Secret Lagoon Iceland - Secret Lagoon Iceland
+ - [https://secretlagoon.is](https://secretlagoon.is)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Fyrirtækjaviðburðir | Ráðstefnur | Fundir | Hvataferðir
+ - [https://sena.is](https://sena.is)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Simplifying Data Engineering - Silectis
+ - [https://www.silect.is](https://www.silect.is)
+ - date_published: 2020-12-17T00:00:00+00:00
+
+ ## Forsíða | Símenntun á Vesturlandi
+ - [https://simenntun.is](https://simenntun.is)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Sinfóníuhljómsveit Íslands
+ - [http://www.sinfonia.is](http://www.sinfonia.is)
+ - date_published: 2024-09-06T21:40:50+00:00
+
+ ## Timi Wahalahti | Backend developer and WordPress enthusiast
+ - [https://sipp.is](https://sipp.is)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## SIXT rent a car Iceland
  - [https://sixt.is](https://sixt.is)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3942,84 +4023,4 @@
  ## Home
  - [http://www.area.pi.cnr.it](http://www.area.pi.cnr.it)
  - date_published: 2024-10-22T03:54:54.800095+00:00
-
- ## Home | Consiglio Nazionale delle Ricerche
- - [https://www.cnr.it](https://www.cnr.it)
- - date_published: 2024-10-16T18:39:17+00:00
-
- ## ISTI-CNR - Home
- - [https://www.isti.cnr.it](https://www.isti.cnr.it)
- - date_published: 2024-06-18T13:09:06+00:00
-
- ## ITTIG
- - [http://www.ittig.cnr.it](http://www.ittig.cnr.it)
- - date_published: 2024-08-18T10:27:06.692533+00:00
-
- ## Commissione Nazionale Valutazione Film
- - [http://www.cnvf.it](http://www.cnvf.it)
- - date_published: 2024-07-02T22:15:45.534980+00:00
-
- ## IIS "L. Cobianchi"
- - [https://www.cobianchi.it](https://www.cobianchi.it)
- - date_published: 2024-10-13T06:54:30.506475+00:00
-
- ## Giulio Cocchi
- - [https://www.cocchi.it](https://www.cocchi.it)
- - date_published: 2024-05-06T16:27:43.714889+00:00
-
- ## Code and run
- - [https://codeandrun.it](https://codeandrun.it)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## CoderDojo Genova
- - [http://coderdojogenova.it](http://coderdojogenova.it)
- - date_published: 2024-07-22T07:52:09.955695+00:00
-
- ## bloggle
- - [http://bloggle.coggle.it](http://bloggle.coggle.it)
- - date_published: 2024-09-12T18:39:13.476275+00:00
-
- ## Coggle - Simple Collaborative Mind Maps
- - [https://coggle.it](https://coggle.it)
- - date_published: 2024-06-12T12:39:31.518086+00:00
-
- ## Coggle - Simple Collaborative Mind Maps
- - [https://static.coggle.it](https://static.coggle.it)
- - date_published: 2024-09-12T18:39:10.983927+00:00
-
- ## Home - Collegio Arcivescovile Ballerini
- - [https://www.collegioballerini.it](https://www.collegioballerini.it)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Collegio "Lamaro Pozzani"
- - [https://www.collegiocavalieri.it](https://www.collegiocavalieri.it)
- - date_published: 2024-07-17T16:13:25.291433+00:00
-
- ## Home - CReI
- - [http://collegioreumatologi.it](http://collegioreumatologi.it)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Collegio San Carlo
- - [https://www.collegiosancarlo.it](https://www.collegiosancarlo.it)
- - date_published: 2024-10-13T07:21:09.380074+00:00
-
- ## Albergo San Giovanni
- - [https://www.collialti.it](https://www.collialti.it)
- - date_published: 2024-07-14T16:43:46.090553+00:00
-
- ## Collletttivo | CLT
- - [https://www.collletttivo.it](https://www.collletttivo.it)
- - date_published: 2024-09-25T21:16:31+00:00
-
- ## Colorprinter - Colorstampa
- - [https://colorstampa.it](https://colorstampa.it)
- - date_published: 2024-02-06T15:12:30+00:00
-
- ## Comarch - software house globale | Progettazione, integrazione e implementazione di prodotti e servizi IT
- - [https://comarch.it](https://comarch.it)
- - date_published: 2024-05-12T04:00:39.782430+00:00
-
- ## Redirect
- - [https://volantino.comet.it](https://volantino.comet.it)
- - date_published: 2024-09-06T08:00:40+00:00
 

@@ -1,3 +1,35 @@
+ ## New York Football Giants | Giants.com
+ - [https://www.giants.com](https://www.giants.com)
+ - date_published: 2024-06-21T22:49:16.055578+00:00
+
+ ## Giants of Cancer Care
+ - [https://www.giantsofcancercare.com](https://www.giantsofcancercare.com)
+ - date_published: 2024-07-15T03:38:07.295302+00:00
+
+ ## Giant Squid
+ - [https://giantsquidstudios.com](https://giantsquidstudios.com)
+ - date_published: 2024-05-09T08:37:36.596299+00:00
+
+ ## GIANTS Software - Download Portal
+ - [https://eshop.giants-software.com](https://eshop.giants-software.com)
+ - date_published: 2024-07-12T19:08:58.185260+00:00
+
+ ## GIANTS Software - Forum - Index page
+ - [https://forum.giants-software.com](https://forum.giants-software.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Start | Farming Simulator League
+ - [https://fsl.giants-software.com](https://fsl.giants-software.com)
+ - date_published: 2024-07-12T19:09:02.916048+00:00
+
+ ## Home
+ - [https://gdn.giants-software.com](https://gdn.giants-software.com)
+ - date_published: 2024-07-12T19:08:57.035182+00:00
+
+ ## GIANTS Software
+ - [https://giants-software.com](https://giants-software.com)
+ - date_published: 2024-05-24T18:54:37.974366+00:00
+
  ## GIANTS Partner Program
  - [https://partner.giants-software.com](https://partner.giants-software.com)
  - date_published: 2024-07-12T19:09:03.761345+00:00
@@ -1268,6 +1300,11 @@
  ## Discover gists
  - [https://gist.github.com](https://gist.github.com)
  - date_published: 2023-10-25T14:44:47.049318+00:00
+
+ ## GitHub - hoarder-app/hoarder: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+ - [https://github.com/hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
+ - date_published: 1970-01-01T01:00:00+00:00
+ - tags: ['bookmark manager']
 
  ## GitHub · Build and ship software on a single, collaborative platform
  - [https://github.com](https://github.com)
@@ -4057,40 +4094,4 @@
  ## Globule Bleu - Agence de communication créative
  - [https://www.globulebleu.com](https://www.globulebleu.com)
  - date_published: 2024-05-04T06:18:24.629670+00:00
-
- ## Home New - GlockApps
- - [https://glockapps.com](https://glockapps.com)
- - date_published: 2024-08-17T05:35:31+00:00
-
- ## Glock Talk
- - [https://www.glocktalk.com](https://www.glocktalk.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## glomex Documentation | glomex Documentation
- - [https://docs.glomex.com](https://docs.glomex.com)
- - date_published: 2024-04-30T12:59:12+00:00
-
- ## glomex Exchange
- - [https://exchange.glomex.com](https://exchange.glomex.com)
- - date_published: 2024-06-25T09:01:18+00:00
-
- ## Glomex Player
- - [https://player.glomex.com](https://player.glomex.com)
- - date_published: 2024-05-31T09:57:44+00:00
-
- ## Startseite - video.glomex.com
- - [https://video.glomex.com](https://video.glomex.com)
- - date_published: 2024-06-25T21:38:38.406063+00:00
-
- ## glomex Your Premium Video Marketplace - Get started for free
- - [https://www.glomex.com](https://www.glomex.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Gloo Books - Books for a More Inclusive World
- - [https://gloobooks.com](https://gloobooks.com)
- - date_published: 2024-06-24T11:00:47.035334+00:00
-
- ## GlooData
- - [https://gloodata.com](https://gloodata.com)
- - date_published: 2024-06-16T21:16:02.742357+00:00
 

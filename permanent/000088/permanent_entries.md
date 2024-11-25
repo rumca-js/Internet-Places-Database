@@ -1,3 +1,32 @@
+ ## Home | Douglas Pinheiro Goulart
+ - [https://douglasgoulart.com](https://douglasgoulart.com)
+ - date_published: 2024-05-07T23:13:14.069907+00:00
+
+ ## The Douglas Self Site
+ - [https://douglas-self.com](https://douglas-self.com)
+ - date_published: 2023-12-12T13:07:52.909466+00:00
+ - tags: ['personal']
+
+ ## Douglass Funeral Home : Lexington, Massachusetts (MA), funerals, cremations, pre-planning
+ - [https://www.douglassfh.com](https://www.douglassfh.com)
+ - date_published: 2024-07-20T09:38:45.934008+00:00
+
+ ## This is the default server vhost
+ - [https://douglawrence.com](https://douglawrence.com)
+ - date_published: 2024-10-16T13:44:50+00:00
+
+ ## Antiquities
+ - [http://douglemoine.com](http://douglemoine.com)
+ - date_published: 2024-07-02T09:36:25.232750+00:00
+
+ ## The Texas Energy and Power Newsletter | Doug Lewin | Substack
+ - [https://www.douglewin.com](https://www.douglewin.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Doug McInnes
+ - [https://www.dougmcinnes.com](https://www.dougmcinnes.com)
+ - date_published: 2024-05-11T10:56:43.786109+00:00
+
  ## Doug McNeall's blog
  - [https://dougmcneall.com](https://dougmcneall.com)
  - date_published: 2024-06-30T02:48:01.028726+00:00
@@ -4013,32 +4042,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## (no title)
  - [https://duke64nukem.com](https://duke64nukem.com)
  - date_published: 2024-07-16T00:00:00+00:00
-
- ## Duke
- - [http://www.dukealumni.com](http://www.dukealumni.com)
- - date_published: 2024-09-26T18:02:27.457057+00:00
-
- ## a Duke Blue Devils community
- - [https://www.dukebasketballreport.com](https://www.dukebasketballreport.com)
- - date_published: 2024-06-29T01:45:45.983140+00:00
-
- ## Duke Cannon Supply Co. Premium Men's Grooming Goods. Men's Soap.
- - [https://dukecannon.com](https://dukecannon.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Duke Cannon Wholesale
- - [https://dukecannonwholesale.com](https://dukecannonwholesale.com)
- - date_published: 2024-08-11T04:07:29.834045+00:00
-
- ## %%sitename%% %%sep%% %%sitedesc%%
- - [https://www.dukece.com](https://www.dukece.com)
- - date_published: 2023-10-24T14:29:23+00:00
-
- ## The Chronicle
- - [https://dukechronicle.com](https://dukechronicle.com)
- - date_published: 2024-06-14T18:04:52.251473+00:00
-
- ## The Duke Chronicle
- - [https://store.dukechronicle.com](https://store.dukechronicle.com)
- - date_published: 2024-09-15T11:55:59.953255+00:00
 

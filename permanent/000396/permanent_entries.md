@@ -1,3 +1,123 @@
+ ## Documents & Reports - All Documents | The World Bank
+ - [https://documents1.worldbank.org](https://documents1.worldbank.org)
+ - date_published: 2024-07-16T23:38:02.444332+00:00
+
+ ## Documents & Reports - All Documents | The World Bank
+ - [http://documents.worldbank.org](http://documents.worldbank.org)
+ - date_published: 2024-07-01T06:37:06.970177+00:00
+
+ ## eBusiness
+ - [https://ebizprd.worldbank.org](https://ebizprd.worldbank.org)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## WBG Finances - Home
+ - [https://financesapp.worldbank.org](https://financesapp.worldbank.org)
+ - date_published: 2024-07-16T23:33:41.369235+00:00
+
+ ## WBG Open Finances | WBG Open Finances
+ - [https://finances.worldbank.org](https://finances.worldbank.org)
+ - date_published: 2024-05-12T07:30:22.928534+00:00
+
+ ## The Global Findex Database 2021
+ - [https://globalfindex.worldbank.org](https://globalfindex.worldbank.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## International Centre for Settlement of Investment Disputes
+ - [https://icsid.worldbank.org](https://icsid.worldbank.org)
+ - date_published: 2024-05-12T07:29:52.128873+00:00
+
+ ## International Development Association - World Bank
+ - [https://ida.worldbank.org](https://ida.worldbank.org)
+ - date_published: 2024-07-15T13:17:40+00:00
+
+ ## | Independent Evaluation Group
+ - [https://ieg.worldbank.org](https://ieg.worldbank.org)
+ - date_published: 2024-07-16T22:44:37+00:00
+
+ ## Sign in to your account
+ - [https://intranet.worldbank.org](https://intranet.worldbank.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home
+ - [https://live.worldbank.org](https://live.worldbank.org)
+ - date_published: 2024-07-08T10:29:29+00:00
+
+ ## World Bank Maps
+ - [https://maps.worldbank.org](https://maps.worldbank.org)
+ - date_published: 2024-07-12T18:23:44+00:00
+
+ ## System Unavailable
+ - [http://message.worldbank.org](http://message.worldbank.org)
+ - date_published: 2024-05-02T16:32:26+00:00
+
+ ## The World Bank Group
+ - [https://olc.worldbank.org](https://olc.worldbank.org)
+ - date_published: 2024-07-16T23:33:53.492511+00:00
+
+ ## Open Government Data Toolkit | Data
+ - [https://opendatatoolkit.worldbank.org](https://opendatatoolkit.worldbank.org)
+ - date_published: 2024-05-12T07:30:36.346457+00:00
+
+ ## Open Knowledge Repository
+ - [https://openknowledge.worldbank.org](https://openknowledge.worldbank.org)
+ - date_published: 2024-06-20T11:31:56+00:00
+
+ ## Home | Geospatial Poverty Portal
+ - [https://pipmaps.worldbank.org](https://pipmaps.worldbank.org)
+ - date_published: 2024-07-24T05:45:00+00:00
+
+ ## Poverty and Inequality Platform
+ - [https://pip.worldbank.org](https://pip.worldbank.org)
+ - date_published: 2024-05-12T07:30:15.824117+00:00
+
+ ## Policy & Procedure Framework
+ - [https://policies.worldbank.org](https://policies.worldbank.org)
+ - date_published: 2024-07-16T10:07:38+00:00
+
+ ## Projects & Operations | The World Bank
+ - [https://projects.worldbank.org](https://projects.worldbank.org)
+ - date_published: 2024-05-12T07:30:00.844404+00:00
+
+ ## Prosperity Data360
+ - [https://prosperitydata360.worldbank.org](https://prosperitydata360.worldbank.org)
+ - date_published: 2024-07-16T23:39:10.145412+00:00
+
+ ## Remittance Prices Worldwide | MAKING MARKETS MORE TRANSPARENT
+ - [https://remittanceprices.worldbank.org](https://remittanceprices.worldbank.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## RISE
+ - [http://rise.worldbank.org](http://rise.worldbank.org)
+ - date_published: 2024-07-16T23:33:18.833730+00:00
+
+ ## Results and Impact | World Bank Group Scorecard
+ - [https://scorecard.worldbank.org](https://scorecard.worldbank.org)
+ - date_published: 2024-07-15T13:31:48+00:00
+
+ ## World Bank Global SSB Tax Database
+ - [https://ssbtax.worldbank.org](https://ssbtax.worldbank.org)
+ - date_published: 2024-08-15T16:43:38+00:00
+
+ ## Prosperity Data360
+ - [https://tcdata360.worldbank.org](https://tcdata360.worldbank.org)
+ - date_published: 2024-05-12T07:30:51.234655+00:00
+
+ ## Public Documents | The World Bank
+ - [https://thedocs.worldbank.org](https://thedocs.worldbank.org)
+ - date_published: 2024-07-03T22:07:38.136922+00:00
+
+ ## Treasury
+ - [https://treasury.worldbank.org](https://treasury.worldbank.org)
+ - date_published: 2024-07-16T23:07:10+00:00
+
+ ## World Development Report 2021: Data for Better Lives
+ - [https://wdr2021.worldbank.org](https://wdr2021.worldbank.org)
+ - date_published: 2022-05-26T16:36:18+00:00
+
+ ## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://web.worldbank.org](https://web.worldbank.org)
+ - date_published: 2024-04-28T02:13:39.131138+00:00
+
  ## World Integrated Trade Solution (WITS) | Data on Export, Import, Tariff, NTM
  - [https://wits.worldbank.org](https://wits.worldbank.org)
  - date_published: 2024-05-12T07:30:43.555058+00:00
@@ -3923,124 +4043,4 @@ Zig Programming Language
  ## Hi! This is Fear of Landing!
  - [https://fear-of-landing.ck.page](https://fear-of-landing.ck.page)
  - date_published: 2024-05-04T05:49:48.781457+00:00
-
- ## Join 40,000+ other designers levelling up their design career
- - [https://femke.ck.page](https://femke.ck.page)
- - date_published: 2024-04-29T07:18:24.862699+00:00
-
- ## Hi! I'm Tae from Financial Tortoise.
- - [https://financial-tortoise.ck.page](https://financial-tortoise.ck.page)
- - date_published: 2024-10-31T08:17:47+00:00
-
- ## Hi! We're the FinCon Team.
- - [https://fincon.ck.page](https://fincon.ck.page)
- - date_published: 2024-10-31T06:37:26+00:00
-
- ## Follow along on my journey
- - [https://fivesixseven.ck.page](https://fivesixseven.ck.page)
- - date_published: 2024-06-11T02:02:33+00:00
-
- ## The page you were looking for doesn't exist (404)
- - [https://flightcontrol.ck.page](https://flightcontrol.ck.page)
- - date_published: 2024-04-29T07:44:00.936914+00:00
-
- ## Floris Gierman | Extramilest
- - [https://floris-gierman.ck.page](https://floris-gierman.ck.page)
- - date_published: 2023-06-09T00:00:00+00:00
-
- ## The Fluency Course
- - [https://fluency-course.ck.page](https://fluency-course.ck.page)
- - date_published: 2024-09-02T16:30:40+00:00
-
- ## Less Work. More Freedom.
- - [https://garthdew.ck.page](https://garthdew.ck.page)
- - date_published: 2024-05-04T07:28:23.013549+00:00
-
- ## Golden
- - [https://goldencom.ck.page](https://goldencom.ck.page)
- - date_published: 2024-08-08T23:35:02+00:00
-
- ## Rev Up for the Week
- - [https://grahamallcott.ck.page](https://grahamallcott.ck.page)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Weekly Wisdom by Graham Mann
- - [https://grahammann.ck.page](https://grahammann.ck.page)
- - date_published: 2024-06-23T11:10:55+00:00
-
- ## Grumpy Wizard Blog
- - [https://grumpy-wizard-blog.ck.page](https://grumpy-wizard-blog.ck.page)
- - date_published: 2024-08-18T09:24:05+00:00
-
- ## Applied LLMs
- - [https://hamel.ck.page](https://hamel.ck.page)
- - date_published: 2024-08-19T16:43:39+00:00
-
- ## Pete from High Signal
- - [https://highsignalnewsletter.ck.page](https://highsignalnewsletter.ck.page)
- - date_published: 2024-06-22T12:53:47+00:00
-
- ## How To Market A Game
- - [https://htmag.ck.page](https://htmag.ck.page)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Saifedean Ammous
- - [https://hustling-composer-4525.ck.page](https://hustling-composer-4525.ck.page)
- - date_published: 2024-09-19T21:39:42+00:00
-
- ## The page you were looking for doesn't exist (404)
- - [https://hyphenated-enterprises-llc-2.ck.page](https://hyphenated-enterprises-llc-2.ck.page)
- - date_published: 2024-04-29T09:09:26.601743+00:00
-
- ## Joel Runyon
- - [https://impossible.ck.page](https://impossible.ck.page)
- - date_published: 2024-08-19T09:02:14+00:00
-
- ## IM To Thrive
- - [https://imtothrive.ck.page](https://imtothrive.ck.page)
- - date_published: 2024-08-18T12:20:46+00:00
-
- ## Indystry.cc
- - [https://indystry-cc.ck.page](https://indystry-cc.ck.page)
- - date_published: 2024-07-03T21:35:26+00:00
-
- ## Ramit Sethi
- - [https://i-will-teach-you-to-be-rich.ck.page](https://i-will-teach-you-to-be-rich.ck.page)
- - date_published: 2024-06-30T03:26:47+00:00
-
- ## James Clear
- - [https://jamesclear.ck.page](https://jamesclear.ck.page)
- - date_published: 2024-08-19T08:32:41+00:00
-
- ## Electric Speed: resources for creative people
- - [https://jane-friedman.ck.page](https://jane-friedman.ck.page)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## JD Meier
- - [https://jdmeier.ck.page](https://jdmeier.ck.page)
- - date_published: 2024-08-19T08:24:41+00:00
-
- ## Main list of links
- - [https://jessicanickelsen.ck.page](https://jessicanickelsen.ck.page)
- - date_published: 2024-03-05T21:12:22+00:00
-
- ## Jocelyn K. Glei
- - [https://jkg.ck.page](https://jkg.ck.page)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Jobs to be Done
- - [https://jobstobedone.ck.page](https://jobstobedone.ck.page)
- - date_published: 2024-06-21T21:55:47+00:00
-
- ## Josh Bicknell | Powered by ConvertKit
- - [https://joshbicknell.ck.page](https://joshbicknell.ck.page)
- - date_published: 2022-05-03T01:11:31+00:00
-
- ## For The Interested
- - [https://joshspector.ck.page](https://joshspector.ck.page)
- - date_published: 2024-06-23T09:30:43+00:00
-
- ## Josh Thompson
- - [https://josh-thompson.ck.page](https://josh-thompson.ck.page)
- - date_published: 2024-06-22T14:35:12.468713+00:00
 

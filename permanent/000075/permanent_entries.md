@@ -1,3 +1,27 @@
+ ## Civic Pass | trust, control and safety for digital identity
+ - [https://civic.com](https://civic.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Global leader in public sector software
+ - [https://www.civica.com](https://www.civica.com)
+ - date_published: 2024-10-19T10:33:01.002595+00:00
+
+ ## Home | CivicActions
+ - [https://civicactions.com](https://civicactions.com)
+ - date_published: 2024-08-19T07:08:46+00:00
+
+ ## Home - Civic Centre Uckfield
+ - [https://www.civiccentreuckfield.com](https://www.civiccentreuckfield.com)
+ - date_published: 2024-10-17T12:09:37.161936+00:00
+
+ ## Public Portal • CivicClerk
+ - [https://charlestonwv.civicclerk.com](https://charlestonwv.civicclerk.com)
+ - date_published: 2024-07-15T05:15:18+00:00
+
+ ## Public Portal • CivicClerk
+ - [https://charlestonwv.portal.civicclerk.com](https://charlestonwv.portal.civicclerk.com)
+ - date_published: 2024-07-15T05:15:18+00:00
+
  ## CIVIC
  - [https://apikeys.civiccomputing.com](https://apikeys.civiccomputing.com)
  - date_published: 2024-02-05T00:00:00+00:00
@@ -4002,30 +4026,4 @@
  ## Cloud Infrastructure Map
  - [https://www.cloudinfrastructuremap.com](https://www.cloudinfrastructuremap.com)
  - date_published: 2024-04-04T15:42:21+00:00
-
- ## Xoilac TV | TTBD chất lượng cao - Trực tiếp bóng đá miễn phí
- - [http://cloud-journals.com](http://cloud-journals.com)
- - date_published: 2024-10-29T13:11:59+00:00
-
- ## Ghost Kitchens for Restaurant Delivery + Pickup | CloudKitchens®
- - [https://www.cloudkitchens.com](https://www.cloudkitchens.com)
- - date_published: 2024-09-03T21:02:04.519627+00:00
-
- ## СloudLinux Blog
- - [https://blog.cloudlinux.com](https://blog.cloudlinux.com)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## CloudLinux | Changelog
- - [https://changelog.cloudlinux.com](https://changelog.cloudlinux.com)
- - date_published: 2024-08-29T09:13:48+00:00
-
- ## CloudLinux OS: The Platform for Linux Web Hosting.
- - [http://cloudlinux.com](http://cloudlinux.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Forums - 
-		
-		CloudLinux Community Forum
- - [https://forum.cloudlinux.com](https://forum.cloudlinux.com)
- - date_published: 2024-09-27T09:37:44.262917+00:00
 

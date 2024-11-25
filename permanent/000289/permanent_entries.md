@@ -1,3 +1,83 @@
+ ## Congressman Wesley Hunt
+ - [https://hunt.house.gov](https://hunt.house.gov)
+ - date_published: 2024-06-27T13:59:27.525304+00:00
+
+ ## The Permanent Select Committee On Intelligence
+ - [https://intelligence.house.gov](https://intelligence.house.gov)
+ - date_published: 2024-06-27T13:48:00+00:00
+
+ ## Representative Darrell Issa
+ - [https://issa.house.gov](https://issa.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Glenn Ivey
+ - [https://ivey.house.gov](https://ivey.house.gov)
+ - date_published: 2024-06-27T14:22:59.585442+00:00
+
+ ## Congressman Ronny Jackson
+ - [https://jackson.house.gov](https://jackson.house.gov)
+ - date_published: 2024-06-27T14:00:56+00:00
+
+ ## Congresswoman Sheila Jackson Lee
+ - [https://jacksonlee.house.gov](https://jacksonlee.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Congressman John James
+ - [https://james.house.gov](https://james.house.gov)
+ - date_published: 2024-06-27T14:00:57+00:00
+
+ ## Congressman Jason Smith
+ - [https://jasonsmith.house.gov](https://jasonsmith.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - Congresswoman Pramila Jayapal
+ - [https://jayapal.house.gov](https://jayapal.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman Jeff Duncan
+ - [https://jeffduncan.house.gov](https://jeffduncan.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congressman Jeff Jackson
+ - [https://jeffjackson.house.gov](https://jeffjackson.house.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Congressman Hakeem Jeffries – Proudly Representing the 8th District of New York
+ - [https://jeffries.house.gov](https://jeffries.house.gov)
+ - date_published: 2024-06-27T14:10:12.977239+00:00
+
+ ## Representative Joe Wilson
+ - [https://joewilson.house.gov](https://joewilson.house.gov)
+ - date_published: 2024-06-27T14:21:10.152708+00:00
+
+ ## Representative John Joyce
+ - [https://johnjoyce.house.gov](https://johnjoyce.house.gov)
+ - date_published: 2024-06-27T14:22:00.815661+00:00
+
+ ## Representative John Rose
+ - [https://johnrose.house.gov](https://johnrose.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Congressman Jonathan Jackson
+ - [https://jonathanjackson.house.gov](https://jonathanjackson.house.gov)
+ - date_published: 2024-06-27T13:59:30.061690+00:00
+
+ ## U.S. Congressman Jim Jordan
+ - [https://jordan.house.gov](https://jordan.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home - Dave Joyce
+ - [https://joyce.house.gov](https://joyce.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## House Judiciary Committee Republicans |
+ - [https://judiciary.house.gov](https://judiciary.house.gov)
+ - date_published: 2023-10-25T19:22:23.234554+00:00
+
+ ## Home - Congresswoman Julia Brownley
+ - [https://juliabrownley.house.gov](https://juliabrownley.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Congresswoman Sydney Kamlager-Dove
  - [https://kamlager-dove.house.gov](https://kamlager-dove.house.gov)
  - date_published: 2024-06-27T14:10:18.659466+00:00
@@ -3930,84 +4010,4 @@
  ## MedlinePlus: Genetics
  - [https://ghr.nlm.nih.gov](https://ghr.nlm.nih.gov)
  - date_published: 2024-05-07T14:16:30.287951+00:00
-
- ## NIH Grants & Funding website | grants.nih.gov
- - [https://grants.nih.gov](https://grants.nih.gov)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Helping to End Addiction Long-term
- - [https://heal.nih.gov](https://heal.nih.gov)
- - date_published: 2023-07-20T12:35:00+00:00
-
- ## HIVinfo | Information on HIV/AIDS Treatment, Prevention and Research | NIH
- - [https://hivinfo.nih.gov](https://hivinfo.nih.gov)
- - date_published: 2024-07-03T15:17:59.067800+00:00
-
- ## NIH: Office of Human Resources
- - [https://hr.nih.gov](https://hr.nih.gov)
- - date_published: 2024-07-09T02:46:40+00:00
-
- ## Division of Personnel Security and Access Control (DPSAC) | NIH ORS
- - [https://idbadge.nih.gov](https://idbadge.nih.gov)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Former Home of Imagej
- - [https://imagej.nih.gov](https://imagej.nih.gov)
- - date_published: 2022-03-25T00:00:00+00:00
-
- ## NIGMS Image and Video Gallery
- - [https://images.nigms.nih.gov](https://images.nigms.nih.gov)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## NIMH Publications Catalog | NIMH Information Resource Center
- - [https://infocenter.nimh.nih.gov](https://infocenter.nimh.nih.gov)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Redirecting
- - [https://intramural.nih.gov](https://intramural.nih.gov)
- - date_published: 2020-07-14T13:37:06+00:00
-
- ## National Institute on Drug Abuse Intramural Research Program
- - [https://irp.nida.nih.gov](https://irp.nida.nih.gov)
- - date_published: 2024-08-19T03:50:03.361264+00:00
-
- ## NIH Intramural Research Program
- - [http://irp.nih.gov](http://irp.nih.gov)
- - date_published: 2024-07-09T13:18:08.280892+00:00
-
- ## Journal Article Tag Suite
- - [https://jats.nlm.nih.gov](https://jats.nlm.nih.gov)
- - date_published: 2024-02-20T13:19:23+00:00
-
- ## Join an NIEHS Study
- - [https://joinastudy.niehs.nih.gov](https://joinastudy.niehs.nih.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://junction.niehs.nih.gov](https://junction.niehs.nih.gov)
- - date_published: 2024-07-03T22:53:03.936214+00:00
-
- ## Kids Environment Kids Health - NIEHS
- - [https://kids.niehs.nih.gov](https://kids.niehs.nih.gov)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## NIH LISTSERV HOME PAGE
- - [https://list.nih.gov](https://list.nih.gov)
- - date_published: 2024-06-06T06:46:56+00:00
-
- ## NIGMS Feedback Loop Blog
- - [https://loop.nigms.nih.gov](https://loop.nigms.nih.gov)
- - date_published: 2024-09-02T15:38:11.397264+00:00
-
- ## Medicine on Screen
- - [https://medicineonscreen.nlm.nih.gov](https://medicineonscreen.nlm.nih.gov)
- - date_published: 2024-10-29T11:00:24+00:00
-
- ## National Center for Advancing Translational Sciences
- - [https://ncats.nih.gov](https://ncats.nih.gov)
- - date_published: 2024-04-30T06:55:49.627739+00:00
-
- ## NCBI Insights
- - [https://ncbiinsights.ncbi.nlm.nih.gov](https://ncbiinsights.ncbi.nlm.nih.gov)
- - date_published: 2024-07-08T00:00:00+00:00
 

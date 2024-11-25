@@ -1,3 +1,83 @@
+ ## AIBoosted.dev | Gergely Szerovay | Substack
+ - [https://aiboosted.dev](https://aiboosted.dev)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Aide
+ - [https://aide.dev](https://aide.dev)
+ - date_published: 2024-08-19T12:24:56.568408+00:00
+
+ ## AI Events
+ - [https://www.aievents.dev](https://www.aievents.dev)
+ - date_published: 2024-06-21T06:29:22.901739+00:00
+
+ ## Aigur
+ - [https://aigur.dev](https://aigur.dev)
+ - date_published: 2024-04-29T07:28:50.477109+00:00
+
+ ## Aigur
+ - [https://client.aigur.dev](https://client.aigur.dev)
+ - date_published: 2024-06-19T21:26:22.181598+00:00
+
+ ## Aikido — AppSec Platform For Code & Cloud Security
+ - [https://www.aikido.dev](https://www.aikido.dev)
+ - date_published: 2024-11-13T14:34:30+00:00
+
+ ## AI opt-out for web developers
+ - [https://aioptout.dev](https://aioptout.dev)
+ - date_published: 2024-09-10T08:22:11.662838+00:00
+
+ ## AI-Powered Landing Page Generator | Simplify Web Development
+ - [https://www.aipage.dev](https://www.aipage.dev)
+ - date_published: 2024-06-19T19:25:39.168949+00:00
+
+ ## Home | airfusion.dev
+ - [https://airfusion.dev](https://airfusion.dev)
+ - date_published: 2024-05-11T10:23:56.164066+00:00
+
+ ## Home Cloud
+ - [https://cloud.airfusion.dev](https://cloud.airfusion.dev)
+ - date_published: 2024-07-14T10:17:24.698629+00:00
+
+ ## Airplane | The developer platform for internal tools
+ - [https://www.airplane.dev](https://www.airplane.dev)
+ - date_published: 2023-10-25T18:34:38.548749+00:00
+
+ ## Show HN: What do your GitHub starred repos say about you?
+ - [https://starlens.aisprint.dev](https://starlens.aisprint.dev)
+ - date_published: 2024-09-09T10:19:55+00:00
+
+ ## Simple AI Pages
+ - [https://aitec.dev](https://aitec.dev)
+ - date_published: 2024-09-19T18:59:14.404175+00:00
+
+ ## Akash Goswami
+ - [https://akashgoswami.dev](https://akashgoswami.dev)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## akkoma
+ - [https://akkoma.dev](https://akkoma.dev)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## AksDev
+ - [https://akselmo.dev](https://akselmo.dev)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Contact - akselmo.dev
+ - [https://contact.akselmo.dev](https://contact.akselmo.dev)
+ - date_published: 2024-04-29T07:19:06.536675+00:00
+
+ ## Teabyte
+ - [https://alexanderweiss.dev](https://alexanderweiss.dev)
+ - date_published: 2023-09-16T00:00:00+00:00
+
+ ## Blog – Tailwind CSS
+ - [https://alexandro.dev](https://alexandro.dev)
+ - date_published: 2024-07-10T11:14:32.893003+00:00
+
+ ## Of Chaos and Order - Index
+ - [https://alexbilson.dev](https://alexbilson.dev)
+ - date_published: 2024-05-07T23:15:35.361064+00:00
+
  ## Alex DeLorenzo - Software Engineer
  - [https://alexdelorenzo.dev](https://alexdelorenzo.dev)
  - date_published: 2024-05-07T23:24:09.124204+00:00
@@ -3982,87 +4062,4 @@
  ## Featured Resources | nodejs.framework.dev
  - [https://nodejs.framework.dev](https://nodejs.framework.dev)
  - date_published: 2024-07-21T04:28:56.016683+00:00
-
- ## Featured Resources | qwik.framework.dev
- - [https://qwik.framework.dev](https://qwik.framework.dev)
- - date_published: 2024-07-21T04:29:04.735189+00:00
-
- ## Featured Resources | react.framework.dev
- - [https://react.framework.dev](https://react.framework.dev)
- - date_published: 2024-07-21T04:29:03.413602+00:00
-
- ## Featured Resources | solidjs.framework.dev
- - [https://solidjs.framework.dev](https://solidjs.framework.dev)
- - date_published: 2024-07-21T04:28:54.287317+00:00
-
- ## Featured Resources | svelte.framework.dev
- - [https://svelte.framework.dev](https://svelte.framework.dev)
- - date_published: 2024-07-21T04:28:49.044717+00:00
-
- ## Featured Resources | vue.framework.dev
- - [https://vue.framework.dev](https://vue.framework.dev)
- - date_published: 2024-07-21T04:28:50.444822+00:00
-
- ## FrankenPHP: the modern PHP app server
- - [https://frankenphp.dev](https://frankenphp.dev)
- - date_published: 2023-10-25T18:38:06.820817+00:00
- - tags: ['app server', 'php']
-
- ## HTML-first, framework-agnostic implementation of shadcn/UI – franken/UI
- - [https://franken-ui.dev](https://franken-ui.dev)
- - date_published: 2024-04-22T22:18:42+00:00
- - tags: ['ui components', 'html', 'open source']
-
- ## DiagramGPT
- - [https://diagram-gpt.fraserxu.dev](https://diagram-gpt.fraserxu.dev)
- - date_published: 2024-06-19T18:55:15.240168+00:00
-
- ## fred.dev
- - [https://fred.dev](https://fred.dev)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Free for Developers
- - [https://free-for.dev](https://free-for.dev)
- - date_published: 2024-07-26T04:58:09.995856+00:00
-
- ## Freek Van der Herten's blog on PHP, Laravel and JavaScript
- - [https://freek.dev](https://freek.dev)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://technical.freek.dev](https://technical.freek.dev)
- - date_published: 2024-10-17T10:06:45.709499+00:00
-
- ## Free tools and services for Developer
- - [https://freestuff.dev](https://freestuff.dev)
- - date_published: 2024-07-02T20:50:54.539310+00:00
-
- ## freiwald.dev
- - [https://freiwald.dev](https://freiwald.dev)
- - date_published: 2023-10-05T00:00:00+00:00
-
- ## Home - Frills
- - [https://frills.dev](https://frills.dev)
- - date_published: 2024-05-06T15:02:51.729640+00:00
-
- ## Front-end Hero - Tutorials on all things Front-end
- - [https://frontendhero.dev](https://frontendhero.dev)
- - date_published: 2024-05-04T09:28:27.735690+00:00
-
- ## Juliano Farias - Front End Engineer
- - [http://frontendwizard.dev](http://frontendwizard.dev)
- - date_published: 2024-06-23T08:15:43.792624+00:00
-
- ## Fuchsia
- - [https://bugs.fuchsia.dev](https://bugs.fuchsia.dev)
- - date_published: 2024-06-29T20:42:51.043369+00:00
-
- ## Fuchsia
- - [https://fuchsia.dev](https://fuchsia.dev)
- - date_published: 2022-09-13T18:32:23+00:00
- - tags: ['operating system']
-
- ## f*ck regex!
- - [https://fuckregex.dev](https://fuckregex.dev)
- - date_published: 2024-01-09T02:57:16.185519+00:00
 

@@ -1,3 +1,43 @@
+ ## JDS Labs Blog – Audio True to Sound
+ - [http://blog.jdslabs.com](http://blog.jdslabs.com)
+ - date_published: 2024-08-19T21:49:07.313355+00:00
+
+ ## JD Sports Global | Shop Online Now
+ - [https://www.global.jdsports.com](https://www.global.jdsports.com)
+ - date_published: 2024-10-21T02:18:53.865508+00:00
+
+ ## JD Sports | Sneakers, Clothing & Accessories | Nike, adidas, Jordan
+ - [https://www.jdsports.com](https://www.jdsports.com)
+ - date_published: 2024-10-21T02:18:56.790581+00:00
+
+ ## Need-to-Know News, Insights, & Intelligence for Business Leaders | JD Supra
+ - [https://jdsupra.com](https://jdsupra.com)
+ - date_published: 2023-10-25T15:27:52.591885+00:00
+
+ ## JD Supra Knowledge Center
+ - [https://resources.jdsupra.com](https://resources.jdsupra.com)
+ - date_published: 2024-08-14T15:55:05+00:00
+
+ ## JD Supra Readers' Choice Awards 2024 - Meet Our Top Authors
+ - [https://spotlight.jdsupra.com](https://spotlight.jdsupra.com)
+ - date_published: 2024-08-19T08:24:37.826443+00:00
+
+ ## JD Young Technologies | Business Solutions | Tulsa, OK
+ - [https://www.jdyoung.com](https://www.jdyoung.com)
+ - date_published: 2024-07-12T18:59:13.221060+00:00
+
+ ## Jean-Baptiste Audras
+ - [https://jeanbaptisteaudras.com](https://jeanbaptisteaudras.com)
+ - date_published: 2024-07-02T19:31:19.875133+00:00
+
+ ## jean brennan studio
+ - [https://jeanbrennan.com](https://jeanbrennan.com)
+ - date_published: 2024-09-14T23:26:17.683867+00:00
+
+ ## Portfolio
+ - [https://jeancochrane.com](https://jeancochrane.com)
+ - date_published: 2024-08-19T16:00:39.639076+00:00
+
  ## Jean Cocteau Cinema
  - [https://jeancocteaucinema.com](https://jeancocteaucinema.com)
  - date_published: 2024-06-15T11:53:54.507992+00:00
@@ -4030,46 +4070,4 @@
  ## Joel Hans
  - [https://joelhans.com](https://joelhans.com)
  - date_published: 2024-01-11T02:12:21.664162+00:00
-
- ## articles written by Joel Hooks
- - [https://joelhooks.com](https://joelhooks.com)
- - date_published: 2024-05-04T09:32:17.840486+00:00
-
- ## Joes Home Page
- - [https://joelinoff.com](https://joelinoff.com)
- - date_published: 2011-11-01T22:18:13+00:00
-
- ## Home - Joel Kotkin
- - [http://www.joelkotkin.com](http://www.joelkotkin.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Joel Lehman
- - [http://joellehman.com](http://joellehman.com)
- - date_published: 2020-07-12T23:26:42+00:00
-
- ## Joelle Renstrom
- - [http://www.joellerenstrom.com](http://www.joellerenstrom.com)
- - date_published: 2024-08-18T17:44:53.926309+00:00
-
- ## Joel Marcey: A Life of Constant Flux
- - [https://joelmarcey.com](https://joelmarcey.com)
- - date_published: 2023-04-20T21:11:58+00:00
-
- ## Joel M Turner | Joel M Turner
- - [https://joelmturner.com](https://joelmturner.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## BiteLog -- Joe Averbukh
- - [https://joelogs.com](https://joelogs.com)
- - date_published: 2022-05-23T04:02:07+00:00
-
- ## Joe Lonsdale  | Substack
- - [https://blog.joelonsdale.com](https://blog.joelonsdale.com)
- - date_published: 2023-10-25T09:40:12.500751+00:00
- - tags: ['substack']
-
- ## Joel on Software
- - [https://joelonsoftware.com](https://joelonsoftware.com)
- - date_published: 2024-03-12T00:00:00+00:00
- - tags: ['personal']
 

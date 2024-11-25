@@ -1,3 +1,50 @@
+ ## Make Tech Easier
+ - [https://maketecheasier.com](https://maketecheasier.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+ - tags: ['tech news', 'tech articles']
+
+ ## Matter Unlimited - Award-Winning Social Impact Marketing Agency
+ - [https://www.makethingsmatter.com](https://www.makethingsmatter.com)
+ - date_published: 2024-01-09T02:42:19.097936+00:00
+ - tags: ['personal']
+
+ ## MakeupAlley - Beauty Product Reviews, Forums & Peer Advice
+ - [http://www.makeupalley.com](http://www.makeupalley.com)
+ - date_published: 2024-09-17T20:46:53.550974+00:00
+
+ ## best makeup beauty mommy blog of india
+ - [http://www.makeupandbeautytreasure.com](http://www.makeupandbeautytreasure.com)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Makeup Tutorials – Community Makeup Tutorials & Video
+ - [https://makeuptutorials.com](https://makeuptutorials.com)
+ - date_published: 2024-08-20T03:54:56.541092+00:00
+
+ ## MUO - Technology, Simplified.
+ - [https://makeuseof.com](https://makeuseof.com)
+ - date_published: 2024-07-19T02:38:42.070840+00:00
+ - tags: ['tech news']
+
+ ## Make VS Code Awesome
+ - [https://makevscodeawesome.com](https://makevscodeawesome.com)
+ - date_published: 2024-06-23T06:01:34.513565+00:00
+
+ ## Make w/ Max
+ - [https://www.makewithmax.com](https://www.makewithmax.com)
+ - date_published: 2024-10-30T15:13:24+00:00
+
+ ## Make with Notion — October 24, 2024
+ - [https://makewithnotion.com](https://makewithnotion.com)
+ - date_published: 2024-08-17T23:02:02.569204+00:00
+
+ ## Make WordArt - Online word art generator
+ - [https://www.makewordart.com](https://www.makewordart.com)
+ - date_published: 2024-06-23T17:48:58.937697+00:00
+
+ ## Domain Name Generator. Business, startup, blog name suggestions creator.
+ - [http://www.makewords.com](http://www.makewords.com)
+ - date_published: 2024-07-04T14:47:38+00:00
+
  ## 3D printers, CAD designers, CNC, and 3D scanners in your neighborhood
  - [http://www.makexyz.com](http://www.makexyz.com)
  - date_published: 2024-06-29T03:45:39.627696+00:00
@@ -3996,48 +4043,4 @@
  ## MarketResearch.com: Market Research Reports and Industry Analysis
  - [https://marketresearch.com](https://marketresearch.com)
  - date_published: 2024-04-28T02:13:19.307839+00:00
-
- ## Market Research Telecast
- - [https://marketresearchtelecast.com](https://marketresearchtelecast.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Börse Online : Akti, Kurse und Nachrichten - MarketScreener
- - [https://at.marketscreener.com](https://at.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Beurs Vandaag : Realtime koersen en beursnieuws - MarketScreener
- - [https://be.marketscreener.com](https://be.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Stock Market Today : Reports, Quotes and News - MarketScreener
- - [https://ca.marketscreener.com](https://ca.marketscreener.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Börse heute : Aktien, Kurse und Nachrichten - MarketScreener
- - [https://ch.marketscreener.com](https://ch.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Börse heute : Aktien, Kurse und Nachrichten - MarketScreener
- - [https://de.marketscreener.com](https://de.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Bolsa de Valores Hoy : Acciones, Cotizacion e Noticias - MarketScreener
- - [https://es.marketscreener.com](https://es.marketscreener.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Stock Market Today : Share prices and News - MarketScreener
- - [https://in.marketscreener.com](https://in.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Borsa oggi : Quotazione, Azioni e notizie - MarketScreener
- - [https://it.marketscreener.com](https://it.marketscreener.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Beurs : Realtime koersen en beursnieuws - MarketScreener
- - [https://nl.marketscreener.com](https://nl.marketscreener.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Stock Market Today : Share prices and News - MarketScreener
- - [https://uk.marketscreener.com](https://uk.marketscreener.com)
- - date_published: 2024-01-07T00:00:00+00:00
 

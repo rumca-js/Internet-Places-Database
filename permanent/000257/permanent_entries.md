@@ -1,3 +1,83 @@
+ ## Home | Office for the Prevention of Harassment & Discrimination
+ - [https://ophd.berkeley.edu](https://ophd.berkeley.edu)
+ - date_published: 2024-04-30T03:18:04.437102+00:00
+
+ ## UC Berkeley School of Optometry
+ - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
+ - date_published: 2023-12-02T21:50:54.268970+00:00
+
+ ## Home - Adept Lab at UCBerkeley
+ - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
+ - date_published: 2023-10-25T18:47:55.838189+00:00
+
+ ## People @ EECS at UC Berkeley
+ - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
+ - date_published: 2023-10-25T18:47:59.063312+00:00
+
+ ## Hello World
+ - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
+ - date_published: 2023-08-24T22:41:05+00:00
+
+ ## People's Park Housing
+ - [https://peoplesparkhousing.berkeley.edu](https://peoplesparkhousing.berkeley.edu)
+ - date_published: 2024-06-24T11:31:58+00:00
+
+ ## UC Berkeley - Department of Philosophy
+ - [http://philosophy.berkeley.edu](http://philosophy.berkeley.edu)
+ - date_published: 2024-07-01T14:42:15.726657+00:00
+
+ ## Home | Physics
+ - [https://physics.berkeley.edu](https://physics.berkeley.edu)
+ - date_published: 2024-07-08T15:32:04+00:00
+
+ ## Department of Political Science | UC Berkeley
+ - [https://polisci.berkeley.edu](https://polisci.berkeley.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Privacy | Office of Ethics
+ - [http://privacy.berkeley.edu](http://privacy.berkeley.edu)
+ - date_published: 2024-07-22T07:48:14+00:00
+
+ ## Ptolemy Project Home Page
+ - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
+ - date_published: 2023-10-25T18:48:03.786652+00:00
+
+ ## Ptolemy Project Home Page
+ - [https://ptolemy.eecs.berkeley.edu](https://ptolemy.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:26:13.031871+00:00
+
+ ## Communications & Public Affairs | Communications & Public Affairs
+ - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+ - date_published: 2024-04-30T03:19:52.155020+00:00
+
+ ## School of Public Health | University of California, Berkeley
+ - [https://publichealth.berkeley.edu](https://publichealth.berkeley.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## RAD Lab
+ - [http://radlab.cs.berkeley.edu](http://radlab.cs.berkeley.edu)
+ - date_published: 2024-06-22T09:31:06+00:00
+
+ ## Robotics and AI Lab @ BAIR
+ - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
+ - date_published: 2019-12-13T00:00:00+00:00
+
+ ## Richard Allen
+ - [http://rallen.berkeley.edu](http://rallen.berkeley.edu)
+ - date_published: 2024-06-13T21:48:05+00:00
+
+ ## Home
+ - [https://recsports.berkeley.edu](https://recsports.berkeley.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home - Redwood Center for Theoretical Neuroscience
+ - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
+ - date_published: 2019-09-05T00:00:00+00:00
+
+ ## Homepage - Office of the Registrar
+ - [https://registrar.berkeley.edu](https://registrar.berkeley.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## Undergraduate Research & Scholarships – University California, Berkeley
  - [https://research.berkeley.edu](https://research.berkeley.edu)
  - date_published: 2024-07-13T13:04:37.990596+00:00
@@ -3939,84 +4019,4 @@ Home
  ## index - Electrical and Computer Engineering - College of Engineering - Carnegie Mellon University
  - [https://ece.cmu.edu](https://ece.cmu.edu)
  - date_published: 2024-07-01T18:30:11+00:00
-
- ## Courses Taught by Golan Levin at Carnegie Mellon University, 2009-2022
- - [https://ems.andrew.cmu.edu](https://ems.andrew.cmu.edu)
- - date_published: 2023-10-02T04:29:57+00:00
-
- ## College of Engineering, Carnegie Mellon University
- - [https://engineering.cmu.edu](https://engineering.cmu.edu)
- - date_published: 2024-04-30T03:46:05.535695+00:00
-
- ## enr-apps.as.cmu.edu index
- - [https://enr-apps.as.cmu.edu](https://enr-apps.as.cmu.edu)
- - date_published: 2020-05-28T18:15:13+00:00
-
- ## Home Page of Michael Shamos
- - [http://euro.ecom.cmu.edu](http://euro.ecom.cmu.edu)
- - date_published: 2018-08-12T17:31:37+00:00
-
- ## Executive & Professional Education
- - [https://exec.cs.cmu.edu](https://exec.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:27.749594+00:00
-
- ## CMU - Executive Education - Software and Societal Systems Department - Carnegie Mellon University
- - [https://execed.s3d.cmu.edu](https://execed.s3d.cmu.edu)
- - date_published: 2024-01-04T14:06:26+00:00
-
- ## Carnegie Mellon University School of Computer Science
- - [https://execonline.cs.cmu.edu](https://execonline.cs.cmu.edu)
- - date_published: 2024-07-22T06:11:28.369347+00:00
-
- ## Geometry Collective
- - [http://geometry.cs.cmu.edu](http://geometry.cs.cmu.edu)
- - date_published: 2024-05-10T18:53:00+00:00
-
- ## Cierpliwości...
- - [https://give.cmu.edu](https://give.cmu.edu)
- - date_published: 2024-04-30T03:46:38.712095+00:00
-
- ## Carnegie Mellon UniversityCarnegie Mellon University
- - [https://givenow.cmu.edu](https://givenow.cmu.edu)
- - date_published: 2024-08-07T16:52:08.066635+00:00
-
- ## Give - Engage with CMU - Carnegie Mellon University
- - [http://giving.cmu.edu](http://giving.cmu.edu)
- - date_published: 2024-07-19T19:25:09+00:00
-
- ## Carnegie Mellon Computer Graphics
- - [http://graphics.cs.cmu.edu](http://graphics.cs.cmu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Welcome to HCII | Human-Computer Interaction Institute
- - [https://hcii.cmu.edu](https://hcii.cmu.edu)
- - date_published: 2024-07-02T13:33:48+00:00
-
- ## Carnegie Mellon University's Heinz College - Public Policy & Information Systems Graduate School
- - [https://heinz.cmu.edu](https://heinz.cmu.edu)
- - date_published: 2024-05-08T09:36:17.507547+00:00
-
- ## Imaging @ CMU
- - [https://imaging.cs.cmu.edu](https://imaging.cs.cmu.edu)
- - date_published: 2024-06-22T07:36:41.163768+00:00
-
- ## Information Networking Institute - Information Networking Institute - College of Engineering - Carnegie Mellon University
- - [https://ini.cmu.edu](https://ini.cmu.edu)
- - date_published: 2024-10-07T15:33:23+00:00
-
- ## Blog Index (Homepage) | CMU Software Engineering Institute
- - [https://insights.sei.cmu.edu](https://insights.sei.cmu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Carnegie Mellon University research repository - Browse
- - [https://kilthub.cmu.edu](https://kilthub.cmu.edu)
- - date_published: 2024-04-30T05:50:25.305533+00:00
-
- ## The Kitchin Research Group
- - [https://kitchingroup.cheme.cmu.edu](https://kitchingroup.cheme.cmu.edu)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Home - labs
- - [https://labs.ri.cmu.edu](https://labs.ri.cmu.edu)
- - date_published: 2024-07-16T23:23:43+00:00
 

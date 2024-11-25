@@ -1,3 +1,51 @@
+ ## Rikin Patel | Philadelphia | Javascript | React | Frontend Web Developer
+ - [https://patelrikin.com](https://patelrikin.com)
+ - date_published: 2024-05-11T10:22:17.371204+00:00
+
+ ## Rikin Patel | Philadelphia | Javascript / Frontend Web Developer
+ - [https://preact.patelrikin.com](https://preact.patelrikin.com)
+ - date_published: 2024-07-14T09:55:44.541173+00:00
+
+ ## Pateno Payments | Advanced Business Payment Solutions
+ - [https://www.pateno.com](https://www.pateno.com)
+ - date_published: 2024-09-23T05:32:56+00:00
+
+ ## Institute of Professional Representatives before the European Patent Office - epi
+ - [https://patentepi.com](https://patentepi.com)
+ - date_published: 2024-07-20T13:02:49.803037+00:00
+
+ ## Patent Hawk: Prior Art Search +
+ - [http://www.patenthawk.com](http://www.patenthawk.com)
+ - date_published: 2024-10-19T06:12:05.224884+00:00
+
+ ## Patently-O, the nation's leading patent law blog
+ - [https://patentlyo.com](https://patentlyo.com)
+ - date_published: 2024-06-15T02:25:55.160448+00:00
+
+ ## PatentPal Draft
+ - [http://draft.patentpal.com](http://draft.patentpal.com)
+ - date_published: 2022-05-06T15:20:58+00:00
+
+ ## PatentPal
+ - [https://patentpal.com](https://patentpal.com)
+ - date_published: 2024-06-18T20:00:42+00:00
+
+ ## Patentyourkiss
+ - [https://patentyourkiss.com](https://patentyourkiss.com)
+ - date_published: 2024-08-20T04:11:26.785308+00:00
+
+ ## Inpics Gadget Repair Services - InPics Solutions
+ - [https://patersontech.com](https://patersontech.com)
+ - date_published: 2023-10-25T16:30:59.777009+00:00
+
+ ## Everything Must Change
+ - [http://www.patgarciaandeverythingmustchange.com](http://www.patgarciaandeverythingmustchange.com)
+ - date_published: 2024-07-09T07:00:00+00:00
+
+ ## AC Repair and Service | HVAC Company Panama City Beach FL - Pat Green
+ - [http://www.patgreenair.com](http://www.patgreenair.com)
+ - date_published: 2024-06-29T23:14:16.746702+00:00
+
  ## Nonreligious Questions
  - [https://friendlyatheist.patheos.com](https://friendlyatheist.patheos.com)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -4006,52 +4054,4 @@
  ## Pelagic Publishing - Books on Wildlife, Biology and Ecology
  - [https://pelagicpublishing.com](https://pelagicpublishing.com)
  - date_published: 2024-05-01T04:03:48.292916+00:00
-
- ## The Pelahatchie News
- - [https://www.pelahatchienews.com](https://www.pelahatchienews.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Pelayo Arbués
- - [https://pelayoarbues.com](https://pelayoarbues.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Pelcro | All-in-one Subscription Management Solution
- - [https://pelcro.com](https://pelcro.com)
- - date_published: 2024-04-29T03:56:59.242634+00:00
-
- ## Pelcro Inc. status
- - [https://status.pelcro.com](https://status.pelcro.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Pelcro | All-in-one Subscription Management Solution
- - [https://www.get.pelcro.com](https://www.get.pelcro.com)
- - date_published: 2024-08-05T23:27:40.909447+00:00
-
- ## Pelekinesis
- - [http://pelekinesis.com](http://pelekinesis.com)
- - date_published: 2024-08-18T17:44:35.159785+00:00
-
- ## Pelicans - The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com
- - [https://pelicans.com](https://pelicans.com)
- - date_published: 2024-07-12T14:56:11.051352+00:00
-
- ## Pelican State CU
- - [https://meeting.pelicanstatecu.com](https://meeting.pelicanstatecu.com)
- - date_published: 2024-07-10T04:26:07.429856+00:00
-
- ## Pelican State Credit Union
- - [https://my.pelicanstatecu.com](https://my.pelicanstatecu.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home Page | Pelican State Credit Union
- - [https://pelicanstatecu.com](https://pelicanstatecu.com)
- - date_published: 2024-07-10T04:26:00.837298+00:00
-
- ## Pelican State of Mind - Family, fun and finance, y'all.
- - [https://pelicanstateofmind.com](https://pelicanstateofmind.com)
- - date_published: 2024-07-10T04:26:06.019107+00:00
-
- ## Luotettavat suomenkieliset nettikasinot - Pelipiste.com
- - [https://pelipiste.com](https://pelipiste.com)
- - date_published: 2024-07-17T04:25:11.080088+00:00
 

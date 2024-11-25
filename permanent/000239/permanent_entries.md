@@ -1,3 +1,83 @@
+ ## Index of /
+ - [https://sites.elliott.computer](https://sites.elliott.computer)
+ - date_published: 2024-07-13T04:52:18.976473+00:00
+
+ ## Elliott Cost
+ - [https://table.elliott.computer](https://table.elliott.computer)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Someone Else's Computer
+ - [https://someone.elses.computer](https://someone.elses.computer)
+ - date_published: 2024-08-18T21:22:17.543048+00:00
+
+ ## Experience.Computer | Jay Springett | Substack
+ - [https://experience.computer](https://experience.computer)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Federated Computer | Replace Google, Office, Zoom, Slack & More
+ - [https://www.federated.computer](https://www.federated.computer)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## start [Folk Computer]
+ - [https://folk.computer](https://folk.computer)
+ - date_published: 2024-02-03T17:00:00.054460+00:00
+
+ ## Team Computer
+ - [https://goteam.computer](https://goteam.computer)
+ - date_published: 2024-07-08T12:28:11.075272+00:00
+
+ ## haunted computer
+ - [https://haunted.computer](https://haunted.computer)
+ - date_published: 2024-08-18T12:50:59.649069+00:00
+
+ ## about_this_site [Self Hosting Manual]
+ - [https://how-to.computer](https://how-to.computer)
+ - date_published: 2024-09-14T23:12:59.726081+00:00
+
+ ## iloveyou.computer
+ - [http://iloveyou.computer](http://iloveyou.computer)
+ - date_published: 2024-07-10T08:30:45.281681+00:00
+
+ ## Room AI
+ - [https://image.computer](https://image.computer)
+ - date_published: 2024-06-19T20:03:18.635550+00:00
+
+ ## Iroh
+ - [https://iroh.computer](https://iroh.computer)
+ - date_published: 2023-10-25T18:26:28.682186+00:00
+
+ ## iroh
+ - [https://sh.iroh.computer](https://sh.iroh.computer)
+ - date_published: 2022-08-03T13:35:26+00:00
+
+ ## Jazz.Computer
+ - [http://jazz.computer](http://jazz.computer)
+ - date_published: 2017-01-23T04:25:12+00:00
+
+ ## Kiosk Computer
+ - [https://kiosk.computer](https://kiosk.computer)
+ - date_published: 2023-07-08T20:04:04+00:00
+
+ ## Last Computer
+ - [https://last.computer](https://last.computer)
+ - date_published: 2024-09-14T23:27:34.445348+00:00
+
+ ## lucemans/computer | Luc van Kampen
+ - [https://luc.computer](https://luc.computer)
+ - date_published: 2024-08-17T22:18:50.825361+00:00
+
+ ## Lucas Heymès - lucas.computer
+ - [https://lucas.computer](https://lucas.computer)
+ - date_published: 2024-07-23T23:41:27.550364+00:00
+
+ ## Die Datenschleuder
+ - [https://dsdev.manu.computer](https://dsdev.manu.computer)
+ - date_published: 2023-02-27T00:00:00+00:00
+
+ ## Tommy Mitchel
+ - [https://www.mitchel.computer](https://www.mitchel.computer)
+ - date_published: 2024-05-31T22:51:10+00:00
+
  ## Mohamed Attia's Macrocosm
  - [https://mohamed.computer](https://mohamed.computer)
  - date_published: 2024-03-24T00:00:00+00:00
@@ -3938,84 +4018,4 @@
  ## Divadlo Na Fidlovačce - Divadlo Na Fidlovačce
  - [https://www.fidlovacka.cz](https://www.fidlovacka.cz)
  - date_published: 2024-09-05T17:24:35.317639+00:00
-
- ## Blog
- - [https://blog.filipkalousek.cz](https://blog.filipkalousek.cz)
- - date_published: 2024-05-11T10:22:45.102876+00:00
-
- ## Filip Kalousek | Frontend Developer
- - [https://filipkalousek.cz](https://filipkalousek.cz)
- - date_published: 2024-07-14T09:57:59.729959+00:00
-
- ## filmcity.cz
- - [http://www.filmcity.cz](http://www.filmcity.cz)
- - date_published: 2024-07-01T10:14:47.998582+00:00
-
- ## Filmtoro - když nevíš, co si pustíš
- - [http://filmtoro.cz](http://filmtoro.cz)
- - date_published: 2024-07-01T10:14:50.287276+00:00
-
- ## Finance.cz - daně, banky, kalkulačky, spoření, kurzy měn
- - [https://www.finance.cz](https://www.finance.cz)
- - date_published: 2024-09-09T22:08:53.826046+00:00
-
- ## FinTag.cz – zpravodajství z ekonomiky, politiky, byznysu i financí - fintag.cz
- - [https://fintag.cz](https://fintag.cz)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## e-Broker
- - [https://ebroker.fio.cz](https://ebroker.fio.cz)
- - date_published: 2024-06-16T11:19:44.230587+00:00
-
- ## Fio banka - účty bez poplatků a podmínek | Fio banka
- - [https://fio.cz](https://fio.cz)
- - date_published: 2024-10-02T14:05:33.122637+00:00
-
- ## Internetové bankovnictví | Fio banka
- - [https://ib.fio.cz](https://ib.fio.cz)
- - date_published: 2024-10-02T13:44:09.031091+00:00
-
- ## Podílové fondy - Fio investiční společnost | Fio fondy
- - [https://www.fiofondy.cz](https://www.fiofondy.cz)
- - date_published: 2024-06-16T11:19:46.477542+00:00
-
- ## Firkušný
- - [https://firkusny.cz](https://firkusny.cz)
- - date_published: 2024-06-17T11:11:45+00:00
-
- ## Admin - Firmy.cz
- - [https://admin.firmy.cz](https://admin.firmy.cz)
- - date_published: 2024-10-08T11:19:59+00:00
-
- ## Catalogue of businesses and institutions • Firmy.cz
- - [https://en.firmy.cz](https://en.firmy.cz)
- - date_published: 2024-09-05T17:07:56.196268+00:00
-
- ## Katalog firem a institucí • Firmy.cz
- - [https://firmy.cz](https://firmy.cz)
- - date_published: 2024-06-10T10:35:36.575726+00:00
-
- ## Firmy.cz Nápověda
- - [https://napoveda.firmy.cz](https://napoveda.firmy.cz)
- - date_published: 2024-06-16T17:20:55+00:00
-
- ## FitŽivot | Zdraví bez lékaře, rady a tipy pro kvalitní život
- - [https://www.fitzivot.cz](https://www.fitzivot.cz)
- - date_published: 2024-07-17T12:42:26.830852+00:00
-
- ## Flatio - Pronájmy pro digitální nomády
- - [https://www.flatio.cz](https://www.flatio.cz)
- - date_published: 2024-06-25T17:35:32.973077+00:00
-
- ## Kooperativa pojišťovna | Někde tam je, a proto jsme tady my
- - [https://www.flexi.cz](https://www.flexi.cz)
- - date_published: 2024-06-16T06:14:48.667597+00:00
-
- ## Cestování autobusem napříč Evropou | FlixBus
- - [https://www.flixbus.cz](https://www.flixbus.cz)
- - date_published: 2024-06-28T10:09:46+00:00
-
- ## FocusOn.cz
- - [https://www.focuson.cz](https://www.focuson.cz)
- - date_published: 2024-08-26T00:00:00+00:00
 

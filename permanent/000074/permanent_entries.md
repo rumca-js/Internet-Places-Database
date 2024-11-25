@@ -1,3 +1,28 @@
+ ## Houston Center for Christian Counseling
+ - [https://christiancounselinghouston.com](https://christiancounselinghouston.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Christian Daily International - Daily Christian News from Around the World
+ - [https://assets.christiandaily.com](https://assets.christiandaily.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Sign In - CDI Auth
+ - [https://auth.christiandaily.com](https://auth.christiandaily.com)
+ - date_published: 2024-07-04T06:24:06.839543+00:00
+
+ ## Christian Daily International - Daily Christian News from Around the World
+ - [https://christiandaily.com](https://christiandaily.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Christian Daily International - DIARIO CRISTIANO
+ - [https://es.christiandaily.com](https://es.christiandaily.com)
+ - date_published: 2024-07-04T06:24:03.290033+00:00
+
+ ## Flutter Developer in Melbourne, Australia
+ - [https://www.christianfindlay.com](https://www.christianfindlay.com)
+ - date_published: 2024-08-10T22:15:23.106344+00:00
+ - tags: ['personal']
+
  ## www.christianfredynaa.com
  - [http://www.christianfredynaa.com](http://www.christianfredynaa.com)
  - date_published: 2024-06-30T04:25:25.211039+00:00
@@ -4007,28 +4032,4 @@
  ## CivFanatics Forums
  - [http://forums.civfanatics.com](http://forums.civfanatics.com)
  - date_published: 2024-10-26T23:30:55+00:00
-
- ## Civic Pass | trust, control and safety for digital identity
- - [https://civic.com](https://civic.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Global leader in public sector software
- - [https://www.civica.com](https://www.civica.com)
- - date_published: 2024-10-19T10:33:01.002595+00:00
-
- ## Home | CivicActions
- - [https://civicactions.com](https://civicactions.com)
- - date_published: 2024-08-19T07:08:46+00:00
-
- ## Home - Civic Centre Uckfield
- - [https://www.civiccentreuckfield.com](https://www.civiccentreuckfield.com)
- - date_published: 2024-10-17T12:09:37.161936+00:00
-
- ## Public Portal • CivicClerk
- - [https://charlestonwv.civicclerk.com](https://charlestonwv.civicclerk.com)
- - date_published: 2024-07-15T05:15:18+00:00
-
- ## Public Portal • CivicClerk
- - [https://charlestonwv.portal.civicclerk.com](https://charlestonwv.portal.civicclerk.com)
- - date_published: 2024-07-15T05:15:18+00:00
 

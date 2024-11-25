@@ -1,3 +1,83 @@
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic.kr](https://microsoft-edge.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Microsoft Teams
+ - [https://microsoft-teams.softonic.kr](https://microsoft-teams.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## MoneyMe for windows
+ - [https://moneyme-for-windows.softonic.kr](https://moneyme-for-windows.softonic.kr)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic.kr](https://pochemeow.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Qjob - Helyi szakemberek
+ - [https://qjob-helyi-szakemberek.softonic.kr](https://qjob-helyi-szakemberek.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Rock Paper Scissors ULTIMATE
+ - [https://rock-paper-scissors-ultimate.softonic.kr](https://rock-paper-scissors-ultimate.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Roia
+ - [https://roia.softonic.kr](https://roia.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## RollZ (by Hecate Ediciones)
+ - [https://rollz-hecate-ediciones.softonic.kr](https://rollz-hecate-ediciones.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Shanghai Tile - Mahjong Match
+ - [https://shanghai-tile-mahjong-match.softonic.kr](https://shanghai-tile-mahjong-match.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 앱 뉴스 및 리뷰, 가장 많은 소프트웨어 다운로드 및 검색 - Softonic
+ - [https://softonic.kr](https://softonic.kr)
+ - date_published: 2024-04-29T05:11:47.459191+00:00
+
+ ## Splitgate 2 Companion
+ - [https://splitgate-2-companion.softonic.kr](https://splitgate-2-companion.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Sports Sports NETFLIX
+ - [https://sports-sports-netflix.softonic.kr](https://sports-sports-netflix.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Telegram
+ - [https://telegram.softonic.kr](https://telegram.softonic.kr)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Thú Kỳ Huyền 3D Mobile
+ - [https://thu-ky-huyen-3d-mobile.softonic.kr](https://thu-ky-huyen-3d-mobile.softonic.kr)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## ValTracker for Valorant
+ - [https://valtracker-for-valorant.softonic.kr](https://valtracker-for-valorant.softonic.kr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## 엑스피펜 | 엑스피펜 공식 스토어
+ - [https://storexppen.kr](https://storexppen.kr)
+ - date_published: 2024-05-30T18:42:53.877465+00:00
+
+ ## SYSSEC
+ - [https://www.syssec.kr](https://www.syssec.kr)
+ - date_published: 2024-05-06T15:58:21.916106+00:00
+
+ ## MIT Technology Review, MIT 테크놀로지 리뷰
+ - [https://www.technologyreview.kr](https://www.technologyreview.kr)
+ - date_published: 2024-07-01T15:01:42.609057+00:00
+
+ ## 전자부품 전문 미디어 디일렉
+ - [https://www.thelec.kr](https://www.thelec.kr)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## TVCC NEWS
+ - [https://tvcc.kr](https://tvcc.kr)
+ - date_published: 2024-09-23T13:10:29.147792+00:00
+
  ## 백괴사전, 너희 모두의 백과사전
  - [https://m.uncyclopedia.kr](https://m.uncyclopedia.kr)
  - date_published: 2024-07-14T06:54:04.748251+00:00
@@ -2854,6 +2934,10 @@
  - [https://www.freeline.life](https://www.freeline.life)
  - date_published: 2024-06-17T00:00:00+00:00
 
+ ## Fulllife Gameswear | Le shop officiel
+ - [https://full.life](https://full.life)
+ - date_published: 2024-11-24T18:44:02.618054+00:00
+
  ## Futurecraft
  - [https://futurecraft.life](https://futurecraft.life)
  - date_published: 2024-09-12T19:20:47.094880+00:00
@@ -3945,90 +4029,4 @@
  ## Home - Cr;Lf;
  - [https://crlf.link](https://crlf.link)
  - date_published: 2024-06-01T00:00:00+00:00
-
- ## CroppedLink
- - [https://cropped.link](https://cropped.link)
- - date_published: 2024-09-18T22:53:50.847739+00:00
-
- ## Rebrandly
- - [https://crowdcast.link](https://crowdcast.link)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Challenges
- - [https://2019.ctf.link](https://2019.ctf.link)
- - date_published: 2020-01-06T20:16:20+00:00
-
- ## (CWNP) Certified Wireless Network Professional Certification | Wireless Certification Program and Training
- - [https://cwnp.link](https://cwnp.link)
- - date_published: 2024-06-16T09:05:38.840576+00:00
-
- ## Zerodrop Login
- - [https://dangerous.link](https://dangerous.link)
- - date_published: 2024-05-01T08:45:16.314965+00:00
-
- ## listmonk - Dan Q Mail
- - [https://mail.danq.link](https://mail.danq.link)
- - date_published: 2024-07-19T23:24:48.575109+00:00
-
- ## Darknet Link Directory - Daunt
- - [https://daunt.link](https://daunt.link)
- - date_published: 2024-11-20T05:23:25+00:00
- - tags: ['onion web pages', 'darknet']
-
- ## Rebrandly
- - [https://dcbl.link](https://dcbl.link)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Rebrandly
- - [https://deepsee.link](https://deepsee.link)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Umami
- - [https://dgitl.link](https://dgitl.link)
- - date_published: 2024-07-03T01:42:24.828750+00:00
-
- ## Rebrandly
- - [https://dnsimple.link](https://dnsimple.link)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Upload PDF & Share Online, 100% Free
- - [https://doc2.link](https://doc2.link)
- - date_published: 2024-07-11T06:59:51+00:00
- - tags: ['file sharing']
-
- ## Adventure Gamers - The most trusted reviews of Adventure Games
- - [https://donvi.link](https://donvi.link)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## door.link
- - [https://www.door.link](https://www.door.link)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## /bookmarks
- - [https://bookmarks.dryusdan.link](https://bookmarks.dryusdan.link)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## DryLink
- - [https://dryusdan.link](https://dryusdan.link)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Free Video Hosting Made Easy - Dubz Platform
- - [https://dubz.link](https://dubz.link)
- - date_published: 2023-11-05T07:07:53.519389+00:00
-
- ## Education Week - K-12 education news and information
- - [https://edw.link](https://edw.link)
- - date_published: 2022-12-28T10:00:55.347000+00:00
-
- ## Cyno
- - [https://cyno.edxdev.link](https://cyno.edxdev.link)
- - date_published: 2024-05-22T13:15:43+00:00
-
- ## Efficient App | Top Software Reviews & Comparisons
- - [https://efficient.link](https://efficient.link)
- - date_published: 2024-07-18T06:55:06.527870+00:00
-
- ## eink.link
- - [https://eink.link](https://eink.link)
- - date_published: 2024-01-17T18:56:20+00:00
 
