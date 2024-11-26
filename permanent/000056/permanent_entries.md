@@ -1,3 +1,160 @@
+ ## Back on the Battlewagon
+ - [http://backonthebattlewagon.blogspot.com](http://backonthebattlewagon.blogspot.com)
+ - date_published: 2024-03-13T22:22:02+00:00
+
+ ## Sabine Hossenfelder: Backreaction
+ - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
+ - date_published: 2023-10-25T09:05:55.426378+00:00
+ - tags: ['personal']
+
+ ## Back Screen Pass - A DM's Secrets
+ - [http://backscreenpass.blogspot.com](http://backscreenpass.blogspot.com)
+ - date_published: 2024-03-19T12:44:28+00:00
+
+ ## Backseat driving
+ - [http://backseatdriving.blogspot.com](http://backseatdriving.blogspot.com)
+ - date_published: 2015-09-11T00:00:00+00:00
+
+ ## Back Space Typewriters
+ - [http://backspacetypewriters.blogspot.com](http://backspacetypewriters.blogspot.com)
+ - date_published: 2024-03-14T09:54:23+00:00
+
+ ## BACK TO THE DUNGEON!
+ - [http://backtothedungeon.blogspot.com](http://backtothedungeon.blogspot.com)
+ - date_published: 2024-05-09T12:22:36+00:00
+
+ ## Blogger
+ - [https://backtothekeep.blogspot.com](https://backtothekeep.blogspot.com)
+ - date_published: 2024-07-20T07:52:37.796752+00:00
+
+ ## Back to the Minis
+ - [http://backtotheminis.blogspot.com](http://backtotheminis.blogspot.com)
+ - date_published: 2024-10-22T08:33:02+00:00
+
+ ## Backwater Deathworld
+ - [https://backwaterdeathworld.blogspot.com](https://backwaterdeathworld.blogspot.com)
+ - date_published: 2023-03-26T00:00:00+00:00
+
+ ## BackyardConservative
+ - [http://backyardconservative.blogspot.com](http://backyardconservative.blogspot.com)
+ - date_published: 2012-11-07T00:26:00+00:00
+
+ ## Baconfat Log
+ - [http://baconfatblog.blogspot.com](http://baconfatblog.blogspot.com)
+ - date_published: 2024-07-11T18:08:01+00:00
+
+ ## Bad Archaeology
+ - [http://badarchaeology.blogspot.com](http://badarchaeology.blogspot.com)
+ - date_published: 2024-07-01T20:48:33+00:00
+
+ ## When Art History Goes Bad
+ - [http://badarthistory.blogspot.com](http://badarthistory.blogspot.com)
+ - date_published: 2024-03-14T05:37:05+00:00
+
+ ## Badass Teachers Association Blog
+ - [http://badassteachers.blogspot.com](http://badassteachers.blogspot.com)
+ - date_published: 2024-05-20T18:19:49+00:00
+
+ ## Bad British Architecture
+ - [http://badbritisharchitecture.blogspot.com](http://badbritisharchitecture.blogspot.com)
+ - date_published: 2024-10-21T16:42:15.951943+00:00
+
+ ## Bad For The Glass
+ - [http://badfortheglass.blogspot.com](http://badfortheglass.blogspot.com)
+ - date_published: 2024-02-20T19:55:51+00:00
+
+ ## Bad Friggin' Hair
+ - [http://badfrigginhair.blogspot.com](http://badfrigginhair.blogspot.com)
+ - date_published: 2024-06-20T14:47:31+00:00
+
+ ## Backspace does not erase
+ - [http://badonoer.blogspot.com](http://badonoer.blogspot.com)
+ - date_published: 2024-07-17T23:03:22+00:00
+
+ ## Badtouch's Hobby Basement
+ - [http://badtouchsbasement.blogspot.com](http://badtouchsbasement.blogspot.com)
+ - date_published: 2024-09-08T16:34:37+00:00
+
+ ## Lead Death
+ - [http://bagrationsarmies.blogspot.com](http://bagrationsarmies.blogspot.com)
+ - date_published: 2024-03-05T09:43:20+00:00
+
+ ## Baheyya: Egypt Analysis and Whimsy بهيّة
+ - [https://baheyya.blogspot.com](https://baheyya.blogspot.com)
+ - date_published: 2024-07-04T05:57:10+00:00
+
+ ## B's Life with English
+ - [http://baibasvenca.blogspot.com](http://baibasvenca.blogspot.com)
+ - date_published: 2024-10-19T10:56:20.024523+00:00
+
+ ## Baiju Muthukadan's Blog
+ - [http://baijum.blogspot.com](http://baijum.blogspot.com)
+ - date_published: 2024-03-05T04:17:07+00:00
+
+ ## Paul's Beer & Travel Blog
+ - [https://baileysbeerblog.blogspot.com](https://baileysbeerblog.blogspot.com)
+ - date_published: 2024-09-05T21:29:18+00:00
+
+ ## BAKER'S DOZEN
+ - [https://bakerzdozen.blogspot.com](https://bakerzdozen.blogspot.com)
+ - date_published: 2024-03-23T18:13:44+00:00
+
+ ## Balashon - Hebrew Language Detective
+ - [http://balashon.blogspot.com](http://balashon.blogspot.com)
+ - date_published: 2024-07-01T20:47:17+00:00
+
+ ## baldilocks
+ - [http://baldilocks-talking.blogspot.com](http://baldilocks-talking.blogspot.com)
+ - date_published: 2024-06-23T04:12:16+00:00
+
+ ## balidani
+ - [http://balidani.blogspot.com](http://balidani.blogspot.com)
+ - date_published: 2024-09-02T02:29:55+00:00
+
+ ## Bałkańskie gotowanie
+ - [http://balkancooking.blogspot.com](http://balkancooking.blogspot.com)
+ - date_published: 2024-04-27T01:04:37+00:00
+
+ ## Balkinization
+ - [https://balkin.blogspot.com](https://balkin.blogspot.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## L'AROSeur ...
+ - [http://ball000.blogspot.com](http://ball000.blogspot.com)
+ - date_published: 2024-09-02T05:32:05+00:00
+
+ ## BALLSEYE'S BOOMERS
+ - [http://ballseyesboomers.blogspot.com](http://ballseyesboomers.blogspot.com)
+ - date_published: 2024-06-20T16:37:00+00:00
+
+ ## balls out
+ - [http://balls-out.blogspot.com](http://balls-out.blogspot.com)
+ - date_published: 2010-02-18T00:00:00+00:00
+
+ ## Blogger
+ - [http://balticblog.blogspot.com](http://balticblog.blogspot.com)
+ - date_published: 2024-06-27T09:08:58.996497+00:00
+
+ ## Baltic Polyglottic
+ - [http://balticpolyglottic.blogspot.com](http://balticpolyglottic.blogspot.com)
+ - date_published: 2024-02-20T10:33:31+00:00
+
+ ## Baltimore InnerSpace
+ - [https://baltimoreinnerspace.blogspot.com](https://baltimoreinnerspace.blogspot.com)
+ - date_published: 2024-06-23T17:54:59+00:00
+
+ ## Banana Nutrament
+ - [http://banananutrament.blogspot.com](http://banananutrament.blogspot.com)
+ - date_published: 2024-10-21T04:46:11.890648+00:00
+
+ ## The Rudd Family
+ - [http://bandbrudd.blogspot.com](http://bandbrudd.blogspot.com)
+ - date_published: 2024-07-04T06:36:36+00:00
+
+ ## All About the Maxwell's
+ - [http://bandrmaxwell.blogspot.com](http://bandrmaxwell.blogspot.com)
+ - date_published: 2024-02-19T15:12:34+00:00
+
  ## BANES & BOONS
  - [http://banesandboons.blogspot.com](http://banesandboons.blogspot.com)
  - date_published: 2024-03-14T15:14:41+00:00
@@ -3860,160 +4017,4 @@
  ## Commonsense & Wonder
  - [http://commonsensewonder.blogspot.com](http://commonsensewonder.blogspot.com)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## common universals
- - [http://commonuniversals.blogspot.com](http://commonuniversals.blogspot.com)
- - date_published: 2024-03-13T21:07:19+00:00
-
- ## The Company of the Damned
- - [http://companyofthedamned.blogspot.com](http://companyofthedamned.blogspot.com)
- - date_published: 2024-07-06T17:53:26+00:00
-
- ## ComparativeLawBlog
- - [http://comparativelawblog.blogspot.com](http://comparativelawblog.blogspot.com)
- - date_published: 2024-10-18T20:41:45.075787+00:00
-
- ## The Compass Rose
- - [http://compassrosebooks.blogspot.com](http://compassrosebooks.blogspot.com)
- - date_published: 2024-10-18T16:03:11+00:00
-
- ## CompCondMat
- - [http://compcondmat.blogspot.com](http://compcondmat.blogspot.com)
- - date_published: 2024-03-05T12:25:41+00:00
-
- ## Competition Law Blog
- - [http://competitionlawblog.blogspot.com](http://competitionlawblog.blogspot.com)
- - date_published: 2024-03-19T10:26:09+00:00
-
- ## Complexes
- - [http://complexes.blogspot.com](http://complexes.blogspot.com)
- - date_published: 2024-03-07T09:19:40+00:00
-
- ## Complex Matters
- - [http://complexmatters.blogspot.com](http://complexmatters.blogspot.com)
- - date_published: 2024-03-13T19:20:37+00:00
-
- ## Perle Complottiste
- - [https://complottismo.blogspot.com](https://complottismo.blogspot.com)
- - date_published: 2024-07-04T06:14:20+00:00
-
- ## Components of Independence
- - [http://componentsofindependence.blogspot.com](http://componentsofindependence.blogspot.com)
- - date_published: 2024-10-21T14:47:00.527685+00:00
-
- ## Computación Cuántica
- - [http://computacioncuantica.blogspot.com](http://computacioncuantica.blogspot.com)
- - date_published: 2024-10-19T07:39:54.906462+00:00
-
- ## Computational Thoughts
- - [http://computationalthoughts.blogspot.com](http://computationalthoughts.blogspot.com)
- - date_published: 2024-03-13T13:52:16+00:00
-
- ## Computers and Networks
- - [https://computer-communication.blogspot.com](https://computer-communication.blogspot.com)
- - date_published: 2024-03-14T06:53:24+00:00
-
- ## Comunità di Geologia - dolfrang
- - [https://comunitadigeologia.blogspot.com](https://comunitadigeologia.blogspot.com)
- - date_published: 2024-07-01T22:00:32+00:00
-
- ## Con Blog
- - [http://conblogeration.blogspot.com](http://conblogeration.blogspot.com)
- - date_published: 2024-03-14T14:38:09+00:00
-
- ## Tristan Michel
- - [http://concept-054.blogspot.com](http://concept-054.blogspot.com)
- - date_published: 2024-10-07T05:04:05+00:00
-
- ## concept robots
- - [https://conceptrobots.blogspot.com](https://conceptrobots.blogspot.com)
- - date_published: 2024-09-21T22:47:29+00:00
-
- ## concept ships
- - [https://conceptships.blogspot.com](https://conceptships.blogspot.com)
- - date_published: 2024-09-23T10:29:26+00:00
-
- ## Concepts to Realities
- - [http://conceptstorealities.blogspot.com](http://conceptstorealities.blogspot.com)
- - date_published: 2024-09-02T07:32:56+00:00
-
- ## concept tanks
- - [http://concepttanks.blogspot.com](http://concepttanks.blogspot.com)
- - date_published: 2024-08-29T21:38:16+00:00
-
- ## Concept cars and trucks
- - [http://conceptvehicles.blogspot.com](http://conceptvehicles.blogspot.com)
- - date_published: 2024-10-25T10:38:22+00:00
-
- ## Concept Walk
- - [http://conceptwalk.blogspot.com](http://conceptwalk.blogspot.com)
- - date_published: 2024-06-19T17:06:28+00:00
-
- ## Watch movie online streaming
- - [http://concerningart.blogspot.com](http://concerningart.blogspot.com)
- - date_published: 2024-03-13T12:05:06+00:00
-
- ## Concurrency Freaks
- - [https://concurrencyfreaks.blogspot.com](https://concurrencyfreaks.blogspot.com)
- - date_published: 2024-01-09T02:30:50.690047+00:00
-
- ## Condensed concepts
- - [http://condensedconcepts.blogspot.com](http://condensedconcepts.blogspot.com)
- - date_published: 2024-06-16T17:40:19+00:00
-
- ## Conditioning Research
- - [http://conditioningresearch.blogspot.com](http://conditioningresearch.blogspot.com)
- - date_published: 2024-09-23T09:09:55+00:00
-
- ## CONFESSION ZERO
- - [http://confessionzero.blogspot.com](http://confessionzero.blogspot.com)
- - date_published: 2024-10-18T09:43:55+00:00
-
- ## The Conflict Cornucopia
- - [http://conflictcornucopia.blogspot.com](http://conflictcornucopia.blogspot.com)
- - date_published: 2024-09-02T10:32:12+00:00
-
- ## A Conflict of Interests
- - [http://conflictofinterests.blogspot.com](http://conflictofinterests.blogspot.com)
- - date_published: 2024-07-02T06:05:35+00:00
-
- ## Conflict Valorax
- - [http://conflictvalorax.blogspot.com](http://conflictvalorax.blogspot.com)
- - date_published: 2024-10-18T09:43:20+00:00
-
- ## The Confrontation Blog
- - [https://confrontationright.blogspot.com](https://confrontationright.blogspot.com)
- - date_published: 2024-06-13T12:05:28+00:00
-
- ## Confront the Left
- - [http://confronttheleft.blogspot.com](http://confronttheleft.blogspot.com)
- - date_published: 2024-03-13T14:08:51+00:00
-
- ## Conjugate Visits
- - [https://conjugatevisits.blogspot.com](https://conjugatevisits.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Institute for Conjunctural Research
- - [http://conjunctural.blogspot.com](http://conjunctural.blogspot.com)
- - date_published: 2024-03-21T16:49:46+00:00
-
- ## Dr. E.'s Conjure Blog - Hoodoo at its best
- - [http://conjuredoctor.blogspot.com](http://conjuredoctor.blogspot.com)
- - date_published: 2024-10-17T06:47:29+00:00
-
- ## Connected Systems
- - [http://connectedsystems-de.blogspot.com](http://connectedsystems-de.blogspot.com)
- - date_published: 2024-09-01T08:13:47+00:00
-
- ## Conniption Fit
- - [http://conniptioncatfit.blogspot.com](http://conniptioncatfit.blogspot.com)
- - date_published: 2024-03-08T22:32:12+00:00
-
- ## Conor's Commentary
- - [http://conorfryan.blogspot.com](http://conorfryan.blogspot.com)
- - date_published: 2024-10-21T12:02:43.374743+00:00
-
- ## My Cartoon Version of Reality
- - [http://conormchale.blogspot.com](http://conormchale.blogspot.com)
- - date_published: 2024-06-29T09:53:07+00:00
 

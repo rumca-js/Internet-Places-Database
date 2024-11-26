@@ -1,3 +1,11 @@
+ ## WisdomPlan: Your AI-Powered Learning Companion
+ - [https://wisdomplan.ai](https://wisdomplan.ai)
+ - date_published: 2024-06-14T08:58:47.993270+00:00
+
+ ## Wisecut AI
+ - [https://app.wisecut.ai](https://app.wisecut.ai)
+ - date_published: 2024-10-29T14:57:13+00:00
+
  ## Wisecut | AI Video Editor
  - [https://www.wisecut.ai](https://www.wisecut.ai)
  - date_published: 2024-10-30T20:52:28.000661+00:00
@@ -3510,6 +3518,15 @@
  - [https://my.flowsavvy.app](https://my.flowsavvy.app)
  - date_published: 2024-10-30T23:13:54.569038+00:00
 
+ ## Flowtide - beautiful new tab
+ - [https://flowtide.app](https://flowtide.app)
+ - date_published: 2024-11-25T18:30:10.037074+00:00
+ - tags: ['browser extension']
+
+ ## Show HN: Minimal, customizable new tab for Chrome/Firefox
+ - [https://www.flowtide.app](https://www.flowtide.app)
+ - date_published: 2024-11-25T15:51:59+00:00
+
  ## FL Studio: Professional Music Production Software
  - [https://flstudio.app](https://flstudio.app)
  - date_published: 2024-04-16T15:33:18+00:00
@@ -4002,20 +4019,4 @@
  ## Convert more website visitors into leads with Heyflow
  - [https://heyflow.app](https://heyflow.app)
  - date_published: 2024-09-14T23:41:44.432093+00:00
-
- ## HideMail: Protect Your Email Privacy with Random Aliases
- - [https://hidemail.app](https://hidemail.app)
- - date_published: 2024-07-14T10:19:15.020118+00:00
-
- ## HighTop
- - [https://hightop.app](https://hightop.app)
- - date_published: 2024-06-22T06:22:39.005957+00:00
-
- ## The remote job board you'll actually enjoy using
- - [https://himalayas.app](https://himalayas.app)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Hive | Fulfillment Provider | All-in-one Operations
- - [https://www.hive.app](https://www.hive.app)
- - date_published: 2024-06-12T00:00:00+00:00
 

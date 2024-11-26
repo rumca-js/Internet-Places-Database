@@ -1,3 +1,11 @@
+ ## demo.infoforge.ai
+ - [https://demo.infoforge.ai](https://demo.infoforge.ai)
+ - date_published: 2024-06-21T23:57:46+00:00
+
+ ## The email marketing platform to communicate with your customers.
+ - [https://www.infomail.ai](https://www.infomail.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Informly • Make Informed Decisions with Instant Insights. Powered with AI & Live Web Data
  - [https://informly.ai](https://informly.ai)
  - date_published: 2024-09-13T20:30:57.428850+00:00
@@ -4013,12 +4021,4 @@
  ## Quadrature
  - [https://quadrature.ai](https://quadrature.ai)
  - date_published: 2024-07-02T16:05:07+00:00
-
- ## Home - Qualifyed
- - [https://qualifyed.ai](https://qualifyed.ai)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## Sales Training Software: AI Role-Play and Coaching | Quantified
- - [https://quantified.ai](https://quantified.ai)
- - date_published: 2024-10-30T22:25:28.585278+00:00
 

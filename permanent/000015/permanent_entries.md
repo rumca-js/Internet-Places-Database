@@ -1,3 +1,41 @@
+ ## Micro.blog Community Challenges
+ - [https://challenges.micro.blog](https://challenges.micro.blog)
+ - date_published: 2024-05-02T04:04:42+00:00
+
+ ## Dave Winer
+ - [https://dave.micro.blog](https://dave.micro.blog)
+ - date_published: 2024-04-29T02:42:34.726615+00:00
+
+ ## Diplomatic Diva
+		- Diplomatic Diva
+ - [https://diplomaticdiva.micro.blog](https://diplomaticdiva.micro.blog)
+ - date_published: 2024-07-06T22:14:35+00:00
+
+ ## Frank Meeuwsen
+ - [https://frank.micro.blog](https://frank.micro.blog)
+ - date_published: 2024-08-06T06:57:15+00:00
+
+ ## Hey, Gabz!
+ - [https://gabz.micro.blog](https://gabz.micro.blog)
+ - date_published: 2024-07-03T20:30:28+00:00
+
+ ## John Gruber
+ - [http://gruber.micro.blog](http://gruber.micro.blog)
+ - date_published: 2024-02-11T23:29:19+00:00
+
+ ## Micro.blog Help Center
+ - [https://help.micro.blog](https://help.micro.blog)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Jarrod Blundy —
+ - [https://jarrod.micro.blog](https://jarrod.micro.blog)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Jacob Graudin
+		- Jacob Graudin
+ - [https://jbgraudin.micro.blog](https://jbgraudin.micro.blog)
+ - date_published: 2024-07-06T18:29:04+00:00
+
  ## JP Camara
  - [https://jpcamara.micro.blog](https://jpcamara.micro.blog)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -4004,41 +4042,4 @@ Educação
  ## International Business Times Brazil
  - [https://www.ibtimes.com.br](https://www.ibtimes.com.br)
  - date_published: 2024-06-30T06:57:06.468733+00:00
-
- ## blog.icons8.com
- - [https://blog.icons8.com.br](https://blog.icons8.com.br)
- - date_published: 2024-08-20T04:39:36.309869+00:00
-
- ## Ícones, ilustrações de clipart, fotos e músicas gratuitos
- - [https://icons8.com.br](https://icons8.com.br)
- - date_published: 2024-05-01T03:01:35.352072+00:00
-
- ## Esteiras porta cabos, cabos elétricos especiais, buchas autolubrificantes, guias lineares, robôs
- - [https://www.igus.com.br](https://www.igus.com.br)
- - date_published: 2024-08-06T23:12:43.331681+00:00
-
- ## LP Redação | Correção de Redação Enem e Vestibulares - Imaginie
- - [https://www.imaginie.com.br](https://www.imaginie.com.br)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Impactamidia - Criação e Desenvolvimento de Sites
- - [http://www.impactamidia.com.br](http://www.impactamidia.com.br)
- - date_published: 2024-07-13T02:30:04.230601+00:00
-
- ## Instituto Moreira Salles
- - [https://ims.com.br](https://ims.com.br)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## CARITOGEL > Link Situs Toto Togel Dan Toto Slot Online Paling Terpercaya Di Indonesia
- - [https://indicadorcongonhas.com.br](https://indicadorcongonhas.com.br)
- - date_published: 2024-05-11T10:50:35.835391+00:00
-
- ## Inferno3
- - [https://inferno3.com.br](https://inferno3.com.br)
- - date_published: 2024-03-27T20:50:41.342565+00:00
- - tags: ['mud game']
-
- ## Ferramentas Simples para Construir Produtos Incríveis - Inflectra Brasil
- - [http://www.inflectra.com.br](http://www.inflectra.com.br)
- - date_published: 2023-09-03T23:50:20+00:00
 

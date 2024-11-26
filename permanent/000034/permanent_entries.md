@@ -1,3 +1,63 @@
+ ## Sistema de Revistas. Fundación Universitaria Juan N. Corpas
+ - [https://revistas.juanncorpas.edu.co](https://revistas.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:56:50.681945+00:00
+
+ ## Home | Fundación Universitaria Juan N. Corpas
+ - [https://sga.juanncorpas.edu.co](https://sga.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:29.893051+00:00
+
+ ## SN        Login
+ - [https://sofianew.juanncorpas.edu.co](https://sofianew.juanncorpas.edu.co)
+ - date_published: 2024-09-10T16:59:05.310715+00:00
+
+ ## Biblioteca Juan Alberto Aragón Bateman catalog
+ - [https://biblioteca.konradlorenz.edu.co](https://biblioteca.konradlorenz.edu.co)
+ - date_published: 2024-06-12T11:04:03.979999+00:00
+
+ ## Biblioteca Juan Alberto Aragón Bateman catalog
+ - [http://catalogo.konradlorenz.edu.co](http://catalogo.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:08.513025+00:00
+
+ ## Ser Konradista - Fundación Universitaria Konrad Lorenz
+ - [https://la.konradlorenz.edu.co](https://la.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Medio Universitario | Fundación Universitaria Konrad Lorenz
+ - [https://mediouniversitario.konradlorenz.edu.co](https://mediouniversitario.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:50.480962+00:00
+
+ ## Konrad Lorenz-Lista de bases: Todo
+ - [https://recursosvirtuales.konradlorenz.edu.co](https://recursosvirtuales.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:16.965037+00:00
+
+ ## Repositorio - Fundación Universitaria Konrad Lorenz
+ - [https://repositorio.konradlorenz.edu.co](https://repositorio.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:09.914041+00:00
+
+ ## Apache Tomcat/9.0.71
+ - [https://serviciosweb.konradlorenz.edu.co](https://serviciosweb.konradlorenz.edu.co)
+ - date_published: 2024-06-12T03:20:58.564438+00:00
+
+ ## Entrar al sitio | VirtualKonrad
+ - [https://virtual.konradlorenz.edu.co](https://virtual.konradlorenz.edu.co)
+ - date_published: 2024-09-11T17:20:13.552378+00:00
+
+ ## Home - Aspirantes - Pregrados y Posgrados en Bogotá
+ - [https://www.konradlorenz.edu.co](https://www.konradlorenz.edu.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Acreditación Institucional en Alta Calidad – Minisitio de la dirección de Autoevaluación y Acreditación Institucional
+ - [https://acreditacion.libertadores.edu.co](https://acreditacion.libertadores.edu.co)
+ - date_published: 2024-09-11T21:12:37+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.libertadores.edu.co](https://blackboard.libertadores.edu.co)
+ - date_published: 2004-09-12T14:45:19+00:00
+
+ ## inicio
+ - [https://calendarioacademico.libertadores.edu.co](https://calendarioacademico.libertadores.edu.co)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Educación Continua | Diplomados seminarios y cursos
  - [https://educacion-continua.libertadores.edu.co](https://educacion-continua.libertadores.edu.co)
  - date_published: 2024-01-16T00:00:00+00:00
@@ -3969,67 +4029,4 @@
  ## Welcome to your Strapi app
  - [https://cms.mxd.codes](https://cms.mxd.codes)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Max Dietrich - Geospatial Developer
- - [https://mxd.codes](https://mxd.codes)
- - date_published: 2024-01-11T17:09:41.413244+00:00
-
- ## Home | Mykal Machon
- - [https://mykal.codes](https://mykal.codes)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Frontend Dev - Njeri Cooper
- - [https://njeri.codes](https://njeri.codes)
- - date_published: 2024-02-06T14:30:24+00:00
- - tags: ['personal']
-
- ## bin
- - [https://bin.nora.codes](https://bin.nora.codes)
- - date_published: 2024-04-30T07:17:40.759436+00:00
-
- ## Nora's Git
- - [https://git.nora.codes](https://git.nora.codes)
- - date_published: 2024-04-30T07:17:30.351935+00:00
-
- ## Leonora Tindall | Nora Codes
- - [https://nora.codes](https://nora.codes)
- - date_published: 2023-10-25T09:03:56.861895+00:00
- - tags: ['personal']
-
- ## Otsch Codes - Blog about Web Development and Business
- - [https://otsch.codes](https://otsch.codes)
- - date_published: 2024-05-09T08:18:55.669747+00:00
-
- ## Home
- - [https://owain.codes](https://owain.codes)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Sign in · GitLab
- - [https://owo.codes](https://owo.codes)
- - date_published: 2024-06-18T16:52:12.630418+00:00
-
- ## patched
- - [https://app.patched.codes](https://app.patched.codes)
- - date_published: 2024-08-11T18:59:05.461764+00:00
-
- ## Patched
- - [https://patched.codes](https://patched.codes)
- - date_published: 2024-10-31T17:53:25+00:00
-
- ## Dusty Phillips Codes
- - [https://dusty.phillips.codes](https://dusty.phillips.codes)
- - date_published: 2024-06-28T20:19:16.347900+00:00
-
- ## LazyVim for Ambitious Developers
- - [https://lazyvim-ambitious-devs.phillips.codes](https://lazyvim-ambitious-devs.phillips.codes)
- - date_published: 2024-08-19T17:53:11.247323+00:00
-
- ## What is qr.codes?
- - [https://qr.codes](https://qr.codes)
- - date_published: 2024-08-08T19:18:02.336992+00:00
-
- ## Qubyte Codes - About
- - [https://qubyte.codes](https://qubyte.codes)
- - date_published: 2023-10-25T08:43:56.747901+00:00
- - tags: ['personal']
 

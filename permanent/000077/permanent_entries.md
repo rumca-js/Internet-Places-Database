@@ -1,3 +1,192 @@
+ ## Real-Time AI Coaching & Guidance for Contact Centers | Cogito
+ - [http://www.cogitocorp.com](http://www.cogitocorp.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## coglayer
+ - [https://app.coglayer.com](https://app.coglayer.com)
+ - date_published: 2024-06-25T19:34:15+00:00
+
+ ## coglayer
+ - [https://coglayer.com](https://coglayer.com)
+ - date_published: 2024-08-02T16:45:28+00:00
+
+ ## Cognac Reviews, News & Brand Releases - Cognac Expert Blog
+ - [https://blog.cognac-expert.com](https://blog.cognac-expert.com)
+ - date_published: 2019-01-28T15:37:35+00:00
+
+ ## Cognata | Autonomous and ADAS Vehicles Simulation Software
+ - [https://www.cognata.com](https://www.cognata.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Cognatus – The future of SysML
+ - [https://cognatusllc.com](https://cognatusllc.com)
+ - date_published: 2024-07-09T14:47:54.364914+00:00
+
+ ## Cognella Title Catalog
+ - [https://titles.cognella.com](https://titles.cognella.com)
+ - date_published: 2024-07-02T11:14:07.193014+00:00
+
+ ## Activate Behavior Change | Cognician
+ - [https://info.cognician.com](https://info.cognician.com)
+ - date_published: 2024-10-22T21:33:20.816498+00:00
+
+ ## Resources on How to Activate Behavior Change | Cognician
+ - [https://resources.cognician.com](https://resources.cognician.com)
+ - date_published: 2024-10-22T21:33:19.039761+00:00
+
+ ## Activate Behavior Change | Cognician
+ - [https://www.cognician.com](https://www.cognician.com)
+ - date_published: 2024-06-16T07:30:25+00:00
+
+ ## TOEFL Preparation App | AI-Powered Learning | CogniCircuit AI
+ - [https://www.cognicircuit.com](https://www.cognicircuit.com)
+ - date_published: 2024-07-08T15:28:05+00:00
+
+ ## Cognify - Your life, with AI
+ - [https://cognifystudio.com](https://cognifystudio.com)
+ - date_published: 2023-02-28T13:36:38+00:00
+
+ ## CogniGraph
+ - [http://www.cognigraph.com](http://www.cognigraph.com)
+ - date_published: 2013-01-06T00:00:00+00:00
+
+ ## AI & Data Best Practices Training & Certification​ - Cognilytica
+ - [https://www.cognilytica.com](https://www.cognilytica.com)
+ - date_published: 2024-07-01T15:04:13+00:00
+
+ ## Cogniteam
+ - [https://app.cognimbus.com](https://app.cognimbus.com)
+ - date_published: 2024-07-09T11:40:55+00:00
+
+ ## Cogniteam Cloud Platform — Cogniteam Cloud Platform
+ - [https://docs.cognimbus.com](https://docs.cognimbus.com)
+ - date_published: 2024-07-11T08:59:28+00:00
+
+ ## Your No. 1 Choice in Premium Sales Intelligence | Cognism
+ - [https://www.cognism.com](https://www.cognism.com)
+ - date_published: 2024-07-16T10:08:20+00:00
+
+ ## Home - Cogniteam | The Cloud Robotics Platform
+ - [https://cogniteam.com](https://cogniteam.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## The face recognition company - Cognitec
+ - [https://www.cognitec.com](https://www.cognitec.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Cognitect Blog
+ - [http://blog.cognitect.com](http://blog.cognitect.com)
+ - date_published: 2024-05-10T16:47:14+00:00
+
+ ## Cognitect, a Nu Holdings, Ltd. Company
+ - [https://cognitect.com](https://cognitect.com)
+ - date_published: 2024-06-26T19:19:57+00:00
+
+ ## Cognition
+ - [https://cognition-labs.com](https://cognition-labs.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Cognitive Collective Job Board
+ - [https://cognitivecollective.com](https://cognitivecollective.com)
+ - date_published: 2024-05-12T06:46:04.220191+00:00
+
+ ## CognitiveHack Japan 2024
+ - [https://cognitivehack-jp.cognitivectf.com](https://cognitivehack-jp.cognitivectf.com)
+ - date_published: 2024-10-31T06:59:48.662941+00:00
+
+ ## Cognitive Dissidents
+ - [http://blog.cognitivedissidents.com](http://blog.cognitivedissidents.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Cognitive Medium
+ - [https://cognitivemedium.com](https://cognitivemedium.com)
+ - date_published: 2021-07-23T15:53:18+00:00
+
+ ## Taylor & Francis - Fostering human progress through knowledge
+ - [http://www.cognitiveneurosciencearena.com](http://www.cognitiveneurosciencearena.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Cognitive Pilot (ООО «Когнитив Роботикс»)
+ - [http://cognitivepilot.com](http://cognitivepilot.com)
+ - date_published: 2024-07-12T07:31:38.685198+00:00
+
+ ## Cognitive Pilot - autonomous driving technologies for ground transport
+ - [https://en.cognitivepilot.com](https://en.cognitivepilot.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## SEO Tools to Increase Your Traffic - cognitiveSEO
+ - [https://cdn.cognitiveseo.com](https://cdn.cognitiveseo.com)
+ - date_published: 2024-06-26T21:26:22.043116+00:00
+
+ ## SEO Tools to Increase Your Traffic - cognitiveSEO
+ - [https://cognitiveseo.com](https://cognitiveseo.com)
+ - date_published: 2024-05-06T13:49:49.954051+00:00
+ - tags: ['seo']
+
+ ## Homepage - cognitiveSEO
+ - [http://support.cognitiveseo.com](http://support.cognitiveseo.com)
+ - date_published: 2024-06-26T21:26:24.207535+00:00
+
+ ## Login - cognitiveSEO
+ - [https://tools.cognitiveseo.com](https://tools.cognitiveseo.com)
+ - date_published: 2024-06-26T21:26:25.559610+00:00
+
+ ## Cognito Inc. Official Job Site
+ - [https://cognitocareers.com](https://cognitocareers.com)
+ - date_published: 2021-10-22T03:23:52+00:00
+
+ ## Cognito Forms | Free No-Code Workflow Automation Platform
+ - [https://services.cognitoforms.com](https://services.cognitoforms.com)
+ - date_published: 2024-06-18T10:57:30.213788+00:00
+
+ ## Cognito Forms: Free Online Form Builder
+ - [https://www.cognitoforms.com](https://www.cognitoforms.com)
+ - date_published: 2024-05-04T08:50:09.813797+00:00
+
+ ## WorkCompass
+ - [https://iucn.cognitohrm.com](https://iucn.cognitohrm.com)
+ - date_published: 2024-09-11T08:24:32+00:00
+
+ ## Cognito Therapeutics
+ - [https://cognitotx.com](https://cognitotx.com)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Cognivia | Reduce Clinical Trial Data Variability Up to 30%
+ - [https://cognivia.com](https://cognivia.com)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## PDF to Excel Converters - Free, Home & Business | PDF2XL
+ - [http://www.cogniview.com](http://www.cogniview.com)
+ - date_published: 2024-11-16T20:47:02.451764+00:00
+
+ ## Cognix Systems, SSII et agence Web pour développement, hébergement, site internet…
+ - [https://www.cognix-systems.com](https://www.cognix-systems.com)
+ - date_published: 2024-06-29T08:54:31.275015+00:00
+
+ ## Sign in to your account
+ - [https://be.cognizant.com](https://be.cognizant.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Welcome to careers at Cognizant
+ - [https://careers.cognizant.com](https://careers.cognizant.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investors.cognizant.com](https://investors.cognizant.com)
+ - date_published: 2024-06-23T02:21:22.961044+00:00
+
+ ## Cognizant News & Events | Cognizant Press Releases - Cognizant Technology Solutions
+ - [https://news.cognizant.com](https://news.cognizant.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Talent Authentication
+ - [https://talentacquisition.cognizant.com](https://talentacquisition.cognizant.com)
+ - date_published: 2024-06-23T02:21:03.213913+00:00
+
+ ## Home
+ - [https://www.cognizant.com](https://www.cognizant.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
  ## Cognizin: Think. Focus. Citicoline.
  - [https://cognizin.com](https://cognizin.com)
  - date_published: 2024-08-11T08:54:01.719530+00:00
@@ -1217,6 +1406,10 @@
  ## Collapse of Industrial Civilization
  - [https://collapseofindustrialcivilization.com](https://collapseofindustrialcivilization.com)
  - date_published: 2024-10-27T16:03:17+00:00
+
+ ## Collars & Co. - The Original Dress Collar Polo
+ - [https://collarsandco.com](https://collarsandco.com)
+ - date_published: 2024-11-25T20:41:44.661620+00:00
 
  ## Collateral Murder
  - [http://collateralmurder.com](http://collateralmurder.com)
@@ -3811,6 +4004,10 @@ Colyvan's Homepage
  - [https://complexityzoo.com](https://complexityzoo.com)
  - date_published: 2024-04-02T00:00:00+00:00
 
+ ## Complexly
+ - [https://complexly.com](https://complexly.com)
+ - date_published: 2021-10-22T00:00:00+00:00
+
  ## Complex Systems
  - [https://www.complexsystemspodcast.com](https://www.complexsystemspodcast.com)
  - date_published: 2024-08-18T20:42:18.691838+00:00
@@ -3842,201 +4039,4 @@ Colyvan's Homepage
  ## AD: Frontend
  - [https://account.complianceweek.com](https://account.complianceweek.com)
  - date_published: 2024-05-08T06:12:26.027493+00:00
-
- ## Compliance Week | News, Events & Thought Leadership for the Chief Compliance Officer
- - [https://complianceweek.com](https://complianceweek.com)
- - date_published: 2023-10-25T13:32:26.382565+00:00
-
- ## Compliance Week's Cyber Risk & Data Privacy Summit |  A Compliance Week Conference
- - [https://cyberrisk.complianceweek.com](https://cyberrisk.complianceweek.com)
- - date_published: 2024-05-08T06:12:36.745554+00:00
-
- ## Compliance Week Europe
- - [https://europe.complianceweek.com](https://europe.complianceweek.com)
- - date_published: 2024-05-08T06:12:35.683740+00:00
-
- ## EventRsvp
- - [https://events.complianceweek.com](https://events.complianceweek.com)
- - date_published: 2024-05-08T06:12:24.755257+00:00
-
- ## Compliance Week National  |  A Compliance Week Conference
- - [https://national.complianceweek.com](https://national.complianceweek.com)
- - date_published: 2024-05-08T06:12:34.462663+00:00
-
- ## Third-Party Risk Management & Oversight Summit | A Compliance Week Conference
- - [https://tprm.complianceweek.com](https://tprm.complianceweek.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Women in Compliance Summit | A Compliance Week Conference
- - [https://wic.complianceweek.com](https://wic.complianceweek.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Compliance Week National  |  A Compliance Week Conference
- - [https://www.complianceweeknational.com](https://www.complianceweeknational.com)
- - date_published: 2024-07-04T11:04:38.441891+00:00
-
- ## HIPAA Compliance Simplified.
- - [https://compliancy-group.com](https://compliancy-group.com)
- - date_published: 2024-05-08T15:40:53+00:00
-
- ## Welcome - Computational Light Laboratory at University College London
- - [https://complightlab.com](https://complightlab.com)
- - date_published: 2024-06-22T19:59:31+00:00
-
- ## Home
- - [https://complyadvantage.com](https://complyadvantage.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## ComplyDog | GDPR compliance portal for your B2B SaaS
- - [https://app.complydog.com](https://app.complydog.com)
- - date_published: 2024-10-17T10:07:21+00:00
-
- ## Laboratory for Computational Sensorimotor Neuroscience - Dr
-      Gunnar BLOHM
- - [http://compneurosci.com](http://compneurosci.com)
- - date_published: 2023-06-09T14:45:59+00:00
-
- ## Comp'ny Time Press
- - [http://compnytimepress.com](http://compnytimepress.com)
- - date_published: 2024-06-02T19:46:45+00:00
-
- ## .NET Zip Component, Embedded Delphi Database, BDE Alternative, Delphi Zip Component from ComponentAce
- - [http://www.componentace.com](http://www.componentace.com)
- - date_published: 2024-07-07T09:08:31.756076+00:00
-
- ## Open-source Web Components and Icons - Componentator
- - [https://componentator.com](https://componentator.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Components101 - Electronic Components Pinouts, Details & Datasheets
- - [https://components101.com](https://components101.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Component Search Engine: Free Symbols, footprints, & 3D models
- - [https://componentsearchengine.com](https://componentsearchengine.com)
- - date_published: 2020-05-23T00:00:00+00:00
-
- ## Electronics Weekly Component Search
- - [https://ew.componentsearchengine.com](https://ew.componentsearchengine.com)
- - date_published: 2024-05-01T08:43:50.405061+00:00
-
- ## Future Component Search
- - [https://future.componentsearchengine.com](https://future.componentsearchengine.com)
- - date_published: 2024-09-15T12:27:13.709349+00:00
-
- ## Component Search Engine: Free Symbols, footprints, & 3D models
- - [https://media.componentsearchengine.com](https://media.componentsearchengine.com)
- - date_published: 2020-05-23T00:00:00+00:00
-
- ## Sager Component Search
- - [https://sager.componentsearchengine.com](https://sager.componentsearchengine.com)
- - date_published: 2024-09-05T21:00:31.045889+00:00
-
- ## DB-Views - Low-Code Cloud Database Frontend
- - [https://www.componentsoftware.com](https://www.componentsoftware.com)
- - date_published: 2024-05-09T05:02:07.998690+00:00
-
- ## Comporium | Digital Video, Internet, Phone, and Home Security Monitoring
- - [http://www.comporium.com](http://www.comporium.com)
- - date_published: 2024-06-29T15:49:44.119919+00:00
-
- ## Build smart. Scale seamlessly | Composable.com
- - [https://composable.com](https://composable.com)
- - date_published: 2024-06-29T10:31:04.597704+00:00
-
- ## CompoSecure | The leader in premium metal payment cards and security solutions.
- - [https://www.composecure.com](https://www.composecure.com)
- - date_published: 2024-10-28T17:37:08+00:00
-
- ## Compose Dream Games
- - [https://composedreamgames.com](https://composedreamgames.com)
- - date_published: 2024-10-31T19:16:37.425233+00:00
-
- ## CDP Home
- - [https://composersdesktop.com](https://composersdesktop.com)
- - date_published: 2023-10-27T17:31:52+00:00
-
- ## Distance Learning - Composer Workshop
- - [https://composerworkshop.com](https://composerworkshop.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Composing Programs
- - [https://www.composingprograms.com](https://www.composingprograms.com)
- - date_published: 2024-07-09T13:52:38.669463+00:00
-
- ## F# Azure Cloud Training and Consultancy in UK and Germany
- - [https://compositional-it.com](https://compositional-it.com)
- - date_published: 2024-05-01T03:44:14.965819+00:00
-
- ## Composition i
- - [https://compositioni.com](https://compositioni.com)
- - date_published: 2021-12-17T20:13:54+00:00
-
- ## Composition n
- - [https://compositionn.com](https://compositionn.com)
- - date_published: 2022-11-27T12:26:08+00:00
-
- ## Compost Guy Educational Products
- - [https://compostguy.com](https://compostguy.com)
- - date_published: 2024-04-28T04:26:27.608205+00:00
-
- ## Compost Guy Educational Products
- - [https://courses.compostguy.com](https://courses.compostguy.com)
- - date_published: 2024-04-28T04:26:30.670127+00:00
-
- ## Compound Interest: Chemistry infographics
- - [https://www.compoundchem.com](https://www.compoundchem.com)
- - date_published: 2024-10-19T04:44:18.420943+00:00
-
- ## Compound - Wealth Management for Entrepreneurs, Professionals and Retirees
- - [https://app.compoundplanning.com](https://app.compoundplanning.com)
- - date_published: 2024-09-07T23:24:21.104220+00:00
-
- ## The Archive
- - [https://archive.compoundplanning.com](https://archive.compoundplanning.com)
- - date_published: 2023-11-13T00:00:00+00:00
-
- ## Compound Planning | Modern Wealth & Investment Management
- - [https://compoundplanning.com](https://compoundplanning.com)
- - date_published: 2024-09-07T23:24:21.760984+00:00
-
- ## Home
- - [https://info.compoundplanning.com](https://info.compoundplanning.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Legal
- - [https://legal.compoundplanning.com](https://legal.compoundplanning.com)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## The Manual
- - [https://manual.compoundplanning.com](https://manual.compoundplanning.com)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Com-Power Corporation - EMC Equipment Manufacturer and Supplier
- - [https://www.com-power.com](https://www.com-power.com)
- - date_published: 2024-10-16T13:44:21.531978+00:00
-
- ## Compradicción - Mejores ofertas de hoy, chollos, rebajas y descuentos
- - [https://www.compradiccion.com](https://www.compradiccion.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## COMPRA GAMER
- - [https://compragamer.com](https://compragamer.com)
- - date_published: 2024-07-13T13:45:08.418951+00:00
-
- ## Compress Buddy | Bulk Image Compression
- - [https://compressbuddy.com](https://compressbuddy.com)
- - date_published: 2024-09-25T13:08:32.717532+00:00
-
- ## Compress Test
- - [https://compresstest.com](https://compresstest.com)
- - date_published: 2021-02-20T21:01:56+00:00
-
- ## AI Signature Generator
- - [https://ai-signature-generator.compromath.com](https://ai-signature-generator.compromath.com)
- - date_published: 2024-06-06T14:20:33+00:00
-
- ## COMPROMATH
- - [https://www.compromath.com](https://www.compromath.com)
- - date_published: 2024-10-29T08:56:44+00:00
 

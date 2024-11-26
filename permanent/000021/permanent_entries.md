@@ -1,3 +1,39 @@
+ ## El temps a Catalunya - Servei Meteorològic de Catalunya
+ - [http://www.meteo.cat](http://www.meteo.cat)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## meth.cat IRC
+ - [https://meth.cat](https://meth.cat)
+ - date_published: 2024-06-23T18:31:38.604317+00:00
+
+ ## Mètode - Revista de difusió de la ciència
+ - [https://metode.cat](https://metode.cat)
+ - date_published: 2024-10-29T17:29:11+00:00
+
+ ## Home        | Museu de Ciències Naturals de Barcelona
+ - [https://museuciencies.cat](https://museuciencies.cat)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Museu d'Història de la Medicina de Catalunya
+ - [http://www.museudelamedicina.cat](http://www.museudelamedicina.cat)
+ - date_published: 2024-06-24T09:32:37.366278+00:00
+
+ ## Arbre de Família Gratuït, Genealogia, Història Familiar i proves d'ADN
+ - [https://www.myheritage.cat](https://www.myheritage.cat)
+ - date_published: 2024-10-30T07:56:23.837389+00:00
+
+ ## Nyan.Cat!
+ - [http://www.nyan.cat](http://www.nyan.cat)
+ - date_published: 2024-06-23T17:53:24.034570+00:00
+
+ ## Oblats de Montserrat – Oblats de Montserrat
+ - [https://oblatsmontserrat.cat](https://oblatsmontserrat.cat)
+ - date_published: 2024-09-17T21:14:25.733512+00:00
+
+ ## Resume - Wei Wang
+ - [https://onev.cat](https://onev.cat)
+ - date_published: 2024-07-23T22:15:17.584717+00:00
+
  ## 97jcp
  - [https://notes.orga.cat](https://notes.orga.cat)
  - date_published: 2024-06-19T22:09:30.300730+00:00
@@ -3614,6 +3650,10 @@
  - [https://www.am-switzerland.ch](https://www.am-switzerland.ch)
  - date_published: 2024-10-31T10:51:44+00:00
 
+ ## AMZ Website
+ - [https://www.amzracing.ch](https://www.amzracing.ch)
+ - date_published: 2024-11-25T10:39:59.487909+00:00
+
  ## andrewbanchi.ch
  - [http://andrewbanchi.ch](http://andrewbanchi.ch)
  - date_published: 2024-06-28T16:17:49.094028+00:00
@@ -3995,45 +4035,4 @@
  ## Your partner for digital transformation | Blackpoints
  - [https://www.blackpoints.ch](https://www.blackpoints.ch)
  - date_published: 2024-10-21T22:23:49.098695+00:00
-
- ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
- - [https://www.blick.ch](https://www.blick.ch)
- - date_published: 2024-06-25T22:03:28.409073+00:00
-
- ## BLKB: Was morgen zählt
- - [https://www.blkb.ch](https://www.blkb.ch)
- - date_published: 2024-07-24T06:06:26.250935+00:00
-
- ## Swiss Blockchain Consortium
- - [https://www.blockchainconsortium.ch](https://www.blockchainconsortium.ch)
- - date_published: 2024-09-25T10:31:17+00:00
-
- ## Mantis - Hexapod Testnet
- - [https://mantis.block-spirit.ch](https://mantis.block-spirit.ch)
- - date_published: 2022-05-26T06:50:27+00:00
-
- ## Gregors Blog
- - [https://blog-gregor.ch](https://blog-gregor.ch)
- - date_published: 2023-12-27T23:55:45.885819+00:00
- - tags: ['personal']
-
- ## Daily scala
- - [http://daily-scala.blogspot.ch](http://daily-scala.blogspot.ch)
- - date_published: 2012-10-05T00:00:00+00:00
-
- ## Everything SQL Server Compact
- - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
- - date_published: 2024-05-01T03:48:31.365826+00:00
-
- ## Random blatherings by Jeff
- - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
- - date_published: 2024-02-28T23:44:24+00:00
-
- ## IT and more (a.k.a. Doing-IT-Right)
- - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
- - date_published: 2024-03-13T20:36:44+00:00
-
- ## Reflections of a Newsosaur
- - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
- - date_published: 2024-07-30T08:15:33+00:00
 

@@ -1,3 +1,23 @@
+ ## The 7 Minute Workout App - Seven
+ - [https://seven.app](https://seven.app)
+ - date_published: 2024-02-08T08:34:04+00:00
+
+ ## Every mountain, building and tree shadow in the world simulated for any time
+ - [https://shademap.app](https://shademap.app)
+ - date_published: 2024-05-31T05:09:24+00:00
+
+ ## Shape Divider App
+ - [https://www.shapedivider.app](https://www.shapedivider.app)
+ - date_published: 2021-10-29T15:06:45+00:00
+
+ ## AI with Brain Inside Google Sheets
+ - [https://sheetai.app](https://sheetai.app)
+ - date_published: 2024-06-19T21:11:38.165510+00:00
+
+ ## Ayame Labo
+ - [https://ayame-labo.shiguredo.app](https://ayame-labo.shiguredo.app)
+ - date_published: 2024-07-23T23:16:54.785993+00:00
+
  ## Sora Labo
  - [https://sora-labo.shiguredo.app](https://sora-labo.shiguredo.app)
  - date_published: 2024-07-23T23:15:44.688373+00:00
@@ -1790,6 +1810,10 @@
  ## Effective Altruism Funds
  - [https://ea-funds-6ve1owvft-centreea.vercel.app](https://ea-funds-6ve1owvft-centreea.vercel.app)
  - date_published: 2024-06-21T11:38:57.174210+00:00
+
+ ## Easy Poll
+ - [https://easy-poll-one.vercel.app](https://easy-poll-one.vercel.app)
+ - date_published: 2024-11-25T06:05:49.491913+00:00
 
  ## Ebitengine - 一款Go语言超级简单2D游戏引擎
  - [https://ebiten-zh.vercel.app](https://ebiten-zh.vercel.app)
@@ -3993,29 +4017,4 @@
  ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
  - [https://zksync.zkbase.app](https://zksync.zkbase.app)
  - date_published: 2024-09-23T07:43:01.870609+00:00
-
- ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
- - [https://zksync.zks.app](https://zksync.zks.app)
- - date_published: 2024-09-23T07:43:14.407131+00:00
-
- ## Apple Music
- - [https://learn.applemusic.apple](https://learn.applemusic.apple)
- - date_published: 2023-10-25T08:24:32.581802+00:00
- - tags: ['audio streaming']
-
- ## Apple Music
- - [https://offers.applemusic.apple](https://offers.applemusic.apple)
- - date_published: 2024-06-28T17:04:08.784695+00:00
-
- ## Apple Pay
- - [https://offers.applepay.apple](https://offers.applepay.apple)
- - date_published: 2024-07-21T05:02:42.682311+00:00
-
- ## Landing Page
- - [https://experience.apple](https://experience.apple)
- - date_published: 2024-03-21T07:36:05+00:00
-
- ## SignTime
- - [https://signtime.apple](https://signtime.apple)
- - date_published: 2023-10-25T11:51:39.950397+00:00
 

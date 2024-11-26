@@ -1,3 +1,485 @@
+ ## Syntopikon | Substack
+ - [https://syntopikon.substack.com](https://syntopikon.substack.com)
+ - date_published: 2023-10-25T10:05:00.115504+00:00
+ - tags: ['substack']
+
+ ## Synvert's Substack | Richard Huang | Substack
+ - [https://synvert.substack.com](https://synvert.substack.com)
+ - date_published: 2024-08-17T23:28:14.342947+00:00
+
+ ## Synystron Synlogica | Substack
+ - [https://synystron.substack.com](https://synystron.substack.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Systems Approach | Bruce Davie | Substack
+ - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
+ - date_published: 2023-10-25T10:05:02.967943+00:00
+ - tags: ['substack']
+
+ ## Racket News | Matt Taibbi | Substack
+ - [https://taibbi.substack.com](https://taibbi.substack.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Talking About Finance | Dave Coker | Substack
+ - [https://talkingaboutfinance.substack.com](https://talkingaboutfinance.substack.com)
+ - date_published: 2024-06-19T23:44:04.972294+00:00
+
+ ## Talk Therapy | Fiona Smith | Substack
+ - [https://talktherapy.substack.com](https://talktherapy.substack.com)
+ - date_published: 2024-05-06T13:56:04.416572+00:00
+
+ ## Tamer’s Substack | Tamer Noah | Substack
+ - [https://tamernoah.substack.com](https://tamernoah.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Letters from Tammy Strobel | Substack
+ - [https://tammystrobel.substack.com](https://tammystrobel.substack.com)
+ - date_published: 2024-06-26T09:46:04.228103+00:00
+
+ ## Tangent design | Eduardo Hernandez | Substack
+ - [https://tangentdesign.substack.com](https://tangentdesign.substack.com)
+ - date_published: 2024-07-02T21:00:24.687118+00:00
+
+ ## Tania’s List | Tania Rascia | Substack
+ - [https://taniarascia.substack.com](https://taniarascia.substack.com)
+ - date_published: 2024-08-11T21:05:09.972781+00:00
+
+ ## Joy Is My Justice | Tanmeet Sethi, MD | Substack
+ - [https://tanmeetsethimd.substack.com](https://tanmeetsethimd.substack.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Monthly Mulling by Tapan Desai | Substack
+ - [https://tapandesai.substack.com](https://tapandesai.substack.com)
+ - date_published: 2024-08-18T04:09:06.591072+00:00
+
+ ## A Little Thing That Helps | Tara Schuster | Substack
+ - [https://taraschuster.substack.com](https://taraschuster.substack.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Softer Human Future | Taro | Substack
+ - [https://taronull.substack.com](https://taronull.substack.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Tashi the Golden Doodle's Substack | Bill Bishop | Substack
+ - [https://tashigd.substack.com](https://tashigd.substack.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## The Data Science and AI Newsletter | LunarTech | Substack
+ - [https://tatevaslanyan.substack.com](https://tatevaslanyan.substack.com)
+ - date_published: 2024-08-08T21:35:17.111340+00:00
+
+ ## Tatsuya's Comics | Tatsuya Ishida | Substack
+ - [https://tatsuyaishida.substack.com](https://tatsuyaishida.substack.com)
+ - date_published: 2024-05-11T10:48:07.471440+00:00
+
+ ## Taylor Berghane | Substack
+ - [https://taylorberghane.substack.com](https://taylorberghane.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Taylor’s Substack | Taylor Stuckey | Substack
+ - [https://taylorstuckey.substack.com](https://taylorstuckey.substack.com)
+ - date_published: 2024-07-20T21:32:56.797505+00:00
+
+ ## Thats Another Fine Mess | TCinLA | Substack
+ - [https://tcinla757.substack.com](https://tcinla757.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The Defender | Substack
+ - [https://tdefender.substack.com](https://tdefender.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Teachers for Choice | Michael Kane | Substack
+ - [https://teachersforchoice.substack.com](https://teachersforchoice.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Teach Your Kids Community | Manisha Rose Snoyer | Substack
+ - [https://teachyourkids.substack.com](https://teachyourkids.substack.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Team Prepared | Substack
+ - [https://teamprepared.substack.com](https://teamprepared.substack.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Kaitlyn’s Substack | Kaitlyn Facista | Substack
+ - [https://teawithtolkien.substack.com](https://teawithtolkien.substack.com)
+ - date_published: 2024-07-10T15:27:14.667602+00:00
+
+ ## Tech Arena | Paul | Substack
+ - [https://techarena.substack.com](https://techarena.substack.com)
+ - date_published: 2023-11-20T17:03:59.764776+00:00
+
+ ## Tech Books | Anton Zaides | Substack
+ - [https://techbooks.substack.com](https://techbooks.substack.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## The Tech Leader Docs | Victoria Drake | Substack
+ - [https://techleaderdocs.substack.com](https://techleaderdocs.substack.com)
+ - date_published: 2024-04-30T02:27:14.299494+00:00
+
+ ## The Technically Challenged Newsletter | Jesse | Substack
+ - [https://technicallychallenged.substack.com](https://technicallychallenged.substack.com)
+ - date_published: 2023-10-25T10:05:10.127902+00:00
+ - tags: ['substack']
+
+ ## Technically Thinking | Apurva Chitnis | Substack
+ - [https://technicallythinking.substack.com](https://technicallythinking.substack.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## The Reactionary | Techno Fog | Substack
+ - [https://technofog.substack.com](https://technofog.substack.com)
+ - date_published: 2023-10-25T10:05:12.420026+00:00
+ - tags: ['substack']
+
+ ## Techno Sapien | Mark Palmer | Substack
+ - [https://technosapien.substack.com](https://technosapien.substack.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## https://techtalksweekly.substack.com
+ - [https://techtalksweekly.substack.com](https://techtalksweekly.substack.com)
+ - date_published: 2024-01-14T11:06:13.211779+00:00
+
+ ## Tech Unicorns | Delia Lazarescu | Substack
+ - [https://techunicorn.substack.com](https://techunicorn.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## The Honest Broker | Ted Gioia | Substack
+ - [https://tedgioia.substack.com](https://tedgioia.substack.com)
+ - date_published: 2023-10-25T10:05:14.471020+00:00
+ - tags: ['substack']
+
+ ## Hope For Film | Ted Hope | Substack
+ - [https://tedhope.substack.com](https://tedhope.substack.com)
+ - date_published: 2023-10-25T10:05:16.815969+00:00
+ - tags: ['substack']
+
+ ## Telling Their Tales | Holly A Brown | Substack
+ - [https://tellingtheirtales.substack.com](https://tellingtheirtales.substack.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Dr Tenpenny - Walking With God | Dr. Sherri Tenpenny | Substack
+ - [https://tenpennywalkwithgod.substack.com](https://tenpennywalkwithgod.substack.com)
+ - date_published: 2024-07-03T19:05:14.608503+00:00
+
+ ## Terral’s Substack | Terral Croft | Substack
+ - [https://terral.substack.com](https://terral.substack.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Textual Variations | Mikhail Skoptsov | Substack
+ - [https://textualvariations.substack.com](https://textualvariations.substack.com)
+ - date_published: 2023-10-25T10:05:24.832937+00:00
+ - tags: ['substack']
+
+ ## The Devil's Dance | Thane Gustafson | Substack
+ - [https://thanegustafson.substack.com](https://thanegustafson.substack.com)
+ - date_published: 2024-08-19T16:00:02.711144+00:00
+
+ ## Thank You, Truckers! | Donna Laframboise | Substack
+ - [https://thankyoutruckers.substack.com](https://thankyoutruckers.substack.com)
+ - date_published: 2024-06-28T18:50:48.764154+00:00
+
+ ## As Sid thinketh | Siddhartha Bariker | Substack
+ - [https://thatssosid.substack.com](https://thatssosid.substack.com)
+ - date_published: 2024-09-04T04:46:19.192032+00:00
+
+ ## TheAbbie Blog | Abhishek Chaudhary | Substack
+ - [https://theabbie.substack.com](https://theabbie.substack.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## The Adam Thomas Product Newsletter | Substack
+ - [https://theadamthomas.substack.com](https://theadamthomas.substack.com)
+ - date_published: 2024-05-06T16:14:49.852245+00:00
+
+ ## Simi’s Substack | Simi Ben Hur | Substack
+ - [https://theadultsplaybook.substack.com](https://theadultsplaybook.substack.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## The AI Report | Substack
+ - [https://theaireport.substack.com](https://theaireport.substack.com)
+ - date_published: 2023-10-25T10:05:28.121557+00:00
+ - tags: ['substack']
+
+ ## The AI Underwriter | Otakar G. Hubschmann | Substack
+ - [https://theaiunderwriter.substack.com](https://theaiunderwriter.substack.com)
+ - date_published: 2023-10-25T10:05:29.847109+00:00
+ - tags: ['substack']
+
+ ## The Algorithmic Bridge | Alberto Romero | Substack
+ - [https://thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com)
+ - date_published: 2023-11-18T13:29:05.300485+00:00
+
+ ## The Alternative Hypothesis | Ryan Faulk | Substack
+ - [https://thealternativehypothesis.substack.com](https://thealternativehypothesis.substack.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## American Faith & Freedom | Jim McCraigh | Substack
+ - [https://theamericanfaithandfreedomblog.substack.com](https://theamericanfaithandfreedomblog.substack.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## The AP (Alex Pareene) Newsletter | Substack
+ - [https://theap.substack.com](https://theap.substack.com)
+ - date_published: 2024-01-09T01:44:55.633176+00:00
+
+ ## The Armchair Strategist | MJT | Substack
+ - [https://thearmchairstrategist.substack.com](https://thearmchairstrategist.substack.com)
+ - date_published: 2024-05-11T09:36:15.496554+00:00
+
+ ## a/symmetric | Force Distance Times | Substack
+ - [https://theasymmetric.substack.com](https://theasymmetric.substack.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## The Banter - Washington DC  | Ben Cohen | Substack
+ - [https://thebanter.substack.com](https://thebanter.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## The Bayesian Conspiracy | Eneasz Brodski | Substack
+ - [https://thebayesianconspiracy.substack.com](https://thebayesianconspiracy.substack.com)
+ - date_published: 2024-10-19T11:51:05.691022+00:00
+
+ ## The Big One | Lillian Stone | Substack
+ - [https://thebigone.substack.com](https://thebigone.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## The Biography Project | Dan Vekhter | Substack
+ - [https://thebiographyproject.substack.com](https://thebiographyproject.substack.com)
+ - date_published: 2024-05-07T14:58:46.306923+00:00
+
+ ## Defying Gentrification, Crafting Liberation | Kristen Jeffers, MPA ✊🏽🌈 | Substack
+ - [https://theblackurbanist.substack.com](https://theblackurbanist.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## The Boil Up | Substack
+ - [https://theboilup.substack.com](https://theboilup.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## The Bold Italic | Substack
+ - [http://thebolditalic.substack.com](http://thebolditalic.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## The BookStore Window | Mark Watson | Substack
+ - [https://thebookstorewindow.substack.com](https://thebookstorewindow.substack.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## The Breakthrough Journal | Substack
+ - [https://thebreakthroughjournal.substack.com](https://thebreakthroughjournal.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Breather | Debjit Banerjee | Substack
+ - [https://thebreather.substack.com](https://thebreather.substack.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## The Builder JR’s Newsletter | Substack
+ - [https://thebuilderjr.substack.com](https://thebuilderjr.substack.com)
+ - date_published: 2024-01-09T01:45:03.099174+00:00
+
+ ## The Business Leader Daily | Josh at Business Leader Daily | Substack
+ - [https://thebusinessleaderdaily.substack.com](https://thebusinessleaderdaily.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## The Chancery Daily | Chance the Lawyer | Substack
+ - [https://thechancerydaily.substack.com](https://thechancerydaily.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## The Chip Letter | Babbage | Substack
+ - [https://thechipletter.substack.com](https://thechipletter.substack.com)
+ - date_published: 2023-10-25T10:05:37.013524+00:00
+ - tags: ['substack']
+
+ ## The Climate Brink | Andrew Dessler | Substack
+ - [https://theclimatebrink.substack.com](https://theclimatebrink.substack.com)
+ - date_published: 2023-10-25T10:05:41.214841+00:00
+ - tags: ['substack']
+
+ ## The Column  | Adam Johnson | Substack
+ - [https://thecolumn.substack.com](https://thecolumn.substack.com)
+ - date_published: 2023-10-25T10:05:48.708696+00:00
+ - tags: ['substack']
+
+ ## The Common Sensei | Neil Bierbaum | Substack
+ - [https://thecommonsensei.substack.com](https://thecommonsensei.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## The Convivial Society | L. M. Sacasas | Substack
+ - [https://theconvivialsociety.substack.com](https://theconvivialsociety.substack.com)
+ - date_published: 2024-01-09T01:45:04.895361+00:00
+
+ ## The Cookie Castle News | Pat Condelli The Cookie Queen | Substack
+ - [https://thecookiequeen.substack.com](https://thecookiequeen.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Counterbalance | Balanced Economy Project | Substack
+ - [https://thecounterbalance.substack.com](https://thecounterbalance.substack.com)
+ - date_published: 2024-08-19T19:24:37.243013+00:00
+
+ ## The Creativity Guild | Steve Pratt | Substack
+ - [https://thecreativityguild.substack.com](https://thecreativityguild.substack.com)
+ - date_published: 2024-08-11T06:56:08.183851+00:00
+
+ ## The Crude Chronicles | Substack
+ - [https://thecrudechronicles.substack.com](https://thecrudechronicles.substack.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## The Culture We Deserve | Jessa Crispin | Substack
+ - [https://theculturewedeserve.substack.com](https://theculturewedeserve.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## The Daily Developer | Dave Paola | Substack
+ - [https://thedailydeveloper.substack.com](https://thedailydeveloper.substack.com)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## David Vance Substack | Substack
+ - [https://thedavidvance.substack.com](https://thedavidvance.substack.com)
+ - date_published: 2024-10-21T16:13:51.302608+00:00
+
+ ## The Deliberate | Sam Spurlin | Substack
+ - [https://thedeliberate.substack.com](https://thedeliberate.substack.com)
+ - date_published: 2024-04-29T01:45:22.447179+00:00
+
+ ## The Dig | Francine McKenna | Substack
+ - [https://thedig.substack.com](https://thedig.substack.com)
+ - date_published: 2024-06-17T09:21:56.069438+00:00
+
+ ## The Dispash | Gary Andrews | Substack
+ - [https://thedispash.substack.com](https://thedispash.substack.com)
+ - date_published: 2024-09-09T21:58:57.783712+00:00
+
+ ## The Dissenter | Jeff | Substack
+ - [https://thedissenter.substack.com](https://thedissenter.substack.com)
+ - date_published: 2024-10-31T00:01:03.976417+00:00
+
+ ## The Doji Gazette | Substack
+ - [https://thedojigazette.substack.com](https://thedojigazette.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Jen’s Substack | Substack
+ - [https://thedorkweb.substack.com](https://thedorkweb.substack.com)
+ - date_published: 2024-06-23T18:49:30.788494+00:00
+
+ ## The Eagle | Aragon 🦅 | Substack
+ - [https://theeagleweekly.substack.com](https://theeagleweekly.substack.com)
+ - date_published: 2024-09-21T23:35:03.355582+00:00
+
+ ## The Egg And The Rock | Julian Gough | Substack
+ - [https://theeggandtherock.substack.com](https://theeggandtherock.substack.com)
+ - date_published: 2024-01-09T01:45:12.611281+00:00
+
+ ## The Engineering Manager | James Stanier | Substack
+ - [https://theengineeringmanager.substack.com](https://theengineeringmanager.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## The Exit Game | Mujavid Bukhari | Substack
+ - [https://theexitgame.substack.com](https://theexitgame.substack.com)
+ - date_published: 2024-01-09T01:45:15.805900+00:00
+
+ ## The Fellowship of the Readers | Zoë Tavares Bennett | Substack
+ - [https://thefellowshipofthereaders.substack.com](https://thefellowshipofthereaders.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Off The Fence | The Fence Magazine | Substack
+ - [https://thefence.substack.com](https://thefence.substack.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## The Ferdinand | German Villegas | Substack
+ - [https://theferdinand.substack.com](https://theferdinand.substack.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## The Floutist | Patrick Lawrence | Substack
+ - [https://thefloutist.substack.com](https://thefloutist.substack.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## The Folk Forecast | Substack
+ - [https://thefolkforecast.substack.com](https://thefolkforecast.substack.com)
+ - date_published: 2024-04-28T01:57:12.797072+00:00
+
+ ## The Fucking News | Jonathan Larsen | Substack
+ - [https://thefuckingnews.substack.com](https://thefuckingnews.substack.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## The Gauntlet | Julia Doubleday | Substack
+ - [https://thegauntlet.substack.com](https://thegauntlet.substack.com)
+ - date_published: 2023-10-25T10:05:59.859496+00:00
+ - tags: ['substack']
+
+ ## The Generalist | Mario Gabriele | Substack
+ - [https://thegeneralist.substack.com](https://thegeneralist.substack.com)
+ - date_published: 2024-04-30T06:56:25.225922+00:00
+
+ ## The Golden Hour: climate, children, mental health | Anya Kamenetz | Substack
+ - [https://thegoldenhour.substack.com](https://thegoldenhour.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Golden Rivalry | Owen Lewis | Substack
+ - [https://thegoldenrivalry.substack.com](https://thegoldenrivalry.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Alt Protein Planet | The Good Food Institute | Substack
+ - [https://thegoodfoodinstitute.substack.com](https://thegoodfoodinstitute.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Legends and Songs: The Newsletter of Ian Thomas Wilson | Ian T. Wilson | Substack
+ - [https://thegr8scot.substack.com](https://thegr8scot.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## The Gradient | Substack
+ - [https://thegradientpub.substack.com](https://thegradientpub.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## The truth about everything* | Justin Myers | Substack
+ - [https://theguyliner.substack.com](https://theguyliner.substack.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## The G Word | Grace Capobianco | Substack
+ - [https://thegword.substack.com](https://thegword.substack.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## The Handbasket | Marisa Kabas | Substack
+ - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
+ - date_published: 2023-10-25T10:06:03.171125+00:00
+ - tags: ['substack']
+
+ ## The Health Algorithm | Mazen Ahmed | Substack
+ - [https://thehealthalgorithm.substack.com](https://thehealthalgorithm.substack.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## The Heart Attack Diet | John Lawrence Aspden | Substack
+ - [https://theheartattackdiet.substack.com](https://theheartattackdiet.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Heavy Meta | Lorenzo Fantoni | Substack
+ - [https://theheavymeta.substack.com](https://theheavymeta.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Hobbyist | Jonathan Wang | Substack
+ - [https://thehobbyist.substack.com](https://thehobbyist.substack.com)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Premium Grind | Vitruvius Grind | Substack
+ - [https://thehustlearchitect.substack.com](https://thehustlearchitect.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## The Hustling Engineer | Hemant Pandey | Substack
+ - [https://thehustlingengineer.substack.com](https://thehustlingengineer.substack.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## The Ice Man  | Seth Hettena | Substack
+ - [https://theiceman.substack.com](https://theiceman.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## The Immuno-Oncology Curve with Dr. Steven O'Day | Substack
+ - [https://theimmunooncologycurve.substack.com](https://theimmunooncologycurve.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Intelligent Friend | Riccardo Vocca | Substack
+ - [https://theintelligentfriend.substack.com](https://theintelligentfriend.substack.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## The Introverted Networker | Greg | Substack
+ - [https://theintrovertednetworker.substack.com](https://theintrovertednetworker.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The Iowa Mercury | Douglas Burns | Substack
+ - [https://theiowamercury.substack.com](https://theiowamercury.substack.com)
+ - date_published: 2024-07-28T00:00:00+00:00
+
  ## The Irish Stoic | Enda Harte | Substack
  - [https://theirishstoic.substack.com](https://theirishstoic.substack.com)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -416,6 +898,10 @@
  ## Tim Culpan’s Position | Substack
  - [https://timculpan.substack.com](https://timculpan.substack.com)
  - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Data Science for Fun and Profit | Tim Dellinger | Substack
+ - [https://timdellinger.substack.com](https://timdellinger.substack.com)
+ - date_published: 2024-11-25T16:12:23.406517+00:00
 
  ## Unfiltered by Tim Denning | Substack
  - [https://timdenning.substack.com](https://timdenning.substack.com)
@@ -2633,6 +3119,10 @@
  - [https://services.sungarddx.com](https://services.sungarddx.com)
  - date_published: 2024-07-03T17:03:12.346783+00:00
 
+ ## Sungazer
+ - [https://sungazermusic.com](https://sungazermusic.com)
+ - date_published: 2024-11-25T10:29:37.630161+00:00
+
  ## Home
  - [http://www.sunghyecho.com](http://www.sunghyecho.com)
  - date_published: 2024-07-20T10:59:41.119554+00:00
@@ -3563,484 +4053,4 @@
  ## Superior Telegram - Superior Telegram | News, weather, sports from Superior Wisconsin
  - [https://www.superiortelegram.com](https://www.superiortelegram.com)
  - date_published: 2024-07-13T12:47:58.871065+00:00
-
- ## Superjet International
- - [http://www.superjetinternational.com](http://www.superjetinternational.com)
- - date_published: 2024-07-09T21:53:09.553561+00:00
-
- ## SuperKids Educational Software Review.
- - [https://www.superkids.com](https://www.superkids.com)
- - date_published: 2024-08-19T06:48:39.641641+00:00
-
- ## Cierpliwości...
- - [https://profiles.superlawyers.com](https://profiles.superlawyers.com)
- - date_published: 2024-05-04T12:14:58.767840+00:00
-
- ## Cierpliwości...
- - [https://superlawyers.com](https://superlawyers.com)
- - date_published: 2024-05-06T22:20:14.941872+00:00
-
- ## SuperLectures
- - [http://blog.superlectures.com](http://blog.superlectures.com)
- - date_published: 2024-07-23T23:57:20.525841+00:00
-
- ## SuperLectures
- - [https://superlectures.com](https://superlectures.com)
- - date_published: 2024-04-29T07:19:43.725715+00:00
-
- ## SuperLenny Casino - Your Ultimate Home for Online Gaming
- - [https://superlennycasino.com](https://superlennycasino.com)
- - date_published: 2024-08-07T21:33:41.729595+00:00
-
- ## Superlinguo
- - [http://superlinguo.com](http://superlinguo.com)
- - date_published: 2024-06-26T14:28:14.730933+00:00
-
- ## LINKS.SUPERLINKED.COM - A Dub.co Custom Domain
- - [https://links.superlinked.com](https://links.superlinked.com)
- - date_published: 2024-07-04T11:29:02.891121+00:00
-
- ## Superlinked - The Vector Computer
- - [https://superlinked.com](https://superlinked.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Superlist: Home to all your lists
- - [https://www.superlist.com](https://www.superlist.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Super Luigi Bros - Home of the Marioverse, Mario & Luigi Mega Fansite
- - [http://www.superluigibros.com](http://www.superluigibros.com)
- - date_published: 2024-07-08T10:35:48+00:00
-
- ## Superlunar
- - [https://superlunar.com](https://superlunar.com)
- - date_published: 2022-12-15T00:00:00+00:00
-
- ## Superman Homepage
- - [https://supermanhomepage.com](https://supermanhomepage.com)
- - date_published: 2024-07-02T11:24:08+00:00
-
- ## Supermassive Games - Supermassive Games
- - [https://www.supermassivegames.com](https://www.supermassivegames.com)
- - date_published: 2024-10-25T17:44:22.073062+00:00
-
- ## Supermaven
- - [https://supermaven.com](https://supermaven.com)
- - date_published: 2024-02-22T22:32:11.351596+00:00
- - tags: ['code completion']
-
- ## Abracadabra 🪄
- - [https://supermedium.com](https://supermedium.com)
- - date_published: 2024-06-05T15:39:43+00:00
-
- ## SUPER MEGA
- - [https://supermegacomics.com](https://supermegacomics.com)
- - date_published: 2024-05-11T10:33:26.356104+00:00
-
- ## Super Memory: Forget about forgetting
- - [http://super-memory.com](http://super-memory.com)
- - date_published: 2023-12-21T11:17:31+00:00
-
- ## Supermetrics: Turn your marketing data into opportunity - Supermetrics
- - [https://supermetrics.com](https://supermetrics.com)
- - date_published: 2024-10-22T19:22:46.355680+00:00
- - tags: ['data marketing']
-
- ## Attention Required! | Cloudflare
- - [https://ir.supermicro.com](https://ir.supermicro.com)
- - date_published: 2024-05-11T09:10:33.396642+00:00
-
- ## MySupermicro | Supermicro
- - [https://mysupermicro.supermicro.com](https://mysupermicro.supermicro.com)
- - date_published: 2024-05-11T09:10:28.881938+00:00
-
- ## Supermicro eStore Europe
- - [https://store.supermicro.com](https://store.supermicro.com)
- - date_published: 2024-05-11T09:10:25.234031+00:00
-
- ## Supermicro Data Center Server, Blade, Data Storage, AI System
- - [https://supermicro.com](https://supermicro.com)
- - date_published: 2024-03-21T18:15:41+00:00
- - tags: ['hardware shop']
-
- ## IIS Windows Server
- - [https://webpr3.supermicro.com](https://webpr3.supermicro.com)
- - date_published: 2021-12-02T01:35:02+00:00
-
- ## Super Micro Fun
- - [https://supermicrofun.com](https://supermicrofun.com)
- - date_published: 2023-07-13T14:24:05+00:00
-
- ## Super MIDI Pak
- - [https://www.supermidipak.com](https://www.supermidipak.com)
- - date_published: 2024-08-19T15:37:05.777926+00:00
-
- ## Supermodel: A Sega Model 3 Arcade Emulator
- - [https://www.supermodel3.com](https://www.supermodel3.com)
- - date_published: 2023-11-09T01:29:35+00:00
-
- ## Supermojo
- - [https://supermojo.com](https://supermojo.com)
- - date_published: 2024-09-25T10:47:55.823306+00:00
-
- ## Super Monitoring - potężny, ale łatwy w obsłudze monitoring stron
- - [https://super-monitoring.com](https://super-monitoring.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Super Monitoring - powerful, yet easy-to-use website monitoring
- - [https://www.supermonitoring.com](https://www.supermonitoring.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Supermoon Camp
- - [https://www.supermooncamp.com](https://www.supermooncamp.com)
- - date_published: 2024-09-24T10:58:03.820394+00:00
-
- ## Turn conversations into results · Supernormal Voice Agents
- - [https://agents.supernormal.com](https://agents.supernormal.com)
- - date_published: 2024-09-26T20:44:03+00:00
-
- ## Supernormal - AI That Writes Your Meeting Notes
- - [https://supernormal.com](https://supernormal.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## supernova2007.com
- - [http://www.supernova2007.com](http://www.supernova2007.com)
- - date_published: 2024-08-06T09:05:54.012095+00:00
-
- ## Supernova Themes: Fast and SEO-Optimized WordPress Theme
- - [http://supernovathemes.com](http://supernovathemes.com)
- - date_published: 2024-03-26T05:57:04+00:00
-
- ## SuperOffice Login
- - [https://online.superoffice.com](https://online.superoffice.com)
- - date_published: 2024-06-13T08:34:36+00:00
-
- ## Home - SuperOps
- - [https://community.superops.com](https://community.superops.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
- - [https://superops.com](https://superops.com)
- - date_published: 2024-07-05T15:12:13+00:00
-
- ## SuperOps | Help Center
- - [https://support.superops.com](https://support.superops.com)
- - date_published: 2024-07-12T22:39:33.297054+00:00
-
- ## Loading...
- - [https://euserv.superopsalpha.com](https://euserv.superopsalpha.com)
- - date_published: 2024-07-12T14:39:32+00:00
-
- ## Loading...
- - [https://serv.superopsalpha.com](https://serv.superopsalpha.com)
- - date_published: 2024-07-12T14:39:32+00:00
-
- ## Loading...
- - [https://usserv.superopsalpha.com](https://usserv.superopsalpha.com)
- - date_published: 2024-07-12T14:39:32+00:00
-
- ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
- - [https://www.superopsalpha.com](https://www.superopsalpha.com)
- - date_published: 2024-07-12T06:50:36+00:00
-
- ## Loading...
- - [https://serv.superopsbeta.com](https://serv.superopsbeta.com)
- - date_published: 2024-07-12T14:42:32+00:00
-
- ## Superorder | All-in-One Restaurant Management Software
- - [http://superorder.com](http://superorder.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Superplum | Eat Healthier with Certified Safe Fresh Fruits
- - [https://shop.superplum.com](https://shop.superplum.com)
- - date_published: 2024-10-31T08:56:42.347365+00:00
-
- ## Superplum
- - [https://superplum.com](https://superplum.com)
- - date_published: 2024-06-19T05:47:53+00:00
-
- ## Superpoop: Photo Comics by Drew. Updates every Thursday.
- - [http://superpoop.com](http://superpoop.com)
- - date_published: 2024-06-20T05:10:15.694023+00:00
-
- ## Superposition Day
- - [https://superpositionday.com](https://superpositionday.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Superpouvoir.com - Univers Geek et Pop Culture
- - [http://forum.superpouvoir.com](http://forum.superpouvoir.com)
- - date_published: 2024-07-17T10:55:46.931037+00:00
-
- ## Superpower Health
- - [https://app.superpower.com](https://app.superpower.com)
- - date_published: 2024-10-17T14:16:31.015413+00:00
-
- ## Superpower
- - [https://superpower.com](https://superpower.com)
- - date_published: 2024-05-30T22:17:19+00:00
-
- ## Superpower Daily
- - [https://www.superpowerdaily.com](https://www.superpowerdaily.com)
- - date_published: 2024-10-30T07:40:53+00:00
-
- ## Superpowered Audio SDK Documentation
- - [https://docs.superpowered.com](https://docs.superpowered.com)
- - date_published: 2024-04-22T16:42:25+00:00
-
- ## Build Low Latency Audio-centric Apps for Mobile, Web, Desktop and Embedded from One API | Superpowered
- - [https://superpowered.com](https://superpowered.com)
- - date_published: 2021-12-15T10:33:48+00:00
-
- ## Oops! This project isn't running.
- - [https://api.superpowerups.com](https://api.superpowerups.com)
- - date_published: 2024-10-14T22:14:04.358813+00:00
-
- ## 💥Super Powers for Your Thinkific site
- - [http://playersnips.superpowerups.com](http://playersnips.superpowerups.com)
- - date_published: 2024-09-16T08:05:27.430530+00:00
-
- ## Superprof, vous êtes perdus ?
- - [https://c.superprof.com](https://c.superprof.com)
- - date_published: 2024-09-15T21:02:07.787486+00:00
-
- ## Superprof - The Platform for Private Tutors
- - [https://www.superprof.com](https://www.superprof.com)
- - date_published: 2024-05-06T21:46:59.480608+00:00
-
- ## Attention Required! | Cloudflare
- - [https://superrare.com](https://superrare.com)
- - date_published: 2024-07-03T11:55:06.585957+00:00
-
- ## Super Recruiter
- - [https://www.superrecruiter.com](https://www.superrecruiter.com)
- - date_published: 2024-06-20T16:15:07.314696+00:00
-
- ## League Of Super Redundant Heroes
- - [http://superredundant.com](http://superredundant.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Super Retriever Series – The best sporting dogs on this planet.
- - [https://www.superretrieverseries.com](https://www.superretrieverseries.com)
- - date_published: 2024-10-28T05:05:47.102676+00:00
-
- ## Super Safe Smurfs
- - [https://supersafesmurfs.com](https://supersafesmurfs.com)
- - date_published: 2024-06-12T21:31:30.831294+00:00
-
- ## SuperShot PRP
- - [https://supershotprp.com](https://supershotprp.com)
- - date_published: 2024-05-08T03:47:50.655274+00:00
-
- ## Super Smalls
- - [https://supersmalls.com](https://supersmalls.com)
- - date_published: 2024-04-29T03:43:45.287508+00:00
-
- ## Super Soldier Talk | Milabs, Monarchs, Mkultra
- - [https://supersoldiertalk.com](https://supersoldiertalk.com)
- - date_published: 2023-10-25T17:19:46.384521+00:00
-
- ## Turn Your Game into a Profitable Hit | Supersonic
- - [https://supersonic.com](https://supersonic.com)
- - date_published: 2024-06-27T11:29:13.327700+00:00
-
- ## About | supersonicbyte
- - [https://supersonicbyte.com](https://supersonicbyte.com)
- - date_published: 2024-06-23T14:37:28.583557+00:00
-
- ## Supersonic – get running, get moving, get active a whole lot more
- - [https://supersonicrun.com](https://supersonicrun.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## SuperStudentAI - AI-Powered Study Assistant
- - [https://superstudentai.com](https://superstudentai.com)
- - date_published: 2024-09-13T20:29:29.009961+00:00
-
- ## Exclusive Super Sudoku Generator and Solver
- - [https://supersudoku.com](https://supersudoku.com)
- - date_published: 2024-10-26T23:37:25.534506+00:00
-
- ## SuperSummit - USA
- - [https://supersummit.com](https://supersummit.com)
- - date_published: 2024-07-08T17:15:09+00:00
-
- ## Super Surge - Your search starts now
- - [https://supersurge.com](https://supersurge.com)
- - date_published: 2024-04-30T07:27:24.973329+00:00
-
- ## Super Sympa
- - [http://super-sympa.com](http://super-sympa.com)
- - date_published: 2019-03-07T14:26:42+00:00
-
- ## 603466164219281420 #general
- - [https://community.supertokens.com](https://community.supertokens.com)
- - date_published: 2024-04-29T07:58:44.511245+00:00
-
- ## SuperTokens, Open Source User Authentication
- - [https://supertokens.com](https://supertokens.com)
- - date_published: 2024-07-22T12:47:13.501092+00:00
-
- ## Mapping Ideas That Change the World
- - [https://superusapp.com](https://superusapp.com)
- - date_published: 2023-10-25T17:19:48.556306+00:00
-
- ## Meta Super User
- - [https://meta.superuser.com](https://meta.superuser.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Super User
- - [https://superuser.com](https://superuser.com)
- - date_published: 2023-10-25T17:19:51.369524+00:00
-
- ## Supervert
- - [https://supervert.com](https://supervert.com)
- - date_published: 2024-10-21T13:37:45.355337+00:00
-
- ## How To Take Over The World
- - [https://supervillainbook.com](https://supervillainbook.com)
- - date_published: 2024-05-13T03:25:47.145149+00:00
- - tags: ['book', 'comics']
-
- ## SuperVinx
- - [https://www.supervinx.com](https://www.supervinx.com)
- - date_published: 2024-07-24T04:57:28.265532+00:00
-
- ## Superwall
- - [https://superwall.com](https://superwall.com)
- - date_published: 2024-06-22T06:03:08.631292+00:00
-
- ## Home - SuperWomenMania
- - [http://www.superwomenmania.com](http://www.superwomenmania.com)
- - date_published: 2024-07-07T10:30:27+00:00
-
- ## Superworks - Recruit
- - [https://upmetrics.superworks.com](https://upmetrics.superworks.com)
- - date_published: 2024-10-30T03:51:21+00:00
-
- ## WorldBox - Best Sandbox God Simulator (0.22.9 - 0.22.15)
- - [https://www.superworldbox.com](https://www.superworldbox.com)
- - date_published: 2024-02-15T04:12:14+00:00
-
- ## Supper Mario Broth
- - [https://www.suppermariobroth.com](https://www.suppermariobroth.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Nutritional supplements reference database
- - [https://www.supplementreference.com](https://www.supplementreference.com)
- - date_published: 2013-09-10T09:35:18+00:00
-
- ## Supplements Report Com | Supplements Report
- - [http://www.supplementsreport.com](http://www.supplementsreport.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Supply Chain Digitalization Conference
- - [http://supplychain-conference.com](http://supplychain-conference.com)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Procurement & Supply Chain LIVE: Scope 3
- - [https://awards.supplychaindigital.com](https://awards.supplychaindigital.com)
- - date_published: 2024-09-16T10:16:37+00:00
-
- ## Procurement & Supply Chain LIVE
- - [https://live.supplychaindigital.com](https://live.supplychaindigital.com)
- - date_published: 2024-06-14T15:59:12+00:00
-
- ## Home of Supply Chain News
- - [https://supplychaindigital.com](https://supplychaindigital.com)
- - date_published: 2024-09-16T13:29:42.332569+00:00
-
- ## Supply Chain News and Analysis | Supply Chain Dive
- - [https://www.supplychaindive.com](https://www.supplychaindive.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Supply Chain Xchange Home Page | The SCXchange
- - [https://www.supplychainquarterly.com](https://www.supplychainquarterly.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Resources Archives
- - [https://intelligence.supplyframe.com](https://intelligence.supplyframe.com)
- - date_published: 2024-06-20T15:17:33.050332+00:00
-
- ## Supplyframe
- - [https://supplyframe.com](https://supplyframe.com)
- - date_published: 2024-05-04T09:12:35.922963+00:00
-
- ## Home - SupplyMover
- - [https://supplymover.com](https://supplymover.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Confessions of a Supply-Side Liberal
- - [http://blog.supplysideliberal.com](http://blog.supplysideliberal.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Stay ahead of the game
- - [https://supponor.com](https://supponor.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Breanna Morello Show | Flyover Conservatives (Powered by Donorbox)
- - [http://supportbre.com](http://supportbre.com)
- - date_published: 2024-07-03T18:47:35.901357+00:00
-
- ## QR2Donate | Supported Giving
- - [https://donate.supportedgiving.com](https://donate.supportedgiving.com)
- - date_published: 2024-07-09T16:49:46.489931+00:00
-
- ## Login | Supported Giving Donations Portal
- - [https://portal.supportedgiving.com](https://portal.supportedgiving.com)
- - date_published: 2024-07-09T16:49:45.139484+00:00
-
- ## Supported Giving | Partnering with charities in digital fundraising
- - [https://supportedgiving.com](https://supportedgiving.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## 2024 Home
- - [https://supportexp.com](https://supportexp.com)
- - date_published: 2024-06-16T17:22:00.895052+00:00
-
- ## 2024 Fall Appeal
- - [https://supportfirstthings.com](https://supportfirstthings.com)
- - date_published: 2024-10-27T18:52:43.960816+00:00
-
- ## Tom Woods Supporting Listeners «
- - [http://supportinglisteners.com](http://supportinglisteners.com)
- - date_published: 2024-06-27T11:52:41.296551+00:00
-
- ## Stand up for Jimmy Lai | #FreeJimmyLai
- - [https://supportjimmylai.com](https://supportjimmylai.com)
- - date_published: 2024-10-31T22:47:27.666128+00:00
-
- ## Support Joomla ®, guides et aide Joomla
- - [http://www.support-joomla.com](http://www.support-joomla.com)
- - date_published: 2024-07-03T05:11:06+00:00
-
- ## Seamless Outsourcing That Helps Companies Grow | SupportNinja
- - [https://www.supportninja.com](https://www.supportninja.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Support our ribbons
- - [http://supportourribbons.com](http://supportourribbons.com)
- - date_published: 2024-07-04T15:00:16.920186+00:00
-
- ## Support  | SendPulse
- - [https://www.supportsrc.com](https://www.supportsrc.com)
- - date_published: 2024-07-14T17:04:08+00:00
-
- ## Christ Church College
- - [https://chch.supportsystem.com](https://chch.supportsystem.com)
- - date_published: 2024-10-20T06:20:42.310168+00:00
-
- ## SupportSystem
- - [http://supportsystem.com](http://supportsystem.com)
- - date_published: 2024-07-17T11:47:28.448867+00:00
-
- ## David Jackson is Podcasts, Tutorials,
- - [https://supportthisshow.com](https://supportthisshow.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Supps Advisor
- - [https://suppsadvisor.com](https://suppsadvisor.com)
- - date_published: 2024-06-29T10:56:05+00:00
-
- ## Overview | Supra Docs
- - [https://docs.supra.com](https://docs.supra.com)
- - date_published: 2024-08-21T00:00:00+00:00
 

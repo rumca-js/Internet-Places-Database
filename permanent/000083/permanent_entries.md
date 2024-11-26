@@ -1,3 +1,215 @@
+ ## Data Souls
+ - [https://datasouls.com](https://datasouls.com)
+ - date_published: 2022-11-23T07:03:19+00:00
+
+ ## Home | Dataspeed
+ - [http://dataspeedinc.com](http://dataspeedinc.com)
+ - date_published: 2024-07-12T07:19:21.791861+00:00
+
+ ## DSG | Sports Data API, Widgets and Content Solutions
+ - [http://datasportsgroup.com](http://datasportsgroup.com)
+ - date_published: 2024-10-29T11:45:49.767257+00:00
+
+ ## Home | The Data Stack Show
+ - [https://datastackshow.com](https://datastackshow.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Datastax Astra
+ - [https://astra.datastax.com](https://astra.datastax.com)
+ - date_published: 2024-05-12T06:52:43.917635+00:00
+
+ ## Vector Database for Scalable Generative AI | DataStax
+ - [https://datastax.com](https://datastax.com)
+ - date_published: 2024-05-12T06:47:34.932384+00:00
+
+ ## Datastax Astra
+ - [https://dev.cloud.datastax.com](https://dev.cloud.datastax.com)
+ - date_published: 2024-07-16T19:32:12.289379+00:00
+
+ ## Astra DB Serverless | DataStax Docs
+ - [https://docs.astra.datastax.com](https://docs.astra.datastax.com)
+ - date_published: 2024-05-12T06:47:30.989261+00:00
+
+ ## DataStax Documentation | DataStax Docs | DataStax Docs
+ - [https://docs.datastax.com](https://docs.datastax.com)
+ - date_published: 2024-05-12T06:52:45.813327+00:00
+
+ ## Apache Cassandra Download  |  DataStax Enterprise
+ - [https://downloads.datastax.com](https://downloads.datastax.com)
+ - date_published: 2024-05-12T06:52:50.403015+00:00
+
+ ## DataStax Support
+ - [https://support.datastax.com](https://support.datastax.com)
+ - date_published: 2023-07-17T19:29:07+00:00
+
+ ## Datastax Astra
+ - [https://test.cloud.datastax.com](https://test.cloud.datastax.com)
+ - date_published: 2024-07-16T19:32:09.636496+00:00
+
+ ## Data Access Request
+ - [https://my.datasubject.com](https://my.datasubject.com)
+ - date_published: 2024-04-28T06:10:55.070863+00:00
+
+ ## Datateka
+ - [https://datateka.com](https://datateka.com)
+ - date_published: 2024-06-22T22:20:23.646539+00:00
+
+ ## Data Theorem | AppSec | API Security | Cloud Security
+ - [https://datatheorem.com](https://datatheorem.com)
+ - date_published: 2024-07-01T16:30:31+00:00
+
+ ## Data To Art
+ - [https://www.data-to-art.com](https://www.data-to-art.com)
+ - date_published: 2020-07-28T20:18:09+00:00
+
+ ## Data Analytics Company | Data Science Company in India
+ - [https://www.datatobiz.com](https://www.datatobiz.com)
+ - date_published: 2024-10-30T12:07:31.389967+00:00
+
+ ## From data to Viz | Find the graphic you need
+ - [https://www.data-to-viz.com](https://www.data-to-viz.com)
+ - date_published: 2024-05-07T10:30:06.345597+00:00
+
+ ## Regulatory Reporting Solution Across the Globe | DataTracks
+ - [http://www.datatracks.com](http://www.datatracks.com)
+ - date_published: 2024-10-21T09:09:03.799496+00:00
+
+ ## Sign In | DataValidation
+ - [https://dv3.datavalidation.com](https://dv3.datavalidation.com)
+ - date_published: 2024-10-14T08:38:28.067937+00:00
+
+ ## Dataverse
+ - [https://dataverse-os.com](https://dataverse-os.com)
+ - date_published: 2024-03-28T05:44:53+00:00
+
+ ## Real-Time Visitor Insights | Effortlessly Monitor Website Traffic
+ - [https://cdn.dataveu.com](https://cdn.dataveu.com)
+ - date_published: 2024-06-23T21:46:54+00:00
+
+ ## Real-Time Visitor Insights | Effortlessly Monitor Website Traffic
+ - [https://dataveu.com](https://dataveu.com)
+ - date_published: 2024-06-23T21:46:50.856208+00:00
+
+ ## Data Virtuality - Integrate data for better-informed decisions
+ - [https://datavirtuality.com](https://datavirtuality.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## CData Virtuality Documentation
+ - [http://documentation.datavirtuality.com](http://documentation.datavirtuality.com)
+ - date_published: 2024-10-14T08:50:13.418772+00:00
+
+ ## Welcome to CData Virtuality!
+ - [https://eu.platform.datavirtuality.com](https://eu.platform.datavirtuality.com)
+ - date_published: 2024-05-14T02:35:48+00:00
+
+ ## Welcome to CData Virtuality!
+ - [https://login.platform.datavirtuality.com](https://login.platform.datavirtuality.com)
+ - date_published: 2024-05-14T02:35:48+00:00
+
+ ## Pipes - Easy and Reliable Data Replication
+ - [https://pipes.datavirtuality.com](https://pipes.datavirtuality.com)
+ - date_published: 2024-06-16T20:12:09.149543+00:00
+
+ ## Data Virtuality | Trust Center
+ - [https://trust.datavirtuality.com](https://trust.datavirtuality.com)
+ - date_published: 2024-06-16T20:12:11.970191+00:00
+
+ ## Welcome to CData Virtuality!
+ - [https://us.pipes.datavirtuality.com](https://us.pipes.datavirtuality.com)
+ - date_published: 2024-10-07T17:45:26+00:00
+
+ ## Data Management Blog - Data Integration and Modern Data Management Articles, Analysis and Information
+ - [https://www.datavirtualizationblog.com](https://www.datavirtualizationblog.com)
+ - date_published: 2024-10-14T10:20:45.886434+00:00
+
+ ## Data Visualization Society
+ - [https://www.datavisualizationsociety.com](https://www.datavisualizationsociety.com)
+ - date_published: 2024-08-19T07:02:30.813236+00:00
+
+ ## The Data Visualisation Catalogue
+ - [https://datavizcatalogue.com](https://datavizcatalogue.com)
+ - date_published: 2023-04-04T11:46:08+00:00
+
+ ## Dataviz Inspiration | Hundreds of chart examples
+ - [https://www.dataviz-inspiration.com](https://www.dataviz-inspiration.com)
+ - date_published: 2024-07-01T05:26:20.692471+00:00
+
+ ## 1 dataset. 100 visualizations.
+ - [https://100.datavizproject.com](https://100.datavizproject.com)
+ - date_published: 2024-07-16T18:16:57.157737+00:00
+
+ ## Dedicated and Virtual Servers Solutions | DataWagon
+ - [https://datawagon.com](https://datawagon.com)
+ - date_published: 2024-06-21T18:44:41.663042+00:00
+
+ ## Home - Datawatch
+ - [https://www.datawatchsystems.com](https://www.datawatchsystems.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## The Data Whorehouse
+ - [http://www.datawhorehouse.com](http://www.datawhorehouse.com)
+ - date_published: 2004-11-28T08:36:23+00:00
+
+ ## Datawords | Agence de marketing et stratégie digitale
+ - [https://datawords.com](https://datawords.com)
+ - date_published: 2023-06-27T05:45:42+00:00
+
+ ## dataXtrade
+ - [https://dataxtrade.com](https://dataxtrade.com)
+ - date_published: 2024-05-06T17:57:04.623502+00:00
+
+ ## Datayes!萝卜投资-下一代智能投资平台
+ - [https://d.datayes.com](https://d.datayes.com)
+ - date_published: 2024-06-22T12:21:57.119414+00:00
+
+ ## 数据商城
+ - [https://mall.datayes.com](https://mall.datayes.com)
+ - date_published: 2024-01-09T11:38:24+00:00
+
+ ## 萝卜投研
+ - [https://m-robo.datayes.com](https://m-robo.datayes.com)
+ - date_published: 2024-06-22T12:21:59.675379+00:00
+
+ ## 通联财富
+ - [http://m-wms.datayes.com](http://m-wms.datayes.com)
+ - date_published: 2024-06-22T12:22:13.333519+00:00
+
+ ## 萝卜投资-下一代投资平台|选股_基本面分析|智能投研|组合风险管理
+ - [https://r.datayes.com](https://r.datayes.com)
+ - date_published: 2024-06-14T10:04:53+00:00
+
+ ## 萝卜投研-智能股票投研|选股_基本面分析|选股|研究|投研_看研报
+ - [https://robo.datayes.com](https://robo.datayes.com)
+ - date_published: 2024-05-16T09:40:44+00:00
+
+ ## 优矿 - 大数据时代的量化投资 - 通联量化实验室
+ - [https://uqer.datayes.com](https://uqer.datayes.com)
+ - date_published: 2024-05-13T04:28:10+00:00
+
+ ## 通联数据—AI赋能投资
+ - [https://www.datayes.com](https://www.datayes.com)
+ - date_published: 2024-05-04T15:46:48.187051+00:00
+
+ ## data·yze
+ - [https://datayze.com](https://datayze.com)
+ - date_published: 2024-08-18T10:38:12.489394+00:00
+
+ ## | DATE 2025
+ - [https://www.date-conference.com](https://www.date-conference.com)
+ - date_published: 2024-07-01T20:05:08.694230+00:00
+
+ ## Dateful
+ - [https://dateful.com](https://dateful.com)
+ - date_published: 2024-07-11T10:33:45.477267+00:00
+
+ ## datememe - 100 % বিনামূল্যে অনলাইন ডেটিং
+ - [https://bn.datememe.com](https://bn.datememe.com)
+ - date_published: 2020-12-27T15:51:57+00:00
+
+ ## datememe - 100% free online dating
+ - [https://c3.datememe.com](https://c3.datememe.com)
+ - date_published: 2020-12-27T15:51:34+00:00
+
  ## datememe - 100% free online dating
  - [https://datememe.com](https://datememe.com)
  - date_published: 2020-12-27T15:51:34+00:00
@@ -656,6 +868,10 @@
  ## David Crystal – Home
  - [http://www.davidcrystal.com](http://www.davidcrystal.com)
  - date_published: 2024-07-02T06:24:47.761147+00:00
+
+ ## David Cutter Music - Lofi Hip Hop
+ - [http://www.davidcuttermusic.com](http://www.davidcuttermusic.com)
+ - date_published: 2024-11-25T20:42:02.318081+00:00
 
  ## Looking at Artifacts and Ideas
  - [http://davidcycleback.com](http://davidcycleback.com)
@@ -2672,6 +2888,10 @@
  - [https://www.dearnextvisitor.com](https://www.dearnextvisitor.com)
  - date_published: 2024-06-23T00:04:21+00:00
 
+ ## Dear Photograph
+ - [https://dearphotograph.com](https://dearphotograph.com)
+ - date_published: 2024-11-25T06:05:32.164618+00:00
+
  ## Dear Producer - Amplifying the Voices of Producers
  - [https://dearproducer.com](https://dearproducer.com)
  - date_published: 2023-10-25T13:46:48.900755+00:00
@@ -3853,225 +4073,4 @@
  ## AlphaFold: Accelerating biological research
  - [https://unfolded.deepmind.com](https://unfolded.deepmind.com)
  - date_published: 2024-07-04T18:24:34.164735+00:00
-
- ## Leetcode but for ML
- - [https://www.deep-ml.com](https://www.deep-ml.com)
- - date_published: 2024-07-10T11:53:30+00:00
-
- ## DeepMotion - AI Motion Capture & Body Tracking
- - [https://deepmotion.com](https://deepmotion.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Top News - DeepNewz
- - [https://deepnewz.com](https://deepnewz.com)
- - date_published: 2024-08-11T17:06:23.904049+00:00
-
- ## Deep Nostalgia Ai Generator | Convert Old Family Image To Video For Free
- - [https://deepnostalgiaai.com](https://deepnostalgiaai.com)
- - date_published: 2024-07-10T00:02:53.511851+00:00
-
- ## Cierpliwości...
- - [https://community.deepnote.com](https://community.deepnote.com)
- - date_published: 2024-05-01T04:31:12.157176+00:00
-
- ## Deepnote: Analytics and data science notebook for teams.
- - [https://deepnote.com](https://deepnote.com)
- - date_published: 2023-10-25T13:47:56.980147+00:00
-
- ## Trust Center
- - [https://security.deepnote.com](https://security.deepnote.com)
- - date_published: 2024-05-01T04:31:13.443221+00:00
-
- ## Deep Overstock – Above top shelf
- - [https://deepoverstock.com](https://deepoverstock.com)
- - date_published: 2024-10-27T18:34:44.924483+00:00
-
- ## Deep Purple Official Website | Deep Purple
- - [http://www.deeppurple.com](http://www.deeppurple.com)
- - date_published: 2024-06-27T06:49:33.230845+00:00
-
- ## Deep Rock Galactic
- - [https://www.deeprockgalactic.com](https://www.deeprockgalactic.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## DeepRoots
- - [https://deeprootsbible.com](https://deeprootsbible.com)
- - date_published: 2024-09-09T16:32:47.175854+00:00
-
- ## collection of anne and many ameri, deep sadness .com by rafaël rozendaal, 2014
- - [https://www.deepsadness.com](https://www.deepsadness.com)
- - date_published: 2024-09-14T16:11:52+00:00
-
- ## All the news on the Earth's largest environment.
- - [https://deepseanews.com](https://deepseanews.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Gartner Top 40 MDR Provider. Top Cyber Defense Solution by Frost.
- - [https://www.deepseas.com](https://www.deepseas.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## DeepSeek
- - [https://chat.deepseek.com](https://chat.deepseek.com)
- - date_published: 2024-08-07T16:28:46.826660+00:00
-
- ## DeepSeek
- - [https://coder.deepseek.com](https://coder.deepseek.com)
- - date_published: 2024-04-28T03:39:13.113260+00:00
-
- ## DeepSeek
- - [https://deepseek.com](https://deepseek.com)
- - date_published: 2024-04-28T03:39:15.832342+00:00
-
- ## DeepSeek Platform
- - [https://platform.deepseek.com](https://platform.deepseek.com)
- - date_published: 2024-08-07T16:29:30.073718+00:00
-
- ## DeepSeek Service Status
- - [https://status.deepseek.com](https://status.deepseek.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## deepsilicon
- - [https://deepsilicon.com](https://deepsilicon.com)
- - date_published: 2024-08-23T23:45:54+00:00
-
- ## Deep Silver
- - [http://www.deepsilver.com](http://www.deepsilver.com)
- - date_published: 2024-11-08T13:07:07.706657+00:00
-
- ## White Noise for You and Your Baby
- - [https://deepsleepsounds.com](https://deepsleepsounds.com)
- - date_published: 2024-06-29T11:01:31+00:00
-
- ## Login - DeepSource
- - [https://app.deepsource.com](https://app.deepsource.com)
- - date_published: 2024-04-28T03:01:12.351466+00:00
-
- ## DeepSource: The Code Health Platform
- - [https://deepsource.com](https://deepsource.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## DeepSource Discuss
- - [https://discuss.deepsource.com](https://discuss.deepsource.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## DeepSource Documentation
- - [https://docs.deepsource.com](https://docs.deepsource.com)
- - date_published: 2024-04-28T03:06:28.839627+00:00
-
- ## Planned - DeepSource Product Roadmap | Product Roadmap
- - [https://roadmap.deepsource.com](https://roadmap.deepsource.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Trust Center
- - [https://trust.deepsource.com](https://trust.deepsource.com)
- - date_published: 2024-04-28T03:06:32.809624+00:00
-
- ## DeepSource status
- - [https://deepsourcestatus.com](https://deepsourcestatus.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Deep South Ventures - Start with a great domain name
- - [https://deepsouthventures.com](https://deepsouthventures.com)
- - date_published: 2024-10-19T09:33:57.445517+00:00
-
- ## Deepstash - Smarter Every Day!
- - [https://deepstash.com](https://deepstash.com)
- - date_published: 2024-08-18T07:13:15.307417+00:00
-
- ## Deeptaanshu Kumar
- - [https://deeptaanshu.com](https://deeptaanshu.com)
- - date_published: 2023-04-16T14:50:05+00:00
-
- ## DeepTide
- - [https://deeptide.com](https://deeptide.com)
- - date_published: 2024-03-25T23:21:33+00:00
-
- ## DeepTide - ArcticMyst Security - Block DLL/XLL Attacks - Software Crash Monitoring
- - [https://portal.deeptide.com](https://portal.deeptide.com)
- - date_published: 2024-06-21T13:46:59.500037+00:00
-
- ## Deepti Kannapan - Fiction writer, painter, and engineer
- - [https://deeptikannapan.com](https://deeptikannapan.com)
- - date_published: 2023-12-31T16:46:51.630086+00:00
-
- ## isopod.cool v3 - Oh, you know ;)
- - [https://me.deeptwisty.com](https://me.deeptwisty.com)
- - date_published: 2024-05-09T08:05:23.485583+00:00
-
- ## DEEP VOODOO
- - [https://deepvoodoo.com](https://deepvoodoo.com)
- - date_published: 2023-10-25T13:47:58.271089+00:00
-
- ## Deepwander: Interactive Self-Exploration
- - [https://www.deepwander.com](https://www.deepwander.com)
- - date_published: 2024-10-30T10:29:41.788065+00:00
-
- ## Our Company & Purpose
- - [https://about.deere.com](https://about.deere.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Login
- - [https://account.deere.com](https://account.deere.com)
- - date_published: 2024-09-19T19:41:14.209485+00:00
-
- ## Careers at John Deere
- - [https://careers.deere.com](https://careers.deere.com)
- - date_published: 2024-06-28T06:55:15.004553+00:00
-
- ## John Deere | Global Dealer Locator
- - [https://dealerlocator.deere.com](https://dealerlocator.deere.com)
- - date_published: 2024-03-26T06:03:50+00:00
-
- ## Dealer Tools
- - [https://dealertools.deere.com](https://dealertools.deere.com)
- - date_published: 2023-11-21T05:04:30+00:00
-
- ## John Deere US | Products & Services Information
- - [https://deere.com](https://deere.com)
- - date_published: 2024-06-15T21:10:19.528666+00:00
- - tags: ['agricultural machinery']
-
- ## Mowers, Compact Tractors, Gator UVs for Sale | John Deere US
- - [https://e-marketing.deere.com](https://e-marketing.deere.com)
- - date_published: 2024-05-01T04:31:45.149418+00:00
-
- ## My Financial
- - [https://financials.deere.com](https://financials.deere.com)
- - date_published: 2024-08-29T10:58:18+00:00
-
- ## John Deere US | Products & Services Information
- - [https://forms.deere.com](https://forms.deere.com)
- - date_published: 2024-06-15T21:09:49.223622+00:00
-
- ## John Deere - Investor Relations
- - [https://investor.deere.com](https://investor.deere.com)
- - date_published: 2024-05-01T04:31:31.576148+00:00
-
- ## John Deere Survey
- - [https://johndeereusersurvey.deere.com](https://johndeereusersurvey.deere.com)
- - date_published: 2024-06-12T05:51:06+00:00
-
- ## Customer Service : John Deere Financial : Account Services
- - [https://myfinancialaccounts.deere.com](https://myfinancialaccounts.deere.com)
- - date_published: 2024-09-03T15:10:30+00:00
-
- ## Property Center
- - [https://propertycenter.deere.com](https://propertycenter.deere.com)
- - date_published: 2024-08-06T14:00:41+00:00
-
- ## Shop.Deere.Com | Shop genuine John Deere parts & merchandise
- - [https://shop.deere.com](https://shop.deere.com)
- - date_published: 2024-05-01T04:31:42.804464+00:00
-
- ## Global Country Selector | StellarSuport | John Deere Worldwide
- - [https://stellarsupport.deere.com](https://stellarsupport.deere.com)
- - date_published: 2024-06-15T21:09:08.724535+00:00
-
- ## John Deere (johndeerecustomer.) - Sign In
- - [https://teammanager.deere.com](https://teammanager.deere.com)
- - date_published: 2024-09-19T19:41:00.423136+00:00
-
- ## John Deere - Technical Information Store - Technical Information Store
- - [https://techpubs.deere.com](https://techpubs.deere.com)
- - date_published: 2024-05-01T04:31:46.945720+00:00
 

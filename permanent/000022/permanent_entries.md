@@ -1,3 +1,44 @@
+ ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
+ - [https://www.blick.ch](https://www.blick.ch)
+ - date_published: 2024-06-25T22:03:28.409073+00:00
+
+ ## BLKB: Was morgen zählt
+ - [https://www.blkb.ch](https://www.blkb.ch)
+ - date_published: 2024-07-24T06:06:26.250935+00:00
+
+ ## Swiss Blockchain Consortium
+ - [https://www.blockchainconsortium.ch](https://www.blockchainconsortium.ch)
+ - date_published: 2024-09-25T10:31:17+00:00
+
+ ## Mantis - Hexapod Testnet
+ - [https://mantis.block-spirit.ch](https://mantis.block-spirit.ch)
+ - date_published: 2022-05-26T06:50:27+00:00
+
+ ## Gregors Blog
+ - [https://blog-gregor.ch](https://blog-gregor.ch)
+ - date_published: 2023-12-27T23:55:45.885819+00:00
+ - tags: ['personal']
+
+ ## Daily scala
+ - [http://daily-scala.blogspot.ch](http://daily-scala.blogspot.ch)
+ - date_published: 2012-10-05T00:00:00+00:00
+
+ ## Everything SQL Server Compact
+ - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
+ - date_published: 2024-05-01T03:48:31.365826+00:00
+
+ ## Random blatherings by Jeff
+ - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
+ - date_published: 2024-02-28T23:44:24+00:00
+
+ ## IT and more (a.k.a. Doing-IT-Right)
+ - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
+ - date_published: 2024-03-13T20:36:44+00:00
+
+ ## Reflections of a Newsosaur
+ - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
+ - date_published: 2024-07-30T08:15:33+00:00
+
  ## Nuit Blanche
  - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
  - date_published: 2023-08-17T05:00:00+00:00
@@ -3967,46 +4008,4 @@
  ## Inside IT Jobs – Das Jobportal für Führungskräfte, Experten und Fachpersonen im IT-Bereich
  - [https://jobs.inside-it.ch](https://jobs.inside-it.ch)
  - date_published: 2024-07-11T00:00:00+00:00
-
- ## insieme handicap mental proches et famille
- - [https://insieme.ch](https://insieme.ch)
- - date_published: 2024-10-31T02:46:56+00:00
-
- ## Insomni'hack - Swiss Cybersecurity Conference
- - [https://insomnihack.ch](https://insomnihack.ch)
- - date_published: 2024-05-29T17:32:32.244409+00:00
- - tags: ['conference', 'cybersecurity']
-
- ## Home
- - [http://institut-kunst.ch](http://institut-kunst.ch)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Interdiscount - Der Elektronik-Shop Nr. 1
- - [https://www.interdiscount.ch](https://www.interdiscount.ch)
- - date_published: 2024-07-13T13:39:04.560818+00:00
-
- ## Interis AG
- - [https://www.interis.ch](https://www.interis.ch)
- - date_published: 2024-07-02T15:35:12+00:00
-
- ## Meeting Destination Interaken | Meetings, Kongresse, Incentives & Events in Interlaken
- - [https://interlaken-congress.ch](https://interlaken-congress.ch)
- - date_published: 2024-07-16T22:22:55.685353+00:00
-
- ## INTRA MUROS - das junge Winterthurer Kunstfestival
- - [https://intramuros.ch](https://intramuros.ch)
- - date_published: 2024-06-14T11:59:46.389882+00:00
-
- ## Home - Inventx
- - [https://inventx.ch](https://inventx.ch)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Economic Promotion and Innovation -   Vaud
- - [https://www.invest-vaud.ch](https://www.invest-vaud.ch)
- - date_published: 2024-07-21T06:27:33.506711+00:00
-
- ## Invisible · InVisible
- - [https://invisible.ch](https://invisible.ch)
- - date_published: 2023-12-19T03:01:42.549849+00:00
- - tags: ['personal']
 

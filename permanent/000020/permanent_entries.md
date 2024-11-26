@@ -1,3 +1,39 @@
+ ## Dialect Topography
+ - [https://dialect.topography.artsci.utoronto.ca](https://dialect.topography.artsci.utoronto.ca)
+ - date_published: 2006-01-05T17:02:15+00:00
+
+ ## Homepage | Digital Scholarship Unit
+ - [https://digital.utsc.utoronto.ca](https://digital.utsc.utoronto.ca)
+ - date_published: 2024-07-20T05:40:25+00:00
+
+ ## U of T Directory
+ - [http://directory.utoronto.ca](http://directory.utoronto.ca)
+ - date_published: 2023-07-04T19:39:23+00:00
+
+ ## University of Toronto
+ - [https://discover.research.utoronto.ca](https://discover.research.utoronto.ca)
+ - date_published: 2024-07-12T21:41:38.719485+00:00
+
+ ## Dalla Lana School of Public Health
+ - [https://dlsph.utoronto.ca](https://dlsph.utoronto.ca)
+ - date_published: 2024-06-09T00:56:10.915327+00:00
+
+ ## University of Toronto
+ - [https://donate.utoronto.ca](https://donate.utoronto.ca)
+ - date_published: 2024-04-30T05:28:29.464641+00:00
+
+ ## Home - Dunlap Institute
+ - [https://dunlap.utoronto.ca](https://dunlap.utoronto.ca)
+ - date_published: 2015-04-22T19:42:29+00:00
+
+ ## EASI | Enterprise Applications and Solutions Integration
+ - [https://easi.its.utoronto.ca](https://easi.its.utoronto.ca)
+ - date_published: 2024-08-11T10:25:40.411085+00:00
+
+ ## University of Toronto
+ - [https://engage.utoronto.ca](https://engage.utoronto.ca)
+ - date_published: 2024-04-30T05:29:16.716810+00:00
+
  ## Home | Engineering & Computer Science Library
  - [https://engineering.library.utoronto.ca](https://engineering.library.utoronto.ca)
  - date_published: 2024-05-08T00:00:00+00:00
@@ -3974,40 +4010,4 @@
  ## MetaData - El digital de tecnologia en català
  - [https://www.metadata.cat](https://www.metadata.cat)
  - date_published: 2024-10-30T09:41:01.994640+00:00
-
- ## El temps a Catalunya - Servei Meteorològic de Catalunya
- - [http://www.meteo.cat](http://www.meteo.cat)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## meth.cat IRC
- - [https://meth.cat](https://meth.cat)
- - date_published: 2024-06-23T18:31:38.604317+00:00
-
- ## Mètode - Revista de difusió de la ciència
- - [https://metode.cat](https://metode.cat)
- - date_published: 2024-10-29T17:29:11+00:00
-
- ## Home        | Museu de Ciències Naturals de Barcelona
- - [https://museuciencies.cat](https://museuciencies.cat)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Museu d'Història de la Medicina de Catalunya
- - [http://www.museudelamedicina.cat](http://www.museudelamedicina.cat)
- - date_published: 2024-06-24T09:32:37.366278+00:00
-
- ## Arbre de Família Gratuït, Genealogia, Història Familiar i proves d'ADN
- - [https://www.myheritage.cat](https://www.myheritage.cat)
- - date_published: 2024-10-30T07:56:23.837389+00:00
-
- ## Nyan.Cat!
- - [http://www.nyan.cat](http://www.nyan.cat)
- - date_published: 2024-06-23T17:53:24.034570+00:00
-
- ## Oblats de Montserrat – Oblats de Montserrat
- - [https://oblatsmontserrat.cat](https://oblatsmontserrat.cat)
- - date_published: 2024-09-17T21:14:25.733512+00:00
-
- ## Resume - Wei Wang
- - [https://onev.cat](https://onev.cat)
- - date_published: 2024-07-23T22:15:17.584717+00:00
 

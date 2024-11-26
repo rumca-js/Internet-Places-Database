@@ -1,3 +1,11 @@
+ ## Home - Qualifyed
+ - [https://qualifyed.ai](https://qualifyed.ai)
+ - date_published: 2023-03-16T00:00:00+00:00
+
+ ## Sales Training Software: AI Role-Play and Coaching | Quantified
+ - [https://quantified.ai](https://quantified.ai)
+ - date_published: 2024-10-30T22:25:28.585278+00:00
+
  ## Turn your content into an AI copilot | Quench
  - [https://quench.ai](https://quench.ai)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -4010,12 +4018,4 @@ Creative Solutions
  ## WisdomPlan: Your AI-Powered Learning Companion
  - [https://app.wisdomplan.ai](https://app.wisdomplan.ai)
  - date_published: 2024-09-14T07:54:10.272911+00:00
-
- ## WisdomPlan: Your AI-Powered Learning Companion
- - [https://wisdomplan.ai](https://wisdomplan.ai)
- - date_published: 2024-06-14T08:58:47.993270+00:00
-
- ## Wisecut AI
- - [https://app.wisecut.ai](https://app.wisecut.ai)
- - date_published: 2024-10-29T14:57:13+00:00
 

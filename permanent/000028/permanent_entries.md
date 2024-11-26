@@ -1,3 +1,47 @@
+ ## 中共北京理工大学纪委，北京理工大学监察室
+ - [http://jwjc.bit.edu.cn](http://jwjc.bit.edu.cn)
+ - date_published: 2024-07-29T03:01:26+00:00
+
+ ## 北京理工大学图书馆
+ - [http://lib.bit.edu.cn](http://lib.bit.edu.cn)
+ - date_published: 2024-08-07T13:29:25.254592+00:00
+
+ ## 北京理工大学邮件系统
+ - [https://mail.bit.edu.cn](https://mail.bit.edu.cn)
+ - date_published: 2024-08-07T13:36:23.877829+00:00
+
+ ## 智慧北理统一门户
+ - [http://online.bit.edu.cn](http://online.bit.edu.cn)
+ - date_published: 2024-08-07T13:30:41.430472+00:00
+
+ ## 北京理工大学党委教师工作部\人力资源部
+ - [http://renshichu.bit.edu.cn](http://renshichu.bit.edu.cn)
+ - date_published: 2024-08-06T03:42:07+00:00
+
+ ## 北京理工大学继教院
+ - [http://sce.bit.edu.cn](http://sce.bit.edu.cn)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## 北京理工大学国际教育学院
+ - [http://sice.bit.edu.cn](http://sice.bit.edu.cn)
+ - date_published: 2024-06-27T06:19:30+00:00
+
+ ## 北京理工大学 学生服务中心
+ - [http://student.bit.edu.cn](http://student.bit.edu.cn)
+ - date_published: 2024-07-01T01:44:57+00:00
+
+ ## 北京理工大学技术转移中心
+ - [http://ttc.bit.edu.cn](http://ttc.bit.edu.cn)
+ - date_published: 2024-08-02T05:54:07+00:00
+
+ ## Unified identity authentication platform
+ - [https://webvpn.bit.edu.cn](https://webvpn.bit.edu.cn)
+ - date_published: 2024-08-07T13:29:21.432889+00:00
+
+ ## 学生工作部武装部
+ - [https://xgb.bit.edu.cn](https://xgb.bit.edu.cn)
+ - date_published: 2024-08-06T14:39:55+00:00
+
  ## 北京理工大学信息公开网
  - [https://xxgk.bit.edu.cn](https://xxgk.bit.edu.cn)
  - date_published: 2024-08-06T17:42:17+00:00
@@ -3958,48 +4002,4 @@
  ## 海南省商务厅
  - [http://dofcom.hainan.gov.cn](http://dofcom.hainan.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省生态环境厅
- - [http://hnsthb.hainan.gov.cn](http://hnsthb.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省人力资源和社会保障厅
- - [http://hrss.hainan.gov.cn](http://hrss.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省工业和信息化厅
- - [http://iitb.hainan.gov.cn](http://iitb.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南机关党建
- - [http://jgdj.hainan.gov.cn](http://jgdj.hainan.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 海南省机关事务管理局
- - [http://jgsw.hainan.gov.cn](http://jgsw.hainan.gov.cn)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## 海南省司法厅
- - [http://justice.hainan.gov.cn](http://justice.hainan.gov.cn)
- - date_published: 2024-06-30T17:31:16.223339+00:00
-
- ## 海南省旅游和文化广电体育厅——阳光海南网
- - [http://lwt.hainan.gov.cn](http://lwt.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省林业局
- - [http://lyj.hainan.gov.cn](http://lyj.hainan.gov.cn)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 海南省发展和改革委员会
- - [http://plan.hainan.gov.cn](http://plan.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省民族事务委员会
- - [http://smzw.hainan.gov.cn](http://smzw.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 海南省统计局
- - [http://stats.hainan.gov.cn](http://stats.hainan.gov.cn)
- - date_published: 2024-06-30T20:21:46.484509+00:00
 
