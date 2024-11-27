@@ -1,3 +1,83 @@
+ ## What'sUpWithThatWatts, et al.
+ - [http://whatsupwiththatwatts.blogspot.com](http://whatsupwiththatwatts.blogspot.com)
+ - date_published: 2024-06-29T13:21:10+00:00
+
+ ## whatwouldcharlesmarteldotm
+ - [http://whatwouldcharlesmarteldotm.blogspot.com](http://whatwouldcharlesmarteldotm.blogspot.com)
+ - date_published: 2024-03-08T09:39:01+00:00
+
+ ## Wheeler's Website
+ - [http://wheelers-website.blogspot.com](http://wheelers-website.blogspot.com)
+ - date_published: 2024-10-21T11:58:40.928140+00:00
+
+ ## 357 Magnum
+ - [https://wheelgunr.blogspot.com](https://wheelgunr.blogspot.com)
+ - date_published: 2024-07-03T11:20:00+00:00
+
+ ## THE WHEEL OF SAMSARA
+ - [http://wheel-of-samsara.blogspot.com](http://wheel-of-samsara.blogspot.com)
+ - date_published: 2024-07-08T21:08:04+00:00
+
+ ## When Pigs Fly Returns
+ - [http://whenpigsfly-returns.blogspot.com](http://whenpigsfly-returns.blogspot.com)
+ - date_published: 2024-10-19T05:21:27.382293+00:00
+
+ ## When You Motor Away...
+ - [http://whenyoumotoraway.blogspot.com](http://whenyoumotoraway.blogspot.com)
+ - date_published: 2024-10-28T08:54:14+00:00
+
+ ## Where Are My Dice?
+ - [http://wherearemydice.blogspot.com](http://wherearemydice.blogspot.com)
+ - date_published: 2024-03-13T21:15:49+00:00
+
+ ## Where are the Clouds ?
+ - [http://where-are-the-clouds.blogspot.com](http://where-are-the-clouds.blogspot.com)
+ - date_published: 2024-03-05T16:19:51+00:00
+
+ ## Where'd my Vorpal Sword Go?
+ - [http://wheredmyvorpalswordgo.blogspot.com](http://wheredmyvorpalswordgo.blogspot.com)
+ - date_published: 2024-03-19T05:08:30+00:00
+
+ ## Where East Turns West
+ - [http://whereeastturnswest.blogspot.com](http://whereeastturnswest.blogspot.com)
+ - date_published: 2024-10-31T23:22:35+00:00
+
+ ## Where Five Valleys Meet
+ - [https://wherefivevalleysmeet.blogspot.com](https://wherefivevalleysmeet.blogspot.com)
+ - date_published: 2024-06-24T10:20:37+00:00
+
+ ## Where the sea pours out
+ - [https://wheretheseapoursout.blogspot.com](https://wheretheseapoursout.blogspot.com)
+ - date_published: 2024-05-17T15:57:00+00:00
+
+ ## Whetstone: Amateur Magazine of Pulp Sword and Sorcery
+ - [https://whetstonemag.blogspot.com](https://whetstonemag.blogspot.com)
+ - date_published: 2024-08-12T10:52:17+00:00
+
+ ## The Games Den
+ - [http://whfbwarroom.blogspot.com](http://whfbwarroom.blogspot.com)
+ - date_published: 2024-10-25T04:09:18+00:00
+
+ ## Warhammer Fantasy Miniatures Gallery
+ - [http://whfm.blogspot.com](http://whfm.blogspot.com)
+ - date_published: 2024-07-15T22:29:29+00:00
+
+ ## Where Are We Stanley?
+ - [http://whirarwistan1880.blogspot.com](http://whirarwistan1880.blogspot.com)
+ - date_published: 2024-03-21T17:44:53+00:00
+
+ ## Where Are We Stan?
+ - [http://whirarwistan.blogspot.com](http://whirarwistan.blogspot.com)
+ - date_published: 2024-03-13T15:37:28+00:00
+
+ ## Whiskey & 40k
+ - [http://whiskey40k.blogspot.com](http://whiskey40k.blogspot.com)
+ - date_published: 2024-10-23T14:19:26+00:00
+
+ ## Whispe raconte des trucs
+ - [http://whisperacontedestrucs.blogspot.com](http://whisperacontedestrucs.blogspot.com)
+ - date_published: 2024-09-26T23:22:17+00:00
+
  ## Whispers Of Chaos
  - [http://whispersofchaos.blogspot.com](http://whispersofchaos.blogspot.com)
  - date_published: 2024-08-31T11:38:41+00:00
@@ -2271,12 +2351,15 @@
  - date_published: 2024-06-18T06:56:30.933416+00:00
 
  ## Bloober Team
- - [https://www.blooberteam.com](https://www.blooberteam.com)
- - date_published: 2024-07-17T13:52:29.971338+00:00
+ - [https://blooberteam.com](https://blooberteam.com)
+ - date_published: 2024-11-26T11:26:06+00:00
 
  ## Blood and Dust
  - [https://blood-and-dust.com](https://blood-and-dust.com)
  - date_published: 2022-09-23T04:26:48+00:00
+
+ - [https://bloodborne.com](https://bloodborne.com)
+ - date_published: 2024-11-26T12:20:17+00:00
 
  ## BLOODFIRE
  - [https://blood-fire.com](https://blood-fire.com)
@@ -3935,88 +4018,4 @@
  ## Homepage | BMJ Medicine
  - [https://bmjmedicine.bmj.com](https://bmjmedicine.bmj.com)
  - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Oncology
- - [https://bmjoncology.bmj.com](https://bmjoncology.bmj.com)
- - date_published: 2023-10-25T13:07:13.553869+00:00
-
- ## Homepage | BMJ Open
- - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
- - date_published: 2023-11-21T13:29:50.036206+00:00
-
- ## Homepage | BMJ Open Gastroenterology
- - [https://bmjopengastro.bmj.com](https://bmjopengastro.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Open Quality
- - [https://bmjopenquality.bmj.com](https://bmjopenquality.bmj.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage | BMJ Open Respiratory Research
- - [https://bmjopenrespres.bmj.com](https://bmjopenrespres.bmj.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage | BMJ Open Sport & Exercise Medicine
- - [https://bmjopensem.bmj.com](https://bmjopensem.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Open Ophthalmology
- - [https://bmjophth.bmj.com](https://bmjophth.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Paediatrics Open
- - [https://bmjpaedsopen.bmj.com](https://bmjpaedsopen.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | BMJ Public Health
- - [https://bmjpublichealth.bmj.com](https://bmjpublichealth.bmj.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## BMJ  Careers  |  jobs  |  Choose  from  996  live  vacancies
- - [https://careers.bmj.com](https://careers.bmj.com)
- - date_published: 2024-05-08T03:01:19.366544+00:00
-
- ## Homepage | BMJ Case Reports
- - [https://casereports.bmj.com](https://casereports.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home
- - [https://clinicalintelligence.bmj.com](https://clinicalintelligence.bmj.com)
- - date_published: 2024-07-03T15:26:33.108331+00:00
-
- ## Home - BMJ Group
- - [http://company.bmj.com](http://company.bmj.com)
- - date_published: 2024-02-21T10:27:02+00:00
-
- ## Homepage | Considerations In Medicine
- - [https://considerations.bmj.com](https://considerations.bmj.com)
- - date_published: 2024-07-03T15:23:48.730016+00:00
-
- ## Search 16 UK medical courses on BMJ Careers Course finder
- - [https://coursefinder.bmj.com](https://coursefinder.bmj.com)
- - date_published: 2024-07-03T15:32:17.348182+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://doc2doc.bmj.com](https://doc2doc.bmj.com)
- - date_published: 2024-05-08T03:01:23.041777+00:00
-
- ## Homepage | BMJ Open Diabetes Research & Care
- - [http://drc.bmj.com](http://drc.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Drug and Therapeutics Bulletin
- - [https://dtb.bmj.com](https://dtb.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Homepage | BMJ Evidence-Based Medicine
- - [https://ebm.bmj.com](https://ebm.bmj.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage | BMJ Mental Health
- - [https://ebmh.bmj.com](https://ebmh.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Evidence Based Nursing
- - [https://ebn.bmj.com](https://ebn.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
 

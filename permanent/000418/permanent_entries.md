@@ -1,3 +1,363 @@
+ ## Bağımlılıkla Mücadele Merkezi | Yeşilay
+ - [https://www.yesilay.org.tr](https://www.yesilay.org.tr)
+ - date_published: 2024-10-18T21:26:57.542008+00:00
+
+ ## YETKİM - YETKİM
+ - [https://yetkim.org.tr](https://yetkim.org.tr)
+ - date_published: 2024-10-19T16:29:35.955007+00:00
+
+ ## Capterra işletmeniz için doğru yazılımı bulmanıza yardımcı olur
+ - [https://www.capterra.web.tr](https://www.capterra.web.tr)
+ - date_published: 2024-07-20T19:26:06.590330+00:00
+
+ ## Arızalara genel bakış
+ - [https://downdetector.web.tr](https://downdetector.web.tr)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Size Özel Hosting Platformu - Hostinger ile Online Ol
+ - [https://www.hostinger.web.tr](https://www.hostinger.web.tr)
+ - date_published: 2024-07-12T08:58:34+00:00
+
+ ## Axo DeFi Glossary | Axo DeFi Glossary
+ - [https://wiki.axo.trade](https://wiki.axo.trade)
+ - date_published: 2024-09-25T15:07:12.995472+00:00
+
+ ## Axo | The New Standard for Trading
+ - [https://www.axo.trade](https://www.axo.trade)
+ - date_published: 2024-06-16T05:04:21.736346+00:00
+
+ ## Brink - Composable Intents for Web3
+ - [https://www.brink.trade](https://www.brink.trade)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## CryptoCurrency eXchange Trading Library
+ - [https://ccxt.trade](https://ccxt.trade)
+ - date_published: 2021-11-26T06:14:58+00:00
+
+ ## Composer – Automated trading platform.
+ - [https://app.composer.trade](https://app.composer.trade)
+ - date_published: 2024-07-12T15:18:45+00:00
+
+ ## Composer – Investing. Built Better.
+ - [https://composer.trade](https://composer.trade)
+ - date_published: 2024-05-10T06:14:49.942203+00:00
+
+ ## Drift | Perpetual Swaps on Solana
+ - [https://www.drift.trade](https://www.drift.trade)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## dYdX Chain - Leading Decentralized Platform for Crypto Perpetual Trading
+ - [https://dydx.trade](https://dydx.trade)
+ - date_published: 2024-09-25T11:29:13.248427+00:00
+
+ ## Foxify: Decentralized Exchange
+ - [https://www.foxify.trade](https://www.foxify.trade)
+ - date_published: 2024-08-13T08:23:38+00:00
+
+ ## Inter Protocol
+ - [https://inter.trade](https://inter.trade)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Asia's Largest Web3 Gaming Ecosystem
+ - [https://www.jump.trade](https://www.jump.trade)
+ - date_published: 2024-06-16T04:33:38.873654+00:00
+
+ ## Kite Connect trading APIs
+ - [https://kite.trade](https://kite.trade)
+ - date_published: 2023-12-11T06:29:56+00:00
+
+ ## Perpetuals DEX with Aggregated Liquidity
+ - [https://app.logx.trade](https://app.logx.trade)
+ - date_published: 2024-06-16T04:34:55.537231+00:00
+
+ ## Home
+ - [https://www.mesh.trade](https://www.mesh.trade)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Paradex - High-performance Decentralized Exchange
+ - [https://www.paradex.trade](https://www.paradex.trade)
+ - date_published: 2024-09-08T00:00:00+00:00
+
+ ## Paradigm
+ - [https://app.paradigm.trade](https://app.paradigm.trade)
+ - date_published: 2024-09-16T22:18:44+00:00
+
+ ## Peanut Trade
+ - [https://peanut.trade](https://peanut.trade)
+ - date_published: 2024-08-07T02:21:19+00:00
+
+ ## Phoenix
+ - [https://phoenix.trade](https://phoenix.trade)
+ - date_published: 2024-06-21T17:18:54+00:00
+
+ ## Rage Trade
+ - [https://www.rage.trade](https://www.rage.trade)
+ - date_published: 2024-09-25T12:32:12.909955+00:00
+
+ ## Raposa Trend Following
+ - [https://raposa.trade](https://raposa.trade)
+ - date_published: 2024-04-28T06:09:05.653011+00:00
+
+ ## Tesler - Trading System App for Investments 📲
+ - [https://tesler-inc.trade](https://tesler-inc.trade)
+ - date_published: 2024-06-04T11:36:19+00:00
+
+ ## Home  | TPS - for Volkswagen Group Genuine Parts
+ - [https://tps.trade](https://tps.trade)
+ - date_published: 2024-09-13T16:38:29.590447+00:00
+
+ ## WOO X: Crypto Exchange l Buy & Sell Bitcoin, ETH, Crypto
+ - [https://woo.trade](https://woo.trade)
+ - date_published: 2024-09-04T12:13:49.603376+00:00
+
+ ## 4170 Trading
+ - [https://www.4170.trading](https://www.4170.trading)
+ - date_published: 2024-07-21T22:10:16.691161+00:00
+
+ ## 365.Training - Power Platform and Dynamics 365 Training
+ - [https://365.training](https://365.training)
+ - date_published: 2024-08-19T15:36:39.922099+00:00
+
+ ## Loading
+ - [https://partners.acronis.training](https://partners.acronis.training)
+ - date_published: 2024-06-20T16:17:34+00:00
+
+ ## Sign in
+ - [https://kiku.aws.training](https://kiku.aws.training)
+ - date_published: 2024-06-20T13:06:23+00:00
+
+ ## AWS training and certification
+ - [https://www.aws.training](https://www.aws.training)
+ - date_published: 2024-05-04T15:49:04.950474+00:00
+
+ ## Container Training
+ - [https://container.training](https://container.training)
+ - date_published: 2023-10-25T22:47:15.680138+00:00
+
+ ## Docker Orchestration Workshop
+ - [https://lisa16t1.container.training](https://lisa16t1.container.training)
+ - date_published: 2024-05-02T10:29:23.930792+00:00
+
+ ## Deploying and Scaling Microservices with Docker and Kubernetes
+ - [https://osseu17.container.training](https://osseu17.container.training)
+ - date_published: 2024-05-02T10:29:19.385632+00:00
+
+ ## Getting started with Kubernetes and container orchestration
+ - [https://pycon2019.container.training](https://pycon2019.container.training)
+ - date_published: 2024-05-02T10:29:22.063453+00:00
+
+ ## Introduction to Docker and Containers
+ - [https://qconsf2017intro.container.training](https://qconsf2017intro.container.training)
+ - date_published: 2024-05-02T10:29:20.778958+00:00
+
+ ## Getting Started With Kubernetes and Container Orchestration
+ - [https://qconuk2019.container.training](https://qconuk2019.container.training)
+ - date_published: 2024-05-02T10:29:17.410417+00:00
+
+ ## Cierpliwości...
+ - [https://data-flair.training](https://data-flair.training)
+ - date_published: 2024-06-03T06:29:21.724760+00:00
+
+ ## Jamstack.Training
+ - [https://jamstack.training](https://jamstack.training)
+ - date_published: 2024-06-17T19:26:13.594901+00:00
+
+ ## Learn to create Laravel packages
+ - [https://laravelpackage.training](https://laravelpackage.training)
+ - date_published: 2024-09-09T16:34:10.104288+00:00
+
+ ## Ringzer0 Training BOOTSTRAP24 February 2024
+ - [https://archive.ringzer0.training](https://archive.ringzer0.training)
+ - date_published: 2024-02-22T02:29:17+00:00
+
+ ## Ringzer0
+ - [https://ringzer0.training](https://ringzer0.training)
+ - date_published: 2024-05-07T10:15:02.452193+00:00
+
+ ## Home - Scos Training
+ - [https://scos.training](https://scos.training)
+ - date_published: 2015-01-08T08:52:20+00:00
+
+ ## Home - SeriousplayTraining
+ - [http://seriousplay.training](http://seriousplay.training)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Sight Reading Trainer
+ - [https://sightreading.training](https://sightreading.training)
+ - date_published: 2024-09-02T12:59:43.032918+00:00
+
+ ## voidstarsec.training
+ - [http://voidstarsec.training](http://voidstarsec.training)
+ - date_published: 2024-05-06T13:42:26+00:00
+
+ ## Alabama's Official Travel Guide
+ - [https://alabama.travel](https://alabama.travel)
+ - date_published: 2024-07-03T15:07:51+00:00
+
+ ## Home - Creative Travel I A family story since 1977
+ - [https://www.creative.travel](https://www.creative.travel)
+ - date_published: 2024-09-17T16:58:26.416108+00:00
+
+ ## Homepage - Damanhur Welcome Center
+ - [https://damanhur.travel](https://damanhur.travel)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Dolny Śląsk
+ - [https://dolnyslask.travel](https://dolnyslask.travel)
+ - date_published: 2024-05-12T05:13:20.287633+00:00
+
+ ## Experience Egypt
+ - [https://egypt.travel](https://egypt.travel)
+ - date_published: 2024-09-15T12:54:39.838100+00:00
+
+ ## Inicio | El Salvador
+ - [https://elsalvador.travel](https://elsalvador.travel)
+ - date_published: 2022-02-14T17:53:04+00:00
+
+ ## Home - Express Travel Group
+ - [https://etg.travel](https://etg.travel)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Go Global Travel
+ - [https://www.goglobal.travel](https://www.goglobal.travel)
+ - date_published: 2024-09-25T12:57:14.991310+00:00
+
+ ## Heathmont Travel
+ - [https://heathmont.travel](https://heathmont.travel)
+ - date_published: 2023-10-20T12:46:49+00:00
+
+ ## Heroes Travel Award | World Tourism Network
+ - [https://heroes.travel](https://heroes.travel)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Hoku | The best trip planner to organize travel with friends
+ - [https://hoku.travel](https://hoku.travel)
+ - date_published: 2023-10-25T22:47:19.285427+00:00
+
+ ## International Climate & Tourism Partners
+ - [https://ictp.travel](https://ictp.travel)
+ - date_published: 2024-07-14T14:08:08.991702+00:00
+
+ ## Page has moved
+ - [http://www.indonesia.travel](http://www.indonesia.travel)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Home | IZI Travel
+ - [https://izi.travel](https://izi.travel)
+ - date_published: 2024-07-01T21:38:44+00:00
+
+ ## JNTO - Official Tourism Guide for Japan Travel
+ - [https://www.japan.travel](https://www.japan.travel)
+ - date_published: 2024-06-30T06:56:26.598451+00:00
+
+ ## Serwis turystyczny Gminy Kórnik - najciekawsze atrakcje turystyczne Kórnika i Bnina
+ - [https://kornik.travel](https://kornik.travel)
+ - date_published: 2024-09-03T19:25:21.553858+00:00
+
+ ## Kujawsko-pomorskie.travel
+ - [https://kujawsko-pomorskie.travel](https://kujawsko-pomorskie.travel)
+ - date_published: 2024-05-12T05:12:51.964596+00:00
+
+ ## Lodz.Travel
+ - [https://lodz.travel](https://lodz.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## lviv.travel - офіційний туристичний сайт міста Львова | lviv.travel
+ - [https://lviv.travel](https://lviv.travel)
+ - date_published: 2024-09-18T16:57:25.176565+00:00
+
+ ## Meili
+ - [https://search-ux.meili.travel](https://search-ux.meili.travel)
+ - date_published: 2024-05-12T05:11:07.239369+00:00
+
+ ## Newmarket Holidays - Escorted Tours, Holidays and Cruises
+ - [http://www.newmarket.travel](http://www.newmarket.travel)
+ - date_published: 2024-07-17T05:24:26.513772+00:00
+
+ ## Paducah Convention & Visitors Bureau | Paducah
+ - [https://www.paducah.travel](https://www.paducah.travel)
+ - date_published: 2024-02-08T22:17:47.446693+00:00
+
+ ## Front Page | Peace & Privacy
+ - [https://www.peaceandprivacy.travel](https://www.peaceandprivacy.travel)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Podkarpackie travel
+ - [https://podkarpackie.travel](https://podkarpackie.travel)
+ - date_published: 2024-07-15T04:52:09+00:00
+
+ ## Roame.Travel | Limited time award travel deals | Award flight search & booking
+ - [https://roame.travel](https://roame.travel)
+ - date_published: 2024-07-29T16:24:55.826299+00:00
+
+ ## Sorted Travel - Find the best places to fly to
+ - [https://sorted.travel](https://sorted.travel)
+ - date_published: 2024-05-09T04:35:48.676995+00:00
+
+ ## Home - Pacific Tourism Organisation
+ - [https://southpacificislands.travel](https://southpacificislands.travel)
+ - date_published: 2024-07-16T17:43:16.978531+00:00
+
+ ## Login – Tab.
+ - [https://account.tab.travel](https://account.tab.travel)
+ - date_published: 2024-06-29T11:19:02.364420+00:00
+
+ ## Register – Tab.
+ - [https://apply.tab.travel](https://apply.tab.travel)
+ - date_published: 2024-06-29T11:18:47.119704+00:00
+
+ ## Home | Get more direct bookings and take payments easily
+ - [https://book.tab.travel](https://book.tab.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Get more direct bookings and take payments easily
+ - [https://business.tab.travel](https://business.tab.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Inicio | Consigue más reservas directas y acepta pagos fácilmente
+ - [https://es.business.tab.travel](https://es.business.tab.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Augmenter le nombre de réservations directes et accepter les paiements facilement
+ - [https://fr.business.tab.travel](https://fr.business.tab.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage
+ - [https://jobs.tab.travel](https://jobs.tab.travel)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Log in to your listing on The Guide
+ - [https://listing.tab.travel](https://listing.tab.travel)
+ - date_published: 2024-06-29T11:19:01.217185+00:00
+
+ ## Página inicial | Obter mais reservas directas e aceitar pagamentos facilmente
+ - [https://pt.business.tab.travel](https://pt.business.tab.travel)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Tab Support
+ - [https://support.tab.travel](https://support.tab.travel)
+ - date_published: 2024-06-29T11:18:54.728914+00:00
+
+ ## Home | Get more direct bookings and take payments easily
+ - [https://tab.travel](https://tab.travel)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Find & book any tourism business with The Guide
+ - [https://theguide.tab.travel](https://theguide.tab.travel)
+ - date_published: 2024-06-29T11:18:57.772671+00:00
+
+ ## The Beat - a travel business newsletter
+ - [https://thebeat.travel](https://thebeat.travel)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Wanderlab at Tripadvisor | Tripadvisor’s Creative Studio
+ - [https://wanderlab.travel](https://wanderlab.travel)
+ - date_published: 2024-06-23T09:27:34.037782+00:00
+
+ ## World Tourism Network (WTN)
+ - [https://wtn.travel](https://wtn.travel)
+ - date_published: 2024-04-07T00:00:00+00:00
+
  ## Yucatán.Travel - Descubre el color de Yucatán | Inicio
  - [http://www.yucatan.travel](http://www.yucatan.travel)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -3663,364 +4023,4 @@
  ## 自由時報電子報
  - [https://www.ltn.com.tw](https://www.ltn.com.tw)
  - date_published: 2024-10-07T22:12:09.600368+00:00
-
- ## 聚陽實業股份有限公司
- - [http://www.makalot.com.tw](http://www.makalot.com.tw)
- - date_published: 2024-06-19T23:05:53.571750+00:00
-
- ## 投資管理、基金策略 | 宏利投信
- - [https://www.manulifeim.com.tw](https://www.manulifeim.com.tw)
- - date_published: 2024-10-07T19:20:43+00:00
-
- ## 新電子科技雜誌 Micro-electronics
- - [http://www.mem.com.tw](http://www.mem.com.tw)
- - date_published: 2024-10-31T12:02:29.110820+00:00
-
- ## MNA售票網
- - [https://ticket.mna.com.tw](https://ticket.mna.com.tw)
- - date_published: 2024-06-16T02:13:51.232468+00:00
-
- ## 魔方網
- - [http://www.mofang.com.tw](http://www.mofang.com.tw)
- - date_published: 2024-10-20T22:47:17.391973+00:00
-
- ## #當隻自由的狐狸 | 阻擋追蹤廣告，你可以更快更自由
- - [http://mozilla.com.tw](http://mozilla.com.tw)
- - date_published: 2024-10-19T22:22:15.001036+00:00
-
- ## Taiwan Mynavi 台灣日商.日本正職.打工度假。免費赴日就職服務，日本工作，日本打工
- - [https://www.mynavi-taiwan.com.tw](https://www.mynavi-taiwan.com.tw)
- - date_published: 2024-06-24T01:33:52.729841+00:00
-
- ## NARS化妝品 | 官方網站 | 彩妝和保養品
- - [https://www.narscosmetics.com.tw](https://www.narscosmetics.com.tw)
- - date_published: 2024-10-29T09:02:11.469630+00:00
-
- ## Nestle: Good Food Good Life 首頁 | 雀巢台灣 Nestle Taiwan
- - [http://www.nestle.com.tw](http://www.nestle.com.tw)
- - date_published: 2024-09-14T21:20:49+00:00
-
- ## 網管人
- - [https://www.netadmin.com.tw](https://www.netadmin.com.tw)
- - date_published: 2024-10-31T12:02:49.806594+00:00
-
- ## 新視野網頁設計，只做最划算的高CP值網站
- - [https://www.newscan.com.tw](https://www.newscan.com.tw)
- - date_published: 2024-07-04T09:39:17.078497+00:00
-
- ## 新唐人亞太電視台
- - [https://www.ntdtv.com.tw](https://www.ntdtv.com.tw)
- - date_published: 2024-10-31T11:16:27+00:00
-
- ## 人工智慧運算的全球領袖
- - [http://www.nvidia.com.tw](http://www.nvidia.com.tw)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## 歐米茄腕錶: 瑞士頂級腕錶製造商 | OMEGA TW®
- - [https://www.omegawatches.com.tw](https://www.omegawatches.com.tw)
- - date_published: 2024-10-14T21:51:45.177541+00:00
-
- ## OpenTable・餐廳訂位｜餐廳・隨時一鍵訂位
- - [https://www.opentable.com.tw](https://www.opentable.com.tw)
- - date_published: 2024-06-30T12:08:43.530983+00:00
-
- ## 寶寶 - 懷孕 - 孕兒 - 幫寶適
- - [https://www.pampers.com.tw](https://www.pampers.com.tw)
- - date_published: 2024-10-28T16:30:30+00:00
-
- ## 飛利浦 - 台灣
- - [https://www.philips.com.tw](https://www.philips.com.tw)
- - date_published: 2024-10-31T08:35:40+00:00
-
- ## 普羅森科技｜桌面型光固化3D列印機｜8K高解析度｜CP值超高輕鬆好上手
- - [https://phrozen3d.com.tw](https://phrozen3d.com.tw)
- - date_published: 2024-05-08T12:29:52.545937+00:00
-
- ## PieceMakers | Creates Piece of Mind
- - [http://www.piecemakers.com.tw](http://www.piecemakers.com.tw)
- - date_published: 2023-08-13T16:05:53+00:00
-
- ## Prolific Technology Inc. (USB to UART / RS232 / Serial)
- - [https://www.prolific.com.tw](https://www.prolific.com.tw)
- - date_published: 2024-05-12T06:12:37.284090+00:00
-
- ## 最佳VPN資金可以購買-最快的VPN服務| PureVPN
- - [https://www.purevpn.com.tw](https://www.purevpn.com.tw)
- - date_published: 2021-03-31T09:06:52+00:00
-
- ## QNAP 網路商城｜線上購買NAS ｜QNAP Store Taiwan
- - [https://store.qnap.com.tw](https://store.qnap.com.tw)
- - date_published: 2024-05-21T02:52:17.145568+00:00
-
- ## 樂天市場購物網- Rakuten日本最大線上購物網站
- - [https://www.rakuten.com.tw](https://www.rakuten.com.tw)
- - date_published: 2024-09-15T21:17:02.411217+00:00
-
- ## Ralph Lauren® 台灣官方網站 | 美國時尚服裝品牌
- - [https://www.ralphlauren.com.tw](https://www.ralphlauren.com.tw)
- - date_published: 2024-06-19T23:58:22.971519+00:00
-
- ## SAKURA 台灣櫻花官方購物商城
- - [https://shop.sakura.com.tw](https://shop.sakura.com.tw)
- - date_published: 2024-10-07T22:10:10.975308+00:00
-
- ## 三立集團官方網站
- - [https://www.settv.com.tw](https://www.settv.com.tw)
- - date_published: 2024-10-07T22:03:19+00:00
-
- ## SilverStone
- - [https://www.silverstonetek.com.tw](https://www.silverstonetek.com.tw)
- - date_published: 2024-07-04T09:29:13.204523+00:00
-
- ## SK-II: 讓您的肌膚更加年輕透亮的專業美肌護膚品牌 | SK-II 台灣
- - [https://sk-ii.com.tw](https://sk-ii.com.tw)
- - date_published: 2024-10-29T06:35:34.703305+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.com.tw](https://www.skyscanner.com.tw)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## 雪諾必克*Snow Peak
- - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
- - date_published: 2024-07-15T06:46:42.549315+00:00
-
- ## 台灣索尼 | 最新技術消息 | 電子產品 | 娛樂
- - [https://www.sony.com.tw](https://www.sony.com.tw)
- - date_published: 2024-10-21T07:37:55.324784+00:00
-
- ## Sony Pictures Taiwan | 主頁 Homepage
- - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## 微熱山丘 Sunnyhills
- - [https://www.sunnyhills.com.tw](https://www.sunnyhills.com.tw)
- - date_published: 2024-03-28T03:38:34+00:00
-
- ## 南港展覽館
- - [https://www.tainex.com.tw](https://www.tainex.com.tw)
- - date_published: 2021-12-20T07:34:02+00:00
-
- ## Taipei 101 台北101
- - [https://www.taipei-101.com.tw](https://www.taipei-101.com.tw)
- - date_published: 2024-10-31T12:01:05.223827+00:00
-
- ## 台灣彩券
- - [http://www.taiwanlottery.com.tw](http://www.taiwanlottery.com.tw)
- - date_published: 2024-07-22T06:00:56+00:00
-
- ## Directory of Taiwan | 台灣指南
- - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
- - date_published: 2024-05-02T10:39:47.994459+00:00
-
- ## Taiwan News - Voice of the People, Bridge to the World
- - [https://taiwannews.com.tw](https://taiwannews.com.tw)
- - date_published: 2024-05-02T10:39:51.243016+00:00
-
- ## Welcome to TATUNG-OKUMA CO.,LTD
- - [https://www.tatung-okuma.com.tw](https://www.tatung-okuma.com.tw)
- - date_published: 2019-10-28T07:26:32+00:00
-
- ## TBMS 博而美國際
- - [https://www.tbms.com.tw](https://www.tbms.com.tw)
- - date_published: 2024-10-07T22:10:25.297996+00:00
-
- ## Terasic Inc. - Expertise in FPGA/ASIC Design
- - [https://terasic.com.tw](https://terasic.com.tw)
- - date_published: 2024-05-07T15:42:59.769265+00:00
-
- ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
- - [http://www.sdd.toshiba.com.tw](http://www.sdd.toshiba.com.tw)
- - date_published: 2024-07-15T03:28:10.678894+00:00
-
- ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
- - [https://www.tripadvisor.com.tw](https://www.tripadvisor.com.tw)
- - date_published: 2024-06-23T09:27:01.079491+00:00
-
- ## trivago.com.tw - Compare hotel prices worldwide
- - [https://www.trivago.com.tw](https://www.trivago.com.tw)
- - date_published: 2024-09-04T11:19:42.589836+00:00
-
- ## TSMC - Starting Page
- - [https://supplyonline.tsmc.com.tw](https://supplyonline.tsmc.com.tw)
- - date_published: 2020-12-22T01:46:33+00:00
-
- ## TSMC - Starting Page
- - [https://supply.tsmc.com.tw](https://supply.tsmc.com.tw)
- - date_published: 2020-12-22T02:47:18+00:00
-
- ## TVBS新聞網
- - [https://news.tvbs.com.tw](https://news.tvbs.com.tw)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## 普雷伊電視遊樂器專賣店
- - [https://www.tvgame.com.tw](https://www.tvgame.com.tw)
- - date_published: 2024-11-08T13:06:50.194234+00:00
-
- ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
- - [https://www.twca.com.tw](https://www.twca.com.tw)
- - date_published: 2024-06-21T15:23:12.147780+00:00
-
- ## forward
- - [https://emops.twse.com.tw](https://emops.twse.com.tw)
- - date_published: 2019-05-31T09:47:58+00:00
-
- ## 聯邦銀行
- - [https://www.ubot.com.tw](https://www.ubot.com.tw)
- - date_published: 2024-10-04T08:00:49+00:00
-
- ## Attention Required! | Cloudflare
- - [http://vecow.utrust.com.tw](http://vecow.utrust.com.tw)
- - date_published: 2024-09-05T21:00:42.277897+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://visa.com.tw](https://visa.com.tw)
- - date_published: 2024-05-12T03:59:40.742905+00:00
-
- ## Vogue Taiwan
- - [https://vogue.com.tw](https://vogue.com.tw)
- - date_published: 2024-05-07T10:58:39.629872+00:00
-
- ## wicca
- - [http://www.wicca.com.tw](http://www.wicca.com.tw)
- - date_published: 2024-06-20T02:53:30+00:00
-
- ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
- - [https://www.winstar.com.tw](https://www.winstar.com.tw)
- - date_published: 2024-06-20T17:30:54.372028+00:00
-
- ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
- - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
- - date_published: 2024-06-20T17:33:20.856803+00:00
-
- ## 智略市場研究
- - [https://www.wmr.com.tw](https://www.wmr.com.tw)
- - date_published: 2024-06-17T16:54:04.604001+00:00
-
- ## 建達國際
- - [https://www.xander.com.tw](https://www.xander.com.tw)
- - date_published: 2024-10-31T13:23:13.303754+00:00
-
- ## Yelp
- - [https://m.yelp.com.tw](https://m.yelp.com.tw)
- - date_published: 2024-07-01T06:42:13.043604+00:00
-
- ## Yelp
- - [https://yelp.com.tw](https://yelp.com.tw)
- - date_published: 2024-07-01T06:42:08.129585+00:00
-
- ## LTN JOB X yes123求職網
- - [https://ltn_jobs.yes123.com.tw](https://ltn_jobs.yes123.com.tw)
- - date_published: 2024-10-07T22:10:36.249679+00:00
-
- ## 求職網-人力銀行找工作、找人才，媒合快又有效率
- - [https://www.yes123.com.tw](https://www.yes123.com.tw)
- - date_published: 2024-10-07T22:11:08.340377+00:00
-
- ## YUAN
- - [http://www.yuan.com.tw](http://www.yuan.com.tw)
- - date_published: 2024-09-05T22:58:34.446168+00:00
-
- ## 元大銀行
- - [https://www.yuantabank.com.tw](https://www.yuantabank.com.tw)
- - date_published: 2024-06-21T15:22:59.543481+00:00
-
- ## 蔡司台灣
- - [https://www.zeiss.com.tw](https://www.zeiss.com.tw)
- - date_published: 2024-09-16T07:56:11.384044+00:00
-
- ## Asia University, Taiwan 歡迎光臨亞洲大學全球資訊網
- - [http://asia.edu.tw](http://asia.edu.tw)
- - date_published: 2024-10-30T20:30:29.030171+00:00
-
- ## Chang Gung University of Science and Technology
- - [http://english.cgust.edu.tw](http://english.cgust.edu.tw)
- - date_published: 2024-10-30T20:25:49+00:00
-
- ## 教育部《重編國語辭典修訂本》2021
- - [http://dict.revised.moe.edu.tw](http://dict.revised.moe.edu.tw)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## 教育部臺灣客語辭典
- - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
- - date_published: 2024-07-12T05:30:17.720490+00:00
-
- ## Index of /
- - [http://alpine.ccns.ncku.edu.tw](http://alpine.ccns.ncku.edu.tw)
- - date_published: 2024-07-20T15:58:32.401826+00:00
-
- ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
- - [http://web.ncku.edu.tw](http://web.ncku.edu.tw)
- - date_published: 2024-10-30T20:17:56+00:00
-
- ## Wiki - 成功大學資工系(所) Wiki 系統
- - [http://wiki.csie.ncku.edu.tw](http://wiki.csie.ncku.edu.tw)
- - date_published: 2024-06-22T12:41:42.514452+00:00
-
- ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
- - [https://www.ncku.edu.tw](https://www.ncku.edu.tw)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 故宮電子報
- - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
- - date_published: 2024-05-02T10:40:24.527107+00:00
-
- ## 故宮線上學校
- - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
- - date_published: 2024-01-20T01:20:58+00:00
-
- ## 清代檔案檢索系統-首頁
- - [https://qingarchives.npm.edu.tw](https://qingarchives.npm.edu.tw)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## 古籍輿圖檢索系統-說明
- - [https://rarebooks-maps.npm.edu.tw](https://rarebooks-maps.npm.edu.tw)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 國立故宮博物院 網路線上報名系統
- - [https://signup.npm.edu.tw](https://signup.npm.edu.tw)
- - date_published: 2024-06-17T16:53:51.428522+00:00
-
- ## 國立故宮博物院-國立故宮博物院
- - [https://www.npm.edu.tw](https://www.npm.edu.tw)
- - date_published: 2024-10-19T22:22:37.185748+00:00
-
- ## 308
- - [https://asiaccs2020.cs.nthu.edu.tw](https://asiaccs2020.cs.nthu.edu.tw)
- - date_published: 2022-11-21T01:58:58+00:00
-
- ## Home - CGV | NTHU
- - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
- - date_published: 2024-06-22T07:30:50.710895+00:00
-
- ## 國立清華大學
- - [http://www.nthu.edu.tw](http://www.nthu.edu.tw)
- - date_published: 2024-10-22T03:47:41.368455+00:00
-
- ## Home - 台大國際事務處
- - [https://admissions.ntu.edu.tw](https://admissions.ntu.edu.tw)
- - date_published: 2023-12-13T00:00:00+00:00
-
- ## 臺大生輔組官方網站
- - [https://advisory.ntu.edu.tw](https://advisory.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:05.006429+00:00
-
- ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
- - [http://alumni.ee.ntu.edu.tw](http://alumni.ee.ntu.edu.tw)
- - date_published: 2024-07-14T10:35:21.837099+00:00
-
- ## 校園公佈欄
- - [https://ann.cc.ntu.edu.tw](https://ann.cc.ntu.edu.tw)
- - date_published: 2024-07-14T10:37:52.399748+00:00
-
- ## 國立臺灣大學藝文中心
- - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:38.028652+00:00
-
- ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
- - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
- - date_published: 2024-07-14T10:35:49.174887+00:00
-
- ## 國立臺灣大學資訊工程學系
- - [https://csie.ntu.edu.tw](https://csie.ntu.edu.tw)
- - date_published: 2024-10-04T00:00:00+00:00
 

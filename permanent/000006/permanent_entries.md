@@ -1,3 +1,12 @@
+ ## Open source, self-hosted bookmark manager
+ - [https://servas.app](https://servas.app)
+ - date_published: 2024-11-18T20:22:30+00:00
+ - tags: ['self-host', 'bookmark manager']
+
+ ## ServicePlanner :: Ministry & Field Service App
+ - [https://serviceplanner.app](https://serviceplanner.app)
+ - date_published: 2024-07-09T15:51:29.287371+00:00
+
  ## The 7 Minute Workout App - Seven
  - [https://seven.app](https://seven.app)
  - date_published: 2024-02-08T08:34:04+00:00
@@ -2834,6 +2843,10 @@
  - [https://rz-web.vercel.app](https://rz-web.vercel.app)
  - date_published: 2024-05-09T07:20:33.563427+00:00
 
+ ## Power Card Generator
+ - [https://saas-cards.vercel.app](https://saas-cards.vercel.app)
+ - date_published: 2024-11-26T05:26:18.068959+00:00
+
  ## SaasRock | The Remix SaaS Development Framework
  - [https://saasrock-com.vercel.app](https://saasrock-com.vercel.app)
  - date_published: 2024-03-22T00:00:00+00:00
@@ -4005,16 +4018,4 @@
  ## ZKBase Explorer
  - [https://sepolia-explorer.zkbase.app](https://sepolia-explorer.zkbase.app)
  - date_published: 2024-07-01T06:42:51+00:00
-
- ## ZKSpace - Layer-2 FOR ALL
- - [https://zkbase.app](https://zkbase.app)
- - date_published: 2024-09-23T07:43:08.489158+00:00
-
- ## ZKSwap (ZKFair) | ZKBase - Layer2 for Bitcoin & Ethereum
- - [https://zkfair.zkbase.app](https://zkfair.zkbase.app)
- - date_published: 2024-09-23T07:43:03.810085+00:00
-
- ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
- - [https://zksync.zkbase.app](https://zksync.zkbase.app)
- - date_published: 2024-09-23T07:43:01.870609+00:00
 

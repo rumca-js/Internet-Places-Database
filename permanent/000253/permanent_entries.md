@@ -1,3 +1,281 @@
+ ## Masagu.dev
+ - [https://masagu.dev](https://masagu.dev)
+ - date_published: 2024-08-08T15:07:58.090446+00:00
+
+ ## Microsoft Activation Scripts (MAS) | MAS
+ - [https://massgrave.dev](https://massgrave.dev)
+ - date_published: 2024-08-31T00:00:00+00:00
+ - tags: ['microsoft', 'cd keys', 'office']
+
+ ## Mastermind Dev - Publishing house for software engineers
+ - [https://assets.mastermind.dev](https://assets.mastermind.dev)
+ - date_published: 2024-04-30T00:33:02.848703+00:00
+
+ ## Become mastermind
+ - [https://blog.mastermind.dev](https://blog.mastermind.dev)
+ - date_published: 2023-10-25T18:39:41.085781+00:00
+
+ ## Mastermind Dev - Publishing house for software engineers
+ - [https://mastermind.dev](https://mastermind.dev)
+ - date_published: 2024-04-30T00:33:00.825736+00:00
+
+ ## Matchu Says Words | Emi Matchu (they/she), tech professional turned hobbyist! Aspiring to do what’s right, in the places and ways I can.
+ - [https://blog.matchu.dev](https://blog.matchu.dev)
+ - date_published: 2023-10-31T19:57:41.845855+00:00
+
+ ## matdoesdev
+ - [https://matdoes.dev](https://matdoes.dev)
+ - date_published: 2024-06-19T02:00:40+00:00
+
+ ## rushii
+ - [https://rushii.materii.dev](https://rushii.materii.dev)
+ - date_published: 2024-10-21T14:27:41+00:00
+
+ ## Home | MateusRodCosta
+ - [https://mateusrodcosta.dev](https://mateusrodcosta.dev)
+ - date_published: 2024-05-07T13:20:14+00:00
+
+ ## Show HN: FTWA – Turn any website into an app
+ - [https://ftwa.mathix.dev](https://ftwa.mathix.dev)
+ - date_published: 2024-10-14T23:51:39+00:00
+
+ ## Arnaud Gissinger
+ - [https://mathix.dev](https://mathix.dev)
+ - date_published: 2024-10-16T06:06:25+00:00
+ - tags: ['personal']
+
+ ## Matias Pan's blog
+ - [https://blog.matiaspan.dev](https://blog.matiaspan.dev)
+ - date_published: 2023-11-21T19:09:54.203670+00:00
+
+ ## mattferraro.dev
+ - [https://mattferraro.dev](https://mattferraro.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Matt Greer
+ - [https://mattgreer.dev](https://mattgreer.dev)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## Smaghetti
+ - [https://smaghetti.mattgreer.dev](https://smaghetti.mattgreer.dev)
+ - date_published: 2024-09-04T12:04:13.232393+00:00
+
+ ## Matthe815.dev
+ - [https://matthe815.dev](https://matthe815.dev)
+ - date_published: 2024-09-07T23:24:35.626349+00:00
+
+ ## Matthew C Dev
+ - [https://matthewc.dev](https://matthewc.dev)
+ - date_published: 2023-10-25T18:39:42.826551+00:00
+
+ ## Matthew Kim
+ - [https://matthewkim.dev](https://matthewkim.dev)
+ - date_published: 2024-01-22T18:19:15.032834+00:00
+
+ ## Matthew Sanabria
+ - [https://matthewsanabria.dev](https://matthewsanabria.dev)
+ - date_published: 2024-10-17T14:37:43.807671+00:00
+
+ ## Matt Hughes
+ - [https://matthughes.dev](https://matthughes.dev)
+ - date_published: 2024-05-11T10:21:40.248804+00:00
+
+ ## Matt Klein
+ - [https://mattklein123.dev](https://mattklein123.dev)
+ - date_published: 2023-06-12T00:00:00+00:00
+
+ ## Matt Walsh dot DEV
+ - [https://mattwalsh.dev](https://mattwalsh.dev)
+ - date_published: 2024-05-11T10:24:34.673390+00:00
+
+ ## Matty.dev
+ - [https://matty.dev](https://matty.dev)
+ - date_published: 2024-06-23T05:57:22.802577+00:00
+
+ ## Sign in · GitLab
+ - [https://mau.dev](https://mau.dev)
+ - date_published: 2024-08-07T23:14:01.308505+00:00
+
+ ## Ignatius Bagussuputra | Alchemauss
+ - [https://mauss.dev](https://mauss.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Maxime David | maxday
+ - [https://maxday.dev](https://maxday.dev)
+ - date_published: 2024-06-09T17:22:38+00:00
+
+ ## MaxGit
+ - [https://git.max-richter.dev](https://git.max-richter.dev)
+ - date_published: 2024-05-10T05:57:47.991741+00:00
+
+ ## [jim-fx] Home
+ - [https://max-richter.dev](https://max-richter.dev)
+ - date_published: 2023-12-04T12:08:16.954803+00:00
+ - tags: ['personal']
+
+ ## Show HN: Simulate 3D Plants in the Browser
+ - [https://plant.max-richter.dev](https://plant.max-richter.dev)
+ - date_published: 2023-12-03T10:55:35+00:00
+
+ ## Umami
+ - [https://umami.max-richter.dev](https://umami.max-richter.dev)
+ - date_published: 2024-05-10T06:10:51.052919+00:00
+
+ ## May is Coding
+ - [https://maymeow.dev](https://maymeow.dev)
+ - date_published: 2024-08-07T20:19:55.532374+00:00
+
+ ## Matteo Bianchi – Medium
+ - [https://blog.mb-consulting.dev](https://blog.mb-consulting.dev)
+ - date_published: 2024-01-15T16:49:18.050849+00:00
+
+ ## Matteo Bianchi
+ - [http://mb-consulting.dev](http://mb-consulting.dev)
+ - date_published: 2024-09-04T12:04:31.476789+00:00
+
+ ## mbrt blog
+ - [https://blog.mbrt.dev](https://blog.mbrt.dev)
+ - date_published: 2024-11-17T13:17:26+00:00
+
+ ## Prelude - Modern Java
+ - [https://javabook.mccue.dev](https://javabook.mccue.dev)
+ - date_published: 2024-11-09T17:38:11.813044+00:00
+
+ ## mccue.dev
+ - [https://mccue.dev](https://mccue.dev)
+ - date_published: 2024-07-06T19:20:35.681486+00:00
+
+ ## Run Java Code
+ - [https://run.mccue.dev](https://run.mccue.dev)
+ - date_published: 2024-08-08T20:11:48+00:00
+
+ ## Dev Oops - All things Arch, Debian and Python
+ - [https://mcgillij.dev](https://mcgillij.dev)
+ - date_published: 2024-07-08T22:08:08+00:00
+
+ ## Den McHenry
+ - [https://mchenry.dev](https://mchenry.dev)
+ - date_published: 2024-10-20T08:07:11.503417+00:00
+
+ ## McKayla Washburn
+ - [https://mckayla.dev](https://mckayla.dev)
+ - date_published: 2024-08-19T16:32:45.004527+00:00
+
+ ## git.mcmillen.dev
+ - [https://git.mcmillen.dev](https://git.mcmillen.dev)
+ - date_published: 2024-04-30T00:33:50.965011+00:00
+
+ ## Colin McMillen
+ - [https://mcmillen.dev](https://mcmillen.dev)
+ - date_published: 2022-11-07T00:00:00+00:00
+
+ ## MDN Web Docs
+ - [https://mdn.dev](https://mdn.dev)
+ - date_published: 2024-07-12T08:55:26+00:00
+
+ ## MeadSteve's Dev Blog
+ - [https://blog.meadsteve.dev](https://blog.meadsteve.dev)
+ - date_published: 2023-10-25T08:58:39.127357+00:00
+ - tags: ['personal']
+
+ ## Cloudinary Blog
+ - [https://mediajams.dev](https://mediajams.dev)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Meet Shah
+ - [https://meetshah.dev](https://meetshah.dev)
+ - date_published: 2024-09-13T18:13:41.985945+00:00
+
+ ## Hello - Meg Risdal
+ - [https://meg.dev](https://meg.dev)
+ - date_published: 2023-05-03T02:26:19+00:00
+ - tags: ['personal']
+
+ ## Rie T. | Portfolio
+ - [https://megu.dev](https://megu.dev)
+ - date_published: 2023-07-05T13:51:40+00:00
+
+ ## Sine Machine, a new additive synth · Melatonin
+ - [https://melatonin.dev](https://melatonin.dev)
+ - date_published: 2023-11-10T14:03:59.822755+00:00
+
+ ## MEM0.DEV - A Dub.co Custom Domain
+ - [https://mem0.dev](https://mem0.dev)
+ - date_published: 2024-10-30T18:33:18.588070+00:00
+
+ ## Introduction | Memphis.dev
+ - [https://docs.memphis.dev](https://docs.memphis.dev)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Superstream | Improve And Optimize Your Kafka
+ - [https://memphis.dev](https://memphis.dev)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Hello world
+ - [https://meowbark.dev](https://meowbark.dev)
+ - date_published: 2024-11-01T01:29:05+00:00
+
+ ## Mercurius
+ - [https://mercurius.dev](https://mercurius.dev)
+ - date_published: 2024-04-29T10:57:53+00:00
+
+ ## Merge Link
+ - [https://cdn.merge.dev](https://cdn.merge.dev)
+ - date_published: 2024-05-11T08:36:08.674022+00:00
+
+ ## Merge - One Unified API for all HR, Payroll, Accounting, Ticketing, CRM, and ATS Integrations.
+ - [https://merge.dev](https://merge.dev)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Metabolize
+ - [https://metabolize.dev](https://metabolize.dev)
+ - date_published: 2024-07-18T14:27:11.376679+00:00
+
+ ## MetaChain Istanbul blockchain explorer | Blockscout
+ - [https://istanbul-explorer.metachain.dev](https://istanbul-explorer.metachain.dev)
+ - date_published: 2024-09-23T18:38:56.598553+00:00
+
+ ## MetaChain Istanbul Faucet
+ - [https://istanbul-faucet.metachain.dev](https://istanbul-faucet.metachain.dev)
+ - date_published: 2024-09-24T09:06:27.837320+00:00
+
+ ## Sign in - Metadash
+ - [https://app.metadash.dev](https://app.metadash.dev)
+ - date_published: 2024-07-12T23:49:19.860983+00:00
+
+ ## Metadash Demo
+ - [https://demo.metadash.dev](https://demo.metadash.dev)
+ - date_published: 2024-07-12T23:49:14.452128+00:00
+
+ ## metahead | the world's 1st enterprise-grade metarepo
+ - [https://metahead.dev](https://metahead.dev)
+ - date_published: 2024-01-10T22:30:13.454038+00:00
+
+ ## Mezzio Documentation
+ - [https://docs.mezzio.dev](https://docs.mezzio.dev)
+ - date_published: 2022-03-08T15:39:50+00:00
+
+ ## mhdm.dev
+ - [https://mhdm.dev](https://mhdm.dev)
+ - date_published: 2023-10-13T15:12:10+00:00
+ - tags: ['personal', 'tech', 'microcontrollers']
+
+ ## Parse the cookie string
+ - [https://cookie-parser.michaelbonner.dev](https://cookie-parser.michaelbonner.dev)
+ - date_published: 2024-07-14T09:13:24.636927+00:00
+
+ ## date-fns format helper
+ - [https://date-fns.michaelbonner.dev](https://date-fns.michaelbonner.dev)
+ - date_published: 2024-07-14T09:13:20.756908+00:00
+
+ ## Days Until Pioneer Day
+ - [https://days-until.michaelbonner.dev](https://days-until.michaelbonner.dev)
+ - date_published: 2024-07-14T09:13:33.191310+00:00
+
+ ## Michael Bonner | Developer in Salt Lake, UT
+ - [https://michaelbonner.dev](https://michaelbonner.dev)
+ - date_published: 2024-05-11T10:18:40.863256+00:00
+
  ## NHL Arenas I've Been To
  - [https://nhl.michaelbonner.dev](https://nhl.michaelbonner.dev)
  - date_published: 2024-07-14T09:13:19.301640+00:00
@@ -3798,282 +4076,4 @@
  ## starter.dev - Awesome starter kits!
  - [https://starter.dev](https://starter.dev)
  - date_published: 2024-04-30T07:11:15.969337+00:00
-
- ## Starter AI
- - [https://www.starterai.dev](https://www.starterai.dev)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Docs
- - [https://statamic.dev](https://statamic.dev)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Welcome to the world of Statecharts
- - [https://statecharts.dev](https://statecharts.dev)
- - date_published: 2021-10-30T23:43:22+00:00
-
- ## Statiq - Your Imagination, Your Generator
- - [https://statiq.dev](https://statiq.dev)
- - date_published: 2024-06-17T03:29:16.334345+00:00
-
- ## Stefan Bogdanović - Software Engineer
- - [https://stefanbogdanovic.dev](https://stefanbogdanovic.dev)
- - date_published: 2024-05-09T08:25:55.807857+00:00
-
- ## The Conquest of Bread by Petr Alekseevich Kropotkin
- - [https://fediverse-share-button.stefanbohacek.dev](https://fediverse-share-button.stefanbohacek.dev)
- - date_published: 2024-06-10T13:42:17+00:00
-
- ## Sign in - Matomo
- - [https://matomo.stefanbohacek.dev](https://matomo.stefanbohacek.dev)
- - date_published: 2024-08-18T22:23:51.034564+00:00
-
- ## Stefan Zweifel • Full Stack Developer
- - [https://stefanzweifel.dev](https://stefanzweifel.dev)
- - date_published: 2024-05-11T10:10:10.523801+00:00
-
- ## Stenography
- - [https://stenography.dev](https://stenography.dev)
- - date_published: 2022-03-27T23:10:02+00:00
-
- ## stephane.dev
- - [https://stephane.dev](https://stephane.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## stephfh.dev
- - [https://stephfh.dev](https://stephfh.dev)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://stevedylan.dev](https://stevedylan.dev)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Steve Frenzel - Web Developer & Accessibility Advocate
- - [https://stevefrenzel.dev](https://stevefrenzel.dev)
- - date_published: 2024-08-06T23:38:03.508802+00:00
-
- ## Home
- - [https://stilwell.dev](https://stilwell.dev)
- - date_published: 2024-03-20T14:15:44+00:00
-
- ## Stitches — CSS-in-JS with near-zero runtime
- - [https://stitches.dev](https://stitches.dev)
- - date_published: 2024-06-23T06:26:19.835852+00:00
-
- ## Vegard S. Hagen
- - [https://blog.stonegarden.dev](https://blog.stonegarden.dev)
- - date_published: 2024-05-28T20:52:53.957016+00:00
-
- ## Home | Jacob Stordahl
- - [https://stordahl.dev](https://stordahl.dev)
- - date_published: 2024-05-07T23:22:46.596740+00:00
-
- ## Stratospheric - Spring Boot and AWS
- - [https://stratospheric.dev](https://stratospheric.dev)
- - date_published: 2022-04-04T12:40:10+00:00
-
- ## Developer experience, reimagined | Stripe
- - [https://beta.stripe.dev](https://beta.stripe.dev)
- - date_published: 2024-04-29T07:14:36.344373+00:00
-
- ## Live dashboard of Stripe systems during Black Friday
- - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
- - date_published: 2023-11-24T12:13:21+00:00
-
- ## Explore Stripe Checkout
- - [https://checkout.stripe.dev](https://checkout.stripe.dev)
- - date_published: 2024-08-06T15:42:34.895946+00:00
-
- ## Stripe Insiders
- - [https://insiders.stripe.dev](https://insiders.stripe.dev)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Stripe Developer Resources
- - [https://stripe.dev](https://stripe.dev)
- - date_published: 2024-05-03T00:35:40+00:00
-
- ## Studio Alex
- - [https://www.studioalex.dev](https://www.studioalex.dev)
- - date_published: 2024-05-11T10:11:14.076090+00:00
-
- ## Stump | Stump
- - [https://stumpapp.dev](https://stumpapp.dev)
- - date_published: 2024-09-07T02:17:50+00:00
-
- ## stylesh dev
- - [https://stylessh.dev](https://stylessh.dev)
- - date_published: 2024-05-09T06:18:29.933662+00:00
-
- ## Style Stage from Modern CSS Solutions
- - [https://stylestage.dev](https://stylestage.dev)
- - date_published: 2024-07-02T19:29:14.095685+00:00
-
- ## Suborbital | We've joined F5
- - [https://suborbital.dev](https://suborbital.dev)
- - date_published: 2024-06-15T22:10:33.542222+00:00
-
- ## Subvert | Subvert
- - [https://subvert.dev](https://subvert.dev)
- - date_published: 2024-04-08T19:30:56.186910+00:00
- - tags: ['artificial intelligence', 'subtitles']
-
- ## sudorandom.dev — Depth-first search into networking, programming, random tech topics.
- - [https://sudorandom.dev](https://sudorandom.dev)
- - date_published: 2024-04-14T07:37:07.121941+00:00
- - tags: ['personal']
-
- ## Suncoast Developers Guild
- - [https://suncoast.dev](https://suncoast.dev)
- - date_published: 2024-07-14T10:08:35.316705+00:00
-
- ## Sungdoo.dev
- - [https://sungdoo.dev](https://sungdoo.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home
- - [https://sunilpai.dev](https://sunilpai.dev)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## The Sunlight CT Log
- - [https://sunlight.dev](https://sunlight.dev)
- - date_published: 2024-04-28T03:11:14.862975+00:00
-
- ## supastarter.nextjs - Application
- - [https://demo.supastarter.dev](https://demo.supastarter.dev)
- - date_published: 2024-07-10T11:06:35.343802+00:00
-
- ## Welcome to the supastarter docs! – supastarter documentation
- - [https://docs.supastarter.dev](https://docs.supastarter.dev)
- - date_published: 2024-07-10T11:06:38.435580+00:00
-
- ## supastarter.nuxt - Application
- - [https://nuxt-demo.supastarter.dev](https://nuxt-demo.supastarter.dev)
- - date_published: 2024-07-10T11:06:34.072004+00:00
-
- ## supastarter - Ship your SaaS in days
- - [https://supastarter.dev](https://supastarter.dev)
- - date_published: 2024-05-09T08:38:18.792729+00:00
-
- ## Supersaas - Nuxt 3 Fullstack Starter Kit with DB, Auth, Payments, Emails, File Storage.
- - [https://supersaas.dev](https://supersaas.dev)
- - date_published: 2024-09-02T11:47:49.170972+00:00
-
- ## SupportsCSS
- - [https://supportscss.dev](https://supportscss.dev)
- - date_published: 2024-08-08T22:54:19.268730+00:00
-
- ## Home
- - [https://suraj.dev](https://suraj.dev)
- - date_published: 2024-07-23T23:30:55.452490+00:00
-
- ## Sam Ruggerio • Portfolio
- - [https://surg.dev](https://surg.dev)
- - date_published: 2024-07-21T21:53:06.055492+00:00
-
- ## surma.dev
- - [https://surma.dev](https://surma.dev)
- - date_published: 2023-10-25T18:42:23.561265+00:00
- - tags: ['personal']
-
- ## Suyu Chat
- - [https://chat.suyu.dev](https://chat.suyu.dev)
- - date_published: 2024-05-09T07:05:53.446449+00:00
-
- ## Suyu Git
- - [https://git.suyu.dev](https://git.suyu.dev)
- - date_published: 2024-05-09T07:05:52.000176+00:00
-
- ## Suyu: A Nintendo Switch emulator for hardware preservation and research
- - [https://suyu.dev](https://suyu.dev)
- - date_published: 2024-03-10T07:08:46+00:00
- - tags: ['nintendo', 'emulator']
-
- ## Suze Shardlow :: Home
- - [https://suze.dev](https://suze.dev)
- - date_published: 2024-05-07T23:10:59.041571+00:00
-
- ## SvelteKit • Web development, streamlined
- - [https://kit.svelte.dev](https://kit.svelte.dev)
- - date_published: 2024-04-29T07:47:36.154546+00:00
-
- ## Welcome to Svelte • Svelte Tutorial
- - [https://learn.svelte.dev](https://learn.svelte.dev)
- - date_published: 2024-05-06T14:48:10.232077+00:00
-
- ## Sapper • The predecessor of SvelteKit
- - [https://sapper.svelte.dev](https://sapper.svelte.dev)
- - date_published: 2023-01-11T17:18:54+00:00
-
- ## Svelte • Cybernetically enhanced web apps
- - [https://svelte.dev](https://svelte.dev)
- - date_published: 2023-10-25T18:42:29.946623+00:00
- - tags: ['website development', 'web applications', 'company', 'open source']
-
- ## SvelteLab
- - [https://sveltelab.dev](https://sveltelab.dev)
- - date_published: 2024-07-14T09:41:10.203955+00:00
-
- ## Advent of Svelte
- - [https://advent.sveltesociety.dev](https://advent.sveltesociety.dev)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.sveltesociety.dev](https://analytics.sveltesociety.dev)
- - date_published: 2024-06-20T05:54:09.489794+00:00
-
- ## Home - Svelte Society
- - [https://sveltesociety.dev](https://sveltesociety.dev)
- - date_published: 2024-05-06T14:13:51.164879+00:00
-
- ## SVG Viewer – View, edit, and optimize SVGs
- - [https://svgviewer.dev](https://svgviewer.dev)
- - date_published: 2024-04-27T15:43:54+00:00
- - tags: ['svg files', 'online tool']
-
- ## Brian Swank — Software Engineer
- - [https://swank.dev](https://swank.dev)
- - date_published: 2024-05-11T10:05:17.975823+00:00
-
- ## Sweep AI
- - [https://community.sweep.dev](https://community.sweep.dev)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Sweep: AI-powered junior dev
- - [https://docs.sweep.dev](https://docs.sweep.dev)
- - date_published: 2023-10-25T18:42:31.067579+00:00
-
- ## Sweep: turn bugs and feature requests into code changes.
- - [https://sweep.dev](https://sweep.dev)
- - date_published: 2024-04-30T02:18:49.706732+00:00
-
- ## Swift Toolkit
- - [https://swifttoolkit.dev](https://swifttoolkit.dev)
- - date_published: 2024-06-23T15:37:11.262410+00:00
-
- ## Christopher Swingley's Home Page
- - [https://swingley.dev](https://swingley.dev)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## InstantPersonas | Get Started
- - [https://swotanalysis.dev](https://swotanalysis.dev)
- - date_published: 2024-10-30T06:44:01.686525+00:00
-
- ## Sylveon
- - [https://sylveon.dev](https://sylveon.dev)
- - date_published: 2024-08-18T19:42:56.622130+00:00
-
- ## Geoffrey Copin's  blog
- - [https://blog.sylver.dev](https://blog.sylver.dev)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Webhook Integrations - Made Easy
- - [https://www.syncd.dev](https://www.syncd.dev)
- - date_published: 2024-06-27T02:18:51.566233+00:00
-
- ## JiG Gaming Portal
- - [https://a.synth.dev](https://a.synth.dev)
- - date_published: 2024-10-21T03:56:20.276286+00:00
-
- ## SynthQL: Type-safe, composable queries | SynthQL
- - [https://synthql.dev](https://synthql.dev)
- - date_published: 2024-08-19T17:25:23.318503+00:00
 

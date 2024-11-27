@@ -1,3 +1,11 @@
+ ## Welcome to Python.org
+ - [http://python.ca](http://python.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## www.Qc125.ca | Philippe J. Fournier | Substack
+ - [https://www.qc125.ca](https://www.qc125.ca)
+ - date_published: 2024-01-13T00:00:00+00:00
+
  ## QIX - Échange Internet de Montréal
  - [https://qix.ca](https://qix.ca)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4019,12 +4027,4 @@
  ## Your Data – IRDG Office – University of Toronto
  - [https://data.viceprovoststudents.utoronto.ca](https://data.viceprovoststudents.utoronto.ca)
  - date_published: 2024-06-22T11:41:31.955044+00:00
-
- ## Providing IT support for Temerty Medicine
- - [http://dc.med.utoronto.ca](http://dc.med.utoronto.ca)
- - date_published: 2024-07-25T17:42:17+00:00
-
- ## Defy Gravity Campaign
- - [https://defygravitycampaign.utoronto.ca](https://defygravitycampaign.utoronto.ca)
- - date_published: 2024-01-19T00:00:00+00:00
 

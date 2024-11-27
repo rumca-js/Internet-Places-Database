@@ -1,3 +1,15 @@
+ ## Centro de Información y Consulta - Catálogo Público Koha
+ - [https://catalogo.juanncorpas.edu.co](https://catalogo.juanncorpas.edu.co)
+ - date_published: 2024-09-11T16:01:59.340542+00:00
+
+ ## Inicio | Fundación Universitaria Juan N. Corpas
+ - [https://juanncorpas.edu.co](https://juanncorpas.edu.co)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## DSpace Home
+ - [https://repositorio.juanncorpas.edu.co](https://repositorio.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:40.830404+00:00
+
  ## Sistema de Revistas. Fundación Universitaria Juan N. Corpas
  - [https://revistas.juanncorpas.edu.co](https://revistas.juanncorpas.edu.co)
  - date_published: 2024-06-12T10:56:50.681945+00:00
@@ -4017,16 +4029,4 @@
  ## minamarkham’s Twitter Archive
  - [https://tweets.mina.codes](https://tweets.mina.codes)
  - date_published: 2024-05-14T04:04:02.392283+00:00
-
- ## Michael Kennedy
- - [https://mkennedy.codes](https://mkennedy.codes)
- - date_published: 2024-06-26T07:54:18.760850+00:00
-
- ## Sign in - Matomo
- - [https://analytics.mxd.codes](https://analytics.mxd.codes)
- - date_published: 2024-04-30T07:17:24.333096+00:00
-
- ## Welcome to your Strapi app
- - [https://cms.mxd.codes](https://cms.mxd.codes)
- - date_published: 2024-04-30T00:00:00+00:00
 

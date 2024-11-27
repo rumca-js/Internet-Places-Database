@@ -1,3 +1,363 @@
+ ## 聚陽實業股份有限公司
+ - [http://www.makalot.com.tw](http://www.makalot.com.tw)
+ - date_published: 2024-06-19T23:05:53.571750+00:00
+
+ ## 投資管理、基金策略 | 宏利投信
+ - [https://www.manulifeim.com.tw](https://www.manulifeim.com.tw)
+ - date_published: 2024-10-07T19:20:43+00:00
+
+ ## 新電子科技雜誌 Micro-electronics
+ - [http://www.mem.com.tw](http://www.mem.com.tw)
+ - date_published: 2024-10-31T12:02:29.110820+00:00
+
+ ## MNA售票網
+ - [https://ticket.mna.com.tw](https://ticket.mna.com.tw)
+ - date_published: 2024-06-16T02:13:51.232468+00:00
+
+ ## 魔方網
+ - [http://www.mofang.com.tw](http://www.mofang.com.tw)
+ - date_published: 2024-10-20T22:47:17.391973+00:00
+
+ ## #當隻自由的狐狸 | 阻擋追蹤廣告，你可以更快更自由
+ - [http://mozilla.com.tw](http://mozilla.com.tw)
+ - date_published: 2024-10-19T22:22:15.001036+00:00
+
+ ## Taiwan Mynavi 台灣日商.日本正職.打工度假。免費赴日就職服務，日本工作，日本打工
+ - [https://www.mynavi-taiwan.com.tw](https://www.mynavi-taiwan.com.tw)
+ - date_published: 2024-06-24T01:33:52.729841+00:00
+
+ ## NARS化妝品 | 官方網站 | 彩妝和保養品
+ - [https://www.narscosmetics.com.tw](https://www.narscosmetics.com.tw)
+ - date_published: 2024-10-29T09:02:11.469630+00:00
+
+ ## Nestle: Good Food Good Life 首頁 | 雀巢台灣 Nestle Taiwan
+ - [http://www.nestle.com.tw](http://www.nestle.com.tw)
+ - date_published: 2024-09-14T21:20:49+00:00
+
+ ## 網管人
+ - [https://www.netadmin.com.tw](https://www.netadmin.com.tw)
+ - date_published: 2024-10-31T12:02:49.806594+00:00
+
+ ## 新視野網頁設計，只做最划算的高CP值網站
+ - [https://www.newscan.com.tw](https://www.newscan.com.tw)
+ - date_published: 2024-07-04T09:39:17.078497+00:00
+
+ ## 新唐人亞太電視台
+ - [https://www.ntdtv.com.tw](https://www.ntdtv.com.tw)
+ - date_published: 2024-10-31T11:16:27+00:00
+
+ ## 人工智慧運算的全球領袖
+ - [http://www.nvidia.com.tw](http://www.nvidia.com.tw)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## 歐米茄腕錶: 瑞士頂級腕錶製造商 | OMEGA TW®
+ - [https://www.omegawatches.com.tw](https://www.omegawatches.com.tw)
+ - date_published: 2024-10-14T21:51:45.177541+00:00
+
+ ## OpenTable・餐廳訂位｜餐廳・隨時一鍵訂位
+ - [https://www.opentable.com.tw](https://www.opentable.com.tw)
+ - date_published: 2024-06-30T12:08:43.530983+00:00
+
+ ## 寶寶 - 懷孕 - 孕兒 - 幫寶適
+ - [https://www.pampers.com.tw](https://www.pampers.com.tw)
+ - date_published: 2024-10-28T16:30:30+00:00
+
+ ## 飛利浦 - 台灣
+ - [https://www.philips.com.tw](https://www.philips.com.tw)
+ - date_published: 2024-10-31T08:35:40+00:00
+
+ ## 普羅森科技｜桌面型光固化3D列印機｜8K高解析度｜CP值超高輕鬆好上手
+ - [https://phrozen3d.com.tw](https://phrozen3d.com.tw)
+ - date_published: 2024-05-08T12:29:52.545937+00:00
+
+ ## PieceMakers | Creates Piece of Mind
+ - [http://www.piecemakers.com.tw](http://www.piecemakers.com.tw)
+ - date_published: 2023-08-13T16:05:53+00:00
+
+ ## Prolific Technology Inc. (USB to UART / RS232 / Serial)
+ - [https://www.prolific.com.tw](https://www.prolific.com.tw)
+ - date_published: 2024-05-12T06:12:37.284090+00:00
+
+ ## 最佳VPN資金可以購買-最快的VPN服務| PureVPN
+ - [https://www.purevpn.com.tw](https://www.purevpn.com.tw)
+ - date_published: 2021-03-31T09:06:52+00:00
+
+ ## QNAP 網路商城｜線上購買NAS ｜QNAP Store Taiwan
+ - [https://store.qnap.com.tw](https://store.qnap.com.tw)
+ - date_published: 2024-05-21T02:52:17.145568+00:00
+
+ ## 樂天市場購物網- Rakuten日本最大線上購物網站
+ - [https://www.rakuten.com.tw](https://www.rakuten.com.tw)
+ - date_published: 2024-09-15T21:17:02.411217+00:00
+
+ ## Ralph Lauren® 台灣官方網站 | 美國時尚服裝品牌
+ - [https://www.ralphlauren.com.tw](https://www.ralphlauren.com.tw)
+ - date_published: 2024-06-19T23:58:22.971519+00:00
+
+ ## SAKURA 台灣櫻花官方購物商城
+ - [https://shop.sakura.com.tw](https://shop.sakura.com.tw)
+ - date_published: 2024-10-07T22:10:10.975308+00:00
+
+ ## 三立集團官方網站
+ - [https://www.settv.com.tw](https://www.settv.com.tw)
+ - date_published: 2024-10-07T22:03:19+00:00
+
+ ## SilverStone
+ - [https://www.silverstonetek.com.tw](https://www.silverstonetek.com.tw)
+ - date_published: 2024-07-04T09:29:13.204523+00:00
+
+ ## SK-II: 讓您的肌膚更加年輕透亮的專業美肌護膚品牌 | SK-II 台灣
+ - [https://sk-ii.com.tw](https://sk-ii.com.tw)
+ - date_published: 2024-10-29T06:35:34.703305+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.tw](https://www.skyscanner.com.tw)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## 雪諾必克*Snow Peak
+ - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
+ - date_published: 2024-07-15T06:46:42.549315+00:00
+
+ ## 台灣索尼 | 最新技術消息 | 電子產品 | 娛樂
+ - [https://www.sony.com.tw](https://www.sony.com.tw)
+ - date_published: 2024-10-21T07:37:55.324784+00:00
+
+ ## Sony Pictures Taiwan | 主頁 Homepage
+ - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## 微熱山丘 Sunnyhills
+ - [https://www.sunnyhills.com.tw](https://www.sunnyhills.com.tw)
+ - date_published: 2024-03-28T03:38:34+00:00
+
+ ## 南港展覽館
+ - [https://www.tainex.com.tw](https://www.tainex.com.tw)
+ - date_published: 2021-12-20T07:34:02+00:00
+
+ ## Taipei 101 台北101
+ - [https://www.taipei-101.com.tw](https://www.taipei-101.com.tw)
+ - date_published: 2024-10-31T12:01:05.223827+00:00
+
+ ## 台灣彩券
+ - [http://www.taiwanlottery.com.tw](http://www.taiwanlottery.com.tw)
+ - date_published: 2024-07-22T06:00:56+00:00
+
+ ## Directory of Taiwan | 台灣指南
+ - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:47.994459+00:00
+
+ ## Taiwan News - Voice of the People, Bridge to the World
+ - [https://taiwannews.com.tw](https://taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:51.243016+00:00
+
+ ## Welcome to TATUNG-OKUMA CO.,LTD
+ - [https://www.tatung-okuma.com.tw](https://www.tatung-okuma.com.tw)
+ - date_published: 2019-10-28T07:26:32+00:00
+
+ ## TBMS 博而美國際
+ - [https://www.tbms.com.tw](https://www.tbms.com.tw)
+ - date_published: 2024-10-07T22:10:25.297996+00:00
+
+ ## Terasic Inc. - Expertise in FPGA/ASIC Design
+ - [https://terasic.com.tw](https://terasic.com.tw)
+ - date_published: 2024-05-07T15:42:59.769265+00:00
+
+ ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
+ - [http://www.sdd.toshiba.com.tw](http://www.sdd.toshiba.com.tw)
+ - date_published: 2024-07-15T03:28:10.678894+00:00
+
+ ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
+ - [https://www.tripadvisor.com.tw](https://www.tripadvisor.com.tw)
+ - date_published: 2024-06-23T09:27:01.079491+00:00
+
+ ## trivago.com.tw - Compare hotel prices worldwide
+ - [https://www.trivago.com.tw](https://www.trivago.com.tw)
+ - date_published: 2024-09-04T11:19:42.589836+00:00
+
+ ## TSMC - Starting Page
+ - [https://supplyonline.tsmc.com.tw](https://supplyonline.tsmc.com.tw)
+ - date_published: 2020-12-22T01:46:33+00:00
+
+ ## TSMC - Starting Page
+ - [https://supply.tsmc.com.tw](https://supply.tsmc.com.tw)
+ - date_published: 2020-12-22T02:47:18+00:00
+
+ ## TVBS新聞網
+ - [https://news.tvbs.com.tw](https://news.tvbs.com.tw)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## 普雷伊電視遊樂器專賣店
+ - [https://www.tvgame.com.tw](https://www.tvgame.com.tw)
+ - date_published: 2024-11-08T13:06:50.194234+00:00
+
+ ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
+ - [https://www.twca.com.tw](https://www.twca.com.tw)
+ - date_published: 2024-06-21T15:23:12.147780+00:00
+
+ ## forward
+ - [https://emops.twse.com.tw](https://emops.twse.com.tw)
+ - date_published: 2019-05-31T09:47:58+00:00
+
+ ## 聯邦銀行
+ - [https://www.ubot.com.tw](https://www.ubot.com.tw)
+ - date_published: 2024-10-04T08:00:49+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://vecow.utrust.com.tw](http://vecow.utrust.com.tw)
+ - date_published: 2024-09-05T21:00:42.277897+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visa.com.tw](https://visa.com.tw)
+ - date_published: 2024-05-12T03:59:40.742905+00:00
+
+ ## Vogue Taiwan
+ - [https://vogue.com.tw](https://vogue.com.tw)
+ - date_published: 2024-05-07T10:58:39.629872+00:00
+
+ ## wicca
+ - [http://www.wicca.com.tw](http://www.wicca.com.tw)
+ - date_published: 2024-06-20T02:53:30+00:00
+
+ ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
+ - [https://www.winstar.com.tw](https://www.winstar.com.tw)
+ - date_published: 2024-06-20T17:30:54.372028+00:00
+
+ ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
+ - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
+ - date_published: 2024-06-20T17:33:20.856803+00:00
+
+ ## 智略市場研究
+ - [https://www.wmr.com.tw](https://www.wmr.com.tw)
+ - date_published: 2024-06-17T16:54:04.604001+00:00
+
+ ## 建達國際
+ - [https://www.xander.com.tw](https://www.xander.com.tw)
+ - date_published: 2024-10-31T13:23:13.303754+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.tw](https://m.yelp.com.tw)
+ - date_published: 2024-07-01T06:42:13.043604+00:00
+
+ ## Yelp
+ - [https://yelp.com.tw](https://yelp.com.tw)
+ - date_published: 2024-07-01T06:42:08.129585+00:00
+
+ ## LTN JOB X yes123求職網
+ - [https://ltn_jobs.yes123.com.tw](https://ltn_jobs.yes123.com.tw)
+ - date_published: 2024-10-07T22:10:36.249679+00:00
+
+ ## 求職網-人力銀行找工作、找人才，媒合快又有效率
+ - [https://www.yes123.com.tw](https://www.yes123.com.tw)
+ - date_published: 2024-10-07T22:11:08.340377+00:00
+
+ ## YUAN
+ - [http://www.yuan.com.tw](http://www.yuan.com.tw)
+ - date_published: 2024-09-05T22:58:34.446168+00:00
+
+ ## 元大銀行
+ - [https://www.yuantabank.com.tw](https://www.yuantabank.com.tw)
+ - date_published: 2024-06-21T15:22:59.543481+00:00
+
+ ## 蔡司台灣
+ - [https://www.zeiss.com.tw](https://www.zeiss.com.tw)
+ - date_published: 2024-09-16T07:56:11.384044+00:00
+
+ ## Asia University, Taiwan 歡迎光臨亞洲大學全球資訊網
+ - [http://asia.edu.tw](http://asia.edu.tw)
+ - date_published: 2024-10-30T20:30:29.030171+00:00
+
+ ## Chang Gung University of Science and Technology
+ - [http://english.cgust.edu.tw](http://english.cgust.edu.tw)
+ - date_published: 2024-10-30T20:25:49+00:00
+
+ ## 教育部《重編國語辭典修訂本》2021
+ - [http://dict.revised.moe.edu.tw](http://dict.revised.moe.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 教育部臺灣客語辭典
+ - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
+ - date_published: 2024-07-12T05:30:17.720490+00:00
+
+ ## Index of /
+ - [http://alpine.ccns.ncku.edu.tw](http://alpine.ccns.ncku.edu.tw)
+ - date_published: 2024-07-20T15:58:32.401826+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [http://web.ncku.edu.tw](http://web.ncku.edu.tw)
+ - date_published: 2024-10-30T20:17:56+00:00
+
+ ## Wiki - 成功大學資工系(所) Wiki 系統
+ - [http://wiki.csie.ncku.edu.tw](http://wiki.csie.ncku.edu.tw)
+ - date_published: 2024-06-22T12:41:42.514452+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://www.ncku.edu.tw](https://www.ncku.edu.tw)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 故宮電子報
+ - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
+ - date_published: 2024-05-02T10:40:24.527107+00:00
+
+ ## 故宮線上學校
+ - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
+ - date_published: 2024-01-20T01:20:58+00:00
+
+ ## 清代檔案檢索系統-首頁
+ - [https://qingarchives.npm.edu.tw](https://qingarchives.npm.edu.tw)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## 古籍輿圖檢索系統-說明
+ - [https://rarebooks-maps.npm.edu.tw](https://rarebooks-maps.npm.edu.tw)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 國立故宮博物院 網路線上報名系統
+ - [https://signup.npm.edu.tw](https://signup.npm.edu.tw)
+ - date_published: 2024-06-17T16:53:51.428522+00:00
+
+ ## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.edu.tw](https://www.npm.edu.tw)
+ - date_published: 2024-10-19T22:22:37.185748+00:00
+
+ ## 308
+ - [https://asiaccs2020.cs.nthu.edu.tw](https://asiaccs2020.cs.nthu.edu.tw)
+ - date_published: 2022-11-21T01:58:58+00:00
+
+ ## Home - CGV | NTHU
+ - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
+ - date_published: 2024-06-22T07:30:50.710895+00:00
+
+ ## 國立清華大學
+ - [http://www.nthu.edu.tw](http://www.nthu.edu.tw)
+ - date_published: 2024-10-22T03:47:41.368455+00:00
+
+ ## Home - 台大國際事務處
+ - [https://admissions.ntu.edu.tw](https://admissions.ntu.edu.tw)
+ - date_published: 2023-12-13T00:00:00+00:00
+
+ ## 臺大生輔組官方網站
+ - [https://advisory.ntu.edu.tw](https://advisory.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:05.006429+00:00
+
+ ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
+ - [http://alumni.ee.ntu.edu.tw](http://alumni.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:21.837099+00:00
+
+ ## 校園公佈欄
+ - [https://ann.cc.ntu.edu.tw](https://ann.cc.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:52.399748+00:00
+
+ ## 國立臺灣大學藝文中心
+ - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:38.028652+00:00
+
+ ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
+ - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:49.174887+00:00
+
+ ## 國立臺灣大學資訊工程學系
+ - [https://csie.ntu.edu.tw](https://csie.ntu.edu.tw)
+ - date_published: 2024-10-04T00:00:00+00:00
+
  ## NTU D-School – D School
  - [https://dschool.ntu.edu.tw](https://dschool.ntu.edu.tw)
  - date_published: 2024-07-09T23:40:41+00:00
@@ -3649,364 +4009,4 @@
  ## University of Birmingham Sport & Fitness
  - [https://www.sportandfitness.bham.ac.uk](https://www.sportandfitness.bham.ac.uk)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | BIAA
- - [https://biaa.ac.uk](https://biaa.ac.uk)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Homepage - Brand Portal
- - [https://brand.birmingham.ac.uk](https://brand.birmingham.ac.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Intranet home
- - [https://intranet.birmingham.ac.uk](https://intranet.birmingham.ac.uk)
- - date_published: 2024-05-02T10:50:27.671218+00:00
-
- ## University of Birmingham - A leading global university
- - [https://www.birmingham.ac.uk](https://www.birmingham.ac.uk)
- - date_published: 2023-10-25T22:48:18.220906+00:00
-
- ## BLE Home
- - [https://www.ble.ac.uk](https://www.ble.ac.uk)
- - date_published: 2024-06-17T18:15:33.719895+00:00
-
- ## HTTP Server Test Page powered by: Rocky Linux
- - [https://www.bodc.ac.uk](https://www.bodc.ac.uk)
- - date_published: 2022-07-27T18:04:30+00:00
-
- ## Bournemouth University
- - [https://bournemouth.ac.uk](https://bournemouth.ac.uk)
- - date_published: 2024-03-29T02:27:06.793179+00:00
-
- ## Please wait...
- - [https://staffintranet.bournemouth.ac.uk](https://staffintranet.bournemouth.ac.uk)
- - date_published: 2024-05-12T04:17:07.196876+00:00
-
- ## Bournemouth University Staff Profile Pages
- - [https://staffprofiles.bournemouth.ac.uk](https://staffprofiles.bournemouth.ac.uk)
- - date_published: 2024-05-12T04:17:08.241201+00:00
-
- ## Virtual tour | Bournemouth University
- - [https://virtualtour.bournemouth.ac.uk](https://virtualtour.bournemouth.ac.uk)
- - date_published: 2021-09-13T07:18:35+00:00
-
- ## University of Bradford
- - [https://brad.ac.uk](https://brad.ac.uk)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## University of Bradford
- - [https://www.bradford.ac.uk](https://www.bradford.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Sign in to your account
- - [https://cris.brighton.ac.uk](https://cris.brighton.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The University of Brighton
- - [https://research.brighton.ac.uk](https://research.brighton.ac.uk)
- - date_published: 2023-10-25T22:48:20.882555+00:00
-
- ## University of Brighton Online Store
- - [https://shop.brighton.ac.uk](https://shop.brighton.ac.uk)
- - date_published: 2024-06-17T17:27:35.221262+00:00
-
- ## University of Brighton
- - [https://www.brighton.ac.uk](https://www.brighton.ac.uk)
- - date_published: 2024-05-02T10:50:32.594267+00:00
-
- ## UoB Interactive Server
- - [http://eis.bris.ac.uk](http://eis.bris.ac.uk)
- - date_published: 2019-08-01T10:15:18+00:00
-
- ## University of Bristol
- - [https://research-information.bris.ac.uk](https://research-information.bris.ac.uk)
- - date_published: 2024-06-17T17:27:43.774445+00:00
-
- ## Homepage |  University of Bristol
- - [http://www.bris.ac.uk](http://www.bris.ac.uk)
- - date_published: 2024-07-01T15:06:26+00:00
-
- ## School of Chemistry | School of Chemistry | University of Bristol
- - [https://www.chm.bris.ac.uk](https://www.chm.bris.ac.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Our faculty structure has changed
- - [http://www.cs.bris.ac.uk](http://www.cs.bris.ac.uk)
- - date_published: 2024-06-11T11:08:05+00:00
-
- ## Homepage |  University of Bristol
- - [https://bristol.ac.uk](https://bristol.ac.uk)
- - date_published: 2024-01-09T03:48:14.546752+00:00
-
- ## University of Bristol
- - [https://research-information.bristol.ac.uk](https://research-information.bristol.ac.uk)
- - date_published: 2024-05-02T10:50:35.420985+00:00
-
- ## Home
- - [https://www.britac.ac.uk](https://www.britac.ac.uk)
- - date_published: 2024-06-17T11:08:01+00:00
-
- ## Come to our Summer Open Days - Oxford Brookes University
- - [https://brookes.ac.uk](https://brookes.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Welcome | openEQUELLA
- - [https://radar.brookes.ac.uk](https://radar.brookes.ac.uk)
- - date_published: 2024-07-01T08:18:26.275141+00:00
-
- ## A university for a changing world | Brunel University London
- - [https://brunel.ac.uk](https://brunel.ac.uk)
- - date_published: 2024-05-07T14:13:53.413513+00:00
-
- ## Brunel University Research Archive: Home
- - [https://bura.brunel.ac.uk](https://bura.brunel.ac.uk)
- - date_published: 2024-06-29T21:11:35.792008+00:00
-
- ## Brunel University
- - [https://giving.brunel.ac.uk](https://giving.brunel.ac.uk)
- - date_published: 2024-06-29T21:11:31.166542+00:00
-
- ## Login - Brunel University London
- - [https://goingto.brunel.ac.uk](https://goingto.brunel.ac.uk)
- - date_published: 2024-06-29T21:11:29.828546+00:00
-
- ## A university for a changing world | Brunel University London
- - [https://idp.brunel.ac.uk](https://idp.brunel.ac.uk)
- - date_published: 2024-08-07T10:10:44.998910+00:00
-
- ## Brunel University London
- - [https://onlinestudy.brunel.ac.uk](https://onlinestudy.brunel.ac.uk)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## BruNet, Brunel University London
- - [https://students.brunel.ac.uk](https://students.brunel.ac.uk)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Education and Training in Somerset | Bridgwater & Taunton College
- - [https://www.btc.ac.uk](https://www.btc.ac.uk)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## British Universities Film & Video Council
- - [http://bufvc.ac.uk](http://bufvc.ac.uk)
- - date_published: 2024-08-08T19:35:17.243736+00:00
-
- ## GAOBase
- - [https://2024.gaobase.admin.cam.ac.uk](https://2024.gaobase.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:29:27.965997+00:00
-
- ## Homepage | Cambridge Advance Online
- - [https://advanceonline.cam.ac.uk](https://advanceonline.cam.ac.uk)
- - date_published: 2024-06-17T17:28:54.180844+00:00
-
- ## SAML Login Redirection
- - [https://alma.lib.cam.ac.uk](https://alma.lib.cam.ac.uk)
- - date_published: 2024-06-17T17:47:06.477538+00:00
-
- ## Alumni
- - [https://alumni.cam.ac.uk](https://alumni.cam.ac.uk)
- - date_published: 2024-10-20T02:53:45.537768+00:00
-
- ## Christ's College Alumni - Christ's College
- - [https://alumni.christs.cam.ac.uk](https://alumni.christs.cam.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Map of the University of Cambridge: annotation API
- - [https://annotate.map.cam.ac.uk](https://annotate.map.cam.ac.uk)
- - date_published: 2024-06-17T17:35:50.694829+00:00
-
- ## LibAnswers FAQs - LibAnswers
- - [https://answers.libraries.cam.ac.uk](https://answers.libraries.cam.ac.uk)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## University of Cambridge: Applicant Portal
- - [https://apply.postgraduate.study.cam.ac.uk](https://apply.postgraduate.study.cam.ac.uk)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Homepage - Churchill Archives Centre
- - [https://archives.chu.cam.ac.uk](https://archives.chu.cam.ac.uk)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## ArchiveSearch | ArchiveSearch
- - [https://archivesearch.lib.cam.ac.uk](https://archivesearch.lib.cam.ac.uk)
- - date_published: 2024-05-02T10:52:16.291379+00:00
-
- ## Cambridge Account - Loading Session Information
- - [https://arcspace-staff.lib.cam.ac.uk](https://arcspace-staff.lib.cam.ac.uk)
- - date_published: 2024-06-17T17:47:24.074726+00:00
-
- ## Welcome to Cambridge University Botanic Garden - Find Out More
- - [http://botanic.cam.ac.uk](http://botanic.cam.ac.uk)
- - date_published: 2024-10-20T03:27:18.116544+00:00
-
- ## Kings College Cambridge - College Calendar
- - [https://calendar.kings.cam.ac.uk](https://calendar.kings.cam.ac.uk)
- - date_published: 2024-10-19T03:59:34.829755+00:00
-
- ## University of Cambridge
- - [https://cam.ac.uk](https://cam.ac.uk)
- - date_published: 2024-06-17T17:30:47+00:00
-
- ## LibGuides: Camguides: Home
- - [https://camguides.lib.cam.ac.uk](https://camguides.lib.cam.ac.uk)
- - date_published: 2024-06-17T17:36:44.830999+00:00
-
- ## CamSIS |
- - [https://camsis.cam.ac.uk](https://camsis.cam.ac.uk)
- - date_published: 2024-06-17T16:49:31+00:00
-
- ## Card Management
- - [https://card.apps.cam.ac.uk](https://card.apps.cam.ac.uk)
- - date_published: 2024-05-30T15:19:12+00:00
-
- ## Join us and help make ideas thrive - Cambridge Enterprise - Cambridge Enterprise
- - [https://careers.enterprise.cam.ac.uk](https://careers.enterprise.cam.ac.uk)
- - date_published: 2024-10-20T03:18:29.576468+00:00
-
- ## Home | Faculty News
- - [https://content.educ.cam.ac.uk](https://content.educ.cam.ac.uk)
- - date_published: 2024-03-17T11:41:06.415547+00:00
-
- ## Cambridge Digital Library
- - [https://cudl.lib.cam.ac.uk](https://cudl.lib.cam.ac.uk)
- - date_published: 2024-05-02T10:52:07.211680+00:00
-
- ## Darkness Visible Homepage - A resource for studying Milton's Paradise Lost
- - [https://darknessvisible.christs.cam.ac.uk](https://darknessvisible.christs.cam.ac.uk)
- - date_published: 2015-08-10T11:47:48+00:00
-
- ## Home | Darwin
- - [https://darwin200.christs.cam.ac.uk](https://darwin200.christs.cam.ac.uk)
- - date_published: 2024-06-23T20:49:46.979144+00:00
-
- ## Research Computing Services HPC Documentation — CSD3 1.0 documentation
- - [https://docs.hpc.cam.ac.uk](https://docs.hpc.cam.ac.uk)
- - date_published: 2024-06-13T09:12:38+00:00
-
- ## Welcome to DPMMS | Department of Pure Mathematics and Mathematical Statistics
- - [https://dpmms.cam.ac.uk](https://dpmms.cam.ac.uk)
- - date_published: 2024-05-07T15:47:58.590095+00:00
-
- ## Welcome - Christ's Egyptology
- - [https://egyptology.christs.cam.ac.uk](https://egyptology.christs.cam.ac.uk)
- - date_published: 2023-12-12T20:56:12+00:00
-
- ## Sign in to your account
- - [https://elements.admin.cam.ac.uk](https://elements.admin.cam.ac.uk)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## IfM Engage | University of Cambridge
- - [https://engage.ifm.eng.cam.ac.uk](https://engage.ifm.eng.cam.ac.uk)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Index of /
- - [https://eng.cam.ac.uk](https://eng.cam.ac.uk)
- - date_published: 2024-07-20T05:36:37.779120+00:00
-
- ## Centre for Earth Observation
- - [https://eo.conservation.cam.ac.uk](https://eo.conservation.cam.ac.uk)
- - date_published: 2024-10-20T03:25:51.450521+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezp.lib.cam.ac.uk](https://ezp.lib.cam.ac.uk)
- - date_published: 2024-09-16T14:45:56.727152+00:00
-
- ## Welcome to the Museum
- - [https://fitzmuseum.cam.ac.uk](https://fitzmuseum.cam.ac.uk)
- - date_published: 2024-10-20T03:33:51.157769+00:00
-
- ## Cambridge Account - Loading Session Information
- - [http://gcal.apps.cam.ac.uk](http://gcal.apps.cam.ac.uk)
- - date_published: 2024-06-17T17:36:32.918385+00:00
-
- ## Explore projects · GitLab
- - [https://gitlab.developers.cam.ac.uk](https://gitlab.developers.cam.ac.uk)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## A good death? - Exploring the culture of dying well
- - [https://good-death.english.cam.ac.uk](https://good-death.english.cam.ac.uk)
- - date_published: 2019-07-01T09:44:37+00:00
-
- ## IT Help and Support | University Information Services
- - [https://help.uis.cam.ac.uk](https://help.uis.cam.ac.uk)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Institute of Computing for Climate Science |
- - [https://iccs.cam.ac.uk](https://iccs.cam.ac.uk)
- - date_published: 2024-06-17T17:29:13+00:00
-
- ## Mendix
- - [https://imagingservices.lib.cam.ac.uk](https://imagingservices.lib.cam.ac.uk)
- - date_published: 2023-10-26T08:49:29+00:00
-
- ## Impact Map | University of Cambridge
- - [https://impactmap.cam.ac.uk](https://impactmap.cam.ac.uk)
- - date_published: 2024-10-20T03:27:04.690234+00:00
-
- ## Faculty of Asian and Middle Eastern Studies | Intranet
- - [http://intranet.ames.cam.ac.uk](http://intranet.ames.cam.ac.uk)
- - date_published: 2021-11-29T11:55:52+00:00
-
- ## Sign in to your account
- - [https://intranet.uis.cam.ac.uk](https://intranet.uis.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Cambridge Judge Business School - University of Cambridge
- - [https://jbs.cam.ac.uk](https://jbs.cam.ac.uk)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## English Faculty Library - University of Cambridge
- - [http://lib.english.cam.ac.uk](http://lib.english.cam.ac.uk)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## LibGuides: Cambridge LibGuides: Home
- - [https://libguides.cam.ac.uk](https://libguides.cam.ac.uk)
- - date_published: 2024-05-02T10:52:05.076043+00:00
-
- ## Sympa Mailing lists service on lists.cam.ac.uk - home
- - [https://lists.cam.ac.uk](https://lists.cam.ac.uk)
- - date_published: 2024-06-17T17:38:06.092702+00:00
-
- ## CAM Digital | University of Cambridge
- - [https://magazine.alumni.cam.ac.uk](https://magazine.alumni.cam.ac.uk)
- - date_published: 2024-06-17T17:29:49.323526+00:00
-
- ## Map of the University of Cambridge
- - [https://map.cam.ac.uk](https://map.cam.ac.uk)
- - date_published: 2024-05-02T10:51:20.258129+00:00
-
- ## Machine Intelligence Laboratory
- - [https://mi.eng.cam.ac.uk](https://mi.eng.cam.ac.uk)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Cambridge Machine Learning Group
- - [https://mlg.eng.cam.ac.uk](https://mlg.eng.cam.ac.uk)
- - date_published: 2023-03-22T00:00:00+00:00
-
- ## Home Page - The James Catalogue of Western Manuscripts
- - [https://mss-cat.trin.cam.ac.uk](https://mss-cat.trin.cam.ac.uk)
- - date_published: 2024-06-17T17:36:59.651538+00:00
-
- ## Homepage | University of Cambridge Museums
- - [https://museums.cam.ac.uk](https://museums.cam.ac.uk)
- - date_published: 2024-06-17T13:56:51+00:00
-
- ## Submitting...
- - [https://my.phone.cam.ac.uk](https://my.phone.cam.ac.uk)
- - date_published: 2024-06-17T17:29:02.747474+00:00
-
- ## Sign in to your account
- - [https://netinfo.uis.cam.ac.uk](https://netinfo.uis.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Open Research |
- - [https://osc.cam.ac.uk](https://osc.cam.ac.uk)
- - date_published: 2024-06-17T17:37:21+00:00
-
- ## DS-Web
- - [http://people.ds.cam.ac.uk](http://people.ds.cam.ac.uk)
- - date_published: 2024-06-17T11:12:24.624741+00:00
-
- ## Trinity College Postdoctoral Society - Postdoctoral Society
- - [https://postdocsoc.trin.cam.ac.uk](https://postdocsoc.trin.cam.ac.uk)
- - date_published: 2024-03-07T00:00:00+00:00
 

@@ -1,3 +1,15 @@
+ ## Erhalten Sie Zugang zur grössten ICT-Community der Schweiz
+ - [https://inserieren.inside-it.ch](https://inserieren.inside-it.ch)
+ - date_published: 2024-03-05T08:31:57+00:00
+
+ ## Inside IT – Das Magazin für IT-Verantwortliche
+ - [https://inside-it.ch](https://inside-it.ch)
+ - date_published: 2024-05-11T07:05:21.542689+00:00
+
+ ## Inside IT Jobs – Das Jobportal für Führungskräfte, Experten und Fachpersonen im IT-Bereich
+ - [https://jobs.inside-it.ch](https://jobs.inside-it.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## insieme handicap mental proches et famille
  - [https://insieme.ch](https://insieme.ch)
  - date_published: 2024-10-31T02:46:56+00:00
@@ -4010,16 +4022,4 @@ Fakultät | Universität Basel
  ## EduTech Wiki
  - [https://edutechwiki.unige.ch](https://edutechwiki.unige.ch)
  - date_published: 2022-06-30T13:16:16+00:00
-
- ## Home
- - [https://emploi.unige.ch](https://emploi.unige.ch)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Mailing List Service - home
- - [https://listes.unige.ch](https://listes.unige.ch)
- - date_published: 2024-08-19T20:01:43.297736+00:00
-
- ## Password Self Service
- - [https://mdp.unige.ch](https://mdp.unige.ch)
- - date_published: 2024-07-21T05:11:19.346057+00:00
 

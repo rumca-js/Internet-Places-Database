@@ -1,3 +1,15 @@
+ ## White Label SEO AI Services & Software Marketing Platform - Sign Up for Free
+ - [https://cdn.seovendor.co](https://cdn.seovendor.co)
+ - date_published: 2024-10-30T10:20:03+00:00
+
+ ## White Label SEO, PPC, and Web Design Reseller Platform - Sign Up for Free
+ - [https://seovendor.co](https://seovendor.co)
+ - date_published: 2024-06-19T17:36:56+00:00
+
+ ## Home | Serafund
+ - [https://www.serafund.co](https://www.serafund.co)
+ - date_published: 2024-09-04T14:25:22.602238+00:00
+
  ## Ser Jesuita | Colombia
  - [https://serjesuita.co](https://serjesuita.co)
  - date_published: 2024-06-12T11:03:01.205920+00:00
@@ -4009,16 +4021,4 @@
  ## SISTEMA ORGANIZACIONAL FINANCIERO & ACADEMICO ADMINISTRATIVO - SOF&A
  - [https://academico.juanncorpas.edu.co](https://academico.juanncorpas.edu.co)
  - date_published: 2024-06-12T10:57:42.814362+00:00
-
- ## Centro de Información y Consulta - Catálogo Público Koha
- - [https://catalogo.juanncorpas.edu.co](https://catalogo.juanncorpas.edu.co)
- - date_published: 2024-09-11T16:01:59.340542+00:00
-
- ## Inicio | Fundación Universitaria Juan N. Corpas
- - [https://juanncorpas.edu.co](https://juanncorpas.edu.co)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## DSpace Home
- - [https://repositorio.juanncorpas.edu.co](https://repositorio.juanncorpas.edu.co)
- - date_published: 2024-06-12T10:57:40.830404+00:00
 

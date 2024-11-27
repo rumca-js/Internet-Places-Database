@@ -1,3 +1,11 @@
+ ## Providing IT support for Temerty Medicine
+ - [http://dc.med.utoronto.ca](http://dc.med.utoronto.ca)
+ - date_published: 2024-07-25T17:42:17+00:00
+
+ ## Defy Gravity Campaign
+ - [https://defygravitycampaign.utoronto.ca](https://defygravitycampaign.utoronto.ca)
+ - date_published: 2024-01-19T00:00:00+00:00
+
  ## Dialect Topography
  - [https://dialect.topography.artsci.utoronto.ca](https://dialect.topography.artsci.utoronto.ca)
  - date_published: 2006-01-05T17:02:15+00:00
@@ -4002,12 +4010,4 @@
  ## Inici - Localret
  - [http://www.localret.cat](http://www.localret.cat)
  - date_published: 2024-09-12T00:00:00+00:00
-
- ## mastodont.cat, cultura catalana.
- - [https://mastodont.cat](https://mastodont.cat)
- - date_published: 2024-05-09T08:22:54.387775+00:00
-
- ## MetaData - El digital de tecnologia en català
- - [https://www.metadata.cat](https://www.metadata.cat)
- - date_published: 2024-10-30T09:41:01.994640+00:00
 

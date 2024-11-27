@@ -1,3 +1,15 @@
+ ## 浙江省文化广电和旅游厅
+ - [http://ct.zj.gov.cn](http://ct.zj.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 浙江省人民政府外事办公室（浙江省人民政府港澳事务办公室）
+ - [http://fad.zj.gov.cn](http://fad.zj.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 浙江省发展和改革委员会
+ - [http://fzggw.zj.gov.cn](http://fzggw.zj.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## 405
  - [http://idinfo.zjamr.zj.gov.cn](http://idinfo.zjamr.zj.gov.cn)
  - date_published: 2024-07-01T07:11:27.695078+00:00
@@ -4005,16 +4017,4 @@
  ## Craftsman Creative
  - [https://www.craftsmancreative.co](https://www.craftsmancreative.co)
  - date_published: 2024-05-04T05:25:57.795804+00:00
-
- ## Websites That Get Speakers Booked - Crash Design Co
- - [http://crashdesign.co](http://crashdesign.co)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Your Competitive Intelligence Software
- - [https://app.crayon.co](https://app.crayon.co)
- - date_published: 2024-10-30T09:58:24.356404+00:00
-
- ## Crayon | Competitive Intelligence Software
- - [https://www.crayon.co](https://www.crayon.co)
- - date_published: 2024-06-13T00:00:00+00:00
 

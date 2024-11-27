@@ -1,3 +1,8 @@
+ ## Inflection
+ - [https://inflection.ai](https://inflection.ai)
+ - date_published: 2023-10-25T11:39:23.848682+00:00
+ - tags: ['artificial intelligence bot']
+
  ## demo.infoforge.ai
  - [https://demo.infoforge.ai](https://demo.infoforge.ai)
  - date_published: 2024-06-21T23:57:46+00:00
@@ -4017,8 +4022,4 @@
  ## 큐샵 Qshop
  - [https://qshop.ai](https://qshop.ai)
  - date_published: 2024-06-25T20:32:58.050581+00:00
-
- ## Quadrature
- - [https://quadrature.ai](https://quadrature.ai)
- - date_published: 2024-07-02T16:05:07+00:00
 

@@ -1,3 +1,364 @@
+ ## Włóczęga.pl - sklep dla miłośników gór, lasów i podróży
+ - [https://wloczega.pl](https://wloczega.pl)
+ - date_published: 2023-12-28T11:15:02+00:00
+ - tags: ['shop']
+
+ ## Wirtualne Muzeum Gazownictwa - historia i przyszłość gazu
+ - [https://wmgaz.pl](https://wmgaz.pl)
+ - date_published: 2024-09-07T22:49:41.295908+00:00
+
+ ## Warszawskie Muzeum Komputerów i Gier
+ - [https://wmkig.pl](https://wmkig.pl)
+ - date_published: 2024-08-19T23:57:26.047694+00:00
+
+ ## Wirtualne Muzeum Ożarów Mazowiecki – Ożarowów Mazowiecki i okolice w cyfrowym przekazie
+ - [https://wmom.pl](https://wmom.pl)
+ - date_published: 2024-07-19T21:56:09.583552+00:00
+
+ ## Sklep Wydawnictwa Miejskiego Posnania
+ - [https://sklep.wmposnania.pl](https://sklep.wmposnania.pl)
+ - date_published: 2024-09-13T17:52:54.850625+00:00
+
+ ## Blog o książkach dla dzieci i młodzieży - recenzje i rekomendacje
+ - [http://wnaszejbajce.pl](http://wnaszejbajce.pl)
+ - date_published: 2024-09-02T14:19:23.535724+00:00
+
+ ## Wszystkie filmy i seriale Netflix - WNetfliksie.pl
+ - [https://www.wnetfliksie.pl](https://www.wnetfliksie.pl)
+ - date_published: 2024-09-02T11:17:44.835349+00:00
+
+ ## Wirtualne Spacery 3D Matterport - WNĘTRZA 3D
+ - [https://wnetrza3d.pl](https://wnetrza3d.pl)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## wnp.pl - portal gospodarczy: przemysł, biznes, finanse
+ - [https://wnp.pl](https://wnp.pl)
+ - date_published: 2023-10-25T22:32:58.519968+00:00
+
+ ## Stylowe, wygodne buty damskie, męskie i dziecięce - Kolekcja 2023 | Sklep online Wojas.pl
+ - [https://wojas.pl](https://wojas.pl)
+ - date_published: 2024-07-09T13:30:29.159804+00:00
+
+ ## Wojciech Kulik – Software Engineer
+ - [https://wojciechkulik.pl](https://wojciechkulik.pl)
+ - date_published: 2023-10-25T22:33:02.014857+00:00
+
+ ## Stowarzyszenie WOKISS
+ - [https://bip2.wokiss.pl](https://bip2.wokiss.pl)
+ - date_published: 2024-09-03T19:24:47.011784+00:00
+
+ ## Wólczanka – Nowoczesna moda dla Niej i dla Niego | Wólczanka
+ - [https://wolczanka.pl](https://wolczanka.pl)
+ - date_published: 2024-10-31T22:06:16.475719+00:00
+
+ ## Wolfenstein Enemy Territory - Wykaz forów
+ - [https://wolfenstein.pl](https://wolfenstein.pl)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## wolnomularstwo.pl – Masoneria w Polsce
+ - [https://wolnomularstwo.pl](https://wolnomularstwo.pl)
+ - date_published: 2023-12-27T10:56:10+00:00
+ - tags: ['freemasonry']
+
+ ## Wolność Odzyskana - Loża Nr 14, WLNP
+ - [https://wolnoscodzyskana.pl](https://wolnoscodzyskana.pl)
+ - date_published: 2023-12-28T13:19:40+00:00
+ - tags: ['freemasonry']
+
+ ## Revive Adserver
+ - [http://adserver.wolterskluwer.pl](http://adserver.wolterskluwer.pl)
+ - date_published: 2024-08-18T15:35:05.165853+00:00
+
+ ## ePomoc Wolters Kluwer Polska
+ - [https://pomoc.wolterskluwer.pl](https://pomoc.wolterskluwer.pl)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Szkolenia i konferencje / Wolters Kluwer Polska Sp. z o.o.
+ - [https://szkolenia.wolterskluwer.pl](https://szkolenia.wolterskluwer.pl)
+ - date_published: 2024-08-18T15:35:16+00:00
+
+ ## Specjalistyczne rozwiązania Wolters Kluwer łączą doświadczenie z zaawansowaną technologią
+ - [https://www.wolterskluwer.pl](https://www.wolterskluwer.pl)
+ - date_published: 2024-08-18T15:35:15.108400+00:00
+
+ ## Women in Technology Poland
+ - [https://womenintechnology.pl](https://womenintechnology.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Wojewódzki Ośrodek Ruchu Drogowego w Gorzowie Wielkopolskim
+ - [https://archiwum.wordgorzow.pl](https://archiwum.wordgorzow.pl)
+ - date_published: 2024-05-11T08:18:37.482090+00:00
+
+ ## Strona główna - Wojewódzki Ośrodek Ruchu Drogowego w Gorzowie Wlkp.
+ - [https://bip.wordgorzow.pl](https://bip.wordgorzow.pl)
+ - date_published: 2024-05-11T08:18:38.227955+00:00
+
+ ## Strona główna
+ - [https://wordgorzow.pl](https://wordgorzow.pl)
+ - date_published: 2024-03-19T11:49:21+00:00
+ - tags: ['ośrodek ruchu drogowego']
+
+ ## WOW SCHOOL - szkoła programowania dla dzieci i młodzieży
+ - [https://www.wowschool.pl](https://www.wowschool.pl)
+ - date_published: 2024-09-02T14:19:11.604891+00:00
+
+ ## 1login od WP
+ - [https://1login.wp.pl](https://1login.wp.pl)
+ - date_published: 2024-08-18T17:09:01.539733+00:00
+
+ ## WP Ads - samoobsługowe narzędzie do realizacji kampanii reklamowych
+ - [https://ads.wp.pl](https://ads.wp.pl)
+ - date_published: 2024-10-22T21:16:44.608245+00:00
+
+ ## Panel mailingowy
+ - [https://adv.reklama.wp.pl](https://adv.reklama.wp.pl)
+ - date_published: 2024-08-19T23:38:10.407129+00:00
+
+ ## Akapitalny
+ - [https://akapitalny.wp.pl](https://akapitalny.wp.pl)
+ - date_published: 2024-07-19T21:43:56.219571+00:00
+
+ ## Centrala Gier
+ - [https://centralagier.wp.pl](https://centralagier.wp.pl)
+ - date_published: 2024-08-19T13:22:29.017271+00:00
+
+ ## Biuro prasowe - Wirtualna Polska SA
+ - [https://dlaprasy.wp.pl](https://dlaprasy.wp.pl)
+ - date_published: 2024-06-17T09:48:22.023577+00:00
+
+ ## WP Dom - Inspiruje i doradza
+ - [https://dom.wp.pl](https://dom.wp.pl)
+ - date_published: 2024-07-20T02:56:05.693927+00:00
+
+ ## Do razy przyłóż!
+ - [https://do-rany-przyloz.wp.pl](https://do-rany-przyloz.wp.pl)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## #dziejesie? Prześlij nam swoje zdjęcia i wideo
+ - [https://dziejesie.wp.pl](https://dziejesie.wp.pl)
+ - date_published: 2024-08-19T23:37:58.472450+00:00
+
+ ## WP Facet - Męski świat, Serwis dla mężczyzn
+ - [https://facet.wp.pl](https://facet.wp.pl)
+ - date_published: 2024-07-20T02:57:48.791477+00:00
+
+ ## WP Film - recenzje, zwiastuny, premiery kinowe
+ - [https://film.wp.pl](https://film.wp.pl)
+ - date_published: 2024-07-20T02:58:03.106423+00:00
+
+ ## WP Finanse - wiadomości gospodarcze i finansowe
+ - [https://finanse.wp.pl](https://finanse.wp.pl)
+ - date_published: 2024-07-20T02:57:22.714352+00:00
+
+ ## Fitness - informacje, komentarze, opinie
+ - [https://fitness.wp.pl](https://fitness.wp.pl)
+ - date_published: 2024-07-20T02:57:58.355159+00:00
+
+ ## Gry Online WP - Zagrajmy online w Bingo, Mahjonga, Remika i Bilard!
+ - [https://gryonline.wp.pl](https://gryonline.wp.pl)
+ - date_published: 2024-08-19T13:22:30+00:00
+
+ ## WP Gry - Wiadomości ze świata eSportu, recenzje gier i sprzętu - WP.PL
+ - [https://gry.wp.pl](https://gry.wp.pl)
+ - date_published: 2024-07-20T02:57:45.464374+00:00
+
+ ## WP Gwiazdy - pikantne życie gwiazd, plotki i skandale
+ - [https://gwiazdy.wp.pl](https://gwiazdy.wp.pl)
+ - date_published: 2024-07-20T02:57:31.580470+00:00
+
+ ## Wirtualna Polska Holding - Home page
+ - [https://holding.wp.pl](https://holding.wp.pl)
+ - date_published: 2024-05-02T09:44:12.922016+00:00
+
+ ## Horoskopy
+ - [https://horoskop.wp.pl](https://horoskop.wp.pl)
+ - date_published: 2024-07-20T02:56:04.200619+00:00
+
+ ## WP Interaktywny
+ - [https://interaktywny.wp.pl](https://interaktywny.wp.pl)
+ - date_published: 2024-08-18T17:08:42.078387+00:00
+
+ ## Strona Inwestorska WP Holding - Strona główna
+ - [https://inwestor.wp.pl](https://inwestor.wp.pl)
+ - date_published: 2024-08-19T23:38:09.611885+00:00
+
+ ## WP Media - Kariera - Poznaj nas
+ - [https://kariera.wp.pl](https://kariera.wp.pl)
+ - date_published: 2024-06-17T09:48:25.131144+00:00
+
+ ## WP Kobieta - serwis o kobietach i dla kobiet
+ - [https://kobieta.wp.pl](https://kobieta.wp.pl)
+ - date_published: 2024-07-20T02:57:39.492564+00:00
+
+ ## Program Partnerski - WP Kreator
+ - [https://kreator.wp.pl](https://kreator.wp.pl)
+ - date_published: 2024-07-20T02:56:10.259219+00:00
+
+ ## Książki - Ksiazki.WP.pl
+ - [https://ksiazki.wp.pl](https://ksiazki.wp.pl)
+ - date_published: 2024-07-20T02:57:34.997140+00:00
+
+ ## WP Kuchnia - przepisy, nowości spożywcze, kuchnia polska i z całego świata
+ - [https://kuchnia.wp.pl](https://kuchnia.wp.pl)
+ - date_published: 2024-07-20T02:56:08.986474+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [https://kuponyrabatowe.wp.pl](https://kuponyrabatowe.wp.pl)
+ - date_published: 2024-07-20T02:58:00.039922+00:00
+
+ ## WP Listownik
+ - [https://listownik.wp.pl](https://listownik.wp.pl)
+ - date_published: 2024-06-22T14:20:32.752731+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [https://morizon.wp.pl](https://morizon.wp.pl)
+ - date_published: 2024-07-20T02:57:36.453707+00:00
+
+ ## WP Moto - Testy, porady, przepisy, nowości - Portal motoryzacyjny WP
+ - [https://moto.wp.pl](https://moto.wp.pl)
+ - date_published: 2024-07-19T21:43:57.168622+00:00
+
+ ## Wiadomości muzyczne w Open FM
+ - [http://mp3.wp.pl](http://mp3.wp.pl)
+ - date_published: 2024-10-21T05:27:44.638869+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [https://m.sportowefakty.wp.pl](https://m.sportowefakty.wp.pl)
+ - date_published: 2024-08-19T13:22:41.641731+00:00
+
+ ## NATURALNIE.WP.PL
+ - [https://naturalnie.wp.pl](https://naturalnie.wp.pl)
+ - date_published: 2024-06-17T09:48:17.625694+00:00
+
+ ## Oddychaj Czysto z Otrivin
+ - [https://oddychajczysto.wp.pl](https://oddychajczysto.wp.pl)
+ - date_published: 2024-08-18T17:09:30.422183+00:00
+
+ ## Wirtualna Polska Holding - Home page
+ - [https://onas.wp.pl](https://onas.wp.pl)
+ - date_published: 2024-05-10T05:13:09.680490+00:00
+
+ ## Pilot WP - oglądaj kanały TV online
+ - [https://pilot.wp.pl](https://pilot.wp.pl)
+ - date_published: 2024-07-20T02:55:44.370737+00:00
+
+ ## Podstawowe informacje - Dokumentacja WP Pixel
+ - [https://pixel.wp.pl](https://pixel.wp.pl)
+ - date_published: 2024-07-12T14:39:35+00:00
+
+ ## Poczta - Najlepsza Poczta, największe załączniki - WP
+ - [https://poczta.wp.pl](https://poczta.wp.pl)
+ - date_published: 2024-07-20T02:55:25.248662+00:00
+
+ ## Poczuj delikatność z Bella
+ - [https://poczujdelikatnosc.wp.pl](https://poczujdelikatnosc.wp.pl)
+ - date_published: 2024-07-20T02:57:30.280641+00:00
+
+ ## Pogoda WP.pl - na dziś, na jutro, długoterminowa dla Polski, Europy i Świata
+ - [https://pogoda.wp.pl](https://pogoda.wp.pl)
+ - date_published: 2024-07-20T02:55:40.743847+00:00
+
+ ## WP Pomoc
+ - [https://pomoc.wp.pl](https://pomoc.wp.pl)
+ - date_published: 2024-06-17T09:48:25.731893+00:00
+
+ ## Poczta - Najlepsza Poczta, największe załączniki - WP
+ - [https://profil.wp.pl](https://profil.wp.pl)
+ - date_published: 2024-08-19T23:38:11.954486+00:00
+
+ ## Quicktip
+ - [https://quicktip.wp.pl](https://quicktip.wp.pl)
+ - date_published: 2024-08-18T17:09:25.203908+00:00
+
+ ## Radar Okazji
+ - [https://radar.wp.pl](https://radar.wp.pl)
+ - date_published: 2024-05-08T11:05:00+00:00
+
+ ## Skuteczna reklama w internecie
+ - [https://reklama.wp.pl](https://reklama.wp.pl)
+ - date_published: 2024-05-23T05:05:44.555436+00:00
+
+ ## WP Media - Kariera - Poznaj nas
+ - [https://rekrutacja.wp.pl](https://rekrutacja.wp.pl)
+ - date_published: 2024-08-19T23:38:13.712532+00:00
+
+ ## Samochód Roku Wirtualnej Polski - WP.pl
+ - [https://samochodroku.wp.pl](https://samochodroku.wp.pl)
+ - date_published: 2024-07-20T02:55:41.629138+00:00
+
+ ## Sport w WP SportoweFakty - wiadomości sportowe, relacje na żywo, wyniki
+ - [https://sportowefakty.wp.pl](https://sportowefakty.wp.pl)
+ - date_published: 2023-10-25T10:33:44.154861+00:00
+
+ ## WP Tech - strona główna
+ - [https://tech.wp.pl](https://tech.wp.pl)
+ - date_published: 2024-05-05T18:08:11.159767+00:00
+
+ ## WP Teleshow
+ - [https://teleshow.wp.pl](https://teleshow.wp.pl)
+ - date_published: 2023-10-25T10:33:47.363720+00:00
+
+ ## Telewizja WP – telewizja naziemna Wirtualnej Polski
+ - [https://telewizja.wp.pl](https://telewizja.wp.pl)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## WP Turystyka - Najpiękniejsze miejsca na wakacje - WP.PL
+ - [https://turystyka.wp.pl](https://turystyka.wp.pl)
+ - date_published: 2024-07-20T02:55:43.220102+00:00
+
+ ## Program tv w WP. Wszystkie polskie stacje telewizyjne filmy i seriale online - TV WP
+ - [https://tv.wp.pl](https://tv.wp.pl)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Twoje IP - Jakie jest moje ip i szybkość łącza? - WP.PL!
+ - [http://twojeip.wp.pl](http://twojeip.wp.pl)
+ - date_published: 2024-08-19T13:22:42.961469+00:00
+
+ ## Strona główna serwisu Wideo WP
+ - [https://video.wp.pl](https://video.wp.pl)
+ - date_published: 2024-07-20T02:55:34.269018+00:00
+
+ ## Wiadomości Warszawa. Wydarzenia i aktualności z ostatniej chwili  – WP WawaLove
+ - [https://wawalove.wp.pl](https://wawalove.wp.pl)
+ - date_published: 2024-07-20T02:57:37.897529+00:00
+
+ ## Wiadomości z kraju i ze świata – wszystko co ważne – WP
+ - [https://wiadomosci.wp.pl](https://wiadomosci.wp.pl)
+ - date_published: 2023-10-25T10:33:51.760182+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [https://wp.pl](https://wp.pl)
+ - date_published: 2023-10-25T10:34:14.164674+00:00
+ - tags: ['news']
+
+ ## Wiadomości z Wrocławia z ostatniej chwili - Wrocław WP
+ - [https://wroclaw.wp.pl](https://wroclaw.wp.pl)
+ - date_published: 2024-07-20T02:57:46.391742+00:00
+
+ ## Wtyczki WooCommerce - WP Desk
+ - [https://www.wpdesk.pl](https://www.wpdesk.pl)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## i.wpimg.pl (100×100)
+ - [https://i.wpimg.pl](https://i.wpimg.pl)
+ - date_published: 2024-07-20T02:59:05.215402+00:00
+
+ ## Grupa WPIP - Kompleksowe realizacje budowlane i OZE
+ - [https://wpip.pl](https://wpip.pl)
+ - date_published: 2023-08-22T10:34:54+00:00
+
+ ## Wiadomości z Polski i ze świata
+ - [https://wpolityce.pl](https://wpolityce.pl)
+ - date_published: 2023-10-25T10:34:21.566093+00:00
+
+ ## wpoznaniu.pl
+ - [https://wpoznaniu.pl](https://wpoznaniu.pl)
+ - date_published: 2024-08-18T14:41:03.917691+00:00
+
+ ## Auto / Moto
+ - [https://auto.wprost.pl](https://auto.wprost.pl)
+ - date_published: 2024-07-17T06:04:25.075464+00:00
+
  ## Biznes Wprost
  - [https://biznes.wprost.pl](https://biznes.wprost.pl)
  - date_published: 2023-10-25T10:34:24.284061+00:00
@@ -3673,360 +4034,4 @@
  ## ROSE  DIAS / POEMAS/ TEXTOS
  - [http://rosejd.blogspot.pt](http://rosejd.blogspot.pt)
  - date_published: 2024-03-19T09:18:46+00:00
-
- ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
- - [http://ru666.blogspot.pt](http://ru666.blogspot.pt)
- - date_published: 2024-07-12T20:57:32.987771+00:00
-
- ## Sentidos e Direções
- - [http://sentedire.blogspot.pt](http://sentedire.blogspot.pt)
- - date_published: 2024-07-01T10:37:24+00:00
-
- ## simulacropoetico
- - [http://simulacropoetico.blogspot.pt](http://simulacropoetico.blogspot.pt)
- - date_published: 2024-03-08T12:54:43+00:00
-
- ## Poetas Vivos
- - [http://sociopoetasvivos.blogspot.pt](http://sociopoetasvivos.blogspot.pt)
- - date_published: 2024-03-19T10:52:11+00:00
-
- ## Sopa de Poesia
- - [http://sopadepoesia.blogspot.pt](http://sopadepoesia.blogspot.pt)
- - date_published: 2024-07-03T03:40:17+00:00
-
- ## SPIRITUALS DO ORVALHO
- - [http://spiritualsdoorvalho.blogspot.pt](http://spiritualsdoorvalho.blogspot.pt)
- - date_published: 2024-07-03T01:58:57+00:00
-
- ## Volúveis.Voláteis
- - [http://tudoqpuderbyblabla.blogspot.pt](http://tudoqpuderbyblabla.blogspot.pt)
- - date_published: 2024-07-01T10:44:27+00:00
-
- ## Vale das Sombras
- - [http://valedassombras.blogspot.pt](http://valedassombras.blogspot.pt)
- - date_published: 2024-03-13T04:52:23+00:00
-
- ## poesia de vieira calado
- - [http://vieiracalado-poesia.blogspot.pt](http://vieiracalado-poesia.blogspot.pt)
- - date_published: 2024-05-13T10:03:46+00:00
-
- ## Gotas de Poesias e Outras Essências
- - [http://vita-gotasdepoesia.blogspot.pt](http://vita-gotasdepoesia.blogspot.pt)
- - date_published: 2024-07-04T10:18:32+00:00
-
- ## Cavaleiro Vilão
- - [http://vivaosabout.blogspot.pt](http://vivaosabout.blogspot.pt)
- - date_published: 2024-07-04T06:39:38+00:00
-
- ## Icaros Desktop
- - [http://vmwaros.blogspot.pt](http://vmwaros.blogspot.pt)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## 7 Armazéns em Lisboa - Máxima segurança - Bluespace.pt
- - [https://bluespace.pt](https://bluespace.pt)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## BMC Software
- - [https://www.bmcsoftware.pt](https://www.bmcsoftware.pt)
- - date_published: 2024-06-22T09:06:53+00:00
-
- ## Biblioteca Nacional de Portugal
- - [http://www.bn.pt](http://www.bn.pt)
- - date_published: 2024-07-12T20:55:37+00:00
-
- ## Boavista Golf & Spa - Lagos, Algarve
- - [https://www.boavistaresort.pt](https://www.boavistaresort.pt)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Bola na Rede - Bola na Rede
- - [https://bolanarede.pt](https://bolanarede.pt)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Bolsa das Artes - Plataforma digital de apoio aos artistas
- - [https://bolsadasartes.pt](https://bolsadasartes.pt)
- - date_published: 2024-08-18T11:28:21.982354+00:00
-
- ## Eletrodomésticos Bosch: conheça a qualidade, confiança e precisão.
- - [https://www.bosch-home.pt](https://www.bosch-home.pt)
- - date_published: 2024-06-16T21:35:29.209317+00:00
-
- ## Homepage - Braver Group
- - [https://braver.pt](https://braver.pt)
- - date_published: 2023-12-04T00:00:00+00:00
-
- ## Brico Depôt | Bricolage, construção, jardim e climatização
- - [https://www.bricodepot.pt](https://www.bricodepot.pt)
- - date_published: 2024-09-03T19:36:38.283732+00:00
-
- ## Apoio Brother
- - [https://apoio.brother.pt](https://apoio.brother.pt)
- - date_published: 2024-06-17T21:02:53.164435+00:00
-
- ## Brother At Your Side
- - [https://atyourside.brother.pt](https://atyourside.brother.pt)
- - date_published: 2024-06-17T21:02:52.231028+00:00
-
- ## Impressoras de escritório, Soluções para empresas, Brother
- - [https://brother.pt](https://brother.pt)
- - date_published: 2024-10-20T11:53:22.891647+00:00
-
- ## BrunoBrito.PT - Marketing Digital e Web Development
- - [https://brunobrito.pt](https://brunobrito.pt)
- - date_published: 2023-12-29T00:00:00+00:00
-
- ## Lista de Cursos
- - [https://cursos.brunobrito.pt](https://cursos.brunobrito.pt)
- - date_published: 2024-07-14T10:08:32.696769+00:00
-
- ## HOME - Bxpress
- - [https://bxpress.pt](https://bxpress.pt)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Serralves Tickets
- - [https://serralves.byblueticket.pt](https://serralves.byblueticket.pt)
- - date_published: 2024-09-13T19:51:30.988390+00:00
-
- ## Calendário de Marketing 2024
- - [https://calendariomarketing.pt](https://calendariomarketing.pt)
- - date_published: 2024-09-05T15:23:34.916413+00:00
-
- ## Literatura Portuguesa - O Que Sabe Sobre Esta Cultura?
- - [http://www.campo-letras.pt](http://www.campo-letras.pt)
- - date_published: 2024-07-12T20:48:16.716331+00:00
-
- ## Canal Alentejo - Canal Alentejo
- - [http://canalalentejo.pt](http://canalalentejo.pt)
- - date_published: 2024-09-05T14:55:09+00:00
-
- ## O Capterra ajuda você a encontrar o software certo para sua empresa
- - [https://www.capterra.pt](https://www.capterra.pt)
- - date_published: 2024-07-20T19:26:18.761203+00:00
-
- ## Car7 - Stand Carros Usados em  Aveiro, ovar
- - [https://www.car7.pt](https://www.car7.pt)
- - date_published: 2024-09-05T14:57:59.309410+00:00
-
- ## Homepage Museu | Museu da Carris
- - [http://museu.carris.pt](http://museu.carris.pt)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Cartoonito Portugal | Desenhos, jogos e atividades para crianças em idade pré-escolar do canal infantil Cartoonito
- - [https://www.cartoonito.pt](https://www.cartoonito.pt)
- - date_published: 2024-09-20T18:01:19.749919+00:00
-
- ## Apartamentos, Moradias, Lojas. Compra e Aluguer | CasasCM
- - [https://www.casascm.pt](https://www.casascm.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Homepage
- - [https://casinoble.pt](https://casinoble.pt)
- - date_published: 2024-09-19T20:31:58.436309+00:00
-
- ## Casinos Online em Portugal ✔️ Avaliação Dos Melhores 2024 - CasinoReal
- - [https://www.casinoreal.pt](https://www.casinoreal.pt)
- - date_published: 2024-04-24T18:40:02+00:00
-
- ## Centro Cultural de Belém
- - [http://www.ccb.pt](http://www.ccb.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Comissão dos Cidadãos para os Direitos Humanos, CCHR, Home Page. Veja os Vídeos.
- - [http://www.cchr.pt](http://www.cchr.pt)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## CECOA
- - [https://www.cecoa.pt](https://www.cecoa.pt)
- - date_published: 2024-09-05T15:19:08.878869+00:00
-
- ## Notícias e atualidades do dia
- - [http://www.celtaeditora.pt](http://www.celtaeditora.pt)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## CEMAH - Particulares
- - [https://cemah.pt](https://cemah.pt)
- - date_published: 2024-09-05T15:05:21.196625+00:00
-
- ## CentroTV - Notícias Região Centro de Portugal
- - [https://centrotv.pt](https://centrotv.pt)
- - date_published: 2024-09-05T14:57:12.285764+00:00
-
- ## Cetaphil marca recomendada por dermatologistas | Cetaphil PT
- - [https://www.cetaphil.pt](https://www.cetaphil.pt)
- - date_published: 2024-10-30T23:04:16.854071+00:00
-
- ## ChatControl.pt
- - [https://chatcontrol.pt](https://chatcontrol.pt)
- - date_published: 2024-01-23T15:25:03+00:00
-
- ## Alojamento web, Registo de Domínios, Servidores Virtuais, Servidores Dedicados
- - [http://www.ciberconceito.pt](http://www.ciberconceito.pt)
- - date_published: 2024-09-05T15:25:33+00:00
-
- ## Ciberlândia
- - [https://ciberlandia.pt](https://ciberlandia.pt)
- - date_published: 2024-06-17T22:12:42+00:00
-
- ## CICAP – Tribunal Arbitral do Consumo
- - [https://cicap.pt](https://cicap.pt)
- - date_published: 2024-07-12T06:50:08.486764+00:00
-
- ## Cidade Hoje - Rádio / Jornal / TV
- - [https://cidadehoje.pt](https://cidadehoje.pt)
- - date_published: 2024-09-05T14:58:10.936612+00:00
-
- ## Jornal | Cidade Hoje
- - [https://jornal.cidadehoje.pt](https://jornal.cidadehoje.pt)
- - date_published: 2023-03-08T10:21:29+00:00
-
- ## Player | Cidade Hoje
- - [http://player.cidadehoje.pt](http://player.cidadehoje.pt)
- - date_published: 2024-09-05T14:58:16.044307+00:00
-
- ## CIMBB
- - [http://www.cimbb.pt](http://www.cimbb.pt)
- - date_published: 2024-09-05T15:23:32.934741+00:00
-
- ## CÍRCULO de leitores
- - [http://www.circuloleitores.pt](http://www.circuloleitores.pt)
- - date_published: 2024-07-12T20:56:13.605959+00:00
-
- ## GDPR
- - [https://gdpr.cision.pt](https://gdpr.cision.pt)
- - date_published: 2024-06-29T05:31:39+00:00
-
- ## Cision - Global Cloud-Based Communications and PR Solutions Leader
- - [https://www.cision.pt](https://www.cision.pt)
- - date_published: 2024-06-28T17:57:10+00:00
-
- ## Início - Citizen
- - [https://citizen.pt](https://citizen.pt)
- - date_published: 2021-11-05T07:31:55+00:00
-
- ## Compra de utilitários e veículos comerciais | Citroën
- - [https://business.citroen.pt](https://business.citroen.pt)
- - date_published: 2024-08-08T23:02:52+00:00
-
- ## Citroën Store | Encomendar e comprar o seu veículo online
- - [https://carstore.citroen.pt](https://carstore.citroen.pt)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Veículos Novos | Citroën Portugal
- - [https://citroen.pt](https://citroen.pt)
- - date_published: 2023-12-11T16:04:31.153758+00:00
-
- ## CITROËN Lifestyle | CITROËN Official Store
- - [https://lifestyle.citroen.pt](https://lifestyle.citroen.pt)
- - date_published: 2024-08-18T11:04:04.355508+00:00
-
- ## A manutenção do construtor - Citroen
- - [https://oficinasonline.citroen.pt](https://oficinasonline.citroen.pt)
- - date_published: 2024-06-19T08:43:09.304613+00:00
-
- ## Citroën Store | Encomendar e comprar o seu veículo online
- - [https://store.citroen.pt](https://store.citroen.pt)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.pt](https://www.citroenorigins.pt)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Home
- - [https://www.claranet.pt](https://www.claranet.pt)
- - date_published: 2024-06-16T10:15:44+00:00
-
- ## Anúncios classificados CM e Record | ClassificadosCM
- - [https://www.classificadoscm.pt](https://www.classificadoscm.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## ClassPass | Book Fitness Classes & Salon Appointments
- - [https://classpass.pt](https://classpass.pt)
- - date_published: 2024-07-13T02:25:00.847124+00:00
-
- ## Site Autárquico de Alvito
- - [https://www.cm-alvito.pt](https://www.cm-alvito.pt)
- - date_published: 2024-09-05T15:40:49.379369+00:00
-
- ## Câmara Municipal de Coimbra
- - [https://www.cm-coimbra.pt](https://www.cm-coimbra.pt)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Município de Idanha-a-Nova
- - [http://www.cm-idanhanova.pt](http://www.cm-idanhanova.pt)
- - date_published: 2024-09-05T15:23:30.037173+00:00
-
- ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
- - [https://cmjornal.pt](https://cmjornal.pt)
- - date_published: 2024-05-10T06:15:34.075946+00:00
-
- ## #fiqueemcasa
- - [https://fiqueemcasa.cmjornal.pt](https://fiqueemcasa.cmjornal.pt)
- - date_published: 2024-07-12T20:30:47.601976+00:00
-
- ## Página Inicial | Palco CM
- - [https://palco.cmjornal.pt](https://palco.cmjornal.pt)
- - date_published: 2024-07-12T20:30:37.628875+00:00
-
- ## Página Inicial | Um Sonho de Natal
- - [https://sonhodenatal.cmjornal.pt](https://sonhodenatal.cmjornal.pt)
- - date_published: 2024-07-12T20:30:54.078427+00:00
-
- ## Hemeroteca Digital
- - [http://hemerotecadigital.cm-lisboa.pt](http://hemerotecadigital.cm-lisboa.pt)
- - date_published: 2022-12-07T10:59:01+00:00
-
- ## Lisboa.pt, o site oficial da Município de Lisboa
- - [http://www.cm-lisboa.pt](http://www.cm-lisboa.pt)
- - date_published: 2024-07-12T20:50:06.779180+00:00
-
- ## Home - Portal Institucional do Município de Mora
- - [https://www.cm-mora.pt](https://www.cm-mora.pt)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## CM Odemira / Inicial
- - [http://www.cm-odemira.pt](http://www.cm-odemira.pt)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## PÁGINA INICIAL - MUNICÍPIO DE OLEIROS | Município de Oleiros
- - [http://www.cm-oleiros.pt](http://www.cm-oleiros.pt)
- - date_published: 2024-09-05T15:23:22.109723+00:00
-
- ## Município de Proença-a-Nova
- - [http://www.cm-proencanova.pt](http://www.cm-proencanova.pt)
- - date_published: 2024-04-08T12:41:56+00:00
-
- ## Overview
- - [http://www.cmpv.pt](http://www.cmpv.pt)
- - date_published: 2024-09-05T15:05:15.439227+00:00
-
- ## Câmara Municipal do Seixal
- - [https://www.cm-seixal.pt](https://www.cm-seixal.pt)
- - date_published: 2024-09-05T15:20:14+00:00
-
- ## Município da Sertã - Página Inicial
- - [https://cm-serta.pt](https://cm-serta.pt)
- - date_published: 2024-09-05T15:23:26.374988+00:00
-
- ## CMTV: Atualidade e Reportagens sobre Portugal e o Mundo
- - [http://www.cm-tv.pt](http://www.cm-tv.pt)
- - date_published: 2024-07-12T20:30:42.692517+00:00
-
- ## Vila Nova de Poiares
- - [https://www.cm-vilanovadepoiares.pt](https://www.cm-vilanovadepoiares.pt)
- - date_published: 2024-06-26T07:05:06+00:00
-
- ## Centro Nacional de Cultura – Desde o 25 de Abril de 1974, o CNC tem-se esforçado por transmitir uma noção de cultura sem fronteiras, quer disciplinares, quer geográficas. Ele tenta ser o elo de ligação entre aqueles cujos caminhos normalmente não se cruzam: velhos e jovens, artistas e empresários, setor público e privado. Grande parte da sua ação é dedicada à defesa do património cultural português, à divulgação do papel desempenhado pela cultura portuguesa no mundo, e à atualização das suas relações com outras culturas.
- - [https://cnc.pt](https://cnc.pt)
- - date_published: 2023-12-04T13:08:24.757701+00:00
-
- ## Homepage | Comissão Nacional de Eleições
- - [http://www.cne.pt](http://www.cne.pt)
- - date_published: 2024-07-09T19:44:25+00:00
-
- ## Gráfica para empresas » Colorprinter©
- - [https://colorprinter.pt](https://colorprinter.pt)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Confio.pt
- - [https://www.confio.pt](https://www.confio.pt)
- - date_published: 2024-10-13T21:44:02.647560+00:00
 

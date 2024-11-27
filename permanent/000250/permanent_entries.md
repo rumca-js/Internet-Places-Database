@@ -1,3 +1,268 @@
+ ## Philosophische Fakultät • Universität Passau
+ - [http://www.phil.uni-passau.de](http://www.phil.uni-passau.de)
+ - date_published: 2024-06-30T01:19:51+00:00
+
+ ## Universität Passau
+ - [https://www.uni-passau.de](https://www.uni-passau.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Startseite
+ - [https://accountup.uni-potsdam.de](https://accountup.uni-potsdam.de)
+ - date_published: 2024-09-30T13:11:19.545640+00:00
+
+ ## Mail.UP uni-potsdam.de Eingang
+ - [https://mailup.uni-potsdam.de](https://mailup.uni-potsdam.de)
+ - date_published: 2024-09-30T13:11:14.991560+00:00
+
+ ## Home | Moodle.UP
+ - [https://moodle2.uni-potsdam.de](https://moodle2.uni-potsdam.de)
+ - date_published: 2024-09-30T13:12:11+00:00
+
+ ## PEP - Potsdamer Evaluationsportal
+ - [https://pep.uni-potsdam.de](https://pep.uni-potsdam.de)
+ - date_published: 2024-09-30T13:12:21.119865+00:00
+
+ ## Panopto
+ - [https://videoup.uni-potsdam.de](https://videoup.uni-potsdam.de)
+ - date_published: 2024-09-30T13:12:16.614465+00:00
+
+ ## Homepage
+ - [http://www.cs.uni-potsdam.de](http://www.cs.uni-potsdam.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.ub.uni-potsdam.de](https://www.ub.uni-potsdam.de)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.uni-potsdam.de](https://www.uni-potsdam.de)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
+ - [https://ezb.uni-regensburg.de](https://ezb.uni-regensburg.de)
+ - date_published: 2024-07-09T20:12:59.765398+00:00
+
+ ## DBIS: Fachübersicht
+ - [http://rzblx10.uni-regensburg.de](http://rzblx10.uni-regensburg.de)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Startseite - Universität Regensburg
+ - [http://www.uni-regensburg.de](http://www.uni-regensburg.de)
+ - date_published: 2024-06-30T08:50:44.797493+00:00
+
+ ## Page has moved
+ - [https://btw.informatik.uni-rostock.de](https://btw.informatik.uni-rostock.de)
+ - date_published: 2019-11-21T07:07:37+00:00
+
+ ## Universitätsbibliothek Rostock
+ - [https://find.ub.uni-rostock.de](https://find.ub.uni-rostock.de)
+ - date_published: 2024-10-29T16:19:47.502495+00:00
+
+ ## Start @ RosDok
+ - [https://rosdok.uni-rostock.de](https://rosdok.uni-rostock.de)
+ - date_published: 2024-10-29T16:19:52.206183+00:00
+
+ ## Startseite - Juristische Fakultät - Universität Rostock
+ - [https://www.juf.uni-rostock.de](https://www.juf.uni-rostock.de)
+ - date_published: 2024-10-29T16:19:49.659366+00:00
+
+ ## Startseite - Universität Rostock
+ - [https://www.uni-rostock.de](https://www.uni-rostock.de)
+ - date_published: 2024-10-29T16:20:32.905851+00:00
+
+ ## Fachschaftsrat der Informatikstudiengänge – der Universität des Saarlandes
+ - [https://cs.fs.uni-saarland.de](https://cs.fs.uni-saarland.de)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Studium - Saarland Informatics Campus
+ - [https://cs.uni-saarland.de](https://cs.uni-saarland.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## CVMP  Lab – Computer Vision and Machine Perception Lab
+ - [https://cvmp.cs.uni-saarland.de](https://cvmp.cs.uni-saarland.de)
+ - date_published: 2024-06-22T07:32:37.880445+00:00
+
+ ## Cybersecurity in Saarbruecken, Germany
+ - [https://cysec.uni-saarland.de](https://cysec.uni-saarland.de)
+ - date_published: 2024-05-10T07:11:14+00:00
+
+ ## Real-Time and Embedded Systems Lab
+ - [http://embedded.cs.uni-saarland.de](http://embedded.cs.uni-saarland.de)
+ - date_published: 2024-06-30T02:59:27.239414+00:00
+
+ ## Sign in - Matomo
+ - [https://epica.cs.uni-saarland.de](https://epica.cs.uni-saarland.de)
+ - date_published: 2024-06-30T02:59:29.480579+00:00
+
+ ## Home - Human Computer Interaction Lab, Saarland University HCI Lab Saarland
+ - [https://hci.cs.uni-saarland.de](https://hci.cs.uni-saarland.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Cluster of Excellence | Multimodal Computing and Interaction
+ - [https://mmci.uni-saarland.de](https://mmci.uni-saarland.de)
+ - date_published: 2014-04-02T00:00:00+00:00
+
+ ## Modeling and Simulation
+ - [https://mosi.uni-saarland.de](https://mosi.uni-saarland.de)
+ - date_published: 2024-08-13T11:54:27+00:00
+
+ ## Online Application for Ph.D./M.Sc. Programs
+ - [https://oas.cs.uni-saarland.de](https://oas.cs.uni-saarland.de)
+ - date_published: 2024-07-24T06:00:38.519988+00:00
+
+ ## Cluster of Excellence | Multimodal Computing and Interaction
+ - [http://people.mmci.uni-saarland.de](http://people.mmci.uni-saarland.de)
+ - date_published: 2014-04-02T00:00:00+00:00
+
+ ## Computational Linguistics and Phonetics
+ - [https://www.coli.uni-saarland.de](https://www.coli.uni-saarland.de)
+ - date_published: 2024-08-19T20:44:54.420680+00:00
+
+ ## Willkommen am Saarland Informatics Campus in Saarbrücken
+ - [http://www.intel-vci.uni-saarland.de](http://www.intel-vci.uni-saarland.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## JIPS
+ - [http://www.jura.uni-saarland.de](http://www.jura.uni-saarland.de)
+ - date_published: 2024-08-18T10:27:49.493935+00:00
+
+ ## Startseite
+ - [http://www.lmt.uni-saarland.de](http://www.lmt.uni-saarland.de)
+ - date_published: 2024-07-08T09:36:01+00:00
+
+ ## Programming Systems Lab
+ - [http://www.ps.uni-saarland.de](http://www.ps.uni-saarland.de)
+ - date_published: 2024-07-07T04:09:00.874669+00:00
+
+ ## Lehrstuhl für Softwaretechnik (Prof. Zeller) - Universität des Saarlandes
+ - [http://www.st.cs.uni-saarland.de](http://www.st.cs.uni-saarland.de)
+ - date_published: 2021-04-09T12:37:48+00:00
+
+ ## Universität des Saarlandes
+ - [https://www.uni-saarland.de](https://www.uni-saarland.de)
+ - date_published: 2024-07-07T04:15:13.740283+00:00
+
+ ## Zentrum für Bioinformatik
+ - [http://zbi-www.bioinf.uni-sb.de](http://zbi-www.bioinf.uni-sb.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Unishop Potsdam
+ - [https://unishop-potsdam.de](https://unishop-potsdam.de)
+ - date_published: 2024-09-30T13:12:19.686256+00:00
+
+ ## Shop der Universität Stuttgart
+ - [https://unishop-stuttgart.de](https://unishop-stuttgart.de)
+ - date_published: 2024-04-29T07:01:22.474393+00:00
+
+ ## Shop der Universität Vechta
+ - [https://unishop-vechta.de](https://unishop-vechta.de)
+ - date_published: 2024-07-04T13:17:39.917806+00:00
+
+ ## HOME
+ - [https://www.unishop-wuppertal.de](https://www.unishop-wuppertal.de)
+ - date_published: 2024-07-02T17:47:59.803048+00:00
+
+ ## Department Elektrotechnik und Informatik | Department Elektrotechnik und Informatik (Dekanat)
+ - [https://www.eti.uni-siegen.de](https://www.eti.uni-siegen.de)
+ - date_published: 2008-07-25T00:00:00+00:00
+
+ ## SFB 1187 – Medien der Kooperation
+ - [https://www.mediacoop.uni-siegen.de](https://www.mediacoop.uni-siegen.de)
+ - date_published: 2024-07-11T12:56:34.102506+00:00
+
+ ## Universität Siegen: Zukunft menschlich gestalten | Universität Siegen
+ - [https://www.uni-siegen.de](https://www.uni-siegen.de)
+ - date_published: 2024-09-15T23:50:23+00:00
+
+ ## Für Beschäftigte | Universität Stuttgart
+ - [https://beschaeftigte.uni-stuttgart.de](https://beschaeftigte.uni-stuttgart.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## The bitsavers main page
+ - [http://bitsavers.informatik.uni-stuttgart.de](http://bitsavers.informatik.uni-stuttgart.de)
+ - date_published: 2024-04-19T20:05:34+00:00
+
+ ## BTW 2017
+ - [http://btw2017.informatik.uni-stuttgart.de](http://btw2017.informatik.uni-stuttgart.de)
+ - date_published: 2024-09-02T16:20:57.647755+00:00
+
+ ## Loading
+ - [https://campus.uni-stuttgart.de](https://campus.uni-stuttgart.de)
+ - date_published: 2024-07-01T10:11:47+00:00
+
+ ## IRS git hosting
+ - [https://egit.irs.uni-stuttgart.de](https://egit.irs.uni-stuttgart.de)
+ - date_published: 2024-07-08T16:20:30.113534+00:00
+
+ ## OPUS: Home
+ - [https://elib.uni-stuttgart.de](https://elib.uni-stuttgart.de)
+ - date_published: 2024-04-29T06:16:48.644512+00:00
+
+ ## Sign in · GitLab
+ - [https://git.iws.uni-stuttgart.de](https://git.iws.uni-stuttgart.de)
+ - date_published: 2024-07-04T08:18:44.852034+00:00
+
+ ## Content: Repository: ILIAS für Lehre und Lernen – Universität Stuttgart
+ - [https://ilias3.uni-stuttgart.de](https://ilias3.uni-stuttgart.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UniMail Login
+ - [https://mail.uni-stuttgart.de](https://mail.uni-stuttgart.de)
+ - date_published: 2024-08-06T17:41:49.814388+00:00
+
+ ## Open Access | Universität Stuttgart
+ - [http://oa.uni-stuttgart.de](http://oa.uni-stuttgart.de)
+ - date_published: 2024-07-24T07:00:00.583468+00:00
+
+ ## 4th OAuth Security Workshop 2019 (OSW 2019) · Institute of Information Security
+ - [https://osw2019.sec.uni-stuttgart.de](https://osw2019.sec.uni-stuttgart.de)
+ - date_published: 2019-11-26T14:45:06+00:00
+
+ ## Institute of Information Security  | University of Stuttgart
+ - [https://sec.uni-stuttgart.de](https://sec.uni-stuttgart.de)
+ - date_published: 2024-09-18T15:12:55+00:00
+
+ ## Für Studierende | Universität Stuttgart
+ - [https://student.uni-stuttgart.de](https://student.uni-stuttgart.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## stuvus – Studierendenvertretung Universität Stuttgart
+ - [https://stuvus.uni-stuttgart.de](https://stuvus.uni-stuttgart.de)
+ - date_published: 2024-08-06T17:41:56.540815+00:00
+
+ ## Universität Stuttgart
+ - [https://uni-stuttgart.de](https://uni-stuttgart.de)
+ - date_published: 2023-10-25T18:33:19.227772+00:00
+
+ ## USUS - Der Studierendenblog | Universität Stuttgart
+ - [https://usus.uni-stuttgart.de](https://usus.uni-stuttgart.de)
+ - date_published: 2024-04-29T07:01:16.750198+00:00
+
+ ## Fakultät 1
+Architektur und Stadtplanung | Universität Stuttgart
+ - [https://www.f01.uni-stuttgart.de](https://www.f01.uni-stuttgart.de)
+ - date_published: 2024-07-20T22:39:11+00:00
+
+ ## Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
+ - [https://www.f05.uni-stuttgart.de](https://www.f05.uni-stuttgart.de)
+ - date_published: 2024-06-30T06:12:33+00:00
+
+ ## Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
+ - [http://www.f-iei.uni-stuttgart.de](http://www.f-iei.uni-stuttgart.de)
+ - date_published: 2024-07-07T06:14:04+00:00
+
+ ## Institute for Functional Matter and Quantum Technologies | University of Stuttgart
+ - [https://www.fmq.uni-stuttgart.de](https://www.fmq.uni-stuttgart.de)
+ - date_published: 2024-07-01T05:33:48+00:00
+
+ ## Institut für Flugzeugbau | Universität Stuttgart
+ - [https://www.ifb.uni-stuttgart.de](https://www.ifb.uni-stuttgart.de)
+ - date_published: 2024-08-19T04:24:26+00:00
+
+ ## Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart
+ - [http://www.ims.uni-stuttgart.de](http://www.ims.uni-stuttgart.de)
+ - date_published: 2024-07-02T09:10:39+00:00
+
  ## Fachbereich Informatik | Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
  - [http://www.informatik.uni-stuttgart.de](http://www.informatik.uni-stuttgart.de)
  - date_published: 2024-07-07T07:05:34+00:00
@@ -3749,270 +4014,4 @@ Bibliotheken / Z39.50
  ## Atlas
  - [https://atlas.design](https://atlas.design)
  - date_published: 2024-09-09T13:59:39.666226+00:00
-
- ## Overview - Get started - Atlassian Design System
- - [https://atlassian.design](https://atlassian.design)
- - date_published: 2024-08-18T20:15:42+00:00
-
- ## Auror@
- - [http://auror.design](http://auror.design)
- - date_published: 2024-06-22T08:50:18.393831+00:00
-
- ## Your Free Logo Maker
- - [https://automagic.design](https://automagic.design)
- - date_published: 2018-07-05T18:30:31+00:00
-
- ## Automator for Figma
- - [https://automator.design](https://automator.design)
- - date_published: 2024-10-30T14:04:41.240952+00:00
-
- ## Automattic Design
- - [https://automattic.design](https://automattic.design)
- - date_published: 2024-06-30T23:38:38+00:00
-
- ## About
- - [https://bald.design](https://bald.design)
- - date_published: 2024-05-07T23:16:54.259184+00:00
-
- ## Syntax Podcast: The Missing Browser
- - [https://syntax.bald.design](https://syntax.bald.design)
- - date_published: 2024-06-23T04:00:27.054777+00:00
-
- ## BAM DESIGN | Web & Mobile Design Agency based in Paris
- - [https://www.bam.design](https://www.bam.design)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Being Design | Branding and Marketing Consultants
- - [https://being.design](https://being.design)
- - date_published: 2024-05-10T06:47:25.912587+00:00
-
- ## Enterprise & Consumer Apps that get results
- - [https://bigrocket.design](https://bigrocket.design)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Bingham Design | Digital Marketing for Your Cause
- - [https://bingham.design](https://bingham.design)
- - date_published: 2024-01-11T13:29:06.035129+00:00
-
- ## Bitcoin Design. Open-source design for bitcoin products.
- - [https://bitcoin.design](https://bitcoin.design)
- - date_published: 2024-08-19T15:16:19.791158+00:00
-
- ## Black Design – Get your hands dirty!
- - [http://black.design](http://black.design)
- - date_published: 2024-07-13T15:42:40.454884+00:00
-
- ## Blush: Illustrations for everyone
- - [https://blush.design](https://blush.design)
- - date_published: 2024-06-23T07:44:34.792530+00:00
-
- ## Booking.com — UX Design
- - [https://booking.design](https://booking.design)
- - date_published: 2024-06-20T17:58:35.249504+00:00
-
- ## Boring Design
- - [https://boringboring.design](https://boringboring.design)
- - date_published: 2024-07-18T23:14:46.356794+00:00
-
- ## EasyDevo
- - [https://easydevo.boringboring.design](https://easydevo.boringboring.design)
- - date_published: 2024-07-18T23:14:45.343629+00:00
-
- ## Brutal - A Brutalist HTML Template
- - [http://brutalist.design](http://brutalist.design)
- - date_published: 2023-06-23T15:09:09+00:00
-
- ## Brutalist Web Design
- - [https://brutalist-web.design](https://brutalist-web.design)
- - date_published: 2023-09-29T00:00:00+00:00
- - tags: ['brutalist web', 'web1', 'internet']
-
- ## Mobile success
- - [https://bsn.design](https://bsn.design)
- - date_published: 2022-09-30T16:45:01+00:00
-
- ## Campsite — The easiest way to keep everyone in the loop.
- - [https://www.campsite.design](https://www.campsite.design)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Design For Awareness | Cap_able Design
- - [https://capable.design](https://capable.design)
- - date_published: 2023-10-25T18:34:17.686429+00:00
-
- ## Charmer Studio - design studio
- - [https://charmer.design](https://charmer.design)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Checklist Design - A collection of the best design practices.
- - [https://www.checklist.design](https://www.checklist.design)
- - date_published: 2023-12-07T00:00:00+00:00
-
- ## Chia Amisola
- - [https://chia.design](https://chia.design)
- - date_published: 2024-09-10T19:15:43+00:00
-
- ## Chi Señires
- - [https://chisenires.design](https://chisenires.design)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Chris Wood | UX + UI design, user research, and low-code development
- - [https://www.chris-wood.design](https://www.chris-wood.design)
- - date_published: 2024-06-22T17:58:25.971090+00:00
-
- ## Builder Bedford CKB Interiors - House extensions, designer kitchens bathrooms
- - [https://ckbinterior.design](https://ckbinterior.design)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Clare Richardson Design | Newbury, Berkshire
- - [http://www.clarerichardson.design](http://www.clarerichardson.design)
- - date_published: 2023-07-31T00:00:00+00:00
-
- ## Clarity Design System
- - [https://clarity.design](https://clarity.design)
- - date_published: 2024-07-22T17:24:41.923446+00:00
-
- ## Clarity Design System
- - [https://core.clarity.design](https://core.clarity.design)
- - date_published: 2024-04-30T00:28:52.873940+00:00
-
- ## Storybook
- - [https://storybook.core.clarity.design](https://storybook.core.clarity.design)
- - date_published: 2024-07-22T17:24:43.091563+00:00
-
- ## Cloudscape - Cloudscape Design System
- - [https://cloudscape.design](https://cloudscape.design)
- - date_published: 2024-05-09T08:30:53.901042+00:00
-
- ## Continuum UX - Expert UI/UX Services for Digital Growth
- - [https://continuumux.design](https://continuumux.design)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Craftcode Design – Home
- - [https://craftcode.design](https://craftcode.design)
- - date_published: 2024-05-07T23:15:44.352319+00:00
-
- ## Craftwork: UX/UI kits, illustrations, mockups, fonts and more
- - [https://craftwork.design](https://craftwork.design)
- - date_published: 2024-04-29T07:14:35.316192+00:00
-
- ## 500 open-source fill and stroke icons for design projects
- - [https://icons.craftwork.design](https://icons.craftwork.design)
- - date_published: 2024-07-24T02:35:04.102797+00:00
-
- ## Crucial.Design ✱ Your Senior Design Partner
- - [https://crucial.design](https://crucial.design)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Curated web design inspiration catalog
- - [https://curated.design](https://curated.design)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Daas Good®  |  A Design Partner Who Doesn’t Drop the Ball
- - [https://www.daasgood.design](https://www.daasgood.design)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## index
- - [https://daveon.design](https://daveon.design)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Deceptive Patterns - Home
- - [https://deceptive.design](https://deceptive.design)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Product design & UX design resources – Degreeless.Design
- - [https://degreeless.design](https://degreeless.design)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Delphin Hauchard Rakotozafy → delphin.design
- - [https://delphin.design](https://delphin.design)
- - date_published: 2024-04-19T11:28:32+00:00
-
- ## Depository Design — Library of 1000+ free and premium tools and design resources
- - [https://depository.design](https://depository.design)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://depue.design](https://depue.design)
- - date_published: 2024-05-07T14:16:59.528736+00:00
-
- ## Developers & Designers
- - [https://developement.design](https://developement.design)
- - date_published: 2024-08-08T16:32:53.497030+00:00
-
- ## Home DNDA
- - [http://dnda.design](http://dnda.design)
- - date_published: 2024-07-24T03:19:01.359553+00:00
-
- ## Design Project Management | dotBRAND
- - [https://dotbrand.design](https://dotbrand.design)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Doug Powell · Design Leadership
- - [https://www.dougpowell.design](https://www.dougpowell.design)
- - date_published: 2024-07-24T02:15:15.531773+00:00
-
- ## Dropbox Design
- - [https://dropbox.design](https://dropbox.design)
- - date_published: 2024-07-09T19:29:08.679355+00:00
-
- ## EA. Digital, graphic and web design for startups.
- - [http://ea.design](http://ea.design)
- - date_published: 2017-04-21T04:59:00+00:00
-
- ## EasyFast — Design Services for Startups and Indies
- - [https://easyfast.design](https://easyfast.design)
- - date_published: 2023-11-15T16:19:39+00:00
-
- ## Free tumblr themes and resources
- - [https://egg.design](https://egg.design)
- - date_published: 2024-06-27T05:05:37.689996+00:00
-
- ## Endless — Design as a Subscription
- - [https://endless.design](https://endless.design)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
- - [https://ericwbailey.design](https://ericwbailey.design)
- - date_published: 2024-05-07T23:12:46.782732+00:00
-
- ## École supérieure d’art et de design d’Amiens / design | accueil
- - [https://esad-amiens.design](https://esad-amiens.design)
- - date_published: 2023-12-11T16:19:11.537933+00:00
-
- ## Home
- - [http://ethicalby.design](http://ethicalby.design)
- - date_published: 2024-07-02T20:00:49.419717+00:00
-
- ## FAST
- - [https://explore.fast.design](https://explore.fast.design)
- - date_published: 2024-04-29T07:18:19.287649+00:00
-
- ## FAST
- - [https://fast.design](https://fast.design)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Welcome | Feature-Sliced Design
- - [https://feature-sliced.design](https://feature-sliced.design)
- - date_published: 2024-08-18T14:29:40+00:00
-
- ## feedme.design
- - [https://feedme.design](https://feedme.design)
- - date_published: 2023-12-24T10:58:53.703752+00:00
-
- ## Felipe — Designer and Artist
- - [https://felipe.design](https://felipe.design)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## femke.design / Femke van Schoonhoven
- - [https://femke.design](https://femke.design)
- - date_published: 2023-10-25T09:21:33.094419+00:00
- - tags: ['personal']
-
- ## Flames - the most exclusive design community. Find the best designers
- - [https://flames.design](https://flames.design)
- - date_published: 2024-07-19T17:52:30.086106+00:00
-
- ## Flutterwave Design
- - [https://flutterwave.design](https://flutterwave.design)
- - date_published: 2024-07-09T19:28:10.844984+00:00
 

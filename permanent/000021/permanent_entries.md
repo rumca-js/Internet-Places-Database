@@ -1,3 +1,11 @@
+ ## mastodont.cat, cultura catalana.
+ - [https://mastodont.cat](https://mastodont.cat)
+ - date_published: 2024-05-09T08:22:54.387775+00:00
+
+ ## MetaData - El digital de tecnologia en català
+ - [https://www.metadata.cat](https://www.metadata.cat)
+ - date_published: 2024-10-30T09:41:01.994640+00:00
+
  ## El temps a Catalunya - Servei Meteorològic de Catalunya
  - [http://www.meteo.cat](http://www.meteo.cat)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -867,6 +875,11 @@
  ## DAEMON Tools - imaging software for all your needs - DAEMON-Tools.cc
  - [https://www.daemon-tools.cc](https://www.daemon-tools.cc)
  - date_published: 2024-07-14T05:12:44.828418+00:00
+
+ ## Blog - Daniel Huang
+ - [https://blog.danielh.cc](https://blog.danielh.cc)
+ - date_published: 2024-11-26T17:21:01.115622+00:00
+ - tags: ['personal']
 
  ## David Rozas
  - [http://davidrozas.cc](http://davidrozas.cc)
@@ -4023,16 +4036,4 @@
  ## Bilan
  - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
  - date_published: 2023-07-23T17:33:42+00:00
-
- ## Biodiversitätsinitiative – JA zur Biodiversität
- - [https://www.biodiversitaetsinitiative.ch](https://www.biodiversitaetsinitiative.ch)
- - date_published: 2024-10-29T11:15:50.608714+00:00
-
- ## Bizgraphic - content packaging, software and services
- - [https://bizgraphic.ch](https://bizgraphic.ch)
- - date_published: 2019-11-02T15:33:37+00:00
-
- ## Your partner for digital transformation | Blackpoints
- - [https://www.blackpoints.ch](https://www.blackpoints.ch)
- - date_published: 2024-10-21T22:23:49.098695+00:00
 

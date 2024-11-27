@@ -1,3 +1,7 @@
+ ## Quadrature
+ - [https://quadrature.ai](https://quadrature.ai)
+ - date_published: 2024-07-02T16:05:07+00:00
+
  ## Home - Qualifyed
  - [https://qualifyed.ai](https://qualifyed.ai)
  - date_published: 2023-03-16T00:00:00+00:00
@@ -4014,8 +4018,4 @@ Creative Solutions
  ## Business & Financial Intelligence About China & Global Supply Chains
  - [https://www.wirescreen.ai](https://www.wirescreen.ai)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## WisdomPlan: Your AI-Powered Learning Companion
- - [https://app.wisdomplan.ai](https://app.wisdomplan.ai)
- - date_published: 2024-09-14T07:54:10.272911+00:00
 

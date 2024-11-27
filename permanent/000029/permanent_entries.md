@@ -1,3 +1,15 @@
+ ## 海南省审计网
+ - [http://audit.hainan.gov.cn](http://audit.hainan.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 海南省外事办公室
+ - [http://dfoca.hainan.gov.cn](http://dfoca.hainan.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 海南省商务厅
+ - [http://dofcom.hainan.gov.cn](http://dofcom.hainan.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## 海南省生态环境厅
  - [http://hnsthb.hainan.gov.cn](http://hnsthb.hainan.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3985,16 +3997,4 @@
  ## 驻马店市人民政府门户网站
  - [https://www.zhumadian.gov.cn](https://www.zhumadian.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 浙江省文化广电和旅游厅
- - [http://ct.zj.gov.cn](http://ct.zj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 浙江省人民政府外事办公室（浙江省人民政府港澳事务办公室）
- - [http://fad.zj.gov.cn](http://fad.zj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 浙江省发展和改革委员会
- - [http://fzggw.zj.gov.cn](http://fzggw.zj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
 

@@ -1,3 +1,100 @@
+ ## Deep Fried Advertising – Creative Branding & Interactive Agency
+ - [https://deepfried.com](https://deepfried.com)
+ - date_published: 2024-10-30T03:36:53.653267+00:00
+
+ ## Welcome to Deep Fun: the virtual library of Bernard Louis De Koven: author, speaker, and designer of funny games
+ - [http://www.deepfun.com](http://www.deepfun.com)
+ - date_published: 2017-11-07T00:00:00+00:00
+
+ ## Home | Deep Genomics
+ - [https://deepgenomics.com](https://deepgenomics.com)
+ - date_published: 2024-04-29T07:35:39.516402+00:00
+
+ ## Deepgram
+ - [https://api.deepgram.com](https://api.deepgram.com)
+ - date_published: 2024-06-15T20:55:55.325658+00:00
+
+ ## Resources and Tools Created to Inspire | Deepgram
+ - [https://blog.deepgram.com](https://blog.deepgram.com)
+ - date_published: 2023-10-25T13:47:45.305982+00:00
+
+ ## Deepgram Community
+ - [https://community.deepgram.com](https://community.deepgram.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Deepgram
+ - [https://console.deepgram.com](https://console.deepgram.com)
+ - date_published: 2024-05-01T04:30:20.277418+00:00
+
+ ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
+ - [https://deepgram.com](https://deepgram.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Welcome to Deepgram Docs!
+ - [https://developers.deepgram.com](https://developers.deepgram.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Deepgram
+ - [https://playground.deepgram.com](https://playground.deepgram.com)
+ - date_published: 2024-05-01T04:30:12.382191+00:00
+
+ ## Deepgram Status
+ - [https://status.deepgram.com](https://status.deepgram.com)
+ - date_published: 2024-05-01T04:30:23.478923+00:00
+
+ ## /
+ - [https://cdimage.deepin.com](https://cdimage.deepin.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Machine Learning Models and Infrastructure | Deep Infra
+ - [https://deepinfra.com](https://deepinfra.com)
+ - date_published: 2024-05-04T08:34:40.135468+00:00
+
+ ## DeepIntent
+ - [https://option.deepintent.com](https://option.deepintent.com)
+ - date_published: 2024-06-22T20:10:34.657332+00:00
+
+ ## Home
+ - [https://www.deepintent.com](https://www.deepintent.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## DeepL Translate: The world's most accurate translator
+ - [https://deepl.com](https://deepl.com)
+ - date_published: 2024-06-19T20:06:27.338652+00:00
+
+ ## Introduction | English | DeepL API Docs
+ - [https://developers.deepl.com](https://developers.deepl.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Join DeepL: Innovative Career Opportunities in AI and Translation Technology
+ - [https://jobs.deepl.com](https://jobs.deepl.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## DeepL Help Center | How Can We Help You?
+ - [https://support.deepl.com](https://support.deepl.com)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## AGA治療と育毛シャンプー
+ - [http://www.deepleafproductions.com](http://www.deepleafproductions.com)
+ - date_published: 2015-08-26T05:17:00+00:00
+
+ ## DeepMake
+ - [https://deepmake.com](https://deepmake.com)
+ - date_published: 2023-12-09T00:22:25.769168+00:00
+
+ ## AlphaCode
+ - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
+ - date_published: 2023-10-25T13:47:52.658441+00:00
+
+ ## Google DeepMind
+ - [https://deepmind.com](https://deepmind.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+ - tags: ['artificial intelligence']
+
+ ## AlphaFold: Accelerating biological research
+ - [https://unfolded.deepmind.com](https://unfolded.deepmind.com)
+ - date_published: 2024-07-04T18:24:34.164735+00:00
+
  ## Leetcode but for ML
  - [https://www.deep-ml.com](https://www.deep-ml.com)
  - date_published: 2024-07-10T11:53:30+00:00
@@ -658,6 +755,11 @@
  ## Form builder for shareable and embeddable forms | Deftform
  - [https://deftform.com](https://deftform.com)
  - date_published: 2024-10-28T23:32:27.945105+00:00
+
+ ## Deftones Official Website
+ - [https://deftones.com](https://deftones.com)
+ - date_published: 2024-11-26T09:48:19+00:00
+ - tags: ['music band']
 
  ## Defy TV
  - [https://defytvnet.com](https://defytvnet.com)
@@ -3928,107 +4030,4 @@
  ## Business Events | Destination Canada
  - [https://businessevents.destinationcanada.com](https://businessevents.destinationcanada.com)
  - date_published: 2024-10-31T11:28:07.820701+00:00
-
- ## Visit Canada | Destination Canada
- - [https://travel.destinationcanada.com](https://travel.destinationcanada.com)
- - date_published: 2024-06-19T23:29:39.532836+00:00
-
- ## Destination Canada | Voyager en vacances au Canada | Destination Canada
- - [https://voyages.destinationcanada.com](https://voyages.destinationcanada.com)
- - date_published: 2024-10-31T11:28:23.486426+00:00
-
- ## CRM Magazine - Customer Relationship Management, Social CRM, CEM - Destination CRM
- - [https://www.destinationcrm.com](https://www.destinationcrm.com)
- - date_published: 2024-10-30T17:08:02.433348+00:00
-
- ## Destination Épargne
- - [http://destination-epargne.com](http://destination-epargne.com)
- - date_published: 2024-09-15T20:09:50.296907+00:00
-
- ## Home - Destination Mansfield
- - [https://destinationmansfield.com](https://destinationmansfield.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Official Tourism Website of Ontario
- - [https://destinationontario.com](https://destinationontario.com)
- - date_published: 2024-07-11T16:44:30+00:00
-
- ## Accueil | Médiathèque de Destination Rennes
- - [https://mediatheque.destination-rennes.com](https://mediatheque.destination-rennes.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - DESTINATION SAUSALITO
- - [https://destinationsausalito.com](https://destinationsausalito.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Destination Vancouver - official source of tourist information, things to do, restaurants for Vancouver BC Canada
- - [https://www.destinationvancouver.com](https://www.destinationvancouver.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Destination: zero bars
- - [https://destinationzerobars.com](https://destinationzerobars.com)
- - date_published: 2013-07-18T00:00:00+00:00
- - tags: ['personal']
-
- ## Destined for X
- - [https://destinedforx.com](https://destinedforx.com)
- - date_published: 2024-07-10T11:16:19.090301+00:00
-
- ## Destini Locators - Product and Store Locator Software'
- - [https://destinilocators.com](https://destinilocators.com)
- - date_published: 2018-02-22T18:53:17+00:00
-
- ## Home - Red Iberoamericana de Destinos Turísticos Inteligentes
- - [https://destinosinteligentesiberoamerica.com](https://destinosinteligentesiberoamerica.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Destinoveracruz - Mengatasi Tantangan: Bagaimana Keterampilan Bermain Game Bermanfaat dalam Kehidupan Nyata
- - [https://destinoveracruz.com](https://destinoveracruz.com)
- - date_published: 2024-08-20T04:07:43.218263+00:00
-
- ## IIS Windows Server
- - [https://www.destinpoolservice.com](https://www.destinpoolservice.com)
- - date_published: 2018-02-13T02:37:57+00:00
-
- ## Destiny 2 Archives
- - [http://destinydb.com](http://destinydb.com)
- - date_published: 2024-07-18T04:53:31.811964+00:00
-
- ## Destiny Discover | Follett School Solutions | School Picker
- - [https://www.destinydiscover.com](https://www.destinydiscover.com)
- - date_published: 2024-03-18T15:28:08+00:00
-
- ## DestinyExpress.com
- - [https://destinyexpress.com](https://destinyexpress.com)
- - date_published: 2024-05-04T06:31:31.282368+00:00
-
- ## Destiny 2 Wiki - D2 Wiki, Database and Guide
- - [https://d2.destinygamewiki.com](https://d2.destinygamewiki.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Destiny Item Manager
- - [https://destinyitemmanager.com](https://destinyitemmanager.com)
- - date_published: 2024-10-21T03:46:54.573923+00:00
-
- ## Destinypedia
- - [https://destinypedia.com](https://destinypedia.com)
- - date_published: 2024-03-02T02:33:04+00:00
-
- ## Higher Education Management Software  | Engage in the Modern Learner Revolution
- - [http://www.destinysolutions.com](http://www.destinysolutions.com)
- - date_published: 2024-07-22T07:39:27.140854+00:00
-
- ## Bungie.net
- - [https://destinythegame.com](https://destinythegame.com)
- - date_published: 2024-07-12T06:45:05+00:00
- - tags: ['video game']
-
- ## Modernize Your Data Management with DeStor Cloud Storage
- - [https://destor.com](https://destor.com)
- - date_published: 2024-08-16T07:08:21+00:00
-
- ## Destroy All Humans! 2 - Reprobed - Official Game Site
- - [https://destroyallhumansgame.com](https://destroyallhumansgame.com)
- - date_published: 2024-10-24T13:08:30.170823+00:00
- - tags: ['video game']
 

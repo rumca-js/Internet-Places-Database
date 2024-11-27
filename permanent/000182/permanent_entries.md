@@ -1,3 +1,204 @@
+ ## Carreras y ofertas de empleo en Scotiabank
+ - [https://empleos.scotiabank.com](https://empleos.scotiabank.com)
+ - date_published: 2024-09-28T21:39:59.448084+00:00
+
+ ## Home | Global Banking and Markets – Scotiabank
+ - [https://gbm.scotiabank.com](https://gbm.scotiabank.com)
+ - date_published: 2024-04-28T02:13:28.954466+00:00
+
+ ## Global Wealth Management | Scotiabank
+ - [https://globalwealth.scotiabank.com](https://globalwealth.scotiabank.com)
+ - date_published: 2024-08-01T23:32:02+00:00
+
+ ## Personal Banking | Guyana
+ - [https://gy.scotiabank.com](https://gy.scotiabank.com)
+ - date_published: 2024-06-14T14:42:54+00:00
+
+ ## Scotiabank Help Centre
+ - [https://help.scotiabank.com](https://help.scotiabank.com)
+ - date_published: 2024-09-28T21:28:07.524816+00:00
+
+ ## itrade
+ - [https://ico.scotiabank.com](https://ico.scotiabank.com)
+ - date_published: 1985-10-26T08:15:00+00:00
+
+ ## Scotiabank Global Site
+ - [http://intl.scotiabank.com](http://intl.scotiabank.com)
+ - date_published: 2024-09-25T14:35:16+00:00
+
+ ## Scotiabank Jamaica: Personal Banking
+ - [https://jm.scotiabank.com](https://jm.scotiabank.com)
+ - date_published: 2024-06-14T19:12:20+00:00
+
+ ## Personal Banking - Scotiabank Cayman Islands
+ - [https://ky.scotiabank.com](https://ky.scotiabank.com)
+ - date_published: 2024-06-14T18:17:35+00:00
+
+ ## Branch Locator | Scotiabank
+ - [https://maps.scotiabank.com](https://maps.scotiabank.com)
+ - date_published: 2024-09-28T21:36:34.694252+00:00
+
+ ## Banca Personal I Scotiabank Panamá
+ - [https://pa.scotiabank.com](https://pa.scotiabank.com)
+ - date_published: 2024-06-14T00:03:20+00:00
+
+ ## Scotiabank Global Site
+ - [https://scotiabank.com](https://scotiabank.com)
+ - date_published: 2024-08-01T22:36:32+00:00
+
+ ## Welcome to Canada - Newcomer Banking | Scotiabank StartRight Program
+ - [https://startright.scotiabank.com](https://startright.scotiabank.com)
+ - date_published: 2024-06-14T18:26:58+00:00
+
+ ## Personal Banking - Scotiabank Turks and Caicos
+ - [https://tc.scotiabank.com](https://tc.scotiabank.com)
+ - date_published: 2024-06-14T18:18:53+00:00
+
+ ## Personal Banking | Trinidad & Tobago
+ - [https://tt.scotiabank.com](https://tt.scotiabank.com)
+ - date_published: 2024-06-14T18:31:10+00:00
+
+ ## Scotiabank Barbados
+ - [http://www.barbados.scotiabank.com](http://www.barbados.scotiabank.com)
+ - date_published: 2012-11-20T14:57:15+00:00
+
+ ## Scotiabank Belize
+ - [http://www.belize.scotiabank.com](http://www.belize.scotiabank.com)
+ - date_published: 2013-01-29T15:05:16+00:00
+
+ ## Scotiabank British Virgin Islands
+ - [http://www.bvi.scotiabank.com](http://www.bvi.scotiabank.com)
+ - date_published: 2013-05-08T13:59:36+00:00
+
+ ## Scotiabank Guyana
+ - [http://www.guyana.scotiabank.com](http://www.guyana.scotiabank.com)
+ - date_published: 2013-04-24T14:00:47+00:00
+
+ ## Scotiabank Jamaica
+ - [http://www.jamaica.scotiabank.com](http://www.jamaica.scotiabank.com)
+ - date_published: 2012-09-13T18:08:20+00:00
+
+ ## Scotia OnLine
+ - [https://www.online.scotiabank.com](https://www.online.scotiabank.com)
+ - date_published: 2014-05-06T16:39:40+00:00
+
+ ## Scotiabank  Panama
+ - [http://www.panama.scotiabank.com](http://www.panama.scotiabank.com)
+ - date_published: 2018-03-22T13:00:17+00:00
+
+ ## Sign in | Scotiabank
+ - [https://www.scotiaonline.scotiabank.com](https://www.scotiaonline.scotiabank.com)
+ - date_published: 2024-09-28T21:28:06.519695+00:00
+
+ ## Home | Scotia Securities Asia Limited Tokyo Branch
+ - [https://www.scotiasecurities.jpn.scotiabank.com](https://www.scotiasecurities.jpn.scotiabank.com)
+ - date_published: 2024-06-16T08:48:43.856875+00:00
+
+ ## Scotiabank Turks and Caicos
+ - [http://www.turksandcaicos.scotiabank.com](http://www.turksandcaicos.scotiabank.com)
+ - date_published: 2013-04-15T13:58:21+00:00
+
+ ## Scotiabank Arena
+ - [https://www.scotiabankarena.com](https://www.scotiabankarena.com)
+ - date_published: 2024-09-18T15:37:37.353532+00:00
+
+ ## Banco Scotiabank Colpatria - Banca Empresas
+ - [https://www.bancaempresarial.scotiabankcolpatria.com](https://www.bancaempresarial.scotiabankcolpatria.com)
+ - date_published: 2024-09-10T23:16:24.165498+00:00
+
+ ## Scotiabank Colpatria | Banca virtual
+ - [https://www.banco.scotiabankcolpatria.com](https://www.banco.scotiabankcolpatria.com)
+ - date_published: 2024-06-04T16:20:50+00:00
+
+ ## Scotiabank Colpatria
+ - [https://www.digital.scotiabankcolpatria.com](https://www.digital.scotiabankcolpatria.com)
+ - date_published: 2024-09-10T23:17:50.358194+00:00
+
+ ## Scotiabank Colpatria
+ - [https://www.scotiabankcolpatria.com](https://www.scotiabankcolpatria.com)
+ - date_published: 2024-06-12T10:32:38.836777+00:00
+
+ ## IIS Windows Server
+ - [https://www.fondosenlinea.scotiabankcr.com](https://www.fondosenlinea.scotiabankcr.com)
+ - date_published: 2023-12-21T02:46:56+00:00
+
+ ## Banca Personal
+ - [https://www.scotiabankcr.com](https://www.scotiabankcr.com)
+ - date_published: 2024-06-16T08:47:39.584161+00:00
+
+ ## Welcome to ScotiaFunds | ScotiaFunds
+ - [https://www.scotiafunds.com](https://www.scotiafunds.com)
+ - date_published: 2024-06-14T17:43:10+00:00
+
+ ## Scotia Global Asset Management
+ - [https://www.scotiagam.com](https://www.scotiagam.com)
+ - date_published: 2024-06-14T14:49:06+00:00
+
+ ## ScotiaBankInverlat
+ - [https://www.scotiainlatrade.com](https://www.scotiainlatrade.com)
+ - date_published: 2017-10-20T21:03:04+00:00
+
+ ## Start direct investing & online trading today | Scotia iTRADE®
+ - [https://www.scotiaitrade.com](https://www.scotiaitrade.com)
+ - date_published: 2024-06-14T16:52:12+00:00
+
+ ## Home
+ - [https://enrichedthinking.scotiawealthmanagement.com](https://enrichedthinking.scotiawealthmanagement.com)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Find us
+ - [https://findus.scotiawealthmanagement.com](https://findus.scotiawealthmanagement.com)
+ - date_published: 2024-09-28T21:39:11.184425+00:00
+
+ ## Wealth Management Canada - Scotia Wealth Management
+ - [https://www.scotiawealthmanagement.com](https://www.scotiawealthmanagement.com)
+ - date_published: 2024-06-11T14:22:37+00:00
+
+ ## Home - ScotlandIS
+ - [https://www.scotlandis.com](https://www.scotlandis.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Discover Scotland’s finest long-distance trails, compare routes, find support services, maps and guidebooks - Scotland's Great Trails
+ - [https://scotlandsgreattrails.com](https://scotlandsgreattrails.com)
+ - date_published: 2024-05-07T14:47:43.230920+00:00
+
+ ## Scotslanguage.com - Scots Language Centre
+ - [https://www.scotslanguage.com](https://www.scotslanguage.com)
+ - date_published: 2024-07-12T05:27:09.148830+00:00
+
+ ## Scotsman
+ - [https://app.scotsman.com](https://app.scotsman.com)
+ - date_published: 2024-04-29T02:32:22.481729+00:00
+
+ ## Best Online Casinos in the UK in April 2024 - Play For Real Money
+ - [https://casino.scotsman.com](https://casino.scotsman.com)
+ - date_published: 2024-04-29T02:32:41.868550+00:00
+ - tags: ['gambling']
+
+ ## Home | NationalWorld Celebrations
+ - [https://celebrations.scotsman.com](https://celebrations.scotsman.com)
+ - date_published: 2024-04-29T02:32:26.406698+00:00
+
+ ## The Scotsman Discount Codes
+ - [https://discountcode.scotsman.com](https://discountcode.scotsman.com)
+ - date_published: 2024-04-29T02:32:46.320094+00:00
+
+ ## Home | Scotsman Food and Drink
+ - [https://foodanddrink.scotsman.com](https://foodanddrink.scotsman.com)
+ - date_published: 2023-10-30T22:28:21+00:00
+
+ ## Latest News | The Scotsman
+ - [https://scotsman.com](https://scotsman.com)
+ - date_published: 2024-08-06T10:37:02.670849+00:00
+
+ ## Scotsman Conferences
+ - [https://scotsmanconferences.com](https://scotsmanconferences.com)
+ - date_published: 2024-04-29T02:32:25.706939+00:00
+
+ ## Scots Republic
+ - [http://www.scotsrepublic.com](http://www.scotsrepublic.com)
+ - date_published: 2024-10-21T14:47:41.503986+00:00
+
  ## Scott Aaronson
  - [https://scottaaronson.com](https://scottaaronson.com)
  - date_published: 2023-10-25T16:59:29.689793+00:00
@@ -3854,206 +4055,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## Seeed Studio Bazaar, The IoT Hardware enabler.
  - [https://seeedstudio.com](https://seeedstudio.com)
  - date_published: 2024-05-09T04:04:43.845473+00:00
-
- ## Seeed Studio Bazaar, The IoT Hardware enabler.
- - [https://static-cdn.seeedstudio.com](https://static-cdn.seeedstudio.com)
- - date_published: 2024-05-09T04:04:14.421705+00:00
-
- ## Feedback & Ideas for seeed
- - [http://support.seeedstudio.com](http://support.seeedstudio.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Seeed Studio Wiki
- - [https://wiki.seeedstudio.com](https://wiki.seeedstudio.com)
- - date_published: 2024-10-09T10:46:33+00:00
-
- ## SEE
- - [http://www.seeeyewear.com](http://www.seeeyewear.com)
- - date_published: 2024-06-23T05:54:40.092759+00:00
-
- ## Seeing the Chessboard
- - [https://seeingthechessboard.com](https://seeingthechessboard.com)
- - date_published: 2024-04-29T07:41:19.078577+00:00
-
- ## Seeing the Forest
- - [http://seeingtheforest.com](http://seeingtheforest.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Online Directory
- - [http://seekandfind.com](http://seekandfind.com)
- - date_published: 2024-06-19T00:40:22+00:00
-
- ## Homepage - SeekandHit
- - [https://seekandhit.com](https://seekandhit.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Before you continue to YouTube
- - [https://seeker.com](https://seeker.com)
- - date_published: 2024-05-09T08:43:08.302191+00:00
-
- ## About Seeking Alpha
- - [https://about.seekingalpha.com](https://about.seekingalpha.com)
- - date_published: 2024-04-29T03:05:16.654359+00:00
-
- ## Support Center
- - [https://feedback.seekingalpha.com](https://feedback.seekingalpha.com)
- - date_published: 2024-08-03T20:57:37+00:00
-
- ## Support Center
- - [https://help.seekingalpha.com](https://help.seekingalpha.com)
- - date_published: 2024-04-29T03:05:05.594192+00:00
-
- ## Seeking Alpha Careers
- - [https://jobs.seekingalpha.com](https://jobs.seekingalpha.com)
- - date_published: 2024-04-29T03:05:22.705260+00:00
-
- ## Seeking Alpha | Stock Market Analysis & Tools for Investors
- - [https://seekingalpha.com](https://seekingalpha.com)
- - date_published: 2023-10-25T17:01:28.875847+00:00
-
- ## Stock Market Analysis & Tools for Investors
- - [https://static1.seekingalpha.com](https://static1.seekingalpha.com)
- - date_published: 2024-04-29T03:05:13.702270+00:00
-
- ## Stock Market Analysis & Tools for Investors
- - [https://static2.seekingalpha.com](https://static2.seekingalpha.com)
- - date_published: 2024-04-29T03:05:11.255472+00:00
-
- ## Stock Market Analysis & Tools for Investors
- - [https://static3.seekingalpha.com](https://static3.seekingalpha.com)
- - date_published: 2024-04-29T03:05:19.161531+00:00
-
- ## Stock Market Analysis & Tools for Investors
- - [https://static.seekingalpha.com](https://static.seekingalpha.com)
- - date_published: 2024-04-29T03:05:08.496413+00:00
-
- ## Seeking Alpha Premium
- - [https://subscriptions.seekingalpha.com](https://subscriptions.seekingalpha.com)
- - date_published: 2024-04-29T03:05:15.171404+00:00
-
- ## Vector Logos, PNG Images, Templates Free Download | seeklogo
- - [https://seeklogo.com](https://seeklogo.com)
- - date_published: 2024-05-06T22:25:25.303074+00:00
-
- ## Seek Nuance
- - [https://seeknuance.com](https://seeknuance.com)
- - date_published: 2024-08-07T15:04:08+00:00
-
- ## seekport
- - [http://seekport.com](http://seekport.com)
- - date_published: 2024-06-20T21:03:30+00:00
- - tags: ['search engine']
-
- ## Open Source Search Engine Software - Seekquarry
- - [https://seekquarry.com](https://seekquarry.com)
- - date_published: 2024-06-10T07:08:55.542567+00:00
- - tags: ['search engine']
-
- ## Seekr: Transform Your Business with AI You Can Trust
- - [https://www.seekr.com](https://www.seekr.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Plant your personal flower
- - [https://forest-mt.seekrtech.com](https://forest-mt.seekrtech.com)
- - date_published: 2024-10-20T22:47:00.759824+00:00
-
- ## Seekrtech
- - [https://seekrtech.com](https://seekrtech.com)
- - date_published: 2024-10-20T22:47:30.674259+00:00
-
- ## seekyledraw.com
- - [http://seekyledraw.com](http://seekyledraw.com)
- - date_published: 2024-10-31T22:57:30.407355+00:00
-
- ## Resolution Center
- - [https://resolve.seel.com](https://resolve.seel.com)
- - date_published: 2024-06-28T10:12:20+00:00
-
- ## Home - Seema Yasmin
- - [https://seemayasmin.com](https://seemayasmin.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Seen and Done
- - [https://seen-and-done.com](https://seen-and-done.com)
- - date_published: 2024-06-29T08:26:25.754049+00:00
-
- ## Nebula Canada | Smart Projectors.
- - [https://ca.seenebula.com](https://ca.seenebula.com)
- - date_published: 2024-10-22T19:48:21.027393+00:00
-
- ## Nebula | Smarte Beamer
- - [https://de.seenebula.com](https://de.seenebula.com)
- - date_published: 2024-10-22T19:48:34.440033+00:00
-
- ## Nebula Europe | Smart Projectors.
- - [https://eu.seenebula.com](https://eu.seenebula.com)
- - date_published: 2024-10-22T19:48:56.664578+00:00
-
- ## Projector - Smart Video Projectors - Nebula US
- - [https://us.seenebula.com](https://us.seenebula.com)
- - date_published: 2024-06-18T16:18:55.007594+00:00
-
- ## NEBULA Projectors Homepage
- - [https://www.seenebula.com](https://www.seenebula.com)
- - date_published: 2024-10-22T19:48:38.485408+00:00
-
- ## Seenka Media Data | Monitoreo y análisis de medios
- - [https://seenka.com](https://seenka.com)
- - date_published: 2024-09-08T18:38:55+00:00
-
- ## Home - SEEPEX
- - [https://seepex-spot.com](https://seepex-spot.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## AGV/AMR-仙工智能，让移动机器人没有门槛
- - [https://cn.seer-group.com](https://cn.seer-group.com)
- - date_published: 2024-09-05T21:58:39.387597+00:00
-
- ## MWMS 仓配一体化系统 仙工智能 SEER
- - [https://mwms.seer-group.com](https://mwms.seer-group.com)
- - date_published: 2023-07-11T07:46:46+00:00
-
- ## SEER Robotics-Build Your Own AMR Fleet Within Days
- - [https://seer-group.com](https://seer-group.com)
- - date_published: 2024-06-10T13:12:49.832356+00:00
-
- ## SeerOfSouls
- - [https://seerofsouls.com](https://seerofsouls.com)
- - date_published: 2024-02-01T13:43:27.563648+00:00
-
- ## Home - Seers | Privacy & Consent Management | GDPR & CCPA
- - [https://seersco.com](https://seersco.com)
- - date_published: 2024-10-20T17:00:57.427800+00:00
-
- ## Seervision Production API
- - [https://api.seervision.com](https://api.seervision.com)
- - date_published: 2024-02-16T02:35:19+00:00
-
- ## Seervision Suite Manual
- - [https://manual.seervision.com](https://manual.seervision.com)
- - date_published: 2022-11-18T02:35:18+00:00
-
- ## Complete AV automation - Seervision
- - [https://seervision.com](https://seervision.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Knowledge Base – Seervision
- - [https://support.seervision.com](https://support.seervision.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## see-sailing login
- - [https://app.see-sailing.com](https://app.see-sailing.com)
- - date_published: 2024-09-02T09:46:56.524262+00:00
-
- ## See-Sailing, yacht data visualisation
- - [https://www.see-sailing.com](https://www.see-sailing.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home - Seesaw | Elementary Learning Experience Platform
- - [https://seesaw.com](https://seesaw.com)
- - date_published: 2024-07-03T19:32:45.682436+00:00
-
- ## URL Shortener, Branded Short Links & Analytics | TinyURL
- - [https://audiences.seesource.com](https://audiences.seesource.com)
- - date_published: 2024-09-19T22:05:24.241017+00:00
 

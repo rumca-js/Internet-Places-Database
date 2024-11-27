@@ -1,3 +1,11 @@
+ ## LES EXPERTS DU FORAGE DE PUITS  AU QUÉBEC - Experts en forage de puits
+ - [https://foragedepuits.ca](https://foragedepuits.ca)
+ - date_published: 2024-09-10T11:09:37+00:00
+
+ ## Welcome to AccessoriesCanada
+ - [https://accessories.ford.ca](https://accessories.ford.ca)
+ - date_published: 2024-10-29T22:02:34.563730+00:00
+
  ## Finance or Lease Ford Vehicles and Apply for Ford Credit | Official Site of Ford Credit Canada
  - [https://credit.ford.ca](https://credit.ford.ca)
  - date_published: 2024-06-19T17:10:48.048534+00:00
@@ -4035,12 +4043,4 @@
  ## Pyskool
  - [https://pyskool.ca](https://pyskool.ca)
  - date_published: 2019-06-17T21:02:00+00:00
-
- ## Welcome to Python.org
- - [http://python.ca](http://python.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## www.Qc125.ca | Philippe J. Fournier | Substack
- - [https://www.qc125.ca](https://www.qc125.ca)
- - date_published: 2024-01-13T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Bill Bennett
+ - [https://billbennett.micro.blog](https://billbennett.micro.blog)
+ - date_published: 2024-07-07T05:40:40+00:00
+
+ ## Micro.blog
+ - [https://cdn.micro.blog](https://cdn.micro.blog)
+ - date_published: 2024-07-07T07:34:02.570535+00:00
+
  ## Micro.blog Community Challenges
  - [https://challenges.micro.blog](https://challenges.micro.blog)
  - date_published: 2024-05-02T04:04:42+00:00
@@ -4034,12 +4042,4 @@ Educação
  ## Iandé
  - [https://iandecultura.com.br](https://iandecultura.com.br)
  - date_published: 2024-08-18T05:25:47.698210+00:00
-
- ## IBM - Brasil
- - [http://ibm.com.br](http://ibm.com.br)
- - date_published: 2024-07-13T01:52:01+00:00
-
- ## International Business Times Brazil
- - [https://www.ibtimes.com.br](https://www.ibtimes.com.br)
- - date_published: 2024-06-30T06:57:06.468733+00:00
 

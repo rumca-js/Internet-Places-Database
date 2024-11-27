@@ -1,3 +1,15 @@
+ ## Biodiversitätsinitiative – JA zur Biodiversität
+ - [https://www.biodiversitaetsinitiative.ch](https://www.biodiversitaetsinitiative.ch)
+ - date_published: 2024-10-29T11:15:50.608714+00:00
+
+ ## Bizgraphic - content packaging, software and services
+ - [https://bizgraphic.ch](https://bizgraphic.ch)
+ - date_published: 2019-11-02T15:33:37+00:00
+
+ ## Your partner for digital transformation | Blackpoints
+ - [https://www.blackpoints.ch](https://www.blackpoints.ch)
+ - date_published: 2024-10-21T22:23:49.098695+00:00
+
  ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
  - [https://www.blick.ch](https://www.blick.ch)
  - date_published: 2024-06-25T22:03:28.409073+00:00
@@ -3996,16 +4008,4 @@
  ## Inside-IT Events | Events
  - [https://events.inside-it.ch](https://events.inside-it.ch)
  - date_published: 2024-07-13T09:53:05.713996+00:00
-
- ## Erhalten Sie Zugang zur grössten ICT-Community der Schweiz
- - [https://inserieren.inside-it.ch](https://inserieren.inside-it.ch)
- - date_published: 2024-03-05T08:31:57+00:00
-
- ## Inside IT – Das Magazin für IT-Verantwortliche
- - [https://inside-it.ch](https://inside-it.ch)
- - date_published: 2024-05-11T07:05:21.542689+00:00
-
- ## Inside IT Jobs – Das Jobportal für Führungskräfte, Experten und Fachpersonen im IT-Bereich
- - [https://jobs.inside-it.ch](https://jobs.inside-it.ch)
- - date_published: 2024-07-11T00:00:00+00:00
 

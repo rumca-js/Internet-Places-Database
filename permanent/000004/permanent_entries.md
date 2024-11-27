@@ -1,4 +1,8 @@
  ## WisdomPlan: Your AI-Powered Learning Companion
+ - [https://app.wisdomplan.ai](https://app.wisdomplan.ai)
+ - date_published: 2024-09-14T07:54:10.272911+00:00
+
+ ## WisdomPlan: Your AI-Powered Learning Companion
  - [https://wisdomplan.ai](https://wisdomplan.ai)
  - date_published: 2024-06-14T08:58:47.993270+00:00
 
@@ -3522,10 +3526,6 @@
  - [https://flowtide.app](https://flowtide.app)
  - date_published: 2024-11-25T18:30:10.037074+00:00
  - tags: ['browser extension']
-
- ## Show HN: Minimal, customizable new tab for Chrome/Firefox
- - [https://www.flowtide.app](https://www.flowtide.app)
- - date_published: 2024-11-25T15:51:59+00:00
 
  ## FL Studio: Professional Music Production Software
  - [https://flstudio.app](https://flstudio.app)

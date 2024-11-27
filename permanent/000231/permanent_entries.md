@@ -1,3 +1,259 @@
+ ## Masako and Spam Musubi
+ - [http://p47koji.wordpress.com](http://p47koji.wordpress.com)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## PA1EJO
+ - [https://pa1ejo.wordpress.com](https://pa1ejo.wordpress.com)
+ - date_published: 2024-06-29T07:58:30.317111+00:00
+
+ ## pace, amore, libri
+ - [https://paceamorelibri.wordpress.com](https://paceamorelibri.wordpress.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Pacific Paratrooper
+ - [http://pacificparatrooper.wordpress.com](http://pacificparatrooper.wordpress.com)
+ - date_published: 2024-06-21T09:42:46.522290+00:00
+
+ ## Paddy K
+ - [http://paddyk.wordpress.com](http://paddyk.wordpress.com)
+ - date_published: 2024-07-02T09:02:32.103095+00:00
+
+ ## What Have We Learned?
+ - [http://padegimas.wordpress.com](http://padegimas.wordpress.com)
+ - date_published: 2024-09-03T23:03:02.463054+00:00
+
+ ## Service Status
+ - [https://pagekite.wordpress.com](https://pagekite.wordpress.com)
+ - date_published: 2024-09-14T08:55:02.935846+00:00
+
+ ## The Pageman in Kabul
+ - [https://pageman.wordpress.com](https://pageman.wordpress.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## paintandbiscuits
+ - [http://paintandbiscuits.wordpress.com](http://paintandbiscuits.wordpress.com)
+ - date_published: 2024-10-26T21:37:03.793802+00:00
+
+ ## Paint at Dawn
+ - [https://paintatdawn.wordpress.com](https://paintatdawn.wordpress.com)
+ - date_published: 2024-10-26T18:36:27.864618+00:00
+
+ ## Stories and thoughts
+ - [http://paladinsstory.wordpress.com](http://paladinsstory.wordpress.com)
+ - date_published: 2024-09-03T23:00:58.214577+00:00
+
+ ## Palaeo Manchester
+ - [https://palaeomanchester.wordpress.com](https://palaeomanchester.wordpress.com)
+ - date_published: 2024-10-22T11:26:00+00:00
+
+ ## Letters from Gondwana.
+ - [https://paleonerdish.wordpress.com](https://paleonerdish.wordpress.com)
+ - date_published: 2024-10-19T05:21:12.738612+00:00
+
+ ## Palm-Sized Press
+ - [http://palmsizedprompts.wordpress.com](http://palmsizedprompts.wordpress.com)
+ - date_published: 2024-07-16T21:36:06.110884+00:00
+
+ ## Pamela Cuadros
+ - [https://pamelacuadros.wordpress.com](https://pamelacuadros.wordpress.com)
+ - date_published: 2024-06-15T23:17:25.218550+00:00
+
+ ## Pamphleteering Culture, 1558–1702
+ - [https://pamphleteering2017.wordpress.com](https://pamphleteering2017.wordpress.com)
+ - date_published: 2024-10-29T18:12:30.677282+00:00
+
+ ## Pancake
+ - [https://pancakestacks.wordpress.com](https://pancakestacks.wordpress.com)
+ - date_published: 2024-10-31T04:54:17.592835+00:00
+
+ ## PLEASE READ BEFORE SHARING
+ - [https://panduwana.wordpress.com](https://panduwana.wordpress.com)
+ - date_published: 2024-08-08T18:56:14.580682+00:00
+
+ ## Panels & Prose
+ - [https://panelz.wordpress.com](https://panelz.wordpress.com)
+ - date_published: 2024-05-06T22:30:43.378495+00:00
+
+ ## Uniamo le menti esistenti
+ - [https://panenutella.wordpress.com](https://panenutella.wordpress.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Zaplanuj Twoją podróż po Bałkanach
+ - [http://panhoryzontu.wordpress.com](http://panhoryzontu.wordpress.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Pan loquens
+ - [http://panloquens.wordpress.com](http://panloquens.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Panóptica
+ - [https://panopticamuseo.wordpress.com](https://panopticamuseo.wordpress.com)
+ - date_published: 2024-06-20T09:06:37.472982+00:00
+
+ ## Paolo Crosetto
+ - [https://paolocrosetto.wordpress.com](https://paolocrosetto.wordpress.com)
+ - date_published: 2024-06-30T08:08:47.889723+00:00
+
+ ## DEVEXPERIENCE
+ - [https://paolopatierno.wordpress.com](https://paolopatierno.wordpress.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Papa MikeT
+ - [https://papamiketdotcom.wordpress.com](https://papamiketdotcom.wordpress.com)
+ - date_published: 2024-06-27T09:55:05.838547+00:00
+
+ ## PA Pundits International
+ - [https://papundits.wordpress.com](https://papundits.wordpress.com)
+ - date_published: 2024-09-16T21:30:37+00:00
+
+ ## Selrahc's PapyrusUML
+ - [https://papyrusuml.wordpress.com](https://papyrusuml.wordpress.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## The Para-Imperium
+ - [https://paraimperium.wordpress.com](https://paraimperium.wordpress.com)
+ - date_published: 2024-06-29T06:15:27.443087+00:00
+
+ ## Parburypolitica
+ - [http://parburypolitica.wordpress.com](http://parburypolitica.wordpress.com)
+ - date_published: 2024-10-21T12:03:43.109340+00:00
+
+ ## Autism Parenting
+ - [http://parentingontheautismspectrum.wordpress.com](http://parentingontheautismspectrum.wordpress.com)
+ - date_published: 2024-09-03T23:00:19.074731+00:00
+
+ ## (parentheses)
+ - [https://parenz.wordpress.com](https://parenz.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## parezco y digo
+ - [http://parezcoydigo.wordpress.com](http://parezcoydigo.wordpress.com)
+ - date_published: 2024-08-19T04:44:19.945848+00:00
+
+ ## the paris apartment
+ - [http://parisapartment.wordpress.com](http://parisapartment.wordpress.com)
+ - date_published: 2024-06-30T11:04:03.526398+00:00
+
+ ## Dr Paris Buttfield-Addison
+ - [https://parisba.wordpress.com](https://parisba.wordpress.com)
+ - date_published: 2024-07-12T22:09:53.392388+00:00
+
+ ## (pas de titre)
+ - [https://paritazi.wordpress.com](https://paritazi.wordpress.com)
+ - date_published: 2024-10-26T21:44:33.565373+00:00
+
+ ## Parker Gallant Energy Perspectives
+ - [https://parkergallantenergyperspectivesblog.wordpress.com](https://parkergallantenergyperspectivesblog.wordpress.com)
+ - date_published: 2024-09-16T21:00:05.283694+00:00
+
+ ## parkingticketpunditry
+ - [http://parkingticketpunditry.wordpress.com](http://parkingticketpunditry.wordpress.com)
+ - date_published: 2024-06-20T05:11:59.972465+00:00
+
+ ## parkouss's blog
+ - [https://parkouss.wordpress.com](https://parkouss.wordpress.com)
+ - date_published: 2024-07-07T10:31:44.981632+00:00
+
+ ## Teenagers Fashion
+ - [http://parodycentrum.wordpress.com](http://parodycentrum.wordpress.com)
+ - date_published: 2024-06-30T04:30:55.671325+00:00
+
+ ## High Energy PhDs
+ - [http://particlephd.wordpress.com](http://particlephd.wordpress.com)
+ - date_published: 2024-10-19T07:30:28.539457+00:00
+
+ ## partnering with eagles
+ - [http://partneringwitheagles.wordpress.com](http://partneringwitheagles.wordpress.com)
+ - date_published: 2024-09-03T22:54:53.000302+00:00
+
+ ## ACParucker
+ - [https://parucker.wordpress.com](https://parucker.wordpress.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Pascal Naber
+ - [https://pascalnaber.wordpress.com](https://pascalnaber.wordpress.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Pasco Phronesis
+ - [http://pascophronesis.wordpress.com](http://pascophronesis.wordpress.com)
+ - date_published: 2024-10-29T18:45:58.344896+00:00
+
+ ## Passive Vision
+ - [https://passivevision.wordpress.com](https://passivevision.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The Pastor Abides
+ - [https://pastorabides.wordpress.com](https://pastorabides.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## ग़ज़ल , कविताएं , कहानियां । (हिंदी)
+ - [http://patelsachin846.wordpress.com](http://patelsachin846.wordpress.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## HOME
+ - [https://patfolios.wordpress.com](https://patfolios.wordpress.com)
+ - date_published: 2024-07-04T16:45:41.648799+00:00
+
+ ## Path to the Possible
+ - [http://pathtothepossible.wordpress.com](http://pathtothepossible.wordpress.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Private Site
+ - [https://patientpowernow.wordpress.com](https://patientpowernow.wordpress.com)
+ - date_published: 2024-06-20T04:22:32.619974+00:00
+
+ ## Patient Voices: Historical and Ethical Engagement with Patient Experiences of Healthcare, 1850–1948
+ - [https://patientvoices.wordpress.com](https://patientvoices.wordpress.com)
+ - date_published: 2024-10-29T18:27:56.602876+00:00
+
+ ## patrickgoff1
+ - [http://patrickgoff1.wordpress.com](http://patrickgoff1.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Patrick T. Brown, PhD
+ - [https://patricktbrown.wordpress.com](https://patricktbrown.wordpress.com)
+ - date_published: 2024-05-08T11:32:47.071797+00:00
+
+ ## Pattern and Branch
+ - [https://patternandbranch.wordpress.com](https://patternandbranch.wordpress.com)
+ - date_published: 2024-07-10T03:36:07.474543+00:00
+
+ ## pattern scissors cloth
+ - [https://patternscissorscloth.wordpress.com](https://patternscissorscloth.wordpress.com)
+ - date_published: 2024-07-10T03:38:08.547468+00:00
+
+ ## Patterns in Functional Programming
+ - [https://patternsinfp.wordpress.com](https://patternsinfp.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## PatternVault
+ - [https://patternvault.wordpress.com](https://patternvault.wordpress.com)
+ - date_published: 2024-07-10T03:37:03+00:00
+
+ ## The Will Patterson Notebook
+ - [https://pattersonnotebook.wordpress.com](https://pattersonnotebook.wordpress.com)
+ - date_published: 2024-10-21T15:38:59.170410+00:00
+
+ ## patter
+ - [https://patthomson.wordpress.com](https://patthomson.wordpress.com)
+ - date_published: 2024-05-02T10:13:06.989147+00:00
+
+ ## Paul Bernal's Blog
+ - [https://paulbernal.wordpress.com](https://paulbernal.wordpress.com)
+ - date_published: 2024-10-18T20:58:56.576637+00:00
+
+ ## Chatterbox, Reloaded
+ - [https://pauleveritt.wordpress.com](https://pauleveritt.wordpress.com)
+ - date_published: 2024-06-28T19:54:36+00:00
+
+ ## Green Reading List Blog
+ - [http://paulfr0st.wordpress.com](http://paulfr0st.wordpress.com)
+ - date_published: 2024-10-21T13:43:26.247312+00:00
+
+ ## Northwriter
+ - [https://paulgreci.wordpress.com](https://paulgreci.wordpress.com)
+ - date_published: 2024-10-17T23:10:13.524308+00:00
+
  ## Private Site
  - [http://pauliecannoli.wordpress.com](http://pauliecannoli.wordpress.com)
  - date_published: 2024-07-03T21:50:59.594352+00:00
@@ -3753,260 +4009,4 @@
  ## Survival Sherpa
  - [http://survivalsherpa.wordpress.com](http://survivalsherpa.wordpress.com)
  - date_published: 2024-06-29T05:00:41.183293+00:00
-
- ## Survivor Reborn
- - [https://survivorreborn.wordpress.com](https://survivorreborn.wordpress.com)
- - date_published: 2024-07-09T22:33:25.752016+00:00
-
- ## DIGGING INTO THE PAST
- - [http://susanappleyardwriter.wordpress.com](http://susanappleyardwriter.wordpress.com)
- - date_published: 2024-07-16T21:36:10+00:00
-
- ## Susan J. Crockford - Scientist, Writer
- - [https://susancrockfordcom.wordpress.com](https://susancrockfordcom.wordpress.com)
- - date_published: 2024-06-28T18:38:06.952757+00:00
-
- ## SusanWithPearls
- - [https://susanwithpearls.wordpress.com](https://susanwithpearls.wordpress.com)
- - date_published: 2022-04-08T00:00:00+00:00
-
- ## Susan Young Sewing
- - [http://susanyoungsewing.wordpress.com](http://susanyoungsewing.wordpress.com)
- - date_published: 2024-07-10T03:35:34.795797+00:00
-
- ## The Sushi Chronicles
- - [https://sushichroniclesorg.wordpress.com](https://sushichroniclesorg.wordpress.com)
- - date_published: 2024-08-11T17:56:21.367037+00:00
-
- ## sHoUt wid Suvayu
- - [https://suvayu.wordpress.com](https://suvayu.wordpress.com)
- - date_published: 2024-08-08T18:56:20.164195+00:00
-
- ## WordPress.com — Get a Free Blog Here
- - [https://svbhallofshame.wordpress.com](https://svbhallofshame.wordpress.com)
- - date_published: 2023-10-25T18:17:06.723148+00:00
-
- ## Sven Meier erzählt
- - [http://sven2204.wordpress.com](http://sven2204.wordpress.com)
- - date_published: 2024-06-30T04:13:50.978611+00:00
-
- ## Sauropod Vertebra Picture of the Week
- - [https://svpow.wordpress.com](https://svpow.wordpress.com)
- - date_published: 2024-05-12T05:52:47.320492+00:00
-
- ## South West Coast Path
- - [http://swcpath.wordpress.com](http://swcpath.wordpress.com)
- - date_published: 2024-10-21T23:02:17.468438+00:00
-
- ## WordPress.com
- - [https://swedishrefugee.wordpress.com](https://swedishrefugee.wordpress.com)
- - date_published: 2024-05-12T06:24:31.190440+00:00
-
- ## swiftgirlathletics
- - [https://swiftgirlathletics.wordpress.com](https://swiftgirlathletics.wordpress.com)
- - date_published: 2024-10-21T13:39:18.328983+00:00
-
- ## His Futile Preoccupations .....
- - [https://swiftlytiltingplanet.wordpress.com](https://swiftlytiltingplanet.wordpress.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Swimming against the tide
- - [https://swimmingagainstthetide.wordpress.com](https://swimmingagainstthetide.wordpress.com)
- - date_published: 2024-10-21T14:18:06.729427+00:00
-
- ## Swindon Anarchist Group (SwAG)
- - [http://swindonanarchistgroup.wordpress.com](http://swindonanarchistgroup.wordpress.com)
- - date_published: 2024-08-19T22:12:54.136536+00:00
-
- ## Angular Switzerland
- - [https://swissangular.wordpress.com](https://swissangular.wordpress.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Thews You Can Use
- - [https://swordandsorcerynews.wordpress.com](https://swordandsorcerynews.wordpress.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## WordPress, Your Way
- - [http://s.wordpress.com](http://s.wordpress.com)
- - date_published: 2024-06-26T23:56:25.337435+00:00
-
- ## Swords, Sorcery, Sandals and Space
- - [https://swordssorcerysandalsspace.wordpress.com](https://swordssorcerysandalsspace.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Leeds Socialist Workers Party
- - [http://swpleeds.wordpress.com](http://swpleeds.wordpress.com)
- - date_published: 2024-10-21T18:47:17.145971+00:00
-
- ## Shit You Didn't Know About Biology
- - [http://sydkab.wordpress.com](http://sydkab.wordpress.com)
- - date_published: 2024-10-21T17:29:49.233243+00:00
-
- ## Sylheti Project - SOAS in Camden
- - [https://sylhetiproject.wordpress.com](https://sylhetiproject.wordpress.com)
- - date_published: 2024-07-02T10:17:28.793759+00:00
-
- ## Kuo's Gulch
- - [https://sylvesterkuo.wordpress.com](https://sylvesterkuo.wordpress.com)
- - date_published: 2024-10-31T22:47:12.867149+00:00
-
- ## sylvy's mathsy blog
- - [https://sylvyanscombe.wordpress.com](https://sylvyanscombe.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## SymOmega
- - [https://symomega.wordpress.com](https://symomega.wordpress.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Symplectic Field Theorist
- - [http://symplecticfieldtheorist.wordpress.com](http://symplecticfieldtheorist.wordpress.com)
- - date_published: 2024-06-30T08:53:29.933948+00:00
-
- ## Symptomatic Commentary
- - [https://symptomaticcommentary.wordpress.com](https://symptomaticcommentary.wordpress.com)
- - date_published: 2024-10-21T17:09:19.368566+00:00
-
- ## Syncopated Eyeball
- - [http://syncopatedeyeball.wordpress.com](http://syncopatedeyeball.wordpress.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Data.Syntaxfree
- - [https://syntaxfree.wordpress.com](https://syntaxfree.wordpress.com)
- - date_published: 2024-07-11T07:53:41.383278+00:00
-
- ## Synthèse
- - [https://synthese.wordpress.com](https://synthese.wordpress.com)
- - date_published: 2024-05-07T16:03:41.522980+00:00
-
- ## Synthetic Assets
- - [https://syntheticassets.wordpress.com](https://syntheticassets.wordpress.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Synthetic Data for Computer Vision
- - [https://syntheticdata4cv.wordpress.com](https://syntheticdata4cv.wordpress.com)
- - date_published: 2024-08-07T16:26:56.339475+00:00
-
- ## synthnerd
- - [https://synthnerd.wordpress.com](https://synthnerd.wordpress.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Synth Patrol
- - [https://synthpatrol.wordpress.com](https://synthpatrol.wordpress.com)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## The Synthetic Referee
- - [http://synthreferee.wordpress.com](http://synthreferee.wordpress.com)
- - date_published: 2024-10-19T05:58:55.613093+00:00
-
- ## synthtech
- - [https://synthtech.wordpress.com](https://synthtech.wordpress.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Systems Community of Inquiry
- - [https://syscoi.wordpress.com](https://syscoi.wordpress.com)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## systemd-free linux community | we follow the development of linux away from systemd
- - [https://sysdfree.wordpress.com](https://sysdfree.wordpress.com)
- - date_published: 2023-10-25T18:17:10.476195+00:00
-
- ## System Folder
- - [https://systemfolder.wordpress.com](https://systemfolder.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Systemic Failure
- - [https://systemicfailure.wordpress.com](https://systemicfailure.wordpress.com)
- - date_published: 2024-05-06T22:56:22.185851+00:00
-
- ## Social Systems Theory
- - [https://systemstheorysite.wordpress.com](https://systemstheorysite.wordpress.com)
- - date_published: 2024-06-30T11:08:05.937609+00:00
-
- ## Tibor's space
- - [https://szatyor2693.wordpress.com](https://szatyor2693.wordpress.com)
- - date_published: 2024-10-31T22:50:24.928091+00:00
-
- ## Szczeżuja log
- - [https://szczezuja.wordpress.com](https://szczezuja.wordpress.com)
- - date_published: 2024-07-03T06:30:19+00:00
-
- ## Competition Law: a view from Hungary
- - [http://szilagyipal.wordpress.com](http://szilagyipal.wordpress.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Table Standard
- - [https://tablestandard.wordpress.com](https://tablestandard.wordpress.com)
- - date_published: 2024-07-11T15:27:24+00:00
-
- ## Tabletop Crusader
- - [https://tabletopcrusader.wordpress.com](https://tabletopcrusader.wordpress.com)
- - date_published: 2024-10-26T16:12:58.021786+00:00
-
- ## Table Top Games UK
- - [https://tabletopgamersuk.wordpress.com](https://tabletopgamersuk.wordpress.com)
- - date_published: 2024-10-26T21:33:31.903504+00:00
-
- ## The Armourers Bench
- - [https://tabuksite.wordpress.com](https://tabuksite.wordpress.com)
- - date_published: 2024-06-21T09:41:28.899662+00:00
-
- ## tabula rasa
- - [http://tabularasa0.wordpress.com](http://tabularasa0.wordpress.com)
- - date_published: 2024-06-30T04:26:48.164676+00:00
-
- ## Taccuino di traduzione 2.0
- - [http://taccuinoditraduzione.wordpress.com](http://taccuinoditraduzione.wordpress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Taco Cohen
- - [https://tacocohen.wordpress.com](https://tacocohen.wordpress.com)
- - date_published: 2024-06-29T08:25:23.625137+00:00
-
- ## tacticalprofessor
- - [https://tacticalprofessor.wordpress.com](https://tacticalprofessor.wordpress.com)
- - date_published: 2024-06-21T09:50:58.953339+00:00
-
- ## takacsgergoe
- - [https://takacsgergoe.wordpress.com](https://takacsgergoe.wordpress.com)
- - date_published: 2024-05-12T06:24:25.308213+00:00
-
- ## Takatsu・タカツ
- - [https://takatsu.wordpress.com](https://takatsu.wordpress.com)
- - date_published: 2024-06-29T21:25:54.793218+00:00
-
- ## Taking Sense Away
- - [https://takingsenseaway.wordpress.com](https://takingsenseaway.wordpress.com)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Tales from The Ashen Stair
- - [https://talesfromtheashenstair.wordpress.com](https://talesfromtheashenstair.wordpress.com)
- - date_published: 2024-10-26T21:28:41.895065+00:00
-
- ## Tales From The Lead Pile
- - [https://talesfromtheleadpile.wordpress.com](https://talesfromtheleadpile.wordpress.com)
- - date_published: 2024-10-31T18:59:29.391911+00:00
-
- ## Tales of One City
- - [https://talesofonecity.wordpress.com](https://talesofonecity.wordpress.com)
- - date_published: 2024-10-21T22:51:39.035641+00:00
-
- ## Tales to Astound!
- - [https://talestoastound.wordpress.com](https://talestoastound.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## taliasplse
- - [https://taliasplse.wordpress.com](https://taliasplse.wordpress.com)
- - date_published: 2024-06-30T09:24:47.811951+00:00
-
- ## taliesinsmandolin
- - [https://taliesinsmandolin.wordpress.com](https://taliesinsmandolin.wordpress.com)
- - date_published: 2024-07-18T17:10:47.606858+00:00
-
- ## Site Title
- - [https://taliterikat.wordpress.com](https://taliterikat.wordpress.com)
- - date_published: 2024-08-20T04:25:39.774386+00:00
-
- ## Talking About the Weather
- - [http://talkingabouttheweather.wordpress.com](http://talkingabouttheweather.wordpress.com)
- - date_published: 2024-06-28T18:49:16.306678+00:00
 

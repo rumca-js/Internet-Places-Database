@@ -25,7 +25,7 @@
  ## Hoarder
  - [https://hoarder.app](https://hoarder.app)
  - date_published: 2024-04-08T19:28:56.756392+00:00
- - tags: ['self-host', 'bookmark manager', 'link aggregator']
+ - tags: ['rss client', 'self-host', 'link aggregator', 'bookmark manager']
 
  ## Hoarder
  - [https://try.hoarder.app](https://try.hoarder.app)
@@ -948,6 +948,10 @@
  ## Matrices
  - [https://www.matrices.app](https://www.matrices.app)
  - date_published: 2024-08-19T08:13:15.317359+00:00
+
+ ## Marvel HQ Published by StoryToys
+ - [https://api.fitt.matterhorn.app](https://api.fitt.matterhorn.app)
+ - date_published: 2024-11-26T08:48:54.233220+00:00
 
  ## Mava - Customer Support for Communities
  - [https://mava.app](https://mava.app)
@@ -3190,6 +3194,10 @@
  - [https://picnic.app](https://picnic.app)
  - date_published: 2024-04-05T00:00:00+00:00
 
+ ## Pieces for JetBrains Plugin: Enhance Your Development Workflow
+ - [https://beta.docs.pieces.app](https://beta.docs.pieces.app)
+ - date_published: 2024-11-26T06:31:46.598883+00:00
+
  ## Docs | Pieces for Developers
  - [https://docs.pieces.app](https://docs.pieces.app)
  - date_published: 2024-10-22T20:45:01+00:00
@@ -4031,13 +4039,4 @@
  ## Sequels - SQL Notebook for macOS
  - [https://sequels.app](https://sequels.app)
  - date_published: 2024-08-11T17:24:41.099190+00:00
-
- ## Open source, self-hosted bookmark manager
- - [https://servas.app](https://servas.app)
- - date_published: 2024-11-18T20:22:30+00:00
- - tags: ['self-host', 'bookmark manager']
-
- ## ServicePlanner :: Ministry & Field Service App
- - [https://serviceplanner.app](https://serviceplanner.app)
- - date_published: 2024-07-09T15:51:29.287371+00:00
 

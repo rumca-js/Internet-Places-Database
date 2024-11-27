@@ -1,3 +1,366 @@
+ ## N + 1 — главное издание о науке, технике и технологиях
+ - [https://staticn1.nplus1.ru](https://staticn1.nplus1.ru)
+ - date_published: 2024-08-07T15:26:19.475484+00:00
+
+ ## ПАО «ОДК-Сатурн»
+ - [http://www.npo-saturn.ru](http://www.npo-saturn.ru)
+ - date_published: 2024-07-09T21:59:46.647111+00:00
+
+ - [https://old.math.nsc.ru](https://old.math.nsc.ru)
+ - date_published: 2024-02-06T07:00:43.931591+00:00
+
+ ## СО РАН
+ - [http://www-sbras.nsc.ru](http://www-sbras.nsc.ru)
+ - date_published: 2024-07-08T18:51:56.045820+00:00
+
+ ## Недвижимость и строительство Петербурга – online-газета NSP.RU
+ - [http://www.nsp.ru](http://www.nsp.ru)
+ - date_published: 2024-10-22T16:05:48.827237+00:00
+
+ ## Neo SPCC
+ - [https://nspcc.ru](https://nspcc.ru)
+ - date_published: 2024-07-27T06:17:14.118940+00:00
+
+ ## НТВ.Ru // Новости, видео, передачи и сериалы НТВ, прямой эфир и телепрограмма
+ - [https://www.ntv.ru](https://www.ntv.ru)
+ - date_published: 2024-06-21T14:39:37.360435+00:00
+
+ ## НВА Центр | Разработка и интеграция ИС и ПО
+ - [https://nvacenter.ru](https://nvacenter.ru)
+ - date_published: 2024-06-21T14:56:03.530713+00:00
+
+ ## ОБД Мемориал
+ - [http://obd-memorial.ru](http://obd-memorial.ru)
+ - date_published: 2024-07-16T23:02:02.859650+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://obrazovaniestr.ru](https://obrazovaniestr.ru)
+ - date_published: 2024-09-10T11:51:36.373053+00:00
+
+ ## CAFM система ODIN - индустриальный стандарт автоматизации управления и эксплуатации недвижимости.
+ - [https://o-din.ru](https://o-din.ru)
+ - date_published: 2024-10-22T15:48:16.846085+00:00
+
+ ## ODIN.Start - программа для управления недвижимостью класса CAFM CMMS.
+ - [https://start.o-din.ru](https://start.o-din.ru)
+ - date_published: 2024-10-22T15:48:31.091099+00:00
+
+ ## OK social network. Communication with friends on OK. Your meeting place with classmates
+ - [http://www.odnoklassniki.ru](http://www.odnoklassniki.ru)
+ - date_published: 2024-07-19T19:54:21.158082+00:00
+
+ ## Дизайн офисов, отелей, образовательных и других общественных пространств
+ - [https://www.officenext.ru](https://www.officenext.ru)
+ - date_published: 2024-10-22T16:04:46.124002+00:00
+
+ ## Pinoy TV - Pinoy Tambayan - Pinoy network - Pinoy Teleserye - Pinoy Movies
+ - [https://ofwshow.ru](https://ofwshow.ru)
+ - date_published: 2024-11-12T17:21:04.603928+00:00
+
+ ## Охотничий интернет-магазин «ОхотАктив» — купить огнестрельное оружие, экипировку и товары для охоты в Москве
+ - [https://ohotaktiv.ru](https://ohotaktiv.ru)
+ - date_published: 2024-06-21T08:28:24+00:00
+
+ ## Одноклассники API: ОК для сайтов
+ - [https://connect.ok.ru](https://connect.ok.ru)
+ - date_published: 2024-05-01T07:46:46.710771+00:00
+
+ ## OK social network. Communication with friends on OK. Your meeting place with classmates.
+ - [https://m.ok.ru](https://m.ok.ru)
+ - date_published: 2024-07-08T08:48:06.996963+00:00
+
+ ## OK social network. Communication with friends on OK. Your meeting place with classmates
+ - [https://ok.ru](https://ok.ru)
+ - date_published: 2024-04-29T05:49:06.463029+00:00
+ - tags: ['social platform']
+
+ ## Old-Games.RU Скачать старые игры. Постоянно пополняемый архив со старыми компьютерными играми.
+ - [https://www.old-games.ru](https://www.old-games.ru)
+ - date_published: 2024-08-18T09:36:02.323727+00:00
+
+ ## Олимпийский комитет России
+ - [https://olympic.ru](https://olympic.ru)
+ - date_published: 2024-07-12T15:07:32.782244+00:00
+
+ ## Домен припаркован в Timeweb
+ - [http://omake.ru](http://omake.ru)
+ - date_published: 2014-04-16T07:06:24+00:00
+
+ ## Омнидеск — сервис для поддержки и общения с клиентами
+ - [https://omnidesk.ru](https://omnidesk.ru)
+ - date_published: 2024-09-25T16:24:29.426733+00:00
+
+ ## Открытая мобильная платформа — официальный сайт
+ - [http://omp.ru](http://omp.ru)
+ - date_published: 2024-08-01T12:57:02+00:00
+
+ ## Главная страница | Портал разработчиков ОС Аврора
+ - [https://community.omprussia.ru](https://community.omprussia.ru)
+ - date_published: 2024-06-13T16:59:04.939233+00:00
+
+ ## index redirect
+ - [https://cve.omprussia.ru](https://cve.omprussia.ru)
+ - date_published: 2023-11-12T16:38:49+00:00
+
+ ## One.Ru - Виртуальные Миры
+ - [https://one.ru](https://one.ru)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Бесплатные виртуальные номера для приема СМС, получения активации сервисов и аренды мобильного телефона
+ - [https://onlinesim.ru](https://onlinesim.ru)
+ - date_published: 2024-06-23T18:04:33+00:00
+
+ ## Электронные книги ONYX BOOX
+ - [https://onyx-boox.ru](https://onyx-boox.ru)
+ - date_published: 2024-07-19T22:48:26.673574+00:00
+
+ ## Открытая Сеть Продуктов
+ - [https://openfoodnetwork.ru](https://openfoodnetwork.ru)
+ - date_published: 2024-10-31T03:28:31.366324+00:00
+
+ ## OpenWiki
+ - [https://wiki.opennet.ru](https://wiki.opennet.ru)
+ - date_published: 2020-08-18T16:40:46+00:00
+
+ ## Проект OpenNet - всё, что связано с открытым ПО, открытыми технологиями, Linux, BSD и Unix
+ - [https://www.opennet.ru](https://www.opennet.ru)
+ - date_published: 2024-06-21T14:52:23.815223+00:00
+
+ ## Интернет-супермаркет Opticzone
+ - [https://opticzone.ru](https://opticzone.ru)
+ - date_published: 2024-07-13T13:24:20.566325+00:00
+
+ ## Интернет-магазин детской и подростковой одежды, обуви и аксессуаров | Купить качественную, брендовую одежду для детей от российского производителя Orby
+ - [https://orby.ru](https://orby.ru)
+ - date_published: 2024-06-29T13:36:23.835942+00:00
+
+ ## Amiga Information Center - Информационный центр Амига в России
+ - [http://amiga.org.ru](http://amiga.org.ru)
+ - date_published: 2024-07-08T20:21:35+00:00
+ - tags: ['amiga']
+
+ ## AmiRUS
+ - [http://amirus.org.ru](http://amirus.org.ru)
+ - date_published: 2023-12-11T19:10:07.464611+00:00
+
+ ## Русскоязычное Сообщество Arch Linux
+ - [https://archlinux.org.ru](https://archlinux.org.ru)
+ - date_published: 2024-09-02T12:11:29.897485+00:00
+
+ ## Компьютерный Фестиваль в Казани - CAFe DEMOPARTY 2022
+ - [http://cafeparty.org.ru](http://cafeparty.org.ru)
+ - date_published: 2024-09-04T11:12:13.939385+00:00
+
+ ## Ural Mathematical Center
+ - [http://ics.org.ru](http://ics.org.ru)
+ - date_published: 2024-05-07T15:42:38.428774+00:00
+
+ ## Russian Journal of Nonlinear Dynamics
+ - [http://nd.ics.org.ru](http://nd.ics.org.ru)
+ - date_published: 2024-06-30T07:12:02.727187+00:00
+
+ ## Regular and Chaotic Dynamics
+ - [http://rcd.ics.org.ru](http://rcd.ics.org.ru)
+ - date_published: 2024-06-30T07:11:54.462989+00:00
+
+ ## Вестник Удмуртского университета. Математика. Механика. Компьютерные науки
+ - [http://vst.ics.org.ru](http://vst.ics.org.ru)
+ - date_published: 2024-06-30T07:12:05.306507+00:00
+
+ ## DiHalt demoparty:::Новости
+ - [http://www.dihalt.org.ru](http://www.dihalt.org.ru)
+ - date_published: 2024-08-18T10:55:11.504176+00:00
+
+ ## * Главная - [RuFIG]
+ - [http://www.forth.org.ru](http://www.forth.org.ru)
+ - date_published: 2015-06-20T14:14:00+00:00
+
+ ## LINUX.ORG.RU — Русская информация об ОС Linux
+ - [https://www.linux.org.ru](https://www.linux.org.ru)
+ - date_published: 2024-06-20T17:59:07+00:00
+
+ ## Языки народов России в Интернете
+ - [http://www.peoples.org.ru](http://www.peoples.org.ru)
+ - date_published: 2024-06-30T07:23:47.808402+00:00
+
+ ## George Orwell - Eric Arthur Blair. Novels. Essays. Articles. Reviews. Biography. Bibliography.
+ - [https://orwell.ru](https://orwell.ru)
+ - date_published: 2020-01-07T16:23:04+00:00
+ - tags: ['george orwell']
+
+ ## Современный русский - Международный информационно-просветительский проект
+ - [https://www.oshibok-net.ru](https://www.oshibok-net.ru)
+ - date_published: 2024-05-06T20:45:12.795074+00:00
+
+ ## OpenStreetMap Authentication Proxy
+ - [https://2012.osmz.ru](https://2012.osmz.ru)
+ - date_published: 2024-01-09T03:46:14.389984+00:00
+
+ ## OSM Радио
+ - [http://radio.osmz.ru](http://radio.osmz.ru)
+ - date_published: 2024-07-08T12:52:43.473456+00:00
+
+ ## Открытые Технологии
+ - [http://www.ot.ru](http://www.ot.ru)
+ - date_published: 2024-06-21T14:54:26.318149+00:00
+
+ ## Otbivnoe's blog
+ - [https://otbivnoe.ru](https://otbivnoe.ru)
+ - date_published: 2024-02-25T04:27:42+00:00
+
+ ## Бронирование отелей и гостиниц в России — Отелло
+ - [https://otello.ru](https://otello.ru)
+ - date_published: 2024-09-11T17:26:35.027100+00:00
+
+ ## Играйте бесплатно в игры на ourgames.ru
+ - [https://www.ourgames.ru](https://www.ourgames.ru)
+ - date_published: 2024-07-20T02:43:40.073044+00:00
+
+ ## Antibot Challenge Page
+ - [https://ozon.ru](https://ozon.ru)
+ - date_published: 2024-06-15T19:06:21.752650+00:00
+
+ ## Website pamreplica.ru is ready. The content is to be added
+ - [https://www.pamreplica.ru](https://www.pamreplica.ru)
+ - date_published: 2024-06-27T06:36:22.916960+00:00
+
+ ## Память народа::Подлинные документы о Второй Мировой войне
+ - [http://pamyat-naroda.ru](http://pamyat-naroda.ru)
+ - date_published: 2024-07-16T23:02:00.394496+00:00
+
+ ## Международная выставка оборудования и технологий для обустройства и эксплуатации парковочного пространства
+ - [https://parking-expo.ru](https://parking-expo.ru)
+ - date_published: 2024-10-22T16:04:06.559707+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.pastgames.ru](https://www.pastgames.ru)
+ - date_published: 2024-07-01T10:27:44.039905+00:00
+
+ ## Сайт про автомобили Hyundai - vHyundai.ru
+ - [http://patekphilippereplica.ru](http://patekphilippereplica.ru)
+ - date_published: 2024-04-03T10:51:38+00:00
+
+ ## 75-летие Святейшего Патриарха Кирилла / Патриархия.ru
+ - [http://75.patriarchia.ru](http://75.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:59.351883+00:00
+
+ ## В защиту единства Русской Церкви / Патриархия.ru
+ - [http://edinstvo.patriarchia.ru](http://edinstvo.patriarchia.ru)
+ - date_published: 2024-10-18T22:45:25.932876+00:00
+
+ ## Летопись епархиальной жизни / Патриархия.ru
+ - [http://eparchia.patriarchia.ru](http://eparchia.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:37.030284+00:00
+
+ ## Русская Церковь в фотографиях
+ - [http://foto.patriarchia.ru](http://foto.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:04.905921+00:00
+
+ ## Официальная карта храмов Русской Православной Церкви / Патриархия.ru
+ - [http://map.patriarchia.ru](http://map.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:11.185660+00:00
+
+ ## Официальный сайт Русской Православной Церкви / Патриархия.ru
+ - [http://p2.patriarchia.ru](http://p2.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:57.703714+00:00
+
+ ## Архиерейский Собор Русской Православной Церкви / Патриархия.ru
+ - [http://sobor.patriarchia.ru](http://sobor.patriarchia.ru)
+ - date_published: 2024-10-18T22:44:45.228426+00:00
+
+ ## Официальный сайт Русской Православной Церкви / Тысячелетие преставления равноапостольного князя Владимира
+ - [http://vladimir.patriarchia.ru](http://vladimir.patriarchia.ru)
+ - date_published: 2024-10-18T22:43:56.702715+00:00
+
+ ## Официальный сайт Русской Православной Церкви / Патриархия.ru
+ - [http://www.patriarchia.ru](http://www.patriarchia.ru)
+ - date_published: 2024-06-17T11:17:38.665014+00:00
+
+ ## Как включить кнопку пуск в Windows 8, Windows 10, возврат меню "Пуск" в 8
+ - [http://pby.ru](http://pby.ru)
+ - date_published: 2024-07-20T19:55:19.638767+00:00
+
+ ## Penetration test lab "Test lab" | Pentestit
+ - [https://lab.pentestit.ru](https://lab.pentestit.ru)
+ - date_published: 2024-06-19T22:41:50.767649+00:00
+
+ ## Pentestit | Информационная безопасность
+ - [https://pentestit.ru](https://pentestit.ru)
+ - date_published: 2024-10-31T06:57:23.859360+00:00
+
+ ## PepperTeam
+ - [http://pepperteam.ru](http://pepperteam.ru)
+ - date_published: 2024-07-13T15:02:42.779401+00:00
+
+ ## ФИЛОЛОГ_PHILOLOG
+ - [http://philolog.petrsu.ru](http://philolog.petrsu.ru)
+ - date_published: 2024-04-11T13:18:05+00:00
+
+ ## PGStart
+ - [https://pgstart.ru](https://pgstart.ru)
+ - date_published: 2024-04-25T13:32:14+00:00
+
+ ## Экологичные решения для светодиодного освещения | Philips lighting
+ - [https://www.lighting.philips.ru](https://www.lighting.philips.ru)
+ - date_published: 2024-10-30T16:27:37+00:00
+
+ ## Philips - представительство в России
+ - [https://www.philips.ru](https://www.philips.ru)
+ - date_published: 2024-06-18T17:41:54+00:00
+
+ ## Philology.ru - Русский филологический портал
+ - [http://www.philology.ru](http://www.philology.ru)
+ - date_published: 2024-06-30T07:24:47.266027+00:00
+
+ ## Женский угодник
+ - [https://www.phoenix-suns.ru](https://www.phoenix-suns.ru)
+ - date_published: 2024-06-12T13:11:19.826762+00:00
+
+ ## Пикабу — Горячее
+ - [https://cs15.pikabu.ru](https://cs15.pikabu.ru)
+ - date_published: 2024-07-10T02:28:12.695345+00:00
+
+ ## Пикабу — Горячее
+ - [https://pikabu.ru](https://pikabu.ru)
+ - date_published: 2024-07-10T02:33:55.162703+00:00
+
+ ## Pinterest
+ - [https://pinterest.ru](https://pinterest.ru)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Российская платформа Планета | IBS
+ - [https://planetaibs.ru](https://planetaibs.ru)
+ - date_published: 2024-06-21T14:54:49.470336+00:00
+
+ ## Купить мобильный цифровой планетарий и оборудование для надувного планетария - Планетарик
+ - [http://www.planetarik.ru](http://www.planetarik.ru)
+ - date_published: 2024-07-08T15:23:23.898398+00:00
+
+ ## PlayGround.ru - компьютерные игры
+ - [https://playground.ru](https://playground.ru)
+ - date_published: 2024-10-18T03:49:37.277951+00:00
+ - tags: ['movies', 'video games', 'news']
+
+ ## Интернет-магазин цифровой и бытовой техники Плеер.Ру: смартфоны, ноутбуки, комплектующие для ПК, планшеты
+ - [https://www.pleer.ru](https://www.pleer.ru)
+ - date_published: 2024-07-13T13:24:28.218786+00:00
+
+ ## Pleistocene Park
+ - [https://pleistocenepark.ru](https://pleistocenepark.ru)
+ - date_published: 2024-06-19T18:33:33.859738+00:00
+
+ ## Xilinx Россия. Официальный сайт
+ - [http://plis2.ru](http://plis2.ru)
+ - date_published: 2023-05-25T00:00:00+00:00
+
+ ## POLFIRMS каталог польских промышленных компаний фирм производителей
+ - [http://www.polfirms.ru](http://www.polfirms.ru)
+ - date_published: 2023-09-30T14:41:52+00:00
+
+ ## Index of /
+ - [http://zalchem.polfirms.ru](http://zalchem.polfirms.ru)
+ - date_published: 2024-08-11T19:13:26.983399+00:00
+
  ## TechInsider - новости науки и техники: новые технологии, наука, оружие, авиация, космос, автомобили
  - [https://www.popmech.ru](https://www.popmech.ru)
  - date_published: 2024-06-25T18:52:42.911711+00:00
@@ -3659,366 +4022,4 @@
  ## Post-Industrial Design School
  - [https://postindustrialdesign.school](https://postindustrialdesign.school)
  - date_published: 2024-04-30T06:35:16.514058+00:00
-
- ## ProtoSchool | Interactive tutorials on decentralized web protocols
- - [https://proto.school](https://proto.school)
- - date_published: 2024-09-06T21:51:49.366568+00:00
-
- ## Summer School ReAnimate
- - [https://reanimate.school](https://reanimate.school)
- - date_published: 2024-07-14T12:26:15.409095+00:00
-
- ## Home
- - [https://rune.school](https://rune.school)
- - date_published: 2024-07-30T04:09:08+00:00
-
- ## Typomania School. Онлайн-школа дизайна
- - [https://typomania.school](https://typomania.school)
- - date_published: 2024-07-12T08:03:56+00:00
-
- ## World-class Designer
- - [https://blog.wcd.school](https://blog.wcd.school)
- - date_published: 2024-08-11T22:23:42.823765+00:00
-
- ## Write of Passage
- - [https://take.writeofpassage.school](https://take.writeofpassage.school)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Write of Passage
- - [https://writeofpassage.school](https://writeofpassage.school)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Schwarz Gruppe
- - [https://gruppe.schwarz](https://gruppe.schwarz)
- - date_published: 2024-05-06T17:32:17.603223+00:00
-
- ## Schwarz IT KG
- - [https://it.schwarz](https://it.schwarz)
- - date_published: 2024-06-25T19:02:50.238922+00:00
-
- ## Anonymous GitHub
- - [https://anonymous.4open.science](https://anonymous.4open.science)
- - date_published: 2024-04-05T00:03:02+00:00
-
- ## 8-bit Nintendo Science
- - [https://8bitnintendo.science](https://8bitnintendo.science)
- - date_published: 2024-07-23T23:45:38.119741+00:00
-
- ## The Tianjing Guidelines for Biosecurity | Advancing biosecurity together.
- - [https://advancingbiosecurity.science](https://advancingbiosecurity.science)
- - date_published: 2024-06-17T10:47:50.031738+00:00
-
- ## Alfasoft – Software, Solutions, Service for Research, Science and Engineering
- - [https://alfasoft.science](https://alfasoft.science)
- - date_published: 2024-07-09T18:04:06.506730+00:00
-
- ## Amazon Science homepage
- - [https://amazon.science](https://amazon.science)
- - date_published: 2023-10-25T22:36:50.957929+00:00
- - tags: ['artificial intelligence', 'machine learning']
-
- ## BlockScience
- - [https://block.science](https://block.science)
- - date_published: 2024-09-23T13:31:47.377659+00:00
-
- ## Catgirls for Science
- - [https://mk.catgirlsfor.science](https://mk.catgirlsfor.science)
- - date_published: 2024-07-15T06:33:49.315621+00:00
-
- ## Underwater photography by Alexander Semenov
- - [http://coldwater.science](http://coldwater.science)
- - date_published: 2018-01-29T00:00:00+00:00
-
- ## Community Data Science Collective
- - [https://blog.communitydata.science](https://blog.communitydata.science)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## CommunityData
- - [https://communitydata.science](https://communitydata.science)
- - date_published: 2024-04-30T05:44:43.872583+00:00
-
- ## CommunityData
- - [https://wiki.communitydata.science](https://wiki.communitydata.science)
- - date_published: 2024-04-30T05:44:38.686800+00:00
-
- ## Homepage - International Science Council - International Science Council
- - [https://council.science](https://council.science)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## vlad dumitru
- - [https://dumitru.science](https://dumitru.science)
- - date_published: 2023-06-04T16:16:31+00:00
-
- ## Edoardo Debenedetti
- - [https://edoardo.science](https://edoardo.science)
- - date_published: 2024-10-20T13:28:28+00:00
-
- ## Fruit or Vegetable?
- - [https://fruitorvegetable.science](https://fruitorvegetable.science)
- - date_published: 2024-08-18T22:54:29.982112+00:00
-
- ## Gonzales.Science
- - [https://gonzales.science](https://gonzales.science)
- - date_published: 2023-10-25T22:36:52.362938+00:00
-
- ## CS 515-A Fundamentals of Computing — CS 515-A  documentation
- - [https://cs515s2024.greenberg.science](https://cs515s2024.greenberg.science)
- - date_published: 2024-01-16T16:36:01+00:00
-
- ## mgreenbe(1) - Michael Greenberg - Assistant Professor - Stevens Institute of Technology
- - [https://greenberg.science](https://greenberg.science)
- - date_published: 2024-06-10T10:17:50+00:00
-
- ## About HAL
- - [https://about.hal.science](https://about.hal.science)
- - date_published: 2024-06-11T14:29:42+00:00
-
- ## index - CEA - Commissariat à l’énergie atomique et aux énergies alternatives
- - [https://cea.hal.science](https://cea.hal.science)
- - date_published: 2024-08-19T16:23:47.385763+00:00
-
- ## index - CNRS - Centre national de la recherche scientifique
- - [https://cnrs.hal.science](https://cnrs.hal.science)
- - date_published: 2024-06-22T09:18:49.363244+00:00
-
- ## Documentation
- - [https://doc.hal.science](https://doc.hal.science)
- - date_published: 2024-07-02T06:12:59+00:00
-
- ## Home - Archive ouverte HAL
- - [https://hal.science](https://hal.science)
- - date_published: 2023-10-25T22:36:53.471421+00:00
-
- ## index - Inria - Institut national de recherche en sciences et technologies du numérique
- - [https://inria.hal.science](https://inria.hal.science)
- - date_published: 2023-10-25T22:36:55.663290+00:00
-
- ## index - INSU - Institut national des sciences de l'Univers
- - [https://insu.hal.science](https://insu.hal.science)
- - date_published: 2024-08-18T16:35:39.451756+00:00
-
- ## index - MédiHAL
- - [https://media.hal.science](https://media.hal.science)
- - date_published: 2024-06-22T09:18:56.805653+00:00
-
- ## index - HAL-SHS - Sciences de l'Homme et de la Société
- - [https://shs.hal.science](https://shs.hal.science)
- - date_published: 2024-06-22T09:18:44.809126+00:00
-
- ## index - TeLearn
- - [https://telearn.hal.science](https://telearn.hal.science)
- - date_published: 2024-07-13T09:43:52.937338+00:00
-
- ## index - TEL - Thèses en ligne
- - [https://theses.hal.science](https://theses.hal.science)
- - date_published: 2024-06-22T09:18:55.354766+00:00
-
- ## | Halo
- - [https://www.halo.science](https://www.halo.science)
- - date_published: 2024-07-22T05:31:09.310750+00:00
-
- ## Julien Launay -- Adventures in Academia and Beyond
- - [https://lolo.science](https://lolo.science)
- - date_published: 2024-06-30T05:43:33.576955+00:00
-
- ## Matt's Blog
- - [https://matthew.science](https://matthew.science)
- - date_published: 2023-11-13T18:48:07.453796+00:00
-
- ## mstdn.science
- - [http://mstdn.science](http://mstdn.science)
- - date_published: 2023-10-24T20:13:37.539089+00:00
- - tags: ['mastodon']
-
- ## The NeuroAI archive | Patrick Mineault | Substack
- - [https://neuroai.science](https://neuroai.science)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Experiments for Newlyweds: 50 Amazing Science Projects You Can Perform With Your Spouse - by Shaun Gallagher
- - [https://newlywed.science](https://newlywed.science)
- - date_published: 2019-04-02T00:00:00+00:00
-
- ## GOSH Community Forum
- - [https://forum.openhardware.science](https://forum.openhardware.science)
- - date_published: 2024-07-09T08:53:15.484032+00:00
-
- ## Home - Gathering for Open Science Hardware
- - [https://openhardware.science](https://openhardware.science)
- - date_published: 2024-07-07T08:38:24.402744+00:00
-
- ## OSSci
- - [https://opensource.science](https://opensource.science)
- - date_published: 2024-07-02T23:44:34.570786+00:00
-
- ## Pillar Science
- - [https://app.pillar.science](https://app.pillar.science)
- - date_published: 2024-06-07T20:18:06+00:00
-
- ## Plan P - Transform to Open Science
- - [https://planp.science](https://planp.science)
- - date_published: 2024-10-12T23:32:13.793707+00:00
-
- ## My Adventures
- - [https://blog.praveen.science](https://blog.praveen.science)
- - date_published: 2024-07-13T08:00:46.902530+00:00
-
- ## Prophy
- - [https://blog.prophy.science](https://blog.prophy.science)
- - date_published: 2024-07-07T03:10:30.983032+00:00
-
- ## Semantic Solutions for Research, Review, and Recruitment
- - [https://prophy.science](https://prophy.science)
- - date_published: 2024-05-08T09:02:46.665663+00:00
-
- ## Pump Science
- - [https://pump.science](https://pump.science)
- - date_published: 2024-09-25T16:01:46.238111+00:00
-
- ## Python is dead | A totally legit site based on science
- - [https://pythonisdead.science](https://pythonisdead.science)
- - date_published: 2018-11-01T20:05:48+00:00
-
- ## Real Climate Science
- - [https://realclimate.science](https://realclimate.science)
- - date_published: 2024-09-16T21:24:55+00:00
-
- ## Ruby is dead | A totally legit site based on science
- - [https://rubyisdead.science](https://rubyisdead.science)
- - date_published: 2019-06-16T20:46:03+00:00
-
- ## SANE 🌀 SCIENCE
- - [https://sane.science](https://sane.science)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Shaken Baby Syndrome: Investigating the Abusive Head Trauma Controversy
- - [https://shakenbaby.science](https://shakenbaby.science)
- - date_published: 2023-05-31T07:37:52+00:00
-
- ## College of Natural Sciences : UMass Amherst
- - [https://umass.science](https://umass.science)
- - date_published: 2024-05-07T21:24:15.711317+00:00
-
- ## VIA Research Center | Saarbrücken Research Center for Visual Computing, Interaction and Artificial Intelligence – a strategic partnership of MPI for Informatics and Google
- - [https://www.via-center.science](https://www.via-center.science)
- - date_published: 2024-07-24T05:47:45.624214+00:00
-
- ## Zeng Huang
- - [https://zeng.science](https://zeng.science)
- - date_published: 2023-05-10T21:47:23+00:00
-
- ## ABplace2b
- - [https://www.abplace2b.scot](https://www.abplace2b.scot)
- - date_published: 2024-06-30T01:44:09.982606+00:00
-
- ## Ada Scotland Festival
- - [https://ada.scot](https://ada.scot)
- - date_published: 2024-07-04T18:55:04.845263+00:00
-
- ## Home | Association for Media Education in Scotland
- - [https://ames.scot](https://ames.scot)
- - date_published: 2024-05-07T23:44:13.418509+00:00
-
- ## Land Matters - …the blog and website of Andy Wightman
- - [https://andywightman.scot](https://andywightman.scot)
- - date_published: 2024-10-21T14:06:47.147801+00:00
-
- ## ARAB STRAP
- - [https://www.arabstrap.scot](https://www.arabstrap.scot)
- - date_published: 2024-06-21T08:37:25.900099+00:00
-
- ## Welcome to Broadcasting Scotland - Broadcasting Scotland
- - [https://www.broadcastingscotland.scot](https://www.broadcastingscotland.scot)
- - date_published: 2024-10-21T15:50:13.342988+00:00
-
- ## Home - Bylines Scotland
- - [https://bylines.scot](https://bylines.scot)
- - date_published: 2021-09-06T15:13:38+00:00
-
- ## CommonGood.scot - A national register of Common Good Assets
- - [https://commongood.scot](https://commongood.scot)
- - date_published: 2024-02-07T18:38:12+00:00
-
- ## conway.scot
- - [https://conway.scot](https://conway.scot)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Scottish COVID-19 Inquiry
- - [https://covid19inquiry.scot](https://covid19inquiry.scot)
- - date_published: 2024-06-14T18:44:20.476642+00:00
-
- ## Let's Be Heard | Sharing Scotland's COVID experience
- - [https://lbh.covid19inquiry.scot](https://lbh.covid19inquiry.scot)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Home - For Women Scotland
- - [https://forwomen.scot](https://forwomen.scot)
- - date_published: 2024-10-21T15:50:02.172318+00:00
-
- ## Scottish Games Week
- - [https://gamesweek.scot](https://gamesweek.scot)
- - date_published: 2024-08-11T10:21:30+00:00
-
- ## Blogs
- - [https://blogs.gov.scot](https://blogs.gov.scot)
- - date_published: 2016-04-14T00:00:00+00:00
-
- ## Cost of living crisis
- - [https://costofliving.campaign.gov.scot](https://costofliving.campaign.gov.scot)
- - date_published: 2024-08-05T22:58:44.050613+00:00
-
- ## Home - Forestry and Land Scotland
- - [https://forestryandland.gov.scot](https://forestryandland.gov.scot)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Scottish Government
- - [https://gov.scot](https://gov.scot)
- - date_published: 2024-04-29T04:03:18.592684+00:00
-
- ## statistics.gov.scot Open Data User Guides
- - [https://guides.statistics.gov.scot](https://guides.statistics.gov.scot)
- - date_published: 2024-10-21T10:00:22.469156+00:00
-
- ## statistics.gov.scot
- - [https://statistics.gov.scot](https://statistics.gov.scot)
- - date_published: 2024-06-18T10:41:16.678234+00:00
-
- ## The Scottish Government
- - [https://www2.gov.scot](https://www2.gov.scot)
- - date_published: 2024-10-21T09:43:10.116236+00:00
-
- ## Scottish Culture Online Project Pages
- - [https://projects.handsupfortrad.scot](https://projects.handsupfortrad.scot)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Home
- - [https://portal.historicenvironment.scot](https://portal.historicenvironment.scot)
- - date_published: 2024-06-22T14:20:00.053088+00:00
-
- ## Historic Environment Scotland
- - [https://www.historicenvironment.scot](https://www.historicenvironment.scot)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Alex Stevenson-Price
- - [https://alex.jsp.scot](https://alex.jsp.scot)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## VGN KDY: VegFest2024
- - [https://vgn.kdy.scot](https://vgn.kdy.scot)
- - date_published: 2024-09-08T16:36:32+00:00
-
- ## Gitea: Git with a cup of tea RUN_USER = git RUN_MODE = prod
- - [https://git.kelbie.scot](https://git.kelbie.scot)
- - date_published: 2024-07-10T08:10:31.771545+00:00
-
- ## Jon Kelbie | My Site | jon.kelbie.scot
- - [https://jon.kelbie.scot](https://jon.kelbie.scot)
- - date_published: 2024-05-09T08:05:42.729141+00:00
-
- ## Lean Agile Scotland
- - [https://leanagile.scot](https://leanagile.scot)
- - date_published: 2024-06-19T14:44:34+00:00
-
- ## Marion Boddy-Evans
- - [https://marion.scot](https://marion.scot)
- - date_published: 2024-07-08T23:28:54.981431+00:00
 

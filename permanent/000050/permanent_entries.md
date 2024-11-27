@@ -1,3 +1,59 @@
+ ## Leviathant
+ - [https://leviathant.bandcamp.com](https://leviathant.bandcamp.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Lex Amor
+ - [https://lexamor.bandcamp.com](https://lexamor.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## microworlds, by LFSaw
+ - [https://lfsaw.bandcamp.com](https://lfsaw.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Liam
+ - [https://liamcarroll.bandcamp.com](https://liamcarroll.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Music for Insomnia, by Lowell Brams
+ - [http://librarycatalogmusicseries.bandcamp.com](http://librarycatalogmusicseries.bandcamp.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Lifeformed
+ - [https://lifeformed.bandcamp.com](https://lifeformed.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Light in Babylon
+ - [https://lightinbabylon.bandcamp.com](https://lightinbabylon.bandcamp.com)
+ - date_published: 2024-05-04T12:33:00.349058+00:00
+
+ ## The Path, by Light
+ - [https://lightprogrock.bandcamp.com](https://lightprogrock.bandcamp.com)
+ - date_published: 2024-11-25T20:47:36.808328+00:00
+
+ ## Lilacs & Champagne
+ - [https://lilacschampagne.bandcamp.com](https://lilacschampagne.bandcamp.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Linda's Electronic Orchestra
+ - [https://lindaselectronicorchestra.bandcamp.com](https://lindaselectronicorchestra.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Linear Obsessional
+ - [http://linearobsessional.bandcamp.com](http://linearobsessional.bandcamp.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## LIQUID MODERN
+ - [https://liquidmodern.bandcamp.com](https://liquidmodern.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Breaking and Mending, by Lisa/Liza
+ - [https://lisalizas.bandcamp.com](https://lisalizas.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Nature Observation Poem, by Lithics
+ - [https://lithics.bandcamp.com](https://lithics.bandcamp.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## I'm Glad This Has Been So Easy For You, by LIT. MAJOR
  - [https://litmajor.bandcamp.com](https://litmajor.bandcamp.com)
  - date_published: 2024-07-15T05:49:29.990149+00:00
@@ -3946,63 +4002,4 @@ rain or shine
  ## International Bank Account | Barclays International Banking
  - [https://international.barclays.com](https://international.barclays.com)
  - date_published: 2021-02-28T00:00:00+00:00
-
- ## International Banking Application RegisterInitial
- - [https://myapplication.international.barclays.com](https://myapplication.international.barclays.com)
- - date_published: 2024-09-30T12:08:25.921748+00:00
-
- ## Private Banking | Barclays Private Bank
- - [https://privatebank.barclays.com](https://privatebank.barclays.com)
- - date_published: 2021-02-22T00:00:00+00:00
-
- ## Investment Bank | Barclays
- - [https://www.investmentbank.barclays.com](https://www.investmentbank.barclays.com)
- - date_published: 2024-06-14T21:51:21+00:00
-
- ## Corporate Banking | Barclays
- - [https://www.barclayscorporate.com](https://www.barclayscorporate.com)
- - date_published: 2024-06-14T10:59:38+00:00
-
- ## Home Page | Barclays
- - [https://banking.barclaysus.com](https://banking.barclaysus.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Barclays
-		
-			 - 
-			Welcome to Barclays Online Banking
- - [https://www.securebanking.barclaysus.com](https://www.securebanking.barclaysus.com)
- - date_published: 2024-06-16T15:18:35.367327+00:00
-
- ## Barclays Wealth
- - [https://ask.barclayswealth.com](https://ask.barclayswealth.com)
- - date_published: 2024-09-30T12:08:27.742555+00:00
-
- ## Barco | Inspired sight and sharing solutions
- - [https://www.barco.com](https://www.barco.com)
- - date_published: 2024-07-08T12:27:48.196682+00:00
-
- ## Barcode Printer, Barcode Scanner, Point of Sale, Mobile Computing and RFID Experts
- - [http://www.barcodesinc.com](http://www.barcodesinc.com)
- - date_published: 2024-07-04T14:20:22.348919+00:00
-
- ## Brian Barder's website and Ephems blog
- - [http://www.barder.com](http://www.barder.com)
- - date_published: 2024-10-21T12:03:46.604460+00:00
-
- ## Adam J. Bard M.D. — Internal Medicine Specialist
- - [http://bardmd.com](http://bardmd.com)
- - date_published: 2024-06-21T10:56:09.369716+00:00
-
- ## Bardo Lounge & Supper Club
- - [https://www.bardooakland.com](https://www.bardooakland.com)
- - date_published: 2024-05-06T18:15:13.072028+00:00
-
- ## BarDown | TSN
- - [https://bardown.com](https://bardown.com)
- - date_published: 2024-06-17T09:34:33.428876+00:00
-
- ## US-FLC199-220053 Homepage
- - [https://www.bardydx.com](https://www.bardydx.com)
- - date_published: 2024-10-17T21:26:31.026252+00:00
 

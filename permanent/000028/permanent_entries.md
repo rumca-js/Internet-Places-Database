@@ -1,3 +1,15 @@
+ ## Study in BIT
+ - [http://isc.bit.edu.cn](http://isc.bit.edu.cn)
+ - date_published: 2024-07-27T06:57:38+00:00
+
+ ## 北京理工大学就业资讯网
+ - [http://job.bit.edu.cn](http://job.bit.edu.cn)
+ - date_published: 2023-09-06T11:13:24+00:00
+
+ ## 北理工教务部
+ - [https://jwb.bit.edu.cn](https://jwb.bit.edu.cn)
+ - date_published: 2024-08-06T17:43:17+00:00
+
  ## 中共北京理工大学纪委，北京理工大学监察室
  - [http://jwjc.bit.edu.cn](http://jwjc.bit.edu.cn)
  - date_published: 2024-07-29T03:01:26+00:00
@@ -3990,16 +4002,4 @@
  ## 海南省农业农村厅
  - [http://agri.hainan.gov.cn](http://agri.hainan.gov.cn)
  - date_published: 2024-06-29T00:00:00+00:00
-
- ## 海南省审计网
- - [http://audit.hainan.gov.cn](http://audit.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省外事办公室
- - [http://dfoca.hainan.gov.cn](http://dfoca.hainan.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省商务厅
- - [http://dofcom.hainan.gov.cn](http://dofcom.hainan.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
 

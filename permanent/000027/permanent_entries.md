@@ -1,3 +1,15 @@
+ ## University of Exeter - 欢迎访问英国埃克塞特大学中文官网
+ - [https://www.universityofexeter.cn](https://www.universityofexeter.cn)
+ - date_published: 2024-05-02T10:54:19.496078+00:00
+
+ ## UPDF
+ - [https://accounts.updf.cn](https://accounts.updf.cn)
+ - date_published: 2024-07-05T08:44:02+00:00
+
+ ## UPDF AI Online: Chat with PDF and Ask Anything - GPT4 Powered
+ - [https://ai.updf.cn](https://ai.updf.cn)
+ - date_published: 2024-06-21T11:51:30+00:00
+
  ## UPDF.cn
  - [https://checkout.updf.cn](https://checkout.updf.cn)
  - date_published: 2024-07-11T08:37:57+00:00
@@ -3996,16 +4008,4 @@ _中国网
  ## 北京理工大学国际交流合作处
  - [https://international.bit.edu.cn](https://international.bit.edu.cn)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## Study in BIT
- - [http://isc.bit.edu.cn](http://isc.bit.edu.cn)
- - date_published: 2024-07-27T06:57:38+00:00
-
- ## 北京理工大学就业资讯网
- - [http://job.bit.edu.cn](http://job.bit.edu.cn)
- - date_published: 2023-09-06T11:13:24+00:00
-
- ## 北理工教务部
- - [https://jwb.bit.edu.cn](https://jwb.bit.edu.cn)
- - date_published: 2024-08-06T17:43:17+00:00
 

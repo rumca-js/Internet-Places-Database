@@ -1,3 +1,291 @@
+ ## Kementerian PUPR
+ - [https://www.pu.go.id](https://www.pu.go.id)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Dinas Dukcapil Kabupaten Seluma – Selumaku Selumamu Jugo Besamo Kito Alapka
+ - [https://dukcapil.selumakab.go.id](https://dukcapil.selumakab.go.id)
+ - date_published: 2024-06-16T15:28:45.260356+00:00
+
+ ## Website Resmi Kabupaten Seluma
+ - [https://mc.selumakab.go.id](https://mc.selumakab.go.id)
+ - date_published: 2024-10-11T12:15:38.739809+00:00
+
+ ## e-bagor - Bagian Organisasi Sekretariat Daerah Kabupaten Kepulauan Sitaro
+ - [https://e-bagor.sitarokab.go.id](https://e-bagor.sitarokab.go.id)
+ - date_published: 2024-10-11T12:08:15.462636+00:00
+
+ ## BKPSDM Kabupaten Tanah Laut
+ - [https://bkpsdm.tanahlautkab.go.id](https://bkpsdm.tanahlautkab.go.id)
+ - date_published: 2024-06-16T15:30:02.855416+00:00
+
+ ## SKD CPNS 2018
+ - [http://cpns.bkpsdm.tanahlautkab.go.id](http://cpns.bkpsdm.tanahlautkab.go.id)
+ - date_published: 2024-10-11T12:44:14.161993+00:00
+
+ ## Sistem Informasi Diklat Aparatur
+ - [http://sida.bkpsdm.tanahlautkab.go.id](http://sida.bkpsdm.tanahlautkab.go.id)
+ - date_published: 2024-10-11T12:44:06.789899+00:00
+
+ ## Aadi Desai
+ - [https://8bitsqu.id](https://8bitsqu.id)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## AllDomains
+ - [https://alldomains.id](https://alldomains.id)
+ - date_published: 2024-08-06T16:20:03.161545+00:00
+
+ ## AltaFocus Media Center
+ - [https://altafocus.id](https://altafocus.id)
+ - date_published: 2023-09-02T18:16:08+00:00
+
+ ## Aneroid | Applications by Andrew Miskelly
+ - [https://anero.id](https://anero.id)
+ - date_published: 2024-05-17T07:27:50+00:00
+
+ ## Home | Animo
+ - [https://animo.id](https://animo.id)
+ - date_published: 2024-04-15T15:28:10+00:00
+
+ ## Demo | Animo Self-Sovereign Identity Demo
+ - [https://demo.animo.id](https://demo.animo.id)
+ - date_published: 2023-08-17T07:51:15+00:00
+
+ ## Ariadne Identity
+ - [https://ariadne.id](https://ariadne.id)
+ - date_published: 2023-09-14T09:31:40+00:00
+
+ ## ĀutOS - the Operating System of yourself.
+ - [https://aut.id](https://aut.id)
+ - date_published: 2024-06-16T03:35:52.115246+00:00
+
+ ## AZERO.ID – Domain Service on Aleph Zero
+ - [https://azero.id](https://azero.id)
+ - date_published: 2024-10-30T21:16:56.239996+00:00
+
+ ## Martin Baillie
+ - [https://martin.baillie.id](https://martin.baillie.id)
+ - date_published: 2021-10-28T11:55:41+00:00
+
+ ## BCA - Senantiasa di sisi Anda
+ - [https://bca.id](https://bca.id)
+ - date_published: 2024-06-16T08:21:47.494152+00:00
+
+ ## Beautynesia - Website Gaya Hidup Perempuan Indonesia
+ - [https://www.beautynesia.id](https://www.beautynesia.id)
+ - date_published: 2024-06-28T15:56:19.748037+00:00
+
+ ## By Benny
+ - [https://benny.id](https://benny.id)
+ - date_published: 2024-01-08T07:26:12.846132+00:00
+
+ ## berbuatbaik.id - Fundraising Platform, Dana 100% Disalurkan
+ - [https://berbuatbaik.id](https://berbuatbaik.id)
+ - date_published: 2024-06-28T15:54:47.722084+00:00
+
+ ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://bitrix24.id](https://bitrix24.id)
+ - date_published: 2024-05-12T03:57:32.772819+00:00
+
+ ## BOSVEGAS⚡ SITUS TERBESAR SCATTER HITAM MAHJONG WAYS VIRAL
+ - [https://bkpsdmpaniai.id](https://bkpsdmpaniai.id)
+ - date_published: 2024-06-02T04:45:52+00:00
+
+ ## BTV - Bersatu Menginspirasi
+ - [https://btv.id](https://btv.id)
+ - date_published: 2024-05-09T06:11:19.208840+00:00
+
+ ## B Universe - Bersatu Menginspirasi
+ - [https://b-universe.id](https://b-universe.id)
+ - date_published: 2024-04-18T04:07:12+00:00
+
+ ## CNA.id: Berita Indonesia, Asia dan Dunia
+ - [https://cna.id](https://cna.id)
+ - date_published: 2024-05-08T04:49:15.135577+00:00
+
+ ## Crunch.id | Domain Sale Breakdowns
+ - [https://crunch.id](https://crunch.id)
+ - date_published: 2021-11-29T10:58:57+00:00
+
+ ## CXO Media | Welcome to CXO Media
+ - [https://www.cxomedia.id](https://www.cxomedia.id)
+ - date_published: 2024-06-28T15:54:51.790527+00:00
+
+ ## d.id - Building protocols for all human.
+ - [https://d.id](https://d.id)
+ - date_published: 2024-07-15T11:13:17.728686+00:00
+
+ ## DailySocial.id - Situs Berita Startup, Digitalisasi UMKM, dan Inovasi Teknologi di Indonesia.
+ - [https://dailysocial.id](https://dailysocial.id)
+ - date_published: 2024-08-17T22:43:19.344222+00:00
+
+ ## DBS Bank | Indonesia
+ - [https://www.dbs.id](https://www.dbs.id)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## DENSUSTOTO | Raih Kemenangan Terbesar Di Situs Resmi Densus Toto
+ - [https://densustotokuat.id](https://densustotokuat.id)
+ - date_published: 2024-10-19T06:36:14.053995+00:00
+
+ ## BESAR888 # Nikmati Jackpot dan Peluang Kemenangan di Situs Game Online Terbaik!
+ - [https://desaindah.id](https://desaindah.id)
+ - date_published: 2024-10-18T15:00:41.373955+00:00
+
+ ## d.id - Building protocols for all human.
+ - [https://did.id](https://did.id)
+ - date_published: 2024-08-18T15:19:22+00:00
+
+ ## ASET DIGITAL
+ - [http://digitalaset.id](http://digitalaset.id)
+ - date_published: 2024-09-10T13:55:34.804274+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [http://apps.disney.id](http://apps.disney.id)
+ - date_published: 2024-06-16T02:25:25.877658+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [http://characters.disney.id](http://characters.disney.id)
+ - date_published: 2024-06-16T02:27:01.005540+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [https://disney.id](https://disney.id)
+ - date_published: 2024-05-01T05:26:57.359666+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [http://events.disney.id](http://events.disney.id)
+ - date_published: 2024-06-16T02:27:02.443266+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [http://games.disney.id](http://games.disney.id)
+ - date_published: 2024-06-16T02:25:33.679999+00:00
+
+ ## Disney Movies | The Official Disney Films from Disney - Disney Indonesia
+ - [https://movies.disney.id](https://movies.disney.id)
+ - date_published: 2024-06-16T02:25:27.655423+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [https://tv.disney.id](https://tv.disney.id)
+ - date_published: 2024-06-16T02:26:57.486225+00:00
+
+ ## Disney.id | The official home for all things Disney
+ - [https://video.disney.id](https://video.disney.id)
+ - date_published: 2024-06-16T02:27:04.955648+00:00
+
+ ## Upload & Share PDF | DocDroid
+ - [https://docdro.id](https://docdro.id)
+ - date_published: 2024-06-28T18:35:51.246873+00:00
+
+ ## Cari, Bandingkan & Pesan kebutuhan medis | Dokku
+ - [https://www.dokku.id](https://www.dokku.id)
+ - date_published: 2024-06-23T14:06:27.897833+00:00
+
+ ## Ikhtisar status
+ - [https://downdetector.id](https://downdetector.id)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Jasa Proofreading Jurnal dan jasa editing, Jasa Tesis, Jasa Publikasi Jurnal | Editage Indonesia
+ - [https://www.editage.id](https://www.editage.id)
+ - date_published: 2024-10-29T20:42:27.533015+00:00
+
+ ## Eris – DataMarketing
+ - [https://eris.id](https://eris.id)
+ - date_published: 2024-05-06T18:03:12.300604+00:00
+
+ ## ErlanggaPedia
+ - [https://erlanggapedia.id](https://erlanggapedia.id)
+ - date_published: 2024-05-04T05:47:27.517891+00:00
+
+ ## Indonesia Property - 1,845 Condos & Houses For Sale | FazWaz.id
+ - [https://www.fazwaz.id](https://www.fazwaz.id)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Actirise | Advertising Technology
+ - [https://www.flashb.id](https://www.flashb.id)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## GIANT | Giantbicyclesid
+ - [https://www.giantbicycle.id](https://www.giantbicycle.id)
+ - date_published: 2024-09-18T02:01:16.777264+00:00
+
+ ## Login - KG Media ID
+ - [https://account.grid.id](https://account.grid.id)
+ - date_published: 2024-10-14T22:59:16.766931+00:00
+
+ ## adjar.ID - Situs Tentang Materi Pelajaran
+ - [https://adjar.grid.id](https://adjar.grid.id)
+ - date_published: 2024-10-14T22:59:08.786273+00:00
+
+ ## Bobo.ID - Teman Bermain dan Belajar
+ - [https://bobo.grid.id](https://bobo.grid.id)
+ - date_published: 2024-10-14T22:58:56.113606+00:00
+
+ ## Cerdasbelanja.id - Serba - serbi Info Belanja
+ - [https://cerdasbelanja.grid.id](https://cerdasbelanja.grid.id)
+ - date_published: 2024-10-14T22:59:04.908783+00:00
+
+ ## Situs Untuk Perempuan Muda - CewekBanget.ID
+ - [https://cewekbanget.grid.id](https://cewekbanget.grid.id)
+ - date_published: 2024-10-14T22:56:46.740563+00:00
+
+ ## GridFame.id - Berita, Informasi & Tips Tentang Finance
+ - [https://fame.grid.id](https://fame.grid.id)
+ - date_published: 2024-10-14T22:57:33.006756+00:00
+
+ ## Fotokita - Berita Foto Dengan Fakta Sebenarnya
+ - [https://fotokita.grid.id](https://fotokita.grid.id)
+ - date_published: 2024-10-14T22:59:02.538343+00:00
+
+ ## GridGames.id - Berita Tentang Dunia Games & eSport
+ - [https://games.grid.id](https://games.grid.id)
+ - date_published: 2024-10-14T22:58:01.215356+00:00
+
+ ## Celebrity Breaking News - Berita Artis Terkini Hari Ini - Grid.ID
+ - [https://grid.id](https://grid.id)
+ - date_published: 2024-10-14T22:56:48.943414+00:00
+
+ ## Situs Remaja Cowok
+ - [https://hai.grid.id](https://hai.grid.id)
+ - date_published: 2024-10-14T22:57:35.476350+00:00
+
+ ## Inspiring Better Health - Gridhealth.id
+ - [https://health.grid.id](https://health.grid.id)
+ - date_published: 2024-10-14T22:58:39.223616+00:00
+
+ ## GridHits.id - Berita TerHits dari Dunia Hiburan
+ - [https://hits.grid.id](https://hits.grid.id)
+ - date_published: 2024-10-14T22:59:19.448651+00:00
+
+ ## Grid Hot - Seputar peristiwa terkini
+ - [https://hot.grid.id](https://hot.grid.id)
+ - date_published: 2024-10-14T22:59:10.474452+00:00
+
+ ## Berita Entertainment TerHype, Terkini Dan Terpercaya
+ - [https://hype.grid.id](https://hype.grid.id)
+ - date_published: 2024-10-14T22:58:45.126366+00:00
+
+ ## iDEA Online - Inspirasi Dalam Mempercantik Hunian
+ - [https://idea.grid.id](https://idea.grid.id)
+ - date_published: 2024-10-14T22:57:48.367687+00:00
+
+ ## Discover Possibilities in Industry 4.0 Era - Infokomputer Online
+ - [https://infokomputer.grid.id](https://infokomputer.grid.id)
+ - date_published: 2024-10-14T22:59:06.704764+00:00
+
+ ## Smart And Inspiring - Intisari Online
+ - [https://intisari.grid.id](https://intisari.grid.id)
+ - date_published: 2024-10-14T22:56:39.020744+00:00
+
+ ## Grid Kids - Situs Pembelajaran Anak Terlengkap
+ - [https://kids.grid.id](https://kids.grid.id)
+ - date_published: 2024-10-14T22:59:12.375827+00:00
+
+ ## Kitchenesia - Appetizing Recipes, Indonesian Way
+ - [https://kitchenesia.grid.id](https://kitchenesia.grid.id)
+ - date_published: 2024-10-14T22:59:27.378968+00:00
+
+ ## Makemac - Berita Terupdate Tentang Produk Apple & iOS
+ - [https://makemac.grid.id](https://makemac.grid.id)
+ - date_published: 2024-10-14T22:59:30.232199+00:00
+
  ## For Moms and Everything that Matters - Nakita.ID
  - [https://nakita.grid.id](https://nakita.grid.id)
  - date_published: 2024-10-14T22:57:23.718618+00:00
@@ -3717,292 +4005,4 @@
  ## 特拉维夫大学中文官网
  - [https://china.tau.ac.il](https://china.tau.ac.il)
  - date_published: 2024-07-22T00:00:00+00:00
-
- ## הפקולטה לניהול ע"ש קולר
- - [https://coller.tau.ac.il](https://coller.tau.ac.il)
- - date_published: 2024-07-24T07:57:41.975833+00:00
-
- ## כלים שלובים
- - [https://core.tau.ac.il](https://core.tau.ac.il)
- - date_published: 2024-07-24T07:58:26.248859+00:00
-
- ## Tel Aviv University
- - [https://cris.tau.ac.il](https://cris.tau.ac.il)
- - date_published: 2024-07-24T07:58:00.162282+00:00
-
- ## בית הספר למדעי המחשב
- - [https://cs.tau.ac.il](https://cs.tau.ac.il)
- - date_published: 2024-04-28T03:53:34.736097+00:00
-
- ## The AI and Data Science Center
- - [https://datascience.tau.ac.il](https://datascience.tau.ac.il)
- - date_published: 2024-07-24T07:58:35.358522+00:00
-
- ## הדקאנט להצלחת הסטודנטים והסטודנטיות
- - [http://deanstudents.tau.ac.il](http://deanstudents.tau.ac.il)
- - date_published: 2024-07-24T07:57:36.545699+00:00
-
- ## Virtual TAU - פדגוגיה דיגיטלית
- - [https://digital.tau.ac.il](https://digital.tau.ac.il)
- - date_published: 2024-07-24T07:57:32.444500+00:00
-
- ## הנציבות לשוויון, מגוון וקהילה
- - [https://diversity.tau.ac.il](https://diversity.tau.ac.il)
- - date_published: 2024-07-24T07:58:06.207241+00:00
-
- ## Tel Aviv University Alumni Organization
- - [https://en-alumni.tau.ac.il](https://en-alumni.tau.ac.il)
- - date_published: 2024-08-19T03:21:22.398815+00:00
-
- ## Faculty of the Arts
- - [http://en-arts.tau.ac.il](http://en-arts.tau.ac.il)
- - date_published: 2024-08-18T21:03:04+00:00
-
- ## BioMed @ TAU
- - [https://en-biomed.tau.ac.il](https://en-biomed.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## School of Management
- - [http://en-coller.tau.ac.il](http://en-coller.tau.ac.il)
- - date_published: 2024-08-18T21:07:07+00:00
-
- ## Faculty of Exact Sciences
- - [https://en.cs.tau.ac.il](https://en.cs.tau.ac.il)
- - date_published: 2024-07-02T21:59:03+00:00
-
- ## The Iby and Aladar Fleischman Faculty of Engineering
- - [https://en-engineering.tau.ac.il](https://en-engineering.tau.ac.il)
- - date_published: 2024-08-18T21:36:35+00:00
-
- ## Renewable Energy Research Center
- - [https://energy.tau.ac.il](https://energy.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Edmond J. Safra Center for Ethics
- - [https://en-ethics.tau.ac.il](https://en-ethics.tau.ac.il)
- - date_published: 2024-07-21T23:24:30+00:00
-
- ## Faculty of Exact Sciences
- - [https://en-exact-sciences.m.tau.ac.il](https://en-exact-sciences.m.tau.ac.il)
- - date_published: 2024-10-20T01:26:00.829013+00:00
-
- ## Faculty of Exact Sciences
- - [https://en-exact-sciences.tau.ac.il](https://en-exact-sciences.tau.ac.il)
- - date_published: 2024-06-21T06:14:29+00:00
-
- ## ברוכים הבאים לפקולטה להנדסה
- - [https://engineering.tau.ac.il](https://engineering.tau.ac.il)
- - date_published: 2024-07-24T07:58:05.012304+00:00
-
- ## main site frontpage - english
- - [https://english.m.tau.ac.il](https://english.m.tau.ac.il)
- - date_published: 2024-08-19T00:06:11+00:00
-
- ## Tel Aviv University | Tel Aviv University
- - [https://english.tau.ac.il](https://english.tau.ac.il)
- - date_published: 2023-10-25T19:29:32.967224+00:00
-
- ## Registration for Programs in Hebrew
- - [https://en-go.tau.ac.il](https://en-go.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Faculty
- - [https://en-humanities.tau.ac.il](https://en-humanities.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Law Faculty
- - [https://en-law.m.tau.ac.il](https://en-law.m.tau.ac.il)
- - date_published: 2024-07-21T21:12:50+00:00
-
- ## Law Faculty
- - [https://en-law.tau.ac.il](https://en-law.tau.ac.il)
- - date_published: 2024-04-30T04:44:23.960232+00:00
-
- ## Tel Aviv University Libraries
- - [https://en-libraries.tau.ac.il](https://en-libraries.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## The George S. Wise Faculty of Life Sciences
- - [https://en-lifesci.tau.ac.il](https://en-lifesci.tau.ac.il)
- - date_published: 2024-08-18T21:13:58+00:00
-
- ## Faculty of Medical & Health Sciences
- - [https://en-med.tau.ac.il](https://en-med.tau.ac.il)
- - date_published: 2024-08-18T21:13:14+00:00
-
- ## Tel Aviv University Climate Crisis Initiative
- - [https://en-planetzero.tau.ac.il](https://en-planetzero.tau.ac.il)
- - date_published: 2024-08-19T01:23:44+00:00
-
- ## Sagol School of Neuroscience
- - [https://en-sagol.tau.ac.il](https://en-sagol.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## The Neiman Library of Exact Sciences & Engineering
- - [https://en-scilib.tau.ac.il](https://en-scilib.tau.ac.il)
- - date_published: 2024-10-20T01:23:43.188126+00:00
-
- ## Faculty of Social Sciences
- - [http://en-social-sciences.tau.ac.il](http://en-social-sciences.tau.ac.il)
- - date_published: 2024-08-18T22:23:52+00:00
-
- ## יזמות דף הבית
- - [http://enter.tau.ac.il](http://enter.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הפקולטה למדעים מדויקים
- - [https://exact-sciences.m.tau.ac.il](https://exact-sciences.m.tau.ac.il)
- - date_published: 2024-08-07T11:31:03+00:00
-
- ## הפקולטה למדעים מדויקים
- - [http://exact-sciences.tau.ac.il](http://exact-sciences.tau.ac.il)
- - date_published: 2024-07-24T07:58:39.079052+00:00
-
- ## התכנית הבין-תחומית לתלמידים מצטיינים
- - [https://excellent.tau.ac.il](https://excellent.tau.ac.il)
- - date_published: 2024-07-24T07:58:08.737051+00:00
-
- ## כדאי לדעת
- - [https://goodtoknow.tau.ac.il](https://goodtoknow.tau.ac.il)
- - date_published: 2024-10-20T01:23:31.646767+00:00
-
- ## דף הבית
- - [https://go.tau.ac.il](https://go.tau.ac.il)
- - date_published: 2024-07-24T07:58:13.056866+00:00
-
- ## Green Campus
- - [https://greencampus-en.tau.ac.il](https://greencampus-en.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## קמפוס ירוק
- - [https://greencampus.tau.ac.il](https://greencampus.tau.ac.il)
- - date_published: 2024-07-24T07:58:20.519857+00:00
-
- ## קמפוס בטוח - מניעה וטיפול בהטרדה מינית
- - [https://harassment-prevention.tau.ac.il](https://harassment-prevention.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הזירה
- - [https://hazira.tau.ac.il](https://hazira.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## מכון הרצג
- - [https://herczeg-institute.tau.ac.il](https://herczeg-institute.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## צימבליסטה
- - [http://heritage.tau.ac.il](http://heritage.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הפקולטה למדעי הרוח
- - [https://humanities.tau.ac.il](https://humanities.tau.ac.il)
- - date_published: 2024-07-24T07:57:54.501850+00:00
-
- ## cyber center
- - [https://icrc.tau.ac.il](https://icrc.tau.ac.il)
- - date_published: 2024-08-18T23:26:57+00:00
-
- ## המרכז לקשרי תעשייה
- - [https://ilc.tau.ac.il](https://ilc.tau.ac.il)
- - date_published: 2024-08-07T14:27:05+00:00
-
- ## קורסים משלבי עשייה
- - [https://impact.tau.ac.il](https://impact.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הדקאנט לחדשנות בהוראה ובלמידה
- - [https://innovative-learning.tau.ac.il](https://innovative-learning.tau.ac.il)
- - date_published: 2024-07-24T07:58:15.206717+00:00
-
- ## TAU International
- - [https://international.tau.ac.il](https://international.tau.ac.il)
- - date_published: 2024-07-21T21:13:18+00:00
-
- ## היחידה ללימודי שפות
- - [http://languages.tau.ac.il](http://languages.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הפקולטה למשפטים ע"ש בוכמן
- - [https://law.tau.ac.il](https://law.tau.ac.il)
- - date_published: 2024-07-21T22:16:55+00:00
-
- ## אתר הספריות
- - [https://libraries.tau.ac.il](https://libraries.tau.ac.il)
- - date_published: 2024-07-24T07:58:28.734420+00:00
-
- ## הפקולטה למדעי החיים ע"ש ג'ורג ס' וייז
- - [https://lifesci.tau.ac.il](https://lifesci.tau.ac.il)
- - date_published: 2024-07-24T07:58:44.646659+00:00
-
- ## הפקולטה למדעי הרפואה והבריאות
- - [https://med.tau.ac.il](https://med.tau.ac.il)
- - date_published: 2024-07-24T07:57:23.480080+00:00
-
- ## עמוד הבית
- - [https://m.tau.ac.il](https://m.tau.ac.il)
- - date_published: 2024-07-24T07:57:51.287075+00:00
-
- ## Nano Center
- - [https://nano.tau.ac.il](https://nano.tau.ac.il)
- - date_published: 2024-07-24T07:58:07.649976+00:00
-
- ## עמוד הבית
- - [http://new.tau.ac.il](http://new.tau.ac.il)
- - date_published: 2024-07-24T07:57:25.645710+00:00
-
- ## אוניברסיטת תל אביב לנוער - נוער שוחר מדע
- - [https://noar.tau.ac.il](https://noar.tau.ac.il)
- - date_published: 2024-07-24T07:57:55.692108+00:00
-
- ## ארגון הסגל המינהלי
- - [https://ovdim.tau.ac.il](https://ovdim.tau.ac.il)
- - date_published: 2024-07-24T07:57:48.388726+00:00
-
- ## המרכז להתמודדות עם מגפות
- - [https://pandemics.tau.ac.il](https://pandemics.tau.ac.il)
- - date_published: 2024-07-24T07:58:27.626002+00:00
-
- ## מיזם האקלים של אוניברסיטת תל אביב
- - [https://planetzero.tau.ac.il](https://planetzero.tau.ac.il)
- - date_published: 2024-07-24T07:57:33.949921+00:00
-
- ## Quantum Science and Technology
- - [https://quantum.tau.ac.il](https://quantum.tau.ac.il)
- - date_published: 2024-07-24T07:57:40.555750+00:00
-
- ## הצטיינות הרקטור
- - [https://rector.tau.ac.il](https://rector.tau.ac.il)
- - date_published: 2024-07-24T07:58:10.375618+00:00
-
- ## רשות המחקר
- - [http://research-authority.tau.ac.il](http://research-authority.tau.ac.il)
- - date_published: 2024-07-24T07:57:52.891369+00:00
-
- ## לשכת סגן הנשיא למחקר ופיתוח
- - [http://research-vp.tau.ac.il](http://research-vp.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Добро пожаловать в Тель-Авивский университет
- - [https://russian.tau.ac.il](https://russian.tau.ac.il)
- - date_published: 2024-07-24T07:58:50.241756+00:00
-
- ## Edmond J. Safra Center for Bioinformatics
- - [https://safrabio.cs.tau.ac.il](https://safrabio.cs.tau.ac.il)
- - date_published: 2024-08-06T21:26:17+00:00
-
- ## בית הספר סגול למדעי המוח
- - [https://sagol.tau.ac.il](https://sagol.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## ברוכים הבאים לספרייה
- - [https://scilib.tau.ac.il](https://scilib.tau.ac.il)
- - date_published: 2024-08-07T10:24:17+00:00
-
- ## Sagol Center for Regenerative Medicine
- - [https://scrm.tau.ac.il](https://scrm.tau.ac.il)
- - date_published: 2024-08-19T00:33:53+00:00
-
- ## מוזיאון הטבע ע"ש שטיינהרדט
- - [https://smnh.tau.ac.il](https://smnh.tau.ac.il)
- - date_published: 2024-07-24T07:58:17.703441+00:00
 

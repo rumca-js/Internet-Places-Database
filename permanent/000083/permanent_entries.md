@@ -1,3 +1,100 @@
+ ## Learn Data Science Online | Data Science Dojo
+ - [https://datasciencedojo.com](https://datasciencedojo.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Machine Learning Demos | Data Science Dojo
+ - [https://demos.datasciencedojo.com](https://demos.datasciencedojo.com)
+ - date_published: 2024-10-28T00:15:41.165012+00:00
+
+ ## Data Science Dojo Discussions
+ - [https://discuss.datasciencedojo.com](https://discuss.datasciencedojo.com)
+ - date_published: 2024-10-28T00:16:03.882679+00:00
+
+ ## Data Science Duo :: Wade Fagen-Ulmschneider and Karle Flanagan
+ - [https://datascienceduo.com](https://datascienceduo.com)
+ - date_published: 2022-10-09T19:50:57+00:00
+
+ ## Data Science Live Book
+ - [https://livebook.datascienceheroes.com](https://livebook.datascienceheroes.com)
+ - date_published: 2019-01-17T00:59:24+00:00
+
+ ## Data Science Project – Becoming a Data Scientist
+ - [https://data-science-project.com](https://data-science-project.com)
+ - date_published: 2023-12-13T11:23:39.553811+00:00
+ - tags: ['personal']
+
+ ## DataScientest.com | Accueil
+ - [https://datascientest.com](https://datascientest.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## DataScientYst - Data Science Simplified
+ - [https://datascientyst.com](https://datascientyst.com)
+ - date_published: 2023-10-25T13:44:38.140825+00:00
+
+ ## Dataseat Mobile DSP | Transparent, privacy-first user acquisition
+ - [https://dataseat.com](https://dataseat.com)
+ - date_published: 2024-05-06T17:48:50.740355+00:00
+
+ ## Data Secrets Lox - Index
+ - [https://datasecretslox.com](https://datasecretslox.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Datasembly | Real Time Product Data for Market Intelligence
+ - [https://datasembly.com](https://datasembly.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Datasensing is a world-class producer of bar code readers, mobile computers, sensors, vision and laser...
+ - [https://www.datasensing.com](https://www.datasensing.com)
+ - date_published: 2024-09-05T21:25:39.878142+00:00
+
+ ## Home
+ - [https://dataset.com](https://dataset.com)
+ - date_published: 2024-04-29T03:15:05.534857+00:00
+
+ ## Home
+ - [https://go.dataset.com](https://go.dataset.com)
+ - date_published: 2024-06-23T10:18:35.759878+00:00
+
+ ## Discover or Build Your Own Legally Clean DataSets
+ - [https://www.datasetshop.com](https://www.datasetshop.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Five Thirty Eight: fivethirtyeight, polls
+ - [https://fivethirtyeight.datasettes.com](https://fivethirtyeight.datasettes.com)
+ - date_published: 2024-07-08T22:21:51+00:00
+
+ ## Global Power Plant Database: global-power-plants
+ - [https://global-power-plants.datasettes.com](https://global-power-plants.datasettes.com)
+ - date_published: 2024-04-28T03:00:07.253667+00:00
+
+ ## Datasheet Archive Search Engine
+ - [http://www.datasheetarchive.com](http://www.datasheetarchive.com)
+ - date_published: 2024-08-19T09:40:43.245901+00:00
+
+ ## Find Datasheets, Electronic Parts, Components - Datasheets.com
+ - [http://datasheets.com](http://datasheets.com)
+ - date_published: 2024-06-17T01:05:42.366421+00:00
+
+ ## Cierpliwości...
+ - [https://datasheets360.com](https://datasheets360.com)
+ - date_published: 2024-06-19T17:14:37.546669+00:00
+
+ ## Data Skeptic
+ - [https://dataskeptic.com](https://dataskeptic.com)
+ - date_published: 2024-05-06T13:47:01.126163+00:00
+
+ ## Data Skeptic+
+ - [https://survey.dataskeptic.com](https://survey.dataskeptic.com)
+ - date_published: 2024-06-23T08:00:53.180996+00:00
+
+ ## Data Skrive Portal
+ - [https://cdn.dataskrive.com](https://cdn.dataskrive.com)
+ - date_published: 2024-06-10T19:22:19+00:00
+
+ ## Dataslug.com | Find Emails & B2B contacts at scale
+ - [https://www.dataslug.com](https://www.dataslug.com)
+ - date_published: 2024-07-01T05:33:34.428267+00:00
+
  ## Data Souls
  - [https://datasouls.com](https://datasouls.com)
  - date_published: 2022-11-23T07:03:19+00:00
@@ -3976,101 +4073,4 @@
  - [https://deepfakesweb.com](https://deepfakesweb.com)
  - date_published: 2024-04-24T10:31:43+00:00
  - tags: ['deep fakes']
-
- ## Deep Fried Advertising – Creative Branding & Interactive Agency
- - [https://deepfried.com](https://deepfried.com)
- - date_published: 2024-10-30T03:36:53.653267+00:00
-
- ## Welcome to Deep Fun: the virtual library of Bernard Louis De Koven: author, speaker, and designer of funny games
- - [http://www.deepfun.com](http://www.deepfun.com)
- - date_published: 2017-11-07T00:00:00+00:00
-
- ## Home | Deep Genomics
- - [https://deepgenomics.com](https://deepgenomics.com)
- - date_published: 2024-04-29T07:35:39.516402+00:00
-
- ## Deepgram
- - [https://api.deepgram.com](https://api.deepgram.com)
- - date_published: 2024-06-15T20:55:55.325658+00:00
-
- ## Resources and Tools Created to Inspire | Deepgram
- - [https://blog.deepgram.com](https://blog.deepgram.com)
- - date_published: 2023-10-25T13:47:45.305982+00:00
-
- ## Deepgram Community
- - [https://community.deepgram.com](https://community.deepgram.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Deepgram
- - [https://console.deepgram.com](https://console.deepgram.com)
- - date_published: 2024-05-01T04:30:20.277418+00:00
-
- ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
- - [https://deepgram.com](https://deepgram.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Welcome to Deepgram Docs!
- - [https://developers.deepgram.com](https://developers.deepgram.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Deepgram
- - [https://playground.deepgram.com](https://playground.deepgram.com)
- - date_published: 2024-05-01T04:30:12.382191+00:00
-
- ## Deepgram Status
- - [https://status.deepgram.com](https://status.deepgram.com)
- - date_published: 2024-05-01T04:30:23.478923+00:00
-
- ## /
- - [https://cdimage.deepin.com](https://cdimage.deepin.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Machine Learning Models and Infrastructure | Deep Infra
- - [https://deepinfra.com](https://deepinfra.com)
- - date_published: 2024-05-04T08:34:40.135468+00:00
-
- ## DeepIntent
- - [https://option.deepintent.com](https://option.deepintent.com)
- - date_published: 2024-06-22T20:10:34.657332+00:00
-
- ## Home
- - [https://www.deepintent.com](https://www.deepintent.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## DeepL Translate: The world's most accurate translator
- - [https://deepl.com](https://deepl.com)
- - date_published: 2024-06-19T20:06:27.338652+00:00
-
- ## Introduction | English | DeepL API Docs
- - [https://developers.deepl.com](https://developers.deepl.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Join DeepL: Innovative Career Opportunities in AI and Translation Technology
- - [https://jobs.deepl.com](https://jobs.deepl.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## DeepL Help Center | How Can We Help You?
- - [https://support.deepl.com](https://support.deepl.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## AGA治療と育毛シャンプー
- - [http://www.deepleafproductions.com](http://www.deepleafproductions.com)
- - date_published: 2015-08-26T05:17:00+00:00
-
- ## DeepMake
- - [https://deepmake.com](https://deepmake.com)
- - date_published: 2023-12-09T00:22:25.769168+00:00
-
- ## AlphaCode
- - [https://alphacode.deepmind.com](https://alphacode.deepmind.com)
- - date_published: 2023-10-25T13:47:52.658441+00:00
-
- ## Google DeepMind
- - [https://deepmind.com](https://deepmind.com)
- - date_published: 2024-04-19T00:00:00+00:00
- - tags: ['artificial intelligence']
-
- ## AlphaFold: Accelerating biological research
- - [https://unfolded.deepmind.com](https://unfolded.deepmind.com)
- - date_published: 2024-07-04T18:24:34.164735+00:00
 

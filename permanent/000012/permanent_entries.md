@@ -1,3 +1,11 @@
+ ## Home | The Heart Foundation
+ - [https://www.heartfoundation.org.au](https://www.heartfoundation.org.au)
+ - date_published: 2024-07-12T21:53:58.206626+00:00
+
+ ## herdsa.org.au | Higher Education Research and Development Society of Australasia
+ - [http://www.herdsa.org.au](http://www.herdsa.org.au)
+ - date_published: 2024-06-17T14:07:11.858924+00:00
+
  ## Heritage of the Air
  - [https://heritageoftheair.org.au](https://heritageoftheair.org.au)
  - date_published: 2024-07-21T23:06:06+00:00
@@ -4001,12 +4009,4 @@
  ## Encon
  - [https://www.encon.be](https://www.encon.be)
  - date_published: 2024-09-15T09:34:27.909119+00:00
-
- ## 3 tips om te scoren met uw content.
- - [http://www.english-copywriting.be](http://www.english-copywriting.be)
- - date_published: 2024-07-18T17:27:38+00:00
-
- ## Accueil | En mieux
- - [http://enmieux.be](http://enmieux.be)
- - date_published: 2024-04-17T00:00:00+00:00
 

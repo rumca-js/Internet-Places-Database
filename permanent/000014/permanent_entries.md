@@ -1,3 +1,11 @@
+ ## Xavier Devroey, Ph.D.
+ - [http://xdevroey.be](http://xdevroey.be)
+ - date_published: 2024-05-29T08:32:42+00:00
+
+ ## Custom Domain by Bitly
+ - [http://xpl.be](http://xpl.be)
+ - date_published: 2024-07-08T23:39:58+00:00
+
  ## Xplore Group | Unlock Boundless potential
  - [https://www.xploregroup.be](https://www.xploregroup.be)
  - date_published: 2024-07-24T06:08:30.767372+00:00
@@ -4049,12 +4057,4 @@
  ## bapsi
  - [https://bapsi.micro.blog](https://bapsi.micro.blog)
  - date_published: 2024-04-02T00:00:00+00:00
-
- ## Bill Bennett
- - [https://billbennett.micro.blog](https://billbennett.micro.blog)
- - date_published: 2024-07-07T05:40:40+00:00
-
- ## Micro.blog
- - [https://cdn.micro.blog](https://cdn.micro.blog)
- - date_published: 2024-07-07T07:34:02.570535+00:00
 

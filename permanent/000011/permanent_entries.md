@@ -1,3 +1,11 @@
+ ## Winning Appliances | Kitchen & Laundry Appliances
+ - [https://www.winnings.com.au](https://www.winnings.com.au)
+ - date_published: 2024-10-17T17:55:30.245413+00:00
+
+ ## WinTrade
+ - [https://wintrade-international.com.au](https://wintrade-international.com.au)
+ - date_published: 2024-07-14T13:30:26.668144+00:00
+
  ## Wisen
  - [https://wisen.com.au](https://wisen.com.au)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -4015,12 +4023,4 @@ University of Technology
  ## Hand Heart Pocket | The Charity of Freemasons Queensland
  - [http://www.handheartpocket.org.au](http://www.handheartpocket.org.au)
  - date_published: 2024-10-19T10:05:08.783025+00:00
-
- ## Home | The Heart Foundation
- - [https://www.heartfoundation.org.au](https://www.heartfoundation.org.au)
- - date_published: 2024-07-12T21:53:58.206626+00:00
-
- ## herdsa.org.au | Higher Education Research and Development Society of Australasia
- - [http://www.herdsa.org.au](http://www.herdsa.org.au)
- - date_published: 2024-06-17T14:07:11.858924+00:00
 

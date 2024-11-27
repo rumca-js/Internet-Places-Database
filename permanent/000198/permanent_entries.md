@@ -1,3 +1,223 @@
+ ## Steve Kirsch's newsletter | Substack
+ - [https://stevekirsch.substack.com](https://stevekirsch.substack.com)
+ - date_published: 2024-09-16T20:05:53.459956+00:00
+
+ ## Steve McCready | Substack
+ - [https://stevemccready.substack.com](https://stevemccready.substack.com)
+ - date_published: 2024-10-17T21:09:53.391395+00:00
+
+ ## The Warning with Steve Schmidt | Substack
+ - [https://steveschmidt.substack.com](https://steveschmidt.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## One First | Steve Vladeck | Substack
+ - [https://stevevladeck.substack.com](https://stevevladeck.substack.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Magnitude Matters | Steve Winkler | Substack
+ - [https://stevewinkler.substack.com](https://stevewinkler.substack.com)
+ - date_published: 2024-10-27T11:17:49.528019+00:00
+
+ ## stiankri's blog | Stian Kristoffersen | Substack
+ - [https://stiankri.substack.com](https://stiankri.substack.com)
+ - date_published: 2024-04-09T17:39:17.780885+00:00
+
+ ## Stillness in the West | Jack Leahy | Substack
+ - [https://stillnessinthewest.substack.com](https://stillnessinthewest.substack.com)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## Data People Etc. | Stephen Bailey | Substack
+ - [https://stkbailey.substack.com](https://stkbailey.substack.com)
+ - date_published: 2023-10-25T10:04:23.504857+00:00
+ - tags: ['substack']
+
+ ## Stock Fiction | Meg Oolders | Substack
+ - [https://stockfiction.substack.com](https://stockfiction.substack.com)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Michael Darby in Australia | Substack
+ - [https://stophumansacrifice.substack.com](https://stophumansacrifice.substack.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Story & Thread. | Lyndsay Kaldor | Substack
+ - [https://storyandthread.substack.com](https://storyandthread.substack.com)
+ - date_published: 2024-10-19T11:53:30.781097+00:00
+
+ ## Story Cauldron | Jackie Dana | Substack
+ - [https://storycauldron.substack.com](https://storycauldron.substack.com)
+ - date_published: 2024-07-26T03:33:35.624292+00:00
+
+ ## American Storylines | Daniel Cox | Substack
+ - [https://storylines.substack.com](https://storylines.substack.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## The Story Rules Project | Erin O'Connor | Substack
+ - [https://storyrulesproject.substack.com](https://storyrulesproject.substack.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Strange Earth Dispatches | David Guillas | Substack
+ - [https://strangeearth.substack.com](https://strangeearth.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## STRAT_SCRAPS | Alex Morris | Substack
+ - [https://stratscraps.substack.com](https://stratscraps.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Data Streaming Journey | Yaroslav Tkachenko | Substack
+ - [https://streamingdata.substack.com](https://streamingdata.substack.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Finance Simplified | StreetFins | Substack
+ - [https://streetfins.substack.com](https://streetfins.substack.com)
+ - date_published: 2024-08-19T05:13:36.178603+00:00
+
+ ## Series Business (fka Strikegeist) | Richard Rushfield | Substack
+ - [https://strikegeist.substack.com](https://strikegeist.substack.com)
+ - date_published: 2024-05-06T16:16:02.228213+00:00
+
+ ## Frames | Stripe Partners | Substack
+ - [https://stripepartners.substack.com](https://stripepartners.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Science Fictions | Stuart Ritchie | Substack
+ - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
+ - date_published: 2023-10-25T10:04:31.154160+00:00
+ - tags: ['substack']
+
+ ## Studio Kirkland | Matt & Erika Kirkland | Substack
+ - [https://studiokirkland.substack.com](https://studiokirkland.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Sub Club | Chill Subs | Substack
+ - [https://subclub.substack.com](https://subclub.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Subconscious | Gordon Brander | Substack
+ - [https://subconscious.substack.com](https://subconscious.substack.com)
+ - date_published: 2023-10-25T10:04:33.464701+00:00
+
+ ## The Sublime Newsletter | Sari Azout | Substack
+ - [https://sublimeinternet.substack.com](https://sublimeinternet.substack.com)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Substack - A new economic engine for culture
+ - [https://substack.com](https://substack.com)
+ - date_published: 2023-10-25T10:04:35.854636+00:00
+
+ ## Subtle Digressions | Yashvardhan Jain | Substack
+ - [https://subtledigressions.substack.com](https://subtledigressions.substack.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## The Successful Lawyer | Steven N. Peskind | Substack
+ - [https://successfullawyer.substack.com](https://successfullawyer.substack.com)
+ - date_published: 2024-08-18T03:15:28.231003+00:00
+
+ ## Sudo Apps | Samir Khoja | Substack
+ - [https://sudoapps.substack.com](https://sudoapps.substack.com)
+ - date_published: 2024-01-09T01:44:47.657089+00:00
+
+ ## Suffertember | Armand B. Cognetta III | Substack
+ - [https://suffertember.substack.com](https://suffertember.substack.com)
+ - date_published: 2024-07-12T22:43:23.857739+00:00
+
+ ## Suhweet Driving School | Substack
+ - [https://suhweet.substack.com](https://suhweet.substack.com)
+ - date_published: 2024-01-01T08:05:08.288220+00:00
+
+ ## Summer Lightning  | Sachin | Substack
+ - [https://summerlightning.substack.com](https://summerlightning.substack.com)
+ - date_published: 2024-06-17T03:32:58.014165+00:00
+
+ ## Sungho Yahng | Substack
+ - [https://sunghoyahng.substack.com](https://sunghoyahng.substack.com)
+ - date_published: 2023-10-25T10:04:44.363089+00:00
+ - tags: ['substack']
+
+ ## Superb Owl | Max Goodbird | Substack
+ - [https://superbowl.substack.com](https://superbowl.substack.com)
+ - date_published: 2024-01-09T01:44:49.704709+00:00
+
+ ## Supernuclear | Phil Levin | Substack
+ - [https://supernuclear.substack.com](https://supernuclear.substack.com)
+ - date_published: 2024-06-23T13:23:02.751106+00:00
+
+ ## Seliria’s Newsletter | Substack
+ - [https://superorganizers.substack.com](https://superorganizers.substack.com)
+ - date_published: 2024-06-19T23:38:30.210714+00:00
+
+ ## Post Quantum | Jonathan Oppenheim | Substack
+ - [https://superposer.substack.com](https://superposer.substack.com)
+ - date_published: 2024-10-28T15:42:47.090768+00:00
+
+ ## Super Punch | John | Substack
+ - [https://superpunch.substack.com](https://superpunch.substack.com)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Super Self | Lewis Kallow | Substack
+ - [https://superself.substack.com](https://superself.substack.com)
+ - date_published: 2024-01-09T01:44:53.116651+00:00
+
+ ## Substack, Inc
+ - [https://support.substack.com](https://support.substack.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## An Engineering Self-Study | Surjan Singh | Substack
+ - [https://surjan.substack.com](https://surjan.substack.com)
+ - date_published: 2024-05-06T13:48:46.292492+00:00
+
+ ## seventysomething  | Susie Kaufman | Substack
+ - [https://susiekaufman.substack.com](https://susiekaufman.substack.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Why Aren't I Writing? | Suw Charman-Anderson | Substack
+ - [https://suwca.substack.com](https://suwca.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The (Unofficial) Svelte JS Newsletter | Dani Sandoval | Substack
+ - [https://svelte.substack.com](https://svelte.substack.com)
+ - date_published: 2024-06-23T11:02:41.142406+00:00
+
+ ## Software Engineering Career Advice Newsletter | Rahul Thathoo | Substack
+ - [https://swecareer.substack.com](https://swecareer.substack.com)
+ - date_published: 2024-08-18T18:12:35.919977+00:00
+
+ ## Friends of the Baby | Sweet Baby | Substack
+ - [https://sweetbabynews.substack.com](https://sweetbabynews.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Swift Centre: Highlights | Substack
+ - [https://swiftcentre.substack.com](https://swiftcentre.substack.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Swift Evolution Monthly | Cihat Gündüz | Substack
+ - [https://swiftevolution.substack.com](https://swiftevolution.substack.com)
+ - date_published: 2024-06-23T14:59:17.936251+00:00
+
+ ## Switched On Pop | Substack
+ - [https://switchedonpop.substack.com](https://switchedonpop.substack.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Latent Space | swyx & Alessio | Substack
+ - [https://swyx.substack.com](https://swyx.substack.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Accidents and Incidents | Sylvia Wrigley | Substack
+ - [https://sylviawrigley.substack.com](https://sylviawrigley.substack.com)
+ - date_published: 2024-10-28T08:27:25.219635+00:00
+
+ ## Symposium | Robert Tracinski | Substack
+ - [https://symposium.substack.com](https://symposium.substack.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Syncretica | Alex Turnbull | Substack
+ - [https://syncretica.substack.com](https://syncretica.substack.com)
+ - date_published: 2024-10-31T22:49:29.365485+00:00
+
+ ## Synthedia | Bret Kinsella | Substack
+ - [https://synthedia.substack.com](https://synthedia.substack.com)
+ - date_published: 2023-10-25T10:04:58.013922+00:00
+ - tags: ['substack']
+
  ## Syntopikon | Substack
  - [https://syntopikon.substack.com](https://syntopikon.substack.com)
  - date_published: 2023-10-25T10:05:00.115504+00:00
@@ -1212,6 +1432,10 @@
  - [https://unfashionable.substack.com](https://unfashionable.substack.com)
  - date_published: 2023-10-25T10:07:06.313221+00:00
  - tags: ['substack']
+
+ ## Unfeed | Vasanth | Substack
+ - [https://unfeed.substack.com](https://unfeed.substack.com)
+ - date_published: 2024-11-26T08:38:04.502288+00:00
 
  ## The Deep Dive | Unify AI | Substack
  - [https://unifyai.substack.com](https://unifyai.substack.com)
@@ -3831,226 +4055,4 @@
  ## martymcgui.re's PubSubHubbub Hub
  - [http://martymcguire.superfeedr.com](http://martymcguire.superfeedr.com)
  - date_published: 2024-09-15T10:35:59.298978+00:00
-
- ## petermolnar's PubSubHubbub Hub
- - [https://petermolnar.superfeedr.com](https://petermolnar.superfeedr.com)
- - date_published: 2024-09-02T17:03:50.950440+00:00
-
- ## Superfeedr Open PubSubHubbub's PubSubHubbub Hub
- - [https://pubsubhubbub.superfeedr.com](https://pubsubhubbub.superfeedr.com)
- - date_published: 2024-06-15T04:07:21.604138+00:00
-
- ## simplecast's PubSubHubbub Hub
- - [https://simplecast.superfeedr.com](https://simplecast.superfeedr.com)
- - date_published: 2024-06-23T06:56:44.320640+00:00
-
- ## Superfeedr - RSS Feed API & jQuery RSS API | Push Service
- - [https://superfeedr.com](https://superfeedr.com)
- - date_published: 2024-06-23T16:20:26.435185+00:00
-
- ## VoxPelli's PubSubHubbub Hub
- - [https://voxpelli.superfeedr.com](https://voxpelli.superfeedr.com)
- - date_published: 2024-07-12T02:17:47.750379+00:00
-
- ## Known's PubSubHubbub Hub
- - [https://withknown.superfeedr.com](https://withknown.superfeedr.com)
- - date_published: 2024-05-06T14:48:50.364058+00:00
-
- ## Everyday Dose | Portal
- - [https://everydaydose.superfiliate.com](https://everydaydose.superfiliate.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## glamnetic | Portal
- - [https://glamnetic.superfiliate.com](https://glamnetic.superfiliate.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Superfiliate | Scale end to end influencer, affiliate and referral programs
- - [https://huronshowercaddies.superfiliate.com](https://huronshowercaddies.superfiliate.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Top of the Mornin Coffee | Portal
- - [https://topofthemornincoffeecreator.superfiliate.com](https://topofthemornincoffeecreator.superfiliate.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Huron | Portal
- - [https://usehuron.superfiliate.com](https://usehuron.superfiliate.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Superframe: AI-powered Sales Tool
- - [https://superframe.com](https://superframe.com)
- - date_published: 2024-07-24T02:33:27.831728+00:00
-
- ## Superframeworks
- - [https://superframeworks.com](https://superframeworks.com)
- - date_published: 2024-04-10T05:03:56+00:00
-
- ## Home - SuperGeekery!
- - [https://supergeekery.com](https://supergeekery.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Supergiant Games
- - [https://www.supergiantgames.com](https://www.supergiantgames.com)
- - date_published: 2024-06-23T06:25:23.069538+00:00
-
- ## AltaVista UTZOO search
- - [https://altavista.superglobalmegacorp.com](https://altavista.superglobalmegacorp.com)
- - date_published: 2024-05-07T10:49:16.136816+00:00
-
- ## IFCTF Quasijarus Project
- - [https://ifctfvax.superglobalmegacorp.com](https://ifctfvax.superglobalmegacorp.com)
- - date_published: 2015-01-15T15:01:00+00:00
-
- ## LainNet
- - [https://lainnet.superglobalmegacorp.com](https://lainnet.superglobalmegacorp.com)
- - date_published: 2024-05-06T15:10:43.651516+00:00
-
- ## Hoshi's New MacMiNT Page
- - [https://macmint.superglobalmegacorp.com](https://macmint.superglobalmegacorp.com)
- - date_published: 2024-01-20T18:17:43+00:00
-
- ## NeXTSTEP 3.3
- - [https://nextstep.superglobalmegacorp.com](https://nextstep.superglobalmegacorp.com)
- - date_published: 2015-03-18T01:41:16+00:00
-
- ## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
- - [https://oldlinux.superglobalmegacorp.com](https://oldlinux.superglobalmegacorp.com)
- - date_published: 2024-05-07T10:49:22.723398+00:00
-
- ## Index of /
- - [https://tuhs.superglobalmegacorp.com](https://tuhs.superglobalmegacorp.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## SCOhelp
- - [https://unix.superglobalmegacorp.com](https://unix.superglobalmegacorp.com)
- - date_published: 2024-05-07T10:49:37.429875+00:00
-
- ## Virtually Fun | Fun with Virtualization
- - [https://virtuallyfun.superglobalmegacorp.com](https://virtuallyfun.superglobalmegacorp.com)
- - date_published: 2024-05-08T11:03:16.120488+00:00
-
- ## Superglue
- - [https://superglueltd.com](https://superglueltd.com)
- - date_published: 2024-05-07T10:02:27.839619+00:00
-
- ## Mike Blumenkrantz – Super. Good. Chair.
- - [https://www.supergoodcode.com](https://www.supergoodcode.com)
- - date_published: 2024-06-21T14:25:35+00:00
-
- ## Supergoop! The Best Skincare with SPF and Sunscreen
- - [https://supergoop.com](https://supergoop.com)
- - date_published: 2024-07-11T21:39:47.794745+00:00
-
- ## Supergrass - Home
- - [https://www.supergrass.com](https://www.supergrass.com)
- - date_published: 2024-06-27T16:31:33.332486+00:00
- - tags: ['music band']
-
- ## 👋 | Supergreat
- - [https://supergreat.com](https://supergreat.com)
- - date_published: 2024-05-08T04:32:15.992102+00:00
-
- ## Superhappiness ?
- - [https://superhappiness.com](https://superhappiness.com)
- - date_published: 2024-01-24T14:12:06+00:00
-
- ## Superhero - Social platform with a mission
- - [https://superhero.com](https://superhero.com)
- - date_published: 2024-06-18T12:17:28+00:00
-
- ## The SuperHeroHype Forums
- - [https://forums.superherohype.com](https://forums.superherohype.com)
- - date_published: 2024-07-02T23:16:33.617077+00:00
-
- ## Comic Book Movies and Superhero Movie News - SuperHeroHype
- - [http://superherohype.com](http://superherohype.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## SuperHi Editor
- - [https://subeditor.superhi.com](https://subeditor.superhi.com)
- - date_published: 2024-04-08T07:39:16+00:00
-
- ## Online code, design, and project management courses • SuperHi
- - [https://superhi.com](https://superhi.com)
- - date_published: 2024-05-02T13:27:16.954690+00:00
-
- ## SUPERHOT - The FPS where time moves only when you move
- - [https://superhotgame.com](https://superhotgame.com)
- - date_published: 2023-12-06T08:03:27+00:00
- - tags: ['video game']
-
- ## Superhuman Blog
- - [https://blog.superhuman.com](https://blog.superhuman.com)
- - date_published: 2024-05-04T13:56:23.646560+00:00
-
- ## Superhuman Help Center
- - [https://help.superhuman.com](https://help.superhuman.com)
- - date_published: 2024-06-23T09:40:36.104094+00:00
-
- ## Superhuman
- - [https://mail.superhuman.com](https://mail.superhuman.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Superhuman | Blazingly fast email for teams and individuals
- - [https://superhuman.com](https://superhuman.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Суперх'юманс Центр
- - [https://superhumans.com](https://superhumans.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## 象山坠靥房产交易有限公司
- - [http://www.superhyperdemonchild.com](http://www.superhyperdemonchild.com)
- - date_published: 2024-07-13T10:24:57.840060+00:00
-
- ## Beyond your typical digital agency
- - [https://superinteractive.com](https://superinteractive.com)
- - date_published: 2024-10-16T10:24:33.210881+00:00
-
- ## Superior Choice Credit Union
- - [https://my.superiorchoice.com](https://my.superiorchoice.com)
- - date_published: 2024-07-10T03:56:27.840276+00:00
-
- ## Homepage
- - [https://superiorchoice.com](https://superiorchoice.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Superior Construction
- - [https://www.superiorconstruction.com](https://www.superiorconstruction.com)
- - date_published: 2024-07-22T04:01:04.044960+00:00
-
- ## Concrete and Construction Contractor in Texas
- - [http://www.superiorconstructionservices.com](http://www.superiorconstructionservices.com)
- - date_published: 2024-07-04T17:21:22.136521+00:00
-
- ## SuperiorEssentials
- - [https://superioressentials.com](https://superioressentials.com)
- - date_published: 2024-09-02T10:54:42.710060+00:00
-
- ## Home
- - [https://superiorglove.com](https://superiorglove.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## SUPERIORITY BURGER
- - [https://www.superiorityburger.com](https://www.superiorityburger.com)
- - date_published: 2024-06-29T10:07:13.112008+00:00
-
- ## Superior Realities
- - [http://superior-realities.com](http://superior-realities.com)
- - date_published: 2024-09-03T23:01:41.512800+00:00
-
- ## Superior Resources
- - [https://www.superiorresourcesllc.com](https://www.superiorresourcesllc.com)
- - date_published: 2024-09-16T22:27:11.663016+00:00
-
- ## Welcome to Superior Sauna & Steam
- - [https://superiorsaunas.com](https://superiorsaunas.com)
- - date_published: 2024-05-12T06:10:50.932721+00:00
-
- ## Superior Solitaire: Ad-free card game collection
- - [https://www.superiorsolitaire.com](https://www.superiorsolitaire.com)
- - date_published: 2024-07-20T18:51:40.349134+00:00
-
- ## Superior Telegram - Superior Telegram | News, weather, sports from Superior Wisconsin
- - [https://www.superiortelegram.com](https://www.superiortelegram.com)
- - date_published: 2024-07-13T12:47:58.871065+00:00
 

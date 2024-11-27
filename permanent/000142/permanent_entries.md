@@ -1,3 +1,159 @@
+ ## MakeAShop - The fast and easy way to build an on-line antique or collectible shop
+ - [http://www.makeashop.com](http://www.makeashop.com)
+ - date_published: 2024-06-21T15:05:03.628545+00:00
+
+ ## Makeayo
+ - [https://makeayo.com](https://makeayo.com)
+ - date_published: 2024-06-19T21:14:22.968156+00:00
+
+ ## Create Comics Online, it’s Fun & Free at MakeBeliefsComix!
+ - [http://www.makebeliefscomix.com](http://www.makebeliefscomix.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## AI Music Generator | AI Powered Music Production Suite
+ - [https://makebestmusic.com](https://makebestmusic.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Robot Kits & STEM Toys for K-12 Schools and Home Education｜Makeblock
+ - [https://www.makeblock.com](https://www.makeblock.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Climate & Environment
+ - [http://makechangefly.com](http://makechangefly.com)
+ - date_published: 2024-05-12T05:11:18.121152+00:00
+
+ ## makecincinnatiweird.com - makecincinnatiweird Zasoby i informacje.
+ - [http://www.makecincinnatiweird.com](http://www.makecincinnatiweird.com)
+ - date_published: 2024-08-18T13:21:55+00:00
+
+ ## Microsoft MakeCode Arcade
+ - [https://arcade.makecode.com](https://arcade.makecode.com)
+ - date_published: 2024-04-30T02:28:26.103806+00:00
+
+ ## Make Disciples Training Program
+ - [https://www.makedisciplesprogram.com](https://www.makedisciplesprogram.com)
+ - date_published: 2024-09-06T19:15:58.089613+00:00
+
+ ## OPEN LETTER: Make DMs Safe
+ - [https://makedmssafe.com](https://makedmssafe.com)
+ - date_published: 2024-05-12T06:08:26.775820+00:00
+
+ ## The magic button — Make Everything OK
+ - [https://make-everything-ok.com](https://make-everything-ok.com)
+ - date_published: 2023-12-12T12:07:19+00:00
+
+ ## Makefile Tutorial By Example
+ - [https://makefiletutorial.com](https://makefiletutorial.com)
+ - date_published: 2023-10-25T15:54:44.493732+00:00
+
+ ## make gather grow
+ - [https://makegathergrow.com](https://makegathergrow.com)
+ - date_published: 2024-06-26T12:11:44.414675+00:00
+
+ ## Festina Lente (Make Haste Slowly): Christian Contemplation of the Arts and Sciences
+ - [http://www.makehasteslowly.com](http://www.makehasteslowly.com)
+ - date_published: 2013-03-24T15:23:34+00:00
+
+ ## Make In India
+ - [https://www.makeinindia.com](https://www.makeinindia.com)
+ - date_published: 2024-07-18T06:29:04+00:00
+
+ ## Digital Accessibility Powered by People with Disabilities
+ - [https://makeitfable.com](https://makeitfable.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## MakeItFrom.com: Material Properties Database
+ - [https://www.makeitfrom.com](https://www.makeitfrom.com)
+ - date_published: 2023-10-25T15:54:45.799547+00:00
+
+ ## www.make-it-in-germany.com/ar
+ - [https://arabic.make-it-in-germany.com](https://arabic.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:15.509224+00:00
+
+ ## bg.make-it-in-germany.com
+ - [https://bg.make-it-in-germany.com](https://bg.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:22.188750+00:00
+
+ ## br.make-it-in-germany.com
+ - [https://br.make-it-in-germany.com](https://br.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:21.048267+00:00
+
+ ## www.make-it-in-germany.com/id
+ - [https://id.make-it-in-germany.com](https://id.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:34.883326+00:00
+
+ ## www.kor.make-it-in-germany.com
+ - [https://kor.make-it-in-germany.com](https://kor.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:14.255993+00:00
+
+ ## Working, studying, living in Germany
+ - [https://make-it-in-germany.com](https://make-it-in-germany.com)
+ - date_published: 2024-05-11T08:03:02.188061+00:00
+
+ ## ro.make-it-in-germany.com
+ - [https://ro.make-it-in-germany.com](https://ro.make-it-in-germany.com)
+ - date_published: 2024-07-13T17:32:36.030511+00:00
+
+ ## MakeitMania.
+ - [https://makeitmania.com](https://makeitmania.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Make It Nice
+ - [http://makeitnicenyc.com](http://makeitnicenyc.com)
+ - date_published: 2024-07-09T19:04:07.693654+00:00
+
+ ## Make JS Games
+ - [https://makejsgames.com](https://makejsgames.com)
+ - date_published: 2024-08-06T19:30:09+00:00
+
+ ## Make Life Work podcast with Si Jobling
+ - [https://makelifeworkpodcast.com](https://makelifeworkpodcast.com)
+ - date_published: 2024-04-29T03:50:43.571109+00:00
+
+ ## Makel Instalacije
+ - [https://makelinstalacije.com](https://makelinstalacije.com)
+ - date_published: 2024-10-14T18:41:41.389585+00:00
+
+ ## Makelog | Continuous communication for today's fast-shipping teams
+ - [https://makelog.com](https://makelog.com)
+ - date_published: 2024-04-30T06:58:45.524637+00:00
+
+ ## Loading...
+ - [https://makelogoai.com](https://makelogoai.com)
+ - date_published: 2024-06-19T19:21:37.062448+00:00
+
+ ## MAKE Literary Magazine
+ - [https://www.makemag.com](https://www.makemag.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Make Me a Programmer
+ - [https://makemeaprogrammer.com](https://makemeaprogrammer.com)
+ - date_published: 2024-09-10T19:17:27+00:00
+
+ ## makemeister.com - makemeister Zasoby i informacje.
+ - [http://www.makemeister.com](http://www.makemeister.com)
+ - date_published: 2024-08-19T19:10:08+00:00
+
+ ## Web Design - Make Me Local
+ - [https://makemelocal.com](https://makemelocal.com)
+ - date_published: 2024-10-20T13:46:08.763849+00:00
+
+ ## Make Me Pulse
+ - [http://2016.makemepulse.com](http://2016.makemepulse.com)
+ - date_published: 2016-01-20T14:12:37+00:00
+
+ ## makemepulse
+ - [https://m.makemepulse.com](https://m.makemepulse.com)
+ - date_published: 2024-06-26T21:44:47.331346+00:00
+
+ ## www.makemkv.com - Index page
+ - [https://forum.makemkv.com](https://forum.makemkv.com)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## MakeMKV - Make MKV from Blu-ray and DVD
+ - [https://www.makemkv.com](https://www.makemkv.com)
+ - date_published: 2024-05-15T09:47:45+00:00
+
  ## Music Notation, Education, and Composition Software | MakeMusic, Inc.
  - [https://store.makemusic.com](https://store.makemusic.com)
  - date_published: 2024-08-18T12:09:33.598111+00:00
@@ -1387,9 +1543,10 @@
  - [https://closing.mangaz.com](https://closing.mangaz.com)
  - date_published: 2024-11-05T12:54:13+00:00
 
- ## 全巻無料で漫画読み放題！ - マンガ図書館Z
- - [https://www.mangaz.com](https://www.mangaz.com)
- - date_published: 2024-11-08T11:29:05.088506+00:00
+ ## マンガ図書館Z
+ - [https://mangaz.com](https://mangaz.com)
+ - date_published: 2024-11-26T08:34:33+00:00
+ - tags: ['manga', 'out of print manga']
 
  ## MTC | MangeToiÇa » Le fanblog d'opinion ! - Fermeture
  - [http://mangetoica.com](http://mangetoica.com)
@@ -3741,6 +3898,11 @@
  - [https://www.marioboards.com](https://www.marioboards.com)
  - date_published: 2024-07-17T00:00:00+00:00
 
+ ## Mario Kart™ 8 Deluxe for Nintendo Switch™ – Official Site
+ - [https://mariokart.com](https://mariokart.com)
+ - date_published: 2024-11-26T12:19:50+00:00
+ - tags: ['video game']
+
  ## Mario Kart News, Updates and Events • Mario Karting
  - [https://mariokarting.com](https://mariokarting.com)
  - date_published: 2024-04-15T00:00:00+00:00
@@ -3884,166 +4046,4 @@
  ## Home — Marius Schulz
  - [https://mariusschulz.com](https://mariusschulz.com)
  - date_published: 2022-06-05T00:00:00+00:00
-
- ## mariya b
- - [https://mariyabeleva.com](https://mariyabeleva.com)
- - date_published: 2024-07-04T01:45:54.582939+00:00
-
- ## Marjacq
- - [http://www.marjacq.com](http://www.marjacq.com)
- - date_published: 2024-09-16T23:22:21.670294+00:00
-
- ## Marjorie Sandor
- - [https://marjoriesandor.com](https://marjoriesandor.com)
- - date_published: 2024-02-08T16:58:20.298035+00:00
-
- ## Marjorie Turner Hollman
- - [https://marjorieturner.com](https://marjorieturner.com)
- - date_published: 2024-06-26T23:40:27.679932+00:00
-
- ## Editing | Mark Allen Editorial
- - [http://markallenediting.com](http://markallenediting.com)
- - date_published: 2024-10-19T10:48:53.580971+00:00
-
- ## Editing | Mark Allen Editorial
- - [https://markalleneditorial.com](https://markalleneditorial.com)
- - date_published: 2024-10-19T10:46:05.839432+00:00
-
- ## Home - Mark Allen
- - [https://assets.markallengroup.com](https://assets.markallengroup.com)
- - date_published: 2024-05-01T02:31:16.359576+00:00
-
- ## Welcome to our career and social page  - Mark Allen
- - [https://careers.markallengroup.com](https://careers.markallengroup.com)
- - date_published: 2024-06-15T05:31:21.342794+00:00
-
- ## Mark Allen Group Privacy Policy
- - [https://contactpreferences.markallengroup.com](https://contactpreferences.markallengroup.com)
- - date_published: 2024-06-15T05:37:09.508725+00:00
-
- ## Why am I here?
- - [https://email.markallengroup.com](https://email.markallengroup.com)
- - date_published: 2020-12-23T19:02:09+00:00
-
- ## Aerospace Test & Development Show
- - [https://events.cms.markallengroup.com](https://events.cms.markallengroup.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Home - Mark Allen
- - [https://markallengroup.com](https://markallengroup.com)
- - date_published: 2024-06-15T05:37:19.807801+00:00
-
- ## Privacy policy - Mark Allen
- - [https://privacypolicy.markallengroup.com](https://privacypolicy.markallengroup.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Mark A. Morin
- - [https://markamorin.com](https://markamorin.com)
- - date_published: 2024-10-26T17:55:44.205752+00:00
-
- ## Mark and Graham: Page not available in your region
- - [http://www.markandgraham.com](http://www.markandgraham.com)
- - date_published: 2024-04-08T18:30:25+00:00
-
- ## Mark Goetz | Homepage
- - [https://markandrewgoetz.com](https://markandrewgoetz.com)
- - date_published: 2024-10-09T12:11:49.098463+00:00
-
- ## Mark Andrew Holmes's Personal Web Page
- - [http://markandrewholmes.com](http://markandrewholmes.com)
- - date_published: 2024-07-01T17:28:36+00:00
-
- ## Book Your Stay at Marka ApartHotel - Best Rates
- - [https://markaparthotel.com](https://markaparthotel.com)
- - date_published: 2024-08-07T21:29:22.351427+00:00
-
- ## Mark Arax - Mark Arax | Award-Winning Journalist & Author
- - [https://mark-arax.com](https://mark-arax.com)
- - date_published: 2021-06-17T00:00:00+00:00
-
- ## Mark A. R. Kleiman
- - [http://www.markarkleiman.com](http://www.markarkleiman.com)
- - date_published: 2022-11-23T07:24:27+00:00
-
- ## Mark A Saurus - A Blog To Make You Knowledgeable On Technologies
- - [https://markasaurus.com](https://markasaurus.com)
- - date_published: 2024-06-28T13:26:35.358624+00:00
-
- ## Mark Bajerski - Pure Energy Healing Academy
- - [https://markbajerski.com](https://markbajerski.com)
- - date_published: 2024-06-15T08:47:59.655243+00:00
-
- ## Mark Binder – Author, Storyteller, Nice Guy – Website Got Hacked — we're fixing it slowly
- - [https://classic.markbinder.com](https://classic.markbinder.com)
- - date_published: 2024-05-06T20:16:44.951525+00:00
-
- ## Mark Binder author storyteller nice guy books audiobook
- - [https://markbinderbooks.com](https://markbinderbooks.com)
- - date_published: 2024-05-06T20:16:42.760554+00:00
-
- ## Home
- - [http://www.markblokpoel.com](http://www.markblokpoel.com)
- - date_published: 2024-07-26T11:27:48+00:00
-
- ## Mark Bohle
- - [http://www.markbohle.com](http://www.markbohle.com)
- - date_published: 2024-07-13T16:14:08.129190+00:00
-
- ## Mark Bolding
- - [https://markbolding.com](https://markbolding.com)
- - date_published: 2024-08-07T20:42:09.325782+00:00
-
- ## Mark Bould
- - [https://markbould.com](https://markbould.com)
- - date_published: 2024-06-20T00:56:20+00:00
-
- ## Mark Bramley
- - [https://markbramley.com](https://markbramley.com)
- - date_published: 2024-10-29T14:31:28.003036+00:00
-
- ## Progress and Survival | Mark Braund | Substack
- - [http://www.markbraund.com](http://www.markbraund.com)
- - date_published: 2024-10-21T14:18:48.357455+00:00
-
- ## Mark Brownsword
- - [https://markbrownsword.com](https://markbrownsword.com)
- - date_published: 2024-06-19T23:38:45+00:00
-
- ## MarkCK's Website of Weird and Wondermous Projects
- - [https://markck.com](https://markck.com)
- - date_published: 2022-12-15T22:10:56+00:00
-
- ## Mark C Newton
- - [https://markcnewton.com](https://markcnewton.com)
- - date_published: 2024-05-08T06:33:46.232328+00:00
-
- ## Mark Copeman - Helpdesk Habits author, event host & video presenter
- - [https://markcopeman.com](https://markcopeman.com)
- - date_published: 2024-02-26T08:58:10.308994+00:00
- - tags: ['personal']
-
- ## Home - Mark Cuban Companies
- - [https://markcubancompanies.com](https://markcubancompanies.com)
- - date_published: 2024-09-14T22:10:26.965714+00:00
-
- ## Home – 2
- - [https://markdalessandro.com](https://markdalessandro.com)
- - date_published: 2023-11-29T16:18:35.576321+00:00
- - tags: ['personal']
-
- ## Mark Dalgleish
- - [https://markdalgleish.com](https://markdalgleish.com)
- - date_published: 2013-11-19T03:02:39+00:00
-
- ## Mark Dery
- - [http://markdery.com](http://markdery.com)
- - date_published: 2020-02-07T16:18:33+00:00
-
- ## @mdo
- - [http://markdotto.com](http://markdotto.com)
- - date_published: 2024-06-11T21:29:33+00:00
-
- ## Markdown Here
- - [https://markdown-here.com](https://markdown-here.com)
- - date_published: 2017-11-29T03:20:51+00:00
 

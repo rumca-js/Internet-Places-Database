@@ -1,3 +1,15 @@
+ ## Home
+ - [https://emploi.unige.ch](https://emploi.unige.ch)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Mailing List Service - home
+ - [https://listes.unige.ch](https://listes.unige.ch)
+ - date_published: 2024-08-19T20:01:43.297736+00:00
+
+ ## Password Self Service
+ - [https://mdp.unige.ch](https://mdp.unige.ch)
+ - date_published: 2024-07-21T05:11:19.346057+00:00
+
  ## Accueil - Memento - UNIGE
  - [https://memento.unige.ch](https://memento.unige.ch)
  - date_published: 2019-10-02T00:00:00+00:00
@@ -4000,16 +4012,4 @@
  ## Our Community is open to all who use WordPress. Beginner or Expert - join us! - WP Africa
  - [https://wpafrica.gbefunwa.cloud](https://wpafrica.gbefunwa.cloud)
  - date_published: 2024-07-15T07:24:29.853944+00:00
-
- ## Giardino delle Fate
- - [https://www.giardinodellefate.cloud](https://www.giardinodellefate.cloud)
- - date_published: 2024-09-02T16:54:43.406395+00:00
-
- ## Glasskube Cloud
- - [https://glasskube.cloud](https://glasskube.cloud)
- - date_published: 2024-06-25T08:55:13+00:00
-
- ## GLPI Network Cloud
- - [https://glpi-network.cloud](https://glpi-network.cloud)
- - date_published: 2024-02-14T00:00:00+00:00
 

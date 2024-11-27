@@ -1,3 +1,225 @@
+ ## petermolnar's PubSubHubbub Hub
+ - [https://petermolnar.superfeedr.com](https://petermolnar.superfeedr.com)
+ - date_published: 2024-09-02T17:03:50.950440+00:00
+
+ ## Superfeedr Open PubSubHubbub's PubSubHubbub Hub
+ - [https://pubsubhubbub.superfeedr.com](https://pubsubhubbub.superfeedr.com)
+ - date_published: 2024-06-15T04:07:21.604138+00:00
+
+ ## simplecast's PubSubHubbub Hub
+ - [https://simplecast.superfeedr.com](https://simplecast.superfeedr.com)
+ - date_published: 2024-06-23T06:56:44.320640+00:00
+
+ ## Superfeedr - RSS Feed API & jQuery RSS API | Push Service
+ - [https://superfeedr.com](https://superfeedr.com)
+ - date_published: 2024-06-23T16:20:26.435185+00:00
+
+ ## VoxPelli's PubSubHubbub Hub
+ - [https://voxpelli.superfeedr.com](https://voxpelli.superfeedr.com)
+ - date_published: 2024-07-12T02:17:47.750379+00:00
+
+ ## Known's PubSubHubbub Hub
+ - [https://withknown.superfeedr.com](https://withknown.superfeedr.com)
+ - date_published: 2024-05-06T14:48:50.364058+00:00
+
+ ## Everyday Dose | Portal
+ - [https://everydaydose.superfiliate.com](https://everydaydose.superfiliate.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## glamnetic | Portal
+ - [https://glamnetic.superfiliate.com](https://glamnetic.superfiliate.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Superfiliate | Scale end to end influencer, affiliate and referral programs
+ - [https://huronshowercaddies.superfiliate.com](https://huronshowercaddies.superfiliate.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Top of the Mornin Coffee | Portal
+ - [https://topofthemornincoffeecreator.superfiliate.com](https://topofthemornincoffeecreator.superfiliate.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Huron | Portal
+ - [https://usehuron.superfiliate.com](https://usehuron.superfiliate.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Superframe: AI-powered Sales Tool
+ - [https://superframe.com](https://superframe.com)
+ - date_published: 2024-07-24T02:33:27.831728+00:00
+
+ ## Superframeworks
+ - [https://superframeworks.com](https://superframeworks.com)
+ - date_published: 2024-04-10T05:03:56+00:00
+
+ ## Home - SuperGeekery!
+ - [https://supergeekery.com](https://supergeekery.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Supergiant Games
+ - [https://www.supergiantgames.com](https://www.supergiantgames.com)
+ - date_published: 2024-06-23T06:25:23.069538+00:00
+
+ ## AltaVista UTZOO search
+ - [https://altavista.superglobalmegacorp.com](https://altavista.superglobalmegacorp.com)
+ - date_published: 2024-05-07T10:49:16.136816+00:00
+
+ ## IFCTF Quasijarus Project
+ - [https://ifctfvax.superglobalmegacorp.com](https://ifctfvax.superglobalmegacorp.com)
+ - date_published: 2015-01-15T15:01:00+00:00
+
+ ## LainNet
+ - [https://lainnet.superglobalmegacorp.com](https://lainnet.superglobalmegacorp.com)
+ - date_published: 2024-05-06T15:10:43.651516+00:00
+
+ ## Hoshi's New MacMiNT Page
+ - [https://macmint.superglobalmegacorp.com](https://macmint.superglobalmegacorp.com)
+ - date_published: 2024-01-20T18:17:43+00:00
+
+ ## NeXTSTEP 3.3
+ - [https://nextstep.superglobalmegacorp.com](https://nextstep.superglobalmegacorp.com)
+ - date_published: 2015-03-18T01:41:16+00:00
+
+ ## Oldlinux.org -- Linux plinux - Early Linux Kernel Analysis and Comments
+ - [https://oldlinux.superglobalmegacorp.com](https://oldlinux.superglobalmegacorp.com)
+ - date_published: 2024-05-07T10:49:22.723398+00:00
+
+ ## Index of /
+ - [https://tuhs.superglobalmegacorp.com](https://tuhs.superglobalmegacorp.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## SCOhelp
+ - [https://unix.superglobalmegacorp.com](https://unix.superglobalmegacorp.com)
+ - date_published: 2024-05-07T10:49:37.429875+00:00
+
+ ## Virtually Fun | Fun with Virtualization
+ - [https://virtuallyfun.superglobalmegacorp.com](https://virtuallyfun.superglobalmegacorp.com)
+ - date_published: 2024-05-08T11:03:16.120488+00:00
+
+ ## Superglue
+ - [https://superglueltd.com](https://superglueltd.com)
+ - date_published: 2024-05-07T10:02:27.839619+00:00
+
+ ## Mike Blumenkrantz – Super. Good. Chair.
+ - [https://www.supergoodcode.com](https://www.supergoodcode.com)
+ - date_published: 2024-06-21T14:25:35+00:00
+
+ ## Supergoop! The Best Skincare with SPF and Sunscreen
+ - [https://supergoop.com](https://supergoop.com)
+ - date_published: 2024-07-11T21:39:47.794745+00:00
+
+ ## Supergrass - Home
+ - [https://www.supergrass.com](https://www.supergrass.com)
+ - date_published: 2024-06-27T16:31:33.332486+00:00
+ - tags: ['music band']
+
+ ## 👋 | Supergreat
+ - [https://supergreat.com](https://supergreat.com)
+ - date_published: 2024-05-08T04:32:15.992102+00:00
+
+ ## Superhappiness ?
+ - [https://superhappiness.com](https://superhappiness.com)
+ - date_published: 2024-01-24T14:12:06+00:00
+
+ ## Superhero - Social platform with a mission
+ - [https://superhero.com](https://superhero.com)
+ - date_published: 2024-06-18T12:17:28+00:00
+
+ ## The SuperHeroHype Forums
+ - [https://forums.superherohype.com](https://forums.superherohype.com)
+ - date_published: 2024-07-02T23:16:33.617077+00:00
+
+ ## Comic Book Movies and Superhero Movie News - SuperHeroHype
+ - [http://superherohype.com](http://superherohype.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## SuperHi Editor
+ - [https://subeditor.superhi.com](https://subeditor.superhi.com)
+ - date_published: 2024-04-08T07:39:16+00:00
+
+ ## Online code, design, and project management courses • SuperHi
+ - [https://superhi.com](https://superhi.com)
+ - date_published: 2024-05-02T13:27:16.954690+00:00
+
+ ## SUPERHOT - The FPS where time moves only when you move
+ - [https://superhotgame.com](https://superhotgame.com)
+ - date_published: 2023-12-06T08:03:27+00:00
+ - tags: ['video game']
+
+ ## Superhuman Blog
+ - [https://blog.superhuman.com](https://blog.superhuman.com)
+ - date_published: 2024-05-04T13:56:23.646560+00:00
+
+ ## Superhuman Help Center
+ - [https://help.superhuman.com](https://help.superhuman.com)
+ - date_published: 2024-06-23T09:40:36.104094+00:00
+
+ ## Superhuman
+ - [https://mail.superhuman.com](https://mail.superhuman.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Superhuman | Blazingly fast email for teams and individuals
+ - [https://superhuman.com](https://superhuman.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Суперх'юманс Центр
+ - [https://superhumans.com](https://superhumans.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 象山坠靥房产交易有限公司
+ - [http://www.superhyperdemonchild.com](http://www.superhyperdemonchild.com)
+ - date_published: 2024-07-13T10:24:57.840060+00:00
+
+ ## Beyond your typical digital agency
+ - [https://superinteractive.com](https://superinteractive.com)
+ - date_published: 2024-10-16T10:24:33.210881+00:00
+
+ ## Superior Choice Credit Union
+ - [https://my.superiorchoice.com](https://my.superiorchoice.com)
+ - date_published: 2024-07-10T03:56:27.840276+00:00
+
+ ## Homepage
+ - [https://superiorchoice.com](https://superiorchoice.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Superior Construction
+ - [https://www.superiorconstruction.com](https://www.superiorconstruction.com)
+ - date_published: 2024-07-22T04:01:04.044960+00:00
+
+ ## Concrete and Construction Contractor in Texas
+ - [http://www.superiorconstructionservices.com](http://www.superiorconstructionservices.com)
+ - date_published: 2024-07-04T17:21:22.136521+00:00
+
+ ## SuperiorEssentials
+ - [https://superioressentials.com](https://superioressentials.com)
+ - date_published: 2024-09-02T10:54:42.710060+00:00
+
+ ## Home
+ - [https://superiorglove.com](https://superiorglove.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## SUPERIORITY BURGER
+ - [https://www.superiorityburger.com](https://www.superiorityburger.com)
+ - date_published: 2024-06-29T10:07:13.112008+00:00
+
+ ## Superior Realities
+ - [http://superior-realities.com](http://superior-realities.com)
+ - date_published: 2024-09-03T23:01:41.512800+00:00
+
+ ## Superior Resources
+ - [https://www.superiorresourcesllc.com](https://www.superiorresourcesllc.com)
+ - date_published: 2024-09-16T22:27:11.663016+00:00
+
+ ## Welcome to Superior Sauna & Steam
+ - [https://superiorsaunas.com](https://superiorsaunas.com)
+ - date_published: 2024-05-12T06:10:50.932721+00:00
+
+ ## Superior Solitaire: Ad-free card game collection
+ - [https://www.superiorsolitaire.com](https://www.superiorsolitaire.com)
+ - date_published: 2024-07-20T18:51:40.349134+00:00
+
+ ## Superior Telegram - Superior Telegram | News, weather, sports from Superior Wisconsin
+ - [https://www.superiortelegram.com](https://www.superiortelegram.com)
+ - date_published: 2024-07-13T12:47:58.871065+00:00
+
  ## Superjet International
  - [http://www.superjetinternational.com](http://www.superjetinternational.com)
  - date_published: 2024-07-09T21:53:09.553561+00:00
@@ -49,6 +271,10 @@
  ## Superlunar
  - [https://superlunar.com](https://superlunar.com)
  - date_published: 2022-12-15T00:00:00+00:00
+
+ ## DC.com - Official Superman Hub
+ - [https://superman.com](https://superman.com)
+ - date_published: 2024-11-26T08:43:18+00:00
 
  ## Superman Homepage
  - [https://supermanhomepage.com](https://supermanhomepage.com)
@@ -3808,228 +4034,4 @@
  ## Connect your bank to YNAB | Sync for YNAB
  - [https://syncforynab.com](https://syncforynab.com)
  - date_published: 2024-10-02T11:49:56.172569+00:00
-
- ## Blazor Components Examples & Demos | Syncfusion
- - [https://blazor.syncfusion.com](https://blazor.syncfusion.com)
- - date_published: 2024-07-19T23:39:06.205471+00:00
-
- ## Syncfusion Essential Studio Resources and Documentation
- - [http://helpjs.syncfusion.com](http://helpjs.syncfusion.com)
- - date_published: 2024-02-03T02:18:58+00:00
-
- ## Documentation and resources for Syncfusion products
- - [https://help.syncfusion.com](https://help.syncfusion.com)
- - date_published: 2024-07-19T23:39:13.144569+00:00
-
- ## Demos, Examples & Tutorial Samples of Syncfusion JavaScript (ES5) UI Controls
- - [http://js.syncfusion.com](http://js.syncfusion.com)
- - date_published: 2024-09-19T10:28:17+00:00
-
- ## How can we help you?
- - [https://support.syncfusion.com](https://support.syncfusion.com)
- - date_published: 2024-07-19T23:39:10.723201+00:00
-
- ## .NET, Xamarin, JavaScript, Angular UI components | Syncfusion
- - [https://syncfusion.com](https://syncfusion.com)
- - date_published: 2023-10-25T17:20:42.708228+00:00
-
- ## ASCOMP Synchredible: Synchronize and back-up files, folders and drives
- - [http://www.synchredible.com](http://www.synchredible.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home page - Synchronista LLC
- - [https://synchronista.com](https://synchronista.com)
- - date_published: 2021-06-20T09:21:22+00:00
-
- ## Investors
- - [https://investors.synchrony.com](https://investors.synchrony.com)
- - date_published: 2024-10-11T10:10:21.253377+00:00
-
- ## Credit Cards, Financing, Marketplace, Banking & More - Synchrony
- - [https://synchrony.com](https://synchrony.com)
- - date_published: 2024-10-11T04:44:22+00:00
-
- ## Log In To Your Account | Synchrony Bank
- - [https://auth.synchronybank.com](https://auth.synchronybank.com)
- - date_published: 2024-10-11T10:09:51.158779+00:00
-
- ## BlueConic: Log In
- - [https://p648.synchronybank.com](https://p648.synchronybank.com)
- - date_published: 2024-10-11T10:18:07.504952+00:00
-
- ## Synchrony Bank - Start Saving With Award-Winning Online Banking
- - [https://qwww.synchronybank.com](https://qwww.synchronybank.com)
- - date_published: 2024-10-11T10:22:38+00:00
-
- ## Synchrony Bank
- - [https://securelogin.synchronybank.com](https://securelogin.synchronybank.com)
- - date_published: 2024-06-06T02:46:15+00:00
-
- ## BlueConic: Log In
- - [https://u633.synchronybank.com](https://u633.synchronybank.com)
- - date_published: 2024-10-11T10:15:57.970837+00:00
-
- ## Synchrony Bank - Start Saving With Award-Winning Online Banking
- - [https://www.synchronybank.com](https://www.synchronybank.com)
- - date_published: 2024-05-01T07:04:51.649103+00:00
-
- ## Synchrony Bank Credit Card Agreements
- - [https://www.synchronybankterms.com](https://www.synchronybankterms.com)
- - date_published: 2024-04-29T08:29:55+00:00
-
- ## Business Center
- - [https://businesscenter.synchronybusiness.com](https://businesscenter.synchronybusiness.com)
- - date_published: 2018-06-12T18:38:47+00:00
-
- ## Synchrony Business Solutions: Offer Financing to Customers
- - [https://www.synchronybusiness.com](https://www.synchronybusiness.com)
- - date_published: 2024-06-26T16:14:20+00:00
-
- ## Homepage
- - [https://www.synchronycareers.com](https://www.synchronycareers.com)
- - date_published: 2024-10-11T10:10:14.716991+00:00
-
- ## Log In To Your Account | Synchrony Bank
- - [https://dev-auth.synchronycredit.com](https://dev-auth.synchronycredit.com)
- - date_published: 2024-10-11T10:11:32.279762+00:00
-
- ## Synchrony Bank
- - [https://dev-ignite.synchronycredit.com](https://dev-ignite.synchronycredit.com)
- - date_published: 2024-10-09T15:42:19+00:00
-
- ## Synchrony Financial
- - [https://dev.synchronycredit.com](https://dev.synchronycredit.com)
- - date_published: 2023-05-26T08:04:20+00:00
-
- ## Synchrony Financial
- - [https://images.synchronycredit.com](https://images.synchronycredit.com)
- - date_published: 2023-03-13T16:06:51+00:00
-
- ## Log In To Your Account | Synchrony Bank
- - [https://qa-auth.synchronycredit.com](https://qa-auth.synchronycredit.com)
- - date_published: 2024-10-11T10:16:55.211678+00:00
-
- ## Synchrony Financial
- - [https://qa-pcf.synchronycredit.com](https://qa-pcf.synchronycredit.com)
- - date_published: 2023-03-13T16:06:51+00:00
-
- ## Synchrony Financial
- - [https://qa.synchronycredit.com](https://qa.synchronycredit.com)
- - date_published: 2023-03-13T16:06:51+00:00
-
- ## BlueConic: Log In
- - [https://s387.synchronycredit.com](https://s387.synchronycredit.com)
- - date_published: 2024-10-11T10:15:35.111445+00:00
-
- ## Synchrony Financial
- - [https://uat.synchronycredit.com](https://uat.synchronycredit.com)
- - date_published: 2023-03-13T16:06:51+00:00
-
- ## Synchrony Financial
- - [https://www.synchronycredit.com](https://www.synchronycredit.com)
- - date_published: 2023-08-25T09:30:49+00:00
-
- ## Synchrony Skills Academy
- - [https://synchronyskillsacademy.com](https://synchronyskillsacademy.com)
- - date_published: 2024-10-11T10:10:02+00:00
-
- ## Synchro Publisher
- - [http://www.synchropublisher.com](http://www.synchropublisher.com)
- - date_published: 2024-10-29T17:39:57.169333+00:00
-
- ## Syncona – building the next generation of global leaders in life science
- - [https://www.synconaltd.com](https://www.synconaltd.com)
- - date_published: 2024-07-15T03:41:44.149231+00:00
-
- ## Syncotherapy
- - [https://syncotherapy.com](https://syncotherapy.com)
- - date_published: 2024-06-21T20:40:11.768905+00:00
-
- ## grsshppr — CRON Gone Wild
- - [https://blog.syncpup.com](https://blog.syncpup.com)
- - date_published: 2024-01-09T02:49:30.761344+00:00
-
- ## Syncro Support Community
- - [https://community.syncromsp.com](https://community.syncromsp.com)
- - date_published: 2024-10-05T00:00:00+00:00
-
- ## Send your friends to Syncro—and earn big
- - [https://refer.syncromsp.com](https://refer.syncromsp.com)
- - date_published: 2024-10-07T18:16:34.400343+00:00
-
- ## Syncro | Helping you run a profitable MSP
- - [https://syncromsp.com](https://syncromsp.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Status Page - Syncro
- - [https://www.syncrostatus.com](https://www.syncrostatus.com)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## Creative collaboration platform for teams and businesses | SyncSketch
- - [https://go.syncsketch.com](https://go.syncsketch.com)
- - date_published: 2024-06-27T11:29:06.949792+00:00
-
- ## License Keys - Precisely Support Gateway
- - [https://supportgateway.syncsort.com](https://supportgateway.syncsort.com)
- - date_published: 2024-09-19T01:09:18.642290+00:00
-
- ## Synctera
- - [https://app.synctera.com](https://app.synctera.com)
- - date_published: 2024-08-14T21:28:59+00:00
-
- ## Synctera Developer Docs
- - [https://dev.synctera.com](https://dev.synctera.com)
- - date_published: 2024-08-19T05:01:01.536042+00:00
-
- ## Synctera Learning Center
- - [https://learn.synctera.com](https://learn.synctera.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Synctera | Easily build banking for your customers
- - [https://synctera.com](https://synctera.com)
- - date_published: 2023-10-25T17:20:46.427654+00:00
-
- ## SyncThemCalendars : sync your calendars without scheduling conflicts
- - [https://syncthemcalendars.com](https://syncthemcalendars.com)
- - date_published: 2024-10-18T15:40:11+00:00
-
- ## Breaking News Topics with Media Bias Indication | SyncTopic
- - [https://synctopic.com](https://synctopic.com)
- - date_published: 2024-07-19T16:02:19.066344+00:00
-
- ## Penetration Testing as a Service | SYN CUBES
- - [https://www.syncubes.com](https://www.syncubes.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## SyncWords Support
- - [https://support.syncwords.com](https://support.syncwords.com)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Captions & Translations for Live Media & VOD  | SyncWords
- - [https://www.syncwords.com](https://www.syncwords.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Syndetics Unbound
- - [https://admin.syndetics.com](https://admin.syndetics.com)
- - date_published: 2024-09-02T16:36:30.277603+00:00
-
- ## ProQuest-Syndetic Solutions
- - [https://images.syndetics.com](https://images.syndetics.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ProQuest-Syndetic Solutions
- - [https://lib.syndetics.com](https://lib.syndetics.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ProQuest-Syndetic Solutions
- - [https://plus.syndetics.com](https://plus.syndetics.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ProQuest-Syndetic Solutions
- - [https://proquest.syndetics.com](https://proquest.syndetics.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ProQuest-Syndetic Solutions
- - [https://secure.syndetics.com](https://secure.syndetics.com)
- - date_published: 2024-05-02T00:00:00+00:00
 

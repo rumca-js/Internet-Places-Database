@@ -1,3 +1,35 @@
+ ## Anunciarse en podcasts y video podcasts - AdVoices
+ - [https://advoices.com](https://advoices.com)
+ - date_published: 2024-07-20T22:54:21.108056+00:00
+
+ ## AdvoLogix - Enterprise Grade Legal Operations Platform
+ - [https://advologix.com](https://advologix.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## AdvoLogix Help
+ - [https://help.advologix.com](https://help.advologix.com)
+ - date_published: 2024-05-01T02:29:41.321786+00:00
+
+ ## Carrick Dashboard
+ - [https://carrick-ui.advoncommerce.com](https://carrick-ui.advoncommerce.com)
+ - date_published: 2024-05-06T21:25:37.175320+00:00
+
+ ## ADVPES
+ - [https://advpes.com](https://advpes.com)
+ - date_published: 2024-08-11T08:12:16.918086+00:00
+
+ ## Advanced Publishing Technology, Inc.
+ - [http://www.advpubtech.com](http://www.advpubtech.com)
+ - date_published: 2023-10-03T17:31:41+00:00
+
+ ## ADV Pulse
+ - [https://advpulse.com](https://advpulse.com)
+ - date_published: 2024-05-01T02:29:44.922011+00:00
+
+ ## ADV Ratings
+ - [https://www.advratings.com](https://www.advratings.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
  ## ChartDirector Chart Component and Control Library for .NET (C#/VB), Java, C++, ASP, COM, PHP, Perl, Python
  - [https://www.advsofteng.com](https://www.advsofteng.com)
  - date_published: 2021-08-01T07:52:23+00:00
@@ -2008,6 +2040,10 @@
  - [https://ucsf.ilab.agilent.com](https://ucsf.ilab.agilent.com)
  - date_published: 2024-06-17T12:15:22.598926+00:00
 
+ ## Agile Is Dead
+ - [https://www.agilepilled.com](https://www.agilepilled.com)
+ - date_published: 2024-11-26T17:00:22+00:00
+
  ## Agile Potluck™ – Let's Wine, Dine, and Talk Agile!
  - [https://agilepotluck.com](https://agilepotluck.com)
  - date_published: 2024-05-08T05:14:14.055991+00:00
@@ -3986,40 +4022,4 @@
  ## AirForces Intelligence
  - [http://www.airforcesintel.com](http://www.airforcesintel.com)
  - date_published: 2024-07-09T22:00:58.273846+00:00
-
- ## AirForces Daily | Military Aviation…At Your Fingertips
- - [http://www.airforcesmonthly.com](http://www.airforcesmonthly.com)
- - date_published: 2024-07-09T22:05:03.778691+00:00
-
- ## Air Force Technology | Air Defence News & Views Updated Daily
- - [https://airforce-technology.com](https://airforce-technology.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Air Force Times, Independent News For Airmen | Air Force Times
- - [https://airforcetimes.com](https://airforcetimes.com)
- - date_published: 2023-10-25T12:36:24.354876+00:00
-
- ## Accueil
- - [https://api.corporate.airfrance.com](https://api.corporate.airfrance.com)
- - date_published: 2024-10-07T09:42:48+00:00
-
- ## Home page
- - [http://corporate.airfrance.com](http://corporate.airfrance.com)
- - date_published: 2024-06-16T12:45:09.982483+00:00
-
- ## Air France
- - [https://partenariats.airfrance.com](https://partenariats.airfrance.com)
- - date_published: 2024-10-07T15:56:28.764871+00:00
-
- ## AIR FRANCE - Site d'offres d'emploi
- - [https://recrutement.airfrance.com](https://recrutement.airfrance.com)
- - date_published: 2024-10-07T15:56:24.669438+00:00
-
- ## Air France Shopping : Bagagerie, maquettes, et bien plus encore
- - [https://shopping.airfrance.com](https://shopping.airfrance.com)
- - date_published: 2024-06-03T09:27:23+00:00
-
- ## Air France
- - [https://www.airfrance.com](https://www.airfrance.com)
- - date_published: 2024-05-01T06:45:55.588850+00:00
 

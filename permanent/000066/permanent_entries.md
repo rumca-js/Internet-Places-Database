@@ -1,3 +1,87 @@
+ ## Homepage | BMJ Oncology
+ - [https://bmjoncology.bmj.com](https://bmjoncology.bmj.com)
+ - date_published: 2023-10-25T13:07:13.553869+00:00
+
+ ## Homepage | BMJ Open
+ - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
+ - date_published: 2023-11-21T13:29:50.036206+00:00
+
+ ## Homepage | BMJ Open Gastroenterology
+ - [https://bmjopengastro.bmj.com](https://bmjopengastro.bmj.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Homepage | BMJ Open Quality
+ - [https://bmjopenquality.bmj.com](https://bmjopenquality.bmj.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Homepage | BMJ Open Respiratory Research
+ - [https://bmjopenrespres.bmj.com](https://bmjopenrespres.bmj.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Homepage | BMJ Open Sport & Exercise Medicine
+ - [https://bmjopensem.bmj.com](https://bmjopensem.bmj.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Homepage | BMJ Open Ophthalmology
+ - [https://bmjophth.bmj.com](https://bmjophth.bmj.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Homepage | BMJ Paediatrics Open
+ - [https://bmjpaedsopen.bmj.com](https://bmjpaedsopen.bmj.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Homepage | BMJ Public Health
+ - [https://bmjpublichealth.bmj.com](https://bmjpublichealth.bmj.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## BMJ  Careers  |  jobs  |  Choose  from  996  live  vacancies
+ - [https://careers.bmj.com](https://careers.bmj.com)
+ - date_published: 2024-05-08T03:01:19.366544+00:00
+
+ ## Homepage | BMJ Case Reports
+ - [https://casereports.bmj.com](https://casereports.bmj.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Home
+ - [https://clinicalintelligence.bmj.com](https://clinicalintelligence.bmj.com)
+ - date_published: 2024-07-03T15:26:33.108331+00:00
+
+ ## Home - BMJ Group
+ - [http://company.bmj.com](http://company.bmj.com)
+ - date_published: 2024-02-21T10:27:02+00:00
+
+ ## Homepage | Considerations In Medicine
+ - [https://considerations.bmj.com](https://considerations.bmj.com)
+ - date_published: 2024-07-03T15:23:48.730016+00:00
+
+ ## Search 16 UK medical courses on BMJ Careers Course finder
+ - [https://coursefinder.bmj.com](https://coursefinder.bmj.com)
+ - date_published: 2024-07-03T15:32:17.348182+00:00
+
+ ## The BMJ: Leading Medical Research, News, Education, Opinion
+ - [https://doc2doc.bmj.com](https://doc2doc.bmj.com)
+ - date_published: 2024-05-08T03:01:23.041777+00:00
+
+ ## Homepage | BMJ Open Diabetes Research & Care
+ - [http://drc.bmj.com](http://drc.bmj.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Homepage | Drug and Therapeutics Bulletin
+ - [https://dtb.bmj.com](https://dtb.bmj.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Homepage | BMJ Evidence-Based Medicine
+ - [https://ebm.bmj.com](https://ebm.bmj.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Homepage | BMJ Mental Health
+ - [https://ebmh.bmj.com](https://ebmh.bmj.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Homepage | Evidence Based Nursing
+ - [https://ebn.bmj.com](https://ebn.bmj.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## Homepage | eGastroenterology
  - [https://egastroenterology.bmj.com](https://egastroenterology.bmj.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -3948,6 +4032,11 @@
  - [https://www.borderlandbeat.com](https://www.borderlandbeat.com)
  - date_published: 2024-07-02T00:00:00+00:00
 
+ ## Borderlands | Official Website
+ - [https://borderlands.com](https://borderlands.com)
+ - date_published: 2024-11-26T12:17:09+00:00
+ - tags: ['video game']
+
  ## Borderleft
  - [https://borderleft.com](https://borderleft.com)
  - date_published: 2024-04-29T20:11:06+00:00
@@ -3971,94 +4060,4 @@
  ## Bored Cricket Crazy Indians (BCC!) - play with cricket
  - [http://www.boredcricketcrazyindians.com](http://www.boredcricketcrazyindians.com)
  - date_published: 2024-09-14T21:52:31+00:00
-
- ## BoredHumans.com - Free AI Tools
- - [https://boredhumans.com](https://boredhumans.com)
- - date_published: 2024-06-19T20:05:22.157648+00:00
-
- ## Bored Landlord – Your Properties, No Drama
- - [https://boredlandlord.com](https://boredlandlord.com)
- - date_published: 2024-09-02T09:47:05.165836+00:00
-
- ## Bored Panda
- - [https://boredpanda.com](https://boredpanda.com)
- - date_published: 2024-04-18T10:08:17+00:00
- - tags: ['memes', 'gossip']
-
- ## Let’s Fight Boredom Together! - Bored Panda
- - [https://jobs.boredpanda.com](https://jobs.boredpanda.com)
- - date_published: 2024-05-08T03:15:04.246601+00:00
-
- ## Bored Panda
- - [http://static.boredpanda.com](http://static.boredpanda.com)
- - date_published: 2024-10-16T02:01:58.767266+00:00
-
- ## Top Articles • BoredReading.com
- - [https://boredreading.com](https://boredreading.com)
- - date_published: 2023-10-25T13:08:47.619008+00:00
-
- ## Bored Trash Panda
- - [https://www.boredtrashpanda.com](https://www.boredtrashpanda.com)
- - date_published: 2024-09-19T20:09:14.029856+00:00
-
- ## Bored Wolves est. 895m
- - [https://www.boredwolves.com](https://www.boredwolves.com)
- - date_published: 2021-08-01T00:00:00+00:00
-
- ## Kenn Borek Air
- - [https://borekair.com](https://borekair.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Já não vou salvar o mundo ·  Já não vou salvar o mundo
- - [https://www.borfast.com](https://www.borfast.com)
- - date_published: 2024-07-18T22:31:26.537822+00:00
-
- ## Matteo Borgato
- - [https://borgateo.com](https://borgateo.com)
- - date_published: 2024-05-09T06:19:03.131752+00:00
-
- ## BorgBase System Status
- - [https://status.borgbase.com](https://status.borgbase.com)
- - date_published: 2023-10-25T13:08:48.726711+00:00
-
- ## BorgBase - Simple and Secure Hosting for your Borg and Restic Repositories
- - [https://www.borgbase.com](https://www.borgbase.com)
- - date_published: 2024-07-15T11:45:00+00:00
-
- ## Borgeson Universal Co. Inc. | Premier Aftermarket Steering Components and Solutions
- - [https://borgeson.com](https://borgeson.com)
- - date_published: 2024-10-28T08:04:45+00:00
-
- ## Star Trek: Borg – Remastered
- - [https://borgremastered.com](https://borgremastered.com)
- - date_published: 2024-02-19T20:43:39+00:00
- - tags: ['star trek']
-
- ## Home - BorgWarner
- - [http://www.borgwarner.com](http://www.borgwarner.com)
- - date_published: 2024-07-12T13:30:53.639392+00:00
-
- ## boriel.com
- - [https://www.boriel.com](https://www.boriel.com)
- - date_published: 2013-01-16T00:00:00+00:00
-
- ## BORINGBORINGBORING.COM
- - [https://boringboringboring.com](https://boringboringboring.com)
- - date_published: 2024-03-18T22:23:07+00:00
-
- ## boringcactus (Melody Horn)
- - [https://boringcactus.com](https://boringcactus.com)
- - date_published: 2024-07-23T23:25:54.523502+00:00
-
- ## The Boring Company
- - [https://www.boringcompany.com](https://www.boringcompany.com)
- - date_published: 2024-08-19T10:47:23.471131+00:00
-
- ## Boring Rails: Skip the bullshit and ship fast
- - [https://boringrails.com](https://boringrails.com)
- - date_published: 2024-06-27T11:46:48.371296+00:00
-
- ## boringSQL | Supercharge your SQL & PostgreSQL powers
- - [https://notso.boringsql.com](https://notso.boringsql.com)
- - date_published: 2024-05-04T00:00:00+00:00
 

@@ -1,3 +1,269 @@
+ ## Overview - Get started - Atlassian Design System
+ - [https://atlassian.design](https://atlassian.design)
+ - date_published: 2024-08-18T20:15:42+00:00
+
+ ## Auror@
+ - [http://auror.design](http://auror.design)
+ - date_published: 2024-06-22T08:50:18.393831+00:00
+
+ ## Your Free Logo Maker
+ - [https://automagic.design](https://automagic.design)
+ - date_published: 2018-07-05T18:30:31+00:00
+
+ ## Automator for Figma
+ - [https://automator.design](https://automator.design)
+ - date_published: 2024-10-30T14:04:41.240952+00:00
+
+ ## Automattic Design
+ - [https://automattic.design](https://automattic.design)
+ - date_published: 2024-06-30T23:38:38+00:00
+
+ ## About
+ - [https://bald.design](https://bald.design)
+ - date_published: 2024-05-07T23:16:54.259184+00:00
+
+ ## Syntax Podcast: The Missing Browser
+ - [https://syntax.bald.design](https://syntax.bald.design)
+ - date_published: 2024-06-23T04:00:27.054777+00:00
+
+ ## BAM DESIGN | Web & Mobile Design Agency based in Paris
+ - [https://www.bam.design](https://www.bam.design)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Being Design | Branding and Marketing Consultants
+ - [https://being.design](https://being.design)
+ - date_published: 2024-05-10T06:47:25.912587+00:00
+
+ ## Enterprise & Consumer Apps that get results
+ - [https://bigrocket.design](https://bigrocket.design)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Bingham Design | Digital Marketing for Your Cause
+ - [https://bingham.design](https://bingham.design)
+ - date_published: 2024-01-11T13:29:06.035129+00:00
+
+ ## Bitcoin Design. Open-source design for bitcoin products.
+ - [https://bitcoin.design](https://bitcoin.design)
+ - date_published: 2024-08-19T15:16:19.791158+00:00
+
+ ## Black Design – Get your hands dirty!
+ - [http://black.design](http://black.design)
+ - date_published: 2024-07-13T15:42:40.454884+00:00
+
+ ## Blush: Illustrations for everyone
+ - [https://blush.design](https://blush.design)
+ - date_published: 2024-06-23T07:44:34.792530+00:00
+
+ ## Booking.com — UX Design
+ - [https://booking.design](https://booking.design)
+ - date_published: 2024-06-20T17:58:35.249504+00:00
+
+ ## Boring Design
+ - [https://boringboring.design](https://boringboring.design)
+ - date_published: 2024-07-18T23:14:46.356794+00:00
+
+ ## EasyDevo
+ - [https://easydevo.boringboring.design](https://easydevo.boringboring.design)
+ - date_published: 2024-07-18T23:14:45.343629+00:00
+
+ ## Brutal - A Brutalist HTML Template
+ - [http://brutalist.design](http://brutalist.design)
+ - date_published: 2023-06-23T15:09:09+00:00
+
+ ## Brutalist Web Design
+ - [https://brutalist-web.design](https://brutalist-web.design)
+ - date_published: 2023-09-29T00:00:00+00:00
+ - tags: ['brutalist web', 'web1', 'internet']
+
+ ## Mobile success
+ - [https://bsn.design](https://bsn.design)
+ - date_published: 2022-09-30T16:45:01+00:00
+
+ ## Campsite — The easiest way to keep everyone in the loop.
+ - [https://www.campsite.design](https://www.campsite.design)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Design For Awareness | Cap_able Design
+ - [https://capable.design](https://capable.design)
+ - date_published: 2023-10-25T18:34:17.686429+00:00
+
+ ## Charmer Studio - design studio
+ - [https://charmer.design](https://charmer.design)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Checklist Design - A collection of the best design practices.
+ - [https://www.checklist.design](https://www.checklist.design)
+ - date_published: 2023-12-07T00:00:00+00:00
+
+ ## Chia Amisola
+ - [https://chia.design](https://chia.design)
+ - date_published: 2024-09-10T19:15:43+00:00
+
+ ## Chi Señires
+ - [https://chisenires.design](https://chisenires.design)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Chris Wood | UX + UI design, user research, and low-code development
+ - [https://www.chris-wood.design](https://www.chris-wood.design)
+ - date_published: 2024-06-22T17:58:25.971090+00:00
+
+ ## Builder Bedford CKB Interiors - House extensions, designer kitchens bathrooms
+ - [https://ckbinterior.design](https://ckbinterior.design)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Clare Richardson Design | Newbury, Berkshire
+ - [http://www.clarerichardson.design](http://www.clarerichardson.design)
+ - date_published: 2023-07-31T00:00:00+00:00
+
+ ## Clarity Design System
+ - [https://clarity.design](https://clarity.design)
+ - date_published: 2024-07-22T17:24:41.923446+00:00
+
+ ## Clarity Design System
+ - [https://core.clarity.design](https://core.clarity.design)
+ - date_published: 2024-04-30T00:28:52.873940+00:00
+
+ ## Storybook
+ - [https://storybook.core.clarity.design](https://storybook.core.clarity.design)
+ - date_published: 2024-07-22T17:24:43.091563+00:00
+
+ ## Cloudscape - Cloudscape Design System
+ - [https://cloudscape.design](https://cloudscape.design)
+ - date_published: 2024-05-09T08:30:53.901042+00:00
+
+ ## Continuum UX - Expert UI/UX Services for Digital Growth
+ - [https://continuumux.design](https://continuumux.design)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Craftcode Design – Home
+ - [https://craftcode.design](https://craftcode.design)
+ - date_published: 2024-05-07T23:15:44.352319+00:00
+
+ ## Craftwork: UX/UI kits, illustrations, mockups, fonts and more
+ - [https://craftwork.design](https://craftwork.design)
+ - date_published: 2024-04-29T07:14:35.316192+00:00
+
+ ## 500 open-source fill and stroke icons for design projects
+ - [https://icons.craftwork.design](https://icons.craftwork.design)
+ - date_published: 2024-07-24T02:35:04.102797+00:00
+
+ ## Crucial.Design ✱ Your Senior Design Partner
+ - [https://crucial.design](https://crucial.design)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Curated web design inspiration catalog
+ - [https://curated.design](https://curated.design)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Daas Good®  |  A Design Partner Who Doesn’t Drop the Ball
+ - [https://www.daasgood.design](https://www.daasgood.design)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## index
+ - [https://daveon.design](https://daveon.design)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Deceptive Patterns - Home
+ - [https://deceptive.design](https://deceptive.design)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Product design & UX design resources – Degreeless.Design
+ - [https://degreeless.design](https://degreeless.design)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Delphin Hauchard Rakotozafy → delphin.design
+ - [https://delphin.design](https://delphin.design)
+ - date_published: 2024-04-19T11:28:32+00:00
+
+ ## Depository Design — Library of 1000+ free and premium tools and design resources
+ - [https://depository.design](https://depository.design)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://depue.design](https://depue.design)
+ - date_published: 2024-05-07T14:16:59.528736+00:00
+
+ ## Developers & Designers
+ - [https://developement.design](https://developement.design)
+ - date_published: 2024-08-08T16:32:53.497030+00:00
+
+ ## Home DNDA
+ - [http://dnda.design](http://dnda.design)
+ - date_published: 2024-07-24T03:19:01.359553+00:00
+
+ ## Design Project Management | dotBRAND
+ - [https://dotbrand.design](https://dotbrand.design)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Doug Powell · Design Leadership
+ - [https://www.dougpowell.design](https://www.dougpowell.design)
+ - date_published: 2024-07-24T02:15:15.531773+00:00
+
+ ## Dropbox Design
+ - [https://dropbox.design](https://dropbox.design)
+ - date_published: 2024-07-09T19:29:08.679355+00:00
+
+ ## EA. Digital, graphic and web design for startups.
+ - [http://ea.design](http://ea.design)
+ - date_published: 2017-04-21T04:59:00+00:00
+
+ ## EasyFast — Design Services for Startups and Indies
+ - [https://easyfast.design](https://easyfast.design)
+ - date_published: 2023-11-15T16:19:39+00:00
+
+ ## Free tumblr themes and resources
+ - [https://egg.design](https://egg.design)
+ - date_published: 2024-06-27T05:05:37.689996+00:00
+
+ ## Endless — Design as a Subscription
+ - [https://endless.design](https://endless.design)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Eric Bailey – Inclusive design advocate, writer, developer, and speaker
+ - [https://ericwbailey.design](https://ericwbailey.design)
+ - date_published: 2024-05-07T23:12:46.782732+00:00
+
+ ## École supérieure d’art et de design d’Amiens / design | accueil
+ - [https://esad-amiens.design](https://esad-amiens.design)
+ - date_published: 2023-12-11T16:19:11.537933+00:00
+
+ ## Home
+ - [http://ethicalby.design](http://ethicalby.design)
+ - date_published: 2024-07-02T20:00:49.419717+00:00
+
+ ## FAST
+ - [https://explore.fast.design](https://explore.fast.design)
+ - date_published: 2024-04-29T07:18:19.287649+00:00
+
+ ## FAST
+ - [https://fast.design](https://fast.design)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Welcome | Feature-Sliced Design
+ - [https://feature-sliced.design](https://feature-sliced.design)
+ - date_published: 2024-08-18T14:29:40+00:00
+
+ ## feedme.design
+ - [https://feedme.design](https://feedme.design)
+ - date_published: 2023-12-24T10:58:53.703752+00:00
+
+ ## Felipe — Designer and Artist
+ - [https://felipe.design](https://felipe.design)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## femke.design / Femke van Schoonhoven
+ - [https://femke.design](https://femke.design)
+ - date_published: 2023-10-25T09:21:33.094419+00:00
+ - tags: ['personal']
+
+ ## Flames - the most exclusive design community. Find the best designers
+ - [https://flames.design](https://flames.design)
+ - date_published: 2024-07-19T17:52:30.086106+00:00
+
+ ## Flutterwave Design
+ - [https://flutterwave.design](https://flutterwave.design)
+ - date_published: 2024-07-09T19:28:10.844984+00:00
+
  ## Footer — The only footer gallery on earth.
  - [https://www.footer.design](https://www.footer.design)
  - date_published: 2024-07-03T00:00:00+00:00
@@ -3793,272 +4059,4 @@
  ## Digital Bunker
  - [https://digitalbunker.dev](https://digitalbunker.dev)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Noest | Digitale oplossingen co-creëren met Microsoft technologie,…
- - [https://noest.staging.digitalpulse.dev](https://noest.staging.digitalpulse.dev)
- - date_published: 2024-09-18T14:43:43.395156+00:00
-
- ## dimden's photo album
- - [https://album.dimden.dev](https://album.dimden.dev)
- - date_published: 2024-07-08T09:28:28.410444+00:00
-
- ## dimden's hotel
- - [https://dimden.dev](https://dimden.dev)
- - date_published: 2024-05-08T10:44:11.641631+00:00
-
- ## Kanji progress
- - [https://kanji.dimden.dev](https://kanji.dimden.dev)
- - date_published: 2022-10-21T00:00:00+00:00
-
- ## La Lune 🌙
- - [https://lune.dimden.dev](https://lune.dimden.dev)
- - date_published: 2022-06-02T22:02:25+00:00
-
- ## Mood Tracker
- - [https://mood.dimden.dev](https://mood.dimden.dev)
- - date_published: 2024-05-07T21:50:02+00:00
-
- ## OPM 2
- - [https://opm.dimden.dev](https://opm.dimden.dev)
- - date_published: 2023-06-01T20:21:51+00:00
-
- ## TSUKI
- - [https://systemspace.dimden.dev](https://systemspace.dimden.dev)
- - date_published: 2023-04-16T16:39:04+00:00
-
- ## Utix - utilities online without a server.
- - [https://utix-web.dimden.dev](https://utix-web.dimden.dev)
- - date_published: 2024-07-21T07:48:30.439732+00:00
-
- ## Dimension — The new standard for collaboration.
- - [https://dimension.dev](https://dimension.dev)
- - date_published: 2024-08-19T11:37:44.281527+00:00
-
- ## Dinko Marinac's  blog
- - [https://dinkomarinac.dev](https://dinkomarinac.dev)
- - date_published: 2024-06-10T15:00:27.296870+00:00
- - tags: ['personal']
-
- ## Diogo Moreira | Home Page
- - [https://diogomoreira.dev](https://diogomoreira.dev)
- - date_published: 2024-05-11T10:06:50.954672+00:00
-
- ## Disane.dev - Personal tech blog
- - [https://blog.disane.dev](https://blog.disane.dev)
- - date_published: 2024-01-02T05:20:52.454570+00:00
-
- ## Uptime Kuma
- - [https://external.disane.dev](https://external.disane.dev)
- - date_published: 2024-04-29T07:35:25.733885+00:00
-
- ## Umami
- - [https://statistics.disane.dev](https://statistics.disane.dev)
- - date_published: 2024-04-29T07:35:24.813618+00:00
-
- ## divan's blog ·  divan's blog
- - [https://divan.dev](https://divan.dev)
- - date_published: 2022-07-26T00:00:00+00:00
-
- ## Home - Divested Computing
- - [https://divested.dev](https://divested.dev)
- - date_published: 2024-08-18T18:07:21+00:00
-
- ## Umami
- - [https://umami.diygod.dev](https://umami.diygod.dev)
- - date_published: 2024-05-28T02:08:08.554821+00:00
-
- ## Django Ninja
- - [https://django-ninja.dev](https://django-ninja.dev)
- - date_published: 2024-07-17T13:53:45.768051+00:00
-
- ## djhworld - thoughts
- - [https://djharper.dev](https://djharper.dev)
- - date_published: 2023-10-25T18:37:23.198428+00:00
-
- ## Home
- - [https://dn42.dev](https://dn42.dev)
- - date_published: 2024-09-14T07:49:39+00:00
-
- ## dn42 git
- - [https://git.dn42.dev](https://git.dn42.dev)
- - date_published: 2024-09-14T08:49:54.617420+00:00
-
- ## Daniela Kubesch | Accessibility Engineer, passionate about User Experience and Inclusive Design
- - [https://dnikub.dev](https://dnikub.dev)
- - date_published: 2024-08-06T23:37:06.417072+00:00
-
- ## Home
- - [https://docus.dev](https://docus.dev)
- - date_published: 2024-07-23T22:24:40.493940+00:00
-
- ## dodao.dev
- - [https://dodao.dev](https://dodao.dev)
- - date_published: 2024-07-24T08:53:36+00:00
-
- ## Hristiyan Dodov: Full-Stack Developer at Oblik Studio
- - [https://dodov.dev](https://dodov.dev)
- - date_published: 2023-10-25T18:37:24.848610+00:00
-
- ## Dogs of Dev
- - [https://dogsof.dev](https://dogsof.dev)
- - date_published: 2024-07-20T22:18:08.678204+00:00
-
- ## Mohammad Dohadwala — Frontend Web Developer
- - [https://dohad.dev](https://dohad.dev)
- - date_published: 2024-05-11T10:19:57.515823+00:00
-
- ## Doist Engineering
- - [https://doist.dev](https://doist.dev)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Dokemon Documentation
- - [https://docs.dokemon.dev](https://docs.dokemon.dev)
- - date_published: 2024-05-14T03:37:25.845249+00:00
-
- ## Dokemon - Docker Container Management GUI
- - [https://dokemon.dev](https://dokemon.dev)
- - date_published: 2024-04-08T19:28:07.698026+00:00
- - tags: ['self-host', 'docker manager']
-
- ## Jan Dolanský ✦ Portfolio
- - [https://dolansky.dev](https://dolansky.dev)
- - date_published: 2024-04-23T19:15:55+00:00
- - tags: ['personal']
-
- ## Michael Donohoe – Product & Engineering / Media
- - [https://donohoe.dev](https://donohoe.dev)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## DOODAD.dev
- - [https://doodad.dev](https://doodad.dev)
- - date_published: 2024-10-22T19:17:15.835124+00:00
-
- ## DORA | Get Better at Getting Better
- - [https://dora.dev](https://dora.dev)
- - date_published: 2024-05-08T03:27:41.879493+00:00
-
- ## Home | Dozzle
- - [https://dozzle.dev](https://dozzle.dev)
- - date_published: 2024-04-08T19:28:08.511106+00:00
- - tags: ['self-host', 'docker log viewer']
-
- ## D++: A C++ Discord API Library for Bots - D++ - The lightweight C++ Discord API Library
- - [https://dpp.dev](https://dpp.dev)
- - date_published: 2024-06-15T09:24:15+00:00
-
- ## dprint - Code Formatter
- - [https://dprint.dev](https://dprint.dev)
- - date_published: 2024-04-29T07:34:42.354563+00:00
-
- ## Technical Marketing Content for Software Startups | Draft.dev
- - [https://draft.dev](https://draft.dev)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Dragoncave
- - [https://mastodon.dragoncave.dev](https://mastodon.dragoncave.dev)
- - date_published: 2024-07-03T12:07:22.825545+00:00
-
- ## dresscode
- - [https://dresscode.dev](https://dresscode.dev)
- - date_published: 2024-06-23T03:52:17.208235+00:00
-
- ## Hello, world! - Drew Town Dev
- - [https://www.drewtown.dev](https://www.drewtown.dev)
- - date_published: 2024-09-04T15:05:21.084403+00:00
-
- ## Ishan Khanna - Droidchef | Google Developer Expert for Android
- - [https://blog.droidchef.dev](https://blog.droidchef.dev)
- - date_published: 2024-07-20T15:17:56.529844+00:00
-
- ## Building websites like the good old days
- - [https://combine.dropseed.dev](https://combine.dropseed.dev)
- - date_published: 2024-06-27T11:46:37.463552+00:00
-
- ## Developer tools for building better software
- - [https://www.dropseed.dev](https://www.dropseed.dev)
- - date_published: 2024-09-04T01:56:54.365446+00:00
-
- ## Dumb Pipe
- - [https://dumbpipe.dev](https://dumbpipe.dev)
- - date_published: 2024-05-07T19:02:15.134600+00:00
-
- ## duncanbain.dev
- - [https://duncanbain.dev](https://duncanbain.dev)
- - date_published: 2024-05-11T10:06:06.488898+00:00
-
- ## Kévin Dunglas: software architect and API expert
- - [https://dunglas.dev](https://dunglas.dev)
- - date_published: 2024-07-10T06:54:46.928609+00:00
-
- ## Welcome | durner.dev
- - [https://www.durner.dev](https://www.durner.dev)
- - date_published: 2024-09-02T16:20:59.056409+00:00
-
- ## Dušan Tadić
- - [https://www.dusantadic.dev](https://www.dusantadic.dev)
- - date_published: 2024-06-23T15:23:32.729119+00:00
-
- ## Dustin Knopoff
- - [https://dustinknopoff.dev](https://dustinknopoff.dev)
- - date_published: 2024-08-08T12:46:37.890840+00:00
-
- ## Dynamic Yield Developer Docs
- - [https://dy.dev](https://dy.dev)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Stranger6667 channel
- - [https://dygalo.dev](https://dygalo.dev)
- - date_published: 2024-05-14T14:54:10.423999+00:00
-
- ## Storage Share
- - [https://cloud.dz4k.dev](https://cloud.dz4k.dev)
- - date_published: 2024-06-14T21:10:34.302890+00:00
-
- ## Home - dzfrias
- - [https://dzfrias.dev](https://dzfrias.dev)
- - date_published: 2024-06-28T02:11:54+00:00
-
- ## Open-source Code Interpreting for AI Apps
- - [https://e2b.dev](https://e2b.dev)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Earthly Blog
- - [https://blog.earthly.dev](https://blog.earthly.dev)
- - date_published: 2024-04-29T07:35:42.904789+00:00
-
- ## Earthly
- - [https://cloud.earthly.dev](https://cloud.earthly.dev)
- - date_published: 2024-04-29T07:35:51.073775+00:00
-
- ## Introduction | Earthly 0.8 | Earthly
- - [https://docs.earthly.dev](https://docs.earthly.dev)
- - date_published: 2024-04-29T07:35:46.209311+00:00
-
- ## Earthly - Make Builds Super Simple
- - [https://earthly.dev](https://earthly.dev)
- - date_published: 2023-10-25T18:37:27.899029+00:00
-
- ## Jobs at Earthly Technologies
- - [https://jobs.earthly.dev](https://jobs.earthly.dev)
- - date_published: 2024-04-29T07:35:37.875201+00:00
-
- ## Join Our Content Newsletter
- - [https://newsletter.earthly.dev](https://newsletter.earthly.dev)
- - date_published: 2024-04-29T07:35:43.889274+00:00
-
- ## Earthly Technologies status
- - [https://status.earthly.dev](https://status.earthly.dev)
- - date_published: 2024-04-29T07:35:47.193647+00:00
-
- ## easy-rd.dev
- - [https://easyrd.dev](https://easyrd.dev)
- - date_published: 2024-09-27T20:31:14.981175+00:00
-
- ## ebpf-go Documentation
- - [https://ebpf-go.dev](https://ebpf-go.dev)
- - date_published: 2024-04-29T06:28:09.544531+00:00
-
- ## echoserver: A simple echo server for testing HTTP clients.
- - [https://echoserver.dev](https://echoserver.dev)
- - date_published: 2023-10-25T18:37:29.344617+00:00
 

@@ -1,3 +1,15 @@
+ ## 乡村振兴_中国经济网
+ - [http://tuopin.ce.cn](http://tuopin.ce.cn)
+ - date_published: 2024-06-30T13:06:16.989056+00:00
+
+ ## 评论理论频道_中国经济网―国家经济门户
+ - [http://views.ce.cn](http://views.ce.cn)
+ - date_published: 2024-06-30T03:44:56.325598+00:00
+
+ ## VR频道
+ - [http://vr.ce.cn](http://vr.ce.cn)
+ - date_published: 2024-06-30T13:06:27.844432+00:00
+
  ## 中经云端_中国经济网
  - [http://yun.ce.cn](http://yun.ce.cn)
  - date_published: 2024-06-30T13:06:12.879580+00:00
@@ -3998,16 +4010,4 @@
  ## 优傲机器人_协作机器人_机械手臂
  - [https://www.universal-robots.cn](https://www.universal-robots.cn)
  - date_published: 2024-01-15T00:00:00+00:00
-
- ## University of Exeter - 欢迎访问英国埃克塞特大学中文官网
- - [https://www.universityofexeter.cn](https://www.universityofexeter.cn)
- - date_published: 2024-05-02T10:54:19.496078+00:00
-
- ## UPDF
- - [https://accounts.updf.cn](https://accounts.updf.cn)
- - date_published: 2024-07-05T08:44:02+00:00
-
- ## UPDF AI Online: Chat with PDF and Ask Anything - GPT4 Powered
- - [https://ai.updf.cn](https://ai.updf.cn)
- - date_published: 2024-06-21T11:51:30+00:00
 

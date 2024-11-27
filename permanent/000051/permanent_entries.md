@@ -1,3 +1,62 @@
+ ## International Banking Application RegisterInitial
+ - [https://myapplication.international.barclays.com](https://myapplication.international.barclays.com)
+ - date_published: 2024-09-30T12:08:25.921748+00:00
+
+ ## Private Banking | Barclays Private Bank
+ - [https://privatebank.barclays.com](https://privatebank.barclays.com)
+ - date_published: 2021-02-22T00:00:00+00:00
+
+ ## Investment Bank | Barclays
+ - [https://www.investmentbank.barclays.com](https://www.investmentbank.barclays.com)
+ - date_published: 2024-06-14T21:51:21+00:00
+
+ ## Corporate Banking | Barclays
+ - [https://www.barclayscorporate.com](https://www.barclayscorporate.com)
+ - date_published: 2024-06-14T10:59:38+00:00
+
+ ## Home Page | Barclays
+ - [https://banking.barclaysus.com](https://banking.barclaysus.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Barclays
+		
+			 - 
+			Welcome to Barclays Online Banking
+ - [https://www.securebanking.barclaysus.com](https://www.securebanking.barclaysus.com)
+ - date_published: 2024-06-16T15:18:35.367327+00:00
+
+ ## Barclays Wealth
+ - [https://ask.barclayswealth.com](https://ask.barclayswealth.com)
+ - date_published: 2024-09-30T12:08:27.742555+00:00
+
+ ## Barco | Inspired sight and sharing solutions
+ - [https://www.barco.com](https://www.barco.com)
+ - date_published: 2024-07-08T12:27:48.196682+00:00
+
+ ## Barcode Printer, Barcode Scanner, Point of Sale, Mobile Computing and RFID Experts
+ - [http://www.barcodesinc.com](http://www.barcodesinc.com)
+ - date_published: 2024-07-04T14:20:22.348919+00:00
+
+ ## Brian Barder's website and Ephems blog
+ - [http://www.barder.com](http://www.barder.com)
+ - date_published: 2024-10-21T12:03:46.604460+00:00
+
+ ## Adam J. Bard M.D. — Internal Medicine Specialist
+ - [http://bardmd.com](http://bardmd.com)
+ - date_published: 2024-06-21T10:56:09.369716+00:00
+
+ ## Bardo Lounge & Supper Club
+ - [https://www.bardooakland.com](https://www.bardooakland.com)
+ - date_published: 2024-05-06T18:15:13.072028+00:00
+
+ ## BarDown | TSN
+ - [https://bardown.com](https://bardown.com)
+ - date_published: 2024-06-17T09:34:33.428876+00:00
+
+ ## US-FLC199-220053 Homepage
+ - [https://www.bardydx.com](https://www.bardydx.com)
+ - date_published: 2024-10-17T21:26:31.026252+00:00
+
  ## Bare Bones Software | Welcome
  - [https://barebones.com](https://barebones.com)
  - date_published: 2023-10-25T12:52:23.086024+00:00
@@ -856,6 +915,9 @@
  - [http://basho.com](http://basho.com)
  - date_published: 2019-02-26T14:17:14+00:00
 
+ - [https://bash-org-archive.com](https://bash-org-archive.com)
+ - date_published: 2024-11-26T09:23:55+00:00
+
  ## Cheat Sheets | BashSenpai
  - [https://bashsenpai.com](https://bashsenpai.com)
  - date_published: 2024-06-15T15:11:23.876705+00:00
@@ -1149,6 +1211,10 @@
  ## OFFICIAL SITE | BATHTUBS OVER BROADWAY documentary
  - [https://www.bathtubsoverbroadway.com](https://www.bathtubsoverbroadway.com)
  - date_published: 2024-07-04T16:16:08.808260+00:00
+
+ ## Batman | Official DC Character
+ - [https://batman.com](https://batman.com)
+ - date_published: 2024-11-26T08:42:55+00:00
 
  ## BATMAN138 - Best Games For Online Gaming 2024
  - [https://www.batman138slot.com](https://www.batman138slot.com)
@@ -3958,68 +4024,4 @@
  ## Beemer - The AI-Powered Pitch Deck Generator
  - [https://www.beemerdocs.com](https://www.beemerdocs.com)
  - date_published: 2024-10-27T15:47:43+00:00
-
- ## Beeminder
- - [https://beeminder.com](https://beeminder.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Beeminder blog
- - [https://blog.beeminder.com](https://blog.beeminder.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Beeminder Changelog
- - [https://changelog.beeminder.com](https://changelog.beeminder.com)
- - date_published: 2024-04-29T03:30:27.613209+00:00
-
- ## Beeminder Documents
- - [https://doc.beeminder.com](https://doc.beeminder.com)
- - date_published: 2024-05-02T13:57:32.539051+00:00
-
- ## Beeminder Forum
- - [http://forum.beeminder.com](http://forum.beeminder.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Space artifacts store, premium memorabilia & autographs
- - [https://www.beeninspace.com](https://www.beeninspace.com)
- - date_published: 2024-09-06T21:18:03.635260+00:00
-
- ## Accueil - Beenox
- - [https://beenox.com](https://beenox.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Careers at Beenox | Job Opportunities at  Beenox
- - [https://careers.beenox.com](https://careers.beenox.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## BeenVerified | WAF
- - [https://beenverified.com](https://beenverified.com)
- - date_published: 2024-04-29T04:13:20.521135+00:00
-
- ## Customer Support
- - [http://support.beenverified.com](http://support.beenverified.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Marketing dla Firm, który działa - Bee On Top
- - [https://beeontop.com](https://beeontop.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## beepbooply | Text to speech online generator
- - [https://app.beepbooply.com](https://app.beepbooply.com)
- - date_published: 2024-10-30T10:28:02.869035+00:00
-
- ## Text to speech with an AI voice generator - beepbooply
- - [https://beepbooply.com](https://beepbooply.com)
- - date_published: 2024-06-19T19:11:52.227953+00:00
-
- ## Free text to speech AI voice generator - beepbooply
- - [https://free.beepbooply.com](https://free.beepbooply.com)
- - date_published: 2024-10-30T10:28:01.398901+00:00
-
- ## Beeper | Account Management
- - [https://account.beeper.com](https://account.beeper.com)
- - date_published: 2024-08-18T11:20:00.282796+00:00
-
- ## Beeper — All your chats in one app. Yes, really.
- - [https://beeper.com](https://beeper.com)
- - date_published: 2024-04-10T00:00:00+00:00
 

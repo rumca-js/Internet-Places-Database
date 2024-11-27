@@ -1,3 +1,366 @@
+ ## International News, Analysis, Politics, Business, Technology, Entertainment - IB Times SG Edition
+ - [https://ibtimes.sg](https://ibtimes.sg)
+ - date_published: 2023-12-04T09:13:30.199869+00:00
+
+ ## IEEE International Conference On Distributed Computing Systems - Advertising.com.my
+ - [https://icdcs2020.sg](https://icdcs2020.sg)
+ - date_published: 2022-09-27T13:03:51+00:00
+
+ ## energy chains, polymer bearings, flexible cable, & linear slides
+ - [https://www.igus.sg](https://www.igus.sg)
+ - date_published: 2024-08-06T23:12:36.306624+00:00
+
+ ## Singapore Immigration Consultant - 100% Visa Success Specialist
+ - [https://immigration.sg](https://immigration.sg)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://www.intel.sg](https://www.intel.sg)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## iOS Conf SG 2025
+ - [https://www.iosconf.sg](https://www.iosconf.sg)
+ - date_published: 2024-10-16T09:54:10.792207+00:00
+
+ ## Accueil | IPV6Forum
+ - [https://www.ipv6forum.sg](https://www.ipv6forum.sg)
+ - date_published: 2024-06-27T17:04:33.025011+00:00
+
+ ## iShine Cloud
+ - [https://www.ishinecloud.sg](https://www.ishinecloud.sg)
+ - date_published: 2024-10-20T11:13:40.882570+00:00
+
+ ## JUMBO Group
+ - [https://www.jumbogroup.sg](https://www.jumbogroup.sg)
+ - date_published: 2024-06-23T02:06:32.170464+00:00
+
+ ## JuniorDev.SG
+ - [https://juniordev.sg](https://juniordev.sg)
+ - date_published: 2022-10-02T08:19:07+00:00
+
+ ## Sonja Lang
+ - [https://lang.sg](https://lang.sg)
+ - date_published: 2021-07-21T00:24:37+00:00
+ - tags: ['personal']
+
+ ## Seller Center
+ - [https://sellercenter.lazada.sg](https://sellercenter.lazada.sg)
+ - date_published: 2024-06-16T06:38:20.644530+00:00
+
+ ## Lazada University
+ - [https://university.lazada.sg](https://university.lazada.sg)
+ - date_published: 2024-09-26T12:52:00.213603+00:00
+
+ ## MAKE / MUSIC
+ - [http://www.makemusic.sg](http://www.makemusic.sg)
+ - date_published: 2024-08-18T07:12:35.116928+00:00
+
+ ## Singapore Media Academy
+ - [https://www.mediaacademy.sg](https://www.mediaacademy.sg)
+ - date_published: 2024-07-04T04:06:11.498031+00:00
+
+ ## Boost Recommendation
+ - [https://boost-recommend.mediacorp.sg](https://boost-recommend.mediacorp.sg)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Content Distribution
+ - [https://contentdistribution.mediacorp.sg](https://contentdistribution.mediacorp.sg)
+ - date_published: 2024-07-04T04:06:17.007764+00:00
+
+ ## Mediacorp: Create, Connect, Inspire
+ - [https://go.mediacorp.sg](https://go.mediacorp.sg)
+ - date_published: 2024-07-04T04:01:13+00:00
+
+ ## Log In - meconnect Account
+ - [https://login.mediacorp.sg](https://login.mediacorp.sg)
+ - date_published: 2024-08-05T15:56:28.152600+00:00
+
+ ## Mediacorp: Create, Connect, Inspire
+ - [https://mediacorp.sg](https://mediacorp.sg)
+ - date_published: 2024-05-08T04:49:19.512401+00:00
+
+ ## Boost Recommendation
+ - [https://recommend-zoom.mediacorp.sg](https://recommend-zoom.mediacorp.sg)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## MeID Edge Demo
+ - [https://uid.mediacorp.sg](https://uid.mediacorp.sg)
+ - date_published: 2024-02-22T10:50:25+00:00
+
+ ## melisten - Listen to Mediacorp's Radio Stations, Music and Podcasts
+ - [https://melisten.sg](https://melisten.sg)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## merewards – Cashback, Coupons and Perks
+ - [https://merewards.sg](https://merewards.sg)
+ - date_published: 2024-08-05T15:52:59.222162+00:00
+
+ ## MEVERSE
+ - [https://www.meverse.sg](https://www.meverse.sg)
+ - date_published: 2024-06-25T08:35:26+00:00
+
+ ## Local On-Demand TV Shows, Movies, Sports, News & LIVE programmes - mewatch
+ - [https://cdn.mewatch.sg](https://cdn.mewatch.sg)
+ - date_published: 2024-08-05T15:53:39.007838+00:00
+
+ ## Local On-Demand TV Shows, Movies, Sports, News & LIVE programmes - mewatch
+ - [https://mewatch.sg](https://mewatch.sg)
+ - date_published: 2024-04-29T05:02:11.445376+00:00
+
+ ## Title
+ - [https://services.mewatch.sg](https://services.mewatch.sg)
+ - date_published: 2020-05-29T07:13:54+00:00
+
+ ## Home - Babelfish
+ - [https://babelfish.mothership.sg](https://babelfish.mothership.sg)
+ - date_published: 2022-12-05T00:00:00+00:00
+
+ ## Mothership.SG - News from Singapore, Asia and around the world
+ - [https://mothership.sg](https://mothership.sg)
+ - date_published: 2023-12-06T09:13:19.357127+00:00
+ - tags: ['asia news', 'sinapore news']
+
+ ## Mothership.sg
+ - [http://static.mothership.sg](http://static.mothership.sg)
+ - date_published: 2021-10-17T15:04:18+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Singapore
+ - [https://www.mouser.sg](https://www.mouser.sg)
+ - date_published: 2024-07-01T20:55:33.536693+00:00
+
+ ## MRC
+ - [https://www.mrconsultants.sg](https://www.mrconsultants.sg)
+ - date_published: 2023-12-06T01:15:22+00:00
+
+ ## DataMall | Land Transport Authority (LTA)
+ - [http://www.mytransport.sg](http://www.mytransport.sg)
+ - date_published: 2024-06-22T16:01:04+00:00
+
+ ## My Website Online Store
+ - [https://mywebsite.sg](https://mywebsite.sg)
+ - date_published: 2024-10-08T22:49:49.180500+00:00
+
+ ## NAMIC – National Additive Manufacturing Innovation Cluster
+ - [https://namic.sg](https://namic.sg)
+ - date_published: 2023-04-10T18:12:03+00:00
+
+ ## Home 
+	- National Centre for Infectious Diseases
+ - [https://www.ncid.sg](https://www.ncid.sg)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Home - National Quantum Office
+ - [https://nqo.sg](https://nqo.sg)
+ - date_published: 2023-08-18T09:55:34+00:00
+
+ ## Home - NSCC
+ - [https://www.nscc.sg](https://www.nscc.sg)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Obits SG - Buy and find obituaries, condolences and memorial ads
+ - [https://obits.sg](https://obits.sg)
+ - date_published: 2024-08-19T05:14:23.115851+00:00
+
+ ## All Netflix movies and series - OnNetflix.sg
+ - [https://www.onnetflix.sg](https://www.onnetflix.sg)
+ - date_published: 2024-09-02T11:18:13.991498+00:00
+
+ ## Restaurants and Restaurant Bookings | OpenTable
+ - [https://www.opentable.sg](https://www.opentable.sg)
+ - date_published: 2024-06-30T12:08:24.293053+00:00
+
+ ## Palo Alto Networks – Global Cybersecurity Leader – Singapore
+ - [https://www.paloaltonetworks.sg](https://www.paloaltonetworks.sg)
+ - date_published: 2024-10-19T17:40:47.014194+00:00
+
+ ## Panin – Panin International Pte Ltd
+ - [https://panin.sg](https://panin.sg)
+ - date_published: 2024-01-12T06:56:13+00:00
+
+ ## ParkingSG status
+ - [https://status.parking.sg](https://status.parking.sg)
+ - date_published: 2024-09-12T15:28:08.635549+00:00
+
+ ## Home - Penguin Random House SEA
+ - [https://www.penguin.sg](https://www.penguin.sg)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## PERI Singapore - The Formwork and Scaffolding Specialists
+ - [https://www.peri.sg](https://www.peri.sg)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Pinpoint Asia | IT Recruitment
+ - [https://www.pinpointasia.sg](https://www.pinpointasia.sg)
+ - date_published: 2024-10-15T18:09:59.054507+00:00
+
+ ## Singapore Public Holidays - PublicHolidays.sg
+ - [https://publicholidays.sg](https://publicholidays.sg)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Singapore Travel Blog- redBus
+ - [http://blog.redbus.sg](http://blog.redbus.sg)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Bus Ticket Online Booking | Up to 50% OFF
+ - [https://m.redbus.sg](https://m.redbus.sg)
+ - date_published: 2024-10-11T14:27:16.034632+00:00
+
+ ## Bus Agent Registration - redBus Partne
+ - [https://partner.redbus.sg](https://partner.redbus.sg)
+ - date_published: 2024-09-02T11:50:14+00:00
+
+ ## Bus Ticket Online Booking | Up to 50% OFF
+ - [http://www.redbus.sg](http://www.redbus.sg)
+ - date_published: 2024-06-16T15:50:55.124439+00:00
+
+ ## Reddot Design Award
+ - [https://dc.red-dot.sg](https://dc.red-dot.sg)
+ - date_published: 2024-06-18T15:28:41.853307+00:00
+
+ ## RingCentral: The Leader in Trusted AI Communications | RingCentral SG
+ - [https://www.ringcentral.sg](https://www.ringcentral.sg)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Ruby Singapore
+ - [https://ruby.sg](https://ruby.sg)
+ - date_published: 2024-06-23T02:17:19.192850+00:00
+
+ ## Secretlab Gaming Chairs & Gaming Desk | Secretlab SG
+ - [https://secretlab.sg](https://secretlab.sg)
+ - date_published: 2024-09-03T20:59:15.332959+00:00
+
+ ## Sephora Singapore
+ - [https://www.sephora.sg](https://www.sephora.sg)
+ - date_published: 2024-08-05T20:31:02.983918+00:00
+
+ ## Singapore Network Information Centre
+ - [https://www.sgnic.sg](https://www.sgnic.sg)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.sg](https://www.sgs.sg)
+ - date_published: 2024-09-10T12:52:24.899427+00:00
+
+ ## 新明日报
+ - [https://www.shinmin.sg](https://www.shinmin.sg)
+ - date_published: 2024-08-19T05:14:27+00:00
+
+ ## Home
+ - [https://singaporebusinessshow.sg](https://singaporebusinessshow.sg)
+ - date_published: 2024-07-18T23:18:02.310243+00:00
+
+ ## Power Apps
+ - [https://smu.sg](https://smu.sg)
+ - date_published: 2024-07-21T02:21:12.935807+00:00
+
+ ## jg
+ - [http://jg.sn.sg](http://jg.sn.sg)
+ - date_published: 2024-08-19T08:25:57.422998+00:00
+
+ ## Home Page - Sopra Steria
+ - [https://www.soprasteria.sg](https://www.soprasteria.sg)
+ - date_published: 2024-09-10T01:45:24.784677+00:00
+
+ ## Statement – Seriously Naughty Products
+ - [http://www.statement.sg](http://www.statement.sg)
+ - date_published: 2024-08-18T06:47:33.512664+00:00
+
+ ## ST Classifieds
+ - [https://www.stclassifieds.sg](https://www.stclassifieds.sg)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## STJobs
+ - [https://www.stjobs.sg](https://www.stjobs.sg)
+ - date_published: 2024-08-19T05:14:23.869141+00:00
+
+ ## Pen Display Monitors,Graphic Drawing Tablets | XP-Pen Singapore official store
+ - [https://www.storexppen.sg](https://www.storexppen.sg)
+ - date_published: 2024-05-30T18:41:54.912348+00:00
+
+ ## Superprof - The Platform for Private Tutors
+ - [https://superprof.sg](https://superprof.sg)
+ - date_published: 2024-06-15T01:27:32.653164+00:00
+
+ ## Synthesis | TCM inspired restaurant and bar | 3 Temasek Boulevard #01-643 Suntec City East Wing Tower 4 Singapore 038983
+ - [https://www.synthesis.sg](https://www.synthesis.sg)
+ - date_published: 2024-06-20T14:16:53.853302+00:00
+
+ ## Home Page - TCOMS
+ - [https://www.tcoms.sg](https://www.tcoms.sg)
+ - date_published: 2020-12-10T00:00:00+00:00
+
+ ## Latest news in Singapore and around the world – TODAY
+ - [https://tdy.sg](https://tdy.sg)
+ - date_published: 2024-07-11T19:36:58+00:00
+
+ ## The20 Finance
+ - [https://the20.sg](https://the20.sg)
+ - date_published: 2024-09-06T01:49:41+00:00
+
+ ## The Independent Singapore News
+ - [https://theindependent.sg](https://theindependent.sg)
+ - date_published: 2024-07-16T17:43:47.605623+00:00
+
+ ## ThinkChina - Big reads, Opinion & Columns on China
+ - [https://www.thinkchina.sg](https://www.thinkchina.sg)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Find the best businesses in Singapore - ThreeBestRated.sg
+ - [https://threebestrated.sg](https://threebestrated.sg)
+ - date_published: 2024-06-17T10:15:45.236093+00:00
+
+ ## Tickets | Sports, Concerts, Festivals | Ticketmaster SG
+ - [https://ticketmaster.sg](https://ticketmaster.sg)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Jing Hua's Website | Jing Hua
+ - [https://me.tjh.sg](https://me.tjh.sg)
+ - date_published: 2023-05-23T01:40:12+00:00
+
+ ## The New Paper - Breaking News, Sports, Entertainment & Lifestyle News
+ - [https://www.tnp.sg](https://www.tnp.sg)
+ - date_published: 2024-05-04T09:04:35.964003+00:00
+
+ ## trivago.sg - Compare hotel prices worldwide
+ - [https://www.trivago.sg](https://www.trivago.sg)
+ - date_published: 2024-09-04T11:19:35.919093+00:00
+
+ ## Home - TSL Media Group
+ - [https://tslmedia.sg](https://tslmedia.sg)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home
+ - [http://twc2.sg](http://twc2.sg)
+ - date_published: 2024-06-20T14:29:14.078011+00:00
+
+ ## Vogue Singapore
+ - [https://vogue.sg](https://vogue.sg)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## We Build SG
+ - [https://webuild.sg](https://webuild.sg)
+ - date_published: 2021-01-06T08:56:44+00:00
+
+ ## when trees fall...
+ - [https://blog.wtf.sg](https://blog.wtf.sg)
+ - date_published: 2023-10-25T22:38:01.640867+00:00
+
+ ## Adopt a Species | WWF-Singapore | WWF-Singapore
+ - [https://adopt.wwf.sg](https://adopt.wwf.sg)
+ - date_published: 2024-07-03T03:12:46.278669+00:00
+
+ ## Homepage - WWF Singapore Blog
+ - [https://blog.wwf.sg](https://blog.wwf.sg)
+ - date_published: 2022-10-26T10:10:24+00:00
+
+ ## Environmental Issues Are Closer To Home Than We Think | WWF-Singapore
+ - [https://closertohome.wwf.sg](https://closertohome.wwf.sg)
+ - date_published: 2022-04-28T00:00:00+00:00
+
+ ## WWF-Singapore | Donate
+ - [https://donate.wwf.sg](https://donate.wwf.sg)
+ - date_published: 2024-01-04T00:00:00+00:00
+
  ## WWF Fundraiser
  - [https://fundraise.wwf.sg](https://fundraise.wwf.sg)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3679,364 +4042,4 @@
  ## SPARTOO | Obutev, torbe in oblačila | Brezplačna dostava
  - [https://spartoo.si](https://spartoo.si)
  - date_published: 2024-09-11T18:38:57.397804+00:00
-
- ## Novice | Špil liga
- - [http://www.spilliga.si](http://www.spilliga.si)
- - date_published: 2024-07-20T15:01:56.742484+00:00
-
- ## Javni štipendijski, razvojni, invalidski in preživninski sklad RS
- - [https://www.srips-rs.si](https://www.srips-rs.si)
- - date_published: 2024-09-16T00:01:00.832867+00:00
-
- ## STAznanost
- - [http://znanost.sta.si](http://znanost.sta.si)
- - date_published: 2024-09-15T23:58:30.612318+00:00
-
- ## Študij - Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Univerza v Mariboru
- - [https://studiraj-na-fgpa.si](https://studiraj-na-fgpa.si)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Superbrands Slovenija - Dobrodošli med najboljšimi!
- - [https://superbrands.si](https://superbrands.si)
- - date_published: 2024-09-16T02:22:18.053305+00:00
-
- ## 1stavno sklepanje kreditov
- - [https://pk.takoleasy.si](https://pk.takoleasy.si)
- - date_published: 2024-09-12T19:56:39+00:00
-
- ## TINTA | Festival stripa Ljubljana – Širjenje stripovske kulture
- - [https://www.tinta.si](https://www.tinta.si)
- - date_published: 2024-07-20T15:01:58.651549+00:00
-
- ## TooMuch
- - [https://toomuch.si](https://toomuch.si)
- - date_published: 2022-03-23T13:04:33+00:00
-
- ## TOOTSI
- - [https://toot.si](https://toot.si)
- - date_published: 2024-07-08T18:19:21.828923+00:00
-
- ## Toyota Slovenija - izvedite vse o Toyotinih modelih
- - [https://www.toyota.si](https://www.toyota.si)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## trivago.si - Compare hotel prices worldwide
- - [https://www.trivago.si](https://www.trivago.si)
- - date_published: 2024-09-04T11:19:30.503380+00:00
-
- ## mirror.tux.si
- - [https://mirror.tux.si](https://mirror.tux.si)
- - date_published: 2024-06-26T11:52:29+00:00
-
- ## UF PRO | Taktična oprema za profesionalce
- - [http://www.ufpro.si](http://www.ufpro.si)
- - date_published: 2024-08-06T18:15:11.935201+00:00
-
- ## AIPS
- - [https://aips.um.si](https://aips.um.si)
- - date_published: 2024-09-15T23:55:35.298458+00:00
-
- ## Alumni FS
- - [http://alumni.fs.um.si](http://alumni.fs.um.si)
- - date_published: 2024-09-16T00:00:49.341817+00:00
-
- ## Prva
- - [http://botanicnivrt.um.si](http://botanicnivrt.um.si)
- - date_published: 2024-09-15T23:55:25.232276+00:00
-
- ## ​​​​​​​Služba za razvoj in podporo izobraževanju in študiju
- - [https://didakt.um.si](https://didakt.um.si)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Become a part of the digital revolution - DIH UM
- - [https://dih.um.si](https://dih.um.si)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Prva stran
- - [https://dk.um.si](https://dk.um.si)
- - date_published: 2024-09-15T23:57:30.161644+00:00
-
- ## Dogodki UM
- - [https://dogodki.um.si](https://dogodki.um.si)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## UKM - Digitalni repozitorij
- - [https://dr.ukm.um.si](https://dr.ukm.um.si)
- - date_published: 2024-09-15T23:58:05.305544+00:00
-
- ## Outlook
- - [https://eposta.um.si](https://eposta.um.si)
- - date_published: 2024-09-15T23:55:46.512316+00:00
-
- ## Erasmus+
- - [https://erasmusplus.um.si](https://erasmusplus.um.si)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Aplikacija e-seje Univerze v Mariboru
- - [https://eseje.um.si](https://eseje.um.si)
- - date_published: 2024-06-15T02:47:34.429646+00:00
-
- ## Home | Univerza v Mariboru
- - [https://estudij.um.si](https://estudij.um.si)
- - date_published: 2024-09-15T23:55:47+00:00
-
- ## FERI
- - [https://feri.um.si](https://feri.um.si)
- - date_published: 2024-06-15T02:47:37.200401+00:00
-
- ## Fakulteta za energetiko
- - [https://fe.um.si](https://fe.um.si)
- - date_published: 2024-06-15T02:48:06+00:00
-
- ## Filozofska fakulteta Univerze v Mariboru
- - [https://ff.um.si](https://ff.um.si)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## UM FGPA | Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Univerza v Mariboru
- - [https://fgpa.um.si](https://fgpa.um.si)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Fakulteta za logistiko
- - [https://fl.um.si](https://fl.um.si)
- - date_published: 2024-06-15T02:47:59.598579+00:00
-
- ## Fakulteta za naravoslovje in matematiko | Ustvarjamo poklice prihodnosti
- - [https://fnm.um.si](https://fnm.um.si)
- - date_published: 2024-06-15T02:47:41.917039+00:00
-
- ## Fakulteta za organizacijske vede
- - [https://fov.um.si](https://fov.um.si)
- - date_published: 2024-06-15T02:47:24.280492+00:00
-
- ## Fakulteta za strojništvo Maribor
- - [https://fs.um.si](https://fs.um.si)
- - date_published: 2024-06-15T02:47:44.937020+00:00
-
- ## Fakulteta za varnostne vede
- - [https://fvv.um.si](https://fvv.um.si)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Informativni dnevi - Fakulteta za gradbeništvo, prometno inženirstvo in arhitekturo Univerza v Mariboru
- - [https://informativni.fgpa.um.si](https://informativni.fgpa.um.si)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## FAKULTETA ZA KEMIJO IN KEMIJSKO TEHNOLOGIJO
- - [https://informativni.fkkt.um.si](https://informativni.fkkt.um.si)
- - date_published: 2024-09-16T00:03:06.087122+00:00
-
- ## studiraj-z-nami-na-FS
- - [https://informativni.fs.um.si](https://informativni.fs.um.si)
- - date_published: 2024-07-18T10:49:38+00:00
-
- ## Računalniški center UM
- - [https://it.um.si](https://it.um.si)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## ČASOPISI
- - [https://journals.um.si](https://journals.um.si)
- - date_published: 2024-09-15T23:55:38.658286+00:00
-
- ## Uvodna stran
- - [https://karierni.um.si](https://karierni.um.si)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Karierni center Univerze v Mariboru
- - [https://kc.um.si](https://kc.um.si)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Knjižnica tehniških fakultet Maribor - Obvestilo
- - [https://ktfmb.um.si](https://ktfmb.um.si)
- - date_published: 2024-09-15T23:59:06.355337+00:00
-
- ## LANPS – Laboratorij za načrtovanje proizvodnih sistemov
- - [https://lanps.fs.um.si](https://lanps.fs.um.si)
- - date_published: 2024-06-15T02:47:33.139727+00:00
-
- ## Redirecting...
- - [https://mail.student.um.si](https://mail.student.um.si)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Outlook
- - [https://mail.um.si](https://mail.um.si)
- - date_published: 2024-06-15T02:47:35.354739+00:00
-
- ## Medicinska fakulteta Maribor
- - [https://mf.um.si](https://mf.um.si)
- - date_published: 2016-06-14T00:00:00+00:00
-
- ## Študij na Univerzi v Mariboru
- - [https://moja.um.si](https://moja.um.si)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Moj portal
- - [https://mojportal.um.si](https://mojportal.um.si)
- - date_published: 2024-04-17T07:38:05+00:00
-
- ## Organizacija
- - [https://organizacija.fov.um.si](https://organizacija.fov.um.si)
- - date_published: 2024-09-15T23:57:09.291164+00:00
-
- ## Vstopna stran - Pedagoška Fakulteta UM
- - [https://pef.um.si](https://pef.um.si)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Pravna fakulteta Maribor
- - [https://pf.um.si](https://pf.um.si)
- - date_published: 2024-06-15T02:48:11.116322+00:00
-
- ## Browser SSO
- - [https://podpora.um.si](https://podpora.um.si)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Portal MF UM
- - [https://portal.mf.um.si](https://portal.mf.um.si)
- - date_published: 2024-09-16T00:38:40.239913+00:00
-
- ## Portal PEF UM
- - [http://portal.pef.um.si](http://portal.pef.um.si)
- - date_published: 2024-09-16T00:38:07.551630+00:00
-
- ## PPA
- - [https://ppa.um.si](https://ppa.um.si)
- - date_published: 2024-09-15T23:56:52.050496+00:00
-
- ## Sign in to your account
- - [https://predavanjaonline.um.si](https://predavanjaonline.um.si)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Univerzitetna založba Univerze v Mariboru
- - [https://press.um.si](https://press.um.si)
- - date_published: 2024-06-15T02:47:28.907367+00:00
-
- ## DOMOV
- - [http://rei.pef.um.si](http://rei.pef.um.si)
- - date_published: 2024-09-15T23:32:40+00:00
-
- ## ŠD
- - [https://sd.um.si](https://sd.um.si)
- - date_published: 2023-02-02T10:46:27+00:00
-
- ## Solution Design Summer
- - [https://solutiondesign.summer.um.si](https://solutiondesign.summer.um.si)
- - date_published: 2024-09-15T23:56:46.050251+00:00
-
- ## Domov – Študentski svet Univerze v Mariboru
- - [https://ssum.um.si](https://ssum.um.si)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Študiraj na FOV
- - [http://studiraj.fov.um.si](http://studiraj.fov.um.si)
- - date_published: 2024-01-29T13:55:55+00:00
-
- ## FKBV - Time
- - [https://time.fkbv.um.si](https://time.fkbv.um.si)
- - date_published: 2024-09-15T23:55:36.863152+00:00
-
- ## TRISAT-R LEIS
- - [https://trisat.um.si](https://trisat.um.si)
- - date_published: 2022-07-12T18:14:53+00:00
-
- ## UKM | Univerzitetna knjižnica Maribor
- - [https://ukm.um.si](https://ukm.um.si)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Univerza v Mariboru - UM.si
- - [https://um.si](https://um.si)
- - date_published: 2024-05-01T02:10:19.692509+00:00
-
- ## Fakulteta za organizacijske vede
- - [https://urnik.fov.um.si](https://urnik.fov.um.si)
- - date_published: 2020-10-28T10:33:23+00:00
-
- ## Univerzitetni športni center Leona Štuklja - UM.si
- - [https://usc.um.si](https://usc.um.si)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Vstopna stran
- - [https://web01.fvv.um.si](https://web01.fvv.um.si)
- - date_published: 2024-09-16T00:01:16.731269+00:00
-
- ## Root page
- - [https://www.epf.um.si](https://www.epf.um.si)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Fakulteta za kmetijstvo in biosistemske vede – FKBV
- - [https://www.fkbv.um.si](https://www.fkbv.um.si)
- - date_published: 2024-06-15T02:47:10.822648+00:00
-
- ## Fakulteta za kemijo in kemijsko tehnologijo
- - [https://www.fkkt.um.si](https://www.fkkt.um.si)
- - date_published: 2024-06-15T02:47:52.609218+00:00
-
- ## Fakulteta za turizem - Univerza v Mariboru
- - [https://www.ft.um.si](https://www.ft.um.si)
- - date_published: 2024-06-15T02:47:12.463497+00:00
-
- ## FZV Maribor | Fakulteta za zdravstvene vede - Univerza v Mariboru
- - [https://www.fzv.um.si](https://www.fzv.um.si)
- - date_published: 2024-06-15T02:47:53.764608+00:00
-
- ## LEIS
- - [https://www.leis.um.si](https://www.leis.um.si)
- - date_published: 2024-09-16T00:39:28.670329+00:00
-
- ## ŠD
- - [http://www.studentskidomovi.um.si](http://www.studentskidomovi.um.si)
- - date_published: 2023-02-02T10:46:27+00:00
-
- ## ID portal
- - [https://id.uni-lj.si](https://id.uni-lj.si)
- - date_published: 2024-01-21T14:13:51.552197+00:00
-
- ## University of Ljubljana Press Journals
- - [https://journals.uni-lj.si](https://journals.uni-lj.si)
- - date_published: 2024-06-30T03:32:54.477820+00:00
-
- ## Liber.ac | Sejem akademske knjige
- - [https://liberac.ff.uni-lj.si](https://liberac.ff.uni-lj.si)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Fakulteta za Matematiko in Fiziko • FMF
- - [https://www.fmf.uni-lj.si](https://www.fmf.uni-lj.si)
- - date_published: 2024-07-10T06:40:10.818874+00:00
-
- ## Univerza v Ljubljani
- - [https://www.uni-lj.si](https://www.uni-lj.si)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Fakulteta za organizacijske vede
- - [http://fov.uni-mb.si](http://fov.uni-mb.si)
- - date_published: 2024-09-15T23:57:17.594366+00:00
-
- ## phpinfo()
- - [http://osebje.famnit.upr.si](http://osebje.famnit.upr.si)
- - date_published: 2024-08-11T22:09:06.729248+00:00
-
- ## Predsednica Republike Slovenije
- - [http://www.up-rs.si](http://www.up-rs.si)
- - date_published: 2024-08-07T22:32:36.687859+00:00
-
- ## Varne točke - Varne točke
- - [https://www.varnetocke.si](https://www.varnetocke.si)
- - date_published: 2024-06-28T11:33:39.054733+00:00
-
- ## Varuh človekovih pravic RS
- - [http://www.varuh-rs.si](http://www.varuh-rs.si)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Prepustite nam skrb za svoje finance - Vezovišek & Partnerji
- - [https://www.vezovisek.si](https://www.vezovisek.si)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Goblin
- - [https://gob.vhod.si](https://gob.vhod.si)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.si](https://www.victronenergy.si)
- - date_published: 2024-06-21T18:32:09+00:00
-
- ## Občina Vipava
- - [https://obcina.vipava.si](https://obcina.vipava.si)
- - date_published: 2024-06-28T11:27:25.293615+00:00
 

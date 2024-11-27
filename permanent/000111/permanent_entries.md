@@ -1,3 +1,131 @@
+ ## globegazette.com | Read Mason City, IA and Iowa breaking news. Get latest news, events and information on Iowa sports, weather, entertainment and lifestyles.
+ - [https://globegazette.com](https://globegazette.com)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Send Press Releases With GlobeNews Wire | GlobeNewswire
+ - [https://globenewswire.com](https://globenewswire.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Notified
+ - [https://ml-eu.globenewswire.com](https://ml-eu.globenewswire.com)
+ - date_published: 2024-08-19T19:46:06+00:00
+
+ ## Notified
+ - [https://ml.globenewswire.com](https://ml.globenewswire.com)
+ - date_published: 2024-08-19T19:46:03+00:00
+
+ ## Account Sign in - GlobeNewswire
+ - [https://pnrlogin.globenewswire.com](https://pnrlogin.globenewswire.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Notified
+ - [https://pr.globenewswire.com](https://pr.globenewswire.com)
+ - date_published: 2024-06-20T07:41:21+00:00
+
+ ## Globes | Buy World Globes at GlobeStore.com®
+ - [https://globestore.com](https://globestore.com)
+ - date_published: 2024-04-29T02:30:13.927804+00:00
+
+ ## Professional Congress Organiser | Globewerks International | Singapore
+ - [https://www.globewerks-intl.com](https://www.globewerks-intl.com)
+ - date_published: 2024-07-09T15:56:32.285131+00:00
+
+ ## Cadastro - Autosserviços
+ - [https://accounts.globoads.globo.com](https://accounts.globoads.globo.com)
+ - date_published: 2024-10-21T20:08:05+00:00
+
+ ## Acervo Digital | Jornal O Globo
+ - [https://acervo.oglobo.globo.com](https://acervo.oglobo.globo.com)
+ - date_published: 2024-10-28T12:16:45.735237+00:00
+
+ ## Globo Ads | Ecossistema de soluções para sua marca
+ - [http://anuncie.globo.com](http://anuncie.globo.com)
+ - date_published: 2024-10-20T18:28:21.587382+00:00
+
+ ## SGR - Anuncie Aqui
+ - [https://anunciesgr.globo.com](https://anunciesgr.globo.com)
+ - date_published: 2024-10-20T17:52:35.556767+00:00
+
+ ## App
+ - [https://assineoglobo.globo.com](https://assineoglobo.globo.com)
+ - date_published: 2024-10-08T14:51:58+00:00
+
+ ## AudioGlobo - CBN
+ - [http://audioglobo.globo.com](http://audioglobo.globo.com)
+ - date_published: 2024-10-20T18:15:11.192486+00:00
+
+ ## Autoesporte | Globo
+ - [https://autoesporte.globo.com](https://autoesporte.globo.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Auto Esporte Digital
+ - [https://autoesporte.revistadigital.globo.com](https://autoesporte.revistadigital.globo.com)
+ - date_published: 2024-10-20T17:55:38.799767+00:00
+
+ ## Ao Vivo - BHFM
+ - [https://bhfm.globo.com](https://bhfm.globo.com)
+ - date_published: 2024-06-18T07:13:22.283072+00:00
+
+ ## Surfe | ge
+ - [https://canaloff.globo.com](https://canaloff.globo.com)
+ - date_published: 2024-06-19T08:25:46.905789+00:00
+
+ ## Cartola - Paixão, Escalação, Zoação
+ - [https://cartola.globo.com](https://cartola.globo.com)
+ - date_published: 2024-10-23T13:53:02+00:00
+
+ ## Casa e Jardim | Sua casa linda do seu jeito
+ - [https://casaejardim.globo.com](https://casaejardim.globo.com)
+ - date_published: 2024-10-20T17:45:44.479910+00:00
+
+ ## Casa e Jardim Digital
+ - [https://casaejardim.revistadigital.globo.com](https://casaejardim.revistadigital.globo.com)
+ - date_published: 2024-10-20T17:45:14.363622+00:00
+
+ ## Casa Vogue
+ - [https://casavogue.globo.com](https://casavogue.globo.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## CBN | As principais notícias do Brasil e do Mundo
+ - [https://cbn.globo.com](https://cbn.globo.com)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## CBN | Home
+ - [https://cbn.globoradio.globo.com](https://cbn.globoradio.globo.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Época
+ - [http://colunas.epoca.globo.com](http://colunas.epoca.globo.com)
+ - date_published: 2024-10-27T11:11:10.354123+00:00
+
+ ## Assista ao Combate
+ - [http://combate.globo.com](http://combate.globo.com)
+ - date_published: 2024-06-19T08:25:33.549469+00:00
+
+ ## Conta Globo - Uma só conta para todos os produtos Globo
+ - [https://conta.globo.com](https://conta.globo.com)
+ - date_published: 2024-06-04T21:06:18+00:00
+
+ ## Crescer Digital
+ - [https://crescer.revistadigital.globo.com](https://crescer.revistadigital.globo.com)
+ - date_published: 2024-10-20T19:15:51.847196+00:00
+
+ ## Globo.com - Desculpe-nos, página não encontrada
+ - [https://editora-globo-api.mybackstage.globo.com](https://editora-globo-api.mybackstage.globo.com)
+ - date_published: 2024-06-18T07:13:02.937816+00:00
+
+ ## Época
+ - [https://epoca.globo.com](https://epoca.globo.com)
+ - date_published: 2024-10-20T18:03:26.923025+00:00
+
+ ## Home | Época Negócios
+ - [https://epocanegocios.globo.com](https://epocanegocios.globo.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Época Negócios Digital
+ - [https://epocanegocios.revistadigital.globo.com](https://epocanegocios.revistadigital.globo.com)
+ - date_published: 2024-10-20T18:40:26.227898+00:00
+
  ## EXTRA | Extra online
  - [https://extra.globo.com](https://extra.globo.com)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -3897,136 +4025,4 @@ Homebrew Video Game Depot
  ## Google
  - [https://googl.com](https://googl.com)
  - date_published: 2024-07-01T08:55:28.319745+00:00
-
- ## Google - About
- - [https://about.google.com](https://about.google.com)
- - date_published: 2024-05-07T14:30:19+00:00
-
- ## Google Account
- - [https://aboutme.google.com](https://aboutme.google.com)
- - date_published: 2024-06-16T10:38:41.078940+00:00
-
- ## Google Account
- - [https://account.google.com](https://account.google.com)
- - date_published: 2024-04-25T07:00:00+00:00
-
- ## Sign in - Google Accounts
- - [https://accounts.google.com](https://accounts.google.com)
- - date_published: 2023-12-13T16:04:41.466509+00:00
-
- ## Redirecting...
- - [https://admanager.google.com](https://admanager.google.com)
- - date_published: 2024-06-16T20:39:47.769851+00:00
-
- ## Sign in - Google Accounts
- - [https://admin.google.com](https://admin.google.com)
- - date_published: 2024-05-04T08:30:24.382428+00:00
-
- ## Google AI
- - [https://ai.google.com](https://ai.google.com)
- - date_published: 2024-05-07T14:30:13.530004+00:00
-
- ## Google AI Studio  |  Google AI for Developers  |  Google for Developers
- - [https://aistudio.google.com](https://aistudio.google.com)
- - date_published: 2024-05-04T08:03:05.413604+00:00
-
- ## Redirecting...
- - [https://analytics.google.com](https://analytics.google.com)
- - date_published: 2024-11-14T13:33:06+00:00
- - tags: ['google analytics', 'website analytics']
-
- ## Google Answers
- - [http://answers.google.com](http://answers.google.com)
- - date_published: 2013-05-16T23:55:33+00:00
-
- ## Google for Developers - from AI and Cloud to Mobile and Web
- - [https://apis.google.com](https://apis.google.com)
- - date_published: 2023-12-11T16:51:37.859216+00:00
-
- ## Google Cloud Platform
- - [https://appengine.google.com](https://appengine.google.com)
- - date_published: 2024-09-04T08:12:11.463488+00:00
-
- ## Google Workspace
- - [https://apps.google.com](https://apps.google.com)
- - date_published: 2016-12-18T00:00:00+00:00
-
- ## Area 120 by Google
- - [https://area120.google.com](https://area120.google.com)
- - date_published: 2024-03-12T05:08:00+00:00
-
- ## Google Arts & Culture
- - [https://artsandculture.google.com](https://artsandculture.google.com)
- - date_published: 2023-10-25T14:47:24.929387+00:00
-
- ## Google AR & VR | Home
- - [https://arvr.google.com](https://arvr.google.com)
- - date_published: 2024-05-01T01:08:00+00:00
- - tags: ['artificial intelligence', 'virtual reality']
-
- ## Google Assistant, your own personal Google
- - [https://assistant.google.com](https://assistant.google.com)
- - date_published: 2024-05-04T15:33:23.076387+00:00
-
- ## asx-frontend-autopush.corp.google.com - Google Single Sign On: Sign into corp
- - [https://asx-frontend-autopush.corp.google.com](https://asx-frontend-autopush.corp.google.com)
- - date_published: 2024-06-22T22:35:33.032095+00:00
-
- ## asx-frontend-staging.corp.google.com - Google Single Sign On: Sign into corp
- - [https://asx-frontend-staging.corp.google.com](https://asx-frontend-staging.corp.google.com)
- - date_published: 2024-06-22T22:35:46.759088+00:00
-
- ## ‎Bard - Chat Based AI Tool from Google, Powered by PaLM 2
- - [https://bard.google.com](https://bard.google.com)
- - date_published: 2023-10-25T14:47:31.201724+00:00
- - tags: ['artificial intelligence bot']
-
- ## Project Baseline
- - [https://baseline.google.com](https://baseline.google.com)
- - date_published: 2024-06-27T13:39:05.441612+00:00
-
- ## Google Cloud Platform
- - [https://bigquery.cloud.google.com](https://bigquery.cloud.google.com)
- - date_published: 2024-06-22T21:15:49.229613+00:00
-
- ## Google
- - [https://blogsearch.google.com](https://blogsearch.google.com)
- - date_published: 2024-05-02T10:08:25.415832+00:00
-
- ## Google Books
- - [https://books.google.com](https://books.google.com)
- - date_published: 2024-03-18T22:26:15.140737+00:00
- - tags: ['niche search engine', 'books']
-
- ## bricks2.corp.google.com - Google Single Sign On: Sign into corp
- - [https://bricks2.corp.google.com](https://bricks2.corp.google.com)
- - date_published: 2024-04-27T08:27:06.342080+00:00
-
- ## buganizer.corp.google.com - Google Single Sign On: Sign into corp
- - [https://buganizer.corp.google.com](https://buganizer.corp.google.com)
- - date_published: 2024-05-04T08:29:51.389750+00:00
-
- ## Google Bug Hunters
- - [https://bughunters.google.com](https://bughunters.google.com)
- - date_published: 2023-12-14T04:38:33.745395+00:00
-
- ## Before you continue
- - [https://business.google.com](https://business.google.com)
- - date_published: 2024-07-01T06:25:14.950930+00:00
-
- ## Shareable Online Calendar and Scheduling - Google Calendar
- - [https://calendar.google.com](https://calendar.google.com)
- - date_published: 2024-01-06T11:15:34.786443+00:00
-
- ## Sign in - Google Accounts
- - [https://campaignmanager.google.com](https://campaignmanager.google.com)
- - date_published: 2024-06-16T20:39:06.124385+00:00
-
- ## Build for everyone - Google Careers
- - [https://careers.google.com](https://careers.google.com)
- - date_published: 2024-04-27T08:27:03.320242+00:00
-
- ## Chromecast built-in
- - [https://cast.google.com](https://cast.google.com)
- - date_published: 2024-05-04T08:29:26.929174+00:00
 

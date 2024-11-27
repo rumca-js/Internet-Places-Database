@@ -1,3 +1,247 @@
+ ## Adele – Design Systems and Pattern Libraries Repository
+ - [https://adele.uxpin.com](https://adele.uxpin.com)
+ - date_published: 2024-06-20T17:58:32.662158+00:00
+
+ ## UXPin
+ - [https://app.uxpin.com](https://app.uxpin.com)
+ - date_published: 2024-07-24T02:31:56.827497+00:00
+
+ ## Downloading and Using UXPin | Getting Started
+ - [https://community.uxpin.com](https://community.uxpin.com)
+ - date_published: 2024-07-24T02:32:00.206722+00:00
+
+ ## Your UX/UI Design Tool
+ - [https://get.uxpin.com](https://get.uxpin.com)
+ - date_published: 2024-07-24T02:31:57.726803+00:00
+
+ ## UXPin
+ - [https://preview.uxpin.com](https://preview.uxpin.com)
+ - date_published: 2024-07-24T02:32:07.306891+00:00
+
+ ## Design inspirations and prototype examples by UXPin community.
+ - [https://showcase.uxpin.com](https://showcase.uxpin.com)
+ - date_published: 2024-07-24T02:32:02.040451+00:00
+
+ ## UXPin | UI Design and Prototyping Tool
+ - [https://uxpin.com](https://uxpin.com)
+ - date_published: 2024-04-29T07:15:18.106614+00:00
+
+ ## UXPin
+ - [https://app.uxpincdn.com](https://app.uxpincdn.com)
+ - date_published: 2024-07-24T02:32:04.901184+00:00
+
+ ## UX Podcast – A twice-monthly user experience and digital design podcast
+ - [https://uxpodcast.com](https://uxpodcast.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## UXPressia Help Center
+ - [https://help.uxpressia.com](https://help.uxpressia.com)
+ - date_published: 2024-10-30T07:50:33.209083+00:00
+
+ ## Customer Experience Mapping Platform | User Journey Management Software
+ - [https://static.uxpressia.com](https://static.uxpressia.com)
+ - date_published: 2024-10-30T07:50:36.391698+00:00
+
+ ## Customer Experience Mapping Platform | User Journey Management Software
+ - [https://uxpressia.com](https://uxpressia.com)
+ - date_published: 2024-06-19T18:49:21.578851+00:00
+
+ ## UXPressia Academy | Service Design & Customer Experience education
+ - [https://www.academy.uxpressia.com](https://www.academy.uxpressia.com)
+ - date_published: 2024-10-30T07:50:34.655827+00:00
+
+ ## UX Design Agency San Francisco
+ - [https://marketing.uxreactor.com](https://marketing.uxreactor.com)
+ - date_published: 2021-10-22T09:29:53+00:00
+
+ ## UX Design Agency San Francisco
+ - [https://uxreactor.com](https://uxreactor.com)
+ - date_published: 2021-10-22T09:29:53+00:00
+
+ ## UX Salon Home - UX Salon
+ - [https://uxsalon.com](https://uxsalon.com)
+ - date_published: 2024-07-20T21:47:38.425793+00:00
+
+ ## Shmulik – UX Designer – Portfolio of UX Designer Shmulik
+ - [http://uxshmulik.com](http://uxshmulik.com)
+ - date_published: 2024-07-24T05:54:22.023124+00:00
+
+ ## UI/UX Design and Research Agency | UX studio
+ - [https://uxstudioteam.com](https://uxstudioteam.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## 2016 Swiss UX Survey Report
+ - [http://uxswitzerland.com](http://uxswitzerland.com)
+ - date_published: 2018-11-04T20:56:17+00:00
+
+ ## UX Tigers: Jakob Nielsen's new articles
+ - [https://www.uxtigers.com](https://www.uxtigers.com)
+ - date_published: 2024-01-29T04:02:13.225826+00:00
+
+ ## Uxtly Blog
+ - [https://blog.uxtly.com](https://blog.uxtly.com)
+ - date_published: 2024-07-27T17:12:08+00:00
+
+ ## Workspaces
+ - [https://docs.uxtly.com](https://docs.uxtly.com)
+ - date_published: 2024-07-27T17:12:11+00:00
+
+ ## Uxtly
+ - [https://uxtly.com](https://uxtly.com)
+ - date_published: 2024-08-02T18:38:48+00:00
+
+ ## Powerful UX Research & Usability Testing Platform | UXtweak
+ - [https://api.uxtweak.com](https://api.uxtweak.com)
+ - date_published: 2024-07-08T12:13:06.078160+00:00
+
+ ## Free icons for website with commercial use no attribution PNG and SVG Vector Free Download
+ - [https://uxwing.com](https://uxwing.com)
+ - date_published: 2024-07-06T15:10:40+00:00
+
+ ## UXWizz
+ - [https://dashboard.uxwizz.com](https://dashboard.uxwizz.com)
+ - date_published: 2024-07-22T00:36:19+00:00
+
+ ## Introduction | UXWizz
+ - [https://docs.uxwizz.com](https://docs.uxwizz.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## UXWizz - Self-Hosted Web Analytics
+ - [https://uxwizz.com](https://uxwizz.com)
+ - date_published: 2024-04-28T02:57:58.620695+00:00
+
+ ## TVアニメ「うる星やつら」
+ - [https://uy-allstars.com](https://uy-allstars.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 中国维吾尔语广播网
+ - [http://www.uycnr.com](http://www.uycnr.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Uzabase for Engineers
+ - [https://tech.uzabase.com](https://tech.uzabase.com)
+ - date_published: 2024-09-18T17:57:39.548149+00:00
+
+ ## Uzabase, inc.
+ - [https://www.uzabase.com](https://www.uzabase.com)
+ - date_published: 2024-09-18T06:42:17+00:00
+
+ ## Home - Uzermak
+ - [https://uzermak.com](https://uzermak.com)
+ - date_published: 2024-10-31T08:06:32+00:00
+
+ ## UZIK
+ - [http://uzik.com](http://uzik.com)
+ - date_published: 2024-06-28T21:27:34.037170+00:00
+
+ ## UZI Talk Forums
+ - [http://www.uzitalk.com](http://www.uzitalk.com)
+ - date_published: 2022-12-28T20:59:31+00:00
+
+ ## Bitcoin Haberleri - Uzmancoin - Kripto paralar ve Blockchain - Bitcoin haberleri - Uzmancoin - Kripto para ve Blockchain
+ - [https://uzmancoin.com](https://uzmancoin.com)
+ - date_published: 2024-09-25T10:15:48+00:00
+
+ ## UZU NOTE
+ - [https://uzunote.com](https://uzunote.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## V21 Artspace | Interactive 3D Exhibition Tours & Immersive VR Experiences
+ - [https://v21artspace.com](https://v21artspace.com)
+ - date_published: 2024-10-18T06:56:56.148911+00:00
+
+ ## https://v2ex.com
+ - [https://v2ex.com](https://v2ex.com)
+ - date_published: 2023-10-25T17:54:37.744256+00:00
+
+ ## Home - v2food - Australia's #1 Plant Based Meat Company
+ - [https://v2food.com](https://v2food.com)
+ - date_published: 2024-10-29T14:43:33.845975+00:00
+
+ ## DREAM'S END COME TRUE
+ - [https://v2isdead.com](https://v2isdead.com)
+ - date_published: 2024-05-19T22:37:11+00:00
+
+ ## Build Great Things
+ - [https://v2thegreat.com](https://v2thegreat.com)
+ - date_published: 2024-06-20T09:04:21.175381+00:00
+
+ ## 软件无线电、5G/6G通信和卫星互联网解决方案
+ - [http://www.v3best.com](http://www.v3best.com)
+ - date_published: 2024-06-30T12:46:51.755523+00:00
+
+ ## Choisir son VPN sans log
+ - [http://www.v6address.com](http://www.v6address.com)
+ - date_published: 2024-07-07T00:04:27.834750+00:00
+
+ ## V7N: Best Stocks, Crypto & Forex Trading Platform
+ - [https://v7n.com](https://v7n.com)
+ - date_published: 2023-12-29T16:14:31+00:00
+
+ ## Win4K3 and Win4K4 Suite for Elecraft Radios - Win4K4Suite for the Elecraft K4, K3, K3S, KX3, and KX2
+ - [https://va2fsq.com](https://va2fsq.com)
+ - date_published: 2024-02-08T16:35:23.781780+00:00
+
+ ## Website is Inactive: Contact Hosting24.com
+ - [http://www.va4business.com](http://www.va4business.com)
+ - date_published: 2024-06-30T03:19:24.735846+00:00
+
+ ## Vardenafil HCl (Levitra®) 10mg and 20mg
+ - [https://vaaardenafil.com](https://vaaardenafil.com)
+ - date_published: 2024-09-10T14:02:38.638886+00:00
+
+ ## Vaadin | The Web App Platform for Java
+ - [https://vaadin.com](https://vaadin.com)
+ - date_published: 2024-07-01T05:19:24.142558+00:00
+
+ ## Vaaghals
+ - [https://www.vaaghals.com](https://www.vaaghals.com)
+ - date_published: 2024-08-19T06:12:17.054264+00:00
+
+ ## Va-album.com
+ - [https://va-album.com](https://va-album.com)
+ - date_published: 2024-07-20T04:03:43.796125+00:00
+
+ ## VAAST Bikes | The Soul of Sport Performance | SUPER MAGNESIUM Bikes
+ - [https://www.vaastbikes.com](https://www.vaastbikes.com)
+ - date_published: 2024-08-19T09:56:57.126016+00:00
+
+ ## VB United
+ - [https://www.vabeachunited.com](https://www.vabeachunited.com)
+ - date_published: 2024-07-09T23:07:39.916196+00:00
+
+ ## Rêves de Soleil | Brochure numérique | Vacances Air Canada
+ - [https://revesdesoleil.vacancesaircanada.com](https://revesdesoleil.vacancesaircanada.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## vacanceswestjetquebec.com
+ - [https://book.vacanceswestjetquebec.com](https://book.vacanceswestjetquebec.com)
+ - date_published: 2024-09-26T10:14:40.050368+00:00
+
+ ## WestJet Vacations Québec - Sun Vacation Packages
+ - [https://vacanceswestjetquebec.com](https://vacanceswestjetquebec.com)
+ - date_published: 2024-06-16T06:15:05.067453+00:00
+
+ ## Vacation Deals™ ★ Vacation and Hotel Deals ★ Since 1999
+ - [https://vacation-deals.com](https://vacation-deals.com)
+ - date_published: 2020-05-05T17:47:56+00:00
+
+ ## Vacation Foods
+ - [http://www.vacationfoods.com](http://www.vacationfoods.com)
+ - date_published: 2024-09-18T01:19:55.622634+00:00
+
+ ## Vacations by Marriott Bonvoy
+ - [https://www.vacationsbymarriott.com](https://www.vacationsbymarriott.com)
+ - date_published: 2024-10-29T07:00:22.881430+00:00
+
+ ## Vacations and Travel - Subscribe..
+ - [https://subscribe.vacationstravel.com](https://subscribe.vacationstravel.com)
+ - date_published: 2024-06-21T10:09:33.988975+00:00
+
+ ## Vacations & Travel holiday inspiration
+ - [https://vacationstravel.com](https://vacationstravel.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Getaway Deals up to 75% Savings | White Mountains NH
  - [https://www.vacationwhitemountains.com](https://www.vacationwhitemountains.com)
  - date_published: 2024-07-07T10:00:02.923837+00:00
@@ -413,6 +657,10 @@
  ## Login : Validity
  - [https://api.everest.validity.com](https://api.everest.validity.com)
  - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Trust Your Data | Validity, Inc.
+ - [https://www.validity.com](https://www.validity.com)
+ - date_published: 2024-11-27T02:02:23.772953+00:00
 
  ## ValidKube | Validate, Clean & Secure Your K8s YAML
  - [http://www.validkube.com](http://www.validkube.com)
@@ -3785,255 +4033,4 @@
  ## ["Veronika Krausas [Composer]"]
  - [http://veronikakrausas.com](http://veronikakrausas.com)
  - date_published: 2024-09-06T21:45:31.413495+00:00
-
- ## Home | VeroniqueOroCorp
- - [https://veroniqueorocorp.com](https://veroniqueorocorp.com)
- - date_published: 2024-07-13T02:51:23.548139+00:00
-
- ## VeroSkills - Upskilling Refugees for a Brighter Tomorrow
- - [https://www.veroskills.com](https://www.veroskills.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Verovapaat Nettikasinot Ilman Rekisteröitymistä: Kasinot 2024
- - [https://www.verovapaatkasinot.com](https://www.verovapaatkasinot.com)
- - date_published: 2024-06-23T21:52:59+00:00
-
- ## Affiliate program
- - [https://affiliates.verpex.com](https://affiliates.verpex.com)
- - date_published: 2024-09-20T06:56:51.442634+00:00
-
- ## Loading...
- - [https://clients.verpex.com](https://clients.verpex.com)
- - date_published: 2024-09-19T11:55:10+00:00
-
- ## El Mejor Hospedaje Web: Planes desde $0.60 mensual | Verpex®
- - [https://es.verpex.com](https://es.verpex.com)
- - date_published: 2024-09-20T06:56:56.872990+00:00
-
- ## Verpex
- - [https://kb.verpex.com](https://kb.verpex.com)
- - date_published: 2024-09-20T06:56:46.260037+00:00
-
- ## Best Web Hosting: Plans from $0.6/mo. | Verpex®
- - [https://verpex.com](https://verpex.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Verra Mobility | Global Leader in Smart Transportation Technologies
- - [https://www.verramobility.com](https://www.verramobility.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Verrica Pharmaceuticals
- - [https://verrica.com](https://verrica.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Versa Creative: Digital Marketing & Advertising Agency in Houston
- - [https://versacreative.com](https://versacreative.com)
- - date_published: 2024-10-19T18:17:04.945219+00:00
-
- ## Home
- - [http://www.versaillescuban.com](http://www.versaillescuban.com)
- - date_published: 2024-07-14T09:25:00+00:00
-
- ## Versality - a novel by Rollo Carpenter - metaverse science fiction
- - [https://versality.com](https://versality.com)
- - date_published: 2023-01-21T17:52:56+00:00
-
- ## Secure Access Service Edge (SASE) vendor
- - [https://versa-networks.com](https://versa-networks.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Versapay API Reference
- - [https://developers.versapay.com](https://developers.versapay.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Versapay
- - [https://secure.versapay.com](https://secure.versapay.com)
- - date_published: 2024-08-07T21:45:11.392963+00:00
-
- ## Versapay Status
- - [https://status.versapay.com](https://status.versapay.com)
- - date_published: 2024-08-07T21:44:21.290806+00:00
-
- ## Versapay Customer Adoption Center
- - [https://success.versapay.com](https://success.versapay.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Versapay Product Updates Portal
- - [https://updates.versapay.com](https://updates.versapay.com)
- - date_published: 2024-08-07T21:44:23.379146+00:00
-
- ## Home | Versapay
- - [https://versapay.com](https://versapay.com)
- - date_published: 2024-04-28T02:43:40.712151+00:00
-
- ## Madison Wisconsin Web Design and Development with Craft CMS and ExpressionEngine CMS
- - [https://versastudio.com](https://versastudio.com)
- - date_published: 2023-12-03T23:31:28.129334+00:00
- - tags: ['personal']
-
- ## Versatile Records
- - [https://shop.versatilerecords.com](https://shop.versatilerecords.com)
- - date_published: 2024-10-22T20:18:52.671748+00:00
-
- ## Hans verschooten
- - [http://verschooten.com](http://verschooten.com)
- - date_published: 2014-02-07T16:03:24+00:00
-
- ## Verse Chorus songwriting connections | Find a Songwriting Partner
- - [https://www.verse-chorus.com](https://www.verse-chorus.com)
- - date_published: 2024-06-21T14:02:28.805707+00:00
-
- ## Verse Estate - Home page
- - [https://www.verse-estate.com](https://www.verse-estate.com)
- - date_published: 2024-06-03T12:31:12+00:00
-
- ## Verse Medical
- - [https://versemedical.com](https://versemedical.com)
- - date_published: 2024-10-29T20:17:39+00:00
-
- ## Versepad
- - [https://versepad.com](https://versepad.com)
- - date_published: 2024-07-23T23:40:22.117629+00:00
-
- ## VersionEye
- - [https://www.versioneye.com](https://www.versioneye.com)
- - date_published: 2024-09-09T20:27:28.081611+00:00
-
- ## Versionfeeds - Custom RSS Feeds for Releases of your favorite Software
- - [https://versionfeeds.com](https://versionfeeds.com)
- - date_published: 2024-07-18T15:24:35.576123+00:00
-
- ## Version Museum: A Visual History of Your Favorite Technology
- - [https://www.versionmuseum.com](https://www.versionmuseum.com)
- - date_published: 2024-06-22T23:46:05.544753+00:00
-
- ## VERSL - Website Development and Marketing
- - [https://www.versl.com](https://www.versl.com)
- - date_published: 2024-07-18T14:27:09.309451+00:00
-
- ## JAY VERSLUIS
- - [http://www.versluis.com](http://www.versluis.com)
- - date_published: 2024-11-16T21:14:26.531253+00:00
-
- ## Verso Books Help Center
- - [https://help.versobooks.com](https://help.versobooks.com)
- - date_published: 2024-05-09T05:36:49.625438+00:00
-
- ## Verso Books | Books, Blog, and Book Club
- - [https://versobooks.com](https://versobooks.com)
- - date_published: 2024-03-06T14:47:00.378803+00:00
-
- ## Versoly — The website builder that doesn't compromise
- - [https://versoly.com](https://versoly.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Versu
- - [http://versu.com](http://versu.com)
- - date_published: 2024-07-12T21:45:54+00:00
-
- ## Versus | Compare everything
- - [https://versus.com](https://versus.com)
- - date_published: 2024-06-03T11:19:29.999331+00:00
-
- ## Versus Eternity
- - [http://versuseternity.com](http://versuseternity.com)
- - date_published: 2018-05-28T18:27:21+00:00
-
- ## Vert Digital
- - [https://vertdigital.com](https://vertdigital.com)
- - date_published: 2024-06-25T22:35:43.988934+00:00
-
- ## Vertex 2024
- - [https://www.vertexconf.com](https://www.vertexconf.com)
- - date_published: 2024-07-24T05:53:30.639326+00:00
-
- ## Vertex Minerals Limited | ASX Code:VTX
- - [https://vertexminerals.com](https://vertexminerals.com)
- - date_published: 2024-09-16T22:23:19.281879+00:00
-
- ## Vertex School
- - [https://www.vertexschool.com](https://www.vertexschool.com)
- - date_published: 2024-07-24T04:47:47.861226+00:00
-
- ## Vertica is now part of OpenText Analytics & AI.
- - [https://www.vertica.com](https://www.vertica.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.vertical-aerospace.com](https://investor.vertical-aerospace.com)
- - date_published: 2024-05-21T03:03:24.536360+00:00
-
- ## Vertical Aerospace · Pioneering Electric Aviation
- - [https://vertical-aerospace.com](https://vertical-aerospace.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Vertical Arcade
- - [https://www.verticalarcade.com](https://www.verticalarcade.com)
- - date_published: 2023-04-10T00:00:00+00:00
-
- ## Verticalfarmdaily.com: global indoor farming news
- - [https://verticalfarmdaily.com](https://verticalfarmdaily.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Vertical Helicasts
- - [https://verticalhelicasts.com](https://verticalhelicasts.com)
- - date_published: 2024-05-21T03:03:43.971576+00:00
- - tags: ['vtol']
-
- ## Vertical Online Forums
- - [https://forums.verticalmag.com](https://forums.verticalmag.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Vertical Mag - The pulse of the helicopter industry
- - [https://verticalmag.com](https://verticalmag.com)
- - date_published: 2023-10-25T17:55:56.776993+00:00
- - tags: ['evtol news']
-
- ## Vertical
- - [http://verticalparis.com](http://verticalparis.com)
- - date_published: 2024-07-13T15:29:23.504812+00:00
-
- ## Vertical Power Home
- - [http://verticalpower.com](http://verticalpower.com)
- - date_published: 2024-06-27T13:41:08+00:00
-
- ## Home
- - [https://verticalresponse.com](https://verticalresponse.com)
- - date_published: 2024-10-21T07:35:38.527524+00:00
-
- ## VerticalResponse Account Login
- - [https://vr2.verticalresponse.com](https://vr2.verticalresponse.com)
- - date_published: 2024-09-04T17:26:23.856297+00:00
-
- ## Vertical Robot
- - [https://verticalrobot.com](https://verticalrobot.com)
- - date_published: 2024-01-08T01:01:44+00:00
-
- ## Vertical Runner Site | Vertical Runner Blog Terkini
- - [https://verticalrunnerbreckenridge.com](https://verticalrunnerbreckenridge.com)
- - date_published: 2024-11-01T00:53:09.106244+00:00
-
- ## VerticalScope Inc.
- - [https://www.verticalscope.com](https://www.verticalscope.com)
- - date_published: 2024-06-23T15:48:32.688360+00:00
-
- ## Veterinary GRC | GPO | Purchasing | Practice Support | Vet Network
- - [http://verticalvet.com](http://verticalvet.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## VÉRTICE
- - [https://www.verticenews.com](https://www.verticenews.com)
- - date_published: 2023-03-15T10:05:57+00:00
-
- ## VMP - Vertigo Media Performance
- - [https://www.vertigomediaperformance.com](https://www.vertigomediaperformance.com)
- - date_published: 2020-09-25T07:09:56+00:00
-
- ## Luxury Apartments in Nashville | Vertis Green Hills
- - [https://vertisgreenhills.com](https://vertisgreenhills.com)
- - date_published: 2024-10-18T05:49:17.321194+00:00
-
- ## Careers - VertiStudio
- - [https://careers.vertistudio.com](https://careers.vertistudio.com)
- - date_published: 2024-05-11T09:07:48.096797+00:00
 

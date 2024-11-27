@@ -1,3 +1,276 @@
+ ## School of Arts and Humanities
+ - [https://artsandhumanities.ucsd.edu](https://artsandhumanities.ucsd.edu)
+ - date_published: 2024-05-07T21:07:20.815141+00:00
+
+ ## Astronomy & Astrophysics
+ - [https://astro.ucsd.edu](https://astro.ucsd.edu)
+ - date_published: 2024-06-02T02:39:04+00:00
+
+ ## Business Analytics Hub
+ - [https://bah.ucsd.edu](https://bah.ucsd.edu)
+ - date_published: 2024-05-21T00:17:05+00:00
+
+ ## Admissions
+ - [https://beatriton.ucsd.edu](https://beatriton.ucsd.edu)
+ - date_published: 2024-09-30T21:35:07+00:00
+
+ ## Home | Shu Chien - Gene Lay Department of Bioengineering
+ - [https://be.ucsd.edu](https://be.ucsd.edu)
+ - date_published: 2024-07-02T01:39:28.464025+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://bianalytics.ucsd.edu](https://bianalytics.ucsd.edu)
+ - date_published: 2024-10-14T20:55:30.229692+00:00
+
+ ## Biological Sciences
+ - [https://biology.ucsd.edu](https://biology.ucsd.edu)
+ - date_published: 2024-05-07T21:01:48.889985+00:00
+
+ ## UCSD Biological Physics
+ - [https://biophysics.ucsd.edu](https://biophysics.ucsd.edu)
+ - date_published: 2024-06-30T04:58:48.051944+00:00
+
+ ## Home - BioSci Student Success Center
+ - [https://biostudentsuccess.ucsd.edu](https://biostudentsuccess.ucsd.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Blink: Information for UC San Diego Faculty & Staff
+ - [https://blink.ucsd.edu](https://blink.ucsd.edu)
+ - date_published: 2024-06-12T01:31:50+00:00
+
+ ## Home | UC San Diego Event Calendar
+ - [https://calendar.ucsd.edu](https://calendar.ucsd.edu)
+ - date_published: 2024-05-07T21:02:13.196489+00:00
+
+ ## Giving
+ - [https://campaign.ucsd.edu](https://campaign.ucsd.edu)
+ - date_published: 2024-06-05T18:05:18+00:00
+
+ ## SINGLE SIGN-ON
+ - [http://cams.ucsd.edu](http://cams.ucsd.edu)
+ - date_published: 2024-09-13T18:37:09.413780+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
+ - date_published: 2024-05-04T15:27:04.127461+00:00
+
+ ## Career Center
+ - [https://career.ucsd.edu](https://career.ucsd.edu)
+ - date_published: 2024-04-08T14:36:08+00:00
+
+ ## CARE at SARC
+ - [https://care.ucsd.edu](https://care.ucsd.edu)
+ - date_published: 2024-06-17T22:21:18+00:00
+
+ ## California Sea Grant
+ - [https://caseagrant.ucsd.edu](https://caseagrant.ucsd.edu)
+ - date_published: 2024-06-28T03:45:40+00:00
+
+ ## General Catalog 2024–25 Catalog of Record
+ - [https://catalog.ucsd.edu](https://catalog.ucsd.edu)
+ - date_published: 2024-06-20T16:39:07+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://cdn.ucsd.edu](https://cdn.ucsd.edu)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## Welcome to Student Success Center | Student Success Center
+ - [https://center.ucsd.edu](https://center.ucsd.edu)
+ - date_published: 2024-06-30T04:58:45.756775+00:00
+
+ ## Center for Global Sustainable Development
+ - [https://cgsd.ucsd.edu](https://cgsd.ucsd.edu)
+ - date_published: 2023-09-28T14:46:24+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucsd.edu](https://chancellor.ucsd.edu)
+ - date_published: 2024-06-07T19:25:28+00:00
+
+ ## The Cultural Heritage Engineering Initiative (CHEI) – Engineering a Future for the Past
+ - [https://chei.ucsd.edu](https://chei.ucsd.edu)
+ - date_published: 2018-03-14T00:00:00+00:00
+
+ ## Chemistry and Biochemistry
+ - [https://chemistry.ucsd.edu](https://chemistry.ucsd.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Clinical Trials at UCSD
+ - [https://clinicaltrials.ucsd.edu](https://clinicaltrials.ucsd.edu)
+ - date_published: 2024-07-01T22:28:00+00:00
+
+ ## Center For Networked Systems – A Research Center within the Computer Science and Engineering Department at UC San Diego
+ - [http://cns.ucsd.edu](http://cns.ucsd.edu)
+ - date_published: 2018-02-06T20:09:39+00:00
+
+ ## Cog Sci
+ - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UC San Diego Commencement
+ - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
+ - date_published: 2024-06-16T14:32:14+00:00
+
+ ## Commons Homepage
+ - [https://commons.ucsd.edu](https://commons.ucsd.edu)
+ - date_published: 2024-01-23T23:36:46+00:00
+
+ ## Department of Communication
+ - [http://communication.ucsd.edu](http://communication.ucsd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Select your identity provider
+ - [https://concur.ucsd.edu](https://concur.ucsd.edu)
+ - date_published: 2024-09-13T18:37:34.746056+00:00
+
+ ## Apply Now
+ - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
+ - date_published: 2024-06-26T17:55:10+00:00
+
+ ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
+ - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
+ - date_published: 2024-05-04T15:43:44.384148+00:00
+
+ ## CoralNet
+ - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
+ - date_published: 2024-06-13T17:54:35.315107+00:00
+
+ ## Center for Research in Language
+ - [http://crl.ucsd.edu](http://crl.ucsd.edu)
+ - date_published: 2020-10-03T00:00:00+00:00
+
+ ## CSE 125 -- Software System Design and Implementation
+ - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
+ - date_published: 2024-06-15T15:46:17+00:00
+
+ ## CSE 35th Anniversary
+ - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
+ - date_published: 2024-05-07T21:00:29.549788+00:00
+
+ ## CSE Annual Report
+ - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
+ - date_published: 2024-05-07T21:00:36.116463+00:00
+
+ ## CSE Research Open House| UC San Diego
+ - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
+ - date_published: 2016-11-28T21:42:49+00:00
+
+ ## Home | Computer Science
+ - [https://cse.ucsd.edu](https://cse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | Computer Science
+ - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
+ - date_published: 2023-10-25T19:01:08.426811+00:00
+
+ ## Computational Science, Mathematics and Engineering (CSME)
+ - [https://csme.ucsd.edu](https://csme.ucsd.edu)
+ - date_published: 2023-09-28T14:03:52+00:00
+
+ ## Computational Social Science
+ - [https://css.ucsd.edu](https://css.ucsd.edu)
+ - date_published: 2024-06-20T21:35:27+00:00
+
+ ## Home | Center for Wireless Communications
+ - [http://cwc.ucsd.edu](http://cwc.ucsd.edu)
+ - date_published: 2024-10-16T02:43:37.729621+00:00
+
+ ## School of Arts and Humanities
+ - [https://dah.ucsd.edu](https://dah.ucsd.edu)
+ - date_published: 2024-05-23T17:02:04+00:00
+
+ ## Home - Halıcıoğlu Data Science Institute - UC San Diego
+ - [https://datascience.ucsd.edu](https://datascience.ucsd.edu)
+ - date_published: 2022-01-28T19:27:27+00:00
+
+ ## Home - UCSD - DDPM
+ - [https://ddpm.ucsd.edu](https://ddpm.ucsd.edu)
+ - date_published: 2024-07-01T21:17:28+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://degree-planner.ucsd.edu](https://degree-planner.ucsd.edu)
+ - date_published: 2024-10-14T20:59:39.244681+00:00
+
+ ## Diana Deutsch - Diana Deutsch's Web Page>
+ - [http://deutsch.ucsd.edu](http://deutsch.ucsd.edu)
+ - date_published: 2024-09-06T21:33:34.554118+00:00
+
+ ## Digital Learning
+ - [https://digitallearning.ucsd.edu](https://digitallearning.ucsd.edu)
+ - date_published: 2024-04-25T17:24:37+00:00
+
+ ## Disability Resources
+ - [https://disabilities.ucsd.edu](https://disabilities.ucsd.edu)
+ - date_published: 2024-03-12T18:46:11+00:00
+
+ ## Office for Equity, Diversity, and Inclusion
+ - [https://diversity.ucsd.edu](https://diversity.ucsd.edu)
+ - date_published: 2024-04-25T20:48:20+00:00
+ - tags: ['dei']
+
+ ## Do the Math | Using physics and estimation to assess energy, growth, options—by Tom Murphy
+ - [https://dothemath.ucsd.edu](https://dothemath.ucsd.edu)
+ - date_published: 2023-10-25T19:01:13.139500+00:00
+
+ ## School of Physical Sciences
+ - [https://dps.ucsd.edu](https://dps.ucsd.edu)
+ - date_published: 2024-06-28T20:27:24+00:00
+
+ ## Page Redirection
+ - [http://d.ucsd.edu](http://d.ucsd.edu)
+ - date_published: 2016-01-11T23:27:05+00:00
+
+ ## ECE AMP
+ - [https://ece-amp.ucsd.edu](https://ece-amp.ucsd.edu)
+ - date_published: 2024-06-22T11:53:21.961492+00:00
+
+ ## Home | Electrical and Computer Engineering
+ - [https://ece.ucsd.edu](https://ece.ucsd.edu)
+ - date_published: 2024-05-07T21:01:11.880265+00:00
+
+ ## Education Community Outreach
+ - [https://ecoextension.ucsd.edu](https://ecoextension.ucsd.edu)
+ - date_published: 2024-06-21T16:16:44+00:00
+
+ ## EDUCATIONAL BENEFITS ONLINE FORM APPROVAL HOME
+ - [http://edben.ucsd.edu](http://edben.ucsd.edu)
+ - date_published: 2024-09-13T18:36:59.151947+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://eforms.ucsd.edu](https://eforms.ucsd.edu)
+ - date_published: 2024-09-13T18:37:45.372050+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://egrades.ucsd.edu](https://egrades.ucsd.edu)
+ - date_published: 2024-09-13T18:37:18.720489+00:00
+
+ ## EMERGE
+ - [https://emerge.ucsd.edu](https://emerge.ucsd.edu)
+ - date_published: 2024-09-02T13:05:16.502059+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://employeelink.ucsd.edu](https://employeelink.ucsd.edu)
+ - date_published: 2024-09-13T18:35:59.656361+00:00
+
+ ## Careers at UC San Diego
+ - [https://employment.ucsd.edu](https://employment.ucsd.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## EnCORE
+ - [https://encore.ucsd.edu](https://encore.ucsd.edu)
+ - date_published: 2024-07-02T01:35:14.104319+00:00
+
+ ## @eng.ucsd.edu Transition
+ - [https://eng2ucsd.eng.ucsd.edu](https://eng2ucsd.eng.ucsd.edu)
+ - date_published: 2024-07-02T01:39:43.297043+00:00
+
+ ## Website Offline
+ - [https://eng.ucsd.edu](https://eng.ucsd.edu)
+ - date_published: 2015-11-18T21:37:53+00:00
+
+ ## Academic Affairs
+ - [https://evc.ucsd.edu](https://evc.ucsd.edu)
+ - date_published: 2023-10-12T14:34:15+00:00
+
  ## UC San Diego Extended Studies | Cart
  - [https://extcart.ucsd.edu](https://extcart.ucsd.edu)
  - date_published: 2024-07-02T01:38:36.709076+00:00
@@ -3730,276 +4003,4 @@
  ## Home | University of Illinois Urbana-Champaign
  - [https://www.uiuc.edu](https://www.uiuc.edu)
  - date_published: 2024-05-08T09:32:00.383313+00:00
-
- ## Home | 4-H Youth Development
- - [http://4-h.ca.uky.edu](http://4-h.ca.uky.edu)
- - date_published: 2024-06-10T15:53:28+00:00
-
- ## College of Agriculture, Food and Environment Administrative Team | Office of the Dean
- - [https://administration.ca.uky.edu](https://administration.ca.uky.edu)
- - date_published: 2024-06-26T15:34:14+00:00
-
- ## Home | Admission
- - [https://admission.uky.edu](https://admission.uky.edu)
- - date_published: 2024-06-16T22:20:47.763854+00:00
-
- ## The Aggregate
- - [http://aggregate.ee.engr.uky.edu](http://aggregate.ee.engr.uky.edu)
- - date_published: 2023-10-25T19:01:38.933454+00:00
-
- ## Home | Office of Philanthropy and Alumni
- - [https://alumni.ca.uky.edu](https://alumni.ca.uky.edu)
- - date_published: 2024-05-07T21:23:13.535531+00:00
-
- ## Home | Agriculture and Natural Resources
- - [https://anr.ca.uky.edu](https://anr.ca.uky.edu)
- - date_published: 2024-05-21T17:03:11+00:00
-
- ## Home | Graduate School
- - [https://apply.gradschool.uky.edu](https://apply.gradschool.uky.edu)
- - date_published: 2024-10-14T23:30:49.947308+00:00
-
- ## Home | Admission
- - [https://apply.uky.edu](https://apply.uky.edu)
- - date_published: 2024-05-07T21:23:34.617902+00:00
-
- ## The College of Arts Sciences | University of Kentucky College of Arts & Sciences
- - [https://as.uky.edu](https://as.uky.edu)
- - date_published: 2024-05-07T21:23:30.795240+00:00
-
- ## University of Kentucky - Modern Campus Catalog™
- - [http://bulletin.uky.edu](http://bulletin.uky.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Office of Business Engagement | Office of Business Engagement
- - [https://businessengagement.uky.edu](https://businessengagement.uky.edu)
- - date_published: 2024-06-16T22:21:52.096709+00:00
-
- ## Events Calendar - University of Kentucky
- - [https://calendar.uky.edu](https://calendar.uky.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Graham Office of Career Management | Gatton College of Business and Economics
- - [https://careers.gatton.uky.edu](https://careers.gatton.uky.edu)
- - date_published: 2024-10-14T23:37:22.365605+00:00
-
- ## University of Kentucky - Modern Campus Catalog™
- - [http://catalogs.uky.edu](http://catalogs.uky.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Carolingian Canon Law Project
- - [http://ccl.rch.uky.edu](http://ccl.rch.uky.edu)
- - date_published: 2024-06-26T21:37:16.400451+00:00
-
- ## Home | UK Center for Clinical and Translation Science
- - [https://ccts.uky.edu](https://ccts.uky.edu)
- - date_published: 2024-05-09T05:52:34.813008+00:00
-
- ## About - UK CDAR
- - [https://cdar.uky.edu](https://cdar.uky.edu)
- - date_published: 2024-10-14T23:22:45.090735+00:00
-
- ## Content not found
- - [https://cdn.as.uky.edu](https://cdn.as.uky.edu)
- - date_published: 2013-04-16T15:22:02+00:00
-
- ## Home | CEDIK
- - [http://cedik.ca.uky.edu](http://cedik.ca.uky.edu)
- - date_published: 2024-07-01T14:27:24+00:00
-
- ## Home | College of Health Sciences
- - [https://chs.uky.edu](https://chs.uky.edu)
- - date_published: 2024-10-14T23:07:01.150281+00:00
-
- ## Home
- - [http://cis.uky.edu](http://cis.uky.edu)
- - date_published: 2024-07-02T03:08:11.673980+00:00
-
- ## Home
- - [https://ci.uky.edu](https://ci.uky.edu)
- - date_published: 2024-06-16T22:21:58.581394+00:00
-
- ## home | Coldstream Research Campus
- - [https://coldstream.uky.edu](https://coldstream.uky.edu)
- - date_published: 2024-06-16T22:21:37.173525+00:00
-
- ## Home | Commencement
- - [https://commencement.uky.edu](https://commencement.uky.edu)
- - date_published: 2024-06-16T22:20:59.328687+00:00
-
- ## Department of Communication
- - [https://comm.uky.edu](https://comm.uky.edu)
- - date_published: 2024-10-14T23:37:50.589907+00:00
-
- ## Home | College of Public Health
- - [https://cph.uky.edu](https://cph.uky.edu)
- - date_published: 2024-10-14T23:06:58.274179+00:00
-
- ## Computer Science
- - [https://cs.uky.edu](https://cs.uky.edu)
- - date_published: 2017-11-05T00:51:35+00:00
-
- ## Home | Diversity, Equity and Inclusion
- - [https://dei.uky.edu](https://dei.uky.edu)
- - date_published: 2024-06-16T22:22:02.221486+00:00
-
- ## The College of Dentistry |
- - [https://dentistry.uky.edu](https://dentistry.uky.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## University of Kentucky College of Design – 38°84° the power of place
- - [https://design.uky.edu](https://design.uky.edu)
- - date_published: 2024-06-16T22:21:31.798037+00:00
-
- ## Home | University of Kentucky College of Arts & Sciences
- - [https://di.as.uky.edu](https://di.as.uky.edu)
- - date_published: 2024-07-02T01:00:37+00:00
-
- ## Home | Extension Field Directory
- - [http://directory.ca.uky.edu](http://directory.ca.uky.edu)
- - date_published: 2024-06-30T23:17:11+00:00
-
- ## UK Directory - University of Kentucky
- - [https://directory.uky.edu](https://directory.uky.edu)
- - date_published: 2024-06-16T22:20:43.675455+00:00
-
- ## Home | Office of Diversity
- - [https://diversity.ca.uky.edu](https://diversity.ca.uky.edu)
- - date_published: 2024-05-23T16:44:16+00:00
-
- ## Home | Next Generation Scholars Dual Credit
- - [https://dualcredit.uky.edu](https://dualcredit.uky.edu)
- - date_published: 2024-10-14T23:29:43.174756+00:00
-
- ## Home | Economic Development Collaborative
- - [https://edc.uky.edu](https://edc.uky.edu)
- - date_published: 2024-10-14T23:37:11.013759+00:00
-
- ## Home | College of Education
- - [https://education.uky.edu](https://education.uky.edu)
- - date_published: 2024-06-16T22:21:08.578572+00:00
-
- ## EduceLab | A Digital Restoration Initiative
- - [https://educelab.engr.uky.edu](https://educelab.engr.uky.edu)
- - date_published: 2024-07-19T23:09:45.503290+00:00
-
- ## UK - Environmental Health And Safety
- - [https://ehs.uky.edu](https://ehs.uky.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## University of Kentucky College of Engineering
- - [https://engr.uky.edu](https://engr.uky.edu)
- - date_published: 2024-05-07T21:22:51.555065+00:00
-
- ## Home | Office of University Events
- - [https://events.uky.edu](https://events.uky.edu)
- - date_published: 2024-10-14T23:30:04.698643+00:00
-
- ## Home | EVPFA
- - [https://evpfa.uky.edu](https://evpfa.uky.edu)
- - date_published: 2024-10-14T23:32:33.416904+00:00
-
- ## ExploreUK - rare and unique research materials from UK Libraries.
- - [http://exploreuk.uky.edu](http://exploreuk.uky.edu)
- - date_published: 2024-06-16T22:22:00.711262+00:00
-
- ## Extension
- - [https://extension.ca.uky.edu](https://extension.ca.uky.edu)
- - date_published: 2024-05-07T21:23:28.424805+00:00
-
- ## Home | Parent and Family Association
- - [https://families.uky.edu](https://families.uky.edu)
- - date_published: 2024-06-16T22:20:45.623819+00:00
-
- ## The Individual, Relational, and Financial Therapy (I-RAFT) Clinic | Family Sciences
- - [http://familycenter.uky.edu](http://familycenter.uky.edu)
- - date_published: 2024-07-02T02:29:18+00:00
-
- ## Family & Consumer Sciences Extension
- - [https://fcs-hes.ca.uky.edu](https://fcs-hes.ca.uky.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Welcome | College of Fine Arts
- - [https://finearts.uky.edu](https://finearts.uky.edu)
- - date_published: 2024-06-12T18:36:40+00:00
-
- ## Home | Forestry and Natural Resources
- - [https://forestry.ca.uky.edu](https://forestry.ca.uky.edu)
- - date_published: 2024-07-01T14:55:08+00:00
-
- ## Home | Building the Future
- - [https://future.ca.uky.edu](https://future.ca.uky.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Gatton College of Business and Economics
- - [https://gatton.uky.edu](https://gatton.uky.edu)
- - date_published: 2024-06-16T19:13:23+00:00
-
- ## Student Organizations and Activities | Student Success
- - [http://getinvolved.uky.edu](http://getinvolved.uky.edu)
- - date_published: 2024-07-09T17:24:11.534727+00:00
-
- ## Home | Grain and Forage Center of Excellence
- - [https://gfce.ca.uky.edu](https://gfce.ca.uky.edu)
- - date_published: 2024-06-27T20:38:47+00:00
-
- ## Home | Gluck Equine Research Center
- - [http://gluck.ca.uky.edu](http://gluck.ca.uky.edu)
- - date_published: 2024-06-27T20:38:51+00:00
-
- ## Home | University of Kentucky
- - [https://go.uky.edu](https://go.uky.edu)
- - date_published: 2024-07-02T03:00:14+00:00
-
- ## Home | Graduate School
- - [https://gradschool.uky.edu](https://gradschool.uky.edu)
- - date_published: 2024-06-16T22:21:19.212685+00:00
-
- ## Human Environmental Sciences
- - [https://hes.ca.uky.edu](https://hes.ca.uky.edu)
- - date_published: 2024-05-07T21:23:08.927796+00:00
-
- ## Home | Lewis Honors College
- - [https://honors.uky.edu](https://honors.uky.edu)
- - date_published: 2024-10-14T23:06:54.880842+00:00
-
- ## UK Human Resources | Human Resources
- - [https://hr.uky.edu](https://hr.uky.edu)
- - date_published: 2024-10-14T23:23:57.178727+00:00
-
- ## Home | Office of Institutional Equity and Equal Opportunity
- - [https://ieeo.uky.edu](https://ieeo.uky.edu)
- - date_published: 2024-05-09T05:52:36.470700+00:00
-
- ## Home | International Center
- - [https://international.uky.edu](https://international.uky.edu)
- - date_published: 2024-06-16T22:20:54.583092+00:00
-
- ## Home | Information Technology Services
- - [https://its.uky.edu](https://its.uky.edu)
- - date_published: 2024-10-14T23:23:54.509148+00:00
-
- ## Diagnostic Technician | Job Opportunities
- - [http://jobs.ca.uky.edu](http://jobs.ca.uky.edu)
- - date_published: 2024-07-01T21:16:08+00:00
-
- ## Homepage | University of Kentucky - Philanthropy
- - [https://kentuckycan.uky.edu](https://kentuckycan.uky.edu)
- - date_published: 2024-05-07T21:22:25.620006+00:00
-
- ## Kers
- - [https://kers.ca.uky.edu](https://kers.ca.uky.edu)
- - date_published: 2024-06-28T19:56:24+00:00
-
- ## Home | Kentucky Tobacco Research & Development Center
- - [http://ktrdc.ca.uky.edu](http://ktrdc.ca.uky.edu)
- - date_published: 2024-06-27T20:33:36+00:00
-
- ## Nutrition Education Program
- - [https://kynep.ca.uky.edu](https://kynep.ca.uky.edu)
- - date_published: 2024-05-07T21:23:03.663553+00:00
-
- ## Home | J. David Rosenberg College of Law
- - [https://law.uky.edu](https://law.uky.edu)
- - date_published: 2024-06-11T00:00:00+00:00
 
