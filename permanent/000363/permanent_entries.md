@@ -1,3 +1,260 @@
+ ## CSIRT Gadgets, LLC
+ - [http://csirtgadgets.org](http://csirtgadgets.org)
+ - date_published: 2024-07-14T21:18:33.065788+00:00
+
+ ## Home - Aerospace Security
+ - [https://aerospace.csis.org](https://aerospace.csis.org)
+ - date_published: 2024-08-18T19:56:45.316344+00:00
+
+ ## Home | Asia Maritime Transparency Initiative
+ - [https://amti.csis.org](https://amti.csis.org)
+ - date_published: 2024-08-18T19:56:47.171546+00:00
+
+ ## Arctic Military Activity Tracker | CSIS Europe, Russia, Eurasia Program
+ - [https://arcticmilitarytracker.csis.org](https://arcticmilitarytracker.csis.org)
+ - date_published: 2024-08-18T19:56:43.352178+00:00
+
+ ## https://beyondparallel.csis.org
+ - [https://beyondparallel.csis.org](https://beyondparallel.csis.org)
+ - date_published: 2023-10-25T21:11:34.001427+00:00
+
+ ## Home - Big Data China
+ - [https://bigdatachina.csis.org](https://bigdatachina.csis.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## ChinaPower Project
+ - [https://chinapower.csis.org](https://chinapower.csis.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## CSIS | Center for Strategic and International Studies
+ - [https://csis.org](https://csis.org)
+ - date_published: 2023-10-25T21:11:40.174391+00:00
+
+ ## Engaging Indian States
+ - [https://indianstates.csis.org](https://indianstates.csis.org)
+ - date_published: 2024-08-18T19:56:36.102553+00:00
+
+ ## Missile Threat
+ - [https://missilethreat.csis.org](https://missilethreat.csis.org)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## CSISAC | We stand for solidarity in the digital age
+ - [http://www.csisac.org](http://www.csisac.org)
+ - date_published: 2024-06-28T21:51:27.501122+00:00
+
+ ## Cultural and Secular Jewish Organization
+ - [http://www.csjo.org](http://www.csjo.org)
+ - date_published: 2024-10-21T18:00:00.520821+00:00
+
+ ## Living the Legacy of C.S. Lewis - C.S. Lewis Foundation
+ - [https://cdn.cslewis.org](https://cdn.cslewis.org)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Living the Legacy of C.S. Lewis - C.S. Lewis Foundation
+ - [https://cslewis.org](https://cslewis.org)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## - C.S. Lewis College
+ - [https://www.cslewiscollege.org](https://www.cslewiscollege.org)
+ - date_published: 2024-03-14T03:29:37+00:00
+
+ ## Collaborative Summer Library Program
+ - [https://www.cslpreads.org](https://www.cslpreads.org)
+ - date_published: 2024-06-26T23:53:24+00:00
+
+ ## NYU's Center for Social Media and Politics
+ - [https://csmapnyu.org](https://csmapnyu.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## CSM Scheduler
+ - [https://scheduler.csmentors.org](https://scheduler.csmentors.org)
+ - date_published: 2024-07-02T17:50:32.790475+00:00
+
+ ## The Center for the Study of New Testament Manuscripts
+ - [http://www.csntm.org](http://www.csntm.org)
+ - date_published: 2024-07-02T10:12:52.797280+00:00
+
+ ## Chicago Symphony Orchestra
+ - [https://cso.org](https://cso.org)
+ - date_published: 2024-09-27T07:48:20.423740+00:00
+
+ ## Advancing Systemic Change
+ - [https://csoforffd.org](https://csoforffd.org)
+ - date_published: 2024-03-04T15:01:56+00:00
+
+ ## C-SPAN.org | National Politics | History | Nonfiction Books
+ - [https://c-span.org](https://c-span.org)
+ - date_published: 2023-11-14T19:59:38.588118+00:00
+
+ ## C-SPAN.org | National Politics | History | Nonfiction Books
+ - [https://donate.c-span.org](https://donate.c-span.org)
+ - date_published: 2024-08-18T13:31:35.756523+00:00
+
+ ## C-SPAN Shop
+ - [https://c-spanshop.org](https://c-spanshop.org)
+ - date_published: 2024-08-18T13:31:49.578998+00:00
+
+ ## C-SPAN.org | National Politics | History | Nonfiction Books
+ - [http://www.c-spanvideo.org](http://www.c-spanvideo.org)
+ - date_published: 2024-06-27T08:10:25.827427+00:00
+
+ ## Online Actions
+ - [https://act.cspinet.org](https://act.cspinet.org)
+ - date_published: 2024-05-09T05:08:09.533592+00:00
+
+ ## Center for Science in the Public Interest
+ - [https://cspinet.org](https://cspinet.org)
+ - date_published: 2024-03-04T19:41:04.092757+00:00
+
+ ## CDS Global : w1.buysub.com
+ - [https://myaccount.cspinet.org](https://myaccount.cspinet.org)
+ - date_published: 2024-07-09T12:57:03.873754+00:00
+
+ ## CT State Police | CSP News | United States
+ - [https://cspnews.org](https://cspnews.org)
+ - date_published: 2023-11-08T06:18:08.421428+00:00
+
+ ## Home - CSPO
+ - [http://cspo.org](http://cspo.org)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Constitutional Sheriffs and Peace Officers Association
+ - [https://cspoa.org](https://cspoa.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## CSRankings: Computer Science Rankings
+ - [https://csrankings.org](https://csrankings.org)
+ - date_published: 2024-04-28T03:29:02.786019+00:00
+ - tags: ['ranking page']
+
+ ## PostCSS Preset Env - CSSTools
+ - [https://preset-env.cssdb.org](https://preset-env.cssdb.org)
+ - date_published: 2024-06-23T06:03:36.846059+00:00
+
+ ## Home
+ - [https://css-houdini.org](https://css-houdini.org)
+ - date_published: 2024-06-23T05:58:13.527829+00:00
+
+ ## CSS-TAG Houdini Editor Drafts
+ - [https://drafts.css-houdini.org](https://drafts.css-houdini.org)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## W3C CSS-TAG Houdini Task Force Mercurial Server
+ - [https://hg.css-houdini.org](https://hg.css-houdini.org)
+ - date_published: 2015-06-15T18:44:15+00:00
+
+ ## Home
+ - [https://wiki.css-houdini.org](https://wiki.css-houdini.org)
+ - date_published: 2024-08-18T17:58:40.871208+00:00
+
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://cs-sop.org](https://cs-sop.org)
+ - date_published: 2024-07-13T02:02:55+00:00
+
+ ## Princeton CS Status
+ - [https://www.csstaff.org](https://www.csstaff.org)
+ - date_published: 2024-07-01T17:16:05.993529+00:00
+
+ ## Resume Builder
+ - [https://cssteap.org](https://cssteap.org)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## CSStipendRankings: CS PhD Stipend Rankings
+ - [https://csstipendrankings.org](https://csstipendrankings.org)
+ - date_published: 2024-07-26T05:22:04+00:00
+
+ ## CssUserAgent (cssua.js)
+ - [https://cssuseragent.org](https://cssuseragent.org)
+ - date_published: 2015-10-01T05:11:38+00:00
+
+ ## CSS Working Group Editor Drafts
+ - [https://drafts.csswg.org](https://drafts.csswg.org)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://social.csswg.org](https://social.csswg.org)
+ - date_published: 2024-07-18T05:35:34.811599+00:00
+
+ ## CSS Working Group Wiki    [CSS Working Group Wiki]
+ - [https://wiki.csswg.org](https://wiki.csswg.org)
+ - date_published: 2023-11-21T15:09:54.779186+00:00
+
+ ## Computer Science Teachers Association Connect, Grow, & Share With CS Teachers-
+ - [https://www.csteachers.org](https://www.csteachers.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Computer Science Teaching Tips | Computer Science Teaching Tips
+ - [https://csteachingtips.org](https://csteachingtips.org)
+ - date_published: 2024-05-07T14:57:02.410913+00:00
+
+ ## Theoretical Computer Science Jobs
+ - [https://cstheory-jobs.org](https://cstheory-jobs.org)
+ - date_published: 2024-06-30T10:00:04+00:00
+
+ ## CSU-AAUP | Faculty Union for the CT Universities
+ - [https://www.csuaaup.org](https://www.csuaaup.org)
+ - date_published: 2024-07-15T11:31:43.274860+00:00
+
+ ## Center for Public History + Digital Humanities at Cleveland State University
+ - [https://csudigitalhumanities.org](https://csudigitalhumanities.org)
+ - date_published: 2024-08-10T23:59:37.812163+00:00
+
+ ## CSU Spur | Now open!
+ - [https://csuspur.org](https://csuspur.org)
+ - date_published: 2024-08-11T10:42:33.978894+00:00
+
+ ## CSU STRATA
+ - [https://csustrata.org](https://csustrata.org)
+ - date_published: 2024-07-22T06:09:14.100835+00:00
+
+ ## Council on Social Work Education
+ - [https://www.cswe.org](https://www.cswe.org)
+ - date_published: 2024-10-14T23:35:28.205418+00:00
+
+ ## Home
+ - [https://www.cta.org](https://www.cta.org)
+ - date_published: 2024-07-09T16:47:03.820266+00:00
+
+ ## ctamission.com
+ - [http://www.ctamission.org](http://www.ctamission.org)
+ - date_published: 2024-07-08T12:19:56.781027+00:00
+
+ ## CTAN: Comprehensive TeX Archive Network
+ - [https://ctan.org](https://ctan.org)
+ - date_published: 2023-10-25T21:11:42.198733+00:00
+
+ ## The CTAN archive
+ - [http://tug.ctan.org](http://tug.ctan.org)
+ - date_published: 2024-07-10T10:08:56.455689+00:00
+
+ ## CTBA’s Budget Blog
+ - [https://budgetblog.ctbaonline.org](https://budgetblog.ctbaonline.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Homepage | CTBTO
+ - [https://www.ctbto.org](https://www.ctbto.org)
+ - date_published: 2024-07-12T08:40:07.242865+00:00
+
+ ## Regional Chapters
+ - [https://global.ctbuh.org](https://global.ctbuh.org)
+ - date_published: 2024-01-24T20:55:23.515561+00:00
+
+ ## The Connecticut Academy of Science and Engineering
+ - [https://ctcase.org](https://ctcase.org)
+ - date_published: 2024-10-19T04:02:09.518887+00:00
+
+ ## The Counter Trafficking Data Collaborative | CTDC
+ - [https://www.ctdatacollaborative.org](https://www.ctdatacollaborative.org)
+ - date_published: 2024-07-29T14:00:46+00:00
+
+ ## Center for Transformative Environmental Monitoring Programs
+ - [https://ctemps.org](https://ctemps.org)
+ - date_published: 2024-07-09T08:21:59+00:00
+
+ ## Tools : API - Chinese Text Project
+ - [https://api.ctext.org](https://api.ctext.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## Chinese Text Project
  - [https://ctext.org](https://ctext.org)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -3786,260 +4043,4 @@
  ## Global Homepage | Digicel Foundation
  - [https://www.digicelfoundation.org](https://www.digicelfoundation.org)
  - date_published: 2024-07-09T13:48:54.998680+00:00
-
- ## The Digital Constitutionalist — The Future of Constitutionalism
- - [https://digi-con.org](https://digi-con.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## digiKam
- - [https://digikam.org](https://digikam.org)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## 電子書庫 – Digital Library (Japanese|Chinese)
- - [https://digilib.org](https://digilib.org)
- - date_published: 2024-07-10T09:22:33.607279+00:00
-
- ## Welcome to digip.org
- - [https://digip.org](https://digip.org)
- - date_published: 2021-11-22T14:34:19+00:00
-
- ## Center for Digital Resilience
- - [https://digiresilience.org](https://digiresilience.org)
- - date_published: 2024-04-28T01:54:38.476721+00:00
-
- ## CDR: Docs
- - [https://docs.digiresilience.org](https://docs.digiresilience.org)
- - date_published: 2024-07-22T10:10:47+00:00
-
- ## Digistan
- - [http://www.digistan.org](http://www.digistan.org)
- - date_published: 2023-12-25T00:00:00+00:00
-
- ## Home | Digital Accessibility Centre
- - [https://digitalaccessibilitycentre.org](https://digitalaccessibilitycentre.org)
- - date_published: 2024-04-15T10:25:13+00:00
-
- ## DigitalAdvertisingAlliance.org
- - [https://digitaladvertisingalliance.org](https://digitaladvertisingalliance.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Digital Around the World
- - [https://digitalaroundtheworld.org](https://digitalaroundtheworld.org)
- - date_published: 2024-07-07T01:27:18.127608+00:00
-
- ## Digital Atlas of Ancient Life Homepage
- - [https://www.digitalatlasofancientlife.org](https://www.digitalatlasofancientlife.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Higher Education Digital Capability Framework
- - [https://www.digitalcapability.org](https://www.digitalcapability.org)
- - date_published: 2024-08-19T09:21:12.940202+00:00
-
- ## Digital Cavendish Project
- - [http://www.digitalcavendish.org](http://www.digitalcavendish.org)
- - date_published: 2024-10-29T18:14:38.746803+00:00
-
- ## Promoting Digital Assets and Blockchain Innovation | The Digital Chamber
- - [https://digitalchamber.org](https://digitalchamber.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Digital Commonwealth
- - [https://digitalcommonwealth.org](https://digitalcommonwealth.org)
- - date_published: 2024-10-29T16:08:18.631083+00:00
-
- ## Cantaloupe Image Server
- - [https://iiif.digitalcommonwealth.org](https://iiif.digitalcommonwealth.org)
- - date_published: 2024-07-17T12:40:39.411794+00:00
-
- ## Home
- - [https://digitalcontentnext.org](https://digitalcontentnext.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Digital Corpora – Sponsored by the AWS Open Data Sponsorship Program
- - [https://digitalcorpora.org](https://digitalcorpora.org)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Digital Democracy
- - [https://digital-democracy.org](https://digital-democracy.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## DigitaleBildung - DigitaleBildung
- - [https://digitale-bildung.org](https://digitale-bildung.org)
- - date_published: 2024-05-09T08:25:41.170324+00:00
-
- ## Association to support the demoscene
- - [https://digitalekultur.org](https://digitalekultur.org)
- - date_published: 2024-05-11T05:41:28.908323+00:00
-
- ## Digital Emissions
- - [https://www.digitalemissions.org](https://www.digitalemissions.org)
- - date_published: 2024-07-22T18:49:50.235747+00:00
-
- ## DIGITALEUROPE – The voice of digitally transforming industries in Europe
- - [https://digitaleurope.org](https://digitaleurope.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Manifesto 2030 - Digital Europe
- - [https://manifesto2030.digitaleurope.org](https://manifesto2030.digitaleurope.org)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Start — Digitale Welten
- - [https://www.digitale-welten.org](https://www.digitale-welten.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Digital Folklore Reader
- - [https://digitalfolklore.org](https://digitalfolklore.org)
- - date_published: 2020-11-07T14:04:09+00:00
-
- ## Home - Digital Freedom Foundation
- - [https://digitalfreedoms.org](https://digitalfreedoms.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Digital Grassroots – Increase digital citizenship in local communities
- - [https://digitalgrassroots.org](https://digitalgrassroots.org)
- - date_published: 2024-07-08T00:40:24+00:00
-
- ## CONTENTdm
- - [http://digitalhorizonsonline.org](http://digitalhorizonsonline.org)
- - date_published: 2024-07-01T16:01:23.974133+00:00
-
- ## The Digital Humanism Project
- - [http://digitalhumanism.org](http://digitalhumanism.org)
- - date_published: 2024-08-18T22:52:51.573222+00:00
-
- ## Alliance of Digital Humanities Organizations – A Global Coalition of Digital Humanities Organizations
- - [http://www.digitalhumanities.org](http://www.digitalhumanities.org)
- - date_published: 2024-06-22T08:43:35.484301+00:00
-
- ## Digital Humanities Now
- - [http://digitalhumanitiesnow.org](http://digitalhumanitiesnow.org)
- - date_published: 2024-07-09T14:38:34.821650+00:00
-
- ## The Lounge
- - [https://webchat.digitalirc.org](https://webchat.digitalirc.org)
- - date_published: 2024-09-04T19:34:33.241619+00:00
-
- ## UCI DLL
- - [https://www.digitallearninglab.org](https://www.digitallearninglab.org)
- - date_published: 2023-02-17T00:00:00+00:00
-
- ## Home - Reclaiming Digital Futures
- - [https://digitallearningpractices.org](https://digitallearningpractices.org)
- - date_published: 2019-03-12T00:00:00+00:00
-
- ## eSmart Digital Licence+
- - [https://digitallicenceplus.org](https://digitallicenceplus.org)
- - date_published: 2024-07-13T18:44:42.038160+00:00
-
- ## SABI4D : Situs Judi Slot Online Garansi Maxwin Dengan Bonus Besar Terbaru 2023
- - [http://www.digitalmajority.org](http://www.digitalmajority.org)
- - date_published: 2023-11-21T10:12:21+00:00
-
- ## Digital Media Licensing Association (DMLA)
- - [http://www.digitalmedialicensing.org](http://www.digitalmedialicensing.org)
- - date_published: 2024-10-21T19:41:42.903270+00:00
-
- ## Digital Nepal | Janakpur
- - [https://digitalnepal.org](https://digitalnepal.org)
- - date_published: 2020-08-08T18:14:26+00:00
-
- ## Utah Digital Newspapers - Home
- - [https://digitalnewspapers.org](https://digitalnewspapers.org)
- - date_published: 2024-08-18T21:41:34.253024+00:00
-
- ## Reuters Institute Digital News Report
- - [https://www.digitalnewsreport.org](https://www.digitalnewsreport.org)
- - date_published: 2024-07-04T05:32:36+00:00
-
- ## digitalnpq.org
- - [http://www.digitalnpq.org](http://www.digitalnpq.org)
- - date_published: 2024-07-01T14:43:32.697646+00:00
-
- ## Digital Platform Observatory - Establishing workers representation and social dialogue in the platform and app economy
- - [https://digitalplatformobservatory.org](https://digitalplatformobservatory.org)
- - date_published: 2024-07-03T02:01:20.699846+00:00
-
- ## Fundacja Digital Poland
- - [https://digitalpoland.org](https://digitalpoland.org)
- - date_published: 2024-09-02T16:10:42+00:00
-
- ## Digital Rights Nepal
- - [https://digitalrightsnepal.org](https://digitalrightsnepal.org)
- - date_published: 2024-01-15T01:10:11+00:00
-
- ## Digital Scholar
- - [https://digitalscholar.org](https://digitalscholar.org)
- - date_published: 2023-12-15T09:58:29+00:00
-
- ## Digital Scholarship
- - [http://digital-scholarship.org](http://digital-scholarship.org)
- - date_published: 2024-06-02T03:43:44+00:00
-
- ## DSX
- - [https://digitalsecurityexchange.org](https://digitalsecurityexchange.org)
- - date_published: 2021-02-18T04:31:32+00:00
-
- ## San Francisco Public Library | DigitalSF
- - [https://digitalsf.org](https://digitalsf.org)
- - date_published: 2024-05-09T05:37:29.714588+00:00
-
- ## The Digital Shelf Institute | DSI
- - [https://www.digitalshelfinstitute.org](https://www.digitalshelfinstitute.org)
- - date_published: 2024-09-12T03:34:03+00:00
-
- ## Digitaltechnik
- - [http://www.digitaltechnik.org](http://www.digitaltechnik.org)
- - date_published: 2009-05-19T14:37:44+00:00
-
- ## Home - Digital Twin Consortium
- - [https://digitaltwinconsortium.org](https://digitaltwinconsortium.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Login | Digital Twin Consortium
- - [https://engage.digitaltwinconsortium.org](https://engage.digitaltwinconsortium.org)
- - date_published: 2024-09-20T10:13:07.490178+00:00
-
- ## Roland Dreier
- - [http://digitalvampire.org](http://digitalvampire.org)
- - date_published: 2015-05-19T21:17:53+00:00
-
- ## Home
- - [https://www.digitalwomanuganda.org](https://www.digitalwomanuganda.org)
- - date_published: 2024-06-22T09:04:09+00:00
-
- ## Digitopoly
- - [https://digitopoly.org](https://digitopoly.org)
- - date_published: 2024-03-08T07:39:42.709408+00:00
-
- ## Digital Library Federation - DLF
- - [https://www.diglib.org](https://www.diglib.org)
- - date_published: 2024-10-16T05:34:02.839671+00:00
-
- ## Partners for Dignity & Rights – formerly National Economic and Social Rights Initiative
- - [https://dignityandrights.org](https://dignityandrights.org)
- - date_published: 2024-07-30T04:20:53.288922+00:00
-
- ## Digo Bikas Institute
- - [https://digobikas.org](https://digobikas.org)
- - date_published: 2024-10-15T19:00:34.523068+00:00
-
- ## Home - Digital Games Research Association (DiGRA)
- - [http://www.digra.org](http://www.digra.org)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Dillan Mills - Computer engineer, web designer, and cat person.
- - [https://dillan.org](https://dillan.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Homepage - Dillo
- - [https://dillo.org](https://dillo.org)
- - date_published: 2022-08-20T00:00:00+00:00
-
- ## DimensionLab
- - [https://dimensionlab.org](https://dimensionlab.org)
- - date_published: 2024-06-28T10:55:45.758136+00:00
-
- ## HOME - Dimitri Lascaris: Activist Journalist Lawyer
- - [https://dimitrilascaris.org](https://dimitrilascaris.org)
- - date_published: 2020-11-20T00:00:00+00:00
 

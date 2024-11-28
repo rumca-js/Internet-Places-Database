@@ -1,3 +1,79 @@
+ ## LaunchDarkly
+ - [https://support.launchdarkly.com](https://support.launchdarkly.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## LaunchGood, the world's largest crowdfunding platform for Muslims
+ - [https://launchgood.com](https://launchgood.com)
+ - date_published: 2024-05-09T08:44:29.639371+00:00
+
+ ## Support
+ - [https://support.launchgood.com](https://support.launchgood.com)
+ - date_published: 2024-07-11T10:38:32.005657+00:00
+
+ ## Launch House - A venture fund by founders, for founders
+ - [https://www.launchhouse.com](https://www.launchhouse.com)
+ - date_published: 2023-08-11T14:50:14+00:00
+
+ ## Launching Buddy | Twitter DM Tool for Product Hunt
+ - [https://launchingbuddy.com](https://launchingbuddy.com)
+ - date_published: 2024-09-25T13:08:40.820243+00:00
+
+ ## Introduction - Launch Leopard
+ - [https://docs.launchleopard.com](https://docs.launchleopard.com)
+ - date_published: 2023-11-14T15:18:54.247417+00:00
+
+ ## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
+ - [https://launchleopard.com](https://launchleopard.com)
+ - date_published: 2023-11-14T13:33:49+00:00
+
+ ## Launch Marketing
+ - [https://www.launch-marketing.com](https://www.launch-marketing.com)
+ - date_published: 2024-06-25T23:08:12.423805+00:00
+
+ ## PostHog
+ - [https://a.launchnotes.com](https://a.launchnotes.com)
+ - date_published: 2023-07-07T00:00:00+00:00
+
+ ## LaunchNotes
+ - [https://app.launchnotes.com](https://app.launchnotes.com)
+ - date_published: 2024-06-13T21:41:38+00:00
+
+ ## LaunchNotes Help Center
+ - [https://help.launchnotes.com](https://help.launchnotes.com)
+ - date_published: 2024-10-14T16:51:44.675660+00:00
+
+ ## Sign in
+ - [https://login.launchnotes.com](https://login.launchnotes.com)
+ - date_published: 2024-10-14T16:50:32.086823+00:00
+
+ ## Product Updates | LaunchNotes
+ - [https://updates.launchnotes.com](https://updates.launchnotes.com)
+ - date_published: 2024-10-14T16:51:42.145798+00:00
+
+ ## Product Communication for the Modern Enterprise | LaunchNotes
+ - [https://www.launchnotes.com](https://www.launchnotes.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## LaunchpadOne | Powerful Platform Tools to Host, Distribute and Grow Your Podcast
+ - [https://www.launchpadone.com](https://www.launchpadone.com)
+ - date_published: 2024-06-16T23:54:58.367568+00:00
+
+ ## LaunchPass | Launch A Paid Chat Community on Discord or Slack
+ - [https://launchpass.com](https://launchpass.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Home - LaunchPie
+ - [https://launchpie.com](https://launchpie.com)
+ - date_published: 2024-04-29T07:31:32.918697+00:00
+
+ ## Launch Platform LLC
+ - [https://launchplatform.com](https://launchplatform.com)
+ - date_published: 2024-05-02T15:01:49.485590+00:00
+
+ ## Building Git
+ - [http://building-git.launchrock.com](http://building-git.launchrock.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
  ## Launderette - Austin, TX
  - [https://launderetteaustin.com](https://launderetteaustin.com)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -3958,82 +4034,4 @@ LearnWorlds
  ## Lemmy NSFW - NSFW (18+) only instance for Lemmy
  - [https://lemmynsfw.com](https://lemmynsfw.com)
  - date_published: 2024-07-08T00:00:00+00:00
-
- ## Jobs at Lemniscap Companies | Lemniscap
- - [https://careers.lemniscap.com](https://careers.lemniscap.com)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Lemniscap
- - [https://lemniscap.com](https://lemniscap.com)
- - date_published: 2024-05-09T13:25:50+00:00
-
- ## Lemon64 - Commodore 64 Games - C64 Reviews & Music
- - [https://lemon64.com](https://lemon64.com)
- - date_published: 2023-10-27T14:47:48.864514+00:00
- - tags: ['retro games', 'commodore']
-
- ## Lemon8 - Fresh discoveries every day
- - [https://www.lemon8-app.com](https://www.lemon8-app.com)
- - date_published: 2024-07-02T20:05:28.956407+00:00
-
- ## Lemonada Media | Humanity. Unfiltered.
- - [https://lemonadamedia.com](https://lemonadamedia.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Lemon Amiga - Games, Download, Emulator, Cheats & Forum
- - [https://lemonamiga.com](https://lemonamiga.com)
- - date_published: 2024-01-31T00:00:00+00:00
- - tags: ['game roms', 'emulation', 'amiga']
-
- ## Buy Fresh Hydroponic Vegetables Online | Lemon Chillii
- - [https://lemonchillii.com](https://lemonchillii.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## LEMON DEMON music by Lemon Demon
- - [http://www.lemondemon.com](http://www.lemondemon.com)
- - date_published: 2018-07-12T22:11:00+00:00
-
- ## Lemon: Digital Design - Web Design and Graphic Design in Sevilla, Spain
- - [https://lemon-digital.com](https://lemon-digital.com)
- - date_published: 2020-10-23T18:15:32+00:00
-
- ## Login | Lemon Learning
- - [https://admin.lemonlearning.com](https://admin.lemonlearning.com)
- - date_published: 2024-06-19T08:43:47.203293+00:00
-
- ## Install Lemon Learning
- - [https://editor.lemonlearning.com](https://editor.lemonlearning.com)
- - date_published: 2020-02-24T14:06:00+00:00
-
- ## Install Lemon Learning
- - [https://player.lemonlearning.com](https://player.lemonlearning.com)
- - date_published: 2020-02-24T14:06:00+00:00
-
- ## Página de mantenimiento - Lemon Lila Digital
- - [https://lemonlila.com](https://lemonlila.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Lemonnade Denver
- - [https://lemonnadedenver.com](https://lemonnadedenver.com)
- - date_published: 2017-09-19T15:33:36+00:00
-
- ## Lemonodor - a mostly lisp weblog
- - [http://lemonodor.com](http://lemonodor.com)
- - date_published: 2013-10-21T19:47:46+00:00
-
- ## Simple Recipes For Your Busy Life
- - [https://lemonsandzest.com](https://lemonsandzest.com)
- - date_published: 2020-10-21T16:39:26+00:00
-
- ## LemonSpawn – Turbo Rascal Syntax Error
- - [https://lemonspawn.com](https://lemonspawn.com)
- - date_published: 2023-10-25T15:44:46.519531+00:00
-
- ## AltumCode
- - [https://altumcode.lemonsqueezy.com](https://altumcode.lemonsqueezy.com)
- - date_published: 2024-07-10T05:48:10.357266+00:00
-
- ## AKD
- - [https://andrewkdinh.lemonsqueezy.com](https://andrewkdinh.lemonsqueezy.com)
- - date_published: 2024-07-02T20:05:30.337524+00:00
 

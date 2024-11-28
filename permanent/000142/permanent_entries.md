@@ -1,3 +1,84 @@
+ ## Majorityrights.com: A site for the discussion of issues affecting western societies.
+ - [http://majorityrights.com](http://majorityrights.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## 映画前売券のことならメイジャー｜映画前売券情報
+ - [https://www.major-j.com](https://www.major-j.com)
+ - date_published: 2024-09-26T12:23:58.662108+00:00
+
+ ## Xbox Wire
+ - [https://majornelson.com](https://majornelson.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.mak.com](https://www.mak.com)
+ - date_published: 2024-07-09T14:48:01+00:00
+
+ ## Property in India | Indian Real Estate | Property Website
+ - [https://makaan.com](https://makaan.com)
+ - date_published: 2018-08-17T09:54:44+00:00
+
+ ## Makalu
+ - [https://makaluinc.com](https://makaluinc.com)
+ - date_published: 2024-05-06T06:37:01.065948+00:00
+
+ ## Simple Analytics
+ - [https://sa.makaluinc.com](https://sa.makaluinc.com)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## makandra: Your partner for successful digital projects
+ - [https://makandra.com](https://makandra.com)
+ - date_published: 2024-04-29T06:55:55.860393+00:00
+
+ ## makandra cards
+ - [https://makandracards.com](https://makandracards.com)
+ - date_published: 2024-04-29T06:55:51.044491+00:00
+
+ ## Home - Makansutra
+ - [https://makansutra.com](https://makansutra.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## A blog by @makaroni4
+ - [https://makaroni4.com](https://makaroni4.com)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## NASLOVNICA + Promo
+ - [https://makarska-danas.com](https://makarska-danas.com)
+ - date_published: 2024-09-24T22:11:28+00:00
+
+ ## Makaya McCraven | Beat Scientist, Drummer and Producer
+ - [https://www.makayamccraven.com](https://www.makayamccraven.com)
+ - date_published: 2024-07-15T06:07:18.480677+00:00
+
+ ## MakeAGif - Create Animated Gifs the Fun and Easy Way
+ - [https://makeagif.com](https://makeagif.com)
+ - date_published: 2024-10-30T11:42:41.826585+00:00
+
+ ## Make Amazon Pay for garment worker safety
+ - [https://makeamazonpay.com](https://makeamazonpay.com)
+ - date_published: 2024-04-29T05:15:11.918211+00:00
+
+ ## Make America Walkable Again
+ - [https://makeamericawalkable.com](https://makeamericawalkable.com)
+ - date_published: 2023-10-25T15:54:41.558574+00:00
+
+ ## Make App Pie
+ - [https://makeapppie.com](https://makeapppie.com)
+ - date_published: 2024-06-23T15:00:21.376125+00:00
+
+ ## Make a Pull Request
+ - [http://makeapullrequest.com](http://makeapullrequest.com)
+ - date_published: 2024-09-09T16:21:44.536256+00:00
+
+ ## Make a README
+ - [https://www.makeareadme.com](https://www.makeareadme.com)
+ - date_published: 2024-07-18T06:53:52.634301+00:00
+
+ ## Make Art with Python
+ - [https://makeartwithpython.com](https://makeartwithpython.com)
+ - date_published: 2023-10-25T15:54:43.070926+00:00
+ - tags: ['programming', 'python']
+
  ## MakeAShop - The fast and easy way to build an on-line antique or collectible shop
  - [http://www.makeashop.com](http://www.makeashop.com)
  - date_published: 2024-06-21T15:05:03.628545+00:00
@@ -3965,85 +4046,4 @@
  ## Bay Area Executive Leadership Coaching
  - [https://mariposaleadership.com](https://mariposaleadership.com)
  - date_published: 2024-07-24T02:15:03.669955+00:00
-
- ## Maripoza Boutique - Where Fashion Trends Start in the RGV
- - [https://maripozaboutique.com](https://maripozaboutique.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Design and Nature ·
-      Marisa Morby
- - [https://marisamorby.com](https://marisamorby.com)
- - date_published: 2023-10-25T15:56:31.595617+00:00
-
- ## Marisa Yeaman
- - [http://www.marisayeaman.com](http://www.marisayeaman.com)
- - date_published: 2024-10-21T04:07:24.172412+00:00
-
- ## Articles
- - [https://www.marisibrothers.com](https://www.marisibrothers.com)
- - date_published: 2020-06-05T00:00:00+00:00
-
- ## Marissa Baklayan
- - [https://marissabaklayan.com](https://marissabaklayan.com)
- - date_published: 2024-10-29T14:24:26.642629+00:00
-
- ## Marissa Lingen
- - [https://marissalingen.com](https://marissalingen.com)
- - date_published: 2024-05-08T11:29:31.274706+00:00
-
- ## Maritime Data Systems | DIGITAL SOLUTIONS FOR THE MARITIME INDUSTRY
- - [https://www.maritimedatasystems.com](https://www.maritimedatasystems.com)
- - date_published: 2024-07-20T13:56:52.724668+00:00
-
- ## Maritime Jobs - The Maritime Executive
- - [https://jobs.maritime-executive.com](https://jobs.maritime-executive.com)
- - date_published: 2024-05-04T14:28:00.386179+00:00
-
- ## The Maritime Executive: Maritime News | Marine News
- - [https://maritime-executive.com](https://maritime-executive.com)
- - date_published: 2023-10-25T10:24:16.935111+00:00
-
- ## Maritime Executive Media Kit
- - [https://mediakit.maritime-executive.com](https://mediakit.maritime-executive.com)
- - date_published: 2024-05-04T14:27:56.212105+00:00
-
- ## Maritime index maritime services import and export
- - [https://maritime-index.com](https://maritime-index.com)
- - date_published: 2020-12-07T00:00:00+00:00
-
- ## Maritime Robotics
- - [http://www.maritimerobotics.com](http://www.maritimerobotics.com)
- - date_published: 2024-08-05T00:00:30+00:00
-
- ## - Maritime Women Speakers
- - [https://maritimespeakers.com](https://maritimespeakers.com)
- - date_published: 2022-08-18T15:10:17+00:00
-
- ## MariTrace | Ship Tracking | United Kingdom
- - [https://maritrace.com](https://maritrace.com)
- - date_published: 2024-06-29T16:40:27.534933+00:00
-
- ## About me - Marit van Dijk
- - [https://maritvandijk.com](https://maritvandijk.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Memos
- - [https://blog.mariushosting.com](https://blog.mariushosting.com)
- - date_published: 2024-07-18T08:22:21.228583+00:00
-
- ## Marius Hosting – Trustworthy expert guide to your Synology NAS.
- - [https://mariushosting.com](https://mariushosting.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Marius Jopen
- - [http://mariusjopen.com](http://mariusjopen.com)
- - date_published: 2024-07-13T14:57:52.299986+00:00
-
- ## Home — Marius Schulz
- - [https://blog.mariusschulz.com](https://blog.mariusschulz.com)
- - date_published: 2022-06-05T00:00:00+00:00
-
- ## Home — Marius Schulz
- - [https://mariusschulz.com](https://mariusschulz.com)
- - date_published: 2022-06-05T00:00:00+00:00
 

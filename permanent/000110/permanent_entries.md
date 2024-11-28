@@ -1,3 +1,71 @@
+ ## Slack (TUI) - Text-based mock UI
+ - [https://slack.ggerganov.com](https://slack.ggerganov.com)
+ - date_published: 2022-07-25T17:32:01+00:00
+
+ ## Spectrogram
+ - [https://spectrogram.ggerganov.com](https://spectrogram.ggerganov.com)
+ - date_published: 2021-05-17T18:58:48+00:00
+
+ ## The Story
+ - [https://the-story.ggerganov.com](https://the-story.ggerganov.com)
+ - date_published: 2022-03-13T11:18:15+00:00
+
+ ## Wave-gui: Emscripten port
+ - [https://wave-gui.ggerganov.com](https://wave-gui.ggerganov.com)
+ - date_published: 2018-11-17T15:00:00+00:00
+
+ ## Waver
+ - [https://waver.ggerganov.com](https://waver.ggerganov.com)
+ - date_published: 2022-07-10T15:14:45+00:00
+
+ ## whisper.cpp : WASM example
+ - [https://whisper.ggerganov.com](https://whisper.ggerganov.com)
+ - date_published: 2023-05-20T17:01:11+00:00
+
+ ## Уърдъл - Ежедневна игра на думи
+ - [https://wordle-bg.ggerganov.com](https://wordle-bg.ggerganov.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## wtf-tui : text-based UI for wtf
+ - [https://wtf-tui.ggerganov.com](https://wtf-tui.ggerganov.com)
+ - date_published: 2020-12-07T09:24:59+00:00
+
+ ## Go Get Em Tiger — Home
+ - [https://gget.com](https://gget.com)
+ - date_published: 2024-07-02T21:52:25+00:00
+
+ ## ggfargro | Great Global Development Foundation
+ - [http://www.ggfagro.com](http://www.ggfagro.com)
+ - date_published: 2024-10-29T16:50:05.134678+00:00
+
+ ## Fieldshop by Garden & Gun
+ - [https://ggfieldshop.com](https://ggfieldshop.com)
+ - date_published: 2024-05-04T07:26:36.702583+00:00
+
+ ## Strict Machine
+ - [http://gggritso.com](http://gggritso.com)
+ - date_published: 2020-10-17T00:00:00+00:00
+
+ ## GGLOT: Superior Audio Transcription & Video Subtitles Solution
+ - [https://gglot.com](https://gglot.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Greg Gilbert's notes
+ - [https://www.ggnotes.com](https://www.ggnotes.com)
+ - date_published: 2024-06-22T17:22:29.528465+00:00
+
+ ## GGNETWORK • Любимые игры уже здесь
+ - [https://ggntw.com](https://ggntw.com)
+ - date_published: 2024-11-14T08:36:15.657800+00:00
+
+ ## Error 400 (Bad Request)!!1
+ - [http://lh3.ggpht.com](http://lh3.ggpht.com)
+ - date_published: 2024-04-29T03:35:24.446998+00:00
+
+ ## Error 400 (Bad Request)!!1
+ - [https://yt3.ggpht.com](https://yt3.ggpht.com)
+ - date_published: 2024-04-29T04:49:40.642459+00:00
+
  ## GG趣下_GGQX游戏下载_热门手机软件下载_GG趣下网
  - [http://www.ggqx.com](http://www.ggqx.com)
  - date_published: 2024-10-25T11:18:41.561304+00:00
@@ -2081,6 +2149,11 @@
  - date_published: 2024-11-25T10:34:56+00:00
  - tags: ['notes program']
 
+ ## GitHub - go-rod/rod: A Chrome DevTools Protocol driver for web automation and scraping.
+ - [https://github.com/go-rod/rod](https://github.com/go-rod/rod)
+ - date_published: 2024-11-27T17:16:03+00:00
+ - tags: ['web scraping']
+
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
  - date_published: 2024-04-18T13:56:46+00:00
@@ -4033,76 +4106,4 @@
  ## globalwarminghysteria.com
  - [http://www.globalwarminghysteria.com](http://www.globalwarminghysteria.com)
  - date_published: 2024-10-31T23:15:11.245359+00:00
-
- ## Global Warming Solved -
- - [http://globalwarmingsolved.com](http://globalwarmingsolved.com)
- - date_published: 2024-06-28T18:40:03.683081+00:00
-
- ## The Global Wine Masters
- - [https://www.globalwinemasters.com](https://www.globalwinemasters.com)
- - date_published: 2024-07-04T02:56:51.582872+00:00
-
- ## Globant Transforms your Industry Through AI - By Globant
- - [https://ai.globant.com](https://ai.globant.com)
- - date_published: 2024-06-26T20:31:39+00:00
-
- ## BeHealthy Rewards Program | BeHealthy By Globant X
- - [https://behealthy.globant.com](https://behealthy.globant.com)
- - date_published: 2024-04-18T16:45:33+00:00
-
- ## Careers | Globant
- - [https://career.globant.com](https://career.globant.com)
- - date_published: 2024-09-12T11:30:29.489083+00:00
-
- ## Converge 2023 - The Tech Event About AI revolution | By Globant
- - [https://converge.globant.com](https://converge.globant.com)
- - date_published: 2024-09-12T11:32:15.004634+00:00
-
- ## Globant AI Powerhouse | Technology that Dares to Delight
- - [https://globant.com](https://globant.com)
- - date_published: 2024-06-12T11:15:12.545016+00:00
-
- ## Globant Investor Relations - Overview
- - [https://investors.globant.com](https://investors.globant.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Find out our latest Sentinel Report | Globant Reports
- - [https://reports.globant.com](https://reports.globant.com)
- - date_published: 2021-11-17T14:36:36+00:00
-
- ## Tech Solutions focused on business | Globant Blog
- - [https://stayrelevant.globant.com](https://stayrelevant.globant.com)
- - date_published: 2022-03-23T23:12:05+00:00
-
- ## Globant Ventures | El Fondo Corporativo de Globant
- - [https://globantventures.com](https://globantventures.com)
- - date_published: 2024-09-12T11:31:00.630459+00:00
-
- ## The Boston Globe
- - [https://globe.com](https://globe.com)
- - date_published: 2024-05-02T13:49:44.276800+00:00
-
- ## Boston Globe Store
- - [https://store.globe.com](https://store.globe.com)
- - date_published: 2024-07-03T16:51:40.756650+00:00
-
- ## The Globe and Mail: Canadian, World, Politics and Business News & Analysis
- - [http://globeandmail.com](http://globeandmail.com)
- - date_published: 2024-06-24T08:15:00+00:00
-
- ## The Globe and Mail Centre - a Breathtaking Event Venue in Downtown Toronto
- - [https://www.globeandmailcentre.com](https://www.globeandmailcentre.com)
- - date_published: 2020-02-07T07:07:50+00:00
-
- ## The Globe and Mail
- - [https://www.globeandmailevents.com](https://www.globeandmailevents.com)
- - date_published: 2024-06-24T08:16:11+00:00
-
- ## Globee® Business Awards
- - [https://globeeawards.com](https://globeeawards.com)
- - date_published: 2024-07-04T10:35:29+00:00
-
- ## Globe Echo - Latest World News
- - [https://globeecho.com](https://globeecho.com)
- - date_published: 2023-10-25T14:46:10.193762+00:00
 

@@ -1,3 +1,223 @@
+ ## The College of Liberal and Professional Studies (LPS)
+ - [https://www.lps.upenn.edu](https://www.lps.upenn.edu)
+ - date_published: 2024-05-07T21:58:57.994235+00:00
+
+ ## Mechanical Engineering and Applied Mechanics | A Department of the School of Engineering and Applied Science
+ - [https://www.me.upenn.edu](https://www.me.upenn.edu)
+ - date_published: 2024-07-02T10:29:45.612967+00:00
+
+ ## Welcome to Penn Nursing
+ - [https://www.nursing.upenn.edu](https://www.nursing.upenn.edu)
+ - date_published: 2024-07-02T10:31:02+00:00
+
+ ## Penn Connects : A Vision for the Future.
+ - [http://www.pennconnects.upenn.edu](http://www.pennconnects.upenn.edu)
+ - date_published: 2024-07-02T10:31:09.466386+00:00
+
+ ## Home | Department of Physics and Astronomy
+ - [http://www.physics.upenn.edu](http://www.physics.upenn.edu)
+ - date_published: 2024-06-30T08:46:56+00:00
+
+ ## Penn in Washington | Events, networking, courses, and internships for Penn students in D.C
+ - [https://www.piw.sas.upenn.edu](https://www.piw.sas.upenn.edu)
+ - date_published: 2024-07-02T10:34:16+00:00
+
+ ## Positive Psychology Center Online Research Program - University of Pennsylvania
+ - [http://www.ppresearch.sas.upenn.edu](http://www.ppresearch.sas.upenn.edu)
+ - date_published: 2024-05-31T15:15:32+00:00
+
+ ## Home | Division of Public Safety
+ - [https://www.publicsafety.upenn.edu](https://www.publicsafety.upenn.edu)
+ - date_published: 2024-05-07T21:58:02.917615+00:00
+
+ ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
+ - [https://www.sas.upenn.edu](https://www.sas.upenn.edu)
+ - date_published: 2024-05-07T21:59:07.813368+00:00
+
+ ## Home - School of Social Policy & Practice
+ - [https://www.sp2.upenn.edu](https://www.sp2.upenn.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Penn Sustainability - Homepage
+ - [http://www.sustainability.upenn.edu](http://www.sustainability.upenn.edu)
+ - date_published: 2024-06-20T18:28:38+00:00
+
+ ## University Life
+ - [http://www.vpul.upenn.edu](http://www.vpul.upenn.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## XCAT
+ - [https://xcat.at.upenn.edu](https://xcat.at.upenn.edu)
+ - date_published: 2024-04-25T20:16:39+00:00
+
+ ## 宾大沃顿中国中心
+ - [https://zh.pwcc.upenn.edu](https://zh.pwcc.upenn.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## adAS SSO | Servei de Single Sign-On
+ - [https://aula.esci.upf.edu](https://aula.esci.upf.edu)
+ - date_published: 2024-07-02T10:36:30.476095+00:00
+
+ ## UPF Barcelona School of Management | UPF-BSM
+ - [https://bsm.upf.edu](https://bsm.upf.edu)
+ - date_published: 2024-05-07T21:59:30.301795+00:00
+
+ ## CAU - Centre d'atenció a l'usuari
+ - [https://cau.upf.edu](https://cau.upf.edu)
+ - date_published: 2024-07-02T10:45:27.965294+00:00
+
+ ## ESCI-UPF
+ - [https://esci.upf.edu](https://esci.upf.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## UPF Barcelona School Of Management
+ - [https://esecretaria.bsm.upf.edu](https://esecretaria.bsm.upf.edu)
+ - date_published: 2024-07-02T10:44:13.663452+00:00
+
+ ## Homepage — Essentia 2.1-beta6-dev documentation
+ - [https://essentia.upf.edu](https://essentia.upf.edu)
+ - date_published: 2024-06-19T12:13:10+00:00
+
+ ## Eventum UPF - Universitat Pompeu Fabra
+ - [https://eventum.upf.edu](https://eventum.upf.edu)
+ - date_published: 2024-05-07T21:59:39.642924+00:00
+
+ ## Guia d'experts (UPF)
+ - [https://experts.upf.edu](https://experts.upf.edu)
+ - date_published: 2024-05-07T21:59:23.870726+00:00
+
+ ## Redirigiendo ...
+ - [https://gestioacademicavirtual.esci.upf.edu](https://gestioacademicavirtual.esci.upf.edu)
+ - date_published: 2021-10-21T10:18:42+00:00
+
+ ## Guies BibTIC
+ - [https://guiesbibtic.upf.edu](https://guiesbibtic.upf.edu)
+ - date_published: 2024-07-02T10:45:26.288103+00:00
+
+ ## Mercat del Peix -  Biomedicina, biodiversitat i benestar planetari
+ - [https://mercatdelpeix.upf.edu](https://mercatdelpeix.upf.edu)
+ - date_published: 2024-05-07T21:59:41.536947+00:00
+
+ ## Micromégas
+ - [https://micromegas.bsm.upf.edu](https://micromegas.bsm.upf.edu)
+ - date_published: 2024-07-02T10:44:18.673006+00:00
+
+ ## Patrimonia - Videoblog de economía y finanzas
+ - [https://patrimonia.bsm.upf.edu](https://patrimonia.bsm.upf.edu)
+ - date_published: 2024-07-02T10:44:12.301714+00:00
+
+ ## PHTE · Portal digital de Historia de la traducción en España
+ - [https://phte.upf.edu](https://phte.upf.edu)
+ - date_published: 2024-10-15T03:47:01.697740+00:00
+
+ ## Producció científica a la UPF
+ - [https://producciocientifica.upf.edu](https://producciocientifica.upf.edu)
+ - date_published: 2024-05-07T21:59:44.897873+00:00
+
+ ## e-Repositori UPF
+ - [http://repositori.upf.edu](http://repositori.upf.edu)
+ - date_published: 2024-07-02T10:45:23.564610+00:00
+
+ ## Seu electrònica
+ - [https://seuelectronica.upf.edu](https://seuelectronica.upf.edu)
+ - date_published: 2024-05-07T21:59:46.615245+00:00
+
+ ## Servicio de Single Sign-On
+ - [https://sso.bsm.upf.edu](https://sso.bsm.upf.edu)
+ - date_published: 2024-07-02T10:44:15.436015+00:00
+
+ ## Universitat Pompeu Fabra
+ - [https://upf.edu](https://upf.edu)
+ - date_published: 2023-11-03T12:11:03.206459+00:00
+
+ ## Participar Alumni UPF-BSM
+ - [https://www.alumni.bsm.upf.edu](https://www.alumni.bsm.upf.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## UPF Barcelona School of Management | UPF-BSM
+ - [http://www.barcelonaschoolofmanagement.upf.edu](http://www.barcelonaschoolofmanagement.upf.edu)
+ - date_published: 2024-07-02T10:42:31.611807+00:00
+
+ ## PHL @ UPR Arecibo
+ - [https://phl.upr.edu](https://phl.upr.edu)
+ - date_published: 2024-02-24T18:05:06.332906+00:00
+
+ ## Archivo Digital de Investigación – Escuela de Arquitectura, UPRRP
+ - [https://adi.uprrp.edu](https://adi.uprrp.edu)
+ - date_published: 2024-07-08T14:42:21.744703+00:00
+
+ ## Biblioteca de Arquitectura
+ - [http://bibarquitectura.uprrp.edu](http://bibarquitectura.uprrp.edu)
+ - date_published: 2024-07-08T14:42:32.688585+00:00
+
+ ## Escuela de Arquitectura – Universidad de Puerto Rico Recinto de Río Piedras
+ - [https://earq.uprrp.edu](https://earq.uprrp.edu)
+ - date_published: 2024-05-08T11:43:06.745399+00:00
+
+ ## Upstate Medical University | SUNY Upstate
+ - [https://www.upstate.edu](https://www.upstate.edu)
+ - date_published: 2024-06-23T07:30:26.875347+00:00
+
+ ## URI Directory Service
+ - [http://directory.uri.edu](http://directory.uri.edu)
+ - date_published: 2024-07-02T10:47:34.136875+00:00
+
+ ## Events Calendar - University of Rhode Island
+ - [https://events.uri.edu](https://events.uri.edu)
+ - date_published: 2024-05-07T22:00:25.617130+00:00
+
+ ## Front
+ - [https://homepage.cs.uri.edu](https://homepage.cs.uri.edu)
+ - date_published: 2024-04-29T07:30:06.571009+00:00
+
+ ## Information Technology Services
+ - [https://its.uri.edu](https://its.uri.edu)
+ - date_published: 2024-07-02T10:47:37.955512+00:00
+
+ ## University Of Rhode Island Applicant Portal | Home
+ - [https://jobs.uri.edu](https://jobs.uri.edu)
+ - date_published: 2024-05-07T22:00:12.816940+00:00
+
+ ## Home / EMS
+ - [https://muevents.uri.edu](https://muevents.uri.edu)
+ - date_published: 2024-07-02T10:47:31.540146+00:00
+
+ ## The University of Rhode Island
+ - [https://uri.edu](https://uri.edu)
+ - date_published: 2023-12-05T11:07:16.002679+00:00
+
+ ## The University of Rhode Island
+ - [https://web.uri.edu](https://web.uri.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Homepage - URIFAE
+ - [https://www.alumni.uri.edu](https://www.alumni.uri.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## University of Rochester Medical Center | UR Medicine
+ - [https://urmc.edu](https://urmc.edu)
+ - date_published: 2024-07-01T18:15:35.477447+00:00
+
+ ## Ursinus College
+ - [https://admission.ursinus.edu](https://admission.ursinus.edu)
+ - date_published: 2024-07-02T10:48:46+00:00
+
+ ## DigitalCommons@Ursinus
+ - [https://digitalcommons.ursinus.edu](https://digitalcommons.ursinus.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Ursinus College
+ - [https://my.ursinus.edu](https://my.ursinus.edu)
+ - date_published: 2024-07-02T10:48:46+00:00
+
+ ## Ursinus College
+ - [https://ursinus.edu](https://ursinus.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Ursuline College | Ursuline - Liberal Arts College in OH
+ - [http://www.ursuline.edu](http://www.ursuline.edu)
+ - date_published: 2024-06-28T14:35:22.204973+00:00
+
  ## HWAS
  - [https://hwas.usafa.edu](https://hwas.usafa.edu)
  - date_published: 2024-07-14T00:00:00+00:00
@@ -3778,224 +3998,4 @@
  ## Sign in to your account
  - [https://metadata.uw.edu](https://metadata.uw.edu)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Multicultural Outreach & Recruitment
- - [https://mor.uw.edu](https://mor.uw.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## UW NetID sign-in
- - [https://myhfs.housing.uw.edu](https://myhfs.housing.uw.edu)
- - date_published: 2024-07-02T13:47:22.873056+00:00
-
- ## UW NetID sign-in
- - [https://my.uw.edu](https://my.uw.edu)
- - date_published: 2024-05-07T22:26:52.137801+00:00
-
- ## Home Page - UW Medicine | Newsroom
- - [https://newsroom.uw.edu](https://newsroom.uw.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - UW Professional & Continuing Education
- - [https://pce.uw.edu](https://pce.uw.edu)
- - date_published: 2024-05-07T22:27:33.421412+00:00
-
- ## This Page has moved
- - [https://people.ece.uw.edu](https://people.ece.uw.edu)
- - date_published: 2024-06-22T09:50:04.754965+00:00
-
- ## Together We Will
- - [https://privacy.uw.edu](https://privacy.uw.edu)
- - date_published: 2024-06-16T09:31:38.528070+00:00
-
- ## Polar Science Center
- - [https://psc.apl.uw.edu](https://psc.apl.uw.edu)
- - date_published: 2024-05-07T15:32:13.441621+00:00
-
- ## UW Reality Lab
- - [https://realitylab.uw.edu](https://realitylab.uw.edu)
- - date_published: 2023-04-13T00:25:08+00:00
-
- ## Discover · UW Scout
- - [https://scout.uw.edu](https://scout.uw.edu)
- - date_published: 2024-07-02T13:49:25.154859+00:00
-
- ## Welcome
- - [https://sites.uw.edu](https://sites.uw.edu)
- - date_published: 2024-07-01T23:10:16.844728+00:00
-
- ## UW Online - Integrated Social Sciences Bachelor’s Degree
- - [https://socialsciencesonline.uw.edu](https://socialsciencesonline.uw.edu)
- - date_published: 2024-04-29T05:28:47.102153+00:00
-
- ## Sign in - Matomo
- - [https://stats.ipd.uw.edu](https://stats.ipd.uw.edu)
- - date_published: 2024-07-01T23:10:12.510972+00:00
-
- ## Home | University of Washington Department of Statistics
- - [https://stat.uw.edu](https://stat.uw.edu)
- - date_published: 2024-07-01T23:44:37+00:00
-
- ## UW Sustainability
- - [https://sustainability.uw.edu](https://sustainability.uw.edu)
- - date_published: 2024-05-07T22:26:50.061737+00:00
-
- ## UW Tacoma Home | About UW Tacoma | University of Washington Tacoma
- - [https://tacoma.uw.edu](https://tacoma.uw.edu)
- - date_published: 2024-07-01T23:53:25+00:00
-
- ## Technology and Social Change Group
- - [https://tascha.uw.edu](https://tascha.uw.edu)
- - date_published: 2024-06-30T09:12:43.193511+00:00
-
- ## UW NetID sign-in
- - [https://techdev.com.uw.edu](https://techdev.com.uw.edu)
- - date_published: 2024-07-21T07:18:47.658209+00:00
-
- ## Tech Policy Lab | University of Washington
- - [https://techpolicylab.uw.edu](https://techpolicylab.uw.edu)
- - date_published: 2024-07-02T13:42:15.384569+00:00
-
- ## Home | Transportation Services
- - [https://transportation.uw.edu](https://transportation.uw.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of Washington Press
- - [https://uwapress.uw.edu](https://uwapress.uw.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## UW Connect
- - [https://uwconnect.uw.edu](https://uwconnect.uw.edu)
- - date_published: 2024-07-02T13:46:55.502310+00:00
-
- ## TIME honors protein designer David Baker
- - [https://uw.edu](https://uw.edu)
- - date_published: 2024-05-07T22:25:42.739738+00:00
-
- ## Student Well-Being
- - [https://wellbeing.uw.edu](https://wellbeing.uw.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Workday@UW: Where to Start for Workday Help
- - [https://workday.uw.edu](https://workday.uw.edu)
- - date_published: 2024-06-16T09:31:42.617122+00:00
-
- ## Center for an Informed Public
- - [https://www.cip.uw.edu](https://www.cip.uw.edu)
- - date_published: 2024-06-29T19:57:32+00:00
-
- ## University of Washington Continuum College
- - [https://www.continuum.uw.edu](https://www.continuum.uw.edu)
- - date_published: 2024-07-02T13:47:36.115326+00:00
-
- ## The Integrator 2020
- - [https://www.ece.uw.edu](https://www.ece.uw.edu)
- - date_published: 2024-06-22T09:50:07.852890+00:00
-
- ## Institute for Protein Design
- - [http://www.ipd.uw.edu](http://www.ipd.uw.edu)
- - date_published: 2024-07-01T23:10:15.200365+00:00
-
- ## Home | UW School of Law
- - [https://www.law.uw.edu](https://www.law.uw.edu)
- - date_published: 2024-10-18T22:26:31.928496+00:00
-
- ## Undergraduate Admissions - Undergraduate Admissions
- - [https://admissions.uwb.edu](https://admissions.uwb.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Homepage - The University of Washington Bothell
- - [https://www.uwb.edu](https://www.uwb.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | University of West Florida
- - [https://uwf.edu](https://uwf.edu)
- - date_published: 2024-07-08T14:45:04+00:00
-
- ## The University of the West Indies, St Augustine Trinidad and Tobago, Journals
- - [https://journals.sta.uwi.edu](https://journals.sta.uwi.edu)
- - date_published: 2024-07-04T13:16:37.148368+00:00
-
- ## The University of the West Indies, Mona, Jamaica
- - [https://www.mona.uwi.edu](https://www.mona.uwi.edu)
- - date_published: 2024-07-09T12:36:56+00:00
-
- ## Home | The University of the West Indies
- - [https://www.uwi.edu](https://www.uwi.edu)
- - date_published: 2024-07-22T08:06:31.192076+00:00
-
- ## University of Wisconsin-La Crosse
- - [https://www.uwlax.edu](https://www.uwlax.edu)
- - date_published: 2024-08-18T08:46:48.835079+00:00
-
- ## UW-Milwaukee Academic Catalog
- - [https://catalog.uwm.edu](https://catalog.uwm.edu)
- - date_published: 2024-06-28T16:25:46+00:00
-
- ## University of Wisconsin-Milwaukee | Home
- - [http://jobs.uwm.edu](http://jobs.uwm.edu)
- - date_published: 2024-06-30T02:29:19+00:00
-
- ## PAWS Redirect
- - [https://paws.uwm.edu](https://paws.uwm.edu)
- - date_published: 2024-01-15T21:52:18+00:00
-
- ## University of Wisconsin-Milwaukee
- - [https://uwm.edu](https://uwm.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Announcements - Announcements | University of Wisconsin-Whitewater
- - [https://announcements.uww.edu](https://announcements.uww.edu)
- - date_published: 2024-09-04T04:00:50.009193+00:00
-
- ## University of Wyoming - Acalog ACMS™
- - [https://acalogcatalog.uwyo.edu](https://acalogcatalog.uwyo.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## wyologin.uwyo.edu
- - [https://bnrssomgr.uwyo.edu](https://bnrssomgr.uwyo.edu)
- - date_published: 2024-07-14T15:05:32.889705+00:00
-
- ## UWYO Faculty & Staff Directory Search
- - [https://directory.uwyo.edu](https://directory.uwyo.edu)
- - date_published: 2024-05-11T11:34:02.930933+00:00
-
- ## University of Wyoming Open Journals
- - [https://journals.uwyo.edu](https://journals.uwyo.edu)
- - date_published: 2024-05-08T08:43:06.439668+00:00
-
- ## PINNACLE - Login
- - [https://sagebrush.uwyo.edu](https://sagebrush.uwyo.edu)
- - date_published: 2024-07-14T15:05:04.531015+00:00
-
- ## uwyo-search
- - [https://search.uwyo.edu](https://search.uwyo.edu)
- - date_published: 2024-05-11T11:34:12.302879+00:00
-
- ## wyologin.uwyo.edu
- - [https://shibboleth.uwyo.edu](https://shibboleth.uwyo.edu)
- - date_published: 2024-07-14T15:05:45.750626+00:00
-
- ## University of Wyoming | UW | Laramie, Wyoming
- - [http://uwyo.edu](http://uwyo.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## wyologin.uwyo.edu
- - [http://wyocourses.uwyo.edu](http://wyocourses.uwyo.edu)
- - date_published: 2024-07-14T15:04:54.590391+00:00
-
- ## wyologin.uwyo.edu
- - [http://wyogroups.uwyo.edu](http://wyogroups.uwyo.edu)
- - date_published: 2024-07-14T15:04:51.137289+00:00
-
- ## Ivanti Connect Secure
- - [https://wyosecure.uwyo.edu](https://wyosecure.uwyo.edu)
- - date_published: 2024-07-14T15:04:47.098464+00:00
-
- ## wyologin.uwyo.edu
- - [https://wyossb.uwyo.edu](https://wyossb.uwyo.edu)
- - date_published: 2024-07-14T15:04:44.649039+00:00
-
- ## WyoWeb - University of Wyoming Intranet Portal
- - [https://wyoweb.uwyo.edu](https://wyoweb.uwyo.edu)
- - date_published: 2024-05-11T11:34:36.210756+00:00
 

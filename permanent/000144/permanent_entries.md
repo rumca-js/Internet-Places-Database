@@ -1,3 +1,84 @@
+ ## Join Our Team! | Careers | Mattel, Inc.
+ - [https://jobs.mattel.com](https://jobs.mattel.com)
+ - date_published: 2024-06-23T16:22:28.114309+00:00
+
+ ## Mattel | Mattel Kids | Home
+ - [https://play.mattel.com](https://play.mattel.com)
+ - date_published: 2024-06-18T21:42:02.351028+00:00
+
+ ## Data Subject Request Form
+ - [https://privacy.mattel.com](https://privacy.mattel.com)
+ - date_published: 2024-06-23T16:20:59.384028+00:00
+
+ ## Mattel and Fisher-Price Customer Service - Contact Us
+ - [https://service.mattel.com](https://service.mattel.com)
+ - date_published: 2024-05-06T14:50:03.937869+00:00
+
+ ## Mattel Shop: Toys for Kids, Collectors & Fans of All Ages
+ - [https://shop.mattel.com](https://shop.mattel.com)
+ - date_published: 2024-05-06T14:48:53.707399+00:00
+
+ ## Mattel | Shop
+ - [https://shopping.mattel.com](https://shopping.mattel.com)
+ - date_published: 2024-06-23T16:20:56.800117+00:00
+
+ ## EMEA-TEST Shoppers
+ - [https://test-shopping.mattel.com](https://test-shopping.mattel.com)
+ - date_published: 2024-06-23T16:21:59.717151+00:00
+
+ ## Mattel Digital Collectible Marketplace
+ - [https://virtual.mattel.com](https://virtual.mattel.com)
+ - date_published: 2024-08-06T03:25:05.857047+00:00
+
+ ## Mattel | Shop
+ - [https://www2.mattel.com](https://www2.mattel.com)
+ - date_published: 2024-06-23T16:21:47.321437+00:00
+
+ ## Mattel | Shop
+ - [https://www.mattel.com](https://www.mattel.com)
+ - date_published: 2024-06-23T16:22:05.919744+00:00
+
+ ## Mattel Playback
+ - [https://mattelplayback.com](https://mattelplayback.com)
+ - date_published: 2023-12-18T10:26:52+00:00
+
+ ## Mattel Toy Store Locations | Mattel
+ - [https://www.matteltoystore.com](https://www.matteltoystore.com)
+ - date_published: 2024-06-23T16:21:15.879128+00:00
+
+ ## Matteo Guarnaccia Creative Services
+ - [https://matteoguarnaccia.com](https://matteoguarnaccia.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## — uf0
+ - [https://matteomalvica.com](https://matteomalvica.com)
+ - date_published: 2024-06-12T18:54:37.879099+00:00
+ - tags: ['personal']
+
+ ## Architecting SwiftUI apps with MVC and MVVM - Matteo Manferdini
+ - [https://matteomanferdini.com](https://matteomanferdini.com)
+ - date_published: 2024-05-31T17:36:57+00:00
+
+ ## Matteo Paltenghi · Data Scientist for Software Analysis
+ - [https://matteopaltenghi.com](https://matteopaltenghi.com)
+ - date_published: 2024-05-04T08:04:56.596191+00:00
+
+ ## MatterChart - Interactive Periodic Table Explorer
+ - [https://matterchart.com](https://matterchart.com)
+ - date_published: 2024-11-21T15:57:47+00:00
+
+ ## Matter Design
+ - [https://matterdesignstudio.com](https://matterdesignstudio.com)
+ - date_published: 2024-05-07T19:33:13.253224+00:00
+
+ ## Home - Mattereum
+ - [https://mattereum.com](https://mattereum.com)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## MatterHackers - 3D Printing Supplies
+ - [https://www.matterhackers.com](https://www.matterhackers.com)
+ - date_published: 2024-07-13T20:53:31.918390+00:00
+
  ## Mattermark - Discover, Enrich, & Analyze Companies
  - [https://mattermark.com](https://mattermark.com)
  - date_published: 2019-02-22T00:00:00+00:00
@@ -3961,84 +4042,4 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://safety-syringes.medicaltechoutlook.com](https://safety-syringes.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:12:32.455087+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://sample-collection.medicaltechoutlook.com](https://sample-collection.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:19:13.148311+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://self-care-medical-product.medicaltechoutlook.com](https://self-care-medical-product.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:13:01.595109+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://simulation-europe.medicaltechoutlook.com](https://simulation-europe.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:19:06.041287+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://simulation.medicaltechoutlook.com](https://simulation.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:16.899514+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://spine-device.medicaltechoutlook.com](https://spine-device.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:12:09.852419+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://spine-solutions-europe.medicaltechoutlook.com](https://spine-solutions-europe.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:58.477154+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://startups-europe.medicaltechoutlook.com](https://startups-europe.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:10:39.631299+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://startups.medicaltechoutlook.com](https://startups.medicaltechoutlook.com)
- - date_published: 2024-05-07T14:00:07.677530+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://surgical.medicaltechoutlook.com](https://surgical.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:12:47.850001+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://urinary-devices.medicaltechoutlook.com](https://urinary-devices.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:44.738886+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://vascular-devices.medicaltechoutlook.com](https://vascular-devices.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:12.397149+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://vision-care-apac.medicaltechoutlook.com](https://vision-care-apac.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:32.114172+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://vision-care-europe.medicaltechoutlook.com](https://vision-care-europe.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:13:20.688437+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://vision-care.medicaltechoutlook.com](https://vision-care.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:10:37.563254+00:00
-
- ## Latest Trends, Articles on Wound Care in APAC | Medical Tech Outlook
- - [https://wound-care-apac.medicaltechoutlook.com](https://wound-care-apac.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:34.349365+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://wound-care-europe.medicaltechoutlook.com](https://wound-care-europe.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:12:12.070604+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://wound-care.medicaltechoutlook.com](https://wound-care.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:11:21.374882+00:00
-
- ## MedTech Outlook: Medical Technology Magazine for Healthcare System
- - [https://www.medicaltechoutlook.com](https://www.medicaltechoutlook.com)
- - date_published: 2024-06-29T20:19:10.926083+00:00
-
- ## Medical Tubing & Extrusion - Medical Tubing and Extrusion
- - [https://www.medicaltubingandextrusion.com](https://www.medicaltubingandextrusion.com)
- - date_published: 2024-06-17T08:27:53.861968+00:00
-
- ## Medical World News
- - [https://medicalworldnews.com](https://medicalworldnews.com)
- - date_published: 2024-07-09T16:32:03.070229+00:00
 

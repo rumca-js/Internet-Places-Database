@@ -1,3 +1,31 @@
+ ## Peter Eisentraut's Blog
+ - [http://petereisentraut.blogspot.com](http://petereisentraut.blogspot.com)
+ - date_published: 2024-05-24T09:34:31+00:00
+
+ ## Peter H. Cropes
+ - [https://peterhcropes.blogspot.com](https://peterhcropes.blogspot.com)
+ - date_published: 2024-02-20T01:44:31+00:00
+
+ ## Peter's Cave
+ - [http://peterscave.blogspot.com](http://peterscave.blogspot.com)
+ - date_published: 2024-07-18T20:06:42+00:00
+
+ ## PETER SCHIFF NEWS BLOG
+ - [http://peterschiffchannel.blogspot.com](http://peterschiffchannel.blogspot.com)
+ - date_published: 2024-10-21T15:35:29.912243+00:00
+
+ ## Lex Communis
+ - [http://peterseanesq.blogspot.com](http://peterseanesq.blogspot.com)
+ - date_published: 2024-05-11T16:17:18+00:00
+
+ ## Petroleum Truth Report
+ - [http://petroleumtruthreport.blogspot.com](http://petroleumtruthreport.blogspot.com)
+ - date_published: 2024-04-25T00:41:19+00:00
+
+ ## pettirosso infreddolito
+ - [http://pettirossoinfreddolito.blogspot.com](http://pettirossoinfreddolito.blogspot.com)
+ - date_published: 2024-08-28T22:37:55+00:00
+
  ## PFE100
  - [http://pfe100.blogspot.com](http://pfe100.blogspot.com)
  - date_published: 2024-09-16T17:17:03+00:00
@@ -3983,32 +4011,4 @@
  - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
  - date_published: 2023-10-25T09:17:44.221645+00:00
  - tags: ['personal']
-
- ## The Splintered Mind: Underblog
- - [http://schwitzsplintersunderblog.blogspot.com](http://schwitzsplintersunderblog.blogspot.com)
- - date_published: 2024-03-16T01:09:39+00:00
-
- ## Blogger
- - [http://sciencebysunita.blogspot.com](http://sciencebysunita.blogspot.com)
- - date_published: 2024-10-19T05:32:20.429974+00:00
-
- ## Biology in Science Fiction
- - [http://sciencefictionbiology.blogspot.com](http://sciencefictionbiology.blogspot.com)
- - date_published: 2024-10-21T17:53:02.770790+00:00
-
- ## Science Fiction and Other ODDysseys
- - [https://sciencefictionmusings.blogspot.com](https://sciencefictionmusings.blogspot.com)
- - date_published: 2024-02-07T03:42:33+00:00
-
- ## Science in the Sands
- - [http://scienceinthesands.blogspot.com](http://scienceinthesands.blogspot.com)
- - date_published: 2024-03-13T04:04:51+00:00
-
- ## Scientific Memo
- - [https://science-memo.blogspot.com](https://science-memo.blogspot.com)
- - date_published: 2024-06-15T20:56:39+00:00
-
- ## Science and Politics
- - [http://sciencepolitics.blogspot.com](http://sciencepolitics.blogspot.com)
- - date_published: 2024-10-21T18:27:38.859481+00:00
 

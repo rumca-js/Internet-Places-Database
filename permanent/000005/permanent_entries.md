@@ -1790,6 +1790,11 @@
  - [https://ilf-site-analytics.netlify.app](https://ilf-site-analytics.netlify.app)
  - date_published: 2024-06-26T08:03:26.755243+00:00
 
+ ## Inclusive Blog Post | Agathe Badia 
+ - [https://inclusive-blog-post.netlify.app](https://inclusive-blog-post.netlify.app)
+ - date_published: 2024-11-27T09:31:33.990950+00:00
+ - tags: ['personal']
+
  ## Indian Chatrooms on Decentralized Networks
  - [https://indiachat.netlify.app](https://indiachat.netlify.app)
  - date_published: 2024-08-08T15:21:05.053664+00:00
@@ -4035,8 +4040,4 @@
  ## Send Files To Tv - Android application for Smart TV
  - [https://sendfilestotv.app](https://sendfilestotv.app)
  - date_published: 2024-03-11T14:59:01+00:00
-
- ## Sequels - SQL Notebook for macOS
- - [https://sequels.app](https://sequels.app)
- - date_published: 2024-08-11T17:24:41.099190+00:00
 

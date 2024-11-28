@@ -1,3 +1,31 @@
+ ## The Splintered Mind: Underblog
+ - [http://schwitzsplintersunderblog.blogspot.com](http://schwitzsplintersunderblog.blogspot.com)
+ - date_published: 2024-03-16T01:09:39+00:00
+
+ ## Blogger
+ - [http://sciencebysunita.blogspot.com](http://sciencebysunita.blogspot.com)
+ - date_published: 2024-10-19T05:32:20.429974+00:00
+
+ ## Biology in Science Fiction
+ - [http://sciencefictionbiology.blogspot.com](http://sciencefictionbiology.blogspot.com)
+ - date_published: 2024-10-21T17:53:02.770790+00:00
+
+ ## Science Fiction and Other ODDysseys
+ - [https://sciencefictionmusings.blogspot.com](https://sciencefictionmusings.blogspot.com)
+ - date_published: 2024-02-07T03:42:33+00:00
+
+ ## Science in the Sands
+ - [http://scienceinthesands.blogspot.com](http://scienceinthesands.blogspot.com)
+ - date_published: 2024-03-13T04:04:51+00:00
+
+ ## Scientific Memo
+ - [https://science-memo.blogspot.com](https://science-memo.blogspot.com)
+ - date_published: 2024-06-15T20:56:39+00:00
+
+ ## Science and Politics
+ - [http://sciencepolitics.blogspot.com](http://sciencepolitics.blogspot.com)
+ - date_published: 2024-10-21T18:27:38.859481+00:00
+
  ## FemaleScienceProfessor
  - [http://science-professor.blogspot.com](http://science-professor.blogspot.com)
  - date_published: 2024-06-01T06:21:45+00:00
@@ -3986,32 +4014,4 @@
  - [https://thefischbowl.blogspot.com](https://thefischbowl.blogspot.com)
  - date_published: 2024-04-03T06:38:53.475731+00:00
  - tags: ['personal']
-
- ## Events in my life
- - [http://theflowerofmosul.blogspot.com](http://theflowerofmosul.blogspot.com)
- - date_published: 2024-03-23T18:07:35+00:00
-
- ## The Flying Predator
- - [http://theflyingpredator.blogspot.com](http://theflyingpredator.blogspot.com)
- - date_published: 2024-09-09T16:06:07+00:00
-
- ## The Free Lunch
- - [https://the-free-lunch.blogspot.com](https://the-free-lunch.blogspot.com)
- - date_published: 2024-10-21T14:18:23.688539+00:00
-
- ## The Freezing North
- - [http://thefreezingnorth.blogspot.com](http://thefreezingnorth.blogspot.com)
- - date_published: 2024-08-30T13:19:32+00:00
-
- ## The Boiling Frog
- - [http://thefrogsalittlehot.blogspot.com](http://thefrogsalittlehot.blogspot.com)
- - date_published: 2024-10-21T14:12:52.588930+00:00
-
- ## The frog that jumped out
- - [http://thefrogthatjumpedout.blogspot.com](http://thefrogthatjumpedout.blogspot.com)
- - date_published: 2024-03-05T13:04:01+00:00
-
- ## Frontline Gamer
- - [http://thefrontlinegamer.blogspot.com](http://thefrontlinegamer.blogspot.com)
- - date_published: 2024-07-14T18:26:56+00:00
 

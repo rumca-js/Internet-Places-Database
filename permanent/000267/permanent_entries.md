@@ -1,3 +1,223 @@
+ ## Help Desk Central | IT.tamu.edu
+ - [https://hdc.tamu.edu](https://hdc.tamu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Human-Empowering Robotics Lab – Empowering Humans with Robots
+ - [https://herc.engr.tamu.edu](https://herc.engr.tamu.edu)
+ - date_published: 2024-08-07T16:55:36.882419+00:00
+
+ ## Howdy
+ - [https://howdy.tamu.edu](https://howdy.tamu.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## IAMCS | IAMCS
+ - [https://iamcs.tamu.edu](https://iamcs.tamu.edu)
+ - date_published: 2024-07-22T11:35:51.975270+00:00
+
+ ## Institute for Scientific Computation | Texas A&M University
+ - [https://isc.tamu.edu](https://isc.tamu.edu)
+ - date_published: 2016-02-05T00:00:00+00:00
+
+ ## IT Accessibility
+ - [https://itaccessibility.tamu.edu](https://itaccessibility.tamu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Interphase Transport Phenomena Laboratory – Department of Nuclear Engineering
+ - [http://itp.tamu.edu](http://itp.tamu.edu)
+ - date_published: 2024-06-30T05:44:38.666007+00:00
+
+ ## Home - TAMU Self-Service
+ - [https://itselfservice.tamu.edu](https://itselfservice.tamu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Technology Services | IT.tamu.edu
+ - [https://it.tamu.edu](https://it.tamu.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home - LAUNCH
+ - [https://launch.tamu.edu](https://launch.tamu.edu)
+ - date_published: 2024-07-01T20:53:48.556391+00:00
+
+ ## University Libraries
+ - [https://library.tamu.edu](https://library.tamu.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - Learning Management System
+ - [https://lms.tamu.edu](https://lms.tamu.edu)
+ - date_published: 2024-07-01T20:53:45.407742+00:00
+
+ ## Sign in to your account
+ - [http://mail.google.tamu.edu](http://mail.google.tamu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## TAMU Math Circle
+ - [https://mathcircle.tamu.edu](https://mathcircle.tamu.edu)
+ - date_published: 2024-07-22T11:36:01.803639+00:00
+
+ ## Department of Mathematics, Texas A&amp;M University
+ - [https://math.tamu.edu](https://math.tamu.edu)
+ - date_published: 2024-04-30T02:19:51.001899+00:00
+
+ ## Texas A&M University Mental Health Resources
+ - [https://mentalhealth.tamu.edu](https://mentalhealth.tamu.edu)
+ - date_published: 2024-04-26T22:34:15+00:00
+
+ ## Home - Mobility Division
+ - [http://mobility.tamu.edu](http://mobility.tamu.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Nuclear Engineering & Science Center – Texas A&M Engineering Experiment Station
+ - [https://nsc.tamu.edu](https://nsc.tamu.edu)
+ - date_published: 2024-10-26T14:28:30.310288+00:00
+
+ ## Division of Risk, Ethics and Compliance
+ - [https://orec.tamu.edu](https://orec.tamu.edu)
+ - date_published: 2024-07-01T20:53:49.809474+00:00
+
+ ## Engineering People Site
+ - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
+ - date_published: 2020-01-23T20:10:08+00:00
+
+ ## Open Access Labs (OAL) | IT.tamu.edu
+ - [https://people.tamu.edu](https://people.tamu.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Philosophy – Study the nature of knowledge, reality, and existence at Texas A&M University
+ - [https://philosophy.tamu.edu](https://philosophy.tamu.edu)
+ - date_published: 2024-07-01T20:24:05.110479+00:00
+
+ ## Precalculus Preparation Program
+ - [https://ppp.tamu.edu](https://ppp.tamu.edu)
+ - date_published: 2024-07-22T11:36:03.509944+00:00
+
+ ## Aggie UX
+ - [https://prod.aux.cloud.tamu.edu](https://prod.aux.cloud.tamu.edu)
+ - date_published: 2024-04-24T13:30:09+00:00
+
+ ## Texas A&M Admissions - Admissions
+ - [https://recruiter.tamu.edu](https://recruiter.tamu.edu)
+ - date_published: 2024-07-01T20:53:26.710845+00:00
+
+ ## Home - Registrar
+ - [https://registrar.tamu.edu](https://registrar.tamu.edu)
+ - date_published: 2024-07-01T20:53:35.896299+00:00
+
+ ## Research@Texas A&M | Inform, Inspire, Amaze – Stories to inform, inspire and amaze from a top-tier research institution.
+ - [https://research.tamu.edu](https://research.tamu.edu)
+ - date_published: 2024-07-01T20:53:40.521531+00:00
+
+ ## Residence Life – Division of Student Affairs
+ - [http://reslife.tamu.edu](http://reslife.tamu.edu)
+ - date_published: 2024-07-01T20:51:38.087904+00:00
+
+ ## Ring Dance – Texas A&M University
+ - [https://ringdance.tamu.edu](https://ringdance.tamu.edu)
+ - date_published: 2024-02-08T16:48:50.209704+00:00
+
+ ## University Rules and SAPs
+ - [https://rules-saps.tamu.edu](https://rules-saps.tamu.edu)
+ - date_published: 2024-07-01T20:52:51.291195+00:00
+
+ ## Texas A&M Law Scholarship
+ - [https://scholarship.law.tamu.edu](https://scholarship.law.tamu.edu)
+ - date_published: 2024-07-19T23:40:12.668507+00:00
+
+ ## Arts & Sciences
+ - [https://science.tamu.edu](https://science.tamu.edu)
+ - date_published: 2024-06-12T14:32:39+00:00
+
+ ## The Science Fiction and Fantasy Research Database
+ - [http://sffrd.library.tamu.edu](http://sffrd.library.tamu.edu)
+ - date_published: 2024-07-04T13:30:03.624725+00:00
+
+ ## Step In. Stand Up.
+ - [http://stepinstandup.tamu.edu](http://stepinstandup.tamu.edu)
+ - date_published: 2024-04-23T15:04:26+00:00
+
+ ## Student Affairs – TAMU – Texas A&M University
+ - [https://studentaffairs.tamu.edu](https://studentaffairs.tamu.edu)
+ - date_published: 2024-07-01T20:51:20.481391+00:00
+
+ ## Texas A&M University | Texas A&M University
+ - [https://tamu.edu](https://tamu.edu)
+ - date_published: 2024-05-07T20:38:05.484390+00:00
+
+ ## Texas A&M Engineering Experiment Station
+ - [https://tees.tamu.edu](https://tees.tamu.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## TELL SOMEBODY
+ - [https://tellsomebody.tamu.edu](https://tellsomebody.tamu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Texas A&M Forest Service Home Page
+ - [http://texasforestservice.tamu.edu](http://texasforestservice.tamu.edu)
+ - date_published: 2024-07-02T15:02:38.283069+00:00
+
+ ## Texas Natural Resources Server | Teaching, Research, Extension, and Service
+ - [http://texnat.tamu.edu](http://texnat.tamu.edu)
+ - date_published: 2024-09-18T20:27:17.168555+00:00
+
+ ## Texas A&M Forest Service Home Page
+ - [https://tfsweb.tamu.edu](https://tfsweb.tamu.edu)
+ - date_published: 2024-06-20T23:56:21.111305+00:00
+
+ ## Texas A&M Today - News from Texas A&M University
+ - [https://today.tamu.edu](https://today.tamu.edu)
+ - date_published: 2023-10-25T18:59:22.810212+00:00
+
+ ## Transportation Services at Texas A&M University
+ - [http://transport.tamu.edu](http://transport.tamu.edu)
+ - date_published: 2024-07-01T20:51:30.276001+00:00
+
+ ## Home
+ - [https://tti.tamu.edu](https://tti.tamu.edu)
+ - date_published: 2024-07-02T15:03:02.838285+00:00
+
+ ## Texas A&M Tuition Calculator
+ - [https://tuition.tamu.edu](https://tuition.tamu.edu)
+ - date_published: 2024-06-17T19:00:24+00:00
+
+ ## Home - Texas A&M Veterinary Medical Diagnostic Laboratory
+ - [https://tvmdl.tamu.edu](https://tvmdl.tamu.edu)
+ - date_published: 2024-07-02T15:03:00.863164+00:00
+
+ ## Circuit Virtual Tours
+ - [https://virtualtour.tamu.edu](https://virtualtour.tamu.edu)
+ - date_published: 2024-06-12T21:49:58+00:00
+
+ ## Division of Research – Texas A&M University
+ - [https://vpr.tamu.edu](https://vpr.tamu.edu)
+ - date_published: 2024-07-01T20:53:12.746599+00:00
+
+ ## Engineering Schools in Qatar - Engineering College | Texas A&M University at Qatar
+ - [https://www.qatar.tamu.edu](https://www.qatar.tamu.edu)
+ - date_published: 2024-07-01T20:51:49.394538+00:00
+
+ ## Prof. Xin Chen's Research Group
+ - [https://xchen.engr.tamu.edu](https://xchen.engr.tamu.edu)
+ - date_published: 2024-06-22T11:52:56.811269+00:00
+
+ ## Texas A&M University-Commerce
+ - [https://www.tamuc.edu](https://www.tamuc.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Welcome Home
+ - [https://tamucc.edu](https://tamucc.edu)
+ - date_published: 2024-07-02T15:03:37.349399+00:00
+
+ ## Home page for Texas A&M University - Central Texas
+ - [https://www.tamuct.edu](https://www.tamuct.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Texas A&M University at Galveston
+ - [https://tamug.edu](https://tamug.edu)
+ - date_published: 2024-06-12T00:49:58+00:00
+
+ ## TAMUK Home Page
+ - [https://www.tamuk.edu](https://www.tamuk.edu)
+ - date_published: 2024-06-26T15:21:02+00:00
+
  ## Bush Combat Development Complex – The Texas A&M University System U.S. Army Futures Command
  - [https://bcdc.tamus.edu](https://bcdc.tamus.edu)
  - date_published: 2024-07-02T15:02:40.313688+00:00
@@ -3798,231 +4018,4 @@
  ## Physical Sciences Division | The University of Chicago
  - [https://physical-sciences.uchicago.edu](https://physical-sciences.uchicago.edu)
  - date_published: 2024-06-15T22:11:19+00:00
-
- ## Physical Sciences Division | The University of Chicago
- - [https://physicalsciences.uchicago.edu](https://physicalsciences.uchicago.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Department of Physics | The University of Chicago
- - [https://physics.uchicago.edu](https://physics.uchicago.edu)
- - date_published: 2024-06-30T09:12:36+00:00
-
- ## Home | Pritzker School of Molecular Engineering | The University of Chicago
- - [https://pme.uchicago.edu](https://pme.uchicago.edu)
- - date_published: 2023-10-25T11:20:47.091123+00:00
-
- ## The South Pole Telescope
- - [https://pole.uchicago.edu](https://pole.uchicago.edu)
- - date_published: 2023-11-17T16:53:00+00:00
-
- ## Department of Political Science Homepage | Department of Political Science
- - [https://political-science.uchicago.edu](https://political-science.uchicago.edu)
- - date_published: 2024-09-12T13:41:41+00:00
-
- ## Institute of Politics - Inspiring thought. Empowering action.
- - [https://politics.uchicago.edu](https://politics.uchicago.edu)
- - date_published: 2024-07-01T22:33:11.607881+00:00
-
- ## Postdoctoral Researchers – Information for Postdoctoral Researchers at the University of Chicago
- - [https://postdocs.uchicago.edu](https://postdocs.uchicago.edu)
- - date_published: 2024-07-01T22:03:27+00:00
-
- ## The Chicago Blog
- - [https://pressblog.uchicago.edu](https://pressblog.uchicago.edu)
- - date_published: 2024-06-21T23:20:06.152616+00:00
-
- ## Electronic resources from the University of Chicago Press Books Division
- - [https://press-pubs.uchicago.edu](https://press-pubs.uchicago.edu)
- - date_published: 2023-08-21T19:57:40+00:00
-
- ## University of Chicago Press
- - [https://press.uchicago.edu](https://press.uchicago.edu)
- - date_published: 2024-05-04T14:26:31.219516+00:00
-
- ## Unified Printing: Copying, Printing, and Scanning
- - [https://printing.uchicago.edu](https://printing.uchicago.edu)
- - date_published: 2024-05-07T20:52:35.256335+00:00
-
- ## Pritzker School of Medicine | The University of Chicago
- - [https://pritzker.uchicago.edu](https://pritzker.uchicago.edu)
- - date_published: 2024-05-07T20:45:56.669107+00:00
-
- ## University of Chicago Privacy Office – University of Chicago
- - [https://privacy.uchicago.edu](https://privacy.uchicago.edu)
- - date_published: 2024-06-29T21:18:56+00:00
-
- ## Welcome | Office of the Provost
- - [https://provost.uchicago.edu](https://provost.uchicago.edu)
- - date_published: 2024-05-07T14:14:06.624687+00:00
-
- ## Shibboleth Authentication Request
- - [https://proxy.uchicago.edu](https://proxy.uchicago.edu)
- - date_published: 2024-05-07T20:52:23.620802+00:00
-
- ## Department of Psychology Homepage | Department of Psychology
- - [https://psychology.uchicago.edu](https://psychology.uchicago.edu)
- - date_published: 2024-07-01T19:10:46+00:00
-
- ## Home | Chicago Quantum Exchange
- - [https://quantum.uchicago.edu](https://quantum.uchicago.edu)
- - date_published: 2024-06-27T19:41:01+00:00
-
- ## UCRadiology
- - [http://radiology.uchicago.edu](http://radiology.uchicago.edu)
- - date_published: 2024-06-26T22:49:45+00:00
-
- ## Office of Research Safety | The University of Chicago
- - [https://researchsafety.uchicago.edu](https://researchsafety.uchicago.edu)
- - date_published: 2024-07-01T22:37:24+00:00
-
- ## Reservations -
-        UChicago Library
- - [https://rooms.lib.uchicago.edu](https://rooms.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:29.917877+00:00
-
- ## Rose and Chess: Le Roman de la Rose and Le Jeu des échecs moralisé
- - [https://roseandchess.lib.uchicago.edu](https://roseandchess.lib.uchicago.edu)
- - date_published: 2024-04-30T06:27:14.763934+00:00
-
- ## Department of Safety & Security
- - [https://safety-security.uchicago.edu](https://safety-security.uchicago.edu)
- - date_published: 2024-06-29T21:18:55.424805+00:00
-
- ## The University of Chicago Environmental Health and Safety
- - [https://safety.uchicago.edu](https://safety.uchicago.edu)
- - date_published: 2024-07-01T22:36:29+00:00
-
- ## Scav Hunt
- - [http://scavhunt.uchicago.edu](http://scavhunt.uchicago.edu)
- - date_published: 2024-05-26T22:46:29+00:00
-
- ## Scheme and Functional Programming Workshop 2006 - Report
- - [http://scheme2006.cs.uchicago.edu](http://scheme2006.cs.uchicago.edu)
- - date_published: 2007-02-14T15:18:17+00:00
-
- ## Science and Liberalism: April 7-8, 2023 (5733 S. University Ave)
- - [https://scienceandliberalism.event.uchicago.edu](https://scienceandliberalism.event.uchicago.edu)
- - date_published: 2023-04-07T00:00:00+00:00
-
- ## BSD Information Security Office | BSD Information Security Office
- - [https://security.bsd.uchicago.edu](https://security.bsd.uchicago.edu)
- - date_published: 2024-05-07T20:45:55.184326+00:00
-
- ## IFK
- - [https://sifk.uchicago.edu](https://sifk.uchicago.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Homepage | The University of Chicago Division of the Social Sciences
- - [https://socialsciences.uchicago.edu](https://socialsciences.uchicago.edu)
- - date_published: 2024-07-01T20:58:14+00:00
-
- ## The Speculum Romanae Magnificentiae Digital Collection
- - [http://speculum.lib.uchicago.edu](http://speculum.lib.uchicago.edu)
- - date_published: 2023-02-17T16:28:13+00:00
-
- ## Spirituality Website – Sandbox | University of Chicago
- - [http://spirit.uchicago.edu](http://spirit.uchicago.edu)
- - date_published: 2024-07-01T22:38:51+00:00
-
- ## Department of Statistics | The University of Chicago
- - [https://stat.uchicago.edu](https://stat.uchicago.edu)
- - date_published: 2024-05-12T04:29:05.715527+00:00
-
- ## Stevanovich Center for Financial Mathematics | Stevanovich Center for Financial Mathematics
- - [https://stevanovichcenter.uchicago.edu](https://stevanovichcenter.uchicago.edu)
- - date_published: 2024-06-15T22:11:16.943534+00:00
-
- ## Student Manual | The University of Chicago
- - [https://studentmanual.uchicago.edu](https://studentmanual.uchicago.edu)
- - date_published: 2024-07-01T22:37:22+00:00
-
- ## | Study Abroad | The University of Chicago
- - [http://study-abroad.uchicago.edu](http://study-abroad.uchicago.edu)
- - date_published: 2024-07-01T19:28:44+00:00
-
- ## Welcome to the CCTL
- - [https://teaching.uchicago.edu](https://teaching.uchicago.edu)
- - date_published: 2024-07-01T22:33:26.876791+00:00
-
- ## Theory Group—University of Chicago Computer Science
- - [http://theory.cs.uchicago.edu](http://theory.cs.uchicago.edu)
- - date_published: 2024-06-22T10:54:04.395134+00:00
-
- ## UChicago - Sign In
- - [http://ucairapp.uchicago.edu](http://ucairapp.uchicago.edu)
- - date_published: 2024-07-01T22:37:17.268965+00:00
-
- ## UCAIR Accident/Incident Reporting System
- - [https://ucair.uchicago.edu](https://ucair.uchicago.edu)
- - date_published: 2024-05-07T20:47:02.755454+00:00
-
- ## The University of Chicago
- - [https://uchicago.edu](https://uchicago.edu)
- - date_published: 2024-05-07T20:47:12.944443+00:00
-
- ## University Community Service Center
- - [https://ucsc.uchicago.edu](https://ucsc.uchicago.edu)
- - date_published: 2024-07-01T22:33:07.511461+00:00
-
- ## UChicago CARES Website – Sandbox | University of Chicago
- - [https://umatter.uchicago.edu](https://umatter.uchicago.edu)
- - date_published: 2024-07-01T21:33:43+00:00
-
- ## IIS Windows Server
- - [https://uniflow-app-prd.uchicago.edu](https://uniflow-app-prd.uchicago.edu)
- - date_published: 2014-08-20T22:09:15+00:00
-
- ## UChicago Urban Labs
- - [http://urbanlabs.uchicago.edu](http://urbanlabs.uchicago.edu)
- - date_published: 2024-06-22T06:19:24.001911+00:00
-
- ## Visit UChicago – A Beautiful Campus in a World-Class City
- - [https://visit.uchicago.edu](https://visit.uchicago.edu)
- - date_published: 2024-05-07T20:47:08.194797+00:00
-
- ## UChicago Voices | A platform for sharing your voice
- - [https://voices.uchicago.edu](https://voices.uchicago.edu)
- - date_published: 2024-05-07T20:45:52.468264+00:00
-
- ## UChicago Website Resource Center | The University of Chicago
- - [https://websitesdev.uchicago.edu](https://websitesdev.uchicago.edu)
- - date_published: 2024-05-07T20:47:15.994608+00:00
-
- ## UChicago Website Resource Center | The University of Chicago
- - [https://websites.uchicago.edu](https://websites.uchicago.edu)
- - date_published: 2024-05-07T20:47:19.516737+00:00
-
- ## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://www2.lib.uchicago.edu](https://www2.lib.uchicago.edu)
- - date_published: 2023-10-25T19:00:18.639938+00:00
-
- ## Biological Sciences Division at the University of Chicago
- - [http://www.bsd.uchicago.edu](http://www.bsd.uchicago.edu)
- - date_published: 2024-07-01T17:58:41+00:00
-
- ## Homepage | University of Chicago Law School
- - [http://www.law.uchicago.edu](http://www.law.uchicago.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Institute for the Study of Ancient Cultures
- - [http://www-oi.uchicago.edu](http://www-oi.uchicago.edu)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Homepage
- - [https://www.ssa.uchicago.edu](https://www.ssa.uchicago.edu)
- - date_published: 2024-07-01T22:01:20+00:00
-
- ## Home | PSD Trailblazers
- - [https://www.trailblazers.psd.uchicago.edu](https://www.trailblazers.psd.uchicago.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## MyChart - Login Page
- - [https://mychart.uchospitals.edu](https://mychart.uchospitals.edu)
- - date_published: 2024-07-01T22:25:33.617598+00:00
 

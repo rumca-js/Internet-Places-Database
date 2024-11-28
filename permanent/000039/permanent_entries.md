@@ -1,3 +1,24 @@
+ ## Advocate.com
+ - [https://advocate.com](https://advocate.com)
+ - date_published: 2023-11-02T14:14:43.133390+00:00
+ - tags: ['transgender', 'lgbt', 'news']
+
+ ## Advocate Channel
+ - [https://advocatechannel.com](https://advocatechannel.com)
+ - date_published: 2024-05-01T02:29:33.022317+00:00
+
+ ## Exceptional Care Any Time, Any Where | Advocate Health Care:
+ - [https://advocatehealth.com](https://advocatehealth.com)
+ - date_published: 2024-07-02T13:18:45.971416+00:00
+
+ ## Fort Bragg Advocate-News
+ - [http://www.advocate-news.com](http://www.advocate-news.com)
+ - date_published: 2024-08-06T16:50:06.518880+00:00
+
+ ## rom
+ - [https://my.advocrazy.com](https://my.advocrazy.com)
+ - date_published: 2024-08-07T00:19:16+00:00
+
  ## Anunciarse en podcasts y video podcasts - AdVoices
  - [https://advoices.com](https://advoices.com)
  - date_published: 2024-07-20T22:54:21.108056+00:00
@@ -4001,25 +4022,4 @@
  ## Apply to Join the Air Force - U.S. Air Force
  - [https://my.airforce.com](https://my.airforce.com)
  - date_published: 2024-06-25T19:45:50+00:00
-
- ## U.S. Air Force
- - [https://www.airforce.com](https://www.airforce.com)
- - date_published: 2024-04-18T17:03:48+00:00
- - tags: ['avionics', 'aviation', 'aerospace']
-
- ## Air Force Auxiliary
- - [https://www.airforceaux.com](https://www.airforceaux.com)
- - date_published: 2024-06-26T11:34:31.002663+00:00
-
- ## Home | Air & Space Forces Magazine
- - [https://www.airforcemag.com](https://www.airforcemag.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Your aviation destination
- - [http://www.airforcesdaily.com](http://www.airforcesdaily.com)
- - date_published: 2024-07-09T22:07:44.460081+00:00
-
- ## AirForces Intelligence
- - [http://www.airforcesintel.com](http://www.airforcesintel.com)
- - date_published: 2024-07-09T22:00:58.273846+00:00
 

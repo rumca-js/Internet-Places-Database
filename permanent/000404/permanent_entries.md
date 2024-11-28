@@ -1,3 +1,266 @@
+ ## Oprogramowanie sklepu internetowego
+ - [https://www.web-market.pl](https://www.web-market.pl)
+ - date_published: 2024-10-07T22:43:09.282871+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [http://www.soulmaniak.webpark.pl](http://www.soulmaniak.webpark.pl)
+ - date_published: 2024-07-17T12:14:45.780400+00:00
+
+ ## Sprawdzanie pozycji w Google - monitoring pozycji WebPozycja
+ - [https://webpozycja.pl](https://webpozycja.pl)
+ - date_published: 2024-07-11T16:33:11.027159+00:00
+
+ ## Web Room Studio - responsywne strony www, logo, grafika do druku, branding, strony interentowe
+ - [http://webroomstudio.pl](http://webroomstudio.pl)
+ - date_published: 2024-08-06T18:39:26.471569+00:00
+
+ ## Webtailor - More In Site
+ - [https://webtailor.pl](https://webtailor.pl)
+ - date_published: 2023-07-10T00:00:00+00:00
+
+ ## Agencja interaktywna, software house | Webtom.pl
+ - [https://webtom.pl](https://webtom.pl)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Strona Start - Węglokoks Energia
+ - [https://weglokoksenergia.pl](https://weglokoksenergia.pl)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Weleda - W harmonii z człowiekiem i z naturą od pon - Weleda
+ - [https://www.weleda.pl](https://www.weleda.pl)
+ - date_published: 2024-07-19T20:47:42.407571+00:00
+
+ ## Well.pl - dobra strona życia. Miejsce ekskluzywnych treści
+ - [https://www.well.pl](https://www.well.pl)
+ - date_published: 2024-07-14T05:22:51.750320+00:00
+
+ ## KOSZULKI - WERYNAJS
+ - [http://www.werynajs.pl](http://www.werynajs.pl)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Internetowy sklep meblowy | Westwing
+ - [https://www.westwing.pl](https://www.westwing.pl)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## naprawa pc laptop
+ - [https://naprawapclaptop.wex.pl](https://naprawapclaptop.wex.pl)
+ - date_published: 2024-07-11T16:33:20.527305+00:00
+
+ ## www.ua.wex.pl
+ - [https://ua.wex.pl](https://ua.wex.pl)
+ - date_published: 2024-07-11T16:33:18.056920+00:00
+
+ ## WARSZAWSKI FESTIWAL FILMOWY
+ - [https://wff.pl](https://wff.pl)
+ - date_published: 2024-10-31T23:25:21.064928+00:00
+
+ ## Strona Główna - Wytwórnia Filmów Fabularnych we Wrocławiu
+ - [https://wffwroclaw.pl](https://wffwroclaw.pl)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Manager reklam
+ - [https://marketing.wfirma.pl](https://marketing.wfirma.pl)
+ - date_published: 2024-07-19T23:02:23.833384+00:00
+
+ ## Księgowość online dla samozatrudnionych, JGD, małych firm, spółek i biur rachunkowych - wFirma.pl
+ - [https://wfirma.pl](https://wfirma.pl)
+ - date_published: 2024-07-19T23:02:21.349831+00:00
+
+ ## WHAT IF Oficjalny sklep internetowy
+ - [https://sklep.whatif.pl](https://sklep.whatif.pl)
+ - date_published: 2024-05-08T03:18:51.089840+00:00
+
+ ## WHAT IF Artist Management
+ - [https://whatif.pl](https://whatif.pl)
+ - date_published: 2024-07-03T17:13:31.682517+00:00
+
+ ## whiblo
+ - [https://morele.whiblo.pl](https://morele.whiblo.pl)
+ - date_published: 2024-09-10T22:31:25+00:00
+
+ ## whiblo
+ - [https://pgl.whiblo.pl](https://pgl.whiblo.pl)
+ - date_published: 2024-05-09T11:50:36+00:00
+
+ ## Magazyn WhiteMAD - moda, architektura, design w jednym miejscu
+ - [https://www.whitemad.pl](https://www.whitemad.pl)
+ - date_published: 2024-07-19T21:56:06.215651+00:00
+
+ ## White Rabbit Tattoo – Studio tatuażu
+ - [http://whiterabbittattoo.pl](http://whiterabbittattoo.pl)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## White Tiger - Digital Partner
+ - [https://whitetiger.pl](https://whitetiger.pl)
+ - date_published: 2024-06-28T19:21:24.766007+00:00
+
+ ## Strona domeny whus.pl
+ - [http://egzystencja.whus.pl](http://egzystencja.whus.pl)
+ - date_published: 2024-06-29T22:26:20.604050+00:00
+
+ ## Wiadomoscihandlowe.pl – wszystko na temat rynku FMCG, handlu detalicznego i hurtowej sprzedaży żywności
+ - [https://www.wiadomoscihandlowe.pl](https://www.wiadomoscihandlowe.pl)
+ - date_published: 2024-06-25T21:31:08.547423+00:00
+
+ ## Wiadomości Spożywcze - rynek spożywczy, promocje, konkursy, wydarzenia
+ - [https://wiadomoscispozywcze.pl](https://wiadomoscispozywcze.pl)
+ - date_published: 2024-10-02T07:48:51.257093+00:00
+
+ ## Wiązar Polska - Wiązary Dachowe Drewniane Prefabrykowane Producent, Dźwigary
+ - [https://wiazarpolska.pl](https://wiazarpolska.pl)
+ - date_published: 2024-10-18T04:06:47.975337+00:00
+
+ ## WideoTłumacz PZG
+ - [https://um-lodz.wideotlumacz.pl](https://um-lodz.wideotlumacz.pl)
+ - date_published: 2023-06-23T06:46:46+00:00
+
+ ## Portal katolicki - chrześcijański - WieczorModlitwy.pl
+ - [http://www.wieczormodlitwy.pl](http://www.wieczormodlitwy.pl)
+ - date_published: 2024-07-17T07:09:00.531677+00:00
+
+ ## Strona główna - Wielka Litera
+ - [https://wielkalitera.pl](https://wielkalitera.pl)
+ - date_published: 2023-11-13T12:56:33.137385+00:00
+ - tags: ['book publisher']
+
+ ## Wielki Wschód Polski
+ - [https://wielkiwschod.pl](https://wielkiwschod.pl)
+ - date_published: 2023-12-27T10:57:16+00:00
+ - tags: ['freemasonry']
+
+ ## Wielkopolska Ciekawie
+ - [https://wielkopolskaciekawie.pl](https://wielkopolskaciekawie.pl)
+ - date_published: 2024-10-27T11:22:47.969183+00:00
+
+ ## Serwis Wielkopolskiego Regionalnego Programu Operacyjnego na lata 2014 - 2020
+ - [https://wrpo.wielkopolskie.pl](https://wrpo.wielkopolskie.pl)
+ - date_published: 2024-07-13T19:04:49.177456+00:00
+
+ ## Strona Główna - Konkurs fotograficzny UMWW
+ - [https://www.fotokonkurs.wielkopolskie.pl](https://www.fotokonkurs.wielkopolskie.pl)
+ - date_published: 2024-07-13T19:04:42+00:00
+
+ ## Koleje Wielkopolskie – bilety i rozkład pociągów
+ - [https://bilet.wielkopolskiebilety.pl](https://bilet.wielkopolskiebilety.pl)
+ - date_published: 2024-07-13T19:04:44.251547+00:00
+
+ ## Koleje Wielkopolskie – bilety i rozkład pociągów
+ - [https://wielkopolskiebilety.pl](https://wielkopolskiebilety.pl)
+ - date_published: 2024-09-13T17:56:33.885400+00:00
+
+ ## Wielkopolska i okolice - Wielkopolskie Wici
+ - [https://www.wielkopolskiewici.pl](https://www.wielkopolskiewici.pl)
+ - date_published: 2024-07-13T19:04:23.325863+00:00
+
+ ## Wielkopolski Indyk - Wielkopolski Indyk
+ - [https://wielkopolski-indyk.pl](https://wielkopolski-indyk.pl)
+ - date_published: 2023-08-02T00:00:00+00:00
+
+ ## Księgarnia internetowa Vivelo.pl  Sklep online
+ - [https://wiemiwybieram.pl](https://wiemiwybieram.pl)
+ - date_published: 2024-07-09T17:51:48.171262+00:00
+
+ ## Wierni-Ojczyznie.pl - blog patriotyczny
+ - [http://www.wierni-ojczyznie.pl](http://www.wierni-ojczyznie.pl)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Więź. Wiara, kultura, społeczeństwo
+ - [https://wiez.pl](https://wiez.pl)
+ - date_published: 2023-10-25T22:32:44.916878+00:00
+
+ ## Mariusz Pietrzyk (wijet)
+ - [https://wijet.pl](https://wijet.pl)
+ - date_published: 2018-06-15T00:00:00+00:00
+
+ ## Biuro Rachunkowe Lublin – Biuro Rachunkowe Lublin
+ - [https://wiki.pl](https://wiki.pl)
+ - date_published: 2024-07-14T17:24:08.102939+00:00
+
+ ## Wikimedia Polska – Wikimedia Polska to organizacja non profit, która wspiera rozwój polskiej Wikipedii i jej projektów siostrzanych (Wikisłownik, Wikiźródła, Wikidane, Wikimedia Commons i inne).
+ - [https://wikimedia.pl](https://wikimedia.pl)
+ - date_published: 2024-08-19T15:12:48.830546+00:00
+
+ ## Strona główna
+ - [https://mokzgierz.bip.wikom.pl](https://mokzgierz.bip.wikom.pl)
+ - date_published: 2024-06-28T19:20:57.104889+00:00
+
+ ## Przekierowanie - kariera
+ - [https://www.willistowerswatson.pl](https://www.willistowerswatson.pl)
+ - date_published: 2023-10-31T13:25:30+00:00
+
+ ## Strona główna - Wing Person
+ - [https://wingperson.pl](https://wingperson.pl)
+ - date_published: 2023-11-03T00:00:00+00:00
+
+ ## Facebook
+ - [http://winnica-uj.pl](http://winnica-uj.pl)
+ - date_published: 2024-07-15T06:35:09.497149+00:00
+
+ ## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
+ - [https://m.wirtualnemedia.pl](https://m.wirtualnemedia.pl)
+ - date_published: 2023-10-25T22:32:51.254215+00:00
+
+ ## Wirtualnemedia.pl - najnowsze informacje ze świata mediów, reklamy, marketingu, PR, internetu i badań.
+ - [https://tv.wirtualnemedia.pl](https://tv.wirtualnemedia.pl)
+ - date_published: 2024-08-18T16:48:49.627997+00:00
+
+ ## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
+ - [https://wirtualnemedia.pl](https://wirtualnemedia.pl)
+ - date_published: 2024-08-18T16:35:03+00:00
+
+ ## Bramy, okna, drzwi i ogrodzenia dla domu
+ - [https://www.wisniowski.pl](https://www.wisniowski.pl)
+ - date_published: 2024-07-09T13:23:48.537901+00:00
+
+ ## Teatr Witkacy
+ - [https://sendy.witkacy.pl](https://sendy.witkacy.pl)
+ - date_published: 2024-07-09T13:23:02.268336+00:00
+
+ ## Teatr Witkacy w Zakopanem
+ - [https://witkacy.pl](https://witkacy.pl)
+ - date_published: 2024-05-09T05:11:56.363824+00:00
+
+ ## Wizard's World • Strona główna forum
+ - [http://forum.wizardsworld.pl](http://forum.wizardsworld.pl)
+ - date_published: 2024-07-12T15:11:51.757131+00:00
+
+ ## Wykaz forów
+ - [http://wizardsworld.pl](http://wizardsworld.pl)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Największy portal urodowy w Polsce - opinie o kosmetykach, trendy w makijażu i pielęgnacji
+ - [https://wizaz.pl](https://wizaz.pl)
+ - date_published: 2024-06-20T07:15:00.986533+00:00
+
+ ## w Kazimierzu Dolnym.pl
+ - [http://www.wkazimierzudolnym.pl](http://www.wkazimierzudolnym.pl)
+ - date_published: 2024-08-19T21:19:01.774522+00:00
+
+ ## WKB Lawyers – Strona główna
+ - [https://wkb.pl](https://wkb.pl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Własny Kurs Online – lista oczekujących - Własny Kurs Online
+ - [https://wlasnykurs.pl](https://wlasnykurs.pl)
+ - date_published: 2024-01-29T12:31:26+00:00
+
+ ## Własny sklep online – Poznaj tajniki sprzedaży w internecie
+ - [https://www.wlasnyskleponline.pl](https://www.wlasnyskleponline.pl)
+ - date_published: 2024-07-10T02:22:58.840737+00:00
+
+ ## Sprawdź ile możesz zyskać z franczyzą Subwaya
+ - [https://www.wlasnysubway.pl](https://www.wlasnysubway.pl)
+ - date_published: 2020-10-20T00:00:00+00:00
+
+ ## Strona Główna – Wielkopolska 112
+ - [https://wlkp112.pl](https://wlkp112.pl)
+ - date_published: 2023-10-30T13:20:56.991457+00:00
+
+ ## https://wlnp.pl
+ - [https://wlnp.pl](https://wlnp.pl)
+ - date_published: 2007-02-06T19:51:23+00:00
+ - tags: ['freemasonry']
+
  ## Włóczęga.pl - sklep dla miłośników gór, lasów i podróży
  - [https://wloczega.pl](https://wloczega.pl)
  - date_published: 2023-12-28T11:15:02+00:00
@@ -3774,264 +4037,4 @@
  ## Blogger
  - [http://deterdeondeseir.blogspot.pt](http://deterdeondeseir.blogspot.pt)
  - date_published: 2024-07-12T21:12:36.618297+00:00
-
- ## sinfonia para homens bons
- - [http://dianasan.blogspot.pt](http://dianasan.blogspot.pt)
- - date_published: 2024-07-04T05:54:59+00:00
-
- ## DIVAS & CONTRABAIXOS
- - [http://divasecontrabaixos.blogspot.pt](http://divasecontrabaixos.blogspot.pt)
- - date_published: 2024-07-11T18:56:35+00:00
-
- ## BAR DO BARDO
- - [http://dobardo.blogspot.pt](http://dobardo.blogspot.pt)
- - date_published: 2024-07-05T12:05:14+00:00
-
- ## doce de lira
- - [http://docedelira.blogspot.pt](http://docedelira.blogspot.pt)
- - date_published: 2024-05-24T19:40:10+00:00
-
- ## LACAIO DA POESIA
- - [http://domingosbarroso.blogspot.pt](http://domingosbarroso.blogspot.pt)
- - date_published: 2024-07-03T01:41:48+00:00
-
- ## A espessura do tempo
- - [http://domingosmota.blogspot.pt](http://domingosmota.blogspot.pt)
- - date_published: 2024-07-12T16:05:08+00:00
-
- ## DOWN THE KIPPAX STEPS
- - [http://downthekippaxsteps.blogspot.pt](http://downthekippaxsteps.blogspot.pt)
- - date_published: 2024-10-21T15:54:46.496461+00:00
-
- ## Voz
- - [http://driaguida.blogspot.pt](http://driaguida.blogspot.pt)
- - date_published: 2024-06-07T07:20:20+00:00
-
- ## Na distração eu viro pó...
- - [http://editandoasaudade.blogspot.pt](http://editandoasaudade.blogspot.pt)
- - date_published: 2024-07-12T00:20:41+00:00
-
- ## Entresaber-nos
- - [http://entresaber-nos.blogspot.pt](http://entresaber-nos.blogspot.pt)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Dardo
- - [http://esteeodardo.blogspot.pt](http://esteeodardo.blogspot.pt)
- - date_published: 2024-03-19T22:04:05+00:00
-
- ## rascunho
- - [http://etnosabores.blogspot.pt](http://etnosabores.blogspot.pt)
- - date_published: 2024-03-14T04:07:44+00:00
-
- ## exercícios de esquecimento
- - [http://exerciciosdeesquecimento.blogspot.pt](http://exerciciosdeesquecimento.blogspot.pt)
- - date_published: 2023-07-18T05:10:52+00:00
-
- ## Feita em versos
- - [http://feitaemversos.blogspot.pt](http://feitaemversos.blogspot.pt)
- - date_published: 2024-03-13T17:30:18+00:00
-
- ## HF diante do espelho
- - [http://fernandeshercilia.blogspot.pt](http://fernandeshercilia.blogspot.pt)
- - date_published: 2024-06-29T13:48:48+00:00
-
- ## Filacteras Maravilhosas
- - [http://filacteras.blogspot.pt](http://filacteras.blogspot.pt)
- - date_published: 2024-06-27T23:41:19+00:00
-
- ## O FILÓSOFO E O FANFARRÃO
- - [http://filofanfa.blogspot.pt](http://filofanfa.blogspot.pt)
- - date_published: 2024-02-07T06:35:10+00:00
-
- ## Blogger
- - [http://fredcaju.blogspot.pt](http://fredcaju.blogspot.pt)
- - date_published: 2024-07-12T20:59:20.912911+00:00
-
- ## (F)utilidades
- - [http://f-utilidades.blogspot.pt](http://f-utilidades.blogspot.pt)
- - date_published: 2024-03-22T03:56:03+00:00
-
- ## Haicai e Não Machuca
- - [http://haicaienaomachuca.blogspot.pt](http://haicaienaomachuca.blogspot.pt)
- - date_published: 2024-07-04T06:25:36+00:00
-
- ## haikainosventos
- - [http://haikainosventos.blogspot.pt](http://haikainosventos.blogspot.pt)
- - date_published: 2024-03-14T03:26:20+00:00
-
- ## Imagens com Texto
- - [http://imagenscomtexto.blogspot.pt](http://imagenscomtexto.blogspot.pt)
- - date_published: 2024-07-12T00:41:00+00:00
-
- ## Jorge Elias Neto
- - [http://jeliasneto.blogspot.pt](http://jeliasneto.blogspot.pt)
- - date_published: 2024-03-14T08:50:26+00:00
-
- ## diferentes egos
- - [http://joaoimenes.blogspot.pt](http://joaoimenes.blogspot.pt)
- - date_published: 2024-03-20T13:13:23+00:00
-
- ## JUPITER 88
- - [http://jupiter88poetry.blogspot.pt](http://jupiter88poetry.blogspot.pt)
- - date_published: 2024-07-04T06:06:51+00:00
-
- ## kas1e's blog
- - [http://kas1e.blogspot.pt](http://kas1e.blogspot.pt)
- - date_published: 2024-08-29T06:03:17+00:00
-
- ## Skylover
- - [http://kerryoconnorpoems.blogspot.pt](http://kerryoconnorpoems.blogspot.pt)
- - date_published: 2024-04-02T06:11:22+00:00
-
- ## Kyrie Eleison
- - [http://kyrieeleison-jcm.blogspot.pt](http://kyrieeleison-jcm.blogspot.pt)
- - date_published: 2024-07-11T23:03:25+00:00
-
- ## LINDA GRAAL
- - [http://lindagraal.blogspot.pt](http://lindagraal.blogspot.pt)
- - date_published: 2024-07-05T05:57:56+00:00
-
- ## Los 7 ahorcados
- - [http://los7ahorcados.blogspot.pt](http://los7ahorcados.blogspot.pt)
- - date_published: 2024-03-13T03:10:18+00:00
-
- ## Luís Filipe Cristóvão
- - [http://luisfilipecristovao.blogspot.pt](http://luisfilipecristovao.blogspot.pt)
- - date_published: 2024-07-04T06:39:39+00:00
-
- ## mainieri's
- - [http://mainieri.blogspot.pt](http://mainieri.blogspot.pt)
- - date_published: 2024-06-28T06:06:36+00:00
-
- ## MAR ARÁVEL
- - [http://mararavel.blogspot.pt](http://mararavel.blogspot.pt)
- - date_published: 2024-07-02T10:07:58+00:00
-
- ## itinerário
- - [http://marciaslmaia.blogspot.pt](http://marciaslmaia.blogspot.pt)
- - date_published: 2024-03-05T13:12:38+00:00
-
- ## Literal-mente
- - [http://mariapaulaalvim.blogspot.pt](http://mariapaulaalvim.blogspot.pt)
- - date_published: 2024-03-22T00:41:24+00:00
-
- ## Milonga
- - [http://milongalamuria.blogspot.pt](http://milongalamuria.blogspot.pt)
- - date_published: 2024-03-21T01:36:51+00:00
-
- ## Praia de Bote
- - [http://mindelosempre.blogspot.pt](http://mindelosempre.blogspot.pt)
- - date_published: 2024-07-05T21:18:08+00:00
-
- ## Fases da Lua
- - [http://minervaisa.blogspot.pt](http://minervaisa.blogspot.pt)
- - date_published: 2024-04-12T05:14:27+00:00
-
- ## Rascunhos...
- - [http://mirtesrodrigues.blogspot.pt](http://mirtesrodrigues.blogspot.pt)
- - date_published: 2024-06-25T07:43:50+00:00
-
- ## Momentos Arrepiados Pelo Vento
- - [http://momentosarrepiadospelovento.blogspot.pt](http://momentosarrepiadospelovento.blogspot.pt)
- - date_published: 2015-08-24T00:00:00+00:00
-
- ## monstros antigos
- - [http://monstrosantigos.blogspot.pt](http://monstrosantigos.blogspot.pt)
- - date_published: 2024-06-22T05:30:26+00:00
-
- ## Morcegos & olhimancos
- - [http://morcegoseolhimancos.blogspot.pt](http://morcegoseolhimancos.blogspot.pt)
- - date_published: 2024-07-11T22:57:50+00:00
-
- ## Das páginas rasuradas...
- - [http://mrodriguesssalles.blogspot.pt](http://mrodriguesssalles.blogspot.pt)
- - date_published: 2024-02-08T11:30:43+00:00
-
- ## Mundo Pessoa
- - [https://mundopessoa.blogspot.pt](https://mundopessoa.blogspot.pt)
- - date_published: 2024-03-05T08:02:12+00:00
-
- ## Sangra...
- - [http://naverve.blogspot.pt](http://naverve.blogspot.pt)
- - date_published: 2024-03-13T11:22:18+00:00
-
- ## a poema
- - [http://ninaarizzi.blogspot.pt](http://ninaarizzi.blogspot.pt)
- - date_published: 2024-07-04T06:02:42+00:00
-
- ## no rastro da poesia...
- - [http://norastrodapoesia.blogspot.pt](http://norastrodapoesia.blogspot.pt)
- - date_published: 2024-03-13T02:57:15+00:00
-
- ## o brilho o mar  o bálsamo
- - [http://obrilhomar.blogspot.pt](http://obrilhomar.blogspot.pt)
- - date_published: 2024-02-20T01:32:05+00:00
-
- ## Olhares(in)Vãos
- - [http://olharemversoseinversos.blogspot.pt](http://olharemversoseinversos.blogspot.pt)
- - date_published: 2024-05-24T19:40:35+00:00
-
- ## Ortografia do olhar
- - [http://ortografiadoolhar.blogspot.pt](http://ortografiadoolhar.blogspot.pt)
- - date_published: 2024-07-12T16:46:48+00:00
-
- ## Caleidoscópios
- - [http://oscaleidoscopios.blogspot.pt](http://oscaleidoscopios.blogspot.pt)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## desenhar palavras
- - [http://pensacontra.blogspot.pt](http://pensacontra.blogspot.pt)
- - date_published: 2024-03-13T17:17:38+00:00
-
- ## Poems Found in Translation
- - [http://poemsintranslation.blogspot.pt](http://poemsintranslation.blogspot.pt)
- - date_published: 2024-07-11T22:49:55+00:00
-
- ## Poesia Veneno Antimonotonia
- - [http://poesiaantimonotonia.blogspot.pt](http://poesiaantimonotonia.blogspot.pt)
- - date_published: 2024-03-13T11:11:32+00:00
-
- ## Poesia: Falsidade Ideológica
- - [http://poesiafalsidadeideologica.blogspot.pt](http://poesiafalsidadeideologica.blogspot.pt)
- - date_published: 2024-03-05T07:13:39+00:00
-
- ## POESIA RETRÔ
- - [http://poesiaretro.blogspot.pt](http://poesiaretro.blogspot.pt)
- - date_published: 2024-07-11T22:50:50+00:00
-
- ## "POESIAS SOLTAS"
- - [http://poesiasecasos.blogspot.pt](http://poesiasecasos.blogspot.pt)
- - date_published: 2024-06-23T14:18:15+00:00
-
- ## Poesias Misticas e Esotericas
- - [http://poesiasmisticaseesotericas.blogspot.pt](http://poesiasmisticaseesotericas.blogspot.pt)
- - date_published: 2024-07-04T05:31:52+00:00
-
- ## Blogger
- - [http://poeticaria-ensaiodaspalavras.blogspot.pt](http://poeticaria-ensaiodaspalavras.blogspot.pt)
- - date_published: 2024-07-12T21:03:48.052085+00:00
-
- ## Blogger
- - [http://portaparalugarnenhum.blogspot.pt](http://portaparalugarnenhum.blogspot.pt)
- - date_published: 2024-07-12T20:59:43.338674+00:00
-
- ## Tudo o que eu puder ouvir
- - [http://proginprogress.blogspot.pt](http://proginprogress.blogspot.pt)
- - date_published: 2024-07-11T22:47:14+00:00
-
- ## Prosa & Glosa
- - [http://prosaeglosa.blogspot.pt](http://prosaeglosa.blogspot.pt)
- - date_published: 2024-07-11T18:32:46+00:00
-
- ## Quase Poemas
- - [http://quasepoemas.blogspot.pt](http://quasepoemas.blogspot.pt)
- - date_published: 2024-07-06T20:43:58+00:00
-
- ## Restos de Colecção
- - [http://restosdecoleccao.blogspot.pt](http://restosdecoleccao.blogspot.pt)
- - date_published: 2024-07-11T22:56:04+00:00
-
- ## ROSE  DIAS / POEMAS/ TEXTOS
- - [http://rosejd.blogspot.pt](http://rosejd.blogspot.pt)
- - date_published: 2024-03-19T09:18:46+00:00
 

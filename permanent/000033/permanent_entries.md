@@ -1,3 +1,19 @@
+ ## peer into the future
+ - [http://www.sensorica.co](http://www.sensorica.co)
+ - date_published: 2024-09-12T19:38:49.801638+00:00
+
+ ## Sentinel
+ - [https://www.sentinel.co](https://www.sentinel.co)
+ - date_published: 2024-09-25T14:47:34.414789+00:00
+
+ ## SEO Company | SEO Agency | Best SEO Services by SEO.co
+ - [https://seo.co](https://seo.co)
+ - date_published: 2024-10-22T15:01:38.533150+00:00
+
+ ## SEO Agentur | Agentur für Suchmaschinenoptimierung
+ - [http://www.seo-team.co](http://www.seo-team.co)
+ - date_published: 2024-07-16T17:48:12+00:00
+
  ## White Label SEO AI Services & Software Marketing Platform - Sign Up for Free
  - [https://cdn.seovendor.co](https://cdn.seovendor.co)
  - date_published: 2024-10-30T10:20:03+00:00
@@ -823,6 +839,11 @@
  ## Buddhism for AI Course
  - [https://buddhismforai.sutra.co](https://buddhismforai.sutra.co)
  - date_published: 2024-09-12T18:32:31.865405+00:00
+
+ ## Pigs Can Fly Too
+ - [https://svemir.co](https://svemir.co)
+ - date_published: 2024-11-27T10:58:51+00:00
+ - tags: ['personal', 'blog']
 
  ## Swift | A Social First Agency
  - [https://swift.co](https://swift.co)
@@ -4001,24 +4022,4 @@
  ## Inicio
  - [https://javerianacali.edu.co](https://javerianacali.edu.co)
  - date_published: 2019-12-19T13:50:00+00:00
-
- ## OneGate
- - [https://mg-local.servicios.javerianacali.edu.co](https://mg-local.servicios.javerianacali.edu.co)
- - date_published: 2024-09-11T16:59:15.161310+00:00
-
- ## Servicios PQRSF
- - [https://pqrsf.javerianacali.edu.co](https://pqrsf.javerianacali.edu.co)
- - date_published: 2023-09-12T16:58:14+00:00
-
- ## Conoce nuestros cursos y diplomados
- - [https://virtual.javerianacali.edu.co](https://virtual.javerianacali.edu.co)
- - date_published: 2024-06-12T11:01:33.641762+00:00
-
- ## Vive en Cali | Javeriana Cali
- - [https://vivirencali.javerianacali.edu.co](https://vivirencali.javerianacali.edu.co)
- - date_published: 2024-05-30T23:00:03+00:00
-
- ## SISTEMA ORGANIZACIONAL FINANCIERO & ACADEMICO ADMINISTRATIVO - SOF&A
- - [https://academico.juanncorpas.edu.co](https://academico.juanncorpas.edu.co)
- - date_published: 2024-06-12T10:57:42.814362+00:00
 

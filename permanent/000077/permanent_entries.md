@@ -1,3 +1,44 @@
+ ## Learn Swedish with Coffee Break Swedish
+ - [http://coffeebreakswedish.com](http://coffeebreakswedish.com)
+ - date_published: 2021-03-13T00:00:00+00:00
+
+ ## Coffee Break TV
+ - [https://coffeebreaktv.com](https://coffeebreaktv.com)
+ - date_published: 2024-06-22T23:35:18.504918+00:00
+
+ ## CoffeeCup College
+ - [https://college.coffeecup.com](https://college.coffeecup.com)
+ - date_published: 2024-10-19T04:21:15.095721+00:00
+
+ ## Responsive Components
+ - [https://components.coffeecup.com](https://components.coffeecup.com)
+ - date_published: 2024-10-19T04:21:12.814109+00:00
+
+ ## Responsive Themes
+ - [https://themes.coffeecup.com](https://themes.coffeecup.com)
+ - date_published: 2024-10-19T04:21:17.925762+00:00
+
+ ## Web Design and Development Tutorials
+ - [https://tutorials.coffeecup.com](https://tutorials.coffeecup.com)
+ - date_published: 2024-10-19T04:21:05.869149+00:00
+
+ ## Responsive Design Software, HTML Editor & CSS Grid Tools
+ - [http://www.coffeecup.com](http://www.coffeecup.com)
+ - date_published: 2024-06-17T11:55:52.914066+00:00
+
+ ## Coffee Fellows
+ - [https://www.coffee-fellows.com](https://www.coffee-fellows.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Coffee Fest - The Resource for Independent Specialty Coffee Businesses
+ - [https://www.coffeefest.com](https://www.coffeefest.com)
+ - date_published: 2024-07-16T23:09:06.874023+00:00
+
+ ## Coffee For The Brain
+ - [https://coffeeforthebrain.com](https://coffeeforthebrain.com)
+ - date_published: 2023-12-03T15:55:03.673637+00:00
+ - tags: ['personal']
+
  ## Coffee Ipsum
  - [http://coffeeipsum.com](http://coffeeipsum.com)
  - date_published: 2024-06-26T07:19:09.799610+00:00
@@ -2171,6 +2212,10 @@ Glass, Collectibles
  - [https://www.coloringonline.com](https://www.coloringonline.com)
  - date_published: 2024-07-11T13:12:36.318708+00:00
 
+ ## Free Coloring Pages for Kids and Adults | ColoringsAI
+ - [https://www.coloringsai.com](https://www.coloringsai.com)
+ - date_published: 2024-11-27T17:34:32.991327+00:00
+
  ## WordPress Themes & Website Templates - Colorlib
  - [https://colorlib.com](https://colorlib.com)
  - date_published: 2024-04-29T03:27:13.652879+00:00
@@ -3996,48 +4041,4 @@ Colyvan's Homepage
  ## コンパイルハート
  - [http://www.compileheart.com](http://www.compileheart.com)
  - date_published: 2024-10-25T10:39:01.172801+00:00
-
- ## Abdur-Rahmaan Janhangeer
- - [https://compileralchemy.com](https://compileralchemy.com)
- - date_published: 2023-10-25T13:32:19.285480+00:00
-
- ## Writing A Compiler In Go | Thorsten Ball
- - [https://compilerbook.com](https://compilerbook.com)
- - date_published: 2024-06-22T20:16:59.761721+00:00
-
- ## Compiler Explorer
- - [http://compiler-explorer.com](http://compiler-explorer.com)
- - date_published: 2024-08-17T23:52:03.697677+00:00
-
- ## Grafana
- - [https://stats.compiler-explorer.com](https://stats.compiler-explorer.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Compilers for Humans
- - [https://compilersforhumans.com](https://compilersforhumans.com)
- - date_published: 2024-06-19T02:24:16.448844+00:00
-
- ## Learning and sharing Swift and Apple development.
- - [https://www.compileswift.com](https://www.compileswift.com)
- - date_published: 2024-06-23T15:30:20.480055+00:00
-
- ## Computational Journalism | At the Tow Center for Digital Journalism
- - [https://compjournalism.com](https://compjournalism.com)
- - date_published: 2024-05-12T07:12:17.633663+00:00
-
- ## Complete Colorado
- - [https://pagetwo.completecolorado.com](https://pagetwo.completecolorado.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## C# Tutorial and Programming
- - [https://www.completecsharptutorial.com](https://www.completecsharptutorial.com)
- - date_published: 2024-10-22T18:38:18.347769+00:00
-
- ## Reviews of people and businesses you can trust
- - [https://completed.com](https://completed.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## CrowdFarmer
- - [https://crowd.completefarmer.com](https://crowd.completefarmer.com)
- - date_published: 2020-12-04T14:16:19+00:00
 

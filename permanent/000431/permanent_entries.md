@@ -1,3 +1,267 @@
+ ## Pushing Society Forward - Red Beard Ventures
+ - [https://redbeard.ventures](https://redbeard.ventures)
+ - date_published: 2023-12-11T00:00:00+00:00
+
+ ## Roots Ventures
+ - [https://roots.ventures](https://roots.ventures)
+ - date_published: 2024-09-25T10:15:37.898537+00:00
+
+ ## Community Owned Networks | Seed Club Ventures
+ - [https://seedclub.ventures](https://seedclub.ventures)
+ - date_published: 2024-06-28T22:48:11.174552+00:00
+
+ ## Aside, Inc.
+ - [https://silverback.ventures](https://silverback.ventures)
+ - date_published: 2024-08-19T16:33:46.547853+00:00
+
+ ## SLAM Ventures
+ - [https://slam.ventures](https://slam.ventures)
+ - date_published: 2024-09-05T12:57:26.099636+00:00
+
+ ## Starboard FVM Explorer
+ - [https://fvm.starboard.ventures](https://fvm.starboard.ventures)
+ - date_published: 2024-09-23T12:16:20.691083+00:00
+
+ ## Starboard | Economic Network Design and Analytics
+ - [https://www.starboard.ventures](https://www.starboard.ventures)
+ - date_published: 2024-06-16T03:50:02.224454+00:00
+
+ ## Official Global Website  | Stellantis Ventures
+ - [https://stellantis.ventures](https://stellantis.ventures)
+ - date_published: 2024-04-02T15:53:08+00:00
+
+ ## Tangent
+ - [https://www.tangent.ventures](https://www.tangent.ventures)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## home - Techcelerate Ventures
+ - [https://techcelerate.ventures](https://techcelerate.ventures)
+ - date_published: 2020-10-10T15:40:23+00:00
+
+ ## Theory Ventures
+ - [https://theory.ventures](https://theory.ventures)
+ - date_published: 2024-05-06T20:03:49.400095+00:00
+
+ ## Toyota Ventures
+ - [https://toyota-ai.ventures](https://toyota-ai.ventures)
+ - date_published: 2024-06-25T17:38:16+00:00
+
+ ## TX Ventures
+ - [https://www.tx.ventures](https://www.tx.ventures)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Expert Flutter App Development | Very Good Ventures
+ - [https://verygood.ventures](https://verygood.ventures)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## WebRTC.ventures
+ - [https://webrtc.ventures](https://webrtc.ventures)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## YAK Ventures - The Personal Website of Sean Hayes
+ - [https://yak.ventures](https://yak.ventures)
+ - date_published: 2023-12-14T09:18:04.765049+00:00
+ - tags: ['personal']
+
+ ## Otto: Veterinary Workflow Platform
+ - [https://otto.vet](https://otto.vet)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Project 25
+ - [http://project25.vet](http://project25.vet)
+ - date_published: 2024-06-27T03:59:30.510627+00:00
+
+ ## Open RuneScape Classic
+ - [https://rsc.vet](https://rsc.vet)
+ - date_published: 2023-10-25T23:00:30.748398+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.e.vg](https://www.e.vg)
+ - date_published: 2024-07-04T17:56:02.102129+00:00
+
+ ## Grafika Google
+ - [https://images.google.vg](https://images.google.vg)
+ - date_published: 2024-07-20T07:38:40.851964+00:00
+
+ ## Google
+ - [https://www.google.vg](https://www.google.vg)
+ - date_published: 2024-06-21T22:25:35.119612+00:00
+
+ ## Library Genesis
+ - [https://libgen.vg](https://libgen.vg)
+ - date_published: 2024-06-23T20:32:23.910590+00:00
+
+ ## Read-Only Memory
+ - [https://readonlymemory.vg](https://readonlymemory.vg)
+ - date_published: 2023-10-25T23:00:35.745338+00:00
+ - tags: ['games', 'retro games', 'amiga']
+
+ ## ritter.vg
+ - [https://ritter.vg](https://ritter.vg)
+ - date_published: 2024-04-28T03:52:18.776828+00:00
+
+ ## Score VG
+ - [http://score.vg](http://score.vg)
+ - date_published: 2022-08-09T06:43:18+00:00
+
+ ## SCROLL
+ - [https://scroll.vg](https://scroll.vg)
+ - date_published: 2024-07-02T21:03:52.822814+00:00
+
+ ## Transhuman Design
+ - [https://pr.thd.vg](https://pr.thd.vg)
+ - date_published: 2011-09-01T00:00:00+00:00
+
+ ## Index of /
+ - [https://static.thd.vg](https://static.thd.vg)
+ - date_published: 2024-07-18T17:59:01.768537+00:00
+
+ ## Transhuman Design – Come with us if you want to play!
+ - [https://thd.vg](https://thd.vg)
+ - date_published: 2024-07-18T17:59:03.744956+00:00
+
+ ## TRITON - ทำกำไรเกม SLOT
+ - [https://triton.vg](https://triton.vg)
+ - date_published: 2024-05-09T06:56:19.281509+00:00
+
+ ## wiki.vg
+ - [https://wiki.vg](https://wiki.vg)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Online Email and Social Marketing From Zoho
+ - [https://zc.vg](https://zc.vg)
+ - date_published: 2023-12-18T11:37:24+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.vi](https://maps.google.co.vi)
+ - date_published: 2024-07-20T07:41:00.859251+00:00
+
+ ## Google
+ - [https://www.google.co.vi](https://www.google.co.vi)
+ - date_published: 2024-06-21T22:25:37.130128+00:00
+
+ ## Jim Kring – Medium
+ - [https://create.vi](https://create.vi)
+ - date_published: 2024-07-14T10:31:50.208452+00:00
+
+ ## Tanvi Chheda · California, USA
+ - [https://tan.vi](https://tan.vi)
+ - date_published: 2018-09-21T18:31:22+00:00
+
+ ## Show HN: 1-FPS encrypted screen sharing for introverts
+ - [https://1fps.video](https://1fps.video)
+ - date_published: 2024-08-06T17:36:10+00:00
+
+ ## Professionelles Streaming & Video Hosting - DSGVO Konform | 3Q
+ - [https://3q.video](https://3q.video)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## AutoEditor
+ - [https://autoeditor.video](https://autoeditor.video)
+ - date_published: 2024-08-06T20:31:34+00:00
+ - tags: ['video editor']
+
+ ## Auvious
+ - [https://auvious.video](https://auvious.video)
+ - date_published: 2024-08-08T16:41:41.941024+00:00
+
+ ## Cierpliwości...
+ - [https://banned.video](https://banned.video)
+ - date_published: 2024-05-08T03:35:56.598721+00:00
+
+ ## Custom Domain by Bitly
+ - [https://bcove.video](https://bcove.video)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Webbed Briefs
+ - [https://briefs.video](https://briefs.video)
+ - date_published: 2023-10-25T23:00:37.509398+00:00
+
+ ## Interactive In- & Outstream Campaigns | Clipflip Interactive Video Advertising
+ - [https://clipflip.video](https://clipflip.video)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Clipflip Interactive Video status
+ - [https://status.clipflip.video](https://status.clipflip.video)
+ - date_published: 2024-06-25T22:37:12.475616+00:00
+
+ ## Community Video
+ - [https://communitymedia.video](https://communitymedia.video)
+ - date_published: 2024-06-14T18:34:09.203617+00:00
+
+ ## Faceless AI Videos | Generate & Monetize Faceless Videos | Consistent AI
+ - [https://consistentai.video](https://consistentai.video)
+ - date_published: 2024-09-13T20:29:50.677277+00:00
+
+ ## Cosmos - Spaces to hangout, collaborate & learn from each other
+ - [https://cosmos.video](https://cosmos.video)
+ - date_published: 2024-10-28T10:48:51+00:00
+
+ ## Digitalcourage
+ - [https://digitalcourage.video](https://digitalcourage.video)
+ - date_published: 2024-06-28T21:50:34.520695+00:00
+
+ ## Economics Media Library
+ - [https://econ.video](https://econ.video)
+ - date_published: 2024-08-06T23:07:56+00:00
+
+ ## Edit • Video
+ - [https://edit.video](https://edit.video)
+ - date_published: 2024-09-04T08:57:21+00:00
+
+ ## Electrify Website
+ - [https://www.electrify.video](https://www.electrify.video)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## E-Planning
+ - [https://hls.e-planning.video](https://hls.e-planning.video)
+ - date_published: 2010-01-08T21:22:41+00:00
+
+ ## Online Tool to Remove Logos, Texts, and Watermarks from Videos
+ - [https://erase.video](https://erase.video)
+ - date_published: 2024-10-30T22:49:55.527244+00:00
+
+ ## Fathom - Free AI Notetaker
+ - [https://fathom.video](https://fathom.video)
+ - date_published: 2024-06-19T19:25:51.325617+00:00
+
+ ## Fathom Video Status
+ - [https://status.fathom.video](https://status.fathom.video)
+ - date_published: 2024-10-30T11:34:07.949402+00:00
+
+ ## Trust Center
+ - [https://trust.fathom.video](https://trust.fathom.video)
+ - date_published: 2024-10-30T11:34:19.498115+00:00
+
+ ## Flipboard PeerTube
+ - [https://flipboard.video](https://flipboard.video)
+ - date_published: 2024-10-26T11:51:04.186767+00:00
+
+ ## Foss.video
+ - [https://foss.video](https://foss.video)
+ - date_published: 2024-05-08T03:14:30.342804+00:00
+
+ ## Frigate
+ - [https://demo.frigate.video](https://demo.frigate.video)
+ - date_published: 2024-05-11T05:39:19.080666+00:00
+
+ ## Introduction | Frigate
+ - [https://docs.frigate.video](https://docs.frigate.video)
+ - date_published: 2024-05-11T05:39:20.019440+00:00
+
+ ## Frigate: Open-source network video recorder with real-time AI object detection
+ - [https://frigate.video](https://frigate.video)
+ - date_published: 2023-11-18T16:44:44+00:00
+ - tags: ['frigate', 'open source']
+
+ ## Frigate+ | Premium Services for Frigate NVR
+ - [https://plus.frigate.video](https://plus.frigate.video)
+ - date_published: 2024-05-11T05:39:17.239167+00:00
+
+ ## Behind The Crest | USMNT Preps For Summer 2024 Versus Colombia And Brazil
+ - [https://ussoccer.gallery.video](https://ussoccer.gallery.video)
+ - date_published: 2024-07-07T05:03:11.401671+00:00
+
  ## Coming Soon
  - [https://hackernoon.video](https://hackernoon.video)
  - date_published: 2024-07-17T16:19:49.473639+00:00
@@ -3767,268 +4031,4 @@
  ## ewen.works
  - [https://ewen.works](https://ewen.works)
  - date_published: 2024-05-09T08:25:38.105158+00:00
-
- ## ewen.works
- - [https://fr.ewen.works](https://fr.ewen.works)
- - date_published: 2024-07-10T10:02:09.185259+00:00
-
- ## ewen's files
- - [https://media.ewen.works](https://media.ewen.works)
- - date_published: 2024-07-10T10:02:11.966543+00:00
-
- ## Plausible · Web analytics
- - [https://stats.ewen.works](https://stats.ewen.works)
- - date_published: 2024-07-10T10:02:11.026437+00:00
-
- ## FusionWorks | Outstaffing and outsourcing since 2011
- - [https://fusion.works](https://fusion.works)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Generative AI
- - [https://genai.works](https://genai.works)
- - date_published: 2024-06-19T20:05:37.404063+00:00
-
- ## Greaterthan
- - [https://www.greaterthan.works](https://www.greaterthan.works)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## How DNS works. What is DNS? Learn how step by step.
- - [https://howdns.works](https://howdns.works)
- - date_published: 2024-06-16T14:03:34.669601+00:00
-
- ## How HTTPS Works
- - [https://howhttps.works](https://howhttps.works)
- - date_published: 2024-06-16T14:03:29.164904+00:00
- - tags: ['internet', 'https']
-
- ## S.T Huang Works
- - [https://huangshihting.works](https://huangshihting.works)
- - date_published: 2022-01-10T07:15:48+00:00
-
- ## Huddle
- - [https://www.huddle.works](https://www.huddle.works)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Hum - Harness the power of your data
- - [https://cra.hum.works](https://cra.hum.works)
- - date_published: 2024-04-29T02:31:30.771108+00:00
-
- ## Hum - Harness the power of your data
- - [https://ieee.hum.works](https://ieee.hum.works)
- - date_published: 2024-08-18T18:59:08.655354+00:00
-
- ## AI & Data Intelligence | Hum
- - [https://www.hum.works](https://www.hum.works)
- - date_published: 2024-08-06T10:20:44.965501+00:00
-
- ## Most testing is ineffective - Hypothesis
- - [https://hypothesis.works](https://hypothesis.works)
- - date_published: 2024-05-01T07:47:13.672209+00:00
-
- ## HYVE: Your One-Stop Freelancing Marketplace for Jobs, Tasks, and Digital Items with Lowest Fees
- - [https://www.hyve.works](https://www.hyve.works)
- - date_published: 2024-10-30T18:13:54.541401+00:00
-
- ## sh.itjust.works - A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.
- - [https://sh.itjust.works](https://sh.itjust.works)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Jack's works and projects
- - [http://jack.works](http://jack.works)
- - date_published: 2016-01-15T15:33:43+00:00
-
- ## jenni.works
- - [https://jenni.works](https://jenni.works)
- - date_published: 2024-07-02T18:01:46.663339+00:00
-
- ## Josh Thompson · Solving Problems
- - [https://josh.works](https://josh.works)
- - date_published: 2024-05-05T21:17:35.021009+00:00
- - tags: ['personal']
-
- ## Overview
- - [https://less.works](https://less.works)
- - date_published: 2024-05-08T05:14:09.123204+00:00
-
- ## Lingdong Huang
- - [https://lingdong.works](https://lingdong.works)
- - date_published: 2021-08-16T23:52:45+00:00
-
- ## The number one Content Management System
- - [https://images.locomotive.works](https://images.locomotive.works)
- - date_published: 2024-07-24T08:01:53.908189+00:00
-
- ## muzi ᴡᴏʀᴋꜱ
- - [https://muzi.works](https://muzi.works)
- - date_published: 2024-07-04T06:08:14.776911+00:00
-
- ## MW — Designer & Builder
- - [https://mw.works](https://mw.works)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Non-Objective
- - [https://time.non-objective.works](https://time.non-objective.works)
- - date_published: 2024-09-14T23:12:29.810974+00:00
-
- ## Home | My name is Olek. I write about what matters to me.
- - [https://olek.works](https://olek.works)
- - date_published: 2023-12-12T23:24:43.805393+00:00
- - tags: ['personal']
-
- ## Original Works
- - [https://original.works](https://original.works)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## ODW creates business value through design and development | Osborn Design Works
- - [http://osborndesign.works](http://osborndesign.works)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## PfP: Pain-free Passwords
- - [https://pfp.works](https://pfp.works)
- - date_published: 2024-04-28T01:59:15.769051+00:00
-
- ## Rail Yard Works - One-man Dev Studio
- - [https://www.railyard.works](https://www.railyard.works)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## RDX Works Home Page
- - [https://www.rdx.works](https://www.rdx.works)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## R—M
- - [https://r-m.works](https://r-m.works)
- - date_published: 2020-07-07T00:00:00+00:00
-
- ## Roller
- - [https://roller.works](https://roller.works)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## ScritchWorks : Arts, Crafts, and other such things~!
- - [https://scritch.works](https://scritch.works)
- - date_published: 2024-10-22T22:02:17.083634+00:00
-
- ## Truss
- - [https://truss.works](https://truss.works)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## typing.works
- - [https://typing.works](https://typing.works)
- - date_published: 2024-07-10T08:59:34+00:00
-
- ## uzu.works
- - [https://uzu.works](https://uzu.works)
- - date_published: 2024-05-06T09:10:35.588446+00:00
- - tags: ['personal']
-
- ## Valise · Artwork inventory made easy
- - [https://valise.works](https://valise.works)
- - date_published: 2024-07-10T05:31:49.161360+00:00
-
- ## Verse — Collect digital artworks presented by leading curators
- - [https://verse.works](https://verse.works)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Zipper: Complexity-free web development
- - [https://www.zipper.works](https://www.zipper.works)
- - date_published: 2024-05-04T09:25:34.238894+00:00
-
- ## 2211.World
- - [https://2211.world](https://2211.world)
- - date_published: 2024-04-29T05:33:12.404412+00:00
-
- ## 六度世界
- - [https://6do.world](https://6do.world)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Home
- - [https://aibc.world](https://aibc.world)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## AI Existential Safety Map
- - [https://aisafety.world](https://aisafety.world)
- - date_published: 2024-04-26T08:07:57+00:00
-
- ## AKASHA world
- - [https://akasha.world](https://akasha.world)
- - date_published: 2024-06-14T11:55:17.534548+00:00
-
- ## Welcome to the AKASHA documentation | AKASHA docs
- - [https://docs.akasha.world](https://docs.akasha.world)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## ALLTRA WORLD 11::11 Fractionalised Distribution of Gold  "HYBX" BUSINESS HUB "HYB-ALL"     - Home
- - [https://alltra.world](https://alltra.world)
- - date_published: 2024-09-24T02:38:45.953278+00:00
-
- ## Where in the world is anomalily?
- - [https://anomalily.world](https://anomalily.world)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## 3D Animation and Automated Rigging | Anything World
- - [https://anything.world](https://anything.world)
- - date_published: 2023-10-25T23:01:41.604403+00:00
-
- ## Anything World
- - [https://app.anything.world](https://app.anything.world)
- - date_published: 2024-05-02T13:40:27.916320+00:00
-
- ## Artificiality
- - [https://www.artificiality.world](https://www.artificiality.world)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Crack The Code
- - [https://asc-crackthecode.world](https://asc-crackthecode.world)
- - date_published: 2024-06-23T01:52:00.750060+00:00
-
- ## Autonolas Alter Orbis
- - [https://autonolas.world](https://autonolas.world)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Bebylon — Battle Royale
- - [https://bebylon.world](https://bebylon.world)
- - date_published: 2020-11-12T21:43:53+00:00
-
- ## Best of Both Worlds – Connecter les artistes à leur audience.
- - [https://bestofboth.world](https://bestofboth.world)
- - date_published: 2024-07-17T11:27:43.139664+00:00
-
- ## BEST OF BOTH WORLDS
- - [https://support.bestofboth.world](https://support.bestofboth.world)
- - date_published: 2024-07-01T14:25:53.157249+00:00
-
- ## BetterMe | Wellness Platform
- - [https://betterme.world](https://betterme.world)
- - date_published: 2024-06-30T09:28:45.072213+00:00
-
- ## Welcome
- - [https://blaines.world](https://blaines.world)
- - date_published: 2024-04-26T02:11:56+00:00
-
- ## Boing.World
- - [https://boing.world](https://boing.world)
- - date_published: 2024-07-10T06:39:10.529275+00:00
-
- ## Boo | Meet New People by Personality
- - [https://boo.world](https://boo.world)
- - date_published: 2024-06-23T17:17:56.743781+00:00
-
- ## Welcome - BookWyrm.world
- - [https://bookwyrm.world](https://bookwyrm.world)
- - date_published: 2024-05-02T13:41:15.371622+00:00
-
- ## Calckey.world
- - [https://calckey.world](https://calckey.world)
- - date_published: 2024-05-02T13:41:07.396513+00:00
-
- ## ChangeNOW
- - [https://changenow.world](https://changenow.world)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Fall 2024 Vol. 78 Num. 3
- - [https://clemson.world](https://clemson.world)
- - date_published: 2024-09-18T11:11:00+00:00
-
- ## CodeWorld
- - [https://code.world](https://code.world)
- - date_published: 2024-06-26T18:31:35+00:00
 

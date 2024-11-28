@@ -1,3 +1,261 @@
+ ## Raise Your Way
+ - [https://raiseyourwayforaha.funraise.org](https://raiseyourwayforaha.funraise.org)
+ - date_published: 2023-10-02T17:47:32+00:00
+
+ ## Public Repositories - Bitbucket
+ - [https://code.funtoo.org](https://code.funtoo.org)
+ - date_published: 2024-05-01T05:29:55.099115+00:00
+
+ ## funtoo forums
+ - [https://forums.funtoo.org](https://forums.funtoo.org)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Funtoo
+ - [https://funtoo.org](https://funtoo.org)
+ - date_published: 2023-10-25T21:23:26.324616+00:00
+
+ ## Funtoo Infrastructure Status
+ - [https://status.funtoo.org](https://status.funtoo.org)
+ - date_published: 2024-08-18T19:14:45.789575+00:00
+
+ ## furbo.org by Craig Hockenberry
+ - [https://furbo.org](https://furbo.org)
+ - date_published: 2023-10-25T08:54:39.367362+00:00
+ - tags: ['personal']
+
+ ## FF Gambling
+ - [https://www.furfright.org](https://www.furfright.org)
+ - date_published: 2024-09-02T12:25:23.188240+00:00
+
+ ## Furnace Creek Software
+ - [https://furnacecreek.org](https://furnacecreek.org)
+ - date_published: 2024-06-23T15:15:34.218760+00:00
+
+ ## Furniture History Society
+ - [https://www.furniturehistorysociety.org](https://www.furniturehistorysociety.org)
+ - date_published: 2024-06-26T21:38:07.163628+00:00
+
+ ## Home | furriesunleashed
+ - [https://furriesunleashed.org](https://furriesunleashed.org)
+ - date_published: 2024-06-30T06:02:11.369496+00:00
+
+ ## The Furry Fediverse
+ - [https://furryfediverse.org](https://furryfediverse.org)
+ - date_published: 2024-07-18T17:27:55.160840+00:00
+
+ ## FurryStudies.org – Fuzzy Logic for the Curious
+ - [https://www.furrystudies.org](https://www.furrystudies.org)
+ - date_published: 2024-06-30T06:01:20.987800+00:00
+
+ ## Furtheon - Fur the decentralized future
+ - [https://furtheon.org](https://furtheon.org)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Homepage - Furtherfield
+ - [http://www.furtherfield.org](http://www.furtherfield.org)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## https://www.furyio.org
+ - [https://furyio.org](https://furyio.org)
+ - date_published: 2023-12-27T12:34:24+00:00
+
+ ## FUSE-T
+ - [https://www.fuse-t.org](https://www.fuse-t.org)
+ - date_published: 2023-10-25T21:23:27.287219+00:00
+
+ ## Fusion - A connected ecosystem for financial transactions
+ - [https://fusion.org](https://fusion.org)
+ - date_published: 2024-09-14T08:17:44+00:00
+
+ ## fusionforge / FusionForge · GitLab
+ - [http://fusionforge.org](http://fusionforge.org)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Home - Fusion Industry Association
+ - [https://www.fusionindustryassociation.org](https://www.fusionindustryassociation.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Hello from Fusio | Fusio
+ - [https://docs.fusio-project.org](https://docs.fusio-project.org)
+ - date_published: 2024-09-08T17:12:39+00:00
+
+ ## Open source API management platform | Fusio
+ - [https://fusio-project.org](https://fusio-project.org)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Fussy.org
+ - [http://www.fussy.org](http://www.fussy.org)
+ - date_published: 2024-07-13T09:57:42.344082+00:00
+
+ ## Why Futhark?
+ - [https://futhark-lang.org](https://futhark-lang.org)
+ - date_published: 2023-10-25T21:23:28.010255+00:00
+
+ ## Futhark Playground
+ - [http://playground.futhark-lang.org](http://playground.futhark-lang.org)
+ - date_published: 2024-08-18T19:14:11.219133+00:00
+
+ ## FUTO Chat
+ - [https://chat.futo.org](https://chat.futo.org)
+ - date_published: 2024-09-10T08:05:26.026517+00:00
+
+ ## FUTO - Bringing control of computing back to the people
+ - [https://futo.org](https://futo.org)
+ - date_published: 2023-10-25T11:34:21.566306+00:00
+
+ ## Sign in · GitLab
+ - [https://gitlab.futo.org](https://gitlab.futo.org)
+ - date_published: 2023-10-25T21:23:29.252807+00:00
+
+ ## FUTO Keyboard
+ - [https://keyboard.futo.org](https://keyboard.futo.org)
+ - date_published: 2024-06-29T15:59:12+00:00
+
+ ## FUTO PeerTube Instance
+ - [https://peertube.futo.org](https://peertube.futo.org)
+ - date_published: 2024-09-10T08:05:23.240745+00:00
+
+ ## FUTO Voice Input
+ - [https://voiceinput.futo.org](https://voiceinput.futo.org)
+ - date_published: 2024-09-10T08:05:21.364373+00:00
+
+ ## Future Architecture Platform
+ - [http://futurearchitectureplatform.org](http://futurearchitectureplatform.org)
+ - date_published: 2024-07-13T14:47:31.611525+00:00
+
+ ## Future Congress
+ - [https://www.futurecongress.org](https://www.futurecongress.org)
+ - date_published: 2024-07-16T20:40:20.701378+00:00
+
+ ## Future Craft
+ - [http://futurecraft.org](http://futurecraft.org)
+ - date_published: 2024-06-20T04:03:58.731220+00:00
+
+ ## Home | Future Earth
+ - [https://futureearth.org](https://futureearth.org)
+ - date_published: 2024-07-03T12:49:24.117043+00:00
+
+ ## Future Forces 2024 – International Exhibition
+ - [https://www.future-forces.org](https://www.future-forces.org)
+ - date_published: 2024-07-02T22:01:10.582452+00:00
+
+ ## Future Forces Forum
+ - [https://future-forces-forum.org](https://future-forces-forum.org)
+ - date_published: 2024-05-07T23:37:27.245227+00:00
+
+ ## Future Generation Art Prize
+ - [https://futuregenerationartprize.org](https://futuregenerationartprize.org)
+ - date_published: 2024-07-01T08:04:41.634716+00:00
+
+ ## FutureHouse
+ - [http://www.futurehouse.org](http://www.futurehouse.org)
+ - date_published: 2024-10-27T11:28:09+00:00
+
+ ## FutureMe: Write a Letter to your Future Self
+ - [https://futureme.org](https://futureme.org)
+ - date_published: 2024-02-06T14:56:37.812916+00:00
+ - tags: ['web application']
+
+ ## FutureMe: Write a Letter to your Future Self
+ - [https://prod-assets.futureme.org](https://prod-assets.futureme.org)
+ - date_published: 2024-05-26T09:45:56.941644+00:00
+
+ ## FutureMe
+ - [https://support.futureme.org](https://support.futureme.org)
+ - date_published: 2024-09-02T13:24:57.143889+00:00
+
+ ## Future Non Stop
+ - [http://future-nonstop.org](http://future-nonstop.org)
+ - date_published: 2024-07-12T20:29:26.883380+00:00
+
+ ## Welcome
+ - [https://futureofcoding.org](https://futureofcoding.org)
+ - date_published: 2024-03-24T14:53:48+00:00
+
+ ## Future of Coding History
+ - [https://history.futureofcoding.org](https://history.futureofcoding.org)
+ - date_published: 2024-05-02T06:58:35+00:00
+
+ ## futureofcoding #thinking-together
+ - [https://linen.futureofcoding.org](https://linen.futureofcoding.org)
+ - date_published: 2024-04-29T07:59:57.624887+00:00
+
+ ## Future of Coding Weekly
+ - [https://newsletter.futureofcoding.org](https://newsletter.futureofcoding.org)
+ - date_published: 2024-05-11T10:25:35.705828+00:00
+
+ ## สล็อตเว็บตรง เว็บใหญ่มาตรฐาน มาแรง 2024 ปั่นสล็อตแตกทุกเกม​
+ - [http://www.futureofflight.org](http://www.futureofflight.org)
+ - date_published: 2024-07-09T18:19:48+00:00
+
+ ## Future of Health Grant – The first digital health startup grant for early stage or advanced startups
+ - [https://future-of-health.org](https://future-of-health.org)
+ - date_published: 2024-07-16T21:59:35+00:00
+
+ ## Future of Humanity Institute shuts down
+ - [https://futureofhumanityinstitute.org](https://futureofhumanityinstitute.org)
+ - date_published: 2024-04-17T15:14:08+00:00
+
+ ## Home - Future of Life Institute
+ - [https://futureoflife.org](https://futureoflife.org)
+ - date_published: 2023-10-25T21:23:32.572356+00:00
+
+ ## Future of Life Institute Newsletter
+ - [https://newsletter.futureoflife.org](https://newsletter.futureoflife.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Pause Giant Superconductor Experiments
+ - [https://futureofliff.org](https://futureofliff.org)
+ - date_published: 2023-10-25T21:23:37.964754+00:00
+
+ ## Future of Roswell Society
+ - [http://futureofroswell.org](http://futureofroswell.org)
+ - date_published: 2024-09-16T11:12:28.019691+00:00
+
+ ## Institute for the Future of the Book
+ - [http://www.futureofthebook.org](http://www.futureofthebook.org)
+ - date_published: 2014-01-03T17:46:02+00:00
+
+ ## Home | Future of Tourism
+ - [https://www.futureoftourism.org](https://www.futureoftourism.org)
+ - date_published: 2024-07-08T13:28:46.279615+00:00
+
+ ## futurepicture.org
+ - [http://www.futurepicture.org](http://www.futurepicture.org)
+ - date_published: 2024-06-30T05:41:52.277092+00:00
+
+ ## Future Programming Workshop
+ - [http://www.future-programming.org](http://www.future-programming.org)
+ - date_published: 2016-02-03T00:52:19+00:00
+
+ ## NFA
+ - [http://www.nfa.futures.org](http://www.nfa.futures.org)
+ - date_published: 2024-06-12T19:26:20+00:00
+
+ ## Futures Fundamentals
+ - [https://www.futuresfundamentals.org](https://www.futuresfundamentals.org)
+ - date_published: 2024-09-09T13:58:14.581797+00:00
+
+ ## Future Forces Admin | Přihlášení
+ - [https://admin.future-soldier.org](https://admin.future-soldier.org)
+ - date_published: 2024-07-02T22:01:17.215564+00:00
+
+ ## Buy Somatropin Online USA - HGH Online Store
+ - [http://www.futureurbanregions.org](http://www.futureurbanregions.org)
+ - date_published: 2023-07-20T16:51:25+00:00
+
+ ## Futurity: Research News from Top Universities
+ - [https://futurity.org](https://futurity.org)
+ - date_published: 2023-10-25T21:23:40.912905+00:00
+
+ ## Latino USA
+ - [https://latinousa.feeds.futuromedia.org](https://latinousa.feeds.futuromedia.org)
+ - date_published: 2024-08-18T06:00:00+00:00
+
+ ## Homepage - The Futuro Media Group
+ - [https://www.futuromediagroup.org](https://www.futuromediagroup.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Homepage - Futuro Studios
  - [https://futurostudios.org](https://futurostudios.org)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -3787,271 +4045,4 @@
  ## GNOME Release Notes
  - [https://release.gnome.org](https://release.gnome.org)
  - date_published: 2024-03-20T18:08:17.213656+00:00
-
- ## Homepage
- - [https://shop.gnome.org](https://shop.gnome.org)
- - date_published: 2024-03-21T07:44:37.255568+00:00
-
- ## Sign in · GitLab
- - [https://sophie-h.pages.gitlab.gnome.org](https://sophie-h.pages.gitlab.gnome.org)
- - date_published: 2024-05-11T09:06:42.296708+00:00
-
- ## GNOME infrastructure Status
- - [https://status.gnome.org](https://status.gnome.org)
- - date_published: 2024-05-11T09:07:08.937760+00:00
-
- ## GNOME Surveys
- - [https://surveys.gnome.org](https://surveys.gnome.org)
- - date_published: 2024-05-11T09:05:16.165254+00:00
-
- ## Sign in · GitLab
- - [https://teams.pages.gitlab.gnome.org](https://teams.pages.gitlab.gnome.org)
- - date_published: 2024-05-11T09:05:11.488616+00:00
-
- ## This Week in GNOME
- - [https://thisweek.gnome.org](https://thisweek.gnome.org)
- - date_published: 2023-10-25T21:25:35.832307+00:00
- - tags: ['news']
-
- ## Tracker-3.0
- - [https://tracker.api.gnome.org](https://tracker.api.gnome.org)
- - date_published: 2024-05-11T09:07:06.660609+00:00
-
- ## Tracker
- - [https://tracker.gnome.org](https://tracker.gnome.org)
- - date_published: 2024-03-25T11:54:26+00:00
-
- ## GNOME Foundation Elections and Referenda
- - [https://vote.gnome.org](https://vote.gnome.org)
- - date_published: 2024-08-14T20:29:50.037166+00:00
-
- ## Sign in - Matomo
- - [https://webstats.gnome.org](https://webstats.gnome.org)
- - date_published: 2024-05-26T08:35:52.902579+00:00
-
- ## Welcome to GNOME – Overview
- - [https://welcome.gnome.org](https://welcome.gnome.org)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home - GNOME Wiki!
- - [https://wiki.gnome.org](https://wiki.gnome.org)
- - date_published: 2023-07-30T00:00:00+00:00
-
- ## Sign in · GitLab
- - [https://world.pages.gitlab.gnome.org](https://world.pages.gitlab.gnome.org)
- - date_published: 2024-05-10T07:19:40.592280+00:00
-
- ## GNOME – Simple, beautiful, elegant.
- - [http://gnome3.org](http://gnome3.org)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Note-Taking App - create notes online - Nimbus Note - FuseBase (Formerly Nimbus)
- - [http://gnomebangalore.org](http://gnomebangalore.org)
- - date_published: 2024-05-11T09:06:54.353861+00:00
-
- ## Home - GNOME-DB
- - [http://www.gnome-db.org](http://www.gnome-db.org)
- - date_published: 2015-06-12T00:00:00+00:00
-
- ## Accueil - G_ Mefr
- - [http://planete.gnomefr.org](http://planete.gnomefr.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Accueil - G_ Mefr
- - [https://planet.gnomefr.org](https://planet.gnomefr.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Accueil - G_ Mefr
- - [https://www.gnomefr.org](https://www.gnomefr.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Browse  Latest | https://www.gnome-look.org/browse/
- - [https://www.gnome-look.org](https://www.gnome-look.org)
- - date_published: 2024-07-08T16:13:31.076540+00:00
-
- ## Pomodoro Timer for GNOME
- - [http://gnomepomodoro.org](http://gnomepomodoro.org)
- - date_published: 2024-04-07T09:43:05+00:00
-
- ## Gnomeshade - Personal finance tracker
- - [https://gnomeshade.org](https://gnomeshade.org)
- - date_published: 2024-04-26T19:20:25.755156+00:00
- - tags: ['open source', 'self-host', 'finance tracker']
-
- ## Overview
- - [https://gnome-terminator.org](https://gnome-terminator.org)
- - date_published: 2023-10-30T14:12:47.646665+00:00
- - tags: ['terminal', 'cli tool']
-
- ## The Gnosis Archive
- - [https://gnosis.org](https://gnosis.org)
- - date_published: 2018-06-07T05:49:14+00:00
-
- ## Gnosis Guild
- - [https://www.gnosisguild.org](https://www.gnosisguild.org)
- - date_published: 2024-09-22T01:57:42.179262+00:00
-
- ## 果実の園、取り寄せのあまーい旬の果実をご紹介！神戸牛とあごちくわ
- - [http://www.gnosisoa.org](http://www.gnosisoa.org)
- - date_published: 2015-12-10T03:49:37+00:00
-
- ## Index of /
- - [https://alpha.gnu.org](https://alpha.gnu.org)
- - date_published: 2003-08-13T00:00:00+00:00
-
- ## Audio/Video - GNU Project - Free-Software Foundation
- - [https://audio-video.gnu.org](https://audio-video.gnu.org)
- - date_published: 2022-10-23T07:43:11+00:00
-
- ## Cuirass
- - [https://ci.guix.gnu.org](https://ci.guix.gnu.org)
- - date_published: 2024-05-19T02:44:31.724948+00:00
-
- ## Guix Data Service
- - [https://data.guix.gnu.org](https://data.guix.gnu.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## GNU Bug Tracker
- - [https://debbugs.gnu.org](https://debbugs.gnu.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## GNU Emacs Lisp Package Archive
- - [https://elpa.gnu.org](https://elpa.gnu.org)
- - date_published: 2022-11-12T22:34:28+00:00
- - tags: ['personal']
-
- ## Index of /
- - [https://ftp.gnu.org](https://ftp.gnu.org)
- - date_published: 2023-10-25T21:25:41.505440+00:00
-
- ## Index of /gnu/
- - [https://ftpmirror.gnu.org](https://ftpmirror.gnu.org)
- - date_published: 2024-05-19T02:44:07.484281+00:00
-
- ## GCC, the GNU Compiler Collection
-- GNU Project
- - [https://gcc.gnu.org](https://gcc.gnu.org)
- - date_published: 2023-10-25T21:25:44.167805+00:00
- - tags: ['compiler']
-
- ## Savannah Git Server
- - [https://git.savannah.gnu.org](https://git.savannah.gnu.org)
- - date_published: 2022-09-24T22:06:50+00:00
-
- ## Savannah Git Server
- - [https://git.sv.gnu.org](https://git.sv.gnu.org)
- - date_published: 2022-09-24T22:06:50+00:00
-
- ## The GNU Operating System and the Free Software Movement
- - [https://gnu.org](https://gnu.org)
- - date_published: 2024-05-11T08:20:09.404475+00:00
- - tags: ['open source', 'linux']
-
- ## Trisquel GNU/Linux Default Page for Apache2: It works
- - [https://gnuzilla.gnu.org](https://gnuzilla.gnu.org)
- - date_published: 2021-11-24T16:41:32+00:00
-
- ## GNU Guix transactional package manager and distribution — GNU Guix
- - [https://guix.gnu.org](https://guix.gnu.org)
- - date_published: 2023-10-25T21:25:47.790129+00:00
- - tags: ['package manager', 'open source']
-
- ## Guix issue tracker
- - [https://issues.guix.gnu.org](https://issues.guix.gnu.org)
- - date_published: 2024-05-19T02:43:34.304377+00:00
-
- ## lists.gnu.org
- - [https://lists.gnu.org](https://lists.gnu.org)
- - date_published: 2021-01-02T17:59:32+00:00
-
- ## guix IRC channel logs
- - [https://logs.guix.gnu.org](https://logs.guix.gnu.org)
- - date_published: 2024-08-18T06:19:20.138946+00:00
-
- ## mail.gnu.org Mailing Lists
- - [http://mail.gnu.org](http://mail.gnu.org)
- - date_published: 2024-07-07T06:35:52.974338+00:00
-
- ## Packages — GNU Guix
- - [https://packages.guix.gnu.org](https://packages.guix.gnu.org)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Planet GNU
- - [https://planet.gnu.org](https://planet.gnu.org)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Guix Quality Assurance
- - [https://qa.guix.gnu.org](https://qa.guix.gnu.org)
- - date_published: 2024-05-08T08:49:59.999196+00:00
-
- ## Welcome [Savannah]
- - [https://savannah.gnu.org](https://savannah.gnu.org)
- - date_published: 2024-04-08T23:46:29.702682+00:00
- - tags: ['open source', 'social platform']
-
- ## Ramblings by Paolo on Web2.0, Wikipedia, Social Networking, Trust, Reputation, ...
- - [https://www.gnuband.org](https://www.gnuband.org)
- - date_published: 2024-07-13T23:54:27.974668+00:00
-
- ## GnuCash
- - [https://wiki.gnucash.org](https://wiki.gnucash.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Free Accounting Software | GnuCash
- - [http://www.gnucash.org](http://www.gnucash.org)
- - date_published: 2024-07-11T12:39:37.704977+00:00
-
- ## Art Zen
- - [https://gnuemacs.org](https://gnuemacs.org)
- - date_published: 2024-04-06T06:22:49+00:00
- - tags: ['personal']
-
- ## GNU Health | Freedom and Equity in Healthcare
- - [https://gnuhealth.org](https://gnuhealth.org)
- - date_published: 2023-09-15T16:59:19+00:00
-
- ## GHCon 2023 - VIII International GNU Health Conference
- - [https://www.gnuhealthcon.org](https://www.gnuhealthcon.org)
- - date_published: 2023-09-25T13:42:59+00:00
-
- ## Super.Site
- - [http://gnulinux-salamanca.org](http://gnulinux-salamanca.org)
- - date_published: 2024-09-02T15:09:05.943683+00:00
-
- ## Welcome to LaForge's personal homepage
- - [https://laforge.gnumonks.org](https://laforge.gnumonks.org)
- - date_published: 2024-04-13T10:40:32+00:00
-
- ## GNUnet's Selected Papers in Meshnetworking
- - [https://bib.gnunet.org](https://bib.gnunet.org)
- - date_published: 2022-08-25T09:11:33+00:00
-
- ## My View - MantisBT
- - [https://bugs.gnunet.org](https://bugs.gnunet.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Buildbot
- - [https://buildbot.gnunet.org](https://buildbot.gnunet.org)
- - date_published: 2024-05-19T02:44:42.166112+00:00
-
- ## Welcome to GNUnet’s documentation! — GNUnet  documentation
- - [https://docs.gnunet.org](https://docs.gnunet.org)
- - date_published: 2024-05-19T02:44:32.492008+00:00
-
- ## The GNUnet Assigned Numbers Authority (GANA) — GANA  documentation
- - [https://gana.gnunet.org](https://gana.gnunet.org)
- - date_published: 2024-07-15T19:53:53+00:00
-
- ## GNUnet Git Repositories
- - [https://git.gnunet.org](https://git.gnunet.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## GNUnet
- - [https://gnunet.org](https://gnunet.org)
- - date_published: 2024-05-19T02:43:21.950534+00:00
-
- ## GNU Pascal
- - [https://www.gnu-pascal.org](https://www.gnu-pascal.org)
- - date_published: 2005-08-06T16:28:26+00:00
- - tags: ['compiler', 'pascal']
 

@@ -1,3 +1,31 @@
+ ## Events in my life
+ - [http://theflowerofmosul.blogspot.com](http://theflowerofmosul.blogspot.com)
+ - date_published: 2024-03-23T18:07:35+00:00
+
+ ## The Flying Predator
+ - [http://theflyingpredator.blogspot.com](http://theflyingpredator.blogspot.com)
+ - date_published: 2024-09-09T16:06:07+00:00
+
+ ## The Free Lunch
+ - [https://the-free-lunch.blogspot.com](https://the-free-lunch.blogspot.com)
+ - date_published: 2024-10-21T14:18:23.688539+00:00
+
+ ## The Freezing North
+ - [http://thefreezingnorth.blogspot.com](http://thefreezingnorth.blogspot.com)
+ - date_published: 2024-08-30T13:19:32+00:00
+
+ ## The Boiling Frog
+ - [http://thefrogsalittlehot.blogspot.com](http://thefrogsalittlehot.blogspot.com)
+ - date_published: 2024-10-21T14:12:52.588930+00:00
+
+ ## The frog that jumped out
+ - [http://thefrogthatjumpedout.blogspot.com](http://thefrogthatjumpedout.blogspot.com)
+ - date_published: 2024-03-05T13:04:01+00:00
+
+ ## Frontline Gamer
+ - [http://thefrontlinegamer.blogspot.com](http://thefrontlinegamer.blogspot.com)
+ - date_published: 2024-07-14T18:26:56+00:00
+
  ## The Galloping Beaver
  - [http://thegallopingbeaver.blogspot.com](http://thegallopingbeaver.blogspot.com)
  - date_published: 2024-10-28T07:44:50+00:00
@@ -3977,32 +4005,4 @@
  ## What Do I Know?
  - [http://whatdoino-steve.blogspot.com](http://whatdoino-steve.blogspot.com)
  - date_published: 2024-06-29T00:00:00+00:00
-
- ## Whatever It Is, I’m Against It
- - [http://whateveritisimagainstit.blogspot.com](http://whateveritisimagainstit.blogspot.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## What Helps The Homeless
- - [http://whathelpsthehomeless.blogspot.com](http://whathelpsthehomeless.blogspot.com)
- - date_published: 2024-03-13T06:57:28+00:00
-
- ## What is going on in Europe?
- - [https://whatisgoingonineurope.blogspot.com](https://whatisgoingonineurope.blogspot.com)
- - date_published: 2023-11-15T17:49:53+00:00
-
- ## What McAuliffe Said
- - [http://whatmcauliffesaid.blogspot.com](http://whatmcauliffesaid.blogspot.com)
- - date_published: 2024-07-02T17:19:30+00:00
-
- ## What? Me paint?
- - [http://whatmepaint.blogspot.com](http://whatmepaint.blogspot.com)
- - date_published: 2024-07-03T03:40:17+00:00
-
- ## David Hepworth's blog
- - [http://whatsheonaboutnow.blogspot.com](http://whatsheonaboutnow.blogspot.com)
- - date_published: 2024-08-05T07:19:05+00:00
-
- ## What's the Word Now?
- - [https://whatsthewordnow.blogspot.com](https://whatsthewordnow.blogspot.com)
- - date_published: 2024-05-07T00:00:00+00:00
 

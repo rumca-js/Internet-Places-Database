@@ -1,3 +1,7 @@
+ ## Sequels - SQL Notebook for macOS
+ - [https://sequels.app](https://sequels.app)
+ - date_published: 2024-08-11T17:24:41.099190+00:00
+
  ## Open source, self-hosted bookmark manager
  - [https://servas.app](https://servas.app)
  - date_published: 2024-11-18T20:22:30+00:00
@@ -4014,8 +4018,4 @@
  ## ZKBase Explorer
  - [https://explorer.zkbase.app](https://explorer.zkbase.app)
  - date_published: 2024-07-01T06:42:41+00:00
-
- ## ZKBase Explorer
- - [https://sepolia-explorer.zkbase.app](https://sepolia-explorer.zkbase.app)
- - date_published: 2024-07-01T06:42:51+00:00
 

@@ -1,3 +1,240 @@
+ ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
+ - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
+ - date_published: 2024-05-12T04:56:02.975121+00:00
+
+ ## Previsioni Meteo - Il Fatto Quotidiano
+ - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:28.664261+00:00
+
+ ## Il Fatto Social Club
+ - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
+ - date_published: 2012-04-17T21:31:03+00:00
+
+ ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
+ - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
+ - date_published: 2024-07-15T03:15:48.085233+00:00
+
+ ## Il Foglio - Edizione Online
+ - [https://www.ilfoglio.it](https://www.ilfoglio.it)
+ - date_published: 2024-07-03T22:12:57+00:00
+
+ ## il Giornale
+ - [http://www.ilgiornale.it](http://www.ilgiornale.it)
+ - date_published: 2024-07-03T22:20:22.112238+00:00
+
+ ## Offerte mobile, fibra e smartphone
+ - iliad
+ - [https://www.iliad.it](https://www.iliad.it)
+ - date_published: 2024-09-18T22:53:47.241287+00:00
+
+ ## Stand Virtuale | Food Service ILIP - Passion for Packaging
+ - [https://foodservice.ilip.it](https://foodservice.ilip.it)
+ - date_published: 2024-10-31T10:00:30.298370+00:00
+
+ ## Stand Virtuale | Fresh Produce ILIP - Passion for Packaging
+ - [https://freshproduce.ilip.it](https://freshproduce.ilip.it)
+ - date_published: 2024-10-31T10:00:20.528738+00:00
+
+ ## ILIP Hortipack | Packaging per l'ortoflorovivaismo
+ - [https://hortipack.ilip.it](https://hortipack.ilip.it)
+ - date_published: 2024-10-31T09:59:46.907954+00:00
+
+ ## ILIP S.r.l. Passion for Packaging | Soluzioni d’imballaggio per alimenti
+ - [https://ilip.it](https://ilip.it)
+ - date_published: 2024-10-31T09:15:38.902226+00:00
+
+ ## homepage manifesto | il manifesto
+ - [https://ilmanifesto.it](https://ilmanifesto.it)
+ - date_published: 2024-10-29T16:11:54.606225+00:00
+
+ ## IL METEO ▷ Meteo e previsioni del tempo in Italia * iLMeteo.it
+ - [https://www.ilmeteo.it](https://www.ilmeteo.it)
+ - date_published: 2024-06-23T21:07:00.808088+00:00
+
+ ## Previsioni meteo | ilmeteo24.it | App meteo
+ - [https://www.ilmeteo24.it](https://www.ilmeteo24.it)
+ - date_published: 2024-06-25T19:48:56.363300+00:00
+
+ ## ilMioDono
+ - [https://www.ilmiodono.it](https://www.ilmiodono.it)
+ - date_published: 2024-06-25T15:02:17+00:00
+
+ ## Il Mondo Di Sopra
+ - [http://www.ilmondodisopra.it](http://www.ilmondodisopra.it)
+ - date_published: 2024-09-02T08:31:58+00:00
+
+ ## IlPescara
+ - [https://ilpescara.it](https://ilpescara.it)
+ - date_published: 2024-05-11T09:56:17.372901+00:00
+
+ ## IlPiacenza
+ - [https://ilpiacenza.it](https://ilpiacenza.it)
+ - date_published: 2024-05-11T09:56:05.765220+00:00
+
+ ## Il Post
+ - [https://www.ilpost.it](https://www.ilpost.it)
+ - date_published: 2024-07-09T19:53:12+00:00
+
+ ## Il Salotto del Gatto Libraio
+ - [https://www.ilsalottodelgattolibraio.it](https://www.ilsalottodelgattolibraio.it)
+ - date_published: 2024-09-02T15:00:34+00:00
+
+ ## Il SecoloXIX - Finanza
+ - [https://finanza.ilsecoloxix.it](https://finanza.ilsecoloxix.it)
+ - date_published: 2024-07-16T19:12:03.794728+00:00
+
+ ## Il Secolo XIX - Quotidiano online
+ - [https://ilsecoloxix.it](https://ilsecoloxix.it)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Previsioni meteo in Italia e nel Mondo - Il Secolo XIX
+ - [https://meteo.ilsecoloxix.it](https://meteo.ilsecoloxix.it)
+ - date_published: 2024-07-16T19:12:11.247622+00:00
+
+ ## Necrologi Defunti – Annunci Necrologici - Necrologie Il Secolo XIX
+ - [https://necrologie.ilsecoloxix.it](https://necrologie.ilsecoloxix.it)
+ - date_published: 2024-07-16T18:48:00.870574+00:00
+
+ ## IlSoftware.it - Il Sito Italiano sul Software
+ - [https://ilsoftware.it](https://ilsoftware.it)
+ - date_published: 2024-05-11T07:05:30.701170+00:00
+
+ ## Scuola Privata Materne A Bergamo – Scuola Imiberg
+ - [https://www.imiberg.it](https://www.imiberg.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Immobiliare Labs
+ - [https://labs.immobiliare.it](https://labs.immobiliare.it)
+ - date_published: 2024-06-11T11:16:08+00:00
+
+ ## Case in vendita - Immobiliare.it
+ - [http://www.immobiliare.it](http://www.immobiliare.it)
+ - date_published: 2024-07-08T12:56:45.699609+00:00
+
+ ## Impresa di Pulizie Baccalini Pavia - Home
+ - [https://impresadipuliziebaccalini.it](https://impresadipuliziebaccalini.it)
+ - date_published: 2024-06-29T17:04:18+00:00
+
+ ## SySMA
+ - [http://sysma.imtlucca.it](http://sysma.imtlucca.it)
+ - date_published: 2024-08-18T22:54:58.783435+00:00
+
+ ## Scuola IMT Alti Studi Lucca
+ - [https://www.imtlucca.it](https://www.imtlucca.it)
+ - date_published: 2024-06-23T20:44:51.962076+00:00
+
+ ## Osservatorio Astrofisico di Catania | INAF
+ - [http://www.oact.inaf.it](http://www.oact.inaf.it)
+ - date_published: 2024-08-18T20:22:28.898927+00:00
+
+ ## IpaPortale
+ - [https://www.indicepa.it](https://www.indicepa.it)
+ - date_published: 2024-01-26T16:52:03+00:00
+
+ ## Indire – Ricerca per l'innovazione della scuola italiana
+ - [http://www.indire.it](http://www.indire.it)
+ - date_published: 2024-07-06T23:43:02.662504+00:00
+
+ ## Home · Agenda (Indico)
+ - [http://agenda.infn.it](http://agenda.infn.it)
+ - date_published: 2024-07-06T23:43:25.898822+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.infn.it](https://analytics.infn.it)
+ - date_published: 2024-07-06T23:32:17.521888+00:00
+
+ ## BookingFrontend
+ - [https://booking.dsi.infn.it](https://booking.dsi.infn.it)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Istituto Nazionale di Fisica Nucleare | Attività di Terza Missione
+ - [http://cc3m.infn.it](http://cc3m.infn.it)
+ - date_published: 2024-03-21T12:08:18+00:00
+
+ ## Collisioni.infn – Spazi culturali all’Istituto Nazionale di Fisica Nucleare
+ - [https://collisioni.infn.it](https://collisioni.infn.it)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Il DPO dell'INFN
+ - [https://dpo.infn.it](https://dpo.infn.it)
+ - date_published: 2024-07-06T23:32:14.163454+00:00
+
+ ## Educational
+ - [http://edu.lnf.infn.it](http://edu.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:09.119727+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.lnf.infn.it](https://forms.lnf.infn.it)
+ - date_published: 2024-07-06T23:31:50.766706+00:00
+
+ ## Gallery LNGS
+ - [https://gallery.lngs.infn.it](https://gallery.lngs.infn.it)
+ - date_published: 2024-07-06T23:41:30.787642+00:00
+
+ ## Istituto Nazionale di Fisica Nucleare
+ - [https://home.infn.it](https://home.infn.it)
+ - date_published: 2024-05-08T08:47:45.961985+00:00
+
+ ## SimpleSAMLphp installation page
+ - [https://idp.infn.it](https://idp.infn.it)
+ - date_published: 2024-08-07T10:10:42.455659+00:00
+
+ ## [INFN] Opportunità di lavoro
+ - [https://jobs.dsi.infn.it](https://jobs.dsi.infn.it)
+ - date_published: 2024-07-06T23:41:27.358527+00:00
+
+ ## Biblioteca - LNGS
+ - [https://library.lngs.infn.it](https://library.lngs.infn.it)
+ - date_published: 2024-02-07T08:39:03+00:00
+
+ ## Scienza Per Tutti -  Home
+ - [https://scienzapertutti.infn.it](https://scienzapertutti.infn.it)
+ - date_published: 2024-07-06T23:32:15+00:00
+
+ ## Service LNGS
+ - [https://service.sites.lngs.infn.it](https://service.sites.lngs.infn.it)
+ - date_published: 2024-07-06T23:41:46.364750+00:00
+
+ ## La Storia dell'Istituto Nazionale di Fisica Nucleare | La Storia dell'Istituto Nazionale di Fisica Nucleare
+ - [https://storia.infn.it](https://storia.infn.it)
+ - date_published: 2024-07-06T23:43:36.363969+00:00
+
+ ## LNF User
+ - [http://user.lnf.infn.it](http://user.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:12.975497+00:00
+
+ ## Visitor Centre INFN-LNF | Laboratori Nazionali di Frascati
+ - [http://visitorcentre.lnf.infn.it](http://visitorcentre.lnf.infn.it)
+ - date_published: 2024-07-06T23:32:02.019282+00:00
+
+ ## INFN-LNF
+ - [https://w3.lnf.infn.it](https://w3.lnf.infn.it)
+ - date_published: 2024-05-08T08:47:08.191100+00:00
+
+ ## Gestione Siti Web - Servizi Nazionali @ CNAF
+ - [https://web2.infn.it](https://web2.infn.it)
+ - date_published: 2021-12-11T08:40:02+00:00
+
+ ## Gestione Siti Web - Servizi Nazionali @ CNAF
+ - [https://web.infn.it](https://web.infn.it)
+ - date_published: 2021-12-11T08:40:02+00:00
+
+ ## Amministrazione Centrale INFN
+ - [https://www.ac.infn.it](https://www.ac.infn.it)
+ - date_published: 2024-05-29T10:53:20+00:00
+
+ ## INFN Cloud | Cloud Services for Research
+ - [https://www.cloud.infn.it](https://www.cloud.infn.it)
+ - date_published: 2024-07-06T23:43:29.757547+00:00
+
+ ## INFN-CNAF
+ - [https://www.cnaf.infn.it](https://www.cnaf.infn.it)
+ - date_published: 2024-07-06T23:43:22.500454+00:00
+
+ ## Galileo Galilei Institute
+ - [https://www.ggi.infn.it](https://www.ggi.infn.it)
+ - date_published: 2024-07-01T05:47:35.396550+00:00
+
  ## Istituto Nazionale di Fisica Nucleare
  - [http://www.infn.it](http://www.infn.it)
  - date_published: 2024-07-06T23:31:57+00:00
@@ -3782,241 +4019,4 @@
  ## Sella Broker: Soluzioni assicurative personalizzate - Broker
  - [https://broker.sella.it](https://broker.sella.it)
  - date_published: 2024-09-25T10:41:32.561013+00:00
-
- ## Sella CIB: Corporate e Investment Banking - CIB
- - [https://cib.sella.it](https://cib.sella.it)
- - date_published: 2024-09-25T10:41:11.059586+00:00
-
- ## Sella Leasing: immobiliare, veicoli, strumentale, nautico e NLT - Sella Leasing
- - [https://leasing.sella.it](https://leasing.sella.it)
- - date_published: 2024-09-25T10:41:28.635175+00:00
-
- ## Home - Percorsi di educazione finanziaria
- - [https://percorsi.sella.it](https://percorsi.sella.it)
- - date_published: 2024-09-25T10:41:06.414915+00:00
-
- ## Sella Personal Credit: prestiti e cessione del quinto - Sella Personal Credit
- - [https://personalcredit.sella.it](https://personalcredit.sella.it)
- - date_published: 2024-09-25T10:41:33.795545+00:00
-
- ## Home - Soci Banca Sella
- - [https://soci.sella.it](https://soci.sella.it)
- - date_published: 2024-09-25T10:41:30.353280+00:00
-
- ## Virtual Assistant
- - [https://virtualassistant.sella.it](https://virtualassistant.sella.it)
- - date_published: 2024-09-25T10:41:36.701840+00:00
-
- ## Banca Sella: Banca Online per Privati, Aziende, Trader
- - [http://www.sella.it](http://www.sella.it)
- - date_published: 2024-06-16T04:30:50.418947+00:00
-
- ## Homepage - Sepa
- - [https://sepavenezia.it](https://sepavenezia.it)
- - date_published: 2023-05-18T00:00:00+00:00
-
- ## Progettazione e produzione circuiti stampati • Serp |
- - [http://www.serp.it](http://www.serp.it)
- - date_published: 2024-07-09T09:09:47.096268+00:00
-
- ## Serroplast
- - [https://www.serroplast.it](https://www.serroplast.it)
- - date_published: 2018-01-12T10:11:28+00:00
-
- ## Servizio Didattico Trieste – Comune di Trieste
- - [http://serviziodidattico.it](http://serviziodidattico.it)
- - date_published: 2024-06-20T12:58:50.907119+00:00
-
- ## settesei.it
- - [https://www.settesei.it](https://www.settesei.it)
- - date_published: 2024-07-20T04:11:01.317208+00:00
-
- ## SFSCON
- - [https://www.sfscon.it](https://www.sfscon.it)
- - date_published: 2024-07-11T13:21:21+00:00
-
- ## Siamo l'azienda leader nel mondo per i servizi di ispezione, verifica, analisi e certificazione.
- - [https://www.sgsgroup.it](https://www.sgsgroup.it)
- - date_published: 2024-09-10T12:52:11.310877+00:00
-
- ## Sherlock Magazine
- - [https://www.sherlockmagazine.it](https://www.sherlockmagazine.it)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Shielder - Home
- - [https://www.shielder.it](https://www.shielder.it)
- - date_published: 2024-05-27T12:24:38+00:00
-
- ## Disney Store IT | Negozio Online Dei Prodotti Disney
- - [https://www.shopdisney.it](https://www.shopdisney.it)
- - date_published: 2024-09-20T20:20:59.852182+00:00
-
- ## Should I pipe it?
- - [https://should-i-pipe.it](https://should-i-pipe.it)
- - date_published: 2024-09-06T01:09:34.896982+00:00
-
- ## SIAG
- - [https://www.siag.it](https://www.siag.it)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Società Italiana di Fisica
- - [http://www.sif.it](http://www.sif.it)
- - date_published: 2024-07-24T06:51:00.729836+00:00
-
- ## SIMEST
- - [https://www.simest.it](https://www.simest.it)
- - date_published: 2023-07-27T07:45:55+00:00
-
- ## Edizioni Simone
- - [https://edizioni.simone.it](https://edizioni.simone.it)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Demo page for Belle Theme | Scheduling and Booking Website
- - [https://belledemo.simplybook.it](https://belledemo.simplybook.it)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Demo page for Classic Theme | Scheduling and Booking Website
- - [https://classicdemo.simplybook.it](https://classicdemo.simplybook.it)
- - date_published: 2024-07-18T22:16:02.874507+00:00
-
- ## DECATHLON BAILE MUNNA | Scheduling and Booking Website
- - [https://decathlonbailemunna.simplybook.it](https://decathlonbailemunna.simplybook.it)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Retail Business | Scheduling and Booking Website
- - [https://minimalthemedemo.simplybook.it](https://minimalthemedemo.simplybook.it)
- - date_published: 2024-07-18T22:16:08.324424+00:00
-
- ## Sino-Iran
- - [https://www.sinoiran.it](https://www.sinoiran.it)
- - date_published: 2024-05-07T21:54:53.383741+00:00
-
- ## Home | Mathematics Area - SISSA
- - [http://www.math.sissa.it](http://www.math.sissa.it)
- - date_published: 2024-06-30T09:15:04.088688+00:00
-
- ## Scuola Internazionale Superiore di Studi Avanzati
- - [https://www.sissa.it](https://www.sissa.it)
- - date_published: 2024-06-29T11:21:39+00:00
-
- ## SistemaPiemonte
- - [http://www.sistemapiemonte.it](http://www.sistemapiemonte.it)
- - date_published: 2016-05-24T06:51:21+00:00
-
- ## patrimoniomondiale.it | Beni Italiani Patrimonio Mondiale
- - [http://www.sitiunesco.it](http://www.sitiunesco.it)
- - date_published: 2024-09-16T10:56:05.002439+00:00
-
- ## SiViaggia
- - [https://siviaggia.it](https://siviaggia.it)
- - date_published: 2024-06-15T06:20:12.049738+00:00
-
- ## SIXT Autonoleggio: noleggio auto low cost
- - [https://sixt.it](https://sixt.it)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - Sixtema
- - [https://www.sixtema.it](https://www.sixtema.it)
- - date_published: 2024-10-07T18:59:02.581954+00:00
-
- ## Web Self Care
- - [https://abbonamento.sky.it](https://abbonamento.sky.it)
- - date_published: 2024-08-27T11:10:03+00:00
-
- ## Sky Arte
- - [https://arte.sky.it](https://arte.sky.it)
- - date_published: 2024-10-30T11:17:19.684587+00:00
-
- ## Assistenza Sky: Sky Q, DTT, Sky Go, Sky Wifi e Sky Glass| Sky
- - [https://assistenza.sky.it](https://assistenza.sky.it)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Acquista Sky Glass
- - [https://ecommerce.sky.it](https://ecommerce.sky.it)
- - date_published: 2024-09-10T04:34:48+00:00
-
- ## Risparmio
- - [https://extra.sky.it](https://extra.sky.it)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Programmi Sky: serie, film, show e sport in programmazione su Sky
- - [https://programmi.sky.it](https://programmi.sky.it)
- - date_published: 2024-09-17T17:52:05+00:00
-
- ## Sky: serie TV, sport & cinema | Fibra e Wifi | TV Sky Glass
- - [https://sky.it](https://sky.it)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Trova Sky Bar
- - [https://trovabar.sky.it](https://trovabar.sky.it)
- - date_published: 2024-09-04T12:56:19+00:00
-
- ## Trova Sky Hotel
- - [https://trovahotel.sky.it](https://trovahotel.sky.it)
- - date_published: 2024-09-04T12:18:38+00:00
-
- ## Trova Negozi Sky | Sky
- - [https://trova.sky.it](https://trova.sky.it)
- - date_published: 2024-09-17T18:48:50.764089+00:00
-
- ## Pubblicità Sky: Concessionaria - SkyMedia
- - [https://skymedia.it](https://skymedia.it)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Voli low cost: confronta e prenota biglietti aerei | Skyscanner
- - [https://www.skyscanner.it](https://www.skyscanner.it)
- - date_published: 2024-07-10T03:24:06.079665+00:00
-
- ## insomniac's lair :: home
- - [https://insomniac.slackware.it](https://insomniac.slackware.it)
- - date_published: 2024-06-26T09:19:22.103015+00:00
-
- ## Linkfire Acquired smartURL | Music Marketing | Smart Links for music
- - [https://smarturl.it](https://smarturl.it)
- - date_published: 2023-11-05T16:12:49.518226+00:00
- - tags: ['link service']
-
- ## SMAT - Società Metropolitana Acque Torino S.p.A.
- - [http://www.smatorino.it](http://www.smatorino.it)
- - date_published: 2024-07-14T16:19:41.855890+00:00
-
- ## SMAU - Innovazione per la tua impresa
- - [http://www.smau.it](http://www.smau.it)
- - date_published: 2024-09-16T10:56:09.562303+00:00
-
- ## SnapRAID
- - [https://www.snapraid.it](https://www.snapraid.it)
- - date_published: 2024-01-22T21:06:20+00:00
-
- ## Sneup | Organiseer je eigen garage sale!
- - [https://sneup.it](https://sneup.it)
- - date_published: 2024-07-20T19:09:06.356593+00:00
-
- ## Snöball - Influencer marketing
- - [https://i.snoball.it](https://i.snoball.it)
- - date_published: 2024-08-06T06:54:22.023439+00:00
-
- ## Centro di Ricerca Matematica Ennio De Giorgi
- - [http://www.crm.sns.it](http://www.crm.sns.it)
- - date_published: 2024-06-30T08:58:05.747032+00:00
-
- ## Home - Passwordless Authentication
- - [https://snwbl.it](https://snwbl.it)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Societe Generale in Italy
- - [https://www.societegenerale.it](https://www.societegenerale.it)
- - date_published: 2024-07-18T08:12:52.007862+00:00
-
- ## SoCreate: Bring Your Stories to Life
- - [https://www.socreate.it](https://www.socreate.it)
- - date_published: 2024-08-18T00:27:50+00:00
-
- ## Matomo is undergoing maintenance
- - [https://dmlws-analytics.sogei.it](https://dmlws-analytics.sogei.it)
- - date_published: 2024-09-16T10:57:52.195571+00:00
-
- ## Sol Dabblers
- - [https://www.soldabblers.it](https://www.soldabblers.it)
- - date_published: 2024-08-06T16:08:17.000620+00:00
 

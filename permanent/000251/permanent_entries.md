@@ -1,3 +1,208 @@
+ ## Zoologischer Garten Magdeburg | Zoologischer Garten Magdeburg
+ - [http://www.zoo-magdeburg.de](http://www.zoo-magdeburg.de)
+ - date_published: 2024-08-11T22:27:03.856882+00:00
+
+ ## FAU Zoom: Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing
+ - [https://fau.zoom-x.de](https://fau.zoom-x.de)
+ - date_published: 2024-09-20T17:47:25.972831+00:00
+
+ ## Support
+ - [https://support.zooplus.de](https://support.zooplus.de)
+ - date_published: 2024-06-16T06:27:35.303352+00:00
+
+ ## Tierbedarf, Tierfutter, Tiernahrung günstig bestellen | zooplus
+ - [https://zooplus.de](https://zooplus.de)
+ - date_published: 2024-09-26T11:20:03.574968+00:00
+
+ ## package finder tool
+ - [https://maintainer.zq1.de](https://maintainer.zq1.de)
+ - date_published: 2024-05-08T08:49:54.518164+00:00
+
+ ## Index of /
+ - [https://rb.zq1.de](https://rb.zq1.de)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Zentrale Studienberatung Osnabrück - Zentrale Studienberatung Osnabrück (ZSB)
+ - [http://www.zsb-os.de](http://www.zsb-os.de)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
+ - [https://ztb-blutspende.de](https://ztb-blutspende.de)
+ - date_published: 2024-04-29T05:58:51.372800+00:00
+
+ ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
+ - [https://www.ztb-charite.de](https://www.ztb-charite.de)
+ - date_published: 2024-07-24T16:23:25.406695+00:00
+
+ ## Zeitfresser Blog — Lorem ipsum dolor sit amet, consetetur sad...
+ - [https://blog.ztfr.de](https://blog.ztfr.de)
+ - date_published: 2024-06-18T16:14:36.581498+00:00
+
+ ## Zeitfresser - Datenschutz, Sicherheit & Technik
+ - [https://ztfr.de](https://ztfr.de)
+ - date_published: 2024-10-22T18:35:01.290148+00:00
+
+ ## zufallsheld
+ - [https://zufallsheld.de](https://zufallsheld.de)
+ - date_published: 2024-02-22T13:05:21.693897+00:00
+
+ ## Zufärben
+ - [https://zufarben.de](https://zufarben.de)
+ - date_published: 2021-12-17T22:10:43+00:00
+
+ ## https://zukunft-der-sub.de
+ - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
+ - date_published: 2024-01-09T02:56:28.461043+00:00
+
+ ## www.zukunftsstiftung-bildung.de
+ - [https://zukunftsstiftung-bildung.de](https://zukunftsstiftung-bildung.de)
+ - date_published: 2024-10-02T10:46:49.126735+00:00
+
+ ## GLS Zukunftsstiftung Entwicklung
+ - [https://zukunftsstiftung-entwicklung.de](https://zukunftsstiftung-entwicklung.de)
+ - date_published: 2024-10-02T10:46:41.982491+00:00
+
+ ## www.zukunftsstiftung-landwirtschaft.de
+ - [https://zukunftsstiftung-landwirtschaft.de](https://zukunftsstiftung-landwirtschaft.de)
+ - date_published: 2024-10-02T10:46:43.371635+00:00
+
+ ## www.zukunftsstiftung-mensch-und-gesellschaft.de
+ - [https://zukunftsstiftung-mensch-und-gesellschaft.de](https://zukunftsstiftung-mensch-und-gesellschaft.de)
+ - date_published: 2024-10-02T10:46:44.828741+00:00
+
+ ## Zentrum für umweltbewusste Mobilität - ZuM Heidelberg
+ - [https://www.zum-hd.de](https://www.zum-hd.de)
+ - date_published: 2024-07-24T03:46:50.803701+00:00
+
+ ## Falko Zurell | wondering about stuff
+ - [https://falko.zurell.de](https://falko.zurell.de)
+ - date_published: 2024-05-09T07:59:10.675642+00:00
+
+ ## Home - Weinstube Zur Kiste
+ - [https://zur-kiste.de](https://zur-kiste.de)
+ - date_published: 2024-04-30T07:12:17.640198+00:00
+
+ ## ZWEITZEUGEN e.V.: Erinnern ohne Zeitzeug*innen
+ - [https://zweitzeugen.de](https://zweitzeugen.de)
+ - date_published: 2024-09-12T15:59:07.068254+00:00
+
+ ## Sinclair ZX81 ZX80 Timex TS1000 TS1500 user group ZX-TEAM
+ - [http://www.zx81.de](http://www.zx81.de)
+ - date_published: 2008-05-02T00:00:00+00:00
+
+ ## Future-proof custom software solutions
+ - [https://zyklum.de](https://zyklum.de)
+ - date_published: 2024-02-29T23:47:38+00:00
+
+ ## f.zz.de
+ - [http://f.zz.de](http://f.zz.de)
+ - date_published: 2024-07-08T02:04:07+00:00
+
+ ## Home - Black Friday TV Deals - The Best 4K, 8K, QLED & OLED
+ - [https://www.blackfridaytv.deals](https://www.blackfridaytv.deals)
+ - date_published: 2022-09-21T16:57:11+00:00
+
+ ## Game deals - Find video games on sale - GG.deals
+ - [https://gg.deals](https://gg.deals)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Jelly Deals
+ - [https://jelly.deals](https://jelly.deals)
+ - date_published: 2023-12-13T15:40:49.601884+00:00
+
+ ## Surfshark: secure online VPN service & more
+ - [https://surfshark.deals](https://surfshark.deals)
+ - date_published: 2024-02-24T09:57:36.415179+00:00
+
+ ## Transfer App
+ - [https://ecu.transfer.degree](https://ecu.transfer.degree)
+ - date_published: 2024-08-09T02:03:19+00:00
+
+ ## Explore - git.meli.delivery
+ - [https://git.meli.delivery](https://git.meli.delivery)
+ - date_published: 2023-10-25T18:34:11.386923+00:00
+
+ ## meli terminal mail client
+ - [https://meli.delivery](https://meli.delivery)
+ - date_published: 2024-04-29T07:13:36.005635+00:00
+
+ ## Relay Delivery
+ - [https://www.relay.delivery](https://www.relay.delivery)
+ - date_published: 2024-09-09T16:36:08.314616+00:00
+
+ ## Huckabuy Schema Delivery
+ - [https://schema.delivery](https://schema.delivery)
+ - date_published: 2024-08-18T07:13:21.813494+00:00
+
+ ## Dental ergonomic loupes, headlights & software - Bryant Dental
+ - [https://bryant.dental](https://bryant.dental)
+ - date_published: 2024-07-04T18:24:25.784816+00:00
+
+ ## 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐃𝐞𝐧𝐭𝐢𝐬𝐭 𝐢𝐧 𝐂𝐚𝐦𝐝𝐞𝐧, 𝐋𝐨𝐧𝐝𝐨𝐧 𝐨𝐩𝐞𝐧 𝟕 𝐝𝐚𝐲𝐬 𝐚 𝐰𝐞𝐞𝐤 𝐨𝐟𝐟𝐞𝐫𝐢𝐧𝐠 𝐚 𝐰𝐢𝐝𝐞 𝐫𝐚𝐧𝐠𝐞 𝐨𝐟 𝐝𝐞𝐧𝐭𝐚𝐥 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 🦷 𝐅𝐨𝐫𝐞𝐬𝐭 & 𝐑𝐚𝐲 😊 𝐃𝐞𝐧𝐭𝐢𝐬𝐭𝐬, 𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐬𝐭𝐬, 𝐈𝐦𝐩𝐥𝐚𝐧𝐭 𝐒𝐮𝐫𝐠𝐞𝐨𝐧𝐬
+ - [https://forestray.dentist](https://forestray.dentist)
+ - date_published: 2024-10-15T06:56:49+00:00
+
+ ## Alessandro De Simone - Software Engineer - London
+ - [https://alessandro.desi](https://alessandro.desi)
+ - date_published: 2023-12-19T09:58:57.272282+00:00
+ - tags: ['personal']
+
+ ## 1984.design • Expand your knowledge & improve your design skills.
+ - [https://1984.design](https://1984.design)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## ABIA
+ - [https://abia.design](https://abia.design)
+ - date_published: 2024-09-18T11:04:23.830368+00:00
+
+ ## Adobe Design
+ - [https://adobe.design](https://adobe.design)
+ - date_published: 2024-05-01T02:27:37.750190+00:00
+
+ ## AEQUO DESIGN
+ - [https://aequo.design](https://aequo.design)
+ - date_published: 2024-07-04T01:55:16.652397+00:00
+
+ ## Ai meets design - aimeets.design
+ - [https://aimeets.design](https://aimeets.design)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## aimpie.design
+ - [https://aimpie.design](https://aimpie.design)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Airbnb Design
+ - [https://airbnb.design](https://airbnb.design)
+ - date_published: 2024-04-29T07:18:12.718027+00:00
+
+ ## Algorithm-Driven Design — How Artificial Intelligence is Changing Design by Yury Vetrov
+ - [https://algorithms.design](https://algorithms.design)
+ - date_published: 2023-11-17T00:00:00+00:00
+
+ ## Anith Vishwanath • Product Designer
+ - [https://anith.design](https://anith.design)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Ant Design - The world's second most popular React UI framework
+ - [https://ant.design](https://ant.design)
+ - date_published: 2024-06-21T15:26:18+00:00
+
+ ## App Motion - Mobile motion design gallery
+ - [https://appmotion.design](https://appmotion.design)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## archives.design
+ - [https://archives.design](https://archives.design)
+ - date_published: 2023-10-25T18:34:15.291934+00:00
+
+ ## Artificial Design
+ - [https://artificial.design](https://artificial.design)
+ - date_published: 2024-05-09T08:23:25.805542+00:00
+
+ ## Atlas
+ - [https://atlas.design](https://atlas.design)
+ - date_published: 2024-09-09T13:59:39.666226+00:00
+
  ## Overview - Get started - Atlassian Design System
  - [https://atlassian.design](https://atlassian.design)
  - date_published: 2024-08-18T20:15:42+00:00
@@ -3853,210 +4058,4 @@
  ## DBOS Cloud
  - [https://console.dbos.dev](https://console.dbos.dev)
  - date_published: 2024-09-10T17:05:42+00:00
-
- ## DBOS Widget Store
- - [https://demo-widget-store.cloud.dbos.dev](https://demo-widget-store.cloud.dbos.dev)
- - date_published: 2024-09-10T20:36:21.404364+00:00
-
- ## Welcome to DBOS! | DBOS Docs
- - [https://docs.dbos.dev](https://docs.dbos.dev)
- - date_published: 2024-09-10T01:39:58+00:00
-
- ## DBOS - Transactional Serverless Platform for TypeScript
- - [https://www.dbos.dev](https://www.dbos.dev)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## DC Blog
- - [https://dcblog.dev](https://dcblog.dev)
- - date_published: 2024-10-28T23:31:34.400228+00:00
-
- ## RoR Debugbar
- - [https://debugbar.dev](https://debugbar.dev)
- - date_published: 2024-02-18T16:39:57+00:00
-
- ## Deepcore Development House
- - [https://lab.deepcore.dev](https://lab.deepcore.dev)
- - date_published: 2024-10-07T15:48:32.052998+00:00
-
- ## Defensive CSS
- - [https://defensivecss.dev](https://defensivecss.dev)
- - date_published: 2024-09-10T08:16:31.920578+00:00
-
- ## DeFi Pro - Decentralized Finance Course
- - [http://defipro.dev](http://defipro.dev)
- - date_published: 2024-11-25T21:03:36.452177+00:00
-
- ## Deklara
- - [https://deklara.dev](https://deklara.dev)
- - date_published: 2021-10-01T09:46:09+00:00
-
- ## Delba
- - [https://delba.dev](https://delba.dev)
- - date_published: 2024-07-02T19:01:49.839252+00:00
-
- ## Jakob Serlier's Personal Site
- - [https://delft.dev](https://delft.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Not Found
- - [https://assets.den.dev](https://assets.den.dev)
- - date_published: 2024-04-29T07:34:38.360802+00:00
-
- ## PowerToys Awake
- - [https://awake.den.dev](https://awake.den.dev)
- - date_published: 2024-04-29T07:34:40.070657+00:00
-
- ## Hi, I'm Den :wave:
- - [https://den.dev](https://den.dev)
- - date_published: 2023-10-25T08:58:28.132514+00:00
- - tags: ['personal']
-
- ## Blowater
- - [https://blowater.deno.dev](https://blowater.deno.dev)
- - date_published: 2024-08-18T22:02:25.266550+00:00
-
- ## deno bundle, as a service
- - [https://bundle.deno.dev](https://bundle.deno.dev)
- - date_published: 2024-06-17T16:23:42.056153+00:00
-
- ## David Sherret
- - [https://david.deno.dev](https://david.deno.dev)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## draw & share
- - [https://drawings.deno.dev](https://drawings.deno.dev)
- - date_published: 2024-07-06T21:20:39.961863+00:00
-
- ## Fresh Charts Examples
- - [https://fresh-charts.deno.dev](https://fresh-charts.deno.dev)
- - date_published: 2024-05-04T09:45:01.251969+00:00
-
- ## Fresh - The next-gen web framework.
- - [https://fresh.deno.dev](https://fresh.deno.dev)
- - date_published: 2024-04-30T02:02:33.536846+00:00
-
- ## nocuous
- - [https://nocuous.deno.dev](https://nocuous.deno.dev)
- - date_published: 2024-05-04T09:44:36.819503+00:00
-
- ## Referer analytics for https://pcalv.es
- - [https://referalytics.deno.dev](https://referalytics.deno.dev)
- - date_published: 2024-07-15T06:33:48.198542+00:00
-
- ## tswhy‽
- - [https://tswhy.deno.dev](https://tswhy.deno.dev)
- - date_published: 2024-05-04T09:44:35.214357+00:00
-
- ## Overview · Denoflare
- - [https://denoflare.dev](https://denoflare.dev)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Webtail for Cloudflare Workers
- - [https://webtail.denoflare.dev](https://webtail.denoflare.dev)
- - date_published: 2024-06-17T16:23:42.885352+00:00
-
- ## Writing | denvaar's Site
- - [https://denvaar.dev](https://denvaar.dev)
- - date_published: 2023-11-16T09:28:41.834997+00:00
-
- ## Depot
- - [https://depot.dev](https://depot.dev)
- - date_published: 2023-10-25T18:37:13.920387+00:00
-
- ## Status | Depot
- - [https://status.depot.dev](https://status.depot.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Open Source Insights
- - [https://deps.dev](https://deps.dev)
- - date_published: 2024-06-08T17:27:03+00:00
-
- ## Custom Web Design & Development
- - [https://designthen.dev](https://designthen.dev)
- - date_published: 2024-05-11T07:53:31.407734+00:00
-
- ## desinni - Front-end engineer, and a healthy lifestyle enthusiast
- - [https://desinni.dev](https://desinni.dev)
- - date_published: 2024-05-11T10:17:13.911469+00:00
-
- ## https://desislav.dev
- - [https://desislav.dev](https://desislav.dev)
- - date_published: 2024-01-09T02:57:13.240861+00:00
-
- ## David De Smet | Resume
- - [https://www.desmet.dev](https://www.desmet.dev)
- - date_published: 2024-05-06T09:08:43.820411+00:00
- - tags: ['personal']
-
- ## Devansh Bajaj
- - [https://devanshbajaj.dev](https://devanshbajaj.dev)
- - date_published: 2024-05-11T10:21:46.484864+00:00
-
- ## The Developing Dev | Ryan Peterman | Substack
- - [https://developing.dev](https://developing.dev)
- - date_published: 2023-10-25T18:37:18.745268+00:00
-
- ## Devicon
- - [https://devicon.dev](https://devicon.dev)
- - date_published: 2024-02-05T21:59:54+00:00
-
- ## DevOps.dev
- - [https://blog.devops.dev](https://blog.devops.dev)
- - date_published: 2023-10-25T18:37:21.821387+00:00
-
- ## DevRelCon NY
- - [https://nyc24.devrelcon.dev](https://nyc24.devrelcon.dev)
- - date_published: 2024-07-20T13:29:36+00:00
-
- ## Noelle's Place
- - [https://noelle.df1.dev](https://noelle.df1.dev)
- - date_published: 2024-10-22T22:02:21.317122+00:00
-
- ## Dieter Stinglhamber
- - [https://dieter.dev](https://dieter.dev)
- - date_published: 2024-05-11T10:09:26.504257+00:00
-
- ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
- - [https://api.differential.dev](https://api.differential.dev)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
- - [https://cdn.differential.dev](https://cdn.differential.dev)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
- - [https://console.differential.dev](https://console.differential.dev)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Differential: Type safe RPC that feels like local functions
- - [https://differential.dev](https://differential.dev)
- - date_published: 2024-03-09T03:15:16+00:00
-
- ## Differential
- - [https://docs.differential.dev](https://docs.differential.dev)
- - date_published: 2024-05-08T22:18:33+00:00
-
- ## Digger.dev
- - [https://blog.digger.dev](https://blog.digger.dev)
- - date_published: 2024-01-04T16:43:27.471043+00:00
-
- ## Digger - CI/CD orchestrator for Terraform
- - [https://digger.dev](https://digger.dev)
- - date_published: 2024-04-29T07:35:21.341604+00:00
-
- ## About Digger - Digger
- - [https://docs.digger.dev](https://docs.digger.dev)
- - date_published: 2024-04-29T07:35:24.039355+00:00
-
- ## IT expertise, security guaranteed | digidib
- - [https://digidib.dev](https://digidib.dev)
- - date_published: 2024-05-21T08:38:49+00:00
-
- ## Awesome Viewer - For Awesome Lists
- - [https://awesome.digitalbunker.dev](https://awesome.digitalbunker.dev)
- - date_published: 2024-11-08T19:09:23.749987+00:00
-
- ## Digital Bunker
- - [https://digitalbunker.dev](https://digitalbunker.dev)
- - date_published: 2024-06-20T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Data Sciences Institute (DSI) Home - DSI
+ - [https://datasciences.utoronto.ca](https://datasciences.utoronto.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Your Data – IRDG Office – University of Toronto
+ - [https://data.viceprovoststudents.utoronto.ca](https://data.viceprovoststudents.utoronto.ca)
+ - date_published: 2024-06-22T11:41:31.955044+00:00
+
  ## Providing IT support for Temerty Medicine
  - [http://dc.med.utoronto.ca](http://dc.med.utoronto.ca)
  - date_published: 2024-07-25T17:42:17+00:00
@@ -4002,12 +4010,4 @@
  ## Lemmy.cat - Plataforma d'agregació d'enllaços i discussió, en català
  - [https://lemmy.cat](https://lemmy.cat)
  - date_published: 2024-06-16T00:00:00+00:00
-
- ## Gran Teatre del Liceu
- - [https://www.liceubarcelona.cat](https://www.liceubarcelona.cat)
- - date_published: 2024-09-19T01:37:26.886929+00:00
-
- ## Inici - Localret
- - [http://www.localret.cat](http://www.localret.cat)
- - date_published: 2024-09-12T00:00:00+00:00
 

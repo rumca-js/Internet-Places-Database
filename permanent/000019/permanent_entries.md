@@ -1,3 +1,11 @@
+ ## PyCon Canada 2019
+ - [http://pycon.ca](http://pycon.ca)
+ - date_published: 2024-06-28T20:23:54.732633+00:00
+
+ ## Pyskool
+ - [https://pyskool.ca](https://pyskool.ca)
+ - date_published: 2019-06-17T21:02:00+00:00
+
  ## Welcome to Python.org
  - [http://python.ca](http://python.ca)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -4019,12 +4027,4 @@
  ## Home | Daniels
  - [https://daniels.utoronto.ca](https://daniels.utoronto.ca)
  - date_published: 2024-05-08T11:44:38.391545+00:00
-
- ## Data Sciences Institute (DSI) Home - DSI
- - [https://datasciences.utoronto.ca](https://datasciences.utoronto.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Your Data – IRDG Office – University of Toronto
- - [https://data.viceprovoststudents.utoronto.ca](https://data.viceprovoststudents.utoronto.ca)
- - date_published: 2024-06-22T11:41:31.955044+00:00
 

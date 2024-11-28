@@ -1,3 +1,11 @@
+ ## Inside IT – Das Magazin für IT-Verantwortliche
+ - [https://inside-channels.ch](https://inside-channels.ch)
+ - date_published: 2024-09-18T14:53:52.712305+00:00
+
+ ## Inside-IT Events | Events
+ - [https://events.inside-it.ch](https://events.inside-it.ch)
+ - date_published: 2024-07-13T09:53:05.713996+00:00
+
  ## Erhalten Sie Zugang zur grössten ICT-Community der Schweiz
  - [https://inserieren.inside-it.ch](https://inserieren.inside-it.ch)
  - date_published: 2024-03-05T08:31:57+00:00
@@ -4014,12 +4022,4 @@ Fakultät | Universität Basel
  ## Home - Catalogue des services numériques - UNIGE
  - [https://catalogue-si.unige.ch](https://catalogue-si.unige.ch)
  - date_published: 2024-04-30T06:15:14.289285+00:00
-
- ## Accueil - LA DURABILITE à l'UNIGE - UNIGE
- - [https://durable.unige.ch](https://durable.unige.ch)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## EduTech Wiki
- - [https://edutechwiki.unige.ch](https://edutechwiki.unige.ch)
- - date_published: 2022-06-30T13:16:16+00:00
 

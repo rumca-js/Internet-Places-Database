@@ -1,3 +1,172 @@
+ ## Little Spark Stack | Lisa Colón DeLay | SparkMyMuse | Substack
+ - [https://sparkmymuse.substack.com](https://sparkmymuse.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The Spartacus App Blog | Jordan Braunstein | Substack
+ - [https://spartacusapp.substack.com](https://spartacusapp.substack.com)
+ - date_published: 2024-07-07T07:23:03.550599+00:00
+
+ ## Spatial Thoughts Newsletter | Ujaval Gandhi | Substack
+ - [https://spatialthoughts.substack.com](https://spatialthoughts.substack.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## SPEGEL | R Spegel | Substack
+ - [https://spegel.substack.com](https://spegel.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## spencer's paradoxes | Spencer Chang | Substack
+ - [https://spencerchang.substack.com](https://spencerchang.substack.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## As If We Were Staying | Spencer R. Scott | Substack
+ - [https://spencerrscott.substack.com](https://spencerrscott.substack.com)
+ - date_published: 2024-04-30T06:18:48.416937+00:00
+
+ ## Future Proof  | Substack
+ - [https://spinofffutureproof.substack.com](https://spinofffutureproof.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Spirit of Solidarity | Substack
+ - [https://spiritofsolidarity.substack.com](https://spiritofsolidarity.substack.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Spoils of War | Andrew Cockburn | Substack
+ - [https://spoilsofwar.substack.com](https://spoilsofwar.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Spoook - the Substack of James McMahon | Substack
+ - [https://spoook.substack.com](https://spoook.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Square Circle | Carlos Ramírez | Substack
+ - [https://squarecircle.substack.com](https://squarecircle.substack.com)
+ - date_published: 2024-06-17T04:02:20.916531+00:00
+
+ ## Get Down and Shruti | Shruti Rajagopalan | Substack
+ - [https://srajagopalan.substack.com](https://srajagopalan.substack.com)
+ - date_published: 2024-07-03T21:52:19.882271+00:00
+
+ ## Sam's Newsletter  | Sam Ritchie | Substack
+ - [https://sritchie.substack.com](https://sritchie.substack.com)
+ - date_published: 2024-07-07T08:23:54.010430+00:00
+
+ ## Staking Facilities | Substack
+ - [https://stakingfacilities.substack.com](https://stakingfacilities.substack.com)
+ - date_published: 2024-09-25T14:20:13.028265+00:00
+
+ ## Ensign's Log, Stardate... | Substack
+ - [https://stardate.substack.com](https://stardate.substack.com)
+ - date_published: 2024-05-10T06:46:47.082658+00:00
+
+ ## Stars After Stars After Stars | James Barber | Substack
+ - [https://starsafterstarsafterstars.substack.com](https://starsafterstarsafterstars.substack.com)
+ - date_published: 2024-01-10T03:57:55.390842+00:00
+
+ ## Startup Dad | Adam Fishman | Substack
+ - [https://startupdadpod.substack.com](https://startupdadpod.substack.com)
+ - date_published: 2024-05-04T06:13:31.518965+00:00
+
+ ## Innovation Nation | George Patterson Sibble | Substack
+ - [https://startupdreams.substack.com](https://startupdreams.substack.com)
+ - date_published: 2023-10-25T10:04:12.459507+00:00
+ - tags: ['substack']
+
+ ## Startup Pirate by Alex Alexakis | Substack
+ - [https://startuppirate.substack.com](https://startuppirate.substack.com)
+ - date_published: 2024-01-09T01:44:39.384964+00:00
+
+ ## Start-up Society | Substack
+ - [https://startupsociety.substack.com](https://startupsociety.substack.com)
+ - date_published: 2024-05-07T10:05:11.374062+00:00
+
+ ## State of AI Report | Substack
+ - [https://stateofai.substack.com](https://stateofai.substack.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## The Future of Statistical Modeling | Andrew Gelman | Substack
+ - [https://statmodeling.substack.com](https://statmodeling.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## The Status Kuo | Jay Kuo | Substack
+ - [https://statuskuo.substack.com](https://statuskuo.substack.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Substack Status
+ - [https://status.substack.com](https://status.substack.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Stay-At-Home Macro (SAHM) | Claudia Sahm | Substack
+ - [https://stayathomemacro.substack.com](https://stayathomemacro.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Steady | Dan Rather | Substack
+ - [https://steady.substack.com](https://steady.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## steelweaver | Steve Wheeler | Substack
+ - [https://steelweaver.substack.com](https://steelweaver.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Mirror of the Self | Stefan Lesser | Substack
+ - [https://stefanlesser.substack.com](https://stefanlesser.substack.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Stefan’s Substack | Stefan Schubert | Substack
+ - [https://stefanschubert.substack.com](https://stefanschubert.substack.com)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## The Silver Age | Stefan Silver | Substack
+ - [https://stefansilver.substack.com](https://stefansilver.substack.com)
+ - date_published: 2024-06-21T08:32:31.266449+00:00
+
+ ## AI for Humanity with Stefan Speaks | Substack
+ - [https://stefanspeaks.substack.com](https://stefanspeaks.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Pink Animal Light | St. White | Substack
+ - [https://stefanwhite.substack.com](https://stefanwhite.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Software and the energy transition | Stephen Young | Substack
+ - [https://stephendeyoung.substack.com](https://stephendeyoung.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Flights of the Moorglade | Stephen D Forman | Substack
+ - [https://stephendforman.substack.com](https://stephendforman.substack.com)
+ - date_published: 2024-10-19T11:51:51.997142+00:00
+
+ ## The Fry Corner | Stephen Fry | Substack
+ - [https://stephenfry.substack.com](https://stephenfry.substack.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Stephen Reid In Correspondence | Substack
+ - [https://stephenreid.substack.com](https://stephenreid.substack.com)
+ - date_published: 2024-08-25T00:00:00+00:00
+
+ ## BrainCation | Stephen Scott | Substack
+ - [https://stephenscott.substack.com](https://stephenscott.substack.com)
+ - date_published: 2024-07-12T23:37:27.073396+00:00
+
+ ## the bookmark | Steph Clarke | Substack
+ - [https://stephsbusinessbookshelf.substack.com](https://stephsbusinessbookshelf.substack.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Steve Blank | Substack
+ - [https://steveblank.substack.com](https://steveblank.substack.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Steve Coast’s Musings | Substack
+ - [https://stevecoast.substack.com](https://stevecoast.substack.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Information Processing - Steve Hsu | Substack
+ - [https://stevehsu.substack.com](https://stevehsu.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Missing & Incorrect | Steve Kenning | Substack
+ - [https://stevekenning.substack.com](https://stevekenning.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
  ## Steve Kirsch's newsletter | Substack
  - [https://stevekirsch.substack.com](https://stevekirsch.substack.com)
  - date_published: 2024-09-16T20:05:53.459956+00:00
@@ -3884,175 +4053,4 @@
  ## Deep Sleep Sounds Premium
  - [https://sleepsounds.supercast.com](https://sleepsounds.supercast.com)
  - date_published: 2024-09-16T07:21:07.084160+00:00
-
- ## Slumber Studios
- - [https://slumber.supercast.com](https://slumber.supercast.com)
- - date_published: 2024-09-16T07:20:58.034830+00:00
-
- ## Supercast is podcast subscription that's made for podcasters
- - [https://supercast.com](https://supercast.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## The White Saviors Ad-Free
- - [https://thewhitesaviors.supercast.com](https://thewhitesaviors.supercast.com)
- - date_published: 2024-07-03T23:19:48.865073+00:00
-
- ## Thunder Bay Ad-Free
- - [https://thunderbay.supercast.com](https://thunderbay.supercast.com)
- - date_published: 2024-07-03T23:19:41.803011+00:00
-
- ## Understanding VC
- - [https://understandingvc.supercast.com](https://understandingvc.supercast.com)
- - date_published: 2024-06-29T20:20:27.277485+00:00
-
- ## Wag the Doug Ad-Free
- - [https://wtd.supercast.com](https://wtd.supercast.com)
- - date_published: 2024-07-03T23:19:35.971849+00:00
-
- ## Supercede | The Reinsurance Platform
- - [https://supercede.com](https://supercede.com)
- - date_published: 2024-08-19T08:22:32.668301+00:00
-
- ## Supercell ID
- - [https://accounts.supercell.com](https://accounts.supercell.com)
- - date_published: 2024-06-21T18:25:09.324449+00:00
-
- ## Supercell Creators
- - [https://creators.supercell.com](https://creators.supercell.com)
- - date_published: 2024-06-19T09:28:43+00:00
-
- ## Supercell Make
- - [https://make.supercell.com](https://make.supercell.com)
- - date_published: 2024-06-19T08:54:47+00:00
-
- ## Squad Busters - Supercell's New Party Action Game!
- - [https://squadbusters.supercell.com](https://squadbusters.supercell.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Supercell Store
- - [https://store.supercell.com](https://store.supercell.com)
- - date_published: 2024-06-21T18:25:10.110887+00:00
- - tags: ['brawl stars']
-
- ## Supercell
- - [https://supercell.com](https://supercell.com)
- - date_published: 2024-02-04T12:19:27+00:00
- - tags: ['video game developer', 'brawl stars', 'mobile games']
-
- ## Supercell Support Portal
- - [https://help.supercellsupport.com](https://help.supercellsupport.com)
- - date_published: 2024-05-12T06:55:44.668760+00:00
-
- ## supercentenarian .com
- - [https://supercentenarian.com](https://supercentenarian.com)
- - date_published: 2023-07-30T21:43:25+00:00
-
- ## Home Page
- - [https://supercflradio.com](https://supercflradio.com)
- - date_published: 2024-06-13T10:37:16.286911+00:00
-
- ## Supercharged - Ad-free news, made just for you
- - [https://superchargednews.com](https://superchargednews.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Supercharged Printmakers – Screen printing studio in northeast Minneapolis
- - [https://superchargedprintmakers.com](https://superchargedprintmakers.com)
- - date_published: 2024-07-12T21:42:34.891860+00:00
-
- ## Welcome to the Supercharged Supply Chain podcast - Supercharged Supply Chain
- - [https://superchargedsupplychain.com](https://superchargedsupplychain.com)
- - date_published: 2020-07-24T13:17:42+00:00
-
- ## The messaging solution for your business | Superchat
- - [https://superchat.com](https://superchat.com)
- - date_published: 2024-10-28T18:20:38.453379+00:00
-
- ## SpaceAgency
- - [https://spaceagency.supercluster.com](https://spaceagency.supercluster.com)
- - date_published: 2024-08-19T05:02:49.748057+00:00
-
- ## Our Greatest Space Stories
- - [https://supercluster.com](https://supercluster.com)
- - date_published: 2023-10-25T17:19:39.677669+00:00
-
- ## Supercounters - free hit counter,users online counter flag counter visitor map for website blog and tumblr
- - [https://www.supercounters.com](https://www.supercounters.com)
- - date_published: 2024-06-18T14:20:46.235296+00:00
-
- ## Supercrazyprints.com
- - [https://www.supercrazyprints.com](https://www.supercrazyprints.com)
- - date_published: 2024-05-06T16:13:20.305019+00:00
-
- ## SuperDataScience
- - [https://superdatascience.com](https://superdatascience.com)
- - date_published: 2024-04-29T02:58:40.808217+00:00
-
- ## Index of /
- - [http://www.superdickery.com](http://www.superdickery.com)
- - date_published: 2022-07-31T00:00:00+00:00
-
- ## Super Doomed Planet
- - [http://www.superdoomedplanet.com](http://www.superdoomedplanet.com)
- - date_published: 2023-05-02T23:08:35+00:00
-
- ## Superdrug™ Online Doctor, at your fingertips ☝️
- - [https://onlinedoctor.superdrug.com](https://onlinedoctor.superdrug.com)
- - date_published: 2024-10-20T22:54:05.625643+00:00
-
- ## Homepage - Superdrug Online Pharmacy
- - [https://onlinepharmacy.superdrug.com](https://onlinepharmacy.superdrug.com)
- - date_published: 2024-10-20T22:54:02.965028+00:00
-
- ## Fragrance, Skincare, Make Up and more | Superdrug
- - [https://www.superdrug.com](https://www.superdrug.com)
- - date_published: 2024-06-18T08:11:19.423879+00:00
-
- ## Super Easy Apps
- - [https://blog.supereasyapps.com](https://blog.supereasyapps.com)
- - date_published: 2024-06-23T15:44:45.700838+00:00
-
- ## Super Evil Megacorp
- - [http://www.superevilmegacorp.com](http://www.superevilmegacorp.com)
- - date_published: 2024-06-27T12:49:41.431397+00:00
-
- ## Super Fast Python – making you awesome at concurrency
- - [https://superfastpython.com](https://superfastpython.com)
- - date_published: 2023-10-25T17:19:42.973908+00:00
- - tags: ['python', 'book']
-
- ## Home - Patterns - Superfeedr
- - [https://assets.superfeedr.com](https://assets.superfeedr.com)
- - date_published: 2018-01-29T18:32:49+00:00
-
- ## Superfeedr Blog
- - [http://blog.superfeedr.com](http://blog.superfeedr.com)
- - date_published: 2017-02-06T00:00:00+00:00
-
- ## Bridgy Fed's PubSubHubbub Hub
- - [https://bridgy-fed.superfeedr.com](https://bridgy-fed.superfeedr.com)
- - date_published: 2024-05-06T14:49:40.872255+00:00
-
- ## chrisjones.io's PubSubHubbub Hub
- - [https://chrisjonesio.superfeedr.com](https://chrisjonesio.superfeedr.com)
- - date_published: 2024-04-28T02:53:41.674065+00:00
-
- ## FeedPress's PubSubHubbub Hub
- - [https://feedpress.superfeedr.com](https://feedpress.superfeedr.com)
- - date_published: 2024-07-19T19:59:56.308950+00:00
-
- ## gRegorLove.com's PubSubHubbub Hub
- - [https://gregorlove.superfeedr.com](https://gregorlove.superfeedr.com)
- - date_published: 2024-07-03T18:02:53.980879+00:00
-
- ## Keith J. Grant's PubSubHubbub Hub
- - [https://keithjgrant.superfeedr.com](https://keithjgrant.superfeedr.com)
- - date_published: 2024-06-21T20:07:44.169335+00:00
-
- ## Kicks Condor's PubSubHubbub Hub
- - [https://kicks.superfeedr.com](https://kicks.superfeedr.com)
- - date_published: 2024-06-14T15:14:32.061730+00:00
-
- ## martymcgui.re's PubSubHubbub Hub
- - [http://martymcguire.superfeedr.com](http://martymcguire.superfeedr.com)
- - date_published: 2024-09-15T10:35:59.298978+00:00
 

@@ -1,3 +1,261 @@
+ ## ZORRO – Zero Downtime in Cyber Physical Systems
+ - [https://zorro-project.nl](https://zorro-project.nl)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Zostera IT & Consultancy
+ - [https://zostera.nl](https://zostera.nl)
+ - date_published: 2022-10-07T04:58:24+00:00
+
+ ## Geef jij energie aan maatschappelijke vernieuwing?
+ - [https://ztorm.nl](https://ztorm.nl)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Home
+ - [https://www.zuid-holland.nl](https://www.zuid-holland.nl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Zuid-Hollands Landschap
+ - [https://www.zuidhollandslandschap.nl](https://www.zuidhollandslandschap.nl)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Zwangerschaps Veranderingen | Mijn verhaal en bevindingen over zwangerschap over het algemeen
+ - [https://zwangerschapsveranderingen.nl](https://zwangerschapsveranderingen.nl)
+ - date_published: 2023-11-28T08:43:31+00:00
+
+ ## ZwolleNieuwsbord.nl | Laatste nieuws Zwolle
+ - [https://zwollenieuwsbord.nl](https://zwollenieuwsbord.nl)
+ - date_published: 2024-09-15T01:27:52+00:00
+
+ ## Online spelletjesnetwerk en uitgever van online spellen
+ - [https://zygomatic.nl](https://zygomatic.nl)
+ - date_published: 2024-07-11T13:12:54.555435+00:00
+
+ ## Bergen kommune - Forside
+ - [https://www.bergen.kommune.no](https://www.bergen.kommune.no)
+ - date_published: 2024-07-10T10:35:20.570759+00:00
+
+ ## Aktuelt fra Oslo kommune
+ - [https://aktuelt.oslo.kommune.no](https://aktuelt.oslo.kommune.no)
+ - date_published: 2024-05-11T08:02:53.617162+00:00
+
+ ## Oslo kommune - Startsiden
+ - [https://oslo.kommune.no](https://oslo.kommune.no)
+ - date_published: 2024-03-18T20:28:15+00:00
+ - tags: ['norway news']
+
+ ## Klaus Zimmermann's musings - Welcome to kzimmermann's corner
+ - [https://kzimmermann.0x.no](https://kzimmermann.0x.no)
+ - date_published: 2024-09-01T18:23:19+00:00
+
+ ## Jokull | Helge Tennø
+ - [https://www.180360720.no](https://www.180360720.no)
+ - date_published: 2024-09-05T12:54:19.638955+00:00
+
+ ## Opplysningen 1881, telefonkatalogen, kart, tlf, nummeropplysning, telefonnummer
+ - [https://www.1881.no](https://www.1881.no)
+ - date_published: 2024-08-17T23:51:11.052514+00:00
+
+ ## Komplett Nettbutikk klar til bruk | 24 Nettbutikk
+ - [https://www.24nettbutikk.no](https://www.24nettbutikk.no)
+ - date_published: 2024-10-20T11:43:15.774845+00:00
+
+ ## 3M Science. Applied to Life. | 3M Norge
+ - [https://www.3mnorge.no](https://www.3mnorge.no)
+ - date_published: 2024-08-06T10:39:33.967269+00:00
+
+ ## 68 Degrees North
+ - [https://68degrees.no](https://68degrees.no)
+ - date_published: 2024-05-09T07:49:04.783251+00:00
+
+ ## Play @ 68 Degrees
+ - [https://play.68degrees.no](https://play.68degrees.no)
+ - date_published: 2024-06-12T08:16:54+00:00
+
+ ## H.W. Sanden
+ - [https://8yd.no](https://8yd.no)
+ - date_published: 2024-05-07T23:15:41.186198+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.8yd.no](https://analytics.8yd.no)
+ - date_published: 2024-07-02T19:29:13.436276+00:00
+
+ ## Hjem | Abelprisen
+ - [https://abelprisen.no](https://abelprisen.no)
+ - date_published: 2024-08-18T21:21:54.257697+00:00
+
+ ## Home | The Abel Prize
+ - [https://abelprize.no](https://abelprize.no)
+ - date_published: 2023-10-25T20:47:04.345152+00:00
+
+ ## Vi digitaliserer Norges kulturarv - abmdig
+ - [https://abmdig.no](https://abmdig.no)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Mote på nettet fra mer enn 1 000 toppmerker | ABOUT YOU
+ - [https://m.aboutyou.no](https://m.aboutyou.no)
+ - date_published: 2024-09-17T19:05:55+00:00
+
+ ## Mote på nettet fra mer enn 1 000 toppmerker | ABOUT YOU
+ - [https://www.aboutyou.no](https://www.aboutyou.no)
+ - date_published: 2024-09-17T19:05:55+00:00
+
+ ## Abstractions AS
+ - [https://www.abstractions.no](https://www.abstractions.no)
+ - date_published: 2024-08-17T23:50:48.416739+00:00
+
+ ## Experts in making a better world | ACCIONA | Business as unusual
+ - [https://acciona.no](https://acciona.no)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## ACOS AS
+ - [https://www.acos.no](https://www.acos.no)
+ - date_published: 2024-08-17T23:50:15.217603+00:00
+
+ ## Actis | Rusfeltets samarbeidsorgan
+ - [https://actis.no](https://actis.no)
+ - date_published: 2024-10-18T21:24:59.594014+00:00
+
+ ## Rekrutterings- og bemanningsselskap | Adecco
+ - [http://www.adecco.no](http://www.adecco.no)
+ - date_published: 2024-01-15T12:21:34+00:00
+
+ ## adidas Online Shop Norge | Sportsklær
+ - [https://www.adidas.no](https://www.adidas.no)
+ - date_published: 2024-07-14T12:13:52.983794+00:00
+
+ ## Adserve  - Komplett plattform for digitale kampanjer
+ - [https://adserve.no](https://adserve.no)
+ - date_published: 2024-06-25T22:20:34.062163+00:00
+
+ ## Aftenposten
+ - [https://www.aftenposten.no](https://www.aftenposten.no)
+ - date_published: 2024-11-20T05:19:29.627867+00:00
+
+ ## Agens
+ - [https://agens.no](https://agens.no)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Arkitektur- og designhøgskolen i Oslo
+ - [https://aho.no](https://aho.no)
+ - date_published: 2024-05-12T05:09:18.990203+00:00
+
+ ## Airbnb | Ferieboliger, hytter, hus nær stranden med mer
+ - [https://airbnb.no](https://airbnb.no)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Aksel Løvstad
+ - [https://aksellovstad.no](https://aksellovstad.no)
+ - date_published: 2024-07-04T01:58:54.230467+00:00
+
+ ## Alfa Romeo Norge
+ - [https://www.alfaromeo.no](https://www.alfaromeo.no)
+ - date_published: 2024-05-31T15:12:51+00:00
+
+ ## Alfasoft | Software, Solutions and Services for Science and Technology
+ - [https://shop.alfasoft.no](https://shop.alfasoft.no)
+ - date_published: 2024-07-09T18:03:39.560723+00:00
+
+ ## Alvestrand Data
+ - [https://www.alvestrand.no](https://www.alvestrand.no)
+ - date_published: 2014-02-10T23:36:07+00:00
+
+ ## Arctic Monitoring and Assessment Programme | AMAP
+ - [https://www.amap.no](https://www.amap.no)
+ - date_published: 2024-06-24T04:53:18.577643+00:00
+
+ ## amateursoftwaregroup.no
+ - [http://www.amateursoftwaregroup.no](http://www.amateursoftwaregroup.no)
+ - date_published: 2024-06-17T12:01:42+00:00
+
+ ## AMBIO avdelinger bemanning drikkevann programvare
+ - [https://www.ambio.no](https://www.ambio.no)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Forside - Akademiet Videreutdanning
+ - [http://www.aof.no](http://www.aof.no)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Bestill en reise – verden over. Et mangfold av reiser. | Apollo
+ - [https://www.apollo.no](https://www.apollo.no)
+ - date_published: 2024-06-25T17:11:10+00:00
+
+ ## Apotek 1
+ - [https://www.apotek1.no](https://www.apotek1.no)
+ - date_published: 2024-08-15T13:29:27+00:00
+
+ ## Arbeidsmiljøportalen
+ - [https://www.arbeidsmiljoportalen.no](https://www.arbeidsmiljoportalen.no)
+ - date_published: 2024-02-19T10:17:59+00:00
+
+ ## Arendalsuka
+ - [https://www.arendalsuka.no](https://www.arendalsuka.no)
+ - date_published: 2024-08-18T19:23:42+00:00
+
+ ## Arkitektur
+ - [https://www.arkitektur.no](https://www.arkitektur.no)
+ - date_published: 2024-06-28T09:23:02.830000+00:00
+
+ ## TV-aksjonen NRK and The Rainforest Foundation October 18th
+ - [http://rainforest.arkivert.no](http://rainforest.arkivert.no)
+ - date_published: 2024-08-06T20:03:20.595342+00:00
+
+ ## Arkivverket
+ - [http://arkivverket.no](http://arkivverket.no)
+ - date_published: 2024-10-21T21:04:42.621671+00:00
+
+ ## Arthaus
+ - [https://www.arthaus.no](https://www.arthaus.no)
+ - date_published: 2024-05-15T10:20:47+00:00
+
+ ## Artworx AS - Digital og grafisk byrå
+ - [http://www.artworx.no](http://www.artworx.no)
+ - date_published: 2024-06-25T22:20:35.933698+00:00
+
+ ## Aschehoug
+ - [https://aschehoug.no](https://aschehoug.no)
+ - date_published: 2024-07-10T10:35:11.752596+00:00
+
+ ## Aspit journalsystemer | Aspit
+ - [https://www.aspit.no](https://www.aspit.no)
+ - date_published: 2024-07-18T14:49:22.018520+00:00
+
+ ## Hjem | Attac Norge
+ - [https://attac.no](https://attac.no)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Audi Norge | Vi former fremtidens premium mobilitet
+ - [https://www.audi.no](https://www.audi.no)
+ - date_published: 2024-07-19T20:53:00+00:00
+
+ ## Audrvin
+ - [https://audrvin.no](https://audrvin.no)
+ - date_published: 2023-10-31T19:10:37+00:00
+
+ ## Aurum - ikke annerledes, bare litt bedre.
+ - [https://aurum.no](https://aurum.no)
+ - date_published: 2023-04-02T10:56:10+00:00
+
+ ## Elektronisk kjørebok, bompasseringer, gps, sporingsenheter, mobil arbeidsordre | Automile
+ - [http://www.automile.no](http://www.automile.no)
+ - date_published: 2024-10-03T08:35:59.028887+00:00
+
+ ## Bergen kirkeautunnale - festival for kirkemusikk 2024
+ - [https://autunnale.no](https://autunnale.no)
+ - date_published: 2024-08-02T18:47:40.296760+00:00
+
+ ## Forside
+ - [https://avogtil.no](https://avogtil.no)
+ - date_published: 2024-10-18T21:25:34.828681+00:00
+
+ ## avvir.no
+ - [http://avvir.no](http://avvir.no)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Back In Time
+ - [https://backintime.no](https://backintime.no)
+ - date_published: 2023-08-30T07:42:37+00:00
+ - tags: ['commodore 64']
+
  ## Balansekunst
  - [https://balansekunst.no](https://balansekunst.no)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -3772,265 +4030,4 @@ marginalia.nu
  ## annika's journal
  - [http://annika.mu.nu](http://annika.mu.nu)
  - date_published: 2010-12-16T06:21:39+00:00
-
- ## Blogmeister USA
- - [http://blogmeisterusa.mu.nu](http://blogmeisterusa.mu.nu)
- - date_published: 2024-06-27T09:30:34.961214+00:00
-
- ## MOVABLE TYPE :: Personal Publishing System
- - [http://blog.mu.nu](http://blog.mu.nu)
- - date_published: 2024-06-20T02:22:58.327266+00:00
-
- ## Confederate Yankee
- - [http://confederateyankee.mu.nu](http://confederateyankee.mu.nu)
- - date_published: 2024-06-27T06:40:54.819840+00:00
-
- ## Flibbertigibbet
- - [https://flibbertigibbet.mu.nu](https://flibbertigibbet.mu.nu)
- - date_published: 2007-10-15T11:30:15+00:00
-
- ## Little Miss Attila
- - [http://littlemissattila.mu.nu](http://littlemissattila.mu.nu)
- - date_published: 2024-06-27T09:10:51.281354+00:00
-
- ## Publicola
- - [http://publicola.mu.nu](http://publicola.mu.nu)
- - date_published: 2014-03-27T21:48:42+00:00
-
- ## Rambling Rhodes
- - [http://ramblingrhodes.mu.nu](http://ramblingrhodes.mu.nu)
- - date_published: 2014-04-10T19:47:01+00:00
-
- ## Cotillion
- - [http://www.cotillionball.mu.nu](http://www.cotillionball.mu.nu)
- - date_published: 2024-06-27T09:13:20.129401+00:00
-
- ## The LLama Butchers:
- - [http://www.llamabutchers.mu.nu](http://www.llamabutchers.mu.nu)
- - date_published: 2024-07-03T21:53:54.246335+00:00
-
- ## n a i a d . n u
- - [https://naiad.nu](https://naiad.nu)
- - date_published: 2024-08-06T04:58:32.818691+00:00
-
- ## Nu2 Productions Website
- - [http://www.nu2.nu](http://www.nu2.nu)
- - date_published: 2024-07-09T07:01:06.718368+00:00
-
- ## Amiga online magazines – online and older diskmags, and chartmags
- - [https://diskmags.nukleus.nu](https://diskmags.nukleus.nu)
- - date_published: 2024-08-18T04:19:49.051060+00:00
-
- ## NLS
- - [https://nukleus.nu](https://nukleus.nu)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## NUNAMES.NU - Register your .NU DOMAIN TODAY
- - [https://nunames.nu](https://nunames.nu)
- - date_published: 2022-10-28T00:00:00+00:00
-
- ## För dig som är intresserad av E-sport, Warcraft mm
- - [https://ogre.nu](https://ogre.nu)
- - date_published: 2016-08-24T14:40:42+00:00
-
- ## oubliette [ .nu ]     ✻     the wither and bloom network
- - [https://oubliette.nu](https://oubliette.nu)
- - date_published: 2024-11-17T19:36:57.100045+00:00
- - tags: ['personal']
-
- ## Parabola Issue Tracker
- - [https://labs.parabola.nu](https://labs.parabola.nu)
- - date_published: 2024-07-20T12:07:54.087125+00:00
-
- ## lists.parabola.nu Mailing Lists
- - [https://lists.parabola.nu](https://lists.parabola.nu)
- - date_published: 2024-07-20T12:07:50.519538+00:00
-
- ## Parabola GNU/Linux-libre
- - [https://parabola.nu](https://parabola.nu)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Parabola git repositories
- - [https://projects.parabola.nu](https://projects.parabola.nu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## ParabolaWiki
- - [https://wiki.parabola.nu](https://wiki.parabola.nu)
- - date_published: 2023-02-07T20:46:59+00:00
-
- ## Pick Up Lines
- - [https://www.pickuplines.nu](https://www.pickuplines.nu)
- - date_published: 2024-07-02T21:29:52.224260+00:00
-
- ## The Fluffy Squirrel (( A Fanlisting Collective ))
- - [https://fan.psyche.nu](https://fan.psyche.nu)
- - date_published: 2024-07-07T01:52:43.944240+00:00
-
- ## PSYCHE.NU v6.0 Project YoRHa ... VIRTUE & cruelty
- - [https://psyche.nu](https://psyche.nu)
- - date_published: 2024-05-08T08:51:57.318763+00:00
-
- ## QuakeWorld GFX - Download QW graphics & custom maps
- - [https://gfx.quakeworld.nu](https://gfx.quakeworld.nu)
- - date_published: 2024-06-12T21:07:30.919673+00:00
- - tags: ['quake']
-
- ## Goldrush - QuakeWorld betting
- - [http://goldrush.quakeworld.nu](http://goldrush.quakeworld.nu)
- - date_published: 2024-09-13T16:55:39.567943+00:00
-
- ## QuakeWorld Hub
- - [https://hub.quakeworld.nu](https://hub.quakeworld.nu)
- - date_published: 2024-07-10T12:12:38+00:00
-
- ## Index of /
- - [https://maps.quakeworld.nu](https://maps.quakeworld.nu)
- - date_published: 2024-11-08T21:02:53+00:00
- - tags: ['quake']
-
- ## QuakeWorld Hub
- - [https://qtv.quakeworld.nu](https://qtv.quakeworld.nu)
- - date_published: 2024-06-12T21:07:32.200246+00:00
- - tags: ['quake']
-
- ## QuakeWorld.nu
- - [https://quakeworld.nu](https://quakeworld.nu)
- - date_published: 2024-06-06T11:45:44+00:00
- - tags: ['quake']
-
- ## qwdrama - QuakeWorld news, interviews, events, tutorials and more
- - [http://qwdrama.quakeworld.nu](http://qwdrama.quakeworld.nu)
- - date_published: 2024-09-13T16:55:41.649563+00:00
-
- ## QWiki
- - [https://wiki.quakeworld.nu](https://wiki.quakeworld.nu)
- - date_published: 2024-06-06T11:48:19.600363+00:00
-
- ## Riddles and Answers - Riddles.nu
- - [https://riddles.nu](https://riddles.nu)
- - date_published: 2024-05-07T23:30:04.591503+00:00
-
- ## Röda dagar 2024: kalender med årets alla röda dagar
- - [https://rodadagar.nu](https://rodadagar.nu)
- - date_published: 2024-04-09T19:17:56+00:00
-
- ## ROFUS - Register Over Frivilligt Udelukkede Spillere
- - [http://rofus.nu](http://rofus.nu)
- - date_published: 2024-08-26T09:21:30+00:00
-
- ## rollspel.nu
- - [http://www.rollspel.nu](http://www.rollspel.nu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Royalty.nu – The World of Royalty
- - [http://www.royalty.nu](http://www.royalty.nu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Skelters | Berg skelters | Trampolines | Buitenspeelgoed - Ruhl.nu
- - [http://www.ruhl.nu](http://www.ruhl.nu)
- - date_published: 2024-09-13T19:12:50.552968+00:00
-
- ## Among the Stars at Hearted.nu
- - [http://sakura.nu](http://sakura.nu)
- - date_published: 2024-06-20T21:26:49.459498+00:00
-
- ## SALVAGED dot NU
- - [https://salvaged.nu](https://salvaged.nu)
- - date_published: 2024-08-06T04:44:34.690375+00:00
-
- ## Shantnu's Silent Site
- - [https://shant.nu](https://shant.nu)
- - date_published: 2023-10-25T20:49:02.194922+00:00
-
- ## Shelf - Open-Source Asset Management Software | Simplify Inventory Tracking
- - [https://shelf.nu](https://shelf.nu)
- - date_published: 2024-10-30T15:54:16+00:00
-
- ## SIEG . NU
- - [http://sieg.nu](http://sieg.nu)
- - date_published: 2019-03-21T21:35:20+00:00
-
- ## Sjef van Gaalen
- - [https://sjef.nu](https://sjef.nu)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## SM Foundry for Modern Typeface Design
- - [https://s-m.nu](https://s-m.nu)
- - date_published: 2024-10-29T13:37:36.484121+00:00
-
- ## SOGo
- - [https://demo.sogo.nu](https://demo.sogo.nu)
- - date_published: 2024-11-08T19:15:20.901090+00:00
-
- ## SOGo | Free Open Source Webmail
- - [https://sogo.nu](https://sogo.nu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## MMM: lunar low-gravity scripting playground
- - [https://mmm.s-ol.nu](https://mmm.s-ol.nu)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## XD Radio - stervantwente.nu
- - [http://stervantwente.nu](http://stervantwente.nu)
- - date_published: 2022-03-27T19:04:17+00:00
-
- ## Allt du behöver veta om dina studier
- - [https://www.studera.nu](https://www.studera.nu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## SWAMP Art work by Matt Kenyon
- - [http://swamp.nu](http://swamp.nu)
- - date_published: 2024-07-10T11:20:11.038415+00:00
-
- ## Swish - För en enklare vardag sedan 2012.
- - [https://www.swish.nu](https://www.swish.nu)
- - date_published: 2024-05-23T11:50:38+00:00
-
- ## Tabe's Home Page
- - [https://tabe.nu](https://tabe.nu)
- - date_published: 2022-03-02T21:26:50+00:00
-
- ## Tech Blog
- - [https://tbl.nu](https://tbl.nu)
- - date_published: 2022-05-19T04:53:30+00:00
-
- ## Temperatur.nu
- - [https://www.temperatur.nu](https://www.temperatur.nu)
- - date_published: 2024-07-11T13:12:09.430272+00:00
-
- ## ThisLove.nu — all that i love
- - [http://fans.thislove.nu](http://fans.thislove.nu)
- - date_published: 2024-06-20T21:14:17.226026+00:00
-
- ## ThisLove.nu — all that i love
- - [https://thislove.nu](https://thislove.nu)
- - date_published: 2024-06-20T21:16:19.005914+00:00
-
- ## Urbit - ett nytt internet
- - [https://urbit.nu](https://urbit.nu)
- - date_published: 2022-11-10T08:56:54+00:00
-
- ## About Validator.nu
- - [https://about.validator.nu](https://about.validator.nu)
- - date_published: 2022-03-07T13:49:57+00:00
-
- ## Bug List
- - [https://bugzilla.validator.nu](https://bugzilla.validator.nu)
- - date_published: 2019-06-11T06:39:25+00:00
-
- ## Validator.nu (X)HTML5 Validator  - Nu Html Checker
- - [https://html5.validator.nu](https://html5.validator.nu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Validator.nu  - Nu Html Checker
- - [https://validator.nu](https://validator.nu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## vecka.nu -- vecka 37
- - [https://vecka.nu](https://vecka.nu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Games - Media - Fun
- - [https://venue.nu](https://venue.nu)
- - date_published: 2024-07-11T23:41:05+00:00
 

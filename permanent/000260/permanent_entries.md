@@ -1,3 +1,224 @@
+ ## Information Technology Services
+ - [https://apps.its.fsu.edu](https://apps.its.fsu.edu)
+ - date_published: 2024-07-18T18:00:36+00:00
+
+ ## Home | ASPIRE - A Strategic Plan to Inspire Research Excellence
+ - [https://aspire.fsu.edu](https://aspire.fsu.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Faculty Honors & Awards
+ - [http://awards.faculty.fsu.edu](http://awards.faculty.fsu.edu)
+ - date_published: 2024-07-22T03:59:49.953753+00:00
+
+ ## | FSU Bookstore
+ - [https://bookstore.fsu.edu](https://bookstore.fsu.edu)
+ - date_published: 2024-04-30T04:15:38.801803+00:00
+
+ ## Seminole Boosters | Florida State University
+ - [https://boosters.fsu.edu](https://boosters.fsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Title of Site
+ - [https://bravo.unicomm.fsu.edu](https://bravo.unicomm.fsu.edu)
+ - date_published: 2024-07-20T22:28:36.351577+00:00
+
+ ## Welcome to the FSU Drupal Site
+ - [https://budget.fsu.edu](https://budget.fsu.edu)
+ - date_published: 2024-07-18T15:08:47+00:00
+
+ ## Events Calendar - Florida State University Calendar
+ - [https://calendar.fsu.edu](https://calendar.fsu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## FSU Campus Recreation – Find What Moves You.
+ - [https://campusrec.fsu.edu](https://campusrec.fsu.edu)
+ - date_published: 2024-07-21T17:08:53+00:00
+
+ ## The Career Center
+ - [https://career.fsu.edu](https://career.fsu.edu)
+ - date_published: 2024-04-30T04:15:47.967394+00:00
+
+ ## CARE | Center for Academic Retention & Enhancement
+ - [https://care.fsu.edu](https://care.fsu.edu)
+ - date_published: 2024-07-16T19:16:42+00:00
+
+ ## Campus Access & Security Services
+ - [https://cass.fsu.edu](https://cass.fsu.edu)
+ - date_published: 2024-07-14T18:33:26+00:00
+
+ ## Center for Global Engagement
+ - [https://cge.fsu.edu](https://cge.fsu.edu)
+ - date_published: 2024-07-18T15:03:29+00:00
+
+ ## CHAW
+ - [https://chaw.fsu.edu](https://chaw.fsu.edu)
+ - date_published: 2024-07-17T18:12:36+00:00
+
+ ## FSU Childcare &amp; Early Learning Program / Florida State University
+ - [https://childcare.fsu.edu](https://childcare.fsu.edu)
+ - date_published: 2024-07-22T03:59:27.189904+00:00
+
+ ## The Graduate School
+ - [https://connect.fsu.edu](https://connect.fsu.edu)
+ - date_published: 2024-07-19T19:28:44+00:00
+
+ ## Florida State University Controller's Office | Controller's Office
+ - [https://controller.vpfa.fsu.edu](https://controller.vpfa.fsu.edu)
+ - date_published: 2024-07-17T20:01:25+00:00
+
+ ## Counseling & Psychological Services
+ - [http://counseling.fsu.edu](http://counseling.fsu.edu)
+ - date_published: 2024-07-14T18:24:59+00:00
+
+ ## CreateFSU
+ - [https://create.fsu.edu](https://create.fsu.edu)
+ - date_published: 2024-07-22T04:02:35.152510+00:00
+
+ ## Center for Undergraduate Research and Academic Engagement
+ - [https://cre.fsu.edu](https://cre.fsu.edu)
+ - date_published: 2024-07-19T10:17:39+00:00
+
+ ## Computer Science, FSU
+ - [https://cs.fsu.edu](https://cs.fsu.edu)
+ - date_published: 2024-05-11T11:52:22.118924+00:00
+
+ ## Diginole: FSU's Digital Repository | DigiNole
+ - [https://diginole.lib.fsu.edu](https://diginole.lib.fsu.edu)
+ - date_published: 2024-07-22T04:02:27.439462+00:00
+
+ ## Florida State University
+ - [https://directory.fsu.edu](https://directory.fsu.edu)
+ - date_published: 2024-04-30T04:15:50.235623+00:00
+
+ ## Distance@FSU
+ - [https://distance.fsu.edu](https://distance.fsu.edu)
+ - date_published: 2024-04-30T04:15:33.381895+00:00
+
+ ## Overview - FSU Research Computing Center Documentation
+ - [https://docs.rcc.fsu.edu](https://docs.rcc.fsu.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Department of Student Support and Transitions
+ - [https://dsst.fsu.edu](https://dsst.fsu.edu)
+ - date_published: 2024-07-19T16:08:22+00:00
+
+ ## Florida State's Economic Impact
+ - [https://economic-impact.fsu.edu](https://economic-impact.fsu.edu)
+ - date_published: 2024-04-30T04:15:40.699233+00:00
+
+ ## College of Education, Health, and Human Sciences
+ - [https://education.fsu.edu](https://education.fsu.edu)
+ - date_published: 2024-10-14T17:59:05+00:00
+
+ ## Emergency Management
+ - [https://emergency.fsu.edu](https://emergency.fsu.edu)
+ - date_published: 2024-07-14T18:22:40+00:00
+
+ ## Florida State University Faculty
+ - [https://faculty.fsu.edu](https://faculty.fsu.edu)
+ - date_published: 2024-04-30T04:16:06.753891+00:00
+
+ ## Faculty Handbook
+ - [http://facultyhandbook.fsu.edu](http://facultyhandbook.fsu.edu)
+ - date_published: 2024-07-14T18:39:22+00:00
+
+ ## Office of Faculty Development and Advancement | Office of Faculty Development and Advancement
+ - [https://fda.fsu.edu](https://fda.fsu.edu)
+ - date_published: 2024-07-18T20:38:48+00:00
+
+ ## Office of Financial Aid
+ - [https://financialaid.fsu.edu](https://financialaid.fsu.edu)
+ - date_published: 2024-07-15T13:21:44+00:00
+
+ ## FSU Foundation
+ - [https://foundation.fsu.edu](https://foundation.fsu.edu)
+ - date_published: 2024-04-30T04:15:19.436915+00:00
+
+ ## Fraternity and Sorority Life
+ - [https://fsl.fsu.edu](https://fsl.fsu.edu)
+ - date_published: 2024-07-14T18:34:58+00:00
+
+ ## Florida State University
+ - [https://fsu.edu](https://fsu.edu)
+ - date_published: 2023-10-27T12:59:00.241454+00:00
+ - tags: ['university']
+
+ ## Office of the General Counsel
+ - [https://generalcounsel.fsu.edu](https://generalcounsel.fsu.edu)
+ - date_published: 2024-04-30T04:15:27.618867+00:00
+
+ ## GEOSET Studio
+ - [https://geoset.fsu.edu](https://geoset.fsu.edu)
+ - date_published: 2024-07-14T18:26:56+00:00
+
+ ## Support Florida State University
+ - [https://give.fsu.edu](https://give.fsu.edu)
+ - date_published: 2024-07-22T04:01:02.452950+00:00
+
+ ## FSU Global
+ - [https://global.fsu.edu](https://global.fsu.edu)
+ - date_published: 2024-04-30T04:16:04.492698+00:00
+
+ ## Home | Graduation Planning and Strategies Office
+ - [https://gps.fsu.edu](https://gps.fsu.edu)
+ - date_published: 2024-07-19T14:00:51+00:00
+
+ ## The Graduate School
+ - [https://gradschool.fsu.edu](https://gradschool.fsu.edu)
+ - date_published: 2024-07-19T19:28:44+00:00
+
+ ## Make a Difference during FSU's Great Give | FSU's Great Give
+ - [https://greatgive.fsu.edu](https://greatgive.fsu.edu)
+ - date_published: 2024-07-22T04:13:22.494903+00:00
+
+ ## Research Guides
+ - [https://guides.lib.fsu.edu](https://guides.lib.fsu.edu)
+ - date_published: 2024-07-22T04:02:32.619586+00:00
+
+ ## University Housing / Florida State University
+ - [https://housing.fsu.edu](https://housing.fsu.edu)
+ - date_published: 2024-04-30T04:16:08.388318+00:00
+
+ ## Office of Human Resources
+ - [https://hr.fsu.edu](https://hr.fsu.edu)
+ - date_published: 2024-04-30T04:15:36.866397+00:00
+
+ ## Welcome to the FSU Drupal Site
+ - [https://hub.research.fsu.edu](https://hub.research.fsu.edu)
+ - date_published: 2024-07-14T18:34:50+00:00
+
+ ## FSU International Programs
+ - [https://international.fsu.edu](https://international.fsu.edu)
+ - date_published: 2024-07-22T03:54:39.721097+00:00
+
+ ## Office of Institutional Research - Florida State University
+ - [https://ir.fsu.edu](https://ir.fsu.edu)
+ - date_published: 2024-04-30T04:16:22.769660+00:00
+
+ ## Information Technology Services
+ - [https://its.fsu.edu](https://its.fsu.edu)
+ - date_published: 2024-04-30T04:15:21.474295+00:00
+
+ ## Apache Tomcat/9.0.8
+ - [https://java.odl.fsu.edu](https://java.odl.fsu.edu)
+ - date_published: 2024-07-22T04:14:31.687251+00:00
+
+ ## Careers at Florida State | Office of Human Resources
+ - [https://jobs.fsu.edu](https://jobs.fsu.edu)
+ - date_published: 2024-04-30T04:15:57.303544+00:00
+
+ ## Welcome | PS LINKS
+ - [https://jobs.omni.fsu.edu](https://jobs.omni.fsu.edu)
+ - date_published: 2024-07-22T04:00:10.249855+00:00
+
+ ## Welcome to the FSU Drupal Site
+ - [https://knowmore.fsu.edu](https://knowmore.fsu.edu)
+ - date_published: 2024-04-30T04:15:15.133854+00:00
+
+ ## College of Law
+ - [http://law.fsu.edu](http://law.fsu.edu)
+ - date_published: 2024-07-19T21:25:35+00:00
+
  ## The Florida State Conference Center | The Florida State Conference Center
  - [https://learningforlife.fsu.edu](https://learningforlife.fsu.edu)
  - date_published: 2024-07-22T04:12:46.037873+00:00
@@ -3785,225 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Safety | The George Washington University
  - [https://safety.gwu.edu](https://safety.gwu.edu)
  - date_published: 2024-07-21T14:26:03+00:00
-
- ## Division for Student Affairs | The George Washington University
- - [https://students.gwu.edu](https://students.gwu.edu)
- - date_published: 2024-07-21T14:46:37+00:00
-
- ## Alliance for a Sustainable Future | The George Washington University
- - [https://sustainabilityalliance.gwu.edu](https://sustainabilityalliance.gwu.edu)
- - date_published: 2024-07-21T17:29:00+00:00
-
- ## Title IX Office | The George Washington University
- - [https://titleix.gwu.edu](https://titleix.gwu.edu)
- - date_published: 2024-07-21T22:22:05+00:00
-
- ## Trustworthy AI at GW | The George Washington University
- - [https://trustworthyai.gwu.edu](https://trustworthyai.gwu.edu)
- - date_published: 2024-04-30T04:41:58.156066+00:00
-
- ## Office of Undergraduate Admissions | The George Washington University
- - [https://undergraduate.admissions.gwu.edu](https://undergraduate.admissions.gwu.edu)
- - date_published: 2024-07-21T17:56:48+00:00
-
- ## Undocumented | The George Washington University
- - [https://undocumented.gwu.edu](https://undocumented.gwu.edu)
- - date_published: 2024-07-21T00:49:49+00:00
-
- ## SEAS Center for Women in Engineering | The George Washington University
- - [https://womenengineers.gwu.edu](https://womenengineers.gwu.edu)
- - date_published: 2024-09-01T23:40:25+00:00
-
- ## SEAS Center for Women in Engineering | The George Washington University
- - [https://womenengineers.seas.gwu.edu](https://womenengineers.seas.gwu.edu)
- - date_published: 2024-04-30T04:42:02.838801+00:00
- - tags: ['feminism']
-
- ## Attention Required! | Cloudflare
- - [https://writingcenter.gwu.edu](https://writingcenter.gwu.edu)
- - date_published: 2024-09-13T20:00:53.544110+00:00
-
- ## The George Washington University
- - [http://www2.gwu.edu](http://www2.gwu.edu)
- - date_published: 2024-09-03T12:03:51+00:00
-
- ## School of Engineering & Applied Science | The George Washington University
- - [https://www2.seas.gwu.edu](https://www2.seas.gwu.edu)
- - date_published: 2023-10-25T18:51:22.184962+00:00
-
- ## The George Washington University
- - [https://www.gwu.edu](https://www.gwu.edu)
- - date_published: 2024-04-30T04:40:51.953682+00:00
-
- ## GW Law | The George Washington University
- - [http://www.law.gwu.edu](http://www.law.gwu.edu)
- - date_published: 2024-06-17T11:14:15+00:00
-
- ## School of Engineering & Applied Science | The George Washington University
- - [https://www.seas.gwu.edu](https://www.seas.gwu.edu)
- - date_published: 2024-04-30T04:41:44.659276+00:00
-
- ## Admission and Aid - 10 Things About Hamilton - Hamilton College
- - [https://admission.hamilton.edu](https://admission.hamilton.edu)
- - date_published: 2024-04-30T04:42:15.856393+00:00
-
- ## PeopleGrove
- - [https://connect.hamilton.edu](https://connect.hamilton.edu)
- - date_published: 2024-04-30T04:42:17.052867+00:00
-
- ## Home - Hamilton College
- - [https://hamilton.edu](https://hamilton.edu)
- - date_published: 2024-07-21T23:36:24.111279+00:00
-
- ## Hampshire College Directory
- - [https://directory.hampshire.edu](https://directory.hampshire.edu)
- - date_published: 2024-04-30T04:43:03.950901+00:00
-
- ## - HampEngage
- - [https://engage.hampshire.edu](https://engage.hampshire.edu)
- - date_published: 2024-07-21T23:35:57.673874+00:00
-
- ## What were you made for?
- - [https://explore.hampshire.edu](https://explore.hampshire.edu)
- - date_published: 2024-04-30T04:43:10.383827+00:00
-
- ## Faculty | Hampshire College
- - [https://faculty.hampshire.edu](https://faculty.hampshire.edu)
- - date_published: 2023-10-25T18:51:31.521956+00:00
-
- ## Web Login Service
- - [https://gmail.hampshire.edu](https://gmail.hampshire.edu)
- - date_published: 2024-07-21T23:36:12.982699+00:00
-
- ## Hampshire College | Hampshire College
- - [https://hampshire.edu](https://hampshire.edu)
- - date_published: 2024-07-19T19:15:48+00:00
-
- ## Human Resources
- - [http://hr.hampshire.edu](http://hr.hampshire.edu)
- - date_published: 2024-07-19T19:25:25+00:00
-
- ## Hampshire College Intranet
- - [https://intranet.hampshire.edu](https://intranet.hampshire.edu)
- - date_published: 2024-04-30T04:43:05.286361+00:00
-
- ## Employment Opportunities
- - [https://jobs.hampshire.edu](https://jobs.hampshire.edu)
- - date_published: 2024-04-30T04:43:12.503386+00:00
-
- ## Harold F. Johnson Library
- - [http://library.hampshire.edu](http://library.hampshire.edu)
- - date_published: 2024-07-19T19:19:32+00:00
-
- ## Campus Map
- - [http://map.hampshire.edu](http://map.hampshire.edu)
- - date_published: 2024-07-19T19:19:18+00:00
-
- ## Moodle @ Hampshire College
- - [https://moodle.hampshire.edu](https://moodle.hampshire.edu)
- - date_published: 2024-07-21T23:35:54+00:00
-
- ## Web Login Service
- - [http://webmail.hampshire.edu](http://webmail.hampshire.edu)
- - date_published: 2024-07-21T23:36:11.082279+00:00
-
- ## Hanover College Psychology Department : Psychology Department : Hanover College
- - [https://psych.hanover.edu](https://psych.hanover.edu)
- - date_published: 2024-05-07T16:14:41.837417+00:00
-
- ## Hanover College Psychology Department : Psychology Department : Hanover College
- - [https://psychology.hanover.edu](https://psychology.hanover.edu)
- - date_published: 2024-06-30T11:01:11.674424+00:00
-
- ## websites.hanover.edu
- - [https://websites.hanover.edu](https://websites.hanover.edu)
- - date_published: 2024-06-30T11:01:12.916066+00:00
-
- ## Hanover College
- - [https://www.hanover.edu](https://www.hanover.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Digital Commons at Harrisburg University
- - [https://digitalcommons.harrisburgu.edu](https://digitalcommons.harrisburgu.edu)
- - date_published: 2024-07-02T10:48:44.765677+00:00
-
- ## GOV 2001 in Silico
- - [https://2k1.iq.harvard.edu](https://2k1.iq.harvard.edu)
- - date_published: 2024-05-11T11:25:44.444770+00:00
-
- ## Harvard Mathematics Department : Home page
- - [https://abel.math.harvard.edu](https://abel.math.harvard.edu)
- - date_published: 2021-07-13T16:49:58+00:00
-
- ## Harvard Academic Positions | Home
- - [https://academicpositions.harvard.edu](https://academicpositions.harvard.edu)
- - date_published: 2024-06-30T11:21:40+00:00
-
- ## Home | University Disability Resources
- - [https://accessibility.harvard.edu](https://accessibility.harvard.edu)
- - date_published: 2024-04-30T04:45:49.027356+00:00
-
- ## Digital Accessibility​
- - [https://accessibility.huit.harvard.edu](https://accessibility.huit.harvard.edu)
- - date_published: 2024-04-30T04:45:47.414575+00:00
-
- ## acmg
- - [http://acmg.seas.harvard.edu](http://acmg.seas.harvard.edu)
- - date_published: 2024-06-30T02:43:49+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://admin.my.harvard.edu](https://admin.my.harvard.edu)
- - date_published: 2024-07-21T23:10:26.815962+00:00
-
- ## NASA/ADS
- - [https://adsabs.harvard.edu](https://adsabs.harvard.edu)
- - date_published: 2024-02-22T20:45:22+00:00
-
- ## Astrophysics Data System
- - [http://adswww.harvard.edu](http://adswww.harvard.edu)
- - date_published: 2024-07-24T21:09:41+00:00
-
- ## Adult Autism Health Resources
- - [https://adult-autism.health.harvard.edu](https://adult-autism.health.harvard.edu)
- - date_published: 2024-04-30T04:47:22.289598+00:00
-
- ## Department of Art, Film, and Visual Studies
- - [https://afvs.fas.harvard.edu](https://afvs.fas.harvard.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [http://alumni.afvs.fas.harvard.edu](http://alumni.afvs.fas.harvard.edu)
- - date_published: 2024-06-22T06:03:22.368108+00:00
-
- ## Harvard GSD Alumni and Friends Home
- - [https://alumni.gsd.harvard.edu](https://alumni.gsd.harvard.edu)
- - date_published: 2024-06-22T11:46:28.383119+00:00
-
- ## Welcome to Harvard Alumni
- - [https://alumni.harvard.edu](https://alumni.harvard.edu)
- - date_published: 2024-06-16T04:34:50+00:00
-
- ## Home Page
- - [https://alumni.sph.harvard.edu](https://alumni.sph.harvard.edu)
- - date_published: 2024-04-30T04:47:25.712309+00:00
-
- ## Welcome to the Ames Foundation
- - [http://amesfoundation.law.harvard.edu](http://amesfoundation.law.harvard.edu)
- - date_published: 2024-09-06T14:29:35.480869+00:00
-
- ## Amicus
- - [https://amicus.law.harvard.edu](https://amicus.law.harvard.edu)
- - date_published: 2024-04-30T04:45:57.952699+00:00
-
- ## Homepage
- - [https://arboretum.harvard.edu](https://arboretum.harvard.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Weblogs at Harvard
- - [https://archive.blogs.harvard.edu](https://archive.blogs.harvard.edu)
- - date_published: 2024-04-30T04:43:14.036227+00:00
-
- ## GC-Main
- - [https://arep.med.harvard.edu](https://arep.med.harvard.edu)
- - date_published: 2024-06-19T02:11:44.790860+00:00
 

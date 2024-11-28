@@ -1,3 +1,231 @@
+ ## JDIH Badan Kepegawaian Negara
+ - [https://jdih.bkn.go.id](https://jdih.bkn.go.id)
+ - date_published: 2024-10-28T07:33:25.410940+00:00
+
+ ## eKinerja
+ - [https://kinerja.bkn.go.id](https://kinerja.bkn.go.id)
+ - date_published: 2024-06-19T07:53:50.414723+00:00
+
+ ## MyASN BKN
+ - [https://myasn.bkn.go.id](https://myasn.bkn.go.id)
+ - date_published: 2024-05-29T01:59:46+00:00
+
+ ## SSCASN - BKN
+ - [http://sscasn.bkn.go.id](http://sscasn.bkn.go.id)
+ - date_published: 2024-10-28T07:33:20.483718+00:00
+
+ ## Helpdesk BKN
+ - [https://support-siasn.bkn.go.id](https://support-siasn.bkn.go.id)
+ - date_published: 2024-10-28T07:33:22.535449+00:00
+
+ ## Home - Badan Kepegawaian Negara (BKN RI)
+ - [https://www.bkn.go.id](https://www.bkn.go.id)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## BNSP - Badan Nasional Sertifikasi Profesi
+ - [https://bnsp.go.id](https://bnsp.go.id)
+ - date_published: 2024-06-19T18:35:28.140507+00:00
+
+ ## BNSP - Badan Nasional Sertifikasi Profesi
+ - [https://sisfo.bnsp.go.id](https://sisfo.bnsp.go.id)
+ - date_published: 2024-10-30T06:00:07.433352+00:00
+
+ ## ISSN - BRIN
+ - [https://issn.brin.go.id](https://issn.brin.go.id)
+ - date_published: 2024-08-13T08:05:19+00:00
+
+ ## Kementerian BUMN
+ - [https://bumn.go.id](https://bumn.go.id)
+ - date_published: 2024-09-10T13:01:05.719081+00:00
+
+ ## Journal Resmi Ciamiskab
+ - [https://journal.dpkp.ciamiskab.go.id](https://journal.dpkp.ciamiskab.go.id)
+ - date_published: 2024-06-29T18:39:57.378716+00:00
+
+ ## Kelurahan Benteng
+ - [https://kelurahan-benteng.ciamiskab.go.id](https://kelurahan-benteng.ciamiskab.go.id)
+ - date_published: 2024-10-11T12:05:19.614766+00:00
+
+ ## SIMETAL| Login
+ - [https://simetal.donggala.go.id](https://simetal.donggala.go.id)
+ - date_published: 2024-06-16T15:32:07.981318+00:00
+
+ ## E-Monev Kota Dumai
+ - [https://emonev.dumaikota.go.id](https://emonev.dumaikota.go.id)
+ - date_published: 2024-10-11T11:26:19.081478+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://disdukcapil.garutkab.go.id](https://disdukcapil.garutkab.go.id)
+ - date_published: 2024-10-11T11:37:21.244569+00:00
+
+ ## Landing Page - Website Resmi Pemerintah Kabupaten Gowa
+ - [https://gowakab.go.id](https://gowakab.go.id)
+ - date_published: 2024-10-11T12:32:49.527937+00:00
+
+ ## DINAS PERDAGANGAN GUNUNGKIDUL
+ - [https://perdagangan.gunungkidulkab.go.id](https://perdagangan.gunungkidulkab.go.id)
+ - date_published: 2024-10-11T12:18:21.573844+00:00
+
+ ## DINAS PERINDUSTRIAN, KOPERASI UKM, DAN TENAGA KERJA
+ - [https://perindustrian.gunungkidulkab.go.id](https://perindustrian.gunungkidulkab.go.id)
+ - date_published: 2024-10-11T11:37:26.942537+00:00
+
+ ## SETWAN GUNUNGKIDUL
+ - [https://setwan.gunungkidulkab.go.id](https://setwan.gunungkidulkab.go.id)
+ - date_published: 2024-10-11T12:06:22.481582+00:00
+
+ ## Laman Resmi Republik Indonesia • Portal Informasi Indonesia
+ - [https://www.indonesia.go.id](https://www.indonesia.go.id)
+ - date_published: 2024-08-08T11:35:56.700252+00:00
+
+ ## Dinas Tenaga Kerja dan Transmigrasi | Kabupaten Indragiri Hilir
+ - [http://disnakertrans.inhilkab.go.id](http://disnakertrans.inhilkab.go.id)
+ - date_published: 2024-06-16T15:29:51.029780+00:00
+
+ ## Satpolpp – Kota Jambi
+ - [https://satpolpp.jambikota.go.id](https://satpolpp.jambikota.go.id)
+ - date_published: 2024-01-25T14:44:56+00:00
+
+ ## Index of /
+ - [https://kpid.jambiprov.go.id](https://kpid.jambiprov.go.id)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Request Rejected
+ - [https://2023.pakbejo.jatengprov.go.id](https://2023.pakbejo.jatengprov.go.id)
+ - date_published: 2024-06-23T20:46:11.830976+00:00
+
+ ## Taman Budaya Yogyakarta
+ - [https://tby.jogjaprov.go.id](https://tby.jogjaprov.go.id)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Infrastruktur Kabupaten Karanganyar |
+ - [https://infrastruktur.karanganyarkab.go.id](https://infrastruktur.karanganyarkab.go.id)
+ - date_published: 2024-06-23T20:45:59.634446+00:00
+
+ ## Info Perkara
+ - [https://cms-publik.kejaksaan.go.id](https://cms-publik.kejaksaan.go.id)
+ - date_published: 2024-10-11T11:01:00.643616+00:00
+
+ ## JDIH KEJAKSAAN :: Home
+ - [https://jdih.kejaksaan.go.id](https://jdih.kejaksaan.go.id)
+ - date_published: 2024-10-11T11:01:05.578878+00:00
+
+ ## Kejaksaan Negeri Kendal – Jln. Soekarno-Hatta No.189 Kendal
+ - [https://kejari-kendal.kejaksaan.go.id](https://kejari-kendal.kejaksaan.go.id)
+ - date_published: 2024-06-16T15:32:37.008332+00:00
+
+ ## Kejaksaan Negeri Tarakan
+ - [https://kejari-tarakan.kejaksaan.go.id](https://kejari-tarakan.kejaksaan.go.id)
+ - date_published: 2024-06-16T15:22:03.133445+00:00
+
+ ## E-TILANG | KEJAKSAAN RI
+ - [https://tilang.kejaksaan.go.id](https://tilang.kejaksaan.go.id)
+ - date_published: 2024-10-11T11:01:18.521332+00:00
+
+ ## BIMA - Kemdikbudristek
+ - [https://bima.kemdikbud.go.id](https://bima.kemdikbud.go.id)
+ - date_published: 2024-10-30T05:54:12.096271+00:00
+
+ ## Danaindonesiana
+ - [https://danaindonesiana.kemdikbud.go.id](https://danaindonesiana.kemdikbud.go.id)
+ - date_published: 2024-06-20T09:04:03.327609+00:00
+
+ ## PDDikti - Pangkalan Data Pendidikan Tinggi
+ - [https://pddikti.kemdikbud.go.id](https://pddikti.kemdikbud.go.id)
+ - date_published: 2024-06-19T07:53:34.263337+00:00
+
+ ## Pinandu LLDIKTI XI
+ - [https://pinandu-lldikti11.kemdikbud.go.id](https://pinandu-lldikti11.kemdikbud.go.id)
+ - date_published: 2024-09-10T11:04:39.006472+00:00
+
+ ## RAMA REPOSITORY
+ - [http://rama.kemdikbud.go.id](http://rama.kemdikbud.go.id)
+ - date_published: 2024-10-30T06:23:55.938547+00:00
+
+ ## SINTA - Science and Technology Index
+ - [https://sinta.kemdikbud.go.id](https://sinta.kemdikbud.go.id)
+ - date_published: 2024-06-19T18:38:45.902756+00:00
+
+ ## ULT DIY – Unit Layanan Terpadu  UPT Kemendikbud di Wilayah D.I. Yogyakarta
+ - [http://ult-diy.kemdikbud.go.id](http://ult-diy.kemdikbud.go.id)
+ - date_published: 2024-06-20T09:03:59.746446+00:00
+
+ ## LPDP - Lembaga Pengelola Dana Pendidikan
+ - [https://lpdp.kemenkeu.go.id](https://lpdp.kemenkeu.go.id)
+ - date_published: 2024-06-20T09:02:28+00:00
+
+ ## Kementerian Komunikasi dan Informatika
+ - [https://www.kominfo.go.id](https://www.kominfo.go.id)
+ - date_published: 2024-10-11T12:24:26.917581+00:00
+
+ ## komisiinformasi | Home
+ - [https://komisiinformasi.go.id](https://komisiinformasi.go.id)
+ - date_published: 2024-10-11T13:18:36.740390+00:00
+
+ ## Komnas HAM
+ - [https://www.komnasham.go.id](https://www.komnasham.go.id)
+ - date_published: 2024-10-30T06:03:58.898043+00:00
+
+ ## KPK SIG 2.0
+ - [https://gol.kpk.go.id](https://gol.kpk.go.id)
+ - date_published: 2024-10-11T09:58:40+00:00
+
+ ## DPRD Kabupaten Kutai Barat – Website Resmi
+ - [https://dprd.kutaibaratkab.go.id](https://dprd.kutaibaratkab.go.id)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## LAPOR! - Layanan Aspirasi dan Pengaduan Online Rakyat
+ - [https://lapor.go.id](https://lapor.go.id)
+ - date_published: 2024-10-11T12:24:31.924848+00:00
+
+ ## Selamat datang - Lebak DISADA
+ - [https://disada.lebakkab.go.id](https://disada.lebakkab.go.id)
+ - date_published: 2019-06-02T00:00:00+00:00
+
+ ## DiskominfoSP Kabupaten Lebak
+ - [https://diskominfosp.lebakkab.go.id](https://diskominfosp.lebakkab.go.id)
+ - date_published: 2024-10-11T12:24:13.304237+00:00
+
+ ## Lebakkab.go.id | Portal Resmi Kabupaten Lebak
+ - [https://lebakkab.go.id](https://lebakkab.go.id)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Situs Resmi | Situs Resmi Satpol PP dan Damkar Kabupaten Lebak
+ - [https://polpp-damkar.lebakkab.go.id](https://polpp-damkar.lebakkab.go.id)
+ - date_published: 2024-06-16T15:29:25+00:00
+
+ ## Website Resmi RSUD dr. R. Soedjono Selong
+ - [https://rsud.lomboktimurkab.go.id](https://rsud.lomboktimurkab.go.id)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## DESA KORONCIA
+ - [https://koroncia.desa.luwutimurkab.go.id](https://koroncia.desa.luwutimurkab.go.id)
+ - date_published: 2024-06-16T15:31:44.711028+00:00
+
+ ## Badan Kepegawaian & Pengembangan Sumber Daya Manusia Kabupaten Melawi - Kepegawaian, Pengembangan Sumber Daya Manusia, Kalimantan Barat, Indonesia
+ - [https://bkpsdm.melawikab.go.id](https://bkpsdm.melawikab.go.id)
+ - date_published: 2024-05-04T05:47:40.543552+00:00
+
+ ## Beranda
+ - [https://menpan.go.id](https://menpan.go.id)
+ - date_published: 2024-10-11T11:29:16+00:00
+
+ ## Sistem Informasi Pelayanan Publik
+ - [https://sippn.menpan.go.id](https://sippn.menpan.go.id)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Login | Direktorat Jenderal Pajak
+ - [https://djponline.pajak.go.id](https://djponline.pajak.go.id)
+ - date_published: 2024-06-19T07:53:58.853238+00:00
+
+ ## Pengadilan Agama Tanjung Karang - Kota Bandar Lampung || Provinsi Lampung
+ - [https://pa-tanjungkarang.go.id](https://pa-tanjungkarang.go.id)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## SIPP
+ - [http://sipp.pn-kendal.go.id](http://sipp.pn-kendal.go.id)
+ - date_published: 2024-10-11T12:56:19.399173+00:00
+
  ## Kementerian PUPR
  - [https://www.pu.go.id](https://www.pu.go.id)
  - date_published: 2024-09-10T00:00:00+00:00
@@ -3776,233 +4004,4 @@
  ## YUKÕ Toyota Car Club. Drive a Toyota by the hour in Dublin.
  - [https://www.yuko.ie](https://www.yuko.ie)
  - date_published: 2024-06-06T00:00:00+00:00
-
- ## Shop Shoes, Fashion & Accessories Online | Zalando IE
- - [https://www.zalando.ie](https://www.zalando.ie)
- - date_published: 2024-09-26T20:34:10.665585+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ie](https://www2.zoetis.ie)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## Support
- - [https://support.zooplus.ie](https://support.zooplus.ie)
- - date_published: 2024-09-26T11:23:25.755365+00:00
-
- ## Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus
- - [https://www.zooplus.ie](https://www.zooplus.ie)
- - date_published: 2024-06-16T06:27:36.576500+00:00
-
- ## ADAMS Academy Fellowship
- - [https://adams.academy.ac.il](https://adams.academy.ac.il)
- - date_published: 2024-10-27T12:08:57.980689+00:00
-
- ## HE Homepage | The Ben-Gurion ARCHIVE
- - [https://bengurionarchive.bgu.ac.il](https://bengurionarchive.bgu.ac.il)
- - date_published: 2024-05-11T09:08:03.273270+00:00
-
- ## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
- - [https://bgu.ac.il](https://bgu.ac.il)
- - date_published: 2024-03-21T13:48:25.965232+00:00
-
- ## Ben-Gurion University Research Portal
- - [https://cris.bgu.ac.il](https://cris.bgu.ac.il)
- - date_published: 2024-05-11T09:09:17.410173+00:00
-
- ## Exp BGU
- - [https://ethicscomm.bgu.ac.il](https://ethicscomm.bgu.ac.il)
- - date_published: 2023-04-17T10:48:42+00:00
-
- ## hilanauth.bgu.ac.il
- - [https://hilanauth.bgu.ac.il](https://hilanauth.bgu.ac.il)
- - date_published: 2024-05-11T09:09:20.088917+00:00
-
- ## אוניברסיטת בן-גוריון בנגב - ברוכים הבאים וברוכות הבאות
- - [https://in.bgu.ac.il](https://in.bgu.ac.il)
- - date_published: 2024-05-11T09:07:53.770890+00:00
-
- ## STS Login - Forms Authentication
- - [https://k2prod.bgu.ac.il](https://k2prod.bgu.ac.il)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Library Guides List
- - [https://libguides.bgu.ac.il](https://libguides.bgu.ac.il)
- - date_published: 2024-05-11T09:09:18.620856+00:00
-
- ## Home - MSIH
- - [https://msih.bgu.ac.il](https://msih.bgu.ac.il)
- - date_published: 2024-05-11T09:09:10.805582+00:00
-
- ## IIS Windows Server
- - [https://phonebook.bgu.ac.il](https://phonebook.bgu.ac.il)
- - date_published: 2021-05-30T13:54:30+00:00
-
- ## ברוכים הבאים לפורטל הסטודנטים אוניברסיטת בן גוריון
- - [https://portal.bgu.ac.il](https://portal.bgu.ac.il)
- - date_published: 2024-05-11T09:09:20.881577+00:00
-
- ## BGU Radio
- - [http://radio.bgu.ac.il](http://radio.bgu.ac.il)
- - date_published: 2019-10-25T07:50:44+00:00
-
- ## אתר התשלומים של אוניברסיטת בן גוריון
- - [https://shop.bgu.ac.il](https://shop.bgu.ac.il)
- - date_published: 2024-05-11T09:08:40.917910+00:00
-
- ## Yazamut 360° | Entrepreneurship Center
- - [https://yazamut360.bgu.ac.il](https://yazamut360.bgu.ac.il)
- - date_published: 2024-05-11T09:08:38.706062+00:00
-
- ## דף הבית | המזכירות האקדמית
- - [https://acad-sec.biu.ac.il](https://acad-sec.biu.ac.il)
- - date_published: 2024-08-07T15:14:25.474164+00:00
-
- ## אקדימה בר-אילן
- - [https://akadima.biu.ac.il](https://akadima.biu.ac.il)
- - date_published: 2024-08-07T15:14:56.171675+00:00
-
- ## אוניברסיטת בר אילן
- - [https://biu.ac.il](https://biu.ac.il)
- - date_published: 2024-04-28T03:45:46.331322+00:00
-
- ## דקן הסטודנטים | אוניברסיטת בר-אילן
- - [https://dean.biu.ac.il](https://dean.biu.ac.il)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## היחידה לאנגלית כשפה זרה | אוניברסיטת בר-אילן
- - [https://efl.biu.ac.il](https://efl.biu.ac.il)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## e-Pay | מערכת תשלומים מקוונת
- - [https://epay.biu.ac.il](https://epay.biu.ac.il)
- - date_published: 2024-08-07T15:14:45.679004+00:00
-
- ## בית הספר ללימודים מתקדמים | אוניברסיטת בר-אילן
- - [https://graduate-school.biu.ac.il](https://graduate-school.biu.ac.il)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## משאבי אנוש בר-אילן | אגף משאבי אנוש  | אוניברסיטת בר-אילן
- - [https://hr-minhali.biu.ac.il](https://hr-minhali.biu.ac.il)
- - date_published: 2024-08-07T13:44:03+00:00
-
- ## אגף תקשוב | אוניברסיטת בר-אילן
- - [https://ict.biu.ac.il](https://ict.biu.ac.il)
- - date_published: 2024-08-07T15:14:17.669827+00:00
-
- ## אינ-בר
- - [https://inbar.biu.ac.il](https://inbar.biu.ac.il)
- - date_published: 2024-08-07T15:14:29.686985+00:00
-
- ## אגף למידה והוראה | אוניברסיטת בר-אילן
- - [https://learning-and-teaching.biu.ac.il](https://learning-and-teaching.biu.ac.il)
- - date_published: 2024-08-07T15:11:50.906981+00:00
-
- ## מערך הספריות והמידע | אוניברסיטת בר-אילן
- - [https://lib.biu.ac.il](https://lib.biu.ac.il)
- - date_published: 2024-08-07T15:14:27.877419+00:00
-
- ## Sign in to your account
- - [https://mybiu.biu.ac.il](https://mybiu.biu.ac.il)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Log in
- - [https://sites.biu.ac.il](https://sites.biu.ac.il)
- - date_published: 2024-08-07T15:11:47.406112+00:00
-
- ## Access Gateway
- - [https://sspr.biu.ac.il](https://sspr.biu.ac.il)
- - date_published: 2024-08-07T15:12:04.371649+00:00
-
- ## מנהל הסטודנטים | אוניברסיטת בר-אילן
- - [https://stuad.biu.ac.il](https://stuad.biu.ac.il)
- - date_published: 2024-08-07T15:13:25.785486+00:00
-
- ## אגף תפעול | אוניברסיטת בר-אילן
- - [https://tiful.biu.ac.il](https://tiful.biu.ac.il)
- - date_published: 2024-08-07T15:14:19.641472+00:00
-
- ## Test Page for the HTTP Server on AlmaLinux
- - [https://u.cs.biu.ac.il](https://u.cs.biu.ac.il)
- - date_published: 2021-10-09T17:49:21+00:00
-
- ## Caesarea Rothschild Institute
- - [http://www.cri.haifa.ac.il](http://www.cri.haifa.ac.il)
- - date_published: 2024-08-11T22:07:26.880477+00:00
-
- ## אוניברסיטת חיפה - לימודי תואר ראשון, שני ותארים מתקדמים
- - [https://www.haifa.ac.il](https://www.haifa.ac.il)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## The Institute of Archaeology
- - [https://archaeology.huji.ac.il](https://archaeology.huji.ac.il)
- - date_published: 2024-07-13T03:31:18+00:00
-
- ## The Rachel and Selim Benin School of Computer Science and Engineering | The Hebrew University.
- - [https://cs.huji.ac.il](https://cs.huji.ac.il)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## en.new.huji
- - [https://en.huji.ac.il](https://en.huji.ac.il)
- - date_published: 2024-07-13T03:15:31+00:00
-
- ## Israel Institute for Advanced Studies
- - [https://iias.huji.ac.il](https://iias.huji.ac.il)
- - date_published: 2024-06-30T11:22:36+00:00
-
- ## Jerusalem Journal of Archaeology
- - [https://jjar.huji.ac.il](https://jjar.huji.ac.il)
- - date_published: 2023-10-25T19:29:26.869067+00:00
- - tags: ['archaeology']
-
- ## Einstein Institute of Mathematics @ The Hebrew University - lead to new site
- - [https://ma.huji.ac.il](https://ma.huji.ac.il)
- - date_published: 2024-05-07T15:55:11.909224+00:00
-
- ## HUJImail
- - [https://mail.huji.ac.il](https://mail.huji.ac.il)
- - date_published: 2024-08-11T07:52:00.327356+00:00
-
- ## האוניברסיטה העברית בירושלים
- - [https://new.huji.ac.il](https://new.huji.ac.il)
- - date_published: 2024-07-13T03:57:19.560610+00:00
-
- ## דף הבית | HUJI OpenScholar
- - [https://openscholar.huji.ac.il](https://openscholar.huji.ac.il)
- - date_published: 2024-07-13T03:11:13+00:00
-
- ## The Rachel and Selim Benin School of Computer Science and Engineering | The Hebrew University.
- - [https://pages.cs.huji.ac.il](https://pages.cs.huji.ac.il)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## The Racah Institute of Physics
- - [http://www.phys.huji.ac.il](http://www.phys.huji.ac.il)
- - date_published: 2024-07-22T07:03:59+00:00
-
- ## המזכירות האקדמית
- - [https://acad-sec.tau.ac.il](https://acad-sec.tau.ac.il)
- - date_published: 2024-07-24T07:57:38.975902+00:00
-
- ## معلومات للمهتمين
- - [https://ar-go.tau.ac.il](https://ar-go.tau.ac.il)
- - date_published: 2024-07-24T07:57:49.409302+00:00
-
- ## הפקולטה לאמנויות
- - [http://arts.tau.ac.il](http://arts.tau.ac.il)
- - date_published: 2024-07-24T07:57:22.079294+00:00
-
- ## Board of Governors
- - [https://bog.tau.ac.il](https://bog.tau.ac.il)
- - date_published: 2024-08-19T00:37:51+00:00
-
- ## לומדים תמיד - לימודים אקדמיים לבעלי תואר
- - [https://bprepared.tau.ac.il](https://bprepared.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## המרכז לפיתוח קריירה
- - [http://career.tau.ac.il](http://career.tau.ac.il)
- - date_published: 2024-10-20T01:25:07.322251+00:00
-
- ## 特拉维夫大学中文官网
- - [https://china.tau.ac.il](https://china.tau.ac.il)
- - date_published: 2024-07-22T00:00:00+00:00
 

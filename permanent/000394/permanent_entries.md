@@ -1,3 +1,264 @@
+ ## el.planet.wikimedia.org
+ - [https://el.planet.wikimedia.org](https://el.planet.wikimedia.org)
+ - date_published: 2024-06-30T06:08:01+00:00
+
+ ## en.planet.wikimedia.org
+ - [https://en.planet.wikimedia.org](https://en.planet.wikimedia.org)
+ - date_published: 2024-05-11T08:49:59.092779+00:00
+
+ ## es.planet.wikimedia.org
+ - [https://es.planet.wikimedia.org](https://es.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wikimedia Foundation Governance Wiki
+ - [https://foundation.m.wikimedia.org](https://foundation.m.wikimedia.org)
+ - date_published: 2024-05-11T11:25:06.243946+00:00
+
+ ## Wikimedia Foundation Governance Wiki
+ - [https://foundation.wikimedia.org](https://foundation.wikimedia.org)
+ - date_published: 2024-05-08T10:04:28.828708+00:00
+
+ ## fr.planet.wikimedia.org
+ - [https://fr.planet.wikimedia.org](https://fr.planet.wikimedia.org)
+ - date_published: 2024-06-30T21:06:46+00:00
+
+ ## Explore projects · GitLab
+ - [https://gitlab.wikimedia.org](https://gitlab.wikimedia.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## gmq.planet.wikimedia.org
+ - [https://gmq.planet.wikimedia.org](https://gmq.planet.wikimedia.org)
+ - date_published: 2024-06-30T05:57:12+00:00
+
+ ## id.planet.wikimedia.org
+ - [https://id.planet.wikimedia.org](https://id.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wikimedia Indonesia
+ - [https://id.wikimedia.org](https://id.wikimedia.org)
+ - date_published: 2024-07-11T12:12:50+00:00
+
+ ## Incubator:Main Page - Wikimedia Incubator
+ - [https://incubator.m.wikimedia.org](https://incubator.m.wikimedia.org)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Incubator:Main Page - Wikimedia Incubator
+ - [https://incubator.wikimedia.org](https://incubator.wikimedia.org)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## it.planet.wikimedia.org
+ - [https://it.planet.wikimedia.org](https://it.planet.wikimedia.org)
+ - date_published: 2024-06-30T17:17:12+00:00
+
+ ## List Index - lists.wikimedia.org
+ - [https://lists.wikimedia.org](https://lists.wikimedia.org)
+ - date_published: 2024-01-09T03:43:10.640760+00:00
+
+ ## Wikimedia Login Wiki
+ - [https://login.wikimedia.org](https://login.wikimedia.org)
+ - date_published: 2024-05-08T10:04:29.680600+00:00
+
+ ## Wikimedia maps beta
+ - [https://maps.wikimedia.org](https://maps.wikimedia.org)
+ - date_published: 2024-06-27T14:56:51+00:00
+
+ ## Main Page - Meta
+ - [https://meta.m.wikimedia.org](https://meta.m.wikimedia.org)
+ - date_published: 2024-07-12T03:06:17.590085+00:00
+
+ ## Main Page - Meta
+ - [https://meta.wikimedia.org](https://meta.wikimedia.org)
+ - date_published: 2023-10-25T22:21:00.290462+00:00
+
+ ## Main Page - Outreach Wiki
+ - [https://outreach.m.wikimedia.org](https://outreach.m.wikimedia.org)
+ - date_published: 2024-07-07T08:23:23.307515+00:00
+
+ ## Main Page - Outreach Wiki
+ - [https://outreach.wikimedia.org](https://outreach.wikimedia.org)
+ - date_published: 2024-05-08T10:04:41.543265+00:00
+
+ ## Wikimedia Phabricator
+ - [https://phabricator.wikimedia.org](https://phabricator.wikimedia.org)
+ - date_published: 2024-05-11T08:49:48.852598+00:00
+
+ ## Login - Wikimedia Developer Single Sign On
+ - [https://piwik.wikimedia.org](https://piwik.wikimedia.org)
+ - date_published: 2024-07-10T10:36:22.851367+00:00
+
+ ## pl.planet.wikimedia.org
+ - [https://pl.planet.wikimedia.org](https://pl.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Stowarzyszenie Wikimedia Polska
+ - [https://pl.wikimedia.org](https://pl.wikimedia.org)
+ - date_published: 2024-07-04T09:47:06+00:00
+
+ ## pt.planet.wikimedia.org
+ - [https://pt.planet.wikimedia.org](https://pt.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## ro.planet.wikimedia.org
+ - [https://ro.planet.wikimedia.org](https://ro.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## ru.planet.wikimedia.org
+ - [https://ru.planet.wikimedia.org](https://ru.planet.wikimedia.org)
+ - date_published: 2024-06-29T23:03:03+00:00
+
+ ## Викимедиа
+ - [https://ru.wikimedia.org](https://ru.wikimedia.org)
+ - date_published: 2024-06-27T20:49:13+00:00
+
+ ## Wikimedia
+ - [https://secure.wikimedia.org](https://secure.wikimedia.org)
+ - date_published: 2024-05-06T12:25:13+00:00
+
+ ## Wikipedia Store
+ - [https://shop.wikimedia.org](https://shop.wikimedia.org)
+ - date_published: 2024-07-11T21:55:21.616148+00:00
+
+ ## Wikispecies, free species directory
+ - [https://species.m.wikimedia.org](https://species.m.wikimedia.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Wikispecies, free species directory
+ - [https://species.wikimedia.org](https://species.wikimedia.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Wikistats - Statistics For Wikimedia Projects
+ - [https://stats.wikimedia.org](https://stats.wikimedia.org)
+ - date_published: 2023-12-06T22:24:17+00:00
+
+ ## Wikipedia Store
+ - [https://store.wikimedia.org](https://store.wikimedia.org)
+ - date_published: 2024-07-07T08:21:09.790535+00:00
+
+ ## [[WM:TECHBLOG]] – Open Source for Open Knowledge
+ - [https://techblog.wikimedia.org](https://techblog.wikimedia.org)
+ - date_published: 2024-05-08T10:04:44.001912+00:00
+
+ ## Transparency report - July to December 2023 – Wikimedia Foundation
+ - [https://transparency.wikimedia.org](https://transparency.wikimedia.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Wikimedia Türkiye
+ - [http://tr.wikimedia.org](http://tr.wikimedia.org)
+ - date_published: 2024-08-14T12:31:13+00:00
+
+ ## Вікімедіа Україна
+ - [https://ua.wikimedia.org](https://ua.wikimedia.org)
+ - date_published: 2024-08-11T12:32:48+00:00
+
+ ## uk.planet.wikimedia.org
+ - [https://uk.planet.wikimedia.org](https://uk.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wikimedia Commons
+ - [https://upload.wikimedia.org](https://upload.wikimedia.org)
+ - date_published: 2023-12-02T22:11:10.036720+00:00
+
+ ## West Bengal Wikimedians
+ - [https://wb.wikimedia.org](https://wb.wikimedia.org)
+ - date_published: 2024-06-28T05:30:28+00:00
+
+ ## Wikimania
+ - [https://wikimania2005.wikimedia.org](https://wikimania2005.wikimedia.org)
+ - date_published: 2024-06-22T21:02:40+00:00
+
+ ## Wikimania
+ - [https://wikimania2006.wikimedia.org](https://wikimania2006.wikimedia.org)
+ - date_published: 2024-06-23T08:22:08+00:00
+
+ ## Wikimania
+ - [https://wikimania2007.wikimedia.org](https://wikimania2007.wikimedia.org)
+ - date_published: 2024-06-23T08:21:58+00:00
+
+ ## Wikimania
+ - [https://wikimania2008.wikimedia.org](https://wikimania2008.wikimedia.org)
+ - date_published: 2024-06-23T08:22:12+00:00
+
+ ## Wikimania
+ - [https://wikimania2009.wikimedia.org](https://wikimania2009.wikimedia.org)
+ - date_published: 2024-06-22T11:31:51+00:00
+
+ ## Wikimania 2010 in Gdańsk
+ - [https://wikimania2010.wikimedia.org](https://wikimania2010.wikimedia.org)
+ - date_published: 2024-06-23T08:22:00+00:00
+
+ ## Wikimania 2011 in Haifa
+ - [https://wikimania2011.wikimedia.org](https://wikimania2011.wikimedia.org)
+ - date_published: 2024-06-22T17:22:09+00:00
+
+ ## Wikimania 2012 in Washington, D.C.
+ - [https://wikimania2012.wikimedia.org](https://wikimania2012.wikimedia.org)
+ - date_published: 2024-06-23T08:21:54+00:00
+
+ ## Wikimania 2013 in Hong Kong
+ - [https://wikimania2013.wikimedia.org](https://wikimania2013.wikimedia.org)
+ - date_published: 2024-06-23T08:22:07+00:00
+
+ ## Wikimania 2014 in London
+ - [https://wikimania2014.wikimedia.org](https://wikimania2014.wikimedia.org)
+ - date_published: 2024-06-22T16:05:47+00:00
+
+ ## Wikimania – Wikimania 2015 in Mexico City
+ - [https://wikimania2015.wikimedia.org](https://wikimania2015.wikimedia.org)
+ - date_published: 2024-07-07T08:21:56.456068+00:00
+
+ ## Main Page – Wikimania 2016 in Esino Lario
+ - [https://wikimania2016.wikimedia.org](https://wikimania2016.wikimedia.org)
+ - date_published: 2024-07-07T08:22:11.063518+00:00
+
+ ## Wikimania - Wikimania
+ - [https://wikimania2017.wikimedia.org](https://wikimania2017.wikimedia.org)
+ - date_published: 2024-07-06T23:47:23.378275+00:00
+
+ ## Wikimania - Wikimania
+ - [https://wikimania2018.wikimedia.org](https://wikimania2018.wikimedia.org)
+ - date_published: 2024-07-07T08:22:06.727762+00:00
+
+ ## 2024:Wikimania - Wikimania
+ - [https://wikimania.m.wikimedia.org](https://wikimania.m.wikimedia.org)
+ - date_published: 2024-07-07T08:21:57.817384+00:00
+
+ ## 2024:Wikimania - Wikimania
+ - [https://wikimania.wikimedia.org](https://wikimania.wikimedia.org)
+ - date_published: 2024-05-08T10:04:34.688496+00:00
+
+ ## Wikimedia
+ - [https://wikimedia.org](https://wikimedia.org)
+ - date_published: 2024-05-06T12:25:13+00:00
+ - tags: ['wikipedia', 'organisation']
+
+ ## Wikitech
+ - [https://wikitech.wikimedia.org](https://wikitech.wikimedia.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## zh.planet.wikimedia.org
+ - [https://zh.planet.wikimedia.org](https://zh.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wikimedia DC Blog
+ - [https://blog.wikimediadc.org](https://blog.wikimediadc.org)
+ - date_published: 2017-11-16T06:29:35+00:00
+
+ ## Wikimedia Endowment
+ - [https://wikimediaendowment.org](https://wikimediaendowment.org)
+ - date_published: 2024-07-07T08:21:06.564121+00:00
+
+ ## Home – Wikimedia Foundation
+ - [https://wikimediafoundation.org](https://wikimediafoundation.org)
+ - date_published: 2023-10-25T22:21:03.787447+00:00
+
+ ## Ихадоу Адаҟьа - Wn/ab - Wikimedia Incubator
+ - [https://ab.wikinews.org](https://ab.wikinews.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Adyghe Wikinews - Wikimedia Incubator
+ - [https://ady.wikinews.org](https://ady.wikinews.org)
+ - date_published: 2024-07-12T03:29:17.476000+00:00
+
  ## Tuisblad - Wn/af - Wikimedia Incubator
  - [https://af.wikinews.org](https://af.wikinews.org)
  - date_published: 2024-07-03T04:02:33+00:00
@@ -3739,264 +4000,4 @@
  ## Guarani Wikiquote - Wikimedia Incubator
  - [https://gn.wikiquote.org](https://gn.wikiquote.org)
  - date_published: 2024-09-18T03:02:23.826563+00:00
-
- ## Goan Konkani Wikiquote - Wikimedia Incubator
- - [https://gom.wikiquote.org](https://gom.wikiquote.org)
- - date_published: 2024-07-12T02:43:25.107249+00:00
-
- ## Main Page - Wq/gor - Wikimedia Incubator
- - [https://gor.wikiquote.org](https://gor.wikiquote.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Gothic Wikiquote - Wikimedia Incubator
- - [https://got.wikiquote.org](https://got.wikiquote.org)
- - date_published: 2024-07-12T05:16:13.115621+00:00
-
- ## Ghanaian Pidgin Wikiquote - Wikimedia Incubator
- - [https://gpe.wikiquote.org](https://gpe.wikiquote.org)
- - date_published: 2024-07-12T03:21:08.472066+00:00
-
- ## Frafra Wikiquote - Wikimedia Incubator
- - [https://gur.wikiquote.org](https://gur.wikiquote.org)
- - date_published: 2024-07-12T03:03:21.412696+00:00
-
- ## વિકિસૂક્તિ
- - [https://gu.wikiquote.org](https://gu.wikiquote.org)
- - date_published: 2024-06-19T16:17:44+00:00
-
- ## Wikiquote
- - [https://guw.wikiquote.org](https://guw.wikiquote.org)
- - date_published: 2024-06-19T16:17:44+00:00
-
- ## Manx Wikiquote - Wikimedia Incubator
- - [https://gv.wikiquote.org](https://gv.wikiquote.org)
- - date_published: 2024-07-12T02:34:56.967085+00:00
-
- ## Babban shafi - Wq/ha - Wikimedia Incubator
- - [https://ha.wikiquote.org](https://ha.wikiquote.org)
- - date_published: 2024-07-09T12:22:03+00:00
-
- ## Papa Kinohi - Wq/haw - Wikimedia Incubator
- - [https://haw.wikiquote.org](https://haw.wikiquote.org)
- - date_published: 2024-06-28T05:04:25+00:00
-
- ## ויקיציטוט
- - [https://he.m.wikiquote.org](https://he.m.wikiquote.org)
- - date_published: 2024-09-16T02:59:11+00:00
-
- ## ויקיציטוט
- - [https://he.wikiquote.org](https://he.wikiquote.org)
- - date_published: 2024-06-15T04:25:12+00:00
-
- ## विकिसूक्ति
- - [https://hi.wikiquote.org](https://hi.wikiquote.org)
- - date_published: 2024-06-19T16:17:45+00:00
-
- ## Wikicitat
- - [https://hr.wikiquote.org](https://hr.wikiquote.org)
- - date_published: 2024-06-19T16:17:45+00:00
-
- ## Paj prensipal - Wq/ht - Wikimedia Incubator
- - [https://ht.wikiquote.org](https://ht.wikiquote.org)
- - date_published: 2024-06-28T05:33:55+00:00
-
- ## Wikidézet
- - [https://hu.wikiquote.org](https://hu.wikiquote.org)
- - date_published: 2024-06-19T16:17:46+00:00
-
- ## Վիքիքաղվածք
- - [https://hy.wikiquote.org](https://hy.wikiquote.org)
- - date_published: 2024-06-19T16:17:46+00:00
-
- ## Wikikutip
- - [https://id.wikiquote.org](https://id.wikiquote.org)
- - date_published: 2024-06-19T16:17:46+00:00
-
- ## Interlingue Wikiquote - Wikimedia Incubator
- - [https://ie.wikiquote.org](https://ie.wikiquote.org)
- - date_published: 2024-07-12T02:51:05.977086+00:00
-
- ## Igala Wikiquote - Wikimedia Incubator
- - [https://igl.wikiquote.org](https://igl.wikiquote.org)
- - date_published: 2024-07-12T03:19:33.884714+00:00
-
- ## Wikiquote
- - [https://ig.wikiquote.org](https://ig.wikiquote.org)
- - date_published: 2024-06-19T16:17:46+00:00
-
- ## Wikivitnun
- - [https://is.wikiquote.org](https://is.wikiquote.org)
- - date_published: 2024-06-19T16:17:47+00:00
-
- ## Wikiquote
- - [https://it.m.wikiquote.org](https://it.m.wikiquote.org)
- - date_published: 2024-07-13T21:58:14+00:00
-
- ## Wikiquote
- - [https://it.wikiquote.org](https://it.wikiquote.org)
- - date_published: 2024-05-11T11:24:57.383933+00:00
-
- ## Wikiquote
- - [https://ja.wikiquote.org](https://ja.wikiquote.org)
- - date_published: 2024-06-19T16:17:48+00:00
-
- ## Pendhapa - Wq/jv - Wikimedia Incubator
- - [https://jv.wikiquote.org](https://jv.wikiquote.org)
- - date_published: 2024-06-28T04:43:47+00:00
-
- ## Bas bet - Wq/kaa - Wikimedia Incubator
- - [https://kaa.wikiquote.org](https://kaa.wikiquote.org)
- - date_published: 2024-06-28T02:47:18+00:00
-
- ## ვიკიციტატა
- - [https://ka.wikiquote.org](https://ka.wikiquote.org)
- - date_published: 2024-06-19T16:18:16+00:00
-
- ## Kabardian Wikiquote - Wikimedia Incubator
- - [https://kbd.wikiquote.org](https://kbd.wikiquote.org)
- - date_published: 2024-07-12T02:47:50.874951+00:00
-
- ## A̱tsak Wat Wu - Wq/kcg - Wikimedia Incubator
- - [https://kcg.wikiquote.org](https://kcg.wikiquote.org)
- - date_published: 2024-07-09T12:22:03+00:00
-
- ## Kongo Wikiquote - Wikimedia Incubator
- - [https://kg.wikiquote.org](https://kg.wikiquote.org)
- - date_published: 2024-07-12T05:16:58.545167+00:00
-
- ## Уикидәйек
- - [https://kk.wikiquote.org](https://kk.wikiquote.org)
- - date_published: 2024-06-08T08:09:10+00:00
-
- ## Kalaallisut Wikiquote - Wikimedia Incubator
- - [https://kl.wikiquote.org](https://kl.wikiquote.org)
- - date_published: 2024-09-18T03:28:53.915418+00:00
-
- ## Khmer Wikiquote - Wikimedia Incubator
- - [https://km.wikiquote.org](https://km.wikiquote.org)
- - date_published: 2024-09-18T03:01:25.710067+00:00
-
- ## ವಿಕಿಕೋಟ್
- - [https://kn.m.wikiquote.org](https://kn.m.wikiquote.org)
- - date_published: 2024-06-29T14:16:10+00:00
-
- ## ವಿಕಿಕೋಟ್
- - [https://kn.wikiquote.org](https://kn.wikiquote.org)
- - date_published: 2024-05-07T15:42:31.251269+00:00
-
- ## 위키인용집
- - [https://ko.wikiquote.org](https://ko.wikiquote.org)
- - date_published: 2024-06-19T16:18:17+00:00
-
- ## Wikiquote
- - [https://ku.wikiquote.org](https://ku.wikiquote.org)
- - date_published: 2024-06-19T16:18:17+00:00
-
- ## Komi Wikiquote - Wikimedia Incubator
- - [https://kv.wikiquote.org](https://kv.wikiquote.org)
- - date_published: 2024-07-12T02:19:12.873465+00:00
-
- ## Wikiquote
- - [https://kw.wikiquote.org](https://kw.wikiquote.org)
- - date_published: 2024-06-08T06:50:56+00:00
-
- ## Wikiquote
- - [https://ky.wikiquote.org](https://ky.wikiquote.org)
- - date_published: 2024-06-19T16:18:17+00:00
-
- ## Wq/lad - Wikimedia Incubator
- - [https://lad.wikiquote.org](https://lad.wikiquote.org)
- - date_published: 2024-07-09T09:56:25+00:00
-
- ## Vicicitatio
- - [https://la.wikiquote.org](https://la.wikiquote.org)
- - date_published: 2024-06-19T16:18:17+00:00
-
- ## Wikiquote
- - [https://lb.wikiquote.org](https://lb.wikiquote.org)
- - date_published: 2024-06-08T05:57:52+00:00
-
- ## Wq/lg - Wikimedia Incubator
- - [https://lg.wikiquote.org](https://lg.wikiquote.org)
- - date_published: 2024-07-09T09:56:25+00:00
-
- ## Wikiquote
- - [https://li.wikiquote.org](https://li.wikiquote.org)
- - date_published: 2024-06-19T16:18:17+00:00
-
- ## Ladin Wikiquote - Wikimedia Incubator
- - [https://lld.wikiquote.org](https://lld.wikiquote.org)
- - date_published: 2024-07-12T02:50:33.759880+00:00
-
- ## Lingala Wikiquote - Wikimedia Incubator
- - [https://ln.wikiquote.org](https://ln.wikiquote.org)
- - date_published: 2024-07-12T03:28:12.065568+00:00
-
- ## Wikiquote
- - [https://lt.wikiquote.org](https://lt.wikiquote.org)
- - date_published: 2024-06-19T16:18:18+00:00
-
- ## Basa Banyumasan Wikiquote - Wikimedia Incubator
- - [https://map-bms.wikiquote.org](https://map-bms.wikiquote.org)
- - date_published: 2024-07-12T03:30:26.202875+00:00
-
- ## Moksha Wikiquote - Wikimedia Incubator
- - [https://mdf.wikiquote.org](https://mdf.wikiquote.org)
- - date_published: 2024-07-12T02:30:18.772165+00:00
-
- ## Malagasy Wikiquote - Wikimedia Incubator
- - [https://mg.wikiquote.org](https://mg.wikiquote.org)
- - date_published: 2024-07-12T03:18:54.566224+00:00
-
- ## Laman Utamo - Wq/min - Wikimedia Incubator
- - [https://min.wikiquote.org](https://min.wikiquote.org)
- - date_published: 2024-07-09T12:22:03+00:00
-
- ## Викицитат - Wq/mk - Wikimedia Incubator
- - [https://mk.wikiquote.org](https://mk.wikiquote.org)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## വിക്കിചൊല്ലുകൾ
- - [https://ml.wikiquote.org](https://ml.wikiquote.org)
- - date_published: 2024-06-19T16:18:18+00:00
-
- ## ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ - Wq/mni - Wikimedia Incubator
- - [https://mni.wikiquote.org](https://mni.wikiquote.org)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Нүүр хуудас - Wq/mn - Wikimedia Incubator
- - [https://mn.wikiquote.org](https://mn.wikiquote.org)
- - date_published: 2024-06-28T05:01:12+00:00
-
- ## မုက်လိက်တမ် - Wq/mnw - Wikimedia Incubator
- - [https://mnw.wikiquote.org](https://mnw.wikiquote.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Wikiquote
- - [https://mr.wikiquote.org](https://mr.wikiquote.org)
- - date_published: 2024-06-19T16:18:18+00:00
-
- ## Il-Paġna prinċipali - Wq/mt - Wikimedia Incubator
- - [https://mt.wikiquote.org](https://mt.wikiquote.org)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Mirandese Wikiquote - Wikimedia Incubator
- - [https://mwl.wikiquote.org](https://mwl.wikiquote.org)
- - date_published: 2024-07-12T04:30:50.587460+00:00
-
- ## Erzya Wikiquote - Wikimedia Incubator
- - [https://myv.wikiquote.org](https://myv.wikiquote.org)
- - date_published: 2024-07-12T04:21:19.516184+00:00
-
- ## ဗဟိုစာမျက်နှာ - Wq/my - Wikimedia Incubator
- - [https://my.wikiquote.org](https://my.wikiquote.org)
- - date_published: 2024-07-09T12:22:03+00:00
-
- ## Wq/mzn - Wikimedia Incubator
- - [https://mzn.wikiquote.org](https://mzn.wikiquote.org)
- - date_published: 2024-07-09T09:56:24+00:00
-
- ## Wq/nah - Wikimedia Incubator
- - [https://nah.wikiquote.org](https://nah.wikiquote.org)
- - date_published: 2024-06-28T03:28:03+00:00
 

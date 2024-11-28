@@ -1,3 +1,40 @@
+ ## Charmaine Lee
+ - [https://charmaineklee.com](https://charmaineklee.com)
+ - date_published: 2023-10-25T09:19:42.820729+00:00
+ - tags: ['personal']
+
+ ## Strange Attractor
+ - [https://charman-anderson.com](https://charman-anderson.com)
+ - date_published: 2024-05-08T05:03:44.915624+00:00
+
+ ## Suw Charman-Anderson – Social technology workshops, online courses, consultancy & research
+ - [https://suw.charman-anderson.com](https://suw.charman-anderson.com)
+ - date_published: 2024-07-04T05:26:48.584182+00:00
+
+ ## Charm and Rigor :: Richard Morgan
+ - [https://charmandrigor.com](https://charmandrigor.com)
+ - date_published: 2024-05-07T12:47:06.331015+00:00
+
+ ## Charmer Studio - design studio
+ - [https://charmerstudio.com](https://charmerstudio.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Charm - Cure Your Customer Support Fatigue with Software
+ - [https://charmhq.com](https://charmhq.com)
+ - date_published: 2024-07-11T23:55:53.669434+00:00
+
+ ## Toilet Paper Rolls & Flushable Wipes | Charmin
+ - [https://ca.charmin.com](https://ca.charmin.com)
+ - date_published: 2024-10-22T05:17:26+00:00
+
+ ## Enjoy The Go With Best Toilet Paper Rolls &amp; Flushable Wipes | Charmin
+ - [https://charmin.com](https://charmin.com)
+ - date_published: 2024-10-22T13:07:20+00:00
+
+ ## Charmin Forever Roll
+ - [https://shop.charmin.com](https://shop.charmin.com)
+ - date_published: 2024-10-29T05:42:17.401227+00:00
+
  ## Charm | Carbon removal technology
  - [https://charmindustrial.com](https://charmindustrial.com)
  - date_published: 2024-05-01T05:44:37.122621+00:00
@@ -3993,40 +4030,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  ## Chris Guidry
  - [https://chrisguidry.com](https://chrisguidry.com)
  - date_published: 2024-06-22T15:29:02+00:00
-
- ## the art of non-conformity
- - [https://chrisguillebeau.com](https://chrisguillebeau.com)
- - date_published: 2024-05-06T18:14:47.462234+00:00
-
- ## Christopher Guindon - Manager, Web Development at The Eclipse Foundation
- - [https://www.chrisguindon.com](https://www.chrisguindon.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Chris Haarburger Blog
- - [https://chris-haarburger.com](https://chris-haarburger.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Chris Hart Consulting - Strategic software advice
- - [https://chrishartconsulting.com](https://chrishartconsulting.com)
- - date_published: 2024-05-09T08:24:28.579996+00:00
-
- ## Chris Hecker's Website
- - [http://chrishecker.com](http://chrishecker.com)
- - date_published: 2024-09-19T14:14:52+00:00
-
- ## Chris​Hubbs​.com
- - [https://chrishubbs.com](https://chrishubbs.com)
- - date_published: 2024-07-05T01:37:27+00:00
-
- ## Grow superpowers beyond the code.
- - [https://chrishufnagel.com](https://chrishufnagel.com)
- - date_published: 2024-05-11T10:17:46.354172+00:00
-
- ## Chris is on Infinite Earths - Home of X-Lapsed and Stuff...
- - [https://www.chrisisoninfiniteearths.com](https://www.chrisisoninfiniteearths.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Chris Istace | Mindful Explorer
- - [https://chrisistace.com](https://chrisistace.com)
- - date_published: 2024-05-01T02:12:27.983283+00:00
 

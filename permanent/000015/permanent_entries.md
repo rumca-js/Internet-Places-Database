@@ -1,3 +1,11 @@
+ ## annie mueller
+ - [https://annie.micro.blog](https://annie.micro.blog)
+ - date_published: 2024-06-19T14:19:45+00:00
+
+ ## bapsi
+ - [https://bapsi.micro.blog](https://bapsi.micro.blog)
+ - date_published: 2024-04-02T00:00:00+00:00
+
  ## Bill Bennett
  - [https://billbennett.micro.blog](https://billbennett.micro.blog)
  - date_published: 2024-07-07T05:40:40+00:00
@@ -4034,12 +4042,4 @@ Educação
  ## A Plataforma de Host Feita Para Você - Hostinger
  - [https://hostinger.com.br](https://hostinger.com.br)
  - date_published: 2024-05-11T07:49:48.244296+00:00
-
- ## Bem-vindo à Hotfrog
- - [https://www.hotfrog.com.br](https://www.hotfrog.com.br)
- - date_published: 2024-06-29T16:52:31.330952+00:00
-
- ## Iandé
- - [https://iandecultura.com.br](https://iandecultura.com.br)
- - date_published: 2024-08-18T05:25:47.698210+00:00
 

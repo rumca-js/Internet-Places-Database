@@ -1,3 +1,31 @@
+ ## Whatever It Is, I’m Against It
+ - [http://whateveritisimagainstit.blogspot.com](http://whateveritisimagainstit.blogspot.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## What Helps The Homeless
+ - [http://whathelpsthehomeless.blogspot.com](http://whathelpsthehomeless.blogspot.com)
+ - date_published: 2024-03-13T06:57:28+00:00
+
+ ## What is going on in Europe?
+ - [https://whatisgoingonineurope.blogspot.com](https://whatisgoingonineurope.blogspot.com)
+ - date_published: 2023-11-15T17:49:53+00:00
+
+ ## What McAuliffe Said
+ - [http://whatmcauliffesaid.blogspot.com](http://whatmcauliffesaid.blogspot.com)
+ - date_published: 2024-07-02T17:19:30+00:00
+
+ ## What? Me paint?
+ - [http://whatmepaint.blogspot.com](http://whatmepaint.blogspot.com)
+ - date_published: 2024-07-03T03:40:17+00:00
+
+ ## David Hepworth's blog
+ - [http://whatsheonaboutnow.blogspot.com](http://whatsheonaboutnow.blogspot.com)
+ - date_published: 2024-08-05T07:19:05+00:00
+
+ ## What's the Word Now?
+ - [https://whatsthewordnow.blogspot.com](https://whatsthewordnow.blogspot.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## What'sUpWithThatWatts, et al.
  - [http://whatsupwiththatwatts.blogspot.com](http://whatsupwiththatwatts.blogspot.com)
  - date_published: 2024-06-29T13:21:10+00:00
@@ -3989,33 +4017,4 @@
  ## Homepage | BJSM
  - [https://bjsm.bmj.com](https://bjsm.bmj.com)
  - date_published: 2023-10-25T10:36:52.375517+00:00
-
- ## BJSM Live Concussion in Sport Webinar
- - [https://bjsmlive.bmj.com](https://bjsmlive.bmj.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## BMJ Blogs  BMJ Blogs - Insights and opinion on the latest news and research
- - [https://blogs.bmj.com](https://blogs.bmj.com)
- - date_published: 2023-10-25T10:36:56.482885+00:00
-
- ## The BMJ headless CMS chicken – The BMJ headless CMS chicken
- - [https://bmj-chicken.bmj.com](https://bmj-chicken.bmj.com)
- - date_published: 2024-07-03T15:32:31.115994+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://bmj.com](https://bmj.com)
- - date_published: 2024-05-08T03:01:20.944060+00:00
- - tags: ['science journal']
-
- ## Discover the latest clinical knowledge and opinion | BMJ Journals
- - [https://bmjjournals-chicken.bmj.com](https://bmjjournals-chicken.bmj.com)
- - date_published: 2024-05-08T03:01:44.815204+00:00
-
- ## Homepage | BMJ Leader
- - [https://bmjleader.bmj.com](https://bmjleader.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Medicine
- - [https://bmjmedicine.bmj.com](https://bmjmedicine.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
 

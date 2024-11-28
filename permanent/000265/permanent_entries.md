@@ -1,3 +1,223 @@
+ ## Home | Greensburg
+ - [http://www.greensburg.pitt.edu](http://www.greensburg.pitt.edu)
+ - date_published: 2024-07-01T16:59:20.439390+00:00
+
+ ## Home | Graduate School of Public and International Affairs
+ - [https://www.gspia.pitt.edu](https://www.gspia.pitt.edu)
+ - date_published: 2024-07-01T16:58:11.560495+00:00
+
+ ## Home | Health Sciences | University of Pittsburgh
+ - [http://www.health.pitt.edu](http://www.health.pitt.edu)
+ - date_published: 2024-06-27T11:33:13+00:00
+
+ ## Home | Honors College
+ - [https://www.honors.pitt.edu](https://www.honors.pitt.edu)
+ - date_published: 2024-07-01T16:57:59.923564+00:00
+
+ ## History and Philosophy of Science | University of Pittsburgh
+ - [http://www.hps.pitt.edu](http://www.hps.pitt.edu)
+ - date_published: 2024-07-01T09:04:00+00:00
+
+ ## OIE - Office of Innovation and Entrepreneurship
+ - [https://www.innovation.pitt.edu](https://www.innovation.pitt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Site redirect
+ - [http://www.ischool.pitt.edu](http://www.ischool.pitt.edu)
+ - date_published: 2024-08-07T15:51:43.005059+00:00
+
+ ## University of Pittsburgh Johnstown | University of Pittsburgh
+ - [https://www.johnstown.pitt.edu](https://www.johnstown.pitt.edu)
+ - date_published: 2024-07-01T16:58:44+00:00
+
+ ## Home | Talent Center: Careers at Pitt | University of Pittsburgh
+ - [https://www.join.pitt.edu](https://www.join.pitt.edu)
+ - date_published: 2024-07-01T16:58:17+00:00
+
+ ## Home | School of Law
+ - [https://www.law.pitt.edu](https://www.law.pitt.edu)
+ - date_published: 2024-07-01T16:58:51.243785+00:00
+
+ ## Home |  LGBTQIA+
+ - [https://www.lgbtq.pitt.edu](https://www.lgbtq.pitt.edu)
+ - date_published: 2024-07-01T16:59:17.353223+00:00
+
+ ## Linguistics | University of Pittsburgh | University of Pittsburgh
+ - [https://www.linguistics.pitt.edu](https://www.linguistics.pitt.edu)
+ - date_published: 2024-09-14T13:00:35+00:00
+
+ ## School of Medicine | University of Pittsburgh
+ - [https://www.medschool.pitt.edu](https://www.medschool.pitt.edu)
+ - date_published: 2024-07-01T16:58:03+00:00
+
+ ## School of Nursing | University of Pittsburgh
+ - [https://www.nursing.pitt.edu](https://www.nursing.pitt.edu)
+ - date_published: 2024-07-01T16:37:08+00:00
+
+ ## Office of the Provost | University of Pittsburgh
+ - [https://www.personaled.pitt.edu](https://www.personaled.pitt.edu)
+ - date_published: 2024-07-01T14:21:45+00:00
+
+ ## Home | School of Pharmacy
+ - [https://www.pharmacy.pitt.edu](https://www.pharmacy.pitt.edu)
+ - date_published: 2024-07-01T16:59:18.815395+00:00
+
+ ## Department of Political Science | University of Pittsburgh
+ - [https://www.polisci.pitt.edu](https://www.polisci.pitt.edu)
+ - date_published: 2024-08-07T15:51:49+00:00
+
+ ## Office of the University Registrar | University of Pittsburgh
+ - [https://www.registrar.pitt.edu](https://www.registrar.pitt.edu)
+ - date_published: 2024-09-14T22:33:34+00:00
+
+ ## School of Computing and Information | University of Pittsburgh
+ - [https://www.sci.pitt.edu](https://www.sci.pitt.edu)
+ - date_published: 2024-07-01T16:58:19+00:00
+
+ ## School of Health and Rehabilitation Sciences | University of Pittsburgh | University of Pittsburgh School of Health and Rehabilitation Sciences
+ - [https://www.shrs.pitt.edu](https://www.shrs.pitt.edu)
+ - date_published: 2024-07-01T16:56:52+00:00
+
+ ## School of Social Work | University of Pittsburgh
+ - [https://www.socialwork.pitt.edu](https://www.socialwork.pitt.edu)
+ - date_published: 2024-07-01T16:41:47+00:00
+
+ ## Home | Division of Student Affairs
+ - [https://www.studentaffairs.pitt.edu](https://www.studentaffairs.pitt.edu)
+ - date_published: 2024-09-14T22:33:29.963757+00:00
+
+ ## Home - Pitt Sustainability
+ - [https://www.sustainable.pitt.edu](https://www.sustainable.pitt.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Information Technology | University of Pittsburgh
+ - [https://www.technology.pitt.edu](https://www.technology.pitt.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Titusville | University of Pittsburgh
+ - [https://www.titusville.pitt.edu](https://www.titusville.pitt.edu)
+ - date_published: 2024-07-01T13:15:43+00:00
+
+ ## Home | Campus Tour
+ - [https://www.tour.pitt.edu](https://www.tour.pitt.edu)
+ - date_published: 2024-07-01T16:51:50+00:00
+
+ ## Home | Tuition Rates and Fees
+ - [https://www.tuition.pitt.edu](https://www.tuition.pitt.edu)
+ - date_published: 2024-09-14T22:32:44.920047+00:00
+
+ ## CloudFlare Error | SUNY Plattsburgh
+ - [http://www.plattsburgh.edu](http://www.plattsburgh.edu)
+ - date_published: 2024-07-11T15:11:15.276312+00:00
+
+ ## Practising Law Institute Continuing Legal Education Programs, Webcasts and Publications
+ - [http://www.pli.edu](http://www.pli.edu)
+ - date_published: 2024-07-14T11:56:34.333333+00:00
+
+ ## PLU | Pacific Lutheran University
+ - [http://www.plu.edu](http://www.plu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Admissions - Purdue University Northwest
+ - [https://discover.pnw.edu](https://discover.pnw.edu)
+ - date_published: 2024-07-01T17:46:09.049801+00:00
+
+ ## Purdue University Northwest
+ - [https://mypnw.pnw.edu](https://mypnw.pnw.edu)
+ - date_published: 2024-07-01T17:46:21.707987+00:00
+
+ ## Homepage - Purdue University Northwest
+ - [https://pnw.edu](https://pnw.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Point Park University
+ - [http://www.pointpark.edu](http://www.pointpark.edu)
+ - date_published: 2024-06-27T19:32:55+00:00
+
+ ## Home | NYU Tandon School of Engineering
+ - [http://poly.edu](http://poly.edu)
+ - date_published: 2024-06-11T12:36:42+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://portail.polytechnique.edu](https://portail.polytechnique.edu)
+ - date_published: 2024-06-30T09:24:18+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://www.polytechnique.edu](https://www.polytechnique.edu)
+ - date_published: 2024-06-22T09:46:14+00:00
+
+ ## Pomona College - Modern Campus Catalog™
+ - [https://catalog.pomona.edu](https://catalog.pomona.edu)
+ - date_published: 2024-07-04T12:56:56.305482+00:00
+
+ ## Page Redirection
+ - [https://cs.pomona.edu](https://cs.pomona.edu)
+ - date_published: 2014-05-29T23:19:28+00:00
+
+ ## The Doodle Lab | Pomona College
+ - [http://doodlelab.sites.pomona.edu](http://doodlelab.sites.pomona.edu)
+ - date_published: 2024-01-16T21:38:21+00:00
+
+ ## Home | Pomona College in Claremont, California - Pomona College
+ - [https://pomona.edu](https://pomona.edu)
+ - date_published: 2022-06-17T21:06:33+00:00
+
+ ## WVU Potomac State College | Academics | West Virginia University's Potomac State College Academics
+ - [https://academics.potomacstatecollege.edu](https://academics.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:56.225771+00:00
+
+ ## WVU Potomac State College | Admissions | Admissions and Aid
+ - [https://admissions.potomacstatecollege.edu](https://admissions.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:35.671849+00:00
+
+ ## Home | Alert Potomac State | West Virginia University
+ - [https://alert.potomacstatecollege.edu](https://alert.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:53.812446+00:00
+
+ ## Emergency | Potomac State Emergency | WVU Potomace State
+ - [https://emergency.potomacstatecollege.edu](https://emergency.potomacstatecollege.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
+ - [https://potomacstatecollege.edu](https://potomacstatecollege.edu)
+ - date_published: 2024-05-07T22:39:39.983878+00:00
+
+ ## WVU Potomac State College | Student Experience | Student Experience
+ - [https://studentexperience.potomacstatecollege.edu](https://studentexperience.potomacstatecollege.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## SUNY Potsdam Employment Site | Home
+ - [https://employment.potsdam.edu](https://employment.potsdam.edu)
+ - date_published: 2024-05-09T06:39:54.286746+00:00
+
+ ## SUNY Potsdam | SUNY Potsdam
+ - [https://www.potsdam.edu](https://www.potsdam.edu)
+ - date_published: 2024-07-09T20:24:33+00:00
+
+ ## Sign In
+ - [https://canvas.pratt.edu](https://canvas.pratt.edu)
+ - date_published: 2024-07-08T15:07:03.053984+00:00
+
+ ## Home | Pratt Academic Catalog
+ - [https://catalog.pratt.edu](https://catalog.pratt.edu)
+ - date_published: 2024-03-20T15:46:25+00:00
+
+ ## Admissions
+ - [https://connect.pratt.edu](https://connect.pratt.edu)
+ - date_published: 2024-07-08T15:07:17.835014+00:00
+
+ ## Pratt Institute Libraries
+ - [https://library.pratt.edu](https://library.pratt.edu)
+ - date_published: 2024-07-08T15:07:08.293842+00:00
+
+ ## Homepage
+ - [https://pratt.edu](https://pratt.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## talks.pratt.edu
+ - [https://talks.pratt.edu](https://talks.pratt.edu)
+ - date_published: 2024-07-08T15:07:12+00:00
+
  ## Presbyterian College | Go True Blue | South Carolina
  - [https://www.presby.edu](https://www.presby.edu)
  - date_published: 2024-09-09T00:00:00+00:00
@@ -3786,226 +4006,4 @@
  ## NJAES Office of Research Analytics
  - [https://ora.rutgers.edu](https://ora.rutgers.edu)
  - date_published: 2024-07-01T18:43:45.915764+00:00
-
- ## Office of Resource and Economic Development
- - [https://ored.njaes.rutgers.edu](https://ored.njaes.rutgers.edu)
- - date_published: 2024-07-01T18:43:29.233730+00:00
-
- ## Home
- - [https://ored.rutgers.edu](https://ored.rutgers.edu)
- - date_published: 2024-07-01T17:35:00+00:00
-
- ## Home | Path 2 Success
- - [https://path2success.newark.rutgers.edu](https://path2success.newark.rutgers.edu)
- - date_published: 2024-07-14T23:44:01.594222+00:00
-
- ## Pragmatic Case Studies in Psychotherapy
- - [http://pcsp.libraries.rutgers.edu](http://pcsp.libraries.rutgers.edu)
- - date_published: 2024-10-30T20:33:57.861990+00:00
-
- ## CAS - Central Authentication Service NetID Login
- - [https://personalinfo.rutgers.edu](https://personalinfo.rutgers.edu)
- - date_published: 2024-07-01T18:41:11.399777+00:00
-
- ## Pest Management Office
- - [https://pestmanagement.rutgers.edu](https://pestmanagement.rutgers.edu)
- - date_published: 2024-07-01T18:43:56.504839+00:00
-
- ## Welcome to Department of Philosophy | School of Arts and Sciences - Rutgers, The State University of New Jersey
- - [https://philosophy.rutgers.edu](https://philosophy.rutgers.edu)
- - date_published: 2024-06-23T09:42:13+00:00
-
- ## Plant & Pest Advisory
- - [https://plant-pest-advisory.rutgers.edu](https://plant-pest-advisory.rutgers.edu)
- - date_published: 2024-07-01T18:43:25.095496+00:00
-
- ## Home
- - [https://policies.rutgers.edu](https://policies.rutgers.edu)
- - date_published: 2024-07-01T18:44:40.781412+00:00
-
- ## University Procurement Services |
- - [https://procurementservices.rutgers.edu](https://procurementservices.rutgers.edu)
- - date_published: 2024-07-01T18:36:27+00:00
-
- ## Welcome to Rutgers Access and Disability Resources | Access and Disability Resources
- - [https://radr.rutgers.edu](https://radr.rutgers.edu)
- - date_published: 2024-05-07T20:22:31.836774+00:00
-
- ## Rutgers Against Hunger
- - [https://rah.rutgers.edu](https://rah.rutgers.edu)
- - date_published: 2024-07-01T18:43:45.143433+00:00
-
- ## Home
- - [https://rbhs.rutgers.edu](https://rbhs.rutgers.edu)
- - date_published: 2024-07-01T04:34:16+00:00
-
- ## Rutgers Camden–IT - RU–Camden IT
- - [https://rcit.rutgers.edu](https://rcit.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Office of the Registrar | Rutgers University-Camden
- - [https://registrar.camden.rutgers.edu](https://registrar.camden.rutgers.edu)
- - date_published: 2024-07-01T18:32:23.867935+00:00
-
- ## Rutgers Request System | Rutgers University
- - [https://requests.rutgers.edu](https://requests.rutgers.edu)
- - date_published: 2024-03-20T21:08:34+00:00
-
- ## Home
- - [https://research.rutgers.edu](https://research.rutgers.edu)
- - date_published: 2024-07-01T17:35:00+00:00
-
- ## Rutgers Retired Faculty and Staff Association | uhr.rutgers.edu
- - [http://retirement.rutgers.edu](http://retirement.rutgers.edu)
- - date_published: 2024-06-28T18:35:47+00:00
-
- ## DIMACS REU: Research Experience for Undergraduates
- - [http://reu.dimacs.rutgers.edu](http://reu.dimacs.rutgers.edu)
- - date_published: 2024-06-12T19:47:54+00:00
-
- ## Research & Graduate Education
- - [https://rge.sas.rutgers.edu](https://rge.sas.rutgers.edu)
- - date_published: 2024-07-01T18:40:33+00:00
-
- ## ROA
- - [http://roa.rutgers.edu](http://roa.rutgers.edu)
- - date_published: 2024-07-02T10:03:48.994250+00:00
-
- ## Home – Rutgers University Robotics
- - [http://robotics.cs.rutgers.edu](http://robotics.cs.rutgers.edu)
- - date_published: 2024-06-30T11:00:38.432014+00:00
-
- ## HR Liaisons | uhr.rutgers.edu
- - [http://rocs.rutgers.edu](http://rocs.rutgers.edu)
- - date_published: 2024-06-28T18:20:54+00:00
-
- ## RUCOOL | Rutgers Center for Ocean Observing Leadership – The Rutgers University Center for Ocean Observing Leadership (RUCOOL) is creating knowledge of our ocean planet by pushing the limits of science and new technologies while inspiring future generations of ocean explorers.
- - [https://rucool.marine.rutgers.edu](https://rucool.marine.rutgers.edu)
- - date_published: 2024-07-01T18:43:36.945283+00:00
-
- ## All Events | Rutgers-New Brunswick
- - [https://ruevents.rutgers.edu](https://ruevents.rutgers.edu)
- - date_published: 2024-05-07T20:09:20.860480+00:00
-
- ## Home | Rutgers Online Learning Conference
- - [https://ruonlinecon.rutgers.edu](https://ruonlinecon.rutgers.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home - Information Security - Information Security
- - [https://rusecure.rutgers.edu](https://rusecure.rutgers.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Rutgers University
- - [https://rutgers.edu](https://rutgers.edu)
- - date_published: 2024-06-19T21:35:12+00:00
-
- ## Rutgers Gardens – The official botanic garden of Rutgers University, located on the Rutgers–New Brunswick campus.
- - [http://rutgersgardens.rutgers.edu](http://rutgersgardens.rutgers.edu)
- - date_published: 2024-07-01T18:43:48.033057+00:00
-
- ## Home - RUWireless - RUWireless
- - [https://ruwireless.rutgers.edu](https://ruwireless.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## sakai.rutgers.edu : Gateway : Sakai Start Page
- - [http://sakai.rutgers.edu](http://sakai.rutgers.edu)
- - date_published: 2024-07-01T18:40:11+00:00
-
- ## Office of International Programs
- - [https://sasip.rutgers.edu](https://sasip.rutgers.edu)
- - date_published: 2024-05-07T20:09:02.722174+00:00
-
- ## Home
- - [https://sas-it.rutgers.edu](https://sas-it.rutgers.edu)
- - date_published: 2024-07-01T18:43:09+00:00
-
- ## Home
- - [http://sasit.rutgers.edu](http://sasit.rutgers.edu)
- - date_published: 2024-07-01T18:40:37+00:00
-
- ## SASN Home
- - [https://sasn.rutgers.edu](https://sasn.rutgers.edu)
- - date_published: 2024-03-29T18:07:25.503729+00:00
-
- ## Office of Administration
- - [https://sasooa.rutgers.edu](https://sasooa.rutgers.edu)
- - date_published: 2024-07-01T18:42:30+00:00
-
- ## Arts and Sciences in Action
- - [https://sas.rutgers.edu](https://sas.rutgers.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## SAS-NB Advising and Academic Services
- - [https://sasundergrad.rutgers.edu](https://sasundergrad.rutgers.edu)
- - date_published: 2024-05-07T20:09:06.035320+00:00
-
- ## Home - Scarlet Hub
- - [https://scarlethub.rutgers.edu](https://scarlethub.rutgers.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## ScarletApps - ScarletApps
- - [https://scarletmail.rutgers.edu](https://scarletmail.rutgers.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home | Academic Scheduling and Instructional Space
- - [https://scheduling.rutgers.edu](https://scheduling.rutgers.edu)
- - date_published: 2024-05-07T20:09:23.958134+00:00
-
- ## Science Communication Initiative
- - [https://scicomm.rutgers.edu](https://scicomm.rutgers.edu)
- - date_published: 2024-07-01T18:44:11.863098+00:00
-
- ## CareCure Home - 
-		
-		CareCure Forums
- - [http://sci.rutgers.edu](http://sci.rutgers.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Rutgers Search
- - [https://search.rutgers.edu](https://search.rutgers.edu)
- - date_published: 2024-01-25T20:41:34+00:00
-
- ## Rutgers SEBS Educational Opportunity Fund
- - [https://sebseof.rutgers.edu](https://sebseof.rutgers.edu)
- - date_published: 2024-07-01T18:44:14.637962+00:00
-
- ## Newsroom :  A Product of the SEBS and NJAES Office of Public Outreach and Communication
- - [http://sebsnjaesnews.rutgers.edu](http://sebsnjaesnews.rutgers.edu)
- - date_published: 2024-07-01T18:43:28.243181+00:00
-
- ## Research | School of Environmental and Biological Sciences
- - [https://sebsnjaesresearch.rutgers.edu](https://sebsnjaesresearch.rutgers.edu)
- - date_published: 2024-07-01T18:43:42.839208+00:00
-
- ## The Rutgers School of Environmental and Biological Sciences
- - [https://sebs.rutgers.edu](https://sebs.rutgers.edu)
- - date_published: 2024-05-07T20:09:48.204805+00:00
-
- ## Student to Professional Internship Network
- - [https://sebsspin.rutgers.edu](https://sebsspin.rutgers.edu)
- - date_published: 2024-07-01T18:44:16.176306+00:00
-
- ## EAS Service Catalog | Enterprise Application Services
- - [https://sims.rutgers.edu](https://sims.rutgers.edu)
- - date_published: 2024-05-07T20:09:12.032176+00:00
-
- ## About Department Sites at Rutgers-Camden - Department Sites at Rutgers University Camden
- - [https://sites.camden.rutgers.edu](https://sites.camden.rutgers.edu)
- - date_published: 2024-05-07T20:08:33.773352+00:00
-
- ## Mathematics Department - Welcome
- - [https://sites.math.rutgers.edu](https://sites.math.rutgers.edu)
- - date_published: 2023-08-22T14:00:39+00:00
-
- ## Sites@Rutgers - Rutgers University Websites Made Easy
- - [https://sites.rutgers.edu](https://sites.rutgers.edu)
- - date_published: 2024-04-30T03:49:26.858594+00:00
-
- ## School of Engineering Home | Rutgers School of Engineering
- - [https://soe.rutgers.edu](https://soe.rutgers.edu)
- - date_published: 2024-08-30T15:24:56+00:00
-
- ## RU Software Portal - Home
- - [https://software.rutgers.edu](https://software.rutgers.edu)
- - date_published: 2024-07-01T18:42:09.559025+00:00
 

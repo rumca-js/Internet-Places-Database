@@ -1,3 +1,25 @@
+ ## Modern C++ with Andreas Fertig: Trainer, Consultant & Speaker for C++
+ - [https://andreasfertig.com](https://andreasfertig.com)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Andreas Fragner
+ - [https://andreasfragner.com](https://andreasfragner.com)
+ - date_published: 2023-10-25T08:44:35.155156+00:00
+ - tags: ['personal']
+
+ ## Andreas Kambanis
+ - [https://andreaskambanis.com](https://andreaskambanis.com)
+ - date_published: 2023-10-25T12:40:48.109100+00:00
+
+ ## Andreas Kogler
+ - [https://andreaskogler.com](https://andreaskogler.com)
+ - date_published: 2024-03-07T17:02:49+00:00
+
+ ## About me
+ | Andreas Longva
+ - [https://andreaslongva.com](https://andreaslongva.com)
+ - date_published: 2024-06-05T09:31:43+00:00
+
  ## Andreas Lüdemann
  - [https://andreaslydemann.com](https://andreaslydemann.com)
  - date_published: 2024-06-23T14:53:15.384758+00:00
@@ -4052,24 +4074,4 @@
  ## Apartments near USF | Catered to Students - ApartmentsForBulls
  - [https://www.apartmentsforbulls.com](https://www.apartmentsforbulls.com)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## Tuscaloosa Apartments | UA Apartments - ApartmentsForLegends
- - [https://www.apartmentsforlegends.com](https://www.apartmentsforlegends.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Premium Apartments Konta - Perfect Stay in Croatia
- - [https://apartments-konta.com](https://apartments-konta.com)
- - date_published: 2024-08-07T21:33:54.058668+00:00
-
- ## Access to this page has been denied.
- - [https://apartmenttherapy.com](https://apartmenttherapy.com)
- - date_published: 2024-05-07T15:04:56.749250+00:00
-
- ## Apartment Therapy Media
- - [https://www.apartmenttherapymedia.com](https://www.apartmenttherapymedia.com)
- - date_published: 2024-06-28T16:19:33+00:00
-
- ## Student Accommodation | UK, Dublin, Milan & Barcelona | aparto
- - [https://apartostudent.com](https://apartostudent.com)
- - date_published: 2024-10-15T02:24:27.113261+00:00
 

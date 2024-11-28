@@ -218,7 +218,7 @@
         "language": "en",
         "proxy_location": "https://renegat0x0.ddns.net/apps/places/source-json/5344",
         "remove_after_days": 0,
-        "source_type": "DomainParserPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Social",
         "title": "Now Now Now",
         "url": "https://nownownow.com"

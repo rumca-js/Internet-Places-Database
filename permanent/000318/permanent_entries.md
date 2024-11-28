@@ -1,3 +1,239 @@
+ ## Ecobonus
+ - [https://ecobonus.mise.gov.it](https://ecobonus.mise.gov.it)
+ - date_published: 2024-07-12T06:27:54.045032+00:00
+
+ ## Ministero delle Imprese e del Made in Italy
+ - [https://www.mise.gov.it](https://www.mise.gov.it)
+ - date_published: 2024-06-23T21:05:43+00:00
+
+ ## Home page | Ministero delle infrastrutture e dei trasporti
+ - [https://www.mit.gov.it](https://www.mit.gov.it)
+ - date_published: 2024-06-23T21:05:40+00:00
+
+ ## | Ministero dell'Ambiente e della Sicurezza Energetica
+ - [https://www.mite.gov.it](https://www.mite.gov.it)
+ - date_published: 2024-10-15T06:44:00.324878+00:00
+
+ ## Ministero dell'Istruzione e del Merito
+ - [https://www.miur.gov.it](https://www.miur.gov.it)
+ - date_published: 2024-06-23T21:05:53.403068+00:00
+
+ ## Dipartimento per le Pari Opportunità -
+ - [http://www.pariopportunita.gov.it](http://www.pariopportunita.gov.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## homepage
+ - [https://www.politicheagricole.gov.it](https://www.politicheagricole.gov.it)
+ - date_published: 2024-06-23T20:15:24+00:00
+
+ ## Loading...
+ - [https://www.protezionecivile.gov.it](https://www.protezionecivile.gov.it)
+ - date_published: 2024-05-29T22:47:14+00:00
+
+ ## Home - Quello che conta
+ - [https://www.quellocheconta.gov.it](https://www.quellocheconta.gov.it)
+ - date_published: 2024-09-26T21:01:11+00:00
+
+ ## Ministero della Salute
+ - [https://www.salute.gov.it](https://www.salute.gov.it)
+ - date_published: 2021-05-14T13:05:35+00:00
+
+ ## SPID - Sistema Pubblico di identità Digitale
+ - [https://www.spid.gov.it](https://www.spid.gov.it)
+ - date_published: 2022-01-03T00:00:00+00:00
+
+ ## Home | Unioncamere
+ - [http://www.unioncamere.gov.it](http://www.unioncamere.gov.it)
+ - date_published: 2024-07-14T16:10:16.501204+00:00
+
+ ## Il Sole 24 Ore: notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri
+ - [https://i2.res.24o.it](https://i2.res.24o.it)
+ - date_published: 2019-11-21T13:47:58+00:00
+
+ ## 3CX. PBX. Live Chat. Videoconferenza
+ - [https://3cx.it](https://3cx.it)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## 3M Science. Applied to Life.™ | 3M Italia Sito Ufficiale
+ - [https://www.3mitalia.it](https://www.3mitalia.it)
+ - date_published: 2024-08-06T10:41:29.339397+00:00
+
+ ## 50 Top Pizza – Guide to the BestPizzerias in the world
+ - [https://www.50toppizza.it](https://www.50toppizza.it)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## 64b.it | Software Development & Quality Consulting
+ - [https://64b.it](https://64b.it)
+ - date_published: 2024-08-08T15:18:19.747259+00:00
+
+ ## NOT Dexter's Lab
+ - [https://www.a2p.it](https://www.a2p.it)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Sito ufficiale Abarth - Auto sportive | Abarth
+ - [https://www.abarth.it](https://www.abarth.it)
+ - date_published: 2024-06-05T14:57:53+00:00
+
+ ## Valutazione auto usate : stima auto usate | Abarth IT
+ - [https://www.valutazioneusato.abarth.it](https://www.valutazioneusato.abarth.it)
+ - date_published: 2024-10-28T21:42:00.898863+00:00
+
+ ## Home page - Abbazia di San Giorgio Maggiore
+ - [https://abbaziasangiorgio.it](https://abbaziasangiorgio.it)
+ - date_published: 2023-04-18T16:16:55+00:00
+
+ ## Abbonamenti a riviste, prodotti e servizi - Abbonamenti.it
+ - [https://www.abbonamenti.it](https://www.abbonamenti.it)
+ - date_published: 2024-07-15T11:02:36.613733+00:00
+
+ ## Homepage - Abbonationline
+ - [https://www.abbonationline.it](https://www.abbonationline.it)
+ - date_published: 2024-09-20T17:25:05.643371+00:00
+
+ ## Magazine
+ - [https://abbonatiqui.it](https://abbonatiqui.it)
+ - date_published: 2024-05-12T06:00:08.830769+00:00
+
+ ## Magazine
+ - [https://offerte.abbonatiqui.it](https://offerte.abbonatiqui.it)
+ - date_published: 2024-07-15T11:02:31.779664+00:00
+
+ ## AbeBooks | Libri, Arte e Collezionismo
+ - [https://abebooks.it](https://abebooks.it)
+ - date_published: 2024-09-15T23:49:00.408027+00:00
+
+ ## Abebooks
+ - [https://supporto.abebooks.it](https://supporto.abebooks.it)
+ - date_published: 2023-09-16T23:50:29+00:00
+
+ ## Abitare | Rivista d'Architettura e Design
+ - [http://www.abitare.it](http://www.abitare.it)
+ - date_published: 2024-09-02T10:41:08.140512+00:00
+
+ ## About Amazon Italia
+ - [https://aboutamazon.it](https://aboutamazon.it)
+ - date_published: 2024-05-01T02:02:27.509499+00:00
+
+ ## Home - Amazon Sustainability
+ - [https://sostenibilita.aboutamazon.it](https://sostenibilita.aboutamazon.it)
+ - date_published: 2024-06-15T02:15:07.409446+00:00
+
+ ## AboutBits | Software Development and Consulting Agency
+ - [https://aboutbits.it](https://aboutbits.it)
+ - date_published: 2024-08-19T16:43:58.344387+00:00
+
+ ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
+ - [https://m.aboutyou.it](https://m.aboutyou.it)
+ - date_published: 2024-09-17T18:06:41+00:00
+
+ ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
+ - [https://www.aboutyou.it](https://www.aboutyou.it)
+ - date_published: 2024-09-17T18:06:41+00:00
+
+ ## Accademia del Cinema. La scuola per lavorare nel mondo dello spettacolo e del cinema.
+ - [https://accademiadelcinema.it](https://accademiadelcinema.it)
+ - date_published: 2024-05-07T23:42:16.887401+00:00
+
+ ## AccentiWeb
+ - [http://www.accentiweb.it](http://www.accentiweb.it)
+ - date_published: 2018-12-14T11:59:08+00:00
+
+ ## Revive Adserver
+ - [https://adserver.acdsolutions.it](https://adserver.acdsolutions.it)
+ - date_published: 2024-08-11T14:54:21.531365+00:00
+
+ ## ACSG Associazione Culturale Studi Grafici – Comunicare. Condividere. Crescere.
+ - [http://www.acsg.it](http://www.acsg.it)
+ - date_published: 2024-08-18T12:00:22+00:00
+
+ ## Ada Amendola
+ - [https://www.adaamendola.it](https://www.adaamendola.it)
+ - date_published: 2024-09-06T20:20:47.549092+00:00
+
+ ## Adafruit Industries, Unique & fun DIY electronics and kits
+ - [https://adafru.it](https://adafru.it)
+ - date_published: 2024-05-01T02:20:03.054699+00:00
+
+ ## Concessionaria Pubblicitaria Digitale | Adasta
+ - [https://adasta.it](https://adasta.it)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Login Editore
+ - [https://dashboard.adasta.it](https://dashboard.adasta.it)
+ - date_published: 2024-06-25T22:42:24.810448+00:00
+
+ ## Adecco Italia - agenzia del lavoro per privati e aziende
+ - [https://www.adecco.it](https://www.adecco.it)
+ - date_published: 2024-09-26T18:18:03+00:00
+
+ ## The Adecco Group
+ - [https://adeccogroup.it](https://adeccogroup.it)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Iniziano i saldi estivi 2024: fino al 50% di sconto | adidas IT
+ - [https://www.adidas.it](https://www.adidas.it)
+ - date_published: 2024-07-14T12:13:29.453849+00:00
+
+ ## La tua rivista di arredamento, design e arte
+ - [https://ad-italia.it](https://ad-italia.it)
+ - date_published: 2024-05-12T06:00:14.655903+00:00
+
+ ## AdPlay: Media, Tech e Digital Transformation.
+ - [https://www.adplay.it](https://www.adplay.it)
+ - date_published: 2024-10-22T12:42:57.770975+00:00
+
+ ## AdRaise
+ - [https://www.adraise.it](https://www.adraise.it)
+ - date_published: 2024-06-25T21:21:26.127183+00:00
+
+ ## Advance Projects
+ - [https://www.advancemame.it](https://www.advancemame.it)
+ - date_published: 2024-02-11T14:44:49+00:00
+
+ ## Affari Internazionali - Affari Internazionali
+ - [https://www.affarinternazionali.it](https://www.affarinternazionali.it)
+ - date_published: 2023-12-30T18:33:40+00:00
+
+ ## A Fuoco | Substack
+ - [https://www.a-fuoco.it](https://www.a-fuoco.it)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## AGCM - Autorita' Garante della Concorrenza e del Mercato
+ - [https://www.agcm.it](https://www.agcm.it)
+ - date_published: 2024-09-26T21:02:07.785523+00:00
+
+ ## AGCOM - ConciliaWeb - Entra
+ - [https://conciliaweb.agcom.it](https://conciliaweb.agcom.it)
+ - date_published: 2024-09-30T13:55:39.459423+00:00
+
+ ## SIR - Servizio Informazione Religiosa
+ - [https://agensir.it](https://agensir.it)
+ - date_published: 2015-10-06T22:00:00+00:00
+
+ ## Dichiarazione precompilata Info e assistenza - Home
+ - [https://infoprecompilata.agenziaentrate.it](https://infoprecompilata.agenziaentrate.it)
+ - date_published: 2024-06-16T08:49:49.779728+00:00
+
+ ## AgrigentoNotizie
+ - [https://agrigentonotizie.it](https://agrigentonotizie.it)
+ - date_published: 2024-05-11T09:56:02.663321+00:00
+
+ ## Agronetto Italia – piattaforma online per la vendita di macchine agricole e ricambi
+ - [https://agronetto.it](https://agronetto.it)
+ - date_published: 2024-08-11T15:40:44.015133+00:00
+
+ ## AI4I.it
+ - [https://ai4i.it](https://ai4i.it)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## Associazione Italiana Arbitri | FIGC
+ - [http://www.aia-figc.it](http://www.aia-figc.it)
+ - date_published: 2024-09-18T22:48:33.288203+00:00
+
+ ## Ai chiostri Milano - Ristorante | Grandi eventi | Caffè lounge
+ - [https://aichiostrimilano.it](https://aichiostrimilano.it)
+ - date_published: 2024-10-07T23:31:12.043571+00:00
+
  ## Airbnb | Case vacanze, baite, case sulla spiaggia e molto altro ancora
  - [https://airbnb.it](https://airbnb.it)
  - date_published: 2024-05-26T00:00:00+00:00
@@ -3777,241 +4013,4 @@
  ## Fatto da Voi
  - [https://fattodavoi.ilfattoquotidiano.it](https://fattodavoi.ilfattoquotidiano.it)
  - date_published: 2024-07-15T03:15:08+00:00
-
- ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
- - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
- - date_published: 2024-05-12T04:56:02.975121+00:00
-
- ## Previsioni Meteo - Il Fatto Quotidiano
- - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:28.664261+00:00
-
- ## Il Fatto Social Club
- - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
- - date_published: 2012-04-17T21:31:03+00:00
-
- ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
- - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:48.085233+00:00
-
- ## Il Foglio - Edizione Online
- - [https://www.ilfoglio.it](https://www.ilfoglio.it)
- - date_published: 2024-07-03T22:12:57+00:00
-
- ## il Giornale
- - [http://www.ilgiornale.it](http://www.ilgiornale.it)
- - date_published: 2024-07-03T22:20:22.112238+00:00
-
- ## Offerte mobile, fibra e smartphone
- - iliad
- - [https://www.iliad.it](https://www.iliad.it)
- - date_published: 2024-09-18T22:53:47.241287+00:00
-
- ## Stand Virtuale | Food Service ILIP - Passion for Packaging
- - [https://foodservice.ilip.it](https://foodservice.ilip.it)
- - date_published: 2024-10-31T10:00:30.298370+00:00
-
- ## Stand Virtuale | Fresh Produce ILIP - Passion for Packaging
- - [https://freshproduce.ilip.it](https://freshproduce.ilip.it)
- - date_published: 2024-10-31T10:00:20.528738+00:00
-
- ## ILIP Hortipack | Packaging per l'ortoflorovivaismo
- - [https://hortipack.ilip.it](https://hortipack.ilip.it)
- - date_published: 2024-10-31T09:59:46.907954+00:00
-
- ## ILIP S.r.l. Passion for Packaging | Soluzioni d’imballaggio per alimenti
- - [https://ilip.it](https://ilip.it)
- - date_published: 2024-10-31T09:15:38.902226+00:00
-
- ## homepage manifesto | il manifesto
- - [https://ilmanifesto.it](https://ilmanifesto.it)
- - date_published: 2024-10-29T16:11:54.606225+00:00
-
- ## IL METEO ▷ Meteo e previsioni del tempo in Italia * iLMeteo.it
- - [https://www.ilmeteo.it](https://www.ilmeteo.it)
- - date_published: 2024-06-23T21:07:00.808088+00:00
-
- ## Previsioni meteo | ilmeteo24.it | App meteo
- - [https://www.ilmeteo24.it](https://www.ilmeteo24.it)
- - date_published: 2024-06-25T19:48:56.363300+00:00
-
- ## ilMioDono
- - [https://www.ilmiodono.it](https://www.ilmiodono.it)
- - date_published: 2024-06-25T15:02:17+00:00
-
- ## Il Mondo Di Sopra
- - [http://www.ilmondodisopra.it](http://www.ilmondodisopra.it)
- - date_published: 2024-09-02T08:31:58+00:00
-
- ## IlPescara
- - [https://ilpescara.it](https://ilpescara.it)
- - date_published: 2024-05-11T09:56:17.372901+00:00
-
- ## IlPiacenza
- - [https://ilpiacenza.it](https://ilpiacenza.it)
- - date_published: 2024-05-11T09:56:05.765220+00:00
-
- ## Il Post
- - [https://www.ilpost.it](https://www.ilpost.it)
- - date_published: 2024-07-09T19:53:12+00:00
-
- ## Il Salotto del Gatto Libraio
- - [https://www.ilsalottodelgattolibraio.it](https://www.ilsalottodelgattolibraio.it)
- - date_published: 2024-09-02T15:00:34+00:00
-
- ## Il SecoloXIX - Finanza
- - [https://finanza.ilsecoloxix.it](https://finanza.ilsecoloxix.it)
- - date_published: 2024-07-16T19:12:03.794728+00:00
-
- ## Il Secolo XIX - Quotidiano online
- - [https://ilsecoloxix.it](https://ilsecoloxix.it)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Previsioni meteo in Italia e nel Mondo - Il Secolo XIX
- - [https://meteo.ilsecoloxix.it](https://meteo.ilsecoloxix.it)
- - date_published: 2024-07-16T19:12:11.247622+00:00
-
- ## Necrologi Defunti – Annunci Necrologici - Necrologie Il Secolo XIX
- - [https://necrologie.ilsecoloxix.it](https://necrologie.ilsecoloxix.it)
- - date_published: 2024-07-16T18:48:00.870574+00:00
-
- ## IlSoftware.it - Il Sito Italiano sul Software
- - [https://ilsoftware.it](https://ilsoftware.it)
- - date_published: 2024-05-11T07:05:30.701170+00:00
-
- ## Scuola Privata Materne A Bergamo – Scuola Imiberg
- - [https://www.imiberg.it](https://www.imiberg.it)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Immobiliare Labs
- - [https://labs.immobiliare.it](https://labs.immobiliare.it)
- - date_published: 2024-06-11T11:16:08+00:00
-
- ## Case in vendita - Immobiliare.it
- - [http://www.immobiliare.it](http://www.immobiliare.it)
- - date_published: 2024-07-08T12:56:45.699609+00:00
-
- ## Impresa di Pulizie Baccalini Pavia - Home
- - [https://impresadipuliziebaccalini.it](https://impresadipuliziebaccalini.it)
- - date_published: 2024-06-29T17:04:18+00:00
-
- ## SySMA
- - [http://sysma.imtlucca.it](http://sysma.imtlucca.it)
- - date_published: 2024-08-18T22:54:58.783435+00:00
-
- ## Scuola IMT Alti Studi Lucca
- - [https://www.imtlucca.it](https://www.imtlucca.it)
- - date_published: 2024-06-23T20:44:51.962076+00:00
-
- ## Osservatorio Astrofisico di Catania | INAF
- - [http://www.oact.inaf.it](http://www.oact.inaf.it)
- - date_published: 2024-08-18T20:22:28.898927+00:00
-
- ## IpaPortale
- - [https://www.indicepa.it](https://www.indicepa.it)
- - date_published: 2024-01-26T16:52:03+00:00
-
- ## Indire – Ricerca per l'innovazione della scuola italiana
- - [http://www.indire.it](http://www.indire.it)
- - date_published: 2024-07-06T23:43:02.662504+00:00
-
- ## Home · Agenda (Indico)
- - [http://agenda.infn.it](http://agenda.infn.it)
- - date_published: 2024-07-06T23:43:25.898822+00:00
-
- ## Sign in - Matomo
- - [https://analytics.infn.it](https://analytics.infn.it)
- - date_published: 2024-07-06T23:32:17.521888+00:00
-
- ## BookingFrontend
- - [https://booking.dsi.infn.it](https://booking.dsi.infn.it)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Istituto Nazionale di Fisica Nucleare | Attività di Terza Missione
- - [http://cc3m.infn.it](http://cc3m.infn.it)
- - date_published: 2024-03-21T12:08:18+00:00
-
- ## Collisioni.infn – Spazi culturali all’Istituto Nazionale di Fisica Nucleare
- - [https://collisioni.infn.it](https://collisioni.infn.it)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Il DPO dell'INFN
- - [https://dpo.infn.it](https://dpo.infn.it)
- - date_published: 2024-07-06T23:32:14.163454+00:00
-
- ## Educational
- - [http://edu.lnf.infn.it](http://edu.lnf.infn.it)
- - date_published: 2024-07-06T23:32:09.119727+00:00
-
- ## MachForm Admin Panel
- - [https://forms.lnf.infn.it](https://forms.lnf.infn.it)
- - date_published: 2024-07-06T23:31:50.766706+00:00
-
- ## Gallery LNGS
- - [https://gallery.lngs.infn.it](https://gallery.lngs.infn.it)
- - date_published: 2024-07-06T23:41:30.787642+00:00
-
- ## Istituto Nazionale di Fisica Nucleare
- - [https://home.infn.it](https://home.infn.it)
- - date_published: 2024-05-08T08:47:45.961985+00:00
-
- ## SimpleSAMLphp installation page
- - [https://idp.infn.it](https://idp.infn.it)
- - date_published: 2024-08-07T10:10:42.455659+00:00
-
- ## [INFN] Opportunità di lavoro
- - [https://jobs.dsi.infn.it](https://jobs.dsi.infn.it)
- - date_published: 2024-07-06T23:41:27.358527+00:00
-
- ## Biblioteca - LNGS
- - [https://library.lngs.infn.it](https://library.lngs.infn.it)
- - date_published: 2024-02-07T08:39:03+00:00
-
- ## Scienza Per Tutti -  Home
- - [https://scienzapertutti.infn.it](https://scienzapertutti.infn.it)
- - date_published: 2024-07-06T23:32:15+00:00
-
- ## Service LNGS
- - [https://service.sites.lngs.infn.it](https://service.sites.lngs.infn.it)
- - date_published: 2024-07-06T23:41:46.364750+00:00
-
- ## La Storia dell'Istituto Nazionale di Fisica Nucleare | La Storia dell'Istituto Nazionale di Fisica Nucleare
- - [https://storia.infn.it](https://storia.infn.it)
- - date_published: 2024-07-06T23:43:36.363969+00:00
-
- ## LNF User
- - [http://user.lnf.infn.it](http://user.lnf.infn.it)
- - date_published: 2024-07-06T23:32:12.975497+00:00
-
- ## Visitor Centre INFN-LNF | Laboratori Nazionali di Frascati
- - [http://visitorcentre.lnf.infn.it](http://visitorcentre.lnf.infn.it)
- - date_published: 2024-07-06T23:32:02.019282+00:00
-
- ## INFN-LNF
- - [https://w3.lnf.infn.it](https://w3.lnf.infn.it)
- - date_published: 2024-05-08T08:47:08.191100+00:00
-
- ## Gestione Siti Web - Servizi Nazionali @ CNAF
- - [https://web2.infn.it](https://web2.infn.it)
- - date_published: 2021-12-11T08:40:02+00:00
-
- ## Gestione Siti Web - Servizi Nazionali @ CNAF
- - [https://web.infn.it](https://web.infn.it)
- - date_published: 2021-12-11T08:40:02+00:00
-
- ## Amministrazione Centrale INFN
- - [https://www.ac.infn.it](https://www.ac.infn.it)
- - date_published: 2024-05-29T10:53:20+00:00
-
- ## INFN Cloud | Cloud Services for Research
- - [https://www.cloud.infn.it](https://www.cloud.infn.it)
- - date_published: 2024-07-06T23:43:29.757547+00:00
-
- ## INFN-CNAF
- - [https://www.cnaf.infn.it](https://www.cnaf.infn.it)
- - date_published: 2024-07-06T23:43:22.500454+00:00
-
- ## Galileo Galilei Institute
- - [https://www.ggi.infn.it](https://www.ggi.infn.it)
- - date_published: 2024-07-01T05:47:35.396550+00:00
 

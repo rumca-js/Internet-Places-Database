@@ -1,3 +1,237 @@
+ ## Lior Yariv
+ - [https://lioryariv.github.io](https://lioryariv.github.io)
+ - date_published: 2024-04-24T11:38:16+00:00
+
+ ## LIPUmanka
+ - [https://lipamanka.github.io](https://lipamanka.github.io)
+ - date_published: 2024-06-06T05:35:44+00:00
+
+ ## Welcome to GitHub Pages
+ - [https://lipis.github.io](https://lipis.github.io)
+ - date_published: 2019-11-23T19:24:02+00:00
+
+ ## Liqiang's Homepage.
+ - [https://liqiangnie.github.io](https://liqiangnie.github.io)
+ - date_published: 2024-05-10T05:29:50.331835+00:00
+
+ ## About me
+ - [https://li-ronghui.github.io](https://li-ronghui.github.io)
+ - date_published: 2024-06-18T08:17:31+00:00
+
+ ## Leroy (Lirui) Wang
+ - [https://liruiw.github.io](https://liruiw.github.io)
+ - date_published: 2024-06-22T00:25:39+00:00
+
+ ## lisyarus.github.io
+ - [https://lisyarus.github.io](https://lisyarus.github.io)
+ - date_published: 2024-03-08T04:09:58.027558+00:00
+
+ ## Index | Blog of Litchi Pi
+ - [https://litchipi.github.io](https://litchipi.github.io)
+ - date_published: 2023-07-28T18:26:44+00:00
+
+ ## Pete not Pete
+ - [https://literaryhero.github.io](https://literaryhero.github.io)
+ - date_published: 2024-04-26T04:54:07+00:00
+
+ ## Redirecting to https://docs.litmuschaos.io/
+ - [https://litmuschaos.github.io](https://litmuschaos.github.io)
+ - date_published: 2022-08-22T14:49:52+00:00
+
+ ## The little book about OS development
+ - [https://littleosbook.github.io](https://littleosbook.github.io)
+ - date_published: 2015-01-19T11:39:05+00:00
+
+ ## Benlin Liu
+ - [https://liubl1217.github.io](https://liubl1217.github.io)
+ - date_published: 2023-12-06T04:25:43+00:00
+
+ ## About me
+ - [https://liuboning2.github.io](https://liuboning2.github.io)
+ - date_published: 2024-05-10T05:29:55.637226+00:00
+
+ ## Guilin Liu
+ - [https://liuguilin1225.github.io](https://liuguilin1225.github.io)
+ - date_published: 2024-02-26T02:21:16+00:00
+
+ ## Leslie Liu
+ - [https://liuleslie.github.io](https://liuleslie.github.io)
+ - date_published: 2024-01-01T03:38:18.927680+00:00
+
+ ## Sitong Liu
+ - [https://liust97.github.io](https://liust97.github.io)
+ - date_published: 2021-04-01T21:42:35+00:00
+
+ ## About Me
+ - [https://liuxiaoxuanpku.github.io](https://liuxiaoxuanpku.github.io)
+ - date_published: 2024-06-10T05:12:50+00:00
+
+ ## Yuan Liu - Homepage
+ - [https://liuyuan-pal.github.io](https://liuyuan-pal.github.io)
+ - date_published: 2024-06-10T13:23:27.429920+00:00
+ - tags: ['personal']
+
+ ## Zhuang Liu's Homepage
+ - [https://liuzhuang13.github.io](https://liuzhuang13.github.io)
+ - date_published: 2024-04-06T19:27:08+00:00
+
+ ## Ziwei Liu - Homepage
+ - [https://liuziwei7.github.io](https://liuziwei7.github.io)
+ - date_published: 2024-07-02T10:01:56+00:00
+
+ ## LiveSplit
+ - [http://livesplit.github.io](http://livesplit.github.io)
+ - date_published: 2024-10-22T09:34:08.828143+00:00
+
+ ## Livingston Samuel's Projects at GitHub
+ - [https://livingston.github.io](https://livingston.github.io)
+ - date_published: 2013-08-03T17:55:51+00:00
+
+ ## Wanhua Li
+ - [https://li-wanhua.github.io](https://li-wanhua.github.io)
+ - date_published: 2024-07-08T01:39:35+00:00
+
+ ## Xiang Li
+ - [https://lixiang3776.github.io](https://lixiang3776.github.io)
+ - date_published: 2024-07-06T07:56:53+00:00
+
+ ## Lixin Yang (杨理欣)
+ - [https://lixiny.github.io](https://lixiny.github.io)
+ - date_published: 2024-04-13T11:43:38+00:00
+
+ ## Zhe Li (李哲)’s Homepage
+ - [https://lizhe00.github.io](https://lizhe00.github.io)
+ - date_published: 2024-06-05T14:52:08+00:00
+
+ ## Zhuoling Li's Homepage
+ - [https://lizhuoling.github.io](https://lizhuoling.github.io)
+ - date_published: 2024-07-30T05:03:54+00:00
+
+ ## Liz Izhikevich
+ - [https://lizizhikevich.github.io](https://lizizhikevich.github.io)
+ - date_published: 2023-10-25T19:48:30.756392+00:00
+
+ ## Lj Miranda
+ - [https://ljvmiranda921.github.io](https://ljvmiranda921.github.io)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## ljzycmd.github.io
+ - [https://ljzycmd.github.io](https://ljzycmd.github.io)
+ - date_published: 2024-03-12T08:56:43+00:00
+
+ ## Home
+ - [https://llama-studios.github.io](https://llama-studios.github.io)
+ - date_published: 2023-07-23T02:03:19+00:00
+
+ ## LLaVA-RLHF
+ - [https://llava-rlhf.github.io](https://llava-rlhf.github.io)
+ - date_published: 2023-09-27T06:56:34+00:00
+
+ ## LLaVA
+ - [https://llava-vl.github.io](https://llava-vl.github.io)
+ - date_published: 2023-10-25T19:48:32.431642+00:00
+
+ ## Learning with Limited Labeled Data, ICLR 2019
+ - [https://lld-workshop.github.io](https://lld-workshop.github.io)
+ - date_published: 2019-05-04T23:32:56+00:00
+
+ ## Home
+ - [https://llm4code.github.io](https://llm4code.github.io)
+ - date_published: 2024-04-24T05:14:11+00:00
+
+ ## Large Language Models for Agents
+ - [https://llmagents.github.io](https://llmagents.github.io)
+ - date_published: 2024-05-04T15:29:03.496072+00:00
+
+ ## [CVPR 2024] Language Models as Black-Box Optimizers for Vision-Language Models
+ - [https://llm-can-optimize-vlm.github.io](https://llm-can-optimize-vlm.github.io)
+ - date_published: 2024-06-18T07:25:17+00:00
+
+ ## LLM Cognition Workshop
+ - [https://llm-cognition.github.io](https://llm-cognition.github.io)
+ - date_published: 2024-07-26T13:18:49+00:00
+
+ ## NeurIPS Large Language Model Efficiency Challenge:1 LLM + 1GPU + 1Day
+ - [https://llm-efficiency-challenge.github.io](https://llm-efficiency-challenge.github.io)
+ - date_published: 2024-01-30T04:36:58+00:00
+
+ ## Home
+ - [https://llm-eval.github.io](https://llm-eval.github.io)
+ - date_published: 2024-05-19T03:53:08+00:00
+
+ ## LLM Merging Competition: Building LLMs Efficiently through Merging
+ - [https://llm-merging.github.io](https://llm-merging.github.io)
+ - date_published: 2024-07-08T22:44:22+00:00
+
+ ## Large Language Models as Generalizable Policies for Embodied Tasks
+ - [https://llm-rl.github.io](https://llm-rl.github.io)
+ - date_published: 2024-02-17T15:29:14+00:00
+
+ ## https://llsoftsec.github.io
+ - [https://llsoftsec.github.io](https://llsoftsec.github.io)
+ - date_published: 2023-01-09T14:51:33+00:00
+
+ ## Binding Language Models in Symbolic Languages
+ - [https://lm-code-binder.github.io](https://lm-code-binder.github.io)
+ - date_published: 2024-06-30T08:33:03+00:00
+
+ ## lnpass
+ - [https://lnpass.github.io](https://lnpass.github.io)
+ - date_published: 2023-01-09T08:58:08+00:00
+
+ ## . local author .
+ - [https://localauthor.github.io](https://localauthor.github.io)
+ - date_published: 2022-11-16T08:43:10+00:00
+
+ ## DotNetByExample - The Next Generation
+ - [https://localjoost.github.io](https://localjoost.github.io)
+ - date_published: 2024-07-03T17:22:11+00:00
+
+ ## Progressively Optimized Local Radiance Fields for Robust View Synthesis
+ - [https://localrf.github.io](https://localrf.github.io)
+ - date_published: 2023-06-16T22:17:41+00:00
+
+ ## Dmitry Petrov
+ - [https://lodurality.github.io](https://lodurality.github.io)
+ - date_published: 2024-02-26T21:12:21+00:00
+
+ ## About Lohith's Website
+ - [https://lohithchittineni.github.io](https://lohithchittineni.github.io)
+ - date_published: 2024-05-12T06:27:28.366833+00:00
+
+ ## LOLBAS
+ - [https://lolbas-project.github.io](https://lolbas-project.github.io)
+ - date_published: 2023-10-25T19:48:44.144156+00:00
+
+ ## Byte Tank
+ - [https://lopespm.github.io](https://lopespm.github.io)
+ - date_published: 2024-05-04T13:32:05.041956+00:00
+
+ ## Laura Fink
+ - [https://lorafib.github.io](https://lorafib.github.io)
+ - date_published: 2024-03-08T13:13:32+00:00
+
+ ## Loris Bazzani
+ - [https://lorisbaz.github.io](https://lorisbaz.github.io)
+ - date_published: 2024-04-03T10:00:59+00:00
+
+ ## LostFileArchives
+ - [https://lostfilearchives.github.io](https://lostfilearchives.github.io)
+ - date_published: 2018-08-31T00:00:00+00:00
+ - tags: ['hacking', 'securom']
+
+ ## Disturbed Coder
+ - [http://loteixeira.github.io](http://loteixeira.github.io)
+ - date_published: 2018-10-24T13:39:10+00:00
+
+ ## Home
+ - [https://lottie.github.io](https://lottie.github.io)
+ - date_published: 2024-02-01T17:08:13+00:00
+
+ ## Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction
+ - [https://lotus3d.github.io](https://lotus3d.github.io)
+ - date_published: 2024-10-16T22:31:58+00:00
+
  ## Aaron Lou
  - [https://louaaron.github.io](https://louaaron.github.io)
  - date_published: 2024-05-01T00:31:57.922099+00:00
@@ -3489,6 +3723,10 @@
  - [https://quantum9innovation.github.io](https://quantum9innovation.github.io)
  - date_published: 2023-11-01T20:47:22+00:00
 
+ ## Quark: Real-Time, High-Resolution, and General Neural View Synthesis
+ - [https://quark-3d.github.io](https://quark-3d.github.io)
+ - date_published: 2024-11-27T02:02:00+00:00
+
  ## quarkiverse.io
  - [https://quarkiverse.github.io](https://quarkiverse.github.io)
  - date_published: 2023-10-13T11:37:04+00:00
@@ -3804,241 +4042,4 @@
  ## ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots
  - [https://rekep-robot.github.io](https://rekep-robot.github.io)
  - date_published: 2024-09-29T12:59:49+00:00
-
- ## Simplex Sigillum Veri
- - [https://remusao.github.io](https://remusao.github.io)
- - date_published: 2023-10-25T19:51:47.504665+00:00
-
- ## Renato Athaydes – Code is everything
- - [https://renatoathaydes.github.io](https://renatoathaydes.github.io)
- - date_published: 2016-04-14T19:31:41+00:00
-
- ## Rong Ye | Home
- - [https://reneeye.github.io](https://reneeye.github.io)
- - date_published: 2022-09-11T11:18:14+00:00
-
- ## Renhao Wang
- - [https://renwang435.github.io](https://renwang435.github.io)
- - date_published: 2024-01-12T00:40:23+00:00
-
- ## Replay: Multi-modal Multi-view Acted Videos for Casual Holography
- - [https://replay-dataset.github.io](https://replay-dataset.github.io)
- - date_published: 2023-08-04T21:02:33+00:00
-
- ## ReScience C
- - [https://rescience.github.io](https://rescience.github.io)
- - date_published: 2023-12-13T15:05:12+00:00
-
- ## Wenhao (Reself) Chai
- - [https://rese1f.github.io](https://rese1f.github.io)
- - date_published: 2023-10-25T19:51:49.283567+00:00
-
- ## home
- - [https://reshamas.github.io](https://reshamas.github.io)
- - date_published: 2024-04-22T21:59:21+00:00
-
- ## RESTEasy - JBoss Community
- - [https://resteasy.github.io](https://resteasy.github.io)
- - date_published: 2024-07-01T20:26:31+00:00
-
- ## Redirecting…
- - [https://restic.github.io](https://restic.github.io)
- - date_published: 2018-02-14T21:19:06+00:00
-
- ## SOCIAL MEDIA TITLE TAG
- - [https://restricted-memory.github.io](https://restricted-memory.github.io)
- - date_published: 2024-06-13T12:56:12+00:00
-
- ## Resume Nation
- - [https://resume-nation.github.io](https://resume-nation.github.io)
- - date_published: 2018-10-14T03:17:42+00:00
-
- ## Home
- - [https://rethinkingmlpapers.github.io](https://rethinkingmlpapers.github.io)
- - date_published: 2021-11-21T15:25:36+00:00
-
- ## Scaling Retrieval-Based Language Models with a Trillion-Token Datastore
- - [https://retrievalscaling.github.io](https://retrievalscaling.github.io)
- - date_published: 2024-07-21T21:44:45+00:00
-
- ## Home - ReTux
- - [https://retux-game.github.io](https://retux-game.github.io)
- - date_published: 2023-10-14T20:20:42+00:00
-
- ## Reuter Group
- - [https://reuter-group.github.io](https://reuter-group.github.io)
- - date_published: 2022-02-04T16:36:48+00:00
-
- ## Revel - Go Web Framework
- - [https://revel.github.io](https://revel.github.io)
- - date_published: 2022-04-11T00:00:00+00:00
-
- ## rg3.github.io
- - [https://rg3.github.io](https://rg3.github.io)
- - date_published: 2022-02-02T20:58:25+00:00
-
- ## Ordinal Explorer Online
- - [https://rgetar.github.io](https://rgetar.github.io)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Robert Guske
- - [https://rguske.github.io](https://rguske.github.io)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## RHOBIN Workshop: Reconstruction of Human-Object Interactions @ CVPR24
- - [https://rhobin-challenge.github.io](https://rhobin-challenge.github.io)
- - date_published: 2024-05-10T05:10:45.495925+00:00
-
- ## Rhys  Newbury
- - [https://rhys-newbury.github.io](https://rhys-newbury.github.io)
- - date_published: 2024-02-05T02:16:00+00:00
-
- ## Creator’s Blog: Hugo Theme
- - [https://riceroll.github.io](https://riceroll.github.io)
- - date_published: 2024-04-24T19:53:09+00:00
-
- ## Richard Feder
- - [https://richardfeder.github.io](https://richardfeder.github.io)
- - date_published: 2023-09-22T22:05:14+00:00
-
- ## Pan narrans - the story telling ape - Pan narrans - Richard J. Acton’s Blog
- - [https://richardjacton.github.io](https://richardjacton.github.io)
- - date_published: 2023-09-23T08:58:39+00:00
-
- ## Expressive Text-to-Image Generation with Rich Text
- - [https://rich-text-to-image.github.io](https://rich-text-to-image.github.io)
- - date_published: 2023-09-22T23:39:32+00:00
-
- ## Richard Zhang - Research Scientist, Adobe Research
- - [https://richzhang.github.io](https://richzhang.github.io)
- - date_published: 2024-05-04T15:25:28.118017+00:00
-
- ## Rinon Gal
- - [https://rinongal.github.io](https://rinongal.github.io)
- - date_published: 2024-06-01T21:14:44+00:00
-
- ## Ryohei (Rio) Weil
- - [https://rioweil.github.io](https://rioweil.github.io)
- - date_published: 2023-10-25T19:51:52.549274+00:00
-
- ## About
- - [https://rish-16.github.io](https://rish-16.github.io)
- - date_published: 2024-07-12T03:23:34+00:00
-
- ## Rishabh Dabral
- - [https://rishabhdabral.github.io](https://rishabhdabral.github.io)
- - date_published: 2024-07-02T12:34:48+00:00
-
- ## Rishi Bommasani
- - [https://rishibommasani.github.io](https://rishibommasani.github.io)
- - date_published: 2024-05-07T19:32:39.766387+00:00
-
- ## Ristovski
- - [https://ristovski.github.io](https://ristovski.github.io)
- - date_published: 2021-01-21T00:00:00+00:00
-
- ## man Richard-Baeck.3
- - [https://ritschmaster.github.io](https://ritschmaster.github.io)
- - date_published: 2024-01-13T09:07:27.004992+00:00
-
- ## RIVAL: Real-World Image Variation by Aligning Diffusion Inversion Chain
- - [https://rival-diff.github.io](https://rival-diff.github.io)
- - date_published: 2023-06-04T13:01:39+00:00
-
- ## Ryan Cabell | Software Developer
- - [https://rkcabell.github.io](https://rkcabell.github.io)
- - date_published: 2024-08-06T16:39:11.257992+00:00
- - tags: ['personal']
-
- ## Training Diffusion Models with Reinforcement Learning
- - [https://rl-diffusion.github.io](https://rl-diffusion.github.io)
- - date_published: 2024-02-02T20:28:21+00:00
-
- ## Dr. Rolando Garcia
- - [https://rlnsanz.github.io](https://rlnsanz.github.io)
- - date_published: 2024-06-28T19:13:57+00:00
-
- ## RLQ-TOD@ECCV'20
- - [https://rlq-tod.github.io](https://rlq-tod.github.io)
- - date_published: 2020-10-20T13:41:38+00:00
-
- ## RLQ@ICCV'21
- - [https://rlq-workshop.github.io](https://rlq-workshop.github.io)
- - date_published: 2021-10-17T02:18:34+00:00
-
- ## Matthew Keezer
- - [http://rmkeezer.github.io](http://rmkeezer.github.io)
- - date_published: 2016-09-20T00:00:00+00:00
-
- ## About Me
- - [https://rmmilewi.github.io](https://rmmilewi.github.io)
- - date_published: 2016-01-01T00:00:00+00:00
-
- ## Ron Mokady
- - [https://rmokady.github.io](https://rmokady.github.io)
- - date_published: 2024-05-18T14:02:07+00:00
-
- ## Rafael Rafailov
- - [https://rmrafailov.github.io](https://rmrafailov.github.io)
- - date_published: 2007-02-11T00:00:00+00:00
-
- ## An open letter in support of Richard M. Stallman
- - [https://rms-support-letter.github.io](https://rms-support-letter.github.io)
- - date_published: 2021-03-23T00:00:00+00:00
-
- ## hi, I am robin
- - [https://robamu.github.io](https://robamu.github.io)
- - date_published: 2024-06-26T21:13:26+00:00
-
- ## A Simple Blog
- - [https://robert1003.github.io](https://robert1003.github.io)
- - date_published: 2023-03-07T00:00:00+00:00
-
- ## Visual Affordances for Robotics from Human Videos
- - [https://robo-affordances.github.io](https://robo-affordances.github.io)
- - date_published: 2023-08-23T17:55:10+00:00
-
- ## robomimic
- - [https://robomimic.github.io](https://robomimic.github.io)
- - date_published: 2024-04-03T21:25:34+00:00
-
- ## RoboAgent: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking
- - [https://robopen.github.io](https://robopen.github.io)
- - date_published: 2023-10-25T19:51:54.669938+00:00
-
- ## SLAP: Spatial-Language Attention Policies
- - [https://roboslap.github.io](https://roboslap.github.io)
- - date_published: 2023-07-21T20:30:33+00:00
-
- ## RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation
- - [https://robotap.github.io](https://robotap.github.io)
- - date_published: 2024-07-09T12:59:40+00:00
-
- ## Colosseum
- - [https://robot-colosseum.github.io](https://robot-colosseum.github.io)
- - date_published: 2024-06-14T23:24:43+00:00
-
- ## Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners
- - [https://robot-help.github.io](https://robot-help.github.io)
- - date_published: 2024-03-26T03:24:19+00:00
-
- ## RT-1: Robotics Transformer
- - [https://robotics-transformer1.github.io](https://robotics-transformer1.github.io)
- - date_published: 2023-08-11T20:46:20+00:00
-
- ## RT-2: Vision-Language-Action Models
- - [https://robotics-transformer2.github.io](https://robotics-transformer2.github.io)
- - date_published: 2023-08-03T22:14:20+00:00
-
- ## RT-2
- - [https://robotics-transformer.github.io](https://robotics-transformer.github.io)
- - date_published: 2023-07-28T10:38:44+00:00
-
- ## Open X-Embodiment: Robotic Learning Datasets and RT-X Models
- - [https://robotics-transformer-x.github.io](https://robotics-transformer-x.github.io)
- - date_published: 2023-10-25T19:51:56.287307+00:00
-
- ## Learning to Design and Use Tools for Robotic Manipulation
- - [https://robotic-tool-design.github.io](https://robotic-tool-design.github.io)
- - date_published: 2023-11-07T13:24:49+00:00
 

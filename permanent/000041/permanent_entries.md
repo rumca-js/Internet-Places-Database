@@ -1,3 +1,23 @@
+ ## Alghad newspaper
+ - [https://legacy.alghad.com](https://legacy.alghad.com)
+ - date_published: 2024-06-23T21:46:56.370066+00:00
+
+ ## دليل الغد للتعلم
+ - [https://taleem.alghad.com](https://taleem.alghad.com)
+ - date_published: 2024-06-03T17:09:52+00:00
+
+ ## Algiers - Shook
+ - [https://algierstheband.com](https://algierstheband.com)
+ - date_published: 2024-02-08T17:42:26.570971+00:00
+
+ ## Aviation Leasing Group (ALG) — Farhad Azima
+ - [http://www.algkc.com](http://www.algkc.com)
+ - date_published: 2024-07-09T22:17:32.503111+00:00
+
+ ## AlgoDaily - Daily coding interview questions. Full programming interview prep course and software career coaching.
+ - [https://algodaily.com](https://algodaily.com)
+ - date_published: 2024-10-31T05:11:36.575903+00:00
+
  ## algoleague | competitive programming platform in Turkey
  - [https://www.algoleague.com](https://www.algoleague.com)
  - date_published: 2024-09-25T08:53:17+00:00
@@ -4012,24 +4032,4 @@
  ## West Texas A&M University
  - [https://wtxam.alumniplans.com](https://wtxam.alumniplans.com)
  - date_published: 2024-07-01T22:31:50+00:00
-
- ## Federal Foreign Office: Diplomacy by Networking
- - [https://diplomatictraining.alumniportal.com](https://diplomatictraining.alumniportal.com)
- - date_published: 2024-07-09T14:17:26.999203+00:00
-
- ## AlumnIQ
- - [https://vanderbilt.alumniq.com](https://vanderbilt.alumniq.com)
- - date_published: 2024-07-12T14:58:20.017564+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://assets.alumni-services-001.com](https://assets.alumni-services-001.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Jacksonville Hokies
- - [https://jacksonville.vt.alumnispaces.com](https://jacksonville.vt.alumnispaces.com)
- - date_published: 2024-07-09T16:36:18.563349+00:00
-
- ## Aluna | Take Control of Your Lung Health - FDA Cleared Spirometer
- - [https://alunacare.com](https://alunacare.com)
- - date_published: 2024-06-14T14:35:30.217777+00:00
 

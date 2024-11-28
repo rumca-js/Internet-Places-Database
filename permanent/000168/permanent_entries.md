@@ -1,3 +1,96 @@
+ ## Higher-Order Perl
+ - [https://hop.perl.plover.com](https://hop.perl.plover.com)
+ - date_published: 2015-03-10T13:59:58+00:00
+
+ ## M-J. Dominus Perl Paraphernalia
+ - [http://perl.plover.com](http://perl.plover.com)
+ - date_published: 2017-08-20T02:46:05+00:00
+
+ ## Index of /
+ - [https://pic.blog.plover.com](https://pic.blog.plover.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## The Universe of Discourse
+ - [http://www.plover.com](http://www.plover.com)
+ - date_published: 1994-01-14T00:00:00+00:00
+
+ ## Programming Language Rankings by code_report
+ - [https://plrank.com](https://plrank.com)
+ - date_published: 2024-03-07T17:04:15+00:00
+ - tags: ['online ranking', 'online tool', 'programming languages']
+
+ ## PLSclear - Request Permission to Reuse Published Content
+ - [https://plsclear.com](https://plsclear.com)
+ - date_published: 2024-05-04T06:35:07.082297+00:00
+
+ ## PLT Marketplace | Buy & Sell Clothing | PrettyLittleThing
+ - [https://www.pltmarketplace.com](https://www.pltmarketplace.com)
+ - date_published: 2024-10-20T14:12:07.945250+00:00
+
+ ## Plug2Game
+ - [https://www.plug2game.com](https://www.plug2game.com)
+ - date_published: 2024-07-12T22:35:58.471094+00:00
+
+ ## Plugable
+ - [https://plugable.com](https://plugable.com)
+ - date_published: 2024-07-09T20:08:52.409920+00:00
+
+ ## Plug and Play
+ - [https://www.plugandplaytechcenter.com](https://www.plugandplaytechcenter.com)
+ - date_published: 2024-09-23T14:35:03+00:00
+
+ ## Koupit Elektronická Cigareta Za Dostupnou Cenu Online
+ - [https://www.plugandplayvape.com](https://www.plugandplayvape.com)
+ - date_published: 2024-10-22T16:04:17.874713+00:00
+
+ ## Home
+ - [https://www.pluggedin.com](https://www.pluggedin.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Plugin Boutique
+ - [https://help.pluginboutique.com](https://help.pluginboutique.com)
+ - date_published: 2024-09-09T21:49:52.295811+00:00
+
+ ## VST Plugins, Synth Presets, Effects, Virtual Instruments, Music
+ - [https://pluginboutique.com](https://pluginboutique.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## PluginGarden
+ - [https://plugingarden.com](https://plugingarden.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Plugins & Snippets
+ - [https://pluginsandsnippets.com](https://pluginsandsnippets.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Password Protected Site
+ - [https://www.dev.stageps.pluginsandsnippets.com](https://www.dev.stageps.pluginsandsnippets.com)
+ - date_published: 2024-08-11T07:56:43.564161+00:00
+
+ ## Plugins Blog – Blog about VMware vSphere Client SDK, plugins and more …
+ - [https://pluginsblog.com](https://pluginsblog.com)
+ - date_published: 2024-07-11T10:34:55.604145+00:00
+
+ ## PluginTests.com
+ - [https://plugintests.com](https://plugintests.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## This domain may be for sale
+ - [http://www.plugnation.com](http://www.plugnation.com)
+ - date_published: 2024-09-13T19:13:59.428679+00:00
+
+ ## plugNmeet
+ - [https://demo.plugnmeet.com](https://demo.plugnmeet.com)
+ - date_published: 2024-06-19T22:28:16.292519+00:00
+
+ ## Sell online without coding experience​
+ - [https://www.plugnpaid.com](https://www.plugnpaid.com)
+ - date_published: 2021-10-29T10:54:06+00:00
+
+ ## PlugShare - EV Charging Station Map - Find a place to charge
+ - [https://plugshare.com](https://plugshare.com)
+ - date_published: 2024-05-12T06:12:43.598241+00:00
+
  ## Plug Sugar — ChatGPT Plugins
  - [https://websearch.plugsugar.com](https://websearch.plugsugar.com)
  - date_published: 2024-08-23T21:24:29+00:00
@@ -3933,96 +4026,4 @@
  ## PortableApps.com - Portable software for USB, portable, and cloud drives
  - [http://portableapps.com](http://portableapps.com)
  - date_published: 2024-07-11T00:00:00+00:00
-
- ## Latest entries		- The Portable Freeware Collection
- - [https://portablefreeware.com](https://portablefreeware.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Portage CyberTech | Enabling Digital-First Strategies
- - [https://portagecybertech.com](https://portagecybertech.com)
- - date_published: 2024-07-02T19:12:31+00:00
-
- ## Portage Mutual Insurance
- - [https://www.portagemutual.com](https://www.portagemutual.com)
- - date_published: 2024-07-11T17:10:14.342819+00:00
-
- ## Die Distributionsplattform für den privaten Kapitalmarkt – portagon
- - [http://www.portagon.com](http://www.portagon.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Portal Token Bridge
- - [https://portalbridge.com](https://portalbridge.com)
- - date_published: 2024-10-10T19:33:59+00:00
-
- ## Portal da Literatura - O Portal da Literatura em Português
- - [http://www.portaldaliteratura.com](http://www.portaldaliteratura.com)
- - date_published: 2024-07-12T20:48:34.010424+00:00
-
- ## Centro de Ajuda do Portal da Queixa
- - [https://help.portaldaqueixa.com](https://help.portaldaqueixa.com)
- - date_published: 2024-09-05T14:01:40.644376+00:00
-
- ## Portal da Queixa - Do problema à solução!
- - [https://portaldaqueixa.com](https://portaldaqueixa.com)
- - date_published: 2024-06-10T06:55:05.289326+00:00
-
- ## PORTAL DIGITAL HOY DIARIO DEL MAGDALENA - Suscripciones
- - [https://portaldigitalhdm.com](https://portaldigitalhdm.com)
- - date_published: 2021-09-10T12:47:12+00:00
-
- ## Casas, departamentos en arriendo y venta - Portalinmobiliario.com y MercadoLibre.cl
- - [https://www.portalinmobiliario.com](https://www.portalinmobiliario.com)
- - date_published: 2024-09-28T21:31:45.793555+00:00
-
- ## Sign in - PortalJS Cloud
- - [https://cloud.portaljs.com](https://cloud.portaljs.com)
- - date_published: 2024-09-12T20:26:03.741157+00:00
-
- ## PortalJS Cloud - Managed Data Portal in the Cloud
- - [https://portaljs.com](https://portaljs.com)
- - date_published: 2024-06-12T12:52:04.360832+00:00
-
- ## Residential & Commercial Real Estate in Port Angeles, WA | Port Angeles Realty
- - [https://portangelesrealty.com](https://portangelesrealty.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## PortAudio - an Open-Source Cross-Platform Audio API
- - [http://files.portaudio.com](http://files.portaudio.com)
- - date_published: 2024-10-16T08:17:00.422262+00:00
-
- ## PortAudio - an Open-Source Cross-Platform Audio API
- - [http://www.portaudio.com](http://www.portaudio.com)
- - date_published: 2024-06-17T03:16:40.426289+00:00
-
- ## portavita
- - [https://nl.portavita.com](https://nl.portavita.com)
- - date_published: 2024-06-22T09:13:24.825818+00:00
-
- ## portavita
- - [https://portavita.com](https://portavita.com)
- - date_published: 2024-05-04T15:25:38.946935+00:00
-
- ## Open Port Check Tool - Port Forwarding Port Check Tool
- - [https://portchecktool.com](https://portchecktool.com)
- - date_published: 2024-05-19T02:57:18.466652+00:00
-
- ## Your Digital Marketing Agency
- - [https://www.portent.com](https://www.portent.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## PorterHouse Media
- - [http://www.porterhousemedia.com](http://www.porterhousemedia.com)
- - date_published: 2024-09-21T23:05:20+00:00
-
- ## High Performance Motors for Battery-Operated Power Tools
- - [https://info.portescap.com](https://info.portescap.com)
- - date_published: 2024-09-05T20:37:32+00:00
-
- ## Home
- - [https://shop.portescap.com](https://shop.portescap.com)
- - date_published: 2024-09-05T20:37:39.921827+00:00
-
- ## Cierpliwości...
- - [https://www.portescap.com](https://www.portescap.com)
- - date_published: 2024-06-10T13:07:05.515246+00:00
 

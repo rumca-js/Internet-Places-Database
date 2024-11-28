@@ -1,3 +1,83 @@
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://sample-collection.medicaltechoutlook.com](https://sample-collection.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:13.148311+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://self-care-medical-product.medicaltechoutlook.com](https://self-care-medical-product.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:01.595109+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://simulation-europe.medicaltechoutlook.com](https://simulation-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:06.041287+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://simulation.medicaltechoutlook.com](https://simulation.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:16.899514+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://spine-device.medicaltechoutlook.com](https://spine-device.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:09.852419+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://spine-solutions-europe.medicaltechoutlook.com](https://spine-solutions-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:58.477154+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://startups-europe.medicaltechoutlook.com](https://startups-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:39.631299+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://startups.medicaltechoutlook.com](https://startups.medicaltechoutlook.com)
+ - date_published: 2024-05-07T14:00:07.677530+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://surgical.medicaltechoutlook.com](https://surgical.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:47.850001+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://urinary-devices.medicaltechoutlook.com](https://urinary-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:44.738886+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://vascular-devices.medicaltechoutlook.com](https://vascular-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:12.397149+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://vision-care-apac.medicaltechoutlook.com](https://vision-care-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:32.114172+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://vision-care-europe.medicaltechoutlook.com](https://vision-care-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:20.688437+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://vision-care.medicaltechoutlook.com](https://vision-care.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:37.563254+00:00
+
+ ## Latest Trends, Articles on Wound Care in APAC | Medical Tech Outlook
+ - [https://wound-care-apac.medicaltechoutlook.com](https://wound-care-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:34.349365+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://wound-care-europe.medicaltechoutlook.com](https://wound-care-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:12.070604+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://wound-care.medicaltechoutlook.com](https://wound-care.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:21.374882+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://www.medicaltechoutlook.com](https://www.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:10.926083+00:00
+
+ ## Medical Tubing & Extrusion - Medical Tubing and Extrusion
+ - [https://www.medicaltubingandextrusion.com](https://www.medicaltubingandextrusion.com)
+ - date_published: 2024-06-17T08:27:53.861968+00:00
+
+ ## Medical World News
+ - [https://medicalworldnews.com](https://medicalworldnews.com)
+ - date_published: 2024-07-09T16:32:03.070229+00:00
+
  ## One - Medical World News
  - [https://one.medicalworldnews.com](https://one.medicalworldnews.com)
  - date_published: 2024-07-09T16:32:06.144354+00:00
@@ -1570,6 +1650,10 @@
  ## German Autolabs – Medium
  - [https://germanautolabs.medium.com](https://germanautolabs.medium.com)
  - date_published: 2024-10-27T12:44:09.310227+00:00
+
+ ## Rohit Ghumare – Medium
+ - [https://ghumare64.medium.com](https://ghumare64.medium.com)
+ - date_published: 2024-11-27T03:07:19.155360+00:00
 
  ## Gibson Biddle – Medium
  - [https://gibsonbiddle.medium.com](https://gibsonbiddle.medium.com)
@@ -3228,6 +3312,10 @@
  - [https://seconde.medium.com](https://seconde.medium.com)
  - date_published: 2024-08-11T15:27:44.626532+00:00
 
+ ## Semih Çelikol – Medium
+ - [https://semihcelikol.medium.com](https://semihcelikol.medium.com)
+ - date_published: 2024-11-27T10:37:18.335555+00:00
+
  ## Serokell – Medium
  - [https://serokell.medium.com](https://serokell.medium.com)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -3942,92 +4030,4 @@
  ## Medium Tall Clothing | Perfect Fit Clothing for Tall Men
  - [https://mediumtallclothing.com](https://mediumtallclothing.com)
  - date_published: 2024-06-23T05:58:05.111197+00:00
-
- ## Medium To WordPress - Import content from your Medium Website into WordPress
- - [https://mediumtowp.com](https://mediumtowp.com)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Medium Writing Academy
- - [https://www.mediumwritingacademy.com](https://www.mediumwritingacademy.com)
- - date_published: 2024-04-24T10:16:47+00:00
-
- ## Mediterranean Journal of Chemistry
- - [https://medjchem.com](https://medjchem.com)
- - date_published: 2024-02-08T16:49:32.284293+00:00
-
- ## About Medknow
- - [https://www.medknow.com](https://www.medknow.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Medmain | メドメイン株式会社
- - [https://medmain.com](https://medmain.com)
- - date_published: 2024-07-07T03:04:53.458477+00:00
-
- ## Life Sciences Insurance for the Medical Device Industry | Medmarc
- - [https://www.medmarc.com](https://www.medmarc.com)
- - date_published: 2024-09-05T08:33:44+00:00
-
- ## Medmastery | Build your clinical skills and become an expert
- - [https://www.medmastery.com](https://www.medmastery.com)
- - date_published: 2024-06-28T11:48:07+00:00
-
- ## Med-Mastodon
- - [https://med-mastodon.com](https://med-mastodon.com)
- - date_published: 2024-06-18T08:51:29.042630+00:00
-
- ## MedMe Health: Operating System for Pharmacies of the Future
- - [https://www.medmehealth.com](https://www.medmehealth.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Medical Equipment Rental & Financing Services | Med One
- - [http://www.medonegroup.com](http://www.medonegroup.com)
- - date_published: 2024-10-28T05:11:12.047849+00:00
-
- ## Medovie| Helping people with psoriasis, Eczema and skin disorders
- - [https://medovie.com](https://medovie.com)
- - date_published: 2023-06-01T00:00:00+00:00
-
- ## Drug and Biologic Contract Research Organization (CRO) | Medpace
- - [https://www.medpace.com](https://www.medpace.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Medical News | Medpage Today
- - [https://medpagetoday.com](https://medpagetoday.com)
- - date_published: 2023-10-25T16:00:48.284884+00:00
-
- ## Information Center
- - [https://support.medpagetoday.com](https://support.medpagetoday.com)
- - date_published: 2024-08-19T07:57:10.172619+00:00
-
- ## Synopsi, a medical information platform from MedPage Today
- - [https://synopsi.medpagetoday.com](https://synopsi.medpagetoday.com)
- - date_published: 2024-08-19T07:57:12.586051+00:00
-
- ## medrantsc
- - [http://medrants.com](http://medrants.com)
- - date_published: 2024-11-01T00:05:48.277016+00:00
-
- ## Medrio EDC
- - [https://medrio.com](https://medrio.com)
- - date_published: 2022-04-23T10:17:56+00:00
-
- ## Medriva Home Page
- - [https://medriva.com](https://medriva.com)
- - date_published: 2024-01-05T19:14:40.294444+00:00
-
- ## Medscape Education | Multispecialty
- - [http://cme.medscape.com](http://cme.medscape.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Specialized Medical Care Decision Trees & Treatment Protocols | Medscape
- - [https://decisionpoint.medscape.com](https://decisionpoint.medscape.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Das Topthema - Medscape
- - [https://deutsch.medscape.com](https://deutsch.medscape.com)
- - date_published: 2024-05-02T12:08:44.809273+00:00
-
- ## Diseases & Conditions - Medscape Reference
- - [http://emedicine.medscape.com](http://emedicine.medscape.com)
- - date_published: 2024-06-28T15:31:18.570166+00:00
 

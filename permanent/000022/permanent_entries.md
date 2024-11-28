@@ -1,3 +1,11 @@
+ ## Einen Moment bitte, die Ausgabe wird geladen...
+ - [https://epaper.bilan.ch](https://epaper.bilan.ch)
+ - date_published: 2024-07-22T17:33:46.279591+00:00
+
+ ## Bilan
+ - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
+ - date_published: 2023-07-23T17:33:42+00:00
+
  ## Biodiversitätsinitiative – JA zur Biodiversität
  - [https://www.biodiversitaetsinitiative.ch](https://www.biodiversitaetsinitiative.ch)
  - date_published: 2024-10-29T11:15:50.608714+00:00
@@ -4000,12 +4008,4 @@
  ## Innovaud - Vaud's innovation and economic promotion agency
  - [https://www.innovaud.ch](https://www.innovaud.ch)
  - date_published: 2024-07-16T22:36:55.557012+00:00
-
- ## Inside IT – Das Magazin für IT-Verantwortliche
- - [https://inside-channels.ch](https://inside-channels.ch)
- - date_published: 2024-09-18T14:53:52.712305+00:00
-
- ## Inside-IT Events | Events
- - [https://events.inside-it.ch](https://events.inside-it.ch)
- - date_published: 2024-07-13T09:53:05.713996+00:00
 

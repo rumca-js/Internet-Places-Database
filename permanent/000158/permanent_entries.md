@@ -1,3 +1,96 @@
+ ## Novatiq | Telco-Based Identity Solution
+ - [https://novatiq.com](https://novatiq.com)
+ - date_published: 2024-05-06T17:41:10.318957+00:00
+
+ ## Nova Type Foundry
+ - [https://novatypefoundry.com](https://novatypefoundry.com)
+ - date_published: 2024-07-13T23:51:31.212264+00:00
+
+ ## Novays | The casino blog of Patrick Novays
+ - [https://novays.com](https://novays.com)
+ - date_published: 2024-08-07T21:26:22.732173+00:00
+
+ ## No Vehicles In The Park
+ - [https://novehiclesinthepark.com](https://novehiclesinthepark.com)
+ - date_published: 2023-10-25T16:22:32.007173+00:00
+
+ ## Get Your Glamnetic Wallet Pass!
+ - [https://glamnetic.novel.com](https://glamnetic.novel.com)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## NOVELAN Wärmepumpen
+ - [https://www.novelan.com](https://www.novelan.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Heat Sinks | Heat Spreaders | Peltier Coolers | Novel Concepts
+ - [http://www.novelconceptsinc.com](http://www.novelconceptsinc.com)
+ - date_published: 2024-07-09T09:26:41.368007+00:00
+
+ ## The Novel Writing Toolbox
+ - [https://novelcrafter.com](https://novelcrafter.com)
+ - date_published: 2024-09-02T10:08:18.201350+00:00
+
+ ## Novel Deelights
+ - [http://noveldeelights.com](http://noveldeelights.com)
+ - date_published: 2024-09-17T00:32:24+00:00
+
+ ## novelistAI
+ - [https://novelistai.com](https://novelistai.com)
+ - date_published: 2024-10-30T20:36:31.226962+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugzilla.novell.com](https://bugzilla.novell.com)
+ - date_published: 2024-05-06T14:25:35.909534+00:00
+
+ ## Micro Focus | OpenText
+ - [https://novell.com](https://novell.com)
+ - date_published: 2024-05-15T14:26:51.618248+00:00
+
+ ## Novels AI: AI-Powered Audiobooks Starring You
+ - [https://novels-ai.com](https://novels-ai.com)
+ - date_published: 2024-10-27T08:49:15+00:00
+
+ ## Novel Suspects
+ - [https://novelsuspects.com](https://novelsuspects.com)
+ - date_published: 2018-01-08T18:35:01+00:00
+
+ ## NoveltyAnsweringMachine.com | The World's Largest Archive for Novelty 
+Answering Machine Greetings!
+ - [https://noveltyansweringmachine.com](https://noveltyansweringmachine.com)
+ - date_published: 2022-02-25T20:16:32+00:00
+
+ ## novelty-automation-home-page
+ - [https://www.novelty-automation.com](https://www.novelty-automation.com)
+ - date_published: 2024-05-04T13:42:47.090136+00:00
+
+ ## Novel Updates - Directory of Asian Translated Novels
+ - [https://novelupdates.com](https://novelupdates.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Novel Updates Forum
+ - [https://www.novelupdatesforum.com](https://www.novelupdatesforum.com)
+ - date_published: 2024-09-09T23:15:36+00:00
+
+ ## Novex Biotech: Men's Supplements For Health, Fitness & Libido
+ - [https://www.novexbiotech.com](https://www.novexbiotech.com)
+ - date_published: 2024-10-29T23:57:24.315406+00:00
+
+ ## Facebook
+ - [https://novi.com](https://novi.com)
+ - date_published: 2024-05-07T16:11:08.201202+00:00
+
+ ## Novi AMS Help Center
+ - [https://help.noviams.com](https://help.noviams.com)
+ - date_published: 2024-10-29T23:31:12.265642+00:00
+
+ ## Association Management Software | Novi AMS
+ - [http://www.noviams.com](http://www.noviams.com)
+ - date_published: 2024-06-19T17:26:51.530195+00:00
+
+ ## HTML Builder Drag and Drop - Create Websites with Novi
+ - [https://novibuilder.com](https://novibuilder.com)
+ - date_published: 2024-07-09T13:33:26.508933+00:00
+
  ## Novicap | Redefiniendo la gestión del circulante
  - [https://novicap.com](https://novicap.com)
  - date_published: 2019-08-09T09:23:06+00:00
@@ -3939,96 +4032,4 @@ a simple way
  ## Ocean Beach Park
  - [http://ocean-beach-park.com](http://ocean-beach-park.com)
  - date_published: 2024-07-01T23:21:31.384832+00:00
-
- ## Samsung Ocean Brasil
- - [https://oceanbrasil.com](https://oceanbrasil.com)
- - date_published: 2024-04-29T01:45:38.442730+00:00
-
- ## Ocean City FC | Home
- - [http://oceancityfc.com](http://oceancityfc.com)
- - date_published: 2024-07-09T00:41:56+00:00
-
- ## Ocean City Resort Gift Expo | The Northeast's Leading Souvenir and Resort Trade Event
- - [http://www.oceancitygiftshow.com](http://www.oceancitygiftshow.com)
- - date_published: 2024-07-16T23:14:14.621876+00:00
-
- ## Ocean Downs MD Casino | Sports Betting, Horse Racing
- - [https://www.oceandowns.com](https://www.oceandowns.com)
- - date_published: 2024-10-30T02:32:53.494472+00:00
-
- ## Oceaneering | Connecting What's Needed with What's Next
- - [http://www.oceaneering.com](http://www.oceaneering.com)
- - date_published: 2017-05-24T17:12:39+00:00
-
- ## Oceanic Wilderness
- - [http://oceanicwilderness.com](http://oceanicwilderness.com)
- - date_published: 2024-09-06T01:01:21.416208+00:00
-
- ## Ocean Networks Submarine Cable System
- - [https://oceannetworks.com](https://oceannetworks.com)
- - date_published: 2024-05-10T06:02:04.805832+00:00
-
- ## Home
- - [http://www.aviso.oceanobs.com](http://www.aviso.oceanobs.com)
- - date_published: 2024-07-08T14:13:14.290832+00:00
-
- ## OceanofAPK - Dive & Get Your Famous APK
- - [https://oceanofapks.com](https://oceanofapks.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## OceanofDMG
- - [https://oceanofdmg.com](https://oceanofdmg.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Ocean of Games
- - [https://ocean-of-games.com](https://ocean-of-games.com)
- - date_published: 2023-11-06T12:55:20.842494+00:00
-
- ## Ocean of Games
- - [https://oceanofgames.com](https://oceanofgames.com)
- - date_published: 2023-11-06T13:05:46.128895+00:00
-
- ## Oceanographic Magazine - Conservation / Exploration / Adventure
- - [https://oceanographicmagazine.com](https://oceanographicmagazine.com)
- - date_published: 2024-06-21T14:42:32.729852+00:00
-
- ## Boba Bubble Tea | Ocean Oriental Market | United States
- - [https://www.oceanorientalmarket.com](https://www.oceanorientalmarket.com)
- - date_published: 2024-06-29T23:15:37.292305+00:00
-
- ## OceanPact: Homepage
- - [https://oceanpact.com](https://oceanpact.com)
- - date_published: 2024-06-29T16:40:37.827032+00:00
-
- ## Ocean Park Technology
- - [https://oceanpark.com](https://oceanpark.com)
- - date_published: 2021-04-11T20:48:46+00:00
-
- ## Ocean Protocol
- - [https://blog.oceanprotocol.com](https://blog.oceanprotocol.com)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Ocean docs | Ocean Protocol
- - [https://docs.oceanprotocol.com](https://docs.oceanprotocol.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Meet Ocean: Tokenized AI & Data
- - [https://oceanprotocol.com](https://oceanprotocol.com)
- - date_published: 2024-06-16T05:14:57.477365+00:00
-
- ## OCEANROBOTICSPLANET.COM - The most focused marine robotics publication in the world.
- - [http://www.oceanroboticsplanet.com](http://www.oceanroboticsplanet.com)
- - date_published: 2024-09-19T19:59:48.091421+00:00
-
- ## OCEANSAPART | Stroje sportowe na jogę, treningi i na co dzień
- - [https://www.oceansapart.com](https://www.oceansapart.com)
- - date_published: 2024-07-03T06:08:27.670996+00:00
-
- ## แทงบอลไม่มีขั้นต่ำ ตัวเลือกเดิมพันที่ตอบสนองทุกความต้องการ
- - [https://oceanwebthemes.com](https://oceanwebthemes.com)
- - date_published: 2024-07-18T06:13:26.997955+00:00
-
- ## Log in | Ocelot
- - [https://embed.ocelotbot.com](https://embed.ocelotbot.com)
- - date_published: 2024-07-02T11:45:56.640486+00:00
 

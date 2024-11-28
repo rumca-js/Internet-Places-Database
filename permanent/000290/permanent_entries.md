@@ -1,3 +1,227 @@
+ ## default
+ - [http://www.maryland.gov](http://www.maryland.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Mass.gov
+ - [https://mass.gov](https://mass.gov)
+ - date_published: 2024-06-15T13:51:38+00:00
+
+ ## Mass.Gov Search
+ - [https://search.mass.gov](https://search.mass.gov)
+ - date_published: 2024-04-01T20:24:27+00:00
+
+ ## MAX.gov Login
+ - [https://login.max.gov](https://login.max.gov)
+ - date_published: 2024-06-18T10:39:45.592303+00:00
+
+ ## Minority Business Development Agency
+ - [https://mbda.gov](https://mbda.gov)
+ - date_published: 2024-06-15T06:02:43.677970+00:00
+
+ ## Maryland State Board of Elections
+ - [https://vote.md.gov](https://vote.md.gov)
+ - date_published: 2024-10-25T12:31:04+00:00
+
+ ## CMS Medicaid Data
+ - [https://data.medicaid.gov](https://data.medicaid.gov)
+ - date_published: 2024-09-15T20:14:19+00:00
+
+ ## Medicaid.gov: the official U.S. government site for Medicare | Medicaid
+ - [http://www.medicaid.gov](http://www.medicaid.gov)
+ - date_published: 2024-06-14T20:52:16+00:00
+
+ ## Medical Countermeasures | USA Public Health Security
+ - [https://medicalcountermeasures.gov](https://medicalcountermeasures.gov)
+ - date_published: 2024-07-03T15:17:40.089490+00:00
+
+ ## Welcome to Medicare
+ - [https://www.medicare.gov](https://www.medicare.gov)
+ - date_published: 2024-07-12T07:41:03.927342+00:00
+
+ ## MedlinePlus - Health Information from the National Library of Medicine
+ - [https://medlineplus.gov](https://medlineplus.gov)
+ - date_published: 2024-06-17T13:15:33+00:00
+
+ ## Memphis Data Hub
+ - [https://data.memphistn.gov](https://data.memphistn.gov)
+ - date_published: 2024-09-16T01:46:08.929251+00:00
+
+ ## Home
+ - [https://memphistn.gov](https://memphistn.gov)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Transit Vision Memphis
+ - [https://transitvision.memphistn.gov](https://transitvision.memphistn.gov)
+ - date_published: 2024-09-16T01:46:33.825170+00:00
+
+ ## Welcome to the City of Meriden, Connecticut
+ - [https://www.meridenct.gov](https://www.meridenct.gov)
+ - date_published: 2024-07-01T23:21:09.154719+00:00
+
+ ## Mesa Fire & Medical | Home Fire
+ - [https://fire.mesaaz.gov](https://fire.mesaaz.gov)
+ - date_published: 2024-06-19T03:20:33+00:00
+
+ ## Page Redirection
+ - [http://council.legislature.mi.gov](http://council.legislature.mi.gov)
+ - date_published: 2022-11-02T14:47:08+00:00
+
+ ## Michigan House - Home Page
+ - [https://house.mi.gov](https://house.mi.gov)
+ - date_published: 2024-05-12T04:16:13.762055+00:00
+
+ ## Welcome To Michigan Judicial Tenure Commission
+ - [http://jtc.courts.mi.gov](http://jtc.courts.mi.gov)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Home - Michigan Legislature
+ - [https://www.legislature.mi.gov](https://www.legislature.mi.gov)
+ - date_published: 2024-06-29T21:53:41.549541+00:00
+
+ ## Michigan State Capitol
+ - [http://capitol.michigan.gov](http://capitol.michigan.gov)
+ - date_published: 2024-07-14T22:53:10.264574+00:00
+
+ ## Home Page Committees - Michigan Senate
+ - [https://committees.senate.michigan.gov](https://committees.senate.michigan.gov)
+ - date_published: 2024-07-14T22:53:23.933285+00:00
+
+ ## Michigan | Open Data | Michigan | Open Data
+ - [https://data.michigan.gov](https://data.michigan.gov)
+ - date_published: 2024-06-29T21:50:37.475228+00:00
+
+ ## DTMB Digital Guidelines
+ - [https://digitalguidelines.michigan.gov](https://digitalguidelines.michigan.gov)
+ - date_published: 2024-04-29T15:32:03+00:00
+
+ ## State of Michigan | Michigan.gov
+ - [https://michigan.gov](https://michigan.gov)
+ - date_published: 2024-05-07T14:18:16.505670+00:00
+
+ ## Insights Dashboard
+ - [https://micommunityfinancials.michigan.gov](https://micommunityfinancials.michigan.gov)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Michigan Senate Home
+ - [https://senate.michigan.gov](https://senate.michigan.gov)
+ - date_published: 2024-05-12T04:16:15.340053+00:00
+
+ ## Michigan Office of the Auditor General 0 / 0 — Doug Ringler, COA, CIA
+ - [http://www.audgen.michigan.gov](http://www.audgen.michigan.gov)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Middletown, CT | Official Website
+ - [https://www.middletownct.gov](https://www.middletownct.gov)
+ - date_published: 2024-07-01T23:23:48.309138+00:00
+
+ ## Military Consumer
+ - [https://militaryconsumer.gov](https://militaryconsumer.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Legislative Information Management System - City of Minneapolis
+ - [https://lims.minneapolismn.gov](https://lims.minneapolismn.gov)
+ - date_published: 2024-05-08T08:52:12.785240+00:00
+
+ ## Home
+ - [https://www.minneapolismn.gov](https://www.minneapolismn.gov)
+ - date_published: 2024-07-12T15:31:24+00:00
+
+ ## | MS.GOV
+ - [http://www.mississippi.gov](http://www.mississippi.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home - Marine Mammal Commission
+ - [https://www.mmc.gov](https://www.mmc.gov)
+ - date_published: 2015-10-02T19:45:38+00:00
+
+ ## LCCMR
+ - [https://lccmr.mn.gov](https://lccmr.mn.gov)
+ - date_published: 2024-05-08T12:16:46.405033+00:00
+
+ ## Tracking Minnesota’s  Legacy and Trust Funds
+ - [https://legacy.mn.gov](https://legacy.mn.gov)
+ - date_published: 2024-05-08T12:17:02.220513+00:00
+
+ ## Minnesota.gov Portal / mn.gov // Minnesota's State Portal
+ - [http://mn.gov](http://mn.gov)
+ - date_published: 2024-07-02T04:05:30.144622+00:00
+
+ ## Minnesota Legislature GIS
+ - [https://www.gis.lcc.mn.gov](https://www.gis.lcc.mn.gov)
+ - date_published: 2024-07-08T17:32:08.980981+00:00
+
+ ## LBO
+ - [https://www.lbo.mn.gov](https://www.lbo.mn.gov)
+ - date_published: 2024-07-08T17:32:21.123200+00:00
+
+ ## Legislative Coordinating Commission
+ - [https://www.lcc.mn.gov](https://www.lcc.mn.gov)
+ - date_published: 2024-07-08T17:32:12.187352+00:00
+
+ ## LCPR
+ - [https://www.lcpr.mn.gov](https://www.lcpr.mn.gov)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Minnesota Legislature
+ - [https://www.leg.mn.gov](https://www.leg.mn.gov)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Legislative Reference Library - Minnesota Legislature
+ - [https://www.lrl.mn.gov](https://www.lrl.mn.gov)
+ - date_published: 2024-07-08T17:32:29.364146+00:00
+
+ ## LSOHC
+ - [https://www.lsohc.mn.gov](https://www.lsohc.mn.gov)
+ - date_published: 2024-07-08T17:32:38.165165+00:00
+
+ ## MN Revisor's Office
+ - [https://www.revisor.mn.gov](https://www.revisor.mn.gov)
+ - date_published: 2024-07-02T04:07:39.746068+00:00
+
+ ## Home | Agricultural Market News
+ - [http://agmarketnews.mo.gov](http://agmarketnews.mo.gov)
+ - date_published: 2024-09-18T16:37:13+00:00
+
+ ## Missouri Department of Agriculture (MDA)
+ - [https://agriculture.mo.gov](https://agriculture.mo.gov)
+ - date_published: 2022-08-11T00:00:00+00:00
+
+ ## COVID-19 Outbreak | Health & Senior Services
+ - [https://covidvaccine.mo.gov](https://covidvaccine.mo.gov)
+ - date_published: 2024-09-18T20:18:46.601240+00:00
+
+ ## Home | Missouri Department of Natural Resources
+ - [https://dnr.mo.gov](https://dnr.mo.gov)
+ - date_published: 2024-09-18T19:07:42+00:00
+
+ ## Farm Safety
+ - [https://farmsafety.mo.gov](https://farmsafety.mo.gov)
+ - date_published: 2024-09-18T20:19:10.508471+00:00
+
+ ## Home | Governor Michael L. Parson
+ - [https://governor.mo.gov](https://governor.mo.gov)
+ - date_published: 2024-09-18T20:18:47+00:00
+
+ ## Missouri Department of Health and Senior Services
+ - [https://health.mo.gov](https://health.mo.gov)
+ - date_published: 2024-09-18T20:19:12.296186+00:00
+
+ ## Missouri House of Representatives - Home
+ - [https://house.mo.gov](https://house.mo.gov)
+ - date_published: 2024-08-19T07:42:05.598658+00:00
+
+ ## Missouri Department of Agriculture (MDA)
+ - [https://mda.mo.gov](https://mda.mo.gov)
+ - date_published: 2024-09-18T20:19:03.805398+00:00
+
+ ## ARPA – American Rescue Plan Act
+ - [https://moarpa.mo.gov](https://moarpa.mo.gov)
+ - date_published: 2024-09-18T20:19:40.182605+00:00
+
+ ## Missouri Department of Conservation
+ - [https://nature.mdc.mo.gov](https://nature.mdc.mo.gov)
+ - date_published: 2024-06-30T04:37:58+00:00
+
  ## Missouri Office of Administration
  - [https://oa2.mo.gov](https://oa2.mo.gov)
  - date_published: 2024-09-18T20:14:46+00:00
@@ -3796,229 +4020,4 @@
  ## South Carolina Legislature Online
  - [https://www.scstatehouse.gov](https://www.scstatehouse.gov)
  - date_published: 2024-01-09T00:00:00+00:00
-
- ## Government | South Carolina Student Connection | United States
- - [http://www.studentconnection.scstatehouse.gov](http://www.studentconnection.scstatehouse.gov)
- - date_published: 2024-06-19T18:11:11.348870+00:00
-
- ## Home - SC Votes - South Carolina Election Commission
- - [https://scvotes.gov](https://scvotes.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Loading... | South Dakota Legislature
- - [https://sdlegislature.gov](https://sdlegislature.gov)
- - date_published: 2024-09-10T11:06:04+00:00
-
- ## South Dakota Secretary of State
- - [https://sdsos.gov](https://sdsos.gov)
- - date_published: 2024-09-16T18:24:12.511736+00:00
-
- ## Voter Registration Name Search
- - [https://vip.sdsos.gov](https://vip.sdsos.gov)
- - date_published: 2024-09-16T18:24:15.202601+00:00
-
- ## A search engine by and for the federal government
- - [https://search.gov](https://search.gov)
- - date_published: 2024-07-19T17:43:44+00:00
- - tags: ['search engine']
-
- ## AlertSeattle
- - [https://alert.seattle.gov](https://alert.seattle.gov)
- - date_published: 2024-07-27T02:13:39.493909+00:00
-
- ## Art Beat
- - [https://artbeat.seattle.gov](https://artbeat.seattle.gov)
- - date_published: 2024-07-27T02:13:45.487993+00:00
-
- ## At Your Service
- - [https://atyourservice.seattle.gov](https://atyourservice.seattle.gov)
- - date_published: 2024-07-27T02:13:17.695728+00:00
-
- ## Bottom Line
- - [https://bottomline.seattle.gov](https://bottomline.seattle.gov)
- - date_published: 2024-07-27T02:13:00.493612+00:00
-
- ## Building Connections - Seattle Department of Construction & Inspections
- - [https://buildingconnections.seattle.gov](https://buildingconnections.seattle.gov)
- - date_published: 2024-07-27T02:13:03.392851+00:00
-
- ## Center Spotlight
- - [https://centerspotlight.seattle.gov](https://centerspotlight.seattle.gov)
- - date_published: 2024-07-27T02:13:50.560836+00:00
-
- ## Online Information Resources - CityClerk | seattle.gov
- - [http://clerk.seattle.gov](http://clerk.seattle.gov)
- - date_published: 2024-06-29T07:18:39.828945+00:00
-
- ## The Consultant Connection
- - [https://consultants.seattle.gov](https://consultants.seattle.gov)
- - date_published: 2024-07-26T19:14:51.017022+00:00
-
- ## Home - Seattle City Council Blog
- - [https://council.seattle.gov](https://council.seattle.gov)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## The Daily Plan It Blog - Office of Planning & Community Development
- - [https://dailyplanit.seattle.gov](https://dailyplanit.seattle.gov)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## City of Seattle Open Data portal
- - [https://data.seattle.gov](https://data.seattle.gov)
- - date_published: 2024-07-26T19:14:55.355778+00:00
-
- ## What's the DEEL?
- - [https://education.seattle.gov](https://education.seattle.gov)
- - date_published: 2024-07-27T02:14:06.034956+00:00
-
- ## FAS Blog – City of Seattle
- - [https://fasblog.seattle.gov](https://fasblog.seattle.gov)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Fire Line
- - [https://fireline.seattle.gov](https://fireline.seattle.gov)
- - date_published: 2024-07-26T19:14:56.846132+00:00
-
- ## Front Porch
- - [https://frontporch.seattle.gov](https://frontporch.seattle.gov)
- - date_published: 2024-07-26T19:15:04.230201+00:00
-
- ## Greenspace - Office of Sustainability & Environment
- - [https://greenspace.seattle.gov](https://greenspace.seattle.gov)
- - date_published: 2024-07-27T02:13:23.747687+00:00
-
- ## Office of the Mayor
- - [https://harrell.seattle.gov](https://harrell.seattle.gov)
- - date_published: 2024-07-26T19:14:52.613825+00:00
-
- ## Joy Hollingsworth - Seattle City Council Blog
- - [https://hollingsworth.seattle.gov](https://hollingsworth.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## at Home
- - [https://housing.seattle.gov](https://housing.seattle.gov)
- - date_published: 2024-07-27T02:12:48.819070+00:00
-
- ## Human Interests
- - [https://humaninterests.seattle.gov](https://humaninterests.seattle.gov)
- - date_published: 2024-07-27T02:13:47.761796+00:00
-
- ## City Innovation Hub
- - [https://innovation-hub.seattle.gov](https://innovation-hub.seattle.gov)
- - date_published: 2024-07-27T02:14:00.414781+00:00
-
- ## Robert Kettle - Seattle City Council Blog
- - [https://kettle.seattle.gov](https://kettle.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Cathy Moore - Seattle City Council Blog
- - [https://moore.seattle.gov](https://moore.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Tammy J. Morales - Seattle City Council Blog
- - [https://morales.seattle.gov](https://morales.seattle.gov)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Sara Nelson - Seattle City Council Blog
- - [https://nelson.seattle.gov](https://nelson.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## News.seattle.gov – News from the City of Seattle
- - [https://news.seattle.gov](https://news.seattle.gov)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Civil Rights Now
- - [https://ocr.seattle.gov](https://ocr.seattle.gov)
- - date_published: 2024-07-27T02:13:20.841940+00:00
-
- ## Parkways
- - [https://parkways.seattle.gov](https://parkways.seattle.gov)
- - date_published: 2024-04-29T05:28:21.110159+00:00
-
- ## Powerlines
- - [https://powerlines.seattle.gov](https://powerlines.seattle.gov)
- - date_published: 2024-07-26T19:15:00.411618+00:00
-
- ## Maritza Rivera - Seattle City Council Blog
- - [https://rivera.seattle.gov](https://rivera.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Rob Saka - Seattle City Council Blog
- - [https://saka.seattle.gov](https://saka.seattle.gov)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## SDOT Blog
- - [https://sdotblog.seattle.gov](https://sdotblog.seattle.gov)
- - date_published: 2024-07-26T19:15:05.834359+00:00
-
- ## Seattle.gov Home
- - [https://seattle.gov](https://seattle.gov)
- - date_published: 2024-04-29T05:30:10.219273+00:00
-
- ## SPD Blotter
- - [https://spdblotter.seattle.gov](https://spdblotter.seattle.gov)
- - date_published: 2024-07-26T19:15:02.438104+00:00
-
- ## Dan Strauss - Seattle City Council Blog
- - [https://strauss.seattle.gov](https://strauss.seattle.gov)
- - date_published: 2024-07-27T02:12:45.724178+00:00
-
- ## Tech Talk
- - [https://techtalk.seattle.gov](https://techtalk.seattle.gov)
- - date_published: 2024-07-27T02:13:13.711364+00:00
-
- ## The Buy Line – Seattle's City Purchasing Announcements, Bids and Proposals
- - [https://thebuyline.seattle.gov](https://thebuyline.seattle.gov)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## The Scoop
- - [https://thescoop.seattle.gov](https://thescoop.seattle.gov)
- - date_published: 2024-07-27T02:14:08.047347+00:00
-
- ## Welcoming Seattle
- - [https://welcoming.seattle.gov](https://welcoming.seattle.gov)
- - date_published: 2024-07-27T02:13:09.973467+00:00
-
- ## IAPD - Investment Adviser Public Disclosure - Homepage
- - [https://adviserinfo.sec.gov](https://adviserinfo.sec.gov)
- - date_published: 2024-06-28T21:07:43+00:00
-
- ## IAPD - Investment Adviser Public Disclosure - Homepage
- - [https://files.adviserinfo.sec.gov](https://files.adviserinfo.sec.gov)
- - date_published: 2024-05-17T22:05:20+00:00
-
- ## SEC.gov | HOME
- - [https://sec.gov](https://sec.gov)
- - date_published: 2023-10-25T19:25:07.736929+00:00
-
- ## EDGAR Login
- - [https://www.edgarfiling.sec.gov](https://www.edgarfiling.sec.gov)
- - date_published: 2024-08-14T09:01:52+00:00
-
- ## EDGAR Filer Management
- - [https://www.filermanagement.edgarfiling.sec.gov](https://www.filermanagement.edgarfiling.sec.gov)
- - date_published: 2024-08-14T09:01:50+00:00
-
- ## EDGAR OnlineForms Login
- - [https://www.onlineforms.edgarfiling.sec.gov](https://www.onlineforms.edgarfiling.sec.gov)
- - date_published: 2024-06-29T02:14:28+00:00
-
- ## Home | United States Secret Service
- - [https://www.secretservice.gov](https://www.secretservice.gov)
- - date_published: 2024-07-03T14:10:14+00:00
-
- ## Section508.gov
- - [https://www.section508.gov](https://www.section508.gov)
- - date_published: 2024-07-19T01:37:03+00:00
-
- ## Home | Seminole County
- - [https://www.seminolecountyfl.gov](https://www.seminolecountyfl.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Biotech
- - [https://biotech.senate.gov](https://biotech.senate.gov)
- - date_published: 2024-10-18T17:50:18.298517+00:00
-
- ## Home | U.S. Senator Richard Blumenthal of Connecticut
- - [https://blumenthal.senate.gov](https://blumenthal.senate.gov)
- - date_published: 2024-08-19T03:39:01.102479+00:00
 

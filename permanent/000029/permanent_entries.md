@@ -1,3 +1,11 @@
+ ## 中国人民政治协商会议广州市委员会
+ - [https://www.gzzx.gov.cn](https://www.gzzx.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 海南省农业农村厅
+ - [http://agri.hainan.gov.cn](http://agri.hainan.gov.cn)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## 海南省审计网
  - [http://audit.hainan.gov.cn](http://audit.hainan.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3988,13 +3996,5 @@
 
  ## 周口市人民政府
  - [http://www.zhoukou.gov.cn](http://www.zhoukou.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 珠晖新闻网_主流媒体,党政门户
- - [http://www.zhuhui.gov.cn](http://www.zhuhui.gov.cn)
- - date_published: 2024-10-21T06:38:26.159833+00:00
-
- ## 驻马店市人民政府门户网站
- - [https://www.zhumadian.gov.cn](https://www.zhumadian.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 

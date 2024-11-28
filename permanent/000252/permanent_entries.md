@@ -1,3 +1,209 @@
+ ## DBOS Widget Store
+ - [https://demo-widget-store.cloud.dbos.dev](https://demo-widget-store.cloud.dbos.dev)
+ - date_published: 2024-09-10T20:36:21.404364+00:00
+
+ ## Welcome to DBOS! | DBOS Docs
+ - [https://docs.dbos.dev](https://docs.dbos.dev)
+ - date_published: 2024-09-10T01:39:58+00:00
+
+ ## DBOS - Transactional Serverless Platform for TypeScript
+ - [https://www.dbos.dev](https://www.dbos.dev)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## DC Blog
+ - [https://dcblog.dev](https://dcblog.dev)
+ - date_published: 2024-10-28T23:31:34.400228+00:00
+
+ ## RoR Debugbar
+ - [https://debugbar.dev](https://debugbar.dev)
+ - date_published: 2024-02-18T16:39:57+00:00
+
+ ## Deepcore Development House
+ - [https://lab.deepcore.dev](https://lab.deepcore.dev)
+ - date_published: 2024-10-07T15:48:32.052998+00:00
+
+ ## Defensive CSS
+ - [https://defensivecss.dev](https://defensivecss.dev)
+ - date_published: 2024-09-10T08:16:31.920578+00:00
+
+ ## DeFi Pro - Decentralized Finance Course
+ - [http://defipro.dev](http://defipro.dev)
+ - date_published: 2024-11-25T21:03:36.452177+00:00
+
+ ## Deklara
+ - [https://deklara.dev](https://deklara.dev)
+ - date_published: 2021-10-01T09:46:09+00:00
+
+ ## Delba
+ - [https://delba.dev](https://delba.dev)
+ - date_published: 2024-07-02T19:01:49.839252+00:00
+
+ ## Jakob Serlier's Personal Site
+ - [https://delft.dev](https://delft.dev)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Not Found
+ - [https://assets.den.dev](https://assets.den.dev)
+ - date_published: 2024-04-29T07:34:38.360802+00:00
+
+ ## PowerToys Awake
+ - [https://awake.den.dev](https://awake.den.dev)
+ - date_published: 2024-04-29T07:34:40.070657+00:00
+
+ ## Hi, I'm Den :wave:
+ - [https://den.dev](https://den.dev)
+ - date_published: 2023-10-25T08:58:28.132514+00:00
+ - tags: ['personal']
+
+ ## Blowater
+ - [https://blowater.deno.dev](https://blowater.deno.dev)
+ - date_published: 2024-08-18T22:02:25.266550+00:00
+
+ ## deno bundle, as a service
+ - [https://bundle.deno.dev](https://bundle.deno.dev)
+ - date_published: 2024-06-17T16:23:42.056153+00:00
+
+ ## David Sherret
+ - [https://david.deno.dev](https://david.deno.dev)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## draw & share
+ - [https://drawings.deno.dev](https://drawings.deno.dev)
+ - date_published: 2024-07-06T21:20:39.961863+00:00
+
+ ## Fresh Charts Examples
+ - [https://fresh-charts.deno.dev](https://fresh-charts.deno.dev)
+ - date_published: 2024-05-04T09:45:01.251969+00:00
+
+ ## Fresh - The next-gen web framework.
+ - [https://fresh.deno.dev](https://fresh.deno.dev)
+ - date_published: 2024-04-30T02:02:33.536846+00:00
+
+ ## nocuous
+ - [https://nocuous.deno.dev](https://nocuous.deno.dev)
+ - date_published: 2024-05-04T09:44:36.819503+00:00
+
+ ## Referer analytics for https://pcalv.es
+ - [https://referalytics.deno.dev](https://referalytics.deno.dev)
+ - date_published: 2024-07-15T06:33:48.198542+00:00
+
+ ## tswhy‽
+ - [https://tswhy.deno.dev](https://tswhy.deno.dev)
+ - date_published: 2024-05-04T09:44:35.214357+00:00
+
+ ## Overview · Denoflare
+ - [https://denoflare.dev](https://denoflare.dev)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Webtail for Cloudflare Workers
+ - [https://webtail.denoflare.dev](https://webtail.denoflare.dev)
+ - date_published: 2024-06-17T16:23:42.885352+00:00
+
+ ## Writing | denvaar's Site
+ - [https://denvaar.dev](https://denvaar.dev)
+ - date_published: 2023-11-16T09:28:41.834997+00:00
+
+ ## Depot
+ - [https://depot.dev](https://depot.dev)
+ - date_published: 2023-10-25T18:37:13.920387+00:00
+
+ ## Status | Depot
+ - [https://status.depot.dev](https://status.depot.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Open Source Insights
+ - [https://deps.dev](https://deps.dev)
+ - date_published: 2024-06-08T17:27:03+00:00
+
+ ## Custom Web Design & Development
+ - [https://designthen.dev](https://designthen.dev)
+ - date_published: 2024-05-11T07:53:31.407734+00:00
+
+ ## desinni - Front-end engineer, and a healthy lifestyle enthusiast
+ - [https://desinni.dev](https://desinni.dev)
+ - date_published: 2024-05-11T10:17:13.911469+00:00
+
+ ## https://desislav.dev
+ - [https://desislav.dev](https://desislav.dev)
+ - date_published: 2024-01-09T02:57:13.240861+00:00
+
+ ## David De Smet | Resume
+ - [https://www.desmet.dev](https://www.desmet.dev)
+ - date_published: 2024-05-06T09:08:43.820411+00:00
+ - tags: ['personal']
+
+ ## Devansh Bajaj
+ - [https://devanshbajaj.dev](https://devanshbajaj.dev)
+ - date_published: 2024-05-11T10:21:46.484864+00:00
+
+ ## The Developing Dev | Ryan Peterman | Substack
+ - [https://developing.dev](https://developing.dev)
+ - date_published: 2023-10-25T18:37:18.745268+00:00
+
+ ## Devicon
+ - [https://devicon.dev](https://devicon.dev)
+ - date_published: 2024-02-05T21:59:54+00:00
+
+ ## DevOps.dev
+ - [https://blog.devops.dev](https://blog.devops.dev)
+ - date_published: 2023-10-25T18:37:21.821387+00:00
+
+ ## DevRelCon NY
+ - [https://nyc24.devrelcon.dev](https://nyc24.devrelcon.dev)
+ - date_published: 2024-07-20T13:29:36+00:00
+
+ ## Noelle's Place
+ - [https://noelle.df1.dev](https://noelle.df1.dev)
+ - date_published: 2024-10-22T22:02:21.317122+00:00
+
+ ## Dieter Stinglhamber
+ - [https://dieter.dev](https://dieter.dev)
+ - date_published: 2024-05-11T10:09:26.504257+00:00
+
+ ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
+ - [https://api.differential.dev](https://api.differential.dev)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
+ - [https://cdn.differential.dev](https://cdn.differential.dev)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## GitHub - differentialhq/differential: Typescript-first background services platform with durable functions.
+ - [https://console.differential.dev](https://console.differential.dev)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Differential: Type safe RPC that feels like local functions
+ - [https://differential.dev](https://differential.dev)
+ - date_published: 2024-03-09T03:15:16+00:00
+
+ ## Differential
+ - [https://docs.differential.dev](https://docs.differential.dev)
+ - date_published: 2024-05-08T22:18:33+00:00
+
+ ## Digger.dev
+ - [https://blog.digger.dev](https://blog.digger.dev)
+ - date_published: 2024-01-04T16:43:27.471043+00:00
+
+ ## Digger - CI/CD orchestrator for Terraform
+ - [https://digger.dev](https://digger.dev)
+ - date_published: 2024-04-29T07:35:21.341604+00:00
+
+ ## About Digger - Digger
+ - [https://docs.digger.dev](https://docs.digger.dev)
+ - date_published: 2024-04-29T07:35:24.039355+00:00
+
+ ## IT expertise, security guaranteed | digidib
+ - [https://digidib.dev](https://digidib.dev)
+ - date_published: 2024-05-21T08:38:49+00:00
+
+ ## Awesome Viewer - For Awesome Lists
+ - [https://awesome.digitalbunker.dev](https://awesome.digitalbunker.dev)
+ - date_published: 2024-11-08T19:09:23.749987+00:00
+
+ ## Digital Bunker
+ - [https://digitalbunker.dev](https://digitalbunker.dev)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Noest | Digitale oplossingen co-creëren met Microsoft technologie,…
  - [https://noest.staging.digitalpulse.dev](https://noest.staging.digitalpulse.dev)
  - date_published: 2024-09-18T14:43:43.395156+00:00
@@ -2008,6 +2214,10 @@
  - [https://titimoby.hashnode.dev](https://titimoby.hashnode.dev)
  - date_published: 2024-01-01T00:00:00+00:00
 
+ ## V4's Tech Stuff
+ - [https://v4tech.hashnode.dev](https://v4tech.hashnode.dev)
+ - date_published: 2024-11-27T11:41:30.922183+00:00
+
  ## Varol Aksoy | iOS Development
  - [https://varol.hashnode.dev](https://varol.hashnode.dev)
  - date_published: 2024-06-23T15:44:00.838541+00:00
@@ -2252,6 +2462,10 @@
  ## Luke Hsiao
  - [https://luke.hsiao.dev](https://luke.hsiao.dev)
  - date_published: 2024-07-19T15:08:22.722063+00:00
+
+ ## htmgo
+ - [https://htmgo.dev](https://htmgo.dev)
+ - date_published: 2024-11-27T15:25:03.187595+00:00
 
  ## Markup from hell - HTMHell
  - [https://htmhell.dev](https://htmhell.dev)
@@ -3080,6 +3294,10 @@
  - [https://keephq.dev](https://keephq.dev)
  - date_published: 2024-07-23T00:00:00+00:00
 
+ ## Keep
+ - [https://playground.keephq.dev](https://playground.keephq.dev)
+ - date_published: 2024-11-27T17:34:31.715444+00:00
+
  ## Join Keep Community on Slack
  - [https://slack.keephq.dev](https://slack.keephq.dev)
  - date_published: 2024-04-05T00:00:00+00:00
@@ -3857,228 +4075,4 @@
  ## Luigi Cruz - Software Developer
  - [https://luigicruz.dev](https://luigicruz.dev)
  - date_published: 2024-05-11T10:21:49.476512+00:00
-
- ## luizdepra
- - [https://luizdepra.dev](https://luizdepra.dev)
- - date_published: 2024-02-09T14:05:09.032954+00:00
- - tags: ['personal']
-
- ## Lukas Hermann – Bootstraping a profitable business
- - [https://lukashermann.dev](https://lukashermann.dev)
- - date_published: 2023-10-25T18:39:36.060648+00:00
-
- ## Lunar | Ground Control for 3rd Party APIs
- - [https://lunar.dev](https://lunar.dev)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Lunni
- - [https://lunni.dev](https://lunni.dev)
- - date_published: 2024-09-02T09:52:08.330849+00:00
-
- ## lunnova.dev
- - [https://lunnova.dev](https://lunnova.dev)
- - date_published: 2023-10-25T18:39:36.570613+00:00
-
- ## Eddy Luten
- - [https://luten.dev](https://luten.dev)
- - date_published: 2024-05-30T17:43:34+00:00
- - tags: ['personal']
-
- ## MinIO Console
- - [https://minio-api.cr.lvtd.dev](https://minio-api.cr.lvtd.dev)
- - date_published: 2024-06-20T15:40:31+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.cr.lvtd.dev](https://plausible.cr.lvtd.dev)
- - date_published: 2024-05-07T10:27:23.964670+00:00
-
- ## Lightning Web Components foundation - OSS Documentation
- - [https://lwc.dev](https://lwc.dev)
- - date_published: 2024-08-19T06:53:07.528895+00:00
-
- ## Learn. Build. Grow. Together.
- - [https://lwj.dev](https://lwj.dev)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## lyte.dev
- - [https://lyte.dev](https://lyte.dev)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Index • lzrd.dev
- - [https://lzrd.dev](https://lzrd.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## MΛX - Home
- - [https://m4xc.dev](https://m4xc.dev)
- - date_published: 2024-10-25T10:39:44+00:00
-
- ## Scott Mabin
- - [https://mabez.dev](https://mabez.dev)
- - date_published: 2023-10-25T08:48:38.285682+00:00
- - tags: ['personal']
-
- ## Maggie's Website
- - [https://maggieliu.dev](https://maggieliu.dev)
- - date_published: 2024-04-30T07:46:34.412779+00:00
- - tags: ['personal']
-
- ## Magic
- - [https://magic.dev](https://magic.dev)
- - date_published: 2024-07-08T08:34:44.956948+00:00
-
- ## Magic Eden Developer
- - [https://api.magiceden.dev](https://api.magiceden.dev)
- - date_published: 2024-08-06T16:23:47.318560+00:00
-
- ## Magic Loops
- - [https://blog.magicloops.dev](https://blog.magicloops.dev)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Magic Loops
- - [https://magicloops.dev](https://magicloops.dev)
- - date_published: 2023-10-25T18:39:37.627469+00:00
- - tags: ['artificial intelligence', 'llm', 'web scraping']
-
- ## Mahmoud Ashraf
- - [https://mahmoudashraf.dev](https://mahmoudashraf.dev)
- - date_published: 2024-05-07T23:24:34.732828+00:00
-
- ## Attention Required! | Cloudflare
- - [https://mahood.dev](https://mahood.dev)
- - date_published: 2024-05-14T03:31:06.625410+00:00
-
- ## Never let a missed email cost you money again! | Mailfox
- - [https://www.mailfox.dev](https://www.mailfox.dev)
- - date_published: 2024-07-15T06:36:35+00:00
-
- ## mais.dev
- - [https://mais.dev](https://mais.dev)
- - date_published: 2022-12-16T02:19:31+00:00
-
- ## Programming nursery of finished & unfinished projects by ranuzz
- - [https://makeall.dev](https://makeall.dev)
- - date_published: 2024-06-23T17:34:43.620093+00:00
-
- ## Make My Workout
- - [https://makemyworkout.dev](https://makemyworkout.dev)
- - date_published: 2024-06-19T20:42:38.574760+00:00
-
- ## Makepad
- - [https://makepad.dev](https://makepad.dev)
- - date_published: 2024-08-18T16:38:50.536651+00:00
-
- ## React.js SaaS Starter Kit | Makerkit
- - [https://makerkit.dev](https://makerkit.dev)
- - date_published: 2024-05-09T08:38:51.289681+00:00
-
- ## Webpack App
- - [https://ui.makerkit.dev](https://ui.makerkit.dev)
- - date_published: 2024-07-10T11:15:45.701489+00:00
-
- ## Mako - Extremely fast, Production-grade web bundler
- - [https://makojs.dev](https://makojs.dev)
- - date_published: 2024-07-01T07:24:08+00:00
-
- ## Malith Rukshan
- - [https://malith.dev](https://malith.dev)
- - date_published: 2024-07-01T03:46:50.772243+00:00
-
- ## Page Redirection
- - [https://docs.malloydata.dev](https://docs.malloydata.dev)
- - date_published: 2024-05-04T15:39:25+00:00
-
- ## Malloy
- - [https://malloydata.dev](https://malloydata.dev)
- - date_published: 2024-05-08T04:29:45.619371+00:00
-
- ## Home
- - [https://mandymak.dev](https://mandymak.dev)
- - date_published: 2023-12-14T06:54:37.710670+00:00
- - tags: ['personal']
-
- ## Help Center | Mantine
- - [https://help.mantine.dev](https://help.mantine.dev)
- - date_published: 2024-07-03T06:46:35.001983+00:00
-
- ## Mantine
- - [https://mantine.dev](https://mantine.dev)
- - date_published: 2024-05-08T00:40:47.350138+00:00
-
- ## Mantine UI
- - [https://ui.mantine.dev](https://ui.mantine.dev)
- - date_published: 2024-01-18T07:13:54+00:00
-
- ## manuels.dev
- - [https://manuels.dev](https://manuels.dev)
- - date_published: 2024-05-11T10:20:48.699407+00:00
-
- ## manumateos.dev
- - [https://www.manumateos.dev](https://www.manumateos.dev)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## ManupaDev | Home
- - [https://manupa.dev](https://manupa.dev)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Marco Ippolito - Senior Developer Experience Engineer
- - [https://www.marcoippolito.dev](https://www.marcoippolito.dev)
- - date_published: 2024-06-20T07:01:37.075180+00:00
-
- ## Home
- - [https://marcoroth.dev](https://marcoroth.dev)
- - date_published: 2024-06-06T21:24:37+00:00
-
- ## Marigold - Upgrading Tezos
- - [https://www.marigold.dev](https://www.marigold.dev)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## A powerful, flexible, Markdown-based authoring framework
- - [https://markdoc.dev](https://markdoc.dev)
- - date_published: 2024-07-01T09:45:54.280803+00:00
-
- ## Developer Marketing Community
- - [https://go.marketingto.dev](https://go.marketingto.dev)
- - date_published: 2024-08-06T21:12:37.067681+00:00
-
- ## Developer Marketing Community
- - [https://marketingto.dev](https://marketingto.dev)
- - date_published: 2024-04-28T05:43:22.756474+00:00
-
- ## Markok.dev - Blog about web development and other random things
- - [https://markok.dev](https://markok.dev)
- - date_published: 2023-12-12T23:24:05.386377+00:00
- - tags: ['personal']
-
- ## umami
- - [https://analytic-api.marsx.dev](https://analytic-api.marsx.dev)
- - date_published: 2024-05-10T05:29:46.226274+00:00
-
- ## MarsX is a dev tool that unites AI, NoCode, Code and MicroApps
- - [https://marsx.dev](https://marsx.dev)
- - date_published: 2024-05-10T05:29:31.160676+00:00
-
- ## Courses - Learn with Martin Bean
- - [https://courses.martinbean.dev](https://courses.martinbean.dev)
- - date_published: 2024-07-14T08:06:49.925726+00:00
-
- ## Martin Bean: software engineer and web developer
- - [https://martinbean.dev](https://martinbean.dev)
- - date_published: 2023-01-27T00:00:00+00:00
-
- ## Martin Fitzpatrick – Python tutorials, projects and books
- - [https://blog.martinfitz.dev](https://blog.martinfitz.dev)
- - date_published: 2024-07-22T22:16:09.647701+00:00
-
- - [https://martinheinz.dev](https://martinheinz.dev)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Martin Hicks - Freelance developer and AWS certified consultant in Manchester, UK
- - [https://martinhicks.dev](https://martinhicks.dev)
- - date_published: 2023-10-01T09:55:36+00:00
- - tags: ['personal']
-
- ## Marvin Hagemeister Frontend Developer
- - [https://marvinh.dev](https://marvinh.dev)
- - date_published: 2023-10-25T08:48:41.375132+00:00
- - tags: ['personal']
 

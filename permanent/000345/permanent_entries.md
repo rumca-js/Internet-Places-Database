@@ -1,3 +1,255 @@
+ ## Best Open Source Windows Software Development Software 2024
+ - [https://users.sourceforge.net](https://users.sourceforge.net)
+ - date_published: 2024-07-11T11:49:27.919980+00:00
+
+ ## VCG
+ - [http://vcg.sourceforge.net](http://vcg.sourceforge.net)
+ - date_published: 2015-01-09T13:12:42+00:00
+
+ ## Vega Strike - Home
+ - [http://vegastrike.sourceforge.net](http://vegastrike.sourceforge.net)
+ - date_published: 2020-11-09T11:29:14+00:00
+
+ ## VICE - the Versatile Commodore Emulator
+ - [https://vice-emu.sourceforge.net](https://vice-emu.sourceforge.net)
+ - date_published: 2023-12-24T17:06:59+00:00
+
+ ## Vimdoc : the online source for Vim documentation
+ - [https://vimdoc.sourceforge.net](https://vimdoc.sourceforge.net)
+ - date_published: 2024-05-04T15:34:14.844487+00:00
+
+ ## vim
+ - [http://vim.sourceforge.net](http://vim.sourceforge.net)
+ - date_published: 2013-08-19T00:00:00+00:00
+
+ ## Vorton
+ - [https://vorton.sourceforge.net](https://vorton.sourceforge.net)
+ - date_published: 2004-03-04T23:26:20+00:00
+
+ ## Voxelstein 3D
+ - [https://voxelstein3d.sourceforge.net](https://voxelstein3d.sourceforge.net)
+ - date_published: 2009-04-18T05:43:29+00:00
+ - tags: ['wolfenstein', 'video game port', 'open source']
+
+ ## W3M Homepage
+ - [http://w3m.sourceforge.net](http://w3m.sourceforge.net)
+ - date_published: 2008-02-16T05:51:21+00:00
+
+ ## WAtomic
+ - [https://watomic.sourceforge.net](https://watomic.sourceforge.net)
+ - date_published: 2007-07-13T07:38:36+00:00
+
+ ## WinDirStat
+ - [https://windirstat.sourceforge.net](https://windirstat.sourceforge.net)
+ - date_published: 2024-01-28T20:56:53+00:00
+
+ ## WinMerge - You will see the difference…
+ - [https://winmerge.sourceforge.net](https://winmerge.sourceforge.net)
+ - date_published: 2024-05-09T05:02:26.340150+00:00
+ - tags: ['compare', 'desktop program', 'open source']
+
+ ## WURFL - Mobile Device Database by ScientiaMobile
+ - [https://wurfl.sourceforge.net](https://wurfl.sourceforge.net)
+ - date_published: 2024-09-02T16:22:49.635755+00:00
+
+ ## wxWidgets Dialog Designer
+ - [http://wxdsgn.sourceforge.net](http://wxdsgn.sourceforge.net)
+ - date_published: 2020-10-18T00:00:00+00:00
+
+ ## wxGlade: a GUI builder for wxWidgets/wxPython
+ - [https://wxglade.sourceforge.net](https://wxglade.sourceforge.net)
+ - date_published: 2024-06-15T12:22:58.445118+00:00
+
+ ## wxLaserTank
+ - [https://wxlasertank.sourceforge.net](https://wxlasertank.sourceforge.net)
+ - date_published: 2010-12-26T04:53:37+00:00
+
+ ## wxPerl
+ - [https://wxperl.sourceforge.net](https://wxperl.sourceforge.net)
+ - date_published: 2013-03-08T21:42:44+00:00
+
+ ## X11-Basic: BASIC for UNIX
+ - [http://x11-basic.sourceforge.net](http://x11-basic.sourceforge.net)
+ - date_published: 2020-07-16T08:49:16+00:00
+
+ ## xBaK
+ - [https://xbak.sourceforge.net](https://xbak.sourceforge.net)
+ - date_published: 2010-02-17T00:00:00+00:00
+
+ ## Xtreme Download Manager
+ - [http://xdman.sourceforge.net](http://xdman.sourceforge.net)
+ - date_published: 2024-11-10T19:01:16.573606+00:00
+
+ ## XeTeX - Unicode-based TeX
+ - [http://xetex.sourceforge.net](http://xetex.sourceforge.net)
+ - date_published: 2014-11-26T14:51:18+00:00
+
+ ## the xine project - Home
+ - [http://xine.sourceforge.net](http://xine.sourceforge.net)
+ - date_published: 2020-12-06T13:35:55+00:00
+
+ ## XL: An extensible programming language
+ - [https://xlr.sourceforge.net](https://xlr.sourceforge.net)
+ - date_published: 2021-12-10T12:34:51+00:00
+
+ ## xmlrpc-epi
+ - [http://xmlrpc-epi.sourceforge.net](http://xmlrpc-epi.sourceforge.net)
+ - date_published: 2010-11-02T00:00:00+00:00
+
+ ## Xoops Cube Project
+ - [http://xoopscube.sourceforge.net](http://xoopscube.sourceforge.net)
+ - date_published: 2013-05-27T00:00:00+00:00
+
+ ## XPilot NG
+ - [https://xpilot.sourceforge.net](https://xpilot.sourceforge.net)
+ - date_published: 2005-06-11T20:02:46+00:00
+
+ ## XQilla
+ - [http://xqilla.sourceforge.net](http://xqilla.sourceforge.net)
+ - date_published: 2024-06-17T03:14:38.588044+00:00
+
+ ## xu4 - Ultima IV Recreated
+ - [https://xu4.sourceforge.net](https://xu4.sourceforge.net)
+ - date_published: 2024-05-09T09:10:07.011346+00:00
+ - tags: ['ultima 4', 'open source', 'ultima iv']
+
+ ## xVideoServiceThief Official Web site
+ - [http://xviservicethief.sourceforge.net](http://xviservicethief.sourceforge.net)
+ - date_published: 2024-07-16T20:10:17.203474+00:00
+
+ ## xxdiff
+ - [https://xxdiff.sourceforge.net](https://xxdiff.sourceforge.net)
+ - date_published: 2012-09-04T00:00:00+00:00
+
+ ## Xye - A puzzle game with varied gameplay
+ - [https://xye.sourceforge.net](https://xye.sourceforge.net)
+ - date_published: 2024-05-09T08:58:38.743952+00:00
+
+ ## YAML.rb: YAML for Ruby
+ - [http://yaml4r.sourceforge.net](http://yaml4r.sourceforge.net)
+ - date_published: 2024-07-19T15:32:44.141038+00:00
+
+ ## Yaml .NET Parser - Documentation
+ - [http://yaml-net-parser.sourceforge.net](http://yaml-net-parser.sourceforge.net)
+ - date_published: 2006-06-24T16:33:37+00:00
+
+ ## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [http://yamlvim.hg.sourceforge.net](http://yamlvim.hg.sourceforge.net)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Yoda soccer - new swos like soccer game!
+ - [http://yodasoccer.sourceforge.net](http://yodasoccer.sourceforge.net)
+ - date_published: 2014-05-31T10:52:07+00:00
+
+ ## Yorick is an interpreted programming language for scientific simulations
+ - [https://yorick.sourceforge.net](https://yorick.sourceforge.net)
+ - date_published: 2023-11-03T21:00:01+00:00
+
+ ## YSoccer - new swos like soccer game!
+ - [https://ysoccer.sourceforge.net](https://ysoccer.sourceforge.net)
+ - date_published: 2021-02-22T19:29:30+00:00
+
+ ## Zaz - Because hackers too need to play with balls
+ - [https://zaz.sourceforge.net](https://zaz.sourceforge.net)
+ - date_published: 2024-05-09T08:56:31.702234+00:00
+
+ ## The Zod Engine - An Open Source Remake of the 1996 Game Z by Bitmap Brothers
+ - [https://zod.sourceforge.net](https://zod.sourceforge.net)
+ - date_published: 2024-05-09T09:11:10.291425+00:00
+
+ ## ZSH - THE Z SHELL
+ - [http://zsh.sourceforge.net](http://zsh.sourceforge.net)
+ - date_published: 2022-05-14T00:00:00+00:00
+
+ ## ZSNES Home Page - About ZSNES
+ - [http://zsnes.sourceforge.net](http://zsnes.sourceforge.net)
+ - date_published: 2024-08-18T14:38:17.676952+00:00
+
+ ## librsync: README
+ - [http://librsync.sourcefrog.net](http://librsync.sourcefrog.net)
+ - date_published: 2023-02-19T05:28:37+00:00
+
+ ## I dun goofed
+ - [https://www.sourceguru.net](https://www.sourceguru.net)
+ - date_published: 2024-07-09T07:58:11.338322+00:00
+
+ ## Sourcely | Find Academic Sources with AI
+ - [https://www.sourcely.net](https://www.sourcely.net)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Everything you need to know to travel to South Africa (GL)
+ - [http://www.southafrica.net](http://www.southafrica.net)
+ - date_published: 2024-08-19T20:26:43.208717+00:00
+
+ ## South Africa News.Net | Authoritative South Africa News Source
+ - [http://www.southafricanews.net](http://www.southafricanews.net)
+ - date_published: 2024-07-13T23:01:36.705200+00:00
+
+ ## News as it happens from South America|South America News.Net
+ - [http://www.southamericanews.net](http://www.southamericanews.net)
+ - date_published: 2024-07-13T23:05:27.173558+00:00
+
+ ## Headlines from South East Asia | www.southeastasianews.net
+ - [http://www.southeastasianews.net](http://www.southeastasianews.net)
+ - date_published: 2024-07-13T23:03:40.295940+00:00
+
+ ## southeastmarketing.net
+ - [https://southeastmarketing.net](https://southeastmarketing.net)
+ - date_published: 2024-02-23T06:57:28.805621+00:00
+
+ ## Southern Choice Properties
+ - [https://www.southernchoiceproperties.net](https://www.southernchoiceproperties.net)
+ - date_published: 2024-06-29T23:12:58.057857+00:00
+
+ ## South Korea News |  As it Happens |  South Korea News.Net
+ - [http://www.southkoreanews.net](http://www.southkoreanews.net)
+ - date_published: 2024-07-13T23:03:44.701414+00:00
+
+ ## Southperry.net
+ - [http://www.southperry.net](http://www.southperry.net)
+ - date_published: 2024-10-24T07:48:00.973622+00:00
+
+ ## https://sovinform.net
+ - [https://sovinform.net](https://sovinform.net)
+ - date_published: 2023-10-25T20:37:53.833050+00:00
+
+ ## SpaceNet Kundenbereich - Login
+ - [https://kunden.space.net](https://kunden.space.net)
+ - date_published: 2024-07-18T13:23:16.759838+00:00
+
+ ## SpaceNet | Unternehmenswachstum mit passgenauen  IT-Lösungen
+ - [https://space.net](https://space.net)
+ - date_published: 2024-05-14T04:00:03.837288+00:00
+
+ ## Space: 1999 Catacombs- Guides, Scripts, Analysis
+ - [https://catacombs.space1999.net](https://catacombs.space1999.net)
+ - date_published: 2023-10-31T22:37:27.873348+00:00
+
+ ## Space: 1999 Net
+ - [http://www.space1999.net](http://www.space1999.net)
+ - date_published: 2023-05-26T00:40:47+00:00
+
+ ## spaceboyz.net
+ - [http://spaceboyz.net](http://spaceboyz.net)
+ - date_published: 2024-09-14T08:49:51.949884+00:00
+
+ ## telnet spaceclaw.net
+ - [http://spaceclaw.net](http://spaceclaw.net)
+ - date_published: 2013-03-28T00:00:00+00:00
+
+ ## SpaceColonyFans.net - Stella's Space Colony HD Walkthrough and Game Help
+ - [https://spacecolonyfans.net](https://spacecolonyfans.net)
+ - date_published: 2021-01-29T00:00:00+00:00
+ - tags: ['space colony', 'video games']
+
+ ## SpaceHey — a space for friends.
+ - [https://cdn.spacehey.net](https://cdn.spacehey.net)
+ - date_published: 2024-06-18T15:54:35.227644+00:00
+
+ ## SpaceHey — a space for friends.
+ - [https://static.spacehey.net](https://static.spacehey.net)
+ - date_published: 2024-06-18T15:54:33.272166+00:00
+
  ## Space Rogue
  - [https://spacerogue.net](https://spacerogue.net)
  - date_published: 2007-02-08T23:26:02+00:00
@@ -3806,259 +4058,4 @@ Ocean's Eleven fanlisting
  ## the witching hours | los angeles
  - [https://www.thewitchinghours.net](https://www.thewitchinghours.net)
  - date_published: 2024-06-22T07:02:43.201210+00:00
-
- ## The Witness
- - [http://the-witness.net](http://the-witness.net)
- - date_published: 2018-04-23T18:42:42+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://theworldnews.net](https://theworldnews.net)
- - date_published: 2024-06-23T22:57:12.494216+00:00
-
- ## Buy Essay Online: 5 Best Sites to Purchase Cheap College Papers
- - [http://thewritingresource.net](http://thewritingresource.net)
- - date_published: 2021-09-23T11:00:14+00:00
-
- ## theXifer.net - Just a Web Based EXIF Editor for Local, Cloud, Flickr, Google Drive
- - [http://www.thexifer.net](http://www.thexifer.net)
- - date_published: 2024-08-18T19:27:14.615376+00:00
-
- ## TheYeshiva.net | Rabbi YY Jacobson
- - [http://theyeshiva.net](http://theyeshiva.net)
- - date_published: 2024-06-27T08:02:40.918247+00:00
-
- ## theyrule.net
- - [https://theyrule.net](https://theyrule.net)
- - date_published: 2023-07-11T20:13:52+00:00
- - tags: ['deep state', 'corporatocracy', 'big tech']
-
- ## The YUNiversity
- - [http://www.theyuniversity.net](http://www.theyuniversity.net)
- - date_published: 2024-08-19T16:07:32.413031+00:00
-
- ## Camisapedia
- - [https://camisapedia.thiagosf.net](https://camisapedia.thiagosf.net)
- - date_published: 2024-10-26T19:31:22.049098+00:00
-
- ## chatNow - Open Source Chat PHP & MySQL
- - [http://chatnow.thiagosf.net](http://chatnow.thiagosf.net)
- - date_published: 2024-10-26T19:31:25.287024+00:00
-
- ## Thiago Silva Ferreira - Full Stack Developer
- - [http://thiagosf.net](http://thiagosf.net)
- - date_published: 2024-05-21T13:36:37+00:00
-
- ## Harold Thimbleby - A RADICAL NEW BOOK ON DIGITAL HEALTHCARE
- - [https://harold.thimbleby.net](https://harold.thimbleby.net)
- - date_published: 2023-12-31T16:48:44+00:00
-
- ## things magazine
- - [https://thingsmagazine.net](https://thingsmagazine.net)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## ThingsPool
- - [https://thingspool.net](https://thingspool.net)
- - date_published: 2024-10-08T00:00:39+00:00
-
- ## Homepage - ThinkDigital Group
- - [https://thinkdigitalgroup.net](https://thinkdigitalgroup.net)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Thinking Meat
- - [https://thinkingmeat.net](https://thinkingmeat.net)
- - date_published: 2024-10-29T18:58:33+00:00
-
- ## THINKIUM
- - [https://thinkium.net](https://thinkium.net)
- - date_published: 2024-05-16T07:17:22+00:00
-
- ## Thinkium Developer Hub
- - [https://www.thinkiumdev.net](https://www.thinkiumdev.net)
- - date_published: 2024-05-16T07:33:08+00:00
-
- ## THINKEY
- - [https://chain0.thinkiumscan.net](https://chain0.thinkiumscan.net)
- - date_published: 2019-09-03T11:53:41+00:00
-
- ## browser
- - [https://chain103.thinkiumscan.net](https://chain103.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## browser
- - [https://chain1.thinkiumscan.net](https://chain1.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## browser
- - [https://chain2.thinkiumscan.net](https://chain2.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## Six · young Chinese in new China
- - [https://thinksix.net](https://thinksix.net)
- - date_published: 2024-10-21T09:10:01.227308+00:00
-
- ## Home Default - ThirdCode
- - [https://www.thirdcode.net](https://www.thirdcode.net)
- - date_published: 2021-09-28T12:55:08+00:00
-
- ## &> /dev/null
- - [https://thirtythreeforty.net](https://thirtythreeforty.net)
- - date_published: 2021-10-19T01:43:33+00:00
-
- ## This Can't Be Happening!
- - [https://thiscantbehappening.net](https://thiscantbehappening.net)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## This is important
- - [https://thisisimportant.net](https://thisisimportant.net)
- - date_published: 2024-01-01T21:50:14.658453+00:00
- - tags: ['personal']
-
- ## This Pony Does Not Exist
- - [https://thisponydoesnotexist.net](https://thisponydoesnotexist.net)
- - date_published: 2020-07-18T07:37:33+00:00
-
- ## This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern
- - [https://thiswaifudoesnotexist.net](https://thiswaifudoesnotexist.net)
- - date_published: 2024-02-03T02:38:53+00:00
- - tags: ['nsfw', 'artificial intelligence bot']
-
- ## Home « Tom Scott
- - [http://www.thomasscott.net](http://www.thomasscott.net)
- - date_published: 2024-09-06T14:29:55.634466+00:00
-
- ## Thomas Steinke
- - [http://www.thomas-steinke.net](http://www.thomas-steinke.net)
- - date_published: 2024-04-26T00:42:08+00:00
-
- ## Thomas Wong
- - [https://thomaswong.net](https://thomaswong.net)
- - date_published: 2024-04-29T02:33:04.282731+00:00
-
- ## Heirs of Durin
- - [https://thorinoakenshield.net](https://thorinoakenshield.net)
- - date_published: 2020-06-10T09:11:12+00:00
-
- ## 庄河詹曳顾问有限公司
- - [http://www.thoughtlynx.net](http://www.thoughtlynx.net)
- - date_published: 2024-08-05T18:36:30.063280+00:00
-
- ## Thought Machine | Core Banking Software | Cloud Native
- - [https://thoughtmachine.net](https://thoughtmachine.net)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Thousand Fold Path
- - [http://thousandfold.net](http://thousandfold.net)
- - date_published: 2019-02-01T20:17:01+00:00
-
- ## Thỏ Vàng TV ⫸ Trực tiếp bóng đá Thovangtv 2024
- - [https://thovangtv.net](https://thovangtv.net)
- - date_published: 2024-08-17T07:18:02+00:00
-
- ## Threads
- - [https://threads.net](https://threads.net)
- - date_published: 2024-02-06T14:11:13.766310+00:00
- - tags: ['social platform', 'social media']
-
- ## threeboy
- - [https://threeboy.net](https://threeboy.net)
- - date_published: 2024-05-10T06:29:24.939323+00:00
- - tags: ['personal']
-
- ## https://threeplanes.net
- - [https://threeplanes.net](https://threeplanes.net)
- - date_published: 2024-02-08T22:18:53.483749+00:00
-
- ## Welcome to ThreeStooges.net
- - [https://threestooges.net](https://threestooges.net)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## threv.net
- - [https://threv.net](https://threv.net)
- - date_published: 2024-05-09T07:51:25.582911+00:00
-
- ## Add-ons for Thunderbird
- - [https://addons.thunderbird.net](https://addons.thunderbird.net)
- - date_published: 2024-07-10T06:32:12.428927+00:00
-
- ## The Thunderbird Blog -
- - [https://blog.thunderbird.net](https://blog.thunderbird.net)
- - date_published: 2023-10-25T20:38:52.705273+00:00
-
- ## Donations
- - [https://give.thunderbird.net](https://give.thunderbird.net)
- - date_published: 2024-08-06T19:41:43+00:00
-
- ## BigBlueButton
- - [https://meet.thunderbird.net](https://meet.thunderbird.net)
- - date_published: 2024-07-07T10:29:08.206082+00:00
-
- ## Thunderbird Active Daily Installations
- - [https://stats.thunderbird.net](https://stats.thunderbird.net)
- - date_published: 2023-09-21T01:42:09+00:00
-
- ## Thunderbird — Free Your Inbox.
- - [https://thunderbird.net](https://thunderbird.net)
- - date_published: 2024-06-22T19:21:50+00:00
- - tags: ['rss client', 'email client']
-
- ## Thunderbolt Technology Community
- - [https://thunderbolttechnology.net](https://thunderbolttechnology.net)
- - date_published: 2024-05-06T21:50:02.846471+00:00
-
- ## 🌻  thunix  🌻 - main
- - [https://www.thunix.net](https://www.thunix.net)
- - date_published: 2024-07-20T21:10:45.306012+00:00
-
- ## What is in Kelvin's Head?
- - [https://thurible.net](https://thurible.net)
- - date_published: 2024-10-21T15:36:11.077638+00:00
-
- ## Hello World_
- - [https://tianglim.net](https://tianglim.net)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## TibEd.net news
- - [https://www.tibed.net](https://www.tibed.net)
- - date_published: 2024-07-01T09:31:51.101380+00:00
-
- ## Home - Central Tibetan Administration
- - [http://www.tibet.net](http://www.tibet.net)
- - date_published: 2024-10-21T12:05:54.818151+00:00
-
- ## TibiaMagazine. La mejor revista de Tibia
- - [https://www.tibiamagazine.net](https://www.tibiamagazine.net)
- - date_published: 2024-05-06T19:49:28.568472+00:00
- - tags: ['tibia', 'mmorpg']
-
- ## tlog
- - [https://tibonihoo.net](https://tibonihoo.net)
- - date_published: 2024-06-15T19:26:00+00:00
-
- ## Tibor Martini – Experte für Social Media und SEO
- - [https://tibor.net](https://tibor.net)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Accueil - Digital Business Africa
- - [http://www.ticmag.net](http://www.ticmag.net)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Login Redirector
- - [https://stanford.tidemark.net](https://stanford.tidemark.net)
- - date_published: 2024-07-01T20:08:31.570844+00:00
-
- ## Accelerate Your Growth With #1 AI Customer Service | Tidio
- - [https://tidio.net](https://tidio.net)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## ...
- - [https://giz.flow.tiekinetix.net](https://giz.flow.tiekinetix.net)
- - date_published: 2024-07-12T20:13:50.443055+00:00
-
- ## Gui'M la science
- - [https://peertube.tiennot.net](https://peertube.tiennot.net)
- - date_published: 2024-05-09T08:16:26.364102+00:00
-
- ## TIFF - Toronto International Film Festival
- - [http://tiff.net](http://tiff.net)
- - date_published: 2024-08-18T22:38:13.631772+00:00
 

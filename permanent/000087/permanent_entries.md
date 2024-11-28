@@ -1,3 +1,59 @@
+ ## Static site generator for Django - Django Distill
+ - [https://django-distill.com](https://django-distill.com)
+ - date_published: 2024-09-04T03:36:39.362733+00:00
+
+ ## Django In June
+ - [https://djangoinjune.com](https://djangoinjune.com)
+ - date_published: 2024-08-08T12:49:31+00:00
+
+ ## The London Django Meetup Group
+ - [https://djangolondon.com](https://djangolondon.com)
+ - date_published: 2021-05-18T00:00:00+00:00
+
+ ## Django News
+ - [https://django-news.com](https://django-news.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Django News Jobs
+ - [https://jobs.django-news.com](https://jobs.django-news.com)
+ - date_published: 2024-07-13T07:57:59.617974+00:00
+
+ ## Django
+ - [https://code.djangoproject.com](https://code.djangoproject.com)
+ - date_published: 2024-05-01T05:31:01.777698+00:00
+
+ ## Django
+ - [https://dashboard.djangoproject.com](https://dashboard.djangoproject.com)
+ - date_published: 2024-05-01T05:31:11.988538+00:00
+
+ ## Django
+ - [https://djangoproject.com](https://djangoproject.com)
+ - date_published: 2024-05-08T08:57:36.242141+00:00
+
+ ## Django
+ - [https://docs.djangoproject.com](https://docs.djangoproject.com)
+ - date_published: 2023-11-01T08:41:54.093761+00:00
+
+ ## Django Forum
+ - [https://forum.djangoproject.com](https://forum.djangoproject.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Django's Hostel
+ - [https://www.djangoshostel.com](https://www.djangoshostel.com)
+ - date_published: 2024-09-12T17:44:38.574792+00:00
+
+ ## Software Product Development Company | DjangoStars
+ - [https://djangostars.com](https://djangostars.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## alldjango.com
+ - [https://djangostickers.com](https://djangostickers.com)
+ - date_published: 2024-06-27T11:46:14.885461+00:00
+
+ ## Django: Under the Hood 2016
+ - [https://www.djangounderthehood.com](https://www.djangounderthehood.com)
+ - date_published: 2022-09-11T17:55:53+00:00
+
  ## Unicorn
  - [https://django-unicorn.com](https://django-unicorn.com)
  - date_published: 2024-05-06T21:16:57.068695+00:00
@@ -3982,60 +4038,4 @@
  ## Homepage
  - [https://europetraining.doterra.com](https://europetraining.doterra.com)
  - date_published: 2024-09-19T22:08:17.765970+00:00
-
- ## Essential Oils Pure and Natural | dÃï¿½TERRA Essential Oils
- - [https://shop.doterra.com](https://shop.doterra.com)
- - date_published: 2024-09-19T22:08:30.597491+00:00
-
- ## Dot Esports
- - [https://dotesports.com](https://dotesports.com)
- - date_published: 2024-05-03T18:45:30.111498+00:00
-
- ## DOTEXE
- - [https://dotexe.com](https://dotexe.com)
- - date_published: 2024-06-16T01:35:04.411979+00:00
-
- ## Dotfilehub
- - [https://dotfilehub.com](https://dotfilehub.com)
- - date_published: 2024-06-20T21:56:25.248098+00:00
-
- ## Dotfyle | Neovim Plugin Search | Neovim Config Search | Neovim News
- - [https://dotfyle.com](https://dotfyle.com)
- - date_published: 2024-05-06T08:58:06.658782+00:00
-
- ## Dothan United
- - [https://www.dothanunitedsoccer.com](https://www.dothanunitedsoccer.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## DoTheBay | What to do in The Bay Area
- - [http://dothebay.com](http://dothebay.com)
- - date_published: 2024-06-24T05:45:00+00:00
-
- ## Dotless Type not 100 yet extra
- - [https://dotless-type.com](https://dotless-type.com)
- - date_published: 2024-10-27T19:26:57.427247+00:00
-
- ## 403
- - [https://r1.dotmailer-surveys.com](https://r1.dotmailer-surveys.com)
- - date_published: 2024-07-04T17:29:24.235967+00:00
-
- ## DotMana | "First they ignore you, then they laugh at you, then they fight you, then you win." [Mahatma Gandhi]
- - [https://dotmana.com](https://dotmana.com)
- - date_published: 2024-05-09T04:25:42.602292+00:00
-
- ## dotMaps public viewer
- - [https://sanfrancisco-public.dotmapsapp.com](https://sanfrancisco-public.dotmapsapp.com)
- - date_published: 2024-09-16T04:22:44.646026+00:00
-
- ## .Net Code Geeks
- - [https://www.dotnetcodegeeks.com](https://www.dotnetcodegeeks.com)
- - date_published: 2024-06-22T07:46:07.040597+00:00
-
- ## Dotnet 2024: The Developer Event of the Year
- - [https://dotnetconfspain.com](https://dotnetconfspain.com)
- - date_published: 2024-08-11T17:43:40+00:00
-
- ## .NET Core Tutorials – A One-Stop Shop For All Things .NET Core
- - [https://dotnetcoretutorials.com](https://dotnetcoretutorials.com)
- - date_published: 2024-05-01T00:00:00+00:00
 

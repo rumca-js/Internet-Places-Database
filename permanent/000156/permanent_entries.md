@@ -1,3 +1,95 @@
+ ## NFL Football Operations | NFL Football Operations
+ - [https://operations.nfl.com](https://operations.nfl.com)
+ - date_published: 2024-06-21T22:50:17.957698+00:00
+
+ ## Home | NFL Players Community
+ - [https://players.nfl.com](https://players.nfl.com)
+ - date_published: 2024-07-19T21:39:38.563512+00:00
+
+ ## NFL Play Football | Youth Football Information and Local Leagues | NFL Play Football
+ - [https://playfootball.nfl.com](https://playfootball.nfl.com)
+ - date_published: 2024-07-09T13:18:27.778716+00:00
+
+ ## Functions to Calculate Optimal Fourth Down Decisions in the National Football League
+ - [https://www.nfl4th.com](https://www.nfl4th.com)
+ - date_published: 2024-02-11T23:01:05+00:00
+
+ ## The Most Exciting Rookie Class in Years
+ - [https://nflallday.com](https://nflallday.com)
+ - date_published: 2024-09-25T10:40:31.505359+00:00
+
+ ## NFLBite: Reddit NFL Streams Home
+ - [https://watch.nflbite.com](https://watch.nflbite.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Home
+ - [https://nflcommunications.com](https://nflcommunications.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## NFL Extra Points Visa® Credit Card
+ - [https://nflextrapoints.com](https://nflextrapoints.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## An R package to quickly obtain clean and tidy NFL play by play data
+ - [https://www.nflfastr.com](https://www.nflfastr.com)
+ - date_published: 2024-05-06T23:04:56.220027+00:00
+
+ ## NFL.com | Official Site of the National Football League
+ - [https://www.nflfilms.com](https://www.nflfilms.com)
+ - date_published: 2024-07-19T21:39:51.664834+00:00
+
+ ## NFL FLAG Football | Youth Flag Football Around the World
+ - [https://nflflag.com](https://nflflag.com)
+ - date_published: 2024-07-19T21:39:34.689062+00:00
+
+ ## 2024 Week 1
+ - [http://nflgamedata.com](http://nflgamedata.com)
+ - date_published: 2024-06-28T16:15:15.418847+00:00
+
+ ## NFL Live Stream Free Online-NFLStreams - NFL hunter
+ - [https://nflhunter.com](https://nflhunter.com)
+ - date_published: 2024-11-12T17:05:14.121890+00:00
+
+ ## Access to this page has been denied.
+ - [https://nflonlocation.com](https://nflonlocation.com)
+ - date_published: 2024-06-21T22:49:36.372092+00:00
+
+ ## NFL Players Association
+ - [http://www.nflpa.com](http://www.nflpa.com)
+ - date_published: 2024-07-18T04:49:04.432995+00:00
+
+ ## NFL PLAYER CARE FOUNDATION
+ - [http://www.nflplayercare.com](http://www.nflplayercare.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## NFL Full Game Replays Free
+ - [https://nfl-replays.com](https://nfl-replays.com)
+ - date_published: 2024-11-12T16:10:13+00:00
+
+ ## Functions to Efficiently Simulate and Evaluate NFL Seasons
+ - [https://nflseedr.com](https://nflseedr.com)
+ - date_published: 2024-06-19T17:56:52+00:00
+
+ ## NFL Shop - The Official Online Shop of the NFL | 2024 NFL Nike Gear, NFL Apparel & NFL Merchandise
+ - [https://www.nflshop.com](https://www.nflshop.com)
+ - date_published: 2024-06-21T22:50:00.826031+00:00
+
+ ## nflplotR • Plot NFL Team Logos
+ - [https://nflplotr.nflverse.com](https://nflplotr.nflverse.com)
+ - date_published: 2024-03-25T15:55:04+00:00
+
+ ## nflreadr • Download nflverse Data
+ - [https://nflreadr.nflverse.com](https://nflreadr.nflverse.com)
+ - date_published: 2024-03-26T18:39:19+00:00
+
+ ## nflverse • Data and Tools for NFL Analytics
+ - [https://nflverse.nflverse.com](https://nflverse.nflverse.com)
+ - date_published: 2023-08-14T14:01:53+00:00
+
+ ## NFL Video - NFL Full Game Replays, Highlights, Condensed Games Free
+ - [https://nfl-video.com](https://nfl-video.com)
+ - date_published: 2024-11-12T17:02:56+00:00
+
  ## Potsdam NY Hotel
  - [https://www.nfmotel.com](https://www.nfmotel.com)
  - date_published: 2024-07-06T23:48:04.778718+00:00
@@ -3988,97 +4080,4 @@ Isacsson
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://img.noblechairs.com](https://img.noblechairs.com)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## The gaming chair evolution!
- - [https://www.noblechairs.com](https://www.noblechairs.com)
- - date_published: 2024-07-01T07:42:41.906199+00:00
-
- ## Noble Desktop | Design & Coding Classes and Certificate Programs
- - [https://www.nobledesktop.com](https://www.nobledesktop.com)
- - date_published: 2024-05-04T14:02:54.090338+00:00
-
- ## Home - Noble Intent Studio
- - [https://nobleintentstudio.com](https://nobleintentstudio.com)
- - date_published: 2024-10-18T21:41:21.156847+00:00
-
- ## Noble Knight Games
- - [https://au.nobleknight.com](https://au.nobleknight.com)
- - date_published: 2024-07-11T15:29:19.658182+00:00
-
- ## Noble Knight Games
- - [https://ca.nobleknight.com](https://ca.nobleknight.com)
- - date_published: 2024-07-11T15:29:24.131847+00:00
-
- ## Noble Knight Games
- - [https://eu.nobleknight.com](https://eu.nobleknight.com)
- - date_published: 2024-01-19T09:34:57+00:00
- - tags: ['wargames', 'tabletop games']
-
- ## Noble Knight Games
- - [https://jp.nobleknight.com](https://jp.nobleknight.com)
- - date_published: 2024-07-11T15:29:15.138621+00:00
-
- ## Noble Knight Gaming Hall
- - [https://play.nobleknight.com](https://play.nobleknight.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Noble Knight Games
- - [https://uk.nobleknight.com](https://uk.nobleknight.com)
- - date_published: 2024-07-11T15:29:28.608096+00:00
-
- ## Noble Knight Games
- - [https://www.nobleknight.com](https://www.nobleknight.com)
- - date_published: 2024-07-02T21:44:54.992433+00:00
-
- ## Noble Predictive Insights | Full Service Market Research Company
- - [https://www.noblepredictiveinsights.com](https://www.noblepredictiveinsights.com)
- - date_published: 2024-06-29T10:52:31.312052+00:00
-
- ## RADICAL BOARD GAMES - No Board Games
- - [http://noboardgames.com](http://noboardgames.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Nobody Likes a Math Geek
- - [https://nobodylikesamathgeek.com](https://nobodylikesamathgeek.com)
- - date_published: 2024-10-20T15:03:46.845904+00:00
-
- ## Nobody Reads Ads: Archive of print & outdoor ads
- - [https://nobodyreadsads.com](https://nobodyreadsads.com)
- - date_published: 2024-09-14T22:43:08.757503+00:00
-
- ## Nobody's Darling | Elevated cocktails, upbeat vibes
- - [https://www.nobodysdarlingbar.com](https://www.nobodysdarlingbar.com)
- - date_published: 2024-09-16T09:52:37.087026+00:00
-
- ## Home
- - [https://noboxgames.com](https://noboxgames.com)
- - date_published: 2022-07-15T16:31:22+00:00
-
- ## No Brakes Games
- - [https://www.nobrakesgames.com](https://www.nobrakesgames.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## No Bullshit Bitcoin
- - [https://www.nobsbitcoin.com](https://www.nobsbitcoin.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## No Bullshit Guide to Math
- - [https://nobsmath.com](https://nobsmath.com)
- - date_published: 2024-09-04T04:54:04.174808+00:00
-
- ## No BS Technologies Inc. Tsawwassen, Delta
- - [https://no-bs-repairs.com](https://no-bs-repairs.com)
- - date_published: 2024-07-04T19:08:20+00:00
-
- ## No BS - A lean UX & Product studio
- - [https://nobsstudio.com](https://nobsstudio.com)
- - date_published: 2023-12-12T00:00:00+00:00
-
- ## Nobswall – Rekomendasi Game Seru dan Populer di Ponsel Android
- - [https://nobswall.com](https://nobswall.com)
- - date_published: 2024-08-20T03:59:41.043617+00:00
-
- ## Fabrice Aneche
- - [https://blog.nobugware.com](https://blog.nobugware.com)
- - date_published: 2023-10-25T16:20:57.612868+00:00
 

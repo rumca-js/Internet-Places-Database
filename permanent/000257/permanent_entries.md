@@ -1,3 +1,223 @@
+ ## University Libraries
+ - [https://library.web.baylor.edu](https://library.web.baylor.edu)
+ - date_published: 2023-06-05T15:07:00+00:00
+
+ ## Collegiate Licensing
+ - [https://licensing.web.baylor.edu](https://licensing.web.baylor.edu)
+ - date_published: 2022-04-21T10:16:00+00:00
+
+ ## Fall 2023 Arts & Sciences Magazine
+ - [https://magazine.artsandsciences.baylor.edu](https://magazine.artsandsciences.baylor.edu)
+ - date_published: 2023-11-02T10:10:00+00:00
+
+ ## Summer 2024
+ - [https://magazine.web.baylor.edu](https://magazine.web.baylor.edu)
+ - date_published: 2024-05-21T12:55:00+00:00
+
+ ## Campus Map | Baylor University
+ - [https://map.baylor.edu](https://map.baylor.edu)
+ - date_published: 2024-04-30T03:15:46.144930+00:00
+
+ ## Marketing and Communications
+ - [https://marketing.web.baylor.edu](https://marketing.web.baylor.edu)
+ - date_published: 2021-08-09T16:33:00+00:00
+
+ ## Martin Museum of Art
+ - [https://martinmuseum.artsandsciences.baylor.edu](https://martinmuseum.artsandsciences.baylor.edu)
+ - date_published: 2022-08-31T11:22:00+00:00
+
+ ## MA in School Leadership
+ - [https://maschoolleadership.soe.baylor.edu](https://maschoolleadership.soe.baylor.edu)
+ - date_published: 2023-02-14T10:24:00+00:00
+
+ ## Mathematics
+ - [https://math.artsandsciences.baylor.edu](https://math.artsandsciences.baylor.edu)
+ - date_published: 2023-05-19T13:01:00+00:00
+
+ ## Mayborn Museum
+ - [https://mayborn.web.baylor.edu](https://mayborn.web.baylor.edu)
+ - date_published: 2023-04-05T16:13:00+00:00
+
+ ## McMullen-Connally Family Collection
+ - [https://mcmullen.web.baylor.edu](https://mcmullen.web.baylor.edu)
+ - date_published: 2022-10-26T11:46:00+00:00
+
+ ## McNair Scholars
+ - [https://mcnairscholars.web.baylor.edu](https://mcnairscholars.web.baylor.edu)
+ - date_published: 2022-06-07T10:17:00+00:00
+
+ ## mediaspace
+ - [https://mediaspace.baylor.edu](https://mediaspace.baylor.edu)
+ - date_published: 2024-08-19T18:28:26+00:00
+
+ ## Medical Humanities
+ - [https://medicalhumanities.artsandsciences.baylor.edu](https://medicalhumanities.artsandsciences.baylor.edu)
+ - date_published: 2022-07-12T15:55:00+00:00
+
+ ## Major Exploration & Success Advising
+ - [https://mesa.web.baylor.edu](https://mesa.web.baylor.edu)
+ - date_published: 2022-09-23T16:50:00+00:00
+
+ ## Military-Baylor Home
+ - [https://military.robbins.baylor.edu](https://military.robbins.baylor.edu)
+ - date_published: 2023-04-14T16:03:00+00:00
+
+ ## Military Studies
+ - [https://militarystudies.artsandsciences.baylor.edu](https://militarystudies.artsandsciences.baylor.edu)
+ - date_published: 2022-12-05T08:51:00+00:00
+
+ ## Ministry Positions
+ - [https://ministryconnections.truettseminary.baylor.edu](https://ministryconnections.truettseminary.baylor.edu)
+ - date_published: 2024-05-22T09:20:00+00:00
+
+ ## Home
+ - [https://missions.web.baylor.edu](https://missions.web.baylor.edu)
+ - date_published: 2023-06-12T08:47:00+00:00
+
+ ## Modern Languages & Cultures
+ - [https://mlc.artsandsciences.baylor.edu](https://mlc.artsandsciences.baylor.edu)
+ - date_published: 2023-05-04T10:33:00+00:00
+
+ ## Model Organization of American States (MOAS)
+ - [https://moas.artsandsciences.baylor.edu](https://moas.artsandsciences.baylor.edu)
+ - date_published: 2023-08-01T15:18:00+00:00
+
+ ## Modernizing Water and Wastewater Treatment through Data Science Education and Research
+ - [https://mowater.web.baylor.edu](https://mowater.web.baylor.edu)
+ - date_published: 2022-10-04T13:50:00+00:00
+
+ ## Multicultural Affairs
+ - [https://multicultural.web.baylor.edu](https://multicultural.web.baylor.edu)
+ - date_published: 2021-10-11T11:38:00+00:00
+
+ ## Museum Studies
+ - [https://museumstudies.artsandsciences.baylor.edu](https://museumstudies.artsandsciences.baylor.edu)
+ - date_published: 2022-12-15T13:32:00+00:00
+
+ ## School of Music Home Page
+ - [https://music.baylor.edu](https://music.baylor.edu)
+ - date_published: 2023-07-20T08:55:00+00:00
+
+ ## NCAA Decision
+ - [https://ncaa.web.baylor.edu](https://ncaa.web.baylor.edu)
+ - date_published: 2022-05-24T13:02:00+00:00
+
+ ## Media and Public Relations
+ - [https://news.web.baylor.edu](https://news.web.baylor.edu)
+ - date_published: 2023-01-03T14:16:00+00:00
+
+ ## New Student Experience
+ - [https://nse.web.baylor.edu](https://nse.web.baylor.edu)
+ - date_published: 2023-01-04T14:01:00+00:00
+
+ ## New Student Programs
+ - [https://nsp.web.baylor.edu](https://nsp.web.baylor.edu)
+ - date_published: 2023-02-17T16:39:00+00:00
+
+ ## Louise Herrington School of Nursing
+ - [https://nursing.baylor.edu](https://nursing.baylor.edu)
+ - date_published: 2023-07-12T15:37:00+00:00
+
+ ## Office of Access and Learning Accommodation
+ - [https://oala.web.baylor.edu](https://oala.web.baylor.edu)
+ - date_published: 2023-04-11T15:47:00+00:00
+
+ ## Outdoor Adventure Living-Learning Community
+ - [https://oallc.web.baylor.edu](https://oallc.web.baylor.edu)
+ - date_published: 2022-10-28T11:28:00+00:00
+
+ ## Office of General Counsel
+ - [https://ogc.web.baylor.edu](https://ogc.web.baylor.edu)
+ - date_published: 2022-02-21T13:28:00+00:00
+
+ ## One Stop Student Services
+ - [https://onestop.web.baylor.edu](https://onestop.web.baylor.edu)
+ - date_published: 2022-11-21T13:40:00+00:00
+
+ ## Online Masters in Computer Science – Software Engineering Track
+ - [https://onlinecs.baylor.edu](https://onlinecs.baylor.edu)
+ - date_published: 2020-02-11T00:26:35+00:00
+
+ ## MBA
+ - [http://onlinemasters.baylor.edu](http://onlinemasters.baylor.edu)
+ - date_published: 2023-09-06T08:36:00+00:00
+
+ ## Homepage | Baylor University Online
+ - [https://onlinenursing.baylor.edu](https://onlinenursing.baylor.edu)
+ - date_published: 2024-08-19T14:37:35+00:00
+
+ ## Online Programs
+ - [https://online.soe.baylor.edu](https://online.soe.baylor.edu)
+ - date_published: 2024-07-08T11:12:00+00:00
+
+ ## Organizational Chart | Baylor University
+ - [https://orgchart.web.baylor.edu](https://orgchart.web.baylor.edu)
+ - date_published: 2022-03-03T10:16:00+00:00
+
+ ## Occupational Therapy
+ - [https://otd.robbins.baylor.edu](https://otd.robbins.baylor.edu)
+ - date_published: 2022-12-02T16:06:00+00:00
+
+ ## Baylor Parent Engagement
+ - [https://parents.web.baylor.edu](https://parents.web.baylor.edu)
+ - date_published: 2021-12-08T12:47:00+00:00
+
+ ## ERROR: HTTP 403
+ - [https://pay.baylor.edu](https://pay.baylor.edu)
+ - date_published: 2012-06-27T14:07:44+00:00
+
+ ## Payroll Services
+ - [https://payroll.web.baylor.edu](https://payroll.web.baylor.edu)
+ - date_published: 2022-10-25T12:36:00+00:00
+
+ ## PCI Compliance
+ - [https://pci.web.baylor.edu](https://pci.web.baylor.edu)
+ - date_published: 2022-02-15T15:31:00+00:00
+
+ ## Phi Beta Kappa
+ - [https://phibetakappa.artsandsciences.baylor.edu](https://phibetakappa.artsandsciences.baylor.edu)
+ - date_published: 2022-11-01T11:24:00+00:00
+
+ ## Home
+ - [https://philosophy.artsandsciences.baylor.edu](https://philosophy.artsandsciences.baylor.edu)
+ - date_published: 2022-09-09T15:37:00+00:00
+
+ ## Physical Therapy
+ - [https://physicaltherapy.robbins.baylor.edu](https://physicaltherapy.robbins.baylor.edu)
+ - date_published: 2022-12-02T12:26:00+00:00
+
+ ## Physician Assistant Studies
+ - [https://physicianassistant.robbins.baylor.edu](https://physicianassistant.robbins.baylor.edu)
+ - date_published: 2024-03-19T10:09:00+00:00
+
+ ## Home
+ - [https://physics.artsandsciences.baylor.edu](https://physics.artsandsciences.baylor.edu)
+ - date_published: 2023-10-16T09:50:00+00:00
+
+ ## Piper Center for Family Studies and Child Development
+ - [https://piper.web.baylor.edu](https://piper.web.baylor.edu)
+ - date_published: 2022-01-07T15:15:00+00:00
+
+ ## Home
+ - [https://politicalscience.artsandsciences.baylor.edu](https://politicalscience.artsandsciences.baylor.edu)
+ - date_published: 2023-08-04T16:09:00+00:00
+
+ ## PreHealth
+ - [https://prehealth.web.baylor.edu](https://prehealth.web.baylor.edu)
+ - date_published: 2023-09-15T10:46:00+00:00
+
+ ## Pre-Law
+ - [https://prelaw.web.baylor.edu](https://prelaw.web.baylor.edu)
+ - date_published: 2022-10-20T16:55:00+00:00
+
+ ## Presidential Search
+ - [https://presidentsearch.web.baylor.edu](https://presidentsearch.web.baylor.edu)
+ - date_published: 2023-03-17T13:55:00+00:00
+
+ ## Office of the President
+ - [https://president.web.baylor.edu](https://president.web.baylor.edu)
+ - date_published: 2022-10-21T15:42:00+00:00
+
  ## Principia: A Journal of Classical Education
  - [https://principia.artsandsciences.baylor.edu](https://principia.artsandsciences.baylor.edu)
  - date_published: 2023-03-08T11:13:00+00:00
@@ -3792,229 +4012,4 @@
  ## Geomechanics and Mitigation of Geohazards Center
  - [https://gmg.caltech.edu](https://gmg.caltech.edu)
  - date_published: 2024-07-22T06:22:14.837482+00:00
-
- ## Geomechanics and Mitigation of Geohazards Center
- - [https://gmg.sites.caltech.edu](https://gmg.sites.caltech.edu)
- - date_published: 2024-04-30T03:44:39.934733+00:00
-
- ## CTME | Home
- - [https://go.ctme.caltech.edu](https://go.ctme.caltech.edu)
- - date_published: 2024-07-22T06:27:15.038481+00:00
-
- ## Home
- - [https://gps70.divisions.caltech.edu](https://gps70.divisions.caltech.edu)
- - date_published: 2024-07-22T06:51:38+00:00
-
- ## Home
- - [https://gps.caltech.edu](https://gps.caltech.edu)
- - date_published: 2024-04-30T03:42:40.438300+00:00
-
- ## Graduate Studies
- - [https://gradoffice.caltech.edu](https://gradoffice.caltech.edu)
- - date_published: 2024-07-15T02:36:57.378458+00:00
-
- ## Graduate Studies
- - [https://gradoffice.sites.caltech.edu](https://gradoffice.sites.caltech.edu)
- - date_published: 2024-07-15T02:39:40.034230+00:00
-
- ## Graduate Women in CMS
- - [https://grad-wicms.caltech.edu](https://grad-wicms.caltech.edu)
- - date_published: 2024-07-15T02:36:43.673068+00:00
-
- ## Caltech GSC
- - [https://gsc.caltech.edu](https://gsc.caltech.edu)
- - date_published: 2024-07-13T02:38:12+00:00
-
- ## Home | Caltech HEA Group
- - [https://heag.caltech.edu](https://heag.caltech.edu)
- - date_published: 2024-06-28T22:22:15+00:00
-
- ## Web Help Desk
- - [https://help.caltech.edu](https://help.caltech.edu)
- - date_published: 2024-01-31T08:02:41+00:00
-
- ## The Caltech Heritage Project
- - [https://heritageproject.caltech.edu](https://heritageproject.caltech.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## The Caltech Heritage Project
- - [https://heritageproject.sites.caltech.edu](https://heritageproject.sites.caltech.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Housing Office
- - [https://housing70.sites.caltech.edu](https://housing70.sites.caltech.edu)
- - date_published: 2024-07-22T06:27:25.615321+00:00
-
- ## Housing Office
- - [https://housing.caltech.edu](https://housing.caltech.edu)
- - date_published: 2024-04-30T03:43:33.441422+00:00
-
- ## Welcome
- - [https://hr70.divisions.caltech.edu](https://hr70.divisions.caltech.edu)
- - date_published: 2024-07-22T18:48:51+00:00
-
- ## Welcome
- - [https://hr.caltech.edu](https://hr.caltech.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome
- - [https://hss70.divisions.caltech.edu](https://hss70.divisions.caltech.edu)
- - date_published: 2024-07-22T18:48:39+00:00
-
- ## Welcome
- - [https://hss.caltech.edu](https://hss.caltech.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Communications, Education & Outreach at IPAC | IPAC
- - [http://ice.ipac.caltech.edu](http://ice.ipac.caltech.edu)
- - date_published: 2024-08-11T07:14:30.201169+00:00
-
- ## The Caltech Identity
- - [https://identity.caltech.edu](https://identity.caltech.edu)
- - date_published: 2024-06-16T08:15:53.332394+00:00
-
- ## Index of /
- - [http://imaging.cms.caltech.edu](http://imaging.cms.caltech.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Information Management Systems and Services
- - [https://imss.caltech.edu](https://imss.caltech.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Inclusion, Diversity, Equity, and Accessibility
- - [https://inclusive.caltech.edu](https://inclusive.caltech.edu)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## WebHome < Main < CMS Wiki
- - [https://info.cms.caltech.edu](https://info.cms.caltech.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## home
-        
-        
-        
-        - initiativeforstudents.caltech.edu
- - [https://initiativeforstudents.caltech.edu](https://initiativeforstudents.caltech.edu)
- - date_published: 2024-07-22T07:03:40.276330+00:00
-
- ## Innovation
- - [https://innovation.caltech.edu](https://innovation.caltech.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## International Offices
- - [https://international.caltech.edu](https://international.caltech.edu)
- - date_published: 2024-04-30T03:33:21.897363+00:00
-
- ## International Offices
- - [https://international.sites.caltech.edu](https://international.sites.caltech.edu)
- - date_published: 2024-07-22T07:04:26.789689+00:00
-
- ## IPAC
- - [https://ipac.caltech.edu](https://ipac.caltech.edu)
- - date_published: 2024-04-30T03:41:12.325090+00:00
-
- ## Institute for Quantum Information and Matter
- - [https://iqim.caltech.edu](https://iqim.caltech.edu)
- - date_published: 2024-04-30T03:44:46.586502+00:00
-
- ## IRSA
- - [http://irsa.ipac.caltech.edu](http://irsa.ipac.caltech.edu)
- - date_published: 2024-06-27T01:10:16+00:00
-
- ## Information Science and Technology
- - [https://ist.caltech.edu](https://ist.caltech.edu)
- - date_published: 2023-06-01T23:43:14+00:00
-
- ## Jacobs Institute
- - [https://jacobsinstitute.caltech.edu](https://jacobsinstitute.caltech.edu)
- - date_published: 2024-04-30T03:35:14.450878+00:00
-
- ## Jacobs Institute
- - [https://jacobsinstitute.sites.caltech.edu](https://jacobsinstitute.sites.caltech.edu)
- - date_published: 2024-07-22T06:55:27.753118+00:00
-
- ## Kaushik Bhattacharya's 60th
- - [https://kb60.caltech.edu](https://kb60.caltech.edu)
- - date_published: 2024-07-15T02:37:54.417261+00:00
-
- ## Keck Institute for Space Studies
- - [https://kiss.caltech.edu](https://kiss.caltech.edu)
- - date_published: 2024-04-30T03:43:09.292828+00:00
-
- ## Kerckhoff Marine Laboratory
- - [https://kml.caltech.edu](https://kml.caltech.edu)
- - date_published: 2024-07-22T06:26:33.381118+00:00
-
- ## The Kavli Nanoscience Institute at Caltech
- - [https://kni.caltech.edu](https://kni.caltech.edu)
- - date_published: 2024-04-30T03:35:28.688559+00:00
-
- ## The Kavli Nanoscience Institute at Caltech
- - [https://kni.divisions.caltech.edu](https://kni.divisions.caltech.edu)
- - date_published: 2024-07-22T06:54:14+00:00
-
- ## Kronos Workforce Central(R)
- - [https://kron-prod-app1.caltech.edu](https://kron-prod-app1.caltech.edu)
- - date_published: 2024-08-19T21:21:00.489664+00:00
-
- ## Online Learning
- - [http://learn.caltech.edu](http://learn.caltech.edu)
- - date_published: 2024-07-22T06:26:22.205820+00:00
-
- ## LibAnswers - LibAnswers
- - [https://libanswers.caltech.edu](https://libanswers.caltech.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## LibCal -
-        Caltech Library
- - [https://libcal.caltech.edu](https://libcal.caltech.edu)
- - date_published: 2024-07-22T06:53:52.539365+00:00
-
- ## Library: Library Home: Home
- - [https://libguides.caltech.edu](https://libguides.caltech.edu)
- - date_published: 2024-04-30T03:32:52.584340+00:00
-
- ## Library: Library Home: Home
- - [https://library.caltech.edu](https://library.caltech.edu)
- - date_published: 2024-04-30T03:33:06.338070+00:00
-
- ## LIGO Lab | Caltech | MIT
- - [https://ligo.caltech.edu](https://ligo.caltech.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## The Linde Center
- - [https://lindecenter.caltech.edu](https://lindecenter.caltech.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## The Linde Center
- - [https://lindecenter.sites.caltech.edu](https://lindecenter.sites.caltech.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## The Linde Institute
- - [https://lindeinstitute70.sites.caltech.edu](https://lindeinstitute70.sites.caltech.edu)
- - date_published: 2024-07-20T22:40:12.584790+00:00
-
- ## The Linde Institute
- - [https://lindeinstitute.caltech.edu](https://lindeinstitute.caltech.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Light-Material Interactions in Energy Conversion - Energy Frontier Research Center (LMI-EFRC)
- - [https://lmi.caltech.edu](https://lmi.caltech.edu)
- - date_published: 2017-07-12T20:54:29+00:00
-
- ## Local community engagement
- - [https://local.caltech.edu](https://local.caltech.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Caltech Magazine
- - [https://magazine.caltech.edu](https://magazine.caltech.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Mail Services
- - [https://mailservices.caltech.edu](https://mailservices.caltech.edu)
- - date_published: 2024-07-22T06:51:24.905180+00:00
-
- ## Autoloading...please wait.
- - [http://math.caltech.edu](http://math.caltech.edu)
- - date_published: 2015-01-25T20:09:03+00:00
 

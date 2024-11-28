@@ -1,3 +1,11 @@
+ ## 新西兰奥克兰大学中文网站
+ - [https://www.uniauckland.cn](https://www.uniauckland.cn)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## 优傲机器人_协作机器人_机械手臂
+ - [https://www.universal-robots.cn](https://www.universal-robots.cn)
+ - date_published: 2024-01-15T00:00:00+00:00
+
  ## University of Exeter - 欢迎访问英国埃克塞特大学中文官网
  - [https://www.universityofexeter.cn](https://www.universityofexeter.cn)
  - date_published: 2024-05-02T10:54:19.496078+00:00
@@ -4000,12 +4008,4 @@ _中国网
  ## 北京理工大学迎新网
  - [http://hi.bit.edu.cn](http://hi.bit.edu.cn)
  - date_published: 2024-07-11T00:00:00+00:00
-
- ## 智慧北理统一门户
- - [http://i.bit.edu.cn](http://i.bit.edu.cn)
- - date_published: 2024-08-07T13:36:35.115960+00:00
-
- ## 北京理工大学国际交流合作处
- - [https://international.bit.edu.cn](https://international.bit.edu.cn)
- - date_published: 2024-06-14T00:00:00+00:00
 

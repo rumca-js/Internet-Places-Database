@@ -1,3 +1,24 @@
+ ## U.S. Air Force
+ - [https://www.airforce.com](https://www.airforce.com)
+ - date_published: 2024-04-18T17:03:48+00:00
+ - tags: ['avionics', 'aviation', 'aerospace']
+
+ ## Air Force Auxiliary
+ - [https://www.airforceaux.com](https://www.airforceaux.com)
+ - date_published: 2024-06-26T11:34:31.002663+00:00
+
+ ## Home | Air & Space Forces Magazine
+ - [https://www.airforcemag.com](https://www.airforcemag.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Your aviation destination
+ - [http://www.airforcesdaily.com](http://www.airforcesdaily.com)
+ - date_published: 2024-07-09T22:07:44.460081+00:00
+
+ ## AirForces Intelligence
+ - [http://www.airforcesintel.com](http://www.airforcesintel.com)
+ - date_published: 2024-07-09T22:00:58.273846+00:00
+
  ## AirForces Daily | Military Aviation…At Your Fingertips
  - [http://www.airforcesmonthly.com](http://www.airforcesmonthly.com)
  - date_published: 2024-07-09T22:05:03.778691+00:00
@@ -4045,24 +4066,4 @@
  ## الرئيسية - جريدة الغد | مصدرك الأول لأخبار الأردن والعالم
  - [https://alghad.com](https://alghad.com)
  - date_published: 2024-05-06T15:25:22.129652+00:00
-
- ## Alghad newspaper
- - [https://legacy.alghad.com](https://legacy.alghad.com)
- - date_published: 2024-06-23T21:46:56.370066+00:00
-
- ## دليل الغد للتعلم
- - [https://taleem.alghad.com](https://taleem.alghad.com)
- - date_published: 2024-06-03T17:09:52+00:00
-
- ## Algiers - Shook
- - [https://algierstheband.com](https://algierstheband.com)
- - date_published: 2024-02-08T17:42:26.570971+00:00
-
- ## Aviation Leasing Group (ALG) — Farhad Azima
- - [http://www.algkc.com](http://www.algkc.com)
- - date_published: 2024-07-09T22:17:32.503111+00:00
-
- ## AlgoDaily - Daily coding interview questions. Full programming interview prep course and software career coaching.
- - [https://algodaily.com](https://algodaily.com)
- - date_published: 2024-10-31T05:11:36.575903+00:00
 

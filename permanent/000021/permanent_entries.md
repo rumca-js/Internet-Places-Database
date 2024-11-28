@@ -1,3 +1,11 @@
+ ## Gran Teatre del Liceu
+ - [https://www.liceubarcelona.cat](https://www.liceubarcelona.cat)
+ - date_published: 2024-09-19T01:37:26.886929+00:00
+
+ ## Inici - Localret
+ - [http://www.localret.cat](http://www.localret.cat)
+ - date_published: 2024-09-12T00:00:00+00:00
+
  ## mastodont.cat, cultura catalana.
  - [https://mastodont.cat](https://mastodont.cat)
  - date_published: 2024-05-09T08:22:54.387775+00:00
@@ -4028,12 +4036,4 @@
  ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
  - [https://bilan.ch](https://bilan.ch)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Einen Moment bitte, die Ausgabe wird geladen...
- - [https://epaper.bilan.ch](https://epaper.bilan.ch)
- - date_published: 2024-07-22T17:33:46.279591+00:00
-
- ## Bilan
- - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
- - date_published: 2023-07-23T17:33:42+00:00
 

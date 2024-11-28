@@ -1,3 +1,67 @@
+ ## Generation Tech | Jean M. Twenge | Substack
+ - [https://www.generationtechblog.com](https://www.generationtechblog.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Generation Wealth
+ - [http://www.generation-wealth.com](http://www.generation-wealth.com)
+ - date_published: 2024-07-13T14:40:31.429510+00:00
+
+ ## Generative Artistry
+ - [https://generativeartistry.com](https://generativeartistry.com)
+ - date_published: 2024-05-06T18:13:15.138595+00:00
+
+ ## Generative Hut, home of generative art and pen plotters
+ - [https://www.generativehut.com](https://www.generativehut.com)
+ - date_published: 2024-07-02T20:18:09.740630+00:00
+
+ ## GeneratorFun - AI Generation of Random Names, Text, Jokes, and More.
+ - [https://generatorfun.com](https://generatorfun.com)
+ - date_published: 2024-06-19T21:23:09.825424+00:00
+
+ ## Name Generator Central: GeneratorLand.com
+ - [http://www.generatorland.com](http://www.generatorland.com)
+ - date_published: 2024-07-04T13:18:56.949479+00:00
+
+ ## Generator XYZ
+ - [https://www.generatorxyz.com](https://www.generatorxyz.com)
+ - date_published: 2023-12-05T16:18:32+00:00
+
+ ## Leads Search Engine | Generect
+ - [https://generect.com](https://generect.com)
+ - date_published: 2024-10-30T15:59:31+00:00
+
+ ## Adri Mills
+ - [https://genericgeekgirl.com](https://genericgeekgirl.com)
+ - date_published: 2024-06-20T20:30:34+00:00
+
+ ## Generic Node - The Things Industries
+ - [https://www.genericnode.com](https://www.genericnode.com)
+ - date_published: 2021-06-23T00:00:00+00:00
+
+ ## Generous Benefits – Employee Benefits for Thoughtful Employers
+ - [https://generousbenefits.com](https://generousbenefits.com)
+ - date_published: 2024-09-25T05:07:59+00:00
+
+ ## Best Life Insurance Quotes When You Need Them - Genesage
+ - [http://www.genesage.com](http://www.genesage.com)
+ - date_published: 2015-08-13T15:47:45+00:00
+
+ ## Genes & Cancer | Promoting rapid dissemination of cancer research
+ - [https://www.genesandcancer.com](https://www.genesandcancer.com)
+ - date_published: 2024-06-27T15:03:02.648255+00:00
+
+ ## Genesis Owners Homepage | MyGenesis
+ - [https://owners.genesis.com](https://owners.genesis.com)
+ - date_published: 2024-08-05T22:10:38.533819+00:00
+
+ ## GENESIS - GV60, GV70, GV80, G70, G80, G90 | GENESIS Worldwide
+ - [https://www.genesis.com](https://www.genesis.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Genesis - The history of a rock band
+ - [https://genesis-band.com](https://genesis-band.com)
+ - date_published: 2023-11-13T10:42:27.434524+00:00
+
  ## Getting Started | Genesis Cloud Developers
  - [https://developers.genesiscloud.com](https://developers.genesiscloud.com)
  - date_published: 2024-09-25T14:30:03.932819+00:00
@@ -3243,6 +3307,11 @@ Homepage
  - [https://sa.getroster.com](https://sa.getroster.com)
  - date_published: 2024-07-02T05:05:54.098273+00:00
 
+ ## Podcast RSS Feed Extractor - Convert Spotify & Apple Podcasts to RSS
+ - [https://get-rss.com](https://get-rss.com)
+ - date_published: 2024-11-27T22:15:29+00:00
+ - tags: ['online tool', 'rss']
+
  ## GetRTB - Ad Exchange Solution for oRTB Monetization
  - [https://getrtb.com](https://getrtb.com)
  - date_published: 2022-12-26T11:05:57+00:00
@@ -3966,72 +4035,4 @@ Homepage
  ## r2t2
  - [https://r2t2.ggerganov.com](https://r2t2.ggerganov.com)
  - date_published: 2021-04-18T10:50:26+00:00
-
- ## Slack (TUI) - Text-based mock UI
- - [https://slack.ggerganov.com](https://slack.ggerganov.com)
- - date_published: 2022-07-25T17:32:01+00:00
-
- ## Spectrogram
- - [https://spectrogram.ggerganov.com](https://spectrogram.ggerganov.com)
- - date_published: 2021-05-17T18:58:48+00:00
-
- ## The Story
- - [https://the-story.ggerganov.com](https://the-story.ggerganov.com)
- - date_published: 2022-03-13T11:18:15+00:00
-
- ## Wave-gui: Emscripten port
- - [https://wave-gui.ggerganov.com](https://wave-gui.ggerganov.com)
- - date_published: 2018-11-17T15:00:00+00:00
-
- ## Waver
- - [https://waver.ggerganov.com](https://waver.ggerganov.com)
- - date_published: 2022-07-10T15:14:45+00:00
-
- ## whisper.cpp : WASM example
- - [https://whisper.ggerganov.com](https://whisper.ggerganov.com)
- - date_published: 2023-05-20T17:01:11+00:00
-
- ## Уърдъл - Ежедневна игра на думи
- - [https://wordle-bg.ggerganov.com](https://wordle-bg.ggerganov.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## wtf-tui : text-based UI for wtf
- - [https://wtf-tui.ggerganov.com](https://wtf-tui.ggerganov.com)
- - date_published: 2020-12-07T09:24:59+00:00
-
- ## Go Get Em Tiger — Home
- - [https://gget.com](https://gget.com)
- - date_published: 2024-07-02T21:52:25+00:00
-
- ## ggfargro | Great Global Development Foundation
- - [http://www.ggfagro.com](http://www.ggfagro.com)
- - date_published: 2024-10-29T16:50:05.134678+00:00
-
- ## Fieldshop by Garden & Gun
- - [https://ggfieldshop.com](https://ggfieldshop.com)
- - date_published: 2024-05-04T07:26:36.702583+00:00
-
- ## Strict Machine
- - [http://gggritso.com](http://gggritso.com)
- - date_published: 2020-10-17T00:00:00+00:00
-
- ## GGLOT: Superior Audio Transcription & Video Subtitles Solution
- - [https://gglot.com](https://gglot.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Greg Gilbert's notes
- - [https://www.ggnotes.com](https://www.ggnotes.com)
- - date_published: 2024-06-22T17:22:29.528465+00:00
-
- ## GGNETWORK • Любимые игры уже здесь
- - [https://ggntw.com](https://ggntw.com)
- - date_published: 2024-11-14T08:36:15.657800+00:00
-
- ## Error 400 (Bad Request)!!1
- - [http://lh3.ggpht.com](http://lh3.ggpht.com)
- - date_published: 2024-04-29T03:35:24.446998+00:00
-
- ## Error 400 (Bad Request)!!1
- - [https://yt3.ggpht.com](https://yt3.ggpht.com)
- - date_published: 2024-04-29T04:49:40.642459+00:00
 

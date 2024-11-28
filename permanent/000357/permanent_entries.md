@@ -1,3 +1,268 @@
+ ## The Jakarta Site - The Apache Jakarta™ Project -- Java Related Products
+ - [http://jakarta.apache.org](http://jakarta.apache.org)
+ - date_published: 2011-12-24T22:21:07+00:00
+
+ ## Apache James
+ - [https://james.apache.org](https://james.apache.org)
+ - date_published: 2024-06-17T08:01:22+00:00
+
+ ## Apache jclouds® :: Home
+ - [http://jclouds.apache.org](http://jclouds.apache.org)
+ - date_published: 2022-03-26T00:00:00+00:00
+
+ ## Apache Jena - Home
+ - [https://jena.apache.org](https://jena.apache.org)
+ - date_published: 2024-01-17T22:41:11+00:00
+
+ ## Apache JMeter
+          -
+          Apache JMeter™
+ - [https://jmeter.apache.org](https://jmeter.apache.org)
+ - date_published: 2024-01-07T17:19:24+00:00
+
+ ## Apache Johnzon – Apache Johnzon
+ - [http://johnzon.apache.org](http://johnzon.apache.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Apache JSPWiki
+ - [http://jspwiki.apache.org](http://jspwiki.apache.org)
+ - date_published: 2024-06-23T20:00:08+00:00
+
+ ## Apache Juneau Universal Serialization and REST API Library
+ - [http://juneau.apache.org](http://juneau.apache.org)
+ - date_published: 2023-10-03T18:09:48+00:00
+
+ ## Apache Kafka
+ - [https://kafka.apache.org](https://kafka.apache.org)
+ - date_published: 2024-05-04T13:43:32.381219+00:00
+ - tags: ['open source', 'streaming platform']
+
+ ## Apache Karaf - The Modulith Runtime
+ - [https://karaf.apache.org](https://karaf.apache.org)
+ - date_published: 2024-04-12T14:07:16+00:00
+
+ ## Apache® Kibble™
+ - [http://kibble.apache.org](http://kibble.apache.org)
+ - date_published: 2024-04-01T10:09:49+00:00
+
+ ## Knox Gateway – Announcing Apache Knox 1.6.1!
+ - [http://knox.apache.org](http://knox.apache.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Apache Kudu - Fast Analytics on Fast Data
+ - [http://kudu.apache.org](http://kudu.apache.org)
+ - date_published: 2023-10-25T00:43:07+00:00
+
+ ## Apache Kvrocks™ | Apache Kvrocks™
+ - [https://kvrocks.apache.org](https://kvrocks.apache.org)
+ - date_published: 2024-06-16T15:06:11+00:00
+
+ ## Apache Kylin | Analytical Data Warehouse for Big Data
+ - [http://kylin.apache.org](http://kylin.apache.org)
+ - date_published: 2024-01-29T02:47:55+00:00
+
+ ## Apache Kyuubi - Multi-tenant Thrift JDBC/ODBC server
+ - [https://kyuubi.apache.org](https://kyuubi.apache.org)
+ - date_published: 2024-06-03T03:54:43+00:00
+
+ ## Apache Libcloud is a standard Python library that abstracts away differences among multiple cloud provider APIs
+ - [https://libcloud.apache.org](https://libcloud.apache.org)
+ - date_published: 2023-09-09T21:33:45+00:00
+
+ ## Apache Linkis | Apache Linkis
+ - [http://linkis.apache.org](http://linkis.apache.org)
+ - date_published: 2024-07-12T12:02:01+00:00
+
+ ## Apache Logging Services
+ - [https://logging.apache.org](https://logging.apache.org)
+ - date_published: 2023-10-25T20:58:16.999501+00:00
+
+ ## Welcome to Apache Lucene
+ - [https://lucene.apache.org](https://lucene.apache.org)
+ - date_published: 2024-01-28T08:12:17+00:00
+ - tags: ['self-host', 'open source', 'search engine system']
+
+ ## Apache Lucene.NET is a powerful open source .NET search library. | Apache Lucene.NET 4.8.0
+ - [http://lucenenet.apache.org](http://lucenenet.apache.org)
+ - date_published: 2022-11-26T16:35:22+00:00
+
+ ## Apache MADlib
+ - [http://madlib.apache.org](http://madlib.apache.org)
+ - date_published: 2023-09-08T19:08:39+00:00
+
+ ## Apache Mahout
+ - [https://mahout.apache.org](https://mahout.apache.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Welcome to the Apache ManifoldCF™ project!
+ - [http://manifoldcf.apache.org](http://manifoldcf.apache.org)
+ - date_published: 2024-06-18T12:38:52+00:00
+
+ ## Maven – Welcome to Apache Maven
+ - [https://maven.apache.org](https://maven.apache.org)
+ - date_published: 2023-12-08T15:53:15+00:00
+
+ ## Apache Mesos
+ - [https://mesos.apache.org](https://mesos.apache.org)
+ - date_published: 2022-12-22T08:39:54+00:00
+
+ ## Apache MINA — Apache MINA
+ - [http://mina.apache.org](http://mina.apache.org)
+ - date_published: 2024-06-24T06:21:11+00:00
+
+ ## Apache Mnemonic • Durable Object Oriented Programming on Hybrid Storage-Class Memory Space
+ - [http://mnemonic.apache.org](http://mnemonic.apache.org)
+ - date_published: 2021-03-12T04:12:10+00:00
+
+ ## Apache MXNet
+ - [https://mxnet.apache.org](https://mxnet.apache.org)
+ - date_published: 2023-01-05T05:04:49+00:00
+
+ ## Apache MyFaces
+ - [http://myfaces.apache.org](http://myfaces.apache.org)
+ - date_published: 2023-01-03T20:45:00+00:00
+
+ ## Apache Mynewt
+ - [http://mynewt.apache.org](http://mynewt.apache.org)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Netbeans
+ - [https://netbeans.apache.org](https://netbeans.apache.org)
+ - date_published: 2023-12-02T09:10:29+00:00
+ - tags: ['programming ide', 'open source', 'netbeans']
+
+ ## The Apache Software Foundation Blog
+ - [https://news.apache.org](https://news.apache.org)
+ - date_published: 2023-10-25T08:36:41.438322+00:00
+
+ ## Apache NiFi
+ - [https://nifi.apache.org](https://nifi.apache.org)
+ - date_published: 2024-03-12T15:43:51+00:00
+
+ ## Index of /
+ - [https://nightlies.apache.org](https://nightlies.apache.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Apache Nutch™
+ - [http://nutch.apache.org](http://nutch.apache.org)
+ - date_published: 2024-04-28T23:32:12+00:00
+ - tags: ['web scraping', 'web crawler']
+
+ ## Home
+ - [https://nuttx.apache.org](https://nuttx.apache.org)
+ - date_published: 2024-02-21T03:50:38+00:00
+
+ ## The Apache OFBiz® Project
+ - [https://ofbiz.apache.org](https://ofbiz.apache.org)
+ - date_published: 2024-05-09T08:47:23+00:00
+
+ ## Apache Olingo Library
+ - [http://olingo.apache.org](http://olingo.apache.org)
+ - date_published: 2023-10-22T18:56:39+00:00
+
+ ## Apache Phoenix Omid – What is Omid?
+ - [https://omid.incubator.apache.org](https://omid.incubator.apache.org)
+ - date_published: 2020-11-23T00:00:00+00:00
+
+ ## Oozie - Apache Oozie Workflow Scheduler for Hadoop
+ - [https://oozie.apache.org](https://oozie.apache.org)
+ - date_published: 2021-02-26T00:00:00+00:00
+
+ ## Apache OpenDAL™
+ - [http://opendal.apache.org](http://opendal.apache.org)
+ - date_published: 2024-07-19T05:02:24+00:00
+
+ ## Apache OpenJPA -- Index
+ - [http://openjpa.apache.org](http://openjpa.apache.org)
+ - date_published: 2024-07-11T13:20:39+00:00
+
+ ## Apache OpenMeetings Project – Home
+ - [https://openmeetings.apache.org](https://openmeetings.apache.org)
+ - date_published: 2023-12-18T00:00:00+00:00
+
+ ## Apache OpenNLP
+ - [http://opennlp.apache.org](http://opennlp.apache.org)
+ - date_published: 2024-04-25T08:23:54+00:00
+
+ ## Apache OpenOffice
+ - [https://openoffice.apache.org](https://openoffice.apache.org)
+ - date_published: 2024-02-18T21:24:10+00:00
+
+ ## Apache OpenWebBeans
+ - [http://openwebbeans.apache.org](http://openwebbeans.apache.org)
+ - date_published: 2023-01-22T14:45:40+00:00
+
+ ## Apache OpenWhisk is a serverless, open source cloud platform
+ - [https://openwhisk.apache.org](https://openwhisk.apache.org)
+ - date_published: 2022-06-08T11:35:58+00:00
+
+ ## Apache ORC • High-Performance Columnar Storage for Hadoop
+ - [https://orc.apache.org](https://orc.apache.org)
+ - date_published: 2024-01-02T16:27:46+00:00
+
+ ## Apache Ozone
+ - [https://ozone.apache.org](https://ozone.apache.org)
+ - date_published: 2024-01-20T11:12:53+00:00
+ - tags: ['open source']
+
+ ## Apache Paimon™
+ - [http://paimon.apache.org](http://paimon.apache.org)
+ - date_published: 2024-07-12T04:21:33+00:00
+
+ ## Parquet
+ - [https://parquet.apache.org](https://parquet.apache.org)
+ - date_published: 2024-05-07T14:03:16.039336+00:00
+ - tags: ['common crawl']
+
+ ## Apache PDFBox |  A Java PDF Library
+ - [http://pdfbox.apache.org](http://pdfbox.apache.org)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Apache Pekko™
+ - [http://pekko.apache.org](http://pekko.apache.org)
+ - date_published: 2024-03-22T12:30:00+00:00
+
+ ## home.apache.org
+ - [https://people.apache.org](https://people.apache.org)
+ - date_published: 2023-10-25T20:58:17.974296+00:00
+
+ ## mod_perl: Welcome to the mod_perl world
+ - [https://perl.apache.org](https://perl.apache.org)
+ - date_published: 2014-02-16T01:41:37+00:00
+
+ ## Apache Petri
+ - [http://petri.apache.org](http://petri.apache.org)
+ - date_published: 2024-02-23T00:12:21+00:00
+
+ ## Overview | Apache Phoenix
+ - [https://phoenix.apache.org](https://phoenix.apache.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Welcome to Apache Pig!
+ - [https://pig.apache.org](https://pig.apache.org)
+ - date_published: 2021-02-22T21:45:42+00:00
+ - tags: ['personal']
+
+ ## Apache Pinot™: Realtime distributed OLAP datastore | Apache Pinot™
+ - [https://pinot.apache.org](https://pinot.apache.org)
+ - date_published: 2023-10-25T20:58:19.613396+00:00
+
+ ## Apache Pivot
+ - [http://pivot.apache.org](http://pivot.apache.org)
+ - date_published: 2023-01-26T18:56:18+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.cassandra.apache.org](https://plausible.cassandra.apache.org)
+ - date_published: 2024-09-02T12:13:01.664185+00:00
+
+ ## Apache Beam Playground
+ - [https://play.beam.apache.org](https://play.beam.apache.org)
+ - date_published: 2024-05-06T15:53:40+00:00
+
+ ## PLC4X – [Untitled]
+ - [http://plc4x.apache.org](http://plc4x.apache.org)
+ - date_published: 2024-04-17T17:32:55+00:00
+
  ## Apache NetBeans Plugin Portal
  - [https://plugins.netbeans.apache.org](https://plugins.netbeans.apache.org)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3780,264 +4045,4 @@ arts axis florida
  ## AssemSoft Home Page
  - [http://assemsoft.atari.org](http://assemsoft.atari.org)
  - date_published: 2005-06-14T10:07:07+00:00
-
- ## ATARI@HR Online
- - [http://atarihr.atari.org](http://atarihr.atari.org)
- - date_published: 2003-11-03T21:51:56+00:00
-
- ## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
- - [https://atari.org](https://atari.org)
- - date_published: 2024-04-16T11:04:09+00:00
- - tags: ['atari']
-
- ## BadCoder Consolation 2K, Atari Jaguar Video-Games Programming and Development
- - [http://badcoder.atari.org](http://badcoder.atari.org)
- - date_published: 2024-06-22T14:29:43.354307+00:00
-
- ## Offizielle Draconis Web Site bei ATARI.ORG
- - [http://draconis.atari.org](http://draconis.atari.org)
- - date_published: 2007-08-02T21:44:39+00:00
-
- ## News
- - [http://eil.atari.org](http://eil.atari.org)
- - date_published: 2003-07-18T00:00:00+00:00
-
- ## Evolution - The next generation atarigroup
- - [http://evolution.atari.org](http://evolution.atari.org)
- - date_published: 2024-06-22T14:29:45.695756+00:00
-
- ## ATARI.ORG / Fading Twilight official mirrror
- - [http://fading-twilight.atari.org](http://fading-twilight.atari.org)
- - date_published: 2024-06-22T14:29:31.935090+00:00
-
- ## ATARI.ORG / Falcdemos
- - [http://falcdemos.atari.org](http://falcdemos.atari.org)
- - date_published: 2024-06-22T14:29:52.059550+00:00
-
- ## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
- - [http://forums.atari.org](http://forums.atari.org)
- - date_published: 2024-06-22T14:30:12.622838+00:00
-
- ## hardware.atari.org
- - [http://hardware.atari.org](http://hardware.atari.org)
- - date_published: 2008-01-09T18:07:32+00:00
-
- ## JagCube - Atari Jaguar 64
- - [http://jagcube.atari.org](http://jagcube.atari.org)
- - date_published: 2002-03-06T02:40:22+00:00
-
- ## James Haslam's Atari Pages
- - [http://jfhaslam.atari.org](http://jfhaslam.atari.org)
- - date_published: 2004-03-14T09:09:04+00:00
-
- ## the lineout headquarters
- - [http://lineout.atari.org](http://lineout.atari.org)
- - date_published: 2024-06-22T14:30:03.867788+00:00
-
- ## MiKRO's homepage !
- - [http://mikro.atari.org](http://mikro.atari.org)
- - date_published: 2016-02-27T15:52:54+00:00
-
- ## new beat
- - [http://nb.atari.org](http://nb.atari.org)
- - date_published: 2023-09-09T09:15:10+00:00
-
- ## ATARI.ORG / No Fragments official mirrror
- - [http://no-fragments.atari.org](http://no-fragments.atari.org)
- - date_published: 2024-06-22T14:29:27.796806+00:00
-
- ## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
- - [http://paradox.atari.org](http://paradox.atari.org)
- - date_published: 2024-06-22T14:29:54.852640+00:00
-
- ## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
- - [http://reboot.atari.org](http://reboot.atari.org)
- - date_published: 2024-06-22T14:30:11.076181+00:00
-
- ## sc68 - Atari ST and Amiga musics
- - [http://sc68.atari.org](http://sc68.atari.org)
- - date_published: 2003-11-26T01:07:21+00:00
-
- ## SNDH Atari ST YM2149 collection
- - [http://sndh.atari.org](http://sndh.atari.org)
- - date_published: 2024-06-22T14:29:38.911388+00:00
-
- ## SND Player
- - [http://sndplayer.atari.org](http://sndplayer.atari.org)
- - date_published: 2006-03-01T00:00:00+00:00
-
- ## SPACE: St. Paul Atari® Computer Enthusiasts
- - [http://space.atari.org](http://space.atari.org)
- - date_published: 2024-06-11T22:47:38+00:00
-
- ## new menu revamped in 2003
- - [http://stsurvivor.atari.org](http://stsurvivor.atari.org)
- - date_published: 2005-06-22T09:27:42+00:00
-
- ## ATARI.ORG / Home / The Definitive Atari Resource on the Internet
- - [http://tron.atari.org](http://tron.atari.org)
- - date_published: 2024-06-22T14:30:06.802487+00:00
- - tags: ['atari']
-
- ## SISTEMAS OBSOLETOS - Programación de ATARI 2600
- - [http://web.atari.org](http://web.atari.org)
- - date_published: 2008-11-30T14:42:11+00:00
-
- ## AtariArchives.org - archiving vintage computer books, information, and software
- - [https://atariarchives.org](https://atariarchives.org)
- - date_published: 2024-01-09T03:38:23+00:00
- - tags: ['retro games', 'atari']
-
- ## AtariWiki V3.1: Main
- - [https://atariwiki.org](https://atariwiki.org)
- - date_published: 2024-06-15T21:29:24.107679+00:00
-
- ## Atchafalaya National Heritage Area  |  America's French Foreign Country
- - [http://www.atchafalaya.org](http://www.atchafalaya.org)
- - date_published: 2024-10-30T03:37:36.250404+00:00
-
- ## Home
- - [https://atdc.org](https://atdc.org)
- - date_published: 2024-06-16T16:49:21.480015+00:00
-
- ## ATDC  Portal
- - [https://portal.atdc.org](https://portal.atdc.org)
- - date_published: 2023-10-12T22:37:43+00:00
-
- ## ATD Cuarto Mundo - Movimiento Internacional
- - [https://www.atd-cuartomundo.org](https://www.atd-cuartomundo.org)
- - date_published: 2024-07-13T19:49:46.101707+00:00
-
- ## Sign in - Matomo
- - [https://piwik.atd-extranet.org](https://piwik.atd-extranet.org)
- - date_published: 2024-07-13T19:49:21.497786+00:00
-
- ## ATD Fourth World
- - [https://atd-fourthworld.org](https://atd-fourthworld.org)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## International Donation Form - site
- - [https://makeadonation.atd-fourthworld.org](https://makeadonation.atd-fourthworld.org)
- - date_published: 2024-07-13T19:49:42.906578+00:00
-
- ## ATD Fourth World USA
- - [https://atdfourthworld-usa.org](https://atdfourthworld-usa.org)
- - date_published: 2024-07-13T19:49:10.378660+00:00
-
- ## ATD Fourth World Philippines
- - [http://www.atdph.org](http://www.atdph.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Wsparcie finansowe i rzeczowe - rAzem posTawmy na goDność - ATD Czwarty Śwat
- - [https://don.atd-quartmonde.org](https://don.atd-quartmonde.org)
- - date_published: 2024-07-13T19:49:06.964236+00:00
-
- ## ATD Quart Monde International
- - [https://www.atd-quartmonde.org](https://www.atd-quartmonde.org)
- - date_published: 2023-04-26T00:00:00+00:00
-
- ## ATD Fourth World UK
- - [http://www.atd-uk.org](http://www.atd-uk.org)
- - date_published: 2024-07-13T19:49:40.720170+00:00
-
- ## Atelier Belenfant Daubas — Architecture
- - [https://www.atelierbelenfantdaubas.org](https://www.atelierbelenfantdaubas.org)
- - date_published: 2024-10-29T14:12:16.147757+00:00
-
- ## Ateliers pour la biodiversité | Sensibilisation et intégration | Québec - Canada
- - [https://www.ateliersbiodiversite.org](https://www.ateliersbiodiversite.org)
- - date_published: 2024-07-21T08:34:55.879870+00:00
-
- ## ATENAI
- - [https://atenai.org](https://atenai.org)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## A Terceira Noite » leituras, polémicas, iluminações | ano 19
- - [http://www.aterceiranoite.org](http://www.aterceiranoite.org)
- - date_published: 2024-07-12T20:34:30.774911+00:00
-
- ## Cierpliwości...
- - [https://aternos.org](https://aternos.org)
- - date_published: 2024-05-01T07:19:28.650514+00:00
- - tags: ['minecraft servers', 'minecraft']
-
- ## Home
- - [http://mathprize.atfoundation.org](http://mathprize.atfoundation.org)
- - date_published: 2024-07-14T14:15:49.650081+00:00
-
- ## Arena
- - [http://arena.athas.org](http://arena.athas.org)
- - date_published: 2024-10-27T02:29:29.767163+00:00
-
- ## Atheist Alliance International - a positive voice for atheism and secularism
- - [https://www.atheistalliance.org](https://www.atheistalliance.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Secular Activism Incubator
- - [https://www.atheistallianceamerica.org](https://www.atheistallianceamerica.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Home
- - [http://www.atheists.org](http://www.atheists.org)
- - date_published: 2024-06-28T20:49:53.465575+00:00
-
- ## Atheists for Liberty - Atheists for Liberty
- - [https://www.atheistsforliberty.org](https://www.atheistsforliberty.org)
- - date_published: 2024-06-30T01:48:08.037425+00:00
-
- ## - Atheists of Florida
- - [https://atheistsofflorida.org](https://atheistsofflorida.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Welcome to a place where Beauty matters.
- - [https://athenaeumcenter.org](https://athenaeumcenter.org)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Athena - delivering democracy
- - [https://athenaforall.org](https://athenaforall.org)
- - date_published: 2024-07-16T09:00:00+00:00
-
- ## Appalachian Trail Hiker Photo Archive
- - [https://athikerpictures.org](https://athikerpictures.org)
- - date_published: 2024-09-07T22:23:16+00:00
-
- ## MTV | Homepage - Shows & Schedules
- - [http://www.athinline.org](http://www.athinline.org)
- - date_published: 2024-10-02T00:00:00+00:00
-
- ## Home
- - [https://www.athleteally.org](https://www.athleteally.org)
- - date_published: 2024-06-29T08:42:33.673468+00:00
-
- ## Home | At Home in Summit
- - [https://www.athomeinsummit.org](https://www.athomeinsummit.org)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Access to Justice Campaign – Access to Justice Campaign
- - [https://atjfund.org](https://atjfund.org)
- - date_published: 2023-11-09T00:00:00+00:00
-
- ## Home | Atlanta Westside Presbyterian Church
- - [https://www.atlantawestside.org](https://www.atlantawestside.org)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Atlantic Council - Shaping the global future together
- - [https://atlanticcouncil.org](https://atlanticcouncil.org)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Atlantic Health System: Hospitals Serving New Jersey & New York
- - [https://www.atlantichealth.org](https://www.atlantichealth.org)
- - date_published: 2024-06-28T11:10:53+00:00
-
- ## Home - Atlantic Legal Foundation
- - [https://atlanticlegal.org](https://atlanticlegal.org)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Index of /
- - [http://atlantides.org](http://atlantides.org)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Atlantides: Feed Aggregators for Ancient Studies
- - [http://planet.atlantides.org](http://planet.atlantides.org)
- - date_published: 2016-04-05T15:02:47+00:00
 

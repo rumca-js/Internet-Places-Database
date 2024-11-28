@@ -1,3 +1,261 @@
+ ## The Royal Institute of Philosophy
+ - [https://royalinstitutephilosophy.org](https://royalinstitutephilosophy.org)
+ - date_published: 2024-09-15T12:00:51+00:00
+
+ ## The Royal Marsden Cancer Charity Shop
+ - [https://shop.royalmarsden.org](https://shop.royalmarsden.org)
+ - date_published: 2024-10-20T04:22:00.665848+00:00
+
+ ## The Royal Marsden Cancer Charity
+ - [https://www.royalmarsden.org](https://www.royalmarsden.org)
+ - date_published: 2024-06-17T18:00:03.317391+00:00
+
+ ## Royal Scottish Academy
+ - [https://www.royalscottishacademy.org](https://www.royalscottishacademy.org)
+ - date_published: 2024-07-13T19:40:28.446928+00:00
+
+ ## Royal Society | e-Lect
+ - [https://e-lect.royalsociety.org](https://e-lect.royalsociety.org)
+ - date_published: 2024-06-17T11:02:06.778752+00:00
+
+ ## Portal homepage - The Royal Society
+ - [https://grants.royalsociety.org](https://grants.royalsociety.org)
+ - date_published: 2024-06-17T11:02:06.158180+00:00
+
+ ## Welcome to the Royal Society | Royal Society
+ - [https://royalsociety.org](https://royalsociety.org)
+ - date_published: 2024-06-17T11:02:03.924905+00:00
+
+ ## https://royalsocietypublishing.org
+ - [https://royalsocietypublishing.org](https://royalsocietypublishing.org)
+ - date_published: 2023-10-27T12:07:07.849182+00:00
+
+ ## Cierpliwości...
+ - [https://rsos.royalsocietypublishing.org](https://rsos.royalsocietypublishing.org)
+ - date_published: 2024-05-07T18:39:27.386941+00:00
+
+ ## Cierpliwości...
+ - [https://rsta.royalsocietypublishing.org](https://rsta.royalsocietypublishing.org)
+ - date_published: 2024-06-30T04:58:36.047352+00:00
+
+ ## Regional Plan Association
+ - [https://rpa.org](https://rpa.org)
+ - date_published: 2024-06-26T23:13:14+00:00
+
+ ## RPGMatch
+ - [https://app.rpgmatch.org](https://app.rpgmatch.org)
+ - date_published: 2024-05-09T07:07:44.483805+00:00
+
+ ## CRAN logs
+ - [http://cranlogs.r-pkg.org](http://cranlogs.r-pkg.org)
+ - date_published: 2015-04-17T00:00:00+00:00
+
+ ## METACRAN
+ - [https://www.r-pkg.org](https://www.r-pkg.org)
+ - date_published: 2024-06-28T16:15:05.259418+00:00
+
+ ## R Packages (2e)
+ - [https://r-pkgs.org](https://r-pkgs.org)
+ - date_published: 2024-06-15T18:10:48.920677+00:00
+
+ ## rpki-client
+ - [https://rpki-client.org](https://rpki-client.org)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## rpm.org - Home
+ - [https://rpm.org](https://rpm.org)
+ - date_published: 2024-05-04T15:45:05.907250+00:00
+
+ ## Welcome to FAS2
+ - [https://admin.rpmfusion.org](https://admin.rpmfusion.org)
+ - date_published: 2024-07-14T03:12:50.909030+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugzilla.rpmfusion.org](https://bugzilla.rpmfusion.org)
+ - date_published: 2024-07-14T03:12:48.801530+00:00
+
+ ## Index of /
+ - [https://download0.rpmfusion.org](https://download0.rpmfusion.org)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Index of /
+ - [https://download1.rpmfusion.org](https://download1.rpmfusion.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Ipsilon
+ - [https://id.rpmfusion.org](https://id.rpmfusion.org)
+ - date_published: 2024-07-14T03:12:55.531013+00:00
+
+ ## Build System Info | koji
+ - [https://koji.rpmfusion.org](https://koji.rpmfusion.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Available lists - Rpmfusion
+ - [https://lists.rpmfusion.org](https://lists.rpmfusion.org)
+ - date_published: 2024-07-14T03:12:56.572354+00:00
+
+ ## RPM Fusion - RPM Fusion
+ - [https://mirrors.rpmfusion.org](https://mirrors.rpmfusion.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## RPM Fusion Project Packages GIT repositories
+ - [https://pkgs.rpmfusion.org](https://pkgs.rpmfusion.org)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## RPM Fusion - RPM Fusion
+ - [https://rpmfusion.org](https://rpmfusion.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## The R Blog
+ - [https://blog.r-project.org](https://blog.r-project.org)
+ - date_published: 2024-05-13T11:53:16.803350+00:00
+
+ ## The Comprehensive R Archive Network
+ - [https://cloud.r-project.org](https://cloud.r-project.org)
+ - date_published: 2024-03-04T19:47:19+00:00
+
+ ## R Contributor Site
+ - [https://contributor.r-project.org](https://contributor.r-project.org)
+ - date_published: 2024-03-27T13:35:57+00:00
+
+ ## The Comprehensive R Archive Network
+ - [https://cran.r-project.org](https://cran.r-project.org)
+ - date_published: 2024-03-04T19:47:19+00:00
+
+ ## R Developer Page
+ - [https://developer.r-project.org](https://developer.r-project.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## ESS - Emacs Speaks Statistics
+ - [https://ess.r-project.org](https://ess.r-project.org)
+ - date_published: 2024-09-21T22:07:27.766950+00:00
+
+ ## Overview
+ - [https://journal.r-project.org](https://journal.r-project.org)
+ - date_published: 2024-07-11T01:21:05+00:00
+
+ ## Lattice: trellis graphics for R
+ - [https://lattice.r-forge.r-project.org](https://lattice.r-forge.r-project.org)
+ - date_published: 2024-07-01T05:32:56.542288+00:00
+
+ ## lists.r-forge.r-project.org Mailing Lists
+ - [https://lists.r-forge.r-project.org](https://lists.r-forge.r-project.org)
+ - date_published: 2024-07-09T08:22:12.740673+00:00
+
+ ## R-Forge: Welcome
+ - [https://r-forge.r-project.org](https://r-forge.r-project.org)
+ - date_published: 2024-07-09T07:59:04.865799+00:00
+
+ ## R: The R Project for Statistical Computing
+ - [https://r-project.org](https://r-project.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## useR 2021
+ - [https://user2021.r-project.org](https://user2021.r-project.org)
+ - date_published: 2024-08-18T17:20:34.498313+00:00
+
+ ## The Royal Philatelic Society of Canada
+ - [https://www.rpsc.org](https://www.rpsc.org)
+ - date_published: 2024-08-24T00:00:00+00:00
+
+ ## RR0
+ - [https://rr0.org](https://rr0.org)
+ - date_published: 2024-04-28T03:56:17.539092+00:00
+ - tags: ['ufo', 'paranormal']
+
+ ## Road Runners Club of America, Inc.
+ - [https://www.rrca.org](https://www.rrca.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Roy Rosenzweig Center for History and New Media – Democratizing history through digital media
+ - [https://rrchnm.org](https://rrchnm.org)
+ - date_published: 2024-07-03T19:44:43+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.rrchnm.org](https://stats.rrchnm.org)
+ - date_published: 2024-06-15T06:21:28.249593+00:00
+
+ ## RRDtool - The Time Series Database
+ - [http://www.rrdtool.org](http://www.rrdtool.org)
+ - date_published: 2019-02-04T14:10:38+00:00
+
+ ## Fallen Flag Railroad Photos
+ - [https://rr-fallenflags.org](https://rr-fallenflags.org)
+ - date_published: 2023-10-25T22:04:34.495586+00:00
+
+ ## Rromaniconnect
+ - [https://www.rromaniconnect.org](https://www.rromaniconnect.org)
+ - date_published: 2024-08-20T03:58:10.171330+00:00
+
+ ## rr – record and replay debugger for C/C++
+ - [https://rr-project.org](https://rr-project.org)
+ - date_published: 2024-07-21T08:54:13+00:00
+
+ ## Renaissance Society of America
+ - [http://www.rsa.org](http://www.rsa.org)
+ - date_published: 2024-06-24T09:21:08.969854+00:00
+
+ ## POS4D >> Daftar Bandar Togel Online Resmi & Terpercaya
+ - [https://rsac.org](https://rsac.org)
+ - date_published: 2024-01-09T03:42:25.600628+00:00
+
+ ## $HOME :: rsapkf.org
+ - [https://rsapkf.org](https://rsapkf.org)
+ - date_published: 2023-10-25T22:04:36.393939+00:00
+
+ ## Books Gateway
+ - [https://books.rsc.org](https://books.rsc.org)
+ - date_published: 2024-08-18T18:47:59.981443+00:00
+
+ ## Education | Royal Society of Chemistry
+ - [https://edu.rsc.org](https://edu.rsc.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## MarinLit - A database of the marine natural products literature
+ - [https://marinlit.rsc.org](https://marinlit.rsc.org)
+ - date_published: 2024-05-07T13:23:06+00:00
+
+ ## Sign In
+ - [https://members.rsc.org](https://members.rsc.org)
+ - date_published: 2024-08-06T11:14:57.308816+00:00
+
+ ## RSC Publishing Home – Chemical Science Journals, Books and Databases
+ - [https://pubs.rsc.org](https://pubs.rsc.org)
+ - date_published: 2023-10-25T22:04:39.470576+00:00
+
+ ## The Royal Society of Chemistry
+ - [https://rsc.org](https://rsc.org)
+ - date_published: 2024-04-29T02:27:27.357188+00:00
+
+ ## RSC CDN
+ - [https://www.rsc-cdn.org](https://www.rsc-cdn.org)
+ - date_published: 2011-02-03T09:59:03+00:00
+
+ ## The Racial Slur Database
+ - [http://www.rsdb.org](http://www.rsdb.org)
+ - date_published: 2024-06-23T17:53:09.257012+00:00
+
+ ## American RSDHope - Navigating the journey to wholeness
+ - [http://www.rsdhope.org](http://www.rsdhope.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## SMERTEFORSKNINGSRESSURS
+ :: Home
+ - [http://www.rsdsa.org](http://www.rsdsa.org)
+ - date_published: 2024-06-30T09:57:37.353825+00:00
+
+ ## RSD | Systemic Design Symposium
+ - [https://rsdsymposium.org](https://rsdsymposium.org)
+ - date_published: 2024-08-19T04:32:32+00:00
+
+ ## GEE (RSEQ) – Inicio
+ - [https://gee.rseq.org](https://gee.rseq.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## RSEQ, Real Sociedad Española de Química – Inicio
+ - [https://rseq.org](https://rseq.org)
+ - date_published: 2024-10-11T00:00:00+00:00
+
  ## Accueil — Boutique en ligne RSF
  - [https://boutique.rsf.org](https://boutique.rsf.org)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -3772,266 +4030,4 @@
  ## Coming Soon
  - [https://scriptingenabled.org](https://scriptingenabled.org)
  - date_published: 2024-01-23T09:34:12+00:00
-
- ## 大阳城2138
- - [http://scrollingtext.org](http://scrollingtext.org)
- - date_published: 2024-07-11T07:47:19.799499+00:00
-
- ## Vesuvius Challenge
- - [https://scrollprize.org](https://scrollprize.org)
- - date_published: 2023-10-25T22:07:20.213921+00:00
-
- ## scroogle.org
- - [http://www.scroogle.org](http://www.scroogle.org)
- - date_published: 2024-07-06T22:26:56.974335+00:00
-
- ## Yammering -
- - [https://xana.scru.org](https://xana.scru.org)
- - date_published: 2022-07-11T23:34:49+00:00
-
- ## Home
- - [https://scrum.org](https://scrum.org)
- - date_published: 2024-05-08T05:14:16.717407+00:00
-
- ## Scrum Alliance Resource Library
- - [https://resources.scrumalliance.org](https://resources.scrumalliance.org)
- - date_published: 2024-07-04T06:06:11.909372+00:00
-
- ## Scrum Alliance - Find Courses for Scrum and Agile Certifications
- - [https://scrumalliance.org](https://scrumalliance.org)
- - date_published: 2024-05-08T05:14:11.644895+00:00
-
- ## Home | Scrum Guides
- - [http://www.scrumguides.org](http://www.scrumguides.org)
- - date_published: 2024-06-20T15:45:37+00:00
-
- ## Scrum Pattern Group
- - [http://scrumplop.org](http://scrumplop.org)
- - date_published: 2024-06-29T22:42:57.194925+00:00
-
- ## SCS: Self-contained Systems
- - [https://scs-architecture.org](https://scs-architecture.org)
- - date_published: 2024-07-08T12:28:36+00:00
-
- ## SCSMI Home - Society for Cognitive Studies of the Moving Image
- - [http://scsmi-online.org](http://scsmi-online.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Keluaran SGP Terbaru : Togel Singapore Pasti Tembus, Data SGP Terlengkap, Pengeluaran SGP Hari Ini
- - [https://www.scsmm.org](https://www.scsmm.org)
- - date_published: 2024-08-27T01:37:42+00:00
-
- ## SCSN | Southern California Seismic Network
- - [https://www.scsn.org](https://www.scsn.org)
- - date_published: 2024-04-30T03:35:25.806110+00:00
-
- ## South Carolina State Fair | Columbia, SC
- - [https://www.scstatefair.org](https://www.scstatefair.org)
- - date_published: 2024-10-30T04:35:02.549095+00:00
-
- ## Home — SCTE
- - [https://scte.org](https://scte.org)
- - date_published: 2020-11-17T14:45:36.858000+00:00
-
- ## SCTE Standards - Login
- - [https://standards.scte.org](https://standards.scte.org)
- - date_published: 2024-07-03T21:48:28.320803+00:00
-
- ## Home
- - [https://techexpo.scte.org](https://techexpo.scte.org)
- - date_published: 2024-07-03T21:48:24.143340+00:00
-
- ## Home
- - [https://scts.org](https://scts.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Sculpting Evolution
- - [http://www.sculptingevolution.org](http://www.sculptingevolution.org)
- - date_published: 2024-09-05T12:58:39.219447+00:00
-
- ## SculptureCenter
- - [https://www.sculpture-center.org](https://www.sculpture-center.org)
- - date_published: 2024-07-13T14:28:55.161050+00:00
-
- ## The Sculpture Center
- - [http://www.sculpturecenter.org](http://www.sculpturecenter.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## ScummVM :: Bugs
- - [https://bugs.scummvm.org](https://bugs.scummvm.org)
- - date_published: 2024-07-18T17:53:46.335398+00:00
-
- ## Buildbot
- - [https://buildbot.scummvm.org](https://buildbot.scummvm.org)
- - date_published: 2024-07-18T17:53:50.205335+00:00
-
- ## Welcome to ScummVM! — ScummVM Documentation  documentation
- - [https://docs.scummvm.org](https://docs.scummvm.org)
- - date_published: 2024-01-04T23:24:42+00:00
-
- ## ScummVM API documentation: ScummVM API reference
- - [https://doxygen.scummvm.org](https://doxygen.scummvm.org)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ScummVM :: Forums - Forums
- - [https://forums.scummvm.org](https://forums.scummvm.org)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ScummVM Planet
- - [https://planet.scummvm.org](https://planet.scummvm.org)
- - date_published: 2024-06-30T21:29:31.771295+00:00
-
- ## ScummVM
- - [https://scummvm.org](https://scummvm.org)
- - date_published: 2024-04-13T00:00:00+00:00
- - tags: ['open source', 'video game engine', 'rpg', 'retro games', 'game engines', 'emulator']
-
- ## ::ScummVM Translations::
- - [https://translations.scummvm.org](https://translations.scummvm.org)
- - date_published: 2024-07-18T17:53:51.279994+00:00
-
- ## ScummVM :: Wiki
- - [https://wiki.scummvm.org](https://wiki.scummvm.org)
- - date_published: 2023-06-18T10:15:22+00:00
-
- ## SCVJCC
- - [https://www.scvjcc.org](https://www.scvjcc.org)
- - date_published: 2024-08-19T15:56:15.564874+00:00
-
- ## Home - SC Votes - South Carolina Election Commission
- - [https://www.scvotes.org](https://www.scvotes.org)
- - date_published: 2024-10-30T04:41:06.564770+00:00
-
- ## EAP In Science SCWS2014
- - [http://www.scws2014.org](http://www.scws2014.org)
- - date_published: 2024-07-30T15:59:34+00:00
-
- ## Login Page
- - [https://portal.sdcard.org](https://portal.sdcard.org)
- - date_published: 2022-08-30T00:00:00+00:00
-
- ## SD Association | The SD Association
- - [https://sdcard.org](https://sdcard.org)
- - date_published: 2023-10-25T22:07:25.829748+00:00
-
- ## South Dakota Education Association (SDEA) | South Dakota Education Association
- - [https://www.sdea.org](https://www.sdea.org)
- - date_published: 2024-07-09T16:46:48.235347+00:00
-
- ## akrl
- - [https://akrl.sdf.org](https://akrl.sdf.org)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Bravo Sierra Computers
- - [http://atarisales.sdf.org](http://atarisales.sdf.org)
- - date_published: 2022-10-18T19:18:42+00:00
-
- ## Hi, SDF!
- - [https://dbohdan.sdf.org](https://dbohdan.sdf.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## some files...
- - [https://every.sdf.org](https://every.sdf.org)
- - date_published: 2024-05-06T17:48:46+00:00
-
- ## Hello, I'm hs0ucy — hs0ucy.sdf.org
- - [http://hs0ucy.sdf.org](http://hs0ucy.sdf.org)
- - date_published: 2024-02-24T22:44:56+00:00
-
- ## John Baber-Lucero
- - [https://jbaber.sdf.org](https://jbaber.sdf.org)
- - date_published: 2023-12-29T19:01:24.713727+00:00
- - tags: ['personal']
-
- ## Index of /
- - [https://klu.sdf.org](https://klu.sdf.org)
- - date_published: 2024-08-18T21:25:14.097611+00:00
-
- ## LÆMEUR's Home Page (@SDF.org)
- - [https://laemeur.sdf.org](https://laemeur.sdf.org)
- - date_published: 2023-09-03T23:38:16+00:00
- - tags: ['personal']
-
- ## LdBeth's Homepage
- - [https://ldbeth.sdf.org](https://ldbeth.sdf.org)
- - date_published: 2023-10-25T22:07:27.882753+00:00
-
- ## SDF Chatter - A Lemmy instance hosted by the SDF.ORG
- - [https://lemmy.sdf.org](https://lemmy.sdf.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Mastodon @ SDF
- - [https://mastodon.sdf.org](https://mastodon.sdf.org)
- - date_published: 2023-10-25T22:07:29.853002+00:00
-
- ## nyan deluxe
- - [https://nydel.sdf.org](https://nydel.sdf.org)
- - date_published: 2023-12-30T05:22:05.208407+00:00
- - tags: ['personal']
-
- ## SDF Pixelfed
- - [https://pixelfed.sdf.org](https://pixelfed.sdf.org)
- - date_published: 2020-05-26T00:00:00+00:00
-
- ## SDF Public Access UNIX System - Free Shell Account and Shell Access
- - [https://sdf.org](https://sdf.org)
- - date_published: 2023-10-25T22:07:32.012020+00:00
-
- ## Tim’s page on SDF
- - [http://seven1m.sdf.org](http://seven1m.sdf.org)
- - date_published: 2021-05-25T13:06:36+00:00
-
- ## SDF Social
- - [https://social.sdf.org](https://social.sdf.org)
- - date_published: 2024-05-10T07:01:43.112498+00:00
-
- ## WeTTY - The Web Terminal Emulator
- - [https://ssh.sdf.org](https://ssh.sdf.org)
- - date_published: 2024-06-15T19:40:42.932857+00:00
-
- ## Tinkering Down Under
- - [https://thomask.sdf.org](https://thomask.sdf.org)
- - date_published: 2023-10-25T22:07:38.974474+00:00
-
- ## my sdf home
- - [http://utsuho.sdf.org](http://utsuho.sdf.org)
- - date_published: 2024-07-03T12:06:49.479451+00:00
-
- ## Vito Van
- - [http://vito.sdf.org](http://vito.sdf.org)
- - date_published: 2023-07-25T00:40:46+00:00
- - tags: ['personal']
-
- ## start []
- - [https://wiki.sdf.org](https://wiki.sdf.org)
- - date_published: 2024-09-06T19:26:57.839819+00:00
-
- ## ...
- - [https://xristos.sdf.org](https://xristos.sdf.org)
- - date_published: 2020-02-19T11:41:36+00:00
- - tags: ['private resource']
-
- ## N0THANKY0U
- - [http://yuno.sdf.org](http://yuno.sdf.org)
- - date_published: 2023-10-17T17:20:58+00:00
-
- ## https://geocar.sdf1.org
- - [https://geocar.sdf1.org](https://geocar.sdf1.org)
- - date_published: 2020-11-26T17:10:18+00:00
-
- ## Whatever
- - [https://whatever.sdfa3.org](https://whatever.sdfa3.org)
- - date_published: 2024-03-13T10:11:40+00:00
-
- ## SDFCU - State Department Federal Credit Union
- - [https://sdfcu.org](https://sdfcu.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Super Dimensional Fortress Otaku!
- - [https://sdfo.org](https://sdfo.org)
- - date_published: 2015-04-12T16:40:20+00:00
-
- ## SDFormat Home
- - [http://sdformat.org](http://sdformat.org)
- - date_published: 2024-06-17T03:14:48.698682+00:00
 

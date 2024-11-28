@@ -1,3 +1,7 @@
+ ## Duracell Batterien Deutschland | Das weltweit führende Unternehmen für Verbraucherbatterien
+ - [https://www.duracell.at](https://www.duracell.at)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## DVDFab Offizielle Website | Der weltführende Multimedia-Lösungsanbieter
  - [https://dvdfab.at](https://dvdfab.at)
  - date_published: 2024-09-03T19:40:42.596281+00:00
@@ -4013,8 +4017,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## The Blower
  - [https://theblower.au](https://theblower.au)
  - date_published: 2024-08-18T11:48:04.814408+00:00
-
- ## The Farm Shop Farmers Market | Farm-Fresh Produce Delivered to You
- - [https://thefarmshop.au](https://thefarmshop.au)
- - date_published: 2024-10-20T14:57:55.762715+00:00
 

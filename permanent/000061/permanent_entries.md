@@ -1,3 +1,31 @@
+ ## modern steroid science
+ - [http://modernsteroid.blogspot.com](http://modernsteroid.blogspot.com)
+ - date_published: 2024-10-19T04:54:29.789606+00:00
+
+ ## Modern Wargamer
+ - [http://modernwargamer.blogspot.com](http://modernwargamer.blogspot.com)
+ - date_published: 2015-09-27T10:10:00+00:00
+
+ ## Modhail's Meanderings
+ - [http://modhails-meanderings.blogspot.com](http://modhails-meanderings.blogspot.com)
+ - date_published: 2024-10-23T20:36:59+00:00
+
+ ## Shuggy's Blog
+ - [http://modies.blogspot.com](http://modies.blogspot.com)
+ - date_published: 2024-06-02T10:13:53+00:00
+
+ ## Mod Male
+ - [http://mod-male.blogspot.com](http://mod-male.blogspot.com)
+ - date_published: 2024-07-03T14:25:07+00:00
+
+ ## Pensierino..50
+ - [https://modna50.blogspot.com](https://modna50.blogspot.com)
+ - date_published: 2024-09-02T00:30:00+00:00
+
+ ## Dr Moebius Miniature Mania
+ - [http://moebiusminiaturemania.blogspot.com](http://moebiusminiaturemania.blogspot.com)
+ - date_published: 2024-05-11T13:33:19+00:00
+
  ## moedbeleidentrouw
  - [http://moedbeleidentrouw.blogspot.com](http://moedbeleidentrouw.blogspot.com)
  - date_published: 2024-02-08T20:16:24+00:00
@@ -3985,32 +4013,4 @@
  ## A Sketchy Past, The Art of Peter de Sève
  - [http://peterdeseve.blogspot.com](http://peterdeseve.blogspot.com)
  - date_published: 2024-10-31T15:07:03+00:00
-
- ## Peter Eisentraut's Blog
- - [http://petereisentraut.blogspot.com](http://petereisentraut.blogspot.com)
- - date_published: 2024-05-24T09:34:31+00:00
-
- ## Peter H. Cropes
- - [https://peterhcropes.blogspot.com](https://peterhcropes.blogspot.com)
- - date_published: 2024-02-20T01:44:31+00:00
-
- ## Peter's Cave
- - [http://peterscave.blogspot.com](http://peterscave.blogspot.com)
- - date_published: 2024-07-18T20:06:42+00:00
-
- ## PETER SCHIFF NEWS BLOG
- - [http://peterschiffchannel.blogspot.com](http://peterschiffchannel.blogspot.com)
- - date_published: 2024-10-21T15:35:29.912243+00:00
-
- ## Lex Communis
- - [http://peterseanesq.blogspot.com](http://peterseanesq.blogspot.com)
- - date_published: 2024-05-11T16:17:18+00:00
-
- ## Petroleum Truth Report
- - [http://petroleumtruthreport.blogspot.com](http://petroleumtruthreport.blogspot.com)
- - date_published: 2024-04-25T00:41:19+00:00
-
- ## pettirosso infreddolito
- - [http://pettirossoinfreddolito.blogspot.com](http://pettirossoinfreddolito.blogspot.com)
- - date_published: 2024-08-28T22:37:55+00:00
 

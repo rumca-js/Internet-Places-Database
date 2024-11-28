@@ -1,3 +1,223 @@
+ ## Weill Cornell Medicine | Cornell University
+ - [http://pre.weill.cornell.edu](http://pre.weill.cornell.edu)
+ - date_published: 2024-07-22T05:29:12.988280+00:00
+
+ ## Welcome | University Privacy
+ - [https://privacy.cornell.edu](https://privacy.cornell.edu)
+ - date_published: 2024-04-30T03:57:53.321983+00:00
+
+ ## Office of the Provost | Cornell University
+ - [http://provost.cornell.edu](http://provost.cornell.edu)
+ - date_published: 2024-07-22T05:24:21.201773+00:00
+
+ ## Clark Physical Sciences Library
+ - [https://psl.library.cornell.edu](https://psl.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:43.000811+00:00
+
+ ## Department of Psychology | Department of Psychology
+ - [http://psychology.cornell.edu](http://psychology.cornell.edu)
+ - date_published: 2024-08-06T07:46:31+00:00
+
+ ## Cornell Brooks Public Policy
+ - [https://publicpolicy.cornell.edu](https://publicpolicy.cornell.edu)
+ - date_published: 2024-08-18T23:17:16.785576+00:00
+
+ ## Home | Weill Cornell Medicine - Qatar
+ - [https://qatar-weill.cornell.edu](https://qatar-weill.cornell.edu)
+ - date_published: 2024-07-22T05:29:51.134902+00:00
+
+ ## Cornell University Web Login
+ - [http://radash.cornell.edu](http://radash.cornell.edu)
+ - date_published: 2024-07-22T05:18:08.508289+00:00
+
+ ## Rare and Manuscript Collections
+ - [https://rare.library.cornell.edu](https://rare.library.cornell.edu)
+ - date_published: 2024-07-22T05:26:29.015707+00:00
+
+ ## Research Administration Support Services Login Page
+ - [https://rass.cornell.edu](https://rass.cornell.edu)
+ - date_published: 2024-07-22T05:18:15.967775+00:00
+
+ ## The Paul Rubacha Department of Real Estate - Department of Real Estate at Cornell
+ - [https://realestate.cornell.edu](https://realestate.cornell.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Office of the University Registrar | Cornell University Registrar
+ - [https://registrar.cornell.edu](https://registrar.cornell.edu)
+ - date_published: 2024-07-18T18:18:37+00:00
+
+ ## Home
+ - [https://research-and-innovation.cornell.edu](https://research-and-innovation.cornell.edu)
+ - date_published: 2024-02-26T12:37:55.027502+00:00
+
+ ## Follow the Story – Research & Innovation
+ - [https://research.cornell.edu](https://research.cornell.edu)
+ - date_published: 2023-10-25T18:50:46.764859+00:00
+
+ ## Cornell CS Research Server Contents
+ - [https://research.cs.cornell.edu](https://research.cs.cornell.edu)
+ - date_published: 2024-08-07T15:09:26.905377+00:00
+
+ ## Home | Cornell Research Services
+ - [https://researchservices.cornell.edu](https://researchservices.cornell.edu)
+ - date_published: 2024-04-30T03:59:39.285788+00:00
+
+ ## Research | Weill Cornell Medicine
+ - [https://research.weill.cornell.edu](https://research.weill.cornell.edu)
+ - date_published: 2024-04-30T03:59:04.715051+00:00
+
+ ## Thomas Ristenpart @ Cornell Tech
+ - [https://rist.tech.cornell.edu](https://rist.tech.cornell.edu)
+ - date_published: 2024-08-02T14:48:09+00:00
+
+ ## Aeon Main Menu
+ - [https://rmc-aeon.library.cornell.edu](https://rmc-aeon.library.cornell.edu)
+ - date_published: 2024-07-22T05:26:30.597566+00:00
+
+ ## Rare and Manuscript Collections
+ - [https://rmc.library.cornell.edu](https://rmc.library.cornell.edu)
+ - date_published: 2024-04-30T03:59:11.571501+00:00
+
+ ## Cornell University Web Login
+ - [https://rmps-prod.hosting.cornell.edu](https://rmps-prod.hosting.cornell.edu)
+ - date_published: 2024-07-22T05:24:54.691131+00:00
+
+ ## Robotics at Cornell
+ - [https://robotics.cornell.edu](https://robotics.cornell.edu)
+ - date_published: 2024-06-22T09:05:39+00:00
+
+ ## Mert R. Sabuncu | Professor, Cornell University
+ - [https://sabuncu.engineering.cornell.edu](https://sabuncu.engineering.cornell.edu)
+ - date_published: 2024-07-12T08:16:36+00:00
+
+ ## Cornell SCE
+ - [https://sce.cornell.edu](https://sce.cornell.edu)
+ - date_published: 2024-08-06T17:29:52.340853+00:00
+
+ ## Student & Campus Life | Cornell University
+ - [https://scl.cornell.edu](https://scl.cornell.edu)
+ - date_published: 2024-07-22T05:00:36+00:00
+
+ ## Cornell Tech Safety & Security Department
+ - [https://security.tech.cornell.edu](https://security.tech.cornell.edu)
+ - date_published: 2024-06-22T08:21:26+00:00
+
+ ## Hotel Administration & Hospitality Management School | Cornell SHA
+ - [https://sha.cornell.edu](https://sha.cornell.edu)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## COECIS Sites – Cornell Engineering, Cornell Tech, and Cornell Bowers Computing & Information Science
+ - [https://sites.coecis.cornell.edu](https://sites.coecis.cornell.edu)
+ - date_published: 2024-04-30T03:59:08.484315+00:00
+
+ ## Social Media | University Relations
+ - [https://socialmedia.cornell.edu](https://socialmedia.cornell.edu)
+ - date_published: 2024-08-06T17:30:01.036252+00:00
+
+ ## Home | Environment, Health and Safety
+ - [https://sp.ehs.cornell.edu](https://sp.ehs.cornell.edu)
+ - date_published: 2024-07-21T14:43:35+00:00
+
+ ## Cornell University Department of Statistics and Data Science
+ - [http://stat.cornell.edu](http://stat.cornell.edu)
+ - date_published: 2024-07-22T05:17:02.157705+00:00
+
+ ## University Statements | Cornell University
+ - [https://statements.cornell.edu](https://statements.cornell.edu)
+ - date_published: 2024-04-30T03:58:53.024601+00:00
+
+ ## Cornell Engineering 2030 - Strategic Plan
+ - [https://strategicplan.engineering.cornell.edu](https://strategicplan.engineering.cornell.edu)
+ - date_published: 2024-07-22T05:28:14.542957+00:00
+
+ ## ILR Labor Action Tracker
+ - [https://striketracker.ilr.cornell.edu](https://striketracker.ilr.cornell.edu)
+ - date_published: 2024-04-03T06:41:56.080711+00:00
+
+ ## Welcome | Student Health Benefits
+ - [https://studenthealthbenefits.cornell.edu](https://studenthealthbenefits.cornell.edu)
+ - date_published: 2024-07-22T05:25:01.579708+00:00
+
+ ## Students with Families – For Students, Partners & Children
+ - [https://studentswithfamilies.cornell.edu](https://studentswithfamilies.cornell.edu)
+ - date_published: 2024-04-30T04:00:44.965982+00:00
+
+ ## Sustainability | Cornell University
+ - [https://sustainability.cornell.edu](https://sustainability.cornell.edu)
+ - date_published: 2024-08-06T17:29:32.698946+00:00
+
+ ## Front Page | Sustainable Campus
+ - [https://sustainablecampus.cornell.edu](https://sustainablecampus.cornell.edu)
+ - date_published: 2024-07-21T19:46:12+00:00
+
+ ## TeamDynamix Sign-In
+ - [https://tdx.cornell.edu](https://tdx.cornell.edu)
+ - date_published: 2024-07-17T19:29:06+00:00
+
+ ## Welcome | Center for Teaching Innovation
+ - [https://teaching.cornell.edu](https://teaching.cornell.edu)
+ - date_published: 2024-07-17T16:06:37+00:00
+
+ ## Cornell Tech
+ - [https://tech.cornell.edu](https://tech.cornell.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## The Cafe at Cornell Tech – The Cafe at Cornell Tech
+ - [http://thecafe.tech.cornell.edu](http://thecafe.tech.cornell.edu)
+ - date_published: 2024-06-22T08:37:46+00:00
+
+ ## Office of Institutional Equity and Title IX | Promoting Equity at Cornell
+ - [https://titleix.cornell.edu](https://titleix.cornell.edu)
+ - date_published: 2024-04-30T03:59:42.209363+00:00
+
+ ## Welcome to the Cornell International Travel Registry & ITART Petition | Travel Registry
+ - [https://travelregistry.cornell.edu](https://travelregistry.cornell.edu)
+ - date_published: 2024-07-22T05:18:13.534848+00:00
+
+ ## Board of Trustees
+ - [https://trustees.cornell.edu](https://trustees.cornell.edu)
+ - date_published: 2024-07-22T04:59:18+00:00
+
+ ## Cornell University Web Login
+ - [https://twostep.netid.cornell.edu](https://twostep.netid.cornell.edu)
+ - date_published: 2024-07-22T05:26:16.881191+00:00
+
+ ## Welcome | Undergraduate Education
+ - [https://undergrad.cornell.edu](https://undergrad.cornell.edu)
+ - date_published: 2024-08-06T17:29:27.764406+00:00
+
+ ## Undergraduate Research at Cornell University  — Home
+ - [https://undergraduateresearch.cornell.edu](https://undergraduateresearch.cornell.edu)
+ - date_published: 2024-08-06T16:49:46+00:00
+
+ ## Joel Malina |  University Relations | Cornell University
+ - [https://universityrelations.cornell.edu](https://universityrelations.cornell.edu)
+ - date_published: 2024-04-30T03:58:54.473447+00:00
+
+ ## USDA Economics, Statistics and Market Information System
+ - [https://usda.library.cornell.edu](https://usda.library.cornell.edu)
+ - date_published: 2024-07-08T11:56:45.742502+00:00
+
+ ## Vĕho – The Cornell – University of Bologna Institute for Vehicle Intelligence
+ - [https://veho.mae.cornell.edu](https://veho.mae.cornell.edu)
+ - date_published: 2024-04-30T03:58:05.607137+00:00
+
+ ## Flower-Sprecher Veterinary Library
+ - [https://vet.library.cornell.edu](https://vet.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:17.088369+00:00
+
+ ## VIVO
+ - [http://vivo.med.cornell.edu](http://vivo.med.cornell.edu)
+ - date_published: 2024-06-22T09:46:23.433377+00:00
+
+ ## VIVO
+ - [https://vivo.weill.cornell.edu](https://vivo.weill.cornell.edu)
+ - date_published: 2024-07-22T05:30:05.819782+00:00
+
+ ## Video on Demand
+ - [https://vod.video.cornell.edu](https://vod.video.cornell.edu)
+ - date_published: 2024-08-11T11:10:12+00:00
+
  ## Voter Registration & Election Information | Cornell University
  - [https://vote.cornell.edu](https://vote.cornell.edu)
  - date_published: 2024-07-22T05:30:11.999173+00:00
@@ -3778,225 +3998,4 @@
  ## FSU Alumni Association
  - [https://alumni.fsu.edu](https://alumni.fsu.edu)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Information Technology Services
- - [https://apps.its.fsu.edu](https://apps.its.fsu.edu)
- - date_published: 2024-07-18T18:00:36+00:00
-
- ## Home | ASPIRE - A Strategic Plan to Inspire Research Excellence
- - [https://aspire.fsu.edu](https://aspire.fsu.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Faculty Honors & Awards
- - [http://awards.faculty.fsu.edu](http://awards.faculty.fsu.edu)
- - date_published: 2024-07-22T03:59:49.953753+00:00
-
- ## | FSU Bookstore
- - [https://bookstore.fsu.edu](https://bookstore.fsu.edu)
- - date_published: 2024-04-30T04:15:38.801803+00:00
-
- ## Seminole Boosters | Florida State University
- - [https://boosters.fsu.edu](https://boosters.fsu.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Title of Site
- - [https://bravo.unicomm.fsu.edu](https://bravo.unicomm.fsu.edu)
- - date_published: 2024-07-20T22:28:36.351577+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://budget.fsu.edu](https://budget.fsu.edu)
- - date_published: 2024-07-18T15:08:47+00:00
-
- ## Events Calendar - Florida State University Calendar
- - [https://calendar.fsu.edu](https://calendar.fsu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## FSU Campus Recreation – Find What Moves You.
- - [https://campusrec.fsu.edu](https://campusrec.fsu.edu)
- - date_published: 2024-07-21T17:08:53+00:00
-
- ## The Career Center
- - [https://career.fsu.edu](https://career.fsu.edu)
- - date_published: 2024-04-30T04:15:47.967394+00:00
-
- ## CARE | Center for Academic Retention & Enhancement
- - [https://care.fsu.edu](https://care.fsu.edu)
- - date_published: 2024-07-16T19:16:42+00:00
-
- ## Campus Access & Security Services
- - [https://cass.fsu.edu](https://cass.fsu.edu)
- - date_published: 2024-07-14T18:33:26+00:00
-
- ## Center for Global Engagement
- - [https://cge.fsu.edu](https://cge.fsu.edu)
- - date_published: 2024-07-18T15:03:29+00:00
-
- ## CHAW
- - [https://chaw.fsu.edu](https://chaw.fsu.edu)
- - date_published: 2024-07-17T18:12:36+00:00
-
- ## FSU Childcare &amp; Early Learning Program / Florida State University
- - [https://childcare.fsu.edu](https://childcare.fsu.edu)
- - date_published: 2024-07-22T03:59:27.189904+00:00
-
- ## The Graduate School
- - [https://connect.fsu.edu](https://connect.fsu.edu)
- - date_published: 2024-07-19T19:28:44+00:00
-
- ## Florida State University Controller's Office | Controller's Office
- - [https://controller.vpfa.fsu.edu](https://controller.vpfa.fsu.edu)
- - date_published: 2024-07-17T20:01:25+00:00
-
- ## Counseling & Psychological Services
- - [http://counseling.fsu.edu](http://counseling.fsu.edu)
- - date_published: 2024-07-14T18:24:59+00:00
-
- ## CreateFSU
- - [https://create.fsu.edu](https://create.fsu.edu)
- - date_published: 2024-07-22T04:02:35.152510+00:00
-
- ## Center for Undergraduate Research and Academic Engagement
- - [https://cre.fsu.edu](https://cre.fsu.edu)
- - date_published: 2024-07-19T10:17:39+00:00
-
- ## Computer Science, FSU
- - [https://cs.fsu.edu](https://cs.fsu.edu)
- - date_published: 2024-05-11T11:52:22.118924+00:00
-
- ## Diginole: FSU's Digital Repository | DigiNole
- - [https://diginole.lib.fsu.edu](https://diginole.lib.fsu.edu)
- - date_published: 2024-07-22T04:02:27.439462+00:00
-
- ## Florida State University
- - [https://directory.fsu.edu](https://directory.fsu.edu)
- - date_published: 2024-04-30T04:15:50.235623+00:00
-
- ## Distance@FSU
- - [https://distance.fsu.edu](https://distance.fsu.edu)
- - date_published: 2024-04-30T04:15:33.381895+00:00
-
- ## Overview - FSU Research Computing Center Documentation
- - [https://docs.rcc.fsu.edu](https://docs.rcc.fsu.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Department of Student Support and Transitions
- - [https://dsst.fsu.edu](https://dsst.fsu.edu)
- - date_published: 2024-07-19T16:08:22+00:00
-
- ## Florida State's Economic Impact
- - [https://economic-impact.fsu.edu](https://economic-impact.fsu.edu)
- - date_published: 2024-04-30T04:15:40.699233+00:00
-
- ## College of Education, Health, and Human Sciences
- - [https://education.fsu.edu](https://education.fsu.edu)
- - date_published: 2024-10-14T17:59:05+00:00
-
- ## Emergency Management
- - [https://emergency.fsu.edu](https://emergency.fsu.edu)
- - date_published: 2024-07-14T18:22:40+00:00
-
- ## Florida State University Faculty
- - [https://faculty.fsu.edu](https://faculty.fsu.edu)
- - date_published: 2024-04-30T04:16:06.753891+00:00
-
- ## Faculty Handbook
- - [http://facultyhandbook.fsu.edu](http://facultyhandbook.fsu.edu)
- - date_published: 2024-07-14T18:39:22+00:00
-
- ## Office of Faculty Development and Advancement | Office of Faculty Development and Advancement
- - [https://fda.fsu.edu](https://fda.fsu.edu)
- - date_published: 2024-07-18T20:38:48+00:00
-
- ## Office of Financial Aid
- - [https://financialaid.fsu.edu](https://financialaid.fsu.edu)
- - date_published: 2024-07-15T13:21:44+00:00
-
- ## FSU Foundation
- - [https://foundation.fsu.edu](https://foundation.fsu.edu)
- - date_published: 2024-04-30T04:15:19.436915+00:00
-
- ## Fraternity and Sorority Life
- - [https://fsl.fsu.edu](https://fsl.fsu.edu)
- - date_published: 2024-07-14T18:34:58+00:00
-
- ## Florida State University
- - [https://fsu.edu](https://fsu.edu)
- - date_published: 2023-10-27T12:59:00.241454+00:00
- - tags: ['university']
-
- ## Office of the General Counsel
- - [https://generalcounsel.fsu.edu](https://generalcounsel.fsu.edu)
- - date_published: 2024-04-30T04:15:27.618867+00:00
-
- ## GEOSET Studio
- - [https://geoset.fsu.edu](https://geoset.fsu.edu)
- - date_published: 2024-07-14T18:26:56+00:00
-
- ## Support Florida State University
- - [https://give.fsu.edu](https://give.fsu.edu)
- - date_published: 2024-07-22T04:01:02.452950+00:00
-
- ## FSU Global
- - [https://global.fsu.edu](https://global.fsu.edu)
- - date_published: 2024-04-30T04:16:04.492698+00:00
-
- ## Home | Graduation Planning and Strategies Office
- - [https://gps.fsu.edu](https://gps.fsu.edu)
- - date_published: 2024-07-19T14:00:51+00:00
-
- ## The Graduate School
- - [https://gradschool.fsu.edu](https://gradschool.fsu.edu)
- - date_published: 2024-07-19T19:28:44+00:00
-
- ## Make a Difference during FSU's Great Give | FSU's Great Give
- - [https://greatgive.fsu.edu](https://greatgive.fsu.edu)
- - date_published: 2024-07-22T04:13:22.494903+00:00
-
- ## Research Guides
- - [https://guides.lib.fsu.edu](https://guides.lib.fsu.edu)
- - date_published: 2024-07-22T04:02:32.619586+00:00
-
- ## University Housing / Florida State University
- - [https://housing.fsu.edu](https://housing.fsu.edu)
- - date_published: 2024-04-30T04:16:08.388318+00:00
-
- ## Office of Human Resources
- - [https://hr.fsu.edu](https://hr.fsu.edu)
- - date_published: 2024-04-30T04:15:36.866397+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://hub.research.fsu.edu](https://hub.research.fsu.edu)
- - date_published: 2024-07-14T18:34:50+00:00
-
- ## FSU International Programs
- - [https://international.fsu.edu](https://international.fsu.edu)
- - date_published: 2024-07-22T03:54:39.721097+00:00
-
- ## Office of Institutional Research - Florida State University
- - [https://ir.fsu.edu](https://ir.fsu.edu)
- - date_published: 2024-04-30T04:16:22.769660+00:00
-
- ## Information Technology Services
- - [https://its.fsu.edu](https://its.fsu.edu)
- - date_published: 2024-04-30T04:15:21.474295+00:00
-
- ## Apache Tomcat/9.0.8
- - [https://java.odl.fsu.edu](https://java.odl.fsu.edu)
- - date_published: 2024-07-22T04:14:31.687251+00:00
-
- ## Careers at Florida State | Office of Human Resources
- - [https://jobs.fsu.edu](https://jobs.fsu.edu)
- - date_published: 2024-04-30T04:15:57.303544+00:00
-
- ## Welcome | PS LINKS
- - [https://jobs.omni.fsu.edu](https://jobs.omni.fsu.edu)
- - date_published: 2024-07-22T04:00:10.249855+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://knowmore.fsu.edu](https://knowmore.fsu.edu)
- - date_published: 2024-04-30T04:15:15.133854+00:00
-
- ## College of Law
- - [http://law.fsu.edu](http://law.fsu.edu)
- - date_published: 2024-07-19T21:25:35+00:00
 

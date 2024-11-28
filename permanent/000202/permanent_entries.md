@@ -1,3 +1,171 @@
+ ## Tech Presenters - Easy Tips for Media, Technology and Presentations
+ - [https://techpresenters.com](https://techpresenters.com)
+ - date_published: 2024-10-25T17:56:42+00:00
+
+ ## Empower Your Financial Journey With Networth
+ - [http://techpresident.com](http://techpresident.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## TechRadar | the technology experts
+ - [https://global.techradar.com](https://global.techradar.com)
+ - date_published: 2024-06-16T09:01:15+00:00
+
+ ## TechRadar | the technology experts
+ - [https://techradar.com](https://techradar.com)
+ - date_published: 2024-05-15T02:59:55.173323+00:00
+
+ ## TechRadar TV
+ - [https://videos.techradar.com](https://videos.techradar.com)
+ - date_published: 2024-07-19T02:25:51.468686+00:00
+
+ ## Ethical Hacking Tutorials | Tech Raj Blog
+ - [https://www.blog.techraj156.com](https://www.blog.techraj156.com)
+ - date_published: 2024-10-30T13:46:33.063816+00:00
+
+ ## Home
+ - [https://techreport.com](https://techreport.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## TechRepublic Academy
+ - [https://academy.techrepublic.com](https://academy.techrepublic.com)
+ - date_published: 2024-09-09T22:05:39.074530+00:00
+
+ ## TechRepublic: News, Tips & Advice for Technology Professionals
+ - [https://techrepublic.com](https://techrepublic.com)
+ - date_published: 2023-10-25T09:36:05.591340+00:00
+
+ ## MIT Technology Review
+ - [http://www.techreview.com](http://www.techreview.com)
+ - date_published: 2024-06-20T04:08:10.685197+00:00
+
+ ## HRTech Series: Top HR Technology News, Insights & Analysis
+ - [https://techrseries.com](https://techrseries.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Open Access Journals,peer reviewed articles,scholarly articles,research articles,academic journals
+ - [https://www.techscience.com](https://www.techscience.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Techscriptor
+ - [https://www.techscriptor.com](https://www.techscriptor.com)
+ - date_published: 2024-09-04T16:43:54.924924+00:00
+
+ ## TechSee - Life Simplified | TechSee
+ - [https://techsee.com](https://techsee.com)
+ - date_published: 2024-10-28T17:01:38.239757+00:00
+
+ ## Green Technology Selector
+ - [https://techselector.com](https://techselector.com)
+ - date_published: 2024-09-18T14:49:46.820189+00:00
+
+ ## Tech Shop Magazine: Automotive Repair Tools, Supplies and Equipment
+ - [https://techshopmag.com](https://techshopmag.com)
+ - date_published: 2024-05-11T08:48:21.148371+00:00
+
+ ## Tech•sistence | Greg Rog | Substack
+ - [https://www.techsistence.com](https://www.techsistence.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Techslang — Tech Explained in Simple Terms
+ - [https://techslang.com](https://techslang.com)
+ - date_published: 2024-01-16T18:51:50.284580+00:00
+
+ ## IO Domains in Alexa Top 1 Million | techslides.com
+ - [http://techslides.com](http://techslides.com)
+ - date_published: 2024-09-26T16:22:47.260419+00:00
+
+ ## TechSmith | Create high-quality images and videos for better communication
+ - [https://www.techsmith.com](https://www.techsmith.com)
+ - date_published: 2024-06-13T19:41:50+00:00
+
+ ## Landing Page - Tech Social Net
+ - [https://www.techsocialnet.com](https://www.techsocialnet.com)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Tech Solvency
+ - [https://www.techsolvency.com](https://www.techsolvency.com)
+ - date_published: 2022-12-19T22:11:45+00:00
+
+ ## Technology, Humanity, Knowledge | Techsoulogy
+ - [https://www.techsoulogy.com](https://www.techsoulogy.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## TechSource Systems & Ascendas Systems Group
+ - [https://www.techsource-asia.com](https://www.techsource-asia.com)
+ - date_published: 2024-06-30T12:46:57.330175+00:00
+
+ ## TechSpot | Tech Enthusiasts, Power Users, Gamers
+ - [https://techspot.com](https://techspot.com)
+ - date_published: 2024-06-20T21:29:32.557399+00:00
+
+ ## TechStackFinder
+ - [https://techstackfinder.com](https://techstackfinder.com)
+ - date_published: 2024-08-18T09:13:14.001098+00:00
+
+ ## The Tech Stack Podcast – Interviewing Entrepreneurs, CEOs and Makers about the kit they use.
+ - [https://techstackpod.com](https://techstackpod.com)
+ - date_published: 2024-04-28T04:55:51.497016+00:00
+
+ ## Accelerate Your Success | Techstars Global Startup Network
+ - [https://accelerate.techstars.com](https://accelerate.techstars.com)
+ - date_published: 2024-06-15T00:58:05+00:00
+
+ ## Apply | Techstars
+ - [https://apply.techstars.com](https://apply.techstars.com)
+ - date_published: 2024-06-21T14:53:42+00:00
+
+ ## Join the Global Startup Community | Techstars
+ - [http://communities.techstars.com](http://communities.techstars.com)
+ - date_published: 2024-07-30T17:43:04+00:00
+
+ ## Accelerate Your Success | Techstars Global Startup Network
+ - [https://login.techstars.com](https://login.techstars.com)
+ - date_published: 2024-06-15T00:58:05+00:00
+
+ ## Accelerate Your Success | Techstars Global Startup Network
+ - [https://techstars.com](https://techstars.com)
+ - date_published: 2024-05-06T14:40:42.256743+00:00
+
+ ## Techstars Entrepreneur's Toolkit
+ - [https://toolkit.techstars.com](https://toolkit.techstars.com)
+ - date_published: 2024-06-18T19:57:54+00:00
+
+ ## Venture Deals
+ - [https://venturedeals.techstars.com](https://venturedeals.techstars.com)
+ - date_published: 2024-06-23T14:18:12.958328+00:00
+
+ ## TechStartups | Startups and Technology news
+ - [https://techstartups.com](https://techstartups.com)
+ - date_published: 2023-10-25T17:25:32.553890+00:00
+
+ ## Accuris Standards Store
+ - [http://www.techstreet.com](http://www.techstreet.com)
+ - date_published: 2024-07-19T21:17:51.610476+00:00
+
+ ## Techstrong Learning | Upcoming Events
+ - [https://techstrongevents.com](https://techstrongevents.com)
+ - date_published: 2024-06-15T23:23:59.022323+00:00
+
+ ## Home - Techstrong Group
+ - [https://techstronggroup.com](https://techstronggroup.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home - Techstrong ITSM
+ - [https://techstrongitsm.com](https://techstrongitsm.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - Techstrong Learning
+ - [https://techstronglearning.com](https://techstronglearning.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Techstrong TV Podcasts
+ - [https://techstrongpodcasts.com](https://techstrongpodcasts.com)
+ - date_published: 2024-05-01T04:56:45.118936+00:00
+
+ ## Home - Techstrong Research
+ - [https://techstrongresearch.com](https://techstrongresearch.com)
+ - date_published: 2024-04-14T00:00:00+00:00
+
  ## Techstrong Research Review | Techstrong Group
  - [https://techstrongresearchreviewpodcast.com](https://techstrongresearchreviewpodcast.com)
  - date_published: 2024-06-15T23:23:17.630581+00:00
@@ -3308,6 +3476,9 @@
  - [https://www.testbirds.com](https://www.testbirds.com)
  - date_published: 2024-05-14T00:00:00+00:00
 
+ - [https://testcards.com](https://testcards.com)
+ - date_published: 2024-11-27T10:59:46+00:00
+
  ## Testcontainers Product Updates and Newsletter
  - [https://newsletter.testcontainers.com](https://newsletter.testcontainers.com)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -3867,178 +4038,4 @@
  ## HyperComply
  - [https://trust.textexpander.com](https://trust.textexpander.com)
  - date_published: 2024-06-20T21:09:21+00:00
-
- ## T E X T F I L E S
- - [http://artscene.textfiles.com](http://artscene.textfiles.com)
- - date_published: 1982-01-01T00:00:00+00:00
-
- ## ASCII by Jason Scott
- - [https://ascii.textfiles.com](https://ascii.textfiles.com)
- - date_published: 2024-01-09T02:50:36.905624+00:00
- - tags: ['personal']
-
- ## AUDIO.TEXTFILES.COM
- - [http://audio.textfiles.com](http://audio.textfiles.com)
- - date_published: 2006-03-10T11:12:02+00:00
-
- ## The TEXTFILES.COM BBS List
- - [http://bbslist.textfiles.com](http://bbslist.textfiles.com)
- - date_published: 2020-11-17T02:38:02+00:00
-
- ## CD.TEXTFILES.COM: The Past on Plastic
- - [http://cd.textfiles.com](http://cd.textfiles.com)
- - date_published: 2011-01-21T23:02:37+00:00
-
- ## DIGEST.TEXTFILES.COM
- - [http://digest.textfiles.com](http://digest.textfiles.com)
- - date_published: 2001-09-29T02:00:06+00:00
-
- ## DiscMaster
- - [https://discmaster.textfiles.com](https://discmaster.textfiles.com)
- - date_published: 2024-05-21T03:03:08.780518+00:00
-
- ## tracker.modarchive.org
- - [http://modarchive.textfiles.com](http://modarchive.textfiles.com)
- - date_published: 2024-02-20T19:43:04+00:00
-
- ## PDF.TEXTFILES.COM
- - [http://pdf.textfiles.com](http://pdf.textfiles.com)
- - date_published: 2012-04-28T06:40:48+00:00
-
- ## T E X T F I L E S D O T C O M
- - [http://textfiles.com](http://textfiles.com)
- - date_published: 2023-10-25T17:27:38.063116+00:00
-
- ## The TEXTFILES.COM BBS Timeline
- - [http://timeline.textfiles.com](http://timeline.textfiles.com)
- - date_published: 2021-12-06T08:05:28+00:00
-
- ## 0- Introduction - Text Generator Plugin
- - [https://docs.text-gen.com](https://docs.text-gen.com)
- - date_published: 2024-10-30T11:30:07.718220+00:00
-
- ## TextGen
- - [https://text-gen.com](https://text-gen.com)
- - date_published: 2024-06-19T19:25:28.010048+00:00
-
- ## Startseite Neu - Bündnis für nachhaltige Textilien
- - [https://www.textilbuendnis.com](https://www.textilbuendnis.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Textile Markup Language Documentation
- - [https://textile-lang.com](https://textile-lang.com)
- - date_published: 2013-01-01T00:21:35+00:00
-
- ## TEXT-IMAGE.com
- - [http://www.text-image.com](http://www.text-image.com)
- - date_published: 2022-02-04T00:00:00+00:00
-
- ## Textio - Do less. Be better.
- - [http://textio.com](http://textio.com)
- - date_published: 2024-09-13T23:50:24+00:00
-
- ## Textism: Tools: Textile
- - [http://textism.com](http://textism.com)
- - date_published: 2024-10-31T04:14:07.636029+00:00
-
- ## Textlastig – Text-Adventure Podcast
- - [https://textlastig.com](https://textlastig.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Textmagic
- - [https://my.textmagic.com](https://my.textmagic.com)
- - date_published: 2024-07-09T15:09:42+00:00
-
- ## Textmetrics | Your Smart AI Writing Assistant
- - [https://textmetrics.com](https://textmetrics.com)
- - date_published: 2024-05-12T05:41:06.097179+00:00
-
- ## TextMine: AI powered knowledge base for your business critical documents
- - [https://textmine.com](https://textmine.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Trust Center
- - [https://trust.textmine.com](https://trust.textmine.com)
- - date_published: 2024-05-09T06:39:36.721673+00:00
-
- ## Textomap | Turn text into interactive maps in seconds
- - [https://www.textomap.com](https://www.textomap.com)
- - date_published: 2024-06-19T19:41:17.147295+00:00
-
- ## Textpattern CMS user documentation
- - [https://docs.textpattern.com](https://docs.textpattern.com)
- - date_published: 2024-05-12T03:57:07.803258+00:00
-
- ## Textpattern CMS support forum
- - [https://forum.textpattern.com](https://forum.textpattern.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Textpattern CMS plugins | Plugins for the Textpattern content management system
- - [https://plugins.textpattern.com](https://plugins.textpattern.com)
- - date_published: 2019-04-26T15:59:36+00:00
-
- ## Textpattern CMS | Open source content management system
- - [https://textpattern.com](https://textpattern.com)
- - date_published: 2024-02-24T00:00:00+00:00
- - tags: ['cms']
-
- ## Login | TextQL
- - [https://app.textql.com](https://app.textql.com)
- - date_published: 2024-09-19T01:27:07.101053+00:00
-
- ## TextQL - Your Enterprise Virtual Data Analyst
- - [https://textql.com](https://textql.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## iCIMS | Text Engagement
- - [https://app.textrecruit.com](https://app.textrecruit.com)
- - date_published: 2024-06-13T01:07:09+00:00
-
- ## Text Reverser (Reverse Text) - Backwards Text Generator
- - [https://www.textreverse.com](https://www.textreverse.com)
- - date_published: 2024-06-19T18:54:39.783578+00:00
-
- ## Sign On
- - [https://sell2bell.textron.com](https://sell2bell.textron.com)
- - date_published: 2024-09-18T11:33:47.636109+00:00
-
- ## Homepage
- - [http://www.lycoming.textron.com](http://www.lycoming.textron.com)
- - date_published: 2024-06-27T15:05:37+00:00
-
- ## Texts
- - [https://texts.com](https://texts.com)
- - date_published: 2024-04-30T02:13:33.785597+00:00
-
- ## Free Texting Online. Send Free Text Messages - TextSendr
- - [http://www.textsendr.com](http://www.textsendr.com)
- - date_published: 2024-07-03T11:55:14.237126+00:00
-
- ## textshader
- - [https://textshader.com](https://textshader.com)
- - date_published: 2022-12-22T18:20:12+00:00
-
- ## text/plain – ericlaw talks about security, the web, and software in general
- - [https://textslashplain.com](https://textslashplain.com)
- - date_published: 2023-10-25T17:27:44.879677+00:00
-
- ## Font Generator & 3D Text Style Effects | TextStudio
- - [https://textstudio.com](https://textstudio.com)
- - date_published: 2024-05-07T11:00:20.771656+00:00
-
- ## ʕ•́ᴥ•̀ʔっ♡ Cute and cool text symbols to copy paste
- - [https://text-symbols.com](https://text-symbols.com)
- - date_published: 2024-07-03T07:28:27+00:00
-
- ## TextSynth
- - [https://textsynth.com](https://textsynth.com)
- - date_published: 2024-06-19T18:48:58.226504+00:00
-
- ## Text to diagram
- - [https://text-to-diagram.com](https://text-to-diagram.com)
- - date_published: 2023-03-19T00:09:14+00:00
-
- ## ASCII Text tree generator
- - [https://www.text-tree-generator.com](https://www.text-tree-generator.com)
- - date_published: 2023-02-11T15:06:13+00:00
 

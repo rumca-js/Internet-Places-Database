@@ -1,3 +1,207 @@
+ ## Department Mathematik - LMU München
+ - [https://www.mathematik.uni-muenchen.de](https://www.mathematik.uni-muenchen.de)
+ - date_published: 2024-06-30T08:57:38.558451+00:00
+
+ ## Munich Center for Mathematical Philosophy (MCMP) - LMU Munich
+ - [https://www.mcmp.philosophie.uni-muenchen.de](https://www.mcmp.philosophie.uni-muenchen.de)
+ - date_published: 2024-07-01T20:23:36.798975+00:00
+
+ ## Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft
+ - [https://www.philosophie.uni-muenchen.de](https://www.philosophie.uni-muenchen.de)
+ - date_published: 2024-08-08T00:25:01+00:00
+
+ ## Phonetik und Sprachverarbeitung - LMU München
+ - [http://www.phonetik.uni-muenchen.de](http://www.phonetik.uni-muenchen.de)
+ - date_published: 2024-06-27T07:45:12+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://www.portal.uni-muenchen.de](https://www.portal.uni-muenchen.de)
+ - date_published: 2024-04-29T06:20:10.069236+00:00
+
+ ## Human Centered Ubiquitous Media - LMU München
+ - [https://www.um.informatik.uni-muenchen.de](https://www.um.informatik.uni-muenchen.de)
+ - date_published: 2024-04-29T06:20:01.733868+00:00
+
+ ## Startseite - LMU München
+ - [http://www.uni-muenchen.de](http://www.uni-muenchen.de)
+ - date_published: 2024-07-24T06:47:31.717733+00:00
+
+ ## Willkommen
+ - [https://kap.uni-muenster.de](https://kap.uni-muenster.de)
+ - date_published: 2024-04-29T07:01:03.086111+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.uni-muenster.de](https://piwik.uni-muenster.de)
+ - date_published: 2024-07-24T03:43:17.492021+00:00
+
+ ## Professional School Portal
+ - [https://professional-school-portal.uni-muenster.de](https://professional-school-portal.uni-muenster.de)
+ - date_published: 2024-08-08T19:20:24.415348+00:00
+
+ ## Universität Münster Professional School - Universität Münster Professional School
+ - [https://professional-school.uni-muenster.de](https://professional-school.uni-muenster.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Universität Münster - Stellenausschreibungen
+ - [https://stellen.uni-muenster.de](https://stellen.uni-muenster.de)
+ - date_published: 2024-07-24T03:43:11.820049+00:00
+
+ ## Weiterleitung
+ - [https://studium.uni-muenster.de](https://studium.uni-muenster.de)
+ - date_published: 2024-04-29T07:01:10.095728+00:00
+
+ ## ULB – Startseite
+ - [https://ulb.uni-muenster.de](https://ulb.uni-muenster.de)
+ - date_published: 2024-04-29T07:01:08.952625+00:00
+
+ ## Universität Münster
+ - [https://uni-muenster.de](https://uni-muenster.de)
+ - date_published: 2024-07-24T03:43:13.544567+00:00
+
+ ## Universität Münster Professional School - Universität Münster Professional School
+ - [https://weiterbildung.uni-muenster.de](https://weiterbildung.uni-muenster.de)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Fachbereich Mathematik und Informatik  FB 10
+ - [http://wwwmath.uni-muenster.de](http://wwwmath.uni-muenster.de)
+ - date_published: 2024-06-30T09:13:58.260707+00:00
+
+ ## uninformativ.de
+ - [https://www.uninformativ.de](https://www.uninformativ.de)
+ - date_published: 2024-07-30T14:01:09+00:00
+
+ ## Super Dashboard
+ - [https://anlegen.meindepot.union-investment.de](https://anlegen.meindepot.union-investment.de)
+ - date_published: 2024-10-09T12:24:01.352150+00:00
+
+ ## Startseite
+ - [https://www.union-investment.de](https://www.union-investment.de)
+ - date_published: 2024-10-09T12:25:14.240737+00:00
+
+ ## VIVO
+ - [https://fis.uni-osnabrueck.de](https://fis.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:28.774632+00:00
+
+ ## - SD.NET RIM 4
+ - [https://gms.dienste.uni-osnabrueck.de](https://gms.dienste.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:19.577865+00:00
+
+ ## Weiterleitung
+ - [https://hisinone.uni-osnabrueck.de](https://hisinone.uni-osnabrueck.de)
+ - date_published: 2024-06-13T18:48:27+00:00
+
+ ## LimeSurvey-Klinische-Psychologie
+ - [https://kpp-limesurvey.psy.uni-osnabrueck.de](https://kpp-limesurvey.psy.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:24.645735+00:00
+
+ ## myUOS Login - Universität Osnabrück
+ - [https://myuos.uni-osnabrueck.de](https://myuos.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:15.365444+00:00
+
+ ## SOGo
+ - [https://sogo.uni-osnabrueck.de](https://sogo.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:32.437997+00:00
+
+ ## Universität Osnabrück - Universität Osnabrück
+ - [https://studip.uni-osnabrueck.de](https://studip.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:56.982926+00:00
+
+ ## StudyTest
+ - [http://studynavi.uni-osnabrueck.de](http://studynavi.uni-osnabrueck.de)
+ - date_published: 2023-11-14T08:26:00+00:00
+
+ ## Universität Osnabrück - Start
+ - [https://uni-osnabrueck.de](https://uni-osnabrueck.de)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Startseite - ceder
+ - [https://www.ceder.uni-osnabrueck.de](https://www.ceder.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:12.109196+00:00
+
+ ## CellNanOs - Osnabrück University
+ - [https://www.cellnanos.uni-osnabrueck.de](https://www.cellnanos.uni-osnabrueck.de)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Universität Osnabrück - Start
+ - [http://www.fb1.uni-osnabrueck.de](http://www.fb1.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:49:59.675892+00:00
+
+ ## Universität Osnabrück - Start
+ - [http://www.fb3.uni-osnabrueck.de](http://www.fb3.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:14.145575+00:00
+
+ ## Startseite - IKFN - Institut für Kulturgeschichte der frühen Neuzeit - Universität Osnabrück
+ - [https://www.ikfn.uni-osnabrueck.de](https://www.ikfn.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:18.245345+00:00
+
+ ## Startseite - Universität Osnabrück
+ - [https://www.imis.uni-osnabrueck.de](https://www.imis.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:51:03.795082+00:00
+
+ ## Universität Osnabrück - Start
+ - [http://www.jura.uni-osnabrueck.de](http://www.jura.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:58.503697+00:00
+
+ ## Universität Osnabrück - Start
+ - [http://www.lili.uni-osnabrueck.de](http://www.lili.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:31.437659+00:00
+
+ ## Fachbereich 6 - fb6
+ - [http://www.mathinf.uni-osnabrueck.de](http://www.mathinf.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:09.185100+00:00
+
+ ## Osnabrücker Friedensgespräche
+ - [https://www.ofg.uni-osnabrueck.de](https://www.ofg.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:34.883133+00:00
+
+ ## Startseite - Rechenzentrum Universität Osnabrück
+ - [http://www.rz.uni-osnabrueck.de](http://www.rz.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:48.472278+00:00
+
+ ## Schwarzes Brett - Universität Osnabrück
+ - [https://www.schwarzesbrett.uni-osnabrueck.de](https://www.schwarzesbrett.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:51:00.397160+00:00
+
+ ## UB Osnabrück »Startseite«
+ - [http://www.ub.uni-osnabrueck.de](http://www.ub.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:46.287523+00:00
+
+ ## Universität Osnabrück - Start
+ - [https://www.usf.uni-osnabrueck.de](https://www.usf.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:38.430411+00:00
+
+ ## Universität Osnabrück - Start
+ - [http://www.virtuos.uni-osnabrueck.de](http://www.virtuos.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:55.709261+00:00
+
+ ## Startseite - Universität Osnabrück
+ - [http://www.wiwi.uni-osnabrueck.de](http://www.wiwi.uni-osnabrueck.de)
+ - date_published: 2024-07-20T17:50:42.852958+00:00
+
+ ## Startseite
+ - [http://www.zfh.uni-osnabrueck.de](http://www.zfh.uni-osnabrueck.de)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Informatik | Universität Paderborn
+ - [https://cs.uni-paderborn.de](https://cs.uni-paderborn.de)
+ - date_published: 2024-07-03T17:51:41.195401+00:00
+
+ ## ESEC/FSE 2017
+ - [http://esec-fse17.uni-paderborn.de](http://esec-fse17.uni-paderborn.de)
+ - date_published: 2024-05-08T10:32:15.323522+00:00
+
+ ## LibreCat – Publication List Manager
+ - [https://ris.uni-paderborn.de](https://ris.uni-paderborn.de)
+ - date_published: 2024-07-03T17:51:43.105034+00:00
+
+ ## Universität Paderborn
+ - [https://www.uni-paderborn.de](https://www.uni-paderborn.de)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Fakultät für Informatik und Mathematik • Universität Passau
+ - [https://www.fim.uni-passau.de](https://www.fim.uni-passau.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Philosophische Fakultät • Universität Passau
  - [http://www.phil.uni-passau.de](http://www.phil.uni-passau.de)
  - date_published: 2024-06-30T01:19:51+00:00
@@ -3809,209 +4013,4 @@ Bibliotheken / Z39.50
  ## ZOOKINDERGARTEN MAGDEBURG
  - [http://www.zoo-kindergarten.de](http://www.zoo-kindergarten.de)
  - date_published: 2021-01-18T11:28:48+00:00
-
- ## Zoologischer Garten Magdeburg | Zoologischer Garten Magdeburg
- - [http://www.zoo-magdeburg.de](http://www.zoo-magdeburg.de)
- - date_published: 2024-08-11T22:27:03.856882+00:00
-
- ## FAU Zoom: Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing
- - [https://fau.zoom-x.de](https://fau.zoom-x.de)
- - date_published: 2024-09-20T17:47:25.972831+00:00
-
- ## Support
- - [https://support.zooplus.de](https://support.zooplus.de)
- - date_published: 2024-06-16T06:27:35.303352+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig bestellen | zooplus
- - [https://zooplus.de](https://zooplus.de)
- - date_published: 2024-09-26T11:20:03.574968+00:00
-
- ## package finder tool
- - [https://maintainer.zq1.de](https://maintainer.zq1.de)
- - date_published: 2024-05-08T08:49:54.518164+00:00
-
- ## Index of /
- - [https://rb.zq1.de](https://rb.zq1.de)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Zentrale Studienberatung Osnabrück - Zentrale Studienberatung Osnabrück (ZSB)
- - [http://www.zsb-os.de](http://www.zsb-os.de)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
- - [https://ztb-blutspende.de](https://ztb-blutspende.de)
- - date_published: 2024-04-29T05:58:51.372800+00:00
-
- ## Zentrum für Transfusionsmedizin & Zelltherapie | ZTB
- - [https://www.ztb-charite.de](https://www.ztb-charite.de)
- - date_published: 2024-07-24T16:23:25.406695+00:00
-
- ## Zeitfresser Blog — Lorem ipsum dolor sit amet, consetetur sad...
- - [https://blog.ztfr.de](https://blog.ztfr.de)
- - date_published: 2024-06-18T16:14:36.581498+00:00
-
- ## Zeitfresser - Datenschutz, Sicherheit & Technik
- - [https://ztfr.de](https://ztfr.de)
- - date_published: 2024-10-22T18:35:01.290148+00:00
-
- ## zufallsheld
- - [https://zufallsheld.de](https://zufallsheld.de)
- - date_published: 2024-02-22T13:05:21.693897+00:00
-
- ## Zufärben
- - [https://zufarben.de](https://zufarben.de)
- - date_published: 2021-12-17T22:10:43+00:00
-
- ## https://zukunft-der-sub.de
- - [https://zukunft-der-sub.de](https://zukunft-der-sub.de)
- - date_published: 2024-01-09T02:56:28.461043+00:00
-
- ## www.zukunftsstiftung-bildung.de
- - [https://zukunftsstiftung-bildung.de](https://zukunftsstiftung-bildung.de)
- - date_published: 2024-10-02T10:46:49.126735+00:00
-
- ## GLS Zukunftsstiftung Entwicklung
- - [https://zukunftsstiftung-entwicklung.de](https://zukunftsstiftung-entwicklung.de)
- - date_published: 2024-10-02T10:46:41.982491+00:00
-
- ## www.zukunftsstiftung-landwirtschaft.de
- - [https://zukunftsstiftung-landwirtschaft.de](https://zukunftsstiftung-landwirtschaft.de)
- - date_published: 2024-10-02T10:46:43.371635+00:00
-
- ## www.zukunftsstiftung-mensch-und-gesellschaft.de
- - [https://zukunftsstiftung-mensch-und-gesellschaft.de](https://zukunftsstiftung-mensch-und-gesellschaft.de)
- - date_published: 2024-10-02T10:46:44.828741+00:00
-
- ## Zentrum für umweltbewusste Mobilität - ZuM Heidelberg
- - [https://www.zum-hd.de](https://www.zum-hd.de)
- - date_published: 2024-07-24T03:46:50.803701+00:00
-
- ## Falko Zurell | wondering about stuff
- - [https://falko.zurell.de](https://falko.zurell.de)
- - date_published: 2024-05-09T07:59:10.675642+00:00
-
- ## Home - Weinstube Zur Kiste
- - [https://zur-kiste.de](https://zur-kiste.de)
- - date_published: 2024-04-30T07:12:17.640198+00:00
-
- ## ZWEITZEUGEN e.V.: Erinnern ohne Zeitzeug*innen
- - [https://zweitzeugen.de](https://zweitzeugen.de)
- - date_published: 2024-09-12T15:59:07.068254+00:00
-
- ## Sinclair ZX81 ZX80 Timex TS1000 TS1500 user group ZX-TEAM
- - [http://www.zx81.de](http://www.zx81.de)
- - date_published: 2008-05-02T00:00:00+00:00
-
- ## Future-proof custom software solutions
- - [https://zyklum.de](https://zyklum.de)
- - date_published: 2024-02-29T23:47:38+00:00
-
- ## f.zz.de
- - [http://f.zz.de](http://f.zz.de)
- - date_published: 2024-07-08T02:04:07+00:00
-
- ## Home - Black Friday TV Deals - The Best 4K, 8K, QLED & OLED
- - [https://www.blackfridaytv.deals](https://www.blackfridaytv.deals)
- - date_published: 2022-09-21T16:57:11+00:00
-
- ## Game deals - Find video games on sale - GG.deals
- - [https://gg.deals](https://gg.deals)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Jelly Deals
- - [https://jelly.deals](https://jelly.deals)
- - date_published: 2023-12-13T15:40:49.601884+00:00
-
- ## Surfshark: secure online VPN service & more
- - [https://surfshark.deals](https://surfshark.deals)
- - date_published: 2024-02-24T09:57:36.415179+00:00
-
- ## Transfer App
- - [https://ecu.transfer.degree](https://ecu.transfer.degree)
- - date_published: 2024-08-09T02:03:19+00:00
-
- ## Explore - git.meli.delivery
- - [https://git.meli.delivery](https://git.meli.delivery)
- - date_published: 2023-10-25T18:34:11.386923+00:00
-
- ## meli terminal mail client
- - [https://meli.delivery](https://meli.delivery)
- - date_published: 2024-04-29T07:13:36.005635+00:00
-
- ## Relay Delivery
- - [https://www.relay.delivery](https://www.relay.delivery)
- - date_published: 2024-09-09T16:36:08.314616+00:00
-
- ## Huckabuy Schema Delivery
- - [https://schema.delivery](https://schema.delivery)
- - date_published: 2024-08-18T07:13:21.813494+00:00
-
- ## Dental ergonomic loupes, headlights & software - Bryant Dental
- - [https://bryant.dental](https://bryant.dental)
- - date_published: 2024-07-04T18:24:25.784816+00:00
-
- ## 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐃𝐞𝐧𝐭𝐢𝐬𝐭 𝐢𝐧 𝐂𝐚𝐦𝐝𝐞𝐧, 𝐋𝐨𝐧𝐝𝐨𝐧 𝐨𝐩𝐞𝐧 𝟕 𝐝𝐚𝐲𝐬 𝐚 𝐰𝐞𝐞𝐤 𝐨𝐟𝐟𝐞𝐫𝐢𝐧𝐠 𝐚 𝐰𝐢𝐝𝐞 𝐫𝐚𝐧𝐠𝐞 𝐨𝐟 𝐝𝐞𝐧𝐭𝐚𝐥 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 | 🦷 𝐅𝐨𝐫𝐞𝐬𝐭 & 𝐑𝐚𝐲 😊 𝐃𝐞𝐧𝐭𝐢𝐬𝐭𝐬, 𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐬𝐭𝐬, 𝐈𝐦𝐩𝐥𝐚𝐧𝐭 𝐒𝐮𝐫𝐠𝐞𝐨𝐧𝐬
- - [https://forestray.dentist](https://forestray.dentist)
- - date_published: 2024-10-15T06:56:49+00:00
-
- ## Alessandro De Simone - Software Engineer - London
- - [https://alessandro.desi](https://alessandro.desi)
- - date_published: 2023-12-19T09:58:57.272282+00:00
- - tags: ['personal']
-
- ## 1984.design • Expand your knowledge & improve your design skills.
- - [https://1984.design](https://1984.design)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## ABIA
- - [https://abia.design](https://abia.design)
- - date_published: 2024-09-18T11:04:23.830368+00:00
-
- ## Adobe Design
- - [https://adobe.design](https://adobe.design)
- - date_published: 2024-05-01T02:27:37.750190+00:00
-
- ## AEQUO DESIGN
- - [https://aequo.design](https://aequo.design)
- - date_published: 2024-07-04T01:55:16.652397+00:00
-
- ## Ai meets design - aimeets.design
- - [https://aimeets.design](https://aimeets.design)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## aimpie.design
- - [https://aimpie.design](https://aimpie.design)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Airbnb Design
- - [https://airbnb.design](https://airbnb.design)
- - date_published: 2024-04-29T07:18:12.718027+00:00
-
- ## Algorithm-Driven Design — How Artificial Intelligence is Changing Design by Yury Vetrov
- - [https://algorithms.design](https://algorithms.design)
- - date_published: 2023-11-17T00:00:00+00:00
-
- ## Anith Vishwanath • Product Designer
- - [https://anith.design](https://anith.design)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Ant Design - The world's second most popular React UI framework
- - [https://ant.design](https://ant.design)
- - date_published: 2024-06-21T15:26:18+00:00
-
- ## App Motion - Mobile motion design gallery
- - [https://appmotion.design](https://appmotion.design)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## archives.design
- - [https://archives.design](https://archives.design)
- - date_published: 2023-10-25T18:34:15.291934+00:00
-
- ## Artificial Design
- - [https://artificial.design](https://artificial.design)
- - date_published: 2024-05-09T08:23:25.805542+00:00
-
- ## Atlas
- - [https://atlas.design](https://atlas.design)
- - date_published: 2024-09-09T13:59:39.666226+00:00
 

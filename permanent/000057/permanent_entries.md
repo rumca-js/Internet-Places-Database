@@ -1,3 +1,31 @@
+ ## 'till you see the whites of their eyes... 4th Praetorian Mechanised
+ - [http://colonel-winterborne.blogspot.com](http://colonel-winterborne.blogspot.com)
+ - date_published: 2024-10-26T12:33:25+00:00
+
+ ## Colonize Orbital Space
+ - [http://colonizeorbitalspace.blogspot.com](http://colonizeorbitalspace.blogspot.com)
+ - date_published: 2024-03-07T08:10:24+00:00
+
+ ## Our Spaceship  Earth
+ - [https://colonizespace.blogspot.com](https://colonizespace.blogspot.com)
+ - date_published: 2019-07-08T00:00:00+00:00
+
+ ## Colorado Lifestyle
+ - [http://colorado-lifestyle.blogspot.com](http://colorado-lifestyle.blogspot.com)
+ - date_published: 2022-02-02T00:00:00+00:00
+
+ ## Colorifice
+ - [http://colorifice.blogspot.com](http://colorifice.blogspot.com)
+ - date_published: 2024-07-11T22:34:46+00:00
+
+ ## Coloured Dust
+ - [http://coloureddust.blogspot.com](http://coloureddust.blogspot.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## The Colour Of War
+ - [http://colourofwar.blogspot.com](http://colourofwar.blogspot.com)
+ - date_published: 2024-07-19T18:14:35+00:00
+
  ## Colours and Eagles
  - [http://coloursandeagles.blogspot.com](http://coloursandeagles.blogspot.com)
  - date_published: 2024-10-24T21:01:38+00:00
@@ -3979,32 +4007,4 @@
  ## El Soldado Tranquilo
  - [http://elsoldadotranquilo.blogspot.com](http://elsoldadotranquilo.blogspot.com)
  - date_published: 2024-03-14T17:52:50+00:00
-
- ## It's a Mystery
- - [http://elspeth-itsamystery.blogspot.com](http://elspeth-itsamystery.blogspot.com)
- - date_published: 2024-10-17T23:04:15.701808+00:00
-
- ## VADEMÉCUM
- - [http://el-vademecum.blogspot.com](http://el-vademecum.blogspot.com)
- - date_published: 2024-10-12T20:49:16+00:00
-
- ## elves ate my homework
- - [http://elvesatemyhomework.blogspot.com](http://elvesatemyhomework.blogspot.com)
- - date_published: 2024-03-13T20:58:25+00:00
-
- ## Elysian 205th
- - [http://elysian205th.blogspot.com](http://elysian205th.blogspot.com)
- - date_published: 2024-08-29T00:06:23+00:00
-
- ## Elzeviroblog
- - [https://elzeviroblog.blogspot.com](https://elzeviroblog.blogspot.com)
- - date_published: 2024-09-02T16:46:06+00:00
-
- ## emacs-fu
- - [http://emacs-fu.blogspot.com](http://emacs-fu.blogspot.com)
- - date_published: 2024-02-07T04:12:32+00:00
-
- ## emacs life
- - [http://emacslife.blogspot.com](http://emacslife.blogspot.com)
- - date_published: 2024-03-14T01:33:44+00:00
 

@@ -1,3 +1,11 @@
+ ## Accueil | L’Hôpital d’Ottawa
+ - [https://fondationho.ca](https://fondationho.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://fool.ca](https://fool.ca)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## LES EXPERTS DU FORAGE DE PUITS  AU QUÉBEC - Experts en forage de puits
  - [https://foragedepuits.ca](https://foragedepuits.ca)
  - date_published: 2024-09-10T11:09:37+00:00
@@ -4035,12 +4043,4 @@
  - [https://pvk.ca](https://pvk.ca)
  - date_published: 2023-10-25T09:02:45.102005+00:00
  - tags: ['personal']
-
- ## PyCon Canada 2019
- - [http://pycon.ca](http://pycon.ca)
- - date_published: 2024-06-28T20:23:54.732633+00:00
-
- ## Pyskool
- - [https://pyskool.ca](https://pyskool.ca)
- - date_published: 2019-06-17T21:02:00+00:00
 

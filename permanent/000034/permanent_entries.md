@@ -1,3 +1,23 @@
+ ## OneGate
+ - [https://mg-local.servicios.javerianacali.edu.co](https://mg-local.servicios.javerianacali.edu.co)
+ - date_published: 2024-09-11T16:59:15.161310+00:00
+
+ ## Servicios PQRSF
+ - [https://pqrsf.javerianacali.edu.co](https://pqrsf.javerianacali.edu.co)
+ - date_published: 2023-09-12T16:58:14+00:00
+
+ ## Conoce nuestros cursos y diplomados
+ - [https://virtual.javerianacali.edu.co](https://virtual.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:01:33.641762+00:00
+
+ ## Vive en Cali | Javeriana Cali
+ - [https://vivirencali.javerianacali.edu.co](https://vivirencali.javerianacali.edu.co)
+ - date_published: 2024-05-30T23:00:03+00:00
+
+ ## SISTEMA ORGANIZACIONAL FINANCIERO & ACADEMICO ADMINISTRATIVO - SOF&A
+ - [https://academico.juanncorpas.edu.co](https://academico.juanncorpas.edu.co)
+ - date_published: 2024-06-12T10:57:42.814362+00:00
+
  ## Centro de Información y Consulta - Catálogo Público Koha
  - [https://catalogo.juanncorpas.edu.co](https://catalogo.juanncorpas.edu.co)
  - date_published: 2024-09-11T16:01:59.340542+00:00
@@ -4009,24 +4029,4 @@
  ## CSV to JSON
  - [https://csvtojson.marvellous.codes](https://csvtojson.marvellous.codes)
  - date_published: 2024-09-26T12:33:16.030844+00:00
-
- ## mary.codes
- - [https://mary.codes](https://mary.codes)
- - date_published: 2024-02-20T11:23:44.124105+00:00
-
- ## melody codes - random stuff melody says
- - [https://melody.codes](https://melody.codes)
- - date_published: 2024-08-10T20:03:50+00:00
-
- ## Home | Mina Markham — engineer. designer. writer. speaker.
- - [https://mina.codes](https://mina.codes)
- - date_published: 2024-04-29T07:42:33.919669+00:00
-
- ## Speedlify
- - [https://speedlify.mina.codes](https://speedlify.mina.codes)
- - date_published: 2024-07-19T16:21:28.229496+00:00
-
- ## minamarkham’s Twitter Archive
- - [https://tweets.mina.codes](https://tweets.mina.codes)
- - date_published: 2024-05-14T04:04:02.392283+00:00
 

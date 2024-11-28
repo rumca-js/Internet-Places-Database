@@ -1,3 +1,263 @@
+ ## Računalniški muzej | Eksponati
+ - [https://zbirka.muzej.si](https://zbirka.muzej.si)
+ - date_published: 2024-07-08T18:19:15.045697+00:00
+
+ ## Početna
+ - [https://mvl.si](https://mvl.si)
+ - date_published: 2024-06-20T22:24:15.089243+00:00
+
+ ## Brezplačno Družinsko drevo, Rodoslovje, Zgodovina Družine in DNK Testiranje
+ - [https://www.myheritage.si](https://www.myheritage.si)
+ - date_published: 2024-10-30T07:56:40.448872+00:00
+
+ ## Forbes Slovenija - Posel. Uspeh. Forbes
+ - [https://forbes.n1info.si](https://forbes.n1info.si)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Glavna stran
+ - [https://n1info.si](https://n1info.si)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Najboljše Online Casino v Slovenija za 2024
+ - [https://najboljsaspletnaigralnica.si](https://najboljsaspletnaigralnica.si)
+ - date_published: 2024-10-12T03:42:56+00:00
+
+ ## Domov | NAKVIS
+ - [https://www.nakvis.si](https://www.nakvis.si)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## National Geographic Slovenija
+ - [http://e-revija.nationalgeographic.si](http://e-revija.nationalgeographic.si)
+ - date_published: 2024-10-14T22:41:46.100145+00:00
+
+ ## National Geographic Slovenija – Stopite z nami v svet revije NATIONAL GEOGRAPHIC – revije za vse, ki se želite učiti, širiti svoja obzorja, odkrivati čudežni svet rastlin in živali, spoznavati daljne in neznane kraje, ljudi in običaje, pa tudi Slovenijo.
+ - [http://www.nationalgeographic.si](http://www.nationalgeographic.si)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Začetna stran Nestlé Slovenija
+ - [http://www.nestle.si](http://www.nestle.si)
+ - date_published: 2024-09-14T20:51:21+00:00
+
+ ## Narodni muzej Slovenije
+ - [https://nms.si](https://nms.si)
+ - date_published: 2023-10-25T22:39:12.070893+00:00
+
+ ## Norveški finančni mehanizem in Finančni mehanizem EGP 2014–2021 | Norway grants
+ - [http://norwaygrants.si](http://norwaygrants.si)
+ - date_published: 2024-06-27T15:11:59+00:00
+
+ ## Evropska pravna fakulteta Nove univerze - Evropska pravna fakulteta je mednarodno priznana visokošolska institucija. Individualni pristop. Popoldanska predavanja. Vrhunski akademski kader. Karierni center. E-izobraževanje. Obštudijske dejavnosti. Fleksibilni urniki. Akademski zbor učiteljev. Študentske izmenjave.
+ - [https://epf.nova-uni.si](https://epf.nova-uni.si)
+ - date_published: 2024-10-18T22:05:31.842051+00:00
+
+ ## nullobsi
+ - [https://nullob.si](https://nullob.si)
+ - date_published: 2024-05-09T08:25:14.606237+00:00
+
+ ## Browse :: Nyaa
+ - [https://nyaa.si](https://nyaa.si)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Browse :: Sukebei
+ - [https://sukebei.nyaa.si](https://sukebei.nyaa.si)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Odmasevalec.si, Regent.si
+ - [https://odmasevalec.si](https://odmasevalec.si)
+ - date_published: 2018-01-09T15:03:38+00:00
+
+ ## Harvey Norman - Odprodaja Eksponatov
+ - [https://odprodaja-eksponatov.si](https://odprodaja-eksponatov.si)
+ - date_published: 2024-09-13T09:06:42+00:00
+
+ ## Opel Slovenija - Oplova nova vozila, kombiji in gospodarska vozila, Oplove ponudbe, Oplove novice
+ - [https://www.opel.si](https://www.opel.si)
+ - date_published: 2024-07-11T11:49:07+00:00
+
+ ## Panoptikon
+ - [https://www.panoptikon.si](https://www.panoptikon.si)
+ - date_published: 2024-06-28T21:51:16.341174+00:00
+
+ ## ParkCity - Spletna trgovina z urami in nakitom
+ - [https://parkcity.si](https://parkcity.si)
+ - date_published: 2020-11-11T14:07:06+00:00
+
+ ## Petrol | Energija za življenje
+ - [https://www.petrol.si](https://www.petrol.si)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Philips - Slovenija
+ - [https://www.philips.si](https://www.philips.si)
+ - date_published: 2024-10-30T20:50:27+00:00
+
+ ## Plan B - mreža nevladnih organizacij za trajnostni razvoj
+ - [http://www.planbzaslovenijo.si](http://www.planbzaslovenijo.si)
+ - date_published: 2024-07-08T13:36:47.022873+00:00
+
+ ## PLANINSKO DRUŠTVO VIPAVA – Skupaj varno v gore
+ - [https://www.planinsko-drustvo-vipava.si](https://www.planinsko-drustvo-vipava.si)
+ - date_published: 2024-06-28T11:33:18.293288+00:00
+
+ ## PLAYGAME.si - Trgovina z igralnimi konzolami
+ - [https://playgame.si](https://playgame.si)
+ - date_published: 2024-06-15T03:27:59.211347+00:00
+
+ ## PM TechHub
+ - [https://techhub.p-m.si](https://techhub.p-m.si)
+ - date_published: 2024-08-11T16:54:43.396028+00:00
+
+ ## pocketbook
+ - [https://pocketbook.si](https://pocketbook.si)
+ - date_published: 2024-07-20T16:13:18.363324+00:00
+
+ ## Podjetniški portal - informacije za potencialne podjetnike, podjetnike začetnike in rastoča podjetja na enem mestu | Podjetniški portal
+ - [https://www.podjetniski-portal.si](https://www.podjetniski-portal.si)
+ - date_published: 2024-07-01T07:35:13.924633+00:00
+
+ ## SPS
+ - [http://www.podjetniskisklad.si](http://www.podjetniskisklad.si)
+ - date_published: 2024-07-01T07:35:42.019965+00:00
+
+ ## Financiranje vozil Porsche
+ - [https://financiranje.porsche.si](https://financiranje.porsche.si)
+ - date_published: 2024-06-28T19:26:54.456030+00:00
+
+ ## Porsche Center Ljubljana
+ - [https://porsche.si](https://porsche.si)
+ - date_published: 2024-05-06T23:42:20.828089+00:00
+
+ ## Pridi na FERI - Pridi na FERI!
+ - [https://pridi-na-feri.si](https://pridi-na-feri.si)
+ - date_published: 2024-09-15T23:59:09.109435+00:00
+
+ ## Prima produkcija
+ - [https://www.primaprodukcija.si](https://www.primaprodukcija.si)
+ - date_published: 2024-09-03T23:41:15.214144+00:00
+
+ ## Skupna kmetijska politika - SKP
+ - [http://www.program-podezelja.si](http://www.program-podezelja.si)
+ - date_published: 2014-11-06T13:44:53+00:00
+
+ ## Ford Testne vožnje - Domača stran
+ - [https://testirajford.prvaizbira.si](https://testirajford.prvaizbira.si)
+ - date_published: 2024-10-29T21:43:29.987678+00:00
+
+ ## Ford Prva izbira – FORD avtomobili iz zaloge
+ - [https://www.prvaizbira.si](https://www.prvaizbira.si)
+ - date_published: 2024-10-29T21:43:32.517050+00:00
+
+ ## Izdelava spletnih strani in trgovin - qStom d.o.o.
+ - [https://www.qstom.si](https://www.qstom.si)
+ - date_published: 2024-09-15T23:56:53.952078+00:00
+
+ ## Querida
+ - [http://querida.si](http://querida.si)
+ - date_published: 2024-10-27T09:09:07+00:00
+
+ ## Querida
+ - [https://www.querida.si](https://www.querida.si)
+ - date_published: 2024-07-08T17:26:19+00:00
+
+ ## Dobrodošli - Računalniški muzej
+ - [https://racunalniski-muzej.si](https://racunalniski-muzej.si)
+ - date_published: 2019-01-14T03:59:54+00:00
+
+ ## Naslovnica
+ - [http://razvoj-podezelja.si](http://razvoj-podezelja.si)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## SRRS - Slovenski regionalno razvojni sklad
+ - [http://www.regionalnisklad.si](http://www.regionalnisklad.si)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Evropski sklad za pomorstvo in ribištvo v Republiki Sloveniji - Ribiški sklad
+ - [http://ribiski-sklad.si](http://ribiski-sklad.si)
+ - date_published: 2024-07-01T07:35:30.771042+00:00
+
+ ## Robert Isoski
+ - [https://www.robert.si](https://www.robert.si)
+ - date_published: 2024-10-31T04:49:20.236036+00:00
+
+ ## Domov - Založba Rokus Klett
+ - [https://www.rokus-klett.si](https://www.rokus-klett.si)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Domov
+ - [http://www.rs-rs.si](http://www.rs-rs.si)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Prvi
+ - [https://prvi.rtvslo.si](https://prvi.rtvslo.si)
+ - date_published: 2024-09-16T00:40:30.460275+00:00
+
+ ## RTVSLO.SI
+ - [https://www.rtvslo.si](https://www.rtvslo.si)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## safe.si | Točka osveščanja o varni rabi interneta in mobilnih naprav za otroke, najstnike, starše in učitelje
+ - [http://www.safe.si](http://www.safe.si)
+ - date_published: 2024-07-01T06:45:31+00:00
+
+ ## secu.si
+ - [https://secu.si](https://secu.si)
+ - date_published: 2024-05-09T08:27:06.297705+00:00
+
+ ## Shoppster Slovenija | Več kot 1800 proizvajalcev | Shoppster
+ - [https://www.shoppster.si](https://www.shoppster.si)
+ - date_published: 2024-09-16T02:45:42.917355+00:00
+
+ ## SICRIS
+ - [https://www.sicris.si](https://www.sicris.si)
+ - date_published: 2024-09-16T00:01:18.867646+00:00
+
+ ## Najem vozila | SIXT Rent a Car
+ - [https://sixt.si](https://sixt.si)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Javni štipendijski, razvojni, invalidski in preživninski sklad RS
+ - [http://www.sklad-kadri.si](http://www.sklad-kadri.si)
+ - date_published: 2024-07-01T07:36:05.663345+00:00
+
+ ## Sklad skladov | SID banka
+ - [https://www.skladskladov.si](https://www.skladskladov.si)
+ - date_published: 2024-07-01T07:35:19.883803+00:00
+
+ ## Skupna kmetijska politika - SKP
+ - [https://skp.si](https://skp.si)
+ - date_published: 2014-11-06T13:44:53+00:00
+
+ ## Slamič | Že od leta 1932
+ - [https://slamic.si](https://slamic.si)
+ - date_published: 2024-05-06T22:40:52.962496+00:00
+
+ ## Slovenia Green
+ - [https://www.slovenia-green.si](https://www.slovenia-green.si)
+ - date_published: 2024-06-28T11:33:23.583079+00:00
+
+ ## Shopper's Mind Slovenija | sMind.si
+ - [https://smind.si](https://smind.si)
+ - date_published: 2024-09-16T02:22:28.479742+00:00
+
+ ## Domača stran - SNCDA
+ - [https://sncda.si](https://sncda.si)
+ - date_published: 2024-10-18T21:24:58.194643+00:00
+
+ ## Sony ZK | Najnovejše tehnološke novice | Elektronika | Razvedrilo
+ - [https://www.sony.si](https://www.sony.si)
+ - date_published: 2024-09-13T15:00:22+00:00
+
+ ## Hiša posebne sorte
+ - [https://sorta.si](https://sorta.si)
+ - date_published: 2024-05-06T22:41:00.995233+00:00
+
+ ## Sparkasse - prebivalstvo
+ - [https://www.sparkasse.si](https://www.sparkasse.si)
+ - date_published: 2024-10-02T11:11:27.711961+00:00
+
+ ## SPARTOO | Obutev, torbe in oblačila | Brezplačna dostava
+ - [https://spartoo.si](https://spartoo.si)
+ - date_published: 2024-09-11T18:38:57.397804+00:00
+
  ## Novice | Špil liga
  - [http://www.spilliga.si](http://www.spilliga.si)
  - date_published: 2024-07-20T15:01:56.742484+00:00
@@ -3766,267 +4026,4 @@
  ## Beautiful, Secure, Privacy-Respecting Devices - Purism
  - [https://puri.sm](https://puri.sm)
  - date_published: 2023-10-25T08:37:55.771167+00:00
-
- ## Purism – High-quality laptops that protect your freedom and privacy
- - [https://shop.puri.sm](https://shop.puri.sm)
- - date_published: 2024-08-19T17:52:12.849932+00:00
-
- ## Explore projects · GitLab
- - [https://source.puri.sm](https://source.puri.sm)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Radio e Televisione della Repubblica di San Marino
- - [https://sanmarinortv.sm](https://sanmarinortv.sm)
- - date_published: 2024-02-24T22:12:31.870695+00:00
-
- ## San Marino Setup – Set up your fintech, cryptoasset or innovative project in the Republic of San Marino
- - [https://smsetup.sm](https://smsetup.sm)
- - date_published: 2024-06-16T04:30:17.188326+00:00
-
- ## Welcome to CentOS
- - [https://www.smtvsanmarino.sm](https://www.smtvsanmarino.sm)
- - date_published: 2014-05-16T15:12:48+00:00
-
- ## Rebrandly
- - [https://u.step.sm](https://u.step.sm)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## 3FPT: Fonds de Financement de la Formation Professionnelle et Technique
- - [https://3fpt.sn](https://3fpt.sn)
- - date_published: 2024-09-11T18:10:20+00:00
-
- ## Citroen Sénégal : Vente et achat d'auto et de voiture neuve
- - [https://citroen.sn](https://citroen.sn)
- - date_published: 2024-05-08T05:29:47.890319+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.sn](https://www.citroenorigins.sn)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## DECATHLON Matériels, vêtements, chaussures de sport à Dakar | Sénégal
- - [https://decathlon.sn](https://decathlon.sn)
- - date_published: 2024-06-15T20:35:16.928615+00:00
-
- ## Accueil
- - [https://dit.sn](https://dit.sn)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Grafika Google
- - [https://images.google.sn](https://images.google.sn)
- - date_published: 2024-07-20T07:38:06.561833+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.sn](https://maps.google.sn)
- - date_published: 2024-07-20T07:37:59.481034+00:00
-
- ## Google
- - [https://www.google.sn](https://www.google.sn)
- - date_published: 2024-06-21T22:23:20.304895+00:00
-
- ## Véhicules 4x4 et SUV de luxe performants. Land Rover. | Land Rover
- - [https://www.landrover.sn](https://www.landrover.sn)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Musée des Civilisations noires
- - [https://mcn.sn](https://mcn.sn)
- - date_published: 2024-02-26T08:51:34.376785+00:00
- - tags: ['museum']
-
- ## Maeve Andersen
- - [https://ndr.sn](https://ndr.sn)
- - date_published: 2023-11-09T18:17:36+00:00
-
- ## Pulse Senegal
- - [https://pulse.sn](https://pulse.sn)
- - date_published: 2024-07-03T20:30:41.554120+00:00
-
- ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
- - [https://ron.sn](https://ron.sn)
- - date_published: 2024-05-02T12:08:38.948510+00:00
-
- ## Brian's Blog
- - [https://blog.trl.sn](https://blog.trl.sn)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Accueil | E-Publimmo
- - [https://epublimmo.sncf](https://epublimmo.sncf)
- - date_published: 2024-10-12T13:27:12.683071+00:00
-
- ## SNCF Connect : Réservez vos billets SNCF, bus et covoiturage (OUI.sncf)
- - [https://www.oui.sncf](https://www.oui.sncf)
- - date_published: 2024-05-01T06:49:31.276243+00:00
-
- ## 0-1 — Design and Technology Studio
- - [https://0-1.so](https://0-1.so)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Addy AI - AI for Mortgage Lenders
- - [https://addy.so](https://addy.so)
- - date_published: 2024-10-19T17:49:29+00:00
-
- ## AIJourney : Explore the Leading AI Tools Software - Expert Reviews & Insights
- - [https://aijourney.so](https://aijourney.so)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## AI Mind
- - [https://pub.aimind.so](https://pub.aimind.so)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## AI Tools for Everyone | AI Mind
- - [https://www.aimind.so](https://www.aimind.so)
- - date_published: 2024-05-04T08:03:14.539246+00:00
-
- ## Welcome to Allium | Allium Docs
- - [https://docs.allium.so](https://docs.allium.so)
- - date_published: 2024-09-25T12:18:15.750364+00:00
-
- ## Welcome to Alto
- - [https://alto.so](https://alto.so)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Amie
- - [https://amie.so](https://amie.so)
- - date_published: 2024-05-04T14:01:28.904047+00:00
-
- ## AnimeWorld - Download e Streaming Anime Sub ITA e ITA
- - [https://animeworld.so](https://animeworld.so)
- - date_published: 2024-11-07T08:07:31+00:00
- - tags: ['piracy']
-
- ## Overview - Blog
- - [https://blog.artie.so](https://blog.artie.so)
- - date_published: 2023-11-15T22:31:41.943631+00:00
-
- ## Atlas
- - [https://app.atlas.so](https://app.atlas.so)
- - date_published: 2024-06-22T21:18:04.343233+00:00
-
- ## Avail | Bridge
- - [https://bridge.avail.so](https://bridge.avail.so)
- - date_published: 2024-09-21T23:35:34.879210+00:00
-
- ## Avail Block Explorer
- - [https://explorer.avail.so](https://explorer.avail.so)
- - date_published: 2024-09-21T07:37:03+00:00
-
- ## Aye.so: Link in bio with steroids
- - [https://aye.so](https://aye.so)
- - date_published: 2024-09-02T09:56:02.176190+00:00
-
- ## Ayo
- - [https://ayo.so](https://ayo.so)
- - date_published: 2024-04-28T02:42:02.085332+00:00
-
- ## Basis | The Strategic Finance Platform
- - [https://basis.so](https://basis.so)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Bifrost — convert figma design to react code using AI
- - [https://www.bifrost.so](https://www.bifrost.so)
- - date_published: 2023-09-07T00:00:00+00:00
-
- ## Birdie
- - [https://app.birdie.so](https://app.birdie.so)
- - date_published: 2024-10-06T03:54:07.618347+00:00
-
- ## Home - Brad Morrissey
- - [https://brad.so](https://brad.so)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## it's time for s5.
- - [https://buildspace.so](https://buildspace.so)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## welcome to sage.
- - [https://sage.buildspace.so](https://sage.buildspace.so)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Bullet Templates
- - [https://templates.bullet.so](https://templates.bullet.so)
- - date_published: 2024-06-27T15:45:13.211115+00:00
-
- ## Show HN: I made an open-source Loom alternative
- - [https://cap.so](https://cap.so)
- - date_published: 2024-05-12T23:09:08+00:00
-
- ## Fabio Caruso
- - [https://caru.so](https://caru.so)
- - date_published: 2021-01-31T14:38:02+00:00
-
- ## Homepage
- - [https://cel.so](https://cel.so)
- - date_published: 2024-07-13T04:16:14.728636+00:00
-
- ## Circa No-Code Website Builder
- - [https://circa.so](https://circa.so)
- - date_published: 2024-07-24T02:35:02.363143+00:00
-
- ## Cierpliwości...
- - [https://askreligion.circle.so](https://askreligion.circle.so)
- - date_published: 2024-05-11T07:32:07.039626+00:00
-
- ## Circle
- - [https://assets.circle.so](https://assets.circle.so)
- - date_published: 2024-09-09T22:54:39.529038+00:00
-
- ## Cierpliwości...
- - [https://circle.so](https://circle.so)
- - date_published: 2024-05-06T20:26:34.916751+00:00
-
- ## Cierpliwości...
- - [https://codingcareer.circle.so](https://codingcareer.circle.so)
- - date_published: 2024-05-06T13:04:02.484858+00:00
-
- ## Cierpliwości...
- - [https://hit-subscribe.circle.so](https://hit-subscribe.circle.so)
- - date_published: 2024-05-01T03:29:11.867322+00:00
-
- ## Cierpliwości...
- - [https://joyfulcooking.circle.so](https://joyfulcooking.circle.so)
- - date_published: 2024-06-23T13:38:06.127043+00:00
-
- ## Circle
- - [https://login.circle.so](https://login.circle.so)
- - date_published: 2024-09-09T22:54:32.993155+00:00
-
- ## Claros
- - [https://claros.so](https://claros.so)
- - date_published: 2024-10-30T20:09:27.541193+00:00
-
- ## Generate ads in seconds with AI
- - [https://www.clickable.so](https://www.clickable.so)
- - date_published: 2024-06-19T21:06:03.771245+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [http://clio.so](http://clio.so)
- - date_published: 2024-06-19T06:05:12+00:00
-
- ## Cohere | Voice
- - [https://voice.cohere.so](https://voice.cohere.so)
- - date_published: 2024-06-23T14:21:21.584470+00:00
-
- ## Cohesive
- - [https://cohesive.so](https://cohesive.so)
- - date_published: 2024-06-19T19:33:12.830794+00:00
-
- ## Homepage - Cortex
- - [https://cortex.so](https://cortex.so)
- - date_published: 2024-10-30T09:43:13.169710+00:00
-
- ## Welcome to Cosmos
- - [https://cosmos.so](https://cosmos.so)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Creator Economy by Peter Yang | Substack
- - [https://creatoreconomy.so](https://creatoreconomy.so)
- - date_published: 2023-10-25T10:08:47.677770+00:00
- - tags: ['substack']
-
- ## Cursor
- - [http://cursor.so](http://cursor.so)
- - date_published: 2024-07-09T15:55:10.875429+00:00
-
- ## Decision: What if decisions were easy?
- - [https://decision.so](https://decision.so)
- - date_published: 2023-09-27T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## 智慧北理统一门户
+ - [http://i.bit.edu.cn](http://i.bit.edu.cn)
+ - date_published: 2024-08-07T13:36:35.115960+00:00
+
+ ## 北京理工大学国际交流合作处
+ - [https://international.bit.edu.cn](https://international.bit.edu.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Study in BIT
  - [http://isc.bit.edu.cn](http://isc.bit.edu.cn)
  - date_published: 2024-07-27T06:57:38+00:00
@@ -3994,12 +4002,4 @@
  ## 广州市委网信办-中共广州市委网络安全和信息化委员会办公室-广州网信办
  - [https://www.gzwxb.gov.cn](https://www.gzwxb.gov.cn)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## 中国人民政治协商会议广州市委员会
- - [https://www.gzzx.gov.cn](https://www.gzzx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 海南省农业农村厅
- - [http://agri.hainan.gov.cn](http://agri.hainan.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
 

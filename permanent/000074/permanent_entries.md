@@ -1,3 +1,39 @@
+ ## the art of non-conformity
+ - [https://chrisguillebeau.com](https://chrisguillebeau.com)
+ - date_published: 2024-05-06T18:14:47.462234+00:00
+
+ ## Christopher Guindon - Manager, Web Development at The Eclipse Foundation
+ - [https://www.chrisguindon.com](https://www.chrisguindon.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Chris Haarburger Blog
+ - [https://chris-haarburger.com](https://chris-haarburger.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Chris Hart Consulting - Strategic software advice
+ - [https://chrishartconsulting.com](https://chrishartconsulting.com)
+ - date_published: 2024-05-09T08:24:28.579996+00:00
+
+ ## Chris Hecker's Website
+ - [http://chrishecker.com](http://chrishecker.com)
+ - date_published: 2024-09-19T14:14:52+00:00
+
+ ## Chris​Hubbs​.com
+ - [https://chrishubbs.com](https://chrishubbs.com)
+ - date_published: 2024-07-05T01:37:27+00:00
+
+ ## Grow superpowers beyond the code.
+ - [https://chrishufnagel.com](https://chrishufnagel.com)
+ - date_published: 2024-05-11T10:17:46.354172+00:00
+
+ ## Chris is on Infinite Earths - Home of X-Lapsed and Stuff...
+ - [https://www.chrisisoninfiniteearths.com](https://www.chrisisoninfiniteearths.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Chris Istace | Mindful Explorer
+ - [https://chrisistace.com](https://chrisistace.com)
+ - date_published: 2024-05-01T02:12:27.983283+00:00
+
  ## Chris Jeakle | Home
  - [https://chrisjeakle.com](https://chrisjeakle.com)
  - date_published: 2024-05-08T05:14:44.035887+00:00
@@ -750,6 +786,11 @@
  ## Christopher Wik
  - [http://www.chriswik.com](http://www.chriswik.com)
  - date_published: 2024-06-30T10:54:06.067921+00:00
+
+ ## Chris Williamson
+ - [https://chriswillx.com](https://chriswillx.com)
+ - date_published: 2020-06-09T09:26:19+00:00
+ - tags: ['podcast']
 
  ## Chris Wu
  - [https://chriswu.com](https://chriswu.com)
@@ -4003,44 +4044,4 @@
  ## CityFibre | The Full Fibre Broadband Network
  - [https://cityfibre.com](https://cityfibre.com)
  - date_published: 2024-06-18T07:57:56.736764+00:00
-
- ## CityFM89
- - [https://cityfm89.com](https://cityfm89.com)
- - date_published: 2024-05-01T04:16:27.294597+00:00
-
- ## City Food & Drink Lecture
- - [https://cityfooddrinklecture.com](https://cityfooddrinklecture.com)
- - date_published: 2024-05-04T07:05:16.056270+00:00
-
- ## Private Site
- - [http://www.cityfooddrinklecture2024.com](http://www.cityfooddrinklecture2024.com)
- - date_published: 2024-06-19T23:11:26.137223+00:00
-
- ## City Food & Drink Lecture
- - [https://cityfoodlecture.com](https://cityfoodlecture.com)
- - date_published: 2024-06-19T23:11:28.658309+00:00
-
- ## cityfos.com - Local Business Search
- - [https://cityfos.com](https://cityfos.com)
- - date_published: 2024-05-07T13:55:45.097850+00:00
-
- ## Spread Betting, CFD & Forex Trading - City Index UK
- - [https://www.cityindex.com](https://www.cityindex.com)
- - date_published: 2024-05-04T09:43:15.918127+00:00
-
- ## Commercial Real Estate Portal | India: Cityinfo Services
- - [https://properties.cityinfoservices.com](https://properties.cityinfoservices.com)
- - date_published: 2024-10-29T16:24:28.335125+00:00
-
- ## Mitchell Shnier's City Infrastructure
- - [http://cityinfrastructure.com](http://cityinfrastructure.com)
- - date_published: 2006-06-26T03:45:12+00:00
-
- ## Sbobet: Daftar Link Situs Resmi Agen Sbobet88 Terpercaya 2024
- - [https://cityislandseafoodlounge.com](https://cityislandseafoodlounge.com)
- - date_published: 2024-07-04T00:24:20+00:00
-
- ## CityLab - Bloomberg
- - [https://citylab.com](https://citylab.com)
- - date_published: 2024-05-03T00:00:00+00:00
 

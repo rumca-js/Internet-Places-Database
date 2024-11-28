@@ -1,3 +1,225 @@
+ ## Office of Resource and Economic Development
+ - [https://ored.njaes.rutgers.edu](https://ored.njaes.rutgers.edu)
+ - date_published: 2024-07-01T18:43:29.233730+00:00
+
+ ## Home
+ - [https://ored.rutgers.edu](https://ored.rutgers.edu)
+ - date_published: 2024-07-01T17:35:00+00:00
+
+ ## Home | Path 2 Success
+ - [https://path2success.newark.rutgers.edu](https://path2success.newark.rutgers.edu)
+ - date_published: 2024-07-14T23:44:01.594222+00:00
+
+ ## Pragmatic Case Studies in Psychotherapy
+ - [http://pcsp.libraries.rutgers.edu](http://pcsp.libraries.rutgers.edu)
+ - date_published: 2024-10-30T20:33:57.861990+00:00
+
+ ## CAS - Central Authentication Service NetID Login
+ - [https://personalinfo.rutgers.edu](https://personalinfo.rutgers.edu)
+ - date_published: 2024-07-01T18:41:11.399777+00:00
+
+ ## Pest Management Office
+ - [https://pestmanagement.rutgers.edu](https://pestmanagement.rutgers.edu)
+ - date_published: 2024-07-01T18:43:56.504839+00:00
+
+ ## Welcome to Department of Philosophy | School of Arts and Sciences - Rutgers, The State University of New Jersey
+ - [https://philosophy.rutgers.edu](https://philosophy.rutgers.edu)
+ - date_published: 2024-06-23T09:42:13+00:00
+
+ ## Plant & Pest Advisory
+ - [https://plant-pest-advisory.rutgers.edu](https://plant-pest-advisory.rutgers.edu)
+ - date_published: 2024-07-01T18:43:25.095496+00:00
+
+ ## Home
+ - [https://policies.rutgers.edu](https://policies.rutgers.edu)
+ - date_published: 2024-07-01T18:44:40.781412+00:00
+
+ ## University Procurement Services |
+ - [https://procurementservices.rutgers.edu](https://procurementservices.rutgers.edu)
+ - date_published: 2024-07-01T18:36:27+00:00
+
+ ## Welcome to Rutgers Access and Disability Resources | Access and Disability Resources
+ - [https://radr.rutgers.edu](https://radr.rutgers.edu)
+ - date_published: 2024-05-07T20:22:31.836774+00:00
+
+ ## Rutgers Against Hunger
+ - [https://rah.rutgers.edu](https://rah.rutgers.edu)
+ - date_published: 2024-07-01T18:43:45.143433+00:00
+
+ ## Home
+ - [https://rbhs.rutgers.edu](https://rbhs.rutgers.edu)
+ - date_published: 2024-07-01T04:34:16+00:00
+
+ ## Rutgers Camden–IT - RU–Camden IT
+ - [https://rcit.rutgers.edu](https://rcit.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Office of the Registrar | Rutgers University-Camden
+ - [https://registrar.camden.rutgers.edu](https://registrar.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:32:23.867935+00:00
+
+ ## Rutgers Request System | Rutgers University
+ - [https://requests.rutgers.edu](https://requests.rutgers.edu)
+ - date_published: 2024-03-20T21:08:34+00:00
+
+ ## Home
+ - [https://research.rutgers.edu](https://research.rutgers.edu)
+ - date_published: 2024-07-01T17:35:00+00:00
+
+ ## Rutgers Retired Faculty and Staff Association | uhr.rutgers.edu
+ - [http://retirement.rutgers.edu](http://retirement.rutgers.edu)
+ - date_published: 2024-06-28T18:35:47+00:00
+
+ ## DIMACS REU: Research Experience for Undergraduates
+ - [http://reu.dimacs.rutgers.edu](http://reu.dimacs.rutgers.edu)
+ - date_published: 2024-06-12T19:47:54+00:00
+
+ ## Research & Graduate Education
+ - [https://rge.sas.rutgers.edu](https://rge.sas.rutgers.edu)
+ - date_published: 2024-07-01T18:40:33+00:00
+
+ ## ROA
+ - [http://roa.rutgers.edu](http://roa.rutgers.edu)
+ - date_published: 2024-07-02T10:03:48.994250+00:00
+
+ ## Home – Rutgers University Robotics
+ - [http://robotics.cs.rutgers.edu](http://robotics.cs.rutgers.edu)
+ - date_published: 2024-06-30T11:00:38.432014+00:00
+
+ ## HR Liaisons | uhr.rutgers.edu
+ - [http://rocs.rutgers.edu](http://rocs.rutgers.edu)
+ - date_published: 2024-06-28T18:20:54+00:00
+
+ ## RUCOOL | Rutgers Center for Ocean Observing Leadership – The Rutgers University Center for Ocean Observing Leadership (RUCOOL) is creating knowledge of our ocean planet by pushing the limits of science and new technologies while inspiring future generations of ocean explorers.
+ - [https://rucool.marine.rutgers.edu](https://rucool.marine.rutgers.edu)
+ - date_published: 2024-07-01T18:43:36.945283+00:00
+
+ ## All Events | Rutgers-New Brunswick
+ - [https://ruevents.rutgers.edu](https://ruevents.rutgers.edu)
+ - date_published: 2024-05-07T20:09:20.860480+00:00
+
+ ## Home | Rutgers Online Learning Conference
+ - [https://ruonlinecon.rutgers.edu](https://ruonlinecon.rutgers.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - Information Security - Information Security
+ - [https://rusecure.rutgers.edu](https://rusecure.rutgers.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Rutgers University
+ - [https://rutgers.edu](https://rutgers.edu)
+ - date_published: 2024-06-19T21:35:12+00:00
+
+ ## Rutgers Gardens – The official botanic garden of Rutgers University, located on the Rutgers–New Brunswick campus.
+ - [http://rutgersgardens.rutgers.edu](http://rutgersgardens.rutgers.edu)
+ - date_published: 2024-07-01T18:43:48.033057+00:00
+
+ ## Home - RUWireless - RUWireless
+ - [https://ruwireless.rutgers.edu](https://ruwireless.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## sakai.rutgers.edu : Gateway : Sakai Start Page
+ - [http://sakai.rutgers.edu](http://sakai.rutgers.edu)
+ - date_published: 2024-07-01T18:40:11+00:00
+
+ ## Office of International Programs
+ - [https://sasip.rutgers.edu](https://sasip.rutgers.edu)
+ - date_published: 2024-05-07T20:09:02.722174+00:00
+
+ ## Home
+ - [https://sas-it.rutgers.edu](https://sas-it.rutgers.edu)
+ - date_published: 2024-07-01T18:43:09+00:00
+
+ ## Home
+ - [http://sasit.rutgers.edu](http://sasit.rutgers.edu)
+ - date_published: 2024-07-01T18:40:37+00:00
+
+ ## SASN Home
+ - [https://sasn.rutgers.edu](https://sasn.rutgers.edu)
+ - date_published: 2024-03-29T18:07:25.503729+00:00
+
+ ## Office of Administration
+ - [https://sasooa.rutgers.edu](https://sasooa.rutgers.edu)
+ - date_published: 2024-07-01T18:42:30+00:00
+
+ ## Arts and Sciences in Action
+ - [https://sas.rutgers.edu](https://sas.rutgers.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## SAS-NB Advising and Academic Services
+ - [https://sasundergrad.rutgers.edu](https://sasundergrad.rutgers.edu)
+ - date_published: 2024-05-07T20:09:06.035320+00:00
+
+ ## Home - Scarlet Hub
+ - [https://scarlethub.rutgers.edu](https://scarlethub.rutgers.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## ScarletApps - ScarletApps
+ - [https://scarletmail.rutgers.edu](https://scarletmail.rutgers.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Academic Scheduling and Instructional Space
+ - [https://scheduling.rutgers.edu](https://scheduling.rutgers.edu)
+ - date_published: 2024-05-07T20:09:23.958134+00:00
+
+ ## Science Communication Initiative
+ - [https://scicomm.rutgers.edu](https://scicomm.rutgers.edu)
+ - date_published: 2024-07-01T18:44:11.863098+00:00
+
+ ## CareCure Home - 
+		
+		CareCure Forums
+ - [http://sci.rutgers.edu](http://sci.rutgers.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Rutgers Search
+ - [https://search.rutgers.edu](https://search.rutgers.edu)
+ - date_published: 2024-01-25T20:41:34+00:00
+
+ ## Rutgers SEBS Educational Opportunity Fund
+ - [https://sebseof.rutgers.edu](https://sebseof.rutgers.edu)
+ - date_published: 2024-07-01T18:44:14.637962+00:00
+
+ ## Newsroom :  A Product of the SEBS and NJAES Office of Public Outreach and Communication
+ - [http://sebsnjaesnews.rutgers.edu](http://sebsnjaesnews.rutgers.edu)
+ - date_published: 2024-07-01T18:43:28.243181+00:00
+
+ ## Research | School of Environmental and Biological Sciences
+ - [https://sebsnjaesresearch.rutgers.edu](https://sebsnjaesresearch.rutgers.edu)
+ - date_published: 2024-07-01T18:43:42.839208+00:00
+
+ ## The Rutgers School of Environmental and Biological Sciences
+ - [https://sebs.rutgers.edu](https://sebs.rutgers.edu)
+ - date_published: 2024-05-07T20:09:48.204805+00:00
+
+ ## Student to Professional Internship Network
+ - [https://sebsspin.rutgers.edu](https://sebsspin.rutgers.edu)
+ - date_published: 2024-07-01T18:44:16.176306+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://sims.rutgers.edu](https://sims.rutgers.edu)
+ - date_published: 2024-05-07T20:09:12.032176+00:00
+
+ ## About Department Sites at Rutgers-Camden - Department Sites at Rutgers University Camden
+ - [https://sites.camden.rutgers.edu](https://sites.camden.rutgers.edu)
+ - date_published: 2024-05-07T20:08:33.773352+00:00
+
+ ## Mathematics Department - Welcome
+ - [https://sites.math.rutgers.edu](https://sites.math.rutgers.edu)
+ - date_published: 2023-08-22T14:00:39+00:00
+
+ ## Sites@Rutgers - Rutgers University Websites Made Easy
+ - [https://sites.rutgers.edu](https://sites.rutgers.edu)
+ - date_published: 2024-04-30T03:49:26.858594+00:00
+
+ ## School of Engineering Home | Rutgers School of Engineering
+ - [https://soe.rutgers.edu](https://soe.rutgers.edu)
+ - date_published: 2024-08-30T15:24:56+00:00
+
+ ## RU Software Portal - Home
+ - [https://software.rutgers.edu](https://software.rutgers.edu)
+ - date_published: 2024-07-01T18:42:09.559025+00:00
+
  ## Rutgers Special Collection
  - [https://specialcollection.rutgers.edu](https://specialcollection.rutgers.edu)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3793,224 +4015,4 @@
  ## Home - Global Engagement
  - [https://global.tamu.edu](https://global.tamu.edu)
  - date_published: 2024-07-01T20:53:16.073621+00:00
-
- ## Help Desk Central | IT.tamu.edu
- - [https://hdc.tamu.edu](https://hdc.tamu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Human-Empowering Robotics Lab – Empowering Humans with Robots
- - [https://herc.engr.tamu.edu](https://herc.engr.tamu.edu)
- - date_published: 2024-08-07T16:55:36.882419+00:00
-
- ## Howdy
- - [https://howdy.tamu.edu](https://howdy.tamu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## IAMCS | IAMCS
- - [https://iamcs.tamu.edu](https://iamcs.tamu.edu)
- - date_published: 2024-07-22T11:35:51.975270+00:00
-
- ## Institute for Scientific Computation | Texas A&M University
- - [https://isc.tamu.edu](https://isc.tamu.edu)
- - date_published: 2016-02-05T00:00:00+00:00
-
- ## IT Accessibility
- - [https://itaccessibility.tamu.edu](https://itaccessibility.tamu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Interphase Transport Phenomena Laboratory – Department of Nuclear Engineering
- - [http://itp.tamu.edu](http://itp.tamu.edu)
- - date_published: 2024-06-30T05:44:38.666007+00:00
-
- ## Home - TAMU Self-Service
- - [https://itselfservice.tamu.edu](https://itselfservice.tamu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Technology Services | IT.tamu.edu
- - [https://it.tamu.edu](https://it.tamu.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home - LAUNCH
- - [https://launch.tamu.edu](https://launch.tamu.edu)
- - date_published: 2024-07-01T20:53:48.556391+00:00
-
- ## University Libraries
- - [https://library.tamu.edu](https://library.tamu.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - Learning Management System
- - [https://lms.tamu.edu](https://lms.tamu.edu)
- - date_published: 2024-07-01T20:53:45.407742+00:00
-
- ## Sign in to your account
- - [http://mail.google.tamu.edu](http://mail.google.tamu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## TAMU Math Circle
- - [https://mathcircle.tamu.edu](https://mathcircle.tamu.edu)
- - date_published: 2024-07-22T11:36:01.803639+00:00
-
- ## Department of Mathematics, Texas A&amp;M University
- - [https://math.tamu.edu](https://math.tamu.edu)
- - date_published: 2024-04-30T02:19:51.001899+00:00
-
- ## Texas A&M University Mental Health Resources
- - [https://mentalhealth.tamu.edu](https://mentalhealth.tamu.edu)
- - date_published: 2024-04-26T22:34:15+00:00
-
- ## Home - Mobility Division
- - [http://mobility.tamu.edu](http://mobility.tamu.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Nuclear Engineering & Science Center – Texas A&M Engineering Experiment Station
- - [https://nsc.tamu.edu](https://nsc.tamu.edu)
- - date_published: 2024-10-26T14:28:30.310288+00:00
-
- ## Division of Risk, Ethics and Compliance
- - [https://orec.tamu.edu](https://orec.tamu.edu)
- - date_published: 2024-07-01T20:53:49.809474+00:00
-
- ## Engineering People Site
- - [https://people.engr.tamu.edu](https://people.engr.tamu.edu)
- - date_published: 2020-01-23T20:10:08+00:00
-
- ## Open Access Labs (OAL) | IT.tamu.edu
- - [https://people.tamu.edu](https://people.tamu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Philosophy – Study the nature of knowledge, reality, and existence at Texas A&M University
- - [https://philosophy.tamu.edu](https://philosophy.tamu.edu)
- - date_published: 2024-07-01T20:24:05.110479+00:00
-
- ## Precalculus Preparation Program
- - [https://ppp.tamu.edu](https://ppp.tamu.edu)
- - date_published: 2024-07-22T11:36:03.509944+00:00
-
- ## Aggie UX
- - [https://prod.aux.cloud.tamu.edu](https://prod.aux.cloud.tamu.edu)
- - date_published: 2024-04-24T13:30:09+00:00
-
- ## Texas A&M Admissions - Admissions
- - [https://recruiter.tamu.edu](https://recruiter.tamu.edu)
- - date_published: 2024-07-01T20:53:26.710845+00:00
-
- ## Home - Registrar
- - [https://registrar.tamu.edu](https://registrar.tamu.edu)
- - date_published: 2024-07-01T20:53:35.896299+00:00
-
- ## Research@Texas A&M | Inform, Inspire, Amaze – Stories to inform, inspire and amaze from a top-tier research institution.
- - [https://research.tamu.edu](https://research.tamu.edu)
- - date_published: 2024-07-01T20:53:40.521531+00:00
-
- ## Residence Life – Division of Student Affairs
- - [http://reslife.tamu.edu](http://reslife.tamu.edu)
- - date_published: 2024-07-01T20:51:38.087904+00:00
-
- ## Ring Dance – Texas A&M University
- - [https://ringdance.tamu.edu](https://ringdance.tamu.edu)
- - date_published: 2024-02-08T16:48:50.209704+00:00
-
- ## University Rules and SAPs
- - [https://rules-saps.tamu.edu](https://rules-saps.tamu.edu)
- - date_published: 2024-07-01T20:52:51.291195+00:00
-
- ## Texas A&M Law Scholarship
- - [https://scholarship.law.tamu.edu](https://scholarship.law.tamu.edu)
- - date_published: 2024-07-19T23:40:12.668507+00:00
-
- ## Arts & Sciences
- - [https://science.tamu.edu](https://science.tamu.edu)
- - date_published: 2024-06-12T14:32:39+00:00
-
- ## The Science Fiction and Fantasy Research Database
- - [http://sffrd.library.tamu.edu](http://sffrd.library.tamu.edu)
- - date_published: 2024-07-04T13:30:03.624725+00:00
-
- ## Step In. Stand Up.
- - [http://stepinstandup.tamu.edu](http://stepinstandup.tamu.edu)
- - date_published: 2024-04-23T15:04:26+00:00
-
- ## Student Affairs – TAMU – Texas A&M University
- - [https://studentaffairs.tamu.edu](https://studentaffairs.tamu.edu)
- - date_published: 2024-07-01T20:51:20.481391+00:00
-
- ## Texas A&M University | Texas A&M University
- - [https://tamu.edu](https://tamu.edu)
- - date_published: 2024-05-07T20:38:05.484390+00:00
-
- ## Texas A&M Engineering Experiment Station
- - [https://tees.tamu.edu](https://tees.tamu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## TELL SOMEBODY
- - [https://tellsomebody.tamu.edu](https://tellsomebody.tamu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Texas A&M Forest Service Home Page
- - [http://texasforestservice.tamu.edu](http://texasforestservice.tamu.edu)
- - date_published: 2024-07-02T15:02:38.283069+00:00
-
- ## Texas Natural Resources Server | Teaching, Research, Extension, and Service
- - [http://texnat.tamu.edu](http://texnat.tamu.edu)
- - date_published: 2024-09-18T20:27:17.168555+00:00
-
- ## Texas A&M Forest Service Home Page
- - [https://tfsweb.tamu.edu](https://tfsweb.tamu.edu)
- - date_published: 2024-06-20T23:56:21.111305+00:00
-
- ## Texas A&M Today - News from Texas A&M University
- - [https://today.tamu.edu](https://today.tamu.edu)
- - date_published: 2023-10-25T18:59:22.810212+00:00
-
- ## Transportation Services at Texas A&M University
- - [http://transport.tamu.edu](http://transport.tamu.edu)
- - date_published: 2024-07-01T20:51:30.276001+00:00
-
- ## Home
- - [https://tti.tamu.edu](https://tti.tamu.edu)
- - date_published: 2024-07-02T15:03:02.838285+00:00
-
- ## Texas A&M Tuition Calculator
- - [https://tuition.tamu.edu](https://tuition.tamu.edu)
- - date_published: 2024-06-17T19:00:24+00:00
-
- ## Home - Texas A&M Veterinary Medical Diagnostic Laboratory
- - [https://tvmdl.tamu.edu](https://tvmdl.tamu.edu)
- - date_published: 2024-07-02T15:03:00.863164+00:00
-
- ## Circuit Virtual Tours
- - [https://virtualtour.tamu.edu](https://virtualtour.tamu.edu)
- - date_published: 2024-06-12T21:49:58+00:00
-
- ## Division of Research – Texas A&M University
- - [https://vpr.tamu.edu](https://vpr.tamu.edu)
- - date_published: 2024-07-01T20:53:12.746599+00:00
-
- ## Engineering Schools in Qatar - Engineering College | Texas A&M University at Qatar
- - [https://www.qatar.tamu.edu](https://www.qatar.tamu.edu)
- - date_published: 2024-07-01T20:51:49.394538+00:00
-
- ## Prof. Xin Chen's Research Group
- - [https://xchen.engr.tamu.edu](https://xchen.engr.tamu.edu)
- - date_published: 2024-06-22T11:52:56.811269+00:00
-
- ## Texas A&M University-Commerce
- - [https://www.tamuc.edu](https://www.tamuc.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Welcome Home
- - [https://tamucc.edu](https://tamucc.edu)
- - date_published: 2024-07-02T15:03:37.349399+00:00
-
- ## Home page for Texas A&M University - Central Texas
- - [https://www.tamuct.edu](https://www.tamuct.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Texas A&M University at Galveston
- - [https://tamug.edu](https://tamug.edu)
- - date_published: 2024-06-12T00:49:58+00:00
-
- ## TAMUK Home Page
- - [https://www.tamuk.edu](https://www.tamuk.edu)
- - date_published: 2024-06-26T15:21:02+00:00
 

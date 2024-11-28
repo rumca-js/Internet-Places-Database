@@ -1,3 +1,223 @@
+ ## Information Systems & Technology
+ - [http://ist.mit.edu](http://ist.mit.edu)
+ - date_published: 2024-06-16T10:33:45+00:00
+
+ ## Redirecting...
+ - [http://jmlr.csail.mit.edu](http://jmlr.csail.mit.edu)
+ - date_published: 2024-06-23T10:40:48.980860+00:00
+
+ ## Journal of Design and Science
+ - [https://jods.mitpress.mit.edu](https://jods.mitpress.mit.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Julia Lab: Language, Composability, and Scientific Machine Learning (SciML)
+ - [https://julia.mit.edu](https://julia.mit.edu)
+ - date_published: 2024-04-29T14:31:38+00:00
+
+ ## MIT Edgerton Center - K12 Makerspaces
+ - [https://k12maker.mit.edu](https://k12maker.mit.edu)
+ - date_published: 2024-07-07T09:21:49.422090+00:00
+
+ ## Kalyan Veeramachaneni | Kalyan Veeramachaneni | Principal Research Scientist | MIT Schwarzman College of Computing
+ - [https://kalyan.lids.mit.edu](https://kalyan.lids.mit.edu)
+ - date_published: 2024-06-22T09:46:25.654032+00:00
+
+ ## The Knowledge Base - Home - Hermes
+ - [https://kb.mit.edu](https://kb.mit.edu)
+ - date_published: 2024-05-01T06:45:16.815288+00:00
+
+ ## Ketterle Group – Atomic Quantum Gases at MIT
+ - [https://ketterle-group.mit.edu](https://ketterle-group.mit.edu)
+ - date_published: 2024-06-20T17:11:14+00:00
+
+ ## Knowledge Futures
+ - [https://kfg.mit.edu](https://kfg.mit.edu)
+ - date_published: 2024-05-07T19:35:26.291952+00:00
+
+ ## Consortium status update | MIT Consortium for Kerberos and Internet Trust
+ - [http://kit.mit.edu](http://kit.mit.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Knowledge Unbound
+ - [https://knowledgeunbound.mitpress.mit.edu](https://knowledgeunbound.mitpress.mit.edu)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Compositional Koopman Operators
+ - [http://koopman.csail.mit.edu](http://koopman.csail.mit.edu)
+ - date_published: 2020-05-01T16:54:37+00:00
+
+ ## La Casa: A cultural house at MIT
+ - [https://la-casa.mit.edu](https://la-casa.mit.edu)
+ - date_published: 2024-05-04T15:41:23.439519+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://larch-www.lcs.mit.edu](http://larch-www.lcs.mit.edu)
+ - date_published: 2016-08-16T20:40:23+00:00
+
+ ## MIT Computational Law Report
+ - [https://law.mit.edu](https://law.mit.edu)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Home | LCAU
+ - [https://lcau.mit.edu](https://lcau.mit.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home Page | MIT CSAIL
+ - [https://lcs.mit.edu](https://lcs.mit.edu)
+ - date_published: 2024-08-19T20:13:00+00:00
+
+ ## Future of Learning Group
+ - [https://learning.media.mit.edu](https://learning.media.mit.edu)
+ - date_published: 2002-08-05T16:24:05+00:00
+
+ ## We are Invention Education | Lemelson
+ - [https://lemelson.mit.edu](https://lemelson.mit.edu)
+ - date_published: 2024-07-15T05:24:06.426940+00:00
+
+ ## MIT Leaders for Global Operations
+ - [https://lgo.mit.edu](https://lgo.mit.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## LGO-SDM PROGRAM AT MIT - Welcome
+ - [https://lgosdm.mit.edu](https://lgosdm.mit.edu)
+ - date_published: 2021-06-09T12:44:30+00:00
+
+ ## Quick Answers: social sciences & management - MIT Libraries
+ - [https://libanswers.mit.edu](https://libanswers.mit.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Research guides & expert librarians | MIT Libraries
+ - [https://libguides.mit.edu](https://libguides.mit.edu)
+ - date_published: 2024-05-07T19:33:46.320514+00:00
+
+ ## Search | MIT Libraries
+ - [https://lib.mit.edu](https://lib.mit.edu)
+ - date_published: 2024-07-01T15:13:08.535145+00:00
+
+ ## MIT Libraries
+ - [https://libraries.mit.edu](https://libraries.mit.edu)
+ - date_published: 2024-05-07T19:33:43.568942+00:00
+
+ ## MIT Libraries
+ - [https://libraries-stage.mit.edu](https://libraries-stage.mit.edu)
+ - date_published: 2024-07-01T15:13:15.961326+00:00
+
+ ## MIT LIDS | Laboratory for Information & Decision Systems
+ - [https://lids.mit.edu](https://lids.mit.edu)
+ - date_published: 2024-05-09T06:35:20.075142+00:00
+
+ ## MIT Linguistics – Department of Linguistics and Philosophy
+ - [https://linguistics.mit.edu](https://linguistics.mit.edu)
+ - date_published: 2024-05-08T11:14:32.604588+00:00
+
+ ## Learning and Intelligent Systems Group
+ - [https://lis.csail.mit.edu](https://lis.csail.mit.edu)
+ - date_published: 2024-05-04T15:15:52.963723+00:00
+
+ ## Home | MIT List Visual Arts Center
+ - [https://listart.mit.edu](https://listart.mit.edu)
+ - date_published: 2022-01-13T16:06:12+00:00
+
+ ## CSAIL Mailing List Server
+ - [https://lists.csail.mit.edu](https://lists.csail.mit.edu)
+ - date_published: 2023-02-09T18:23:29+00:00
+
+ ## LIT@MIT | LITERATURE AT MIT
+ - [http://lit.mit.edu](http://lit.mit.edu)
+ - date_published: 2024-06-22T11:01:22.744639+00:00
+
+ ## Living Wage Calculator
+ - [https://livingwage.mit.edu](https://livingwage.mit.edu)
+ - date_published: 2023-10-25T18:53:56.639883+00:00
+
+ ## MIT Media Lab Login
+ - [https://login.media.mit.edu](https://login.media.mit.edu)
+ - date_published: 2024-05-07T19:37:54.351217+00:00
+
+ ## Logitext
+ - [http://logitext.mit.edu](http://logitext.mit.edu)
+ - date_published: 2024-06-30T09:42:32.518260+00:00
+
+ ## LSC: The MIT Lecture Series Committee
+ - [http://lsc.mit.edu](http://lsc.mit.edu)
+ - date_published: 2024-05-07T19:37:24.722204+00:00
+
+ ## Luca Carlone – Associate Professor, Department of Aeronautics and Astronautics
+ - [https://lucacarlone.mit.edu](https://lucacarlone.mit.edu)
+ - date_published: 2024-06-22T10:03:35.882534+00:00
+
+ ## LUCHA
+ - [https://lucha.mit.edu](https://lucha.mit.edu)
+ - date_published: 2024-05-04T15:41:32.895854+00:00
+
+ ## MarrNet
+ - [http://marrnet.csail.mit.edu](http://marrnet.csail.mit.edu)
+ - date_published: 2019-07-19T23:42:17+00:00
+
+ ## mastodon.mit.edu
+ - [https://mastodon.mit.edu](https://mastodon.mit.edu)
+ - date_published: 2024-09-16T03:55:07.065904+00:00
+
+ ## MIT Mathematics
+ - [https://math.mit.edu](https://math.mit.edu)
+ - date_published: 2023-10-25T18:54:09.948920+00:00
+
+ ## √mathroots @ MIT |
+ - [http://mathroots.mit.edu](http://mathroots.mit.edu)
+ - date_published: 2024-05-07T19:34:28.593031+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.libraries.mit.edu](https://matomo.libraries.mit.edu)
+ - date_published: 2024-05-07T19:33:48.111967+00:00
+
+ ## Unraveling the Mysteries of the Brain - MIT McGovern Institute
+ - [https://mcgovern.mit.edu](https://mcgovern.mit.edu)
+ - date_published: 2024-06-16T22:24:12.300561+00:00
+
+ ## home | MIT Department of Mechanical Engineering
+ - [http://meche.mit.edu](http://meche.mit.edu)
+ - date_published: 2024-06-22T08:15:22.030467+00:00
+
+ ## News + Updates – MIT Media Lab
+ - [http://media.mit.edu](http://media.mit.edu)
+ - date_published: 2024-06-19T23:46:46.301915+00:00
+
+ ## Home | MIT Entrepreneurship and FinTech Integrator (MEFTI)
+ - [https://mefti.mit.edu](https://mefti.mit.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | MIT Entrepreneurship and Maker Skills Integrator (MEMSI)
+ - [https://memsi.mit.edu](https://memsi.mit.edu)
+ - date_published: 2024-08-07T15:57:16.461115+00:00
+
+ ## MITx MicroMasters
+ - [https://micromasters.mit.edu](https://micromasters.mit.edu)
+ - date_published: 2024-01-15T18:04:13.077285+00:00
+
+ ## The Missing Semester of Your CS Education
+ - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
+ - date_published: 2023-10-25T18:54:11.265361+00:00
+
+ ## Home Page | MITAC
+ - [https://mitac.mit.edu](https://mitac.mit.edu)
+ - date_published: 2024-07-01T01:46:46.071840+00:00
+
+ ## MIT Communication Lab
+ - [https://mitcommlab.mit.edu](https://mitcommlab.mit.edu)
+ - date_published: 2024-06-20T17:11:26.860775+00:00
+
+ ## MIT Center for Real Estate
+ - [https://mitcre.mit.edu](https://mitcre.mit.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Massachusetts Institute of Technology (MIT)
+ - [https://mit.edu](https://mit.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - MIT-IBM Watson AI Lab
+ - [https://mitibmwatsonailab.mit.edu](https://mitibmwatsonailab.mit.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## MIT Museum Homepage | MIT Museum
  - [http://mitmuseum.mit.edu](http://mitmuseum.mit.edu)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -3784,224 +4004,4 @@
  ## Faculty Success
  - [https://profile.nmsu.edu](https://profile.nmsu.edu)
  - date_published: 2024-07-01T16:13:55.182126+00:00
-
- ## Publications | CES
- - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
- - date_published: 2024-05-07T19:47:14.337909+00:00
-
- ## Home | New Mexico State University - BE BOLD. Shape the Future.
- - [https://records.nmsu.edu](https://records.nmsu.edu)
- - date_published: 2024-05-07T19:47:29.219047+00:00
-
- ## ACES Reporting Login
- - [http://reporting.nmsu.edu](http://reporting.nmsu.edu)
- - date_published: 2024-07-01T16:15:45.648457+00:00
-
- ## Report | New Mexico State University
- - [https://report.nmsu.edu](https://report.nmsu.edu)
- - date_published: 2024-07-01T16:13:18.501886+00:00
-
- ## Research - Home Page | New Mexico State University | BE BOLD. Shape the Future.
- - [https://research.nmsu.edu](https://research.nmsu.edu)
- - date_published: 2024-07-01T16:14:42.858660+00:00
-
- ## Aggie Rodeo Association Home
- - [https://rodeo.nmsu.edu](https://rodeo.nmsu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
- - [https://rsvp.nmsu.edu](https://rsvp.nmsu.edu)
- - date_published: 2024-07-01T16:15:38.198679+00:00
-
- ## Home
- - [https://safety.nmsu.edu](https://safety.nmsu.edu)
- - date_published: 2024-07-01T16:13:13.790241+00:00
-
- ## Sam Steel Cafe Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://samsteelcafe.nmsu.edu](https://samsteelcafe.nmsu.edu)
- - date_published: 2024-07-01T16:16:48.147676+00:00
-
- ## Sam Steel Society Home
- - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
- - date_published: 2024-05-07T19:47:35.078081+00:00
-
- ## Disability Access Services
- - [https://sas.nmsu.edu](https://sas.nmsu.edu)
- - date_published: 2024-07-01T16:13:50.039676+00:00
-
- ## NMSU Scholar Dollar$
- - [https://scholarships.nmsu.edu](https://scholarships.nmsu.edu)
- - date_published: 2024-07-01T16:13:43.950773+00:00
-
- ## Season Extension Home
- - [https://seasonextension.nmsu.edu](https://seasonextension.nmsu.edu)
- - date_published: 2024-07-01T16:15:15.653344+00:00
-
- ## Home
- - [https://ssc.nmsu.edu](https://ssc.nmsu.edu)
- - date_published: 2024-07-01T16:14:51.133533+00:00
-
- ## | New Mexico State University
- - [https://staysafe.nmsu.edu](https://staysafe.nmsu.edu)
- - date_published: 2024-07-01T16:14:35.865956+00:00
-
- ## Department of Student Life
- - [https://studentlife.nmsu.edu](https://studentlife.nmsu.edu)
- - date_published: 2024-07-01T16:14:55.246254+00:00
-
- ## Student Technology Home
- - [https://studenttech.nmsu.edu](https://studenttech.nmsu.edu)
- - date_published: 2024-07-01T16:13:06.121749+00:00
-
- ## Southwest Yard and Garden Home
- - [https://swyg.nmsu.edu](https://swyg.nmsu.edu)
- - date_published: 2024-07-01T16:15:07.697064+00:00
-
- ## Working at NMSU - BE BOLD. Shape the Future.
- - [https://talent.nmsu.edu](https://talent.nmsu.edu)
- - date_published: 2024-07-01T16:14:41.041863+00:00
-
- ## Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://tap.nmsu.edu](https://tap.nmsu.edu)
- - date_published: 2024-07-01T16:17:03.150990+00:00
-
- ## Teaching Academy | New Mexico State University
- - [https://teaching.nmsu.edu](https://teaching.nmsu.edu)
- - date_published: 2024-07-01T16:13:09.557586+00:00
-
- ## trainingcentral
- - [https://trainingcentral.nmsu.edu](https://trainingcentral.nmsu.edu)
- - date_published: 2020-04-03T00:10:44+00:00
-
- ## Training Center home | New Mexico State University - BE BOLD. Shape the Future®
- - [https://training.nmsu.edu](https://training.nmsu.edu)
- - date_published: 2024-07-01T16:13:47.500890+00:00
-
- ## Tribal Extension Home
- - [https://tribalextension.nmsu.edu](https://tribalextension.nmsu.edu)
- - date_published: 2024-07-01T16:10:50.416474+00:00
-
- ## Tucumcari Bull Test Home
- - [https://tucbulltest.nmsu.edu](https://tucbulltest.nmsu.edu)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## University Accounts Receivable | New Mexico State University | BE BOLD. Shape the Future.
- - [https://uar.nmsu.edu](https://uar.nmsu.edu)
- - date_published: 2024-07-01T16:16:25.101830+00:00
-
- ## Unidos. United.
- - [https://united.nmsu.edu](https://united.nmsu.edu)
- - date_published: 2024-07-01T16:14:39.219518+00:00
-
- ## NMSU Account Maintenance: Forgot Your NMSU Username?
- - [https://username.nmsu.edu](https://username.nmsu.edu)
- - date_published: 2024-07-01T16:13:02.988965+00:00
-
- ## Valencia County Extension Office Home
- - [https://valenciaextension.nmsu.edu](https://valenciaextension.nmsu.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Sign in to your account
- - [https://web.nmsu.edu](https://web.nmsu.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home
- - [https://wellness.nmsu.edu](https://wellness.nmsu.edu)
- - date_published: 2024-07-01T16:13:30.931649+00:00
-
- ## APO Home Page
- - [http://www.apo.nmsu.edu](http://www.apo.nmsu.edu)
- - date_published: 2024-02-19T18:26:46+00:00
-
- ## Untitled Document
- - [https://www.cs.nmsu.edu](https://www.cs.nmsu.edu)
- - date_published: 2017-06-02T22:36:33+00:00
-
- ## New Mexico Department of Agriculture
- - [https://www.nmda.nmsu.edu](https://www.nmda.nmsu.edu)
- - date_published: 2024-07-01T16:17:05.007421+00:00
-
- ## About the EPIC | EarthScope Primary Instrument Center
- - [https://passcal.nmt.edu](https://passcal.nmt.edu)
- - date_published: 2024-05-09T07:09:20.926833+00:00
-
- ## Science | Engineering | Research Institution: New Mexico Tech
- - [https://www.nmt.edu](https://www.nmt.edu)
- - date_published: 2024-07-10T02:21:10.148262+00:00
-
- ## NMU EduCat™
- - [https://educat.nmu.edu](https://educat.nmu.edu)
- - date_published: 2024-07-04T02:23:59.431864+00:00
-
- ## Home | NMU Events and Announcements
- - [https://events.nmu.edu](https://events.nmu.edu)
- - date_published: 2024-07-03T07:10:54+00:00
-
- ## Home | NMU Foundation
- - [https://foundation.nmu.edu](https://foundation.nmu.edu)
- - date_published: 2024-07-03T07:08:00+00:00
-
- ## Home - Invent@NMU
- - [http://invent.nmu.edu](http://invent.nmu.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | Northern Today
- - [https://news.nmu.edu](https://news.nmu.edu)
- - date_published: 2024-07-03T17:49:14+00:00
-
- ## Public University in Michigan | Northern Michigan University
- - [https://nmu.edu](https://nmu.edu)
- - date_published: 2024-05-08T04:30:43.607589+00:00
-
- ## Northern Michigan University Jobs - Recent Jobs
- - [https://workatnmu.nmu.edu](https://workatnmu.nmu.edu)
- - date_published: 2024-07-04T02:24:07.190360+00:00
-
- ## CAS - Central Authentication Service Login
- - [https://ezproxy.lib.ndsu.nodak.edu](https://ezproxy.lib.ndsu.nodak.edu)
- - date_published: 2024-07-01T16:01:26.791476+00:00
-
- ## Welcome! - The Mathematics Genealogy Project
- - [https://genealogy.math.ndsu.nodak.edu](https://genealogy.math.ndsu.nodak.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://matomo.noirlab.edu](https://matomo.noirlab.edu)
- - date_published: 2024-05-07T19:48:05.266631+00:00
-
- ## NOIRLab / NSF’s National Optical-IR Astronomy Research Laboratory
- - [https://noirlab.edu](https://noirlab.edu)
- - date_published: 2024-01-09T02:59:27.072163+00:00
-
- ## NOLS Blog
- - [https://blog.nols.edu](https://blog.nols.edu)
- - date_published: 2024-07-12T23:10:20+00:00
-
- ## NOLS | The Leader in Wilderness Education
- - [https://info.nols.edu](https://info.nols.edu)
- - date_published: 2024-07-13T02:55:45.900766+00:00
-
- ## NOLS | The Leader in Wilderness Education
- - [https://nols.edu](https://nols.edu)
- - date_published: 2024-05-10T06:59:56.449167+00:00
-
- ## News
- - [https://press.nols.edu](https://press.nols.edu)
- - date_published: 2024-07-13T02:55:49.633131+00:00
-
- ## NOLS Store
- - [https://store.nols.edu](https://store.nols.edu)
- - date_published: 2024-07-13T02:55:46.806790+00:00
-
- ## UNC System Intranet
- - [https://myapps.northcarolina.edu](https://myapps.northcarolina.edu)
- - date_published: 2024-07-02T04:32:28.907876+00:00
-
- ## UNC System – UNC System
- - [http://northcarolina.edu](http://northcarolina.edu)
- - date_published: 2024-06-20T01:47:31.688972+00:00
-
- ## Home
- - [https://northeast.edu](https://northeast.edu)
- - date_published: 2024-09-05T20:36:50.562783+00:00
 

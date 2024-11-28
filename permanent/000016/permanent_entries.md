@@ -1,3 +1,11 @@
+ ## Bem-vindo à Hotfrog
+ - [https://www.hotfrog.com.br](https://www.hotfrog.com.br)
+ - date_published: 2024-06-29T16:52:31.330952+00:00
+
+ ## Iandé
+ - [https://iandecultura.com.br](https://iandecultura.com.br)
+ - date_published: 2024-08-18T05:25:47.698210+00:00
+
  ## IBM - Brasil
  - [http://ibm.com.br](http://ibm.com.br)
  - date_published: 2024-07-13T01:52:01+00:00
@@ -4003,12 +4011,4 @@
  ## דיגיטלר – Library
  - [https://digitaler.cld.bz](https://digitaler.cld.bz)
  - date_published: 2024-07-13T07:31:56.545477+00:00
-
- ## LCBO Food & Drink – Library
- - [https://lcbofoodanddrink.cld.bz](https://lcbofoodanddrink.cld.bz)
- - date_published: 2024-10-29T04:44:33.090726+00:00
-
- ## STACK – Library
- - [https://stack.cld.bz](https://stack.cld.bz)
- - date_published: 2024-06-16T17:23:03.102241+00:00
 
