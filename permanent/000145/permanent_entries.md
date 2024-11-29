@@ -1,4 +1,44 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://orthopedic.medicaltechoutlook.com](https://orthopedic.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:11.254710+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://pain-management.medicaltechoutlook.com](https://pain-management.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:13.753764+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://pathology.medicaltechoutlook.com](https://pathology.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:01.251027+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://patient-monitoring-devices.medicaltechoutlook.com](https://patient-monitoring-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:59.425038+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://physiotherapy.medicaltechoutlook.com](https://physiotherapy.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:17.952776+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://regenerative-healthcare-apac.medicaltechoutlook.com](https://regenerative-healthcare-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:49.840057+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://regenerative-medicine-apac.medicaltechoutlook.com](https://regenerative-medicine-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:55.484903+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://regenerative-medicine-europe.medicaltechoutlook.com](https://regenerative-medicine-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:08.270447+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://retinal-imaging.medicaltechoutlook.com](https://retinal-imaging.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:09.087900+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://safety-syringes.medicaltechoutlook.com](https://safety-syringes.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:32.455087+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://sample-collection.medicaltechoutlook.com](https://sample-collection.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:19:13.148311+00:00
 
@@ -3990,44 +4030,4 @@
  ## Zameer – Medium
  - [https://zameermfm.medium.com](https://zameermfm.medium.com)
  - date_published: 2024-07-29T04:28:35.209981+00:00
-
- ## Zeda.io – Medium
- - [https://zedaio.medium.com](https://zedaio.medium.com)
- - date_published: 2024-10-30T22:08:43.229854+00:00
-
- ## danah boyd – Medium
- - [https://zephoria.medium.com](https://zephoria.medium.com)
- - date_published: 2024-06-22T13:58:25.883528+00:00
-
- ## ZkNoid – Medium
- - [https://zknoid.medium.com](https://zknoid.medium.com)
- - date_published: 2024-09-21T23:29:36.561968+00:00
-
- ## zkTube – Medium
- - [https://zktmeta.medium.com](https://zktmeta.medium.com)
- - date_published: 2024-09-21T23:26:26.828250+00:00
-
- ## Alex Zlatkus – Medium
- - [https://zlatkus-alex.medium.com](https://zlatkus-alex.medium.com)
- - date_published: 2024-08-11T02:40:36.526743+00:00
-
- ## ZORA
- - [http://zora.medium.com](http://zora.medium.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Distributor of fonts by international designers.
- - [http://mediumextrabold.com](http://mediumextrabold.com)
- - date_published: 2024-07-13T15:11:56.953122+00:00
-
- ## medium-large.com
- - [http://medium-large.com](http://medium-large.com)
- - date_published: 2024-08-18T08:32:40.032733+00:00
-
- ## Medium Rare Interactive - Custom App + Web Development
- - [http://mediumrareinc.com](http://mediumrareinc.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Medium Tall Clothing | Perfect Fit Clothing for Tall Men
- - [https://mediumtallclothing.com](https://mediumtallclothing.com)
- - date_published: 2024-06-23T05:58:05.111197+00:00
 

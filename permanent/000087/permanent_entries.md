@@ -1,3 +1,23 @@
+ ## DJames Goddard
+ - [http://www.djamesgoddard.com](http://www.djamesgoddard.com)
+ - date_published: 2023-08-24T22:58:00+00:00
+
+ ## DjangoBook.com
+ - [http://djangobook.com](http://djangobook.com)
+ - date_published: 2024-07-07T06:43:57.239262+00:00
+
+ ## Django Brew
+ - [https://djangobrew.com](https://djangobrew.com)
+ - date_published: 2024-06-27T11:46:15.693891+00:00
+
+ ## djangocentral
+ - [http://djangocentral.com](http://djangocentral.com)
+ - date_published: 2024-06-28T19:55:12.623476+00:00
+
+ - [https://djangochat.com](https://djangochat.com)
+ - date_published: 2024-03-21T02:14:15.939205+00:00
+ - tags: ['django', 'podcast']
+
  ## Static site generator for Django - Django Distill
  - [https://django-distill.com](https://django-distill.com)
  - date_published: 2024-09-04T03:36:39.362733+00:00
@@ -4017,25 +4037,4 @@
  ## Free Online Template Builder
  - [http://www.dotemplate.com](http://www.dotemplate.com)
  - date_published: 2020-11-25T16:26:41+00:00
-
- ## Dotemu
- - [https://dotemu.com](https://dotemu.com)
- - date_published: 2024-07-12T13:18:47+00:00
- - tags: ['video game developer']
-
- ## dotenvx
- - [https://dotenvx.com](https://dotenvx.com)
- - date_published: 2024-06-25T15:40:09+00:00
-
- ## dotepub — download any webpage as an e-book
- - [http://dotepub.com](http://dotepub.com)
- - date_published: 2024-08-18T08:36:58.486860+00:00
-
- ## Oficjalna strona internetowa doTERRA Europe | Olejki eteryczne dōTERRA
- - [https://doterra.com](https://doterra.com)
- - date_published: 2020-12-11T00:00:00+00:00
-
- ## Homepage
- - [https://europetraining.doterra.com](https://europetraining.doterra.com)
- - date_published: 2024-09-19T22:08:17.765970+00:00
 

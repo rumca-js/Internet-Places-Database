@@ -1,4 +1,84 @@
  ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://bridgy-fed.fediverse.observer](https://bridgy-fed.fediverse.observer)
+ - date_published: 2024-07-18T05:38:27.948048+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cdn.fediverse.observer](https://cdn.fediverse.observer)
+ - date_published: 2024-07-18T05:38:47.227460+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cherrypick.fediverse.observer](https://cherrypick.fediverse.observer)
+ - date_published: 2024-07-18T05:38:24.413993+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://cuculus.fediverse.observer](https://cuculus.fediverse.observer)
+ - date_published: 2024-07-18T05:38:40.197160+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://diaspora.fediverse.observer](https://diaspora.fediverse.observer)
+ - date_published: 2024-07-18T05:38:45.605174+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://fedibird.fediverse.observer](https://fedibird.fediverse.observer)
+ - date_published: 2024-07-18T05:38:38.581771+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://fediverse.observer](https://fediverse.observer)
+ - date_published: 2024-07-08T17:37:29.834254+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://firefish.fediverse.observer](https://firefish.fediverse.observer)
+ - date_published: 2024-07-18T05:38:26.077369+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://foundkey.fediverse.observer](https://foundkey.fediverse.observer)
+ - date_published: 2024-07-18T05:38:49.165477+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://friendica.fediverse.observer](https://friendica.fediverse.observer)
+ - date_published: 2024-07-18T05:38:14.109448+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://funkwhale.fediverse.observer](https://funkwhale.fediverse.observer)
+ - date_published: 2024-07-18T05:38:09.047368+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://hometown.fediverse.observer](https://hometown.fediverse.observer)
+ - date_published: 2024-07-18T05:38:36.909513+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://hubzilla.fediverse.observer](https://hubzilla.fediverse.observer)
+ - date_published: 2024-07-18T05:38:16.156119+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://juick.fediverse.observer](https://juick.fediverse.observer)
+ - date_published: 2024-07-18T05:38:57.826601+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://lemmy.fediverse.observer](https://lemmy.fediverse.observer)
+ - date_published: 2024-07-18T05:38:43.958104+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://mastodon.fediverse.observer](https://mastodon.fediverse.observer)
+ - date_published: 2024-07-18T05:38:07.144290+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://mbin.fediverse.observer](https://mbin.fediverse.observer)
+ - date_published: 2024-07-18T05:37:59.123994+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://meisskey.fediverse.observer](https://meisskey.fediverse.observer)
+ - date_published: 2024-07-18T05:38:31.564649+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://microdotblog.fediverse.observer](https://microdotblog.fediverse.observer)
+ - date_published: 2024-07-18T05:38:34.896526+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
+ - [https://misskey.fediverse.observer](https://misskey.fediverse.observer)
+ - date_published: 2024-07-18T05:38:17.835622+00:00
+
+ ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
  - [https://mobilizon.fediverse.observer](https://mobilizon.fediverse.observer)
  - date_published: 2024-07-18T05:38:03.575334+00:00
 
@@ -2275,6 +2355,10 @@ I post about Tech, Privacy, Games...
  - [https://11213.org](https://11213.org)
  - date_published: 2024-06-26T19:21:06+00:00
 
+ ## 1.21 Gigawatts
+ - [https://121gigawatts.org](https://121gigawatts.org)
+ - date_published: 2024-11-28T17:02:44.009512+00:00
+
  ## 123Movies | Watch Movies Online for Free on 123Movies
  - [https://123movies-en.org](https://123movies-en.org)
  - date_published: 2024-10-19T16:55:30.195148+00:00
@@ -3968,88 +4052,4 @@ I post about Tech, Privacy, Games...
  ## Absinthe: Home
  - [https://absinthe-graphql.org](https://absinthe-graphql.org)
  - date_published: 2017-11-13T23:05:24+00:00
-
- ## American Board of Sleep Medicine (ABSM)
- - [http://www.absm.org](http://www.absm.org)
- - date_published: 2023-07-14T00:00:00+00:00
-
- ## Absolute Linux home page
- - [https://www.absolutelinux.org](https://www.absolutelinux.org)
- - date_published: 2024-06-03T14:15:13+00:00
-
- ## Ecole de commerce Paris : American Business School
- - [https://absparis.org](https://absparis.org)
- - date_published: 2024-05-08T00:26:44.500733+00:00
-
- ## ABSR ONLINE
- - [http://www.absronline.org](http://www.absronline.org)
- - date_published: 2024-10-29T17:09:48.991659+00:00
-
- ## Untitled Document
- - [http://integral.abstractdynamics.org](http://integral.abstractdynamics.org)
- - date_published: 2007-06-05T17:28:44+00:00
-
- ## k-punk
- - [http://k-punk.abstractdynamics.org](http://k-punk.abstractdynamics.org)
- - date_published: 2013-03-11T18:05:23+00:00
-
- ## Coming soon
- - [http://skins.abtec.org](http://skins.abtec.org)
- - date_published: 2024-07-09T14:37:14.667546+00:00
-
- ## Home - The American Boat & Yacht Council
- - [https://abycinc.org](https://abycinc.org)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## American College of Allergy Asthma and Immunology | ACAAI Patient
- - [https://acaai.org](https://acaai.org)
- - date_published: 2024-11-01T13:14:54+00:00
-
- ## ACA Online
- - [https://www.aca-application.org](https://www.aca-application.org)
- - date_published: 2024-06-11T23:19:18.566744+00:00
-
- ## Home - Acacia Creek
- - [https://acaciacreek.org](https://acaciacreek.org)
- - date_published: 2024-10-19T09:37:26.842428+00:00
-
- ## Cursos de la Academia de Innovación Política
- - [https://academiainnovacionpolitica.org](https://academiainnovacionpolitica.org)
- - date_published: 2024-06-12T03:14:51.367297+00:00
-
- ## Home | AcademiaNet
- - [https://www.academia-net.org](https://www.academia-net.org)
- - date_published: 2024-07-24T04:46:54.288098+00:00
-
- ## Welcome to Academia Scholarly Journal
- - [http://www.academiascholarlyjournal.org](http://www.academiascholarlyjournal.org)
- - date_published: 2023-11-30T13:59:57+00:00
-
- ## 朝霧〜高貴な閨の指南役〜を読んでTL漫画にハマった腐女子ブログ
- - [http://academicblogs.org](http://academicblogs.org)
- - date_published: 2024-08-11T12:52:14.509808+00:00
-
- ## AcademicDirect
- - [http://ph.academicdirect.org](http://ph.academicdirect.org)
- - date_published: 2024-10-29T17:23:50.747880+00:00
-
- ## AcademicEarth.org - Free Online Courses From Top Colleges
- - [https://academicearth.org](https://academicearth.org)
- - date_published: 2023-10-27T10:26:45+00:00
-
- ## Academic Jobs Online
- - [https://academicjobsonline.org](https://academicjobsonline.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Academic Minute
- - [https://academicminute.org](https://academicminute.org)
- - date_published: 2024-06-21T11:35:14.527189+00:00
-
- ## Home
- - [https://www.academicrenewal.org](https://www.academicrenewal.org)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## academicsworld» academicsworld International Conference 2024-2025
- - [http://academicsworld.org](http://academicsworld.org)
- - date_published: 2024-10-29T17:19:33.991761+00:00
 

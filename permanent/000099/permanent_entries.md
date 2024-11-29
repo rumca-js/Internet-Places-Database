@@ -1,3 +1,23 @@
+ ## My Babysitter's a Vampire Fanon Wiki
+ - [https://mybabysittersavampirefanon.fandom.com](https://mybabysittersavampirefanon.fandom.com)
+ - date_published: 2024-06-17T18:21:40+00:00
+
+ ## My Boyfriend is a Vampire Wiki
+ - [https://myboyfriendvampire.fandom.com](https://myboyfriendvampire.fandom.com)
+ - date_published: 2024-10-24T02:59:47+00:00
+
+ ## My Chemical Romance Wiki
+ - [https://mychemicalromance.fandom.com](https://mychemicalromance.fandom.com)
+ - date_published: 2024-05-02T14:43:25.381858+00:00
+
+ ## My Demon Wiki
+ - [https://my-demon.fandom.com](https://my-demon.fandom.com)
+ - date_published: 2024-06-17T20:27:16+00:00
+
+ ## My Friend Pedro Wiki
+ - [https://my-friend-pedro.fandom.com](https://my-friend-pedro.fandom.com)
+ - date_published: 2024-06-17T19:17:57+00:00
+
  ## My Gym Partner's a Monkey Wiki
  - [https://mygympartneramonkey.fandom.com](https://mygympartneramonkey.fandom.com)
  - date_published: 2024-06-17T03:20:53+00:00
@@ -3979,24 +3999,4 @@
  ## Sword of Truth Wiki
  - [https://sot.fandom.com](https://sot.fandom.com)
  - date_published: 2024-06-17T04:21:58+00:00
-
- ## Soulcalibur Wiki
- - [https://soulcalibur.fandom.com](https://soulcalibur.fandom.com)
- - date_published: 2024-05-02T14:42:57.204999+00:00
-
- ## Soul Catchers Wiki
- - [https://soulcatchers.fandom.com](https://soulcatchers.fandom.com)
- - date_published: 2024-06-17T20:23:33+00:00
-
- ## Soul Eater Wiki
- - [https://souleater.fandom.com](https://souleater.fandom.com)
- - date_published: 2024-06-18T09:12:18+00:00
-
- ## Sound Voltex Wiki
- - [https://soundvoltex.fandom.com](https://soundvoltex.fandom.com)
- - date_published: 2024-06-17T07:09:47+00:00
-
- ## Source Filmmaker Wiki
- - [https://sourcefilmmaker.fandom.com](https://sourcefilmmaker.fandom.com)
- - date_published: 2024-06-17T04:11:26+00:00
 

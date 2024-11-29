@@ -1,3 +1,19 @@
+ ## The Art Theatre | The Last Remaining Independent Cinema in Long Beach
+ - [https://www.arttheatrelongbeach.com](https://www.arttheatrelongbeach.com)
+ - date_published: 2024-06-20T16:56:13.802278+00:00
+
+ ## Kunstkaarten en postkaarten winkel: Art Unlimited | Uitgeverij van kunstkaarten, postkaarten, ansichtkaarten en posters
+ - [https://www.artunlimited.com](https://www.artunlimited.com)
+ - date_published: 2024-08-19T15:27:09.700372+00:00
+
+ ## Artur Gruchała
+ - [https://arturgruchala.com](https://arturgruchala.com)
+ - date_published: 2024-06-23T15:07:45.907161+00:00
+
+ ## Arturia - The Sound Explorers
+ - [https://arturia.com](https://arturia.com)
+ - date_published: 2024-07-02T19:20:40.845487+00:00
+
  ## Artur Kim
  - [https://arturkim.com](https://arturkim.com)
  - date_published: 2024-03-08T07:25:13+00:00
@@ -4009,20 +4025,4 @@
  ## Metaphor: ReFantazio
  - [https://metaphor.atlus.com](https://metaphor.atlus.com)
  - date_published: 2024-07-15T22:54:12+00:00
-
- ## Persona | Official Website
- - [https://persona.atlus.com](https://persona.atlus.com)
- - date_published: 2023-01-25T01:42:10+00:00
-
- ## Soul Hackers 2
- - [https://soulhackers2.atlus.com](https://soulhackers2.atlus.com)
- - date_published: 2022-08-26T00:00:00+00:00
-
- ## Unicorn Overlord
- - [https://unicornoverlord.atlus.com](https://unicornoverlord.atlus.com)
- - date_published: 2024-05-21T01:39:47+00:00
-
- ## atlutd
- - [https://atlutd.com](https://atlutd.com)
- - date_published: 2024-06-17T10:42:06.013764+00:00
 

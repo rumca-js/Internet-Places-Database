@@ -1,3 +1,103 @@
+ ## Eva Decker
+ - [https://eva.town](https://eva.town)
+ - date_published: 2024-06-23T18:31:18.272924+00:00
+
+ ## Gather
+ - [https://app.gather.town](https://app.gather.town)
+ - date_published: 2024-06-21T19:54:23.876854+00:00
+
+ ## Gather | Virtual HQ for Remote Teams
+ - [http://gather.town](http://gather.town)
+ - date_published: 2024-11-04T17:14:24+00:00
+
+ ## Gather | リモートワークのためのバーチャルオフィス
+ - [https://ja.gather.town](https://ja.gather.town)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Gather | Virtual HQ for Remote Teams
+ - [https://ko.gather.town](https://ko.gather.town)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Gather | Sede virtual para equipes remotas
+ - [https://pt-br.gather.town](https://pt-br.gather.town)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Gather Status
+ - [https://status.gather.town](https://status.gather.town)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Gather
+ - [https://support.gather.town](https://support.gather.town)
+ - date_published: 2024-07-11T16:53:14.601710+00:00
+
+ ## hackers.town
+ - [https://hackers.town](https://hackers.town)
+ - date_published: 2024-04-30T05:31:45.059267+00:00
+
+ ## Infosec.Town
+ - [https://infosec.town](https://infosec.town)
+ - date_published: 2024-06-23T17:08:36.721075+00:00
+
+ ## eva's site
+ - [https://kibty.town](https://kibty.town)
+ - date_published: 2024-06-19T02:24:44.606816+00:00
+
+ ## Kitty.Town
+ - [https://kitty.town](https://kitty.town)
+ - date_published: 2017-05-01T00:00:00+00:00
+
+ ## Libre.Town - Home
+ - [https://libre.town](https://libre.town)
+ - date_published: 2024-05-06T15:01:09.971850+00:00
+
+ ## lonely.town
+ - [https://lonely.town](https://lonely.town)
+ - date_published: 2024-05-10T06:40:25.242912+00:00
+
+ ## home
+ - [https://maria.town](https://maria.town)
+ - date_published: 2023-11-27T18:08:56+00:00
+
+ ## The Book Ring at Marigold.Town
+ - [https://library.marigold.town](https://library.marigold.town)
+ - date_published: 2024-02-10T05:06:02+00:00
+
+ ## MARIGOLD FREE SCHOOL
+ - [https://school.marigold.town](https://school.marigold.town)
+ - date_published: 2024-03-12T13:35:56+00:00
+
+ ## Old Mermaid Town
+ - [https://old.mermaid.town](https://old.mermaid.town)
+ - date_published: 2024-05-08T10:13:30.554835+00:00
+
+ ## Merveilles Git Forge
+ - [https://git.merveilles.town](https://git.merveilles.town)
+ - date_published: 2024-09-05T16:01:16.480525+00:00
+
+ ## Merveilles
+ - [https://merveilles.town](https://merveilles.town)
+ - date_published: 2023-10-25T22:47:01.728750+00:00
+
+ ## Midnight Town - Home
+ - [https://midnight.town](https://midnight.town)
+ - date_published: 2022-07-23T00:00:00+00:00
+
+ ## HTML Blog
+ - [https://blog.miso.town](https://blog.miso.town)
+ - date_published: 2022-01-02T00:00:00+00:00
+
+ ## HTML Journal
+ - [https://journal.miso.town](https://journal.miso.town)
+ - date_published: 2022-06-14T00:00:00+00:00
+
+ ## xidoc
+ - [https://xidoc.nim.town](https://xidoc.nim.town)
+ - date_published: 2024-02-05T23:22:30+00:00
+
+ ## omfg.town
+ - [https://omfg.town](https://omfg.town)
+ - date_published: 2024-05-01T04:01:04.959929+00:00
+
  ## oslo.town - Mastodon
  - [https://oslo.town](https://oslo.town)
  - date_published: 2024-04-30T06:32:56.167577+00:00
@@ -3906,149 +4006,4 @@ NMHSs DIRECTORS
  ## TÜBİTAK ULAKBİM Etkinlikleri · Ulakbim Etkinlikler Sayfası (Indico)
  - [https://etkinlik.ulakbim.gov.tr](https://etkinlik.ulakbim.gov.tr)
  - date_published: 2024-06-17T15:57:18.548849+00:00
-
- ## Harman Türkiye Akademik Arşivi
- - [https://harman.ulakbim.gov.tr](https://harman.ulakbim.gov.tr)
- - date_published: 2024-06-04T07:04:55+00:00
-
- ## Üniversite Veri Portalı
- - [https://veri.ulakbim.gov.tr](https://veri.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:12.574671+00:00
-
- ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
- - [https://www.ulakbim.gov.tr](https://www.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:00.982884+00:00
-
- ## Yargıtay Başkanlığı
- - [http://www.yargitay.gov.tr](http://www.yargitay.gov.tr)
- - date_published: 2024-10-19T14:58:57.112012+00:00
-
- ## www.yatirimadestek.gov.tr | Devlet Destekleri ve Teşvikler
- - [https://www.yatirimadestek.gov.tr](https://www.yatirimadestek.gov.tr)
- - date_published: 2024-10-19T17:12:05.954518+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://acikerisim.yok.gov.tr](https://acikerisim.yok.gov.tr)
- - date_published: 2024-10-19T12:46:42.194624+00:00
-
- ## YÜKSEKÖĞRETİM KURULU
- - [https://akademik.yok.gov.tr](https://akademik.yok.gov.tr)
- - date_published: 2024-05-02T10:26:50.302804+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://basin.yok.gov.tr](https://basin.yok.gov.tr)
- - date_published: 2024-10-19T12:46:30.727790+00:00
-
- ## YÖK
-            
-            
-            AnaSayfa
- - [https://burs.yok.gov.tr](https://burs.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://covid19.yok.gov.tr](https://covid19.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://denetleme.yok.gov.tr](https://denetleme.yok.gov.tr)
- - date_published: 2024-10-19T12:46:33.387809+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [http://denklik.yok.gov.tr](http://denklik.yok.gov.tr)
- - date_published: 2024-10-19T12:46:36.702038+00:00
-
- ## YÖK
-            
-            
-            Engelli Öğrenci Komisyonu
- - [https://engelsiz.yok.gov.tr](https://engelsiz.yok.gov.tr)
- - date_published: 2024-10-19T12:46:38.251467+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://farabi.yok.gov.tr](https://farabi.yok.gov.tr)
- - date_published: 2024-10-19T12:46:35.321329+00:00
-
- ## Yükseköğretim Bilgi Yönetim Sistemi
- - [https://istatistik.yok.gov.tr](https://istatistik.yok.gov.tr)
- - date_published: 2024-06-17T15:27:25.004889+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://kadincalismalari.yok.gov.tr](https://kadincalismalari.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://mevlana.yok.gov.tr](https://mevlana.yok.gov.tr)
- - date_published: 2024-10-19T12:46:40.663301+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://odul.yok.gov.tr](https://odul.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK Okul Tanima Sistemi
- - [https://okultanima.yok.gov.tr](https://okultanima.yok.gov.tr)
- - date_published: 2024-06-17T15:10:42.985089+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://oyp.yok.gov.tr](https://oyp.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Ulusal Tez Merkezi | Anasayfa
- - [https://tez.yok.gov.tr](https://tez.yok.gov.tr)
- - date_published: 2024-05-02T10:25:55.267456+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://uluslararasi.yok.gov.tr](https://uluslararasi.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://vcforum.yok.gov.tr](https://vcforum.yok.gov.tr)
- - date_published: 2024-10-19T12:46:44.348192+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [http://www.yok.gov.tr](http://www.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Yükseköğretim Program Atlası
- - [https://yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr)
- - date_published: 2024-06-17T15:10:40.080702+00:00
 

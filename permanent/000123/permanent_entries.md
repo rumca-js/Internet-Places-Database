@@ -1,3 +1,41 @@
+ ## ilert Status
+ - [https://status.ilert.com](https://status.ilert.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## The Cooperator Expo Chicagoland — October 17, 2024
+        10:00AM – 4:30PM
+        — Navy Pier, Chicago, IL
+ - [https://fall.ilexpo.com](https://fall.ilexpo.com)
+ - date_published: 2024-07-03T11:01:16.457445+00:00
+
+ ## The Cooperator Expo Chicagoland — October 17, 2024
+        10:00AM – 4:30PM
+        — Navy Pier, Chicago, IL
+ - [http://ilexpo.com](http://ilexpo.com)
+ - date_published: 2024-07-04T13:05:14.999622+00:00
+
+ ## The CooperatorEvents Chicagoland Spring Expo — June 12, 2024
+        10:00AM – 3:30PM
+        — Donald E. Stephens Convention Center - Rosemont, IL
+ - [https://spring.ilexpo.com](https://spring.ilexpo.com)
+ - date_published: 2024-05-08T06:32:18.145968+00:00
+
+ ## ILFC - Web Portal 2024
+ - [http://www.ilfc.com](http://www.ilfc.com)
+ - date_published: 2024-07-08T14:37:59+00:00
+
+ ## Ilford Photo Home Page
+ - [https://www.ilfordphoto.com](https://www.ilfordphoto.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Il Giornale dell'Arte
+ - [https://www.ilgiornaledellarte.com](https://www.ilgiornaledellarte.com)
+ - date_published: 2024-09-20T10:27:21.392036+00:00
+
+ ## Lasercut terrain | Iliada Game Studio
+ - [https://www.iliadagamestudio.com](https://www.iliadagamestudio.com)
+ - date_published: 2024-10-26T22:09:55.281553+00:00
+
  ## 404 :: ILIANI Hotel Georgia ::
  - [https://iliani.com](https://iliani.com)
  - date_published: 2024-02-08T17:06:03.193397+00:00
@@ -3995,37 +4033,4 @@
  ## Eat, Drink, Shop & Explore | Industry City
  - [https://industrycity.com](https://industrycity.com)
  - date_published: 2024-09-13T00:00:00+00:00
-
- ## Industry Decarbonization Newsletter
- - [https://industrydecarbonization.com](https://industrydecarbonization.com)
- - date_published: 2023-10-25T15:19:13.252427+00:00
- - tags: ['climate change', 'co2']
-
- ## Industry Dive
- - [https://industrydive.com](https://industrydive.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://resources.industrydive.com](https://resources.industrydive.com)
- - date_published: 2024-05-06T21:27:56.408638+00:00
-
- ## Industry Events | Global Business Events Directory
- - [https://industryevents.com](https://industryevents.com)
- - date_published: 2024-09-24T21:19:05.162345+00:00
-
- ## Industry Hackerz
- - [https://industryhackerz.com](https://industryhackerz.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Industry Idle
- - [https://industryidle.com](https://industryidle.com)
- - date_published: 2024-04-28T05:58:49.138828+00:00
-
- ## Industry Idle
- - [https://play.industryidle.com](https://play.industryidle.com)
- - date_published: 2024-08-06T20:15:25.133044+00:00
-
- ## Industry Nine -  Hand Made in Asheville, North Carolina
- - [https://industrynine.com](https://industrynine.com)
- - date_published: 2024-06-15T11:57:47.007879+00:00
 

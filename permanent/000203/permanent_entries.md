@@ -1,3 +1,63 @@
+ ## ResponsiveVoice Text To Speech - ResponsiveVoice.JS AI Text to Speech
+ - [https://text2voiceover.com](https://text2voiceover.com)
+ - date_published: 2024-10-27T14:15:40+00:00
+
+ ## textarea please
+ - [https://textareaplease.com](https://textareaplease.com)
+ - date_published: 2024-07-23T23:42:57.860560+00:00
+
+ ## CUNY City College of New York Online Bookstore
+ - [http://ccny.textbookx.com](http://ccny.textbookx.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## University of California Santa Cruz Online Bookstore
+ - [https://ucsc.textbookx.com](https://ucsc.textbookx.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Plain English Text Analyzer Tool - Textbuddy.com
+ - [https://textbuddy.com](https://textbuddy.com)
+ - date_published: 2024-06-19T18:49:54.488396+00:00
+
+ ## TextCaster - Log In
+ - [https://my.textcaster.com](https://my.textcaster.com)
+ - date_published: 2024-05-07T14:04:58.877507+00:00
+
+ ## Text Control: Digital Document Processing Components for Developers of Web, Mobile, Cloud and Desktop Applications
+ - [https://www.textcontrol.com](https://www.textcontrol.com)
+ - date_published: 2024-07-03T20:02:53.791861+00:00
+
+ ## TextCortex: One AI copilot that truly gets you.
+ - [https://textcortex.com](https://textcortex.com)
+ - date_published: 2024-06-19T19:49:54.678652+00:00
+
+ ## Mass Text Messaging & Calling | Text-Em-All
+ - [https://www.text-em-all.com](https://www.text-em-all.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Nuts and Volts - Issue Library
+ - [https://nutsvolts.texterity.com](https://nutsvolts.texterity.com)
+ - date_published: 2024-08-18T05:17:30.266818+00:00
+
+ ## Travel Weekly - July 1, 2024 - page1
+ - [https://travelweekly.texterity.com](https://travelweekly.texterity.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## TextExpander – Productivity App | Text Expander
+ - [https://auth.textexpander.com](https://auth.textexpander.com)
+ - date_published: 2024-06-20T16:22:29+00:00
+
+ ## TextExpander – Productivity App | Text Expander
+ - [https://snippets.textexpander.com](https://snippets.textexpander.com)
+ - date_published: 2024-06-20T16:22:26+00:00
+
+ ## Welcome to TextExpander.com
+ - [https://textexpander.com](https://textexpander.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## HyperComply
+ - [https://trust.textexpander.com](https://trust.textexpander.com)
+ - date_published: 2024-06-20T21:09:21+00:00
+
  ## T E X T F I L E S
  - [http://artscene.textfiles.com](http://artscene.textfiles.com)
  - date_published: 1982-01-01T00:00:00+00:00
@@ -1631,6 +1691,10 @@
  ## The Aviation Geek Club - Stories and News for true aviation Geeks
  - [https://theaviationgeekclub.com](https://theaviationgeekclub.com)
  - date_published: 2023-10-25T17:29:13.141576+00:00
+
+ ## Home Page
+ - [https://theaviationist.com](https://theaviationist.com)
+ - date_published: 2024-11-28T02:51:58.475276+00:00
 
  ## Aviation Industry News | Airports News | Airlines News | Aviation Services | Aviation Jobs News - The Aviator Middle East
  - [https://www.theaviatorme.com](https://www.theaviatorme.com)
@@ -3985,68 +4049,4 @@ and the Carpet Aubrey Towser Michael Bentine's Potty Time
  ## The Darkness - Official Website
  - [https://www.thedarknesslive.com](https://www.thedarknesslive.com)
  - date_published: 2023-11-13T10:20:27.774278+00:00
-
- ## The Dark Pictures
- - [https://www.thedarkpictures.com](https://www.thedarkpictures.com)
- - date_published: 2024-10-25T17:44:32.467711+00:00
-
- ## Technology | seanlunsford.com
- - [http://thedarkroast.com](http://thedarkroast.com)
- - date_published: 2024-07-12T20:15:40.387245+00:00
-
- ## The Dartmouth
- - [https://www.thedartmouth.com](https://www.thedartmouth.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Dash is now part of Spider Impact
- - [http://www.thedash.com](http://www.thedash.com)
- - date_published: 2024-06-20T18:14:52+00:00
-
- ## Login
- - [https://www3.thedatabank.com](https://www3.thedatabank.com)
- - date_published: 2024-07-07T09:19:41.163960+00:00
-
- ## Facebook
- - [http://thedatadrive.com](http://thedatadrive.com)
- - date_published: 2015-08-03T03:34:38+00:00
-
- ## The Data Farm
- - [https://thedatafarm.com](https://thedatafarm.com)
- - date_published: 2024-05-01T03:45:00.391083+00:00
-
- ## Data Science for Product Teams | Pragmatic Institute
- - [https://www.thedataincubator.com](https://www.thedataincubator.com)
- - date_published: 2024-06-21T20:37:21.067516+00:00
-
- ## Home
- - [https://thedataquarry.com](https://thedataquarry.com)
- - date_published: 2024-05-04T08:33:38.511777+00:00
-
- ## Spirits Competition Registration
- - [https://www.thedatastill.com](https://www.thedatastill.com)
- - date_published: 2024-07-04T04:39:57.766031+00:00
-
- ## Dating Lab | Dating Lab
- - [https://www.thedatinglab.com](https://www.thedatinglab.com)
- - date_published: 2024-06-17T20:17:49.142400+00:00
-
- ## The David Dias | Front-End Developer, Podcaster & Content Creator
- - [https://thedaviddias.com](https://thedaviddias.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## The Dawson Restaurant & Bar
- - [https://www.thedawsonnyc.com](https://www.thedawsonnyc.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## theday.com: New London and southeastern Connecticut News, Sports, Business, Entertainment and Video
- - [http://www.theday.com](http://www.theday.com)
- - date_published: 2024-08-11T23:45:10.137677+00:00
-
- ## Digital Product Agency | Web Design, Dev, and Strategy | Daylight
- - [https://thedaylightstudio.com](https://thedaylightstudio.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## The Deadlands: Speculative Fiction & Poetry All About Death
- - [https://thedeadlands.com](https://thedeadlands.com)
- - date_published: 2024-10-28T14:31:43+00:00
 

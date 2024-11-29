@@ -1,3 +1,67 @@
+ ## Veritas Alta ™ View
+ - [https://alta.us.veritas.com](https://alta.us.veritas.com)
+ - date_published: 2024-08-23T06:44:52+00:00
+
+ ## Home
+ - [https://partnernet.veritas.com](https://partnernet.veritas.com)
+ - date_published: 2024-09-14T10:07:48+00:00
+
+ ## Support | Veritas
+ - [https://support.veritas.com](https://support.veritas.com)
+ - date_published: 2024-09-13T22:27:57+00:00
+
+ ## The Leader in Enterprise Data Management
+ - [https://veritas.com](https://veritas.com)
+ - date_published: 2024-06-13T20:44:26+00:00
+
+ ## Home | VOX
+ - [https://vox.veritas.com](https://vox.veritas.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Veritas
+ - [https://veritassummit.com](https://veritassummit.com)
+ - date_published: 2024-06-24T16:21:06+00:00
+
+ ## Verite Data Science • Welcome
+ - [https://veritedatascience.com](https://veritedatascience.com)
+ - date_published: 2021-05-27T21:23:42+00:00
+
+ ## Veritone and Partners Activate 24 Hours of Action-packed Live Racing Content at the 50th ADAC TotalEnergies 24h Nürburgring
+ - [https://go.veritone.com](https://go.veritone.com)
+ - date_published: 2024-09-12T22:44:54+00:00
+
+ ## Homepage - Veritone
+ - [https://nextjs.veritone.com](https://nextjs.veritone.com)
+ - date_published: 2024-09-14T07:59:52.242409+00:00
+
+ ## Veritone | AI that makes you even better
+ - [https://veritone.com](https://veritone.com)
+ - date_published: 2024-06-14T08:59:59.284509+00:00
+
+ ## Home - Veritonic
+ - [https://www.veritonic.com](https://www.veritonic.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Veritopa – Building the Future
+ - [http://veritopa.com](http://veritopa.com)
+ - date_published: 2024-08-15T14:38:52+00:00
+
+ ## Veritree - Transparency for tree planting
+ - [https://api.veritree.com](https://api.veritree.com)
+ - date_published: 2024-06-28T19:35:36.220230+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cf-content.veritree.com](https://cf-content.veritree.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Welcome to your Strapi app
+ - [https://content.veritree.com](https://content.veritree.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Cardano Global Impact Challenge - veritree ITO
+ - [https://ito.veritree.com](https://ito.veritree.com)
+ - date_published: 2024-06-28T19:35:43.892433+00:00
+
  ## veritree | Verified Nature-based Solutions for Businesses
  - [https://veritree.com](https://veritree.com)
  - date_published: 2024-05-06T23:43:27.015569+00:00
@@ -3973,68 +4037,4 @@
  ## Visa, a trusted leader in digital payments
  - [https://qa.visamiddleeast.com](https://qa.visamiddleeast.com)
  - date_published: 2024-05-12T03:58:59.798288+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://sa.visamiddleeast.com](https://sa.visamiddleeast.com)
- - date_published: 2024-05-12T03:58:54.591029+00:00
-
- ## Index
- - [https://gvol.visaonline.com](https://gvol.visaonline.com)
- - date_published: 2024-06-16T07:03:41.049521+00:00
-
- ## Visarity Technologies GmbH
- - [https://dps.visarity.com](https://dps.visarity.com)
- - date_published: 2021-09-28T11:40:31+00:00
-
- ## Primo Manager
- - [https://primo.visarity.com](https://primo.visarity.com)
- - date_published: 2024-06-24T06:37:50+00:00
-
- ## Visarity Technologies GmbH
- - [https://ps.visarity.com](https://ps.visarity.com)
- - date_published: 2021-10-01T09:54:15+00:00
-
- ## Main page redirect (generated automatically)
- - [http://s.visarity.com](http://s.visarity.com)
- - date_published: 2024-06-25T21:37:54.860248+00:00
-
- ## JG Law PLLC – U.S. Immigration Law
- - [https://visas-america.com](https://visas-america.com)
- - date_published: 2024-06-12T13:11:40.429041+00:00
-
- ## Visa SavingsEdge
- - [https://www.visasavingsedge.com](https://www.visasavingsedge.com)
- - date_published: 2024-06-25T17:49:14+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://visasoutheasteurope.com](https://visasoutheasteurope.com)
- - date_published: 2024-05-12T03:59:49.699245+00:00
-
- ## Visbox, Inc.
- - [https://visbox.com](https://visbox.com)
- - date_published: 2024-05-08T00:38:26.907444+00:00
-
- ## visca.com
- - [http://www.visca.com](http://www.visca.com)
- - date_published: 2024-04-05T13:11:59+00:00
-
- ## Visceral Cure
- - [https://visceralcure.com](https://visceralcure.com)
- - date_published: 2024-08-19T10:08:30.843424+00:00
-
- ## Show HN: VisCircuit – A Note-Taking Website for Electronics and Circuits
- - [https://viscircuit.com](https://viscircuit.com)
- - date_published: 2024-07-17T16:46:14+00:00
-
- ## Premium and Specialty Lighting | Viscor Lighting
- - [https://www.viscor.com](https://www.viscor.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## ViscoTec - Dosing technology for industrial applications
- - [https://www.viscotec.com](https://www.viscotec.com)
- - date_published: 2024-10-15T21:13:52.531125+00:00
-
- ## ViscoTec India
- - [https://viscotec-india.com](https://viscotec-india.com)
- - date_published: 2024-06-17T01:57:55.580771+00:00
 

@@ -1,3 +1,83 @@
+ ## Maine Open Checkbook
+ - [https://opencheckbook.maine.gov](https://opencheckbook.maine.gov)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Majority Leader - Steve Scalise
+ - [https://majorityleader.gov](https://majorityleader.gov)
+ - date_published: 2024-05-14T03:20:13.485757+00:00
+
+ ## House Majority Whip Tom Emmer
+ - [https://www.majoritywhip.gov](https://www.majoritywhip.gov)
+ - date_published: 2024-09-14T23:21:36+00:00
+
+ ## Housing
+ - [https://www.makinghomeaffordable.gov](https://www.makinghomeaffordable.gov)
+ - date_published: 2024-07-03T14:24:11.311323+00:00
+
+ ## The 193rd General Court of the Commonwealth of Massachusetts
+ - [https://malegislature.gov](https://malegislature.gov)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Town of Manchester
+ - [https://www.manchesterct.gov](https://www.manchesterct.gov)
+ - date_published: 2024-07-01T23:24:21.741831+00:00
+
+ ## The Judicial Branch of Arizona in Maricopa County | Superior Court | Adult Probation | Juvenile Probation
+ - [http://www.superiorcourt.maricopa.gov](http://www.superiorcourt.maricopa.gov)
+ - date_published: 2024-10-27T11:19:27.059118+00:00
+
+ ## CRUISE
+ - [https://cruise.maryland.gov](https://cruise.maryland.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Department of Housing and Community Development
+ - [https://dhcd.maryland.gov](https://dhcd.maryland.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## DNR
+ - [https://dnr.maryland.gov](https://dnr.maryland.gov)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## DoIT
+ - [https://doit.maryland.gov](https://doit.maryland.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Pages - Home
+ - [https://dsd.maryland.gov](https://dsd.maryland.gov)
+ - date_published: 2024-10-28T00:46:52+00:00
+
+ ## Maryland State Board of Elections
+ - [https://elections.maryland.gov](https://elections.maryland.gov)
+ - date_published: 2024-10-19T07:20:52.093812+00:00
+
+ ## Governor's Office of Crime Prevention and Policy of Maryland
+ - [http://goccp.maryland.gov](http://goccp.maryland.gov)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Office of Governor Wes Moore
+ - [https://governor.maryland.gov](https://governor.maryland.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Governor's Press Office Photo Gallery
+ - [https://govpics.msa.maryland.gov](https://govpics.msa.maryland.gov)
+ - date_published: 2024-10-28T00:52:32.483275+00:00
+
+ ## Maryland Department of Agriculture
+ - [https://mda.maryland.gov](https://mda.maryland.gov)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## MPA
+ - [https://mpa.maryland.gov](https://mpa.maryland.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Maryland Motor Vehicle Administration
+ - [https://mva.maryland.gov](https://mva.maryland.gov)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Maryland Department of Planning
+ - [https://planning.maryland.gov](https://planning.maryland.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
  ## default
  - [http://www.maryland.gov](http://www.maryland.gov)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -3940,84 +4020,4 @@
  ## County of Saratoga, New York
  - [https://www.saratogacountyny.gov](https://www.saratogacountyny.gov)
  - date_published: 2024-09-18T04:10:45.632932+00:00
-
- ## City of Sausalito | Home
- - [https://www.sausalito.gov](https://www.sausalito.gov)
- - date_published: 2024-07-06T01:26:21+00:00
-
- ## SBA's Office of Advocacy
- - [https://advocacy.sba.gov](https://advocacy.sba.gov)
- - date_published: 2024-07-03T15:11:23.731749+00:00
-
- ## Welcome - U.S. Small Business Administration (SBA) | Open Data
- - [https://data.sba.gov](https://data.sba.gov)
- - date_published: 2019-07-15T00:00:00+00:00
-
- ## Small Business Administration
- - [https://sba.gov](https://sba.gov)
- - date_published: 2024-05-08T02:58:05.016050+00:00
-
- ## SBIR.gov
- - [https://www.sbir.gov](https://www.sbir.gov)
- - date_published: 2024-07-03T14:03:35.238348+00:00
-
- ## Home — South Carolina Department of Agriculture
- - [https://agriculture.sc.gov](https://agriculture.sc.gov)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Subject Guides
- - [https://guides.statelibrary.sc.gov](https://guides.statelibrary.sc.gov)
- - date_published: 2024-10-30T04:58:20.379442+00:00
-
- ## MySCVotes Login
- - [https://vrems.scvotes.sc.gov](https://vrems.scvotes.sc.gov)
- - date_published: 2024-05-04T06:58:03.530727+00:00
-
- ## Home | Department of Administration
- - [https://www.admin.sc.gov](https://www.admin.sc.gov)
- - date_published: 2024-09-16T18:01:25.460121+00:00
-
- ## Homepage | SCDHEC
- - [http://www.dhec.sc.gov](http://www.dhec.sc.gov)
- - date_published: 2024-06-29T15:43:25+00:00
-
- ## Home | South Carolina State Library
- - [http://www.statelibrary.sc.gov](http://www.statelibrary.sc.gov)
- - date_published: 2024-06-18T11:42:58+00:00
-
- ## Error: Active domain connection for this domain not found
- - [https://blog.scdhec.gov](https://blog.scdhec.gov)
- - date_published: 2024-06-29T15:54:57.686330+00:00
-
- ## Homepage | SCDHEC
- - [https://scdhec.gov](https://scdhec.gov)
- - date_published: 2024-06-29T15:43:25+00:00
-
- ## Schenectady County Highlights | Schenectady County
- - [https://www.schenectadycountyny.gov](https://www.schenectadycountyny.gov)
- - date_published: 2024-09-17T21:19:23+00:00
-
- ## Schoharie County, New York – Official Website
- - [https://www4.schohariecounty-ny.gov](https://www4.schohariecounty-ny.gov)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## House 2021 Redistricting | Home
- - [https://redistricting.schouse.gov](https://redistricting.schouse.gov)
- - date_published: 2024-06-19T18:11:08.480491+00:00
-
- ## Science.gov - Open Science Announcements from Federal Agencies
- - [https://open.science.gov](https://open.science.gov)
- - date_published: 2024-04-17T19:06:06+00:00
-
- ## Science.gov
- - [https://science.gov](https://science.gov)
- - date_published: 2023-12-06T00:11:16+00:00
-
- ## Senate 2021 Redistricting
- - [http://redistricting.scsenate.gov](http://redistricting.scsenate.gov)
- - date_published: 2024-06-19T18:11:10.087183+00:00
-
- ## South Carolina Legislature Online
- - [https://www.scstatehouse.gov](https://www.scstatehouse.gov)
- - date_published: 2024-01-09T00:00:00+00:00
 

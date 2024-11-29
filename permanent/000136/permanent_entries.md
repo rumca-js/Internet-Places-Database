@@ -1,3 +1,43 @@
+ ## Lemmid
+ - [https://domain.lemmid.com](https://domain.lemmid.com)
+ - date_published: 2024-06-29T21:42:27.143538+00:00
+
+ ## Lemmid
+ - [https://lemmid.com](https://lemmid.com)
+ - date_published: 2024-05-07T14:17:08.039275+00:00
+
+ ## Lemmid
+ - [https://manager.lemmid.com](https://manager.lemmid.com)
+ - date_published: 2024-06-29T21:42:28.388089+00:00
+
+ ## Lemmid
+ - [https://online.lemmid.com](https://online.lemmid.com)
+ - date_published: 2024-06-29T21:42:27.903820+00:00
+
+ ## Lemmid
+ - [https://transfer.lemmid.com](https://transfer.lemmid.com)
+ - date_published: 2024-05-07T14:17:09.823882+00:00
+
+ ## Lemmid
+ - [https://user.lemmid.com](https://user.lemmid.com)
+ - date_published: 2024-06-29T21:42:34.763367+00:00
+
+ ## Lemmid Store
+ - [https://lemmid-store.com](https://lemmid-store.com)
+ - date_published: 2024-05-07T14:17:01.062993+00:00
+
+ ## LEMMON LAB
+ - [https://lemmonlab.com](https://lemmonlab.com)
+ - date_published: 2018-03-09T00:00:00+00:00
+
+ ## Lemmys Land
+ - [http://lemmykoopa.com](http://lemmykoopa.com)
+ - date_published: 2010-07-03T20:22:32+00:00
+
+ ## Lemmy NSFW - NSFW (18+) only instance for Lemmy
+ - [https://lemmynsfw.com](https://lemmynsfw.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Jobs at Lemniscap Companies | Lemniscap
  - [https://careers.lemniscap.com](https://careers.lemniscap.com)
  - date_published: 2024-09-20T00:00:00+00:00
@@ -4035,44 +4075,4 @@
  ## CraftLit - Serialized Classic Literature for Busy Book Lovers
  - [http://craftlit.libsyn.com](http://craftlit.libsyn.com)
  - date_published: 2024-09-20T12:42:57+00:00
-
- ## Creator Lab - interviews with entrepreneurs and startup founders
- - [http://creatorlabfm.libsyn.com](http://creatorlabfm.libsyn.com)
- - date_published: 2024-06-23T03:04:22+00:00
-
- ## Data Skeptic
- - [https://dataskeptic.libsyn.com](https://dataskeptic.libsyn.com)
- - date_published: 2024-05-06T13:47:16.562724+00:00
-
- ## Dan Carlin's Hardcore History: Addendum
- - [https://dchhaddendum.libsyn.com](https://dchhaddendum.libsyn.com)
- - date_published: 2024-06-17T16:01:30+00:00
-
- ## DevRel Radio
- - [https://devrelradio.libsyn.com](https://devrelradio.libsyn.com)
- - date_published: 2024-05-06T14:17:09.927132+00:00
-
- ## Libsyn Directory
- - [https://directory.libsyn.com](https://directory.libsyn.com)
- - date_published: 2024-06-16T02:40:28.629427+00:00
-
- ## The Resetter Podcast with Dr. Mindy Pelz
- - [https://drmindypelz.libsyn.com](https://drmindypelz.libsyn.com)
- - date_published: 2024-06-26T17:38:13+00:00
-
- ## Earthworms
- - [https://earthworms.libsyn.com](https://earthworms.libsyn.com)
- - date_published: 2024-07-09T17:47:51+00:00
-
- ## Easy Prey
- - [https://easyprey.libsyn.com](https://easyprey.libsyn.com)
- - date_published: 2024-10-16T00:15:39+00:00
-
- ## Moore's Lobby: Where engineers talk all about circuits
- - [https://eetech.libsyn.com](https://eetech.libsyn.com)
- - date_published: 2024-05-01T03:15:26.181932+00:00
-
- ## The Effort Report
- - [http://effortreport.libsyn.com](http://effortreport.libsyn.com)
- - date_published: 2024-06-25T09:07:39+00:00
 

@@ -1,3 +1,96 @@
+ ## Jose Briones
+ - [https://josebriones.org](https://josebriones.org)
+ - date_published: 2024-01-08T00:32:13.058182+00:00
+
+ ## Simon Josefsson's blog
+ - [https://blog.josefsson.org](https://blog.josefsson.org)
+ - date_published: 2023-10-25T09:24:02.008742+00:00
+ - tags: ['personal']
+
+ ## Jose M Vidal
+ - [http://josemvidal.org](http://josemvidal.org)
+ - date_published: 2024-03-13T07:16:08+00:00
+
+ ## Joseph Scott
+ - [https://blog.josephscott.org](https://blog.josephscott.org)
+ - date_published: 2024-06-30T10:13:47.678492+00:00
+
+ ## Joseph Scott
+ - [https://josephscott.org](https://josephscott.org)
+ - date_published: 2024-06-30T10:36:08+00:00
+
+ ## Joseph Wresinski EN
+ - [https://www.joseph-wresinski.org](https://www.joseph-wresinski.org)
+ - date_published: 2024-07-13T19:49:12.681495+00:00
+
+ ## Language Learning Lab!
+ - [http://joshuakhartshorne.org](http://joshuakhartshorne.org)
+ - date_published: 2024-04-11T20:31:31+00:00
+
+ ## ✦ Zoraster.org
+ - [https://www.joshualiu.org](https://www.joshualiu.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://www.jospt.org](https://www.jospt.org)
+ - date_published: 2024-07-03T15:25:28.066097+00:00
+
+ ## Jotai, primitive and flexible state management for React
+ - [https://jotai.org](https://jotai.org)
+ - date_published: 2024-05-08T02:33:03.752677+00:00
+
+ ## Jotai tutorial
+ - [https://tutorial.jotai.org](https://tutorial.jotai.org)
+ - date_published: 2024-07-03T12:41:26.751137+00:00
+
+ ## Jotti's malware scan
+ - [https://virusscan.jotti.org](https://virusscan.jotti.org)
+ - date_published: 2024-07-14T21:15:36.436564+00:00
+
+ ## #17 Color (Spring 2024)
+ - [http://www.journal18.org](http://www.journal18.org)
+ - date_published: 2024-10-29T17:35:59+00:00
+
+ ## Journal of the American College of Surgeons
+ - [https://www.journalacs.org](https://www.journalacs.org)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Expert Grill Moves Made Easy with GrillMoverPro
+ - [http://www.journaldynamics.org](http://www.journaldynamics.org)
+ - date_published: 2023-07-21T10:05:58+00:00
+
+ ## News Habits & Media Archives
+ - [https://journalism.org](https://journalism.org)
+ - date_published: 2024-07-21T06:10:24.326268+00:00
+
+ ## Center for Journalism & Liberty
+ - [https://journalismliberty.org](https://journalismliberty.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Journalism research news
+ - [https://journalismresearchnews.org](https://journalismresearchnews.org)
+ - date_published: 2024-04-30T06:01:32.993376+00:00
+
+ ## The Online Journalism Awards – Honoring the Best of Digital Journalism
+ - [https://awards.journalists.org](https://awards.journalists.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Online News Association
+ - [http://journalists.org](http://journalists.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## The Journalist's Resource - Informing the news with research
+ - [https://journalistsresource.org](https://journalistsresource.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## SPJ Toolbox
+ - [https://journaliststoolbox.org](https://journaliststoolbox.org)
+ - date_published: 2024-05-07T10:31:08.161074+00:00
+
+ ## Journal of Democracy
+ - [https://journalofdemocracy.org](https://journalofdemocracy.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## Journal of Digital History
  - [https://journalofdigitalhistory.org](https://journalofdigitalhistory.org)
  - date_published: 2024-10-21T14:00:33.139209+00:00
@@ -3962,97 +4055,4 @@ Hosted by Panix.com.
  ## kottke.org - home of fine hypertext products
  - [https://bonus.kottke.org](https://bonus.kottke.org)
  - date_published: 2024-05-08T09:19:46.110011+00:00
-
- ## kottke.org feeds
- - [https://feeds.kottke.org](https://feeds.kottke.org)
- - date_published: 2017-07-09T22:38:04+00:00
-
- ## kottke.org - home of fine hypertext products
- - [https://kottke.org](https://kottke.org)
- - date_published: 2023-10-25T09:24:05.372537+00:00
- - tags: ['personal']
-
- ## Journal from Kotnik
- - [https://nikola.kotur.org](https://nikola.kotur.org)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Koumbit.org | Pour un internet libre et solidaire
- - [http://koumbit.org](http://koumbit.org)
- - date_published: 2024-08-19T11:08:43+00:00
-
- ## Kourovka Notebook
- - [https://kourovka-notebook.org](https://kourovka-notebook.org)
- - date_published: 2024-06-30T11:21:59.981553+00:00
-
- ## Kouzou Sakai Illustration
- - [https://kouzou.org](https://kouzou.org)
- - date_published: 2024-07-02T18:42:24.963276+00:00
-
- ## Employer Health Plans | Kaiser Permanente Business
- - [https://account.kp.org](https://account.kp.org)
- - date_published: 2024-07-12T01:09:13+00:00
-
- ## KPBS Producers Club
- - [https://campaign.kpbs.org](https://campaign.kpbs.org)
- - date_published: 2024-05-08T09:20:19.181539+00:00
-
- ## CDP
- - [https://donate.kpbs.org](https://donate.kpbs.org)
- - date_published: 2024-07-05T10:51:22+00:00
-
- ## KPBS Homepage | KPBS Public Media
- - [https://kpbs.org](https://kpbs.org)
- - date_published: 2023-10-25T21:37:17.991746+00:00
-
- ## KPBS Video
- - [https://video.kpbs.org](https://video.kpbs.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Local and national news, NPR, things to do, food recommendations and guides to Los Angeles, Orange County and the Inland Empire | LAist
- - [https://www.kpcc.org](https://www.kpcc.org)
- - date_published: 2024-08-06T11:08:08.589379+00:00
-
- ## Home - KPCW
- - [https://www.kpcw.org](https://www.kpcw.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## KPFA | Community Powered Radio
- - [https://kpfa.org](https://kpfa.org)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## KPFK 90.7 FM
- - [https://www.kpfk.org](https://www.kpfk.org)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Login - Open Web Analytics
- - [https://stats.kp-wiki.org](https://stats.kp-wiki.org)
- - date_published: 2024-05-14T13:34:03.316624+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [http://blogs.kqed.org](http://blogs.kqed.org)
- - date_published: 2024-06-29T20:09:48.268775+00:00
-
- ## Support public media
- - [https://donate.kqed.org](https://donate.kqed.org)
- - date_published: 2024-05-08T09:29:35.216845+00:00
-
- ## HelpCenter
- - [https://kqed-helpcenter.kqed.org](https://kqed-helpcenter.kqed.org)
- - date_published: 2023-07-08T04:44:16+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://kqed.org](https://kqed.org)
- - date_published: 2024-05-08T09:29:15.538345+00:00
-
- ## KQED Teach
- - [https://teach.kqed.org](https://teach.kqed.org)
- - date_published: 2024-05-04T09:32:09.445998+00:00
-
- ## KQED Video
- - [https://video.kqed.org](https://video.kqed.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://ww2.kqed.org](https://ww2.kqed.org)
- - date_published: 2024-05-06T17:12:07.712129+00:00
 

@@ -1,3 +1,83 @@
+ ## NASA Exoplanet Archive
+ - [https://exoplanetarchive.ipac.caltech.edu](https://exoplanetarchive.ipac.caltech.edu)
+ - date_published: 2024-05-06T23:04:59.319327+00:00
+
+ ## Caltech Facilities
+ - [https://facilities.caltech.edu](https://facilities.caltech.edu)
+ - date_published: 2024-07-22T06:51:22.835650+00:00
+
+ ## Facilities Finance and Information Systems
+ - [https://facilitiesfinanceinformationsystems.caltech.edu](https://facilitiesfinanceinformationsystems.caltech.edu)
+ - date_published: 2024-07-22T06:51:12.953556+00:00
+
+ ## Caltech Facilities Operations
+ - [https://facilitiesoperations.caltech.edu](https://facilitiesoperations.caltech.edu)
+ - date_published: 2024-07-22T06:51:29.134725+00:00
+
+ ## Faculty Housing Homepage
+ - [https://facultyhousing.caltech.edu](https://facultyhousing.caltech.edu)
+ - date_published: 2024-07-22T06:51:33.721803+00:00
+
+ ## Index
+ - [https://feeds.library.caltech.edu](https://feeds.library.caltech.edu)
+ - date_published: 2024-04-30T03:32:40.809774+00:00
+
+ ## Filming Information
+ - [http://filming.caltech.edu](http://filming.caltech.edu)
+ - date_published: 2024-07-22T07:10:42.282965+00:00
+
+ ## Welcome to the Office of Financial Services
+ - [http://finance.caltech.edu](http://finance.caltech.edu)
+ - date_published: 2024-07-22T06:23:21.242542+00:00
+
+ ## Forms
+ - [http://forms.caltech.edu](http://forms.caltech.edu)
+ - date_published: 2024-06-16T08:15:40.095009+00:00
+
+ ## Forms
+ - [https://forms.sites.caltech.edu](https://forms.sites.caltech.edu)
+ - date_published: 2024-09-27T10:14:50.105952+00:00
+
+ ## Planning, Design & Construction Homepage
+ - [https://fpdc.caltech.edu](https://fpdc.caltech.edu)
+ - date_published: 2024-07-22T06:51:15.565244+00:00
+
+ ## Office of Foundation Relations
+ - [https://fr.caltech.edu](https://fr.caltech.edu)
+ - date_published: 2024-07-22T07:03:33.939014+00:00
+
+ ## The Caltech Fund
+  
+
+     | 
+    Caltech Fund
+ - [https://fund.caltech.edu](https://fund.caltech.edu)
+ - date_published: 2024-07-22T07:03:44.628919+00:00
+
+ ## Graduate Aerospace Laboratories
+ - [https://galcit.caltech.edu](https://galcit.caltech.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Graduate Aerospace Laboratories
+ - [https://galcit.divisions.caltech.edu](https://galcit.divisions.caltech.edu)
+ - date_published: 2024-07-15T02:35:28+00:00
+
+ ## Planned Giving at Caltech | Caltech
+ - [https://giftplanning.caltech.edu](https://giftplanning.caltech.edu)
+ - date_published: 2024-07-22T07:03:48.366655+00:00
+
+ ## Advancement and Alumni Relations
+ - [https://giving.caltech.edu](https://giving.caltech.edu)
+ - date_published: 2024-04-30T03:33:32.228234+00:00
+
+ ## Advancement and Alumni Relations
+ - [https://giving.divisions.caltech.edu](https://giving.divisions.caltech.edu)
+ - date_published: 2024-07-22T07:03:35+00:00
+
+ ## Geomechanics and Mitigation of Geohazards Center
+ - [https://gmg.caltech.edu](https://gmg.caltech.edu)
+ - date_published: 2024-07-22T06:22:14.837482+00:00
+
  ## Geomechanics and Mitigation of Geohazards Center
  - [https://gmg.sites.caltech.edu](https://gmg.sites.caltech.edu)
  - date_published: 2024-04-30T03:44:39.934733+00:00
@@ -3932,80 +4012,4 @@ Mellon University
  ## Cornell University Library Catalog
  - [https://newcatalog.library.cornell.edu](https://newcatalog.library.cornell.edu)
  - date_published: 2024-07-22T05:26:43.270693+00:00
-
- ## Home | Cornell Chronicle
- - [https://news.cornell.edu](https://news.cornell.edu)
- - date_published: 2023-10-25T18:50:38.276285+00:00
-
- ## Newsroom | Weill Cornell Medicine
- - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
- - date_published: 2023-10-25T18:50:39.847779+00:00
-
- ## Cornell University's Impact on New York State
- - [https://ny.cornell.edu](https://ny.cornell.edu)
- - date_published: 2024-08-06T17:29:46.630657+00:00
-
- ## Olin & Uris Libraries
- - [https://olinuris.library.cornell.edu](https://olinuris.library.cornell.edu)
- - date_published: 2024-07-22T05:27:24.028373+00:00
-
- ## Office of the University Ombuds – Confidential, Independent, Informal, Impartial
- - [https://ombuds.cornell.edu](https://ombuds.cornell.edu)
- - date_published: 2024-04-30T03:59:35.665960+00:00
-
- ## Home
- - [https://oneida.cce.cornell.edu](https://oneida.cce.cornell.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Organic Robotics Lab | Cornell University
- - [https://orl.mae.cornell.edu](https://orl.mae.cornell.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Praxis Center for Venture Development – A startup incubator for Engineering, Digital and Physical Sciences Ventures located on the Cornell Campus in Ithaca, NY
- - [https://pcvd.cornell.edu](https://pcvd.cornell.edu)
- - date_published: 2024-04-30T03:59:25.866694+00:00
-
- ## Peng Lab | Weill Cornell Medicine
- - [https://penglab.weill.cornell.edu](https://penglab.weill.cornell.edu)
- - date_published: 2024-07-12T07:45:45+00:00
-
- ## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
- - date_published: 2023-10-25T18:50:42.502337+00:00
-
- ## courses.cit.cornell.edu
- - [https://people.orie.cornell.edu](https://people.orie.cornell.edu)
- - date_published: 2021-10-11T20:44:15+00:00
-
- ## Persuasive Maps | Persuasive Maps
- - [https://persuasivemaps.library.cornell.edu](https://persuasivemaps.library.cornell.edu)
- - date_published: 2024-02-08T18:05:40.860106+00:00
-
- ## Clark Physical Sciences Library
- - [https://physicalsciences.library.cornell.edu](https://physicalsciences.library.cornell.edu)
- - date_published: 2024-07-22T05:28:01.327897+00:00
-
- ## The Department of Physics | Department of Physics
- - [https://physics.cornell.edu](https://physics.cornell.edu)
- - date_published: 2024-07-21T21:45:04+00:00
-
- ## Cornell University Web Login
- - [https://pidash.cornell.edu](https://pidash.cornell.edu)
- - date_published: 2024-07-22T05:18:01.559903+00:00
-
- ## https://pi.math.cornell.edu
- - [https://pi.math.cornell.edu](https://pi.math.cornell.edu)
- - date_published: 2023-06-21T17:20:38+00:00
-
- ## Home | University Policy
- - [https://policy.cornell.edu](https://policy.cornell.edu)
- - date_published: 2024-04-30T03:59:33.001278+00:00
-
- ## Office of Postdoctoral Studies
- - [https://postdocs.cornell.edu](https://postdocs.cornell.edu)
- - date_published: 2024-07-22T05:16:41.291109+00:00
-
- ## Office of the President | Cornell University
- - [http://president.cornell.edu](http://president.cornell.edu)
- - date_published: 2024-07-22T05:30:33.178783+00:00
 

@@ -1,3 +1,44 @@
+ ## Marion County RECORD | Newspaper from Marion KS | Oct. 18, 2023
+ - [https://marionrecord.com](https://marionrecord.com)
+ - date_published: 2023-10-25T15:56:29.822192+00:00
+
+ ## Marion County Sheriff's Office
+ - [http://marionso.com](http://marionso.com)
+ - date_published: 2024-07-03T14:37:15.187298+00:00
+
+ ## Home | Marion Surgical
+ - [https://www.marionsurgical.com](https://www.marionsurgical.com)
+ - date_published: 2024-06-28T11:24:00.888887+00:00
+
+ ## Mario Party Legacy
+ - [http://mariopartylegacy.com](http://mariopartylegacy.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Mario Sangiorgio
+ - [https://mariosangiorgio.com](https://mariosangiorgio.com)
+ - date_published: 2024-01-11T13:28:59.977327+00:00
+ - tags: ['personal']
+
+ ## Mario Villalobos
+ - [https://mariovillalobos.com](https://mariovillalobos.com)
+ - date_published: 2024-02-07T16:46:12.428641+00:00
+
+ ## Super Mario Wiki
+ - [https://mariowiki.com](https://mariowiki.com)
+ - date_published: 2024-05-17T13:47:07+00:00
+
+ ## Artisan-Crafted | Gluten-Free Baked Goods | Mariposa Baking
+ - [https://pickup.mariposabaking.com](https://pickup.mariposabaking.com)
+ - date_published: 2024-10-17T21:26:09.733754+00:00
+
+ ## Artisan-Crafted | Gluten-Free Baked Goods
+ - [https://www.mariposabaking.com](https://www.mariposabaking.com)
+ - date_published: 2024-06-17T09:07:40.973385+00:00
+
+ ## Bay Area Executive Leadership Coaching
+ - [https://mariposaleadership.com](https://mariposaleadership.com)
+ - date_published: 2024-07-24T02:15:03.669955+00:00
+
  ## Maripoza Boutique - Where Fashion Trends Start in the RGV
  - [https://maripozaboutique.com](https://maripozaboutique.com)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -4000,44 +4041,4 @@
  ## Matt Downey — Founder of Digital Native
  - [https://mattdowney.com](https://mattdowney.com)
  - date_published: 2024-09-16T23:04:47.246070+00:00
-
- ## Productivity Coaching by Matt East
- - [https://www.matt-east.com](https://www.matt-east.com)
- - date_published: 2024-06-22T07:14:58.923455+00:00
-
- ## Matt Edgar writes here
- - [https://blog.mattedgar.com](https://blog.mattedgar.com)
- - date_published: 2024-05-04T14:41:41.341741+00:00
-
- ## Matt Edgar
- - [https://mattedgar.com](https://mattedgar.com)
- - date_published: 2024-02-07T18:15:28.156463+00:00
-
- ## matteing.com - Private Site Access
- - [https://cms.matteing.com](https://cms.matteing.com)
- - date_published: 2024-07-10T09:40:51.907611+00:00
-
- ## Sergio Mattei · matteing.com
- - [https://matteing.com](https://matteing.com)
- - date_published: 2024-05-09T08:21:43.432237+00:00
-
- ## Zabawki, lalki, zestawy do zabawy, domki dla lalek Barbie
- - [https://barbie.mattel.com](https://barbie.mattel.com)
- - date_published: 2024-06-23T16:20:54.614081+00:00
-
- ## Mattel Creations
- - [https://community.creations.mattel.com](https://community.creations.mattel.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Mattel, Inc. | Corporate Website Home
- - [https://corporate.mattel.com](https://corporate.mattel.com)
- - date_published: 2024-05-08T03:18:28.472182+00:00
-
- ## Exclusive Limited-Edition Collectors Toys
- - [https://creations.mattel.com](https://creations.mattel.com)
- - date_published: 2024-04-29T03:42:27.867552+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investors.mattel.com](https://investors.mattel.com)
- - date_published: 2024-06-23T16:21:39.525759+00:00
 

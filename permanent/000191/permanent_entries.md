@@ -1,3 +1,65 @@
+ ## Sprinklr: Unified AI-Powered Customer Experience Management Platform
+ - [https://sprinklr.com](https://sprinklr.com)
+ - date_published: 2024-07-11T12:34:00+00:00
+
+ ## Survey
+ - [https://survey-app.sprinklr.com](https://survey-app.sprinklr.com)
+ - date_published: 2024-05-25T13:00:55+00:00
+
+ ## Be part of the in-crowd. | T-Mobile Community
+ - [https://community.sprint.com](https://community.sprint.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## SprintEins
+ - [https://www.sprinteins.com](https://www.sprinteins.com)
+ - date_published: 2024-07-14T08:50:31.086857+00:00
+
+ ## Sprinto - Continuous Security & Compliance Platform
+ - [https://app.sprinto.com](https://app.sprinto.com)
+ - date_published: 2024-08-07T17:58:32.793528+00:00
+
+ ## Sprinto - Continuous Security & Compliance Platform
+ - [https://risingwave.trustcenter.sprinto.com](https://risingwave.trustcenter.sprinto.com)
+ - date_published: 2024-04-28T05:08:13.847802+00:00
+
+ ## Home - Sprinto - Continuous Security & Compliance Platform - Sprinto
+ - [https://sprinto.com](https://sprinto.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## 転職と副業
+ - [http://www.sprintusers.com](http://www.sprintusers.com)
+ - date_published: 2024-11-16T20:56:34.693156+00:00
+
+ ## Sprite - Official Home Page | Coca-Cola US
+ - [https://sprite.com](https://sprite.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Spriteclad
+ - [https://spriteclad.com](https://spriteclad.com)
+ - date_published: 2019-12-05T01:31:33+00:00
+
+ ## Sprite Cow - Generate CSS for sprite sheets
+ - [http://www.spritecow.com](http://www.spritecow.com)
+ - date_published: 2024-06-23T05:58:06.130622+00:00
+
+ ## SpriteLayer Video Game Radio
+ - [https://spritelayerradio.com](https://spritelayerradio.com)
+ - date_published: 2024-02-15T22:14:12.221633+00:00
+ - tags: ['demoscene']
+
+ ## The Spriters Resource
+ - [https://spriters-resource.com](https://spriters-resource.com)
+ - date_published: 2023-10-25T11:35:11.849563+00:00
+ - tags: ['sprite assets']
+
+ ## Spritesmods.com hubzilla server
+ - [https://social.spritesmods.com](https://social.spritesmods.com)
+ - date_published: 2024-08-19T05:37:48.831976+00:00
+
+ ## Sprites mods - Welcome - Welcome!
+ - [https://spritesmods.com](https://spritesmods.com)
+ - date_published: 2023-10-25T17:11:19.992109+00:00
+
  ## Spirit Flight Tickets | Spirit Air Booking |Spritflight
  - [https://www.spritflight.com](https://www.spritflight.com)
  - date_published: 2024-03-20T13:37:23+00:00
@@ -3955,65 +4017,4 @@
  ## Last Mile Networks
  - [https://john-kimmel-jchs.squarespace.com](https://john-kimmel-jchs.squarespace.com)
  - date_published: 2024-06-15T23:45:25.982291+00:00
-
- ## Jonathan Davis
- - [https://jonathandavisvh.squarespace.com](https://jonathandavisvh.squarespace.com)
- - date_published: 2024-09-17T16:30:47.155006+00:00
-
- ## Jonathan Magnin
- - [https://jonathan-magnin.squarespace.com](https://jonathan-magnin.squarespace.com)
- - date_published: 2024-08-18T07:34:20.158817+00:00
-
- ## Jonny Miller
- - [https://jonny-miller.squarespace.com](https://jonny-miller.squarespace.com)
- - date_published: 2024-04-30T06:46:29.248079+00:00
- - tags: ['personal']
-
- ## HUDS+GUIS
- - [https://jono-yuen.squarespace.com](https://jono-yuen.squarespace.com)
- - date_published: 2024-08-06T11:07:06.939268+00:00
-
- ## Honor Flight Nevada
- - [http://jon-yuspa-ri1o.squarespace.com](http://jon-yuspa-ri1o.squarespace.com)
- - date_published: 2024-08-19T21:04:16.514801+00:00
-
- ## Joseph Andrew lafond
- - [https://joseph-lafond-gqqx.squarespace.com](https://joseph-lafond-gqqx.squarespace.com)
- - date_published: 2024-05-10T07:00:37.788803+00:00
-
- ## Metal Wellness
- - [https://joseph-metallo.squarespace.com](https://joseph-metallo.squarespace.com)
- - date_published: 2024-05-10T06:14:52.959850+00:00
-
- ## Josh Levent
- - [http://joshlevent.squarespace.com](http://joshlevent.squarespace.com)
- - date_published: 2024-08-19T21:05:37.673168+00:00
-
- ## Joshua Seiden
- - [https://josh-seiden-jlew.squarespace.com](https://josh-seiden-jlew.squarespace.com)
- - date_published: 2024-09-05T13:20:34.927280+00:00
-
- ## Maker Portal
- - [https://joshua-hrisko.squarespace.com](https://joshua-hrisko.squarespace.com)
- - date_published: 2024-07-09T09:08:11.580836+00:00
-
- ## Josh Lu
- - [https://joshua-lu-wn8g.squarespace.com](https://joshua-lu-wn8g.squarespace.com)
- - date_published: 2024-08-18T03:53:40.420716+00:00
-
- ## Center for Journalism & Liberty
- - [https://journalism-liberty.squarespace.com](https://journalism-liberty.squarespace.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Squarespace - No Such Website
- - [http://jsconfasia.squarespace.com](http://jsconfasia.squarespace.com)
- - date_published: 2024-09-04T10:51:08.347246+00:00
-
- ## Slide20XX | Composer
- - [http://jsmithv.squarespace.com](http://jsmithv.squarespace.com)
- - date_published: 2024-08-18T02:37:50.761138+00:00
-
- ## Jules Buck Jones
- - [http://julesbuckjones.squarespace.com](http://julesbuckjones.squarespace.com)
- - date_published: 2024-06-17T12:15:05.165218+00:00
 

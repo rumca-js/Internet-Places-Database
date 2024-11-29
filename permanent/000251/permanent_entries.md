@@ -1,3 +1,79 @@
+ ## SoPlex
+ - [http://soplex.zib.de](http://soplex.zib.de)
+ - date_published: 2024-10-16T06:10:40.270390+00:00
+
+ ## UG
+ - [http://ug.zib.de](http://ug.zib.de)
+ - date_published: 2024-10-16T06:09:25.920844+00:00
+
+ ## Home | zib.de
+ - [https://www.zib.de](https://www.zib.de)
+ - date_published: 2024-05-04T15:14:50.864936+00:00
+
+ ## ZIMPL
+ - [http://zimpl.zib.de](http://zimpl.zib.de)
+ - date_published: 2024-06-17T03:06:17.432785+00:00
+
+ ## Home - Konrad Zuse Internet Archive
+ - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
+ - date_published: 2015-03-16T16:12:59+00:00
+
+ ## Konrad Zuse Internet Archive - Home
+ - [http://zuse.zib.de](http://zuse.zib.de)
+ - date_published: 2024-07-14T16:32:17.669454+00:00
+
+ ## Raum für Neues
+ - [http://zieglerbuerg.de](http://zieglerbuerg.de)
+ - date_published: 2021-05-31T20:12:01+00:00
+
+ ## LAN Party in Zittau - Das Original seit 2001 - www.zi-lan.de
+ - [http://zi-lan.de](http://zi-lan.de)
+ - date_published: 2024-07-24T04:42:17.934713+00:00
+
+ ## Zentralinstitut für Seelische Gesundheit
+ - [https://www.zi-mannheim.de](https://www.zi-mannheim.de)
+ - date_published: 2024-08-19T19:24:05.530713+00:00
+
+ ## zimpel - die PR-Software und Mediendatenbank
+ - [https://www.zimpel-online.de](https://www.zimpel-online.de)
+ - date_published: 2024-06-26T07:49:15.054310+00:00
+
+ ## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
+ - [https://zitate-online.de](https://zitate-online.de)
+ - date_published: 2024-04-29T06:31:46.394671+00:00
+
+ ## Startseite | Zix
+ - [https://zix.de](https://zix.de)
+ - date_published: 2024-09-16T01:29:11.865116+00:00
+
+ ## Zentrum für Kunst und Medien | ZKM
+ - [https://zkm.de](https://zkm.de)
+ - date_published: 2024-06-28T21:28:04+00:00
+
+ ## Z-Node 51
+ - [https://znode51.de](https://znode51.de)
+ - date_published: 2018-05-10T10:55:23+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.de](https://www2.zoetis.de)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Startseite
+ - [https://www.zolar.de](https://www.zolar.de)
+ - date_published: 2024-09-25T19:03:50.627445+00:00
+
+ ## Startseite - Zoo Frankfurt
+ - [http://www.zoo-frankfurt.de](http://www.zoo-frankfurt.de)
+ - date_published: 2024-06-20T21:40:03.386095+00:00
+
+ ## Startseite
+ - [https://www.zoo-heidelberg.de](https://www.zoo-heidelberg.de)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## ZOOKINDERGARTEN MAGDEBURG
+ - [http://www.zoo-kindergarten.de](http://www.zoo-kindergarten.de)
+ - date_published: 2021-01-18T11:28:48+00:00
+
  ## Zoologischer Garten Magdeburg | Zoologischer Garten Magdeburg
  - [http://www.zoo-magdeburg.de](http://www.zoo-magdeburg.de)
  - date_published: 2024-08-11T22:27:03.856882+00:00
@@ -3979,83 +4055,4 @@
  ## dasdom.dev
  - [https://dasdom.dev](https://dasdom.dev)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Osman Cea
- - [https://daslaf.dev](https://daslaf.dev)
- - date_published: 2024-05-09T08:25:50.170872+00:00
-
- ## dasun.dev - Laravel Developer
- - [https://www.dasun.dev](https://www.dasun.dev)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## dbdev | The Database Package Manager
- - [https://database.dev](https://database.dev)
- - date_published: 2023-10-25T18:37:10.874218+00:00
-
- ## Database Internals
- - [https://www.databass.dev](https://www.databass.dev)
- - date_published: 2024-07-19T20:46:41.376282+00:00
-
- ## DataOps.dev
- - [https://dataops.dev](https://dataops.dev)
- - date_published: 2024-07-12T17:58:16.037974+00:00
-
- ## DataShell - Develop data solutions like a software engineer would.
- - [https://datashell.dev](https://datashell.dev)
- - date_published: 2024-07-23T21:16:30.103908+00:00
-
- ## Redirecting…
- - [https://datatransferproject.dev](https://datatransferproject.dev)
- - date_published: 2023-04-27T18:18:50+00:00
-
- ## datawookie
- - [https://datawookie.dev](https://datawookie.dev)
- - date_published: 2024-06-27T03:17:34+00:00
-
- ## davidamos.dev - Ta strona jest na sprzedaż! - davidamos Zasoby i informacje.
- - [https://davidamos.dev](https://davidamos.dev)
- - date_published: 2024-01-09T02:57:06.453997+00:00
-
- ## David Capper
- - [https://davidcapper.dev](https://davidcapper.dev)
- - date_published: 2024-01-08T07:21:57+00:00
-
- ## David Caron
- - [https://davidcaron.dev](https://davidcaron.dev)
- - date_published: 2024-06-28T20:11:27.496202+00:00
-
- ## ~/.didev
- - [https://davidisaksson.dev](https://davidisaksson.dev)
- - date_published: 2023-10-25T08:58:27.129547+00:00
- - tags: ['personal']
-
- ## David Nguyen
- - [https://davidnguyen.dev](https://davidnguyen.dev)
- - date_published: 2023-12-03T09:19:51.549979+00:00
- - tags: ['personal']
-
- ## David Parks
- - [https://davidparks.dev](https://davidparks.dev)
- - date_published: 2024-05-04T09:14:17.172846+00:00
-
- ## Mumbling about computers
- - [https://blog.davidv.dev](https://blog.davidv.dev)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Source Code
- - [https://blog.davidvarghese.dev](https://blog.davidvarghese.dev)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## David v.Knobelsdorff
-			– davidvonk.dev
- - [https://davidvonk.dev](https://davidvonk.dev)
- - date_published: 2022-04-14T00:00:00+00:00
-
- ## Dawit Mekonnen
- - [https://dawit.dev](https://dawit.dev)
- - date_published: 2024-05-11T10:09:28.503585+00:00
-
- ## DBOS Cloud
- - [https://console.dbos.dev](https://console.dbos.dev)
- - date_published: 2024-09-10T17:05:42+00:00
 

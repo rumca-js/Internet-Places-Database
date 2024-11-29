@@ -1,3 +1,80 @@
+ ## The Soundings Project
+ - [https://iflsoundings.web.baylor.edu](https://iflsoundings.web.baylor.edu)
+ - date_published: 2022-05-25T15:56:00+00:00
+
+ ## Institute for Faith and Learning
+ - [https://ifl.web.baylor.edu](https://ifl.web.baylor.edu)
+ - date_published: 2022-10-27T13:17:00+00:00
+
+ ## Ignite
+ - [https://ignite.web.baylor.edu](https://ignite.web.baylor.edu)
+ - date_published: 2022-12-12T10:42:00+00:00
+
+ ## Illuminate
+ - [https://illuminate.web.baylor.edu](https://illuminate.web.baylor.edu)
+ - date_published: 2021-03-02T11:17:00+00:00
+
+ ## Interactive Media and Language Center
+ - [https://imlc.artsandsciences.baylor.edu](https://imlc.artsandsciences.baylor.edu)
+ - date_published: 2023-06-26T09:15:00+00:00
+
+ ## Spring 2024
+ - [https://impact.soe.baylor.edu](https://impact.soe.baylor.edu)
+ - date_published: 2024-06-10T15:11:00+00:00
+
+ ## The Inauguration of Linda A. Livingstone
+ - [https://inauguration.web.baylor.edu](https://inauguration.web.baylor.edu)
+ - date_published: 2021-12-16T11:12:00+00:00
+
+ ## Office of Interdisciplinary Programs
+ - [https://interdisciplinaryprograms.artsandsciences.baylor.edu](https://interdisciplinaryprograms.artsandsciences.baylor.edu)
+ - date_published: 2022-11-02T13:19:00+00:00
+
+ ## Office of Investments
+ - [https://investments.web.baylor.edu](https://investments.web.baylor.edu)
+ - date_published: 2023-03-23T13:06:00+00:00
+
+ ## Institutional Research
+ - [https://ir.web.baylor.edu](https://ir.web.baylor.edu)
+ - date_published: 2023-08-07T15:41:00+00:00
+
+ ## Information Technology Services
+ - [https://its.web.baylor.edu](https://its.web.baylor.edu)
+ - date_published: 2021-09-27T13:40:00+00:00
+
+ ## Journalism, Public Relations & New Media
+ - [https://journalism.artsandsciences.baylor.edu](https://journalism.artsandsciences.baylor.edu)
+ - date_published: 2022-07-26T10:06:00+00:00
+
+ ## Judicial Affairs
+ - [https://judicialaffairs.web.baylor.edu](https://judicialaffairs.web.baylor.edu)
+ - date_published: 2022-10-11T15:44:00+00:00
+
+ ## Keller Center for Research
+ - [https://kellercenter.hankamer.baylor.edu](https://kellercenter.hankamer.baylor.edu)
+ - date_published: 2023-10-23T15:05:00+00:00
+
+ ## Baylor Law School
+ - [https://law.baylor.edu](https://law.baylor.edu)
+ - date_published: 2023-08-25T14:11:00+00:00
+
+ ## Senior Administration
+ - [https://leadership.web.baylor.edu](https://leadership.web.baylor.edu)
+ - date_published: 2022-09-06T13:13:00+00:00
+
+ ## Leadership, Education, and Development Living-Learning Community
+ - [https://leadllc.web.baylor.edu](https://leadllc.web.baylor.edu)
+ - date_published: 2022-10-26T08:41:00+00:00
+
+ ## Ask a Question - Ask Us!
+ - [https://libanswers.baylor.edu](https://libanswers.baylor.edu)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## LibCal -
+        Baylor University
+ - [https://libcal.baylor.edu](https://libcal.baylor.edu)
+ - date_published: 2024-08-19T18:30:44.686619+00:00
+
  ## University Libraries
  - [https://library.web.baylor.edu](https://library.web.baylor.edu)
  - date_published: 2023-06-05T15:07:00+00:00
@@ -3932,84 +4009,4 @@
  ## Caltech Events
  - [https://events.caltech.edu](https://events.caltech.edu)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## NASA Exoplanet Archive
- - [https://exoplanetarchive.ipac.caltech.edu](https://exoplanetarchive.ipac.caltech.edu)
- - date_published: 2024-05-06T23:04:59.319327+00:00
-
- ## Caltech Facilities
- - [https://facilities.caltech.edu](https://facilities.caltech.edu)
- - date_published: 2024-07-22T06:51:22.835650+00:00
-
- ## Facilities Finance and Information Systems
- - [https://facilitiesfinanceinformationsystems.caltech.edu](https://facilitiesfinanceinformationsystems.caltech.edu)
- - date_published: 2024-07-22T06:51:12.953556+00:00
-
- ## Caltech Facilities Operations
- - [https://facilitiesoperations.caltech.edu](https://facilitiesoperations.caltech.edu)
- - date_published: 2024-07-22T06:51:29.134725+00:00
-
- ## Faculty Housing Homepage
- - [https://facultyhousing.caltech.edu](https://facultyhousing.caltech.edu)
- - date_published: 2024-07-22T06:51:33.721803+00:00
-
- ## Index
- - [https://feeds.library.caltech.edu](https://feeds.library.caltech.edu)
- - date_published: 2024-04-30T03:32:40.809774+00:00
-
- ## Filming Information
- - [http://filming.caltech.edu](http://filming.caltech.edu)
- - date_published: 2024-07-22T07:10:42.282965+00:00
-
- ## Welcome to the Office of Financial Services
- - [http://finance.caltech.edu](http://finance.caltech.edu)
- - date_published: 2024-07-22T06:23:21.242542+00:00
-
- ## Forms
- - [http://forms.caltech.edu](http://forms.caltech.edu)
- - date_published: 2024-06-16T08:15:40.095009+00:00
-
- ## Forms
- - [https://forms.sites.caltech.edu](https://forms.sites.caltech.edu)
- - date_published: 2024-09-27T10:14:50.105952+00:00
-
- ## Planning, Design & Construction Homepage
- - [https://fpdc.caltech.edu](https://fpdc.caltech.edu)
- - date_published: 2024-07-22T06:51:15.565244+00:00
-
- ## Office of Foundation Relations
- - [https://fr.caltech.edu](https://fr.caltech.edu)
- - date_published: 2024-07-22T07:03:33.939014+00:00
-
- ## The Caltech Fund
-  
-
-     | 
-    Caltech Fund
- - [https://fund.caltech.edu](https://fund.caltech.edu)
- - date_published: 2024-07-22T07:03:44.628919+00:00
-
- ## Graduate Aerospace Laboratories
- - [https://galcit.caltech.edu](https://galcit.caltech.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Graduate Aerospace Laboratories
- - [https://galcit.divisions.caltech.edu](https://galcit.divisions.caltech.edu)
- - date_published: 2024-07-15T02:35:28+00:00
-
- ## Planned Giving at Caltech | Caltech
- - [https://giftplanning.caltech.edu](https://giftplanning.caltech.edu)
- - date_published: 2024-07-22T07:03:48.366655+00:00
-
- ## Advancement and Alumni Relations
- - [https://giving.caltech.edu](https://giving.caltech.edu)
- - date_published: 2024-04-30T03:33:32.228234+00:00
-
- ## Advancement and Alumni Relations
- - [https://giving.divisions.caltech.edu](https://giving.divisions.caltech.edu)
- - date_published: 2024-07-22T07:03:35+00:00
-
- ## Geomechanics and Mitigation of Geohazards Center
- - [https://gmg.caltech.edu](https://gmg.caltech.edu)
- - date_published: 2024-07-22T06:22:14.837482+00:00
 

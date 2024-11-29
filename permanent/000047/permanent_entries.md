@@ -1,3 +1,19 @@
+ ## Persona | Official Website
+ - [https://persona.atlus.com](https://persona.atlus.com)
+ - date_published: 2023-01-25T01:42:10+00:00
+
+ ## Soul Hackers 2
+ - [https://soulhackers2.atlus.com](https://soulhackers2.atlus.com)
+ - date_published: 2022-08-26T00:00:00+00:00
+
+ ## Unicorn Overlord
+ - [https://unicornoverlord.atlus.com](https://unicornoverlord.atlus.com)
+ - date_published: 2024-05-21T01:39:47+00:00
+
+ ## atlutd
+ - [https://atlutd.com](https://atlutd.com)
+ - date_published: 2024-06-17T10:42:06.013764+00:00
+
  ## atlutd
  - [https://es.atlutd.com](https://es.atlutd.com)
  - date_published: 2024-10-18T16:25:46.393217+00:00
@@ -3034,6 +3050,10 @@
  - [https://learn.automationcommunity.com](https://learn.automationcommunity.com)
  - date_published: 2024-07-09T00:00:00+00:00
 
+ ## Automation Exercise
+ - [https://automationexercise.com](https://automationexercise.com)
+ - date_published: 2024-11-28T22:00:38+00:00
+
  ## Manufacturing Automation
  - [https://www.automationmag.com](https://www.automationmag.com)
  - date_published: 2024-10-15T17:13:56+00:00
@@ -4013,24 +4033,4 @@
  ## Aviation A2Z - Latest Aviation News
  - [https://aviationa2z.com](https://aviationa2z.com)
  - date_published: 2023-10-25T12:50:15.437143+00:00
-
- ## Aviation Business Middle East - Aviation Industry News | Airports News | Airlines News | Aviation Services | Aviation Jobs News
- - [https://www.aviationbusinessme.com](https://www.aviationbusinessme.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - Aviation Capital Group
- - [http://aviationcapitalgroup.com](http://aviationcapitalgroup.com)
- - date_published: 2021-07-13T20:32:40+00:00
-
- ## Home - Aviation Consumer
- - [https://www.aviationconsumer.com](https://www.aviationconsumer.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.aviationfirejournal.com](http://www.aviationfirejournal.com)
- - date_published: 2024-07-09T22:15:24.009313+00:00
-
- ## Aviation for Aviators
- - [https://aviationforaviators.com](https://aviationforaviators.com)
- - date_published: 2024-10-25T12:09:24+00:00
 

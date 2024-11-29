@@ -1,3 +1,91 @@
+ ## Poéticas ao acaso
+ - [http://alico-poeticasaoacaso.blogspot.pt](http://alico-poeticasaoacaso.blogspot.pt)
+ - date_published: 2024-03-19T07:37:01+00:00
+
+ ## Alma Tua
+ - [http://almatua.blogspot.pt](http://almatua.blogspot.pt)
+ - date_published: 2024-07-03T06:47:12+00:00
+
+ ## AMADEU BAPTISTA
+ - [http://amadeubaptista.blogspot.pt](http://amadeubaptista.blogspot.pt)
+ - date_published: 2024-07-11T18:03:07+00:00
+
+ ## Blogger
+ - [http://andrelitteris.blogspot.pt](http://andrelitteris.blogspot.pt)
+ - date_published: 2024-07-12T21:12:28.179628+00:00
+
+ ## A Odisséia de Penélope
+ - [http://aodisseiadepenelope.blogspot.pt](http://aodisseiadepenelope.blogspot.pt)
+ - date_published: 2024-03-13T01:46:13+00:00
+
+ ## AROS Playground
+ - [https://arosgamer.blogspot.pt](https://arosgamer.blogspot.pt)
+ - date_published: 2024-03-13T08:56:51+00:00
+
+ ## AROS Playground Reviews
+ - [http://arosgamereview.blogspot.pt](http://arosgamereview.blogspot.pt)
+ - date_published: 2024-08-31T14:19:04+00:00
+
+ ## Do trapézio, sem rede
+ - [http://arspoetica-lp.blogspot.pt](http://arspoetica-lp.blogspot.pt)
+ - date_published: 2024-06-13T04:00:16+00:00
+
+ ## O Fim
+ - [http://artedofim.blogspot.pt](http://artedofim.blogspot.pt)
+ - date_published: 2024-07-12T01:46:07+00:00
+
+ ## Baú de Guardados
+ - [http://badeguardados.blogspot.pt](http://badeguardados.blogspot.pt)
+ - date_published: 2024-06-22T05:35:29+00:00
+
+ ## Barcaças
+ - [http://barcacas.blogspot.pt](http://barcacas.blogspot.pt)
+ - date_published: 2024-03-19T12:36:39+00:00
+
+ ## BLOGUINHO DE POESIA
+ - [http://bloguinhodepoesia.blogspot.pt](http://bloguinhodepoesia.blogspot.pt)
+ - date_published: 2024-03-19T04:03:10+00:00
+
+ ## búhobranca
+ - [http://buhobranca.blogspot.pt](http://buhobranca.blogspot.pt)
+ - date_published: 2024-03-05T13:59:15+00:00
+
+ ## Cantochao Blog
+ - [http://cantochao.blogspot.pt](http://cantochao.blogspot.pt)
+ - date_published: 2024-07-04T06:08:23+00:00
+
+ ## Casa de Cacela
+ - [http://casa-de-cacela.blogspot.pt](http://casa-de-cacela.blogspot.pt)
+ - date_published: 2015-10-26T00:00:00+00:00
+
+ ## Causa Nossa
+ - [https://causa-nossa.blogspot.pt](https://causa-nossa.blogspot.pt)
+ - date_published: 2024-07-11T22:38:31+00:00
+
+ ## cores e outros amores
+ - [http://coreseoutrosamores.blogspot.pt](http://coreseoutrosamores.blogspot.pt)
+ - date_published: 2024-03-14T03:00:06+00:00
+
+ ## CORPO DE POEMA
+ - [http://corpodepoema.blogspot.pt](http://corpodepoema.blogspot.pt)
+ - date_published: 2024-07-09T10:27:59+00:00
+
+ ## Válvula de Escape
+ - [http://crisdesouzavalvuladeescape.blogspot.pt](http://crisdesouzavalvuladeescape.blogspot.pt)
+ - date_published: 2024-03-13T01:51:14+00:00
+
+ ## Volúpia Casual
+ - [http://curcino.blogspot.pt](http://curcino.blogspot.pt)
+ - date_published: 2024-07-04T06:48:01+00:00
+
+ ## dente surrealista
+ - [http://dentesurrealista.blogspot.pt](http://dentesurrealista.blogspot.pt)
+ - date_published: 2024-03-14T11:15:53+00:00
+
+ ## Blogger
+ - [http://deterdeondeseir.blogspot.pt](http://deterdeondeseir.blogspot.pt)
+ - date_published: 2024-07-12T21:12:36.618297+00:00
+
  ## sinfonia para homens bons
  - [http://dianasan.blogspot.pt](http://dianasan.blogspot.pt)
  - date_published: 2024-07-04T05:54:59+00:00
@@ -3918,93 +4006,4 @@
  ## The Seeds of Science | Substack
  - [https://www.theseedsofscience.pub](https://www.theseedsofscience.pub)
  - date_published: 2023-11-01T23:07:01.330196+00:00
-
- ## Transformer Circuits Thread
- - [https://transformer-circuits.pub](https://transformer-circuits.pub)
- - date_published: 2023-10-25T22:34:37.152134+00:00
-
- ## Wenhao Ding
- - [https://wenhao.pub](https://wenhao.pub)
- - date_published: 2024-07-04T22:42:32+00:00
-
- ## XT Smart Chain
- - [https://xsc.pub](https://xsc.pub)
- - date_published: 2024-09-24T08:42:00.739649+00:00
-
- ## XT Smart Chain
- - [https://xscscan.pub](https://xscscan.pub)
- - date_published: 2024-03-27T05:29:14+00:00
-
- ## Home
- - [https://bdmartha.berdu.pw](https://bdmartha.berdu.pw)
- - date_published: 2024-07-09T08:27:31.859081+00:00
-
- ## site index
- - [https://www.extua.pw](https://www.extua.pw)
- - date_published: 2024-05-09T08:06:37.591290+00:00
-
- ## apioforum
- - [https://a.gh0.pw](https://a.gh0.pw)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## GEORGE
- - [https://george.gh0.pw](https://george.gh0.pw)
- - date_published: 2024-05-06T15:03:35.941384+00:00
-
- ## Quality Dofollow Social Bookmarking Sites List 2021
- - [http://www.compensation-and-benefits.ipt.pw](http://www.compensation-and-benefits.ipt.pw)
- - date_published: 2024-10-29T18:04:30.206031+00:00
-
- ## Quality Dofollow Social Bookmarking Sites List 2021
- - [http://www.consumer-electronics.ipt.pw](http://www.consumer-electronics.ipt.pw)
- - date_published: 2024-10-29T18:03:15.581138+00:00
-
- ## Cosplay JAV
- - [https://cosplay.jav.pw](https://cosplay.jav.pw)
- - date_published: 2024-06-23T18:19:34.015686+00:00
-
- ## Packlist
- - [https://xdcc2.jav.pw](https://xdcc2.jav.pw)
- - date_published: 2024-06-23T17:51:26.331403+00:00
-
- ## ~jscd
- - [https://jscd.pw](https://jscd.pw)
- - date_published: 2024-03-09T19:49:44+00:00
-
- ## Justus Perlwitz
- - [https://justus.pw](https://justus.pw)
- - date_published: 2023-10-25T09:24:27.703412+00:00
- - tags: ['personal']
-
- ## Pang Wei Koh
- - [https://koh.pw](https://koh.pw)
- - date_published: 2024-06-30T02:29:19+00:00
-
- ## Arch Linux
- - [https://linderud.pw](https://linderud.pw)
- - date_published: 2018-03-20T00:00:00+00:00
-
- ## A table that looks good on mobile and desktop.
- - [https://many.pw](https://many.pw)
- - date_published: 2023-10-25T22:34:44.264363+00:00
-
- ## Matthias Müller
- - [https://matthias.pw](https://matthias.pw)
- - date_published: 2023-10-26T00:43:11+00:00
-
- ## metasyn
- - [https://metasyn.pw](https://metasyn.pw)
- - date_published: 2024-04-29T07:26:17.044686+00:00
-
- ## nuel island
- - [https://nuel.pw](https://nuel.pw)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Freescout
- - [https://help.par.pw](https://help.par.pw)
- - date_published: 2024-07-09T06:59:28.137023+00:00
-
- ## BO1, BO2, MW3, WaW redefined. - Plutonium Project
- - [https://plutonium.pw](https://plutonium.pw)
- - date_published: 2024-11-14T08:36:09.193637+00:00
 

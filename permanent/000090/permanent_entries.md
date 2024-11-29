@@ -1,3 +1,23 @@
+ ## Eater New Orleans
+ - [https://nola.eater.com](https://nola.eater.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Eater NY
+ - [https://ny.eater.com](https://ny.eater.com)
+ - date_published: 2024-05-01T08:13:03.024515+00:00
+
+ ## Eater Portland
+ - [https://pdx.eater.com](https://pdx.eater.com)
+ - date_published: 2024-05-01T08:12:30.489410+00:00
+
+ ## Eater Philly
+ - [https://philly.eater.com](https://philly.eater.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Eater Phoenix
+ - [https://phoenix.eater.com](https://phoenix.eater.com)
+ - date_published: 2024-05-01T08:13:25.163728+00:00
+
  ## Eater San Diego
  - [https://sandiego.eater.com](https://sandiego.eater.com)
  - date_published: 2024-05-01T08:13:13.797978+00:00
@@ -4012,24 +4032,4 @@
  ## Software Developer Jobs in Japan | Eight Values
  - [https://eightvalues.com](https://eightvalues.com)
  - date_published: 2024-06-22T22:22:13.820768+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.eightvalues.com](https://plausible.eightvalues.com)
- - date_published: 2024-05-06T12:49:46.305183+00:00
-
- ## Empowering Founders to Scale Confidently
- - [https://eighty2i.com](https://eighty2i.com)
- - date_published: 2024-06-21T21:11:18.549458+00:00
-
- ## Eighty Sixed - Video game apparel and merchandise
- - [http://www.eightysixed.com](http://www.eightysixed.com)
- - date_published: 2024-10-26T07:09:19.888054+00:00
-
- ## Eighty Twenty CMO
- - [https://www.eightytwentycmo.com](https://www.eightytwentycmo.com)
- - date_published: 2024-07-24T02:16:16.934869+00:00
-
- ## Eihab Khan - Front End Engineer and UI/UX Designer
- - [https://eihabkhan.com](https://eihabkhan.com)
- - date_published: 2024-05-11T10:20:17.641560+00:00
 

@@ -1,4 +1,92 @@
  ## Vue.js
+ - [https://fa.vuejs.org](https://fa.vuejs.org)
+ - date_published: 2024-06-22T23:38:27.772768+00:00
+
+ ## Vue.js
+ - [https://fr.vuejs.org](https://fr.vuejs.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Vue.js - Il Framework JavaScript Progressivo | Vue.js
+ - [https://it.vuejs.org](https://it.vuejs.org)
+ - date_published: 2024-06-22T23:38:24.191747+00:00
+
+ ## Vue.js
+ - [https://ja.vuejs.org](https://ja.vuejs.org)
+ - date_published: 2024-06-22T23:38:22.224583+00:00
+
+ ## Vue.js
+ - [https://jp.vuejs.org](https://jp.vuejs.org)
+ - date_published: 2024-06-23T05:59:45.086553+00:00
+
+ ## Vue.js
+ - [https://ko.vuejs.org](https://ko.vuejs.org)
+ - date_published: 2024-06-22T23:43:44.336276+00:00
+
+ ## Official Vue.js News
+ - [https://news.vuejs.org](https://news.vuejs.org)
+ - date_published: 2021-05-10T00:00:00+00:00
+
+ ## Vue CLI
+ - [https://next.cli.vuejs.org](https://next.cli.vuejs.org)
+ - date_published: 2024-09-04T15:05:36.934034+00:00
+
+ ## Vue Router | The official Router for Vue.js
+ - [https://next.router.vuejs.org](https://next.router.vuejs.org)
+ - date_published: 2024-06-05T06:11:53.617672+00:00
+
+ ## What is Vuex? | Vuex
+ - [https://next.vuex.vuejs.org](https://next.vuex.vuejs.org)
+ - date_published: 2024-06-05T06:12:06.744708+00:00
+
+ ## Pinia | The intuitive store for Vue.js
+ - [https://pinia.vuejs.org](https://pinia.vuejs.org)
+ - date_published: 2024-05-07T23:53:49.575015+00:00
+
+ ## Vue SFC Playground
+ - [https://play.vuejs.org](https://play.vuejs.org)
+ - date_published: 2024-06-22T23:38:25.284855+00:00
+
+ ## Vue.js
+ - [https://pt.vuejs.org](https://pt.vuejs.org)
+ - date_published: 2024-06-22T23:43:29.993317+00:00
+
+ ## Vue Router | The official Router for Vue.js
+ - [https://router.vuejs.org](https://router.vuejs.org)
+ - date_published: 2024-05-06T13:14:37.571764+00:00
+
+ ## Vue.js
+ - [https://ru.vuejs.org](https://ru.vuejs.org)
+ - date_published: 2024-06-22T23:38:21.560425+00:00
+
+ ## Vue SFC Playground
+ - [https://sfc.vuejs.org](https://sfc.vuejs.org)
+ - date_published: 2024-09-04T14:54:56.196627+00:00
+
+ ## Vue.js
+ - [https://ssr.vuejs.org](https://ssr.vuejs.org)
+ - date_published: 2024-09-04T14:59:08.119796+00:00
+
+ ## Vue Test Utils
+ - [https://test-utils.vuejs.org](https://test-utils.vuejs.org)
+ - date_published: 2024-07-19T15:05:05.943122+00:00
+
+ ## Vue.js - Прогресивний JavaScript фреймворк | Vue.js
+ - [https://ua.vuejs.org](https://ua.vuejs.org)
+ - date_published: 2024-06-22T23:38:23.428222+00:00
+
+ ## Vueconf US – May 15-17, 2024 in New Orleans, LA | Vue.js Conference
+ - [http://us.vuejs.org](http://us.vuejs.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## VuePress
+ - [https://v0.vuepress.vuejs.org](https://v0.vuepress.vuejs.org)
+ - date_published: 2024-07-14T03:46:00.898246+00:00
+
+ ## VuePress
+ - [https://v1.vuepress.vuejs.org](https://v1.vuepress.vuejs.org)
+ - date_published: 2024-07-14T03:45:50.617437+00:00
+
+ ## Vue.js
  - [https://v2.vuejs.org](https://v2.vuejs.org)
  - date_published: 2024-06-22T23:38:25.964959+00:00
 
@@ -3939,93 +4027,4 @@
  ## Compare Them All | WikiMatrix
  - [https://www.wikimatrix.org](https://www.wikimatrix.org)
  - date_published: 2024-06-19T22:13:35.501185+00:00
-
- ## Dashboards and Data Downloads for Wikimedia Projects
- - [https://analytics.wikimedia.org](https://analytics.wikimedia.org)
- - date_published: 2023-02-09T14:53:58+00:00
-
- ## 2022 - 2023 Annual Report – Wikimedia Foundation
- - [https://annual.wikimedia.org](https://annual.wikimedia.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## ar.planet.wikimedia.org
- - [https://ar.planet.wikimedia.org](https://ar.planet.wikimedia.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## উইকিমিডিয়া বাংলাদেশ
- - [https://bd.wikimedia.org](https://bd.wikimedia.org)
- - date_published: 2024-07-11T09:52:44+00:00
-
- ## Diff
- - [https://blog.wikimedia.org](https://blog.wikimedia.org)
- - date_published: 2024-07-06T23:47:21.864378+00:00
-
- ## Wikimedia Phabricator
- - [https://bugzilla.wikimedia.org](https://bugzilla.wikimedia.org)
- - date_published: 2024-07-12T02:59:24.353632+00:00
-
- ## Wikimedia Canada
- - [https://ca.wikimedia.org](https://ca.wikimedia.org)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Home - Wikimedia
- - [https://ch.wikimedia.org](https://ch.wikimedia.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Collab
- - [https://collab.wikimedia.org](https://collab.wikimedia.org)
- - date_published: 2024-06-27T19:36:29+00:00
-
- ## Wikimedia Commons
- - [https://commons.m.wikimedia.org](https://commons.m.wikimedia.org)
- - date_published: 2024-05-07T19:07:10.235754+00:00
-
- ## Wikimedia Commons
- - [https://commons.wikimedia.org](https://commons.wikimedia.org)
- - date_published: 2023-10-25T22:20:40.800608+00:00
- - tags: ['public domain']
-
- ## cs.planet.wikimedia.org
- - [https://cs.planet.wikimedia.org](https://cs.planet.wikimedia.org)
- - date_published: 2024-06-30T06:00:03+00:00
-
- ## de.planet.wikimedia.org
- - [https://de.planet.wikimedia.org](https://de.planet.wikimedia.org)
- - date_published: 2024-06-30T20:59:23+00:00
-
- ## Design at Wikimedia Foundation
- - [https://design.wikimedia.org](https://design.wikimedia.org)
- - date_published: 2024-01-03T14:54:45+00:00
-
- ## Wikimedia Developer Portal - Discover and build Wikimedia technology
- - [https://developer.wikimedia.org](https://developer.wikimedia.org)
- - date_published: 2024-05-08T10:04:30.747770+00:00
-
- ## Diff – News from across the Wikimedia movement
- - [https://diff.wikimedia.org](https://diff.wikimedia.org)
- - date_published: 2023-10-25T22:20:44.837722+00:00
-
- ## Wikimedia Danmark
- - [https://dk.wikimedia.org](https://dk.wikimedia.org)
- - date_published: 2024-07-08T02:51:42+00:00
-
- ## Wikimedia Open Source
- - [https://doc.wikimedia.org](https://doc.wikimedia.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Make your donation now - Wikimedia Foundation
- - [https://donate.m.wikimedia.org](https://donate.m.wikimedia.org)
- - date_published: 2024-07-11T22:01:23.130664+00:00
-
- ## Make your donation now - Wikimedia Foundation
- - [https://donate.wikimedia.org](https://donate.wikimedia.org)
- - date_published: 2024-05-10T03:55:28.668747+00:00
-
- ## Wikimedia Downloads
- - [https://download.wikimedia.org](https://download.wikimedia.org)
- - date_published: 2022-01-25T10:45:11+00:00
-
- ## Wikimedia Downloads
- - [https://dumps.wikimedia.org](https://dumps.wikimedia.org)
- - date_published: 2022-01-25T10:45:11+00:00
 

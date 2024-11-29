@@ -1,3 +1,39 @@
+ ## Home - JazzTimes
+ - [http://www.jazztimes.com](http://www.jazztimes.com)
+ - date_published: 2024-10-21T05:17:20.823679+00:00
+
+ ## Jazzwise
+ - [https://www.jazzwise.com](https://www.jazzwise.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Jazzz Media
+ - [http://www2.jazzzmedia.com](http://www2.jazzzmedia.com)
+ - date_published: 2021-02-24T17:40:15+00:00
+
+ ## Index of /
+ - [https://cdn.jb55.com](https://cdn.jb55.com)
+ - date_published: 2024-09-19T21:50:37.072409+00:00
+
+ ## jb55's git repos
+ - [http://git.jb55.com](http://git.jb55.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## William Casarin
+ - [http://jb55.com](http://jb55.com)
+ - date_published: 2021-11-06T00:00:00+00:00
+
+ ## Everyone Else is Crazy
+ - [http://blog.jbapple.com](http://blog.jbapple.com)
+ - date_published: 2024-02-21T00:07:54+00:00
+
+ ## Jesse's Website - Home Page
+ - [https://jbcse.com](https://jbcse.com)
+ - date_published: 2024-01-09T01:37:11.676633+00:00
+
+ ## JBC Soldering Stations, Irons and Rework equipment for electronics
+ - [https://www.jbctools.com](https://www.jbctools.com)
+ - date_published: 2024-06-17T01:58:05.058009+00:00
+
  ## Jeremy Bernier
  - [https://www.jbernier.com](https://www.jbernier.com)
  - date_published: 2024-05-02T13:50:11.320783+00:00
@@ -4036,40 +4072,4 @@
  ## Joany Buclon
  - [https://joanybuclon.com](https://joanybuclon.com)
  - date_published: 2024-08-08T15:07:37.724464+00:00
-
- ## AutoApps Forums
- - [https://forum.joaoapps.com](https://forum.joaoapps.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Tasker and Join – Automate Your Life
- - [https://joaoapps.com](https://joaoapps.com)
- - date_published: 2024-06-16T21:23:28.366857+00:00
-
- ## Tasker for Android
- - [https://tasker.joaoapps.com](https://tasker.joaoapps.com)
- - date_published: 2024-05-01T07:55:16.214506+00:00
-
- ## João Borges - Product Designer for apps and websites
- - [https://joaobborges.com](https://joaobborges.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Home
- - [https://joaodlf.com](https://joaodlf.com)
- - date_published: 2023-10-25T15:29:35.649022+00:00
-
- ## J'o Lutz Photo
- - [https://joaolutz.com](https://joaolutz.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
- - [https://joaopescada.com](https://joaopescada.com)
- - date_published: 2024-05-11T10:16:58.802310+00:00
-
- ## Simple Analytics
- - [https://sa.joaopescada.com](https://sa.joaopescada.com)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Joaquim Rocha
- - [https://joaquimrocha.com](https://joaquimrocha.com)
- - date_published: 2024-09-22T00:00:00+00:00
 

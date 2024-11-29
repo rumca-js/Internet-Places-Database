@@ -1,3 +1,36 @@
+ ## Industry Decarbonization Newsletter
+ - [https://industrydecarbonization.com](https://industrydecarbonization.com)
+ - date_published: 2023-10-25T15:19:13.252427+00:00
+ - tags: ['climate change', 'co2']
+
+ ## Industry Dive
+ - [https://industrydive.com](https://industrydive.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://resources.industrydive.com](https://resources.industrydive.com)
+ - date_published: 2024-05-06T21:27:56.408638+00:00
+
+ ## Industry Events | Global Business Events Directory
+ - [https://industryevents.com](https://industryevents.com)
+ - date_published: 2024-09-24T21:19:05.162345+00:00
+
+ ## Industry Hackerz
+ - [https://industryhackerz.com](https://industryhackerz.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Industry Idle
+ - [https://industryidle.com](https://industryidle.com)
+ - date_published: 2024-04-28T05:58:49.138828+00:00
+
+ ## Industry Idle
+ - [https://play.industryidle.com](https://play.industryidle.com)
+ - date_published: 2024-08-06T20:15:25.133044+00:00
+
+ ## Industry Nine -  Hand Made in Asheville, North Carolina
+ - [https://industrynine.com](https://industrynine.com)
+ - date_published: 2024-06-15T11:57:47.007879+00:00
+
  ## INDUSTRY of Us
  - [https://industryofus.com](https://industryofus.com)
  - date_published: 2024-05-23T00:00:00+00:00
@@ -3991,36 +4024,4 @@
  ## Accord - Status
  - [https://accord.instatus.com](https://accord.instatus.com)
  - date_published: 2024-09-14T10:03:44.804153+00:00
-
- ## Airbyte - Status
- - [https://airbyte.instatus.com](https://airbyte.instatus.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Archive - Status
- - [https://archive.instatus.com](https://archive.instatus.com)
- - date_published: 2024-07-10T10:40:53.888647+00:00
-
- ## Artie - Status
- - [https://artie.instatus.com](https://artie.instatus.com)
- - date_published: 2024-08-18T13:22:27.355061+00:00
-
- ## Beeper - Status
- - [https://beeper.instatus.com](https://beeper.instatus.com)
- - date_published: 2024-07-12T17:59:04.891898+00:00
-
- ## Status | Blacksmith - Status
- - [https://blacksmith.instatus.com](https://blacksmith.instatus.com)
- - date_published: 2024-07-17T05:38:08.049007+00:00
-
- ## Brainfish - Status
- - [https://brainfish.instatus.com](https://brainfish.instatus.com)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Chartbrew - Status
- - [https://chartbrew.instatus.com](https://chartbrew.instatus.com)
- - date_published: 2024-10-31T05:43:57.503634+00:00
-
- ## CloudConvert - Status
- - [https://cloudconvert.instatus.com](https://cloudconvert.instatus.com)
- - date_published: 2024-09-27T10:42:27.104542+00:00
 

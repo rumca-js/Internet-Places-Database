@@ -1,3 +1,43 @@
+ ## Professional Wind power production forecast
+ - [https://wind.meteosource.com](https://wind.meteosource.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## MeteoStar
+ - [https://www.meteostar.com](https://www.meteostar.com)
+ - date_published: 2023-10-12T17:46:29+00:00
+
+ ## Meter Dashboard
+ - [https://dashboard.meter.com](https://dashboard.meter.com)
+ - date_published: 2024-08-19T07:53:25.613328+00:00
+
+ ## Meter: Routing, Switching, Wireless, Applications
+ - [https://meter.com](https://meter.com)
+ - date_published: 2023-10-25T16:02:08.107802+00:00
+
+ ## Meter
+ - [https://support.meter.com](https://support.meter.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## METER Group
+ - [https://metergroup.com](https://metergroup.com)
+ - date_published: 2022-11-17T01:58:34+00:00
+
+ ## Smart Energy International
+ - [http://www.metering.com](http://www.metering.com)
+ - date_published: 2024-07-20T06:01:18+00:00
+
+ ## MeterPlugs: your source for meter plug-ins
+ - [https://www.meterplugs.com](https://www.meterplugs.com)
+ - date_published: 2024-05-02T12:12:12.103053+00:00
+
+ ## Meteuphoric
+ - [https://meteuphoric.com](https://meteuphoric.com)
+ - date_published: 2024-06-30T09:52:29.071780+00:00
+
+ ## MET Helmets | Road, MTB, City and Kids Helmets
+ - [https://met-helmets.com](https://met-helmets.com)
+ - date_published: 2024-06-15T12:00:15.521702+00:00
+
  ## ME THEN Athens
  - [http://methenathens.com](http://methenathens.com)
  - date_published: 2024-07-13T15:44:30.849512+00:00
@@ -2747,6 +2787,11 @@
  - date_published: 2024-04-28T02:26:51.043312+00:00
  - tags: ['gatekeeper', 'edge', 'company', 'web browser']
 
+ ## Wideokonferencje, spotkania, rozmowy | Microsoft Teams
+ - [https://microsoft.com/microsoft-teams](https://microsoft.com/microsoft-teams)
+ - date_published: 2024-11-28T20:10:14+00:00
+ - tags: ['ma teams', 'video meetings', 'social communicator', 'gatekeeper']
+
  ## Microsoft Edge Addons
  - [https://microsoftedge.microsoft.com](https://microsoftedge.microsoft.com)
  - date_published: 2024-04-28T02:27:44.674398+00:00
@@ -4016,52 +4061,4 @@
  ## Link on youtube channel
  - [https://kas1e.mikendezign.com](https://kas1e.mikendezign.com)
  - date_published: 2024-07-11T22:25:54.400897+00:00
-
- ## KIFFO's RETRO GAMER COMP
- - [https://kiffosretrocomp.mikendezign.com](https://kiffosretrocomp.mikendezign.com)
- - date_published: 2024-06-14T07:06:30.259745+00:00
- - tags: ['amiga']
-
- ## Maxwell Mouse
- - [https://maxwell.mikendezign.com](https://maxwell.mikendezign.com)
- - date_published: 2024-06-14T07:06:32.042150+00:00
- - tags: ['amiga']
-
- ## Mike 'n' Dezign
- - [https://mikendezign.com](https://mikendezign.com)
- - date_published: 2010-01-13T08:52:16+00:00
-
- ## ModP3 - Amiga Mods as Mp3s!
- - [https://modp3.mikendezign.com](https://modp3.mikendezign.com)
- - date_published: 2024-06-14T07:06:40.393224+00:00
- - tags: ['amiga', 'keygen', 'demoscene', 'chiptune']
-
- ## Remainder Software - Home
- - [http://remaindersoftware.mikendezign.com](http://remaindersoftware.mikendezign.com)
- - date_published: 2024-09-13T20:14:11.648466+00:00
-
- ## Summer Chill 2024 Round 7: Worms Directors Cut
- - [https://superleague.mikendezign.com](https://superleague.mikendezign.com)
- - date_published: 2024-06-14T07:06:42.674107+00:00
-
- ## x86 Amiga - Amithlon / AROS
- - [https://x86amiga.mikendezign.com](https://x86amiga.mikendezign.com)
- - date_published: 2002-06-23T00:00:00+00:00
-
- ## Mike Ness
- - [http://www.mikeness.com](http://www.mikeness.com)
- - date_published: 2024-08-11T03:44:28.122074+00:00
-
- ## Home | Mike Neumegen
- - [https://mikeneumegen.com](https://mikeneumegen.com)
- - date_published: 2023-07-08T03:03:17+00:00
-
- ## www.mootoday.com
- - [https://mikenikles.com](https://mikenikles.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home - Mike Oldfield Official
- - [https://mikeoldfieldofficial.com](https://mikeoldfieldofficial.com)
- - date_published: 2023-11-13T10:45:13.768890+00:00
- - tags: ['music band']
 

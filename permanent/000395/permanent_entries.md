@@ -1,3 +1,91 @@
+ ## Divehi Wikiquote - Wikimedia Incubator
+ - [https://dv.wikiquote.org](https://dv.wikiquote.org)
+ - date_published: 2024-07-12T02:57:02.206670+00:00
+
+ ## Ewe Wikiquote - Wikimedia Incubator
+ - [https://ee.wikiquote.org](https://ee.wikiquote.org)
+ - date_published: 2024-07-12T03:02:11.912815+00:00
+
+ ## Βικιφθέγματα
+ - [https://el.wikiquote.org](https://el.wikiquote.org)
+ - date_published: 2024-06-19T16:17:40+00:00
+
+ ## Wikiquote
+ - [https://en.m.wikiquote.org](https://en.m.wikiquote.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://en.wikiquote.org](https://en.wikiquote.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Vikicitaro
+ - [https://eo.wikiquote.org](https://eo.wikiquote.org)
+ - date_published: 2024-06-19T16:17:41+00:00
+
+ ## Wikiquote
+ - [https://es.wikiquote.org](https://es.wikiquote.org)
+ - date_published: 2024-06-22T08:08:00+00:00
+
+ ## Vikitsitaadid
+ - [https://et.wikiquote.org](https://et.wikiquote.org)
+ - date_published: 2024-06-21T09:40:04+00:00
+
+ ## Wikiquote
+ - [https://eu.wikiquote.org](https://eu.wikiquote.org)
+ - date_published: 2024-06-19T16:17:42+00:00
+
+ ## Wq/fat - Wikimedia Incubator
+ - [https://fat.wikiquote.org](https://fat.wikiquote.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## ویکی‌گفتاورد
+ - [https://fa.wikiquote.org](https://fa.wikiquote.org)
+ - date_published: 2024-06-19T16:17:42+00:00
+
+ ## Fula Wikiquote - Wikimedia Incubator
+ - [https://ff.wikiquote.org](https://ff.wikiquote.org)
+ - date_published: 2024-07-12T03:01:04.598139+00:00
+
+ ## Wikisitaatit
+ - [https://fi.m.wikiquote.org](https://fi.m.wikiquote.org)
+ - date_published: 2024-10-08T13:41:36+00:00
+
+ ## Wikisitaatit
+ - [https://fi.wikiquote.org](https://fi.wikiquote.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikiquote
+ - [https://fr.m.wikiquote.org](https://fr.m.wikiquote.org)
+ - date_published: 2024-07-11T06:02:52+00:00
+
+ ## Northern Frisian Wikiquote - Wikimedia Incubator
+ - [https://frr.wikiquote.org](https://frr.wikiquote.org)
+ - date_published: 2024-07-12T03:33:52.669246+00:00
+
+ ## Wikiquote
+ - [https://fr.wikiquote.org](https://fr.wikiquote.org)
+ - date_published: 2024-05-10T04:24:52.558674+00:00
+
+ ## Friulian Wikiquote - Wikimedia Incubator
+ - [https://fur.wikiquote.org](https://fur.wikiquote.org)
+ - date_published: 2024-07-12T05:34:46.136930+00:00
+
+ ## Gan Wikiquote - Wikimedia Incubator
+ - [https://gan.wikiquote.org](https://gan.wikiquote.org)
+ - date_published: 2024-07-12T02:46:08.909155+00:00
+
+ ## Príomh­leathanach - Vicísliocht
+ - [https://ga.wikiquote.org](https://ga.wikiquote.org)
+ - date_published: 2024-06-09T02:35:16+00:00
+
+ ## Wikiquote
+ - [https://gl.wikiquote.org](https://gl.wikiquote.org)
+ - date_published: 2024-06-19T16:17:44+00:00
+
+ ## Guarani Wikiquote - Wikimedia Incubator
+ - [https://gn.wikiquote.org](https://gn.wikiquote.org)
+ - date_published: 2024-09-18T03:02:23.826563+00:00
+
  ## Goan Konkani Wikiquote - Wikimedia Incubator
  - [https://gom.wikiquote.org](https://gom.wikiquote.org)
  - date_published: 2024-07-12T02:43:25.107249+00:00
@@ -3913,93 +4001,4 @@
  ## Windows On Theory
  - [https://windowsontheory.org](https://windowsontheory.org)
  - date_published: 2024-05-07T16:15:32.578879+00:00
-
- ## WindowStechSupport: Latest Tech Updates & Expert Support
- - [http://windowstechsupport.org](http://windowstechsupport.org)
- - date_published: 2024-07-17T04:42:34.152624+00:00
-
- ## Winds of Dawn: Welcome
- - [http://www.windsofdawn.org](http://www.windsofdawn.org)
- - date_published: 2024-06-23T20:51:04.446052+00:00
-
- ## Windward CCE - Home
- - [http://windwardcce.org](http://windwardcce.org)
- - date_published: 2024-07-21T23:08:52.322956+00:00
-
- ## Wind Watch | The facts about wind power, wind energy, wind turbines, wind farms
- - [https://www.wind-watch.org](https://www.wind-watch.org)
- - date_published: 2024-09-16T21:00:22.992787+00:00
-
- ## Home | American Association of Wine Economists
- - [https://wine-economics.org](https://wine-economics.org)
- - date_published: 2019-07-31T11:17:23+00:00
-
- ## WineHQ  - Wine Application Database
- - [https://appdb.winehq.org](https://appdb.winehq.org)
- - date_published: 2024-05-08T10:45:06.415792+00:00
-
- ## WineHQ Bugzilla – Bugzilla Main Page
- - [https://bugs.winehq.org](https://bugs.winehq.org)
- - date_published: 2024-06-20T21:29:19.411540+00:00
-
- ## Index of /
- - [https://dl.winehq.org](https://dl.winehq.org)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## WineHQ Forums - Index page
- - [https://forums.winehq.org](https://forums.winehq.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## WineHQ Forums - Index page
- - [https://forum.winehq.org](https://forum.winehq.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Explore groups · GitLab
- - [https://gitlab.winehq.org](https://gitlab.winehq.org)
- - date_published: 2023-10-25T22:21:28.097147+00:00
-
- ## WineHQ Wiki
- - [https://wiki.winehq.org](https://wiki.winehq.org)
- - date_published: 2024-03-27T18:51:01+00:00
-
- ## WineHQ - Run Windows applications on Linux, BSD, Solaris and macOS
- - [https://winehq.org](https://winehq.org)
- - date_published: 2024-05-08T10:16:26.064615+00:00
- - tags: ['open source', 'emulator']
-
- ## Wing Luke Collections
- - [http://collections.wingluke.org](http://collections.wingluke.org)
- - date_published: 2024-07-26T19:15:21.006567+00:00
-
- ## Wing Luke Museum
- - [https://wingluke.org](https://wingluke.org)
- - date_published: 2024-04-29T05:30:02.328471+00:00
-
- ## wingolog
- - [https://wingolog.org](https://wingolog.org)
- - date_published: 2023-10-25T22:21:31.127284+00:00
-
- ## Wings Over The Rockies
- - [http://www.wingsmuseum.org](http://www.wingsmuseum.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## WINGS Women of Discovery
- - [http://www.wingsworldquest.org](http://www.wingsworldquest.org)
- - date_published: 2024-10-29T17:53:49.703868+00:00
-
- ## Welcome to WINIR
- - [http://winir.org](http://winir.org)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Introduction to WINkLink | WINkLink Developer Documentation
- - [https://doc.winklink.org](https://doc.winklink.org)
- - date_published: 2023-12-18T03:41:19+00:00
-
- ## WINkLink - WINkLink the Real and the Virtual
- - [https://winklink.org](https://winklink.org)
- - date_published: 2024-07-14T22:04:23.656769+00:00
-
- ## The Wínland Ríce
- - [https://winlandrice.org](https://winlandrice.org)
- - date_published: 2024-08-18T21:03:12.505156+00:00
 

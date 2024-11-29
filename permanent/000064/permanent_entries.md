@@ -1,3 +1,24 @@
+ ## The Feral Irishman
+ - [https://theferalirishman.blogspot.com](https://theferalirishman.blogspot.com)
+ - date_published: 2024-06-27T09:22:00+00:00
+
+ ## The Fiberglass Manifesto
+ - [http://thefiberglassmanifesto.blogspot.com](http://thefiberglassmanifesto.blogspot.com)
+ - date_published: 2024-06-25T17:12:19+00:00
+
+ ## Personal Finance
+ - [http://thefinalredoubt.blogspot.com](http://thefinalredoubt.blogspot.com)
+ - date_published: 2024-10-21T15:30:05.398187+00:00
+
+ ## Blogger
+ - [https://thefineartofthetpk.blogspot.com](https://thefineartofthetpk.blogspot.com)
+ - date_published: 2024-05-12T03:53:31.952660+00:00
+
+ ## The Fischbowl
+ - [https://thefischbowl.blogspot.com](https://thefischbowl.blogspot.com)
+ - date_published: 2024-04-03T06:38:53.475731+00:00
+ - tags: ['personal']
+
  ## Events in my life
  - [http://theflowerofmosul.blogspot.com](http://theflowerofmosul.blogspot.com)
  - date_published: 2024-03-23T18:07:35+00:00
@@ -3985,24 +4006,4 @@
  ## Weyland-Yutani Archives
  - [http://weyland-yutaniarchives.blogspot.com](http://weyland-yutaniarchives.blogspot.com)
  - date_published: 2024-03-19T04:01:22+00:00
-
- ## Arcadia Prime
- - [https://wfarcadia.blogspot.com](https://wfarcadia.blogspot.com)
- - date_published: 2024-10-24T08:29:21+00:00
-
- ## wgnb
- - [http://wgnb.blogspot.com](http://wgnb.blogspot.com)
- - date_published: 2024-03-13T00:28:04+00:00
-
- ## The Trout Also Rises
- - [http://whatacountry.blogspot.com](http://whatacountry.blogspot.com)
- - date_published: 2024-03-14T07:14:32+00:00
-
- ## The Daily Plant
- - [http://whataplantknows.blogspot.com](http://whataplantknows.blogspot.com)
- - date_published: 2024-10-19T04:37:36.256345+00:00
-
- ## What Do I Know?
- - [http://whatdoino-steve.blogspot.com](http://whatdoino-steve.blogspot.com)
- - date_published: 2024-06-29T00:00:00+00:00
 

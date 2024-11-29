@@ -1,3 +1,23 @@
+ ## Coffee Break Languages
+ - [https://www.coffeebreakgiftshop.com](https://www.coffeebreakgiftshop.com)
+ - date_published: 2024-06-22T23:35:42.680108+00:00
+
+ ## Coffee Break Italian
+ - [http://coffeebreakitalian.com](http://coffeebreakitalian.com)
+ - date_published: 2024-06-22T23:35:49.420860+00:00
+
+ ## Introducing Coffee Break Languages
+ - [https://coffeebreaklanguages.com](https://coffeebreaklanguages.com)
+ - date_published: 2024-06-22T23:35:00.627403+00:00
+
+ ## Coffee Break Languages – Partner Offers – Special Offers through our partners
+ - [https://coffeebreakoffers.com](https://coffeebreakoffers.com)
+ - date_published: 2024-06-22T23:34:58.183817+00:00
+
+ ## Coffee Break Spanish
+ - [http://coffeebreakspanish.com](http://coffeebreakspanish.com)
+ - date_published: 2024-06-22T23:35:23.638677+00:00
+
  ## Learn Swedish with Coffee Break Swedish
  - [http://coffeebreakswedish.com](http://coffeebreakswedish.com)
  - date_published: 2021-03-13T00:00:00+00:00
@@ -4021,24 +4041,4 @@ Colyvan's Homepage
  ## Support Center
  - [https://support.competethemes.com](https://support.competethemes.com)
  - date_published: 2024-07-12T04:56:23+00:00
-
- ## COMPETITION BULLETIN
- - [http://competitionbulletin.com](http://competitionbulletin.com)
- - date_published: 2024-06-16T05:00:02+00:00
-
- ## Competition Policy International - Competition Policy International
- - [https://www.competitionpolicyinternational.com](https://www.competitionpolicyinternational.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Competitor Research - Home
- - [https://www.competitoresearch.com](https://www.competitoresearch.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://compfight.com](http://compfight.com)
- - date_published: 2024-07-10T10:10:21.007650+00:00
-
- ## コンパイルハート
- - [http://www.compileheart.com](http://www.compileheart.com)
- - date_published: 2024-10-25T10:39:01.172801+00:00
 

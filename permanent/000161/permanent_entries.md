@@ -1,3 +1,56 @@
+ ## Oort Explorer
+ - [https://dev-scan.oortech.com](https://dev-scan.oortech.com)
+ - date_published: 2024-04-01T02:47:40+00:00
+
+ ## Oort Explorer
+ - [https://mainnet-scan.oortech.com](https://mainnet-scan.oortech.com)
+ - date_published: 2024-08-07T10:10:22+00:00
+
+ ## OORT | Cloud for Decentralized AI
+ - [https://oortech.com](https://oortech.com)
+ - date_published: 2024-08-24T00:00:00+00:00
+
+ ## %%sitename%%
+ - [https://blog.oo-software.com](https://blog.oo-software.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## O&O Software GmbH – Creating Solutions for Windows™
+ - [http://corp.oo-software.com](http://corp.oo-software.com)
+ - date_published: 2024-10-08T21:25:47.620218+00:00
+
+ ## O&O Software  Documentation
+ - [https://docs.oo-software.com](https://docs.oo-software.com)
+ - date_published: 2024-06-16T14:14:49.697439+00:00
+
+ ## O&O Software GmbH – Creating Solutions for Windows™
+ - [https://oo-software.com](https://oo-software.com)
+ - date_published: 2024-05-22T12:14:47+00:00
+ - tags: ['windows tweaking']
+
+ ## Anmeldung   -  O&O PartnerWeb
+ - [https://partners.oo-software.com](https://partners.oo-software.com)
+ - date_published: 2024-06-16T14:14:43.535718+00:00
+
+ ## Real-time Facial Recognition Technology | Oosto
+ - [https://go.oosto.com](https://go.oosto.com)
+ - date_published: 2024-10-30T11:59:56.632282+00:00
+
+ ## Real-time Facial Recognition Technology | Oosto
+ - [https://oosto.com](https://oosto.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## 大寺幸八郎商店-富山県高岡の実店舗情報とオンラインショップ-ミニ干支シリーズ販売
+ - [https://ootera.com](https://ootera.com)
+ - date_published: 2024-04-29T03:42:37.155022+00:00
+
+ ## Out of the Park Developments
+ - [https://www.ootpdevelopments.com](https://www.ootpdevelopments.com)
+ - date_published: 2024-07-03T22:55:29.115723+00:00
+
+ ## Sammlung Carola und Günther Ketterer-Ertle, ooze move .com by rafaël rozendaal, 2014
+ - [https://www.oozemove.com](https://www.oozemove.com)
+ - date_published: 2024-09-14T21:08:01+00:00
+
  ## Blog | OOZOU
  - [http://blog.oozou.com](http://blog.oozou.com)
  - date_published: 2024-06-22T16:03:38.484236+00:00
@@ -3983,57 +4036,4 @@
  ## Ortto: Your customer data, marketing automation & analytics, together
  - [https://ortto.com](https://ortto.com)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Ortto Feedback
- - [https://roadmap.ortto.com](https://roadmap.ortto.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Ortto Status
- - [https://www.orttostatus.com](https://www.orttostatus.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## ORTTU - For Open-Minded People Only
- - [https://orttu.com](https://orttu.com)
- - date_published: 2024-10-19T22:06:19.340844+00:00
-
- ## Ortus Solutions Community - Awesome ColdFusion (CFML) developers building cool stuff
- - [https://community.ortussolutions.com](https://community.ortussolutions.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Ortus Solutions - Professional Open Source, Consulting and More!
- - [https://www.ortussolutions.com](https://www.ortussolutions.com)
- - date_published: 2024-06-28T16:19:07.669156+00:00
-
- ## Orange & Rockland - Utility Company Serving Greater New York
- - [https://www.oru.com](https://www.oru.com)
- - date_published: 2024-09-28T22:41:07.166368+00:00
-
- ## Oruganet
- - [https://oruganet.com](https://oruganet.com)
- - date_published: 2024-09-11T01:25:06.549096+00:00
-
- ## Folding Kayaks That Go Anywhere | Oru Kayak
- - [https://www.orukayak.com](https://www.orukayak.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Orum - The Live Conversation Platform
- - [https://www.orum.com](https://www.orum.com)
- - date_published: 2024-08-06T19:33:35.466860+00:00
-
- ## Orveon | Changing Beauty for the Better
- - [https://www.orveonglobal.com](https://www.orveonglobal.com)
- - date_published: 2024-10-20T22:55:55.135843+00:00
-
- ## Orville McDonald – Random thoughts on technology and business
- - [https://orvillemcdonald.com](https://orvillemcdonald.com)
- - date_published: 2023-10-25T09:21:05.715824+00:00
- - tags: ['personal']
-
- ## Home - #50/50 On The Water
- - [https://5050onthewater.orvis.com](https://5050onthewater.orvis.com)
- - date_published: 2018-03-23T00:00:00+00:00
-
- ## How To Fly Fish With Orvis® | Fly Fishing Lessons & Videos
- - [https://howtoflyfish.orvis.com](https://howtoflyfish.orvis.com)
- - date_published: 2024-09-17T20:32:39+00:00
 

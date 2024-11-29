@@ -1,3 +1,80 @@
+ ## HTTP Status Dogs API - A dog image for every HTTP Status Code
+ - [https://http.dog](https://http.dog)
+ - date_published: 2024-06-23T16:18:05.136997+00:00
+
+ ## Joshua
+ - [https://joshua.dog](https://joshua.dog)
+ - date_published: 2024-08-02T00:18:05+00:00
+
+ ## Ken's Dog
+ - [https://kens.dog](https://kens.dog)
+ - date_published: 2024-07-11T15:43:16.407345+00:00
+
+ ## Laika Mainnet blockchain explorer | Blockscout
+ - [https://explorer.laikachain.dog](https://explorer.laikachain.dog)
+ - date_published: 2024-09-23T20:47:17.630388+00:00
+
+ ## Laika
+ - [https://laikachain.dog](https://laikachain.dog)
+ - date_published: 2024-09-14T05:32:18+00:00
+
+ ## Laika Testnet blockchain explorer | Blockscout
+ - [https://testnet.laikachain.dog](https://testnet.laikachain.dog)
+ - date_published: 2024-09-23T16:41:19.089484+00:00
+
+ ## lucky.dog®-Born To Be Creative
+ - [https://lucky.dog](https://lucky.dog)
+ - date_published: 2024-10-14T10:12:15.059864+00:00
+
+ ## Index - Ghettos of Abu Nawas
+ - [http://malloc.dog](http://malloc.dog)
+ - date_published: 2024-05-27T02:49:38+00:00
+
+ ## WELCOME TO...
+ - [https://nia.dog](https://nia.dog)
+ - date_published: 2024-09-04T13:44:15+00:00
+
+ ## No Idea Blog
+ - [https://noidea.dog](https://noidea.dog)
+ - date_published: 2024-01-09T02:58:03.964927+00:00
+
+ ## 𝕧𝕖𝕣𝕥𝕡𝕦𝕤𝕙
+ - [https://obby.dog](https://obby.dog)
+ - date_published: 2023-08-26T21:28:08+00:00
+
+ ## Port Angeles Dog
+ - [http://portangeles.dog](http://portangeles.dog)
+ - date_published: 2024-05-09T01:50:27+00:00
+
+ ## random.dog
+ - [https://random.dog](https://random.dog)
+ - date_published: 2024-09-06T20:07:58.629403+00:00
+
+ ## Play ‘Wichita’ For Slowdog
+ - [https://play.wichita.for.slow.dog](https://play.wichita.for.slow.dog)
+ - date_published: 2024-06-20T20:05:19+00:00
+
+ ## This is the internet homepage of Bix Frankonis
+ - [https://slow.dog](https://slow.dog)
+ - date_published: 2023-12-11T23:17:44.912955+00:00
+ - tags: ['personal']
+
+ ## That Slow Dog
+ - [https://that.slow.dog](https://that.slow.dog)
+ - date_published: 2024-02-26T14:07:35.467462+00:00
+
+ ## landing @ sof.dog
+ - [https://sof.dog](https://sof.dog)
+ - date_published: 2024-05-07T23:45:42.363696+00:00
+
+ ## internet stoop
+ - [https://stoop.dog](https://stoop.dog)
+ - date_published: 2024-09-14T23:25:27.111713+00:00
+
+ ## Telegram – a new era of messaging
+ - [https://telegram.dog](https://telegram.dog)
+ - date_published: 2024-11-12T17:18:53.512580+00:00
+
  ## Cloud.Terberlo.Dog
  - [https://cloud.terberlo.dog](https://cloud.terberlo.dog)
  - date_published: 2024-07-15T06:33:53.437024+00:00
@@ -3928,81 +4005,4 @@
  ## Institutional Effectiveness
  - [https://ie.web.baylor.edu](https://ie.web.baylor.edu)
  - date_published: 2023-08-24T11:47:00+00:00
-
- ## The Soundings Project
- - [https://iflsoundings.web.baylor.edu](https://iflsoundings.web.baylor.edu)
- - date_published: 2022-05-25T15:56:00+00:00
-
- ## Institute for Faith and Learning
- - [https://ifl.web.baylor.edu](https://ifl.web.baylor.edu)
- - date_published: 2022-10-27T13:17:00+00:00
-
- ## Ignite
- - [https://ignite.web.baylor.edu](https://ignite.web.baylor.edu)
- - date_published: 2022-12-12T10:42:00+00:00
-
- ## Illuminate
- - [https://illuminate.web.baylor.edu](https://illuminate.web.baylor.edu)
- - date_published: 2021-03-02T11:17:00+00:00
-
- ## Interactive Media and Language Center
- - [https://imlc.artsandsciences.baylor.edu](https://imlc.artsandsciences.baylor.edu)
- - date_published: 2023-06-26T09:15:00+00:00
-
- ## Spring 2024
- - [https://impact.soe.baylor.edu](https://impact.soe.baylor.edu)
- - date_published: 2024-06-10T15:11:00+00:00
-
- ## The Inauguration of Linda A. Livingstone
- - [https://inauguration.web.baylor.edu](https://inauguration.web.baylor.edu)
- - date_published: 2021-12-16T11:12:00+00:00
-
- ## Office of Interdisciplinary Programs
- - [https://interdisciplinaryprograms.artsandsciences.baylor.edu](https://interdisciplinaryprograms.artsandsciences.baylor.edu)
- - date_published: 2022-11-02T13:19:00+00:00
-
- ## Office of Investments
- - [https://investments.web.baylor.edu](https://investments.web.baylor.edu)
- - date_published: 2023-03-23T13:06:00+00:00
-
- ## Institutional Research
- - [https://ir.web.baylor.edu](https://ir.web.baylor.edu)
- - date_published: 2023-08-07T15:41:00+00:00
-
- ## Information Technology Services
- - [https://its.web.baylor.edu](https://its.web.baylor.edu)
- - date_published: 2021-09-27T13:40:00+00:00
-
- ## Journalism, Public Relations & New Media
- - [https://journalism.artsandsciences.baylor.edu](https://journalism.artsandsciences.baylor.edu)
- - date_published: 2022-07-26T10:06:00+00:00
-
- ## Judicial Affairs
- - [https://judicialaffairs.web.baylor.edu](https://judicialaffairs.web.baylor.edu)
- - date_published: 2022-10-11T15:44:00+00:00
-
- ## Keller Center for Research
- - [https://kellercenter.hankamer.baylor.edu](https://kellercenter.hankamer.baylor.edu)
- - date_published: 2023-10-23T15:05:00+00:00
-
- ## Baylor Law School
- - [https://law.baylor.edu](https://law.baylor.edu)
- - date_published: 2023-08-25T14:11:00+00:00
-
- ## Senior Administration
- - [https://leadership.web.baylor.edu](https://leadership.web.baylor.edu)
- - date_published: 2022-09-06T13:13:00+00:00
-
- ## Leadership, Education, and Development Living-Learning Community
- - [https://leadllc.web.baylor.edu](https://leadllc.web.baylor.edu)
- - date_published: 2022-10-26T08:41:00+00:00
-
- ## Ask a Question - Ask Us!
- - [https://libanswers.baylor.edu](https://libanswers.baylor.edu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## LibCal -
-        Baylor University
- - [https://libcal.baylor.edu](https://libcal.baylor.edu)
- - date_published: 2024-08-19T18:30:44.686619+00:00
 

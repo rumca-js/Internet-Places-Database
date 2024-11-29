@@ -1,3 +1,43 @@
+ ## LLM litigation · Joseph Saveri Law Firm & Matthew Butterick
+ - [https://llmlitigation.com](https://llmlitigation.com)
+ - date_published: 2024-04-10T22:53:59+00:00
+
+ ## LLM Logger
+ - [https://llmlogger.com](https://llmlogger.com)
+ - date_published: 2024-09-17T20:39:25.457082+00:00
+
+ ## LLMonitor Benchmarks
+ - [https://benchmarks.llmonitor.com](https://benchmarks.llmonitor.com)
+ - date_published: 2023-10-25T15:48:57.001391+00:00
+
+ ## Lunary - The AI developer platform
+ - [https://llmonitor.com](https://llmonitor.com)
+ - date_published: 2024-05-04T12:59:43.154718+00:00
+
+ ## AI-Powered PDF Document - Enhance Productivity
+ - [https://llmpdf.com](https://llmpdf.com)
+ - date_published: 2024-10-05T02:21:11+00:00
+
+ ## LLMSec newsletter | Zander Mackie | Substack
+ - [https://www.llm-sec.com](https://www.llm-sec.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## LAWRENCE LIVERMORE NATIONAL SECURITY, LLC
+ - [https://www.llnsllc.com](https://www.llnsllc.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## LLOOGG
+ - [http://lloogg.com](http://lloogg.com)
+ - date_published: 2024-08-19T10:46:48.534753+00:00
+
+ ## Lloric Mayuga Garcia
+ - [https://lloricode.com](https://lloricode.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home
+ - [https://lloydjames.com](https://lloydjames.com)
+ - date_published: 2024-06-25T18:08:12.489483+00:00
+
  ## Lloyd of Gamebooks
  - [http://www.lloydofgamebooks.com](http://www.lloydofgamebooks.com)
  - date_published: 2024-09-02T08:58:05+00:00
@@ -3973,44 +4013,4 @@
  ## Sagaponack New York - Sagaponack LongIsland.com
  - [https://sagaponack.longisland.com](https://sagaponack.longisland.com)
  - date_published: 2024-05-04T13:26:48.584159+00:00
-
- ## Sag Harbor New York - Sag Harbor LongIsland.com
- - [https://sagharbor.longisland.com](https://sagharbor.longisland.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Saint James New York - Saint James LongIsland.com
- - [https://saintjames.longisland.com](https://saintjames.longisland.com)
- - date_published: 2024-05-04T13:20:10.022394+00:00
-
- ## Sayville New York - Sayville LongIsland.com
- - [https://sayville.longisland.com](https://sayville.longisland.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Sea Cliff New York - Sea Cliff LongIsland.com
- - [https://seacliff.longisland.com](https://seacliff.longisland.com)
- - date_published: 2024-05-04T13:16:06.217399+00:00
-
- ## Seaford New York - Seaford LongIsland.com
- - [https://seaford.longisland.com](https://seaford.longisland.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Selden New York - Selden LongIsland.com
- - [https://selden.longisland.com](https://selden.longisland.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Shelter Island Heights New York - Shelter Island Heights LongIsland.com
- - [https://shelterislandheights.longisland.com](https://shelterislandheights.longisland.com)
- - date_published: 2024-05-04T13:11:03.279082+00:00
-
- ## Shelter Island New York - Shelter Island LongIsland.com
- - [https://shelterisland.longisland.com](https://shelterisland.longisland.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Shirley New York - Shirley LongIsland.com
- - [https://shirley.longisland.com](https://shirley.longisland.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Shoreham New York - Shoreham LongIsland.com
- - [https://shoreham.longisland.com](https://shoreham.longisland.com)
- - date_published: 2024-03-28T00:00:00+00:00
 

@@ -1,3 +1,82 @@
+ ## Osman Cea
+ - [https://daslaf.dev](https://daslaf.dev)
+ - date_published: 2024-05-09T08:25:50.170872+00:00
+
+ ## dasun.dev - Laravel Developer
+ - [https://www.dasun.dev](https://www.dasun.dev)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## dbdev | The Database Package Manager
+ - [https://database.dev](https://database.dev)
+ - date_published: 2023-10-25T18:37:10.874218+00:00
+
+ ## Database Internals
+ - [https://www.databass.dev](https://www.databass.dev)
+ - date_published: 2024-07-19T20:46:41.376282+00:00
+
+ ## DataOps.dev
+ - [https://dataops.dev](https://dataops.dev)
+ - date_published: 2024-07-12T17:58:16.037974+00:00
+
+ ## DataShell - Develop data solutions like a software engineer would.
+ - [https://datashell.dev](https://datashell.dev)
+ - date_published: 2024-07-23T21:16:30.103908+00:00
+
+ ## Redirecting…
+ - [https://datatransferproject.dev](https://datatransferproject.dev)
+ - date_published: 2023-04-27T18:18:50+00:00
+
+ ## datawookie
+ - [https://datawookie.dev](https://datawookie.dev)
+ - date_published: 2024-06-27T03:17:34+00:00
+
+ ## davidamos.dev - Ta strona jest na sprzedaż! - davidamos Zasoby i informacje.
+ - [https://davidamos.dev](https://davidamos.dev)
+ - date_published: 2024-01-09T02:57:06.453997+00:00
+
+ ## David Capper
+ - [https://davidcapper.dev](https://davidcapper.dev)
+ - date_published: 2024-01-08T07:21:57+00:00
+
+ ## David Caron
+ - [https://davidcaron.dev](https://davidcaron.dev)
+ - date_published: 2024-06-28T20:11:27.496202+00:00
+
+ ## ~/.didev
+ - [https://davidisaksson.dev](https://davidisaksson.dev)
+ - date_published: 2023-10-25T08:58:27.129547+00:00
+ - tags: ['personal']
+
+ ## David Nguyen
+ - [https://davidnguyen.dev](https://davidnguyen.dev)
+ - date_published: 2023-12-03T09:19:51.549979+00:00
+ - tags: ['personal']
+
+ ## David Parks
+ - [https://davidparks.dev](https://davidparks.dev)
+ - date_published: 2024-05-04T09:14:17.172846+00:00
+
+ ## Mumbling about computers
+ - [https://blog.davidv.dev](https://blog.davidv.dev)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Source Code
+ - [https://blog.davidvarghese.dev](https://blog.davidvarghese.dev)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## David v.Knobelsdorff
+			– davidvonk.dev
+ - [https://davidvonk.dev](https://davidvonk.dev)
+ - date_published: 2022-04-14T00:00:00+00:00
+
+ ## Dawit Mekonnen
+ - [https://dawit.dev](https://dawit.dev)
+ - date_published: 2024-05-11T10:09:28.503585+00:00
+
+ ## DBOS Cloud
+ - [https://console.dbos.dev](https://console.dbos.dev)
+ - date_published: 2024-09-10T17:05:42+00:00
+
  ## DBOS Widget Store
  - [https://demo-widget-store.cloud.dbos.dev](https://demo-widget-store.cloud.dbos.dev)
  - date_published: 2024-09-10T20:36:21.404364+00:00
@@ -3997,82 +4076,4 @@
  ## Logotypes API
  - [https://logotypes.dev](https://logotypes.dev)
  - date_published: 2018-10-20T01:46:40+00:00
-
- ## Logpipe
- - [https://logpipe.dev](https://logpipe.dev)
- - date_published: 2024-04-29T07:41:10.653688+00:00
-
- ## Michi's Blog
- - [https://blog.lohr.dev](https://blog.lohr.dev)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Michael Lohr
- - [https://lohr.dev](https://lohr.dev)
- - date_published: 2024-01-27T17:17:02+00:00
-
- ## Doug Hammond
- - [https://doug.lon.dev](https://doug.lon.dev)
- - date_published: 2024-01-31T16:19:06.866893+00:00
-
- ## Umami
- - [https://analytics.lorendb.dev](https://analytics.lorendb.dev)
- - date_published: 2024-04-30T00:31:50.044212+00:00
-
- ## Loren's blog
- - [https://lorendb.dev](https://lorendb.dev)
- - date_published: 2024-01-05T15:16:20.712582+00:00
-
- ## lorenzofox blog | Lorenzofox's dev blog
- - [https://lorenzofox.dev](https://lorenzofox.dev)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Loro – Reimagine state management with CRDTs – Loro
- - [https://loro.dev](https://loro.dev)
- - date_published: 2024-04-30T00:29:47.979139+00:00
-
- ## Lotus Docs | A Hugo Documentation Theme
- - [https://lotusdocs.dev](https://lotusdocs.dev)
- - date_published: 2024-05-16T02:48:08.499254+00:00
-
- ## Effortlessly deploy your LaravelPHP Application
- - [https://loupp.dev](https://loupp.dev)
- - date_published: 2024-10-28T23:33:21.684982+00:00
-
- ## Lovable - The last piece of software
- - [https://lovable.dev](https://lovable.dev)
- - date_published: 2024-07-13T14:13:39.225321+00:00
-
- ## Hello, I'm Lubna - Front-End Web Developer & CSS Specialist
- - [https://lubna.dev](https://lubna.dev)
- - date_published: 2024-03-14T00:00:00+00:00
- - tags: ['personal']
-
- ## Lucas L Jordan
- - [https://lucasjordan.dev](https://lucasjordan.dev)
- - date_published: 2024-06-01T02:07:10+00:00
-
- ## Lucas Queiroz | Backend Developer
- - [https://lucasqueiroz.dev](https://lucasqueiroz.dev)
- - date_published: 2024-05-11T10:07:45.409478+00:00
-
- ## Lucas van Dongen - Mobile iOS and macOS Consultancy, Programming and Software Development Process Manager
- - [https://lucasvandongen.dev](https://lucasvandongen.dev)
- - date_published: 2024-06-23T14:50:07.145117+00:00
-
- ## Index – Guide
- - [https://guidelines.luckymedia.dev](https://guidelines.luckymedia.dev)
- - date_published: 2024-06-19T09:28:57.764674+00:00
-
- ## Lucky Media
- - [https://luckymedia.dev](https://luckymedia.dev)
- - date_published: 2022-09-12T00:00:00+00:00
-
- ## Luckymike's Tech Notes
- - [https://luckymike.dev](https://luckymike.dev)
- - date_published: 2024-10-10T09:54:16.645453+00:00
- - tags: ['personal']
-
- ## Luigi Cruz - Software Developer
- - [https://luigicruz.dev](https://luigicruz.dev)
- - date_published: 2024-05-11T10:21:49.476512+00:00
 

@@ -1,3 +1,95 @@
+ ## Homepage
+ - [http://www.dessign.net](http://www.dessign.net)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Daniel Estévez – Scientific & Technical Amateur Radio — Home of EA4GPZ / M0HXM
+ - [https://destevez.net](https://destevez.net)
+ - date_published: 2023-10-25T09:23:00.010601+00:00
+ - tags: ['personal']
+
+ ## destream - monetization platform for content creators
+ - [http://destream.net](http://destream.net)
+ - date_published: 2024-04-15T10:19:52+00:00
+
+ ## DethCode
+ - [https://etherscan.deth.net](https://etherscan.deth.net)
+ - date_published: 2024-06-17T09:08:57.528015+00:00
+
+ ## DETØURED — Take the trail less traveled
+ - [https://detoured.net](https://detoured.net)
+ - date_published: 2024-07-09T19:06:28.296163+00:00
+
+ ## Detritus
+ - [http://detritus.net](http://detritus.net)
+ - date_published: 2024-10-21T05:29:14.913342+00:00
+
+ ## Detroit News.Net | Click for latest Detroit News
+ - [http://www.detroitnews.net](http://www.detroitnews.net)
+ - date_published: 2024-07-13T23:05:33.086801+00:00
+
+ ## Deus In Machina | Diego Crespo | Substack
+ - [https://www.deusinmachina.net](https://www.deusinmachina.net)
+ - date_published: 2023-10-25T10:08:14.443830+00:00
+ - tags: ['substack']
+
+ ## Samsung S/W Developer Community
+ - [https://software.devcommunities.net](https://software.devcommunities.net)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Software Acumen - UK Events for Software Professionals
+ - [http://devcycles.net](http://devcycles.net)
+ - date_published: 2024-06-22T09:14:10.539442+00:00
+
+ ## devdevdev.net – Le media des développeurs .net francophone
+ - [https://devdevdev.net](https://devdevdev.net)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Developer Avocados 🥑 Weekly
+ - [https://developeravocados.net](https://developeravocados.net)
+ - date_published: 2023-01-18T12:32:25+00:00
+
+ ## Developer Nation Community
+ - [https://www.developernation.net](https://www.developernation.net)
+ - date_published: 2024-06-18T07:10:37+00:00
+
+ ## Development Media International - DMI
+ - [https://www.developmentmedia.net](https://www.developmentmedia.net)
+ - date_published: 2024-06-21T11:30:33+00:00
+
+ ## MCV/DEVELOP | Video games industry news, events, research and jobs
+ - [http://develop-online.net](http://develop-online.net)
+ - date_published: 2019-01-29T12:10:39+00:00
+
+ ## devever
+ - [https://devever.net](https://devever.net)
+ - date_published: 2023-04-22T14:27:47+00:00
+ - tags: ['personal']
+
+ ## Low Code Life
+ - [http://devhammer.net](http://devhammer.net)
+ - date_published: 2024-07-11T11:43:10.022116+00:00
+
+ ## deviating.net
+ - [http://deviating.net](http://deviating.net)
+ - date_published: 2024-01-05T02:57:27+00:00
+
+ ## DevKK.net - Krzysztof Kluczek
+ - [http://devkk.net](http://devkk.net)
+ - date_published: 2024-07-20T22:46:56.813666+00:00
+
+ ## Line IP - video surveillance software.
+ - [https://devline.net](https://devline.net)
+ - date_published: 2024-04-29T02:30:34.582371+00:00
+ - tags: ['video surveillance']
+
+ ## Devlounge
+ - [https://devlounge.net](https://devlounge.net)
+ - date_published: 2024-05-08T06:30:18.328599+00:00
+
+ ## DevMeetup | The social network for developers
+ - [https://www.devmeetup.net](https://www.devmeetup.net)
+ - date_published: 2024-07-14T10:22:06.194254+00:00
+
  ## Academy : Devolutions
  - [https://academy.devolutions.net](https://academy.devolutions.net)
  - date_published: 2024-09-26T13:15:28.281563+00:00
@@ -3964,92 +4056,4 @@
  ## Filip Hráček’s homepage
  - [https://filiph.net](https://filiph.net)
  - date_published: 2023-10-25T20:30:10.451812+00:00
-
- ## FiMFetch: The FiM Fiction Archive
- - [https://fimfetch.net](https://fimfetch.net)
- - date_published: 2023-10-25T20:30:11.943945+00:00
-
- ## Fimfiction - My Little Pony: Friendship is Magic Fanfiction - Fimfiction
- - [https://www.fimfiction.net](https://www.fimfiction.net)
- - date_published: 2024-06-17T05:43:27.929162+00:00
-
- ## Jack Whitton - Latest Posts
- - [https://fin1te.net](https://fin1te.net)
- - date_published: 2021-02-19T11:59:36+00:00
-
- ## The FinalKey
- - [https://finalkey.net](https://finalkey.net)
- - date_published: 2024-04-30T02:35:08.391466+00:00
-
- ## The Final Outpost
- - [https://finaloutpost.net](https://finaloutpost.net)
- - date_published: 2024-06-23T18:52:45.036065+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://resources.finalsite.net](https://resources.finalsite.net)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## financeAds
- - [https://dashboard.financeads.net](https://dashboard.financeads.net)
- - date_published: 2024-06-18T10:07:59.596358+00:00
-
- ## financeAds | Das Premium Affiliate Netzwerk im Finanzbereich
- - [https://financeads.net](https://financeads.net)
- - date_published: 2024-10-21T08:29:20.918977+00:00
-
- ## The Finance Vis Browser
- - [http://financevis.net](http://financevis.net)
- - date_published: 2024-08-18T21:41:53.928260+00:00
-
- ## Financial IT Innovations in FinTech
- - [https://financialit.net](https://financialit.net)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## IOAM
- - [https://data-fdbbf15b66.finanzen.net](https://data-fdbbf15b66.finanzen.net)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## FINANZEN.NET: Börse und Finanzen
- - [https://finanzen.net](https://finanzen.net)
- - date_published: 2024-04-29T06:26:57.102387+00:00
-
- ## Aktienforum | Aktien Forum | Diskussionsboard | Community von finanzen.net
- - [https://forum.finanzen.net](https://forum.finanzen.net)
- - date_published: 2024-07-03T20:39:11.282102+00:00
-
- ## Your Azure Function App is up and running.
- - [http://g.finanzen.net](http://g.finanzen.net)
- - date_published: 2024-07-03T20:39:12.862574+00:00
-
- ## Helpcenter
- - [https://hilfe.finanzen.net](https://hilfe.finanzen.net)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Welcome to Keycloak
- - [https://idp.finanzen.net](https://idp.finanzen.net)
- - date_published: 2024-07-03T20:38:53.469126+00:00
-
- ## FINANZEN.NET: Börse und Finanzen
- - [https://images.finanzen.net](https://images.finanzen.net)
- - date_published: 2024-05-08T04:00:24.997487+00:00
-
- ## Your Azure Function App is up and running.
- - [https://ratgeberlink.finanzen.net](https://ratgeberlink.finanzen.net)
- - date_published: 2024-07-03T20:39:14.052043+00:00
-
- ## FINANZEN.NET: Börse und Finanzen
- - [https://scripts.finanzen.net](https://scripts.finanzen.net)
- - date_published: 2024-07-03T20:39:42.898393+00:00
-
- ## Demo Page
- - [https://shared-components.finanzen.net](https://shared-components.finanzen.net)
- - date_published: 2024-07-03T20:39:37.085892+00:00
-
- ## FINANZEN.NET: Börse und Finanzen
- - [https://styles.finanzen.net](https://styles.finanzen.net)
- - date_published: 2024-07-03T20:39:33.761309+00:00
-
- ## Finanzen.net Trading-Desk V2.0 - Realtimekurse zu 12.000 Aktien und über 1.000.000 Derivaten!
- - [https://tradingdesk.finanzen.net](https://tradingdesk.finanzen.net)
- - date_published: 2024-07-19T16:33:22.426175+00:00
 

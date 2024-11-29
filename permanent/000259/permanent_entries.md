@@ -1,3 +1,79 @@
+ ## Home | Cornell Chronicle
+ - [https://news.cornell.edu](https://news.cornell.edu)
+ - date_published: 2023-10-25T18:50:38.276285+00:00
+
+ ## Newsroom | Weill Cornell Medicine
+ - [https://news.weill.cornell.edu](https://news.weill.cornell.edu)
+ - date_published: 2023-10-25T18:50:39.847779+00:00
+
+ ## Cornell University's Impact on New York State
+ - [https://ny.cornell.edu](https://ny.cornell.edu)
+ - date_published: 2024-08-06T17:29:46.630657+00:00
+
+ ## Olin & Uris Libraries
+ - [https://olinuris.library.cornell.edu](https://olinuris.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:24.028373+00:00
+
+ ## Office of the University Ombuds – Confidential, Independent, Informal, Impartial
+ - [https://ombuds.cornell.edu](https://ombuds.cornell.edu)
+ - date_published: 2024-04-30T03:59:35.665960+00:00
+
+ ## Home
+ - [https://oneida.cce.cornell.edu](https://oneida.cce.cornell.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Organic Robotics Lab | Cornell University
+ - [https://orl.mae.cornell.edu](https://orl.mae.cornell.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Praxis Center for Venture Development – A startup incubator for Engineering, Digital and Physical Sciences Ventures located on the Cornell Campus in Ithaca, NY
+ - [https://pcvd.cornell.edu](https://pcvd.cornell.edu)
+ - date_published: 2024-04-30T03:59:25.866694+00:00
+
+ ## Peng Lab | Weill Cornell Medicine
+ - [https://penglab.weill.cornell.edu](https://penglab.weill.cornell.edu)
+ - date_published: 2024-07-12T07:45:45+00:00
+
+ ## Electrical and Computer Engineering | Electrical and Computer Engineering
+ - [https://people.ece.cornell.edu](https://people.ece.cornell.edu)
+ - date_published: 2023-10-25T18:50:42.502337+00:00
+
+ ## courses.cit.cornell.edu
+ - [https://people.orie.cornell.edu](https://people.orie.cornell.edu)
+ - date_published: 2021-10-11T20:44:15+00:00
+
+ ## Persuasive Maps | Persuasive Maps
+ - [https://persuasivemaps.library.cornell.edu](https://persuasivemaps.library.cornell.edu)
+ - date_published: 2024-02-08T18:05:40.860106+00:00
+
+ ## Clark Physical Sciences Library
+ - [https://physicalsciences.library.cornell.edu](https://physicalsciences.library.cornell.edu)
+ - date_published: 2024-07-22T05:28:01.327897+00:00
+
+ ## The Department of Physics | Department of Physics
+ - [https://physics.cornell.edu](https://physics.cornell.edu)
+ - date_published: 2024-07-21T21:45:04+00:00
+
+ ## Cornell University Web Login
+ - [https://pidash.cornell.edu](https://pidash.cornell.edu)
+ - date_published: 2024-07-22T05:18:01.559903+00:00
+
+ ## https://pi.math.cornell.edu
+ - [https://pi.math.cornell.edu](https://pi.math.cornell.edu)
+ - date_published: 2023-06-21T17:20:38+00:00
+
+ ## Home | University Policy
+ - [https://policy.cornell.edu](https://policy.cornell.edu)
+ - date_published: 2024-04-30T03:59:33.001278+00:00
+
+ ## Office of Postdoctoral Studies
+ - [https://postdocs.cornell.edu](https://postdocs.cornell.edu)
+ - date_published: 2024-07-22T05:16:41.291109+00:00
+
+ ## Office of the President | Cornell University
+ - [http://president.cornell.edu](http://president.cornell.edu)
+ - date_published: 2024-07-22T05:30:33.178783+00:00
+
  ## Weill Cornell Medicine | Cornell University
  - [http://pre.weill.cornell.edu](http://pre.weill.cornell.edu)
  - date_published: 2024-07-22T05:29:12.988280+00:00
@@ -3922,80 +3998,4 @@
  ## Accessibility @ Fresno State
  - [https://accessibility.fresnostate.edu](https://accessibility.fresnostate.edu)
  - date_published: 2024-09-15T11:07:55.006051+00:00
-
- ## Administration and Finance
- - [https://adminfinance.fresnostate.edu](https://adminfinance.fresnostate.edu)
- - date_published: 2024-09-15T11:07:53.224070+00:00
-
- ## COVID-19
- - [https://covid.fresnostate.edu](https://covid.fresnostate.edu)
- - date_published: 2024-09-15T11:08:22.541554+00:00
-
- ## Fresno State
- - [http://fresnostate.edu](http://fresnostate.edu)
- - date_published: 2024-09-15T11:08:13.445711+00:00
-
- ## Google Apps at Fresno State
- - [http://googleapps.fresnostate.edu](http://googleapps.fresnostate.edu)
- - date_published: 2024-09-15T11:08:02.074820+00:00
-
- ## Technology Services Help Center
- - [https://help.fresnostate.edu](https://help.fresnostate.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Password Management
- - [https://idm.fresnostate.edu](https://idm.fresnostate.edu)
- - date_published: 2024-09-15T11:08:04.126123+00:00
-
- ## Fresno State Campus Login Services
- - [https://mail.fresnostate.edu](https://mail.fresnostate.edu)
- - date_published: 2024-09-15T11:07:34.198518+00:00
-
- ## My Fresno State Portal
- - [https://my.fresnostate.edu](https://my.fresnostate.edu)
- - date_published: 2024-09-15T11:07:41.558661+00:00
-
- ## Fresno State President Office
- - [https://president.fresnostate.edu](https://president.fresnostate.edu)
- - date_published: 2024-09-15T11:07:57.074431+00:00
-
- ## Student Affairs and Enrollment Management at Fresno State
- - [https://studentaffairs.fresnostate.edu](https://studentaffairs.fresnostate.edu)
- - date_published: 2024-09-15T11:08:09.815947+00:00
-
- ## Frostburg State University
- - [http://www.frostburg.edu](http://www.frostburg.edu)
- - date_published: 2024-07-02T03:24:53.901342+00:00
-
- ## Office of Research | FSU Office of Research
- - [https://about.research.fsu.edu](https://about.research.fsu.edu)
- - date_published: 2024-04-30T04:16:02.530144+00:00
-
- ## Academic Program Guide
- - [https://academic-guide.fsu.edu](https://academic-guide.fsu.edu)
- - date_published: 2024-07-14T18:24:51+00:00
-
- ## FSU Research Computing Center
- - [https://acct.rcc.fsu.edu](https://acct.rcc.fsu.edu)
- - date_published: 2024-07-22T04:13:06.365175+00:00
-
- ## Academic Center for Excellence
- - [https://ace.fsu.edu](https://ace.fsu.edu)
- - date_published: 2024-07-21T15:00:55+00:00
-
- ## FSU Admissions
- - [https://admissions.fsu.edu](https://admissions.fsu.edu)
- - date_published: 2024-04-30T04:15:07.222622+00:00
-
- ## University Advising | Florida State University.
- - [https://advising.fsu.edu](https://advising.fsu.edu)
- - date_published: 2024-04-30T04:15:13.364762+00:00
-
- ## FSU Alert
- - [https://alerts.fsu.edu](https://alerts.fsu.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## FSU Alumni Association
- - [https://alumni.fsu.edu](https://alumni.fsu.edu)
- - date_published: 2024-03-06T00:00:00+00:00
 

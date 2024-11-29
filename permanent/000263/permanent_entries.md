@@ -1,3 +1,79 @@
+ ## HCI Engineering Group
+ - [https://hcie.csail.mit.edu](https://hcie.csail.mit.edu)
+ - date_published: 2024-05-28T15:37:03+00:00
+
+ ## Harvard Data Science Review
+ - [https://hdsr.mitpress.mit.edu](https://hdsr.mitpress.mit.edu)
+ - date_published: 2024-05-07T19:53:34.562634+00:00
+
+ ## Heiman Lab – Neuroscience Research at MIT
+ - [https://heiman.mit.edu](https://heiman.mit.edu)
+ - date_published: 2017-04-26T00:00:00+00:00
+
+ ## Home | MIT Hong Kong Innovation Node
+ - [https://hkinnovationnode.mit.edu](https://hkinnovationnode.mit.edu)
+ - date_published: 2024-08-07T15:56:38.690060+00:00
+
+ ## 403 Error
+ - [http://hlt.media.mit.edu](http://hlt.media.mit.edu)
+ - date_published: 2022-12-05T16:33:56+00:00
+
+ ## Housing & Residential Services
+ - [http://housing.mit.edu](http://housing.mit.edu)
+ - date_published: 2024-06-20T20:23:31+00:00
+
+ ## Welcome | MIT Human Resources
+ - [https://hr.mit.edu](https://hr.mit.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Homepage - MIT Initiative on the Digital Economy
+ - [https://ide.mit.edu](https://ide.mit.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## MIT IDM - Integrated Design & Management
+ - [https://idm.mit.edu](https://idm.mit.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Touchstone@MIT : Help
+ - [https://idp.mit.edu](https://idp.mit.edu)
+ - date_published: 2024-03-22T23:30:32+00:00
+
+ ## Home - IDSS
+ - [http://idss.mit.edu](http://idss.mit.edu)
+ - date_published: 2024-08-11T23:31:36.044519+00:00
+
+ ## MIT Industrial Liaison Program | ILP
+ - [https://ilp.mit.edu](https://ilp.mit.edu)
+ - date_published: 2024-06-22T11:08:21.386143+00:00
+
+ ## Home | Institute for Medical Engineering & Science
+ - [http://imes.mit.edu](http://imes.mit.edu)
+ - date_published: 2024-07-20T21:30:53.152529+00:00
+
+ ## Design Innovation Workshop 2015 | MIT Media Lab India Initiative
+ - [http://india.media.mit.edu](http://india.media.mit.edu)
+ - date_published: 2019-01-18T16:27:07+00:00
+
+ ## Welcome | MIT Institute Events
+ - [http://institute-events.mit.edu](http://institute-events.mit.edu)
+ - date_published: 2024-07-01T15:17:28+00:00
+
+ ## Home - Internet Policy Research Initiative at MIT
+ - [https://internetpolicy.mit.edu](https://internetpolicy.mit.edu)
+ - date_published: 2024-06-20T04:28:58.753333+00:00
+
+ ## Home Page - Intramural Sports
+ - [https://intramurals.mit.edu](https://intramurals.mit.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## 6.390 | IntroML | Spring24
+ - [https://introml.mit.edu](https://introml.mit.edu)
+ - date_published: 2024-05-07T19:33:31.765414+00:00
+
+ ## IPC | Innovation. Productivity. Competitiveness.
+ - [https://ipc.mit.edu](https://ipc.mit.edu)
+ - date_published: 2024-05-07T10:00:20.661194+00:00
+
  ## Information Systems & Technology
  - [http://ist.mit.edu](http://ist.mit.edu)
  - date_published: 2024-06-16T10:33:45+00:00
@@ -3928,80 +4004,4 @@
  ## my.nmsu.edu
  - [https://my.nmsu.edu](https://my.nmsu.edu)
  - date_published: 2024-05-07T19:47:16.602907+00:00
-
- ## News and Media Relations | New Mexico State University - BE BOLD. Shape the Future.
- - [https://news.nmsu.edu](https://news.nmsu.edu)
- - date_published: 2024-07-01T16:14:58.181392+00:00
-
- ## New Mexico State University | News and Content for Media
- - [https://newsroom.nmsu.edu](https://newsroom.nmsu.edu)
- - date_published: 2024-07-01T16:11:26.366488+00:00
-
- ## 4-H Home
- - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
- - date_published: 2024-05-07T19:46:56.710859+00:00
-
- ## Association of County Agricultural Agents Home
- - [http://nmacaa.nmsu.edu](http://nmacaa.nmsu.edu)
- - date_published: 2024-07-01T16:16:06.442633+00:00
-
- ## New Mexico Alliance for Minority Participation | New Mexico State University | BE BOLD. Shape the Future.
- - [https://nmamp.nmsu.edu](https://nmamp.nmsu.edu)
- - date_published: 2024-07-02T05:08:16.414528+00:00
-
- ## NM Beef Home
- - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## New Mexico Department of Agriculture
- - [https://nmdeptag.nmsu.edu](https://nmdeptag.nmsu.edu)
- - date_published: 2024-07-01T16:16:46.225290+00:00
-
- ## Specialist Association Home
- - [http://nmesa.nmsu.edu](http://nmesa.nmsu.edu)
- - date_published: 2024-07-01T16:16:07.954618+00:00
-
- ## NMFRRC Home
- - [https://nmfrrc.nmsu.edu](https://nmfrrc.nmsu.edu)
- - date_published: 2024-07-01T16:12:18.567478+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://nmsu.edu](https://nmsu.edu)
- - date_published: 2024-05-07T19:47:23.389773+00:00
-
- ## Home
- - [https://oel.nmsu.edu](https://oel.nmsu.edu)
- - date_published: 2024-07-01T16:13:15.538918+00:00
-
- ## Aggie One Stop
- - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
- - date_published: 2024-05-07T19:47:53.681436+00:00
-
- ## NMSU: Phonebook: Person Lookup
- - [https://phonebook.nmsu.edu](https://phonebook.nmsu.edu)
- - date_published: 2024-07-01T16:13:40.816506+00:00
-
- ## Plant Diagnostic Clinic Home
- - [https://plantclinic.nmsu.edu](https://plantclinic.nmsu.edu)
- - date_published: 2024-07-01T16:15:13.273143+00:00
-
- ## Sign in to your account
- - [https://portal.nmsu.edu](https://portal.nmsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## NMSU CES Plans of Work
- - [http://pow.nmsu.edu](http://pow.nmsu.edu)
- - date_published: 2024-07-01T16:16:15.042781+00:00
-
- ## SWBFPEPC Home
- - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
- - date_published: 2024-05-07T19:47:32.294377+00:00
-
- ## Office of the President | New Mexico State University | BE BOLD. Shape the Future.
- - [https://president.nmsu.edu](https://president.nmsu.edu)
- - date_published: 2024-07-01T16:18:08.109703+00:00
-
- ## Faculty Success
- - [https://profile.nmsu.edu](https://profile.nmsu.edu)
- - date_published: 2024-07-01T16:13:55.182126+00:00
 

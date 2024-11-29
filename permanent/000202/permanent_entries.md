@@ -1,3 +1,63 @@
+ ## Welcome to Technorati
+ - [https://technorati.com](https://technorati.com)
+ - date_published: 2024-04-28T02:14:11.805687+00:00
+
+ ## Technord | Solutions flexibles, expertise solide
+ - [https://www.technord.com](https://www.technord.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## 威尼斯wns8885556（中国）有限公司
+ - [http://www.techno-rebels.com](http://www.techno-rebels.com)
+ - date_published: 2024-10-21T04:58:45.092418+00:00
+
+ ## Technoscience Academy (The International Open Access Publisher)
+ - [http://technoscienceacademy.com](http://technoscienceacademy.com)
+ - date_published: 2024-10-29T17:43:28.163689+00:00
+
+ ## TechnoSlipstream | TechnoCritique for a Future Worth Wanting
+ - [https://technoslipstream.com](https://technoslipstream.com)
+ - date_published: 2022-12-29T17:06:39+00:00
+
+ ## TECHNOSYS - redefining web services
+ - [http://www.technosys-solutions.com](http://www.technosys-solutions.com)
+ - date_published: 2024-05-11T05:11:00+00:00
+
+ ## Inventions and Ideas from Science Fiction Books and Movies at Technovelgy.com
+ - [http://technovelgy.com](http://technovelgy.com)
+ - date_published: 2024-04-29T03:27:10.748936+00:00
+
+ ## TechnoVIJ Blog
+ - [https://technovij.com](https://technovij.com)
+ - date_published: 2024-07-14T10:17:16.688907+00:00
+
+ ## Technology Magazine - Technology News, Tech Magazine, Gadget Reviews | Technowize
+ - [https://www.technowize.com](https://www.technowize.com)
+ - date_published: 2024-09-04T19:51:46.129821+00:00
+
+ ## Tech Omaha | Event calendar for Omaha Meetups, User Groups, conferences, and techy get togethers
+ - [http://techomaha.com](http://techomaha.com)
+ - date_published: 2024-07-01T08:30:17.127055+00:00
+
+ ## TechOnline - Electronics Papers, Webinars and Resources
+ - [https://www.techonline.com](https://www.techonline.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Techopedia - The #1 Source for IT, Tech & Crypto Knowledge
+ - [https://techopedia.com](https://techopedia.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## TechOptics - Home
+ - [https://www.techoptics.com](https://www.techoptics.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Tech Photo Guy Aaron Hockley
+ - [https://techphotoguy.com](https://techphotoguy.com)
+ - date_published: 2024-01-15T02:46:02.380834+00:00
+
+ ## TechPowerUp
+ - [https://techpowerup.com](https://techpowerup.com)
+ - date_published: 2023-10-25T17:25:26.426085+00:00
+
  ## Tech Presenters - Easy Tips for Media, Technology and Presentations
  - [https://techpresenters.com](https://techpresenters.com)
  - date_published: 2024-10-25T17:56:42+00:00
@@ -3978,64 +4038,4 @@
  ## Text2LaTeX - Convert Text to LaTeX Online
  - [https://www.text2latex.com](https://www.text2latex.com)
  - date_published: 2024-11-02T16:08:14+00:00
-
- ## ResponsiveVoice Text To Speech - ResponsiveVoice.JS AI Text to Speech
- - [https://text2voiceover.com](https://text2voiceover.com)
- - date_published: 2024-10-27T14:15:40+00:00
-
- ## textarea please
- - [https://textareaplease.com](https://textareaplease.com)
- - date_published: 2024-07-23T23:42:57.860560+00:00
-
- ## CUNY City College of New York Online Bookstore
- - [http://ccny.textbookx.com](http://ccny.textbookx.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of California Santa Cruz Online Bookstore
- - [https://ucsc.textbookx.com](https://ucsc.textbookx.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Plain English Text Analyzer Tool - Textbuddy.com
- - [https://textbuddy.com](https://textbuddy.com)
- - date_published: 2024-06-19T18:49:54.488396+00:00
-
- ## TextCaster - Log In
- - [https://my.textcaster.com](https://my.textcaster.com)
- - date_published: 2024-05-07T14:04:58.877507+00:00
-
- ## Text Control: Digital Document Processing Components for Developers of Web, Mobile, Cloud and Desktop Applications
- - [https://www.textcontrol.com](https://www.textcontrol.com)
- - date_published: 2024-07-03T20:02:53.791861+00:00
-
- ## TextCortex: One AI copilot that truly gets you.
- - [https://textcortex.com](https://textcortex.com)
- - date_published: 2024-06-19T19:49:54.678652+00:00
-
- ## Mass Text Messaging & Calling | Text-Em-All
- - [https://www.text-em-all.com](https://www.text-em-all.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Nuts and Volts - Issue Library
- - [https://nutsvolts.texterity.com](https://nutsvolts.texterity.com)
- - date_published: 2024-08-18T05:17:30.266818+00:00
-
- ## Travel Weekly - July 1, 2024 - page1
- - [https://travelweekly.texterity.com](https://travelweekly.texterity.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## TextExpander – Productivity App | Text Expander
- - [https://auth.textexpander.com](https://auth.textexpander.com)
- - date_published: 2024-06-20T16:22:29+00:00
-
- ## TextExpander – Productivity App | Text Expander
- - [https://snippets.textexpander.com](https://snippets.textexpander.com)
- - date_published: 2024-06-20T16:22:26+00:00
-
- ## Welcome to TextExpander.com
- - [https://textexpander.com](https://textexpander.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## HyperComply
- - [https://trust.textexpander.com](https://trust.textexpander.com)
- - date_published: 2024-06-20T21:09:21+00:00
 

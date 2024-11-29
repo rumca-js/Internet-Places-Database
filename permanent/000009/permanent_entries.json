@@ -1829,7 +1829,7 @@
         "age": null,
         "album": null,
         "author": null,
-        "bookmarked": true,
+        "bookmarked": false,
         "comments": [],
         "date_published": "2024-06-15T09:14:32.381829+00:00",
         "description": "AEMO manages electricity and gas systems and markets across Australia, helping to ensure Australians have access to affordable, secure and reliable energy.",

@@ -1,3 +1,23 @@
+ ## Alexis' Treasures!
+ - [http://collectorsuniverse.blogspot.com](http://collectorsuniverse.blogspot.com)
+ - date_published: 2024-09-17T22:47:07+00:00
+
+ ## The Center for College Affordability and Productivity
+ - [http://collegeaffordability.blogspot.com](http://collegeaffordability.blogspot.com)
+ - date_published: 2024-03-23T19:00:14+00:00
+
+ ## Collegia Titanica
+ - [http://collegiatitanica.blogspot.com](http://collegiatitanica.blogspot.com)
+ - date_published: 2013-09-15T00:00:00+00:00
+
+ ## Colonel O'Truth's Miniature Issues
+ - [http://colonelotruth.blogspot.com](http://colonelotruth.blogspot.com)
+ - date_published: 2023-07-10T00:00:00+00:00
+
+ ## Colonel Neville Always Dresses For Dinner.
+ - [http://colonelrobertneville.blogspot.com](http://colonelrobertneville.blogspot.com)
+ - date_published: 2024-05-01T12:22:43+00:00
+
  ## 'till you see the whites of their eyes... 4th Praetorian Mechanised
  - [http://colonel-winterborne.blogspot.com](http://colonel-winterborne.blogspot.com)
  - date_published: 2024-10-26T12:33:25+00:00
@@ -3987,24 +4007,4 @@
  ## elotsip 40K
  - [http://elotsip40k.blogspot.com](http://elotsip40k.blogspot.com)
  - date_published: 2024-10-18T09:43:28+00:00
-
- ## Telecommunication and Electronics Projects
- - [http://elprojects.blogspot.com](http://elprojects.blogspot.com)
- - date_published: 2024-03-13T07:26:22+00:00
-
- ## el racó de sa lluna
- - [https://elraconetdesalluna.blogspot.com](https://elraconetdesalluna.blogspot.com)
- - date_published: 2024-06-30T07:06:42+00:00
-
- ## El Senyor Verd
- - [http://elsenyorverd.blogspot.com](http://elsenyorverd.blogspot.com)
- - date_published: 2024-07-15T09:59:43+00:00
-
- ## El Snacktator
- - [http://elsnacktator.blogspot.com](http://elsnacktator.blogspot.com)
- - date_published: 2015-11-01T00:00:00+00:00
-
- ## El Soldado Tranquilo
- - [http://elsoldadotranquilo.blogspot.com](http://elsoldadotranquilo.blogspot.com)
- - date_published: 2024-03-14T17:52:50+00:00
 

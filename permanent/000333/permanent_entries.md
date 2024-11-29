@@ -1,3 +1,91 @@
+ ## Jimmy Ofisia — climate conscious graphic designer from Surabaya, Indonesia
+ - [https://jimmy.ofisia.name](https://jimmy.ofisia.name)
+ - date_published: 2024-08-06T05:01:35.121675+00:00
+
+ ## Home Page Oosthuizen Family History
+ - [http://www.oosthuizen.name](http://www.oosthuizen.name)
+ - date_published: 2021-04-16T22:43:07+00:00
+
+ ## Geoff Pado
+ - [https://pado.name](https://pado.name)
+ - date_published: 2024-04-01T09:10:49+00:00
+
+ ## jani's home page
+ - [https://patokallio.name](https://patokallio.name)
+ - date_published: 2015-09-17T10:58:48+00:00
+
+ ## Robert Penz Blog
+ - [https://robert.penz.name](https://robert.penz.name)
+ - date_published: 2024-06-19T22:56:07.798778+00:00
+
+ ## Philip Chimento
+ - [https://ptomato.name](https://ptomato.name)
+ - date_published: 2024-07-14T21:14:11+00:00
+
+ ## Index :: Simon Zelazny's Blog
+ - [https://pzel.name](https://pzel.name)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Conversations
+ - [https://alexey.radul.name](https://alexey.radul.name)
+ - date_published: 2024-04-01T00:42:52+00:00
+
+ ## Pablo Rauzy
+ - [https://pablo.rauzy.name](https://pablo.rauzy.name)
+ - date_published: 2024-06-14T20:44:50+00:00
+
+ ## Raz0r.name — Web Application Security
+ - [http://raz0r.name](http://raz0r.name)
+ - date_published: 2024-10-31T07:45:29.176998+00:00
+
+ ## Home ← Mark Reid
+ - [http://mark.reid.name](http://mark.reid.name)
+ - date_published: 2024-03-27T01:33:38+00:00
+
+ ## Geek Blight - Home
+ - [https://rg3.name](https://rg3.name)
+ - date_published: 2023-10-25T20:23:20.284813+00:00
+
+ ## Christian Richardt
+ - [https://richardt.name](https://richardt.name)
+ - date_published: 2024-04-29T06:30:21.577965+00:00
+
+ ## Jak2k's Website
+ - [https://jak2k.schwanenberg.name](https://jak2k.schwanenberg.name)
+ - date_published: 2024-07-01T03:46:51.401130+00:00
+
+ ## ‘Shiv Jha-Mathur’: Demystifying The Hyphen
+ - [https://shivjm.name](https://shivjm.name)
+ - date_published: 2024-09-14T23:26:29.014482+00:00
+
+ ## Craft CMS and Shopify Web Developer - Simon Davies Digital
+ - [https://simon-davies.name](https://simon-davies.name)
+ - date_published: 2024-05-07T23:10:27.778911+00:00
+
+ ## Андрей Синкевич
+ - [https://andrew.sinkevitch.name](https://andrew.sinkevitch.name)
+ - date_published: 2022-06-19T18:50:04+00:00
+
+ ## Sean's git repositories
+ - [https://git.spwhitton.name](https://git.spwhitton.name)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Sean Whitton
+ - [https://spwhitton.name](https://spwhitton.name)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Petr Stribny
+ - [https://stribny.name](https://stribny.name)
+ - date_published: 2024-09-04T14:54:30.444988+00:00
+
+ ## Notes to self by Josef Strzibny
+ - [https://nts.strzibny.name](https://nts.strzibny.name)
+ - date_published: 2024-08-17T23:28:15.072079+00:00
+
+ ## Where Law and Free Software get Together for a Nice Cuppa Tea.
+ - [https://matija.suklje.name](https://matija.suklje.name)
+ - date_published: 2024-03-11T00:00:00+00:00
+
  ## Tangent 128's Thingys
  - [http://tangent128.name](http://tangent128.name)
  - date_published: 2024-05-11T07:04:51.432867+00:00
@@ -3971,94 +4059,4 @@
  ## PassMark Android Benchmark Charts
  - [https://www.androidbenchmark.net](https://www.androidbenchmark.net)
  - date_published: 2024-07-10T05:22:23.152474+00:00
-
- ## AndroidSRC
- - [https://androidsrc.net](https://androidsrc.net)
- - date_published: 2024-04-25T00:00:00+00:00
- - tags: ['android', 'tutorials']
-
- ## Andy Aaron
- - [https://andyaaron.net](https://andyaaron.net)
- - date_published: 2010-02-18T02:53:06+00:00
-
- ## Andy Chu's Home Page
- - [https://andychu.net](https://andychu.net)
- - date_published: 2016-10-21T04:59:07+00:00
-
- ## Andy Egan
- - [https://www.andyegan.net](https://www.andyegan.net)
- - date_published: 2024-09-18T08:03:26.482134+00:00
-
- ## Home — &yet
- - [http://andyet.net](http://andyet.net)
- - date_published: 2024-07-03T12:05:25.863725+00:00
-
- ## Domain Suspension
- - [http://www.andykehoe.net](http://www.andykehoe.net)
- - date_published: 2024-06-28T14:21:26.646833+00:00
-
- ## Andy Kelk | Digital Technology Leader
- - [https://www.andykelk.net](https://www.andykelk.net)
- - date_published: 2014-11-14T00:37:03+00:00
-
- ## Homepage | andy-roberts.net
- - [http://www.andy-roberts.net](http://www.andy-roberts.net)
- - date_published: 2024-07-16T22:04:55.326325+00:00
-
- ## Andy Sharrocks
- - [https://andysharrocks.net](https://andysharrocks.net)
- - date_published: 2024-10-17T12:14:14.368450+00:00
-
- ## Adoring Angela Bassett – #1 Source for Angela Bassett
- - [https://angelabassett.net](https://angelabassett.net)
- - date_published: 2024-09-04T03:09:53.562735+00:00
-
- ## Angela Randall - Angela Randall
- - [https://angelarandall.net](https://angelarandall.net)
- - date_published: 2023-11-29T19:26:58.172251+00:00
- - tags: ['personal']
-
- ## 浩宸取名的含义是什么意思,浩宸这个名字会不会太大了,浩宸名字的含义是什么意思 - 小说网
- - [http://angelcloud.net](http://angelcloud.net)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## LAIN - SERIAL EXPERIMENT
- - [http://lain.angelic-trust.net](http://lain.angelic-trust.net)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## angelmorningstar & dacrylagnia
- - [https://angelmorningstar.net](https://angelmorningstar.net)
- - date_published: 2024-07-23T04:32:01+00:00
-
- ## ANGEL-OF-MUSIC.NET :: Phantom Lovers - The Phantom of the Opera Fans - Books, Films, and/or Stage!
- - [http://angel-of-music.net](http://angel-of-music.net)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Angel's Egg - the home page of Eduardo Ochs (a.k.a. Edrx)
- - [http://anggtwu.net](http://anggtwu.net)
- - date_published: 2024-08-16T07:51:47+00:00
-
- ## Dave Andersen
- - [https://www.angio.net](https://www.angio.net)
- - date_published: 2022-11-15T22:21:10+00:00
-
- ## Home - Anglotopia.net
- - [http://www.anglotopia.net](http://www.anglotopia.net)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Emma Anholt
- - [http://www.anholt.net](http://www.anholt.net)
- - date_published: 2021-05-04T05:00:55+00:00
-
- ## AnHonestHost Gitea: Git with a cup of tea
- - [https://repo.anhonesthost.net](https://repo.anhonesthost.net)
- - date_published: 2024-06-15T07:23:33.628891+00:00
-
- ## Impulsing  The Game – Game Development and other Gaming Pursuits
- - [https://www.aniamosity.net](https://www.aniamosity.net)
- - date_published: 2024-07-10T02:39:25.028585+00:00
-
- ## AniChart: Seasonal Anime Charts
- - [https://anichart.net](https://anichart.net)
- - date_published: 2024-07-09T01:04:07+00:00
 

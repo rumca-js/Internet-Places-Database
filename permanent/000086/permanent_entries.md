@@ -1,3 +1,23 @@
+ ## Diggers Hotline
+ - [https://www.diggershotline.com](https://www.diggershotline.com)
+ - date_published: 2024-07-12T18:26:14.788274+00:00
+
+ ## Digging the Digital – Vol Blogdrift!
+ - [https://diggingthedigital.com](https://diggingthedigital.com)
+ - date_published: 2024-05-04T07:00:17.343379+00:00
+
+ ## Diggity Marketing | Results-Based SEO by Matt Diggity
+ - [https://diggitymarketing.com](https://diggitymarketing.com)
+ - date_published: 2024-05-11T11:06:53.390457+00:00
+
+ ## delivery
+ - [http://delivery.dighty.com](http://delivery.dighty.com)
+ - date_published: 2023-09-11T01:22:11+00:00
+
+ ## DIGI27.comV4
+ - [https://www.digi27.com](https://www.digi27.com)
+ - date_published: 2024-05-02T11:55:43.180830+00:00
+
  ## Digialps
  - [https://digialps.com](https://digialps.com)
  - date_published: 2024-01-15T19:41:38.279790+00:00
@@ -1944,7 +1964,7 @@
  ## Discord | Your Place to Talk and Hang Out
  - [https://discord.com](https://discord.com)
  - date_published: 2023-10-24T20:15:10.314013+00:00
- - tags: ['gatekeeper', 'social communicator']
+ - tags: ['video meetings', 'social communicator', 'gatekeeper']
 
  ## Discord - Group Chat That’s All Fun & Games
  - [https://canary.discordapp.com](https://canary.discordapp.com)
@@ -4008,24 +4028,4 @@
  ## DJ4E - Django for Everybody
  - [https://www.dj4e.com](https://www.dj4e.com)
  - date_published: 2024-09-10T07:51:38.344364+00:00
-
- ## DJames Goddard
- - [http://www.djamesgoddard.com](http://www.djamesgoddard.com)
- - date_published: 2023-08-24T22:58:00+00:00
-
- ## DjangoBook.com
- - [http://djangobook.com](http://djangobook.com)
- - date_published: 2024-07-07T06:43:57.239262+00:00
-
- ## Django Brew
- - [https://djangobrew.com](https://djangobrew.com)
- - date_published: 2024-06-27T11:46:15.693891+00:00
-
- ## djangocentral
- - [http://djangocentral.com](http://djangocentral.com)
- - date_published: 2024-06-28T19:55:12.623476+00:00
-
- - [https://djangochat.com](https://djangochat.com)
- - date_published: 2024-03-21T02:14:15.939205+00:00
- - tags: ['django', 'podcast']
 

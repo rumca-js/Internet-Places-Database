@@ -1,3 +1,65 @@
+ ## The Ghost | Jeff Goins | Substack
+ - [https://jeffgoins.substack.com](https://jeffgoins.substack.com)
+ - date_published: 2024-07-08T22:30:42.071939+00:00
+
+ ## protein wisdom reborn! | Jeff Goldstein | Substack
+ - [https://jeffgoldstein.substack.com](https://jeffgoldstein.substack.com)
+ - date_published: 2024-07-04T01:27:51.225885+00:00
+
+ ## Points And Figures | Jeffrey Carter | Substack
+ - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
+ - date_published: 2023-10-25T09:55:01.324163+00:00
+ - tags: ['substack']
+
+ ## Libertarian Land | Jeffrey Miron | Substack
+ - [https://jeffreymiron.substack.com](https://jeffreymiron.substack.com)
+ - date_published: 2024-10-31T22:52:20.219992+00:00
+
+ ## Jeff Stein | Substack
+ - [https://jeffstein.substack.com](https://jeffstein.substack.com)
+ - date_published: 2024-09-09T23:06:39.412030+00:00
+
+ ## English Republic of Letters | Jeffrey Streeter | Substack
+ - [https://jeffstreeter.substack.com](https://jeffstreeter.substack.com)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Othered | Jenai Auman | Substack
+ - [https://jenaiauman.substack.com](https://jenaiauman.substack.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Strongly Connected | Jen Lowe | Substack
+ - [https://jenlowe.substack.com](https://jenlowe.substack.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## JENNY SAIS QUOI | Jenny Walton | Substack
+ - [https://jennywalton.substack.com](https://jennywalton.substack.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## The faintest idea | Jenny Wen | Substack
+ - [https://jennywen.substack.com](https://jennywen.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Jeremy’s Substack | Jeremy Szal | Substack
+ - [https://jeremyszal.substack.com](https://jeremyszal.substack.com)
+ - date_published: 2024-10-21T17:42:23.782723+00:00
+
+ ## An Educated Guess | Jeroen van Baar | Substack
+ - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
+ - date_published: 2023-12-01T21:29:00.031789+00:00
+
+ ## Jérôme à Paris  | Substack
+ - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
+ - date_published: 2023-10-25T09:55:06.824850+00:00
+ - tags: ['substack']
+
+ ## work in progress | jero | Substack
+ - [https://jero.substack.com](https://jero.substack.com)
+ - date_published: 2024-05-12T05:28:14.910849+00:00
+
+ ## Weekly Crystallizations | Jesse Szepieniec | Substack
+ - [https://jessems.substack.com](https://jessems.substack.com)
+ - date_published: 2024-08-19T08:23:11.741217+00:00
+
  ## Singal-Minded | Jesse Singal | Substack
  - [https://jessesingal.substack.com](https://jessesingal.substack.com)
  - date_published: 2024-01-09T01:41:19.060592+00:00
@@ -4014,66 +4076,4 @@
  ## Software Huddle | Substack
  - [https://softwarehuddle.substack.com](https://softwarehuddle.substack.com)
  - date_published: 2024-07-22T12:00:36.497516+00:00
-
- ## Software Social Podcast | Substack
- - [https://softwaresocial.substack.com](https://softwaresocial.substack.com)
- - date_published: 2024-06-23T02:59:32.547759+00:00
-
- ## Pirate Wires | Mike Solana | Substack
- - [https://solana.substack.com](https://solana.substack.com)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Solo Travel Life | Nigel Peacock | Substack
- - [https://solotravellife.substack.com](https://solotravellife.substack.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Some Glad Morning | Elizabeth Hummel | Substack
- - [https://somegladmorning.substack.com](https://somegladmorning.substack.com)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Reverie by Daniel Cawrey | Substack
- - [https://somereverie.substack.com](https://somereverie.substack.com)
- - date_published: 2023-10-25T10:03:59.905705+00:00
- - tags: ['substack']
-
- ## Some Unpleasant Arithmetic | Maia Mindel | Substack
- - [https://someunpleasant.substack.com](https://someunpleasant.substack.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## The Sophist | Steven Gambardella | Substack
- - [https://sophist.substack.com](https://sophist.substack.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## NeoNarrative | Sotonye | Substack
- - [https://sotonye.substack.com](https://sotonye.substack.com)
- - date_published: 2023-10-25T10:04:03.629604+00:00
- - tags: ['substack']
-
- ## So to Speak: The Free Speech Podcast | Substack
- - [https://sotospeak.substack.com](https://sotospeak.substack.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Sovereignty | Sovereignty Coalition | Substack
- - [https://sovereignty.substack.com](https://sovereignty.substack.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Not Found
- - [https://sowhatseries.substack.com](https://sowhatseries.substack.com)
- - date_published: 2024-04-28T03:25:03.532843+00:00
-
- ## The Space Dog Chronicles | Martin Pichlmair | Substack
- - [https://spacedogchronicles.substack.com](https://spacedogchronicles.substack.com)
- - date_published: 2024-10-30T09:36:45.291325+00:00
-
- ## Center for Space Governance | Substack
- - [https://spacegovernance.substack.com](https://spacegovernance.substack.com)
- - date_published: 2024-06-19T10:07:53.044699+00:00
-
- ## SpaceTech in Gulf | Substack
- - [https://spacetechgulf.substack.com](https://spacetechgulf.substack.com)
- - date_published: 2024-10-23T06:49:58.970514+00:00
-
- ## SPACIES | Michelle Pellizzon Lipsitz | Substack
- - [https://spacies.substack.com](https://spacies.substack.com)
- - date_published: 2024-01-05T00:00:00+00:00
 

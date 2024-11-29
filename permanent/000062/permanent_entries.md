@@ -1,3 +1,23 @@
+ ## Location-based Games - gaming in physical space
+ - [http://pervasivegames.blogspot.com](http://pervasivegames.blogspot.com)
+ - date_published: 2024-03-14T08:10:36+00:00
+
+ ## The Pervocracy
+ - [http://pervocracy.blogspot.com](http://pervocracy.blogspot.com)
+ - date_published: 2024-06-09T05:45:46+00:00
+
+ ## Pestilus' Diary
+ - [http://pestilus.blogspot.com](http://pestilus.blogspot.com)
+ - date_published: 2024-10-25T02:54:20+00:00
+
+ ## Peter's Principles
+ - [https://peterbypost.blogspot.com](https://peterbypost.blogspot.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## A Sketchy Past, The Art of Peter de Sève
+ - [http://peterdeseve.blogspot.com](http://peterdeseve.blogspot.com)
+ - date_published: 2024-10-31T15:07:03+00:00
+
  ## Peter Eisentraut's Blog
  - [http://petereisentraut.blogspot.com](http://petereisentraut.blogspot.com)
  - date_published: 2024-05-24T09:34:31+00:00
@@ -3990,25 +4010,4 @@
  ## +Schola Progenium+
  - [http://schola-progenium.blogspot.com](http://schola-progenium.blogspot.com)
  - date_published: 2024-09-09T20:07:18+00:00
-
- ## Redirecting The Scholar's Stage
- - [https://scholars-stage.blogspot.com](https://scholars-stage.blogspot.com)
- - date_published: 2024-03-14T09:18:31+00:00
-
- ## FRANK´S TYPEWRITERS
- - [http://schrijfmachine.blogspot.com](http://schrijfmachine.blogspot.com)
- - date_published: 2024-07-04T06:06:40+00:00
-
- ## Schroedinger's rat
- - [https://schroedingersrat.blogspot.com](https://schroedingersrat.blogspot.com)
- - date_published: 2024-05-12T13:04:00+00:00
-
- ## schuldei.org
- - [http://schuldei.blogspot.com](http://schuldei.blogspot.com)
- - date_published: 2024-03-13T10:03:48+00:00
-
- ## The Splintered Mind
- - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
- - date_published: 2023-10-25T09:17:44.221645+00:00
- - tags: ['personal']
 

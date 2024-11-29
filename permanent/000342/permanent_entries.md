@@ -1,3 +1,91 @@
+ ## TRAVELODGE HOTEL NEWCASTLE | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $117
+ - [https://travelodge.newsouthwaleshotels.net](https://travelodge.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:19:14.461427+00:00
+
+ ## TRAVELODGE HOTEL SYDNEY MARTIN PLACE | ⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $100
+ - [https://travelodge-phillip-street.newsouthwaleshotels.net](https://travelodge-phillip-street.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:21:03.955371+00:00
+
+ ## TRAVELODGE BANKSTOWN | ⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $74
+ - [https://travelodge-sydney-2200.newsouthwaleshotels.net](https://travelodge-sydney-2200.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:20:55.674510+00:00
+
+ ## TRAVELODGE WYNYARD | ⋆⋆⋆⋆ | SYDNEY, AUSTRALIA | SEASON DEALS FROM $62
+ - [https://travelodge-wynyard.newsouthwaleshotels.net](https://travelodge-wynyard.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:21:20.272044+00:00
+
+ ## ULTIMATE APARTMENTS BONDI BEACH | AUSTRALIA | SEASON DEALS FROM $96
+ - [https://ultimate-apartments.newsouthwaleshotels.net](https://ultimate-apartments.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:10:31.034699+00:00
+
+ ## SYDNEY UNIVERSITY VILLAGE | AUSTRALIA | SEASON DEALS FROM $179
+ - [https://university-village.newsouthwaleshotels.net](https://university-village.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:10:40.848144+00:00
+
+ ## CAMDEN VALLEY INN | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $199
+ - [https://valley-inn-2570.newsouthwaleshotels.net](https://valley-inn-2570.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:09:59.523624+00:00
+
+ ## VALUE SUITES PENRITH | ⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $81
+ - [https://value-suites.newsouthwaleshotels.net](https://value-suites.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:20:31.493658+00:00
+
+ ## VIBE HOTEL SYDNEY DARLING HARBOUR | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $137
+ - [https://vibe-darling-harbour.newsouthwaleshotels.net](https://vibe-darling-harbour.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:08:22.979952+00:00
+
+ ## VIBE HOTEL SYDNEY | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $155
+ - [https://vibe.newsouthwaleshotels.net](https://vibe.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:22:25.839039+00:00
+
+ ## ** HOTEL VACY HUNTER VALLEY LODGE, VACY **
+ - [https://village-motel-2421.newsouthwaleshotels.net](https://village-motel-2421.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:20:12.366004+00:00
+
+ ## SHELLHARBOUR VILLAGE MOTEL | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $122
+ - [https://village-motel.newsouthwaleshotels.net](https://village-motel.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:24:01.465815+00:00
+
+ ## WAGON WHEEL MOTEL | ⋆⋆ | COONABARABRAN, AUSTRALIA | SEASON DEALS FROM $79
+ - [https://wagon-wheel-motel-units.newsouthwaleshotels.net](https://wagon-wheel-motel-units.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:14:12.985201+00:00
+
+ ## HOTEL WAKE UP SYDNEY | ⋆⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $44
+ - [https://wake-up.newsouthwaleshotels.net](https://wake-up.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:06:30.919775+00:00
+
+ ## *** WARNERS BAY HOTEL, WARNERS BAY ***
+ - [https://warners-bay-hotel.newsouthwaleshotels.net](https://warners-bay-hotel.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:21:16.215757+00:00
+
+ ## HOTEL WATSONS BAY BOUTIQUE | ⋆⋆⋆⋆ | SYDNEY, AUSTRALIA | SEASON DEALS FROM $177
+ - [https://watsons-bay-boutique.newsouthwaleshotels.net](https://watsons-bay-boutique.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:21:24.657389+00:00
+
+ ## WEST HOTEL SYDNEY, CURIO COLLECTION BY HILTON | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $117
+ - [https://west-curio-collection-by-hilton-65-sussex-street.newsouthwaleshotels.net](https://west-curio-collection-by-hilton-65-sussex-street.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:24:05.462909+00:00
+
+ ## **** WILDES HOTEL KANGAROO VALLEY, KANGAROO VALLEY ****
+ - [https://wildes.newsouthwaleshotels.net](https://wildes.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:17:39.411208+00:00
+
+ ## ***** HOTEL W SYDNEY, SYDNEY *****
+ - [https://w.newsouthwaleshotels.net](https://w.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:19:28.368875+00:00
+
+ ## New South Wales hotels & apartments, all accommodations in New South Wales
+ - [http://www.newsouthwaleshotels.net](http://www.newsouthwaleshotels.net)
+ - date_published: 2024-06-17T03:45:59.688386+00:00
+
+ ## HOTEL WYNDHAM SYDNEY | ⋆⋆⋆⋆ | AUSTRALIA | SEASON DEALS FROM $160
+ - [https://wyndham.newsouthwaleshotels.net](https://wyndham.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:05:42.586658+00:00
+
+ ## HOTEL WYNYARD | ⋆⋆ | SYDNEY, AUSTRALIA | SEASON DEALS FROM $96
+ - [https://wynyard.newsouthwaleshotels.net](https://wynyard.newsouthwaleshotels.net)
+ - date_published: 2024-10-16T12:19:40.632774+00:00
+
  ## -
  - [https://newswire.net](https://newswire.net)
  - date_published: 2024-06-29T21:35:56.731018+00:00
@@ -3962,95 +4050,4 @@
  ## Plantrips | AI Travel Planner
  - [https://plantrips.net](https://plantrips.net)
  - date_published: 2024-06-19T20:06:37.212722+00:00
-
- ## Platform Economies Research Network
- - [https://platformeconomies.net](https://platformeconomies.net)
- - date_published: 2024-07-03T15:50:46.624410+00:00
-
- ## Dubai Events Tickets - Online Ticket Booking
- - [https://dubai.platinumlist.net](https://dubai.platinumlist.net)
- - date_published: 2024-05-06T17:10:43.917781+00:00
-
- ## play.net >> Where adventure finds you.
- - [https://www.play.net](https://www.play.net)
- - date_published: 2024-03-27T20:52:27.939000+00:00
- - tags: ['mud game']
-
- ## Playables
- - [https://playables.net](https://playables.net)
- - date_published: 2024-09-18T21:02:17+00:00
-
- ## PlayDeb - Ubuntu Linux, Mac, Windows Games Tech News
- - [http://www.playdeb.net](http://www.playdeb.net)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Artists
- - [https://playitagainsam.net](https://playitagainsam.net)
- - date_published: 2024-09-17T01:03:09.256424+00:00
-
- ## Playlist Converter - Convert your music playlists
- - [http://www.playlist-converter.net](http://www.playlist-converter.net)
- - date_published: 2024-07-02T20:20:15.378403+00:00
-
- ## Best free podcasts - 🎧 Listen on Play Podcast
- - [https://playpodcast.net](https://playpodcast.net)
- - date_published: 2024-09-21T23:04:18.566105+00:00
-
- ## PlayStation® Partners
- - [https://partners.playstation.net](https://partners.playstation.net)
- - date_published: 2024-06-17T16:38:33.185681+00:00
-
- ## PlayStation® Partner Registration
- - [https://register.playstation.net](https://register.playstation.net)
- - date_published: 2024-10-19T20:57:01.478192+00:00
-
- ## PlayStation LifeStyle | PlayStation LifeStyle
- - [https://www.playstationlifestyle.net](https://www.playstationlifestyle.net)
- - date_published: 2024-11-25T20:23:33+00:00
-
- ## Playful Learning – A conference exploring fun, play, games and engagement in adult learning
- - [http://conference.playthinklearn.net](http://conference.playthinklearn.net)
- - date_published: 2024-07-09T13:54:23.424425+00:00
-
- ## play think learn
- - [https://playthinklearn.net](https://playthinklearn.net)
- - date_published: 2024-05-09T05:25:10.213227+00:00
-
- ## A boy and his blog
- - [https://plemaire.net](https://plemaire.net)
- - date_published: 2022-12-20T08:24:24+00:00
-
- ## The Programming Languages Enthusiast
- - [http://www.pl-enthusiast.net](http://www.pl-enthusiast.net)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## PLiG - Internet Sunshine
- - [http://www.plig.net](http://www.plig.net)
- - date_published: 2024-07-10T02:52:38.661352+00:00
-
- ## Your Internet Technology Partner - Pliner Solutions
- - [http://www.pliner.net](http://www.pliner.net)
- - date_published: 2024-09-04T16:45:08.640384+00:00
-
- ## List Index - listes.ploum.net
- - [https://listes.ploum.net](https://listes.ploum.net)
- - date_published: 2024-08-18T21:57:46.880671+00:00
-
- ## Ploum.net
- - [https://ploum.net](https://ploum.net)
- - date_published: 2023-10-25T20:35:50.502948+00:00
-
- ## Plover.Net - An Interactive Fiction Hideout
- - [http://plover.net](http://plover.net)
- - date_published: 2023-07-12T23:12:52+00:00
-
- ## ChinWag
- - [https://chinwag.pluralistic.net](https://chinwag.pluralistic.net)
- - date_published: 2023-11-28T07:37:24+00:00
- - tags: ['cory doctorow', 'internet forum']
-
- ## Pluralistic: Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.
- - [https://pluralistic.net](https://pluralistic.net)
- - date_published: 2023-10-25T08:57:45.517375+00:00
- - tags: ['personal', 'interesting page contents', 'blog']
 

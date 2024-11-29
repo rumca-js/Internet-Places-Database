@@ -1,3 +1,86 @@
+ ## Website Explorer - http://bmannconsulting.com/
+ - [https://explore.marginalia.nu](https://explore.marginalia.nu)
+ - date_published: 2024-06-20T21:32:46.556229+00:00
+
+ ## GitHub - MarginaliaSearch/MarginaliaSearch: Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+ - [https://git.marginalia.nu](https://git.marginalia.nu)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## www.marginalia.nu
+ - [https://marginalia.nu](https://marginalia.nu)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['search engine']
+
+ ## www.marginalia.nu @
+marginalia.nu
+ - [https://memex.marginalia.nu](https://memex.marginalia.nu)
+ - date_published: 2023-10-25T20:48:59.430464+00:00
+
+ ## Marginalia Search
+ - [https://search.marginalia.nu](https://search.marginalia.nu)
+ - date_published: 2023-10-25T13:51:19.392203+00:00
+ - tags: ['search engine', 'personal sites source']
+
+ ## Welcome to nginx!
+ - [https://status.marginalia.nu](https://status.marginalia.nu)
+ - date_published: 2022-10-19T08:02:20+00:00
+
+ ## Mastodon.nu
+ - [https://mastodon.nu](https://mastodon.nu)
+ - date_published: 2024-07-11T23:02:52.705611+00:00
+
+ ## MustHaveMenus - Sorry!
+ - [https://mhme.nu](https://mhme.nu)
+ - date_published: 2024-09-06T13:39:45.337359+00:00
+
+ ## [ HOSTSFILE.MINE.NU ] [ HOSTS FILE PROJECT ]
+ - [https://hostsfile.mine.nu](https://hostsfile.mine.nu)
+ - date_published: 2018-02-14T19:14:36+00:00
+
+ ## Titus the Fox
+ - [http://ttf.mine.nu](http://ttf.mine.nu)
+ - date_published: 2024-07-11T11:16:10.965569+00:00
+
+ ## ::: EPHEMERAL ::: fanlisting collective directory
+ - [http://dir.minty.nu](http://dir.minty.nu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## " the book lives on " » the KINDLE fanlisting
+ - [https://kindle.minty.nu](https://kindle.minty.nu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## « meow hosting :3 » the fanlisting for LEPRD.SPACE
+ - [https://leprd.minty.nu](https://leprd.minty.nu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Delicately Soothing :: The Pastel Colours Fanlisting
+ - [https://pastels.minty.nu](https://pastels.minty.nu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## scented // sunflowers (ver.2)
+ - [https://scented.minty.nu](https://scented.minty.nu)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Mirai | MIRAI – Connecting Swedish och Japanese universities
+ - [https://www.mirai.nu](https://www.mirai.nu)
+ - date_published: 2024-06-24T03:02:52.457564+00:00
+
+ ## Mode & design
+ - [http://www.modebewust.nu](http://www.modebewust.nu)
+ - date_published: 2024-07-13T14:31:31.549526+00:00
+
+ ## Moxie – Allt från inredning till mode och skönhet
+ - [http://moxie.nu](http://moxie.nu)
+ - date_published: 2024-07-16T04:29:05+00:00
+
+ ## Ace of Spades HQ
+ - [http://ace.mu.nu](http://ace.mu.nu)
+ - date_published: 2024-06-20T02:56:48.722841+00:00
+
+ ## annika's journal
+ - [http://annika.mu.nu](http://annika.mu.nu)
+ - date_published: 2010-12-16T06:21:39+00:00
+
  ## Blogmeister USA
  - [http://blogmeisterusa.mu.nu](http://blogmeisterusa.mu.nu)
  - date_published: 2024-06-27T09:30:34.961214+00:00
@@ -3945,84 +4028,4 @@
  ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
  - [https://bookwyrm.fediverse.observer](https://bookwyrm.fediverse.observer)
  - date_published: 2024-07-18T05:38:54.346368+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://bridgy-fed.fediverse.observer](https://bridgy-fed.fediverse.observer)
- - date_published: 2024-07-18T05:38:27.948048+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cdn.fediverse.observer](https://cdn.fediverse.observer)
- - date_published: 2024-07-18T05:38:47.227460+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cherrypick.fediverse.observer](https://cherrypick.fediverse.observer)
- - date_published: 2024-07-18T05:38:24.413993+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cuculus.fediverse.observer](https://cuculus.fediverse.observer)
- - date_published: 2024-07-18T05:38:40.197160+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://diaspora.fediverse.observer](https://diaspora.fediverse.observer)
- - date_published: 2024-07-18T05:38:45.605174+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fedibird.fediverse.observer](https://fedibird.fediverse.observer)
- - date_published: 2024-07-18T05:38:38.581771+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fediverse.observer](https://fediverse.observer)
- - date_published: 2024-07-08T17:37:29.834254+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://firefish.fediverse.observer](https://firefish.fediverse.observer)
- - date_published: 2024-07-18T05:38:26.077369+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://foundkey.fediverse.observer](https://foundkey.fediverse.observer)
- - date_published: 2024-07-18T05:38:49.165477+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://friendica.fediverse.observer](https://friendica.fediverse.observer)
- - date_published: 2024-07-18T05:38:14.109448+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://funkwhale.fediverse.observer](https://funkwhale.fediverse.observer)
- - date_published: 2024-07-18T05:38:09.047368+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://hometown.fediverse.observer](https://hometown.fediverse.observer)
- - date_published: 2024-07-18T05:38:36.909513+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://hubzilla.fediverse.observer](https://hubzilla.fediverse.observer)
- - date_published: 2024-07-18T05:38:16.156119+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://juick.fediverse.observer](https://juick.fediverse.observer)
- - date_published: 2024-07-18T05:38:57.826601+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://lemmy.fediverse.observer](https://lemmy.fediverse.observer)
- - date_published: 2024-07-18T05:38:43.958104+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://mastodon.fediverse.observer](https://mastodon.fediverse.observer)
- - date_published: 2024-07-18T05:38:07.144290+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://mbin.fediverse.observer](https://mbin.fediverse.observer)
- - date_published: 2024-07-18T05:37:59.123994+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://meisskey.fediverse.observer](https://meisskey.fediverse.observer)
- - date_published: 2024-07-18T05:38:31.564649+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://microdotblog.fediverse.observer](https://microdotblog.fediverse.observer)
- - date_published: 2024-07-18T05:38:34.896526+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://misskey.fediverse.observer](https://misskey.fediverse.observer)
- - date_published: 2024-07-18T05:38:17.835622+00:00
 

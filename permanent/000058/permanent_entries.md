@@ -1,3 +1,23 @@
+ ## Telecommunication and Electronics Projects
+ - [http://elprojects.blogspot.com](http://elprojects.blogspot.com)
+ - date_published: 2024-03-13T07:26:22+00:00
+
+ ## el racó de sa lluna
+ - [https://elraconetdesalluna.blogspot.com](https://elraconetdesalluna.blogspot.com)
+ - date_published: 2024-06-30T07:06:42+00:00
+
+ ## El Senyor Verd
+ - [http://elsenyorverd.blogspot.com](http://elsenyorverd.blogspot.com)
+ - date_published: 2024-07-15T09:59:43+00:00
+
+ ## El Snacktator
+ - [http://elsnacktator.blogspot.com](http://elsnacktator.blogspot.com)
+ - date_published: 2015-11-01T00:00:00+00:00
+
+ ## El Soldado Tranquilo
+ - [http://elsoldadotranquilo.blogspot.com](http://elsoldadotranquilo.blogspot.com)
+ - date_published: 2024-03-14T17:52:50+00:00
+
  ## It's a Mystery
  - [http://elspeth-itsamystery.blogspot.com](http://elspeth-itsamystery.blogspot.com)
  - date_published: 2024-10-17T23:04:15.701808+00:00
@@ -3993,24 +4013,4 @@
  ## Headless Horse Archer
  - [http://headlesshorsearcher.blogspot.com](http://headlesshorsearcher.blogspot.com)
  - date_published: 2024-07-06T20:45:35+00:00
-
- ## Head Nurse
- - [http://head-nurse.blogspot.com](http://head-nurse.blogspot.com)
- - date_published: 2024-09-02T09:07:24+00:00
-
- ## The Head of Vecna
- - [http://headofvecna.blogspot.com](http://headofvecna.blogspot.com)
- - date_published: 2024-07-06T20:45:10+00:00
-
- ## headsup: the blog
- - [https://headsuptheblog.blogspot.com](https://headsuptheblog.blogspot.com)
- - date_published: 2024-05-07T21:55:26.264473+00:00
-
- ## Blogger
- - [http://healingiraq.blogspot.com](http://healingiraq.blogspot.com)
- - date_published: 2024-06-20T03:14:16.518399+00:00
-
- ## Health Correlator
- - [https://healthcorrelator.blogspot.com](https://healthcorrelator.blogspot.com)
- - date_published: 2024-10-31T23:06:54+00:00
 

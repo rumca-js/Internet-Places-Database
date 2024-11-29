@@ -1,3 +1,24 @@
+ ## Redirecting The Scholar's Stage
+ - [https://scholars-stage.blogspot.com](https://scholars-stage.blogspot.com)
+ - date_published: 2024-03-14T09:18:31+00:00
+
+ ## FRANK´S TYPEWRITERS
+ - [http://schrijfmachine.blogspot.com](http://schrijfmachine.blogspot.com)
+ - date_published: 2024-07-04T06:06:40+00:00
+
+ ## Schroedinger's rat
+ - [https://schroedingersrat.blogspot.com](https://schroedingersrat.blogspot.com)
+ - date_published: 2024-05-12T13:04:00+00:00
+
+ ## schuldei.org
+ - [http://schuldei.blogspot.com](http://schuldei.blogspot.com)
+ - date_published: 2024-03-13T10:03:48+00:00
+
+ ## The Splintered Mind
+ - [https://schwitzsplinters.blogspot.com](https://schwitzsplinters.blogspot.com)
+ - date_published: 2023-10-25T09:17:44.221645+00:00
+ - tags: ['personal']
+
  ## The Splintered Mind: Underblog
  - [http://schwitzsplintersunderblog.blogspot.com](http://schwitzsplintersunderblog.blogspot.com)
  - date_published: 2024-03-16T01:09:39+00:00
@@ -3993,25 +4014,4 @@
  ## The Feel-good Foodbook
  - [http://thefeelgoodfoodbook.blogspot.com](http://thefeelgoodfoodbook.blogspot.com)
  - date_published: 2024-10-21T15:40:53.134835+00:00
-
- ## The Feral Irishman
- - [https://theferalirishman.blogspot.com](https://theferalirishman.blogspot.com)
- - date_published: 2024-06-27T09:22:00+00:00
-
- ## The Fiberglass Manifesto
- - [http://thefiberglassmanifesto.blogspot.com](http://thefiberglassmanifesto.blogspot.com)
- - date_published: 2024-06-25T17:12:19+00:00
-
- ## Personal Finance
- - [http://thefinalredoubt.blogspot.com](http://thefinalredoubt.blogspot.com)
- - date_published: 2024-10-21T15:30:05.398187+00:00
-
- ## Blogger
- - [https://thefineartofthetpk.blogspot.com](https://thefineartofthetpk.blogspot.com)
- - date_published: 2024-05-12T03:53:31.952660+00:00
-
- ## The Fischbowl
- - [https://thefischbowl.blogspot.com](https://thefischbowl.blogspot.com)
- - date_published: 2024-04-03T06:38:53.475731+00:00
- - tags: ['personal']
 

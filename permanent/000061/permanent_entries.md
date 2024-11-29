@@ -1,3 +1,23 @@
+ ## Games Workshop modeling blog
+ - [http://modelsnottoys.blogspot.com](http://modelsnottoys.blogspot.com)
+ - date_published: 2024-04-27T11:25:45+00:00
+
+ ## Appendix N
+ - [http://modernappendixn.blogspot.com](http://modernappendixn.blogspot.com)
+ - date_published: 2024-10-30T14:44:00+00:00
+
+ ## Modern JavaScript
+ - [https://modernjavascript.blogspot.com](https://modernjavascript.blogspot.com)
+ - date_published: 2024-09-12T14:00:37+00:00
+
+ ## The Kiwi's Figures n stuff
+ - [http://modernkiwi.blogspot.com](http://modernkiwi.blogspot.com)
+ - date_published: 2024-10-12T18:10:15+00:00
+
+ ## Modern Medieval
+ - [http://modernmedieval.blogspot.com](http://modernmedieval.blogspot.com)
+ - date_published: 2024-06-01T09:03:00+00:00
+
  ## modern steroid science
  - [http://modernsteroid.blogspot.com](http://modernsteroid.blogspot.com)
  - date_published: 2024-10-19T04:54:29.789606+00:00
@@ -3993,24 +4013,4 @@
  ## Perth Daily Photo
  - [http://perthdailyphoto.blogspot.com](http://perthdailyphoto.blogspot.com)
  - date_published: 2024-07-17T10:53:36+00:00
-
- ## Location-based Games - gaming in physical space
- - [http://pervasivegames.blogspot.com](http://pervasivegames.blogspot.com)
- - date_published: 2024-03-14T08:10:36+00:00
-
- ## The Pervocracy
- - [http://pervocracy.blogspot.com](http://pervocracy.blogspot.com)
- - date_published: 2024-06-09T05:45:46+00:00
-
- ## Pestilus' Diary
- - [http://pestilus.blogspot.com](http://pestilus.blogspot.com)
- - date_published: 2024-10-25T02:54:20+00:00
-
- ## Peter's Principles
- - [https://peterbypost.blogspot.com](https://peterbypost.blogspot.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## A Sketchy Past, The Art of Peter de Sève
- - [http://peterdeseve.blogspot.com](http://peterdeseve.blogspot.com)
- - date_published: 2024-10-31T15:07:03+00:00
 

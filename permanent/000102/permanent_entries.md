@@ -1,3 +1,23 @@
+ ## Fermyon • Experience the next wave of cloud computing. | Fermyon • Experience the next wave of cloud computing.
+ - [https://www.fermyon.com](https://www.fermyon.com)
+ - date_published: 2023-10-25T14:29:15.121230+00:00
+
+ ## Fernanda Carlovich
+ - [https://fernandacarlovich.com](https://fernandacarlovich.com)
+ - date_published: 2024-07-04T01:52:56.000595+00:00
+
+ ## Fernanda Viégas
+ - [http://fernandaviegas.com](http://fernandaviegas.com)
+ - date_published: 2024-07-01T03:20:06.340606+00:00
+
+ ## Your Trusted & Affordable Tree Service | Fernandez Tree Service
+ - [https://fernandeztreeserviceinc.com](https://fernandeztreeserviceinc.com)
+ - date_published: 2024-06-29T05:06:23.588213+00:00
+
+ ## Fernando Fraternali Research
+ - [https://www.fernandofraternaliresearch.com](https://www.fernandofraternaliresearch.com)
+ - date_published: 2024-09-06T20:20:44.387696+00:00
+
  ## Fernando Gonzalez Ganoza – Mentor
  - [https://fernandogonzalezmentor.com](https://fernandogonzalezmentor.com)
  - date_published: 2024-07-16T19:33:13.649648+00:00
@@ -4017,23 +4037,4 @@
  ## Shadowproof: Independent journalism on movements for justice
  - [http://firedoglake.com](http://firedoglake.com)
  - date_published: 2024-02-22T00:00:00+00:00
-
- - [https://firedpizzas.com](https://firedpizzas.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Fire Engineering Training Community
- - [https://community.fireengineering.com](https://community.fireengineering.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Fire Engineering - July 2024 - page1
- - [https://digital.fireengineering.com](https://digital.fireengineering.com)
- - date_published: 2024-07-16T23:08:37.593068+00:00
-
- ## Firefighting Training & Fire Service News | Fire Engineering
- - [https://fireengineering.com](https://fireengineering.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Fire Engineering Books
- - [https://fireengineeringbooks.com](https://fireengineeringbooks.com)
- - date_published: 2024-05-12T00:00:00+00:00
 

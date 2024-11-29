@@ -1,3 +1,79 @@
+ ## Wharton Research Data Services
+ - [https://wrds-web.wharton.upenn.edu](https://wrds-web.wharton.upenn.edu)
+ - date_published: 2024-10-14T20:10:36.834898+00:00
+
+ ## CPCW: The Center for Programs in Contemporary Writing
+ - [https://writing.upenn.edu](https://writing.upenn.edu)
+ - date_published: 2024-06-29T16:25:49.750709+00:00
+
+ ## Wharton School Press - University of Pennsylvania Press
+ - [http://wsp.wharton.upenn.edu](http://wsp.wharton.upenn.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Department of Mathematics | Penn Math
+ - [https://www2.math.upenn.edu](https://www2.math.upenn.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home Page
+ - [https://www.alumni.upenn.edu](https://www.alumni.upenn.edu)
+ - date_published: 2024-07-02T10:28:27.054923+00:00
+
+ ## Applied Mathematics and Computational Science
+ - [https://www.amcs.upenn.edu](https://www.amcs.upenn.edu)
+ - date_published: 2024-07-13T03:08:03.348684+00:00
+
+ ## Authentic Happiness | Authentic Happiness
+ - [https://www.authentichappiness.sas.upenn.edu](https://www.authentichappiness.sas.upenn.edu)
+ - date_published: 2024-05-12T05:37:48.919929+00:00
+
+ ## Penn Business Services
+ - [https://www.business-services.upenn.edu](https://www.business-services.upenn.edu)
+ - date_published: 2024-09-12T20:33:32+00:00
+
+ ## University of Pennsylvania - College of Arts and Sciences | College of Arts & Sciences - University of Pennsylvania
+ - [https://www.college.upenn.edu](https://www.college.upenn.edu)
+ - date_published: 2024-05-02T09:51:40.412428+00:00
+
+ ## Stuart Weitzman School of Design
+ - [https://www.design.upenn.edu](https://www.design.upenn.edu)
+ - date_published: 2024-05-08T11:44:32.893157+00:00
+
+ ## Electrical and Systems Engineering | A Department of the School of Engineering and Applied Science
+ - [https://www.ee.upenn.edu](https://www.ee.upenn.edu)
+ - date_published: 2024-05-08T10:21:03.831321+00:00
+
+ ## The University of Pennsylvania’s English Language Programs (ELP)
+ - [https://www.elp.upenn.edu](https://www.elp.upenn.edu)
+ - date_published: 2024-07-02T10:33:58.969386+00:00
+
+ ## Electrical and Systems Engineering | A Department of the School of Engineering and Applied Science
+ - [https://www.ese.upenn.edu](https://www.ese.upenn.edu)
+ - date_published: 2024-07-02T10:30:13.327729+00:00
+
+ ## Fels Institute of Government
+ - [https://www.fels.upenn.edu](https://www.fels.upenn.edu)
+ - date_published: 2024-06-28T17:48:34+00:00
+
+ ## University of Pennsylvania Graduate School of Education | Penn GSE
+ - [http://www.gse.upenn.edu](http://www.gse.upenn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Division of Human Resources University of Pennsylvania
+ - [https://www.hr.upenn.edu](https://www.hr.upenn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UPenn ISC
+ - [https://www.isc.upenn.edu](https://www.isc.upenn.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home | Linguistic Data Consortium
+ - [http://www.ldc.upenn.edu](http://www.ldc.upenn.edu)
+ - date_published: 2024-07-02T05:42:11+00:00
+
+ ## Penn Libraries
+ - [https://www.library.upenn.edu](https://www.library.upenn.edu)
+ - date_published: 2024-07-01T18:46:10+00:00
+
  ## The College of Liberal and Professional Studies (LPS)
  - [https://www.lps.upenn.edu](https://www.lps.upenn.edu)
  - date_published: 2024-05-07T21:58:57.994235+00:00
@@ -3922,80 +3998,4 @@
  ## Welcome to UW Finance | UW Finance
  - [https://finance.uw.edu](https://finance.uw.edu)
  - date_published: 2024-05-07T22:27:25.446993+00:00
-
- ## Foster School of Business | Foster School of Business
- - [https://foster.uw.edu](https://foster.uw.edu)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## UW Graduate School
- - [https://grad.uw.edu](https://grad.uw.edu)
- - date_published: 2024-07-02T13:33:02.348485+00:00
-
- ## UW Sustainability
- - [https://green.uw.edu](https://green.uw.edu)
- - date_published: 2024-07-02T13:24:39+00:00
-
- ## Library Guides
- - [http://guides.lib.uw.edu](http://guides.lib.uw.edu)
- - date_published: 2024-07-02T13:48:56.131305+00:00
-
- ## Human Centered Design & Engineering
- - [https://hcde.uw.edu](https://hcde.uw.edu)
- - date_published: 2024-04-30T05:44:54.438685+00:00
-
- ## Housing & Food Services - UW HFS
- - [https://hfs.uw.edu](https://hfs.uw.edu)
- - date_published: 2024-05-07T22:27:30.814550+00:00
-
- ## Human Resources
- - [http://hr.uw.edu](http://hr.uw.edu)
- - date_published: 2024-07-02T13:45:32.475882+00:00
-
- ## Home
- - [https://hsl.uw.edu](https://hsl.uw.edu)
- - date_published: 2024-07-02T13:48:54.572610+00:00
-
- ## International Arctic Buoy Programme
- - [http://iabp.apl.uw.edu](http://iabp.apl.uw.edu)
- - date_published: 2022-04-27T23:12:55+00:00
-
- ## UW NetID sign-in
- - [https://identity.uw.edu](https://identity.uw.edu)
- - date_published: 2024-07-02T13:20:59.890101+00:00
-
- ## UW NetID sign-in
- - [https://insideuwit.uw.edu](https://insideuwit.uw.edu)
- - date_published: 2024-06-16T09:31:35.127902+00:00
-
- ## UW NetID sign-in
- - [https://internal.com.uw.edu](https://internal.com.uw.edu)
- - date_published: 2024-07-21T07:18:50.140523+00:00
-
- ## Information School | University of Washington
- - [https://ischool.uw.edu](https://ischool.uw.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home – Your source for Workday support
- - [https://isc.uw.edu](https://isc.uw.edu)
- - date_published: 2024-06-15T17:26:23+00:00
-
- ## IT Connect
- - [https://itconnect.uw.edu](https://itconnect.uw.edu)
- - date_published: 2024-05-01T06:18:38.389467+00:00
-
- ## iSchool Knowledge Base | University of Washington Information School
- - [http://kb.ischool.uw.edu](http://kb.ischool.uw.edu)
- - date_published: 2024-08-06T17:05:40+00:00
-
- ## Website: Homepage: Home
- - [https://lib.law.uw.edu](https://lib.law.uw.edu)
- - date_published: 2024-10-18T22:26:28.956566+00:00
-
- ## University of Washington Libraries
- - [https://lib.uw.edu](https://lib.uw.edu)
- - date_published: 2024-05-07T22:27:43.859911+00:00
-
- ## Sign in to your account
- - [https://metadata.uw.edu](https://metadata.uw.edu)
- - date_published: 2024-07-02T00:00:00+00:00
 

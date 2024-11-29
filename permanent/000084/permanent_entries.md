@@ -1,3 +1,23 @@
+ ## The Coder Lounge
+ - [http://blog.deepakazad.com](http://blog.deepakazad.com)
+ - date_published: 2024-03-05T18:51:45+00:00
+
+ ## Deepak Gulati's blog
+ - [https://deepakg.com](https://deepakg.com)
+ - date_published: 2023-10-25T13:47:34.103740+00:00
+
+ ## Deepanker Verma
+ - [https://deepankerverma.com](https://deepankerverma.com)
+ - date_published: 2024-08-19T18:22:47.422166+00:00
+
+ ## Welcome - Deep Atomic
+ - [https://deepatomic.com](https://deepatomic.com)
+ - date_published: 2024-10-26T14:29:14.380641+00:00
+
+ ## Home
+ - [https://deepbaltic.com](https://deepbaltic.com)
+ - date_published: 2024-10-28T08:27:37.896858+00:00
+
  ## deep black hole .com by rafaël rozendaal, 2010, collection of sébastien de ganay
  - [https://www.deepblackhole.com](https://www.deepblackhole.com)
  - date_published: 2024-09-11T12:16:16+00:00
@@ -4012,24 +4032,4 @@
  ## Desmos Classroom Activities
  - [https://teacher.desmos.com](https://teacher.desmos.com)
  - date_published: 2024-05-01T04:49:07.572900+00:00
-
- ## DeSmuME DS Emulator • Windows » iPhone » Mac » Android
- - [http://www.desmume.com](http://www.desmume.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## DeSoto County FL BOCC
- - [http://desotobocc.com](http://desotobocc.com)
- - date_published: 2024-06-19T17:49:16+00:00
-
- ## Nadia K. Daughtrey, DeSoto County Clerk of Court
- - [http://www.desotoclerk.com](http://www.desotoclerk.com)
- - date_published: 2024-10-30T00:34:58.448810+00:00
-
- ## The School District of DeSoto County | Arcadia, FL
- - [https://www.desotoschools.com](https://www.desotoschools.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home of Demotivators® - The World's Best Demotivational Posters
- - [https://despair.com](https://despair.com)
- - date_published: 2024-04-29T02:50:28.736649+00:00
 

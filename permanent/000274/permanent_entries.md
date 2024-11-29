@@ -1,3 +1,79 @@
+ ## Parents & Families | Wake Forest University
+ - [https://parents.wfu.edu](https://parents.wfu.edu)
+ - date_published: 2024-06-28T18:19:27+00:00
+
+ ## Home - Transportation and Parking Services
+ - [https://parking.wfu.edu](https://parking.wfu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Professional Development Center - Human Resources
+ - [http://pdc.wfu.edu](http://pdc.wfu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## People Search - Wake Forest University
+ - [https://peoplesearch.wfu.edu](https://peoplesearch.wfu.edu)
+ - date_published: 2024-07-02T14:05:33.877608+00:00
+
+ ## Philosophy | Wake Forest University
+ - [http://philosophy.wfu.edu](http://philosophy.wfu.edu)
+ - date_published: 2024-06-23T09:42:11.571785+00:00
+
+ ## University Police | Wake Forest University
+ - [https://police.wfu.edu](https://police.wfu.edu)
+ - date_published: 2024-07-01T18:21:58+00:00
+
+ ## Policy Listing - University Policy Library
+ - [https://policy.wfu.edu](https://policy.wfu.edu)
+ - date_published: 2024-07-01T14:12:10+00:00
+
+ ## Homepage - Wake Forest Pre-College Programs
+ - [https://precollege.wfu.edu](https://precollege.wfu.edu)
+ - date_published: 2024-06-28T12:24:06+00:00
+
+ ## Prehealth @ WFU – Prehealth Professions @ WFU
+ - [http://prehealth.wfu.edu](http://prehealth.wfu.edu)
+ - date_published: 2024-07-01T06:39:22.392994+00:00
+
+ ## Pre-Law Advising | Wake Forest University
+ - [https://prelaw.wfu.edu](https://prelaw.wfu.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Office of the President | Wake Forest University
+ - [https://president.wfu.edu](https://president.wfu.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Pre-Wall Street Career Track - Pre-Wall Street Career Track
+ - [https://prewallstreetcareertrack.wfu.edu](https://prewallstreetcareertrack.wfu.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Provost Office Homepage - Office of the Provost
+ - [https://provost.wfu.edu](https://provost.wfu.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Office of the University Registrar | Wake Forest University
+ - [https://registrar.wfu.edu](https://registrar.wfu.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Research at Wake Forest University | Wake Forest University
+ - [https://research.wfu.edu](https://research.wfu.edu)
+ - date_published: 2024-06-29T11:20:26+00:00
+
+ ## Staff Advisory Council - Staff Advisory Council
+ - [https://sac.wfu.edu](https://sac.wfu.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Deacon Health | Wake Forest University
+ - [https://shs.wfu.edu](https://shs.wfu.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - Social Media
+ - [https://social.wfu.edu](https://social.wfu.edu)
+ - date_published: 2024-05-07T22:28:45.337154+00:00
+
+ ## Home Page
+ - [https://sps.wfu.edu](https://sps.wfu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Wake Forest University Status
  - [https://status.is.wfu.edu](https://status.is.wfu.edu)
  - date_published: 2024-07-02T14:13:32.006500+00:00
@@ -3981,80 +4057,4 @@
  - [https://eev.ee](https://eev.ee)
  - date_published: 2022-02-01T05:32:35+00:00
  - tags: ['personal']
-
- ## eevee's doodles
- - [https://t.eev.ee](https://t.eev.ee)
- - date_published: 2019-07-18T20:07:08+00:00
-
- ## Eesti E-kaubanduse Liit | Ühendame e-kauplejad, e-poed
- - [https://e-kaubanduseliit.ee](https://e-kaubanduseliit.ee)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## EKI.ee - Eesti Keele Instituut
- - [http://www.eki.ee](http://www.eki.ee)
- - date_published: 2024-07-02T09:37:29+00:00
-
- ## E-Krediidiinfo
- - [https://www.e-krediidiinfo.ee](https://www.e-krediidiinfo.ee)
- - date_published: 2024-10-31T00:27:31.823745+00:00
-
- ## Tasuta veebipõhine sissejuhatus tehisintellekti mitte-ekspertidele
- - [https://www.elementsofai.ee](https://www.elementsofai.ee)
- - date_published: 2024-07-01T08:46:58.202929+00:00
-
- ## EEN – Eesti – Sinu ettevõtlustugi Euroopas!
- - [https://enterprise-europe.ee](https://enterprise-europe.ee)
- - date_published: 2024-09-04T12:26:15.770491+00:00
-
- ## Otsing
- - [https://adr.envir.ee](https://adr.envir.ee)
- - date_published: 2024-07-02T16:49:33.940370+00:00
-
- ## Avaleht | Kliimaministeerium
- - [https://envir.ee](https://envir.ee)
- - date_published: 2024-07-02T16:58:04.543525+00:00
-
- ## KOTKAS - AVE  v2.12.17
- - [https://kotkas.envir.ee](https://kotkas.envir.ee)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | LIFE envir
- - [https://life.envir.ee](https://life.envir.ee)
- - date_published: 2024-07-02T16:58:56.157529+00:00
-
- ## Eesti Olümpiakomitee
- - [https://www.eok.ee](https://www.eok.ee)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Eesti Rahva Muuseum
- - [https://erm.ee](https://erm.ee)
- - date_published: 2024-07-21T03:48:02.788665+00:00
-
- ## Arhiiv | ERR
- - [https://arhiiv.err.ee](https://arhiiv.err.ee)
- - date_published: 2024-05-07T22:46:54.613169+00:00
-
- ## uudised
- - [https://err.ee](https://err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Vikerraadio e-etteütlus 2024
- - [https://etteytlus.err.ee](https://etteytlus.err.ee)
- - date_published: 2024-07-02T16:30:53.208756+00:00
-
- ## ETV2 | ERR
- - [https://etv2.err.ee](https://etv2.err.ee)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## ETV | ERR
- - [https://etv.err.ee](https://etv.err.ee)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## ETV+ | ERR
- - [https://etvpluss.err.ee](https://etvpluss.err.ee)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## ID-kaart | ERR
- - [https://idauth.err.ee](https://idauth.err.ee)
- - date_published: 2024-07-02T16:36:32.995390+00:00
 

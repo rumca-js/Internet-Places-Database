@@ -1,3 +1,23 @@
+ ## FEITIAN – Technologies Co., Ltd.
+ - [https://portal.ftsafe.com](https://portal.ftsafe.com)
+ - date_published: 2024-10-09T12:46:07.393201+00:00
+
+ ## FTSE Russell Data Delivery System
+ - [https://data.ftse.com](https://data.ftse.com)
+ - date_published: 2024-10-15T19:41:19.713136+00:00
+
+ ## FTSE Russell Indices, Insights & Data
+ - [http://www.ftse.com](http://www.ftse.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## FTSE Russell Indices, Insights & Data
+ - [https://ftserussell.com](https://ftserussell.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## FTS InfoTech: The Enterprise iOS Developers
+ - [https://www.ftsinfotech.com](https://www.ftsinfotech.com)
+ - date_published: 2024-05-04T11:49:10.803998+00:00
+
  ## FT Specialist Legal information
  - [https://terms.ftspecialist.com](https://terms.ftspecialist.com)
  - date_published: 2023-11-13T11:49:38+00:00
@@ -4021,24 +4041,4 @@
  ## Hexer-Wiki
  - [https://hexer.gamepedia.com](https://hexer.gamepedia.com)
  - date_published: 2024-05-02T14:55:18.656297+00:00
-
- ## Leaguepedia | League of Legends Esports Wiki
- - [https://lol.gamepedia.com](https://lol.gamepedia.com)
- - date_published: 2023-11-02T10:40:59.813503+00:00
-
- ## Minecraft Wiki
- - [https://minecraft.gamepedia.com](https://minecraft.gamepedia.com)
- - date_published: 2024-05-13T02:39:40.699739+00:00
-
- ## MTG Wiki
- - [https://mtg.gamepedia.com](https://mtg.gamepedia.com)
- - date_published: 2024-08-16T23:29:49+00:00
-
- ## NBA 2K Esports Wiki
- - [https://nba2k-esports.gamepedia.com](https://nba2k-esports.gamepedia.com)
- - date_published: 2024-10-24T10:45:59+00:00
-
- ## Neverwinter Wiki
- - [https://neverwinter-fr.gamepedia.com](https://neverwinter-fr.gamepedia.com)
- - date_published: 2024-10-25T22:04:29+00:00
 

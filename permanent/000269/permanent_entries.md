@@ -1,3 +1,79 @@
+ ## Welcome to UCSC's Undergraduate Tutoring Center!
+ - [https://lss.ucsc.edu](https://lss.ucsc.edu)
+ - date_published: 2024-07-02T01:19:15.978780+00:00
+
+ ## UC Santa Cruz Magazine
+ - [https://magazine.ucsc.edu](https://magazine.ucsc.edu)
+ - date_published: 2024-05-07T20:59:39.177672+00:00
+
+ ## UCSC | Interactive Map
+ - [http://maps.ucsc.edu](http://maps.ucsc.edu)
+ - date_published: 2024-07-01T23:53:26.277148+00:00
+
+ ## Home | Materials Advancement Portal
+ - [https://materials.soe.ucsc.edu](https://materials.soe.ucsc.edu)
+ - date_published: 2013-11-06T20:01:26+00:00
+
+ ## YuJa: Please Sign In
+ - [https://media.ucsc.edu](https://media.ucsc.edu)
+ - date_published: 2024-07-01T23:52:16.858011+00:00
+
+ ## MyUCSC redirect to Login Page
+ - [https://my.ucsc.edu](https://my.ucsc.edu)
+ - date_published: 2019-01-29T22:53:06+00:00
+
+ ## University News & Events
+ - [https://news.ucsc.edu](https://news.ucsc.edu)
+ - date_published: 2023-10-25T19:01:04.525669+00:00
+
+ ## Office of Research – The Office of Research is your point of connection to the innovators and changemakers at UC Santa Cruz.
+ - [https://officeofresearch.ucsc.edu](https://officeofresearch.ucsc.edu)
+ - date_published: 2024-07-01T23:44:46+00:00
+
+ ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
+ - [https://online.ucsc.edu](https://online.ucsc.edu)
+ - date_published: 2024-07-01T23:26:20+00:00
+
+ ## (no title)
+ - [https://paytanlab.ucsc.edu](https://paytanlab.ucsc.edu)
+ - date_published: 2024-07-01T23:53:28.750139+00:00
+
+ ## Website Hosting
+ - [http://people.ucsc.edu](http://people.ucsc.edu)
+ - date_published: 2024-07-01T20:09:49.446559+00:00
+
+ ## Physics Redirection page
+ - [http://physics.ucsc.edu](http://physics.ucsc.edu)
+ - date_published: 2024-05-07T20:59:13.024174+00:00
+
+ ## AIS PISA Application Services
+ - [https://pisa.ucsc.edu](https://pisa.ucsc.edu)
+ - date_published: 2024-01-17T01:02:41+00:00
+
+ ## Privacy & Information Practices Department
+ - [https://privacy.ucsc.edu](https://privacy.ucsc.edu)
+ - date_published: 2024-04-30T05:50:19.456117+00:00
+
+ ## Welcome - UCSC Academic Recruit
+ - [https://recruit.ucsc.edu](https://recruit.ucsc.edu)
+ - date_published: 2024-07-13T05:02:58.431820+00:00
+
+ ## Office of the Registrar - UCSC
+ - [https://registrar.ucsc.edu](https://registrar.ucsc.edu)
+ - date_published: 2024-07-01T23:55:20.047511+00:00
+
+ ## UC Santa Cruz - Bias Response
+ - [https://reporthate.ucsc.edu](https://reporthate.ucsc.edu)
+ - date_published: 2024-07-01T23:56:04.029160+00:00
+
+ ## UCSC Special Reports
+ - [https://reports.news.ucsc.edu](https://reports.news.ucsc.edu)
+ - date_published: 2024-05-07T21:00:02.527977+00:00
+
+ ## Review Magazine, Fall 2015 - Review Magazine - UC Santa Cruz
+ - [http://review.ucsc.edu](http://review.ucsc.edu)
+ - date_published: 2024-07-01T23:54:00.479441+00:00
+
  ## Title IX
  - [http://safe.ucsc.edu](http://safe.ucsc.edu)
  - date_published: 2024-07-02T01:17:04.373169+00:00
@@ -3927,80 +4003,4 @@
  ## Free Speech at Iowa | The University of Iowa
  - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
  - date_published: 2024-06-24T23:12:18+00:00
-
- ## Graduate Admissions | The University of Iowa
- - [https://grad.admissions.uiowa.edu](https://grad.admissions.uiowa.edu)
- - date_published: 2024-06-27T20:03:43+00:00
-
- ## Homecoming | The University of Iowa
- - [https://homecoming.uiowa.edu](https://homecoming.uiowa.edu)
- - date_published: 2024-10-28T02:03:52+00:00
-
- ## Index of /
- - [http://homepage.divms.uiowa.edu](http://homepage.divms.uiowa.edu)
- - date_published: 2024-06-23T20:20:35.063395+00:00
-
- ## Index of /
- - [https://homepage.math.uiowa.edu](https://homepage.math.uiowa.edu)
- - date_published: 2024-06-17T03:14:06.021919+00:00
-
- ## University of Iowa HawkID Login
- - [https://hris.uiowa.edu](https://hris.uiowa.edu)
- - date_published: 2024-05-07T21:15:40.272963+00:00
-
- ## University Human Resources | The University of Iowa
- - [https://hr.uiowa.edu](https://hr.uiowa.edu)
- - date_published: 2024-07-01T22:05:37+00:00
-
- ## ICON
- - [https://icon.uiowa.edu](https://icon.uiowa.edu)
- - date_published: 2024-07-02T02:50:57.913890+00:00
-
- ## The Larned A. Waterman Iowa Nonprofit Resource Center | Striving to help Iowa’s charitable nonprofit organizations become more effective in building their communities.
- - [http://inrc.law.uiowa.edu](http://inrc.law.uiowa.edu)
- - date_published: 2024-07-15T01:40:40+00:00
-
- ## Instructional Resources and Lecture Demonstrations | Department of Physics & Astronomy | College of Liberal Arts & Sciences | The University of Iowa
- - [https://instructional-resources.physics.uiowa.edu](https://instructional-resources.physics.uiowa.edu)
- - date_published: 2024-07-02T02:53:39+00:00
-
- ## College of Dentistry and Dental Clinics IntraDent | A Tradition of Excellence Since 1882
- - [https://intradent.dentistry.uiowa.edu](https://intradent.dentistry.uiowa.edu)
- - date_published: 2024-07-02T01:14:37+00:00
-
- ## Information Technology Services | Connecting Campus
- - [https://its.uiowa.edu](https://its.uiowa.edu)
- - date_published: 2024-07-02T02:05:38+00:00
-
- ## Jobs @ Uiowa
- - [https://jobs.uiowa.edu](https://jobs.uiowa.edu)
- - date_published: 2024-05-07T21:15:52.716987+00:00
-
- ## School of Journalism and Mass Communication | College of Liberal Arts and Sciences | The University of Iowa
- - [https://journalism.uiowa.edu](https://journalism.uiowa.edu)
- - date_published: 2024-07-16T18:22:34+00:00
-
- ## The University of Iowa - College of Law
- - [https://law.uiowa.edu](https://law.uiowa.edu)
- - date_published: 2024-10-18T22:21:14.375335+00:00
-
- ## University of Iowa
- - [https://maps.uiowa.edu](https://maps.uiowa.edu)
- - date_published: 2024-07-02T02:50:55.939386+00:00
-
- ## Carver College of Medicine
- - [https://medicine.uiowa.edu](https://medicine.uiowa.edu)
- - date_published: 2024-05-07T21:15:54.496687+00:00
-
- ## Yannick Meurice | The University of Iowa
- - [https://meurice.sites.uiowa.edu](https://meurice.sites.uiowa.edu)
- - date_published: 2024-02-08T17:59:53.820467+00:00
-
- ## Home - MyUI
- - [https://myui.uiowa.edu](https://myui.uiowa.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Native American Council | The University of Iowa
- - [https://nativeamericancouncil.org.uiowa.edu](https://nativeamericancouncil.org.uiowa.edu)
- - date_published: 2024-05-07T21:15:22.740154+00:00
 

@@ -1,3 +1,23 @@
+ ## Fraxtal RPC
+ - [https://rpc.testnet.frax.com](https://rpc.testnet.frax.com)
+ - date_published: 2024-09-24T04:03:51.761697+00:00
+
+ ## Flox Leaderboard redirect
+ - [https://testnet.frax.com](https://testnet.frax.com)
+ - date_published: 2024-09-23T16:06:01.902006+00:00
+
+ ## Fraxtal Mainnet Network (frxETH) Blockchain Explorer
+ - [https://fraxscan.com](https://fraxscan.com)
+ - date_published: 2024-09-24T05:00:44.654091+00:00
+
+ ## Fraxtal Testnet Network Explorer
+ - [https://holesky.fraxscan.com](https://holesky.fraxscan.com)
+ - date_published: 2024-09-24T03:19:35.911073+00:00
+
+ ## Official Frank Frazetta Art Prints | Gallery Store
+ - [https://www.frazettagirls.com](https://www.frazettagirls.com)
+ - date_published: 2024-08-11T03:50:33.449802+00:00
+
  ## FRD Accel
  - [https://www.frdaccel.com](https://www.frdaccel.com)
  - date_published: 2024-07-13T11:59:14.337516+00:00
@@ -4009,24 +4029,4 @@
  ## FEITIAN ID Solution
  - [https://idsolution.ftsafe.com](https://idsolution.ftsafe.com)
  - date_published: 2022-11-15T08:49:55+00:00
-
- ## FEITIAN – Technologies Co., Ltd.
- - [https://portal.ftsafe.com](https://portal.ftsafe.com)
- - date_published: 2024-10-09T12:46:07.393201+00:00
-
- ## FTSE Russell Data Delivery System
- - [https://data.ftse.com](https://data.ftse.com)
- - date_published: 2024-10-15T19:41:19.713136+00:00
-
- ## FTSE Russell Indices, Insights & Data
- - [http://www.ftse.com](http://www.ftse.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## FTSE Russell Indices, Insights & Data
- - [https://ftserussell.com](https://ftserussell.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## FTS InfoTech: The Enterprise iOS Developers
- - [https://www.ftsinfotech.com](https://www.ftsinfotech.com)
- - date_published: 2024-05-04T11:49:10.803998+00:00
 

@@ -1,3 +1,108 @@
+ ## Coffee Cranks Co-operative
+ - [https://www.coffeecrankscoop.org.uk](https://www.coffeecrankscoop.org.uk)
+ - date_published: 2019-03-14T14:07:30+00:00
+
+ ## Communicating the Unthinkable - UK Cold War
+ - [https://coldwar.org.uk](https://coldwar.org.uk)
+ - date_published: 2020-10-15T00:00:00+00:00
+
+ ## Community Archives and Heritage Group
+ - [http://www.communityarchives.org.uk](http://www.communityarchives.org.uk)
+ - date_published: 2024-10-21T19:00:01.226316+00:00
+
+ ## Community Energy Scotland – Community Energy Scotland is a nationwide charity working with local people to help them make the most of their renewable energy resources
+ - [http://www.communityenergyscotland.org.uk](http://www.communityenergyscotland.org.uk)
+ - date_published: 2024-07-12T05:57:52.170317+00:00
+
+ ## Donate A Laptop | Community Techaid
+ - [https://www.communitytechaid.org.uk](https://www.communitytechaid.org.uk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Compass - Compass
+ - [http://www.compassonline.org.uk](http://www.compassonline.org.uk)
+ - date_published: 2024-10-21T11:59:30.433145+00:00
+
+ ## Home Page | Compton Verney
+ - [http://www.comptonverney.org.uk](http://www.comptonverney.org.uk)
+ - date_published: 2024-06-24T09:23:21.379064+00:00
+
+ ## Computing at School (CAS) Home Page.
+ - [https://computingatschool.org.uk](https://computingatschool.org.uk)
+ - date_published: 2024-05-08T11:35:26.498108+00:00
+
+ ## Online Discussions
+ - [https://forum.computingatschool.org.uk](https://forum.computingatschool.org.uk)
+ - date_published: 2024-07-08T14:28:27.688032+00:00
+
+ ## The Centre for Computing History - Computer and Video Game Museum - Cambridge
+ - [https://computinghistory.org.uk](https://computinghistory.org.uk)
+ - date_published: 2024-10-17T12:47:46.785333+00:00
+
+ ## Gerlyver Kernewek |
+ - [http://www.cornishdictionary.org.uk](http://www.cornishdictionary.org.uk)
+ - date_published: 2024-06-30T07:24:54.076932+00:00
+
+ ## cosmolog
+ - [http://cosmolog.org.uk](http://cosmolog.org.uk)
+ - date_published: 2015-03-30T15:58:59+00:00
+
+ ## COUNTERPRESS – Books
+ - [https://counterpress.org.uk](https://counterpress.org.uk)
+ - date_published: 2024-05-08T06:59:10.428851+00:00
+
+ ## Homepage - CPRE Kent
+ - [https://www.cprekent.org.uk](https://www.cprekent.org.uk)
+ - date_published: 2024-10-21T09:10:37.994031+00:00
+
+ ## Welcome to CPSL Mind! | Supporting the East of England
+ - [https://www.cpslmind.org.uk](https://www.cpslmind.org.uk)
+ - date_published: 2024-10-20T03:21:05.005717+00:00
+
+ ## Care Quality Commission
+ - [https://cqc.org.uk](https://cqc.org.uk)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Latest News - Craig Murray
+ - [https://www.craigmurray.org.uk](https://www.craigmurray.org.uk)
+ - date_published: 2023-12-11T15:40:51.913442+00:00
+ - tags: ['personal']
+
+ ## CRASH magazine: The Online Edition
+ - [http://www.crashonline.org.uk](http://www.crashonline.org.uk)
+ - date_published: 2024-07-11T12:07:43.220008+00:00
+
+ ## ©º - The Creative Organisation - index
+ - [https://creative.org.uk](https://creative.org.uk)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## The Creative Science Centre - by Dr Jonathan P. Hare
+ - [https://www.creative-science.org.uk](https://www.creative-science.org.uk)
+ - date_published: 2015-02-28T20:39:35+00:00
+
+ ## Creative Space
+ - [https://creative-space.org.uk](https://creative-space.org.uk)
+ - date_published: 2024-06-15T04:16:46.189829+00:00
+
+ ## Cruse Bereavement Support
+ - [https://www.cruse.org.uk](https://www.cruse.org.uk)
+ - date_published: 2024-10-20T10:42:22.186920+00:00
+
+ ## Home | CSA Centre
+ - [https://csacentre.org.uk](https://csacentre.org.uk)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home - Centre for Sustainable Energy
+ - [https://www.cse.org.uk](https://www.cse.org.uk)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Welcome To Cyber Security Unity - Cyber Security Unity
+ - [https://csu.org.uk](https://csu.org.uk)
+ - date_published: 2021-11-19T08:36:14+00:00
+
+ ## Home
+ - [https://cte.org.uk](https://cte.org.uk)
+ - date_published: 2024-10-21T10:18:44.161999+00:00
+
  ## Cambridge University Health Partners – CUHP
  - [https://www.cuhp.org.uk](https://www.cuhp.org.uk)
  - date_published: 2024-06-17T17:37:58.172407+00:00
@@ -3920,112 +4025,4 @@
  ## Caolan McMahon
  - [https://caolan.uk](https://caolan.uk)
  - date_published: 2024-04-25T08:22:55+00:00
-
- ## Cell Ag UK
- - [https://www.cellag.uk](https://www.cellag.uk)
- - date_published: 2022-07-23T00:00:00+00:00
-
- ## Bristol Open 27-30 December 2024 - Chess Tournaments in Bristol
- - [https://www.chess4us.uk](https://www.chess4us.uk)
- - date_published: 2024-10-20T22:02:13.940562+00:00
-
- ## Laura Kishimoto
- - [https://chicgeek.uk](https://chicgeek.uk)
- - date_published: 2022-12-13T13:44:54+00:00
-
- ## Home - Chirag Desai
- - [https://chiragdesai.uk](https://chiragdesai.uk)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Christian Brown - Engineering Manager - London
- - [https://christianbrown.uk](https://christianbrown.uk)
- - date_published: 2024-01-27T16:42:22.450187+00:00
-
- ## Home
- - [https://chriswales.uk](https://chriswales.uk)
- - date_published: 2024-06-01T05:06:30.192823+00:00
- - tags: ['personal']
-
- ## Chris Were's website
- - [https://chriswere.uk](https://chriswere.uk)
- - date_published: 2020-05-13T00:00:00+00:00
-
- ## Custom Domain by Bitly
- - [https://citysprint.uk](https://citysprint.uk)
- - date_published: 2024-06-15T00:55:38+00:00
-
- ## Dave Clements - British expat in Portland, OR
- - [https://dave.clements.uk](https://dave.clements.uk)
- - date_published: 2024-06-15T18:11:46.318830+00:00
-
- ## Ellie Clements
- - [https://ellie.clements.uk](https://ellie.clements.uk)
- - date_published: 2024-09-18T21:25:13.970507+00:00
-
- ## Jack Clements
- - [https://jack.clements.uk](https://jack.clements.uk)
- - date_published: 2024-09-18T21:25:13.002100+00:00
-
- ## Martina Clements
- - [https://martina.clements.uk](https://martina.clements.uk)
- - date_published: 2024-09-18T21:25:09.062640+00:00
-
- ## Cleveland Clinic London: Delivering World Class Care
- - [https://clevelandcliniclondon.uk](https://clevelandcliniclondon.uk)
- - date_published: 2024-07-12T21:54:40.522660+00:00
-
- ## Closer to the edge – Walking the coast of Britain
- - [https://closertotheedge.uk](https://closertotheedge.uk)
- - date_published: 2023-12-10T17:30:01.706556+00:00
- - tags: ['personal']
-
- ## Log In - AzuraCast
- - [https://azuracast.clubhits.uk](https://azuracast.clubhits.uk)
- - date_published: 2024-07-20T23:09:49.378807+00:00
-
- ## ClubHitsUK – Club Anth
- - [https://clubhits.uk](https://clubhits.uk)
- - date_published: 2024-04-30T08:03:53.142616+00:00
-
- ## Code Like A Mother - Like only a mother could
- - [https://codelikeamother.uk](https://codelikeamother.uk)
- - date_published: 2024-07-12T09:01:53.637128+00:00
-
- ## Home
- - [https://www.commodoreblog.uk](https://www.commodoreblog.uk)
- - date_published: 2024-07-06T08:12:03+00:00
-
- ## concertman
- - [https://concertman.uk](https://concertman.uk)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## CongressHub – Registration System
- - [https://congresshub.uk](https://congresshub.uk)
- - date_published: 2024-07-01T20:05:13.113288+00:00
-
- ## Home - CoreLogic
- - [https://www.corelogic.uk](https://www.corelogic.uk)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Online C++ Conference - 28th February - 2nd March - C++Online
- - [https://cpponline.uk](https://cpponline.uk)
- - date_published: 2024-05-25T09:50:31.225642+00:00
- - tags: ['conference']
-
- ## Home : C++ On Sea
- - [https://cpponsea.uk](https://cpponsea.uk)
- - date_published: 2024-07-04T07:39:03.378644+00:00
- - tags: ['conference', 'c++']
-
- ## The Crespo-Otero Research Group
- - [https://crespootero.uk](https://crespootero.uk)
- - date_published: 2024-10-19T05:37:58.785279+00:00
-
- ## BMVA Computer Vision Summer School 2022
- - [https://cvss2022-uea.uk](https://cvss2022-uea.uk)
- - date_published: 2024-08-07T09:38:01+00:00
-
- ## Blank
- - [https://www.cy2.uk](https://www.cy2.uk)
- - date_published: 2024-01-03T16:17:36+00:00
 

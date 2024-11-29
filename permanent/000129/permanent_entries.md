@@ -1,3 +1,39 @@
+ ## AutoApps Forums
+ - [https://forum.joaoapps.com](https://forum.joaoapps.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Tasker and Join – Automate Your Life
+ - [https://joaoapps.com](https://joaoapps.com)
+ - date_published: 2024-06-16T21:23:28.366857+00:00
+
+ ## Tasker for Android
+ - [https://tasker.joaoapps.com](https://tasker.joaoapps.com)
+ - date_published: 2024-05-01T07:55:16.214506+00:00
+
+ ## João Borges - Product Designer for apps and websites
+ - [https://joaobborges.com](https://joaobborges.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home
+ - [https://joaodlf.com](https://joaodlf.com)
+ - date_published: 2023-10-25T15:29:35.649022+00:00
+
+ ## J'o Lutz Photo
+ - [https://joaolutz.com](https://joaolutz.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
+ - [https://joaopescada.com](https://joaopescada.com)
+ - date_published: 2024-05-11T10:16:58.802310+00:00
+
+ ## Simple Analytics
+ - [https://sa.joaopescada.com](https://sa.joaopescada.com)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Joaquim Rocha
+ - [https://joaquimrocha.com](https://joaquimrocha.com)
+ - date_published: 2024-09-22T00:00:00+00:00
+
  ## INICIO - Joaquín Sánchez Gil
  - [https://joaquinsanchezgil.com](https://joaquinsanchezgil.com)
  - date_published: 2024-03-30T00:00:00+00:00
@@ -1213,6 +1249,10 @@
  ## JM Business
  - [https://johnmurraybusiness.com](https://johnmurraybusiness.com)
  - date_published: 2024-10-21T03:16:07.653266+00:00
+
+ ## John Nunemaker
+ - [https://www.johnnunemaker.com](https://www.johnnunemaker.com)
+ - date_published: 2024-11-28T17:02:32.032347+00:00
 
  ## WordPress › Error
  - [https://www.johnnyappleseedfest.com](https://www.johnnyappleseedfest.com)
@@ -4035,44 +4075,4 @@
  ## JP Camara
  - [https://jpcamara.com](https://jpcamara.com)
  - date_published: 2023-10-25T15:32:02.482701+00:00
-
- ## JPC van Heijst | Aviation - Aerial - Travel Photography | jpcvanheijst.com
- - [https://jpcvanheijst.com](https://jpcvanheijst.com)
- - date_published: 2023-10-25T15:32:13.512617+00:00
-
- ## Justin Danks
- - [https://www.jpdanks.com](https://www.jpdanks.com)
- - date_published: 2024-07-08T22:29:38.786524+00:00
-
- ## John P. Dickerson
- - [https://jpdickerson.com](https://jpdickerson.com)
- - date_published: 2023-11-06T05:42:54+00:00
-
- ## Cierpliwości...
- - [https://www.jpeds.com](https://www.jpeds.com)
- - date_published: 2024-06-20T02:38:27.347689+00:00
-
- ## JPEG XS Patent Pool
- - [https://www.jpegxspool.com](https://www.jpegxspool.com)
- - date_published: 2024-05-06T21:34:48.961988+00:00
-
- ## JPEG XS专利库
- - [https://zh.jpegxspool.com](https://zh.jpegxspool.com)
- - date_published: 2024-06-27T13:25:53.491038+00:00
-
- ## jpegzilla - creative developer
- - [https://jpegzilla.com](https://jpegzilla.com)
- - date_published: 2024-03-25T18:18:31+00:00
-
- ## Japanese Classic Movies And TVSeries - Japanese Classic Movies, Japanese Classic TVSeries, Jindaigeki, Action, Tora-san, Zatoichi
- - [https://jp-films.com](https://jp-films.com)
- - date_published: 2024-11-12T17:08:46.932163+00:00
-
- ## jpgHD - Lossless Restoration of Old Photos with AI
- - [https://jpghd.com](https://jpghd.com)
- - date_published: 2024-10-30T23:12:23.667942+00:00
-
- ## jpgRM - AI Image Magic Cleanup
- - [https://jpgrm.com](https://jpgrm.com)
- - date_published: 2024-06-19T21:37:43.726856+00:00
 

@@ -1,3 +1,15 @@
+ ## airfocus help center
+ - [https://help.airfocus.com](https://help.airfocus.com)
+ - date_published: 2024-10-30T21:11:45.865446+00:00
+
+ ## airfocus GmbH status
+ - [https://status.airfocus.com](https://status.airfocus.com)
+ - date_published: 2024-10-30T21:11:52.856730+00:00
+
+ ## Apply to Join the Air Force - U.S. Air Force
+ - [https://my.airforce.com](https://my.airforce.com)
+ - date_published: 2024-06-25T19:45:50+00:00
+
  ## U.S. Air Force
  - [https://www.airforce.com](https://www.airforce.com)
  - date_published: 2024-04-18T17:03:48+00:00
@@ -4054,16 +4066,4 @@
  ## Algebra Jump
  - [https://algebrajump.com](https://algebrajump.com)
  - date_published: 2023-11-13T13:58:46+00:00
-
- ## Home - Algemeiner.com
- - [https://algemeiner.com](https://algemeiner.com)
- - date_published: 2023-11-02T18:22:20.943073+00:00
-
- ## Donate - Algemeiner.com
- - [https://join.algemeiner.com](https://join.algemeiner.com)
- - date_published: 2022-12-16T18:06:58+00:00
-
- ## الرئيسية - جريدة الغد | مصدرك الأول لأخبار الأردن والعالم
- - [https://alghad.com](https://alghad.com)
- - date_published: 2024-05-06T15:25:22.129652+00:00
 

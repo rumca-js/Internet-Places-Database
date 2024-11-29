@@ -1,3 +1,90 @@
+ ## Midwest Integrated Center for Computational Materials - Home
+ - [https://miccom-center.uchicago.edu](https://miccom-center.uchicago.edu)
+ - date_published: 2024-06-19T02:18:05+00:00
+
+ ## Microbiome Center | The University of Chicago
+ - [https://microbiome.uchicago.edu](https://microbiome.uchicago.edu)
+ - date_published: 2024-06-17T17:37:40+00:00
+
+ ## Center for Municipal Finance – Sandbox | University of Chicago
+ - [https://munifinance.uchicago.edu](https://munifinance.uchicago.edu)
+ - date_published: 2024-07-03T03:09:15+00:00
+
+ ## myCHOICE | Professional Development for STEM PhDs
+ - [http://mychoice.uchicago.edu](http://mychoice.uchicago.edu)
+ - date_published: 2024-07-01T22:35:12.450113+00:00
+
+ ## my.UChicago
+ - [https://my.uchicago.edu](https://my.uchicago.edu)
+ - date_published: 2023-09-08T13:36:01+00:00
+
+ ## PhD Program in Neurobiology | The University of Chicago
+ - [https://neurograd.uchicago.edu](https://neurograd.uchicago.edu)
+ - date_published: 2024-07-01T15:17:18+00:00
+
+ ## Neuroscience at the University of Chicago
+ - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
+ - date_published: 2024-05-07T20:46:04.000431+00:00
+
+ ## News
+                
+            
+            
+                
+                    
+                        - The University of Chicago Library News
+                    
+                
+            
+            - The University of Chicago Library
+ - [https://news.lib.uchicago.edu](https://news.lib.uchicago.edu)
+ - date_published: 2024-06-17T14:45:21.027604+00:00
+
+ ## University of Chicago News
+ - [https://news.uchicago.edu](https://news.uchicago.edu)
+ - date_published: 2023-10-25T19:00:12.204385+00:00
+
+ ## Nightshade: Protecting Copyright
+ - [https://nightshade.cs.uchicago.edu](https://nightshade.cs.uchicago.edu)
+ - date_published: 2019-02-12T00:00:00+00:00
+
+ ## Odyssey | Odyssey
+ - [https://odyssey.uchicago.edu](https://odyssey.uchicago.edu)
+ - date_published: 2024-05-28T10:34:22+00:00
+
+ ## Institute for the Study of Ancient Cultures
+ - [http://oi.uchicago.edu](http://oi.uchicago.edu)
+ - date_published: 2024-06-28T14:53:58+00:00
+
+ ## Welcome, Class of 2028
+ - [https://orientation.uchicago.edu](https://orientation.uchicago.edu)
+ - date_published: 2024-07-01T20:20:27+00:00
+
+ ## For Parents & Families
+ - [http://parents.uchicago.edu](http://parents.uchicago.edu)
+ - date_published: 2024-06-28T16:45:28+00:00
+
+ ## Sir Thomas Browne
+ - [https://penelope.uchicago.edu](https://penelope.uchicago.edu)
+ - date_published: 2021-01-11T15:40:59+00:00
+ - tags: ['literature', 'writing']
+
+ ## Full-Time Faculty - Department of Computer Science
+ - [http://people.cs.uchicago.edu](http://people.cs.uchicago.edu)
+ - date_published: 2024-06-22T09:37:36.941568+00:00
+
+ ## Welcome to Perseus under PhiloLogic
+ - [https://perseus.uchicago.edu](https://perseus.uchicago.edu)
+ - date_published: 2021-06-07T01:20:19+00:00
+
+ ## Department of Philosophy | Department of Philosophy
+ - [https://philosophy.uchicago.edu](https://philosophy.uchicago.edu)
+ - date_published: 2024-06-23T09:42:25.457509+00:00
+
+ ## Physical Sciences Division | The University of Chicago
+ - [https://physical-sciences.uchicago.edu](https://physical-sciences.uchicago.edu)
+ - date_published: 2024-06-15T22:11:19+00:00
+
  ## Physical Sciences Division | The University of Chicago
  - [https://physicalsciences.uchicago.edu](https://physicalsciences.uchicago.edu)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -3932,80 +4019,4 @@
  ## Languages, Systems, and Data Lab @ UCSC
  - [https://lsd.ucsc.edu](https://lsd.ucsc.edu)
  - date_published: 2024-01-22T00:00:00+00:00
-
- ## Welcome to UCSC's Undergraduate Tutoring Center!
- - [https://lss.ucsc.edu](https://lss.ucsc.edu)
- - date_published: 2024-07-02T01:19:15.978780+00:00
-
- ## UC Santa Cruz Magazine
- - [https://magazine.ucsc.edu](https://magazine.ucsc.edu)
- - date_published: 2024-05-07T20:59:39.177672+00:00
-
- ## UCSC | Interactive Map
- - [http://maps.ucsc.edu](http://maps.ucsc.edu)
- - date_published: 2024-07-01T23:53:26.277148+00:00
-
- ## Home | Materials Advancement Portal
- - [https://materials.soe.ucsc.edu](https://materials.soe.ucsc.edu)
- - date_published: 2013-11-06T20:01:26+00:00
-
- ## YuJa: Please Sign In
- - [https://media.ucsc.edu](https://media.ucsc.edu)
- - date_published: 2024-07-01T23:52:16.858011+00:00
-
- ## MyUCSC redirect to Login Page
- - [https://my.ucsc.edu](https://my.ucsc.edu)
- - date_published: 2019-01-29T22:53:06+00:00
-
- ## University News & Events
- - [https://news.ucsc.edu](https://news.ucsc.edu)
- - date_published: 2023-10-25T19:01:04.525669+00:00
-
- ## Office of Research – The Office of Research is your point of connection to the innovators and changemakers at UC Santa Cruz.
- - [https://officeofresearch.ucsc.edu](https://officeofresearch.ucsc.edu)
- - date_published: 2024-07-01T23:44:46+00:00
-
- ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
- - [https://online.ucsc.edu](https://online.ucsc.edu)
- - date_published: 2024-07-01T23:26:20+00:00
-
- ## (no title)
- - [https://paytanlab.ucsc.edu](https://paytanlab.ucsc.edu)
- - date_published: 2024-07-01T23:53:28.750139+00:00
-
- ## Website Hosting
- - [http://people.ucsc.edu](http://people.ucsc.edu)
- - date_published: 2024-07-01T20:09:49.446559+00:00
-
- ## Physics Redirection page
- - [http://physics.ucsc.edu](http://physics.ucsc.edu)
- - date_published: 2024-05-07T20:59:13.024174+00:00
-
- ## AIS PISA Application Services
- - [https://pisa.ucsc.edu](https://pisa.ucsc.edu)
- - date_published: 2024-01-17T01:02:41+00:00
-
- ## Privacy & Information Practices Department
- - [https://privacy.ucsc.edu](https://privacy.ucsc.edu)
- - date_published: 2024-04-30T05:50:19.456117+00:00
-
- ## Welcome - UCSC Academic Recruit
- - [https://recruit.ucsc.edu](https://recruit.ucsc.edu)
- - date_published: 2024-07-13T05:02:58.431820+00:00
-
- ## Office of the Registrar - UCSC
- - [https://registrar.ucsc.edu](https://registrar.ucsc.edu)
- - date_published: 2024-07-01T23:55:20.047511+00:00
-
- ## UC Santa Cruz - Bias Response
- - [https://reporthate.ucsc.edu](https://reporthate.ucsc.edu)
- - date_published: 2024-07-01T23:56:04.029160+00:00
-
- ## UCSC Special Reports
- - [https://reports.news.ucsc.edu](https://reports.news.ucsc.edu)
- - date_published: 2024-05-07T21:00:02.527977+00:00
-
- ## Review Magazine, Fall 2015 - Review Magazine - UC Santa Cruz
- - [http://review.ucsc.edu](http://review.ucsc.edu)
- - date_published: 2024-07-01T23:54:00.479441+00:00
 

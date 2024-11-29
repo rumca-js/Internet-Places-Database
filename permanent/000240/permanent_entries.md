@@ -1,3 +1,71 @@
+ ## Open Science - Ceitec.cz
+ - [http://openscience.ceitec.cz](http://openscience.ceitec.cz)
+ - date_published: 2024-09-16T00:41:58.672569+00:00
+
+ ## Atlas.cz
+ - [https://atlas.centrum.cz](https://atlas.centrum.cz)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Najisto - katalog ověřených firem
+ - [https://najisto.centrum.cz](https://najisto.centrum.cz)
+ - date_published: 2024-09-05T16:49:49.217480+00:00
+
+ ## Centrum.cz
+ - [https://www.centrum.cz](https://www.centrum.cz)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Gateway to the EU Institutions
+ - [https://cesidoeu.cz](https://cesidoeu.cz)
+ - date_published: 2024-07-01T10:09:44.965092+00:00
+
+ ## Stav e-commerce v ČR v roce 2023
+ - [https://ceska-ecommerce.cz](https://ceska-ecommerce.cz)
+ - date_published: 2024-10-18T03:47:08.524204+00:00
+
+ ## Úvodní stránka - Česká pošta
+ - [https://www.ceskaposta.cz](https://www.ceskaposta.cz)
+ - date_published: 2024-09-27T09:23:26.340607+00:00
+
+ ## ČT art
+ - [https://art.ceskatelevize.cz](https://art.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:10:08.997346+00:00
+
+ ## Česká televize
+ - [https://ceskatelevize.cz](https://ceskatelevize.cz)
+ - date_published: 2023-12-09T12:19:22.067454+00:00
+
+ ## ČT24 — Nejdůvěryhodnější zpravodajský web v ČR | Česká televize
+ - [https://ct24.ceskatelevize.cz](https://ct24.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:09:53.973515+00:00
+
+ ## Pořady a zábava pro děti – Déčko – Česká televize
+ - [https://decko.ceskatelevize.cz](https://decko.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:10:02.026753+00:00
+
+ ## Vzdělávací videa pro školu i zábavné učení doma - ČT edu - Česká televize
+ - [https://edu.ceskatelevize.cz](https://edu.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:10:00.697645+00:00
+
+ ## Vítejte v e-shopu České televize | eshop.ceskatelevize.cz
+ - [https://eshop.ceskatelevize.cz](https://eshop.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:10:04.708863+00:00
+
+ ## Welcome to nginx!
+ - [https://fs.ceskatelevize.cz](https://fs.ceskatelevize.cz)
+ - date_published: 2020-04-21T14:09:01+00:00
+
+ ## Přihlášení
+ - [https://moje.ceskatelevize.cz](https://moje.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:10:06.907838+00:00
+
+ ## Přehrávač České televize
+ - [https://player.ceskatelevize.cz](https://player.ceskatelevize.cz)
+ - date_published: 2024-06-29T10:04:16+00:00
+
+ ## ČT sport – Česká televize
+ - [https://sport.ceskatelevize.cz](https://sport.ceskatelevize.cz)
+ - date_published: 2024-05-10T06:09:56.658216+00:00
+
  ## Teletext České televize
  - [https://teletext.ceskatelevize.cz](https://teletext.ceskatelevize.cz)
  - date_published: 2024-05-10T06:10:02.743144+00:00
@@ -3950,72 +4018,4 @@
  ## Home
  - [https://planobnovycr.cz](https://planobnovycr.cz)
  - date_published: 2024-05-07T19:04:57.935081+00:00
-
- ## NPO Visual Guidelines
- - [http://www.designmanual.planobnovycr.cz](http://www.designmanual.planobnovycr.cz)
- - date_published: 2024-01-26T14:03:44+00:00
-
- ## PlatímPak - odložená platba | Raiffeisenbank
- - [https://platimpak.cz](https://platimpak.cz)
- - date_published: 2024-06-16T06:54:21.981975+00:00
-
- ## PLAY.CZ ICECAST server
- - [https://icecast8.play.cz](https://icecast8.play.cz)
- - date_published: 2024-09-05T16:49:51.085636+00:00
-
- ## Vítejte na Playboy.cz
- - [https://www.playboy.cz](https://www.playboy.cz)
- - date_published: 2024-09-05T17:07:30.019966+00:00
-
- ## PlayGoSmart
- - [https://www.playgosmart.cz](https://www.playgosmart.cz)
- - date_published: 2024-09-16T02:37:25.787303+00:00
-
- ## Počasí & Radar Česká republika
- - [https://pocasiaradar.cz](https://pocasiaradar.cz)
- - date_published: 2024-05-07T13:25:32.419893+00:00
-
- ## pocketbook
- - [https://pocketbook.cz](https://pocketbook.cz)
- - date_published: 2024-07-20T16:12:45.547313+00:00
-
- ## Podcast roku – anketa o nejlepší český podcast
- - [https://www.podcastroku.cz](https://www.podcastroku.cz)
- - date_published: 2024-07-17T07:16:53.740395+00:00
-
- ## BusinessCenter.cz
- - [https://businesscenter.podnikatel.cz](https://businesscenter.podnikatel.cz)
- - date_published: 2024-09-09T22:09:27.366823+00:00
-
- ## Podnikatel.cz - největší server pro podnikatele v ČR
- - [https://www.podnikatel.cz](https://www.podnikatel.cz)
- - date_published: 2024-09-09T22:08:57.235664+00:00
-
- ## Pojď hrát hokej
- - [https://www.pojdhrathokej.cz](https://www.pojdhrathokej.cz)
- - date_published: 2024-07-17T07:19:02.098006+00:00
-
- ## Pojištění.cz - 100% online pojištění
- - [https://www.pojisteni.cz](https://www.pojisteni.cz)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## Pompo.cz - Hračky online
- - [https://www.pompo.cz](https://www.pompo.cz)
- - date_published: 2024-09-05T17:05:18.407824+00:00
-
- ## POPAI CENTRAL EUROPE
- - [http://www.popai.cz](http://www.popai.cz)
- - date_published: 2024-10-30T09:35:16.422397+00:00
-
- ## Porsche InterAuto
- - [https://auto.porsche.cz](https://auto.porsche.cz)
- - date_published: 2024-05-06T23:42:40.757737+00:00
-
- ## Porsche InterAuto
- - [http://porsche.cz](http://porsche.cz)
- - date_published: 2024-06-28T19:27:50.022684+00:00
-
- ## Porsche Lifestyle | Úvodní stránka
- - [https://selection.porsche.cz](https://selection.porsche.cz)
- - date_published: 2024-06-28T19:27:47.903555+00:00
 

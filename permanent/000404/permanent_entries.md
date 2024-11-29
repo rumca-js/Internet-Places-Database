@@ -1,3 +1,91 @@
+ ## WCCI – Warsaw Course on Cardiovascular Interventions
+ - [http://wcci.pl](http://wcci.pl)
+ - date_published: 2024-08-18T17:08:54.600641+00:00
+
+ ## Strona główna :: Biuletyn Informacji Publicznej Wielkopolskiego Centrum Onkologii
+ - [http://bip.wco.pl](http://bip.wco.pl)
+ - date_published: 2024-08-18T16:49:05.340223+00:00
+
+ ## Start - Portal pacjenta
+ - [https://erejestracja.wco.pl](https://erejestracja.wco.pl)
+ - date_published: 2024-08-18T16:49:10+00:00
+
+ ## Wielkopolskie Centrum Onkologii - Zakład opieki zdrowotnej, radioterapia, chemioterapia, immunoterapia, chirurgia onkologiczna, ginekologia onkologiczna.
+ - [http://spacerwirtualny.wco.pl](http://spacerwirtualny.wco.pl)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Panel szkoleń z ochrony danych osobowych: STAŻYSTA, PRAKTYKANT, STUDENT :: Wielkopolskie Centrum Onkologii
+ - [https://student.wco.pl](https://student.wco.pl)
+ - date_published: 2024-08-18T16:49:05.976021+00:00
+
+ ## Wielkopolskie Centrum Onkologii - Zakład opieki zdrowotnej, radioterapia, chemioterapia, immunoterapia, chirurgia onkologiczna, ginekologia onkologiczna.
+ - [https://wco.pl](https://wco.pl)
+ - date_published: 2023-10-25T22:32:40.813278+00:00
+
+ ## Wrocławskie Centrum Rozwoju Społecznego – strona główna
+ - [https://wcrs.pl](https://wcrs.pl)
+ - date_published: 2024-07-17T15:44:08.331482+00:00
+
+ ## Wrocławskie Centrum Sprawiedliwości Naprawczej – Wrocławskie Centrum Integracji
+ - [https://www.wcsn.pl](https://www.wcsn.pl)
+ - date_published: 2024-07-17T15:44:00.923828+00:00
+
+ ## Spółka - WDB S.A. - Brokerska Grupa Ubezpieczeniowa
+ - [https://www.wdbsa.pl](https://www.wdbsa.pl)
+ - date_published: 2024-09-02T13:35:08.772805+00:00
+
+ ## Wydawnictwo W drodze - książki i miesięcznik dla szukających drogi
+ - [https://wdrodze.pl](https://wdrodze.pl)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Main page
+ - [http://wds.pl](http://wds.pl)
+ - date_published: 2024-09-03T19:26:07.445832+00:00
+
+ ## Formularz kontaktowy
+ - [https://formularz-kontaktowy.webankieta.pl](https://formularz-kontaktowy.webankieta.pl)
+ - date_published: 2024-10-22T21:14:15.841548+00:00
+
+ ## Pomoc - Webankieta.pl
+ - [https://pomoc.webankieta.pl](https://pomoc.webankieta.pl)
+ - date_published: 2024-10-22T21:14:18.258047+00:00
+
+ ## Webankieta – twórz ankiety online i formularze
+ - [https://www.webankieta.pl](https://www.webankieta.pl)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Logowanie - Sargas
+ - [http://sargas.webd.pl](http://sargas.webd.pl)
+ - date_published: 2024-07-10T02:05:22.187122+00:00
+
+ ## Artemida - Wojownicy PBF
+ - [http://www.artemida.webd.pl](http://www.artemida.webd.pl)
+ - date_published: 2024-07-12T15:10:44.879487+00:00
+
+ ## Strona główna
+ - [http://www.ojci3c.webd.pl](http://www.ojci3c.webd.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Profesjonalne usługi internetowe dla firm - KOCHAMYINTERNET.PL
+ - [https://web-future.pl](https://web-future.pl)
+ - date_published: 2024-10-31T22:21:22+00:00
+
+ ## Szybki cloud hosting i niezawodne serwery VPS KVM oraz Windows - webh.pl
+ - [https://webh.pl](https://webh.pl)
+ - date_published: 2024-08-19T15:04:16.173532+00:00
+
+ ## WebHelp
+ - [http://webhelp.pl](http://webhelp.pl)
+ - date_published: 2020-12-14T11:51:53+00:00
+
+ ## webio.pl - Hosting Webio
+ - [https://webio.pl](https://webio.pl)
+ - date_published: 2024-08-18T11:08:00.068809+00:00
+
+ ## Error 403
+ - [http://hydrolog.weblider24.pl](http://hydrolog.weblider24.pl)
+ - date_published: 2024-07-13T14:02:54.409509+00:00
+
  ## Oprogramowanie sklepu internetowego
  - [https://www.web-market.pl](https://www.web-market.pl)
  - date_published: 2024-10-07T22:43:09.282871+00:00
@@ -3949,92 +4037,4 @@
  ## A Ágora
  - [http://aagora.blogspot.pt](http://aagora.blogspot.pt)
  - date_published: 2024-07-11T18:49:57+00:00
-
- ## Poéticas ao acaso
- - [http://alico-poeticasaoacaso.blogspot.pt](http://alico-poeticasaoacaso.blogspot.pt)
- - date_published: 2024-03-19T07:37:01+00:00
-
- ## Alma Tua
- - [http://almatua.blogspot.pt](http://almatua.blogspot.pt)
- - date_published: 2024-07-03T06:47:12+00:00
-
- ## AMADEU BAPTISTA
- - [http://amadeubaptista.blogspot.pt](http://amadeubaptista.blogspot.pt)
- - date_published: 2024-07-11T18:03:07+00:00
-
- ## Blogger
- - [http://andrelitteris.blogspot.pt](http://andrelitteris.blogspot.pt)
- - date_published: 2024-07-12T21:12:28.179628+00:00
-
- ## A Odisséia de Penélope
- - [http://aodisseiadepenelope.blogspot.pt](http://aodisseiadepenelope.blogspot.pt)
- - date_published: 2024-03-13T01:46:13+00:00
-
- ## AROS Playground
- - [https://arosgamer.blogspot.pt](https://arosgamer.blogspot.pt)
- - date_published: 2024-03-13T08:56:51+00:00
-
- ## AROS Playground Reviews
- - [http://arosgamereview.blogspot.pt](http://arosgamereview.blogspot.pt)
- - date_published: 2024-08-31T14:19:04+00:00
-
- ## Do trapézio, sem rede
- - [http://arspoetica-lp.blogspot.pt](http://arspoetica-lp.blogspot.pt)
- - date_published: 2024-06-13T04:00:16+00:00
-
- ## O Fim
- - [http://artedofim.blogspot.pt](http://artedofim.blogspot.pt)
- - date_published: 2024-07-12T01:46:07+00:00
-
- ## Baú de Guardados
- - [http://badeguardados.blogspot.pt](http://badeguardados.blogspot.pt)
- - date_published: 2024-06-22T05:35:29+00:00
-
- ## Barcaças
- - [http://barcacas.blogspot.pt](http://barcacas.blogspot.pt)
- - date_published: 2024-03-19T12:36:39+00:00
-
- ## BLOGUINHO DE POESIA
- - [http://bloguinhodepoesia.blogspot.pt](http://bloguinhodepoesia.blogspot.pt)
- - date_published: 2024-03-19T04:03:10+00:00
-
- ## búhobranca
- - [http://buhobranca.blogspot.pt](http://buhobranca.blogspot.pt)
- - date_published: 2024-03-05T13:59:15+00:00
-
- ## Cantochao Blog
- - [http://cantochao.blogspot.pt](http://cantochao.blogspot.pt)
- - date_published: 2024-07-04T06:08:23+00:00
-
- ## Casa de Cacela
- - [http://casa-de-cacela.blogspot.pt](http://casa-de-cacela.blogspot.pt)
- - date_published: 2015-10-26T00:00:00+00:00
-
- ## Causa Nossa
- - [https://causa-nossa.blogspot.pt](https://causa-nossa.blogspot.pt)
- - date_published: 2024-07-11T22:38:31+00:00
-
- ## cores e outros amores
- - [http://coreseoutrosamores.blogspot.pt](http://coreseoutrosamores.blogspot.pt)
- - date_published: 2024-03-14T03:00:06+00:00
-
- ## CORPO DE POEMA
- - [http://corpodepoema.blogspot.pt](http://corpodepoema.blogspot.pt)
- - date_published: 2024-07-09T10:27:59+00:00
-
- ## Válvula de Escape
- - [http://crisdesouzavalvuladeescape.blogspot.pt](http://crisdesouzavalvuladeescape.blogspot.pt)
- - date_published: 2024-03-13T01:51:14+00:00
-
- ## Volúpia Casual
- - [http://curcino.blogspot.pt](http://curcino.blogspot.pt)
- - date_published: 2024-07-04T06:48:01+00:00
-
- ## dente surrealista
- - [http://dentesurrealista.blogspot.pt](http://dentesurrealista.blogspot.pt)
- - date_published: 2024-03-14T11:15:53+00:00
-
- ## Blogger
- - [http://deterdeondeseir.blogspot.pt](http://deterdeondeseir.blogspot.pt)
- - date_published: 2024-07-12T21:12:36.618297+00:00
 

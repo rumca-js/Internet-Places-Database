@@ -1,3 +1,89 @@
+ ## Project Atomic
+ - [https://projectatomic.io](https://projectatomic.io)
+ - date_published: 2021-10-19T08:44:43+00:00
+
+ ## Project Awakening
+ - [https://phase3.projectawakening.io](https://phase3.projectawakening.io)
+ - date_published: 2024-06-18T16:12:55.520625+00:00
+
+ ## Project Awakening
+ - [https://projectawakening.io](https://projectawakening.io)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Bluefin
+ - [https://projectbluefin.io](https://projectbluefin.io)
+ - date_published: 2024-01-09T03:33:22.907630+00:00
+
+ ## Project Catalyst - Innovation grants to build on Cardano
+ - [https://projectcatalyst.io](https://projectcatalyst.io)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - EMCO
+ - [https://project-emco.io](https://project-emco.io)
+ - date_published: 2024-07-03T00:00:32.949862+00:00
+
+ ## Empower Hacks
+ - [https://hacks.projectempower.io](https://hacks.projectempower.io)
+ - date_published: 2024-06-20T15:20:28.003748+00:00
+
+ ## Project F
+ - [https://projectf.io](https://projectf.io)
+ - date_published: 2023-10-25T20:04:15.286278+00:00
+ - tags: ['fpga']
+
+ ## Project Liberty
+ - [https://www.projectliberty.io](https://www.projectliberty.io)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Project Quay Documentation
+ - [https://docs.projectquay.io](https://docs.projectquay.io)
+ - date_published: 2024-08-07T21:46:19.725361+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.projectspectrum.io](https://www.projectspectrum.io)
+ - date_published: 2024-07-03T13:53:01.545188+00:00
+
+ ## GitHub - ublue-os/ucore: An OCI base image of Fedora CoreOS with batteries included
+ - [https://projectucore.io](https://projectucore.io)
+ - date_published: 2024-05-17T02:58:57.352384+00:00
+
+ ## The Prometheus Conference | PromCon EU 2024
+ - [https://promcon.io](https://promcon.io)
+ - date_published: 2024-06-29T11:43:59.667632+00:00
+
+ ## Prometheus - Monitoring system & time series database
+ - [https://prometheus.io](https://prometheus.io)
+ - date_published: 2024-04-08T19:30:26.366701+00:00
+ - tags: ['monitoring', 'self-host', 'open source']
+
+ ## Customer Experience Management for B2B Companies
+ - [https://promoter.io](https://promoter.io)
+ - date_published: 2024-05-01T06:18:41.617067+00:00
+
+ ## Show HN: PromptFox, high quality Midjourney prompts
+ - [https://promptfox.io](https://promptfox.io)
+ - date_published: 2024-03-13T17:55:37+00:00
+
+ ## Promptitude.io | Integrate GPT into your app & workflows in minutes
+ - [https://promptitude.io](https://promptitude.io)
+ - date_published: 2024-10-30T08:29:39.697041+00:00
+
+ ## Proof of Talk 2024 in Paris: Where Web3 meets the Spirit of Davos
+ - [https://www.proofoftalk.io](https://www.proofoftalk.io)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Proper - Reconciliation and Financial Data Platform
+ - [https://www.properfinance.io](https://www.properfinance.io)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Prose · A Content Editor for GitHub
+ - [http://prose.io](http://prose.io)
+ - date_published: 2024-07-17T05:43:38.319412+00:00
+
+ ## Welcome to nginx!
+ - [https://js.prosopo.io](https://js.prosopo.io)
+ - date_published: 2024-05-28T13:22:30+00:00
+
  ## Prosopo Portal
  - [https://portal.prosopo.io](https://portal.prosopo.io)
  - date_published: 2024-08-08T23:08:27.894037+00:00
@@ -3271,6 +3357,11 @@
  - [https://pyprql.readthedocs.io](https://pyprql.readthedocs.io)
  - date_published: 2023-07-25T09:21:32+00:00
 
+ ## PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System — PyPSA-Eur
+ - [https://pypsa-eur.readthedocs.io](https://pypsa-eur.readthedocs.io)
+ - date_published: 2024-11-28T20:16:44+00:00
+ - tags: ['energy']
+
  ## Welcome to PyPy’s documentation! — PyPy documentation
  - [https://pypy.readthedocs.io](https://pypy.readthedocs.io)
  - date_published: 2024-06-26T21:33:40+00:00
@@ -3923,93 +4014,4 @@
  ## Mission Command - Recurrent Military
  - [https://military.recurrent.io](https://military.recurrent.io)
  - date_published: 2023-03-24T22:24:47+00:00
-
- ## Home - Recurrent
- - [https://recurrent.io](https://recurrent.io)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Redash helps you make sense of your data
- - [http://redash.io](http://redash.io)
- - date_published: 2024-06-19T22:14:24.841645+00:00
-
- ## Redict
- - [https://redict.io](https://redict.io)
- - date_published: 2024-04-03T12:58:00.069427+00:00
-
- ## Redis Cloud Console
- - [https://cloud.redis.io](https://cloud.redis.io)
- - date_published: 2024-08-05T15:31:56+00:00
-
- ## Redis
- - [https://redis.io](https://redis.io)
- - date_published: 2024-03-21T08:56:20+00:00
- - tags: ['programming']
-
- ## Cierpliwości...
- - [https://trust.redis.io](https://trust.redis.io)
- - date_published: 2024-04-28T04:22:14.159052+00:00
-
- ## Predian Inventory
- - [https://app.redlineinventory.io](https://app.redlineinventory.io)
- - date_published: 2024-06-17T18:28:39+00:00
-
- ## Cloud Native Security - Palo Alto Networks Blog
- - [https://blog.redlock.io](https://blog.redlock.io)
- - date_published: 2024-06-17T16:10:47.948647+00:00
-
- ## Online Retrospective Tool | Fun, Easy & 100% Free
- - [https://reetro.io](https://reetro.io)
- - date_published: 2024-06-29T11:14:20.716261+00:00
-
- ## Refiner
- - [https://api.refiner.io](https://api.refiner.io)
- - date_published: 2024-09-05T10:03:51.737381+00:00
-
- ## Customer Feedback Surveys for SaaS & Digital Products | Refiner
- - [https://refiner.io](https://refiner.io)
- - date_published: 2024-07-16T14:42:41+00:00
-
- ## Reflectoring - Where the HOW meets the WHY
- - [https://reflectoring.io](https://reflectoring.io)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Refold - Official Homepage
- - [https://www.refold.io](https://www.refold.io)
- - date_published: 2024-06-10T18:18:45+00:00
-
- ## Show HN: Refractify – Optical software against myopia
- - [https://refractify.io](https://refractify.io)
- - date_published: 2024-02-23T18:47:23+00:00
-
- ## refuge.io
- - [http://refuge.io](http://refuge.io)
- - date_published: 2024-06-14T11:52:54.322539+00:00
-
- ## REI Chain
- - [https://reichain.io](https://reichain.io)
- - date_published: 2024-09-24T07:03:08.526159+00:00
-
- ## Open Source Document-oriented DB
- - [https://reindexer.io](https://reindexer.io)
- - date_published: 2024-06-05T13:34:38+00:00
-
- ## Ocular - Budgeting Tool
- - [https://ocular.reinisch.io](https://ocular.reinisch.io)
- - date_published: 2024-05-01T13:13:39+00:00
-
- ## Rejestr.io | Wyszukiwarka danych z KRS
- - [https://rejestr.io](https://rejestr.io)
- - date_published: 2024-02-23T23:28:31.504583+00:00
-
- ## Related Works
- - [https://www.relatedworks.io](https://www.relatedworks.io)
- - date_published: 2022-10-07T13:03:51+00:00
-
- ## Argus
- - [https://release-argus.io](https://release-argus.io)
- - date_published: 2023-10-25T20:05:22.776475+00:00
-
- ## Joomag Release Notes
- - [https://joomag.releasenotes.io](https://joomag.releasenotes.io)
- - date_published: 2024-09-16T15:09:49.470422+00:00
 

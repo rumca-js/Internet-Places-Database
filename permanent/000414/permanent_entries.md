@@ -1,3 +1,95 @@
+ ## Journal J
+ - [https://journal.jatan.space](https://journal.jatan.space)
+ - date_published: 2024-08-18T02:49:18.537262+00:00
+
+ ## Jatan the human
+ - [https://thoughts.jatan.space](https://thoughts.jatan.space)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Jayash Space
+ - [https://www.jayash.space](https://www.jayash.space)
+ - date_published: 2024-01-12T21:01:48.117877+00:00
+
+ ## Projects: Repository List
+ - [https://code.jboy.space](https://code.jboy.space)
+ - date_published: 2024-05-08T11:37:22.695890+00:00
+
+ ## John D. Boy
+ - [https://www.jboy.space](https://www.jboy.space)
+ - date_published: 2023-12-19T00:00:00+00:00
+
+ ## Jianying Zhou's Home Page
+ - [http://jianying.space](http://jianying.space)
+ - date_published: 2024-05-30T10:17:11+00:00
+
+ ## Spotlight's Blog
+ - [https://blog.joscomputing.space](https://blog.joscomputing.space)
+ - date_published: 2024-01-09T18:01:32+00:00
+
+ ## Spotlight's Site
+ - [https://joscomputing.space](https://joscomputing.space)
+ - date_published: 2024-05-02T13:57:48.313324+00:00
+
+ ## JavaScript Development Space - Master JS and NodeJS
+ - [https://jsdev.space](https://jsdev.space)
+ - date_published: 2024-10-14T16:11:27.920886+00:00
+
+ ## Mastodon
+ - [https://social.juanlu.space](https://social.juanlu.space)
+ - date_published: 2024-06-23T17:15:04.312028+00:00
+
+ ## kateblackham.space
+ - [http://kateblackham.space](http://kateblackham.space)
+ - date_published: 2024-09-03T22:58:15.797358+00:00
+
+ ## Keep Track: 3D Satellite Toolkit
+ - [https://app.keeptrack.space](https://app.keeptrack.space)
+ - date_published: 2024-09-30T08:10:12+00:00
+
+ ## exhibitions
+ - [http://keiv.space](http://keiv.space)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Kunall Banerjee — I create
+ - [https://kimchiii.space](https://kimchiii.space)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Sign In | kimchiii.space
+ - [https://stats.kimchiii.space](https://stats.kimchiii.space)
+ - date_published: 2024-06-23T18:51:10.617758+00:00
+
+ ## koyu.space
+ - [https://koyu.space](https://koyu.space)
+ - date_published: 2024-05-09T08:21:16.284229+00:00
+
+ ## AI computers and software for space applications
+ - [https://kplabs.space](https://kplabs.space)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Landing
+ - [https://landing.space](https://landing.space)
+ - date_published: 2024-07-24T02:33:28.802832+00:00
+
+ ## Latent Space | swyx & Alessio | Substack
+ - [https://latent.space](https://latent.space)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Layer8 in Space
+ - [https://layer8.space](https://layer8.space)
+ - date_published: 2024-04-30T06:05:08.421556+00:00
+
+ ## Log In | LeoLabs
+ - [https://platform.leolabs.space](https://platform.leolabs.space)
+ - date_published: 2023-10-25T22:42:09.201538+00:00
+
+ ## 六小編 Editor Leon
+ - [https://editor.leonh.space](https://editor.leonh.space)
+ - date_published: 2024-05-09T08:29:27.172615+00:00
+
+ ## Fencraft
+ - [http://fencraft.leprd.space](http://fencraft.leprd.space)
+ - date_published: 2024-07-28T20:46:54+00:00
+
  ## Leprd
  - [https://leprd.space](https://leprd.space)
  - date_published: 2024-06-23T18:52:57.569866+00:00
@@ -771,6 +863,10 @@
  ## anar.chi.st
  - [https://anar.chi.st](https://anar.chi.st)
  - date_published: 2020-10-14T00:00:00+00:00
+
+ ## CodeFast | Build your SaaS in 14 days.
+ - [https://codefa.st](https://codefa.st)
+ - date_published: 2024-11-28T17:02:21.352990+00:00
 
  ## Show HN: Beautiful landing page builder for developers with tailwind and shadcn
  - [https://ui.convertfa.st](https://ui.convertfa.st)
@@ -1715,6 +1811,10 @@
  ## Phil Rosenthal World
  - [https://philrosenthal.store](https://philrosenthal.store)
  - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Michael Reeves Shop
+ - [https://www.pissbaby.store](https://www.pissbaby.store)
+ - date_published: 2024-11-28T13:47:13.239058+00:00
 
  ## PayMoneyWubby
  - [https://www.pmw.store](https://www.pmw.store)
@@ -3945,104 +4045,4 @@
  ## Quick Start - Elodin Docs
  - [https://docs.elodin.systems](https://docs.elodin.systems)
  - date_published: 2024-05-09T05:41:45.819767+00:00
-
- ## Elodin
- - [https://elodin.systems](https://elodin.systems)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## fabulous.systems
- - [https://fabulous.systems](https://fabulous.systems)
- - date_published: 2024-10-31T14:41:13+00:00
-
- ## Satellite IoT Solutions | FOSSA Systems
- - [https://fossa.systems](https://fossa.systems)
- - date_published: 2024-06-18T17:41:14.408874+00:00
-
- ## Foxhound Systems – Custom built software your business can depend on
- - [https://www.foxhound.systems](https://www.foxhound.systems)
- - date_published: 2024-05-30T23:24:19+00:00
-
- ## We digitalize events | Global Event Technologies
- - [https://get.systems](https://get.systems)
- - date_published: 2024-10-17T21:36:41.333704+00:00
-
- ## Hey Design Systems!
- - [https://heydesign.systems](https://heydesign.systems)
- - date_published: 2024-07-19T18:59:39.935409+00:00
-
- ## Hypermedia Systems
- - [https://hypermedia.systems](https://hypermedia.systems)
- - date_published: 2023-10-25T22:43:27.804400+00:00
-
- ## Informal Systems — Verifiable Distributed Systems & Organizations
- - [https://informal.systems](https://informal.systems)
- - date_published: 2024-07-21T05:54:58.897724+00:00
-
- ## Interconnected Systems
- - [https://interconnected.systems](https://interconnected.systems)
- - date_published: 2024-04-28T02:10:47.150892+00:00
-
- ## Intergalactic.systems
- - [https://intergalactic.systems](https://intergalactic.systems)
- - date_published: 2023-10-25T22:43:29.001231+00:00
-
- ## Intuition Explorer
- - [https://beta.portal.intuition.systems](https://beta.portal.intuition.systems)
- - date_published: 2024-09-25T11:50:46.012262+00:00
-
- ## Intuition Systems
- - [https://intuition.systems](https://intuition.systems)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## jan’s garden
- - [https://jan.systems](https://jan.systems)
- - date_published: 2024-07-19T00:00:14+00:00
-
- ## Janeway - Home
- - [https://janeway.systems](https://janeway.systems)
- - date_published: 2023-08-18T14:10:40+00:00
-
- ## Judi Systems
- - [https://judi.systems](https://judi.systems)
- - date_published: 2024-05-02T18:12:52+00:00
-
- ## Just: A Command Runner
- - [https://just.systems](https://just.systems)
- - date_published: 2024-08-02T21:17:07+00:00
-
- ## preorder.kad.systems — Coming Soon
- - [https://preorder.kad.systems](https://preorder.kad.systems)
- - date_published: 2022-06-24T12:42:52+00:00
-
- ## KOVALENT - Focus on your core business
- - [https://kovalent.systems](https://kovalent.systems)
- - date_published: 2024-06-06T11:48:05.506574+00:00
-
- ## /
- - [https://mirror.kumi.systems](https://mirror.kumi.systems)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Learned Systems
- - [https://learned.systems](https://learned.systems)
- - date_published: 2024-08-11T07:40:16.031557+00:00
-
- ## LIGHT CRYSTAL SYSTEMS — home
- - [https://lightcrystal.systems](https://lightcrystal.systems)
- - date_published: 2024-05-08T00:57:11+00:00
-
- ## soulnet
- - [https://soulnet.lightcrystal.systems](https://soulnet.lightcrystal.systems)
- - date_published: 2024-07-10T07:54:11.966757+00:00
-
- ## Lix
- - [https://lix.systems](https://lix.systems)
- - date_published: 2024-07-10T23:36:46+00:00
-
- ## Malleable Systems Forum
- - [https://forum.malleable.systems](https://forum.malleable.systems)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Malleable Systems Collective
- - [https://malleable.systems](https://malleable.systems)
- - date_published: 2023-12-26T00:00:00+00:00
 

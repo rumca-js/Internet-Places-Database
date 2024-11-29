@@ -1,3 +1,63 @@
+ ## What type of user are you?
+ - [https://cardinalcareers-csm.symplicity.com](https://cardinalcareers-csm.symplicity.com)
+ - date_published: 2024-06-27T12:00:17.011829+00:00
+
+ ## What type of user are you?
+ - [https://finmath-uchicago-csm.symplicity.com](https://finmath-uchicago-csm.symplicity.com)
+ - date_published: 2024-06-15T22:11:22.433815+00:00
+
+ ## What type of user are you?
+ - [https://gatech-csm.symplicity.com](https://gatech-csm.symplicity.com)
+ - date_published: 2024-07-22T03:27:19.155968+00:00
+
+ ## What type of user are you?
+ - [https://grad-uchicago-csm.symplicity.com](https://grad-uchicago-csm.symplicity.com)
+ - date_published: 2024-07-01T22:35:02.640038+00:00
+
+ ## What type of user are you?
+ - [https://insead-csm.symplicity.com](https://insead-csm.symplicity.com)
+ - date_published: 2024-07-03T17:48:55.604195+00:00
+
+ ## What type of user are you?
+ - [https://law-georgetown-csm.symplicity.com](https://law-georgetown-csm.symplicity.com)
+ - date_published: 2024-09-18T23:27:41.932664+00:00
+
+ ## What type of user are you?
+ - [https://law-gmu-csm.symplicity.com](https://law-gmu-csm.symplicity.com)
+ - date_published: 2024-07-21T23:20:09.483468+00:00
+
+ ## What type of user are you?
+ - [https://law-harvard-csm.symplicity.com](https://law-harvard-csm.symplicity.com)
+ - date_published: 2024-04-30T04:46:07.048959+00:00
+
+ ## What type of user are you?
+ - [https://northeastern-csm.symplicity.com](https://northeastern-csm.symplicity.com)
+ - date_published: 2024-10-15T06:21:06.165637+00:00
+
+ ## What type of user are you?
+ - [https://rc-utoronto-csm.symplicity.com](https://rc-utoronto-csm.symplicity.com)
+ - date_published: 2024-07-21T08:11:38.201870+00:00
+
+ ## Baylor University
+ - [https://shibboleth-baylor-accommodate.symplicity.com](https://shibboleth-baylor-accommodate.symplicity.com)
+ - date_published: 2024-08-19T18:49:10.823097+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://shibboleth-ucsd-horizons.symplicity.com](https://shibboleth-ucsd-horizons.symplicity.com)
+ - date_published: 2024-10-14T21:01:38.754633+00:00
+
+ ## What type of user are you?
+ - [https://southernct-csm.symplicity.com](https://southernct-csm.symplicity.com)
+ - date_published: 2024-07-15T11:31:16.912446+00:00
+
+ ## Symplicity | Home Page
+ - [http://symplicity.com](http://symplicity.com)
+ - date_published: 2024-07-16T09:48:04+00:00
+
+ ## UCLA Title IX Advocate GME System: Login:
+ - [https://ucla-gme-advocate.symplicity.com](https://ucla-gme-advocate.symplicity.com)
+ - date_published: 2024-05-07T20:55:27.665629+00:00
+
  ## UC Riverside Advocate: Login:
  - [https://ucr-advocate.symplicity.com](https://ucr-advocate.symplicity.com)
  - date_published: 2024-07-01T23:37:07.491655+00:00
@@ -3971,65 +4031,4 @@
  ## Tango - Contracts & Payments Automated
  - [https://tangoagreements.com](https://tangoagreements.com)
  - date_published: 2024-10-27T18:54:51+00:00
-
- ## agnes nutter, witch
- - [https://tangobullets.com](https://tangobullets.com)
- - date_published: 2023-06-29T04:28:02+00:00
-
- ## TangoDown - Upgrades & Accessories for Glock, AR-15, AK, and More
- - [https://tangodown.com](https://tangodown.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Tango Gameworks
- - [http://www.tangogameworks.com](http://www.tangogameworks.com)
- - date_published: 2024-07-18T04:50:19.004549+00:00
-
- ## Take Your Digital Media Strategy Even Further
- - [https://www.tangoomedia.com](https://www.tangoomedia.com)
- - date_published: 2024-05-06T17:58:40.216893+00:00
-
- ## Tangram Flex - Rapid Integration with Confidence
- - [https://tangramflex.com](https://tangramflex.com)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Tangram Vision Documentation
- - [https://docs.tangramvision.com](https://docs.tangramvision.com)
- - date_published: 2024-06-25T21:45:35+00:00
-
- ## Tangram Vision Hub
- - [https://hub.tangramvision.com](https://hub.tangramvision.com)
- - date_published: 2024-07-18T19:36:50+00:00
-
- ## Tangram Vision | Sensor Tools & Infrastructure
- - [https://tangramvision.com](https://tangramvision.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## tania gheerbrant
- - [https://taniagheerbrant.com](https://taniagheerbrant.com)
- - date_published: 2024-07-04T01:55:33.266356+00:00
-
- ## Tania Larsson
- - [https://tanialarsson.com](https://tanialarsson.com)
- - date_published: 2024-08-06T03:01:25.804281+00:00
-
- ## Tania Rascia
- - [https://taniarascia.com](https://taniarascia.com)
- - date_published: 2024-02-09T22:21:11.658387+00:00
- - tags: ['personal']
-
- ## Tanit-Isis Sews
- - [https://tanitisis.com](https://tanitisis.com)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## The Power of Certainty | Tanium
- - [https://www.tanium.com](https://www.tanium.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Tank and Armored Fighting Vehicle, Tank Encyclopedia Archive Section
- - [https://tank-afv.com](https://tank-afv.com)
- - date_published: 2024-09-16T14:31:09.722308+00:00
-
- ## Buy Coffee Beans Online UK Order Fresh Roasted Coffee Beans
- - [https://www.tankcoffee.com](https://www.tankcoffee.com)
- - date_published: 2014-09-17T09:42:17+00:00
 

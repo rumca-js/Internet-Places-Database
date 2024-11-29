@@ -1,3 +1,43 @@
+ ## AI Co-Pilot for Test Suite Intelligence and Optimization
+ - [https://www.launchableinc.com](https://www.launchableinc.com)
+ - date_published: 2024-09-16T17:05:31.138088+00:00
+
+ ## LaunchBox Community Forums
+ - [https://forums.launchbox-app.com](https://forums.launchbox-app.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## The #1 Platform To Launch Your Online Store - Launch Cart
+ - [https://launchcart.com](https://launchcart.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## LaunchDarkly Academy
+ - [https://academy.launchdarkly.com](https://academy.launchdarkly.com)
+ - date_published: 2024-08-08T20:39:22.778998+00:00
+
+ ## LaunchDarkly REST API Documentation
+ - [https://apidocs.launchdarkly.com](https://apidocs.launchdarkly.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Sign in
+ - [https://app.launchdarkly.com](https://app.launchdarkly.com)
+ - date_published: 2024-05-12T05:11:35.449984+00:00
+
+ ## Feature Flag & Toggle Management | LaunchDarkly
+ - [https://developers.launchdarkly.com](https://developers.launchdarkly.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Welcome to LaunchDarkly docs
+ - [https://docs.launchdarkly.com](https://docs.launchdarkly.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## LaunchDarkly: Feature Flags, Feature Management, and Experimentation
+ - [https://launchdarkly.com](https://launchdarkly.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## LaunchDarkly Status
+ - [https://status.launchdarkly.com](https://status.launchdarkly.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
  ## LaunchDarkly
  - [https://support.launchdarkly.com](https://support.launchdarkly.com)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -3994,44 +4034,4 @@ LearnWorlds
  ## Lemmid
  - [https://count.lemmid.com](https://count.lemmid.com)
  - date_published: 2024-06-29T21:42:29.102067+00:00
-
- ## Lemmid
- - [https://domain.lemmid.com](https://domain.lemmid.com)
- - date_published: 2024-06-29T21:42:27.143538+00:00
-
- ## Lemmid
- - [https://lemmid.com](https://lemmid.com)
- - date_published: 2024-05-07T14:17:08.039275+00:00
-
- ## Lemmid
- - [https://manager.lemmid.com](https://manager.lemmid.com)
- - date_published: 2024-06-29T21:42:28.388089+00:00
-
- ## Lemmid
- - [https://online.lemmid.com](https://online.lemmid.com)
- - date_published: 2024-06-29T21:42:27.903820+00:00
-
- ## Lemmid
- - [https://transfer.lemmid.com](https://transfer.lemmid.com)
- - date_published: 2024-05-07T14:17:09.823882+00:00
-
- ## Lemmid
- - [https://user.lemmid.com](https://user.lemmid.com)
- - date_published: 2024-06-29T21:42:34.763367+00:00
-
- ## Lemmid Store
- - [https://lemmid-store.com](https://lemmid-store.com)
- - date_published: 2024-05-07T14:17:01.062993+00:00
-
- ## LEMMON LAB
- - [https://lemmonlab.com](https://lemmonlab.com)
- - date_published: 2018-03-09T00:00:00+00:00
-
- ## Lemmys Land
- - [http://lemmykoopa.com](http://lemmykoopa.com)
- - date_published: 2010-07-03T20:22:32+00:00
-
- ## Lemmy NSFW - NSFW (18+) only instance for Lemmy
- - [https://lemmynsfw.com](https://lemmynsfw.com)
- - date_published: 2024-07-08T00:00:00+00:00
 

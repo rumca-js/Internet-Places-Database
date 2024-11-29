@@ -1,3 +1,35 @@
+ ## Good Tape Magazine + Studio
+ - [https://goodtape.com](https://goodtape.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Good Tech Fest
+ - [https://goodtechfest.com](https://goodtechfest.com)
+ - date_published: 2024-07-10T09:29:39.890442+00:00
+
+ ## Good Tech Things | Forrest Brazeal | Substack
+ - [https://newsletter.goodtechthings.com](https://newsletter.goodtechthings.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Good Todo Blog
+ - [https://blog.goodtodo.com](https://blog.goodtodo.com)
+ - date_published: 2023-07-05T21:26:21+00:00
+
+ ## Good Todo | good to do list for web, iPhone, iPad
+ - [https://goodtodo.com](https://goodtodo.com)
+ - date_published: 2024-05-08T06:58:09.441283+00:00
+
+ ## An eye-opening exploration of how the human body can best recover and adapt to sports and fitness training. Available in paperback February 18, 2020.
+ - [https://www.goodtogobook.com](https://www.goodtogobook.com)
+ - date_published: 2020-02-18T00:00:00+00:00
+
+ ## Access Blocked by Suspicious Activity
+ - [https://www.goodtoygroup.com](https://www.goodtoygroup.com)
+ - date_published: 2024-07-17T10:31:18.720857+00:00
+
+ ## Good Type Foundry
+ - [http://goodtypefoundry.com](http://goodtypefoundry.com)
+ - date_published: 2024-07-13T15:10:44.768345+00:00
+
  ## Goodwin | Innovation & Capital | Global Law Firm
  - [https://www.goodwinlaw.com](https://www.goodwinlaw.com)
  - date_published: 2024-09-05T21:23:14.835698+00:00
@@ -536,6 +568,7 @@
  ## Google Meet
  - [https://meet.google.com](https://meet.google.com)
  - date_published: 2024-05-12T06:56:28+00:00
+ - tags: ['video meetings', 'social communicator']
 
  ## Google Messages - A simple, helpful text messaging app
  - [https://messages.google.com](https://messages.google.com)
@@ -4020,36 +4053,4 @@
  ## Home - Grand City Investment Ltd
  - [https://grandcityinvestment.com](https://grandcityinvestment.com)
  - date_published: 2024-09-10T00:00:00+00:00
-
- ## Grand Creative
- - [http://grand-creative.com](http://grand-creative.com)
- - date_published: 2024-10-19T08:40:18.701477+00:00
-
- ## Grand Ely Lodge Resort & Event Center - Grand Ely Lodge
- - [https://grandelylodge.com](https://grandelylodge.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## + Grand Ephemeris - Music Collective emanating from Austin, TX +
- - [https://grandephemeris.com](https://grandephemeris.com)
- - date_published: 2024-07-19T18:05:39.531875+00:00
-
- ## Grander Gestures
- - [https://www.grandergestures.com](https://www.grandergestures.com)
- - date_published: 2024-09-06T21:36:53.160870+00:00
-
- ## Sign In with Auth0
- - [https://epaper.grandforksherald.com](https://epaper.grandforksherald.com)
- - date_published: 2024-07-01T09:18:56.602087+00:00
-
- ## Grand Forks Herald | Grand Forks, East Grand Forks news, weather & sports
- - [https://grandforksherald.com](https://grandforksherald.com)
- - date_published: 2024-05-07T18:54:51.247641+00:00
-
- ## BlueConic: Log In
- - [https://k664.grandforksherald.com](https://k664.grandforksherald.com)
- - date_published: 2024-07-01T09:19:03.123096+00:00
-
- ## New and Used Cars and Trucks for sale near Grand Forks. Auto news and reviews – Grand Forks Herald
- - [https://motors.grandforksherald.com](https://motors.grandforksherald.com)
- - date_published: 2024-07-01T09:19:14.258868+00:00
 

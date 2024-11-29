@@ -1,3 +1,79 @@
+ ## Administration and Finance
+ - [https://adminfinance.fresnostate.edu](https://adminfinance.fresnostate.edu)
+ - date_published: 2024-09-15T11:07:53.224070+00:00
+
+ ## COVID-19
+ - [https://covid.fresnostate.edu](https://covid.fresnostate.edu)
+ - date_published: 2024-09-15T11:08:22.541554+00:00
+
+ ## Fresno State
+ - [http://fresnostate.edu](http://fresnostate.edu)
+ - date_published: 2024-09-15T11:08:13.445711+00:00
+
+ ## Google Apps at Fresno State
+ - [http://googleapps.fresnostate.edu](http://googleapps.fresnostate.edu)
+ - date_published: 2024-09-15T11:08:02.074820+00:00
+
+ ## Technology Services Help Center
+ - [https://help.fresnostate.edu](https://help.fresnostate.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Password Management
+ - [https://idm.fresnostate.edu](https://idm.fresnostate.edu)
+ - date_published: 2024-09-15T11:08:04.126123+00:00
+
+ ## Fresno State Campus Login Services
+ - [https://mail.fresnostate.edu](https://mail.fresnostate.edu)
+ - date_published: 2024-09-15T11:07:34.198518+00:00
+
+ ## My Fresno State Portal
+ - [https://my.fresnostate.edu](https://my.fresnostate.edu)
+ - date_published: 2024-09-15T11:07:41.558661+00:00
+
+ ## Fresno State President Office
+ - [https://president.fresnostate.edu](https://president.fresnostate.edu)
+ - date_published: 2024-09-15T11:07:57.074431+00:00
+
+ ## Student Affairs and Enrollment Management at Fresno State
+ - [https://studentaffairs.fresnostate.edu](https://studentaffairs.fresnostate.edu)
+ - date_published: 2024-09-15T11:08:09.815947+00:00
+
+ ## Frostburg State University
+ - [http://www.frostburg.edu](http://www.frostburg.edu)
+ - date_published: 2024-07-02T03:24:53.901342+00:00
+
+ ## Office of Research | FSU Office of Research
+ - [https://about.research.fsu.edu](https://about.research.fsu.edu)
+ - date_published: 2024-04-30T04:16:02.530144+00:00
+
+ ## Academic Program Guide
+ - [https://academic-guide.fsu.edu](https://academic-guide.fsu.edu)
+ - date_published: 2024-07-14T18:24:51+00:00
+
+ ## FSU Research Computing Center
+ - [https://acct.rcc.fsu.edu](https://acct.rcc.fsu.edu)
+ - date_published: 2024-07-22T04:13:06.365175+00:00
+
+ ## Academic Center for Excellence
+ - [https://ace.fsu.edu](https://ace.fsu.edu)
+ - date_published: 2024-07-21T15:00:55+00:00
+
+ ## FSU Admissions
+ - [https://admissions.fsu.edu](https://admissions.fsu.edu)
+ - date_published: 2024-04-30T04:15:07.222622+00:00
+
+ ## University Advising | Florida State University.
+ - [https://advising.fsu.edu](https://advising.fsu.edu)
+ - date_published: 2024-04-30T04:15:13.364762+00:00
+
+ ## FSU Alert
+ - [https://alerts.fsu.edu](https://alerts.fsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## FSU Alumni Association
+ - [https://alumni.fsu.edu](https://alumni.fsu.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
  ## Information Technology Services
  - [https://apps.its.fsu.edu](https://apps.its.fsu.edu)
  - date_published: 2024-07-18T18:00:36+00:00
@@ -3930,80 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## HPCA2019
  - [http://hpca2019.seas.gwu.edu](http://hpca2019.seas.gwu.edu)
  - date_published: 2019-05-07T14:58:29+00:00
-
- ## Human Resource Management & Development | The George Washington University
- - [https://hr.gwu.edu](https://hr.gwu.edu)
- - date_published: 2024-07-20T15:13:15+00:00
-
- ## Institute for Data, Democracy & Politics (IDDP) | Columbian College of Arts & Sciences | The George Washington University
- - [https://iddp.gwu.edu](https://iddp.gwu.edu)
- - date_published: 2024-07-21T03:32:57+00:00
-
- ## GW Law Admitted Students | The George Washington University
- - [https://inatgw.law.gwu.edu](https://inatgw.law.gwu.edu)
- - date_published: 2024-07-20T22:03:46+00:00
-
- ## GW Information Technology | The George Washington University
- - [https://it.gwu.edu](https://it.gwu.edu)
- - date_published: 2024-07-21T13:47:02+00:00
-
- ## Libraries & Academic Innovation | Libraries & Academic Innovation
- - [https://library.gwu.edu](https://library.gwu.edu)
- - date_published: 2024-06-14T04:08:09+00:00
-
- ## Mechanical & Aerospace Engineering (MAE) | School of Engineering & Applied Science | The George Washington University
- - [https://mae.engineering.gwu.edu](https://mae.engineering.gwu.edu)
- - date_published: 2024-07-21T18:13:03+00:00
-
- ## Mechanical & Aerospace Engineering (MAE) | School of Engineering & Applied Science | The George Washington University
- - [https://mae.seas.gwu.edu](https://mae.seas.gwu.edu)
- - date_published: 2024-04-30T04:41:55.739633+00:00
-
- ## GW Magazine | The George Washington University
- - [https://magazine.gwu.edu](https://magazine.gwu.edu)
- - date_published: 2024-07-21T13:03:21+00:00
-
- ## The Department of Mathematics | Columbian College of Arts & Sciences | The George Washington University
- - [https://math.columbian.gwu.edu](https://math.columbian.gwu.edu)
- - date_published: 2024-07-20T21:25:30+00:00
-
- ## Media Relations | The George Washington University
- - [https://mediarelations.gwu.edu](https://mediarelations.gwu.edu)
- - date_published: 2024-04-30T04:41:11.660611+00:00
-
- ## The George Washington University
- - [https://my.gwu.edu](https://my.gwu.edu)
- - date_published: 2024-07-20T22:45:21.792499+00:00
-
- ## GW Nanofabrication & Imaging Center | The George Washington University
- - [https://nic.gwu.edu](https://nic.gwu.edu)
- - date_published: 2024-07-21T22:16:31+00:00
-
- ## The National  Security Archive, at The George Washington University
- - [https://nsarchive2.gwu.edu](https://nsarchive2.gwu.edu)
- - date_published: 2023-10-30T22:24:50+00:00
-
- ## Home | National Security Archive
- - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
- - date_published: 2023-10-25T18:51:17.562894+00:00
-
- ## School of Nursing | The George Washington University
- - [https://nursing.gwu.edu](https://nursing.gwu.edu)
- - date_published: 2024-07-21T18:21:56+00:00
-
- ## GW Police Department | The George Washington University
- - [https://police.gwu.edu](https://police.gwu.edu)
- - date_published: 2024-07-21T17:07:42+00:00
-
- ## Master of Public Health
- - [https://publichealthonline.gwu.edu](https://publichealthonline.gwu.edu)
- - date_published: 2024-10-31T07:13:44.341053+00:00
-
- ## GW Research Magazine | The George Washington University
- - [https://researchmagazine.gwu.edu](https://researchmagazine.gwu.edu)
- - date_published: 2024-07-21T20:19:37+00:00
-
- ## Safety | The George Washington University
- - [https://safety.gwu.edu](https://safety.gwu.edu)
- - date_published: 2024-07-21T14:26:03+00:00
 

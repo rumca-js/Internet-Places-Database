@@ -1,3 +1,103 @@
+ ## 好生活
+ - [https://howlife.cna.com.tw](https://howlife.cna.com.tw)
+ - date_published: 2024-07-16T20:57:42.276407+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://imgcdn.cna.com.tw](https://imgcdn.cna.com.tw)
+ - date_published: 2024-05-12T07:10:21.433600+00:00
+
+ ## 歡迎使用 CNA Web Mail
+ - [https://mail.cna.com.tw](https://mail.cna.com.tw)
+ - date_published: 2024-07-16T20:57:50.387655+00:00
+
+ ## 淨零碳排 | 中央社 CNA
+ - [https://netzero.cna.com.tw](https://netzero.cna.com.tw)
+ - date_published: 2024-07-16T20:57:44+00:00
+
+ ## 數位專題｜中央社 CNA
+ - [https://project.cna.com.tw](https://project.cna.com.tw)
+ - date_published: 2022-06-27T02:26:36+00:00
+
+ ## 中央社客戶網頁 CNA NEWS
+ - [http://service.cna.com.tw](http://service.cna.com.tw)
+ - date_published: 2024-07-16T20:57:58.639854+00:00
+
+ ## COMPUTEX (含InnoVEX) 2024參觀登錄
+ - [https://www.computexonline.com.tw](https://www.computexonline.com.tw)
+ - date_published: 2024-06-19T23:05:41.587392+00:00
+
+ ## 台北國際電腦展
+ - [https://www.computextaipei.com.tw](https://www.computextaipei.com.tw)
+ - date_published: 2024-06-19T23:39:07.087463+00:00
+
+ ## COMPUTEX Keynote & Forum 2024
+ - [https://www.computextaipei2024.com.tw](https://www.computextaipei2024.com.tw)
+ - date_published: 2024-10-31T12:03:07.192591+00:00
+
+ ## Condé Nast TAIWAN | 康泰納仕
+ - [https://www.condenast.com.tw](https://www.condenast.com.tw)
+ - date_published: 2024-04-19T03:34:48+00:00
+
+ ## 網頁設計公司 - 網站設計公司 - Cubik
+ - [https://cubik.com.tw](https://cubik.com.tw)
+ - date_published: 2023-02-22T00:00:00+00:00
+
+ ## 達文西數位科技-專注排名的網頁設計服務
+ - [https://www.da-vinci.com.tw](https://www.da-vinci.com.tw)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## DBS Bank | Taiwan
+ - [https://www.dbs.com.tw](https://www.dbs.com.tw)
+ - date_published: 2024-10-07T22:39:28.976938+00:00
+
+ ## DeviseTop響應式網頁設計，客製化量身訂做、專屬風格 - 禾太國際有限公司,勤美創意設計有限公司
+ - [http://www.devisetop.com.tw](http://www.devisetop.com.tw)
+ - date_published: 2024-07-14T10:35:28.507426+00:00
+
+ ## 大侑DIET-U官方網站｜你健康的好朋友
+ - [https://www.diet-u.com.tw](https://www.diet-u.com.tw)
+ - date_published: 2024-07-04T17:32:22.645811+00:00
+
+ ## DIGITIMES-首頁
+ - [https://www.digitimes.com.tw](https://www.digitimes.com.tw)
+ - date_published: 2024-10-31T12:01:37.314160+00:00
+
+ ## 台灣迪士尼官方網站
+ - [https://disney.com.tw](https://disney.com.tw)
+ - date_published: 2024-06-16T02:13:54.799668+00:00
+
+ ## eBay全球銷售指南 - 首頁
+ - [https://www.ebay.com.tw](https://www.ebay.com.tw)
+ - date_published: 2024-05-01T08:15:29.101406+00:00
+
+ ## 專業學術英文編修、中翻英、論文編修、論文投稿協助丨Editage 意得輯
+ - [https://www.editage.com.tw](https://www.editage.com.tw)
+ - date_published: 2024-10-29T20:42:45.127641+00:00
+
+ ## 一元素科技股份有限公司 - 一元素科技股份有限公司
+ - [http://www.e-elements.com.tw](http://www.e-elements.com.tw)
+ - date_published: 2021-05-13T04:59:26+00:00
+
+ ## EF國際文教機構 | EF海外遊學留學 | EF台灣
+ - [https://www.ef.com.tw](https://www.ef.com.tw)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## ELTA TECHNOLOGY
+ - [https://www.elta.com.tw](https://www.elta.com.tw)
+ - date_published: 2024-07-07T10:16:18.705430+00:00
+
+ ## Experian - 益博睿——企業徵信，決策分析，反詐欺與身分辨識
+ - [https://www.experian.com.tw](https://www.experian.com.tw)
+ - date_published: 2024-06-25T21:31:54.279340+00:00
+
+ ## 財團法人徐有庠紀念基金會
+ - [http://yzhsu.feg.com.tw](http://yzhsu.feg.com.tw)
+ - date_published: 2024-07-14T10:35:19.243788+00:00
+
+ ## 基金投資規劃 | 投資理財網 | 富達投信 | 富達台灣
+ - [https://www.fidelity.com.tw](https://www.fidelity.com.tw)
+ - date_published: 2024-10-27T18:01:21.884714+00:00
+
  ## 火氣音樂｜Fire On Music
  - [https://www.fireonmusic.com.tw](https://www.fireonmusic.com.tw)
  - date_published: 2024-03-09T00:00:00+00:00
@@ -3910,104 +4010,4 @@
  ## Home - National Water & Sewerage Corporation
  - [https://www.nwsc.co.ug](https://www.nwsc.co.ug)
  - date_published: 2023-11-29T14:35:30+00:00
-
- ## Climate Change Department
- - [http://ccd.go.ug](http://ccd.go.ug)
- - date_published: 2024-10-11T13:00:53.581933+00:00
-
- ## The Inspectorate of Government | Zero Tolerance to Corruption
- - [http://www.igg.go.ug](http://www.igg.go.ug)
- - date_published: 2024-10-11T13:00:26.116640+00:00
-
- ## Ministry of Water and Environment
- - [https://mwe.go.ug](https://mwe.go.ug)
- - date_published: 2024-06-16T15:36:04.640299+00:00
-
- ## NWQRL – National Water Quality Reference Laboratory
- - [https://nwqrl.mwe.go.ug](https://nwqrl.mwe.go.ug)
- - date_published: 2024-10-11T13:00:13.596672+00:00
-
- ## WFP DB | Ministry  of Water and Environment
- - [http://wfpdb.mwe.go.ug](http://wfpdb.mwe.go.ug)
- - date_published: 2024-10-11T13:00:55.377156+00:00
-
- ## Login to Webmin
- - [https://wis.mwe.go.ug](https://wis.mwe.go.ug)
- - date_published: 2024-10-11T12:59:42.772883+00:00
-
- ## Water Resource Institute
- - [http://wri.mwe.go.ug](http://wri.mwe.go.ug)
- - date_published: 2024-10-11T13:00:36.048947+00:00
-
- ## Uganda Water Supply Atlas
- - [http://wsdb.mwe.go.ug](http://wsdb.mwe.go.ug)
- - date_published: 2024-10-11T13:00:31.396588+00:00
-
- ## Uganda Trade Portal
- - [https://ugandatrades.go.ug](https://ugandatrades.go.ug)
- - date_published: 2024-10-11T12:59:59.292046+00:00
-
- ## Authorization
- - [https://mwe.umcs.go.ug](https://mwe.umcs.go.ug)
- - date_published: 2024-10-11T12:59:54.462261+00:00
-
- ## UNMA - Uganda National Meteorological Authority | Providing Meteorological, Hydrological & related services
- - [https://www.unma.go.ug](https://www.unma.go.ug)
- - date_published: 2024-10-11T13:00:29.452925+00:00
-
- ## NFA Uganda: A Guide to Uganda's Forests
- - [http://www.nfa.org.ug](http://www.nfa.org.ug)
- - date_published: 2022-07-26T17:25:22+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.ug](https://www.hotfrog.ug)
- - date_published: 2024-06-29T16:52:02.425831+00:00
-
- ## Hi Mom!‌
- - [https://omrelli.ug](https://omrelli.ug)
- - date_published: 2021-02-11T02:43:46+00:00
-
- ## PHP-UserGroup - One home for one community
- - [https://php.ug](https://php.ug)
- - date_published: 2024-05-12T06:38:34.986727+00:00
-
- ## Breaking News & Top Stories
- - [https://www.pulse.ug](https://www.pulse.ug)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Latest Sports News &amp; Updates
- - [https://www.pulsesports.ug](https://www.pulsesports.ug)
- - date_published: 2024-09-22T00:00:00+00:00
-
- ## AA School
- - [https://www.aaschool.ac.uk](https://www.aaschool.ac.uk)
- - date_published: 2024-05-06T21:16:15.785583+00:00
-
- ## University of Aberdeen
- - [https://abdn.ac.uk](https://abdn.ac.uk)
- - date_published: 2024-10-17T06:28:31.305391+00:00
-
- ## Online Degrees and Short Courses - University of Aberdeen | On-demand Learning
- - [https://on.abdn.ac.uk](https://on.abdn.ac.uk)
- - date_published: 2024-05-02T10:45:07.250981+00:00
-
- ## University of Aberdeen
- - [https://w3.abdn.ac.uk](https://w3.abdn.ac.uk)
- - date_published: 2024-06-24T09:47:39.700835+00:00
-
- ## University of Aberdeen
- - [https://www.store.abdn.ac.uk](https://www.store.abdn.ac.uk)
- - date_published: 2024-05-02T10:45:06.401376+00:00
-
- ## Prifysgol Aberystwyth University
- - [https://shop.aber.ac.uk](https://shop.aber.ac.uk)
- - date_published: 2024-10-16T09:53:30.043923+00:00
-
- ## Aberystwyth University: Top in England and Wales for Student Satisfaction
- - [http://www.aber.ac.uk](http://www.aber.ac.uk)
- - date_published: 2024-10-22T17:06:03.157081+00:00
-
- ## Home | Abertay University
- - [https://idp0.abertay.ac.uk](https://idp0.abertay.ac.uk)
- - date_published: 2021-09-14T14:35:39+00:00
 

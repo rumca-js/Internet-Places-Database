@@ -1,3 +1,23 @@
+ ## ETHBerlin ZWEI 2019
+ - [https://ethberlinzwei.com](https://ethberlinzwei.com)
+ - date_published: 2023-10-13T12:02:19+00:00
+
+ ## ETHBratislava
+ - [https://www.ethbratislava.com](https://www.ethbratislava.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EthCapeTown – September 20 – 22, 2024
+ - [https://ethcapetown.com](https://ethcapetown.com)
+ - date_published: 2024-06-16T03:46:24.234955+00:00
+
+ ## EthCC Hack
+ - [https://ethcchack.com](https://ethcchack.com)
+ - date_published: 2023-03-13T00:00:00+00:00
+
+ ## ETHDam April 2024 Amsterdam Hackathon & Conference
+ - [https://www.ethdam.com](https://www.ethdam.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## ETHDenver 2025  #BUIDLathon + Community Innovation Festival
  - [http://ethdenver.com](http://ethdenver.com)
  - date_published: 2024-06-02T00:00:00+00:00
@@ -4011,24 +4031,4 @@
  ## EWONTFIX
  - [http://ewontfix.com](http://ewontfix.com)
  - date_published: 2020-02-15T00:00:00+00:00
-
- ## ewpratten – GoatCounter
- - [https://analytics.ewpratten.com](https://analytics.ewpratten.com)
- - date_published: 2024-07-10T05:34:41.685052+00:00
-
- ## Home - Evan Pratten
- - [https://ewpratten.com](https://ewpratten.com)
- - date_published: 2024-05-09T07:40:38.148700+00:00
-
- ## eWrestling.com | WWE and AEW News, Rumors, Spoilers, Results
- - [http://ewrestling.com](http://ewrestling.com)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## EWritable – e-ink tablet news and reviews
- - [https://ewritable.com](https://ewritable.com)
- - date_published: 2024-08-02T23:14:04+00:00
-
- ## e Writing Service - Professional Custom Writing Services 🔥
- - [https://ewritingservice.com](https://ewritingservice.com)
- - date_published: 2024-09-02T10:12:30.357792+00:00
 

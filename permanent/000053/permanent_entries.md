@@ -1,3 +1,23 @@
+ ## The Beverage Academy
+ - [http://www.beverageacademy.com](http://www.beverageacademy.com)
+ - date_published: 2024-06-24T06:17:19.825428+00:00
+
+ ## Beverage Industry, Beverage Equipment, Drink Industry, Beverage Packaging
+ - [https://www.beveragedaily.com](https://www.beveragedaily.com)
+ - date_published: 2024-06-19T03:15:30.460364+00:00
+
+ ## Beverage Dynamics
+ - [http://beveragedynamics.com](http://beveragedynamics.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Park Labrea News & Beverly Press - Local news since 1946.
+ - [https://beverlypress.com](https://beverlypress.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## @vicky
+ - [https://bio.bevicky.com](https://bio.bevicky.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
  ## BevSource Beverage Outsourcing, Development, Startup Services
  - [https://www.bevsource.com](https://www.bevsource.com)
  - date_published: 2024-05-04T07:28:16.316647+00:00
@@ -4001,24 +4021,4 @@
  ## BIT-101 – Bill Gates touched my Mac Book Pro.
  - [https://bit-101.com](https://bit-101.com)
  - date_published: 2023-10-25T13:01:06.324531+00:00
-
- ## Home - A Bit About Britain
- - [https://bitaboutbritain.com](https://bitaboutbritain.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## bitaesthetics
- - [https://bitaesthetics.com](https://bitaesthetics.com)
- - date_published: 2024-05-09T04:38:53.940643+00:00
-
- ## Visualizing Facebook Friends
- - [http://fbmap.bitaesthetics.com](http://fbmap.bitaesthetics.com)
- - date_published: 2013-01-03T00:24:18+00:00
-
- ## New York City Place-of-Birth Map
- - [http://nycbm.bitaesthetics.com](http://nycbm.bitaesthetics.com)
- - date_published: 2012-12-31T01:18:00+00:00
-
- ## Toronto Transit Distance
- - [http://ttcmap.bitaesthetics.com](http://ttcmap.bitaesthetics.com)
- - date_published: 2016-05-09T03:06:03+00:00
 

@@ -1,3 +1,67 @@
+ ## Not all doom | Arthur Snell | Substack
+ - [https://arthursnell.substack.com](https://arthursnell.substack.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## The EU AI Act Newsletter | Risto Uuk | Substack
+ - [https://artificialintelligenceact.substack.com](https://artificialintelligenceact.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Artificial Intelligence Made Simple | Devansh | Substack
+ - [https://artificialintelligencemadesimple.substack.com](https://artificialintelligencemadesimple.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The Last Great Mystery | Arye | Substack
+ - [https://arye.substack.com](https://arye.substack.com)
+ - date_published: 2024-07-04T09:39:59.797023+00:00
+
+ ## Practical Self Reliance | Ashley Adamant | Substack
+ - [https://ashleyadamant.substack.com](https://ashleyadamant.substack.com)
+ - date_published: 2024-05-07T09:13:46.536610+00:00
+
+ ## Ashwin Gopalsamy | Substack
+ - [https://ashwingopalsamy.substack.com](https://ashwingopalsamy.substack.com)
+ - date_published: 2024-11-14T07:05:36.269686+00:00
+
+ ## The Asianometry Newsletter | Jon Y | Substack
+ - [https://asianometry.substack.com](https://asianometry.substack.com)
+ - date_published: 2023-10-25T09:42:50.856135+00:00
+ - tags: ['substack']
+
+ ## Asimov’s Addendum  | Substack
+ - [https://asimovaddendum.substack.com](https://asimovaddendum.substack.com)
+ - date_published: 2024-10-31T22:39:48.117233+00:00
+
+ ## Askwho Casts AI | Substack
+ - [https://askwhocastsai.substack.com](https://askwhocastsai.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## The Matter Blotter | Alan Aspuru-Guzik | Substack
+ - [https://aspuru.substack.com](https://aspuru.substack.com)
+ - date_published: 2024-07-01T05:47:43.624474+00:00
+
+ ## Assisted Everything | Marco Witzmann | Substack
+ - [https://assistedeverything.substack.com](https://assistedeverything.substack.com)
+ - date_published: 2023-10-25T09:42:57.739698+00:00
+ - tags: ['substack']
+
+ ## Adrian’s Letters | Adrian Stobbe | Substack
+ - [https://astobbe.substack.com](https://astobbe.substack.com)
+ - date_published: 2024-05-01T02:27:58.962036+00:00
+
+ ## Astral Codex Ten | Scott Alexander | Substack
+ - [https://astralcodexten.substack.com](https://astralcodexten.substack.com)
+ - date_published: 2023-10-25T09:43:00.399502+00:00
+ - tags: ['substack']
+
+ ## Athelas Engineering | Aakash Adesara | Substack
+ - [https://athelaseng.substack.com](https://athelaseng.substack.com)
+ - date_published: 2023-10-25T09:43:02.627661+00:00
+ - tags: ['substack']
+
+ ## Cold Brew | Atit Kothari | Substack
+ - [https://atitkothari.substack.com](https://atitkothari.substack.com)
+ - date_published: 2024-05-04T10:03:27.672762+00:00
+
  ## atomic14 | Chris Greening | Substack
  - [https://atomic14.substack.com](https://atomic14.substack.com)
  - date_published: 2023-11-04T18:28:36.332399+00:00
@@ -4030,66 +4094,4 @@
  ## Jeff’s Newsletter | Jeff Burke | Substack
  - [https://jeffburke.substack.com](https://jeffburke.substack.com)
  - date_published: 2024-07-04T09:40:05.008467+00:00
-
- ## The Ghost | Jeff Goins | Substack
- - [https://jeffgoins.substack.com](https://jeffgoins.substack.com)
- - date_published: 2024-07-08T22:30:42.071939+00:00
-
- ## protein wisdom reborn! | Jeff Goldstein | Substack
- - [https://jeffgoldstein.substack.com](https://jeffgoldstein.substack.com)
- - date_published: 2024-07-04T01:27:51.225885+00:00
-
- ## Points And Figures | Jeffrey Carter | Substack
- - [https://jeffreycarter.substack.com](https://jeffreycarter.substack.com)
- - date_published: 2023-10-25T09:55:01.324163+00:00
- - tags: ['substack']
-
- ## Libertarian Land | Jeffrey Miron | Substack
- - [https://jeffreymiron.substack.com](https://jeffreymiron.substack.com)
- - date_published: 2024-10-31T22:52:20.219992+00:00
-
- ## Jeff Stein | Substack
- - [https://jeffstein.substack.com](https://jeffstein.substack.com)
- - date_published: 2024-09-09T23:06:39.412030+00:00
-
- ## English Republic of Letters | Jeffrey Streeter | Substack
- - [https://jeffstreeter.substack.com](https://jeffstreeter.substack.com)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Othered | Jenai Auman | Substack
- - [https://jenaiauman.substack.com](https://jenaiauman.substack.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Strongly Connected | Jen Lowe | Substack
- - [https://jenlowe.substack.com](https://jenlowe.substack.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## JENNY SAIS QUOI | Jenny Walton | Substack
- - [https://jennywalton.substack.com](https://jennywalton.substack.com)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## The faintest idea | Jenny Wen | Substack
- - [https://jennywen.substack.com](https://jennywen.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Jeremy’s Substack | Jeremy Szal | Substack
- - [https://jeremyszal.substack.com](https://jeremyszal.substack.com)
- - date_published: 2024-10-21T17:42:23.782723+00:00
-
- ## An Educated Guess | Jeroen van Baar | Substack
- - [https://jeroenvanbaar.substack.com](https://jeroenvanbaar.substack.com)
- - date_published: 2023-12-01T21:29:00.031789+00:00
-
- ## Jérôme à Paris  | Substack
- - [https://jeromeaparis.substack.com](https://jeromeaparis.substack.com)
- - date_published: 2023-10-25T09:55:06.824850+00:00
- - tags: ['substack']
-
- ## work in progress | jero | Substack
- - [https://jero.substack.com](https://jero.substack.com)
- - date_published: 2024-05-12T05:28:14.910849+00:00
-
- ## Weekly Crystallizations | Jesse Szepieniec | Substack
- - [https://jessems.substack.com](https://jessems.substack.com)
- - date_published: 2024-08-19T08:23:11.741217+00:00
 

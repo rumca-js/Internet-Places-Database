@@ -1,3 +1,81 @@
+ ## Logpipe
+ - [https://logpipe.dev](https://logpipe.dev)
+ - date_published: 2024-04-29T07:41:10.653688+00:00
+
+ ## Michi's Blog
+ - [https://blog.lohr.dev](https://blog.lohr.dev)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Michael Lohr
+ - [https://lohr.dev](https://lohr.dev)
+ - date_published: 2024-01-27T17:17:02+00:00
+
+ ## Doug Hammond
+ - [https://doug.lon.dev](https://doug.lon.dev)
+ - date_published: 2024-01-31T16:19:06.866893+00:00
+
+ ## Umami
+ - [https://analytics.lorendb.dev](https://analytics.lorendb.dev)
+ - date_published: 2024-04-30T00:31:50.044212+00:00
+
+ ## Loren's blog
+ - [https://lorendb.dev](https://lorendb.dev)
+ - date_published: 2024-01-05T15:16:20.712582+00:00
+
+ ## lorenzofox blog | Lorenzofox's dev blog
+ - [https://lorenzofox.dev](https://lorenzofox.dev)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Loro – Reimagine state management with CRDTs – Loro
+ - [https://loro.dev](https://loro.dev)
+ - date_published: 2024-04-30T00:29:47.979139+00:00
+
+ ## Lotus Docs | A Hugo Documentation Theme
+ - [https://lotusdocs.dev](https://lotusdocs.dev)
+ - date_published: 2024-05-16T02:48:08.499254+00:00
+
+ ## Effortlessly deploy your LaravelPHP Application
+ - [https://loupp.dev](https://loupp.dev)
+ - date_published: 2024-10-28T23:33:21.684982+00:00
+
+ ## Lovable - The last piece of software
+ - [https://lovable.dev](https://lovable.dev)
+ - date_published: 2024-07-13T14:13:39.225321+00:00
+
+ ## Hello, I'm Lubna - Front-End Web Developer & CSS Specialist
+ - [https://lubna.dev](https://lubna.dev)
+ - date_published: 2024-03-14T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Lucas L Jordan
+ - [https://lucasjordan.dev](https://lucasjordan.dev)
+ - date_published: 2024-06-01T02:07:10+00:00
+
+ ## Lucas Queiroz | Backend Developer
+ - [https://lucasqueiroz.dev](https://lucasqueiroz.dev)
+ - date_published: 2024-05-11T10:07:45.409478+00:00
+
+ ## Lucas van Dongen - Mobile iOS and macOS Consultancy, Programming and Software Development Process Manager
+ - [https://lucasvandongen.dev](https://lucasvandongen.dev)
+ - date_published: 2024-06-23T14:50:07.145117+00:00
+
+ ## Index – Guide
+ - [https://guidelines.luckymedia.dev](https://guidelines.luckymedia.dev)
+ - date_published: 2024-06-19T09:28:57.764674+00:00
+
+ ## Lucky Media
+ - [https://luckymedia.dev](https://luckymedia.dev)
+ - date_published: 2022-09-12T00:00:00+00:00
+
+ ## Luckymike's Tech Notes
+ - [https://luckymike.dev](https://luckymike.dev)
+ - date_published: 2024-10-10T09:54:16.645453+00:00
+ - tags: ['personal']
+
+ ## Luigi Cruz - Software Developer
+ - [https://luigicruz.dev](https://luigicruz.dev)
+ - date_published: 2024-05-11T10:21:49.476512+00:00
+
  ## luizdepra
  - [https://luizdepra.dev](https://luizdepra.dev)
  - date_published: 2024-02-09T14:05:09.032954+00:00
@@ -4007,80 +4085,4 @@
  ## Scott Leggett | @smlx's blog
  - [https://smlx.dev](https://smlx.dev)
  - date_published: 2024-02-14T19:23:45.960903+00:00
-
- ## SmolCSS
- - [https://smolcss.dev](https://smolcss.dev)
- - date_published: 2024-04-30T00:34:56.467195+00:00
-
- ## smoores.dev
- - [https://smoores.dev](https://smoores.dev)
- - date_published: 2024-11-16T01:27:43+00:00
-
- ## Snaplet
- - [https://www.snaplet.dev](https://www.snaplet.dev)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Error
- - [https://img.snaplink.dev](https://img.snaplink.dev)
- - date_published: 2024-04-28T01:46:06.742156+00:00
-
- ## Snaptail - One File React Apps
- - [https://snaptail.dev](https://snaptail.dev)
- - date_published: 2024-09-02T09:52:36.658268+00:00
-
- ## Snowpack
- - [https://www.snowpack.dev](https://www.snowpack.dev)
- - date_published: 2024-05-06T13:11:48.505017+00:00
-
- ## Socheat Sok
- - [https://socheat.dev](https://socheat.dev)
- - date_published: 2024-05-11T10:20:32.970537+00:00
-
- ## Socket - Secure your dependencies. Ship with confidence.
- - [https://api.socket.dev](https://api.socket.dev)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Getting started
- - [https://docs.socket.dev](https://docs.socket.dev)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Socket Feedback
- - [https://feedback.socket.dev](https://feedback.socket.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Socket - Secure your supply chain. Ship with confidence.
- - [https://socket.dev](https://socket.dev)
- - date_published: 2023-10-25T18:42:09.401241+00:00
-
- ## Socket Status
- - [https://status.socket.dev](https://status.socket.dev)
- - date_published: 2024-04-30T02:18:13.912061+00:00
-
- ## Software at Scale | Utsav Shah | Substack
- - [https://softwareatscale.dev](https://softwareatscale.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Out of the Software Crisis: The Newsletter
- - [https://softwarecrisis.dev](https://softwarecrisis.dev)
- - date_published: 2023-10-25T18:42:14.589232+00:00
-
- ## https://softwaregarden.dev/en/
- - [https://softwaregarden.dev](https://softwaregarden.dev)
- - date_published: 2024-07-24T06:05:04.897502+00:00
-
- ## Software Social
- - [https://softwaresocial.dev](https://softwaresocial.dev)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Solace Codelabs
- - [https://codelabs.solace.dev](https://codelabs.solace.dev)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [https://solace.dev](https://solace.dev)
- - date_published: 2024-07-04T11:31:18.959358+00:00
-
- ## Home
- - [https://tutorials.solace.dev](https://tutorials.solace.dev)
- - date_published: 2024-07-04T11:31:13.016093+00:00
 

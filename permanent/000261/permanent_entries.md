@@ -1,3 +1,79 @@
+ ## Human Resource Management & Development | The George Washington University
+ - [https://hr.gwu.edu](https://hr.gwu.edu)
+ - date_published: 2024-07-20T15:13:15+00:00
+
+ ## Institute for Data, Democracy & Politics (IDDP) | Columbian College of Arts & Sciences | The George Washington University
+ - [https://iddp.gwu.edu](https://iddp.gwu.edu)
+ - date_published: 2024-07-21T03:32:57+00:00
+
+ ## GW Law Admitted Students | The George Washington University
+ - [https://inatgw.law.gwu.edu](https://inatgw.law.gwu.edu)
+ - date_published: 2024-07-20T22:03:46+00:00
+
+ ## GW Information Technology | The George Washington University
+ - [https://it.gwu.edu](https://it.gwu.edu)
+ - date_published: 2024-07-21T13:47:02+00:00
+
+ ## Libraries & Academic Innovation | Libraries & Academic Innovation
+ - [https://library.gwu.edu](https://library.gwu.edu)
+ - date_published: 2024-06-14T04:08:09+00:00
+
+ ## Mechanical & Aerospace Engineering (MAE) | School of Engineering & Applied Science | The George Washington University
+ - [https://mae.engineering.gwu.edu](https://mae.engineering.gwu.edu)
+ - date_published: 2024-07-21T18:13:03+00:00
+
+ ## Mechanical & Aerospace Engineering (MAE) | School of Engineering & Applied Science | The George Washington University
+ - [https://mae.seas.gwu.edu](https://mae.seas.gwu.edu)
+ - date_published: 2024-04-30T04:41:55.739633+00:00
+
+ ## GW Magazine | The George Washington University
+ - [https://magazine.gwu.edu](https://magazine.gwu.edu)
+ - date_published: 2024-07-21T13:03:21+00:00
+
+ ## The Department of Mathematics | Columbian College of Arts & Sciences | The George Washington University
+ - [https://math.columbian.gwu.edu](https://math.columbian.gwu.edu)
+ - date_published: 2024-07-20T21:25:30+00:00
+
+ ## Media Relations | The George Washington University
+ - [https://mediarelations.gwu.edu](https://mediarelations.gwu.edu)
+ - date_published: 2024-04-30T04:41:11.660611+00:00
+
+ ## The George Washington University
+ - [https://my.gwu.edu](https://my.gwu.edu)
+ - date_published: 2024-07-20T22:45:21.792499+00:00
+
+ ## GW Nanofabrication & Imaging Center | The George Washington University
+ - [https://nic.gwu.edu](https://nic.gwu.edu)
+ - date_published: 2024-07-21T22:16:31+00:00
+
+ ## The National  Security Archive, at The George Washington University
+ - [https://nsarchive2.gwu.edu](https://nsarchive2.gwu.edu)
+ - date_published: 2023-10-30T22:24:50+00:00
+
+ ## Home | National Security Archive
+ - [https://nsarchive.gwu.edu](https://nsarchive.gwu.edu)
+ - date_published: 2023-10-25T18:51:17.562894+00:00
+
+ ## School of Nursing | The George Washington University
+ - [https://nursing.gwu.edu](https://nursing.gwu.edu)
+ - date_published: 2024-07-21T18:21:56+00:00
+
+ ## GW Police Department | The George Washington University
+ - [https://police.gwu.edu](https://police.gwu.edu)
+ - date_published: 2024-07-21T17:07:42+00:00
+
+ ## Master of Public Health
+ - [https://publichealthonline.gwu.edu](https://publichealthonline.gwu.edu)
+ - date_published: 2024-10-31T07:13:44.341053+00:00
+
+ ## GW Research Magazine | The George Washington University
+ - [https://researchmagazine.gwu.edu](https://researchmagazine.gwu.edu)
+ - date_published: 2024-07-21T20:19:37+00:00
+
+ ## Safety | The George Washington University
+ - [https://safety.gwu.edu](https://safety.gwu.edu)
+ - date_published: 2024-07-21T14:26:03+00:00
+
  ## Division for Student Affairs | The George Washington University
  - [https://students.gwu.edu](https://students.gwu.edu)
  - date_published: 2024-07-21T14:46:37+00:00
@@ -3933,80 +4009,4 @@ Data Services
  ## Undergraduate Admissions | Johns Hopkins University
  - [https://apply.jhu.edu](https://apply.jhu.edu)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## Brand Guidelines
- - [https://brand.jhu.edu](https://brand.jhu.edu)
- - date_published: 2024-07-22T18:46:48.526298+00:00
-
- ## Johns Hopkins MBA & Specialty Masters Programs
- - [https://carey.jhu.edu](https://carey.jhu.edu)
- - date_published: 2024-07-08T19:12:43+00:00
-
- ## CCB at JHU
- - [https://ccb.jhu.edu](https://ccb.jhu.edu)
- - date_published: 2024-09-02T15:37:48.260557+00:00
-
- ## CCVL @ Johns Hopkins University
- - [https://ccvl.jhu.edu](https://ccvl.jhu.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## CGPO – The Commerical and Government Program Office
- - [https://cgpo.jhu.edu](https://cgpo.jhu.edu)
- - date_published: 2024-05-09T04:33:26.909643+00:00
-
- ## CISS - Johns Hopkins University - CISS 2025
- - [https://ciss.jhu.edu](https://ciss.jhu.edu)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Home - Johns Hopkins Coronavirus Resource Center
- - [https://coronavirus.jhu.edu](https://coronavirus.jhu.edu)
- - date_published: 2023-05-24T20:05:27+00:00
-
- ## CoursePlus Home
- - [https://courseplus.jhu.edu](https://courseplus.jhu.edu)
- - date_published: 2024-05-11T07:26:25.803897+00:00
-
- ## Coronavirus Information
- - [https://covidinfo.jhu.edu](https://covidinfo.jhu.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Johns Hopkins Department of Computer Science
- - [https://cs.jhu.edu](https://cs.jhu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Diversity at JHU
- - [https://diversity.jhu.edu](https://diversity.jhu.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## The Johns Hopkins University < Johns Hopkins University
- - [https://e-catalogue.jhu.edu](https://e-catalogue.jhu.edu)
- - date_published: 2024-05-09T04:33:32.529730+00:00
-
- ## Home - JHU School of Education
- - [http://education.jhu.edu](http://education.jhu.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home
- - [https://engineering.jhu.edu](https://engineering.jhu.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Johns Hopkins Engineering for Professionals
- - [https://ep.jhu.edu](https://ep.jhu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Events | Johns Hopkins Events
- - [https://events.jhu.edu](https://events.jhu.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## JHU Faculty Careers
- - [https://facultyjobs.jhu.edu](https://facultyjobs.jhu.edu)
- - date_published: 2024-05-09T04:33:36.095510+00:00
-
- ## Homepage - Scholarship For All | Project Muse
- - [https://getstarted.muse.jhu.edu](https://getstarted.muse.jhu.edu)
- - date_published: 2022-08-05T00:00:00+00:00
-
- ## Giving to Johns Hopkins | JHU Development & Alumni Relations
- - [https://giving.jhu.edu](https://giving.jhu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
 

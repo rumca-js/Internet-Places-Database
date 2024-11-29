@@ -1,3 +1,23 @@
+ ## Disney+ Press Center
+ - [https://dadt.com](https://dadt.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Home | Daedalus Films | The World's First Completely Democratized Studio.
+ - [https://www.daedalusfilms.com](https://www.daedalusfilms.com)
+ - date_published: 2024-09-03T21:18:00.132422+00:00
+
+ ## Stories about Software
+ - [https://daedtech.com](https://daedtech.com)
+ - date_published: 2023-10-25T13:41:13.942994+00:00
+
+ ## Daed Toolworks
+ - [http://www.daedtoolworks.com](http://www.daedtoolworks.com)
+ - date_published: 2024-08-19T21:49:41.583284+00:00
+
+ ## Daekun Kim
+ - [https://daekunkim.com](https://daekunkim.com)
+ - date_published: 2024-07-21T09:12:18.647549+00:00
+
  ## DLNK Works
  - [https://www.daelonik.com](https://www.daelonik.com)
  - date_published: 2024-05-06T21:14:59.171218+00:00
@@ -4030,24 +4050,4 @@
  ## Dedicated Servers & Secure Web Hosting | Datarealm
  - [http://datarealm.com](http://datarealm.com)
  - date_published: 2022-10-21T14:12:31+00:00
-
- ## Data Realms, makers of the game Cortex Command
- - [https://datarealms.com](https://datarealms.com)
- - date_published: 2024-07-11T12:41:05.872500+00:00
-
- ## Data Realms – Dev Log
- - [http://devlog.datarealms.com](http://devlog.datarealms.com)
- - date_published: 2024-07-11T12:41:03.978725+00:00
-
- ## Data Realms Fan Forums - Index page
- - [http://forums.datarealms.com](http://forums.datarealms.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Data Realms, makers of the game Cortex Command
- - [http://tradestar.datarealms.com](http://tradestar.datarealms.com)
- - date_published: 2012-06-19T04:27:09+00:00
-
- ## Home - DATARELLA
- - [https://datarella.com](https://datarella.com)
- - date_published: 2024-09-25T13:07:37.094068+00:00
 

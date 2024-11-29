@@ -1,3 +1,79 @@
+ ## Johannes Gutenberg-Universität Mainz
+ - [https://uni-mainz.de](https://uni-mainz.de)
+ - date_published: 2024-07-24T04:22:41.664173+00:00
+
+ ## Web-Hosting mit WordPress an der JGU
+ - [https://www.blogs.uni-mainz.de](https://www.blogs.uni-mainz.de)
+ - date_published: 2024-06-28T18:38:33.757888+00:00
+
+ ## Programming Languages
+ - [https://www.pl.cs.uni-mainz.de](https://www.pl.cs.uni-mainz.de)
+ - date_published: 2024-06-20T05:53:46.067566+00:00
+
+ ## Programming Languages
+ - [https://www.pl.informatik.uni-mainz.de](https://www.pl.informatik.uni-mainz.de)
+ - date_published: 2024-06-20T05:53:46.979243+00:00
+
+ ## Weiterleitung
+ - [https://www.staff.uni-mainz.de](https://www.staff.uni-mainz.de)
+ - date_published: 2019-09-24T08:08:51+00:00
+
+ ## Universität Mannheim
+ - [https://www.uni-mannheim.de](https://www.uni-mannheim.de)
+ - date_published: 2024-06-24T10:14:49.535375+00:00
+
+ ## Philipps-Universität Marburg
+ - [http://www.uni-marburg.de](http://www.uni-marburg.de)
+ - date_published: 2024-06-24T09:31:32.812934+00:00
+
+ ## LMUcast 5
+ - [https://cast.itunes.uni-muenchen.de](https://cast.itunes.uni-muenchen.de)
+ - date_published: 2023-06-01T09:26:03+00:00
+
+ ## Electronic Theses of LMU Munich
+ - [https://edoc.ub.uni-muenchen.de](https://edoc.ub.uni-muenchen.de)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Test Page for the Apache HTTP Server on Scientific Linux
+ - [https://homepages.physik.uni-muenchen.de](https://homepages.physik.uni-muenchen.de)
+ - date_published: 2023-05-26T10:04:57+00:00
+
+ ## Weiterleitung
+ - [https://lsf.verwaltung.uni-muenchen.de](https://lsf.verwaltung.uni-muenchen.de)
+ - date_published: 2024-07-24T06:47:39.661657+00:00
+
+ ## Munich Personal RePEc Archive
+ - [https://mpra.ub.uni-muenchen.de](https://mpra.ub.uni-muenchen.de)
+ - date_published: 2024-07-03T22:06:25.114194+00:00
+
+ ## Online Katalog der Universitätsbibliothek der LMU München
+ - [https://opac.ub.uni-muenchen.de](https://opac.ub.uni-muenchen.de)
+ - date_published: 2024-06-24T10:45:24.967644+00:00
+
+ ## Das Center for Advanced Studies
+ - [http://www.cas.uni-muenchen.de](http://www.cas.uni-muenchen.de)
+ - date_published: 2024-08-19T00:23:01+00:00
+
+ ## School of Arts - LMU Munich
+ - [https://www.en.kunstwissenschaften.uni-muenchen.de](https://www.en.kunstwissenschaften.uni-muenchen.de)
+ - date_published: 2024-09-14T08:19:50.304293+00:00
+
+ ## Human Centered Ubiquitous Media  (EN) - LMU Munich
+ - [https://www.en.um.informatik.uni-muenchen.de](https://www.en.um.informatik.uni-muenchen.de)
+ - date_published: 2024-07-24T06:47:40.755717+00:00
+
+ ## Home - LMU Munich
+ - [https://www.en.uni-muenchen.de](https://www.en.uni-muenchen.de)
+ - date_published: 2024-08-08T12:29:03+00:00
+
+ ## Institut für Informatik - LMU München
+ - [https://www.ifi.uni-muenchen.de](https://www.ifi.uni-muenchen.de)
+ - date_published: 2024-09-14T08:19:53.293816+00:00
+
+ ## Fakultät für Mathematik, Informatik und Statistik - LMU München
+ - [https://www.mathematik-informatik-statistik.uni-muenchen.de](https://www.mathematik-informatik-statistik.uni-muenchen.de)
+ - date_published: 2024-07-24T06:47:30.138203+00:00
+
  ## Department Mathematik - LMU München
  - [https://www.mathematik.uni-muenchen.de](https://www.mathematik.uni-muenchen.de)
  - date_published: 2024-06-30T08:57:38.558451+00:00
@@ -3937,80 +4013,4 @@ Bibliotheken / Z39.50
  ## SCIP
  - [https://scip.zib.de](https://scip.zib.de)
  - date_published: 2024-07-12T08:10:07.616615+00:00
-
- ## SoPlex
- - [http://soplex.zib.de](http://soplex.zib.de)
- - date_published: 2024-10-16T06:10:40.270390+00:00
-
- ## UG
- - [http://ug.zib.de](http://ug.zib.de)
- - date_published: 2024-10-16T06:09:25.920844+00:00
-
- ## Home | zib.de
- - [https://www.zib.de](https://www.zib.de)
- - date_published: 2024-05-04T15:14:50.864936+00:00
-
- ## ZIMPL
- - [http://zimpl.zib.de](http://zimpl.zib.de)
- - date_published: 2024-06-17T03:06:17.432785+00:00
-
- ## Home - Konrad Zuse Internet Archive
- - [http://zuse-z1.zib.de](http://zuse-z1.zib.de)
- - date_published: 2015-03-16T16:12:59+00:00
-
- ## Konrad Zuse Internet Archive - Home
- - [http://zuse.zib.de](http://zuse.zib.de)
- - date_published: 2024-07-14T16:32:17.669454+00:00
-
- ## Raum für Neues
- - [http://zieglerbuerg.de](http://zieglerbuerg.de)
- - date_published: 2021-05-31T20:12:01+00:00
-
- ## LAN Party in Zittau - Das Original seit 2001 - www.zi-lan.de
- - [http://zi-lan.de](http://zi-lan.de)
- - date_published: 2024-07-24T04:42:17.934713+00:00
-
- ## Zentralinstitut für Seelische Gesundheit
- - [https://www.zi-mannheim.de](https://www.zi-mannheim.de)
- - date_published: 2024-08-19T19:24:05.530713+00:00
-
- ## zimpel - die PR-Software und Mediendatenbank
- - [https://www.zimpel-online.de](https://www.zimpel-online.de)
- - date_published: 2024-06-26T07:49:15.054310+00:00
-
- ## ZITATE-ONLINE.DE +++ Starke Sprüche - treffende Zitate +++ Sprichwörter +++ Zitat des Tages +++ Forum +++ Lieblingszitate verwalten u.v.m.
- - [https://zitate-online.de](https://zitate-online.de)
- - date_published: 2024-04-29T06:31:46.394671+00:00
-
- ## Startseite | Zix
- - [https://zix.de](https://zix.de)
- - date_published: 2024-09-16T01:29:11.865116+00:00
-
- ## Zentrum für Kunst und Medien | ZKM
- - [https://zkm.de](https://zkm.de)
- - date_published: 2024-06-28T21:28:04+00:00
-
- ## Z-Node 51
- - [https://znode51.de](https://znode51.de)
- - date_published: 2018-05-10T10:55:23+00:00
-
- ## Zoetis
- - [https://www2.zoetis.de](https://www2.zoetis.de)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Startseite
- - [https://www.zolar.de](https://www.zolar.de)
- - date_published: 2024-09-25T19:03:50.627445+00:00
-
- ## Startseite - Zoo Frankfurt
- - [http://www.zoo-frankfurt.de](http://www.zoo-frankfurt.de)
- - date_published: 2024-06-20T21:40:03.386095+00:00
-
- ## Startseite
- - [https://www.zoo-heidelberg.de](https://www.zoo-heidelberg.de)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ZOOKINDERGARTEN MAGDEBURG
- - [http://www.zoo-kindergarten.de](http://www.zoo-kindergarten.de)
- - date_published: 2021-01-18T11:28:48+00:00
 

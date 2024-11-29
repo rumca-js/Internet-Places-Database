@@ -1,3 +1,23 @@
+ ## Plausible · Web analytics
+ - [https://plausible.eightvalues.com](https://plausible.eightvalues.com)
+ - date_published: 2024-05-06T12:49:46.305183+00:00
+
+ ## Empowering Founders to Scale Confidently
+ - [https://eighty2i.com](https://eighty2i.com)
+ - date_published: 2024-06-21T21:11:18.549458+00:00
+
+ ## Eighty Sixed - Video game apparel and merchandise
+ - [http://www.eightysixed.com](http://www.eightysixed.com)
+ - date_published: 2024-10-26T07:09:19.888054+00:00
+
+ ## Eighty Twenty CMO
+ - [https://www.eightytwentycmo.com](https://www.eightytwentycmo.com)
+ - date_published: 2024-07-24T02:16:16.934869+00:00
+
+ ## Eihab Khan - Front End Engineer and UI/UX Designer
+ - [https://eihabkhan.com](https://eihabkhan.com)
+ - date_published: 2024-05-11T10:20:17.641560+00:00
+
  ## Eike Drescher - Product Designer
  - [https://eikedrescher.com](https://eikedrescher.com)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -1192,6 +1212,7 @@
  ## Electricity Maps | Live 24/7 CO₂ emissions of electricity consumption
  - [https://app.electricitymaps.com](https://app.electricitymaps.com)
  - date_published: 2023-10-25T14:04:41.764051+00:00
+ - tags: ['electricity', 'energy']
 
  ## Electricity Maps | Reduce carbon emissions with actionable electricity data
  - [https://www.electricitymaps.com](https://www.electricitymaps.com)
@@ -4013,24 +4034,4 @@
  ## Acrelia News, Email marketing de calidad
  - [https://email-index.com](https://email-index.com)
  - date_published: 2024-09-09T06:50:36+00:00
-
- ## Email Leak Tests
- - [https://emailipleak.com](https://emailipleak.com)
- - date_published: 2024-05-07T09:27:28.980117+00:00
-
- ## Email is good.
- - [https://email-is-good.com](https://email-is-good.com)
- - date_published: 2024-08-18T22:38:23+00:00
-
- ## Send email from Javascript - no server code required | EmailJS
- - [https://dashboard.emailjs.com](https://dashboard.emailjs.com)
- - date_published: 2024-09-12T12:19:29+00:00
-
- ## EmailMeForm: Free Online Form Builder and Survey Creator
- - [https://app.emailmeform.com](https://app.emailmeform.com)
- - date_published: 2024-07-16T21:43:16.366713+00:00
-
- ## EmailMeForm: Free Online Form Builder and Survey Creator
- - [https://emailmeform.com](https://emailmeform.com)
- - date_published: 2024-05-12T07:12:46.437985+00:00
 

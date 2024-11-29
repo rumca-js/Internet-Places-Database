@@ -1,3 +1,27 @@
+ ## ImTui Emscripten example
+ - [https://imtui.ggerganov.com](https://imtui.ggerganov.com)
+ - date_published: 2022-03-20T08:56:50+00:00
+
+ ## Keytap2
+ - [https://keytap2.ggerganov.com](https://keytap2.ggerganov.com)
+ - date_published: 2021-05-08T00:00:00+00:00
+
+ ## Keytap3: acoustic keyboard eavesdropping
+ - [https://keytap3.ggerganov.com](https://keytap3.ggerganov.com)
+ - date_published: 2022-04-25T11:00:00+00:00
+
+ ## Keytap3
+ - [https://keytap3-gui.ggerganov.com](https://keytap3-gui.ggerganov.com)
+ - date_published: 2022-05-02T00:00:00+00:00
+
+ ## Keytap: acoustic keyboard eavesdropping
+ - [https://keytap.ggerganov.com](https://keytap.ggerganov.com)
+ - date_published: 2018-11-24T11:00:00+00:00
+
+ ## r2t2
+ - [https://r2t2.ggerganov.com](https://r2t2.ggerganov.com)
+ - date_published: 2021-04-18T10:50:26+00:00
+
  ## Slack (TUI) - Text-based mock UI
  - [https://slack.ggerganov.com](https://slack.ggerganov.com)
  - date_published: 2022-07-25T17:32:01+00:00
@@ -1800,7 +1824,7 @@
  ## GitHub - KurtBestor/Hitomi-Downloader: :cake: Desktop utility to download images/videos/music/text from various websites, and more.
  - [https://github.com/KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
  - date_published: 2024-11-07T09:47:55+00:00
- - tags: ['download manager']
+ - tags: ['download manager', 'youtube']
 
  ## GitHub - TeamNewPipe/NewPipe: A libre lightweight streaming front-end for Android.
  - [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
@@ -2153,6 +2177,16 @@
  - [https://github.com/go-rod/rod](https://github.com/go-rod/rod)
  - date_published: 2024-11-27T17:16:03+00:00
  - tags: ['web scraping']
+
+ ## GitHub - peass-ng/PEASS-ng: PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+ - [https://github.com/peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
+ - date_published: 2024-11-28T17:15:01+00:00
+ - tags: ['hacking']
+
+ ## GitHub - PyPSA/pypsa-eur: PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
+ - [https://github.com/PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur)
+ - date_published: 2024-11-28T20:15:42+00:00
+ - tags: ['electricity', 'energy']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -4074,36 +4108,4 @@
  ## Global Toy Experts | Toy Experts | Toy Expert Near Me
  - [https://www.globaltoyexperts.com](https://www.globaltoyexperts.com)
  - date_published: 2024-05-04T08:15:13.241545+00:00
-
- ## Global Toy News – The World's Most Influential Toy Magazine
- - [https://globaltoynews.com](https://globaltoynews.com)
- - date_published: 2023-10-25T14:46:04.543243+00:00
-
- ## Global Trailer
- - [https://www.globaltrailermag.com](https://www.globaltrailermag.com)
- - date_published: 2024-09-09T04:33:25+00:00
-
- ## Global Traveler
- - [http://www.globaltraveler.com](http://www.globaltraveler.com)
- - date_published: 2024-07-04T04:55:27.633859+00:00
-
- ## Experience the Next Level of Global Market Access - Global Validity
- - [https://globalvalidity.com](https://globalvalidity.com)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## Global Venturing | Where Global Innovation and Capital Meet
- - [https://globalventuring.com](https://globalventuring.com)
- - date_published: 2024-06-28T17:59:17.861697+00:00
-
- ## Global Village Publishing Inc – International Publishers of Innovation
- - [https://globalvillagepublishinginc.com](https://globalvillagepublishinginc.com)
- - date_published: 2024-10-14T10:43:25.145553+00:00
-
- ## GLOBAL VR Service Website
- - [https://service.globalvr.com](https://service.globalvr.com)
- - date_published: 2024-09-15T09:04:40.137158+00:00
-
- ## globalwarminghysteria.com
- - [http://www.globalwarminghysteria.com](http://www.globalwarminghysteria.com)
- - date_published: 2024-10-31T23:15:11.245359+00:00
 

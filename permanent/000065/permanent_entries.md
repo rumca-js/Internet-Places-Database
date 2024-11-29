@@ -1,3 +1,23 @@
+ ## Arcadia Prime
+ - [https://wfarcadia.blogspot.com](https://wfarcadia.blogspot.com)
+ - date_published: 2024-10-24T08:29:21+00:00
+
+ ## wgnb
+ - [http://wgnb.blogspot.com](http://wgnb.blogspot.com)
+ - date_published: 2024-03-13T00:28:04+00:00
+
+ ## The Trout Also Rises
+ - [http://whatacountry.blogspot.com](http://whatacountry.blogspot.com)
+ - date_published: 2024-03-14T07:14:32+00:00
+
+ ## The Daily Plant
+ - [http://whataplantknows.blogspot.com](http://whataplantknows.blogspot.com)
+ - date_published: 2024-10-19T04:37:36.256345+00:00
+
+ ## What Do I Know?
+ - [http://whatdoino-steve.blogspot.com](http://whatdoino-steve.blogspot.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## Whatever It Is, I’m Against It
  - [http://whateveritisimagainstit.blogspot.com](http://whateveritisimagainstit.blogspot.com)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3997,24 +4017,4 @@
  ## Homepage | Archives of Disease in Childhood
  - [https://adc.bmj.com](https://adc.bmj.com)
  - date_published: 2024-04-10T00:00:00+00:00
-
- ## Homepage | Annals of the Rheumatic Diseases
- - [https://ard.bmj.com](https://ard.bmj.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## BMJ Author Hub - BMJ Author Hub
- - [https://authors.bmj.com](https://authors.bmj.com)
- - date_published: 2024-05-08T03:00:39.482552+00:00
-
- ## Homepage | BMJ Best Practice
- - [https://bestpractice.bmj.com](https://bestpractice.bmj.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Homepage | British Journal of Ophthalmology
- - [https://bjo.bmj.com](https://bjo.bmj.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Homepage | BJSM
- - [https://bjsm.bmj.com](https://bjsm.bmj.com)
- - date_published: 2023-10-25T10:36:52.375517+00:00
 

@@ -1,3 +1,23 @@
+ ## A Wargaming Odyssey
+ - [http://awargamingodyssey.blogspot.com](http://awargamingodyssey.blogspot.com)
+ - date_published: 2024-07-19T23:45:51+00:00
+
+ ## Oh, meta...
+ - [http://awarth.blogspot.com](http://awarth.blogspot.com)
+ - date_published: 2024-02-20T11:55:26+00:00
+
+ ## Ancient & World Coin Geek
+ - [http://awcoingeek.blogspot.com](http://awcoingeek.blogspot.com)
+ - date_published: 2024-03-19T10:19:42+00:00
+
+ ## THE PSYCHOLOGIST
+ - [http://awesternheart.blogspot.com](http://awesternheart.blogspot.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## An Awfully Big Blog Adventure
+ - [http://awfullybigblogadventure.blogspot.com](http://awfullybigblogadventure.blogspot.com)
+ - date_published: 2024-10-17T22:58:09.055868+00:00
+
  ## Abandonware Gazette
  - [http://awgazette.blogspot.com](http://awgazette.blogspot.com)
  - date_published: 2024-03-13T07:31:44+00:00
@@ -3996,24 +4016,4 @@
  ## Blogger
  - [http://collectivewishes.blogspot.com](http://collectivewishes.blogspot.com)
  - date_published: 2024-06-27T10:33:39.006873+00:00
-
- ## Alexis' Treasures!
- - [http://collectorsuniverse.blogspot.com](http://collectorsuniverse.blogspot.com)
- - date_published: 2024-09-17T22:47:07+00:00
-
- ## The Center for College Affordability and Productivity
- - [http://collegeaffordability.blogspot.com](http://collegeaffordability.blogspot.com)
- - date_published: 2024-03-23T19:00:14+00:00
-
- ## Collegia Titanica
- - [http://collegiatitanica.blogspot.com](http://collegiatitanica.blogspot.com)
- - date_published: 2013-09-15T00:00:00+00:00
-
- ## Colonel O'Truth's Miniature Issues
- - [http://colonelotruth.blogspot.com](http://colonelotruth.blogspot.com)
- - date_published: 2023-07-10T00:00:00+00:00
-
- ## Colonel Neville Always Dresses For Dinner.
- - [http://colonelrobertneville.blogspot.com](http://colonelrobertneville.blogspot.com)
- - date_published: 2024-05-01T12:22:43+00:00
 

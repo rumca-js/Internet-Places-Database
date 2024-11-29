@@ -1,3 +1,23 @@
+ ## Entretiens Jacques Cartier I Évènements Auvergne-Rhône-Alpes x Québec / francophonie canadienne | Entretiens Jacques Cartier
+ - [https://entretiensjacquescartier.com](https://entretiensjacquescartier.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Entri Dashboard
+ - [https://dashboard.entri.com](https://dashboard.entri.com)
+ - date_published: 2024-09-02T10:53:11.599700+00:00
+
+ ## Get started - Entri
+ - [https://developers.entri.com](https://developers.entri.com)
+ - date_published: 2024-09-02T10:53:14.279412+00:00
+
+ ## Entri - The API for Custom Domains
+ - [https://entri.com](https://entri.com)
+ - date_published: 2024-05-24T23:04:46.490380+00:00
+
+ ## Entri Status Page
+ - [https://status.entri.com](https://status.entri.com)
+ - date_published: 2024-09-02T10:53:15.799428+00:00
+
  ## Entro Games
  - [https://entrogames.com](https://entrogames.com)
  - date_published: 2023-10-27T10:36:39+00:00
@@ -4039,24 +4059,4 @@
  ## ETHBerlin 2018 | Berlin Hackathon & Workshops
  - [https://ethberlin.com](https://ethberlin.com)
  - date_published: 2014-04-02T00:00:00+00:00
-
- ## ETHBerlin ZWEI 2019
- - [https://ethberlinzwei.com](https://ethberlinzwei.com)
- - date_published: 2023-10-13T12:02:19+00:00
-
- ## ETHBratislava
- - [https://www.ethbratislava.com](https://www.ethbratislava.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## EthCapeTown – September 20 – 22, 2024
- - [https://ethcapetown.com](https://ethcapetown.com)
- - date_published: 2024-06-16T03:46:24.234955+00:00
-
- ## EthCC Hack
- - [https://ethcchack.com](https://ethcchack.com)
- - date_published: 2023-03-13T00:00:00+00:00
-
- ## ETHDam April 2024 Amsterdam Hackathon & Conference
- - [https://www.ethdam.com](https://www.ethdam.com)
- - date_published: 2024-04-12T00:00:00+00:00
 

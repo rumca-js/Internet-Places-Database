@@ -1,4 +1,93 @@
  ## openSUSE Wiki
+ - [http://hu.opensuse.org](http://hu.opensuse.org)
+ - date_published: 2024-06-22T07:07:08+00:00
+
+ ## openSUSE Wiki
+ - [http://is.opensuse.org](http://is.opensuse.org)
+ - date_published: 2024-06-22T07:07:22+00:00
+
+ ## openSUSE Wiki
+ - [http://it.opensuse.org](http://it.opensuse.org)
+ - date_published: 2024-06-22T07:07:24+00:00
+
+ ## openSUSE Wiki
+ - [http://ja.opensuse.org](http://ja.opensuse.org)
+ - date_published: 2024-06-22T07:07:15+00:00
+
+ ## openSUSE Weblate
+ - [https://l10n.opensuse.org](https://l10n.opensuse.org)
+ - date_published: 2024-06-22T12:08:01.731662+00:00
+
+ ## Available lists
+ - [https://lists.opensuse.org](https://lists.opensuse.org)
+ - date_published: 2024-07-07T04:07:34.102944+00:00
+
+ ## openSUSE Lizards
+ - [https://lizards.opensuse.org](https://lizards.opensuse.org)
+ - date_published: 2024-05-28T09:00:07+00:00
+
+ ## openSUSE News
+ - [https://news.opensuse.org](https://news.opensuse.org)
+ - date_published: 2023-10-25T21:54:11.240130+00:00
+
+ ## openSUSE Wiki
+ - [http://nl.opensuse.org](http://nl.opensuse.org)
+ - date_published: 2024-06-22T07:07:27+00:00
+
+ ## openQA
+ - [http://openqa.opensuse.org](http://openqa.opensuse.org)
+ - date_published: 2024-06-22T12:07:19.342545+00:00
+
+ ## The makers' choice for sysadmins, developers and desktop users.
+ - [https://opensuse.org](https://opensuse.org)
+ - date_published: 2024-04-22T07:25:28+00:00
+ - tags: ['operating system', 'linux', 'open source']
+
+ ## Global
+ - [https://planet.opensuse.org](https://planet.opensuse.org)
+ - date_published: 2024-06-30T21:05:12+00:00
+
+ ## openSUSE Wiki
+ - [http://pl.opensuse.org](http://pl.opensuse.org)
+ - date_published: 2024-06-22T07:07:31+00:00
+
+ ## Página Principal - openSUSE Wiki
+ - [http://pt.opensuse.org](http://pt.opensuse.org)
+ - date_published: 2024-06-22T07:07:28+00:00
+
+ ## openSUSE Wiki
+ - [http://ru.opensuse.org](http://ru.opensuse.org)
+ - date_published: 2024-06-22T07:07:21+00:00
+
+ ## SUSE Security Team Blog
+ - [https://security.opensuse.org](https://security.opensuse.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## openSUSE Shop
+ - [https://shop.opensuse.org](https://shop.opensuse.org)
+ - date_published: 2022-08-31T00:00:05+00:00
+
+ ## openSUSE Software
+ - [https://software.opensuse.org](https://software.opensuse.org)
+ - date_published: 2024-06-22T06:29:43.742434+00:00
+
+ ## static.opensuse.org
+ - [https://static.opensuse.org](https://static.opensuse.org)
+ - date_published: 2020-02-28T19:23:04+00:00
+
+ ## SUSE Studio Express
+ - [https://studioexpress.opensuse.org](https://studioexpress.opensuse.org)
+ - date_published: 2019-03-13T12:22:30+00:00
+
+ ## openSUSE Wiki
+ - [http://sv.opensuse.org](http://sv.opensuse.org)
+ - date_published: 2024-06-22T07:07:16+00:00
+
+ ## Ana Sayfa - openSUSE Wiki
+ - [http://tr.opensuse.org](http://tr.opensuse.org)
+ - date_published: 2024-06-22T07:07:23+00:00
+
+ ## openSUSE Wiki
  - [http://vi.opensuse.org](http://vi.opensuse.org)
  - date_published: 2024-06-22T07:07:05+00:00
 
@@ -3956,92 +4045,4 @@ TECHNICAL SPEAKER — @p01
  ## Penpot Fest 2024 - The design event that brings designers and developers together
  - [https://penpotfest.org](https://penpotfest.org)
  - date_published: 2024-08-19T11:38:27.031618+00:00
-
- ## Pensacola Sports
- - [https://www.pensacolasports.org](https://www.pensacolasports.org)
- - date_published: 2024-10-18T02:20:07.327246+00:00
-
- ## The Penetration Testing Execution Standard
- - [http://pentest-standard.org](http://pentest-standard.org)
- - date_published: 2014-08-16T00:00:00+00:00
-
- ## People and Planet First - Home
- - [https://peopleandplanetfirst.org](https://peopleandplanetfirst.org)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## Home | People For the American Way
- - [https://www.peoplefor.org](https://www.peoplefor.org)
- - date_published: 2024-10-29T19:21:39+00:00
-
- ## PeopleForBikes 2024 City Ratings | Every ride. Every rider. Join us.
- - [https://cityratings.peopleforbikes.org](https://cityratings.peopleforbikes.org)
- - date_published: 2024-06-26T08:17:05.379409+00:00
-
- ## The Final Mile
- - [https://finalmile.peopleforbikes.org](https://finalmile.peopleforbikes.org)
- - date_published: 2023-06-05T00:00:00+00:00
-
- ## PeopleForBikes | Every rider. Every ride.
- - [https://www.peopleforbikes.org](https://www.peopleforbikes.org)
- - date_published: 2024-06-26T08:17:06.444512+00:00
-
- ## People Incorporated | Mental Health Services
- - [https://peopleincorporated.org](https://peopleincorporated.org)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## People Like Us – Welcome to the only official site for People Like Us and Vicki Bennett
- - [http://www.peoplelikeus.org](http://www.peoplelikeus.org)
- - date_published: 2024-07-11T16:11:49.484487+00:00
-
- ## Join the ACLU's grassroots force: People Power
- - [https://www.peoplepower.org](https://www.peoplepower.org)
- - date_published: 2024-07-29T15:33:56+00:00
-
- ## Politics & Policy Archives
- - [https://people-press.org](https://people-press.org)
- - date_published: 2024-04-30T03:18:45.495755+00:00
-
- ## Social Care | The People's Care Watchdog
- - [https://peoplescarewatchdog.org](https://peoplescarewatchdog.org)
- - date_published: 2024-02-24T14:23:59.980894+00:00
-
- ## People's CDC
- - [https://peoplescdc.org](https://peoplescdc.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Peoples Dispatch - An international media organization with the mission of bringing to you voices from people’s movements
- - [https://peoplesdispatch.org](https://peoplesdispatch.org)
- - date_published: 2024-06-27T11:51:44.981782+00:00
-
- ## People's Parity Project
- - [https://peoplesparity.org](https://peoplesparity.org)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## PeoplesPlans.org – Exploring the Hidden Histories of Community-led Planning in the UK
- - [https://www.peoplesplans.org](https://www.peoplesplans.org)
- - date_published: 2024-06-18T12:42:20.538472+00:00
-
- ## People's Policy Project
- - [https://peoplespolicyproject.org](https://peoplespolicyproject.org)
- - date_published: 2024-05-08T03:30:42.912076+00:00
-
- ## People's World
- - [https://peoplesworld.org](https://peoplesworld.org)
- - date_published: 2023-11-04T02:47:57.842267+00:00
-
- ## Paul Oppenheimer | Home
- - [http://peoppenheimer.org](http://peoppenheimer.org)
- - date_published: 2023-04-20T08:10:59+00:00
-
- ## PEOReliability.org
- - [https://www.peoreliability.org](https://www.peoreliability.org)
- - date_published: 2024-10-14T11:25:42.858317+00:00
-
- ## PEP 8: The Style Guide for Python Code
- - [https://pep8.org](https://pep8.org)
- - date_published: 2024-11-08T19:43:47+00:00
-
- ## SBOBET88 : Daftar Link SBOBET Agen Judi Bola Terpercaya 2024
- - [https://www.pepfarsolutions.org](https://www.pepfarsolutions.org)
- - date_published: 2024-08-14T14:45:03+00:00
 

@@ -1,3 +1,92 @@
+ ## Dashboards and Data Downloads for Wikimedia Projects
+ - [https://analytics.wikimedia.org](https://analytics.wikimedia.org)
+ - date_published: 2023-02-09T14:53:58+00:00
+
+ ## 2022 - 2023 Annual Report – Wikimedia Foundation
+ - [https://annual.wikimedia.org](https://annual.wikimedia.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## ar.planet.wikimedia.org
+ - [https://ar.planet.wikimedia.org](https://ar.planet.wikimedia.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## উইকিমিডিয়া বাংলাদেশ
+ - [https://bd.wikimedia.org](https://bd.wikimedia.org)
+ - date_published: 2024-07-11T09:52:44+00:00
+
+ ## Diff
+ - [https://blog.wikimedia.org](https://blog.wikimedia.org)
+ - date_published: 2024-07-06T23:47:21.864378+00:00
+
+ ## Wikimedia Phabricator
+ - [https://bugzilla.wikimedia.org](https://bugzilla.wikimedia.org)
+ - date_published: 2024-07-12T02:59:24.353632+00:00
+
+ ## Wikimedia Canada
+ - [https://ca.wikimedia.org](https://ca.wikimedia.org)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Home - Wikimedia
+ - [https://ch.wikimedia.org](https://ch.wikimedia.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Collab
+ - [https://collab.wikimedia.org](https://collab.wikimedia.org)
+ - date_published: 2024-06-27T19:36:29+00:00
+
+ ## Wikimedia Commons
+ - [https://commons.m.wikimedia.org](https://commons.m.wikimedia.org)
+ - date_published: 2024-05-07T19:07:10.235754+00:00
+
+ ## Wikimedia Commons
+ - [https://commons.wikimedia.org](https://commons.wikimedia.org)
+ - date_published: 2023-10-25T22:20:40.800608+00:00
+ - tags: ['public domain']
+
+ ## cs.planet.wikimedia.org
+ - [https://cs.planet.wikimedia.org](https://cs.planet.wikimedia.org)
+ - date_published: 2024-06-30T06:00:03+00:00
+
+ ## de.planet.wikimedia.org
+ - [https://de.planet.wikimedia.org](https://de.planet.wikimedia.org)
+ - date_published: 2024-06-30T20:59:23+00:00
+
+ ## Design at Wikimedia Foundation
+ - [https://design.wikimedia.org](https://design.wikimedia.org)
+ - date_published: 2024-01-03T14:54:45+00:00
+
+ ## Wikimedia Developer Portal - Discover and build Wikimedia technology
+ - [https://developer.wikimedia.org](https://developer.wikimedia.org)
+ - date_published: 2024-05-08T10:04:30.747770+00:00
+
+ ## Diff – News from across the Wikimedia movement
+ - [https://diff.wikimedia.org](https://diff.wikimedia.org)
+ - date_published: 2023-10-25T22:20:44.837722+00:00
+
+ ## Wikimedia Danmark
+ - [https://dk.wikimedia.org](https://dk.wikimedia.org)
+ - date_published: 2024-07-08T02:51:42+00:00
+
+ ## Wikimedia Open Source
+ - [https://doc.wikimedia.org](https://doc.wikimedia.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Make your donation now - Wikimedia Foundation
+ - [https://donate.m.wikimedia.org](https://donate.m.wikimedia.org)
+ - date_published: 2024-07-11T22:01:23.130664+00:00
+
+ ## Make your donation now - Wikimedia Foundation
+ - [https://donate.wikimedia.org](https://donate.wikimedia.org)
+ - date_published: 2024-05-10T03:55:28.668747+00:00
+
+ ## Wikimedia Downloads
+ - [https://download.wikimedia.org](https://download.wikimedia.org)
+ - date_published: 2022-01-25T10:45:11+00:00
+
+ ## Wikimedia Downloads
+ - [https://dumps.wikimedia.org](https://dumps.wikimedia.org)
+ - date_published: 2022-01-25T10:45:11+00:00
+
  ## el.planet.wikimedia.org
  - [https://el.planet.wikimedia.org](https://el.planet.wikimedia.org)
  - date_published: 2024-06-30T06:08:01+00:00
@@ -3912,92 +4001,4 @@
  ## Wq/diq - Wikimedia Incubator
  - [https://diq.wikiquote.org](https://diq.wikiquote.org)
  - date_published: 2024-07-09T09:56:25+00:00
-
- ## Divehi Wikiquote - Wikimedia Incubator
- - [https://dv.wikiquote.org](https://dv.wikiquote.org)
- - date_published: 2024-07-12T02:57:02.206670+00:00
-
- ## Ewe Wikiquote - Wikimedia Incubator
- - [https://ee.wikiquote.org](https://ee.wikiquote.org)
- - date_published: 2024-07-12T03:02:11.912815+00:00
-
- ## Βικιφθέγματα
- - [https://el.wikiquote.org](https://el.wikiquote.org)
- - date_published: 2024-06-19T16:17:40+00:00
-
- ## Wikiquote
- - [https://en.m.wikiquote.org](https://en.m.wikiquote.org)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Wikiquote
- - [https://en.wikiquote.org](https://en.wikiquote.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Vikicitaro
- - [https://eo.wikiquote.org](https://eo.wikiquote.org)
- - date_published: 2024-06-19T16:17:41+00:00
-
- ## Wikiquote
- - [https://es.wikiquote.org](https://es.wikiquote.org)
- - date_published: 2024-06-22T08:08:00+00:00
-
- ## Vikitsitaadid
- - [https://et.wikiquote.org](https://et.wikiquote.org)
- - date_published: 2024-06-21T09:40:04+00:00
-
- ## Wikiquote
- - [https://eu.wikiquote.org](https://eu.wikiquote.org)
- - date_published: 2024-06-19T16:17:42+00:00
-
- ## Wq/fat - Wikimedia Incubator
- - [https://fat.wikiquote.org](https://fat.wikiquote.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## ویکی‌گفتاورد
- - [https://fa.wikiquote.org](https://fa.wikiquote.org)
- - date_published: 2024-06-19T16:17:42+00:00
-
- ## Fula Wikiquote - Wikimedia Incubator
- - [https://ff.wikiquote.org](https://ff.wikiquote.org)
- - date_published: 2024-07-12T03:01:04.598139+00:00
-
- ## Wikisitaatit
- - [https://fi.m.wikiquote.org](https://fi.m.wikiquote.org)
- - date_published: 2024-10-08T13:41:36+00:00
-
- ## Wikisitaatit
- - [https://fi.wikiquote.org](https://fi.wikiquote.org)
- - date_published: 2024-06-11T12:31:09+00:00
-
- ## Wikiquote
- - [https://fr.m.wikiquote.org](https://fr.m.wikiquote.org)
- - date_published: 2024-07-11T06:02:52+00:00
-
- ## Northern Frisian Wikiquote - Wikimedia Incubator
- - [https://frr.wikiquote.org](https://frr.wikiquote.org)
- - date_published: 2024-07-12T03:33:52.669246+00:00
-
- ## Wikiquote
- - [https://fr.wikiquote.org](https://fr.wikiquote.org)
- - date_published: 2024-05-10T04:24:52.558674+00:00
-
- ## Friulian Wikiquote - Wikimedia Incubator
- - [https://fur.wikiquote.org](https://fur.wikiquote.org)
- - date_published: 2024-07-12T05:34:46.136930+00:00
-
- ## Gan Wikiquote - Wikimedia Incubator
- - [https://gan.wikiquote.org](https://gan.wikiquote.org)
- - date_published: 2024-07-12T02:46:08.909155+00:00
-
- ## Príomh­leathanach - Vicísliocht
- - [https://ga.wikiquote.org](https://ga.wikiquote.org)
- - date_published: 2024-06-09T02:35:16+00:00
-
- ## Wikiquote
- - [https://gl.wikiquote.org](https://gl.wikiquote.org)
- - date_published: 2024-06-19T16:17:44+00:00
-
- ## Guarani Wikiquote - Wikimedia Incubator
- - [https://gn.wikiquote.org](https://gn.wikiquote.org)
- - date_published: 2024-09-18T03:02:23.826563+00:00
 

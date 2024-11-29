@@ -1,3 +1,23 @@
+ ## Create a Bright Life | Devoted to helping those in need
+ - [https://www.createabrightlife.com](https://www.createabrightlife.com)
+ - date_published: 2024-04-29T03:33:11.688360+00:00
+
+ ## Create A Forum - Support Forums - Index
+ - [https://support.createaforum.com](https://support.createaforum.com)
+ - date_published: 2024-06-21T10:38:35+00:00
+
+ ## Create A Forum - Free Forum Hosting and Message Board Hosting
+ - [https://www.createaforum.com](https://www.createaforum.com)
+ - date_published: 2024-05-04T12:03:29.809400+00:00
+
+ ## cAIc
+ - [https://ai.createaicourse.com](https://ai.createaicourse.com)
+ - date_published: 2024-09-14T07:58:50.488376+00:00
+
+ ## Ai Course Creator | Online Course Generator
+ - [https://createaicourse.com](https://createaicourse.com)
+ - date_published: 2024-04-17T18:03:35+00:00
+
  ## Create & Generate Free AI Videos — Vatic AI
  - [https://www.createaivideos.com](https://www.createaivideos.com)
  - date_published: 2023-03-31T00:00:00+00:00
@@ -737,6 +757,7 @@
  ## PEASS
  - [https://peass.creator-spring.com](https://peass.creator-spring.com)
  - date_published: 2024-03-19T14:36:38.302363+00:00
+ - tags: ['hacking', 'merchendise']
 
  ## Space.com Apparel
  - [https://spacecom-apparel.creator-spring.com](https://spacecom-apparel.creator-spring.com)
@@ -4019,24 +4040,4 @@
  ## Design & Development Related Blog
  - [https://cssauthor.com](https://cssauthor.com)
  - date_published: 2021-01-10T10:44:57+00:00
-
- ## Home - CSS tools for for designers and coders - CSS Bud
- - [https://cssbud.com](https://cssbud.com)
- - date_published: 2024-10-22T19:20:06.504611+00:00
-
- ## CSSBuy: Taobao Agent | The best shopping agent in China | Buy from 1688.com
- - [https://cssbuy.com](https://cssbuy.com)
- - date_published: 2024-06-14T20:07:18.680945+00:00
-
- ## The Cascade
- - [https://csscade.com](https://csscade.com)
- - date_published: 2024-06-21T22:18:17.934620+00:00
-
- ## csscomb.com
- - [http://csscomb.com](http://csscomb.com)
- - date_published: 2024-07-14T08:30:07.652524+00:00
-
- ## Home | CSSConf US 2016
- - [https://2016.cssconf.com](https://2016.cssconf.com)
- - date_published: 2019-09-19T01:30:45+00:00
 

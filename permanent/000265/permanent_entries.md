@@ -1,3 +1,79 @@
+ ## Home | School of Public Health
+ - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
+ - date_published: 2024-07-01T16:58:07.109232+00:00
+
+ ## Scholarship@PITT LAW
+ - [https://scholarship.law.pitt.edu](https://scholarship.law.pitt.edu)
+ - date_published: 2024-07-02T10:48:13.424947+00:00
+
+ ## Homepage | University of Pittsburgh at Bradford
+ - [https://upb.pitt.edu](https://upb.pitt.edu)
+ - date_published: 2024-07-01T16:59:24.069682+00:00
+
+ ## Home | Academics
+ - [https://www.academics.pitt.edu](https://www.academics.pitt.edu)
+ - date_published: 2024-07-01T16:58:33.495202+00:00
+
+ ## Pittsburgh Center for Artificial Intelligence Innovation in Medical Imaging | University of Pittsburgh
+ - [https://www.aimi.pitt.edu](https://www.aimi.pitt.edu)
+ - date_published: 2024-07-12T04:22:33+00:00
+
+ ## The Dietrich School of Arts & Sciences Graduate Studies | University of Pittsburgh
+ - [https://www.asgraduate.pitt.edu](https://www.asgraduate.pitt.edu)
+ - date_published: 2024-09-14T18:44:39+00:00
+
+ ## Joseph M. Katz Graduate School of Business at the University of Pittsburgh
+ - [https://www.business.pitt.edu](https://www.business.pitt.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Center for Philosophy of Science - Home
+ - [https://www.centerphilsci.pitt.edu](https://www.centerphilsci.pitt.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Center for Governance and Markets | University of Pittsburgh
+ - [https://www.cgm.pitt.edu](https://www.cgm.pitt.edu)
+ - date_published: 2024-07-22T03:29:36+00:00
+
+ ## Home | College of General Studies | University of Pittsburgh
+ - [https://www.cgs.pitt.edu](https://www.cgs.pitt.edu)
+ - date_published: 2024-07-01T16:38:17+00:00
+
+ ##  University of Pittsburgh: Center for National Preparedness 
+ - [http://www.cnp.pitt.edu](http://www.cnp.pitt.edu)
+ - date_published: 2024-09-14T22:29:31.400730+00:00
+
+ ## Office of | University of Pittsburgh
+ - [https://www.community.pitt.edu](https://www.community.pitt.edu)
+ - date_published: 2024-07-01T16:43:11+00:00
+
+ ## Department of Computer Science | University of Pittsburgh
+ - [https://www.cs.pitt.edu](https://www.cs.pitt.edu)
+ - date_published: 2024-08-07T15:51:40.136831+00:00
+
+ ## Pitt Cyber | University of Pittsburgh
+ - [https://www.cyber.pitt.edu](https://www.cyber.pitt.edu)
+ - date_published: 2024-08-07T15:51:53.514657+00:00
+
+ ## Home | School of Dental Medicine
+ - [https://www.dental.pitt.edu](https://www.dental.pitt.edu)
+ - date_published: 2024-07-01T12:45:31+00:00
+
+ ## Department of Informatics and Networked Systems | University of Pittsburgh
+ - [https://www.dins.pitt.edu](https://www.dins.pitt.edu)
+ - date_published: 2024-08-07T06:29:30+00:00
+
+ ## Home | Office for Equity, Diversity, and Inclusion  | University of Pittsburgh
+ - [https://www.diversity.pitt.edu](https://www.diversity.pitt.edu)
+ - date_published: 2024-07-01T16:59:06+00:00
+
+ ## Homepage - University of Pittsburgh School of Education
+ - [https://www.education.pitt.edu](https://www.education.pitt.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## University of Pittsburgh Swanson School of Engineering SSoE Home
+ - [https://www.engineering.pitt.edu](https://www.engineering.pitt.edu)
+ - date_published: 2024-07-01T16:58:29.630714+00:00
+
  ## Home | Greensburg
  - [http://www.greensburg.pitt.edu](http://www.greensburg.pitt.edu)
  - date_published: 2024-07-01T16:59:20.439390+00:00
@@ -3930,80 +4006,4 @@
  ## Rutgers Newark
  - [https://newark.rutgers.edu](https://newark.rutgers.edu)
  - date_published: 2024-05-12T04:30:31.334272+00:00
-
- ## Home
- - [https://newbrunswick.rutgers.edu](https://newbrunswick.rutgers.edu)
- - date_published: 2024-05-07T20:08:39.855461+00:00
-
- ## News & Events | Rutgers University-Camden
- - [https://news.camden.rutgers.edu](https://news.camden.rutgers.edu)
- - date_published: 2024-07-01T18:47:41.417557+00:00
-
- ## Rutgers Today
- - [https://news.rutgers.edu](https://news.rutgers.edu)
- - date_published: 2024-07-01T15:00:46+00:00
-
- ## Lindley G. Cook 4-H Camp (New Jersey 4-H)
- - [https://nj4hcamp.rutgers.edu](https://nj4hcamp.rutgers.edu)
- - date_published: 2024-06-17T15:30:32+00:00
-
- ## New Jersey 4-H
- - [http://nj4h.rutgers.edu](http://nj4h.rutgers.edu)
- - date_published: 2024-07-01T18:43:22.548545+00:00
-
- ## New Jersey Alliance For Clinical and Translational Science | NJ ACTS
- - [https://njacts.rbhs.rutgers.edu](https://njacts.rbhs.rutgers.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Rutgers New Jersey Agricultural Experiment Station (Rutgers NJAES)
- - [https://njaes.rutgers.edu](https://njaes.rutgers.edu)
- - date_published: 2024-05-07T20:09:45.614537+00:00
-
- ## NJCERN at Rutgers – NJCERN – New Jersey Clean Energy Resource Network
- - [https://njcern.rutgers.edu](https://njcern.rutgers.edu)
- - date_published: 2024-02-08T17:01:37.397829+00:00
-
- ## RBHS Office of Academic & Student Affairs | Rutgers University
- - [https://oasa.rbhs.rutgers.edu](https://oasa.rbhs.rutgers.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Rutgers Cooperative Extension of Ocean County
- - [https://ocean.njaes.rutgers.edu](https://ocean.njaes.rutgers.edu)
- - date_published: 2024-07-01T18:43:21.043756+00:00
-
- ## Home | Office of Instructional Design
- - [https://oid.rutgers.edu](https://oid.rutgers.edu)
- - date_published: 2024-06-27T21:02:06+00:00
-
- ## Rutgers University
- - [https://oirap.rutgers.edu](https://oirap.rutgers.edu)
- - date_published: 2022-06-14T17:27:34+00:00
-
- ## Rutgers Camden–IT - RU–Camden IT
- - [https://oit.camden.rutgers.edu](https://oit.camden.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## New Brunswick - Rutgers–New Brunswick IT
- - [https://oit-nb.rutgers.edu](https://oit-nb.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Project Tools | Project Management Office
- - [https://oitpmo.rutgers.edu](https://oitpmo.rutgers.edu)
- - date_published: 2024-07-01T18:40:59.898527+00:00
-
- ## Home - Information Technology
- - [https://oit.rutgers.edu](https://oit.rutgers.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Rutgers On-Farm Food Safety
- - [https://onfarmfoodsafety.rutgers.edu](https://onfarmfoodsafety.rutgers.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home | Teaching and Learning with Technology
- - [https://onlinelearning.rutgers.edu](https://onlinelearning.rutgers.edu)
- - date_published: 2024-06-27T21:02:12+00:00
-
- ## NJAES Office of Research Analytics
- - [https://ora.rutgers.edu](https://ora.rutgers.edu)
- - date_published: 2024-07-01T18:43:45.915764+00:00
 

@@ -1,3 +1,79 @@
+ ## News and Media Relations | New Mexico State University - BE BOLD. Shape the Future.
+ - [https://news.nmsu.edu](https://news.nmsu.edu)
+ - date_published: 2024-07-01T16:14:58.181392+00:00
+
+ ## New Mexico State University | News and Content for Media
+ - [https://newsroom.nmsu.edu](https://newsroom.nmsu.edu)
+ - date_published: 2024-07-01T16:11:26.366488+00:00
+
+ ## 4-H Home
+ - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
+ - date_published: 2024-05-07T19:46:56.710859+00:00
+
+ ## Association of County Agricultural Agents Home
+ - [http://nmacaa.nmsu.edu](http://nmacaa.nmsu.edu)
+ - date_published: 2024-07-01T16:16:06.442633+00:00
+
+ ## New Mexico Alliance for Minority Participation | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://nmamp.nmsu.edu](https://nmamp.nmsu.edu)
+ - date_published: 2024-07-02T05:08:16.414528+00:00
+
+ ## NM Beef Home
+ - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## New Mexico Department of Agriculture
+ - [https://nmdeptag.nmsu.edu](https://nmdeptag.nmsu.edu)
+ - date_published: 2024-07-01T16:16:46.225290+00:00
+
+ ## Specialist Association Home
+ - [http://nmesa.nmsu.edu](http://nmesa.nmsu.edu)
+ - date_published: 2024-07-01T16:16:07.954618+00:00
+
+ ## NMFRRC Home
+ - [https://nmfrrc.nmsu.edu](https://nmfrrc.nmsu.edu)
+ - date_published: 2024-07-01T16:12:18.567478+00:00
+
+ ## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://nmsu.edu](https://nmsu.edu)
+ - date_published: 2024-05-07T19:47:23.389773+00:00
+
+ ## Home
+ - [https://oel.nmsu.edu](https://oel.nmsu.edu)
+ - date_published: 2024-07-01T16:13:15.538918+00:00
+
+ ## Aggie One Stop
+ - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
+ - date_published: 2024-05-07T19:47:53.681436+00:00
+
+ ## NMSU: Phonebook: Person Lookup
+ - [https://phonebook.nmsu.edu](https://phonebook.nmsu.edu)
+ - date_published: 2024-07-01T16:13:40.816506+00:00
+
+ ## Plant Diagnostic Clinic Home
+ - [https://plantclinic.nmsu.edu](https://plantclinic.nmsu.edu)
+ - date_published: 2024-07-01T16:15:13.273143+00:00
+
+ ## Sign in to your account
+ - [https://portal.nmsu.edu](https://portal.nmsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## NMSU CES Plans of Work
+ - [http://pow.nmsu.edu](http://pow.nmsu.edu)
+ - date_published: 2024-07-01T16:16:15.042781+00:00
+
+ ## SWBFPEPC Home
+ - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
+ - date_published: 2024-05-07T19:47:32.294377+00:00
+
+ ## Office of the President | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://president.nmsu.edu](https://president.nmsu.edu)
+ - date_published: 2024-07-01T16:18:08.109703+00:00
+
+ ## Faculty Success
+ - [https://profile.nmsu.edu](https://profile.nmsu.edu)
+ - date_published: 2024-07-01T16:13:55.182126+00:00
+
  ## Publications | CES
  - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
  - date_published: 2024-05-07T19:47:14.337909+00:00
@@ -3925,80 +4001,4 @@
  ## Robert Henderson Language Media Center | University of Pittsburgh
  - [https://polyglot.pitt.edu](https://polyglot.pitt.edu)
  - date_published: 2024-06-14T15:04:23.050357+00:00
-
- ## Home | School of Public Health
- - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
- - date_published: 2024-07-01T16:58:07.109232+00:00
-
- ## Scholarship@PITT LAW
- - [https://scholarship.law.pitt.edu](https://scholarship.law.pitt.edu)
- - date_published: 2024-07-02T10:48:13.424947+00:00
-
- ## Homepage | University of Pittsburgh at Bradford
- - [https://upb.pitt.edu](https://upb.pitt.edu)
- - date_published: 2024-07-01T16:59:24.069682+00:00
-
- ## Home | Academics
- - [https://www.academics.pitt.edu](https://www.academics.pitt.edu)
- - date_published: 2024-07-01T16:58:33.495202+00:00
-
- ## Pittsburgh Center for Artificial Intelligence Innovation in Medical Imaging | University of Pittsburgh
- - [https://www.aimi.pitt.edu](https://www.aimi.pitt.edu)
- - date_published: 2024-07-12T04:22:33+00:00
-
- ## The Dietrich School of Arts & Sciences Graduate Studies | University of Pittsburgh
- - [https://www.asgraduate.pitt.edu](https://www.asgraduate.pitt.edu)
- - date_published: 2024-09-14T18:44:39+00:00
-
- ## Joseph M. Katz Graduate School of Business at the University of Pittsburgh
- - [https://www.business.pitt.edu](https://www.business.pitt.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## The Center for Philosophy of Science - Home
- - [https://www.centerphilsci.pitt.edu](https://www.centerphilsci.pitt.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home | Center for Governance and Markets | University of Pittsburgh
- - [https://www.cgm.pitt.edu](https://www.cgm.pitt.edu)
- - date_published: 2024-07-22T03:29:36+00:00
-
- ## Home | College of General Studies | University of Pittsburgh
- - [https://www.cgs.pitt.edu](https://www.cgs.pitt.edu)
- - date_published: 2024-07-01T16:38:17+00:00
-
- ##  University of Pittsburgh: Center for National Preparedness 
- - [http://www.cnp.pitt.edu](http://www.cnp.pitt.edu)
- - date_published: 2024-09-14T22:29:31.400730+00:00
-
- ## Office of | University of Pittsburgh
- - [https://www.community.pitt.edu](https://www.community.pitt.edu)
- - date_published: 2024-07-01T16:43:11+00:00
-
- ## Department of Computer Science | University of Pittsburgh
- - [https://www.cs.pitt.edu](https://www.cs.pitt.edu)
- - date_published: 2024-08-07T15:51:40.136831+00:00
-
- ## Pitt Cyber | University of Pittsburgh
- - [https://www.cyber.pitt.edu](https://www.cyber.pitt.edu)
- - date_published: 2024-08-07T15:51:53.514657+00:00
-
- ## Home | School of Dental Medicine
- - [https://www.dental.pitt.edu](https://www.dental.pitt.edu)
- - date_published: 2024-07-01T12:45:31+00:00
-
- ## Department of Informatics and Networked Systems | University of Pittsburgh
- - [https://www.dins.pitt.edu](https://www.dins.pitt.edu)
- - date_published: 2024-08-07T06:29:30+00:00
-
- ## Home | Office for Equity, Diversity, and Inclusion  | University of Pittsburgh
- - [https://www.diversity.pitt.edu](https://www.diversity.pitt.edu)
- - date_published: 2024-07-01T16:59:06+00:00
-
- ## Homepage - University of Pittsburgh School of Education
- - [https://www.education.pitt.edu](https://www.education.pitt.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## University of Pittsburgh Swanson School of Engineering SSoE Home
- - [https://www.engineering.pitt.edu](https://www.engineering.pitt.edu)
- - date_published: 2024-07-01T16:58:29.630714+00:00
 

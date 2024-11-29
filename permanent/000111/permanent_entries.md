@@ -1,3 +1,35 @@
+ ## Global Toy News – The World's Most Influential Toy Magazine
+ - [https://globaltoynews.com](https://globaltoynews.com)
+ - date_published: 2023-10-25T14:46:04.543243+00:00
+
+ ## Global Trailer
+ - [https://www.globaltrailermag.com](https://www.globaltrailermag.com)
+ - date_published: 2024-09-09T04:33:25+00:00
+
+ ## Global Traveler
+ - [http://www.globaltraveler.com](http://www.globaltraveler.com)
+ - date_published: 2024-07-04T04:55:27.633859+00:00
+
+ ## Experience the Next Level of Global Market Access - Global Validity
+ - [https://globalvalidity.com](https://globalvalidity.com)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Global Venturing | Where Global Innovation and Capital Meet
+ - [https://globalventuring.com](https://globalventuring.com)
+ - date_published: 2024-06-28T17:59:17.861697+00:00
+
+ ## Global Village Publishing Inc – International Publishers of Innovation
+ - [https://globalvillagepublishinginc.com](https://globalvillagepublishinginc.com)
+ - date_published: 2024-10-14T10:43:25.145553+00:00
+
+ ## GLOBAL VR Service Website
+ - [https://service.globalvr.com](https://service.globalvr.com)
+ - date_published: 2024-09-15T09:04:40.137158+00:00
+
+ ## globalwarminghysteria.com
+ - [http://www.globalwarminghysteria.com](http://www.globalwarminghysteria.com)
+ - date_published: 2024-10-31T23:15:11.245359+00:00
+
  ## Global Warming Solved -
  - [http://globalwarmingsolved.com](http://globalwarmingsolved.com)
  - date_published: 2024-06-28T18:40:03.683081+00:00
@@ -3488,6 +3520,7 @@
  ## GoNintendo | What are YOU waiting for?
  - [https://gonintendo.com](https://gonintendo.com)
  - date_published: 2024-06-18T00:00:00+00:00
+ - tags: ['nintendo', 'video game news']
 
  ## Frozen Dough, Baked Fresh and Frozen Breads, Retail Bread | Gonnella Baking Co
  - [https://www.gonnella.com](https://www.gonnella.com)
@@ -3993,36 +4026,4 @@ Homebrew Video Game Depot
  ## File Sync & Backup Software | GoodSync
  - [https://www.goodsync.com](https://www.goodsync.com)
  - date_published: 2024-06-16T15:49:56.061526+00:00
-
- ## Good Tape Magazine + Studio
- - [https://goodtape.com](https://goodtape.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Good Tech Fest
- - [https://goodtechfest.com](https://goodtechfest.com)
- - date_published: 2024-07-10T09:29:39.890442+00:00
-
- ## Good Tech Things | Forrest Brazeal | Substack
- - [https://newsletter.goodtechthings.com](https://newsletter.goodtechthings.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Good Todo Blog
- - [https://blog.goodtodo.com](https://blog.goodtodo.com)
- - date_published: 2023-07-05T21:26:21+00:00
-
- ## Good Todo | good to do list for web, iPhone, iPad
- - [https://goodtodo.com](https://goodtodo.com)
- - date_published: 2024-05-08T06:58:09.441283+00:00
-
- ## An eye-opening exploration of how the human body can best recover and adapt to sports and fitness training. Available in paperback February 18, 2020.
- - [https://www.goodtogobook.com](https://www.goodtogobook.com)
- - date_published: 2020-02-18T00:00:00+00:00
-
- ## Access Blocked by Suspicious Activity
- - [https://www.goodtoygroup.com](https://www.goodtoygroup.com)
- - date_published: 2024-07-17T10:31:18.720857+00:00
-
- ## Good Type Foundry
- - [http://goodtypefoundry.com](http://goodtypefoundry.com)
- - date_published: 2024-07-13T15:10:44.768345+00:00
 
