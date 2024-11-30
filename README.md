@@ -74,11 +74,11 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 # Static lists
 
-Static lists:
+This data were used to create the following static lists, as an example:
 
-- <a href="./static_lists/search_engines.html">Search engines</a>
-- <a href="./static_lists/amiga.html">Amiga</a>
-- <a href="./static_lists/tabletop_game.html">Tabletop Game</a>
+- [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/search_engines.html)
+- [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/amiga.html)
+- [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/tabletop_game.html)
 
 # Files
 
