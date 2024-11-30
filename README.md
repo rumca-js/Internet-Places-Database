@@ -72,6 +72,14 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 - [Anna's Archive](https://annas-archive.org/)
 - [Guardian newspaper](https://theguardian.newspapers.com/)
 
+# Static lists
+
+Static lists:
+
+- <a href="./static_lists/search_engines.html">Search engines</a>
+- <a href="./static_lists/amiga.html">Amiga</a>
+- <a href="./static_lists/tabletop_game.html">Tabletop Game</a>
+
 # Files
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
