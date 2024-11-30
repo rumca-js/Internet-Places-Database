@@ -77,6 +77,11 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 This data were used to create the following static lists, as an example:
 
 - [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/search_engines.html)
+- [Operating system](https://rumca-js.github.io/quickstart/public/static_lists/operating_system.html)
+- [Programming language](https://rumca-js.github.io/quickstart/public/static_lists/programing_language.html)
+- [Artificial intelligence](https://rumca-js.github.io/quickstart/public/static_lists/artificial_intelligene.html)
+- [Self-host](https://rumca-js.github.io/quickstart/public/static_lists/selfhost.html)
+- [Virtual reality](https://rumca-js.github.io/quickstart/public/static_lists/virtual_reality.html)
 - [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/amiga.html)
 - [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/tabletop_game.html)
 
