@@ -1,3 +1,15 @@
+ ## Inicio
+ - [https://escuela.arcaoccidente.com](https://escuela.arcaoccidente.com)
+ - date_published: 2024-10-15T02:22:06.753775+00:00
+
+ ## DIY Tesla Coil Kits | Tesla Coil Music | ArcAttack.com
+ - [https://arcattack.com](https://arcattack.com)
+ - date_published: 2024-02-24T18:21:15.213425+00:00
+
+ ## ARC Community | ARC NFT
+ - [https://arccommunity.com](https://arccommunity.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
  ## Arc Compute - Optimize Your GPU Infrastructure
  - [https://arccompute.com](https://arccompute.com)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -4026,16 +4038,4 @@ By Arts Economics
  ## ARTSTORM
  - [https://artstorm.com](https://artstorm.com)
  - date_published: 2024-09-26T15:47:51.466070+00:00
-
- ## Art Supply House & Custom Framing – Call 970-375-0090 – Hours: Tue-Sat 10-6
- - [https://artsupplyhouse.com](https://artsupplyhouse.com)
- - date_published: 2024-06-17T04:49:55.484902+00:00
-
- ## Artsy Shark
- - [https://www.artsyshark.com](https://www.artsyshark.com)
- - date_published: 2024-07-13T05:05:07.822256+00:00
-
- ## Art Talent Fair - International award for artists. The prize is open to paintings, sculptures and installations, photography, video and other media.
- - [https://arttalentfair.com](https://arttalentfair.com)
- - date_published: 2024-10-22T09:02:07.261465+00:00
 

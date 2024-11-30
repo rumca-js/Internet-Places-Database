@@ -1,3 +1,15 @@
+ ## Art Supply House & Custom Framing – Call 970-375-0090 – Hours: Tue-Sat 10-6
+ - [https://artsupplyhouse.com](https://artsupplyhouse.com)
+ - date_published: 2024-06-17T04:49:55.484902+00:00
+
+ ## Artsy Shark
+ - [https://www.artsyshark.com](https://www.artsyshark.com)
+ - date_published: 2024-07-13T05:05:07.822256+00:00
+
+ ## Art Talent Fair - International award for artists. The prize is open to paintings, sculptures and installations, photography, video and other media.
+ - [https://arttalentfair.com](https://arttalentfair.com)
+ - date_published: 2024-10-22T09:02:07.261465+00:00
+
  ## The Art Theatre | The Last Remaining Independent Cinema in Long Beach
  - [https://www.arttheatrelongbeach.com](https://www.arttheatrelongbeach.com)
  - date_published: 2024-06-20T16:56:13.802278+00:00
@@ -1696,6 +1708,10 @@
  ## ASML | The world's supplier to the semiconductor industry
  - [https://asml.com](https://asml.com)
  - date_published: 2024-06-27T10:41:29.985887+00:00
+
+ ## ASML Store
+ - [https://asmlstore.com](https://asmlstore.com)
+ - date_published: 2024-11-29T21:29:15.280019+00:00
 
  ## Asmodee
  - [https://corporate.asmodee.com](https://corporate.asmodee.com)
@@ -4009,20 +4025,4 @@
  ## Home | ATLAZ
  - [https://www.atlaz.com](https://www.atlaz.com)
  - date_published: 2018-04-09T19:59:23+00:00
-
- ## Atlemo.com | The greatest links!
- - [http://atlemo.com](http://atlemo.com)
- - date_published: 2024-06-24T05:19:10.306567+00:00
-
- ## ATLÉTICO DE MADRID 2024 - Official Atlético de Madrid Website
- - [https://en.atleticodemadrid.com](https://en.atleticodemadrid.com)
- - date_published: 2024-09-26T16:57:24.021984+00:00
-
- ## Atlus Official Website
- - [https://atlus.com](https://atlus.com)
- - date_published: 2024-05-13T03:58:10.287632+00:00
-
- ## Metaphor: ReFantazio
- - [https://metaphor.atlus.com](https://metaphor.atlus.com)
- - date_published: 2024-07-15T22:54:12+00:00
 

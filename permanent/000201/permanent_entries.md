@@ -1,3 +1,79 @@
+ ## Tangem Guide
+ - [https://guide.tangem.com](https://guide.tangem.com)
+ - date_published: 2024-09-25T10:26:18.177178+00:00
+
+ ## The best crypto wallet — Tangem Wallet
+ - [https://tangem.com](https://tangem.com)
+ - date_published: 2024-06-14T15:02:14+00:00
+
+ ## Tangentsoft
+ - [https://tangentsoft.com](https://tangentsoft.com)
+ - date_published: 2022-12-22T21:33:23+00:00
+
+ ## Tanger
+ - [https://business.tanger.com](https://business.tanger.com)
+ - date_published: 2024-08-07T18:24:37.422276+00:00
+
+ ## Tanger
+ - [https://careers.tanger.com](https://careers.tanger.com)
+ - date_published: 2024-08-07T18:24:27.849294+00:00
+
+ ## Tanger
+ - [https://community.tanger.com](https://community.tanger.com)
+ - date_published: 2024-08-07T18:24:45.974300+00:00
+
+ ## Investor Relations
+ - [https://investors.tanger.com](https://investors.tanger.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Tanger
+ - [https://tourism.tanger.com](https://tourism.tanger.com)
+ - date_published: 2024-08-07T18:24:58.093708+00:00
+
+ ## Tanger
+ - [https://www.tanger.com](https://www.tanger.com)
+ - date_published: 2024-08-07T18:24:26.030402+00:00
+
+ ## Berita Terkini Hari Ini - TangerangNews.com
+ - [https://tangerangnews.com](https://tangerangnews.com)
+ - date_published: 2024-10-20T08:44:16.942275+00:00
+
+ ## Tangerine Art Kits — At-Home Art For Everyone
+ - [https://tangerineartkits.com](https://tangerineartkits.com)
+ - date_published: 2024-07-09T19:38:15.442347+00:00
+
+ ## Tanger
+ - [https://tangeroutlet.com](https://tangeroutlet.com)
+ - date_published: 2024-04-28T03:12:09.482102+00:00
+
+ ## Basalt | Simple Markdown Formatting
+ - [https://basalt.tangibleinfo.com](https://basalt.tangibleinfo.com)
+ - date_published: 2024-08-06T19:36:42.916625+00:00
+
+ ## Tangible Info - Saalik’s software projects on the web
+ - [https://tangibleinfo.com](https://tangibleinfo.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Tangible Materials, Inc.
+ - [https://tangiblematerials.com](https://tangiblematerials.com)
+ - date_published: 2024-06-23T06:10:39.776651+00:00
+
+ ## Tangie - Zero-Waste | Eco-Friendly Products For Sustainable Living
+ - [https://tangieco.com](https://tangieco.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Hondatoto Login Agen Togel Online Dengan Aplikasi Honda Toto
+ - [http://tangledindesign.com](http://tangledindesign.com)
+ - date_published: 2024-09-15T09:59:19.571063+00:00
+
+ ## | Tangled Up In Food
+ - [https://tangledupinfood.com](https://tangledupinfood.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Tango - Contracts & Payments Automated
+ - [https://tangoagreements.com](https://tangoagreements.com)
+ - date_published: 2024-10-27T18:54:51+00:00
+
  ## agnes nutter, witch
  - [https://tangobullets.com](https://tangobullets.com)
  - date_published: 2023-06-29T04:28:02+00:00
@@ -3201,7 +3277,7 @@
  ## TeamViewer – oprogramowanie do łączności zdalnej
  - [https://teamviewer.com](https://teamviewer.com)
  - date_published: 2024-04-25T00:00:00+00:00
- - tags: ['remote desktop']
+ - tags: ['remote desktop', 'screen sharing']
 
  ## TeamViewer
  - [https://web.teamviewer.com](https://web.teamviewer.com)
@@ -3961,80 +4037,4 @@
  ## Technology Networks - The Online Scientific Community
  - [https://technologynetworks.com](https://technologynetworks.com)
  - date_published: 2023-10-25T17:25:18.998962+00:00
-
- ## Home Page | Tech Pep
- - [https://technologypep.com](https://technologypep.com)
- - date_published: 2024-06-25T11:06:11+00:00
-
- ## University at Buffalo Innovation - Available Technologies for Licensing
- - [https://buffalo.technologypublisher.com](https://buffalo.technologypublisher.com)
- - date_published: 2024-08-11T09:58:54.438442+00:00
-
- ## Available Technologies | Office of Technology Licensing
- - [http://puotl.technologypublisher.com](http://puotl.technologypublisher.com)
- - date_published: 2024-10-16T05:14:38.245264+00:00
-
- ## UF Innovate – Building business on innovation
- - [https://ufinnovate.technologypublisher.com](https://ufinnovate.technologypublisher.com)
- - date_published: 2024-10-16T18:31:44.167635+00:00
-
- ## Technology Record – The best of enterprise solutions from the Microsoft partner ecosystem
- - [https://www.technologyrecord.com](https://www.technologyrecord.com)
- - date_published: 2024-10-17T11:24:54.431997+00:00
-
- ## Login to Piano VX
- - [https://auth.technologyreview.com](https://auth.technologyreview.com)
- - date_published: 2024-09-09T22:48:47.441717+00:00
-
- ## MIT Technology Review
- - [https://cdn.technologyreview.com](https://cdn.technologyreview.com)
- - date_published: 2024-09-09T22:48:26+00:00
-
- ## Events
- - [https://events.technologyreview.com](https://events.technologyreview.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## MIT Technology Review Media Kit
- - [https://mediakit.technologyreview.com](https://mediakit.technologyreview.com)
- - date_published: 2024-09-09T22:48:37.135241+00:00
-
- ## MIT Technology Review
- - [https://mobile.technologyreview.com](https://mobile.technologyreview.com)
- - date_published: 2024-08-12T12:47:57+00:00
-
- ## Redirect
- - [https://subscriptions.technologyreview.com](https://subscriptions.technologyreview.com)
- - date_published: 2024-09-09T22:48:30.971828+00:00
-
- ## MIT Technology Review
- - [https://technologyreview.com](https://technologyreview.com)
- - date_published: 2023-10-25T09:36:02.543423+00:00
-
- ## MIT Technology Review
- - [https://wp.technologyreview.com](https://wp.technologyreview.com)
- - date_published: 2024-07-16T18:18:05.988247+00:00
-
- ## Home
- - [https://www.technolution.com](https://www.technolution.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Technomeow: The Latest Cat Gadgets & Innovative Cat Toys Reviews
- - [https://technomeow.com](https://technomeow.com)
- - date_published: 2017-12-21T09:40:10+00:00
-
- ## Phil Windley's Technometria | Substack
- - [https://www.technometria.com](https://www.technometria.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Techno-Obscura
- - [http://www.techno-obscura.com](http://www.techno-obscura.com)
- - date_published: 2005-08-10T01:55:13+00:00
-
- ## technoparkpublications
- - [http://technoparkpublications.com](http://technoparkpublications.com)
- - date_published: 2024-10-29T16:38:28.437960+00:00
-
- ## テクノプロ - TECHNOPRO
- - [https://www.technopro.com](https://www.technopro.com)
- - date_published: 2024-08-08T23:07:45.385116+00:00
 

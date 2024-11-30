@@ -1,3 +1,11 @@
+ ## Welcome to Girl Guides Victoria - Girl Guides Victoria
+ - [https://guidesvic.org.au](https://guidesvic.org.au)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Profile
+ - [https://members.guidesvic.org.au](https://members.guidesvic.org.au)
+ - date_published: 2024-07-12T23:27:57.837614+00:00
+
  ## Homepage
  - [https://hamlin.org.au](https://hamlin.org.au)
  - date_published: 2024-08-29T00:00:00+00:00
@@ -1124,6 +1132,7 @@
  ## Lidarr
  - [https://lidarr.audio](https://lidarr.audio)
  - date_published: 2024-05-14T03:32:09.235900+00:00
+ - tags: ['media collection', 'self-host']
 
  ## MANIFEST AUDIO
  - [https://manifest.audio](https://manifest.audio)
@@ -4001,12 +4010,4 @@
  ## Pilario
  - [https://platform.elsya.be](https://platform.elsya.be)
  - date_published: 2024-07-03T09:46:42.499833+00:00
-
- ## Remko Tronçon's Homepage
- - [https://el-tramo.be](https://el-tramo.be)
- - date_published: 2023-10-25T11:58:55.730192+00:00
-
- ## portfolio – Emile
- - [https://emilesonneveld.be](https://emilesonneveld.be)
- - date_published: 2024-05-09T08:46:39.185269+00:00
 

@@ -1,3 +1,11 @@
+ ## 北京理工大学研究生院
+ - [http://grd.bit.edu.cn](http://grd.bit.edu.cn)
+ - date_published: 2024-07-26T02:34:29+00:00
+
+ ## 北京理工大学迎新网
+ - [http://hi.bit.edu.cn](http://hi.bit.edu.cn)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## 智慧北理统一门户
  - [http://i.bit.edu.cn](http://i.bit.edu.cn)
  - date_published: 2024-08-07T13:36:35.115960+00:00
@@ -3994,12 +4002,4 @@
  ## 广州市南沙区人民政府门户网站
  - [http://www.gzns.gov.cn](http://www.gzns.gov.cn)
  - date_published: 2024-07-09T18:21:07.463641+00:00
-
- ## 中国人民政治协商会议贵州省委员会
- - [http://www.gzszx.gov.cn](http://www.gzszx.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 广州市委网信办-中共广州市委网络安全和信息化委员会办公室-广州网信办
- - [https://www.gzwxb.gov.cn](https://www.gzwxb.gov.cn)
- - date_published: 2024-07-01T00:00:00+00:00
 

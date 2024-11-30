@@ -1,3 +1,104 @@
+ ## Library of Congress - News and Content for Media
+ - [https://newsroom.loc.gov](https://newsroom.loc.gov)
+ - date_published: 2024-06-24T04:47:57.841024+00:00
+
+ ## Research Appointments -
+        Library of Congress
+ - [https://research-appointments.loc.gov](https://research-appointments.loc.gov)
+ - date_published: 2024-06-24T04:48:02+00:00
+
+ ## GovDelivery Admin » Login
+ - [https://updates.loc.gov](https://updates.loc.gov)
+ - date_published: 2024-08-19T03:50:31.558454+00:00
+
+ ## Welcome to the Login.gov developer guide | Login.gov
+ - [https://developers.login.gov](https://developers.login.gov)
+ - date_published: 2024-05-10T15:15:07+00:00
+
+ ## The public’s one account for government.
+   | Login.gov
+ - [https://login.gov](https://login.gov)
+ - date_published: 2024-03-19T18:06:07+00:00
+
+ ## Welcome | Login.gov
+ - [https://secure.login.gov](https://secure.login.gov)
+ - date_published: 2024-06-16T09:14:31.409919+00:00
+
+ ## Login.gov Status
+ - [https://status.login.gov](https://status.login.gov)
+ - date_published: 2024-06-16T09:14:34.864882+00:00
+
+ ## Long Beach, NY
+ - [https://www.longbeachny.gov](https://www.longbeachny.gov)
+ - date_published: 2022-02-23T22:33:00+00:00
+
+ ## Bids and RFPs | City of Los Altos Bid Management System
+ - [https://bids.losaltosca.gov](https://bids.losaltosca.gov)
+ - date_published: 2024-06-28T08:33:19+00:00
+
+ ## Home Page | City of Los Altos California
+ - [https://losaltosca.gov](https://losaltosca.gov)
+ - date_published: 2024-05-06T22:29:40.762593+00:00
+
+ ## La Dept. of Health
+ - [http://dhh.louisiana.gov](http://dhh.louisiana.gov)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Louisiana Department of Public Safety & Corrections
+ - [http://doc.louisiana.gov](http://doc.louisiana.gov)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Office of Governor Jeff Landry
+ - [https://gov.louisiana.gov](https://gov.louisiana.gov)
+ - date_published: 2024-01-09T03:31:02.549223+00:00
+
+ ## Home Page - Louisiana Department of Revenue
+ - [http://revenue.louisiana.gov](http://revenue.louisiana.gov)
+ - date_published: 2024-08-18T05:01:15.185714+00:00
+
+ ## Louisiana State Civil Service
+ - [http://www.civilservice.louisiana.gov](http://www.civilservice.louisiana.gov)
+ - date_published: 2024-08-18T05:01:33.924677+00:00
+
+ ## Louisiana Department of Environmental Quality
+ - [http://www.deq.louisiana.gov](http://www.deq.louisiana.gov)
+ - date_published: 2024-08-18T05:00:34.268600+00:00
+
+ ## LPSC - Home
+ - [http://www.lpsc.louisiana.gov](http://www.lpsc.louisiana.gov)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Louisiana Department of Wildlife and Fisheries
+ - [http://www.wlf.louisiana.gov](http://www.wlf.louisiana.gov)
+ - date_published: 2024-08-18T05:01:02.623494+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://louisvilleky.gov](https://louisvilleky.gov)
+ - date_published: 2024-06-15T18:15:04.709769+00:00
+
+ ## Madison, AL - Official Website | Official Website
+ - [http://www.madisonal.gov](http://www.madisonal.gov)
+ - date_published: 2024-06-29T14:26:09.813092+00:00
+
+ ## Madison County, AL | Home
+ - [http://www.madisoncountyal.gov](http://www.madisoncountyal.gov)
+ - date_published: 2024-06-28T20:26:49+00:00
+
+ - [https://apps.web.maine.gov](https://apps.web.maine.gov)
+ - date_published: 2024-01-09T03:31:13.905510+00:00
+
+ ## Maine State Legislature
+ - [https://legislature.maine.gov](https://legislature.maine.gov)
+ - date_published: 2024-05-06T17:02:25.844861+00:00
+
+ ## Maine Legislature Mailing Lists - home
+ - [https://lists.legislature.maine.gov](https://lists.legislature.maine.gov)
+ - date_published: 2016-02-15T00:00:00+00:00
+
+ ## Maine.gov
+ - [https://maine.gov](https://maine.gov)
+ - date_published: 2023-11-11T05:10:20.897802+00:00
+
  ## Maine Open Checkbook
  - [https://opencheckbook.maine.gov](https://opencheckbook.maine.gov)
  - date_published: 2024-08-12T00:00:00+00:00
@@ -3920,104 +4021,4 @@
  ## SaltLakeCounty.gov
  - [https://www.saltlakecounty.gov](https://www.saltlakecounty.gov)
  - date_published: 2024-05-02T17:26:21+00:00
-
- ## SAM.gov | Home
- - [https://sam.gov](https://sam.gov)
- - date_published: 2023-10-25T19:25:02.207175+00:00
-
- ## SAMHSA DAS
- - [https://datatools.samhsa.gov](https://datatools.samhsa.gov)
- - date_published: 2024-06-05T21:08:33+00:00
-
- ## SAMHSA DPT
- - [https://dpt2.samhsa.gov](https://dpt2.samhsa.gov)
- - date_published: 2020-12-09T13:12:14+00:00
-
- ## FindTreatment.gov
- - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
- - date_published: 2024-05-12T06:40:36.468468+00:00
-
- ## SAMHSA Publications and Digital Products
- - [https://store.samhsa.gov](https://store.samhsa.gov)
- - date_published: 2024-06-16T14:50:27.401756+00:00
-
- ## SAMHSA - Substance Abuse and Mental Health Services Administration
- - [https://www.samhsa.gov](https://www.samhsa.gov)
- - date_published: 2024-05-04T09:00:22.403967+00:00
-
- ## City of San Antonio
- - [https://www.sanantonio.gov](https://www.sanantonio.gov)
- - date_published: 2024-10-22T21:55:15.768460+00:00
-
- ## Sandia Anywhere: Remote Access
- - [https://anywhere.sandia.gov](https://anywhere.sandia.gov)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Sandia National Laboratories: Energy
- - [http://energy.sandia.gov](http://energy.sandia.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Global Chemical and Biological Security
- - [https://gcbs.sandia.gov](https://gcbs.sandia.gov)
- - date_published: 2024-10-18T18:19:13.658545+00:00
-
- ## Home
- - [https://hr.sandia.gov](https://hr.sandia.gov)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Licensing and Tech Transfer
- - [https://ip.sandia.gov](https://ip.sandia.gov)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## LAMMPS Molecular Dynamics Simulator
- - [https://lammps.sandia.gov](https://lammps.sandia.gov)
- - date_published: 2024-07-02T13:38:36+00:00
-
- ## Sandia National Laboratories: Netlib Mirror
- - [https://netlib.sandia.gov](https://netlib.sandia.gov)
- - date_published: 2024-04-28T02:25:13.801301+00:00
-
- ## Sandia National Laboratories: News Releases
- - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
- - date_published: 2023-10-25T19:25:05.661482+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [https://sandia.gov](https://sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [https://share-ng.sandia.gov](https://share-ng.sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## TourSandia - Virtual Tours
- - [http://tours.sandia.gov](http://tours.sandia.gov)
- - date_published: 2024-09-13T19:44:19.614623+00:00
-
- ## City of San Diego Official Website
- - [https://www.sandiego.gov](https://www.sandiego.gov)
- - date_published: 2024-07-02T01:28:29+00:00
-
- ## SanDiegoCounty.gov
- - [https://www.sandiegocounty.gov](https://www.sandiegocounty.gov)
- - date_published: 2024-10-19T07:58:28.273613+00:00
-
- ## City of San José | Home
- - [https://sanjoseca.gov](https://sanjoseca.gov)
- - date_published: 2024-07-12T23:51:33+00:00
-
- ## Attention Required! | Cloudflare
- - [https://publichealth.santaclaracounty.gov](https://publichealth.santaclaracounty.gov)
- - date_published: 2024-09-02T10:06:49.796660+00:00
-
- ## Welcome - Santa Monica Open Data
- - [https://data.santamonica.gov](https://data.santamonica.gov)
- - date_published: 2022-11-08T00:00:00+00:00
-
- ## Home Page
- - [https://www.santamonica.gov](https://www.santamonica.gov)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## County of Saratoga, New York
- - [https://www.saratogacountyny.gov](https://www.saratogacountyny.gov)
- - date_published: 2024-09-18T04:10:45.632932+00:00
 

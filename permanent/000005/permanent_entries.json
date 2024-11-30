@@ -18897,7 +18897,7 @@
         "age": null,
         "album": "https://i.photoprism.app/prism?cover=64&style=centered%20dark",
         "author": null,
-        "bookmarked": true,
+        "bookmarked": false,
         "comments": [],
         "date_published": "2024-05-12T04:58:19.907236+00:00",
         "description": "AI-Powered Photos App for the Decentralized Web",

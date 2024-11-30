@@ -1,3 +1,23 @@
+ ## The Local Optimist Digest
+ - [https://tlodigest.beehiiv.com](https://tlodigest.beehiiv.com)
+ - date_published: 2024-08-06T20:05:40+00:00
+
+ ## Web Developer
+ - [https://webdeveloper.beehiiv.com](https://webdeveloper.beehiiv.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Web Witch Weekly
+ - [https://webwitchweekly.beehiiv.com](https://webwitchweekly.beehiiv.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## WND News Alerts
+ - [https://wnd-news-alerts.beehiiv.com](https://wnd-news-alerts.beehiiv.com)
+ - date_published: 2024-06-20T17:30:51+00:00
+
+ ## You Probably Need a Robot
+ - [https://youprobablyneedarobot.beehiiv.com](https://youprobablyneedarobot.beehiiv.com)
+ - date_published: 2024-04-29T07:16:23.281601+00:00
+
  ## Let's craft beautiful online form experiences
  - [https://www.beekai.com](https://www.beekai.com)
  - date_published: 2024-06-23T08:57:44.346159+00:00
@@ -3633,6 +3653,10 @@
  - [https://better.com](https://better.com)
  - date_published: 2024-05-02T09:39:30.189203+00:00
 
+ ## Better Auth – The most comprehensive authentication library for TypeScript
+ - [https://www.better-auth.com](https://www.better-auth.com)
+ - date_published: 2024-11-29T10:01:57+00:00
+
  ## Better Baking Bible | Cake, Recipes, Cookies, Cupcakes, & Easy Desserts for the Modern, Busy woman!
  - [https://www.betterbakingbible.com](https://www.betterbakingbible.com)
  - date_published: 2024-07-30T00:00:00+00:00
@@ -4010,29 +4034,4 @@
  ## BetWinner Guidebook | BetWinner Platform
  - [https://guidebook.betwinner.com](https://guidebook.betwinner.com)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Join BetWinner Affiliates: Lifetime Commissions
- - [https://betwinnerpartner.com](https://betwinnerpartner.com)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Best Betting Sites in the UK ➤ Explore the Top Online Bookmakers 2024 | betzoid.com
- - [https://betzoid.com](https://betzoid.com)
- - date_published: 2019-04-09T17:09:00+00:00
-
- ## Be Upstream
- - [http://beupstream.com](http://beupstream.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Arnold Schwarzenegger - BE USEFUL book | Penguin Press
- - [https://beusefulbook.com](https://beusefulbook.com)
- - date_published: 2024-07-03T01:46:10.031349+00:00
-
- ## Otaku – Cedric's blog
- - [https://beust.com](https://beust.com)
- - date_published: 2024-06-17T02:49:47.504589+00:00
- - tags: ['personal']
-
- ## Telepathy - Powering Successful Brands
- - [https://bev.com](https://bev.com)
- - date_published: 2024-08-05T19:44:27.743619+00:00
 

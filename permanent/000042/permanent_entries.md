@@ -1,3 +1,11 @@
+ ## Alumni Email Forwarding for Universities and Alumni Associations | AlumniForwarding.com
+ - [https://alumniforwarding.com](https://alumniforwarding.com)
+ - date_published: 2024-09-02T10:48:10.559916+00:00
+
+ ## The Alumni Insurance Program | USI Affinity
+ - [https://www.alumniinsuranceprogram.com](https://www.alumniinsuranceprogram.com)
+ - date_published: 2024-07-01T12:36:36.699279+00:00
+
  ## Wordpress ADA Compliance Checker - AlumniOnline Web Services LLC - Web Accessibility Checker
  - [https://www.alumnionlineservices.com](https://www.alumnionlineservices.com)
  - date_published: 2024-05-26T00:00:00+00:00
@@ -4049,12 +4057,4 @@
  ## Andrea Yip
  - [https://andrealyip.com](https://andrealyip.com)
  - date_published: 2023-10-25T12:40:47.179898+00:00
-
- ## Vivi una vita straordinaria grazie al potere della crescita personale. - Andrea Mangano
- - [https://andreamangano.com](https://andreamangano.com)
- - date_published: 2024-08-06T20:00:34.631692+00:00
-
- ## Andrea (Andi) Mignolo
- - [https://andreamignolo.com](https://andreamignolo.com)
- - date_published: 2024-02-02T18:42:12+00:00
 

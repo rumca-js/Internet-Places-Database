@@ -1,3 +1,44 @@
+ ## CSP Daily News
+ - [https://www.cspdailynews.com](https://www.cspdailynews.com)
+ - date_published: 2024-11-01T00:23:04.143890+00:00
+
+ ## Center for the Study of Partisanship and Ideology | CSPI | Substack
+ - [https://www.cspicenter.com](https://www.cspicenter.com)
+ - date_published: 2023-10-25T13:38:26.650997+00:00
+
+ ## Patrick Kon
+ - [https://www.cs-pk.com](https://www.cs-pk.com)
+ - date_published: 2024-08-24T17:49:24+00:00
+
+ ## Web Dev & Author
+ - [https://csrhymes.com](https://csrhymes.com)
+ - date_published: 2024-05-08T00:40:20.104878+00:00
+
+ ## CSR Tools Startseite - Ihr CSRD Navigator
+ - [https://csr-tools.com](https://csr-tools.com)
+ - date_published: 2024-10-18T14:29:09.148816+00:00
+
+ ## CSS3 Insights, Tips & Tricks about CSS3 with a joyful twist
+ - [https://css3.com](https://css3.com)
+ - date_published: 2023-12-13T09:50:02+00:00
+
+ ## css3buttongenerator.com
+ - [http://css3buttongenerator.com](http://css3buttongenerator.com)
+ - date_published: 2022-03-23T13:42:10+00:00
+
+ ## CSS3 Please! The Cross-Browser CSS3 Rule Generator
+ - [http://css3please.com](http://css3please.com)
+ - date_published: 2020-08-09T21:41:25+00:00
+
+ ## CSS Artist
+ - [https://cssartist.com](https://cssartist.com)
+ - date_published: 2024-04-25T21:21:21.367151+00:00
+ - tags: ['personal']
+
+ ## Design & Development Related Blog
+ - [https://cssauthor.com](https://cssauthor.com)
+ - date_published: 2021-01-10T10:44:57+00:00
+
  ## Home - CSS tools for for designers and coders - CSS Bud
  - [https://cssbud.com](https://cssbud.com)
  - date_published: 2024-10-22T19:20:06.504611+00:00
@@ -3997,44 +4038,4 @@ for your agency
  ## Dada Mail - Self Hosted, Easy to Use Email Marketing Mailing List Manager
  - [https://dadamailproject.com](https://dadamailproject.com)
  - date_published: 2024-01-27T00:42:34+00:00
-
- ## Dadda.com
- - [https://www.dadda.com](https://www.dadda.com)
- - date_published: 2024-01-31T10:23:06+00:00
-
- ## D'Addario | Guitar Strings, Accessories, and More
- - [https://www.daddario.com](https://www.daddario.com)
- - date_published: 2024-07-01T14:27:31.907819+00:00
-
- ## Master iOS Development with Our Articles and Tutorials
- - [https://daddycoding.com](https://daddycoding.com)
- - date_published: 2024-06-23T14:53:50.056351+00:00
-
- ## Home - DADDYHUNT
- - [http://daddyhunt.com](http://daddyhunt.com)
- - date_published: 2024-10-31T23:08:14+00:00
-
- ## Stamped Concrete Miami | Decorative Concrete Contractor
- - [https://www.dadedecorativeconcrete.com](https://www.dadedecorativeconcrete.com)
- - date_published: 2024-06-20T21:00:34+00:00
-
- ## Programming in the 21st Century
- - [https://prog21.dadgum.com](https://prog21.dadgum.com)
- - date_published: 2017-01-05T03:40:46+00:00
-
- ## Tackling Social Isolation For Dads - Dad La Soul
- - [https://dadlasoul.com](https://dadlasoul.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Dad La Soul Merch Shop | Shop
- - [https://shop.dadlasoul.com](https://shop.dadlasoul.com)
- - date_published: 2024-06-18T08:52:05.196327+00:00
-
- ## Dad Laugh Button
- - [https://dadlaughbutton.com](https://dadlaughbutton.com)
- - date_published: 2022-11-11T00:34:45+00:00
-
- ## DadosMundiais - O mundo em números
- - [https://www.dadosmundiais.com](https://www.dadosmundiais.com)
- - date_published: 2024-08-06T11:06:28.480535+00:00
 

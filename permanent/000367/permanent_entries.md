@@ -1,3 +1,127 @@
+ ## 2024
+ - [https://2024.finncon.org](https://2024.finncon.org)
+ - date_published: 2024-07-04T13:28:04.446431+00:00
+
+ ## Ryan Finnie
+ - [http://www.finnie.org](http://www.finnie.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Finnix Blog
+ - [https://blog.finnix.org](https://blog.finnix.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Finnix
+ - [http://www.finnix.org](http://www.finnix.org)
+ - date_published: 2024-07-02T17:48:06+00:00
+
+ ## The State of FinOps
+ - [https://data.finops.org](https://data.finops.org)
+ - date_published: 2024-07-03T01:36:41.443712+00:00
+
+ ## The FinOps Foundation
+ - [https://finops.org](https://finops.org)
+ - date_published: 2024-05-07T23:52:45.265286+00:00
+
+ ## FOCUS™ - FinOps Open Cost & Usage Specification
+ - [https://focus.finops.org](https://focus.finops.org)
+ - date_published: 2024-06-18T04:27:48+00:00
+
+ ## FinOps Jobs - All the cloud financial management jobs in one place
+ - [https://jobs.finops.org](https://jobs.finops.org)
+ - date_published: 2024-07-02T16:06:26+00:00
+
+ ## FinOps Certification and Training
+ - [https://learn.finops.org](https://learn.finops.org)
+ - date_published: 2024-07-03T01:36:44.722840+00:00
+
+ ## FinOps X 2024
+ - [https://x.finops.org](https://x.finops.org)
+ - date_published: 2024-06-16T14:49:54.308095+00:00
+
+ ## FINOS Community | FINOS Community
+ - [https://community.finos.org](https://community.finos.org)
+ - date_published: 2024-07-03T00:01:36.611545+00:00
+
+ ## FDC3
+ - [https://fdc3.finos.org](https://fdc3.finos.org)
+ - date_published: 2024-07-03T00:01:29.305658+00:00
+
+ ## FINOS, Fintech Open Source Foundation
+ - [https://finos.org](https://finos.org)
+ - date_published: 2024-05-07T23:52:42.749670+00:00
+
+ ## FINOS Landscape
+ - [http://landscape.finos.org](http://landscape.finos.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Insights
+ - [https://metrics.finos.org](https://metrics.finos.org)
+ - date_published: 2024-05-01T21:16:56+00:00
+
+ ## Morphir
+ - [https://morphir.finos.org](https://morphir.finos.org)
+ - date_published: 2024-07-03T00:01:19.640994+00:00
+
+ ## Collaboration Infrastructure | FINOS Community
+ - [https://odp.finos.org](https://odp.finos.org)
+ - date_published: 2024-07-03T00:01:35.693598+00:00
+
+ ## FINOS
+ - [https://osr.finos.org](https://osr.finos.org)
+ - date_published: 2024-07-03T00:01:20.461900+00:00
+
+ ## Perspective | Perspective
+ - [https://perspective.finos.org](https://perspective.finos.org)
+ - date_published: 2023-10-25T21:20:56.182673+00:00
+
+ ## FINOS Resource Center
+ - [https://resources.finos.org](https://resources.finos.org)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## FINOS - Waltz
+ - [https://waltz.finos.org](https://waltz.finos.org)
+ - date_published: 2024-06-28T10:08:56+00:00
+
+ ## BrokerCheck - Find a broker, investment or financial advisor
+ - [https://brokercheck.finra.org](https://brokercheck.finra.org)
+ - date_published: 2024-04-29T02:26:07.529307+00:00
+
+ ## Please Wait While Redirecting to Login page
+ - [https://drportal.finra.org](https://drportal.finra.org)
+ - date_published: 2024-06-04T19:02:14+00:00
+
+ ## Please Wait While Redirecting to Login page
+ - [https://ews.finra.org](https://ews.finra.org)
+ - date_published: 2024-08-21T19:28:40+00:00
+
+ ## Please Wait While Redirecting to Login page
+ - [https://finpro.finra.org](https://finpro.finra.org)
+ - date_published: 2024-06-04T19:02:14+00:00
+
+ ## A vibrant market is at its best when it works for everyone. | FINRA.org
+ - [https://finra.org](https://finra.org)
+ - date_published: 2024-05-01T02:14:42.903635+00:00
+
+ ## FINRA Gateway
+ - [https://gateway.finra.org](https://gateway.finra.org)
+ - date_published: 2024-05-30T01:08:27+00:00
+
+ ## American Fintech Council | Promoting an inclusive and transparent financial system
+ - [https://fintechcouncil.org](https://fintechcouncil.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home
+ - [https://www.fintechnews.org](https://www.fintechnews.org)
+ - date_published: 2024-08-11T05:36:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://fipr.org](https://fipr.org)
+ - date_published: 2023-05-21T15:10:17+00:00
+
+ ## E T H E R ✧ firaga.org - lene's fanlisting collective
+ - [https://firaga.org](https://firaga.org)
+ - date_published: 2024-04-30T07:04:06.895230+00:00
+
  ## The Firearms Coalition | Ammunition for the grassroots gun rights movement
  - [http://firearmscoalition.org](http://firearmscoalition.org)
  - date_published: 2024-02-06T00:00:00+00:00
@@ -3925,128 +4049,4 @@ encryption
  ## Home - Fundación Probitas
  - [https://fundacionprobitas.org](https://fundacionprobitas.org)
  - date_published: 2024-06-15T17:34:40.129878+00:00
-
- ## Hazte socio de Fundación Probitas
- - [https://unete.fundacionprobitas.org](https://unete.fundacionprobitas.org)
- - date_published: 2024-09-18T19:06:33.488157+00:00
-
- ## Tecnología Formación y Emprendimiento | Fundación Proconsi
- - [https://fundacionproconsi.org](https://fundacionproconsi.org)
- - date_published: 2024-08-06T22:45:28.801766+00:00
-
- ## INICIO | FSA
- - [http://www.fundacionsanantonio.org](http://www.fundacionsanantonio.org)
- - date_published: 2024-09-11T01:46:44.658754+00:00
-
- ## Página de inicio
- - [https://fundacionsantafedebogota.org](https://fundacionsantafedebogota.org)
- - date_published: 2024-06-12T12:11:32.741139+00:00
-
- ## Santuario Gaia | Por un mundo Vegano
- - [http://www.fundacionsantuariogaia.org](http://www.fundacionsantuariogaia.org)
- - date_published: 2023-04-03T09:02:24+00:00
-
- ## Home
- - [http://fundaciontrinidadalfonso.org](http://fundaciontrinidadalfonso.org)
- - date_published: 2024-10-15T00:32:53+00:00
-
- ## Home - Fundacja Drzewo Jutro
- - [https://fundacjadrzewoijutro.org](https://fundacjadrzewoijutro.org)
- - date_published: 2022-05-14T19:30:26+00:00
-
- ## Aktualności - Fundacja Służby Rodzinie “Nadzieja” Łódź | csr.org.pl
- - [https://www.fundacjanadzieja.org](https://www.fundacjanadzieja.org)
- - date_published: 2024-09-20T18:53:29.467597+00:00
-
- ## fundacjanowemedia.org
- - [https://fundacjanowemedia.org](https://fundacjanowemedia.org)
- - date_published: 2024-05-07T23:42:40.617133+00:00
-
- ## fundacjanowemedia.org
- - [http://ww38.fundacjanowemedia.org](http://ww38.fundacjanowemedia.org)
- - date_published: 2024-07-02T23:12:57.936047+00:00
-
- ## home - Fundacja Olandia
- - [https://fundacjaolandia.org](https://fundacjaolandia.org)
- - date_published: 2023-01-20T00:00:00+00:00
-
- ## Aktualności - Fundacja Wolności
- - [https://fundacjawolnosci.org](https://fundacjawolnosci.org)
- - date_published: 2016-03-07T15:00:03+00:00
-
- ## Home - Fundalectura
- - [https://fundalectura.org](https://fundalectura.org)
- - date_published: 2024-09-10T14:37:43.106640+00:00
-
- ## Apoyo al Reumatico. | Apoyo al Reumatico.
- - [https://fundarecolombia.org](https://fundarecolombia.org)
- - date_published: 2024-06-28T12:09:10.444544+00:00
-
- ## The Gerald Huff Fund For Humanity - The Gerald Huff Fund for Humanity
- - [https://fundforhumanity.org](https://fundforhumanity.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## The Social Contract - Vision & Foundations for a better society.
- - [https://socialcontract.fundforhumanity.org](https://socialcontract.fundforhumanity.org)
- - date_published: 2021-09-14T00:00:00+00:00
-
- ## The Fund for the Public Interest
- - [https://fundforthepublicinterest.org](https://fundforthepublicinterest.org)
- - date_published: 2024-05-20T14:58:35+00:00
-
- ## Moonshot | FundFutureFood
- - [http://www.fundfuturefood.org](http://www.fundfuturefood.org)
- - date_published: 2024-06-20T04:32:57.496545+00:00
-
- ## Join | Bridge Michigan
- - [https://bridge.fundjournalism.org](https://bridge.fundjournalism.org)
- - date_published: 2024-05-08T03:32:05.254130+00:00
-
- ## Thank you for supporting Brookline.News - Brookline.News
- - [https://brooklinenews.fundjournalism.org](https://brooklinenews.fundjournalism.org)
- - date_published: 2023-12-11T00:00:00+00:00
-
- ## Join | Bucks County Beacon
- - [https://bucks-county-beacon.fundjournalism.org](https://bucks-county-beacon.fundjournalism.org)
- - date_published: 2024-05-11T07:17:07.748348+00:00
-
- ## Join | The Cap Times
- - [https://capitaltimes.fundjournalism.org](https://capitaltimes.fundjournalism.org)
- - date_published: 2024-06-21T19:45:54.238443+00:00
-
- ## Join | News Revenue Hub
- - [https://checkout.fundjournalism.org](https://checkout.fundjournalism.org)
- - date_published: 2024-04-28T06:23:16.626774+00:00
-
- ## Join | Chicago Public Square
- - [https://chicago-public-square.fundjournalism.org](https://chicago-public-square.fundjournalism.org)
- - date_published: 2024-05-09T06:41:43.349925+00:00
-
- ## Join | Reveal
- - [https://cir.fundjournalism.org](https://cir.fundjournalism.org)
- - date_published: 2024-07-07T04:46:27.868700+00:00
-
- ## Join | CleanTechnica
- - [https://cleantechnica.fundjournalism.org](https://cleantechnica.fundjournalism.org)
- - date_published: 2024-05-08T05:33:42.785480+00:00
-
- ## Join | Cleveland Scene
- - [https://clevelandscene.fundjournalism.org](https://clevelandscene.fundjournalism.org)
- - date_published: 2024-05-08T05:35:20.474044+00:00
-
- ## Join | Coda Story
- - [https://codastory.fundjournalism.org](https://codastory.fundjournalism.org)
- - date_published: 2024-05-08T05:48:14.381400+00:00
-
- ## Join | Dallas Observer
- - [https://dallas-observer.fundjournalism.org](https://dallas-observer.fundjournalism.org)
- - date_published: 2024-06-28T17:00:21.210877+00:00
-
- ## Join | Denver Westword
- - [https://denver-westword.fundjournalism.org](https://denver-westword.fundjournalism.org)
- - date_published: 2024-06-21T23:50:06.587057+00:00
-
- ## Join | EdSource
- - [https://edsource.fundjournalism.org](https://edsource.fundjournalism.org)
- - date_published: 2024-09-10T08:33:48.043949+00:00
 

@@ -1,3 +1,62 @@
+ ## Marine Serre Core
+ - [http://www.marineserrecore.com](http://www.marineserrecore.com)
+ - date_published: 2024-07-02T12:32:18+00:00
+
+ ## Marine Technology News
+ - [https://www.marinetechnologynews.com](https://www.marinetechnologynews.com)
+ - date_published: 2024-11-25T10:24:12+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://marinetraffic.com](https://marinetraffic.com)
+ - date_published: 2024-06-12T12:16:55.460827+00:00
+
+ ## Marine Vinyl Fabric: Marine Upholstery, Clear Vinyl, Canvas, Flooring
+ - [http://www.marinevinylfabric.com](http://www.marinevinylfabric.com)
+ - date_published: 2024-10-14T21:58:52.389777+00:00
+
+ ## Subscription Panel
+ - [https://checkout.marinij.com](https://checkout.marinij.com)
+ - date_published: 2024-06-27T06:52:28.164268+00:00
+
+ ## Sign In with MNG
+ - [https://enewspaper.marinij.com](https://enewspaper.marinij.com)
+ - date_published: 2024-06-27T06:53:07.561204+00:00
+
+ ## Marin Independent Journal
+ - [https://www.marinij.com](https://www.marinij.com)
+ - date_published: 2024-05-06T20:57:45.789709+00:00
+
+ ## Super Mario Boards
+ - [https://www.marioboards.com](https://www.marioboards.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Mario Kart™ 8 Deluxe for Nintendo Switch™ – Official Site
+ - [https://mariokart.com](https://mariokart.com)
+ - date_published: 2024-11-26T12:19:50+00:00
+ - tags: ['video game']
+
+ ## Mario Kart News, Updates and Events • Mario Karting
+ - [https://mariokarting.com](https://mariokarting.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+ - tags: ['mario', 'nintendo']
+
+ ## Mario Kart Wii Gecko Codes, Cheats, & Hacks
+ - [https://mariokartwii.com](https://mariokartwii.com)
+ - date_published: 2024-01-16T07:52:53.046091+00:00
+ - tags: ['mario', 'mario kart']
+
+ ## Marion County RECORD
+ - [http://marioncountyrecord.com](http://marioncountyrecord.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## The Backbone Framework
+ - [https://marionettejs.com](https://marionettejs.com)
+ - date_published: 2023-09-20T06:44:09+00:00
+
+ ## HOCH Publishing | Marion County KS newspapers
+ - [https://marionkansas.com](https://marionkansas.com)
+ - date_published: 2024-05-04T14:27:06.963468+00:00
+
  ## Marion County RECORD | Newspaper from Marion KS | Oct. 18, 2023
  - [https://marionrecord.com](https://marionrecord.com)
  - date_published: 2023-10-25T15:56:29.822192+00:00
@@ -3021,7 +3080,7 @@
  ## Strona główna | Mastercard.pl
  - [https://mastercard.com](https://mastercard.com)
  - date_published: 2024-07-02T14:00:47+00:00
- - tags: ['payments', 'card company']
+ - tags: ['gatekeeper', 'card company', 'payments']
 
  ## Mastercard - A Global Technology Company in The Payments Industry
  - [https://mea.mastercard.com](https://mea.mastercard.com)
@@ -3983,62 +4042,4 @@
  ## Mattar Lab
  - [https://www.mattarlab.com](https://www.mattarlab.com)
  - date_published: 2024-06-22T08:06:01.712117+00:00
-
- ## Official page for The Mattasher show, The Filter podcast, and Matt Asher info
- - [https://mattasher.com](https://mattasher.com)
- - date_published: 2023-05-25T08:25:43+00:00
-
- ## Home
- - [https://mattaz.com](https://mattaz.com)
- - date_published: 2021-08-16T05:45:37+00:00
-
- ## Matt Boegner
- - [https://mattboegner.com](https://mattboegner.com)
- - date_published: 2023-10-25T15:58:10.497437+00:00
-
- ## Matt Brictson's home page
- - [https://mattbrictson.com](https://mattbrictson.com)
- - date_published: 2024-07-14T14:23:30.727308+00:00
-
- ## Matt Bruenig Dot Com
- - [https://mattbruenig.com](https://mattbruenig.com)
- - date_published: 2023-10-25T15:58:12.356643+00:00
-
- ## Matt Button
- - [https://www.mattbutton.com](https://www.mattbutton.com)
- - date_published: 2024-01-15T06:16:56.374412+00:00
-
- ## Matt Downing - Web Developer & Strategist
- - [https://mattcdowning.com](https://mattcdowning.com)
- - date_published: 2024-01-19T17:20:50.843662+00:00
-
- ## mattcolewilson → graphic design
- - [https://mattcolewilson.com](https://mattcolewilson.com)
- - date_published: 2024-04-03T12:48:56.703592+00:00
- - tags: ['personal']
-
- ## Matt Cone
- - [https://www.mattcone.com](https://www.mattcone.com)
- - date_published: 2024-07-03T11:41:05.581846+00:00
-
- ## Matt Cromwell -- Generally Helpful Since Birth
- - [https://www.mattcromwell.com](https://www.mattcromwell.com)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## www.mattcutts.com
- - [https://www.mattcutts.com](https://www.mattcutts.com)
- - date_published: 2021-06-17T00:36:26+00:00
- - tags: ['personal']
-
- ## Yippy
- - [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
- - date_published: 2024-05-06T13:00:48.078783+00:00
-
- ## Matt Deitke
- - [https://mattdeitke.com](https://mattdeitke.com)
- - date_published: 2023-11-03T06:12:40+00:00
-
- ## Matt Downey — Founder of Digital Native
- - [https://mattdowney.com](https://mattdowney.com)
- - date_published: 2024-09-16T23:04:47.246070+00:00
 

@@ -1,3 +1,83 @@
+ ## https://myscp.onlinelibrary.wiley.com
+ - [https://myscp.onlinelibrary.wiley.com](https://myscp.onlinelibrary.wiley.com)
+ - date_published: 2023-11-07T02:17:31.388440+00:00
+
+ ## Newsroom | John Wiley & Sons, Inc.
+ - [https://newsroom.wiley.com](https://newsroom.wiley.com)
+ - date_published: 2023-12-21T15:13:35.167663+00:00
+
+ ## https://onlinelibrary.wiley.com
+ - [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+ - date_published: 2023-10-25T18:05:35.898602+00:00
+
+ ## Cierpliwości...
+ - [http://ordering.onlinelibrary.wiley.com](http://ordering.onlinelibrary.wiley.com)
+ - date_published: 2024-06-28T21:09:15.513096+00:00
+
+ ## https://physoc.onlinelibrary.wiley.com
+ - [https://physoc.onlinelibrary.wiley.com](https://physoc.onlinelibrary.wiley.com)
+ - date_published: 2023-11-12T06:59:06.705475+00:00
+
+ ## Cierpliwości...
+ - [https://rai.onlinelibrary.wiley.com](https://rai.onlinelibrary.wiley.com)
+ - date_published: 2024-06-21T20:39:23.479675+00:00
+
+ ## Cierpliwości...
+ - [https://rgs-ibg.onlinelibrary.wiley.com](https://rgs-ibg.onlinelibrary.wiley.com)
+ - date_published: 2024-06-30T02:31:15.368977+00:00
+
+ ## Cierpliwości...
+ - [https://rmets.onlinelibrary.wiley.com](https://rmets.onlinelibrary.wiley.com)
+ - date_published: 2024-06-30T02:31:40.681102+00:00
+
+ ## Cierpliwości...
+ - [https://rss.onlinelibrary.wiley.com](https://rss.onlinelibrary.wiley.com)
+ - date_published: 2024-05-06T14:04:42.179507+00:00
+
+ ## Home - Wiley Science Solutions
+ - [https://sciencesolutions.wiley.com](https://sciencesolutions.wiley.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://shmpublications.onlinelibrary.wiley.com](https://shmpublications.onlinelibrary.wiley.com)
+ - date_published: 2024-06-28T12:38:56.229578+00:00
+
+ ## https://srcd.onlinelibrary.wiley.com
+ - [https://srcd.onlinelibrary.wiley.com](https://srcd.onlinelibrary.wiley.com)
+ - date_published: 2023-10-25T18:05:36.256171+00:00
+
+ ## Customer Support
+ - [https://support.wiley.com](https://support.wiley.com)
+ - date_published: 2023-07-12T13:06:29+00:00
+
+ ## Wiley | Global Leader in Publishing, Education and Research
+ - [https://wiley.com](https://wiley.com)
+ - date_published: 2024-10-19T03:57:35.607452+00:00
+
+ ## Cierpliwości...
+ - [http://www3.interscience.wiley.com](http://www3.interscience.wiley.com)
+ - date_published: 2024-06-17T11:57:17.657293+00:00
+
+ ## Coming Soon page
+ - [http://wileyactual.com](http://wileyactual.com)
+ - date_published: 2023-03-17T05:59:47+00:00
+
+ ## Wiley Digital Archives - Primary sources in History of Science
+ - [https://www.wileydigitalarchives.com](https://www.wileydigitalarchives.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## English Language Editing Services for Scientific Manuscripts and Research Papers | Wiley Editing Services
+ - [https://wileyeditingservices.com](https://wileyeditingservices.com)
+ - date_published: 2024-06-24T09:28:56+00:00
+
+ ## Sample page for the server
+ - [https://customer.wileyeurope.com](https://customer.wileyeurope.com)
+ - date_published: 2023-03-23T22:42:07+00:00
+
+ ## Santok Group | Since 1993
+ - [https://wileyfox.com](https://wileyfox.com)
+ - date_published: 2024-09-30T11:18:23.850860+00:00
+
  ## Wiley India - Books & eSolutions for Education & Professional Development
  - [http://www.wileyindia.com](http://www.wileyindia.com)
  - date_published: 2024-08-02T18:44:34.963120+00:00
@@ -3964,84 +4044,4 @@
  ## New York Liberty – Official Site of the New York Liberty
  - [https://liberty.wnba.com](https://liberty.wnba.com)
  - date_published: 2024-06-20T16:43:34.731541+00:00
-
- ## Home - Minnesota Lynx
- - [https://lynx.wnba.com](https://lynx.wnba.com)
- - date_published: 2024-06-20T16:43:50.537839+00:00
-
- ## Phoenix Mercury
- - [https://mercury.wnba.com](https://mercury.wnba.com)
- - date_published: 2024-06-20T16:43:16.909077+00:00
-
- ## Washington Mystics – Official Site of the Washington Mystics
- - [https://mystics.wnba.com](https://mystics.wnba.com)
- - date_published: 2024-06-20T16:44:28.577251+00:00
-
- ## Chicago Sky – Official Site of the Chicago Sky
- - [https://sky.wnba.com](https://sky.wnba.com)
- - date_published: 2024-06-20T16:43:52.992064+00:00
-
- ## Los Angeles Sparks
- - [https://sparks.wnba.com](https://sparks.wnba.com)
- - date_published: 2024-06-20T16:44:23.944262+00:00
-
- ## WNBA
- - [https://stats.wnba.com](https://stats.wnba.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home - Seattle Storm
- - [https://storm.wnba.com](https://storm.wnba.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Connecticut Sun – Official Site of the Connecticut Sun
- - [https://sun.wnba.com](https://sun.wnba.com)
- - date_published: 2024-06-20T16:43:43.145518+00:00
-
- ## WNBA All-Star 2024
- - [https://vote.wnba.com](https://vote.wnba.com)
- - date_published: 2024-06-20T16:43:56.341085+00:00
-
- ## Dallas Wings – The Official Website of the WNBA's Dallas Wings
- - [https://wings.wnba.com](https://wings.wnba.com)
- - date_published: 2024-06-20T16:43:54.930077+00:00
-
- ## The Official Home of the WNBA | Women's National Basketball Association
- - [https://wnba.com](https://wnba.com)
- - date_published: 2024-07-14T23:59:20.481748+00:00
-
- ## WNBA Official Ticket Partner | WNBA Experiences
- - [https://wnbaexperiences.com](https://wnbaexperiences.com)
- - date_published: 2024-06-20T16:44:25.772840+00:00
-
- ## Wilmington & Northern Branch
- - [https://wnbranch.com](https://wnbranch.com)
- - date_published: 2024-08-11T22:55:28.660602+00:00
-
- ## WN Conference Istanbul 2024. The game industry dealmaking event.
- - [https://wnconf.com](https://wnconf.com)
- - date_published: 2024-05-04T07:20:13.793677+00:00
-
- ## Home
- - [https://static.wnd.com](https://static.wnd.com)
- - date_published: 2024-06-20T17:40:55+00:00
-
- ## WND Superstore
- - [http://superstore.wnd.com](http://superstore.wnd.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://wnd.com](https://wnd.com)
- - date_published: 2024-07-04T01:28:26+00:00
-
- ## WNDR LN – Travel in style.
- - [https://wndrln.com](https://wndrln.com)
- - date_published: 2024-09-16T09:52:09+00:00
-
- ## WNDU | This is Home | Indiana
- - [http://www.wndu.com](http://www.wndu.com)
- - date_published: 2024-06-28T13:11:41+00:00
-
- ## WNEM | News, Weather, Sports | Saginaw, MI
- - [https://wnem.com](https://wnem.com)
- - date_published: 2024-05-07T14:18:49.623497+00:00
 

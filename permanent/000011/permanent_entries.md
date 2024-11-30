@@ -1,3 +1,11 @@
+ ## Wildcat Resources • ASX:WC8
+ - [https://www.wildcatresources.com.au](https://www.wildcatresources.com.au)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home - Wild Republic Australia
+ - [http://www.wildrepublic.com.au](http://www.wildrepublic.com.au)
+ - date_published: 2024-08-06T03:44:25.054498+00:00
+
  ## Wine List of the Year | Recognising Australia's talented sommeliers.
  - [https://www.winelistoftheyear.com.au](https://www.winelistoftheyear.com.au)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4015,12 +4023,4 @@ University of Technology
  ## Guide Lines - For Girl Guides and Girl Guide Volunteers
  - [https://www.guidelinesforgirlguides.org.au](https://www.guidelinesforgirlguides.org.au)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## Welcome to Girl Guides Victoria - Girl Guides Victoria
- - [https://guidesvic.org.au](https://guidesvic.org.au)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Profile
- - [https://members.guidesvic.org.au](https://members.guidesvic.org.au)
- - date_published: 2024-07-12T23:27:57.837614+00:00
 

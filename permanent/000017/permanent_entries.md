@@ -1,3 +1,11 @@
+ ## FlippingBook Cloud
+ - [https://cld.bz](https://cld.bz)
+ - date_published: 2024-09-19T19:08:50.126079+00:00
+
+ ## דיגיטלר – Library
+ - [https://digitaler.cld.bz](https://digitaler.cld.bz)
+ - date_published: 2024-07-13T07:31:56.545477+00:00
+
  ## LCBO Food & Drink – Library
  - [https://lcbofoodanddrink.cld.bz](https://lcbofoodanddrink.cld.bz)
  - date_published: 2024-10-29T04:44:33.090726+00:00
@@ -4014,12 +4022,4 @@
  ## Federation of Law Societies of Canada - Governing Canada's Legal Profession
  - [http://www.flsc.ca](http://www.flsc.ca)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Flyercity Flyers | Weekly Groceries, Fashion, Electronics, Health & Beauty, Home & Garden, Home Décor & Sporting Goods Online Flyer Sales | Browse your local flyers in the comfort of your home | Flyercity.ca
- - [https://flyercity.ca](https://flyercity.ca)
- - date_published: 2024-06-14T23:43:57.125832+00:00
-
- ## Flyertown | Flyertown
- - [https://www.flyertown.ca](https://www.flyertown.ca)
- - date_published: 2024-06-21T19:45:09.541787+00:00
 

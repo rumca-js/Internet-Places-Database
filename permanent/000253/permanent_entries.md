@@ -1,3 +1,97 @@
+ ## Page Redirection
+ - [https://docs.litestar.dev](https://docs.litestar.dev)
+ - date_published: 2024-05-09T07:23:07.591958+00:00
+
+ ## Litestar – powerful, flexible, and highly performant Python ASGI framework
+ - [https://litestar.dev](https://litestar.dev)
+ - date_published: 2024-02-26T22:38:07+00:00
+
+ ## Home - Livebook.dev
+ - [https://livebook.dev](https://livebook.dev)
+ - date_published: 2024-04-30T00:29:09.957709+00:00
+
+ ## Livebook.dev - The Livebook Blog
+ - [https://news.livebook.dev](https://news.livebook.dev)
+ - date_published: 2023-10-25T18:39:31.130189+00:00
+
+ ## LiveCharts - LiveCharts2
+ - [https://livecharts.dev](https://livecharts.dev)
+ - date_published: 2024-05-07T16:04:25.565896+00:00
+
+ ## LizardByte
+ - [https://app.lizardbyte.dev](https://app.lizardbyte.dev)
+ - date_published: 2024-06-16T19:39:53+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.lab.llcoolserver.dev](https://plausible.lab.llcoolserver.dev)
+ - date_published: 2024-09-09T21:48:36.681062+00:00
+
+ ## Oxford LLMs
+ - [https://www.llmsforsocialsciene.dev](https://www.llmsforsocialsciene.dev)
+ - date_published: 2023-08-31T00:00:00+00:00
+
+ ## 502 Bad Gateway
+ - [https://git.l-m.dev](https://git.l-m.dev)
+ - date_published: 2024-04-29T07:57:00.329691+00:00
+
+ ## l-m.dev | Home
+ - [https://l-m.dev](https://l-m.dev)
+ - date_published: 2023-10-25T18:39:02.477432+00:00
+
+ ## 502 Bad Gateway
+ - [https://me.l-m.dev](https://me.l-m.dev)
+ - date_published: 2024-04-29T07:56:53.882906+00:00
+
+ ## Sidebar For Tiny Theme
+ - [https://sidebar-for-tiny-theme.lmika.dev](https://sidebar-for-tiny-theme.lmika.dev)
+ - date_published: 2024-04-06T02:02:05+00:00
+
+ ## Local-First Web Development
+ - [https://localfirstweb.dev](https://localfirstweb.dev)
+ - date_published: 2023-10-25T18:39:34.514760+00:00
+ - tags: ['web design', 'programming philosophy']
+
+ ## localghost
+ - [https://localghost.dev](https://localghost.dev)
+ - date_published: 2024-01-07T19:02:10.388264+00:00
+
+ ## type__error’s Twitter Archive
+ - [https://twitter.localghost.dev](https://twitter.localghost.dev)
+ - date_published: 2022-11-20T00:00:00+00:00
+
+ ## Lodash
+ - [https://lodash.dev](https://lodash.dev)
+ - date_published: 2024-07-12T17:58:28.127804+00:00
+
+ ## LogalDeveloper
+ - [https://logal.dev](https://logal.dev)
+ - date_published: 2024-07-24T21:29:22.024060+00:00
+ - tags: ['personal']
+
+ ## Logdy
+ - [https://demo.logdy.dev](https://demo.logdy.dev)
+ - date_published: 2024-04-30T00:31:38.931646+00:00
+
+ ## Logdy
+ - [https://logdy.dev](https://logdy.dev)
+ - date_published: 2024-02-06T21:45:51.770938+00:00
+
+ ## Logica – Declarative logic programming language for data
+ - [https://logica.dev](https://logica.dev)
+ - date_published: 2024-11-16T19:09:30+00:00
+
+ ## Logo API | Logo.dev Company and Brand API
+ - [https://img.logo.dev](https://img.logo.dev)
+ - date_published: 2024-07-01T05:02:19.826170+00:00
+
+ ## Logo API | Logo.dev Company and Brand API
+ - [https://www.logo.dev](https://www.logo.dev)
+ - date_published: 2024-07-01T05:02:23.482421+00:00
+
+ ## Logotypes API
+ - [https://logotypes.dev](https://logotypes.dev)
+ - date_published: 2018-10-20T01:46:40+00:00
+
  ## Logpipe
  - [https://logpipe.dev](https://logpipe.dev)
  - date_published: 2024-04-29T07:41:10.653688+00:00
@@ -1911,6 +2005,10 @@
  - [http://pickleballtourneypro.pages.dev](http://pickleballtourneypro.pages.dev)
  - date_published: 2024-09-02T09:51:16.098580+00:00
 
+ ## Polaroid Maker - Transform Photos into Beautiful Polaroid Memories
+ - [https://polaroid-maker.pages.dev](https://polaroid-maker.pages.dev)
+ - date_published: 2024-11-29T07:10:17.915360+00:00
+
  ## Reviewer
  - [https://reviewer.pages.dev](https://reviewer.pages.dev)
  - date_published: 2024-06-08T15:59:50.401884+00:00
@@ -3636,6 +3734,11 @@
  - date_published: 2024-04-30T02:15:06.109583+00:00
  - tags: ['web testing', 'web scraping', 'browser automation']
 
+ ## Selenium IDE · Open source record and playback test automation for the web
+ - [https://selenium.dev/selenium-ide](https://selenium.dev/selenium-ide)
+ - date_published: 2024-11-29T09:09:43+00:00
+ - tags: ['open source', 'web scraping']
+
  ## The Self-Improving Developer
  - [https://selfimproving.dev](https://selfimproving.dev)
  - date_published: 2023-01-03T09:04:15+00:00
@@ -3982,107 +4085,4 @@
  - [https://slama.dev](https://slama.dev)
  - date_published: 2023-10-25T08:58:54.013566+00:00
  - tags: ['personal']
-
- ## Slidev
- - [https://br.sli.dev](https://br.sli.dev)
- - date_published: 2024-07-07T03:05:21.033583+00:00
-
- ## Join the Slidev Discord Server!
- - [https://chat.sli.dev](https://chat.sli.dev)
- - date_published: 2024-07-03T17:20:00+00:00
-
- ## Slidev 中文文档
- - [https://cn.sli.dev](https://cn.sli.dev)
- - date_published: 2024-07-07T03:05:21.669657+00:00
-
- ## Slidev
- - [https://de.sli.dev](https://de.sli.dev)
- - date_published: 2024-07-07T03:05:13.692896+00:00
-
- ## Slidev
- - [https://el.sli.dev](https://el.sli.dev)
- - date_published: 2024-07-07T03:05:09.669286+00:00
-
- ## Slidev
- - [https://es.sli.dev](https://es.sli.dev)
- - date_published: 2024-07-07T03:05:16.922571+00:00
-
- ## Slidev
- - [https://fr.sli.dev](https://fr.sli.dev)
- - date_published: 2024-07-07T03:05:19.453118+00:00
-
- ## Slidev
- - [https://ja.sli.dev](https://ja.sli.dev)
- - date_published: 2024-07-07T03:05:10.740391+00:00
-
- ## Slidev
- - [https://ru.sli.dev](https://ru.sli.dev)
- - date_published: 2024-07-07T03:05:15.828318+00:00
-
- ## Slidev
- - [https://sli.dev](https://sli.dev)
- - date_published: 2024-05-08T09:01:19.377444+00:00
-
- ## Slidev
- - [https://vn.sli.dev](https://vn.sli.dev)
- - date_published: 2024-07-07T03:05:12.337491+00:00
-
- ## Home — Isaac Clayton
- - [https://slightknack.dev](https://slightknack.dev)
- - date_published: 2023-10-25T08:48:59.054260+00:00
- - tags: ['personal']
-
- ## Introduction - SlimeVR Docs
- - [https://docs.slimevr.dev](https://docs.slimevr.dev)
- - date_published: 2024-04-30T02:18:05.609761+00:00
-
- ## SlimeVR Store
- - [https://shop.slimevr.dev](https://shop.slimevr.dev)
- - date_published: 2024-06-05T11:56:00.511738+00:00
-
- ## SlimeVR Full-Body Tracker
- - [https://slimevr.dev](https://slimevr.dev)
- - date_published: 2023-11-26T21:42:42+00:00
- - tags: ['virtual reality', 'hardware', 'vr']
-
- ## Slinky - Write React apps in Scala just like ES6
- - [https://slinky.dev](https://slinky.dev)
- - date_published: 2024-06-20T14:02:54.380129+00:00
-
- ## Slint Mattermost
- - [https://chat.slint.dev](https://chat.slint.dev)
- - date_published: 2024-04-29T04:46:35.683779+00:00
-
- ## Sign in - Matomo
- - [https://matomo.slint.dev](https://matomo.slint.dev)
- - date_published: 2024-08-05T18:04:31.719286+00:00
-
- ## Slint |
-            Declarative GUI for Rust, C++ & JavaScript
- - [https://slint.dev](https://slint.dev)
- - date_published: 2023-10-25T18:42:03.965621+00:00
-
- ## Sloth - Sloth
- - [https://sloth.dev](https://sloth.dev)
- - date_published: 2022-10-27T06:12:24+00:00
-
- ## Supply-chain Levels for Software Artifacts
- - [https://slsa.dev](https://slsa.dev)
- - date_published: 2024-09-04T03:28:00.064317+00:00
-
- ## SmartPy - Smart Contracts on Tezos
- - [https://smartpy.dev](https://smartpy.dev)
- - date_published: 2024-10-22T17:38:22.951008+00:00
-
- ## Smart Wallet
- - [https://smartwallet.dev](https://smartwallet.dev)
- - date_published: 2024-09-21T23:36:05.164759+00:00
-
- ## The Smidt Blog
- - [https://blog.smidt.dev](https://blog.smidt.dev)
- - date_published: 2024-11-18T14:51:31.422005+00:00
-
- ## Scott Leggett | @smlx's blog
- - [https://smlx.dev](https://smlx.dev)
- - date_published: 2024-02-14T19:23:45.960903+00:00
 

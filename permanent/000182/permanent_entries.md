@@ -1,3 +1,77 @@
+ ## AuthVault    :Fortified Encryption For Digitial Workflows
+ - [https://vault.scopichost.com](https://vault.scopichost.com)
+ - date_published: 2024-10-30T07:53:08.807205+00:00
+
+ ## Scop-it
+ - [http://scop-it.com](http://scop-it.com)
+ - date_published: 2024-07-03T13:39:02+00:00
+
+ ## All Posts | Elsevier Scopus Blog
+ - [https://blog.scopus.com](https://blog.scopus.com)
+ - date_published: 2024-06-15T02:32:47+00:00
+
+ ## Scopus preview -  
+Scopus - Welcome to Scopus
+ - [https://scopus.com](https://scopus.com)
+ - date_published: 2024-05-01T02:42:34.909331+00:00
+
+ ## Welcome to SCOR
+ - [http://scor.com](http://scor.com)
+ - date_published: 2024-07-01T17:02:08.826780+00:00
+
+ ## Scorched Garlic
+ - [https://scorchedgarlic.com](https://scorchedgarlic.com)
+ - date_published: 2023-12-20T11:44:45.377578+00:00
+ - tags: ['personal']
+
+ ## Scorch Works
+ - [https://www.scorchworks.com](https://www.scorchworks.com)
+ - date_published: 2024-05-05T20:13:07+00:00
+
+ ## Career Accelerator
+ - [https://alexander-yrocgkao.scoreapp.com](https://alexander-yrocgkao.scoreapp.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Meaningful Work Scorecard
+ - [https://alex-js05tpgt.scoreapp.com](https://alex-js05tpgt.scoreapp.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## The Well-being Pulse: Checking the Rhythm of Your Busy Life
+ - [https://be0cf73e-bf98-4f62-b2cf-798ac4b92c71.scoreapp.com](https://be0cf73e-bf98-4f62-b2cf-798ac4b92c71.scoreapp.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Practice Management Assessment for Lawyers
+ - [https://ernest-og7hpkkv.scoreapp.com](https://ernest-og7hpkkv.scoreapp.com)
+ - date_published: 2023-12-09T00:00:00+00:00
+
+ ## Understand your ADHD challenges and superpowers!
+ - [https://george-cm93x4mo.scoreapp.com](https://george-cm93x4mo.scoreapp.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Product Operations Self-Assessment
+ - [https://jake-klglm8zd.scoreapp.com](https://jake-klglm8zd.scoreapp.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## ScoreApp Manage
+ - [https://manage.scoreapp.com](https://manage.scoreapp.com)
+ - date_published: 2024-07-12T15:01:30+00:00
+
+ ## Are Your Professional Development Events Hitting the Mark?
+ - [https://sched-pd.scoreapp.com](https://sched-pd.scoreapp.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## SmartSite Quiz - How Smart is your Site?
+ - [https://smartsitequiz.scoreapp.com](https://smartsitequiz.scoreapp.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software
+ - [https://static-2.scoreapp.com](https://static-2.scoreapp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ScoreApp: Advanced Quiz Funnel Marketing | Quiz Software
+ - [https://static.scoreapp.com](https://static.scoreapp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## The Well-being Pulse: Checking the Rhythm of Your Busy Life
  - [https://venus-ooyd4hbv.scoreapp.com](https://venus-ooyd4hbv.scoreapp.com)
  - date_published: 2024-04-20T00:00:00+00:00
@@ -1979,7 +2053,7 @@
  ## Seafile - Open Source File Sync and Share Software
  - [https://seafile.com](https://seafile.com)
  - date_published: 2024-04-08T19:26:28.445904+00:00
- - tags: ['open source', 'file sync', 'self-host']
+ - tags: ['open source', 'file sharing', 'self-host']
 
  ## Seafood Garden | Quality Seafood Wholesaler for Zoos & Aquariums
  - [https://www.seafood-garden.com](https://www.seafood-garden.com)
@@ -3982,77 +4056,4 @@
  ## Welcome to Service Electric Cablevision
  - [http://www.secv.com](http://www.secv.com)
  - date_published: 2024-06-29T15:49:06.013669+00:00
-
- ## Security Wale | Aditya Patel | Substack
- - [https://secwale.com](https://secwale.com)
- - date_published: 2023-10-25T17:01:27.543178+00:00
-
- ## SecWiki-安全维基,汇集国内外优秀安全资讯、工具和网站
- - [https://sec-wiki.com](https://sec-wiki.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 서울경제
- - [https://www.sedaily.com](https://www.sedaily.com)
- - date_published: 2024-10-19T17:31:20.493625+00:00
-
- ## Radware Captcha Page
- - [https://sedar.com](https://sedar.com)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## SEDEC 2024
- - [http://sedecturkey.com](http://sedecturkey.com)
- - date_published: 2024-06-15T21:19:20.489762+00:00
-
- ## Sedition | Limited edition art for your digital life
- - [https://www.seditionart.com](https://www.seditionart.com)
- - date_published: 2024-07-20T03:56:52.778562+00:00
-
- ## Buy. Park. Sell. Domains | Sedo - World's leading Domain marketplace
- - [https://cdn.sedo.com](https://cdn.sedo.com)
- - date_published: 2024-05-02T12:53:47.832582+00:00
-
- ## Find Answers
- - [https://faq-us.sedo.com](https://faq-us.sedo.com)
- - date_published: 2024-06-18T12:56:02.544759+00:00
-
- ## Buy. Park. Sell. Domains | Sedo - World's leading Domain marketplace
- - [https://sedo.com](https://sedo.com)
- - date_published: 2024-04-29T07:34:19.576192+00:00
-
- ## SEDutil: Self Encrypting Drive Utility
- - [https://sedutil.com](https://sedutil.com)
- - date_published: 2019-10-21T15:12:25+00:00
-
- ## Upcoming Live Online Auctions - Daniel Frank Sedwick, LLC
- - [https://auction.sedwickcoins.com](https://auction.sedwickcoins.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Shipwreck Coins and Artifacts of all Nations - Spanish Colonial & Latin 
-American Coins by Daniel Frank Sedwick, LLC
- - [https://sedwickcoins.com](https://sedwickcoins.com)
- - date_published: 2024-04-11T20:56:29+00:00
-
- ## .see blue at the University of Kentucky
- - [http://www.seeblue.com](http://www.seeblue.com)
- - date_published: 2019-11-01T13:40:03+00:00
-
- ## 91香蕉视频汚-91香蕉视频污版下载-91香蕉视频苹果版-91香蕉视频下载污版
- - [http://www.seeblueuk.com](http://www.seeblueuk.com)
- - date_published: 2024-07-09T17:24:01.634626+00:00
-
- ## SEEBURGER Business Integration
- - [https://www.seeburger.com](https://www.seeburger.com)
- - date_published: 2024-08-11T04:24:22.608132+00:00
-
- ## See Clayton County | Convention and Visitors Bureau
- - [https://seeclaytoncountyga.com](https://seeclaytoncountyga.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## SeeClickFix CRM
- - [https://crm.seeclickfix.com](https://crm.seeclickfix.com)
- - date_published: 2024-09-16T01:38:11.131492+00:00
-
- ## SeeClickFix
- - [https://seeclickfix.com](https://seeclickfix.com)
- - date_published: 2024-07-02T15:51:35.188672+00:00
 

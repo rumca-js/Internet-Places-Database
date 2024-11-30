@@ -1,3 +1,59 @@
+ ## Industi - Software & Branding
+ - [https://industi.com](https://industi.com)
+ - date_published: 2024-07-01T08:08:37.379808+00:00
+
+ ## INDUSTR.com – Industrie vorwärts denken
+ - [https://www.industr.com](https://www.industr.com)
+ - date_published: 2024-09-14T08:34:11.748231+00:00
+
+ ## IB Home
+ - [https://www.industrial-bank.com](https://www.industrial-bank.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Industrial Data Labs
+ - [https://industrialdatalabs.com](https://industrialdatalabs.com)
+ - date_published: 2024-06-19T19:42:26.783007+00:00
+
+ ## Home - Industrial Drayage
+ - [https://industrialdrayage.com](https://industrialdrayage.com)
+ - date_published: 2020-03-14T00:00:00+00:00
+
+ ## Industrial Empathy
+ - [https://www.industrialempathy.com](https://www.industrialempathy.com)
+ - date_published: 2024-05-06T13:33:34.311105+00:00
+
+ ## Infrastructure: A Guide to the Industrial Landscape
+ - [http://industrial-landscape.com](http://industrial-landscape.com)
+ - date_published: 2023-01-13T20:30:49+00:00
+
+ ## Industrial Logic - Modern Agile Consultancy
+ - [https://www.industriallogic.com](https://www.industriallogic.com)
+ - date_published: 2024-05-04T14:03:20.251302+00:00
+
+ ## Industrial Networking Solutions | Industrial and Enterprise IoT Solutions
+ - [https://www.industrialnetworking.com](https://www.industrialnetworking.com)
+ - date_published: 2024-06-28T19:25:09.116709+00:00
+
+ ## Center for Industrial Progress
+ - [https://industrialprogress.com](https://industrialprogress.com)
+ - date_published: 2024-06-20T04:19:47.298427+00:00
+
+ ## Industrial Safety Products | Personal Protective Equipment & Safety Supplies
+ - [https://www.industrialsafetyproducts.com](https://www.industrialsafetyproducts.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Jenny Ming | Graphic Designer Extraordinaire
+ - [https://industriousqueen.com](https://industriousqueen.com)
+ - date_published: 2024-08-07T21:31:36.114271+00:00
+
+ ## IndustryArena - Business Netzwerk der Fertigungsindustrie
+ - [https://de.industryarena.com](https://de.industryarena.com)
+ - date_published: 2024-07-16T17:32:12.155651+00:00
+
+ ## Eat, Drink, Shop & Explore | Industry City
+ - [https://industrycity.com](https://industrycity.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
  ## Industry Decarbonization Newsletter
  - [https://industrydecarbonization.com](https://industrydecarbonization.com)
  - date_published: 2023-10-25T15:19:13.252427+00:00
@@ -3968,60 +4024,4 @@
  ## InstantPersonas | Get Started
  - [https://instantpersonas.com](https://instantpersonas.com)
  - date_published: 2024-10-30T12:40:17.242352+00:00
-
- ## Welcome to Instant Rimshot
- - [http://instantrimshot.com](http://instantrimshot.com)
- - date_published: 2024-10-29T19:48:32.840500+00:00
-
- ## InstantSSL Official Site | Instant SSL Certificates Official Site
- - [https://www.instantssl.com](https://www.instantssl.com)
- - date_published: 2024-06-28T19:06:50+00:00
-
- ## Instagram Story Viewer - Watch Anonymously with InstantStories
- - [https://instant-stories.com](https://instant-stories.com)
- - date_published: 2024-10-31T02:36:15.918242+00:00
-
- ## Instant Workstation
- - [https://instantworkstation.com](https://instantworkstation.com)
- - date_published: 2024-05-17T02:55:43.428374+00:00
-
- ## Instapage
- - [https://app.instapage.com](https://app.instapage.com)
- - date_published: 2024-06-15T01:35:39.675249+00:00
-
- ## Error
- - [https://heatmap-events-collector.instapage.com](https://heatmap-events-collector.instapage.com)
- - date_published: 2024-07-26T03:28:11.552788+00:00
-
- ## Instapage: The World’s Best Landing Page Platform
- - [https://instapage.com](https://instapage.com)
- - date_published: 2024-06-19T21:22:07.394926+00:00
-
- ## Instapage Status
- - [https://status.instapage.com](https://status.instapage.com)
- - date_published: 2024-10-30T21:30:27.701590+00:00
-
- ## Instapaper
- - [http://blog.instapaper.com](http://blog.instapaper.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Instapaper
- - [https://instapaper.com](https://instapaper.com)
- - date_published: 2024-05-10T02:48:18.518068+00:00
-
- ## Instapundit
- - [https://instapundit.com](https://instapundit.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Image Resizer: Resize Photos Online For Free
- - [https://instasize.com](https://instasize.com)
- - date_published: 2024-06-19T20:10:17.859782+00:00
-
- ## Home - Welcome To The InstaSocials
- - [https://instasocials.com](https://instasocials.com)
- - date_published: 2024-06-19T21:47:06+00:00
-
- ## Accord - Status
- - [https://accord.instatus.com](https://accord.instatus.com)
- - date_published: 2024-09-14T10:03:44.804153+00:00
 

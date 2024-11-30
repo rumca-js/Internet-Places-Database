@@ -1,3 +1,68 @@
+ ## NovaFork
+ - [https://novafork.com](https://novafork.com)
+ - date_published: 2024-11-12T17:03:34.874391+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Nova is now part of AngelList
+ - [https://novahq.com](https://novahq.com)
+ - date_published: 2023-11-19T21:17:33+00:00
+
+ ## The easy, trusted way to buy insurance - Novak Insurance
+ - [https://novakinsurance.com](https://novakinsurance.com)
+ - date_published: 2024-10-17T22:30:56.259346+00:00
+
+ ## Nova Launcher
+ - [https://novalauncher.com](https://novalauncher.com)
+ - date_published: 2024-08-11T17:56:06.817713+00:00
+
+ ## Nova's Homepage
+ - [https://novalinium.com](https://novalinium.com)
+ - date_published: 2022-06-14T20:53:02+00:00
+
+ ## CampusGroups by Ready Education
+ - [http://www.novalsys.com](http://www.novalsys.com)
+ - date_published: 2024-07-01T11:21:48.579935+00:00
+
+ ## nova-mind.com
+ - [http://www.nova-mind.com](http://www.nova-mind.com)
+ - date_published: 2024-07-07T06:36:29.615784+00:00
+
+ ## NovaMostra - who seeks ... shall find
+ - [https://novamostra.com](https://novamostra.com)
+ - date_published: 2023-10-25T16:22:29.141519+00:00
+
+ ## Novanta Inc - Delivering Innovation that Matters
+ - [https://www.novanta.com](https://www.novanta.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Home - Novanta IMS
+ - [https://novantaims.com](https://novantaims.com)
+ - date_published: 2024-09-05T21:59:55.591918+00:00
+
+ ## Novantica
+ - [https://novanticagame.com](https://novanticagame.com)
+ - date_published: 2024-08-09T01:25:22+00:00
+
+ ## Công cụ Chatbot và bán hàng tự động
+ - [https://chatbot3.novaonx.com](https://chatbot3.novaonx.com)
+ - date_published: 2024-10-22T07:49:51.896140+00:00
+
+ ## THE NOVA OPEN
+ - [https://novaopen.com](https://novaopen.com)
+ - date_published: 2024-05-01T05:00:49.400801+00:00
+
+ ## Discover new packages for Laravel Nova
+ - [https://novapackages.com](https://novapackages.com)
+ - date_published: 2024-06-18T10:24:19.153319+00:00
+
+ ## Nova Science Publishers – Publisher of Books and Journals in Medicine and Health, Science and Technology and Social Sciences
+ - [https://novapublishers.com](https://novapublishers.com)
+ - date_published: 2024-05-06T14:46:05.865617+00:00
+
+ ## Novara Media
+ - [https://novaramedia.com](https://novaramedia.com)
+ - date_published: 2024-07-06T12:11:47+00:00
+
  ## Seite nicht korrekt eingerichtet
  - [http://wordpress.novarostudio.com](http://wordpress.novarostudio.com)
  - date_published: 2024-07-15T09:53:36+00:00
@@ -3968,68 +4033,4 @@ a simple way
  ## Expert Solutions for Complex Challenges
  - [https://ocamlpro.com](https://ocamlpro.com)
  - date_published: 2024-06-19T08:54:26+00:00
-
- ## Expert Solutions for Complex Challenges
- - [http://opam.ocamlpro.com](http://opam.ocamlpro.com)
- - date_published: 2024-06-19T08:54:26+00:00
-
- ## Formation Formations | OCamlPro
- - [https://training.ocamlpro.com](https://training.ocamlpro.com)
- - date_published: 2024-06-17T08:24:45+00:00
-
- ## Ocasio Media — Digital Marketing That Drives Revenue
- - [https://ocasiomedia.com](https://ocasiomedia.com)
- - date_published: 2024-10-19T10:51:49.063112+00:00
-
- ## Advertise with Bonnier News
- - [https://bonniernews.ocast.com](https://bonniernews.ocast.com)
- - date_published: 2024-10-20T05:55:42.911011+00:00
-
- ## Gateway!
- - [https://cdn.ocast.com](https://cdn.ocast.com)
- - date_published: 2020-10-25T01:45:39+00:00
-
- ## Advertise with Dagens industri
- - [https://di.ocast.com](https://di.ocast.com)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Advertise with Dagens Nyheter
- - [https://dn.ocast.com](https://dn.ocast.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Advertise with Nyheter24
- - [https://nyheter24.ocast.com](https://nyheter24.ocast.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Ocast - Marketplace for advertising - Ocast
- - [https://ocast.com](https://ocast.com)
- - date_published: 2024-08-11T17:56:57.204276+00:00
-
- ## Advertise with Vi i Villa
- - [https://viivilla.ocast.com](https://viivilla.ocast.com)
- - date_published: 2024-07-07T07:47:16.440808+00:00
-
- ## https://www.occamm.com
- - [https://occamm.com](https://occamm.com)
- - date_published: 2023-10-25T16:24:08.687098+00:00
-
- ## Occam's RazR
- - [https://occamsrazr.com](https://occamsrazr.com)
- - date_published: 2020-12-03T13:17:25+00:00
-
- ## Closed Account - Artist is taking a break
- - [https://occasionalheadbunts.com](https://occasionalheadbunts.com)
- - date_published: 2024-04-29T02:01:25.796014+00:00
-
- ## Occasionally Cogent
- - [https://occasionallycogent.com](https://occasionallycogent.com)
- - date_published: 2022-07-24T00:00:00+00:00
-
- ## OCCASION MOTEUR | Moteurs voiture | Boite de vitesses automobile | FRANCE
- - [https://www.occasion-moteur.com](https://www.occasion-moteur.com)
- - date_published: 2024-09-14T08:38:15.560208+00:00
-
- ## Guadeloupe Occasions
- - [https://occasionsautoguadeloupe.com](https://occasionsautoguadeloupe.com)
- - date_published: 2024-08-18T11:05:38.416417+00:00
 

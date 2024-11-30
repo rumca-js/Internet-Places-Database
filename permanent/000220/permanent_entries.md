@@ -1,3 +1,80 @@
+ ## VERIMATRIX: Content Security, Code & Mobile App Protection
+ - [https://www.verimatrix.com](https://www.verimatrix.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Sign in - Verint Connect
+ - [https://connect.verint.com](https://connect.verint.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Verint: Customer Engagement Leaders
+ - [https://www.verint.com](https://www.verint.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Web.com Brands
+ - [https://www.verio.com](https://www.verio.com)
+ - date_published: 2024-10-02T12:26:10.897516+00:00
+
+ ## Verisgold – Rekomendasi Game Online PC Terbaik Tahun 2024
+ - [https://verisgold.com](https://verisgold.com)
+ - date_published: 2024-08-20T04:00:15.816839+00:00
+
+ ## Investor Relations | VeriSign, Inc.
+ - [https://investor.verisign.com](https://investor.verisign.com)
+ - date_published: 2024-07-08T08:25:00+00:00
+
+ ## Verisign is a global provider of domain name registry services and internet infrastructure - Verisign
+ - [https://verisign.com](https://verisign.com)
+ - date_published: 2024-05-08T10:35:49.417280+00:00
+
+ ## Whois Search - Free Domain Name Lookup  - Verisign
+ - [https://webwhois.verisign.com](https://webwhois.verisign.com)
+ - date_published: 2024-07-08T08:34:10.952151+00:00
+
+ ## Verisign is a global provider of domain name registry services and internet infrastructure - Verisign
+ - [https://verisigninc.com](https://verisigninc.com)
+ - date_published: 2024-06-12T11:30:22.281664+00:00
+
+ ## DNSSEC Debugger
+ - [https://dnssec-debugger.verisignlabs.com](https://dnssec-debugger.verisignlabs.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## VeriSilicon - A Silicon Platform as a Service Company
+ - [https://verisilicon.com](https://verisilicon.com)
+ - date_published: 2024-07-20T21:28:16.979177+00:00
+
+ ## Home
+ - [https://core.verisk.com](https://core.verisk.com)
+ - date_published: 2024-07-19T15:45:13.698095+00:00
+
+ ## FCRA
+ - [https://fcra.verisk.com](https://fcra.verisk.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investor.verisk.com](https://investor.verisk.com)
+ - date_published: 2024-07-19T15:45:26.634980+00:00
+
+ ## Leading source of information about insurance risk
+ - [https://verisk.com](https://verisk.com)
+ - date_published: 2024-07-19T15:44:56.223909+00:00
+
+ ## Veristat Resource Library
+ - [https://info.veristat.com](https://info.veristat.com)
+ - date_published: 2024-10-16T18:16:16+00:00
+
+ ## Veristat | Successfully Supporting Clinical Research Trials
+ - [https://www.veristat.com](https://www.veristat.com)
+ - date_published: 2024-06-16T23:01:29+00:00
+
+ ## Veritable Hokum
+ - [http://store.veritablehokum.com](http://store.veritablehokum.com)
+ - date_published: 2024-06-26T21:34:54.688315+00:00
+
+ ## Veritable Hokum
+ - [https://veritablehokum.com](https://veritablehokum.com)
+ - date_published: 2024-06-26T21:34:57.020761+00:00
+ - tags: ['comic strips']
+
  ## Veritas Alta ™ View
  - [https://alta.us.veritas.com](https://alta.us.veritas.com)
  - date_published: 2024-08-23T06:44:52+00:00
@@ -2820,6 +2897,10 @@
  - [http://www.vinaysahni.com](http://www.vinaysahni.com)
  - date_published: 2024-08-08T21:41:23.687502+00:00
 
+ ## vince · Open Source Web Analytics at scale
+ - [https://demo.vinceanalytics.com](https://demo.vinceanalytics.com)
+ - date_published: 2024-11-29T06:08:27.149672+00:00
+
  ## Vince Myo M. Aung
  - [https://vinceaung.com](https://vinceaung.com)
  - date_published: 2024-10-29T14:27:01.751734+00:00
@@ -3956,85 +4037,4 @@
  ## Visa, zaufany partner w płatnościach cyfrowych
  - [https://promotions.visa.com](https://promotions.visa.com)
  - date_published: 2024-07-14T03:05:44+00:00
-
- ## Pouzdani lider u digitalnim plaćanjima
- - [https://rs.visa.com](https://rs.visa.com)
- - date_published: 2024-05-12T03:59:13.036950+00:00
-
- ## Visa
- - [https://secure.checkout.visa.com](https://secure.checkout.visa.com)
- - date_published: 2024-05-01T07:19:13.746027+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://usa.visa.com](https://usa.visa.com)
- - date_published: 2024-05-12T03:58:24.916076+00:00
-
- ## Visa, zaufany partner w płatnościach cyfrowych
- - [https://visa.com](https://visa.com)
- - date_published: 2023-01-01T00:00:00+00:00
- - tags: ['payments', 'card company']
-
- ## Виза, надежден лидер в дигиталните разплащания
- - [https://visabg.com](https://visabg.com)
- - date_published: 2024-05-12T03:59:38.396424+00:00
-
- ## Visage Technologies - Face tracking, analysis and recognition technology
- - [https://visagetechnologies.com](https://visagetechnologies.com)
- - date_published: 2024-09-04T07:30:36+00:00
-
- ## Visa, una società leader nei pagamenti digitali
- - [https://visaitalia.com](https://visaitalia.com)
- - date_published: 2024-05-12T03:59:32.569592+00:00
-
- ## Visa Kami - Permanent Residence Japan Eligibility test
- - [https://visakami.com](https://visakami.com)
- - date_published: 2024-07-23T23:39:24.795994+00:00
-
- ## @visakanv – ❤️ friendly, ambitious nerd ⚡️
- - [https://visakanv.com](https://visakanv.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## 신뢰할 수 있는 디지털 결제 리더 Visa
- - [https://visakorea.com](https://visakorea.com)
- - date_published: 2024-05-12T03:59:07.441485+00:00
-
- ## Full-Service Immigration Firm | Siskind Susser PC
- - [http://www.visalaw.com](http://www.visalaw.com)
- - date_published: 2024-07-13T10:22:10+00:00
-
- ## Visalia/Tulare, CA - Home
- - [https://www.visaliatimesdelta.com](https://www.visaliatimesdelta.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://ae.visamiddleeast.com](https://ae.visamiddleeast.com)
- - date_published: 2024-05-12T03:59:11.137383+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://eg.visamiddleeast.com](https://eg.visamiddleeast.com)
- - date_published: 2024-05-12T03:59:16.368023+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://jo.visamiddleeast.com](https://jo.visamiddleeast.com)
- - date_published: 2024-06-16T03:00:22+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://km.visamiddleeast.com](https://km.visamiddleeast.com)
- - date_published: 2024-05-12T03:59:03.487397+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://kw.visamiddleeast.com](https://kw.visamiddleeast.com)
- - date_published: 2024-05-12T03:58:20.928370+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://ma.visamiddleeast.com](https://ma.visamiddleeast.com)
- - date_published: 2024-05-12T03:58:30.345300+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://pk.visamiddleeast.com](https://pk.visamiddleeast.com)
- - date_published: 2024-05-12T03:59:01.114168+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://qa.visamiddleeast.com](https://qa.visamiddleeast.com)
- - date_published: 2024-05-12T03:58:59.798288+00:00
 

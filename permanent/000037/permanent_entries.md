@@ -1,3 +1,11 @@
+ ## American Idol Voting 2024 | ABC
+ - [https://idolvote.abc.com](https://idolvote.abc.com)
+ - date_published: 2024-05-01T04:47:40.824605+00:00
+
+ ## ABC
+ - [https://support.abc.com](https://support.abc.com)
+ - date_published: 2024-07-22T17:31:46.743425+00:00
+
  ## Home | ABC10 Advertising San Diego
  - [https://www.abc10advertising.com](https://www.abc10advertising.com)
  - date_published: 2024-10-29T11:20:23.370822+00:00
@@ -4012,12 +4020,4 @@
  ## Techfocus Media
  - [https://techfocus.activehosted.com](https://techfocus.activehosted.com)
  - date_published: 2024-05-01T08:27:21.156598+00:00
-
- ## The Ferret
- - [https://theferret.activehosted.com](https://theferret.activehosted.com)
- - date_published: 2024-08-18T16:35:01.816236+00:00
-
- ## THEWALRUS Email Marketing
- - [https://thewalrus.activehosted.com](https://thewalrus.activehosted.com)
- - date_published: 2024-04-30T05:15:27.330667+00:00
 

@@ -1,3 +1,109 @@
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [https://harris.uchicago.edu](https://harris.uchicago.edu)
+ - date_published: 2024-05-08T00:13:10.966049+00:00
+
+ ## Home | HCEO
+ - [https://hceconomics.uchicago.edu](https://hceconomics.uchicago.edu)
+ - date_published: 2024-08-06T13:17:58+00:00
+
+ ## Knowledge Base - IT Service Portal
+ - [http://home.uchicago.edu](http://home.uchicago.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Housing & Residence Life
+ - [https://housing.uchicago.edu](https://housing.uchicago.edu)
+ - date_published: 2024-07-01T20:20:39+00:00
+
+ ## Division of the Humanities
+ - [http://humanities.uchicago.edu](http://humanities.uchicago.edu)
+ - date_published: 2024-06-23T12:31:37+00:00
+
+ ## Human Resources | The University of Chicago
+ - [https://humanresources.uchicago.edu](https://humanresources.uchicago.edu)
+ - date_published: 2024-07-01T22:25:15.077760+00:00
+
+ ## IFK
+ - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
+ - date_published: 2024-02-24T18:19:38.969915+00:00
+
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [https://info.harris.uchicago.edu](https://info.harris.uchicago.edu)
+ - date_published: 2024-07-02T21:29:37+00:00
+
+ ## Information Technology Services at UChicago
+ - [https://itservices.uchicago.edu](https://itservices.uchicago.edu)
+ - date_published: 2024-07-01T22:26:04.119454+00:00
+
+ ## Information Technology Services at UChicago
+ - [https://its.uchicago.edu](https://its.uchicago.edu)
+ - date_published: 2024-07-01T22:39:21.940414+00:00
+
+ ## Cierpliwości...
+ - [https://journals.uchicago.edu](https://journals.uchicago.edu)
+ - date_published: 2024-06-21T23:20:11.227407+00:00
+
+ ## Kavli Institute for Cosmological Physics | The University of Chicago
+ - [http://kicp.uchicago.edu](http://kicp.uchicago.edu)
+ - date_published: 2024-07-14T16:04:16+00:00
+
+ ## Knowledge UChicago
+ - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
+ - date_published: 2024-05-07T20:52:28.163602+00:00
+
+ ## Center for Leadership and Involvement | The University of Chicago
+ - [https://leadership.uchicago.edu](https://leadership.uchicago.edu)
+ - date_published: 2024-07-01T22:33:06+00:00
+
+ ## Leadership & Society Initiative - Advanced Leadership @UChicago
+ - [https://leadforsociety.uchicago.edu](https://leadforsociety.uchicago.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## LGBTQ Student Life | Center for Identity + Inclusion | The University of Chicago
+ - [http://lgbtq.uchicago.edu](http://lgbtq.uchicago.edu)
+ - date_published: 2024-07-01T22:38:58+00:00
+
+ ## The University of Chicago Library
+                
+            
+            
+                
+            
+            - The University of Chicago Library
+ - [https://lib.uchicago.edu](https://lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:22.085559+00:00
+
+ ## Home | The University of Chicago Magazine
+ - [https://mag.uchicago.edu](https://mag.uchicago.edu)
+ - date_published: 2024-07-01T06:37:04+00:00
+
+ ## Manticore
+ - [http://manticore.cs.uchicago.edu](http://manticore.cs.uchicago.edu)
+ - date_published: 2020-05-29T17:12:18+00:00
+
+ ## UChicago Maps
+ - [https://maps.uchicago.edu](https://maps.uchicago.edu)
+ - date_published: 2024-06-15T21:16:04+00:00
+
+ ## Master of Liberal Arts (MLA) Degree Online - University of Chicago
+ - [https://masterliberalarts.uchicago.edu](https://masterliberalarts.uchicago.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Department of Mathematics | The University of Chicago
+ - [https://mathematics.uchicago.edu](https://mathematics.uchicago.edu)
+ - date_published: 2024-09-19T20:48:51+00:00
+
+ ## Department of Mathematics | The University of Chicago
+ - [https://math.uchicago.edu](https://math.uchicago.edu)
+ - date_published: 2024-06-15T21:29:28+00:00
+
+ ## Home - University of Chicago Medical and Biological Sciences Alumni Association
+ - [https://mbsaa.uchicago.edu](https://mbsaa.uchicago.edu)
+ - date_published: 2024-07-01T22:25:23.479258+00:00
+
+ ## Home - University of Chicago Medical and Biological Sciences Alumni Association
+ - [http://medbsd.uchicago.edu](http://medbsd.uchicago.edu)
+ - date_published: 2024-07-01T22:31:53.006249+00:00
+
  ## Midwest Integrated Center for Computational Materials - Home
  - [https://miccom-center.uchicago.edu](https://miccom-center.uchicago.edu)
  - date_published: 2024-06-19T02:18:05+00:00
@@ -3919,104 +4025,4 @@
  ## University of California-Santa Cruz ⋮ Events
  - [https://events.ucsc.edu](https://events.ucsc.edu)
  - date_published: 2024-07-01T23:56:09.969959+00:00
-
- ## UC Santa Cruz Financial Aid Office
- - [https://financialaid.ucsc.edu](https://financialaid.ucsc.edu)
- - date_published: 2024-05-07T21:00:16.333368+00:00
-
- ## FoSSaCS: 12th Int. Conf. on Foundations of Software Science and Computation Structures (FoSSaCS'09)
- - [http://fossacs09.soe.ucsc.edu](http://fossacs09.soe.ucsc.edu)
- - date_published: 2024-07-07T10:13:00.080225+00:00
-
- ## Genome10k | Unveiling animal diversity
- - [https://genome10k.soe.ucsc.edu](https://genome10k.soe.ucsc.edu)
- - date_published: 2024-07-04T10:39:43+00:00
-
- ## UCSC Genome Browser Home
- - [https://genome.ucsc.edu](https://genome.ucsc.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Enhancing student success through philanthropy
- - [https://giving.ucsc.edu](https://giving.ucsc.edu)
- - date_published: 2024-07-01T23:54:03.697885+00:00
-
- ## GPM | SG | Highly ranked Master's degree programs for designing and developing video games and serious games, located in the heart of Silicon Valley
- - [https://gpm.soe.ucsc.edu](https://gpm.soe.ucsc.edu)
- - date_published: 2024-06-22T08:39:31+00:00
-
- ## Graduate School | Grad Admissions UC Santa Cruz
- - [https://gradadmissions.ucsc.edu](https://gradadmissions.ucsc.edu)
- - date_published: 2024-07-01T23:53:51.667965+00:00
-
- ## Graduate Student Commons – Welcome to the GSC!
- - [https://gradcommons.ucsc.edu](https://gradcommons.ucsc.edu)
- - date_published: 2024-07-02T01:20:17.461279+00:00
-
- ## Division of Graduate Studies
- - [https://graddiv.ucsc.edu](https://graddiv.ucsc.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home | Graduate Studies
- - [https://grad.soe.ucsc.edu](https://grad.soe.ucsc.edu)
- - date_published: 2024-07-01T23:52:12.757532+00:00
-
- ## Home
- - [https://hacking4oceans.ucsc.edu](https://hacking4oceans.ucsc.edu)
- - date_published: 2024-07-20T15:33:52.313506+00:00
-
- ## UCSC Genome Browser Downloads
- - [https://hgdownload.soe.ucsc.edu](https://hgdownload.soe.ucsc.edu)
- - date_published: 2024-07-04T10:39:38.652858+00:00
-
- ## Student Housing Services
- - [https://housing.ucsc.edu](https://housing.ucsc.edu)
- - date_published: 2024-07-02T01:18:55.683149+00:00
-
- ## Humanities Division
- - [https://humanities.ucsc.edu](https://humanities.ucsc.edu)
- - date_published: 2024-07-02T01:19:23.537975+00:00
-
- ## Information Practices
- - [http://infopractices.ucsc.edu](http://infopractices.ucsc.edu)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Innovation & Business Engagement Hub – The point of entry for industry partners to connect with discoveries, innovation, resources, and talent
- - [https://innovation.ucsc.edu](https://innovation.ucsc.edu)
- - date_published: 2024-07-01T23:55:23.601926+00:00
-
- ## Inquiry @ UC Santa Cruz
- - [https://inquiry.ucsc.edu](https://inquiry.ucsc.edu)
- - date_published: 2024-05-07T21:00:10.499147+00:00
-
- ## UC Santa Cruz - Information Technology Services
- - [https://its.ucsc.edu](https://its.ucsc.edu)
- - date_published: 2024-05-07T20:59:42.623589+00:00
-
- ## Staff Employment Opportunities at UC Santa Cruz
- - [https://jobs.ucsc.edu](https://jobs.ucsc.edu)
- - date_published: 2024-07-01T02:40:33.764598+00:00
-
- ## Keep Learning
- - [https://keeplearning.ucsc.edu](https://keeplearning.ucsc.edu)
- - date_published: 2024-07-02T01:18:47.902854+00:00
-
- ## Home | Kavli Summer Program in Astrophysics
- - [https://kspa.soe.ucsc.edu](https://kspa.soe.ucsc.edu)
- - date_published: 2021-12-12T00:00:00+00:00
-
- ## UCSC Office of Campus Counsel – The office of Campus Counsel represents the Regents of the University of California and advises the Chancellor and campus leadership in a broad range of legal, regulatory and governance issues.
- - [https://lex.ucsc.edu](https://lex.ucsc.edu)
- - date_published: 2024-07-21T06:32:53+00:00
-
- ## home | University Library
- - [https://library.ucsc.edu](https://library.ucsc.edu)
- - date_published: 2024-07-01T23:55:13.499819+00:00
-
- ## Off-campus Access Proxy Login
- - [https://login.oca.ucsc.edu](https://login.oca.ucsc.edu)
- - date_published: 2024-06-30T01:26:00.127838+00:00
-
- ## Languages, Systems, and Data Lab @ UCSC
- - [https://lsd.ucsc.edu](https://lsd.ucsc.edu)
- - date_published: 2024-01-22T00:00:00+00:00
 

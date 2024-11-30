@@ -1,3 +1,106 @@
+ ## The Keyword | Google Product and Technology News and Stories
+ - [https://blog.google](https://blog.google)
+ - date_published: 2023-10-25T11:29:32.894232+00:00
+
+ ## Cars with Google built-in | A more connected, personal, and helpful drive.
+ - [https://built-in.google](https://built-in.google)
+ - date_published: 2024-05-14T06:28:00+00:00
+
+ ## Business Messages: Create connections that count
+ - [https://businessmessages.google](https://businessmessages.google)
+ - date_published: 2024-03-12T05:08:00+00:00
+
+ ## Chrome Enterprise - The Trusted Enterprise Browser for your Business
+ - [https://chromeenterprise.google](https://chromeenterprise.google)
+ - date_published: 2024-04-27T08:27:04.624948+00:00
+
+ ## ChromeOS - The Cloud-First, Secure OS for your Business
+ - [https://chromeos.google](https://chromeos.google)
+ - date_published: 2024-08-06T09:18:00+00:00
+
+ ## Google Cloud Skills Boost
+ - [https://cloudskillsboost.google](https://cloudskillsboost.google)
+ - date_published: 2023-10-25T19:17:22.518995+00:00
+
+ ## colab.google
+ - [https://colab.google](https://colab.google)
+ - date_published: 2024-06-20T05:39:46.596202+00:00
+
+ ## Google Crisis Response
+ - [https://crisisresponse.google](https://crisisresponse.google)
+ - date_published: 2020-08-01T00:00:00+00:00
+
+ ## Google DeepMind
+ - [https://deepmind.google](https://deepmind.google)
+ - date_published: 2023-11-14T16:38:56.541975+00:00
+ - tags: ['artificial intelligence']
+
+ ## Google Design
+ - [https://design.google](https://design.google)
+ - date_published: 2024-04-29T07:16:54.759540+00:00
+
+ ## Building a Sense of Belonging at Google and Beyond
+ - [https://diversity.google](https://diversity.google)
+ - date_published: 2024-08-08T17:40:06.686749+00:00
+
+ ## Google Public DNS
+ - [https://dns.google](https://dns.google)
+ - date_published: 2024-04-30T02:31:33.667540+00:00
+
+ ## Google Domains | Official Site – Google Domains
+ - [https://domains.google](https://domains.google)
+ - date_published: 2023-10-25T19:17:33.780895+00:00
+
+ ## Google Doodles - Google’s Search Logo Changes for Every Occasion
+ - [https://doodles.google](https://doodles.google)
+ - date_published: 2024-10-19T10:45:51.518209+00:00
+
+ ## Google
+ - [http://www.environment.google](http://www.environment.google)
+ - date_published: 2024-06-16T05:47:34.122711+00:00
+
+ ## Google Families - Helping Make Technology Work For Your Family
+ - [https://families.google](https://families.google)
+ - date_published: 2024-05-14T13:48:00+00:00
+
+ ## Google AI for Developers | Build with the Google Gemini API and Gemma open models
+ - [https://developers.generativeai.google](https://developers.generativeai.google)
+ - date_published: 2024-07-31T14:14:37+00:00
+
+ ## Grow with Google - Szkolenia online do rozwoju firmy i kariery- Grow with Google
+ - [https://grow.google](https://grow.google)
+ - date_published: 2024-06-05T20:17:17.465099+00:00
+
+ ## H4CK1NG G00GL3
+ - [https://h4ck1ng.google](https://h4ck1ng.google)
+ - date_published: 2023-10-25T19:17:40.273388+00:00
+ - tags: ['interesting', 'hacking', 'cybersecurity challanges']
+
+ ## What Is Google Health? - Google Health
+ - [https://health.google](https://health.google)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Google I/O 2023
+ - [https://io.google](https://io.google)
+ - date_published: 2023-10-25T19:17:46.710273+00:00
+ - tags: ['convention']
+
+ ## Labs.Google
+ - [https://labs.google](https://labs.google)
+ - date_published: 2023-12-22T02:13:39+00:00
+
+ ## Google Learning -  Digital Learning Tools & Solutions
+ - [https://learning.google](https://learning.google)
+ - date_published: 2021-07-17T00:00:00+00:00
+
+ ## Google Lens - Search What You See
+ - [https://lens.google](https://lens.google)
+ - date_published: 2024-04-29T08:13:04.512164+00:00
+
+ ## NotebookLM: Personalized AI
+ - [https://notebooklm.google](https://notebooklm.google)
+ - date_published: 2024-05-07T14:30:21.933205+00:00
+
  ## Google Open Source
  - [https://opensource.google](https://opensource.google)
  - date_published: 2023-12-06T11:17:33+00:00
@@ -3930,106 +4033,4 @@ Pharmacy- Licensing, Renewals & Information
 Respiratory Care- Licensing, Renewals & Information
  - [https://floridasrespiratorycare.gov](https://floridasrespiratorycare.gov)
  - date_published: 2024-07-03T14:39:37.734822+00:00
-
- ## Florida Board of
-Speech-Language Pathology & Audiology- Licensing, Renewals & Information
- - [https://floridasspeechaudiology.gov](https://floridasspeechaudiology.gov)
- - date_published: 2024-07-03T14:39:57.943955+00:00
-
- ## Sara B. Mollo, Sixth Judicial Circuit | The Public Defender’s Office
- - [https://flpd6.gov](https://flpd6.gov)
- - date_published: 2024-10-30T00:40:15.369018+00:00
-
- ## Calendar for 6/15/2024 -
-    The Florida Senate
- - [https://flsenate.gov](https://flsenate.gov)
- - date_published: 2024-06-15T08:51:53.942946+00:00
-
- ## The Florida Senate Page Program
- - [https://senatepages.flsenate.gov](https://senatepages.flsenate.gov)
- - date_published: 2024-06-15T08:52:00.777012+00:00
-
- ## Select Authentication System
- - [https://calendar.fnal.gov](https://calendar.fnal.gov)
- - date_published: 2024-05-08T02:50:54.728975+00:00
-
- ## CMS at Fermilab
- - [https://cms.fnal.gov](https://cms.fnal.gov)
- - date_published: 2024-07-03T15:05:40.891929+00:00
-
- ## Select Authentication System
- - [http://communication.fnal.gov](http://communication.fnal.gov)
- - date_published: 2024-07-03T15:09:26.833924+00:00
-
- ## Equity, Diversity, Inclusion and Accessibility - Diversity and Inclusion
- - [https://diversity.fnal.gov](https://diversity.fnal.gov)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Nature and Ecology
- - [https://ecology.fnal.gov](https://ecology.fnal.gov)
- - date_published: 2024-05-08T02:51:13.729403+00:00
-
- ## Fermilab Science Education Office
- - [https://ed.fnal.gov](https://ed.fnal.gov)
- - date_published: 2024-05-08T02:51:06.381885+00:00
-
- ## Public Events | Events at Fermilab
- - [https://events.fnal.gov](https://events.fnal.gov)
- - date_published: 2024-05-08T02:51:22.994597+00:00
-
- ## Select Authentication System
- - [https://fermipoint.fnal.gov](https://fermipoint.fnal.gov)
- - date_published: 2024-07-03T15:08:24.071555+00:00
-
- ## Fermilab | Home
- - [https://fnal.gov](https://fnal.gov)
- - date_published: 2024-05-08T02:50:50.106263+00:00
-
- ## Global Services
- - [https://get-connected.fnal.gov](https://get-connected.fnal.gov)
- - date_published: 2024-05-08T02:51:08.676656+00:00
-
- ## Select Authentication System
- - [https://inside.fnal.gov](https://inside.fnal.gov)
- - date_published: 2024-05-08T02:51:16.140544+00:00
-
- ## Home page
- - [https://jobs.fnal.gov](https://jobs.fnal.gov)
- - date_published: 2024-05-08T02:50:58.573895+00:00
-
- ## DUNE at LBNF
- - [https://lbnf-dune.fnal.gov](https://lbnf-dune.fnal.gov)
- - date_published: 2024-05-08T02:51:04.598375+00:00
-
- ## Fermilab LISTSERV server
- - [https://listserv.fnal.gov](https://listserv.fnal.gov)
- - date_published: 2024-04-28T12:14:37+00:00
-
- ## Outline
- - [https://magis.fnal.gov](https://magis.fnal.gov)
- - date_published: 2024-07-03T15:05:38.447996+00:00
-
- ## Fermilab | Hub Page Title | Page Title
- - [https://mod.fnal.gov](https://mod.fnal.gov)
- - date_published: 2024-07-03T15:08:28.901641+00:00
-
- ## Fermilab | Muon g-2
- - [https://muon-g-2.fnal.gov](https://muon-g-2.fnal.gov)
- - date_published: 2024-04-30T07:58:27.749786+00:00
-
- ## Newsroom
- - [https://news.fnal.gov](https://news.fnal.gov)
- - date_published: 2023-10-25T19:21:48.635515+00:00
-
- ## Error
- - [https://pingprod.fnal.gov](https://pingprod.fnal.gov)
- - date_published: 2024-07-03T15:06:02.333051+00:00
-
- ## PIP-II
- - [https://pip2.fnal.gov](https://pip2.fnal.gov)
- - date_published: 2024-07-03T15:05:32.731398+00:00
-
- ## Fermilab | Particle Physics Division
- - [http://ppd.fnal.gov](http://ppd.fnal.gov)
- - date_published: 2020-08-18T18:05:59+00:00
 

@@ -1,3 +1,11 @@
+ ## KMON | Play, Collect and Breed Digital Collectable Creatures
+ - [https://www.kryptomon.co](https://www.kryptomon.co)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - Kube Agency
+ - [https://kubeagency.co](https://kubeagency.co)
+ - date_published: 2024-10-30T14:36:59.975867+00:00
+
  ## Kudeo
  - [https://plugin.kudeo.co](https://plugin.kudeo.co)
  - date_published: 2024-07-03T05:39:10.724284+00:00
@@ -4014,12 +4022,4 @@
  ## Avec Seiza RH, recrutez vos métiers de terrain. Maintenant et simplement
  - [https://www.seiza.co](https://www.seiza.co)
  - date_published: 2024-09-14T09:46:06.573526+00:00
-
- ## Selego - Tech Startup Studio - Fractional CTOs
- - [https://selego.co](https://selego.co)
- - date_published: 2024-10-17T15:32:34+00:00
-
- ## Sendy - Send Newsletters 100x cheaper via Amazon SES
- - [https://sendy.co](https://sendy.co)
- - date_published: 2024-06-23T10:42:34.317045+00:00
 

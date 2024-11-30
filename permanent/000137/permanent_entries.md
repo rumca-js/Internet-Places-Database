@@ -1,3 +1,59 @@
+ ## Between the Brackets: a MediaWiki Podcast
+ - [http://betweenthebrackets.libsyn.com](http://betweenthebrackets.libsyn.com)
+ - date_published: 2024-07-11T22:03:17+00:00
+
+ ## Discover Crypto
+ - [https://bitboycrypto.libsyn.com](https://bitboycrypto.libsyn.com)
+ - date_published: 2024-07-04T00:12:43+00:00
+
+ ## Black Romance Podcast
+ - [https://blackromancepodcast.libsyn.com](https://blackromancepodcast.libsyn.com)
+ - date_published: 2024-07-03T15:35:41+00:00
+
+ ## Break a Leg
+ - [https://breakaleg.libsyn.com](https://breakaleg.libsyn.com)
+ - date_published: 2024-07-08T20:44:24+00:00
+
+ ## Soft Skills for Leaders with Lisa Evans
+ - [https://businesschat-lisaevans.libsyn.com](https://businesschat-lisaevans.libsyn.com)
+ - date_published: 2024-07-09T22:27:25+00:00
+
+ ## Children of Tendu
+ - [http://childrenoftendu.libsyn.com](http://childrenoftendu.libsyn.com)
+ - date_published: 2024-06-25T15:54:24+00:00
+
+ ## Cloud Security Podcast by Google
+ - [https://cloudsecuritypodcast.libsyn.com](https://cloudsecuritypodcast.libsyn.com)
+ - date_published: 2024-07-01T14:16:14+00:00
+
+ ## Collateral Damage
+ - [https://collateraldamage.libsyn.com](https://collateraldamage.libsyn.com)
+ - date_published: 2024-07-09T01:05:32+00:00
+
+ ## Collector's Edition
+ - [http://collectors.libsyn.com](http://collectors.libsyn.com)
+ - date_published: 2024-07-11T15:00:05+00:00
+
+ ## Constant Variables
+ - [https://constantvariables.libsyn.com](https://constantvariables.libsyn.com)
+ - date_published: 2024-06-17T21:10:53+00:00
+
+ ## Continuum Audio
+ - [https://continuumaudio.libsyn.com](https://continuumaudio.libsyn.com)
+ - date_published: 2024-06-12T10:57:14+00:00
+
+ ## The SaaS Podcast - SaaS, Startups, Growth Hacking & Entrepreneurship
+ - [https://conversionaid.libsyn.com](https://conversionaid.libsyn.com)
+ - date_published: 2024-05-06T13:04:12.063096+00:00
+
+ ## Conversations with Tyler
+ - [https://cowenconvos.libsyn.com](https://cowenconvos.libsyn.com)
+ - date_published: 2024-05-06T13:32:23.043256+00:00
+
+ ## CraftLit - Serialized Classic Literature for Busy Book Lovers
+ - [http://craftlit.libsyn.com](http://craftlit.libsyn.com)
+ - date_published: 2024-09-20T12:42:57+00:00
+
  ## Creator Lab - interviews with entrepreneurs and startup founders
  - [http://creatorlabfm.libsyn.com](http://creatorlabfm.libsyn.com)
  - date_published: 2024-06-23T03:04:22+00:00
@@ -3975,60 +4031,4 @@
  ## Luxury Italian Real Estate | Lionard
  - [https://www.lionard.com](https://www.lionard.com)
  - date_published: 2024-06-21T23:47:30.229133+00:00
-
- ## Careers at Lionbridge - Find the job you will love
- - [https://careers.lionbridge.com](https://careers.lionbridge.com)
- - date_published: 2024-06-28T18:08:44.813908+00:00
-
- ## Mark Hernandez (lion-byte)
- - [https://lion-byte.com](https://lion-byte.com)
- - date_published: 2024-05-07T23:14:50.864295+00:00
-
- ## Lionel Egger
- - [https://lionelegger.com](https://lionelegger.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Lionic | 鴻璟科技
- - [https://check.lionic.com](https://check.lionic.com)
- - date_published: 2024-07-02T22:03:18.681138+00:00
-
- ## LIONIC - Powerful Cybersecurity Service Provider
- - [https://lionic.com](https://lionic.com)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Disney THE LION KING | The Award-Winning Best Musical
- - [https://lionking.com](https://lionking.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## LION Publishers: Local Independent Online News
- - [https://lionpublishers.com](https://lionpublishers.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Summit 2024 - LION Publishers
- - [https://summit24.lionpublishers.com](https://summit24.lionpublishers.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Lionsbridge FC
- - [http://www.lionsbridgefc.com](http://www.lionsbridgefc.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- - [https://www.lionsgate.com](https://www.lionsgate.com)
- - date_published: 2024-06-06T11:17:03+00:00
- - tags: ['movie studio']
-
- ## Lionsgate Sound
- - [https://lionsgatesound.com](https://lionsgatesound.com)
- - date_published: 2024-06-11T04:07:03+00:00
-
- ## Center Directory - Find Center - Lion’s Roar
- - [https://directory.lionsroar.com](https://directory.lionsroar.com)
- - date_published: 2024-09-12T18:38:25.074985+00:00
-
- ## Donate | Lion’s Roar
- - [https://giving.lionsroar.com](https://giving.lionsroar.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Homepage
- - [https://learn.lionsroar.com](https://learn.lionsroar.com)
- - date_published: 2024-09-12T18:38:46.454414+00:00
 

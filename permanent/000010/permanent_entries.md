@@ -1,3 +1,11 @@
+ ## Home | JB Hi-Fi Investors
+ - [https://investors.jbhifi.com.au](https://investors.jbhifi.com.au)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## JB Hi-Fi - Australia's Largest Home Entertainment Retailer
+ - [https://jbhifi.com.au](https://jbhifi.com.au)
+ - date_published: 2024-10-12T14:00:35.381072+00:00
+
  ## Business - JB Hi-Fi Business
  - [https://solutions.jbhifi.com.au](https://solutions.jbhifi.com.au)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -3993,12 +4001,4 @@
  ## Wild Magazine - Subscribe..
  - [https://subscribe.wild.com.au](https://subscribe.wild.com.au)
  - date_published: 2024-09-17T23:32:22.921396+00:00
-
- ## Wildcat Resources • ASX:WC8
- - [https://www.wildcatresources.com.au](https://www.wildcatresources.com.au)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Home - Wild Republic Australia
- - [http://www.wildrepublic.com.au](http://www.wildrepublic.com.au)
- - date_published: 2024-08-06T03:44:25.054498+00:00
 

@@ -1,3 +1,155 @@
+ ## الصفحة الرئيسية | كلية التمريض بمحايل عسير
+ - [https://nursingm.kku.edu.sa](https://nursingm.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:02.052621+00:00
+
+ ## منصة دليل العروضات | الصفحة الرئيسية
+ - [https://offers.kku.edu.sa](https://offers.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:24.857299+00:00
+
+ ## الصفحة الرئيسية | كلية الصيدلة
+ - [https://pharmacy.kku.edu.sa](https://pharmacy.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:11.963496+00:00
+
+ ## Home page | عمادة التطوير والجودة
+ - [https://quality.kku.edu.sa](https://quality.kku.edu.sa)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## e-Services
+ - [https://registration.kku.edu.sa](https://registration.kku.edu.sa)
+ - date_published: 2020-12-28T10:10:38+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية بظهران الجنوب
+ - [https://sadhf.kku.edu.sa](https://sadhf.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:59.660211+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية بخميس مشيط
+ - [https://sakhf1.kku.edu.sa](https://sakhf1.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:34.497791+00:00
+
+ ## الصفحة الرئيسية | عمادة شؤون الطلاب
+ - [https://sa.kku.edu.sa](https://sa.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:10.339644+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية بالمجاردة
+ - [https://samjf.kku.edu.sa](https://samjf.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:37.347821+00:00
+
+ ## مرحباً بكم | الكلية التطبيقية بسراة عبيدة
+ - [https://sasaf.kku.edu.sa](https://sasaf.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:26.339214+00:00
+
+ ## الصفحة الرئيسية | الكلية التطبيقية بتنومة
+ - [https://sat.kku.edu.sa](https://sat.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:59.589093+00:00
+
+ ## الصفحة الرئيسية | كلية العلوم
+ - [https://science.kku.edu.sa](https://science.kku.edu.sa)
+ - date_published: 2024-09-04T05:28:37.478037+00:00
+
+ ## الجمعية السعودية للعلوم الفيزيائية
+ - [https://sps.kku.edu.sa](https://sps.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:20.189920+00:00
+
+ ## الجمعية السعودية العلمية للمعلم ( جسم )
+ - [https://ssat.kku.edu.sa](https://ssat.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:06.594374+00:00
+
+ ## الجمعيّة السّعوديّة للحوكمة
+ - [https://ssg.kku.edu.sa](https://ssg.kku.edu.sa)
+ - date_published: 2024-09-04T05:27:46.908904+00:00
+
+ ## Saudi Society for Medical Education
+ - [https://ssme.kku.edu.sa](https://ssme.kku.edu.sa)
+ - date_published: 2024-09-04T05:29:38.059080+00:00
+
+ ## جامعة تبوك
+ - [http://www.ut.edu.sa](http://www.ut.edu.sa)
+ - date_published: 2024-10-30T20:17:04+00:00
+
+ ## موقع المؤسسة العامة للتأمينات الاجتماعية
+ - [https://www.gosi.gov.sa](https://www.gosi.gov.sa)
+ - date_published: 2024-07-03T11:19:17+00:00
+
+ ## مجتمع حيوي ممكن، وبيئة عمل متميزة نحو سوق عمل جاذب.  | وزارة الموارد البشرية والتنمية الاجتماعية
+ - [https://www.hrsd.gov.sa](https://www.hrsd.gov.sa)
+ - date_published: 2024-07-07T03:25:11.086438+00:00
+
+ ## النفاذ الوطني الموحد
+ - [https://www.iam.gov.sa](https://www.iam.gov.sa)
+ - date_published: 2024-09-25T10:00:11.106511+00:00
+
+ ## Ministry of investment | وزارة الاستثمار
+ - [https://misa.gov.sa](https://misa.gov.sa)
+ - date_published: 2023-11-12T11:06:23+00:00
+
+ ## وزارة الثقافة السعودية
+ - [https://www.moc.gov.sa](https://www.moc.gov.sa)
+ - date_published: 2024-07-06T19:24:28.695951+00:00
+
+ ## وزارة التعليم | الرئيسية
+ - [https://www.moe.gov.sa](https://www.moe.gov.sa)
+ - date_published: 2024-09-04T05:29:33.620408+00:00
+
+ ## وزارة المالية - المملكة العربية السعودية
+ - [https://www.mof.gov.sa](https://www.mof.gov.sa)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## الرئيسية
+ - [https://www.moi.gov.sa](https://www.moi.gov.sa)
+ - date_published: 2024-09-25T10:02:04.401926+00:00
+
+ ## المملكة العربية السعودية - وزارة العدل
+ - [https://www.moj.gov.sa](https://www.moj.gov.sa)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Ministry of Tourism | Saudi Arabia
+ - [https://mt.gov.sa](https://mt.gov.sa)
+ - date_published: 2024-07-06T19:24:53.581383+00:00
+
+ ## Saudi Arabia’s National Portal for Government Services
+ - [https://www.my.gov.sa](https://www.my.gov.sa)
+ - date_published: 2024-01-28T13:15:44+00:00
+
+ ## PIF - Public Investment Fund | PIF
+ - [https://www.pif.gov.sa](https://www.pif.gov.sa)
+ - date_published: 2024-07-06T19:24:36.080727+00:00
+
+ ## الهيئة الملكية لمدينة الرياض
+ - [https://www.rcrc.gov.sa](https://www.rcrc.gov.sa)
+ - date_published: 2024-07-06T19:24:38.670973+00:00
+
+ ## سدايا | الهيئة السعودية للبيانات والذكاء الاصطناعي
+ - [https://sdaia.gov.sa](https://sdaia.gov.sa)
+ - date_published: 2024-10-29T06:07:07+00:00
+
+ ## وكالة الأنباء السعودية
+ - [https://www.spa.gov.sa](https://www.spa.gov.sa)
+ - date_published: 2024-09-25T10:00:21.424371+00:00
+
+ ## Saudi eLearning | Travel Agent Training | Learning Program
+ - [https://learning.sta.gov.sa](https://learning.sta.gov.sa)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Visit Saudi Partner
+ - [https://marketplace.sta.gov.sa](https://marketplace.sta.gov.sa)
+ - date_published: 2024-07-15T04:50:12.438575+00:00
+
+ ## الصفحة الرئيسية  |  الهيئة السعودية للسياحة
+ - [https://www.sta.gov.sa](https://www.sta.gov.sa)
+ - date_published: 2024-06-26T11:51:11+00:00
+
+ ## رؤية السعودية 2030
+ - [https://vision2030.gov.sa](https://vision2030.gov.sa)
+ - date_published: 2024-09-04T05:27:40.000734+00:00
+
+ ## اتحاد الغرف السعودية
+ - [https://fsc.org.sa](https://fsc.org.sa)
+ - date_published: 2024-09-25T10:00:48.953619+00:00
+
+ ## هيئة الاتصالات والفضاء والتقنية
+ - [http://www.ipv6.org.sa](http://www.ipv6.org.sa)
+ - date_published: 2024-07-07T00:00:00+00:00
+
  ## الجمعية الخيرية لرعاية مرضى الروماتيزم‎
  - [https://rheumatism.org.sa](https://rheumatism.org.sa)
  - date_published: 2024-06-28T12:06:24.266160+00:00
@@ -3861,156 +4013,4 @@
  ## Manyverse – a peer-to-peer social network
  - [https://manyver.se](https://manyver.se)
  - date_published: 2024-07-10T06:24:12.124489+00:00
-
- ## Mariestads-Tidningen - senaste lokala nyheterna från Mariestad
- - [https://www.mariestadstidningen.se](https://www.mariestadstidningen.se)
- - date_published: 2024-06-29T04:23:15.009365+00:00
-
- ## Marinmuseum
- - [http://www.marinmuseum.se](http://www.marinmuseum.se)
- - date_published: 2024-07-19T22:12:48.218544+00:00
-
- ## Market Ecology
- - [https://www.marketecology.se](https://www.marketecology.se)
- - date_published: 2024-09-19T20:31:45.162907+00:00
-
- ## Mark-Posten - Nyheter från Marks kommun & Kinna med omnejd
- - [http://www.markposten.se](http://www.markposten.se)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Front Page - CCEM Group
- - [https://marshill.se](https://marshill.se)
- - date_published: 2024-10-11T12:29:09.894140+00:00
-
- ## Massive Entertainment - A Ubisoft Studio
- - [https://www.massive.se](https://www.massive.se)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Inspiration och knep för en smidigare matvardag
- - [http://www.mathem.se](http://www.mathem.se)
- - date_published: 2024-07-02T09:34:12.241445+00:00
-
- ## MAX Burgers - MAX Burgers
- - [https://fragaoss.max.se](https://fragaoss.max.se)
- - date_published: 2024-06-16T17:08:05.350850+00:00
-
- ## MAX - Sveriges godaste burgare
- - [https://max.se](https://max.se)
- - date_published: 2024-05-01T07:18:15.305564+00:00
-
- ## Max Burgers
- - [https://order.max.se](https://order.max.se)
- - date_published: 2024-06-16T17:08:06.428413+00:00
-
- ## Gaming- och esport-butiken - MaxGaming.se
- - [https://www.maxgaming.se](https://www.maxgaming.se)
- - date_published: 2024-07-13T13:39:25.600565+00:00
-
- ## Webbhotell och domäner - EgenSajt Hosting AB
- - [http://www.mazapan.se](http://www.mazapan.se)
- - date_published: 2021-07-27T15:04:43+00:00
-
- ## Medhm.se – En sajt om medicin och dess historia
- - [http://www.medhm.se](http://www.medhm.se)
- - date_published: 2024-06-24T09:50:48.884413+00:00
-
- ## POWER.SE - Nordens nya elektronikjätte - Power.se
- - [http://www.mediamarkt.se](http://www.mediamarkt.se)
- - date_published: 2024-07-13T13:47:22.463976+00:00
-
- ## Mediemyndigheten
- - [https://mediemyndigheten.se](https://mediemyndigheten.se)
- - date_published: 2024-07-02T22:45:45.630148+00:00
-
- ## Melleruds Nyheter - nyheter från Melleruds kommun och Dalsland
- - [https://www.mellerudsnyheter.se](https://www.mellerudsnyheter.se)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## meltlake° | Microsoft Konsultfirma med människor i åtanke
- - [https://www.meltlake.se](https://www.meltlake.se)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## MERA25: Ett nytt parti för radikal förändring.
- - [https://mera25.se](https://mera25.se)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Start
- - [https://mercatino.se](https://mercatino.se)
- - date_published: 2024-10-31T03:48:56.961927+00:00
-
- ## Mercedes-Benz Sverige
- - [https://www.mercedes-benz.se](https://www.mercedes-benz.se)
- - date_published: 2024-08-18T12:21:50.217002+00:00
-
- ## Metallapan AB | Bespoke software projects
- - [http://www.metallapan.se](http://www.metallapan.se)
- - date_published: 2024-07-02T12:59:55+00:00
-
- ## Förändring som skapar samhällsnytta
- - [https://metamatrix.se](https://metamatrix.se)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Metrobloggen
- - [http://www.metrobloggen.se](http://www.metrobloggen.se)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Mevia
- - [https://www.mevia.se](https://www.mevia.se)
- - date_published: 2024-07-20T13:57:56.300857+00:00
-
- ## Gör din webbplats CO2-neutral och stärk ditt varumärke  | CO2 Neutral Website
- - [https://minskaco2.se](https://minskaco2.se)
- - date_published: 2024-06-15T21:39:57.886855+00:00
-
- ## MinUC.se | Förstå din privatekonomi eller trygga dig mot ID kapning
- - [https://www.minuc.se](https://www.minuc.se)
- - date_published: 2024-07-03T01:59:22.554507+00:00
-
- ## Soffor, möbler och heminredning | Mio
- - [https://mio.se](https://mio.se)
- - date_published: 2024-07-07T01:08:40+00:00
-
- ## Earn money with our affiliate program -
- - [http://missaffiliate.se](http://missaffiliate.se)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Hem
- - [https://misshosting.se](https://misshosting.se)
- - date_published: 2014-11-05T00:00:00+00:00
-
- ## Miss Hosting Status
- - [https://status.misshosting.se](https://status.misshosting.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Hem
- - [https://misssite.se](https://misssite.se)
- - date_published: 2014-12-09T00:00:00+00:00
-
- ## Mister-Auto: toppsajt för reservdelar i Europa | MISTER-AUTO
- - [https://www.mister-auto.se](https://www.mister-auto.se)
- - date_published: 2024-10-31T02:38:40.619349+00:00
-
- ## Mobilkörkortet - Trygga barn på nätet
- - [https://mobilkorkortet.se](https://mobilkorkortet.se)
- - date_published: 2024-06-16T09:07:26.681975+00:00
-
- ## Best Website Design Software with AI
- - [https://mobiri.se](https://mobiri.se)
- - date_published: 2024-05-07T18:54:42.855908+00:00
-
- ## Static Web Server
- - [https://assets.moderskeppet.se](https://assets.moderskeppet.se)
- - date_published: 2021-06-30T20:54:05+00:00
-
- ## Lär dig foto och bildredigering i onlinekurser » Foto från Moderskeppet
- - [https://foto.moderskeppet.se](https://foto.moderskeppet.se)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Priser på medlemskap på Moderskeppet
- - [https://me.moderskeppet.se](https://me.moderskeppet.se)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Moderskeppet › Kurser om program, appar och digitala verktyg på ditt jobb
- - [https://moderskeppet.se](https://moderskeppet.se)
- - date_published: 2024-05-02T00:00:00+00:00
 

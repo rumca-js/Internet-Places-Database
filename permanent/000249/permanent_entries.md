@@ -1,3 +1,95 @@
+ ## Mastodon
+ - [https://social.tchncs.de](https://social.tchncs.de)
+ - date_published: 2024-04-28T06:12:31.254942+00:00
+
+ ## Plausible · Web analytics
+ - [https://stats.tchncs.de](https://stats.tchncs.de)
+ - date_published: 2024-07-24T04:31:43.456359+00:00
+
+ ## tchncs : status
+ - [https://status.tchncs.de](https://status.tchncs.de)
+ - date_published: 2024-04-29T06:49:24.996231+00:00
+
+ ## Hi there, Friend! : tchncs.de
+ - [https://tchncs.de](https://tchncs.de)
+ - date_published: 2023-10-25T18:32:56.483309+00:00
+
+ ## tchncs Reader
+ - [https://text.tchncs.de](https://text.tchncs.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Vikunja
+ - [https://todo.tchncs.de](https://todo.tchncs.de)
+ - date_published: 2024-04-29T06:49:25.460820+00:00
+
+ ## Welcome - BookWyrm
+ - [https://tomes.tchncs.de](https://tomes.tchncs.de)
+ - date_published: 2024-04-29T06:49:20.789680+00:00
+
+ ## tchncs
+ - [https://tube.tchncs.de](https://tube.tchncs.de)
+ - date_published: 2024-07-10T08:11:13.296054+00:00
+
+ ## Vaultwarden Web
+ - [https://vault.tchncs.de](https://vault.tchncs.de)
+ - date_published: 2024-04-29T06:49:22.870549+00:00
+
+ ## Plume ⋅ Plume
+ - [https://write.tchncs.de](https://write.tchncs.de)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Tennisclub Hubertus Groß Grönau e.V.
+ - [https://tc-hubertus.de](https://tc-hubertus.de)
+ - date_published: 2024-05-11T05:40:20.822092+00:00
+
+ ## Kundenportal
+ - [https://kundenportal.teambank.de](https://kundenportal.teambank.de)
+ - date_published: 2024-10-09T12:27:37.077973+00:00
+
+ ## Startseite - TeamBank
+ - [https://www.teambank.de](https://www.teambank.de)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Team Hector
+ - [https://www.teamhector.de](https://www.teamhector.de)
+ - date_published: 2024-01-02T09:30:42+00:00
+
+ ## TeamsCommunityDay – Microsoft Teams Community Konferenz
+ - [https://teamscommunityday.de](https://teamscommunityday.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
+ - [https://shop.teamshirts.de](https://shop.teamshirts.de)
+ - date_published: 2024-09-25T19:09:23.362593+00:00
+
+ ## Online Druckerei für Teamoutfits - Textildruck | TeamShirts
+ - [https://www.teamshirts.de](https://www.teamshirts.de)
+ - date_published: 2024-09-25T19:09:53.180585+00:00
+
+ ## IT-Service, Computerservice, Computerhilfe - Technikhilfe GmbH
+ - [https://tebela.de](https://tebela.de)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Wissenswertes über Smartphones, Laptops und Technik - Tech-Aktuell
+ - [https://tech-aktuell.de](https://tech-aktuell.de)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Loading ...
+ - [https://pur.techbook.de](https://pur.techbook.de)
+ - date_published: 2024-07-24T20:14:51.404163+00:00
+
+ ## TECHBOOK
+ - [https://techbook.de](https://techbook.de)
+ - date_published: 2024-04-29T05:50:14.285194+00:00
+
+ ## techconsult GmbH - The IT Market Analysts
+ - [https://www.techconsult.de](https://www.techconsult.de)
+ - date_published: 2024-08-08T21:10:15.800326+00:00
+
+ ## Ladesäulenhersteller - AC Ladesäulen & Wallboxen für Gewerbe
+ - [https://technagon.de](https://technagon.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Start - Technology Research Hub
  - [https://technology-research-hub.de](https://technology-research-hub.de)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -3915,96 +4007,4 @@
  ## Universität Leipzig: Humboldt Wissenschaftszentrum für Kindesentwicklung
  - [https://www.lfe.uni-leipzig.de](https://www.lfe.uni-leipzig.de)
  - date_published: 2024-10-22T05:27:02.233961+00:00
-
- ## Universität Leipzig: Fakultät für Lebenswissenschaften
- - [https://www.lw.uni-leipzig.de](https://www.lw.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:02.014395+00:00
-
- ## Universität Leipzig: Fakultät für Mathematik und Informatik
- - [https://www.mathcs.uni-leipzig.de](https://www.mathcs.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:53.749876+00:00
-
- ## Mathematisches Institut
- - [http://www.math.uni-leipzig.de](http://www.math.uni-leipzig.de)
- - date_published: 2024-10-22T05:25:08.519197+00:00
-
- ## Universität Leipzig: Philologische Fakultät
- - [https://www.philol.uni-leipzig.de](https://www.philol.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:57.462597+00:00
-
- ## Universität Leipzig: Fakultät für Physik und Erdsystemwissenschaften
- - [https://www.physes.uni-leipzig.de](https://www.physes.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:37.095394+00:00
-
- ## Institut für Theoretische Physik: ITP
- - [http://www.physik.uni-leipzig.de](http://www.physik.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:07.194122+00:00
-
- ## Universität Leipzig: Klinische Translation, Regeneration Leber, Knorpel, Binde- und Stützgewebe
- - [https://www.sikt.uni-leipzig.de](https://www.sikt.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:33.141600+00:00
-
- ## Universität Leipzig: Fakultät für Sozialwissenschaften und Philosophie
- - [https://www.sozphil.uni-leipzig.de](https://www.sozphil.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:47.911694+00:00
-
- ## Universität Leipzig: Sportwissenschaftliche Fakultät
- - [https://www.spowi.uni-leipzig.de](https://www.spowi.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:46.094064+00:00
-
- ## Universität Leipzig: Sprachenzentrum
- - [https://www.sprachenzentrum.uni-leipzig.de](https://www.sprachenzentrum.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:23.588994+00:00
-
- ## Universität Leipzig: Studienkolleg Sachsen
- - [https://www.stksachs.uni-leipzig.de](https://www.stksachs.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:10.292787+00:00
-
- ## Universität Leipzig: Theologische Fakultät
- - [https://www.theol.uni-leipzig.de](https://www.theol.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:08.998439+00:00
-
- ## Universität Leipzig: Leipziger Universitätsmusik
- - [https://www.unimusik.uni-leipzig.de](https://www.unimusik.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:55.575179+00:00
-
- ## Universität Leipzig: Universitätsrechenzentrum
- - [https://www.urz.uni-leipzig.de](https://www.urz.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:59.524598+00:00
-
- ## Universität Leipzig: Veterinärmedizinische Fakultät
- - [https://www.vetmed.uni-leipzig.de](https://www.vetmed.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:09.382261+00:00
-
- ## Universität Leipzig: Wirtschaftswissenschaftliche Fakultät
- - [https://www.wifa.uni-leipzig.de](https://www.wifa.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:11.274944+00:00
-
- ## Universität Leipzig: Zentrum für Hochschulsport
- - [https://www.zfh.uni-leipzig.de](https://www.zfh.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:08.350659+00:00
-
- ## Universität Leipzig: Zentrum für Lehrer:innenbildung und Schulforschung
- - [https://www.zls.uni-leipzig.de](https://www.zls.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:07.129345+00:00
-
- ## Universität Leipzig: Zentrum für Medienproduktion
- - [https://www.zmp.uni-leipzig.de](https://www.zmp.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:38.739657+00:00
-
- ## Universität Leipzig: Universität Leipzig
- - [http://www.zv.uni-leipzig.de](http://www.zv.uni-leipzig.de)
- - date_published: 2024-07-22T09:19:23.492649+00:00
-
- ## Homepage von Eckard Specht
- - [http://hydra.nat.uni-magdeburg.de](http://hydra.nat.uni-magdeburg.de)
- - date_published: 2018-06-21T08:32:06+00:00
-
- ## Startseite aller URZ-Webserver
- - [http://www-e.uni-magdeburg.de](http://www-e.uni-magdeburg.de)
- - date_published: 2017-03-01T13:22:46+00:00
-
- ## Johannes Gutenberg-Universität Mainz
- - [https://startseite.uni-mainz.de](https://startseite.uni-mainz.de)
- - date_published: 2024-09-30T13:03:43.083801+00:00
 

@@ -1,3 +1,36 @@
+ ## the birds and the bugs
+ - [http://avesmaria.blogspot.com](http://avesmaria.blogspot.com)
+ - date_published: 2024-03-20T06:12:51+00:00
+
+ ## Blogger
+ - [http://aviewfromthewasteland.blogspot.com](http://aviewfromthewasteland.blogspot.com)
+ - date_published: 2024-10-21T15:32:57.058019+00:00
+
+ ## blog
+ - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
+ - date_published: 2023-10-25T09:05:48.878271+00:00
+ - tags: ['personal']
+
+ ## Avoid Spikes
+ - [https://avoidspikes.blogspot.com](https://avoidspikes.blogspot.com)
+ - date_published: 2020-09-13T00:00:00+00:00
+
+ ## ¤
+ - [http://avoyagetoarcturus.blogspot.com](http://avoyagetoarcturus.blogspot.com)
+ - date_published: 2024-03-14T03:07:14+00:00
+
+ ## Avzel's journal
+ - [https://avzel.blogspot.com](https://avzel.blogspot.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## A World to Win
+ - [http://aw2w.blogspot.com](http://aw2w.blogspot.com)
+ - date_published: 2024-10-21T17:07:04.832169+00:00
+
+ ## Awakening Ynnead
+ - [http://awakeningynnead.blogspot.com](http://awakeningynnead.blogspot.com)
+ - date_published: 2024-07-18T11:37:43+00:00
+
  ## A Wargaming Odyssey
  - [http://awargamingodyssey.blogspot.com](http://awargamingodyssey.blogspot.com)
  - date_published: 2024-07-19T23:45:51+00:00
@@ -3984,36 +4017,4 @@
  ## Cold Steel Rain
  - [http://coldsteelrain.blogspot.com](http://coldsteelrain.blogspot.com)
  - date_published: 2024-10-21T14:38:08.674840+00:00
-
- ## Cold War Hot Hot Hot
- - [http://coldwarhot.blogspot.com](http://coldwarhot.blogspot.com)
- - date_published: 2024-07-18T07:52:33+00:00
-
- ## Colgar6 and the Infinite Legion of Toy Soldiers
- - [http://colgar6.blogspot.com](http://colgar6.blogspot.com)
- - date_published: 2024-07-13T06:41:26+00:00
-
- ## Col.Gravis' Praetorian Imperial Guard
- - [http://colgravis.blogspot.com](http://colgravis.blogspot.com)
- - date_published: 2024-07-20T07:31:15+00:00
-
- ## Col. Hertford's Mini's
- - [http://colhertford.blogspot.com](http://colhertford.blogspot.com)
- - date_published: 2023-11-16T12:26:28+00:00
-
- ## Knuckle Deep
- - [http://colinfix.blogspot.com](http://colinfix.blogspot.com)
- - date_published: 2024-07-13T10:13:37+00:00
-
- ## Collected Editions
- - [https://collectededitions.blogspot.com](https://collectededitions.blogspot.com)
- - date_published: 2024-07-17T02:35:55+00:00
-
- ## Collective A.I.
- - [http://collectiveai.blogspot.com](http://collectiveai.blogspot.com)
- - date_published: 2024-03-05T04:07:57+00:00
-
- ## Blogger
- - [http://collectivewishes.blogspot.com](http://collectivewishes.blogspot.com)
- - date_published: 2024-06-27T10:33:39.006873+00:00
 

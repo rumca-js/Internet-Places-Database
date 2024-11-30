@@ -1,3 +1,43 @@
+ ## Unsupported EU page
+ - [https://login.desmoinesregister.com](https://login.desmoinesregister.com)
+ - date_published: 2024-06-15T22:45:56.387748+00:00
+
+ ## Newsletters | The Des Moines Register
+ - [https://profile.desmoinesregister.com](https://profile.desmoinesregister.com)
+ - date_published: 2024-05-01T04:48:56.283882+00:00
+
+ ## Unsupported EU page
+ - [https://subscribe.desmoinesregister.com](https://subscribe.desmoinesregister.com)
+ - date_published: 2024-06-15T22:45:57.295714+00:00
+
+ ## Desmond Hotel Malvern, a DoubleTree by Hilton
+ - [http://desmondgv.com](http://desmondgv.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Desmond's Corner of the Web
+ - [https://desmondrivet.com](https://desmondrivet.com)
+ - date_published: 2024-06-20T14:04:36+00:00
+
+ ## Desmos | Let's learn together.
+ - [https://desmos.com](https://desmos.com)
+ - date_published: 2024-05-01T04:49:05.590181+00:00
+
+ ## Desmos Engineering
+ - [https://engineering.desmos.com](https://engineering.desmos.com)
+ - date_published: 2023-08-03T03:47:58+00:00
+
+ ## Learn Desmos
+ - [https://learn.desmos.com](https://learn.desmos.com)
+ - date_published: 2024-05-01T04:49:03.802171+00:00
+
+ ## Desmos Classroom Activities
+ - [https://student.desmos.com](https://student.desmos.com)
+ - date_published: 2024-06-15T22:54:49.145081+00:00
+
+ ## Desmos Classroom Activities
+ - [https://teacher.desmos.com](https://teacher.desmos.com)
+ - date_published: 2024-05-01T04:49:07.572900+00:00
+
  ## DeSmuME DS Emulator • Windows » iPhone » Mac » Android
  - [http://www.desmume.com](http://www.desmume.com)
  - date_published: 2024-01-22T00:00:00+00:00
@@ -4000,44 +4040,4 @@ A blog about programming, distributed systems and others
  ## Higher Education Management Software  | Engage in the Modern Learner Revolution
  - [http://www.digarc.com](http://www.digarc.com)
  - date_published: 2024-07-01T14:41:03.055852+00:00
-
- ## Dig Deep Fitness
- - [https://www.digdeepfitness.com](https://www.digdeepfitness.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Think Outside the Bucket | Dig Different
- - [https://digdifferent.com](https://digdifferent.com)
- - date_published: 2024-06-26T23:18:42.020140+00:00
-
- ## Learn from commit history using AI | DigestDiff
- - [https://www.digestdiff.com](https://www.digestdiff.com)
- - date_published: 2024-06-19T18:55:41.645765+00:00
-
- ## Digestive Diseases Center | Gastroenterologists in Panama City
- - [https://www.digestivediseasescenter.com](https://www.digestivediseasescenter.com)
- - date_published: 2024-06-29T23:01:03.610947+00:00
-
- ## Digest Miami: Guide to Miami's best restaurants, chefs & culinary events.
- - [https://www.digestmiami.com](https://www.digestmiami.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## News and Trending Stories Around the Internet | Digg
- - [https://digg.com](https://digg.com)
- - date_published: 2024-04-29T19:09:15.789418+00:00
-
- ## News and Trending Stories Around the Internet | Digg
- - [https://go.digg.com](https://go.digg.com)
- - date_published: 2024-06-20T02:25:03.811035+00:00
-
- ## Digg - What the Internet is wearing right now
- - [https://merch.digg.com](https://merch.digg.com)
- - date_published: 2024-06-20T02:24:57.981397+00:00
-
- ## Digger by Ursula Vernon
- - [https://diggercomic.com](https://diggercomic.com)
- - date_published: 2024-04-28T02:06:23.865024+00:00
-
- ## Diggers Factory - Vinyl Records in limited editions
- - [http://diggersfactory.com](http://diggersfactory.com)
- - date_published: 2024-07-08T00:00:00+00:00
 

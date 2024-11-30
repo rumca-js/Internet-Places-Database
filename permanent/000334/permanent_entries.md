@@ -1,3 +1,120 @@
+ ## THIRRJE E HAPUR PËR PËRKTHYES DHE LEKTORUES VULLNETARË NË GJUHËN SHQIPE | Biblioteka Anarkiste
+ - [https://sq.anarchistlibraries.net](https://sq.anarchistlibraries.net)
+ - date_published: 2018-04-19T09:36:55+00:00
+
+ ## Anarşist Kütüphane
+ - [https://tr.anarchistlibraries.net](https://tr.anarchistlibraries.net)
+ - date_published: 2023-10-05T08:33:40+00:00
+
+ ## Posljednji unosi
+ - [https://anarhisticka-biblioteka.net](https://anarhisticka-biblioteka.net)
+ - date_published: 2024-08-18T18:16:43.219895+00:00
+
+ ## Features - Anarkismo
+ - [http://www.anarkismo.net](http://www.anarkismo.net)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Anatolian Archaeology
+ - [https://anatolianarchaeology.net](https://anatolianarchaeology.net)
+ - date_published: 2024-07-17T22:16:59.278217+00:00
+
+ ## How to Write a Psychology Essay - Anatomy Study Guide
+ - [https://anatomyphysiologystudyguide.net](https://anatomyphysiologystudyguide.net)
+ - date_published: 2022-06-30T19:04:28+00:00
+
+ ## Visit Anchorage, Alaska | Things To Do, Hotels & Adventure
+ - [http://www.anchorage.net](http://www.anchorage.net)
+ - date_published: 2024-07-15T01:22:17+00:00
+
+ ## Ancient Buddhist Texts Home Page
+ - [https://ancient-buddhist-texts.net](https://ancient-buddhist-texts.net)
+ - date_published: 2024-02-08T18:04:03.198913+00:00
+
+ ## Agora (Home page) — ancient-greek.net (Ancient Greek)
+ - [https://ancient-greek.net](https://ancient-greek.net)
+ - date_published: 2024-05-30T01:53:04.986647+00:00
+
+ ## Ancient Origins | Reconstructing the story of humanity's past
+ - [https://ancient-origins.net](https://ancient-origins.net)
+ - date_published: 2024-07-13T03:49:23.091130+00:00
+ - tags: ['archaeology']
+
+ ## Ancient Origins Members site
+ - [https://members.ancient-origins.net](https://members.ancient-origins.net)
+ - date_published: 2024-05-10T09:09:51.333249+00:00
+
+ ## Ancient Origins Store
+ - [https://shop.ancient-origins.net](https://shop.ancient-origins.net)
+ - date_published: 2024-05-10T09:09:44.730905+00:00
+
+ ## And0uille
+ - [https://and0uille.net](https://and0uille.net)
+ - date_published: 2024-02-01T00:00:00+00:00
+ - tags: ['personal', 'lgbt']
+
+ ## : - Andrea Kalinová
+ - [https://andreakalinova.net](https://andreakalinova.net)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Andreas Stokke's Homepage
+ - [http://andreasstokke.net](http://andreasstokke.net)
+ - date_published: 2024-05-28T07:40:30+00:00
+
+ ## Elixir & Phoenix Full Stack Software Developer- Andrei Clinciu
+ - [https://andreiclinciu.net](https://andreiclinciu.net)
+ - date_published: 2023-12-30T09:52:17.936324+00:00
+ - tags: ['personal']
+
+ ## andreinc
+ - [https://andreinc.net](https://andreinc.net)
+ - date_published: 2023-10-25T20:24:41.741120+00:00
+
+ ## Andrés Bianciotto
+ - [https://andresb.net](https://andresb.net)
+ - date_published: 2023-12-20T11:44:54.548934+00:00
+ - tags: ['personal']
+
+ ## Andrew Bird - Sunday Morning Put-On
+ - [https://www.andrewbird.net](https://www.andrewbird.net)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Andrew Ingram
+ - [https://andrewingram.net](https://andrewingram.net)
+ - date_published: 2023-07-20T00:00:00+00:00
+
+ ## Andrew Kelley Photography
+ - [https://www.andrewkelley.net](https://www.andrewkelley.net)
+ - date_published: 2024-06-26T09:38:14+00:00
+
+ ## Andrew Lock | .NET Escapades
+ - [https://andrewlock.net](https://andrewlock.net)
+ - date_published: 2023-10-25T20:24:45.361758+00:00
+
+ ## listmonk - Andrew Lock | .NET Escapades
+ - [https://email.andrewlock.net](https://email.andrewlock.net)
+ - date_published: 2024-08-18T22:53:14.998001+00:00
+
+ ## Andrew Roach (The things he does)
+ - [https://andrewroach.net](https://andrewroach.net)
+ - date_published: 2024-05-01T02:56:51.295172+00:00
+
+ ## A Fantastic Blog
+ - [https://andrewroman.net](https://andrewroman.net)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## andrewt.net
+ - [https://andrewt.net](https://andrewt.net)
+ - date_published: 2024-04-18T13:59:55.576770+00:00
+ - tags: ['personal']
+
+ ## Andrew Yates
+ - [https://andrewyates.net](https://andrewyates.net)
+ - date_published: 2021-07-29T13:23:38+00:00
+
+ ## PassMark Android Benchmark Charts
+ - [https://www.androidbenchmark.net](https://www.androidbenchmark.net)
+ - date_published: 2024-07-10T05:22:23.152474+00:00
+
  ## AndroidSRC
  - [https://androidsrc.net](https://androidsrc.net)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -148,6 +265,10 @@
  ## Ankara Rus Escort Çankaya - Ankara Rus Escort Bayan
  - [http://ankararus.net](http://ankararus.net)
  - date_published: 2024-07-08T20:12:40.433369+00:00
+
+ ## AnkerGames - Free Pre-installed PC Games
+ - [http://ankergames.net](http://ankergames.net)
+ - date_published: 2024-11-29T18:14:32.748701+00:00
 
  ## Anki - powerful, intelligent flashcards
  - [https://apps.ankiweb.net](https://apps.ankiweb.net)
@@ -3917,124 +4038,4 @@
  ## Berkeley High School
  - [http://bhs.berkeleyschools.net](http://bhs.berkeleyschools.net)
  - date_published: 2024-10-27T12:04:43.567382+00:00
-
- ## Berkeley Public Schools
- - [https://www.berkeleyschools.net](https://www.berkeleyschools.net)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Berliner Wassertisch – WASSER GEHÖRT IN BÜRGER*INNENHAND – WASSER IST EIN MENSCHENRECHT!
- - [https://berliner-wassertisch.net](https://berliner-wassertisch.net)
- - date_published: 2024-05-06T23:56:49.328600+00:00
-
- ## Bernard Pagoaga, Javascript & PHP Web Developer in Lille
- - [https://bernardpagoaga.net](https://bernardpagoaga.net)
- - date_published: 2024-07-08T11:12:08.935972+00:00
-
- ## Beroad - News
- - [https://beroad.net](https://beroad.net)
- - date_published: 2024-09-15T19:18:22.965132+00:00
-
- ## Main Root | Bernds IT Infrastructure
- - [https://berrnd.net](https://berrnd.net)
- - date_published: 2024-04-10T07:44:22+00:00
-
- ## Hosted Root | Bernds IT Infrastructure
- - [https://hosted.berrnd.net](https://hosted.berrnd.net)
- - date_published: 2024-04-10T07:44:18+00:00
-
- ## Home Root | Bernds IT Infrastructure
- - [https://local.berrnd.net](https://local.berrnd.net)
- - date_published: 2024-04-10T09:11:21+00:00
-
- ## Second Home Root | Bernds IT Infrastructure
- - [https://localp.berrnd.net](https://localp.berrnd.net)
- - date_published: 2024-04-10T07:44:17+00:00
-
- ## Mobile Root | Bernds IT Infrastructure
- - [https://mobile.berrnd.net](https://mobile.berrnd.net)
- - date_published: 2024-04-10T07:44:20+00:00
-
- ## Nameserver (Primary) | Bernds IT Infrastructure
- - [https://ns1.berrnd.net](https://ns1.berrnd.net)
- - date_published: 2024-04-10T07:44:25+00:00
-
- ## Nameserver (Secondary) | Bernds IT Infrastructure
- - [https://ns2.berrnd.net](https://ns2.berrnd.net)
- - date_published: 2024-04-10T07:44:27+00:00
-
- ## Nameserver (Tertiary) | Bernds IT Infrastructure
- - [https://ns3.berrnd.net](https://ns3.berrnd.net)
- - date_published: 2024-04-10T07:44:28+00:00
-
- ## Timeserver | Bernds IT Infrastructure
- - [https://ntp.berrnd.net](https://ntp.berrnd.net)
- - date_published: 2024-04-10T07:44:31+00:00
-
- ## Speedtest | Bernds IT Infrastructure
- - [https://speedtest.berrnd.net](https://speedtest.berrnd.net)
- - date_published: 2024-04-10T07:44:30+00:00
-
- ## Attention Required! | Cloudflare
- - [https://api.berryapi.net](https://api.berryapi.net)
- - date_published: 2024-05-04T15:30:23.375918+00:00
-
- ## BestBitcoinCasino
- - [https://bestbitcoincasino.net](https://bestbitcoincasino.net)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Download best old video games for free | BestOldGames.net
- - [http://www.bestoldgames.net](http://www.bestoldgames.net)
- - date_published: 2024-07-01T10:28:02.309210+00:00
-
- ## Best Places to Live | Compare cost of living, crime, cities, schools and more. Sperling's BestPlaces
- - [https://www.bestplaces.net](https://www.bestplaces.net)
- - date_published: 2024-09-04T03:45:30.876232+00:00
-
- ## Best Poems | The Famous Poems Encyclopedia
- - [https://www.best-poems.net](https://www.best-poems.net)
- - date_published: 2024-08-19T16:09:04.363955+00:00
-
- ## Best Reviews - Reviews of the Best Products and Services
- - [https://bestreviews.net](https://bestreviews.net)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Best Usenet Provider 2015
- - [http://www.bestusenetprovider.net](http://www.bestusenetprovider.net)
- - date_published: 2015-01-14T19:16:00+00:00
-
- ## Questions about the best VPN Providers
- - [http://www.bestvpnproviders.net](http://www.bestvpnproviders.net)
- - date_published: 2014-04-29T09:17:27+00:00
-
- ## Beta Break
- - [https://betabreak.net](https://betabreak.net)
- - date_published: 2024-06-17T21:19:05+00:00
-
- ## BetaWiki
- - [https://betawiki.net](https://betawiki.net)
- - date_published: 2024-05-04T13:58:04.018449+00:00
-
- ## https://bethesda.net
- - [https://bethesda.net](https://bethesda.net)
- - date_published: 2023-10-25T13:42:48.113445+00:00
- - tags: ['wolfenstein', 'doom', 'fallout', 'morrowind', 'rage', 'elder scrolls', 'starfield', 'hifi rush']
-
- ## https://creations.bethesda.net
- - [https://creations.bethesda.net](https://creations.bethesda.net)
- - date_published: 2023-12-05T19:31:52.806659+00:00
-
- ## DOOM: The Dark Ages
- - [https://doom.bethesda.net](https://doom.bethesda.net)
- - date_published: 2024-06-21T12:45:22.970079+00:00
- - tags: ['doom', 'video game']
-
- ## The Elder Scrolls | Strona Główna
- - [https://elderscrolls.bethesda.net](https://elderscrolls.bethesda.net)
- - date_published: 2024-05-07T09:57:16.325429+00:00
- - tags: ['video game']
-
- ## Fallout 76 | Our Future Begins
- - [https://fallout.bethesda.net](https://fallout.bethesda.net)
- - date_published: 2024-05-04T10:03:19.990960+00:00
- - tags: ['fallout', 'video game']
 

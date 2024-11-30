@@ -1,3 +1,103 @@
+ ## Default - AskUs
+ - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
+ - date_published: 2024-07-02T13:49:08.291911+00:00
+
+ ## Department of Atmospheric and Climate Science | An academic department of the University of Washington College of the Environment
+ - [https://atmos.uw.edu](https://atmos.uw.edu)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Behavioral Data Science - Home
+ - [http://bdata.uw.edu](http://bdata.uw.edu)
+ - date_published: 2023-10-17T23:52:31+00:00
+
+ ## UW NetID sign-in
+ - [http://canvas.uw.edu](http://canvas.uw.edu)
+ - date_published: 2024-07-02T13:48:31.918662+00:00
+
+ ## Home page
+ - [https://ciso.uw.edu](https://ciso.uw.edu)
+ - date_published: 2024-06-16T09:31:37.044666+00:00
+
+ ## CJMD | Center for Journalism, Media & Democracy - UW Communications
+ - [https://cjmd.com.uw.edu](https://cjmd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:45.118484+00:00
+
+ ## Communication Leadership Degrees
+ - [https://commlead.uw.edu](https://commlead.uw.edu)
+ - date_published: 2024-04-30T05:44:29.669517+00:00
+
+ ## Main Home
+ - [https://comotion.uw.edu](https://comotion.uw.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Department of Communication
+ - [https://com.uw.edu](https://com.uw.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## ConnectedLib
+ - [https://connectedlib.ischool.uw.edu](https://connectedlib.ischool.uw.edu)
+ - date_published: 2024-07-01T22:53:22.553368+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://cpd.uw.edu](https://cpd.uw.edu)
+ - date_published: 2024-07-02T13:46:59.216397+00:00
+
+ ## CREATE
+ - [https://create.uw.edu](https://create.uw.edu)
+ - date_published: 2024-07-02T13:32:38.296442+00:00
+
+ ## UW Center for Speech & Debate
+ - [https://csd.com.uw.edu](https://csd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:41.956748+00:00
+
+ ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
+ - [https://cse.uw.edu](https://cse.uw.edu)
+ - date_published: 2024-07-01T19:52:49.242137+00:00
+
+ ## Campus Sustainability Fund | Campus Sustainability Fund (CSF)
+ - [https://csf.uw.edu](https://csf.uw.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Digital Fabrication at UW - DFab
+ - [https://dfab.uw.edu](https://dfab.uw.edu)
+ - date_published: 2021-10-18T00:00:00+00:00
+
+ ## Departments | University of Washington Tacoma Directory
+ - [https://directory.tacoma.uw.edu](https://directory.tacoma.uw.edu)
+ - date_published: 2024-07-02T07:27:38+00:00
+
+ ## UW Faculty/Staff/Student Directory
+ - [https://directory.uw.edu](https://directory.uw.edu)
+ - date_published: 2024-05-07T22:27:48.475503+00:00
+
+ ## HCI & Design at the University of Washington
+ - [http://dub.uw.edu](http://dub.uw.edu)
+ - date_published: 2024-06-27T21:54:25+00:00
+
+ ## Home | Emergency Site | Information School | University of Washington
+ - [https://emergency.ischool.uw.edu](https://emergency.ischool.uw.edu)
+ - date_published: 2024-03-20T23:41:22+00:00
+
+ ## Home – Your source for Workday support
+ - [https://employeehelp.workday.uw.edu](https://employeehelp.workday.uw.edu)
+ - date_published: 2024-05-07T22:27:55.830226+00:00
+
+ ## University of Washington College of Engineering
+ - [https://engr.uw.edu](https://engr.uw.edu)
+ - date_published: 2024-06-15T17:36:41.392027+00:00
+
+ ## Home
+ - [https://environment.uw.edu](https://environment.uw.edu)
+ - date_published: 2024-07-02T13:19:36+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://facilities.uw.edu](https://facilities.uw.edu)
+ - date_published: 2024-07-02T13:45:35.502419+00:00
+
+ ## Welcome to UW Finance | UW Finance
+ - [https://finance.uw.edu](https://finance.uw.edu)
+ - date_published: 2024-05-07T22:27:25.446993+00:00
+
  ## Foster School of Business | Foster School of Business
  - [https://foster.uw.edu](https://foster.uw.edu)
  - date_published: 2024-10-08T00:00:00+00:00
@@ -3900,104 +4000,4 @@
  ## Wake Forest University School of Divinity - Home
  - [https://divinity.wfu.edu](https://divinity.wfu.edu)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Center for Entrepreneurship - Center for Entrepreneurship
- - [https://entrepreneurship.wfu.edu](https://entrepreneurship.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Events Calendar - Wake Forest University Events
- - [https://events.wfu.edu](https://events.wfu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home - Faculty Senate
- - [https://facultysenate.wfu.edu](https://facultysenate.wfu.edu)
- - date_published: 2024-06-30T17:47:54+00:00
-
- ## Home - The Faith COMPASS Center
- - [https://faithcompass.wfu.edu](https://faithcompass.wfu.edu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Financial Aid | Wake Forest School of Law
- - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
- - date_published: 2024-07-02T14:05:23.224543+00:00
-
- ## Student Financial Aid | Wake Forest University
- - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
- - [https://giving.wfu.edu](https://giving.wfu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Global Wake Forest - Global Wake Forest
- - [https://global.wfu.edu](https://global.wfu.edu)
- - date_published: 2024-06-27T17:06:26+00:00
-
- ## Graduate School of Arts & Sciences | Wake Forest University
- - [https://graduate.wfu.edu](https://graduate.wfu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Graduate Student Association | Wake Forest University
- - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
- - date_published: 2023-03-06T00:00:00+00:00
-
- ## Welcome - Human Resources
- - [https://hr.wfu.edu](https://hr.wfu.edu)
- - date_published: 2024-05-07T22:29:03.306091+00:00
-
- ## Wake Forest University Pre-College - Summer Immersion Program
- - [https://immersion.summer.wfu.edu](https://immersion.summer.wfu.edu)
- - date_published: 2024-06-30T19:04:48+00:00
-
- ## Home | Inside WFU - news for the Wake Forest community
- - [https://inside.wfu.edu](https://inside.wfu.edu)
- - date_published: 2024-06-30T19:42:36+00:00
-
- ## Graduate School of Arts & Sciences | Wake Forest University
- - [http://internal.graduate.wfu.edu](http://internal.graduate.wfu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home - Information Systems
- - [https://is.wfu.edu](https://is.wfu.edu)
- - date_published: 2024-07-01T17:19:52+00:00
-
- ## Wake Forest Law
- - [https://law.wfu.edu](https://law.wfu.edu)
- - date_published: 2024-07-01T06:39:02+00:00
-
- ## The Program for Leadership and Character at Wake Forest University
- - [https://leadershipandcharacter.wfu.edu](https://leadershipandcharacter.wfu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Wake Forest Magazine | The alumni magazine of Wake Forest University
- - [https://magazine.wfu.edu](https://magazine.wfu.edu)
- - date_published: 2024-06-28T06:12:35+00:00
-
- ## Campus Map | Wake Forest University
- - [https://map.wfu.edu](https://map.wfu.edu)
- - date_published: 2024-07-01T04:49:09+00:00
-
- ## Home - Mentoring Resource Center
- - [https://mentoring.opcd.wfu.edu](https://mentoring.opcd.wfu.edu)
- - date_published: 2024-06-29T17:31:09+00:00
-
- ## Sign in - Google Accounts
- - [https://netpartner.powerfaids.deacnet.wfu.edu](https://netpartner.powerfaids.deacnet.wfu.edu)
- - date_published: 2024-07-02T14:05:20.168259+00:00
-
- ## Wake Forest News | Wake Forest University
- - [https://news.wfu.edu](https://news.wfu.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Office of Personal & Career Development | Wake Forest University
- - [https://opcd.wfu.edu](https://opcd.wfu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Pro Humanitate - Our Motto Means More
- - [https://ourmottomeansmore.wfu.edu](https://ourmottomeansmore.wfu.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Campus Health
- - [https://ourwayforward.wfu.edu](https://ourwayforward.wfu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
 

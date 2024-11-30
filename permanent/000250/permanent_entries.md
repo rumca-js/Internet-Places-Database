@@ -1,3 +1,95 @@
+ ## Universität Leipzig: Fakultät für Lebenswissenschaften
+ - [https://www.lw.uni-leipzig.de](https://www.lw.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:02.014395+00:00
+
+ ## Universität Leipzig: Fakultät für Mathematik und Informatik
+ - [https://www.mathcs.uni-leipzig.de](https://www.mathcs.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:53.749876+00:00
+
+ ## Mathematisches Institut
+ - [http://www.math.uni-leipzig.de](http://www.math.uni-leipzig.de)
+ - date_published: 2024-10-22T05:25:08.519197+00:00
+
+ ## Universität Leipzig: Philologische Fakultät
+ - [https://www.philol.uni-leipzig.de](https://www.philol.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:57.462597+00:00
+
+ ## Universität Leipzig: Fakultät für Physik und Erdsystemwissenschaften
+ - [https://www.physes.uni-leipzig.de](https://www.physes.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:37.095394+00:00
+
+ ## Institut für Theoretische Physik: ITP
+ - [http://www.physik.uni-leipzig.de](http://www.physik.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:07.194122+00:00
+
+ ## Universität Leipzig: Klinische Translation, Regeneration Leber, Knorpel, Binde- und Stützgewebe
+ - [https://www.sikt.uni-leipzig.de](https://www.sikt.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:33.141600+00:00
+
+ ## Universität Leipzig: Fakultät für Sozialwissenschaften und Philosophie
+ - [https://www.sozphil.uni-leipzig.de](https://www.sozphil.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:47.911694+00:00
+
+ ## Universität Leipzig: Sportwissenschaftliche Fakultät
+ - [https://www.spowi.uni-leipzig.de](https://www.spowi.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:46.094064+00:00
+
+ ## Universität Leipzig: Sprachenzentrum
+ - [https://www.sprachenzentrum.uni-leipzig.de](https://www.sprachenzentrum.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:23.588994+00:00
+
+ ## Universität Leipzig: Studienkolleg Sachsen
+ - [https://www.stksachs.uni-leipzig.de](https://www.stksachs.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:10.292787+00:00
+
+ ## Universität Leipzig: Theologische Fakultät
+ - [https://www.theol.uni-leipzig.de](https://www.theol.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:08.998439+00:00
+
+ ## Universität Leipzig: Leipziger Universitätsmusik
+ - [https://www.unimusik.uni-leipzig.de](https://www.unimusik.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:55.575179+00:00
+
+ ## Universität Leipzig: Universitätsrechenzentrum
+ - [https://www.urz.uni-leipzig.de](https://www.urz.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:59.524598+00:00
+
+ ## Universität Leipzig: Veterinärmedizinische Fakultät
+ - [https://www.vetmed.uni-leipzig.de](https://www.vetmed.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:09.382261+00:00
+
+ ## Universität Leipzig: Wirtschaftswissenschaftliche Fakultät
+ - [https://www.wifa.uni-leipzig.de](https://www.wifa.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:11.274944+00:00
+
+ ## Universität Leipzig: Zentrum für Hochschulsport
+ - [https://www.zfh.uni-leipzig.de](https://www.zfh.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:08.350659+00:00
+
+ ## Universität Leipzig: Zentrum für Lehrer:innenbildung und Schulforschung
+ - [https://www.zls.uni-leipzig.de](https://www.zls.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:07.129345+00:00
+
+ ## Universität Leipzig: Zentrum für Medienproduktion
+ - [https://www.zmp.uni-leipzig.de](https://www.zmp.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:38.739657+00:00
+
+ ## Universität Leipzig: Universität Leipzig
+ - [http://www.zv.uni-leipzig.de](http://www.zv.uni-leipzig.de)
+ - date_published: 2024-07-22T09:19:23.492649+00:00
+
+ ## Homepage von Eckard Specht
+ - [http://hydra.nat.uni-magdeburg.de](http://hydra.nat.uni-magdeburg.de)
+ - date_published: 2018-06-21T08:32:06+00:00
+
+ ## Startseite aller URZ-Webserver
+ - [http://www-e.uni-magdeburg.de](http://www-e.uni-magdeburg.de)
+ - date_published: 2017-03-01T13:22:46+00:00
+
+ ## Johannes Gutenberg-Universität Mainz
+ - [https://startseite.uni-mainz.de](https://startseite.uni-mainz.de)
+ - date_published: 2024-09-30T13:03:43.083801+00:00
+
  ## Johannes Gutenberg-Universität Mainz
  - [https://uni-mainz.de](https://uni-mainz.de)
  - date_published: 2024-07-24T04:22:41.664173+00:00
@@ -3921,96 +4013,4 @@ Bibliotheken / Z39.50
  ## ZEIT für die Schule – Startseite
  - [https://www.zeitfuerdieschule.de](https://www.zeitfuerdieschule.de)
  - date_published: 2024-07-31T00:00:00+00:00
-
- ## ZEIT für X – Startseite
- - [https://zeitfuerx.de](https://zeitfuerx.de)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Uhrenmagazin ZEITGEFÜHL | Die besten Uhren und Uhrenmarken der Welt
- - [https://www.zeitgefuehl.de](https://www.zeitgefuehl.de)
- - date_published: 2024-10-14T17:44:20.586441+00:00
-
- ## Ganz einfach Sprachen lernen mit ZEIT SPRACHEN!
- - [https://angebot.zeit-sprachen.de](https://angebot.zeit-sprachen.de)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## ZEIT SPRACHEN Online-Shop - Abos und Einzelhefte bestellen
- - [https://shop.zeit-sprachen.de](https://shop.zeit-sprachen.de)
- - date_published: 2024-07-24T02:52:12.838786+00:00
-
- ## ZEIT SPRACHEN – effektives Sprachenlernen mit Genuss. Lesen, hören, üben.
- - [https://zeit-sprachen.de](https://zeit-sprachen.de)
- - date_published: 2024-09-20T15:34:57.522747+00:00
-
- ## ZEIT STIFTUNG BUCERIUS
- - [https://www.zeit-stiftung.de](https://www.zeit-stiftung.de)
- - date_published: 2024-07-09T14:09:16.437168+00:00
-
- ## Aktions Zeitungspaten | Jetzt fördern und profitieren!
- - [https://zeitungspatenschaften.de](https://zeitungspatenschaften.de)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## DIE ZEIT Verlagsgruppe
- - [https://www.zeitverlag.de](https://www.zeitverlag.de)
- - date_published: 2024-07-24T02:47:42.940122+00:00
-
- ## DIE ZEIT Verlagsgruppe
- - [https://zeit-verlagsgruppe.de](https://zeit-verlagsgruppe.de)
- - date_published: 2024-04-29T07:11:44.508327+00:00
-
- ## ZELDA Chronicles - Startseite - Zelda Fans für Zelda Fans
- - [https://zeldachronicles.de](https://zeldachronicles.de)
- - date_published: 2024-10-22T10:03:14.009952+00:00
-
- ## Zeldapendium
- - [https://www.zeldapendium.de](https://www.zeldapendium.de)
- - date_published: 2023-04-28T01:21:54+00:00
-
- ## Zendesk: Die Komplettlösung für den Kundenservice
- - [https://www.zendesk.de](https://www.zendesk.de)
- - date_published: 2020-10-15T12:00:00+00:00
-
- ## ZenDiS | Zentrum Digitale Souveränität
- - [https://zendis.de](https://zendis.de)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## MEDIA, KOMMUNIKATIONS- & MARKETING-BERATUNG | ZENITH
- - [https://www.zenithmedia.de](https://www.zenithmedia.de)
- - date_published: 2024-06-25T23:15:47.144528+00:00
-
- ## (Studio) Daniel Zenker | Konzeption und Gestaltung
- - [https://zenkerdaniel.de](https://zenkerdaniel.de)
- - date_published: 2024-07-12T16:38:40.585311+00:00
-
- ## Zenz Solutions
- - [https://www.zenz-solutions.de](https://www.zenz-solutions.de)
- - date_published: 2020-11-11T17:57:52+00:00
-
- ## Zeppelinflug
- - [https://zeppelin-nt.de](https://zeppelin-nt.de)
- - date_published: 2024-07-15T04:51:08.655197+00:00
-
- ## Startseite
- - [https://www.zeroone.de](https://www.zeroone.de)
- - date_published: 2024-10-19T19:44:19.676189+00:00
-
- ## ZertifikateAwards
- - [http://www.zertifikateawards.de](http://www.zertifikateawards.de)
- - date_published: 2024-09-27T10:25:50.945654+00:00
-
- ## Zettelkasten Forum
- - [https://forum.zettelkasten.de](https://forum.zettelkasten.de)
- - date_published: 2024-08-11T10:13:04.100494+00:00
-
- ## Zettelkasten knowledge and info management • Zettelkasten Method
- - [https://zettelkasten.de](https://zettelkasten.de)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Computational Optimization at Work
- - [http://co-at-work.zib.de](http://co-at-work.zib.de)
- - date_published: 2024-10-16T06:09:56.877884+00:00
-
- ## SCIP
- - [https://scip.zib.de](https://scip.zib.de)
- - date_published: 2024-07-12T08:10:07.616615+00:00
 

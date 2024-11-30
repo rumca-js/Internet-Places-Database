@@ -1,3 +1,103 @@
+ ## UC Santa Cruz Financial Aid Office
+ - [https://financialaid.ucsc.edu](https://financialaid.ucsc.edu)
+ - date_published: 2024-05-07T21:00:16.333368+00:00
+
+ ## FoSSaCS: 12th Int. Conf. on Foundations of Software Science and Computation Structures (FoSSaCS'09)
+ - [http://fossacs09.soe.ucsc.edu](http://fossacs09.soe.ucsc.edu)
+ - date_published: 2024-07-07T10:13:00.080225+00:00
+
+ ## Genome10k | Unveiling animal diversity
+ - [https://genome10k.soe.ucsc.edu](https://genome10k.soe.ucsc.edu)
+ - date_published: 2024-07-04T10:39:43+00:00
+
+ ## UCSC Genome Browser Home
+ - [https://genome.ucsc.edu](https://genome.ucsc.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Enhancing student success through philanthropy
+ - [https://giving.ucsc.edu](https://giving.ucsc.edu)
+ - date_published: 2024-07-01T23:54:03.697885+00:00
+
+ ## GPM | SG | Highly ranked Master's degree programs for designing and developing video games and serious games, located in the heart of Silicon Valley
+ - [https://gpm.soe.ucsc.edu](https://gpm.soe.ucsc.edu)
+ - date_published: 2024-06-22T08:39:31+00:00
+
+ ## Graduate School | Grad Admissions UC Santa Cruz
+ - [https://gradadmissions.ucsc.edu](https://gradadmissions.ucsc.edu)
+ - date_published: 2024-07-01T23:53:51.667965+00:00
+
+ ## Graduate Student Commons – Welcome to the GSC!
+ - [https://gradcommons.ucsc.edu](https://gradcommons.ucsc.edu)
+ - date_published: 2024-07-02T01:20:17.461279+00:00
+
+ ## Division of Graduate Studies
+ - [https://graddiv.ucsc.edu](https://graddiv.ucsc.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home | Graduate Studies
+ - [https://grad.soe.ucsc.edu](https://grad.soe.ucsc.edu)
+ - date_published: 2024-07-01T23:52:12.757532+00:00
+
+ ## Home
+ - [https://hacking4oceans.ucsc.edu](https://hacking4oceans.ucsc.edu)
+ - date_published: 2024-07-20T15:33:52.313506+00:00
+
+ ## UCSC Genome Browser Downloads
+ - [https://hgdownload.soe.ucsc.edu](https://hgdownload.soe.ucsc.edu)
+ - date_published: 2024-07-04T10:39:38.652858+00:00
+
+ ## Student Housing Services
+ - [https://housing.ucsc.edu](https://housing.ucsc.edu)
+ - date_published: 2024-07-02T01:18:55.683149+00:00
+
+ ## Humanities Division
+ - [https://humanities.ucsc.edu](https://humanities.ucsc.edu)
+ - date_published: 2024-07-02T01:19:23.537975+00:00
+
+ ## Information Practices
+ - [http://infopractices.ucsc.edu](http://infopractices.ucsc.edu)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Innovation & Business Engagement Hub – The point of entry for industry partners to connect with discoveries, innovation, resources, and talent
+ - [https://innovation.ucsc.edu](https://innovation.ucsc.edu)
+ - date_published: 2024-07-01T23:55:23.601926+00:00
+
+ ## Inquiry @ UC Santa Cruz
+ - [https://inquiry.ucsc.edu](https://inquiry.ucsc.edu)
+ - date_published: 2024-05-07T21:00:10.499147+00:00
+
+ ## UC Santa Cruz - Information Technology Services
+ - [https://its.ucsc.edu](https://its.ucsc.edu)
+ - date_published: 2024-05-07T20:59:42.623589+00:00
+
+ ## Staff Employment Opportunities at UC Santa Cruz
+ - [https://jobs.ucsc.edu](https://jobs.ucsc.edu)
+ - date_published: 2024-07-01T02:40:33.764598+00:00
+
+ ## Keep Learning
+ - [https://keeplearning.ucsc.edu](https://keeplearning.ucsc.edu)
+ - date_published: 2024-07-02T01:18:47.902854+00:00
+
+ ## Home | Kavli Summer Program in Astrophysics
+ - [https://kspa.soe.ucsc.edu](https://kspa.soe.ucsc.edu)
+ - date_published: 2021-12-12T00:00:00+00:00
+
+ ## UCSC Office of Campus Counsel – The office of Campus Counsel represents the Regents of the University of California and advises the Chancellor and campus leadership in a broad range of legal, regulatory and governance issues.
+ - [https://lex.ucsc.edu](https://lex.ucsc.edu)
+ - date_published: 2024-07-21T06:32:53+00:00
+
+ ## home | University Library
+ - [https://library.ucsc.edu](https://library.ucsc.edu)
+ - date_published: 2024-07-01T23:55:13.499819+00:00
+
+ ## Off-campus Access Proxy Login
+ - [https://login.oca.ucsc.edu](https://login.oca.ucsc.edu)
+ - date_published: 2024-06-30T01:26:00.127838+00:00
+
+ ## Languages, Systems, and Data Lab @ UCSC
+ - [https://lsd.ucsc.edu](https://lsd.ucsc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
  ## Welcome to UCSC's Undergraduate Tutoring Center!
  - [https://lss.ucsc.edu](https://lss.ucsc.edu)
  - date_published: 2024-07-02T01:19:15.978780+00:00
@@ -3903,104 +4003,4 @@
  ## Admissions - University of Indianapolis
  - [https://attend.uindy.edu](https://attend.uindy.edu)
  - date_published: 2024-06-21T18:37:28+00:00
-
- ## Events - UIndy 360
- - [https://events.uindy.edu](https://events.uindy.edu)
- - date_published: 2024-06-30T05:15:32.847777+00:00
-
- ## Event Calendar - University of Indianapolis
- - [https://getinvolved.uindy.edu](https://getinvolved.uindy.edu)
- - date_published: 2024-06-30T05:15:46.486086+00:00
-
- ## Careers | Job Application
- - [https://hrjobs.uindy.edu](https://hrjobs.uindy.edu)
- - date_published: 2024-06-30T05:15:36.415018+00:00
-
- ## University of Indianapolis
- - [https://map.uindy.edu](https://map.uindy.edu)
- - date_published: 2024-06-30T05:15:38.430458+00:00
-
- ## Sign in to your account
- - [https://my.uindy.edu](https://my.uindy.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home - UIndy 360
- - [https://news.uindy.edu](https://news.uindy.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## University of Indianapolis
- - [http://uindy.edu](http://uindy.edu)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## YOU INDY – University of Indianapolis – UIndy thrives with you.
- - [https://you.uindy.edu](https://you.uindy.edu)
- - date_published: 2024-06-30T05:15:42.622266+00:00
-
- ## Admissions | The University of Iowa
- - [https://admissions.uiowa.edu](https://admissions.uiowa.edu)
- - date_published: 2024-07-02T02:15:48+00:00
-
- ## IIS Windows Server
- - [https://apps.dentistry.uiowa.edu](https://apps.dentistry.uiowa.edu)
- - date_published: 2023-06-20T19:41:02+00:00
-
- ## University of Iowa Assets
- - [https://assets.uiowa.edu](https://assets.uiowa.edu)
- - date_published: 2017-06-09T16:03:35+00:00
-
- ## Brand Manual | The University of Iowa
- - [https://brand.uiowa.edu](https://brand.uiowa.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pomerantz Career Center | The University of Iowa
- - [https://careers.uiowa.edu](https://careers.uiowa.edu)
- - date_published: 2024-07-02T02:01:18+00:00
-
- ## The University of Iowa 2024-25 General Catalog < University of Iowa
- - [http://catalog.registrar.uiowa.edu](http://catalog.registrar.uiowa.edu)
- - date_published: 2024-07-01T13:13:11+00:00
-
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://clas.uiowa.edu](https://clas.uiowa.edu)
- - date_published: 2024-05-07T21:15:56.514442+00:00
-
- ## Content Hub
- - [https://content.uiowa.edu](https://content.uiowa.edu)
- - date_published: 2024-07-02T02:33:44+00:00
-
- ## Novel Coronavirus (COVID-19) | The University of Iowa
- - [https://coronavirus.uiowa.edu](https://coronavirus.uiowa.edu)
- - date_published: 2024-06-24T22:55:49+00:00
-
- ## College of Dentistry and Dental Clinics | The University of Iowa
- - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Welcome to The University of Iowa Libraries | The University of Iowa Libraries
- - [http://digital.lib.uiowa.edu](http://digital.lib.uiowa.edu)
- - date_published: 2024-06-24T08:20:26+00:00
-
- ## Distance and Online Education | The University of Iowa
- - [https://distance.uiowa.edu](https://distance.uiowa.edu)
- - date_published: 2024-06-28T16:58:34+00:00
-
- ## Home The University of Iowa Division of Access, Opportunity, and Diversity
- - [https://diversity.uiowa.edu](https://diversity.uiowa.edu)
- - date_published: 2024-10-18T22:21:12.530925+00:00
-
- ## College of Liberal Arts and Sciences | The University of Iowa
- - [https://divms.uiowa.edu](https://divms.uiowa.edu)
- - date_published: 2024-10-15T21:12:56+00:00
-
- ## Emergency Information | The University of Iowa
- - [https://emergency.uiowa.edu](https://emergency.uiowa.edu)
- - date_published: 2024-07-02T00:52:11+00:00
-
- ## Events Calendar
- - [https://events.uiowa.edu](https://events.uiowa.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Free Speech at Iowa | The University of Iowa
- - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
- - date_published: 2024-06-24T23:12:18+00:00
 

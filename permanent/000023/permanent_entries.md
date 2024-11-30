@@ -1,3 +1,11 @@
+ ## Ideenplattform
+ - [https://www.innovation-davosklosters.ch](https://www.innovation-davosklosters.ch)
+ - date_published: 2024-11-21T15:50:32.036723+00:00
+
+ ## Innovaud - Vaud's innovation and economic promotion agency
+ - [https://www.innovaud.ch](https://www.innovaud.ch)
+ - date_published: 2024-07-16T22:36:55.557012+00:00
+
  ## Inside IT – Das Magazin für IT-Verantwortliche
  - [https://inside-channels.ch](https://inside-channels.ch)
  - date_published: 2024-09-18T14:53:52.712305+00:00
@@ -4014,12 +4022,4 @@ Fakultät | Universität Basel
 — University of Geneva
  - [http://atlas-disciplines.unige.ch](http://atlas-disciplines.unige.ch)
  - date_published: 2024-07-27T06:11:14.474134+00:00
-
- ## Apache2 Debian Default Page: It works
- - [https://auth-switch.eresearch.unige.ch](https://auth-switch.eresearch.unige.ch)
- - date_published: 2022-03-29T13:07:53+00:00
-
- ## Home - Catalogue des services numériques - UNIGE
- - [https://catalogue-si.unige.ch](https://catalogue-si.unige.ch)
- - date_published: 2024-04-30T06:15:14.289285+00:00
 

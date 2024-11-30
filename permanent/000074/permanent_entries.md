@@ -1,3 +1,44 @@
+ ## Less Talk, More Do – Christopher Finke writes about things he has done: software, woodworking, and other creative endeavors.
+ - [https://chrisfinke.com](https://chrisfinke.com)
+ - date_published: 2023-10-25T13:22:23.741521+00:00
+
+ ## HOME - Chris-Floyd.com
+ - [http://www.chris-floyd.com](http://www.chris-floyd.com)
+ - date_published: 2024-07-11T15:52:38.311463+00:00
+
+ ## ChrisFossArt.com – Chris Foss art, Chris Foss prints with unique customised sketches.
+ - [https://www.chrisfossart.com](https://www.chrisfossart.com)
+ - date_published: 2024-09-14T22:54:48.908640+00:00
+
+ ## Build your business by sharing what you know
+ - [https://chrisg.com](https://chrisg.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Chris Gagné – Delight people. Create value. Do good.
+ - [https://chrisgagne.com](https://chrisgagne.com)
+ - date_published: 2023-10-25T13:22:28.478637+00:00
+
+ ## Chris Gall | Author / Illustrator
+ - [http://chrisgall.com](http://chrisgall.com)
+ - date_published: 2024-05-07T13:58:16.583199+00:00
+
+ ## Chris Gammell's Analog Life – Analog electronics and everything else between 1 and 0
+ - [http://chrisgammell.com](http://chrisgammell.com)
+ - date_published: 2023-12-14T03:49:02+00:00
+
+ ## Premium VIP Tours and Transfer Service - Chris Gardner Hawai
+ - [https://chrisgardnerhawaii.com](https://chrisgardnerhawaii.com)
+ - date_published: 2019-05-27T00:00:00+00:00
+
+ ## Home
+ - [https://chrisgimmer.com](https://chrisgimmer.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Chris Glass
+ - [https://chrisglass.com](https://chrisglass.com)
+ - date_published: 2023-12-20T21:31:09.440697+00:00
+ - tags: ['personal']
+
  ## Photo Archive
  - [https://journal.chrisglass.com](https://journal.chrisglass.com)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -4005,44 +4046,4 @@
  ## Cincinnati in Pictures | CityBeat
  - [https://photos.citybeat.com](https://photos.citybeat.com)
  - date_published: 2024-04-26T00:00:00+00:00
-
- ## Cincinnati CityBeat
- - [https://posting.citybeat.com](https://posting.citybeat.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## CityBeautiful21 | Urban Planning for the 21st Century
- - [http://citybeautiful21.com](http://citybeautiful21.com)
- - date_published: 2024-06-27T23:12:37+00:00
-
- ## CityBldr App
- - [https://app.citybldr.com](https://app.citybldr.com)
- - date_published: 2024-10-15T23:58:12.876375+00:00
-
- ## CityBldr - we build smart cities
- - [https://citybldr.com](https://citybldr.com)
- - date_published: 2024-10-15T23:58:15.318271+00:00
-
- ## Cityblock | Homepage
- - [http://cityblock.com](http://cityblock.com)
- - date_published: 2024-10-12T20:53:35.189541+00:00
-
- ## CityBlockchainSummitNFT
- - [https://www.cityblockchainsummit.com](https://www.cityblockchainsummit.com)
- - date_published: 2024-09-24T21:48:55.973219+00:00
-
- ## City Box Office
- - [http://www.cityboxoffice.com](http://www.cityboxoffice.com)
- - date_published: 2024-07-07T04:47:23.325694+00:00
-
- ## City Cellar Wine Bar & Grill | Bar & Grill in Westbury, NY
- - [https://www.citycellarny.com](https://www.citycellarny.com)
- - date_published: 2024-06-21T17:12:56.428694+00:00
-
- ## Remanufactured Compressor For HVAC/Refrigeration & More - City Compressor
- - [https://citycompressor.com](https://citycompressor.com)
- - date_published: 2024-05-04T14:18:25.530843+00:00
-
- ## City-Data.com - Stats about all US cities - real estate, relocation info, crime, house prices, cost of living, races, home value estimator, recent sales, income, photos, schools, maps, weather, neighborhoods, and more
- - [http://www.city-data.com](http://www.city-data.com)
- - date_published: 2024-06-28T00:00:00+00:00
 

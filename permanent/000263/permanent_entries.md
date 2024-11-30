@@ -1,3 +1,103 @@
+ ## MIT Sloan Executive Education
+ - [https://executive.mit.edu](https://executive.mit.edu)
+ - date_published: 2023-07-02T15:27:13+00:00
+
+ ## Fab Central
+ - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
+ - date_published: 2023-01-25T11:46:53+00:00
+
+ ## On Learning Associations of Faces and Voices
+ - [http://facevoice.csail.mit.edu](http://facevoice.csail.mit.edu)
+ - date_published: 2019-02-15T19:43:39+00:00
+
+ ## MIT Fast Code Seminar
+ - [http://fast-code.csail.mit.edu](http://fast-code.csail.mit.edu)
+ - date_published: 2024-06-22T10:20:13.516589+00:00
+
+ ## The Fiete Lab @ MIT
+ - [https://fietelab.mit.edu](https://fietelab.mit.edu)
+ - date_published: 2024-07-11T14:31:38.154205+00:00
+
+ ## MIT Office of Foundation Relations
+ - [http://foundations.mit.edu](http://foundations.mit.edu)
+ - date_published: 2024-07-01T15:18:15.255093+00:00
+
+ ## MIT 6.512, Spring 2023
+ - [https://frap.csail.mit.edu](https://frap.csail.mit.edu)
+ - date_published: 2024-08-18T22:42:49.675231+00:00
+
+ ## MIT FUTURE OF AI
+ - [https://futureofai.mit.edu](https://futureofai.mit.edu)
+ - date_published: 2023-10-25T18:55:02.414323+00:00
+
+ ## FutureTech
+ - [https://futuretech.mit.edu](https://futuretech.mit.edu)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Grammar-Based Grounded Lexicon Learning
+ - [https://g2l2.csail.mit.edu](https://g2l2.csail.mit.edu)
+ - date_published: 2021-12-11T16:11:02+00:00
+
+ ## Galileo
+ - [http://galileo.csail.mit.edu](http://galileo.csail.mit.edu)
+ - date_published: 2019-07-19T23:44:01+00:00
+
+ ## GANalyze - MIT
+ - [http://ganalyze.csail.mit.edu](http://ganalyze.csail.mit.edu)
+ - date_published: 2019-06-25T09:56:09+00:00
+
+ ## GAN Dissection
+ - [https://gandissect.csail.mit.edu](https://gandissect.csail.mit.edu)
+ - date_published: 2024-02-24T14:49:37+00:00
+
+ ## Generative Unfoldings
+ - [https://generative-unfoldings.mit.edu](https://generative-unfoldings.mit.edu)
+ - date_published: 2021-03-23T18:16:00+00:00
+
+ ## Generalizable Reconstruction (GenRe)
+ - [http://genre.csail.mit.edu](http://genre.csail.mit.edu)
+ - date_published: 2021-06-27T18:46:46+00:00
+
+ ## Home | Giving to MIT
+ - [https://giving.mit.edu](https://giving.mit.edu)
+ - date_published: 2024-05-07T19:35:00.529936+00:00
+
+ ## MIT Global Shakespeares – Video and Performance Archive
+ - [http://globalshakespeares.mit.edu](http://globalshakespeares.mit.edu)
+ - date_published: 2024-08-08T19:37:30.230407+00:00
+
+ ## Improving Global Healthcare Delivery - Groundwork Initiative
+ - [https://groundwork.mit.edu](https://groundwork.mit.edu)
+ - date_published: 2024-06-20T03:54:18.325105+00:00
+
+ ## Research | MIT CSAIL
+ - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
+ - date_published: 2023-11-25T21:49:19.475927+00:00
+
+ ## Redirecting to Athena List Management
+ - [https://groups.mit.edu](https://groups.mit.edu)
+ - date_published: 2014-05-04T20:40:56+00:00
+
+ ## Hacking Life
+ - [https://hackinglife.mitpress.mit.edu](https://hackinglife.mitpress.mit.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## HACS Dataset
+ - [http://hacs.csail.mit.edu](http://hacs.csail.mit.edu)
+ - date_published: 2021-04-05T18:28:29+00:00
+
+ ## MIT HAN Lab – Efficient AI Computing
+ - [https://hanlab18.mit.edu](https://hanlab18.mit.edu)
+ - date_published: 2024-06-22T09:07:19.318935+00:00
+
+ ## MIT HAN Lab
+ - [https://hanlab.mit.edu](https://hanlab.mit.edu)
+ - date_published: 2024-11-09T07:50:51+00:00
+
+ ## Haystack Group @ MIT CSAIL
+ - [https://haystack.csail.mit.edu](https://haystack.csail.mit.edu)
+ - date_published: 2022-05-18T22:59:40+00:00
+
  ## HCI Engineering Group
  - [https://hcie.csail.mit.edu](https://hcie.csail.mit.edu)
  - date_published: 2024-05-28T15:37:03+00:00
@@ -3904,104 +4004,4 @@
  ## Home
  - [https://housing.nmsu.edu](https://housing.nmsu.edu)
  - date_published: 2024-07-01T16:14:45.856746+00:00
-
- ## Human Resource Services | New Mexico State University | BE BOLD. Shape the Future.
- - [https://hr.nmsu.edu](https://hr.nmsu.edu)
- - date_published: 2024-07-01T16:13:20.254040+00:00
-
- ## Information Technology | New Mexico State University | BE BOLD. Shape the Future.
- - [https://ict.nmsu.edu](https://ict.nmsu.edu)
- - date_published: 2024-07-01T16:13:29.208210+00:00
-
- ## illiad.nmsu.edu
- - [https://illiad.nmsu.edu](https://illiad.nmsu.edu)
- - date_published: 2022-11-27T03:59:33+00:00
-
- ## Innovative Media Research & Extension | New Mexico State University | BE BOLD. Shape the Future.
- - [https://innovativemedia.nmsu.edu](https://innovativemedia.nmsu.edu)
- - date_published: 2024-07-01T16:12:25.424886+00:00
-
- ## Sign in to your account
- - [https://inside.nmsu.edu](https://inside.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## IR-4 Home
- - [https://ir4.nmsu.edu](https://ir4.nmsu.edu)
- - date_published: 2024-07-01T16:12:23.480265+00:00
-
- ## IRD Home
- - [https://ird.nmsu.edu](https://ird.nmsu.edu)
- - date_published: 2024-07-01T16:23:58.439801+00:00
-
- ## Search Page
- - [https://jobs.nmsu.edu](https://jobs.nmsu.edu)
- - date_published: 2024-07-01T16:14:05.022562+00:00
-
- ## Home
- - [https://kb.nmsu.edu](https://kb.nmsu.edu)
- - date_published: 2024-07-01T16:13:27.425676+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://kind-p.nmsu.edu](https://kind-p.nmsu.edu)
- - date_published: 2024-07-01T16:12:52.726595+00:00
-
- ## Home
- - [https://langling.nmsu.edu](https://langling.nmsu.edu)
- - date_published: 2024-07-01T16:12:29.057468+00:00
-
- ## LEADS 2025 Strategic Planning
- - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
- - date_published: 2024-05-07T19:47:47.251655+00:00
-
- ## Academic Technology
- - [https://learning.nmsu.edu](https://learning.nmsu.edu)
- - date_published: 2024-07-01T16:13:11.052450+00:00
-
- ## Learn | New Mexico State University
- - [https://learn.nmsu.edu](https://learn.nmsu.edu)
- - date_published: 2024-05-07T19:47:18.341354+00:00
-
- ## University General Counsel (UGC) | New Mexico State University | BE BOLD. Shape the Future.
- - [https://legal.nmsu.edu](https://legal.nmsu.edu)
- - date_published: 2024-07-01T16:14:59.482219+00:00
-
- ## Library Exhibits | New Mexico State University
- - [https://libexhibits.nmsu.edu](https://libexhibits.nmsu.edu)
- - date_published: 2024-07-01T16:17:41.565623+00:00
-
- ## Library | NMSU
- - [https://lib.nmsu.edu](https://lib.nmsu.edu)
- - date_published: 2024-05-07T19:47:42.772572+00:00
-
- ## Library | NMSU | New Mexico State University | BE BOLD. Shape the Future.
- - [https://library.nmsu.edu](https://library.nmsu.edu)
- - date_published: 2024-07-01T16:14:00.427966+00:00
-
- ## Los Lunas Center
- - [https://loslunassc.nmsu.edu](https://loslunassc.nmsu.edu)
- - date_published: 2024-07-01T16:15:09.911339+00:00
-
- ## Low Water Home
- - [https://lowwaterplants.nmsu.edu](https://lowwaterplants.nmsu.edu)
- - date_published: 2024-07-01T16:15:11.571955+00:00
-
- ## Sign in to Outlook
- - [https://mail.nmsu.edu](https://mail.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## New Mexico State University
- - [https://map.nmsu.edu](https://map.nmsu.edu)
- - date_published: 2024-05-07T19:47:57.434600+00:00
-
- ## Melon Patch Home
- - [https://melonpatch.nmsu.edu](https://melonpatch.nmsu.edu)
- - date_published: 2024-07-01T16:15:20.461738+00:00
-
- ## NMSU: Accounts
- - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
- - date_published: 2024-05-07T19:47:30.973237+00:00
-
- ## my.nmsu.edu
- - [https://my.nmsu.edu](https://my.nmsu.edu)
- - date_published: 2024-05-07T19:47:16.602907+00:00
 

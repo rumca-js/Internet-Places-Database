@@ -1,3 +1,49 @@
+ ## GG Live Chat : Darmowy Czat na stronę internetową
+ - [https://ggchat.com](https://ggchat.com)
+ - date_published: 2024-06-14T07:32:41.404331+00:00
+
+ ## Goodguys Classifieds Site
+ - [https://ggclassifieds.com](https://ggclassifieds.com)
+ - date_published: 2024-06-19T08:12:13.681374+00:00
+
+ ## GGDreamcast
+ - [https://www.ggdreamcast.com](https://www.ggdreamcast.com)
+ - date_published: 2024-08-22T22:17:12.207441+00:00
+
+ ## Galileo Global Education | Applied Arts, Fashion, Design & Management
+ - [https://www.ggeedu.com](https://www.ggeedu.com)
+ - date_published: 2024-07-02T23:13:52.635887+00:00
+
+ ## dot-to-ascii
+ - [https://dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com)
+ - date_published: 2019-12-05T20:50:19+00:00
+
+ ## Georgi Gerganov's Home Page
+ - [https://ggerganov.com](https://ggerganov.com)
+ - date_published: 2023-03-12T11:30:46+00:00
+ - tags: ['personal']
+
+ ## Index of /
+ - [https://ggml.ggerganov.com](https://ggml.ggerganov.com)
+ - date_published: 2024-05-04T07:57:30.027029+00:00
+
+ ## GGMorse
+ - [https://ggmorse.ggerganov.com](https://ggmorse.ggerganov.com)
+ - date_published: 2021-07-28T16:53:59+00:00
+
+ ## HNGuessr
+ - [https://hnguessr.ggerganov.com](https://hnguessr.ggerganov.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## HNTerm - Hacker News in the terminal
+ - [https://hnterm.ggerganov.com](https://hnterm.ggerganov.com)
+ - date_published: 2022-03-13T17:36:54+00:00
+ - tags: ['interesting page design']
+
+ ## imgui-ws
+ - [https://imgui-ws.ggerganov.com](https://imgui-ws.ggerganov.com)
+ - date_published: 2021-08-14T17:23:12+00:00
+
  ## ImTui Emscripten example
  - [https://imtui.ggerganov.com](https://imtui.ggerganov.com)
  - date_published: 2022-03-20T08:56:50+00:00
@@ -2111,7 +2157,7 @@
  ## GitHub - BrowserBox/BrowserBox: 🌀 Browse the whole web from a web page. Remote browser isolation. For compliance, integration, security, privacy and more! By https://dosyago.com
  - [https://github.com/BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox)
  - date_published: 2024-11-15T21:08:17+00:00
- - tags: ['web browser']
+ - tags: ['web browser', 'remote web browser']
 
  ## GitHub - yang991178/fluent-reader-lite: Simplistic mobile RSS client built with Flutter
  - [https://github.com/yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite)
@@ -2187,6 +2233,16 @@
  - [https://github.com/PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur)
  - date_published: 2024-11-28T20:15:42+00:00
  - tags: ['electricity', 'energy']
+
+ ## GitHub - louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+ - [https://github.com/louislam/dockge](https://github.com/louislam/dockge)
+ - date_published: 2024-11-29T09:43:03+00:00
+ - tags: ['docker', 'self-host']
+
+ ## GitHub - mealie-recipes/mealie: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+ - [https://github.com/mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
+ - date_published: 2024-11-29T09:43:41+00:00
+ - tags: ['self-host', 'recipe manager']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -2877,6 +2933,10 @@
  ## (blog 'zezin)
  - [https://gjhenrique.com](https://gjhenrique.com)
  - date_published: 2022-11-21T00:00:00+00:00
+
+ ## Dyqani online me i madh per teknologji ne Kosove | Gjirafa50
+ - [https://gjirafa50.com](https://gjirafa50.com)
+ - date_published: 2024-11-29T11:27:50.015917+00:00
 
  ## Grand Junction Jackalopes
  - [https://gjjackalopes.com](https://gjjackalopes.com)
@@ -4051,61 +4111,4 @@
  ## 全球搜® - 专注于外贸营销推广, Google推广, Google SEO/SEM/SNS, 外贸网站建设 - 谷道科技
  - [https://www.globalso.com](https://www.globalso.com)
  - date_published: 2024-10-15T20:29:48.607031+00:00
-
- ## Top 15 Software Development Companies to Hire in 2024
- - [https://www.globalsoftwarecompanies.com](https://www.globalsoftwarecompanies.com)
- - date_published: 2024-06-26T14:17:43+00:00
-
- ## Global Sources | Verified Suppliers, Wholesale Manufacturers & Distributors from Global B2B Sourcing Platform & Online Marketplace
- - [https://www.globalsources.com](https://www.globalsources.com)
- - date_published: 2024-10-31T12:01:48.174224+00:00
-
- ## https://electronics360.globalspec.com
- - [https://electronics360.globalspec.com](https://electronics360.globalspec.com)
- - date_published: 2023-10-25T14:45:57.332220+00:00
-
- ## Cierpliwości...
- - [https://globalspec.com](https://globalspec.com)
- - date_published: 2024-06-10T13:10:15.176386+00:00
-
- ## Global Spin | a glimpse into the tiny mind of Chris Radcliff
- - [http://globalspin.com](http://globalspin.com)
- - date_published: 2024-07-03T08:18:40.495987+00:00
-
- ## Global Startup Awards
- - [https://www.globalstartupawards.com](https://www.globalstartupawards.com)
- - date_published: 2024-06-25T17:08:56.825190+00:00
-
- ## 北京中恒电国际信息技术有限公司
- - [http://www.globalstech.com](http://www.globalstech.com)
- - date_published: 2024-06-04T08:52:56+00:00
-
- ## Global Supply Chain Law Blog
- - [https://www.globalsupplychainlawblog.com](https://www.globalsupplychainlawblog.com)
- - date_published: 2024-09-15T23:34:18.955013+00:00
-
- ## Global Suzuki
- - [http://www.globalsuzuki.com](http://www.globalsuzuki.com)
- - date_published: 2024-07-03T01:39:52.109853+00:00
-
- ## Global Table Adventure | Bringing the World to your Kitchen
- - [https://globaltableadventure.com](https://globaltableadventure.com)
- - date_published: 2023-11-17T07:29:02.885266+00:00
- - tags: ['personal']
-
- ## Global Technology Summit 2023
- - [https://globaltechnologysummit.com](https://globaltechnologysummit.com)
- - date_published: 2024-10-19T07:39:41.242687+00:00
-
- ## Global TekMed Holdings - Global TekMed Holdings
- - [https://www.globaltekmed.com](https://www.globaltekmed.com)
- - date_published: 2024-09-13T17:48:21.124347+00:00
-
- ## GLOBAL TOMATO CONGRESS
- - [https://www.globaltomatocongress.com](https://www.globaltomatocongress.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Global Toy Experts | Toy Experts | Toy Expert Near Me
- - [https://www.globaltoyexperts.com](https://www.globaltoyexperts.com)
- - date_published: 2024-05-04T08:15:13.241545+00:00
 

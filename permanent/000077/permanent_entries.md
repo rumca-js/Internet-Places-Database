@@ -1,3 +1,43 @@
+ ## Coffee & Open Source
+ - [https://www.coffeeandopensource.com](https://www.coffeeandopensource.com)
+ - date_published: 2024-09-12T19:12:20+00:00
+
+ ## Coffee & Pens - Coffee & Pens
+ - [https://coffeeandpens.com](https://coffeeandpens.com)
+ - date_published: 2024-05-04T09:46:45.531891+00:00
+
+ ## Coffeebar | Hand-roasted coffee shipped to your doorstep
+ - [https://www.coffeebar.com](https://www.coffeebar.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Coffee Before Pants
+ - [https://www.coffeebeforepants.com](https://www.coffeebeforepants.com)
+ - date_published: 2024-07-18T17:24:16.776862+00:00
+
+ ## Home
+ - [https://coffeebreakacademy.com](https://coffeebreakacademy.com)
+ - date_published: 2024-06-22T23:35:17.250625+00:00
+
+ ## Coffee Break Chinese
+ - [http://coffeebreakchinese.com](http://coffeebreakchinese.com)
+ - date_published: 2024-06-22T23:35:03.421220+00:00
+
+ ## New Masterclasses open for registration
+ - [https://coffeebreakcourses.com](https://coffeebreakcourses.com)
+ - date_published: 2023-09-26T16:13:50+00:00
+
+ ## Learn English with Coffee Break English
+ - [http://coffeebreakenglish.com](http://coffeebreakenglish.com)
+ - date_published: 2021-05-05T00:00:00+00:00
+
+ ## Coffee Break French
+ - [http://coffeebreakfrench.com](http://coffeebreakfrench.com)
+ - date_published: 2024-06-22T23:35:26.963698+00:00
+
+ ## Coffee Break German
+ - [http://coffeebreakgerman.com](http://coffeebreakgerman.com)
+ - date_published: 2024-06-22T23:35:45.991466+00:00
+
  ## Coffee Break Languages
  - [https://www.coffeebreakgiftshop.com](https://www.coffeebreakgiftshop.com)
  - date_published: 2024-06-22T23:35:42.680108+00:00
@@ -4001,44 +4041,4 @@ Colyvan's Homepage
  ## Compass of Design
  - [https://read.compassofdesign.com](https://read.compassofdesign.com)
  - date_published: 2024-07-02T19:44:27.714820+00:00
-
- ## Compelling Science Fiction Newsletter
- - [https://compellingsciencefiction.com](https://compellingsciencefiction.com)
- - date_published: 2023-10-25T13:32:16.715575+00:00
-
- ## Reviews Archives - Biz Report
- - [https://creative.compelo.com](https://creative.compelo.com)
- - date_published: 2024-04-28T05:10:56.566084+00:00
-
- ## Reviews Archives - Biz Report
- - [https://life-sciences.compelo.com](https://life-sciences.compelo.com)
- - date_published: 2024-04-28T05:11:24.886506+00:00
-
- ## Reviews Archives - Biz Report
- - [https://technology.compelo.com](https://technology.compelo.com)
- - date_published: 2024-04-28T05:11:00.034902+00:00
-
- ## Compensaid - fly more sustainably
- - [https://api.compensaid.com](https://api.compensaid.com)
- - date_published: 2024-07-15T04:36:44.960993+00:00
-
- ## Compensaid - fly more sustainably
- - [https://lufthansa.compensaid.com](https://lufthansa.compensaid.com)
- - date_published: 2024-05-12T05:11:26.412189+00:00
-
- ## SANS.edu Online Store
- - [https://sansedu.compet.com](https://sansedu.compet.com)
- - date_published: 2024-10-07T22:53:02.591779+00:00
-
- ## Home | Competent Boards - Sustainability and ESG & Climate Education
- - [https://competentboards.com](https://competentboards.com)
- - date_published: 2024-10-29T21:13:46+00:00
-
- ## Compete Themes | WordPress Themes for Content Creators
- - [https://competethemes.com](https://competethemes.com)
- - date_published: 2024-04-29T03:58:48.181175+00:00
-
- ## Support Center
- - [https://support.competethemes.com](https://support.competethemes.com)
- - date_published: 2024-07-12T04:56:23+00:00
 

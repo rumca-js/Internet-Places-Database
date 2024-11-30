@@ -1,3 +1,68 @@
+ ## George Dillard – Medium
+ - [https://worldhistory.medium.com](https://worldhistory.medium.com)
+ - date_published: 2023-10-25T10:23:43.451858+00:00
+
+ ## Wagner Carvalho – Medium
+ - [https://wrccdesign.medium.com](https://wrccdesign.medium.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Yann Eves – Medium
+ - [https://yanneves.medium.com](https://yanneves.medium.com)
+ - date_published: 2024-07-02T21:21:08.953922+00:00
+
+ ## Yash Banka – Medium
+ - [https://yashbanka.medium.com](https://yashbanka.medium.com)
+ - date_published: 2024-05-10T06:45:27.709317+00:00
+
+ ## Yassine EL KHAL – Medium
+ - [https://yassineelkhal.medium.com](https://yassineelkhal.medium.com)
+ - date_published: 2024-04-30T07:42:33.970310+00:00
+ - tags: ['personal']
+
+ ## John Pradeep Vincent – Medium
+ - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
+ - date_published: 2023-10-25T10:23:46.196937+00:00
+
+ ## From Narrow To General AI – Medium
+ - [https://ykulbashian.medium.com](https://ykulbashian.medium.com)
+ - date_published: 2024-06-14T08:16:11.550055+00:00
+
+ ## Yoav Goldwein – Medium
+ - [https://yoav298.medium.com](https://yoav298.medium.com)
+ - date_published: 2024-09-12T19:00:21.115520+00:00
+
+ ## Yogesh Malik – Medium
+ - [https://yogeshmalik.medium.com](https://yogeshmalik.medium.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Submit a request – Medium Help Center
+ - [http://yourfriends.medium.com](http://yourfriends.medium.com)
+ - date_published: 2024-08-07T19:14:44.865957+00:00
+
+ ## Medium
+ - [https://youssefraafat57.medium.com](https://youssefraafat57.medium.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Yancey Strickler – Medium
+ - [https://ystrickler.medium.com](https://ystrickler.medium.com)
+ - date_published: 2024-04-28T04:55:18.569319+00:00
+
+ ## Eliezer Yudkowsky – Medium
+ - [https://yudkowsky.medium.com](https://yudkowsky.medium.com)
+ - date_published: 2024-07-07T07:20:11.831145+00:00
+
+ ## Yugant Nakhawa – Medium
+ - [https://yugantnakhawa.medium.com](https://yugantnakhawa.medium.com)
+ - date_published: 2024-06-22T07:05:23.142462+00:00
+
+ ## Zachary Thomas – Medium
+ - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
+ - date_published: 2023-10-25T10:23:48.150446+00:00
+
+ ## Zameer – Medium
+ - [https://zameermfm.medium.com](https://zameermfm.medium.com)
+ - date_published: 2024-07-29T04:28:35.209981+00:00
+
  ## Zeda.io – Medium
  - [https://zedaio.medium.com](https://zedaio.medium.com)
  - date_published: 2024-10-30T22:08:43.229854+00:00
@@ -3966,68 +4031,4 @@
  ## World weather ⋆ Accurate weather forecast today online ≡ Current temperatures | METEOPROG
  - [https://www.meteoprog.com](https://www.meteoprog.com)
  - date_published: 2024-07-13T19:11:40.174045+00:00
-
- ## Meteor Blog
- - [https://blog.meteor.com](https://blog.meteor.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Introduction | Galaxy Docs
- - [https://cloud-guide.meteor.com](https://cloud-guide.meteor.com)
- - date_published: 2024-06-23T10:27:23.442804+00:00
-
- ## Meteor Cloud
- - [https://cloud.meteor.com](https://cloud.meteor.com)
- - date_published: 2024-06-23T10:27:27.066963+00:00
-
- ## Docs | Meteor API Docs
- - [https://docs.meteor.com](https://docs.meteor.com)
- - date_published: 2024-05-06T13:14:53.207500+00:00
-
- ## Meteor.js forums
- - [https://forums.meteor.com](https://forums.meteor.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Introduction | Galaxy Docs
- - [https://galaxy-guide.meteor.com](https://galaxy-guide.meteor.com)
- - date_published: 2024-06-23T10:27:28.220251+00:00
-
- ## Introduction | Meteor Guide
- - [https://guide.meteor.com](https://guide.meteor.com)
- - date_published: 2024-05-06T13:46:33.215759+00:00
-
- ## Stop fighting with frameworks and start shipping real apps - Meteor.js
- - [https://meteor.com](https://meteor.com)
- - date_published: 2024-05-25T09:10:56.534005+00:00
-
- ## Meteor Cloud Status
- - [https://status.meteor.com](https://status.meteor.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Jira Service Management
- - [https://support.portal.meteor.com](https://support.portal.meteor.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Docs
- - [https://v3-docs.meteor.com](https://v3-docs.meteor.com)
- - date_published: 2024-09-02T12:27:22.481913+00:00
-
- ## MeteorOps | DevOps Services
- - [https://meteorops.com](https://meteorops.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Meteor Up - Deploy Meteor apps
- - [http://meteor-up.com](http://meteor-up.com)
- - date_published: 2023-01-25T18:22:31+00:00
-
- ## Meteosolutions: Prodotti e servizi ad alto valore aggiunto per la Meteorologia
- - [https://www.meteosolutions.com](https://www.meteosolutions.com)
- - date_published: 2024-09-15T10:17:51+00:00
-
- ## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
- - [https://meteosource.com](https://meteosource.com)
- - date_published: 2023-10-25T16:02:04.837084+00:00
-
- ## Professional Solar Forecast for PV output
- - [https://solar.meteosource.com](https://solar.meteosource.com)
- - date_published: 2024-08-19T00:00:00+00:00
 

@@ -1,3 +1,83 @@
+ ## Watterott electronic
+ - [https://learn.watterott.com](https://learn.watterott.com)
+ - date_published: 2024-02-09T16:22:49+00:00
+
+ ## WattValue - Votre énergie sur-mesure
+ - [http://www.wattimpact.com](http://www.wattimpact.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Welcome to Wattpad WEBTOON Book Group
+ - [http://books.wattpad.com](http://books.wattpad.com)
+ - date_published: 2024-06-29T21:21:12.649980+00:00
+
+ ## Wattpad Brand Partnerships - Where brand stories live.
+ - [https://brands.wattpad.com](https://brands.wattpad.com)
+ - date_published: 2024-06-16T08:29:36+00:00
+
+ ## Wattpad - Where stories live.
+ - [http://business.wattpad.com](http://business.wattpad.com)
+ - date_published: 2021-01-15T14:30:39+00:00
+
+ ## Wattpad | Wattpad HQ
+ - [https://company.wattpad.com](https://company.wattpad.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home
+ - [https://creators.wattpad.com](https://creators.wattpad.com)
+ - date_published: 2024-06-19T15:09:46.217481+00:00
+
+ ## Wattpad Policies
+ - [https://policies.wattpad.com](https://policies.wattpad.com)
+ - date_published: 2024-04-15T13:56:54+00:00
+
+ ## Wattpad Safety Portal
+ - [https://safetyportal.wattpad.com](https://safetyportal.wattpad.com)
+ - date_published: 2024-06-19T15:09:44.904495+00:00
+
+ ## Help Center
+ - [https://support.wattpad.com](https://support.wattpad.com)
+ - date_published: 2024-07-04T10:49:11.445246+00:00
+
+ ## Wattpad - Where stories live
+ - [http://wattpad.com](http://wattpad.com)
+ - date_published: 2024-09-03T23:03:23.057014+00:00
+
+ ## Homepage
+ - [https://wattys.wattpad.com](https://wattys.wattpad.com)
+ - date_published: 2024-06-19T15:09:40.874560+00:00
+
+ ## WattPlan
+ - [https://nyserda.wattplan.com](https://nyserda.wattplan.com)
+ - date_published: 2024-07-04T13:01:27.434290+00:00
+
+ ## Watts Innovations | Industrial Drones Made in the USA
+ - [https://wattsinnovations.com](https://wattsinnovations.com)
+ - date_published: 2024-06-10T12:25:21.170276+00:00
+
+ ## Measure your website performance metrics with Wattspeed
+ - [https://wattspeed.com](https://wattspeed.com)
+ - date_published: 2024-07-08T06:04:20+00:00
+
+ ## Watts Up With That?
+ - [https://wattsupwiththat.com](https://wattsupwiththat.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Wavacity | Online Audio Editor Based on Audacity
+ - [https://wavacity.com](https://wavacity.com)
+ - date_published: 2023-07-26T06:34:47+00:00
+
+ ## Wave
+ - [https://www.wave.com](https://www.wave.com)
+ - date_published: 2024-06-05T23:15:26+00:00
+
+ ## Home
+ - [https://wave3.com](https://wave3.com)
+ - date_published: 2023-11-16T19:28:13.533348+00:00
+
+ ## Home | WAVE 3 Advertising
+ - [https://wave3advertising.com](https://wave3advertising.com)
+ - date_published: 2024-05-07T12:48:30.681751+00:00
+
  ## Wave • Sign in
  - [https://my.waveapps.com](https://my.waveapps.com)
  - date_published: 2024-06-16T06:31:07.826921+00:00
@@ -3948,84 +4028,4 @@
  ## gui2-for-exiftool
  - [http://gui2-for-exiftool.weebly.com](http://gui2-for-exiftool.weebly.com)
  - date_published: 2017-05-14T00:00:00+00:00
-
- ## Hacking4Local: Oakland
- - [https://hackingforlocal-oakland.weebly.com](https://hackingforlocal-oakland.weebly.com)
- - date_published: 2024-07-20T15:33:31.564239+00:00
-
- ## Weebly Support - US
- - [https://hc.weebly.com](https://hc.weebly.com)
- - date_published: 2018-09-24T00:00:00+00:00
-
- ## Humanities and Technology Review
- - [https://htronline.weebly.com](https://htronline.weebly.com)
- - date_published: 2024-08-19T22:05:31.761519+00:00
-
- ## INFINITI  team
- - [http://infinititeam0.weebly.com](http://infinititeam0.weebly.com)
- - date_published: 2024-06-23T20:29:19.338972+00:00
-
- ## Institute For Cinema Studies           I C S
- - [https://instituteforcinemastudies.weebly.com](https://instituteforcinemastudies.weebly.com)
- - date_published: 2024-09-06T21:32:33.298592+00:00
-
- ## Website
- - [https://jimchildress.weebly.com](https://jimchildress.weebly.com)
- - date_published: 2024-09-18T02:30:12.353449+00:00
-
- ## Joan Serrà
- - [https://joanserra.weebly.com](https://joanserra.weebly.com)
- - date_published: 2024-07-22T05:54:14.090536+00:00
-
- ## Home
- - [http://johnqnovak.weebly.com](http://johnqnovak.weebly.com)
- - date_published: 2024-06-30T07:35:33.806370+00:00
-
- ## Jonathan kleck Uncensored
- - [https://jonathankleckuncensored.weebly.com](https://jonathankleckuncensored.weebly.com)
- - date_published: 2024-07-03T08:28:21.567830+00:00
-
- ## JOSEPH CHRISTOPHER E. MESSOU
- - [https://josephcmessou.weebly.com](https://josephcmessou.weebly.com)
- - date_published: 2024-06-22T07:31:51.167073+00:00
-
- ## JOSHUA P. DARR
- - [https://joshuadarr.weebly.com](https://joshuadarr.weebly.com)
- - date_published: 2024-07-04T05:26:19.035664+00:00
-
- ## Yi Wu's Homepage
- - [https://jxwuyi.weebly.com](https://jxwuyi.weebly.com)
- - date_published: 2024-07-15T02:37:30.062816+00:00
-
- ## Home
- - [http://keahbrown.weebly.com](http://keahbrown.weebly.com)
- - date_published: 2024-09-19T00:59:55.753584+00:00
-
- ## Ktadd's Personal Website
- - [https://ktadd.weebly.com](https://ktadd.weebly.com)
- - date_published: 2024-07-14T12:26:56.808123+00:00
-
- ## Winds Of Fate ~ Kya Dark Lineage
- - [http://kyadarklineage.weebly.com](http://kyadarklineage.weebly.com)
- - date_published: 2024-10-24T13:16:07.198935+00:00
-
- ## LINK PLASTIC SURGERY
- - [https://linkpsth-blog.weebly.com](https://linkpsth-blog.weebly.com)
- - date_published: 2022-12-19T00:00:00+00:00
-
- ## Linus Torvalds - Home Page
- - [https://linustorvaldslinux.weebly.com](https://linustorvaldslinux.weebly.com)
- - date_published: 2023-12-01T13:52:21+00:00
-
- ## LOBOTOMY POP
- - [https://lobotomypop.weebly.com](https://lobotomypop.weebly.com)
- - date_published: 2024-06-18T22:55:02.451975+00:00
-
- ## MATTEO LOSTAGLIO
- - [https://lostaglio.weebly.com](https://lostaglio.weebly.com)
- - date_published: 2024-07-20T23:38:55.972208+00:00
-
- ## The Mall Weirdos | An American Band
- - [https://mallweirdos.weebly.com](https://mallweirdos.weebly.com)
- - date_published: 2024-05-07T13:57:51.000284+00:00
 

@@ -1,3 +1,103 @@
+ ## Graduate School
+ - [https://graduate.baylor.edu](https://graduate.baylor.edu)
+ - date_published: 2023-05-16T15:56:00+00:00
+
+ ## Great Texts
+ - [https://greattexts.honors.baylor.edu](https://greattexts.honors.baylor.edu)
+ - date_published: 2023-05-26T11:14:00+00:00
+
+ ## Graduate Student Association
+ - [https://gsa.graduate.baylor.edu](https://gsa.graduate.baylor.edu)
+ - date_published: 2024-01-23T08:01:00+00:00
+
+ ## Baylor Golden Wave Band
+ - [https://gwb.music.baylor.edu](https://gwb.music.baylor.edu)
+ - date_published: 2023-01-19T13:50:00+00:00
+
+ ## Hankamer School of Business
+ - [https://hankamer.baylor.edu](https://hankamer.baylor.edu)
+ - date_published: 2022-06-07T10:09:00+00:00
+
+ ## Baylor University
+ - [https://healthcenter.baylor.edu](https://healthcenter.baylor.edu)
+ - date_published: 2024-08-19T18:39:32.424099+00:00
+
+ ## Health Services
+ - [https://healthservices.web.baylor.edu](https://healthservices.web.baylor.edu)
+ - date_published: 2023-04-05T13:53:00+00:00
+
+ ## HelpDesk+
+ - [https://helpdeskplus.web.baylor.edu](https://helpdeskplus.web.baylor.edu)
+ - date_published: 2022-10-20T14:06:00+00:00
+
+ ## Federal Compliance & Student Consumer Information
+ - [https://heoa.web.baylor.edu](https://heoa.web.baylor.edu)
+ - date_published: 2022-09-15T16:57:00+00:00
+
+ ## Health, Human Performance, and Recreation
+ - [https://hhpr.robbins.baylor.edu](https://hhpr.robbins.baylor.edu)
+ - date_published: 2023-02-21T15:32:00+00:00
+
+ ## Commission on Historic Campus Representations
+ - [https://historiccommission.web.baylor.edu](https://historiccommission.web.baylor.edu)
+ - date_published: 2022-08-16T18:47:00+00:00
+
+ ## History Department
+ - [https://history.artsandsciences.baylor.edu](https://history.artsandsciences.baylor.edu)
+ - date_published: 2022-06-06T10:32:00+00:00
+
+ ## Heart of Texas Regional History Fair
+ - [https://historyfair.web.baylor.edu](https://historyfair.web.baylor.edu)
+ - date_published: 2023-01-13T11:21:00+00:00
+
+ ## Homecoming
+ - [https://homecoming.web.baylor.edu](https://homecoming.web.baylor.edu)
+ - date_published: 2022-02-11T13:46:00+00:00
+
+ ## Baylor University | A Nationally Ranked Christian University, Undergraduate & Graduate Research Colleges Universities Schools in Texas | Baylor University
+ - [https://home.web.baylor.edu](https://home.web.baylor.edu)
+ - date_published: 2022-12-22T14:00:00+00:00
+
+ ## Office of Academic Integrity
+ - [https://honorcode.web.baylor.edu](https://honorcode.web.baylor.edu)
+ - date_published: 2022-10-07T11:10:00+00:00
+
+ ## Honors College
+ - [https://honors.baylor.edu](https://honors.baylor.edu)
+ - date_published: 2023-05-02T16:01:00+00:00
+
+ ## Honors Residential College
+ - [https://hrc.honors.baylor.edu](https://hrc.honors.baylor.edu)
+ - date_published: 2023-04-26T09:22:00+00:00
+
+ ## Humanities Research Fellows
+ - [https://hrf.artsandsciences.baylor.edu](https://hrf.artsandsciences.baylor.edu)
+ - date_published: 2022-01-31T10:34:00+00:00
+
+ ## Human Resources
+ - [https://hr.web.baylor.edu](https://hr.web.baylor.edu)
+ - date_published: 2022-10-15T13:59:00+00:00
+
+ ## Human Sciences and Design
+ - [https://hsd.robbins.baylor.edu](https://hsd.robbins.baylor.edu)
+ - date_published: 2023-01-24T10:37:00+00:00
+
+ ## Baylor Collaborative on Hunger and Poverty
+ - [https://hungerandpoverty.web.baylor.edu](https://hungerandpoverty.web.baylor.edu)
+ - date_published: 2023-05-22T09:28:00+00:00
+
+ ## Mark & Paula Hurd Welcome Center
+ - [https://hurdcenter.web.baylor.edu](https://hurdcenter.web.baylor.edu)
+ - date_published: 2023-08-02T14:53:00+00:00
+
+ ## Internal Audit
+ - [https://ia.web.baylor.edu](https://ia.web.baylor.edu)
+ - date_published: 2022-09-20T13:51:00+00:00
+
+ ## Institutional Effectiveness
+ - [https://ie.web.baylor.edu](https://ie.web.baylor.edu)
+ - date_published: 2023-08-24T11:47:00+00:00
+
  ## The Soundings Project
  - [https://iflsoundings.web.baylor.edu](https://iflsoundings.web.baylor.edu)
  - date_published: 2022-05-25T15:56:00+00:00
@@ -3909,104 +4009,4 @@
  ## Center for Inclusion & Diversity
  - [https://diversity.caltech.edu](https://diversity.caltech.edu)
  - date_published: 2024-04-30T03:43:03.192780+00:00
-
- ## President's Diversity Council
- - [http://diversitycouncil.caltech.edu](http://diversitycouncil.caltech.edu)
- - date_published: 2024-08-11T20:50:45.720368+00:00
-
- ## Sign in - Caltech Sites
- - [http://diversity.sites.caltech.edu](http://diversity.sites.caltech.edu)
- - date_published: 2024-07-15T02:38:09.818988+00:00
-
- ## dolcit @ caltech
- - [http://dolcit.cms.caltech.edu](http://dolcit.cms.caltech.edu)
- - date_published: 2019-05-13T21:21:43+00:00
-
- ## Welcome to EAS
- - [https://eas70.divisions.caltech.edu](https://eas70.divisions.caltech.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Welcome to EAS
- - [https://eas.caltech.edu](https://eas.caltech.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Welcome
- - [https://easchairscholars.caltech.edu](https://easchairscholars.caltech.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Welcome
- - [https://easchairscholars.sites.caltech.edu](https://easchairscholars.sites.caltech.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## EAS Trailblazers
- - [https://eastrailblazers.caltech.edu](https://eastrailblazers.caltech.edu)
- - date_published: 2024-05-12T04:45:52.650561+00:00
-
- ## EAS Trailblazers
- - [https://eastrailblazers.sites.caltech.edu](https://eastrailblazers.sites.caltech.edu)
- - date_published: 2024-07-15T02:36:10.666219+00:00
-
- ## Electrical Engineering
- - [https://ee.caltech.edu](https://ee.caltech.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Electrical Engineering
- - [https://ee.divisions.caltech.edu](https://ee.divisions.caltech.edu)
- - date_published: 2024-07-15T02:35:55+00:00
-
- ## Einstein Papers Project
- - [https://einstein.caltech.edu](https://einstein.caltech.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Einstein Papers Project
- - [https://einstein.sites.caltech.edu](https://einstein.sites.caltech.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home Page
- - [https://emergencypreparedness.caltech.edu](https://emergencypreparedness.caltech.edu)
- - date_published: 2024-07-22T06:51:31.475560+00:00
-
- ## ENGenious
- - [https://engenious.caltech.edu](https://engenious.caltech.edu)
- - date_published: 2024-05-12T04:45:19.215575+00:00
-
- ## ENGenious
- - [https://engenious.sites.caltech.edu](https://engenious.sites.caltech.edu)
- - date_published: 2024-07-15T02:34:50.350411+00:00
-
- ## ENGenuity
- - [https://engenuity.caltech.edu](https://engenuity.caltech.edu)
- - date_published: 2024-05-12T04:45:12.006093+00:00
-
- ## ENGenuity
- - [https://engenuity.divisions.caltech.edu](https://engenuity.divisions.caltech.edu)
- - date_published: 2024-07-15T02:34:27+00:00
-
- ## Precision synthesis of quantum matter
- - [https://epitaxy.caltech.edu](https://epitaxy.caltech.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Precision synthesis of quantum matter
- - [https://epitaxy.sites.caltech.edu](https://epitaxy.sites.caltech.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Equity and Title IX Office
- - [https://equity.caltech.edu](https://equity.caltech.edu)
- - date_published: 2024-07-15T02:36:41.628745+00:00
-
- ## ESE
- - [https://ese.caltech.edu](https://ese.caltech.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## ESE
- - [https://ese.divisions.caltech.edu](https://ese.divisions.caltech.edu)
- - date_published: 2024-07-15T02:35:16+00:00
-
- ## Euclid
- - [https://euclid.caltech.edu](https://euclid.caltech.edu)
- - date_published: 2024-07-22T06:53:37.607059+00:00
-
- ## Caltech Events
- - [https://events.caltech.edu](https://events.caltech.edu)
- - date_published: 2024-05-02T00:00:00+00:00
 

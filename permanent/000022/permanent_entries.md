@@ -1,3 +1,11 @@
+ ## Biglietteria.ch
+ - [https://biglietteria.ch](https://biglietteria.ch)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
+ - [https://bilan.ch](https://bilan.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Einen Moment bitte, die Ausgabe wird geladen...
  - [https://epaper.bilan.ch](https://epaper.bilan.ch)
  - date_published: 2024-07-22T17:33:46.279591+00:00
@@ -4000,12 +4008,4 @@
  ## Home - Innovation by Design Challenge
  - [https://innovationbydesignchallenge.ch](https://innovationbydesignchallenge.ch)
  - date_published: 2024-05-12T07:23:51.694481+00:00
-
- ## Ideenplattform
- - [https://www.innovation-davosklosters.ch](https://www.innovation-davosklosters.ch)
- - date_published: 2024-11-21T15:50:32.036723+00:00
-
- ## Innovaud - Vaud's innovation and economic promotion agency
- - [https://www.innovaud.ch](https://www.innovaud.ch)
- - date_published: 2024-07-16T22:36:55.557012+00:00
 

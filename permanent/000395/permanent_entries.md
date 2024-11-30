@@ -1,3 +1,155 @@
+ ## मुख्य पृष्ठ - Wq/anp - Wikimedia Incubator
+ - [https://anp.wikiquote.org](https://anp.wikiquote.org)
+ - date_published: 2024-06-28T04:14:35+00:00
+
+ ## Wq/syc - Wikimedia Incubator
+ - [https://arc.wikiquote.org](https://arc.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## ويكي الاقتباس
+ - [https://ar.wikiquote.org](https://ar.wikiquote.org)
+ - date_published: 2024-06-19T16:17:35+00:00
+
+ ## الصفحة اللولا - Wq/ary - Wikimedia Incubator
+ - [https://ary.wikiquote.org](https://ary.wikiquote.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Wikiquote
+ - [https://ast.wikiquote.org](https://ast.wikiquote.org)
+ - date_published: 2024-06-09T02:35:24+00:00
+
+ ## ৱিকিউদ্ধৃতি
+ - [https://as.wikiquote.org](https://as.wikiquote.org)
+ - date_published: 2024-06-22T18:44:11+00:00
+
+ ## Wq/av - Wikimedia Incubator
+ - [https://av.wikiquote.org](https://av.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## प्रधान पन्ना - Wq/awa - Wikimedia Incubator
+ - [https://awa.wikiquote.org](https://awa.wikiquote.org)
+ - date_published: 2024-06-28T04:44:17+00:00
+
+ ## Vikisitat
+ - [https://az.wikiquote.org](https://az.wikiquote.org)
+ - date_published: 2024-06-19T16:17:36+00:00
+
+ ## Samogitian Wikiquote - Wikimedia Incubator
+ - [https://bat-smg.wikiquote.org](https://bat-smg.wikiquote.org)
+ - date_published: 2024-07-12T03:00:36.346075+00:00
+
+ ## Баш бит - Wq/ba - Wikimedia Incubator
+ - [https://ba.wikiquote.org](https://ba.wikiquote.org)
+ - date_published: 2024-06-27T22:02:51+00:00
+
+ ## Wikiquote
+ - [https://bcl.wikiquote.org](https://bcl.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## Wikiquote
+ - [https://be.wikiquote.org](https://be.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## Уикицитат
+ - [https://bg.wikiquote.org](https://bg.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## Wikipapadah
+ - [https://bjn.wikiquote.org](https://bjn.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## အဓိကလိတ်မဲ့ငါ - Wq/blk - Wikimedia Incubator
+ - [https://blk.wikiquote.org](https://blk.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikiquote
+ - [https://bm.wikiquote.org](https://bm.wikiquote.org)
+ - date_published: 2024-06-09T02:35:11+00:00
+
+ ## উইকিউক্তি
+ - [https://bn.wikiquote.org](https://bn.wikiquote.org)
+ - date_published: 2024-06-19T16:17:37+00:00
+
+ ## Tibetan Wikiquote - Wikimedia Incubator
+ - [https://bo.wikiquote.org](https://bo.wikiquote.org)
+ - date_published: 2024-07-12T02:58:38.785421+00:00
+
+ ## Bishnupriya Wikiquote - Wikimedia Incubator
+ - [https://bpy.wikiquote.org](https://bpy.wikiquote.org)
+ - date_published: 2024-07-12T04:46:05.750514+00:00
+
+ ## Wikiarroud
+ - [https://br.wikiquote.org](https://br.wikiquote.org)
+ - date_published: 2024-06-19T16:17:38+00:00
+
+ ## Wikicitati
+ - [https://bs.wikiquote.org](https://bs.wikiquote.org)
+ - date_published: 2024-06-19T16:17:38+00:00
+
+ ## Batak Mandailing Wikiquote - Wikimedia Incubator
+ - [https://btm.wikiquote.org](https://btm.wikiquote.org)
+ - date_published: 2024-09-18T03:07:28.789438+00:00
+
+ ## Buginese Wikiquote - Wikimedia Incubator
+ - [https://bug.wikiquote.org](https://bug.wikiquote.org)
+ - date_published: 2024-07-12T04:35:20.088215+00:00
+
+ ## Viquidites
+ - [https://ca.wikiquote.org](https://ca.wikiquote.org)
+ - date_published: 2024-06-22T21:36:08+00:00
+
+ ## Cebuano Wikiquote - Wikimedia Incubator
+ - [https://ceb.wikiquote.org](https://ceb.wikiquote.org)
+ - date_published: 2024-07-12T05:28:37.867275+00:00
+
+ ## Chechen Wikiquote - Wikimedia Incubator
+ - [https://ce.wikiquote.org](https://ce.wikiquote.org)
+ - date_published: 2024-07-11T22:03:07.076838+00:00
+
+ ## دەستپێک - Wq/ckb - Wikimedia Incubator
+ - [https://ckb.wikiquote.org](https://ckb.wikiquote.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikiquote
+ - [https://co.wikiquote.org](https://co.wikiquote.org)
+ - date_published: 2024-06-09T02:35:08+00:00
+
+ ## Wikicitáty
+ - [https://cs.wikiquote.org](https://cs.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Church Slavic Wikiquote - Wikimedia Incubator
+ - [https://cu.wikiquote.org](https://cu.wikiquote.org)
+ - date_published: 2024-07-12T02:36:09.052813+00:00
+
+ ## Wq/cv - Wikimedia Incubator
+ - [https://cv.wikiquote.org](https://cv.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikiquote
+ - [https://cy.wikiquote.org](https://cy.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Dagbani Wikiquote - Wikimedia Incubator
+ - [https://dag.wikiquote.org](https://dag.wikiquote.org)
+ - date_published: 2024-07-12T03:14:49.327099+00:00
+
+ ## Wikiquote
+ - [https://da.wikiquote.org](https://da.wikiquote.org)
+ - date_published: 2024-06-19T16:17:39+00:00
+
+ ## Wikiquote
+ - [https://de.wikiquote.org](https://de.wikiquote.org)
+ - date_published: 2024-06-19T16:17:40+00:00
+
+ ## Dagaare Wikiquote - Wikimedia Incubator
+ - [https://dga.wikiquote.org](https://dga.wikiquote.org)
+ - date_published: 2024-07-12T03:14:12.655263+00:00
+
+ ## Wq/diq - Wikimedia Incubator
+ - [https://diq.wikiquote.org](https://diq.wikiquote.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
  ## Divehi Wikiquote - Wikimedia Incubator
  - [https://dv.wikiquote.org](https://dv.wikiquote.org)
  - date_published: 2024-07-12T02:57:02.206670+00:00
@@ -3846,159 +3998,4 @@
  ## The Wild Hunt
  - [http://wildhunt.org](http://wildhunt.org)
  - date_published: 2024-07-02T06:11:16.686625+00:00
-
- ## National Museum of Wildlife Art | Art Collection, Jackson Hole, Wy
- - [http://www.wildlifeart.org](http://www.wildlifeart.org)
- - date_published: 2024-08-06T06:09:48.727498+00:00
-
- ## Wildlife Center of Virginia
- - [https://new.wildlifecenter.org](https://new.wildlifecenter.org)
- - date_published: 2024-08-11T12:25:34+00:00
-
- ## Attention Required! | Cloudflare
- - [https://support.wildlifecenter.org](https://support.wildlifecenter.org)
- - date_published: 2024-08-12T05:00:14.522678+00:00
-
- ## The Wildlife Center of Virginia
- - [https://wildlifecenter.org](https://wildlifecenter.org)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Wildlife Forever – Celebrating Over 35 Years of Conservation
- - [https://wildlifeforever.org](https://wildlifeforever.org)
- - date_published: 2024-10-15T02:33:21.626884+00:00
-
- ## Wildlife Science Center
- - [https://www.wildlifesciencecenter.org](https://www.wildlifesciencecenter.org)
- - date_published: 2024-09-26T18:07:10.005039+00:00
-
- ## Madagascar: stunning wildlife, landscapes, and cultural diversity
- - [http://www.wildmadagascar.org](http://www.wildmadagascar.org)
- - date_published: 2024-07-09T10:32:10.338481+00:00
-
- ## Éditions Wildproject
- - [https://wildproject.org](https://wildproject.org)
- - date_published: 2024-07-23T23:31:04.901432+00:00
-
- ## Sage Steppe Wild
- - [http://www.wild-sage.org](http://www.wild-sage.org)
- - date_published: 2024-06-30T02:33:34.122036+00:00
-
- ## Wolf and Wolfdog Rescue Sanctuary Home | Wild Spirit Wolf Sanctuary
- - [http://www.wildspiritwolfsanctuary.org](http://www.wildspiritwolfsanctuary.org)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## WIL Europe - Home
- - [https://www.wileurope.org](https://www.wileurope.org)
- - date_published: 2024-06-19T18:26:14.147829+00:00
-
- ## Willa Holland Online – Your source for all things Willa Holland
- - [http://willa-holland.org](http://willa-holland.org)
- - date_published: 2024-09-04T02:48:04.456428+00:00
-
- ## William Blum
- - [http://williamblum.org](http://williamblum.org)
- - date_published: 2024-10-29T19:18:54+00:00
-
- ## William Penn Foundation
- - [https://williampennfoundation.org](https://williampennfoundation.org)
- - date_published: 2024-10-26T18:58:30+00:00
-
- ## William Scott CBE RA (1913-1989) – British Artist
- - [http://www.williamscott.org](http://www.williamscott.org)
- - date_published: 2024-08-08T19:37:51.732462+00:00
-
- ## Willing Warriors | Home | 16013 Waterfall Road, Haymarket, VA
- - [https://willingwarriors.org](https://willingwarriors.org)
- - date_published: 2024-10-08T04:12:21.131529+00:00
-
- ## Willow Specifications - Willow
- - [https://willowprotocol.org](https://willowprotocol.org)
- - date_published: 2024-01-17T14:03:21.090496+00:00
-
- ## Attention Required! | Cloudflare
- - [https://digitalarchive.wilsoncenter.org](https://digitalarchive.wilsoncenter.org)
- - date_published: 2024-07-07T08:38:39.736789+00:00
-
- ## Online Actions
- - [https://engage.wilsoncenter.org](https://engage.wilsoncenter.org)
- - date_published: 2024-07-07T08:38:41.428385+00:00
-
- ## Mexico Elections Guide
- - [https://mexicoelections.wilsoncenter.org](https://mexicoelections.wilsoncenter.org)
- - date_published: 2024-06-26T16:30:42+00:00
-
- ## The Plastic Pipeline
- - [https://plasticpipeline.wilsoncenter.org](https://plasticpipeline.wilsoncenter.org)
- - date_published: 2024-06-26T19:20:28+00:00
-
- ## Ukraine
- - [https://ukraine.wilsoncenter.org](https://ukraine.wilsoncenter.org)
- - date_published: 2024-06-28T02:47:45+00:00
-
- ## Wilson Center
- - [https://wilsoncenter.org](https://wilsoncenter.org)
- - date_published: 2024-05-08T10:07:14.672658+00:00
-
- ## Home - Wisconsin Freemasons
- - [https://wimasons.org](https://wimasons.org)
- - date_published: 2024-01-26T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Women in Machine Learning | WiML
- - [https://www.wiml.org](https://www.wiml.org)
- - date_published: 2024-10-14T19:47:38.572382+00:00
-
- ## Home - WiMLDS
- - [http://wimlds.org](http://wimlds.org)
- - date_published: 2024-06-22T12:44:01+00:00
-
- ## Women in Machine Learning | WiML
- - [http://wimlworkshop.org](http://wimlworkshop.org)
- - date_published: 2024-06-16T21:50:29.524349+00:00
-
- ## WinAsm Studio, The Assembly IDE - Free Downloads, Source Code
- - [https://winasm.org](https://winasm.org)
- - date_published: 2024-04-25T18:39:36.132778+00:00
- - tags: ['programming ide', 'assembly']
-
- ## Home
- - [https://win-builds.org](https://win-builds.org)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Home | Winchester Hospital
- - [https://www.winchesterhospital.org](https://www.winchesterhospital.org)
- - date_published: 2024-07-15T04:24:47.062315+00:00
-
- ## WINCOM'24
- - [http://www.wincom-conf.org](http://www.wincom-conf.org)
- - date_published: 2024-07-07T01:25:47.492825+00:00
-
- ## WINCVS
- - [http://www.wincvs.org](http://www.wincvs.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home
- - [https://windeurope.org](https://windeurope.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Windgate Foundation
- - [http://www.windgatefoundation.org](http://www.windgatefoundation.org)
- - date_published: 2024-06-21T22:51:37.754320+00:00
-
- ## Windhammer
- - [https://windhammer.org](https://windhammer.org)
- - date_published: 2022-08-06T14:26:58+00:00
-
- ## Window Maker: Home
- - [https://windowmaker.org](https://windowmaker.org)
- - date_published: 2023-08-05T00:00:00+00:00
-
- ## Windows 7 Sins — The case against Microsoft and proprietary software
- - [https://windows7sins.org](https://windows7sins.org)
- - date_published: 2024-07-07T06:10:54.240501+00:00
- - tags: ['windows', 'activism']
-
- ## Windows On Theory
- - [https://windowsontheory.org](https://windowsontheory.org)
- - date_published: 2024-05-07T16:15:32.578879+00:00
 

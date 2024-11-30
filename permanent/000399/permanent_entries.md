@@ -1,3 +1,159 @@
+ ## Miejskie Przedsiębiorstwo Gospodarki Komunalnej - MPGK
+ - [https://www.mpgk.jgora.pl](https://www.mpgk.jgora.pl)
+ - date_published: 2024-08-18T17:10:53.717073+00:00
+
+ ## Strona główna - MZK
+ - [https://mzk.jgora.pl](https://mzk.jgora.pl)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Sudeckie Hotele i Schroniska PTTK
+ - [https://www.pttk.jgora.pl](https://www.pttk.jgora.pl)
+ - date_published: 2024-05-17T08:53:27+00:00
+
+ ## Zielony Domek w Karpaczu – Zielony Domek Apartamenty w Karpaczu
+ - [https://www.zielony-domek.karpacz.pl](https://www.zielony-domek.karpacz.pl)
+ - date_published: 2024-08-18T04:21:00.543716+00:00
+
+ ## Strona główna | Uniwersytet Ekonomiczny w Katowicach
+ - [https://www.ue.katowice.pl](https://www.ue.katowice.pl)
+ - date_published: 2024-07-14T05:37:04.102933+00:00
+
+ ## Kołobrzeska Karta Mieszkańca
+ - [https://kkm.kolobrzeg.pl](https://kkm.kolobrzeg.pl)
+ - date_published: 2024-10-16T19:15:19.415283+00:00
+
+ ## Strona główna - Word
+ - [https://word.konin.pl](https://word.konin.pl)
+ - date_published: 2024-01-29T00:00:00+00:00
+ - tags: ['ośrodek ruchu drogowego']
+
+ ## Biuletyny Informacji Publicznej
+ - [http://bip.malopolska.pl](http://bip.malopolska.pl)
+ - date_published: 2024-05-10T10:21:22+00:00
+
+ ## Wirtualne Muzea Małopolski
+ - [https://muzea.malopolska.pl](https://muzea.malopolska.pl)
+ - date_published: 2024-06-12T06:57:42+00:00
+
+ ## PCK Kraków // Polski Czerwony Krzyż w Krakowie - Oficjalny Serwis
+ - [http://pck.malopolska.pl](http://pck.malopolska.pl)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## SDU MAŁOPOLSKA - 7. Światowy Dzień Ubogich
+ - [http://sdu.malopolska.pl](http://sdu.malopolska.pl)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Małopolska - Urząd Marszałkowski Województwa Małopolskiego » Małopolska
+ - [https://www.malopolska.pl](https://www.malopolska.pl)
+ - date_published: 2024-07-09T13:24:06.588811+00:00
+
+ ## Wrota Warmii i Mazur - Regionalny portal informacyjny - Home
+ - [https://warmia.mazury.pl](https://warmia.mazury.pl)
+ - date_published: 2024-05-29T09:57:58.809833+00:00
+
+ ## Astronomia - jedyny miesięcznik dla miłośników astronomii w Polsce
+ - [http://astronomia.media.pl](http://astronomia.media.pl)
+ - date_published: 2024-08-19T23:57:32.335673+00:00
+
+ ## Foldruk - drukarnia, poligrafia, reklama zewnętrzna,
+ - [http://www.foldruk.media.pl](http://www.foldruk.media.pl)
+ - date_published: 2024-09-02T13:53:34.745023+00:00
+
+ ## CARPATIA • Portal
+ - [http://www.carpatia.mielec.pl](http://www.carpatia.mielec.pl)
+ - date_published: 2024-08-06T22:26:46.839323+00:00
+
+ ## Strona główna - Elektrociepłownia Mielec Sp. z o.o.
+ - [https://ec.mielec.pl](https://ec.mielec.pl)
+ - date_published: 2024-07-09T16:30:47.857394+00:00
+
+ ## CSIRT MON
+ - [https://csirt-mon.wp.mil.pl](https://csirt-mon.wp.mil.pl)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Wojskowe Biuro Historyczne
+ - [http://wbh.wp.mil.pl](http://wbh.wp.mil.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Strona główna
+ - [http://www.ordynariat.wp.mil.pl](http://www.ordynariat.wp.mil.pl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Amiga – gry i porady – Serwis o komputerach i grach
+ - [https://amiga.net.pl](https://amiga.net.pl)
+ - date_published: 2024-02-06T13:38:51.132578+00:00
+ - tags: ['amiga']
+
+ ## Nintendo Switch PL - Twoje źródło informacji o grach i konsoli Nintendo
+ - [http://nintendoswitch.atthost.net.pl](http://nintendoswitch.atthost.net.pl)
+ - date_published: 2024-07-08T16:09:09.690283+00:00
+
+ ## Centrum Kształcenia Zawodowego i Ustawicznego w Zamościu
+ - [https://ckziu.net.pl](https://ckziu.net.pl)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## dominik!
+ - [http://www.dominik.net.pl](http://www.dominik.net.pl)
+ - date_published: 2023-12-18T11:13:23+00:00
+
+ ## Sterowniki, Programy, Gry i Aktualności - Download.net.pl
+ - [https://download.net.pl](https://download.net.pl)
+ - date_published: 2023-11-17T21:42:39+00:00
+ - tags: ['programs', 'game news', 'drivers', 'downloads']
+
+ ## Logowanie
+ - [https://intranet2.dystrybutor.net.pl](https://intranet2.dystrybutor.net.pl)
+ - date_published: 2024-07-12T15:22:02.107150+00:00
+
+ ## EmailLabs | Zaloguj się do serwisu
+ - [https://panel.emaillabs.net.pl](https://panel.emaillabs.net.pl)
+ - date_published: 2024-06-22T12:49:55.925890+00:00
+
+ ## Forum Żydów Polskich - Fzp.net.pl
+ - [http://fzp.net.pl](http://fzp.net.pl)
+ - date_published: 2024-08-19T17:18:44+00:00
+
+ ## Geodezja GEOMIAR Geodeta Tarnów, Żabno
+ - [http://geo-pomiar.net.pl](http://geo-pomiar.net.pl)
+ - date_published: 2019-04-09T08:54:26+00:00
+
+ ## Aktualności
+ - [http://www.parafiawojskowa.glogow.net.pl](http://www.parafiawojskowa.glogow.net.pl)
+ - date_published: 2024-08-19T21:17:34+00:00
+
+ ## Harry-Potter.net.pl - Magiczny Świat Harry'ego Pottera
+ - [http://www.harry-potter.net.pl](http://www.harry-potter.net.pl)
+ - date_published: 2024-07-12T15:11:39.482225+00:00
+ - tags: ['harry potter']
+
+ ## Portal, Jaskinia Behemota
+ - [https://arcomage.heroes.net.pl](https://arcomage.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:36+00:00
+
+ ## Portal, Jaskinia Behemota
+ - [https://clash.heroes.net.pl](https://clash.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:31+00:00
+
+ ## Crusaders of Might & Magic
+ - [https://crusaders.heroes.net.pl](https://crusaders.heroes.net.pl)
+ - date_published: 2023-08-30T23:07:01+00:00
+
+ ## Portal, Jaskinia Behemota
+ - [https://darkmessiah.heroes.net.pl](https://darkmessiah.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:29+00:00
+
+ ## O grze - Heroes I - Jaskinia Behemota
+ - [https://h1.heroes.net.pl](https://h1.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:35.642489+00:00
+
+ ## Heroes II - Jaskinia Behemota
+ - [https://h2.heroes.net.pl](https://h2.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:23.252544+00:00
+
+ ## Heroes 3 Board Game - Jaskinia Behemota
+ - [https://h3boardgame.heroes.net.pl](https://h3boardgame.heroes.net.pl)
+ - date_published: 2024-08-19T12:49:21.045560+00:00
+
  ## Heroes III - Jaskinia Behemota
  - [https://h3.heroes.net.pl](https://h3.heroes.net.pl)
  - date_published: 2024-08-19T12:49:00.038288+00:00
@@ -3951,156 +4107,4 @@ Polska 1939
  ## Dituel Sp. z o.o.
  - [http://www.dituel.pl](http://www.dituel.pl)
  - date_published: 2024-01-10T11:22:56+00:00
-
- ## Dawne Komputery i Gry
- - [https://dkig.pl](https://dkig.pl)
- - date_published: 2024-05-24T18:39:24.992311+00:00
-
- ## Zostań Dawcą szpiku
- - [https://www.dkms.pl](https://www.dkms.pl)
- - date_published: 2024-08-15T10:01:40+00:00
-
- ## Księgarnia dlabystrzakow.pl - praktyczne książki i poradniki
- - [https://dlabystrzakow.pl](https://dlabystrzakow.pl)
- - date_published: 2024-07-19T21:33:37.494990+00:00
-
- ## DlaHandlu.pl - pełny obraz handlu: rynek, konsument, trendy
- - [https://dlahandlu.pl](https://dlahandlu.pl)
- - date_published: 2024-05-11T09:35:08.902190+00:00
-
- ## Strona główna
- - [https://bezpieczenstwo.dlapilota.pl](https://bezpieczenstwo.dlapilota.pl)
- - date_published: 2024-08-11T15:19:52+00:00
-
- ## Strona główna | dlapilota.pl
- - [https://dlapilota.pl](https://dlapilota.pl)
- - date_published: 2024-02-24T10:02:28.587001+00:00
-
- ## Lotniska · Lądowiska · Airports in Poland
- - [https://lotniska.dlapilota.pl](https://lotniska.dlapilota.pl)
- - date_published: 2024-08-11T15:19:41+00:00
-
- ## – Sklep dlapilota.pl –
- - [http://sklep.dlapilota.pl](http://sklep.dlapilota.pl)
- - date_published: 2024-08-11T15:19:46.483059+00:00
-
- ## Portal studencki dlaStudenta.pl
- - [https://www.dlastudenta.pl](https://www.dlastudenta.pl)
- - date_published: 2024-07-03T11:52:55.116761+00:00
-
- ## Biuro Maklerskie - Login page
- - [https://online.dmbh.pl](https://online.dmbh.pl)
- - date_published: 2024-06-13T18:07:35+00:00
-
- ## DMS cms ::.. Content Management System
- - [http://www.dms-cms.pl](http://www.dms-cms.pl)
- - date_published: 2024-10-31T09:07:25.061702+00:00
-
- ## Demotywatory.pl
- - [https://img12.dmty.pl](https://img12.dmty.pl)
- - date_published: 2024-07-11T15:37:11.020347+00:00
-
- ## Demotywatory.pl
- - [https://img16.dmty.pl](https://img16.dmty.pl)
- - date_published: 2024-07-11T15:36:53.750033+00:00
-
- ## Demotywatory.pl
- - [https://img1.dmty.pl](https://img1.dmty.pl)
- - date_published: 2024-07-11T15:36:39.267534+00:00
-
- ## Demotywatory.pl
- - [https://img20.dmty.pl](https://img20.dmty.pl)
- - date_published: 2024-07-11T15:36:34.531949+00:00
-
- ## Demotywatory.pl
- - [https://img2.dmty.pl](https://img2.dmty.pl)
- - date_published: 2024-07-11T15:36:57.163184+00:00
-
- ## Demotywatory.pl
- - [https://img5.dmty.pl](https://img5.dmty.pl)
- - date_published: 2024-07-11T15:36:46.499033+00:00
-
- ## Portal pomocy sąsiedzkiej – Dni sąsiadów – Portal Sąsiedzki to inicjatywa stworzona z myślą o pomocy sąsiadom mieszkającym tuż obok nas, którzy często pozostają niezauważeni. Naszym celem jest wsparcie osób samotnych, starszych i schorowanych, aby każdy mógł poczuć się częścią lokalnej społeczności.
- - [http://dnisasiadow.pl](http://dnisasiadow.pl)
- - date_published: 2024-07-01T08:07:28.049274+00:00
-
- ## DNS | Krajowy Rejestr Domen
- - [https://dns.pl](https://dns.pl)
- - date_published: 2024-05-26T17:01:09.790888+00:00
-
- ## DNV.pl - When trust matters - DNV
- - [https://www.dnv.pl](https://www.dnv.pl)
- - date_published: 2024-09-04T15:25:54.545938+00:00
-
- ## .: GENERACJA.pl - Twój dostęp do Internetu (Wrocław)
- - [http://adventure.klasyka.do.pl](http://adventure.klasyka.do.pl)
- - date_published: 2024-08-11T12:56:03.204787+00:00
-
- ## dobregry - graj za darmo w przeglądarce
- - [https://www.dobregry.pl](https://www.dobregry.pl)
- - date_published: 2022-08-16T00:00:00+00:00
-
- ## Najlepsze Kasyna Online w Polsce 2023 - Dobre Kasyna
- - [https://dobrekasyna.pl](https://dobrekasyna.pl)
- - date_published: 2024-06-20T23:24:40.531505+00:00
-
- ## dobreprogramy - strona główna
- - [https://www.dobreprogramy.pl](https://www.dobreprogramy.pl)
- - date_published: 2024-06-22T14:20:22.316645+00:00
-
- ## Wnętrza, kuchnia, łazienka, aranżacje wnętrz, salon - Urzadzamy.pl
- - [https://prenumerata.dobrewnetrze.pl](https://prenumerata.dobrewnetrze.pl)
- - date_published: 2024-07-09T17:57:41.962891+00:00
-
- ## Dobrostan - #Podcast #Blog #SzkołaPodcastów o rozwoju osobistym
- - [https://dobrostanpodcast.pl](https://dobrostanpodcast.pl)
- - date_published: 2024-07-11T23:52:12.193443+00:00
-
- ## Dobry Wieczór Gorzów 2024 - DOBRY WIECZÓR GORZÓW
- - [https://dobrywieczorgorzow.pl](https://dobrywieczorgorzow.pl)
- - date_published: 2024-07-13T19:14:35.449044+00:00
-
- ## Dobrzemieszkaj.pl - projektowanie, aranżacja wnętrz, wystrój mieszkania
- - [https://www.dobrzemieszkaj.pl](https://www.dobrzemieszkaj.pl)
- - date_published: 2024-07-14T05:22:40.103610+00:00
-
- ## Doggi-Game
- - [https://www.doggi-game.pl](https://www.doggi-game.pl)
- - date_published: 2024-07-10T02:05:04.079241+00:00
-
- ## Doing Good
- - [https://doinggood.pl](https://doinggood.pl)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## dolnoslaskipakiet.pl – Blog tematyczny o finansach i inwestowaniu
- - [https://dolnoslaskipakiet.pl](https://dolnoslaskipakiet.pl)
- - date_published: 2024-06-25T11:29:37+00:00
-
- ## Biuletyn Informacji Publicznej
- - [http://bip.dolnyslask.pl](http://bip.dolnyslask.pl)
- - date_published: 2023-10-06T14:13:42+00:00
-
- ## Dolny Śląsk - oficjalny portal regionu. Poznaj dolnośląskie!
- - [https://dolnyslask.pl](https://dolnyslask.pl)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## index
- - [https://geoportal.dolnyslask.pl](https://geoportal.dolnyslask.pl)
- - date_published: 2024-03-25T03:19:18+00:00
-
- ## Konwent Przewodniczących Sejmików Województw RP - Dolnośląskie 2023 - Strona główna
- - [https://konwent-przewodniczacych.dolnyslask.pl](https://konwent-przewodniczacych.dolnyslask.pl)
- - date_published: 2024-07-17T07:46:02+00:00
-
- ## RPO WD 2014 – 2020 – Regionalny Program Operacyjny Wojewódzktwa Dolnośląskiego na lata 2014 – 2020
- - [http://rpo.dolnyslask.pl](http://rpo.dolnyslask.pl)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## DOLNY ŚLĄSK
- - [https://umwd.dolnyslask.pl](https://umwd.dolnyslask.pl)
- - date_published: 2024-05-13T03:12:45.111642+00:00
-
- ## Strona główna - WGiK
- - [http://wgik.dolnyslask.pl](http://wgik.dolnyslask.pl)
- - date_published: 2024-07-17T07:36:04.271046+00:00
 

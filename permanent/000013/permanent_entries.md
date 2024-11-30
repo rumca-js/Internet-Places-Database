@@ -1,3 +1,11 @@
+ ## Remko Tronçon's Homepage
+ - [https://el-tramo.be](https://el-tramo.be)
+ - date_published: 2023-10-25T11:58:55.730192+00:00
+
+ ## portfolio – Emile
+ - [https://emilesonneveld.be](https://emilesonneveld.be)
+ - date_published: 2024-05-09T08:46:39.185269+00:00
+
  ## Enabel - Belgian Development Agency |
  - [https://www.enabel.be](https://www.enabel.be)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -4009,12 +4017,4 @@ La LUSS est la fédération francophone des associations de patients et de proch
  ## Stéphane's Blog
  - [https://wirtel.be](https://wirtel.be)
  - date_published: 2024-06-28T20:05:28.263074+00:00
-
- ## The world beyond Linux
- - [https://worldbeyondlinux.be](https://worldbeyondlinux.be)
- - date_published: 2023-06-03T00:00:00+00:00
-
- ## Wulfila project: a small digital library dedicated to the study of the Gothic language
- - [http://www.wulfila.be](http://www.wulfila.be)
- - date_published: 2021-04-22T04:06:03+00:00
 

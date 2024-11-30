@@ -1,3 +1,11 @@
+ ## Home
+ - [https://mar.codes](https://mar.codes)
+ - date_published: 2024-06-23T14:36:46.444550+00:00
+
+ ## CSV to JSON
+ - [https://csvtojson.marvellous.codes](https://csvtojson.marvellous.codes)
+ - date_published: 2024-09-26T12:33:16.030844+00:00
+
  ## mary.codes
  - [https://mary.codes](https://mary.codes)
  - date_published: 2024-02-20T11:23:44.124105+00:00
@@ -4038,12 +4046,4 @@ syndication,XML,RDF,news ...
  ## 360 Coverage Pros | Professional Liability Insurance & Benefit Experts
  - [https://www.360coveragepros.com](https://www.360coveragepros.com)
  - date_published: 2024-05-04T07:32:23.581863+00:00
-
- ## Empowering Creators, THINK BIGGER 🔥
- - [https://360creators.com](https://360creators.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Login | Cal.com
- - [https://cal.360creators.com](https://cal.360creators.com)
- - date_published: 2024-08-08T23:25:31.131360+00:00
 

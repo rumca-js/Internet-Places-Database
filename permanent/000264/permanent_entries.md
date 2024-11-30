@@ -1,3 +1,103 @@
+ ## Human Resource Services | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://hr.nmsu.edu](https://hr.nmsu.edu)
+ - date_published: 2024-07-01T16:13:20.254040+00:00
+
+ ## Information Technology | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://ict.nmsu.edu](https://ict.nmsu.edu)
+ - date_published: 2024-07-01T16:13:29.208210+00:00
+
+ ## illiad.nmsu.edu
+ - [https://illiad.nmsu.edu](https://illiad.nmsu.edu)
+ - date_published: 2022-11-27T03:59:33+00:00
+
+ ## Innovative Media Research & Extension | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://innovativemedia.nmsu.edu](https://innovativemedia.nmsu.edu)
+ - date_published: 2024-07-01T16:12:25.424886+00:00
+
+ ## Sign in to your account
+ - [https://inside.nmsu.edu](https://inside.nmsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## IR-4 Home
+ - [https://ir4.nmsu.edu](https://ir4.nmsu.edu)
+ - date_published: 2024-07-01T16:12:23.480265+00:00
+
+ ## IRD Home
+ - [https://ird.nmsu.edu](https://ird.nmsu.edu)
+ - date_published: 2024-07-01T16:23:58.439801+00:00
+
+ ## Search Page
+ - [https://jobs.nmsu.edu](https://jobs.nmsu.edu)
+ - date_published: 2024-07-01T16:14:05.022562+00:00
+
+ ## Home
+ - [https://kb.nmsu.edu](https://kb.nmsu.edu)
+ - date_published: 2024-07-01T16:13:27.425676+00:00
+
+ ## New Mexico State University | BE BOLD. Shape the Future.
+ - [https://kind-p.nmsu.edu](https://kind-p.nmsu.edu)
+ - date_published: 2024-07-01T16:12:52.726595+00:00
+
+ ## Home
+ - [https://langling.nmsu.edu](https://langling.nmsu.edu)
+ - date_published: 2024-07-01T16:12:29.057468+00:00
+
+ ## LEADS 2025 Strategic Planning
+ - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
+ - date_published: 2024-05-07T19:47:47.251655+00:00
+
+ ## Academic Technology
+ - [https://learning.nmsu.edu](https://learning.nmsu.edu)
+ - date_published: 2024-07-01T16:13:11.052450+00:00
+
+ ## Learn | New Mexico State University
+ - [https://learn.nmsu.edu](https://learn.nmsu.edu)
+ - date_published: 2024-05-07T19:47:18.341354+00:00
+
+ ## University General Counsel (UGC) | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://legal.nmsu.edu](https://legal.nmsu.edu)
+ - date_published: 2024-07-01T16:14:59.482219+00:00
+
+ ## Library Exhibits | New Mexico State University
+ - [https://libexhibits.nmsu.edu](https://libexhibits.nmsu.edu)
+ - date_published: 2024-07-01T16:17:41.565623+00:00
+
+ ## Library | NMSU
+ - [https://lib.nmsu.edu](https://lib.nmsu.edu)
+ - date_published: 2024-05-07T19:47:42.772572+00:00
+
+ ## Library | NMSU | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://library.nmsu.edu](https://library.nmsu.edu)
+ - date_published: 2024-07-01T16:14:00.427966+00:00
+
+ ## Los Lunas Center
+ - [https://loslunassc.nmsu.edu](https://loslunassc.nmsu.edu)
+ - date_published: 2024-07-01T16:15:09.911339+00:00
+
+ ## Low Water Home
+ - [https://lowwaterplants.nmsu.edu](https://lowwaterplants.nmsu.edu)
+ - date_published: 2024-07-01T16:15:11.571955+00:00
+
+ ## Sign in to Outlook
+ - [https://mail.nmsu.edu](https://mail.nmsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## New Mexico State University
+ - [https://map.nmsu.edu](https://map.nmsu.edu)
+ - date_published: 2024-05-07T19:47:57.434600+00:00
+
+ ## Melon Patch Home
+ - [https://melonpatch.nmsu.edu](https://melonpatch.nmsu.edu)
+ - date_published: 2024-07-01T16:15:20.461738+00:00
+
+ ## NMSU: Accounts
+ - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
+ - date_published: 2024-05-07T19:47:30.973237+00:00
+
+ ## my.nmsu.edu
+ - [https://my.nmsu.edu](https://my.nmsu.edu)
+ - date_published: 2024-05-07T19:47:16.602907+00:00
+
  ## News and Media Relations | New Mexico State University - BE BOLD. Shape the Future.
  - [https://news.nmsu.edu](https://news.nmsu.edu)
  - date_published: 2024-07-01T16:14:58.181392+00:00
@@ -3901,104 +4001,4 @@
  ## CAS - Central Authentication Service Login
  - [https://internalreq.pepperdine.edu](https://internalreq.pepperdine.edu)
  - date_published: 2024-07-13T19:01:05.261959+00:00
-
- ## Undergraduate Admissions | Purdue University Fort Wayne
- - [https://apply.pfw.edu](https://apply.pfw.edu)
- - date_published: 2024-07-01T16:48:33+00:00
-
- ## Purdue University Fort Wayne - Acalog ACMS™
- - [https://catalog.pfw.edu](https://catalog.pfw.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sign-in - Purdue University Fort Wayne
- - [https://go.pfw.edu](https://go.pfw.edu)
- - date_published: 2024-07-01T17:45:32.341450+00:00
-
- ## Purdue University Fort Wayne
- - [https://pfw.edu](https://pfw.edu)
- - date_published: 2024-05-07T20:03:57.306082+00:00
-
- ## Online College for Working Adults - University of Phoenix
- - [http://phoenix.edu](http://phoenix.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home
- - [https://admissions.pitt.edu](https://admissions.pitt.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Names
- - [https://ans-names.pitt.edu](https://ans-names.pitt.edu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Kenneth P. Dietrich School of Arts & Sciences | University of Pittsburgh | University of Pittsburgh
- - [https://as.pitt.edu](https://as.pitt.edu)
- - date_published: 2024-09-14T21:47:12+00:00
-
- ## Home | Dietrich Arts & Sciences Undergraduate Studies
- - [https://asundergrad.pitt.edu](https://asundergrad.pitt.edu)
- - date_published: 2024-06-14T15:04:09.425314+00:00
-
- ## Events Calendar - University of Pittsburgh
- - [http://calendar.pitt.edu](http://calendar.pitt.edu)
- - date_published: 2024-07-01T16:59:14.281224+00:00
-
- ## University of Pittsburgh - Acalog ACMS™
- - [https://catalog.upp.pitt.edu](https://catalog.upp.pitt.edu)
- - date_published: 2024-09-14T22:33:18.496244+00:00
-
- ## Home | CONCEPT Research Lab
- - [https://conceptlab.pitt.edu](https://conceptlab.pitt.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Power of Pitt | University of Pittsburgh
- - [http://coronavirus.pitt.edu](http://coronavirus.pitt.edu)
- - date_published: 2024-07-01T16:41:11+00:00
-
- ## Home | CTSI University of Pittsburgh
- - [https://ctsi.pitt.edu](https://ctsi.pitt.edu)
- - date_published: 2024-10-16T08:25:11.932550+00:00
-
- ## ULS Digital Collections  | Digital Pitt
- - [https://digital.library.pitt.edu](https://digital.library.pitt.edu)
- - date_published: 2024-06-20T15:40:42+00:00
-
- ## Financial Aid-Home
- - [https://financialaid.pitt.edu](https://financialaid.pitt.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Find People at the University of Pittsburgh
- - [https://find.pitt.edu](https://find.pitt.edu)
- - date_published: 2024-05-07T19:53:08.948896+00:00
-
- ## Forbes and Fifth | University of Pittsburgh | University of Pittsburgh
- - [http://forbes5.pitt.edu](http://forbes5.pitt.edu)
- - date_published: 2024-09-14T22:33:32.843864+00:00
-
- ## Home | Intelligent Systems Program
- - [http://isp.pitt.edu](http://isp.pitt.edu)
- - date_published: 2024-08-07T15:51:47.182009+00:00
-
- ## Home | School of Law
- - [http://jurist.law.pitt.edu](http://jurist.law.pitt.edu)
- - date_published: 2024-06-20T03:13:09.945094+00:00
-
- ## Latin American Studies Association (LASA)
- - [https://lasa.international.pitt.edu](https://lasa.international.pitt.edu)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## myPitt | All Campuses
- - [https://my.pitt.edu](https://my.pitt.edu)
- - date_published: 2024-05-07T19:53:15.799910+00:00
-
- ## Home
- - [http://pitt.edu](http://pitt.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Pitt Magazine
- - [https://pittmag.pitt.edu](https://pittmag.pitt.edu)
- - date_published: 2024-07-01T13:31:26+00:00
-
- ## Robert Henderson Language Media Center | University of Pittsburgh
- - [https://polyglot.pitt.edu](https://polyglot.pitt.edu)
- - date_published: 2024-06-14T15:04:23.050357+00:00
 

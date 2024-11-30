@@ -1,3 +1,11 @@
+ ## Lou Plummer
+ - [https://amerpiegateway.micro.blog](https://amerpiegateway.micro.blog)
+ - date_published: 2024-06-11T23:48:23+00:00
+
+ ## Amerpie by Lou Plummer
+ - [https://amerpie.micro.blog](https://amerpie.micro.blog)
+ - date_published: 2024-08-08T11:43:19+00:00
+
  ## annie mueller
  - [https://annie.micro.blog](https://annie.micro.blog)
  - date_published: 2024-06-19T14:19:45+00:00
@@ -4034,12 +4042,4 @@ Educação
  ## A melhor plataforma de hospedagem para você e seu negócio! | HostGator
  - [https://www.hostgator.com.br](https://www.hostgator.com.br)
  - date_published: 2021-05-01T15:00:00+00:00
-
- ## Faça login na Hostinger
- - [https://auth.hostinger.com.br](https://auth.hostinger.com.br)
- - date_published: 2024-07-13T16:34:50.455996+00:00
-
- ## A Plataforma de Host Feita Para Você - Hostinger
- - [https://hostinger.com.br](https://hostinger.com.br)
- - date_published: 2024-05-11T07:49:48.244296+00:00
 

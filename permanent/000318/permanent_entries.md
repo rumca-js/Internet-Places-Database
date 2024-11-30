@@ -1,3 +1,115 @@
+ ## Home
+ - [https://www.sarrocchi.edu.it](https://www.sarrocchi.edu.it)
+ - date_published: 2024-10-13T06:51:56+00:00
+
+ ## IIS Savoia Benincasa – Ancona
+ - [https://www.savoiabenincasa.edu.it](https://www.savoiabenincasa.edu.it)
+ - date_published: 2024-10-13T07:17:19.363727+00:00
+
+ ## Istituto D'Istruzione Superiore "LUIGI DI SAVOIA" – Chieti
+ - [https://www.savoiachieti.edu.it](https://www.savoiachieti.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## Liceo Scientifico  "F. Vercelli" - Asti (AT)
+ - [https://www.scientificoasti.edu.it](https://www.scientificoasti.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.scientificoaz.edu.it](https://www.scientificoaz.edu.it)
+ - date_published: 2024-10-13T07:23:12.789347+00:00
+
+ ## Istituto di Istruzione Superiore “Maria Montessori – Leonardo da Vinci”
+ - [https://www.scuolamontessoridavinci.edu.it](https://www.scuolamontessoridavinci.edu.it)
+ - date_published: 2024-10-13T07:27:54.262622+00:00
+
+ ## Scuola Orte
+ - [https://www.scuoleorte.edu.it](https://www.scuoleorte.edu.it)
+ - date_published: 2024-10-13T07:00:28.477818+00:00
+
+ ## IIS "Paolo Borsellino e Giovanni Falcone" di Zagarolo
+ - [https://www.scuolesuperioridizagarolo.edu.it](https://www.scuolesuperioridizagarolo.edu.it)
+ - date_published: 2024-10-13T07:20:09.335387+00:00
+
+ ## Home
+ - [https://www.segatobrustolon.edu.it](https://www.segatobrustolon.edu.it)
+ - date_published: 2024-10-13T07:17:12+00:00
+
+ ## Liceo Scientifico Statale "E. G. Segrè"
+ - [https://www.segresancipriano.edu.it](https://www.segresancipriano.edu.it)
+ - date_published: 2024-10-13T06:52:04.372788+00:00
+
+ ## IIS Silvio Ceccato
+ - [https://www.silvioceccato.edu.it](https://www.silvioceccato.edu.it)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## IS Sobrero | - Casale Monferrato
+ - [https://www.sobrero.edu.it](https://www.sobrero.edu.it)
+ - date_published: 2024-10-13T07:13:47.081514+00:00
+
+ ## IIS Tecnico-Professionale "Spagna - Campani" Spoleto
+ - [https://www.tecnicoprofessionalespoleto.edu.it](https://www.tecnicoprofessionalespoleto.edu.it)
+ - date_published: 2023-09-19T20:25:27+00:00
+
+ ## Istituto Istruzione Superiore ITG-ITI – Vibo Valentia – Sito web ufficiale
+ - [https://www.tecnologicovibo.edu.it](https://www.tecnologicovibo.edu.it)
+ - date_published: 2024-10-13T06:59:49.004161+00:00
+
+ ## I.I.S.S. Statale Toniolo – Manfredonia
+ - [https://www.toniolo.edu.it](https://www.toniolo.edu.it)
+ - date_published: 2024-10-13T07:21:14+00:00
+
+ ## Istituto di Istruzione Superiore "Evangelista Torricelli" - Milano (MI)
+ - [https://www.torricellimi.edu.it](https://www.torricellimi.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## I.I.S. TRON ZANELLA MARTINI
+ - [https://www.tronzanella.edu.it](https://www.tronzanella.edu.it)
+ - date_published: 2024-10-13T07:22:01.357192+00:00
+
+ ## ITS Tullio Buzzi – Istituto Tecnico Statale
+ - [https://www.tulliobuzzi.edu.it](https://www.tulliobuzzi.edu.it)
+ - date_published: 2024-10-13T07:28:12.676982+00:00
+
+ ## Istituto Istruzione Superiore G.B. Vaccarini
+ - [https://www.vaccarinict.edu.it](https://www.vaccarinict.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## ITES "R.Valturio" – Sito dell'Istituto Tecnico Economico Statale "Roberto Valturio"
+ - [https://www.valturio.edu.it](https://www.valturio.edu.it)
+ - date_published: 2024-10-13T07:04:34.232327+00:00
+
+ ## IISS Pietro Verri di Milano - Liceo Linguistico e Tecnico Economico
+ - [https://www.verri.edu.it](https://www.verri.edu.it)
+ - date_published: 2024-09-21T00:00:00+00:00
+
+ ## I.I.S. via Copernico
+ - [https://viacopernico.edu.it](https://viacopernico.edu.it)
+ - date_published: 2024-10-13T07:09:40.334061+00:00
+
+ ## Inizio lezioni a.s. 2024/25 e accoglienza classi prime - IISS J. von Neumann - Roma
+ - [https://www.vonneumann.edu.it](https://www.vonneumann.edu.it)
+ - date_published: 2024-09-06T16:44:27+00:00
+
+ ## IIS Zaccagna Galilei
+ - [https://www.zaccagnagalilei.edu.it](https://www.zaccagnagalilei.edu.it)
+ - date_published: 2024-09-03T08:35:00+00:00
+
+ ## Home
+ - [https://www.isit100.fe.it](https://www.isit100.fe.it)
+ - date_published: 2021-04-13T23:13:59+00:00
+
+ ## Musei Civici Fiorentini | Cultura
+ - [http://museicivicifiorentini.comune.fi.it](http://museicivicifiorentini.comune.fi.it)
+ - date_published: 2024-08-19T20:45:52.489140+00:00
+
+ ## Esposizioni on-line  - Istituto e Museo di Storia della Scienza
+ - [http://brunelleschi.imss.fi.it](http://brunelleschi.imss.fi.it)
+ - date_published: 2024-05-30T11:52:47+00:00
+
+ ## Agenzia per la Cybersicurezza Nazionale - ACN
+ - [https://acn.gov.it](https://acn.gov.it)
+ - date_published: 2024-10-13T07:35:59.382407+00:00
+
  ## GlobaLeaks
  - [https://whistleblowing.acn.gov.it](https://whistleblowing.acn.gov.it)
  - date_published: 2024-10-13T07:36:01.019063+00:00
@@ -3901,116 +4013,4 @@
  ## Plausible · Web analytics
  - [https://stats.hyperbit.it](https://stats.hyperbit.it)
  - date_published: 2024-05-06T21:26:08.339683+00:00
-
- ## Home - IAB Italia - Associazione dedicata all'advertising interattivo
- - [http://www.iab.it](http://www.iab.it)
- - date_published: 2024-06-25T19:34:52.176479+00:00
-
- ## iAchieved.it – Thoughts from a Technology Leader
- - [http://dev.iachieved.it](http://dev.iachieved.it)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## IAI | Future Africa | home
- - [https://africaenergy.iai.it](https://africaenergy.iai.it)
- - date_published: 2024-05-06T15:15:36.904344+00:00
-
- ## Energy: New Horizons | home
- - [https://energy.iai.it](https://energy.iai.it)
- - date_published: 2024-05-06T15:15:35.474193+00:00
-
- ## Joint Project - Survey
- - [https://jointchecklist.iai.it](https://jointchecklist.iai.it)
- - date_published: 2024-02-15T23:10:56+00:00
-
- ## IAI Istituto Affari Internazionali
- - [https://www.iai.it](https://www.iai.it)
- - date_published: 2023-10-25T20:15:02.462616+00:00
-
- ## Home | Italian Association for Machine Learning
- - [https://history.iaml.it](https://history.iaml.it)
- - date_published: 2022-03-05T19:37:28+00:00
-
- ## IBAA – Italian Business Aviation Association
- - [https://www.ibaa.it](https://www.ibaa.it)
- - date_published: 2024-10-11T22:51:47.560470+00:00
-
- ## Libreria IBS: Libri, DVD, Blu-ray, CD, eBook, Games, eReader, Giocattoli
- - [https://www.ibs.it](https://www.ibs.it)
- - date_published: 2024-09-17T21:07:48.086006+00:00
-
- ## International Business Times Italy
- - [https://ibtimes.it](https://ibtimes.it)
- - date_published: 2024-06-30T06:57:04.000400+00:00
-
- ## iCalendario : Calendario gratis on-line
- - [https://icalendario.it](https://icalendario.it)
- - date_published: 2024-07-11T22:10:16.877838+00:00
-
- ## ICAR 2024: research and care: from...
- - [https://www.icar2024.it](https://www.icar2024.it)
- - date_published: 2024-07-03T15:35:42.231223+00:00
-
- ## Home | Agenzia ICE
- - [https://www.ice.it](https://www.ice.it)
- - date_published: 2024-08-10T23:32:42.120500+00:00
-
- ## Ötzi, l'Uomo venuto dal ghiaccio
- - [https://iceman.it](https://iceman.it)
- - date_published: 2024-03-22T10:38:43.538641+00:00
-
- ## ICONIUM Blockchain Ventures
- - [https://www.iconium.it](https://www.iconium.it)
- - date_published: 2024-06-16T04:30:14.733972+00:00
-
- ## blog.icons8.com
- - [https://blog.icons8.it](https://blog.icons8.it)
- - date_published: 2024-08-20T04:39:27.971915+00:00
-
- ## Icone, Clipart, Foto e Musica Gratis
- - [https://icons8.it](https://icons8.it)
- - date_published: 2024-05-23T16:32:58.520057+00:00
-
- ## Indico [Home]
- - [https://indico.ictp.it](https://indico.ictp.it)
- - date_published: 2024-07-13T03:07:33.500075+00:00
-
- ## New ICTP Webserver: redirect
- - [http://users.ictp.it](http://users.ictp.it)
- - date_published: 2015-11-02T17:25:10+00:00
-
- ## Home | ICTP
- - [https://www.ictp.it](https://www.ictp.it)
- - date_published: 2024-06-30T08:20:10+00:00
-
- ## I-Days Milano - Homepage
- - [https://idays.it](https://idays.it)
- - date_published: 2024-05-13T03:41:27.821804+00:00
-
- ## idealo – il tuo comparatore prezzi
- - [https://www.idealo.it](https://www.idealo.it)
- - date_published: 2024-07-09T07:54:02.573697+00:00
-
- ## Istituto Europeo di Design
- - [https://www.ied.it](https://www.ied.it)
- - date_published: 2024-07-17T11:14:24.375947+00:00
-
- ## IESS Liceo Europeo a Reggio Emilia | Più del solito liceo
- - [https://www.iess.it](https://www.iess.it)
- - date_published: 2024-10-13T07:14:57.170076+00:00
-
- ## iFOSS – iFOSS
- - [https://www.ifoss.it](https://www.ifoss.it)
- - date_published: 2024-06-23T20:48:43.303053+00:00
-
- ## I Giochi dei Grandi | Giochi da tavolo
- - [http://www.igiochideigrandi.it](http://www.igiochideigrandi.it)
- - date_published: 2024-07-20T07:25:51.727005+00:00
-
- ## igus | cuscinetti, guide lineari, catene portacavi e cavi
- - [https://www.igus.it](https://www.igus.it)
- - date_published: 2024-08-06T23:11:58.773622+00:00
-
- ## Istituto Istruzione Superiore "Abramo Lincoln"
- - [https://www.iisabramolincolnenna.it](https://www.iisabramolincolnenna.it)
- - date_published: 2024-09-13T00:00:00+00:00
 

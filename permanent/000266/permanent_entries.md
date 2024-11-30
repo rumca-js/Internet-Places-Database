@@ -1,3 +1,103 @@
+ ## Home | Learning Centers
+ - [https://learningcenters.rutgers.edu](https://learningcenters.rutgers.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home | Rutgers University Libraries
+ - [https://libraries.rutgers.edu](https://libraries.rutgers.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Rutgers Law Library | Rutgers Law
+ - [https://library.law.rutgers.edu](https://library.law.rutgers.edu)
+ - date_published: 2024-07-14T22:42:21+00:00
+
+ ## Continuing Education | Rutgers University
+ - [https://lifelonglearning.rutgers.edu](https://lifelonglearning.rutgers.edu)
+ - date_published: 2024-05-07T20:22:39.206090+00:00
+
+ ## Welcome to Division of Life Sciences | Rutgers University
+ - [https://lifesci.rutgers.edu](https://lifesci.rutgers.edu)
+ - date_published: 2024-05-07T20:09:16.698121+00:00
+
+ ## Living Labs at Rutgers
+ - [https://livinglabs.rutgers.edu](https://livinglabs.rutgers.edu)
+ - date_published: 2019-09-09T20:49:10+00:00
+
+ ## Logging into the proxy (Rutgers University Libraries)
+ - [https://login.proxy.libraries.rutgers.edu](https://login.proxy.libraries.rutgers.edu)
+ - date_published: 2024-05-07T20:15:29.625932+00:00
+
+ ## Mechanical and Aerospace Engineering Home | Mechanical and Aerospace Engineering
+ - [https://mae.rutgers.edu](https://mae.rutgers.edu)
+ - date_published: 2024-08-13T21:21:52+00:00
+
+ ## Shibboleth Service - Loading Session Information
+ - [http://mail.scarletmail.rutgers.edu](http://mail.scarletmail.rutgers.edu)
+ - date_published: 2024-05-07T20:22:29.393774+00:00
+
+ ## Office of Development and Alumni Engagement at Rutgers SEBS and NJAES
+ - [https://makeagift.rutgers.edu](https://makeagift.rutgers.edu)
+ - date_published: 2024-05-16T20:23:12+00:00
+
+ ## Rutgers University Map
+ - [https://maps.rutgers.edu](https://maps.rutgers.edu)
+ - date_published: 2024-05-07T20:22:47.367569+00:00
+
+ ## Welcome to the Department of Mathematics
+ - [https://math.rutgers.edu](https://math.rutgers.edu)
+ - date_published: 2024-05-07T20:09:53.962842+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.its.rutgers.edu](https://matomo.its.rutgers.edu)
+ - date_published: 2024-07-01T18:31:22.946287+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.rutgers.edu](https://matomo.rutgers.edu)
+ - date_published: 2024-07-01T18:30:56.437372+00:00
+
+ ## Department of Molecular Biology and Biochemistry
+ - [https://mbb.rutgers.edu](https://mbb.rutgers.edu)
+ - date_published: 2024-07-01T18:42:34+00:00
+
+ ## Materials Science and Engineering Home | Materials Science and Engineering
+ - [https://mse.rutgers.edu](https://mse.rutgers.edu)
+ - date_published: 2024-06-11T21:05:20+00:00
+
+ ## Rutgers MyRun |
+ - [https://myrun.newark.rutgers.edu](https://myrun.newark.rutgers.edu)
+ - date_published: 2024-05-12T04:30:23.932685+00:00
+
+ ## myRutgers Portal
+ - [https://my.rutgers.edu](https://my.rutgers.edu)
+ - date_published: 2024-05-07T20:09:44.032991+00:00
+
+ ## Homepage | Rutgers myTech@Newark|Rutgers University
+ - [https://mytech.newark.rutgers.edu](https://mytech.newark.rutgers.edu)
+ - date_published: 2024-07-14T23:44:00.342551+00:00
+
+ ## Home
+ - [https://nbdn.rutgers.edu](https://nbdn.rutgers.edu)
+ - date_published: 2024-06-20T11:43:48+00:00
+
+ ## Rutgers, Office Of The Registrar - New Brunswick
+ - [http://nbregistrar.rutgers.edu](http://nbregistrar.rutgers.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home
+ - [https://nb.rutgers.edu](https://nb.rutgers.edu)
+ - date_published: 2024-05-07T20:10:05.549071+00:00
+
+ ## SASN Home
+ - [https://ncas.rutgers.edu](https://ncas.rutgers.edu)
+ - date_published: 2024-05-07T20:10:01.142648+00:00
+
+ ## Homepage | Rutgers myTech@Newark|Rutgers University
+ - [http://ncs.newark.rutgers.edu](http://ncs.newark.rutgers.edu)
+ - date_published: 2024-07-01T18:41:40.441915+00:00
+
+ ## Rutgers Newark
+ - [https://newark.rutgers.edu](https://newark.rutgers.edu)
+ - date_published: 2024-05-12T04:30:31.334272+00:00
+
  ## Home
  - [https://newbrunswick.rutgers.edu](https://newbrunswick.rutgers.edu)
  - date_published: 2024-05-07T20:08:39.855461+00:00
@@ -3911,108 +4011,4 @@
  ## Newhouse School at Syracuse University
  - [http://newhouse.syr.edu](http://newhouse.syr.edu)
  - date_published: 2024-07-01T07:26:43.125493+00:00
-
- ## Home
- - [https://news.syr.edu](https://news.syr.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Center for Autism Research in Electrophysiology (CARE) Lab - CARE Lab – Syracuse University
- - [https://nrusso.expressions.syr.edu](https://nrusso.expressions.syr.edu)
- - date_published: 2024-02-08T22:51:18.069903+00:00
-
- ## Physics
- - [http://physics.syr.edu](http://physics.syr.edu)
- - date_published: 2024-10-19T07:38:27.609675+00:00
-
- ## Office of the Registrar - Office of the Registrar – Syracuse University
- - [https://registrar.syr.edu](https://registrar.syr.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## LibGuides
- - [https://researchguides.law.syr.edu](https://researchguides.law.syr.edu)
- - date_published: 2024-10-18T22:20:17.891416+00:00
-
- ## Research Guides
- - [https://researchguides.library.syr.edu](https://researchguides.library.syr.edu)
- - date_published: 2024-10-25T19:36:26.607688+00:00
-
- ## This site is not configured
- - [https://secure.syr.edu](https://secure.syr.edu)
- - date_published: 2024-05-07T20:37:46.887087+00:00
-
- ## Home - Shaw Center – Syracuse University
- - [http://shawcenter.syr.edu](http://shawcenter.syr.edu)
- - date_published: 2024-07-01T20:50:31.999278+00:00
-
- ## Campus Status
- - [http://status.syr.edu](http://status.syr.edu)
- - date_published: 2024-07-01T20:50:09.846757+00:00
-
- ## SURFACE: the Institutional repository for Syracuse University
- - [https://surface.syr.edu](https://surface.syr.edu)
- - date_published: 2024-08-17T23:47:19.272487+00:00
-
- ## Syracuse University
- - [http://syr.edu](http://syr.edu)
- - date_published: 2024-07-01T20:50:06.916750+00:00
-
- ## Center for Teaching and Learning Excellence - Center for Teaching and Learning Excellence – Syracuse University
- - [https://teachingexcellence.syr.edu](https://teachingexcellence.syr.edu)
- - date_published: 2024-07-01T20:50:46.344361+00:00
-
- ## College of Arts & Sciences at Syracuse University
- - [https://thecollege.syr.edu](https://thecollege.syr.edu)
- - date_published: 2024-10-25T19:36:30.408753+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://www.cis.syr.edu](http://www.cis.syr.edu)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Maxwell School of Citizenship and Public Affairs
- - [https://www.maxwell.syr.edu](https://www.maxwell.syr.edu)
- - date_published: 2024-10-21T16:53:35.783405+00:00
-
- ## Welcome - Office of Academic Affairs – Syracuse University
- - [https://academicaffairs.syracuse.edu](https://academicaffairs.syracuse.edu)
- - date_published: 2024-05-07T20:37:49.509620+00:00
-
- ## Calendar Home
- - [https://calendar.syracuse.edu](https://calendar.syracuse.edu)
- - date_published: 2018-11-26T21:54:15+00:00
-
- ## Syracuse University - Acalog ACMS™
- - [https://courses.syracuse.edu](https://courses.syracuse.edu)
- - date_published: 2024-07-01T20:49:31.595246+00:00
-
- ## MinIO Browser
- - [https://fastly.cdn.syracuse.edu](https://fastly.cdn.syracuse.edu)
- - date_published: 2024-05-07T20:37:50.641019+00:00
-
- ## IDJC | strengthening trust in media and government - IDJC – Syracuse University
- - [https://idjc.syracuse.edu](https://idjc.syracuse.edu)
- - date_published: 2024-07-04T05:26:34.177143+00:00
-
- ## Syracuse University College of Law
- - [http://law.syracuse.edu](http://law.syracuse.edu)
- - date_published: 2024-10-18T22:20:20.280956+00:00
-
- ## Syracuse University Libraries - Home
-            
-            
-                
-                - Syracuse University Libraries
- - [https://library.syracuse.edu](https://library.syracuse.edu)
- - date_published: 2024-07-01T20:49:41.366844+00:00
-
- ## Syracuse University
- - [https://syracuse.edu](https://syracuse.edu)
- - date_published: 2024-05-07T20:37:42.279013+00:00
-
- ## TAMIU Home
- - [https://www.tamiu.edu](https://www.tamiu.edu)
- - date_published: 2024-07-02T15:03:50.543840+00:00
-
- ## Home - Office of Academic and Business Performance Analytics (ABPA)
- - [https://abpa.tamu.edu](https://abpa.tamu.edu)
- - date_published: 2024-07-01T20:52:30.293010+00:00
 

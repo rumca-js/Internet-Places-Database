@@ -1,3 +1,11 @@
+ ## Selego - Tech Startup Studio - Fractional CTOs
+ - [https://selego.co](https://selego.co)
+ - date_published: 2024-10-17T15:32:34+00:00
+
+ ## Sendy - Send Newsletters 100x cheaper via Amazon SES
+ - [https://sendy.co](https://sendy.co)
+ - date_published: 2024-06-23T10:42:34.317045+00:00
+
  ## peer into the future
  - [http://www.sensorica.co](http://www.sensorica.co)
  - date_published: 2024-09-12T19:38:49.801638+00:00
@@ -4014,12 +4022,4 @@
  ## Home | Eventos Javeriana Cali
  - [https://eventos.javerianacali.edu.co](https://eventos.javerianacali.edu.co)
  - date_published: 2024-06-12T11:02:04.564915+00:00
-
- ## Sign in to your account
- - [https://forja.javerianacali.edu.co](https://forja.javerianacali.edu.co)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Inicio
- - [https://javerianacali.edu.co](https://javerianacali.edu.co)
- - date_published: 2019-12-19T13:50:00+00:00
 

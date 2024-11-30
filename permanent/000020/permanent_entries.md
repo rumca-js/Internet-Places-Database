@@ -1,3 +1,11 @@
+ ## Department of Computer Science, University of Toronto
+ - [https://cs.utoronto.ca](https://cs.utoronto.ca)
+ - date_published: 2024-06-13T18:04:54.685024+00:00
+
+ ## Home | Daniels
+ - [https://daniels.utoronto.ca](https://daniels.utoronto.ca)
+ - date_published: 2024-05-08T11:44:38.391545+00:00
+
  ## Data Sciences Institute (DSI) Home - DSI
  - [https://datasciences.utoronto.ca](https://datasciences.utoronto.ca)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -4002,12 +4010,4 @@
  ## La Sala
  - [http://www.lasalavng.cat](http://www.lasalavng.cat)
  - date_published: 2024-09-13T11:32:01+00:00
-
- ## Portada
- - [https://www.laxarxa.cat](https://www.laxarxa.cat)
- - date_published: 2024-09-17T21:14:56.904131+00:00
-
- ## Lemmy.cat - Plataforma d'agregació d'enllaços i discussió, en català
- - [https://lemmy.cat](https://lemmy.cat)
- - date_published: 2024-06-16T00:00:00+00:00
 

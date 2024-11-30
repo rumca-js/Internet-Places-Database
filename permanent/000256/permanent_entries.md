@@ -1,3 +1,104 @@
+ ## HOME | LIS.DOCTOR
+ - [https://lis.doctor](https://lis.doctor)
+ - date_published: 2024-01-19T01:54:20.473301+00:00
+
+ ## Home
+ - [https://yummy.doctor](https://yummy.doctor)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## benji
+ - [https://benji.dog](https://benji.dog)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Bones
+ - [http://bones.dog](http://bones.dog)
+ - date_published: 2022-03-28T14:54:28+00:00
+
+ ## Brian Lui's blog
+ - [https://brianlui.dog](https://brianlui.dog)
+ - date_published: 2023-11-29T15:44:45.049341+00:00
+ - tags: ['personal']
+
+ ## ChewySwap
+ - [https://chewyswap.dog](https://chewyswap.dog)
+ - date_published: 2024-09-24T21:37:58.127417+00:00
+
+ ## CogDog is Alan Levine
+ - [https://cog.dog](https://cog.dog)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Takuya Matsuyama - Homepage
+ - [https://www.craftz.dog](https://www.craftz.dog)
+ - date_published: 2024-07-02T19:02:03.918159+00:00
+
+ ## social.cryptography.dog
+ - [https://social.cryptography.dog](https://social.cryptography.dog)
+ - date_published: 2024-05-09T07:40:40.660172+00:00
+
+ ## DAMN DOG
+ - [https://damn.dog](https://damn.dog)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Dog API by kinduff
+ - [https://dogapi.dog](https://dogapi.dog)
+ - date_published: 2023-10-25T18:46:20.933530+00:00
+
+ ## Dogechain - NFTs, Games, DeFi meet Dogecoin
+ - [https://dogechain.dog](https://dogechain.dog)
+ - date_published: 2024-08-22T06:48:49+00:00
+
+ ## Mainnet Dogechain Explorer
+ - [https://explorer.dogechain.dog](https://explorer.dogechain.dog)
+ - date_published: 2024-09-24T03:44:46.573318+00:00
+
+ ## Testnet Dogechain Explorer
+ - [https://explorer-testnet.dogechain.dog](https://explorer-testnet.dogechain.dog)
+ - date_published: 2024-09-23T18:56:30.458448+00:00
+
+ ## Your Site Title Here
+ - [https://rpc01-sg.dogechain.dog](https://rpc01-sg.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc02-sg.dogechain.dog](https://rpc02-sg.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc03-sg.dogechain.dog](https://rpc03-sg.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc.dogechain.dog](https://rpc.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc-sg.dogechain.dog](https://rpc-sg.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc-testnet.dogechain.dog](https://rpc-testnet.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Your Site Title Here
+ - [https://rpc-us.dogechain.dog](https://rpc-us.dogechain.dog)
+ - date_published: 2024-05-17T12:27:44+00:00
+
+ ## Dogether chain  Explorer
+ - [https://explorer.dogether.dog](https://explorer.dogether.dog)
+ - date_published: 2024-09-24T10:52:51.311635+00:00
+
+ ## Dogether
+ - [https://www.dogether.dog](https://www.dogether.dog)
+ - date_published: 2024-04-10T09:00:36+00:00
+
+ ## Generate Excel Formulas and more using AI | Formula Dog
+ - [https://formula.dog](https://formula.dog)
+ - date_published: 2024-06-19T18:50:07.595817+00:00
+
+ ## guy with dog's site on the web
+ - [https://guywith.dog](https://guywith.dog)
+ - date_published: 2024-06-25T03:07:25+00:00
+
  ## HTTP Status Dogs API - A dog image for every HTTP Status Code
  - [https://http.dog](https://http.dog)
  - date_published: 2024-06-23T16:18:05.136997+00:00
@@ -3905,104 +4006,4 @@
  ## Graduate School
  - [https://grad.baylor.edu](https://grad.baylor.edu)
  - date_published: 2023-05-16T15:56:00+00:00
-
- ## Graduate School
- - [https://graduate.baylor.edu](https://graduate.baylor.edu)
- - date_published: 2023-05-16T15:56:00+00:00
-
- ## Great Texts
- - [https://greattexts.honors.baylor.edu](https://greattexts.honors.baylor.edu)
- - date_published: 2023-05-26T11:14:00+00:00
-
- ## Graduate Student Association
- - [https://gsa.graduate.baylor.edu](https://gsa.graduate.baylor.edu)
- - date_published: 2024-01-23T08:01:00+00:00
-
- ## Baylor Golden Wave Band
- - [https://gwb.music.baylor.edu](https://gwb.music.baylor.edu)
- - date_published: 2023-01-19T13:50:00+00:00
-
- ## Hankamer School of Business
- - [https://hankamer.baylor.edu](https://hankamer.baylor.edu)
- - date_published: 2022-06-07T10:09:00+00:00
-
- ## Baylor University
- - [https://healthcenter.baylor.edu](https://healthcenter.baylor.edu)
- - date_published: 2024-08-19T18:39:32.424099+00:00
-
- ## Health Services
- - [https://healthservices.web.baylor.edu](https://healthservices.web.baylor.edu)
- - date_published: 2023-04-05T13:53:00+00:00
-
- ## HelpDesk+
- - [https://helpdeskplus.web.baylor.edu](https://helpdeskplus.web.baylor.edu)
- - date_published: 2022-10-20T14:06:00+00:00
-
- ## Federal Compliance & Student Consumer Information
- - [https://heoa.web.baylor.edu](https://heoa.web.baylor.edu)
- - date_published: 2022-09-15T16:57:00+00:00
-
- ## Health, Human Performance, and Recreation
- - [https://hhpr.robbins.baylor.edu](https://hhpr.robbins.baylor.edu)
- - date_published: 2023-02-21T15:32:00+00:00
-
- ## Commission on Historic Campus Representations
- - [https://historiccommission.web.baylor.edu](https://historiccommission.web.baylor.edu)
- - date_published: 2022-08-16T18:47:00+00:00
-
- ## History Department
- - [https://history.artsandsciences.baylor.edu](https://history.artsandsciences.baylor.edu)
- - date_published: 2022-06-06T10:32:00+00:00
-
- ## Heart of Texas Regional History Fair
- - [https://historyfair.web.baylor.edu](https://historyfair.web.baylor.edu)
- - date_published: 2023-01-13T11:21:00+00:00
-
- ## Homecoming
- - [https://homecoming.web.baylor.edu](https://homecoming.web.baylor.edu)
- - date_published: 2022-02-11T13:46:00+00:00
-
- ## Baylor University | A Nationally Ranked Christian University, Undergraduate & Graduate Research Colleges Universities Schools in Texas | Baylor University
- - [https://home.web.baylor.edu](https://home.web.baylor.edu)
- - date_published: 2022-12-22T14:00:00+00:00
-
- ## Office of Academic Integrity
- - [https://honorcode.web.baylor.edu](https://honorcode.web.baylor.edu)
- - date_published: 2022-10-07T11:10:00+00:00
-
- ## Honors College
- - [https://honors.baylor.edu](https://honors.baylor.edu)
- - date_published: 2023-05-02T16:01:00+00:00
-
- ## Honors Residential College
- - [https://hrc.honors.baylor.edu](https://hrc.honors.baylor.edu)
- - date_published: 2023-04-26T09:22:00+00:00
-
- ## Humanities Research Fellows
- - [https://hrf.artsandsciences.baylor.edu](https://hrf.artsandsciences.baylor.edu)
- - date_published: 2022-01-31T10:34:00+00:00
-
- ## Human Resources
- - [https://hr.web.baylor.edu](https://hr.web.baylor.edu)
- - date_published: 2022-10-15T13:59:00+00:00
-
- ## Human Sciences and Design
- - [https://hsd.robbins.baylor.edu](https://hsd.robbins.baylor.edu)
- - date_published: 2023-01-24T10:37:00+00:00
-
- ## Baylor Collaborative on Hunger and Poverty
- - [https://hungerandpoverty.web.baylor.edu](https://hungerandpoverty.web.baylor.edu)
- - date_published: 2023-05-22T09:28:00+00:00
-
- ## Mark & Paula Hurd Welcome Center
- - [https://hurdcenter.web.baylor.edu](https://hurdcenter.web.baylor.edu)
- - date_published: 2023-08-02T14:53:00+00:00
-
- ## Internal Audit
- - [https://ia.web.baylor.edu](https://ia.web.baylor.edu)
- - date_published: 2022-09-20T13:51:00+00:00
-
- ## Institutional Effectiveness
- - [https://ie.web.baylor.edu](https://ie.web.baylor.edu)
- - date_published: 2023-08-24T11:47:00+00:00
 

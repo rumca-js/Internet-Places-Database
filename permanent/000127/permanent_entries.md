@@ -1,3 +1,62 @@
+ ## ITTavern.com
+ - [https://ittavern.com](https://ittavern.com)
+ - date_published: 2023-10-25T15:24:55.919091+00:00
+
+ ## ittybrief
+ - [https://www.ittybrief.com](https://www.ittybrief.com)
+ - date_published: 2024-06-19T12:25:16+00:00
+
+ ## Forums - 
+		
+		iTulip.com
+ - [http://www.itulip.com](http://www.itulip.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## iTunes
+ - [https://itunes.com](https://itunes.com)
+ - date_published: 2024-05-02T10:00:03.656468+00:00
+ - tags: ['apple']
+
+ ## Welcome to ITuziast - Bits and Bytes of Technology
+ - [https://ituziast.com](https://ituziast.com)
+ - date_published: 2023-10-25T15:24:59.977201+00:00
+
+ ## ITV Hub
+ - [https://app.10ft.itv.com](https://app.10ft.itv.com)
+ - date_published: 2024-05-24T06:02:23.257171+00:00
+
+ ## fe-assets
+ - [https://assets.fe.itv.com](https://assets.fe.itv.com)
+ - date_published: 2024-05-24T06:02:21.259881+00:00
+
+ ## --- ITV VEIASA ---
+ - [https://www.itvcita.com](https://www.itvcita.com)
+ - date_published: 2024-07-02T17:35:37.088019+00:00
+
+ ## ITviec | Top IT Jobs for You
+ - [https://itviec.com](https://itviec.com)
+ - date_published: 2024-06-24T01:37:13.522998+00:00
+
+ ## https://itwasntai.com
+ - [https://itwasntai.com](https://itwasntai.com)
+ - date_published: 2023-10-25T15:25:09.488916+00:00
+
+ ## Collection of The Current, it will never be the same .com by rafaël rozendaal, 2004
+ - [https://www.itwillneverbethesame.com](https://www.itwillneverbethesame.com)
+ - date_published: 2024-09-14T15:49:57+00:00
+
+ ## iTWire - Technology News, Technology Jobs Australia
+ - [https://itwire.com](https://itwire.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Industry
+ - [http://www.itworld.com](http://www.itworld.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Technology News for IT Professionals in Canada | IT World Canada
+ - [https://itworldcanada.com](https://itworldcanada.com)
+ - date_published: 2023-11-26T23:26:37.745369+00:00
+
  ## Solasta Dynamic Ltd - Web Solutions
  - [http://www.itxcel.com](http://www.itxcel.com)
  - date_published: 2021-06-04T11:21:24+00:00
@@ -4030,65 +4089,4 @@
  ## JAN is a featured program of Kansas City Area Youth Jazz Inc. – Jazz Artistry Now: a digital arts magazine since 2007.
  - [https://jazzartistrynow.com](https://jazzartistrynow.com)
  - date_published: 2024-05-12T05:26:53.215346+00:00
-
- ## Jazza Studios
- - [https://jazzastudios.com](https://jazzastudios.com)
- - date_published: 2024-02-16T14:18:16+00:00
- - tags: ['youtuber']
-
- ## Jamey Aebersold Jazz
- - [https://www.jazzbooks.com](https://www.jazzbooks.com)
- - date_published: 2024-07-15T06:05:55.786434+00:00
-
- ## Homepage - Jazz da Gama
- - [https://jazzdagama.com](https://jazzdagama.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## International Jazz Day | April 30, 2024
- - [https://jazzday.com](https://jazzday.com)
- - date_published: 2024-04-30T00:00:00+00:00
- - tags: ['music', 'jazz']
-
- ## Forums - 
-		
-		New Orleans Jazz &amp; Heritage Festival
- - [https://www.jazzfestforum.com](https://www.jazzfestforum.com)
- - date_published: 2024-06-19T18:05:31.621490+00:00
-
- ## Jazz Guitar Lessons - PDF methods With Audio Files Online
- - [https://www.jazz-guitar-licks.com](https://www.jazz-guitar-licks.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Applicant Tracking System For Small to Medium Sized Businesses
- - [https://info.jazzhr.com](https://info.jazzhr.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Applicant Tracking System For Small to Medium Sized Businesses
- - [https://jazzhr.com](https://jazzhr.com)
- - date_published: 2024-08-24T00:00:00+00:00
-
- ## JazzHR Marketplace
- - [https://marketplace.jazzhr.com](https://marketplace.jazzhr.com)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## The Jazz Messengers: A viewers' guide to Cowboy Bebop
- - [http://jazzmess.com](http://jazzmess.com)
- - date_published: 2024-08-14T19:47:29.698875+00:00
- - tags: ['personal']
-
- ## Live Jazz Near Poznan - Jazz Near Me
- - [https://www.jazznearyou.com](https://www.jazznearyou.com)
- - date_published: 2024-07-03T15:49:49.545070+00:00
-
- ## Improving Patients' Lives | Jazz Pharmaceuticals
- - [https://www.jazzpharma.com](https://www.jazzpharma.com)
- - date_published: 2024-06-29T21:28:16.084828+00:00
-
- ## JAZZRADIO.com - enjoy great jazz music
- - [http://www.jazzradio.com](http://www.jazzradio.com)
- - date_published: 2024-07-20T05:50:13.881465+00:00
-
- ## Bill Kirchner Jazz
- - [http://jazzsuite.com](http://jazzsuite.com)
- - date_published: 2024-02-08T17:51:17.610524+00:00
 

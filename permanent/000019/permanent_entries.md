@@ -1,3 +1,12 @@
+ ## Puzzle Master Inc - #1 Platform to Buy Puzzles Online
+ - [https://puzzlemaster.ca](https://puzzlemaster.ca)
+ - date_published: 2024-06-15T18:37:46.982243+00:00
+
+ ## Paul Khuong: some Lisp
+ - [https://pvk.ca](https://pvk.ca)
+ - date_published: 2023-10-25T09:02:45.102005+00:00
+ - tags: ['personal']
+
  ## PyCon Canada 2019
  - [http://pycon.ca](http://pycon.ca)
  - date_published: 2024-06-28T20:23:54.732633+00:00
@@ -4019,12 +4028,4 @@
  ## Centre for Quantum Information and Quantum Control
  - [http://cqiqc.physics.utoronto.ca](http://cqiqc.physics.utoronto.ca)
  - date_published: 2024-07-16T17:26:03.874284+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://cs.utoronto.ca](https://cs.utoronto.ca)
- - date_published: 2024-06-13T18:04:54.685024+00:00
-
- ## Home | Daniels
- - [https://daniels.utoronto.ca](https://daniels.utoronto.ca)
- - date_published: 2024-05-08T11:44:38.391545+00:00
 

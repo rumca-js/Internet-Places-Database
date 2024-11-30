@@ -1,3 +1,106 @@
+ ## Slidev
+ - [https://br.sli.dev](https://br.sli.dev)
+ - date_published: 2024-07-07T03:05:21.033583+00:00
+
+ ## Join the Slidev Discord Server!
+ - [https://chat.sli.dev](https://chat.sli.dev)
+ - date_published: 2024-07-03T17:20:00+00:00
+
+ ## Slidev 中文文档
+ - [https://cn.sli.dev](https://cn.sli.dev)
+ - date_published: 2024-07-07T03:05:21.669657+00:00
+
+ ## Slidev
+ - [https://de.sli.dev](https://de.sli.dev)
+ - date_published: 2024-07-07T03:05:13.692896+00:00
+
+ ## Slidev
+ - [https://el.sli.dev](https://el.sli.dev)
+ - date_published: 2024-07-07T03:05:09.669286+00:00
+
+ ## Slidev
+ - [https://es.sli.dev](https://es.sli.dev)
+ - date_published: 2024-07-07T03:05:16.922571+00:00
+
+ ## Slidev
+ - [https://fr.sli.dev](https://fr.sli.dev)
+ - date_published: 2024-07-07T03:05:19.453118+00:00
+
+ ## Slidev
+ - [https://ja.sli.dev](https://ja.sli.dev)
+ - date_published: 2024-07-07T03:05:10.740391+00:00
+
+ ## Slidev
+ - [https://ru.sli.dev](https://ru.sli.dev)
+ - date_published: 2024-07-07T03:05:15.828318+00:00
+
+ ## Slidev
+ - [https://sli.dev](https://sli.dev)
+ - date_published: 2024-05-08T09:01:19.377444+00:00
+
+ ## Slidev
+ - [https://vn.sli.dev](https://vn.sli.dev)
+ - date_published: 2024-07-07T03:05:12.337491+00:00
+
+ ## Home — Isaac Clayton
+ - [https://slightknack.dev](https://slightknack.dev)
+ - date_published: 2023-10-25T08:48:59.054260+00:00
+ - tags: ['personal']
+
+ ## Introduction - SlimeVR Docs
+ - [https://docs.slimevr.dev](https://docs.slimevr.dev)
+ - date_published: 2024-04-30T02:18:05.609761+00:00
+
+ ## SlimeVR Store
+ - [https://shop.slimevr.dev](https://shop.slimevr.dev)
+ - date_published: 2024-06-05T11:56:00.511738+00:00
+
+ ## SlimeVR Full-Body Tracker
+ - [https://slimevr.dev](https://slimevr.dev)
+ - date_published: 2023-11-26T21:42:42+00:00
+ - tags: ['virtual reality', 'hardware', 'vr']
+
+ ## Slinky - Write React apps in Scala just like ES6
+ - [https://slinky.dev](https://slinky.dev)
+ - date_published: 2024-06-20T14:02:54.380129+00:00
+
+ ## Slint Mattermost
+ - [https://chat.slint.dev](https://chat.slint.dev)
+ - date_published: 2024-04-29T04:46:35.683779+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.slint.dev](https://matomo.slint.dev)
+ - date_published: 2024-08-05T18:04:31.719286+00:00
+
+ ## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint.dev](https://slint.dev)
+ - date_published: 2023-10-25T18:42:03.965621+00:00
+
+ ## Sloth - Sloth
+ - [https://sloth.dev](https://sloth.dev)
+ - date_published: 2022-10-27T06:12:24+00:00
+
+ ## Supply-chain Levels for Software Artifacts
+ - [https://slsa.dev](https://slsa.dev)
+ - date_published: 2024-09-04T03:28:00.064317+00:00
+
+ ## SmartPy - Smart Contracts on Tezos
+ - [https://smartpy.dev](https://smartpy.dev)
+ - date_published: 2024-10-22T17:38:22.951008+00:00
+
+ ## Smart Wallet
+ - [https://smartwallet.dev](https://smartwallet.dev)
+ - date_published: 2024-09-21T23:36:05.164759+00:00
+
+ ## The Smidt Blog
+ - [https://blog.smidt.dev](https://blog.smidt.dev)
+ - date_published: 2024-11-18T14:51:31.422005+00:00
+
+ ## Scott Leggett | @smlx's blog
+ - [https://smlx.dev](https://smlx.dev)
+ - date_published: 2024-02-14T19:23:45.960903+00:00
+
  ## SmolCSS
  - [https://smolcss.dev](https://smolcss.dev)
  - date_published: 2024-04-30T00:34:56.467195+00:00
@@ -3939,104 +4042,4 @@
  ## Kontorprintere | Virksomhedsløsninger | Hjem | Brother
  - [https://www.brother.dk](https://www.brother.dk)
  - date_published: 2024-04-22T00:00:00+00:00
-
- ## Brother Symaskiner og Broderimaskiner | Endeløse muligheder
- - [https://brothersy.dk](https://brothersy.dk)
- - date_published: 2024-06-17T21:02:26.538819+00:00
-
- ## Beredskabsstyrelsen
- - [https://brs.dk](https://brs.dk)
- - date_published: 2024-04-30T02:35:21.075907+00:00
-
- ## Welcome - Bruun Rasmussen Auctioneers
- - [https://bruun-rasmussen.dk](https://bruun-rasmussen.dk)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Byrummonitor
- - [https://byrummonitor.dk](https://byrummonitor.dk)
- - date_published: 2024-04-30T02:45:20.406281+00:00
-
- ## Copenhagen Research Platform (CARP)
- - [https://carp.cachet.dk](https://carp.cachet.dk)
- - date_published: 2024-04-29T07:04:31.519362+00:00
-
- ## Kræftens Bekæmpelse  - ingen skal stå alene med kræft
- - [https://www.cancer.dk](https://www.cancer.dk)
- - date_published: 2024-10-18T21:25:56.484816+00:00
-
- ## Capterra Danmark hjælper dig med at finde den rigtige software til din virksomhed
- - [https://www.capterra.dk](https://www.capterra.dk)
- - date_published: 2024-07-20T19:26:51.549926+00:00
-
- ## Forside | Carlsbergfondet
- - [https://carlsbergfondet.dk](https://carlsbergfondet.dk)
- - date_published: 2024-05-20T13:53:36.832068+00:00
-
- ## Carl Th. Dreyer
- - [https://www.carlthdreyer.dk](https://www.carlthdreyer.dk)
- - date_published: 2024-07-02T23:12:26+00:00
-
- ## Homepage
- - [https://casinoble.dk](https://casinoble.dk)
- - date_published: 2024-06-15T21:39:59.229676+00:00
-
- ## Caso antique stoves Christiania: We are specialists in the sourcing, restoration and marketing of Scandinavian cast iron stoves.
- - [http://www.caso-ovne.dk](http://www.caso-ovne.dk)
- - date_published: 2023-08-26T06:00:27+00:00
-
- ## CBS - Copenhagen Business School
- - [http://uk.cbs.dk](http://uk.cbs.dk)
- - date_published: 2024-10-31T07:58:59.049254+00:00
-
- ## CBS - Copenhagen Business School
- - [http://www.cbs.dk](http://www.cbs.dk)
- - date_published: 2024-10-31T07:59:14.211292+00:00
-
- ## Medborgernes Menneskerettighedskommission, MMK; hjemmeside. Se videoerne.
- - [http://www.cchrinfo.dk](http://www.cchrinfo.dk)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## CDON | Ting til livet
- - [https://cdon.dk](https://cdon.dk)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## CensurfriDNS - censurfridns blog
- - [https://blog.censurfridns.dk](https://blog.censurfridns.dk)
- - date_published: 2024-10-31T07:08:17.809013+00:00
-
- ## UncensoredDNS - uncensoreddns blog
- - [https://censurfridns.dk](https://censurfridns.dk)
- - date_published: 2024-10-31T07:08:28.757710+00:00
-
- ## Center for Cybersikkerhed
- - [https://cfcs.dk](https://cfcs.dk)
- - date_published: 2024-04-30T02:40:43.063991+00:00
-
- ## Website pt. under rekonstruktion - Chakoten
- - [https://www.chakoten.dk](https://www.chakoten.dk)
- - date_published: 2024-06-21T02:37:55.972658+00:00
-
- ## redirecting
- - [https://chatcontrol.dk](https://chatcontrol.dk)
- - date_published: 2024-05-06T23:57:32.219077+00:00
-
- ## Christiania Cykler
- - [http://www.christianiabikes.dk](http://www.christianiabikes.dk)
- - date_published: 2024-09-12T17:22:48.434242+00:00
-
- ## Christiania Bryghus – Bryghus på Christiania i København
- - [https://christianiabryghus.dk](https://christianiabryghus.dk)
- - date_published: 2024-09-12T17:22:15.272237+00:00
-
- ## Christiania Folkeaktie - Christiania Share
- - [http://www.christianiafolkeaktie.dk](http://www.christianiafolkeaktie.dk)
- - date_published: 2024-09-12T17:22:11.196893+00:00
-
- ## Varer Arkiv - Christianiashop.dk
- - [http://www.christianiashop.dk](http://www.christianiashop.dk)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## The Chromophiliat
- - [https://chromophiliat.dk](https://chromophiliat.dk)
- - date_published: 2019-02-24T12:31:50+00:00
 

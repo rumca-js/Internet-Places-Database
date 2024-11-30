@@ -1,3 +1,79 @@
+ ## Home Page | Tech Pep
+ - [https://technologypep.com](https://technologypep.com)
+ - date_published: 2024-06-25T11:06:11+00:00
+
+ ## University at Buffalo Innovation - Available Technologies for Licensing
+ - [https://buffalo.technologypublisher.com](https://buffalo.technologypublisher.com)
+ - date_published: 2024-08-11T09:58:54.438442+00:00
+
+ ## Available Technologies | Office of Technology Licensing
+ - [http://puotl.technologypublisher.com](http://puotl.technologypublisher.com)
+ - date_published: 2024-10-16T05:14:38.245264+00:00
+
+ ## UF Innovate – Building business on innovation
+ - [https://ufinnovate.technologypublisher.com](https://ufinnovate.technologypublisher.com)
+ - date_published: 2024-10-16T18:31:44.167635+00:00
+
+ ## Technology Record – The best of enterprise solutions from the Microsoft partner ecosystem
+ - [https://www.technologyrecord.com](https://www.technologyrecord.com)
+ - date_published: 2024-10-17T11:24:54.431997+00:00
+
+ ## Login to Piano VX
+ - [https://auth.technologyreview.com](https://auth.technologyreview.com)
+ - date_published: 2024-09-09T22:48:47.441717+00:00
+
+ ## MIT Technology Review
+ - [https://cdn.technologyreview.com](https://cdn.technologyreview.com)
+ - date_published: 2024-09-09T22:48:26+00:00
+
+ ## Events
+ - [https://events.technologyreview.com](https://events.technologyreview.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## MIT Technology Review Media Kit
+ - [https://mediakit.technologyreview.com](https://mediakit.technologyreview.com)
+ - date_published: 2024-09-09T22:48:37.135241+00:00
+
+ ## MIT Technology Review
+ - [https://mobile.technologyreview.com](https://mobile.technologyreview.com)
+ - date_published: 2024-08-12T12:47:57+00:00
+
+ ## Redirect
+ - [https://subscriptions.technologyreview.com](https://subscriptions.technologyreview.com)
+ - date_published: 2024-09-09T22:48:30.971828+00:00
+
+ ## MIT Technology Review
+ - [https://technologyreview.com](https://technologyreview.com)
+ - date_published: 2023-10-25T09:36:02.543423+00:00
+
+ ## MIT Technology Review
+ - [https://wp.technologyreview.com](https://wp.technologyreview.com)
+ - date_published: 2024-07-16T18:18:05.988247+00:00
+
+ ## Home
+ - [https://www.technolution.com](https://www.technolution.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Technomeow: The Latest Cat Gadgets & Innovative Cat Toys Reviews
+ - [https://technomeow.com](https://technomeow.com)
+ - date_published: 2017-12-21T09:40:10+00:00
+
+ ## Phil Windley's Technometria | Substack
+ - [https://www.technometria.com](https://www.technometria.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Techno-Obscura
+ - [http://www.techno-obscura.com](http://www.techno-obscura.com)
+ - date_published: 2005-08-10T01:55:13+00:00
+
+ ## technoparkpublications
+ - [http://technoparkpublications.com](http://technoparkpublications.com)
+ - date_published: 2024-10-29T16:38:28.437960+00:00
+
+ ## テクノプロ - TECHNOPRO
+ - [https://www.technopro.com](https://www.technopro.com)
+ - date_published: 2024-08-08T23:07:45.385116+00:00
+
  ## Welcome to Technorati
  - [https://technorati.com](https://technorati.com)
  - date_published: 2024-04-28T02:14:11.805687+00:00
@@ -3962,80 +4038,4 @@
  ## Texas Student Media
  - [https://texasstudentmedia.com](https://texasstudentmedia.com)
  - date_published: 2024-08-06T07:14:28.299202+00:00
-
- ## Full Service Accounting Firm, Weslaco CPA | Gonzalez & Arrambide, Inc.
- - [https://www.texas-tax-cpa.com](https://www.texas-tax-cpa.com)
- - date_published: 2024-06-22T06:08:34.798053+00:00
-
- ## Texas Treats | Buy Custom Gift Boxes & Texas Foods Online
- - [https://texastreats.com](https://texastreats.com)
- - date_published: 2024-07-04T06:34:59.488966+00:00
-
- ## Texas Trust CU Theatre at Grand Prairie
- - [https://texastrustcutheatre.com](https://texastrustcutheatre.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Texas Tuition Promise Fund
- - [https://www.texastuitionpromisefund.com](https://www.texastuitionpromisefund.com)
- - date_published: 2024-07-12T13:47:16.763407+00:00
-
- ## TexElec
- - [https://texelec.com](https://texelec.com)
- - date_published: 2024-05-13T06:18:29.932761+00:00
-
- ## Texelsaurus
- - [https://texelsaurus.com](https://texelsaurus.com)
- - date_published: 2019-09-27T00:00:00+00:00
-
- ## Power of Prophecy
- - [https://www.texemarrs.com](https://www.texemarrs.com)
- - date_published: 2024-09-13T18:17:59+00:00
-
- ## TEXINTEL
- - [https://www.texintel.com](https://www.texintel.com)
- - date_published: 2024-09-25T16:45:28.961769+00:00
-
- ## Business the Texas Way | Texas Precious Metals
- - [http://www.texmetals.com](http://www.texmetals.com)
- - date_published: 2024-06-29T13:24:28.784728+00:00
-
- ## Homepage - Texoma FC
- - [https://www.texomafc.com](https://www.texomafc.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Texpand - Android Text Expander
- - [http://texpandapp.com](http://texpandapp.com)
- - date_published: 2022-02-02T08:26:23+00:00
-
- ## Kenner Garden Hotel Scam - Report Unpaid Work
- - [http://www.texpixad.com](http://www.texpixad.com)
- - date_published: 2024-11-15T04:21:14+00:00
-
- ## TEXSTAN | boundary layer code | Michael E. Crawford
- - [http://www.texstan.com](http://www.texstan.com)
- - date_published: 2024-09-06T20:57:13.131040+00:00
-
- ## Text Incubator | Transform online communication today
- - [https://incubator.text.com](https://incubator.text.com)
- - date_published: 2024-10-21T10:57:45.908210+00:00
-
- ## Text Platform | Chat framework for innovative teams
- - [https://platform.text.com](https://platform.text.com)
- - date_published: 2024-07-08T20:34:20.310986+00:00
-
- ## Text - AI-powered technology for customer service software
- - [https://text.com](https://text.com)
- - date_published: 2024-06-18T11:05:56.048786+00:00
-
- ## Text2Color API
- - [https://text2color.com](https://text2color.com)
- - date_published: 2024-07-14T18:30:13+00:00
-
- ## Text2Infographic
- - [https://text2infographic.com](https://text2infographic.com)
- - date_published: 2024-06-14T08:52:02.214645+00:00
-
- ## Text2LaTeX - Convert Text to LaTeX Online
- - [https://www.text2latex.com](https://www.text2latex.com)
- - date_published: 2024-11-02T16:08:14+00:00
 

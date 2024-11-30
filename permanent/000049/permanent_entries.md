@@ -1,3 +1,23 @@
+ ## 登录百度账号
+ - [https://wappass.baidu.com](https://wappass.baidu.com)
+ - date_published: 2024-07-14T04:21:03.940965+00:00
+
+ ## 百度文库 - 一站式AI内容创作&文档资料平台
+ - [https://wenku.baidu.com](https://wenku.baidu.com)
+ - date_published: 2024-05-11T09:21:35.072869+00:00
+
+ ## 百度学术 - 保持学习的态度
+ - [https://xueshu.baidu.com](https://xueshu.baidu.com)
+ - date_published: 2024-05-11T09:21:48.930151+00:00
+
+ ## 文心一言
+ - [https://yiyan.baidu.com](https://yiyan.baidu.com)
+ - date_published: 2024-07-11T15:19:11+00:00
+
+ ## 百度阅读wap首页
+ - [https://yuedu.baidu.com](https://yuedu.baidu.com)
+ - date_published: 2024-07-14T04:23:35.327464+00:00
+
  ## 百度搜索资源平台_共创共享鲜活搜索
  - [http://zhannei.baidu.com](http://zhannei.baidu.com)
  - date_published: 2024-06-29T21:55:49.945206+00:00
@@ -3984,24 +4004,4 @@
  ## Laudare
  - [https://laudare.bandcamp.com](https://laudare.bandcamp.com)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## LAU
- - [https://laufares.bandcamp.com](https://laufares.bandcamp.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Lauge & Baba Gnohm
- - [https://laugebabagnohm.bandcamp.com](https://laugebabagnohm.bandcamp.com)
- - date_published: 2024-07-01T03:39:15.975841+00:00
-
- ## Merch from LAUNDER
- - [https://launder.bandcamp.com](https://launder.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## AIDOL 爱道 (OST), by Lawrence Lek
- - [https://lawrencelek.bandcamp.com](https://lawrencelek.bandcamp.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Dreamrider, by Lazerhawk
- - [https://lazerhawk.bandcamp.com](https://lazerhawk.bandcamp.com)
- - date_published: 2023-11-13T10:27:23.152211+00:00
 

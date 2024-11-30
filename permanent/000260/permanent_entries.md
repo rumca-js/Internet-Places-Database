@@ -1,3 +1,103 @@
+ ## FLASH Archive
+ - [https://ir.lawnet.fordham.edu](https://ir.lawnet.fordham.edu)
+ - date_published: 2024-05-07T09:30:23.197658+00:00
+
+ ## School of Law | Fordham School of Law
+ - [http://law.fordham.edu](http://law.fordham.edu)
+ - date_published: 2024-06-17T11:16:21.529005+00:00
+
+ ## redirect
+ - [http://lawlib1.lawnet.fordham.edu](http://lawlib1.lawnet.fordham.edu)
+ - date_published: 2024-06-29T06:05:52.367247+00:00
+
+ ## Fordham University
+ - [https://myapps.web.fordham.edu](https://myapps.web.fordham.edu)
+ - date_published: 2024-06-24T10:01:00.071664+00:00
+
+ ## Login - CAS – Central Authentication Service
+ - [https://my.fordham.edu](https://my.fordham.edu)
+ - date_published: 2024-06-24T10:00:30.360638+00:00
+
+ ## Fordham Now
+ - [https://news.fordham.edu](https://news.fordham.edu)
+ - date_published: 2024-06-24T10:00:56.881406+00:00
+
+ ## Fordham Now
+ - [https://now.fordham.edu](https://now.fordham.edu)
+ - date_published: 2024-06-24T10:00:25.019330+00:00
+
+ ## Computer and Information Science Department | Fordham
+ - [https://www.cis.fordham.edu](https://www.cis.fordham.edu)
+ - date_published: 2024-06-17T09:37:31.773554+00:00
+
+ ## Fordham University
+ - [https://www.fordham.edu](https://www.fordham.edu)
+ - date_published: 2024-05-06T16:58:48.717846+00:00
+
+ ## Fordham University Library
+ - [https://www.library.fordham.edu](https://www.library.fordham.edu)
+ - date_published: 2024-02-26T19:45:43+00:00
+
+ ## FLC Alumni Home | Fort Lewis College | Durango, CO
+ - [https://alumni.fortlewis.edu](https://alumni.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:17.575362+00:00
+
+ ## Admission Portal
+ - [https://apply.fortlewis.edu](https://apply.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:47.890726+00:00
+
+ ## Career & Life Design Center | Fort Lewis College
+ - [https://careers.fortlewis.edu](https://careers.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:58.510274+00:00
+
+ ## Fort Lewis College - Acalog ACMS™
+ - [https://catalog.fortlewis.edu](https://catalog.fortlewis.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Admission Portal
+ - [https://connect.fortlewis.edu](https://connect.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:02.560324+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://courses.fortlewis.edu](https://courses.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:24.322311+00:00
+
+ ## Index
+ - [http://faculty.fortlewis.edu](http://faculty.fortlewis.edu)
+ - date_published: 2024-06-30T02:31:57.921031+00:00
+
+ ## Fort Lewis College in Durango, Colorado
+ - [https://fortlewis.edu](https://fortlewis.edu)
+ - date_published: 2024-05-12T05:45:25.753185+00:00
+
+ ## Fort Lewis College Foundation | Fort Lewis College | Durango, CO
+ - [https://foundation.fortlewis.edu](https://foundation.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:21.305189+00:00
+
+ ## Master's in Education Programs | Teacher Education | Fort Lewis College
+ - [https://graduate.fortlewis.edu](https://graduate.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:27.554824+00:00
+
+ ## John F. Reed Library, Fort Lewis College, Durango, CO
+ - [https://library.fortlewis.edu](https://library.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:56.264584+00:00
+
+ ## Service Discovery
+ - [https://thefort.fortlewis.edu](https://thefort.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:03.974909+00:00
+
+ ## Fort Lewis College WebOPUS
+ - [https://webopus.fortlewis.edu](https://webopus.fortlewis.edu)
+ - date_published: 2021-03-30T14:15:33+00:00
+
+ ## Division of Academic Affairs
+ - [https://academics.fresnostate.edu](https://academics.fresnostate.edu)
+ - date_published: 2024-09-15T11:08:08.141737+00:00
+
+ ## Accessibility @ Fresno State
+ - [https://accessibility.fresnostate.edu](https://accessibility.fresnostate.edu)
+ - date_published: 2024-09-15T11:07:55.006051+00:00
+
  ## Administration and Finance
  - [https://adminfinance.fresnostate.edu](https://adminfinance.fresnostate.edu)
  - date_published: 2024-09-15T11:07:53.224070+00:00
@@ -3906,104 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Accessed Denied | Centraldata | The George Washington University
  - [https://centraldata.gwu.edu](https://centraldata.gwu.edu)
  - date_published: 2024-04-30T04:41:09.324376+00:00
-
- ## Columbian College of Arts & Sciences | The George Washington University
- - [https://columbian.gwu.edu](https://columbian.gwu.edu)
- - date_published: 2024-07-20T19:30:20+00:00
-
- ## Office of Communications and Marketing | The George Washington University
- - [https://communications.gwu.edu](https://communications.gwu.edu)
- - date_published: 2024-04-30T04:40:54.097518+00:00
-
- ## Office of Ethics, Compliance & Privacy | The George Washington University
- - [https://compliance.gwu.edu](https://compliance.gwu.edu)
- - date_published: 2024-04-30T04:41:14.078758+00:00
-
- ## The George Washington University
- - [http://connect.gwu.edu](http://connect.gwu.edu)
- - date_published: 2024-07-20T15:46:07+00:00
-
- ## Department of Computer Science | School of Engineering & Applied Science | The George Washington University
- - [https://cs.engineering.gwu.edu](https://cs.engineering.gwu.edu)
- - date_published: 2024-07-21T18:09:22+00:00
-
- ## Cyber Security and Privacy Research Institute (CSPRI) | School of Engineering and Applied Science | The George Washington University
- - [https://cspri.engineering.gwu.edu](https://cspri.engineering.gwu.edu)
- - date_published: 2024-07-21T23:15:38+00:00
-
- ## Department of Computer Science | School of Engineering & Applied Science | The George Washington University
- - [https://cs.seas.gwu.edu](https://cs.seas.gwu.edu)
- - date_published: 2024-04-30T04:41:40.680681+00:00
-
- ## Cyber@GW | The George Washington University
- - [https://cyber.gwu.edu](https://cyber.gwu.edu)
- - date_published: 2024-07-21T18:05:01+00:00
-
- ## The Digital Trade and Data Governance Hub
- - [https://datagovhub.elliott.gwu.edu](https://datagovhub.elliott.gwu.edu)
- - date_published: 2024-07-21T23:38:03+00:00
-
- ## Disability Support Services | The George Washington University
- - [http://disabilitysupport.gwu.edu](http://disabilitysupport.gwu.edu)
- - date_published: 2024-07-21T20:36:05+00:00
-
- ## Co-Design of Trustworthy AI Systems | School of Engineering & Applied Science | The George Washington University
- - [https://dtais.engineering.gwu.edu](https://dtais.engineering.gwu.edu)
- - date_published: 2024-07-21T01:03:15+00:00
-
- ## Department of Electrical and Computer Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://ece.engineering.gwu.edu](https://ece.engineering.gwu.edu)
- - date_published: 2024-07-21T20:59:40+00:00
-
- ## Department of Electrical and Computer Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://ece.seas.gwu.edu](https://ece.seas.gwu.edu)
- - date_published: 2024-04-30T04:41:51.916852+00:00
-
- ## GDub Election Hub | The George Washington University
- - [https://elections.gwu.edu](https://elections.gwu.edu)
- - date_published: 2024-07-21T23:50:02+00:00
-
- ## Engineering Management & Systems Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://emse.engineering.gwu.edu](https://emse.engineering.gwu.edu)
- - date_published: 2024-07-21T13:27:39+00:00
-
- ## Engineering Management & Systems Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://emse.seas.gwu.edu](https://emse.seas.gwu.edu)
- - date_published: 2024-04-30T04:42:06.718012+00:00
-
- ## School of Engineering & Applied Science | The George Washington University
- - [https://engineering.gwu.edu](https://engineering.gwu.edu)
- - date_published: 2024-04-30T04:41:59.326202+00:00
-
- ## Explore GW | The George Washington University
- - [https://explore.gwu.edu](https://explore.gwu.edu)
- - date_published: 2024-07-21T20:25:18+00:00
-
- ## Office of Student Financial Assistance | Enrollment and the Student Experience | The George Washington University
- - [https://financialaid.gwu.edu](https://financialaid.gwu.edu)
- - date_published: 2024-07-21T22:43:40+00:00
-
- ## Giving to GW | The George Washington University
- - [https://giving.gwu.edu](https://giving.gwu.edu)
- - date_published: 2024-07-21T17:26:53+00:00
-
- ## GW Global | The George Washington University
- - [https://global.gwu.edu](https://global.gwu.edu)
- - date_published: 2024-07-21T22:48:03+00:00
-
- ## Attention Required! | Cloudflare
- - [http://go.gwu.edu](http://go.gwu.edu)
- - date_published: 2024-09-13T20:00:47.495145+00:00
-
- ## Graduate Admissions | The George Washington University
- - [https://graduate.admissions.gwu.edu](https://graduate.admissions.gwu.edu)
- - date_published: 2024-07-21T18:35:28+00:00
-
- ## GW Today | The George Washington University
- - [https://gwtoday.gwu.edu](https://gwtoday.gwu.edu)
- - date_published: 2024-01-24T17:54:22.593864+00:00
-
- ## HPCA2019
- - [http://hpca2019.seas.gwu.edu](http://hpca2019.seas.gwu.edu)
- - date_published: 2019-05-07T14:58:29+00:00
 

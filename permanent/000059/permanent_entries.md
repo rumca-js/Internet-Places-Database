@@ -1,3 +1,35 @@
+ ## HCL Version 2.1 - Phoenix
+ - [http://hcl.blogspot.com](http://hcl.blogspot.com)
+ - date_published: 2024-08-30T07:11:27+00:00
+
+ ## Health Care Renewal
+ - [https://hcrenewal.blogspot.com](https://hcrenewal.blogspot.com)
+ - date_published: 2024-09-09T16:41:43+00:00
+
+ ## In Retrospect
+ - [http://hcssh.blogspot.com](http://hcssh.blogspot.com)
+ - date_published: 2024-09-09T09:34:06+00:00
+
+ ## Lady Insignificant
+ - [http://hdsidhe.blogspot.com](http://hdsidhe.blogspot.com)
+ - date_published: 2024-03-14T08:52:59+00:00
+
+ ## Programming C++11 and SDL2
+ - [http://headerphile.blogspot.com](http://headerphile.blogspot.com)
+ - date_published: 2024-03-19T03:51:57+00:00
+
+ ## My Head Is Full of Books
+ - [https://headfullofbooks.blogspot.com](https://headfullofbooks.blogspot.com)
+ - date_published: 2024-09-17T16:12:00+00:00
+
+ ## Head Injury Theater
+ - [http://headinjurytheater.blogspot.com](http://headinjurytheater.blogspot.com)
+ - date_published: 2024-03-07T23:50:56+00:00
+
+ ## Headless Horse Archer
+ - [http://headlesshorsearcher.blogspot.com](http://headlesshorsearcher.blogspot.com)
+ - date_published: 2024-07-06T20:45:35+00:00
+
  ## Head Nurse
  - [http://head-nurse.blogspot.com](http://head-nurse.blogspot.com)
  - date_published: 2024-09-02T09:07:24+00:00
@@ -3976,36 +4008,4 @@
  ## Kristin Berkey-Abbott
  - [http://kristinberkey-abbott.blogspot.com](http://kristinberkey-abbott.blogspot.com)
  - date_published: 2024-09-05T22:28:20+00:00
-
- ## Kristin's Mishmash
- - [http://kristinmishmash.blogspot.com](http://kristinmishmash.blogspot.com)
- - date_published: 2024-02-19T11:04:31+00:00
-
- ## dulcetly...notes on a bookish life
- - [http://kristybowen.blogspot.com](http://kristybowen.blogspot.com)
- - date_published: 2024-09-05T22:27:30+00:00
-
- ## Pro-science
- - [http://kriswager.blogspot.com](http://kriswager.blogspot.com)
- - date_published: 2024-04-13T02:15:48+00:00
-
- ## KrizKreations
- - [http://kriz-kreativemindz.blogspot.com](http://kriz-kreativemindz.blogspot.com)
- - date_published: 2024-09-02T00:50:05+00:00
-
- ## Dark Future
- - [http://krokodiltears.blogspot.com](http://krokodiltears.blogspot.com)
- - date_published: 2024-09-27T13:21:59+00:00
-
- ## Krow's Kourt
- - [https://krowskourt.blogspot.com](https://krowskourt.blogspot.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Mis-Modeled Firewarrior
- - [http://kroxitau.blogspot.com](http://kroxitau.blogspot.com)
- - date_published: 2024-10-12T00:04:18+00:00
-
- ## THE HOBBY ADVENTURES OF KRUG
- - [http://krug666.blogspot.com](http://krug666.blogspot.com)
- - date_published: 2024-03-13T15:56:28+00:00
 

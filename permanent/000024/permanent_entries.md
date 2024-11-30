@@ -1,3 +1,11 @@
+ ## Apache2 Debian Default Page: It works
+ - [https://auth-switch.eresearch.unige.ch](https://auth-switch.eresearch.unige.ch)
+ - date_published: 2022-03-29T13:07:53+00:00
+
+ ## Home - Catalogue des services numériques - UNIGE
+ - [https://catalogue-si.unige.ch](https://catalogue-si.unige.ch)
+ - date_published: 2024-04-30T06:15:14.289285+00:00
+
  ## Accueil - LA DURABILITE à l'UNIGE - UNIGE
  - [https://durable.unige.ch](https://durable.unige.ch)
  - date_published: 2024-07-29T00:00:00+00:00
@@ -4004,12 +4012,4 @@
  ## FusionStore - Finastra Marketplace - Home
  - [https://www.fusionfabric.cloud](https://www.fusionfabric.cloud)
  - date_published: 2024-07-12T08:07:49.207251+00:00
-
- ## Gaming In The Cloud
- - [https://gaminginthe.cloud](https://gaminginthe.cloud)
- - date_published: 2024-08-11T14:36:34.299786+00:00
-
- ## Gavin Gamboa
- - [https://gav.cloud](https://gav.cloud)
- - date_published: 2024-09-06T00:00:00+00:00
 

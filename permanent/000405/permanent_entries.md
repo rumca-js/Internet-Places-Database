@@ -1,3 +1,155 @@
+ ## Newsroom ANA-Aeroportos de Portugal
+ - [https://en.newsroom.ana.pt](https://en.newsroom.ana.pt)
+ - date_published: 2024-10-18T23:29:22.060354+00:00
+
+ ## Antena Livre 96.7 | Notícias do Médio Tejo
+ - [https://www.antenalivre.pt](https://www.antenalivre.pt)
+ - date_published: 2024-09-05T14:02:04.045706+00:00
+
+ ## Antígona Editores Refractários
+ - [http://www.antigona.pt](http://www.antigona.pt)
+ - date_published: 2024-07-12T20:48:07.631834+00:00
+
+ ## APAN - Associação Portuguesa de Anunciantes
+ - [https://apan.pt](https://apan.pt)
+ - date_published: 2024-07-02T22:20:25.053962+00:00
+
+ ## APDSI – Associação para a Promoção e Desenvolvimento da Sociedade da Informação
+ - [http://apdsi.pt](http://apdsi.pt)
+ - date_published: 2024-06-28T22:09:38.166774+00:00
+
+ ## APEG - Associação Portuguesa de Empresas de Gás
+ - [https://www.apeg.pt](https://www.apeg.pt)
+ - date_published: 2024-09-04T02:20:52.930717+00:00
+
+ ## Main Home - Aperitivo Bar
+ - [https://aperitivofaro.pt](https://aperitivofaro.pt)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Portal APPIA
+ - [http://www.appia.pt](http://www.appia.pt)
+ - date_published: 2024-10-28T06:55:44.956141+00:00
+
+ ## Associação Portuguesa de Reconhecimento de Padrões
+ - [http://www.aprp.pt](http://www.aprp.pt)
+ - date_published: 2024-10-28T06:59:30.133110+00:00
+
+ ## Architectural Affairs
+ - [https://bookshop.architecturalaffairs.pt](https://bookshop.architecturalaffairs.pt)
+ - date_published: 2024-07-04T01:41:54.151821+00:00
+
+ ## LeYa Educação - homepage
+ - [http://www.asa.pt](http://www.asa.pt)
+ - date_published: 2024-07-12T20:49:25.619751+00:00
+
+ ## Ascendi
+ - [https://www.ascendi.pt](https://www.ascendi.pt)
+ - date_published: 2024-09-13T19:51:44.392518+00:00
+
+ ## Assírio &amp; Alvim
+ - [http://www.assirio.pt](http://www.assirio.pt)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Astronauta por um Dia
+ - [https://www.astronautaporumdia.pt](https://www.astronautaporumdia.pt)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Audi Portugal » Descubra todos os modelos
+ - [https://www.audi.pt](https://www.audi.pt)
+ - date_published: 2024-07-19T22:44:46.088198+00:00
+
+ ## Saúde da mulher e produtos de higiene feminina | AUSONIA
+ - [https://www.ausonia.pt](https://www.ausonia.pt)
+ - date_published: 2024-10-03T08:56:22+00:00
+
+ ## Tudo sobre Comércio e Desporto Motorizado
+ - [https://autogear.pt](https://autogear.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Motores – Executive Digest
+ - [https://automonitor.pt](https://automonitor.pt)
+ - date_published: 2024-09-05T14:35:40+00:00
+
+ ## Autónoma Academy | Escola de Pós Graduações da UAL
+ - [https://academy.autonoma.pt](https://academy.autonoma.pt)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Auto Soluções Mobilidade - Grupo Auto Soluções
+ - [https://autosolucoes.pt](https://autosolucoes.pt)
+ - date_published: 2024-08-27T10:14:17+00:00
+
+ ## Axians
+ - [https://www.axians.pt](https://www.axians.pt)
+ - date_published: 2024-06-28T22:09:02+00:00
+
+ ## Site BPI
+ - [https://www.bancobpi.pt](https://www.bancobpi.pt)
+ - date_published: 2024-08-18T11:28:16.217553+00:00
+
+ ## Columbus Culinary Bar
+ - [https://barcolumbus.pt](https://barcolumbus.pt)
+ - date_published: 2019-05-05T11:22:27+00:00
+
+ ## Banca para pessoas e empresas
+ - [http://www.bbva.pt](http://www.bbva.pt)
+ - date_published: 2024-10-31T12:40:28.434879+00:00
+
+ ## Beiratools – Acessórios Indústriais
+ - [http://beiratools.pt](http://beiratools.pt)
+ - date_published: 2024-09-05T14:58:34.375558+00:00
+
+ ## Bertrand Livreiros - livraria Online
+ - [http://www.bertrand.pt](http://www.bertrand.pt)
+ - date_published: 2024-07-12T20:56:23.894001+00:00
+
+ ## Big Picture Films
+ - [http://www.bigpicturefilms.pt](http://www.bigpicturefilms.pt)
+ - date_published: 2024-07-28T15:28:53.588422+00:00
+
+ ## Soluções Tecnológicas - Bild - Tech Solutions
+ - [https://www.bild.pt](https://www.bild.pt)
+ - date_published: 2024-09-05T14:02:07.666866+00:00
+
+ ## Criação de Websites e Marketing Digital | BinaryBrigade
+ - [https://binarybrigade.pt](https://binarybrigade.pt)
+ - date_published: 2024-07-09T19:53:56.677741+00:00
+
+ ## Bitdefender - Líder global em software de segurança cibernética
+ - [https://www.bitdefender.pt](https://www.bitdefender.pt)
+ - date_published: 2024-07-20T02:26:34.721276+00:00
+
+ ## Bitlogin - Homepage
+ - [https://bitlogin.pt](https://bitlogin.pt)
+ - date_published: 2024-09-05T15:05:50.893409+00:00
+
+ ## Autocarro ou viagem partilhada? A tua escolha de viagens a preços baixos. | BlaBlaCar
+ - [https://blablacar.pt](https://blablacar.pt)
+ - date_published: 2024-06-15T01:00:36.189780+00:00
+
+ ## BlaBlaCar
+ - [https://blog.blablacar.pt](https://blog.blablacar.pt)
+ - date_published: 2024-09-15T19:52:12.325554+00:00
+
+ ## Blendd® - Marketing Digital | Branding | Development
+ - [https://www.blendd.pt](https://www.blendd.pt)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## code for_  [greatness]
+ - [https://blip.pt](https://blip.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Blitz
+ - [https://blitz.pt](https://blitz.pt)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## a procura do colofão
+ - [http://12x25.blogspot.pt](http://12x25.blogspot.pt)
+ - date_published: 2024-07-04T05:42:12+00:00
+
+ ## A Ágora
+ - [http://aagora.blogspot.pt](http://aagora.blogspot.pt)
+ - date_published: 2024-07-11T18:49:57+00:00
+
  ## Poéticas ao acaso
  - [http://alico-poeticasaoacaso.blogspot.pt](http://alico-poeticasaoacaso.blogspot.pt)
  - date_published: 2024-03-19T07:37:01+00:00
@@ -3851,159 +4003,4 @@
  ## Outpost
  - [https://tablehopperghostio.outpost.pub](https://tablehopperghostio.outpost.pub)
  - date_published: 2024-06-24T05:32:37.993307+00:00
-
- ## Outpost
- - [https://thedissenter.outpost.pub](https://thedissenter.outpost.pub)
- - date_published: 2024-08-18T18:15:32.952867+00:00
-
- ## Outpost
- - [https://vallejosun.outpost.pub](https://vallejosun.outpost.pub)
- - date_published: 2024-05-06T21:29:41.580304+00:00
-
- ## Outpost
- - [https://zerodayghostio.outpost.pub](https://zerodayghostio.outpost.pub)
- - date_published: 2024-07-14T03:38:35.746553+00:00
-
- ## pkgsrc.pub
- - [https://pkgsrc.pub](https://pkgsrc.pub)
- - date_published: 2023-02-09T13:08:36+00:00
-
- ## Plaudit · Open endorsements from the academic community
- - [https://plaudit.pub](https://plaudit.pub)
- - date_published: 2024-08-19T04:58:42.082900+00:00
-
- ## Open Library Publishing Platform – Pressbooks for Ontario's Postsecondary Educators
- - [https://ecampusontario.pressbooks.pub](https://ecampusontario.pressbooks.pub)
- - date_published: 2024-07-13T11:27:29.362378+00:00
-
- ## Proof of Concept | David Hoang | Substack
- - [https://www.proofofconcept.pub](https://www.proofofconcept.pub)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Q
- - [https://qanon.pub](https://qanon.pub)
- - date_published: 2020-06-28T03:15:46+00:00
-
- ## QUAKE.PUB - QUAKE PRO LEAGUE Coverage
- - [https://qpl.quake.pub](https://qpl.quake.pub)
- - date_published: 2024-07-01T05:28:41.865332+00:00
-
- ## QUAKE PUB
- - [https://quake.pub](https://quake.pub)
- - date_published: 2024-05-02T09:43:58.126077+00:00
- - tags: ['quake']
-
- ## QUAKE.PUB - RESP LIGA
- - [https://resp.quake.pub](https://resp.quake.pub)
- - date_published: 2024-07-01T05:28:50.343262+00:00
-
- ## quarto.pub
- - [https://andypicke.quarto.pub](https://andypicke.quarto.pub)
- - date_published: 2024-06-27T15:21:10.113567+00:00
-
- ## OpenSearch
- - [https://opensearch.roundrobin.pub](https://opensearch.roundrobin.pub)
- - date_published: 2023-11-07T12:42:10+00:00
-
- ## Round Robin Publishing
- - [http://roundrobin.pub](http://roundrobin.pub)
- - date_published: 2024-08-18T16:03:40.869433+00:00
-
- ## Index
- - [https://ryansquared.pub](https://ryansquared.pub)
- - date_published: 2023-10-03T00:00:00+00:00
-
- ## Scroll Notation Frequently Asked Questions
- - [https://faq.scroll.pub](https://faq.scroll.pub)
- - date_published: 2024-07-10T15:38:59+00:00
-
- ## Launch a new website in 1 second using Scroll
- - [http://hub.scroll.pub](http://hub.scroll.pub)
- - date_published: 2024-07-07T18:44:14+00:00
-
- ## Scroll Notation
- - [https://notation.scroll.pub](https://notation.scroll.pub)
- - date_published: 2024-06-13T17:14:25+00:00
-
- ## 📜 Scroll is a Language for Bloggers
- - [https://scroll.pub](https://scroll.pub)
- - date_published: 2024-05-13T03:44:48.600507+00:00
- - tags: ['scripts', 'personal', 'programs']
-
- ## ScrollSDK
- - [https://sdk.scroll.pub](https://sdk.scroll.pub)
- - date_published: 2024-07-02T16:08:09+00:00
-
- ## Try Scroll - The extensible alternative to Markdown
- - [https://try.scroll.pub](https://try.scroll.pub)
- - date_published: 2023-10-25T22:34:29.566508+00:00
-
- ## The World Wide Scroll
- - [https://wws.scroll.pub](https://wws.scroll.pub)
- - date_published: 2024-07-04T17:45:02+00:00
-
- ## Sean's Pub
- - [https://seans.pub](https://seans.pub)
- - date_published: 2020-12-11T00:00:00+00:00
-
- ## Sean MacAvaney's Publications - smac.pub
- - [https://smac.pub](https://smac.pub)
- - date_published: 2024-05-02T12:54:47.341210+00:00
-
- ## home
- - [https://m15o.smol.pub](https://m15o.smol.pub)
- - date_published: 2024-09-06T12:47:16.342002+00:00
-
- ## Smol Pub
- - [https://smol.pub](https://smol.pub)
- - date_published: 2024-06-10T20:18:35.533667+00:00
- - tags: ['personal']
-
- ## Soapbox Docs
- - [https://docs.soapbox.pub](https://docs.soapbox.pub)
- - date_published: 2024-06-25T03:17:13+00:00
-
- ## Soapbox
- - [https://soapbox.pub](https://soapbox.pub)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Statecraft | Santi Ruiz | Substack
- - [https://statecraft.pub](https://statecraft.pub)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Welcome to OpenResty!
- - [https://p1-ofp.static.pub](https://p1-ofp.static.pub)
- - date_published: 2024-05-04T12:16:57.750375+00:00
-
- ## Welcome to OpenResty!
- - [https://p2-ofp.static.pub](https://p2-ofp.static.pub)
- - date_published: 2024-05-04T12:16:52.457903+00:00
-
- ## Welcome to OpenResty!
- - [https://p3-ofp.static.pub](https://p3-ofp.static.pub)
- - date_published: 2024-05-04T12:17:00.503639+00:00
-
- ## Welcome to OpenResty!
- - [https://p4-ofp.static.pub](https://p4-ofp.static.pub)
- - date_published: 2024-05-04T12:16:54.445974+00:00
-
- ## סטודנטים מובילים חדשנות במגזר הציבורי 10.0
- - [https://studentinnovation.pub](https://studentinnovation.pub)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Techforge Media | Technology News, Insights & Events
- - [https://techforge.pub](https://techforge.pub)
- - date_published: 2024-05-01T04:55:17.082880+00:00
-
- ## T-Shirts Starting at $16 Featuring Your Favorite TV Shows, Movies, Comics, and More | TeePublic
- - [http://tee.pub](http://tee.pub)
- - date_published: 2024-05-04T12:30:16.917617+00:00
-
- ## The Gradient
- - [https://thegradient.pub](https://thegradient.pub)
- - date_published: 2023-10-25T22:34:33.803128+00:00
-
- ## The Seeds of Science | Substack
- - [https://www.theseedsofscience.pub](https://www.theseedsofscience.pub)
- - date_published: 2023-11-01T23:07:01.330196+00:00
 

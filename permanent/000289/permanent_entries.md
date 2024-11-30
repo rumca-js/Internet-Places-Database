@@ -1,3 +1,105 @@
+ ## Florida Board of
+Speech-Language Pathology & Audiology- Licensing, Renewals & Information
+ - [https://floridasspeechaudiology.gov](https://floridasspeechaudiology.gov)
+ - date_published: 2024-07-03T14:39:57.943955+00:00
+
+ ## Sara B. Mollo, Sixth Judicial Circuit | The Public Defender’s Office
+ - [https://flpd6.gov](https://flpd6.gov)
+ - date_published: 2024-10-30T00:40:15.369018+00:00
+
+ ## Calendar for 6/15/2024 -
+    The Florida Senate
+ - [https://flsenate.gov](https://flsenate.gov)
+ - date_published: 2024-06-15T08:51:53.942946+00:00
+
+ ## The Florida Senate Page Program
+ - [https://senatepages.flsenate.gov](https://senatepages.flsenate.gov)
+ - date_published: 2024-06-15T08:52:00.777012+00:00
+
+ ## Select Authentication System
+ - [https://calendar.fnal.gov](https://calendar.fnal.gov)
+ - date_published: 2024-05-08T02:50:54.728975+00:00
+
+ ## CMS at Fermilab
+ - [https://cms.fnal.gov](https://cms.fnal.gov)
+ - date_published: 2024-07-03T15:05:40.891929+00:00
+
+ ## Select Authentication System
+ - [http://communication.fnal.gov](http://communication.fnal.gov)
+ - date_published: 2024-07-03T15:09:26.833924+00:00
+
+ ## Equity, Diversity, Inclusion and Accessibility - Diversity and Inclusion
+ - [https://diversity.fnal.gov](https://diversity.fnal.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Nature and Ecology
+ - [https://ecology.fnal.gov](https://ecology.fnal.gov)
+ - date_published: 2024-05-08T02:51:13.729403+00:00
+
+ ## Fermilab Science Education Office
+ - [https://ed.fnal.gov](https://ed.fnal.gov)
+ - date_published: 2024-05-08T02:51:06.381885+00:00
+
+ ## Public Events | Events at Fermilab
+ - [https://events.fnal.gov](https://events.fnal.gov)
+ - date_published: 2024-05-08T02:51:22.994597+00:00
+
+ ## Select Authentication System
+ - [https://fermipoint.fnal.gov](https://fermipoint.fnal.gov)
+ - date_published: 2024-07-03T15:08:24.071555+00:00
+
+ ## Fermilab | Home
+ - [https://fnal.gov](https://fnal.gov)
+ - date_published: 2024-05-08T02:50:50.106263+00:00
+
+ ## Global Services
+ - [https://get-connected.fnal.gov](https://get-connected.fnal.gov)
+ - date_published: 2024-05-08T02:51:08.676656+00:00
+
+ ## Select Authentication System
+ - [https://inside.fnal.gov](https://inside.fnal.gov)
+ - date_published: 2024-05-08T02:51:16.140544+00:00
+
+ ## Home page
+ - [https://jobs.fnal.gov](https://jobs.fnal.gov)
+ - date_published: 2024-05-08T02:50:58.573895+00:00
+
+ ## DUNE at LBNF
+ - [https://lbnf-dune.fnal.gov](https://lbnf-dune.fnal.gov)
+ - date_published: 2024-05-08T02:51:04.598375+00:00
+
+ ## Fermilab LISTSERV server
+ - [https://listserv.fnal.gov](https://listserv.fnal.gov)
+ - date_published: 2024-04-28T12:14:37+00:00
+
+ ## Outline
+ - [https://magis.fnal.gov](https://magis.fnal.gov)
+ - date_published: 2024-07-03T15:05:38.447996+00:00
+
+ ## Fermilab | Hub Page Title | Page Title
+ - [https://mod.fnal.gov](https://mod.fnal.gov)
+ - date_published: 2024-07-03T15:08:28.901641+00:00
+
+ ## Fermilab | Muon g-2
+ - [https://muon-g-2.fnal.gov](https://muon-g-2.fnal.gov)
+ - date_published: 2024-04-30T07:58:27.749786+00:00
+
+ ## Newsroom
+ - [https://news.fnal.gov](https://news.fnal.gov)
+ - date_published: 2023-10-25T19:21:48.635515+00:00
+
+ ## Error
+ - [https://pingprod.fnal.gov](https://pingprod.fnal.gov)
+ - date_published: 2024-07-03T15:06:02.333051+00:00
+
+ ## PIP-II
+ - [https://pip2.fnal.gov](https://pip2.fnal.gov)
+ - date_published: 2024-07-03T15:05:32.731398+00:00
+
+ ## Fermilab | Particle Physics Division
+ - [http://ppd.fnal.gov](http://ppd.fnal.gov)
+ - date_published: 2020-08-18T18:05:59+00:00
+
  ## Saturday Morning Physics | Fermilab's Saturday Morning Physics Program
  - [http://smp.fnal.gov](http://smp.fnal.gov)
  - date_published: 2024-07-03T15:08:35.939604+00:00
@@ -3898,105 +4000,4 @@
  ## Newspaper Navigator  | Experiments  | Work  | Library of Congress
  - [https://news-navigator.labs.loc.gov](https://news-navigator.labs.loc.gov)
  - date_published: 2024-07-18T05:20:34.732677+00:00
-
- ## Library of Congress - News and Content for Media
- - [https://newsroom.loc.gov](https://newsroom.loc.gov)
- - date_published: 2024-06-24T04:47:57.841024+00:00
-
- ## Research Appointments -
-        Library of Congress
- - [https://research-appointments.loc.gov](https://research-appointments.loc.gov)
- - date_published: 2024-06-24T04:48:02+00:00
-
- ## GovDelivery Admin » Login
- - [https://updates.loc.gov](https://updates.loc.gov)
- - date_published: 2024-08-19T03:50:31.558454+00:00
-
- ## Welcome to the Login.gov developer guide | Login.gov
- - [https://developers.login.gov](https://developers.login.gov)
- - date_published: 2024-05-10T15:15:07+00:00
-
- ## The public’s one account for government.
-   | Login.gov
- - [https://login.gov](https://login.gov)
- - date_published: 2024-03-19T18:06:07+00:00
-
- ## Welcome | Login.gov
- - [https://secure.login.gov](https://secure.login.gov)
- - date_published: 2024-06-16T09:14:31.409919+00:00
-
- ## Login.gov Status
- - [https://status.login.gov](https://status.login.gov)
- - date_published: 2024-06-16T09:14:34.864882+00:00
-
- ## Long Beach, NY
- - [https://www.longbeachny.gov](https://www.longbeachny.gov)
- - date_published: 2022-02-23T22:33:00+00:00
-
- ## Bids and RFPs | City of Los Altos Bid Management System
- - [https://bids.losaltosca.gov](https://bids.losaltosca.gov)
- - date_published: 2024-06-28T08:33:19+00:00
-
- ## Home Page | City of Los Altos California
- - [https://losaltosca.gov](https://losaltosca.gov)
- - date_published: 2024-05-06T22:29:40.762593+00:00
-
- ## La Dept. of Health
- - [http://dhh.louisiana.gov](http://dhh.louisiana.gov)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Louisiana Department of Public Safety & Corrections
- - [http://doc.louisiana.gov](http://doc.louisiana.gov)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Office of Governor Jeff Landry
- - [https://gov.louisiana.gov](https://gov.louisiana.gov)
- - date_published: 2024-01-09T03:31:02.549223+00:00
-
- ## Home Page - Louisiana Department of Revenue
- - [http://revenue.louisiana.gov](http://revenue.louisiana.gov)
- - date_published: 2024-08-18T05:01:15.185714+00:00
-
- ## Louisiana State Civil Service
- - [http://www.civilservice.louisiana.gov](http://www.civilservice.louisiana.gov)
- - date_published: 2024-08-18T05:01:33.924677+00:00
-
- ## Louisiana Department of Environmental Quality
- - [http://www.deq.louisiana.gov](http://www.deq.louisiana.gov)
- - date_published: 2024-08-18T05:00:34.268600+00:00
-
- ## LPSC - Home
- - [http://www.lpsc.louisiana.gov](http://www.lpsc.louisiana.gov)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Louisiana Department of Wildlife and Fisheries
- - [http://www.wlf.louisiana.gov](http://www.wlf.louisiana.gov)
- - date_published: 2024-08-18T05:01:02.623494+00:00
-
- ## Attention Required! | Cloudflare
- - [https://louisvilleky.gov](https://louisvilleky.gov)
- - date_published: 2024-06-15T18:15:04.709769+00:00
-
- ## Madison, AL - Official Website | Official Website
- - [http://www.madisonal.gov](http://www.madisonal.gov)
- - date_published: 2024-06-29T14:26:09.813092+00:00
-
- ## Madison County, AL | Home
- - [http://www.madisoncountyal.gov](http://www.madisoncountyal.gov)
- - date_published: 2024-06-28T20:26:49+00:00
-
- - [https://apps.web.maine.gov](https://apps.web.maine.gov)
- - date_published: 2024-01-09T03:31:13.905510+00:00
-
- ## Maine State Legislature
- - [https://legislature.maine.gov](https://legislature.maine.gov)
- - date_published: 2024-05-06T17:02:25.844861+00:00
-
- ## Maine Legislature Mailing Lists - home
- - [https://lists.legislature.maine.gov](https://lists.legislature.maine.gov)
- - date_published: 2016-02-15T00:00:00+00:00
-
- ## Maine.gov
- - [https://maine.gov](https://maine.gov)
- - date_published: 2023-11-11T05:10:20.897802+00:00
 

@@ -1,3 +1,103 @@
+ ## Center for Entrepreneurship - Center for Entrepreneurship
+ - [https://entrepreneurship.wfu.edu](https://entrepreneurship.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Events Calendar - Wake Forest University Events
+ - [https://events.wfu.edu](https://events.wfu.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - Faculty Senate
+ - [https://facultysenate.wfu.edu](https://facultysenate.wfu.edu)
+ - date_published: 2024-06-30T17:47:54+00:00
+
+ ## Home - The Faith COMPASS Center
+ - [https://faithcompass.wfu.edu](https://faithcompass.wfu.edu)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Financial Aid | Wake Forest School of Law
+ - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
+ - date_published: 2024-07-02T14:05:23.224543+00:00
+
+ ## Student Financial Aid | Wake Forest University
+ - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
+ - [https://giving.wfu.edu](https://giving.wfu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Global Wake Forest - Global Wake Forest
+ - [https://global.wfu.edu](https://global.wfu.edu)
+ - date_published: 2024-06-27T17:06:26+00:00
+
+ ## Graduate School of Arts & Sciences | Wake Forest University
+ - [https://graduate.wfu.edu](https://graduate.wfu.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Graduate Student Association | Wake Forest University
+ - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
+ - date_published: 2023-03-06T00:00:00+00:00
+
+ ## Welcome - Human Resources
+ - [https://hr.wfu.edu](https://hr.wfu.edu)
+ - date_published: 2024-05-07T22:29:03.306091+00:00
+
+ ## Wake Forest University Pre-College - Summer Immersion Program
+ - [https://immersion.summer.wfu.edu](https://immersion.summer.wfu.edu)
+ - date_published: 2024-06-30T19:04:48+00:00
+
+ ## Home | Inside WFU - news for the Wake Forest community
+ - [https://inside.wfu.edu](https://inside.wfu.edu)
+ - date_published: 2024-06-30T19:42:36+00:00
+
+ ## Graduate School of Arts & Sciences | Wake Forest University
+ - [http://internal.graduate.wfu.edu](http://internal.graduate.wfu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home - Information Systems
+ - [https://is.wfu.edu](https://is.wfu.edu)
+ - date_published: 2024-07-01T17:19:52+00:00
+
+ ## Wake Forest Law
+ - [https://law.wfu.edu](https://law.wfu.edu)
+ - date_published: 2024-07-01T06:39:02+00:00
+
+ ## The Program for Leadership and Character at Wake Forest University
+ - [https://leadershipandcharacter.wfu.edu](https://leadershipandcharacter.wfu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Wake Forest Magazine | The alumni magazine of Wake Forest University
+ - [https://magazine.wfu.edu](https://magazine.wfu.edu)
+ - date_published: 2024-06-28T06:12:35+00:00
+
+ ## Campus Map | Wake Forest University
+ - [https://map.wfu.edu](https://map.wfu.edu)
+ - date_published: 2024-07-01T04:49:09+00:00
+
+ ## Home - Mentoring Resource Center
+ - [https://mentoring.opcd.wfu.edu](https://mentoring.opcd.wfu.edu)
+ - date_published: 2024-06-29T17:31:09+00:00
+
+ ## Sign in - Google Accounts
+ - [https://netpartner.powerfaids.deacnet.wfu.edu](https://netpartner.powerfaids.deacnet.wfu.edu)
+ - date_published: 2024-07-02T14:05:20.168259+00:00
+
+ ## Wake Forest News | Wake Forest University
+ - [https://news.wfu.edu](https://news.wfu.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Office of Personal & Career Development | Wake Forest University
+ - [https://opcd.wfu.edu](https://opcd.wfu.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Pro Humanitate - Our Motto Means More
+ - [https://ourmottomeansmore.wfu.edu](https://ourmottomeansmore.wfu.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Campus Health
+ - [https://ourwayforward.wfu.edu](https://ourwayforward.wfu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
  ## Parents & Families | Wake Forest University
  - [https://parents.wfu.edu](https://parents.wfu.edu)
  - date_published: 2024-06-28T18:19:27+00:00
@@ -3955,106 +4055,4 @@
  ## autoDNA abikeskus
  - [https://support.autodna.ee](https://support.autodna.ee)
  - date_published: 2024-07-13T19:19:17.893745+00:00
-
- ## Kodu | Eesti Karskusliit
- - [https://www.ave.ee](https://www.ave.ee)
- - date_published: 2024-10-18T21:24:42.152363+00:00
-
- ## Bigbanki suurperepäev
- - [https://perepaev.bigbank.ee](https://perepaev.bigbank.ee)
- - date_published: 2024-07-02T16:56:41.831637+00:00
-
- ## Bigbank
- - [http://www.bigbank.ee](http://www.bigbank.ee)
- - date_published: 2024-07-02T10:19:21+00:00
-
- ## Bluemoon Interactive
- - [http://www.bluemoon.ee](http://www.bluemoon.ee)
- - date_published: 1998-12-08T17:45:16+00:00
-
- ## Avaleht
- - [http://www.bosch.ee](http://www.bosch.ee)
- - date_published: 2024-10-13T19:00:02+00:00
-
- ## Kvaliteetsed jätkusuutlikud majapidamisseadmed | Bosch
- - [https://www.bosch-home.ee](https://www.bosch-home.ee)
- - date_published: 2024-06-16T21:36:44.790712+00:00
-
- ## Home and Office Printers | Business Solutions | Brother
- - [https://www.brother.ee](https://www.brother.ee)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Buy Me a Coffee
- - [https://buymeacoff.ee](https://buymeacoff.ee)
- - date_published: 2024-05-06T20:48:46.671839+00:00
-
- ## Homepage
- - [https://casinoble.ee](https://casinoble.ee)
- - date_published: 2024-05-22T12:15:16+00:00
-
- ## Citroen Estonia
- - [https://citroen.ee](https://citroen.ee)
- - date_published: 2023-12-11T15:49:58.226163+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.ee](https://www.citroenorigins.ee)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Coop Haapsalu e-pood
- - [https://coophaapsalu.ee](https://coophaapsalu.ee)
- - date_published: 2024-07-02T17:00:13.322713+00:00
-
- ## Cybernetica
- - [https://cyber.ee](https://cyber.ee)
- - date_published: 2024-08-15T09:58:54+00:00
-
- ## Decathlon Eesti
- - [https://decathlon.ee](https://decathlon.ee)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Broneeri tooteid kõikjal
- - [https://rent.decathlon.ee](https://rent.decathlon.ee)
- - date_published: 2024-09-19T14:41:07.317258+00:00
-
- ## Ärileht
- - [https://arileht.delfi.ee](https://arileht.delfi.ee)
- - date_published: 2024-09-26T17:40:25+00:00
-
- ## Delice eksklusiivsed Toidupoed Eestis[glamslider id='2']
- - [https://www.delice.ee](https://www.delice.ee)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home — DESIREE WILSON
- - [https://desir.ee](https://desir.ee)
- - date_published: 2023-09-19T00:00:00+00:00
-
- ## DigiKey Home
- - [https://digikey.ee](https://digikey.ee)
- - date_published: 2024-05-01T05:04:37.551752+00:00
-
- ## Avaleht - EASi ja KredExi ühendasutus
- - [https://www.eas.ee](https://www.eas.ee)
- - date_published: 2021-06-07T09:47:26+00:00
-
- ## Open Source UAV
- - [https://openuav.eava.ee](https://openuav.eava.ee)
- - date_published: 2024-06-10T12:23:45.631218+00:00
- - tags: ['open source', 'uav']
-
- ## eCoop
- - [https://ecoop.ee](https://ecoop.ee)
- - date_published: 2023-07-20T08:43:06+00:00
-
- ## eCoop
- - [https://hiiumaa.ecoop.ee](https://hiiumaa.ecoop.ee)
- - date_published: 2023-12-18T08:13:41+00:00
-
- ## eCoop
- - [https://vandra.ecoop.ee](https://vandra.ecoop.ee)
- - date_published: 2023-12-18T08:13:38+00:00
-
- ## fuzzy notepad
- - [https://eev.ee](https://eev.ee)
- - date_published: 2022-02-01T05:32:35+00:00
- - tags: ['personal']
 

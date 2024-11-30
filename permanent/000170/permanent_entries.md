@@ -1,3 +1,71 @@
+ ## The Press Democrat
+ - [https://newsletter.pressdemocrat.com](https://newsletter.pressdemocrat.com)
+ - date_published: 2024-05-07T09:15:46.981059+00:00
+
+ ## Newsstand Locator Map
+ - [https://newsstand.pressdemocrat.com](https://newsstand.pressdemocrat.com)
+ - date_published: 2023-11-30T20:15:35+00:00
+
+ ## https://www.pressdemocrat.com
+ - [https://pressdemocrat.com](https://pressdemocrat.com)
+ - date_published: 2023-11-01T08:42:56.938211+00:00
+
+ ## Privacy Policy
+ - [https://privacy.pressdemocrat.com](https://privacy.pressdemocrat.com)
+ - date_published: 2022-03-18T23:35:06+00:00
+
+ ## Press Democrat Special Sections
+ - [https://specialsections.pressdemocrat.com](https://specialsections.pressdemocrat.com)
+ - date_published: 2024-05-07T09:16:00.033115+00:00
+
+ ## PressDisplay.com - Digital Newspaper & Magazine Subscriptions
+ - [https://www.pressdisplay.com](https://www.pressdisplay.com)
+ - date_published: 2024-07-12T17:09:21.156290+00:00
+
+ ## Tomorrow's Technician University
+ - [http://s37322.p525.sites.pressdns.com](http://s37322.p525.sites.pressdns.com)
+ - date_published: 2024-07-13T23:42:25.837042+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://s41512.p802.sites.pressdns.com](https://s41512.p802.sites.pressdns.com)
+ - date_published: 2024-06-27T13:33:13.253943+00:00
+
+ ## Home - 150 | #CreativeImpact
+ - [https://s44751.p1713.sites.pressdns.com](https://s44751.p1713.sites.pressdns.com)
+ - date_published: 2023-02-28T00:00:00+00:00
+
+ ## RELEX Solutions: Market-leading Supply Chain & Retail Planning
+ - [https://s45084.p1210.sites.pressdns.com](https://s45084.p1210.sites.pressdns.com)
+ - date_published: 2024-10-31T10:01:16.616882+00:00
+
+ ## The Teaching Professor
+ - [https://s45271.p609.sites.pressdns.com](https://s45271.p609.sites.pressdns.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - The Polar Express by Chris Van Allsburg
+ - [http://s45870.p716.sites.pressdns.com](http://s45870.p716.sites.pressdns.com)
+ - date_published: 2024-10-25T18:58:40.394328+00:00
+
+ ## France Medias Monde
+ - [https://www.pressefmm.com](https://www.pressefmm.com)
+ - date_published: 2024-05-04T06:59:24.337140+00:00
+
+ ## Subscription Panel
+ - [https://checkout.pressenterprise.com](https://checkout.pressenterprise.com)
+ - date_published: 2024-05-07T09:17:08.426742+00:00
+
+ ## Sign In with MNG
+ - [https://enewspaper.pressenterprise.com](https://enewspaper.pressenterprise.com)
+ - date_published: 2024-05-07T09:16:28.483836+00:00
+
+ ## Press Enterprise
+ - [https://pressenterprise.com](https://pressenterprise.com)
+ - date_published: 2023-12-08T17:29:18.211069+00:00
+
+ ## pressetext Nachrichtenagentur GmbH
+ - [https://www.pressetext.com](https://www.pressetext.com)
+ - date_published: 2024-10-14T10:02:30.375499+00:00
+
  ## Pressfolios
  - [https://mattmcclearn.pressfolios.com](https://mattmcclearn.pressfolios.com)
  - date_published: 2024-05-06T16:48:03.892379+00:00
@@ -3954,72 +4022,4 @@
  ## Parking and Mobility Technology Solutions | Cloudpark Technology
  - [https://cloudpark.propark.com](https://cloudpark.propark.com)
  - date_published: 2024-01-12T00:00:00+00:00
-
- ## Home
- - [https://propark.com](https://propark.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Facebook
- - [http://www.propbay.com](http://www.propbay.com)
- - date_published: 2024-07-01T05:41:43.006655+00:00
-
- ## Propcards | Beautiful real estate websites to communicate your value
- - [https://mwa.propcard.com](https://mwa.propcard.com)
- - date_published: 2019-05-05T07:24:11+00:00
-
- ## Flight School | Propel Aviation Center
- - [https://www.propelac.com](https://www.propelac.com)
- - date_published: 2024-10-16T20:29:54.370532+00:00
-
- ## Login - PropelAuth
- - [https://auth.propelauth.com](https://auth.propelauth.com)
- - date_published: 2024-05-07T09:41:05.523405+00:00
-
- ## PropelAuth Documentation
- - [https://docs.propelauth.com](https://docs.propelauth.com)
- - date_published: 2024-05-07T09:40:58.279719+00:00
-
- ## PropelAuth - Authentication for B2B products
- - [https://propelauth.com](https://propelauth.com)
- - date_published: 2024-05-07T09:40:56.997167+00:00
-
- ## Serverless ClickHouse for Customer-Facing Analytics
- - [https://propeldata.com](https://propeldata.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Propel | Trust Center
- - [https://trust.propeldata.com](https://trust.propeldata.com)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Propel | The future of automated social media management
- - [https://propelgenerator.com](https://propelgenerator.com)
- - date_published: 2024-04-30T00:50:40+00:00
-
- ## Propeller | Propeller | People-Focused Business Management Consulting
- - [http://www.propeller.com](http://www.propeller.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Reason Studios
- - [https://www.propellerheads.com](https://www.propellerheads.com)
- - date_published: 2024-06-29T21:09:12.530192+00:00
-
- ## Custom Website Designers & Digital Marketing | Propeller
- - [https://www.propellermediaworks.com](https://www.propellermediaworks.com)
- - date_published: 2024-09-18T15:21:51.790927+00:00
-
- ## Proper Cloth - Custom Dress Shirts & Custom Suits | Custom Made to the Highest Standards
- - [https://propercloth.com](https://propercloth.com)
- - date_published: 2024-05-07T09:47:32.826083+00:00
-
- ## The Proper Method of Software Development
- - [https://properprogramming.com](https://properprogramming.com)
- - date_published: 2024-07-15T06:03:42+00:00
-
- ## Properstar Blog | Le Blog Immobilier
- - [https://blog.properstar.com](https://blog.properstar.com)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Properstar Polska - Inwestuj w Nieruchomości Zagraniczne
- - [https://www.properstar.com](https://www.properstar.com)
- - date_published: 2023-02-23T16:01:28.240000+00:00
 

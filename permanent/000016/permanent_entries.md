@@ -1,3 +1,11 @@
+ ## Faça login na Hostinger
+ - [https://auth.hostinger.com.br](https://auth.hostinger.com.br)
+ - date_published: 2024-07-13T16:34:50.455996+00:00
+
+ ## A Plataforma de Host Feita Para Você - Hostinger
+ - [https://hostinger.com.br](https://hostinger.com.br)
+ - date_published: 2024-05-11T07:49:48.244296+00:00
+
  ## Bem-vindo à Hotfrog
  - [https://www.hotfrog.com.br](https://www.hotfrog.com.br)
  - date_published: 2024-06-29T16:52:31.330952+00:00
@@ -4003,12 +4011,4 @@
  ## easyXDM cross-domain XHMLHttpRequest provider
  - [https://backend.cld.bz](https://backend.cld.bz)
  - date_published: 2024-10-12T14:02:19.800554+00:00
-
- ## FlippingBook Cloud
- - [https://cld.bz](https://cld.bz)
- - date_published: 2024-09-19T19:08:50.126079+00:00
-
- ## דיגיטלר – Library
- - [https://digitaler.cld.bz](https://digitaler.cld.bz)
- - date_published: 2024-07-13T07:31:56.545477+00:00
 

@@ -1,3 +1,43 @@
+ ## Dadda.com
+ - [https://www.dadda.com](https://www.dadda.com)
+ - date_published: 2024-01-31T10:23:06+00:00
+
+ ## D'Addario | Guitar Strings, Accessories, and More
+ - [https://www.daddario.com](https://www.daddario.com)
+ - date_published: 2024-07-01T14:27:31.907819+00:00
+
+ ## Master iOS Development with Our Articles and Tutorials
+ - [https://daddycoding.com](https://daddycoding.com)
+ - date_published: 2024-06-23T14:53:50.056351+00:00
+
+ ## Home - DADDYHUNT
+ - [http://daddyhunt.com](http://daddyhunt.com)
+ - date_published: 2024-10-31T23:08:14+00:00
+
+ ## Stamped Concrete Miami | Decorative Concrete Contractor
+ - [https://www.dadedecorativeconcrete.com](https://www.dadedecorativeconcrete.com)
+ - date_published: 2024-06-20T21:00:34+00:00
+
+ ## Programming in the 21st Century
+ - [https://prog21.dadgum.com](https://prog21.dadgum.com)
+ - date_published: 2017-01-05T03:40:46+00:00
+
+ ## Tackling Social Isolation For Dads - Dad La Soul
+ - [https://dadlasoul.com](https://dadlasoul.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Dad La Soul Merch Shop | Shop
+ - [https://shop.dadlasoul.com](https://shop.dadlasoul.com)
+ - date_published: 2024-06-18T08:52:05.196327+00:00
+
+ ## Dad Laugh Button
+ - [https://dadlaughbutton.com](https://dadlaughbutton.com)
+ - date_published: 2022-11-11T00:34:45+00:00
+
+ ## DadosMundiais - O mundo em números
+ - [https://www.dadosmundiais.com](https://www.dadosmundiais.com)
+ - date_published: 2024-08-06T11:06:28.480535+00:00
+
  ## Disney+ Press Center
  - [https://dadt.com](https://dadt.com)
  - date_published: 2024-09-12T00:00:00+00:00
@@ -4010,44 +4050,4 @@
  ## DataPacRat's Warren
  - [http://blog.datapacrat.com](http://blog.datapacrat.com)
  - date_published: 2024-07-15T06:35:35.843295+00:00
-
- ## DataPacRat's Warren
- - [https://datapacrat.com](https://datapacrat.com)
- - date_published: 2022-11-08T20:03:25+00:00
-
- ## Data Consulting | Data Science | Data Engineering | DATAPAO
- - [https://datapao.com](https://datapao.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Data Pipelines
- - [https://datapipelines.com](https://datapipelines.com)
- - date_published: 2024-09-13T16:44:43.423543+00:00
-
- ## Dataplicity
- - [https://www.dataplicity.com](https://www.dataplicity.com)
- - date_published: 2024-06-29T21:42:42.611085+00:00
-
- ## Client discovery tools, based on science
- - [https://datapoints.com](https://datapoints.com)
- - date_published: 2024-06-23T05:05:49+00:00
-
- ## DataPress
- - [https://datapress.com](https://datapress.com)
- - date_published: 2023-03-15T13:37:09+00:00
-
- ## Data Product Specification
- - [https://www.dataproduct-specification.com](https://www.dataproduct-specification.com)
- - date_published: 2024-05-31T16:11:49+00:00
-
- ## KeepItSafe WebConsole Sign In
- - [https://webportal.dataprotection.com](https://webportal.dataprotection.com)
- - date_published: 2024-06-29T06:03:48.766229+00:00
-
- ## We index the web and structure the data | Dataprovider.com
- - [https://dataprovider.com](https://dataprovider.com)
- - date_published: 2024-08-18T07:49:23.531093+00:00
-
- ## Dedicated Servers & Secure Web Hosting | Datarealm
- - [http://datarealm.com](http://datarealm.com)
- - date_published: 2022-10-21T14:12:31+00:00
 

@@ -1,3 +1,11 @@
+ ## Strategic Product Management Platform
+ - [https://airfocus.com](https://airfocus.com)
+ - date_published: 2024-06-18T16:44:57+00:00
+
+ ## Home
+ - [https://developer.airfocus.com](https://developer.airfocus.com)
+ - date_published: 2024-10-30T04:35:30+00:00
+
  ## airfocus help center
  - [https://help.airfocus.com](https://help.airfocus.com)
  - date_published: 2024-10-30T21:11:45.865446+00:00
@@ -4058,12 +4066,4 @@
  ## Algebra Homework Help, Algebra Solvers, Free Math Tutors
  - [https://algebra.com](https://algebra.com)
  - date_published: 2024-05-08T05:18:31.224789+00:00
-
- ## Algebra.Com's Help
- - [http://wiki.algebra.com](http://wiki.algebra.com)
- - date_published: 2006-03-17T00:00:00+00:00
-
- ## Algebra Jump
- - [https://algebrajump.com](https://algebrajump.com)
- - date_published: 2023-11-13T13:58:46+00:00
 

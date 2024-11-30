@@ -1,3 +1,43 @@
+ ## deel Status
+ - [https://status.deel.com](https://status.deel.com)
+ - date_published: 2024-06-15T19:54:09.538131+00:00
+
+ ## Explore freelancing with DeeLance's blockchain for transparency and traceability. Revolutionizing freelancing with blockchain.
+ - [https://deelance.com](https://deelance.com)
+ - date_published: 2024-08-01T13:12:59+00:00
+
+ ## Faucet |Deelance
+ - [https://faucet.deelance.com](https://faucet.deelance.com)
+ - date_published: 2024-09-24T03:37:32.754195+00:00
+
+ ## Services,Technologies &Products are based on Machine Learning - Deelvin
+ - [https://deelvin.com](https://deelvin.com)
+ - date_published: 2024-01-23T13:59:45+00:00
+
+ ## DMO's Page
+ - [https://deemocean.com](https://deemocean.com)
+ - date_published: 2024-06-27T13:09:36.600042+00:00
+
+ ## Money transfer from Thailand to The World with DeeMoney
+ - [https://deemoney.com](https://deemoney.com)
+ - date_published: 2024-06-23T14:06:50.458926+00:00
+
+ ## Welcome to DeeMoney Support | DeeMoney Help
+ - [https://help.deemoney.com](https://help.deemoney.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Rodin & ChatAvatar: Closest to Production-ready 3D Assets Generator
+ - [https://hyperhuman.deemos.com](https://hyperhuman.deemos.com)
+ - date_published: 2024-07-19T09:40:56+00:00
+
+ ## DEEPA BERAR
+ - [https://deepaberar.com](https://deepaberar.com)
+ - date_published: 2024-09-15T22:51:32.081884+00:00
+
+ ## AI Modelling Agency | Deep Agency
+ - [https://deepagency.com](https://deepagency.com)
+ - date_published: 2024-04-30T07:11:47.830554+00:00
+
  ## The Coder Lounge
  - [http://blog.deepakazad.com](http://blog.deepakazad.com)
  - date_published: 2024-03-05T18:51:45+00:00
@@ -3992,44 +4032,4 @@
  ## Help Center - The Des Moines Register
  - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
  - date_published: 2024-05-01T04:48:57.540386+00:00
-
- ## Unsupported EU page
- - [https://login.desmoinesregister.com](https://login.desmoinesregister.com)
- - date_published: 2024-06-15T22:45:56.387748+00:00
-
- ## Newsletters | The Des Moines Register
- - [https://profile.desmoinesregister.com](https://profile.desmoinesregister.com)
- - date_published: 2024-05-01T04:48:56.283882+00:00
-
- ## Unsupported EU page
- - [https://subscribe.desmoinesregister.com](https://subscribe.desmoinesregister.com)
- - date_published: 2024-06-15T22:45:57.295714+00:00
-
- ## Desmond Hotel Malvern, a DoubleTree by Hilton
- - [http://desmondgv.com](http://desmondgv.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Desmond's Corner of the Web
- - [https://desmondrivet.com](https://desmondrivet.com)
- - date_published: 2024-06-20T14:04:36+00:00
-
- ## Desmos | Let's learn together.
- - [https://desmos.com](https://desmos.com)
- - date_published: 2024-05-01T04:49:05.590181+00:00
-
- ## Desmos Engineering
- - [https://engineering.desmos.com](https://engineering.desmos.com)
- - date_published: 2023-08-03T03:47:58+00:00
-
- ## Learn Desmos
- - [https://learn.desmos.com](https://learn.desmos.com)
- - date_published: 2024-05-01T04:49:03.802171+00:00
-
- ## Desmos Classroom Activities
- - [https://student.desmos.com](https://student.desmos.com)
- - date_published: 2024-06-15T22:54:49.145081+00:00
-
- ## Desmos Classroom Activities
- - [https://teacher.desmos.com](https://teacher.desmos.com)
- - date_published: 2024-05-01T04:49:07.572900+00:00
 

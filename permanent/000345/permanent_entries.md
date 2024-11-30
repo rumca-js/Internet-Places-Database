@@ -1,3 +1,120 @@
+ ## Racer: Main Page
+ - [https://racer.sourceforge.net](https://racer.sourceforge.net)
+ - date_published: 2010-09-06T00:41:10+00:00
+
+ ## RECOIL
+ - [https://recoil.sourceforge.net](https://recoil.sourceforge.net)
+ - date_published: 2024-05-18T19:02:27+00:00
+
+ ## Rescue! Max
+ - [https://rescue.sourceforge.net](https://rescue.sourceforge.net)
+ - date_published: 2022-08-15T11:19:22+00:00
+
+ ## RetroShare
+ - [https://retroshare.sourceforge.net](https://retroshare.sourceforge.net)
+ - date_published: 2016-11-04T00:00:00+00:00
+
+ ## Official home of Ri-li game
+ - [http://ri-li.sourceforge.net](http://ri-li.sourceforge.net)
+ - date_published: 2007-11-07T17:15:42+00:00
+
+ ## The Rootkit Hunter project
+ - [http://rkhunter.sourceforge.net](http://rkhunter.sourceforge.net)
+ - date_published: 2021-02-06T20:30:50+00:00
+
+ ## Roundup Issue Tracker
+ - [https://roundup.sourceforge.net](https://roundup.sourceforge.net)
+ - date_published: 2023-08-17T20:20:56+00:00
+
+ ## RPyC - Remote Python Call
+ - [https://rpyc.sourceforge.net](https://rpyc.sourceforge.net)
+ - date_published: 2013-02-23T21:58:29+00:00
+
+ ## Ruin - a java game engine (MUD) looks kind of like Doom and Heretic
+ - [http://ruinworld.sourceforge.net](http://ruinworld.sourceforge.net)
+ - date_published: 2024-07-11T11:15:27.852998+00:00
+
+ ## Student Assignment, Scheduling, and Homework Assistant (SASHA) :: Home
+ - [http://sasha.sourceforge.net](http://sasha.sourceforge.net)
+ - date_published: 2010-06-12T07:54:08+00:00
+
+ ## The Ur-Quan Masters - News
+ - [https://sc2.sourceforge.net](https://sc2.sourceforge.net)
+ - date_published: 2024-05-09T08:52:47.638585+00:00
+
+ ## Scid - Chess Database Software
+ - [https://scid.sourceforge.net](https://scid.sourceforge.net)
+ - date_published: 2017-06-22T14:47:43+00:00
+
+ ## SCI Studio
+ - [http://scistudio.sourceforge.net](http://scistudio.sourceforge.net)
+ - date_published: 2024-08-06T10:56:03.726758+00:00
+
+ ## SDCC - Small Device C Compiler
+ - [https://sdcc.sourceforge.net](https://sdcc.sourceforge.net)
+ - date_published: 2024-07-19T15:05:04.560620+00:00
+
+ ## SDL4GP32
+ - [http://sdl-gp32.sourceforge.net](http://sdl-gp32.sourceforge.net)
+ - date_published: 2005-08-28T20:30:30+00:00
+
+ ## sdljava Homepage (Java Binding to SDL) (16-Sep-2005)
+ - [http://sdljava.sourceforge.net](http://sdljava.sourceforge.net)
+ - date_published: 2005-09-16T22:45:06+00:00
+
+ ## sed.sf.net - The sed $HOME
+ - [http://sed.sourceforge.net](http://sed.sourceforge.net)
+ - date_published: 2023-04-27T22:32:31+00:00
+
+ ## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sflogo.sourceforge.net](https://sflogo.sourceforge.net)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The slrn newsreader
+ - [http://slrn.sourceforge.net](http://slrn.sourceforge.net)
+ - date_published: 2024-07-02T17:15:00.477934+00:00
+
+ ## Some More Individual
+ - [http://smiy.sourceforge.net](http://smiy.sourceforge.net)
+ - date_published: 2011-02-21T14:01:59+00:00
+
+ ## SMPlayer - Free media player for your PC
+ - [https://smplayer.sourceforge.net](https://smplayer.sourceforge.net)
+ - date_published: 2024-05-17T02:47:08.135902+00:00
+
+ ## Snap7 Homepage
+ - [https://snap7.sourceforge.net](https://snap7.sourceforge.net)
+ - date_published: 2016-10-08T15:55:34+00:00
+
+ ## Snowstorm Entertainment
+ - [https://snowstorm.sourceforge.net](https://snowstorm.sourceforge.net)
+ - date_published: 2024-05-09T09:07:28.521015+00:00
+
+ ## Siege of Avalon - Episodic Game Novel RPG
+ - [https://soaos.sourceforge.net](https://soaos.sourceforge.net)
+ - date_published: 2024-05-09T09:01:09.144126+00:00
+
+ ## SOCI
+ - [https://soci.sourceforge.net](https://soci.sourceforge.net)
+ - date_published: 2024-04-29T17:23:46+00:00
+
+ ## Sodipodi
+ - [https://sodipodi.sourceforge.net](https://sodipodi.sourceforge.net)
+ - date_published: 2024-01-09T03:36:16.772128+00:00
+
+ ## Compare, Download & Develop Open Source & Business Software - SourceForge
+ - [https://sourceforge.net](https://sourceforge.net)
+ - date_published: 2023-10-25T08:41:02.286459+00:00
+ - tags: ['software platform', 'open source']
+
+ ## SoX - Sound eXchange
+ - [https://sox.sourceforge.net](https://sox.sourceforge.net)
+ - date_published: 2022-08-11T00:00:00+00:00
+
+ ## SPB-Linux 2.1 beta
+ - [http://spblinux.sourceforge.net](http://spblinux.sourceforge.net)
+ - date_published: 2008-08-29T23:29:27+00:00
+
  ## StatCVS - Repository Statistics - Introduction
  - [http://statcvs.sourceforge.net](http://statcvs.sourceforge.net)
  - date_published: 2010-01-01T10:39:34+00:00
@@ -1321,6 +1438,10 @@ Ocean's Eleven fanlisting
  ## Homepage - New - Colohouse
  - [http://steadfast.net](http://steadfast.net)
  - date_published: 2024-05-08T00:00:00+00:00
+
+ ## SteamGG – Free Download Pre-installed Steam Games
+ - [https://steamgg.net](https://steamgg.net)
+ - date_published: 2024-11-29T22:16:56+00:00
 
  ## Show HN: Better Seater: Wedding Seating Chart Optimizer
  - [https://seater.steam-oven.net](https://seater.steam-oven.net)
@@ -3938,126 +4059,4 @@ Ocean's Eleven fanlisting
  ## Theo Spark
  - [http://www.theospark.net](http://www.theospark.net)
  - date_published: 2024-07-03T00:00:00+00:00
-
- ## الرئيسية - بالم أواسيس
- - [https://thepalmoasis.net](https://thepalmoasis.net)
- - date_published: 2023-12-31T06:44:07+00:00
-
- ## The Path Not Taken | Thomas Prosser | Substack
- - [https://www.thepathnottaken.net](https://www.thepathnottaken.net)
- - date_published: 2023-11-14T11:53:38.062486+00:00
-
- ## Homepage
- - [https://thepenmuse.net](https://thepenmuse.net)
- - date_published: 2024-01-22T00:00:00+00:00
- - tags: ['book reviews']
-
- ## proships please don't touch me
- - [https://thepersonever.net](https://thepersonever.net)
- - date_published: 2024-08-08T02:03:32+00:00
-
- ## Home Page - The PiggyBox
- - [https://thepiggybox.net](https://thepiggybox.net)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## The Pirate Archive - Index page
- - [https://forum.thepiratearchive.net](https://forum.thepiratearchive.net)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home
- - [https://thepiratearchive.net](https://thepiratearchive.net)
- - date_published: 2024-06-13T21:31:04.080216+00:00
-
- ## The poor man playing casino games online
- - [http://www.thepoorman.net](http://www.thepoorman.net)
- - date_published: 2024-07-08T09:05:57.470309+00:00
-
- ## The Power of Water -
- - [https://www.thepowerofwater.net](https://www.thepowerofwater.net)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Profaned Otaku
- - [https://theprofanedotaku.net](https://theprofanedotaku.net)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## The Promise Revealed
- - [https://thepromiserevealed.net](https://thepromiserevealed.net)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## ThePulp.Net
- - [https://thepulp.net](https://thepulp.net)
- - date_published: 2024-05-08T06:42:40.655539+00:00
-
- ## There She Grows
- - [https://thereshegrows.net](https://thereshegrows.net)
- - date_published: 2024-06-23T18:29:37.556347+00:00
-
- ## Welcome to Karen's Fiction
- - [http://www.stories.the-ridges.net](http://www.stories.the-ridges.net)
- - date_published: 2012-04-10T21:42:38+00:00
-
- ## The Ridges
- - [http://www.the-ridges.net](http://www.the-ridges.net)
- - date_published: 2012-12-20T14:31:57+00:00
-
- ## RISING STORM
- - [http://therisingstorm.net](http://therisingstorm.net)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Thermal Corner
- - [https://www.thermalcorner.net](https://www.thermalcorner.net)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## The Rumpus Store
- - [https://store.therumpus.net](https://store.therumpus.net)
- - date_published: 2024-08-18T21:43:17.838433+00:00
-
- ## The Rumpus.net
- - [https://therumpus.net](https://therumpus.net)
- - date_published: 2023-10-25T20:38:43.833561+00:00
-
- ## > welcome
- - [https://therwi.net](https://therwi.net)
- - date_published: 2024-07-20T19:47:58+00:00
-
- ## All the News from and about San Antonio, Tx | San Antonio News.Net
- - [http://www.thesanantonionews.net](http://www.thesanantonionews.net)
- - date_published: 2024-07-13T23:12:27.639288+00:00
-
- ## The Seagull
- - [https://theseagull.net](https://theseagull.net)
- - date_published: 2024-04-30T08:04:01.494291+00:00
- - tags: ['radio station']
-
- ## The Shadowlands
- - [http://theshadowlands.net](http://theshadowlands.net)
- - date_published: 2023-06-08T05:17:13+00:00
-
- ## Home
- - [http://www.thesharpener.net](http://www.thesharpener.net)
- - date_published: 2023-07-23T00:00:00+00:00
-
- ## The Short Game
- - [https://www.theshortgame.net](https://www.theshortgame.net)
- - date_published: 2024-07-13T05:01:36.842296+00:00
-
- ## maker & recycling community – DevLab-TSA e.V. Makerspace
- - [https://devlab.the-solaris-agency.net](https://devlab.the-solaris-agency.net)
- - date_published: 2024-08-11T19:54:06.675122+00:00
-
- ## HOME
- - [https://thespool.net](https://thespool.net)
- - date_published: 2024-09-25T17:25:05.881915+00:00
-
- ## News focus on St Petersburg, Fl | The St Petersburg News.Net
- - [https://www.thestpetersburgnews.net](https://www.thestpetersburgnews.net)
- - date_published: 2024-07-13T23:16:27.660674+00:00
-
- ## Simple Family Preparedness - Creating Prepared Families!
- - [http://www.thesurvivalistblog.net](http://www.thesurvivalistblog.net)
- - date_published: 2023-04-30T10:51:06+00:00
-
- ## tacticalprofessor
- - [https://thetacticalprofessor.net](https://thetacticalprofessor.net)
- - date_published: 2024-05-04T11:57:37.226849+00:00
 

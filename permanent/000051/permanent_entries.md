@@ -1,3 +1,23 @@
+ ## Patrizia Barbuiani
+ - [https://barbuiani.com](https://barbuiani.com)
+ - date_published: 2022-01-08T00:00:00+00:00
+
+ ## Barca Blaugranes, For Barcelona Fans
+ - [https://barcablaugranes.com](https://barcablaugranes.com)
+ - date_published: 2024-04-29T02:12:12.198336+00:00
+
+ ## BARX Investor Solutions
+ - [https://barxis.barcap.com](https://barxis.barcap.com)
+ - date_published: 2024-09-28T21:17:19.081154+00:00
+
+ ## Barclays Live - Login
+ - [https://live.barcap.com](https://live.barcap.com)
+ - date_published: 2024-09-28T21:17:32.149740+00:00
+
+ ## Barca Universal | Everything related to FC Barcelona.
+ - [https://barcauniversal.com](https://barcauniversal.com)
+ - date_published: 2024-10-21T16:01:50.148464+00:00
+
  ## Barceló® Hotel Group - Hotels and Resorts | Barcelo.com
  - [https://www.barcelo.com](https://www.barcelo.com)
  - date_published: 2024-09-12T20:32:25.406990+00:00
@@ -4004,24 +4024,4 @@
  ## The Loesch Letter
  - [https://tll.beehiiv.com](https://tll.beehiiv.com)
  - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Local Optimist Digest
- - [https://tlodigest.beehiiv.com](https://tlodigest.beehiiv.com)
- - date_published: 2024-08-06T20:05:40+00:00
-
- ## Web Developer
- - [https://webdeveloper.beehiiv.com](https://webdeveloper.beehiiv.com)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Web Witch Weekly
- - [https://webwitchweekly.beehiiv.com](https://webwitchweekly.beehiiv.com)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## WND News Alerts
- - [https://wnd-news-alerts.beehiiv.com](https://wnd-news-alerts.beehiiv.com)
- - date_published: 2024-06-20T17:30:51+00:00
-
- ## You Probably Need a Robot
- - [https://youprobablyneedarobot.beehiiv.com](https://youprobablyneedarobot.beehiiv.com)
- - date_published: 2024-04-29T07:16:23.281601+00:00
 

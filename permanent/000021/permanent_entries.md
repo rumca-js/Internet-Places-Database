@@ -1,3 +1,11 @@
+ ## Portada
+ - [https://www.laxarxa.cat](https://www.laxarxa.cat)
+ - date_published: 2024-09-17T21:14:56.904131+00:00
+
+ ## Lemmy.cat - Plataforma d'agregació d'enllaços i discussió, en català
+ - [https://lemmy.cat](https://lemmy.cat)
+ - date_published: 2024-06-16T00:00:00+00:00
+
  ## Gran Teatre del Liceu
  - [https://www.liceubarcelona.cat](https://www.liceubarcelona.cat)
  - date_published: 2024-09-19T01:37:26.886929+00:00
@@ -4028,12 +4036,4 @@
  ## Biel International Chess Festival
  - [https://www.bielchessfestival.ch](https://www.bielchessfestival.ch)
  - date_published: 2024-07-19T18:57:25+00:00
-
- ## Biglietteria.ch
- - [https://biglietteria.ch](https://biglietteria.ch)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
- - [https://bilan.ch](https://bilan.ch)
- - date_published: 2024-04-30T00:00:00+00:00
 

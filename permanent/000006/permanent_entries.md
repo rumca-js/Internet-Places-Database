@@ -2577,6 +2577,10 @@
  - [https://outer-voice.vercel.app](https://outer-voice.vercel.app)
  - date_published: 2024-06-19T19:52:17.566966+00:00
 
+ ## Outfit Generator
+ - [https://outfittyai.vercel.app](https://outfittyai.vercel.app)
+ - date_published: 2024-11-29T21:28:40.885736+00:00
+
  ## Oxide Computer Company
  - [https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app](https://oxide-computer-htjcf1loy-oxidecomputer.vercel.app)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -2914,6 +2918,11 @@
  ## shadcn
  - [https://shadcn-lerzscznq-shadcn-pro.vercel.app](https://shadcn-lerzscznq-shadcn-pro.vercel.app)
  - date_published: 2024-08-06T05:24:53.140667+00:00
+
+ ## Screen Share - Share Your Screen Instantly
+ - [https://share-your-screen.vercel.app](https://share-your-screen.vercel.app)
+ - date_published: 2024-11-29T03:55:31+00:00
+ - tags: ['screen sharing']
 
  ## Shiny Button
  - [https://shiny-button.vercel.app](https://shiny-button.vercel.app)
@@ -4010,12 +4019,4 @@
  ## Zitcha
  - [https://au.zitcha.app](https://au.zitcha.app)
  - date_published: 2024-07-23T22:05:29.474191+00:00
-
- ## ZKBase Swap
- - [https://dex.zkbase.app](https://dex.zkbase.app)
- - date_published: 2024-09-23T07:43:17.902184+00:00
-
- ## ZKBase Explorer
- - [https://explorer.zkbase.app](https://explorer.zkbase.app)
- - date_published: 2024-07-01T06:42:41+00:00
 

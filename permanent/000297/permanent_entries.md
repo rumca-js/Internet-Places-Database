@@ -1,3 +1,107 @@
+ ## IIS Windows Server
+ - [http://www.nitmanipur.ac.in](http://www.nitmanipur.ac.in)
+ - date_published: 2024-09-05T09:22:34+00:00
+
+ ## IIS Windows Server
+ - [http://www.nitmz.ac.in](http://www.nitmz.ac.in)
+ - date_published: 2024-09-05T09:22:34+00:00
+
+ ## NIT Rourkela
+ - [http://www.nitrkl.ac.in](http://www.nitrkl.ac.in)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Codeutsava 8.0 - Central India's Largest Coding Event
+ - [https://codeutsava.nitrr.ac.in](https://codeutsava.nitrr.ac.in)
+ - date_published: 2024-09-21T13:09:02+00:00
+
+ ## ::: National Institute of Technology Raipur :::
+ - [http://www.nitrr.ac.in](http://www.nitrr.ac.in)
+ - date_published: 2024-09-11T17:47:11.176277+00:00
+
+ ## National Institute of Technology, Silchar
+ - [http://www.nits.ac.in](http://www.nits.ac.in)
+ - date_published: 2024-09-11T17:52:50.742009+00:00
+
+ ## NIT Sikkim | Home
+ - [http://www.nitsikkim.ac.in](http://www.nitsikkim.ac.in)
+ - date_published: 2024-09-11T17:38:43.733029+00:00
+
+ ## NIT Srinagar
+ - [https://nitsri.ac.in](https://nitsri.ac.in)
+ - date_published: 2024-09-11T17:45:23.367351+00:00
+
+ ## NITTTR Chandigarh : एनआईटीटीटीआर चंडीगढ़
+ - [http://www.nitttrchd.ac.in](http://www.nitttrchd.ac.in)
+ - date_published: 2024-09-11T17:56:19.835495+00:00
+
+ ## NITTTR, Kolkata
+ - [http://www.nitttrkol.ac.in](http://www.nitttrkol.ac.in)
+ - date_published: 2024-09-11T17:45:04.982003+00:00
+
+ ## National Institute of Technology, Uttarakhand
+ - [http://nituk.ac.in](http://nituk.ac.in)
+ - date_published: 2024-09-11T17:38:37.289888+00:00
+
+ ## NIT Warangal
+ - [http://www.nitw.ac.in](http://www.nitw.ac.in)
+ - date_published: 2024-09-10T14:17:48+00:00
+
+ ## NMEICT | National Mission on Education through Information and Communication Technology
+ - [http://nmeict.ac.in](http://nmeict.ac.in)
+ - date_published: 2024-06-12T11:10:48.645709+00:00
+
+ ## NPTEL IITm
+ - [https://nptel.ac.in](https://nptel.ac.in)
+ - date_published: 2024-06-22T11:32:34.187507+00:00
+
+ ## NTA Exam  | India
+ - [https://exams.nta.ac.in](https://exams.nta.ac.in)
+ - date_published: 2024-07-11T12:44:18+00:00
+
+ ## Parul University Vadodara: Best Private University in Gujarat
+ - [https://paruluniversity.ac.in](https://paruluniversity.ac.in)
+ - date_published: 2024-08-17T23:38:10.696363+00:00
+
+ ## PCE E-classroom
+ - [https://e-classroom.pce.ac.in](https://e-classroom.pce.ac.in)
+ - date_published: 2018-06-11T00:00:00+00:00
+
+ ## 2023 - PCE Exam Result
+ - [https://pceexamresults.pce.ac.in](https://pceexamresults.pce.ac.in)
+ - date_published: 2023-06-21T09:11:42+00:00
+
+ ## TPC-PCE
+ - [https://tpc.pce.ac.in](https://tpc.pce.ac.in)
+ - date_published: 2024-05-25T12:21:06+00:00
+
+ ## PCE | Pillai College of Engineering
+ - [https://www.pce.ac.in](https://www.pce.ac.in)
+ - date_published: 2024-06-17T01:57:19.649527+00:00
+
+ ## Official Website of Panjab University Chandigarh ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ ਚੰਡੀਗੜ੍ਹ पंजाब विश्वविद्यालय चंडीगढ़ पंजाब यूनिवर्सिटी चंडीगढ़ Chandigarh India
+ - [http://puchd.ac.in](http://puchd.ac.in)
+ - date_published: 2024-10-30T20:17:45.374946+00:00
+
+ ## Rajiv Gandhi University, Arunachal Pradesh
+ - [http://www.rgu.ac.in](http://www.rgu.ac.in)
+ - date_published: 2024-09-11T18:06:48.631466+00:00
+
+ ## Welcome to Department of Computer Science | Department of Computer Science
+ - [http://cs.rkmvu.ac.in](http://cs.rkmvu.ac.in)
+ - date_published: 2019-03-22T06:28:30+00:00
+
+ ## Login - Samarth eGov Suite
+ - [http://vnit.samarth.ac.in](http://vnit.samarth.ac.in)
+ - date_published: 2024-08-07T17:25:44.540834+00:00
+
+ ## Sharda University - Best Private University in Delhi, NCR
+ - [https://www.sharda.ac.in](https://www.sharda.ac.in)
+ - date_published: 2024-07-04T18:56:14.993622+00:00
+
+ ## https://sihm.ac.in/
+ - [https://sihm.ac.in](https://sihm.ac.in)
+ - date_published: 2024-08-08T13:10:19.138958+00:00
+
  ## Best Pharmacy College in Bhopal, Madhya Pradesh |SIRTS Pharmacy
  - [https://www.sirtspharmacy.ac.in](https://www.sirtspharmacy.ac.in)
  - date_published: 2024-09-10T11:07:06.479902+00:00
@@ -3919,108 +4023,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Keegan Burkett | Software Engineer & Product Designer
  - [https://keeg.in](https://keeg.in)
  - date_published: 2024-05-09T06:20:01.653424+00:00
-
- ## Keelin Jacobsen // Design + Code
- - [https://keel.in](https://keel.in)
- - date_published: 2023-12-21T23:54:13+00:00
-
- ## Sean.Ker.win
- - [https://kerw.in](https://kerw.in)
- - date_published: 2021-12-19T02:31:40+00:00
-
- ## Keshav Xplore
- - [https://www.keshavxplore.in](https://www.keshavxplore.in)
- - date_published: 2024-07-08T14:07:53+00:00
-
- ## Kev.in · It was a musical thing and you were supposed to sing.
- - [https://kev.in](https://kev.in)
- - date_published: 2021-02-15T14:45:04+00:00
-
- ## abhijithkeyaar: pixels + ink
- - [https://keyaar.in](https://keyaar.in)
- - date_published: 2024-04-02T01:53:13+00:00
-
- ## Kinetic India
- - [https://kineticcommunications.in](https://kineticcommunications.in)
- - date_published: 2024-06-17T01:58:47.555012+00:00
-
- ## Cierpliwości...
- - [https://kingu.in](https://kingu.in)
- - date_published: 2024-04-29T05:48:58.001129+00:00
-
- ## Kiran Gangadharan
- - [http://kirang.in](http://kirang.in)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Kirjutusmas.in | Kirjutusmasinad ja fotoaparaadid
- - [https://kirjutusmas.in](https://kirjutusmas.in)
- - date_published: 2024-06-19T07:45:26+00:00
-
- ## Agriculture news, agriculture news in hindi, farmers news, एग्रीकल्चर न्यूज, Agriculture News, Kisan tak, कृषि समाचार, PM Kisan, पीएम किसान
- - [https://kisantak.in](https://kisantak.in)
- - date_published: 2024-04-28T01:38:46.105587+00:00
-
- ## 400 Bad Request
- - [https://comments.kix.in](https://comments.kix.in)
- - date_published: 2024-04-28T01:41:12.820525+00:00
-
- ## Plausible · Web analytics
- - [https://data.kix.in](https://data.kix.in)
- - date_published: 2024-04-28T01:41:14.035505+00:00
-
- ## Talks and Ramblings by Anant Narayanan
- - [https://kix.in](https://kix.in)
- - date_published: 2023-10-25T19:31:09.999679+00:00
-
- ## KL11: Cross-disciplinary Design Studio
- - [https://kl11.in](https://kl11.in)
- - date_published: 2024-04-02T08:56:50+00:00
-
- ## Upto 50% Off - Buy JioSaavn E Gift Vouchers & Gift Cards
- - [https://jiosaavngvs.klippd.in](https://jiosaavngvs.klippd.in)
- - date_published: 2024-08-20T03:53:10.576934+00:00
-
- ## ᕕʕ •ᴥ•ʔ୨ Shank Space
- - [https://knhash.in](https://knhash.in)
- - date_published: 2024-09-18T12:34:49.465175+00:00
-
- ## the codeartist — programmer and engineer based in Berlin
- - [https://koehr.in](https://koehr.in)
- - date_published: 2022-07-26T13:44:34+00:00
-
- ## Konecranes
- - [https://www.konecranes.in](https://www.konecranes.in)
- - date_published: 2024-06-20T23:01:25.528350+00:00
-
- ## Home
- - [https://koppl.in](https://koppl.in)
- - date_published: 2023-10-14T21:08:04+00:00
-
- ## Kotlin Programming Language
- - [https://kotl.in](https://kotl.in)
- - date_published: 2024-07-19T13:38:33+00:00
-
- ## KreditBee - India's Fastest Personal Loan & Online Credit Platform
- - [https://www.kreditbee.in](https://www.kreditbee.in)
- - date_published: 2024-06-23T12:42:12.718318+00:00
-
- ## Department of Computer Science and Engineering, University of Kalyani ......
- - [http://kucse.in](http://kucse.in)
- - date_published: 2021-11-09T07:23:44+00:00
-
- ## A Complete Course on Indian Stock Market.
- - [https://www.kundankishore.in](https://www.kundankishore.in)
- - date_published: 2024-06-21T19:21:57.405748+00:00
-
- ## Kushal Das
- - [https://kushaldas.in](https://kushaldas.in)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Newsletter from Kushal
- - [https://news.kushaldas.in](https://news.kushaldas.in)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Search Kushal's mind
- - [https://search.kushaldas.in](https://search.kushaldas.in)
- - date_published: 2024-06-22T21:43:06.839593+00:00
 

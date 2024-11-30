@@ -1,3 +1,117 @@
+ ## Rakesh Jasti
+ - [https://rakeshjasti.github.io](https://rakeshjasti.github.io)
+ - date_published: 2018-12-20T03:32:31+00:00
+
+ ## Ram Ramrakhya
+ - [https://ram81.github.io](https://ram81.github.io)
+ - date_published: 2024-06-09T05:29:43+00:00
+
+ ## Rameen Abdal
+ - [https://rameenabdal.github.io](https://rameenabdal.github.io)
+ - date_published: 2024-07-10T09:08:44+00:00
+
+ ## Home ← Ranjit Jhala
+ - [https://ranjitjhala.github.io](https://ranjitjhala.github.io)
+ - date_published: 2024-10-08T13:43:10+00:00
+
+ ## Raphael Sourty
+ - [https://raphaelsty.github.io](https://raphaelsty.github.io)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Raph Levien’s blog | Blog of Raph Levien.
+ - [https://raphlinus.github.io](https://raphlinus.github.io)
+ - date_published: 2023-10-25T19:51:36.478581+00:00
+
+ ## Jimmy Ye | A Jekyll theme
+ - [https://rationalis.github.io](https://rationalis.github.io)
+ - date_published: 2023-07-10T05:37:35+00:00
+
+ ## Raunaq Bhirangi
+ - [https://raunaqbhirangi.github.io](https://raunaqbhirangi.github.io)
+ - date_published: 2024-05-04T15:29:57.378063+00:00
+
+ ## Rawan Alghofaili
+ - [https://rawanmg.github.io](https://rawanmg.github.io)
+ - date_published: 2024-06-12T22:14:37+00:00
+
+ ## Yi Ren (任意)
+ - [https://rayeren.github.io](https://rayeren.github.io)
+ - date_published: 2024-05-21T03:05:45+00:00
+
+ ## Ray Gardner's space
+ - [https://raygard.github.io](https://raygard.github.io)
+ - date_published: 2024-03-03T22:09:44+00:00
+
+ ## ZHU LEI (祝磊)
+ - [https://rayleizhu.github.io](https://rayleizhu.github.io)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## 仿生猫不会梦见电子猫粮 — To make each day count.
+ - [https://rayme.github.io](https://rayme.github.io)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Welcome | Raymond A. Yeh
+ - [https://raymondyeh07.github.io](https://raymondyeh07.github.io)
+ - date_published: 2024-04-09T18:18:08+00:00
+
+ ## Qi Fang
+ - [https://raypine.github.io](https://raypine.github.io)
+ - date_published: 2024-06-10T13:23:18.702024+00:00
+ - tags: ['personal']
+
+ ## Ray Tracing in One Weekend Series
+ - [https://raytracing.github.io](https://raytracing.github.io)
+ - date_published: 2024-07-26T20:24:50+00:00
+
+ ## Raza Yunus - Homepage
+ - [https://razayunus.github.io](https://razayunus.github.io)
+ - date_published: 2024-05-06T17:57:57+00:00
+
+ ## Razetime
+ - [https://razetime.github.io](https://razetime.github.io)
+ - date_published: 2024-05-23T09:33:43+00:00
+
+ ## RB
+ - [https://rbonichon.github.io](https://rbonichon.github.io)
+ - date_published: 2024-08-12T13:49:25+00:00
+
+ ## rcerc’s site
+ - [https://rcerc.github.io](https://rcerc.github.io)
+ - date_published: 2024-03-25T11:56:20+00:00
+ - tags: ['personal']
+
+ ## Ruihan Yang
+ - [https://rchalyang.github.io](https://rchalyang.github.io)
+ - date_published: 2024-07-07T02:55:08+00:00
+
+ ## Blogs
+ - [https://rdivyanshu.github.io](https://rdivyanshu.github.io)
+ - date_published: 2024-08-03T12:26:41+00:00
+
+ ## R. D. Müller – making the software-world a better place one document at a time
+ - [https://rdmueller.github.io](https://rdmueller.github.io)
+ - date_published: 2020-11-02T03:10:40+00:00
+
+ ## React Bootstrap | React Bootstrap
+ - [https://react-bootstrap.github.io](https://react-bootstrap.github.io)
+ - date_published: 2024-02-05T17:39:32+00:00
+
+ ## ReAct: Synergizing Reasoning and Acting in Language Models
+ - [https://react-lm.github.io](https://react-lm.github.io)
+ - date_published: 2022-11-27T22:43:10+00:00
+
+ ## Storybook
+ - [https://reactstrap.github.io](https://reactstrap.github.io)
+ - date_published: 2022-10-27T18:09:14+00:00
+
+ ## Learning Customized Visual Models with Retrieval-Augmented Knowledge
+ - [https://react-vl.github.io](https://react-vl.github.io)
+ - date_published: 2023-01-18T03:06:27+00:00
+
+ ## Readout Guidance: Learning Control from Diffusion Features
+ - [https://readout-guidance.github.io](https://readout-guidance.github.io)
+ - date_published: 2024-05-16T20:49:37+00:00
+
  ## Gen Li
  - [https://reagan1311.github.io](https://reagan1311.github.io)
  - date_published: 2024-03-28T00:00:00+00:00
@@ -3919,116 +4033,4 @@ Visualization
  ## Critical Reflections on Visualization Authoring Systems
  - [https://vis-tools-reflections.github.io](https://vis-tools-reflections.github.io)
  - date_published: 2019-07-23T22:29:41+00:00
-
- ## Visualize It | Home Page
- - [https://visualize-it.github.io](https://visualize-it.github.io)
- - date_published: 2024-04-30T07:35:05.950868+00:00
-
- ## Visual MIPS | Online MIPS Emulator
- - [https://visualmips.github.io](https://visualmips.github.io)
- - date_published: 2018-09-27T00:01:40+00:00
-
- ## Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models
- - [https://visual-program-distillation.github.io](https://visual-program-distillation.github.io)
- - date_published: 2024-04-05T00:46:08+00:00
-
- ## Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models
- - [https://visualsketchpad.github.io](https://visualsketchpad.github.io)
- - date_published: 2024-06-14T17:15:08+00:00
-
- ## VITA
- - [https://vita-group.github.io](https://vita-group.github.io)
- - date_published: 2024-04-30T03:57:26.867301+00:00
-
- ## Ellen Vitercik
- - [https://vitercik.github.io](https://vitercik.github.io)
- - date_published: 2024-06-27T00:59:09+00:00
-
- ## About me
- - [https://vittorio-caggiano.github.io](https://vittorio-caggiano.github.io)
- - date_published: 2024-06-10T13:14:51.069346+00:00
-
- ## Zifan Shi
- - [https://vivianszf.github.io](https://vivianszf.github.io)
- - date_published: 2024-03-22T05:08:59+00:00
-
- ## Rianna @vividfax
- - [https://vividfax.github.io](https://vividfax.github.io)
- - date_published: 2023-08-02T08:52:12+00:00
-
- ## Vivien Nguyen
- - [https://viviehn.github.io](https://viviehn.github.io)
- - date_published: 2024-04-25T09:36:43+00:00
-
- ## vivirenremoto - Miquel Camps - Portafolio
- - [https://vivirenremoto.github.io](https://vivirenremoto.github.io)
- - date_published: 2021-08-18T15:00:39+00:00
-
- ## Vivek Rao's portfolio
- - [https://vivrao9.github.io](https://vivrao9.github.io)
- - date_published: 2024-06-11T23:12:02+00:00
-
- ## CS111 - Adventures of programming
- - [https://vk4s.github.io](https://vk4s.github.io)
- - date_published: 2021-05-24T00:00:00+00:00
-
- ## Vivek Ramanujan
- - [https://vkramanuj.github.io](https://vkramanuj.github.io)
- - date_published: 2022-11-29T19:36:49+00:00
-
- ## Vision language models are blind
- - [https://vlmsareblind.github.io](https://vlmsareblind.github.io)
- - date_published: 2024-07-10T13:35:22+00:00
-
- ## CVPR2024 Tutorial: Recent Advanced in Vision Foundation Models
- - [https://vlp-tutorial.github.io](https://vlp-tutorial.github.io)
- - date_published: 2024-06-18T18:47:18+00:00
-
- ## Voilà Team Compass
- - [https://voila-dashboards.github.io](https://voila-dashboards.github.io)
- - date_published: 2023-12-07T14:56:00+00:00
-
- ## Vikram Voleti
- - [https://voletiv.github.io](https://voletiv.github.io)
- - date_published: 2024-08-23T02:50:02+00:00
-
- ## Your Project Title
- - [https://volodymyrvakhniuk.github.io](https://volodymyrvakhniuk.github.io)
- - date_published: 2024-04-17T17:32:54+00:00
-
- ## PVA - Pixel-aligned Volumetric Avatars.
- - [https://volumetric-avatars.github.io](https://volumetric-avatars.github.io)
- - date_published: 2021-01-08T02:01:20+00:00
-
- ## VoxPoser
- - [https://voxposer.github.io](https://voxposer.github.io)
- - date_published: 2023-11-02T07:01:52+00:00
-
- ## A Control-Centric Benchmark for Video Prediction
- - [https://vp2-iclr.github.io](https://vp2-iclr.github.io)
- - date_published: 2022-10-03T00:56:25+00:00
-
- ## VQA2VLN Tutorial 2021
- - [https://vqa2vln-tutorial.github.io](https://vqa2vln-tutorial.github.io)
- - date_published: 2021-06-23T21:17:04+00:00
-
- ## vrana.github.com
- - [https://vrana.github.io](https://vrana.github.io)
- - date_published: 2012-03-13T19:07:26+00:00
-
- ## Veronica Rivera
- - [https://vrivera2017.github.io](https://vrivera2017.github.io)
- - date_published: 2024-03-21T05:12:52+00:00
-
- ## VR-NeRF: High-Fidelity Virtualized Walkable Spaces
- - [https://vr-nerf.github.io](https://vr-nerf.github.io)
- - date_published: 2023-11-21T15:59:48+00:00
-
- ## index
- - [https://vrom911.github.io](https://vrom911.github.io)
- - date_published: 2022-09-17T10:15:41+00:00
-
- ## Vrroom’s Blog
- - [https://vrroom.github.io](https://vrroom.github.io)
- - date_published: 2024-02-23T00:00:00+00:00
 

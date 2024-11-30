@@ -1,3 +1,158 @@
+ ## T.C. Sanayi ve Teknoloji Bakanlığı
+ - [http://sanayi.gov.tr](http://sanayi.gov.tr)
+ - date_published: 2024-10-19T16:27:43.892581+00:00
+
+ ## T.C. İçişleri Bakanlığı Sahil Güvenlik Komutanlığı
+ - [https://www.sg.gov.tr](https://www.sg.gov.tr)
+ - date_published: 2024-09-19T19:52:19+00:00
+
+ ## Ana Sayfa
+ - [https://sifiratik.gov.tr](https://sifiratik.gov.tr)
+ - date_published: 2024-10-19T12:30:33.861514+00:00
+
+ ## T.C. Sivas Valiliği
+ - [http://www.sivas.gov.tr](http://www.sivas.gov.tr)
+ - date_published: 2024-10-19T17:14:02.606592+00:00
+
+ ## Spor Toto Teşkilat Başkanlığı
+ - [http://sportoto.gov.tr](http://sportoto.gov.tr)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Savunma Sanayii Baskanligi.
+ - [https://www.ssb.gov.tr](https://www.ssb.gov.tr)
+ - date_published: 2024-09-19T19:53:18+00:00
+
+ ## Study in Türkiye
+ - [https://studyinturkey.gov.tr](https://studyinturkey.gov.tr)
+ - date_published: 2024-05-02T10:25:20.250143+00:00
+
+ ## Study in Türkiye
+ - [https://www.studyinturkiye.gov.tr](https://www.studyinturkiye.gov.tr)
+ - date_published: 2024-06-17T15:10:38.519268+00:00
+
+ ## Türkiye Adalet Akademisi | TAA - taa.gov.tr
+ - [https://www.taa.gov.tr](https://www.taa.gov.tr)
+ - date_published: 2024-10-19T14:58:03.866202+00:00
+
+ ## T.C.CUMHURBAŞKANLIĞI : Anasayfa
+ - [https://www.tccb.gov.tr](https://www.tccb.gov.tr)
+ - date_published: 2024-06-17T14:59:59.149278+00:00
+
+ ## T.C. Ticaret Bakanlığı
+ - [https://www.ticaret.gov.tr](https://www.ticaret.gov.tr)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Tarım ve Kırsal Kalkınmayı Destekleme Kurumu | TKDK
+ - [https://www.tkdk.gov.tr](https://www.tkdk.gov.tr)
+ - date_published: 2024-10-19T17:12:15.948717+00:00
+
+ ## Ulusal Toplu Katalog - Tarama
+ - [https://www.toplukatalog.gov.tr](https://www.toplukatalog.gov.tr)
+ - date_published: 2024-05-02T10:28:48.267143+00:00
+
+ ## TRDizin – TRDizin
+ - [https://app.trdizin.gov.tr](https://app.trdizin.gov.tr)
+ - date_published: 2024-06-17T15:56:57.238633+00:00
+
+ ## TRDizin – TRDizin
+ - [https://trdizin.gov.tr](https://trdizin.gov.tr)
+ - date_published: 2024-06-17T15:27:34.245115+00:00
+
+ ## Ana Sayfa - Türk Ulusal Bilim e-Altyapısı
+ - [https://portal.truba.gov.tr](https://portal.truba.gov.tr)
+ - date_published: 2024-06-17T15:56:54.225424+00:00
+
+ ## Türkiye Uzay Ajansı
+ - [https://tua.gov.tr](https://tua.gov.tr)
+ - date_published: 2024-10-19T17:12:01.129514+00:00
+
+ ## Türkiye Bilimler Akademisi
+ - [https://tuba.gov.tr](https://tuba.gov.tr)
+ - date_published: 2024-10-19T14:38:23.664052+00:00
+
+ ## ARBİS - Araştırmacı Bilgi Sistemi
+ - [https://arbis.tubitak.gov.tr](https://arbis.tubitak.gov.tr)
+ - date_published: 2024-05-02T10:25:39.528705+00:00
+
+ ## Kamu SM - Kamu Sertifikasyon Merkezi - Elektronik Sertifika Hizmet Sağlayıcısı ve E-imza Uygulamaları
+ - [https://kamusm.bilgem.tubitak.gov.tr](https://kamusm.bilgem.tubitak.gov.tr)
+ - date_published: 2024-09-12T13:54:31.694675+00:00
+
+ ## | TÜBİMER
+ - [https://tubimer.tubitak.gov.tr](https://tubimer.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:27:24.219075+00:00
+
+ ## TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+ - [https://tubitak.gov.tr](https://tubitak.gov.tr)
+ - date_published: 2024-07-08T16:08:44+00:00
+
+ ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
+ - [https://ulakbim.tubitak.gov.tr](https://ulakbim.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:57:15.300855+00:00
+
+ ## e-Devlet Kapısı
+ - [https://giris.turkiye.gov.tr](https://giris.turkiye.gov.tr)
+ - date_published: 2024-06-17T03:48:46.370717+00:00
+
+ ## e-Devlet Kapısı Devletin Kısayolu | www.türkiye.gov.tr
+ - [https://turkiye.gov.tr](https://turkiye.gov.tr)
+ - date_published: 2024-08-07T22:46:12.172442+00:00
+
+ ## Türkiye Bursları
+ - [https://turkiyeburslari.gov.tr](https://turkiyeburslari.gov.tr)
+ - date_published: 2024-06-17T15:10:26.418720+00:00
+
+ ## TÜRKPATENT
+ - [https://www.turkpatent.gov.tr](https://www.turkpatent.gov.tr)
+ - date_published: 2024-10-19T14:37:41.769936+00:00
+
+ ## Savunma ve Havacılık Sanayi İhracatçıları Birliği
+ - [https://www.turksavunmasanayi.gov.tr](https://www.turksavunmasanayi.gov.tr)
+ - date_published: 2024-09-19T19:58:36.965994+00:00
+
+ ## Eurodesk
+ - [http://eurodesk.ua.gov.tr](http://eurodesk.ua.gov.tr)
+ - date_published: 2024-09-15T20:56:03.127016+00:00
+
+ ## TURNAPortal
+ - [https://turnaportal.ua.gov.tr](https://turnaportal.ua.gov.tr)
+ - date_published: 2024-06-13T13:52:09+00:00
+
+ ## Ulusal Ajans
+ - [https://ua.gov.tr](https://ua.gov.tr)
+ - date_published: 2024-06-17T15:02:03.211379+00:00
+
+ ## ÜAK
+            
+            
+            Ana Sayfa
+ - [http://www.uak.gov.tr](http://www.uak.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ana sayfa | TÜBİTAK-ULAKBİM Açık Ders Platformu
+ - [https://acikders.ulakbim.gov.tr](https://acikders.ulakbim.gov.tr)
+ - date_published: 2024-10-19T16:29:54.155145+00:00
+
+ ## Açık Veri Açık Bilim – Açık Veri Açık Bilim
+ - [https://acikveri.ulakbim.gov.tr](https://acikveri.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:56:52.433924+00:00
+
+ ## Aperta - Türkiye Açık Arşivi
+ - [https://aperta.ulakbim.gov.tr](https://aperta.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:16.744639+00:00
+
+ ## Harman Türkiye Akademik Arşivi
+ - [https://arsiv.ulakbim.gov.tr](https://arsiv.ulakbim.gov.tr)
+ - date_published: 2024-06-04T07:04:55+00:00
+
+ ## Cahit Arf Bilgi Merkezi
+ - [https://cabim.ulakbim.gov.tr](https://cabim.ulakbim.gov.tr)
+ - date_published: 2024-05-02T10:28:35.258103+00:00
+
+ ## TÜBİTAK ULAKBİM Etkinlikleri · Ulakbim Etkinlikler Sayfası (Indico)
+ - [https://etkinlik.ulakbim.gov.tr](https://etkinlik.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:18.548849+00:00
+
  ## Harman Türkiye Akademik Arşivi
  - [https://harman.ulakbim.gov.tr](https://harman.ulakbim.gov.tr)
  - date_published: 2024-06-04T07:04:55+00:00
@@ -3922,156 +4077,4 @@
  ## Sign in ・ Cloudflare Access
  - [https://uk.zendesk.tv](https://uk.zendesk.tv)
  - date_published: 2024-10-08T21:59:57.353892+00:00
-
- ## Best android tv box-ZIDOO tv box,best KODI box,zidoo Streaming Media Player
- - [https://www.zidoo.tv](https://www.zidoo.tv)
- - date_published: 2017-12-31T00:00:00+00:00
-
- ## 智家网-智能家居品牌加盟--和网络媒体
- - [http://www.znjj.tv](http://www.znjj.tv)
- - date_published: 2024-10-25T11:57:06.982335+00:00
-
- ## 104人力銀行－不只找工作、幫你找方向的求職徵才平台
- - [https://www.104.com.tw](https://www.104.com.tw)
- - date_published: 2024-06-21T15:29:30.333209+00:00
-
- ## 新通訊
- - [https://www.2cm.com.tw](https://www.2cm.com.tw)
- - date_published: 2024-10-31T12:02:09.481347+00:00
-
- ## 優質醫療保健資訊平台 - 39健康網
- - [https://www.39health.com.tw](https://www.39health.com.tw)
- - date_published: 2024-10-25T10:28:07.886295+00:00
-
- ## 3M 科技 改善生活│3M 台灣
- - [https://www.3m.com.tw](https://www.3m.com.tw)
- - date_published: 2024-08-06T10:39:18.957136+00:00
-
- ## 4Gamers
- - [https://www.4gamers.com.tw](https://www.4gamers.com.tw)
- - date_published: 2024-08-18T06:58:02.510552+00:00
-
- ## Adecco 藝珂人事股份有限公司 | Adecco Taiwan
- - [https://www.adecco.com.tw](https://www.adecco.com.tw)
- - date_published: 2024-10-29T04:20:52.735605+00:00
-
- ## ADK TAIWAN | 觸動心消費，促動新價值
- - [https://www.adk.com.tw](https://www.adk.com.tw)
- - date_published: 2024-10-15T14:15:07.768587+00:00
-
- ## Employee Portal - Homepage
- - [https://employeezone.advantech.com.tw](https://employeezone.advantech.com.tw)
- - date_published: 2024-09-05T21:53:21.654863+00:00
-
- ## Home - eRMA
- - [https://erma.advantech.com.tw](https://erma.advantech.com.tw)
- - date_published: 2024-09-05T21:53:37.350949+00:00
-
- ## 漢翔航空工業股份有限公司
- - [http://www.aidc.com.tw](http://www.aidc.com.tw)
- - date_published: 2024-07-09T21:50:34.130857+00:00
-
- ## Airbnb | 度假屋、小木屋、海邊房源等
- - [https://airbnb.com.tw](https://airbnb.com.tw)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
- - [https://www.altair.com.tw](https://www.altair.com.tw)
- - date_published: 2024-10-15T22:27:54+00:00
-
- ## 亞馬遜台灣 | 跨境電商網站 | Amazon 亞馬遜全球開店
- - [https://gs.amazon.com.tw](https://gs.amazon.com.tw)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 主頁 | Ambarella
- - [https://www.ambarella.com.tw](https://www.ambarella.com.tw)
- - date_published: 2024-09-14T09:54:46.796660+00:00
-
- ## Home
- - [https://ametek.com.tw](https://ametek.com.tw)
- - date_published: 2024-06-15T10:44:11.823112+00:00
-
- ## Audi Taiwan
- - [http://www.audi.com.tw](http://www.audi.com.tw)
- - date_published: 2024-07-19T20:24:15+00:00
-
- ## Blue Dragon Art Company
- - [http://www.bluedragonart.com.tw](http://www.bluedragonart.com.tw)
- - date_published: 2024-06-17T16:53:58.153195+00:00
-
- ## 國家地理雜誌｜大石文化官方商城
- - [https://www.bmall.com.tw](https://www.bmall.com.tw)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## 數位時代 BusinessNext
- - [https://www.bnext.com.tw](https://www.bnext.com.tw)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Event Go活動平台 | 你學習新知的好夥伴
- - [https://eventgo.bnextmedia.com.tw](https://eventgo.bnextmedia.com.tw)
- - date_published: 2024-10-20T09:26:19.088764+00:00
-
- ## 歡迎光臨博客來
- - [http://www.books.com.tw](http://www.books.com.tw)
- - date_published: 2024-06-30T03:49:29.046892+00:00
-
- ## 博世家電：品質、可靠與精確的美好體驗。
- - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
- - date_published: 2024-06-16T21:35:17.259808+00:00
-
- ## 臺灣銀行 Bank of Taiwan
- - [https://www.bot.com.tw](https://www.bot.com.tw)
- - date_published: 2024-10-19T22:30:50.135408+00:00
-
- ## CAPCOM TAIWAN
- - [https://capcom.com.tw](https://capcom.com.tw)
- - date_published: 2024-05-09T14:42:21.961851+00:00
-
- ## 『ROCKMAN X DIVE』官方網站
- - [http://rxd.capcom.com.tw](http://rxd.capcom.com.tw)
- - date_published: 2024-10-24T09:41:12.152878+00:00
-
- ## 醫級好膚 | 舒特膚®
- - [https://www.cetaphil.com.tw](https://www.cetaphil.com.tw)
- - date_published: 2024-10-30T23:02:34.359432+00:00
-
- ## CHALLENTECH INTERNATIONAL CORP.
- - [http://www.challentech.com.tw](http://www.challentech.com.tw)
- - date_published: 2024-10-19T03:55:06.400480+00:00
-
- ## 中華電信 - 5G行動上網通話、HiNet光世代寬頻上網/市話、MOD影視娛樂及智慧生活應用 | 中華電信網路門市CHT.com.tw
- - [https://www.cht.com.tw](https://www.cht.com.tw)
- - date_published: 2024-07-07T10:16:07.952880+00:00
-
- ## 城邦讀書花園網路書店
- - [http://www.cite.com.tw](http://www.cite.com.tw)
- - date_published: 2024-06-30T07:06:59.085507+00:00
-
- ## Citi 台灣
- - [https://www.citibank.com.tw](https://www.citibank.com.tw)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## CITIZEN 男錶 韋禮安 代言網站
- - [https://ambassador.citizenwatch.com.tw](https://ambassador.citizenwatch.com.tw)
- - date_published: 2024-06-27T09:01:14+00:00
-
- ## 主頁 | CITIZEN WATCH
- - [https://citizenwatch.com.tw](https://citizenwatch.com.tw)
- - date_published: 2024-05-08T05:28:55.259101+00:00
-
- ## CITIZEN 女錶 田馥甄 代言網站
- - [https://lady.citizenwatch.com.tw](https://lady.citizenwatch.com.tw)
- - date_published: 2024-02-05T03:13:50+00:00
-
- ## 歡迎來到 CITROËN 臺灣網站
- - [https://citroen.com.tw](https://citroen.com.tw)
- - date_published: 2024-05-08T05:30:24.170665+00:00
-
- ## 中央社新聞學院
- - [https://academy.cna.com.tw](https://academy.cna.com.tw)
- - date_published: 2024-05-12T07:10:24.181349+00:00
-
- ## 中央社 CNA
- - [https://cna.com.tw](https://cna.com.tw)
- - date_published: 2024-05-12T07:07:51.107899+00:00
 

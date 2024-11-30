@@ -1,3 +1,155 @@
+ ## Авторизация через OAuth 2.0 от Mail.ru
+ - [https://o2.mail.ru](https://o2.mail.ru)
+ - date_published: 2024-06-20T12:16:33+00:00
+
+ ## Авторизация через OAuth 2.0 от Mail.ru
+ - [https://oauth.mail.ru](https://oauth.mail.ru)
+ - date_published: 2024-06-07T07:34:37+00:00
+
+ ## Питомцы Mail.ru
+ - [https://pets.mail.ru](https://pets.mail.ru)
+ - date_published: 2024-06-02T18:43:52.147415+00:00
+
+ ## В Гожув-Велькопольски (воскресенье, 2 июня 2024, 20:44) 21°C, гроза
+ - [https://pogoda.mail.ru](https://pogoda.mail.ru)
+ - date_published: 2024-06-02T18:44:04.146505+00:00
+
+ ## Промокоды на hi-tech.mail.ru | Скидки, купоны, распродажи
+ - [https://promocodes.hi-tech.mail.ru](https://promocodes.hi-tech.mail.ru)
+ - date_published: 2024-09-04T06:27:27.780410+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://r3.mail.ru](https://r3.mail.ru)
+ - date_published: 2024-07-08T08:48:01.803325+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://r.mail.ru](https://r.mail.ru)
+ - date_published: 2024-06-16T12:57:14.088389+00:00
+
+ ## Рекламная платформа myTarget — Сервис таргетированной рекламы
+ - [https://rs.mail.ru](https://rs.mail.ru)
+ - date_published: 2024-06-02T18:43:36.417422+00:00
+
+ ## Статус работы | VK Cloud
+ - [https://status.mcs.mail.ru](https://status.mcs.mail.ru)
+ - date_published: 2024-06-23T12:45:27.143196+00:00
+
+ ## ESMP CP
+ - [https://support.mcs.mail.ru](https://support.mcs.mail.ru)
+ - date_published: 2024-06-17T15:53:20+00:00
+
+ ## Телепрограмма на сегодня —&nbsp;Москва
+ - [https://tv.mail.ru](https://tv.mail.ru)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## ВФокусе - всё самое актуальное, интересное и необычное, что происходило в России и мире
+ - [https://vfokuse.mail.ru](https://vfokuse.mail.ru)
+ - date_published: 2024-06-02T18:43:47.916958+00:00
+
+ ## Video Mail.Ru
+ - [https://video.mail.ru](https://video.mail.ru)
+ - date_published: 2024-05-07T09:19:09.352844+00:00
+
+ ## Перенаправление
+ - [https://vk.mail.ru](https://vk.mail.ru)
+ - date_published: 2024-06-29T13:36:19.704008+00:00
+
+ ## Блог Mail
+ - [https://whatsnew.mail.ru](https://whatsnew.mail.ru)
+ - date_published: 2024-09-04T06:29:59.521956+00:00
+
+ ## Календарь Mail.ru
+ - [https://x.calendar.mail.ru](https://x.calendar.mail.ru)
+ - date_published: 2024-06-02T18:43:46.335421+00:00
+
+ ## www.make-it-in-germany.com/ru
+ - [https://www.make-it-in-germany.ru](https://www.make-it-in-germany.ru)
+ - date_published: 2024-07-13T17:32:24.729285+00:00
+
+ ## Центр лечения боли Тольятти
+ - [https://managmentpain.ru](https://managmentpain.ru)
+ - date_published: 2024-07-10T11:18:29+00:00
+
+ ## Издательство МИФ
+ - [https://www.mann-ivanov-ferber.ru](https://www.mann-ivanov-ferber.ru)
+ - date_published: 2024-06-21T19:58:16.130020+00:00
+
+ ## Авторизация
+ - [https://intranet.marvel.ru](https://intranet.marvel.ru)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Master of Orion - Официальный Сайт: игра о космосе
+ - [http://master-of-orion.ru](http://master-of-orion.ru)
+ - date_published: 2024-05-29T06:17:06+00:00
+
+ ## Матч ТВ - Онлайн трансляции спортивных событий, обзор новостей, видео мероприятий и интервью спортсменов.
+ - [https://matchtv.ru](https://matchtv.ru)
+ - date_published: 2024-06-21T14:39:13.795824+00:00
+
+ ## Высшая математика для заочников и не только
+ - [http://mathprofi.ru](http://mathprofi.ru)
+ - date_published: 2024-06-23T18:34:07.168842+00:00
+
+ ## Мужской онлайн-журнал
+ - [https://www.maximonline.ru](https://www.maximonline.ru)
+ - date_published: 2024-10-27T11:30:43.110983+00:00
+
+ ## fartbeads.ru
+ - [http://med-cos.ru](http://med-cos.ru)
+ - date_published: 2024-07-15T04:12:21.581916+00:00
+
+ ## MedGadgets.ru - Интернет-магазин гаджетов, медицинские электронные новинки, устройства для здоровья
+ - [https://medgadgets.ru](https://medgadgets.ru)
+ - date_published: 2024-07-13T13:38:46.082233+00:00
+
+ ## Welcome to nginx!
+ - [https://rusbrics.mediacdn.ru](https://rusbrics.mediacdn.ru)
+ - date_published: 2020-06-19T18:38:17+00:00
+
+ ## соцсети [Россия] ^ MediaMetrics: свежие котировки новостей
+ - [https://mediametrics.ru](https://mediametrics.ru)
+ - date_published: 2024-06-20T13:31:50+00:00
+
+ ## Радио МедиаМетрикс
+ - [http://radio.mediametrics.ru](http://radio.mediametrics.ru)
+ - date_published: 2024-06-20T13:32:19.193486+00:00
+
+ ## MedicalExpo - Маркетплейс B2B в области медицинского оборудования: медицинское оборудование, медицинская визуализация, мебель для больниц, лабораторное оборудование...
+ - [https://www.medicalexpo.ru](https://www.medicalexpo.ru)
+ - date_published: 2024-10-21T23:35:45.988360+00:00
+
+ ## Медика Продакт
+ - [https://medicaproduct.ru](https://medicaproduct.ru)
+ - date_published: 2024-06-21T14:55:24.463525+00:00
+
+ ## Компания Мегар разрабатывает платежные и процессинговые системы в Москве
+ - [https://megar.ru](https://megar.ru)
+ - date_published: 2024-06-20T19:36:40+00:00
+
+ ## Main Cards.Ru
+ - [https://meil.ru](https://meil.ru)
+ - date_published: 2024-07-20T11:30:03.534475+00:00
+
+ ## METRO | Для бизнеса и покупателей
+ - [https://www.metro-cc.ru](https://www.metro-cc.ru)
+ - date_published: 2024-06-29T13:36:16.046091+00:00
+
+ ## Corporate file sharing MFlash for business
+ - [https://mflash.ru](https://mflash.ru)
+ - date_published: 2021-07-19T15:15:57+00:00
+
+ ## Микромоторы, микроконтроллеры и двигатели для приборов купить, заказать в Москве | Микропривод
+ - [https://www.microprivod.ru](https://www.microprivod.ru)
+ - date_published: 2024-09-05T21:01:09.207621+00:00
+
+ ## وزارة الدفاع الروسية - الصفحة الرئيسية
+ - [http://ar.mil.ru](http://ar.mil.ru)
+ - date_published: 2024-07-16T23:01:48.250953+00:00
+
+ ## Личный кабинет Военнослужащего
+ - [https://cabinet.mil.ru](https://cabinet.mil.ru)
+ - date_published: 2024-07-16T23:01:24.012210+00:00
+
  ## Банк документов : Министерство обороны Российской Федерации
  - [http://doc.mil.ru](http://doc.mil.ru)
  - date_published: 2024-07-16T23:01:46.850742+00:00
@@ -3870,156 +4022,4 @@
  ## الصفحة الرئيسية | كلية التمريض
  - [https://nursing.kku.edu.sa](https://nursing.kku.edu.sa)
  - date_published: 2024-09-04T05:28:47.225870+00:00
-
- ## الصفحة الرئيسية | كلية التمريض بمحايل عسير
- - [https://nursingm.kku.edu.sa](https://nursingm.kku.edu.sa)
- - date_published: 2024-09-04T05:29:02.052621+00:00
-
- ## منصة دليل العروضات | الصفحة الرئيسية
- - [https://offers.kku.edu.sa](https://offers.kku.edu.sa)
- - date_published: 2024-09-04T05:29:24.857299+00:00
-
- ## الصفحة الرئيسية | كلية الصيدلة
- - [https://pharmacy.kku.edu.sa](https://pharmacy.kku.edu.sa)
- - date_published: 2024-09-04T05:29:11.963496+00:00
-
- ## Home page | عمادة التطوير والجودة
- - [https://quality.kku.edu.sa](https://quality.kku.edu.sa)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## e-Services
- - [https://registration.kku.edu.sa](https://registration.kku.edu.sa)
- - date_published: 2020-12-28T10:10:38+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية بظهران الجنوب
- - [https://sadhf.kku.edu.sa](https://sadhf.kku.edu.sa)
- - date_published: 2024-09-04T05:27:59.660211+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية بخميس مشيط
- - [https://sakhf1.kku.edu.sa](https://sakhf1.kku.edu.sa)
- - date_published: 2024-09-04T05:27:34.497791+00:00
-
- ## الصفحة الرئيسية | عمادة شؤون الطلاب
- - [https://sa.kku.edu.sa](https://sa.kku.edu.sa)
- - date_published: 2024-09-04T05:28:10.339644+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية بالمجاردة
- - [https://samjf.kku.edu.sa](https://samjf.kku.edu.sa)
- - date_published: 2024-09-04T05:27:37.347821+00:00
-
- ## مرحباً بكم | الكلية التطبيقية بسراة عبيدة
- - [https://sasaf.kku.edu.sa](https://sasaf.kku.edu.sa)
- - date_published: 2024-09-04T05:27:26.339214+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية بتنومة
- - [https://sat.kku.edu.sa](https://sat.kku.edu.sa)
- - date_published: 2024-09-04T05:28:59.589093+00:00
-
- ## الصفحة الرئيسية | كلية العلوم
- - [https://science.kku.edu.sa](https://science.kku.edu.sa)
- - date_published: 2024-09-04T05:28:37.478037+00:00
-
- ## الجمعية السعودية للعلوم الفيزيائية
- - [https://sps.kku.edu.sa](https://sps.kku.edu.sa)
- - date_published: 2024-09-04T05:29:20.189920+00:00
-
- ## الجمعية السعودية العلمية للمعلم ( جسم )
- - [https://ssat.kku.edu.sa](https://ssat.kku.edu.sa)
- - date_published: 2024-09-04T05:29:06.594374+00:00
-
- ## الجمعيّة السّعوديّة للحوكمة
- - [https://ssg.kku.edu.sa](https://ssg.kku.edu.sa)
- - date_published: 2024-09-04T05:27:46.908904+00:00
-
- ## Saudi Society for Medical Education
- - [https://ssme.kku.edu.sa](https://ssme.kku.edu.sa)
- - date_published: 2024-09-04T05:29:38.059080+00:00
-
- ## جامعة تبوك
- - [http://www.ut.edu.sa](http://www.ut.edu.sa)
- - date_published: 2024-10-30T20:17:04+00:00
-
- ## موقع المؤسسة العامة للتأمينات الاجتماعية
- - [https://www.gosi.gov.sa](https://www.gosi.gov.sa)
- - date_published: 2024-07-03T11:19:17+00:00
-
- ## مجتمع حيوي ممكن، وبيئة عمل متميزة نحو سوق عمل جاذب.  | وزارة الموارد البشرية والتنمية الاجتماعية
- - [https://www.hrsd.gov.sa](https://www.hrsd.gov.sa)
- - date_published: 2024-07-07T03:25:11.086438+00:00
-
- ## النفاذ الوطني الموحد
- - [https://www.iam.gov.sa](https://www.iam.gov.sa)
- - date_published: 2024-09-25T10:00:11.106511+00:00
-
- ## Ministry of investment | وزارة الاستثمار
- - [https://misa.gov.sa](https://misa.gov.sa)
- - date_published: 2023-11-12T11:06:23+00:00
-
- ## وزارة الثقافة السعودية
- - [https://www.moc.gov.sa](https://www.moc.gov.sa)
- - date_published: 2024-07-06T19:24:28.695951+00:00
-
- ## وزارة التعليم | الرئيسية
- - [https://www.moe.gov.sa](https://www.moe.gov.sa)
- - date_published: 2024-09-04T05:29:33.620408+00:00
-
- ## وزارة المالية - المملكة العربية السعودية
- - [https://www.mof.gov.sa](https://www.mof.gov.sa)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## الرئيسية
- - [https://www.moi.gov.sa](https://www.moi.gov.sa)
- - date_published: 2024-09-25T10:02:04.401926+00:00
-
- ## المملكة العربية السعودية - وزارة العدل
- - [https://www.moj.gov.sa](https://www.moj.gov.sa)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Ministry of Tourism | Saudi Arabia
- - [https://mt.gov.sa](https://mt.gov.sa)
- - date_published: 2024-07-06T19:24:53.581383+00:00
-
- ## Saudi Arabia’s National Portal for Government Services
- - [https://www.my.gov.sa](https://www.my.gov.sa)
- - date_published: 2024-01-28T13:15:44+00:00
-
- ## PIF - Public Investment Fund | PIF
- - [https://www.pif.gov.sa](https://www.pif.gov.sa)
- - date_published: 2024-07-06T19:24:36.080727+00:00
-
- ## الهيئة الملكية لمدينة الرياض
- - [https://www.rcrc.gov.sa](https://www.rcrc.gov.sa)
- - date_published: 2024-07-06T19:24:38.670973+00:00
-
- ## سدايا | الهيئة السعودية للبيانات والذكاء الاصطناعي
- - [https://sdaia.gov.sa](https://sdaia.gov.sa)
- - date_published: 2024-10-29T06:07:07+00:00
-
- ## وكالة الأنباء السعودية
- - [https://www.spa.gov.sa](https://www.spa.gov.sa)
- - date_published: 2024-09-25T10:00:21.424371+00:00
-
- ## Saudi eLearning | Travel Agent Training | Learning Program
- - [https://learning.sta.gov.sa](https://learning.sta.gov.sa)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Visit Saudi Partner
- - [https://marketplace.sta.gov.sa](https://marketplace.sta.gov.sa)
- - date_published: 2024-07-15T04:50:12.438575+00:00
-
- ## الصفحة الرئيسية  |  الهيئة السعودية للسياحة
- - [https://www.sta.gov.sa](https://www.sta.gov.sa)
- - date_published: 2024-06-26T11:51:11+00:00
-
- ## رؤية السعودية 2030
- - [https://vision2030.gov.sa](https://vision2030.gov.sa)
- - date_published: 2024-09-04T05:27:40.000734+00:00
-
- ## اتحاد الغرف السعودية
- - [https://fsc.org.sa](https://fsc.org.sa)
- - date_published: 2024-09-25T10:00:48.953619+00:00
-
- ## هيئة الاتصالات والفضاء والتقنية
- - [http://www.ipv6.org.sa](http://www.ipv6.org.sa)
- - date_published: 2024-07-07T00:00:00+00:00
 

@@ -1,3 +1,98 @@
+ ## Dale French - Full Stack Developer
+ - [https://dalefrench.dev](https://dalefrench.dev)
+ - date_published: 2024-05-11T10:17:39.175311+00:00
+
+ ## Plausible · Web analytics
+ - [https://tele.dallen.dev](https://tele.dallen.dev)
+ - date_published: 2024-09-04T15:38:38.645188+00:00
+
+ ## Dana Ross — Engineering Leader, Full-Stack Developer, Certified Accessibility Professional
+ - [https://danaross.dev](https://danaross.dev)
+ - date_published: 2024-05-09T08:24:57.692036+00:00
+
+ ## Dan Hannigan
+ - [https://danhannigan.dev](https://danhannigan.dev)
+ - date_published: 2024-08-08T12:49:26.818580+00:00
+
+ ## Daniel's Site
+ - [https://danielc.dev](https://danielc.dev)
+ - date_published: 2024-07-28T20:23:01+00:00
+
+ ## Daniel de Haas
+ - [https://danielde.dev](https://danielde.dev)
+ - date_published: 2024-09-16T13:12:52+00:00
+
+ ## CV Daniël Krux
+ - [https://danielkrux.dev](https://danielkrux.dev)
+ - date_published: 2024-07-20T18:41:12.398545+00:00
+
+ ## Home
+ - [https://danielle-m.dev](https://danielle-m.dev)
+ - date_published: 2024-05-11T10:07:50.906146+00:00
+
+ ## Daniel Little Dev
+ - [https://daniellittle.dev](https://daniellittle.dev)
+ - date_published: 2024-06-01T05:05:51.788323+00:00
+ - tags: ['personal']
+
+ ## Daniel Patterson
+ - [https://danielpatterson.dev](https://danielpatterson.dev)
+ - date_published: 2023-11-23T00:33:06+00:00
+
+ ## Dan Schaefer | Software Developer Coach
+ - [https://danschaefer.dev](https://danschaefer.dev)
+ - date_published: 2024-11-18T12:15:21+00:00
+
+ ## Introduction - Danswer Documentation
+ - [https://docs.danswer.dev](https://docs.danswer.dev)
+ - date_published: 2024-08-11T16:54:46.716842+00:00
+
+ ## Dan Vega - Java Champion, Spring Developer Advocate, YouTuber and Lifelong Learner
+ - [https://danvega.dev](https://danvega.dev)
+ - date_published: 2024-01-21T00:00:00+00:00
+ - tags: ['personal']
+
+ ## dappKit - The simple way to start your web3 project
+ - [https://dappkit.dev](https://dappkit.dev)
+ - date_published: 2024-09-04T11:54:39.202279+00:00
+
+ ## About dappKit | dappKit Documentation
+ - [https://docs.dappkit.dev](https://docs.dappkit.dev)
+ - date_published: 2024-09-04T11:54:32.595699+00:00
+
+ ## @taikai/dappkit
+ - [https://sdk.dappkit.dev](https://sdk.dappkit.dev)
+ - date_published: 2023-03-13T10:01:42+00:00
+
+ ## A blog by Yosua Ian Sebastian
+ - [https://darcien.dev](https://darcien.dev)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Darcien Home Lab Status
+ - [https://status.darcien.dev](https://status.darcien.dev)
+ - date_published: 2024-06-15T07:24:25.546591+00:00
+
+ ## Dart - Dart API docs
+ - [https://api.dart.dev](https://api.dart.dev)
+ - date_published: 2024-06-23T10:42:02.712465+00:00
+
+ ## Dart programming language
+ - [https://dart.dev](https://dart.dev)
+ - date_published: 2024-04-28T02:26:06.253045+00:00
+
+ ## DartPad
+ - [https://dartpad.dev](https://dartpad.dev)
+ - date_published: 2024-04-29T07:44:11.474614+00:00
+ - tags: ['dart', 'editor', 'flutter']
+
+ ## Show HN: Darwin – Automate Your GitHub Project with AI
+ - [https://darwin-ai.dev](https://darwin-ai.dev)
+ - date_published: 2024-02-26T17:33:06+00:00
+
+ ## dasdom.dev
+ - [https://dasdom.dev](https://dasdom.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Osman Cea
  - [https://daslaf.dev](https://daslaf.dev)
  - date_published: 2024-05-09T08:25:50.170872+00:00
@@ -3982,98 +4077,4 @@
  ## Litestar
  - [https://blog.litestar.dev](https://blog.litestar.dev)
  - date_published: 2024-05-09T07:23:19.905496+00:00
-
- ## Page Redirection
- - [https://docs.litestar.dev](https://docs.litestar.dev)
- - date_published: 2024-05-09T07:23:07.591958+00:00
-
- ## Litestar – powerful, flexible, and highly performant Python ASGI framework
- - [https://litestar.dev](https://litestar.dev)
- - date_published: 2024-02-26T22:38:07+00:00
-
- ## Home - Livebook.dev
- - [https://livebook.dev](https://livebook.dev)
- - date_published: 2024-04-30T00:29:09.957709+00:00
-
- ## Livebook.dev - The Livebook Blog
- - [https://news.livebook.dev](https://news.livebook.dev)
- - date_published: 2023-10-25T18:39:31.130189+00:00
-
- ## LiveCharts - LiveCharts2
- - [https://livecharts.dev](https://livecharts.dev)
- - date_published: 2024-05-07T16:04:25.565896+00:00
-
- ## LizardByte
- - [https://app.lizardbyte.dev](https://app.lizardbyte.dev)
- - date_published: 2024-06-16T19:39:53+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.lab.llcoolserver.dev](https://plausible.lab.llcoolserver.dev)
- - date_published: 2024-09-09T21:48:36.681062+00:00
-
- ## Oxford LLMs
- - [https://www.llmsforsocialsciene.dev](https://www.llmsforsocialsciene.dev)
- - date_published: 2023-08-31T00:00:00+00:00
-
- ## 502 Bad Gateway
- - [https://git.l-m.dev](https://git.l-m.dev)
- - date_published: 2024-04-29T07:57:00.329691+00:00
-
- ## l-m.dev | Home
- - [https://l-m.dev](https://l-m.dev)
- - date_published: 2023-10-25T18:39:02.477432+00:00
-
- ## 502 Bad Gateway
- - [https://me.l-m.dev](https://me.l-m.dev)
- - date_published: 2024-04-29T07:56:53.882906+00:00
-
- ## Sidebar For Tiny Theme
- - [https://sidebar-for-tiny-theme.lmika.dev](https://sidebar-for-tiny-theme.lmika.dev)
- - date_published: 2024-04-06T02:02:05+00:00
-
- ## Local-First Web Development
- - [https://localfirstweb.dev](https://localfirstweb.dev)
- - date_published: 2023-10-25T18:39:34.514760+00:00
- - tags: ['web design', 'programming philosophy']
-
- ## localghost
- - [https://localghost.dev](https://localghost.dev)
- - date_published: 2024-01-07T19:02:10.388264+00:00
-
- ## type__error’s Twitter Archive
- - [https://twitter.localghost.dev](https://twitter.localghost.dev)
- - date_published: 2022-11-20T00:00:00+00:00
-
- ## Lodash
- - [https://lodash.dev](https://lodash.dev)
- - date_published: 2024-07-12T17:58:28.127804+00:00
-
- ## LogalDeveloper
- - [https://logal.dev](https://logal.dev)
- - date_published: 2024-07-24T21:29:22.024060+00:00
- - tags: ['personal']
-
- ## Logdy
- - [https://demo.logdy.dev](https://demo.logdy.dev)
- - date_published: 2024-04-30T00:31:38.931646+00:00
-
- ## Logdy
- - [https://logdy.dev](https://logdy.dev)
- - date_published: 2024-02-06T21:45:51.770938+00:00
-
- ## Logica – Declarative logic programming language for data
- - [https://logica.dev](https://logica.dev)
- - date_published: 2024-11-16T19:09:30+00:00
-
- ## Logo API | Logo.dev Company and Brand API
- - [https://img.logo.dev](https://img.logo.dev)
- - date_published: 2024-07-01T05:02:19.826170+00:00
-
- ## Logo API | Logo.dev Company and Brand API
- - [https://www.logo.dev](https://www.logo.dev)
- - date_published: 2024-07-01T05:02:23.482421+00:00
-
- ## Logotypes API
- - [https://logotypes.dev](https://logotypes.dev)
- - date_published: 2018-10-20T01:46:40+00:00
 

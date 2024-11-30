@@ -1,3 +1,60 @@
+ ## The Joy of Cryptography
+ - [https://joyofcryptography.com](https://joyofcryptography.com)
+ - date_published: 2024-08-19T16:32:40.367946+00:00
+
+ ## Joy of Setup
+ - [https://www.joyofsetup.com](https://www.joyofsetup.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Geek Culture and The Joy of Tech: pretty much everything you've ever wanted.
+ - [http://www.joyoftech.com](http://www.joyoftech.com)
+ - date_published: 2024-06-13T17:22:46+00:00
+
+ ## Joypanner
+ - [https://www.joypanner.com](https://www.joypanner.com)
+ - date_published: 2024-06-19T16:07:54+00:00
+
+ ## Joyride Pizza
+ - [https://www.joyridepizza.com](https://www.joyridepizza.com)
+ - date_published: 2024-10-17T05:45:54.822433+00:00
+
+ ## Engadget is part of the Yahoo family of brands
+ - [http://www.joystiq.com](http://www.joystiq.com)
+ - date_published: 2024-06-28T15:45:11.371959+00:00
+
+ ## Joy The Baker
+ - [https://joythebaker.com](https://joythebaker.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Shop Joy the Baker - Cookbooks, magazines, baking mixes and more!
+ - [https://shop.joythebaker.com](https://shop.joythebaker.com)
+ - date_published: 2024-06-29T10:14:40.667219+00:00
+
+ ## 鑫荣懋企业官网--新鲜水果专家
+ - [http://joywingmau.com](http://joywingmau.com)
+ - date_published: 2024-06-19T23:22:24.348590+00:00
+
+ ## Jozu MLOps
+ - [https://jozu.com](https://jozu.com)
+ - date_published: 2024-02-21T18:36:13+00:00
+
+ ## JP Aerospace
+ - [https://jpaerospace.com](https://jpaerospace.com)
+ - date_published: 2024-03-18T20:22:55+00:00
+ - tags: ['cosmos', 'aerospace']
+
+ ## We help you create successful product culture and process
+ - [https://jpattonassociates.com](https://jpattonassociates.com)
+ - date_published: 2024-07-19T16:29:40.087071+00:00
+
+ ## Jey Pawlik
+ - [https://jpawlik.com](https://jpawlik.com)
+ - date_published: 2024-06-23T18:49:04.881748+00:00
+
+ ## JP Camara
+ - [https://jpcamara.com](https://jpcamara.com)
+ - date_published: 2023-10-25T15:32:02.482701+00:00
+
  ## JPC van Heijst | Aviation - Aerial - Travel Photography | jpcvanheijst.com
  - [https://jpcvanheijst.com](https://jpcvanheijst.com)
  - date_published: 2023-10-25T15:32:13.512617+00:00
@@ -3980,60 +4037,4 @@
  ## Kaltura Purchasing Framework
  - [https://subscription.kaltura.com](https://subscription.kaltura.com)
  - date_published: 2024-04-18T06:49:13+00:00
-
- ## Teradata turns webinar MQLs into opportunities - Save the Date
- - [https://teradata-turns-mqls-into-opps.events.kaltura.com](https://teradata-turns-mqls-into-opps.events.kaltura.com)
- - date_published: 2024-09-20T19:27:25+00:00
-
- ## Tips for infusing AI into your live and on-demand content lifecycle - Save the Date
- - [https://tips-for-infusing-ai.events.kaltura.com](https://tips-for-infusing-ai.events.kaltura.com)
- - date_published: 2024-08-08T22:36:49+00:00
-
- ## Kaltura Videos
- - [https://videos.kaltura.com](https://videos.kaltura.com)
- - date_published: 2024-06-16T02:13:28+00:00
-
- ## VPaaS Lobby
- - [https://vpaas.kaltura.com](https://vpaas.kaltura.com)
- - date_published: 2024-06-20T11:08:57+00:00
-
- ## Wake Forest University
- - [https://wakeforest.mediaspace.kaltura.com](https://wakeforest.mediaspace.kaltura.com)
- - date_published: 2024-07-01T06:39:30+00:00
-
- ## Kaltura Pitch
- - [https://kaltura-pitch.com](https://kaltura-pitch.com)
- - date_published: 2024-06-16T02:13:43.161083+00:00
-
- ## B2B SaaS Marketing Agency | SaaS Growth | Kalungi, Inc.
- - [https://www.kalungi.com](https://www.kalungi.com)
- - date_published: 2024-06-25T19:51:44+00:00
-
- ## Kalwabed Rizki - Software engineer
- - [https://kalwabed.com](https://kalwabed.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Kalypso Media Blog
- - [https://blog.kalypsomedia.com](https://blog.kalypsomedia.com)
- - date_published: 2024-07-08T12:44:10.701285+00:00
-
- ## Kalypso Store
- - [https://kalypsomedia.com](https://kalypsomedia.com)
- - date_published: 2024-07-08T13:14:01.120952+00:00
-
- ## Bits about Money by Patrick McKenzie (patio11)
- - [https://bam.kalzumeus.com](https://bam.kalzumeus.com)
- - date_published: 2023-10-25T15:34:14.688386+00:00
-
- ## Kalzumeus Software
- - [https://kalzumeus.com](https://kalzumeus.com)
- - date_published: 2024-05-06T13:57:18.553568+00:00
-
- ## Patrick McKenzie (patio11) Teaches You To Sell More Software | Kalzumeus Training
- - [https://training.kalzumeus.com](https://training.kalzumeus.com)
- - date_published: 2023-10-25T15:34:15.693875+00:00
-
- ## Kyiv Academy of Media Arts
- - [https://www.k-a-m-a.com](https://www.k-a-m-a.com)
- - date_published: 2021-03-24T08:41:13+00:00
 

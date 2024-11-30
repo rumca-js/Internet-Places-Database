@@ -1,3 +1,118 @@
+ ## Spellbook - AI Contract Review & Drafting
+ - [https://spellbook.legal](https://spellbook.legal)
+ - date_published: 2024-10-30T15:56:11+00:00
+
+ ## Trust Center
+ - [https://trust.spellbook.legal](https://trust.spellbook.legal)
+ - date_published: 2024-10-30T23:23:55.806131+00:00
+
+ ## Sports Shorts
+ - [https://www.sports.legal](https://www.sports.legal)
+ - date_published: 2024-09-15T23:34:14.283218+00:00
+
+ ## Paramount | Terms of Use and Policy Links
+ - [https://www.viacomcbs.legal](https://www.viacomcbs.legal)
+ - date_published: 2024-01-10T15:52:55+00:00
+
+ ## QueerAus
+ - [https://aus.lgbt](https://aus.lgbt)
+ - date_published: 2024-07-13T04:41:07.432895+00:00
+
+ ## Bark!
+ - [https://bark.lgbt](https://bark.lgbt)
+ - date_published: 2024-08-18T14:03:04.473266+00:00
+
+ ## Mastodon
+ - [https://hugs.lgbt](https://hugs.lgbt)
+ - date_published: 2024-06-23T17:08:51.032803+00:00
+
+ ## maia!
+ - [https://maia.lgbt](https://maia.lgbt)
+ - date_published: 2024-06-17T23:14:39+00:00
+
+ ## Luna
+ - [https://moonbase.lgbt](https://moonbase.lgbt)
+ - date_published: 2023-12-06T23:21:34.239624+00:00
+ - tags: ['personal']
+
+ ## nano's website
+ - [https://nano.lgbt](https://nano.lgbt)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Grafana
+ - [https://metrics.tech.lgbt](https://metrics.tech.lgbt)
+ - date_published: 2024-09-09T22:39:13.004051+00:00
+
+ ## LGBTQIA+ and Tech
+ - [https://tech.lgbt](https://tech.lgbt)
+ - date_published: 2024-04-28T05:56:58.008694+00:00
+ - tags: ['lgbt']
+
+ ## tech.lgbt uptime
+ - [https://uptime.tech.lgbt](https://uptime.tech.lgbt)
+ - date_published: 2024-09-09T22:39:11.233160+00:00
+
+ ## toot.lgbt
+ - [https://toot.lgbt](https://toot.lgbt)
+ - date_published: 2024-05-02T13:41:12.476088+00:00
+
+ ## UNSW Queer Collective
+ - [https://unsw.lgbt](https://unsw.lgbt)
+ - date_published: 2024-05-09T07:48:18.139587+00:00
+ - tags: ['lgbt']
+
+ ## The h Programming Language
+ - [https://h.within.lgbt](https://h.within.lgbt)
+ - date_published: 2024-08-19T16:59:53.117544+00:00
+
+ ## Pronouns
+ - [https://pronouns.within.lgbt](https://pronouns.within.lgbt)
+ - date_published: 2024-07-20T18:11:07.571716+00:00
+
+ ## Home
+ - [https://abf.li](https://abf.li)
+ - date_published: 2024-03-05T02:05:40+00:00
+
+ ## Agronetto Liechtenstein – ein Online-Marktplatz für Landmaschinen und Ersatzteile
+ - [https://agronetto.li](https://agronetto.li)
+ - date_published: 2024-08-11T15:42:33.225479+00:00
+
+ ## - aha - Tipps & Infos für junge Leute
+ - [http://www.aha.li](http://www.aha.li)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## J. G. A. Saviranta
+ - [https://akse.li](https://akse.li)
+ - date_published: 2024-07-13T04:16:15.318695+00:00
+
+ ## AI search that understands
+ - [https://alg.li](https://alg.li)
+ - date_published: 2024-05-01T03:12:27.574857+00:00
+
+ ## Wiki - Front Page
+ - [https://wiki.alopex.li](https://wiki.alopex.li)
+ - date_published: 2023-10-25T20:17:59.299382+00:00
+
+ ## Anna’s Archive
+ - [https://annas-archive.li](https://annas-archive.li)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Anneli Ulsberg - Web and interaction designer
+ - [https://anne.li](https://anne.li)
+ - date_published: 2022-03-26T11:54:58+00:00
+
+ ## archive.li
+ - [https://archive.li](https://archive.li)
+ - date_published: 2024-05-04T09:04:24.201819+00:00
+
+ ## Claudio Bartoli
+ - [https://barto.li](https://barto.li)
+ - date_published: 2024-07-13T04:14:48.289619+00:00
+
+ ## blog.bdw.li
+ - [https://blog.bdw.li](https://blog.bdw.li)
+ - date_published: 2024-01-10T18:09:52.991560+00:00
+
  ## Heroku | Application Error
  - [http://bench.li](http://bench.li)
  - date_published: 2024-09-09T21:39:57.715201+00:00
@@ -3923,119 +4038,4 @@
  - [https://scribbles.jbowdre.lol](https://scribbles.jbowdre.lol)
  - date_published: 2024-06-10T07:07:51.494941+00:00
  - tags: ['personal']
-
- ## ☺☀️
- - [https://jenny.lol](https://jenny.lol)
- - date_published: 2022-07-19T06:03:48+00:00
-
- ## Freddy's Jottings · Kudos Mark
- - [https://jottings.lol](https://jottings.lol)
- - date_published: 2024-08-18T07:14:29.561673+00:00
-
- ## @julian
- - [https://jtgs.lol](https://jtgs.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## july ♦
- - [https://july.lol](https://july.lol)
- - date_published: 2024-09-05T12:09:53.274001+00:00
-
- ## Justine Tunney's Web Page
- - [https://justine.lol](https://justine.lol)
- - date_published: 2023-10-25T08:59:33.852013+00:00
- - tags: ['personal']
-
- ## Recent Posts
- - [https://jva.lol](https://jva.lol)
- - date_published: 2016-01-01T00:00:00+00:00
-
- ## KipStream - Free Movies and TV Shows
- - [https://kipstream.lol](https://kipstream.lol)
- - date_published: 2024-11-12T18:18:14+00:00
- - tags: ['movies', 'piracy']
-
- ## kosta.lol
- - [https://kosta.lol](https://kosta.lol)
- - date_published: 2024-04-12T06:18:21+00:00
-
- ## @laker
- - [https://laker.lol](https://laker.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Welcome to my Notes!
- - [https://leafoutloud.lol](https://leafoutloud.lol)
- - date_published: 2024-08-03T00:15:50+00:00
-
- ## LimeTorrents - Download Verified Torrents
- - [https://limetorrents.lol](https://limetorrents.lol)
- - date_published: 2024-11-07T09:29:48+00:00
- - tags: ['piracy']
-
- ## limone - always zesty
- - [https://www.limone.lol](https://www.limone.lol)
- - date_published: 2024-09-24T11:04:27.937145+00:00
-
- ## Linkage
- - [https://linkage.lol](https://linkage.lol)
- - date_published: 2024-06-22T13:46:49.212684+00:00
-
- ## @phan
- - [https://now.lis.lol](https://now.lis.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## @phan
- - [https://phan.lis.lol](https://phan.lis.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## @phan’s statuslog
- - [https://status.lis.lol](https://status.lis.lol)
- - date_published: 2024-08-07T20:33:58.251268+00:00
-
- ## Listr
- - [https://listr.lol](https://listr.lol)
- - date_published: 2024-08-18T22:02:40.674018+00:00
-
- ## lmno.lol
- - [https://lmno.lol](https://lmno.lol)
- - date_published: 2024-07-04T18:42:15.683892+00:00
-
- ## Looo.lol – a binary math site
- - [https://looo.lol](https://looo.lol)
- - date_published: 2023-12-22T00:02:32+00:00
-
- ## App Addict
- - [https://apps.louplummer.lol](https://apps.louplummer.lol)
- - date_published: 2024-06-21T22:05:35.480240+00:00
-
- ## Living Out Loud
- - [https://louplummer.lol](https://louplummer.lol)
- - date_published: 2024-06-20T20:53:39.188668+00:00
-
- ## what wolf?
- - [https://luap.lol](https://luap.lol)
- - date_published: 2024-08-07T20:03:55.043421+00:00
-
- ## blog.luke.lol – resources and tips
- - [https://blog.luke.lol](https://blog.luke.lol)
- - date_published: 2023-06-08T00:00:00+00:00
-
- ## @maique
- - [https://maique.lol](https://maique.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## makebelieve
- - [https://makebelieve.lol](https://makebelieve.lol)
- - date_published: 2024-10-28T07:12:45.294351+00:00
-
- ## https://mastodon.lol
- - [https://mastodon.lol](https://mastodon.lol)
- - date_published: 2024-01-09T03:34:13.121723+00:00
-
- ## Matei's Other Site
- - [https://matei.lol](https://matei.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## @mchal
- - [https://mchal.lol](https://mchal.lol)
- - date_published: 2024-01-09T00:00:00+00:00
 

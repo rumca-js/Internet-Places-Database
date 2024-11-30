@@ -1,3 +1,11 @@
+ ## PKFARE
+ - [http://pkfare.udesk.cn](http://pkfare.udesk.cn)
+ - date_published: 2024-09-25T12:54:08.278869+00:00
+
+ ## 沃丰科技-Udesk-中国人工智能与营销服务解决方案提供商
+ - [https://www.udesk.cn](https://www.udesk.cn)
+ - date_published: 2024-07-11T08:11:34+00:00
+
  ## 新西兰奥克兰大学中文网站
  - [https://www.uniauckland.cn](https://www.uniauckland.cn)
  - date_published: 2024-07-10T00:00:00+00:00
@@ -4000,12 +4008,4 @@ _中国网
  ## 北京理工大学工会网站
  - [http://gonghui.bit.edu.cn](http://gonghui.bit.edu.cn)
  - date_published: 2024-06-26T01:56:21+00:00
-
- ## 北京理工大学研究生院
- - [http://grd.bit.edu.cn](http://grd.bit.edu.cn)
- - date_published: 2024-07-26T02:34:29+00:00
-
- ## 北京理工大学迎新网
- - [http://hi.bit.edu.cn](http://hi.bit.edu.cn)
- - date_published: 2024-07-11T00:00:00+00:00
 

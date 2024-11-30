@@ -1,3 +1,11 @@
+ ## Sign in to your account
+ - [https://forja.javerianacali.edu.co](https://forja.javerianacali.edu.co)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Inicio
+ - [https://javerianacali.edu.co](https://javerianacali.edu.co)
+ - date_published: 2019-12-19T13:50:00+00:00
+
  ## OneGate
  - [https://mg-local.servicios.javerianacali.edu.co](https://mg-local.servicios.javerianacali.edu.co)
  - date_published: 2024-09-11T16:59:15.161310+00:00
@@ -4021,12 +4029,4 @@
  - [https://manny.codes](https://manny.codes)
  - date_published: 2023-10-25T09:03:51.081821+00:00
  - tags: ['personal']
-
- ## Home
- - [https://mar.codes](https://mar.codes)
- - date_published: 2024-06-23T14:36:46.444550+00:00
-
- ## CSV to JSON
- - [https://csvtojson.marvellous.codes](https://csvtojson.marvellous.codes)
- - date_published: 2024-09-26T12:33:16.030844+00:00
 

@@ -1,4 +1,60 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-sensor-equipment-europe.medicaltechoutlook.com](https://medical-sensor-equipment-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:38.461585+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-apac.medicaltechoutlook.com](https://medtech-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:18.776202+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-devices-startups.medicaltechoutlook.com](https://medtech-devices-startups.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:00.985076+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-europe.medicaltechoutlook.com](https://medtech-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:07.774739+00:00
+
+ ## Top Medical Technology Trends and Benefits | Medical Tech Outlook
+ - [https://med-tech.medicaltechoutlook.com](https://med-tech.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:27.718806+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-startups-apac.medicaltechoutlook.com](https://medtech-startups-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:56.629649+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://mena.medicaltechoutlook.com](https://mena.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:18.258888+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://mobility-aids.medicaltechoutlook.com](https://mobility-aids.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:30.040879+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://molecular-diagnostics-apac.medicaltechoutlook.com](https://molecular-diagnostics-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:20.753058+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://neurology.medicaltechoutlook.com](https://neurology.medicaltechoutlook.com)
+ - date_published: 2024-05-07T13:59:59.189697+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://neuromodulation-devices-europe.medicaltechoutlook.com](https://neuromodulation-devices-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:28.296294+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://non-invasive-device-europe.medicaltechoutlook.com](https://non-invasive-device-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:05.657864+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://orthopedic-apac.medicaltechoutlook.com](https://orthopedic-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:15.504394+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://orthopedic-europe.medicaltechoutlook.com](https://orthopedic-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:02.091479+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://orthopedic.medicaltechoutlook.com](https://orthopedic.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:13:11.254710+00:00
 
@@ -528,6 +584,10 @@
  - [https://andreasnaoum.medium.com](https://andreasnaoum.medium.com)
  - date_published: 2024-04-16T00:00:00+00:00
 
+ ## Andrey Lebedev – Medium
+ - [https://andremoniy.medium.com](https://andremoniy.medium.com)
+ - date_published: 2024-11-29T23:40:11.594066+00:00
+
  ## Andrew S Klug // ASK – Medium
  - [https://andrew-s-klug.medium.com](https://andrew-s-klug.medium.com)
  - date_published: 2024-05-12T04:25:44.389605+00:00
@@ -776,6 +836,10 @@
  ## Billy Lo – Medium
  - [https://billylo.medium.com](https://billylo.medium.com)
  - date_published: 2024-06-01T04:56:22.628191+00:00
+
+ ## BITBEE (Coding & Design) – Medium
+ - [https://bitbee.medium.com](https://bitbee.medium.com)
+ - date_published: 2024-11-29T06:08:16.489806+00:00
 
  ## Bitrue – Medium
  - [https://bitrue.medium.com](https://bitrue.medium.com)
@@ -3965,69 +4029,4 @@
  ## Women4Cyber Portugal – Medium
  - [https://women4cyberportugal.medium.com](https://women4cyberportugal.medium.com)
  - date_published: 2024-06-28T22:07:54.261120+00:00
-
- ## George Dillard – Medium
- - [https://worldhistory.medium.com](https://worldhistory.medium.com)
- - date_published: 2023-10-25T10:23:43.451858+00:00
-
- ## Wagner Carvalho – Medium
- - [https://wrccdesign.medium.com](https://wrccdesign.medium.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Yann Eves – Medium
- - [https://yanneves.medium.com](https://yanneves.medium.com)
- - date_published: 2024-07-02T21:21:08.953922+00:00
-
- ## Yash Banka – Medium
- - [https://yashbanka.medium.com](https://yashbanka.medium.com)
- - date_published: 2024-05-10T06:45:27.709317+00:00
-
- ## Yassine EL KHAL – Medium
- - [https://yassineelkhal.medium.com](https://yassineelkhal.medium.com)
- - date_published: 2024-04-30T07:42:33.970310+00:00
- - tags: ['personal']
-
- ## John Pradeep Vincent – Medium
- - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
- - date_published: 2023-10-25T10:23:46.196937+00:00
-
- ## From Narrow To General AI – Medium
- - [https://ykulbashian.medium.com](https://ykulbashian.medium.com)
- - date_published: 2024-06-14T08:16:11.550055+00:00
-
- ## Yoav Goldwein – Medium
- - [https://yoav298.medium.com](https://yoav298.medium.com)
- - date_published: 2024-09-12T19:00:21.115520+00:00
-
- ## Yogesh Malik – Medium
- - [https://yogeshmalik.medium.com](https://yogeshmalik.medium.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Submit a request – Medium Help Center
- - [http://yourfriends.medium.com](http://yourfriends.medium.com)
- - date_published: 2024-08-07T19:14:44.865957+00:00
-
- ## Medium
- - [https://youssefraafat57.medium.com](https://youssefraafat57.medium.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Yancey Strickler – Medium
- - [https://ystrickler.medium.com](https://ystrickler.medium.com)
- - date_published: 2024-04-28T04:55:18.569319+00:00
-
- ## Eliezer Yudkowsky – Medium
- - [https://yudkowsky.medium.com](https://yudkowsky.medium.com)
- - date_published: 2024-07-07T07:20:11.831145+00:00
-
- ## Yugant Nakhawa – Medium
- - [https://yugantnakhawa.medium.com](https://yugantnakhawa.medium.com)
- - date_published: 2024-06-22T07:05:23.142462+00:00
-
- ## Zachary Thomas – Medium
- - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
- - date_published: 2023-10-25T10:23:48.150446+00:00
-
- ## Zameer – Medium
- - [https://zameermfm.medium.com](https://zameermfm.medium.com)
- - date_published: 2024-07-29T04:28:35.209981+00:00
 

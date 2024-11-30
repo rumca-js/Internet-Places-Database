@@ -1,3 +1,47 @@
+ ## General Mills: A U.S. based food company. - General Mills
+ - [https://www.generalmills.com](https://www.generalmills.com)
+ - date_published: 2024-06-23T16:32:04.182539+00:00
+
+ ## Keming Labs: Data & Design
+ - [https://generalreactives.com](https://generalreactives.com)
+ - date_published: 2024-02-14T08:51:34+00:00
+
+ ## GeneralsJoes
+ - [http://generalsjoes.com](http://generalsjoes.com)
+ - date_published: 2024-07-04T15:12:34.589406+00:00
+
+ ## General Type Studio
+ - [https://www.generaltypestudio.com](https://www.generaltypestudio.com)
+ - date_published: 2024-10-29T13:36:54.095243+00:00
+
+ ## Automate your visual marketing
+ - [https://www.generatebanners.com](https://www.generatebanners.com)
+ - date_published: 2024-06-21T19:14:58+00:00
+
+ ## Documentation
+ - [https://docs.generateblocks.com](https://docs.generateblocks.com)
+ - date_published: 2024-06-20T04:27:49.239066+00:00
+
+ ## GenerateBlocks
+ - [https://generateblocks.com](https://generateblocks.com)
+ - date_published: 2024-06-20T04:27:50.820118+00:00
+
+ ## GenerateJS
+ - [http://www.generateconf.com](http://www.generateconf.com)
+ - date_published: 2024-06-23T10:25:36.643303+00:00
+
+ ## Random Interesting Facts | Read thousands of funny, interesting and weird facts.
+ - [http://www.generatefacts.com](http://www.generatefacts.com)
+ - date_published: 2024-10-30T23:24:15.468465+00:00
+
+ ## Strong Password Generator
+ - [https://generatemypassword.com](https://generatemypassword.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Documentation
+ - [https://docs.generatepress.com](https://docs.generatepress.com)
+ - date_published: 2024-05-04T07:46:41.377831+00:00
+
  ## GeneratePress - The perfect foundation for your WordPress website.
  - [https://generatepress.com](https://generatepress.com)
  - date_published: 2023-12-11T16:30:04.131404+00:00
@@ -3990,50 +4034,4 @@ Homepage
  ## Asystent AI GG
  - [https://ai.ggchat.com](https://ai.ggchat.com)
  - date_published: 2024-08-20T12:20:59+00:00
-
- ## GG Live Chat : Darmowy Czat na stronę internetową
- - [https://ggchat.com](https://ggchat.com)
- - date_published: 2024-06-14T07:32:41.404331+00:00
-
- ## Goodguys Classifieds Site
- - [https://ggclassifieds.com](https://ggclassifieds.com)
- - date_published: 2024-06-19T08:12:13.681374+00:00
-
- ## GGDreamcast
- - [https://www.ggdreamcast.com](https://www.ggdreamcast.com)
- - date_published: 2024-08-22T22:17:12.207441+00:00
-
- ## Galileo Global Education | Applied Arts, Fashion, Design & Management
- - [https://www.ggeedu.com](https://www.ggeedu.com)
- - date_published: 2024-07-02T23:13:52.635887+00:00
-
- ## dot-to-ascii
- - [https://dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com)
- - date_published: 2019-12-05T20:50:19+00:00
-
- ## Georgi Gerganov's Home Page
- - [https://ggerganov.com](https://ggerganov.com)
- - date_published: 2023-03-12T11:30:46+00:00
- - tags: ['personal']
-
- ## Index of /
- - [https://ggml.ggerganov.com](https://ggml.ggerganov.com)
- - date_published: 2024-05-04T07:57:30.027029+00:00
-
- ## GGMorse
- - [https://ggmorse.ggerganov.com](https://ggmorse.ggerganov.com)
- - date_published: 2021-07-28T16:53:59+00:00
-
- ## HNGuessr
- - [https://hnguessr.ggerganov.com](https://hnguessr.ggerganov.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## HNTerm - Hacker News in the terminal
- - [https://hnterm.ggerganov.com](https://hnterm.ggerganov.com)
- - date_published: 2022-03-13T17:36:54+00:00
- - tags: ['interesting page design']
-
- ## imgui-ws
- - [https://imgui-ws.ggerganov.com](https://imgui-ws.ggerganov.com)
- - date_published: 2021-08-14T17:23:12+00:00
 

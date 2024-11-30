@@ -1,3 +1,103 @@
+ ## Events - UIndy 360
+ - [https://events.uindy.edu](https://events.uindy.edu)
+ - date_published: 2024-06-30T05:15:32.847777+00:00
+
+ ## Event Calendar - University of Indianapolis
+ - [https://getinvolved.uindy.edu](https://getinvolved.uindy.edu)
+ - date_published: 2024-06-30T05:15:46.486086+00:00
+
+ ## Careers | Job Application
+ - [https://hrjobs.uindy.edu](https://hrjobs.uindy.edu)
+ - date_published: 2024-06-30T05:15:36.415018+00:00
+
+ ## University of Indianapolis
+ - [https://map.uindy.edu](https://map.uindy.edu)
+ - date_published: 2024-06-30T05:15:38.430458+00:00
+
+ ## Sign in to your account
+ - [https://my.uindy.edu](https://my.uindy.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Home - UIndy 360
+ - [https://news.uindy.edu](https://news.uindy.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## University of Indianapolis
+ - [http://uindy.edu](http://uindy.edu)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## YOU INDY – University of Indianapolis – UIndy thrives with you.
+ - [https://you.uindy.edu](https://you.uindy.edu)
+ - date_published: 2024-06-30T05:15:42.622266+00:00
+
+ ## Admissions | The University of Iowa
+ - [https://admissions.uiowa.edu](https://admissions.uiowa.edu)
+ - date_published: 2024-07-02T02:15:48+00:00
+
+ ## IIS Windows Server
+ - [https://apps.dentistry.uiowa.edu](https://apps.dentistry.uiowa.edu)
+ - date_published: 2023-06-20T19:41:02+00:00
+
+ ## University of Iowa Assets
+ - [https://assets.uiowa.edu](https://assets.uiowa.edu)
+ - date_published: 2017-06-09T16:03:35+00:00
+
+ ## Brand Manual | The University of Iowa
+ - [https://brand.uiowa.edu](https://brand.uiowa.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Pomerantz Career Center | The University of Iowa
+ - [https://careers.uiowa.edu](https://careers.uiowa.edu)
+ - date_published: 2024-07-02T02:01:18+00:00
+
+ ## The University of Iowa 2024-25 General Catalog < University of Iowa
+ - [http://catalog.registrar.uiowa.edu](http://catalog.registrar.uiowa.edu)
+ - date_published: 2024-07-01T13:13:11+00:00
+
+ ## College of Liberal Arts and Sciences | The University of Iowa
+ - [https://clas.uiowa.edu](https://clas.uiowa.edu)
+ - date_published: 2024-05-07T21:15:56.514442+00:00
+
+ ## Content Hub
+ - [https://content.uiowa.edu](https://content.uiowa.edu)
+ - date_published: 2024-07-02T02:33:44+00:00
+
+ ## Novel Coronavirus (COVID-19) | The University of Iowa
+ - [https://coronavirus.uiowa.edu](https://coronavirus.uiowa.edu)
+ - date_published: 2024-06-24T22:55:49+00:00
+
+ ## College of Dentistry and Dental Clinics | The University of Iowa
+ - [https://dentistry.uiowa.edu](https://dentistry.uiowa.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Welcome to The University of Iowa Libraries | The University of Iowa Libraries
+ - [http://digital.lib.uiowa.edu](http://digital.lib.uiowa.edu)
+ - date_published: 2024-06-24T08:20:26+00:00
+
+ ## Distance and Online Education | The University of Iowa
+ - [https://distance.uiowa.edu](https://distance.uiowa.edu)
+ - date_published: 2024-06-28T16:58:34+00:00
+
+ ## Home The University of Iowa Division of Access, Opportunity, and Diversity
+ - [https://diversity.uiowa.edu](https://diversity.uiowa.edu)
+ - date_published: 2024-10-18T22:21:12.530925+00:00
+
+ ## College of Liberal Arts and Sciences | The University of Iowa
+ - [https://divms.uiowa.edu](https://divms.uiowa.edu)
+ - date_published: 2024-10-15T21:12:56+00:00
+
+ ## Emergency Information | The University of Iowa
+ - [https://emergency.uiowa.edu](https://emergency.uiowa.edu)
+ - date_published: 2024-07-02T00:52:11+00:00
+
+ ## Events Calendar
+ - [https://events.uiowa.edu](https://events.uiowa.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Free Speech at Iowa | The University of Iowa
+ - [https://freespeech.uiowa.edu](https://freespeech.uiowa.edu)
+ - date_published: 2024-06-24T23:12:18+00:00
+
  ## Graduate Admissions | The University of Iowa
  - [https://grad.admissions.uiowa.edu](https://grad.admissions.uiowa.edu)
  - date_published: 2024-06-27T20:03:43+00:00
@@ -3905,104 +4005,4 @@ Center for Information Technology Integration
  ## Index of /
  - [http://www-users.cselabs.umn.edu](http://www-users.cselabs.umn.edu)
  - date_published: 2024-07-15T07:09:15.269350+00:00
-
- ## Index of /
- - [https://www-users.cse.umn.edu](https://www-users.cse.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Index of /
- - [https://www-users.cs.umn.edu](https://www-users.cs.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Index of /
- - [http://www-users.math.umn.edu](http://www-users.math.umn.edu)
- - date_published: 2023-08-16T00:00:00+00:00
-
- ## Z
- - [https://z.umn.edu](https://z.umn.edu)
- - date_published: 2024-05-07T21:32:12.111832+00:00
-
- ## University of Maine at Presque Isle
- - [https://www.umpi.edu](https://www.umpi.edu)
- - date_published: 2024-07-02T03:47:49.244563+00:00
-
- ## Index Page
- - [https://access.myview.umsl.edu](https://access.myview.umsl.edu)
- - date_published: 2023-10-19T17:59:57+00:00
-
- ## UMSL Blogs
- - [https://blogs.umsl.edu](https://blogs.umsl.edu)
- - date_published: 2024-10-16T05:00:23.895793+00:00
-
- ## Events Calendar
- - [https://calendar.umsl.edu](https://calendar.umsl.edu)
- - date_published: 2024-10-16T05:01:27.734119+00:00
-
- ## UMSL Community Connect
- - [https://community.umsl.edu](https://community.umsl.edu)
- - date_published: 2024-10-16T04:00:41+00:00
-
- ## Attention Required! | Cloudflare
- - [https://giving.umsl.edu](https://giving.umsl.edu)
- - date_published: 2024-10-16T05:01:30.331591+00:00
-
- ## Sign in to your account
- - [https://myview.umsl.edu](https://myview.umsl.edu)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## University of Missouri–St. Louis
- - [https://www.umsl.edu](https://www.umsl.edu)
- - date_published: 2024-06-13T14:07:16+00:00
-
- ## One canvas - Missouri Online | Office of eLearning | UM System
- - [https://canvas.umsystem.edu](https://canvas.umsystem.edu)
- - date_published: 2024-01-24T23:29:29+00:00
-
- ## eResources | lso.umsystem.edu
- - [http://lso.umsystem.edu](http://lso.umsystem.edu)
- - date_published: 2024-08-20T04:50:02+00:00
-
- ## MOspace Home
- - [https://mospace.umsystem.edu](https://mospace.umsystem.edu)
- - date_published: 2024-05-23T21:58:47.088507+00:00
-
- ## Sign in to your account
- - [https://myhr.umsystem.edu](https://myhr.umsystem.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Welcome | NextGen Precision Health
- - [https://precisionhealth.umsystem.edu](https://precisionhealth.umsystem.edu)
- - date_published: 2024-06-28T21:23:47+00:00
-
- ## Sign in to your account
- - [https://umkc.umsystem.edu](https://umkc.umsystem.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## University of Missouri System
- - [https://umsystem.edu](https://umsystem.edu)
- - date_published: 2024-05-07T19:32:14.949908+00:00
-
- ## UM Web Applications
- - [https://webapps.umsystem.edu](https://webapps.umsystem.edu)
- - date_published: 2024-07-01T14:56:51.428973+00:00
-
- ## Admissions
- - [https://apply.umt.edu](https://apply.umt.edu)
- - date_published: 2024-07-07T10:43:16.674525+00:00
-
- ## Events
- - [https://grizhub-events.apps.umt.edu](https://grizhub-events.apps.umt.edu)
- - date_published: 2024-07-07T10:43:05.454726+00:00
-
- ## Images
- - [https://images.apps.umt.edu](https://images.apps.umt.edu)
- - date_published: 2024-07-07T10:43:07.302111+00:00
-
- ## Map - University of Montana
- - [http://map.umt.edu](http://map.umt.edu)
- - date_published: 2024-07-07T10:43:19.045376+00:00
-
- ## University of Montana | Public Flagship in Missoula
- - [https://umt.edu](https://umt.edu)
- - date_published: 2024-05-08T10:33:27.321299+00:00
 

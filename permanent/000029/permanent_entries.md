@@ -1,3 +1,11 @@
+ ## 中国人民政治协商会议贵州省委员会
+ - [http://www.gzszx.gov.cn](http://www.gzszx.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 广州市委网信办-中共广州市委网络安全和信息化委员会办公室-广州网信办
+ - [https://www.gzwxb.gov.cn](https://www.gzwxb.gov.cn)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## 中国人民政治协商会议广州市委员会
  - [https://www.gzzx.gov.cn](https://www.gzzx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3989,12 +3997,4 @@
  ## 郑州市人民政府
  - [https://www.zhengzhou.gov.cn](https://www.zhengzhou.gov.cn)
  - date_published: 2024-06-30T22:24:33.356621+00:00
-
- ## 中牟县人民政府
- - [https://www.zhongmu.gov.cn](https://www.zhongmu.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 周口市人民政府
- - [http://www.zhoukou.gov.cn](http://www.zhoukou.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

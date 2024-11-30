@@ -1,3 +1,103 @@
+ ## Undergraduate Admissions | Purdue University Fort Wayne
+ - [https://apply.pfw.edu](https://apply.pfw.edu)
+ - date_published: 2024-07-01T16:48:33+00:00
+
+ ## Purdue University Fort Wayne - Acalog ACMS™
+ - [https://catalog.pfw.edu](https://catalog.pfw.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Sign-in - Purdue University Fort Wayne
+ - [https://go.pfw.edu](https://go.pfw.edu)
+ - date_published: 2024-07-01T17:45:32.341450+00:00
+
+ ## Purdue University Fort Wayne
+ - [https://pfw.edu](https://pfw.edu)
+ - date_published: 2024-05-07T20:03:57.306082+00:00
+
+ ## Online College for Working Adults - University of Phoenix
+ - [http://phoenix.edu](http://phoenix.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home
+ - [https://admissions.pitt.edu](https://admissions.pitt.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Names
+ - [https://ans-names.pitt.edu](https://ans-names.pitt.edu)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Kenneth P. Dietrich School of Arts & Sciences | University of Pittsburgh | University of Pittsburgh
+ - [https://as.pitt.edu](https://as.pitt.edu)
+ - date_published: 2024-09-14T21:47:12+00:00
+
+ ## Home | Dietrich Arts & Sciences Undergraduate Studies
+ - [https://asundergrad.pitt.edu](https://asundergrad.pitt.edu)
+ - date_published: 2024-06-14T15:04:09.425314+00:00
+
+ ## Events Calendar - University of Pittsburgh
+ - [http://calendar.pitt.edu](http://calendar.pitt.edu)
+ - date_published: 2024-07-01T16:59:14.281224+00:00
+
+ ## University of Pittsburgh - Acalog ACMS™
+ - [https://catalog.upp.pitt.edu](https://catalog.upp.pitt.edu)
+ - date_published: 2024-09-14T22:33:18.496244+00:00
+
+ ## Home | CONCEPT Research Lab
+ - [https://conceptlab.pitt.edu](https://conceptlab.pitt.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Power of Pitt | University of Pittsburgh
+ - [http://coronavirus.pitt.edu](http://coronavirus.pitt.edu)
+ - date_published: 2024-07-01T16:41:11+00:00
+
+ ## Home | CTSI University of Pittsburgh
+ - [https://ctsi.pitt.edu](https://ctsi.pitt.edu)
+ - date_published: 2024-10-16T08:25:11.932550+00:00
+
+ ## ULS Digital Collections  | Digital Pitt
+ - [https://digital.library.pitt.edu](https://digital.library.pitt.edu)
+ - date_published: 2024-06-20T15:40:42+00:00
+
+ ## Financial Aid-Home
+ - [https://financialaid.pitt.edu](https://financialaid.pitt.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Find People at the University of Pittsburgh
+ - [https://find.pitt.edu](https://find.pitt.edu)
+ - date_published: 2024-05-07T19:53:08.948896+00:00
+
+ ## Forbes and Fifth | University of Pittsburgh | University of Pittsburgh
+ - [http://forbes5.pitt.edu](http://forbes5.pitt.edu)
+ - date_published: 2024-09-14T22:33:32.843864+00:00
+
+ ## Home | Intelligent Systems Program
+ - [http://isp.pitt.edu](http://isp.pitt.edu)
+ - date_published: 2024-08-07T15:51:47.182009+00:00
+
+ ## Home | School of Law
+ - [http://jurist.law.pitt.edu](http://jurist.law.pitt.edu)
+ - date_published: 2024-06-20T03:13:09.945094+00:00
+
+ ## Latin American Studies Association (LASA)
+ - [https://lasa.international.pitt.edu](https://lasa.international.pitt.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## myPitt | All Campuses
+ - [https://my.pitt.edu](https://my.pitt.edu)
+ - date_published: 2024-05-07T19:53:15.799910+00:00
+
+ ## Home
+ - [http://pitt.edu](http://pitt.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Pitt Magazine
+ - [https://pittmag.pitt.edu](https://pittmag.pitt.edu)
+ - date_published: 2024-07-01T13:31:26+00:00
+
+ ## Robert Henderson Language Media Center | University of Pittsburgh
+ - [https://polyglot.pitt.edu](https://polyglot.pitt.edu)
+ - date_published: 2024-06-14T15:04:23.050357+00:00
+
  ## Home | School of Public Health
  - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
  - date_published: 2024-07-01T16:58:07.109232+00:00
@@ -3906,104 +4006,4 @@
  ## Laurie Bernstein | Rutgers University
  - [https://lauriebernstein.camden.rutgers.edu](https://lauriebernstein.camden.rutgers.edu)
  - date_published: 2024-06-21T20:39:39.755747+00:00
-
- ## Home | Learning Centers
- - [https://learningcenters.rutgers.edu](https://learningcenters.rutgers.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home | Rutgers University Libraries
- - [https://libraries.rutgers.edu](https://libraries.rutgers.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Rutgers Law Library | Rutgers Law
- - [https://library.law.rutgers.edu](https://library.law.rutgers.edu)
- - date_published: 2024-07-14T22:42:21+00:00
-
- ## Continuing Education | Rutgers University
- - [https://lifelonglearning.rutgers.edu](https://lifelonglearning.rutgers.edu)
- - date_published: 2024-05-07T20:22:39.206090+00:00
-
- ## Welcome to Division of Life Sciences | Rutgers University
- - [https://lifesci.rutgers.edu](https://lifesci.rutgers.edu)
- - date_published: 2024-05-07T20:09:16.698121+00:00
-
- ## Living Labs at Rutgers
- - [https://livinglabs.rutgers.edu](https://livinglabs.rutgers.edu)
- - date_published: 2019-09-09T20:49:10+00:00
-
- ## Logging into the proxy (Rutgers University Libraries)
- - [https://login.proxy.libraries.rutgers.edu](https://login.proxy.libraries.rutgers.edu)
- - date_published: 2024-05-07T20:15:29.625932+00:00
-
- ## Mechanical and Aerospace Engineering Home | Mechanical and Aerospace Engineering
- - [https://mae.rutgers.edu](https://mae.rutgers.edu)
- - date_published: 2024-08-13T21:21:52+00:00
-
- ## Shibboleth Service - Loading Session Information
- - [http://mail.scarletmail.rutgers.edu](http://mail.scarletmail.rutgers.edu)
- - date_published: 2024-05-07T20:22:29.393774+00:00
-
- ## Office of Development and Alumni Engagement at Rutgers SEBS and NJAES
- - [https://makeagift.rutgers.edu](https://makeagift.rutgers.edu)
- - date_published: 2024-05-16T20:23:12+00:00
-
- ## Rutgers University Map
- - [https://maps.rutgers.edu](https://maps.rutgers.edu)
- - date_published: 2024-05-07T20:22:47.367569+00:00
-
- ## Welcome to the Department of Mathematics
- - [https://math.rutgers.edu](https://math.rutgers.edu)
- - date_published: 2024-05-07T20:09:53.962842+00:00
-
- ## Sign in - Matomo
- - [https://matomo.its.rutgers.edu](https://matomo.its.rutgers.edu)
- - date_published: 2024-07-01T18:31:22.946287+00:00
-
- ## Sign in - Matomo
- - [https://matomo.rutgers.edu](https://matomo.rutgers.edu)
- - date_published: 2024-07-01T18:30:56.437372+00:00
-
- ## Department of Molecular Biology and Biochemistry
- - [https://mbb.rutgers.edu](https://mbb.rutgers.edu)
- - date_published: 2024-07-01T18:42:34+00:00
-
- ## Materials Science and Engineering Home | Materials Science and Engineering
- - [https://mse.rutgers.edu](https://mse.rutgers.edu)
- - date_published: 2024-06-11T21:05:20+00:00
-
- ## Rutgers MyRun |
- - [https://myrun.newark.rutgers.edu](https://myrun.newark.rutgers.edu)
- - date_published: 2024-05-12T04:30:23.932685+00:00
-
- ## myRutgers Portal
- - [https://my.rutgers.edu](https://my.rutgers.edu)
- - date_published: 2024-05-07T20:09:44.032991+00:00
-
- ## Homepage | Rutgers myTech@Newark|Rutgers University
- - [https://mytech.newark.rutgers.edu](https://mytech.newark.rutgers.edu)
- - date_published: 2024-07-14T23:44:00.342551+00:00
-
- ## Home
- - [https://nbdn.rutgers.edu](https://nbdn.rutgers.edu)
- - date_published: 2024-06-20T11:43:48+00:00
-
- ## Rutgers, Office Of The Registrar - New Brunswick
- - [http://nbregistrar.rutgers.edu](http://nbregistrar.rutgers.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Home
- - [https://nb.rutgers.edu](https://nb.rutgers.edu)
- - date_published: 2024-05-07T20:10:05.549071+00:00
-
- ## SASN Home
- - [https://ncas.rutgers.edu](https://ncas.rutgers.edu)
- - date_published: 2024-05-07T20:10:01.142648+00:00
-
- ## Homepage | Rutgers myTech@Newark|Rutgers University
- - [http://ncs.newark.rutgers.edu](http://ncs.newark.rutgers.edu)
- - date_published: 2024-07-01T18:41:40.441915+00:00
-
- ## Rutgers Newark
- - [https://newark.rutgers.edu](https://newark.rutgers.edu)
- - date_published: 2024-05-12T04:30:31.334272+00:00
 

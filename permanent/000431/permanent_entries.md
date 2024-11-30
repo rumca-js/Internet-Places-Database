@@ -1,3 +1,159 @@
+ ## Visible Connect
+ - [https://connect.visible.vc](https://connect.visible.vc)
+ - date_published: 2024-09-09T22:24:54.567902+00:00
+
+ ## Visible Help Center
+ - [https://help.visible.vc](https://help.visible.vc)
+ - date_published: 2024-09-09T22:24:50.311141+00:00
+
+ ## An investor relationship hub for best-in-class founders
+ - [https://visible.vc](https://visible.vc)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## VNTR — The Leading Global Investor Community
+ - [https://new.vntr.vc](https://new.vntr.vc)
+ - date_published: 2024-09-03T14:07:05+00:00
+
+ ## VNTR — The Leading Global Investor Community
+ - [https://www.vntr.vc](https://www.vntr.vc)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## VOLTA ENERGY TECHNOLOGIES
+ - [https://volta.vc](https://volta.vc)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Grove Network
+ - [https://webform.vc](https://webform.vc)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Wedgetail — Biodiversity is better business
+ - [https://www.wedgetail.vc](https://www.wedgetail.vc)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## World Fund | Leading European Climate Tech VC Fund
+ - [https://www.worldfund.vc](https://www.worldfund.vc)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Woven Capital - Toyota's Growth Fund
+ - [https://woven.vc](https://woven.vc)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Xplorer Capital | Transforming Traditional Industries
+ - [https://xplorer.vc](https://xplorer.vc)
+ - date_published: 2024-10-30T18:18:30.594367+00:00
+
+ ## Category-defining Pre-seed and Seed stage ventures.
+ - [http://yes.vc](http://yes.vc)
+ - date_published: 2024-08-18T22:43:33.535342+00:00
+
+ ## Zero Prime Ventures
+ - [https://zeroprime.vc](https://zeroprime.vc)
+ - date_published: 2024-10-18T07:20:35.904841+00:00
+
+ ## 1win apuestas ᐉ Cómo apostar dinero | Web oficial 1 win Venezuela
+ - [https://1win.com.ve](https://1win.com.ve)
+ - date_published: 2024-09-10T11:51:35.158973+00:00
+
+ ## Audi Venezuela
+ - [https://www.audi.com.ve](https://www.audi.com.ve)
+ - date_published: 2024-07-19T20:53:17+00:00
+
+ ## Banca privada Venezuela - Bancaribe
+ - [http://www.bancaribe.com.ve](http://www.bancaribe.com.ve)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Colegio de Bioanalistas
+ - [https://colegiodebioanalistas.com.ve](https://colegiodebioanalistas.com.ve)
+ - date_published: 2024-06-12T02:05:51.847253+00:00
+
+ ## ESPN Venezuela - Lo Último del Mundo Deportivo
+ - [https://www.espn.com.ve](https://www.espn.com.ve)
+ - date_published: 2024-05-02T09:41:54.918976+00:00
+
+ ## Google
+ - [https://www.google.com.ve](https://www.google.com.ve)
+ - date_published: 2024-10-07T18:37:10.964958+00:00
+
+ ## Inicio
+ - [https://greatplacetowork.com.ve](https://greatplacetowork.com.ve)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Lucky Jet ✈️ Descarga en el Mejor Juego Lucky Jet y Gana Ahora!
+ - [https://luckyjet.com.ve](https://luckyjet.com.ve)
+ - date_published: 2024-09-10T11:51:40.657817+00:00
+
+ ## Mercado Libre Venezuela - Envíos Gratis en el día
+ - [https://www.mercadolibre.com.ve](https://www.mercadolibre.com.ve)
+ - date_published: 2024-06-16T12:57:02.527276+00:00
+
+ ## Pronóstico del tiempo 14 días - Meteored
+ - [https://www.meteored.com.ve](https://www.meteored.com.ve)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Inicio
+ - [http://www.nestle.com.ve](http://www.nestle.com.ve)
+ - date_published: 2024-09-14T20:13:10+00:00
+
+ ## Philips - Central America
+ - [https://www.philips.com.ve](https://www.philips.com.ve)
+ - date_published: 2024-10-30T20:04:31+00:00
+
+ ## SANTILLANA Venezuela - santillana.com.ve
+ - [https://santillana.com.ve](https://santillana.com.ve)
+ - date_published: 2024-06-12T12:55:44.101782+00:00
+
+ ## Tripadvisor: más de mil millones de opiniones y aportes sobre hoteles, atracciones, restaurantes y más
+ - [https://www.tripadvisor.com.ve](https://www.tripadvisor.com.ve)
+ - date_published: 2024-06-23T09:18:48.228764+00:00
+
+ ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
+ - [https://airbnb.co.ve](https://airbnb.co.ve)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## EF Education First | Venezuela
+ - [https://www.ef.co.ve](https://www.ef.co.ve)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Grafika Google
+ - [https://images.google.co.ve](https://images.google.co.ve)
+ - date_published: 2024-07-20T07:39:51.263183+00:00
+
+ ## Google
+ - [https://www.google.co.ve](https://www.google.co.ve)
+ - date_published: 2024-06-21T22:24:37.798285+00:00
+
+ ## Visa, un líder confiable en pagos digitales
+ - [https://visa.co.ve](https://visa.co.ve)
+ - date_published: 2024-05-12T03:59:34.353855+00:00
+
+ ## Inicio - Universidad Monteávila
+ - [https://www.uma.edu.ve](https://www.uma.edu.ve)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## INE
+ - [http://www.ine.gov.ve](http://www.ine.gov.ve)
+ - date_published: 2024-10-21T18:32:30.902555+00:00
+
+ ## Agencia Venezolana de Noticias | AVN
+ - [http://www.avn.info.ve](http://www.avn.info.ve)
+ - date_published: 2024-06-30T18:20:40.248163+00:00
+
+ ## Banco Central de Venezuela |
+ - [https://bcv.org.ve](https://bcv.org.ve)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Publicaciones
+ - [http://publicaciones.extra.bcv.org.ve](http://publicaciones.extra.bcv.org.ve)
+ - date_published: 2022-12-09T18:21:29+00:00
+
+ ## Narconon | Rehabilitación de Drogas | Educación sobre las drogas
+ - [https://www.narconon.org.ve](https://www.narconon.org.ve)
+ - date_published: 2024-09-04T18:07:50.917270+00:00
+
+ ## Iglesia Oficial de Scientology: L. Ronald Hubbard, Dianética, ¿Qué es Scientology?, Libros, Creencias, David Miscavige
+ - [https://scientology.org.ve](https://scientology.org.ve)
+ - date_published: 0001-01-01T00:00:00+00:00
+
  ## Las Vegas Business Press | Business News From Las Vegas
  - [https://businesspress.vegas](https://businesspress.vegas)
  - date_published: 2024-04-28T04:51:48.311655+00:00
@@ -443,7 +599,7 @@
  ## Radarr
  - [https://radarr.video](https://radarr.video)
  - date_published: 2024-04-08T19:30:30.028106+00:00
- - tags: ['usenet', 'movie downloader', 'movie organiser']
+ - tags: ['usenet', 'movie downloader', 'movie organiser', 'self-host']
 
  ## Scalar.video - Let your creativity run wild on an infinite canvas.
  - [https://scalar.video](https://scalar.video)
@@ -3874,161 +4030,4 @@
  ## Paperwork - Personal document management made fast and easy - OpenPaperwork
  - [https://openpaper.work](https://openpaper.work)
  - date_published: 2024-10-31T06:49:40.224961+00:00
-
- ## Ostrich Work
- - [https://ostrich.work](https://ostrich.work)
- - date_published: 2024-08-18T22:03:48.667784+00:00
-
- ## Paola Mora – Professional Cleaner
- - [https://paola.work](https://paola.work)
- - date_published: 2024-07-23T23:27:57.951394+00:00
-
- ## partly.work | Sanjay Saraf | Substack
- - [https://www.partly.work](https://www.partly.work)
- - date_published: 2024-09-07T23:55:26.577668+00:00
-
- ## PEARLER | Boujee Squarespace & Shopify Templates Shop
- - [https://pearler.work](https://pearler.work)
- - date_published: 2024-10-05T23:29:49.169435+00:00
-
- ## Polywork | Convert Your LinkedIn Profile into a Beautiful Personal Website
- - [https://poly.work](https://poly.work)
- - date_published: 2024-07-10T06:39:27.774877+00:00
-
- ## Praachi Pathak - Technology & Leadership Hiring
- - [https://praachi.work](https://praachi.work)
- - date_published: 2024-08-14T15:46:49+00:00
-
- ## PRINT.WORK | Quick, recycled, sustainable online printing
- - [https://www.print.work](https://www.print.work)
- - date_published: 2024-10-24T13:11:52.866996+00:00
-
- ## Public Work by Cosmos
- - [https://public.work](https://public.work)
- - date_published: 2024-08-18T10:38:09.652995+00:00
-
- ## púca in the machine
- - [https://puca.work](https://puca.work)
- - date_published: 2024-01-21T15:54:35+00:00
-
- ## Ramsés Cabello – Interaction Design
- - [https://ramses.work](https://ramses.work)
- - date_published: 2024-07-08T22:24:07.398350+00:00
-
- ## Design & Direction
- - [https://r-c.work](https://r-c.work)
- - date_published: 2024-06-23T10:16:21.939354+00:00
-
- ## Reasonable Company
- - [https://www.reasonable.work](https://www.reasonable.work)
- - date_published: 2024-09-04T03:35:29.419549+00:00
-
- ## America’s #1 woke-free job board & talent connector | RedBalloon
- - [https://www.redballoon.work](https://www.redballoon.work)
- - date_published: 2024-08-11T03:12:58.234009+00:00
-
- ## Rubedo Works Press
- - [https://rubedo.work](https://rubedo.work)
- - date_published: 2024-01-15T09:03:20+00:00
-
- ## Piotr Rusin — Solidna Inżynieria Oprogramowania
- - [https://rusin.work](https://rusin.work)
- - date_published: 2024-05-06T14:40:21.567493+00:00
-
- ## Sequence - Annotation & Classification for Data Science Teams
- - [https://sequence.work](https://sequence.work)
- - date_published: 2024-10-22T19:17:32.530489+00:00
-
- ## shelomoh
- - [https://2021.shelomoh.work](https://2021.shelomoh.work)
- - date_published: 2024-07-02T20:43:45.559987+00:00
-
- ## Goal Organizer
- - [https://goal-organizer.shelomoh.work](https://goal-organizer.shelomoh.work)
- - date_published: 2024-07-02T20:43:49.431571+00:00
-
- ## New-Year Bible Verse
- - [https://newyear.shelomoh.work](https://newyear.shelomoh.work)
- - date_published: 2024-07-02T20:43:48.370622+00:00
-
- ## Sheet2Cards
- - [https://sheet2cards.shelomoh.work](https://sheet2cards.shelomoh.work)
- - date_published: 2024-07-02T20:43:44.292195+00:00
-
- ## Shelomoh Khual
- - [https://shelomoh.work](https://shelomoh.work)
- - date_published: 2024-05-07T23:26:10.104403+00:00
-
- ## Lawyer-Made HR Documents  | goHeather
- - [http://tally.work](http://tally.work)
- - date_published: 2023-10-25T23:01:38.366632+00:00
-
- ## Tekio
- - [https://store.tekio.work](https://store.tekio.work)
- - date_published: 2024-05-04T06:33:45.139917+00:00
-
- ## tillywork
- - [https://app.tilly.work](https://app.tilly.work)
- - date_published: 2024-07-20T15:27:54+00:00
-
- ## Overview | tillywork
- - [https://docs.tilly.work](https://docs.tilly.work)
- - date_published: 2024-06-01T16:32:38.244872+00:00
-
- ## tillywork - Work management for all your teams
- - [https://tilly.work](https://tilly.work)
- - date_published: 2024-05-21T18:07:40.723542+00:00
-
- ## Traba - Industrial Staffing Solution
- - [https://traba.work](https://traba.work)
- - date_published: 2024-08-08T01:04:09+00:00
-
- ## wildflower.work
- - [https://wildflower.work](https://wildflower.work)
- - date_published: 2024-06-22T19:18:24.956143+00:00
- - tags: ['personal']
-
- ## Home — workshops.work
- - [https://workshops.work](https://workshops.work)
- - date_published: 2024-07-15T02:25:09+00:00
-
- ## xmpp.work – The XMPP Job Board
- - [https://xmpp.work](https://xmpp.work)
- - date_published: 2024-08-18T17:28:51.844101+00:00
-
- ## WCAG 2.2 & ADA Website Compliance Consultants: Accessibility.Works
- - [https://www.accessibility.works](https://www.accessibility.works)
- - date_published: 2024-09-18T15:21:55.742359+00:00
-
- ## Afterlogic.Works | A full-stack web&app development agency
- - [https://afterlogic.works](https://afterlogic.works)
- - date_published: 2024-07-18T06:25:42.038729+00:00
-
- ## Aletheia
- - [http://aletheia.works](http://aletheia.works)
- - date_published: 2024-10-29T14:25:23.048246+00:00
-
- ## Alabama Transgender Rights Action Coalition
- - [https://altrac.works](https://altrac.works)
- - date_published: 2024-08-15T03:33:57+00:00
-
- ## !Boring Software
- - [https://www.andy.works](https://www.andy.works)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Anvil: Web Apps with Nothing but Python
- - [https://anvil.works](https://anvil.works)
- - date_published: 2024-06-28T17:32:55+00:00
-
- ## BASE2
- - [https://base2.works](https://base2.works)
- - date_published: 2022-06-19T00:00:00+00:00
-
- ## Home | Betaworks
- - [http://beta.works](http://beta.works)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Explore All Actions
- - [https://actions.buddy.works](https://actions.buddy.works)
- - date_published: 2024-06-16T10:10:31.085103+00:00
 

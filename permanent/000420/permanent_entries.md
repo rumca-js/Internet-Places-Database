@@ -1,3 +1,155 @@
+ ## Головна
+ - [https://smak.ua](https://smak.ua)
+ - date_published: 2017-04-10T21:00:00+00:00
+
+ ## Sony Україна | Новини про останні технології | Електроніка | Розваги
+ - [https://www.sony.ua](https://www.sony.ua)
+ - date_published: 2024-10-21T07:37:40.234019+00:00
+
+ ## Судово-юридична газета
+ - [https://sud.ua](https://sud.ua)
+ - date_published: 2023-12-24T14:29:22.262220+00:00
+
+ ## Интернет-магазин Телемарт — магазин  комплектующих для ПК, игровой периферии и техники в Украине | Киев, Днепр, Харьков, Одесса, Львов, Хмельницкий - Telemart
+ - [https://telemart.ua](https://telemart.ua)
+ - date_published: 2024-07-13T13:39:54.694183+00:00
+
+ ## Сувенірна продукція | Toyota Україна
+ - [https://collection.toyota.ua](https://collection.toyota.ua)
+ - date_published: 2024-10-16T15:39:33.710120+00:00
+
+ ## Тойота з пробігом купити в Україні
+ - [https://usedcars.toyota.ua](https://usedcars.toyota.ua)
+ - date_published: 2024-10-16T15:39:31.313649+00:00
+
+ ## Офіційний сайт Toyota : Ціни на автомобілі Toyota
+ - [https://www.toyota.ua](https://www.toyota.ua)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Новини України і світу сьогодні • Головні і останні новини дня на ТСН
+ - [https://tsn.ua](https://tsn.ua)
+ - date_published: 2024-07-27T02:47:54.575886+00:00
+
+ ## Головна
+ - [https://tv.ua](https://tv.ua)
+ - date_published: 2016-12-31T22:00:00+00:00
+
+ ## Головна - Український тиждень
+ - [https://tyzhden.ua](https://tyzhden.ua)
+ - date_published: 2022-09-23T12:24:13+00:00
+
+ ## Future Ukraine: відкрий Україну майбутнього
+ - [https://future.ukraine.ua](https://future.ukraine.ua)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## I’m Fine Installation | Ukraine at Burning Man 2024
+ - [https://imfine.ukraine.ua](https://imfine.ukraine.ua)
+ - date_published: 2024-08-20T10:11:22+00:00
+
+ ## Official website of Ukraine
+ - [https://ukraine.ua](https://ukraine.ua)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Russia’s war in Ukraine: official website | MFA of Ukraine
+ - [https://war.ukraine.ua](https://war.ukraine.ua)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Укрінформ - актуальні новини України та світу
+ - [https://www.ukrinform.ua](https://www.ukrinform.ua)
+ - date_published: 2024-01-30T01:45:45.408583+00:00
+
+ ## Укрпошта | Головна пошта країни
+ - [https://www.ukrposhta.ua](https://www.ukrposhta.ua)
+ - date_published: 2024-06-30T09:28:47.079706+00:00
+
+ ## Оперативні новини України та Світу | Українські Національні Новини УНН
+ - [https://unn.ua](https://unn.ua)
+ - date_published: 2024-08-11T18:54:47+00:00
+
+ ## Ліцензовані онлайн-казино та БК для ставок в Україні — VBET ✌️
+ - [https://www.vbet.ua](https://www.vbet.ua)
+ - date_published: 2024-10-29T08:55:41+00:00
+
+ ## Новини Києва, афіша, довідник, карта онлайн - Київ - Vgorode.ua
+ - [https://kiev.vgorode.ua](https://kiev.vgorode.ua)
+ - date_published: 2024-08-07T19:51:47+00:00
+
+ ## Мережа міських сайтів vgorode.ua | Останні події та новини сьогодні  - Vgorode.ua
+ - [https://vgorode.ua](https://vgorode.ua)
+ - date_published: 2024-08-07T19:52:42+00:00
+
+ ## Головна сторінка
+ - [https://kb.viatec.ua](https://kb.viatec.ua)
+ - date_published: 2024-10-19T23:27:03.597591+00:00
+
+ ## Viatec - Системи безпеки та камери відеоспостереження
+ - [https://viatec.ua](https://viatec.ua)
+ - date_published: 2024-05-02T10:42:51.424363+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.ua](https://www.victronenergy.ua)
+ - date_published: 2024-06-21T15:27:13+00:00
+
+ ## Vodafone Україна - Мобільний зв'язок, Інтернет, Тарифи та Послуги
+ - [https://www.vodafone.ua](https://www.vodafone.ua)
+ - date_published: 2024-10-19T23:20:08.204592+00:00
+
+ ## Vogue UA - жіночий журнал про моду, красу і стиль. Vogue Ukraine - fashion, beauty, arts, society and living
+ - [https://vogue.ua](https://vogue.ua)
+ - date_published: 2024-05-07T10:59:22.211011+00:00
+
+ ## Благодійний фонд - WEBSPARK CHARITY
+ - [https://webspark.ua](https://webspark.ua)
+ - date_published: 2024-09-23T09:10:38+00:00
+
+ ## WoMo — видання для дивовижних жінок
+ - [https://womo.ua](https://womo.ua)
+ - date_published: 2024-10-19T15:55:50.525277+00:00
+
+ ## Home
+ - [https://specials.wwf.ua](https://specials.wwf.ua)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## WWF-Україна
+ - [https://wwf.ua](https://wwf.ua)
+ - date_published: 2024-05-07T23:57:59.970151+00:00
+
+ ## Центр прав людини ZMINA
+ - [https://zmina.ua](https://zmina.ua)
+ - date_published: 2019-03-15T12:17:06+00:00
+
+ ## Інтернет магазин "Золотий Вік" - золото, ювелірні вироби - мережа ювелірних магазинів у Львові, Києві, Білій Церкві, Тернополі, Вінниці, Івано-Франківську. Каталог ювелірних виробів.
+ - [https://zolotoyvek.ua](https://zolotoyvek.ua)
+ - date_published: 2024-06-30T09:28:51.228700+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.ug](https://maps.google.co.ug)
+ - date_published: 2024-07-20T07:39:05.080892+00:00
+
+ ## Google
+ - [https://www.google.co.ug](https://www.google.co.ug)
+ - date_published: 2024-06-21T22:23:22.834781+00:00
+
+ ## Home
+ - [https://www.monitor.co.ug](https://www.monitor.co.ug)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - The Microfinance Support Centre Ltd
+ - [https://www.msc.co.ug](https://www.msc.co.ug)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## New Vision
+ - [https://www.newvision.co.ug](https://www.newvision.co.ug)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## NTV Uganda
+ - [https://www.ntv.co.ug](https://www.ntv.co.ug)
+ - date_published: 2023-10-25T22:48:05.575547+00:00
+
+ ## Home - National Water & Sewerage Corporation
+ - [https://www.nwsc.co.ug](https://www.nwsc.co.ug)
+ - date_published: 2023-11-29T14:35:30+00:00
+
  ## Climate Change Department
  - [http://ccd.go.ug](http://ccd.go.ug)
  - date_published: 2024-10-11T13:00:53.581933+00:00
@@ -3855,156 +4007,4 @@
  ## Home
  - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
  - date_published: 2024-06-13T20:38:41+00:00
-
- ## Centre for Manuscript and Text Cultures
- - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
- - date_published: 2024-06-17T18:58:51.204382+00:00
-
- ## home
- - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
- - date_published: 2024-06-17T16:15:14+00:00
-
- ## Home
- - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home
- - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
- - date_published: 2024-05-02T10:58:44.978006+00:00
-
- ## Home
- - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
- - date_published: 2024-05-02T10:59:09.942716+00:00
-
- ## Keble College Oxford - Conferences, Events & Accommodation
- - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Oxford University Department for Continuing Education
- - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
- - date_published: 2024-06-17T18:20:09.492748+00:00
-
- ## Home
- - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
- - date_published: 2024-06-17T15:06:24+00:00
-
- ## IT training and digital skills
- - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
- - date_published: 2024-06-15T21:03:36+00:00
-
- ## Home
- - [https://csae.web.ox.ac.uk](https://csae.web.ox.ac.uk)
- - date_published: 2024-10-20T06:16:33.852292+00:00
-
- ## Home
- - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
- - date_published: 2024-06-11T09:42:12+00:00
-
- ## Digital Bodleian
- - [https://digital2.bodleian.ox.ac.uk](https://digital2.bodleian.ox.ac.uk)
- - date_published: 2024-10-20T05:31:08.574131+00:00
-
- ## Digital Bodleian
- - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:17:58.988745+00:00
-
- ## OxDNA
- - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
- - date_published: 2024-04-25T13:25:18+00:00
-
- ## BRAHMS: Oxford
- - [http://dps007.plants.ox.ac.uk](http://dps007.plants.ox.ac.uk)
- - date_published: 2024-10-20T05:37:35.138591+00:00
-
- ## Home
- - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
- - date_published: 2024-06-17T14:46:56+00:00
-
- ## Dynamic Robot Systems Group
- - [https://dynamic.robots.ox.ac.uk](https://dynamic.robots.ox.ac.uk)
- - date_published: 2024-10-20T07:37:12.743282+00:00
-
- ## Home page
- - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
- - date_published: 2024-06-13T10:16:17+00:00
-
- ## Home page
- - [https://edu.web.ox.ac.uk](https://edu.web.ox.ac.uk)
- - date_published: 2024-06-13T19:57:47+00:00
-
- ## Early Modern Letters Online : Home
- - [http://emlo.bodleian.ox.ac.uk](http://emlo.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:18:56.830451+00:00
-
- ## Department of Engineering Science | University of Oxford
- - [https://eng.ox.ac.uk](https://eng.ox.ac.uk)
- - date_published: 2024-06-17T18:56:55.517824+00:00
-
- ## Welcome to the Oxford DTP in Environmental Research
- - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
- - date_published: 2024-06-16T09:33:54+00:00
-
- ## https://eodg.atm.ox.ac.uk
- - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
- - date_published: 2022-07-20T15:01:04+00:00
-
- ## Energy and Power Group, Department of Engineering Science, University of Oxford
- - [https://epg.eng.ox.ac.uk](https://epg.eng.ox.ac.uk)
- - date_published: 2024-06-17T19:00:06.029015+00:00
-
- ## Home
- - [https://estates.admin.ox.ac.uk](https://estates.admin.ox.ac.uk)
- - date_published: 2024-06-14T08:40:44+00:00
-
- ## Wadham College
- - [https://events.wadham.ox.ac.uk](https://events.wadham.ox.ac.uk)
- - date_published: 2024-06-17T18:32:56.981997+00:00
-
- ## Linguistics at Oxford –
- - [https://explore.ling-phil.ox.ac.uk](https://explore.ling-phil.ox.ac.uk)
- - date_published: 2024-06-17T18:57:01.579291+00:00
-
- ## Home
- - [https://finance.admin.ox.ac.uk](https://finance.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:32:16+00:00
-
- ## Home
- - [https://focus.admin.ox.ac.uk](https://focus.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:55:28+00:00
-
- ## Home
- - [https://foxtalbot.bodleian.ox.ac.uk](https://foxtalbot.bodleian.ox.ac.uk)
- - date_published: 2015-04-22T15:00:37+00:00
-
- ## Frontiers of Socio-Legal Studies
- - [https://frontiers.csls.ox.ac.uk](https://frontiers.csls.ox.ac.uk)
- - date_published: 2024-10-20T05:59:51.934427+00:00
-
- ## Document
- - [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
- - date_published: 2024-10-20T07:16:34.773364+00:00
-
- ## Kellogg College Giving Day 2024
- - [https://givingday.kellogg.ox.ac.uk](https://givingday.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:16.415296+00:00
-
- ## Home
- - [https://glamit.web.ox.ac.uk](https://glamit.web.ox.ac.uk)
- - date_published: 2024-10-20T05:37:48.247917+00:00
-
- ## Home
- - [https://glam.web.ox.ac.uk](https://glam.web.ox.ac.uk)
- - date_published: 2024-05-02T10:57:33.164842+00:00
-
- ## Home
- - [https://globalcapitalism.history.ox.ac.uk](https://globalcapitalism.history.ox.ac.uk)
- - date_published: 2024-05-29T01:37:51.785684+00:00
-
- ## Home
- - [https://globalcapitalism.web.ox.ac.uk](https://globalcapitalism.web.ox.ac.uk)
- - date_published: 2024-09-02T07:20:19+00:00
-
- ## Oxford's International Research
- - [https://globalresearch.admin.ox.ac.uk](https://globalresearch.admin.ox.ac.uk)
- - date_published: 2024-10-20T07:05:54.265164+00:00
 

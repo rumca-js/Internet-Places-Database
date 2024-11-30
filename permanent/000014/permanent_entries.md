@@ -1,3 +1,11 @@
+ ## The world beyond Linux
+ - [https://worldbeyondlinux.be](https://worldbeyondlinux.be)
+ - date_published: 2023-06-03T00:00:00+00:00
+
+ ## Wulfila project: a small digital library dedicated to the study of the Gothic language
+ - [http://www.wulfila.be](http://www.wulfila.be)
+ - date_published: 2021-04-22T04:06:03+00:00
+
  ## Home
  - [http://www.wust.be](http://www.wust.be)
  - date_published: 2024-08-17T22:36:57.117630+00:00
@@ -4049,12 +4057,4 @@
 		- Lou Plummer's Obsidian Posts
  - [https://amerpie2.micro.blog](https://amerpie2.micro.blog)
  - date_published: 2024-07-03T23:53:38+00:00
-
- ## Lou Plummer
- - [https://amerpiegateway.micro.blog](https://amerpiegateway.micro.blog)
- - date_published: 2024-06-11T23:48:23+00:00
-
- ## Amerpie by Lou Plummer
- - [https://amerpie.micro.blog](https://amerpie.micro.blog)
- - date_published: 2024-08-08T11:43:19+00:00
 
