@@ -1,3 +1,37 @@
+ ## Simple Analytics
+ - [https://simple.chrisdermody.com](https://simple.chrisdermody.com)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Chris Done's Homepage
+ - [http://chrisdone.com](http://chrisdone.com)
+ - date_published: 2024-07-09T15:52:08+00:00
+
+ ## Home | chris-dorst
+ - [https://www.chrisdorst.com](https://www.chrisdorst.com)
+ - date_published: 2024-08-10T23:15:26.069537+00:00
+
+ ## Faraway, So Close
+ - [https://chrisenns.com](https://chrisenns.com)
+ - date_published: 2024-07-11T15:43:32.577669+00:00
+ - tags: ['blog', 'personal']
+
+ ## Faraway, So Micro
+ - [https://microblog.chrisenns.com](https://microblog.chrisenns.com)
+ - date_published: 2024-07-07T05:21:16+00:00
+
+ ## The Chris Evans Files
+ - [https://chrisevansfiles.com](https://chrisevansfiles.com)
+ - date_published: 2024-09-04T02:46:21.999225+00:00
+
+ ## chrisfenton.com – Home to a cunning artificer
+ - [https://www.chrisfenton.com](https://www.chrisfenton.com)
+ - date_published: 2024-07-06T12:16:50.511147+00:00
+ - tags: ['personal']
+
+ ## Chris Finazzo
+ - [https://chrisfinazzo.com](https://chrisfinazzo.com)
+ - date_published: 2024-08-08T12:46:14.202152+00:00
+
  ## Less Talk, More Do – Christopher Finke writes about things he has done: software, woodworking, and other creative endeavors.
  - [https://chrisfinke.com](https://chrisfinke.com)
  - date_published: 2023-10-25T13:22:23.741521+00:00
@@ -2005,6 +2039,10 @@
  - date_published: 2023-12-24T18:31:00.190284+00:00
  - tags: ['personal']
 
+ ## Cindy Drozda - The Fine Art of Woodturning - Artwork, Instruction and DVDs
+ - [https://www.cindydrozda.com](https://www.cindydrozda.com)
+ - date_published: 2024-11-17T21:23:17+00:00
+
  ## Dentist | Panama City, FL | Cindy C. Moore, D.M.D., P.A.
  - [https://www.cindymooredentist.com](https://www.cindymooredentist.com)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -4010,40 +4048,4 @@
  ## City AM
  - [https://news.uk.cityam.com](https://news.uk.cityam.com)
  - date_published: 2024-06-14T11:58:54+00:00
-
- ## Welcome to the City & Guilds careers website | City & Guilds Careers
- - [https://careers.cityandguildsgroup.com](https://careers.cityandguildsgroup.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## cityandplace.com
- - [https://cityandplace.com](https://cityandplace.com)
- - date_published: 2024-06-28T13:28:16+00:00
-
- ## City & State NY
- - [https://www.cityandstateny.com](https://www.cityandstateny.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## City at the End
- - [http://www.cityattheendoftime.com](http://www.cityattheendoftime.com)
- - date_published: 2024-09-09T23:44:17.829445+00:00
-
- ## City Bank | Our Goal is to Help You Achieve Yours
- - [https://www.citybankonline.com](https://www.citybankonline.com)
- - date_published: 2024-06-20T16:34:08.466957+00:00
-
- ## Cincinnati CityBeat
- - [https://citybeat.com](https://citybeat.com)
- - date_published: 2024-04-28T05:08:51.926784+00:00
-
- ## Foundation Media Server
- - [https://media1.citybeat.com](https://media1.citybeat.com)
- - date_published: 2019-03-29T15:43:43+00:00
-
- ## Foundation Media Server
- - [https://media2.citybeat.com](https://media2.citybeat.com)
- - date_published: 2019-03-29T15:43:43+00:00
-
- ## Cincinnati in Pictures | CityBeat
- - [https://photos.citybeat.com](https://photos.citybeat.com)
- - date_published: 2024-04-26T00:00:00+00:00
 

@@ -1,3 +1,48 @@
+ ## Dedoimedo - A Place to Learn a Lot About a Lot
+ - [https://dedoimedo.com](https://dedoimedo.com)
+ - date_published: 2023-10-25T13:47:31.851633+00:00
+
+ ## A CLI to deduplicate data from flat files and databases | dedupify.com
+ - [https://dedupify.com](https://dedupify.com)
+ - date_published: 2020-10-01T00:00:00+00:00
+
+ ## DEDWARE
+ - [https://dedware.com](https://dedware.com)
+ - date_published: 2023-11-15T17:57:31.700400+00:00
+ - tags: ['art', 'personal']
+
+ ## dee briggs studio
+ - [http://www.deebriggsstudio.com](http://www.deebriggsstudio.com)
+ - date_published: 2024-06-28T14:14:25.759370+00:00
+
+ ## Deel - Your forever people platform
+ - [https://app.deel.com](https://app.deel.com)
+ - date_published: 2024-06-15T00:29:36+00:00
+
+ ## Deel Community
+ - [https://community.deel.com](https://community.deel.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Deel - Your forever people platform
+ - [https://deel.com](https://deel.com)
+ - date_published: 2024-05-01T04:18:48.082066+00:00
+
+ ## Welcome
+ - [https://developer.deel.com](https://developer.deel.com)
+ - date_published: 2024-06-15T19:54:14.010779+00:00
+
+ ## Deel - Your forever people platform
+ - [https://get.deel.com](https://get.deel.com)
+ - date_published: 2024-09-18T20:38:57+00:00
+
+ ## Deel Lab | Deel
+ - [https://lab.deel.com](https://lab.deel.com)
+ - date_published: 2024-06-15T17:03:05+00:00
+
+ ## Deel Developer Community
+ - [https://stack.deel.com](https://stack.deel.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## deel Status
  - [https://status.deel.com](https://status.deel.com)
  - date_published: 2024-06-15T19:54:09.538131+00:00
@@ -3987,49 +4032,4 @@
  ## Softaculous Support Centre
  - [https://popularfx.deskuss.com](https://popularfx.deskuss.com)
  - date_published: 2024-06-28T11:22:39.977745+00:00
-
- ## Softaculous Support Centre
- - [https://softaculous.deskuss.com](https://softaculous.deskuss.com)
- - date_published: 2024-09-09T22:07:47.981806+00:00
-
- ## DeSmog
- - [https://desmog.com](https://desmog.com)
- - date_published: 2024-01-09T02:21:59.409554+00:00
- - tags: ['fact check']
-
- ## DeSmog
- - [http://www.desmogblog.com](http://www.desmogblog.com)
- - date_published: 2024-06-28T18:10:31+00:00
-
- ## The Des Moines Register
- - [https://aboutyoursubscription.desmoinesregister.com](https://aboutyoursubscription.desmoinesregister.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Unsupported EU page
- - [https://account.desmoinesregister.com](https://account.desmoinesregister.com)
- - date_published: 2024-06-15T22:45:58.937884+00:00
-
- ## Home
- - [https://chat.desmoinesregister.com](https://chat.desmoinesregister.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home
- - [https://cm.desmoinesregister.com](https://cm.desmoinesregister.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://connect.desmoinesregister.com](https://connect.desmoinesregister.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://desmoinesregister.com](https://desmoinesregister.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home
- - [https://eu.desmoinesregister.com](https://eu.desmoinesregister.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Help Center - The Des Moines Register
- - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
- - date_published: 2024-05-01T04:48:57.540386+00:00
 

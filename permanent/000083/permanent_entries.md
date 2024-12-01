@@ -1,3 +1,47 @@
+ ## Welcome | Data Management in Large-Scale Education Research
+ - [https://datamgmtinedresearch.com](https://datamgmtinedresearch.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Real-Time Event and Risk Detection - Dataminr
+ - [https://www.dataminr.com](https://www.dataminr.com)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Welcome to Datamuse
+ - [https://datamuse.com](https://datamuse.com)
+ - date_published: 2024-06-12T19:35:14+00:00
+
+ ## Datanami: Big Data, Big Analytics, Big Insights
+ - [https://datanami.com](https://datanami.com)
+ - date_published: 2023-10-25T13:44:20.798582+00:00
+
+ ## Datanarchy
+ - [https://www.datanarchy.com](https://www.datanarchy.com)
+ - date_published: 2020-02-09T00:00:00+00:00
+
+ ## Data Narratives: search your data like you Google
+ - [https://datanarratives.com](https://datanarratives.com)
+ - date_published: 2023-10-25T13:44:24.478490+00:00
+
+ ## Access to this page has been denied.
+ - [https://www.datanyze.com](https://www.datanyze.com)
+ - date_published: 2024-04-17T09:12:34+00:00
+
+ ## Data-oriented design
+ - [https://dataorienteddesign.com](https://dataorienteddesign.com)
+ - date_published: 2020-06-18T22:22:05+00:00
+
+ ## 10Gbps Unmetered Dedicated Servers | DataPacket.com
+ - [https://datapacket.com](https://datapacket.com)
+ - date_published: 2024-10-01T13:45:33+00:00
+
+ ## Data Pack Rat
+ - [http://www.datapackrat.com](http://www.datapackrat.com)
+ - date_published: 2012-02-01T15:50:34+00:00
+
+ ## DataPacRat's Warren
+ - [http://blog.datapacrat.com](http://blog.datapacrat.com)
+ - date_published: 2024-07-15T06:35:35.843295+00:00
+
  ## DataPacRat's Warren
  - [https://datapacrat.com](https://datapacrat.com)
  - date_published: 2022-11-08T20:03:25+00:00
@@ -4026,49 +4070,4 @@
  ## Delivering Dedicated Server in Azerbaijan - DEDIVER
  - [https://dediver.com](https://dediver.com)
  - date_published: 2024-09-06T12:53:42.239981+00:00
-
- ## Dedoimedo - A Place to Learn a Lot About a Lot
- - [https://dedoimedo.com](https://dedoimedo.com)
- - date_published: 2023-10-25T13:47:31.851633+00:00
-
- ## A CLI to deduplicate data from flat files and databases | dedupify.com
- - [https://dedupify.com](https://dedupify.com)
- - date_published: 2020-10-01T00:00:00+00:00
-
- ## DEDWARE
- - [https://dedware.com](https://dedware.com)
- - date_published: 2023-11-15T17:57:31.700400+00:00
- - tags: ['art', 'personal']
-
- ## dee briggs studio
- - [http://www.deebriggsstudio.com](http://www.deebriggsstudio.com)
- - date_published: 2024-06-28T14:14:25.759370+00:00
-
- ## Deel - Your forever people platform
- - [https://app.deel.com](https://app.deel.com)
- - date_published: 2024-06-15T00:29:36+00:00
-
- ## Deel Community
- - [https://community.deel.com](https://community.deel.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Deel - Your forever people platform
- - [https://deel.com](https://deel.com)
- - date_published: 2024-05-01T04:18:48.082066+00:00
-
- ## Welcome
- - [https://developer.deel.com](https://developer.deel.com)
- - date_published: 2024-06-15T19:54:14.010779+00:00
-
- ## Deel - Your forever people platform
- - [https://get.deel.com](https://get.deel.com)
- - date_published: 2024-09-18T20:38:57+00:00
-
- ## Deel Lab | Deel
- - [https://lab.deel.com](https://lab.deel.com)
- - date_published: 2024-06-15T17:03:05+00:00
-
- ## Deel Developer Community
- - [https://stack.deel.com](https://stack.deel.com)
- - date_published: 2024-09-18T00:00:00+00:00
 

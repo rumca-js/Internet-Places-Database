@@ -1,3 +1,43 @@
+ ## SAML Authentication Request
+ - [https://vcu.csod.com](https://vcu.csod.com)
+ - date_published: 2024-05-07T22:23:25.609685+00:00
+
+ ## SAML Authentication Request
+ - [https://worldbankgroup.csod.com](https://worldbankgroup.csod.com)
+ - date_published: 2024-07-16T23:36:08.127938+00:00
+
+ ## Simply CSOFT
+ - [https://blog.csoftintl.com](https://blog.csoftintl.com)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## CSO Online | Security at the speed of business
+ - [https://csoonline.com](https://csoonline.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home - CSO US
+ - [https://us.resources.csoonline.com](https://us.resources.csoonline.com)
+ - date_published: 2022-06-15T00:00:00+00:00
+
+ ## Home | Csound Community
+ - [https://csound.com](https://csound.com)
+ - date_published: 2023-10-25T13:38:23.183888+00:00
+
+ ## The Csound FLOSS Manual
+ - [https://flossmanual.csound.com](https://flossmanual.csound.com)
+ - date_published: 2023-07-19T16:15:23+00:00
+
+ ## Csound Community
+ - [https://forum.csound.com](https://forum.csound.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Csound Web-IDE
+ - [https://ide.csound.com](https://ide.csound.com)
+ - date_published: 2024-03-02T20:58:48+00:00
+
+ ## cSounds.com: The Csound Community
+ - [https://csounds.com](https://csounds.com)
+ - date_published: 2024-05-07T15:46:00.669321+00:00
+
  ## CSP Daily News
  - [https://www.cspdailynews.com](https://www.cspdailynews.com)
  - date_published: 2024-11-01T00:23:04.143890+00:00
@@ -3998,44 +4038,4 @@ for your agency
  ## DACdb
  - [https://websites.dacdb.com](https://websites.dacdb.com)
  - date_published: 2018-12-04T16:48:42+00:00
-
- ## DACdb.com
- - [https://www.dacdb.com](https://www.dacdb.com)
- - date_published: 2024-07-01T03:17:57+00:00
-
- ## Dacia, l'essentiel au meilleur prix - Renault Group - Renault Group
- - [https://www.dacia.com](https://www.dacia.com)
- - date_published: 2024-07-08T12:53:08.330218+00:00
-
- ## dack.com. hey.
- - [http://www.dack.com](http://www.dack.com)
- - date_published: 2024-07-04T15:02:49.057015+00:00
-
- ## High End Luxury Kitchen Appliances | Dacor US
- - [https://www.dacor.com](https://www.dacor.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## PHP Database front-end & Web/Database Application Builder - DaDaBIK
- - [https://dadabik.com](https://dadabik.com)
- - date_published: 2024-05-17T17:17:09.513457+00:00
-
- ## DADABOTS - Eliminate humans from music
- - [https://dadabots.com](https://dadabots.com)
- - date_published: 2024-09-06T21:33:18.124023+00:00
-
- ## dadageek
- - [http://www.dadageek.com](http://www.dadageek.com)
- - date_published: 2024-08-18T05:19:49.725339+00:00
-
- ## Dadagrams
- - [https://dadagrams.com](https://dadagrams.com)
- - date_published: 2023-10-25T13:41:06.381836+00:00
-
- ## Dada Mail Blog
- - [http://blog.dadamailproject.com](http://blog.dadamailproject.com)
- - date_published: 2024-10-31T04:43:47.905465+00:00
-
- ## Dada Mail - Self Hosted, Easy to Use Email Marketing Mailing List Manager
- - [https://dadamailproject.com](https://dadamailproject.com)
- - date_published: 2024-01-27T00:42:34+00:00
 

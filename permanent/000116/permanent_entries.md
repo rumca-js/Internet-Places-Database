@@ -1,3 +1,84 @@
+ ## HCL Group
+ - [https://hcl.com](https://hcl.com)
+ - date_published: 2024-07-09T17:40:58.566915+00:00
+
+ ## HCLSoftware: Fueling the Digital+ Economy
+ - [https://hcl-software.com](https://hcl-software.com)
+ - date_published: 2024-05-19T01:42:24+00:00
+
+ ## HCLTech: Supercharging Progress | Digital, Engineering and Cloud
+ - [https://www.hcltech.com](https://www.hcltech.com)
+ - date_published: 2024-07-08T12:44:09+00:00
+
+ ## Register for TechBee – HCL’s Early Career Program
+ - [https://registrations.hcltechbee.com](https://registrations.hcltechbee.com)
+ - date_published: 2024-08-17T23:38:22.731155+00:00
+
+ ## HCLSoftware
+ - [https://www.hcltechsw.com](https://www.hcltechsw.com)
+ - date_published: 2024-05-19T01:42:24+00:00
+
+ ## Highland Capital Partners
+ - [http://www.hcp.com](http://www.hcp.com)
+ - date_published: 2024-07-01T15:24:17.732601+00:00
+
+ ## 2025 Healthcare Project Delivery Conference - P3C Media
+ - [https://www.hcpdconference.com](https://www.hcpdconference.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Healthchecks.io – Cron Job Monitoring
+ - [https://hc-ping.com](https://hc-ping.com)
+ - date_published: 2024-05-04T15:49:43.208133+00:00
+
+ ## HCPLive - Clinical news for connected physicians
+ - [https://hcplive.com](https://hcplive.com)
+ - date_published: 2024-05-12T04:59:54.530849+00:00
+
+ ## One - HCPLive
+ - [https://one.hcplive.com](https://one.hcplive.com)
+ - date_published: 2024-07-15T03:40:34.497014+00:00
+
+ ## 68HC12/68HCS12 Textbooks and Simulators
+ - [https://hcs12text.com](https://hcs12text.com)
+ - date_published: 2023-01-02T17:08:28+00:00
+
+ ## HyperCard Simulator
+ - [https://hcsimulator.com](https://hcsimulator.com)
+ - date_published: 2024-06-25T21:34:40+00:00
+
+ ## Home
+ - [http://hcss.com](http://hcss.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Tablet Admin
+ - [http://hctablet.com](http://hctablet.com)
+ - date_published: 2024-09-17T21:06:55.907039+00:00
+
+ ## Welcome to nginx!
+ - [https://aliyun-qd01-cdn.hcwebsite.com](https://aliyun-qd01-cdn.hcwebsite.com)
+ - date_published: 2020-10-14T07:52:45+00:00
+
+ ## Error Page
+ - [https://www.hdb-egy.com](https://www.hdb-egy.com)
+ - date_published: 2024-09-18T04:47:21.627565+00:00
+
+ ## HD-DN
+ - [https://hd-dn.com](https://hd-dn.com)
+ - date_published: 2023-11-15T17:58:29.304927+00:00
+ - tags: ['personal']
+
+ ## Home Loans | Housing Finance Company in India | HDFC Bank Ltd
+ - [https://www.hdfc.com](https://www.hdfc.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://apply.hdfcbank.com](https://apply.hdfcbank.com)
+ - date_published: 2023-09-27T09:35:26+00:00
+
+ ## https://applyonline.hdfcbank.com
+ - [https://applyonline.hdfcbank.com](https://applyonline.hdfcbank.com)
+ - date_published: 2024-01-09T02:37:55.383206+00:00
+
  ## Home
  - [https://v.hdfcbank.com](https://v.hdfcbank.com)
  - date_published: 2024-08-16T14:38:04+00:00
@@ -1631,6 +1712,10 @@
  ## Investor Portal
  - [https://hiportal.hedgeserv.com](https://hiportal.hedgeserv.com)
  - date_published: 2024-09-04T15:40:28.301572+00:00
+
+ ## The Cottage of the HedgeWytch | HedgeWytchery
+ - [https://hedgewytchery.com](https://hedgewytchery.com)
+ - date_published: 2024-11-14T07:34:37+00:00
 
  ## Hedgeye Risk Management
  - [https://accounts.hedgeye.com](https://accounts.hedgeye.com)
@@ -3941,88 +4026,4 @@
  ## Cloud Application Platform | Heroku
  - [https://heroku.com](https://heroku.com)
  - date_published: 2024-05-08T08:57:39.124377+00:00
-
- ## Heroku | Login
- - [https://id.heroku.com](https://id.heroku.com)
- - date_published: 2024-06-16T05:16:03.257310+00:00
-
- ## クラウド・アプリケーション・プラットフォーム | Heroku
- - [https://jp.heroku.com](https://jp.heroku.com)
- - date_published: 2024-07-07T01:54:53.998732+00:00
-
- ## Login with Heroku
- - [https://kb.heroku.com](https://kb.heroku.com)
- - date_published: 2024-09-25T16:13:19.767693+00:00
-
- ## Heroku | Sign up
- - [https://signup.heroku.com](https://signup.heroku.com)
- - date_published: 2024-06-16T05:16:06.590112+00:00
-
- ## Heroku | Login
- - [https://sso.heroku.com](https://sso.heroku.com)
- - date_published: 2024-09-25T16:11:43.909018+00:00
-
- ## Heroku Status
- - [https://status.heroku.com](https://status.heroku.com)
- - date_published: 2023-10-25T14:58:40.059197+00:00
-
- ## Cloud Application Platform | Heroku
- - [https://www0.assets.heroku.com](https://www0.assets.heroku.com)
- - date_published: 2024-09-25T16:11:45.672640+00:00
-
- ## Join the Apache Airflow Community community on Slack!
- - [https://apache-airflow-slack.herokuapp.com](https://apache-airflow-slack.herokuapp.com)
- - date_published: 2024-07-04T12:29:04.892659+00:00
-
- ## Apostar Virtual
- - [https://apostarsystem.herokuapp.com](https://apostarsystem.herokuapp.com)
- - date_published: 2024-06-12T13:26:05.181273+00:00
-
- ## Heroku | Application Error
- - [https://aqueous-cove-29445-c28b60d645fc.herokuapp.com](https://aqueous-cove-29445-c28b60d645fc.herokuapp.com)
- - date_published: 2024-09-19T01:24:58.688136+00:00
-
- ## Heroku | Application Error
- - [http://b3rn3d.herokuapp.com](http://b3rn3d.herokuapp.com)
- - date_published: 2024-04-28T03:52:13.016899+00:00
-
- ## Heroku | Application Error
- - [https://bagpacker.herokuapp.com](https://bagpacker.herokuapp.com)
- - date_published: 2024-07-20T09:42:32.252999+00:00
-
- ## Tyler Data & Insights Site Admin
- - [https://bellerophon.herokuapp.com](https://bellerophon.herokuapp.com)
- - date_published: 2024-10-16T14:07:25.409711+00:00
-
- ## Heroku | Application Error
- - [https://bg-video-course.herokuapp.com](https://bg-video-course.herokuapp.com)
- - date_published: 2024-04-29T04:02:09.448765+00:00
-
- ## Shopify App — Installation
- - [https://bloomapp-production.herokuapp.com](https://bloomapp-production.herokuapp.com)
- - date_published: 2024-06-24T06:08:57.200205+00:00
-
- ## 📜🤖 Blurb It!
- - [https://blurb-it.herokuapp.com](https://blurb-it.herokuapp.com)
- - date_published: 2024-06-28T20:23:42.791789+00:00
-
- ## BrooklinenSocialLogin
- - [https://brooklinen-social-login.herokuapp.com](https://brooklinen-social-login.herokuapp.com)
- - date_published: 2024-08-06T03:00:49.678291+00:00
-
- ## Heroku | Application Error
- - [https://burnside.herokuapp.com](https://burnside.herokuapp.com)
- - date_published: 2024-04-30T07:32:42.427710+00:00
-
- ## Heroku | Application Error
- - [https://calendlex.herokuapp.com](https://calendlex.herokuapp.com)
- - date_published: 2024-09-04T07:50:20.484512+00:00
-
- ## Powered by Syncube
- - [https://cart-discount.herokuapp.com](https://cart-discount.herokuapp.com)
- - date_published: 2024-05-08T07:14:26.317009+00:00
-
- ## Heroku | Application Error
- - [https://coach-webapp.herokuapp.com](https://coach-webapp.herokuapp.com)
- - date_published: 2024-04-29T04:01:41.842527+00:00
 

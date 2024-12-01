@@ -1,3 +1,7 @@
+ ## Wild Magazine - Subscribe..
+ - [https://subscribe.wild.com.au](https://subscribe.wild.com.au)
+ - date_published: 2024-09-17T23:32:22.921396+00:00
+
  ## Wildcat Resources • ASX:WC8
  - [https://www.wildcatresources.com.au](https://www.wildcatresources.com.au)
  - date_published: 2024-08-05T00:00:00+00:00
@@ -4019,8 +4023,4 @@ University of Technology
  ## Greenpeace Australia Pacific
  - [http://www.greenpeace.org.au](http://www.greenpeace.org.au)
  - date_published: 2024-06-30T02:30:14.363774+00:00
-
- ## Guide Lines - For Girl Guides and Girl Guide Volunteers
- - [https://www.guidelinesforgirlguides.org.au](https://www.guidelinesforgirlguides.org.au)
- - date_published: 2024-03-01T00:00:00+00:00
 

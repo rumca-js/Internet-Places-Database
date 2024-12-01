@@ -1,3 +1,227 @@
+ ## Events Calendar
+ - [https://events.utsouthwestern.edu](https://events.utsouthwestern.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Careers at University of Texas Southwestern Medical Center
+ - [https://jobs.utsouthwestern.edu](https://jobs.utsouthwestern.edu)
+ - date_published: 2024-05-07T22:15:33.769466+00:00
+
+ ## Main Site: Homepage | UT Southwestern, Dallas, Texas
+ - [https://labs.utsouthwestern.edu](https://labs.utsouthwestern.edu)
+ - date_published: 2024-05-07T22:15:32.091321+00:00
+
+ ## UT Southwestern Medical Center Library
+ - [https://library.utsouthwestern.edu](https://library.utsouthwestern.edu)
+ - date_published: 2022-08-30T13:32:13+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.utsouthwestern.edu](https://mychart.utsouthwestern.edu)
+ - date_published: 2024-05-07T22:15:29.612650+00:00
+
+ ## Faculty Directory - UT Southwestern, Dallas, Texas
+ - [https://profiles.utsouthwestern.edu](https://profiles.utsouthwestern.edu)
+ - date_published: 2024-05-07T22:15:27.000443+00:00
+
+ ## Media Technology Web Streaming - UT Southwestern, Dallas, Texas
+ - [https://streaming.utsouthwestern.edu](https://streaming.utsouthwestern.edu)
+ - date_published: 2018-03-12T22:05:58+00:00
+
+ ## Home
+ - [https://utsouthwestern.edu](https://utsouthwestern.edu)
+ - date_published: 2023-11-07T23:09:54.425580+00:00
+
+ ## The University of Texas System Home
+ - [https://cms.utsystem.edu](https://cms.utsystem.edu)
+ - date_published: 2024-07-01T22:35:36+00:00
+
+ ## UT Share: Sign Out Notice
+ - [https://dacs-prd.utshare.utsystem.edu](https://dacs-prd.utshare.utsystem.edu)
+ - date_published: 2022-03-21T13:52:15+00:00
+
+ ## UT Share: Sign Out Notice
+ - [https://dahr-prd.utshare.utsystem.edu](https://dahr-prd.utshare.utsystem.edu)
+ - date_published: 2022-03-21T13:52:16+00:00
+
+ ## Home
+ - [http://data.utsystem.edu](http://data.utsystem.edu)
+ - date_published: 2024-07-02T11:49:38.278108+00:00
+
+ ## Home | SeekUT
+ - [https://seekut.utsystem.edu](https://seekut.utsystem.edu)
+ - date_published: 2024-07-02T11:49:57.636169+00:00
+
+ ## Home
+ - [https://utsystem.edu](https://utsystem.edu)
+ - date_published: 2024-05-07T22:11:54.765761+00:00
+
+ ## Index Page
+ - [https://zahr-prd-candidate-ada.utshare.utsystem.edu](https://zahr-prd-candidate-ada.utshare.utsystem.edu)
+ - date_published: 2023-06-10T17:54:51+00:00
+
+ ## The University of Texas at Tyler | UT Tyler
+ - [http://www.uttyler.edu](http://www.uttyler.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Undergraduate Admission
+ - [https://admission.utulsa.edu](https://admission.utulsa.edu)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## University of Tulsa - Modern Campus Catalog™
+ - [https://bulletin.utulsa.edu](https://bulletin.utulsa.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.utulsa.edu](https://calendar.utulsa.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## LibGuides: Library Homepage: McFarlin Homepage
+ - [https://libraries.utulsa.edu](https://libraries.utulsa.edu)
+ - date_published: 2024-07-14T20:36:18.734665+00:00
+
+ ## Home | The University of Tulsa
+ - [https://online.utulsa.edu](https://online.utulsa.edu)
+ - date_published: 2024-07-12T18:48:12+00:00
+
+ ## Sign in to your account
+ - [https://sso.utulsa.edu](https://sso.utulsa.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Tyler Moore, Tandy Professor of Cyber Security and Information Assurance, The University of Tulsa
+ - [https://tylermoore.ens.utulsa.edu](https://tylermoore.ens.utulsa.edu)
+ - date_published: 2024-04-15T19:40:34+00:00
+
+ ## The University of Tulsa
+ - [https://utulsa.edu](https://utulsa.edu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Admissions | | The University of Vermont
+ - [https://admissions.uvm.edu](https://admissions.uvm.edu)
+ - date_published: 2024-05-07T22:16:11.053453+00:00
+
+ ## Frequently Asked Questions: Home - LibAnswers
+ - [https://askalibrarian.uvm.edu](https://askalibrarian.uvm.edu)
+ - date_published: 2024-07-02T12:28:10.413735+00:00
+
+ ## The University of Vermont
+ - [https://bb.uvm.edu](https://bb.uvm.edu)
+ - date_published: 2024-02-23T16:58:52+00:00
+
+ ## Login - UVM Brightspace
+ - [https://brightspace.uvm.edu](https://brightspace.uvm.edu)
+ - date_published: 2024-07-02T12:29:46.941800+00:00
+
+ ## Chris Danforth
+ - [https://cdanfort.w3.uvm.edu](https://cdanfort.w3.uvm.edu)
+ - date_published: 2024-05-19T23:34:51+00:00
+
+ ## THE UNIVERSITY OF VERMONT LIBRARIES | Digital Collections
+ - [https://cdi.uvm.edu](https://cdi.uvm.edu)
+ - date_published: 2024-07-02T12:28:25+00:00
+
+ ## The University of Vermont
+ - [https://content.uvm.edu](https://content.uvm.edu)
+ - date_published: 2024-07-02T12:27:37+00:00
+
+ ## Dana Health Sciences Library | Dana Health Sciences Library
+ - [https://dana.uvm.edu](https://dana.uvm.edu)
+ - date_published: 2024-07-02T12:28:32.097131+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://go.uvm.edu](https://go.uvm.edu)
+ - date_published: 2024-07-02T12:29:18.919688+00:00
+
+ ## IIS Windows Server
+ - [https://illiad.uvm.edu](https://illiad.uvm.edu)
+ - date_published: 2019-06-14T16:07:30+00:00
+
+ ## UVM Professional and Continuing Education - University of Vermont
+ - [https://learn.uvm.edu](https://learn.uvm.edu)
+ - date_published: 2023-03-27T17:19:15+00:00
+
+ ## Howe Library | Howe Library
+ - [https://library.uvm.edu](https://library.uvm.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.ezproxy.uvm.edu](https://login.ezproxy.uvm.edu)
+ - date_published: 2024-07-02T12:28:23.936048+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://mail.uvm.edu](https://mail.uvm.edu)
+ - date_published: 2024-07-02T12:29:45.468024+00:00
+
+ ## Larner College of Medicine at The University of Vermont
+ - [https://med.uvm.edu](https://med.uvm.edu)
+ - date_published: 2024-05-07T22:16:35.188877+00:00
+
+ ## The University of Vermont -- WebAuth
+ - [https://myuvm.uvm.edu](https://myuvm.uvm.edu)
+ - date_published: 2024-05-07T22:16:20.017634+00:00
+
+ ## Peter Sheridan Dodds
+ - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
+ - date_published: 2023-09-11T20:10:44+00:00
+
+ ## University of Vermont ScholarWorks
+ - [http://scholarworks.uvm.edu](http://scholarworks.uvm.edu)
+ - date_published: 2024-07-02T12:28:08.536005+00:00
+
+ ## SFX Version 4 for Linux by Ex Libris
+ - [http://sfx.uvm.edu](http://sfx.uvm.edu)
+ - date_published: 2014-12-16T08:20:08+00:00
+
+ ## Silver Special Collections Library | Silver Special Collections Library
+ - [https://specialcollections.uvm.edu](https://specialcollections.uvm.edu)
+ - date_published: 2024-07-02T12:28:19.245882+00:00
+
+ ## Taras I.Lakoba - University Of Vermont
+ - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
+ - date_published: 2023-10-25T19:05:38.861859+00:00
+
+ ## Welcome | The UVM Bookstore
+ - [https://uvmbookstore.uvm.edu](https://uvmbookstore.uvm.edu)
+ - date_published: 2024-07-02T12:27:42.119097+00:00
+
+ ## UVM Homepage | The University of Vermont
+ - [https://uvmd10.drup2.uvm.edu](https://uvmd10.drup2.uvm.edu)
+ - date_published: 2024-07-02T12:27:40.062966+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.drup2.uvm.edu](https://uvmd9.drup2.uvm.edu)
+ - date_published: 2024-05-07T22:16:46.865139+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.uvm.edu](https://uvmd9.uvm.edu)
+ - date_published: 2024-05-07T22:16:08.189149+00:00
+
+ ## https://www.uvm.edu
+ - [https://uvm.edu](https://uvm.edu)
+ - date_published: 2024-01-09T03:28:49.823820+00:00
+
+ ## UVM Libraries Catalog
+ - [http://voyager.uvm.edu](http://voyager.uvm.edu)
+ - date_published: 2024-01-12T19:55:06+00:00
+
+ ## Home Page
+ - [https://www.alumni.uvm.edu](https://www.alumni.uvm.edu)
+ - date_published: 2024-05-07T22:16:44.573691+00:00
+
+ ## Utah Valley University | Utah Valley University
+ - [http://www.uvu.edu](http://www.uvu.edu)
+ - date_published: 2024-10-18T05:53:23.671870+00:00
+
+ ## News
+ - [http://ads-institute.uw.edu](http://ads-institute.uw.edu)
+ - date_published: 2020-11-17T05:45:28+00:00
+
+ ## College of Arts & Sciences | University of Washington
+ - [https://artsci.uw.edu](https://artsci.uw.edu)
+ - date_published: 2024-06-29T21:13:11+00:00
+
+ ## ArtsUW Events | Arts Events
+ - [https://artsevents.uw.edu](https://artsevents.uw.edu)
+ - date_published: 2024-07-02T13:43:35.865644+00:00
+
  ## Default - AskUs
  - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
  - date_published: 2024-07-02T13:49:08.291911+00:00
@@ -3776,228 +4000,4 @@
  ## Redirecting to login.wayne.edu...
  - [https://webmail.wayne.edu](https://webmail.wayne.edu)
  - date_published: 2015-06-23T18:32:08+00:00
-
- ## Word Warriors - Wayne State University
- - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
- - date_published: 2023-10-25T19:06:22.803186+00:00
-
- ## Wayne State University Press
- - [https://wsupress.wayne.edu](https://wsupress.wayne.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## High Performance Computing - Computing & Information Technology - Wayne State University
- - [https://www.grid.wayne.edu](https://www.grid.wayne.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Western Carolina University - Western Carolina University | Home
- - [https://www.wcu.edu](https://www.wcu.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Digital Commons @ West Chester University | West Chester University Research
- - [https://digitalcommons.wcupa.edu](https://digitalcommons.wcupa.edu)
- - date_published: 2024-07-02T10:48:40.381549+00:00
-
- ## https://apps.weber.edu
- - [https://apps.weber.edu](https://apps.weber.edu)
- - date_published: 2024-01-09T03:28:57.379562+00:00
-
- ## Weber State University - Modern Campus Catalog™
- - [http://catalog.weber.edu](http://catalog.weber.edu)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Welcome to the Division of Online & Continuing Education.
- - [https://continue.weber.edu](https://continue.weber.edu)
- - date_published: 2024-08-05T17:19:41.775115+00:00
-
- ## WSU Applicant Job Site | Home
- - [http://jobs.weber.edu](http://jobs.weber.edu)
- - date_published: 2024-08-05T17:19:28+00:00
-
- ## Home | Stewart Library
- - [https://library.weber.edu](https://library.weber.edu)
- - date_published: 2024-08-05T17:19:33.505364+00:00
-
- ## Weber State University
- - [https://weber.edu](https://weber.edu)
- - date_published: 2024-04-29T04:48:40.922189+00:00
-
- ## Webster University Homepage | Innovative. Global. Diverse
- - [http://www.webster.edu](http://www.webster.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Computer Science
- - [http://cs.wellesley.edu](http://cs.wellesley.edu)
- - date_published: 2024-08-08T11:15:51.024408+00:00
-
- ## Library Research Guides: Research Guides: Home
- - [http://libguides.wellesley.edu](http://libguides.wellesley.edu)
- - date_published: 2024-06-30T01:30:40.667063+00:00
-
- ## Explore the Collection | Wellesley College Digital Repository
- - [https://repository.wellesley.edu](https://repository.wellesley.edu)
- - date_published: 2024-07-03T17:51:46+00:00
-
- ## Home - Wellesley College
- - [https://www.wellesley.edu](https://www.wellesley.edu)
- - date_published: 2024-06-30T09:29:51.355461+00:00
-
- ## Dan Licata's Home Page
- - [http://dlicata.web.wesleyan.edu](http://dlicata.web.wesleyan.edu)
- - date_published: 2024-01-28T12:38:52+00:00
-
- ## Welcome to Wesleyan University - Middletown, Connecticut - Wesleyan University
- - [https://wesleyan.edu](https://wesleyan.edu)
- - date_published: 2024-07-19T16:50:07.377737+00:00
-
- ## Events Calendar - Western Colorado University
- - [https://events.western.edu](https://events.western.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## West Liberty University: Affordable Public College Near Wheeling, WV
- - [http://westliberty.edu](http://westliberty.edu)
- - date_published: 2024-06-28T14:21:16.754880+00:00
-
- ## Westminster College
- - [http://www.westminster.edu](http://www.westminster.edu)
- - date_published: 2024-06-28T14:17:49.731120+00:00
-
- ## Home | Westmont College
- - [https://www.westmont.edu](https://www.westmont.edu)
- - date_published: 2024-10-31T07:59:57.594004+00:00
-
- ## Admissions | United States Military Academy West Point
- - [https://apply.westpoint.edu](https://apply.westpoint.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Candidate Portal
- - [https://candidate.westpoint.edu](https://candidate.westpoint.edu)
- - date_published: 2024-05-07T22:28:16.305626+00:00
-
- ## Combating Terrorism Center – CTC at West Point
- - [https://ctc.westpoint.edu](https://ctc.westpoint.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## West Point Field Force
- - [https://fieldforce.westpoint.edu](https://fieldforce.westpoint.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Lieber Institute for Law and Land Warfare | West Point
- - [https://lieber.westpoint.edu](https://lieber.westpoint.edu)
- - date_published: 2024-10-18T17:53:30.564465+00:00
-
- ## Modern War Institute
- - [https://mwi.westpoint.edu](https://mwi.westpoint.edu)
- - date_published: 2024-05-07T18:20:21.746678+00:00
-
- ## West Point Congressional Nominations
- - [https://nominations.westpoint.edu](https://nominations.westpoint.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Character Carved in Stone
- - [https://visit.westpoint.edu](https://visit.westpoint.edu)
- - date_published: 2024-07-01T03:21:24.597964+00:00
-
- ## The U.S. Military Academy at West Point | United States Military Academy West Point
- - [https://westpoint.edu](https://westpoint.edu)
- - date_published: 2024-01-09T03:28:59.603602+00:00
-
- ## West Valley College, Saratoga CA
- - [http://instruct.westvalley.edu](http://instruct.westvalley.edu)
- - date_published: 2024-06-29T22:25:49.943418+00:00
-
- ## About | Wake Forest University
- - [https://about.wfu.edu](https://about.wfu.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Undergraduate Admissions | Wake Forest University
- - [https://admissions.wfu.edu](https://admissions.wfu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Alumni | Wake Forest School of Law
- - [http://alumni.law.wfu.edu](http://alumni.law.wfu.edu)
- - date_published: 2024-07-01T06:40:11.855959+00:00
-
- ## Alumni Personal & Career Development Center | Wake Forest University
- - [https://alumni.opcd.wfu.edu](https://alumni.opcd.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Alumni | Wake Forest University
- - [https://alumni.wfu.edu](https://alumni.wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Wake Forest University
- - [https://apply.admissions.wfu.edu](https://apply.admissions.wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [https://apply.business.wfu.edu](https://apply.business.wfu.edu)
- - date_published: 2024-07-02T14:15:18.055671+00:00
-
- ## Center for Global Programs and Studies
- - [https://apply.studyabroad.wfu.edu](https://apply.studyabroad.wfu.edu)
- - date_published: 2024-07-02T14:15:01.855633+00:00
-
- ## Wake The Arts—the Arts are alive at Wake Forest University.
- - [https://arts.wfu.edu](https://arts.wfu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home < Wake Forest University
- - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
- - date_published: 2024-02-08T16:51:06.053971+00:00
-
- ## Home
- - [https://business.wfu.edu](https://business.wfu.edu)
- - date_published: 2024-07-01T06:40:08.093920+00:00
-
- ## Division of Campus Life | Wake Forest University
- - [https://campuslife.wfu.edu](https://campuslife.wfu.edu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Campus Recreation - Campus Recreation
- - [https://campusrec.wfu.edu](https://campusrec.wfu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Center for Market Readiness and Employment Wake Forest University
- - [https://career.business.wfu.edu](https://career.business.wfu.edu)
- - date_published: 2024-07-01T06:39:17.827082+00:00
-
- ## Office of Personal & Career Development | Wake Forest University
- - [https://career.opcd.wfu.edu](https://career.opcd.wfu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Log In ‹ Chairs & Directors Resources — WordPress
- - [https://chairs.college.wfu.edu](https://chairs.college.wfu.edu)
- - date_published: 2024-07-02T14:15:55.552948+00:00
-
- ## Who We Are - Office of the Chaplain
- - [https://chaplain.wfu.edu](https://chaplain.wfu.edu)
- - date_published: 2024-07-01T20:12:42+00:00
-
- ## Home - Wake Forest University Charlotte Center
- - [https://charlotte.wfu.edu](https://charlotte.wfu.edu)
- - date_published: 2024-06-30T22:55:21+00:00
-
- ## Undergraduate College - Undergraduate College
- - [https://college.wfu.edu](https://college.wfu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Campus Health
- - [https://coronavirus.wfu.edu](https://coronavirus.wfu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## University Counseling Center - University Counseling Center
- - [https://counselingcenter.wfu.edu](https://counselingcenter.wfu.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Divinity Board of Visitors | Wake Forest University
- - [https://dbov.divinity.wfu.edu](https://dbov.divinity.wfu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Office of Diversity & Inclusion | Wake Forest University
- - [https://diversity.wfu.edu](https://diversity.wfu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Wake Forest University School of Divinity - Home
- - [https://divinity.wfu.edu](https://divinity.wfu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
 

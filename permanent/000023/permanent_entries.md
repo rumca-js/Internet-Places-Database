@@ -1,3 +1,11 @@
+ ## Innosuisse
+ - [https://www.innosuisse.ch](https://www.innosuisse.ch)
+ - date_published: 2024-07-16T22:36:24.055161+00:00
+
+ ## Home - Innovation by Design Challenge
+ - [https://innovationbydesignchallenge.ch](https://innovationbydesignchallenge.ch)
+ - date_published: 2024-05-12T07:23:51.694481+00:00
+
  ## Ideenplattform
  - [https://www.innovation-davosklosters.ch](https://www.innovation-davosklosters.ch)
  - date_published: 2024-11-21T15:50:32.036723+00:00
@@ -4012,14 +4020,4 @@ Fakultät | Universität Basel
  ## Accueil - Agora des associations d’étudiant.e.x.s  - UNIGE
  - [https://agora.unige.ch](https://agora.unige.ch)
  - date_published: 2019-02-14T00:00:00+00:00
-
- ## Archive ouverte UNIGE
- - [https://archive-ouverte.unige.ch](https://archive-ouverte.unige.ch)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Interactive Historical Atlas of the Disciplines
-
-— University of Geneva
- - [http://atlas-disciplines.unige.ch](http://atlas-disciplines.unige.ch)
- - date_published: 2024-07-27T06:11:14.474134+00:00
 

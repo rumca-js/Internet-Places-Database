@@ -1,3 +1,31 @@
+ ## Cocktail Journalist. One in a Worship of Writers.
+ - [http://haveglasswilldrink.blogspot.com](http://haveglasswilldrink.blogspot.com)
+ - date_published: 2020-06-22T00:00:00+00:00
+
+ ## Have Opinion, Will Travel
+ - [http://haveopinionwiiltravel.blogspot.com](http://haveopinionwiiltravel.blogspot.com)
+ - date_published: 2024-03-23T18:30:51+00:00
+
+ ## Havering On
+ - [http://haveringhavers.blogspot.com](http://haveringhavers.blogspot.com)
+ - date_published: 2024-10-21T14:46:34.971627+00:00
+
+ ## Have To Explode
+ - [http://havetoexplode.blogspot.com](http://havetoexplode.blogspot.com)
+ - date_published: 2024-10-21T04:00:53.218803+00:00
+
+ ## Having Two Legs
+ - [http://havingtwolegs.blogspot.com](http://havingtwolegs.blogspot.com)
+ - date_published: 2024-03-23T18:22:45+00:00
+
+ ## Cry Havoc - and let loose the Bugs of War!
+ - [http://havocbugsofwar.blogspot.com](http://havocbugsofwar.blogspot.com)
+ - date_published: 2024-10-25T08:18:46+00:00
+
+ ## Signal Monitoring and Analysis
+ - [http://hcab14.blogspot.com](http://hcab14.blogspot.com)
+ - date_published: 2024-07-08T06:28:27+00:00
+
  ## HCL Version 2.1 - Phoenix
  - [http://hcl.blogspot.com](http://hcl.blogspot.com)
  - date_published: 2024-08-30T07:11:27+00:00
@@ -3980,32 +4008,4 @@
  ## Krak Addict
  - [http://krakaddict.blogspot.com](http://krakaddict.blogspot.com)
  - date_published: 2024-09-25T04:27:28+00:00
-
- ## Krassians Lair
- - [http://krassianslair.blogspot.com](http://krassianslair.blogspot.com)
- - date_published: 2024-10-07T04:36:56+00:00
-
- ## Warhammer Green Stuff
- - [http://kreenskinz.blogspot.com](http://kreenskinz.blogspot.com)
- - date_published: 2024-09-01T17:51:58+00:00
-
- ## 291st Death Korps of Krieg
- - [http://krieggenetorium.blogspot.com](http://krieggenetorium.blogspot.com)
- - date_published: 2024-05-16T18:04:05+00:00
-
- ## Real and Simulated Wars
- - [http://kriegsimulation.blogspot.com](http://kriegsimulation.blogspot.com)
- - date_published: 2024-07-09T05:52:34+00:00
-
- ## Kriol word of the day / Kriol wed bla didei
- - [http://kriol.blogspot.com](http://kriol.blogspot.com)
- - date_published: 2024-03-13T02:57:53+00:00
-
- ## Krister Walfridsson’s old blog
- - [https://kristerw.blogspot.com](https://kristerw.blogspot.com)
- - date_published: 2021-10-20T00:00:00+00:00
-
- ## Kristin Berkey-Abbott
- - [http://kristinberkey-abbott.blogspot.com](http://kristinberkey-abbott.blogspot.com)
- - date_published: 2024-09-05T22:28:20+00:00
 

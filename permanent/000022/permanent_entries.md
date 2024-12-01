@@ -1,3 +1,11 @@
+ ## Brain & Heart Communication - Social Media Agentur
+ - [https://b-h.ch](https://b-h.ch)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Biel International Chess Festival
+ - [https://www.bielchessfestival.ch](https://www.bielchessfestival.ch)
+ - date_published: 2024-07-19T18:57:25+00:00
+
  ## Biglietteria.ch
  - [https://biglietteria.ch](https://biglietteria.ch)
  - date_published: 2024-02-15T00:00:00+00:00
@@ -4000,12 +4008,4 @@
  ## Inner Development Goals – Switzerland
  - [https://www.innerdevelopmentgoals.ch](https://www.innerdevelopmentgoals.ch)
  - date_published: 2024-09-12T19:59:33.669449+00:00
-
- ## Innosuisse
- - [https://www.innosuisse.ch](https://www.innosuisse.ch)
- - date_published: 2024-07-16T22:36:24.055161+00:00
-
- ## Home - Innovation by Design Challenge
- - [https://innovationbydesignchallenge.ch](https://innovationbydesignchallenge.ch)
- - date_published: 2024-05-12T07:23:51.694481+00:00
 

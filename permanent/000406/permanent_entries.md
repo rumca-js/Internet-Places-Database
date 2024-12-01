@@ -1,3 +1,325 @@
+ ## Vodafone Solutions
+ - [https://www.vodafonesolutions.pt](https://www.vodafonesolutions.pt)
+ - date_published: 2024-06-28T17:21:30+00:00
+
+ ## Moda Beleza Lifestyle Inspiring Women Vogue TV Casamentos
+ - [https://vogue.pt](https://vogue.pt)
+ - date_published: 2024-05-07T10:58:32.208947+00:00
+
+ ## Volante SIC
+ - [https://volantesic.pt](https://volantesic.pt)
+ - date_published: 2024-10-20T21:35:29.785857+00:00
+
+ ## VW Digital Solutions - Exploring new Roads
+ - [https://www.vwds.pt](https://www.vwds.pt)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Webwiki - O motor de busca de sites com comentários
+ - [https://www.webwiki.pt](https://www.webwiki.pt)
+ - date_published: 2024-06-29T16:56:01.493305+00:00
+
+ ## Westwing | A sua loja online de móveis, decoração de interiores e mais!
+ - [https://www.westwing.pt](https://www.westwing.pt)
+ - date_published: 2024-07-04T12:29:55.150898+00:00
+
+ ## Wikidata Days 2023
+ - [https://wikidatadays.wikimedia.pt](https://wikidatadays.wikimedia.pt)
+ - date_published: 2024-07-14T03:08:05.911648+00:00
+
+ ## Wikimedia Portugal – O capítulo português do movimento Wikimedia
+ - [https://wikimedia.pt](https://wikimedia.pt)
+ - date_published: 2024-07-14T03:07:25.987568+00:00
+
+ ## Home
+ - [https://women4cyber.pt](https://women4cyber.pt)
+ - date_published: 2024-05-06T23:57:12.999433+00:00
+
+ ## Programa de Afiliados - Wook
+ - [https://afiliados.wook.pt](https://afiliados.wook.pt)
+ - date_published: 2024-07-14T05:39:32.197384+00:00
+
+ ## WWF Portugal
+ - [http://www.wwf.pt](http://www.wwf.pt)
+ - date_published: 2024-07-01T10:30:06+00:00
+
+ ## Login - A Minha Conta Medialivre
+ - [https://aminhaconta.xl.pt](https://aminhaconta.xl.pt)
+ - date_published: 2024-07-12T20:30:31.426806+00:00
+
+ ## Assinaturas Medialivre
+ - [https://assinaturas.xl.pt](https://assinaturas.xl.pt)
+ - date_published: 2024-07-12T20:30:58.857233+00:00
+
+ ## Loja XL
+ - [http://loja.xl.pt](http://loja.xl.pt)
+ - date_published: 2024-10-20T17:31:03.220344+00:00
+
+ ## Homepage
+ - [http://www.automotor.xl.pt](http://www.automotor.xl.pt)
+ - date_published: 2024-10-20T17:31:05.517574+00:00
+
+ ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
+ - [http://www.cmjornal.xl.pt](http://www.cmjornal.xl.pt)
+ - date_published: 2024-07-12T20:31:02.150319+00:00
+
+ ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
+ - [http://www.correiodamanha.xl.pt](http://www.correiodamanha.xl.pt)
+ - date_published: 2024-10-20T17:31:17.587673+00:00
+
+ ## Máxima: Moda, beleza, lifestyle e comportamento
+ - [http://www.maxima.xl.pt](http://www.maxima.xl.pt)
+ - date_published: 2024-10-20T17:30:59.774000+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.negocios.xl.pt](http://www.negocios.xl.pt)
+ - date_published: 2024-10-20T17:31:21.192620+00:00
+
+ ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
+ - [http://www.record.xl.pt](http://www.record.xl.pt)
+ - date_published: 2024-10-20T17:31:09.456576+00:00
+
+ ## Moda Beleza Lifestyle Inspiring Women Vogue TV Casamentos
+ - [https://www.vogue.xl.pt](https://www.vogue.xl.pt)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## :: XL - Informação em grande ::
+ - [https://www.xl.pt](https://www.xl.pt)
+ - date_published: 2024-06-18T07:11:31.414860+00:00
+
+ ## mesa digitalizadora com tela & mesa de desenho digital | XPPen
+ - [https://www.xp-pen.pt](https://www.xp-pen.pt)
+ - date_published: 2024-05-30T18:42:59.249343+00:00
+
+ ## Yelp
+ - [https://m.yelp.pt](https://m.yelp.pt)
+ - date_published: 2024-07-01T07:11:11.973613+00:00
+
+ ## Yelp
+ - [https://yelp.pt](https://yelp.pt)
+ - date_published: 2024-07-01T07:08:49.588156+00:00
+
+ ## ZEISS Portugal
+ - [https://www.zeiss.pt](https://www.zeiss.pt)
+ - date_published: 2024-09-16T07:55:34.487937+00:00
+
+ ## zerozero.pt :: Porque todos os jogos começam assim...
+ - [https://www.zerozero.pt](https://www.zerozero.pt)
+ - date_published: 2024-09-05T15:03:25.814468+00:00
+
+ ## Support
+ - [https://support.zooplus.pt](https://support.zooplus.pt)
+ - date_published: 2024-09-26T11:20:56.889630+00:00
+
+ ## Loja de Animais de Estimação, Comida e Acessórios | zooplus
+ - [https://www.zooplus.pt](https://www.zooplus.pt)
+ - date_published: 2024-06-16T06:27:25.738271+00:00
+
+ ## 0xADADA, Software Engineer / Writer / Motorsports Driver
+ - [https://0xadada.pub](https://0xadada.pub)
+ - date_published: 2024-04-03T12:42:14.892635+00:00
+ - tags: ['personal']
+
+ ## Andrew Adams
+ - [https://andrew.adams.pub](https://andrew.adams.pub)
+ - date_published: 2022-12-20T15:28:00+00:00
+
+ ## Better Humans
+ - [https://betterhumans.pub](https://betterhumans.pub)
+ - date_published: 2024-05-04T15:00:35.604096+00:00
+
+ ## Better Marketing
+ - [https://bettermarketing.pub](https://bettermarketing.pub)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Better Programming
+ - [https://betterprogramming.pub](https://betterprogramming.pub)
+ - date_published: 2023-10-25T22:34:23.958673+00:00
+
+ ## Bridgetown Community - A discussion platform for Bridgetown & beyond
+ - [https://community.bridgetown.pub](https://community.bridgetown.pub)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## BrowserPub · A browser for exploring ActivityPub and the fediverse
+ - [https://browser.pub](https://browser.pub)
+ - date_published: 2024-09-05T16:26:40.520520+00:00
+
+ ## Carton Model Registry - Run any ML model from any programming language.
+ - [https://carton.pub](https://carton.pub)
+ - date_published: 2024-08-18T16:37:27.723876+00:00
+
+ ## DG Pub. Decentralized Gateway to the Public
+ - [https://dg.pub](https://dg.pub)
+ - date_published: 2024-09-23T12:08:47.003084+00:00
+
+ ## Distill — Latest articles about machine learning
+ - [https://distill.pub](https://distill.pub)
+ - date_published: 2022-08-03T01:57:28+00:00
+
+ ## Custom Domain by Bitly
+ - [https://dive.pub](https://dive.pub)
+ - date_published: 2024-06-14T18:40:44+00:00
+
+ ## Home - Dolphin Publications
+ - [https://www.dolphin.pub](https://www.dolphin.pub)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Doug Jones
+ - [https://doug.pub](https://doug.pub)
+ - date_published: 2024-08-01T19:07:24+00:00
+
+ ## Encyclopedia MDPI | Scholarly Community
+ - [https://encyclopedia.pub](https://encyclopedia.pub)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Login required
+ - [https://independentnewsstand.e-pages.pub](https://independentnewsstand.e-pages.pub)
+ - date_published: 2024-08-19T03:23:31.163878+00:00
+
+ ## Logg inn med Schibsted-kontoen din
+ - [https://vg.e-pages.pub](https://vg.e-pages.pub)
+ - date_published: 2024-09-02T11:11:28.507300+00:00
+
+ ## Fanfare
+ - [https://fanfare.pub](https://fanfare.pub)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## FAUN — Developer Community 🐾
+ - [https://faun.pub](https://faun.pub)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Flare
+ - [https://www.flare.pub](https://www.flare.pub)
+ - date_published: 2024-08-18T09:39:40.456834+00:00
+
+ ## Generative AI
+ - [https://generativeai.pub](https://generativeai.pub)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Announcing idyll.pub
+ - [https://idyll.pub](https://idyll.pub)
+ - date_published: 2024-07-02T13:30:29.769499+00:00
+
+ ## Infosec.Pub
+ - [https://infosec.pub](https://infosec.pub)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## IOCX BIN
+ - [https://ioc.pub](https://ioc.pub)
+ - date_published: 2024-07-03T03:16:16.924304+00:00
+
+ ## Custom Domain by Bitly
+ - [https://isw.pub](https://isw.pub)
+ - date_published: 2024-07-08T23:40:41+00:00
+
+ ## JAMS Journal Management System - Run your journals with ease
+ - [https://jams.pub](https://jams.pub)
+ - date_published: 2024-05-04T14:59:10.526003+00:00
+
+ ## JAMS Playground | Submission - Login
+ - [https://playground.jams.pub](https://playground.jams.pub)
+ - date_published: 2024-06-22T06:52:35.360355+00:00
+
+ ## kbin-core
+ - [https://git.kbin.pub](https://git.kbin.pub)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Home | kbin.pub - Fediverse of content
+ - [https://kbin.pub](https://kbin.pub)
+ - date_published: 2024-04-08T19:29:13.123675+00:00
+ - tags: ['self-host', 'cms', 'fediverse']
+
+ - [https://keybase.pub](https://keybase.pub)
+ - date_published: 2024-01-09T03:44:59.538703+00:00
+
+ ## Welcome to larry.pub! Home of "The Yii Book"!
+ - [https://larry.pub](https://larry.pub)
+ - date_published: 2019-12-31T00:00:00+00:00
+
+ ## Custom Domain by Bitly
+ - [https://lpi.pub](https://lpi.pub)
+ - date_published: 2024-06-15T00:56:10+00:00
+
+ ## microblog.pub - A self-hosted, single-user, ActivityPub powered microblog.
+ - [https://docs.microblog.pub](https://docs.microblog.pub)
+ - date_published: 2023-10-25T22:34:28.204374+00:00
+
+ ## Homepage
+ - [https://microblog.pub](https://microblog.pub)
+ - date_published: 2024-04-08T19:18:13+00:00
+ - tags: ['activitypub', 'self-host']
+
+ ## ModPub
+ - [https://mod.pub](https://mod.pub)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## moka
+ - [https://moka.pub](https://moka.pub)
+ - date_published: 2024-09-06T01:16:32.127735+00:00
+
+ ## Mostr | Nostr bridged to the Fediverse
+ - [https://mostr.pub](https://mostr.pub)
+ - date_published: 2024-05-13T20:02:58+00:00
+
+ ## Newspack - The platform for news.
+ - [https://newspack.pub](https://newspack.pub)
+ - date_published: 2024-05-04T12:34:09.883222+00:00
+
+ ## °+(*´∀｀)°+°
+ - [https://fran.nya.pub](https://fran.nya.pub)
+ - date_published: 2023-11-19T00:41:29+00:00
+
+ ## Soil on op.oils.pub
+ - [https://op.oils.pub](https://op.oils.pub)
+ - date_published: 2024-07-06T21:42:11.400835+00:00
+
+ ## Outpost
+ - [https://404mediaco.outpost.pub](https://404mediaco.outpost.pub)
+ - date_published: 2024-04-30T06:26:37.961181+00:00
+
+ ## Welcome to nginx!
+ - [https://assets.outpost.pub](https://assets.outpost.pub)
+ - date_published: 2022-01-26T11:12:24+00:00
+
+ ## Outpost
+ - [https://broadbandbreakfastghostio.outpost.pub](https://broadbandbreakfastghostio.outpost.pub)
+ - date_published: 2024-05-08T03:47:01.710903+00:00
+
+ ## Outpost
+ - [https://dailyposter.outpost.pub](https://dailyposter.outpost.pub)
+ - date_published: 2024-05-04T12:19:53.645856+00:00
+
+ ## Outpost
+ - [https://edzitronswheresyouredatghostio.outpost.pub](https://edzitronswheresyouredatghostio.outpost.pub)
+ - date_published: 2024-08-19T15:03:54.266211+00:00
+
+ ## Outpost
+ - [https://hellgate1ghostio.outpost.pub](https://hellgate1ghostio.outpost.pub)
+ - date_published: 2024-08-19T09:30:42.760238+00:00
+
+ ## Outpost
+ - [https://outpost.pub](https://outpost.pub)
+ - date_published: 2024-06-22T12:52:35.368431+00:00
+
+ ## Outpost
+ - [https://platformernews.outpost.pub](https://platformernews.outpost.pub)
+ - date_published: 2024-08-18T21:31:50.301371+00:00
+
+ ## Outpost
+ - [https://quillettecom.outpost.pub](https://quillettecom.outpost.pub)
+ - date_published: 2024-06-28T22:50:16.270982+00:00
+
+ ## Outpost
+ - [https://reviewfirstroundcom.outpost.pub](https://reviewfirstroundcom.outpost.pub)
+ - date_published: 2024-05-04T06:12:43.709800+00:00
+
+ ## Outpost
+ - [https://runtimenews.outpost.pub](https://runtimenews.outpost.pub)
+ - date_published: 2024-05-12T04:39:00.659980+00:00
+
+ ## Outpost
+ - [https://tablehopperghostio.outpost.pub](https://tablehopperghostio.outpost.pub)
+ - date_published: 2024-06-24T05:32:37.993307+00:00
+
  ## Outpost
  - [https://thedissenter.outpost.pub](https://thedissenter.outpost.pub)
  - date_published: 2024-08-18T18:15:32.952867+00:00
@@ -3713,328 +4035,4 @@
  ## Calculator — Valori Nutritionale
  - [https://valori-nutritionale.ro](https://valori-nutritionale.ro)
  - date_published: 2024-09-17T00:00:00+00:00
-
- ## Vlad Niculae
- - [http://vene.ro](http://vene.ro)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.ro](https://www.victronenergy.ro)
- - date_published: 2024-06-21T18:32:19+00:00
-
- ## Viimeinen metro
- - [https://viimeinenmet.ro](https://viimeinenmet.ro)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Consultant digital / Growth hacker - Viorel Mocanu
- - [https://viorelmocanu.ro](https://viorelmocanu.ro)
- - date_published: 2021-06-24T00:00:00+00:00
-
- ## Visa, un lider global in plati digital
- - [https://visa.ro](https://visa.ro)
- - date_published: 2024-05-12T03:59:37.386971+00:00
-
- ## Vlad Ilie | Software Engineer · Work with NodeJS, WordPress, Neo4j
- - [https://vladilie.ro](https://vladilie.ro)
- - date_published: 2024-05-11T10:09:30.335557+00:00
-
- ## Vocaroo | Online voice recorder
- - [https://voca.ro](https://voca.ro)
- - date_published: 2024-04-27T06:50:41+00:00
-
- ## Vodafone
- - [https://factura.vodafone.ro](https://factura.vodafone.ro)
- - date_published: 2024-06-29T13:40:43.365248+00:00
-
- ## Vodafone: Tehnologie | Telefonie | Televiziune și Internet | Gadgeturi | Oferte la portare
- - [https://vodafone.ro](https://vodafone.ro)
- - date_published: 2024-05-07T10:57:39.841960+00:00
-
- ## Vodafone Televiziune şi Internet Fix
- - [https://zoom.vodafone.ro](https://zoom.vodafone.ro)
- - date_published: 2024-06-29T13:40:42.829346+00:00
-
- ## Volution Notes
- - [https://notes.volution.ro](https://notes.volution.ro)
- - date_published: 2023-10-25T22:35:41.081523+00:00
-
- ## Web2Unu Blog - All things webby
- - [http://web2unu.ro](http://web2unu.ro)
- - date_published: 2024-07-09T08:21:33.404896+00:00
-
- ## WebDigital – agenție specializată în PPC marketing
- - [https://webdigital.ro](https://webdigital.ro)
- - date_published: 2024-09-19T15:00:32.255127+00:00
-
- ## Servere VPS SSD in Romania la preturi foarte mici | VPS Cloud Hosting
- - [http://www.webland.ro](http://www.webland.ro)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Program pentru creare site web gratuit | WebWave
- - [https://webwave.ro](https://webwave.ro)
- - date_published: 2024-09-14T07:50:49.544463+00:00
-
- ## WITTENSTEIN România
- - [https://www.wittenstein.ro](https://www.wittenstein.ro)
- - date_published: 2024-07-15T04:10:28.808860+00:00
-
- ## WWF Romania | Construim un viitor în care oamenii trăiesc în armonie cu natura
- - [https://wwf.ro](https://wwf.ro)
- - date_published: 2024-05-08T00:00:26.754812+00:00
-
- ## Lounge by Zalando - outletul online pentru modă și casă
- - [https://www.zalando-lounge.ro](https://www.zalando-lounge.ro)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## ZEISS România
- - [https://www.zeiss.ro](https://www.zeiss.ro)
- - date_published: 2024-09-16T07:56:09.734864+00:00
-
- ## Experiențe Pop Culture • Zile și Nopți
- - [https://zilesinopti.ro](https://zilesinopti.ro)
- - date_published: 2024-10-29T09:08:32.526595+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ro](https://www2.zoetis.ro)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## Support
- - [https://support.zooplus.ro](https://support.zooplus.ro)
- - date_published: 2024-09-26T11:24:04.335255+00:00
-
- ## Hrană şi accesorii pentru animale de companie la zooplus
- - [https://www.zooplus.ro](https://www.zooplus.ro)
- - date_published: 2024-06-16T06:27:45.976821+00:00
-
- ## 11ty Rocks!
- - [https://11ty.rocks](https://11ty.rocks)
- - date_published: 2024-07-22T12:50:52.892006+00:00
-
- ## ActivityPub Rocks!
- - [https://activitypub.rocks](https://activitypub.rocks)
- - date_published: 2021-01-04T00:00:00+00:00
-
- ## SocialHub - ActivityPub Special Interest Group
- - [https://socialhub.activitypub.rocks](https://socialhub.activitypub.rocks)
- - date_published: 2023-10-25T22:35:43.833065+00:00
-
- ## AMATEUR(DOT)ROCKS
- - [http://amateur.rocks](http://amateur.rocks)
- - date_published: 2024-07-13T15:03:24.796936+00:00
-
- ## Anti-Trust - The Masters of Disaster
- - [https://anti-trust.rocks](https://anti-trust.rocks)
- - date_published: 2024-09-18T14:20:51.037232+00:00
-
- ## Arisamiga's Blog
- - [https://blog.arisamiga.rocks](https://blog.arisamiga.rocks)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Amiga NDK3.2 Docs
- - [https://ndk.arisamiga.rocks](https://ndk.arisamiga.rocks)
- - date_published: 2023-05-15T22:10:16+00:00
-
- ## Bitcoin builds a better world.
- - [https://bitcoin.rocks](https://bitcoin.rocks)
- - date_published: 2024-06-25T18:33:20+00:00
-
- ## brew's site
- - [https://brew.rocks](https://brew.rocks)
- - date_published: 2024-07-05T04:54:45+00:00
-
- ## Caesar
- - [https://caesar.rocks](https://caesar.rocks)
- - date_published: 2024-07-10T14:40:04+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.cleaver.rocks](https://plausible.cleaver.rocks)
- - date_published: 2024-10-28T23:44:09.088529+00:00
-
- ## Mastodon
- - [https://climatejustice.rocks](https://climatejustice.rocks)
- - date_published: 2023-10-25T22:35:44.523941+00:00
-
- ## Rebrandly
- - [https://cloudinary.rocks](https://cloudinary.rocks)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Akkoma
- - [https://cofe.rocks](https://cofe.rocks)
- - date_published: 2024-07-15T06:33:01.728768+00:00
-
- ## Episodes
- - [https://contravariance.rocks](https://contravariance.rocks)
- - date_published: 2022-03-02T11:02:02+00:00
-
- ## contrib.rocks
- - [https://contrib.rocks](https://contrib.rocks)
- - date_published: 2023-07-02T03:33:42+00:00
-
- ## Dangerzone
- - [https://dangerzone.rocks](https://dangerzone.rocks)
- - date_published: 2024-05-11T08:50:05.273647+00:00
- - tags: ['online tool']
-
- ## Home - doipjs
- - [https://doip.rocks](https://doip.rocks)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## NameBridge
- - [https://namebridge.earlybird.rocks](https://namebridge.earlybird.rocks)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## flipping.rocks
- - [https://flipping.rocks](https://flipping.rocks)
- - date_published: 2024-05-08T06:01:05.933865+00:00
-
- ## cdn.flourish.rocks
- - [https://cdn.flourish.rocks](https://cdn.flourish.rocks)
- - date_published: 2024-01-18T14:18:58+00:00
-
- ## FromScratch - auto saving scratchpad
- - [https://fromscratch.rocks](https://fromscratch.rocks)
- - date_published: 2023-01-02T10:31:56+00:00
-
- ## Gabe Rocks!
- - [https://gabe.rocks](https://gabe.rocks)
- - date_published: 2024-05-29T07:54:27.472983+00:00
- - tags: ['personal']
-
- ## Gabriel's Misskey
- - [https://mk.gabe.rocks](https://mk.gabe.rocks)
- - date_published: 2024-09-03T19:19:50.838735+00:00
-
- ## Nikita Galaiko
- - [https://galaiko.rocks](https://galaiko.rocks)
- - date_published: 2024-06-26T04:05:37+00:00
-
- ## glamorous - React component styling solved 💄
- - [https://glamorous.rocks](https://glamorous.rocks)
- - date_published: 2024-06-21T20:33:13.402492+00:00
-
- ## در جست‌وجوی آزادی
- - [https://gnu.rocks](https://gnu.rocks)
- - date_published: 2024-03-06T16:18:40+00:00
-
- ## Game That Tune Radio
- - [https://gtt.rocks](https://gtt.rocks)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Halloween Party Radio - Philadelphia's Halloween Music Radio
- - [http://www.halloweenparty.rocks](http://www.halloweenparty.rocks)
- - date_published: 2024-10-29T23:54:30.785452+00:00
-
- ## 🔥 Hedgefire 🔥
- - [https://hedgefire.rocks](https://hedgefire.rocks)
- - date_published: 2024-06-23T19:48:50+00:00
-
- ## Huazhe Xu
- - [http://hxu.rocks](http://hxu.rocks)
- - date_published: 2024-06-04T02:20:15+00:00
-
- ## IndieAuth Rocks!
- - [https://indieauth.rocks](https://indieauth.rocks)
- - date_published: 2024-07-12T02:17:39.878523+00:00
-
- ## inspectIT Ocelot - Collecting performance, tracing and business data from your Java application
- - [http://www.inspectit.rocks](http://www.inspectit.rocks)
- - date_published: 2024-06-23T10:43:22.979928+00:00
-
- ## Jenna’s Side | Jenna McCarthy | Substack
- - [https://jennasside.rocks](https://jennasside.rocks)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Forgejo: Beyond coding. We Forge.
- - [https://forgejo.jing.rocks](https://forgejo.jing.rocks)
- - date_published: 2024-08-19T22:18:34.291554+00:00
-
- ## Invidious
- - [https://invidious.jing.rocks](https://invidious.jing.rocks)
- - date_published: 2024-06-22T13:21:49.982252+00:00
-
- ## Index of /
- - [https://repo.jing.rocks](https://repo.jing.rocks)
- - date_published: 2024-07-20T05:17:29.738549+00:00
-
- ## Mastodon (jkpg.rocks)
- - [https://jkpg.rocks](https://jkpg.rocks)
- - date_published: 2024-07-10T08:09:07.987840+00:00
-
- ## Attention Required! | Cloudflare
- - [https://piped-docs.kavin.rocks](https://piped-docs.kavin.rocks)
- - date_published: 2024-09-02T11:00:02.981334+00:00
-
- ## Piped
- - [https://piped.kavin.rocks](https://piped.kavin.rocks)
- - date_published: 2023-10-27T12:07:46.258588+00:00
-
- ## MastoKIF
- - [https://toot.kif.rocks](https://toot.kif.rocks)
- - date_published: 2024-08-18T16:37:28.895812+00:00
-
- ## KOReader Document Viewer for E Ink devices
- - [https://koreader.rocks](https://koreader.rocks)
- - date_published: 2024-04-10T23:56:56+00:00
- - tags: ['ebook reader']
-
- ## La Tana
- - [https://blog.latana.rocks](https://blog.latana.rocks)
- - date_published: 2024-04-19T15:34:13.966840+00:00
- - tags: ['personal']
-
- ## Umami
- - [https://umami.latana.rocks](https://umami.latana.rocks)
- - date_published: 2024-08-11T00:01:48.583648+00:00
-
- ## Legacy Code Rocks - Explore the world of modernizing existing software applications
- - [https://legacycode.rocks](https://legacycode.rocks)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## LUMINA
- - [https://lumina.rocks](https://lumina.rocks)
- - date_published: 2024-08-18T22:02:05.968036+00:00
-
- ## LYNNVANDER
- - [https://lynnvander.rocks](https://lynnvander.rocks)
- - date_published: 2024-06-19T01:12:31.675465+00:00
-
- ## Oliver Markus Malloy
- - [https://malloy.rocks](https://malloy.rocks)
- - date_published: 2024-10-28T03:07:38.029253+00:00
-
- ## Home page | Marketing with AI.rocks
- - [https://marketingwithai.rocks](https://marketingwithai.rocks)
- - date_published: 2024-08-07T20:19:45.603822+00:00
-
- ## masnun.rocks() · Abu Ashraf Masnun
- - [http://masnun.rocks](http://masnun.rocks)
- - date_published: 2017-05-02T12:59:26+00:00
-
- ## Mercure.rocks: Real-time APIs Made Easy
- - [https://mercure.rocks](https://mercure.rocks)
- - date_published: 2024-07-10T06:54:39.220415+00:00
-
- ## UX first SaaS and Fintech | Merge Development
- - [https://merge.rocks](https://merge.rocks)
- - date_published: 2024-04-29T07:31:54.691178+00:00
-
- ## MoonSociety – That Rocks
- - [https://moonsociety.rocks](https://moonsociety.rocks)
- - date_published: 2024-09-24T15:02:52+00:00
-
- ## Muki
- - [https://www.muki.rocks](https://www.muki.rocks)
- - date_published: 2022-10-24T11:48:05+00:00
-
- ## Nathan Greenberg | Musician & teacher based in Brooklyn, NY
- - [http://www.nathangreenberg.rocks](http://www.nathangreenberg.rocks)
- - date_published: 2024-09-18T16:54:01.123395+00:00
-
- ## ASP.NET Hacker
- - [https://asp.net-hacker.rocks](https://asp.net-hacker.rocks)
- - date_published: 2024-02-26T08:49:48+00:00
-
- ## Home | nivo
- - [https://nivo.rocks](https://nivo.rocks)
- - date_published: 2024-06-21T20:09:49.049956+00:00
 

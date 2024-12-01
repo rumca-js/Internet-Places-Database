@@ -1,3 +1,27 @@
+ ## Ben Barbersmith
+ - [https://barbersmith.com](https://barbersmith.com)
+ - date_published: 2024-02-25T15:15:42.220287+00:00
+
+ ## Mattel | Barbie Home
+ - [https://play.barbie.com](https://play.barbie.com)
+ - date_published: 2024-06-23T16:21:13.855125+00:00
+
+ ## Zabawki, lalki, zestawy do zabawy, domki dla lalek Barbie
+ - [https://www.barbie.com](https://www.barbie.com)
+ - date_published: 2024-06-23T16:21:08.532483+00:00
+
+ ## Barbieri Notes
+ - [https://barbierinotes.com](https://barbierinotes.com)
+ - date_published: 2024-07-23T23:28:46.700811+00:00
+
+ ## WarnerBros.pl | Strona z filmami, grami i nie tylko od WB.
+ - [https://www.barbie-themovie.com](https://www.barbie-themovie.com)
+ - date_published: 2024-06-28T17:59:38+00:00
+
+ ## Barbora Zilinskaite
+ - [https://barborazilinskaite.com](https://barborazilinskaite.com)
+ - date_published: 2024-07-04T01:44:25.881774+00:00
+
  ## Patrizia Barbuiani
  - [https://barbuiani.com](https://barbuiani.com)
  - date_published: 2022-01-08T00:00:00+00:00
@@ -4000,28 +4024,4 @@
  ## The Disruptors
  - [https://thedisruptors.beehiiv.com](https://thedisruptors.beehiiv.com)
  - date_published: 2023-10-25T12:56:33.285763+00:00
-
- ## The Future Is Like Pie
- - [https://thefutureislikepie.beehiiv.com](https://thefutureislikepie.beehiiv.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## The Horizon
- - [https://thehorizonnews.beehiiv.com](https://thehorizonnews.beehiiv.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Productivist
- - [https://theproductivist.beehiiv.com](https://theproductivist.beehiiv.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## The Simulation Strategists
- - [https://the-simulation-strategists.beehiiv.com](https://the-simulation-strategists.beehiiv.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Thomas' Newsletter
- - [https://thomas.beehiiv.com](https://thomas.beehiiv.com)
- - date_published: 2024-09-13T21:30:19+00:00
-
- ## The Loesch Letter
- - [https://tll.beehiiv.com](https://tll.beehiiv.com)
- - date_published: 2024-04-15T00:00:00+00:00
 

@@ -1,3 +1,15 @@
+ ## The global leader in composable commerce
+ - [https://www.frontastic.cloud](https://www.frontastic.cloud)
+ - date_published: 2024-08-06T21:00:26.834782+00:00
+
+ ## Fullfabric :: Grenoble Ecole de Management
+ - [https://gem.fullfabric.cloud](https://gem.fullfabric.cloud)
+ - date_published: 2024-07-03T05:33:58.980187+00:00
+
+ ## FusionStore - Finastra Marketplace - Home
+ - [https://www.fusionfabric.cloud](https://www.fusionfabric.cloud)
+ - date_published: 2024-07-12T08:07:49.207251+00:00
+
  ## Gaming In The Cloud
  - [https://gaminginthe.cloud](https://gaminginthe.cloud)
  - date_published: 2024-08-11T14:36:34.299786+00:00
@@ -4000,16 +4012,4 @@
  ## 健康频道_中国经济网
  - [http://health.ce.cn](http://health.ce.cn)
  - date_published: 2024-06-30T13:06:11.408289+00:00
-
- ## 无标题文档
- - [http://i.ce.cn](http://i.ce.cn)
- - date_published: 2022-03-04T07:45:20+00:00
-
- ## 国际频道-中国经济网 -- 国家经济门户
- - [http://intl.ce.cn](http://intl.ce.cn)
- - date_published: 2024-06-30T13:04:37.589345+00:00
-
- ## - 중국경제망
- - [http://kr.ce.cn](http://kr.ce.cn)
- - date_published: 2024-06-30T23:21:16.927773+00:00
 

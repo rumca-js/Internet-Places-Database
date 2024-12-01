@@ -1,4 +1,116 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://fetal-and-neonatal-care.medicaltechoutlook.com](https://fetal-and-neonatal-care.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:56.674504+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://fitness-equipment.medicaltechoutlook.com](https://fitness-equipment.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:54.298689+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://fluid-management-systems-europe.medicaltechoutlook.com](https://fluid-management-systems-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:51.942609+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://hearing-care.medicaltechoutlook.com](https://hearing-care.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:36.470970+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://infection-control-solutions-canada.medicaltechoutlook.com](https://infection-control-solutions-canada.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:02.747583+00:00
+
+ ## Future of In Vitro Diagnostic in APAC | Medical Tech Outlook
+ - [https://in-vitro-diagnostic-apac.medicaltechoutlook.com](https://in-vitro-diagnostic-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:30.554809+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://in-vitro-diagnostics-europe.medicaltechoutlook.com](https://in-vitro-diagnostics-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:35.228982+00:00
+
+ ## Innovative technology solutions in InVitro Diagnostic Services | MedTech Outlook
+ - [https://in-vitro-diagnostics.medicaltechoutlook.com](https://in-vitro-diagnostics.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:47.731421+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://israel-mena.medicaltechoutlook.com](https://israel-mena.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:57.898671+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://light-therapy-europe.medicaltechoutlook.com](https://light-therapy-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:49.716627+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://light-therapy.medicaltechoutlook.com](https://light-therapy.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:41.259968+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://manufacturing.medicaltechoutlook.com](https://manufacturing.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:53.366660+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-apac.medicaltechoutlook.com](https://medical-device-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:45.740952+00:00
+
+ ## Medical Tech Outlook- medical device coating Technology News, Trends, Analysis
+ - [https://medical-device-coating.medicaltechoutlook.com](https://medical-device-coating.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:16.201863+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-consulting-europe.medicaltechoutlook.com](https://medical-device-consulting-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:42.589906+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-consulting.medicaltechoutlook.com](https://medical-device-consulting.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:47.665839+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-cros-europe.medicaltechoutlook.com](https://medical-device-cros-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:58.636113+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-design-and-development-apac.medicaltechoutlook.com](https://medical-device-design-and-development-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:52.125581+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-design-and-development-canada.medicaltechoutlook.com](https://medical-device-design-and-development-canada.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:04.216836+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-design-and-development-europe.medicaltechoutlook.com](https://medical-device-design-and-development-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:50.220708+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-design-and-development.medicaltechoutlook.com](https://medical-device-design-and-development.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:03.410390+00:00
+
+ ## Latest in Medical Device Manufacturing APAC 2019 | MedTech Outlook
+ - [https://medical-device-manufacturing-apac.medicaltechoutlook.com](https://medical-device-manufacturing-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:33.099526+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-manufacturing-mena.medicaltechoutlook.com](https://medical-device-manufacturing-mena.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:22.727480+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-regulatory-and-compliance.medicaltechoutlook.com](https://medical-device-regulatory-and-compliance.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:50.101659+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-sterilization-europe.medicaltechoutlook.com](https://medical-device-sterilization-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:28.277641+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-equipment-maintenance-apac.medicaltechoutlook.com](https://medical-equipment-maintenance-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:04.014883+00:00
+
+ ## Latest Trends in Medical Equipment Manufacturing | Medical Tech Outlook
+ - [https://medical-equipment-maintenance.medicaltechoutlook.com](https://medical-equipment-maintenance.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:26.167282+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-imaging-equipment.medicaltechoutlook.com](https://medical-imaging-equipment.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:14.792789+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://medical-sensor-equipment-europe.medicaltechoutlook.com](https://medical-sensor-equipment-europe.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:11:38.461585+00:00
 
@@ -3917,116 +4029,4 @@
  ## Aliaksandr Valialkin – Medium
  - [https://valyala.medium.com](https://valyala.medium.com)
  - date_published: 2024-06-29T11:44:17.726127+00:00
-
- ## Victoria Kurichenko – Medium
- - [https://victoria-kurichenko.medium.com](https://victoria-kurichenko.medium.com)
- - date_published: 2024-10-31T12:06:37.352489+00:00
-
- ## Vikash Ruhil – Medium
- - [https://vikashruhil.medium.com](https://vikashruhil.medium.com)
- - date_published: 2023-10-25T10:23:33.945727+00:00
-
- ## Ville Kuosmanen – Medium
- - [https://villekuosmanen.medium.com](https://villekuosmanen.medium.com)
- - date_published: 2023-10-25T10:23:36.537987+00:00
-
- ## Vinita – Medium
- - [https://vinitabansal.medium.com](https://vinitabansal.medium.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Vinodh Swamy – Medium
- - [https://vinodhswamy.medium.com](https://vinodhswamy.medium.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Alexander Wichmann Carlsen – Medium
- - [https://visualbean.medium.com](https://visualbean.medium.com)
- - date_published: 2024-10-12T22:08:45.705147+00:00
-
- ## Visualizing Palestine – Medium
- - [https://visualizingpalestine.medium.com](https://visualizingpalestine.medium.com)
- - date_published: 2024-09-02T11:48:49.525171+00:00
-
- ## Vitruveo Chain – Medium
- - [https://vitruveochain.medium.com](https://vitruveochain.medium.com)
- - date_published: 2024-09-21T23:41:48.161163+00:00
-
- ## Vlad Holubiev – Medium
- - [https://vladholubiev.medium.com](https://vladholubiev.medium.com)
- - date_published: 2024-07-14T09:14:12.011295+00:00
-
- ## Vlad Iacob – Medium
- - [https://vladiacob.medium.com](https://vladiacob.medium.com)
- - date_published: 2024-06-23T15:01:41.551954+00:00
-
- ## Volodymyr Pavlyshyn – Medium
- - [https://volodymyrpavlyshyn.medium.com](https://volodymyrpavlyshyn.medium.com)
- - date_published: 2024-08-06T09:29:59.027705+00:00
-
- ## Voxies NFT – Medium
- - [https://voxiesnft.medium.com](https://voxiesnft.medium.com)
- - date_published: 2024-10-31T15:21:59.734346+00:00
-
- ## Wael Kdouh – Medium
- - [https://waelkdouh.medium.com](https://waelkdouh.medium.com)
- - date_published: 2024-07-03T20:02:25.642525+00:00
-
- ## Michael D. Callaghan – Medium
- - [https://walkingriver.medium.com](https://walkingriver.medium.com)
- - date_published: 2024-09-16T17:56:09.197137+00:00
-
- ## The Washington Department of Fish and Wildlife – Medium
- - [https://wdfw.medium.com](https://wdfw.medium.com)
- - date_published: 2024-09-16T04:11:35.625505+00:00
-
- ## WebClues Infotech – Medium
- - [https://webcluesinfo.medium.com](https://webcluesinfo.medium.com)
- - date_published: 2024-10-27T23:06:27.964974+00:00
-
- ## World Ethical Data Forum – Medium
- - [https://wedf.medium.com](https://wedf.medium.com)
- - date_published: 2024-06-28T21:48:51.874791+00:00
-
- ## Wes O'Donnell – Medium
- - [https://wesodonnell.medium.com](https://wesodonnell.medium.com)
- - date_published: 2023-10-25T10:23:38.601832+00:00
-
- ## WFP Innovation Accelerator – Medium
- - [https://wfpinnovation.medium.com](https://wfpinnovation.medium.com)
- - date_published: 2024-10-29T16:03:30.933639+00:00
-
- ## Zoe Chew – Medium
- - [https://whizzoe.medium.com](https://whizzoe.medium.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Ian Thomas – Medium
- - [https://wildwinter.medium.com](https://wildwinter.medium.com)
- - date_published: 2024-07-13T05:02:36.790140+00:00
-
- ## William Spivey – Medium
- - [https://williamspivey.medium.com](https://williamspivey.medium.com)
- - date_published: 2024-06-20T10:51:24.181924+00:00
-
- ## Will Fuks – Medium
- - [https://willian-fuks.medium.com](https://willian-fuks.medium.com)
- - date_published: 2024-09-13T20:24:00.285763+00:00
-
- ## Will J Murphy – Medium
- - [https://willjmurphy.medium.com](https://willjmurphy.medium.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## willy cash – Medium
- - [https://willycash.medium.com](https://willycash.medium.com)
- - date_published: 2024-08-07T13:45:30.203411+00:00
-
- ## Wispr AI – Medium
- - [https://wispr-ai.medium.com](https://wispr-ai.medium.com)
- - date_published: 2024-07-13T12:35:10.634737+00:00
-
- ## Wolfgang Hauptfleisch – Medium
- - [https://wolfhf.medium.com](https://wolfhf.medium.com)
- - date_published: 2023-10-25T10:23:40.880848+00:00
-
- ## Women4Cyber Portugal – Medium
- - [https://women4cyberportugal.medium.com](https://women4cyberportugal.medium.com)
- - date_published: 2024-06-28T22:07:54.261120+00:00
 

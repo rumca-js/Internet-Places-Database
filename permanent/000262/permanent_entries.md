@@ -1,3 +1,227 @@
+ ## IU Framework
+ - [https://framework.iu.edu](https://framework.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Giving: My IU: Indiana University
+ - [https://give.iu.edu](https://give.iu.edu)
+ - date_published: 2024-07-13T17:29:50.711275+00:00
+
+ ## Global engagement for all
+ - [https://global.iu.edu](https://global.iu.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Indiana University Trident
+ - [https://go.iu.edu](https://go.iu.edu)
+ - date_published: 2024-07-13T17:29:52.160585+00:00
+
+ ## Google
+ - [https://google.iu.edu](https://google.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## The University Graduate School
+ - [https://graduate.iu.edu](https://graduate.iu.edu)
+ - date_published: 2024-10-18T05:38:10.243042+00:00
+
+ ## Indiana University Honors and Awards
+ - [https://honorsandawards.iu.edu](https://honorsandawards.iu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://host.kelley.iu.edu](https://host.kelley.iu.edu)
+ - date_published: 2022-06-07T12:28:27+00:00
+
+ ## Human Resources | Indiana University
+ - [http://hr.iu.edu](http://hr.iu.edu)
+ - date_published: 2024-08-11T11:23:35.440628+00:00
+
+ ## Human Resource Management System
+ - [https://hrms.iu.edu](https://hrms.iu.edu)
+ - date_published: 2024-08-08T08:57:18+00:00
+
+ ## UITS Human Resources
+ - [https://hr.uits.iu.edu](https://hr.uits.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Kelley Global – Business education everywhere business happens
+ - [https://iibblog.kelley.iu.edu](https://iibblog.kelley.iu.edu)
+ - date_published: 2024-09-05T10:08:37.516008+00:00
+
+ ## IU Indianapolis - Your First Step to Your Ideal Future - Bring On Tomorrow
+ - [https://indianapolis.iu.edu](https://indianapolis.iu.edu)
+ - date_published: 2024-09-05T10:08:06.065764+00:00
+
+ ## IU Login
+ - [http://ithelplive.iu.edu](http://ithelplive.iu.edu)
+ - date_published: 2024-07-21T21:42:15.104592+00:00
+
+ ## UITS IT Training - Indiana University
+ - [https://ittraining.iu.edu](https://ittraining.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Welcome to the Indiana University Library Catalog (IUCAT) | Indiana University Libraries
+ - [https://iucat.iu.edu](https://iucat.iu.edu)
+ - date_published: 2024-05-11T08:02:11.560418+00:00
+
+ ## Forms - Digital Campus
+ - [https://iudcdi-fireform.eas.iu.edu](https://iudcdi-fireform.eas.iu.edu)
+ - date_published: 2024-04-30T05:01:09.572178+00:00
+
+ ## Indiana University
+ - [https://iu.edu](https://iu.edu)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Indiana University Foundation
+ - [https://iufoundation.iu.edu](https://iufoundation.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Forms - IU Studios CRM Marketing
+ - [https://iustudioscrm-fireform.eas.iu.edu](https://iustudioscrm-fireform.eas.iu.edu)
+ - date_published: 2024-06-19T14:41:41.677248+00:00
+
+ ## Jetstream2
+ - [https://jetsweb.sitehost.iu.edu](https://jetsweb.sitehost.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Jobs at IU
+ - [https://jobs.iu.edu](https://jobs.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University Knowledge Base
+ - [https://kb.iu.edu](https://kb.iu.edu)
+ - date_published: 2024-04-30T05:01:11.474016+00:00
+
+ ## Kelley Direct Online MBA – Create lasting momentum for the career you want
+ - [https://kdblog.kelley.iu.edu](https://kdblog.kelley.iu.edu)
+ - date_published: 2024-09-05T10:08:32+00:00
+
+ ## Kelley School of Business
+ - [https://kelley.iu.edu](https://kelley.iu.edu)
+ - date_published: 2024-09-05T10:08:46.525615+00:00
+
+ ## Page Title
+ - [https://lkml.iu.edu](https://lkml.iu.edu)
+ - date_published: 2022-02-21T20:07:28+00:00
+
+ ## Create IU Guest Account: Indiana University
+ - [https://login.iu.edu](https://login.iu.edu)
+ - date_published: 2024-07-21T21:41:09.164461+00:00
+
+ ## Luddy  School of Informatics, Computing, and Engineering
+ - [https://luddy.iu.edu](https://luddy.iu.edu)
+ - date_published: 2024-10-18T05:37:19.933650+00:00
+
+ ## Campus Maps: Indiana University
+ - [https://map.iu.edu](https://map.iu.edu)
+ - date_published: 2024-06-21T01:55:31.600197+00:00
+
+ ## Full-time MBA Program – We empower you to create the future you want
+ - [https://mbablog.kelley.iu.edu](https://mbablog.kelley.iu.edu)
+ - date_published: 2024-09-05T10:08:27+00:00
+
+ ## IU Robert H. McKinney School of Law
+ - [https://mckinneylaw.iu.edu](https://mckinneylaw.iu.edu)
+ - date_published: 2024-10-18T22:31:57.108388+00:00
+
+ ## Meal Plans
+ - [https://mealplans.indianapolis.iu.edu](https://mealplans.indianapolis.iu.edu)
+ - date_published: 2024-07-01T17:45:22.056361+00:00
+
+ ## Indiana University School of Medicine
+ - [https://medicine.iu.edu](https://medicine.iu.edu)
+ - date_published: 2024-04-30T05:01:19.347043+00:00
+
+ ## Sign in to your account
+ - [https://mednet.iu.edu](https://mednet.iu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## MS in Information Systems – Create momentum in your education and career
+ - [https://msisblog.kelley.iu.edu](https://msisblog.kelley.iu.edu)
+ - date_published: 2024-09-05T09:18:29+00:00
+
+ ## News at IU: Indiana University
+ - [https://news.iu.edu](https://news.iu.edu)
+ - date_published: 2023-11-16T10:46:18.918497+00:00
+
+ ## Service Discovery
+ - [https://one.iu.edu](https://one.iu.edu)
+ - date_published: 2024-04-30T05:01:16.255311+00:00
+
+ ## On Illuminating
+ - [https://onilluminating.iu.edu](https://onilluminating.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Pages
+ - [http://pages.iu.edu](http://pages.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## University Policies
+ - [https://policies.iu.edu](https://policies.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Protect IU
+ - [https://protect.iu.edu](https://protect.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Home - The Center for the Study of Religion & American Culture
+ - [https://raac.indianapolis.iu.edu](https://raac.indianapolis.iu.edu)
+ - date_published: 2024-02-15T23:05:22+00:00
+
+ ## Bias Incident Reporting
+ - [https://reportincident.iu.edu](https://reportincident.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Research Impact
+ - [https://research.impact.iu.edu](https://research.impact.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## RESEARCH
+ - [https://research.iu.edu](https://research.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University Knowledge Base
+ - [https://rest.kb.iu.edu](https://rest.kb.iu.edu)
+ - date_published: 2024-07-21T21:42:12.247385+00:00
+
+ ## Security and Privacy in  Informatics, Computing, and Engineering
+ - [https://spice.luddy.iu.edu](https://spice.luddy.iu.edu)
+ - date_published: 2024-10-18T05:38:11.262723+00:00
+
+ ## System Status - Status.IU
+ - [https://status.iu.edu](https://status.iu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## System Status - Status.IU
+ - [https://status.uits.iu.edu](https://status.uits.iu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Web Style Guide
+ - [https://styleguide.iu.edu](https://styleguide.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## IU Today
+ - [https://today.iu.edu](https://today.iu.edu)
+ - date_published: 2024-04-30T05:01:13.138368+00:00
+
+ ## Indiana University Transcripts: Indiana University
+ - [https://transcripts.iu.edu](https://transcripts.iu.edu)
+ - date_published: 2024-10-18T22:31:42.369845+00:00
+
+ ## University Information Technology Services
+ - [https://uits.iu.edu](https://uits.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## University Events
+ - [https://universityevents.iu.edu](https://universityevents.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University East
+ - [https://www.iue.edu](https://www.iue.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Indiana University Kokomo
+ - [https://www.iuk.edu](https://www.iuk.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
  ## Indiana University Northwest
  - [https://www.iun.edu](https://www.iun.edu)
  - date_published: 2024-03-07T00:00:00+00:00
@@ -3780,228 +4004,4 @@
  ## Daniela Rus – Robotics
  - [http://danielarus.csail.mit.edu](http://danielarus.csail.mit.edu)
  - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Daper
- - [https://daper.mit.edu](https://daper.mit.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Feminism
- - [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## MIT Database Group
- - [http://db.csail.mit.edu](http://db.csail.mit.edu)
- - date_published: 2024-07-01T20:10:24.223424+00:00
-
- ## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date_published: 2023-10-25T18:53:49.969803+00:00
-
- ## MIT Digital Currency Initiative
- - [https://dci.mit.edu](https://dci.mit.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Debathena
- - [https://debathena.mit.edu](https://debathena.mit.edu)
- - date_published: 2016-11-13T21:08:10+00:00
-
- ## MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
- - [https://deeplearning.mit.edu](https://deeplearning.mit.edu)
- - date_published: 2020-07-05T00:00:00+00:00
-
- ## 6.S063 Design for the Web: Languages and User Interfaces
- - [https://designftw.mit.edu](https://designftw.mit.edu)
- - date_published: 2024-08-19T17:22:39.126618+00:00
-
- ## Morningside Academy for Design
- - [https://design.mit.edu](https://design.mit.edu)
- - date_published: 2024-07-01T15:02:37.479720+00:00
-
- ## DeepFakes, Can You Spot Them?
- - [https://detectfakes.media.mit.edu](https://detectfakes.media.mit.edu)
- - date_published: 2024-07-03T11:55:33.026889+00:00
-
- ## Decentralized Information Group
- - [http://dig.csail.mit.edu](http://dig.csail.mit.edu)
- - date_published: 2017-04-03T21:18:23+00:00
-
- ## Digital Credentials Consortium
- - [https://digitalcredentials.mit.edu](https://digitalcredentials.mit.edu)
- - date_published: 2024-06-26T19:34:06+00:00
-
- ## Digital Humanities at MIT
- - [https://digitalhumanities.mit.edu](https://digitalhumanities.mit.edu)
- - date_published: 2024-05-14T04:03:49.179662+00:00
-
- ## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date_published: 2023-10-25T18:53:52.060229+00:00
-
- ## disobedience  archive
- - [http://disobedience.mit.edu](http://disobedience.mit.edu)
- - date_published: 2024-05-24T22:29:39.562778+00:00
-
- ## Understanding the Role of Individual Units in a Deep Network
- - [https://dissect.csail.mit.edu](https://dissect.csail.mit.edu)
- - date_published: 2020-09-17T03:49:07+00:00
-
- ## Dissection of Deep Networks
- - [http://dissection.csail.mit.edu](http://dissection.csail.mit.edu)
- - date_published: 2021-09-26T09:31:09+00:00
-
- ## Home | MIT D-Lab
- - [https://d-lab.mit.edu](https://d-lab.mit.edu)
- - date_published: 2024-06-20T00:22:17+00:00
-
- ## MIT Department of Materials Science and Engineering
- - [https://dmse.mit.edu](https://dmse.mit.edu)
- - date_published: 2024-07-20T21:30:55.449375+00:00
-
- ## MIT – Docubase
- - [http://docubase.mit.edu](http://docubase.mit.edu)
- - date_published: 2024-07-13T04:39:26+00:00
-
- ## Documentarity
- - [https://documentarity.mitpress.mit.edu](https://documentarity.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Dome Home
- - [http://dome.mit.edu](http://dome.mit.edu)
- - date_published: 2024-07-17T12:28:54.939802+00:00
-
- ## DPI-Net
- - [http://dpi.csail.mit.edu](http://dpi.csail.mit.edu)
- - date_published: 2019-10-18T02:45:48+00:00
-
- ## Drake: Model-Based Design and Verification for Robotics
- - [https://drake.mit.edu](https://drake.mit.edu)
- - date_published: 2024-07-11T06:47:06+00:00
-
- ## Data Systems Group (DSG) @ MIT
- - [http://dsg.csail.mit.edu](http://dsg.csail.mit.edu)
- - date_published: 2024-07-20T22:30:42+00:00
-
- ## DSpace@MIT Home
- - [https://dspace.mit.edu](https://dspace.mit.edu)
- - date_published: 2023-10-25T18:53:53.742765+00:00
-
- ## Distributed Systems Reading Group
- - [http://dsrg.pdos.csail.mit.edu](http://dsrg.pdos.csail.mit.edu)
- - date_published: 2016-06-26T00:00:00+00:00
-
- ## Home | DUSP
- - [https://dusp.mit.edu](https://dusp.mit.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## MIT EAPS
- - [https://eaps.mit.edu](https://eaps.mit.edu)
- - date_published: 2024-05-01T08:10:08.595185+00:00
-
- ## MIT EAPS
- - [https://eapsweb.mit.edu](https://eapsweb.mit.edu)
- - date_published: 2024-05-07T19:37:04.039158+00:00
-
- ## Trillian.MIT.EDU -- ECF Guest Machine
- - [http://ecf-guest.mit.edu](http://ecf-guest.mit.edu)
- - date_published: 2001-01-09T02:22:10+00:00
-
- ## Home | MIT Economics
- - [https://economics.mit.edu](https://economics.mit.edu)
- - date_published: 2024-06-21T17:08:34+00:00
-
- ## Home | MIT Edgerton Center
- - [https://edgerton.mit.edu](https://edgerton.mit.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Editing Conditional Radiance Fields
- - [http://editnerf.csail.mit.edu](http://editnerf.csail.mit.edu)
- - date_published: 2021-11-21T15:09:17+00:00
-
- ## Account Provider Selection
- - [https://eecseduportal.mit.edu](https://eecseduportal.mit.edu)
- - date_published: 2024-06-20T17:11:32.383511+00:00
-
- ## Home - Embodied Intelligence
- - [https://ei.csail.mit.edu](https://ei.csail.mit.edu)
- - date_published: 2022-12-26T18:29:33+00:00
-
- ## The Miller Lab
- - [https://ekmillerlab.mit.edu](https://ekmillerlab.mit.edu)
- - date_published: 2024-05-07T09:59:41.269970+00:00
-
- ## MIT ELO
- - [https://elo.mit.edu](https://elo.mit.edu)
- - date_published: 2022-01-27T00:00:00+00:00
-
- ## ELX
- - [https://elx.mit.edu](https://elx.mit.edu)
- - date_published: 2024-03-21T04:30:54+00:00
-
- ## MIT Emergency Information
- - [https://emergency.mit.edu](https://emergency.mit.edu)
- - date_published: 2024-05-07T19:34:52.925624+00:00
-
- ## Home - Electromechanical Systems Group
- - [https://emsg.mit.edu](https://emsg.mit.edu)
- - date_published: 2016-07-06T00:00:00+00:00
-
- ## Encoding Culture (21H.S05)
- - [https://encodingculture.dhlab.mit.edu](https://encodingculture.dhlab.mit.edu)
- - date_published: 2023-01-23T23:08:15+00:00
-
- ## Homepage
- - [https://energy.mit.edu](https://energy.mit.edu)
- - date_published: 2024-01-07T21:07:19.748100+00:00
-
- ## MIT School of Engineering |
- - [https://engineering.mit.edu](https://engineering.mit.edu)
- - date_published: 2014-10-01T10:10:10+00:00
-
- ## Home | Environmental Solutions Initiative
- - [https://environmentalsolutions.mit.edu](https://environmentalsolutions.mit.edu)
- - date_published: 2016-02-25T04:04:57+00:00
-
- ## Enzyme AD
- - [https://enzyme.mit.edu](https://enzyme.mit.edu)
- - date_published: 2024-05-08T09:43:46.491692+00:00
-
- ## Engineering Quantum Systems Group |
- - [https://equs.mit.edu](https://equs.mit.edu)
- - date_published: 2024-06-20T16:19:39+00:00
-
- ## Home | Environmental Solutions Initiative
- - [https://esi.mit.edu](https://esi.mit.edu)
- - date_published: 2016-02-25T04:04:57+00:00
-
- ## MIT ESP - Home
- - [https://esp.mit.edu](https://esp.mit.edu)
- - date_published: 2024-05-07T15:14:40.277505+00:00
-
- ## Sign in - Matomo
- - [http://esp-piwik.mit.edu](http://esp-piwik.mit.edu)
- - date_published: 2024-06-30T04:19:13.066591+00:00
-
- ## Events Calendar - MIT Events
- - [https://events.mit.edu](https://events.mit.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Data and Disruption: Mastering AI and Machine Learning for Finance
- - [https://events.sloanreview.mit.edu](https://events.sloanreview.mit.edu)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Eric von Hippel
- - [https://evhippel.mit.edu](https://evhippel.mit.edu)
- - date_published: 2024-06-20T22:45:01.623945+00:00
-
- ## MIT Sloan Executive Education
- - [https://exec.mit.edu](https://exec.mit.edu)
- - date_published: 2023-07-02T15:27:47+00:00
-
- ## MIT Sloan Executive Education
- - [https://executive-ed.mit.edu](https://executive-ed.mit.edu)
- - date_published: 2024-07-19T18:53:58.483678+00:00
-
- ## MIT xPRO
- - [https://executive-ed.xpro.mit.edu](https://executive-ed.xpro.mit.edu)
- - date_published: 2024-06-19T19:05:31.009224+00:00
 

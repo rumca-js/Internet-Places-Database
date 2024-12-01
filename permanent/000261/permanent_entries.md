@@ -1,3 +1,227 @@
+ ## Committed to Keeping You Safe
+ - [https://safety.gsu.edu](https://safety.gsu.edu)
+ - date_published: 2024-04-30T04:31:48.797135+00:00
+
+ ## Open Access Institutional Repository of Georgia State University
+ - [http://scholarworks.gsu.edu](http://scholarworks.gsu.edu)
+ - date_published: 2024-07-22T02:23:18.404506+00:00
+
+ ## University Senate - Georgia State University Senate
+ - [https://senate.gsu.edu](https://senate.gsu.edu)
+ - date_published: 2024-04-30T04:30:11.563900+00:00
+
+ ## Home | Send A File
+ - [https://sendafile.gsu.edu](https://sendafile.gsu.edu)
+ - date_published: 2024-04-30T04:34:22.822012+00:00
+
+ ## Auxiliary Services - Auxiliary Services
+ - [https://services.gsu.edu](https://services.gsu.edu)
+ - date_published: 2024-04-30T04:30:19.316340+00:00
+
+ ## Student Financial Services - Georgia State
+ - [https://sfs.gsu.edu](https://sfs.gsu.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Student Government Association - Student Engagement
+ - [https://sga.gsu.edu](https://sga.gsu.edu)
+ - date_published: 2024-04-30T04:34:42.137840+00:00
+
+ ## sites@gsu – Blogs for Georgia State University – Powered by Edublogs
+ - [http://sites.gsu.edu](http://sites.gsu.edu)
+ - date_published: 2024-07-22T02:47:38+00:00
+
+ ## Certificate | Social Action
+ - [https://socialaction.gsu.edu](https://socialaction.gsu.edu)
+ - date_published: 2024-07-20T18:42:31.417161+00:00
+
+ ## Spotlight Programs Board - Student Engagement
+ - [https://spotlight.gsu.edu](https://spotlight.gsu.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Staff Council
+ - [https://staffcouncil.gsu.edu](https://staffcouncil.gsu.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Index of /
+ - [https://static.library.gsu.edu](https://static.library.gsu.edu)
+ - date_published: 2024-07-22T02:17:58.941253+00:00
+
+ ## GSU Technology Systems Status
+ - [http://status.gsu.edu](http://status.gsu.edu)
+ - date_published: 2024-07-22T02:47:43.330009+00:00
+
+ ## The Georgia State Strategic Plan
+ - [https://strategic.gsu.edu](https://strategic.gsu.edu)
+ - date_published: 2024-07-22T02:08:27.776321+00:00
+
+ ## Student Engagement - Georgia State University
+ - [http://studentaffairs.gsu.edu](http://studentaffairs.gsu.edu)
+ - date_published: 2024-07-21T23:53:19.057500+00:00
+
+ ## Student Center - Student Engagement
+ - [https://studentcenter.gsu.edu](https://studentcenter.gsu.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Georgia State University - Acalog ACMS™
+ - [https://studenthandbook.gsu.edu](https://studenthandbook.gsu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Georgia State is a national model for student success. #TheStateWay
+ - [https://success.gsu.edu](https://success.gsu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Success Programs at Georgia State - Student Success Programs at Georgia State
+ - [https://success.students.gsu.edu](https://success.students.gsu.edu)
+ - date_published: 2024-04-30T04:31:04.746228+00:00
+
+ ## Sustainability Initiatives
+ - [https://sustainability.gsu.edu](https://sustainability.gsu.edu)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Instructional Innovation & Technology
+ - [https://technology.gsu.edu](https://technology.gsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Georgia State University Testing Centers Information
+ - [http://testing.gsu.edu](http://testing.gsu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## College of the Arts
+ - [https://thearts.gsu.edu](https://thearts.gsu.edu)
+ - date_published: 2024-07-21T23:57:26.927050+00:00
+
+ ## Welcome
+ - [https://themes.gosolar.gsu.edu](https://themes.gosolar.gsu.edu)
+ - date_published: 2024-08-09T04:22:33.080064+00:00
+
+ ## THESTATEWAY
+ - [https://thestateway.gsu.edu](https://thestateway.gsu.edu)
+ - date_published: 2024-07-21T23:52:07.999543+00:00
+
+ ## Become a Panther Today
+ - [https://undergradapply.gsu.edu](https://undergradapply.gsu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Legal Affairs - Office of Legal Affairs
+ - [http://universityattorney.gsu.edu](http://universityattorney.gsu.edu)
+ - date_published: 2024-07-21T23:53:59.021205+00:00
+
+ ## Urban Studies Institute- Atlanta
+ - [https://urbaninstitute.gsu.edu](https://urbaninstitute.gsu.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## University Research Services & Administration at Georgia State
+ - [https://ursa.research.gsu.edu](https://ursa.research.gsu.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Usery Workplace Research Group
+ - [https://usery.gsu.edu](https://usery.gsu.edu)
+ - date_published: 2024-07-20T18:43:02.117842+00:00
+
+ ## Military Outreach
+ - [https://veterans.gsu.edu](https://veterans.gsu.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Student Victim Assistance - Georgia State
+ - [http://victimassistance.gsu.edu](http://victimassistance.gsu.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## The Stateway - Georgia State University Viewbook
+ - [https://viewbook.gsu.edu](https://viewbook.gsu.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://webservices.gsu.edu](https://webservices.gsu.edu)
+ - date_published: 2020-07-21T18:44:25+00:00
+
+ ## Visit Georgia State University - Welcome Center
+ - [https://welcome.gsu.edu](https://welcome.gsu.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Welcome to GoSOLAR   -- Oracle Fusion Middleware -- Server-8
+ - [https://www.gosolar.gsu.edu](https://www.gosolar.gsu.edu)
+ - date_published: 2024-07-18T12:40:34+00:00
+
+ ## Georgia State University Travel
+ - [http://www.travel.gsu.edu](http://www.travel.gsu.edu)
+ - date_published: 2024-08-08T23:32:23.762941+00:00
+
+ ## Gulf Coast State College | Gulf Coast State College
+ - [https://www.gulfcoast.edu](https://www.gulfcoast.edu)
+ - date_published: 2024-06-29T23:03:28.278828+00:00
+
+ ## Gustavus Adolphus College
+ - [https://gustavus.edu](https://gustavus.edu)
+ - date_published: 2024-07-03T22:20:48.915872+00:00
+
+ ## Academic Commons | Academic Commons
+ - [https://academiccommons.gwu.edu](https://academiccommons.gwu.edu)
+ - date_published: 2024-09-06T20:45:24+00:00
+
+ ## Accessibility at GW | The George Washington University
+ - [https://accessibility.gwu.edu](https://accessibility.gwu.edu)
+ - date_published: 2024-04-30T04:40:55.913376+00:00
+
+ ## GW Alumni Association | The George Washington University
+ - [https://alumni.gwu.edu](https://alumni.gwu.edu)
+ - date_published: 2024-07-21T12:06:46+00:00
+
+ ## GWeb (Banner Self Service) | GW Information Technology | The George Washington University
+ - [https://banweb.gwu.edu](https://banweb.gwu.edu)
+ - date_published: 2024-07-21T13:48:23+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.gwu.edu](https://blackboard.gwu.edu)
+ - date_published: 2004-07-21T23:50:27+00:00
+
+ ## Welcome to GW Blogs
+ - [https://blogs.gwu.edu](https://blogs.gwu.edu)
+ - date_published: 2024-05-08T07:36:25.467661+00:00
+
+ ## Department of Biomedical Engineering | School of Engineering & Applied Science | The George Washington University
+ - [https://bme.engineering.gwu.edu](https://bme.engineering.gwu.edu)
+ - date_published: 2024-07-21T23:20:30+00:00
+
+ ## Department of Biomedical Engineering | School of Engineering & Applied Science | The George Washington University
+ - [https://bme.seas.gwu.edu](https://bme.seas.gwu.edu)
+ - date_published: 2024-04-30T04:41:48.549448+00:00
+
+ ## BRIGHT Institute | Milken Institute School of Public Health | The George Washington University
+ - [https://brightinstitute.gwu.edu](https://brightinstitute.gwu.edu)
+ - date_published: 2024-07-21T17:44:12+00:00
+
+ ## The George Washington University Bulletin | The George Washington University
+ - [https://bulletin.gwu.edu](https://bulletin.gwu.edu)
+ - date_published: 2024-07-02T14:02:34+00:00
+
+ ## Events Calendar
+ - [https://calendar.gwu.edu](https://calendar.gwu.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Campus Advisories | The George Washington University
+ - [https://campusadvisories.gwu.edu](https://campusadvisories.gwu.edu)
+ - date_published: 2024-07-20T15:49:20+00:00
+
+ ## Careers at GW | Human Resource Management & Development | The George Washington University
+ - [https://careers.gwu.edu](https://careers.gwu.edu)
+ - date_published: 2024-07-21T20:42:40+00:00
+
+ ## Computational Biology Institute | The George Washington University
+ - [https://cbi.gwu.edu](https://cbi.gwu.edu)
+ - date_published: 2024-07-21T23:34:07+00:00
+
+ ## Department of Civil & Environmental Engineering | School of Engineering & Applied Science | The George Washington University
+ - [https://cee.engineering.gwu.edu](https://cee.engineering.gwu.edu)
+ - date_published: 2024-07-21T17:52:29+00:00
+
+ ## Department of Civil & Environmental Engineering | School of Engineering & Applied Science | The George Washington University
+ - [https://cee.seas.gwu.edu](https://cee.seas.gwu.edu)
+ - date_published: 2024-04-30T04:42:10.254627+00:00
+
+ ## Accessed Denied | Centraldata | The George Washington University
+ - [https://centraldata.gwu.edu](https://centraldata.gwu.edu)
+ - date_published: 2024-04-30T04:41:09.324376+00:00
+
  ## Columbian College of Arts & Sciences | The George Washington University
  - [https://columbian.gwu.edu](https://columbian.gwu.edu)
  - date_published: 2024-07-20T19:30:20+00:00
@@ -3785,228 +4009,4 @@ Data Services
  ## Available Fonts: IU Communications
  - [https://fonts.iu.edu](https://fonts.iu.edu)
  - date_published: 2014-10-17T13:30:51+00:00
-
- ## IU Framework
- - [https://framework.iu.edu](https://framework.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Giving: My IU: Indiana University
- - [https://give.iu.edu](https://give.iu.edu)
- - date_published: 2024-07-13T17:29:50.711275+00:00
-
- ## Global engagement for all
- - [https://global.iu.edu](https://global.iu.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Indiana University Trident
- - [https://go.iu.edu](https://go.iu.edu)
- - date_published: 2024-07-13T17:29:52.160585+00:00
-
- ## Google
- - [https://google.iu.edu](https://google.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## The University Graduate School
- - [https://graduate.iu.edu](https://graduate.iu.edu)
- - date_published: 2024-10-18T05:38:10.243042+00:00
-
- ## Indiana University Honors and Awards
- - [https://honorsandawards.iu.edu](https://honorsandawards.iu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://host.kelley.iu.edu](https://host.kelley.iu.edu)
- - date_published: 2022-06-07T12:28:27+00:00
-
- ## Human Resources | Indiana University
- - [http://hr.iu.edu](http://hr.iu.edu)
- - date_published: 2024-08-11T11:23:35.440628+00:00
-
- ## Human Resource Management System
- - [https://hrms.iu.edu](https://hrms.iu.edu)
- - date_published: 2024-08-08T08:57:18+00:00
-
- ## UITS Human Resources
- - [https://hr.uits.iu.edu](https://hr.uits.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Kelley Global – Business education everywhere business happens
- - [https://iibblog.kelley.iu.edu](https://iibblog.kelley.iu.edu)
- - date_published: 2024-09-05T10:08:37.516008+00:00
-
- ## IU Indianapolis - Your First Step to Your Ideal Future - Bring On Tomorrow
- - [https://indianapolis.iu.edu](https://indianapolis.iu.edu)
- - date_published: 2024-09-05T10:08:06.065764+00:00
-
- ## IU Login
- - [http://ithelplive.iu.edu](http://ithelplive.iu.edu)
- - date_published: 2024-07-21T21:42:15.104592+00:00
-
- ## UITS IT Training - Indiana University
- - [https://ittraining.iu.edu](https://ittraining.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Welcome to the Indiana University Library Catalog (IUCAT) | Indiana University Libraries
- - [https://iucat.iu.edu](https://iucat.iu.edu)
- - date_published: 2024-05-11T08:02:11.560418+00:00
-
- ## Forms - Digital Campus
- - [https://iudcdi-fireform.eas.iu.edu](https://iudcdi-fireform.eas.iu.edu)
- - date_published: 2024-04-30T05:01:09.572178+00:00
-
- ## Indiana University
- - [https://iu.edu](https://iu.edu)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Indiana University Foundation
- - [https://iufoundation.iu.edu](https://iufoundation.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Forms - IU Studios CRM Marketing
- - [https://iustudioscrm-fireform.eas.iu.edu](https://iustudioscrm-fireform.eas.iu.edu)
- - date_published: 2024-06-19T14:41:41.677248+00:00
-
- ## Jetstream2
- - [https://jetsweb.sitehost.iu.edu](https://jetsweb.sitehost.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Jobs at IU
- - [https://jobs.iu.edu](https://jobs.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Indiana University Knowledge Base
- - [https://kb.iu.edu](https://kb.iu.edu)
- - date_published: 2024-04-30T05:01:11.474016+00:00
-
- ## Kelley Direct Online MBA – Create lasting momentum for the career you want
- - [https://kdblog.kelley.iu.edu](https://kdblog.kelley.iu.edu)
- - date_published: 2024-09-05T10:08:32+00:00
-
- ## Kelley School of Business
- - [https://kelley.iu.edu](https://kelley.iu.edu)
- - date_published: 2024-09-05T10:08:46.525615+00:00
-
- ## Page Title
- - [https://lkml.iu.edu](https://lkml.iu.edu)
- - date_published: 2022-02-21T20:07:28+00:00
-
- ## Create IU Guest Account: Indiana University
- - [https://login.iu.edu](https://login.iu.edu)
- - date_published: 2024-07-21T21:41:09.164461+00:00
-
- ## Luddy  School of Informatics, Computing, and Engineering
- - [https://luddy.iu.edu](https://luddy.iu.edu)
- - date_published: 2024-10-18T05:37:19.933650+00:00
-
- ## Campus Maps: Indiana University
- - [https://map.iu.edu](https://map.iu.edu)
- - date_published: 2024-06-21T01:55:31.600197+00:00
-
- ## Full-time MBA Program – We empower you to create the future you want
- - [https://mbablog.kelley.iu.edu](https://mbablog.kelley.iu.edu)
- - date_published: 2024-09-05T10:08:27+00:00
-
- ## IU Robert H. McKinney School of Law
- - [https://mckinneylaw.iu.edu](https://mckinneylaw.iu.edu)
- - date_published: 2024-10-18T22:31:57.108388+00:00
-
- ## Meal Plans
- - [https://mealplans.indianapolis.iu.edu](https://mealplans.indianapolis.iu.edu)
- - date_published: 2024-07-01T17:45:22.056361+00:00
-
- ## Indiana University School of Medicine
- - [https://medicine.iu.edu](https://medicine.iu.edu)
- - date_published: 2024-04-30T05:01:19.347043+00:00
-
- ## Sign in to your account
- - [https://mednet.iu.edu](https://mednet.iu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## MS in Information Systems – Create momentum in your education and career
- - [https://msisblog.kelley.iu.edu](https://msisblog.kelley.iu.edu)
- - date_published: 2024-09-05T09:18:29+00:00
-
- ## News at IU: Indiana University
- - [https://news.iu.edu](https://news.iu.edu)
- - date_published: 2023-11-16T10:46:18.918497+00:00
-
- ## Service Discovery
- - [https://one.iu.edu](https://one.iu.edu)
- - date_published: 2024-04-30T05:01:16.255311+00:00
-
- ## On Illuminating
- - [https://onilluminating.iu.edu](https://onilluminating.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Pages
- - [http://pages.iu.edu](http://pages.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## University Policies
- - [https://policies.iu.edu](https://policies.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Protect IU
- - [https://protect.iu.edu](https://protect.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Home - The Center for the Study of Religion & American Culture
- - [https://raac.indianapolis.iu.edu](https://raac.indianapolis.iu.edu)
- - date_published: 2024-02-15T23:05:22+00:00
-
- ## Bias Incident Reporting
- - [https://reportincident.iu.edu](https://reportincident.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Research Impact
- - [https://research.impact.iu.edu](https://research.impact.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## RESEARCH
- - [https://research.iu.edu](https://research.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Indiana University Knowledge Base
- - [https://rest.kb.iu.edu](https://rest.kb.iu.edu)
- - date_published: 2024-07-21T21:42:12.247385+00:00
-
- ## Security and Privacy in  Informatics, Computing, and Engineering
- - [https://spice.luddy.iu.edu](https://spice.luddy.iu.edu)
- - date_published: 2024-10-18T05:38:11.262723+00:00
-
- ## System Status - Status.IU
- - [https://status.iu.edu](https://status.iu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## System Status - Status.IU
- - [https://status.uits.iu.edu](https://status.uits.iu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Web Style Guide
- - [https://styleguide.iu.edu](https://styleguide.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## IU Today
- - [https://today.iu.edu](https://today.iu.edu)
- - date_published: 2024-04-30T05:01:13.138368+00:00
-
- ## Indiana University Transcripts: Indiana University
- - [https://transcripts.iu.edu](https://transcripts.iu.edu)
- - date_published: 2024-10-18T22:31:42.369845+00:00
-
- ## University Information Technology Services
- - [https://uits.iu.edu](https://uits.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## University Events
- - [https://universityevents.iu.edu](https://universityevents.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Indiana University East
- - [https://www.iue.edu](https://www.iue.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Indiana University Kokomo
- - [https://www.iuk.edu](https://www.iuk.edu)
- - date_published: 2024-03-07T00:00:00+00:00
 

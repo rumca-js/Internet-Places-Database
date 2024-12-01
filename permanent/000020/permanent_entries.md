@@ -1,3 +1,11 @@
+ ## Corpora in the Classroom
+ - [https://corpora.chass.utoronto.ca](https://corpora.chass.utoronto.ca)
+ - date_published: 2024-07-19T15:20:05.303295+00:00
+
+ ## Centre for Quantum Information and Quantum Control
+ - [http://cqiqc.physics.utoronto.ca](http://cqiqc.physics.utoronto.ca)
+ - date_published: 2024-07-16T17:26:03.874284+00:00
+
  ## Department of Computer Science, University of Toronto
  - [https://cs.utoronto.ca](https://cs.utoronto.ca)
  - date_published: 2024-06-13T18:04:54.685024+00:00
@@ -4002,12 +4010,4 @@
  ## La Panera
  - [https://www.lapanera.cat](https://www.lapanera.cat)
  - date_published: 2024-06-15T00:00:00+00:00
-
- ## Lapsus
- - [https://www.lapsus.cat](https://www.lapsus.cat)
- - date_published: 2024-09-06T21:46:54.599403+00:00
-
- ## La Sala
- - [http://www.lasalavng.cat](http://www.lasalavng.cat)
- - date_published: 2024-09-13T11:32:01+00:00
 

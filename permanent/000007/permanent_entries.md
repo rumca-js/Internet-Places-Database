@@ -1,3 +1,7 @@
+ ## Zitcha
+ - [https://au.zitcha.app](https://au.zitcha.app)
+ - date_published: 2024-07-23T22:05:29.474191+00:00
+
  ## ZKBase Swap
  - [https://dex.zkbase.app](https://dex.zkbase.app)
  - date_published: 2024-09-23T07:43:17.902184+00:00
@@ -4026,9 +4030,4 @@ October 2024 in Singapore
  ## Dosenkiwi
  - [https://dosenkiwi.at](https://dosenkiwi.at)
  - date_published: 2024-05-11T07:10:28.258793+00:00
-
- ## Tony Finch
- - [https://dotat.at](https://dotat.at)
- - date_published: 2023-10-25T09:07:46.063856+00:00
- - tags: ['personal']
 

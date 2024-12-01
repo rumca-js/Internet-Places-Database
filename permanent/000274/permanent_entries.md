@@ -1,3 +1,227 @@
+ ## Word Warriors - Wayne State University
+ - [https://wordwarriors.wayne.edu](https://wordwarriors.wayne.edu)
+ - date_published: 2023-10-25T19:06:22.803186+00:00
+
+ ## Wayne State University Press
+ - [https://wsupress.wayne.edu](https://wsupress.wayne.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## High Performance Computing - Computing & Information Technology - Wayne State University
+ - [https://www.grid.wayne.edu](https://www.grid.wayne.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Western Carolina University - Western Carolina University | Home
+ - [https://www.wcu.edu](https://www.wcu.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Digital Commons @ West Chester University | West Chester University Research
+ - [https://digitalcommons.wcupa.edu](https://digitalcommons.wcupa.edu)
+ - date_published: 2024-07-02T10:48:40.381549+00:00
+
+ ## https://apps.weber.edu
+ - [https://apps.weber.edu](https://apps.weber.edu)
+ - date_published: 2024-01-09T03:28:57.379562+00:00
+
+ ## Weber State University - Modern Campus Catalog™
+ - [http://catalog.weber.edu](http://catalog.weber.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Welcome to the Division of Online & Continuing Education.
+ - [https://continue.weber.edu](https://continue.weber.edu)
+ - date_published: 2024-08-05T17:19:41.775115+00:00
+
+ ## WSU Applicant Job Site | Home
+ - [http://jobs.weber.edu](http://jobs.weber.edu)
+ - date_published: 2024-08-05T17:19:28+00:00
+
+ ## Home | Stewart Library
+ - [https://library.weber.edu](https://library.weber.edu)
+ - date_published: 2024-08-05T17:19:33.505364+00:00
+
+ ## Weber State University
+ - [https://weber.edu](https://weber.edu)
+ - date_published: 2024-04-29T04:48:40.922189+00:00
+
+ ## Webster University Homepage | Innovative. Global. Diverse
+ - [http://www.webster.edu](http://www.webster.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Computer Science
+ - [http://cs.wellesley.edu](http://cs.wellesley.edu)
+ - date_published: 2024-08-08T11:15:51.024408+00:00
+
+ ## Library Research Guides: Research Guides: Home
+ - [http://libguides.wellesley.edu](http://libguides.wellesley.edu)
+ - date_published: 2024-06-30T01:30:40.667063+00:00
+
+ ## Explore the Collection | Wellesley College Digital Repository
+ - [https://repository.wellesley.edu](https://repository.wellesley.edu)
+ - date_published: 2024-07-03T17:51:46+00:00
+
+ ## Home - Wellesley College
+ - [https://www.wellesley.edu](https://www.wellesley.edu)
+ - date_published: 2024-06-30T09:29:51.355461+00:00
+
+ ## Dan Licata's Home Page
+ - [http://dlicata.web.wesleyan.edu](http://dlicata.web.wesleyan.edu)
+ - date_published: 2024-01-28T12:38:52+00:00
+
+ ## Welcome to Wesleyan University - Middletown, Connecticut - Wesleyan University
+ - [https://wesleyan.edu](https://wesleyan.edu)
+ - date_published: 2024-07-19T16:50:07.377737+00:00
+
+ ## Events Calendar - Western Colorado University
+ - [https://events.western.edu](https://events.western.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## West Liberty University: Affordable Public College Near Wheeling, WV
+ - [http://westliberty.edu](http://westliberty.edu)
+ - date_published: 2024-06-28T14:21:16.754880+00:00
+
+ ## Westminster College
+ - [http://www.westminster.edu](http://www.westminster.edu)
+ - date_published: 2024-06-28T14:17:49.731120+00:00
+
+ ## Home | Westmont College
+ - [https://www.westmont.edu](https://www.westmont.edu)
+ - date_published: 2024-10-31T07:59:57.594004+00:00
+
+ ## Admissions | United States Military Academy West Point
+ - [https://apply.westpoint.edu](https://apply.westpoint.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Candidate Portal
+ - [https://candidate.westpoint.edu](https://candidate.westpoint.edu)
+ - date_published: 2024-05-07T22:28:16.305626+00:00
+
+ ## Combating Terrorism Center – CTC at West Point
+ - [https://ctc.westpoint.edu](https://ctc.westpoint.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## West Point Field Force
+ - [https://fieldforce.westpoint.edu](https://fieldforce.westpoint.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Lieber Institute for Law and Land Warfare | West Point
+ - [https://lieber.westpoint.edu](https://lieber.westpoint.edu)
+ - date_published: 2024-10-18T17:53:30.564465+00:00
+
+ ## Modern War Institute
+ - [https://mwi.westpoint.edu](https://mwi.westpoint.edu)
+ - date_published: 2024-05-07T18:20:21.746678+00:00
+
+ ## West Point Congressional Nominations
+ - [https://nominations.westpoint.edu](https://nominations.westpoint.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Character Carved in Stone
+ - [https://visit.westpoint.edu](https://visit.westpoint.edu)
+ - date_published: 2024-07-01T03:21:24.597964+00:00
+
+ ## The U.S. Military Academy at West Point | United States Military Academy West Point
+ - [https://westpoint.edu](https://westpoint.edu)
+ - date_published: 2024-01-09T03:28:59.603602+00:00
+
+ ## West Valley College, Saratoga CA
+ - [http://instruct.westvalley.edu](http://instruct.westvalley.edu)
+ - date_published: 2024-06-29T22:25:49.943418+00:00
+
+ ## About | Wake Forest University
+ - [https://about.wfu.edu](https://about.wfu.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Undergraduate Admissions | Wake Forest University
+ - [https://admissions.wfu.edu](https://admissions.wfu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Alumni | Wake Forest School of Law
+ - [http://alumni.law.wfu.edu](http://alumni.law.wfu.edu)
+ - date_published: 2024-07-01T06:40:11.855959+00:00
+
+ ## Alumni Personal & Career Development Center | Wake Forest University
+ - [https://alumni.opcd.wfu.edu](https://alumni.opcd.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Alumni | Wake Forest University
+ - [https://alumni.wfu.edu](https://alumni.wfu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Wake Forest University
+ - [https://apply.admissions.wfu.edu](https://apply.admissions.wfu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://apply.business.wfu.edu](https://apply.business.wfu.edu)
+ - date_published: 2024-07-02T14:15:18.055671+00:00
+
+ ## Center for Global Programs and Studies
+ - [https://apply.studyabroad.wfu.edu](https://apply.studyabroad.wfu.edu)
+ - date_published: 2024-07-02T14:15:01.855633+00:00
+
+ ## Wake The Arts—the Arts are alive at Wake Forest University.
+ - [https://arts.wfu.edu](https://arts.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home < Wake Forest University
+ - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
+ - date_published: 2024-02-08T16:51:06.053971+00:00
+
+ ## Home
+ - [https://business.wfu.edu](https://business.wfu.edu)
+ - date_published: 2024-07-01T06:40:08.093920+00:00
+
+ ## Division of Campus Life | Wake Forest University
+ - [https://campuslife.wfu.edu](https://campuslife.wfu.edu)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Campus Recreation - Campus Recreation
+ - [https://campusrec.wfu.edu](https://campusrec.wfu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Center for Market Readiness and Employment Wake Forest University
+ - [https://career.business.wfu.edu](https://career.business.wfu.edu)
+ - date_published: 2024-07-01T06:39:17.827082+00:00
+
+ ## Office of Personal & Career Development | Wake Forest University
+ - [https://career.opcd.wfu.edu](https://career.opcd.wfu.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Log In ‹ Chairs & Directors Resources — WordPress
+ - [https://chairs.college.wfu.edu](https://chairs.college.wfu.edu)
+ - date_published: 2024-07-02T14:15:55.552948+00:00
+
+ ## Who We Are - Office of the Chaplain
+ - [https://chaplain.wfu.edu](https://chaplain.wfu.edu)
+ - date_published: 2024-07-01T20:12:42+00:00
+
+ ## Home - Wake Forest University Charlotte Center
+ - [https://charlotte.wfu.edu](https://charlotte.wfu.edu)
+ - date_published: 2024-06-30T22:55:21+00:00
+
+ ## Undergraduate College - Undergraduate College
+ - [https://college.wfu.edu](https://college.wfu.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Campus Health
+ - [https://coronavirus.wfu.edu](https://coronavirus.wfu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## University Counseling Center - University Counseling Center
+ - [https://counselingcenter.wfu.edu](https://counselingcenter.wfu.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Divinity Board of Visitors | Wake Forest University
+ - [https://dbov.divinity.wfu.edu](https://dbov.divinity.wfu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Office of Diversity & Inclusion | Wake Forest University
+ - [https://diversity.wfu.edu](https://diversity.wfu.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Wake Forest University School of Divinity - Home
+ - [https://divinity.wfu.edu](https://divinity.wfu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Center for Entrepreneurship - Center for Entrepreneurship
  - [https://entrepreneurship.wfu.edu](https://entrepreneurship.wfu.edu)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3831,228 +4055,4 @@
  ## Welcome to It's Your Yale
  - [https://your.yale.edu](https://your.yale.edu)
  - date_published: 2024-05-07T22:41:49.881466+00:00
-
- ## Home
- - [https://yrise.yale.edu](https://yrise.yale.edu)
- - date_published: 2024-07-02T16:02:27.696155+00:00
-
- ## Yale School Of Public Health
- - [https://ysph.yale.edu](https://ysph.yale.edu)
- - date_published: 2023-12-12T22:22:14.445515+00:00
-
- ## Yale Hub
- - [https://yub.yale.edu](https://yub.yale.edu)
- - date_published: 2024-05-07T22:44:26.639046+00:00
-
- ## 学校法人 読売理工学院｜東京,専門学校
- - [https://www.yomiuri.edu](https://www.yomiuri.edu)
- - date_published: 2024-06-24T02:07:52.120445+00:00
-
- ## McDonough Museum of Art
- - [http://mcdonoughmuseum.ysu.edu](http://mcdonoughmuseum.ysu.edu)
- - date_published: 2017-07-25T18:26:00+00:00
-
- ## Home - AllofE Solutions
- - [http://web.ysu.edu](http://web.ysu.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home
- - [https://cardozo.yu.edu](https://cardozo.yu.edu)
- - date_published: 2024-05-08T08:46:43.577738+00:00
-
- ## Home | Yeshiva University
- - [https://go.yu.edu](https://go.yu.edu)
- - date_published: 2024-07-06T20:37:05+00:00
-
- ## Sign in to your account
- - [https://insidetrack.yu.edu](https://insidetrack.yu.edu)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## LARC @ Cardozo Law | Yeshiva University, Cardozo School of Law Research
- - [https://larc.cardozo.yu.edu](https://larc.cardozo.yu.edu)
- - date_published: 2024-07-06T23:30:14.532515+00:00
-
- ## University Libraries: Library Home Page: Welcome
- - [https://library.yu.edu](https://library.yu.edu)
- - date_published: 2024-07-14T23:47:24.392283+00:00
-
- ## Home | Online M.S.L. Programs | Cardozo Law
- - [https://online.cardozo.yu.edu](https://online.cardozo.yu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Cardozo Riseup | Rise Up - Yeshiva University
- - [https://riseup.cardozo.yu.edu](https://riseup.cardozo.yu.edu)
- - date_published: 2024-07-06T23:30:10.750220+00:00
-
- ## Home | Yeshiva University
- - [https://yu.edu](https://yu.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## ARENA
- - [https://arena.education](https://arena.education)
- - date_published: 2024-07-07T07:30:03.350127+00:00
-
- ## Articles & Blogs in Digital Finance - CFTE
- - [https://blog.cfte.education](https://blog.cfte.education)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Online Fintech Courses & Certifications - CFTE
- - [https://cfte.education](https://cfte.education)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Online Fintech Courses & Certifications - CFTE
- - [https://courses.cfte.education](https://courses.cfte.education)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Dagan.Education
- - [https://dagan.education](https://dagan.education)
- - date_published: 2024-04-29T20:19:03.328425+00:00
-
- ## dataanalytics.education
- - [http://big.dataanalytics.education](http://big.dataanalytics.education)
- - date_published: 2024-07-02T10:32:28.350434+00:00
-
- ## La désinformation et nos outils pédagogiques - Desinfo Educ
- - [https://desinfo.education](https://desinfo.education)
- - date_published: 2023-10-30T00:00:00+00:00
-
- ## EPICUR Alliance
- - [https://epicur.education](https://epicur.education)
- - date_published: 2024-07-08T11:41:23+00:00
-
- ## ICEM
- - [https://icem.education](https://icem.education)
- - date_published: 2024-05-07T23:43:13.340064+00:00
-
- ## ISDI España | La escuela de Negocios de la Era Digital
- - [https://isdi.education](https://isdi.education)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Kratom Education & Information You Can Trust
- - [https://kratom.education](https://kratom.education)
- - date_published: 2023-08-11T00:00:00+00:00
-
- ## Leadership Mountain View
- - [http://lmv.education](http://lmv.education)
- - date_published: 2024-06-28T09:07:15.701349+00:00
-
- ## shop.moravia.education
- - [https://shop.moravia.education](https://shop.moravia.education)
- - date_published: 2024-08-19T09:19:05.344726+00:00
-
- ## Perpetual Education | Interactive Web Development Consulting Program
- - [https://perpetual.education](https://perpetual.education)
- - date_published: 2024-09-06T21:42:39.416701+00:00
-
- ## The One-Stop Shop for Education | PMT Education
- - [https://pmt.education](https://pmt.education)
- - date_published: 2024-05-06T23:17:24.145848+00:00
-
- ## Relevant Education – Relevant Education for Humanity's Transition
- - [https://relevant.education](https://relevant.education)
- - date_published: 2024-06-12T12:39:41.929644+00:00
-
- ## Rewire Autism Learning
- - [https://rewire.education](https://rewire.education)
- - date_published: 2023-11-09T21:55:07+00:00
-
- ## Rize Education
- - [https://rize.education](https://rize.education)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Responsive Web Design with HTML5 and CSS by Ben Frain
- - [https://rwd.education](https://rwd.education)
- - date_published: 2022-11-24T22:56:07+00:00
-
- ## Eesti | 3M Eesti
- - [https://www.3m.com.ee](https://www.3m.com.ee)
- - date_published: 2024-08-06T10:41:11.678029+00:00
-
- ## Airbnb | Puhkemajad, lihtsad majad, rannamajad ja palju muud
- - [https://airbnb.com.ee](https://airbnb.com.ee)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Tartu 2024 e-pood
- - [https://2024tartu.100kingitust.ee](https://2024tartu.100kingitust.ee)
- - date_published: 2024-05-07T22:56:33.807030+00:00
-
- ## On aeg keskenduda endale  | ABOUT YOU
- - [https://m.aboutyou.ee](https://m.aboutyou.ee)
- - date_published: 2024-09-17T20:28:26+00:00
-
- ## Модные товары онлайн от более чем 1500 ведущих брендов | ABOUT YOU
- - [https://m-ru.aboutyou.ee](https://m-ru.aboutyou.ee)
- - date_published: 2024-09-17T21:47:19.175214+00:00
-
- ## Модные товары онлайн от более чем 1500 ведущих брендов | ABOUT YOU
- - [https://ru.aboutyou.ee](https://ru.aboutyou.ee)
- - date_published: 2024-09-17T21:51:07.571137+00:00
-
- ## On aeg keskenduda endale  | ABOUT YOU
- - [https://www.aboutyou.ee](https://www.aboutyou.ee)
- - date_published: 2024-09-17T20:28:26+00:00
-
- ## Avaleht | ACME Film
- - [http://www.acmefilm.ee](http://www.acmefilm.ee)
- - date_published: 2024-07-28T10:10:18.317969+00:00
-
- ## Agronetto Eesti – põllumajandustehnika ja varuosade müügi veebiplatvorm
- - [https://agronetto.ee](https://agronetto.ee)
- - date_published: 2024-08-11T15:41:39.056502+00:00
-
- ## Avaleht | Andmekaitse Inspektsioon
- - [https://www.aki.ee](https://www.aki.ee)
- - date_published: 2024-07-02T17:01:16.512519+00:00
-
- ## Sportlikud ja eksklusiivsed autod | Alfa Romeo
- - [http://www.alfaromeo.ee](http://www.alfaromeo.ee)
- - date_published: 2024-07-03T01:15:50+00:00
-
- ## Carlos Amédée
- - [https://amed.ee](https://amed.ee)
- - date_published: 2024-07-13T04:03:07.131388+00:00
-
- ## Ametlikud Teadaanded
- - [https://www.ametlikudteadaanded.ee](https://www.ametlikudteadaanded.ee)
- - date_published: 2024-07-02T16:58:10.048176+00:00
-
- ## Andree Klattenhoff
- - [https://andr.ee](https://andr.ee)
- - date_published: 2024-05-09T19:47:46+00:00
-
- ## Esileht - Ants Nomm
- - [https://ano.ee](https://ano.ee)
- - date_published: 2023-10-25T19:06:58.105867+00:00
-
- ## Avaleht
- - [http://firma.aripaev.ee](http://firma.aripaev.ee)
- - date_published: 2016-12-15T11:31:40+00:00
-
- ## Äripäeva E-pood
- - [https://pood.aripaev.ee](https://pood.aripaev.ee)
- - date_published: 2024-07-11T10:50:20.141131+00:00
-
- ## Majandus- ja äriuudised Eestist ja välismaalt.
- - [https://www.aripaev.ee](https://www.aripaev.ee)
- - date_published: 2024-09-26T17:40:28.814781+00:00
-
- ## Asterisk Summer School 2016
- - [http://asterisk.ee](http://asterisk.ee)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Audi Eesti
- - [http://www.audi.ee](http://www.audi.ee)
- - date_published: 2024-07-19T20:34:51+00:00
-
- ## autoDNA partnerprogramm
- - [https://afilio.autodna.ee](https://afilio.autodna.ee)
- - date_published: 2024-07-13T19:19:55.170375+00:00
-
- ## Tutvuge autoDNA teenusega
- - [https://autodna.ee](https://autodna.ee)
- - date_published: 2024-05-11T08:19:34.559203+00:00
-
- ## autoDNA abikeskus
- - [https://support.autodna.ee](https://support.autodna.ee)
- - date_published: 2024-07-13T19:19:17.893745+00:00
 

@@ -1,3 +1,228 @@
+ ## Biomedical Optics and Ophthalmic Imaging Laboratory | University of Illinois Chicago
+ - [https://yaolab.bioe.uic.edu](https://yaolab.bioe.uic.edu)
+ - date_published: 2024-05-06T20:00:45.734451+00:00
+
+ ## Sign in to your account
+ - [https://bannerssb4.uidaho.edu](https://bannerssb4.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://banner.uidaho.edu](https://banner.uidaho.edu)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://canvas.uidaho.edu](https://canvas.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Campus Directory - University of Idaho
+ - [https://directory.uidaho.edu](https://directory.uidaho.edu)
+ - date_published: 2024-06-16T08:35:58.417080+00:00
+
+ ## University of Idaho - Offering top-ranked programs in the Northwest
+ - [https://futurevandals.uidaho.edu](https://futurevandals.uidaho.edu)
+ - date_published: 2024-09-27T22:13:58.616601+00:00
+
+ ## Home | Idaho Harvester
+ - [https://harvester.lib.uidaho.edu](https://harvester.lib.uidaho.edu)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Default - LibAnswers
+ - [https://libanswers.uidaho.edu](https://libanswers.uidaho.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## LibCal -
+        University of Idaho
+ - [https://libcal.uidaho.edu](https://libcal.uidaho.edu)
+ - date_published: 2024-09-27T22:21:33.617104+00:00
+
+ ## LibGuides
+ - [https://libguides.uidaho.edu](https://libguides.uidaho.edu)
+ - date_published: 2024-09-27T22:21:36.000328+00:00
+
+ ## Error 403
+ - [https://login.ots.uidaho.edu](https://login.ots.uidaho.edu)
+ - date_published: 2023-10-09T14:05:34+00:00
+
+ ## Sign in to Outlook
+ - [http://mail.uidaho.edu](http://mail.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://my.uidaho.edu](https://my.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Vandal Poem of the Day
+ - [https://poetry.lib.uidaho.edu](https://poetry.lib.uidaho.edu)
+ - date_published: 2024-09-27T22:22:39.076004+00:00
+
+ ## Sign in to your account
+ - [https://sso.directory.uidaho.edu](https://sso.directory.uidaho.edu)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Home
+ - [https://support.uidaho.edu](https://support.uidaho.edu)
+ - date_published: 2024-05-01T07:27:03.955857+00:00
+
+ ## University of Idaho - Offering top-ranked programs in the Northwest
+ - [https://uidaho.edu](https://uidaho.edu)
+ - date_published: 2024-09-27T22:13:42.004212+00:00
+
+ ## Sign in to your account
+ - [https://vandalstar.uidaho.edu](https://vandalstar.uidaho.edu)
+ - date_published: 2024-06-16T08:36:33.120948+00:00
+
+ ## Sign in to Outlook
+ - [https://vandals.uidaho.edu](https://vandals.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://vandalweb.uidaho.edu](https://vandalweb.uidaho.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Research Portal
+ - [https://verso.uidaho.edu](https://verso.uidaho.edu)
+ - date_published: 2024-08-28T19:54:12+00:00
+
+ ## 404 - University of Idaho
+ - [https://webpages.uidaho.edu](https://webpages.uidaho.edu)
+ - date_published: 2024-04-18T06:18:28+00:00
+
+ ## University of Idaho Library Home
+ - [http://www.lib.uidaho.edu](http://www.lib.uidaho.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## University of Illinois Unified Knowledgebase
+ - [https://answers.uillinois.edu](https://answers.uillinois.edu)
+ - date_published: 2024-07-07T05:30:52.989913+00:00
+
+ ## Home
+ - [https://apps.uillinois.edu](https://apps.uillinois.edu)
+ - date_published: 2024-07-02T02:50:07.358184+00:00
+
+ ## Discovery Partners Institute | University of Illinois System
+ - [https://dpi.uillinois.edu](https://dpi.uillinois.edu)
+ - date_published: 2024-08-08T21:24:18.443645+00:00
+
+ ## UI Press | University of Illinois
+ - [https://files.press.uillinois.edu](https://files.press.uillinois.edu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Webtools
+ - [https://forms.uofi.uillinois.edu](https://forms.uofi.uillinois.edu)
+ - date_published: 2023-12-05T19:47:55+00:00
+
+ ## System Homepage
+ - [https://help.uillinois.edu](https://help.uillinois.edu)
+ - date_published: 2024-05-07T21:15:05.676777+00:00
+
+ ## UI Health: University of Illinois Hospital and Health Sciences System in Chicago
+ - [https://hospital.uillinois.edu](https://hospital.uillinois.edu)
+ - date_published: 2024-05-07T21:14:57.628583+00:00
+
+ ## Home - i-card
+ - [https://icard.uillinois.edu](https://icard.uillinois.edu)
+ - date_published: 2024-07-02T02:50:00.825734+00:00
+
+ ## NetID Center University of Illinois System
+ - [https://identity.uillinois.edu](https://identity.uillinois.edu)
+ - date_published: 2024-07-22T18:35:10.542807+00:00
+
+ ## Home | Strategic Innovation | University of Illinois Foundation
+ - [https://innovate.uif.uillinois.edu](https://innovate.uif.uillinois.edu)
+ - date_published: 2024-07-21T22:49:24.826471+00:00
+
+ ## Welcome | myResearch Portal | University of Illinois System
+ - [https://myresearchportal.uillinois.edu](https://myresearchportal.uillinois.edu)
+ - date_published: 2024-10-15T07:27:25.078130+00:00
+
+ ## Welcome | myResearch Portal | University of Illinois System
+ - [https://myresearch.uillinois.edu](https://myresearch.uillinois.edu)
+ - date_published: 2024-10-15T07:27:31.765469+00:00
+
+ ## Welcome
+ - [https://nessie.uihr.uillinois.edu](https://nessie.uihr.uillinois.edu)
+ - date_published: 2024-06-21T13:03:14.702090+00:00
+
+ ## University of Illinois System News
+ - [https://news.uillinois.edu](https://news.uillinois.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Welcome | UIF Online
+ - [https://online.uif.uillinois.edu](https://online.uif.uillinois.edu)
+ - date_published: 2024-07-19T21:32:49+00:00
+
+ ## Home
+ - [https://paymybill.uillinois.edu](https://paymybill.uillinois.edu)
+ - date_published: 2024-07-02T02:47:41.099794+00:00
+
+ ## TechReady Illinois - Jumpstart and advance your tech career
+ - [https://techready.uillinois.edu](https://techready.uillinois.edu)
+ - date_published: 2024-07-13T18:42:48.854140+00:00
+
+ ## UIF | University of Illinois Foundation
+ - [https://uif.uillinois.edu](https://uif.uillinois.edu)
+ - date_published: 2024-04-30T04:56:45.328381+00:00
+
+ ## Home - University of Illinois System
+ - [https://uillinois.edu](https://uillinois.edu)
+ - date_published: 2024-05-07T21:14:51.814206+00:00
+
+ ## Home | University Senates Conference
+ - [https://usc.uillinois.edu](https://usc.uillinois.edu)
+ - date_published: 2024-07-02T01:09:12+00:00
+
+ ## Home - EVPAA
+ - [https://vpaa.uillinois.edu](https://vpaa.uillinois.edu)
+ - date_published: 2024-04-30T04:57:25.699666+00:00
+
+ ## web.uillinois.edu
+ - [https://web.uillinois.edu](https://web.uillinois.edu)
+ - date_published: 2024-07-02T02:39:04.115132+00:00
+
+ ## Home
+ - [https://www.aits.uillinois.edu](https://www.aits.uillinois.edu)
+ - date_published: 2024-07-02T02:39:02.496053+00:00
+
+ ## Home
+ - [https://www.bot.uillinois.edu](https://www.bot.uillinois.edu)
+ - date_published: 2024-07-02T02:39:08.385572+00:00
+
+ ## Home
+ - [https://www.ethics.uillinois.edu](https://www.ethics.uillinois.edu)
+ - date_published: 2024-07-02T02:50:38.072676+00:00
+
+ ## Welcome
+ - [https://www.hr.uillinois.edu](https://www.hr.uillinois.edu)
+ - date_published: 2024-07-02T02:38:59.589794+00:00
+
+ ## IGPA - The University of Illinois System is the people’s university, and IGPA is the people’s policy think tank.
+ - [http://www.igpa.uillinois.edu](http://www.igpa.uillinois.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Online Courses Catalogue
+ - [http://www.online.uillinois.edu](http://www.online.uillinois.edu)
+ - date_published: 2024-07-02T02:40:25.050258+00:00
+
+ ## University of Illinois > University Office for Planning and Budgeting
+ - [http://www.pb.uillinois.edu](http://www.pb.uillinois.edu)
+ - date_published: 2024-07-21T22:34:39.205408+00:00
+
+ ## UI Press | University of Illinois
+ - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home
+ - [http://www.uaps.uillinois.edu](http://www.uaps.uillinois.edu)
+ - date_published: 2024-07-21T22:34:52.378127+00:00
+
+ ## Christel DeHaan Center for Global Engagement - University of Indianapolis
+ - [https://archlab.uindy.edu](https://archlab.uindy.edu)
+ - date_published: 2024-05-07T15:19:04.853289+00:00
+
+ ## Admissions - University of Indianapolis
+ - [https://attend.uindy.edu](https://attend.uindy.edu)
+ - date_published: 2024-06-21T18:37:28+00:00
+
  ## Events - UIndy 360
  - [https://events.uindy.edu](https://events.uindy.edu)
  - date_published: 2024-06-30T05:15:32.847777+00:00
@@ -3781,228 +4006,4 @@ Center for Information Technology Integration
  ## | Research Computing
  - [https://rc.umn.edu](https://rc.umn.edu)
  - date_published: 2024-06-28T13:13:59+00:00
-
- ## Board of Regents | University of Minnesota
- - [https://regents-d8.dev.umn.edu](https://regents-d8.dev.umn.edu)
- - date_published: 2024-07-01T09:10:19+00:00
-
- ## Board of Regents | University of Minnesota
- - [https://regents.umn.edu](https://regents.umn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Welcome | Medical School Media Mentions
- - [https://reporterpass.umn.edu](https://reporterpass.umn.edu)
- - date_published: 2024-05-07T21:30:26.588937+00:00
-
- ## Redirecting...
- - [https://reports.research.umn.edu](https://reports.research.umn.edu)
- - date_published: 2024-07-02T04:08:47.670173+00:00
-
- ## Home
- - [https://research.cems.umn.edu](https://research.cems.umn.edu)
- - date_published: 2024-05-07T21:32:01.102011+00:00
-
- ## Research Home
- - [https://research.d.umn.edu](https://research.d.umn.edu)
- - date_published: 2024-07-12T19:30:44+00:00
-
- ## RIO | RIO
- - [https://research.umn.edu](https://research.umn.edu)
- - date_published: 2024-05-07T21:31:02.688245+00:00
-
- ## Sign in to your account
- - [https://resource.umn.edu](https://resource.umn.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Research Methodology Consulting Center
- - [https://rmcc.umn.edu](https://rmcc.umn.edu)
- - date_published: 2024-06-12T13:59:29+00:00
-
- ## Welcome to the Robotic Sensor Networks Lab | Robotic Sensor Networks Lab
- - [http://rsn.cs.umn.edu](http://rsn.cs.umn.edu)
- - date_published: 2024-07-31T16:16:15+00:00
-
- ## Home | University of Minnesota Rochester
- - [https://r.umn.edu](https://r.umn.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage
- - [https://safe-campus.umn.edu](https://safe-campus.umn.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Schedule Builder - University of Minnesota
- - [https://schedulebuilder.umn.edu](https://schedulebuilder.umn.edu)
- - date_published: 2024-07-02T04:05:42.083339+00:00
-
- ## University of Minnesota Law School Scholarship Repository
- - [http://scholarship.law.umn.edu](http://scholarship.law.umn.edu)
- - date_published: 2024-10-18T22:19:26.419606+00:00
-
- ## Welcome | The Scope
- - [https://scope.umn.edu](https://scope.umn.edu)
- - date_published: 2024-05-07T21:30:18.113850+00:00
-
- ## Swenson College of Science and Engineering | UMN Duluth
- - [https://scse.d.umn.edu](https://scse.d.umn.edu)
- - date_published: 2024-07-11T15:20:20+00:00
-
- ## Search UMN Twin Cities | Search UMN
- - [https://search.umn.edu](https://search.umn.edu)
- - date_published: 2024-07-10T14:03:23+00:00
-
- ## School of Physics and Astronomy Lecture Demonstration Site | School of Physics and Astronomy Lecture Demonstrations
- - [https://spademos.umn.edu](https://spademos.umn.edu)
- - date_published: 2024-06-12T15:40:46+00:00
-
- ## Office of the President
- - [https://strategic-planning.umn.edu](https://strategic-planning.umn.edu)
- - date_published: 2024-07-10T14:02:21+00:00
-
- ## Student Life | UMN Duluth
- - [https://student-life.d.umn.edu](https://student-life.d.umn.edu)
- - date_published: 2024-07-11T15:16:17+00:00
-
- ## Study Space | UMN Study Space Finder
- - [https://studyspace.umn.edu](https://studyspace.umn.edu)
- - date_published: 2024-07-10T14:06:46+00:00
-
- ## Home | Senior Vice President for Finance and Operations
- - [https://svpfo.umn.edu](https://svpfo.umn.edu)
- - date_published: 2024-06-12T14:41:00+00:00
-
- ## Homepage
- - [https://system.umn.edu](https://system.umn.edu)
- - date_published: 2024-05-07T21:30:32.400056+00:00
-
- ## Transportation & Parking Services | UMN Duluth
- - [https://tps.d.umn.edu](https://tps.d.umn.edu)
- - date_published: 2024-07-11T14:11:10+00:00
-
- ## University of Minnesota Twin Cities
- - [https://twin-cities.umn.edu](https://twin-cities.umn.edu)
- - date_published: 2024-05-07T21:29:42.402596+00:00
-
- ## University of Minnesota Twin Cities
- - [https://twincities.umn.edu](https://twincities.umn.edu)
- - date_published: 2024-07-01T15:25:12+00:00
-
- ## UMedia
- - [https://umedia.lib.umn.edu](https://umedia.lib.umn.edu)
- - date_published: 2024-07-13T17:15:06.155010+00:00
-
- ## University of Minnesota Twin Cities
- - [https://umn.edu](https://umn.edu)
- - date_published: 2024-03-18T20:21:28+00:00
-
- ## Home | Office of Undergraduate Education
- - [https://undergrad.umn.edu](https://undergrad.umn.edu)
- - date_published: 2024-07-10T14:29:12+00:00
-
- ## Update your contact information
- - [http://update.umn.edu](http://update.umn.edu)
- - date_published: 2019-03-20T17:33:57+00:00
-
- ## University of Minnesota Press
- - [https://upress.umn.edu](https://upress.umn.edu)
- - date_published: 2023-11-22T15:59:30.119351+00:00
-
- ## Search UMN Twin Cities | Search UMN
- - [https://usearch.umn.edu](https://usearch.umn.edu)
- - date_published: 2024-05-11T07:55:12.631809+00:00
-
- ## Where Discovery Creates Hope
- - [https://wherediscoverycreateshope.umn.edu](https://wherediscoverycreateshope.umn.edu)
- - date_published: 2024-05-07T21:30:10.696844+00:00
-
- ## The Women's Center | The Women's Center
- - [http://womenscenter.umn.edu](http://womenscenter.umn.edu)
- - date_published: 2024-07-10T15:46:24+00:00
-
- ## Homepage | University of Minnesota Crookston
- - [http://www1.crk.umn.edu](http://www1.crk.umn.edu)
- - date_published: 2024-07-02T03:55:19+00:00
-
- ## University of Minnesota Twin Cities
- - [http://www1.umn.edu](http://www1.umn.edu)
- - date_published: 2024-07-01T15:25:12+00:00
-
- ## University of Minnesota Morris
- - [https://www4.morris.umn.edu](https://www4.morris.umn.edu)
- - date_published: 2024-05-11T07:55:15.375707+00:00
-
- ## Home
- - [http://www.cbi.umn.edu](http://www.cbi.umn.edu)
- - date_published: 2024-10-29T18:44:51+00:00
-
- ## Home - UMN Libraries News & Events
- - [https://www.continuum.umn.edu](https://www.continuum.umn.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home
- - [http://www.cs.umn.edu](http://www.cs.umn.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Search UMN Twin Cities | Search UMN
- - [http://www.directory.umn.edu](http://www.directory.umn.edu)
- - date_published: 2024-06-12T14:07:18+00:00
-
- ## College of Science & Engineering
- - [https://www.dtc.umn.edu](https://www.dtc.umn.edu)
- - date_published: 2024-05-11T07:08:34.033624+00:00
-
- ## Home
- - [https://www.esci.umn.edu](https://www.esci.umn.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Home
- - [http://www.ftpi.umn.edu](http://www.ftpi.umn.edu)
- - date_published: 2024-06-29T11:49:33+00:00
-
- ## Hubert H. Humphrey School of Public Affairs | Hubert H. Humphrey School of Public Affairs
- - [https://www.hhh.umn.edu](https://www.hhh.umn.edu)
- - date_published: 2024-07-02T21:10:22+00:00
-
- ## Home
- - [http://www.ima.umn.edu](http://www.ima.umn.edu)
- - date_published: 2024-06-29T11:27:53+00:00
-
- ## Home | University of Minnesota Law School
- - [http://www.law.umn.edu](http://www.law.umn.edu)
- - date_published: 2024-06-15T22:48:03+00:00
-
- ## Finding Solutions to Minnesota’s Aquatic Invasive Species Problems | Minnesota Aquatic Invasive Species Research Center (MAISRC)
- - [https://www.maisrc.umn.edu](https://www.maisrc.umn.edu)
- - date_published: 2024-07-03T17:08:07+00:00
-
- ## ECE
- - [http://www-mount.ece.umn.edu](http://www-mount.ece.umn.edu)
- - date_published: 2007-12-05T21:32:51+00:00
-
- ## Home | Minnesota Supercomputing Institute
- - [http://www.msi.umn.edu](http://www.msi.umn.edu)
- - date_published: 2024-07-01T13:20:21+00:00
-
- ## Northrop Inspires
- - [https://www.northrop.umn.edu](https://www.northrop.umn.edu)
- - date_published: 2024-07-05T19:48:43+00:00
-
- ## Department of Pediatrics
- - [https://www.pediatrics.umn.edu](https://www.pediatrics.umn.edu)
- - date_published: 2024-06-27T00:15:46+00:00
-
- ## Homepage
- - [https://www.pharmacy.umn.edu](https://www.pharmacy.umn.edu)
- - date_published: 2024-07-12T18:21:35+00:00
-
- ## Introduction | Scientific Computing
- - [http://www.scicomp.umn.edu](http://www.scicomp.umn.edu)
- - date_published: 2024-06-12T14:32:53+00:00
-
- ## Department of Sociology
- - [http://www.soc.umn.edu](http://www.soc.umn.edu)
- - date_published: 2024-09-09T22:11:37+00:00
-
- ## Index of /
- - [http://www-users.cselabs.umn.edu](http://www-users.cselabs.umn.edu)
- - date_published: 2024-07-15T07:09:15.269350+00:00
 

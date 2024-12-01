@@ -1,3 +1,253 @@
+ ## CNRS | Home
+ - [http://www.cnrs.edu.lb](http://www.cnrs.edu.lb)
+ - date_published: 2024-07-12T07:07:01.237582+00:00
+
+ ## Lebanese University
+ - [http://www.ul.edu.lb](http://www.ul.edu.lb)
+ - date_published: 2024-07-12T07:05:51.976446+00:00
+
+ ## وزارة الزراعة
+ - [http://www.agriculture.gov.lb](http://www.agriculture.gov.lb)
+ - date_published: 2024-07-12T07:07:17.626242+00:00
+
+ ## Higher Council for Childhood | المجلس الاعلى للطفولة
+ - [http://www.atfalouna.gov.lb](http://www.atfalouna.gov.lb)
+ - date_published: 2024-07-12T07:06:24.785414+00:00
+
+ ## Banque Du Liban
+ - [http://www.bdl.gov.lb](http://www.bdl.gov.lb)
+ - date_published: 2024-07-12T07:06:09.393884+00:00
+
+ ## Welcome to RHUH
+ - [http://www.bguh.gov.lb](http://www.bguh.gov.lb)
+ - date_published: 2024-07-12T07:05:38.807896+00:00
+
+ ## Central Administration of Statistics - Home
+ - [http://www.cas.gov.lb](http://www.cas.gov.lb)
+ - date_published: 2024-07-12T07:07:06.498479+00:00
+
+ ## CDR - Home
+ - [http://www.cdr.gov.lb](http://www.cdr.gov.lb)
+ - date_published: 2024-07-12T07:06:58.392946+00:00
+
+ ## ECOSOC
+ - [http://www.ces.gov.lb](http://www.ces.gov.lb)
+ - date_published: 2024-07-12T07:09:27.430827+00:00
+
+ ## الرئيسية | Central Inspection
+ - [http://www.cib.gov.lb](http://www.cib.gov.lb)
+ - date_published: 2024-07-12T07:05:08.342017+00:00
+
+ ## :: وحدة مكافحة عمل الأطفال في لبنان -- الرئيسية  ::
+ - [http://www.clu.gov.lb](http://www.clu.gov.lb)
+ - date_published: 2024-07-12T07:09:22.633089+00:00
+
+ ## ديوان المحاسبة المحكمة المالية | ديوان المحاسبة - الجمهورية اللبنانية
+ - [http://www.coa.gov.lb](http://www.coa.gov.lb)
+ - date_published: 2024-06-27T09:17:34+00:00
+
+ ## الصفحة الرئيسية | وزارة الثقافة
+ - [http://www.culture.gov.lb](http://www.culture.gov.lb)
+ - date_published: 2024-07-12T07:07:08.450663+00:00
+
+ ## الجمارك اللبنانية
+ - [http://customs.gov.lb](http://customs.gov.lb)
+ - date_published: 2024-07-12T07:03:07.632120+00:00
+
+ ## الصفحة الرئيسية | لبنان - وزارة الأقتصاد والتجارة
+ - [http://www.economy.gov.lb](http://www.economy.gov.lb)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## كهرباء لبنان - مؤسسة عامة
+ - [http://www.edl.gov.lb](http://www.edl.gov.lb)
+ - date_published: 2024-07-12T07:08:17.988464+00:00
+
+ ## Lebanese General Security
+ - [http://www.general-security.gov.lb](http://www.general-security.gov.lb)
+ - date_published: 2024-07-12T07:05:00.582571+00:00
+
+ ## وزارة الصناعة
+ - [http://www.industry.gov.lb](http://www.industry.gov.lb)
+ - date_published: 2024-07-12T07:07:10.690104+00:00
+
+ ## Home - IOF
+ - [http://www.institutdesfinances.gov.lb](http://www.institutdesfinances.gov.lb)
+ - date_published: 2024-07-12T07:03:10.940219+00:00
+
+ ## ISF - Internal Security Forces ; قوى الأمن الداخلي - الموقع الرسمي
+ - [http://www.isf.gov.lb](http://www.isf.gov.lb)
+ - date_published: 2024-07-12T07:05:36.000297+00:00
+
+ ## justicegov- الصفحة الرئيسية
+ - [http://www.justice.gov.lb](http://www.justice.gov.lb)
+ - date_published: 2024-07-12T07:04:55.473472+00:00
+
+ ## وزارة العمل | الصفحة الرئيسية
+ - [http://www.labor.gov.lb](http://www.labor.gov.lb)
+ - date_published: 2024-07-12T07:07:23.987290+00:00
+
+ ## الموقع الرسمي للجيش اللبناني
+ - [http://www.lebarmy.gov.lb](http://www.lebarmy.gov.lb)
+ - date_published: 2024-07-12T05:54:52+00:00
+
+ ## LPDC
+ - [http://www.lpdc.gov.lb](http://www.lpdc.gov.lb)
+ - date_published: 2024-07-12T07:06:17.135442+00:00
+
+ ## تعاونية موظفي الدولة
+ - [http://www.mfe.gov.lb](http://www.mfe.gov.lb)
+ - date_published: 2024-07-12T07:07:20.640870+00:00
+
+ ## وزارة الشباب والرياضة
+ - [http://www.minijes.gov.lb](http://www.minijes.gov.lb)
+ - date_published: 2024-07-12T07:08:09.499298+00:00
+
+ ## وزارة الإعلام اللبنانية
+ - [http://www.ministryinfo.gov.lb](http://www.ministryinfo.gov.lb)
+ - date_published: 2024-07-12T07:05:33.861616+00:00
+
+ ## Ministry of Tourism Lebanon: Your Gateway to a Land of Cultural Riches and Natural Beauty
+ - [http://mot.gov.lb](http://mot.gov.lb)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Ogero - Connecting the Nation
+ - [http://www.ogero.gov.lb](http://www.ogero.gov.lb)
+ - date_published: 2024-07-12T07:05:11.291235+00:00
+
+ ## المؤسسة العامة للإسكان - الصفحة الرئيسية
+ - [http://www.pch.gov.lb](http://www.pch.gov.lb)
+ - date_published: 2024-07-12T07:07:51.524561+00:00
+
+ ## Presidency of the Council of Ministers - ENI CBC MED PROGRAMME - National Authority
+ - [http://cbc.pcm.gov.lb](http://cbc.pcm.gov.lb)
+ - date_published: 2020-02-07T10:28:52+00:00
+
+ ## IIS Windows Server
+ - [http://dcp.pcm.gov.lb](http://dcp.pcm.gov.lb)
+ - date_published: 2019-04-15T11:48:53+00:00
+
+ ## إدارة مخاطر الكوارث
+ - [http://drm.pcm.gov.lb](http://drm.pcm.gov.lb)
+ - date_published: 2024-07-12T07:08:07.575868+00:00
+
+ ## Home > ROB
+ - [http://nptp.pcm.gov.lb](http://nptp.pcm.gov.lb)
+ - date_published: 2024-07-12T07:05:56.537951+00:00
+
+ ## رئاسة مجلس الوزراء
+ - [http://pcm.gov.lb](http://pcm.gov.lb)
+ - date_published: 2024-05-10T04:48:46.794083+00:00
+
+ ## SDGs in Lebanon
+ - [http://sdglebanon.pcm.gov.lb](http://sdglebanon.pcm.gov.lb)
+ - date_published: 2024-07-12T07:08:11.651309+00:00
+
+ ## Secretariat General  of PCM
+ - [http://sg.pcm.gov.lb](http://sg.pcm.gov.lb)
+ - date_published: 2021-08-26T09:15:04+00:00
+
+ ## الصفحة الرئيسية
+			 
+			- رئاسة الجمهورية اللبنانية
+ - [http://www.presidency.gov.lb](http://www.presidency.gov.lb)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## الرئيسية
+ - [http://www.socialaffairs.gov.lb](http://www.socialaffairs.gov.lb)
+ - date_published: 2024-07-12T07:09:33.576591+00:00
+
+ ## مركز مشاريع ودراسات القطاع العام - مركز مشاريع ودراسات القطاع العام
+ - [http://www.studies.gov.lb](http://www.studies.gov.lb)
+ - date_published: 2024-07-12T07:06:14.105070+00:00
+
+ ## TRA - Telecommunications Regulatory Authority
+ - [http://www.tra.gov.lb](http://www.tra.gov.lb)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Audi St. Lucian | Experience the future of premium mobility
+ - [http://www.audi.lc](http://www.audi.lc)
+ - date_published: 2024-07-19T20:57:51+00:00
+
+ ## BandLink
+ - [https://bnd.lc](https://bnd.lc)
+ - date_published: 2024-10-22T22:19:19.370625+00:00
+
+ ## irc.lc
+ - [http://irc.lc](http://irc.lc)
+ - date_published: 2024-07-11T23:55:17.032650+00:00
+
+ ## Sign in · GitLab
+ - [https://g.j4.lc](https://g.j4.lc)
+ - date_published: 2024-07-10T06:51:25.880974+00:00
+
+ ## Jae's Portfolio
+ - [https://j4.lc](https://j4.lc)
+ - date_published: 2024-07-10T06:51:23.334621+00:00
+
+ ## a personal journal and notebook site - notes by @lev.lc
+ - [https://lev.lc](https://lev.lc)
+ - date_published: 2024-10-13T06:45:23.578762+00:00
+
+ ## Library Genesis
+ - [https://libgen.lc](https://libgen.lc)
+ - date_published: 2024-05-06T15:11:56.873961+00:00
+
+ ## MAC Address Lookup
+ - [https://mac.lc](https://mac.lc)
+ - date_published: 2024-09-16T13:25:43.910810+00:00
+
+ ## Changaco's website
+ - [https://changaco.oy.lc](https://changaco.oy.lc)
+ - date_published: 2019-12-04T15:01:59+00:00
+
+ ## Luc Rocher
+ - [https://rocher.lc](https://rocher.lc)
+ - date_published: 2024-06-23T17:33:58.396871+00:00
+
+ ## VIPBox Sports Streams |  Live VIPBoxTV Online - VIPBox
+ - [https://www.vipbox.lc](https://www.vipbox.lc)
+ - date_published: 2024-11-12T17:04:55.309159+00:00
+
+ ## E.Leclerc
+ - [https://culture.leclerc](https://culture.leclerc)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Andrew Leahey - Tax Consultant, Columnist, Commentator, Attorney
+ - [https://andrew.legal](https://andrew.legal)
+ - date_published: 2024-08-19T10:49:12.933195+00:00
+
+ ## Bridge | Where Immigration Meets Innovation
+ - [https://bridge.legal](https://bridge.legal)
+ - date_published: 2023-10-25T20:17:57.823788+00:00
+
+ ## decoded.legal
+ - [https://decoded.legal](https://decoded.legal)
+ - date_published: 2023-10-25T20:17:58.671735+00:00
+
+ ## Mastodon
+ - [https://fedi.decoded.legal](https://fedi.decoded.legal)
+ - date_published: 2024-08-18T23:10:07.846693+00:00
+
+ ## IT-Recht Kanzlei - "TOP WIRTSCHAFTSKANZLEI 2023" (Focus 09/2023)
+ - [https://itrk.legal](https://itrk.legal)
+ - date_published: 2024-06-17T03:18:30.820087+00:00
+
+ ## Cierpliwości...
+ - [https://katz.legal](https://katz.legal)
+ - date_published: 2024-05-01T03:34:47.542268+00:00
+
+ ## Niubox Legal | Abogados en tecnología, asuntos públicos y regulatorios
+ - [https://niubox.legal](https://niubox.legal)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## viacomcbs.com
+ - [https://www.pplus.legal](https://www.pplus.legal)
+ - date_published: 2023-07-06T12:59:18+00:00
+
+ ## Legal Portal | PolitePost.net
+ - [https://politepost.reference.legal](https://politepost.reference.legal)
+ - date_published: 2024-10-30T18:49:10.523300+00:00
+
  ## Spellbook - AI Contract Review & Drafting
  - [https://spellbook.legal](https://spellbook.legal)
  - date_published: 2024-10-30T15:56:11+00:00
@@ -3783,259 +4033,4 @@
  ## Welcome
  - [https://blog.8bit.lol](https://blog.8bit.lol)
  - date_published: 2024-08-08T12:49:33.302483+00:00
-
- ## 8bit.lol Git Hosting
- - [https://git.8bit.lol](https://git.8bit.lol)
- - date_published: 2024-08-18T06:15:15.044704+00:00
-
- ## 8bit.url.lol
- - [https://url.8bit.lol](https://url.8bit.lol)
- - date_published: 2024-08-18T06:15:16.445884+00:00
-
- ## @a2
- - [https://a2.lol](https://a2.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## The Dent ·
- - [https://acn.lol](https://acn.lol)
- - date_published: 2024-08-08T12:43:41.146263+00:00
-
- ## Links - Akash Goswami
- - [https://akash.lol](https://akash.lol)
- - date_published: 2024-06-15T07:57:59.996836+00:00
-
- ## Lou Plummer
- - [https://amerpie.lol](https://amerpie.lol)
- - date_published: 2024-05-04T14:14:29.358742+00:00
- - tags: ['personal']
-
- ## Obsidian Articles by Amerpie
-		- Obsidian Articles by Amerpie
- - [https://obsidian.amerpie.lol](https://obsidian.amerpie.lol)
- - date_published: 2024-06-19T19:55:52+00:00
-
- ## Apple Annie’s Domain
- - [https://anniegreens.lol](https://anniegreens.lol)
- - date_published: 2024-05-08T05:14:29.479793+00:00
-
- ## Apple Annie’s Microblog
- - [https://micro.anniegreens.lol](https://micro.anniegreens.lol)
- - date_published: 2024-07-04T01:34:24+00:00
-
- ## Apple Annie's Now page
- - [https://now.anniegreens.lol](https://now.anniegreens.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Apple Annie's Profile page
- - [https://omg.anniegreens.lol](https://omg.anniegreens.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## @anniegreens’s statuslog
- - [https://status.anniegreens.lol](https://status.anniegreens.lol)
- - date_published: 2024-07-04T06:07:28.026226+00:00
-
- ## Apple Annie’s Weblog · Home
- - [https://weblog.anniegreens.lol](https://weblog.anniegreens.lol)
- - date_published: 2024-05-08T05:14:27.371253+00:00
- - tags: ['personal']
-
- ## that one thing that one time
- - [https://blog.anp.lol](https://blog.anp.lol)
- - date_published: 2019-12-02T00:00:00+00:00
-
- ## blendOS Status
- - [https://status.asterisk.lol](https://status.asterisk.lol)
- - date_published: 2024-06-20T20:59:27.843112+00:00
-
- ## Umami
- - [https://t.asterisk.lol](https://t.asterisk.lol)
- - date_published: 2024-06-20T20:59:21.118047+00:00
-
- ## background.lol - background Zasoby i informacje.
- - [https://www.background.lol](https://www.background.lol)
- - date_published: 2024-10-30T07:19:37+00:00
-
- ## 🧖‍♂️ An opinionated guide to Sauna - close the F. door. by @NVK
- - [https://banya.lol](https://banya.lol)
- - date_published: 2023-05-04T16:18:37+00:00
-
- ## Bello | Web3 Growth Analytics
- - [https://bello.lol](https://bello.lol)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## bids.lol
- - [https://bids.lol](https://bids.lol)
- - date_published: 2024-09-05T23:43:50.341135+00:00
-
- ## broke.lol
- - [https://broke.lol](https://broke.lol)
- - date_published: 2024-06-29T23:25:58.044073+00:00
-
- ## Bugle - 🎺
- - [https://bugle.lol](https://bugle.lol)
- - date_published: 2024-09-03T23:17:28.153347+00:00
-
- ## omg.lol - A lovable web page and email address, just for you
- - [https://cache.lol](https://cache.lol)
- - date_published: 2023-01-29T00:00:00+00:00
-
- ## omg.lol - A lovable web page and email address, just for you
- - [https://cdn.cache.lol](https://cdn.cache.lol)
- - date_published: 2023-01-29T00:00:00+00:00
-
- ## omg.lol - A lovable web page and email address, just for you
- - [https://omgalol.cache.lol](https://omgalol.cache.lol)
- - date_published: 2023-01-29T00:00:00+00:00
-
- ## omg.lol - A lovable web page and email address, just for you
- - [https://profiles.cache.lol](https://profiles.cache.lol)
- - date_published: 2023-01-29T00:00:00+00:00
-
- ## Can you imagine?
- - [https://canyouimagine.lol](https://canyouimagine.lol)
- - date_published: 2024-04-17T00:00:00+00:00
- - tags: ['satire', 'ui design', 'personal']
-
- ## charms.lol
- - [https://charms.lol](https://charms.lol)
- - date_published: 2024-07-15T06:32:11.869846+00:00
-
- ## Revolut.Me
- - [http://pay.cian.lol](http://pay.cian.lol)
- - date_published: 2024-07-19T08:50:16+00:00
-
- ## Clan - Documentation, Blog & Getting Started Guide
- - [https://docs.clan.lol](https://docs.clan.lol)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## Failing What Matters Most - Your Premier EDR (Endpoint Destruction and Razing) Partner Since 2024!
- - [https://clownstrike.lol](https://clownstrike.lol)
- - date_published: 2024-08-06T16:04:45+00:00
- - tags: ['cloudstrike', 'satire', 'parody']
-
- ## colors.lol - Overly descriptive color palettes
- - [https://colors.lol](https://colors.lol)
- - date_published: 2024-10-22T19:22:09.165441+00:00
-
- ## company.lol - the office of harper reed and friends
- - [https://company.lol](https://company.lol)
- - date_published: 2024-03-16T18:38:09+00:00
-
- ## Concave | The Magic Number Machine, Home of the Builder CO-OP
- - [https://concave.lol](https://concave.lol)
- - date_published: 2024-09-04T14:19:59.357057+00:00
-
- ## Wisdom of a grain of sand - Nguyen Chien Cong
- - [https://cong.lol](https://cong.lol)
- - date_published: 2024-04-13T18:29:11.560865+00:00
- - tags: ['personal']
-
- ## Nextcloud
- - [https://nextcloud.corey.lol](https://nextcloud.corey.lol)
- - date_published: 2024-10-22T18:37:11.285690+00:00
-
- ## dmc
- - [https://dmc.lol](https://dmc.lol)
- - date_published: 2024-07-02T20:33:30.673398+00:00
-
- ## Drift
- - [https://drift.lol](https://drift.lol)
- - date_published: 2024-06-22T06:29:33.242900+00:00
-
- ## Ehqo
- - [https://ehqo.lol](https://ehqo.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## etc.lol
- - [https://etc.lol](https://etc.lol)
- - date_published: 2024-05-10T16:04:45+00:00
-
- ## Femboy Finder
- - [https://fem.lol](https://fem.lol)
- - date_published: 2023-09-22T00:00:00+00:00
-
- ## The Nostr follower tool
- - [https://follows.lol](https://follows.lol)
- - date_published: 2024-07-16T18:03:59.368512+00:00
-
- ## Freddy
- - [https://freddy.lol](https://freddy.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Frens
- - [https://www.frens.lol](https://www.frens.lol)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Hire a Golang Developer - programmer
- - [https://geoffrey.lol](https://geoffrey.lol)
- - date_published: 2024-07-18T22:59:43.795945+00:00
-
- ## @ricardo
- - [https://governa.lol](https://governa.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Gian Paolo Fontani | Musicante
- - [https://gpf.lol](https://gpf.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Gian Paolo Fontani | Electronic Music Producer | Newsletters | Substack
- - [https://news.gpf.lol](https://news.gpf.lol)
- - date_published: 2024-08-07T20:14:51.112674+00:00
-
- ## Gian Paolo Fontani | Musicante | Now
- - [https://now.gpf.lol](https://now.gpf.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## pbin.gpf.lol
- - [https://pbin.gpf.lol](https://pbin.gpf.lol)
- - date_published: 1983-02-12T00:00:00+00:00
-
- ## gianpaolofontani.url.lol
- - [https://short.gpf.lol](https://short.gpf.lol)
- - date_published: 2024-08-07T20:31:01.487543+00:00
-
- ## @gianpaolofontani’s statuslog
- - [https://slog.gpf.lol](https://slog.gpf.lol)
- - date_published: 1983-02-12T00:00:00+00:00
-
- ## Terminal Land
- - [https://tverse.gpf.lol](https://tverse.gpf.lol)
- - date_published: 2024-08-07T20:20:14.517956+00:00
-
- ## Gian Paolo Fontani | Musicante | Gian Paolo Fontani Official Weblog | Bluesky FAQ
- - [https://weblog.gpf.lol](https://weblog.gpf.lol)
- - date_published: 2024-08-07T20:14:22.166684+00:00
-
- ## Harper Reed ★ Probably one of the coolest guys ever
- - [https://harper.lol](https://harper.lol)
- - date_published: 2024-05-19T02:47:58.061749+00:00
-
- ## howdoicomputer – howdoicomputer
- - [https://howdoicomputer.lol](https://howdoicomputer.lol)
- - date_published: 2023-11-01T05:07:19+00:00
-
- ## thanks for the fun!
- - [https://instances.hyper.lol](https://instances.hyper.lol)
- - date_published: 2024-10-23T20:07:57+00:00
-
- ## yet another app
- - [https://apps.icymi.lol](https://apps.icymi.lol)
- - date_published: 2024-08-07T20:11:32.243368+00:00
-
- ## srs bsns (lol)
- - [https://blog.jbowdre.lol](https://blog.jbowdre.lol)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## @jbowdre
- - [https://jbowdre.lol](https://jbowdre.lol)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## paste.jbowdre.lol
- - [https://paste.jbowdre.lol](https://paste.jbowdre.lol)
- - date_published: 2024-08-07T20:41:42.308406+00:00
-
- ## Scribbles 'n Bits
- - [https://scribbles.jbowdre.lol](https://scribbles.jbowdre.lol)
- - date_published: 2024-06-10T07:07:51.494941+00:00
- - tags: ['personal']
 

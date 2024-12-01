@@ -1,3 +1,226 @@
+ ## Web Login Service - Loading Session Information
+ - [https://software.lbl.gov](https://software.lbl.gov)
+ - date_published: 2024-07-15T02:49:06.678057+00:00
+
+ ## Stewardship – Berkeley Lab
+ - [https://stewardship.lbl.gov](https://stewardship.lbl.gov)
+ - date_published: 2024-07-15T02:40:44.726062+00:00
+
+ ## Sign in - Google Accounts
+ - [http://tap.lbl.gov](http://tap.lbl.gov)
+ - date_published: 2024-07-15T02:49:36.675790+00:00
+
+ ## Telework@Berkeley Lab
+ - [https://telework.lbl.gov](https://telework.lbl.gov)
+ - date_published: 2024-07-15T02:49:08.199288+00:00
+
+ ## Berkeley Lab Training
+ - [https://training.lbl.gov](https://training.lbl.gov)
+ - date_published: 2024-05-12T04:46:55.189881+00:00
+
+ ## Waste Guide
+ - [http://wasteguide.lbl.gov](http://wasteguide.lbl.gov)
+ - date_published: 2024-07-15T02:48:38.958580+00:00
+
+ ## We Are Berkeley Lab
+ - [https://we-are-berkeley-lab.lbl.gov](https://we-are-berkeley-lab.lbl.gov)
+ - date_published: 2024-07-08T15:39:17.327208+00:00
+
+ ## Wildfire Smoke and Air Quality
+ - [https://wildfiresmoke.lbl.gov](https://wildfiresmoke.lbl.gov)
+ - date_published: 2024-07-14T18:02:59.290395+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://workrequest.lbl.gov](https://workrequest.lbl.gov)
+ - date_published: 2024-07-15T02:48:17.853759+00:00
+
+ ## Berkeley Lab | Delivering Science Solutions for the World
+ - [http://www2.lbl.gov](http://www2.lbl.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Dark Energy Spectroscopic Instrument (DESI)
+ - [https://www.desi.lbl.gov](https://www.desi.lbl.gov)
+ - date_published: 2024-07-21T21:50:50.441342+00:00
+
+ ## Welcome to the Federal LCA Commons | Life Cycle Assessment Commons
+ - [https://www.lcacommons.gov](https://www.lcacommons.gov)
+ - date_published: 2024-06-27T21:13:34+00:00
+
+ ## Planifique con anticipación para los desastres | Ready.gov
+ - [https://www.listo.gov](https://www.listo.gov)
+ - date_published: 2024-07-22T17:03:25+00:00
+
+ ## Sign On
+ - [http://analytics.llnl.gov](http://analytics.llnl.gov)
+ - date_published: 2024-09-19T20:22:55.642315+00:00
+
+ ## Advanced Simulation and Computing
+ - [https://asc.llnl.gov](https://asc.llnl.gov)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Careers
+ - [https://careers.llnl.gov](https://careers.llnl.gov)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## CDN @ LLNL
+ - [https://cdn.llnl.gov](https://cdn.llnl.gov)
+ - date_published: 2024-04-25T15:59:04+00:00
+
+ ## CGSR
+ - [https://cgsr.llnl.gov](https://cgsr.llnl.gov)
+ - date_published: 2024-07-14T05:11:00.234548+00:00
+
+ ## Home | Computing
+ - [https://computing.llnl.gov](https://computing.llnl.gov)
+ - date_published: 2024-05-01T04:32:49.850199+00:00
+
+ ## Content Hub
+ - [https://contenthub.llnl.gov](https://contenthub.llnl.gov)
+ - date_published: 2024-09-13T19:33:20+00:00
+
+ ## Data Science Institute
+ - [https://data-science.llnl.gov](https://data-science.llnl.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Science Education Program | Science and Technology
+ - [https://education.llnl.gov](https://education.llnl.gov)
+ - date_published: 2024-09-13T19:44:51.696652+00:00
+
+ ## Engineering
+ - [https://engineering.llnl.gov](https://engineering.llnl.gov)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Environmental Stewardship and Occupational Health and Safety
+ - [https://enviroinfo.llnl.gov](https://enviroinfo.llnl.gov)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Exascale
+ - [https://exascale.llnl.gov](https://exascale.llnl.gov)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Lawrence Livermore National Laboratory
+ - [https://fcoi.llnl.gov](https://fcoi.llnl.gov)
+ - date_published: 2022-06-24T00:00:00+00:00
+
+ ## Flowcharts
+ - [https://flowcharts.llnl.gov](https://flowcharts.llnl.gov)
+ - date_published: 2024-05-09T04:11:57.321222+00:00
+
+ ## Global Security
+ - [https://gs.llnl.gov](https://gs.llnl.gov)
+ - date_published: 2023-08-09T00:00:00+00:00
+
+ ## HPC Innovation Center
+ - [https://hpcic.llnl.gov](https://hpcic.llnl.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home | HPC @ LLNL
+ - [https://hpc.llnl.gov](https://hpc.llnl.gov)
+ - date_published: 2024-06-15T21:30:32.853126+00:00
+
+ ## LLNL HPC Tutorials
+ - [https://hpc-tutorials.llnl.gov](https://hpc-tutorials.llnl.gov)
+ - date_published: 2024-07-25T18:22:07+00:00
+
+ ## National Ignition Facility & Photon Science
+ - [https://lasers.llnl.gov](https://lasers.llnl.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## lc.llnl.gov
+ - [https://lc.llnl.gov](https://lc.llnl.gov)
+ - date_published: 2024-09-19T20:24:25.061437+00:00
+
+ ## Lawrence Livermore National Laboratory
+ - [http://llnl.gov](http://llnl.gov)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Our Mission
+ - [https://missions.llnl.gov](https://missions.llnl.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Welcome to people.llnl.gov | people.llnl.gov
+ - [https://people.llnl.gov](https://people.llnl.gov)
+ - date_published: 2024-06-14T00:52:41.259012+00:00
+
+ ## Physical and Life Sciences Directorate
+ - [https://pls.llnl.gov](https://pls.llnl.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Strategic Deterrence
+ - [https://sd.llnl.gov](https://sd.llnl.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## LLNL
+ - [https://softwarelicensing.llnl.gov](https://softwarelicensing.llnl.gov)
+ - date_published: 2024-07-08T13:58:03.117881+00:00
+
+ ## LLNL Software Catalog
+ - [https://software.llnl.gov](https://software.llnl.gov)
+ - date_published: 2024-05-08T11:30:39.528770+00:00
+
+ ## Home | Science and Technology
+ - [https://st.llnl.gov](https://st.llnl.gov)
+ - date_published: 2024-07-09T08:54:06.305902+00:00
+
+ ## S&TR | March 2024
+ - [https://str.llnl.gov](https://str.llnl.gov)
+ - date_published: 2024-07-09T08:53:56.852236+00:00
+
+ ## Ask a Librarian - Ask a Librarian
+ - [https://ask.loc.gov](https://ask.loc.gov)
+ - date_published: 2024-05-08T02:42:38.274462+00:00
+
+ ## Library of Congress Blogs | Blogs from the Library of Congress
+ - [https://blogs.loc.gov](https://blogs.loc.gov)
+ - date_published: 2023-10-25T19:22:55.285850+00:00
+
+ ## Chronicling America « Library of Congress
+ - [https://chroniclingamerica.loc.gov](https://chroniclingamerica.loc.gov)
+ - date_published: 2024-05-14T03:30:15.828369+00:00
+
+ ## CitizenDJ – Make music using free audio and video from the Library of Congress
+ - [https://citizen-dj.labs.loc.gov](https://citizen-dj.labs.loc.gov)
+ - date_published: 2024-09-07T19:47:01+00:00
+
+ - [https://cocatalog.loc.gov](https://cocatalog.loc.gov)
+ - date_published: 2021-01-28T19:10:44+00:00
+
+ ## Databases: Library of Congress Electronic Resources Online Catalog
+ - [https://eresources.loc.gov](https://eresources.loc.gov)
+ - date_published: 2024-08-18T14:44:48.421268+00:00
+
+ ## Home - Research Guides at Library of Congress
+ - [https://guides.loc.gov](https://guides.loc.gov)
+ - date_published: 2023-10-25T19:22:57.450959+00:00
+
+ ## Resolve a Library of Congress Handle
+ - [https://hdl.loc.gov](https://hdl.loc.gov)
+ - date_published: 2024-08-18T11:31:58.697971+00:00
+
+ ## Home - LC Linked Data Service: Authorities and Vocabularies | Library of Congress
+ - [https://id.loc.gov](https://id.loc.gov)
+ - date_published: 2024-06-16T05:52:47.628659+00:00
+
+ ## American Memory: Remaining Collections
+ - [https://lcweb2.loc.gov](https://lcweb2.loc.gov)
+ - date_published: 2024-05-08T09:05:11.825961+00:00
+
+ ## Home | Library of Congress
+ - [http://lcweb.loc.gov](http://lcweb.loc.gov)
+ - date_published: 2024-08-18T17:58:34.172191+00:00
+
+ ## Home | Library of Congress
+ - [https://loc.gov](https://loc.gov)
+ - date_published: 2024-05-06T16:18:28.352054+00:00
+
+ ## American Memory: Remaining Collections
+ - [https://memory.loc.gov](https://memory.loc.gov)
+ - date_published: 2024-05-24T22:29:25.711620+00:00
+
+ ## Newspaper Navigator  | Experiments  | Work  | Library of Congress
+ - [https://news-navigator.labs.loc.gov](https://news-navigator.labs.loc.gov)
+ - date_published: 2024-07-18T05:20:34.732677+00:00
+
  ## Library of Congress - News and Content for Media
  - [https://newsroom.loc.gov](https://newsroom.loc.gov)
  - date_published: 2024-06-24T04:47:57.841024+00:00
@@ -3797,228 +4020,4 @@
  ## Pima County Public Library
  - [https://library.pima.gov](https://library.pima.gov)
  - date_published: 2024-05-08T10:21:42.615885+00:00
-
- ## Pinellas County Public Comment Sign Up
- - [https://comment.pinellas.gov](https://comment.pinellas.gov)
- - date_published: 2024-10-30T00:41:28.716170+00:00
-
- ## Emergency Information - Pinellas County
- - [http://disaster.pinellas.gov](http://disaster.pinellas.gov)
- - date_published: 2024-10-30T00:41:39.288807+00:00
-
- ## Pitt County, NC | Official Website
- - [https://www.pittcountync.gov](https://www.pittcountync.gov)
- - date_published: 2024-06-29T22:48:08.301750+00:00
-
- ## plainlanguage.gov | Home
- - [http://www.plainlanguage.gov](http://www.plainlanguage.gov)
- - date_published: 2022-08-24T00:00:00+00:00
-
- ## Log in | ORS Portal
- - [https://api-orsportal.pnnl.gov](https://api-orsportal.pnnl.gov)
- - date_published: 2024-08-19T03:51:03.096784+00:00
-
- ## PNNL Careers
- - [https://careers.pnnl.gov](https://careers.pnnl.gov)
- - date_published: 2024-07-07T02:09:16.519982+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://info.pnnl.gov](https://info.pnnl.gov)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://pnnl.gov](https://pnnl.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Log in | Portland Employees
- - [https://employees.portland.gov](https://employees.portland.gov)
- - date_published: 2024-06-20T23:43:04.425261+00:00
-
- ## City of Portland, Oregon | Portland.gov
- - [https://www.portland.gov](https://www.portland.gov)
- - date_published: 2024-05-04T10:03:49.625546+00:00
-
- ## Princeton Plasma Physics Laboratory
- - [https://www.pppl.gov](https://www.pppl.gov)
- - date_published: 2024-07-01T16:54:25+00:00
-
- ## Welcome to the Presidio National Park Site (San Francisco)
- - [https://www.presidio.gov](https://www.presidio.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Data Privacy Framework
- - [https://www.privacyshield.gov](https://www.privacyshield.gov)
- - date_published: 2024-05-08T11:32:32.074427+00:00
-
- ## Project Safe Childhood
- - [http://www.projectsafechildhood.gov](http://www.projectsafechildhood.gov)
- - date_published: 2014-06-17T00:50:15+00:00
-
- ## Protect Your Move | FMCSA
- - [https://www.protectyourmove.gov](https://www.protectyourmove.gov)
- - date_published: 2024-07-16T20:11:01+00:00
-
- ## PubMed
- - [http://www.pubmed.gov](http://www.pubmed.gov)
- - date_published: 2024-08-18T18:50:38.465419+00:00
-
- ## National Quantum Coordination Office (NQCO)
- - [https://www.quantum.gov](https://www.quantum.gov)
- - date_published: 2024-08-06T10:26:08.623183+00:00
-
- ## RaleighNC.gov
- - [https://raleighnc.gov](https://raleighnc.gov)
- - date_published: 2024-06-30T11:34:36+00:00
-
- ## Read.gov | The Library of Congress
- - [http://www.read.gov](http://www.read.gov)
- - date_published: 2024-06-26T11:43:10.394176+00:00
-
- ## Plan Ahead for Disasters | Ready.gov
- - [http://ready.gov](http://ready.gov)
- - date_published: 2024-07-01T21:50:51+00:00
-
- ## Home | readyalabama
- - [http://www.readyalabama.gov](http://www.readyalabama.gov)
- - date_published: 2024-07-01T21:51:04.483063+00:00
-
- ## Plan. Prepare. Stay Informed. | Ready NC
- - [https://readync.gov](https://readync.gov)
- - date_published: 2024-05-07T13:57:42.492965+00:00
-
- ## Ronald Reagan Presidential Library & Museum | Ronald Reagan
- - [https://www.reaganlibrary.gov](https://www.reaganlibrary.gov)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Recalls.gov
- - [http://www.recalls.gov](http://www.recalls.gov)
- - date_published: 2023-11-03T23:01:19+00:00
-
- ## Recreation.gov - Camping, Cabins, RVs, Permits, Passes & More
- - [https://www.recreation.gov](https://www.recreation.gov)
- - date_published: 2024-05-29T16:16:38+00:00
-
- ## Regulations.gov
- - [https://regulations.gov](https://regulations.gov)
- - date_published: 2023-10-25T19:25:01.549850+00:00
-
- ## Home
- - [http://rentonwa.gov](http://rentonwa.gov)
- - date_published: 2024-07-09T22:00:11.290137+00:00
-
- ## ReproductiveRights.gov - Know Your Rights: Reproductive Health Care
- - [https://reproductiverights.gov](https://reproductiverights.gov)
- - date_published: 2024-07-08T20:46:49+00:00
-
- ## @rgov/webapp
- - [https://apps.research.gov](https://apps.research.gov)
- - date_published: 2024-06-14T15:37:50+00:00
-
- ## NSF | Research.gov
- - [https://identity.research.gov](https://identity.research.gov)
- - date_published: 2024-03-12T14:00:36+00:00
-
- ## Research.gov - Homepage
- - [https://research.gov](https://research.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## Welcome | Rhode Island Department of Environmental Management
- - [https://dem.ri.gov](https://dem.ri.gov)
- - date_published: 2024-06-14T19:05:23+00:00
-
- ## Help Keep Rhode Island Litter Free! | Keep Rhody Litter Free
- - [https://litterfree.ri.gov](https://litterfree.ri.gov)
- - date_published: 2024-09-05T10:29:03+00:00
-
- ## Lobbying Registration Desk - Lobbying Registration Desk
- - [https://lobbytracker.sos.ri.gov](https://lobbytracker.sos.ri.gov)
- - date_published: 2024-09-16T18:11:23.045392+00:00
-
- ## Open Meetings Login - Rhode Island Department of State
- - [https://opengov.sos.ri.gov](https://opengov.sos.ri.gov)
- - date_published: 2024-09-16T18:11:29.123884+00:00
-
- ## Welcome | Historical Preservation & Heritage Commission
- - [https://preservation.ri.gov](https://preservation.ri.gov)
- - date_published: 2024-06-12T10:55:42+00:00
-
- ## Welcome | Rhode Island Seafood Marketing Collaborative
- - [https://seafood.ri.gov](https://seafood.ri.gov)
- - date_published: 2024-09-18T18:44:35+00:00
-
- ## Welcome - Rhode Island - Gregg M. Amore
- - [http://sos.ri.gov](http://sos.ri.gov)
- - date_published: 2024-09-18T20:23:51.935895+00:00
-
- ## State of Rhode Island: Rhode Island Department of Transportation
- - [http://www.dot.ri.gov](http://www.dot.ri.gov)
- - date_published: 2024-09-18T20:23:41.865788+00:00
-
- ## Welcome | Governor's Office, State of Rhode Island
- - [http://www.governor.ri.gov](http://www.governor.ri.gov)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## RIGOV
- - [https://www.ri.gov](https://www.ri.gov)
- - date_published: 2024-09-18T20:23:44.940110+00:00
-
- ## Welcome | Rhode Island State Parks
- - [https://www.riparks.ri.gov](https://www.riparks.ri.gov)
- - date_published: 2024-09-18T19:57:44+00:00
-
- ## Ridgefield CT |
- - [https://www.ridgefieldct.gov](https://www.ridgefieldct.gov)
- - date_published: 2024-07-01T20:33:58+00:00
-
- ## National Wild and Scenic River System
- - [https://www.rivers.gov](https://www.rivers.gov)
- - date_published: 2024-09-02T09:51:00.924041+00:00
-
- ## Rochester, MN | Home
- - [https://www.rochestermn.gov](https://www.rochestermn.gov)
- - date_published: 2024-07-12T21:14:30+00:00
-
- ## Ruidoso-NM.gov | Municipal Website of the Village of Ruidoso, NM
- - [https://www.ruidoso-nm.gov](https://www.ruidoso-nm.gov)
- - date_published: 2024-06-20T16:29:14.730165+00:00
-
- ## Sacramento County Board of Supervisors Meetings
- - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
- - date_published: 2024-04-28T04:28:27.708351+00:00
-
- ## Home
- - [https://assets.saccounty.gov](https://assets.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## My Utilities
- - [https://myutilities.saccounty.gov](https://myutilities.saccounty.gov)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Personnel Services Department
- - [https://personnel.saccounty.gov](https://personnel.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Consolidated Utilities Billing & Services
- - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Sacramento County, California
- - [https://www.saccounty.gov](https://www.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Iowa Safe and Sound | Iowa Safe+Sound
- - [https://safeandsoundiowa.gov](https://safeandsoundiowa.gov)
- - date_published: 2024-06-26T20:11:58+00:00
-
- ## SafeOCS Reporting System
- - [https://safeocs.gov](https://safeocs.gov)
- - date_published: 2024-06-28T12:57:52.789435+00:00
-
- ## Home - SaferProducts
- - [https://saferproducts.gov](https://saferproducts.gov)
- - date_published: 2024-05-08T02:42:42.184193+00:00
-
- ## SaltLakeCounty.gov
- - [https://www.saltlakecounty.gov](https://www.saltlakecounty.gov)
- - date_published: 2024-05-02T17:26:21+00:00
 

@@ -1,3 +1,15 @@
+ ## 中共贵州省委党校 贵州行政学院 中共贵州省委讲师团
+ - [http://www.gzdx.gov.cn](http://www.gzdx.gov.cn)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 广州市人民政府外事办公室
+ - [http://www.gzfao.gov.cn](http://www.gzfao.gov.cn)
+ - date_published: 2024-09-09T15:34:17.937201+00:00
+
+ ## 广州市南沙区人民政府门户网站
+ - [http://www.gzns.gov.cn](http://www.gzns.gov.cn)
+ - date_published: 2024-07-09T18:21:07.463641+00:00
+
  ## 中国人民政治协商会议贵州省委员会
  - [http://www.gzszx.gov.cn](http://www.gzszx.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3985,16 +3997,4 @@
  ## 重庆·石柱网
  - [http://www.zgsz.gov.cn](http://www.zgsz.gov.cn)
  - date_published: 2024-06-30T13:11:15+00:00
-
- ## 湛江市人民政府门户网站
- - [https://www.zhanjiang.gov.cn](https://www.zhanjiang.gov.cn)
- - date_published: 2024-10-21T05:52:34.519110+00:00
-
- ## 郑东新区管理委员会
- - [https://www.zhengdong.gov.cn](https://www.zhengdong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 郑州市人民政府
- - [https://www.zhengzhou.gov.cn](https://www.zhengzhou.gov.cn)
- - date_published: 2024-06-30T22:24:33.356621+00:00
 

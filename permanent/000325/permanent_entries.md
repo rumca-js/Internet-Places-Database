@@ -1,3 +1,251 @@
+ ## kristine.url.lol
+ - [https://link.kristine.kim](https://link.kristine.kim)
+ - date_published: 2024-08-07T20:00:04.000848+00:00
+
+ ## Taesoo Kim
+ - [https://taesoo.kim](https://taesoo.kim)
+ - date_published: 2023-09-06T17:22:48+00:00
+
+ ## Avo’s Kitchen
+ - [https://avos.kitchen](https://avos.kitchen)
+ - date_published: 2024-05-09T08:00:22.035473+00:00
+
+ ## start [Binary Kitchen]
+ - [https://binary.kitchen](https://binary.kitchen)
+ - date_published: 2024-08-06T17:33:42.886569+00:00
+
+ ## Home Ideas
+ - [https://homegardens.kitchen](https://homegardens.kitchen)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Down to Earth Kiwi | Economics Blog
+ - [https://www.downtoearth.kiwi](https://www.downtoearth.kiwi)
+ - date_published: 2024-10-31T22:47:09.965954+00:00
+
+ ## FrostKiwi's Secrets
+ - [https://blog.frost.kiwi](https://blog.frost.kiwi)
+ - date_published: 2024-11-20T08:01:45+00:00
+
+ ## Ninja Kiwi - Free Online Games, Mobile Games & Tower Defense Games
+ - [https://ninja.kiwi](https://ninja.kiwi)
+ - date_published: 2024-10-25T10:49:16.255217+00:00
+
+ ## nostr.kiwi - communities for everyone
+ - [https://nostr.kiwi](https://nostr.kiwi)
+ - date_published: 2024-08-18T22:02:11.144715+00:00
+
+ ## Orbit design system
+ - [https://orbit.kiwi](https://orbit.kiwi)
+ - date_published: 2024-07-02T23:43:46.304678+00:00
+
+ ## Pukerua Bay boy
+ - [https://pkboi.kiwi](https://pkboi.kiwi)
+ - date_published: 2024-10-22T19:02:33.988295+00:00
+
+ ## The Bitcoin Knowledge Podcast
+ - [https://bitcoin.kn](https://bitcoin.kn)
+ - date_published: 2024-05-08T05:59:19.396457+00:00
+
+ ## Universität Konstanz
+ - [https://uni.kn](https://uni.kn)
+ - date_published: 2024-04-29T07:00:57.255441+00:00
+
+ ## https://tageswanderungen.koeln/de/
+ - [https://tageswanderungen.koeln](https://tageswanderungen.koeln)
+ - date_published: 2024-07-02T18:59:30.683183+00:00
+
+ ## KCNA
+ - [http://www.kcna.kp](http://www.kcna.kp)
+ - date_published: 2024-06-18T14:19:56.978224+00:00
+
+ ## KPMG International
+ - [https://home.kpmg](https://home.kpmg)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## 동아대학교
+ - [http://www.donga.ac.kr](http://www.donga.ac.kr)
+ - date_published: 2024-10-30T20:15:09.886406+00:00
+
+ ## CILab GIST – Cognition & Intelligence Lab at GIST
+ - [https://cilab.gist.ac.kr](https://cilab.gist.ac.kr)
+ - date_published: 2024-05-10T05:01:15.313329+00:00
+
+ ## site move
+ - [https://www.hansung.ac.kr](https://www.hansung.ac.kr)
+ - date_published: 2024-06-22T07:52:18.897682+00:00
+
+ ## AVE Lab
+ - [https://ave.kaist.ac.kr](https://ave.kaist.ac.kr)
+ - date_published: 2024-09-13T18:14:01+00:00
+
+ ## KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부
+ - [http://cs.kaist.ac.kr](http://cs.kaist.ac.kr)
+ - date_published: 2024-06-22T07:37:40.790692+00:00
+
+ ## KAIST 전기 및 전자공학부
+ - [https://ee.kaist.ac.kr](https://ee.kaist.ac.kr)
+ - date_published: 2021-10-13T04:53:15+00:00
+
+ ## KAIST G-School
+ - [https://gschool.kaist.ac.kr](https://gschool.kaist.ac.kr)
+ - date_published: 2024-07-03T11:56:10.686532+00:00
+
+ ## KAIST
+ - [https://kaist.ac.kr](https://kaist.ac.kr)
+ - date_published: 2024-08-08T03:13:02.738916+00:00
+
+ ## KAIST
+ - [https://news.kaist.ac.kr](https://news.kaist.ac.kr)
+ - date_published: 2024-09-15T19:18:07.367715+00:00
+
+ ## Networking and Mobile Systems Lab
+ - [https://nmsl.kaist.ac.kr](https://nmsl.kaist.ac.kr)
+ - date_published: 2024-04-28T08:10:26+00:00
+
+ ## main
+ - [http://rcv.kaist.ac.kr](http://rcv.kaist.ac.kr)
+ - date_published: 2024-07-11T16:06:53+00:00
+
+ ## SoftSec Lab @ KAIST
+ - [https://softsec.kaist.ac.kr](https://softsec.kaist.ac.kr)
+ - date_published: 2024-08-19T22:08:26+00:00
+
+ ## SYSSEC
+ - [https://syssec.kaist.ac.kr](https://syssec.kaist.ac.kr)
+ - date_published: 2023-10-25T20:17:21.001514+00:00
+
+ ## KAIST Visual Computing Lab (VCLAB), led by Min H. Kim (김민혁): Computer Graphics/Vision/Imaging/Color
+ - [https://vclab.kaist.ac.kr](https://vclab.kaist.ac.kr)
+ - date_published: 2024-03-31T04:29:19+00:00
+
+ ## 고대신문
+ - [http://www.kunews.ac.kr](http://www.kunews.ac.kr)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 국립 부경대학교 Pukyong National University : 111
+ - [https://www.pknu.ac.kr](https://www.pknu.ac.kr)
+ - date_published: 2024-08-18T19:53:36.639387+00:00
+
+ ## Algorithmic Machine Intelligence Lab (AMI Lab.) @ POSTECH
+ - [https://ami.postech.ac.kr](https://ami.postech.ac.kr)
+ - date_published: 2024-06-22T07:46:50.528842+00:00
+
+ ## About
+ - [https://dramaqa.snu.ac.kr](https://dramaqa.snu.ac.kr)
+ - date_published: 2022-10-31T06:43:44+00:00
+
+ ## IRTG Workshop 2019
+ - [http://irtg.math.snu.ac.kr](http://irtg.math.snu.ac.kr)
+ - date_published: 2024-07-24T03:56:40.305188+00:00
+
+ ## Software Foundations Lab
+ - [https://sf.snu.ac.kr](https://sf.snu.ac.kr)
+ - date_published: 2024-05-03T05:35:17+00:00
+
+ ## VGP
+ - [http://vgpdb.snu.ac.kr](http://vgpdb.snu.ac.kr)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Vision & Learning Lab
+ - [https://vision.snu.ac.kr](https://vision.snu.ac.kr)
+ - date_published: 2024-04-28T05:51:54.845672+00:00
+
+ ## 서울대학교
+ - [http://www.snu.ac.kr](http://www.snu.ac.kr)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## UNIST | A world-class science and technology leading university that contributes to human life
+ - [https://www.unist.ac.kr](https://www.unist.ac.kr)
+ - date_published: 2024-10-16T18:39:56.738643+00:00
+
+ ## 연세춘추
+ - [http://chunchu.yonsei.ac.kr](http://chunchu.yonsei.ac.kr)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Underwood International College
+ - [https://uic.yonsei.ac.kr](https://uic.yonsei.ac.kr)
+ - date_published: 2024-07-07T04:55:41.825008+00:00
+
+ ## 11번가
+ - [http://11st.co.kr](http://11st.co.kr)
+ - date_published: 2024-06-18T09:32:54.627643+00:00
+
+ ## 모바일 쇼핑 - 11번가
+ - [http://m.11st.co.kr](http://m.11st.co.kr)
+ - date_published: 2024-10-21T06:27:03.030117+00:00
+
+ ## 3M Korea News Center - 뉴스 센터
+ - [https://news.3m.co.kr](https://news.3m.co.kr)
+ - date_published: 2024-06-24T06:23:47+00:00
+
+ ## 3M Science. Applied to Life.™ | 한국쓰리엠
+ - [https://www.3m.co.kr](https://www.3m.co.kr)
+ - date_published: 2024-08-06T10:37:27.062710+00:00
+
+ ## 아데코코리아 | Adecco Korea: Korea's most trusted Recruitment Agency
+ - [https://www.adecco.co.kr](https://www.adecco.co.kr)
+ - date_published: 2024-10-29T04:23:37.704606+00:00
+
+ ## 아디다스 공식 온라인 스토어
+ - [https://www.adidas.co.kr](https://www.adidas.co.kr)
+ - date_published: 2024-07-14T12:14:52.550712+00:00
+
+ ## Robot Touque Sensor Technology Leader | Aidin Robotics
+ - [https://www.aidinrobotics.co.kr](https://www.aidinrobotics.co.kr)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## 에어비앤비 | 휴가지 숙소, 통나무집, 해변가 주택 등
+ - [https://airbnb.co.kr](https://airbnb.co.kr)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## 알라딘
+ - [https://aladin.co.kr](https://aladin.co.kr)
+ - date_published: 2024-06-22T10:40:14.227505+00:00
+
+ ## 알라딘서재 - 책과 통하는 블로그
+ - [http://blog.aladin.co.kr](http://blog.aladin.co.kr)
+ - date_published: 2024-06-22T10:40:06.820024+00:00
+
+ ## 403 - 사용 권한 없음: 액세스가 거부되었습니다.
+ - [https://image.aladin.co.kr](https://image.aladin.co.kr)
+ - date_published: 2024-06-22T10:40:16.445292+00:00
+
+ ## 투비컨티뉴드
+ - [https://tobe.aladin.co.kr](https://tobe.aladin.co.kr)
+ - date_published: 2024-06-22T10:40:17.684662+00:00
+
+ ## 알라딘
+ - [https://us.aladin.co.kr](https://us.aladin.co.kr)
+ - date_published: 2024-06-22T10:40:02.671464+00:00
+
+ ## 온라인중고 : 알라딘
+ - [http://used.aladin.co.kr](http://used.aladin.co.kr)
+ - date_published: 2024-06-22T10:40:24.608842+00:00
+
+ ## 세상에서 가장 편한 신발, 올버즈
+ - [https://www.allbirds.co.kr](https://www.allbirds.co.kr)
+ - date_published: 2024-06-29T05:20:28.813922+00:00
+
+ ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
+ - [https://www.altair.co.kr](https://www.altair.co.kr)
+ - date_published: 2024-10-15T22:28:04+00:00
+
+ ## 아마존을 통한 온라인 해외 판매 | 아마존 글로벌셀링 코리아
+ - [https://sell.amazon.co.kr](https://sell.amazon.co.kr)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home
+ - [https://ametek.co.kr](https://ametek.co.kr)
+ - date_published: 2024-06-15T10:44:07.267925+00:00
+
+ ## 테크니컬 애슬레저, 안다르
+ - [https://andar.co.kr](https://andar.co.kr)
+ - date_published: 2024-10-21T06:14:26.697762+00:00
+
+ ## 한겨레신문사 채용홈페이지
+ - [https://hani.applyin.co.kr](https://hani.applyin.co.kr)
+ - date_published: 2024-03-14T00:00:00+00:00
+
  ## 아우디코리아 공식홈페이지
  - [http://www.audi.co.kr](http://www.audi.co.kr)
  - date_published: 2024-07-19T20:25:03+00:00
@@ -3760,254 +4008,4 @@
  ## American University of Beirut | AUB
  - [https://www.aub.edu.lb](https://www.aub.edu.lb)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## CNRS | Home
- - [http://www.cnrs.edu.lb](http://www.cnrs.edu.lb)
- - date_published: 2024-07-12T07:07:01.237582+00:00
-
- ## Lebanese University
- - [http://www.ul.edu.lb](http://www.ul.edu.lb)
- - date_published: 2024-07-12T07:05:51.976446+00:00
-
- ## وزارة الزراعة
- - [http://www.agriculture.gov.lb](http://www.agriculture.gov.lb)
- - date_published: 2024-07-12T07:07:17.626242+00:00
-
- ## Higher Council for Childhood | المجلس الاعلى للطفولة
- - [http://www.atfalouna.gov.lb](http://www.atfalouna.gov.lb)
- - date_published: 2024-07-12T07:06:24.785414+00:00
-
- ## Banque Du Liban
- - [http://www.bdl.gov.lb](http://www.bdl.gov.lb)
- - date_published: 2024-07-12T07:06:09.393884+00:00
-
- ## Welcome to RHUH
- - [http://www.bguh.gov.lb](http://www.bguh.gov.lb)
- - date_published: 2024-07-12T07:05:38.807896+00:00
-
- ## Central Administration of Statistics - Home
- - [http://www.cas.gov.lb](http://www.cas.gov.lb)
- - date_published: 2024-07-12T07:07:06.498479+00:00
-
- ## CDR - Home
- - [http://www.cdr.gov.lb](http://www.cdr.gov.lb)
- - date_published: 2024-07-12T07:06:58.392946+00:00
-
- ## ECOSOC
- - [http://www.ces.gov.lb](http://www.ces.gov.lb)
- - date_published: 2024-07-12T07:09:27.430827+00:00
-
- ## الرئيسية | Central Inspection
- - [http://www.cib.gov.lb](http://www.cib.gov.lb)
- - date_published: 2024-07-12T07:05:08.342017+00:00
-
- ## :: وحدة مكافحة عمل الأطفال في لبنان -- الرئيسية  ::
- - [http://www.clu.gov.lb](http://www.clu.gov.lb)
- - date_published: 2024-07-12T07:09:22.633089+00:00
-
- ## ديوان المحاسبة المحكمة المالية | ديوان المحاسبة - الجمهورية اللبنانية
- - [http://www.coa.gov.lb](http://www.coa.gov.lb)
- - date_published: 2024-06-27T09:17:34+00:00
-
- ## الصفحة الرئيسية | وزارة الثقافة
- - [http://www.culture.gov.lb](http://www.culture.gov.lb)
- - date_published: 2024-07-12T07:07:08.450663+00:00
-
- ## الجمارك اللبنانية
- - [http://customs.gov.lb](http://customs.gov.lb)
- - date_published: 2024-07-12T07:03:07.632120+00:00
-
- ## الصفحة الرئيسية | لبنان - وزارة الأقتصاد والتجارة
- - [http://www.economy.gov.lb](http://www.economy.gov.lb)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## كهرباء لبنان - مؤسسة عامة
- - [http://www.edl.gov.lb](http://www.edl.gov.lb)
- - date_published: 2024-07-12T07:08:17.988464+00:00
-
- ## Lebanese General Security
- - [http://www.general-security.gov.lb](http://www.general-security.gov.lb)
- - date_published: 2024-07-12T07:05:00.582571+00:00
-
- ## وزارة الصناعة
- - [http://www.industry.gov.lb](http://www.industry.gov.lb)
- - date_published: 2024-07-12T07:07:10.690104+00:00
-
- ## Home - IOF
- - [http://www.institutdesfinances.gov.lb](http://www.institutdesfinances.gov.lb)
- - date_published: 2024-07-12T07:03:10.940219+00:00
-
- ## ISF - Internal Security Forces ; قوى الأمن الداخلي - الموقع الرسمي
- - [http://www.isf.gov.lb](http://www.isf.gov.lb)
- - date_published: 2024-07-12T07:05:36.000297+00:00
-
- ## justicegov- الصفحة الرئيسية
- - [http://www.justice.gov.lb](http://www.justice.gov.lb)
- - date_published: 2024-07-12T07:04:55.473472+00:00
-
- ## وزارة العمل | الصفحة الرئيسية
- - [http://www.labor.gov.lb](http://www.labor.gov.lb)
- - date_published: 2024-07-12T07:07:23.987290+00:00
-
- ## الموقع الرسمي للجيش اللبناني
- - [http://www.lebarmy.gov.lb](http://www.lebarmy.gov.lb)
- - date_published: 2024-07-12T05:54:52+00:00
-
- ## LPDC
- - [http://www.lpdc.gov.lb](http://www.lpdc.gov.lb)
- - date_published: 2024-07-12T07:06:17.135442+00:00
-
- ## تعاونية موظفي الدولة
- - [http://www.mfe.gov.lb](http://www.mfe.gov.lb)
- - date_published: 2024-07-12T07:07:20.640870+00:00
-
- ## وزارة الشباب والرياضة
- - [http://www.minijes.gov.lb](http://www.minijes.gov.lb)
- - date_published: 2024-07-12T07:08:09.499298+00:00
-
- ## وزارة الإعلام اللبنانية
- - [http://www.ministryinfo.gov.lb](http://www.ministryinfo.gov.lb)
- - date_published: 2024-07-12T07:05:33.861616+00:00
-
- ## Ministry of Tourism Lebanon: Your Gateway to a Land of Cultural Riches and Natural Beauty
- - [http://mot.gov.lb](http://mot.gov.lb)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Ogero - Connecting the Nation
- - [http://www.ogero.gov.lb](http://www.ogero.gov.lb)
- - date_published: 2024-07-12T07:05:11.291235+00:00
-
- ## المؤسسة العامة للإسكان - الصفحة الرئيسية
- - [http://www.pch.gov.lb](http://www.pch.gov.lb)
- - date_published: 2024-07-12T07:07:51.524561+00:00
-
- ## Presidency of the Council of Ministers - ENI CBC MED PROGRAMME - National Authority
- - [http://cbc.pcm.gov.lb](http://cbc.pcm.gov.lb)
- - date_published: 2020-02-07T10:28:52+00:00
-
- ## IIS Windows Server
- - [http://dcp.pcm.gov.lb](http://dcp.pcm.gov.lb)
- - date_published: 2019-04-15T11:48:53+00:00
-
- ## إدارة مخاطر الكوارث
- - [http://drm.pcm.gov.lb](http://drm.pcm.gov.lb)
- - date_published: 2024-07-12T07:08:07.575868+00:00
-
- ## Home > ROB
- - [http://nptp.pcm.gov.lb](http://nptp.pcm.gov.lb)
- - date_published: 2024-07-12T07:05:56.537951+00:00
-
- ## رئاسة مجلس الوزراء
- - [http://pcm.gov.lb](http://pcm.gov.lb)
- - date_published: 2024-05-10T04:48:46.794083+00:00
-
- ## SDGs in Lebanon
- - [http://sdglebanon.pcm.gov.lb](http://sdglebanon.pcm.gov.lb)
- - date_published: 2024-07-12T07:08:11.651309+00:00
-
- ## Secretariat General  of PCM
- - [http://sg.pcm.gov.lb](http://sg.pcm.gov.lb)
- - date_published: 2021-08-26T09:15:04+00:00
-
- ## الصفحة الرئيسية
-			 
-			- رئاسة الجمهورية اللبنانية
- - [http://www.presidency.gov.lb](http://www.presidency.gov.lb)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## الرئيسية
- - [http://www.socialaffairs.gov.lb](http://www.socialaffairs.gov.lb)
- - date_published: 2024-07-12T07:09:33.576591+00:00
-
- ## مركز مشاريع ودراسات القطاع العام - مركز مشاريع ودراسات القطاع العام
- - [http://www.studies.gov.lb](http://www.studies.gov.lb)
- - date_published: 2024-07-12T07:06:14.105070+00:00
-
- ## TRA - Telecommunications Regulatory Authority
- - [http://www.tra.gov.lb](http://www.tra.gov.lb)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Audi St. Lucian | Experience the future of premium mobility
- - [http://www.audi.lc](http://www.audi.lc)
- - date_published: 2024-07-19T20:57:51+00:00
-
- ## BandLink
- - [https://bnd.lc](https://bnd.lc)
- - date_published: 2024-10-22T22:19:19.370625+00:00
-
- ## irc.lc
- - [http://irc.lc](http://irc.lc)
- - date_published: 2024-07-11T23:55:17.032650+00:00
-
- ## Sign in · GitLab
- - [https://g.j4.lc](https://g.j4.lc)
- - date_published: 2024-07-10T06:51:25.880974+00:00
-
- ## Jae's Portfolio
- - [https://j4.lc](https://j4.lc)
- - date_published: 2024-07-10T06:51:23.334621+00:00
-
- ## a personal journal and notebook site - notes by @lev.lc
- - [https://lev.lc](https://lev.lc)
- - date_published: 2024-10-13T06:45:23.578762+00:00
-
- ## Library Genesis
- - [https://libgen.lc](https://libgen.lc)
- - date_published: 2024-05-06T15:11:56.873961+00:00
-
- ## MAC Address Lookup
- - [https://mac.lc](https://mac.lc)
- - date_published: 2024-09-16T13:25:43.910810+00:00
-
- ## Changaco's website
- - [https://changaco.oy.lc](https://changaco.oy.lc)
- - date_published: 2019-12-04T15:01:59+00:00
-
- ## Luc Rocher
- - [https://rocher.lc](https://rocher.lc)
- - date_published: 2024-06-23T17:33:58.396871+00:00
-
- ## VIPBox Sports Streams |  Live VIPBoxTV Online - VIPBox
- - [https://www.vipbox.lc](https://www.vipbox.lc)
- - date_published: 2024-11-12T17:04:55.309159+00:00
-
- ## E.Leclerc
- - [https://culture.leclerc](https://culture.leclerc)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Andrew Leahey - Tax Consultant, Columnist, Commentator, Attorney
- - [https://andrew.legal](https://andrew.legal)
- - date_published: 2024-08-19T10:49:12.933195+00:00
-
- ## Bridge | Where Immigration Meets Innovation
- - [https://bridge.legal](https://bridge.legal)
- - date_published: 2023-10-25T20:17:57.823788+00:00
-
- ## decoded.legal
- - [https://decoded.legal](https://decoded.legal)
- - date_published: 2023-10-25T20:17:58.671735+00:00
-
- ## Mastodon
- - [https://fedi.decoded.legal](https://fedi.decoded.legal)
- - date_published: 2024-08-18T23:10:07.846693+00:00
-
- ## IT-Recht Kanzlei - "TOP WIRTSCHAFTSKANZLEI 2023" (Focus 09/2023)
- - [https://itrk.legal](https://itrk.legal)
- - date_published: 2024-06-17T03:18:30.820087+00:00
-
- ## Cierpliwości...
- - [https://katz.legal](https://katz.legal)
- - date_published: 2024-05-01T03:34:47.542268+00:00
-
- ## Niubox Legal | Abogados en tecnología, asuntos públicos y regulatorios
- - [https://niubox.legal](https://niubox.legal)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## viacomcbs.com
- - [https://www.pplus.legal](https://www.pplus.legal)
- - date_published: 2023-07-06T12:59:18+00:00
-
- ## Legal Portal | PolitePost.net
- - [https://politepost.reference.legal](https://politepost.reference.legal)
- - date_published: 2024-10-30T18:49:10.523300+00:00
 

@@ -17882,7 +17882,7 @@
         "age": null,
         "album": null,
         "author": null,
-        "bookmarked": true,
+        "bookmarked": false,
         "comments": [],
         "date_published": "2024-02-13T00:00:00+00:00",
         "description": "AskGuru",

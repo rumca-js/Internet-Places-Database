@@ -1,3 +1,27 @@
+ ## Learn Jira, Confluence, Trello, Jira Service Management, Jira Align, and more Atlassian software with Atlassian University : Atlassian
+ - [https://university.atlassian.com](https://university.atlassian.com)
+ - date_published: 2024-07-09T09:55:18.603763+00:00
+
+ ## Collaboration software for software, IT and business teams
+ - [https://wac-cdn.atlassian.com](https://wac-cdn.atlassian.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Cornell University Web Login
+ - [https://cornell.hosts.atlas-sys.com](https://cornell.hosts.atlas-sys.com)
+ - date_published: 2024-07-22T05:27:05.753883+00:00
+
+ ## ILLiad Logon
+ - [https://vt.hosts.atlas-sys.com](https://vt.hosts.atlas-sys.com)
+ - date_published: 2024-07-09T16:34:42.512195+00:00
+
+ ## Instant Answers for HR, Financials, & Project Management | Atlas UP
+ - [https://www.atlasup.com](https://www.atlasup.com)
+ - date_published: 2024-07-09T19:14:19.778046+00:00
+
+ ## Home | ATLAZ
+ - [https://www.atlaz.com](https://www.atlaz.com)
+ - date_published: 2018-04-09T19:59:23+00:00
+
  ## Atlemo.com | The greatest links!
  - [http://atlemo.com](http://atlemo.com)
  - date_published: 2024-06-24T05:19:10.306567+00:00
@@ -4008,28 +4032,4 @@
  - [https://avherald.com](https://avherald.com)
  - date_published: 2023-10-25T11:48:37.614174+00:00
  - tags: ['aviation news']
-
- ## avi12's Official Website
- - [https://avi12.com](https://avi12.com)
- - date_published: 2024-04-30T07:48:13.610832+00:00
-
- ## Últimas noticias de aviación en Argentina, España, Latinoamérica y el mundo
- - [https://aviacionline.com](https://aviacionline.com)
- - date_published: 2024-11-23T18:17:20.561076+00:00
-
- ## Avia Marketing – Especialistas en Fidelización
- - [http://www.aviamarketing.com](http://www.aviamarketing.com)
- - date_published: 2024-09-10T20:54:28.397822+00:00
-
- ## MMB - Search
- - [https://cambiatuitinerario.avianca.com](https://cambiatuitinerario.avianca.com)
- - date_published: 2024-10-30T05:25:36.015205+00:00
-
- ## Volar con Avianca Connect
- - [https://connect.avianca.com](https://connect.avianca.com)
- - date_published: 2024-10-30T05:25:00.659288+00:00
-
- ## Investors
- - [https://ir.avianca.com](https://ir.avianca.com)
- - date_published: 2024-10-30T05:25:14.018049+00:00
 

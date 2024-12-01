@@ -1,3 +1,227 @@
+ ## Tagesspiegel Background: Ihr politischer Wissensvorsprung
+ - [https://background.tagesspiegel.de](https://background.tagesspiegel.de)
+ - date_published: 2024-06-17T07:33:15.532169+00:00
+
+ ## Tagesspiegel Begriffel — Wordle auf Deutsch spielen
+ - [https://begriffel.tagesspiegel.de](https://begriffel.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:33.888364+00:00
+
+ ## Tagesspiegel Checkpoint - Der beliebteste Newsletter aus Berlin
+ - [https://checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de)
+ - date_published: 2024-06-28T13:24:02+00:00
+
+ ## contentpass
+ - [https://cp.tagesspiegel.de](https://cp.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:35.122792+00:00
+
+ ## E-Paper | Tagesspiegel
+ - [https://epaper.tagesspiegel.de](https://epaper.tagesspiegel.de)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Rabattcodes &amp; Gutscheine im Juni 2024 - Tagesspiegel
+ - [https://gutscheine.tagesspiegel.de](https://gutscheine.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:44.401195+00:00
+
+ ## Tagesspiegel Jobs – Jobs mit Perspektive
+ - [https://jobs.tagesspiegel.de](https://jobs.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:36.123492+00:00
+
+ ## Werbeanzeigen in Berlin: Ihr Produkt in den Hauptstadt-Medien
+ - [https://media.tagesspiegel.de](https://media.tagesspiegel.de)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Tagesspiegel Reisen
+ - [https://reisen.tagesspiegel.de](https://reisen.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:48.156377+00:00
+
+ ## Tagesspiegel-Shop
+ - [https://shop.tagesspiegel.de](https://shop.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:32.059927+00:00
+
+ ## Sudoku spielen
+ - [https://sudoku.tagesspiegel.de](https://sudoku.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:31.189786+00:00
+
+ ## Aktuelle News: Nachrichten aus Berlin und der Welt
+ - [https://tagesspiegel.de](https://tagesspiegel.de)
+ - date_published: 2024-05-06T22:49:51.186832+00:00
+
+ ## Traueranzeigen Ihrer Region | Tagesspiegel Trauer
+ - [https://trauer.tagesspiegel.de](https://trauer.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:42.725395+00:00
+
+ ## Tagesspiegel Live.
+ - [https://veranstaltungen.tagesspiegel.de](https://veranstaltungen.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:46.902575+00:00
+
+ ## Tagesspiegel Verbraucherportal
+ - [https://verbraucher.tagesspiegel.de](https://verbraucher.tagesspiegel.de)
+ - date_published: 2024-06-28T13:24:00.087984+00:00
+
+ ## Produkt-Vergleich | TOP 10 inkl. weiterer Test Quellen und Ratgeber!
+ - [https://vergleich.tagesspiegel.de](https://vergleich.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:58.976185+00:00
+
+ ## Karriere Board | Verlag Der Tagesspiegel GmbH
+ - [https://verlagsjobs.tagesspiegel.de](https://verlagsjobs.tagesspiegel.de)
+ - date_published: 2024-06-28T13:23:33.303251+00:00
+
+ ## Die Tagesspiegel-Gruppe aus Berlin
+ - [https://www.tagesspiegel-gruppe.de](https://www.tagesspiegel-gruppe.de)
+ - date_published: 2024-06-28T13:23:50.241887+00:00
+
+ ## Aktuelle Nachrichten | RP ONLINE
+ - [https://tagrpd.de](https://tagrpd.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Home
+ - [https://www.ta-hifi.de](https://www.ta-hifi.de)
+ - date_published: 2024-06-30T05:28:57.559723+00:00
+
+ ## Leading Game Publisher | Take-Two Interactive Software, Inc.
+ - [http://www.take2.de](http://www.take2.de)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Take-me-to-auction – News, Infos, Tipps und Tricks rund um eBay, Amazon und andere Online-Marktplätze
+ - [http://www.take-me-to-auction.de](http://www.take-me-to-auction.de)
+ - date_published: 2024-02-07T02:35:49+00:00
+
+ ## Der Domainname talarion.de steht zum Verkauf.
+ - [http://www.talarion.de](http://www.talarion.de)
+ - date_published: 2024-10-26T16:43:14.450272+00:00
+
+ ## Unser täglich Spam
+ - [http://spam.tamagothi.de](http://spam.tamagothi.de)
+ - date_published: 2024-07-25T18:08:41.986688+00:00
+
+ ## Tapir Apps
+ - [https://tapirapps.de](https://tapirapps.de)
+ - date_published: 2024-07-09T15:52:58.489032+00:00
+
+ ## Wir suchen Rückenwind-Geber | Jobs | Karriere | TARGOBANK
+ - [https://jobs.targobank.de](https://jobs.targobank.de)
+ - date_published: 2024-06-16T10:20:22.872136+00:00
+
+ ## Startseite - TARGOBANK Karriereblog
+ - [https://karriereblog.targobank.de](https://karriereblog.targobank.de)
+ - date_published: 2024-06-16T14:13:20.174468+00:00
+
+ ## TARGOBANK | Wir geben Rückenwind
+ - [https://targobank.de](https://targobank.de)
+ - date_published: 2024-06-16T14:13:18.689778+00:00
+
+ ## voilà
+ - [https://targobank-magazin.de](https://targobank-magazin.de)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## TARIFFUXX: Vergleichsrechner für Handytarife & Festnetz
+ - [https://www.tariffuxx.de](https://www.tariffuxx.de)
+ - date_published: 2024-10-03T19:39:03.986833+00:00
+
+ ## very tasty tea! ☕
+ - [https://very.tastytea.de](https://very.tastytea.de)
+ - date_published: 2024-07-15T06:32:38.283520+00:00
+
+ ## Tatort Fans - Alles zum ARD Krimi online
+ - [https://tatort-fans.de](https://tatort-fans.de)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Home
+ - [https://tatsachen-ueber-deutschland.de](https://tatsachen-ueber-deutschland.de)
+ - date_published: 2024-05-11T08:03:05.003581+00:00
+
+ ## TATWERK | Performative Forschung
+ - [https://tatwerk-berlin.de](https://tatwerk-berlin.de)
+ - date_published: 2024-09-06T21:54:38+00:00
+
+ ## Georg Tavonius Webprofil
+ - [http://www.tavonius.de](http://www.tavonius.de)
+ - date_published: 2024-07-22T11:00:31.943399+00:00
+
+ ## Master of Taxation
+ - [https://www.taxmaster.de](https://www.taxmaster.de)
+ - date_published: 2024-10-21T09:21:52.359154+00:00
+
+ ## Index
+ - [https://blogs.taz.de](https://blogs.taz.de)
+ - date_published: 2024-05-13T03:11:47.312314+00:00
+
+ ## IOAM
+ - [https://data-2d3a3249cd.taz.de](https://data-2d3a3249cd.taz.de)
+ - date_published: 2022-12-08T12:42:12+00:00
+
+ ## Investigatives Recherche-Team der taz: Schicken Sie uns Ihre Hinweise!
+ - [https://informant.taz.de](https://informant.taz.de)
+ - date_published: 2023-03-28T08:59:00+00:00
+
+ ## tazshop
+ - [https://shop.taz.de](https://shop.taz.de)
+ - date_published: 2024-05-13T03:11:49.478574+00:00
+
+ ## taz.de - taz.de
+ - [https://taz.de](https://taz.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Teddybärkrankenhaus Charité Berlin
+ - [https://berlin.tbkapp.de](https://berlin.tbkapp.de)
+ - date_published: 2024-07-24T16:24:26.878201+00:00
+
+ ## Town & Country Haus Magdeburg & Region Harz
+ - [https://meinhaustraum.tc.de](https://meinhaustraum.tc.de)
+ - date_published: 2024-09-25T19:06:33.185254+00:00
+
+ ## Element
+ - [https://chat.tchncs.de](https://chat.tchncs.de)
+ - date_published: 2024-07-24T04:31:40.480932+00:00
+
+ ## Nextcloud - hosted at tchncs.de
+ - [https://cloud.tchncs.de](https://cloud.tchncs.de)
+ - date_published: 2024-04-29T06:49:28.095531+00:00
+
+ ## Hi there, Friend!
+ - [https://cozy.tchncs.de](https://cozy.tchncs.de)
+ - date_published: 2024-04-29T06:49:24.382146+00:00
+
+ ## tchncs - Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.
+ - [https://discuss.tchncs.de](https://discuss.tchncs.de)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Mobilizon - Mobilizon
+ - [https://events.tchncs.de](https://events.tchncs.de)
+ - date_published: 2024-04-29T06:49:30.050612+00:00
+
+ ## Sign in · GitLab
+ - [https://git.tchncs.de](https://git.tchncs.de)
+ - date_published: 2020-07-29T00:00:00+00:00
+
+ ## ..:: tchncs ::..
+ - [https://img.tchncs.de](https://img.tchncs.de)
+ - date_published: 2024-07-24T04:31:44.068629+00:00
+
+ ## Welcome to nginx!
+ - [https://media.procial.tchncs.de](https://media.procial.tchncs.de)
+ - date_published: 2024-07-24T04:31:25.707929+00:00
+
+ ## CryptPad: end-to-end encrypted collaboration suite
+ - [https://pad.tchncs.de](https://pad.tchncs.de)
+ - date_published: 2024-04-29T06:49:26.176170+00:00
+
+ ## tchncs
+ - [https://paste.tchncs.de](https://paste.tchncs.de)
+ - date_published: 2024-04-29T06:49:30.868639+00:00
+
+ ## Pixelfed
+ - [https://pixel.tchncs.de](https://pixel.tchncs.de)
+ - date_published: 2024-04-29T06:49:21.368139+00:00
+
+ ## tchncs
+ - [https://procial.tchncs.de](https://procial.tchncs.de)
+ - date_published: 2024-04-29T06:49:28.640730+00:00
+
+ ## ntfy web
+ - [https://push.tchncs.de](https://push.tchncs.de)
+ - date_published: 2024-07-24T04:31:41.435161+00:00
+
  ## Mastodon
  - [https://social.tchncs.de](https://social.tchncs.de)
  - date_published: 2024-04-28T06:12:31.254942+00:00
@@ -3783,228 +4007,4 @@
  ## Fachbereich Linguistik
  - [https://www.ling.uni-konstanz.de](https://www.ling.uni-konstanz.de)
  - date_published: 2024-07-24T03:44:11.264257+00:00
-
- ## Fachbereich Literatur-, Kunst- und Medienwissenschaften
- - [https://www.literature.uni-konstanz.de](https://www.literature.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:09.247012+00:00
-
- ## Fachbereich Mathematik und Statistik
- - [https://www.mathematik.uni-konstanz.de](https://www.mathematik.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:21.740363+00:00
-
- ## Fachbereich Philosophie
- - [https://www.philosophie.uni-konstanz.de](https://www.philosophie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:13.368573+00:00
-
- ## Fachbereich Physik
- - [https://www.physik.uni-konstanz.de](https://www.physik.uni-konstanz.de)
- - date_published: 2024-07-24T03:43:55.490893+00:00
-
- ## Fachbereich Politik- und Verwaltungswissenschaft
- - [https://www.polver.uni-konstanz.de](https://www.polver.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:19.489894+00:00
-
- ## Fachbereich Psychologie
- - [https://www.psychologie.uni-konstanz.de](https://www.psychologie.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:17.194913+00:00
-
- ## Fachbereich Wirtschaftswissenschaften
- - [https://www.wiwi.uni-konstanz.de](https://www.wiwi.uni-konstanz.de)
- - date_published: 2024-07-24T03:44:06.796965+00:00
-
- ## Weiterleitung
- - [https://zeus.uni-konstanz.de](https://zeus.uni-konstanz.de)
- - date_published: 2024-07-24T03:43:57.024937+00:00
-
- ## Produkte
- - [https://www.unikontor.de](https://www.unikontor.de)
- - date_published: 2024-07-24T06:03:07.530128+00:00
-
- ## AlmaWeb | Universität Leipzig
- - [https://almaweb.uni-leipzig.de](https://almaweb.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:58.600606+00:00
-
- ## Universität Leipzig: Institute for American Studies
- - [https://americanstudies.uni-leipzig.de](https://americanstudies.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:40.235031+00:00
-
- ## Institut für Anatomie
- - [http://anatomie.medizin.uni-leipzig.de](http://anatomie.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Rudolf-Schönheimer-Institut für Biochemie
- - [http://biochemie.medizin.uni-leipzig.de](http://biochemie.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Institut für Medizinische Physik und Biophysik
- - [https://biophysik.medizin.uni-leipzig.de](https://biophysik.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T06:32:26+00:00
-
- ## Universitätsbibliothek Leipzig
- - [https://blog.ub.uni-leipzig.de](https://blog.ub.uni-leipzig.de)
- - date_published: 2024-10-22T05:19:54.544596+00:00
-
- ## Leipzig Corpora Collection - German
- - [http://corpora.uni-leipzig.de](http://corpora.uni-leipzig.de)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Willkommen beim Fachschaftsrat Informatik
- - [https://fsinf.informatik.uni-leipzig.de](https://fsinf.informatik.uni-leipzig.de)
- - date_published: 2024-06-17T23:25:54+00:00
-
- ## Universität Leipzig: Global and European Studies Institute
- - [https://gesi.sozphil.uni-leipzig.de](https://gesi.sozphil.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:31.993616+00:00
-
- ## Sign in · GitLab
- - [https://git.fsinf.informatik.uni-leipzig.de](https://git.fsinf.informatik.uni-leipzig.de)
- - date_published: 2024-10-22T05:31:02.070265+00:00
-
- ## Universität Leipzig: Universität Leipzig
- - [https://home.uni-leipzig.de](https://home.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:05.293351+00:00
-
- ## Universität Leipzig: Fehler
- - [https://intranet.uni-leipzig.de](https://intranet.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:10.521673+00:00
-
- ## Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften
- - [http://karl-sudhoff.uni-leipzig.de](http://karl-sudhoff.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Start: Universitätsbibliothek Leipzig
- - [https://katalog.ub.uni-leipzig.de](https://katalog.ub.uni-leipzig.de)
- - date_published: 2024-10-22T05:19:50.884348+00:00
-
- ## Klinik für Kleintiere | Start
- - [https://kleintierklinik.uni-leipzig.de](https://kleintierklinik.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:37+00:00
-
- ## UBLab
- - [https://lab.ub.uni-leipzig.de](https://lab.ub.uni-leipzig.de)
- - date_published: 2024-10-22T05:19:36.437930+00:00
-
- ## leuris - Das Forschungsinformationssystem der Universtität Leipzig
- - [https://leuris.uni-leipzig.de](https://leuris.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:54.423935+00:00
-
- ## Universität Leipzig: Das Leipziger Universitätsmagazin
- - [https://magazin.uni-leipzig.de](https://magazin.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:34.780992+00:00
-
- ## Home | Moodle 2
- - [https://moodle2.uni-leipzig.de](https://moodle2.uni-leipzig.de)
- - date_published: 2024-10-22T05:27:07.952612+00:00
-
- ## Universität Leipzig: Leipziger Universitätsorchester
- - [https://orchester.uni-leipzig.de](https://orchester.uni-leipzig.de)
- - date_published: 2024-10-22T05:25:20.092717+00:00
-
- ## Paul-Flechsig-Institut – Zentrum für Neuropathologie und Hirnforschung
- - [http://pfi.medizin.uni-leipzig.de](http://pfi.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Pharmazie in Leipzig
- - [https://pharmazie.medizin.uni-leipzig.de](https://pharmazie.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home - Carl Ludwig Institute of Physiology
- - [https://physiologie.medizin.uni-leipzig.de](https://physiologie.medizin.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:03.774317+00:00
-
- ## Piwik › Sign in
- - [https://piwik.ub.uni-leipzig.de](https://piwik.ub.uni-leipzig.de)
- - date_published: 2024-10-22T05:19:34.280635+00:00
-
- ## Universität Leipzig: Research Centre Global Dynamics | ReCentGlobe
- - [https://recentglobe.uni-leipzig.de](https://recentglobe.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:21.930418+00:00
-
- ## Institut für Rechtsmedizin
- - [http://rechtsmedizin.uni-leipzig.de](http://rechtsmedizin.uni-leipzig.de)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Universität Leipzig: Universität Leipzig
- - [https://research.uni-leipzig.de](https://research.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:15.709913+00:00
-
- ## Institut für Kunstpädagogik der Universität Leipzig
- - [https://studienart.gko.uni-leipzig.de](https://studienart.gko.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:12.205900+00:00
-
- ## Willkommen auf der Website des Student*innenRates der Universität Leipzig
- - [https://stura.uni-leipzig.de](https://stura.uni-leipzig.de)
- - date_published: 2024-10-22T05:30:57.310450+00:00
-
- ## Universität Leipzig &gt; Online Einschreibesystem
- - [https://tool.uni-leipzig.de](https://tool.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:47.020980+00:00
-
- ## Start: Universitätsbibliothek Leipzig
- - [https://ub.uni-leipzig.de](https://ub.uni-leipzig.de)
- - date_published: 2024-10-22T05:19:41.019281+00:00
-
- ## Universität Leipzig: Universität Leipzig
- - [https://uni-leipzig.de](https://uni-leipzig.de)
- - date_published: 2024-10-22T05:26:57.195713+00:00
-
- ## Sign in - Matomo
- - [https://uni.wwwstat.rz.uni-leipzig.de](https://uni.wwwstat.rz.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:51.200412+00:00
-
- ## Leipzig Corpora Collection / Wortschatz Leipzig / Deutscher Wortschatz
- - [http://wortschatz.uni-leipzig.de](http://wortschatz.uni-leipzig.de)
- - date_published: 2024-06-30T07:22:44.562760+00:00
-
- ## Universität Leipzig: Biotechnologisch-Biomedizinisches Zentrum
- - [https://www.bbz.uni-leipzig.de](https://www.bbz.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:57.379121+00:00
-
- ## Universität Leipzig: Fakultät für Chemie und Mineralogie
- - [https://www.chemie.uni-leipzig.de](https://www.chemie.uni-leipzig.de)
- - date_published: 2024-06-18T13:26:47.483192+00:00
-
- ## Universität Leipzig: Erziehungswissenschaftliche Fakultät
- - [https://www.erzwiss.uni-leipzig.de](https://www.erzwiss.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:11.392066+00:00
-
- ## Universität Leipzig: Fakultät für Mathematik und Informatik
- - [https://www.fmi.uni-leipzig.de](https://www.fmi.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:23.361993+00:00
-
- ## Universität Leipzig: Frankreichzentrum
- - [https://www.frz.uni-leipzig.de](https://www.frz.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:29.701103+00:00
-
- ## Universität Leipzig: Graduiertenakademie Leipzig
- - [https://www.ga.uni-leipzig.de](https://www.ga.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:36.046111+00:00
-
- ## Universität Leipzig: Fakultät für Geschichte, Kunst- und Regionalwissenschaften
- - [https://www.gkr.uni-leipzig.de](https://www.gkr.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:28.543544+00:00
-
- ## Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE) | Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE)
- - [https://www.imise.uni-leipzig.de](https://www.imise.uni-leipzig.de)
- - date_published: 2024-06-18T04:36:03+00:00
-
- ## Universität Leipzig: Institut für Informatik
- - [https://www.informatik.uni-leipzig.de](https://www.informatik.uni-leipzig.de)
- - date_published: 2024-05-02T12:55:27.381706+00:00
-
- ## IZBI – Interdisciplinary Centre for Bioinformatics
- - [https://www.izbi.uni-leipzig.de](https://www.izbi.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:25.549600+00:00
-
- ## Universität Leipzig: Juristenfakultät
- - [https://www.jura.uni-leipzig.de](https://www.jura.uni-leipzig.de)
- - date_published: 2024-06-18T13:28:04.722129+00:00
-
- ## Universität Leipzig: Kustodie
- - [https://www.kustodie.uni-leipzig.de](https://www.kustodie.uni-leipzig.de)
- - date_published: 2024-06-18T13:27:19.903680+00:00
-
- ## Universität Leipzig: Humboldt Wissenschaftszentrum für Kindesentwicklung
- - [https://www.lfe.uni-leipzig.de](https://www.lfe.uni-leipzig.de)
- - date_published: 2024-10-22T05:27:02.233961+00:00
 

@@ -1,3 +1,19 @@
+ ## Inicio
+ - [https://cultural.javerianacali.edu.co](https://cultural.javerianacali.edu.co)
+ - date_published: 2019-12-19T13:50:00+00:00
+
+ ## Inicio de sesión - ujaveriana
+ - [https://educacioncontinua.javerianacali.edu.co](https://educacioncontinua.javerianacali.edu.co)
+ - date_published: 2024-09-11T16:57:31.162135+00:00
+
+ ## Inicio
+ - [https://emisora.javerianacali.edu.co](https://emisora.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:07.339589+00:00
+
+ ## Home | Eventos Javeriana Cali
+ - [https://eventos.javerianacali.edu.co](https://eventos.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:04.564915+00:00
+
  ## Sign in to your account
  - [https://forja.javerianacali.edu.co](https://forja.javerianacali.edu.co)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -4011,22 +4027,4 @@
  ## Lea Rosema
  - [https://lea.codes](https://lea.codes)
  - date_published: 2024-02-05T00:00:00+00:00
-
- ## Home
- - [https://lyndon.codes](https://lyndon.codes)
- - date_published: 2024-03-06T18:40:07+00:00
-
- ## Maciej codes stuff
- - [https://maciej.codes](https://maciej.codes)
- - date_published: 2023-04-28T09:36:35+00:00
- - tags: ['personal']
-
- ## maddy | UI/UX engineer
- - [https://www.maddy.codes](https://www.maddy.codes)
- - date_published: 2024-04-09T13:43:33+00:00
-
- ## Emmanuel Hayford
- - [https://manny.codes](https://manny.codes)
- - date_published: 2023-10-25T09:03:51.081821+00:00
- - tags: ['personal']
 

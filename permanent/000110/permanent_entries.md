@@ -1,3 +1,64 @@
+ ## Gualtiero Frigerio
+ - [https://www.gfrigerio.com](https://www.gfrigerio.com)
+ - date_published: 2024-06-23T14:36:19.978784+00:00
+
+ ## Gfrsh
+ - [https://gfrsh.com](https://gfrsh.com)
+ - date_published: 2024-08-20T04:29:56.061962+00:00
+
+ ## Go Faster Stripe Box Office
+ - [https://gfsboxoffice.com](https://gfsboxoffice.com)
+ - date_published: 2024-08-07T03:12:57.915620+00:00
+
+ ## Home
+ - [https://www.gfsmith.com](https://www.gfsmith.com)
+ - date_published: 2024-10-29T14:07:19.852439+00:00
+
+ ## Giovanni - gfsolone.Com
+ - [https://gfsolone.com](https://gfsolone.com)
+ - date_published: 2024-11-21T18:34:53.381204+00:00
+
+ ## GFT - Shaping the future of digital business
+ - [https://www.gft.com](https://www.gft.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## GFT Expo | ASEAN's Most Comprehensive Exhibition for Garment and Textile Manufacturing Industry
+ - [http://www.gftexpo.com](http://www.gftexpo.com)
+ - date_published: 2024-06-23T18:43:33+00:00
+
+ ## G FUEL: Best Gaming And Esports Energy Drink
+ - [https://gfuel.com](https://gfuel.com)
+ - date_published: 2024-07-18T05:08:01.083907+00:00
+
+ ## Great Falls Voyagers
+ - [https://www.gfvoyagers.com](https://www.gfvoyagers.com)
+ - date_published: 2024-07-01T09:48:34.420652+00:00
+
+ ## GfxSpeak – From Jon Peddie Research
+ - [https://gfxspeak.com](https://gfxspeak.com)
+ - date_published: 2024-06-18T21:10:38+00:00
+
+ ## GG - GGapp - komunikator dla firm i organizacji
+ - [https://ggapp.com](https://ggapp.com)
+ - date_published: 2024-06-14T07:32:31.200883+00:00
+
+ ## GGather × GGather
+ - [https://core.ggather.com](https://core.ggather.com)
+ - date_published: 2024-05-15T03:05:14.936772+00:00
+
+ ## GGather
+ - [https://web.ggather.com](https://web.ggather.com)
+ - date_published: 2023-03-19T15:01:05+00:00
+ - tags: ['bookmark manager']
+
+ ## GGB Industries | The Originator of the Picoprobe
+ - [https://ggb.com](https://ggb.com)
+ - date_published: 2024-08-08T04:07:44.052597+00:00
+
+ ## Asystent AI GG
+ - [https://ai.ggchat.com](https://ai.ggchat.com)
+ - date_published: 2024-08-20T12:20:59+00:00
+
  ## GG Live Chat : Darmowy Czat na stronę internetową
  - [https://ggchat.com](https://ggchat.com)
  - date_published: 2024-06-14T07:32:41.404331+00:00
@@ -1927,7 +1988,7 @@
  ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
  - date_published: 2024-11-08T19:10:00+00:00
- - tags: ['bookmark managers', 'awesome list']
+ - tags: ['awesome list', 'self-host', 'bookmark managers']
 
  ## GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.
  - [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -2243,6 +2304,16 @@
  - [https://github.com/mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
  - date_published: 2024-11-29T09:43:41+00:00
  - tags: ['self-host', 'recipe manager']
+
+ ## GitHub - elvissteinjr/DesktopPlus: Advanced desktop access for OpenVR
+ - [https://github.com/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
+ - date_published: 2024-11-30T23:00:21+00:00
+ - tags: ['virtual reality']
+
+ ## GitHub - ValveSoftware/openvr: OpenVR SDK
+ - [https://github.com/ValveSoftware/openvr](https://github.com/ValveSoftware/openvr)
+ - date_published: 2024-11-30T23:00:52+00:00
+ - tags: ['virtual reality']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -4043,72 +4114,4 @@
  ## Global Sadaqah
  - [https://admin.globalsadaqah.com](https://admin.globalsadaqah.com)
  - date_published: 2024-10-11T13:37:10.722660+00:00
-
- ## GlobalSadaqah | Pay Zakat, Sadaqah & Waqf Online
- - [https://globalsadaqah.com](https://globalsadaqah.com)
- - date_published: 2024-10-11T13:37:07.762435+00:00
-
- ## Global Sanctions | law, practice & guidance
- - [https://globalsanctions.com](https://globalsanctions.com)
- - date_published: 2024-10-18T20:56:53.908342+00:00
-
- ## Global Sequencer
- - [https://globalsequencer.com](https://globalsequencer.com)
- - date_published: 2021-12-08T07:20:52+00:00
-
- ## GMO GlobalSign Atlas
- - [https://atlas.globalsign.com](https://atlas.globalsign.com)
- - date_published: 2024-05-04T08:14:34.694863+00:00
-
- ## GMOグローバルサインカレッジ
- - [https://college.globalsign.com](https://college.globalsign.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Digital Certificates - PKI - SSL/TLS 🌎 GlobalSign GMO
- - [https://globalsign.com](https://globalsign.com)
- - date_published: 2024-05-04T08:14:36.681281+00:00
-
- ## JCAN証明書｜GMOグローバルサイン
- - [https://jcan-cert.globalsign.com](https://jcan-cert.globalsign.com)
- - date_published: 2024-06-20T07:38:50.026930+00:00
-
- ## SSL・クライアント認証・電子署名ならGMOグローバルサイン
- - [https://jp.globalsign.com](https://jp.globalsign.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Channel Partners - Partner Program | GlobalSign
- - [https://partner.globalsign.com](https://partner.globalsign.com)
- - date_published: 2024-04-22T13:31:32+00:00
-
- ## Marketing Communication Preferences
- - [https://preferences.globalsign.com](https://preferences.globalsign.com)
- - date_published: 2024-05-04T08:14:55.512877+00:00
-
- ## サイト内検索 -  | SSL・電子証明書ならGMOグローバルサイン【公式】
- - [https://search.globalsign.com](https://search.globalsign.com)
- - date_published: 2024-06-20T07:38:55.178578+00:00
-
- ## EN :: GlobalSign
- - [https://shop.globalsign.com](https://shop.globalsign.com)
- - date_published: 2024-05-04T08:14:38.248320+00:00
-
- ## GMO GlobalSign Status
- - [https://status.globalsign.com](https://status.globalsign.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## GlobalSign Support - Product Support | GlobalSign
- - [https://support.globalsign.com](https://support.globalsign.com)
- - date_published: 2024-05-04T08:14:51.402627+00:00
-
- ## GlobalSKope Publishing Society - Peer reviewed open access scientific and engineering journals publishers | Environmental Sciences and Research | Geospatial Engineering and Technology | Geosciences and Geo-Information Technology
- - [http://globalskope.com](http://globalskope.com)
- - date_published: 2024-10-29T17:08:18.162024+00:00
-
- ## Waimaoq
- - [https://formcs.globalso.com](https://formcs.globalso.com)
- - date_published: 2024-10-15T20:29:51.012389+00:00
-
- ## 全球搜® - 专注于外贸营销推广, Google推广, Google SEO/SEM/SNS, 外贸网站建设 - 谷道科技
- - [https://www.globalso.com](https://www.globalso.com)
- - date_published: 2024-10-15T20:29:48.607031+00:00
 

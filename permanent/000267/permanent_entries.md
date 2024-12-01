@@ -1,3 +1,231 @@
+ ## Suffolk University in Boston - Suffolk University
+ - [https://boston.suffolk.edu](https://boston.suffolk.edu)
+ - date_published: 2024-06-17T04:04:28.950785+00:00
+
+ ## Sign In
+ - [https://canvas.suffolk.edu](https://canvas.suffolk.edu)
+ - date_published: 2024-06-17T04:04:34.336462+00:00
+
+ ## Digital Collections @ Suffolk
+ - [https://dc.suffolk.edu](https://dc.suffolk.edu)
+ - date_published: 1953-09-05T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.suffolk.edu](https://events.suffolk.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Graduate Admission | Suffolk University | Boston, MA
+ - [https://grad.suffolk.edu](https://grad.suffolk.edu)
+ - date_published: 2024-06-17T04:04:08.192541+00:00
+
+ ## Web Server's Default Page
+ - [http://map.suffolk.edu](http://map.suffolk.edu)
+ - date_published: 2020-11-02T05:51:47+00:00
+
+ ## Sites @ Suffolk University – A Community and Publishing Platform at Suffolk University
+ - [https://sites.suffolk.edu](https://sites.suffolk.edu)
+ - date_published: 2024-10-16T16:46:15+00:00
+
+ ## Suffolk University in Boston - Suffolk University
+ - [https://suffolk.edu](https://suffolk.edu)
+ - date_published: 2024-10-16T17:12:05.330506+00:00
+
+ ## waprodB
+ - [https://waprod.suffolk.edu](https://waprod.suffolk.edu)
+ - date_published: 2019-01-28T17:54:00+00:00
+
+ ## Aveda Institute Fort Myers | Esthetician School | Be Aveda
+ - [http://www.sunstate.edu](http://www.sunstate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## SUNY SAVR RESOURCES
+ - [https://response.suny.edu](https://response.suny.edu)
+ - date_published: 2024-09-15T15:12:10.222501+00:00
+
+ ## State University of New York Press
+ - [http://www.sunypress.edu](http://www.sunypress.edu)
+ - date_published: 2024-06-28T13:14:08+00:00
+
+ ## HOME | Department of Computer Science
+ - [http://www.cs.sunysb.edu](http://www.cs.sunysb.edu)
+ - date_published: 2024-07-15T11:29:37.402361+00:00
+
+ ## Stony Brook Mathematics Department and Institute for Mathematical Sciences | Mathematics Department and the Institute for Mathematical Sciences
+ - [http://www.math.sunysb.edu](http://www.math.sunysb.edu)
+ - date_published: 2024-06-30T08:23:43.299043+00:00
+
+ ## Stony Brook University
+ - [http://www.sunysb.edu](http://www.sunysb.edu)
+ - date_published: 2024-06-23T20:38:32.041303+00:00
+
+ ## Shahjalal University of Science & Technology
+ - [http://www.sust.edu](http://www.sust.edu)
+ - date_published: 2024-07-02T19:03:03.926347+00:00
+
+ ## Home - SVA MFA Interaction Design
+ - [http://interactiondesign.sva.edu](http://interactiondesign.sva.edu)
+ - date_published: 2023-04-04T11:57:26+00:00
+
+ ## NYC Product Design Master's Program - Product Design at SVA
+ - [https://productsofdesign.sva.edu](https://productsofdesign.sva.edu)
+ - date_published: 2024-09-05T12:58:38.102249+00:00
+
+ ## Swarthmore College - ITS Blog -
+ - [http://blogs.swarthmore.edu](http://blogs.swarthmore.edu)
+ - date_published: 2024-07-02T06:18:36.268401+00:00
+
+ ## The Bulletin
+ - [https://bulletin.swarthmore.edu](https://bulletin.swarthmore.edu)
+ - date_published: 2020-11-17T12:56:32+00:00
+
+ ## Swat Central - Swarthmore College Calendar
+ - [http://calendar.swarthmore.edu](http://calendar.swarthmore.edu)
+ - date_published: 2024-03-07T20:02:14+00:00
+
+ ## Swarthmore College: Campus Map
+ - [https://campusmap.swarthmore.edu](https://campusmap.swarthmore.edu)
+ - date_published: 2019-05-17T19:02:30+00:00
+
+ ## Swarthmore College - Acalog ACMS™
+ - [https://catalog.swarthmore.edu](https://catalog.swarthmore.edu)
+ - date_published: 2024-05-07T20:37:39.743064+00:00
+
+ ## classifieds.swarthmore.edu
+ - [https://classifieds.swarthmore.edu](https://classifieds.swarthmore.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Giving
+ - [https://lifechanging.swarthmore.edu](https://lifechanging.swarthmore.edu)
+ - date_published: 2020-10-13T18:57:53+00:00
+
+ ## SCCS Homepage
+ - [http://sccs.swarthmore.edu](http://sccs.swarthmore.edu)
+ - date_published: 2024-08-20T05:17:18.170564+00:00
+
+ ## The Scott Arboretum of Swarthmore College - Swarthmore, PA
+ - [https://scott-dev.domains.swarthmore.edu](https://scott-dev.domains.swarthmore.edu)
+ - date_published: 2024-07-01T20:49:01.731805+00:00
+
+ ## Swarthmore Campus & Community Store
+ - [https://store.swarthmore.edu](https://store.swarthmore.edu)
+ - date_published: 2024-05-07T20:37:28.387822+00:00
+
+ ## Swarthmore Home :: Swarthmore College
+ - [https://swarthmore.edu](https://swarthmore.edu)
+ - date_published: 2024-05-07T20:32:18.035941+00:00
+
+ ## Swat Central - Swarthmore College Calendar
+ - [https://swatcentral.swarthmore.edu](https://swatcentral.swarthmore.edu)
+ - date_published: 2024-03-07T20:02:14+00:00
+
+ ## Swarthmore College - ITS Blog -
+ - [http://weblogs.swarthmore.edu](http://weblogs.swarthmore.edu)
+ - date_published: 2024-08-11T12:50:46.042080+00:00
+
+ ## Works: Scholarship, Research, & Creative Expression at Swarthmore College
+ - [https://works.swarthmore.edu](https://works.swarthmore.edu)
+ - date_published: 2024-07-02T10:48:33.082765+00:00
+
+ ## Computer Science
+ - [https://www.cs.swarthmore.edu](https://www.cs.swarthmore.edu)
+ - date_published: 2016-06-28T19:44:24+00:00
+
+ ## Alumni
+ - [https://giftplanning.swlaw.edu](https://giftplanning.swlaw.edu)
+ - date_published: 2024-09-15T23:33:03.302304+00:00
+
+ ## Southwestern Law School - Los Angeles
+ - [https://swlaw.edu](https://swlaw.edu)
+ - date_published: 2024-06-14T22:59:38+00:00
+
+ ## UT Southwestern Medical Center
+ - [https://profileplus.swmed.edu](https://profileplus.swmed.edu)
+ - date_published: 2014-05-05T19:03:43+00:00
+
+ ## SWOSU Digital Commons
+ - [https://dc.swosu.edu](https://dc.swosu.edu)
+ - date_published: 2024-09-03T20:40:48.011161+00:00
+
+ ## Mission Juno
+ - [https://www.missionjuno.swri.edu](https://www.missionjuno.swri.edu)
+ - date_published: 2024-11-08T11:28:30.985001+00:00
+
+ ## St. Xavier's College (Autonomous), Kolkata
+ - [http://www.sxccal.edu](http://www.sxccal.edu)
+ - date_published: 2024-07-02T21:15:52+00:00
+
+ ## Institutional Effectiveness - IE – Syracuse University
+ - [http://assessment.syr.edu](http://assessment.syr.edu)
+ - date_published: 2024-07-01T20:50:42.989102+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.syr.edu](https://blackboard.syr.edu)
+ - date_published: 2004-07-01T20:49:36+00:00
+
+ ## Home - Campus Framework – Syracuse University
+ - [https://campusframework.syr.edu](https://campusframework.syr.edu)
+ - date_published: 2024-02-08T22:03:40.531573+00:00
+
+ ## Center for Learning and Student Success (CLASS) - Center for Learning and Student Success  – Syracuse University
+ - [https://class.syr.edu](https://class.syr.edu)
+ - date_published: 2024-07-01T20:50:29.375691+00:00
+
+ ## Syracuse University - Acalog ACMS™
+ - [http://coursecatalog.syr.edu](http://coursecatalog.syr.edu)
+ - date_published: 2024-07-01T20:50:26.684172+00:00
+
+ ## Now Loading...
+ - [http://directory.syr.edu](http://directory.syr.edu)
+ - date_published: 2014-10-28T13:24:58+00:00
+
+ ## Center for Disability Resources
+ - [https://disabilityresources.syr.edu](https://disabilityresources.syr.edu)
+ - date_published: 2024-07-01T20:50:34.987352+00:00
+
+ ## Campus Dining Home - Dining – Syracuse University
+ - [https://foodservices.syr.edu](https://foodservices.syr.edu)
+ - date_published: 2024-10-25T19:36:38.749899+00:00
+
+ ## Welcome - Human Resources – Syracuse University
+ - [https://hr.syr.edu](https://hr.syr.edu)
+ - date_published: 2024-07-01T20:49:34.826104+00:00
+
+ ## Home - Blackstone LaunchPad
+ - [https://launchpad.syr.edu](https://launchpad.syr.edu)
+ - date_published: 2024-10-25T19:36:32.811699+00:00
+
+ ## Syracuse University College of Law
+ - [http://law.syr.edu](http://law.syr.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home - Living Learning Communities
+ - [http://lc.syr.edu](http://lc.syr.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## EZproxy | Syracuse University Libraries
+ - [http://libezproxy.syr.edu](http://libezproxy.syr.edu)
+ - date_published: 2024-06-30T01:30:01.441020+00:00
+
+ ## Syracuse University Libraries - Home
+            
+            
+                
+                - Syracuse University Libraries
+ - [http://library.syr.edu](http://library.syr.edu)
+ - date_published: 2024-06-18T21:39:29.915003+00:00
+
+ ## Middle States Commission on Higher Education
+ - [https://middlestates.syr.edu](https://middlestates.syr.edu)
+ - date_published: 2024-05-07T20:37:45.595953+00:00
+
+ ## MySlice - Syracuse University
+ - [https://myslice.syr.edu](https://myslice.syr.edu)
+ - date_published: 2023-03-22T20:40:25+00:00
+
+ ## Newhouse School at Syracuse University
+ - [http://newhouse.syr.edu](http://newhouse.syr.edu)
+ - date_published: 2024-07-01T07:26:43.125493+00:00
+
  ## Home
  - [https://news.syr.edu](https://news.syr.edu)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -3781,228 +4009,4 @@
  ## UChicago Biosciences | The University of Chicago
  - [https://biosciences.uchicago.edu](https://biosciences.uchicago.edu)
  - date_published: 2024-05-07T20:46:05.638600+00:00
-
- ## Biological Sciences Collegiate Division
- - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
- - date_published: 2024-05-07T20:46:08.412983+00:00
-
- ## Office of Academic Affairs
- - [https://bsdacademicaffairs.uchicago.edu](https://bsdacademicaffairs.uchicago.edu)
- - date_published: 2024-07-01T19:03:59+00:00
-
- ## Home
- - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
- - date_published: 2024-05-07T20:46:01.960212+00:00
-
- ## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
- - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
- - date_published: 2024-05-07T20:45:58.533847+00:00
-
- ## UChicago Alumni & Friends
- - [https://campaign.uchicago.edu](https://campaign.uchicago.edu)
- - date_published: 2023-06-30T21:11:58+00:00
-
- ## Committee on Computational and Applied Mathematics | The University of Chicago
- - [https://cam.uchicago.edu](https://cam.uchicago.edu)
- - date_published: 2024-07-14T23:34:12+00:00
-
- ## Home
- - [https://careeradvancement.uchicago.edu](https://careeradvancement.uchicago.edu)
- - date_published: 2024-07-01T22:33:00.196530+00:00
-
- ## UChicago CARES Website – Sandbox | University of Chicago
- - [https://cares.uchicago.edu](https://cares.uchicago.edu)
- - date_published: 2024-07-01T22:37:19.973466+00:00
-
- ## Search Home :: Library Catalog
- - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:33.373077+00:00
-
- ## College Center for Research and Fellowships | The University of Chicago
- - [https://ccrf.uchicago.edu](https://ccrf.uchicago.edu)
- - date_published: 2024-07-01T22:32:54.273096+00:00
-
- ## College Honors & Awards | The University of Chicago
- - [https://cha.uchicago.edu](https://cha.uchicago.edu)
- - date_published: 2024-07-01T18:41:20+00:00
-
- ## Home
- - [https://chicagostudies.uchicago.edu](https://chicagostudies.uchicago.edu)
- - date_published: 2024-08-08T15:02:05+00:00
-
- ## Chicago Unbound - Chicago Law Faculty Scholarship
- - [https://chicagounbound.uchicago.edu](https://chicagounbound.uchicago.edu)
- - date_published: 2024-08-18T07:56:59.864711+00:00
-
- ## Computation Institute – A joint initiative of UChicago and Argonne, 1999-2018
- - [http://ci.uchicago.edu](http://ci.uchicago.edu)
- - date_published: 2024-06-30T11:19:46.312521+00:00
-
- ## Climate and Carbon Cycle Models
- - [http://climatemodels.uchicago.edu](http://climatemodels.uchicago.edu)
- - date_published: 2023-08-01T17:58:09+00:00
-
- ## Center for Continuing Medical Education |
- - [https://cme.uchicago.edu](https://cme.uchicago.edu)
- - date_published: 2024-05-07T20:46:10.878930+00:00
-
- ## Concurrent ML home page
- - [http://cml.cs.uchicago.edu](http://cml.cs.uchicago.edu)
- - date_published: 2002-10-09T13:30:51+00:00
-
- ## PhD Program in Computational Neuroscience | The University of Chicago
- - [https://cns.uchicago.edu](https://cns.uchicago.edu)
- - date_published: 2024-07-01T14:59:33+00:00
-
- ## College Admissions
- - [https://collegeadmissions.uchicago.edu](https://collegeadmissions.uchicago.edu)
- - date_published: 2024-07-01T19:04:22+00:00
-
- ## The College Catalog 2024–2025 < University of Chicago Catalog
- - [http://collegecatalog.uchicago.edu](http://collegecatalog.uchicago.edu)
- - date_published: 2024-07-01T17:52:46+00:00
-
- ## College Surveys | College Surveys | The University of Chicago
- - [https://collegesurveys.uchicago.edu](https://collegesurveys.uchicago.edu)
- - date_published: 2024-07-01T22:33:25+00:00
-
- ## | The College | The University of Chicago | The University of Chicago
- - [https://college.uchicago.edu](https://college.uchicago.edu)
- - date_published: 2024-06-28T16:37:15+00:00
-
- ## Communications
- - [https://communications.uchicago.edu](https://communications.uchicago.edu)
- - date_published: 2024-07-01T22:39:24.859696+00:00
-
- ## Coronavirus Disease 2019 (COVID-19) Information
- - [https://coronavirusupdates.uchicago.edu](https://coronavirusupdates.uchicago.edu)
- - date_published: 2024-06-29T21:12:09.827066+00:00
-
- ## Catalogs - Services Portal
- - [https://creativeportal.uchicago.edu](https://creativeportal.uchicago.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## CENTER FOR RESEARCH INFORMATICS
- - [http://cri.uchicago.edu](http://cri.uchicago.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Campus and Student Life | The University of Chicago
- - [https://csl.uchicago.edu](https://csl.uchicago.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Homepage - Department of Computer Science
- - [https://cs.uchicago.edu](https://cs.uchicago.edu)
- - date_published: 2024-06-30T09:11:12.234825+00:00
-
- ## Homepage | DSI
- - [https://datascience.uchicago.edu](https://datascience.uchicago.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Center for Digital Accessibility | The University of Chicago
- - [https://digitalaccessibility.uchicago.edu](https://digitalaccessibility.uchicago.edu)
- - date_published: 2024-07-01T22:17:16+00:00
-
- ## People Search | Online Directory | The University of Chicago
- - [https://directory.uchicago.edu](https://directory.uchicago.edu)
- - date_published: 2024-06-29T21:18:59.291804+00:00
-
- ## The University of Chicago Student Disability Services
- - [https://disabilities.uchicago.edu](https://disabilities.uchicago.edu)
- - date_published: 2024-07-01T21:41:58+00:00
-
- ## Diversity & Inclusion | The University of Chicago
- - [https://diversityandinclusion.uchicago.edu](https://diversityandinclusion.uchicago.edu)
- - date_published: 2024-06-29T20:44:38+00:00
-
- ## Homepage | The University of Chicago Divinity School
- - [https://divinity.uchicago.edu](https://divinity.uchicago.edu)
- - date_published: 2024-07-01T19:47:11+00:00
-
- ## Distributed Systems Laboratory Homepage
- - [http://dsl.cs.uchicago.edu](http://dsl.cs.uchicago.edu)
- - date_published: 2009-10-13T22:24:27+00:00
-
- ## Ecology & Evolution | The University of Chicago
- - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
- - date_published: 2024-05-07T14:14:13.363606+00:00
-
- ## Graduate Program in Ecology & Evolution | The University of Chicago
- - [https://eegraduate.uchicago.edu](https://eegraduate.uchicago.edu)
- - date_published: 2024-06-28T20:08:15+00:00
-
- ## Center for Effective Government - Center for Effective Government
- - [https://effectivegov.uchicago.edu](https://effectivegov.uchicago.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://ehsa-prd-01.uchicago.edu](https://ehsa-prd-01.uchicago.edu)
- - date_published: 2022-10-24T14:30:17+00:00
-
- ## English Language Institute | The University of Chicago
- - [http://esl.uchicago.edu](http://esl.uchicago.edu)
- - date_published: 2024-07-01T22:22:02+00:00
-
- ## Calendar of Events | The University of Chicago
- - [https://events.uchicago.edu](https://events.uchicago.edu)
- - date_published: 2024-05-07T20:46:00.260987+00:00
-
- ## The University of Chicago Facilities Services
- - [https://facilities.uchicago.edu](https://facilities.uchicago.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## UChicago - Sign In
- - [https://facultyaccess.uchicago.edu](https://facultyaccess.uchicago.edu)
- - date_published: 2024-07-03T04:06:47.437138+00:00
-
- ## Home
- - [https://financialaid.uchicago.edu](https://financialaid.uchicago.edu)
- - date_published: 2024-07-01T22:33:14.172903+00:00
-
- ## Financial Mathematics | The University of Chicago
- - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
- - date_published: 2024-05-01T04:44:01.419765+00:00
-
- ## Climate and Carbon Cycle Models
- - [http://forecast.uchicago.edu](http://forecast.uchicago.edu)
- - date_published: 2023-08-01T17:58:09+00:00
-
- ## Geophysical Sciences
- - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
- - date_published: 2023-10-25T19:00:02.742597+00:00
-
- ## Homepage
- - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Make a Gift | UChicago Alumni & Friends
- - [https://giving.uchicago.edu](https://giving.uchicago.edu)
- - date_published: 2024-06-29T21:12:14.033987+00:00
-
- ## Glaze - Protecting Artists from Generative AI
- - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
- - date_published: 2023-10-25T19:00:05.496930+00:00
-
- ## A Global University
- - [https://global.uchicago.edu](https://global.uchicago.edu)
- - date_published: 2024-07-01T22:31:53+00:00
-
- ## The Goodspeed Manuscript Collection
- - [https://goodspeed.lib.uchicago.edu](https://goodspeed.lib.uchicago.edu)
- - date_published: 2024-08-06T19:19:38.333146+00:00
-
- ## Home - UChicagoGRAD | The University of Chicago
- - [https://grad.uchicago.edu](https://grad.uchicago.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome to
- - [https://grahamschool.uchicago.edu](https://grahamschool.uchicago.edu)
- - date_published: 2024-07-01T21:47:53+00:00
-
- ## Welcome to
- - [https://graham.uchicago.edu](https://graham.uchicago.edu)
- - date_published: 2024-05-07T20:46:53.098712+00:00
-
- ## Library Guides: Research Guides: Subject Guides
- - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:31.938288+00:00
 

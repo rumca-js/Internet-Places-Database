@@ -1,3 +1,8 @@
+ ## Lou Plummer's Obsidian Posts
+		- Lou Plummer's Obsidian Posts
+ - [https://amerpie2.micro.blog](https://amerpie2.micro.blog)
+ - date_published: 2024-07-03T23:53:38+00:00
+
  ## Lou Plummer
  - [https://amerpiegateway.micro.blog](https://amerpiegateway.micro.blog)
  - date_published: 2024-06-11T23:48:23+00:00
@@ -4038,8 +4043,4 @@ Educação
  ## HOLOBOX | Projetores e projetos de holograma | Brasil
  - [https://www.holobox.com.br](https://www.holobox.com.br)
  - date_published: 2024-09-25T12:04:08.574326+00:00
-
- ## A melhor plataforma de hospedagem para você e seu negócio! | HostGator
- - [https://www.hostgator.com.br](https://www.hostgator.com.br)
- - date_published: 2021-05-01T15:00:00+00:00
 

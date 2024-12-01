@@ -1,3 +1,11 @@
+ ## Lapsus
+ - [https://www.lapsus.cat](https://www.lapsus.cat)
+ - date_published: 2024-09-06T21:46:54.599403+00:00
+
+ ## La Sala
+ - [http://www.lasalavng.cat](http://www.lasalavng.cat)
+ - date_published: 2024-09-13T11:32:01+00:00
+
  ## Portada
  - [https://www.laxarxa.cat](https://www.laxarxa.cat)
  - date_published: 2024-09-17T21:14:56.904131+00:00
@@ -4028,12 +4036,4 @@
  ## Brain & Heart Communication - Social Media Agentur
  - [https://2024.b-h.ch](https://2024.b-h.ch)
  - date_published: 2024-07-17T00:00:00+00:00
-
- ## Brain & Heart Communication - Social Media Agentur
- - [https://b-h.ch](https://b-h.ch)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Biel International Chess Festival
- - [https://www.bielchessfestival.ch](https://www.bielchessfestival.ch)
- - date_published: 2024-07-19T18:57:25+00:00
 

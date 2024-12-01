@@ -1,3 +1,27 @@
+ ## The Future Is Like Pie
+ - [https://thefutureislikepie.beehiiv.com](https://thefutureislikepie.beehiiv.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## The Horizon
+ - [https://thehorizonnews.beehiiv.com](https://thehorizonnews.beehiiv.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## The Productivist
+ - [https://theproductivist.beehiiv.com](https://theproductivist.beehiiv.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## The Simulation Strategists
+ - [https://the-simulation-strategists.beehiiv.com](https://the-simulation-strategists.beehiiv.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Thomas' Newsletter
+ - [https://thomas.beehiiv.com](https://thomas.beehiiv.com)
+ - date_published: 2024-09-13T21:30:19+00:00
+
+ ## The Loesch Letter
+ - [https://tll.beehiiv.com](https://tll.beehiiv.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## The Local Optimist Digest
  - [https://tlodigest.beehiiv.com](https://tlodigest.beehiiv.com)
  - date_published: 2024-08-06T20:05:40+00:00
@@ -3051,6 +3075,10 @@
  - [https://besthdhelmetcamera.com](https://besthdhelmetcamera.com)
  - date_published: 2020-09-17T10:26:38+00:00
 
+ ## Best Hobby
+ - [https://besthobby.com](https://besthobby.com)
+ - date_published: 2024-11-30T20:00:04.966979+00:00
+
  ## Bestia
  - [https://bestiala.com](https://bestiala.com)
  - date_published: 2024-06-29T11:00:16.484876+00:00
@@ -4006,32 +4034,4 @@
  ## Between the Bolter and Me
  - [https://www.betweenthebolterandme.com](https://www.betweenthebolterandme.com)
  - date_published: 2024-06-13T00:00:00+00:00
-
- ## (no title)
- - [http://betweenthelinesbookblog.com](http://betweenthelinesbookblog.com)
- - date_published: 2024-09-17T17:09:16.556387+00:00
-
- ## Between The Spread
- - [https://betweenthespread.com](https://betweenthespread.com)
- - date_published: 2024-08-30T13:06:40+00:00
-
- ## BETWEEN TWO CITIES
- - [http://betweentwocities.com](http://betweentwocities.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Between Exchange
- - [https://betweenx.com](https://betweenx.com)
- - date_published: 2024-06-25T23:16:19.470570+00:00
-
- ## Between Exchange
- - [https://en.betweenx.com](https://en.betweenx.com)
- - date_published: 2024-05-06T18:03:40.060629+00:00
-
- ## SMS Marketing Services
- - [https://www.betwext.com](https://www.betwext.com)
- - date_published: 2024-07-02T20:45:29.262189+00:00
-
- ## BetWinner Guidebook | BetWinner Platform
- - [https://guidebook.betwinner.com](https://guidebook.betwinner.com)
- - date_published: 2024-05-07T00:00:00+00:00
 

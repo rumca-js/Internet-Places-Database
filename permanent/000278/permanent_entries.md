@@ -1,3 +1,227 @@
+ ## CNMC - Comparador de Ofertas de Energía
+ - [https://comparador.cnmc.gob.es](https://comparador.cnmc.gob.es)
+ - date_published: 2024-10-18T19:00:40.528025+00:00
+
+ ## Sede Electrónica CNMV
+ - [https://sede.cnmv.gob.es](https://sede.cnmv.gob.es)
+ - date_published: 2021-04-13T15:23:04+00:00
+
+ ## Trade Barriers - Start
+ - [http://barrerascomerciales.comercio.gob.es](http://barrerascomerciales.comercio.gob.es)
+ - date_published: 2024-07-18T04:27:20.640474+00:00
+
+ ## Ministry of Economy, Commerce and Business - Trade
+ - [https://comercio.gob.es](https://comercio.gob.es)
+ - date_published: 2024-07-02T21:19:21.120035+00:00
+
+ ## Start | CSD - Consejo Superior de Deportes
+ - [http://www.csd.gob.es](http://www.csd.gob.es)
+ - date_published: 2024-10-15T02:01:26.887765+00:00
+
+ ## Consejo Superior de Investigaciones Científicas - CSIC - csic.es | Sede CSIC
+ - [https://sede.csic.gob.es](https://sede.csic.gob.es)
+ - date_published: 2024-10-14T23:52:39.968894+00:00
+
+ ## Inicio
+ - [https://agendacultural.cultura.gob.es](https://agendacultural.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Protege la Cultura
+ - [https://culturaenpositivo.cultura.gob.es](https://culturaenpositivo.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Portada de la web del Ministerio de Cultura
+ - [https://cultura.gob.es](https://cultura.gob.es)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Actualidad de Cultura y Ciudadanía
+ - [https://culturayciudadania.cultura.gob.es](https://culturayciudadania.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Inicio
+ - [https://culturaymecenazgo.cultura.gob.es](https://culturaymecenazgo.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Portal de Archivos Españoles (PARES)
+ - [http://pares.cultura.gob.es](http://pares.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Presentación
+ - [http://portalinmaterial.cultura.gob.es](http://portalinmaterial.cultura.gob.es)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Portada de la web del Ministerio de Cultura
+ - [https://culturaydeporte.gob.es](https://culturaydeporte.gob.es)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Datos abiertos del Gobierno de España – Datos.gob.es
+ - [http://datos.gob.es](http://datos.gob.es)
+ - date_published: 2024-06-16T17:11:46+00:00
+
+ ## Página principal - Ministerio de Defensa de España
+ - [https://www.defensa.gob.es](https://www.defensa.gob.es)
+ - date_published: 2024-07-12T12:28:55+00:00
+
+ ## Portada MTDFP:: Ministerio para la Transformación Digital y de la Función Pública - Gobierno de España
+ - [https://digital.gob.es](https://digital.gob.es)
+ - date_published: 2024-07-17T21:19:15+00:00
+
+ ## Bienvenido a la Web del Ministerio de Educación, Formación Profesional y Deportes
+ - [https://www.educacion.gob.es](https://www.educacion.gob.es)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Bienvenido a la Web del Ministerio de Educación, Formación Profesional y Deportes
+ - [https://www.educacionyfp.gob.es](https://www.educacionyfp.gob.es)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home | España Digital 2026
+ - [https://espanadigital.gob.es](https://espanadigital.gob.es)
+ - date_published: 2024-09-10T21:06:28.986626+00:00
+
+ ## Ministerio de Asuntos exteriores, Unión Europea y Cooperación
+ - [http://www.exteriores.gob.es](http://www.exteriores.gob.es)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## FACe
+ - [https://face.gob.es](https://face.gob.es)
+ - date_published: 2024-07-02T17:42:11.140138+00:00
+
+ ## Futuros | Oficina Nacional de Prospectiva y Estrategia del Gobierno de España
+ - [https://futuros.gob.es](https://futuros.gob.es)
+ - date_published: 2024-07-04T13:43:09+00:00
+
+ ## Home - Generación D
+ - [https://generaciond.gob.es](https://generaciond.gob.es)
+ - date_published: 2024-06-12T03:29:38.265259+00:00
+
+ ## GUARDIACIVIL - Sede Electrónica de la Guardia Civil
+ - [https://sede.guardiacivil.gob.es](https://sede.guardiacivil.gob.es)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Secretaría General de Fondos Europeos: SGFE
+ - [https://www.dgfc.sepg.hacienda.gob.es](https://www.dgfc.sepg.hacienda.gob.es)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Secretaría General de Fondos Europeos: SGFE
+ - [https://www.fondoseuropeos.hacienda.gob.es](https://www.fondoseuropeos.hacienda.gob.es)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Inicio
+ - [https://www.hacienda.gob.es](https://www.hacienda.gob.es)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## IGAE:Intervención General de la Administración del Estado
+ - [https://www.igae.pap.hacienda.gob.es](https://www.igae.pap.hacienda.gob.es)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Instituto de las Mujeres
+ - [http://www.inmujer.gob.es](http://www.inmujer.gob.es)
+ - date_published: 2024-07-02T09:51:42+00:00
+
+ ## Instituto de las Mujeres
+ - [https://www.inmujeres.gob.es](https://www.inmujeres.gob.es)
+ - date_published: 2024-06-24T05:42:26+00:00
+
+ ## Presidency of the Government of Spain
+ - [https://lamoncloa.gob.es](https://lamoncloa.gob.es)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Ministerio de Derechos Sociales, Consumo y Agenda 2030 - Web del Ministerio de Derechos Sociales, Consumo y Agenda 2030
+ - [https://www.mdsocialesa2030.gob.es](https://www.mdsocialesa2030.gob.es)
+ - date_published: 2024-07-01T14:24:58+00:00
+
+ ## redirigeme
+ - [http://www.mecd.gob.es](http://www.mecd.gob.es)
+ - date_published: 2019-12-17T12:21:49+00:00
+
+ ## S.E. de Digitalización e Inteligencia Artificial y S.E. de Telecomunicaciones e Infraestructuras Digitales - Digitalisation and Artificial Intelligence - Telecommunications and Digital Infrastructure
+ - [https://avancedigital.mineco.gob.es](https://avancedigital.mineco.gob.es)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Ministerio de Economía, Comercio y Empresa
+ - [https://portal.mineco.gob.es](https://portal.mineco.gob.es)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Televisión digital - Index
+ - [https://televisiondigital.mineco.gob.es](https://televisiondigital.mineco.gob.es)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Secretaría General de Fondos Europeos: SGFE
+ - [http://www.dgfc.sepg.minhap.gob.es](http://www.dgfc.sepg.minhap.gob.es)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Ministerio para la Transición Ecológica y el Reto Demográfico
+ - [https://www.miteco.gob.es](https://www.miteco.gob.es)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Ministerio de Trabajo y Economía Social
+ - [https://expinterweb.mites.gob.es](https://expinterweb.mites.gob.es)
+ - date_published: 2023-04-13T08:25:24+00:00
+
+ ## Gabinete de Comunicación
+ - [https://prensa.mites.gob.es](https://prensa.mites.gob.es)
+ - date_published: 2024-07-16T05:51:20+00:00
+
+ ## Página principal. Ministerio de Trabajo y Economía Social
+ - [https://sede.mites.gob.es](https://sede.mites.gob.es)
+ - date_published: 2024-07-11T11:54:36+00:00
+
+ ## Página principal. Ministerio de Trabajo y Economía Social
+ - [https://www.mites.gob.es](https://www.mites.gob.es)
+ - date_published: 2024-06-12T11:15:47.480066+00:00
+
+ ## portada mivau | Ministerio de Vivienda y Agenda Urbana
+ - [https://www.mivau.gob.es](https://www.mivau.gob.es)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Inicio
+ - [https://www.mjusticia.gob.es](https://www.mjusticia.gob.es)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## CPAGE – CATÁLOGO DE PUBLICACIONES DE LA ADMINISTRACIÓN GENERAL DEL ESTADO
+ - [https://cpage.mpr.gob.es](https://cpage.mpr.gob.es)
+ - date_published: 2024-10-15T17:51:56+00:00
+
+ ## Ministerio de Sanidad - Sede Electrónica
+ - [https://sede.mscbs.gob.es](https://sede.mscbs.gob.es)
+ - date_published: 2024-10-15T03:23:44.539225+00:00
+
+ ## Estilos de vida saludable
+ - [http://www.estilosdevidasaludable.mscbs.gob.es](http://www.estilosdevidasaludable.mscbs.gob.es)
+ - date_published: 2024-03-11T10:19:52+00:00
+
+ ## Servicios Centrales
+ - [http://www.ingesa.mscbs.gob.es](http://www.ingesa.mscbs.gob.es)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Ministerio de Sanidad
+ - [https://www.mscbs.gob.es](https://www.mscbs.gob.es)
+ - date_published: 2024-06-10T06:30:53+00:00
+
+ ## Plan de Recuperación, Transformación y Resiliencia Gobierno de España
+ - [https://planderecuperacion.gob.es](https://planderecuperacion.gob.es)
+ - date_published: 2024-07-02T17:32:36.334209+00:00
+
+ ## Inicio | Sede
+ - [https://sede.red.gob.es](https://sede.red.gob.es)
+ - date_published: 2024-09-27T07:56:43.893231+00:00
+
+ ## Patronato - El Real Patronato sobre Discapacidad
+ - [https://www.rpdiscapacidad.gob.es](https://www.rpdiscapacidad.gob.es)
+ - date_published: 2024-09-12T11:55:19.500002+00:00
+
+ ## Comisión Nacional de Reproducción Humana Asistida
+ - [https://cnrha.sanidad.gob.es](https://cnrha.sanidad.gob.es)
+ - date_published: 2024-10-15T03:23:55.901751+00:00
+
+ ## Servicios Centrales
+ - [https://ingesa.sanidad.gob.es](https://ingesa.sanidad.gob.es)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud
+ - [https://redets.sanidad.gob.es](https://redets.sanidad.gob.es)
+ - date_published: 2024-10-15T03:23:40.129886+00:00
+
  ## Ministerio de Sanidad
  - [https://www.sanidad.gob.es](https://www.sanidad.gob.es)
  - date_published: 2024-07-10T07:27:46+00:00
@@ -3805,229 +4029,4 @@
  ## EDPB | European Data Protection Board
  - [https://edpb.europa.eu](https://edpb.europa.eu)
  - date_published: 2024-05-02T09:56:08.489849+00:00
-
- ## EDPS Homepage
- - [https://edps.europa.eu](https://edps.europa.eu)
- - date_published: 2024-05-09T06:26:17.419404+00:00
-
- ## Homepage - European Education Area
- - [https://education.ec.europa.eu](https://education.ec.europa.eu)
- - date_published: 2024-07-01T09:01:04+00:00
-
- ## European Environment Agency's home page
- - [https://eea.europa.eu](https://eea.europa.eu)
- - date_published: 2023-10-25T19:10:12.718824+00:00
-
- ## redirect
- - [https://eeas.europa.eu](https://eeas.europa.eu)
- - date_published: 2022-03-28T13:01:39+00:00
-
- ## European Environment Information and Observation Network
- - [https://eionet.europa.eu](https://eionet.europa.eu)
- - date_published: 2024-05-07T23:45:12.776592+00:00
-
- ## Homepage
- - [https://eiopa.europa.eu](https://eiopa.europa.eu)
- - date_published: 2024-09-26T21:01:51.522219+00:00
-
- ## European Institute of Innovation & Technology (EIT) | EIT
- - [https://eit.europa.eu](https://eit.europa.eu)
- - date_published: 2024-06-28T15:24:47+00:00
-
- ## FRA e-learning
- - [https://e-learning.fra.europa.eu](https://e-learning.fra.europa.eu)
- - date_published: 2024-07-21T06:49:04+00:00
-
- ## European elections 2024: all you need to know
- - [https://elections.europa.eu](https://elections.europa.eu)
- - date_published: 2024-06-13T14:04:34+00:00
-
- ## Homepage | European Medicines Agency
- - [https://ema.europa.eu](https://ema.europa.eu)
- - date_published: 2023-12-19T23:16:23.171412+00:00
-
- ## Home | European Marine Observation and Data Network (EMODnet)
- - [https://emodnet.ec.europa.eu](https://emodnet.ec.europa.eu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## European Maritime Safety Agency (EMSA) - Quality Shipping, Safer Seas, Cleaner Oceans
- - [https://emsa.europa.eu](https://emsa.europa.eu)
- - date_published: 2024-06-05T06:23:00.298127+00:00
- - tags: ['european maritime safety agency']
-
- ## Energy
- - [https://energy.ec.europa.eu](https://energy.ec.europa.eu)
- - date_published: 2024-04-30T21:00:24.948248+00:00
-
- ## ENISA
- - [https://enisa.europa.eu](https://enisa.europa.eu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Environment
- - [https://environment.ec.europa.eu](https://environment.ec.europa.eu)
- - date_published: 2024-05-02T09:56:06.942655+00:00
-
- ## Latest Content
- - [https://epale.ec.europa.eu](https://epale.ec.europa.eu)
- - date_published: 2024-09-03T08:08:44+00:00
-
- ## EPREL Public website
- - [https://eprel.ec.europa.eu](https://eprel.ec.europa.eu)
- - date_published: 2024-06-03T11:51:04+00:00
-
- ## Homepage | EU Careers
- - [https://epso.europa.eu](https://epso.europa.eu)
- - date_published: 2024-06-17T11:17:23+00:00
-
- ## Home | Erasmus+
- - [https://erasmus-plus.ec.europa.eu](https://erasmus-plus.ec.europa.eu)
- - date_published: 2024-05-02T09:57:12.474848+00:00
-
- ## Homepage
- - [https://erc.europa.eu](https://erc.europa.eu)
- - date_published: 2024-04-29T06:11:13.793564+00:00
-
- ## Home
- - [https://euaa.europa.eu](https://euaa.europa.eu)
- - date_published: 2024-10-18T20:44:58.282008+00:00
-
- ## Welcome to the EU CAP Network! | EU CAP Network
- - [https://eu-cap-network.ec.europa.eu](https://eu-cap-network.ec.europa.eu)
- - date_published: 2024-07-08T08:30:40+00:00
-
- ## Homepage | EU Careers
- - [https://eu-careers.europa.eu](https://eu-careers.europa.eu)
- - date_published: 2024-10-18T22:57:12.173552+00:00
-
- ## Home - ECHA
- - [https://euon.echa.europa.eu](https://euon.echa.europa.eu)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## EURAXESS
- - [https://euraxess.ec.europa.eu](https://euraxess.ec.europa.eu)
- - date_published: 2024-05-08T12:18:32.833621+00:00
-
- ## EUR-Lex — Access to European Union law — choose your language
- - [https://eur-lex.europa.eu](https://eur-lex.europa.eu)
- - date_published: 2024-04-29T02:56:24.003859+00:00
-
- ## Homepage
- - [https://eurohpc-ju.europa.eu](https://eurohpc-ju.europa.eu)
- - date_published: 2024-08-07T13:21:55.127259+00:00
-
- ## Your gateway to the EU, News, Highlights | European Union
- - [https://europa.eu](https://europa.eu)
- - date_published: 2024-04-30T07:58:09.167400+00:00
-
- ## https://www.europarl.europa.eu
- - [https://europarl.europa.eu](https://europarl.europa.eu)
- - date_published: 2017-11-08T10:03:49+00:00
-
- ## Home | Europass
- - [https://europass.cedefop.europa.eu](https://europass.cedefop.europa.eu)
- - date_published: 2024-10-19T12:22:34.436771+00:00
-
- ## Your gateway to the EU, News, Highlights | European Union
- - [https://european-union.europa.eu](https://european-union.europa.eu)
- - date_published: 2024-05-06T20:12:28.033384+00:00
-
- ## EU solidarity with Ukraine
- - [https://eu-solidarity-ukraine.ec.europa.eu](https://eu-solidarity-ukraine.ec.europa.eu)
- - date_published: 2024-06-17T11:18:53.113779+00:00
-
- ## Home Realm Discovery
- - [http://extranet.ecdc.europa.eu](http://extranet.ecdc.europa.eu)
- - date_published: 2024-09-02T13:22:58.553226+00:00
-
- ## EMSA Extranet
- - [https://extranet.emsa.europa.eu](https://extranet.emsa.europa.eu)
- - date_published: 2024-09-04T15:21:21+00:00
-
- ## Finance
- - [https://finance.ec.europa.eu](https://finance.ec.europa.eu)
- - date_published: 2024-07-04T09:58:24.962836+00:00
-
- ## Feedback on quality
- - [https://foq.youreurope.europa.eu](https://foq.youreurope.europa.eu)
- - date_published: 2023-12-19T10:28:34+00:00
-
- ## Forest Information System for Europe (FISE)
- - [https://forest.eea.europa.eu](https://forest.eea.europa.eu)
- - date_published: 2022-12-15T00:00:00+00:00
-
- ## Eionet Forum
- - [https://forum.eionet.europa.eu](https://forum.eionet.europa.eu)
- - date_published: 2024-07-02T23:33:25.644143+00:00
-
- ## European Union Agency for Fundamental Rights
- - [https://fra.europa.eu](https://fra.europa.eu)
- - date_published: 2024-04-30T05:55:59.215371+00:00
-
- ## Frontex | European Union Agency
- - [https://frontex.europa.eu](https://frontex.europa.eu)
- - date_published: 2024-06-05T06:23:16.777963+00:00
-
- ## Conference on the Future of Europe
- - [https://futureu.europa.eu](https://futureu.europa.eu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Futurium
- - [https://futurium.ec.europa.eu](https://futurium.ec.europa.eu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Global Human Settlement - GHSL Homepage - European Commission
- - [https://ghsl.jrc.ec.europa.eu](https://ghsl.jrc.ec.europa.eu)
- - date_published: 2024-05-09T07:19:37.379766+00:00
-
- ## Sign in · GitLab
- - [https://git.fpfis.tech.ec.europa.eu](https://git.fpfis.tech.ec.europa.eu)
- - date_published: 2024-07-11T10:34:58.988978+00:00
-
- ## European Health and Digital Executive Agency
- - [https://hadea.ec.europa.eu](https://hadea.ec.europa.eu)
- - date_published: 2024-07-02T22:48:16.291004+00:00
-
- ## Public Health
- - [https://health.ec.europa.eu](https://health.ec.europa.eu)
- - date_published: 2024-06-17T11:11:01.538774+00:00
-
- ## Language selection | Migration and Home Affairs
- - [https://home-affairs.ec.europa.eu](https://home-affairs.ec.europa.eu)
- - date_published: 2023-10-25T19:10:06.998621+00:00
-
- ## iate
- - [https://iate.europa.eu](https://iate.europa.eu)
- - date_published: 2024-09-02T10:36:38+00:00
-
- ## European Industrial Emissions Portal
- - [https://industry.eea.europa.eu](https://industry.eea.europa.eu)
- - date_published: 2024-05-07T23:45:03.508136+00:00
-
- ## INSPIRE Knowledge base
- - [http://inspire.ec.europa.eu](http://inspire.ec.europa.eu)
- - date_published: 2024-09-11T19:47:25.098412+00:00
-
- ## INSPIRE Geoportal
- - [http://inspire-geoportal.ec.europa.eu](http://inspire-geoportal.ec.europa.eu)
- - date_published: 2024-09-11T19:47:26.479493+00:00
-
- ## IPCHEM Portal
- - [https://ipchem.jrc.ec.europa.eu](https://ipchem.jrc.ec.europa.eu)
- - date_published: 2024-06-18T12:31:33+00:00
-
- ## $the_title - $company_name
- - [http://iuclid6.echa.europa.eu](http://iuclid6.echa.europa.eu)
- - date_published: 2024-10-16T20:49:55.432971+00:00
-
- ## EU Science Hub homepage
- - [https://joint-research-centre.ec.europa.eu](https://joint-research-centre.ec.europa.eu)
- - date_published: 2024-05-07T15:32:17.040847+00:00
-
- ## Joinup
- - [https://joinup.ec.europa.eu](https://joinup.ec.europa.eu)
- - date_published: 2024-05-09T08:43:49.820455+00:00
-
- ## Knowledge for policy
- - [https://knowledge4policy.ec.europa.eu](https://knowledge4policy.ec.europa.eu)
- - date_published: 2024-09-14T00:00:00+00:00
 

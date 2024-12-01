@@ -1,3 +1,7 @@
+ ## Federation of Law Societies of Canada - Governing Canada's Legal Profession
+ - [http://www.flsc.ca](http://www.flsc.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Flyercity Flyers | Weekly Groceries, Fashion, Electronics, Health & Beauty, Home & Garden, Home Décor & Sporting Goods Online Flyer Sales | Browse your local flyers in the comfort of your home | Flyercity.ca
  - [https://flyercity.ca](https://flyercity.ca)
  - date_published: 2024-06-14T23:43:57.125832+00:00
@@ -333,6 +337,10 @@
  ## Gilead Sciences
  - [https://www.gilead.ca](https://www.gilead.ca)
  - date_published: 2024-07-02T04:08:12.955063+00:00
+
+ ## The Giller Prize – Canada's first word in fiction
+ - [https://gillerprize.ca](https://gillerprize.ca)
+ - date_published: 2024-11-30T13:48:25.576033+00:00
 
  ## Gillette Venus Women's Razors and Shaving Products | Venus CA
  - [https://www.gillettevenus.ca](https://www.gillettevenus.ca)
@@ -4034,12 +4042,4 @@
  ## Welcome | Public Health Ontario
  - [https://www.publichealthontario.ca](https://www.publichealthontario.ca)
  - date_published: 2024-08-15T00:00:00+00:00
-
- ## Punk Rock Radio.ca
- - [http://punkrockradio.ca](http://punkrockradio.ca)
- - date_published: 2024-09-05T11:28:49.435585+00:00
-
- ## Home Interior Decoration Company Newmarket | Interior Design
- - [https://purplecube.ca](https://purplecube.ca)
- - date_published: 2023-08-25T00:00:00+00:00
 

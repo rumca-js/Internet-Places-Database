@@ -1,3 +1,227 @@
+ ## yack
+ - [https://www.yack.fyi](https://www.yack.fyi)
+ - date_published: 2024-10-30T07:28:08.716763+00:00
+
+ ## Are the Americans Awake?
+ - [https://are-the-americans-awake.yusuf.fyi](https://are-the-americans-awake.yusuf.fyi)
+ - date_published: 2023-10-25T19:16:26.673031+00:00
+
+ ## Structs & Company
+ - [https://yusuf.fyi](https://yusuf.fyi)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Adrià Garriga-Alonso
+ - [https://agarri.ga](https://agarri.ga)
+ - date_published: 2017-06-28T15:02:11+00:00
+
+ ## Accueil - AGP - Agence Gabonaise de Presse
+ - [https://agpgabon.ga](https://agpgabon.ga)
+ - date_published: 2021-01-04T19:47:15+00:00
+
+ ## ntfy web
+ - [https://goat.albirew.ga](https://goat.albirew.ga)
+ - date_published: 2024-07-04T20:49:39+00:00
+
+ ## AlbiCow
+ - [https://mail.albirew.ga](https://mail.albirew.ga)
+ - date_published: 2024-07-10T08:21:15.134232+00:00
+
+ ## Login | mCaptcha
+ - [https://pokemon.albirew.ga](https://pokemon.albirew.ga)
+ - date_published: 2024-07-10T08:21:03.236178+00:00
+
+ ## LibreTranslate - Free and Open Source Machine Translation API
+ - [https://tl.albirew.ga](https://tl.albirew.ga)
+ - date_published: 2024-07-10T08:21:04.466838+00:00
+
+ ## dessga
+ - [http://dess.ga](http://dess.ga)
+ - date_published: 2023-01-06T17:01:19+00:00
+
+ ## GITですが
+ - [https://git.dess.ga](https://git.dess.ga)
+ - date_published: 2024-07-10T08:21:01.923380+00:00
+
+ ## ソーシャルですが
+ - [https://soshar.dess.ga](https://soshar.dess.ga)
+ - date_published: 2024-07-10T08:21:25.843886+00:00
+
+ ## Google
+ - [https://www.google.ga](https://www.google.ga)
+ - date_published: 2024-06-21T22:24:27.381373+00:00
+
+ ## Jeep Gabon
+ - [https://www.jeep.ga](https://www.jeep.ga)
+ - date_published: 2024-06-19T08:40:24.892057+00:00
+
+ - [https://blog.joren.ga](https://blog.joren.ga)
+ - date_published: 2024-01-09T03:30:11.532362+00:00
+
+ ## rohan ganapavarapu
+ - [https://rohan.ga](https://rohan.ga)
+ - date_published: 2024-08-06T23:36:02+00:00
+
+ ## Academia Galega do Audiovisual |
+ - [https://www.academiagalegadoaudiovisual.gal](https://www.academiagalegadoaudiovisual.gal)
+ - date_published: 2024-07-09T19:00:48.674101+00:00
+
+ ## Inicio - Camino de Santiago en Galicia: web oficial
+ - [http://www.caminodesantiago.gal](http://www.caminodesantiago.gal)
+ - date_published: 2024-07-30T03:44:29.598782+00:00
+
+ ## Portada - Contratos Públicos de Galicia
+ - [https://www.contratosdegalicia.gal](https://www.contratosdegalicia.gal)
+ - date_published: 2024-10-27T23:40:39.567595+00:00
+
+ ## Inicio | Cultura de Galicia
+ - [https://www.cultura.gal](https://www.cultura.gal)
+ - date_published: 2024-07-30T03:44:35.470659+00:00
+
+ ## Asociación Galega de Deseño
+ - [http://dag.gal](http://dag.gal)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## HUGO.GAL
+ - [https://hugo.gal](https://hugo.gal)
+ - date_published: 2024-06-11T06:29:01+00:00
+
+ ## Mancomún – Software libre en galego
+ - [https://www.mancomun.gal](https://www.mancomun.gal)
+ - date_published: 2024-07-03T20:21:09.979828+00:00
+
+ ## mastodon.gal
+ - [https://mastodon.gal](https://mastodon.gal)
+ - date_published: 2024-07-09T19:00:41.302811+00:00
+
+ ## MeteoGalicia - Predición del tiempo en Galicia
+ - [https://www.meteogalicia.gal](https://www.meteogalicia.gal)
+ - date_published: 2024-10-16T11:37:46+00:00
+
+ ## Óscar Otero - Deseñador dixital e desenvolvedor web
+ - [https://oscarotero.gal](https://oscarotero.gal)
+ - date_published: 2024-07-09T19:00:46.658280+00:00
+
+ ## Inicio - Tecnópole
+ - [https://tecnopole.gal](https://tecnopole.gal)
+ - date_published: 2024-10-23T06:40:39.244889+00:00
+
+ ## Tourism of Galicia – Blog
+ - [http://blog.turismo.gal](http://blog.turismo.gal)
+ - date_published: 2024-07-30T03:44:38.136287+00:00
+
+ ## Tourism of Galicia. Europe - Spain - Galicia. - GALICIA
+ - [https://turismo.gal](https://turismo.gal)
+ - date_published: 2024-04-29T05:15:28.754079+00:00
+
+ ## UDC TV
+ - [https://tv.udc.gal](https://tv.udc.gal)
+ - date_published: 2024-06-22T22:21:20.344617+00:00
+
+ ## Inicio
+ - [https://www.uvigo.gal](https://www.uvigo.gal)
+ - date_published: 2024-09-15T23:56:14.000854+00:00
+
+ ## Últimas noticias sobre Ven a Galicia. Ven a Galicia
+ - [https://venagalicia.gal](https://venagalicia.gal)
+ - date_published: 2024-02-14T09:13:00+00:00
+
+ ## Inicio | Amtega
+ - [https://amtega.xunta.gal](https://amtega.xunta.gal)
+ - date_published: 2024-06-22T22:21:27.609101+00:00
+
+ ## Inicio  - Diario Oficial de Galicia
+ - [https://dog.xunta.gal](https://dog.xunta.gal)
+ - date_published: 2024-10-27T23:40:34.967053+00:00
+
+ ## Demandantes
+ - [https://emprego.xunta.gal](https://emprego.xunta.gal)
+ - date_published: 2024-10-27T23:40:11+00:00
+
+ ## GAIN [Axencia Galega de Innovación]
+ - [http://gain.xunta.gal](http://gain.xunta.gal)
+ - date_published: 2024-10-27T23:40:47.659363+00:00
+
+ ## Portada - Xunta de Galicia
+ - [http://multimedia.xunta.gal](http://multimedia.xunta.gal)
+ - date_published: 2024-07-30T03:44:33.009289+00:00
+
+ ## Inicio - Orzamentos 2025
+ - [https://orzamentos.xunta.gal](https://orzamentos.xunta.gal)
+ - date_published: 2024-10-27T23:39:58.488264+00:00
+
+ ## Consellería de Cultura, Educación e Universidade |
+ - [http://www.edu.xunta.gal](http://www.edu.xunta.gal)
+ - date_published: 2024-07-08T12:58:22.432753+00:00
+
+ ## Portada - Xunta de Galicia
+ - [https://www.xunta.gal](https://www.xunta.gal)
+ - date_published: 2024-06-19T04:51:36.522279+00:00
+
+ ## A1 · The best of the web
+ - [https://www.a1.gallery](https://www.a1.gallery)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Awesome Docs Gallery — A crowdsourced, open-source gallery for high-quality dev docs.
+ - [https://awesome-docs.gallery](https://awesome-docs.gallery)
+ - date_published: 2024-10-24T08:58:48.997828+00:00
+
+ ## Best Website Gallery – Web Design Inspiration – by @davidhellmann
+ - [https://bestwebsite.gallery](https://bestwebsite.gallery)
+ - date_published: 2024-07-09T19:15:34.546426+00:00
+
+ ## CMC AdServer Solution
+ - [https://cdn.gallery](https://cdn.gallery)
+ - date_published: 2024-08-18T17:10:57.772025+00:00
+
+ ## Changelog Gallery | By Olvy
+ - [https://changelogs.gallery](https://changelogs.gallery)
+ - date_published: 2024-04-30T06:58:00.321293+00:00
+
+ ## Home
+ - [https://component.gallery](https://component.gallery)
+ - date_published: 2024-06-23T06:17:53.758749+00:00
+
+ ## DALL·Ery GALL·Ery
+ - [https://dallery.gallery](https://dallery.gallery)
+ - date_published: 2024-05-06T14:12:39.057361+00:00
+
+ ## Dash Enterprise
+ - [https://dash.gallery](https://dash.gallery)
+ - date_published: 2020-08-07T18:23:31+00:00
+
+ ## Deck.Gallery® — Beautifully designed decks, curated
+ - [https://deck.gallery](https://deck.gallery)
+ - date_published: 2024-05-09T06:11:55.947419+00:00
+
+ ## DOMINO CLUB
+ - [https://domino.gallery](https://domino.gallery)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## FORMA — FORMA.GALLERY
+ - [http://www.forma.gallery](http://www.forma.gallery)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Function
+ - [https://function.gallery](https://function.gallery)
+ - date_published: 2024-09-14T09:24:46.672768+00:00
+
+ ## The struggle is real The first-person shooter as an allegory of social media life | An artist tournament set in Fondazione Spara — an online survival multiplayer video game by Riccardo Rudi and Superinternet | Green Cube Gallery
+ - [http://greencube.gallery](http://greencube.gallery)
+ - date_published: 2024-07-13T15:19:38.788611+00:00
+
+ ## Nico Kaiser - Photos
+ - [https://kaiser.gallery](https://kaiser.gallery)
+ - date_published: 2024-07-05T09:56:29+00:00
+
+ ## Files - Nextcloud
+ - [https://demo.memories.gallery](https://demo.memories.gallery)
+ - date_published: 2024-03-21T20:42:24.918216+00:00
+
+ ## Show HN: Memories, FOSS Google Photos alternative built for high performance
+ - [https://memories.gallery](https://memories.gallery)
+ - date_published: 2024-03-21T19:25:10+00:00
+ - tags: ['self-host']
+
  ## Mimesia Gallery
  - [https://mimesia.gallery](https://mimesia.gallery)
  - date_published: 2024-06-15T10:56:19.428840+00:00
@@ -3813,228 +4037,4 @@
  ## TNM Group - Membership
  - [https://membership.tnm.global](https://membership.tnm.global)
  - date_published: 2024-08-16T08:46:38+00:00
-
- ## Trendly - Trendly
- - [https://trendly.global](https://trendly.global)
- - date_published: 2024-10-28T07:13:04.932284+00:00
-
- ## Homepage | Toyota Research Institute
- - [https://tri.global](https://tri.global)
- - date_published: 2023-10-25T19:17:16.769072+00:00
-
- ## UNIO Enterprise GmbH | Home
- - [https://www.unio.global](https://www.unio.global)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | utu Tax Free
- - [https://utu.global](https://utu.global)
- - date_published: 2024-09-25T08:51:05+00:00
-
- ## Voice - Include - Innovate - Influence
- - [https://voice.global](https://voice.global)
- - date_published: 2024-09-25T12:55:54+00:00
-
- ## Login -  WEDOS Protection
- - [https://client.wedos.global](https://client.wedos.global)
- - date_published: 2024-06-16T16:25:23.484875+00:00
-
- ## WEDOS Global - WEDOS.com
- - [https://wedos.global](https://wedos.global)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## World Health Network - WHN
- - [https://whn.global](https://whn.global)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Toyota Woven City | TOP | What is Woven City
- - [https://www.woven-city.global](https://www.woven-city.global)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Woven by Toyota
- - [https://www.woven-planet.global](https://www.woven-planet.global)
- - date_published: 2024-07-10T01:12:11+00:00
-
- ## XR: Revolutionizing Advertising with Unified Data at Scale
- - [https://xr.global](https://xr.global)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## zenGate
- - [https://www.zengate.global](https://www.zengate.global)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## GAMA Ad Marketplace
- - [https://gama.globo](https://gama.globo)
- - date_published: 2024-10-28T14:36:14.864227+00:00
-
- ## Meu Perfil - GloboAds
- - [https://perfil.globoads.globo](https://perfil.globoads.globo)
- - date_published: 2024-10-28T14:35:42.837952+00:00
-
- ## Home | Globo Ads PME
- - [https://globosim.globo](https://globosim.globo)
- - date_published: 2024-10-28T14:35:35.650168+00:00
-
- ## Grafika Google
- - [https://images.google.gm](https://images.google.gm)
- - date_published: 2024-07-20T07:40:53.217348+00:00
-
- ## Google
- - [https://www.google.gm](https://www.google.gm)
- - date_published: 2024-06-21T22:22:25.067810+00:00
-
- ## MSI.GM
- - [https://msi.gm](https://msi.gm)
- - date_published: 2024-08-08T19:22:03.902336+00:00
-
- ## Welcome to Zenith Bank Gambia
- - [http://www.zenithbank.gm](http://www.zenithbank.gm)
- - date_published: 2024-06-20T02:01:04.188934+00:00
-
- ## ARGUMENT—Introducing Formcore
- - [https://argument.gmbh](https://argument.gmbh)
- - date_published: 2024-07-09T19:31:28.073641+00:00
-
- ## About us | Aternos GmbH
- - [https://aternos.gmbh](https://aternos.gmbh)
- - date_published: 2024-08-20T19:34:58.871810+00:00
-
- ## Startseite - BASIC thinking GmbH
- - [https://basicthinking.gmbh](https://basicthinking.gmbh)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Fellow GmbH
- - [https://fellow.gmbh](https://fellow.gmbh)
- - date_published: 2024-04-30T02:30:48.158793+00:00
-
- ## Wer wir sind - finanzennet
- - [https://www.finanzennet.gmbh](https://www.finanzennet.gmbh)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Fre(i)e Software GmbH
- - [https://freiesoftware.gmbh](https://freiesoftware.gmbh)
- - date_published: 2024-07-09T08:00:01+00:00
-
- ## Launch GmbH
- - [https://launch.gmbh](https://launch.gmbh)
- - date_published: 2021-05-27T06:38:09+00:00
-
- ## MAX OFFICE GMBH
- - [https://max-office.gmbh](https://max-office.gmbh)
- - date_published: 2024-10-29T14:35:27+00:00
-
- ## Hokkaido 401 Lüftungssystem
- - [https://passiv-energie.gmbh](https://passiv-energie.gmbh)
- - date_published: 2024-03-03T11:31:31.547897+00:00
-
- ## Modular kitchen systems made in Germany
- - [https://termino.gmbh](https://termino.gmbh)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## tinc - The Infrastructure Company GmbH
- - [https://tinc.gmbh](https://tinc.gmbh)
- - date_published: 2024-03-22T14:20:49+00:00
-
- ## Universalbau – Eine weitere WordPress-Website
- - [http://unibau.gmbh](http://unibau.gmbh)
- - date_published: 2024-09-25T19:04:09.696226+00:00
-
- ## VITC
- - [https://vitc.gmbh](https://vitc.gmbh)
- - date_published: 2023-06-28T17:15:58+00:00
-
- ## GMOブランドセキュリティ株式会社 | すべてのブランドにセキュリティを | 渋谷区
- - [https://www.brandsecurity.gmo](https://www.brandsecurity.gmo)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Working at GoDaddy
- - [https://careers.godaddy](https://careers.godaddy)
- - date_published: 2024-06-28T08:36:55.929383+00:00
-
- ## Domain Name Registry Services from GoDaddy Registry
- - [https://registry.godaddy](https://registry.godaddy)
- - date_published: 2024-06-16T05:47:41.434661+00:00
-
- ## Alpaca.Gold
- - [https://alpaca.gold](https://alpaca.gold)
- - date_published: 2024-04-29T03:11:08.099435+00:00
-
- ## Far East Gold
- - [https://www.fareast.gold](https://www.fareast.gold)
- - date_published: 2024-09-16T22:16:53.433866+00:00
-
- ## Fat Gold: California extra virgin olive oil
- - [https://fat.gold](https://fat.gold)
- - date_published: 2024-03-07T20:12:55+00:00
-
- ## LSU Plus: Experience Every Moment. Empower Every Athlete.
- - [https://lsu.gold](https://lsu.gold)
- - date_published: 2024-10-18T02:44:28.502047+00:00
-
- ## Meld Gold
- - [https://www.meld.gold](https://www.meld.gold)
- - date_published: 2024-06-16T16:38:20.723124+00:00
-
- ## Ora Gold Limited - Western Australian Advanced Gold Exploration Company
- - [https://www.ora.gold](https://www.ora.gold)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Sam Henri Gold · NYC-based Product Designer
- - [https://samhenri.gold](https://samhenri.gold)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## UFABET เว็บตรง เว็บแทงบอล แทงบอลออนไลน์ ยูฟ่าเบท ขั้นต่ำ 1บ.
- - [https://www.ufabetwins.gold](https://www.ufabetwins.gold)
- - date_published: 2024-08-09T06:23:20+00:00
-
- ## Home - X64 Gold
- - [https://www.x64.gold](https://www.x64.gold)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Eagle Point Golf Club | Wilmington, NC
- - [https://eaglepoint.golf](https://eaglepoint.golf)
- - date_published: 2024-06-21T21:18:38.126404+00:00
-
- ## Links Golf Club - Home
- - [https://links.golf](https://links.golf)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Home - MAIN.golf
- - [https://main.golf](https://main.golf)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## NLU.GOLF - A Dub.co Custom Domain
- - [https://nlu.golf](https://nlu.golf)
- - date_published: 2024-06-22T05:56:22.734176+00:00
-
- ## Sign in - Matomo
- - [https://matomo.tweede.golf](https://matomo.tweede.golf)
- - date_published: 2024-07-19T23:17:33.866903+00:00
-
- ## goo
- - [https://www.goo](https://www.goo)
- - date_published: 2024-09-19T18:56:10.565483+00:00
-
- ## Google Translate
- - [https://nyadagbladet-se.translate.goog](https://nyadagbladet-se.translate.goog)
- - date_published: 2024-01-09T03:30:15.623588+00:00
-
- ## Google Translate
- - [https://www-bild-de.translate.goog](https://www-bild-de.translate.goog)
- - date_published: 2023-11-06T18:03:15.833718+00:00
-
- ## Google Translate
- - [https://www-heise-de.translate.goog](https://www-heise-de.translate.goog)
- - date_published: 2023-11-10T07:08:49.465512+00:00
-
- ## Google Translate
- - [https://www-msys2-org.translate.goog](https://www-msys2-org.translate.goog)
- - date_published: 2024-08-03T06:32:18.258702+00:00
-
- ## Google - About
- - [https://about.google](https://about.google)
- - date_published: 2023-10-25T19:17:18+00:00
-
- ## Google AI
- - [https://ai.google](https://ai.google)
- - date_published: 2023-10-25T19:17:19.726037+00:00
 

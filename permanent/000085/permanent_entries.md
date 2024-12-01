@@ -1,3 +1,48 @@
+ ## Softaculous Support Centre
+ - [https://softaculous.deskuss.com](https://softaculous.deskuss.com)
+ - date_published: 2024-09-09T22:07:47.981806+00:00
+
+ ## DeSmog
+ - [https://desmog.com](https://desmog.com)
+ - date_published: 2024-01-09T02:21:59.409554+00:00
+ - tags: ['fact check']
+
+ ## DeSmog
+ - [http://www.desmogblog.com](http://www.desmogblog.com)
+ - date_published: 2024-06-28T18:10:31+00:00
+
+ ## The Des Moines Register
+ - [https://aboutyoursubscription.desmoinesregister.com](https://aboutyoursubscription.desmoinesregister.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Unsupported EU page
+ - [https://account.desmoinesregister.com](https://account.desmoinesregister.com)
+ - date_published: 2024-06-15T22:45:58.937884+00:00
+
+ ## Home
+ - [https://chat.desmoinesregister.com](https://chat.desmoinesregister.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Home
+ - [https://cm.desmoinesregister.com](https://cm.desmoinesregister.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://connect.desmoinesregister.com](https://connect.desmoinesregister.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://desmoinesregister.com](https://desmoinesregister.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Home
+ - [https://eu.desmoinesregister.com](https://eu.desmoinesregister.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Help Center - The Des Moines Register
+ - [https://help.desmoinesregister.com](https://help.desmoinesregister.com)
+ - date_published: 2024-05-01T04:48:57.540386+00:00
+
  ## Unsupported EU page
  - [https://login.desmoinesregister.com](https://login.desmoinesregister.com)
  - date_published: 2024-06-15T22:45:56.387748+00:00
@@ -325,7 +370,7 @@
  ## Snarling Badger Studios
  - [https://dethwizardsgame.com](https://dethwizardsgame.com)
  - date_published: 2024-05-24T08:53:23+00:00
- - tags: ['miniatures', 'tabletop game']
+ - tags: ['miniatures', 'tabletop game developer', 'tabletop game']
 
  ## Adsmart - Platform pasang iklan online detikcom
  - [https://adsmart.detik.com](https://adsmart.detik.com)
@@ -3996,48 +4041,4 @@ A blog about programming, distributed systems and others
  ## Plausible · Web analytics
  - [https://st.diffbot.com](https://st.diffbot.com)
  - date_published: 2024-05-01T05:01:17.871682+00:00
-
- ## Diffchecker - Compare text online to find the difference between two text files
- - [https://diffchecker.com](https://diffchecker.com)
- - date_published: 2023-10-25T13:51:38.632020+00:00
-
- ## Different Hub
- - [https://differenthub.com](https://differenthub.com)
- - date_published: 2023-12-10T18:34:38.292217+00:00
-
- ## Home
- - [http://www.differentrecordings.com](http://www.differentrecordings.com)
- - date_published: 2019-05-30T02:10:51+00:00
-
- ## Diffgram: The AI Datastore
- - [https://diffgram.com](https://diffgram.com)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Difford's Guide - the home of discerning drinkers
- - [https://www.diffordsguide.com](https://www.diffordsguide.com)
- - date_published: 2024-06-29T10:06:34.471152+00:00
-
- ## DiffPlug Forum
- - [https://discuss.diffplug.com](https://discuss.diffplug.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Diffraction - Astronomy & Scientific Imaging Solutions
- - [https://diffractionlimited.com](https://diffractionlimited.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## DiffusionBee - Stable Diffusion App for AI Art
- - [https://diffusionbee.com](https://diffusionbee.com)
- - date_published: 2024-06-19T19:48:42.737655+00:00
-
- ## Home
- - [https://difluir.com](https://difluir.com)
- - date_published: 2015-09-24T14:02:04+00:00
-
- ## Temas Difluir
- - [https://themes.difluir.com](https://themes.difluir.com)
- - date_published: 2024-05-08T04:19:43.953010+00:00
-
- ## Higher Education Management Software  | Engage in the Modern Learner Revolution
- - [http://www.digarc.com](http://www.digarc.com)
- - date_published: 2024-07-01T14:41:03.055852+00:00
 

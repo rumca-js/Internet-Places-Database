@@ -1,3 +1,7 @@
+ ## A melhor plataforma de hospedagem para você e seu negócio! | HostGator
+ - [https://www.hostgator.com.br](https://www.hostgator.com.br)
+ - date_published: 2021-05-01T15:00:00+00:00
+
  ## Faça login na Hostinger
  - [https://auth.hostinger.com.br](https://auth.hostinger.com.br)
  - date_published: 2024-07-13T16:34:50.455996+00:00
@@ -4007,8 +4011,4 @@
  ## AvSubThai
  - [https://www.avsubthai.bz](https://www.avsubthai.bz)
  - date_published: 2024-10-20T15:15:43.293582+00:00
-
- ## easyXDM cross-domain XHMLHttpRequest provider
- - [https://backend.cld.bz](https://backend.cld.bz)
- - date_published: 2024-10-12T14:02:19.800554+00:00
 

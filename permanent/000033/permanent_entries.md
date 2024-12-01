@@ -1,3 +1,19 @@
+ ## SeeD EM | Drupal Experts
+ - [https://seedem.co](https://seedem.co)
+ - date_published: 2024-06-12T10:49:47.596832+00:00
+
+ ## Seeking Wisdom | Ben Detalle | Substack
+ - [https://seekingwisdom.co](https://seekingwisdom.co)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Designed to Engage. Engineered for Attention.
+ - [https://seenthis.co](https://seenthis.co)
+ - date_published: 2024-10-30T22:33:47.294490+00:00
+
+ ## Avec Seiza RH, recrutez vos métiers de terrain. Maintenant et simplement
+ - [https://www.seiza.co](https://www.seiza.co)
+ - date_published: 2024-09-14T09:46:06.573526+00:00
+
  ## Selego - Tech Startup Studio - Fractional CTOs
  - [https://selego.co](https://selego.co)
  - date_published: 2024-10-17T15:32:34+00:00
@@ -4006,20 +4022,4 @@
  ## Consultoría | Pontificia Universidad Javeriana, Cali
  - [https://consultoria.javerianacali.edu.co](https://consultoria.javerianacali.edu.co)
  - date_published: 2024-06-12T11:02:24.778922+00:00
-
- ## Inicio
- - [https://cultural.javerianacali.edu.co](https://cultural.javerianacali.edu.co)
- - date_published: 2019-12-19T13:50:00+00:00
-
- ## Inicio de sesión - ujaveriana
- - [https://educacioncontinua.javerianacali.edu.co](https://educacioncontinua.javerianacali.edu.co)
- - date_published: 2024-09-11T16:57:31.162135+00:00
-
- ## Inicio
- - [https://emisora.javerianacali.edu.co](https://emisora.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:07.339589+00:00
-
- ## Home | Eventos Javeriana Cali
- - [https://eventos.javerianacali.edu.co](https://eventos.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:04.564915+00:00
 

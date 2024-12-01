@@ -1,3 +1,31 @@
+ ## Right Wing Extreme
+ - [http://peoplesrepublicofamerica.blogspot.com](http://peoplesrepublicofamerica.blogspot.com)
+ - date_published: 2024-03-06T20:03:29+00:00
+
+ ## People them with Monsters
+ - [http://peoplethemwithmonsters.blogspot.com](http://peoplethemwithmonsters.blogspot.com)
+ - date_published: 2024-07-13T06:05:28+00:00
+
+ ## Peplers In Rye
+ - [http://peplers.blogspot.com](http://peplers.blogspot.com)
+ - date_published: 2024-05-10T20:37:09+00:00
+
+ ## Putz Blog
+ - [http://peputz.blogspot.com](http://peputz.blogspot.com)
+ - date_published: 2024-06-25T09:03:13+00:00
+
+ ## Great Expectations for a Mad World
+ - [http://peraltalxscl.blogspot.com](http://peraltalxscl.blogspot.com)
+ - date_published: 2024-10-21T18:32:21.091259+00:00
+
+ ## Adrian Cockcroft's Blog
+ - [https://perfcap.blogspot.com](https://perfcap.blogspot.com)
+ - date_published: 2024-07-17T05:54:05+00:00
+
+ ## Performance Juridique
+ - [http://performancejuridique.blogspot.com](http://performancejuridique.blogspot.com)
+ - date_published: 2024-03-22T00:56:53+00:00
+
  ## A Walk On The Natural Side
  - [https://perhapsallnatural.blogspot.com](https://perhapsallnatural.blogspot.com)
  - date_published: 2024-06-07T14:50:59+00:00
@@ -3982,32 +4010,4 @@
  ## Southern California Aquatics SCAQ Swim Club
  - [http://scaq.blogspot.com](http://scaq.blogspot.com)
  - date_published: 2024-05-13T05:42:32+00:00
-
- ## Scarfolk Council
- - [https://scarfolk.blogspot.com](https://scarfolk.blogspot.com)
- - date_published: 2024-10-30T09:31:35+00:00
-
- ## Security
- - [https://scarybeastsecurity.blogspot.com](https://scarybeastsecurity.blogspot.com)
- - date_published: 2024-06-11T01:59:50+00:00
-
- ## DAMMIT   JANET!
- - [http://scathinglywrongrightwingnutz.blogspot.com](http://scathinglywrongrightwingnutz.blogspot.com)
- - date_published: 2024-06-28T18:03:25+00:00
-
- ## Scatterbrained Wargamer
- - [http://scatterbrainedwargamer.blogspot.com](http://scatterbrainedwargamer.blogspot.com)
- - date_published: 2024-07-13T10:14:36+00:00
-
- ## Scavengeamiga
- - [https://scavengeamiga.blogspot.com](https://scavengeamiga.blogspot.com)
- - date_published: 2024-08-30T12:23:21+00:00
-
- ## [SCC13] HQ
- - [http://scc13hq.blogspot.com](http://scc13hq.blogspot.com)
- - date_published: 2024-03-07T20:21:49+00:00
-
- ## Scent of Dawn
- - [https://scentofdawn.blogspot.com](https://scentofdawn.blogspot.com)
- - date_published: 2024-05-25T23:32:58.805025+00:00
 

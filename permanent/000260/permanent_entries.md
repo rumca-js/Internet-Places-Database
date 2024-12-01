@@ -1,3 +1,227 @@
+ ## Phillip & Patricia Frost Art Museum
+ - [https://frost.fiu.edu](https://frost.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Foundation
+ - [https://give.fiu.edu](https://give.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Global Learning
+ - [https://goglobal.fiu.edu](https://goglobal.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Jack D. Gordon Institute for Public Policy
+ - [https://gordoninstitute.fiu.edu](https://gordoninstitute.fiu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home - University Graduate School
+ - [http://gradschool.fiu.edu](http://gradschool.fiu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Chaplin School of Hospitality &amp; Tourism Management
+ - [http://hospitality.fiu.edu](http://hospitality.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## System Status - AskIT Service Portal
+ - [https://italerts.fiu.edu](https://italerts.fiu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## FIU Division of Information Technology - FIU's central technology service provider
+ - [https://it.fiu.edu](https://it.fiu.edu)
+ - date_published: 2024-07-17T21:31:12+00:00
+
+ ## Jewish Museum of Florida
+ - [https://jmof.fiu.edu](https://jmof.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Center for Leadership Homepage
+ - [https://lead.fiu.edu](https://lead.fiu.edu)
+ - date_published: 2024-07-21T06:15:19+00:00
+
+ ## FIU Libraries
+ - [https://library.fiu.edu](https://library.fiu.edu)
+ - date_published: 2024-07-22T04:15:35.404753+00:00
+
+ ## Please wait...
+ - [https://mail.fiu.edu](https://mail.fiu.edu)
+ - date_published: 2024-04-30T04:14:46.164256+00:00
+
+ ## My FIU
+ - [https://my.fiu.edu](https://my.fiu.edu)
+ - date_published: 2020-09-06T10:47:51+00:00
+
+ ## Network
+ - [https://network.fiu.edu](https://network.fiu.edu)
+ - date_published: 2024-07-22T04:15:44.033210+00:00
+
+ ## FIU News - Florida International University
+ - [https://news.fiu.edu](https://news.fiu.edu)
+ - date_published: 2023-10-30T12:42:14.738633+00:00
+
+ ## Home
+ - [https://onestop.fiu.edu](https://onestop.fiu.edu)
+ - date_published: 2024-04-30T04:14:51.211245+00:00
+
+ ## FIU | Login
+ - [https://onlineforms.fiu.edu](https://onlineforms.fiu.edu)
+ - date_published: 2024-07-22T04:17:02.746590+00:00
+
+ ## Google to Microsoft 365 Migration |
+ - [http://panthermail.fiu.edu](http://panthermail.fiu.edu)
+ - date_published: 2024-07-22T04:15:02.307972+00:00
+
+ ## Parking &amp; Transportation
+ - [https://parking.fiu.edu](https://parking.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Phonebook
+ - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
+ - date_published: 2024-04-30T04:15:03.150013+00:00
+
+ ## University Police Department
+ - [https://police.fiu.edu](https://police.fiu.edu)
+ - date_published: 2024-07-17T15:44:16+00:00
+
+ ## Search | P&P Library
+ - [https://policies.fiu.edu](https://policies.fiu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Presidential Search
+ - [https://presidentialsearch.fiu.edu](https://presidentialsearch.fiu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Index Page
+ - [https://pslinks.fiu.edu](https://pslinks.fiu.edu)
+ - date_published: 2024-06-07T00:42:51+00:00
+
+ ## Welcome: Board of Trustees Regulations
+ - [https://regulations.fiu.edu](https://regulations.fiu.edu)
+ - date_published: 2024-08-11T02:41:51.719436+00:00
+
+ ## Panthers Protecting Panthers
+ - [https://repopulation.fiu.edu](https://repopulation.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Report a Concern
+ - [https://report.fiu.edu](https://report.fiu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home - Research
+ - [http://research.fiu.edu](http://research.fiu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home / EMS
+ - [https://reservations.fiu.edu](https://reservations.fiu.edu)
+ - date_published: 2024-09-04T19:43:13.535080+00:00
+
+ ## Request a Space |
+ - [https://reservespace.fiu.edu](https://reservespace.fiu.edu)
+ - date_published: 2024-06-07T22:44:44.235939+00:00
+
+ ## Home - ShopFIU
+ - [https://shop.fiu.edu](https://shop.fiu.edu)
+ - date_published: 2024-07-22T04:15:32.660844+00:00
+
+ ## Steven J. Green School of International &amp; Public Affairs
+ - [https://sipa.fiu.edu](https://sipa.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Social Media
+ - [http://social.fiu.edu](http://social.fiu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Robert Stempel College of Public Health &amp; Social Work
+ - [https://stempel.fiu.edu](https://stempel.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Strategic Communications, Government and External Affairs
+ - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Division of Academic &amp; Student Affairs
+ - [http://studentaffairs.fiu.edu](http://studentaffairs.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Forward-Thinking. Innovative. Unstoppable.
+ - [https://top50.fiu.edu](https://top50.fiu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Transfer &amp; Transition Services
+ - [https://transfer.fiu.edu](https://transfer.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## MachForm Admin Panel
+ - [https://webforms.fiu.edu](https://webforms.fiu.edu)
+ - date_published: 2024-04-30T04:14:47.420081+00:00
+
+ ## Welcome to FIU
+ - [https://welcome.fiu.edu](https://welcome.fiu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Knight Foundation School of Computing and Information Sciences
+ - [http://www.cis.fiu.edu](http://www.cis.fiu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home | FCI
+ - [https://www.fivecolleges.edu](https://www.fivecolleges.edu)
+ - date_published: 2024-07-02T03:20:06.383023+00:00
+
+ ## Home - Tallahassee State College
+ - [https://www.tsc.fl.edu](https://www.tsc.fl.edu)
+ - date_published: 2024-07-19T14:00:18+00:00
+
+ ## Where history begins. | Flagler College
+ - [http://www.flagler.edu](http://www.flagler.edu)
+ - date_published: 2024-06-28T15:47:44+00:00
+
+ ## State University System of Florida
+ - [https://flbog.edu](https://flbog.edu)
+ - date_published: 2024-04-30T04:16:15.757109+00:00
+
+ ## Catalog of the Folger Shakespeare Library
+ - [https://catalog.folger.edu](https://catalog.folger.edu)
+ - date_published: 2024-06-29T10:01:54.851307+00:00
+
+ ## Collation | Folger Shakespeare Library
+ - [https://collation.folger.edu](https://collation.folger.edu)
+ - date_published: 2024-05-07T10:20:20.322787+00:00
+
+ ## Events | Folger Shakespeare Library
+ - [https://events.folger.edu](https://events.folger.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Folger Shakespeare Library
+ - [https://folger.edu](https://folger.edu)
+ - date_published: 2024-05-07T10:25:33.742212+00:00
+
+ ## Explore the Collection | Digital Collections
+ - [https://luna.folger.edu](https://luna.folger.edu)
+ - date_published: 2024-06-22T00:36:48+00:00
+
+ ## Fontbonne University – Soar Higher
+ - [http://www.fontbonne.edu](http://www.fontbonne.edu)
+ - date_published: 2024-07-15T06:04:12.731753+00:00
+
+ ## Foothill College | Home - Foothill College
+ - [https://foothill.edu](https://foothill.edu)
+ - date_published: 2024-05-09T08:42:05.495631+00:00
+
+ ## Fordham University Directory
+ - [https://411.fordham.edu](https://411.fordham.edu)
+ - date_published: 2024-06-24T10:00:58.718665+00:00
+
+ ## Undergraduate Admission | Fordham
+ - [https://admission.fordham.edu](https://admission.fordham.edu)
+ - date_published: 2024-06-24T10:00:45.157268+00:00
+
+ ## Fordham University
+ - [http://curapersonalis.fordham.edu](http://curapersonalis.fordham.edu)
+ - date_published: 2024-06-24T09:59:49.219234+00:00
+
+ ## Fordham Law
+ - [https://digital.law.fordham.edu](https://digital.law.fordham.edu)
+ - date_published: 2024-10-18T22:35:25.237360+00:00
+
  ## FLASH Archive
  - [https://ir.lawnet.fordham.edu](https://ir.lawnet.fordham.edu)
  - date_published: 2024-05-07T09:30:23.197658+00:00
@@ -3782,228 +4006,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## SACSCOC Accreditation - SACSCOC Accreditation
  - [https://sacscoc.gsu.edu](https://sacscoc.gsu.edu)
  - date_published: 2024-07-22T02:15:31.782473+00:00
-
- ## Committed to Keeping You Safe
- - [https://safety.gsu.edu](https://safety.gsu.edu)
- - date_published: 2024-04-30T04:31:48.797135+00:00
-
- ## Open Access Institutional Repository of Georgia State University
- - [http://scholarworks.gsu.edu](http://scholarworks.gsu.edu)
- - date_published: 2024-07-22T02:23:18.404506+00:00
-
- ## University Senate - Georgia State University Senate
- - [https://senate.gsu.edu](https://senate.gsu.edu)
- - date_published: 2024-04-30T04:30:11.563900+00:00
-
- ## Home | Send A File
- - [https://sendafile.gsu.edu](https://sendafile.gsu.edu)
- - date_published: 2024-04-30T04:34:22.822012+00:00
-
- ## Auxiliary Services - Auxiliary Services
- - [https://services.gsu.edu](https://services.gsu.edu)
- - date_published: 2024-04-30T04:30:19.316340+00:00
-
- ## Student Financial Services - Georgia State
- - [https://sfs.gsu.edu](https://sfs.gsu.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Student Government Association - Student Engagement
- - [https://sga.gsu.edu](https://sga.gsu.edu)
- - date_published: 2024-04-30T04:34:42.137840+00:00
-
- ## sites@gsu – Blogs for Georgia State University – Powered by Edublogs
- - [http://sites.gsu.edu](http://sites.gsu.edu)
- - date_published: 2024-07-22T02:47:38+00:00
-
- ## Certificate | Social Action
- - [https://socialaction.gsu.edu](https://socialaction.gsu.edu)
- - date_published: 2024-07-20T18:42:31.417161+00:00
-
- ## Spotlight Programs Board - Student Engagement
- - [https://spotlight.gsu.edu](https://spotlight.gsu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Staff Council
- - [https://staffcouncil.gsu.edu](https://staffcouncil.gsu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Index of /
- - [https://static.library.gsu.edu](https://static.library.gsu.edu)
- - date_published: 2024-07-22T02:17:58.941253+00:00
-
- ## GSU Technology Systems Status
- - [http://status.gsu.edu](http://status.gsu.edu)
- - date_published: 2024-07-22T02:47:43.330009+00:00
-
- ## The Georgia State Strategic Plan
- - [https://strategic.gsu.edu](https://strategic.gsu.edu)
- - date_published: 2024-07-22T02:08:27.776321+00:00
-
- ## Student Engagement - Georgia State University
- - [http://studentaffairs.gsu.edu](http://studentaffairs.gsu.edu)
- - date_published: 2024-07-21T23:53:19.057500+00:00
-
- ## Student Center - Student Engagement
- - [https://studentcenter.gsu.edu](https://studentcenter.gsu.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Georgia State University - Acalog ACMS™
- - [https://studenthandbook.gsu.edu](https://studenthandbook.gsu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Georgia State is a national model for student success. #TheStateWay
- - [https://success.gsu.edu](https://success.gsu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Success Programs at Georgia State - Student Success Programs at Georgia State
- - [https://success.students.gsu.edu](https://success.students.gsu.edu)
- - date_published: 2024-04-30T04:31:04.746228+00:00
-
- ## Sustainability Initiatives
- - [https://sustainability.gsu.edu](https://sustainability.gsu.edu)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Instructional Innovation & Technology
- - [https://technology.gsu.edu](https://technology.gsu.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Georgia State University Testing Centers Information
- - [http://testing.gsu.edu](http://testing.gsu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## College of the Arts
- - [https://thearts.gsu.edu](https://thearts.gsu.edu)
- - date_published: 2024-07-21T23:57:26.927050+00:00
-
- ## Welcome
- - [https://themes.gosolar.gsu.edu](https://themes.gosolar.gsu.edu)
- - date_published: 2024-08-09T04:22:33.080064+00:00
-
- ## THESTATEWAY
- - [https://thestateway.gsu.edu](https://thestateway.gsu.edu)
- - date_published: 2024-07-21T23:52:07.999543+00:00
-
- ## Become a Panther Today
- - [https://undergradapply.gsu.edu](https://undergradapply.gsu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Legal Affairs - Office of Legal Affairs
- - [http://universityattorney.gsu.edu](http://universityattorney.gsu.edu)
- - date_published: 2024-07-21T23:53:59.021205+00:00
-
- ## Urban Studies Institute- Atlanta
- - [https://urbaninstitute.gsu.edu](https://urbaninstitute.gsu.edu)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## University Research Services & Administration at Georgia State
- - [https://ursa.research.gsu.edu](https://ursa.research.gsu.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Usery Workplace Research Group
- - [https://usery.gsu.edu](https://usery.gsu.edu)
- - date_published: 2024-07-20T18:43:02.117842+00:00
-
- ## Military Outreach
- - [https://veterans.gsu.edu](https://veterans.gsu.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Student Victim Assistance - Georgia State
- - [http://victimassistance.gsu.edu](http://victimassistance.gsu.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## The Stateway - Georgia State University Viewbook
- - [https://viewbook.gsu.edu](https://viewbook.gsu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://webservices.gsu.edu](https://webservices.gsu.edu)
- - date_published: 2020-07-21T18:44:25+00:00
-
- ## Visit Georgia State University - Welcome Center
- - [https://welcome.gsu.edu](https://welcome.gsu.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Welcome to GoSOLAR   -- Oracle Fusion Middleware -- Server-8
- - [https://www.gosolar.gsu.edu](https://www.gosolar.gsu.edu)
- - date_published: 2024-07-18T12:40:34+00:00
-
- ## Georgia State University Travel
- - [http://www.travel.gsu.edu](http://www.travel.gsu.edu)
- - date_published: 2024-08-08T23:32:23.762941+00:00
-
- ## Gulf Coast State College | Gulf Coast State College
- - [https://www.gulfcoast.edu](https://www.gulfcoast.edu)
- - date_published: 2024-06-29T23:03:28.278828+00:00
-
- ## Gustavus Adolphus College
- - [https://gustavus.edu](https://gustavus.edu)
- - date_published: 2024-07-03T22:20:48.915872+00:00
-
- ## Academic Commons | Academic Commons
- - [https://academiccommons.gwu.edu](https://academiccommons.gwu.edu)
- - date_published: 2024-09-06T20:45:24+00:00
-
- ## Accessibility at GW | The George Washington University
- - [https://accessibility.gwu.edu](https://accessibility.gwu.edu)
- - date_published: 2024-04-30T04:40:55.913376+00:00
-
- ## GW Alumni Association | The George Washington University
- - [https://alumni.gwu.edu](https://alumni.gwu.edu)
- - date_published: 2024-07-21T12:06:46+00:00
-
- ## GWeb (Banner Self Service) | GW Information Technology | The George Washington University
- - [https://banweb.gwu.edu](https://banweb.gwu.edu)
- - date_published: 2024-07-21T13:48:23+00:00
-
- ## Blackboard Learn
- - [https://blackboard.gwu.edu](https://blackboard.gwu.edu)
- - date_published: 2004-07-21T23:50:27+00:00
-
- ## Welcome to GW Blogs
- - [https://blogs.gwu.edu](https://blogs.gwu.edu)
- - date_published: 2024-05-08T07:36:25.467661+00:00
-
- ## Department of Biomedical Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://bme.engineering.gwu.edu](https://bme.engineering.gwu.edu)
- - date_published: 2024-07-21T23:20:30+00:00
-
- ## Department of Biomedical Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://bme.seas.gwu.edu](https://bme.seas.gwu.edu)
- - date_published: 2024-04-30T04:41:48.549448+00:00
-
- ## BRIGHT Institute | Milken Institute School of Public Health | The George Washington University
- - [https://brightinstitute.gwu.edu](https://brightinstitute.gwu.edu)
- - date_published: 2024-07-21T17:44:12+00:00
-
- ## The George Washington University Bulletin | The George Washington University
- - [https://bulletin.gwu.edu](https://bulletin.gwu.edu)
- - date_published: 2024-07-02T14:02:34+00:00
-
- ## Events Calendar
- - [https://calendar.gwu.edu](https://calendar.gwu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Campus Advisories | The George Washington University
- - [https://campusadvisories.gwu.edu](https://campusadvisories.gwu.edu)
- - date_published: 2024-07-20T15:49:20+00:00
-
- ## Careers at GW | Human Resource Management & Development | The George Washington University
- - [https://careers.gwu.edu](https://careers.gwu.edu)
- - date_published: 2024-07-21T20:42:40+00:00
-
- ## Computational Biology Institute | The George Washington University
- - [https://cbi.gwu.edu](https://cbi.gwu.edu)
- - date_published: 2024-07-21T23:34:07+00:00
-
- ## Department of Civil & Environmental Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://cee.engineering.gwu.edu](https://cee.engineering.gwu.edu)
- - date_published: 2024-07-21T17:52:29+00:00
-
- ## Department of Civil & Environmental Engineering | School of Engineering & Applied Science | The George Washington University
- - [https://cee.seas.gwu.edu](https://cee.seas.gwu.edu)
- - date_published: 2024-04-30T04:42:10.254627+00:00
-
- ## Accessed Denied | Centraldata | The George Washington University
- - [https://centraldata.gwu.edu](https://centraldata.gwu.edu)
- - date_published: 2024-04-30T04:41:09.324376+00:00
 

@@ -1,3 +1,124 @@
+ ## Net Zero Watch
+ - [https://www.netzerowatch.com](https://www.netzerowatch.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Rotary Encoders : Absolute Position Sensors by Netzer
+ - [https://netzerprecision.com](https://netzerprecision.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## welcome to neucards
+ - [https://www.neucards.com](https://www.neucards.com)
+ - date_published: 2023-10-25T16:16:07.395635+00:00
+
+ ## Neue-Bcn Graphic Design · Barcelona · Identity · Web · Communication
+ - [https://neue-bcn.com](https://neue-bcn.com)
+ - date_published: 2024-06-15T10:16:28.954272+00:00
+
+ ## Neue Farben
+ - [https://neue-farben.com](https://neue-farben.com)
+ - date_published: 2022-03-02T23:56:29+00:00
+
+ ## Neue Goods
+ - [http://neuegoods.com](http://neuegoods.com)
+ - date_published: 2024-07-13T15:18:58.856841+00:00
+
+ ## NeueHealth
+ - [https://neuehealth.com](https://neuehealth.com)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Neue | Digital Studio Milano
+ - [https://www.neuemilano.com](https://www.neuemilano.com)
+ - date_published: 2024-10-22T12:42:56.485480+00:00
+
+ ## Neue Online Casinos 2024
+ - [https://www.neueonline-casinos.com](https://www.neueonline-casinos.com)
+ - date_published: 2024-07-17T04:37:51.339945+00:00
+
+ ## neugerriemschneider
+ - [https://neugerriemschneider.com](https://neugerriemschneider.com)
+ - date_published: 2024-04-30T07:18:53.400118+00:00
+
+ ## Neujuice Design: Creative, Digital and Branding Agency Brighton
+ - [https://neujuice.com](https://neujuice.com)
+ - date_published: 2018-03-06T10:08:47+00:00
+
+ ## Neumann – the reference since 1928
+ - [https://en-de.neumann.com](https://en-de.neumann.com)
+ - date_published: 2024-08-06T06:45:34.617785+00:00
+
+ ## Neumann – the reference since 1928
+ - [https://neumann.com](https://neumann.com)
+ - date_published: 2024-04-29T03:14:38.258779+00:00
+
+ ## Neumann.Berlin
+ - [https://product-registration.neumann.com](https://product-registration.neumann.com)
+ - date_published: 2024-08-06T06:46:35.499770+00:00
+
+ ## Music Venue in Seattle, WA | Neumos
+ - [https://www.neumos.com](https://www.neumos.com)
+ - date_published: 2024-10-21T20:03:32.878656+00:00
+
+ ## neunetz.com
+ - [https://neunetz.com](https://neunetz.com)
+ - date_published: 2024-08-18T06:41:36.008603+00:00
+
+ ## NeuralBlender.com
+ - [https://neuralblender.com](https://neuralblender.com)
+ - date_published: 2023-12-11T07:44:49+00:00
+
+ ## Engineering Intelligence | Neural Concept
+ - [https://neuralconcept.com](https://neuralconcept.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## neural frames | AI animation generation
+ - [https://neuralframes.com](https://neuralframes.com)
+ - date_published: 2023-10-25T16:16:11.239069+00:00
+
+ ## Neuralink
+ - [https://neuralink.com](https://neuralink.com)
+ - date_published: 2023-11-27T15:15:54+00:00
+ - tags: ['brain-computer interface', 'neuralink']
+
+ ## What is Neural Magic? | Neural Magic Documentation
+ - [https://docs.neuralmagic.com](https://docs.neuralmagic.com)
+ - date_published: 2024-06-06T17:25:53+00:00
+
+ ## Software-Delivered AI - Neural Magic
+ - [https://neuralmagic.com](https://neuralmagic.com)
+ - date_published: 2023-11-23T07:19:00.230264+00:00
+
+ ## SparseZoo
+ - [https://sparsezoo.neuralmagic.com](https://sparsezoo.neuralmagic.com)
+ - date_published: 2024-05-08T20:54:39+00:00
+
+ ## Neural networks and deep learning
+ - [https://neuralnetworksanddeeplearning.com](https://neuralnetworksanddeeplearning.com)
+ - date_published: 2019-12-26T23:27:41+00:00
+
+ ## Advances in Neural Rendering
+ - [https://www.neuralrender.com](https://www.neuralrender.com)
+ - date_published: 2024-07-24T05:49:07.687328+00:00
+
+ ## Log in | neuraltext.com
+ - [https://app.neuraltext.com](https://app.neuraltext.com)
+ - date_published: 2024-10-30T08:03:40.300281+00:00
+
+ ## NeuralText - AI Writing Assistant and tools for SEO | neuraltext.com
+ - [https://neuraltext.com](https://neuraltext.com)
+ - date_published: 2024-10-30T08:01:24.040663+00:00
+
+ ## NeuralText status
+ - [https://status.neuraltext.com](https://status.neuraltext.com)
+ - date_published: 2024-10-30T08:03:43.093061+00:00
+
+ ## NEURA Robotics - we serve humanity.
+ - [https://neura-robotics.com](https://neura-robotics.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Neurobeautiful
+ - [http://neurobeautiful.com](http://neurobeautiful.com)
+ - date_published: 2024-09-03T22:55:42.458932+00:00
+
  ## neurobiology .com
  - [https://www.neurobiology.com](https://www.neurobiology.com)
  - date_published: 2023-08-05T01:03:16+00:00
@@ -2696,6 +2817,10 @@
  - [https://newspicks.com](https://newspicks.com)
  - date_published: 2024-10-30T14:48:48.401452+00:00
 
+ ## Pravda Moldova - Noutăți din Moldova
+ - [https://moldova.news-pravda.com](https://moldova.news-pravda.com)
+ - date_published: 2024-11-30T18:50:11.921212+00:00
+
  ## Newsprint: Personalized daily news briefs
  - [https://newsprint.com](https://newsprint.com)
  - date_published: 2024-10-30T18:36:07+00:00
@@ -3893,129 +4018,4 @@
  ## Next Step Living
  - [http://nextstepliving.com](http://nextstepliving.com)
  - date_published: 2024-11-08T10:46:47+00:00
-
- ## We get audiences online, in print, at retail
- - [https://nextstepsmarketing.com](https://nextstepsmarketing.com)
- - date_published: 2024-07-19T19:05:04.410675+00:00
-
- ## Next Step Survival
- - [https://nextstepsurvival.com](https://nextstepsurvival.com)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## NExT Studios
- - [https://www.nextstudios.com](https://www.nextstudios.com)
- - date_published: 2024-07-12T19:34:13.240942+00:00
-
- ## NextThreeBooks.com | AI Book Recommendations
- - [https://www.nextthreebooks.com](https://www.nextthreebooks.com)
- - date_published: 2024-01-24T19:50:55+00:00
-
- ## The Next Trip
- - [https://www.nexttripnetwork.com](https://www.nexttripnetwork.com)
- - date_published: 2024-08-18T03:30:16.742735+00:00
-
- ## Nexttv | Programming| Busines | Multichannel Broadcasting + Cable | www.nexttv.com
- - [https://nexttv.com](https://nexttv.com)
- - date_published: 2023-11-13T13:38:16.860148+00:00
-
- ## Next venture
- - [https://nextventure.com](https://nextventure.com)
- - date_published: 2024-09-27T08:45:23.885944+00:00
-
- ## Home
- - [http://nextviewventures.com](http://nextviewventures.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Next Wave Agility
- - [https://www.nextwaveagility.com](https://www.nextwaveagility.com)
- - date_published: 2024-07-12T21:42:03.357651+00:00
-
- ## ネクスティ エレクトロニクス | NEXTY Electronics
- - [https://www.nexty-ele.com](https://www.nexty-ele.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Basestation Coworking
- - [https://basestation.spaces.nexudus.com](https://basestation.spaces.nexudus.com)
- - date_published: 2024-06-15T17:33:30.720183+00:00
-
- ## Bike Stop
- - [https://bikestop.spaces.nexudus.com](https://bikestop.spaces.nexudus.com)
- - date_published: 2024-06-15T17:33:28.501751+00:00
-
- ## Nexudus.Coworking
- - [https://hangar46.spaces.nexudus.com](https://hangar46.spaces.nexudus.com)
- - date_published: 2024-07-10T04:50:38.611146+00:00
-
- ## Nexura Internacional
- - [http://nexura.com](http://nexura.com)
- - date_published: 2024-09-13T15:22:33.479518+00:00
-
- ## Nexus Academic Publishers (NAP)
- - [http://nexusacademicpublishers.com](http://nexusacademicpublishers.com)
- - date_published: 2024-10-29T17:27:28.481935+00:00
-
- ## Nexus Computing
- - [https://nexuscomputing.com](https://nexuscomputing.com)
- - date_published: 2021-01-12T05:02:01+00:00
-
- ## Home
- - [https://nexusmagazine.com](https://nexusmagazine.com)
- - date_published: 2024-05-10T09:10:06.415743+00:00
-
- ## Nexus Minerals Limited
- - [https://www.nexus-minerals.com](https://www.nexus-minerals.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Captcha Page
- - [https://data.nexusmods.com](https://data.nexusmods.com)
- - date_published: 2024-07-20T02:47:19.954167+00:00
-
- ## Nexus Mods
- - [https://feedback.nexusmods.com](https://feedback.nexusmods.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Captcha Page
- - [https://file-metadata.nexusmods.com](https://file-metadata.nexusmods.com)
- - date_published: 2024-07-20T02:47:26.467804+00:00
-
- ## Nexus Mods Forums
- - [https://forums.nexusmods.com](https://forums.nexusmods.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Nexus Mods Site Help
- - [https://help.nexusmods.com](https://help.nexusmods.com)
- - date_published: 2024-05-01T07:04:02.887805+00:00
-
- ## Collections | Nexus Mods
- - [https://next.nexusmods.com](https://next.nexusmods.com)
- - date_published: 2024-07-20T02:46:49.462342+00:00
-
- ## Nexus mods and community
- - [https://nexusmods.com](https://nexusmods.com)
- - date_published: 2023-10-25T11:16:58.441116+00:00
- - tags: ['video game mods']
-
- ## Welcome to nginx!
- - [https://staticstats.nexusmods.com](https://staticstats.nexusmods.com)
- - date_published: 2024-07-20T02:47:06.347927+00:00
-
- ## Nexus Mods - Users - Login
- - [https://users.nexusmods.com](https://users.nexusmods.com)
- - date_published: 2024-07-20T02:46:31.952788+00:00
-
- ## Nexus Mods Wiki
- - [https://wiki.nexusmods.com](https://wiki.nexusmods.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - Nexus Newsfeed
- - [https://nexusnewsfeed.com](https://nexusnewsfeed.com)
- - date_published: 2024-07-13T03:55:47+00:00
-
- ## Nexus Smoke Online Vape Shop | Disposable Vapes | E-Liquids
- - [https://nexussmoke.com](https://nexussmoke.com)
- - date_published: 2024-06-19T21:59:24.598724+00:00
-
- ## Nexus Themes – WordPress Themes for small business owners
- - [https://nexusthemes.com](https://nexusthemes.com)
- - date_published: 2024-05-02T11:21:33.410635+00:00
 

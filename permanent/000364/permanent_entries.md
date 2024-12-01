@@ -1,3 +1,266 @@
+ ## Denver Software Development Company: #1 for a Reason
+ - [https://developdenver.org](https://developdenver.org)
+ - date_published: 2024-06-23T05:58:21.866114+00:00
+
+ ## Developer Certificate of Origin
+ - [https://developercertificate.org](https://developercertificate.org)
+ - date_published: 2021-07-15T13:20:53+00:00
+
+ ## Developer Events | Explore the latest Developer Events & Conferences
+ - [https://developerevents.org](https://developerevents.org)
+ - date_published: 2024-06-15T23:04:27.680791+00:00
+
+ ## Policy Experts Advocating for Developers | Developers Alliance
+ - [https://developersalliance.org](https://developersalliance.org)
+ - date_published: 2023-12-29T18:50:24.565985+00:00
+
+ ## Home - Flint and Genesee Economic Alliance
+ - [https://developflintandgenesee.org](https://developflintandgenesee.org)
+ - date_published: 2024-06-29T21:53:38.656510+00:00
+
+ ## developing writers
+ - [https://developingwriters.org](https://developingwriters.org)
+ - date_published: 2024-07-04T18:00:45.031112+00:00
+
+ ## 🌱 Transformational Spaces
+ - [https://developmentalspaces.org](https://developmentalspaces.org)
+ - date_published: 2024-06-12T12:48:00.172775+00:00
+
+ ## Welcome — Development Seed
+ - [https://developmentseed.org](https://developmentseed.org)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Stellar : Message of the Day
+ - [http://developmentventures.org](http://developmentventures.org)
+ - date_published: 2024-06-20T03:54:10.944304+00:00
+
+ ## Dungeon Crawl Stone Soup
+ - [https://crawl.develz.org](https://crawl.develz.org)
+ - date_published: 2023-08-04T01:02:33+00:00
+ - tags: ['open source', 'video game']
+
+ ## Keep updated with Brent Deverman - Brent Deverman
+ - [https://www.deverman.org](https://www.deverman.org)
+ - date_published: 2021-02-19T00:00:00+00:00
+
+ ## dev etc
+ - [http://devetc.org](http://devetc.org)
+ - date_published: 2015-10-14T22:54:00+00:00
+
+ ## Devfreebooks - Devfreebooks - Devfreebooks
+ - [https://devfreebooks.org](https://devfreebooks.org)
+ - date_published: 2024-05-11T10:34:58.061951+00:00
+
+ ## UFABET168 ฝาก - ถอน รวดเร็ว ทันใจ เล่น พนันออนไลน์ ไม่มีสะดุด
+ - [http://devfreecasts.org](http://devfreecasts.org)
+ - date_published: 2024-05-11T10:34:25.620625+00:00
+ - tags: ['gambling']
+
+ ## Dev Hunt – The best new Dev Tools every day.
+ - [https://devhunt.org](https://devhunt.org)
+ - date_published: 2024-05-10T05:29:39.826372+00:00
+
+ ## The Devicetree Project
+ - [https://devicetree.org](https://devicetree.org)
+ - date_published: 2024-05-20T08:18:21+00:00
+
+ ## Home
+ - [https://devin.org](https://devin.org)
+ - date_published: 2024-05-29T19:25:25+00:00
+
+ ## Homepage
+ - [http://devinit.org](http://devinit.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## devkitPro - Portal
+ - [https://devkitpro.org](https://devkitpro.org)
+ - date_published: 2024-05-08T10:17:07.726483+00:00
+
+ ## DevLoL - DevLoL
+ - [https://www.devlol.org](https://www.devlol.org)
+ - date_published: 2024-07-24T16:25:53.293030+00:00
+
+ ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
+ - [https://dev-one.org](https://dev-one.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## DevOps Cafe Podcast & Videos - Show Notes
+ - [http://devopscafe.org](http://devopscafe.org)
+ - date_published: 2024-06-21T21:54:21.230146+00:00
+
+ ## DevOpsDays
+ - [https://devopsdays.org](https://devopsdays.org)
+ - date_published: 2024-06-19T08:30:31.233536+00:00
+
+ ## Devoxx4Kids – Inspire children to programming, robotics and engineering
+ - [http://www.devoxx4kids.org](http://www.devoxx4kids.org)
+ - date_published: 2024-07-20T21:47:05.619354+00:00
+
+ ## Luc Devroye's Home Page
+ - [https://luc.devroye.org](https://luc.devroye.org)
+ - date_published: 2023-12-29T00:51:34.131174+00:00
+
+ ## DevTools Tips
+ - [https://devtoolstips.org](https://devtoolstips.org)
+ - date_published: 2023-10-25T21:14:12.309236+00:00
+
+ ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
+ - [https://beta.devuan.org](https://beta.devuan.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Devuan bug tracking system
+ - [https://bugs.devuan.org](https://bugs.devuan.org)
+ - date_published: 2020-05-25T16:14:27+00:00
+
+ ## Index of /
+ - [http://deb.devuan.org](http://deb.devuan.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
+ - [https://devuan.org](https://devuan.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+ - tags: ['operating system']
+
+ ## Devuan Download Zone
+ - [https://files.devuan.org](https://files.devuan.org)
+ - date_published: 2024-05-04T15:45:38.999723+00:00
+
+ ## Devuan git store
+ - [https://git.devuan.org](https://git.devuan.org)
+ - date_published: 2024-06-20T20:58:39.660962+00:00
+
+ ## Devuan Package View
+ - [https://pkginfo.devuan.org](https://pkginfo.devuan.org)
+ - date_published: 2024-05-11T08:03:40.095693+00:00
+
+ ## Devuan Popularity Contest
+ - [https://popcon.devuan.org](https://popcon.devuan.org)
+ - date_published: 2017-05-19T00:00:00+00:00
+
+ ## Please login
+ - [https://etl.dewi.org](https://etl.dewi.org)
+ - date_published: 2024-09-25T10:52:22.699137+00:00
+
+ ## Dexie.js - Minimalistic IndexedDB Wrapper
+ - [https://dexie.org](https://dexie.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## DF/HCC Pathfinder
+ - [http://pathfinder.dfhcc.org](http://pathfinder.dfhcc.org)
+ - date_published: 2024-08-08T23:36:25.969193+00:00
+
+ ## The DFINITY Foundation
+ - [https://dfinity.org](https://dfinity.org)
+ - date_published: 2024-06-16T04:34:20.403548+00:00
+
+ ## Internet Computer Developer Forum
+ - [https://forum.dfinity.org](https://forum.dfinity.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home | Internet Computer
+ - [https://sdk.dfinity.org](https://sdk.dfinity.org)
+ - date_published: 2024-07-24T07:01:49.329807+00:00
+
+ ## ∞/Vibes - Dfinity Swag Store
+ - [https://shop.dfinity.org](https://shop.dfinity.org)
+ - date_published: 2024-09-25T11:12:23.577556+00:00
+
+ ## DFINITY
+ - [https://support.dfinity.org](https://support.dfinity.org)
+ - date_published: 2024-08-19T15:16:25.549807+00:00
+
+ ## DFIR-IRIS | Open Source Incident Response Platform
+ - [https://dfir-iris.org](https://dfir-iris.org)
+ - date_published: 2024-08-05T12:10:46+00:00
+
+ ## DFRLab - DFRLab
+ - [https://dfrlab.org](https://dfrlab.org)
+ - date_published: 2023-10-25T21:14:16.103433+00:00
+
+ ## Home - DFRWS
+ - [https://dfrws.org](https://dfrws.org)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Dallas-Fort Worth  Federal Statistical Research Data Center
+ - [https://dfwrdc.org](https://dfwrdc.org)
+ - date_published: 2024-08-18T19:56:07.653196+00:00
+
+ ## Linux Users' Group of Durgapur
+ - [https://dgplug.org](https://dgplug.org)
+ - date_published: 2022-07-15T15:45:04+00:00
+
+ ## dgplug
+ - [https://toots.dgplug.org](https://toots.dgplug.org)
+ - date_published: 2024-06-22T21:42:52.316148+00:00
+
+ ## DHMC and Clinics
+ - [http://d-h.org](http://d-h.org)
+ - date_published: 2024-07-22T04:36:05+00:00
+
+ ## The Dhall configuration language
+ - [https://dhall-lang.org](https://dhall-lang.org)
+ - date_published: 2024-05-04T09:20:11.238858+00:00
+
+ ## Dhall discussion
+ - [https://discourse.dhall-lang.org](https://discourse.dhall-lang.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Dhall Documentation — Dhall  documentation
+ - [https://docs.dhall-lang.org](https://docs.dhall-lang.org)
+ - date_published: 2024-06-20T16:22:23.332323+00:00
+
+ ## /
+ - [https://prelude.dhall-lang.org](https://prelude.dhall-lang.org)
+ - date_published: 2024-06-20T16:22:19.275937+00:00
+
+ ## Vipassana Meditation
+ - [https://dhamma.org](https://dhamma.org)
+ - date_published: 2024-05-10T06:32:59.994191+00:00
+
+ ## Vipassana Meditation Course For Business Executives – Dhamma.org
+ - [http://executive.dhamma.org](http://executive.dhamma.org)
+ - date_published: 2024-07-12T22:44:06.253472+00:00
+
+ ## Vipassana Meditation Courses For Correction Facilities – Dhamma.org
+ - [http://prison.dhamma.org](http://prison.dhamma.org)
+ - date_published: 2024-07-12T22:43:57.733696+00:00
+
+ ## Anapana Meditation for Children and Teens
+ - [http://www.children.dhamma.org](http://www.children.dhamma.org)
+ - date_published: 2024-07-12T22:44:08.007926+00:00
+
+ ## Welcome to Vipassana Research Institute | Vipassana Research Institute
+ - [http://www.vri.dhamma.org](http://www.vri.dhamma.org)
+ - date_published: 2024-07-12T03:50:44+00:00
+
+ ## Insight Meditation Society – Tranquility. Wisdom. Compassion.
+ - [http://www.dharma.org](http://www.dharma.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Dharmacourse.org – Courses offered to support those working with Rob Burbea’s approaches to practice
+ - [https://dharmacourse.org](https://dharmacourse.org)
+ - date_published: 2024-09-12T19:20:41.586022+00:00
+
+ ## Dharma Seed
+ - [https://dharmaseed.org](https://dharmaseed.org)
+ - date_published: 2024-05-07T09:59:26.809233+00:00
+
+ ## Digital Humanities Awards | Highlighting Resources in Digital Humanities
+ - [http://dhawards.org](http://dhawards.org)
+ - date_published: 2024-06-24T10:45:04.723347+00:00
+
+ ## District Health Department 10
+ - [https://www.dhd10.org](https://www.dhd10.org)
+ - date_published: 2024-06-23T07:30:07.550335+00:00
+
+ ## Managed and automated vaults accessible to everyone
+ - [https://app.dhedge.org](https://app.dhedge.org)
+ - date_published: 2024-10-11T21:42:09.409395+00:00
+
+ ## Managed and automated vaults accessible to everyone
+ - [https://dhedge.org](https://dhedge.org)
+ - date_published: 2024-09-21T23:40:18.384266+00:00
+
  ## dhewm3 - Doom3 Source Port
  - [https://dhewm3.org](https://dhewm3.org)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -3767,265 +4030,4 @@
  ## Daniel Wayne Armstrong
  - [https://www.dwarmstrong.org](https://www.dwarmstrong.org)
  - date_published: 2024-07-26T00:00:00+00:00
-
- ## DWeb Camp 2024
- - [https://dwebcamp.org](https://dwebcamp.org)
- - date_published: 2024-04-03T06:52:05.534842+00:00
- - tags: ['decwntralised web']
-
- ## DWeb Vancouver
- - [https://dwebyvr.org](https://dwebyvr.org)
- - date_published: 2024-07-03T05:34:03+00:00
-
- ## Rute303: Hongkong Prediksi Live Draw HK Siang WLA
- - [https://dwightharvestdays.org](https://dwightharvestdays.org)
- - date_published: 2024-10-24T11:11:35+00:00
-
- ## DXOS
- - [https://blog.dxos.org](https://blog.dxos.org)
- - date_published: 2024-07-22T17:11:00.632303+00:00
-
- ## Composer
- - [https://composer.dxos.org](https://composer.dxos.org)
- - date_published: 2024-04-30T00:30:31.380223+00:00
-
- ## Documentation
- - [https://docs.dxos.org](https://docs.dxos.org)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## DXOS
- - [https://dxos.org](https://dxos.org)
- - date_published: 2024-04-30T00:30:17.263845+00:00
-
- ## —   Dying Consciously
- - [http://www.dyingconsciously.org](http://www.dyingconsciously.org)
- - date_published: 2024-06-30T05:13:01.897489+00:00
-
- ## Dying Matters
- - [http://dyingmatters.org](http://dyingmatters.org)
- - date_published: 2024-06-30T04:23:02+00:00
-
- ## arts & ego
- - [https://dylanharris.org](https://dylanharris.org)
- - date_published: 2002-07-04T00:00:00+00:00
-
- ## Dynamic Aspects
- - [http://dynamicaspects.org](http://dynamicaspects.org)
- - date_published: 2024-06-06T14:01:26+00:00
-
- ## Dynamicland
- - [https://dynamicland.org](https://dynamicland.org)
- - date_published: 2024-05-02T13:28:02.815146+00:00
-
- ## Dynamic Languages Symposium (HPI) - DLS
- - [http://www.dynamic-languages-symposium.org](http://www.dynamic-languages-symposium.org)
- - date_published: 2024-03-11T10:20:34+00:00
-
- ## Dynare
- - [https://www.dynare.org](https://www.dynare.org)
- - date_published: 2024-07-01T20:18:46+00:00
-
- ## gregstoll.com
- - [https://gregstoll.dyndns.org](https://gregstoll.dyndns.org)
- - date_published: 2024-05-12T05:32:13.399039+00:00
-
- ## Root Oldcomputers
- - [http://oldcomputers.dyndns.org](http://oldcomputers.dyndns.org)
- - date_published: 2023-05-20T20:42:25+00:00
-
- ## Digital Community and Free Software Foundry
- - [https://dyne.org](https://dyne.org)
- - date_published: 2024-09-13T09:09:09+00:00
-
- ## Dyne.org file download zone
- - [https://files.dyne.org](https://files.dyne.org)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Frei0r - free video effect plugin collection
- - [https://frei0r.dyne.org](https://frei0r.dyne.org)
- - date_published: 2024-02-05T09:31:23+00:00
-
- ## libbitcoin - modular, scalable, async
- - [https://libbitcoin.dyne.org](https://libbitcoin.dyne.org)
- - date_published: 2017-10-19T15:33:59+00:00
-
- ## Digital Community and Free Software Foundry
- - [https://sx.dyne.org](https://sx.dyne.org)
- - date_published: 2024-05-21T08:54:59+00:00
-
- ## Dyne.org :: Tomb :: Folder Encryption on GNU/Linux
- - [https://tomb.dyne.org](https://tomb.dyne.org)
- - date_published: 2024-05-21T08:54:59+00:00
-
- ## Dyne.org TV
- - [https://tv.dyne.org](https://tv.dyne.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Dynebolic | Liberate yourself from mental slavery and try something different on your computer.
- - [https://dynebolic.org](https://dynebolic.org)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Welcome to the Learning Systems and Robotics Lab | Dynamic Systems Lab | Prof. Angela Schoellig
- - [http://www.dynsyslab.org](http://www.dynsyslab.org)
- - date_published: 2024-06-22T11:41:28.433700+00:00
-
- ## International Dyslexia Association - …until everyone can read!
- - [https://dyslexiaida.org](https://dyslexiaida.org)
- - date_published: 2024-06-28T22:59:44.347932+00:00
-
- ## Welcome to Dystonia Medical Research Foundation of Canada | Dystonia Medical Research Foundation Canada
- - [https://www.dystoniacanada.org](https://www.dystoniacanada.org)
- - date_published: 2024-08-16T17:49:06+00:00
-
- ## 10.3
- - [https://dystroy.org](https://dystroy.org)
- - date_published: 2007-01-01T00:00:00+00:00
-
- ## Mastodys
- - [https://mastodon.dystroy.org](https://mastodon.dystroy.org)
- - date_published: 2024-05-12T04:46:21.831133+00:00
-
- ## Miaou
- - [https://miaou.dystroy.org](https://miaou.dystroy.org)
- - date_published: 2024-05-12T04:46:20.762355+00:00
-
- ## Dzanc Books
- - [https://www.dzancbooks.org](https://www.dzancbooks.org)
- - date_published: 2024-07-01T07:24:39.472220+00:00
-
- ## Wersja polska
- - [http://www.dziennikarze.org](http://www.dziennikarze.org)
- - date_published: 2024-08-18T17:09:57.894951+00:00
-
- ## Mastodon
- - [https://dznr.org](https://dznr.org)
- - date_published: 2024-08-07T17:45:01.089288+00:00
-
- ## Daphne Zepos Teaching Endowment
- - [https://www.dzte.org](https://www.dzte.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## e107 Bootstrap CMS Open Source
- - [https://e107.org](https://e107.org)
- - date_published: 2024-05-02T13:42:19.270139+00:00
-
- ## e107 Bootstrap CMS Open Source
- - [https://static.e107.org](https://static.e107.org)
- - date_published: 2024-06-18T15:49:06.359731+00:00
-
- ## Home
- - [https://www.e3g.org](https://www.e3g.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## EAA | Experimental Aircraft Association | Oshkosh, Wisconsin
- - [https://www.eaa.org](https://www.eaa.org)
- - date_published: 2024-06-23T06:12:15.405242+00:00
-
- ## EAAE - EAAE
- - [https://www.eaae-astronomy.org](https://www.eaae-astronomy.org)
- - date_published: 2024-06-22T19:11:46+00:00
-
- ## Groei digitaal met onze e-learnings - e-Academy.org
- - [https://www.e-academy.org](https://www.e-academy.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Effective Altruism Cambridge
- - [https://eacambridge.org](https://eacambridge.org)
- - date_published: 2024-05-08T09:58:13.316265+00:00
-
- ## The 16th Conference of the European Chapter of the Association for Computational Linguistics
- - [https://2021.eacl.org](https://2021.eacl.org)
- - date_published: 2024-03-19T00:18:16+00:00
-
- ## The 17th Conference of the European Chapter of the Association for Computational LinguisticsMay 2-6, 2023
- - [https://2023.eacl.org](https://2023.eacl.org)
- - date_published: 2023-05-15T15:30:51+00:00
-
- ## The 18th Conference of the European Chapter of the Association for Computational LinguisticsMarch 17-22, 2024
- - [https://2024.eacl.org](https://2024.eacl.org)
- - date_published: 2024-03-22T10:23:21+00:00
-
- ## EACL
- - [http://eacl.org](http://eacl.org)
- - date_published: 2023-12-11T09:34:56+00:00
-
- ## European Academy of Dermatology and Venereology | EADV
- - [https://eadv.org](https://eadv.org)
- - date_published: 2022-06-21T12:26:40+00:00
-
- ## Home - European Association for the Education of Adults
- - [https://eaea.org](https://eaea.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Welcome to EAERE 2024!
- - [http://www.eaere-conferences.org](http://www.eaere-conferences.org)
- - date_published: 2024-07-01T20:06:53.965486+00:00
-
- ## EAEVE / AEEEV
- - [https://www.eaeve.org](https://www.eaeve.org)
- - date_published: 2024-08-11T06:39:57.191735+00:00
-
- ## Home - Effective Altruism Foundation
- - [https://ea-foundation.org](https://ea-foundation.org)
- - date_published: 2024-06-21T11:32:34+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://absinfo.eagle.org](https://absinfo.eagle.org)
- - date_published: 2024-06-19T21:00:59+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://eagle.org](https://eagle.org)
- - date_published: 2024-10-31T20:31:07+00:00
-
- ## New Fluid Topics Tenant
- - [https://pub-rm20.apps.eagle.org](https://pub-rm20.apps.eagle.org)
- - date_published: 2024-06-20T02:14:46.551157+00:00
-
- ## American Bureau of Shipping (ABS) Eagle.org
- - [https://ww2.eagle.org](https://ww2.eagle.org)
- - date_published: 2024-06-19T21:37:01+00:00
-
- ## Cierpliwości...
- - [http://www.eagleforum.org](http://www.eagleforum.org)
- - date_published: 2024-07-03T22:35:17.485021+00:00
-
- ## Eagles Charitable Foundation
- - [http://eaglescharitablefoundation.org](http://eaglescharitablefoundation.org)
- - date_published: 2024-09-16T09:40:22.854454+00:00
-
- ## EAGxNordics'24
- - [https://www.eagxnordics.org](https://www.eagxnordics.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Environmental Analysis Health and Toxicology (EAHT)
- - [http://eaht.org](http://eaht.org)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## :: EAHT :: Environmental Analysis Health and Toxicology
- - [http://submit.eaht.org](http://submit.eaht.org)
- - date_published: 2024-06-25T16:04:09.829106+00:00
-
- ## Home - EA Hub
- - [https://eahub.org](https://eahub.org)
- - date_published: 2024-06-29T10:19:45.068530+00:00
-
- ## European Association for International Education | EAIE Homepage
- - [https://www.eaie.org](https://www.eaie.org)
- - date_published: 2024-10-15T03:50:01.449364+00:00
-
- ## Евро-Азиатский Еврейский Конгресс
- - [http://eajc.org](http://eajc.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Homepage - Welcome to European/American Journals - EA Journals
- - [http://www.eajournals.org](http://www.eajournals.org)
- - date_published: 2024-10-18T01:53:16+00:00
-
- ## EAMIR || music-making for everyone
- - [https://www.eamir.org](https://www.eamir.org)
- - date_published: 2023-11-30T23:35:55+00:00
-
- ## Eamon Adventurer's Guild
- - [https://www.eamonag.org](https://www.eamonag.org)
- - date_published: 2016-12-31T15:00:00+00:00
 

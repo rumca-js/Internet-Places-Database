@@ -1,3 +1,95 @@
+ ## Journo Portfolio – Portfolio Website Builder
+ - [https://www.journoportfolio.com](https://www.journoportfolio.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## JoVE | Peer Reviewed Scientific Video Journal - Methods and Protocols
+ - [https://app.jove.com](https://app.jove.com)
+ - date_published: 2024-09-25T16:01:48.708429+00:00
+
+ ## Homepage
+ - [http://www.jove.com](http://www.jove.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home
+ - [https://joveo.com](https://joveo.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## JRPN Calculators
+ - [https://jrpn.jovial.com](https://jrpn.jovial.com)
+ - date_published: 2024-05-07T14:45:33.770394+00:00
+
+ ## Legacy Jovial RPN
+ - [https://legacy.jrpn.jovial.com](https://legacy.jrpn.jovial.com)
+ - date_published: 2021-05-18T15:47:03+00:00
+
+ ## Jovica Veljovic Type Design
+ - [https://jovicaveljovic.com](https://jovicaveljovic.com)
+ - date_published: 2024-06-28T23:29:07.984657+00:00
+
+ ## Jovylle Bermudez
+ - [https://jovyllebermudez.com](https://jovyllebermudez.com)
+ - date_published: 2024-05-11T10:25:08.045879+00:00
+
+ ## Jo Walton -- Science Fiction and Fantasy Author
+ - [http://www.jowaltonbooks.com](http://www.jowaltonbooks.com)
+ - date_published: 2024-06-22T14:04:59.622705+00:00
+
+ ## JOX-A Design Studio
+ - [http://joxadesign.com](http://joxadesign.com)
+ - date_published: 2022-07-29T20:35:45+00:00
+
+ ## Joyce and Walky! » Two xennials live in sin!
+ - [http://www.joyceandwalky.com](http://www.joyceandwalky.com)
+ - date_published: 2024-07-20T21:03:45.909686+00:00
+
+ ## Joyce Paton
+ - [http://www.joycepaton.com](http://www.joycepaton.com)
+ - date_published: 2024-10-21T17:42:58.402452+00:00
+
+ ## Pirates of the Caribbean
+ - [http://tidesofwar.joycity.com](http://tidesofwar.joycity.com)
+ - date_published: 2024-10-26T09:25:37.926151+00:00
+
+ ## Home | Joyent
+ - [https://joyent.com](https://joyent.com)
+ - date_published: 2024-05-08T03:28:00.334095+00:00
+
+ ## Joyeux Bazar, explorons notre rapport aux différences
+ - [https://joyeuxbazar.com](https://joyeuxbazar.com)
+ - date_published: 2024-08-18T02:58:27.640122+00:00
+
+ ## Home - Joyful Systems
+ - [https://joyful.com](https://joyful.com)
+ - date_published: 2024-05-08T11:44:42.427723+00:00
+
+ ## CEU and Diversified Income Streams Consultant
+ - [http://joyfulhappymom.com](http://joyfulhappymom.com)
+ - date_published: 2024-05-07T18:34:27.119619+00:00
+
+ ## Welcome to Joyful 'toons - Joyful 'toons
+ - [http://www.joyfultoons.com](http://www.joyfultoons.com)
+ - date_published: 2023-06-28T00:00:00+00:00
+
+ ## Joy Harjo Official Site
+ - [http://www.joyharjo.com](http://www.joyharjo.com)
+ - date_published: 2024-08-11T22:38:11.860951+00:00
+
+ ## JOYLAND | a literary journal in multiple timezones
+ - [https://joylandmagazine.com](https://joylandmagazine.com)
+ - date_published: 2024-07-01T05:01:52.695021+00:00
+
+ ## Joy Mayer
+ - [https://joymayer.com](https://joymayer.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 蜂玩娛樂
+ - [https://www.joymobee.com](https://www.joymobee.com)
+ - date_published: 2024-10-25T10:48:59.044919+00:00
+
+ ## Joy Objects
+ - [https://joyobjects.com](https://joyobjects.com)
+ - date_published: 2022-02-04T00:00:00+00:00
+
  ## The Joy of Cryptography
  - [https://joyofcryptography.com](https://joyofcryptography.com)
  - date_published: 2024-08-19T16:32:40.367946+00:00
@@ -3945,96 +4037,4 @@
  ## Kaltura | Homepage
  - [http://cdnbakmi.kaltura.com](http://cdnbakmi.kaltura.com)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cdnsecakmi.kaltura.com](https://cdnsecakmi.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cfvod.irp2.ovp.kaltura.com](https://cfvod.irp2.ovp.kaltura.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://cfvod.kaltura.com](https://cfvod.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://corp.kaltura.com](https://corp.kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura VPaaS API Documentation
- - [https://developer.kaltura.com](https://developer.kaltura.com)
- - date_published: 2024-06-21T22:38:25.916740+00:00
-
- ## Kaltura Virtual Events
- - [https://eventplatform.kaltura.com](https://eventplatform.kaltura.com)
- - date_published: 2024-06-10T07:02:07+00:00
-
- ## From data to dialogue: Adobe's AI-driven communication strategy  - Save the Date
- - [https://from-data-to-dialogue.events.kaltura.com](https://from-data-to-dialogue.events.kaltura.com)
- - date_published: 2024-08-08T22:36:50+00:00
-
- ## How do your higher education digital experiences measure up? Looking at 2024’s survey findings
- - [https://how-do-your-higher-education-digital-experiences-measure-u-ac09.sites.kaltura.com](https://how-do-your-higher-education-digital-experiences-measure-u-ac09.sites.kaltura.com)
- - date_published: 2024-06-16T02:13:38.626252+00:00
-
- ## Insights that drive action: how AI enhances (not replaces) human decision-making
- - [https://insights-that-drive-action-how-ai-enhances-not-replaces-f5eb.sites.kaltura.com](https://insights-that-drive-action-how-ai-enhances-not-replaces-f5eb.sites.kaltura.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Investor Relations | Kaltura
- - [https://investors.kaltura.com](https://investors.kaltura.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## More than a webinar: turning sessions into lead-generating machines
- - [https://it-s-not-just-a-webinar-2460.sites.kaltura.com](https://it-s-not-just-a-webinar-2460.sites.kaltura.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://kaltura.com](https://kaltura.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Kaltura | Homepage
- - [https://kmc.kaltura.com](https://kmc.kaltura.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Kaltura Knowledge Center
- - [https://knowledge.kaltura.com](https://knowledge.kaltura.com)
- - date_published: 2023-06-06T00:00:00+00:00
-
- ## Reader Login | Cloud TV Knowledge Center
- - [https://knowledge.tv.kaltura.com](https://knowledge.tv.kaltura.com)
- - date_published: 2024-08-19T18:30:13.713937+00:00
-
- ## Kaltura Learning
- - [https://learning.kaltura.com](https://learning.kaltura.com)
- - date_published: 2024-06-16T02:13:39+00:00
-
- ## Kaltura Learning
- - [https://learning.mediaspace.kaltura.com](https://learning.mediaspace.kaltura.com)
- - date_published: 2024-06-16T02:13:45+00:00
-
- ## Get 2025 ready with enablement programs that drive results - Save the Date
- - [https://measurable-enablement-programs.events.kaltura.com](https://measurable-enablement-programs.events.kaltura.com)
- - date_published: 2024-09-20T19:27:28+00:00
-
- ## Kaltura.Com Account
- - [https://origin.mediaspace.kaltura.com](https://origin.mediaspace.kaltura.com)
- - date_published: 2024-07-22T08:50:05+00:00
-
- ## Penn State MediaSpace
- - [https://psu.mediaspace.kaltura.com](https://psu.mediaspace.kaltura.com)
- - date_published: 2024-07-01T17:27:04+00:00
-
- ## Kaltura | Homepage
- - [https://static.kaltura.com](https://static.kaltura.com)
- - date_published: 2024-09-04T14:51:42+00:00
-
- ## Kaltura Status
- - [https://status.kaltura.com](https://status.kaltura.com)
- - date_published: 2024-07-01T18:09:28.134595+00:00
-
- ## Kaltura Purchasing Framework
- - [https://subscription.kaltura.com](https://subscription.kaltura.com)
- - date_published: 2024-04-18T06:49:13+00:00
 

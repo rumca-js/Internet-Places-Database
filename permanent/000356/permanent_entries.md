@@ -1,3 +1,263 @@
+ ## AI Singapore Community | Towards a data savvy, AI aware nation
+ - [https://connect.aisingapore.org](https://connect.aisingapore.org)
+ - date_published: 2023-12-05T22:36:46+00:00
+
+ ## LearnAI
+ - [https://learn.aisingapore.org](https://learn.aisingapore.org)
+ - date_published: 2024-07-12T08:18:55.058754+00:00
+
+ ## AI Singapore – Medium
+ - [https://medium.aisingapore.org](https://medium.aisingapore.org)
+ - date_published: 2024-07-12T08:18:46.264372+00:00
+
+ ## Online Safety Prize Challenge AI Singapore
+ - [https://ospc.aisingapore.org](https://ospc.aisingapore.org)
+ - date_published: 2024-05-10T05:10:26.818230+00:00
+
+ ## Home - AI Singapore
+ - [https://www4.aisingapore.org](https://www4.aisingapore.org)
+ - date_published: 2022-05-03T10:19:27+00:00
+
+ ## AISNE – Association of Independent Schools In New England
+ - [https://aisne.org](https://aisne.org)
+ - date_published: 2024-07-12T23:08:09.804236+00:00
+
+ ## Association for Information Systems (AIS) eLibrary
+ - [https://aisel.aisnet.org](https://aisel.aisnet.org)
+ - date_published: 2024-07-27T02:47:43.563672+00:00
+
+ ## Association for Information Systems (AIS)
+ - [https://www.aisnet.org](https://www.aisnet.org)
+ - date_published: 2024-07-15T03:02:04.830525+00:00
+
+ ## Home
+ - [http://www.aist.org](http://www.aist.org)
+ - date_published: 2024-08-18T19:29:31.207865+00:00
+
+ ## Home
+ - [https://aistats.org](https://aistats.org)
+ - date_published: 2023-07-27T20:00:53+00:00
+
+ ## 2024 Conference
+ - [https://virtual.aistats.org](https://virtual.aistats.org)
+ - date_published: 2024-07-01T20:06:15.492591+00:00
+
+ ## International Academy of Sport Science and Technology
+ - [https://aists.org](https://aists.org)
+ - date_published: 2024-05-12T07:16:33.419615+00:00
+
+ ## Aito
+ - [http://aito.org](http://aito.org)
+ - date_published: 2024-07-22T11:31:23.855835+00:00
+
+ ## AITopics
+ - [https://aitopics.org](https://aitopics.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representation Engineering: A Top-Down Approach to AI Transparency
+ - [https://www.ai-transparency.org](https://www.ai-transparency.org)
+ - date_published: 2024-07-06T19:50:28.194291+00:00
+
+ ## Home - Planned Giving - Amnesty International
+ - [https://www.aiusalegacy.org](https://www.aiusalegacy.org)
+ - date_published: 2024-10-31T20:13:33.619398+00:00
+
+ ## Home - AIVA
+ - [http://aiva.org](http://aiva.org)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## AIware 2024
+ - [https://2024.aiwareconf.org](https://2024.aiwareconf.org)
+ - date_published: 2024-08-06T04:28:08.144877+00:00
+
+ ## AIWOD | AI Workout of the Day
+ - [https://www.aiwod.org](https://www.aiwod.org)
+ - date_published: 2024-06-19T20:36:42.393207+00:00
+
+ ## AI Writer - free Notion-like text editor with AI features
+ - [https://ai-writer.org](https://ai-writer.org)
+ - date_published: 2024-06-14T08:51:28.588344+00:00
+
+ ## AIXR XR Awards - 8 Years of VR, AR & MR Celebration by AIXR
+ - [https://vrawards.aixr.org](https://vrawards.aixr.org)
+ - date_published: 2024-07-19T22:48:47.656868+00:00
+
+ ## Australia India Youth Dialogue - Young Leaders’ Dialogue
+ - [https://aiyd.org](https://aiyd.org)
+ - date_published: 2024-05-01T03:40:59.156339+00:00
+
+ ## AJAC | Advanced Manufacturing Apprenticeships
+ - [https://www.ajactraining.org](https://www.ajactraining.org)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Andrea Kramm
+ - [http://ajaiy.org](http://ajaiy.org)
+ - date_published: 2013-03-31T03:21:30+00:00
+
+ ## AJA | American Journal of Archaeology
+ - [https://www.ajaonline.org](https://www.ajaonline.org)
+ - date_published: 2024-10-29T16:33:28+00:00
+
+ ## Premium WordPress Plugins - ★ Ajaxy - ajaxy.org
+ - [https://ajaxy.org](https://ajaxy.org)
+ - date_published: 2021-07-12T00:00:00+00:00
+
+ ## Home - AJBC
+ - [https://ajbcwa.org](https://ajbcwa.org)
+ - date_published: 2021-10-25T00:00:00+00:00
+
+ ## American Jewish Committee (AJC)
+ - [https://ajc.org](https://ajc.org)
+ - date_published: 2024-06-17T11:29:57+00:00
+
+ ## American Jewish Committee (AJC)
+ - [https://donate.ajc.org](https://donate.ajc.org)
+ - date_published: 2024-10-19T08:49:39.033771+00:00
+
+ ## Search - Soutron LMS
+ - [https://ajcarchives.org](https://ajcarchives.org)
+ - date_published: 2024-06-17T12:28:21.789563+00:00
+
+ ## American Jewish Committee Berlin Office | AJC Germany
+ - [https://ajcgermany.org](https://ajcgermany.org)
+ - date_published: 2024-06-17T12:28:16+00:00
+
+ ## thinking out loud – works in progress and scattered thoughts, often about computers
+ - [https://thinking.ajdecon.org](https://thinking.ajdecon.org)
+ - date_published: 2024-02-26T15:10:56.934550+00:00
+
+ ## Adam DeConinck
+ - [https://www.ajdecon.org](https://www.ajdecon.org)
+ - date_published: 2023-06-19T21:02:49+00:00
+
+ ## Inicio - Aje
+ - [https://www.ajeecuador.org](https://www.ajeecuador.org)
+ - date_published: 2021-02-13T00:00:00+00:00
+
+ ## ajft.org
+ - [https://ajft.org](https://ajft.org)
+ - date_published: 2024-05-12T06:14:04.225736+00:00
+
+ ## Home | Anna Jaques Hospital
+ - [https://www.ajh.org](https://www.ajh.org)
+ - date_published: 2024-07-15T04:24:41.846947+00:00
+
+ ## American Jewish Historical Society
+ - [https://ajhs.org](https://ajhs.org)
+ - date_published: 2024-10-18T16:12:16.370766+00:00
+
+ ## Allbritton Journalism Institute — Democracy needs a new generation of journalists
+ - [https://aji.org](https://aji.org)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## https://www.ajicjournal.org
+ - [https://ajicjournal.org](https://ajicjournal.org)
+ - date_published: 2024-01-25T18:17:06.459124+00:00
+
+ ## Ajila : Nous protégeons votre cœur
+ - [http://ajila.org](http://ajila.org)
+ - date_published: 2024-07-12T05:42:30.598457+00:00
+
+ ## Cierpliwości...
+ - [http://ajkd.org](http://ajkd.org)
+ - date_published: 2024-06-28T11:50:18.997550+00:00
+
+ ## AJKD Blog
+ - [https://ajkdblog.org](https://ajkdblog.org)
+ - date_published: 2024-05-06T22:44:17.972594+00:00
+
+ ## المرصد العربي للصحافة - AJO
+ - [https://ajo-ar.org](https://ajo-ar.org)
+ - date_published: 2024-04-30T06:01:05.242984+00:00
+
+ ## Observatoire Arabe du Journalisme - AJO
+ - [https://ajo-fr.org](https://ajo-fr.org)
+ - date_published: 2024-04-30T06:01:18.325986+00:00
+
+ ## Cierpliwości...
+ - [https://www.ajpmonline.org](https://www.ajpmonline.org)
+ - date_published: 2024-07-06T19:17:59.215487+00:00
+
+ ## American Journalism Review
+ - [https://ajr.org](https://ajr.org)
+ - date_published: 2019-04-15T14:43:00+00:00
+
+ ## American Journalism Review - Archives
+ - [http://ajrarchive.org](http://ajrarchive.org)
+ - date_published: 2024-07-19T03:04:25.612808+00:00
+
+ ## Cierpliwości...
+ - [http://www.ajronline.org](http://www.ajronline.org)
+ - date_published: 2024-06-20T02:29:25.599296+00:00
+
+ ## American Journal of Science
+ - [http://www.ajsonline.org](http://www.ajsonline.org)
+ - date_published: 2024-06-30T02:32:37.928552+00:00
+
+ ## Home
+ - [https://www.ajtmh.org](https://www.ajtmh.org)
+ - date_published: 2024-10-20T07:19:45.676782+00:00
+
+ ## AJUG | Atlanta Java User Group
+ - [https://ajug.org](https://ajug.org)
+ - date_published: 2024-05-15T16:07:38+00:00
+
+ ## AKASHA Foundation
+ - [https://akasha.org](https://akasha.org)
+ - date_published: 2024-06-16T04:04:52.199009+00:00
+
+ ## AKASHA Blog
+ - [https://blog.akasha.org](https://blog.akasha.org)
+ - date_published: 2024-09-14T08:48:28.709669+00:00
+
+ ## SecEng Newsletter by Andrew Katz
+ - [https://akatz.org](https://akatz.org)
+ - date_published: 2024-02-25T14:47:45.205931+00:00
+
+ ## https://blog.akatz.org
+ - [https://blog.akatz.org](https://blog.akatz.org)
+ - date_published: 2023-10-25T20:55:21.266459+00:00
+
+ ## American Kennel Club
+ - [https://akc.org](https://akc.org)
+ - date_published: 2024-06-15T11:08:28.358543+00:00
+
+ ## American Kennel Club
+ - [https://apps.akc.org](https://apps.akc.org)
+ - date_published: 2024-09-17T21:29:48.425477+00:00
+
+ ## AKC Marketplace - Your Expert Source for Canine Connections
+ - [https://marketplace.akc.org](https://marketplace.akc.org)
+ - date_published: 2024-09-17T21:29:14.113985+00:00
+
+ ## Retrievist → Pet Product Reviews, Buying Advice, and The Best Deals | AKC
+ - [https://retrievist.akc.org](https://retrievist.akc.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Dog Breed Apparel, Supplies & Accessories | AKC Shop
+ - [https://shop.akc.org](https://shop.akc.org)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## AKCHumaneFund
+ - [https://www.akchumanefund.org](https://www.akchumanefund.org)
+ - date_published: 2024-09-17T21:28:48.290528+00:00
+
+ ## Pet Microchips | Lost Pet Recovery | AKC Reunite
+ - [https://www.akcreunite.org](https://www.akcreunite.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## AKAH – HP – Habitat Planning
+ - [https://habitatplanning.akdn.org](https://habitatplanning.akdn.org)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## AKENS – Arbeitskreis zur Erforschung des Nationalsozialismus in Schleswig-Holstein e.V.
+ - [http://www.akens.org](http://www.akens.org)
+ - date_published: 2024-07-03T11:46:07+00:00
+
+ ## Alaska's 33rd legislature | Alaska House Coalition
+ - [https://www.akhouse.org](https://www.akhouse.org)
+ - date_published: 2023-02-01T23:56:16+00:00
+
  ## Home Page
  - [https://www.akpress.org](https://www.akpress.org)
  - date_published: 2024-07-10T08:46:42.640893+00:00
@@ -3771,269 +4031,4 @@
  ## ActiveMQ
  - [http://activemq.apache.org](http://activemq.apache.org)
  - date_published: 2024-06-16T23:51:47+00:00
-
- ## Apache AGE, Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
- - [https://age.apache.org](https://age.apache.org)
- - date_published: 2024-06-12T20:32:34+00:00
-
- ## Apache Airavata
- - [http://airavata.apache.org](http://airavata.apache.org)
- - date_published: 2022-04-26T21:12:34+00:00
-
- ## Home
- - [https://airflow.apache.org](https://airflow.apache.org)
- - date_published: 2024-05-01T07:40:27.875985+00:00
-
- ## Apache Allura
- - [https://allura.apache.org](https://allura.apache.org)
- - date_published: 2024-06-12T18:55:21+00:00
-
- ## Ambari -
- - [https://ambari.apache.org](https://ambari.apache.org)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## All Websites dashboard - Web Analytics Reports - Matomo
- - [https://analytics.apache.org](https://analytics.apache.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Apache Annotator
- - [http://annotator.incubator.apache.org](http://annotator.incubator.apache.org)
- - date_published: 2023-10-01T18:37:48+00:00
-
- ## Apache Answer
- - [https://answer.apache.org](https://answer.apache.org)
- - date_published: 2024-07-02T08:03:28+00:00
-
- ## Apache Ant - Welcome
- - [https://ant.apache.org](https://ant.apache.org)
- - date_published: 2023-11-26T00:00:00+00:00
-
- ## Apache Any23 – Apache Any23 - Introduction
- - [https://any23.apache.org](https://any23.apache.org)
- - date_published: 2022-03-03T00:00:00+00:00
-
- ## Welcome to The Apache Software Foundation!
- - [https://apache.org](https://apache.org)
- - date_published: 2023-12-08T15:54:41+00:00
- - tags: ['open source']
-
- ## Apache APISIX® -- Cloud-Native API Gateway
- - [https://apisix.apache.org](https://apisix.apache.org)
- - date_published: 2023-10-25T20:57:27.495040+00:00
-
- ## Welcome! - The Apache Portable Runtime Project
- - [https://apr.apache.org](https://apr.apache.org)
- - date_published: 2023-04-20T07:19:38+00:00
-
- ## Welcome! - The Apache Software Foundation
- - [http://archive.apache.org](http://archive.apache.org)
- - date_published: 2023-03-14T01:10:27+00:00
-
- ## Apache Aries :: Apache Aries
- - [http://aries.apache.org](http://aries.apache.org)
- - date_published: 2024-04-22T11:18:32+00:00
-
- ## Apache Arrow | Apache Arrow
- - [https://arrow.apache.org](https://arrow.apache.org)
- - date_published: 2023-10-25T20:57:33.670630+00:00
-
- ## Apache AsterixDB
- - [http://asterixdb.apache.org](http://asterixdb.apache.org)
- - date_published: 2024-04-01T23:11:17+00:00
-
- ## Apache Atlas – Data Governance and Metadata framework for Hadoop
- - [https://atlas.apache.org](https://atlas.apache.org)
- - date_published: 2022-12-07T08:57:41+00:00
-
- ## The Apache Attic - Apache Attic
- - [https://attic.apache.org](https://attic.apache.org)
- - date_published: 2024-05-31T10:24:32+00:00
-
- ## Apache Avro
- - [https://avro.apache.org](https://avro.apache.org)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Apache Axis
- - [http://axis.apache.org](http://axis.apache.org)
- - date_published: 2022-07-22T00:00:00+00:00
-
- ## Apache Baremaps - Apache Baremaps
- - [https://baremaps.apache.org](https://baremaps.apache.org)
- - date_published: 2023-10-25T20:57:39.542922+00:00
-
- ## Apache Beam®
- - [https://beam.apache.org](https://beam.apache.org)
- - date_published: 2024-05-01T07:45:40.098948+00:00
- - tags: ['open source']
-
- ## Bigtop – Apache Bigtop
- - [http://bigtop.apache.org](http://bigtop.apache.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Blogs Archive | This is an archive of the Roller blogs that were previously hosted on blogs.apache.org
- - [https://blogs.apache.org](https://blogs.apache.org)
- - date_published: 2023-10-25T20:58:07.343179+00:00
-
- ## Hello from Apache BookKeeper | Apache BookKeeper
- - [http://bookkeeper.apache.org](http://bookkeeper.apache.org)
- - date_published: 2024-07-01T23:55:53+00:00
-
- ## Home - Apache Brooklyn
- - [http://brooklyn.apache.org](http://brooklyn.apache.org)
- - date_published: 2020-03-02T23:36:30+00:00
-
- ## bRPC
- - [http://brpc.apache.org](http://brpc.apache.org)
- - date_published: 2024-01-10T08:25:05+00:00
-
- ## [WIP] Apache BuildStream website - Apache BuildStream
- - [http://buildstream.apache.org](http://buildstream.apache.org)
- - date_published: 2023-10-08T14:56:24+00:00
-
- ## Apache BVal
- - [http://bval.apache.org](http://bval.apache.org)
- - date_published: 2021-06-17T19:26:39+00:00
-
- ## BugZilla at the Apache Software Foundation
- - [https://bz.apache.org](https://bz.apache.org)
- - date_published: 2024-02-12T18:45:18+00:00
-
- ## Apache Calcite • Dynamic data management framework
- - [https://calcite.apache.org](https://calcite.apache.org)
- - date_published: 2024-01-09T00:32:26+00:00
-
- ## Home
- - [http://camel.apache.org](http://camel.apache.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## CarbonData
- - [http://carbondata.apache.org](http://carbondata.apache.org)
- - date_published: 2023-11-25T17:13:15+00:00
-
- ## Apache Cassandra | Apache Cassandra Documentation
- - [https://cassandra.apache.org](https://cassandra.apache.org)
- - date_published: 2024-05-25T04:44:12.464564+00:00
- - tags: ['open source']
-
- ## apache causeway
- - [http://causeway.apache.org](http://causeway.apache.org)
- - date_published: 2024-04-29T09:02:24+00:00
-
- ## Apache Cayenne
- - [http://cayenne.apache.org](http://cayenne.apache.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Apache Celeborn™
- - [http://celeborn.apache.org](http://celeborn.apache.org)
- - date_published: 2024-06-25T08:40:50+00:00
-
- ## Welcome to Apache Celix
- - [http://celix.apache.org](http://celix.apache.org)
- - date_published: 2024-05-01T04:32:26+00:00
-
- ## Chukwa - 
-    Welcome to Apache Chukwa
- - [https://chukwa.apache.org](https://chukwa.apache.org)
- - date_published: 2016-10-08T00:00:00+00:00
-
- ## Dashboard [Jenkins]
- - [https://ci-builds.apache.org](https://ci-builds.apache.org)
- - date_published: 2024-09-21T22:39:42.261249+00:00
-
- ## Apache CloudStack | Apache CloudStack
- - [http://cloudstack.apache.org](http://cloudstack.apache.org)
- - date_published: 2024-07-19T10:08:59+00:00
-
- ## Cocoon Main Site - Welcome
- - [http://cocoon.apache.org](http://cocoon.apache.org)
- - date_published: 2024-01-11T23:24:59+00:00
-
- ## Apache Commons – Apache Commons
- - [https://commons.apache.org](https://commons.apache.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## ASF Community Development - Welcome
- - [https://community.apache.org](https://community.apache.org)
- - date_published: 2024-07-17T03:02:38+00:00
-
- ## Community.zones has been disabled
- - [http://community.zones.apache.org](http://community.zones.apache.org)
- - date_published: 2024-07-17T03:02:38+00:00
-
- ## Apache CouchDB
- - [https://couchdb.apache.org](https://couchdb.apache.org)
- - date_published: 2024-05-06T15:18:26.990802+00:00
- - tags: ['database system']
-
- ## Apache Creadur
- - [http://creadur.apache.org](http://creadur.apache.org)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Apache cTAKES™ - clinical Text Analysis Knowledge Extraction System
- - [http://ctakes.apache.org](http://ctakes.apache.org)
- - date_published: 2021-06-17T19:57:44+00:00
-
- ## Apache Curator
- - [http://curator.apache.org](http://curator.apache.org)
- - date_published: 2024-06-15T05:36:44+00:00
-
- ## Dashboard - Apache Software Foundation
- - [https://cwiki.apache.org](https://cwiki.apache.org)
- - date_published: 2023-10-25T20:58:13.723236+00:00
-
- ## Apache CXF -- Index
- - [http://cxf.apache.org](http://cxf.apache.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Apache Daffodil | Home
- - [http://daffodil.apache.org](http://daffodil.apache.org)
- - date_published: 2024-06-14T19:04:27+00:00
-
- ## Apache DataFu
- - [http://datafu.apache.org](http://datafu.apache.org)
- - date_published: 2024-01-16T19:56:02+00:00
-
- ## Apache DataFusion — Apache DataFusion  documentation
- - [http://datafusion.apache.org](http://datafusion.apache.org)
- - date_published: 2024-07-18T10:04:25+00:00
-
- ## DataSketches |
- - [https://datasketches.apache.org](https://datasketches.apache.org)
- - date_published: 2024-03-25T08:24:41+00:00
-
- ## Welcome to Apache Directory — Apache Directory
- - [http://directory.apache.org](http://directory.apache.org)
- - date_published: 2024-02-06T07:44:05+00:00
-
- ## Apache Diversity and Inclusion
- - [https://diversity.apache.org](https://diversity.apache.org)
- - date_published: 2023-11-07T19:29:04+00:00
-
- ## Index of /
- - [https://dlcdn.apache.org](https://dlcdn.apache.org)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Introduction | Apache Pinot Docs
- - [https://docs.pinot.apache.org](https://docs.pinot.apache.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Apache DolphinScheduler
- - [http://dolphinscheduler.apache.org](http://dolphinscheduler.apache.org)
- - date_published: 2024-07-17T01:23:33+00:00
-
- ## SUPPORT APACHE
- - [https://donate.apache.org](https://donate.apache.org)
- - date_published: 2024-06-15T15:53:38.423093+00:00
-
- ## Apache Doris: Open-Source Real-Time Data Warehouse - Apache Doris
- - [https://doris.apache.org](https://doris.apache.org)
- - date_published: 2023-10-25T20:58:16.050231+00:00
-
- ## Index of /
- - [http://downloads.apache.org](http://downloads.apache.org)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Apache Drill - Schema-free SQL for Hadoop, NoSQL and Cloud Storage
- - [http://drill.apache.org](http://drill.apache.org)
- - date_published: 2024-06-23T07:15:15+00:00
 

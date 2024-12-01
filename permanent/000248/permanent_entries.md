@@ -1,3 +1,227 @@
+ ## Reinhold Leinfelder's Homepage
+ - [https://reinhold-leinfelder.de](https://reinhold-leinfelder.de)
+ - date_published: 2024-04-29T06:45:42.352757+00:00
+
+ ## Reisebank | Die Experten für Bargeld und Edelmetalle
+ - [https://www.reisebank.de](https://www.reisebank.de)
+ - date_published: 2024-09-16T17:11:15.801011+00:00
+
+ ## Reisefroh
+ - [http://reisefroh.de](http://reisefroh.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Reiseschmaus - Dein Food & Travel Blog
+ - [https://reiseschmaus.de](https://reiseschmaus.de)
+ - date_published: 2024-07-15T22:04:42+00:00
+
+ ## Reisewege Ungarn
+ - [https://reisewege-ungarn.de](https://reisewege-ungarn.de)
+ - date_published: 2024-05-12T06:24:57.559691+00:00
+
+ ## Relaxdays | Wohnen, Garten, Sport & Freizeit
+ - [https://relaxdays.de](https://relaxdays.de)
+ - date_published: 2024-09-25T19:09:49.971028+00:00
+
+ ## Digital Services, Technologie und Beratung | Reply
+ - [https://reply.de](https://reply.de)
+ - date_published: 2024-07-09T14:20:30+00:00
+
+ ## Report Antisemitism
+ - [https://report-antisemitism.de](https://report-antisemitism.de)
+ - date_published: 2020-01-01T00:00:00+00:00
+
+ ## Startseite - Reporter4You
+ - [https://reporter4you.de](https://reporter4you.de)
+ - date_published: 2024-10-18T23:35:10.434222+00:00
+
+ ## Reporter ohne Grenzen
+ - [https://reporter-ohne-grenzen.de](https://reporter-ohne-grenzen.de)
+ - date_published: 2024-04-29T06:42:25.058753+00:00
+
+ ## RSF Shop - RSF Shop
+ - [https://shop.reporter-ohne-grenzen.de](https://shop.reporter-ohne-grenzen.de)
+ - date_published: 2024-07-24T05:20:44.820239+00:00
+
+ ## republic.de - REPUBLIC
+ - [https://www.republic.de](https://www.republic.de)
+ - date_published: 2024-07-24T04:33:57.957981+00:00
+
+ ## www.reschke.de | Startseite
+ - [https://reschke.de](https://reschke.de)
+ - date_published: 2024-10-14T17:44:22.579008+00:00
+
+ ## Stadt Bad Dürkheim - Ticketshop - Alle Events
+ - [https://bad-duerkheim.reservix.de](https://bad-duerkheim.reservix.de)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Ticketshop - Deutsches Elektronen-Synchrotron DESY - Alle Events
+ - [https://creazione.reservix.de](https://creazione.reservix.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Metal Hammer Ticketshop
+ - [https://metal-hammer.reservix.de](https://metal-hammer.reservix.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Musikexpress Ticketshop
+ - [https://musikexpress.reservix.de](https://musikexpress.reservix.de)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Rolling Stone Ticketshop
+ - [https://rollingstone.reservix.de](https://rollingstone.reservix.de)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Support
+ - [https://service.reservix.de](https://service.reservix.de)
+ - date_published: 2024-08-08T20:40:18.562130+00:00
+
+ ## Wegweiser für gehobene Seniorenresidenzen – Residenz-Kompass
+ - [https://www.residenz-kompass.de](https://www.residenz-kompass.de)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## dormakaba resivo
+ - [https://resivo.de](https://resivo.de)
+ - date_published: 2024-05-11T09:34:51.725605+00:00
+
+ ## ResonantBytes – ResonantBytes
+ - [https://resonant-bytes.de](https://resonant-bytes.de)
+ - date_published: 2022-10-28T12:46:55+00:00
+
+ ## Respekt: Menschen!
+ - [http://home.respekt-menschen.de](http://home.respekt-menschen.de)
+ - date_published: 2024-07-02T18:43:33.317167+00:00
+
+ ## Mein ökologischer Rucksack | Der Ressourcenrechner des Wuppertal Instituts
+ - [http://ressourcen-rechner.de](http://ressourcen-rechner.de)
+ - date_published: 2024-07-18T05:50:23.189595+00:00
+
+ ## Startseite - Restaurant Arche Nova
+ - [http://restaurant-archenova.de](http://restaurant-archenova.de)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Restaurant im Herzen Nürnbergs - Restaurant Trödelstuben
+ - [https://www.restaurant-troedelstuben.de](https://www.restaurant-troedelstuben.de)
+ - date_published: 2024-07-14T15:46:57.754212+00:00
+
+ ## restaurant-vinayaga.de - Ta strona jest na sprzedaż! - restaurant vinayaga Zasoby i informacje.
+ - [https://restaurant-vinayaga.de](https://restaurant-vinayaga.de)
+ - date_published: 2024-04-30T07:12:31.488778+00:00
+
+ ## Start - The Wilsons Restaurant
+ - [http://restaurant-wilsons.de](http://restaurant-wilsons.de)
+ - date_published: 2024-09-25T19:03:23.529928+00:00
+
+ ## restmodern.de - alltägliche Nachkriegsarchitektur in Berlin
+ - [http://www.restmodern.de](http://www.restmodern.de)
+ - date_published: 2010-05-02T10:19:27+00:00
+
+ ## Restore-Store
+ - [https://restore-store.de](https://restore-store.de)
+ - date_published: 2024-06-28T08:37:27.430679+00:00
+
+ ## RETRO-AKTIV online
+ - [http://www.retro-aktiv.de](http://www.retro-aktiv.de)
+ - date_published: 2024-01-23T14:12:44+00:00
+
+ ## retrocmp / retro computing
+ - [https://retrocmp.de](https://retrocmp.de)
+ - date_published: 2023-10-25T11:15:38.287955+00:00
+
+ ## retronn.de News and latest changes
+ - [https://retronn.de](https://retronn.de)
+ - date_published: 2019-04-01T10:11:50+00:00
+
+ ## RETURN – Das Magazin
+ - [https://return-magazin.de](https://return-magazin.de)
+ - date_published: 2024-05-07T19:09:41.217396+00:00
+
+ ## Hochschule Reutlingen - Shaping the Future. Together. | Reutlingen University
+ - [http://www.reutlingen-university.de](http://www.reutlingen-university.de)
+ - date_published: 2024-06-21T20:09:12.368189+00:00
+
+ ## Revenera – Lösungen für Software- und IoT-Unternehmen
+ - [https://www.revenera.de](https://www.revenera.de)
+ - date_published: 2024-10-09T13:52:01+00:00
+
+ ## Wocki's Acorn Emulation Site
+ - [http://acorn.revivalteam.de](http://acorn.revivalteam.de)
+ - date_published: 2024-09-02T15:04:46.108741+00:00
+
+ ## REWE Onlineshop: Lebensmittel & mehr im Online-Supermarkt!
+ - [https://shop.rewe.de](https://shop.rewe.de)
+ - date_published: 2024-06-04T20:30:47.528732+00:00
+
+ ## RGE Unternehmensberatung
+ - [http://rge-partner.de](http://rge-partner.de)
+ - date_published: 2024-07-13T15:04:12.849148+00:00
+
+ ## RheinEnergieSTADION - Die vielseitige Eventlocation in Köln
+ - [https://www.rheinenergiestadion.de](https://www.rheinenergiestadion.de)
+ - date_published: 2024-10-22T11:14:35.337492+00:00
+
+ ## Karriere
+ - [https://karriere.rheinischepostmediengruppe.de](https://karriere.rheinischepostmediengruppe.de)
+ - date_published: 2024-10-29T10:51:35.394097+00:00
+
+ ## Rheinische Post Mediengruppe
+ - [https://www.rheinischepostmediengruppe.de](https://www.rheinischepostmediengruppe.de)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home
+ - [https://rheinland-studie.de](https://rheinland-studie.de)
+ - date_published: 2024-05-11T11:49:06.511642+00:00
+
+ ## Buchungsplattform der Rheinland Studie
+ - [https://teilnehmen.rheinland-studie.de](https://teilnehmen.rheinland-studie.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [http://matomo.rhein-main-universitaeten.de](http://matomo.rhein-main-universitaeten.de)
+ - date_published: 2024-07-24T04:22:38.042626+00:00
+
+ ## Home | Rhein-Main Universitäten
+ - [https://rhein-main-universitaeten.de](https://rhein-main-universitaeten.de)
+ - date_published: 2024-04-29T06:56:16.511033+00:00
+
+ ## Rhein-Neckar-Wiki
+ - [https://rhein-neckar-wiki.de](https://rhein-neckar-wiki.de)
+ - date_published: 2024-07-27T00:00:00+00:00
+
+ ## Rheinpark-Center Neuss | Ausgewählte Markenvielfalt
+ - [https://www.rheinparkcenter-neuss.de](https://www.rheinparkcenter-neuss.de)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Themenwelten - Sonderthemen - Rheinpfalz - Rheinpfalz
+ - [https://themenwelten.rheinpfalz.de](https://themenwelten.rheinpfalz.de)
+ - date_published: 2024-07-12T05:20:47.059337+00:00
+
+ ## Rheinwerk Konferenz für Kotlin | 16. und 17. September 2024
+ - [https://www.rheinwerk-kkon.de](https://www.rheinwerk-kkon.de)
+ - date_published: 2024-07-24T04:41:26.203293+00:00
+
+ ## Rheinwerk Verlag GmbH - Sicher online einkaufen
+ - [https://booksonline.rheinwerk-verlag.de](https://booksonline.rheinwerk-verlag.de)
+ - date_published: 2024-07-24T04:41:23.691552+00:00
+
+ ## Rheinwerk – Der Verlag für IT, Design und Fotografie
+ - [https://rheinwerk-verlag.de](https://rheinwerk-verlag.de)
+ - date_published: 2024-04-29T06:47:14.844556+00:00
+
+ ## Welcome
+ - [https://rheinwolf.de](https://rheinwolf.de)
+ - date_published: 2019-07-22T15:17:16+00:00
+
+ ## RHEUMA ZENTRUM LÜBECK
+ - [https://www.rheumazentrum-luebeck.de](https://www.rheumazentrum-luebeck.de)
+ - date_published: 2024-06-28T12:09:03.100141+00:00
+
+ ## Home
+ - [https://www.rhodos-groenau.de](https://www.rhodos-groenau.de)
+ - date_published: 2024-07-13T05:27:31+00:00
+
+ ## riad.de
+ - [http://riad.de](http://riad.de)
+ - date_published: 2023-02-09T22:06:20+00:00
+
  ## spieleschreiber
  - [http://press.richard-loewenstein.de](http://press.richard-loewenstein.de)
  - date_published: 2024-07-21T03:29:11.059457+00:00
@@ -3791,228 +4015,4 @@
  ## Tagesspiegel-Auktion - Ersteigern Sie Angebote ab 1 Euro
  - [https://auktion.tagesspiegel.de](https://auktion.tagesspiegel.de)
  - date_published: 2024-06-28T13:23:41.373662+00:00
-
- ## Tagesspiegel Background: Ihr politischer Wissensvorsprung
- - [https://background.tagesspiegel.de](https://background.tagesspiegel.de)
- - date_published: 2024-06-17T07:33:15.532169+00:00
-
- ## Tagesspiegel Begriffel — Wordle auf Deutsch spielen
- - [https://begriffel.tagesspiegel.de](https://begriffel.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:33.888364+00:00
-
- ## Tagesspiegel Checkpoint - Der beliebteste Newsletter aus Berlin
- - [https://checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de)
- - date_published: 2024-06-28T13:24:02+00:00
-
- ## contentpass
- - [https://cp.tagesspiegel.de](https://cp.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:35.122792+00:00
-
- ## E-Paper | Tagesspiegel
- - [https://epaper.tagesspiegel.de](https://epaper.tagesspiegel.de)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Rabattcodes &amp; Gutscheine im Juni 2024 - Tagesspiegel
- - [https://gutscheine.tagesspiegel.de](https://gutscheine.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:44.401195+00:00
-
- ## Tagesspiegel Jobs – Jobs mit Perspektive
- - [https://jobs.tagesspiegel.de](https://jobs.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:36.123492+00:00
-
- ## Werbeanzeigen in Berlin: Ihr Produkt in den Hauptstadt-Medien
- - [https://media.tagesspiegel.de](https://media.tagesspiegel.de)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Tagesspiegel Reisen
- - [https://reisen.tagesspiegel.de](https://reisen.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:48.156377+00:00
-
- ## Tagesspiegel-Shop
- - [https://shop.tagesspiegel.de](https://shop.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:32.059927+00:00
-
- ## Sudoku spielen
- - [https://sudoku.tagesspiegel.de](https://sudoku.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:31.189786+00:00
-
- ## Aktuelle News: Nachrichten aus Berlin und der Welt
- - [https://tagesspiegel.de](https://tagesspiegel.de)
- - date_published: 2024-05-06T22:49:51.186832+00:00
-
- ## Traueranzeigen Ihrer Region | Tagesspiegel Trauer
- - [https://trauer.tagesspiegel.de](https://trauer.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:42.725395+00:00
-
- ## Tagesspiegel Live.
- - [https://veranstaltungen.tagesspiegel.de](https://veranstaltungen.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:46.902575+00:00
-
- ## Tagesspiegel Verbraucherportal
- - [https://verbraucher.tagesspiegel.de](https://verbraucher.tagesspiegel.de)
- - date_published: 2024-06-28T13:24:00.087984+00:00
-
- ## Produkt-Vergleich | TOP 10 inkl. weiterer Test Quellen und Ratgeber!
- - [https://vergleich.tagesspiegel.de](https://vergleich.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:58.976185+00:00
-
- ## Karriere Board | Verlag Der Tagesspiegel GmbH
- - [https://verlagsjobs.tagesspiegel.de](https://verlagsjobs.tagesspiegel.de)
- - date_published: 2024-06-28T13:23:33.303251+00:00
-
- ## Die Tagesspiegel-Gruppe aus Berlin
- - [https://www.tagesspiegel-gruppe.de](https://www.tagesspiegel-gruppe.de)
- - date_published: 2024-06-28T13:23:50.241887+00:00
-
- ## Aktuelle Nachrichten | RP ONLINE
- - [https://tagrpd.de](https://tagrpd.de)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home
- - [https://www.ta-hifi.de](https://www.ta-hifi.de)
- - date_published: 2024-06-30T05:28:57.559723+00:00
-
- ## Leading Game Publisher | Take-Two Interactive Software, Inc.
- - [http://www.take2.de](http://www.take2.de)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Take-me-to-auction – News, Infos, Tipps und Tricks rund um eBay, Amazon und andere Online-Marktplätze
- - [http://www.take-me-to-auction.de](http://www.take-me-to-auction.de)
- - date_published: 2024-02-07T02:35:49+00:00
-
- ## Der Domainname talarion.de steht zum Verkauf.
- - [http://www.talarion.de](http://www.talarion.de)
- - date_published: 2024-10-26T16:43:14.450272+00:00
-
- ## Unser täglich Spam
- - [http://spam.tamagothi.de](http://spam.tamagothi.de)
- - date_published: 2024-07-25T18:08:41.986688+00:00
-
- ## Tapir Apps
- - [https://tapirapps.de](https://tapirapps.de)
- - date_published: 2024-07-09T15:52:58.489032+00:00
-
- ## Wir suchen Rückenwind-Geber | Jobs | Karriere | TARGOBANK
- - [https://jobs.targobank.de](https://jobs.targobank.de)
- - date_published: 2024-06-16T10:20:22.872136+00:00
-
- ## Startseite - TARGOBANK Karriereblog
- - [https://karriereblog.targobank.de](https://karriereblog.targobank.de)
- - date_published: 2024-06-16T14:13:20.174468+00:00
-
- ## TARGOBANK | Wir geben Rückenwind
- - [https://targobank.de](https://targobank.de)
- - date_published: 2024-06-16T14:13:18.689778+00:00
-
- ## voilà
- - [https://targobank-magazin.de](https://targobank-magazin.de)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## TARIFFUXX: Vergleichsrechner für Handytarife & Festnetz
- - [https://www.tariffuxx.de](https://www.tariffuxx.de)
- - date_published: 2024-10-03T19:39:03.986833+00:00
-
- ## very tasty tea! ☕
- - [https://very.tastytea.de](https://very.tastytea.de)
- - date_published: 2024-07-15T06:32:38.283520+00:00
-
- ## Tatort Fans - Alles zum ARD Krimi online
- - [https://tatort-fans.de](https://tatort-fans.de)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Home
- - [https://tatsachen-ueber-deutschland.de](https://tatsachen-ueber-deutschland.de)
- - date_published: 2024-05-11T08:03:05.003581+00:00
-
- ## TATWERK | Performative Forschung
- - [https://tatwerk-berlin.de](https://tatwerk-berlin.de)
- - date_published: 2024-09-06T21:54:38+00:00
-
- ## Georg Tavonius Webprofil
- - [http://www.tavonius.de](http://www.tavonius.de)
- - date_published: 2024-07-22T11:00:31.943399+00:00
-
- ## Master of Taxation
- - [https://www.taxmaster.de](https://www.taxmaster.de)
- - date_published: 2024-10-21T09:21:52.359154+00:00
-
- ## Index
- - [https://blogs.taz.de](https://blogs.taz.de)
- - date_published: 2024-05-13T03:11:47.312314+00:00
-
- ## IOAM
- - [https://data-2d3a3249cd.taz.de](https://data-2d3a3249cd.taz.de)
- - date_published: 2022-12-08T12:42:12+00:00
-
- ## Investigatives Recherche-Team der taz: Schicken Sie uns Ihre Hinweise!
- - [https://informant.taz.de](https://informant.taz.de)
- - date_published: 2023-03-28T08:59:00+00:00
-
- ## tazshop
- - [https://shop.taz.de](https://shop.taz.de)
- - date_published: 2024-05-13T03:11:49.478574+00:00
-
- ## taz.de - taz.de
- - [https://taz.de](https://taz.de)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Teddybärkrankenhaus Charité Berlin
- - [https://berlin.tbkapp.de](https://berlin.tbkapp.de)
- - date_published: 2024-07-24T16:24:26.878201+00:00
-
- ## Town & Country Haus Magdeburg & Region Harz
- - [https://meinhaustraum.tc.de](https://meinhaustraum.tc.de)
- - date_published: 2024-09-25T19:06:33.185254+00:00
-
- ## Element
- - [https://chat.tchncs.de](https://chat.tchncs.de)
- - date_published: 2024-07-24T04:31:40.480932+00:00
-
- ## Nextcloud - hosted at tchncs.de
- - [https://cloud.tchncs.de](https://cloud.tchncs.de)
- - date_published: 2024-04-29T06:49:28.095531+00:00
-
- ## Hi there, Friend!
- - [https://cozy.tchncs.de](https://cozy.tchncs.de)
- - date_published: 2024-04-29T06:49:24.382146+00:00
-
- ## tchncs - Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.
- - [https://discuss.tchncs.de](https://discuss.tchncs.de)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Mobilizon - Mobilizon
- - [https://events.tchncs.de](https://events.tchncs.de)
- - date_published: 2024-04-29T06:49:30.050612+00:00
-
- ## Sign in · GitLab
- - [https://git.tchncs.de](https://git.tchncs.de)
- - date_published: 2020-07-29T00:00:00+00:00
-
- ## ..:: tchncs ::..
- - [https://img.tchncs.de](https://img.tchncs.de)
- - date_published: 2024-07-24T04:31:44.068629+00:00
-
- ## Welcome to nginx!
- - [https://media.procial.tchncs.de](https://media.procial.tchncs.de)
- - date_published: 2024-07-24T04:31:25.707929+00:00
-
- ## CryptPad: end-to-end encrypted collaboration suite
- - [https://pad.tchncs.de](https://pad.tchncs.de)
- - date_published: 2024-04-29T06:49:26.176170+00:00
-
- ## tchncs
- - [https://paste.tchncs.de](https://paste.tchncs.de)
- - date_published: 2024-04-29T06:49:30.868639+00:00
-
- ## Pixelfed
- - [https://pixel.tchncs.de](https://pixel.tchncs.de)
- - date_published: 2024-04-29T06:49:21.368139+00:00
-
- ## tchncs
- - [https://procial.tchncs.de](https://procial.tchncs.de)
- - date_published: 2024-04-29T06:49:28.640730+00:00
-
- ## ntfy web
- - [https://push.tchncs.de](https://push.tchncs.de)
- - date_published: 2024-07-24T04:31:41.435161+00:00
 
