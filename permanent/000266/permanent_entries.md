@@ -1,3 +1,227 @@
+ ## School of Arts and Sciences Convocation
+ - [https://convocation.sas.rutgers.edu](https://convocation.sas.rutgers.edu)
+ - date_published: 2024-07-01T18:40:18+00:00
+
+ ## COVID-19 Information
+ - [https://coronavirus.rutgers.edu](https://coronavirus.rutgers.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Rutgers NJAES Office of Continuing Professional Education (Rutgers OCPE) – Continuing Education Training and Service Excellence for Over 100 Years
+ - [https://cpe.rutgers.edu](https://cpe.rutgers.edu)
+ - date_published: 2024-07-01T18:43:26.513878+00:00
+
+ ## crab.rutgers.edu ARCHIVE
+ - [https://crab.rutgers.edu](https://crab.rutgers.edu)
+ - date_published: 2023-01-05T14:16:07+00:00
+
+ ## Department of Computer Science
+ - [https://cs.camden.rutgers.edu](https://cs.camden.rutgers.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Welcome
+ - [https://cwgl.rutgers.edu](https://cwgl.rutgers.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Departments at Rutgers-Camden – Sites hosted on OIT-Camden's Departmental Multisite
+ - [https://dept.camden.rutgers.edu](https://dept.camden.rutgers.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [http://dictionaries.rutgers.edu](http://dictionaries.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Digital Studies Center
+ - [https://digitalstudies.camden.rutgers.edu](https://digitalstudies.camden.rutgers.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## DIMACS :: Home
+ - [https://dimacs.rutgers.edu](https://dimacs.rutgers.edu)
+ - date_published: 2024-05-07T16:14:30.134210+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://directoryservices.rutgers.edu](https://directoryservices.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Building Inclusive Community | Rutgers University Equity and Inclusion
+ - [https://diversity.rutgers.edu](https://diversity.rutgers.edu)
+ - date_published: 2024-07-01T16:47:48+00:00
+
+ ## DIMACS :: Home
+ - [https://dmac.rutgers.edu](https://dmac.rutgers.edu)
+ - date_published: 2024-06-30T11:00:31.820108+00:00
+
+ ## CAS - Central Authentication Service NetID Login
+ - [https://dn.rutgers.edu](https://dn.rutgers.edu)
+ - date_published: 2024-07-01T18:40:13.746483+00:00
+
+ ## Home | Division of Continuing Studies
+ - [https://docs.rutgers.edu](https://docs.rutgers.edu)
+ - date_published: 2024-07-01T16:23:44+00:00
+
+ ## Enterprise Application Services
+ - [http://eas.rutgers.edu](http://eas.rutgers.edu)
+ - date_published: 2024-07-01T18:41:02.634332+00:00
+
+ ## Rutgers University, Electrical & Computer Engineering
+ - [https://ece.rutgers.edu](https://ece.rutgers.edu)
+ - date_published: 2024-05-28T22:18:11.288636+00:00
+
+ ## Enterprise infrastructure services - Information Technology
+ - [https://ei.rutgers.edu](https://ei.rutgers.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - Division of Enrollment Management
+ - [https://emnb.rutgers.edu](https://emnb.rutgers.edu)
+ - date_published: 2023-08-30T00:00:00+00:00
+
+ ## - Rutgers University-Camden: Explore. Discover. Connect.
+ - [https://engage.camden.rutgers.edu](https://engage.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:30:09.986423+00:00
+
+ ## Emergency Notification System (ENS) | Enterprise Application Services
+ - [https://ens.rutgers.edu](https://ens.rutgers.edu)
+ - date_published: 2015-11-30T00:00:00+00:00
+
+ ## Environmental Stewards
+ - [https://envirostewards.rutgers.edu](https://envirostewards.rutgers.edu)
+ - date_published: 2024-07-01T18:43:30.417624+00:00
+
+ ## Rutgers NJAES Calendar: All Events (Rutgers NJAES)
+ - [https://events.rutgers.edu](https://events.rutgers.edu)
+ - date_published: 2024-07-01T18:43:52.649631+00:00
+
+ ## Office of the Executive Dean of Agriculture and Natural Resources at Rutgers
+ - [https://execdeanagriculture.rutgers.edu](https://execdeanagriculture.rutgers.edu)
+ - date_published: 2024-07-01T18:43:23.484777+00:00
+
+ ## RBHS Faculty Affairs| Rutgers University–Newark
+ - [https://facultyaffairs.rbhs.rutgers.edu](https://facultyaffairs.rbhs.rutgers.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Faculty of Arts and Sciences
+ - [https://fas.camden.rutgers.edu](https://fas.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:47:43.353852+00:00
+
+ ## Homepage | University Finance and Administration
+ - [https://finance.rutgers.edu](https://finance.rutgers.edu)
+ - date_published: 2024-07-01T15:24:51+00:00
+
+ ## Welcome
+ - [https://finmath.rutgers.edu](https://finmath.rutgers.edu)
+ - date_published: 2024-05-07T20:10:15.567560+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://finservices.rutgers.edu](https://finservices.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Welcome to the Department of Genetics
+ - [https://genetics.rutgers.edu](https://genetics.rutgers.edu)
+ - date_published: 2024-07-01T18:42:28+00:00
+
+ ## Rutgers University – Newark – Office of Global Initiatives and Experiential Learning
+ - [https://globalexp.newark.rutgers.edu](https://globalexp.newark.rutgers.edu)
+ - date_published: 2024-07-01T18:32:12.130817+00:00
+
+ ## Rutgers Global
+ - [https://global.rutgers.edu](https://global.rutgers.edu)
+ - date_published: 2024-07-01T12:55:09+00:00
+
+ ## Go — Rutgers University URL Shortener
+ - [https://go.rutgers.edu](https://go.rutgers.edu)
+ - date_published: 2024-05-07T20:22:48.773950+00:00
+
+ ## Home | Graduate and Professional Admissions
+ - [http://grad.admissions.rutgers.edu](http://grad.admissions.rutgers.edu)
+ - date_published: 2024-07-14T23:44:35.221065+00:00
+
+ ## Home | Rutgers School of Graduate Studies
+ - [https://grad.rutgers.edu](https://grad.rutgers.edu)
+ - date_published: 2024-07-01T18:44:13.152572+00:00
+
+ ## Home | Graduate and Professional Admissions
+ - [https://gradstudy.rutgers.edu](https://gradstudy.rutgers.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home | Game Research and Immersive Design
+ - [https://grid.rutgers.edu](https://grid.rutgers.edu)
+ - date_published: 2024-07-01T18:30:49.446075+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://hdrti.rutgers.edu](https://hdrti.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Home | Student Health - Division of Student Affairs | Rutgers University-New Brunswick
+ - [http://health.rutgers.edu](http://health.rutgers.edu)
+ - date_published: 2024-07-01T18:33:18.412798+00:00
+
+ ## Honors College | Rutgers University-Camden
+ - [https://honors.camden.rutgers.edu](https://honors.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:32:19.567884+00:00
+
+ ## Welcome to the Health Professions Office (HPO)
+ - [https://hpo.rutgers.edu](https://hpo.rutgers.edu)
+ - date_published: 2024-07-01T18:42:32+00:00
+
+ ## Home - Office of Human Resources
+ - [https://hr.camden.rutgers.edu](https://hr.camden.rutgers.edu)
+ - date_published: 2024-07-01T18:44:39.021861+00:00
+
+ ## Newark Human Resources
+ - [https://hr.newark.rutgers.edu](https://hr.newark.rutgers.edu)
+ - date_published: 2024-07-01T18:44:41.924474+00:00
+
+ ## Haskin Shellfish Research Laboratory
+ - [https://hsrl.rutgers.edu](https://hsrl.rutgers.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://identityservices.rutgers.edu](https://identityservices.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Office of Global Engagement
+ - [https://international.sebs.rutgers.edu](https://international.sebs.rutgers.edu)
+ - date_published: 2024-07-01T18:44:07.769233+00:00
+
+ ## IPO Home | Institutional Planning and Operations
+ - [https://ipo.rutgers.edu](https://ipo.rutgers.edu)
+ - date_published: 2024-07-01T18:31:57.968821+00:00
+
+ ## Rutgers Camden–IT - RU–Camden IT
+ - [https://it.camden.rutgers.edu](https://it.camden.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Service Portal - Rutgers IT Help
+ - [https://ithelp.rutgers.edu](https://ithelp.rutgers.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## login - skip to CAS - Rutgers IT Help
+ - [https://ithelp.sas.rutgers.edu](https://ithelp.sas.rutgers.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Home - Information Technology
+ - [https://it.rutgers.edu](https://it.rutgers.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Institute for Women's Leadership at Rutgers University
+ - [https://iwl.rutgers.edu](https://iwl.rutgers.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Rutgers University Employment Opportunities | Home
+ - [https://jobs.rutgers.edu](https://jobs.rutgers.edu)
+ - date_published: 2024-06-30T11:00:33+00:00
+
+ ## Katie Elson Anderson | Fiercely Informing | Rutgers University
+ - [https://katieanderson.camden.rutgers.edu](https://katieanderson.camden.rutgers.edu)
+ - date_published: 2024-09-12T19:25:37.583185+00:00
+
+ ## Rutgers University :: Department of Kinesiology and Health
+ - [https://kines.rutgers.edu](https://kines.rutgers.edu)
+ - date_published: 2024-07-01T18:42:22+00:00
+
+ ## Laurie Bernstein | Rutgers University
+ - [https://lauriebernstein.camden.rutgers.edu](https://lauriebernstein.camden.rutgers.edu)
+ - date_published: 2024-06-21T20:39:39.755747+00:00
+
  ## Home | Learning Centers
  - [https://learningcenters.rutgers.edu](https://learningcenters.rutgers.edu)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -3783,232 +4007,4 @@
  ## This is Saint Vincent
  - [http://www.stvincent.edu](http://www.stvincent.edu)
  - date_published: 2024-06-20T15:09:27+00:00
-
- ## Suffolk University in Boston - Suffolk University
- - [https://boston.suffolk.edu](https://boston.suffolk.edu)
- - date_published: 2024-06-17T04:04:28.950785+00:00
-
- ## Sign In
- - [https://canvas.suffolk.edu](https://canvas.suffolk.edu)
- - date_published: 2024-06-17T04:04:34.336462+00:00
-
- ## Digital Collections @ Suffolk
- - [https://dc.suffolk.edu](https://dc.suffolk.edu)
- - date_published: 1953-09-05T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.suffolk.edu](https://events.suffolk.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Graduate Admission | Suffolk University | Boston, MA
- - [https://grad.suffolk.edu](https://grad.suffolk.edu)
- - date_published: 2024-06-17T04:04:08.192541+00:00
-
- ## Web Server's Default Page
- - [http://map.suffolk.edu](http://map.suffolk.edu)
- - date_published: 2020-11-02T05:51:47+00:00
-
- ## Sites @ Suffolk University – A Community and Publishing Platform at Suffolk University
- - [https://sites.suffolk.edu](https://sites.suffolk.edu)
- - date_published: 2024-10-16T16:46:15+00:00
-
- ## Suffolk University in Boston - Suffolk University
- - [https://suffolk.edu](https://suffolk.edu)
- - date_published: 2024-10-16T17:12:05.330506+00:00
-
- ## waprodB
- - [https://waprod.suffolk.edu](https://waprod.suffolk.edu)
- - date_published: 2019-01-28T17:54:00+00:00
-
- ## Aveda Institute Fort Myers | Esthetician School | Be Aveda
- - [http://www.sunstate.edu](http://www.sunstate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## SUNY SAVR RESOURCES
- - [https://response.suny.edu](https://response.suny.edu)
- - date_published: 2024-09-15T15:12:10.222501+00:00
-
- ## State University of New York Press
- - [http://www.sunypress.edu](http://www.sunypress.edu)
- - date_published: 2024-06-28T13:14:08+00:00
-
- ## HOME | Department of Computer Science
- - [http://www.cs.sunysb.edu](http://www.cs.sunysb.edu)
- - date_published: 2024-07-15T11:29:37.402361+00:00
-
- ## Stony Brook Mathematics Department and Institute for Mathematical Sciences | Mathematics Department and the Institute for Mathematical Sciences
- - [http://www.math.sunysb.edu](http://www.math.sunysb.edu)
- - date_published: 2024-06-30T08:23:43.299043+00:00
-
- ## Stony Brook University
- - [http://www.sunysb.edu](http://www.sunysb.edu)
- - date_published: 2024-06-23T20:38:32.041303+00:00
-
- ## Shahjalal University of Science & Technology
- - [http://www.sust.edu](http://www.sust.edu)
- - date_published: 2024-07-02T19:03:03.926347+00:00
-
- ## Home - SVA MFA Interaction Design
- - [http://interactiondesign.sva.edu](http://interactiondesign.sva.edu)
- - date_published: 2023-04-04T11:57:26+00:00
-
- ## NYC Product Design Master's Program - Product Design at SVA
- - [https://productsofdesign.sva.edu](https://productsofdesign.sva.edu)
- - date_published: 2024-09-05T12:58:38.102249+00:00
-
- ## Swarthmore College - ITS Blog -
- - [http://blogs.swarthmore.edu](http://blogs.swarthmore.edu)
- - date_published: 2024-07-02T06:18:36.268401+00:00
-
- ## The Bulletin
- - [https://bulletin.swarthmore.edu](https://bulletin.swarthmore.edu)
- - date_published: 2020-11-17T12:56:32+00:00
-
- ## Swat Central - Swarthmore College Calendar
- - [http://calendar.swarthmore.edu](http://calendar.swarthmore.edu)
- - date_published: 2024-03-07T20:02:14+00:00
-
- ## Swarthmore College: Campus Map
- - [https://campusmap.swarthmore.edu](https://campusmap.swarthmore.edu)
- - date_published: 2019-05-17T19:02:30+00:00
-
- ## Swarthmore College - Acalog ACMS™
- - [https://catalog.swarthmore.edu](https://catalog.swarthmore.edu)
- - date_published: 2024-05-07T20:37:39.743064+00:00
-
- ## classifieds.swarthmore.edu
- - [https://classifieds.swarthmore.edu](https://classifieds.swarthmore.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Giving
- - [https://lifechanging.swarthmore.edu](https://lifechanging.swarthmore.edu)
- - date_published: 2020-10-13T18:57:53+00:00
-
- ## SCCS Homepage
- - [http://sccs.swarthmore.edu](http://sccs.swarthmore.edu)
- - date_published: 2024-08-20T05:17:18.170564+00:00
-
- ## The Scott Arboretum of Swarthmore College - Swarthmore, PA
- - [https://scott-dev.domains.swarthmore.edu](https://scott-dev.domains.swarthmore.edu)
- - date_published: 2024-07-01T20:49:01.731805+00:00
-
- ## Swarthmore Campus & Community Store
- - [https://store.swarthmore.edu](https://store.swarthmore.edu)
- - date_published: 2024-05-07T20:37:28.387822+00:00
-
- ## Swarthmore Home :: Swarthmore College
- - [https://swarthmore.edu](https://swarthmore.edu)
- - date_published: 2024-05-07T20:32:18.035941+00:00
-
- ## Swat Central - Swarthmore College Calendar
- - [https://swatcentral.swarthmore.edu](https://swatcentral.swarthmore.edu)
- - date_published: 2024-03-07T20:02:14+00:00
-
- ## Swarthmore College - ITS Blog -
- - [http://weblogs.swarthmore.edu](http://weblogs.swarthmore.edu)
- - date_published: 2024-08-11T12:50:46.042080+00:00
-
- ## Works: Scholarship, Research, & Creative Expression at Swarthmore College
- - [https://works.swarthmore.edu](https://works.swarthmore.edu)
- - date_published: 2024-07-02T10:48:33.082765+00:00
-
- ## Computer Science
- - [https://www.cs.swarthmore.edu](https://www.cs.swarthmore.edu)
- - date_published: 2016-06-28T19:44:24+00:00
-
- ## Alumni
- - [https://giftplanning.swlaw.edu](https://giftplanning.swlaw.edu)
- - date_published: 2024-09-15T23:33:03.302304+00:00
-
- ## Southwestern Law School - Los Angeles
- - [https://swlaw.edu](https://swlaw.edu)
- - date_published: 2024-06-14T22:59:38+00:00
-
- ## UT Southwestern Medical Center
- - [https://profileplus.swmed.edu](https://profileplus.swmed.edu)
- - date_published: 2014-05-05T19:03:43+00:00
-
- ## SWOSU Digital Commons
- - [https://dc.swosu.edu](https://dc.swosu.edu)
- - date_published: 2024-09-03T20:40:48.011161+00:00
-
- ## Mission Juno
- - [https://www.missionjuno.swri.edu](https://www.missionjuno.swri.edu)
- - date_published: 2024-11-08T11:28:30.985001+00:00
-
- ## St. Xavier's College (Autonomous), Kolkata
- - [http://www.sxccal.edu](http://www.sxccal.edu)
- - date_published: 2024-07-02T21:15:52+00:00
-
- ## Institutional Effectiveness - IE – Syracuse University
- - [http://assessment.syr.edu](http://assessment.syr.edu)
- - date_published: 2024-07-01T20:50:42.989102+00:00
-
- ## Blackboard Learn
- - [https://blackboard.syr.edu](https://blackboard.syr.edu)
- - date_published: 2004-07-01T20:49:36+00:00
-
- ## Home - Campus Framework – Syracuse University
- - [https://campusframework.syr.edu](https://campusframework.syr.edu)
- - date_published: 2024-02-08T22:03:40.531573+00:00
-
- ## Center for Learning and Student Success (CLASS) - Center for Learning and Student Success  – Syracuse University
- - [https://class.syr.edu](https://class.syr.edu)
- - date_published: 2024-07-01T20:50:29.375691+00:00
-
- ## Syracuse University - Acalog ACMS™
- - [http://coursecatalog.syr.edu](http://coursecatalog.syr.edu)
- - date_published: 2024-07-01T20:50:26.684172+00:00
-
- ## Now Loading...
- - [http://directory.syr.edu](http://directory.syr.edu)
- - date_published: 2014-10-28T13:24:58+00:00
-
- ## Center for Disability Resources
- - [https://disabilityresources.syr.edu](https://disabilityresources.syr.edu)
- - date_published: 2024-07-01T20:50:34.987352+00:00
-
- ## Campus Dining Home - Dining – Syracuse University
- - [https://foodservices.syr.edu](https://foodservices.syr.edu)
- - date_published: 2024-10-25T19:36:38.749899+00:00
-
- ## Welcome - Human Resources – Syracuse University
- - [https://hr.syr.edu](https://hr.syr.edu)
- - date_published: 2024-07-01T20:49:34.826104+00:00
-
- ## Home - Blackstone LaunchPad
- - [https://launchpad.syr.edu](https://launchpad.syr.edu)
- - date_published: 2024-10-25T19:36:32.811699+00:00
-
- ## Syracuse University College of Law
- - [http://law.syr.edu](http://law.syr.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home - Living Learning Communities
- - [http://lc.syr.edu](http://lc.syr.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## EZproxy | Syracuse University Libraries
- - [http://libezproxy.syr.edu](http://libezproxy.syr.edu)
- - date_published: 2024-06-30T01:30:01.441020+00:00
-
- ## Syracuse University Libraries - Home
-            
-            
-                
-                - Syracuse University Libraries
- - [http://library.syr.edu](http://library.syr.edu)
- - date_published: 2024-06-18T21:39:29.915003+00:00
-
- ## Middle States Commission on Higher Education
- - [https://middlestates.syr.edu](https://middlestates.syr.edu)
- - date_published: 2024-05-07T20:37:45.595953+00:00
-
- ## MySlice - Syracuse University
- - [https://myslice.syr.edu](https://myslice.syr.edu)
- - date_published: 2023-03-22T20:40:25+00:00
-
- ## Newhouse School at Syracuse University
- - [http://newhouse.syr.edu](http://newhouse.syr.edu)
- - date_published: 2024-07-01T07:26:43.125493+00:00
 

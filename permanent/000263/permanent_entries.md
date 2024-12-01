@@ -1,3 +1,227 @@
+ ## Home - Daper
+ - [https://daper.mit.edu](https://daper.mit.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Data Feminism
+ - [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## MIT Database Group
+ - [http://db.csail.mit.edu](http://db.csail.mit.edu)
+ - date_published: 2024-07-01T20:10:24.223424+00:00
+
+ ## Introduction to Data-Centric AI
+ - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
+ - date_published: 2023-10-25T18:53:49.969803+00:00
+
+ ## MIT Digital Currency Initiative
+ - [https://dci.mit.edu](https://dci.mit.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Debathena
+ - [https://debathena.mit.edu](https://debathena.mit.edu)
+ - date_published: 2016-11-13T21:08:10+00:00
+
+ ## MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
+ - [https://deeplearning.mit.edu](https://deeplearning.mit.edu)
+ - date_published: 2020-07-05T00:00:00+00:00
+
+ ## 6.S063 Design for the Web: Languages and User Interfaces
+ - [https://designftw.mit.edu](https://designftw.mit.edu)
+ - date_published: 2024-08-19T17:22:39.126618+00:00
+
+ ## Morningside Academy for Design
+ - [https://design.mit.edu](https://design.mit.edu)
+ - date_published: 2024-07-01T15:02:37.479720+00:00
+
+ ## DeepFakes, Can You Spot Them?
+ - [https://detectfakes.media.mit.edu](https://detectfakes.media.mit.edu)
+ - date_published: 2024-07-03T11:55:33.026889+00:00
+
+ ## Decentralized Information Group
+ - [http://dig.csail.mit.edu](http://dig.csail.mit.edu)
+ - date_published: 2017-04-03T21:18:23+00:00
+
+ ## Digital Credentials Consortium
+ - [https://digitalcredentials.mit.edu](https://digitalcredentials.mit.edu)
+ - date_published: 2024-06-26T19:34:06+00:00
+
+ ## Digital Humanities at MIT
+ - [https://digitalhumanities.mit.edu](https://digitalhumanities.mit.edu)
+ - date_published: 2024-05-14T04:03:49.179662+00:00
+
+ ## MIT Press
+ - [https://direct.mit.edu](https://direct.mit.edu)
+ - date_published: 2023-10-25T18:53:52.060229+00:00
+
+ ## disobedience  archive
+ - [http://disobedience.mit.edu](http://disobedience.mit.edu)
+ - date_published: 2024-05-24T22:29:39.562778+00:00
+
+ ## Understanding the Role of Individual Units in a Deep Network
+ - [https://dissect.csail.mit.edu](https://dissect.csail.mit.edu)
+ - date_published: 2020-09-17T03:49:07+00:00
+
+ ## Dissection of Deep Networks
+ - [http://dissection.csail.mit.edu](http://dissection.csail.mit.edu)
+ - date_published: 2021-09-26T09:31:09+00:00
+
+ ## Home | MIT D-Lab
+ - [https://d-lab.mit.edu](https://d-lab.mit.edu)
+ - date_published: 2024-06-20T00:22:17+00:00
+
+ ## MIT Department of Materials Science and Engineering
+ - [https://dmse.mit.edu](https://dmse.mit.edu)
+ - date_published: 2024-07-20T21:30:55.449375+00:00
+
+ ## MIT – Docubase
+ - [http://docubase.mit.edu](http://docubase.mit.edu)
+ - date_published: 2024-07-13T04:39:26+00:00
+
+ ## Documentarity
+ - [https://documentarity.mitpress.mit.edu](https://documentarity.mitpress.mit.edu)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Dome Home
+ - [http://dome.mit.edu](http://dome.mit.edu)
+ - date_published: 2024-07-17T12:28:54.939802+00:00
+
+ ## DPI-Net
+ - [http://dpi.csail.mit.edu](http://dpi.csail.mit.edu)
+ - date_published: 2019-10-18T02:45:48+00:00
+
+ ## Drake: Model-Based Design and Verification for Robotics
+ - [https://drake.mit.edu](https://drake.mit.edu)
+ - date_published: 2024-07-11T06:47:06+00:00
+
+ ## Data Systems Group (DSG) @ MIT
+ - [http://dsg.csail.mit.edu](http://dsg.csail.mit.edu)
+ - date_published: 2024-07-20T22:30:42+00:00
+
+ ## DSpace@MIT Home
+ - [https://dspace.mit.edu](https://dspace.mit.edu)
+ - date_published: 2023-10-25T18:53:53.742765+00:00
+
+ ## Distributed Systems Reading Group
+ - [http://dsrg.pdos.csail.mit.edu](http://dsrg.pdos.csail.mit.edu)
+ - date_published: 2016-06-26T00:00:00+00:00
+
+ ## Home | DUSP
+ - [https://dusp.mit.edu](https://dusp.mit.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## MIT EAPS
+ - [https://eaps.mit.edu](https://eaps.mit.edu)
+ - date_published: 2024-05-01T08:10:08.595185+00:00
+
+ ## MIT EAPS
+ - [https://eapsweb.mit.edu](https://eapsweb.mit.edu)
+ - date_published: 2024-05-07T19:37:04.039158+00:00
+
+ ## Trillian.MIT.EDU -- ECF Guest Machine
+ - [http://ecf-guest.mit.edu](http://ecf-guest.mit.edu)
+ - date_published: 2001-01-09T02:22:10+00:00
+
+ ## Home | MIT Economics
+ - [https://economics.mit.edu](https://economics.mit.edu)
+ - date_published: 2024-06-21T17:08:34+00:00
+
+ ## Home | MIT Edgerton Center
+ - [https://edgerton.mit.edu](https://edgerton.mit.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Editing Conditional Radiance Fields
+ - [http://editnerf.csail.mit.edu](http://editnerf.csail.mit.edu)
+ - date_published: 2021-11-21T15:09:17+00:00
+
+ ## Account Provider Selection
+ - [https://eecseduportal.mit.edu](https://eecseduportal.mit.edu)
+ - date_published: 2024-06-20T17:11:32.383511+00:00
+
+ ## Home - Embodied Intelligence
+ - [https://ei.csail.mit.edu](https://ei.csail.mit.edu)
+ - date_published: 2022-12-26T18:29:33+00:00
+
+ ## The Miller Lab
+ - [https://ekmillerlab.mit.edu](https://ekmillerlab.mit.edu)
+ - date_published: 2024-05-07T09:59:41.269970+00:00
+
+ ## MIT ELO
+ - [https://elo.mit.edu](https://elo.mit.edu)
+ - date_published: 2022-01-27T00:00:00+00:00
+
+ ## ELX
+ - [https://elx.mit.edu](https://elx.mit.edu)
+ - date_published: 2024-03-21T04:30:54+00:00
+
+ ## MIT Emergency Information
+ - [https://emergency.mit.edu](https://emergency.mit.edu)
+ - date_published: 2024-05-07T19:34:52.925624+00:00
+
+ ## Home - Electromechanical Systems Group
+ - [https://emsg.mit.edu](https://emsg.mit.edu)
+ - date_published: 2016-07-06T00:00:00+00:00
+
+ ## Encoding Culture (21H.S05)
+ - [https://encodingculture.dhlab.mit.edu](https://encodingculture.dhlab.mit.edu)
+ - date_published: 2023-01-23T23:08:15+00:00
+
+ ## Homepage
+ - [https://energy.mit.edu](https://energy.mit.edu)
+ - date_published: 2024-01-07T21:07:19.748100+00:00
+
+ ## MIT School of Engineering |
+ - [https://engineering.mit.edu](https://engineering.mit.edu)
+ - date_published: 2014-10-01T10:10:10+00:00
+
+ ## Home | Environmental Solutions Initiative
+ - [https://environmentalsolutions.mit.edu](https://environmentalsolutions.mit.edu)
+ - date_published: 2016-02-25T04:04:57+00:00
+
+ ## Enzyme AD
+ - [https://enzyme.mit.edu](https://enzyme.mit.edu)
+ - date_published: 2024-05-08T09:43:46.491692+00:00
+
+ ## Engineering Quantum Systems Group |
+ - [https://equs.mit.edu](https://equs.mit.edu)
+ - date_published: 2024-06-20T16:19:39+00:00
+
+ ## Home | Environmental Solutions Initiative
+ - [https://esi.mit.edu](https://esi.mit.edu)
+ - date_published: 2016-02-25T04:04:57+00:00
+
+ ## MIT ESP - Home
+ - [https://esp.mit.edu](https://esp.mit.edu)
+ - date_published: 2024-05-07T15:14:40.277505+00:00
+
+ ## Sign in - Matomo
+ - [http://esp-piwik.mit.edu](http://esp-piwik.mit.edu)
+ - date_published: 2024-06-30T04:19:13.066591+00:00
+
+ ## Events Calendar - MIT Events
+ - [https://events.mit.edu](https://events.mit.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Data and Disruption: Mastering AI and Machine Learning for Finance
+ - [https://events.sloanreview.mit.edu](https://events.sloanreview.mit.edu)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Eric von Hippel
+ - [https://evhippel.mit.edu](https://evhippel.mit.edu)
+ - date_published: 2024-06-20T22:45:01.623945+00:00
+
+ ## MIT Sloan Executive Education
+ - [https://exec.mit.edu](https://exec.mit.edu)
+ - date_published: 2023-07-02T15:27:47+00:00
+
+ ## MIT Sloan Executive Education
+ - [https://executive-ed.mit.edu](https://executive-ed.mit.edu)
+ - date_published: 2024-07-19T18:53:58.483678+00:00
+
+ ## MIT xPRO
+ - [https://executive-ed.xpro.mit.edu](https://executive-ed.xpro.mit.edu)
+ - date_published: 2024-06-19T19:05:31.009224+00:00
+
  ## MIT Sloan Executive Education
  - [https://executive.mit.edu](https://executive.mit.edu)
  - date_published: 2023-07-02T15:27:13+00:00
@@ -3780,228 +4004,4 @@
  ## ACES Competitive Awards Home
  - [https://aces-competitiveawards.nmsu.edu](https://aces-competitiveawards.nmsu.edu)
  - date_published: 2024-07-01T16:15:55.246858+00:00
-
- ## ACES Dean Home
- - [https://aces-dean.nmsu.edu](https://aces-dean.nmsu.edu)
- - date_published: 2024-07-01T16:11:28.037635+00:00
-
- ## For Employees Home
- - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
- - date_published: 2024-05-07T19:47:28.006281+00:00
-
- ## Alumni and Giving Home
- - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
- - date_published: 2024-05-07T19:47:00.744286+00:00
-
- ## ACES Heroes | New Mexico State University | BE BOLD. Shape the Future.
- - [https://aces-heroes.nmsu.edu](https://aces-heroes.nmsu.edu)
- - date_published: 2024-07-01T16:11:21.145737+00:00
-
- ## History Portal Home
- - [https://aces-history.nmsu.edu](https://aces-history.nmsu.edu)
- - date_published: 2024-07-01T16:11:42.262005+00:00
-
- ## 2022 News
- - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
- - date_published: 2024-05-07T19:47:38.778687+00:00
-
- ## NMAL Home
- - [http://aces-nmal.nmsu.edu](http://aces-nmal.nmsu.edu)
- - date_published: 2024-07-01T16:15:53.521124+00:00
-
- ## NMEAFCS Home
- - [https://aces-nmeafcs.nmsu.edu](https://aces-nmeafcs.nmsu.edu)
- - date_published: 2024-07-01T16:16:00.813728+00:00
-
- ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
- - [https://aces.nmsu.edu](https://aces.nmsu.edu)
- - date_published: 2018-08-24T00:00:00+00:00
-
- ## ACES P & T Home | New Mexico State University | BE BOLD. Shape the Future.
- - [http://aces-promotiontenure.nmsu.edu](http://aces-promotiontenure.nmsu.edu)
- - date_published: 2024-07-01T16:16:04.457037+00:00
-
- ## ACES Quick Links Home
- - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
- - date_published: 2024-05-07T19:47:26.404283+00:00
-
- ## Social Media Campaigns | New Mexico State University | BE BOLD. Shape the Future.
- - [https://aces-socialmediacampaigns.nmsu.edu](https://aces-socialmediacampaigns.nmsu.edu)
- - date_published: 2024-07-01T16:11:32.713133+00:00
-
- ## ACES Social Media Home
- - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
- - date_published: 2024-05-07T19:47:33.906326+00:00
-
- ## Student Leadership Home
- - [https://aces-studentleadership.nmsu.edu](https://aces-studentleadership.nmsu.edu)
- - date_published: 2024-07-01T16:18:15.015461+00:00
-
- ## Web Support Home
- - [https://aces-websupport.nmsu.edu](https://aces-websupport.nmsu.edu)
- - date_published: 2024-07-01T16:15:34.033415+00:00
-
- ## Center for Academic Advising and Student Support
- - [https://advising.nmsu.edu](https://advising.nmsu.edu)
- - date_published: 2024-07-01T16:13:12.434651+00:00
-
- ## AEAB Home
- - [https://aeab.nmsu.edu](https://aeab.nmsu.edu)
- - date_published: 2024-07-01T16:12:27.272587+00:00
-
- ## AES Main Home
- - [https://aes.nmsu.edu](https://aes.nmsu.edu)
- - date_published: 2024-05-07T19:47:40.903224+00:00
-
- ## ACES Information Technology  | New Mexico State University | BE BOLD. Shape the Future.
- - [http://agit.nmsu.edu](http://agit.nmsu.edu)
- - date_published: 2024-07-01T16:15:32.291918+00:00
-
- ## NMSU ALAMOGORDO  | New Mexico State University | BE BOLD. Shape the Future.
- - [https://alamogordo.nmsu.edu](https://alamogordo.nmsu.edu)
- - date_published: 2024-07-01T16:12:02.379512+00:00
-
- ## Apps Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://apps.nmsu.edu](https://apps.nmsu.edu)
- - date_published: 2024-07-01T16:12:50.137243+00:00
-
- ## Administrative Rules and Procedures | NMSU | New Mexico State University | BE BOLD. Shape the Future.
- - [https://arp.nmsu.edu](https://arp.nmsu.edu)
- - date_published: 2024-07-01T16:13:53.577482+00:00
-
- ## Arrowhead Center
- - [https://arrowheadcenter.nmsu.edu](https://arrowheadcenter.nmsu.edu)
- - date_published: 2024-07-01T16:12:03.874221+00:00
-
- ## BQA Home
- - [https://bqa.nmsu.edu](https://bqa.nmsu.edu)
- - date_published: 2024-07-01T16:25:13.237171+00:00
-
- ## NMSU Brand - BE BOLD. Shape the Future.®
- - [http://brand.nmsu.edu](http://brand.nmsu.edu)
- - date_published: 2024-07-01T16:15:57.101085+00:00
-
- ## Search Page
- - [https://careers.nmsu.edu](https://careers.nmsu.edu)
- - date_published: 2024-07-01T16:13:24.960906+00:00
-
- ## New Mexico State University | New Mexico State University Academic Catalog
- - [https://catalogs.nmsu.edu](https://catalogs.nmsu.edu)
- - date_published: 2024-06-26T18:19:32+00:00
-
- ## Catron County Extension Office Home
- - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
- - date_published: 2024-02-08T17:58:40.694600+00:00
-
- ## Home
- - [http://commencement.nmsu.edu](http://commencement.nmsu.edu)
- - date_published: 2024-07-01T16:16:22.071128+00:00
-
- ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
- - [http://contacts.aces.nmsu.edu](http://contacts.aces.nmsu.edu)
- - date_published: 2024-07-01T16:16:10.385806+00:00
-
- ## Select a Term
- - [https://courselookup.nmsu.edu](https://courselookup.nmsu.edu)
- - date_published: 2024-07-01T16:14:49.595326+00:00
-
- ## - Crimson Connection
- - [https://crimsonconnection.nmsu.edu](https://crimsonconnection.nmsu.edu)
- - date_published: 2024-07-01T16:11:08.728858+00:00
-
- ## Doña Ana Community College
- - [https://dacc.nmsu.edu](https://dacc.nmsu.edu)
- - date_published: 2024-07-01T16:12:12.160036+00:00
-
- ## Desert Blooms Home
- - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
- - date_published: 2024-05-07T19:47:25.100209+00:00
-
- ## #discoverNMSUextension Home
- - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
- - date_published: 2024-05-07T19:47:12.933939+00:00
-
- ## Extension Association of New Mexico Home
- - [http://eanm.nmsu.edu](http://eanm.nmsu.edu)
- - date_published: 2024-07-01T16:16:02.729541+00:00
-
- ## EASNR Home
- - [https://easnr.nmsu.edu](https://easnr.nmsu.edu)
- - date_published: 2024-07-01T16:12:20.002186+00:00
-
- ## EFCS Home
- - [https://efcs.nmsu.edu](https://efcs.nmsu.edu)
- - date_published: 2024-07-01T16:11:31.166426+00:00
-
- ## Impact and Engagement - BE BOLD. Shape the Future.
- - [https://engagement.nmsu.edu](https://engagement.nmsu.edu)
- - date_published: 2024-07-01T16:14:56.426930+00:00
-
- ## EPS Home
- - [https://eps.nmsu.edu](https://eps.nmsu.edu)
- - date_published: 2024-07-01T16:12:30.611315+00:00
-
- ## Office of Institutional Equity | New Mexico State University
- - [https://equity.nmsu.edu](https://equity.nmsu.edu)
- - date_published: 2024-07-01T16:14:31.551987+00:00
-
- ## NMSU Emergency Notification Information
- - [https://etm.nmsu.edu](https://etm.nmsu.edu)
- - date_published: 2024-07-01T16:16:33.172012+00:00
-
- ## CES Home
- - [https://extension.nmsu.edu](https://extension.nmsu.edu)
- - date_published: 2024-05-07T19:47:08.939342+00:00
-
- ## Home
- - [https://facultysenate.nmsu.edu](https://facultysenate.nmsu.edu)
- - date_published: 2024-07-01T16:13:56.840395+00:00
-
- ## Welcome
- - [https://families.nmsu.edu](https://families.nmsu.edu)
- - date_published: 2024-07-01T16:11:29.699981+00:00
-
- ## Family Life Home
- - [https://family.nmsu.edu](https://family.nmsu.edu)
- - date_published: 2024-05-07T19:46:58.605702+00:00
-
- ## FA Home
- - [https://fa.nmsu.edu](https://fa.nmsu.edu)
- - date_published: 2024-07-01T16:14:52.785837+00:00
-
- ## NMSU Global Campus | Explore New Mexico State Online Degrees
- - [https://global.nmsu.edu](https://global.nmsu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 2022 GO Bond 3 - BE BOLD. Shape the Future.
- - [https://gobond.nmsu.edu](https://gobond.nmsu.edu)
- - date_published: 2024-07-01T16:12:37.331756+00:00
-
- ## New Mexico State University | Graduate School
- - [https://gradschool.nmsu.edu](https://gradschool.nmsu.edu)
- - date_published: 2024-07-01T16:14:28.550555+00:00
-
- ## NMSU Grants  | New Mexico State University | BE BOLD. Shape the Future.
- - [https://grants.nmsu.edu](https://grants.nmsu.edu)
- - date_published: 2024-07-01T16:12:05.850886+00:00
-
- ## Guadalupe County Extension Office Home
- - [https://guadalupeextension.nmsu.edu](https://guadalupeextension.nmsu.edu)
- - date_published: 2024-07-01T16:25:54.262483+00:00
-
- ## Home
- - [https://help.nmsu.edu](https://help.nmsu.edu)
- - date_published: 2024-07-01T16:13:46.065851+00:00
-
- ## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date_published: 2024-01-09T21:08:23.894605+00:00
-
- ## Honors College | NMSU
- - [https://honors.nmsu.edu](https://honors.nmsu.edu)
- - date_published: 2024-07-01T16:14:44.452877+00:00
-
- ## Home
- - [https://housing.nmsu.edu](https://housing.nmsu.edu)
- - date_published: 2024-07-01T16:14:45.856746+00:00
 

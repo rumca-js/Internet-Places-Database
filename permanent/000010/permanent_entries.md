@@ -1,3 +1,7 @@
+ ## Check Balance - JBAU
+ - [https://giftcards.jbhifi.com.au](https://giftcards.jbhifi.com.au)
+ - date_published: 2024-06-16T17:22:59.891743+00:00
+
  ## Home | JB Hi-Fi Investors
  - [https://investors.jbhifi.com.au](https://investors.jbhifi.com.au)
  - date_published: 2024-01-23T00:00:00+00:00
@@ -3997,8 +4001,4 @@
  ## WIA Gold • ASX:WIA
  - [https://wiagold.com.au](https://wiagold.com.au)
  - date_published: 2024-09-11T00:00:00+00:00
-
- ## Wild Magazine - Subscribe..
- - [https://subscribe.wild.com.au](https://subscribe.wild.com.au)
- - date_published: 2024-09-17T23:32:22.921396+00:00
 

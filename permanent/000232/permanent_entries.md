@@ -1,3 +1,196 @@
+ ## Speaking Jenerally
+ - [http://speakingjenerally.wordpress.com](http://speakingjenerally.wordpress.com)
+ - date_published: 2024-07-04T14:01:02.525757+00:00
+
+ ## Speaking of Autism...
+ - [http://speakingofautismcom.wordpress.com](http://speakingofautismcom.wordpress.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## SPECPO
+ - [https://specpo.wordpress.com](https://specpo.wordpress.com)
+ - date_published: 2024-04-29T03:28:13.687916+00:00
+
+ ## Speculative Heresy
+ - [http://speculativeheresy.wordpress.com](http://speculativeheresy.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Speech Events
+ - [https://speechevents.wordpress.com](https://speechevents.wordpress.com)
+ - date_published: 2024-07-02T10:14:55.516467+00:00
+
+ ## Adam Greenfield's Speedbird
+ - [https://speedbird.wordpress.com](https://speedbird.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Spherical Bullshit | Celebrating over 300,000,000 views… in base 4.
+ - [https://sphericalbullshit.wordpress.com](https://sphericalbullshit.wordpress.com)
+ - date_published: 2023-10-25T18:16:52.585505+00:00
+
+ ## Spherical Cow Consulting
+ - [https://sphericalcowconsulting.wordpress.com](https://sphericalcowconsulting.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Spindles
+ - [http://spindles.wordpress.com](http://spindles.wordpress.com)
+ - date_published: 2024-10-21T18:49:10.927074+00:00
+
+ ## Spins and Electrons
+ - [https://spinsandelectrons.wordpress.com](https://spinsandelectrons.wordpress.com)
+ - date_published: 2024-10-19T08:09:23.900426+00:00
+
+ ## Spiritual Friendship
+ - [https://spiritualfriendship.wordpress.com](https://spiritualfriendship.wordpress.com)
+ - date_published: 2024-10-18T14:38:09.104870+00:00
+
+ ## SPITFIRE MURPHY
+ - [http://spitfiremurphy.wordpress.com](http://spitfiremurphy.wordpress.com)
+ - date_published: 2024-06-23T02:13:37+00:00
+
+ ## Spitfyre Phoenix Rising
+ - [http://spitfyrephoenixrising.wordpress.com](http://spitfyrephoenixrising.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Splintered Sunrise
+ - [http://splinteredsunrise.wordpress.com](http://splinteredsunrise.wordpress.com)
+ - date_published: 2024-10-21T13:56:55.464543+00:00
+
+ ## Split Pediment
+ - [http://splitpediment.wordpress.com](http://splitpediment.wordpress.com)
+ - date_published: 2024-10-21T16:40:51.948557+00:00
+
+ ## Spokalulu
+ - [http://spokalulu.wordpress.com](http://spokalulu.wordpress.com)
+ - date_published: 2024-10-29T19:39:45.406076+00:00
+
+ ## Sebastian Pokutta's Blog
+ - [https://spokutta.wordpress.com](https://spokutta.wordpress.com)
+ - date_published: 2024-05-07T16:15:49.264985+00:00
+ - tags: ['personal']
+
+ ## Spoonie Authors Network
+ - [https://spoonieauthorsnetwork.wordpress.com](https://spoonieauthorsnetwork.wordpress.com)
+ - date_published: 2024-07-03T22:35:51.527775+00:00
+
+ ## SP's Projects Blog
+ - [http://spprojectblog.wordpress.com](http://spprojectblog.wordpress.com)
+ - date_published: 2024-07-09T14:07:57.442778+00:00
+
+ ## spraguedecampfan
+ - [https://spraguedecampfan.wordpress.com](https://spraguedecampfan.wordpress.com)
+ - date_published: 2024-09-05T16:02:34.213052+00:00
+
+ ## Sprechblase
+ - [https://sprechblase.wordpress.com](https://sprechblase.wordpress.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## sprout's lucky corner
+ - [https://sproutsluckycorner.wordpress.com](https://sproutsluckycorner.wordpress.com)
+ - date_published: 2024-11-19T14:31:24.430696+00:00
+
+ ## Parents and Kids Share Together
+ - [http://sprouttvfans.wordpress.com](http://sprouttvfans.wordpress.com)
+ - date_published: 2024-09-03T23:00:32.728566+00:00
+
+ ## Sprues & Brews
+ - [https://spruesandbrewsblog.wordpress.com](https://spruesandbrewsblog.wordpress.com)
+ - date_published: 2024-10-26T20:59:29+00:00
+
+ ## spurredgirl
+ - [https://spurredgirl.wordpress.com](https://spurredgirl.wordpress.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Private Website
+ - [http://sqlpractice.wordpress.com](http://sqlpractice.wordpress.com)
+ - date_published: 2024-09-18T14:27:11.064062+00:00
+
+ ## Private Website
+ - [https://squadwuschel.wordpress.com](https://squadwuschel.wordpress.com)
+ - date_published: 2024-09-18T14:23:50.974719+00:00
+
+ ## Squeezed Out
+ - [https://squeezedout.wordpress.com](https://squeezedout.wordpress.com)
+ - date_published: 2024-08-11T04:57:01.248887+00:00
+
+ ## سرائیکی ساݙی قومی زبان
+ - [https://sraiki.wordpress.com](https://sraiki.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Otium
+ - [https://srconstantin.wordpress.com](https://srconstantin.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## MyVoice_Sreejith
+ - [http://sreejublog.wordpress.com](http://sreejublog.wordpress.com)
+ - date_published: 2024-07-12T22:35:45.555111+00:00
+
+ ## SRHE Blog
+ - [http://srheblog.wordpress.com](http://srheblog.wordpress.com)
+ - date_published: 2024-10-19T10:18:39.031118+00:00
+
+ ## Notable S
+ - [http://ssar.wordpress.com](http://ssar.wordpress.com)
+ - date_published: 2024-06-27T11:43:37.618147+00:00
+
+ ## Stephen Musoke Senkomago
+ - [https://ssmusoke.wordpress.com](https://ssmusoke.wordpress.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## WordPress, Your Way
+ - [https://s-ssl.wordpress.com](https://s-ssl.wordpress.com)
+ - date_published: 2024-04-30T15:02:07.180514+00:00
+
+ ## Sentence first | An Irishman's blog about the English language.
+ - [https://stancarey.wordpress.com](https://stancarey.wordpress.com)
+ - date_published: 2023-10-25T18:17:04.006055+00:00
+
+ ## Special Collections blog
+ - [https://standrewsrarebooks.wordpress.com](https://standrewsrarebooks.wordpress.com)
+ - date_published: 2024-05-07T10:26:02.735422+00:00
+
+ ## Stargrave1's Blog
+ - [http://stargrave1.wordpress.com](http://stargrave1.wordpress.com)
+ - date_published: 2024-10-21T13:41:27.063292+00:00
+
+ ## Starship Fabulous
+ - [https://starshipfabulous.wordpress.com](https://starshipfabulous.wordpress.com)
+ - date_published: 2024-06-24T10:23:53.033392+00:00
+
+ ## Start Thinking Right
+ - [https://startthinkingright.wordpress.com](https://startthinkingright.wordpress.com)
+ - date_published: 2024-05-06T21:01:43.359791+00:00
+
+ ## Station HYPO
+ - [https://stationhypo.wordpress.com](https://stationhypo.wordpress.com)
+ - date_published: 2024-06-21T09:41:45.280740+00:00
+
+ ## Statistics and Other Things
+ - [http://statpad.wordpress.com](http://statpad.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Another angry woman
+ - [https://stavvers.wordpress.com](https://stavvers.wordpress.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Mateusz Stawecki
+ - [https://stawecki.wordpress.com](https://stawecki.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Airships, Anarchists & Anachronisms
+ - [https://steampunkanarchist.wordpress.com](https://steampunkanarchist.wordpress.com)
+ - date_published: 2024-08-19T22:06:25.189107+00:00
+
+ ## Steckdenis' developer blog
+ - [https://steckdenis.wordpress.com](https://steckdenis.wordpress.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Private Site
+ - [https://steelcinema.wordpress.com](https://steelcinema.wordpress.com)
+ - date_published: 2024-06-28T14:17:54.448759+00:00
+
+ ## Steel Town Fire
+ - [https://steeltownfire.wordpress.com](https://steeltownfire.wordpress.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## Steely Seamstress
  - [http://steelyseamstress.wordpress.com](http://steelyseamstress.wordpress.com)
  - date_published: 2024-07-10T03:48:50.999521+00:00
@@ -3815,198 +4008,4 @@
  ## The Modern Southern Polytheist
  - [http://www.themodernsouthernpolytheist.wordpress.com](http://www.themodernsouthernpolytheist.wordpress.com)
  - date_published: 2024-06-17T00:00:00+00:00
-
- ## The It Blog
- - [http://www.uwithelpdesk.wordpress.com](http://www.uwithelpdesk.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Victors Corner Blog
- - [http://www.victorscornerdotorg.wordpress.com](http://www.victorscornerdotorg.wordpress.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Linguistic Ethnography Lab
- - [http://www.virtuallinguisticethnographylab.wordpress.com](http://www.virtuallinguisticethnographylab.wordpress.com)
- - date_published: 2024-07-02T08:51:07.575154+00:00
-
- ## VotingFemale
- - [http://www.votingfemale.wordpress.com](http://www.votingfemale.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## (no title)
- - [http://www.wildeonmyside.wordpress.com](http://www.wildeonmyside.wordpress.com)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## Wyrdstone Forge
- - [https://wyrdstoneforge.wordpress.com](https://wyrdstoneforge.wordpress.com)
- - date_published: 2024-10-26T17:25:28.095892+00:00
-
- ## Wyre Forest Green Party
- - [http://wyreforestgreenparty.wordpress.com](http://wyreforestgreenparty.wordpress.com)
- - date_published: 2024-10-21T12:49:00.483240+00:00
-
- ## XDC
- - [https://x86dc.wordpress.com](https://x86dc.wordpress.com)
- - date_published: 2024-05-07T15:34:46.908993+00:00
- - tags: ['xdc']
-
- ## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
- - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
- - date_published: 2023-10-25T18:18:27.707634+00:00
-
- ## xcorr: AI & neuro
- - [https://xcorr.wordpress.com](https://xcorr.wordpress.com)
- - date_published: 2024-06-26T22:32:10.064041+00:00
-
- ## Φωτεινή Παντογνώστρα
- - [https://xefteri.wordpress.com](https://xefteri.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Xena
- - [https://xenaproject.wordpress.com](https://xenaproject.wordpress.com)
- - date_published: 2024-06-30T09:09:18.707608+00:00
-
- ## Horrorshow Miniatures
- - [https://xenite.wordpress.com](https://xenite.wordpress.com)
- - date_published: 2024-10-26T21:32:08.578771+00:00
-
- ## Xi'an's Og
- - [https://xianblog.wordpress.com](https://xianblog.wordpress.com)
- - date_published: 2024-05-07T15:26:15.896556+00:00
-
- ## Xio's Xcribble
- - [https://xiomaro.wordpress.com](https://xiomaro.wordpress.com)
- - date_published: 2024-05-07T16:55:54.063718+00:00
-
- ## XIX век
- - [http://xixvek.wordpress.com](http://xixvek.wordpress.com)
- - date_published: 2024-06-21T19:54:50.592851+00:00
-
- ## xmonad
- - [https://xmonad.wordpress.com](https://xmonad.wordpress.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Private Site
- - [https://xn3art.wordpress.com](https://xn3art.wordpress.com)
- - date_published: 2024-09-19T22:50:28.856289+00:00
-
- ## xorl %eax, %eax
- - [http://xorl.wordpress.com](http://xorl.wordpress.com)
- - date_published: 2024-10-16T04:36:29.077227+00:00
-
- ## XOR's Hammer
- - [http://xorshammer.wordpress.com](http://xorshammer.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## /// Blog
- - [https://xrayfm.wordpress.com](https://xrayfm.wordpress.com)
- - date_published: 2024-08-07T11:38:47.124949+00:00
-
- ## El arte es para tod@s pero sólo una élite lo sabe
- - [http://xuxiart.wordpress.com](http://xuxiart.wordpress.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Yet another blogging mathematician...
- - [http://yabm.wordpress.com](http://yabm.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## [yaderv-blog]
- - [https://yaderv.wordpress.com](https://yaderv.wordpress.com)
- - date_published: 2024-07-10T03:05:56.807097+00:00
-
- ## The Yaghnobi
- - [http://yaghnobi.wordpress.com](http://yaghnobi.wordpress.com)
- - date_published: 2024-07-02T09:14:31.687963+00:00
-
- ## Sergei Yakovenko's blog: on Math and Teaching
- - [https://yakovenko.wordpress.com](https://yakovenko.wordpress.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Young Adult Lit Reviews
- - [http://yalitreader.wordpress.com](http://yalitreader.wordpress.com)
- - date_published: 2024-07-11T19:37:48+00:00
-
- ## The Logical Place
- - [https://yandoo.wordpress.com](https://yandoo.wordpress.com)
- - date_published: 2024-10-31T22:52:11.240860+00:00
-
- ## Le blog de Yannick Rumpala
- - [http://yannickrumpala.wordpress.com](http://yannickrumpala.wordpress.com)
- - date_published: 2024-08-06T05:31:47.749196+00:00
-
- ## I Woke Up In A Strange Place
- - [https://yannisparissis.wordpress.com](https://yannisparissis.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Yard Sale of the Mind
- - [https://yardsaleofthemind.wordpress.com](https://yardsaleofthemind.wordpress.com)
- - date_published: 2024-08-19T09:41:18+00:00
-
- ## Yearly Cider
- - [https://yearlycider.wordpress.com](https://yearlycider.wordpress.com)
- - date_published: 2024-10-21T13:39:38.804622+00:00
-
- ## Outside In View of Uncommon Bostonian
- - [http://yechristian.wordpress.com](http://yechristian.wordpress.com)
- - date_published: 2024-09-03T23:00:23.804225+00:00
-
- ## Yellingrosa Weblog
- - [http://yellingrosa.wordpress.com](http://yellingrosa.wordpress.com)
- - date_published: 2024-07-16T10:34:58+00:00
-
- ## (no title)
- - [http://yesmeansyesblog.wordpress.com](http://yesmeansyesblog.wordpress.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Yggdrasill and the Tortoise
- - [http://yggdrasilltortoise.wordpress.com](http://yggdrasilltortoise.wordpress.com)
- - date_published: 2024-06-30T08:55:26.487196+00:00
-
- ## Huseyin Yilmaz's Blog
- - [https://yilmazhuseyin.wordpress.com](https://yilmazhuseyin.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Young World Inventors
- - [https://yinventors.wordpress.com](https://yinventors.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Yisheng's blog
- - [https://yishenggong.wordpress.com](https://yishenggong.wordpress.com)
- - date_published: 2024-05-07T18:32:17.698294+00:00
- - tags: ['personal']
-
- ## Yuvaraj Chesetti
- - [https://ykchesetti.wordpress.com](https://ykchesetti.wordpress.com)
- - date_published: 2024-06-28T12:40:20.102243+00:00
-
- ## Sake White
- - [https://ymarsakar.wordpress.com](https://ymarsakar.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## yo252yo
- - [https://yo252yo.wordpress.com](https://yo252yo.wordpress.com)
- - date_published: 2024-05-06T15:10:56.237195+00:00
-
- ## Y o h a n c a
- - [https://yohancacom.wordpress.com](https://yohancacom.wordpress.com)
- - date_published: 2024-05-07T18:33:18.761437+00:00
-
- ## Yokosuka Sasebo Japan
- - [https://yokosukasasebojapan.wordpress.com](https://yokosukasasebojapan.wordpress.com)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Yo Mama For Obama
- - [http://yomamaforobama.wordpress.com](http://yomamaforobama.wordpress.com)
- - date_published: 2024-06-27T06:47:51.616541+00:00
-
- ## Alternate Seat of TYR
- - [https://yorksranter.wordpress.com](https://yorksranter.wordpress.com)
- - date_published: 2024-06-08T11:35:20.904067+00:00
-
- ## Yorkwargamer's Blog
- - [http://yorkwargamer.wordpress.com](http://yorkwargamer.wordpress.com)
- - date_published: 2024-10-26T21:36:08.636461+00:00
-
- ## "You Might as Well Read"
- - [http://youmightaswellreadcom.wordpress.com](http://youmightaswellreadcom.wordpress.com)
- - date_published: 2024-09-17T00:00:00+00:00
 

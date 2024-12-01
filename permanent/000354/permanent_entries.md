@@ -1,3 +1,261 @@
+ ## WEBSAM.NZ |
+ - [https://websam.nz](https://websam.nz)
+ - date_published: 2024-02-14T08:43:34.578551+00:00
+ - tags: ['personal']
+
+ ## Webshop - Webstock Webshop
+ - [https://webstock.nz](https://webstock.nz)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## The Whakataki Times | Trusted news that's important
+ - [https://whakatakitimes.nz](https://whakatakitimes.nz)
+ - date_published: 2024-10-31T22:50:34.564853+00:00
+
+ ## WhereTheyStand
+ - [https://wheretheystand.nz](https://wheretheystand.nz)
+ - date_published: 2024-10-29T19:37:05.530682+00:00
+
+ ## Winston
+ - [https://winston.nz](https://winston.nz)
+ - date_published: 2024-05-12T05:30:27.449357+00:00
+
+ ## Tō Reo — your Māori spellchecker
+ - [https://xn--treo-l3a.nz](https://xn--treo-l3a.nz)
+ - date_published: 2024-09-20T12:30:11+00:00
+
+ ## Homepage | 28 Māori Battalion
+ - [https://www.28maoribattalion.org.nz](https://www.28maoribattalion.org.nz)
+ - date_published: 2024-09-07T22:10:21+00:00
+
+ ## Asia Media Centre | Helping New Zealand media cover Asia
+ - [https://asiamediacentre.org.nz](https://asiamediacentre.org.nz)
+ - date_published: 2023-10-25T20:51:53.621097+00:00
+
+ ## Asia New Zealand Foundation
+ - [https://asianz.org.nz](https://asianz.org.nz)
+ - date_published: 2024-10-28T08:40:14.035275+00:00
+
+ ## Home
+ - [https://fundraise.bcf.org.nz](https://fundraise.bcf.org.nz)
+ - date_published: 2024-10-14T18:20:24.597218+00:00
+
+ ## Welcome to BlockchainNZ - Blockchain NZ | Representing the Blockchain Ecosystem
+ - [https://blockchain.org.nz](https://blockchain.org.nz)
+ - date_published: 2024-09-30T19:43:48.968167+00:00
+
+ ## Homepage
+ - [https://bowelcancerfoundation.org.nz](https://bowelcancerfoundation.org.nz)
+ - date_published: 2024-05-08T03:36:12.851119+00:00
+
+ ## CAPE Homepage - CAPE
+ - [https://cape.org.nz](https://cape.org.nz)
+ - date_published: 2024-07-24T03:16:47.392918+00:00
+
+ ## Christ Church Cathedral Rebuild | Reinstatement Project
+ - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
+ - date_published: 2021-08-20T01:27:26+00:00
+
+ ## My Playlist
+ - [https://circuit.org.nz](https://circuit.org.nz)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Terry Stewart's (Tezza's) Webzone for Classic Computers
+ - [https://classic-computers.org.nz](https://classic-computers.org.nz)
+ - date_published: 2024-01-27T00:52:33+00:00
+
+ ## CCG | The end is not nigh.
+ - [https://climateconversation.org.nz](https://climateconversation.org.nz)
+ - date_published: 2024-06-15T09:05:33.141087+00:00
+
+ ## Blog
+ - [http://www.climatescience.org.nz](http://www.climatescience.org.nz)
+ - date_published: 2019-03-28T00:00:00+00:00
+
+ ## Campaigns & advocacy - Consumer NZ
+ - [https://campaigns.consumer.org.nz](https://campaigns.consumer.org.nz)
+ - date_published: 2024-10-28T08:39:34.840130+00:00
+
+ ## Consumer NZ | Expert product tests, research and advocacy
+ - [https://www.consumer.org.nz](https://www.consumer.org.nz)
+ - date_published: 2024-06-19T08:16:48.218427+00:00
+
+ ## Cryptocurrency NZ - New Zealand Crypto Community & Guide
+ - [https://cryptocurrency.org.nz](https://cryptocurrency.org.nz)
+ - date_published: 2020-07-21T20:24:34+00:00
+
+ ## David Miscavige Scientology Ecclesiastical Leader
+ - [http://www.davidmiscavige.org.nz](http://www.davidmiscavige.org.nz)
+ - date_published: 2024-09-04T17:54:09.296252+00:00
+
+ ## Diabetes New Zealand
+ - [http://diabetes.org.nz](http://diabetes.org.nz)
+ - date_published: 2024-07-19T23:16:33.325225+00:00
+
+ ## The Designers Institute of New Zealand
+ - [http://www.dinz.org.nz](http://www.dinz.org.nz)
+ - date_published: 2024-07-14T13:04:59.557915+00:00
+
+ ## Information About Illegal Drugs & Alcohol Abuse - Drug-Free World
+ - [http://www.drugfreeworld.org.nz](http://www.drugfreeworld.org.nz)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Family First NZ
+ - [https://familyfirst.org.nz](https://familyfirst.org.nz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Fightback Newsletter
+ - [https://fightback.org.nz](https://fightback.org.nz)
+ - date_published: 2024-05-07T19:07:20.002209+00:00
+
+ ## FRED: New Zealand open-access and crowdsource database of fossil records
+ - [https://fred.org.nz](https://fred.org.nz)
+ - date_published: 2024-09-25T04:52:56+00:00
+
+ ## Welcome to Opioid, USA
+ - [https://www.freedom.org.nz](https://www.freedom.org.nz)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Index of /
+ - [http://hlzmel.fsmg.org.nz](http://hlzmel.fsmg.org.nz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Index of /
+ - [http://wlglam.fsmg.org.nz](http://wlglam.fsmg.org.nz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Giving - The University of Auckland
+ - [https://www.givingtoauckland.org.nz](https://www.givingtoauckland.org.nz)
+ - date_published: 2024-07-24T03:16:03.784354+00:00
+
+ ## GOVIS | GOVIS Incorporated
+ - [http://www.govis.org.nz](http://www.govis.org.nz)
+ - date_published: 2024-07-19T05:12:03.582991+00:00
+
+ ## Greater Auckland
+ - [https://www.greaterauckland.org.nz](https://www.greaterauckland.org.nz)
+ - date_published: 2024-10-29T19:37:49.874901+00:00
+
+ ## HDRLab - Pure Research & Development | HDRLab
+ - [http://hdrlab.org.nz](http://hdrlab.org.nz)
+ - date_published: 2024-08-11T13:56:56.278308+00:00
+
+ ## Genital Herpes & Cold Sore information from New Zealand Herpes Foundation
+ - [https://www.herpes.org.nz](https://www.herpes.org.nz)
+ - date_published: 2024-10-28T08:38:12.041123+00:00
+
+ ## Heart Research Institute NZ • Donate to heart disease research charity • Heart Research Institute
+ - [https://hri.org.nz](https://hri.org.nz)
+ - date_published: 2024-05-09T05:52:55.306536+00:00
+
+ ## New Zealand IPv6 Task Force |
+ - [http://www.ipv6.org.nz](http://www.ipv6.org.nz)
+ - date_published: 2019-02-11T04:34:06+00:00
+
+ ## The Jane Goodall Institute New Zealand
+ - [https://janegoodall.org.nz](https://janegoodall.org.nz)
+ - date_published: 2024-04-30T06:49:12.443411+00:00
+
+ ## LIANZA – People & communities connected & empowered by information
+ - [https://lianza.org.nz](https://lianza.org.nz)
+ - date_published: 2024-07-04T04:38:57+00:00
+
+ ## Mental Health Support & Counselling
+ - [https://www.lifeline.org.nz](https://www.lifeline.org.nz)
+ - date_published: 2024-10-28T08:38:31.919568+00:00
+
+ ## Living Wage Movement Aotearoa New Zealand
+ - [https://www.livingwage.org.nz](https://www.livingwage.org.nz)
+ - date_published: 2024-09-04T17:13:44.711394+00:00
+
+ ## Loud Shirt Day | Hearing House NZ
+ - [https://www.loudshirtday.org.nz](https://www.loudshirtday.org.nz)
+ - date_published: 2024-09-18T19:01:44.680974+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.org.nz](https://www.lronhubbard.org.nz)
+ - date_published: 2024-06-06T19:38:34.357268+00:00
+
+ ## Lower the Voting Age | Make It 16
+ - [https://makeit16.org.nz](https://makeit16.org.nz)
+ - date_published: 2024-10-29T19:37:46.690682+00:00
+
+ ## Home
+ - [http://mmef.org.nz](http://mmef.org.nz)
+ - date_published: 2024-10-31T22:51:06.374897+00:00
+
+ ## Welcome to the audiovisual archive of Aotearoa New Zealand
+ - [https://www.ngataonga.org.nz](https://www.ngataonga.org.nz)
+ - date_published: 2024-11-12T17:13:49.868273+00:00
+
+ ## New Zealander of the Year Awards
+ - [https://nzawards.org.nz](https://nzawards.org.nz)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## NZ Council for Civil Liberties
+ - [https://nzccl.org.nz](https://nzccl.org.nz)
+ - date_published: 2024-10-29T19:37:26.117893+00:00
+
+ ## New Zealand Open Source Awards
+ - [https://nzosa.org.nz](https://nzosa.org.nz)
+ - date_published: 2024-06-26T22:40:16.281487+00:00
+ - tags: ['open source']
+
+ ## Open Source Software
+ - [http://nzoss.org.nz](http://nzoss.org.nz)
+ - date_published: 2024-06-26T22:39:56.665664+00:00
+
+ ## - NZRise
+ - [http://nzrise.org.nz](http://nzrise.org.nz)
+ - date_published: 2024-06-26T22:40:10.489184+00:00
+
+ ## Open Doors - Serving Persecuted Christians Worldwide
+ - [https://opendoors.org.nz](https://opendoors.org.nz)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - Open Doors New Zealand
+ - [https://secure.opendoors.org.nz](https://secure.opendoors.org.nz)
+ - date_published: 2024-07-08T07:42:33+00:00
+
+ ## Open Food Network
+ - [https://openfoodnetwork.org.nz](https://openfoodnetwork.org.nz)
+ - date_published: 2024-10-31T03:27:49.774444+00:00
+
+ ## Ōtautahi Christchurch
+ - [https://otautahi.org.nz](https://otautahi.org.nz)
+ - date_published: 2024-08-10T23:07:51.095924+00:00
+
+ ## OUSA
+ - [https://www.ousa.org.nz](https://www.ousa.org.nz)
+ - date_published: 2024-08-18T15:07:26.740328+00:00
+
+ ## Oxfam Aotearoa
+ - [https://www.oxfam.org.nz](https://www.oxfam.org.nz)
+ - date_published: 2024-07-08T13:54:14.260663+00:00
+
+ ## Thundering Herd
+ - [http://blog.pearce.org.nz](http://blog.pearce.org.nz)
+ - date_published: 2023-04-08T00:00:00+00:00
+
+ ## The Physics Room
+ - [https://physicsroom.org.nz](https://physicsroom.org.nz)
+ - date_published: 2024-07-13T16:16:00.753479+00:00
+
+ ## Powerswitch: Compare and find cheap energy plans
+ - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
+ - date_published: 2024-10-28T08:39:38.426513+00:00
+
+ ## https://www.privacy.org.nz
+ - [https://privacy.org.nz](https://privacy.org.nz)
+ - date_published: 2024-01-09T03:38:02.730564+00:00
+
+ ## Home | QEII National Trust
+ - [https://qeiinationaltrust.org.nz](https://qeiinationaltrust.org.nz)
+ - date_published: 2024-10-29T19:12:23.472919+00:00
+
+ ## Royal Astronomical Society of New Zealand
+ - [https://rasnz.org.nz](https://rasnz.org.nz)
+ - date_published: 2024-09-16T06:21:56.597365+00:00
+
  ## Repair Network Aotearoa
  - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
  - date_published: 2024-05-29T20:28:15.667518+00:00
@@ -1338,6 +1596,10 @@ I post about Tech, Privacy, Games...
  ## ورود به سایت دنس بت بدون فیلتر | دانلود برنامه دنس بت برای اندروید
  - [http://dancebetvorod.online](http://dancebetvorod.online)
  - date_published: 2024-08-08T11:57:35.789126+00:00
+
+ ## Danimotora
+ - [https://danimotora.online](https://danimotora.online)
+ - date_published: 2024-11-20T21:32:42+00:00
 
  ## Online DDoS Attack Simulation - ddosattack.online
  - [https://ddosattack.online](https://ddosattack.online)
@@ -3788,267 +4050,4 @@ I post about Tech, Privacy, Games...
  ## AARP樂齡會™
  - [https://chinese.aarp.org](https://chinese.aarp.org)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## AARP Online Community
- - [https://community.aarp.org](https://community.aarp.org)
- - date_published: 2024-06-28T08:31:46.671239+00:00
-
- ## Games
- - [https://games.aarp.org](https://games.aarp.org)
- - date_published: 2023-10-30T11:59:48.224688+00:00
- - tags: ['games', 'atari']
-
- ## AARP Help
- - [https://help.aarp.org](https://help.aarp.org)
- - date_published: 2023-06-29T08:30:52+00:00
-
- ## AARP Membership – Join or Renew
- - [https://join.aarp.org](https://join.aarp.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## AARP Local: Events Near You, Volunteering, Things To Do
- - [https://local.aarp.org](https://local.aarp.org)
- - date_published: 2023-02-23T00:00:00+00:00
-
- ## AARP.ORG log in - Register Free Online
- - [https://login.aarp.org](https://login.aarp.org)
- - date_published: 2024-06-28T08:31:30.551775+00:00
-
- ## Rewards Star
- - [https://memberoffers.aarp.org](https://memberoffers.aarp.org)
- - date_published: 2024-06-28T08:31:36.006802+00:00
-
- ## AARP Money Map™
- - [https://moneymap.aarp.org](https://moneymap.aarp.org)
- - date_published: 2024-06-26T19:45:48+00:00
-
- ## MediaRoom - AARP Press Room
- - [https://press.aarp.org](https://press.aarp.org)
- - date_published: 2024-06-28T08:31:24+00:00
-
- ## Site Not Available
- - [https://secure.aarp.org](https://secure.aarp.org)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## AARP In Your State
- - [https://states.aarp.org](https://states.aarp.org)
- - date_published: 2024-06-28T08:32:05.748716+00:00
-
- ## Lifestyle Behavior and Brain Health
- - [https://stayingsharp.aarp.org](https://stayingsharp.aarp.org)
- - date_published: 2024-06-28T08:31:32.011267+00:00
-
- ## Actor Tim Daly Reflects on Caring for His Mom
- - [https://videos.aarp.org](https://videos.aarp.org)
- - date_published: 2024-06-28T08:31:03.866480+00:00
-
- ## AARP International
- - [https://www.aarpinternational.org](https://www.aarpinternational.org)
- - date_published: 2024-07-16T20:51:54.126282+00:00
-
- ## Homepage | American Astronomical Society
- - [https://aas.org](https://aas.org)
- - date_published: 2024-05-07T19:49:15.639431+00:00
-
- ## Bulletin of the AAS
- - [https://baas.aas.org](https://baas.aas.org)
- - date_published: 2024-02-24T18:05:46.247535+00:00
-
- ## Division on Dynamical Astronomy | Division on Dynamical Astronomy
- - [https://dda.aas.org](https://dda.aas.org)
- - date_published: 2024-08-11T14:26:35+00:00
-
- ## Home
- - [https://eclipse.aas.org](https://eclipse.aas.org)
- - date_published: 2024-07-01T13:40:14+00:00
-
- ## Historical Astronomy Division
- - [https://had.aas.org](https://had.aas.org)
- - date_published: 2024-08-11T15:10:31.567002+00:00
-
- ## Job Register | American Astronomical Society
- - [https://jobregister.aas.org](https://jobregister.aas.org)
- - date_published: 2024-06-30T05:31:58.234607+00:00
-
- ## Home - AAS Journals
- - [https://journals.aas.org](https://journals.aas.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [http://my.aas.org](http://my.aas.org)
- - date_published: 2024-07-01T16:31:25.372654+00:00
-
- ## AAS Photo Gallery
- - [http://photos.aas.org](http://photos.aas.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home | AASCU
- - [http://www.aascu.org](http://www.aascu.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Log In | STARS Reports
- - [https://reports.aashe.org](https://reports.aashe.org)
- - date_published: 2024-07-01T23:55:29.277953+00:00
-
- ## STARS, Sustainability Tracking Assessment & Rating System
- - [https://stars.aashe.org](https://stars.aashe.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## AASIANT – Healthy living made simple and sustainable
- - [http://www.aasianst.org](http://www.aasianst.org)
- - date_published: 2024-09-02T12:57:17.017413+00:00
-
- ## AASL Knowledge Quest
- - [https://knowledgequest.aasl.org](https://knowledgequest.aasl.org)
- - date_published: 2024-05-04T09:35:17.977887+00:00
-
- ## AASLH
- - [http://www.aaslh.org](http://www.aaslh.org)
- - date_published: 2024-06-20T04:28:11.447426+00:00
-
- ## American Academy of Sleep Medicine | AASM | Sleep | Medical Society
- - [https://aasm.org](https://aasm.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage - AAS Nova
- - [https://aasnova.org](https://aasnova.org)
- - date_published: 2023-10-25T20:53:12.339589+00:00
-
- ## American Association of Teachers of German | AATG
- - [https://www.aatg.org](https://www.aatg.org)
- - date_published: 2024-07-01T14:32:17.092181+00:00
-
- ## AAUP
- - [http://aaup.org](http://aaup.org)
- - date_published: 2024-07-02T09:24:26+00:00
-
- ## Aave Grants DAO
- - [https://aavegrants.org](https://aavegrants.org)
- - date_published: 2024-06-16T03:48:14.535750+00:00
-
- ## Home | aavso
- - [https://aavso.org](https://aavso.org)
- - date_published: 2024-05-07T15:17:08.145943+00:00
-
- ## AVSpec Recent
- - [https://app.aavso.org](https://app.aavso.org)
- - date_published: 2024-08-06T18:25:31.906379+00:00
-
- ## Home | aavso
- - [https://auth.aavso.org](https://auth.aavso.org)
- - date_published: 2024-06-30T00:01:09+00:00
-
- ## American Birding Association - American Birding Association
- - [https://www.aba.org](https://www.aba.org)
- - date_published: 2024-06-21T12:55:00.430060+00:00
-
- ## Antiquarian Booksellers' Association of America | Antiquarian & Rare Books | ABAA
- - [http://abaa.org](http://abaa.org)
- - date_published: 2024-07-12T18:44:48.457091+00:00
-
- ## Welcome
-                -
-			Association for Behavior Analysis International
- - [https://www.abainternational.org](https://www.abainternational.org)
- - date_published: 2024-09-04T05:19:17.021106+00:00
-
- ## Bienvenue sur le site de la Fondation Abalone - Fondation Abalone
- - [https://abalone-fondation.org](https://abalone-fondation.org)
- - date_published: 2024-08-18T06:35:58.846789+00:00
-
- ## ABAN – ABAN
- - [https://abanangels.org](https://abanangels.org)
- - date_published: 2024-09-25T10:12:23.184732+00:00
-
- ## Abandoned America
- - [https://abandonedamerica.org](https://abandonedamerica.org)
- - date_published: 2024-10-22T03:16:40.849177+00:00
-
- ## Abandonware France, le site retrogaming dÃ©diÃ© Ã  la sauvegarde du patrimoine vidÃ©o ludique PC.
- - [https://www.abandonware-france.org](https://www.abandonware-france.org)
- - date_published: 2024-07-10T02:41:00.978525+00:00
-
- ## Le site des anciennes revues informatiques -  www.abandonware-magazines.org
- - [http://www.abandonware-magazines.org](http://www.abandonware-magazines.org)
- - date_published: 2024-07-11T12:07:25.900326+00:00
-
- ## ABBABET APP DOWNLOAD LIVE BETTING CRICKET AND CASINO GAMES APK LOGIN BD
- - [https://abbabet-bd.org](https://abbabet-bd.org)
- - date_published: 2024-09-06T13:43:57.530891+00:00
-
- ## Abbeville Institute – Explore the Southern Tradition
- - [http://abbevilleinstitute.org](http://abbevilleinstitute.org)
- - date_published: 2024-06-27T06:57:39.495187+00:00
-
- ## HostGator Website Startup Guide
- - [https://abbysarmy.org](https://abbysarmy.org)
- - date_published: 2020-11-19T23:24:54+00:00
-
- ## Ability Building Community
- - [https://abcinc.org](https://abcinc.org)
- - date_published: 2024-08-18T02:25:49.232551+00:00
-
- ## Bothalia, African Biodiversity & Conservation
- - [http://www.abcjournal.org](http://www.abcjournal.org)
- - date_published: 2024-10-29T18:52:01.273777+00:00
-
- ## Armed Bear Common Lisp (ABCL) - ANSI Common Lisp on the Java Virtual Machine
- - [https://abcl.org](https://abcl.org)
- - date_published: 2024-05-08T12:14:45.105211+00:00
-
- ## ABC Science Collaborative - ABC Science Collaborative
- - [https://abcsciencecollaborative.org](https://abcsciencecollaborative.org)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Home | The American Board Of Certification
- - [https://www.abcworld.org](https://www.abcworld.org)
- - date_published: 2024-06-29T14:12:28+00:00
-
- ## University of Aberdeen Development Trust SCIO
- - [https://abdnalumni.org](https://abdnalumni.org)
- - date_published: 2024-06-17T17:24:25.354099+00:00
-
- ## abelard public education website
- - [https://abelard.org](https://abelard.org)
- - date_published: 2023-10-25T20:53:20.409245+00:00
-
- ## Abenezer Belachew / Software Developer
- - [https://abenezer.org](https://abenezer.org)
- - date_published: 2024-11-20T18:40:22.727657+00:00
-
- ## Home
- - [https://aberdeenunipress.org](https://aberdeenunipress.org)
- - date_published: 2024-10-19T11:07:06.504625+00:00
-
- ## Home - ABET
- - [https://abet.org](https://abet.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## AMS
- - [https://amsapp.abet.org](https://amsapp.abet.org)
- - date_published: 2024-08-12T08:47:57+00:00
-
- ## IIS Windows Server
- - [https://amspub.abet.org](https://amspub.abet.org)
- - date_published: 2023-03-07T21:04:57+00:00
-
- ## ABET Assessment Workshops - ABET Assessment Resources
- - [https://assessment.abet.org](https://assessment.abet.org)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Home | ABET | Education & Resources
- - [https://cred.abet.org](https://cred.abet.org)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## 2023 ABET Impact Report
- - [https://impactreport.abet.org](https://impactreport.abet.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Homepage - ABET Bridge
- - [https://www.abetbridge.org](https://www.abetbridge.org)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Internet Security Research Group
- - [https://abetterinternet.org](https://abetterinternet.org)
- - date_published: 2024-05-08T10:04:45.635051+00:00
 

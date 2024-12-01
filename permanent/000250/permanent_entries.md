@@ -1,3 +1,227 @@
+ ## Fachbereich Literatur-, Kunst- und Medienwissenschaften
+ - [https://www.literature.uni-konstanz.de](https://www.literature.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:09.247012+00:00
+
+ ## Fachbereich Mathematik und Statistik
+ - [https://www.mathematik.uni-konstanz.de](https://www.mathematik.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:21.740363+00:00
+
+ ## Fachbereich Philosophie
+ - [https://www.philosophie.uni-konstanz.de](https://www.philosophie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:13.368573+00:00
+
+ ## Fachbereich Physik
+ - [https://www.physik.uni-konstanz.de](https://www.physik.uni-konstanz.de)
+ - date_published: 2024-07-24T03:43:55.490893+00:00
+
+ ## Fachbereich Politik- und Verwaltungswissenschaft
+ - [https://www.polver.uni-konstanz.de](https://www.polver.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:19.489894+00:00
+
+ ## Fachbereich Psychologie
+ - [https://www.psychologie.uni-konstanz.de](https://www.psychologie.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:17.194913+00:00
+
+ ## Fachbereich Wirtschaftswissenschaften
+ - [https://www.wiwi.uni-konstanz.de](https://www.wiwi.uni-konstanz.de)
+ - date_published: 2024-07-24T03:44:06.796965+00:00
+
+ ## Weiterleitung
+ - [https://zeus.uni-konstanz.de](https://zeus.uni-konstanz.de)
+ - date_published: 2024-07-24T03:43:57.024937+00:00
+
+ ## Produkte
+ - [https://www.unikontor.de](https://www.unikontor.de)
+ - date_published: 2024-07-24T06:03:07.530128+00:00
+
+ ## AlmaWeb | Universität Leipzig
+ - [https://almaweb.uni-leipzig.de](https://almaweb.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:58.600606+00:00
+
+ ## Universität Leipzig: Institute for American Studies
+ - [https://americanstudies.uni-leipzig.de](https://americanstudies.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:40.235031+00:00
+
+ ## Institut für Anatomie
+ - [http://anatomie.medizin.uni-leipzig.de](http://anatomie.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Rudolf-Schönheimer-Institut für Biochemie
+ - [http://biochemie.medizin.uni-leipzig.de](http://biochemie.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Institut für Medizinische Physik und Biophysik
+ - [https://biophysik.medizin.uni-leipzig.de](https://biophysik.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T06:32:26+00:00
+
+ ## Universitätsbibliothek Leipzig
+ - [https://blog.ub.uni-leipzig.de](https://blog.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:54.544596+00:00
+
+ ## Leipzig Corpora Collection - German
+ - [http://corpora.uni-leipzig.de](http://corpora.uni-leipzig.de)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Willkommen beim Fachschaftsrat Informatik
+ - [https://fsinf.informatik.uni-leipzig.de](https://fsinf.informatik.uni-leipzig.de)
+ - date_published: 2024-06-17T23:25:54+00:00
+
+ ## Universität Leipzig: Global and European Studies Institute
+ - [https://gesi.sozphil.uni-leipzig.de](https://gesi.sozphil.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:31.993616+00:00
+
+ ## Sign in · GitLab
+ - [https://git.fsinf.informatik.uni-leipzig.de](https://git.fsinf.informatik.uni-leipzig.de)
+ - date_published: 2024-10-22T05:31:02.070265+00:00
+
+ ## Universität Leipzig: Universität Leipzig
+ - [https://home.uni-leipzig.de](https://home.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:05.293351+00:00
+
+ ## Universität Leipzig: Fehler
+ - [https://intranet.uni-leipzig.de](https://intranet.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:10.521673+00:00
+
+ ## Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften
+ - [http://karl-sudhoff.uni-leipzig.de](http://karl-sudhoff.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Start: Universitätsbibliothek Leipzig
+ - [https://katalog.ub.uni-leipzig.de](https://katalog.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:50.884348+00:00
+
+ ## Klinik für Kleintiere | Start
+ - [https://kleintierklinik.uni-leipzig.de](https://kleintierklinik.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:37+00:00
+
+ ## UBLab
+ - [https://lab.ub.uni-leipzig.de](https://lab.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:36.437930+00:00
+
+ ## leuris - Das Forschungsinformationssystem der Universtität Leipzig
+ - [https://leuris.uni-leipzig.de](https://leuris.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:54.423935+00:00
+
+ ## Universität Leipzig: Das Leipziger Universitätsmagazin
+ - [https://magazin.uni-leipzig.de](https://magazin.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:34.780992+00:00
+
+ ## Home | Moodle 2
+ - [https://moodle2.uni-leipzig.de](https://moodle2.uni-leipzig.de)
+ - date_published: 2024-10-22T05:27:07.952612+00:00
+
+ ## Universität Leipzig: Leipziger Universitätsorchester
+ - [https://orchester.uni-leipzig.de](https://orchester.uni-leipzig.de)
+ - date_published: 2024-10-22T05:25:20.092717+00:00
+
+ ## Paul-Flechsig-Institut – Zentrum für Neuropathologie und Hirnforschung
+ - [http://pfi.medizin.uni-leipzig.de](http://pfi.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Pharmazie in Leipzig
+ - [https://pharmazie.medizin.uni-leipzig.de](https://pharmazie.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home - Carl Ludwig Institute of Physiology
+ - [https://physiologie.medizin.uni-leipzig.de](https://physiologie.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:03.774317+00:00
+
+ ## Piwik › Sign in
+ - [https://piwik.ub.uni-leipzig.de](https://piwik.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:34.280635+00:00
+
+ ## Universität Leipzig: Research Centre Global Dynamics | ReCentGlobe
+ - [https://recentglobe.uni-leipzig.de](https://recentglobe.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:21.930418+00:00
+
+ ## Institut für Rechtsmedizin
+ - [http://rechtsmedizin.uni-leipzig.de](http://rechtsmedizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Universität Leipzig: Universität Leipzig
+ - [https://research.uni-leipzig.de](https://research.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:15.709913+00:00
+
+ ## Institut für Kunstpädagogik der Universität Leipzig
+ - [https://studienart.gko.uni-leipzig.de](https://studienart.gko.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:12.205900+00:00
+
+ ## Willkommen auf der Website des Student*innenRates der Universität Leipzig
+ - [https://stura.uni-leipzig.de](https://stura.uni-leipzig.de)
+ - date_published: 2024-10-22T05:30:57.310450+00:00
+
+ ## Universität Leipzig &gt; Online Einschreibesystem
+ - [https://tool.uni-leipzig.de](https://tool.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:47.020980+00:00
+
+ ## Start: Universitätsbibliothek Leipzig
+ - [https://ub.uni-leipzig.de](https://ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:41.019281+00:00
+
+ ## Universität Leipzig: Universität Leipzig
+ - [https://uni-leipzig.de](https://uni-leipzig.de)
+ - date_published: 2024-10-22T05:26:57.195713+00:00
+
+ ## Sign in - Matomo
+ - [https://uni.wwwstat.rz.uni-leipzig.de](https://uni.wwwstat.rz.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:51.200412+00:00
+
+ ## Leipzig Corpora Collection / Wortschatz Leipzig / Deutscher Wortschatz
+ - [http://wortschatz.uni-leipzig.de](http://wortschatz.uni-leipzig.de)
+ - date_published: 2024-06-30T07:22:44.562760+00:00
+
+ ## Universität Leipzig: Biotechnologisch-Biomedizinisches Zentrum
+ - [https://www.bbz.uni-leipzig.de](https://www.bbz.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:57.379121+00:00
+
+ ## Universität Leipzig: Fakultät für Chemie und Mineralogie
+ - [https://www.chemie.uni-leipzig.de](https://www.chemie.uni-leipzig.de)
+ - date_published: 2024-06-18T13:26:47.483192+00:00
+
+ ## Universität Leipzig: Erziehungswissenschaftliche Fakultät
+ - [https://www.erzwiss.uni-leipzig.de](https://www.erzwiss.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:11.392066+00:00
+
+ ## Universität Leipzig: Fakultät für Mathematik und Informatik
+ - [https://www.fmi.uni-leipzig.de](https://www.fmi.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:23.361993+00:00
+
+ ## Universität Leipzig: Frankreichzentrum
+ - [https://www.frz.uni-leipzig.de](https://www.frz.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:29.701103+00:00
+
+ ## Universität Leipzig: Graduiertenakademie Leipzig
+ - [https://www.ga.uni-leipzig.de](https://www.ga.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:36.046111+00:00
+
+ ## Universität Leipzig: Fakultät für Geschichte, Kunst- und Regionalwissenschaften
+ - [https://www.gkr.uni-leipzig.de](https://www.gkr.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:28.543544+00:00
+
+ ## Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE) | Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE)
+ - [https://www.imise.uni-leipzig.de](https://www.imise.uni-leipzig.de)
+ - date_published: 2024-06-18T04:36:03+00:00
+
+ ## Universität Leipzig: Institut für Informatik
+ - [https://www.informatik.uni-leipzig.de](https://www.informatik.uni-leipzig.de)
+ - date_published: 2024-05-02T12:55:27.381706+00:00
+
+ ## IZBI – Interdisciplinary Centre for Bioinformatics
+ - [https://www.izbi.uni-leipzig.de](https://www.izbi.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:25.549600+00:00
+
+ ## Universität Leipzig: Juristenfakultät
+ - [https://www.jura.uni-leipzig.de](https://www.jura.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:04.722129+00:00
+
+ ## Universität Leipzig: Kustodie
+ - [https://www.kustodie.uni-leipzig.de](https://www.kustodie.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:19.903680+00:00
+
+ ## Universität Leipzig: Humboldt Wissenschaftszentrum für Kindesentwicklung
+ - [https://www.lfe.uni-leipzig.de](https://www.lfe.uni-leipzig.de)
+ - date_published: 2024-10-22T05:27:02.233961+00:00
+
  ## Universität Leipzig: Fakultät für Lebenswissenschaften
  - [https://www.lw.uni-leipzig.de](https://www.lw.uni-leipzig.de)
  - date_published: 2024-06-18T13:28:02.014395+00:00
@@ -3789,228 +4013,4 @@ Bibliotheken / Z39.50
  ## ZB MED Startseite
  - [https://www.zbmed.de](https://www.zbmed.de)
  - date_published: 2024-07-14T16:08:05.262872+00:00
-
- ## ZDB catalogue - Home
- - [https://zdb-katalog.de](https://zdb-katalog.de)
- - date_published: 2024-07-09T21:16:54.962427+00:00
-
- ## MainzelDirekt Login
- - [https://mainzeldirekt.zdf.de](https://mainzeldirekt.zdf.de)
- - date_published: 2024-07-17T08:07:55.737799+00:00
-
- ## ZDFmediathek
- - [http://module.zdf.de](http://module.zdf.de)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## ZDF - Next Generation Player
- - [https://ngp.zdf.de](https://ngp.zdf.de)
- - date_published: 2022-05-20T09:39:54+00:00
-
- ## Start
- - [https://presseportal.zdf.de](https://presseportal.zdf.de)
- - date_published: 2024-05-13T03:13:55.560209+00:00
-
- ## ZDFtext
- - [https://teletext.zdf.de](https://teletext.zdf.de)
- - date_published: 2024-07-17T08:07:46.777432+00:00
-
- ## ZDF Ticketservice
- - [https://ticketservice.zdf.de](https://ticketservice.zdf.de)
- - date_published: 2024-05-13T03:13:58.198760+00:00
-
- ## Trailer
- - [https://trailer.zdf.de](https://trailer.zdf.de)
- - date_published: 2024-07-17T08:04:18.837362+00:00
-
- ## ZDFmediathek
- - [https://zdf.de](https://zdf.de)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## ZDFinfo
- - [https://www.zdfinfo.de](https://www.zdfinfo.de)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## ZDFneo: Binge Dich durch!
- - [https://www.zdfneo.de](https://www.zdfneo.de)
- - date_published: 2023-04-25T00:00:00+00:00
-
- ## ZDF Service
- - [https://zdf-service.de](https://zdf-service.de)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## ZDFtext
- - [https://zdftext.de](https://zdftext.de)
- - date_published: 2024-05-13T03:13:59.269129+00:00
-
- ## Mit dem Zweiten wirbt man besser – ZDF Werbefernsehen
- - [https://zdf-werbefernsehen.de](https://zdf-werbefernsehen.de)
- - date_published: 2024-05-13T03:14:01.284466+00:00
-
- ## Sign in - Matomo
- - [https://piwik.zdf-werbung.de](https://piwik.zdf-werbung.de)
- - date_published: 2024-07-17T08:07:54.731974+00:00
-
- ## Startseite
- - [https://zdi-portal.de](https://zdi-portal.de)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Download | ZDNet.de
- - [https://downloads.zdnet.de](https://downloads.zdnet.de)
- - date_published: 2024-07-01T08:34:12.495057+00:00
-
- ## Registrieren Sie sich für unseren kostenlosen Newsletter in nur 60 Sekunden!
- - [http://subscriber.zdnet.de](http://subscriber.zdnet.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## ZDNet.de
- - [https://zdnet.de](https://zdnet.de)
- - date_published: 2024-05-07T18:49:45.562787+00:00
-
- ## Sign in - Matomo
- - [https://stats.zebralog.de](https://stats.zebralog.de)
- - date_published: 2024-07-17T08:01:39.329224+00:00
-
- ## Startseite
- - [https://www.zebralog.de](https://www.zebralog.de)
- - date_published: 2024-07-17T08:01:40.841463+00:00
-
- ## ZEISS Gruppe
- - [http://www.zeiss.de](http://www.zeiss.de)
- - date_published: 2024-07-08T15:22:52.265717+00:00
-
- ## DIE ZEIT und die ZEIT Magazine im Abo
- - [https://abo.zeit.de](https://abo.zeit.de)
- - date_published: 2024-04-29T07:11:54.596037+00:00
-
- ## Welcher Beruf passt zu mir? - Der Berufstest von ZEIT Campus
- - [https://berufstest.zeit.de](https://berufstest.zeit.de)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Blogs
- - [https://blog.zeit.de](https://blog.zeit.de)
- - date_published: 2024-04-29T07:12:36.743029+00:00
-
- ## Briefkasten
- - [https://briefkasten.zeit.de](https://briefkasten.zeit.de)
- - date_published: 2024-06-28T21:41:04.646084+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://cmk.zeit.de](https://cmk.zeit.de)
- - date_published: 2024-04-29T07:00:14.167012+00:00
-
- ## 403
- - [https://datenschutz.zeit.de](https://datenschutz.zeit.de)
- - date_published: 2024-04-29T07:12:24.987920+00:00
-
- ## 404 Fehler
- - [https://img.zeit.de](https://img.zeit.de)
- - date_published: 2024-04-29T07:11:36.595535+00:00
-
- ## Anzeigenerfassung | DIE ZEIT
- - [https://inserieren.zeit.de](https://inserieren.zeit.de)
- - date_published: 2024-04-29T07:12:50.059154+00:00
-
- ## ZEIT ONLINE Stellenmarkt - Jobbörse der ZEIT - Alle aktuellen Jobs im ZEIT ONLINE Stellenmarkt
- - [https://jobs.zeit.de](https://jobs.zeit.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://marktplatz.zeit.de](https://marktplatz.zeit.de)
- - date_published: 2024-07-24T02:47:32.284334+00:00
-
- ## ZEIT ONLINE
- - [https://meine.zeit.de](https://meine.zeit.de)
- - date_published: 2024-04-29T07:12:29.476682+00:00
-
- ## ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten
- - [https://newsfeed.zeit.de](https://newsfeed.zeit.de)
- - date_published: 2024-02-26T14:40:39.110166+00:00
-
- ## Newsletter | ZEIT ONLINE
- - [https://newsletter.zeit.de](https://newsletter.zeit.de)
- - date_published: 2024-04-29T07:12:52.059216+00:00
-
- ## ZEIT ONLINE Partnersuche - Zeit für Liebe!
- - [https://partnersuche.zeit.de](https://partnersuche.zeit.de)
- - date_published: 2024-04-29T07:12:53.100204+00:00
-
- ## ZEIT ABO - Die digitale ZEIT im Abo
- - [https://premium.zeit.de](https://premium.zeit.de)
- - date_published: 2024-04-29T07:12:03.558506+00:00
-
- ## ZEIT ONLINE
- - [https://profile.zeit.de](https://profile.zeit.de)
- - date_published: 2024-04-29T07:12:15.150605+00:00
-
- ## Quiz des Tages: Der tägliche Wissenstest | ZEIT Spiele
- - [https://quiz.zeit.de](https://quiz.zeit.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Spiele und Rätsel
- - [http://schach.zeit.de](http://schach.zeit.de)
- - date_published: 2024-07-24T02:51:47.896401+00:00
-
- ## DIE ZEIT Shop - Besondere Ideen, erlesene Geschenke
- - [https://shop.zeit.de](https://shop.zeit.de)
- - date_published: 2024-04-29T07:11:53.071897+00:00
-
- ## Spiele und Rätsel
- - [https://spiele.zeit.de](https://spiele.zeit.de)
- - date_published: 2024-04-29T07:12:18.003863+00:00
-
- ## 404 Fehler
- - [https://static.zeit.de](https://static.zeit.de)
- - date_published: 2024-04-29T07:11:43.281389+00:00
-
- ## Die besten Studiengänge finden mit HeyStudium
- - [https://studiengaenge.zeit.de](https://studiengaenge.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## KonsoleH Login
- - [https://studio.zeit.de](https://studio.zeit.de)
- - date_published: 2024-07-24T02:47:43.830922+00:00
-
- ## Sudoku online spielen | ZEIT Spiele
- - [https://sudoku.zeit.de](https://sudoku.zeit.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## ZEIT Talent - for visible Employer Brands
- - [https://talent.zeit.de](https://talent.zeit.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Freunde der ZEIT - Das Programm für alle Abonnentinnen und Abonnenten
- - [https://verlag.zeit.de](https://verlag.zeit.de)
- - date_published: 2024-04-29T07:12:57.977695+00:00
-
- ## ZEIT Media - ZEIT für Ihre Kommunikation
- - [https://www.media.zeit.de](https://www.media.zeit.de)
- - date_published: 2024-07-24T02:47:40.181256+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://zeit.de](https://zeit.de)
- - date_published: 2024-07-24T02:52:47.180641+00:00
-
- ## Startseite | ZEIT REISEN - Reiseprogramm der ZEIT
- - [https://zeitreisen.zeit.de](https://zeitreisen.zeit.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://cdn.zeitakademie.de](https://cdn.zeitakademie.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://img.zeitakademie.de](https://img.zeitakademie.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Laravel
- - [https://prod.v3.zeitakademie.de](https://prod.v3.zeitakademie.de)
- - date_published: 2024-08-11T07:41:57+00:00
-
- ## Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
- - [https://zeitakademie.de](https://zeitakademie.de)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## ZEIT für die Schule – Startseite
- - [https://www.zeitfuerdieschule.de](https://www.zeitfuerdieschule.de)
- - date_published: 2024-07-31T00:00:00+00:00
 

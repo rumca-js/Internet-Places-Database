@@ -1,3 +1,243 @@
+ ## Florida Department of Health in Lafayette
+ - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:13.356400+00:00
+
+ ## Florida Department of Health in Lake
+ - [https://lake.floridahealth.gov](https://lake.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:22.703414+00:00
+
+ ## Florida Department of Health in Lee
+ - [https://lee.floridahealth.gov](https://lee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:42.326987+00:00
+
+ ## Florida Department of Health in Leon
+ - [https://leon.floridahealth.gov](https://leon.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:37.888464+00:00
+
+ ## Florida Department of Health in Levy
+ - [https://levy.floridahealth.gov](https://levy.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:06.495337+00:00
+
+ ## Florida Department of Health in Liberty
+ - [https://liberty.floridahealth.gov](https://liberty.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:20.613010+00:00
+
+ ## Florida Department of Health in Madison
+ - [https://madison.floridahealth.gov](https://madison.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:36.081039+00:00
+
+ ## Florida Department of Health in Manatee
+ - [https://manatee.floridahealth.gov](https://manatee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:35.542586+00:00
+
+ ## Florida Department of Health in Marion
+ - [https://marion.floridahealth.gov](https://marion.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:44.546982+00:00
+
+ ## Florida Department of Health in Martin
+ - [https://martin.floridahealth.gov](https://martin.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:54.793089+00:00
+
+ ## Florida Department of Health in Miami-Dade
+ - [https://miamidade.floridahealth.gov](https://miamidade.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:40.834685+00:00
+
+ ## Florida Department of Health in Monroe
+ - [https://monroe.floridahealth.gov](https://monroe.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:18.122465+00:00
+
+ ## Florida Department of Health in Nassau
+ - [https://nassau.floridahealth.gov](https://nassau.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:45.384361+00:00
+
+ ## Florida Department of Health in Okaloosa
+ - [https://okaloosa.floridahealth.gov](https://okaloosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:51.123298+00:00
+
+ ## Florida Department of Health in Okeechobee
+ - [https://okeechobee.floridahealth.gov](https://okeechobee.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:23.010199+00:00
+
+ ## Florida Department of Health in Orange
+ - [https://orange.floridahealth.gov](https://orange.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:03.053483+00:00
+
+ ## Florida Department of Health in Osceola
+ - [https://osceola.floridahealth.gov](https://osceola.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:47.339697+00:00
+
+ ## Florida Department of Health in Palm Beach
+ - [https://palmbeach.floridahealth.gov](https://palmbeach.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:18.388085+00:00
+
+ ## Florida Department of Health in Pasco
+ - [https://pasco.floridahealth.gov](https://pasco.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:33.675855+00:00
+
+ ## Florida Department of Health in Pinellas
+ - [https://pinellas.floridahealth.gov](https://pinellas.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:29.607637+00:00
+
+ ## Florida Department of Health in Polk
+ - [https://polk.floridahealth.gov](https://polk.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:57.307444+00:00
+
+ ## Florida Department of Health in Putnam
+ - [https://putnam.floridahealth.gov](https://putnam.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:00.349286+00:00
+
+ ## Florida Department of Health in Santa Rosa
+ - [https://santarosa.floridahealth.gov](https://santarosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:47.417910+00:00
+
+ ## Florida Department of Health in Sarasota
+ - [https://sarasota.floridahealth.gov](https://sarasota.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:32.905599+00:00
+
+ ## Florida Department of Health in Seminole
+ - [https://seminole.floridahealth.gov](https://seminole.floridahealth.gov)
+ - date_published: 2024-07-03T14:50:31.981026+00:00
+
+ ## Florida Department of Health in St Johns
+ - [https://stjohns.floridahealth.gov](https://stjohns.floridahealth.gov)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Florida Department of Health in St Lucie
+ - [https://stlucie.floridahealth.gov](https://stlucie.floridahealth.gov)
+ - date_published: 2024-07-03T14:47:22.621675+00:00
+
+ ## Florida Department of Health in Sumter
+ - [https://sumter.floridahealth.gov](https://sumter.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:50.057000+00:00
+
+ ## Florida Department of Health in Suwannee
+ - [https://suwannee.floridahealth.gov](https://suwannee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:25.574618+00:00
+
+ ## Florida Department of Health in Taylor
+ - [https://taylor.floridahealth.gov](https://taylor.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:33.965795+00:00
+
+ ## Florida Department of Health in Union
+ - [https://union.floridahealth.gov](https://union.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:27.748322+00:00
+
+ ## Florida Department of Health in Volusia
+ - [https://volusia.floridahealth.gov](https://volusia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:07.305810+00:00
+
+ ## Florida Department of Health in Wakulla
+ - [https://wakulla.floridahealth.gov](https://wakulla.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:11.151864+00:00
+
+ ## Florida Department of Health in Walton
+ - [https://walton.floridahealth.gov](https://walton.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:18.031501+00:00
+
+ ## Florida Department of Health in Washington
+ - [https://washington.floridahealth.gov](https://washington.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:08.367552+00:00
+
+ ## Home Page - Lobbyist Registration
+ - [https://floridalobbyist.gov](https://floridalobbyist.gov)
+ - date_published: 2024-06-15T08:51:50+00:00
+
+ ## Florida Board of
+Acupuncture- Licensing, Renewals & Information
+ - [https://floridasacupuncture.gov](https://floridasacupuncture.gov)
+ - date_published: 2024-07-03T14:39:26.794090+00:00
+
+ ## Florida Board of
+Athletic Training- Licensing, Renewals & Information
+ - [https://floridasathletictraining.gov](https://floridasathletictraining.gov)
+ - date_published: 2024-07-03T14:40:10.297126+00:00
+
+ ## Florida Board of
+Chiropractic Medicine- Licensing, Renewals & Information
+ - [https://floridaschiropracticmedicine.gov](https://floridaschiropracticmedicine.gov)
+ - date_published: 2024-07-03T14:39:55.093824+00:00
+
+ ## Florida Board of
+ Clinical Laboratory Personnel				- Licensing, Renewals & Information
+ - [https://floridasclinicallabs.gov](https://floridasclinicallabs.gov)
+ - date_published: 2024-07-03T14:40:30.444089+00:00
+
+ ## Florida Board of
+Dentistry- Licensing, Renewals & Information
+ - [https://floridasdentistry.gov](https://floridasdentistry.gov)
+ - date_published: 2024-07-03T14:40:24.837181+00:00
+
+ ## Florida Board of Hearing Aid Specialists   - Licensing, Renewals & Information
+ - [https://floridashearingaidspecialists.gov](https://floridashearingaidspecialists.gov)
+ - date_published: 2024-07-03T14:40:42.351448+00:00
+
+ ## Florida Board of
+ Massage Therapy				- Licensing, Renewals & Information
+ - [https://floridasmassagetherapy.gov](https://floridasmassagetherapy.gov)
+ - date_published: 2024-07-03T14:39:35.159907+00:00
+
+ ## Florida Board of
+Clinical Social Work, Marriage & Family Therapy and Mental Health Counseling- Licensing, Renewals & Information
+ - [https://floridasmentalhealthprofessions.gov](https://floridasmentalhealthprofessions.gov)
+ - date_published: 2024-07-03T14:40:39.862706+00:00
+
+ ## Florida Board of Nursing   - Licensing, Renewals & Information
+ - [https://floridasnursing.gov](https://floridasnursing.gov)
+ - date_published: 2024-07-03T14:40:32.307822+00:00
+
+ ## Florida Board of
+Nursing Home Administrators- Licensing, Renewals & Information
+ - [https://floridasnursinghomeadmin.gov](https://floridasnursinghomeadmin.gov)
+ - date_published: 2024-07-03T14:39:29.742957+00:00
+
+ ## Florida Board of
+Occupational Therapy- Licensing, Renewals & Information
+ - [https://floridasoccupationaltherapy.gov](https://floridasoccupationaltherapy.gov)
+ - date_published: 2024-07-03T14:40:07.417268+00:00
+
+ ## Florida Board of
+Opticianry- Florida Department of Health
+ - [https://floridasopticianry.gov](https://floridasopticianry.gov)
+ - date_published: 2024-07-03T14:39:46.319122+00:00
+
+ ## Florida Board of
+ Optometry				 - Licensing, Renewals & Information
+ - [https://floridasoptometry.gov](https://floridasoptometry.gov)
+ - date_published: 2024-07-03T14:39:41.763394+00:00
+
+ ## Florida Board of
+Orthotists & Prosthetists- Licensing, Renewals & Information
+ - [https://floridasorthotistsprosthetists.gov](https://floridasorthotistsprosthetists.gov)
+ - date_published: 2024-07-03T14:40:37.024212+00:00
+
+ ## Florida Board of Osteopathic Medicine   - Licensing, Renewals & Information
+ - [https://floridasosteopathicmedicine.gov](https://floridasosteopathicmedicine.gov)
+ - date_published: 2024-07-03T14:40:19.464757+00:00
+
+ ## Florida Board of
+Pharmacy- Licensing, Renewals & Information
+ - [https://floridaspharmacy.gov](https://floridaspharmacy.gov)
+ - date_published: 2024-07-03T14:40:03.673683+00:00
+
+ ## Florida Board of
+ Physical Therapy				- Licensing, Renewals & Information
+ - [https://floridasphysicaltherapy.gov](https://floridasphysicaltherapy.gov)
+ - date_published: 2024-07-03T14:40:14.929455+00:00
+
+ ## Florida Board of Podiatric Medicine- Licensing, Renewals & Information
+ - [https://floridaspodiatricmedicine.gov](https://floridaspodiatricmedicine.gov)
+ - date_published: 2024-07-03T14:40:22.162074+00:00
+
+ ## Florida Board of
+ Psychology
+ - [https://floridaspsychology.gov](https://floridaspsychology.gov)
+ - date_published: 2024-07-03T14:39:49.380937+00:00
+
+ ## Florida Board of
+Respiratory Care- Licensing, Renewals & Information
+ - [https://floridasrespiratorycare.gov](https://floridasrespiratorycare.gov)
+ - date_published: 2024-07-03T14:39:37.734822+00:00
+
  ## Florida Board of
 Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  - [https://floridasspeechaudiology.gov](https://floridasspeechaudiology.gov)
@@ -3777,227 +4017,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Shuttle Buses
  - [https://shuttles.lbl.gov](https://shuttles.lbl.gov)
  - date_published: 2018-12-13T00:00:00+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://software.lbl.gov](https://software.lbl.gov)
- - date_published: 2024-07-15T02:49:06.678057+00:00
-
- ## Stewardship – Berkeley Lab
- - [https://stewardship.lbl.gov](https://stewardship.lbl.gov)
- - date_published: 2024-07-15T02:40:44.726062+00:00
-
- ## Sign in - Google Accounts
- - [http://tap.lbl.gov](http://tap.lbl.gov)
- - date_published: 2024-07-15T02:49:36.675790+00:00
-
- ## Telework@Berkeley Lab
- - [https://telework.lbl.gov](https://telework.lbl.gov)
- - date_published: 2024-07-15T02:49:08.199288+00:00
-
- ## Berkeley Lab Training
- - [https://training.lbl.gov](https://training.lbl.gov)
- - date_published: 2024-05-12T04:46:55.189881+00:00
-
- ## Waste Guide
- - [http://wasteguide.lbl.gov](http://wasteguide.lbl.gov)
- - date_published: 2024-07-15T02:48:38.958580+00:00
-
- ## We Are Berkeley Lab
- - [https://we-are-berkeley-lab.lbl.gov](https://we-are-berkeley-lab.lbl.gov)
- - date_published: 2024-07-08T15:39:17.327208+00:00
-
- ## Wildfire Smoke and Air Quality
- - [https://wildfiresmoke.lbl.gov](https://wildfiresmoke.lbl.gov)
- - date_published: 2024-07-14T18:02:59.290395+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://workrequest.lbl.gov](https://workrequest.lbl.gov)
- - date_published: 2024-07-15T02:48:17.853759+00:00
-
- ## Berkeley Lab | Delivering Science Solutions for the World
- - [http://www2.lbl.gov](http://www2.lbl.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Dark Energy Spectroscopic Instrument (DESI)
- - [https://www.desi.lbl.gov](https://www.desi.lbl.gov)
- - date_published: 2024-07-21T21:50:50.441342+00:00
-
- ## Welcome to the Federal LCA Commons | Life Cycle Assessment Commons
- - [https://www.lcacommons.gov](https://www.lcacommons.gov)
- - date_published: 2024-06-27T21:13:34+00:00
-
- ## Planifique con anticipación para los desastres | Ready.gov
- - [https://www.listo.gov](https://www.listo.gov)
- - date_published: 2024-07-22T17:03:25+00:00
-
- ## Sign On
- - [http://analytics.llnl.gov](http://analytics.llnl.gov)
- - date_published: 2024-09-19T20:22:55.642315+00:00
-
- ## Advanced Simulation and Computing
- - [https://asc.llnl.gov](https://asc.llnl.gov)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Careers
- - [https://careers.llnl.gov](https://careers.llnl.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## CDN @ LLNL
- - [https://cdn.llnl.gov](https://cdn.llnl.gov)
- - date_published: 2024-04-25T15:59:04+00:00
-
- ## CGSR
- - [https://cgsr.llnl.gov](https://cgsr.llnl.gov)
- - date_published: 2024-07-14T05:11:00.234548+00:00
-
- ## Home | Computing
- - [https://computing.llnl.gov](https://computing.llnl.gov)
- - date_published: 2024-05-01T04:32:49.850199+00:00
-
- ## Content Hub
- - [https://contenthub.llnl.gov](https://contenthub.llnl.gov)
- - date_published: 2024-09-13T19:33:20+00:00
-
- ## Data Science Institute
- - [https://data-science.llnl.gov](https://data-science.llnl.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Science Education Program | Science and Technology
- - [https://education.llnl.gov](https://education.llnl.gov)
- - date_published: 2024-09-13T19:44:51.696652+00:00
-
- ## Engineering
- - [https://engineering.llnl.gov](https://engineering.llnl.gov)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Environmental Stewardship and Occupational Health and Safety
- - [https://enviroinfo.llnl.gov](https://enviroinfo.llnl.gov)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Exascale
- - [https://exascale.llnl.gov](https://exascale.llnl.gov)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Lawrence Livermore National Laboratory
- - [https://fcoi.llnl.gov](https://fcoi.llnl.gov)
- - date_published: 2022-06-24T00:00:00+00:00
-
- ## Flowcharts
- - [https://flowcharts.llnl.gov](https://flowcharts.llnl.gov)
- - date_published: 2024-05-09T04:11:57.321222+00:00
-
- ## Global Security
- - [https://gs.llnl.gov](https://gs.llnl.gov)
- - date_published: 2023-08-09T00:00:00+00:00
-
- ## HPC Innovation Center
- - [https://hpcic.llnl.gov](https://hpcic.llnl.gov)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home | HPC @ LLNL
- - [https://hpc.llnl.gov](https://hpc.llnl.gov)
- - date_published: 2024-06-15T21:30:32.853126+00:00
-
- ## LLNL HPC Tutorials
- - [https://hpc-tutorials.llnl.gov](https://hpc-tutorials.llnl.gov)
- - date_published: 2024-07-25T18:22:07+00:00
-
- ## National Ignition Facility & Photon Science
- - [https://lasers.llnl.gov](https://lasers.llnl.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## lc.llnl.gov
- - [https://lc.llnl.gov](https://lc.llnl.gov)
- - date_published: 2024-09-19T20:24:25.061437+00:00
-
- ## Lawrence Livermore National Laboratory
- - [http://llnl.gov](http://llnl.gov)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Our Mission
- - [https://missions.llnl.gov](https://missions.llnl.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Welcome to people.llnl.gov | people.llnl.gov
- - [https://people.llnl.gov](https://people.llnl.gov)
- - date_published: 2024-06-14T00:52:41.259012+00:00
-
- ## Physical and Life Sciences Directorate
- - [https://pls.llnl.gov](https://pls.llnl.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Strategic Deterrence
- - [https://sd.llnl.gov](https://sd.llnl.gov)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## LLNL
- - [https://softwarelicensing.llnl.gov](https://softwarelicensing.llnl.gov)
- - date_published: 2024-07-08T13:58:03.117881+00:00
-
- ## LLNL Software Catalog
- - [https://software.llnl.gov](https://software.llnl.gov)
- - date_published: 2024-05-08T11:30:39.528770+00:00
-
- ## Home | Science and Technology
- - [https://st.llnl.gov](https://st.llnl.gov)
- - date_published: 2024-07-09T08:54:06.305902+00:00
-
- ## S&TR | March 2024
- - [https://str.llnl.gov](https://str.llnl.gov)
- - date_published: 2024-07-09T08:53:56.852236+00:00
-
- ## Ask a Librarian - Ask a Librarian
- - [https://ask.loc.gov](https://ask.loc.gov)
- - date_published: 2024-05-08T02:42:38.274462+00:00
-
- ## Library of Congress Blogs | Blogs from the Library of Congress
- - [https://blogs.loc.gov](https://blogs.loc.gov)
- - date_published: 2023-10-25T19:22:55.285850+00:00
-
- ## Chronicling America « Library of Congress
- - [https://chroniclingamerica.loc.gov](https://chroniclingamerica.loc.gov)
- - date_published: 2024-05-14T03:30:15.828369+00:00
-
- ## CitizenDJ – Make music using free audio and video from the Library of Congress
- - [https://citizen-dj.labs.loc.gov](https://citizen-dj.labs.loc.gov)
- - date_published: 2024-09-07T19:47:01+00:00
-
- - [https://cocatalog.loc.gov](https://cocatalog.loc.gov)
- - date_published: 2021-01-28T19:10:44+00:00
-
- ## Databases: Library of Congress Electronic Resources Online Catalog
- - [https://eresources.loc.gov](https://eresources.loc.gov)
- - date_published: 2024-08-18T14:44:48.421268+00:00
-
- ## Home - Research Guides at Library of Congress
- - [https://guides.loc.gov](https://guides.loc.gov)
- - date_published: 2023-10-25T19:22:57.450959+00:00
-
- ## Resolve a Library of Congress Handle
- - [https://hdl.loc.gov](https://hdl.loc.gov)
- - date_published: 2024-08-18T11:31:58.697971+00:00
-
- ## Home - LC Linked Data Service: Authorities and Vocabularies | Library of Congress
- - [https://id.loc.gov](https://id.loc.gov)
- - date_published: 2024-06-16T05:52:47.628659+00:00
-
- ## American Memory: Remaining Collections
- - [https://lcweb2.loc.gov](https://lcweb2.loc.gov)
- - date_published: 2024-05-08T09:05:11.825961+00:00
-
- ## Home | Library of Congress
- - [http://lcweb.loc.gov](http://lcweb.loc.gov)
- - date_published: 2024-08-18T17:58:34.172191+00:00
-
- ## Home | Library of Congress
- - [https://loc.gov](https://loc.gov)
- - date_published: 2024-05-06T16:18:28.352054+00:00
-
- ## American Memory: Remaining Collections
- - [https://memory.loc.gov](https://memory.loc.gov)
- - date_published: 2024-05-24T22:29:25.711620+00:00
-
- ## Newspaper Navigator  | Experiments  | Work  | Library of Congress
- - [https://news-navigator.labs.loc.gov](https://news-navigator.labs.loc.gov)
- - date_published: 2024-07-18T05:20:34.732677+00:00
 

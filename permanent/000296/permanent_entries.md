@@ -1,3 +1,232 @@
+ ## Teaching and Learning – School of Computer Science and Statistics
+ - [https://teaching.scss.tcd.ie](https://teaching.scss.tcd.ie)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## The Irish Longitudinal Study on Ageing (TILDA) - Trinity College Dublin
+ - [https://tilda.tcd.ie](https://tilda.tcd.ie)
+ - date_published: 2024-07-13T19:41:08.378601+00:00
+
+ ## School of Mathematics - Trinity College Dublin
+ - [http://www.maths.tcd.ie](http://www.maths.tcd.ie)
+ - date_published: 2024-07-08T18:52:01.572256+00:00
+
+ ## Teagasc | Agriculture and Food Development Authority
+ - [https://www.teagasc.ie](https://www.teagasc.ie)
+ - date_published: 2024-07-21T21:39:20.324794+00:00
+
+ ## Home Page
+ - [https://technology.ie](https://technology.ie)
+ - date_published: 2024-10-12T12:35:31+00:00
+
+ ## Home
+ - [https://tescoireland.ie](https://tescoireland.ie)
+ - date_published: 2024-10-07T21:39:26.981203+00:00
+
+ ## The 2 Johnnies | Irish Comedians, Musicians & Podcasts
+ - [https://www.the2johnnies.ie](https://www.the2johnnies.ie)
+ - date_published: 2024-07-13T19:44:27.475487+00:00
+
+ ## The 42
+ - [https://www.the42.ie](https://www.the42.ie)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## The Barbican Centre Drogheda | Venue, Office, Room Hire
+ - [https://www.thebarbican.ie](https://www.thebarbican.ie)
+ - date_published: 2024-07-13T19:34:49.828934+00:00
+
+ ## The Book Resort Book Subscription Box| Irish Subscription Box
+ - [https://thebookresort.ie](https://thebookresort.ie)
+ - date_published: 2023-12-02T08:10:41.745901+00:00
+
+ ## F.X. Buckley Restaurants and Bars | The Buckley Collection | Dublin
+ - [https://www.thebuckleycollection.ie](https://www.thebuckleycollection.ie)
+ - date_published: 2024-06-22T20:08:50.374914+00:00
+
+ ## The Code Hub
+ - [https://www.thecodehub.ie](https://www.thecodehub.ie)
+ - date_published: 2021-10-19T11:19:08+00:00
+
+ ## Garden House - Ireland's leading garden centre
+ - [http://thegardenhouse.ie](http://thegardenhouse.ie)
+ - date_published: 2024-07-13T19:34:35.699675+00:00
+
+ ## Room Reservations
+ - [https://secure.theghotel.ie](https://secure.theghotel.ie)
+ - date_published: 2024-10-20T08:58:44.255842+00:00
+
+ ## The Gist
+ - [https://thegist.ie](https://thegist.ie)
+ - date_published: 2024-01-07T17:49:46.908231+00:00
+
+ ## Homepage - The Gloss Magazine
+ - [https://thegloss.ie](https://thegloss.ie)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Events Venue Dublin | Conference Centre & Theatre Hire | The Helix DCU
+ - [https://thehelix.ie](https://thehelix.ie)
+ - date_published: 2024-07-14T13:34:36.535753+00:00
+
+ ## Home - The Ivy Cottage
+ - [https://www.theivycottage.ie](https://www.theivycottage.ie)
+ - date_published: 2024-06-22T11:00:40+00:00
+
+ ## TheJournal.ie Advertising
+ - [https://advertising.thejournal.ie](https://advertising.thejournal.ie)
+ - date_published: 2024-08-08T17:32:20.996558+00:00
+
+ ## static.thejournal.ie
+ - [https://b0.thejournal.ie](https://b0.thejournal.ie)
+ - date_published: 2024-08-08T09:22:49+00:00
+
+ ## TheJournal.ie
+ - [https://businessetc.thejournal.ie](https://businessetc.thejournal.ie)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## TheJournal.ie Careers
+ - [https://careers.thejournal.ie](https://careers.thejournal.ie)
+ - date_published: 2024-08-08T17:32:28.470625+00:00
+
+ ## The Daily Edge
+ - [https://thedailyedge.thejournal.ie](https://thedailyedge.thejournal.ie)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## TheJournal.ie
+ - [https://thejournal.ie](https://thejournal.ie)
+ - date_published: 2023-12-16T00:26:08.230995+00:00
+ - tags: ['news']
+
+ ## ThemeParks.ie
+ - [https://www.themeparks.ie](https://www.themeparks.ie)
+ - date_published: 2024-05-25T15:15:09+00:00
+
+ ## The North Face | Outdoor Clothing, Backpacks & Shoes
+ - [https://www.thenorthface.ie](https://www.thenorthface.ie)
+ - date_published: 2024-07-12T07:36:18.460974+00:00
+
+ ## Niamh Smith Photography, Dublin Ireland
+ - [https://www.thephotographyhub.ie](https://www.thephotographyhub.ie)
+ - date_published: 2024-07-13T19:44:38.809133+00:00
+
+ ## The Irish Sun
+ - [https://link.thesun.ie](https://link.thesun.ie)
+ - date_published: 2024-10-21T08:10:28.159237+00:00
+
+ ## The Irish Sun
+ - [https://www.thesun.ie](https://www.thesun.ie)
+ - date_published: 2024-05-02T12:22:20.509295+00:00
+
+ ## The Times of London | Subscribe to The Times and The Sunday Times Ireland Edition
+ - [https://store.thetimes.ie](https://store.thetimes.ie)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Home - Cloughjordan Ecovillage
+ - [https://thevillage.ie](https://thevillage.ie)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Web Design Dublin | Web Design Ireland | Web Bureau
+ - [https://www.thewebbureau.ie](https://www.thewebbureau.ie)
+ - date_published: 2024-07-04T17:43:46.542911+00:00
+
+ ## Home - Threshold
+ - [http://www.threshold.ie](http://www.threshold.ie)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home - Thyme Out Dalkey
+ - [https://thymeout.ie](https://thymeout.ie)
+ - date_published: 2022-01-25T06:37:48+00:00
+
+ ## Let's Get Your Identity Verified
+ - [https://www.ticketmaster.ie](https://www.ticketmaster.ie)
+ - date_published: 2024-04-29T06:43:22.764170+00:00
+
+ ## Toyota Approved Used Cars | Toyota Ireland
+ - [https://approvedused.toyota.ie](https://approvedused.toyota.ie)
+ - date_published: 2024-10-16T15:58:49.051215+00:00
+
+ ## Toyota Approved Used Cars | Toyota Ireland
+ - [https://assuredusedcars.toyota.ie](https://assuredusedcars.toyota.ie)
+ - date_published: 2024-10-16T15:58:43.008207+00:00
+
+ ## New and Used Cars, Car Finance & Service | Toyota Ireland
+ - [https://www.toyota.ie](https://www.toyota.ie)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Get a Service Quote for Your Toyota   | Toyota Service
+ - [https://www.toyotaservice.ie](https://www.toyotaservice.ie)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## tripadvisor.ie
+ - [https://www.tripadvisor.ie](https://www.tripadvisor.ie)
+ - date_published: 2024-06-23T09:18:55.823776+00:00
+
+ ## Triskel Arts Centre – Live Music, Cinema, Visual Art and more
+ - [https://triskelartscentre.ie](https://triskelartscentre.ie)
+ - date_published: 2024-06-20T21:30:47.603574+00:00
+
+ ## Tristam – Plays with tech.
+ - [https://tristam.ie](https://tristam.ie)
+ - date_published: 2023-10-25T19:29:24.615760+00:00
+
+ ## trivago.ie - Compare hotel prices worldwide
+ - [https://www.trivago.ie](https://www.trivago.ie)
+ - date_published: 2024-09-04T11:20:08.067831+00:00
+
+ ## TU Dublin | Technological University Dublin
+ - [https://www.tudublin.ie](https://www.tudublin.ie)
+ - date_published: 2024-10-20T04:18:52.374914+00:00
+
+ ## TV Licence Home
+ - [https://www.tvlicence.ie](https://www.tvlicence.ie)
+ - date_published: 2024-07-30T15:14:48+00:00
+
+ ## Home | University College Cork
+ - [https://www.ucc.ie](https://www.ucc.ie)
+ - date_published: 2024-06-19T14:17:01+00:00
+
+ ## Home | Best Of Bot Worlds
+ - [http://afflatus.ucd.ie](http://afflatus.ucd.ie)
+ - date_published: 2024-06-30T05:56:22.709050+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://intranet.ucd.ie](https://intranet.ucd.ie)
+ - date_published: 2024-07-20T23:02:31.870831+00:00
+
+ ## UCD School of Mathematics and Statistics
+ - [https://maths.ucd.ie](https://maths.ucd.ie)
+ - date_published: 2024-04-30T08:13:23.329164+00:00
+
+ ## UCD Societies – UCD Societies: Connect, Explore, Belong.
+ - [https://societies.ucd.ie](https://societies.ucd.ie)
+ - date_published: 2024-07-08T14:43:32.321736+00:00
+
+ ## UCD Strategy 2025-2030 - UCD Strategy
+ - [https://strategy.ucd.ie](https://strategy.ucd.ie)
+ - date_published: 2024-06-28T15:56:49+00:00
+
+ ## University College Dublin
+ - [https://ucd.ie](https://ucd.ie)
+ - date_published: 2024-05-08T11:43:15.460384+00:00
+
+ ## UCD Estate Services | University College Dublin Estate Services
+ - [https://ucdestates.ie](https://ucdestates.ie)
+ - date_published: 2024-07-08T10:59:34+00:00
+
+ ## UCD Foundation
+ - [https://www.ucdfoundation.ie](https://www.ucdfoundation.ie)
+ - date_published: 2024-07-08T12:50:52+00:00
+
+ ## Welcome to the University of Limerick - University of Limerick
+ - [https://campuslife.ul.ie](https://campuslife.ul.ie)
+ - date_published: 2024-08-18T08:39:15.645172+00:00
+
+ ## University of Limerick | University of Limerick
+ - [https://ul.ie](https://ul.ie)
+ - date_published: 2023-12-29T11:32:34.752998+00:00
+
+ ## Home - UL Links Spring 2024
+ - [https://ullinks.ul.ie](https://ullinks.ul.ie)
+ - date_published: 2024-08-18T08:39:12.884260+00:00
+
  ## University of Limerick | University of Limerick
  - [https://ulsites.ul.ie](https://ulsites.ul.ie)
  - date_published: 2024-08-18T01:22:58+00:00
@@ -3783,233 +4012,4 @@ Indian Institute of Science, Bangalore
  ## GNEC IITR
  - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
  - date_published: 2024-06-22T11:31:22.309314+00:00
-
- ## i-Connect
- - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
- - date_published: 2024-06-22T11:31:26.941083+00:00
-
- ## Indian Institute of Technology Roorkee
- - [https://iitr.ac.in](https://iitr.ac.in)
- - date_published: 2024-05-04T15:42:45.009337+00:00
-
- ## Home - IPR
- - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## IITR | IR | International Relations
- - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
- - date_published: 2024-06-22T11:31:42.432264+00:00
-
- ## LHCC Booking System
- - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
- - date_published: 2024-05-30T11:27:48+00:00
-
- ## Home
- - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
- - date_published: 2024-06-22T11:40:40.521503+00:00
-
- ## Mahatma Gandhi Central Library, IIT Roorkee
- - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
- - date_published: 2024-03-20T08:25:52+00:00
-
- ## Material Management
- - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
- - date_published: 2024-06-22T11:40:14.342626+00:00
-
- ## Email | IITR
- - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
- - date_published: 2024-06-22T11:40:50.155541+00:00
-
- ## IIT Roorkee Fees Payment Portal
- - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
- - date_published: 2022-06-04T19:11:36+00:00
-
- ## Online Academic
-    Support and Information System
- - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
- - date_published: 2024-06-06T10:21:57+00:00
-
- ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
- - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
- - date_published: 2024-06-22T11:32:39.015402+00:00
-
- ## Wellness Centre – Express ● Engage ● Emerge
- - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
- - date_published: 2024-06-22T11:31:45.546579+00:00
-
- ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
- - [http://www.iitrpr.ac.in](http://www.iitrpr.ac.in)
- - date_published: 2024-09-11T11:51:49+00:00
-
- ## Home | Council of Indian Institute of Technology
- - [https://www.iitsystem.ac.in](https://www.iitsystem.ac.in)
- - date_published: 2024-06-22T11:41:09.625374+00:00
-
- ## e-PGPathshala
- - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
- - date_published: 2024-09-11T17:28:19.483660+00:00
-
- ## ETD 2023
- - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:53.957022+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:33.956210+00:00
-
- ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
- - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
- - date_published: 2024-05-06T13:41:13.342135+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:46.629772+00:00
-
- ## UGC MOOCs |SWAYAM| UG AND PG COURSE
- - [http://ugcmoocs.inflibnet.ac.in](http://ugcmoocs.inflibnet.ac.in)
- - date_published: 2024-09-11T17:36:47.207835+00:00
-
- ## Indian Statistical Institute
- - [https://www.isical.ac.in](https://www.isical.ac.in)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Best University in Bangalore | JAIN (Deemed-to-be University)
- - [https://www.jainuniversity.ac.in](https://www.jainuniversity.ac.in)
- - date_published: 2024-07-14T09:57:11.757195+00:00
-
- ## JEE (Advanced) 2024
- - [https://jeeadv.ac.in](https://jeeadv.ac.in)
- - date_published: 2024-07-27T08:47:23+00:00
-
- ## Official Website of Jamia Millia Islamia - Jamia
- - [http://jmi.ac.in](http://jmi.ac.in)
- - date_published: 2024-09-11T17:46:55.381289+00:00
-
- ## Jawaharlal Nehru University
- - [http://www.jnu.ac.in](http://www.jnu.ac.in)
- - date_published: 2024-09-11T17:57:50.162014+00:00
-
- ## University of Kerala
- - [http://www.keralauniversity.ac.in](http://www.keralauniversity.ac.in)
- - date_published: 2024-10-15T14:21:02.123410+00:00
-
- ## SPACE 2022
- - [http://space2022.lnmiit.ac.in](http://space2022.lnmiit.ac.in)
- - date_published: 2023-12-02T12:13:54+00:00
-
- ## Manipur University
- - [https://www.manipuruniv.ac.in](https://www.manipuruniv.ac.in)
- - date_published: 2024-09-11T18:06:09.044034+00:00
-
- ## :: Maulana Azad National Urdu University ::
- - [http://www.manuu.ac.in](http://www.manuu.ac.in)
- - date_published: 2024-09-11T17:53:04.244449+00:00
-
- ## Campuses - MES
- - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
- - date_published: 2017-01-17T07:11:14+00:00
-
- ## Chembur Campus - MES
- - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:21+00:00
-
- ## Khanda Campus - MES
- - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:52+00:00
-
- ## Mahatma Education Society - MES
- - [https://mes.ac.in](https://mes.ac.in)
- - date_published: 2024-10-15T21:07:04.774348+00:00
-
- ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
- - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
- - date_published: 2024-10-15T21:06:52.668871+00:00
-
- ## Panvel Campus - MES
- - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:05+00:00
-
- ## Pillai College of Engineering
- - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
- - date_published: 2024-10-15T21:06:37.880091+00:00
-
- ## Pillai HOCL Educational Campus - MES
- - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:47+00:00
-
- ## Top University in Pune Maharashtra - MIT ADT University
- - [https://mituniversity.ac.in](https://mituniversity.ac.in)
- - date_published: 2024-08-17T23:38:14.494870+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [http://www.mnit.ac.in](http://www.mnit.ac.in)
- - date_published: 2024-09-11T18:02:18.444844+00:00
-
- ## Home
- - [http://www.mnnit.ac.in](http://www.mnnit.ac.in)
- - date_published: 2024-09-11T18:04:31+00:00
-
- ## Madras School of Economics
- - [https://www.mse.ac.in](https://www.mse.ac.in)
- - date_published: 2024-09-09T21:55:51.673424+00:00
-
- ## MSRVVP
- - [https://msrvvp.ac.in](https://msrvvp.ac.in)
- - date_published: 2024-09-09T14:23:37+00:00
-
- ## Nagaland University | Labor et Honor
- - [http://nagalanduniversity.ac.in](http://nagalanduniversity.ac.in)
- - date_published: 2024-09-11T17:55:39+00:00
-
- ## Web Site Blocked
- - [http://www.nehu.ac.in](http://www.nehu.ac.in)
- - date_published: 2024-09-11T17:39:02.471165+00:00
-
- ## Home | NERIST, Nirjuli
- - [http://www.nerist.ac.in](http://www.nerist.ac.in)
- - date_published: 2024-09-10T16:14:13+00:00
-
- ## National Institute of Educational Planning and Administration | NIEPA
- - [http://www.niepa.ac.in](http://www.niepa.ac.in)
- - date_published: 2024-09-11T18:02:04.243249+00:00
-
- ## NIFTEM-T
- - [https://niftem-t.ac.in](https://niftem-t.ac.in)
- - date_published: 2024-08-08T13:58:20.543302+00:00
-
- ## Institute of Technology, Nirma University | NAAC A+ Grade
- - [https://technology.nirmauni.ac.in](https://technology.nirmauni.ac.in)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home - National Institute of Securities Markets (NISM)
- - [https://www.nism.ac.in](https://www.nism.ac.in)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## IIS Windows Server
- - [http://www.nita.ac.in](http://www.nita.ac.in)
- - date_published: 2022-01-12T07:35:59+00:00
-
- ## National Institute of Technology
- - [http://www.nitc.ac.in](http://www.nitc.ac.in)
- - date_published: 2024-09-11T17:47:05.381978+00:00
-
- ## Welcome To NIT Goa
- - [http://www.nitgoa.ac.in](http://www.nitgoa.ac.in)
- - date_published: 2024-09-11T14:33:26+00:00
-
- ## Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
- - [http://www.nitj.ac.in](http://www.nitj.ac.in)
- - date_published: 2024-05-29T11:27:17+00:00
-
- ## NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर
- - [http://www.nitjsr.ac.in](http://www.nitjsr.ac.in)
- - date_published: 2024-09-10T17:02:49+00:00
-
- ## NITK Surathkal
- - [http://www.nitk.ac.in](http://www.nitk.ac.in)
- - date_published: 2024-09-11T17:43:11.271249+00:00
-
- ## National Institute of Technology, Meghalaya
- - [http://www.nitm.ac.in](http://www.nitm.ac.in)
- - date_published: 2024-09-11T17:43:28.496777+00:00
 

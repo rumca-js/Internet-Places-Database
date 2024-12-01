@@ -1,3 +1,95 @@
+ ## Masterplan – 100% personalized AI business plans in 20 minutes
+ - [https://app.itsmasterplan.com](https://app.itsmasterplan.com)
+ - date_published: 2024-09-13T20:37:21.998390+00:00
+
+ ## It's Me Waldi | Create the Life You Want
+ - [https://itsmewaldi.com](https://itsmewaldi.com)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## Zhiyuan (Jerry) Lin 林致远 - Stanford Computer Science PhD Candidate
+ - [http://itsmrlin.com](http://itsmrlin.com)
+ - date_published: 2024-02-17T05:23:56+00:00
+
+ ## Wagtail - Sign in
+ - [https://admin.itsnicethat.com](https://admin.itsnicethat.com)
+ - date_published: 2024-07-13T16:12:49.687267+00:00
+
+ ## It's Nice That
+ - [https://itsnicethat.com](https://itsnicethat.com)
+ - date_published: 2024-05-11T07:41:20.843325+00:00
+
+ ## It's Not About Nutrition
+ - [https://www.itsnotaboutnutrition.com](https://www.itsnotaboutnutrition.com)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## IT'S IN SCHOOLS
+ - [http://itsnotinschools.com](http://itsnotinschools.com)
+ - date_published: 2024-08-19T07:12:06.653560+00:00
+
+ ## OFF+BRAND | Design, Development, Branding, Digital Marketing & WebGL
+ - [https://itsoffbrand.com](https://itsoffbrand.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Patrick Morgan Design
+ - [https://itspatmorgan.com](https://itspatmorgan.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## ITSPmagazine Podcast Network  |  Broadcasting Ideas. Connecting Minds.™
+ - [https://www.itspmagazine.com](https://www.itspmagazine.com)
+ - date_published: 2024-10-17T11:25:00.893479+00:00
+
+ ## Rapport
+ - [http://itsrapport.com](http://itsrapport.com)
+ - date_published: 2024-10-25T22:33:52+00:00
+
+ ## Madame Tosk's House of Genius
+ - [https://itsrob.com](https://itsrob.com)
+ - date_published: 2023-12-13T16:00:00+00:00
+
+ ## It’s Shaun’s World
+ - [http://itsshaunsworld2.com](http://itsshaunsworld2.com)
+ - date_published: 2024-07-16T16:34:29.041379+00:00
+
+ ## Full-Service Corporate Video Production Company | IT STARTS! Media
+ - [https://www.itstartsmedia.com](https://www.itstartsmedia.com)
+ - date_published: 2022-12-11T11:57:22+00:00
+
+ ## T.A.V - Music Producer, Composer, Audio Engineer.
+ - [https://itstav.com](https://itstav.com)
+ - date_published: 2022-08-23T17:08:52+00:00
+
+ ## The Agency
+ - [https://itstheagency.com](https://itstheagency.com)
+ - date_published: 2024-10-28T03:27:52.192814+00:00
+
+ ## It's the creators
+ - [https://itsthecreators.com](https://itsthecreators.com)
+ - date_published: 2024-03-25T00:55:56+00:00
+
+ ## The Sway: Your Online Survival Guide to The Pines.
+ - [https://itsthesway.com](https://itsthesway.com)
+ - date_published: 2016-08-15T00:00:00+00:00
+
+ ## Joyce and Walky! » Two xennials live in sin!
+ - [http://www.itswalky.com](http://www.itswalky.com)
+ - date_published: 2024-07-20T21:03:48.996344+00:00
+
+ ## REV | TV, Internet, Phone, and Security | Local Louisiana Service
+ - [http://itsyourclearchoice.com](http://itsyourclearchoice.com)
+ - date_published: 2021-11-24T17:16:24+00:00
+
+ ## Cayman Brac and Little Cayman :: Official Travel and Tourism Web Site :: It’s Yours to Explore  :: Home
+ - [http://www.itsyourstoexplore.com](http://www.itsyourstoexplore.com)
+ - date_published: 2024-07-04T03:25:11+00:00
+
+ ## It's Your Turn
+ - [https://itsyourturnblog.com](https://itsyourturnblog.com)
+ - date_published: 2024-05-07T16:56:31.944226+00:00
+
+ ## Zhen Liu
+ - [http://itszhen.com](http://itszhen.com)
+ - date_published: 2024-06-14T23:53:04+00:00
+
  ## ITTavern.com
  - [https://ittavern.com](https://ittavern.com)
  - date_published: 2023-10-25T15:24:55.919091+00:00
@@ -3628,7 +3720,7 @@
 
  - [https://java.com](https://java.com)
  - date_published: 2024-07-08T11:53:26+00:00
- - tags: ['programming language']
+ - tags: ['java', 'programming language']
 
  ## Java67
  - [http://www.java67.com](http://www.java67.com)
@@ -3995,98 +4087,4 @@
  ## The Journal of African Youth Literature
  - [https://www.jaylit.com](https://www.jaylit.com)
  - date_published: 2024-06-19T02:46:47.453049+00:00
-
- ## Home
- - [https://jaylittle.com](https://jaylittle.com)
- - date_published: 2023-10-25T08:46:22.108869+00:00
- - tags: ['personal']
-
- ## Home | Jay Pinion
- - [https://www.jaypinion.com](https://www.jaypinion.com)
- - date_published: 2024-10-30T17:07:05.081405+00:00
-
- ## Home | jaypsarosmusic
- - [https://jaypsarosmusic.com](https://jaypsarosmusic.com)
- - date_published: 2024-05-07T15:28:14.345582+00:00
-
- ## Jay Reding.com
- - [http://jayreding.com](http://jayreding.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Travel Agent Hub - Jayride.com | Compare and Book Airport Shuttles and Private Transfers
- - [https://agent.jayride.com](https://agent.jayride.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Jayride - Airport Transfer & Shuttle Service | Book Your Ride Today
- - [https://www.jayride.com](https://www.jayride.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## jayrope
- - [https://jayrope.com](https://jayrope.com)
- - date_published: 2024-05-09T08:14:23.783333+00:00
-
- ## Home | Jaysanguinetti
- - [https://jaysanguinetti.com](https://jaysanguinetti.com)
- - date_published: 2024-05-07T09:59:09.045417+00:00
-
- ## Jay's Brick Blog
- - [https://jaysbrickblog.com](https://jaysbrickblog.com)
- - date_published: 2024-07-03T09:27:58+00:00
-
- ## Jay's Guns & Accessories
- - [https://jaysgunsonline.com](https://jaysgunsonline.com)
- - date_published: 2024-06-25T17:28:12+00:00
-
- ## Jay's Home Gym - Look Great - Feel Better
- - [https://www.jayshomegym.com](https://www.jayshomegym.com)
- - date_published: 2024-07-07T07:48:02.146952+00:00
-
- ## jayshreeviswanathan
- - [https://jayshreeviswanathan.com](https://jayshreeviswanathan.com)
- - date_published: 2024-05-13T06:52:57.061398+00:00
-
- ## Jayson Gillham
- - [https://www.jaysongillham.com](https://www.jaysongillham.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## https://jaysonjphillips.com
- - [https://jaysonjphillips.com](https://jaysonjphillips.com)
- - date_published: 2023-11-29T14:25:46.630894+00:00
- - tags: ['personal']
-
- ## Jay Standish
- - [https://www.jaystandish.com](https://www.jaystandish.com)
- - date_published: 2024-09-19T00:37:41.800878+00:00
-
- ## Jaytel ⌁ Interactive Designer
- - [https://www.jaytel.com](https://www.jaytel.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## About
- - [https://jaywhang.com](https://jaywhang.com)
- - date_published: 2022-12-16T08:15:49+00:00
-
- ## JayzTwoCents Official Merch Store
- - [https://store.jayztwocents.com](https://store.jayztwocents.com)
- - date_published: 2024-10-29T09:45:43.347226+00:00
-
- ## JAZ Hotel Group
- - [https://www.jazhotels.com](https://www.jazhotels.com)
- - date_published: 2024-07-10T10:23:34.306437+00:00
-
- ## Jazkarta Blog
- - [https://blog.jazkarta.com](https://blog.jazkarta.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Jazkarta -- Extraordinary websites for non-profits and research institutions
- - [https://jazkarta.com](https://jazkarta.com)
- - date_published: 2024-05-07T21:32:10.410989+00:00
-
- ## Jaz-Lounge Blog - by Georg Tavonius
- - [http://blog.jaz-lounge.com](http://blog.jaz-lounge.com)
- - date_published: 2014-02-10T16:06:00+00:00
-
- ## JAN is a featured program of Kansas City Area Youth Jazz Inc. – Jazz Artistry Now: a digital arts magazine since 2007.
- - [https://jazzartistrynow.com](https://jazzartistrynow.com)
- - date_published: 2024-05-12T05:26:53.215346+00:00
 

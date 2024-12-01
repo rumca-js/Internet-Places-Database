@@ -1,3 +1,320 @@
+ ## Viru Group – Naturally ahead
+ - [https://www.viru.com.pe](https://www.viru.com.pe)
+ - date_published: 2024-07-17T07:52:01.779776+00:00
+
+ ## Visa, un líder confiable en pagos digitales
+ - [https://visa.com.pe](https://visa.com.pe)
+ - date_published: 2024-05-12T03:59:41.958018+00:00
+
+ ## Printable Templates Protal
+ - [http://portal.perueduca.edu.pe](http://portal.perueduca.edu.pe)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## red.pucp.edu.pe
+ - [https://red.pucp.edu.pe](https://red.pucp.edu.pe)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Pontificia Universidad Católica del Perú | PUCP
+ - [https://www.pucp.edu.pe](https://www.pucp.edu.pe)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UNIVERSIA PERU. ORIENTACIÓN PROFESIONAL. CARRERAS PROFESIONALES
+ - [https://orientacion.universia.edu.pe](https://orientacion.universia.edu.pe)
+ - date_published: 2024-07-02T19:57:18.542813+00:00
+
+ ## Portal Institucional e Información sobre la Actividad Parlamentaria y Legislativa del Estado Peruano
+ - [http://www2.congreso.gob.pe](http://www2.congreso.gob.pe)
+ - date_published: 2024-08-11T12:28:09.650589+00:00
+
+ ## Archivo Digital de la Legislación del Perú
+ - [https://www.leyes.congreso.gob.pe](https://www.leyes.congreso.gob.pe)
+ - date_published: 2024-06-28T21:48:53.929790+00:00
+
+ ## Presidencia de la República del Perú - Presidencia
+ - [http://www.presidencia.gob.pe](http://www.presidencia.gob.pe)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Libro de Reclamaciones
+ - [https://reclamos.servicios.gob.pe](https://reclamos.servicios.gob.pe)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## 0
+ - [https://www.trabajoarequipa.gob.pe](https://www.trabajoarequipa.gob.pe)
+ - date_published: 2024-06-16T15:32:16.561037+00:00
+
+ ## TVPerú #SomosTodos
+ - [http://www.tvperu.gob.pe](http://www.tvperu.gob.pe)
+ - date_published: 2024-08-11T12:16:03+00:00
+
+ ## Plataforma del Estado Peruano
+ - [https://www.gob.pe](https://www.gob.pe)
+ - date_published: 2024-08-07T23:43:14+00:00
+
+ ## Atariteca | Blog sobre computadoras Atari 8 bits serie XL/XE.
+ - [https://www.atariteca.net.pe](https://www.atariteca.net.pe)
+ - date_published: 2024-09-04T15:07:13+00:00
+
+ ## AfroTv Perú – Medio de comunicación afrodescendiente
+ - [https://afrotv.org.pe](https://afrotv.org.pe)
+ - date_published: 2024-09-11T01:33:20.954265+00:00
+
+ ## Inicio - AIDESEP
+ - [http://www.aidesep.org.pe](http://www.aidesep.org.pe)
+ - date_published: 2024-10-21T17:59:38.595205+00:00
+
+ ## APRODEH - Asociación Pro Derechos Humanos -
+ - [https://aprodeh.org.pe](https://aprodeh.org.pe)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## BIBLIOTECA AFROPERUANA – ASHANTI PERÚ
+ - [https://bibliotecaafroperuana.org.pe](https://bibliotecaafroperuana.org.pe)
+ - date_published: 2024-09-11T01:33:18.341689+00:00
+
+ ## Fenamad Sitio Web | Noticias Madre de Dios Hoy
+ - [https://www.fenamad.org.pe](https://www.fenamad.org.pe)
+ - date_published: 2024-08-06T07:14:32+00:00
+
+ ## Sociedad Nacional de Minería, Petróleo y Energía - SNMPE
+ - [http://www.snmpe.org.pe](http://www.snmpe.org.pe)
+ - date_published: 2024-10-29T04:42:35+00:00
+
+ ## Home
+ - [https://wwf.org.pe](https://wwf.org.pe)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## adidas Perú Tienda Oficial | Zapatillas y Ropa deportiva
+ - [https://www.adidas.pe](https://www.adidas.pe)
+ - date_published: 2024-07-14T12:14:37.362835+00:00
+
+ ## Agronetto Perú: un mercado en línea para maquinaria agrícola y recambios
+ - [https://agronetto.pe](https://agronetto.pe)
+ - date_published: 2024-08-11T15:40:19.722101+00:00
+
+ ## Agencia Peruana de Noticias | ANDINA
+ - [https://andina.pe](https://andina.pe)
+ - date_published: 2024-02-27T15:54:33.382153+00:00
+
+ ## IIS Windows Server
+ - [https://newsletter.andina.pe](https://newsletter.andina.pe)
+ - date_published: 2023-03-10T19:29:55+00:00
+
+ ## Andina Podcast Agencia Peruana de Noticias | ANDINA
+ - [https://podcast.andina.pe](https://podcast.andina.pe)
+ - date_published: 2024-08-11T12:28:20.881068+00:00
+
+ ## Appscope
+ - [https://appsco.pe](https://appsco.pe)
+ - date_published: 2024-06-03T11:21:16.392384+00:00
+ - tags: ['progressive web apps', 'app store']
+
+ ## archive.pe
+ - [http://archive.pe](http://archive.pe)
+ - date_published: 2024-05-05T15:36:53+00:00
+
+ ## AudioPlayer: Radios del Grupo RPP EN VIVO | Podcast | Programas
+ - [https://audioplayer.pe](https://audioplayer.pe)
+ - date_published: 2024-09-12T20:48:41.304138+00:00
+
+ ## beehype – Best Music from Around the World
+ - [https://beehy.pe](https://beehy.pe)
+ - date_published: 2024-05-07T15:30:23.386960+00:00
+
+ ## Electrodomésticos Bosch: experiencia, calidad, seguridad y precisión.
+ - [https://www.bosch-home.pe](https://www.bosch-home.pe)
+ - date_published: 2024-06-16T21:37:07.671513+00:00
+
+ ## BUENAZO: lo mejor de la cocina hecha en el Perú
+ - [https://buenazo.pe](https://buenazo.pe)
+ - date_published: 2024-09-12T20:44:53.026093+00:00
+
+ ## Capterra te ayuda a encontrar el software adecuado para tu empresa
+ - [https://www.capterra.pe](https://www.capterra.pe)
+ - date_published: 2024-07-20T19:26:23.780307+00:00
+
+ ## Homepage
+ - [https://casinoble.pe](https://casinoble.pe)
+ - date_published: 2024-09-19T20:32:32.421695+00:00
+
+ ## Cuidado y protección de la piel sensible a normal | Cetaphil®
+ - [https://www.cetaphil.pe](https://www.cetaphil.pe)
+ - date_published: 2024-10-30T23:03:18.947097+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.pe](https://www.citroenorigins.pe)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## Clasificados.pe | Los Clasificados impresos del Grupo El Comercio
+ - [https://clasificados.pe](https://clasificados.pe)
+ - date_published: 2024-06-12T13:33:04.266661+00:00
+
+ ## El Comercio
+ - [https://autogestion.clubelcomercio.pe](https://autogestion.clubelcomercio.pe)
+ - date_published: 2023-04-18T14:43:04+00:00
+
+ ## clubelcomercio.pe
+ - [https://clubelcomercio.pe](https://clubelcomercio.pe)
+ - date_published: 2024-06-12T13:32:47.821299+00:00
+
+ ## Escucha Radio Corazón EN VIVO: Vive+
+ - [https://corazon.pe](https://corazon.pe)
+ - date_published: 2024-09-12T20:49:15.551507+00:00
+
+ ## Cultura Sostenible | Sé parte del cambio
+ - [https://culturasostenible.pe](https://culturasostenible.pe)
+ - date_published: 2024-04-28T02:00:12.124986+00:00
+
+ ## Dave Clements - British expat in Portland, OR
+ - [https://s.dave.pe](https://s.dave.pe)
+ - date_published: 2024-06-15T18:11:39.689123+00:00
+
+ ## Noticias de deportes de hoy del canal líder en Perú  | DEPOR
+ - [http://depor.pe](http://depor.pe)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Coordinadora de Derechos Humanos – La Coordinadora Nacional de Derechos Humanos (CNDDHH) es una coalición de organismos de la sociedad civil que trabajan en la defensa, promoción y educación de los derechos humanos en el Perú.
+ - [https://derechoshumanos.pe](https://derechoshumanos.pe)
+ - date_published: 2024-06-12T10:46:01.642212+00:00
+
+ ## Noticias del Perú y el mundo | Lima y Regiones del Perú | Dina Boluarte | Congreso de la República | Espectáculos  | CORREO
+ - [https://diariocorreo.pe](https://diariocorreo.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Sitio Oficial Dodge Perú
+ - [http://www.dodge.pe](http://www.dodge.pe)
+ - date_published: 2024-06-19T08:57:11.280483+00:00
+
+ ## Resumen del estado
+ - [https://downdetector.pe](https://downdetector.pe)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## du design | Agencia de Publicidad Creativa y Desarrollo Web
+ - [https://dudesign.pe](https://dudesign.pe)
+ - date_published: 2024-10-31T09:48:39.467246+00:00
+
+ ## Cursos, especializaciones y diplomados en línea.
+ - [https://ebac.pe](https://ebac.pe)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## EcoMedia
+ - [https://ecomedia.pe](https://ecomedia.pe)
+ - date_published: 2024-06-12T13:32:53.719385+00:00
+
+ ## Noticias del Perú y el Mundo de último minuto | EL COMERCIO PERÚ
+ - [https://elcomercio.pe](https://elcomercio.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## home - Especiales EC
+ - [https://especial.elcomercio.pe](https://especial.elcomercio.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## MAG | Noticias de tendencias de USA y el mundo | MAG.
+ - [https://mag.elcomercio.pe](https://mag.elcomercio.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Menú, recetas, cocina, nutricion | Menú Perú
+ - [https://menuperu.elcomercio.pe](https://menuperu.elcomercio.pe)
+ - date_published: 2024-09-13T15:48:19.492471+00:00
+
+ ## Suscripciones Digitales | El Comercio
+ - [https://suscripciones.elcomercio.pe](https://suscripciones.elcomercio.pe)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Búsquedas El Peruano
+ - [https://busquedas.elperuano.pe](https://busquedas.elperuano.pe)
+ - date_published: 2024-10-11T12:53:57.308878+00:00
+
+ ## Diario Oficial El Peruano | El Peruano | Decretos | Normas Legales | Separatas Especiales | Normas Legales del día| Derecho | TUPA | Sentencias en Casación | Jurisprudencia | Procesos Constitucionales | Declaraciones Juradas | Patentes y Signos Distintivos | Boletín Oficial | Concesiones Mineras | Remates Judiciales | Edictos Judiciales Lima y Provincias
+ - [https://elperuano.pe](https://elperuano.pe)
+ - date_published: 2024-06-28T21:42:54.678284+00:00
+
+ ## Diario el Popular - Últimas noticias hoy en vivo, espectáculos, actualidad, mundo y más
+ - [https://elpopular.pe](https://elpopular.pe)
+ - date_published: 2024-09-12T20:44:59.828587+00:00
+
+ ## Emagister: Cursos a distancia, online y presenciales
+ - [https://www.emagister.pe](https://www.emagister.pe)
+ - date_published: 2024-09-11T16:04:22.623575+00:00
+
+ ## Todas las películas y las series de Netflix - EnNetflix.pe
+ - [https://www.ennetflix.pe](https://www.ennetflix.pe)
+ - date_published: 2024-09-02T11:18:48.375385+00:00
+
+ ## Personas | Equifax
+ - [https://www.equifax.pe](https://www.equifax.pe)
+ - date_published: 2024-08-05T22:07:57.189413+00:00
+
+ ## Felipe Oduardo Sierra - Full Stack. SRSLY.
+ - [https://feli.pe](https://feli.pe)
+ - date_published: 2024-07-13T04:18:42.962563+00:00
+
+ ## fili.pe — fili.pe
+ - [https://fili.pe](https://fili.pe)
+ - date_published: 2024-04-05T00:38:31+00:00
+
+ ## Forbes Perú
+ - [https://forbes.pe](https://forbes.pe)
+ - date_published: 2024-07-12T23:46:57.312712+00:00
+
+ ## Portada | Especiales Gestión
+ - [https://especial.gestion.pe](https://especial.gestion.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Gestión | El diario de Economía, Finanzas y Negocios | GESTIÓN
+ - [https://gestion.pe](https://gestion.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Suscripciones Digitales | Gestión
+ - [https://suscripciones.gestion.pe](https://suscripciones.gestion.pe)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## H2 Perú - Asociación Peruana de Hidrógeno
+ - [https://h2.pe](https://h2.pe)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Metaverse & Web3-Research by Hype
+ - [https://research.hy.pe](https://research.hy.pe)
+ - date_published: 2024-09-25T06:51:03+00:00
+
+ ## Hype - THE CRYPTO SUPER AGENCY
+ - [https://www.hy.pe](https://www.hy.pe)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## GRUPORPP | Impulsa Tu Marca
+ - [https://impulsatumarca.pe](https://impulsatumarca.pe)
+ - date_published: 2024-06-20T21:06:27+00:00
+
+ ## SUV y crossovers Jeep® - Sitio oficial de Jeep
+ - [http://www.jeep.pe](http://www.jeep.pe)
+ - date_published: 2024-07-12T06:14:07.755345+00:00
+
+ ## JLL
+ - [https://www.jll.pe](https://www.jll.pe)
+ - date_published: 2024-10-30T21:39:09.541479+00:00
+
+ ## Jonathan Castro – Art Direction, Traces & Dirty Listening
+ - [http://jonathancastro.pe](http://jonathancastro.pe)
+ - date_published: 2024-07-13T15:45:40.605740+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.pe](https://www.konecranes.pe)
+ - date_published: 2024-05-04T09:58:05.186297+00:00
+
+ ## Todoterrenos, SUV y 4x4 premium | Land Rover Perú
+ - [https://www.landrover.pe](https://www.landrover.pe)
+ - date_published: 2024-07-09T17:14:40.896350+00:00
+
+ ## LR Data: Investigación social y periodismo de datos
+ - [https://data.larepublica.pe](https://data.larepublica.pe)
+ - date_published: 2024-09-12T20:44:57.194760+00:00
+
+ ## Archivo de Edicion Impresa
+ - [https://impreso.larepublica.pe](https://impreso.larepublica.pe)
+ - date_published: 2024-09-12T20:44:34.290211+00:00
+
+ ## Archivo de Edicion Impresa
+ - [https://informativos.larepublica.pe](https://informativos.larepublica.pe)
+ - date_published: 2024-09-12T20:44:16.349879+00:00
+
  ## Últimas noticias de última hora del Perú y el mundo en La República
  - [https://larepublica.pe](https://larepublica.pe)
  - date_published: 2024-06-12T12:53:47.454842+00:00
@@ -3714,320 +4031,4 @@
  ## Strona główna | WORTAL
  - [http://wuppoznan.praca.gov.pl](http://wuppoznan.praca.gov.pl)
  - date_published: 2024-07-13T19:04:39.587956+00:00
-
- ## Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl
- - [https://www.premier.gov.pl](https://www.premier.gov.pl)
- - date_published: 2024-08-18T07:19:55.766848+00:00
-
- ## Strona główna - Profil zaufany
- - [https://pz.gov.pl](https://pz.gov.pl)
- - date_published: 2024-07-13T19:11:47.141372+00:00
-
- ## NCEZ - strona główna - Narodowe Centrum Edukacji Żywieniowej
- - [https://ncez.pzh.gov.pl](https://ncez.pzh.gov.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Szczepienia.Info - Strona główna
- - [https://szczepienia.pzh.gov.pl](https://szczepienia.pzh.gov.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Narodowy Instytut Zdrowia Publicznego - Państwowy Zakład Higieny
- - [https://www.pzh.gov.pl](https://www.pzh.gov.pl)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Rządowe Centrum Legislacji |
- - [http://www.rcl.gov.pl](http://www.rcl.gov.pl)
- - date_published: 2024-06-22T09:13:33.034758+00:00
-
- ## Rzecznik Finansowy
- - [https://bip.rf.gov.pl](https://bip.rf.gov.pl)
- - date_published: 2024-07-09T20:14:59.362380+00:00
-
- ## Rzecznik Finansowy
- - [https://rf.gov.pl](https://rf.gov.pl)
- - date_published: 2024-05-09T06:27:00.284532+00:00
-
- ## Fundusze Europejskie dla Rozwoju Społecznego - Ministerstwo Funduszy i Polityki Regionalnej
- - [https://www.rozwojspoleczny.gov.pl](https://www.rozwojspoleczny.gov.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
- - [https://rpo.gov.pl](https://rpo.gov.pl)
- - date_published: 2024-05-09T06:26:51.443967+00:00
-
- ## Biuro Rzecznika Małych i Średnich Przedsiębiorców
- - [https://en.rzecznikmsp.gov.pl](https://en.rzecznikmsp.gov.pl)
- - date_published: 2024-07-09T20:14:52.968810+00:00
-
- ## Nauka i Biznes - Rzecznik MŚP
- - [https://naukaibiznes.rzecznikmsp.gov.pl](https://naukaibiznes.rzecznikmsp.gov.pl)
- - date_published: 2024-07-09T20:14:50.770178+00:00
-
- ## Rzecznik Przedsiębiorców
- - [https://rzecznikmsp.gov.pl](https://rzecznikmsp.gov.pl)
- - date_published: 2024-05-09T06:26:57.008830+00:00
-
- ## Globalne Statystyki GUS
- - [http://sdg.gov.pl](http://sdg.gov.pl)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Welcome to ELI & Sejm API documentation! — Sejm API 1.0 documentation
- - [https://api.sejm.gov.pl](https://api.sejm.gov.pl)
- - date_published: 2024-07-04T11:17:56+00:00
-
- ## Internetowy System Aktów Prawnych
- - [https://isap.sejm.gov.pl](https://isap.sejm.gov.pl)
- - date_published: 2024-08-18T11:46:21.346157+00:00
-
- ## Sejm Rzeczypospolitej Polskiej
- - [https://sejm.gov.pl](https://sejm.gov.pl)
- - date_published: 2023-12-01T20:34:13.194103+00:00
-
- ## Senat Rzeczypospolitej Polskiej
- - [http://senat.gov.pl](http://senat.gov.pl)
- - date_published: 2024-08-18T07:19:41+00:00
-
- ## SMUP
- - [https://smup.gov.pl](https://smup.gov.pl)
- - date_published: 2024-04-22T08:10:10+00:00
-
- ## Narodowy Spis Powszechny Ludności i Mieszkań 2021 – Strona informacyjna o Narodowym Spisie Powszechnym 2021
- - [https://spis.gov.pl](https://spis.gov.pl)
- - date_published: 2024-03-01T11:29:01+00:00
-
- ## Powszechny Spis Rolny 2020
- - [https://spisrolny.gov.pl](https://spisrolny.gov.pl)
- - date_published: 2024-08-18T07:18:49+00:00
-
- ## Strona główna - 100 lat Głównego Urzędu Statystycznego
- - [http://100latgus.stat.gov.pl](http://100latgus.stat.gov.pl)
- - date_published: 2024-08-18T07:18:12+00:00
-
- ## Portal API GUS
- - [https://api.stat.gov.pl](https://api.stat.gov.pl)
- - date_published: 2024-08-18T07:19:57.325830+00:00
-
- ## GUS - Bank Danych Lokalnych
- - [https://bdl.stat.gov.pl](https://bdl.stat.gov.pl)
- - date_published: 2024-08-18T07:18:22.444872+00:00
-
- ## Bank Danych Makroekonomicznych
- - [https://bdm.stat.gov.pl](https://bdm.stat.gov.pl)
- - date_published: 2024-08-18T07:19:54.346219+00:00
-
- ## Bank Danych Polska
- - [https://bdp.stat.gov.pl](https://bdp.stat.gov.pl)
- - date_published: 2024-08-18T07:19:25.897876+00:00
-
- ## Urząd Statystyczny w Białymstoku
- - [http://bialystok.stat.gov.pl](http://bialystok.stat.gov.pl)
- - date_published: 2024-08-18T07:19:26+00:00
-
- ## Biuletyn Informacji Publicznej
- - [https://bip.stat.gov.pl](https://bip.stat.gov.pl)
- - date_published: 2024-08-18T07:19:00+00:00
-
- ## Urząd Statystyczny w Bydgoszczy
- - [http://bydgoszcz.stat.gov.pl](http://bydgoszcz.stat.gov.pl)
- - date_published: 2024-08-18T07:19:38+00:00
-
- ## Centrum Informatyki Statystycznej
- - [http://cis.stat.gov.pl](http://cis.stat.gov.pl)
- - date_published: 2024-08-18T07:18:56+00:00
-
- ## GUS - Dashboard gospodarczy
- - [https://dashboard.stat.gov.pl](https://dashboard.stat.gov.pl)
- - date_published: 2024-04-02T12:41:21+00:00
-
- ## Ładowanie
- - [https://dbw.stat.gov.pl](https://dbw.stat.gov.pl)
- - date_published: 2024-08-18T07:18:58.277853+00:00
-
- ## Dekompozycje
- - [https://dekompozycje.stat.gov.pl](https://dekompozycje.stat.gov.pl)
- - date_published: 2024-08-18T07:19:24.101148+00:00
-
- ## Główny Urząd Statystyczny / Dzienniki Urzędowe GUS
- - [http://dziennikigus.stat.gov.pl](http://dziennikigus.stat.gov.pl)
- - date_published: 2024-08-18T07:18:54+00:00
-
- ## Urząd Statystyczny w Gdańsku
- - [http://gdansk.stat.gov.pl](http://gdansk.stat.gov.pl)
- - date_published: 2024-08-18T07:19:29+00:00
-
- ## Strona główna
- - [http://geo.stat.gov.pl](http://geo.stat.gov.pl)
- - date_published: 2024-08-16T12:12:13+00:00
-
- ## Urząd Statystyczny w Katowicach
- - [http://katowice.stat.gov.pl](http://katowice.stat.gov.pl)
- - date_published: 2024-08-18T07:19:21+00:00
-
- ## Urząd Statystyczny w Kielcach
- - [http://kielce.stat.gov.pl](http://kielce.stat.gov.pl)
- - date_published: 2024-08-18T07:19:01+00:00
-
- ## Urząd Statystyczny w Krakowie
- - [http://krakow.stat.gov.pl](http://krakow.stat.gov.pl)
- - date_published: 2024-08-18T07:18:47+00:00
-
- ## Urząd Statystyczny w Łodzi
- - [http://lodz.stat.gov.pl](http://lodz.stat.gov.pl)
- - date_published: 2024-08-18T07:19:51+00:00
-
- ## Urząd Statystyczny w Lublinie
- - [http://lublin.stat.gov.pl](http://lublin.stat.gov.pl)
- - date_published: 2024-08-18T07:19:15+00:00
-
- ## Portal Naukowy GUS, Nauka GUS,
- - [https://nauka.stat.gov.pl](https://nauka.stat.gov.pl)
- - date_published: 2024-08-18T07:18:30.758179+00:00
-
- ## Urząd Statystyczny w Olsztynie
- - [http://olsztyn.stat.gov.pl](http://olsztyn.stat.gov.pl)
- - date_published: 2024-08-18T07:19:04+00:00
-
- ## Urząd Statystyczny w Opolu
- - [http://opole.stat.gov.pl](http://opole.stat.gov.pl)
- - date_published: 2024-08-18T07:18:26+00:00
-
- ## Urząd Statystyczny w Poznaniu
- - [http://poznan.stat.gov.pl](http://poznan.stat.gov.pl)
- - date_published: 2024-08-18T07:18:31+00:00
-
- ## Przegląd Statystyczny Statistical Review
- - [https://ps.stat.gov.pl](https://ps.stat.gov.pl)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Polskie Towarzystwo Statystyczne
- - [http://pts.stat.gov.pl](http://pts.stat.gov.pl)
- - date_published: 2024-08-18T07:18:23.615834+00:00
-
- ## Repozytorium Standardów Informacyjnych prototype
- - [https://rsi.stat.gov.pl](https://rsi.stat.gov.pl)
- - date_published: 2023-12-04T15:45:04+00:00
-
- ## Urząd Statystyczny w Rzeszowie
- - [http://rzeszow.stat.gov.pl](http://rzeszow.stat.gov.pl)
- - date_published: 2024-08-18T07:18:24+00:00
-
- ## Statistics in Transition new series
- - [https://sit.stat.gov.pl](https://sit.stat.gov.pl)
- - date_published: 2024-08-18T07:19:49.943229+00:00
-
- ## Główny Urząd Statystyczny
- - [https://stat.gov.pl](https://stat.gov.pl)
- - date_published: 2024-01-05T10:54:42.258169+00:00
-
- ## The Tudors
- - [http://statlibr.stat.gov.pl](http://statlibr.stat.gov.pl)
- - date_published: 2015-06-09T11:08:46+00:00
-
- ## Statystyka Miast
- - [https://statystykamiast.stat.gov.pl](https://statystykamiast.stat.gov.pl)
- - date_published: 2023-04-03T08:00:30+00:00
-
- ## STRATEG
- - [http://strateg.stat.gov.pl](http://strateg.stat.gov.pl)
- - date_published: 2024-07-22T11:54:21+00:00
-
- ## GUS: Statystyczne Vademecum Samorządowca
- - [https://svs.stat.gov.pl](https://svs.stat.gov.pl)
- - date_published: 2024-02-09T07:41:24+00:00
-
- ## Urząd Statystyczny w Szczecinie
- - [http://szczecin.stat.gov.pl](http://szczecin.stat.gov.pl)
- - date_published: 2024-08-18T07:18:52+00:00
-
- ## TranStat - statystyki eksperymentalne
- - [https://transtat.stat.gov.pl](https://transtat.stat.gov.pl)
- - date_published: 2024-08-18T07:19:35.662700+00:00
-
- ## Urząd Statystyczny w Warszawie
- - [http://warszawa.stat.gov.pl](http://warszawa.stat.gov.pl)
- - date_published: 2024-08-18T07:19:36+00:00
-
- ## Urząd Statystyczny we Wrocławiu
- - [http://wroclaw.stat.gov.pl](http://wroclaw.stat.gov.pl)
- - date_published: 2024-08-18T07:18:49+00:00
-
- ## Wiadomości Statystyczne The Polish Statistician
- - [https://ws.stat.gov.pl](https://ws.stat.gov.pl)
- - date_published: 2024-08-18T07:19:12.813802+00:00
-
- ## Urząd Statystyczny w Zielonej Górze
- - [http://zielonagora.stat.gov.pl](http://zielonagora.stat.gov.pl)
- - date_published: 2024-08-18T07:18:45+00:00
-
- ## Zakład Wydawnictw Statystycznych
- - [http://zws.stat.gov.pl](http://zws.stat.gov.pl)
- - date_published: 2024-08-18T07:19:42+00:00
-
- ## Urząd Dozoru Technicznego - Aktualności - przegląd
- - [https://www.udt.gov.pl](https://www.udt.gov.pl)
- - date_published: 2024-07-14T05:26:45+00:00
-
- ## Centrum Informacji Konsumenckiej
- - [https://cik.uke.gov.pl](https://cik.uke.gov.pl)
- - date_published: 2024-07-09T20:15:13+00:00
-
- ## Strona główna- Urząd Ochrony Danych Osobowych.
- - [https://uodo.gov.pl](https://uodo.gov.pl)
- - date_published: 2024-05-09T06:26:58.562360+00:00
-
- ## UOKiK - Strona główna
- - [https://archiwum.uokik.gov.pl](https://archiwum.uokik.gov.pl)
- - date_published: 2024-07-09T20:15:12.729498+00:00
-
- ## Urząd Ochrony Konkurencji i Konsumentów
- - [https://decyzje.uokik.gov.pl](https://decyzje.uokik.gov.pl)
- - date_published: 2024-07-09T20:15:06.760511+00:00
-
- ## Przewaga kontraktowa - Strona główna
- - [https://przewagakontraktowa.uokik.gov.pl](https://przewagakontraktowa.uokik.gov.pl)
- - date_published: 2024-07-09T09:24:03+00:00
-
- ## Urząd Ochrony Konkurencji i Konsumentów
- - [https://uokik.gov.pl](https://uokik.gov.pl)
- - date_published: 2024-07-09T17:48:40.984487+00:00
-
- ## UOKiK - rejestr klauzul niedozwolonych - Strona główna
- - [https://www.rejestr.uokik.gov.pl](https://www.rejestr.uokik.gov.pl)
- - date_published: 2024-07-09T20:15:08.899813+00:00
-
- ## Strona główna - kompendium wiedzy o zatorach płatniczych
- - [https://zatoryplatnicze.uokik.gov.pl](https://zatoryplatnicze.uokik.gov.pl)
- - date_published: 2024-07-09T09:26:41+00:00
-
- ## Główny Inspektorat Weterynarii
- - [https://bip.wetgiw.gov.pl](https://bip.wetgiw.gov.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Główny Inspektorat Weterynarii
- - [https://interwencja.wetgiw.gov.pl](https://interwencja.wetgiw.gov.pl)
- - date_published: 2024-08-11T15:44:09.952810+00:00
-
- ## Rejestr Podmiotów
- - [https://pasze.wetgiw.gov.pl](https://pasze.wetgiw.gov.pl)
- - date_published: 2024-08-11T15:44:12.090290+00:00
-
- ## Strona główna | Główny Inspektorat Weterynarii
- - [https://wetgiw.gov.pl](https://wetgiw.gov.pl)
- - date_published: 2024-02-24T00:02:31.622833+00:00
-
- ## Sign in - Matomo
- - [https://matomo.www.gov.pl](https://matomo.www.gov.pl)
- - date_published: 2024-07-09T07:29:16.693216+00:00
-
- ## JPK - Jednolity Plik Kontrolny - fillUp JPKomat
- - [https://jpk.info.pl](https://jpk.info.pl)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Strona domeny laptopy.info.pl
- - [https://laptopy.info.pl](https://laptopy.info.pl)
- - date_published: 2024-05-29T10:48:23.131178+00:00
-
- ## Rzymskokatolicka Parafia Wojskowa pw. św. Jerzego w Białymstoku
- - [http://www.sjerzy.parafia.info.pl](http://www.sjerzy.parafia.info.pl)
- - date_published: 2024-08-19T00:00:00+00:00
 

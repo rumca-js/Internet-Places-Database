@@ -1,3 +1,15 @@
+ ## 北京理工大学教育基金会
+ - [http://ef.bit.edu.cn](http://ef.bit.edu.cn)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Beijing Institute of Technology
+ - [http://english.bit.edu.cn](http://english.bit.edu.cn)
+ - date_published: 2024-08-07T13:30:34.796064+00:00
+
+ ## 北京理工大学工会网站
+ - [http://gonghui.bit.edu.cn](http://gonghui.bit.edu.cn)
+ - date_published: 2024-06-26T01:56:21+00:00
+
  ## 北京理工大学研究生院
  - [http://grd.bit.edu.cn](http://grd.bit.edu.cn)
  - date_published: 2024-07-26T02:34:29+00:00
@@ -3990,16 +4002,4 @@
  ## 贵阳市白云区人民政府
  - [http://www.gzbaiyun.gov.cn](http://www.gzbaiyun.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中共贵州省委党校 贵州行政学院 中共贵州省委讲师团
- - [http://www.gzdx.gov.cn](http://www.gzdx.gov.cn)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 广州市人民政府外事办公室
- - [http://www.gzfao.gov.cn](http://www.gzfao.gov.cn)
- - date_published: 2024-09-09T15:34:17.937201+00:00
-
- ## 广州市南沙区人民政府门户网站
- - [http://www.gzns.gov.cn](http://www.gzns.gov.cn)
- - date_published: 2024-07-09T18:21:07.463641+00:00
 

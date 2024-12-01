@@ -1,3 +1,15 @@
+ ## Socket.IO chat
+ - [https://basevistor.s5.udesk.cn](https://basevistor.s5.udesk.cn)
+ - date_published: 2020-08-14T08:29:12+00:00
+
+ ## udesk
+ - [https://bblcs.s5.udesk.cn](https://bblcs.s5.udesk.cn)
+ - date_published: 2024-05-12T04:11:48.981450+00:00
+
+ ## udesk
+ - [https://creality.s5.udesk.cn](https://creality.s5.udesk.cn)
+ - date_published: 2024-07-04T16:11:55.107778+00:00
+
  ## PKFARE
  - [http://pkfare.udesk.cn](http://pkfare.udesk.cn)
  - date_published: 2024-09-25T12:54:08.278869+00:00
@@ -3996,16 +4008,4 @@ _中国网
  ## 北京理工大学
  - [https://bit.edu.cn](https://bit.edu.cn)
  - date_published: 2024-04-28T04:00:29.393849+00:00
-
- ## 北京理工大学教育基金会
- - [http://ef.bit.edu.cn](http://ef.bit.edu.cn)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Beijing Institute of Technology
- - [http://english.bit.edu.cn](http://english.bit.edu.cn)
- - date_published: 2024-08-07T13:30:34.796064+00:00
-
- ## 北京理工大学工会网站
- - [http://gonghui.bit.edu.cn](http://gonghui.bit.edu.cn)
- - date_published: 2024-06-26T01:56:21+00:00
 

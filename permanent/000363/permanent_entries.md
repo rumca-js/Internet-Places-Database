@@ -1,3 +1,269 @@
+ ## Center on Reinventing Public Education | Education Research
+ - [https://www.crpe.org](https://www.crpe.org)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CR Recommended - Consumer Reports
+ - [https://crrecommendedmark.org](https://crrecommendedmark.org)
+ - date_published: 2024-10-14T18:46:01.265017+00:00
+
+ ## Home
+ - [http://www.crsi.org](http://www.crsi.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Crucial Considerations
+ - [http://crucialconsiderations.org](http://crucialconsiderations.org)
+ - date_published: 2024-06-29T08:27:34.014468+00:00
+
+ ## Eventos - CRUE
+ - [http://eventos.crue.org](http://eventos.crue.org)
+ - date_published: 2024-09-12T12:54:28+00:00
+
+ ## Inicio - CRUE
+ - [https://www.crue.org](https://www.crue.org)
+ - date_published: 2024-06-15T02:51:22.156374+00:00
+
+ ## Cruising Home
+ - [https://cruising.org](https://cruising.org)
+ - date_published: 2024-07-17T10:26:45.931382+00:00
+
+ ## Crunchbangplusplus | Debian Based Minimal Linux Distro
+ - [https://crunchbangplusplus.org](https://crunchbangplusplus.org)
+ - date_published: 2023-06-11T00:00:00+00:00
+
+ ## Crunchbangplusplus | Debian Based Minimal Linux Distro
+ - [https://packages.crunchbangplusplus.org](https://packages.crunchbangplusplus.org)
+ - date_published: 2023-06-11T00:00:00+00:00
+
+ ## History of U.S. Woman's Suffrage
+ - [http://crusadeforthevote.org](http://crusadeforthevote.org)
+ - date_published: 2024-07-02T10:33:09.234975+00:00
+
+ ## CRUW Dataset
+ - [https://www.cruwdataset.org](https://www.cruwdataset.org)
+ - date_published: 2024-06-22T09:50:33.198288+00:00
+
+ ## Cruz Roja Americana
+ - [http://www.cruzrojaamericana.org](http://www.cruzrojaamericana.org)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Cruz Roja Colombiana - Cruz Roja Colombiana
+ - [https://www.cruzrojacolombiana.org](https://www.cruzrojacolombiana.org)
+ - date_published: 2024-09-10T12:56:39.384832+00:00
+
+ ## Forma parte del cambio - Cruz Roja Juventud
+ - [https://www.cruzrojajuventud.org](https://www.cruzrojajuventud.org)
+ - date_published: 2024-07-15T04:00:45.904067+00:00
+
+ ## Creative Reaction Lab
+ - [https://crxlab.org](https://crxlab.org)
+ - date_published: 2024-06-21T19:12:19.372696+00:00
+
+ ## CryoDAO
+ - [https://www.cryodao.org](https://www.cryodao.org)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Home
+ - [https://cryogenicsociety.org](https://cryogenicsociety.org)
+ - date_published: 2024-04-29T06:12:04.262036+00:00
+
+ ## CSA Archive
+ - [https://cryogenicsociety-archive.org](https://cryogenicsociety-archive.org)
+ - date_published: 2024-07-02T08:42:25+00:00
+
+ ## Cryogen: Simple static sites
+ - [https://cryogenweb.org](https://cryogenweb.org)
+ - date_published: 2023-11-22T08:24:08+00:00
+
+ ## Cryonics Institute Home - The Cryonics Institute
+ - [http://www.cryonics.org](http://www.cryonics.org)
+ - date_published: 2024-10-31T23:24:09.173467+00:00
+
+ ## Alcor - Life Extension Foundation | Cryonics
+ - [https://www.cryonicsarchive.org](https://www.cryonicsarchive.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Cryptix
+ - [http://www.cryptix.org](http://www.cryptix.org)
+ - date_published: 2024-08-08T17:54:48.615989+00:00
+
+ ## Web3 News - Crypto Academy
+ - [http://crypto-academy.org](http://crypto-academy.org)
+ - date_published: 2022-09-23T20:28:10+00:00
+
+ ## CryptoCanal
+ - [https://cryptocanal.org](https://cryptocanal.org)
+ - date_published: 2024-09-24T20:53:52.685250+00:00
+
+ ## Frode Weierud’s CryptoCellar
+ - [https://cryptocellar.org](https://cryptocellar.org)
+ - date_published: 2000-05-09T00:00:00+00:00
+
+ ## Cryptocomb
+ - [https://cryptocomb.org](https://cryptocomb.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## CryptoCurrency Certification Consortium (C4) | Home
+ - [https://cryptoconsortium.org](https://cryptoconsortium.org)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## 一般社団法人 日本暗号資産ビジネス協会（JCBA）
+ - [https://cryptocurrency-association.org](https://cryptocurrency-association.org)
+ - date_published: 2024-09-24T22:51:10.987953+00:00
+
+ ## Crypto Dungeon
+ - [https://cryptodungeon.org](https://cryptodungeon.org)
+ - date_published: 2024-09-25T14:47:57.408307+00:00
+
+ ## Home | Cryptofemale
+ - [http://cryptofemale.org](http://cryptofemale.org)
+ - date_published: 2024-06-16T04:33:57.363711+00:00
+
+ ## The premier global alliance advancing crypto innovation.
+ - [https://cryptoforinnovation.org](https://cryptoforinnovation.org)
+ - date_published: 2023-07-11T08:36:48+00:00
+
+ ## Welcome to crypto girls club!
+ - [https://www.cryptogirlsclub.org](https://www.cryptogirlsclub.org)
+ - date_published: 2024-09-04T12:24:37.041886+00:00
+
+ ## LBC::Server
+ - [https://lbc.cryptoguru.org](https://lbc.cryptoguru.org)
+ - date_published: 2024-05-02T11:57:03.055993+00:00
+
+ ## CryptoHack – Home
+ - [https://cryptohack.org](https://cryptohack.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Peter Schwabe
+ - [https://cryptojedi.org](https://cryptojedi.org)
+ - date_published: 2024-07-04T17:14:29.811646+00:00
+
+ ## Crypto Law Survey
+ - [http://www.cryptolaw.org](http://www.cryptolaw.org)
+ - date_published: 2013-02-25T18:41:34+00:00
+
+ ## National Cryptologic Foundation
+ - [https://cryptologicfoundation.org](https://cryptologicfoundation.org)
+ - date_published: 2024-05-09T09:11:39.018928+00:00
+
+ ## Cryptomator Community
+ - [https://community.cryptomator.org](https://community.cryptomator.org)
+ - date_published: 2024-08-11T16:37:48.223117+00:00
+
+ ## Cryptomator - Free Cloud Encryption for Dropbox & Co
+ - [https://cryptomator.org](https://cryptomator.org)
+ - date_published: 2024-02-23T08:47:16.229646+00:00
+
+ ## Cryptomator - Put a Lock on Your Cloud — Cryptomator Documentation
+ - [https://docs.cryptomator.org](https://docs.cryptomator.org)
+ - date_published: 2024-07-15T13:56:44+00:00
+
+ ## Cryptome
+ - [https://cryptome.org](https://cryptome.org)
+ - date_published: 2023-10-25T21:11:22.912914+00:00
+ - tags: ['secret service']
+
+ ## Cryptonet
+ - [https://cryptonet.org](https://cryptonet.org)
+ - date_published: 2024-09-23T13:20:29.111295+00:00
+
+ ## Crypto Nomads Club
+ - [https://club.cryptonomads.org](https://club.cryptonomads.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Event Concierge Service
+ - [https://concierge.cryptonomads.org](https://concierge.cryptonomads.org)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Crypto Events by Crypto Nomads Club
+ - [https://cryptonomads.org](https://cryptonomads.org)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Mint | CNC
+ - [https://mint.cryptonomads.org](https://mint.cryptonomads.org)
+ - date_published: 2024-09-24T21:31:44.306125+00:00
+
+ ## Ramen DAO
+ - [https://ramendao.cryptonomads.org](https://ramendao.cryptonomads.org)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## CryptoPaste
+ - [https://cryptopaste.org](https://cryptopaste.org)
+ - date_published: 2024-10-31T07:13:56.056319+00:00
+
+ ## The Phoenix Initiative
+ - [https://cryptophoenix.org](https://cryptophoenix.org)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Home
+ - [https://cryptotale.org](https://cryptotale.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Crypto Asset Taxation : The Only International Conference
+ - [https://www.cryptotaxforum.org](https://www.cryptotaxforum.org)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## CryptPad Blog
+ - [https://blog.cryptpad.org](https://blog.cryptpad.org)
+ - date_published: 2024-02-16T16:03:09.352093+00:00
+
+ ## CryptPad.org
+ - [https://cryptpad.org](https://cryptpad.org)
+ - date_published: 2024-04-08T19:27:39.829729+00:00
+ - tags: ['self-host', 'office suite']
+
+ ## CryptPad Documentation — CryptPad 2024.3.0 documentation
+ - [https://docs.cryptpad.org](https://docs.cryptpad.org)
+ - date_published: 2024-05-14T03:36:46.780196+00:00
+
+ ## CryptPad Forum
+ - [https://forum.cryptpad.org](https://forum.cryptpad.org)
+ - date_published: 2024-05-14T03:36:48.593241+00:00
+
+ ## Uptime Kuma
+ - [https://uptime.cryptpad.org](https://uptime.cryptpad.org)
+ - date_published: 2024-05-14T03:36:49.195786+00:00
+
+ ## Home | Crystal Bridges Museum of American Art
+ - [https://crystalbridges.org](https://crystalbridges.org)
+ - date_published: 2024-06-29T11:02:15.254340+00:00
+
+ ## Crystaleum - A community project
+ - [https://crystaleum.org](https://crystaleum.org)
+ - date_published: 2023-08-31T21:43:30+00:00
+
+ ## The Crystal Programming Language
+ - [https://crystal-lang.org](https://crystal-lang.org)
+ - date_published: 2023-10-25T21:11:24.443668+00:00
+ - tags: ['programming language']
+
+ ## Crystal Forum
+ - [https://forum.crystal-lang.org](https://forum.crystal-lang.org)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## #crystal-lang
+ on 2024-07-19
+ — 
+irc logs at libera.irclog.whitequark.org
+ - [http://irclog.crystal-lang.org](http://irclog.crystal-lang.org)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Carcin
+ - [https://play.crystal-lang.org](https://play.crystal-lang.org)
+ - date_published: 2020-04-02T13:31:16+00:00
+
+ ## CS 124: An Introduction to Computer Science
+ - [https://cs124.org](https://cs124.org)
+ - date_published: 2024-04-30T04:57:48.921073+00:00
+
+ ## CS 196
+ - [https://honors.cs124.org](https://honors.cs124.org)
+ - date_published: 2024-01-19T04:33:50+00:00
+
+ ## cs128@illinois
+ - [https://cs128.org](https://cs128.org)
+ - date_published: 2024-04-30T04:58:55.638672+00:00
+
  ## CS 128 | Dev Team
  - [https://dev.cs128.org](https://dev.cs128.org)
  - date_published: 2024-07-21T22:07:35.653451+00:00
@@ -3778,267 +4044,4 @@
  ## developa blog - Windows 10 Applikationsentwicklung und UX
  - [http://www.developa.org](http://www.developa.org)
  - date_published: 2024-09-18T14:32:35.151643+00:00
-
- ## Denver Software Development Company: #1 for a Reason
- - [https://developdenver.org](https://developdenver.org)
- - date_published: 2024-06-23T05:58:21.866114+00:00
-
- ## Developer Certificate of Origin
- - [https://developercertificate.org](https://developercertificate.org)
- - date_published: 2021-07-15T13:20:53+00:00
-
- ## Developer Events | Explore the latest Developer Events & Conferences
- - [https://developerevents.org](https://developerevents.org)
- - date_published: 2024-06-15T23:04:27.680791+00:00
-
- ## Policy Experts Advocating for Developers | Developers Alliance
- - [https://developersalliance.org](https://developersalliance.org)
- - date_published: 2023-12-29T18:50:24.565985+00:00
-
- ## Home - Flint and Genesee Economic Alliance
- - [https://developflintandgenesee.org](https://developflintandgenesee.org)
- - date_published: 2024-06-29T21:53:38.656510+00:00
-
- ## developing writers
- - [https://developingwriters.org](https://developingwriters.org)
- - date_published: 2024-07-04T18:00:45.031112+00:00
-
- ## 🌱 Transformational Spaces
- - [https://developmentalspaces.org](https://developmentalspaces.org)
- - date_published: 2024-06-12T12:48:00.172775+00:00
-
- ## Welcome — Development Seed
- - [https://developmentseed.org](https://developmentseed.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Stellar : Message of the Day
- - [http://developmentventures.org](http://developmentventures.org)
- - date_published: 2024-06-20T03:54:10.944304+00:00
-
- ## Dungeon Crawl Stone Soup
- - [https://crawl.develz.org](https://crawl.develz.org)
- - date_published: 2023-08-04T01:02:33+00:00
- - tags: ['open source', 'video game']
-
- ## Keep updated with Brent Deverman - Brent Deverman
- - [https://www.deverman.org](https://www.deverman.org)
- - date_published: 2021-02-19T00:00:00+00:00
-
- ## dev etc
- - [http://devetc.org](http://devetc.org)
- - date_published: 2015-10-14T22:54:00+00:00
-
- ## Devfreebooks - Devfreebooks - Devfreebooks
- - [https://devfreebooks.org](https://devfreebooks.org)
- - date_published: 2024-05-11T10:34:58.061951+00:00
-
- ## UFABET168 ฝาก - ถอน รวดเร็ว ทันใจ เล่น พนันออนไลน์ ไม่มีสะดุด
- - [http://devfreecasts.org](http://devfreecasts.org)
- - date_published: 2024-05-11T10:34:25.620625+00:00
- - tags: ['gambling']
-
- ## Dev Hunt – The best new Dev Tools every day.
- - [https://devhunt.org](https://devhunt.org)
- - date_published: 2024-05-10T05:29:39.826372+00:00
-
- ## The Devicetree Project
- - [https://devicetree.org](https://devicetree.org)
- - date_published: 2024-05-20T08:18:21+00:00
-
- ## Home
- - [https://devin.org](https://devin.org)
- - date_published: 2024-05-29T19:25:25+00:00
-
- ## Homepage
- - [http://devinit.org](http://devinit.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## devkitPro - Portal
- - [https://devkitpro.org](https://devkitpro.org)
- - date_published: 2024-05-08T10:17:07.726483+00:00
-
- ## DevLoL - DevLoL
- - [https://www.devlol.org](https://www.devlol.org)
- - date_published: 2024-07-24T16:25:53.293030+00:00
-
- ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
- - [https://dev-one.org](https://dev-one.org)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## DevOps Cafe Podcast & Videos - Show Notes
- - [http://devopscafe.org](http://devopscafe.org)
- - date_published: 2024-06-21T21:54:21.230146+00:00
-
- ## DevOpsDays
- - [https://devopsdays.org](https://devopsdays.org)
- - date_published: 2024-06-19T08:30:31.233536+00:00
-
- ## Devoxx4Kids – Inspire children to programming, robotics and engineering
- - [http://www.devoxx4kids.org](http://www.devoxx4kids.org)
- - date_published: 2024-07-20T21:47:05.619354+00:00
-
- ## Luc Devroye's Home Page
- - [https://luc.devroye.org](https://luc.devroye.org)
- - date_published: 2023-12-29T00:51:34.131174+00:00
-
- ## DevTools Tips
- - [https://devtoolstips.org](https://devtoolstips.org)
- - date_published: 2023-10-25T21:14:12.309236+00:00
-
- ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
- - [https://beta.devuan.org](https://beta.devuan.org)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Devuan bug tracking system
- - [https://bugs.devuan.org](https://bugs.devuan.org)
- - date_published: 2020-05-25T16:14:27+00:00
-
- ## Index of /
- - [http://deb.devuan.org](http://deb.devuan.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Welcome to devuan.org | Devuan GNU+Linux Free Operating System
- - [https://devuan.org](https://devuan.org)
- - date_published: 2024-02-20T00:00:00+00:00
- - tags: ['operating system']
-
- ## Devuan Download Zone
- - [https://files.devuan.org](https://files.devuan.org)
- - date_published: 2024-05-04T15:45:38.999723+00:00
-
- ## Devuan git store
- - [https://git.devuan.org](https://git.devuan.org)
- - date_published: 2024-06-20T20:58:39.660962+00:00
-
- ## Devuan Package View
- - [https://pkginfo.devuan.org](https://pkginfo.devuan.org)
- - date_published: 2024-05-11T08:03:40.095693+00:00
-
- ## Devuan Popularity Contest
- - [https://popcon.devuan.org](https://popcon.devuan.org)
- - date_published: 2017-05-19T00:00:00+00:00
-
- ## Please login
- - [https://etl.dewi.org](https://etl.dewi.org)
- - date_published: 2024-09-25T10:52:22.699137+00:00
-
- ## Dexie.js - Minimalistic IndexedDB Wrapper
- - [https://dexie.org](https://dexie.org)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## DF/HCC Pathfinder
- - [http://pathfinder.dfhcc.org](http://pathfinder.dfhcc.org)
- - date_published: 2024-08-08T23:36:25.969193+00:00
-
- ## The DFINITY Foundation
- - [https://dfinity.org](https://dfinity.org)
- - date_published: 2024-06-16T04:34:20.403548+00:00
-
- ## Internet Computer Developer Forum
- - [https://forum.dfinity.org](https://forum.dfinity.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home | Internet Computer
- - [https://sdk.dfinity.org](https://sdk.dfinity.org)
- - date_published: 2024-07-24T07:01:49.329807+00:00
-
- ## ∞/Vibes - Dfinity Swag Store
- - [https://shop.dfinity.org](https://shop.dfinity.org)
- - date_published: 2024-09-25T11:12:23.577556+00:00
-
- ## DFINITY
- - [https://support.dfinity.org](https://support.dfinity.org)
- - date_published: 2024-08-19T15:16:25.549807+00:00
-
- ## DFIR-IRIS | Open Source Incident Response Platform
- - [https://dfir-iris.org](https://dfir-iris.org)
- - date_published: 2024-08-05T12:10:46+00:00
-
- ## DFRLab - DFRLab
- - [https://dfrlab.org](https://dfrlab.org)
- - date_published: 2023-10-25T21:14:16.103433+00:00
-
- ## Home - DFRWS
- - [https://dfrws.org](https://dfrws.org)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Dallas-Fort Worth  Federal Statistical Research Data Center
- - [https://dfwrdc.org](https://dfwrdc.org)
- - date_published: 2024-08-18T19:56:07.653196+00:00
-
- ## Linux Users' Group of Durgapur
- - [https://dgplug.org](https://dgplug.org)
- - date_published: 2022-07-15T15:45:04+00:00
-
- ## dgplug
- - [https://toots.dgplug.org](https://toots.dgplug.org)
- - date_published: 2024-06-22T21:42:52.316148+00:00
-
- ## DHMC and Clinics
- - [http://d-h.org](http://d-h.org)
- - date_published: 2024-07-22T04:36:05+00:00
-
- ## The Dhall configuration language
- - [https://dhall-lang.org](https://dhall-lang.org)
- - date_published: 2024-05-04T09:20:11.238858+00:00
-
- ## Dhall discussion
- - [https://discourse.dhall-lang.org](https://discourse.dhall-lang.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Dhall Documentation — Dhall  documentation
- - [https://docs.dhall-lang.org](https://docs.dhall-lang.org)
- - date_published: 2024-06-20T16:22:23.332323+00:00
-
- ## /
- - [https://prelude.dhall-lang.org](https://prelude.dhall-lang.org)
- - date_published: 2024-06-20T16:22:19.275937+00:00
-
- ## Vipassana Meditation
- - [https://dhamma.org](https://dhamma.org)
- - date_published: 2024-05-10T06:32:59.994191+00:00
-
- ## Vipassana Meditation Course For Business Executives – Dhamma.org
- - [http://executive.dhamma.org](http://executive.dhamma.org)
- - date_published: 2024-07-12T22:44:06.253472+00:00
-
- ## Vipassana Meditation Courses For Correction Facilities – Dhamma.org
- - [http://prison.dhamma.org](http://prison.dhamma.org)
- - date_published: 2024-07-12T22:43:57.733696+00:00
-
- ## Anapana Meditation for Children and Teens
- - [http://www.children.dhamma.org](http://www.children.dhamma.org)
- - date_published: 2024-07-12T22:44:08.007926+00:00
-
- ## Welcome to Vipassana Research Institute | Vipassana Research Institute
- - [http://www.vri.dhamma.org](http://www.vri.dhamma.org)
- - date_published: 2024-07-12T03:50:44+00:00
-
- ## Insight Meditation Society – Tranquility. Wisdom. Compassion.
- - [http://www.dharma.org](http://www.dharma.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Dharmacourse.org – Courses offered to support those working with Rob Burbea’s approaches to practice
- - [https://dharmacourse.org](https://dharmacourse.org)
- - date_published: 2024-09-12T19:20:41.586022+00:00
-
- ## Dharma Seed
- - [https://dharmaseed.org](https://dharmaseed.org)
- - date_published: 2024-05-07T09:59:26.809233+00:00
-
- ## Digital Humanities Awards | Highlighting Resources in Digital Humanities
- - [http://dhawards.org](http://dhawards.org)
- - date_published: 2024-06-24T10:45:04.723347+00:00
-
- ## District Health Department 10
- - [https://www.dhd10.org](https://www.dhd10.org)
- - date_published: 2024-06-23T07:30:07.550335+00:00
-
- ## Managed and automated vaults accessible to everyone
- - [https://app.dhedge.org](https://app.dhedge.org)
- - date_published: 2024-10-11T21:42:09.409395+00:00
-
- ## Managed and automated vaults accessible to everyone
- - [https://dhedge.org](https://dhedge.org)
- - date_published: 2024-09-21T23:40:18.384266+00:00
 

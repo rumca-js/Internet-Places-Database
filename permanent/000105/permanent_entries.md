@@ -1,3 +1,56 @@
+ ## When it matters, say it on Forem — Forem
+ - [https://forem.com](https://forem.com)
+ - date_published: 2023-10-25T08:32:55.266940+00:00
+
+ ## Forem Shop
+ - [https://shop.forem.com](https://shop.forem.com)
+ - date_published: 2024-05-04T06:43:46.679269+00:00
+
+ ## Managed Detection and Response for Businesses MDR | ForeNova Security
+ - [https://www.forenova.com](https://www.forenova.com)
+ - date_published: 2024-07-20T13:51:16+00:00
+
+ ## Logowanie – Konta Google
+ - [https://matomo.forensant.com](https://matomo.forensant.com)
+ - date_published: 2024-05-06T22:26:27.739104+00:00
+
+ ## Forensic Focus
+ - [https://forensicfocus.com](https://forensicfocus.com)
+ - date_published: 2024-05-10T05:32:18.218464+00:00
+
+ ## Jobs | ForensicFocus.com
+ - [https://jobs.forensicfocus.com](https://jobs.forensicfocus.com)
+ - date_published: 2024-07-12T16:28:59.953641+00:00
+
+ ## News  | On the Scene and in the Lab - Forensic®
+ - [https://www.forensicmag.com](https://www.forensicmag.com)
+ - date_published: 2023-10-25T15:10:28.071402+00:00
+
+ ## Forensic Medicine Journal | International Journal of Forensic Medicine
+ - [https://www.forensicpaper.com](https://www.forensicpaper.com)
+ - date_published: 2024-10-14T15:13:00.929793+00:00
+
+ ## Forensic Science Society
+ - [https://forensicsciencesociety.com](https://forensicsciencesociety.com)
+ - date_published: 2023-10-28T17:32:29.161406+00:00
+ - tags: ['police', 'crime']
+
+ ## Ad Fraud Protect & Monitor: Stop Affiliate, Influencer Fraud - impact.com
+ - [http://forensiq.com](http://forensiq.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## For Entrepreneurs - Wisdom & advice for SaaS Startups
+ - [https://forentrepreneurs.com](https://forentrepreneurs.com)
+ - date_published: 2023-10-12T17:02:25+00:00
+
+ ## ForerunnerDB
+ - [https://www.forerunnerdb.com](https://www.forerunnerdb.com)
+ - date_published: 2016-06-09T16:29:14+00:00
+
+ ## Forescout – Manage cyber risk and mitigate threats, continuously.
+ - [https://www.forescout.com](https://www.forescout.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## 通过可见性转变安全性 - Forescout
  - [https://zh.forescout.com](https://zh.forescout.com)
  - date_published: 2024-10-29T07:40:29.805642+00:00
@@ -299,6 +352,10 @@
  ## Formalize - Compliance System
  - [https://www.formalize.com](https://www.formalize.com)
  - date_published: 2024-10-15T17:51:21.465172+00:00
+
+ ## Formance - Open Source Financial Core
+ - [https://www.formance.com](https://www.formance.com)
+ - date_published: 2024-11-30T12:47:27.332148+00:00
 
  ## Secure Online Form Builder and Data Collection Software
  - [https://www.formassembly.com](https://www.formassembly.com)
@@ -3967,61 +4024,4 @@
  ## Out Of The Comfort Zone
  - [https://outofthecomfortzone.frantzmiccoli.com](https://outofthecomfortzone.frantzmiccoli.com)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## The Dark Side
- - [https://thedarkside.frantzmiccoli.com](https://thedarkside.frantzmiccoli.com)
- - date_published: 2023-02-12T00:00:00+00:00
-
- ## Joël Franusic
- - [https://joel.franusic.com](https://joel.franusic.com)
- - date_published: 2024-05-07T19:02:09.725513+00:00
-
- ## Franz Inc.
- - [http://franz.com](http://franz.com)
- - date_published: 2024-08-05T17:14:53+00:00
-
- ## Franzelio: Draw Lines. Make Music. Share Your Instrument
- - [https://franzelio.franzai.com](https://franzelio.franzai.com)
- - date_published: 2024-09-16T22:15:24+00:00
-
- ## Show HN: AI over Email
- - [https://gpt.franzai.com](https://gpt.franzai.com)
- - date_published: 2024-07-23T21:34:56+00:00
-
- ## Franz AI - Franz Enzenhofer - AI First Agency
- - [https://www.franzai.com](https://www.franzai.com)
- - date_published: 2023-09-19T09:56:16+00:00
-
- ## Franzetti Côte d'Ivoire - Une entreprise responsable et engagée
- - [https://www.franzetti-ci.com](https://www.franzetti-ci.com)
- - date_published: 2024-09-11T18:09:03.770212+00:00
-
- ## Franziska Gonder
- - [https://www.franziskagonder.com](https://www.franziskagonder.com)
- - date_published: 2024-09-09T19:57:50.647492+00:00
-
- ## Frannie Monahan
- - [http://www.franziskamonahan.com](http://www.franziskamonahan.com)
- - date_published: 2024-08-18T17:49:53.623073+00:00
-
- ## Franz Kaka
- - [https://franzkaka.com](https://franzkaka.com)
- - date_published: 2024-07-04T01:42:34.160881+00:00
-
- ## Franz Vitulli – Product, lifestyle, and more.
- - [https://franzvitulli.com](https://franzvitulli.com)
- - date_published: 2023-12-03T01:43:17.238710+00:00
- - tags: ['personal']
-
- ## Frappe Cloud - Best hosting for Frappe Apps
- - [https://frappecloud.com](https://frappecloud.com)
- - date_published: 2024-08-08T12:25:05.690042+00:00
-
- ## Frappe Framework: Open Source Low Code Framework
- - [https://frappeframework.com](https://frappeframework.com)
- - date_published: 2024-09-16T13:10:30.063987+00:00
-
- ## Frappe HR
- - [https://frappehr.com](https://frappehr.com)
- - date_published: 2024-10-31T04:19:16.092408+00:00
 

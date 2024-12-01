@@ -1,3 +1,227 @@
+ ## Home | Graduate Student Association
+ - [https://www.gsa.ucsb.edu](https://www.gsa.ucsb.edu)
+ - date_published: 2024-08-29T04:14:54+00:00
+
+ ## Division of Humanities and Fine Arts
+ - [https://www.hfa.ucsb.edu](https://www.hfa.ucsb.edu)
+ - date_published: 2024-07-01T23:51:04.919250+00:00
+
+ ## Home | UC Santa Barbara IAM
+ - [http://www.identity.ucsb.edu](http://www.identity.ucsb.edu)
+ - date_published: 2024-09-11T23:22:49+00:00
+
+ ## UC Santa Barbara Information Technology
+ - [https://www.it.ucsb.edu](https://www.it.ucsb.edu)
+ - date_published: 2024-07-01T18:41:00+00:00
+
+ ## Welcome to KITP | KITP
+ - [https://www.kitp.ucsb.edu](https://www.kitp.ucsb.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Las Maestras center
+ - [https://www.lasmaestrascenter.ucsb.edu](https://www.lasmaestrascenter.ucsb.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Department of Linguistics - UC Santa Barbara
+ - [http://www.linguistics.ucsb.edu](http://www.linguistics.ucsb.edu)
+ - date_published: 2024-07-02T09:02:20+00:00
+
+ ## Media Arts and Technology, UC Santa Barbara
+ - [https://www.mat.ucsb.edu](https://www.mat.ucsb.edu)
+ - date_published: 2024-09-13T19:43:57.294528+00:00
+
+ ## Home | Material Research Laboratory
+ - [https://www.mrl.ucsb.edu](https://www.mrl.ucsb.edu)
+ - date_published: 2024-10-19T08:20:52.709762+00:00
+
+ ## Art Museum - UC Santa Barbara
+ - [https://www.museum.ucsb.edu](https://www.museum.ucsb.edu)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## UCSB Nanofab: U.C. Santa Barbara Cleanroom: Semiconductor Manufacturing Research
+ - [http://www.nanotech.ucsb.edu](http://www.nanotech.ucsb.edu)
+ - date_published: 2024-06-29T22:27:59.598984+00:00
+
+ ## Welcome to The American Presidency Project | The American Presidency Project
+ - [https://www.presidency.ucsb.edu](https://www.presidency.ucsb.edu)
+ - date_published: 2024-05-04T05:25:28.570604+00:00
+
+ ## Welcome to UCSB Student Affairs
+ - [http://www.sa.ucsb.edu](http://www.sa.ucsb.edu)
+ - date_published: 2024-09-14T10:11:45.448061+00:00
+
+ ## Division of Mathematical Life and Physical Sciences - UC Santa Barbara
+ - [http://www.science.ucsb.edu](http://www.science.ucsb.edu)
+ - date_published: 2024-07-01T22:56:54+00:00
+
+ ## Home | The Scott Research Group
+ - [https://www.scott.chemengr.ucsb.edu](https://www.scott.chemengr.ucsb.edu)
+ - date_published: 2024-10-19T08:20:18.560514+00:00
+
+ ## Division of Social Sciences - UC Santa Barbara
+ - [http://www.socialsciences.ucsb.edu](http://www.socialsciences.ucsb.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Home - The Club & Guest House at UC Santa Barbara - Santa Barbara, CA
+ - [https://www.theclub.ucsb.edu](https://www.theclub.ucsb.edu)
+ - date_published: 2024-09-14T10:14:31.673527+00:00
+
+ ## Homepage | UCSB Electronic Timekeeping
+ - [https://www.timekeeping.ucsb.edu](https://www.timekeeping.ucsb.edu)
+ - date_published: 2024-08-29T23:30:27+00:00
+
+ ## Home | Transportation & Parking Services
+ - [https://www.tps.ucsb.edu](https://www.tps.ucsb.edu)
+ - date_published: 2024-09-11T05:53:03+00:00
+
+ ## U-Mail Student Collaboration Services
+ - [https://www.umail.ucsb.edu](https://www.umail.ucsb.edu)
+ - date_published: 2024-09-14T09:52:59+00:00
+
+ ## UCSB Professional and Continuing Education
+ - [https://zs.professional.ucsb.edu](https://zs.professional.ucsb.edu)
+ - date_published: 2024-09-14T10:15:19.660519+00:00
+
+ ## UCSC Academic Affairs
+ - [https://academicaffairs.ucsc.edu](https://academicaffairs.ucsc.edu)
+ - date_published: 2024-05-07T20:59:53.699414+00:00
+
+ ## Homepage
+ - [https://admissions.ucsc.edu](https://admissions.ucsc.edu)
+ - date_published: 2024-06-30T17:42:35+00:00
+
+ ## Undergraduate Advising
+ - [http://advising.ucsc.edu](http://advising.ucsc.edu)
+ - date_published: 2024-07-02T01:19:13.398055+00:00
+
+ ## Center for Agroecology: Growing sustainable food systems
+ - [https://agroecology.ucsc.edu](https://agroecology.ucsc.edu)
+ - date_published: 2024-07-02T01:16:55.435762+00:00
+
+ ## ALT Games Lab – Alternative Learning Technologies and Games Lab
+ - [https://altgameslab.sites.ucsc.edu](https://altgameslab.sites.ucsc.edu)
+ - date_published: 2024-06-22T08:45:09.888444+00:00
+
+ ## ALT Games Lab – Alternative Learning Technologies and Games Lab
+ - [https://altgameslab.soe.ucsc.edu](https://altgameslab.soe.ucsc.edu)
+ - date_published: 2024-05-04T15:17:38.418725+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://ams.ucsc.edu](https://ams.ucsc.edu)
+ - date_published: 2024-05-07T20:59:10.632585+00:00
+
+ ## Academic Personnel Office
+ - [https://apo.ucsc.edu](https://apo.ucsc.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Graduate School | Grad Admissions UC Santa Cruz
+ - [http://applygrad.ucsc.edu](http://applygrad.ucsc.edu)
+ - date_published: 2024-07-02T01:20:21.478094+00:00
+
+ ## The Ramirez Lab – This site describes the people, facilities, and research being pursued in Art Ramirez's lab
+ - [https://aprlab.sites.ucsc.edu](https://aprlab.sites.ucsc.edu)
+ - date_published: 2024-05-07T15:14:35.485550+00:00
+
+ ## Welcome to the Arboretum & Botanic Garden
+ - [https://arboretum.ucsc.edu](https://arboretum.ucsc.edu)
+ - date_published: 2024-07-01T23:56:15.000508+00:00
+
+ ## Events Calendar - Events at UC Santa Cruz
+ - [https://calendar.ucsc.edu](https://calendar.ucsc.edu)
+ - date_published: 2024-07-01T23:56:26.776678+00:00
+
+ ## CruzID Gold Login
+ - [https://canvas.ucsc.edu](https://canvas.ucsc.edu)
+ - date_published: 2024-07-01T23:54:22.392795+00:00
+
+ ## University of California Santa Cruz - University of California Santa Cruz
+ - [https://catalog.ucsc.edu](https://catalog.ucsc.edu)
+ - date_published: 2023-09-26T12:53:46+00:00
+
+ ## Office of the Chancellor – The Office of the Chancellor at UC Santa Cruz.
+ - [http://chancellor.ucsc.edu](http://chancellor.ucsc.edu)
+ - date_published: 2024-07-21T06:09:57+00:00
+
+ ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
+ - [https://citl.ucsc.edu](https://citl.ucsc.edu)
+ - date_published: 2024-07-01T23:26:20+00:00
+
+ ## UCSC Cognitive Modeling Laboratory
+ - [https://cogmodlab.ucsc.edu](https://cogmodlab.ucsc.edu)
+ - date_published: 2024-06-22T08:24:39+00:00
+
+ ## UC Santa Cruz Communications & Marketing – Communications & Marketing
+ - [https://communications.ucsc.edu](https://communications.ucsc.edu)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Campus Provost and Executive Vice Chancellor – Campus Provost and Executive Vice Chancellor Lori Kletzer
+ - [https://cpevc.ucsc.edu](https://cpevc.ucsc.edu)
+ - date_published: 2024-07-01T23:45:16+00:00
+
+ ## CruzBuy E-Procurement System
+ - [http://cruzbuy.ucsc.edu](http://cruzbuy.ucsc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## CruzPay Time and Attendance System
+ - [http://cruzpay.ucsc.edu](http://cruzpay.ucsc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://cs.ucsc.edu](https://cs.ucsc.edu)
+ - date_published: 2024-08-02T23:36:21.033042+00:00
+
+ ## danm.ucsc.edu
+ - [https://danm.ucsc.edu](https://danm.ucsc.edu)
+ - date_published: 2024-06-22T07:45:39+00:00
+
+ ## Digital Karnak – University of California Santa Cruz
+ - [https://digitalkarnak.ucsc.edu](https://digitalkarnak.ucsc.edu)
+ - date_published: 2024-05-09T06:06:44.060160+00:00
+
+ ## Dining
+ - [https://dining.ucsc.edu](https://dining.ucsc.edu)
+ - date_published: 2024-07-02T01:19:18.674416+00:00
+
+ ## UC Santa Cruz - DivData
+ - [https://divdata.ucsc.edu](https://divdata.ucsc.edu)
+ - date_published: 2024-07-01T23:54:35.855797+00:00
+
+ ## Office for Diversity, Equity, and Inclusion
+ - [https://diversity.ucsc.edu](https://diversity.ucsc.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Disability Resource Center – Disability-related Accommodations for UCSC enrolled Undergrad and Graduate students.
+ - [https://drc.ucsc.edu](https://drc.ucsc.edu)
+ - date_published: 2024-07-02T01:19:05+00:00
+
+ ## UC Santa Cruz - Ecology & Evolutionary Biology
+ - [https://eeb.ucsc.edu](https://eeb.ucsc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Expressive Intelligence Studio Blog | EIS at UC Santa Cruz
+ - [https://eis-blog.soe.ucsc.edu](https://eis-blog.soe.ucsc.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home Page | EIS
+ - [https://eis.ucsc.edu](https://eis.ucsc.edu)
+ - date_published: 2021-02-05T23:00:01+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://engineering.ucsc.edu](https://engineering.ucsc.edu)
+ - date_published: 2024-07-01T23:06:58+00:00
+
+ ## UC Santa Cruz - Earth & Planetary Sciences
+ - [https://eps.ucsc.edu](https://eps.ucsc.edu)
+ - date_published: 2024-05-07T20:59:32.734118+00:00
+
+ ## Earth and Planetary Science
+ - [http://es.ucsc.edu](http://es.ucsc.edu)
+ - date_published: 2012-05-16T18:38:07+00:00
+
+ ## University of California-Santa Cruz ⋮ Events
+ - [https://events.ucsc.edu](https://events.ucsc.edu)
+ - date_published: 2024-07-01T23:56:09.969959+00:00
+
  ## UC Santa Cruz Financial Aid Office
  - [https://financialaid.ucsc.edu](https://financialaid.ucsc.edu)
  - date_published: 2024-05-07T21:00:16.333368+00:00
@@ -3778,229 +4002,4 @@
  ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
  - [http://www2.math.uic.edu](http://www2.math.uic.edu)
  - date_published: 2024-06-30T08:58:04.424756+00:00
-
- ## Biomedical Optics and Ophthalmic Imaging Laboratory | University of Illinois Chicago
- - [https://yaolab.bioe.uic.edu](https://yaolab.bioe.uic.edu)
- - date_published: 2024-05-06T20:00:45.734451+00:00
-
- ## Sign in to your account
- - [https://bannerssb4.uidaho.edu](https://bannerssb4.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://banner.uidaho.edu](https://banner.uidaho.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Sign in to your account
- - [https://canvas.uidaho.edu](https://canvas.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Campus Directory - University of Idaho
- - [https://directory.uidaho.edu](https://directory.uidaho.edu)
- - date_published: 2024-06-16T08:35:58.417080+00:00
-
- ## University of Idaho - Offering top-ranked programs in the Northwest
- - [https://futurevandals.uidaho.edu](https://futurevandals.uidaho.edu)
- - date_published: 2024-09-27T22:13:58.616601+00:00
-
- ## Home | Idaho Harvester
- - [https://harvester.lib.uidaho.edu](https://harvester.lib.uidaho.edu)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Default - LibAnswers
- - [https://libanswers.uidaho.edu](https://libanswers.uidaho.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## LibCal -
-        University of Idaho
- - [https://libcal.uidaho.edu](https://libcal.uidaho.edu)
- - date_published: 2024-09-27T22:21:33.617104+00:00
-
- ## LibGuides
- - [https://libguides.uidaho.edu](https://libguides.uidaho.edu)
- - date_published: 2024-09-27T22:21:36.000328+00:00
-
- ## Error 403
- - [https://login.ots.uidaho.edu](https://login.ots.uidaho.edu)
- - date_published: 2023-10-09T14:05:34+00:00
-
- ## Sign in to Outlook
- - [http://mail.uidaho.edu](http://mail.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://my.uidaho.edu](https://my.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Vandal Poem of the Day
- - [https://poetry.lib.uidaho.edu](https://poetry.lib.uidaho.edu)
- - date_published: 2024-09-27T22:22:39.076004+00:00
-
- ## Sign in to your account
- - [https://sso.directory.uidaho.edu](https://sso.directory.uidaho.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Home
- - [https://support.uidaho.edu](https://support.uidaho.edu)
- - date_published: 2024-05-01T07:27:03.955857+00:00
-
- ## University of Idaho - Offering top-ranked programs in the Northwest
- - [https://uidaho.edu](https://uidaho.edu)
- - date_published: 2024-09-27T22:13:42.004212+00:00
-
- ## Sign in to your account
- - [https://vandalstar.uidaho.edu](https://vandalstar.uidaho.edu)
- - date_published: 2024-06-16T08:36:33.120948+00:00
-
- ## Sign in to Outlook
- - [https://vandals.uidaho.edu](https://vandals.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Sign in to your account
- - [https://vandalweb.uidaho.edu](https://vandalweb.uidaho.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Research Portal
- - [https://verso.uidaho.edu](https://verso.uidaho.edu)
- - date_published: 2024-08-28T19:54:12+00:00
-
- ## 404 - University of Idaho
- - [https://webpages.uidaho.edu](https://webpages.uidaho.edu)
- - date_published: 2024-04-18T06:18:28+00:00
-
- ## University of Idaho Library Home
- - [http://www.lib.uidaho.edu](http://www.lib.uidaho.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## University of Illinois Unified Knowledgebase
- - [https://answers.uillinois.edu](https://answers.uillinois.edu)
- - date_published: 2024-07-07T05:30:52.989913+00:00
-
- ## Home
- - [https://apps.uillinois.edu](https://apps.uillinois.edu)
- - date_published: 2024-07-02T02:50:07.358184+00:00
-
- ## Discovery Partners Institute | University of Illinois System
- - [https://dpi.uillinois.edu](https://dpi.uillinois.edu)
- - date_published: 2024-08-08T21:24:18.443645+00:00
-
- ## UI Press | University of Illinois
- - [https://files.press.uillinois.edu](https://files.press.uillinois.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Webtools
- - [https://forms.uofi.uillinois.edu](https://forms.uofi.uillinois.edu)
- - date_published: 2023-12-05T19:47:55+00:00
-
- ## System Homepage
- - [https://help.uillinois.edu](https://help.uillinois.edu)
- - date_published: 2024-05-07T21:15:05.676777+00:00
-
- ## UI Health: University of Illinois Hospital and Health Sciences System in Chicago
- - [https://hospital.uillinois.edu](https://hospital.uillinois.edu)
- - date_published: 2024-05-07T21:14:57.628583+00:00
-
- ## Home - i-card
- - [https://icard.uillinois.edu](https://icard.uillinois.edu)
- - date_published: 2024-07-02T02:50:00.825734+00:00
-
- ## NetID Center University of Illinois System
- - [https://identity.uillinois.edu](https://identity.uillinois.edu)
- - date_published: 2024-07-22T18:35:10.542807+00:00
-
- ## Home | Strategic Innovation | University of Illinois Foundation
- - [https://innovate.uif.uillinois.edu](https://innovate.uif.uillinois.edu)
- - date_published: 2024-07-21T22:49:24.826471+00:00
-
- ## Welcome | myResearch Portal | University of Illinois System
- - [https://myresearchportal.uillinois.edu](https://myresearchportal.uillinois.edu)
- - date_published: 2024-10-15T07:27:25.078130+00:00
-
- ## Welcome | myResearch Portal | University of Illinois System
- - [https://myresearch.uillinois.edu](https://myresearch.uillinois.edu)
- - date_published: 2024-10-15T07:27:31.765469+00:00
-
- ## Welcome
- - [https://nessie.uihr.uillinois.edu](https://nessie.uihr.uillinois.edu)
- - date_published: 2024-06-21T13:03:14.702090+00:00
-
- ## University of Illinois System News
- - [https://news.uillinois.edu](https://news.uillinois.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Welcome | UIF Online
- - [https://online.uif.uillinois.edu](https://online.uif.uillinois.edu)
- - date_published: 2024-07-19T21:32:49+00:00
-
- ## Home
- - [https://paymybill.uillinois.edu](https://paymybill.uillinois.edu)
- - date_published: 2024-07-02T02:47:41.099794+00:00
-
- ## TechReady Illinois - Jumpstart and advance your tech career
- - [https://techready.uillinois.edu](https://techready.uillinois.edu)
- - date_published: 2024-07-13T18:42:48.854140+00:00
-
- ## UIF | University of Illinois Foundation
- - [https://uif.uillinois.edu](https://uif.uillinois.edu)
- - date_published: 2024-04-30T04:56:45.328381+00:00
-
- ## Home - University of Illinois System
- - [https://uillinois.edu](https://uillinois.edu)
- - date_published: 2024-05-07T21:14:51.814206+00:00
-
- ## Home | University Senates Conference
- - [https://usc.uillinois.edu](https://usc.uillinois.edu)
- - date_published: 2024-07-02T01:09:12+00:00
-
- ## Home - EVPAA
- - [https://vpaa.uillinois.edu](https://vpaa.uillinois.edu)
- - date_published: 2024-04-30T04:57:25.699666+00:00
-
- ## web.uillinois.edu
- - [https://web.uillinois.edu](https://web.uillinois.edu)
- - date_published: 2024-07-02T02:39:04.115132+00:00
-
- ## Home
- - [https://www.aits.uillinois.edu](https://www.aits.uillinois.edu)
- - date_published: 2024-07-02T02:39:02.496053+00:00
-
- ## Home
- - [https://www.bot.uillinois.edu](https://www.bot.uillinois.edu)
- - date_published: 2024-07-02T02:39:08.385572+00:00
-
- ## Home
- - [https://www.ethics.uillinois.edu](https://www.ethics.uillinois.edu)
- - date_published: 2024-07-02T02:50:38.072676+00:00
-
- ## Welcome
- - [https://www.hr.uillinois.edu](https://www.hr.uillinois.edu)
- - date_published: 2024-07-02T02:38:59.589794+00:00
-
- ## IGPA - The University of Illinois System is the people’s university, and IGPA is the people’s policy think tank.
- - [http://www.igpa.uillinois.edu](http://www.igpa.uillinois.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Online Courses Catalogue
- - [http://www.online.uillinois.edu](http://www.online.uillinois.edu)
- - date_published: 2024-07-02T02:40:25.050258+00:00
-
- ## University of Illinois > University Office for Planning and Budgeting
- - [http://www.pb.uillinois.edu](http://www.pb.uillinois.edu)
- - date_published: 2024-07-21T22:34:39.205408+00:00
-
- ## UI Press | University of Illinois
- - [https://www.press.uillinois.edu](https://www.press.uillinois.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home
- - [http://www.uaps.uillinois.edu](http://www.uaps.uillinois.edu)
- - date_published: 2024-07-21T22:34:52.378127+00:00
-
- ## Christel DeHaan Center for Global Engagement - University of Indianapolis
- - [https://archlab.uindy.edu](https://archlab.uindy.edu)
- - date_published: 2024-05-07T15:19:04.853289+00:00
-
- ## Admissions - University of Indianapolis
- - [https://attend.uindy.edu](https://attend.uindy.edu)
- - date_published: 2024-06-21T18:37:28+00:00
 

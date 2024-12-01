@@ -1,3 +1,230 @@
+ ## builds.sr.ht
+ - [https://builds.sr.ht](https://builds.sr.ht)
+ - date_published: 2024-05-14T03:32:04.416670+00:00
+
+ ## git.sr.ht
+ - [https://git.sr.ht](https://git.sr.ht)
+ - date_published: 2023-12-31T14:27:47.547611+00:00
+
+ ## hg.sr.ht
+ - [https://hg.sr.ht](https://hg.sr.ht)
+ - date_published: 2024-08-18T08:14:10.426780+00:00
+
+ ## lists.sr.ht
+ - [https://lists.sr.ht](https://lists.sr.ht)
+ - date_published: 2023-10-25T19:28:25.248561+00:00
+
+ ## sourcehut docs - man.sr.ht
+ - [https://man.sr.ht](https://man.sr.ht)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## meta.sr.ht
+ - [https://meta.sr.ht](https://meta.sr.ht)
+ - date_published: 2024-04-28T03:22:45.307013+00:00
+
+ ## Statement regarding the ongoing SourceHut outage
+ - [https://outage.sr.ht](https://outage.sr.ht)
+ - date_published: 2024-01-12T10:26:28.064983+00:00
+
+ ## paste.sr.ht
+ - [https://paste.sr.ht](https://paste.sr.ht)
+ - date_published: 2024-04-28T06:12:10.734339+00:00
+
+ ## sourcehut hub
+ - [https://sr.ht](https://sr.ht)
+ - date_published: 2023-10-25T19:28:26.035376+00:00
+
+ ## todo.sr.ht
+ - [https://todo.sr.ht](https://todo.sr.ht)
+ - date_published: 2024-05-14T03:32:00.923815+00:00
+
+ ## about me
+ - [https://thelig.ht](https://thelig.ht)
+ - date_published: 2023-10-25T09:21:57.537936+00:00
+ - tags: ['personal']
+
+ ## Join the Ultralight Discord Server!
+ - [https://chat.ultralig.ht](https://chat.ultralig.ht)
+ - date_published: 2024-08-06T01:40:40+00:00
+
+ ## Home
+ - [https://docs.ultralig.ht](https://docs.ultralig.ht)
+ - date_published: 2024-08-06T20:15:22.685307+00:00
+
+ ## Ultralight - Display Web Content Everywhere
+ - [https://ultralig.ht](https://ultralig.ht)
+ - date_published: 2024-04-28T05:58:49.971085+00:00
+
+ ## zz.ht
+ - [https://zz.ht](https://zz.ht)
+ - date_published: 2024-06-23T17:52:40.778592+00:00
+
+ ## Webtárhely, VPS, Domain, Szerver hosting
+ - [https://atw.co.hu](https://atw.co.hu)
+ - date_published: 2024-09-04T17:35:03.530978+00:00
+
+ ## Decathlon webáruház - 75 sport egy helyen
+ - [http://decathlon.co.hu](http://decathlon.co.hu)
+ - date_published: 2024-06-15T20:09:42.394640+00:00
+
+ ## EF Education First | Magyarország
+ - [https://www.ef.co.hu](https://www.ef.co.hu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## 20Y
+ - [https://20y.hu](https://20y.hu)
+ - date_published: 2022-05-31T08:07:58+00:00
+
+ ## 220volt.hu - fényképezőgépek és tartozékok áruháza
+ - [http://www.220volt.hu](http://www.220volt.hu)
+ - date_published: 2024-07-13T13:39:05+00:00
+
+ ## National Geographic | Magyarország
+ - [https://ng.24.hu](https://ng.24.hu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## 3M Science. Applied to Life.™ | 3M Magyarország
+ - [https://www.3mmagyarorszag.hu](https://www.3mmagyarorszag.hu)
+ - date_published: 2024-08-06T10:37:41.770193+00:00
+
+ ## 4iG Nyrt. - Partner a digitális megújulásban
+ - [https://4ig.hu](https://4ig.hu)
+ - date_published: 2024-09-04T04:21:58.063102+00:00
+
+ ## PlayIT Store - Videójáték webáruház
+ - [http://576kb.hu](http://576kb.hu)
+ - date_published: 2024-06-15T03:29:48+00:00
+
+ ## Abarth Magyarország
+ - [https://www.abarth.hu](https://www.abarth.hu)
+ - date_published: 2024-07-10T18:05:32+00:00
+
+ ## Online divat 1500 legnépszerűbb márkától | ABOUT YOU
+ - [https://m.aboutyou.hu](https://m.aboutyou.hu)
+ - date_published: 2024-09-17T20:28:31+00:00
+
+ ## Online divat 1500 legnépszerűbb márkától | ABOUT YOU
+ - [https://www.aboutyou.hu](https://www.aboutyou.hu)
+ - date_published: 2024-09-17T20:28:31+00:00
+
+ ## ACE Telecom | Egyszerűen csak működik
+ - [https://acetelecom.hu](https://acetelecom.hu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home - Magyarország legnagyobb független digitális sales house-a
+ - [https://adaptivemedia.hu](https://adaptivemedia.hu)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## adomanyozz.hu
+ - [https://adomanyozz.hu](https://adomanyozz.hu)
+ - date_published: 2024-09-15T12:15:28.261594+00:00
+
+ ## Adózóna - Adó, könyvelés, társadalombiztosítás, munkajog és cégjog egy helyen - jogszabályok, törvénymagyarázatok, kérdések és válaszok, kalkulátorok
+ - [https://adozona.hu](https://adozona.hu)
+ - date_published: 2024-05-13T03:08:40.744715+00:00
+
+ ## Ads Interactive Media Group - a Google Certified Partner
+ - [https://adsinteractive.hu](https://adsinteractive.hu)
+ - date_published: 2024-06-25T21:30:33.204114+00:00
+
+ ## Home
+ - [https://advancedweb.hu](https://advancedweb.hu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Agronetto Magyarország – a mezőgazdasági gépek és alkatrészek online piactere
+ - [https://agronetto.hu](https://agronetto.hu)
+ - date_published: 2024-08-11T15:39:52.760825+00:00
+
+ ## Antenna Hungária
+ - [https://www.ahrt.hu](https://www.ahrt.hu)
+ - date_published: 2024-09-04T04:21:55.188684+00:00
+
+ ## Airbnb | Nyaralók, víkendházak, strandközeli házak és egyebek
+ - [https://airbnb.hu](https://airbnb.hu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Akadémiai Kiadó
+ - [https://akademiai.hu](https://akademiai.hu)
+ - date_published: 2024-05-09T06:32:24.559810+00:00
+
+ ## Redirecting...
+ - [https://web.akademiai.hu](https://web.akademiai.hu)
+ - date_published: 2024-05-09T06:32:19.593235+00:00
+
+ ## Sportautó, SUV és crossover | Alfa Romeo
+ - [https://www.alfaromeo.hu](https://www.alfaromeo.hu)
+ - date_published: 2024-06-18T09:40:28+00:00
+
+ ## Alza.hu – Kényelmes és biztonságos vásárlás | Alza.hu
+ - [https://www.alza.hu](https://www.alza.hu)
+ - date_published: 2024-09-16T02:46:12.563783+00:00
+
+ ## Ambrits Tamás – fotógalériája
+ - [https://www.ambrits.hu](https://www.ambrits.hu)
+ - date_published: 2024-06-20T04:58:14.691009+00:00
+
+ ## amiga.hu
+ - [http://amiga.hu](http://amiga.hu)
+ - date_published: 2024-07-08T19:30:11+00:00
+
+ ## Apróhirdetés
+ - [http://apro.amiga.hu](http://apro.amiga.hu)
+ - date_published: 2024-07-08T19:12:21.304941+00:00
+
+ ## Index of /
+ - [http://amigamania.amigaspirit.hu](http://amigamania.amigaspirit.hu)
+ - date_published: 2024-07-08T19:13:27.177922+00:00
+ - tags: ['amiga mania']
+
+ ## amigaspirit.hu
+ - [http://amigaspirit.hu](http://amigaspirit.hu)
+ - date_published: 2023-12-11T18:55:28.039900+00:00
+ - tags: ['amiga']
+
+ ## Index of /
+ - [http://dh1.amigaspirit.hu](http://dh1.amigaspirit.hu)
+ - date_published: 2024-07-08T19:38:36.920187+00:00
+
+ ## amigaspirit.hu fórum
+ - [http://forum.amigaspirit.hu](http://forum.amigaspirit.hu)
+ - date_published: 2024-07-08T19:13:17.613118+00:00
+
+ ## Amiga Klub – amigaspirit.hu - pegasos.hu Wiki
+ - [http://klub.amigaspirit.hu](http://klub.amigaspirit.hu)
+ - date_published: 2022-03-07T02:38:01+00:00
+
+ ## amigaspirit.hu - pegasos.hu Wiki
+ - [http://wiki.amigaspirit.hu](http://wiki.amigaspirit.hu)
+ - date_published: 2022-03-07T02:38:01+00:00
+
+ ## AmigaVilag.hu | AmigaVilag.hu | Internetes blog. Magyar elektro art portál!
+ - [http://www.amigavilag.hu](http://www.amigavilag.hu)
+ - date_published: 2024-07-08T19:38:09.982125+00:00
+
+ ## Apowersoft - Multimédiás megoldások üzleti és mindennapi igényekre fejlesztve
+ - [https://www.apowersoft.hu](https://www.apowersoft.hu)
+ - date_published: 2024-06-23T16:06:03.364245+00:00
+
+ ## AQUA Webáruház - Számíthatsz ránk!
+ - [https://aqua.hu](https://aqua.hu)
+ - date_published: 2024-10-17T07:15:21.042500+00:00
+
+ ## Cloud Computing, PRO & VPS Servers, Storage & Backup | ArubaCloud.hu
+ - [https://www.arubacloud.hu](https://www.arubacloud.hu)
+ - date_published: 2024-10-21T10:01:58.469571+00:00
+
+ ## Árukereső.hu
+ - [https://www.arukereso.hu](https://www.arukereso.hu)
+ - date_published: 2024-09-16T02:19:27.136963+00:00
+
+ ## ÁruMánia műszaki webáruház - Műszaki cikkek, mobiltelefon, tablet, szerszám, szórakoztató elektronika
+ - [https://www.arumania.hu](https://www.arumania.hu)
+ - date_published: 2024-11-08T13:06:57.219558+00:00
+
+ ## Astronet.hu - Horoszkóp, Asztrológia, Ezotéria
+ - [https://www.astronet.hu](https://www.astronet.hu)
+ - date_published: 2024-09-04T04:21:15.605900+00:00
+
  ## Maintenance
  - [https://asvanytan.hu](https://asvanytan.hu)
  - date_published: 2023-08-16T12:46:04+00:00
@@ -3786,228 +4013,4 @@
  ## Homepage
  - [https://www.franklincovey.co.id](https://www.franklincovey.co.id)
  - date_published: 2023-02-02T00:00:00+00:00
-
- ## Rekrut Freelancer & Cari Pekerjaan Freelance Secara Online
- - [https://www.freelancer.co.id](https://www.freelancer.co.id)
- - date_published: 2024-06-16T12:00:48.181655+00:00
-
- ## Mainkan game gratis di Games.co.id! Bersiaplah, mulai!
- - [https://www.games.co.id](https://www.games.co.id)
- - date_published: 2024-07-20T02:43:37.043100+00:00
-
- ## Garmin Indonesia
- - [https://www.garmin.co.id](https://www.garmin.co.id)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Homepage - Garnier.com
- - [https://www.garnier.co.id](https://www.garnier.co.id)
- - date_published: 2024-10-30T17:02:37.685900+00:00
-
- ## GEOHUB - Geo-Intelligent Big Data Centre
- - [https://geohub.co.id](https://geohub.co.id)
- - date_published: 2024-09-06T08:00:18+00:00
-
- ## Permainan perempuan online gratis di girlsgogames.co.id
- - [https://www.girlsgogames.co.id](https://www.girlsgogames.co.id)
- - date_published: 2024-07-20T02:43:25.996526+00:00
-
- ## Google
- - [https://google.co.id](https://google.co.id)
- - date_published: 2024-05-11T10:49:31.763436+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.co.id](https://maps.google.co.id)
- - date_published: 2024-07-20T07:37:17.267034+00:00
-
- ## Google Scholar
- - [https://scholar.google.co.id](https://scholar.google.co.id)
- - date_published: 2024-08-19T18:52:09.965895+00:00
-
- ## Home Page
- - [https://greatplacetowork.co.id](https://greatplacetowork.co.id)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Grid Story Factory - Content Marketing Agency Indonesia
- - [https://grid.co.id](https://grid.co.id)
- - date_published: 2024-10-14T22:58:24.761661+00:00
-
- ## Grid Voice
- - [https://gridvoice.co.id](https://gridvoice.co.id)
- - date_published: 2024-10-14T22:59:00.072299+00:00
-
- ## Home
- - [https://www.henkel.co.id](https://www.henkel.co.id)
- - date_published: 2024-10-18T20:17:10.880386+00:00
-
- ## Homepage
- - [https://www.hilti.co.id](https://www.hilti.co.id)
- - date_published: 2024-06-20T07:27:13.972434+00:00
-
- ## Masuk ke Hostinger
- - [https://auth.hostinger.co.id](https://auth.hostinger.co.id)
- - date_published: 2024-07-13T16:43:31.359540+00:00
-
- ## Hosting Pilihan Banyak Fitur | Onlinekan Website di Hostinger
- - [https://hostinger.co.id](https://hostinger.co.id)
- - date_published: 2024-05-11T07:50:36.130808+00:00
-
- ## Hostinger Help Center
- - [https://support.hostinger.co.id](https://support.hostinger.co.id)
- - date_published: 2024-07-13T16:43:35.861229+00:00
-
- ## Selamat Datang di HotFrog
- - [https://www.hotfrog.co.id](https://www.hotfrog.co.id)
- - date_published: 2024-06-29T16:52:15.521971+00:00
-
- ## Kartu Kredit, Deposito, Pinjaman, Investasi, dan lainnya | HSBC Indonesia
- - [https://www.hsbc.co.id](https://www.hsbc.co.id)
- - date_published: 2024-08-19T09:17:31.175885+00:00
-
- ## Pelatihan dan sertifikasi microsoft office gratis
- - [https://iblu-academy.co.id](https://iblu-academy.co.id)
- - date_published: 2024-06-19T18:36:27.342493+00:00
-
- ## International Business Times Indonesia
- - [https://www.ibtimes.co.id](https://www.ibtimes.co.id)
- - date_published: 2024-06-30T06:56:46.225113+00:00
-
- ## energy chains, Bearing Polimer, Kabel Fleks, &amp; Slide Linear
- - [https://www.igus.co.id](https://www.igus.co.id)
- - date_published: 2024-08-06T23:13:27.651190+00:00
-
- ## IKEA Indonesia - Jual Perabot Rumah & Furnitur Kantor Online
- - [https://www.ikea.co.id](https://www.ikea.co.id)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## IMBEX SERIES
- - [http://www.imbex.co.id](http://www.imbex.co.id)
- - date_published: 2024-06-23T11:01:36+00:00
-
- ## Intel | Solusi Pusat Data, IoT, dan Inovasi PC
- - [https://intel.co.id](https://intel.co.id)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Login | E-Paper Jawa Pos
- - [https://newepaper.jawapos.co.id](https://newepaper.jawapos.co.id)
- - date_published: 2024-06-23T20:46:33.463853+00:00
-
- ## JLL Indonesia | Commercial Real Estate | Investment Management
- - [https://www.jll.co.id](https://www.jll.co.id)
- - date_published: 2024-10-30T21:39:43.828550+00:00
-
- ## Lowongan kerja di Indonesia - Cari Lowongan Kerja - Karir | Jobstreet
- - [https://www.jobstreet.co.id](https://www.jobstreet.co.id)
- - date_published: 2024-07-12T18:29:33.906476+00:00
-
- ## J.P. Morgan Indonesia | About us
- - [https://www.jpmorgan.co.id](https://www.jpmorgan.co.id)
- - date_published: 2024-06-14T19:33:29+00:00
-
- ## KASKUS - Berbagi Hobi, Berkomunitas
- - [http://www.kaskus.co.id](http://www.kaskus.co.id)
- - date_published: 2024-06-30T04:34:41.565963+00:00
-
- ## Konecranes
- - [https://www.konecranes.co.id](https://www.konecranes.co.id)
- - date_published: 2024-06-20T22:58:25.801579+00:00
-
- ## labamu.co.id | Aplikasi Kasir untuk umkm
- - [https://labamu.co.id](https://labamu.co.id)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Rumah Dijual, Sewa Apartemen, Jual Tanah Lamudi Indonesia
- - [https://www.lamudi.co.id](https://www.lamudi.co.id)
- - date_published: 2024-06-20T17:46:42.591715+00:00
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover Indonesia
- - [https://www.landrover.co.id](https://www.landrover.co.id)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Seller Center
- - [https://sellercenter.lazada.co.id](https://sellercenter.lazada.co.id)
- - date_published: 2024-06-16T06:38:41.046460+00:00
-
- ## Lazada University
- - [https://university.lazada.co.id](https://university.lazada.co.id)
- - date_published: 2024-09-26T12:51:05.983500+00:00
-
- ## Manulife Indonesia
- - [http://www.manulife.co.id](http://www.manulife.co.id)
- - date_published: 2024-10-07T11:26:28+00:00
-
- ## Homepage
- - [https://www.manulifeim.co.id](https://www.manulifeim.co.id)
- - date_published: 2024-10-07T19:17:30+00:00
-
- ## Events on Megatix
- - [https://megatix.co.id](https://megatix.co.id)
- - date_published: 2024-07-14T14:08:31.421011+00:00
-
- ## Xiaomi Indonesia
- - [https://www.mi.co.id](https://www.mi.co.id)
- - date_published: 2024-07-08T10:34:40.292973+00:00
-
- ## Assistierte Fortpflanzung von Tieren | Minitube
- - [https://minitube.co.id](https://minitube.co.id)
- - date_published: 2024-08-18T12:22:36.091388+00:00
-
- ## Situs Resmi Mobil™ Indonesia
- - [https://www.mobil.co.id](https://www.mobil.co.id)
- - date_published: 2024-07-17T16:37:04.491168+00:00
-
- ## Mongabay.co.id
- - [http://mongabay.co.id](http://mongabay.co.id)
- - date_published: 2024-07-09T10:32:27.079836+00:00
-
- ## Electronic Components Distributor - Mouser Electronics Indonesia
- - [https://www.mouser.co.id](https://www.mouser.co.id)
- - date_published: 2024-07-01T20:54:44.943827+00:00
-
- ## Home | Nestlé Indonesia
- - [http://www.nestle.co.id](http://www.nestle.co.id)
- - date_published: 2024-09-14T21:03:46+00:00
-
- ## NOW! Bali Magazine | Discover Life on the Island
- - [https://nowbali.co.id](https://nowbali.co.id)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## NOW! Jakarta Life in the Capital
- - [http://www.nowjakarta.co.id](http://www.nowjakarta.co.id)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## CupangJP Login dan Daftar Link Alternatif Terbaru
- - [https://cupangjp.omiland.co.id](https://cupangjp.omiland.co.id)
- - date_published: 2023-12-04T03:24:53+00:00
-
- ## Robopragma Gratis Download Aplikasi Turbo Gampang Maxwin
- - [https://robopragma.omiland.co.id](https://robopragma.omiland.co.id)
- - date_published: 2023-12-04T03:24:53+00:00
-
- ## Attention Required! | Cloudflare
- - [https://rtp.omiland.co.id](https://rtp.omiland.co.id)
- - date_published: 2023-12-04T03:24:53+00:00
-
- ## Attention Required! | Cloudflare
- - [https://shop.omiland.co.id](https://shop.omiland.co.id)
- - date_published: 2023-12-04T03:24:53+00:00
-
- ## Game Online Gratis di CrazyGames | Main Sekarang!
- - [https://www.onlinegame.co.id](https://www.onlinegame.co.id)
- - date_published: 2024-07-04T15:50:09.149691+00:00
-
- ## Produk Rambut Untuk Semua Jenis Rambut. | Pantene | Pantene
- - [https://www.pantene.co.id](https://www.pantene.co.id)
- - date_published: 2024-10-24T07:08:40+00:00
-
- ## Permainan - Bermain game online gratis di permainan.co.id
- - [https://www.permainan.co.id](https://www.permainan.co.id)
- - date_published: 2024-07-20T02:44:21.036555+00:00
-
- ## Perumnas Career
- - [https://career.perumnas.co.id](https://career.perumnas.co.id)
- - date_published: 2024-09-10T13:00:39.403122+00:00
-
- ## Perum Perumnas - Hunian untuk Indonesia
- - [https://perumnas.co.id](https://perumnas.co.id)
- - date_published: 2024-06-12T01:48:12.922148+00:00
 

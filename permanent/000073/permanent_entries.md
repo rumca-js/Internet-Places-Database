@@ -1,3 +1,35 @@
+ ## Charlotte  Mecklenburg Crime Stoppers
+ - [http://charlottecrimestoppers.com](http://charlottecrimestoppers.com)
+ - date_published: 2024-06-29T01:40:04.474354+00:00
+
+ ## charlottedann.com
+ - [https://charlottedann.com](https://charlottedann.com)
+ - date_published: 2024-05-07T23:23:14.683119+00:00
+
+ ## Charlotte Eagles Soccer Club
+ - [http://www.charlotteeagles.com](http://www.charlotteeagles.com)
+ - date_published: 2024-07-09T23:00:20.442288+00:00
+
+ ## Charlotte Escape Rooms | Reviews of Escape Rooms in Charlotte
+ - [https://charlotteescaperooms.com](https://charlotteescaperooms.com)
+ - date_published: 2024-06-17T09:21:39.324600+00:00
+
+ ## The Fig Tree Restaurant - Charlotte, NC Fine Dining
+ - [https://charlottefigtree.com](https://charlottefigtree.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Charlotte Football Club
+ - [https://charlottefootballclub.com](https://charlottefootballclub.com)
+ - date_published: 2024-06-17T10:42:28.110959+00:00
+
+ ## Charlotte Independence Men’s Professional Soccer
+ - [https://www.charlotteindependence.com](https://www.charlotteindependence.com)
+ - date_published: 2024-07-09T23:01:27.630996+00:00
+
+ ## Charlotte NC Tours | Segway, Bike, Walking, & Ghost Tours
+ - [https://www.charlottenctours.com](https://www.charlottenctours.com)
+ - date_published: 2024-05-04T14:18:34.309718+00:00
+
  ## Charlotte Breaking News, Sports & Crime |  Charlotte Observer
  - [https://charlotteobserver.com](https://charlotteobserver.com)
  - date_published: 2024-05-08T04:50:43.980827+00:00
@@ -3995,38 +4027,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  - [https://chrisdermody.com](https://chrisdermody.com)
  - date_published: 2024-05-06T15:18:14.469530+00:00
  - tags: ['personal']
-
- ## Simple Analytics
- - [https://simple.chrisdermody.com](https://simple.chrisdermody.com)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Chris Done's Homepage
- - [http://chrisdone.com](http://chrisdone.com)
- - date_published: 2024-07-09T15:52:08+00:00
-
- ## Home | chris-dorst
- - [https://www.chrisdorst.com](https://www.chrisdorst.com)
- - date_published: 2024-08-10T23:15:26.069537+00:00
-
- ## Faraway, So Close
- - [https://chrisenns.com](https://chrisenns.com)
- - date_published: 2024-07-11T15:43:32.577669+00:00
- - tags: ['blog', 'personal']
-
- ## Faraway, So Micro
- - [https://microblog.chrisenns.com](https://microblog.chrisenns.com)
- - date_published: 2024-07-07T05:21:16+00:00
-
- ## The Chris Evans Files
- - [https://chrisevansfiles.com](https://chrisevansfiles.com)
- - date_published: 2024-09-04T02:46:21.999225+00:00
-
- ## chrisfenton.com – Home to a cunning artificer
- - [https://www.chrisfenton.com](https://www.chrisfenton.com)
- - date_published: 2024-07-06T12:16:50.511147+00:00
- - tags: ['personal']
-
- ## Chris Finazzo
- - [https://chrisfinazzo.com](https://chrisfinazzo.com)
- - date_published: 2024-08-08T12:46:14.202152+00:00
 

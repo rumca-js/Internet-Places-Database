@@ -1,3 +1,32 @@
+ ## The Maps and Geo Blog
+ - [https://ml4711.blogspot.com](https://ml4711.blogspot.com)
+ - date_published: 2024-07-11T14:26:04+00:00
+
+ ## Marko Lalic
+ - [http://mlalic.blogspot.com](http://mlalic.blogspot.com)
+ - date_published: 2024-02-20T17:51:26+00:00
+
+ ## Orange Crate Art
+ - [https://mleddy.blogspot.com](https://mleddy.blogspot.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## My Little World Of Dementia
+ - [http://mlwodementia.blogspot.com](http://mlwodementia.blogspot.com)
+ - date_published: 2024-03-13T14:29:54+00:00
+
+ ## Michael's Declarative Programming Blog
+ - [http://mmartedp.blogspot.com](http://mmartedp.blogspot.com)
+ - date_published: 2024-02-20T21:56:40+00:00
+
+ ## Musings of Michael McThrow
+ - [https://mmcthrow-musings.blogspot.com](https://mmcthrow-musings.blogspot.com)
+ - date_published: 2023-10-25T09:10:01.509820+00:00
+ - tags: ['personal']
+
+ ## M.M.E.F.  News
+ - [http://mmefnz.blogspot.com](http://mmefnz.blogspot.com)
+ - date_published: 2024-10-08T04:51:58+00:00
+
  ## Mikkelsen and 3D Graphics
  - [http://mmikkelsen3d.blogspot.com](http://mmikkelsen3d.blogspot.com)
  - date_published: 2024-02-20T20:24:49+00:00
@@ -3985,32 +4014,4 @@
  ## The Nature of Robertson
  - [http://peonyden.blogspot.com](http://peonyden.blogspot.com)
  - date_published: 2024-10-19T05:17:18.460165+00:00
-
- ## Right Wing Extreme
- - [http://peoplesrepublicofamerica.blogspot.com](http://peoplesrepublicofamerica.blogspot.com)
- - date_published: 2024-03-06T20:03:29+00:00
-
- ## People them with Monsters
- - [http://peoplethemwithmonsters.blogspot.com](http://peoplethemwithmonsters.blogspot.com)
- - date_published: 2024-07-13T06:05:28+00:00
-
- ## Peplers In Rye
- - [http://peplers.blogspot.com](http://peplers.blogspot.com)
- - date_published: 2024-05-10T20:37:09+00:00
-
- ## Putz Blog
- - [http://peputz.blogspot.com](http://peputz.blogspot.com)
- - date_published: 2024-06-25T09:03:13+00:00
-
- ## Great Expectations for a Mad World
- - [http://peraltalxscl.blogspot.com](http://peraltalxscl.blogspot.com)
- - date_published: 2024-10-21T18:32:21.091259+00:00
-
- ## Adrian Cockcroft's Blog
- - [https://perfcap.blogspot.com](https://perfcap.blogspot.com)
- - date_published: 2024-07-17T05:54:05+00:00
-
- ## Performance Juridique
- - [http://performancejuridique.blogspot.com](http://performancejuridique.blogspot.com)
- - date_published: 2024-03-22T00:56:53+00:00
 

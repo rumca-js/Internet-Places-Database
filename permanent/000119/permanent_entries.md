@@ -1,3 +1,87 @@
+ ## Hotel Western Hotel Major Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-major.hotels-lombardy.com](http://best-western-hotel-major.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:02:47.788895+00:00
+
+ ## Hotel Master Brescia - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-master.hotels-lombardy.com](http://best-western-hotel-master.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:39:14.466954+00:00
+
+ ## Hotel Blaise & Francis Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-milton-milano.hotels-lombardy.com](http://best-western-hotel-milton-milano.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:17:27.850137+00:00
+
+ ## Hotel Western Hotel Piemontese Bergamo - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-piemontese.hotels-lombardy.com](http://best-western-hotel-piemontese.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:18:06.947056+00:00
+
+ ## Hotel Western Mirage Hotel Fiera Paderno Dugnano - new 2024 prices, reviews, book now
+ - [http://best-western-mirage-hotel-fiera.hotels-lombardy.com](http://best-western-mirage-hotel-fiera.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:56:01.275771+00:00
+
+ ## Hotel Unahotels Galles Milan - new 2024 prices, reviews, book now
+ - [http://best-western-plus-hotel-galles.hotels-lombardy.com](http://best-western-plus-hotel-galles.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:44:50.185424+00:00
+
+ ## Hotel Cappello D'Oro Bergamo - new 2024 prices, reviews, book now
+ - [http://best-western-premier-cappello-doro.hotels-lombardy.com](http://best-western-premier-cappello-doro.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:40:30.915958+00:00
+
+ ## Hotel Bianca Maria Palace Milan - new 2024 prices, reviews, book now
+ - [http://bianca-maria-palace.hotels-lombardy.com](http://bianca-maria-palace.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:08:57.187594+00:00
+
+ ## Hotel Bianco Primaluna - new 2024 prices, reviews, book now
+ - [http://bianco-hotel.hotels-lombardy.com](http://bianco-hotel.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:00:55.710108+00:00
+
+ ## Hotel Alevic Hotel Sirmione - new 2024 prices, reviews, book now
+ - [http://blu-lake-sirmione-hotel.hotels-lombardy.com](http://blu-lake-sirmione-hotel.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:24:41.591063+00:00
+
+ ## Apartment Bmore Duomo - Luxury Apartments Near Duomo Milan - new 2024 prices, reviews, book now
+ - [http://bmore-apartments.hotels-lombardy.com](http://bmore-apartments.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:40:05.944641+00:00
+
+ ## Hotel Bolzano Milan - new 2024 prices, reviews, book now
+ - [http://bolzano.hotels-lombardy.com](http://bolzano.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:39:31.437600+00:00
+
+ ## Hotel Borgo Le Terrazze Bellagio - new 2024 prices, reviews, book now
+ - [http://borgo-le-terrazze.hotels-lombardy.com](http://borgo-le-terrazze.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:38:58.085119+00:00
+
+ ## Hotel Borgovico Como - new 2024 prices, reviews, book now
+ - [http://borgovico.hotels-lombardy.com](http://borgovico.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:30:11.915493+00:00
+
+ ## Hotel Palazzo Matteotti Milan - new 2024 prices, reviews, book now
+ - [http://boscolo-milano-autograph-collection.hotels-lombardy.com](http://boscolo-milano-autograph-collection.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:02:23.936576+00:00
+
+ ## Hotel Martini 17 Milan - new 2024 prices, reviews, book now
+ - [http://boutique-hotel-martini-17.hotels-lombardy.com](http://boutique-hotel-martini-17.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:41:24.663832+00:00
+
+ ## Hotel Villa Dei Campi Gavardo - new 2024 prices, reviews, book now
+ - [http://boutique-hotel-villa-dei-campi.hotels-lombardy.com](http://boutique-hotel-villa-dei-campi.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:09:11.568449+00:00
+
+ ## Apartment Brera Milan - new 2024 prices, reviews, book now
+ - [http://brera-apartments-23.hotels-lombardy.com](http://brera-apartments-23.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:39:02.361737+00:00
+
+ ## Apartment Brera Apartments In San Fermo Milan - new 2024 prices, reviews, book now
+ - [http://brera-apartments.hotels-lombardy.com](http://brera-apartments.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:18:08.952020+00:00
+
+ ## Hotel Broletto Mantova - new 2024 prices, reviews, book now
+ - [http://broletto-lhotel-e-la-residenza.hotels-lombardy.com](http://broletto-lhotel-e-la-residenza.hotels-lombardy.com)
+ - date_published: 2024-06-29T13:00:11.271236+00:00
+
+ ## Hotel Brunelleschi Milan - new 2024 prices, reviews, book now
+ - [http://brunelleschi-milan.hotels-lombardy.com](http://brunelleschi-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:55:56.165219+00:00
+
  ## Hotel Buenos Aires Milan - new 2024 prices, reviews, book now
  - [http://buenos-aires-hotel-milan.hotels-lombardy.com](http://buenos-aires-hotel-milan.hotels-lombardy.com)
  - date_published: 2024-06-29T13:08:35.806036+00:00
@@ -3913,88 +3997,4 @@
  ## HOTEL HILTON LONDON KENSINGTON | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £102
  - [https://hilton-kensington.hotels-of-london.com](https://hilton-kensington.hotels-of-london.com)
  - date_published: 2024-10-16T12:34:44.702870+00:00
-
- ## HOTEL HILTON LONDON METROPOLE | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £121
- - [https://hilton-metropole.hotels-of-london.com](https://hilton-metropole.hotels-of-london.com)
- - date_published: 2024-10-16T12:40:28.180658+00:00
-
- ## HOTEL HILTON LONDON OLYMPIA | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £233
- - [https://hilton-olympia.hotels-of-london.com](https://hilton-olympia.hotels-of-london.com)
- - date_published: 2024-10-16T12:45:29.908981+00:00
-
- ## HOTEL HILTON LONDON WEMBLEY | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £173
- - [https://hilton-wembley.hotels-of-london.com](https://hilton-wembley.hotels-of-london.com)
- - date_published: 2024-10-16T12:38:36.145444+00:00
-
- ## HOLIDAY INN EXPRESS LONDON CITY | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £200
- - [https://holiday-inn-express-city.hotels-of-london.com](https://holiday-inn-express-city.hotels-of-london.com)
- - date_published: 2024-10-16T12:26:53.032133+00:00
-
- ## HOLIDAY INN LONDON - KENSINGTON HIGH ST. | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £116
- - [https://holiday-inn-kensington.hotels-of-london.com](https://holiday-inn-kensington.hotels-of-london.com)
- - date_published: 2024-10-16T12:38:52.879777+00:00
-
- ## HOLIDAY INN LONDON WEST | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £165
- - [https://holiday-inn-west.hotels-of-london.com](https://holiday-inn-west.hotels-of-london.com)
- - date_published: 2024-10-16T12:30:33.923477+00:00
-
- ## ** HOTEL 65, LONDON **
- - [https://hotel-65-london.hotels-of-london.com](https://hotel-65-london.hotels-of-london.com)
- - date_published: 2024-10-16T12:43:19.742783+00:00
-
- ## HOTEL LONDON HOUSE | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £1225
- - [https://house.hotels-of-london.com](https://house.hotels-of-london.com)
- - date_published: 2024-10-16T12:43:30.711924+00:00
-
- ## HOTEL HOWARD WINCHESTER | ⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £135
- - [https://howard-winchester.hotels-of-london.com](https://howard-winchester.hotels-of-london.com)
- - date_published: 2024-10-16T12:45:25.306861+00:00
-
- ## HOTEL HOXTON SHOREDITCH | ⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £280
- - [https://hoxton.hotels-of-london.com](https://hoxton.hotels-of-london.com)
- - date_published: 2024-10-16T12:31:05.024359+00:00
-
- ## **** HOTEL HYATT PLACE LONDON CITY EAST, LONDON ****
- - [https://hyatt-place-city-east.hotels-of-london.com](https://hyatt-place-city-east.hotels-of-london.com)
- - date_published: 2024-10-16T12:29:19.295613+00:00
-
- ## HOTEL IBIS BUDGET LONDON HOUNSLOW | ⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £66
- - [https://ibis-budget-hounslow.hotels-of-london.com](https://ibis-budget-hounslow.hotels-of-london.com)
- - date_published: 2024-10-16T12:41:57.998032+00:00
-
- ## *** HOTEL IBIS BUDGET LONDON HEATHROW CENTRAL, HOUNSLOW ***
- - [https://ibis-budget-london-heathrow-central.hotels-of-london.com](https://ibis-budget-london-heathrow-central.hotels-of-london.com)
- - date_published: 2024-10-16T12:33:21.849751+00:00
-
- ## HOTEL IBIS BUDGET LONDON BARKING | ⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £46
- - [https://ibis-budget-london.hotels-of-london.com](https://ibis-budget-london.hotels-of-london.com)
- - date_published: 2024-10-16T12:34:01.532237+00:00
-
- ## HOTEL IBIS LONDON CITY | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £197
- - [https://ibis-city.hotels-of-london.com](https://ibis-city.hotels-of-london.com)
- - date_published: 2024-10-16T12:29:52.996797+00:00
-
- ## HOTEL IBIS LONDON EARLS COURT | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £152
- - [https://ibis-earls-court.hotels-of-london.com](https://ibis-earls-court.hotels-of-london.com)
- - date_published: 2024-10-16T12:32:08.317172+00:00
-
- ## HOTEL IBIS LONDON HEATHROW AIRPORT | ⋆⋆⋆ | HILLINGDON, UNITED KINGDOM | SEASON DEALS FROM £82
- - [https://ibis-london-heathrow-airport.hotels-of-london.com](https://ibis-london-heathrow-airport.hotels-of-london.com)
- - date_published: 2024-10-16T12:42:30.290937+00:00
-
- ## HOTEL IBIS LONDON SHEPHERDS BUSH - HAMMERSMITH | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £166
- - [https://ibis-shepherds-bush.hotels-of-london.com](https://ibis-shepherds-bush.hotels-of-london.com)
- - date_published: 2024-10-16T12:33:25.207132+00:00
-
- ## HOTEL IBIS LONDON WEMBLEY | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £101
- - [https://ibis-wembley.hotels-of-london.com](https://ibis-wembley.hotels-of-london.com)
- - date_published: 2024-10-16T12:27:07.856294+00:00
-
- ## HOTEL INTERCONTINENTAL LONDON PARK LANE | ⋆⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £734
- - [https://intercontinental-park-lane.hotels-of-london.com](https://intercontinental-park-lane.hotels-of-london.com)
- - date_published: 2024-10-16T12:31:01.577226+00:00
-
- ## HOTEL INTERCONTINENTAL LONDON - THE O2 | ⋆⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £507
- - [https://intercontinental-the-o2.hotels-of-london.com](https://intercontinental-the-o2.hotels-of-london.com)
- - date_published: 2024-10-16T12:45:39.771869+00:00
 

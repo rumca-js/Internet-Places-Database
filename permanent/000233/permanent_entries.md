@@ -1,3 +1,197 @@
+ ## The It Blog
+ - [http://www.uwithelpdesk.wordpress.com](http://www.uwithelpdesk.wordpress.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Victors Corner Blog
+ - [http://www.victorscornerdotorg.wordpress.com](http://www.victorscornerdotorg.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Linguistic Ethnography Lab
+ - [http://www.virtuallinguisticethnographylab.wordpress.com](http://www.virtuallinguisticethnographylab.wordpress.com)
+ - date_published: 2024-07-02T08:51:07.575154+00:00
+
+ ## VotingFemale
+ - [http://www.votingfemale.wordpress.com](http://www.votingfemale.wordpress.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## (no title)
+ - [http://www.wildeonmyside.wordpress.com](http://www.wildeonmyside.wordpress.com)
+ - date_published: 2024-09-08T00:00:00+00:00
+
+ ## Wyrdstone Forge
+ - [https://wyrdstoneforge.wordpress.com](https://wyrdstoneforge.wordpress.com)
+ - date_published: 2024-10-26T17:25:28.095892+00:00
+
+ ## Wyre Forest Green Party
+ - [http://wyreforestgreenparty.wordpress.com](http://wyreforestgreenparty.wordpress.com)
+ - date_published: 2024-10-21T12:49:00.483240+00:00
+
+ ## XDC
+ - [https://x86dc.wordpress.com](https://x86dc.wordpress.com)
+ - date_published: 2024-05-07T15:34:46.908993+00:00
+ - tags: ['xdc']
+
+ ## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
+ - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
+ - date_published: 2023-10-25T18:18:27.707634+00:00
+
+ ## xcorr: AI & neuro
+ - [https://xcorr.wordpress.com](https://xcorr.wordpress.com)
+ - date_published: 2024-06-26T22:32:10.064041+00:00
+
+ ## Φωτεινή Παντογνώστρα
+ - [https://xefteri.wordpress.com](https://xefteri.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Xena
+ - [https://xenaproject.wordpress.com](https://xenaproject.wordpress.com)
+ - date_published: 2024-06-30T09:09:18.707608+00:00
+
+ ## Horrorshow Miniatures
+ - [https://xenite.wordpress.com](https://xenite.wordpress.com)
+ - date_published: 2024-10-26T21:32:08.578771+00:00
+
+ ## Xi'an's Og
+ - [https://xianblog.wordpress.com](https://xianblog.wordpress.com)
+ - date_published: 2024-05-07T15:26:15.896556+00:00
+
+ ## Xio's Xcribble
+ - [https://xiomaro.wordpress.com](https://xiomaro.wordpress.com)
+ - date_published: 2024-05-07T16:55:54.063718+00:00
+
+ ## XIX век
+ - [http://xixvek.wordpress.com](http://xixvek.wordpress.com)
+ - date_published: 2024-06-21T19:54:50.592851+00:00
+
+ ## xmonad
+ - [https://xmonad.wordpress.com](https://xmonad.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Private Site
+ - [https://xn3art.wordpress.com](https://xn3art.wordpress.com)
+ - date_published: 2024-09-19T22:50:28.856289+00:00
+
+ ## xorl %eax, %eax
+ - [http://xorl.wordpress.com](http://xorl.wordpress.com)
+ - date_published: 2024-10-16T04:36:29.077227+00:00
+
+ ## XOR's Hammer
+ - [http://xorshammer.wordpress.com](http://xorshammer.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## /// Blog
+ - [https://xrayfm.wordpress.com](https://xrayfm.wordpress.com)
+ - date_published: 2024-08-07T11:38:47.124949+00:00
+
+ ## El arte es para tod@s pero sólo una élite lo sabe
+ - [http://xuxiart.wordpress.com](http://xuxiart.wordpress.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Yet another blogging mathematician...
+ - [http://yabm.wordpress.com](http://yabm.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## [yaderv-blog]
+ - [https://yaderv.wordpress.com](https://yaderv.wordpress.com)
+ - date_published: 2024-07-10T03:05:56.807097+00:00
+
+ ## The Yaghnobi
+ - [http://yaghnobi.wordpress.com](http://yaghnobi.wordpress.com)
+ - date_published: 2024-07-02T09:14:31.687963+00:00
+
+ ## Sergei Yakovenko's blog: on Math and Teaching
+ - [https://yakovenko.wordpress.com](https://yakovenko.wordpress.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Young Adult Lit Reviews
+ - [http://yalitreader.wordpress.com](http://yalitreader.wordpress.com)
+ - date_published: 2024-07-11T19:37:48+00:00
+
+ ## The Logical Place
+ - [https://yandoo.wordpress.com](https://yandoo.wordpress.com)
+ - date_published: 2024-10-31T22:52:11.240860+00:00
+
+ ## Le blog de Yannick Rumpala
+ - [http://yannickrumpala.wordpress.com](http://yannickrumpala.wordpress.com)
+ - date_published: 2024-08-06T05:31:47.749196+00:00
+
+ ## I Woke Up In A Strange Place
+ - [https://yannisparissis.wordpress.com](https://yannisparissis.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Yard Sale of the Mind
+ - [https://yardsaleofthemind.wordpress.com](https://yardsaleofthemind.wordpress.com)
+ - date_published: 2024-08-19T09:41:18+00:00
+
+ ## Yearly Cider
+ - [https://yearlycider.wordpress.com](https://yearlycider.wordpress.com)
+ - date_published: 2024-10-21T13:39:38.804622+00:00
+
+ ## Outside In View of Uncommon Bostonian
+ - [http://yechristian.wordpress.com](http://yechristian.wordpress.com)
+ - date_published: 2024-09-03T23:00:23.804225+00:00
+
+ ## Yellingrosa Weblog
+ - [http://yellingrosa.wordpress.com](http://yellingrosa.wordpress.com)
+ - date_published: 2024-07-16T10:34:58+00:00
+
+ ## (no title)
+ - [http://yesmeansyesblog.wordpress.com](http://yesmeansyesblog.wordpress.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Yggdrasill and the Tortoise
+ - [http://yggdrasilltortoise.wordpress.com](http://yggdrasilltortoise.wordpress.com)
+ - date_published: 2024-06-30T08:55:26.487196+00:00
+
+ ## Huseyin Yilmaz's Blog
+ - [https://yilmazhuseyin.wordpress.com](https://yilmazhuseyin.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Young World Inventors
+ - [https://yinventors.wordpress.com](https://yinventors.wordpress.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Yisheng's blog
+ - [https://yishenggong.wordpress.com](https://yishenggong.wordpress.com)
+ - date_published: 2024-05-07T18:32:17.698294+00:00
+ - tags: ['personal']
+
+ ## Yuvaraj Chesetti
+ - [https://ykchesetti.wordpress.com](https://ykchesetti.wordpress.com)
+ - date_published: 2024-06-28T12:40:20.102243+00:00
+
+ ## Sake White
+ - [https://ymarsakar.wordpress.com](https://ymarsakar.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## yo252yo
+ - [https://yo252yo.wordpress.com](https://yo252yo.wordpress.com)
+ - date_published: 2024-05-06T15:10:56.237195+00:00
+
+ ## Y o h a n c a
+ - [https://yohancacom.wordpress.com](https://yohancacom.wordpress.com)
+ - date_published: 2024-05-07T18:33:18.761437+00:00
+
+ ## Yokosuka Sasebo Japan
+ - [https://yokosukasasebojapan.wordpress.com](https://yokosukasasebojapan.wordpress.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Yo Mama For Obama
+ - [http://yomamaforobama.wordpress.com](http://yomamaforobama.wordpress.com)
+ - date_published: 2024-06-27T06:47:51.616541+00:00
+
+ ## Alternate Seat of TYR
+ - [https://yorksranter.wordpress.com](https://yorksranter.wordpress.com)
+ - date_published: 2024-06-08T11:35:20.904067+00:00
+
+ ## Yorkwargamer's Blog
+ - [http://yorkwargamer.wordpress.com](http://yorkwargamer.wordpress.com)
+ - date_published: 2024-10-26T21:36:08.636461+00:00
+
+ ## "You Might as Well Read"
+ - [http://youmightaswellreadcom.wordpress.com](http://youmightaswellreadcom.wordpress.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
  ## يونس بن عمارة
  - [https://younesleeyoungae.wordpress.com](https://younesleeyoungae.wordpress.com)
  - date_published: 2024-06-23T07:55:21+00:00
@@ -3821,196 +4015,4 @@
  ## Home (Elementor)
  - [https://chaffinluhana.wpenginepowered.com](https://chaffinluhana.wpenginepowered.com)
  - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home & Garden Information Center | Clemson Cooperative Extension |  Clemson University, South Carolina
- - [https://clemsonhgic.wpenginepowered.com](https://clemsonhgic.wpenginepowered.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## ClimeCo - Buy Carbon Offsets | Plastic Offsets
- - [https://climecoshop.wpenginepowered.com](https://climecoshop.wpenginepowered.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Collaborative Nonprofit Conference | Presented by Classy from GoFundMe
- - [https://collab2024.wpenginepowered.com](https://collab2024.wpenginepowered.com)
- - date_published: 2024-10-29T05:28:37.994547+00:00
-
- ## Column - Software for Legal Notices | Obits | Classifieds
- - [https://columnnewstg.wpenginepowered.com](https://columnnewstg.wpenginepowered.com)
- - date_published: 2024-09-18T04:45:43.868913+00:00
-
- ## Concurrency Deep Dives – Master the fundamentals of concurrency
- - [https://concurrencydee.wpenginepowered.com](https://concurrencydee.wpenginepowered.com)
- - date_published: 2024-07-03T10:20:22.276626+00:00
-
- ## I, Cringely
- - [https://cringely.wpenginepowered.com](https://cringely.wpenginepowered.com)
- - date_published: 2024-05-08T06:58:50.672541+00:00
-
- ## CyberPunks.com — High-Tech Low-Life
- - [http://cyberpunksnew.wpenginepowered.com](http://cyberpunksnew.wpenginepowered.com)
- - date_published: 2024-10-22T02:19:15.025724+00:00
-
- ## Casino zonder Cruks 2024 - Gokken zonder Cruks Registratie
- - [https://czccomstg.wpenginepowered.com](https://czccomstg.wpenginepowered.com)
- - date_published: 2024-10-13T07:53:35.923363+00:00
-
- ## Dando - Coaching CEOs the Mindsets + Frameworks to Succeed
- - [https://dando.wpenginepowered.com](https://dando.wpenginepowered.com)
- - date_published: 2020-08-26T20:47:39+00:00
-
- ## Democracy Journal
- - [https://democracyjourn.wpenginepowered.com](https://democracyjourn.wpenginepowered.com)
- - date_published: 2024-07-14T13:43:33.451722+00:00
-
- ## Document Journal
- - [https://documentonline.wpenginepowered.com](https://documentonline.wpenginepowered.com)
- - date_published: 2024-05-01T05:44:15.611803+00:00
-
- ## Home - DogHouse Systems
- - [https://doghousesystem.wpenginepowered.com](https://doghousesystem.wpenginepowered.com)
- - date_published: 2024-10-27T19:13:06.889798+00:00
-
- ## Give to the Campaign for a New Nature Museum
- - [https://dpn1.wpenginepowered.com](https://dpn1.wpenginepowered.com)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## AI Copilot Digital Summit 2024
- - [https://dscdigitalsumm.wpenginepowered.com](https://dscdigitalsumm.wpenginepowered.com)
- - date_published: 2024-09-16T01:07:02.566257+00:00
-
- ## The Official Home of Ecover | Join Our Revolution
- - [https://ecoverproducts.wpenginepowered.com](https://ecoverproducts.wpenginepowered.com)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## The National Task Force on Election Crises |
- - [https://electiontaskfo.wpenginepowered.com](https://electiontaskfo.wpenginepowered.com)
- - date_published: 2024-09-16T21:02:21.952575+00:00
-
- ## Element5 | Brand Creation and Management Agency
- - [https://element5digit.wpenginepowered.com](https://element5digit.wpenginepowered.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Engineering.com
- - [https://eng24dev10link.wpenginepowered.com](https://eng24dev10link.wpenginepowered.com)
- - date_published: 2024-09-05T22:38:49.218619+00:00
-
- ## July 2024 | Epoché Magazine
- - [https://epochemagazine.wpenginepowered.com](https://epochemagazine.wpenginepowered.com)
- - date_published: 2024-08-18T19:31:15.553914+00:00
-
- ## Ettus Research - The leader in Software Defined Radio (SDR)
- - [https://ettus.wpenginepowered.com](https://ettus.wpenginepowered.com)
- - date_published: 2024-08-05T23:44:40.629288+00:00
-
- ## Europa Science
- - [https://europascience.wpenginepowered.com](https://europascience.wpenginepowered.com)
- - date_published: 2024-08-06T11:09:53.975146+00:00
-
- ## Exodus - ExoClub Delta 8 + Mushroom + 7-Hydroxy + THCA Flower
- - [https://exoclubprod.wpenginepowered.com](https://exoclubprod.wpenginepowered.com)
- - date_published: 2023-12-19T23:16:45+00:00
-
- ## Homepage
- - [https://exponentiistg.wpenginepowered.com](https://exponentiistg.wpenginepowered.com)
- - date_published: 2024-09-02T13:03:39.114605+00:00
-
- ## Food Bank For New York City | One Mission. Five Boroughs. Feed All.
- - [https://fbnyc.wpenginepowered.com](https://fbnyc.wpenginepowered.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Fedora Community Blog
- - [https://fedoracom.wpenginepowered.com](https://fedoracom.wpenginepowered.com)
- - date_published: 2024-07-09T07:13:33.862426+00:00
-
- ## FinCon 2024: Atlanta, October 23-26, 2024
- - [https://finconexpo.wpenginepowered.com](https://finconexpo.wpenginepowered.com)
- - date_published: 2024-06-19T23:07:14.017079+00:00
-
- ## Frequency Podcast Network: Podcasts for and by Canadians
- - [https://frequencycast.wpenginepowered.com](https://frequencycast.wpenginepowered.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Gadling
- - [https://gadling.wpenginepowered.com](https://gadling.wpenginepowered.com)
- - date_published: 2024-08-08T17:38:37.586253+00:00
-
- ## Garrick van Buren
- - [https://garrickvanbure.wpenginepowered.com](https://garrickvanbure.wpenginepowered.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Professional Translation Services by Gengo - Gengo
- - [https://gengomarketing.wpenginepowered.com](https://gengomarketing.wpenginepowered.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Webcasting Solutions that Inspire & Connect Audiences | GlobalMeet
- - [https://globalmeet.wpenginepowered.com](https://globalmeet.wpenginepowered.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Home | Half Acre Cycling
- - [https://halfacrecyclin.wpenginepowered.com](https://halfacrecyclin.wpenginepowered.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Handheld HQ
- - [https://handheldhq.wpenginepowered.com](https://handheldhq.wpenginepowered.com)
- - date_published: 2023-10-23T22:48:49+00:00
-
- ## Home Along The Way | A story of slow travel with four kids
- - [https://hatw.wpenginepowered.com](https://hatw.wpenginepowered.com)
- - date_published: 2024-08-18T08:49:50.478152+00:00
-
- ## Home - Helen Sanderson Associates
- - [https://helensanderson.wpenginepowered.com](https://helensanderson.wpenginepowered.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## AI-First Customer Service Platform | Helpshift
- - [https://helpshift2.wpenginepowered.com](https://helpshift2.wpenginepowered.com)
- - date_published: 2024-02-28T11:43:06+00:00
-
- ## The Institute for Human Ecology
- - [https://ihe.wpenginepowered.com](https://ihe.wpenginepowered.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## INFLUENCE AT WORK | Dr. Robert Cialdini Influence Training & Keynotes
- - [https://influenceatwor.wpenginepowered.com](https://influenceatwor.wpenginepowered.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Helping Creative CEOs & Founders Scale Without Burnout
- - [https://jadahsellner.wpenginepowered.com](https://jadahsellner.wpenginepowered.com)
- - date_published: 2024-08-11T20:51:13.082141+00:00
-
- ## Keynote Speaker James Taylor - Inspiring Creative Minds
- - [https://jamestaylorme.wpenginepowered.com](https://jamestaylorme.wpenginepowered.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Home - Thin Difference
- - [https://jhmertz.wpenginepowered.com](https://jhmertz.wpenginepowered.com)
- - date_published: 2024-06-17T03:02:44.609849+00:00
-
- ## /home/jwf/
- - [https://jwfblog.wpenginepowered.com](https://jwfblog.wpenginepowered.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Leangains.com
- - [https://leangains.wpenginepowered.com](https://leangains.wpenginepowered.com)
- - date_published: 2024-07-12T22:43:39.860609+00:00
-
- ## Chiropractic Adjustment & Rehabilitation | LifeClinic
- - [https://lifeclinics.wpenginepowered.com](https://lifeclinics.wpenginepowered.com)
- - date_published: 2024-10-29T06:40:18.092269+00:00
-
- ## Liquid Robotics
- - [https://liquidrdev.wpenginepowered.com](https://liquidrdev.wpenginepowered.com)
- - date_published: 2024-09-05T22:23:53.734711+00:00
-
- ## Home - Mission Aviation Fellowship
- - [https://mafus.wpenginepowered.com](https://mafus.wpenginepowered.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Unknown Worlds - Home
- - [https://mainwebsite.wpenginepowered.com](https://mainwebsite.wpenginepowered.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Infobae – Mediakit
- - [https://mediakitibae.wpenginepowered.com](https://mediakitibae.wpenginepowered.com)
- - date_published: 2024-07-14T15:46:21.325292+00:00
 

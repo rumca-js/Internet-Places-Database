@@ -1,3 +1,13 @@
+ ## Archive ouverte UNIGE
+ - [https://archive-ouverte.unige.ch](https://archive-ouverte.unige.ch)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Interactive Historical Atlas of the Disciplines
+
+— University of Geneva
+ - [http://atlas-disciplines.unige.ch](http://atlas-disciplines.unige.ch)
+ - date_published: 2024-07-27T06:11:14.474134+00:00
+
  ## Apache2 Debian Default Page: It works
  - [https://auth-switch.eresearch.unige.ch](https://auth-switch.eresearch.unige.ch)
  - date_published: 2022-03-29T13:07:53+00:00
@@ -1125,6 +1135,10 @@
  ## good luck have fun
  - [https://glhf.chat](https://glhf.chat)
  - date_published: 2024-07-24T03:00:00.662415+00:00
+
+ ## Chattable
+ - [https://iframe.chat](https://iframe.chat)
+ - date_published: 2024-11-23T14:10:48+00:00
 
  ## Interviews Chat Blog | Ace Your Next Interview
  - [https://blog.interviews.chat](https://blog.interviews.chat)
@@ -4000,16 +4014,4 @@
  ## Nova Gadget House
  - [https://erpnext-demo.frappe.cloud](https://erpnext-demo.frappe.cloud)
  - date_published: 2024-10-31T04:19:35.999238+00:00
-
- ## The global leader in composable commerce
- - [https://www.frontastic.cloud](https://www.frontastic.cloud)
- - date_published: 2024-08-06T21:00:26.834782+00:00
-
- ## Fullfabric :: Grenoble Ecole de Management
- - [https://gem.fullfabric.cloud](https://gem.fullfabric.cloud)
- - date_published: 2024-07-03T05:33:58.980187+00:00
-
- ## FusionStore - Finastra Marketplace - Home
- - [https://www.fusionfabric.cloud](https://www.fusionfabric.cloud)
- - date_published: 2024-07-12T08:07:49.207251+00:00
 

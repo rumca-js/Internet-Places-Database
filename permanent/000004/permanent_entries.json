@@ -20590,7 +20590,7 @@
         "age": null,
         "album": null,
         "author": null,
-        "bookmarked": true,
+        "bookmarked": false,
         "comments": [],
         "date_published": "2023-10-25T11:46:29.675741+00:00",
         "description": "The official website for Filestash (formerly Nuage), the self-hosted web client for your data",

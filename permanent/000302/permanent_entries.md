@@ -1,3 +1,236 @@
+ ## Present AI Feedback
+ - [https://present-ai.canny.io](https://present-ai.canny.io)
+ - date_published: 2024-10-30T18:36:16.250017+00:00
+
+ ## Product Chats
+ - [https://productchats.canny.io](https://productchats.canny.io)
+ - date_published: 2024-06-16T01:15:51.436363+00:00
+
+ ## Canny
+ - [https://product-seen.canny.io](https://product-seen.canny.io)
+ - date_published: 2024-05-01T05:11:57.737604+00:00
+
+ ## Knit Feedback
+ - [https://promptknit.canny.io](https://promptknit.canny.io)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## ProtoPie Feedback
+ - [https://protopie.canny.io](https://protopie.canny.io)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Quadratic Feedback
+ - [https://quadratic.canny.io](https://quadratic.canny.io)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Quizgecko Feedback
+ - [https://quizgecko.canny.io](https://quizgecko.canny.io)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Raindrop.io Feedback
+ - [https://raindropio.canny.io](https://raindropio.canny.io)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Reader Feedback
+ - [https://reader.canny.io](https://reader.canny.io)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Recall Feedback
+ - [https://recall.canny.io](https://recall.canny.io)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## RecapioGPT Feedback
+ - [https://recapiogpt.canny.io](https://recapiogpt.canny.io)
+ - date_published: 2024-05-06T16:15:00.150762+00:00
+
+ ## Rec Room Feedback
+ - [https://recroom.canny.io](https://recroom.canny.io)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Wiki.js Feedback
+ - [https://requarks.canny.io](https://requarks.canny.io)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## RightJoin Feedback
+ - [https://rightjoin.canny.io](https://rightjoin.canny.io)
+ - date_published: 2024-10-30T20:52:16.603437+00:00
+
+ ## Sablier Feedback
+ - [https://sablier.canny.io](https://sablier.canny.io)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Saga Feedback
+ - [https://sagahq.canny.io](https://sagahq.canny.io)
+ - date_published: 2024-10-30T22:38:22.982148+00:00
+
+ ## SEOmatic Feedback
+ - [https://seomatic.canny.io](https://seomatic.canny.io)
+ - date_published: 2024-10-30T09:04:10.299468+00:00
+
+ ## Shipyard Feedback
+ - [https://shipyard.canny.io](https://shipyard.canny.io)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## SiteSpeakAI Feedback
+ - [https://sitespeakai.canny.io](https://sitespeakai.canny.io)
+ - date_published: 2024-10-22T20:47:34.578741+00:00
+
+ ## Skiff Feedback
+ - [https://skiff.canny.io](https://skiff.canny.io)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Socket Feedback
+ - [https://socketdev.canny.io](https://socketdev.canny.io)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Steady Feedback
+ - [https://steady.canny.io](https://steady.canny.io)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Sticker Mule Feedback
+ - [https://stickermule.canny.io](https://stickermule.canny.io)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Supermeme.ai Feedback
+ - [https://supermeme.canny.io](https://supermeme.canny.io)
+ - date_published: 2024-10-30T13:08:04.681215+00:00
+
+ ## The Dapp List Feedback
+ - [https://thedapplist.canny.io](https://thedapplist.canny.io)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## The Mentoring Club - Feature Requests Feedback
+ - [https://the-mentoring-club.canny.io](https://the-mentoring-club.canny.io)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Thread Creator Feedback
+ - [https://thread-creator.canny.io](https://thread-creator.canny.io)
+ - date_published: 2024-10-30T16:17:41.687972+00:00
+
+ ## Upbase Feedback
+ - [https://upbase.canny.io](https://upbase.canny.io)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Xata Feedback
+ - [https://xata.canny.io](https://xata.canny.io)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Canto.io - Layer-1 Blockchain
+ - [https://canto.io](https://canto.io)
+ - date_published: 2024-09-23T14:58:29.636574+00:00
+
+ ## Canvas Blog
+ - [https://blog.canvas.io](https://blog.canvas.io)
+ - date_published: 2024-06-19T15:08:28+00:00
+
+ ## The easiest way to get as-builts | Canvas
+ - [https://canvas.io](https://canvas.io)
+ - date_published: 2024-06-19T17:25:53.775308+00:00
+
+ ## The easiest way to get as-builts | Canvas
+ - [https://info.canvas.io](https://info.canvas.io)
+ - date_published: 2024-06-19T17:26:03.128758+00:00
+
+ ## Canvas FAQ
+ - [https://support.canvas.io](https://support.canvas.io)
+ - date_published: 2024-06-19T17:25:57.201373+00:00
+
+ ## Canza Finance
+ - [https://canza.io](https://canza.io)
+ - date_published: 2024-09-23T11:07:42.051695+00:00
+
+ ## Capacities – A studio for your mind
+ - [https://capacities.io](https://capacities.io)
+ - date_published: 2024-07-03T07:34:44+00:00
+
+ ## Capillaries
+ - [https://capillaries.io](https://capillaries.io)
+ - date_published: 2023-10-25T19:39:24.840675+00:00
+
+ ## Capitaine WP • Formations WordPress pour les développeurs
+ - [https://capitainewp.io](https://capitainewp.io)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Important update for LTSE Equity customers
+ - [https://captable.io](https://captable.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Reduce the carbon footprint of your marketing | Carbon.Crane
+ - [https://carboncrane.io](https://carboncrane.io)
+ - date_published: 2024-06-20T07:16:32.711327+00:00
+
+ ## Carbon Direct
+ - [https://auth.carbondirect.io](https://auth.carbondirect.io)
+ - date_published: 2024-09-25T17:15:54.851894+00:00
+
+ ## Cardanoscan - Cardano Explorer
+ - [https://cardanoscan.io](https://cardanoscan.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Console Cardanoscan
+ - [https://console.cardanoscan.io](https://console.cardanoscan.io)
+ - date_published: 2024-09-28T22:24:11.753294+00:00
+
+ ## Cardanoscan API documentation
+ - [https://docs.cardanoscan.io](https://docs.cardanoscan.io)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## PreProd Cardanoscan - Cardano Explorer
+ - [https://preprod.cardanoscan.io](https://preprod.cardanoscan.io)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Preview Cardanoscan - Cardano Explorer
+ - [https://preview.cardanoscan.io](https://preview.cardanoscan.io)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Cardano Spot | Cardano social network
+ - [https://cardanospot.io](https://cardanospot.io)
+ - date_published: 2024-06-16T05:02:52.634507+00:00
+
+ ## Care Cards
+ - [https://carecards.io](https://carecards.io)
+ - date_published: 2024-06-03T11:18:20.949896+00:00
+
+ ## CareConnect
+ - [https://carecloud.io](https://carecloud.io)
+ - date_published: 2024-05-07T20:25:24.915282+00:00
+
+ ## Career.io: End-To-End Career Services To Land Your Next Role · Career.io
+ - [https://career.io](https://career.io)
+ - date_published: 2024-06-22T22:12:02.441538+00:00
+
+ ## Career Fair - Level up your tech career
+ - [https://www.careerfair.io](https://www.careerfair.io)
+ - date_published: 2023-10-25T19:39:29.525523+00:00
+
+ ## Caricaturer.io | Convert Photo to Dramatic Caricature
+ - [https://caricaturer.io](https://caricaturer.io)
+ - date_published: 2023-12-23T17:04:14+00:00
+
+ ## Carl Burton
+ - [https://www.carlburton.io](https://www.carlburton.io)
+ - date_published: 2024-05-26T22:51:06.373850+00:00
+ - tags: ['graphic artist', 'personal']
+
+ ## Carlos Caballero
+ - [https://carloscaballero.io](https://carloscaballero.io)
+ - date_published: 2024-05-08T09:01:06.089986+00:00
+
+ ## Caroda Advertising Delivery Platform
+ - [https://publisher.caroda.io](https://publisher.caroda.io)
+ - date_published: 2024-05-08T03:15:09.113691+00:00
+
+ ## Caroda Video Advertising Delivery Platform
+ - [https://www.caroda.io](https://www.caroda.io)
+ - date_published: 2023-08-04T00:00:00+00:00
+
+ ## topmate.io
+ - [https://carouselmaker.io](https://carouselmaker.io)
+ - date_published: 2024-08-08T12:25:54.413861+00:00
+
+ ## Cartesi - Application-specific rollups with a Linux runtime.
+ - [https://cartesi.io](https://cartesi.io)
+ - date_published: 2024-06-12T14:04:41+00:00
+
  ## Cartesi Documentation
  - [https://docs.cartesi.io](https://docs.cartesi.io)
  - date_published: 2024-09-11T17:09:45+00:00
@@ -3783,236 +4016,4 @@
  ## Cytron Technologies
  - [http://www.cytron.io](http://www.cytron.io)
  - date_published: 2024-07-01T07:38:14.827549+00:00
-
- ## D4 Armory
- - [https://d4armory.io](https://d4armory.io)
- - date_published: 2024-09-02T15:04:55.094922+00:00
-
- ## d8io - dating app builder
- - [https://d8.io](https://d8.io)
- - date_published: 2019-03-19T03:49:21+00:00
-
- ## Dacoco GmbH
- - [https://dacoco.io](https://dacoco.io)
- - date_published: 2024-06-20T01:13:14.876895+00:00
-
- ## David Adrian
- - [https://dadrian.io](https://dadrian.io)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Daedalus Wallet
- - [https://daedaluswallet.io](https://daedaluswallet.io)
- - date_published: 2024-07-04T10:15:03.766882+00:00
-
- ## Dagger Documentation Archive
- - [https://archive.docs.dagger.io](https://archive.docs.dagger.io)
- - date_published: 2024-08-07T19:12:08.518106+00:00
-
- ## Dagger.io - CI/CD as Code that Runs Anywhere
- - [https://dagger.io](https://dagger.io)
- - date_published: 2023-10-25T19:40:43.652868+00:00
-
- ## Dagger Documentation | Dagger
- - [https://docs.dagger.io](https://docs.dagger.io)
- - date_published: 2024-04-28T02:59:30.812865+00:00
-
- ## Dagger status
- - [https://status.dagger.io](https://status.dagger.io)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Trust Center
- - [https://trust.dagger.io](https://trust.dagger.io)
- - date_published: 2024-04-28T02:59:42.506657+00:00
-
- ## Dagster University
- - [https://courses.dagster.io](https://courses.dagster.io)
- - date_published: 2024-04-28T02:59:56.157893+00:00
-
- ## Dagster | Cloud-native orchestration of data pipelines
- - [https://dagster.io](https://dagster.io)
- - date_published: 2023-10-25T19:40:45.923782+00:00
-
- ## dagster #announcements
- - [https://discuss.dagster.io](https://discuss.dagster.io)
- - date_published: 2024-04-28T02:59:48.974490+00:00
-
- ## Welcome to Dagster! | Dagster Docs
- - [https://docs.dagster.io](https://docs.dagster.io)
- - date_published: 2024-04-28T02:59:43.956324+00:00
-
- ## DAGWorks’s Substack | DAGWorks Inc. | Substack
- - [https://blog.dagworks.io](https://blog.dagworks.io)
- - date_published: 2024-04-03T19:49:37.172413+00:00
-
- ## Dagworks, Inc.
- - [https://dagworks.io](https://dagworks.io)
- - date_published: 2024-05-12T06:29:40.783989+00:00
-
- ## Hamilton
- - [https://hamilton.dagworks.io](https://hamilton.dagworks.io)
- - date_published: 2024-07-04T04:59:21+00:00
-
- ## Hamilton Dataflow Hub | Hamilton Dataflow Hub
- - [https://hub.dagworks.io](https://hub.dagworks.io)
- - date_published: 2024-03-11T22:35:00+00:00
-
- ## Decentralised Advertising
- - [https://dahq.io](https://dahq.io)
- - date_published: 2024-05-06T17:41:56.958118+00:00
-
- ## Damus
- - [https://damus.io](https://damus.io)
- - date_published: 2024-05-23T16:37:03+00:00
-
- ## Damus Store!
- - [https://store.damus.io](https://store.damus.io)
- - date_published: 2024-09-19T21:50:39.478189+00:00
-
- ## DanielKelly.io
- - [https://danielkelly.io](https://danielkelly.io)
- - date_published: 2024-09-04T14:55:12.028654+00:00
-
- ## Home
- - [https://danogo.io](https://danogo.io)
- - date_published: 2024-09-25T14:56:32.516890+00:00
-
- ## Debian Linux Administrator - Daniel Tenningås
- - [https://danten.io](https://danten.io)
- - date_published: 2022-10-04T15:24:56+00:00
-
- ## DaoCloud
- - [https://www.daocloud.io](https://www.daocloud.io)
- - date_published: 2024-06-22T12:36:55.205811+00:00
-
- ## DAOSquare
- - [https://daosquare.io](https://daosquare.io)
- - date_published: 2024-09-04T12:14:10.208671+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://daostack.io](https://daostack.io)
- - date_published: 2024-06-13T21:00:07+00:00
-
- ## DAPPCON 24
- - [https://dappcon.io](https://dappcon.io)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Run a node and stake on Ethereum and many other blockchains | Dappnode
- - [https://dappnode.io](https://dappnode.io)
- - date_published: 2024-09-23T13:35:15.199109+00:00
-
- ## Dapr Blog
- - [https://blog.dapr.io](https://blog.dapr.io)
- - date_published: 2024-05-30T07:25:23+00:00
-
- ## Dapr 中国社区
- - [https://cn.dapr.io](https://cn.dapr.io)
- - date_published: 2023-06-14T00:00:00+00:00
-
- ## Dapr - Distributed Application Runtime
- - [https://dapr.io](https://dapr.io)
- - date_published: 2024-05-06T21:42:26.792208+00:00
-
- ## Dapr Docs
- - [https://docs.dapr.io](https://docs.dapr.io)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Dapr Docs
- - [https://v1-10.docs.dapr.io](https://v1-10.docs.dapr.io)
- - date_published: 2024-05-31T13:40:40+00:00
-
- ## Dapr Docs
- - [https://v1-11.docs.dapr.io](https://v1-11.docs.dapr.io)
- - date_published: 2024-05-31T13:39:30+00:00
-
- ## Dapr Docs
- - [https://v1-12.docs.dapr.io](https://v1-12.docs.dapr.io)
- - date_published: 2024-05-31T13:39:52+00:00
-
- ## Dapr Docs
- - [https://v1-14.docs.dapr.io](https://v1-14.docs.dapr.io)
- - date_published: 2024-06-26T23:35:38+00:00
-
- ## Dapr Docs
- - [https://v1-7.docs.dapr.io](https://v1-7.docs.dapr.io)
- - date_published: 2024-05-30T04:49:09+00:00
-
- ## Dapr Docs
- - [https://v1-8.docs.dapr.io](https://v1-8.docs.dapr.io)
- - date_published: 2024-05-30T06:33:41+00:00
-
- ## Dapr Docs
- - [https://v1-9.docs.dapr.io](https://v1-9.docs.dapr.io)
- - date_published: 2024-05-30T06:35:38+00:00
-
- ## Home | Darien Advisors
- - [https://darienadvisors.io](https://darienadvisors.io)
- - date_published: 2024-09-25T12:35:30.725512+00:00
-
- ## Observe • Secure • Act | DASH 2024
- - [https://dashcon.io](https://dashcon.io)
- - date_published: 2024-06-11T21:25:05+00:00
-
- ## DataBouncing.io
- - [https://databouncing.io](https://databouncing.io)
- - date_published: 2024-08-18T03:53:09.327953+00:00
-
- ## Datachecks | All-in-One Data Quality & Observability Platform
- - [https://www.datachecks.io](https://www.datachecks.io)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## GPU Instances and Serverless Inference — DataCrunch
- - [https://datacrunch.io](https://datacrunch.io)
- - date_published: 2024-07-12T08:09:48.415374+00:00
-
- ## Datacygnal
- - [https://datacygnal.io](https://datacygnal.io)
- - date_published: 2024-01-17T13:22:51+00:00
-
- ## Data-driven VC | Andre Retterath | Substack
- - [https://www.newsletter.datadrivenvc.io](https://www.newsletter.datadrivenvc.io)
- - date_published: 2024-06-23T21:31:26.240807+00:00
-
- ## Data DX: A manifesto for effortlessly building data-driven applications
- - [https://www.datadx.io](https://www.datadx.io)
- - date_published: 2024-05-06T09:11:05.258229+00:00
-
- ## EcZachly Data Engineering Newsletter | Zach Wilson | Substack
- - [https://blog.dataengineer.io](https://blog.dataengineer.io)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Join the DataExpert.io Academy
- - [https://www.dataexpert.io](https://www.dataexpert.io)
- - date_published: 2024-07-03T21:23:40.180465+00:00
-
- ## Forms for Businesses – Efficient Data Collection & Automation
- - [https://dataforms.io](https://dataforms.io)
- - date_published: 2024-10-28T23:32:38.425241+00:00
-
- ## DataHub
- - [http://cloud.datahub.io](http://cloud.datahub.io)
- - date_published: 2024-09-10T22:09:29.062693+00:00
-
- ## DataHub
- - [https://datahub.io](https://datahub.io)
- - date_published: 2024-06-12T06:04:03.512597+00:00
-
- ## Welcome - the Datahub
- - [https://old.datahub.io](https://old.datahub.io)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Open Data Portal Demo
- - [https://opendata.datahub.io](https://opendata.datahub.io)
- - date_published: 2024-06-12T12:51:56.101224+00:00
-
- ## DataLang - Create Chatbots from your Data Sources
- - [https://datalang.io](https://datalang.io)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://dataloader.io](https://dataloader.io)
- - date_published: 2024-07-04T04:33:14+00:00
-
- ## Scrape data from any website with 1 Click | Data Miner
- - [https://data-miner.io](https://data-miner.io)
- - date_published: 2024-10-31T04:44:06.674951+00:00
 

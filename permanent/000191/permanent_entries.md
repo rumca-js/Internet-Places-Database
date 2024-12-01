@@ -1,3 +1,164 @@
+ ## Home - Springer Healthcare
+ - [https://www.springerhealthcare.com](https://www.springerhealthcare.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home Page | Author Services from Springer Nature EN
+ - [https://as.springernature.com](https://as.springernature.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Author services from Springer Nature
+ - [https://authorservices.springernature.com](https://authorservices.springernature.com)
+ - date_published: 2024-05-10T05:14:53.084621+00:00
+
+ ## Research Communities by Springer Nature
+ - [https://communities.springernature.com](https://communities.springernature.com)
+ - date_published: 2024-05-07T16:16:02.137445+00:00
+
+ ## Springer Nature Experiments - Over 85,000 Protocols and Methods
+ - [https://experiments.springernature.com](https://experiments.springernature.com)
+ - date_published: 2024-06-24T03:35:06.237009+00:00
+
+ ## Springer Nature Group | Springer Nature
+ - [https://group.springernature.com](https://group.springernature.com)
+ - date_published: 2024-06-30T07:12:39.836990+00:00
+
+ ## Springer Nature account - log in or register
+ - [https://link.springernature.com](https://link.springernature.com)
+ - date_published: 2024-08-19T05:37:59.461645+00:00
+
+ ## Springer Nature account - log in or register
+ - [https://my-profile.springernature.com](https://my-profile.springernature.com)
+ - date_published: 2024-07-12T09:27:11.872659+00:00
+
+ ## Advancing fully open access
+ - [https://openaccessreport.springernature.com](https://openaccessreport.springernature.com)
+ - date_published: 2023-09-05T20:06:32+00:00
+
+ ## Home
+ - [https://press.springernature.com](https://press.springernature.com)
+ - date_published: 2024-06-26T13:44:11.752428+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://resource-cms.springernature.com](https://resource-cms.springernature.com)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Springer Nature | showcase
+ - [https://search.springernature.com](https://search.springernature.com)
+ - date_published: 2024-06-30T07:12:37.700281+00:00
+
+ ## | Nature Research Editing Service
+ - [https://secure.authorservices.springernature.com](https://secure.authorservices.springernature.com)
+ - date_published: 2024-07-10T17:39:43+00:00
+
+ ## Springer Nature Research Solutions
+ - [https://shop.springernature.com](https://shop.springernature.com)
+ - date_published: 2024-06-25T23:30:07.458003+00:00
+
+ ## Springer Nature Research Solutions
+ - [https://solutions.springernature.com](https://solutions.springernature.com)
+ - date_published: 2024-06-24T03:35:12.254882+00:00
+
+ ## Springer Nature
+ - [https://springernature.com](https://springernature.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Springer Nature account - log in or register
+ - [https://submission.springernature.com](https://submission.springernature.com)
+ - date_published: 2024-07-12T09:27:09.388633+00:00
+
+ ## Support
+ - [https://support.springernature.com](https://support.springernature.com)
+ - date_published: 2024-07-12T09:27:13.834112+00:00
+
+ ## This page does not exist |
+      
+      Springer — International Publisher
+ - [https://springer-ny.com](https://springer-ny.com)
+ - date_published: 2024-05-08T09:32:42.373924+00:00
+
+ ## This page does not exist |
+      
+      Springer — International Publisher
+ - [http://www.springeronline.com](http://www.springeronline.com)
+ - date_published: 2024-08-19T21:20:39.043017+00:00
+
+ ## EURASIP Journal on Audio, Speech, and Music Processing
+ - [https://asmp-eurasipjournals.springeropen.com](https://asmp-eurasipjournals.springeropen.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Bioresources and Bioprocessing
+ - [https://bioresourcesbioprocessing.springeropen.com](https://bioresourcesbioprocessing.springeropen.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## SpringerOpen
+ - [https://blogs.springeropen.com](https://blogs.springeropen.com)
+ - date_published: 2024-07-12T09:27:03.109648+00:00
+
+ ## Cognitive Research: Principles and Implications
+ - [https://cognitiveresearchjournal.springeropen.com](https://cognitiveresearchjournal.springeropen.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Comparative Migration Studies
+ - [https://comparativemigrationstudies.springeropen.com](https://comparativemigrationstudies.springeropen.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Earth, Planets and Space
+ - [https://earth-planets-space.springeropen.com](https://earth-planets-space.springeropen.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## International Journal of Educational Technology in Higher Education
+ - [https://educationaltechnologyjournal.springeropen.com](https://educationaltechnologyjournal.springeropen.com)
+ - date_published: 2024-03-25T11:10:44.882870+00:00
+
+ ## eLight
+ - [https://elight.springeropen.com](https://elight.springeropen.com)
+ - date_published: 2024-10-25T23:15:06.100373+00:00
+
+ ## EPJ Data Science
+ - [https://epjdatascience.springeropen.com](https://epjdatascience.springeropen.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## EPJ Quantum Technology
+ - [http://epjquantumtechnology.springeropen.com](http://epjquantumtechnology.springeropen.com)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Genus
+ - [https://genus.springeropen.com](https://genus.springeropen.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Journal of Ophthalmic Inflammation and Infection
+ - [https://joii-journal.springeropen.com](https://joii-journal.springeropen.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Large-scale Assessments in Education
+ - [https://largescaleassessmentsineducation.springeropen.com](https://largescaleassessmentsineducation.springeropen.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Microplastics and Nanoplastics
+ - [https://microplastics.springeropen.com](https://microplastics.springeropen.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Probability, Uncertainty and Quantitative Risk
+ - [https://probability-risk.springeropen.com](https://probability-risk.springeropen.com)
+ - date_published: 2024-06-14T08:01:01.931041+00:00
+
+ ## SpringerOpen
+ - [https://springeropen.com](https://springeropen.com)
+ - date_published: 2024-06-14T07:59:06+00:00
+ - tags: ['journals']
+
+ ## Home | Premium Jagdwaffen I Joh. Springer's Erben
+ - [https://www.springer-vienna.com](https://www.springer-vienna.com)
+ - date_published: 2023-04-03T00:00:00+00:00
+
+ ## Springfield Armory
+ - [https://www.springfield-armory.com](https://www.springfield-armory.com)
+ - date_published: 2024-10-22T18:49:25.320914+00:00
+
+ ## Springfield Auto And Transmission Repair : Automotive Service and Maintenance in Springfield, TN
+ - [https://www.springfieldatr.com](https://www.springfieldatr.com)
+ - date_published: 2024-06-30T12:15:20.145811+00:00
+
  ## Springfield Armory Forums
  - [https://www.springfieldforum.com](https://www.springfieldforum.com)
  - date_published: 2024-07-04T01:22:46+00:00
@@ -3860,160 +4021,4 @@
  ## BuzzFeed Inc.
  - [https://impala-vibraphone-6f7l.squarespace.com](https://impala-vibraphone-6f7l.squarespace.com)
  - date_published: 2024-06-18T07:36:44.238246+00:00
-
- ## Balanced Economy Project
- - [https://impaque-bep.squarespace.com](https://impaque-bep.squarespace.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Berkeley AI Safety Student Initiative
- - [https://indigo-kale-zdh2.squarespace.com](https://indigo-kale-zdh2.squarespace.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The #1 PR & sharing platform for media companies
- - [https://indigo-potato-lde4.squarespace.com](https://indigo-potato-lde4.squarespace.com)
- - date_published: 2024-09-20T18:49:03.478233+00:00
-
- ## INDIVISA
- - [https://indivisa-website.squarespace.com](https://indivisa-website.squarespace.com)
- - date_published: 2024-06-20T07:59:39.300003+00:00
-
- ## Insider Inc. - We help 250 million people worldwide Get In to their passions.
- - [https://insider-dev.squarespace.com](https://insider-dev.squarespace.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Inspire Sailing
- - [https://inspiresailing.squarespace.com](https://inspiresailing.squarespace.com)
- - date_published: 2024-07-15T02:25:43.870298+00:00
-
- ## Integral Healthcare Solutions
- - [https://integralhs.squarespace.com](https://integralhs.squarespace.com)
- - date_published: 2024-06-26T07:20:59.206607+00:00
-
- ## Intelligent Media Solutions
- - [http://intelligent-media.squarespace.com](http://intelligent-media.squarespace.com)
- - date_published: 2024-07-08T16:08:33.233058+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investors.squarespace.com](https://investors.squarespace.com)
- - date_published: 2024-05-06T19:50:23.941352+00:00
-
- ## Invisible Institute
- - [https://invisibleinstitute.squarespace.com](https://invisibleinstitute.squarespace.com)
- - date_published: 2024-07-09T21:30:42.504955+00:00
-
- ## TwoCentsPress
- - [https://iris-garlic-5gan.squarespace.com](https://iris-garlic-5gan.squarespace.com)
- - date_published: 2024-09-05T10:12:40.251239+00:00
-
- ## Irish Heritage Tree
- - [https://irishheritagetree.squarespace.com](https://irishheritagetree.squarespace.com)
- - date_published: 2024-07-17T10:25:52.730636+00:00
-
- ## Cybernetic Forests.
- - [https://iris-nonagon-szjk.squarespace.com](https://iris-nonagon-szjk.squarespace.com)
- - date_published: 2024-09-14T23:15:30.889271+00:00
-
- ## Ismail Elouafiq
- - [https://ismail-elouafiq-3pkz.squarespace.com](https://ismail-elouafiq-3pkz.squarespace.com)
- - date_published: 2024-08-18T13:07:35.657301+00:00
-
- ## Builder siti web – Crea un sito web in pochi minuti – Squarespace
- - [https://it.squarespace.com](https://it.squarespace.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Jack Vanlightly
- - [https://jack-vanlightly-ay5j.squarespace.com](https://jack-vanlightly-ay5j.squarespace.com)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## BEYOND STORYTELLING
- - [https://jacques-chlopczyk-rrr9.squarespace.com](https://jacques-chlopczyk-rrr9.squarespace.com)
- - date_published: 2024-09-12T18:50:13.118356+00:00
-
- ## Jade Young Studio
- - [http://jadeyoungstudio.squarespace.com](http://jadeyoungstudio.squarespace.com)
- - date_published: 2024-09-17T01:37:44.269856+00:00
-
- ## Reka AI
- - [https://jaguar-cranberry-45s5.squarespace.com](https://jaguar-cranberry-45s5.squarespace.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Alexandra Skores
- - [https://jaguar-mandarin-e36c.squarespace.com](https://jaguar-mandarin-e36c.squarespace.com)
- - date_published: 2024-06-17T03:00:21.279858+00:00
-
- ## Bitfield Consulting
- - [https://jaguar-violin-d28j.squarespace.com](https://jaguar-violin-d28j.squarespace.com)
- - date_published: 2024-08-19T09:51:34.181131+00:00
-
- ## Official Tony Hawk
- - [https://jaimie-muehlhausen-emc0.squarespace.com](https://jaimie-muehlhausen-emc0.squarespace.com)
- - date_published: 2024-11-05T22:02:04.696666+00:00
-
- ## [ CAVEDAY ]
- - [https://jake-kahana-xnbz.squarespace.com](https://jake-kahana-xnbz.squarespace.com)
- - date_published: 2024-07-15T12:16:28.691914+00:00
-
- ## Zen Rants
- - [https://james-alfieri-b5rw.squarespace.com](https://james-alfieri-b5rw.squarespace.com)
- - date_published: 2024-05-10T06:44:24.724068+00:00
-
- ## Monday Morning Haskell
- - [https://james-bowen-c4sg.squarespace.com](https://james-bowen-c4sg.squarespace.com)
- - date_published: 2024-08-19T07:35:57.497852+00:00
-
- ## Jazmine (JT) Green
- - [https://james-green.squarespace.com](https://james-green.squarespace.com)
- - date_published: 2024-05-12T05:40:02.876823+00:00
-
- ## James W.A.R. Lloyd
- - [http://james-lloyd-85e8.squarespace.com](http://james-lloyd-85e8.squarespace.com)
- - date_published: 2024-06-20T17:45:06.078679+00:00
-
- ## James Mullinger
- - [https://james-mullinger.squarespace.com](https://james-mullinger.squarespace.com)
- - date_published: 2024-07-11T17:20:26.946040+00:00
-
- ## Jascha Sohl-Dickstein
- - [https://jascha-sohldickstein.squarespace.com](https://jascha-sohldickstein.squarespace.com)
- - date_published: 2024-04-29T05:14:10.777422+00:00
-
- ## Jason Markow
- - [https://jason-markow.squarespace.com](https://jason-markow.squarespace.com)
- - date_published: 2024-05-10T06:59:23.138838+00:00
-
- ## Jason’s Big Adventure
- - [https://jasonsbigadventure.squarespace.com](https://jasonsbigadventure.squarespace.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Wonderspaces - Home to Art for Everyone
- - [https://jason-shin-np3n.squarespace.com](https://jason-shin-np3n.squarespace.com)
- - date_published: 2024-06-16T01:23:46.491998+00:00
-
- ## Jay Chiat
- - [https://jaychiat.squarespace.com](https://jaychiat.squarespace.com)
- - date_published: 2024-10-14T17:48:55.425723+00:00
-
- ## J. Brown Yoga
- - [https://jbrownyoga.squarespace.com](https://jbrownyoga.squarespace.com)
- - date_published: 2024-08-18T08:48:31.111646+00:00
-
- ## JCAP
- - [https://jcap.squarespace.com](https://jcap.squarespace.com)
- - date_published: 2024-07-22T06:55:56.309452+00:00
-
- ## Jonathan Crawford • Zero-to-One Specialist
- - [http://jcraw.squarespace.com](http://jcraw.squarespace.com)
- - date_published: 2024-07-10T08:35:16.822032+00:00
-
- ## Jediah Porter
- - [https://jediahporter.squarespace.com](https://jediahporter.squarespace.com)
- - date_published: 2024-08-18T09:14:50.077322+00:00
-
- ## Legion M
- - [https://jeff-annison-8irt.squarespace.com](https://jeff-annison-8irt.squarespace.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Growth Engineering Blog | Learn how to scale user growth | Jeff Chang
- - [https://jeff-chang-xbdf.squarespace.com](https://jeff-chang-xbdf.squarespace.com)
- - date_published: 2024-07-04T02:43:00.146009+00:00
 

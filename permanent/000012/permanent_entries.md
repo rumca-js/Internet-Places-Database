@@ -1,3 +1,7 @@
+ ## Guide Lines - For Girl Guides and Girl Guide Volunteers
+ - [https://www.guidelinesforgirlguides.org.au](https://www.guidelinesforgirlguides.org.au)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## Welcome to Girl Guides Victoria - Girl Guides Victoria
  - [https://guidesvic.org.au](https://guidesvic.org.au)
  - date_published: 2024-04-02T00:00:00+00:00
@@ -4006,8 +4010,4 @@
  ## Een gratis inleiding tot artificiële intelligentie voor niet-deskundigen
  - [https://www.elementsofai.be](https://www.elementsofai.be)
  - date_published: 2024-07-01T08:46:50.336583+00:00
-
- ## Pilario
- - [https://platform.elsya.be](https://platform.elsya.be)
- - date_published: 2024-07-03T09:46:42.499833+00:00
 

@@ -1,3 +1,328 @@
+ ## Hack VC
+ - [https://blog.hack.vc](https://blog.hack.vc)
+ - date_published: 2024-04-30T06:30:21.250244+00:00
+ - tags: ['company', 'web3']
+
+ ## Hack VC
+ - [https://hack.vc](https://hack.vc)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Matthew Hall
+ - [https://hall.vc](https://hall.vc)
+ - date_published: 2024-08-11T18:20:23+00:00
+
+ ## Hetz Ventures
+ - [https://hetz.vc](https://hetz.vc)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## HOME - Hivemind Ventures
+ - [https://hivemind.vc](https://hivemind.vc)
+ - date_published: 2023-10-25T23:00:05.653730+00:00
+
+ ## Hustle Fund Merch Store
+ - [https://store.hustlefund.vc](https://store.hustlefund.vc)
+ - date_published: 2024-10-27T11:26:19.077476+00:00
+
+ ## Welcome fine hustler, we’re glad you stopped by! | Hustle Fund
+ - [https://www.hustlefund.vc](https://www.hustlefund.vc)
+ - date_published: 2024-10-26T22:00:12+00:00
+
+ ## Incisive Ventures – Your partner for growth
+ - [https://incisive.vc](https://incisive.vc)
+ - date_published: 2023-10-25T23:00:10.873492+00:00
+
+ ## Included VC - changing the face of venture capital
+ - [https://included.vc](https://included.vc)
+ - date_published: 2024-09-08T06:02:11+00:00
+
+ ## The Inevitable Collective
+ - [http://www.inevitable.vc](http://www.inevitable.vc)
+ - date_published: 2024-05-01T02:55:32.649825+00:00
+
+ ## inFERENCe - a machine learning blog
+ - [https://www.inference.vc](https://www.inference.vc)
+ - date_published: 2023-10-25T23:00:14.102745+00:00
+
+ ## innofund.vc | early stage venture capital
+ - [https://www.innofund.vc](https://www.innofund.vc)
+ - date_published: 2024-09-26T09:46:46.165386+00:00
+
+ ## 株式会社インサイト
+ - [https://www.insite.vc](https://www.insite.vc)
+ - date_published: 2024-06-20T01:30:44.935531+00:00
+
+ ## Interlock Partners
+ - [https://interlock.vc](https://interlock.vc)
+ - date_published: 2024-09-18T12:47:27.289348+00:00
+
+ ## IOSG Ventures
+ - [https://iosg.vc](https://iosg.vc)
+ - date_published: 2024-06-04T11:31:51.133861+00:00
+
+ ## Irregular Expressions
+ - [https://irregex.vc](https://irregex.vc)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## john.vc is available for purchase - Sedo.com
+ - [http://john.vc](http://john.vc)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## justin.vc
+ - [https://justin.vc](https://justin.vc)
+ - date_published: 2024-06-25T00:56:00+00:00
+
+ ## Katapult
+ - [https://katapult.vc](https://katapult.vc)
+ - date_published: 2024-07-12T20:14:27.569938+00:00
+
+ ## Konvoy Ventures | A Gaming Venture Capital Firm
+ - [https://www.konvoy.vc](https://www.konvoy.vc)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Launch Africa
+ - [https://launchafrica.vc](https://launchafrica.vc)
+ - date_published: 2024-09-25T13:46:09.162864+00:00
+
+ ## The Longevity Fund
+ - [https://longevity.vc](https://longevity.vc)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## LongHash Ventures
+ - [https://www.longhash.vc](https://www.longhash.vc)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## M12 - Microsoft's Venture Capital Fund
+ - [https://m12.vc](https://m12.vc)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## It's Magit! A Git Porcelain inside Emacs
+ - [https://magit.vc](https://magit.vc)
+ - date_published: 2023-10-25T23:00:23.133712+00:00
+
+ ## Mangrove Capital Partners | Home
+ - [https://mangrove.vc](https://mangrove.vc)
+ - date_published: 2024-05-07T18:19:57.103467+00:00
+
+ ## Matrix Partners
+ - [https://matrix.vc](https://matrix.vc)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## MatthewBall.vc
+ - [https://www.matthewball.vc](https://www.matthewball.vc)
+ - date_published: 2023-10-25T23:00:27.289546+00:00
+
+ ## Smash.vc - A Capital Partner for SMB Acquisitions
+ - [https://moat.vc](https://moat.vc)
+ - date_published: 2019-08-09T06:00:29+00:00
+
+ ## Market One Capital
+ - [https://www.moc.vc](https://www.moc.vc)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## MENA Venture Builder Firm | Modus Capital
+ - [https://modus.vc](https://modus.vc)
+ - date_published: 2024-09-25T14:56:37.589112+00:00
+
+ ## Mozilla Ventures | an Impact Venture Fund From Mozilla
+ - [https://mozilla.vc](https://mozilla.vc)
+ - date_published: 2024-07-02T21:43:51.293059+00:00
+
+ ## network0 | Tom Howard | Substack
+ - [https://network0.vc](https://network0.vc)
+ - date_published: 2024-06-04T11:31:31.950807+00:00
+
+ ## Home
+ - [https://nextview.vc](https://nextview.vc)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Nexus Climate
+ - [https://nexusclimate.vc](https://nexusclimate.vc)
+ - date_published: 2024-09-25T10:13:37.007852+00:00
+
+ ## Notion Capital
+ - [https://notion.vc](https://notion.vc)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Ocular — Home
+ - [https://ocular.vc](https://ocular.vc)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Inception Capital
+ - [https://www.opcrypto.vc](https://www.opcrypto.vc)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Openspace Ventures – Southeast Asian Venture Capital Firm, Investing with Active Intelligence
+ - [http://openspace.vc](http://openspace.vc)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Home
+ - [https://openwater.vc](https://openwater.vc)
+ - date_published: 2024-08-07T14:13:49.020372+00:00
+
+ ## Orange Collective — YC Alumni Investment Club
+ - [https://www.orangecollective.vc](https://www.orangecollective.vc)
+ - date_published: 2024-07-08T23:27:09.655359+00:00
+
+ ## Home
+ - [https://p72.vc](https://p72.vc)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Startup investor update software & investor reporting tool | Paperstreet
+ - [https://www.paperstreet.vc](https://www.paperstreet.vc)
+ - date_published: 2024-10-23T07:05:24.457299+00:00
+
+ ## Predict Investments and Venture Matching | Parsers VC
+ - [https://parsers.vc](https://parsers.vc)
+ - date_published: 2024-01-07T11:16:06+00:00
+
+ ## Pillar VC | Boston VC Firm Supporting Unstoppable Founders
+ - [https://pillar.vc](https://pillar.vc)
+ - date_published: 2024-10-27T11:27:42.340567+00:00
+
+ ## Pioneer Fund
+ - [https://www.pioneerfund.vc](https://www.pioneerfund.vc)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Placeholder
+ - [https://www.placeholder.vc](https://www.placeholder.vc)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Play Ventures
+ - [https://playventures.vc](https://playventures.vc)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## A fundamentals driven crypto investment firm
+ - [https://portal.vc](https://portal.vc)
+ - date_published: 2024-09-25T11:40:00.490346+00:00
+
+ ## Portico Ventures
+ - [https://portico.vc](https://portico.vc)
+ - date_published: 2024-09-04T14:25:17.160237+00:00
+
+ ## PULSAR VC — Venture Сapital Platform
+ - [https://pulsar.vc](https://pulsar.vc)
+ - date_published: 2024-09-19T12:34:54+00:00
+
+ ## Document
+ - [https://rmf.vc](https://rmf.vc)
+ - date_published: 2024-01-09T01:37:49.507523+00:00
+
+ ## GC Venture Fellows | General Catalyst
+ - [http://roughdraft.vc](http://roughdraft.vc)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Savannah Fund
+ - [http://savannah.vc](http://savannah.vc)
+ - date_published: 2024-08-12T04:31:56.406711+00:00
+
+ ## SciFi VC
+ - [https://scifi.vc](https://scifi.vc)
+ - date_published: 2024-04-28T01:41:29.140498+00:00
+
+ ## Scribble Ventures - Early Stage Venture Capital
+ - [https://www.scribble.vc](https://www.scribble.vc)
+ - date_published: 2024-10-12T22:21:39.266159+00:00
+
+ ## Senovo – B2B Cloud & SaaS Venture Capital
+ - [https://senovo.vc](https://senovo.vc)
+ - date_published: 2024-06-05T01:10:40.063430+00:00
+
+ ## Serena Capital
+ - [https://www.serena.vc](https://www.serena.vc)
+ - date_published: 2024-09-17T08:56:08+00:00
+
+ ## Shasta Ventures
+ - [https://www.shasta.vc](https://www.shasta.vc)
+ - date_published: 2024-10-23T07:01:33.940003+00:00
+
+ ## Shine Capital
+ - [https://www.shine.vc](https://www.shine.vc)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Shrug Capital
+ - [https://www.shrug.vc](https://www.shrug.vc)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Smash.vc - A Capital Partner for SMB Acquisitions
+ - [https://smash.vc](https://smash.vc)
+ - date_published: 2019-08-09T06:00:29+00:00
+
+ ## Sourcery | Molly O’Shea | Substack
+ - [https://www.sourcery.vc](https://www.sourcery.vc)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Startup Bangladesh Limited - a Venture Capital Company
+ - [http://www.startupbangladesh.vc](http://www.startupbangladesh.vc)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Startup Hacks by Alex Iskold
+ - [https://www.startuphacks.vc](https://www.startuphacks.vc)
+ - date_published: 2024-06-21T09:18:34.830832+00:00
+
+ ## StemAI - Scaling LLM-based products
+ - [https://stemai.vc](https://stemai.vc)
+ - date_published: 2024-02-11T14:56:31+00:00
+
+ ## Swift Ventures - Swift Ventures - Early Stage Venture Capital
+ - [https://swift.vc](https://swift.vc)
+ - date_published: 2024-10-29T20:23:31+00:00
+
+ ## Home
+ - [https://threshold.vc](https://threshold.vc)
+ - date_published: 2024-09-18T22:43:24.141695+00:00
+
+ ## Trends Pro — Join 1,000+ Successful Founders Discovering New Markets and Ideas
+ - [https://access.trends.vc](https://access.trends.vc)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Discover new markets and ideas
+ - [https://join.trends.vc](https://join.trends.vc)
+ - date_published: 2024-04-29T07:17:30.473949+00:00
+
+ ## Discover new markets and ideas
+ - [https://trends.vc](https://trends.vc)
+ - date_published: 2024-05-06T13:41:37.686334+00:00
+
+ ## UDIA | UDIA
+ - [https://u0.vc](https://u0.vc)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Unique.vc | Invest, Raise, and Manage Funds Fully On-Chain
+ - [http://unique.vc](http://unique.vc)
+ - date_published: 2023-11-19T15:22:53+00:00
+
+ ## Unusual Ventures – Your Partner For The Journey Ahead
+ - [https://unusual.vc](https://unusual.vc)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Field Guide – Unusual Ventures
+ - [https://www.field-guide.unusual.vc](https://www.field-guide.unusual.vc)
+ - date_published: 2023-11-14T00:00:00+00:00
+
+ ## Uvecon
+ - [https://uvecon.vc](https://uvecon.vc)
+ - date_published: 2024-04-16T06:25:07+00:00
+
+ ## Vesey Ventures | Transforming financial services
+ - [https://vesey.vc](https://vesey.vc)
+ - date_published: 2024-10-17T22:30:54.684420+00:00
+
+ ## Village Global - Early Stage Venture Capital Backed by Some of the World's Best Entrepreneurs
+ - [https://www.villageglobal.vc](https://www.villageglobal.vc)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## VINYL
+ - [http://vinyl.vc](http://vinyl.vc)
+ - date_published: 2024-05-30T21:21:08+00:00
+
+ ## Jobs at Visible
+ - [https://apply.visible.vc](https://apply.visible.vc)
+ - date_published: 2024-09-09T22:24:48.073726+00:00
+
+ ## Visible
+ - [https://app.visible.vc](https://app.visible.vc)
+ - date_published: 2024-09-09T22:24:51.170936+00:00
+
  ## Visible Connect
  - [https://connect.visible.vc](https://connect.visible.vc)
  - date_published: 2024-09-09T22:24:54.567902+00:00
@@ -3703,331 +4028,4 @@
  ## bustawin
  - [https://busta.win](https://busta.win)
  - date_published: 2024-07-27T00:00:00+00:00
-
- ## https://cantsayanything.win
- - [https://cantsayanything.win](https://cantsayanything.win)
- - date_published: 2024-01-09T03:48:48.150168+00:00
-
- ## Derik Kauffman
- - [https://derik.win](https://derik.win)
- - date_published: 2024-05-14T02:20:53+00:00
-
- ## DOYToWin
- - [https://blog.doyto.win](https://blog.doyto.win)
- - date_published: 2024-10-23T09:48:47+00:00
-
- ## echowin | Conversational AI Phone Agent Builder With No-Code Workflow Automation
- - [https://echo.win](https://echo.win)
- - date_published: 2024-06-19T21:13:34.044431+00:00
-
- ## General
- - [https://freecanada.win](https://freecanada.win)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Klondike Solitaire
- - [https://freesolitaire.win](https://freesolitaire.win)
- - date_published: 2024-06-24T11:41:19+00:00
-
- - [https://game-box.win](https://game-box.win)
- - date_published: 2024-11-11T20:37:15+00:00
- - tags: ['piracy']
-
- ## Idiots win.
- - [https://idiots.win](https://idiots.win)
- - date_published: 2022-09-21T00:00:00+00:00
-
- ## Joe Winter Design
- - [https://joemoe.win](https://joemoe.win)
- - date_published: 2024-09-23T00:00:00+00:00
- - tags: ['personal']
-
- ## Dylan's Blog
- - [https://mnsr.win](https://mnsr.win)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## NontonGo - Movie streaming API
- - [https://www.nontongo.win](https://www.nontongo.win)
- - date_published: 2024-11-12T18:23:08.572518+00:00
-
- ## RAKET TV LIVE
- - [https://www.rakettv.win](https://www.rakettv.win)
- - date_published: 2024-11-11T22:10:13+00:00
-
- ## Index of /
- - [http://o.rthost.win](http://o.rthost.win)
- - date_published: 2024-06-21T10:50:32.847654+00:00
-
- ## Sauropods.win
- - [https://sauropods.win](https://sauropods.win)
- - date_published: 2024-05-07T15:34:09.293608+00:00
-
- ## home
- - [https://www.slotxo24hr.win](https://www.slotxo24hr.win)
- - date_published: 2024-10-22T13:31:36.820137+00:00
-
- ## สล็อตเว็บตรง Temmax69 เล่นฟรีแตกง่าย รับเครดิตฟรีสล็อต
- - [https://temmax69.win](https://temmax69.win)
- - date_published: 2024-10-22T14:48:35.641319+00:00
-
- ## TrustDice: Crypto Casino with Bitcoin Dice Games (3 ฿ Bonus)
- - [https://trustdice.win](https://trustdice.win)
- - date_published: 2024-09-18T22:42:23+00:00
-
- ## An Online Publishing House | Twist Digital
- - [https://www.twist.win](https://www.twist.win)
- - date_published: 2024-05-06T17:43:07.230289+00:00
-
- ## Javascript file uploader for your website and apps
- - [https://www.uploader.win](https://www.uploader.win)
- - date_published: 2022-10-12T10:18:57+00:00
-
- ## Home - Alit Wines
- - [https://alit.wine](https://alit.wine)
- - date_published: 2024-06-21T21:10:54.983415+00:00
-
- ## GrapeGPT AI Wine Assistant
- - [https://grapegpt.wine](https://grapegpt.wine)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Brand Logos Free Download in SVG Vector & PNG File Format - Logo.wine
- - [https://www.logo.wine](https://www.logo.wine)
- - date_published: 2023-10-15T21:07:07+00:00
-
- ## Natural Wine Store | MYSA Natural Wine
- - [https://mysa.wine](https://mysa.wine)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## NAPA Magazine – Wine, Food and Conversation from Napa Valley Vintners
- - [https://magazine.napavalley.wine](https://magazine.napavalley.wine)
- - date_published: 2024-07-17T12:27:24.137357+00:00
-
- ## Napa Valley Wine - Cultivating Excellence
- - [https://napavalley.wine](https://napavalley.wine)
- - date_published: 2024-07-17T12:27:51.981554+00:00
-
- ## Creativity Powered by Nostr
- - [https://creatr.nostr.wine](https://creatr.nostr.wine)
- - date_published: 2024-08-18T09:39:45.503075+00:00
-
- ## Home - OSSA Wines Tasmania
- - [https://ossa.wine](https://ossa.wine)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## U MES U · Distinctive Organic Wines
- - [https://www.umesu.wine](https://www.umesu.wine)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Sebastian Neef - 0day.work
- - [https://0day.work](https://0day.work)
- - date_published: 2023-10-25T23:01:17.513284+00:00
-
- ## ActionsDotWork — Productivity Tools for macOS & iOS
- - [https://actions.work](https://actions.work)
- - date_published: 2024-08-07T20:49:24.878050+00:00
-
- ## aitrack.work
- - [https://aitrack.work](https://aitrack.work)
- - date_published: 2024-06-14T14:47:18.948677+00:00
-
- ## Welcome • Allien.work
- - [https://allien.work](https://allien.work)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## amaren colosi
- - [https://www.amarencolosi.work](https://www.amarencolosi.work)
- - date_published: 2024-06-26T14:26:21.539238+00:00
-
- ## Area of Work
- - [http://www.area-of.work](http://www.area-of.work)
- - date_published: 2024-07-13T16:26:06.227049+00:00
-
- ## asya
- - [http://asuk.work](http://asuk.work)
- - date_published: 2022-02-23T20:13:11+00:00
-
- ## The Autonomy Data Unit Blog - Home page
- - [https://adu.autonomy.work](https://adu.autonomy.work)
- - date_published: 2024-06-27T22:09:44+00:00
-
- ## The Autonomy Institute
- - [https://autonomy.work](https://autonomy.work)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## AWP — AS WE PROCEED
- - [https://awp.work](https://awp.work)
- - date_published: 2024-05-08T00:42:14.021255+00:00
-
- ## Bailey Kursar
- - [https://bailey.work](https://bailey.work)
- - date_published: 2024-01-14T08:13:12.363849+00:00
-
- ## Benjamin Henry
- - [https://benjaminhenry.work](https://benjaminhenry.work)
- - date_published: 2024-08-18T23:09:28.870136+00:00
-
- ## API Surface Testing - Boomerang!
- - [https://boomerang.work](https://boomerang.work)
- - date_published: 2024-04-01T11:58:26+00:00
-
- ## Brain pls work
- - [https://brainpls.work](https://brainpls.work)
- - date_published: 2024-01-09T03:48:48.682019+00:00
-
- ## Kevin
- - [https://bykevin.work](https://bykevin.work)
- - date_published: 2024-05-07T23:22:50.756004+00:00
-
- ## Parallel Economy | A Censor-Resistant Ecosystem
- - [http://paralleleconomy.clientdev.work](http://paralleleconomy.clientdev.work)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## cocoba
- - [https://cocoba.work](https://cocoba.work)
- - date_published: 2023-12-26T20:44:33+00:00
-
- ## Jobs | Bonsai
- - [https://bonsai.crew.work](https://bonsai.crew.work)
- - date_published: 2023-05-23T08:48:54+00:00
-
- ## D A T O
- - [https://dato.work](https://dato.work)
- - date_published: 2024-09-04T04:43:19.718841+00:00
-
- ## littledivy
- - [https://divy.work](https://divy.work)
- - date_published: 2024-03-25T15:41:03.147668+00:00
-
- ## DoSomething Strategic • The Experts in Gen Z and Purpose
- - [https://dosomethingstrategic.work](https://dosomethingstrategic.work)
- - date_published: 2024-08-08T17:52:00.247652+00:00
-
- ## Emile Illustration
- - [https://emile.work](https://emile.work)
- - date_published: 2024-09-16T23:16:39.785494+00:00
-
- ## Homepage
- - [https://fair.work](https://fair.work)
- - date_published: 2024-10-20T07:22:32.849013+00:00
-
- ## Fairway - A million opportunites, only one way
- - [https://fairway.work](https://fairway.work)
- - date_published: 2024-04-30T11:14:23+00:00
-
- ## FlexOS | Stay Ahead in the Future of Work. AI, Remote, Workplace Tech.
- - [https://www.flexos.work](https://www.flexos.work)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Merlin AI | Ask AI to Research, Write, Summarize in 1-click
- - [https://merlin.foyer.work](https://merlin.foyer.work)
- - date_published: 2024-06-27T05:32:15.768355+00:00
-
- ## Academic
- - [https://www.fqjiang.work](https://www.fqjiang.work)
- - date_published: 2024-07-12T08:04:05.590913+00:00
-
- ## fractional.work | Sanjay Saraf | Substack
- - [http://fractional.work](http://fractional.work)
- - date_published: 2023-10-25T10:08:52.365132+00:00
- - tags: ['substack']
-
- ## Framework Community - Discussion and support for Framework products
- - [https://community.frame.work](https://community.frame.work)
- - date_published: 2023-10-25T23:01:33.003425+00:00
-
- ## Framework Laptop 16 pre-orders are now open
- - [https://frame.work](https://frame.work)
- - date_published: 2023-10-25T08:38:20.129233+00:00
-
- ## Framework
- - [https://guides.frame.work](https://guides.frame.work)
- - date_published: 2024-05-02T13:34:18.451063+00:00
-
- ## Framework Knowledge Base
- - [https://knowledgebase.frame.work](https://knowledgebase.frame.work)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Support
- - [https://support.frame.work](https://support.frame.work)
- - date_published: 2024-06-18T15:28:36.883194+00:00
-
- ## FrontEndNetwork - Open Web
- - [https://frontendnet.work](https://frontendnet.work)
- - date_published: 2024-09-04T11:22:34.743267+00:00
-
- ## lipu pi Soweli Niko
- - [https://itwont.work](https://itwont.work)
- - date_published: 2024-08-07T23:59:17.543448+00:00
-
- ## Jacobi Mehringer - Creative Director
- - [https://www.jacobi.work](https://www.jacobi.work)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## About
- - [https://jan.work](https://jan.work)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## JDs Work
- - [https://jds.work](https://jds.work)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## JH—SW3
- - [https://jonathanhan.work](https://jonathanhan.work)
- - date_published: 2024-07-13T14:32:38.382623+00:00
-
- ## kade killary
- - [https://kadekillary.work](https://kadekillary.work)
- - date_published: 2023-10-25T09:25:00.374655+00:00
- - tags: ['personal']
-
- ## Lachlan Richards — Design & Code
- - [http://lachlanrichards.work](http://lachlanrichards.work)
- - date_published: 2023-10-12T06:20:22+00:00
-
- ## language.work
- - [https://language.work](https://language.work)
- - date_published: 2023-06-20T08:51:24+00:00
-
- ## Lauren Fox
- - [https://laurenfox.work](https://laurenfox.work)
- - date_published: 2024-07-04T01:53:10.146160+00:00
-
- ## louis.work
- - [https://louis.work](https://louis.work)
- - date_published: 2024-04-06T21:16:15.489696+00:00
-
- ## LWIClassic.Com: Learn, Grow, & Change!
- - [https://lwiclassic.work](https://lwiclassic.work)
- - date_published: 2024-02-26T08:38:23.092718+00:00
-
- ## MADWeb 2024 Program
- - [https://madweb.work](https://madweb.work)
- - date_published: 2024-03-22T07:22:16+00:00
-
- ## MakeWorkWork
- - [http://makework.work](http://makework.work)
- - date_published: 2024-10-31T07:43:39.614432+00:00
-
- ## MakeWorkWork
- - [https://www.makework.work](https://www.makework.work)
- - date_published: 2024-05-04T09:15:49.445401+00:00
-
- ## mrnvdb
- - [https://mrnvdb.work](https://mrnvdb.work)
- - date_published: 2024-05-10T15:08:14+00:00
-
- ## NEWRAFAEL.WORK
- - [https://newrafael.work](https://newrafael.work)
- - date_published: 2024-06-28T11:03:20.275337+00:00
-
- ## Attention Required! | Cloudflare
- - [https://omnisrc-dev.work](https://omnisrc-dev.work)
- - date_published: 2024-05-02T12:20:23.315618+00:00
-
- ## brain don't work!
- - [https://brain.d.on-t.work](https://brain.d.on-t.work)
- - date_published: 2024-07-15T06:33:37.956004+00:00
-
- ## Paperwork - Personal document management made fast and easy - OpenPaperwork
- - [https://openpaper.work](https://openpaper.work)
- - date_published: 2024-10-31T06:49:40.224961+00:00
 

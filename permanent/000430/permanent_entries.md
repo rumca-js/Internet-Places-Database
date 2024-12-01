@@ -1,3 +1,329 @@
+ ## Collection of Hugo and Carla Brown, Cobra to Contemporary, The Hague, Holland. into time .us by rafaël rozendaal, 2012
+ - [https://www.intotime.us](https://www.intotime.us)
+ - date_published: 2024-09-14T15:36:18+00:00
+
+ ## Investors
+ - [https://united-therapeutics-ir.cd.invdcloud-is.us](https://united-therapeutics-ir.cd.invdcloud-is.us)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## United Therapeutics Pipeline
+ - [https://unither-ir-pipeline.cd.invdcloud-is.us](https://unither-ir-pipeline.cd.invdcloud-is.us)
+ - date_published: 2024-10-29T15:38:49.347544+00:00
+
+ ## INVEST SMART CARIBBEAN 2023
+ - [https://investcaribbean.us](https://investcaribbean.us)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Select instance - Invidious
+ - [https://invidio.us](https://invidio.us)
+ - date_published: 2024-04-22T18:59:11+00:00
+
+ ## Show HN: Domino Fit â€“ Domino Tiling Puzzle
+ - [https://dominofit.isotropic.us](https://dominofit.isotropic.us)
+ - date_published: 2024-02-18T17:26:04+00:00
+
+ ## Innovation for Software and Cybersecurity
+ - [https://itemis.us](https://itemis.us)
+ - date_published: 2024-10-13T17:15:19+00:00
+
+ ## NIP06 | Nostr Basic key derivation from mnemonic seed phrase
+ - [https://nip06.jaonoct.us](https://nip06.jaonoct.us)
+ - date_published: 2024-08-18T22:03:52.160176+00:00
+
+ ## JAM SESSION – Burnett Publishing Company
+ - [http://jazzjam.us](http://jazzjam.us)
+ - date_published: 2024-07-15T06:06:15.126693+00:00
+
+ ## J. B. Crawford
+ - [https://jbcrawford.us](https://jbcrawford.us)
+ - date_published: 2023-11-28T06:50:35+00:00
+
+ ## JEFFERY JONES
+ - [https://jefferyjones.us](https://jefferyjones.us)
+ - date_published: 2024-07-04T01:45:06.737013+00:00
+
+ ## The Power of Light – changing the world with photonics!
+ - [https://www.jenoptik.us](https://www.jenoptik.us)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Free Online Form Builder & Form Creator | Jotform
+ - [https://submit.jotform.us](https://submit.jotform.us)
+ - date_published: 2024-06-23T14:33:25+00:00
+
+ ## ~jrc/
+ - [https://jrcpl.us](https://jrcpl.us)
+ - date_published: 2024-05-09T07:47:56.975280+00:00
+
+ ## JSConf US 2012
+ - [https://2012.jsconf.us](https://2012.jsconf.us)
+ - date_published: 2014-09-02T13:51:32+00:00
+
+ ## JSConf US 2019
+ - [https://2019.jsconf.us](https://2019.jsconf.us)
+ - date_published: 2024-06-23T01:31:00.212891+00:00
+
+ ## JSNation – Where the JavaScript Community Unites
+ - [https://jsnation.us](https://jsnation.us)
+ - date_published: 2024-06-20T07:00:22.784045+00:00
+
+ ## Julbo Sunglasses Store for REACTIV, Performance, Goggles & Mountain
+ - [https://julbo.us](https://julbo.us)
+ - date_published: 2024-09-16T04:00:11.456569+00:00
+
+ ## JVC Official Earbuds/Speakers Shop in USA
+ - [https://jvcshop.us](https://jvcshop.us)
+ - date_published: 2024-07-07T10:29:19.312404+00:00
+
+ ## Judicial Watch - Judicial Watch
+ - [http://jwatch.us](http://jwatch.us)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## KA7U – Dedicated to HAM Radio.
+ - [http://ka7u.us](http://ka7u.us)
+ - date_published: 2024-08-10T23:52:17.004968+00:00
+
+ ## Max Kanat-Alexander
+ - [http://max.kanat.us](http://max.kanat.us)
+ - date_published: 2024-07-02T09:06:16.919873+00:00
+
+ ## Home
+ - [https://kanawha.us](https://kanawha.us)
+ - date_published: 2024-07-12T16:18:34+00:00
+
+ ## Kanawha County Sheriff's Office
+ - [http://www.kanawhasheriff.us](http://www.kanawhasheriff.us)
+ - date_published: 2024-07-15T10:48:22.185801+00:00
+
+ ## Kansas History (KS) Web Sites: Native American Tribes, Kansas Trails, Forts, Cattletowns, Trails, Old West, Territorial KS History Online | www.kansashistory.us
+ - [http://www.kansashistory.us](http://www.kansashistory.us)
+ - date_published: 2022-01-28T18:05:21+00:00
+
+ ## Kansas Community Networks: KS Towns, Kansas Counties, Cities: Maps, Town History, Images: Kansas Heritage Group | www.kansastowns.us
+ - [http://www.kansastowns.us](http://www.kansastowns.us)
+ - date_published: 2023-09-12T13:16:04+00:00
+
+ ## Kapten & Son • backpacks, watches, sunglasses & accessories
+ - [https://www.kapten-son.us](https://www.kapten-son.us)
+ - date_published: 2024-06-17T04:05:51.000906+00:00
+
+ ## some words
+ - [https://karmanivero.us](https://karmanivero.us)
+ - date_published: 2023-02-21T07:26:53+00:00
+
+ ## Latest articles from North Korea | KCNA Watch
+ - [https://kcnawatch.us](https://kcnawatch.us)
+ - date_published: 2024-11-12T15:44:21+00:00
+
+ ## Keeper
+ - [https://govcloud.keepersecurity.us](https://govcloud.keepersecurity.us)
+ - date_published: 2021-03-12T18:08:17+00:00
+
+ ## Ken Boreham
+ - [https://kenb.us](https://kenb.us)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home Page
+ - [https://kenyon.us](https://kenyon.us)
+ - date_published: 2024-05-12T05:38:42.570302+00:00
+
+ ## KHK USA Inc | KHK USA Metric Gears
+ - [https://www.khkgears.us](https://www.khkgears.us)
+ - date_published: 2024-09-05T21:27:20.526571+00:00
+
+ ## Khomus
+ - [https://khom.us](https://khom.us)
+ - date_published: 2024-09-16T23:14:46.068317+00:00
+
+ ## The Unofficial Kids Incorporated Show Music/Video Page!
+ - [https://www.kidsincorporated.us](https://www.kidsincorporated.us)
+ - date_published: 2022-11-18T02:34:28+00:00
+
+ ## Home - Kinetic Strategies
+ - [https://kineticstrategies.us](https://kineticstrategies.us)
+ - date_published: 2022-04-08T22:00:54+00:00
+
+ ## Know Your Spending
+ - [https://knowyourspending.klrfm.us](https://knowyourspending.klrfm.us)
+ - date_published: 2021-06-07T12:40:27+00:00
+
+ ## Manga & Books - Discover Kodansha
+ - [https://kodansha.us](https://kodansha.us)
+ - date_published: 2024-10-24T19:19:45.758688+00:00
+
+ ## CountyFusion County Access Portal
+ - [https://countyfusion2.kofiletech.us](https://countyfusion2.kofiletech.us)
+ - date_published: 2024-06-17T11:44:00.459292+00:00
+
+ ## US – Konica Minolta
+ - [https://www.konicaminolta.us](https://www.konicaminolta.us)
+ - date_published: 2024-07-01T12:36:12.922904+00:00
+
+ ## Advisory Services
+ - [https://advisory.kpmg.us](https://advisory.kpmg.us)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## 2024 KPMG US Technology Survey Report
+ - [https://info.kpmg.us](https://info.kpmg.us)
+ - date_published: 2024-10-30T07:17:16+00:00
+
+ ## Krikya: Best IPL | CRICKET | CRAZY TIME | JILI Online Betting in Bangladesh
+ - [https://krikya.us](https://krikya.us)
+ - date_published: 2024-08-28T13:27:15+00:00
+
+ ## kumulonimbus | Jorge Saturno
+ - [https://kumulonimb.us](https://kumulonimb.us)
+ - date_published: 2024-05-09T08:18:42.063817+00:00
+
+ ## Home - Hardin County Schools
+ - [https://www.hardin.kyschools.us](https://www.hardin.kyschools.us)
+ - date_published: 2024-06-29T01:33:21.017870+00:00
+
+ ## Holcim US - Industry leader in building materials
+ - [http://www.lafargeholcim.us](http://www.lafargeholcim.us)
+ - date_published: 2024-07-04T05:35:06+00:00
+
+ ## Butler W. Lampson
+ - [http://butler.lampsons.us](http://butler.lampsons.us)
+ - date_published: 2020-11-13T21:25:54+00:00
+
+ ## EasyList Forum - Board Index
+ - [https://forums.lanik.us](https://forums.lanik.us)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - Lapham's Quarterly
+ - [https://store.laphamsquarterly.us](https://store.laphamsquarterly.us)
+ - date_published: 2024-05-08T09:31:50.137152+00:00
+
+ ## Laracon 2024
+ - [https://laracon.us](https://laracon.us)
+ - date_published: 2024-06-11T08:56:56.869853+00:00
+ - tags: ['laravel', 'convention', 'conference']
+
+ ## Clark County Justice Court, NV
+ - [http://www.lasvegasjusticecourt.us](http://www.lasvegasjusticecourt.us)
+ - date_published: 2024-06-19T18:04:02.864191+00:00
+
+ ## Laughing Squid Hosting
+ - [https://laughingsquid.us](https://laughingsquid.us)
+ - date_published: 2024-05-04T12:00:05.464358+00:00
+
+ ## Laurens, South Carolina – Laurens County Government
+ - [https://laurenscounty.us](https://laurenscounty.us)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Welcome to Lee County Alabama
+ - [http://www.leeco.us](http://www.leeco.us)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Welcome to the Leepers' Website
+ - [http://www.leepers.us](http://www.leepers.us)
+ - date_published: 2024-03-15T16:11:07+00:00
+
+ ## Home
+ - [https://www.left-click.us](https://www.left-click.us)
+ - date_published: 2024-06-26T22:52:26.517798+00:00
+
+ ## LegalListings.us - A Comprehensive Online Legal Resource for Consumers
+ - [https://legallistings.us](https://legallistings.us)
+ - date_published: 2024-05-07T13:31:38.183336+00:00
+
+ ## Maryland Administrative Rules,Statutes,Cases_elaws of Maryland Portal
+ - [http://md.legalzone.us](http://md.legalzone.us)
+ - date_published: 2024-06-20T13:01:18.272406+00:00
+
+ ## Leonardo Electronics US Inc. - Home
+ - [https://www.leonardo.us](https://www.leonardo.us)
+ - date_published: 2024-06-15T02:30:47+00:00
+
+ ## Derma­tology beyond the skin
+ - [https://www.leo-pharma.us](https://www.leo-pharma.us)
+ - date_published: 2024-07-09T16:31:51.388741+00:00
+
+ ## Lesedi by Roland Hughes
+ - [https://lesedi.us](https://lesedi.us)
+ - date_published: 2019-10-12T22:30:24+00:00
+
+ ## LEUCHTTURM1917
+ - [https://www.leuchtturm1917.us](https://www.leuchtturm1917.us)
+ - date_published: 2024-05-04T14:27:36.410443+00:00
+
+ ## Jeremy Lewi’s Webpage – Jeremy's Webpage
+ - [https://lewi.us](https://lewi.us)
+ - date_published: 2024-09-04T14:50:07.919549+00:00
+
+ ## LibraryBox
+ - [http://librarybox.us](http://librarybox.us)
+ - date_published: 2024-05-09T05:11:26.057030+00:00
+
+ ## Licensing Works!® – We Value Timeless Iconic Brands
+ - [https://www.licensingworks.us](https://www.licensingworks.us)
+ - date_published: 2024-06-20T07:40:14.811079+00:00
+
+ ## Chiropractic Adjustment & Rehabilitation | LifeClinic
+ - [https://www.lifeclinics.us](https://www.lifeclinics.us)
+ - date_published: 2024-06-19T10:13:21.503398+00:00
+
+ ## Second Renaissance
+ - [https://ecosystem.lifeitself.us](https://ecosystem.lifeitself.us)
+ - date_published: 2024-06-12T12:39:30.080422+00:00
+
+ ## Life Itself
+ - [https://lifeitself.us](https://lifeitself.us)
+ - date_published: 2024-06-12T12:37:42.587735+00:00
+
+ ## The Tao of Life Itself
+ - [https://tao.lifeitself.us](https://tao.lifeitself.us)
+ - date_published: 2024-06-12T12:41:07.293456+00:00
+
+ ## Home | Making Sense of Crypto and Web3
+ - [https://web3.lifeitself.us](https://web3.lifeitself.us)
+ - date_published: 2024-09-12T18:50:28.019733+00:00
+
+ ## Linda's Haunted Halloween
+ - [http://www.lindashauntedhalloween.us](http://www.lindashauntedhalloween.us)
+ - date_published: 2022-07-11T23:40:38+00:00
+
+ ## Lindsey's Corner|| ft. Buffy & Angel
+ - [http://lindseyonline.us](http://lindseyonline.us)
+ - date_published: 2024-06-20T21:16:39.736353+00:00
+
+ ## Linkurious
+ - [https://linkurio.us](https://linkurio.us)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Little Bets - More With Less
+ - [https://littlebets.us](https://littlebets.us)
+ - date_published: 2022-05-10T19:54:43+00:00
+
+ ## live22 slot เข้าสู่ระบบเว็บสล็อตออนไลน์ที่ดีที่สุด แตกหนักจริง live22
+ - [https://live22slot.us](https://live22slot.us)
+ - date_published: 2024-10-22T14:46:16.968209+00:00
+
+ ## Livingston County, NY - Official Website | Official Website
+ - [https://www.livingstoncounty.us](https://www.livingstoncounty.us)
+ - date_published: 2024-09-18T04:20:24.922671+00:00
+
+ ## Parallelus
+ - [http://para.llel.us](http://para.llel.us)
+ - date_published: 2024-08-11T11:26:19.959661+00:00
+
+ ## Hello
+ - [https://lmen.us](https://lmen.us)
+ - date_published: 2023-12-26T19:09:50.211910+00:00
+ - tags: ['personal']
+
+ ## United States Local Directory | Local Directory Online
+ - [http://localdirectoryonline.us](http://localdirectoryonline.us)
+ - date_published: 2024-06-29T01:58:49.647751+00:00
+
+ ## Home - los40.us
+ - [https://los40.us](https://los40.us)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Rockstar Community Fund – A Pot of Money to DO GOOD
+ - [https://communityfund.lovedrop.us](https://communityfund.lovedrop.us)
+ - date_published: 2024-08-18T10:29:09.395906+00:00
+
  ## lovedust.us - lovedust Zasoby i informacje.
  - [https://lovedust.us](https://lovedust.us)
  - date_published: 2024-06-06T00:03:18+00:00
@@ -3690,329 +4016,4 @@ Sharing - Zoom
  ## Ground Up Ventures
  - [https://www.groundup.vc](https://www.groundup.vc)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hack VC
- - [https://blog.hack.vc](https://blog.hack.vc)
- - date_published: 2024-04-30T06:30:21.250244+00:00
- - tags: ['company', 'web3']
-
- ## Hack VC
- - [https://hack.vc](https://hack.vc)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Matthew Hall
- - [https://hall.vc](https://hall.vc)
- - date_published: 2024-08-11T18:20:23+00:00
-
- ## Hetz Ventures
- - [https://hetz.vc](https://hetz.vc)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## HOME - Hivemind Ventures
- - [https://hivemind.vc](https://hivemind.vc)
- - date_published: 2023-10-25T23:00:05.653730+00:00
-
- ## Hustle Fund Merch Store
- - [https://store.hustlefund.vc](https://store.hustlefund.vc)
- - date_published: 2024-10-27T11:26:19.077476+00:00
-
- ## Welcome fine hustler, we’re glad you stopped by! | Hustle Fund
- - [https://www.hustlefund.vc](https://www.hustlefund.vc)
- - date_published: 2024-10-26T22:00:12+00:00
-
- ## Incisive Ventures – Your partner for growth
- - [https://incisive.vc](https://incisive.vc)
- - date_published: 2023-10-25T23:00:10.873492+00:00
-
- ## Included VC - changing the face of venture capital
- - [https://included.vc](https://included.vc)
- - date_published: 2024-09-08T06:02:11+00:00
-
- ## The Inevitable Collective
- - [http://www.inevitable.vc](http://www.inevitable.vc)
- - date_published: 2024-05-01T02:55:32.649825+00:00
-
- ## inFERENCe - a machine learning blog
- - [https://www.inference.vc](https://www.inference.vc)
- - date_published: 2023-10-25T23:00:14.102745+00:00
-
- ## innofund.vc | early stage venture capital
- - [https://www.innofund.vc](https://www.innofund.vc)
- - date_published: 2024-09-26T09:46:46.165386+00:00
-
- ## 株式会社インサイト
- - [https://www.insite.vc](https://www.insite.vc)
- - date_published: 2024-06-20T01:30:44.935531+00:00
-
- ## Interlock Partners
- - [https://interlock.vc](https://interlock.vc)
- - date_published: 2024-09-18T12:47:27.289348+00:00
-
- ## IOSG Ventures
- - [https://iosg.vc](https://iosg.vc)
- - date_published: 2024-06-04T11:31:51.133861+00:00
-
- ## Irregular Expressions
- - [https://irregex.vc](https://irregex.vc)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## john.vc is available for purchase - Sedo.com
- - [http://john.vc](http://john.vc)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## justin.vc
- - [https://justin.vc](https://justin.vc)
- - date_published: 2024-06-25T00:56:00+00:00
-
- ## Katapult
- - [https://katapult.vc](https://katapult.vc)
- - date_published: 2024-07-12T20:14:27.569938+00:00
-
- ## Konvoy Ventures | A Gaming Venture Capital Firm
- - [https://www.konvoy.vc](https://www.konvoy.vc)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Launch Africa
- - [https://launchafrica.vc](https://launchafrica.vc)
- - date_published: 2024-09-25T13:46:09.162864+00:00
-
- ## The Longevity Fund
- - [https://longevity.vc](https://longevity.vc)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## LongHash Ventures
- - [https://www.longhash.vc](https://www.longhash.vc)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## M12 - Microsoft's Venture Capital Fund
- - [https://m12.vc](https://m12.vc)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## It's Magit! A Git Porcelain inside Emacs
- - [https://magit.vc](https://magit.vc)
- - date_published: 2023-10-25T23:00:23.133712+00:00
-
- ## Mangrove Capital Partners | Home
- - [https://mangrove.vc](https://mangrove.vc)
- - date_published: 2024-05-07T18:19:57.103467+00:00
-
- ## Matrix Partners
- - [https://matrix.vc](https://matrix.vc)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## MatthewBall.vc
- - [https://www.matthewball.vc](https://www.matthewball.vc)
- - date_published: 2023-10-25T23:00:27.289546+00:00
-
- ## Smash.vc - A Capital Partner for SMB Acquisitions
- - [https://moat.vc](https://moat.vc)
- - date_published: 2019-08-09T06:00:29+00:00
-
- ## Market One Capital
- - [https://www.moc.vc](https://www.moc.vc)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## MENA Venture Builder Firm | Modus Capital
- - [https://modus.vc](https://modus.vc)
- - date_published: 2024-09-25T14:56:37.589112+00:00
-
- ## Mozilla Ventures | an Impact Venture Fund From Mozilla
- - [https://mozilla.vc](https://mozilla.vc)
- - date_published: 2024-07-02T21:43:51.293059+00:00
-
- ## network0 | Tom Howard | Substack
- - [https://network0.vc](https://network0.vc)
- - date_published: 2024-06-04T11:31:31.950807+00:00
-
- ## Home
- - [https://nextview.vc](https://nextview.vc)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Nexus Climate
- - [https://nexusclimate.vc](https://nexusclimate.vc)
- - date_published: 2024-09-25T10:13:37.007852+00:00
-
- ## Notion Capital
- - [https://notion.vc](https://notion.vc)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Ocular — Home
- - [https://ocular.vc](https://ocular.vc)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Inception Capital
- - [https://www.opcrypto.vc](https://www.opcrypto.vc)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Openspace Ventures – Southeast Asian Venture Capital Firm, Investing with Active Intelligence
- - [http://openspace.vc](http://openspace.vc)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Home
- - [https://openwater.vc](https://openwater.vc)
- - date_published: 2024-08-07T14:13:49.020372+00:00
-
- ## Orange Collective — YC Alumni Investment Club
- - [https://www.orangecollective.vc](https://www.orangecollective.vc)
- - date_published: 2024-07-08T23:27:09.655359+00:00
-
- ## Home
- - [https://p72.vc](https://p72.vc)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Startup investor update software & investor reporting tool | Paperstreet
- - [https://www.paperstreet.vc](https://www.paperstreet.vc)
- - date_published: 2024-10-23T07:05:24.457299+00:00
-
- ## Predict Investments and Venture Matching | Parsers VC
- - [https://parsers.vc](https://parsers.vc)
- - date_published: 2024-01-07T11:16:06+00:00
-
- ## Pillar VC | Boston VC Firm Supporting Unstoppable Founders
- - [https://pillar.vc](https://pillar.vc)
- - date_published: 2024-10-27T11:27:42.340567+00:00
-
- ## Pioneer Fund
- - [https://www.pioneerfund.vc](https://www.pioneerfund.vc)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Placeholder
- - [https://www.placeholder.vc](https://www.placeholder.vc)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Play Ventures
- - [https://playventures.vc](https://playventures.vc)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## A fundamentals driven crypto investment firm
- - [https://portal.vc](https://portal.vc)
- - date_published: 2024-09-25T11:40:00.490346+00:00
-
- ## Portico Ventures
- - [https://portico.vc](https://portico.vc)
- - date_published: 2024-09-04T14:25:17.160237+00:00
-
- ## PULSAR VC — Venture Сapital Platform
- - [https://pulsar.vc](https://pulsar.vc)
- - date_published: 2024-09-19T12:34:54+00:00
-
- ## Document
- - [https://rmf.vc](https://rmf.vc)
- - date_published: 2024-01-09T01:37:49.507523+00:00
-
- ## GC Venture Fellows | General Catalyst
- - [http://roughdraft.vc](http://roughdraft.vc)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Savannah Fund
- - [http://savannah.vc](http://savannah.vc)
- - date_published: 2024-08-12T04:31:56.406711+00:00
-
- ## SciFi VC
- - [https://scifi.vc](https://scifi.vc)
- - date_published: 2024-04-28T01:41:29.140498+00:00
-
- ## Scribble Ventures - Early Stage Venture Capital
- - [https://www.scribble.vc](https://www.scribble.vc)
- - date_published: 2024-10-12T22:21:39.266159+00:00
-
- ## Senovo – B2B Cloud & SaaS Venture Capital
- - [https://senovo.vc](https://senovo.vc)
- - date_published: 2024-06-05T01:10:40.063430+00:00
-
- ## Serena Capital
- - [https://www.serena.vc](https://www.serena.vc)
- - date_published: 2024-09-17T08:56:08+00:00
-
- ## Shasta Ventures
- - [https://www.shasta.vc](https://www.shasta.vc)
- - date_published: 2024-10-23T07:01:33.940003+00:00
-
- ## Shine Capital
- - [https://www.shine.vc](https://www.shine.vc)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Shrug Capital
- - [https://www.shrug.vc](https://www.shrug.vc)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Smash.vc - A Capital Partner for SMB Acquisitions
- - [https://smash.vc](https://smash.vc)
- - date_published: 2019-08-09T06:00:29+00:00
-
- ## Sourcery | Molly O’Shea | Substack
- - [https://www.sourcery.vc](https://www.sourcery.vc)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Startup Bangladesh Limited - a Venture Capital Company
- - [http://www.startupbangladesh.vc](http://www.startupbangladesh.vc)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Startup Hacks by Alex Iskold
- - [https://www.startuphacks.vc](https://www.startuphacks.vc)
- - date_published: 2024-06-21T09:18:34.830832+00:00
-
- ## StemAI - Scaling LLM-based products
- - [https://stemai.vc](https://stemai.vc)
- - date_published: 2024-02-11T14:56:31+00:00
-
- ## Swift Ventures - Swift Ventures - Early Stage Venture Capital
- - [https://swift.vc](https://swift.vc)
- - date_published: 2024-10-29T20:23:31+00:00
-
- ## Home
- - [https://threshold.vc](https://threshold.vc)
- - date_published: 2024-09-18T22:43:24.141695+00:00
-
- ## Trends Pro — Join 1,000+ Successful Founders Discovering New Markets and Ideas
- - [https://access.trends.vc](https://access.trends.vc)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Discover new markets and ideas
- - [https://join.trends.vc](https://join.trends.vc)
- - date_published: 2024-04-29T07:17:30.473949+00:00
-
- ## Discover new markets and ideas
- - [https://trends.vc](https://trends.vc)
- - date_published: 2024-05-06T13:41:37.686334+00:00
-
- ## UDIA | UDIA
- - [https://u0.vc](https://u0.vc)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Unique.vc | Invest, Raise, and Manage Funds Fully On-Chain
- - [http://unique.vc](http://unique.vc)
- - date_published: 2023-11-19T15:22:53+00:00
-
- ## Unusual Ventures – Your Partner For The Journey Ahead
- - [https://unusual.vc](https://unusual.vc)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Field Guide – Unusual Ventures
- - [https://www.field-guide.unusual.vc](https://www.field-guide.unusual.vc)
- - date_published: 2023-11-14T00:00:00+00:00
-
- ## Uvecon
- - [https://uvecon.vc](https://uvecon.vc)
- - date_published: 2024-04-16T06:25:07+00:00
-
- ## Vesey Ventures | Transforming financial services
- - [https://vesey.vc](https://vesey.vc)
- - date_published: 2024-10-17T22:30:54.684420+00:00
-
- ## Village Global - Early Stage Venture Capital Backed by Some of the World's Best Entrepreneurs
- - [https://www.villageglobal.vc](https://www.villageglobal.vc)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## VINYL
- - [http://vinyl.vc](http://vinyl.vc)
- - date_published: 2024-05-30T21:21:08+00:00
-
- ## Jobs at Visible
- - [https://apply.visible.vc](https://apply.visible.vc)
- - date_published: 2024-09-09T22:24:48.073726+00:00
-
- ## Visible
- - [https://app.visible.vc](https://app.visible.vc)
- - date_published: 2024-09-09T22:24:51.170936+00:00
 

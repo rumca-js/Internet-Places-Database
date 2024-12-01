@@ -1,3 +1,330 @@
+ ## Жизнь в путешествиях
+ - [https://www.life-in-travels.ru](https://www.life-in-travels.ru)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Liquid HUB - Разработка и верстка сайтов для интернет продаж
+ - [https://liquidhub.ru](https://liquidhub.ru)
+ - date_published: 2024-06-18T15:53:45+00:00
+
+ ## Студия «Лист Ветра» — фирменный стиль, полиграфия, дизайн упаковки, создание сайтов.
+ - [http://listvetra.ru](http://listvetra.ru)
+ - date_published: 2024-06-24T05:18:23.755747+00:00
+
+ ## Литрес – сервис электронных и аудиокниг, скачать в fb2 и mp3, читать и слушать онлайн на Litres
+ - [https://cdn.litres.ru](https://cdn.litres.ru)
+ - date_published: 2024-09-18T23:47:48.277515+00:00
+
+ ## DDoS-Guard
+ - [https://litres.ru](https://litres.ru)
+ - date_published: 2024-06-15T19:06:22.741719+00:00
+
+ ## Вход в почтовый ящик Liveinternet.ru
+ - [https://g.liveinternet.ru](https://g.liveinternet.ru)
+ - date_published: 2023-11-29T21:20:09+00:00
+
+ ## LiveInternet @ Статистика и дневники, почта и поиск
+ - [https://liveinternet.ru](https://liveinternet.ru)
+ - date_published: 2024-08-18T12:32:11.928391+00:00
+
+ ## LiWiki : Проекты Live Internet
+ - [http://wiki.liveinternet.ru](http://wiki.liveinternet.ru)
+ - date_published: 2008-11-21T10:56:08+00:00
+
+ ## LiveJournal: Discover global communities of bloggers who share your unique passions and interests.
+ - [https://livejournal.ru](https://livejournal.ru)
+ - date_published: 2024-06-21T14:40:43.244482+00:00
+
+ ## White horse at warehouse
+ - [https://wh.lj.ru](https://wh.lj.ru)
+ - date_published: 2024-06-21T14:57:03.154178+00:00
+
+ ## Летняя компьютерная школа
+ - [https://lksh.ru](https://lksh.ru)
+ - date_published: 2024-05-30T10:40:52+00:00
+
+ ## Legacy Launcher for Minecraft
+ - [https://ll4n.ru](https://ll4n.ru)
+ - date_published: 2024-11-14T08:35:57.050212+00:00
+
+ ## Llamas Shop
+ - [http://llamasshop.ru](http://llamasshop.ru)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Рецепты простые
+ - [https://loewereplica.ru](https://loewereplica.ru)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Марафон Рецепт продвинутой аналитики
+ - [https://analytics-recipe.loginom.ru](https://analytics-recipe.loginom.ru)
+ - date_published: 2024-03-22T06:41:16+00:00
+
+ ## Логотип
+     · Loginom Brandbook
+ - [https://brandbook.loginom.ru](https://brandbook.loginom.ru)
+ - date_published: 2023-09-18T18:12:08+00:00
+
+ ## Марафон Генеральная уборка данных - Data Preprocessing в Loginom
+ - [https://data-preprocessing.loginom.ru](https://data-preprocessing.loginom.ru)
+ - date_published: 2023-08-11T10:20:03+00:00
+
+ ## Демонстрационные стенды | Loginom
+ - [https://demo.loginom.ru](https://demo.loginom.ru)
+ - date_published: 2022-06-17T14:32:49+00:00
+
+ ## Loginom | Технологии анализа данных
+ - [https://downloads.loginom.ru](https://downloads.loginom.ru)
+ - date_published: 2021-01-11T13:52:25+00:00
+
+ ## Introduction
+     · Демопримеры
+ - [https://examples.loginom.ru](https://examples.loginom.ru)
+ - date_published: 2023-08-25T11:31:50+00:00
+
+ ## Главная
+     · Loginom Help
+ - [https://help.loginom.ru](https://help.loginom.ru)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Аналитическая платформа Loginom
+ - [https://loginom.ru](https://loginom.ru)
+ - date_published: 2024-05-04T13:01:54.367055+00:00
+
+ ## Маркетплейс Loginom
+ - [https://marketplace.loginom.ru](https://marketplace.loginom.ru)
+ - date_published: 2024-05-04T13:01:57.467390+00:00
+
+ ## Мастерская Loginom Skills
+ - [https://mastering.loginom.ru](https://mastering.loginom.ru)
+ - date_published: 2024-01-30T16:17:43+00:00
+
+ ## Войти
+ - [https://partners.loginom.ru](https://partners.loginom.ru)
+ - date_published: 2024-05-04T13:02:12.126992+00:00
+
+ ## Loginom Q&A – место для общения специалистов в области Data Science
+ - [https://qa.loginom.ru](https://qa.loginom.ru)
+ - date_published: 2024-05-04T13:02:03.707401+00:00
+
+ ## Introduction
+     · Демопримеры
+ - [https://samples.loginom.ru](https://samples.loginom.ru)
+ - date_published: 2023-08-25T11:31:50+00:00
+
+ ## Витрина
+ - [https://skills.loginom.ru](https://skills.loginom.ru)
+ - date_published: 2024-05-04T13:02:06.364706+00:00
+
+ ## А
+     · Loginom Wiki
+ - [https://wiki.loginom.ru](https://wiki.loginom.ru)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Международные грузоперевозки. Логистика из Европы и США - ООО «Интеркем»
+ - [https://loginter.ru](https://loginter.ru)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Знакомства LovePlanet – знакомства без регистрации бесплатно, бесплатный сайт знакомств.
+ - [https://loveplanet.ru](https://loveplanet.ru)
+ - date_published: 2024-07-04T10:11:53+00:00
+
+ ## Л. Рон Хаббард, Основатель Саентологии и Дианетики
+ - [https://www.lronhubbard.ru](https://www.lronhubbard.ru)
+ - date_published: 2024-06-06T19:39:09.779158+00:00
+
+ ## Lucky Jet онлайн казино : взлетай, покоряй небеса в игре удачи!
+ - [https://luckyjet-games.ru](https://luckyjet-games.ru)
+ - date_published: 2024-01-24T05:44:30+00:00
+
+ ## Madrobots.ru — интернет-магазин экспериментальных гаджетов с краудфандинг площадок Kickstarter и Indiegogo
+ - [https://madrobots.ru](https://madrobots.ru)
+ - date_published: 2024-07-13T13:47:42.039199+00:00
+
+ ## Cоздание сайта кинотеатра
+ - [http://cinema.mahog.ru](http://cinema.mahog.ru)
+ - date_published: 2024-06-27T05:33:53.184548+00:00
+
+ ## Создание сайтов в Омске. Разработка сайта. Создание сайта кинотеатра.
+ - [https://mahog.ru](https://mahog.ru)
+ - date_published: 2024-05-06T20:44:55.232084+00:00
+
+ ## Account Mail.Ru
+ - [https://account.mail.ru](https://account.mail.ru)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Mail.ru Агент - чаты, группы, видеозвонки и яркие стикеры, уведомления о почте.
+ - [https://agent.mail.ru](https://agent.mail.ru)
+ - date_published: 2024-07-13T17:40:57.703258+00:00
+
+ ## Нейросети: как с ними жить. Большой гайд от редакции Hi-Tech Mail.ru
+ - [https://ai.hi-tech.mail.ru](https://ai.hi-tech.mail.ru)
+ - date_published: 2024-09-04T06:27:23.150311+00:00
+
+ ## Авто Mail.ru: тест-драйвы, новости авторынка, авто-обзоры
+ - [https://auto.mail.ru](https://auto.mail.ru)
+ - date_published: 2024-06-02T18:43:49.882107+00:00
+
+ ## VK WorkSpace | коммуникационная платформа для бизнеса от VK
+ - [https://biz.mail.ru](https://biz.mail.ru)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Блог Mail
+ - [https://blog.mail.ru](https://blog.mail.ru)
+ - date_published: 2024-09-04T06:29:22.016450+00:00
+
+ ## Календарь Mail
+ - [https://calendar.mail.ru](https://calendar.mail.ru)
+ - date_published: 2024-09-04T06:32:17.087299+00:00
+
+ ## Battle Teams 2 — бесплатный онлайн-шутер с разнообразным контентом.
+ - [https://cfire.mail.ru](https://cfire.mail.ru)
+ - date_published: 2024-06-18T18:52:29.794347+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo50.cloud.mail.ru](https://cloclo50.cloud.mail.ru)
+ - date_published: 2024-09-04T06:30:01.538530+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo51.cloud.mail.ru](https://cloclo51.cloud.mail.ru)
+ - date_published: 2024-09-04T06:29:42.520380+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo52.cloud.mail.ru](https://cloclo52.cloud.mail.ru)
+ - date_published: 2024-09-04T06:29:23.987273+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo53.cloud.mail.ru](https://cloclo53.cloud.mail.ru)
+ - date_published: 2024-09-04T06:37:09.040869+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo54.cloud.mail.ru](https://cloclo54.cloud.mail.ru)
+ - date_published: 2024-09-04T06:36:43.426008+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [http://cloclo57.cloud.mail.ru](http://cloclo57.cloud.mail.ru)
+ - date_published: 2024-09-04T06:30:02.916560+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [http://cloclo58.cloud.mail.ru](http://cloclo58.cloud.mail.ru)
+ - date_published: 2024-09-04T06:36:46.727797+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo59.cloud.mail.ru](https://cloclo59.cloud.mail.ru)
+ - date_published: 2024-09-04T06:36:49.640842+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo60.cloud.mail.ru](https://cloclo60.cloud.mail.ru)
+ - date_published: 2024-09-04T06:29:35.849143+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo62.cloud.mail.ru](https://cloclo62.cloud.mail.ru)
+ - date_published: 2024-09-04T06:30:04.538377+00:00
+
+ ## Облако от Mail — память для всех фото, видео и файлов
+ - [https://cloclo63.cloud.mail.ru](https://cloclo63.cloud.mail.ru)
+ - date_published: 2024-09-04T06:30:25.729297+00:00
+
+ ## Облако Mail.ru - Бесплатное облачное хранилище для передачи и хранения данных онлайн
+ - [https://cloud.mail.ru](https://cloud.mail.ru)
+ - date_published: 2024-06-01T22:22:07.143990+00:00
+ - tags: ['cloud storage']
+
+ ## My World@Mail.Ru: stay in touch with your classmates and friends
+ - [https://connect.mail.ru](https://connect.mail.ru)
+ - date_published: 2024-06-15T08:49:24.285403+00:00
+
+ ## VK / Главная
+ - [https://corp.mail.ru](https://corp.mail.ru)
+ - date_published: 2024-10-15T20:18:19.103144+00:00
+
+ ## Дети Mail.ru
+ - [https://deti.mail.ru](https://deti.mail.ru)
+ - date_published: 2024-06-02T18:43:43.230594+00:00
+
+ ## VK Добро
+ - [https://dobro.mail.ru](https://dobro.mail.ru)
+ - date_published: 2024-09-04T06:25:49.507711+00:00
+
+ ## Дом Mail
+ - [https://dom.mail.ru](https://dom.mail.ru)
+ - date_published: 2024-09-04T06:21:56.556684+00:00
+
+ ## Log in to Mail.ru — a reliable email client
+ - [https://e.mail.ru](https://e.mail.ru)
+ - date_published: 2024-06-02T18:43:54.476576+00:00
+
+ ## Новости финансов России, США и мира: события, обзоры, аналитика
+ - [https://finance.mail.ru](https://finance.mail.ru)
+ - date_published: 2024-06-02T18:44:00.388580+00:00
+
+ ## Гик-календарь 2024: культовые даты для любителей гаджетов, гик-культуры, космоса и IT-событий
+ - [https://geek-calendar.hi-tech.mail.ru](https://geek-calendar.hi-tech.mail.ru)
+ - date_published: 2024-09-04T06:27:39.562987+00:00
+
+ ## Mail.ru: почта, поиск, новости, прогноз погоды, гороскоп, программа передач
+ - [https://go.mail.ru](https://go.mail.ru)
+ - date_published: 2024-06-10T07:06:45.850412+00:00
+
+ ## Здоровье Mail.ru
+ - [https://health.mail.ru](https://health.mail.ru)
+ - date_published: 2024-06-02T18:43:41.340480+00:00
+
+ ## Помощь по сервисам Mail.ru
+ - [https://help.mail.ru](https://help.mail.ru)
+ - date_published: 2024-05-01T06:46:30.454279+00:00
+
+ ## VK Почта
+ - [https://help.vk.mail.ru](https://help.vk.mail.ru)
+ - date_published: 2024-06-16T12:57:16.272002+00:00
+
+ ## Новости высоких технологий, обзоры смартфонов, гаджетов и бытовой техники - Hi-Tech Mail.ru
+ - [https://hi-tech.mail.ru](https://hi-tech.mail.ru)
+ - date_published: 2024-06-02T18:44:01.993081+00:00
+
+ ## Гороскоп для всех знаков на сегодня
+ - [https://horo.mail.ru](https://horo.mail.ru)
+ - date_published: 2024-06-02T18:43:56.852291+00:00
+
+ ## «Кино Mail.ru»
+ - [https://kino.mail.ru](https://kino.mail.ru)
+ - date_published: 2024-06-02T18:43:32.817535+00:00
+
+ ## Женский журнал | Мода, красота и здоровье, светская жизнь, диеты и рецепты на сайте для женщин - Леди Mail.ru
+ - [https://lady.mail.ru](https://lady.mail.ru)
+ - date_published: 2024-06-02T18:43:27.646150+00:00
+
+ ## Mail.ru: почта, поиск, новости, прогноз погоды, гороскоп, программа передач
+ - [https://mail.ru](https://mail.ru)
+ - date_published: 2024-05-01T06:48:28.144335+00:00
+ - tags: ['mail server']
+
+ ## Маруся — ваша голосовая помощница от Mail.ru
+ - [https://marusia-web.go.mail.ru](https://marusia-web.go.mail.ru)
+ - date_published: 2024-06-02T18:43:28.901784+00:00
+
+ ## VK Cloud ☁ Облачная ИТ-платформа бизнес-класса от VK
+ - [https://mcs.mail.ru](https://mcs.mail.ru)
+ - date_published: 2024-06-20T13:29:23+00:00
+
+ ## Mail: Почта, Облако, Календарь, Заметки, Покупки — сервисы для работы и жизни
+ - [https://media-trend.mail.ru](https://media-trend.mail.ru)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Мой Мир
+ - [https://m.my.mail.ru](https://m.my.mail.ru)
+ - date_published: 2024-06-29T05:18:06.224953+00:00
+
+ ## My World@Mail.Ru: stay in touch with your classmates and friends
+ - [https://my.mail.ru](https://my.mail.ru)
+ - date_published: 2024-06-29T05:18:32.241843+00:00
+
+ ## Новости России и мира, последние события на сегодня
+ - [https://news.mail.ru](https://news.mail.ru)
+ - date_published: 2024-06-02T18:43:35.106972+00:00
+
+ ## VK
+ - [https://nonstandard.sales.mail.ru](https://nonstandard.sales.mail.ru)
+ - date_published: 2024-09-04T06:21:29.157526+00:00
+
  ## Авторизация через OAuth 2.0 от Mail.ru
  - [https://o2.mail.ru](https://o2.mail.ru)
  - date_published: 2024-06-20T12:16:33+00:00
@@ -3695,331 +4022,4 @@
  ## Home | Winter Enrichment Program 2024 at KAUST
  - [https://enrichment.kaust.edu.sa](https://enrichment.kaust.edu.sa)
  - date_published: 2024-01-09T12:12:13+00:00
-
- ## Home
- - [https://facultylife.kaust.edu.sa](https://facultylife.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:14.628809+00:00
-
- ## KAUST Innovation
- - [https://innovation.kaust.edu.sa](https://innovation.kaust.edu.sa)
- - date_published: 2015-04-01T20:00:49+00:00
-
- ## Home - KAUST Insight
- - [https://insight.kaust.edu.sa](https://insight.kaust.edu.sa)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Image and Video Understanding Lab | IVUL | Image and Video Understanding Lab
- - [http://ivul.kaust.edu.sa](http://ivul.kaust.edu.sa)
- - date_published: 2024-08-07T14:40:18+00:00
-
- ## King Abdullah University of Science and Technology | KAUST
- - [https://kaust.edu.sa](https://kaust.edu.sa)
- - date_published: 2024-04-28T03:52:58.644832+00:00
-
- ## HOME
- - [https://kgfp.kaust.edu.sa](https://kgfp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:22.244718+00:00
-
- ## Community Map
- - [https://maps.kaust.edu.sa](https://maps.kaust.edu.sa)
- - date_published: 2024-07-02T06:48:05+00:00
-
- ## Museum of Science & Technology in Islam
- - [https://museum.kaust.edu.sa](https://museum.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:45.045140+00:00
-
- ## Home
- - [https://ora.kaust.edu.sa](https://ora.kaust.edu.sa)
- - date_published: 2024-08-07T14:29:10.327897+00:00
-
- ## PSE
- - [https://pse.kaust.edu.sa](https://pse.kaust.edu.sa)
- - date_published: 2024-08-07T14:29:06.588964+00:00
-
- ## HOME
- - [https://registrar.kaust.edu.sa](https://registrar.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:48.454046+00:00
-
- ## Research Compliance
- - [https://researchcompliance.kaust.edu.sa](https://researchcompliance.kaust.edu.sa)
- - date_published: 2023-03-31T07:07:08+00:00
-
- ## Home
- - [https://rfs.kaust.edu.sa](https://rfs.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:58.353034+00:00
-
- ## Home
- - [https://rtp.kaust.edu.sa](https://rtp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:16.376400+00:00
-
- ## Home
- - [https://smarthealth.kaust.edu.sa](https://smarthealth.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:13.148951+00:00
-
- ## Home | Kaust Sustainability
- - [https://sustainability.kaust.edu.sa](https://sustainability.kaust.edu.sa)
- - date_published: 2024-08-07T14:38:29.458725+00:00
-
- ## THE LENS | KAUST News & Updates
- - [https://thelens.kaust.edu.sa](https://thelens.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:37.273992+00:00
-
- ## HOME
- - [https://tie.kaust.edu.sa](https://tie.kaust.edu.sa)
- - date_published: 2024-04-01T19:01:15+00:00
-
- ## Visual Computing Center | VCC | Visual Computing Center
- - [http://vcc.kaust.edu.sa](http://vcc.kaust.edu.sa)
- - date_published: 2024-08-07T11:28:41+00:00
-
- ## Home
- - [https://vsrp.kaust.edu.sa](https://vsrp.kaust.edu.sa)
- - date_published: 2024-08-07T14:28:19.266166+00:00
-
- ## الصفحة الرئيسية
- - [https://admissions.kfupm.edu.sa](https://admissions.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:22.769172+00:00
-
- ## KFUPM Alum Portal
- - [https://alum.kfupm.edu.sa](https://alum.kfupm.edu.sa)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## KFUPM Alum Portal
- - [http://alumni.kfupm.edu.sa](http://alumni.kfupm.edu.sa)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## KFUPM
- - [https://apply.kfupm.edu.sa](https://apply.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:25.541394+00:00
-
- ## Blackboard Learn
- - [https://blackboard.kfupm.edu.sa](https://blackboard.kfupm.edu.sa)
- - date_published: 2004-09-04T05:31:21+00:00
-
- ## Home | CGIS
- - [https://cgis.kfupm.edu.sa](https://cgis.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:36.966618+00:00
-
- ## Deanship of Academic Development
- - [https://dad.kfupm.edu.sa](https://dad.kfupm.edu.sa)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Dalil - King Fahd University of Petroleum and Minerals
- - [https://dalil.kfupm.edu.sa](https://dalil.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:20.167626+00:00
-
- ## Welcome to KFUPM ePrints - KFUPM ePrints
- - [https://eprints.kfupm.edu.sa](https://eprints.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:16.680105+00:00
-
- ## Information Technology | Home
- - [https://it.kfupm.edu.sa](https://it.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:08.227703+00:00
-
- ## Jobs | KFUPM
- - [https://jobs.kfupm.edu.sa](https://jobs.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:09.941340+00:00
-
- ## King Fahd University of Petroleum and Minerals
- - [https://kfupm.edu.sa](https://kfupm.edu.sa)
- - date_published: 2024-06-01T22:22:04.343356+00:00
-
- ## NVU | Home
- - [https://library.kfupm.edu.sa](https://library.kfupm.edu.sa)
- - date_published: 2024-09-03T12:25:01+00:00
-
- ## MediaCenter|
-          Home
- - [https://mediacenter.kfupm.edu.sa](https://mediacenter.kfupm.edu.sa)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## KFUPM Medical Center|
-      Home
- - [https://medicalcenter.kfupm.edu.sa](https://medicalcenter.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:18.625447+00:00
-
- ## KFUPM Central Authentication Service
- - [https://portal.kfupm.edu.sa](https://portal.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:27.484708+00:00
-
- ## KFUPM |
-       Registrar
- - [https://registrar.kfupm.edu.sa](https://registrar.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:34.401470+00:00
-
- ## KFUPM - Building a more sustainable future
-            
-            
-            
-            - Sustainability
- - [https://sustainability.kfupm.edu.sa](https://sustainability.kfupm.edu.sa)
- - date_published: 2024-09-04T05:31:28.976736+00:00
-
- ## Dammam Community College
- - [https://www.dcc.kfupm.edu.sa](https://www.dcc.kfupm.edu.sa)
- - date_published: 2024-08-06T11:12:31+00:00
-
- ## صحيفة آفاق | صوت الجامعة
- - [https://aafaq.kku.edu.sa](https://aafaq.kku.edu.sa)
- - date_published: 2024-09-03T09:24:47+00:00
-
- ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية بخميس مشيط
- - [https://amskh.kku.edu.sa](https://amskh.kku.edu.sa)
- - date_published: 2024-09-04T05:25:34.659752+00:00
-
- ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية بمحايل عسير
- - [https://amsmf.kku.edu.sa](https://amsmf.kku.edu.sa)
- - date_published: 2024-09-04T05:27:51.598813+00:00
-
- ## الأمانة العامة لأوقاف الجامعة
- - [https://awqaf.kku.edu.sa](https://awqaf.kku.edu.sa)
- - date_published: 2024-09-04T04:50:03+00:00
-
- ## الصفحة الرئيسية | كلية العلوم الطبية التطبيقية
- - [https://cams.kku.edu.sa](https://cams.kku.edu.sa)
- - date_published: 2024-09-04T05:28:06.549500+00:00
-
- ## الصفحة الرئيسية | كلية العمارة والتخطيط
- - [https://cap.kku.edu.sa](https://cap.kku.edu.sa)
- - date_published: 2024-09-04T05:26:06.051506+00:00
-
- ## الصفحة الرئيسية | كلية الأعمال
- - [https://cb.kku.edu.sa](https://cb.kku.edu.sa)
- - date_published: 2024-09-04T05:27:42.701175+00:00
-
- ## Home page | College of Languages and Translation
- - [https://clt.kku.edu.sa](https://clt.kku.edu.sa)
- - date_published: 2024-09-04T05:27:54.017634+00:00
-
- ## الرئيسية | الكلية التطبيقية
- - [https://comkh.kku.edu.sa](https://comkh.kku.edu.sa)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية بمحايل عسير
- - [https://comm.kku.edu.sa](https://comm.kku.edu.sa)
- - date_published: 2024-09-04T05:28:25.301925+00:00
-
- ## الصفحة الرئيسية | الكلية التطبيقية برجال ألمع
- - [https://comraf.kku.edu.sa](https://comraf.kku.edu.sa)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home page | كلية علوم الحاسب
- - [https://cs.kku.edu.sa](https://cs.kku.edu.sa)
- - date_published: 2024-09-04T05:29:13.956458+00:00
-
- ## CTS Enjaz (Development)
- - [https://ctsenjaz.kku.edu.sa](https://ctsenjaz.kku.edu.sa)
- - date_published: 2022-11-11T03:47:32+00:00
-
- ## Home Page | الإدارة العامة للأمن السيبراني
- - [https://cyber.kku.edu.sa](https://cyber.kku.edu.sa)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## عمادة القبول والتسجيل | عمادة القبول والتسجيل
- - [https://dar.kku.edu.sa](https://dar.kku.edu.sa)
- - date_published: 2024-09-04T05:28:32.640530+00:00
-
- ## منصة البيانات المفتوحة
- - [https://data.kku.edu.sa](https://data.kku.edu.sa)
- - date_published: 2024-09-04T05:29:15.878114+00:00
-
- ## الصفحة الرئيسية | كلية طب الأسنان
- - [https://dent.kku.edu.sa](https://dent.kku.edu.sa)
- - date_published: 2024-09-04T05:28:16.567089+00:00
-
- ## الصفحة الرئيسية | مكتب البيانات
- - [https://dmo.kku.edu.sa](https://dmo.kku.edu.sa)
- - date_published: 2024-09-04T05:27:49.349798+00:00
-
- ## الصفحة الرئيسية | عمادة البحث و الدراسات العليا
- - [https://dps.kku.edu.sa](https://dps.kku.edu.sa)
- - date_published: 2024-09-04T05:28:49.980613+00:00
-
- ## الرئيسية
- - [https://dtc.kku.edu.sa](https://dtc.kku.edu.sa)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## ELC | English Language Center
- - [https://elc.kku.edu.sa](https://elc.kku.edu.sa)
- - date_published: 2024-09-04T05:27:23.870929+00:00
-
- ## ELD – عمادة التعلم الإلكتروني بجامعة الملك خالد
- - [https://elearning.kku.edu.sa](https://elearning.kku.edu.sa)
- - date_published: 2024-09-03T17:05:07+00:00
-
- ## كلية الهندسة بأبها |
- - [https://engineering.kku.edu.sa](https://engineering.kku.edu.sa)
- - date_published: 2024-09-04T05:25:55+00:00
-
- ## الأبحاث العلمية
- - [https://eprints.kku.edu.sa](https://eprints.kku.edu.sa)
- - date_published: 2024-09-04T05:27:57.253335+00:00
-
- ## Forms V2 Home | جامعة الملك خالد
- - [https://form.kku.edu.sa](https://form.kku.edu.sa)
- - date_published: 2024-09-04T05:25:37+00:00
-
- ## الصفحة الرئيسية | الإدارة العامة للموارد البشرية
- - [https://hr.kku.edu.sa](https://hr.kku.edu.sa)
- - date_published: 2024-09-04T05:27:31.303734+00:00
-
- ## الصفحة الرئيسية: | كلية الآداب والعلوم الإنسانية
- - [https://hs.kku.edu.sa](https://hs.kku.edu.sa)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## الصفحة الرئيسية | الإدارة العامة للإستثمار
- - [https://invest.kku.edu.sa](https://invest.kku.edu.sa)
- - date_published: 2024-09-04T05:25:45.152368+00:00
-
- ## الصفحة الرئيسية | معهد الدراسات والخدمات الاستشارية
- - [https://iscs.kku.edu.sa](https://iscs.kku.edu.sa)
- - date_published: 2024-09-04T05:28:44.610490+00:00
-
- ## الصفحة الرئيسية | كلية الشريعة وأصول الدين
- - [https://islp.kku.edu.sa](https://islp.kku.edu.sa)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | International Student
- - [https://istudents.kku.edu.sa](https://istudents.kku.edu.sa)
- - date_published: 2024-09-04T00:47:48+00:00
-
- ## تقنية المعلومات | IT
- - [https://it.kku.edu.sa](https://it.kku.edu.sa)
- - date_published: 2024-09-04T05:25:31.436648+00:00
-
- ## الصفحة الرئيسية | إدارة النشر العلمي
- - [https://journals.kku.edu.sa](https://journals.kku.edu.sa)
- - date_published: 2024-09-04T05:28:13.884106+00:00
-
- ## الصفحة الرّئيسيّة | King Khalid University
- - [https://kku.edu.sa](https://kku.edu.sa)
- - date_published: 2024-06-01T22:22:02.287261+00:00
-
- ## الصفحة الرئيسية | كلية الحقوق
- - [https://law.kku.edu.sa](https://law.kku.edu.sa)
- - date_published: 2024-09-04T05:27:20.718217+00:00
-
- ## الصفحة الرئيسية | الإدارة العامة لمصادر المعرفة
- - [https://lib.kku.edu.sa](https://lib.kku.edu.sa)
- - date_published: 2024-09-04T05:25:27.640018+00:00
-
- ## King Khalid University
- - [https://lms.kku.edu.sa](https://lms.kku.edu.sa)
- - date_published: 2024-09-04T05:28:34.802469+00:00
-
- ## الإدارة العامة للإعلام والعلاقات |
- - [https://media.kku.edu.sa](https://media.kku.edu.sa)
- - date_published: 2024-09-04T05:26:04.105717+00:00
-
- ## Home page | College of Medicine
- - [https://medicine.kku.edu.sa](https://medicine.kku.edu.sa)
- - date_published: 2024-09-04T05:29:40.403712+00:00
-
- ## الصفحة الرئيسية | كلية التمريض بخميس مشيط
- - [https://nursingkh.kku.edu.sa](https://nursingkh.kku.edu.sa)
- - date_published: 2024-09-04T05:29:45.322038+00:00
-
- ## الصفحة الرئيسية | كلية التمريض
- - [https://nursing.kku.edu.sa](https://nursing.kku.edu.sa)
- - date_published: 2024-09-04T05:28:47.225870+00:00
 

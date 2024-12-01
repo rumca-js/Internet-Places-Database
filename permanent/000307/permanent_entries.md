@@ -1,3 +1,239 @@
+ ## Redirecting...
+ - [https://lamini-ai.github.io](https://lamini-ai.github.io)
+ - date_published: 2024-08-15T23:52:25+00:00
+
+ ## Lamusia Project
+ - [https://lamusia.github.io](https://lamusia.github.io)
+ - date_published: 2018-01-16T12:15:08+00:00
+
+ ## LANCE EWING
+ - [https://lanceewing.github.io](https://lanceewing.github.io)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Language-Mediated, Object-Centric Representation Learning
+ - [https://lang-orl.github.io](https://lang-orl.github.io)
+ - date_published: 2021-06-07T00:15:49+00:00
+
+ ## LangSplat: 3D Language Gaussian Splatting
+ - [https://langsplat.github.io](https://langsplat.github.io)
+ - date_published: 2024-04-05T03:34:54+00:00
+
+ ## Language for 3D Scenes Workshop
+ - [https://languagefor3dscenes.github.io](https://languagefor3dscenes.github.io)
+ - date_published: 2023-10-03T13:33:20+00:00
+
+ ## Language to Reward for Robotic Skill Synthesis
+ - [https://language-to-reward.github.io](https://language-to-reward.github.io)
+ - date_published: 2023-11-06T02:34:28+00:00
+
+ ## Xiuye's Home
+ - [https://laoreja.github.io](https://laoreja.github.io)
+ - date_published: 2024-02-07T05:58:11+00:00
+ - tags: ['personal']
+
+ ## Large World Models
+ - [https://largeworldmodel.github.io](https://largeworldmodel.github.io)
+ - date_published: 2024-02-14T08:02:51.696172+00:00
+
+ ## LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+ - [https://lasr-google.github.io](https://lasr-google.github.io)
+ - date_published: 2023-07-21T05:43:08+00:00
+
+ ## Last9 — The Reliability Platform
+ - [https://last9.github.io](https://last9.github.io)
+ - date_published: 2024-03-20T04:03:13+00:00
+
+ ## Yao Li (李垚), Ph.D.
+ - [https://lastland.github.io](https://lastland.github.io)
+ - date_published: 2024-06-25T00:47:13+00:00
+
+ ## Latent Consistency Models: Synthesizing High-Resolution Images with Few-step Inference
+ - [https://latent-consistency-models.github.io](https://latent-consistency-models.github.io)
+ - date_published: 2023-11-16T09:40:10+00:00
+
+ ## Text-driven Visual Synthesis with Latent Diffusion Prior Demo
+ - [https://latent-diffusion-prior.github.io](https://latent-diffusion-prior.github.io)
+ - date_published: 2023-04-01T14:19:27+00:00
+
+ ## LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation
+ - [https://latentfusion.github.io](https://latentfusion.github.io)
+ - date_published: 2020-11-27T10:28:30+00:00
+
+ ## Latent Intrinsic
+ - [https://latent-intrinsics.github.io](https://latent-intrinsics.github.io)
+ - date_published: 2024-06-28T19:20:53+00:00
+
+ ## Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation
+ - [https://latent-shift.github.io](https://latent-shift.github.io)
+ - date_published: 2023-06-04T00:11:44+00:00
+
+ ## Jiawei Zhou
+ - [https://latitudezhou.github.io](https://latitudezhou.github.io)
+ - date_published: 2023-12-27T06:26:22+00:00
+
+ ## Laura Sanità
+ - [https://laurasanita.github.io](https://laurasanita.github.io)
+ - date_published: 2024-05-15T10:41:37+00:00
+
+ ## About Me - Lauren Chambers
+ - [https://laurenmarietta.github.io](https://laurenmarietta.github.io)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Laurent Dinh
+ - [https://laurent-dinh.github.io](https://laurent-dinh.github.io)
+ - date_published: 2022-03-09T00:00:00+00:00
+
+ ## Machine Logic
+ - [https://lawrencecpaulson.github.io](https://lawrencecpaulson.github.io)
+ - date_published: 2023-10-25T19:48:01.142497+00:00
+
+ ## Marcelo Lazaroni – Developing for the Interwebs
+ - [https://lazamar.github.io](https://lazamar.github.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Lazy Diffusion Transformer for Interactive Image Editing
+ - [https://lazydiffusion.github.io](https://lazydiffusion.github.io)
+ - date_published: 2024-04-19T16:41:58+00:00
+
+ ## 🚀 Getting Started | LazyVim
+ - [https://lazyvim.github.io](https://lazyvim.github.io)
+ - date_published: 2023-10-30T13:51:55.887972+00:00
+ - tags: ['vim', 'open source', 'desktop program', 'programming ide']
+
+ ## Loïck  Bourdois
+ - [https://lbourdois.github.io](https://lbourdois.github.io)
+ - date_published: 2024-02-10T16:37:06+00:00
+
+ ## Lingjiao Chen's Homepage
+ - [https://lchen001.github.io](https://lchen001.github.io)
+ - date_published: 2024-04-23T05:49:47+00:00
+
+ ## Development notes for my iOS and macOS apps
+ - [https://ldenoue.github.io](https://ldenoue.github.io)
+ - date_published: 2022-07-13T13:54:09+00:00
+
+ ## Redirecting…
+ - [https://ldhulipala.github.io](https://ldhulipala.github.io)
+ - date_published: 2023-11-12T17:19:58+00:00
+
+ ## Lean Forward
+ - [https://lean-forward.github.io](https://lean-forward.github.io)
+ - date_published: 2024-04-30T15:35:24+00:00
+
+ ## Lean community
+ - [https://leanprover-community.github.io](https://leanprover-community.github.io)
+ - date_published: 2024-04-23T15:17:39.267998+00:00
+ - tags: ['library', 'math']
+
+ ## Lean
+ - [https://leanprover.github.io](https://leanprover.github.io)
+ - date_published: 2023-10-25T19:48:02.846447+00:00
+
+ ## Leap Project
+ - [https://leap-project.github.io](https://leap-project.github.io)
+ - date_published: 2022-06-03T15:10:52+00:00
+
+ ## Learning 3D Generative Models
+ - [https://learn3dgen.github.io](https://learn3dgen.github.io)
+ - date_published: 2020-06-15T00:58:26+00:00
+
+ ## learnbyexample
+ - [https://learnbyexample.github.io](https://learnbyexample.github.io)
+ - date_published: 2023-10-25T19:48:04.400530+00:00
+
+ ## Learning for 3D Vision
+ - [https://learning3d.github.io](https://learning3d.github.io)
+ - date_published: 2024-04-15T12:01:16+00:00
+
+ ## Learning By Doing - NeurIPS 2021 Competition
+ - [https://learningbydoingcompetition.github.io](https://learningbydoingcompetition.github.io)
+ - date_published: 2022-11-29T14:41:16+00:00
+
+ ## Home
+ - [https://learningwala.github.io](https://learningwala.github.io)
+ - date_published: 2024-05-12T05:30:39.347293+00:00
+
+ ## Learning to Autofocus
+ - [https://learntoautofocus-google.github.io](https://learntoautofocus-google.github.io)
+ - date_published: 2021-06-15T21:53:15+00:00
+
+ ## Greek geek
+ - [https://lecromee.github.io](https://lecromee.github.io)
+ - date_published: 2023-07-08T06:13:59+00:00
+
+ ## Full Stack Machine Learning
+ - [https://leehanchung.github.io](https://leehanchung.github.io)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Blog Archive
+ - [https://leejo.github.io](https://leejo.github.io)
+ - date_published: 2023-10-25T19:48:07.710311+00:00
+
+ ## ZH's Pocket
+ - [https://leezhenghui.github.io](https://leezhenghui.github.io)
+ - date_published: 2021-10-13T01:34:54+00:00
+
+ ## Bits of Insight
+ - [https://legends2k.github.io](https://legends2k.github.io)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## LeibTon
+ - [https://leibton.github.io](https://leibton.github.io)
+ - date_published: 2023-12-15T19:45:46+00:00
+ - tags: ['personal']
+
+ ## leila kim
+ - [https://leilankim.github.io](https://leilankim.github.io)
+ - date_published: 2021-08-19T20:47:52+00:00
+
+ ## Lei Xiaohua's learning resource about video/audio technics
+ - [https://leixiaohua1020.github.io](https://leixiaohua1020.github.io)
+ - date_published: 2016-04-07T04:44:26+00:00
+
+ ## 蘇仕揚 Shih-Yang Su
+ - [https://lemonatsu.github.io](https://lemonatsu.github.io)
+ - date_published: 2024-04-16T18:01:27+00:00
+
+ ## Bao Pham
+ - [https://lemon-cmd.github.io](https://lemon-cmd.github.io)
+ - date_published: 2023-12-13T00:41:45+00:00
+
+ ## Leonidas Lampropoulos - Home
+ - [https://lemonidas.github.io](https://lemonidas.github.io)
+ - date_published: 2023-10-27T08:12:16.955543+00:00
+
+ ## Lem
+ - [https://lem-project.github.io](https://lem-project.github.io)
+ - date_published: 2024-05-22T04:49:11.418569+00:00
+
+ ## Publications
+ - [https://lenaarmstrong.github.io](https://lenaarmstrong.github.io)
+ - date_published: 2024-05-20T15:38:31+00:00
+
+ ## Lena Voita
+ - [https://lena-voita.github.io](https://lena-voita.github.io)
+ - date_published: 2023-11-17T00:16:19+00:00
+
+ ## Lenny Martinez Dominguez
+ - [https://lennymd.github.io](https://lennymd.github.io)
+ - date_published: 2024-07-10T09:57:20+00:00
+
+ ## Paul Le
+ - [https://lenpaul.github.io](https://lenpaul.github.io)
+ - date_published: 2021-07-17T03:58:24+00:00
+
+ ## Lensfun
+ - [https://lensfun.github.io](https://lensfun.github.io)
+ - date_published: 2024-06-10T21:42:56+00:00
+
+ ## Leo Balter
+ - [https://leobalter.github.io](https://leobalter.github.io)
+ - date_published: 2014-02-19T00:00:00+00:00
+
+ ## Leo Herrmann
+ - [https://leoherrmann.github.io](https://leoherrmann.github.io)
+ - date_published: 2021-05-17T19:37:21+00:00
+
  ## Leonid Keselman
  - [https://leonidk.github.io](https://leonidk.github.io)
  - date_published: 2023-08-29T14:18:39+00:00
@@ -3808,240 +4044,4 @@
  ## Redirecting to https://py-pdf.github.io/
  - [https://pyfpdf.github.io](https://pyfpdf.github.io)
  - date_published: 2023-08-04T17:49:39+00:00
-
- ## py-free-threading
- - [https://py-free-threading.github.io](https://py-free-threading.github.io)
- - date_published: 2024-08-14T16:04:52+00:00
-
- ## PyFunceble
- - [http://pyfunceble.github.io](http://pyfunceble.github.io)
- - date_published: 2023-04-29T20:13:06+00:00
-
- ## Show HN: PyKidos, Teach Your Kid Python in the Browser
- - [https://pykidos.github.io](https://pykidos.github.io)
- - date_published: 2024-03-14T14:45:33+00:00
-
- ## PyMC Labs
- - [https://pymc-labs.github.io](https://pymc-labs.github.io)
- - date_published: 2024-09-09T16:38:23+00:00
-
- ## pypackaging-native
- - [https://pypackaging-native.github.io](https://pypackaging-native.github.io)
- - date_published: 2023-10-25T19:51:23.653265+00:00
-
- ## The py-pdf organization
- - [https://py-pdf.github.io](https://py-pdf.github.io)
- - date_published: 2023-10-09T20:14:26+00:00
-
- ## pyrotelekinetic
- - [https://pyrotelekinetic.github.io](https://pyrotelekinetic.github.io)
- - date_published: 2024-02-21T17:12:43+00:00
-
- ## Python-Markdown — Python-Markdown 3.7 documentation
- - [https://python-markdown.github.io](https://python-markdown.github.io)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Python-xy.GitHub.io by python-xy
- - [http://python-xy.github.io](http://python-xy.github.io)
- - date_published: 2015-11-26T06:43:30+00:00
-
- ## pyTranscriber
- - [https://pytranscriber.github.io](https://pytranscriber.github.io)
- - date_published: 2024-08-17T10:49:39+00:00
-
- ## Christian Steinruecken
- - [https://q4.github.io](https://q4.github.io)
- - date_published: 2024-06-30T14:16:24+00:00
-
- ## Quentin Berthet
- - [https://q-berthet.github.io](https://q-berthet.github.io)
- - date_published: 2024-06-17T12:24:17+00:00
-
- ## Qbricks
- - [https://qbricks.github.io](https://qbricks.github.io)
- - date_published: 2024-05-27T06:59:34+00:00
-
- ## Quality-Diversity through AI Feedback
- - [https://qdaif.github.io](https://qdaif.github.io)
- - date_published: 2024-05-02T12:13:28+00:00
-
- ## Qian Huang
- - [https://q-hwang.github.io](https://q-hwang.github.io)
- - date_published: 2023-11-28T22:29:02+00:00
-
- ## Qianqian Wang
- - [https://qianqianwang68.github.io](https://qianqianwang68.github.io)
- - date_published: 2024-06-10T13:23:20.953174+00:00
- - tags: ['personal']
-
- ## Welcome to Qianqian's World
- - [https://qianqianzhu.github.io](https://qianqianzhu.github.io)
- - date_published: 2021-10-22T00:00:00+00:00
-
- ## About me
- - [https://qiaozhijian.github.io](https://qiaozhijian.github.io)
- - date_published: 2024-05-16T00:49:51+00:00
-
- ## Qimin Chen
- - [https://qiminchen.github.io](https://qiminchen.github.io)
- - date_published: 2024-04-30T05:11:59.450327+00:00
- - tags: ['personal']
-
- ## Qingyong Hu | University of Oxford
- - [https://qingyonghu.github.io](https://qingyonghu.github.io)
- - date_published: 2007-02-11T00:00:00+00:00
-
- ## Qitian Wu
- - [https://qitianwu.github.io](https://qitianwu.github.io)
- - date_published: 2024-07-11T05:32:40+00:00
-
- ## Zoey  Chen
- - [https://qiuyuchen14.github.io](https://qiuyuchen14.github.io)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## 自己紹介 - quantified-qnighy
- - [https://qnighy.github.io](https://qnighy.github.io)
- - date_published: 2023-07-18T13:01:26+00:00
-
- ## Home
- - [https://qodotplugin.github.io](https://qodotplugin.github.io)
- - date_published: 2023-09-03T02:33:42+00:00
-
- ## QTIM
- - [https://qtim-lab.github.io](https://qtim-lab.github.io)
- - date_published: 2024-07-05T15:12:59+00:00
-
- ## qTox: A New Kind of Instant Messaging
- - [https://qtox.github.io](https://qtox.github.io)
- - date_published: 2022-05-08T08:03:15+00:00
-
- ## Quadfield
- - [https://quadraturefields.github.io](https://quadraturefields.github.io)
- - date_published: 2024-08-27T17:05:32+00:00
-
- ## q9i
- - [https://quantum9innovation.github.io](https://quantum9innovation.github.io)
- - date_published: 2023-11-01T20:47:22+00:00
-
- ## Quark: Real-Time, High-Resolution, and General Neural View Synthesis
- - [https://quark-3d.github.io](https://quark-3d.github.io)
- - date_published: 2024-11-27T02:02:00+00:00
-
- ## quarkiverse.io
- - [https://quarkiverse.github.io](https://quarkiverse.github.io)
- - date_published: 2023-10-13T11:37:04+00:00
-
- ## IETF QUIC Working Group
- - [https://quicwg.github.io](https://quicwg.github.io)
- - date_published: 2023-11-13T13:15:14+00:00
-
- ## Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos
- - [https://quilt-llava.github.io](https://quilt-llava.github.io)
- - date_published: 2024-03-06T10:27:55+00:00
-
- ## Qwen
- - [https://qwenlm.github.io](https://qwenlm.github.io)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Qwlouse
- - [https://qwlouse.github.io](https://qwlouse.github.io)
- - date_published: 2017-11-30T15:54:43+00:00
-
- ## Qingyang's Log
- - [https://qywu.github.io](https://qywu.github.io)
- - date_published: 2020-12-09T00:00:00+00:00
-
- ## Qi Zhang
- - [https://qzhang-cv.github.io](https://qzhang-cv.github.io)
- - date_published: 2024-05-04T15:42:13.033612+00:00
-
- ## r12a.io
- - [http://r12a.github.io](http://r12a.github.io)
- - date_published: 2024-05-15T16:47:42+00:00
-
- ## Relational Representation Learning
- - [https://r2learning.github.io](https://r2learning.github.io)
- - date_published: 2019-01-30T17:51:33+00:00
-
- ## Ruba Abu-Salma
- - [https://rabu-salma.github.io](https://rabu-salma.github.io)
- - date_published: 2022-09-21T21:13:04+00:00
-
- ## Rachel Freedman
- - [https://rachelfreedman.github.io](https://rachelfreedman.github.io)
- - date_published: 2023-11-05T02:12:45+00:00
- - tags: ['personal']
-
- ## https://rackerlabs.github.io
- - [https://rackerlabs.github.io](https://rackerlabs.github.io)
- - date_published: 2015-02-05T17:04:16+00:00
-
- ## @radekmie’s take on IT and stuff
- - [https://radekmie.github.io](https://radekmie.github.io)
- - date_published: 2023-10-25T19:51:26.585195+00:00
-
- ## radx64
- - [http://radx64.github.io](http://radx64.github.io)
- - date_published: 2021-08-21T10:57:08+00:00
-
- ## Rafael Valle
- - [https://rafaelvalle.github.io](https://rafaelvalle.github.io)
- - date_published: 2024-02-15T15:05:28+00:00
-
- ## rafalab
- - [https://rafalab.github.io](https://rafalab.github.io)
- - date_published: 2024-02-24T18:03:46+00:00
-
- ## Rafael Bayer
- - [https://rafibayer.github.io](https://rafibayer.github.io)
- - date_published: 2023-12-31T00:00:00+00:00
-
- ## Raft Consensus Algorithm
- - [https://raft.github.io](https://raft.github.io)
- - date_published: 2023-10-25T19:51:29.605767+00:00
-
- ## Rahul Venkatesh
- - [https://rahulvenkk.github.io](https://rahulvenkk.github.io)
- - date_published: 2024-06-19T20:07:27+00:00
-
- ## Anant Rai's Home
- - [https://raianant.github.io](https://raianant.github.io)
- - date_published: 2023-12-21T21:51:51+00:00
- - tags: ['personal']
-
- ## RAID 2024 – The 27th International Symposium on Research in Attacks, Intrusions and Defenses
- - [https://raid2024.github.io](https://raid2024.github.io)
- - date_published: 2024-07-19T16:34:45+00:00
-
- ## Shafiq Joty
- - [https://raihanjoty.github.io](https://raihanjoty.github.io)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Redirecting to https://rail.eecs.berkeley.edu/
- - [https://rail-berkeley.github.io](https://rail-berkeley.github.io)
- - date_published: 2023-03-22T20:55:08+00:00
-
- ## RailsApps · Build and Learn · Examples and Tutorials
- - [http://railsapps.github.io](http://railsapps.github.io)
- - date_published: 2022-01-03T21:16:05+00:00
-
- ## Rainbowflesh's blog
- - [https://rainbowflesh.github.io](https://rainbowflesh.github.io)
- - date_published: 2024-01-15T15:31:59+00:00
-
- ## Home
- - [https://rainsworth.github.io](https://rainsworth.github.io)
- - date_published: 2023-05-25T11:18:02+00:00
-
- ## DevBlog - Personal Blog Template
- - [https://rajabia.github.io](https://rajabia.github.io)
- - date_published: 2024-02-16T02:58:29+00:00
-
- ## rajanie prabha
- - [https://rajanieprabha.github.io](https://rajanieprabha.github.io)
- - date_published: 2024-05-07T09:11:03+00:00
-
- ## Rajarshi Das
- - [https://rajarshd.github.io](https://rajarshd.github.io)
- - date_published: 2024-06-14T14:59:27+00:00
 

@@ -1,3 +1,155 @@
+ ## Power Your Potential with MakeMusic Cloud - MakeMusic
+ - [http://www.smartmusic.com](http://www.smartmusic.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## SmartNews – Smart Audience
+ - [https://us-advertising.smartnews.com](https://us-advertising.smartnews.com)
+ - date_published: 2024-10-22T12:37:46.693464+00:00
+
+ ## SmartNews - Discover your world every day
+ - [https://www.smartnews.com](https://www.smartnews.com)
+ - date_published: 2024-07-01T09:49:54.715836+00:00
+
+ ## Software Development Agency UK
+ - [https://smartpandas.com](https://smartpandas.com)
+ - date_published: 2024-10-30T23:21:45+00:00
+
+ ## SPI: Community and Education for Entrepreneurs
+ - [https://www.smartpassiveincome.com](https://www.smartpassiveincome.com)
+ - date_published: 2023-09-04T18:15:41+00:00
+
+ ## Free photo image downloads for bloggers - Smart Photo Stock
+ - [https://smartphotostock.com](https://smartphotostock.com)
+ - date_published: 2024-07-10T11:18:44.335043+00:00
+
+ ## Smartprix - Best Online Comparison Shopping
+ - [https://smartprix.com](https://smartprix.com)
+ - date_published: 2024-05-27T04:31:16.935490+00:00
+
+ ## Smart Prototyping
+ - [https://www.smart-prototyping.com](https://www.smart-prototyping.com)
+ - date_published: 2024-09-05T18:29:18.760870+00:00
+
+ ## Smart Quotes for Smart People
+ - [https://smartquotesforsmartpeople.com](https://smartquotesforsmartpeople.com)
+ - date_published: 2024-06-15T04:00:38.744357+00:00
+
+ ## Railway Gazette Events | Rail industry conferences, exhibitions and trade fairs
+ - [https://www.smartrailworld.com](https://www.smartrailworld.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The SmartRecruiters API Platform
+ - [https://api.smartrecruiters.com](https://api.smartrecruiters.com)
+ - date_published: 2024-09-27T21:16:29.728246+00:00
+
+ ## SmartRecruiters | The Best Talent Acquisition Software
+ - [https://cdn.smartrecruiters.com](https://cdn.smartrecruiters.com)
+ - date_published: 2022-09-20T21:21:40+00:00
+
+ ## SmartRecruiters | The Best Talent Acquisition Software
+ - [https://c.smartrecruiters.com](https://c.smartrecruiters.com)
+ - date_published: 2022-09-20T21:21:40+00:00
+
+ ## Home - SmartRecruiters
+ - [https://customers.smartrecruiters.com](https://customers.smartrecruiters.com)
+ - date_published: 2024-09-16T07:34:04+00:00
+
+ ## The SmartRecruiters API Platform
+ - [https://developers.smartrecruiters.com](https://developers.smartrecruiters.com)
+ - date_published: 2024-09-16T07:34:30.785998+00:00
+
+ ## Home - SmartRecruiters
+ - [https://help.smartrecruiters.com](https://help.smartrecruiters.com)
+ - date_published: 2024-06-15T11:25:35+00:00
+
+ ## SmartRecruiters Job Search
+ - [https://jobs.smartrecruiters.com](https://jobs.smartrecruiters.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Smartr
+ - [https://my.smartrecruiters.com](https://my.smartrecruiters.com)
+ - date_published: 2024-07-14T21:32:43.107891+00:00
+
+ ## SmartRecruiters | Sign-in
+ - [https://partners.smartrecruiters.com](https://partners.smartrecruiters.com)
+ - date_published: 2024-09-16T07:34:23.115551+00:00
+
+ ## SmartRecruiters | The Best Talent Acquisition Software
+ - [https://smartrecruiters.com](https://smartrecruiters.com)
+ - date_published: 2022-09-20T21:21:40+00:00
+
+ ## SmartRecruiters
+ - [https://subscriptions.smartrecruiters.com](https://subscriptions.smartrecruiters.com)
+ - date_published: 2024-07-24T18:22:03.482968+00:00
+
+ ## A Collection of Free Recruiting Resources | SmartRecruiters
+ - [https://ta.smartrecruiters.com](https://ta.smartrecruiters.com)
+ - date_published: 2014-07-15T07:30:19+00:00
+
+ ## SmartRecruiters University
+ - [https://training.smartrecruiters.com](https://training.smartrecruiters.com)
+ - date_published: 2024-09-17T22:28:32.177768+00:00
+
+ ## Career Opportunities at SmartRecruiters
+ - [https://www.smartrecruiterscareers.com](https://www.smartrecruiterscareers.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## SmartRent | Smart Home Solutions for Multifamily Communities
+ - [https://smartrent.com](https://smartrent.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## SmartScout
+ - [https://app.smartscout.com](https://app.smartscout.com)
+ - date_published: 2024-10-28T15:12:14+00:00
+
+ ## Amazon FBA Product Research Software For Growing Your Wholesale, Arbitrage And Private Label Business. | SmartScout
+ - [https://smartscout.com](https://smartscout.com)
+ - date_published: 2024-10-30T18:48:54+00:00
+
+ ## Log In | Smartsheet
+ - [https://app.smartsheet.com](https://app.smartsheet.com)
+ - date_published: 2024-06-10T13:21:42.925429+00:00
+
+ ## Explore. Ask. Answer.
+ - [https://community.smartsheet.com](https://community.smartsheet.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Moderne Plattform für das Projekt- und Arbeitsmanagement | Smartsheet
+ - [https://de.smartsheet.com](https://de.smartsheet.com)
+ - date_published: 2024-06-23T06:55:49+00:00
+
+ ## Smartsheet Developers
+ - [https://developers.smartsheet.com](https://developers.smartsheet.com)
+ - date_published: 2024-05-16T01:01:48+00:00
+
+ ## Plataforma de administración moderna de proyectos y trabajo | Smartsheet
+ - [https://es.smartsheet.com](https://es.smartsheet.com)
+ - date_published: 2024-06-23T06:53:05+00:00
+
+ ## Plateforme moderne de gestion des projets et du travail | Smartsheet
+ - [https://fr.smartsheet.com](https://fr.smartsheet.com)
+ - date_published: 2024-06-23T07:11:20+00:00
+
+ ## Help and Learning | Smartsheet Learning Center
+ - [https://help.smartsheet.com](https://help.smartsheet.com)
+ - date_published: 2024-06-23T06:59:41+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investors.smartsheet.com](https://investors.smartsheet.com)
+ - date_published: 2024-06-23T07:11:25.514405+00:00
+
+ ## Piattaforma moderna di gestione dei progetti e del lavoro | Smartsheet
+ - [https://it.smartsheet.com](https://it.smartsheet.com)
+ - date_published: 2024-06-23T07:08:50+00:00
+
+ ## 最新のプロジェクト・作業管理プラットフォーム | Smartsheet
+ - [https://jp.smartsheet.com](https://jp.smartsheet.com)
+ - date_published: 2024-06-23T07:01:25+00:00
+
+ ## Plataforma moderna de gerenciamento de projetos e trabalhos | Smartsheet
+ - [https://pt.smartsheet.com](https://pt.smartsheet.com)
+ - date_published: 2024-06-23T07:11:15+00:00
+
  ## Современная платформа управления проектами и рабочими процессами | Smartsheet
  - [https://ru.smartsheet.com](https://ru.smartsheet.com)
  - date_published: 2024-06-23T06:55:19+00:00
@@ -3873,157 +4025,4 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## Software Path | Compare Software for Your Business
  - [https://softwarepath.com](https://softwarepath.com)
  - date_published: 2024-06-27T02:30:06.462079+00:00
-
- ## Design Patterns
- - [https://softwarepatternslexicon.com](https://softwarepatternslexicon.com)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Software Pragmatism
- - [https://softwarepragmatism.com](https://softwarepragmatism.com)
- - date_published: 2024-05-11T10:05:29.589631+00:00
-
- ## Digital Marketing with a difference - we have a reputation to die for!
- - [https://www.softwarepromotions.com](https://www.softwarepromotions.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn0.softwarereviews.com](https://cdn0.softwarereviews.com)
- - date_published: 2024-06-19T11:10:34.310792+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn1.softwarereviews.com](https://cdn1.softwarereviews.com)
- - date_published: 2024-06-19T11:10:38.983036+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn2.softwarereviews.com](https://cdn2.softwarereviews.com)
- - date_published: 2024-06-19T11:10:42.423927+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn3.softwarereviews.com](https://cdn3.softwarereviews.com)
- - date_published: 2024-06-19T11:10:37.281601+00:00
-
- ## SoftwareReviews
- - [https://provider.softwarereviews.com](https://provider.softwarereviews.com)
- - date_published: 2024-06-19T11:10:27.426214+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://softwarereviews.com](https://softwarereviews.com)
- - date_published: 2024-06-19T11:10:29.695882+00:00
-
- ## Cierpliwości...
- - [https://vendor.softwareselect.com](https://vendor.softwareselect.com)
- - date_published: 2024-06-27T05:46:44.909508+00:00
-
- ## Software Sessions
- - [https://www.softwaresessions.com](https://www.softwaresessions.com)
- - date_published: 2024-05-06T13:00:49.701102+00:00
-
- ## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
- - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
- - date_published: 2023-10-25T17:07:46.269464+00:00
-
- ## clkmg.com
- - [https://ppctrack.softwaresuggest.com](https://ppctrack.softwaresuggest.com)
- - date_published: 2024-06-16T23:01:24.059872+00:00
-
- ## Discover Top Business Software & Service Partners
- - [https://www.softwaresuggest.com](https://www.softwaresuggest.com)
- - date_published: 2024-05-01T08:11:31.161898+00:00
-
- ## Software Testing Help - FREE IT Courses and Business Software Reviews
- - [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com)
- - date_published: 2024-07-13T20:43:07+00:00
-
- ## Software Testing Magazine
- - [https://www.softwaretestingmagazine.com](https://www.softwaretestingmagazine.com)
- - date_published: 2016-03-05T08:36:53+00:00
-
- ## Software Toolbox Solutions- Industrial Data & Information Integration
- - [http://www.softwaretoolbox.com](http://www.softwaretoolbox.com)
- - date_published: 2024-09-17T15:53:45+00:00
-
- ## سایت bet90 فارسی
- - [http://softwareufabet.com](http://softwareufabet.com)
- - date_published: 2024-08-08T11:50:55.761514+00:00
-
- ## Software Downloads - SoftwareVault.com
- - [https://www.softwarevault.com](https://www.softwarevault.com)
- - date_published: 2024-09-13T19:33:52.827662+00:00
-
- ## Software Walker
- - [https://softwarewalker.com](https://softwarewalker.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## AI & Data Analytics Leader | IT Services | Consulting
- - [https://www.softwebsolutions.com](https://www.softwebsolutions.com)
- - date_published: 2024-10-28T06:25:02.379301+00:00
-
- ## SoFuckingAgile
- - [https://sofuckingagile.com](https://sofuckingagile.com)
- - date_published: 2024-04-29T05:13:59.279278+00:00
- - tags: ['personal', 'great title']
-
- ## SOFware
- - [https://sofwarellc.com](https://sofwarellc.com)
- - date_published: 2023-04-25T21:36:39+00:00
-
- ## Sogea-Satom | Construire l’Afrique de demain
- - [https://www.sogea-satom.com](https://www.sogea-satom.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Expert in Port and International Logistics since 1828 | Sogena
- - [https://www.sogena.com](https://www.sogena.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Sogeti
- - [https://www.sogeti.com](https://www.sogeti.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Transform Your Business with Sogolytics - The Leading Experience Management Platform
- - [https://www.sogosurvey.com](https://www.sogosurvey.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 上网导航 - 轻快上网 从这里开始
- - [http://123.sogou.com](http://123.sogou.com)
- - date_published: 2024-09-04T06:14:11.728863+00:00
-
- ## 搜狗应用
- - [http://as.sogou.com](http://as.sogou.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## 海纳各领域知识，新一代百科全书 - 搜狗百科
- - [https://baike.sogou.com](https://baike.sogou.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## 个人反馈
- - [https://fankui.sogou.com](https://fankui.sogou.com)
- - date_published: 2024-09-04T06:15:00.538548+00:00
-
- ## 搜狗翻译 - 我的贴身智能翻译专家
- - [http://fanyi.sogou.com](http://fanyi.sogou.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## 搜狗汉语 — 你的汉语学习好帮手
- - [http://hanyu.sogou.com](http://hanyu.sogou.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## 搜狗高速浏览器-带您开启迅捷之旅
- - [http://ie.sogou.com](http://ie.sogou.com)
- - date_published: 2024-09-04T06:14:15.998455+00:00
-
- ## 搜狗明医 - 明明白白看医生
- - [http://mingyi.sogou.com](http://mingyi.sogou.com)
- - date_published: 2024-09-04T06:14:38.737174+00:00
-
- ## 搜狗搜索引擎 - 上网从搜狗开始
- - [http://news.sogou.com](http://news.sogou.com)
- - date_published: 2024-09-04T06:15:17.710059+00:00
-
- ## 搜狗图片搜索 - 上网从搜狗开始
- - [http://pic.sogou.com](http://pic.sogou.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## 搜狗输入法-首页
- - [http://pinyin.sogou.com](http://pinyin.sogou.com)
- - date_published: 2024-09-04T06:14:07.944074+00:00
 

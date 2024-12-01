@@ -1,3 +1,319 @@
+ ## Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl
+ - [https://www.premier.gov.pl](https://www.premier.gov.pl)
+ - date_published: 2024-08-18T07:19:55.766848+00:00
+
+ ## Strona główna - Profil zaufany
+ - [https://pz.gov.pl](https://pz.gov.pl)
+ - date_published: 2024-07-13T19:11:47.141372+00:00
+
+ ## NCEZ - strona główna - Narodowe Centrum Edukacji Żywieniowej
+ - [https://ncez.pzh.gov.pl](https://ncez.pzh.gov.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Szczepienia.Info - Strona główna
+ - [https://szczepienia.pzh.gov.pl](https://szczepienia.pzh.gov.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Narodowy Instytut Zdrowia Publicznego - Państwowy Zakład Higieny
+ - [https://www.pzh.gov.pl](https://www.pzh.gov.pl)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Rządowe Centrum Legislacji |
+ - [http://www.rcl.gov.pl](http://www.rcl.gov.pl)
+ - date_published: 2024-06-22T09:13:33.034758+00:00
+
+ ## Rzecznik Finansowy
+ - [https://bip.rf.gov.pl](https://bip.rf.gov.pl)
+ - date_published: 2024-07-09T20:14:59.362380+00:00
+
+ ## Rzecznik Finansowy
+ - [https://rf.gov.pl](https://rf.gov.pl)
+ - date_published: 2024-05-09T06:27:00.284532+00:00
+
+ ## Fundusze Europejskie dla Rozwoju Społecznego - Ministerstwo Funduszy i Polityki Regionalnej
+ - [https://www.rozwojspoleczny.gov.pl](https://www.rozwojspoleczny.gov.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
+ - [https://rpo.gov.pl](https://rpo.gov.pl)
+ - date_published: 2024-05-09T06:26:51.443967+00:00
+
+ ## Biuro Rzecznika Małych i Średnich Przedsiębiorców
+ - [https://en.rzecznikmsp.gov.pl](https://en.rzecznikmsp.gov.pl)
+ - date_published: 2024-07-09T20:14:52.968810+00:00
+
+ ## Nauka i Biznes - Rzecznik MŚP
+ - [https://naukaibiznes.rzecznikmsp.gov.pl](https://naukaibiznes.rzecznikmsp.gov.pl)
+ - date_published: 2024-07-09T20:14:50.770178+00:00
+
+ ## Rzecznik Przedsiębiorców
+ - [https://rzecznikmsp.gov.pl](https://rzecznikmsp.gov.pl)
+ - date_published: 2024-05-09T06:26:57.008830+00:00
+
+ ## Globalne Statystyki GUS
+ - [http://sdg.gov.pl](http://sdg.gov.pl)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Welcome to ELI & Sejm API documentation! — Sejm API 1.0 documentation
+ - [https://api.sejm.gov.pl](https://api.sejm.gov.pl)
+ - date_published: 2024-07-04T11:17:56+00:00
+
+ ## Internetowy System Aktów Prawnych
+ - [https://isap.sejm.gov.pl](https://isap.sejm.gov.pl)
+ - date_published: 2024-08-18T11:46:21.346157+00:00
+
+ ## Sejm Rzeczypospolitej Polskiej
+ - [https://sejm.gov.pl](https://sejm.gov.pl)
+ - date_published: 2023-12-01T20:34:13.194103+00:00
+
+ ## Senat Rzeczypospolitej Polskiej
+ - [http://senat.gov.pl](http://senat.gov.pl)
+ - date_published: 2024-08-18T07:19:41+00:00
+
+ ## SMUP
+ - [https://smup.gov.pl](https://smup.gov.pl)
+ - date_published: 2024-04-22T08:10:10+00:00
+
+ ## Narodowy Spis Powszechny Ludności i Mieszkań 2021 – Strona informacyjna o Narodowym Spisie Powszechnym 2021
+ - [https://spis.gov.pl](https://spis.gov.pl)
+ - date_published: 2024-03-01T11:29:01+00:00
+
+ ## Powszechny Spis Rolny 2020
+ - [https://spisrolny.gov.pl](https://spisrolny.gov.pl)
+ - date_published: 2024-08-18T07:18:49+00:00
+
+ ## Strona główna - 100 lat Głównego Urzędu Statystycznego
+ - [http://100latgus.stat.gov.pl](http://100latgus.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:12+00:00
+
+ ## Portal API GUS
+ - [https://api.stat.gov.pl](https://api.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:57.325830+00:00
+
+ ## GUS - Bank Danych Lokalnych
+ - [https://bdl.stat.gov.pl](https://bdl.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:22.444872+00:00
+
+ ## Bank Danych Makroekonomicznych
+ - [https://bdm.stat.gov.pl](https://bdm.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:54.346219+00:00
+
+ ## Bank Danych Polska
+ - [https://bdp.stat.gov.pl](https://bdp.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:25.897876+00:00
+
+ ## Urząd Statystyczny w Białymstoku
+ - [http://bialystok.stat.gov.pl](http://bialystok.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:26+00:00
+
+ ## Biuletyn Informacji Publicznej
+ - [https://bip.stat.gov.pl](https://bip.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:00+00:00
+
+ ## Urząd Statystyczny w Bydgoszczy
+ - [http://bydgoszcz.stat.gov.pl](http://bydgoszcz.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:38+00:00
+
+ ## Centrum Informatyki Statystycznej
+ - [http://cis.stat.gov.pl](http://cis.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:56+00:00
+
+ ## GUS - Dashboard gospodarczy
+ - [https://dashboard.stat.gov.pl](https://dashboard.stat.gov.pl)
+ - date_published: 2024-04-02T12:41:21+00:00
+
+ ## Ładowanie
+ - [https://dbw.stat.gov.pl](https://dbw.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:58.277853+00:00
+
+ ## Dekompozycje
+ - [https://dekompozycje.stat.gov.pl](https://dekompozycje.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:24.101148+00:00
+
+ ## Główny Urząd Statystyczny / Dzienniki Urzędowe GUS
+ - [http://dziennikigus.stat.gov.pl](http://dziennikigus.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:54+00:00
+
+ ## Urząd Statystyczny w Gdańsku
+ - [http://gdansk.stat.gov.pl](http://gdansk.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:29+00:00
+
+ ## Strona główna
+ - [http://geo.stat.gov.pl](http://geo.stat.gov.pl)
+ - date_published: 2024-08-16T12:12:13+00:00
+
+ ## Urząd Statystyczny w Katowicach
+ - [http://katowice.stat.gov.pl](http://katowice.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:21+00:00
+
+ ## Urząd Statystyczny w Kielcach
+ - [http://kielce.stat.gov.pl](http://kielce.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:01+00:00
+
+ ## Urząd Statystyczny w Krakowie
+ - [http://krakow.stat.gov.pl](http://krakow.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:47+00:00
+
+ ## Urząd Statystyczny w Łodzi
+ - [http://lodz.stat.gov.pl](http://lodz.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:51+00:00
+
+ ## Urząd Statystyczny w Lublinie
+ - [http://lublin.stat.gov.pl](http://lublin.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:15+00:00
+
+ ## Portal Naukowy GUS, Nauka GUS,
+ - [https://nauka.stat.gov.pl](https://nauka.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:30.758179+00:00
+
+ ## Urząd Statystyczny w Olsztynie
+ - [http://olsztyn.stat.gov.pl](http://olsztyn.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:04+00:00
+
+ ## Urząd Statystyczny w Opolu
+ - [http://opole.stat.gov.pl](http://opole.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:26+00:00
+
+ ## Urząd Statystyczny w Poznaniu
+ - [http://poznan.stat.gov.pl](http://poznan.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:31+00:00
+
+ ## Przegląd Statystyczny Statistical Review
+ - [https://ps.stat.gov.pl](https://ps.stat.gov.pl)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Polskie Towarzystwo Statystyczne
+ - [http://pts.stat.gov.pl](http://pts.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:23.615834+00:00
+
+ ## Repozytorium Standardów Informacyjnych prototype
+ - [https://rsi.stat.gov.pl](https://rsi.stat.gov.pl)
+ - date_published: 2023-12-04T15:45:04+00:00
+
+ ## Urząd Statystyczny w Rzeszowie
+ - [http://rzeszow.stat.gov.pl](http://rzeszow.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:24+00:00
+
+ ## Statistics in Transition new series
+ - [https://sit.stat.gov.pl](https://sit.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:49.943229+00:00
+
+ ## Główny Urząd Statystyczny
+ - [https://stat.gov.pl](https://stat.gov.pl)
+ - date_published: 2024-01-05T10:54:42.258169+00:00
+
+ ## The Tudors
+ - [http://statlibr.stat.gov.pl](http://statlibr.stat.gov.pl)
+ - date_published: 2015-06-09T11:08:46+00:00
+
+ ## Statystyka Miast
+ - [https://statystykamiast.stat.gov.pl](https://statystykamiast.stat.gov.pl)
+ - date_published: 2023-04-03T08:00:30+00:00
+
+ ## STRATEG
+ - [http://strateg.stat.gov.pl](http://strateg.stat.gov.pl)
+ - date_published: 2024-07-22T11:54:21+00:00
+
+ ## GUS: Statystyczne Vademecum Samorządowca
+ - [https://svs.stat.gov.pl](https://svs.stat.gov.pl)
+ - date_published: 2024-02-09T07:41:24+00:00
+
+ ## Urząd Statystyczny w Szczecinie
+ - [http://szczecin.stat.gov.pl](http://szczecin.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:52+00:00
+
+ ## TranStat - statystyki eksperymentalne
+ - [https://transtat.stat.gov.pl](https://transtat.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:35.662700+00:00
+
+ ## Urząd Statystyczny w Warszawie
+ - [http://warszawa.stat.gov.pl](http://warszawa.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:36+00:00
+
+ ## Urząd Statystyczny we Wrocławiu
+ - [http://wroclaw.stat.gov.pl](http://wroclaw.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:49+00:00
+
+ ## Wiadomości Statystyczne The Polish Statistician
+ - [https://ws.stat.gov.pl](https://ws.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:12.813802+00:00
+
+ ## Urząd Statystyczny w Zielonej Górze
+ - [http://zielonagora.stat.gov.pl](http://zielonagora.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:45+00:00
+
+ ## Zakład Wydawnictw Statystycznych
+ - [http://zws.stat.gov.pl](http://zws.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:42+00:00
+
+ ## Urząd Dozoru Technicznego - Aktualności - przegląd
+ - [https://www.udt.gov.pl](https://www.udt.gov.pl)
+ - date_published: 2024-07-14T05:26:45+00:00
+
+ ## Centrum Informacji Konsumenckiej
+ - [https://cik.uke.gov.pl](https://cik.uke.gov.pl)
+ - date_published: 2024-07-09T20:15:13+00:00
+
+ ## Strona główna- Urząd Ochrony Danych Osobowych.
+ - [https://uodo.gov.pl](https://uodo.gov.pl)
+ - date_published: 2024-05-09T06:26:58.562360+00:00
+
+ ## UOKiK - Strona główna
+ - [https://archiwum.uokik.gov.pl](https://archiwum.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:12.729498+00:00
+
+ ## Urząd Ochrony Konkurencji i Konsumentów
+ - [https://decyzje.uokik.gov.pl](https://decyzje.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:06.760511+00:00
+
+ ## Przewaga kontraktowa - Strona główna
+ - [https://przewagakontraktowa.uokik.gov.pl](https://przewagakontraktowa.uokik.gov.pl)
+ - date_published: 2024-07-09T09:24:03+00:00
+
+ ## Urząd Ochrony Konkurencji i Konsumentów
+ - [https://uokik.gov.pl](https://uokik.gov.pl)
+ - date_published: 2024-07-09T17:48:40.984487+00:00
+
+ ## UOKiK - rejestr klauzul niedozwolonych - Strona główna
+ - [https://www.rejestr.uokik.gov.pl](https://www.rejestr.uokik.gov.pl)
+ - date_published: 2024-07-09T20:15:08.899813+00:00
+
+ ## Strona główna - kompendium wiedzy o zatorach płatniczych
+ - [https://zatoryplatnicze.uokik.gov.pl](https://zatoryplatnicze.uokik.gov.pl)
+ - date_published: 2024-07-09T09:26:41+00:00
+
+ ## Główny Inspektorat Weterynarii
+ - [https://bip.wetgiw.gov.pl](https://bip.wetgiw.gov.pl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Główny Inspektorat Weterynarii
+ - [https://interwencja.wetgiw.gov.pl](https://interwencja.wetgiw.gov.pl)
+ - date_published: 2024-08-11T15:44:09.952810+00:00
+
+ ## Rejestr Podmiotów
+ - [https://pasze.wetgiw.gov.pl](https://pasze.wetgiw.gov.pl)
+ - date_published: 2024-08-11T15:44:12.090290+00:00
+
+ ## Strona główna | Główny Inspektorat Weterynarii
+ - [https://wetgiw.gov.pl](https://wetgiw.gov.pl)
+ - date_published: 2024-02-24T00:02:31.622833+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.www.gov.pl](https://matomo.www.gov.pl)
+ - date_published: 2024-07-09T07:29:16.693216+00:00
+
+ ## JPK - Jednolity Plik Kontrolny - fillUp JPKomat
+ - [https://jpk.info.pl](https://jpk.info.pl)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Strona domeny laptopy.info.pl
+ - [https://laptopy.info.pl](https://laptopy.info.pl)
+ - date_published: 2024-05-29T10:48:23.131178+00:00
+
+ ## Rzymskokatolicka Parafia Wojskowa pw. św. Jerzego w Białymstoku
+ - [http://www.sjerzy.parafia.info.pl](http://www.sjerzy.parafia.info.pl)
+ - date_published: 2024-08-19T00:00:00+00:00
+
  ## Miejskie Przedsiębiorstwo Gospodarki Komunalnej - MPGK
  - [https://www.mpgk.jgora.pl](https://www.mpgk.jgora.pl)
  - date_published: 2024-08-18T17:10:53.717073+00:00
@@ -3787,324 +4103,4 @@ Polska 1939
  ## 메이플 에반 스킬 트리
  - [https://www.dbgreat.pl](https://www.dbgreat.pl)
  - date_published: 2024-06-20T18:12:49+00:00
-
- ## ☀ DBV.pl - Twój nowy blog
- - [http://www.polandbridge.dbv.pl](http://www.polandbridge.dbv.pl)
- - date_published: 2024-08-19T21:15:36.104011+00:00
-
- ## DECODE9 - Bezpieczeństwo informatyczne dla Ciebie i Twojej organizacji
- - [https://dc9.pl](https://dc9.pl)
- - date_published: 2022-10-10T11:24:56+00:00
- - tags: ['cybersecurity']
-
- ## Deal.pl - zakupy grupowe w jednym miejscu
- - [http://deal.pl](http://deal.pl)
- - date_published: 2024-07-11T16:33:26.526374+00:00
-
- ## Club Decathlon
- - [https://club.decathlon.pl](https://club.decathlon.pl)
- - date_published: 2024-09-19T13:39:32.427343+00:00
-
- ## Sklep sportowy - odzież, buty i sprzęt sportowy online - Decathlon.pl
- - [https://decathlon.pl](https://decathlon.pl)
- - date_published: 2024-06-15T20:10:40.396200+00:00
-
- ## Wydarzenia sportowe wokół Ciebie | Decathlon GO
- - [https://go.decathlon.pl](https://go.decathlon.pl)
- - date_published: 2024-09-19T13:39:50.370756+00:00
-
- ## Biuro prasowe Decathlon
- - [http://media.decathlon.pl](http://media.decathlon.pl)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Wypożyczalnia sprzętu sportowego - Decathlon Rent
- - [https://rent.decathlon.pl](https://rent.decathlon.pl)
- - date_published: 2024-09-19T13:39:47.504300+00:00
-
- ## Decathlon Support
- - [https://support.decathlon.pl](https://support.decathlon.pl)
- - date_published: 2024-09-19T13:39:57.171333+00:00
-
- ## Praca i kariera w Decathlon – Sport to Twoja pasja? Jesteś osobą aktywną i szukasz pracy, która jest przygodą? Sprawdź oferty pracy w Decathlon i po prostu do nas dołącz!
- - [http://www.decathlonkariera.pl](http://www.decathlonkariera.pl)
- - date_published: 2024-09-19T13:37:34+00:00
-
- ## Deccoria.pl - porady dla domu i ogrodu - Artykuły, Wideo, Inspiracje
- - [https://deccoria.pl](https://deccoria.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## John Deere – Polska
- - [https://www.deere.pl](https://www.deere.pl)
- - date_published: 2024-08-11T16:53:43.235125+00:00
-
- ## cdn.defence24.pl
- - [https://cdn.defence24.pl](https://cdn.defence24.pl)
- - date_published: 2024-04-04T21:07:55+00:00
-
- ## Wojsko, przemysł, bezpieczeństwo, geopolityka
- - [https://defence24.pl](https://defence24.pl)
- - date_published: 2024-05-02T07:59:09.805711+00:00
-
- ## Gry strategiczne, księgarnia - Sklep Defence24
- - [https://sklep.defence24.pl](https://sklep.defence24.pl)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Broker on-line | Niskie opłaty | Inwestowanie |Broker DEGIRO
- - [https://www.degiro.pl](https://www.degiro.pl)
- - date_published: 2024-05-31T14:30:50+00:00
-
- ## Antystatyka dla przemysłu | Oferowane przez MS BERTOL urządzenia do usuwania ładunków elektrostatycznych znajdują zastosowanie w wielu różnych gałęziach przemysłu, a także w procesach związanych z pakowaniem gotowych wyrobów.
- - [http://www.dejonizator-jonizator.pl](http://www.dejonizator-jonizator.pl)
- - date_published: 2024-08-06T22:27:11.816290+00:00
-
- ## Dekodowanie kodu AZTEC 2D z dowodu rejestracyjnego
- - [https://dekoderaztec.pl](https://dekoderaztec.pl)
- - date_published: 2024-05-11T08:34:13.137707+00:00
-
- ## Hyundai Używane
- - [https://hyundai.dekra.pl](https://hyundai.dekra.pl)
- - date_published: 2024-07-19T22:41:17.614546+00:00
-
- ## DeliGoo - Ty sprzedajesz, my dostarczamy | Dostawy na żądanie dla twojej firmy
- - [https://deligoo.pl](https://deligoo.pl)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Największy sklep ze sprzętem obserwacyjnym w Polsce - Teleskopy, lornetki, mikroskopy, noktowizja, termowizja
- - [https://deltaoptical.pl](https://deltaoptical.pl)
- - date_published: 2024-06-26T11:44:49.327500+00:00
-
- ## Demotywatory.pl
- - [https://demotywatory.pl](https://demotywatory.pl)
- - date_published: 2023-10-31T13:19:51.709657+00:00
- - tags: ['memes', 'funny images']
-
- ## Demotywatory.pl
- - [http://m.demotywatory.pl](http://m.demotywatory.pl)
- - date_published: 2024-07-11T15:36:37.226444+00:00
-
- ## Demotywatory.pl
- - [https://img15.demotywatoryfb.pl](https://img15.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:13.860010+00:00
-
- ## Demotywatory.pl
- - [https://img17.demotywatoryfb.pl](https://img17.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:49.258439+00:00
-
- ## Demotywatory.pl
- - [https://img21.demotywatoryfb.pl](https://img21.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:03.970810+00:00
-
- ## Demotywatory.pl
- - [https://img27.demotywatoryfb.pl](https://img27.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:55.354198+00:00
-
- ## Demotywatory.pl
- - [https://img29.demotywatoryfb.pl](https://img29.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:50.646893+00:00
-
- ## Demotywatory.pl
- - [https://img7.demotywatoryfb.pl](https://img7.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:12.333792+00:00
-
- ## Demotywatory.pl
- - [https://img8.demotywatoryfb.pl](https://img8.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:09.464074+00:00
-
- ## Biblia Tysiąclecia - Pismo Święte Starego i Nowego Testamentu
- - [https://biblia.deon.pl](https://biblia.deon.pl)
- - date_published: 2024-05-29T11:08:20.108167+00:00
-
- ## BLOG.DEON.PL – O Kościele Z KAŻDEJ STRONY
- - [https://blog.deon.pl](https://blog.deon.pl)
- - date_published: 2024-05-29T11:08:18.959568+00:00
-
- ## DEON.pl
- - [https://deon.pl](https://deon.pl)
- - date_published: 2023-10-25T22:26:47.842454+00:00
- - tags: ['christian news', 'catholic news', 'religion']
-
- ## Dobra wnuczka – Przyszłość zaczęła się wczoraj
- - [https://dobrawnuczka.blog.deon.pl](https://dobrawnuczka.blog.deon.pl)
- - date_published: 2024-05-29T11:08:29.494359+00:00
-
- ## druga
- - [https://druga.blog.deon.pl](https://druga.blog.deon.pl)
- - date_published: 2024-05-29T11:08:13.302712+00:00
-
- ## Jaśminowa | codzienność pełna Boga
- - [https://jasminowa.blog.deon.pl](https://jasminowa.blog.deon.pl)
- - date_published: 2024-05-29T11:08:25.961005+00:00
-
- ## Magdalena Urbańska – Są spojrzenia, które bez słów już są spotkaniem… Są słowa, które znaczą więcej niż spojrzenie… Są spotkania, które odmieniają bieg naszej historii… Zatrzymaj się, posiedź u mnie chwilkę, odpocznij…
- - [https://niezawodnanadzieja.blog.deon.pl](https://niezawodnanadzieja.blog.deon.pl)
- - date_published: 2024-05-29T11:08:17.094401+00:00
-
- ## Pod niebem – blog.deon.pl
- - [https://podniebem.blog.deon.pl](https://podniebem.blog.deon.pl)
- - date_published: 2024-05-29T11:08:21.641887+00:00
-
- ## Siostra Łucja – blog.deon.pl
- - [https://siostralucja.blog.deon.pl](https://siostralucja.blog.deon.pl)
- - date_published: 2024-05-29T11:08:27.754479+00:00
-
- ## DEON.pl
- - [https://static.deon.pl](https://static.deon.pl)
- - date_published: 2024-05-29T11:08:33.141793+00:00
-
- ## Deorecordings Association - Stowarzyszenie Deorecordings
- - [https://deorecordings.pl](https://deorecordings.pl)
- - date_published: 2024-06-17T16:44:29.437694+00:00
-
- ## Profesjonalne strony internetowe www - Opole
- - [http://www.depcore.pl](http://www.depcore.pl)
- - date_published: 2024-06-24T05:16:53.226298+00:00
-
- ## Strony internetowe Wrocław - Projektowanie stron WWW - Design Solutions
- - [https://designsolutions.pl](https://designsolutions.pl)
- - date_published: 2024-10-30T14:27:28.806381+00:00
-
- ## DevConf 2022
- - [https://2022.devconf.pl](https://2022.devconf.pl)
- - date_published: 2023-11-23T11:08:23+00:00
-
- ## DevConf 2023
- - [https://2023.devconf.pl](https://2023.devconf.pl)
- - date_published: 2023-11-23T10:47:38+00:00
-
- ## DevConf 2024
- - [https://devconf.pl](https://devconf.pl)
- - date_published: 2024-05-07T10:15:11.119833+00:00
- - tags: ['programming', 'conference']
-
- ## DevConf 2024 Registration
- - [http://register.devconf.pl](http://register.devconf.pl)
- - date_published: 2024-06-20T05:53:10.271493+00:00
-
- ## Login
- - [https://devilteam.pl](https://devilteam.pl)
- - date_published: 2024-10-31T07:06:10.489256+00:00
-
- ## Conference for Software Developers
- - [https://devoxx.pl](https://devoxx.pl)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Programowanie — Forum Programistyczne DevStart
- - [https://devstart.pl](https://devstart.pl)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Blog dla każdego programisty | devstyle.pl
- - [https://devstyle.pl](https://devstyle.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## DFG | Wsparcie rozwoju gospodarczego Dolnego Śląska
- - [http://dfg.pl](http://dfg.pl)
- - date_published: 2024-07-17T07:35:49.105586+00:00
-
- ## Diecezjalna Fundacja Ochrony Życia
- - [https://dfoz.pl](https://dfoz.pl)
- - date_published: 2024-09-20T18:52:57.182326+00:00
-
- ## Elastyczny Hosting WWW: Wybór nr 1 w 2024 roku &#129351; | dhosting.pl
- - [https://dhosting.pl](https://dhosting.pl)
- - date_published: 2024-07-19T23:02:30.428813+00:00
-
- ## Diagnostyka PROFINET - PROFIBUS DP - audyty sieci STERCONTROL
- - [https://www.diagnostyka-sieci.pl](https://www.diagnostyka-sieci.pl)
- - date_published: 2024-09-03T19:58:01.625289+00:00
-
- ## Archiwum - Kolejna witryna sieci „Archidiecezja Krakowska”
- - [https://archiwum.diecezja.pl](https://archiwum.diecezja.pl)
- - date_published: 2024-08-18T14:08:42.275665+00:00
-
- ## Archidiecezja Krakowska - Strona Archidiecezji Krakowskiej
- - [https://diecezja.pl](https://diecezja.pl)
- - date_published: 2023-11-07T09:24:34.029916+00:00
-
- ## Wydział Katechetyczny - Kolejna witryna sieci „Archidiecezja Krakowska”
- - [https://katecheza.diecezja.pl](https://katecheza.diecezja.pl)
- - date_published: 2024-08-18T14:08:24.049648+00:00
-
- ## Wydział Misyjny - Archidiecezja Krakowska
- - [https://misje.diecezja.pl](https://misje.diecezja.pl)
- - date_published: 2024-08-18T14:08:45.586331+00:00
-
- ## Strona Główna - DMAK
- - [https://mlodzi.diecezja.pl](https://mlodzi.diecezja.pl)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Rada Dialogu - Archidiecezja Krakowska
- - [https://radadialogu.diecezja.pl](https://radadialogu.diecezja.pl)
- - date_published: 2024-08-18T14:08:03.352900+00:00
-
- ## wdr -
- - [https://wdr.diecezja.pl](https://wdr.diecezja.pl)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Żywy Różaniec |
- - [http://zr.diecezja.pl](http://zr.diecezja.pl)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Archidiecezja Gdańska
- - [https://diecezjagdansk.pl](https://diecezjagdansk.pl)
- - date_published: 2024-07-17T07:09:11.335463+00:00
-
- ## DigiKey Home
- - [https://digikey.pl](https://digikey.pl)
- - date_published: 2024-05-01T05:02:34.574541+00:00
-
- ## Digit4Kids – Konferencja IT dla dzieci i nie tylko!
- - [https://digit4kids.pl](https://digit4kids.pl)
- - date_published: 2024-09-02T14:19:04.875285+00:00
-
- ## Digital Camera Polska - magazyn fotograficzny - fotografia cyfrowa
- - [https://digitalcamerapolska.pl](https://digitalcamerapolska.pl)
- - date_published: 2024-05-26T22:36:08.412385+00:00
-
- ## Galeria zdjęć DigitalCamera Polska - fotografie, zdjęcia
- - [https://galeria.digitalcamerapolska.pl](https://galeria.digitalcamerapolska.pl)
- - date_published: 2024-09-02T14:32:13.893403+00:00
-
- ## The solution transforming tomorrow - Fundacja Digital Europe
- - [https://www.digitaleurope.pl](https://www.digitaleurope.pl)
- - date_published: 2024-07-02T22:30:28.116744+00:00
-
- ## Rekrutacja w E-commerce & Sprzedaży i marketingu - Digitalx.pl
- - [https://digitalx.pl](https://digitalx.pl)
- - date_published: 2024-10-22T21:14:55.965225+00:00
-
- ## Digital Youth Forum 2024
- - [https://digitalyouth.pl](https://digitalyouth.pl)
- - date_published: 2024-09-02T13:52:44+00:00
-
- ## Digitree Group - Kompleksowe i efektywne kampanie digital | digitree.pl
- - [https://www.digitree.pl](https://www.digitree.pl)
- - date_published: 2024-06-25T22:08:12.593006+00:00
-
- ## DIMAQ Day
- - [https://day.dimaq.pl](https://day.dimaq.pl)
- - date_published: 2024-10-22T21:18:08.807735+00:00
-
- ## Strona główna | DIMAQ
- - [https://dimaq.pl](https://dimaq.pl)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## 🔔 Lubisz zakupy? Szukasz promocji? Zobacz najnowsze oferty i gazetki promocyjne i listę zakupową DING.PL!
- - [https://ding.pl](https://ding.pl)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Disco Polo Music - oficjalna strona
- - [https://discopolomusic.pl](https://discopolomusic.pl)
- - date_published: 2024-05-10T05:26:44.429706+00:00
-
- ## Discovery Channel
- - [https://discoverychannel.pl](https://discoverychannel.pl)
- - date_published: 2024-05-01T05:14:54.483641+00:00
-
- ## Disney Polska | Oficjalna strona filmów Disneya
- - [https://disney.pl](https://disney.pl)
- - date_published: 2023-10-25T11:29:08.216261+00:00
-
- ## Dituel Sp. z o.o.
- - [http://www.dituel.pl](http://www.dituel.pl)
- - date_published: 2024-01-10T11:22:56+00:00
 

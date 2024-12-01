@@ -1,3 +1,170 @@
+ ## AI Health Uncut | Sergei Polevikov | Substack
+ - [https://sergeiai.substack.com](https://sergeiai.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## How the Hell | Sergey Alexashenko | Substack
+ - [https://sergey.substack.com](https://sergey.substack.com)
+ - date_published: 2024-01-02T17:12:43.011740+00:00
+
+ ## The Serial Hour Podcast | Erica Drayton | Substack
+ - [https://serialhour.substack.com](https://serialhour.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## SethST’s Substack | Substack
+ - [https://sethst.substack.com](https://sethst.substack.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Seth's Substack | Seth Moskowitz | Substack
+ - [https://sethswriting.substack.com](https://sethswriting.substack.com)
+ - date_published: 2024-05-07T19:01:35.637674+00:00
+
+ ## Seven Senses | Kenshō studio | Substack
+ - [https://sevensenses.substack.com](https://sevensenses.substack.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Seymour Hersh | Substack
+ - [https://seymourhersh.substack.com](https://seymourhersh.substack.com)
+ - date_published: 2023-10-25T10:03:20.073223+00:00
+ - tags: ['substack']
+
+ ## Shades of Greaves | Carlos Greaves | Substack
+ - [https://shadesofgreaves.substack.com](https://shadesofgreaves.substack.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Hickman's Hinterlands | A.M. Hickman | Substack
+ - [http://shagbark.substack.com](http://shagbark.substack.com)
+ - date_published: 2024-07-14T19:23:54.108540+00:00
+
+ ## Shah Institute | Rohan Shah | Substack
+ - [https://shahuniversity.substack.com](https://shahuniversity.substack.com)
+ - date_published: 2024-08-08T12:01:23.506343+00:00
+
+ ## Beauty and the Beach | Shannan Sterne | Substack
+ - [https://shannansterne.substack.com](https://shannansterne.substack.com)
+ - date_published: 2024-06-20T20:53:37.489820+00:00
+
+ ## Songs in Four Dimensions | Shara Nova | Substack
+ - [https://sharanova.substack.com](https://sharanova.substack.com)
+ - date_published: 2024-08-11T21:51:59.426708+00:00
+
+ ## The Art of Enchantment, with Dr Sharon Blackie | Substack
+ - [https://sharonblackie.substack.com](https://sharonblackie.substack.com)
+ - date_published: 2024-04-03T07:50:08.134506+00:00
+
+ ## Shatter Zone | The Only Robert Evans | Substack
+ - [https://shatterzone.substack.com](https://shatterzone.substack.com)
+ - date_published: 2024-01-09T01:44:13.433867+00:00
+
+ ## Shelf Love: romance novel discourse | Substack
+ - [https://shelflovepodcast.substack.com](https://shelflovepodcast.substack.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Shenisha’s Substack | Substack
+ - [https://shenisha.substack.com](https://shenisha.substack.com)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## the shimmering void | Ben Follington | Substack
+ - [https://shimmeringvoid.substack.com](https://shimmeringvoid.substack.com)
+ - date_published: 2024-01-09T01:44:15.644681+00:00
+
+ ## Shipped with AI | Ted Benson | Substack
+ - [https://shippedwithai.substack.com](https://shippedwithai.substack.com)
+ - date_published: 2024-08-19T05:19:17.043740+00:00
+
+ ## Shipwreckedcrew's Port-O-Call | Substack
+ - [https://shipwreckedcrew.substack.com](https://shipwreckedcrew.substack.com)
+ - date_published: 2024-07-04T01:27:57.530126+00:00
+
+ ## Shawn’s Substack | Substack
+ - [https://shmck.substack.com](https://shmck.substack.com)
+ - date_published: 2023-11-03T14:50:19.834430+00:00
+
+ ## Software Snack Bites | Shomik Ghosh | Substack
+ - [https://shomik.substack.com](https://shomik.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Madhur’s Writings | Madhur Shrimal | Substack
+ - [https://shrimalmadhur.substack.com](https://shrimalmadhur.substack.com)
+ - date_published: 2023-10-25T10:03:33.706563+00:00
+ - tags: ['substack']
+
+ ## Startup Investing | Shruti Gandhi | Substack
+ - [https://shrutigandhi.substack.com](https://shrutigandhi.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Sibelius’s Newsletter | Sibelius Seraphini | Substack
+ - [https://sibelius.substack.com](https://sibelius.substack.com)
+ - date_published: 2023-10-25T17:19:21.199989+00:00
+
+ ## Siddarth's Newsletter  | Substack
+ - [https://siddarthrg.substack.com](https://siddarthrg.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Obvious Bicycle | Siddhesh | Substack
+ - [https://siddhesh.substack.com](https://siddhesh.substack.com)
+ - date_published: 2023-12-19T00:38:00.924670+00:00
+
+ ## Signature Block | Weekend Fund | Substack
+ - [https://signatureblock.substack.com](https://signatureblock.substack.com)
+ - date_published: 2024-06-29T15:09:32.075087+00:00
+
+ ## Silicon Reckoner | Michael Harris | Substack
+ - [https://siliconreckoner.substack.com](https://siliconreckoner.substack.com)
+ - date_published: 2024-06-30T08:55:25.473371+00:00
+
+ ## The Dillon Empire: Simon Dillon on Substack | Substack
+ - [https://simondillon.substack.com](https://simondillon.substack.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Simon Grimm | Substack
+ - [https://simongrimm.substack.com](https://simongrimm.substack.com)
+ - date_published: 2024-04-29T03:58:29.546033+00:00
+
+ ## Simon Owens's Media Newsletter | Substack
+ - [https://simonowens.substack.com](https://simonowens.substack.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## The Map is Mostly Water | Simon Sarris | Substack
+ - [https://simonsarris.substack.com](https://simonsarris.substack.com)
+ - date_published: 2023-10-25T10:03:37.881602+00:00
+ - tags: ['substack']
+
+ ## Simon Willison’s Newsletter | Substack
+ - [https://simonw.substack.com](https://simonw.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Simplicity is SOTA | Richard Demsyn-Jones | Substack
+ - [https://simplicityissota.substack.com](https://simplicityissota.substack.com)
+ - date_published: 2024-01-09T01:44:19.327248+00:00
+
+ ## Simplicius's Garden of Knowledge | Substack
+ - [https://simplicius76.substack.com](https://simplicius76.substack.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Simply Orthodox | Jamey Bennett | Substack
+ - [https://simplyorthodox.substack.com](https://simplyorthodox.substack.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Sinica | Kaiser Y Kuo | Substack
+ - [https://sinica.substack.com](https://sinica.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## The Accessibility Apprentice | Kristian | Substack
+ - [https://sirkotsky.substack.com](https://sirkotsky.substack.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Sketchy Ideas | Chris J Wilson | Substack
+ - [https://sketchyideas.substack.com](https://sketchyideas.substack.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Skin of Our Teeth | Kate Neale Cooper | Substack
+ - [https://skinofourteeth.substack.com](https://skinofourteeth.substack.com)
+ - date_published: 2024-08-18T06:01:48.487419+00:00
+
+ ## Stupid Fresh Mess | Skottie Young | Substack
+ - [https://skottieyoung.substack.com](https://skottieyoung.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
  ## Skunk Ledger | BLAP | Substack
  - [https://skunkledger.substack.com](https://skunkledger.substack.com)
  - date_published: 2024-01-09T01:44:21.881309+00:00
@@ -386,6 +553,10 @@
  ## Frames | Stripe Partners | Substack
  - [https://stripepartners.substack.com](https://stripepartners.substack.com)
  - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Structured | Shivam Singhal | Substack
+ - [https://structuredlabs.substack.com](https://structuredlabs.substack.com)
+ - date_published: 2024-12-01T01:40:51.090893+00:00
 
  ## Science Fictions | Stuart Ritchie | Substack
  - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
@@ -3888,172 +4059,4 @@
  ## EU Notice | Chicago Sun-Times
  - [https://jobs.suntimes.com](https://jobs.suntimes.com)
  - date_published: 2024-08-19T12:56:24.573830+00:00
-
- ## Chicago Sun-Times Marketing
- - [https://marketing.suntimes.com](https://marketing.suntimes.com)
- - date_published: 2024-08-19T13:01:46.316607+00:00
-
- ## iPublish MarketPlace
- - [https://marketplace.suntimes.com](https://marketplace.suntimes.com)
- - date_published: 2024-08-19T12:56:26.460951+00:00
-
- ## Chicago Sun-Times Newsletter Hub
- - [https://newsletter-hub.suntimes.com](https://newsletter-hub.suntimes.com)
- - date_published: 2024-05-29T13:41:59+00:00
-
- ## Chicago Sun-Times
- - [https://paper.suntimes.com](https://paper.suntimes.com)
- - date_published: 2024-08-19T13:01:48.574139+00:00
-
- ## Chicago Sun-Times: Chicago news, sports, politics, entertainment
- - [http://www.suntimes.com](http://www.suntimes.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Chicago Sun-Times
- - [https://suntimesdeal.com](https://suntimesdeal.com)
- - date_published: 2024-08-19T13:01:34.973629+00:00
-
- ## Truist Bank | Checking, Savings, Lending, and Financial Services
- - [https://www.suntrust.com](https://www.suntrust.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## SUNU Assurances Vie Côte d'Ivoire – Notre métier, l'assurance.
- - [https://cotedivoire.vie.sunu-group.com](https://cotedivoire.vie.sunu-group.com)
- - date_published: 2024-09-11T18:10:08.781315+00:00
-
- ## Sun Valley® Online Store | Sportswear & skiwear
- - [http://www.sun-valley.com](http://www.sun-valley.com)
- - date_published: 2024-07-03T06:34:54.805002+00:00
-
- ## Technology Trading Company | Sun-Wa Technos America
- - [https://www.sunwaus.com](https://www.sunwaus.com)
- - date_published: 2021-07-13T16:06:18+00:00
-
- ## SunWest Educational Credit Union
- - [https://my.sunwestecu.com](https://my.sunwestecu.com)
- - date_published: 2024-07-10T04:11:23.641471+00:00
-
- ## SunWest Credit Union
- - [https://sunwestecu.com](https://sunwestecu.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://assets.sunwingtravelgroup.com](https://assets.sunwingtravelgroup.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## 吉宣宇
- - [https://sunwookeel.com](https://sunwookeel.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Sun World - Global Fruit Variety Development & Licensing
- - [https://www.sun-world.com](https://www.sun-world.com)
- - date_published: 2024-06-19T23:24:17+00:00
-
- ## Oracle | Cloud Applications and Cloud Platform
- - [http://sunworld.com](http://sunworld.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Suomenkieliset Nettikasinot - listalla luotettavat pelisivustot 2024
- - [https://suomenkielisetnettikasinot.com](https://suomenkielisetnettikasinot.com)
- - date_published: 2024-07-17T04:25:42.334365+00:00
-
- ## SuomiFutis | Jalkapallouutisia Suomesta ja ulkomailta
- - [https://www.suomifutis.com](https://www.suomifutis.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## i summon one kim - Kimmo Suominen
- - [https://kimmo.suominen.com](https://kimmo.suominen.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Suomi Poikas - Suomi Poikas Hockey Club
- - [https://suomipoikas.com](https://suomipoikas.com)
- - date_published: 2024-05-10T06:17:32.878132+00:00
-
- ## SuomiTimes : Tietoa, totuutta, tärkeää tänään
- - [https://suomitimes.com](https://suomitimes.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Dashboard | Supabase
- - [https://app.supabase.com](https://app.supabase.com)
- - date_published: 2024-07-10T11:13:57.295436+00:00
-
- ## Join the Supabase Discord Server!
- - [https://discord.supabase.com](https://discord.supabase.com)
- - date_published: 2024-06-22T00:40:11+00:00
-
- ## On Deck Onboarding Form
- - [https://forms.supabase.com](https://forms.supabase.com)
- - date_published: 2024-06-18T21:46:15+00:00
-
- ## Supabase Status
- - [https://status.supabase.com](https://status.supabase.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Supabase | The Open Source Firebase Alternative
- - [https://supabase.com](https://supabase.com)
- - date_published: 2023-10-25T17:19:31.509105+00:00
-
- ## Supademo | Login
- - [https://app.supademo.com](https://app.supademo.com)
- - date_published: 2024-05-07T18:39:07.896889+00:00
-
- ## Supademo Docs
- - [https://docs.supademo.com](https://docs.supademo.com)
- - date_published: 2024-08-19T05:02:57.812512+00:00
-
- ## Trust Center
- - [https://security.supademo.com](https://security.supademo.com)
- - date_published: 2024-08-19T05:02:56.487538+00:00
-
- ## Supademo: Create Engaging Interactive Demos and Guides
- - [https://supademo.com](https://supademo.com)
- - date_published: 2023-10-25T17:19:33.311498+00:00
-
- ## Supadu | Websites, stores & digital marketing services for Publishers & University Presses
- - [https://supadu.com](https://supadu.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Supafana | Metrics and observability for Supabase
- - [https://supafana.com](https://supafana.com)
- - date_published: 2024-08-30T20:10:13+00:00
-
- ## Supa Fluffy
- - [https://supafluffy.com](https://supafluffy.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## SupaLaunch Demo Project
- - [https://demo.supalaunch.com](https://demo.supalaunch.com)
- - date_published: 2024-06-19T02:23:56.984193+00:00
-
- ## SupaLaunch Documentation | SupaLaunch Documentation
- - [https://docs.supalaunch.com](https://docs.supalaunch.com)
- - date_published: 2024-06-19T02:23:54.037729+00:00
-
- ## Supabase NextJS Starter Kit — SupaLaunch
- - [https://supalaunch.com](https://supalaunch.com)
- - date_published: 2024-05-02T19:40:20.378528+00:00
-
- ## Free logo Maker - Supalogo.com
- - [http://supalogo.com](http://supalogo.com)
- - date_published: 2024-07-04T14:48:32.883187+00:00
-
- ## MISTERIBET77: Alternatif Game Online Terbaik di Indonesia
- - [https://supasql.com](https://supasql.com)
- - date_published: 2024-06-03T20:30:02+00:00
-
- ## Sup Bot - Best Standup Bot for Slack, MS Teams, and Webex
- - [https://app.supbot.com](https://app.supbot.com)
- - date_published: 2024-10-18T16:00:29+00:00
-
- ## Holidays and Observances around the world in 2024 | Sup Standup Bot
- - [https://holidays.supbot.com](https://holidays.supbot.com)
- - date_published: 2024-10-06T16:10:13+00:00
-
- ## Sup Bot - Best Standup Bot for Slack, MS Teams, and Webex
- - [https://supbot.com](https://supbot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Vous êtes le futur des marques - Sup de Pub
- - [https://www.supdepub.com](https://www.supdepub.com)
- - date_published: 2024-06-25T00:00:00+00:00
 

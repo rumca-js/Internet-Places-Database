@@ -1,3 +1,227 @@
+ ## Biological Sciences Collegiate Division
+ - [https://bscd.uchicago.edu](https://bscd.uchicago.edu)
+ - date_published: 2024-05-07T20:46:08.412983+00:00
+
+ ## Office of Academic Affairs
+ - [https://bsdacademicaffairs.uchicago.edu](https://bsdacademicaffairs.uchicago.edu)
+ - date_published: 2024-07-01T19:03:59+00:00
+
+ ## Home
+ - [https://bsdis.uchicago.edu](https://bsdis.uchicago.edu)
+ - date_published: 2024-05-07T20:46:01.960212+00:00
+
+ ## Biological Sciences Postdoctoral Affairs and Association – Providing career and professional development training to BSD postdocs
+ - [https://bsdpostdoc.uchicago.edu](https://bsdpostdoc.uchicago.edu)
+ - date_published: 2024-05-07T20:45:58.533847+00:00
+
+ ## UChicago Alumni & Friends
+ - [https://campaign.uchicago.edu](https://campaign.uchicago.edu)
+ - date_published: 2023-06-30T21:11:58+00:00
+
+ ## Committee on Computational and Applied Mathematics | The University of Chicago
+ - [https://cam.uchicago.edu](https://cam.uchicago.edu)
+ - date_published: 2024-07-14T23:34:12+00:00
+
+ ## Home
+ - [https://careeradvancement.uchicago.edu](https://careeradvancement.uchicago.edu)
+ - date_published: 2024-07-01T22:33:00.196530+00:00
+
+ ## UChicago CARES Website – Sandbox | University of Chicago
+ - [https://cares.uchicago.edu](https://cares.uchicago.edu)
+ - date_published: 2024-07-01T22:37:19.973466+00:00
+
+ ## Search Home :: Library Catalog
+ - [https://catalog.lib.uchicago.edu](https://catalog.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:33.373077+00:00
+
+ ## College Center for Research and Fellowships | The University of Chicago
+ - [https://ccrf.uchicago.edu](https://ccrf.uchicago.edu)
+ - date_published: 2024-07-01T22:32:54.273096+00:00
+
+ ## College Honors & Awards | The University of Chicago
+ - [https://cha.uchicago.edu](https://cha.uchicago.edu)
+ - date_published: 2024-07-01T18:41:20+00:00
+
+ ## Home
+ - [https://chicagostudies.uchicago.edu](https://chicagostudies.uchicago.edu)
+ - date_published: 2024-08-08T15:02:05+00:00
+
+ ## Chicago Unbound - Chicago Law Faculty Scholarship
+ - [https://chicagounbound.uchicago.edu](https://chicagounbound.uchicago.edu)
+ - date_published: 2024-08-18T07:56:59.864711+00:00
+
+ ## Computation Institute – A joint initiative of UChicago and Argonne, 1999-2018
+ - [http://ci.uchicago.edu](http://ci.uchicago.edu)
+ - date_published: 2024-06-30T11:19:46.312521+00:00
+
+ ## Climate and Carbon Cycle Models
+ - [http://climatemodels.uchicago.edu](http://climatemodels.uchicago.edu)
+ - date_published: 2023-08-01T17:58:09+00:00
+
+ ## Center for Continuing Medical Education |
+ - [https://cme.uchicago.edu](https://cme.uchicago.edu)
+ - date_published: 2024-05-07T20:46:10.878930+00:00
+
+ ## Concurrent ML home page
+ - [http://cml.cs.uchicago.edu](http://cml.cs.uchicago.edu)
+ - date_published: 2002-10-09T13:30:51+00:00
+
+ ## PhD Program in Computational Neuroscience | The University of Chicago
+ - [https://cns.uchicago.edu](https://cns.uchicago.edu)
+ - date_published: 2024-07-01T14:59:33+00:00
+
+ ## College Admissions
+ - [https://collegeadmissions.uchicago.edu](https://collegeadmissions.uchicago.edu)
+ - date_published: 2024-07-01T19:04:22+00:00
+
+ ## The College Catalog 2024–2025 < University of Chicago Catalog
+ - [http://collegecatalog.uchicago.edu](http://collegecatalog.uchicago.edu)
+ - date_published: 2024-07-01T17:52:46+00:00
+
+ ## College Surveys | College Surveys | The University of Chicago
+ - [https://collegesurveys.uchicago.edu](https://collegesurveys.uchicago.edu)
+ - date_published: 2024-07-01T22:33:25+00:00
+
+ ## | The College | The University of Chicago | The University of Chicago
+ - [https://college.uchicago.edu](https://college.uchicago.edu)
+ - date_published: 2024-06-28T16:37:15+00:00
+
+ ## Communications
+ - [https://communications.uchicago.edu](https://communications.uchicago.edu)
+ - date_published: 2024-07-01T22:39:24.859696+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19) Information
+ - [https://coronavirusupdates.uchicago.edu](https://coronavirusupdates.uchicago.edu)
+ - date_published: 2024-06-29T21:12:09.827066+00:00
+
+ ## Catalogs - Services Portal
+ - [https://creativeportal.uchicago.edu](https://creativeportal.uchicago.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## CENTER FOR RESEARCH INFORMATICS
+ - [http://cri.uchicago.edu](http://cri.uchicago.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Campus and Student Life | The University of Chicago
+ - [https://csl.uchicago.edu](https://csl.uchicago.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Homepage - Department of Computer Science
+ - [https://cs.uchicago.edu](https://cs.uchicago.edu)
+ - date_published: 2024-06-30T09:11:12.234825+00:00
+
+ ## Homepage | DSI
+ - [https://datascience.uchicago.edu](https://datascience.uchicago.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Center for Digital Accessibility | The University of Chicago
+ - [https://digitalaccessibility.uchicago.edu](https://digitalaccessibility.uchicago.edu)
+ - date_published: 2024-07-01T22:17:16+00:00
+
+ ## People Search | Online Directory | The University of Chicago
+ - [https://directory.uchicago.edu](https://directory.uchicago.edu)
+ - date_published: 2024-06-29T21:18:59.291804+00:00
+
+ ## The University of Chicago Student Disability Services
+ - [https://disabilities.uchicago.edu](https://disabilities.uchicago.edu)
+ - date_published: 2024-07-01T21:41:58+00:00
+
+ ## Diversity & Inclusion | The University of Chicago
+ - [https://diversityandinclusion.uchicago.edu](https://diversityandinclusion.uchicago.edu)
+ - date_published: 2024-06-29T20:44:38+00:00
+
+ ## Homepage | The University of Chicago Divinity School
+ - [https://divinity.uchicago.edu](https://divinity.uchicago.edu)
+ - date_published: 2024-07-01T19:47:11+00:00
+
+ ## Distributed Systems Laboratory Homepage
+ - [http://dsl.cs.uchicago.edu](http://dsl.cs.uchicago.edu)
+ - date_published: 2009-10-13T22:24:27+00:00
+
+ ## Ecology & Evolution | The University of Chicago
+ - [https://ecologyandevolution.uchicago.edu](https://ecologyandevolution.uchicago.edu)
+ - date_published: 2024-05-07T14:14:13.363606+00:00
+
+ ## Graduate Program in Ecology & Evolution | The University of Chicago
+ - [https://eegraduate.uchicago.edu](https://eegraduate.uchicago.edu)
+ - date_published: 2024-06-28T20:08:15+00:00
+
+ ## Center for Effective Government - Center for Effective Government
+ - [https://effectivegov.uchicago.edu](https://effectivegov.uchicago.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://ehsa-prd-01.uchicago.edu](https://ehsa-prd-01.uchicago.edu)
+ - date_published: 2022-10-24T14:30:17+00:00
+
+ ## English Language Institute | The University of Chicago
+ - [http://esl.uchicago.edu](http://esl.uchicago.edu)
+ - date_published: 2024-07-01T22:22:02+00:00
+
+ ## Calendar of Events | The University of Chicago
+ - [https://events.uchicago.edu](https://events.uchicago.edu)
+ - date_published: 2024-05-07T20:46:00.260987+00:00
+
+ ## The University of Chicago Facilities Services
+ - [https://facilities.uchicago.edu](https://facilities.uchicago.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UChicago - Sign In
+ - [https://facultyaccess.uchicago.edu](https://facultyaccess.uchicago.edu)
+ - date_published: 2024-07-03T04:06:47.437138+00:00
+
+ ## Home
+ - [https://financialaid.uchicago.edu](https://financialaid.uchicago.edu)
+ - date_published: 2024-07-01T22:33:14.172903+00:00
+
+ ## Financial Mathematics | The University of Chicago
+ - [https://finmath.uchicago.edu](https://finmath.uchicago.edu)
+ - date_published: 2024-05-01T04:44:01.419765+00:00
+
+ ## Climate and Carbon Cycle Models
+ - [http://forecast.uchicago.edu](http://forecast.uchicago.edu)
+ - date_published: 2023-08-01T17:58:09+00:00
+
+ ## Geophysical Sciences
+ - [https://geosci.uchicago.edu](https://geosci.uchicago.edu)
+ - date_published: 2023-10-25T19:00:02.742597+00:00
+
+ ## Homepage
+ - [https://givetomedicine.uchicago.edu](https://givetomedicine.uchicago.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Make a Gift | UChicago Alumni & Friends
+ - [https://giving.uchicago.edu](https://giving.uchicago.edu)
+ - date_published: 2024-06-29T21:12:14.033987+00:00
+
+ ## Glaze - Protecting Artists from Generative AI
+ - [https://glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu)
+ - date_published: 2023-10-25T19:00:05.496930+00:00
+
+ ## A Global University
+ - [https://global.uchicago.edu](https://global.uchicago.edu)
+ - date_published: 2024-07-01T22:31:53+00:00
+
+ ## The Goodspeed Manuscript Collection
+ - [https://goodspeed.lib.uchicago.edu](https://goodspeed.lib.uchicago.edu)
+ - date_published: 2024-08-06T19:19:38.333146+00:00
+
+ ## Home - UChicagoGRAD | The University of Chicago
+ - [https://grad.uchicago.edu](https://grad.uchicago.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to
+ - [https://grahamschool.uchicago.edu](https://grahamschool.uchicago.edu)
+ - date_published: 2024-07-01T21:47:53+00:00
+
+ ## Welcome to
+ - [https://graham.uchicago.edu](https://graham.uchicago.edu)
+ - date_published: 2024-05-07T20:46:53.098712+00:00
+
+ ## Library Guides: Research Guides: Subject Guides
+ - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:31.938288+00:00
+
  ## Harris | The University of Chicago Harris School of Public Policy
  - [https://harris.uchicago.edu](https://harris.uchicago.edu)
  - date_published: 2024-05-08T00:13:10.966049+00:00
@@ -3801,228 +4025,4 @@
  ## Home | Graduate Student Resource Center (GradPost)
  - [http://www.gradpost.ucsb.edu](http://www.gradpost.ucsb.edu)
  - date_published: 2024-09-12T22:11:47+00:00
-
- ## Home | Graduate Student Association
- - [https://www.gsa.ucsb.edu](https://www.gsa.ucsb.edu)
- - date_published: 2024-08-29T04:14:54+00:00
-
- ## Division of Humanities and Fine Arts
- - [https://www.hfa.ucsb.edu](https://www.hfa.ucsb.edu)
- - date_published: 2024-07-01T23:51:04.919250+00:00
-
- ## Home | UC Santa Barbara IAM
- - [http://www.identity.ucsb.edu](http://www.identity.ucsb.edu)
- - date_published: 2024-09-11T23:22:49+00:00
-
- ## UC Santa Barbara Information Technology
- - [https://www.it.ucsb.edu](https://www.it.ucsb.edu)
- - date_published: 2024-07-01T18:41:00+00:00
-
- ## Welcome to KITP | KITP
- - [https://www.kitp.ucsb.edu](https://www.kitp.ucsb.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Las Maestras center
- - [https://www.lasmaestrascenter.ucsb.edu](https://www.lasmaestrascenter.ucsb.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Department of Linguistics - UC Santa Barbara
- - [http://www.linguistics.ucsb.edu](http://www.linguistics.ucsb.edu)
- - date_published: 2024-07-02T09:02:20+00:00
-
- ## Media Arts and Technology, UC Santa Barbara
- - [https://www.mat.ucsb.edu](https://www.mat.ucsb.edu)
- - date_published: 2024-09-13T19:43:57.294528+00:00
-
- ## Home | Material Research Laboratory
- - [https://www.mrl.ucsb.edu](https://www.mrl.ucsb.edu)
- - date_published: 2024-10-19T08:20:52.709762+00:00
-
- ## Art Museum - UC Santa Barbara
- - [https://www.museum.ucsb.edu](https://www.museum.ucsb.edu)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## UCSB Nanofab: U.C. Santa Barbara Cleanroom: Semiconductor Manufacturing Research
- - [http://www.nanotech.ucsb.edu](http://www.nanotech.ucsb.edu)
- - date_published: 2024-06-29T22:27:59.598984+00:00
-
- ## Welcome to The American Presidency Project | The American Presidency Project
- - [https://www.presidency.ucsb.edu](https://www.presidency.ucsb.edu)
- - date_published: 2024-05-04T05:25:28.570604+00:00
-
- ## Welcome to UCSB Student Affairs
- - [http://www.sa.ucsb.edu](http://www.sa.ucsb.edu)
- - date_published: 2024-09-14T10:11:45.448061+00:00
-
- ## Division of Mathematical Life and Physical Sciences - UC Santa Barbara
- - [http://www.science.ucsb.edu](http://www.science.ucsb.edu)
- - date_published: 2024-07-01T22:56:54+00:00
-
- ## Home | The Scott Research Group
- - [https://www.scott.chemengr.ucsb.edu](https://www.scott.chemengr.ucsb.edu)
- - date_published: 2024-10-19T08:20:18.560514+00:00
-
- ## Division of Social Sciences - UC Santa Barbara
- - [http://www.socialsciences.ucsb.edu](http://www.socialsciences.ucsb.edu)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Home - The Club & Guest House at UC Santa Barbara - Santa Barbara, CA
- - [https://www.theclub.ucsb.edu](https://www.theclub.ucsb.edu)
- - date_published: 2024-09-14T10:14:31.673527+00:00
-
- ## Homepage | UCSB Electronic Timekeeping
- - [https://www.timekeeping.ucsb.edu](https://www.timekeeping.ucsb.edu)
- - date_published: 2024-08-29T23:30:27+00:00
-
- ## Home | Transportation & Parking Services
- - [https://www.tps.ucsb.edu](https://www.tps.ucsb.edu)
- - date_published: 2024-09-11T05:53:03+00:00
-
- ## U-Mail Student Collaboration Services
- - [https://www.umail.ucsb.edu](https://www.umail.ucsb.edu)
- - date_published: 2024-09-14T09:52:59+00:00
-
- ## UCSB Professional and Continuing Education
- - [https://zs.professional.ucsb.edu](https://zs.professional.ucsb.edu)
- - date_published: 2024-09-14T10:15:19.660519+00:00
-
- ## UCSC Academic Affairs
- - [https://academicaffairs.ucsc.edu](https://academicaffairs.ucsc.edu)
- - date_published: 2024-05-07T20:59:53.699414+00:00
-
- ## Homepage
- - [https://admissions.ucsc.edu](https://admissions.ucsc.edu)
- - date_published: 2024-06-30T17:42:35+00:00
-
- ## Undergraduate Advising
- - [http://advising.ucsc.edu](http://advising.ucsc.edu)
- - date_published: 2024-07-02T01:19:13.398055+00:00
-
- ## Center for Agroecology: Growing sustainable food systems
- - [https://agroecology.ucsc.edu](https://agroecology.ucsc.edu)
- - date_published: 2024-07-02T01:16:55.435762+00:00
-
- ## ALT Games Lab – Alternative Learning Technologies and Games Lab
- - [https://altgameslab.sites.ucsc.edu](https://altgameslab.sites.ucsc.edu)
- - date_published: 2024-06-22T08:45:09.888444+00:00
-
- ## ALT Games Lab – Alternative Learning Technologies and Games Lab
- - [https://altgameslab.soe.ucsc.edu](https://altgameslab.soe.ucsc.edu)
- - date_published: 2024-05-04T15:17:38.418725+00:00
-
- ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
- - [https://ams.ucsc.edu](https://ams.ucsc.edu)
- - date_published: 2024-05-07T20:59:10.632585+00:00
-
- ## Academic Personnel Office
- - [https://apo.ucsc.edu](https://apo.ucsc.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Graduate School | Grad Admissions UC Santa Cruz
- - [http://applygrad.ucsc.edu](http://applygrad.ucsc.edu)
- - date_published: 2024-07-02T01:20:21.478094+00:00
-
- ## The Ramirez Lab – This site describes the people, facilities, and research being pursued in Art Ramirez's lab
- - [https://aprlab.sites.ucsc.edu](https://aprlab.sites.ucsc.edu)
- - date_published: 2024-05-07T15:14:35.485550+00:00
-
- ## Welcome to the Arboretum & Botanic Garden
- - [https://arboretum.ucsc.edu](https://arboretum.ucsc.edu)
- - date_published: 2024-07-01T23:56:15.000508+00:00
-
- ## Events Calendar - Events at UC Santa Cruz
- - [https://calendar.ucsc.edu](https://calendar.ucsc.edu)
- - date_published: 2024-07-01T23:56:26.776678+00:00
-
- ## CruzID Gold Login
- - [https://canvas.ucsc.edu](https://canvas.ucsc.edu)
- - date_published: 2024-07-01T23:54:22.392795+00:00
-
- ## University of California Santa Cruz - University of California Santa Cruz
- - [https://catalog.ucsc.edu](https://catalog.ucsc.edu)
- - date_published: 2023-09-26T12:53:46+00:00
-
- ## Office of the Chancellor – The Office of the Chancellor at UC Santa Cruz.
- - [http://chancellor.ucsc.edu](http://chancellor.ucsc.edu)
- - date_published: 2024-07-21T06:09:57+00:00
-
- ## The Teaching & Learning Center – We collaborate with campus educators and other partners to inspire the exploration of innovative and accessible teaching practices and technologies that advance equity, foster deep learning, and increase student engagement.
- - [https://citl.ucsc.edu](https://citl.ucsc.edu)
- - date_published: 2024-07-01T23:26:20+00:00
-
- ## UCSC Cognitive Modeling Laboratory
- - [https://cogmodlab.ucsc.edu](https://cogmodlab.ucsc.edu)
- - date_published: 2024-06-22T08:24:39+00:00
-
- ## UC Santa Cruz Communications & Marketing – Communications & Marketing
- - [https://communications.ucsc.edu](https://communications.ucsc.edu)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Campus Provost and Executive Vice Chancellor – Campus Provost and Executive Vice Chancellor Lori Kletzer
- - [https://cpevc.ucsc.edu](https://cpevc.ucsc.edu)
- - date_published: 2024-07-01T23:45:16+00:00
-
- ## CruzBuy E-Procurement System
- - [http://cruzbuy.ucsc.edu](http://cruzbuy.ucsc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CruzPay Time and Attendance System
- - [http://cruzpay.ucsc.edu](http://cruzpay.ucsc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
- - [https://cs.ucsc.edu](https://cs.ucsc.edu)
- - date_published: 2024-08-02T23:36:21.033042+00:00
-
- ## danm.ucsc.edu
- - [https://danm.ucsc.edu](https://danm.ucsc.edu)
- - date_published: 2024-06-22T07:45:39+00:00
-
- ## Digital Karnak – University of California Santa Cruz
- - [https://digitalkarnak.ucsc.edu](https://digitalkarnak.ucsc.edu)
- - date_published: 2024-05-09T06:06:44.060160+00:00
-
- ## Dining
- - [https://dining.ucsc.edu](https://dining.ucsc.edu)
- - date_published: 2024-07-02T01:19:18.674416+00:00
-
- ## UC Santa Cruz - DivData
- - [https://divdata.ucsc.edu](https://divdata.ucsc.edu)
- - date_published: 2024-07-01T23:54:35.855797+00:00
-
- ## Office for Diversity, Equity, and Inclusion
- - [https://diversity.ucsc.edu](https://diversity.ucsc.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Disability Resource Center – Disability-related Accommodations for UCSC enrolled Undergrad and Graduate students.
- - [https://drc.ucsc.edu](https://drc.ucsc.edu)
- - date_published: 2024-07-02T01:19:05+00:00
-
- ## UC Santa Cruz - Ecology & Evolutionary Biology
- - [https://eeb.ucsc.edu](https://eeb.ucsc.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Expressive Intelligence Studio Blog | EIS at UC Santa Cruz
- - [https://eis-blog.soe.ucsc.edu](https://eis-blog.soe.ucsc.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Home Page | EIS
- - [https://eis.ucsc.edu](https://eis.ucsc.edu)
- - date_published: 2021-02-05T23:00:01+00:00
-
- ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
- - [https://engineering.ucsc.edu](https://engineering.ucsc.edu)
- - date_published: 2024-07-01T23:06:58+00:00
-
- ## UC Santa Cruz - Earth & Planetary Sciences
- - [https://eps.ucsc.edu](https://eps.ucsc.edu)
- - date_published: 2024-05-07T20:59:32.734118+00:00
-
- ## Earth and Planetary Science
- - [http://es.ucsc.edu](http://es.ucsc.edu)
- - date_published: 2012-05-16T18:38:07+00:00
-
- ## University of California-Santa Cruz ⋮ Events
- - [https://events.ucsc.edu](https://events.ucsc.edu)
- - date_published: 2024-07-01T23:56:09.969959+00:00
 

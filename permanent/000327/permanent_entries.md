@@ -1,3 +1,258 @@
+ ## 8bit.lol Git Hosting
+ - [https://git.8bit.lol](https://git.8bit.lol)
+ - date_published: 2024-08-18T06:15:15.044704+00:00
+
+ ## 8bit.url.lol
+ - [https://url.8bit.lol](https://url.8bit.lol)
+ - date_published: 2024-08-18T06:15:16.445884+00:00
+
+ ## @a2
+ - [https://a2.lol](https://a2.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## The Dent ·
+ - [https://acn.lol](https://acn.lol)
+ - date_published: 2024-08-08T12:43:41.146263+00:00
+
+ ## Links - Akash Goswami
+ - [https://akash.lol](https://akash.lol)
+ - date_published: 2024-06-15T07:57:59.996836+00:00
+
+ ## Lou Plummer
+ - [https://amerpie.lol](https://amerpie.lol)
+ - date_published: 2024-05-04T14:14:29.358742+00:00
+ - tags: ['personal']
+
+ ## Obsidian Articles by Amerpie
+		- Obsidian Articles by Amerpie
+ - [https://obsidian.amerpie.lol](https://obsidian.amerpie.lol)
+ - date_published: 2024-06-19T19:55:52+00:00
+
+ ## Apple Annie’s Domain
+ - [https://anniegreens.lol](https://anniegreens.lol)
+ - date_published: 2024-05-08T05:14:29.479793+00:00
+
+ ## Apple Annie’s Microblog
+ - [https://micro.anniegreens.lol](https://micro.anniegreens.lol)
+ - date_published: 2024-07-04T01:34:24+00:00
+
+ ## Apple Annie's Now page
+ - [https://now.anniegreens.lol](https://now.anniegreens.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Apple Annie's Profile page
+ - [https://omg.anniegreens.lol](https://omg.anniegreens.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @anniegreens’s statuslog
+ - [https://status.anniegreens.lol](https://status.anniegreens.lol)
+ - date_published: 2024-07-04T06:07:28.026226+00:00
+
+ ## Apple Annie’s Weblog · Home
+ - [https://weblog.anniegreens.lol](https://weblog.anniegreens.lol)
+ - date_published: 2024-05-08T05:14:27.371253+00:00
+ - tags: ['personal']
+
+ ## that one thing that one time
+ - [https://blog.anp.lol](https://blog.anp.lol)
+ - date_published: 2019-12-02T00:00:00+00:00
+
+ ## blendOS Status
+ - [https://status.asterisk.lol](https://status.asterisk.lol)
+ - date_published: 2024-06-20T20:59:27.843112+00:00
+
+ ## Umami
+ - [https://t.asterisk.lol](https://t.asterisk.lol)
+ - date_published: 2024-06-20T20:59:21.118047+00:00
+
+ ## background.lol - background Zasoby i informacje.
+ - [https://www.background.lol](https://www.background.lol)
+ - date_published: 2024-10-30T07:19:37+00:00
+
+ ## 🧖‍♂️ An opinionated guide to Sauna - close the F. door. by @NVK
+ - [https://banya.lol](https://banya.lol)
+ - date_published: 2023-05-04T16:18:37+00:00
+
+ ## Bello | Web3 Growth Analytics
+ - [https://bello.lol](https://bello.lol)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## bids.lol
+ - [https://bids.lol](https://bids.lol)
+ - date_published: 2024-09-05T23:43:50.341135+00:00
+
+ ## broke.lol
+ - [https://broke.lol](https://broke.lol)
+ - date_published: 2024-06-29T23:25:58.044073+00:00
+
+ ## Bugle - 🎺
+ - [https://bugle.lol](https://bugle.lol)
+ - date_published: 2024-09-03T23:17:28.153347+00:00
+
+ ## omg.lol - A lovable web page and email address, just for you
+ - [https://cache.lol](https://cache.lol)
+ - date_published: 2023-01-29T00:00:00+00:00
+
+ ## omg.lol - A lovable web page and email address, just for you
+ - [https://cdn.cache.lol](https://cdn.cache.lol)
+ - date_published: 2023-01-29T00:00:00+00:00
+
+ ## omg.lol - A lovable web page and email address, just for you
+ - [https://omgalol.cache.lol](https://omgalol.cache.lol)
+ - date_published: 2023-01-29T00:00:00+00:00
+
+ ## omg.lol - A lovable web page and email address, just for you
+ - [https://profiles.cache.lol](https://profiles.cache.lol)
+ - date_published: 2023-01-29T00:00:00+00:00
+
+ ## Can you imagine?
+ - [https://canyouimagine.lol](https://canyouimagine.lol)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['satire', 'ui design', 'personal']
+
+ ## charms.lol
+ - [https://charms.lol](https://charms.lol)
+ - date_published: 2024-07-15T06:32:11.869846+00:00
+
+ ## Revolut.Me
+ - [http://pay.cian.lol](http://pay.cian.lol)
+ - date_published: 2024-07-19T08:50:16+00:00
+
+ ## Clan - Documentation, Blog & Getting Started Guide
+ - [https://docs.clan.lol](https://docs.clan.lol)
+ - date_published: 1970-01-01T00:00:01+00:00
+
+ ## Failing What Matters Most - Your Premier EDR (Endpoint Destruction and Razing) Partner Since 2024!
+ - [https://clownstrike.lol](https://clownstrike.lol)
+ - date_published: 2024-08-06T16:04:45+00:00
+ - tags: ['cloudstrike', 'satire', 'parody']
+
+ ## colors.lol - Overly descriptive color palettes
+ - [https://colors.lol](https://colors.lol)
+ - date_published: 2024-10-22T19:22:09.165441+00:00
+
+ ## company.lol - the office of harper reed and friends
+ - [https://company.lol](https://company.lol)
+ - date_published: 2024-03-16T18:38:09+00:00
+
+ ## Concave | The Magic Number Machine, Home of the Builder CO-OP
+ - [https://concave.lol](https://concave.lol)
+ - date_published: 2024-09-04T14:19:59.357057+00:00
+
+ ## Wisdom of a grain of sand - Nguyen Chien Cong
+ - [https://cong.lol](https://cong.lol)
+ - date_published: 2024-04-13T18:29:11.560865+00:00
+ - tags: ['personal']
+
+ ## Nextcloud
+ - [https://nextcloud.corey.lol](https://nextcloud.corey.lol)
+ - date_published: 2024-10-22T18:37:11.285690+00:00
+
+ ## dmc
+ - [https://dmc.lol](https://dmc.lol)
+ - date_published: 2024-07-02T20:33:30.673398+00:00
+
+ ## Drift
+ - [https://drift.lol](https://drift.lol)
+ - date_published: 2024-06-22T06:29:33.242900+00:00
+
+ ## Ehqo
+ - [https://ehqo.lol](https://ehqo.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## etc.lol
+ - [https://etc.lol](https://etc.lol)
+ - date_published: 2024-05-10T16:04:45+00:00
+
+ ## Femboy Finder
+ - [https://fem.lol](https://fem.lol)
+ - date_published: 2023-09-22T00:00:00+00:00
+
+ ## The Nostr follower tool
+ - [https://follows.lol](https://follows.lol)
+ - date_published: 2024-07-16T18:03:59.368512+00:00
+
+ ## Freddy
+ - [https://freddy.lol](https://freddy.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Frens
+ - [https://www.frens.lol](https://www.frens.lol)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Hire a Golang Developer - programmer
+ - [https://geoffrey.lol](https://geoffrey.lol)
+ - date_published: 2024-07-18T22:59:43.795945+00:00
+
+ ## @ricardo
+ - [https://governa.lol](https://governa.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Gian Paolo Fontani | Musicante
+ - [https://gpf.lol](https://gpf.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Gian Paolo Fontani | Electronic Music Producer | Newsletters | Substack
+ - [https://news.gpf.lol](https://news.gpf.lol)
+ - date_published: 2024-08-07T20:14:51.112674+00:00
+
+ ## Gian Paolo Fontani | Musicante | Now
+ - [https://now.gpf.lol](https://now.gpf.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## pbin.gpf.lol
+ - [https://pbin.gpf.lol](https://pbin.gpf.lol)
+ - date_published: 1983-02-12T00:00:00+00:00
+
+ ## gianpaolofontani.url.lol
+ - [https://short.gpf.lol](https://short.gpf.lol)
+ - date_published: 2024-08-07T20:31:01.487543+00:00
+
+ ## @gianpaolofontani’s statuslog
+ - [https://slog.gpf.lol](https://slog.gpf.lol)
+ - date_published: 1983-02-12T00:00:00+00:00
+
+ ## Terminal Land
+ - [https://tverse.gpf.lol](https://tverse.gpf.lol)
+ - date_published: 2024-08-07T20:20:14.517956+00:00
+
+ ## Gian Paolo Fontani | Musicante | Gian Paolo Fontani Official Weblog | Bluesky FAQ
+ - [https://weblog.gpf.lol](https://weblog.gpf.lol)
+ - date_published: 2024-08-07T20:14:22.166684+00:00
+
+ ## Harper Reed ★ Probably one of the coolest guys ever
+ - [https://harper.lol](https://harper.lol)
+ - date_published: 2024-05-19T02:47:58.061749+00:00
+
+ ## howdoicomputer – howdoicomputer
+ - [https://howdoicomputer.lol](https://howdoicomputer.lol)
+ - date_published: 2023-11-01T05:07:19+00:00
+
+ ## thanks for the fun!
+ - [https://instances.hyper.lol](https://instances.hyper.lol)
+ - date_published: 2024-10-23T20:07:57+00:00
+
+ ## yet another app
+ - [https://apps.icymi.lol](https://apps.icymi.lol)
+ - date_published: 2024-08-07T20:11:32.243368+00:00
+
+ ## srs bsns (lol)
+ - [https://blog.jbowdre.lol](https://blog.jbowdre.lol)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## @jbowdre
+ - [https://jbowdre.lol](https://jbowdre.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## paste.jbowdre.lol
+ - [https://paste.jbowdre.lol](https://paste.jbowdre.lol)
+ - date_published: 2024-08-07T20:41:42.308406+00:00
+
+ ## Scribbles 'n Bits
+ - [https://scribbles.jbowdre.lol](https://scribbles.jbowdre.lol)
+ - date_published: 2024-06-10T07:07:51.494941+00:00
+ - tags: ['personal']
+
  ## ☺☀️
  - [https://jenny.lol](https://jenny.lol)
  - date_published: 2022-07-19T06:03:48+00:00
@@ -3761,254 +4016,4 @@
  ## Conference Events Meetings Exhibition Venue Hire London - QEII Centre
  - [https://qeiicentre.london](https://qeiicentre.london)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Register now - .LONDON
- - [https://register.london](https://register.london)
- - date_published: 2024-06-21T16:25:21.748531+00:00
-
- ## Login
- - [https://www.rosetta.london](https://www.rosetta.london)
- - date_published: 2024-06-17T14:01:07.939051+00:00
-
- ## Tantric Massage London - SKIN - The UK's #1 Trusted Agency in 2023
- - [https://skintantricmassage.london](https://skintantricmassage.london)
- - date_published: 2018-06-20T00:00:00+00:00
-
- ## Vue.js London | October 2020 | Conference
- - [https://vuejs.london](https://vuejs.london)
- - date_published: 2021-04-11T20:42:26+00:00
-
- ## WordPress Agency London & Kent | WP Canterbury
- - [https://www.wpagency.london](https://www.wpagency.london)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## In Loving Memory of Ross
- - [https://anderson.love](https://anderson.love)
- - date_published: 2024-08-27T14:23:48+00:00
-
- ## Angular.love - Polskie community dla sympatyków Angulara
- - [https://www.angular.love](https://www.angular.love)
- - date_published: 2024-06-20T05:37:54+00:00
-
- ## Drand documentation
- - [https://drand.love](https://drand.love)
- - date_published: 2024-05-09T07:05:33.798538+00:00
-
- ## FileLove
- - [https://file.love](https://file.love)
- - date_published: 2024-06-03T11:18:44.306899+00:00
-
- ## Emerald Coast
- - [https://emerald.koshka.love](https://emerald.koshka.love)
- - date_published: 2024-05-30T01:52:54.291435+00:00
-
- ## KoshkaIRC IRC Network
- - [https://irc.koshka.love](https://irc.koshka.love)
- - date_published: 2024-09-03T22:39:10.039549+00:00
-
- ## Koshka's Kingdom
- - [https://koshka.love](https://koshka.love)
- - date_published: 2023-10-25T08:49:56.487593+00:00
- - tags: ['retro internet', 'blog', 'personal']
-
- ## Macula's Maze
- - [https://macula.koshka.love](https://macula.koshka.love)
- - date_published: 2024-05-30T01:53:00.355579+00:00
- - tags: ['personal']
-
- ## Manifold.love — Bet on love!
- - [http://manifold.love](http://manifold.love)
- - date_published: 2024-07-06T19:50:50.396568+00:00
-
- ## Mercury
- - [http://mercury.love](http://mercury.love)
- - date_published: 2012-01-13T00:00:00+00:00
-
- ## Free AI Art Generator & AI Enhance | neural.love
- - [https://neural.love](https://neural.love)
- - date_published: 2024-06-18T13:40:23+00:00
-
- ## Nicco Loves Linux
- - [https://blog.nicco.love](https://blog.nicco.love)
- - date_published: 2023-10-25T20:19:18.376556+00:00
-
- ## Orbit
- - [https://app.orbit.love](https://app.orbit.love)
- - date_published: 2024-06-23T02:14:43.823523+00:00
-
- ## Join the Orbit Discord Server!
- - [https://discord.orbit.love](https://discord.orbit.love)
- - date_published: 2024-06-22T00:40:11+00:00
-
- ## Orbit Feedback
- - [https://ideas.orbit.love](https://ideas.orbit.love)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Orbit - Community Platform
- - [https://orbit.love](https://orbit.love)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Community Search
- - [https://search.orbit.love](https://search.orbit.love)
- - date_published: 2024-06-23T02:14:51.216218+00:00
-
- ## Statuspage | Atlassian
- - [https://status.orbit.love](https://status.orbit.love)
- - date_published: 2024-06-23T02:14:49.840723+00:00
-
- ## Manjaro-JP
- - [https://mirror.phoepsilonix.love](https://mirror.phoepsilonix.love)
- - date_published: 2024-06-27T08:58:29+00:00
-
- ## YunoHost Portal
- - [https://poisonous.love](https://poisonous.love)
- - date_published: 2024-08-07T20:41:46.343765+00:00
-
- ## rising.love
- - [https://rising.love](https://rising.love)
- - date_published: 2024-01-06T17:57:46.196568+00:00
-
- ## Words and Music by Sasha V
- - [https://sashav.love](https://sashav.love)
- - date_published: 2024-09-16T16:27:07+00:00
-
- ## Dan Savage – Dan Savage's Website
- - [https://savage.love](https://savage.love)
- - date_published: 2024-05-08T05:35:26.396488+00:00
-
- ## Self Esteem - Shop
- - [https://store.selfesteem.love](https://store.selfesteem.love)
- - date_published: 2024-06-27T16:30:13.800554+00:00
-
- ## Software You Can love
- - [https://softwareyoucan.love](https://softwareyoucan.love)
- - date_published: 2024-01-10T18:20:40+00:00
-
- ## Svija: build websites with Adobe Illustrator ∴ Svija ∴ Websites with Adobe Illustrator
- - [https://svija.love](https://svija.love)
- - date_published: 2023-10-25T20:19:22.153913+00:00
-
- ## TaroTeller-Unveil Your Future with AI-Powered Tarot Insights
- - [https://www.taroteller.love](https://www.taroteller.love)
- - date_published: 2024-07-18T10:19:40+00:00
-
- ## The Sound of Love
- - [https://thesoundof.love](https://thesoundof.love)
- - date_published: 2024-06-18T06:59:11+00:00
-
- ## Welcome | The Way is Love
- - [https://thewayislove.love](https://thewayislove.love)
- - date_published: 2024-01-13T18:26:54.584714+00:00
-
- ## Ukraine DAO
- - [https://ukrainedao.love](https://ukrainedao.love)
- - date_published: 2024-09-07T07:37:41+00:00
-
- ## we are bandits, conseil en communication & branding
- - [https://www.wearebandits.love](https://www.wearebandits.love)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Home | The Executive Mansion
- - [https://emansion.gov.lr](https://emansion.gov.lr)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Ministry of Finance and Development Planning
- - [https://www.mfdp.gov.lr](https://www.mfdp.gov.lr)
- - date_published: 2024-08-11T23:51:41+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.co.ls](https://maps.google.co.ls)
- - date_published: 2024-07-20T07:38:02.446329+00:00
-
- ## Google
- - [https://www.google.co.ls](https://www.google.co.ls)
- - date_published: 2024-06-21T22:23:49.358007+00:00
-
- ## Welcome - Vodacom Lesotho
- - [https://vodacom.co.ls](https://vodacom.co.ls)
- - date_published: 2024-05-07T10:58:11.458846+00:00
-
- ## AI.LS
- - [https://ai.ls](https://ai.ls)
- - date_published: 2024-07-13T14:14:37.013348+00:00
-
- ## Ariel Salminen
- - [https://arie.ls](https://arie.ls)
- - date_published: 2024-06-28T11:21:41.930404+00:00
-
- ## Maximilian Hils
- - [https://hi.ls](https://hi.ls)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Manual lost? Download the manual you're searching for.
- - [https://www.manua.ls](https://www.manua.ls)
- - date_published: 2024-08-19T10:00:27.115880+00:00
-
- ## Instagram
- - [https://ni.ls](https://ni.ls)
- - date_published: 2024-07-13T04:29:48.823074+00:00
-
- ## Niels Boecker | Software Engineer
- - [https://nie.ls](https://nie.ls)
- - date_published: 2024-07-13T04:10:04.885550+00:00
-
- ## Omni LS
- - [https://omni.ls](https://omni.ls)
- - date_published: 2024-09-25T11:00:07.187947+00:00
-
- ## ‎Pixel Pals Widget Pet Game
- - [https://pixelpa.ls](https://pixelpa.ls)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## webtoo.ls
- - [https://m.webtoo.ls](https://m.webtoo.ls)
- - date_published: 2024-04-29T07:47:00.163506+00:00
-
- ## webtoo.ls
- - [https://webtoo.ls](https://webtoo.ls)
- - date_published: 2024-08-07T21:47:50.132431+00:00
-
- ## Cierpliwości...
- - [http://www.stat.gov.lt](http://www.stat.gov.lt)
- - date_published: 2024-07-01T11:53:17.307970+00:00
-
- ## Invidious
- - [https://invidious.0011.lt](https://invidious.0011.lt)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## SWITCHBLADE GRASSLAND
- - [http://switchbladegrassland.121.lt](http://switchbladegrassland.121.lt)
- - date_published: 2018-09-28T18:56:07+00:00
-
- ## Drevė (The Lair) – The Great Outdoors — Repeatedly, the written was attempted to be brought into the lairs. Imagine, something so inevitable – hashing markings out on the lip of hollow.
- - [http://thegreatoutdoors.121.lt](http://thegreatoutdoors.121.lt)
- - date_published: 2015-05-03T00:00:00+00:00
-
- ## 15min naujienos – Kai rūpi, laikas 15min
- - [https://www.15min.lt](https://www.15min.lt)
- - date_published: 2024-06-21T21:10:10.553393+00:00
-
- ## 3M Science. Applied to Life.
- - [https://www.3mlietuva.lt](https://www.3mlietuva.lt)
- - date_published: 2024-08-06T10:39:52.951771+00:00
-
- ## Drabužiai internetu iš daugiau nei 1500 prekių ženklų | ABOUT YOU
- - [https://m.aboutyou.lt](https://m.aboutyou.lt)
- - date_published: 2024-09-17T18:00:48+00:00
-
- ## Drabužiai internetu iš daugiau nei 1500 prekių ženklų | ABOUT YOU
- - [https://www.aboutyou.lt](https://www.aboutyou.lt)
- - date_published: 2024-09-17T18:00:48+00:00
-
- ## Home - Achema
- - [http://www.achema.lt](http://www.achema.lt)
- - date_published: 2024-07-01T11:38:54.012432+00:00
-
- ## Ačiū, kad esi
- - [https://www.aciukadesi.lt](https://www.aciukadesi.lt)
- - date_published: 2024-08-11T18:58:38.117923+00:00
-
- ## ACME Film
- - [http://acmefilm.lt](http://acmefilm.lt)
- - date_published: 2024-07-19T00:00:00+00:00
 

@@ -1,3 +1,228 @@
+ ## Dianética: La Ciencia Moderna de la Salud Mental
+ - [https://www.dianetics.do](https://www.dianetics.do)
+ - date_published: 2024-09-04T18:05:01.248951+00:00
+
+ ## Eduardo Mucelli Rezende Oliveira
+ - [https://eduar.do](https://eduar.do)
+ - date_published: 2023-01-06T20:51:55+00:00
+
+ ## Yuliang Xiu 修宇亮
+ - [http://endless.do](http://endless.do)
+ - date_published: 2024-06-18T15:45:35+00:00
+
+ ## Falcondo
+ - [https://www.falcondo.do](https://www.falcondo.do)
+ - date_published: 2024-09-12T14:06:14.770345+00:00
+
+ ## Forbes República Dominicana
+ - [https://forbes.do](https://forbes.do)
+ - date_published: 2024-10-19T19:57:04.650302+00:00
+
+ ## Fredo – San Francisco's half-assed thirst trapper
+ - [https://fre.do](https://fre.do)
+ - date_published: 2024-07-13T04:04:23.855297+00:00
+
+ ## Gather
+ - [https://gather.do](https://gather.do)
+ - date_published: 2024-05-09T06:17:05.765323+00:00
+
+ ## Give
+ - [https://give.do](https://give.do)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Guido X Jansen: Global Business & Technology Evangelist @ Spryker
+ - [https://gui.do](https://gui.do)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Hawaii Interactive - code, web & design
+ - [https://hawaii.do](https://hawaii.do)
+ - date_published: 2023-02-08T00:00:00+00:00
+
+ ## HUNDO  — Infrastructure for the New Economy
+ - [https://hun.do](https://hun.do)
+ - date_published: 2024-06-07T15:26:39+00:00
+
+ ## Ichido Blog
+ - [https://blog.ichi.do](https://blog.ichi.do)
+ - date_published: 2023-10-15T00:00:00+00:00
+
+ ## Ichido
+ - [https://ichi.do](https://ichi.do)
+ - date_published: 2024-01-09T02:57:52.397377+00:00
+
+ ## Ichido
+ - [https://metaverse.ichi.do](https://metaverse.ichi.do)
+ - date_published: 2024-04-30T02:48:04.170623+00:00
+
+ ## IDZ.DO - skróć swój link. Po polsku.
+ - [http://idz.do](http://idz.do)
+ - date_published: 2024-08-07T08:23:15+00:00
+
+ ## 真的笑鼠人了！
+ - [https://index.do](https://index.do)
+ - date_published: 2023-10-02T16:38:46+00:00
+
+ ## Become Playfully Purposeful - Intend app
+ - [https://intend.do](https://intend.do)
+ - date_published: 2024-06-21T20:07:29.651079+00:00
+
+ ## Jamendo Music | Free music downloads
+ - [http://jamen.do](http://jamen.do)
+ - date_published: 2024-07-10T09:43:43.717699+00:00
+
+ ## Jonas Downey | digital goods & greats
+ - [https://jonas.do](https://jonas.do)
+ - date_published: 2024-05-07T23:16:41.750462+00:00
+
+ ## umami
+ - [https://umami.journal.do](https://umami.journal.do)
+ - date_published: 2024-05-04T13:00:09.316736+00:00
+
+ ## Komodo
+ - [https://demo.komo.do](https://demo.komo.do)
+ - date_published: 2024-09-01T23:17:12+00:00
+
+ ## Home | Komodo
+ - [https://komo.do](https://komo.do)
+ - date_published: 2024-09-07T15:52:06+00:00
+
+ ## LOS40 República Dominicana
+ - [https://los40.do](https://los40.do)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Escucha LOS40 República Dominicana en directo
+ - [http://play.los40.do](http://play.los40.do)
+ - date_published: 2024-09-12T22:04:36.413179+00:00
+
+ ## Alejandro Machado – Projects
+ - [https://alejandro.macha.do](https://alejandro.macha.do)
+ - date_published: 2019-07-22T13:49:42+00:00
+
+ ## Pronóstico del tiempo 14 días - Meteored
+ - [https://www.meteored.do](https://www.meteored.do)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## MiguelPimentel.do
+ - [https://miguelpimentel.do](https://miguelpimentel.do)
+ - date_published: 2024-06-01T04:50:36.379959+00:00
+ - tags: ['personal']
+
+ ## Distribuidor de Componentes Electrónicos - Mouser Electronics República Dominicana
+ - [https://www.mouser.do](https://www.mouser.do)
+ - date_published: 2024-07-01T20:56:33.582432+00:00
+
+ ## hello://nan.do/rossi {open for work}
+ - [https://nan.do](https://nan.do)
+ - date_published: 2024-02-12T14:44:03+00:00
+
+ ## nar.do - Nardo Leung's Production
+ - [https://nar.do](https://nar.do)
+ - date_published: 2024-04-05T09:12:15+00:00
+
+ ## Página oficial | Nestlé Dominicana
+ - [https://www.nestle.do](https://www.nestle.do)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## AI Visual Sitemap Builder Tool, Website Planner, Architecture
+ - [https://octopus.do](https://octopus.do)
+ - date_published: 2024-06-20T13:38:31+00:00
+
+ ## Odismet
+ - [https://www.odismet.do](https://www.odismet.do)
+ - date_published: 2024-09-12T11:54:45.144789+00:00
+
+ ## Ooredoo Corporate
+ - [http://ore.do](http://ore.do)
+ - date_published: 2015-10-23T07:57:39+00:00
+
+ ## Practice Help Center
+ - [https://help.practice.do](https://help.practice.do)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Practice - Simple Client Management Software
+ - [https://practice.do](https://practice.do)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## The craft, without the cruft
+ - [https://riccar.do](https://riccar.do)
+ - date_published: 2022-05-30T00:00:00+00:00
+
+ ## rolan.do
+ - [https://rolan.do](https://rolan.do)
+ - date_published: 2019-01-24T17:37:53+00:00
+
+ ## Redirecting to Rottmann Ventures GmbH
+ - [https://rv.do](https://rv.do)
+ - date_published: 2022-12-05T14:30:09+00:00
+
+ ## Iglesia Oficial de Scientology: L. Ronald Hubbard, Dianética, ¿Qué es Scientology?, Libros, Creencias, David Miscavige
+ - [https://scientology.do](https://scientology.do)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Shadow -  Bot-Free AI Autopilot for Post-Meeting Tasks
+ - [https://www.shadow.do](https://www.shadow.do)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Join Slido: Enter #code to vote and ask questions
+ - [https://app.sli.do](https://app.sli.do)
+ - date_published: 2024-07-19T13:15:35+00:00
+
+ ## Slido | Slido Community
+ - [https://community.sli.do](https://community.sli.do)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Slido - Audience Interaction Made Easy
+ - [https://www.sli.do](https://www.sli.do)
+ - date_published: 2024-07-02T23:42:01.302601+00:00
+
+ ## Something To Do
+ - [https://somethingto.do](https://somethingto.do)
+ - date_published: 2024-07-14T08:49:29.341081+00:00
+
+ ## Free AI Song Generator ｜ Song.do
+ - [https://song.do](https://song.do)
+ - date_published: 2024-09-14T08:12:43.941336+00:00
+
+ ## Terra.do: Climate Education, Green Skills, and Climate Careers
+ - [https://www.terra.do](https://www.terra.do)
+ - date_published: 2024-07-03T00:21:32+00:00
+
+ ## Wordo Dictionary
+ - [https://wor.do](https://wor.do)
+ - date_published: 2024-08-08T15:33:22.523784+00:00
+
+ ## Buty i odzież online na Zalando. Moda damska, męska i dziecięca
+ - [https://zln.do](https://zln.do)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Revistas  Académicas del  INTEC
+ - [https://revistas.intec.edu.do](https://revistas.intec.edu.do)
+ - date_published: 2024-10-30T20:33:46.121826+00:00
+
+ ## UNAPEC, Universidad APEC
+ - [https://unapec.edu.do](https://unapec.edu.do)
+ - date_published: 2024-09-12T12:43:14.315156+00:00
+
+ ## ProUsuario - Oficina de Servicios y Protección al Usuario de la Superintendencia de Bancos
+ - [https://prousuario.gob.do](https://prousuario.gob.do)
+ - date_published: 2024-09-28T21:40:49.403544+00:00
+
+ ## Inicio
+ - [https://www.tesoreria.gob.do](https://www.tesoreria.gob.do)
+ - date_published: 2024-09-11T17:23:48+00:00
+
+ ## Barcamp Santiago 2014, República Dominicana
+ - [http://2014.barcamp.org.do](http://2014.barcamp.org.do)
+ - date_published: 2024-08-19T16:55:53.290511+00:00
+
+ ## Inicio - CANCHAMRD
+ - [https://ccdc.org.do](https://ccdc.org.do)
+ - date_published: 2024-06-12T12:03:37.884458+00:00
+
+ ## The Alvaro Dominguez Foundation
+ - [https://alvarodominguez.doctor](https://alvarodominguez.doctor)
+ - date_published: 2024-08-19T21:05:10.382108+00:00
+
  ## HOME | LIS.DOCTOR
  - [https://lis.doctor](https://lis.doctor)
  - date_published: 2024-01-19T01:54:20.473301+00:00
@@ -3782,228 +4007,4 @@
  ## Civil Rights
  - [https://civilrights.web.baylor.edu](https://civilrights.web.baylor.edu)
  - date_published: 2023-05-08T14:49:00+00:00
-
- ## Department of Classics
- - [https://classics.artsandsciences.baylor.edu](https://classics.artsandsciences.baylor.edu)
- - date_published: 2023-05-18T11:06:00+00:00
-
- ## Campus Living and Learning Home
- - [https://cll.web.baylor.edu](https://cll.web.baylor.edu)
- - date_published: 2023-08-03T11:41:00+00:00
-
- ## Drupal Content Management System
- - [https://cms.web.baylor.edu](https://cms.web.baylor.edu)
- - date_published: 2021-04-14T14:31:00+00:00
-
- ## COACHE Survey
- - [https://coache.web.baylor.edu](https://coache.web.baylor.edu)
- - date_published: 2022-10-15T08:36:00+00:00
-
- ## Commencement
- - [https://commencement.web.baylor.edu](https://commencement.web.baylor.edu)
- - date_published: 2022-09-27T14:06:00+00:00
-
- ## Department of Communication
- - [https://communication.artsandsciences.baylor.edu](https://communication.artsandsciences.baylor.edu)
- - date_published: 2023-02-14T09:58:00+00:00
-
- ## Community Connection
- - [https://communityconnection.web.baylor.edu](https://communityconnection.web.baylor.edu)
- - date_published: 2023-01-03T11:19:00+00:00
-
- ## Baylor Connections
- - [https://connections.web.baylor.edu](https://connections.web.baylor.edu)
- - date_published: 2024-01-08T16:38:00+00:00
-
- ## Copyright
- - [https://copyright.web.baylor.edu](https://copyright.web.baylor.edu)
- - date_published: 2022-12-12T15:38:00+00:00
-
- ## The Cord 2023-24
- - [https://cord.truettseminary.baylor.edu](https://cord.truettseminary.baylor.edu)
- - date_published: 2024-01-30T14:35:00+00:00
-
- ## Arts & Sciences Core Curriculum
- - [https://corecurriculum.artsandsciences.baylor.edu](https://corecurriculum.artsandsciences.baylor.edu)
- - date_published: 2023-01-13T14:02:00+00:00
-
- ## Core Virtues
- - [https://corevirtues.artsandsciences.baylor.edu](https://corevirtues.artsandsciences.baylor.edu)
- - date_published: 2022-12-16T16:13:00+00:00
-
- ## Coronavirus (COVID-19) Information
- - [https://coronavirus.web.baylor.edu](https://coronavirus.web.baylor.edu)
- - date_published: 2023-01-05T10:24:00+00:00
-
- ## Counseling Center
- - [https://counselingcenter.web.baylor.edu](https://counselingcenter.web.baylor.edu)
- - date_published: 2023-04-24T11:42:00+00:00
-
- ## CRASR
- - [https://crasr.artsandsciences.baylor.edu](https://crasr.artsandsciences.baylor.edu)
- - date_published: 2023-02-13T15:06:00+00:00
-
- ## Communication Sciences and Disorders
- - [https://csd.robbins.baylor.edu](https://csd.robbins.baylor.edu)
- - date_published: 2023-03-09T13:48:00+00:00
-
- ## Cybersecurity Research and Education Initiative
- - [https://cybersecurity.research.baylor.edu](https://cybersecurity.research.baylor.edu)
- - date_published: 2022-12-05T17:00:00+00:00
-
- ## Defense Research
- - [https://defense.research.baylor.edu](https://defense.research.baylor.edu)
- - date_published: 2022-04-11T09:26:00+00:00
-
- ## Diadeloso
- - [https://diadeloso.web.baylor.edu](https://diadeloso.web.baylor.edu)
- - date_published: 2022-02-23T14:32:00+00:00
-
- ## Digital Humanities
- - [https://digitalhumanities.web.baylor.edu](https://digitalhumanities.web.baylor.edu)
- - date_published: 2022-02-21T15:28:00+00:00
-
- ## Legal Disclosures
- - [https://disclosures.web.baylor.edu](https://disclosures.web.baylor.edu)
- - date_published: 2022-02-21T16:50:00+00:00
-
- ## Summer of Discovery
- - [https://discovery.web.baylor.edu](https://discovery.web.baylor.edu)
- - date_published: 2022-10-18T15:53:00+00:00
-
- ## Diversity & Inclusion
- - [https://diversity.web.baylor.edu](https://diversity.web.baylor.edu)
- - date_published: 2023-01-31T14:43:00+00:00
-
- ## Department of Public Safety
- - [https://dps.web.baylor.edu](https://dps.web.baylor.edu)
- - date_published: 2023-09-18T11:16:00+00:00
-
- ## 2024 Total Solar Eclipse
- - [https://eclipse.web.baylor.edu](https://eclipse.web.baylor.edu)
- - date_published: 2022-02-17T14:42:00+00:00
-
- ## Educational Leadership
- - [https://edl.soe.baylor.edu](https://edl.soe.baylor.edu)
- - date_published: 2023-08-11T15:20:00+00:00
-
- ## Educational Psychology
- - [https://edp.soe.baylor.edu](https://edp.soe.baylor.edu)
- - date_published: 2023-07-13T11:19:00+00:00
-
- ## Environmental Humanities
- - [https://eh.artsandsciences.baylor.edu](https://eh.artsandsciences.baylor.edu)
- - date_published: 2024-02-22T14:51:00+00:00
-
- ## Environmental Health & Safety
- - [https://ehs.web.baylor.edu](https://ehs.web.baylor.edu)
- - date_published: 2023-04-06T14:10:00+00:00
-
- ## Office of Engaged Learning
- - [https://engagedlearning.web.baylor.edu](https://engagedlearning.web.baylor.edu)
- - date_published: 2022-06-21T13:12:00+00:00
-
- ## English Department
- - [https://english.artsandsciences.baylor.edu](https://english.artsandsciences.baylor.edu)
- - date_published: 2022-12-16T15:52:00+00:00
-
- ## Environmental Science
- - [https://environmentalscience.artsandsciences.baylor.edu](https://environmentalscience.artsandsciences.baylor.edu)
- - date_published: 2023-02-16T13:40:00+00:00
-
- ## Equity, Civil Rights, and Title IX Office
- - [https://equity.web.baylor.edu](https://equity.web.baylor.edu)
- - date_published: 2023-05-08T13:41:00+00:00
-
- ## Institutional Events
- - [https://events.web.baylor.edu](https://events.web.baylor.edu)
- - date_published: 2023-01-24T14:11:00+00:00
-
- ## Export Compliance
- - [https://export.web.baylor.edu](https://export.web.baylor.edu)
- - date_published: 2023-02-01T13:33:00+00:00
-
- ## External Affairs
- - [https://externalaffairs.web.baylor.edu](https://externalaffairs.web.baylor.edu)
- - date_published: 2022-09-29T15:14:00+00:00
-
- ## Facilities Management
- - [https://facilitiesmanagement.web.baylor.edu](https://facilitiesmanagement.web.baylor.edu)
- - date_published: 2023-08-22T11:52:00+00:00
-
- ## Faculty Ombuds | Baylor University
- - [https://facultyombud.web.baylor.edu](https://facultyombud.web.baylor.edu)
- - date_published: 2022-10-15T07:11:00+00:00
-
- ## Faculty Senate
- - [https://facultysenate.web.baylor.edu](https://facultysenate.web.baylor.edu)
- - date_published: 2023-05-04T11:29:00+00:00
-
- ## Faculty and Staff
- - [https://facultystaff.web.baylor.edu](https://facultystaff.web.baylor.edu)
- - date_published: 2023-01-05T13:26:00+00:00
-
- ## Family Weekend
- - [https://familyweekend.web.baylor.edu](https://familyweekend.web.baylor.edu)
- - date_published: 2022-03-28T13:50:00+00:00
-
- ## Faculty Diversity and Belonging
- - [https://fdb.web.baylor.edu](https://fdb.web.baylor.edu)
- - date_published: 2022-12-14T13:25:00+00:00
-
- ## Film & Digital Media
- - [https://fdm.artsandsciences.baylor.edu](https://fdm.artsandsciences.baylor.edu)
- - date_published: 2021-12-14T10:49:00+00:00
-
- ## Financial Services
- - [https://financialservices.web.baylor.edu](https://financialservices.web.baylor.edu)
- - date_published: 2022-10-16T21:36:00+00:00
-
- ## Fine Arts Living-Learning Community
- - [https://fineartsllc.web.baylor.edu](https://fineartsllc.web.baylor.edu)
- - date_published: 2023-03-02T15:18:00+00:00
-
- ## First In Line
- - [https://firstinline.web.baylor.edu](https://firstinline.web.baylor.edu)
- - date_published: 2022-11-14T13:20:00+00:00
-
- ## Fraternity & Sorority Life
- - [https://fsl.web.baylor.edu](https://fsl.web.baylor.edu)
- - date_published: 2023-02-08T13:59:00+00:00
-
- ## Fulbright
- - [https://fulbright.web.baylor.edu](https://fulbright.web.baylor.edu)
- - date_published: 2023-10-16T15:48:00+00:00
-
- ## Women's and Gender Studies
- - [https://genderstudies.artsandsciences.baylor.edu](https://genderstudies.artsandsciences.baylor.edu)
- - date_published: 2021-12-14T16:31:00+00:00
-
- ## Department of Geosciences
- - [https://geosciences.artsandsciences.baylor.edu](https://geosciences.artsandsciences.baylor.edu)
- - date_published: 2023-06-16T15:24:00+00:00
-
- ## Center for Gifted Education and Talent Development
- - [https://gifted.soe.baylor.edu](https://gifted.soe.baylor.edu)
- - date_published: 2024-06-24T15:39:00+00:00
-
- ## Give Light
- - [https://givelight.web.baylor.edu](https://givelight.web.baylor.edu)
- - date_published: 2023-07-10T13:27:00+00:00
-
- ## Giving to Baylor
- - [https://giving.web.baylor.edu](https://giving.web.baylor.edu)
- - date_published: 2023-11-02T09:43:00+00:00
-
- ## Center for Global Engagement
- - [https://globalengagement.web.baylor.edu](https://globalengagement.web.baylor.edu)
- - date_published: 2022-06-02T17:08:00+00:00
-
- ## Go
- - [https://go.web.baylor.edu](https://go.web.baylor.edu)
- - date_published: 2022-05-19T09:43:00+00:00
-
- ## Graduate School
- - [https://grad.baylor.edu](https://grad.baylor.edu)
- - date_published: 2023-05-16T15:56:00+00:00
 

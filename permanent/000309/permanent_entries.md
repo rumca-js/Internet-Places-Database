@@ -1,3 +1,235 @@
+ ## Stack Undertow
+ - [http://vcavallo.github.io](http://vcavallo.github.io)
+ - date_published: 2020-07-30T17:54:23+00:00
+
+ ## VCFtools
+ - [https://vcftools.github.io](https://vcftools.github.io)
+ - date_published: 2018-09-02T19:56:46+00:00
+
+ ## Victoria Dean
+ - [https://vdean.github.io](https://vdean.github.io)
+ - date_published: 2024-03-20T14:34:16+00:00
+
+ ## Tech Blog
+ - [https://veekaybee.github.io](https://veekaybee.github.io)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Vega: A Visualization Grammar
+ - [https://vega.github.io](https://vega.github.io)
+ - date_published: 2024-04-15T17:55:11+00:00
+
+ ## Home - Veraball
+ - [https://veraball.github.io](https://veraball.github.io)
+ - date_published: 2015-11-29T18:12:36+00:00
+
+ ## Optimize for happiness
+ - [https://verityj.github.io](https://verityj.github.io)
+ - date_published: 2023-07-26T20:19:07+00:00
+
+ ## Veronica Qing Lyu 吕晴
+ - [https://veronica320.github.io](https://veronica320.github.io)
+ - date_published: 2024-06-04T03:31:53+00:00
+
+ ## Vertette's Blog
+ - [https://vertette.github.io](https://vertette.github.io)
+ - date_published: 2023-10-28T07:51:18.208706+00:00
+
+ ## Lukas Wirth
+ - [https://veykril.github.io](https://veykril.github.io)
+ - date_published: 2022-06-19T00:00:00+00:00
+
+ ## Procedural Volumetric Fire
+ - [https://vezwork.github.io](https://vezwork.github.io)
+ - date_published: 2018-12-17T05:27:30+00:00
+
+ ## VGBench
+ - [https://vgbench.github.io](https://vgbench.github.io)
+ - date_published: 2024-07-16T01:52:16+00:00
+
+ ## VGGSfM: Visual Geometry Grounded Deep Structure From Motion.
+ - [https://vggsfm.github.io](https://vggsfm.github.io)
+ - date_published: 2024-06-27T00:20:11+00:00
+
+ ## V’s homepage
+ - [https://v-glb.github.io](https://v-glb.github.io)
+ - date_published: 2023-07-15T17:07:53+00:00
+
+ ## Vivek Gupta
+ - [https://vgupta123.github.io](https://vgupta123.github.io)
+ - date_published: 2024-07-10T17:03:18+00:00
+
+ ## Vincent Perricone - vhp
+ - [https://vhp.github.io](https://vhp.github.io)
+ - date_published: 2019-04-27T01:35:22+00:00
+
+ ## Vhyrro's Digital Garden
+ - [https://vhyrro.github.io](https://vhyrro.github.io)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Vibhav Vineet
+ - [https://vibhav-vineet.github.io](https://vibhav-vineet.github.io)
+ - date_published: 2023-12-11T18:28:14+00:00
+
+ ## vichargrave.github.io
+ - [https://vichargrave.github.io](https://vichargrave.github.io)
+ - date_published: 2024-05-05T16:01:35+00:00
+
+ ## Victor Fernandes Portfolio
+ - [https://victorfern91.github.io](https://victorfern91.github.io)
+ - date_published: 2017-04-06T08:58:22+00:00
+ - tags: ['personal']
+
+ ## Victor Kolev | Home
+ - [https://victorkolev.github.io](https://victorkolev.github.io)
+ - date_published: 2021-11-24T01:37:21+00:00
+
+ ## Victor Bastos - Home
+ - [http://victorwpbastos.github.io](http://victorwpbastos.github.io)
+ - date_published: 2022-01-05T21:43:52+00:00
+
+ ## Video2Game
+ - [https://video2game.github.io](https://video2game.github.io)
+ - date_published: 2024-04-17T03:58:48+00:00
+
+ ## Temporally Consistent Semantic Video Editing
+ - [https://video-edit-gan.github.io](https://video-edit-gan.github.io)
+ - date_published: 2022-09-25T21:27:02+00:00
+
+ ## VideoGigaGAN: Towards Detail-Rich Video Super-Resolution
+ - [https://videogigagan.github.io](https://videogigagan.github.io)
+ - date_published: 2024-04-19T03:54:57+00:00
+
+ ## Video Language Planning
+ - [https://video-language-planning.github.io](https://video-language-planning.github.io)
+ - date_published: 2023-12-21T03:23:26+00:00
+
+ ## Space-time Neural Irradiance Fields for Free-Viewpoint Video
+ - [https://video-nerf.github.io](https://video-nerf.github.io)
+ - date_published: 2021-06-23T17:21:00+00:00
+
+ ## Video-P2P: Video Editing with Cross-attention Control
+ - [https://video-p2p.github.io](https://video-p2p.github.io)
+ - date_published: 2023-04-24T02:04:27+00:00
+
+ ## VideoPipe Challenge @ ICPR2022
+ - [https://videopipe.github.io](https://videopipe.github.io)
+ - date_published: 2022-05-19T02:35:47+00:00
+
+ ## Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion
+ - [https://videoshop-editing.github.io](https://videoshop-editing.github.io)
+ - date_published: 2024-04-13T00:53:42+00:00
+
+ ## Vidhi Jain
+ - [https://vidhijain.github.io](https://vidhijain.github.io)
+ - date_published: 2024-05-15T00:29:34+00:00
+
+ ## Video Interpolation With Diffusion Models
+ - [https://vidim-interpolation.github.io](https://vidim-interpolation.github.io)
+ - date_published: 2024-04-03T04:31:10+00:00
+
+ ## Visually Grounded Interaction and Language (ViGIL)
+ - [https://vigilworkshop.github.io](https://vigilworkshop.github.io)
+ - date_published: 2021-09-11T20:31:53+00:00
+
+ ## Vikash Kumar: Senior Research Scientist in Robotics and Embodied AI
+ - [https://vikashplus.github.io](https://vikashplus.github.io)
+ - date_published: 2024-05-04T15:29:52.299364+00:00
+
+ ## Vikas Thamizharasan
+ - [https://vikastmz.github.io](https://vikastmz.github.io)
+ - date_published: 2024-06-15T21:08:15+00:00
+
+ ## VIMA | General Robot Manipulation with Multimodal Prompts
+ - [https://vimalabs.github.io](https://vimalabs.github.io)
+ - date_published: 2023-06-17T04:42:10+00:00
+
+ ## Vimium - the hacker's browser
+ - [https://vimium.github.io](https://vimium.github.io)
+ - date_published: 2023-10-25T19:55:08.196629+00:00
+
+ ## Vimwiki by vimwiki
+ - [https://vimwiki.github.io](https://vimwiki.github.io)
+ - date_published: 2019-04-30T10:31:40+00:00
+
+ ## Blog 1
+ - [https://vincenttam.github.io](https://vincenttam.github.io)
+ - date_published: 2017-01-28T15:50:56+00:00
+
+ ## Vincent Hwang
+ - [https://vincentvbh.github.io](https://vincentvbh.github.io)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Vineeth TR | UI Developer | Front End Developer
+ - [https://vineethtrv.github.io](https://vineethtrv.github.io)
+ - date_published: 2023-02-25T17:29:22+00:00
+
+ - [https://vinmannie.github.io](https://vinmannie.github.io)
+ - date_published: 2024-07-10T15:27:46+00:00
+
+ ## @vinorodrigues
+ - [https://vinorodrigues.github.io](https://vinorodrigues.github.io)
+ - date_published: 2024-05-12T16:11:34+00:00
+
+ ## index
+ - [https://vinthony.github.io](https://vinthony.github.io)
+ - date_published: 2023-04-30T03:15:00+00:00
+
+ ## Violentmonkey
+ - [https://violentmonkey.github.io](https://violentmonkey.github.io)
+ - date_published: 2024-05-12T05:17:41.296415+00:00
+
+ ## Violetland
+ - [https://violetland.github.io](https://violetland.github.io)
+ - date_published: 2017-05-30T05:42:30+00:00
+
+ ## 田捷博客
+ - [https://violettianjie.github.io](https://violettianjie.github.io)
+ - date_published: 2024-05-12T05:24:48.081062+00:00
+
+ ## 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop
+ - [https://vipriors.github.io](https://vipriors.github.io)
+ - date_published: 2023-09-28T13:39:46+00:00
+
+ ## Page moved!
+ - [https://virgil3d.github.io](https://virgil3d.github.io)
+ - date_published: 2022-02-28T20:19:22+00:00
+
+ ## Virtual Correspondence: Humans as a Cue for Extreme-View Geometry
+ - [https://virtual-correspondence.github.io](https://virtual-correspondence.github.io)
+ - date_published: 2022-06-26T17:03:55+00:00
+
+ ## VirtualFilmStudio
+ - [https://virtualfilmstudio.github.io](https://virtualfilmstudio.github.io)
+ - date_published: 2024-03-06T21:59:28+00:00
+
+ ## Datasets for Visualization Construction
+ - [https://visdatasets.github.io](https://visdatasets.github.io)
+ - date_published: 2018-08-15T04:31:36+00:00
+
+ ## ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction
+ - [https://viser-shape.github.io](https://viser-shape.github.io)
+ - date_published: 2023-08-13T04:56:19+00:00
+
+ ## Vision iOS
+ - [https://vision-ios.github.io](https://vision-ios.github.io)
+ - date_published: 2022-11-19T09:50:14+00:00
+
+ ## Legged Locomotion in Challenging Terrain using Egocentric Vision
+ - [https://vision-locomotion.github.io](https://vision-locomotion.github.io)
+ - date_published: 2023-11-16T18:45:01+00:00
+
+ ## Vision-Robotics Bridge
+ - [https://vision-robotics-bridge.github.io](https://vision-robotics-bridge.github.io)
+ - date_published: 2023-04-10T08:26:43+00:00
+
+ ## VisIT-Bench
+ - [https://visit-bench.github.io](https://visit-bench.github.io)
+ - date_published: 2024-03-18T17:37:03+00:00
+
+ ## Critical Reflections on Visualization Authoring Systems
+ - [https://vis-tools-reflections.github.io](https://vis-tools-reflections.github.io)
+ - date_published: 2019-07-23T22:29:41+00:00
+
  ## Visualize It | Home Page
  - [https://visualize-it.github.io](https://visualize-it.github.io)
  - date_published: 2024-04-30T07:35:05.950868+00:00
@@ -776,6 +1008,10 @@
  ## About me
  - [https://yangbaoquan.github.io](https://yangbaoquan.github.io)
  - date_published: 2021-06-15T06:14:51+00:00
+
+ ## Cheng-Yen (Chris) Yang
+ - [https://yangchris11.github.io](https://yangchris11.github.io)
+ - date_published: 2024-11-23T10:36:08+00:00
 
  ## Di Yang
  - [https://yangdi666.github.io](https://yangdi666.github.io)
@@ -3794,241 +4030,4 @@
  ## Buy IoT SIM Cards — Hologram
  - [https://store.hologram.io](https://store.hologram.io)
  - date_published: 2024-05-12T04:28:41.643798+00:00
-
- ## Hologram
- - [https://support.hologram.io](https://support.hologram.io)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Holopin | Blog
- - [https://blog.holopin.io](https://blog.holopin.io)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Introduction – Nextra
- - [https://docs.holopin.io](https://docs.holopin.io)
- - date_published: 2024-06-20T15:49:31.246533+00:00
-
- ## Awesome Digital Badges for Skills and Achievements | Works on GitHub, GitLab, and integrates with Your Website and Social Media
- - [https://holopin.io](https://holopin.io)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## HoloPlay
- - [https://app.holoplay.io](https://app.holoplay.io)
- - date_published: 2024-06-19T22:23:50.748035+00:00
-
- ## Alerts | Home Assistant Alerts
- - [https://alerts.home-assistant.io](https://alerts.home-assistant.io)
- - date_published: 2024-05-04T15:55:56.626600+00:00
-
- ## GitHub - home-assistant/brands: 🎨 Brands for Home Assistant
- - [https://brands.home-assistant.io](https://brands.home-assistant.io)
- - date_published: 2024-06-22T12:54:35.244617+00:00
-
- ## Home Assistant Community
- - [https://community.home-assistant.io](https://community.home-assistant.io)
- - date_published: 2023-11-01T13:42:47.519479+00:00
-
- ## Home Assistant Companion Docs | Home Assistant Companion Docs
- - [https://companion.home-assistant.io](https://companion.home-assistant.io)
- - date_published: 2024-05-01T02:45:23.337308+00:00
-
- ## Home Assistant Data Science | Home Assistant Data Science Portal
- - [https://data.home-assistant.io](https://data.home-assistant.io)
- - date_published: 2024-05-04T15:55:38.267963+00:00
-
- ## Home Assistant Demo
- - [https://demo.home-assistant.io](https://demo.home-assistant.io)
- - date_published: 2024-05-04T15:55:53.005695+00:00
-
- ## Home Assistant Design
- - [https://design.home-assistant.io](https://design.home-assistant.io)
- - date_published: 2024-05-04T15:55:48.864030+00:00
-
- ## Home Assistant Developer Docs | Home Assistant Developer Docs
- - [https://developers.home-assistant.io](https://developers.home-assistant.io)
- - date_published: 2024-04-04T01:24:21.966979+00:00
-
- ## Home Assistant
- - [https://home-assistant.io](https://home-assistant.io)
- - date_published: 2024-04-04T12:51:37+00:00
- - tags: ['smart home', 'open source']
-
- ## My Home Assistant
- - [https://my.home-assistant.io](https://my.home-assistant.io)
- - date_published: 2024-05-08T02:29:21.642482+00:00
-
- ## Home Assistant Status
- - [https://status.home-assistant.io](https://status.home-assistant.io)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Home Automation Guy
- - [https://www.homeautomationguy.io](https://www.homeautomationguy.io)
- - date_published: 2023-12-19T18:23:38.618245+00:00
-
- ## Homebridge
- - [https://homebridge.io](https://homebridge.io)
- - date_published: 2024-06-23T06:02:23.664932+00:00
-
- ## HomeScope | Website
- - [https://homescope.io](https://homescope.io)
- - date_published: 2024-05-04T15:56:05.008752+00:00
-
- ## Honeybadger
- - [https://app.honeybadger.io](https://app.honeybadger.io)
- - date_published: 2024-06-17T13:21:41.359231+00:00
-
- ## Honeybadger Documentation
- - [https://docs.honeybadger.io](https://docs.honeybadger.io)
- - date_published: 2024-05-02T10:11:32.934538+00:00
-
- ## Error Tracking &amp; Application Monitoring for Developers
- - [https://honeybadger.io](https://honeybadger.io)
- - date_published: 2024-04-28T05:57:00.305440+00:00
-
- ## Honeybadger.io Status
- - [https://status.honeybadger.io](https://status.honeybadger.io)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Honeycomb changelog
- - [https://changelog.honeycomb.io](https://changelog.honeycomb.io)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Honeycomb.io Documentation | Honeycomb
- - [https://docs.honeycomb.io](https://docs.honeycomb.io)
- - date_published: 2024-05-04T15:56:09.375209+00:00
-
- ## Observability that helps solve problems you couldn't before
- - [https://honeycomb.io](https://honeycomb.io)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Sandbox
- - [https://play.honeycomb.io](https://play.honeycomb.io)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Honeycomb Status
- - [https://status.honeycomb.io](https://status.honeycomb.io)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Support
- - [https://support.honeycomb.io](https://support.honeycomb.io)
- - date_published: 2024-06-22T12:54:49.868271+00:00
-
- ## Log In | Honeycomb.io
- - [https://ui.eu1.honeycomb.io](https://ui.eu1.honeycomb.io)
- - date_published: 2024-06-22T12:55:14.283251+00:00
-
- ## Log In | Honeycomb.io
- - [https://ui.honeycomb.io](https://ui.honeycomb.io)
- - date_published: 2024-05-04T15:56:14.036608+00:00
-
- ## Honeypot Blog | Tech Recruiting Tips, Insights & Inspiration
- - [http://blog.honeypot.io](http://blog.honeypot.io)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## https://cult.honeypot.io
- - [https://cult.honeypot.io](https://cult.honeypot.io)
- - date_published: 2023-10-25T19:56:47.304525+00:00
-
- ## Honeypot | Europe's Developer-Focused Job Platform
- - [http://honeypot.io](http://honeypot.io)
- - date_published: 2024-06-29T03:32:16.652714+00:00
-
- ## Shen's Essays (Philosophy & Computer Science)
- - [https://shen.hong.io](https://shen.hong.io)
- - date_published: 2024-11-20T05:19:24.638835+00:00
-
- ## Alexandre Defossez AI homepage
- - [https://ai.honu.io](https://ai.honu.io)
- - date_published: 2023-10-25T19:56:49.150077+00:00
-
- ## Voyageur I
- - [https://music.honu.io](https://music.honu.io)
- - date_published: 2022-12-20T16:50:40+00:00
-
- ## Hooked Protocol
- - [https://hooked.io](https://hooked.io)
- - date_published: 2024-04-11T09:07:45+00:00
-
- ## Hoppscotch - Hoppscotch Documentation
- - [https://docs.hoppscotch.io](https://docs.hoppscotch.io)
- - date_published: 2024-07-08T22:17:40.782763+00:00
-
- ## Hoppscotch • Open source API development ecosystem
- - [https://hoppscotch.io](https://hoppscotch.io)
- - date_published: 2024-05-09T05:54:50.458584+00:00
-
- ## Hoppscotch status
- - [https://status.hoppscotch.io](https://status.hoppscotch.io)
- - date_published: 2024-08-18T14:03:15.700505+00:00
-
- ## Horizen Testnet ZEN Faucet
- - [https://faucet.horizen.io](https://faucet.horizen.io)
- - date_published: 2024-09-24T00:55:16.837138+00:00
-
- ## Horizen - The Next-gen EVM Optimized for ZK Apps
- - [https://horizen.io](https://horizen.io)
- - date_published: 2024-09-24T10:52:49.669981+00:00
-
- ## Low Cost, High Performance S3 Compatible Object Storage
- - [https://downloads.horizenlabs.io](https://downloads.horizenlabs.io)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## EON Mainnet Block Explorer | Horizen EON
- - [https://eon-explorer.horizenlabs.io](https://eon-explorer.horizenlabs.io)
- - date_published: 2024-07-23T22:28:59.740709+00:00
-
- ## Introduction | Horizen Documentation
- - [https://eon-rpc.horizenlabs.io](https://eon-rpc.horizenlabs.io)
- - date_published: 2024-09-24T02:48:17.082564+00:00
-
- ## Introduction | Horizen Documentation
- - [https://gobi-rpc.horizenlabs.io](https://gobi-rpc.horizenlabs.io)
- - date_published: 2024-09-24T06:54:36.507331+00:00
-
- ## Horizen Labs - The leading expert in building in Web3
- - [https://horizenlabs.io](https://horizenlabs.io)
- - date_published: 2024-06-16T04:29:57.503260+00:00
-
- ## Horizon Blockchain Games
- - [https://horizon.io](https://horizon.io)
- - date_published: 2024-07-13T23:37:48.603465+00:00
-
- ## Horizons
- - [https://www.horizonslaw.io](https://www.horizonslaw.io)
- - date_published: 2024-07-10T01:54:14.515830+00:00
-
- ## Horta - The easiest way to send job alerts to talent
- - [http://horta.io](http://horta.io)
- - date_published: 2024-10-19T03:08:57.398114+00:00
-
- ## Dadumaster - Situs Togel Online dan Slot Game Terpercaya Anti Rungkad
- - [https://hotfile.io](https://hotfile.io)
- - date_published: 2024-09-15T10:47:23+00:00
-
- ## Housemates API Reference
- - [https://docs.housemates.io](https://docs.housemates.io)
- - date_published: 2024-07-12T22:27:40.655805+00:00
-
- ## Book secure and verified student accommodation & housing | Housemates
- - [https://housemates.io](https://housemates.io)
- - date_published: 2024-05-10T06:31:26.251409+00:00
-
- ## Housemates
- - [https://occupy.housemates.io](https://occupy.housemates.io)
- - date_published: 2024-07-12T22:27:41.632618+00:00
-
- ## How to Code
- - [https://howtocode.io](https://howtocode.io)
- - date_published: 2024-06-22T22:21:00.088573+00:00
-
- ## Hyperblox - The worlds fastest L1 EVM Blockchain
- - [https://hpb.io](https://hpb.io)
- - date_published: 2024-09-24T08:26:33.166335+00:00
-
- ## StringPiggy
- - [https://stringpiggy.hpd.io](https://stringpiggy.hpd.io)
- - date_published: 2024-07-09T08:07:44.998256+00:00
-
- ## Herald • Stay on top of your notifications
- - [https://hrld.io](https://hrld.io)
- - date_published: 2024-11-08T15:38:14.557079+00:00
 

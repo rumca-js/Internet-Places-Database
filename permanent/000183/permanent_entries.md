@@ -1,3 +1,153 @@
+ ## Security Magazine | The business magazine for security executives
+ - [https://securitymagazine.com](https://securitymagazine.com)
+ - date_published: 2023-10-25T17:01:25.815257+00:00
+
+ ## PCI | HIPAA | Credit Card Compliance | SecurityMetrics
+ - [https://www.securitymetrics.com](https://www.securitymetrics.com)
+ - date_published: 2024-06-20T22:32:30+00:00
+
+ ## Home - Security Middle East Magazine
+ - [https://www.securitymiddleeastmag.com](https://www.securitymiddleeastmag.com)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## The Mouse Trap
+ - [http://blog.securitymouse.com](http://blog.securitymouse.com)
+ - date_published: 2024-05-12T11:04:00+00:00
+
+ ## Information Security Newspaper | Hacking News
+ - [http://www.securitynewspaper.com](http://www.securitynewspaper.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Dark Reading | Security | Protect The Business
+ - [https://www.securitynow.com](https://www.securitynow.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## The Security of Things Forum – Exploring Cyber Security for the Internet of Things
+ - [https://securityofthings.com](https://securityofthings.com)
+ - date_published: 2024-04-29T03:00:53.746436+00:00
+
+ ## Security Onion Solutions
+ - [https://securityonionsolutions.com](https://securityonionsolutions.com)
+ - date_published: 2024-07-08T15:07:15+00:00
+
+ ## Retention Assurance Profile
+ - [https://retention.securitypal.com](https://retention.securitypal.com)
+ - date_published: 2024-09-14T22:26:37.233176+00:00
+
+ ## Security Review Magazine - We bring you the latest from the IT and physical security industry in the Middle East and Africa region.
+ - [https://securityreviewmag.com](https://securityreviewmag.com)
+ - date_published: 2024-09-25T10:15:16.271734+00:00
+
+ ## Security Sales & Integration
+ - [https://www.securitysales.com](https://www.securitysales.com)
+ - date_published: 2024-09-02T11:49:12.083377+00:00
+
+ ## Secure your supply chain | SecurityScorecard Academy
+ - [https://academy2.securityscorecard.com](https://academy2.securityscorecard.com)
+ - date_published: 2021-07-20T00:00:00+00:00
+
+ ## Insure cyber risk
+ - [https://insurance.securityscorecard.com](https://insurance.securityscorecard.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## SecurityScorecard Partner Portal | Home
+ - [https://partners.securityscorecard.com](https://partners.securityscorecard.com)
+ - date_published: 2024-08-11T04:51:16.184915+00:00
+
+ ## Ensure Public Trust Through Security
+ - [https://publicsector.securityscorecard.com](https://publicsector.securityscorecard.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Security Ratings, Third-Party Cyber Risk Management, & Threat Intelligence
+ - [https://securityscorecard.com](https://securityscorecard.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## SecurityScorecard External Status
+ - [https://status.securityscorecard.com](https://status.securityscorecard.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Help Center
+ - [https://support.securityscorecard.com](https://support.securityscorecard.com)
+ - date_published: 2024-07-08T21:17:25.805761+00:00
+
+ ## Security Sift
+ - [http://www.securitysift.com](http://www.securitysift.com)
+ - date_published: 2024-07-14T15:02:40.310214+00:00
+
+ ## Virtual Cybersecurity Events 2024: Security Summit online conferences
+ - [https://www.securitysummits.com](https://www.securitysummits.com)
+ - date_published: 2024-09-04T06:39:58.647184+00:00
+
+ ## Your industry Jobs - Security Products
+ - [http://careers.security-today.com](http://careers.security-today.com)
+ - date_published: 2024-07-01T05:26:39.954987+00:00
+
+ ## Security Today
+ - [https://securitytoday.com](https://securitytoday.com)
+ - date_published: 2024-05-07T10:29:36.161041+00:00
+ - tags: ['security', 'tech news']
+
+ ## Overview
+ - [https://docs.securitytrails.com](https://docs.securitytrails.com)
+ - date_published: 2024-11-19T14:31:31.380003+00:00
+
+ ## Open main menu
+ - [https://advertise.securityweek.com](https://advertise.securityweek.com)
+ - date_published: 2024-09-04T06:40:11.597503+00:00
+
+ ## SecurityWeek Podcast
+ - [https://podcast.securityweek.com](https://podcast.securityweek.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Cybersecurity News, Insights and Analysis | SecurityWeek
+ - [https://securityweek.com](https://securityweek.com)
+ - date_published: 2023-10-25T09:35:37.584443+00:00
+ - tags: ['cybersecurity news']
+
+ ## The Cybersecurity Podcast Network - Security Weekly | SC Media
+ - [https://securityweekly.com](https://securityweekly.com)
+ - date_published: 2024-07-18T04:40:15.869506+00:00
+
+ ## Blog
+ - [https://blog.securly.com](https://blog.securly.com)
+ - date_published: 2024-07-18T12:12:51+00:00
+
+ ## Securly for Parents
+ - [https://homesupport.securly.com](https://homesupport.securly.com)
+ - date_published: 2018-01-23T00:00:00+00:00
+
+ ## User Login
+ - [https://idp.securly.com](https://idp.securly.com)
+ - date_published: 2024-07-18T12:44:03.634302+00:00
+
+ ## The Lounge
+ - [https://lounge.securly.com](https://lounge.securly.com)
+ - date_published: 2024-07-18T12:44:00.328212+00:00
+
+ ## Securly Observe
+ - [https://observe.securly.com](https://observe.securly.com)
+ - date_published: 2024-06-04T07:16:04+00:00
+
+ ## Securly - The Student Safety Company
+ - [https://securly.com](https://securly.com)
+ - date_published: 2024-05-14T03:52:07.257819+00:00
+
+ ## Support
+ - [https://support.securly.com](https://support.securly.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Visitor Management System
+ - [https://vms.securly.com](https://vms.securly.com)
+ - date_published: 2024-05-22T09:59:42+00:00
+
+ ## DTCC Digital Assets
+ - [https://securrency.com](https://securrency.com)
+ - date_published: 2024-09-25T12:21:17.916231+00:00
+
+ ## Welcome to Service Electric Cablevision
+ - [http://www.secv.com](http://www.secv.com)
+ - date_published: 2024-06-29T15:49:06.013669+00:00
+
  ## Security Wale | Aditya Patel | Substack
  - [https://secwale.com](https://secwale.com)
  - date_published: 2023-10-25T17:01:27.543178+00:00
@@ -3886,152 +4036,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## LIVE YOUR BEST LIFE OR DO YOUR BEST WORK? YES.
  - [https://careers.servicenow.com](https://careers.servicenow.com)
  - date_published: 2024-05-22T00:00:00+00:00
-
- ## ServiceNow Developers
- - [https://developer.servicenow.com](https://developer.servicenow.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Product Documentation | ServiceNow
- - [https://docs.servicenow.com](https://docs.servicenow.com)
- - date_published: 2024-06-23T09:13:10.017701+00:00
-
- ## ServiceNow Knowledge 2024 - Watch Online and On-Demand
- - [https://knowledge.servicenow.com](https://knowledge.servicenow.com)
- - date_published: 2024-06-23T09:13:14.432796+00:00
-
- ## ServiceNow
- - [https://nowlearning.servicenow.com](https://nowlearning.servicenow.com)
- - date_published: 2024-10-12T22:41:19.571147+00:00
-
- ## ServiceNow - Put AI to Work
- - [http://servicenow.com](http://servicenow.com)
- - date_published: 2024-06-20T11:45:38.551232+00:00
-
- ## ServiceNow (External) - Signing in...
- - [https://ssosignon.servicenow.com](https://ssosignon.servicenow.com)
- - date_published: 2024-06-23T09:13:07.576906+00:00
-
- ## ServiceNow Store
- - [https://store.servicenow.com](https://store.servicenow.com)
- - date_published: 2024-06-23T09:13:16.861683+00:00
-
- ## ServiceNow - Now Support
- - [https://support.servicenow.com](https://support.servicenow.com)
- - date_published: 2022-03-14T00:00:00+00:00
-
- ## AlaskaNow
- - [https://alaskanow.servicenowservices.com](https://alaskanow.servicenowservices.com)
- - date_published: 2024-07-03T12:52:12.426622+00:00
-
- ## ServiceNow
- - [https://fccprod.servicenowservices.com](https://fccprod.servicenowservices.com)
- - date_published: 2024-05-08T02:46:54.064907+00:00
-
- ## ServiceNow  Service Management
- - [https://fermi.servicenowservices.com](https://fermi.servicenowservices.com)
- - date_published: 2024-07-03T15:06:00.396591+00:00
-
- ## askUS Service Desk  Unified Services @ Berkeley Lab
- - [https://lbl.servicenowservices.com](https://lbl.servicenowservices.com)
- - date_published: 2024-05-12T04:46:40.188762+00:00
-
- ## CAMP
- - [https://occcamp.servicenowservices.com](https://occcamp.servicenowservices.com)
- - date_published: 2024-07-15T09:58:08.571054+00:00
-
- ## Universal Proposal System
- - [https://ups.servicenowservices.com](https://ups.servicenowservices.com)
- - date_published: 2024-07-03T13:05:28.082531+00:00
-
- ## ServiceOne: Heating, Cooling, Plumbing and Appliance Repair
- - [https://www.serviceone.com](https://www.serviceone.com)
- - date_published: 2024-06-30T10:47:55+00:00
-
- ## Service Restoration Pros
- - [http://www.servicerestorationpros.com](http://www.servicerestorationpros.com)
- - date_published: 2024-06-29T23:14:23.099885+00:00
-
- ## ServiceTitan - Home and Commercial Software for the Trades
- - [https://www.servicetitan.com](https://www.servicetitan.com)
- - date_published: 2024-06-23T07:14:24.147608+00:00
-
- ## Service Uptime - Free Website Monitoring Service
- - [https://www.serviceuptime.com](https://www.serviceuptime.com)
- - date_published: 2024-06-20T05:34:14.202124+00:00
-
- ## Servier - Laboratoire pharmaceutique international indépendant
- - [https://servier.com](https://servier.com)
- - date_published: 2022-07-06T15:42:31+00:00
-
- ## SMART - Servier Medical ART
- - [https://smart.servier.com](https://smart.servier.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Servimg.com - Free image hosting service
- - [https://i90.servimg.com](https://i90.servimg.com)
- - date_published: 2024-05-30T06:12:12.909280+00:00
-
- ## Servimg.com - Free image hosting service
- - [https://i.servimg.com](https://i.servimg.com)
- - date_published: 2024-06-17T08:51:23+00:00
-
- ## Servimg.com - Free image hosting service
- - [https://servimg.com](https://servimg.com)
- - date_published: 2024-09-03T23:26:42+00:00
-
- ## Home
- - [https://servingcareers.com](https://servingcareers.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## ServInt - Leaseweb
- - [http://www.servint.com](http://www.servint.com)
- - date_published: 2023-02-22T20:43:55+00:00
-
- ## ServisBOT | Customer Service AI, Messaging & Automation | Transform CSX
- - [https://messenger.servisbot.com](https://messenger.servisbot.com)
- - date_published: 2024-04-03T09:41:38+00:00
-
- ## ServisHero - Hire The Best Home Service Professionals
- - [https://servishero.com](https://servishero.com)
- - date_published: 2024-07-08T18:21:41.868270+00:00
-
- ## Servo Magazine - Covering the world of personal robotics
- - [http://www.servomagazine.com](http://www.servomagazine.com)
- - date_published: 2024-07-09T09:06:35+00:00
-
- ## Panama City, FL Water, Fire & Mold Damage Cleanup and Restoration
- - [http://www.servprobaycounty.com](http://www.servprobaycounty.com)
- - date_published: 2024-06-29T23:09:25+00:00
-
- ## Home
- - [https://www.servsafe.com](https://www.servsafe.com)
- - date_published: 2024-06-20T13:02:28.179256+00:00
-
- ## SES | Take your story anywhere
- - [http://www.ses.com](http://www.ses.com)
- - date_published: 2024-08-09T13:08:52+00:00
-
- ## Homepage
- - [https://sesamers.com](https://sesamers.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Sesame Software | Enterprise Data Management
- - [https://sesamesoftware.com](https://sesamesoftware.com)
- - date_published: 2024-06-16T20:34:49+00:00
-
- ## sescoops.com
- - [https://sescoops.com](https://sescoops.com)
- - date_published: 2024-02-26T19:30:37.241394+00:00
-
- ## Sesia Valley
- - [http://sesiavalley.com](http://sesiavalley.com)
- - date_published: 2024-11-15T23:22:04.456858+00:00
-
- ## Seso, Inc.
- - [https://www.sesolabor.com](https://www.sesolabor.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Sesotec - Physical contamination detection & sorting systems
- - [https://www.sesotec.com](https://www.sesotec.com)
- - date_published: 2024-07-12T17:21:52.767993+00:00
 

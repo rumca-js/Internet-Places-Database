@@ -1,3 +1,7 @@
+ ## Stéphane's Blog
+ - [https://wirtel.be](https://wirtel.be)
+ - date_published: 2024-06-28T20:05:28.263074+00:00
+
  ## The world beyond Linux
  - [https://worldbeyondlinux.be](https://worldbeyondlinux.be)
  - date_published: 2023-06-03T00:00:00+00:00
@@ -4052,9 +4056,4 @@
  ## Life is an Experiment and I’m not in the Control Group
  - [https://alligator.micro.blog](https://alligator.micro.blog)
  - date_published: 2024-06-08T13:02:23+00:00
-
- ## Lou Plummer's Obsidian Posts
-		- Lou Plummer's Obsidian Posts
- - [https://amerpie2.micro.blog](https://amerpie2.micro.blog)
- - date_published: 2024-07-03T23:53:38+00:00
 

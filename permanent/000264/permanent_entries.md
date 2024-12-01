@@ -1,3 +1,227 @@
+ ## ACES Dean Home
+ - [https://aces-dean.nmsu.edu](https://aces-dean.nmsu.edu)
+ - date_published: 2024-07-01T16:11:28.037635+00:00
+
+ ## For Employees Home
+ - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
+ - date_published: 2024-05-07T19:47:28.006281+00:00
+
+ ## Alumni and Giving Home
+ - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
+ - date_published: 2024-05-07T19:47:00.744286+00:00
+
+ ## ACES Heroes | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://aces-heroes.nmsu.edu](https://aces-heroes.nmsu.edu)
+ - date_published: 2024-07-01T16:11:21.145737+00:00
+
+ ## History Portal Home
+ - [https://aces-history.nmsu.edu](https://aces-history.nmsu.edu)
+ - date_published: 2024-07-01T16:11:42.262005+00:00
+
+ ## 2022 News
+ - [https://aces-news.nmsu.edu](https://aces-news.nmsu.edu)
+ - date_published: 2024-05-07T19:47:38.778687+00:00
+
+ ## NMAL Home
+ - [http://aces-nmal.nmsu.edu](http://aces-nmal.nmsu.edu)
+ - date_published: 2024-07-01T16:15:53.521124+00:00
+
+ ## NMEAFCS Home
+ - [https://aces-nmeafcs.nmsu.edu](https://aces-nmeafcs.nmsu.edu)
+ - date_published: 2024-07-01T16:16:00.813728+00:00
+
+ ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
+ - [https://aces.nmsu.edu](https://aces.nmsu.edu)
+ - date_published: 2018-08-24T00:00:00+00:00
+
+ ## ACES P & T Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [http://aces-promotiontenure.nmsu.edu](http://aces-promotiontenure.nmsu.edu)
+ - date_published: 2024-07-01T16:16:04.457037+00:00
+
+ ## ACES Quick Links Home
+ - [https://aces-quicklinks.nmsu.edu](https://aces-quicklinks.nmsu.edu)
+ - date_published: 2024-05-07T19:47:26.404283+00:00
+
+ ## Social Media Campaigns | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://aces-socialmediacampaigns.nmsu.edu](https://aces-socialmediacampaigns.nmsu.edu)
+ - date_published: 2024-07-01T16:11:32.713133+00:00
+
+ ## ACES Social Media Home
+ - [https://aces-socialmedia.nmsu.edu](https://aces-socialmedia.nmsu.edu)
+ - date_published: 2024-05-07T19:47:33.906326+00:00
+
+ ## Student Leadership Home
+ - [https://aces-studentleadership.nmsu.edu](https://aces-studentleadership.nmsu.edu)
+ - date_published: 2024-07-01T16:18:15.015461+00:00
+
+ ## Web Support Home
+ - [https://aces-websupport.nmsu.edu](https://aces-websupport.nmsu.edu)
+ - date_published: 2024-07-01T16:15:34.033415+00:00
+
+ ## Center for Academic Advising and Student Support
+ - [https://advising.nmsu.edu](https://advising.nmsu.edu)
+ - date_published: 2024-07-01T16:13:12.434651+00:00
+
+ ## AEAB Home
+ - [https://aeab.nmsu.edu](https://aeab.nmsu.edu)
+ - date_published: 2024-07-01T16:12:27.272587+00:00
+
+ ## AES Main Home
+ - [https://aes.nmsu.edu](https://aes.nmsu.edu)
+ - date_published: 2024-05-07T19:47:40.903224+00:00
+
+ ## ACES Information Technology  | New Mexico State University | BE BOLD. Shape the Future.
+ - [http://agit.nmsu.edu](http://agit.nmsu.edu)
+ - date_published: 2024-07-01T16:15:32.291918+00:00
+
+ ## NMSU ALAMOGORDO  | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://alamogordo.nmsu.edu](https://alamogordo.nmsu.edu)
+ - date_published: 2024-07-01T16:12:02.379512+00:00
+
+ ## Apps Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://apps.nmsu.edu](https://apps.nmsu.edu)
+ - date_published: 2024-07-01T16:12:50.137243+00:00
+
+ ## Administrative Rules and Procedures | NMSU | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://arp.nmsu.edu](https://arp.nmsu.edu)
+ - date_published: 2024-07-01T16:13:53.577482+00:00
+
+ ## Arrowhead Center
+ - [https://arrowheadcenter.nmsu.edu](https://arrowheadcenter.nmsu.edu)
+ - date_published: 2024-07-01T16:12:03.874221+00:00
+
+ ## BQA Home
+ - [https://bqa.nmsu.edu](https://bqa.nmsu.edu)
+ - date_published: 2024-07-01T16:25:13.237171+00:00
+
+ ## NMSU Brand - BE BOLD. Shape the Future.®
+ - [http://brand.nmsu.edu](http://brand.nmsu.edu)
+ - date_published: 2024-07-01T16:15:57.101085+00:00
+
+ ## Search Page
+ - [https://careers.nmsu.edu](https://careers.nmsu.edu)
+ - date_published: 2024-07-01T16:13:24.960906+00:00
+
+ ## New Mexico State University | New Mexico State University Academic Catalog
+ - [https://catalogs.nmsu.edu](https://catalogs.nmsu.edu)
+ - date_published: 2024-06-26T18:19:32+00:00
+
+ ## Catron County Extension Office Home
+ - [https://catronextension.nmsu.edu](https://catronextension.nmsu.edu)
+ - date_published: 2024-02-08T17:58:40.694600+00:00
+
+ ## Home
+ - [http://commencement.nmsu.edu](http://commencement.nmsu.edu)
+ - date_published: 2024-07-01T16:16:22.071128+00:00
+
+ ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
+ - [http://contacts.aces.nmsu.edu](http://contacts.aces.nmsu.edu)
+ - date_published: 2024-07-01T16:16:10.385806+00:00
+
+ ## Select a Term
+ - [https://courselookup.nmsu.edu](https://courselookup.nmsu.edu)
+ - date_published: 2024-07-01T16:14:49.595326+00:00
+
+ ## - Crimson Connection
+ - [https://crimsonconnection.nmsu.edu](https://crimsonconnection.nmsu.edu)
+ - date_published: 2024-07-01T16:11:08.728858+00:00
+
+ ## Doña Ana Community College
+ - [https://dacc.nmsu.edu](https://dacc.nmsu.edu)
+ - date_published: 2024-07-01T16:12:12.160036+00:00
+
+ ## Desert Blooms Home
+ - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
+ - date_published: 2024-05-07T19:47:25.100209+00:00
+
+ ## #discoverNMSUextension Home
+ - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
+ - date_published: 2024-05-07T19:47:12.933939+00:00
+
+ ## Extension Association of New Mexico Home
+ - [http://eanm.nmsu.edu](http://eanm.nmsu.edu)
+ - date_published: 2024-07-01T16:16:02.729541+00:00
+
+ ## EASNR Home
+ - [https://easnr.nmsu.edu](https://easnr.nmsu.edu)
+ - date_published: 2024-07-01T16:12:20.002186+00:00
+
+ ## EFCS Home
+ - [https://efcs.nmsu.edu](https://efcs.nmsu.edu)
+ - date_published: 2024-07-01T16:11:31.166426+00:00
+
+ ## Impact and Engagement - BE BOLD. Shape the Future.
+ - [https://engagement.nmsu.edu](https://engagement.nmsu.edu)
+ - date_published: 2024-07-01T16:14:56.426930+00:00
+
+ ## EPS Home
+ - [https://eps.nmsu.edu](https://eps.nmsu.edu)
+ - date_published: 2024-07-01T16:12:30.611315+00:00
+
+ ## Office of Institutional Equity | New Mexico State University
+ - [https://equity.nmsu.edu](https://equity.nmsu.edu)
+ - date_published: 2024-07-01T16:14:31.551987+00:00
+
+ ## NMSU Emergency Notification Information
+ - [https://etm.nmsu.edu](https://etm.nmsu.edu)
+ - date_published: 2024-07-01T16:16:33.172012+00:00
+
+ ## CES Home
+ - [https://extension.nmsu.edu](https://extension.nmsu.edu)
+ - date_published: 2024-05-07T19:47:08.939342+00:00
+
+ ## Home
+ - [https://facultysenate.nmsu.edu](https://facultysenate.nmsu.edu)
+ - date_published: 2024-07-01T16:13:56.840395+00:00
+
+ ## Welcome
+ - [https://families.nmsu.edu](https://families.nmsu.edu)
+ - date_published: 2024-07-01T16:11:29.699981+00:00
+
+ ## Family Life Home
+ - [https://family.nmsu.edu](https://family.nmsu.edu)
+ - date_published: 2024-05-07T19:46:58.605702+00:00
+
+ ## FA Home
+ - [https://fa.nmsu.edu](https://fa.nmsu.edu)
+ - date_published: 2024-07-01T16:14:52.785837+00:00
+
+ ## NMSU Global Campus | Explore New Mexico State Online Degrees
+ - [https://global.nmsu.edu](https://global.nmsu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 2022 GO Bond 3 - BE BOLD. Shape the Future.
+ - [https://gobond.nmsu.edu](https://gobond.nmsu.edu)
+ - date_published: 2024-07-01T16:12:37.331756+00:00
+
+ ## New Mexico State University | Graduate School
+ - [https://gradschool.nmsu.edu](https://gradschool.nmsu.edu)
+ - date_published: 2024-07-01T16:14:28.550555+00:00
+
+ ## NMSU Grants  | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://grants.nmsu.edu](https://grants.nmsu.edu)
+ - date_published: 2024-07-01T16:12:05.850886+00:00
+
+ ## Guadalupe County Extension Office Home
+ - [https://guadalupeextension.nmsu.edu](https://guadalupeextension.nmsu.edu)
+ - date_published: 2024-07-01T16:25:54.262483+00:00
+
+ ## Home
+ - [https://help.nmsu.edu](https://help.nmsu.edu)
+ - date_published: 2024-07-01T16:13:46.065851+00:00
+
+ ## Welcome to Hobbes
+ - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
+ - date_published: 2024-01-09T21:08:23.894605+00:00
+
+ ## Honors College | NMSU
+ - [https://honors.nmsu.edu](https://honors.nmsu.edu)
+ - date_published: 2024-07-01T16:14:44.452877+00:00
+
+ ## Home
+ - [https://housing.nmsu.edu](https://housing.nmsu.edu)
+ - date_published: 2024-07-01T16:14:45.856746+00:00
+
  ## Human Resource Services | New Mexico State University | BE BOLD. Shape the Future.
  - [https://hr.nmsu.edu](https://hr.nmsu.edu)
  - date_published: 2024-07-01T16:13:20.254040+00:00
@@ -3776,229 +4000,4 @@
  ## OU Human Resources
  - [http://hr.ou.edu](http://hr.ou.edu)
  - date_published: 2024-07-15T03:18:57.088630+00:00
-
- ## NCORE > Home
- - [http://ncore.ou.edu](http://ncore.ou.edu)
- - date_published: 2024-07-15T03:18:37.221113+00:00
-
- ## The University of Oklahoma Joins The SEC July 1 2024
- - [https://ou.edu](https://ou.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## OU Outreach > Home
- - [https://outreach.ou.edu](https://outreach.ou.edu)
- - date_published: 2024-05-12T04:56:37.458514+00:00
-
- ## University of Oklahoma School of Meteorology
- - [http://weather.ou.edu](http://weather.ou.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Page Redirection
- - [http://www.cs.ou.edu](http://www.cs.ou.edu)
- - date_published: 2023-02-02T03:38:37+00:00
-
- ## NRCYS :: Home
- - [https://www.nrcys.ou.edu](https://www.nrcys.ou.edu)
- - date_published: 2024-07-15T03:18:47.766048+00:00
-
- ## University of Oklahoma Health Sciences Center
- - [http://ouhsc.edu](http://ouhsc.edu)
- - date_published: 2024-07-15T03:18:54.445029+00:00
-
- ## Ohio Wesleyan University
- - [http://www.owu.edu](http://www.owu.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Occidental College | The Liberal Arts College in Los Angeles
- - [http://oxy.edu](http://oxy.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Admission and Aid
- - [https://admission.pace.edu](https://admission.pace.edu)
- - date_published: 2024-07-01T16:56:41+00:00
-
- ## Pace University Blogs
- - [https://blogs.pace.edu](https://blogs.pace.edu)
- - date_published: 2024-05-07T19:52:53.234624+00:00
-
- ## Seidenberg School of CSIS Homepage
- - [http://csis.pace.edu](http://csis.pace.edu)
- - date_published: 2024-06-15T18:11:28+00:00
-
- ## Pace University, Graduate School CustomViewbook
- - [https://customviewbook.grad.pace.edu](https://customviewbook.grad.pace.edu)
- - date_published: 2024-07-01T16:56:45.467258+00:00
-
- ## Pace University CustomViewbook
- - [https://customviewbook.pace.edu](https://customviewbook.pace.edu)
- - date_published: 2024-07-01T16:56:21.528787+00:00
-
- ## Pace University - Directory
- - [https://directory.pace.edu](https://directory.pace.edu)
- - date_published: 2024-07-01T16:56:39.860586+00:00
-
- ## Admission and Aid | Graduate Admission
- - [https://grad.pace.edu](https://grad.pace.edu)
- - date_published: 2024-07-01T16:53:34+00:00
-
- ## Home
- - [http://help.pace.edu](http://help.pace.edu)
- - date_published: 2024-07-01T16:55:59.324273+00:00
-
- ## Homepage | Pace Law School
- - [https://law.pace.edu](https://law.pace.edu)
- - date_published: 2024-07-01T10:55:40+00:00
-
- ## Library
- - [https://libguides.pace.edu](https://libguides.pace.edu)
- - date_published: 2024-07-01T16:56:22.927890+00:00
-
- ## Online Graduate, Undergraduate & Certificate Programs | Pace
- - [https://online.pace.edu](https://online.pace.edu)
- - date_published: 2024-07-01T16:56:32.033565+00:00
-
- ## Pace University
- - [https://pace.edu](https://pace.edu)
- - date_published: 2024-05-07T19:52:59.111381+00:00
-
- ## Social Psychology Perspectives – Applying social psychology to the world around us
- - [https://socialpsych.blogs.pace.edu](https://socialpsych.blogs.pace.edu)
- - date_published: 2023-10-25T18:56:44.098429+00:00
-
- ## Home Page
- - [https://www.alumni.pace.edu](https://www.alumni.pace.edu)
- - date_published: 2024-07-01T16:56:26.011421+00:00
-
- ## Library Log in
- - [http://0-www.rocksbackpages.com.pacificatclassic.pacific.edu](http://0-www.rocksbackpages.com.pacificatclassic.pacific.edu)
- - date_published: 2024-06-30T01:30:24.928721+00:00
-
- ## University of the Pacific - Experience-driven Education
- - [https://www.pacific.edu](https://www.pacific.edu)
- - date_published: 2024-10-18T22:25:55.027404+00:00
-
- ## Universidad de Palermo, UP | Buenos Aires, Argentina
- - [http://www.palermo.edu](http://www.palermo.edu)
- - date_published: 2024-10-30T20:14:57.981404+00:00
-
- ## Pardee RAND Graduate School
- - [https://www.pardeerand.edu](https://www.pardeerand.edu)
- - date_published: 2024-08-11T15:21:34.497123+00:00
-
- ## Attention Required! | Cloudflare
- - [http://alumni.pcom.edu](http://alumni.pcom.edu)
- - date_published: 2024-10-14T20:48:31.294373+00:00
-
- ## United & Ignited
- - [https://campaign.pcom.edu](https://campaign.pcom.edu)
- - date_published: 2024-06-16T21:56:21.771316+00:00
-
- ## DigitalCommons@PCOM, an electronic archive of scholarly and creative works of the PCOM Community
- - [https://digitalcommons.pcom.edu](https://digitalcommons.pcom.edu)
- - date_published: 2024-07-02T10:47:52.860221+00:00
-
- ## PCOM FAQs - LibAnswers
- - [https://libanswers.pcom.edu](https://libanswers.pcom.edu)
- - date_published: 2024-10-14T20:46:59.941880+00:00
-
- ## LibCal -
-        Philadelphia College of Osteopathic Medicine
- - [https://libcal.pcom.edu](https://libcal.pcom.edu)
- - date_published: 2024-10-14T20:47:02.062004+00:00
-
- ## LibGuides
- - [http://libguides.pcom.edu](http://libguides.pcom.edu)
- - date_published: 2024-10-14T20:46:45.842361+00:00
-
- ## PCOM Library
- - [https://library.pcom.edu](https://library.pcom.edu)
- - date_published: 2024-06-16T03:25:53+00:00
-
- ## Login with Ellucian Ethos Identity
- - [https://my.pcom.edu](https://my.pcom.edu)
- - date_published: 2024-06-16T21:56:12.407386+00:00
-
- ## Philadelphia College of Osteopathic Medicine | PCOM
- - [https://pcom.edu](https://pcom.edu)
- - date_published: 2024-10-14T20:46:52.623229+00:00
-
- ## REDCap
- - [https://redcap.pcom.edu](https://redcap.pcom.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Philadelphia College of Osteopathic Medicine | PCOM
- - [https://staging.pcom.edu](https://staging.pcom.edu)
- - date_published: 2024-10-14T20:48:12.542583+00:00
-
- ## Portland State University Single Sign-On
- - [https://banweb.banner.pdx.edu](https://banweb.banner.pdx.edu)
- - date_published: 2024-07-09T17:36:15.321009+00:00
-
- ## Portland State University Single Sign-On
- - [https://canvas.pdx.edu](https://canvas.pdx.edu)
- - date_published: 2024-07-09T17:35:49.801678+00:00
-
- ## Homepage | Portland State University
- - [https://drupal.web.wdt.pdx.edu](https://drupal.web.wdt.pdx.edu)
- - date_published: 2024-07-09T17:36:16+00:00
-
- ## Homepage | Portland State University
- - [https://go.pdx.edu](https://go.pdx.edu)
- - date_published: 2024-07-09T16:56:46+00:00
-
- ## INSIDE PORTLAND STATE
- - [https://insideportlandstate.pdx.edu](https://insideportlandstate.pdx.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Portland State University Library
- - [https://library.pdx.edu](https://library.pdx.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Portland State University Single Sign-On
- - [http://mail.pdx.edu](http://mail.pdx.edu)
- - date_published: 2024-07-09T17:36:34.279400+00:00
-
- ## myNextSteps at PSU
- - [https://mynextsteps.pdx.edu](https://mynextsteps.pdx.edu)
- - date_published: 2022-11-18T22:15:11+00:00
-
- ## myPSU
- - [https://my.pdx.edu](https://my.pdx.edu)
- - date_published: 2024-06-11T19:19:32+00:00
-
- ## PSU - OAM Login
- - [https://oam.pdx.edu](https://oam.pdx.edu)
- - date_published: 2024-07-09T17:36:31.454806+00:00
-
- ## Homepage | Portland State University
- - [https://pdx.edu](https://pdx.edu)
- - date_published: 2024-05-09T05:54:09.254628+00:00
-
- ## PDXScholar: The Institutional Repository of Portland State University
- - [https://pdxscholar.library.pdx.edu](https://pdxscholar.library.pdx.edu)
- - date_published: 2024-07-09T17:36:12.265532+00:00
-
- ## Creating Web Pages in your Account
- - [http://web.cecs.pdx.edu](http://web.cecs.pdx.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Peninsula College Official Blog
- - [http://blog.pencol.edu](http://blog.pencol.edu)
- - date_published: 2015-03-18T18:04:56+00:00
-
- ## Peninsula College | Peninsula College
- - [https://catalog.pencol.edu](https://catalog.pencol.edu)
- - date_published: 2024-06-24T17:30:21+00:00
-
- ## Peninsula College
- - [https://pencol.edu](https://pencol.edu)
- - date_published: 2024-05-07T19:53:06.917007+00:00
-
- ## Peninsula College presents a podcast honoring the work of the influential American poet and short story writer, Raymond Carver from the last town he called home: Port Angeles, Washington. You can listen here on our Episode page. You can also find us on Stitcher, Google Podcasts, Apple Podcasts, Spotify, and more. In each regular episode, | Raymond Carver Podcast
- - [https://raymondcarverpodcast.pencol.edu](https://raymondcarverpodcast.pencol.edu)
- - date_published: 2023-10-31T19:57:35.429326+00:00
-
- ## CAS - Central Authentication Service Login
- - [https://internalreq.pepperdine.edu](https://internalreq.pepperdine.edu)
- - date_published: 2024-07-13T19:01:05.261959+00:00
 
