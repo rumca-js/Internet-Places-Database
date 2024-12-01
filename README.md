@@ -83,6 +83,7 @@ This data were used to create the following static lists, as an example:
 - [Self-host](https://rumca-js.github.io/quickstart/public/static_lists/selfhost.html)
 - [Virtual reality](https://rumca-js.github.io/quickstart/public/static_lists/virtual_reality.html)
 - [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/amiga.html)
+- [Demoscene](https://rumca-js.github.io/quickstart/public/static_lists/demoscene.html)
 - [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/tabletop_game.html)
 
 # Files
