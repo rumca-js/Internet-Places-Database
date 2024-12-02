@@ -1,3 +1,259 @@
+ ## Scifi Art
+ - [https://retroscifiart.tumblr.com](https://retroscifiart.tumblr.com)
+ - date_published: 2024-09-18T22:13:26.516963+00:00
+
+ ## RETROSPEKT ARCHIVE
+ - [https://retrospekt-archive.tumblr.com](https://retrospekt-archive.tumblr.com)
+ - date_published: 2024-10-17T06:13:17.095752+00:00
+
+ ## leo's spooky posts!
+ - [https://revengeromance.tumblr.com](https://revengeromance.tumblr.com)
+ - date_published: 2024-06-27T03:16:07.244237+00:00
+
+ ## リベンジポルノ
+ - [http://reveporn.tumblr.com](http://reveporn.tumblr.com)
+ - date_published: 2024-06-22T05:56:33.462246+00:00
+
+ ## Reverse OCR
+ - [http://reverseocr.tumblr.com](http://reverseocr.tumblr.com)
+ - date_published: 2024-09-06T12:54:08.059974+00:00
+
+ ## revolutionary socialism in the 21st century
+ - [http://revolutionarysocialism.tumblr.com](http://revolutionarysocialism.tumblr.com)
+ - date_published: 2024-10-21T17:11:51.731874+00:00
+
+ ## Metal Gear?!
+ - [https://revolverfnibblet.tumblr.com](https://revolverfnibblet.tumblr.com)
+ - date_published: 2024-07-19T18:51:13.911870+00:00
+
+ ## It's About Time Rheall Got a Simblr
+ - [https://rheallsim.tumblr.com](https://rheallsim.tumblr.com)
+ - date_published: 2024-10-23T08:05:22.631710+00:00
+
+ ## Tumblr
+ - [https://rheumaticrhetoric.tumblr.com](https://rheumaticrhetoric.tumblr.com)
+ - date_published: 2024-06-27T02:45:45.690354+00:00
+
+ ## Rice Codes
+ - [https://ricecodes.tumblr.com](https://ricecodes.tumblr.com)
+ - date_published: 2024-06-27T05:05:42.068506+00:00
+
+ ## Richard Murray Humblr
+ - [https://richardmurrayhumblr.tumblr.com](https://richardmurrayhumblr.tumblr.com)
+ - date_published: 2024-06-27T05:06:08.078436+00:00
+
+ ## rickey tickey
+ - [https://rickeytickey.tumblr.com](https://rickeytickey.tumblr.com)
+ - date_published: 2024-07-14T13:04:40.370156+00:00
+
+ ## full on monet
+ - [https://ridgeport.tumblr.com](https://ridgeport.tumblr.com)
+ - date_published: 2024-10-23T07:32:02.569097+00:00
+
+ ## beautiful scenery
+ - [https://rie-k-photo.tumblr.com](https://rie-k-photo.tumblr.com)
+ - date_published: 2024-06-27T03:51:42.363283+00:00
+
+ ## Rights in Exile
+ - [http://rightsinexile.tumblr.com](http://rightsinexile.tumblr.com)
+ - date_published: 2024-06-17T11:10:09.604833+00:00
+
+ ## I'm incognito. Call me Fred.
+ - [http://riordanwiki.tumblr.com](http://riordanwiki.tumblr.com)
+ - date_published: 2024-10-25T20:13:59.963248+00:00
+
+ ## RIPempezardexerox
+ - [https://ripempezardexerox.tumblr.com](https://ripempezardexerox.tumblr.com)
+ - date_published: 2024-06-27T03:30:41.824040+00:00
+
+ ## Ri Science
+ - [https://ri-science.tumblr.com](https://ri-science.tumblr.com)
+ - date_published: 2024-02-26T12:41:40.542943+00:00
+
+ ## "Welcome to McScribs."
+ - [https://rlycandir.tumblr.com](https://rlycandir.tumblr.com)
+ - date_published: 2024-10-16T09:31:23.038057+00:00
+
+ ## Mistitled
+ - [http://rms2.tumblr.com](http://rms2.tumblr.com)
+ - date_published: 2024-07-10T02:52:24.461642+00:00
+
+ ## ELECTRO TECHNO LOVE DISPENSER
+ - [https://roach-works.tumblr.com](https://roach-works.tumblr.com)
+ - date_published: 2024-06-27T02:51:13.860066+00:00
+
+ ## Robbie Reads Homestuck
+ - [https://robbiereadshomestuck.tumblr.com](https://robbiereadshomestuck.tumblr.com)
+ - date_published: 2024-05-09T09:14:40.101398+00:00
+
+ ## ROB'S BLOG
+ - [http://robertbchew.tumblr.com](http://robertbchew.tumblr.com)
+ - date_published: 2024-10-27T10:42:59.795403+00:00
+
+ ## Robert Hadley
+ - [https://robert-hadley.tumblr.com](https://robert-hadley.tumblr.com)
+ - date_published: 2024-06-27T05:05:13.237362+00:00
+
+ ## robertogreco
+ - [https://robertogreco.tumblr.com](https://robertogreco.tumblr.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Robert Parker
+ - [https://robertparkermusic.tumblr.com](https://robertparkermusic.tumblr.com)
+ - date_published: 2024-05-10T04:46:43.082179+00:00
+
+ ## Seasons Changed And So Did I
+ - [https://robertplantspants.tumblr.com](https://robertplantspants.tumblr.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Randomness
+ - [https://robokitty77.tumblr.com](https://robokitty77.tumblr.com)
+ - date_published: 2024-10-16T02:02:09.898939+00:00
+
+ ## Rockasoo Art & Design
+ - [https://rockasoo.tumblr.com](https://rockasoo.tumblr.com)
+ - date_published: 2024-04-28T05:28:24.661675+00:00
+
+ ## girl in the war
+ - [https://rohirriiim.tumblr.com](https://rohirriiim.tumblr.com)
+ - date_published: 2024-10-23T07:44:52.049234+00:00
+
+ ## » Rol Hispano
+ - [http://rolhispano.tumblr.com](http://rolhispano.tumblr.com)
+ - date_published: 2024-10-25T05:08:50.412954+00:00
+
+ ## My Movie Isn't Over Yet
+ - [https://rolling-away-from-the-sunset.tumblr.com](https://rolling-away-from-the-sunset.tumblr.com)
+ - date_published: 2020-12-09T00:00:00+00:00
+
+ ## Tumblr
+ - [https://rolling-on-caffeine-and-code.tumblr.com](https://rolling-on-caffeine-and-code.tumblr.com)
+ - date_published: 2024-06-26T10:10:14.034070+00:00
+
+ ## rollingrabbit has moved slightly
+ - [http://rollingrabbit.tumblr.com](http://rollingrabbit.tumblr.com)
+ - date_published: 2024-10-26T04:43:08.659089+00:00
+
+ ## Rollo Grady
+ - [http://rollogrady.tumblr.com](http://rollogrady.tumblr.com)
+ - date_published: 2024-10-21T04:16:22.236829+00:00
+
+ ## Ron Chan
+ - [http://rondanchan.tumblr.com](http://rondanchan.tumblr.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Tumblr
+ - [https://rookiemag.tumblr.com](https://rookiemag.tumblr.com)
+ - date_published: 2024-09-09T21:40:25.734143+00:00
+
+ ## where the world ain't so unkind
+ - [https://room429.tumblr.com](https://room429.tumblr.com)
+ - date_published: 2024-06-27T03:06:02.991049+00:00
+
+ ## Tumblr
+ - [http://ropebyerinkyan.tumblr.com](http://ropebyerinkyan.tumblr.com)
+ - date_published: 2024-07-12T23:27:43.540274+00:00
+
+ ## Mihai Anca
+ - [http://ropiku.tumblr.com](http://ropiku.tumblr.com)
+ - date_published: 2024-10-20T07:37:30.497895+00:00
+
+ ## Untitled
+ - [https://rosaliebeevm-blog.tumblr.com](https://rosaliebeevm-blog.tumblr.com)
+ - date_published: 2019-01-22T00:00:00+00:00
+
+ ## Rosalie Lightning
+ - [https://rosalielightning.tumblr.com](https://rosalielightning.tumblr.com)
+ - date_published: 2024-07-17T10:54:49.744138+00:00
+
+ ## Rosa Tax Law Blog
+ - [https://rosataxcpa.tumblr.com](https://rosataxcpa.tumblr.com)
+ - date_published: 2024-09-04T04:43:40.226557+00:00
+
+ ## ✺
+ - [https://rosechata.tumblr.com](https://rosechata.tumblr.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Tumblr
+ - [https://rosecransbaldwin.tumblr.com](https://rosecransbaldwin.tumblr.com)
+ - date_published: 2024-07-04T06:07:16.255899+00:00
+
+ ## we could be rose gold
+ - [https://rosegoldtyler.tumblr.com](https://rosegoldtyler.tumblr.com)
+ - date_published: 2024-06-20T05:32:38.167004+00:00
+
+ ## someday, together
+ - [https://rosequart.tumblr.com](https://rosequart.tumblr.com)
+ - date_published: 2017-04-16T00:00:00+00:00
+
+ ## it's dark
+ - [https://rottingfacade.tumblr.com](https://rottingfacade.tumblr.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Sinew and Spite
+ - [https://rox-and-prose.tumblr.com](https://rox-and-prose.tumblr.com)
+ - date_published: 2024-06-27T03:20:22.993033+00:00
+
+ ## now at shudesigns
+ - [https://roxiestheme.tumblr.com](https://roxiestheme.tumblr.com)
+ - date_published: 2024-06-18T17:57:04.712104+00:00
+
+ ## The Royal Sketchbook
+ - [https://royalsketchbook.tumblr.com](https://royalsketchbook.tumblr.com)
+ - date_published: 2024-09-04T11:42:39.790611+00:00
+
+ ## bleepity-bleep
+ - [https://rrrick.tumblr.com](https://rrrick.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## we should kiss
+ - [https://rthwrms.tumblr.com](https://rthwrms.tumblr.com)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Tumblr
+ - [https://rudescience.tumblr.com](https://rudescience.tumblr.com)
+ - date_published: 2024-05-06T20:31:19.748048+00:00
+
+ ## Magnus Rushes In
+ - [https://ruffboijuliaburnsides.tumblr.com](https://ruffboijuliaburnsides.tumblr.com)
+ - date_published: 2024-05-06T20:32:42.721585+00:00
+
+ ## More Rufftoon
+ - [http://rufftoon.tumblr.com](http://rufftoon.tumblr.com)
+ - date_published: 2024-07-17T10:00:24.833406+00:00
+
+ ## ruhlar/e
+ - [https://ruhlare.tumblr.com](https://ruhlare.tumblr.com)
+ - date_published: 2024-06-27T02:36:46.128046+00:00
+
+ ## rest in deep silence
+ - [https://rukafais.tumblr.com](https://rukafais.tumblr.com)
+ - date_published: 2024-06-27T03:14:09.144874+00:00
+
+ ## rule of rose_decrypted
+ - [https://ruleofrosedecrypted.tumblr.com](https://ruleofrosedecrypted.tumblr.com)
+ - date_published: 2024-10-25T17:25:20.008827+00:00
+
+ ## among the moons of Saturn
+ - [https://runawaymarbles.tumblr.com](https://runawaymarbles.tumblr.com)
+ - date_published: 2024-09-04T18:32:07.038401+00:00
+
+ ## Marvel's Runaways
+ - [https://runaways.tumblr.com](https://runaways.tumblr.com)
+ - date_published: 2024-10-25T10:37:01.062781+00:00
+
+ ## Running a Startup 2
+ - [https://runningastartup2.tumblr.com](https://runningastartup2.tumblr.com)
+ - date_published: 2024-06-21T09:18:29.880883+00:00
+
+ ## Run run cycle
+ - [http://runruncycle.tumblr.com](http://runruncycle.tumblr.com)
+ - date_published: 2024-10-20T07:56:42.304906+00:00
+
+ ## Tumblr
+ - [https://runrunningrunner.tumblr.com](https://runrunningrunner.tumblr.com)
+ - date_published: 2024-05-06T20:42:40.528312+00:00
+
  ## xoxo
  - [https://runupgetdoneup.tumblr.com](https://runupgetdoneup.tumblr.com)
  - date_published: 2024-07-19T22:17:42.452368+00:00
@@ -3750,260 +4006,4 @@ Students
  ## the relentless pursuit of a better world
  - [https://winterpunk.tumblr.com](https://winterpunk.tumblr.com)
  - date_published: 2024-06-27T04:31:08.584597+00:00
-
- ## ask box: OPEN
- - [https://wip.tumblr.com](https://wip.tumblr.com)
- - date_published: 2024-06-27T05:06:04.468693+00:00
-
- ## Tumblr
- - [https://wisteriaalu.tumblr.com](https://wisteriaalu.tumblr.com)
- - date_published: 2024-06-27T04:51:00.268340+00:00
-
- ## Wists and Magic
- - [https://wistsandmagic.tumblr.com](https://wistsandmagic.tumblr.com)
- - date_published: 2024-09-16T06:43:34.273171+00:00
-
- ## 씨발...
- - [https://withcrafts.tumblr.com](https://withcrafts.tumblr.com)
- - date_published: 2024-06-27T03:34:24.717080+00:00
-
- ## Tumblr
- - [https://wizardarchetypes.tumblr.com](https://wizardarchetypes.tumblr.com)
- - date_published: 2024-09-16T06:29:09.533991+00:00
-
- ## ☽ oh my guiding moonlight, we're really in it now☽
- - [https://wizardpotions.tumblr.com](https://wizardpotions.tumblr.com)
- - date_published: 2024-06-27T04:35:02.226777+00:00
-
- ## Nope Bus To Nope Town
- - [https://wizardshark.tumblr.com](https://wizardshark.tumblr.com)
- - date_published: 2024-06-27T02:46:54.563252+00:00
-
- ## make it gayer 2023
- - [https://wlwsims.tumblr.com](https://wlwsims.tumblr.com)
- - date_published: 2024-10-23T07:56:31.442146+00:00
-
- ## 🌙 𝙼𝙾𝙾𝙽𝙲𝙰𝚃𝙲𝙷𝙴𝚁🌙
- - [https://wolfertinger666.tumblr.com](https://wolfertinger666.tumblr.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Illustrator & Visual Artist
- - [https://wolfgangleblanc.tumblr.com](https://wolfgangleblanc.tumblr.com)
- - date_published: 2024-07-10T17:10:03.795839+00:00
-
- ## girlboss faildaughter
- - [https://woman-respecter.tumblr.com](https://woman-respecter.tumblr.com)
- - date_published: 2024-06-27T04:50:21.084195+00:00
-
- ## Tumblr
- - [https://womantasting.tumblr.com](https://womantasting.tumblr.com)
- - date_published: 2024-06-27T03:06:44.335709+00:00
-
- ## Women of 1000
- - [https://women-of-1000.tumblr.com](https://women-of-1000.tumblr.com)
- - date_published: 2024-06-18T12:42:27.340099+00:00
-
- ## until the stars are all alight;
- - [https://woodlandrealm.tumblr.com](https://woodlandrealm.tumblr.com)
- - date_published: 2024-09-04T18:28:55.738510+00:00
-
- ## 106 acre dadbod milf
- - [https://woodscreature.tumblr.com](https://woodscreature.tumblr.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## A Word from Our Sponsor
- - [https://wordfromoursponsor.tumblr.com](https://wordfromoursponsor.tumblr.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Word Journal
- - [https://wordjournal.tumblr.com](https://wordjournal.tumblr.com)
- - date_published: 2024-05-07T21:52:53.765288+00:00
-
- ## Wordographic
- - [http://wordographic.tumblr.com](http://wordographic.tumblr.com)
- - date_published: 2024-06-20T05:11:23.277693+00:00
-
- ## Lexicon
- - [https://wordporn.tumblr.com](https://wordporn.tumblr.com)
- - date_published: 2024-05-07T21:54:51.622128+00:00
-
- ## slowly we unfurl
- - [https://wordsinhaled.tumblr.com](https://wordsinhaled.tumblr.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Words of Diana
- - [https://wordsofdiana.tumblr.com](https://wordsofdiana.tumblr.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## World Anvil
- - [https://worldanvil.tumblr.com](https://worldanvil.tumblr.com)
- - date_published: 2024-07-15T03:11:20.952793+00:00
-
- ## World Elephant Day
- - [http://worldelephantday.tumblr.com](http://worldelephantday.tumblr.com)
- - date_published: 2024-07-04T10:35:59.251622+00:00
-
- ## Worldly Positions
- - [https://worldlypositions.tumblr.com](https://worldlypositions.tumblr.com)
- - date_published: 2024-06-30T09:52:32.603502+00:00
-
- ## World of Brine.
- - [http://worldofbrine.tumblr.com](http://worldofbrine.tumblr.com)
- - date_published: 2024-09-17T17:43:44.063315+00:00
-
- ## Tumblr
- - [https://worldscissoringchampion.tumblr.com](https://worldscissoringchampion.tumblr.com)
- - date_published: 2024-07-08T09:30:52.293261+00:00
-
- ## Worlds of ZZT
- - [https://worldsofzzt.tumblr.com](https://worldsofzzt.tumblr.com)
- - date_published: 2024-09-03T23:28:40.415357+00:00
-
- ## WOWGREAT
- - [https://wowgreat.tumblr.com](https://wowgreat.tumblr.com)
- - date_published: 2024-10-29T11:43:24.204771+00:00
-
- ## Untitled
- - [https://wrathful-banette.tumblr.com](https://wrathful-banette.tumblr.com)
- - date_published: 2024-07-08T09:30:58.468324+00:00
-
- ## WRDSMTH
- - [https://wrdsmthinla.tumblr.com](https://wrdsmthinla.tumblr.com)
- - date_published: 2024-08-19T15:40:56.555798+00:00
-
- ## my soul is black but my life is neon
- - [https://wrennn-s4.tumblr.com](https://wrennn-s4.tumblr.com)
- - date_published: 2024-06-18T17:53:30.190168+00:00
-
- ## I punched Q in the face!
- - [https://writergeekrhw.tumblr.com](https://writergeekrhw.tumblr.com)
- - date_published: 2024-10-22T02:08:16.047490+00:00
-
- ## A Happy Little Writer
- - [https://writer-rae.tumblr.com](https://writer-rae.tumblr.com)
- - date_published: 2024-06-27T03:51:24.972254+00:00
-
- ## Writers No One Reads
- - [https://writersnoonereads.tumblr.com](https://writersnoonereads.tumblr.com)
- - date_published: 2024-10-29T19:28:38.114138+00:00
-
- ## Writing Prompts
- - [https://writing-prompt-s.tumblr.com](https://writing-prompt-s.tumblr.com)
- - date_published: 2024-06-27T02:33:51.572029+00:00
-
- ## wrixie
- - [https://wrixie.tumblr.com](https://wrixie.tumblr.com)
- - date_published: 2024-10-23T07:55:30.620334+00:00
-
- ## Blog Wspieram.to
- - [http://wspieramto.tumblr.com](http://wspieramto.tumblr.com)
- - date_published: 2024-08-06T22:44:43.916092+00:00
-
- ## One-Time Artist, Full Time Bullshit
- - [https://wuggen.tumblr.com](https://wuggen.tumblr.com)
- - date_published: 2024-06-27T03:15:48.180008+00:00
-
- ## Take me to your planet.
- - [http://www.anthagio.tumblr.com](http://www.anthagio.tumblr.com)
- - date_published: 2024-07-19T22:18:05.350994+00:00
-
- ## bebewrites
- - [http://www.bebewrites.tumblr.com](http://www.bebewrites.tumblr.com)
- - date_published: 2024-06-23T17:46:05.233953+00:00
-
- ## BREADWINNERS
- - [http://www.breadwinners.tumblr.com](http://www.breadwinners.tumblr.com)
- - date_published: 2024-06-18T23:16:12.604765+00:00
-
- ## coturno
- - [http://www.coturno.tumblr.com](http://www.coturno.tumblr.com)
- - date_published: 2024-10-25T22:21:42.846075+00:00
-
- ## Knight
- - [http://www.knighttheme.tumblr.com](http://www.knighttheme.tumblr.com)
- - date_published: 2024-07-02T06:02:23.156259+00:00
-
- ## Official Tomb Raider Blog
- - [http://www.officialtombraiderblog.tumblr.com](http://www.officialtombraiderblog.tumblr.com)
- - date_published: 2024-06-20T12:13:34.586335+00:00
-
- ## KPopp
- - [http://www.poppkell.tumblr.com](http://www.poppkell.tumblr.com)
- - date_published: 2024-10-25T10:45:06.355906+00:00
-
- ## Wyman The Walrus
- - [https://wymanthewalrus.tumblr.com](https://wymanthewalrus.tumblr.com)
- - date_published: 2024-06-27T03:29:51.647920+00:00
-
- ## ENTER THE WYRMTUNNEL
- - [https://wyrmtunnel.tumblr.com](https://wyrmtunnel.tumblr.com)
- - date_published: 2024-07-10T11:34:04.666701+00:00
-
- ## Xaunaught
- - [https://xaunaughtrambles.tumblr.com](https://xaunaughtrambles.tumblr.com)
- - date_published: 2024-07-17T09:00:26.000476+00:00
-
- ## https://www.youtube.com/watch?v=QluevHpbisI
- - [https://xbuster.tumblr.com](https://xbuster.tumblr.com)
- - date_published: 2024-10-16T01:27:26.886000+00:00
-
- ## Untitled
- - [http://x-cetra.tumblr.com](http://x-cetra.tumblr.com)
- - date_published: 2024-06-27T03:13:12.954080+00:00
-
- ## Xeans, The Soft
- - [https://xeansicemane.tumblr.com](https://xeansicemane.tumblr.com)
- - date_published: 2024-06-27T03:34:30.349850+00:00
-
- ## xeyers
- - [https://xeyers.tumblr.com](https://xeyers.tumblr.com)
- - date_published: 2024-10-22T09:25:11.211885+00:00
-
- ## Non-practicing intellectual.
- - [https://xiaq.tumblr.com](https://xiaq.tumblr.com)
- - date_published: 2024-06-27T04:30:07.705553+00:00
-
- ## Tumblr
- - [https://xinakwans.tumblr.com](https://xinakwans.tumblr.com)
- - date_published: 2024-06-27T02:45:44.163244+00:00
-
- ## x
- - [https://xjmlm.tumblr.com](https://xjmlm.tumblr.com)
- - date_published: 2024-06-27T05:15:12.501588+00:00
-
- ## Xoilac TV Official - Kênh Xôi Lạc TV chính thức
- - [https://xoilactvoffical.tumblr.com](https://xoilactvoffical.tumblr.com)
- - date_published: 2024-08-18T05:07:43.817481+00:00
-
- ## art! wow
- - [https://xordvalley.tumblr.com](https://xordvalley.tumblr.com)
- - date_published: 2024-10-22T10:07:48.210539+00:00
-
- ## you're the tang to my tong
- - [https://xoxoemynn.tumblr.com](https://xoxoemynn.tumblr.com)
- - date_published: 2024-06-27T03:21:00.060931+00:00
-
- ## x planes
- - [http://xplanes.tumblr.com](http://xplanes.tumblr.com)
- - date_published: 2014-11-05T00:00:00+00:00
-
- ## 0.8-1
- - [https://xtaleunderverse.tumblr.com](https://xtaleunderverse.tumblr.com)
- - date_published: 2024-10-27T04:25:58.449184+00:00
-
- ## Xena & SuperFriends!
- - [https://xwpfan.tumblr.com](https://xwpfan.tumblr.com)
- - date_published: 2024-06-27T03:03:23.719273+00:00
-
- ## Y2K Aesthetic Institute
- - [https://y2kaestheticinstitute.tumblr.com](https://y2kaestheticinstitute.tumblr.com)
- - date_published: 2024-09-02T17:05:44.696593+00:00
-
- ## Rioting on the Inside
- - [https://yadelah.tumblr.com](https://yadelah.tumblr.com)
- - date_published: 2024-07-20T04:04:09.560177+00:00
-
- ## Like a Shitpost Oracle
- - [https://yahenni.tumblr.com](https://yahenni.tumblr.com)
- - date_published: 2024-06-27T04:50:58.945730+00:00
 

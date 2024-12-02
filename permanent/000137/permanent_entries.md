@@ -1,3 +1,63 @@
+ ## LibreTranslate - Freie und quelloffene API für maschinelle Übersetzung
+ - [https://de.libretranslate.com](https://de.libretranslate.com)
+ - date_published: 2024-10-31T04:16:37.655233+00:00
+
+ ## LibreTranslate - Libera kaj malfermitkoda API de maŝina tradukado
+ - [https://eo.libretranslate.com](https://eo.libretranslate.com)
+ - date_published: 2024-10-31T04:16:21.043794+00:00
+
+ ## LibreTranslate - API de traducción automática gratuita y de código abierto
+ - [https://es.libretranslate.com](https://es.libretranslate.com)
+ - date_published: 2024-10-31T04:16:05.564140+00:00
+
+ ## LibreTranslate - Doako eta kode irekiko Itzulpen automatikoko APIa
+ - [https://eu.libretranslate.com](https://eu.libretranslate.com)
+ - date_published: 2024-10-31T04:16:18.193590+00:00
+
+ ## LibreTranslate - API de Traduction Automatique libre et ouverte
+ - [https://fr.libretranslate.com](https://fr.libretranslate.com)
+ - date_published: 2024-10-31T04:16:46.765152+00:00
+
+ ## LibreTranslate - Ingyenes és nyílt forráskódú gépi fordító API
+ - [https://hu.libretranslate.com](https://hu.libretranslate.com)
+ - date_published: 2024-10-31T04:16:00.446461+00:00
+
+ ## LibreTranslate - API di traduzione automatica libera e open source
+ - [https://it.libretranslate.com](https://it.libretranslate.com)
+ - date_published: 2024-10-31T04:15:56.967041+00:00
+
+ ## LibreTranslate - フリーそしてオープンソースな機械翻訳API
+ - [https://ja.libretranslate.com](https://ja.libretranslate.com)
+ - date_published: 2024-10-31T04:16:26.892393+00:00
+
+ ## LibreTranslate - 자유 오픈 소스 기계 번역 API
+ - [https://ko.libretranslate.com](https://ko.libretranslate.com)
+ - date_published: 2024-10-31T04:16:08.360678+00:00
+
+ ## LibreTranslate - Free and Open Source Machine Translation API
+ - [https://libretranslate.com](https://libretranslate.com)
+ - date_published: 2024-06-19T22:12:40.236290+00:00
+
+ ## LibreTranslate - API de tradução em máquina gratuita e de código aberto
+ - [https://pt.libretranslate.com](https://pt.libretranslate.com)
+ - date_published: 2024-10-31T04:16:30.277113+00:00
+
+ ## LibreTranslate - Бесплатный и открытый источник машинного перевода с помощью API
+ - [https://ru.libretranslate.com](https://ru.libretranslate.com)
+ - date_published: 2024-10-31T04:16:13.646636+00:00
+
+ ## Libretrend | A New Beginning
+ - [https://libretrend.com](https://libretrend.com)
+ - date_published: 2024-01-29T12:13:24+00:00
+
+ ## index - powered by h5ai v0.29.0 (https://larsjung.de/h5ai/)
+ - [http://bot.libretro.com](http://bot.libretro.com)
+ - date_published: 2024-10-21T19:08:57.920378+00:00
+
+ ## index - powered by h5ai v0.29.0 (https://larsjung.de/h5ai/)
+ - [http://buildbot.libretro.com](http://buildbot.libretro.com)
+ - date_published: 2024-10-21T19:08:49.555346+00:00
+
  ## Home - Libretro Docs
  - [https://docs.libretro.com](https://docs.libretro.com)
  - date_published: 2024-10-21T19:08:53.199529+00:00
@@ -3154,7 +3214,7 @@
  ## LinkedIn: Log In or Sign Up
  - [http://linkedin.com](http://linkedin.com)
  - date_published: 2024-11-05T00:24:10.514036+00:00
- - tags: ['social media', 'gatekeeper']
+ - tags: ['gateway', 'social media', 'gatekeeper']
 
  ## LinkedIn Sri Lanka: Log In or Sign Up
  - [https://lk.linkedin.com](https://lk.linkedin.com)
@@ -3965,68 +4025,4 @@
  ## Home - Linux JournalDigital
  - [https://linuxjournaldigital.com](https://linuxjournaldigital.com)
  - date_published: 2024-05-12T04:31:09.634525+00:00
-
- ## Linux Lads
- - [https://linuxlads.com](https://linuxlads.com)
- - date_published: 2024-05-01T05:28:42.132205+00:00
- - tags: ['linux']
-
- ## LinuxLinks
- - [https://www.linuxlinks.com](https://www.linuxlinks.com)
- - date_published: 2023-10-28T18:43:52.539254+00:00
- - tags: ['linux', 'tech news']
-
- ## Linux Lite Easy to Use Free Linux Operating System
- - [https://www.linuxliteos.com](https://www.linuxliteos.com)
- - date_published: 2023-10-25T15:47:56.807478+00:00
- - tags: ['operating system']
-
- ## LinuxLUGCast – The LUG for Everyone
- - [https://linuxlugcast.com](https://linuxlugcast.com)
- - date_published: 2024-06-15T07:21:45.121793+00:00
-
- ## Quoth the Raven, "Welcome!"
- - [http://linuxmafia.com](http://linuxmafia.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Lucky - IbetJackpot
- - [http://www.linux-mag.com](http://www.linux-mag.com)
- - date_published: 2024-06-15T18:58:16.797584+00:00
-
- ## » Linux Magazine
- - [https://www.linux-magazine.com](https://www.linux-magazine.com)
- - date_published: 2023-10-26T06:56:09.286948+00:00
-
- ## The Linux Mint Blog – News from the Mint Team
- - [https://blog.linuxmint.com](https://blog.linuxmint.com)
- - date_published: 2023-10-26T21:22:57.371481+00:00
-
- ## Cinnamon Spices
- - [https://cinnamon-spices.linuxmint.com](https://cinnamon-spices.linuxmint.com)
- - date_published: 2024-07-23T23:41:54.978182+00:00
-
- ## Linux Mint - Community
- - [https://community.linuxmint.com](https://community.linuxmint.com)
- - date_published: 2024-02-06T12:58:10+00:00
-
- ## Linux Mint Forums - Index page
- - [https://forums.linuxmint.com](https://forums.linuxmint.com)
- - date_published: 2023-11-23T20:34:30.391148+00:00
-
- ## Home - Linux Mint
- - [https://linuxmint.com](https://linuxmint.com)
- - date_published: 2023-10-25T08:31:43.953300+00:00
- - tags: ['operating system']
-
- ## Repository - Linux Mint
- - [http://packages.linuxmint.com](http://packages.linuxmint.com)
- - date_published: 2024-05-08T12:19:35.289606+00:00
-
- ## Linux Mint Projects by linuxmint
- - [https://projects.linuxmint.com](https://projects.linuxmint.com)
- - date_published: 2024-04-24T14:48:21+00:00
-
- ## LinuxMusicians - Index page
- - [https://linuxmusicians.com](https://linuxmusicians.com)
- - date_published: 2024-07-04T00:00:00+00:00
 

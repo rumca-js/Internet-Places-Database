@@ -1,3 +1,11 @@
+ ## udesk
+ - [https://1869114.s4.udesk.cn](https://1869114.s4.udesk.cn)
+ - date_published: 2024-06-29T05:33:21.989088+00:00
+
+ ## 沃丰科技-Udesk-中国人工智能与营销服务解决方案提供商
+ - [https://assets-cli.s4.udesk.cn](https://assets-cli.s4.udesk.cn)
+ - date_published: 2024-06-18T08:50:54+00:00
+
  ## Socket.IO chat
  - [https://basevistor.s5.udesk.cn](https://basevistor.s5.udesk.cn)
  - date_published: 2020-08-14T08:29:12+00:00
@@ -4000,12 +4008,4 @@ _中国网
  ## 北京理工大学教务处本科生国际交流
  - [http://abroad.bit.edu.cn](http://abroad.bit.edu.cn)
  - date_published: 2024-06-26T10:15:07+00:00
-
- ## 首页
- - [http://admission.bit.edu.cn](http://admission.bit.edu.cn)
- - date_published: 2024-08-07T13:36:40.810763+00:00
-
- ## 北京理工大学
- - [https://bit.edu.cn](https://bit.edu.cn)
- - date_published: 2024-04-28T04:00:29.393849+00:00
 

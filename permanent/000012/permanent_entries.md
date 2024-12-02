@@ -1,3 +1,7 @@
+ ## Greenpeace Australia Pacific
+ - [http://www.greenpeace.org.au](http://www.greenpeace.org.au)
+ - date_published: 2024-06-30T02:30:14.363774+00:00
+
  ## Guide Lines - For Girl Guides and Girl Guide Volunteers
  - [https://www.guidelinesforgirlguides.org.au](https://www.guidelinesforgirlguides.org.au)
  - date_published: 2024-03-01T00:00:00+00:00
@@ -4006,8 +4010,4 @@
  ## EIZO | High-end monitoren
  - [https://www.eizo.be](https://www.eizo.be)
  - date_published: 2024-07-09T07:00:12.885279+00:00
-
- ## Een gratis inleiding tot artificiële intelligentie voor niet-deskundigen
- - [https://www.elementsofai.be](https://www.elementsofai.be)
- - date_published: 2024-07-01T08:46:50.336583+00:00
 

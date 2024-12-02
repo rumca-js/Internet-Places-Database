@@ -1,3 +1,27 @@
+ ## The Coding Weasel
+ - [http://codingweasel.blogspot.com](http://codingweasel.blogspot.com)
+ - date_published: 2024-03-08T09:21:28+00:00
+
+ ## Coffee swillin' analog gamer
+ - [http://coffeeanalog.blogspot.com](http://coffeeanalog.blogspot.com)
+ - date_published: 2024-07-06T20:45:17+00:00
+
+ ## Coffee and Comics
+ - [http://coffeecomicsreading.blogspot.com](http://coffeecomicsreading.blogspot.com)
+ - date_published: 2024-09-17T09:52:23+00:00
+
+ ## Coffee on the Porch with Me
+ - [http://coffeeontheporchwithme.blogspot.com](http://coffeeontheporchwithme.blogspot.com)
+ - date_published: 2024-06-13T19:37:00+00:00
+
+ ## Games with Words
+ - [https://coglanglab.blogspot.com](https://coglanglab.blogspot.com)
+ - date_published: 2024-03-13T01:51:36+00:00
+
+ ## Cognition and Evolution
+ - [https://cognitionandevolution.blogspot.com](https://cognitionandevolution.blogspot.com)
+ - date_published: 2024-03-10T02:48:34+00:00
+
  ## CognoCentric
  - [http://cognocentric.blogspot.com](http://cognocentric.blogspot.com)
  - date_published: 2024-02-28T07:54:18+00:00
@@ -3983,28 +4007,4 @@
  ## Elfmaids & Octopi
  - [http://elfmaidsandoctopi.blogspot.com](http://elfmaidsandoctopi.blogspot.com)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## The Happy Grognard
- - [http://elfnhappiness.blogspot.com](http://elfnhappiness.blogspot.com)
- - date_published: 2024-08-31T14:20:13+00:00
-
- ## elfordminis
- - [http://elfordminis.blogspot.com](http://elfordminis.blogspot.com)
- - date_published: 2024-10-05T02:06:54+00:00
-
- ## El Freako
- - [http://elfreakofromrico.blogspot.com](http://elfreakofromrico.blogspot.com)
- - date_published: 2024-10-09T02:14:08+00:00
-
- ## El Heraldo Oscuro
- - [http://elheraldooscuro.blogspot.com](http://elheraldooscuro.blogspot.com)
- - date_published: 2024-10-09T01:38:37+00:00
-
- ## Eli Games
- - [http://eligame.blogspot.com](http://eligame.blogspot.com)
- - date_published: 2024-10-17T22:05:23.630330+00:00
-
- ## El InFranmundo
- - [http://elinfranmundo.blogspot.com](http://elinfranmundo.blogspot.com)
- - date_published: 2024-10-09T01:38:18+00:00
 

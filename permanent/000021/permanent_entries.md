@@ -1,3 +1,7 @@
+ ## La Panera
+ - [https://www.lapanera.cat](https://www.lapanera.cat)
+ - date_published: 2024-06-15T00:00:00+00:00
+
  ## Lapsus
  - [https://www.lapsus.cat](https://www.lapsus.cat)
  - date_published: 2024-09-06T21:46:54.599403+00:00
@@ -4032,8 +4036,4 @@
  ## Home | BFSUG – Beratung für Schwerhörige und Gehörlose
  - [https://www.bfsug.ch](https://www.bfsug.ch)
  - date_published: 2024-10-29T11:16:03.115264+00:00
-
- ## Brain & Heart Communication - Social Media Agentur
- - [https://2024.b-h.ch](https://2024.b-h.ch)
- - date_published: 2024-07-17T00:00:00+00:00
 

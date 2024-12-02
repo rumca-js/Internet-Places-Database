@@ -1,3 +1,27 @@
+ ## The Happy Grognard
+ - [http://elfnhappiness.blogspot.com](http://elfnhappiness.blogspot.com)
+ - date_published: 2024-08-31T14:20:13+00:00
+
+ ## elfordminis
+ - [http://elfordminis.blogspot.com](http://elfordminis.blogspot.com)
+ - date_published: 2024-10-05T02:06:54+00:00
+
+ ## El Freako
+ - [http://elfreakofromrico.blogspot.com](http://elfreakofromrico.blogspot.com)
+ - date_published: 2024-10-09T02:14:08+00:00
+
+ ## El Heraldo Oscuro
+ - [http://elheraldooscuro.blogspot.com](http://elheraldooscuro.blogspot.com)
+ - date_published: 2024-10-09T01:38:37+00:00
+
+ ## Eli Games
+ - [http://eligame.blogspot.com](http://eligame.blogspot.com)
+ - date_published: 2024-10-17T22:05:23.630330+00:00
+
+ ## El InFranmundo
+ - [http://elinfranmundo.blogspot.com](http://elinfranmundo.blogspot.com)
+ - date_published: 2024-10-09T01:38:18+00:00
+
  ## Eli's Coffer
  - [http://eliscoffer.blogspot.com](http://eliscoffer.blogspot.com)
  - date_published: 2024-02-22T07:07:10+00:00
@@ -3989,28 +4013,4 @@
  - [https://harryhowells.blogspot.com](https://harryhowells.blogspot.com)
  - date_published: 2024-05-17T03:19:00+00:00
  - tags: ['warhammer', 'miniatures']
-
- ## Vojín Harry Lamin
- - [http://harry-lamin.blogspot.com](http://harry-lamin.blogspot.com)
- - date_published: 2024-03-06T02:38:27+00:00
-
- ## Bits and Pieces
- - [https://harry-lewis.blogspot.com](https://harry-lewis.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Hashimoto Laboratory's Blog
- - [http://hashimotolaboratory.blogspot.com](http://hashimotolaboratory.blogspot.com)
- - date_published: 2024-02-19T02:44:50+00:00
-
- ## Haskell for Maths
- - [http://haskellformaths.blogspot.com](http://haskellformaths.blogspot.com)
- - date_published: 2024-03-19T10:15:25+00:00
-
- ## Hauptwerk
- - [http://hauptwerk.blogspot.com](http://hauptwerk.blogspot.com)
- - date_published: 2024-03-21T06:02:40+00:00
-
- ## Have dice, will travel...
- - [http://havedicewilltravel.blogspot.com](http://havedicewilltravel.blogspot.com)
- - date_published: 2024-10-23T21:46:04+00:00
 

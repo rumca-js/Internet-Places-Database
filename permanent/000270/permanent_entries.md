@@ -1,3 +1,271 @@
+ ## Greenhouse | University of Illinois Chicago
+ - [https://greenhouse.bios.uic.edu](https://greenhouse.bios.uic.edu)
+ - date_published: 2024-07-02T02:47:04.466768+00:00
+
+ ## UIC Heritage Garden
+ - [https://heritagegarden.uic.edu](https://heritagegarden.uic.edu)
+ - date_published: 2024-07-02T02:46:45.597281+00:00
+
+ ## homepages.math.uic.edu
+ - [http://homepages.math.uic.edu](http://homepages.math.uic.edu)
+ - date_published: 2018-02-15T19:03:35+00:00
+
+ ## Honors College | University of Illinois Chicago
+ - [http://honors.uic.edu](http://honors.uic.edu)
+ - date_published: 2024-07-02T02:48:34.440506+00:00
+
+ ## Campus Housing | University of Illinois Chicago
+ - [https://housing.uic.edu](https://housing.uic.edu)
+ - date_published: 2024-07-02T02:46:38.354182+00:00
+
+ ## ID Center | University of Illinois Chicago
+ - [https://idcenter.uic.edu](https://idcenter.uic.edu)
+ - date_published: 2024-07-02T02:48:17.210068+00:00
+
+ ## IDHD | University of Illinois Chicago
+ - [https://idhd.ahs.uic.edu](https://idhd.ahs.uic.edu)
+ - date_published: 2024-07-02T02:40:31.017606+00:00
+
+ ## Center for Student Involvement | University of Illinois Chicago
+ - [https://involvement.uic.edu](https://involvement.uic.edu)
+ - date_published: 2024-07-02T02:48:47.511550+00:00
+
+ ## Information Technology | University of Illinois Chicago
+ - [https://it.uic.edu](https://it.uic.edu)
+ - date_published: 2024-07-02T02:40:47.348561+00:00
+
+ ## Journals@UIC
+ - [http://journals.uic.edu](http://journals.uic.edu)
+ - date_published: 2024-07-09T10:09:03.534307+00:00
+
+ ## Latin American and Latino Studies | University of Illinois Chicago
+ - [https://lals.uic.edu](https://lals.uic.edu)
+ - date_published: 2024-07-02T02:47:22.100878+00:00
+
+ ## Latin American Recruitment and Educational Services (LARES) Splash Page | University of Illinois Chicago
+ - [https://lares.uic.edu](https://lares.uic.edu)
+ - date_published: 2024-07-02T02:48:52.634603+00:00
+
+ ## College of Liberal Arts and Sciences | University of Illinois Chicago
+ - [https://las.uic.edu](https://las.uic.edu)
+ - date_published: 2024-07-15T11:30:09.940280+00:00
+
+ ## Rafael Cintrón Ortiz Latino Cultural Center | University of Illinois Chicago
+ - [https://latinocultural.uic.edu](https://latinocultural.uic.edu)
+ - date_published: 2024-07-02T02:48:58.684775+00:00
+
+ ## UIC Law | University of Illinois Chicago
+ - [https://law.uic.edu](https://law.uic.edu)
+ - date_published: 2024-07-02T02:48:07.482384+00:00
+
+ ## Language and Culture Learning Center | University of Illinois Chicago
+ - [https://lclc.uic.edu](https://lclc.uic.edu)
+ - date_published: 2024-07-02T02:48:46.310707+00:00
+
+ ## School of Literatures, Cultural Studies and Linguistics | University of Illinois Chicago
+ - [https://lcsl.uic.edu](https://lcsl.uic.edu)
+ - date_published: 2024-07-02T02:49:01.886995+00:00
+
+ ## University Library | University of Illinois Chicago
+ - [https://library.uic.edu](https://library.uic.edu)
+ - date_published: 2024-05-07T21:14:41.570523+00:00
+
+ ## Campus Map | University of Illinois at Chicago
+ - [https://maps.uic.edu](https://maps.uic.edu)
+ - date_published: 2024-05-07T21:15:09.937582+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [https://math.uic.edu](https://math.uic.edu)
+ - date_published: 2024-05-12T06:09:10.409396+00:00
+
+ ## Meetings & Conferences | University of Illinois Chicago
+ - [https://meetings.uic.edu](https://meetings.uic.edu)
+ - date_published: 2024-07-02T02:47:28.927865+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [https://mscs.uic.edu](https://mscs.uic.edu)
+ - date_published: 2024-07-15T11:29:52.550205+00:00
+
+ ## Math & Science Learning Center | University of Illinois Chicago
+ - [https://mslc.uic.edu](https://mslc.uic.edu)
+ - date_published: 2024-07-02T02:47:23.889279+00:00
+
+ ## Welcome | myUIC
+ - [https://my.uic.edu](https://my.uic.edu)
+ - date_published: 2024-06-21T13:02:37.657561+00:00
+
+ ## Native American Support Program | University of Illinois Chicago
+ - [https://nasp.uic.edu](https://nasp.uic.edu)
+ - date_published: 2024-07-02T02:48:19.656923+00:00
+
+ ## College of Nursing | University of Illinois Chicago
+ - [https://nursing.uic.edu](https://nursing.uic.edu)
+ - date_published: 2024-07-02T02:46:51.172996+00:00
+
+ ## Office for Access and Equity | University of Illinois Chicago
+ - [http://oae.uic.edu](http://oae.uic.edu)
+ - date_published: 2024-07-02T02:38:32.029810+00:00
+
+ ## Office of External Fellowships | University of Illinois Chicago
+ - [https://oef.uic.edu](https://oef.uic.edu)
+ - date_published: 2024-07-02T02:47:13.173449+00:00
+
+ ## Office of International Services | University of Illinois Chicago
+ - [https://ois.uic.edu](https://ois.uic.edu)
+ - date_published: 2024-07-02T02:47:42.455513+00:00
+
+ ## Orientation | University of Illinois Chicago
+ - [https://orientation.uic.edu](https://orientation.uic.edu)
+ - date_published: 2024-07-02T02:47:26.039002+00:00
+
+ ## Parking Services | University of Illinois Chicago
+ - [https://parking.uic.edu](https://parking.uic.edu)
+ - date_published: 2024-07-02T02:46:58.643532+00:00
+
+ ## College of Medicine Peoria | University of Illinois College of Medicine
+ - [http://peoria.medicine.uic.edu](http://peoria.medicine.uic.edu)
+ - date_published: 2024-07-02T02:46:56.069885+00:00
+
+ ## Pharmacognosy Institute (PHCI) | University of Illinois Chicago
+ - [https://pharmacognosy.pharmacy.uic.edu](https://pharmacognosy.pharmacy.uic.edu)
+ - date_published: 2024-07-02T02:48:10.652395+00:00
+
+ ## College of Pharmacy - Chicago | Rockford | University of Illinois Chicago
+ - [https://pharmacy.uic.edu](https://pharmacy.uic.edu)
+ - date_published: 2024-07-02T02:49:03.641639+00:00
+
+ ## Law Enforcement Epidemiology Project | University of Illinois Chicago
+ - [https://policeepi.uic.edu](https://policeepi.uic.edu)
+ - date_published: 2024-07-19T20:14:20.978335+00:00
+
+ ## University Police | University of Illinois Chicago
+ - [https://police.uic.edu](https://police.uic.edu)
+ - date_published: 2024-07-02T02:38:14.966873+00:00
+
+ ## UIC Committee on Policy | University of Illinois Chicago
+ - [http://policies.uic.edu](http://policies.uic.edu)
+ - date_published: 2024-07-02T02:40:49.670513+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://proxy.cc.uic.edu](http://proxy.cc.uic.edu)
+ - date_published: 2024-06-30T01:26:16.778845+00:00
+
+ ## Planning, Sustainability and Project Management | University of Illinois Chicago
+ - [https://pspm.uic.edu](https://pspm.uic.edu)
+ - date_published: 2024-07-02T02:48:48.770264+00:00
+
+ ## School of Public Health | University of Illinois Chicago
+ - [https://publichealth.uic.edu](https://publichealth.uic.edu)
+ - date_published: 2024-07-02T02:47:58.485114+00:00
+
+ ## Office of Preparedness and Response | University of Illinois Chicago
+ - [https://ready.uic.edu](https://ready.uic.edu)
+ - date_published: 2024-06-26T22:31:44.395958+00:00
+
+ ## Campus Recreation | University of Illinois Chicago
+ - [https://recreation.uic.edu](https://recreation.uic.edu)
+ - date_published: 2024-07-02T02:48:50.115600+00:00
+
+ ## Office of the Registrar | University of Illinois Chicago
+ - [https://registrar.uic.edu](https://registrar.uic.edu)
+ - date_published: 2024-07-02T02:40:33.643529+00:00
+
+ ## Report a Concern | University of Illinois Chicago
+ - [https://reportaconcern.uic.edu](https://reportaconcern.uic.edu)
+ - date_published: 2024-05-07T21:15:15.269521+00:00
+
+ ## Subject and Course Guides
+ - [https://researchguides.uic.edu](https://researchguides.uic.edu)
+ - date_published: 2024-07-02T02:37:50.924713+00:00
+
+ ## College of Medicine Rockford | University of Illinois College of Medicine
+ - [http://rockford.medicine.uic.edu](http://rockford.medicine.uic.edu)
+ - date_published: 2024-07-02T02:47:11.735546+00:00
+
+ ## Staff Advisory Council | University of Illinois Chicago
+ - [https://sac.uic.edu](https://sac.uic.edu)
+ - date_published: 2024-07-02T02:47:15.608047+00:00
+
+ ## Student Affairs Human Resources | University of Illinois Chicago
+ - [https://sahr.uic.edu](https://sahr.uic.edu)
+ - date_published: 2024-07-02T02:38:42.422413+00:00
+
+ ## STUDENT AFFAIRS | University of Illinois Chicago
+ - [http://sa.uic.edu](http://sa.uic.edu)
+ - date_published: 2024-07-02T02:38:39.542977+00:00
+
+ ## Student Leadership and Civic Engagement | University of Illinois Chicago
+ - [https://slce.uic.edu](https://slce.uic.edu)
+ - date_published: 2024-07-02T02:47:09.886212+00:00
+
+ ## Student Centers | University of Illinois Chicago
+ - [https://studentcenters.uic.edu](https://studentcenters.uic.edu)
+ - date_published: 2024-07-02T02:48:43.260530+00:00
+
+ ## Student Employment | University of Illinois Chicago
+ - [http://studentemployment.uic.edu](http://studentemployment.uic.edu)
+ - date_published: 2024-07-02T02:38:45.824932+00:00
+
+ ## Study Abroad Office | University of Illinois Chicago
+ - [https://studyabroad.uic.edu](https://studyabroad.uic.edu)
+ - date_published: 2024-07-02T02:47:45.704117+00:00
+
+ ## Planning, Sustainability and Project Management | University of Illinois Chicago
+ - [https://sustainability.uic.edu](https://sustainability.uic.edu)
+ - date_published: 2024-07-02T02:46:36.666374+00:00
+
+ ## Testing Services | University of Illinois Chicago
+ - [https://testing.uic.edu](https://testing.uic.edu)
+ - date_published: 2024-07-02T02:46:54.224790+00:00
+
+ ## UIC today
+ - [https://today.uic.edu](https://today.uic.edu)
+ - date_published: 2023-10-25T19:01:36.433328+00:00
+
+ ## Transportation | University of Illinois Chicago
+ - [https://transportation.uic.edu](https://transportation.uic.edu)
+ - date_published: 2024-07-02T02:40:19.376266+00:00
+
+ ## TRIO | University of Illinois Chicago
+ - [https://trio.uic.edu](https://trio.uic.edu)
+ - date_published: 2024-07-02T02:47:00.922674+00:00
+
+ ## Urban Health Program | University of Illinois Chicago
+ - [https://uhp.uic.edu](https://uhp.uic.edu)
+ - date_published: 2024-07-02T02:46:47.599601+00:00
+
+ ## University of Illinois Chicago
+ - [https://uic.edu](https://uic.edu)
+ - date_published: 2024-05-07T21:14:54.855233+00:00
+
+ ## UI Health | University of Illinois Chicago
+ - [https://uihealth.uic.edu](https://uihealth.uic.edu)
+ - date_published: 2024-06-21T13:03:11.282662+00:00
+
+ ## Office of the Vice Chancellor for Administrative Services | University of Illinois Chicago
+ - [https://vcas.uic.edu](https://vcas.uic.edu)
+ - date_published: 2024-07-02T02:40:16.999530+00:00
+
+ ## STUDENT AFFAIRS | University of Illinois Chicago
+ - [http://vcsa.uic.edu](http://vcsa.uic.edu)
+ - date_published: 2024-07-21T22:34:46.445262+00:00
+
+ ## Wellness Center | University of Illinois Chicago
+ - [http://wellnesscenter.uic.edu](http://wellnesscenter.uic.edu)
+ - date_published: 2024-07-02T02:38:19.195852+00:00
+
+ ## Women’s Leadership and Resource Center | University of Illinois Chicago
+ - [https://wlrc.uic.edu](https://wlrc.uic.edu)
+ - date_published: 2024-07-02T02:48:14.553587+00:00
+
+ ## Writing Center | University of Illinois Chicago
+ - [https://writingcenter.uic.edu](https://writingcenter.uic.edu)
+ - date_published: 2024-07-02T02:49:09.326146+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [http://www2.math.uic.edu](http://www2.math.uic.edu)
+ - date_published: 2024-06-30T08:58:04.424756+00:00
+
  ## Biomedical Optics and Ophthalmic Imaging Laboratory | University of Illinois Chicago
  - [https://yaolab.bioe.uic.edu](https://yaolab.bioe.uic.edu)
  - date_published: 2024-05-06T20:00:45.734451+00:00
@@ -3738,272 +4006,4 @@ Center for Information Technology Integration
  ## Browse Exhibits · Gallery
  - [https://gallery.lib.umn.edu](https://gallery.lib.umn.edu)
  - date_published: 2024-07-13T17:15:22.494741+00:00
-
- ## Home - Gender Policy Report
- - [https://genderpolicyreport.umn.edu](https://genderpolicyreport.umn.edu)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Office of Advancement | UMN Duluth
- - [https://give.d.umn.edu](https://give.d.umn.edu)
- - date_published: 2024-07-10T14:59:37+00:00
-
- ## Give to Morris | Give to UMN Morris
- - [https://give.morris.umn.edu](https://give.morris.umn.edu)
- - date_published: 2024-07-10T14:01:45+00:00
-
- ## Home | Give to the University of Minnesota
- - [https://give.umn.edu](https://give.umn.edu)
- - date_published: 2024-05-11T07:52:57.604741+00:00
-
- ## Graduate Medical Education
- - [https://gme.umn.edu](https://gme.umn.edu)
- - date_published: 2024-05-07T21:30:35.938955+00:00
-
- ## Graduate School Duluth | UMN Duluth
- - [https://graduate-school.d.umn.edu](https://graduate-school.d.umn.edu)
- - date_published: 2024-07-10T14:57:44+00:00
-
- ## Home | The Graduate School
- - [https://grad.umn.edu](https://grad.umn.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## On-Campus Living
- - [https://housing.umn.edu](https://housing.umn.edu)
- - date_published: 2024-05-11T07:55:40.804057+00:00
-
- ## Human Rights Library- University of Minnesota
- - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
- - date_published: 2022-05-07T15:59:08+00:00
-
- ## Sign In | HRMS Instruction
- - [https://hrms.umn.edu](https://hrms.umn.edu)
- - date_published: 2024-06-21T17:10:55+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://hr.umn.edu](https://hr.umn.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Health Sciences Library | Health Sciences Libraries
- - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://humanresources.umn.edu](https://humanresources.umn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://ici.umn.edu](https://ici.umn.edu)
- - date_published: 2024-09-06T13:40:41.144415+00:00
-
- ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
- - [http://idea.umn.edu](http://idea.umn.edu)
- - date_published: 2024-07-10T14:59:09+00:00
-
- ## Home
- - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
- - date_published: 2024-07-03T18:08:12+00:00
-
- ## IT@UMN | The people behind the technology |
- - [https://it.umn.edu](https://it.umn.edu)
- - date_published: 2024-07-02T01:40:28+00:00
-
- ## IVR Initiative Home Page | CIDRAP
- - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
- - date_published: 2024-05-07T21:30:46.779392+00:00
-
- ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
- - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
- - date_published: 2024-07-10T14:51:45+00:00
-
- ## Kusske Design Initiative
- - [https://kdi.umn.edu](https://kdi.umn.edu)
- - date_published: 2024-07-08T14:57:40.332054+00:00
-
- ## LATIS | CLA Neighborhood
- - [http://latis.umn.edu](http://latis.umn.edu)
- - date_published: 2024-07-01T21:26:53+00:00
-
- ## Kathryn A. Martin Library | UMN Duluth
- - [https://lib.d.umn.edu](https://lib.d.umn.edu)
- - date_published: 2024-07-13T16:50:48+00:00
-
- ## Home - UMN Libraries News & Events
- - [https://libnews.umn.edu](https://libnews.umn.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Rodney A. Briggs Library | UMN Morris Library
- - [https://library.morris.umn.edu](https://library.morris.umn.edu)
- - date_published: 2024-07-10T14:22:37+00:00
-
- ## Libraries home | University of Minnesota Libraries
- - [https://lib.umn.edu](https://lib.umn.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Labovitz School of Business and Economics | UMN Duluth
- - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
- - date_published: 2024-07-11T15:46:00+00:00
-
- ## Web Login Service
- - [http://mail.umn.edu](http://mail.umn.edu)
- - date_published: 2024-07-13T17:15:25.969779+00:00
-
- ## Home page | Majors
- - [https://majors.umn.edu](https://majors.umn.edu)
- - date_published: 2024-07-10T14:13:21+00:00
-
- ## Donate to the University of Minnesota
- - [https://makingagift.umn.edu](https://makingagift.umn.edu)
- - date_published: 2024-05-07T21:30:21.659502+00:00
-
- ## Manifold @uminnpress
- - [https://manifold.umn.edu](https://manifold.umn.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## UMN - MARS Lab
- - [http://mars.cs.umn.edu](http://mars.cs.umn.edu)
- - date_published: 2019-11-08T00:00:00+00:00
-
- ## Welcome to MCAE | MCAE
- - [http://mcae.umn.edu](http://mcae.umn.edu)
- - date_published: 2024-07-12T16:13:40+00:00
-
- ## Medical School
- - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
- - date_published: 2024-05-07T21:30:07.863681+00:00
-
- ## Web Login Service
- - [https://mediaspace.umn.edu](https://mediaspace.umn.edu)
- - date_published: 2024-07-02T04:07:14.343163+00:00
-
- ## Medical School
- - [https://med.umn.edu](https://med.umn.edu)
- - date_published: 2023-10-25T19:02:48.728498+00:00
-
- ## Paul Meehl | Paul E. Meehl
- - [http://meehl.umn.edu](http://meehl.umn.edu)
- - date_published: 2024-06-12T15:02:49+00:00
-
- ## Minnesota Invasive Terrestrial Plants and Pests Center
- - [https://mitppc.umn.edu](https://mitppc.umn.edu)
- - date_published: 2024-07-08T17:32:26+00:00
-
- ## University of Minnesota Morris
- - [https://morris.umn.edu](https://morris.umn.edu)
- - date_published: 2024-05-11T07:55:42.951152+00:00
-
- ## The Circuits and Biology Lab at UMN
- - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
- - date_published: 2024-05-07T21:31:14.438714+00:00
-
- ## C&I faculty members receive prestigious fellowship award on Antisemitism and Jewish Inclusion
- - [https://news.cehd.umn.edu](https://news.cehd.umn.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## News Center Home Page
- - [https://news.d.umn.edu](https://news.d.umn.edu)
- - date_published: 2024-07-12T19:23:44+00:00
-
- ## Welcome to the Office for Conflict Resolution | Office for Conflict Resolution
- - [http://ocr.umn.edu](http://ocr.umn.edu)
- - date_published: 2024-07-10T15:52:13+00:00
-
- ## Education Program | Office for Equity & Diversity Education Program
- - [https://oeded.umn.edu](https://oeded.umn.edu)
- - date_published: 2024-07-10T14:18:09+00:00
-
- ## Please Login | OED Intranet
- - [https://oedintranet.umn.edu](https://oedintranet.umn.edu)
- - date_published: 2024-07-13T17:12:21+00:00
-
- ## Report Web Disability-Related Issue
- - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
- - date_published: 2024-05-07T21:29:50.648111+00:00
-
- ## Home | Crookston One Stop Student Services
- - [http://onestop.crk.umn.edu](http://onestop.crk.umn.edu)
- - date_published: 2024-06-20T19:00:39+00:00
-
- ## Home | Duluth One Stop Student Services
- - [http://onestop.d.umn.edu](http://onestop.d.umn.edu)
- - date_published: 2024-06-27T13:19:32+00:00
-
- ## Home | Morris One Stop Student Services
- - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
- - date_published: 2024-07-01T19:37:47+00:00
-
- ## Home | Rochester One Stop Student Services
- - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
- - date_published: 2024-07-01T18:24:15+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
- - date_published: 2024-07-01T18:27:01+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop.umn.edu](https://onestop.umn.edu)
- - date_published: 2024-05-07T21:30:12.406123+00:00
-
- ## Online Learning | University of Minnesota Morris
- - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
- - date_published: 2024-07-12T21:39:39+00:00
-
- ## Publishing Services
- - [https://open.lib.umn.edu](https://open.lib.umn.edu)
- - date_published: 2024-05-08T06:58:55.509369+00:00
-
- ## Center for Open Education
- - [https://open.umn.edu](https://open.umn.edu)
- - date_published: 2023-10-25T19:02:55.930942+00:00
-
- ## Orientation | UMN Duluth
- - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
- - date_published: 2024-07-10T14:03:11+00:00
-
- ## Welcome! | Office for Student Affairs
- - [https://osa.umn.edu](https://osa.umn.edu)
- - date_published: 2024-07-10T14:48:04+00:00
-
- ## Office for Supplier Diversity | Office for Business & Community Economic Development
- - [https://osd.umn.edu](https://osd.umn.edu)
- - date_published: 2024-07-13T17:12:54+00:00
-
- ## Welcome to the Physics Force | Physics Force
- - [https://physicsforce.umn.edu](https://physicsforce.umn.edu)
- - date_published: 2024-06-12T14:45:07+00:00
-
- ## School of Physics and Astronomy
- - [https://physics.umn.edu](https://physics.umn.edu)
- - date_published: 2024-05-07T15:14:46.382218+00:00
-
- ## Home Page | University Policy Library
- - [http://policy.umn.edu](http://policy.umn.edu)
- - date_published: 2024-07-04T09:20:43+00:00
-
- ## About | Preceptor Resources
- - [https://preceptor.umn.edu](https://preceptor.umn.edu)
- - date_published: 2024-05-07T21:30:41.797420+00:00
-
- ## Website Privacy | Online Privacy
- - [https://privacy.umn.edu](https://privacy.umn.edu)
- - date_published: 2024-05-07T21:30:45.450807+00:00
-
- ## Parking & Transportation Services | UMN Parking & Transportation Services
- - [https://pts.umn.edu](https://pts.umn.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Public Safety | UMN Department of Public Safety
- - [https://publicsafety.umn.edu](https://publicsafety.umn.edu)
- - date_published: 2024-07-12T19:37:38+00:00
-
- ## Front - Publishing Services
- - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
- - date_published: 2024-07-04T16:19:14.960889+00:00
-
- ## University of Minnesota Rochester
- - [https://raptorlink.umn.edu](https://raptorlink.umn.edu)
- - date_published: 2024-07-02T04:19:40.146082+00:00
-
- ## | Research Computing
- - [https://rc.umn.edu](https://rc.umn.edu)
- - date_published: 2024-06-28T13:13:59+00:00
 

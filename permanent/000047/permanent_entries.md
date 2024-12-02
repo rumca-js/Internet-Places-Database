@@ -1,3 +1,15 @@
+ ## Static forms
+ - [https://support-forms.atlassian.com](https://support-forms.atlassian.com)
+ - date_published: 2024-05-09T04:56:20.941909+00:00
+
+ ## Atlassian Support Status
+ - [https://support.status.atlassian.com](https://support.status.atlassian.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Trello Status
+ - [https://trello.status.atlassian.com](https://trello.status.atlassian.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
  ## Learn Jira, Confluence, Trello, Jira Service Management, Jira Align, and more Atlassian software with Atlassian University : Atlassian
  - [https://university.atlassian.com](https://university.atlassian.com)
  - date_published: 2024-07-09T09:55:18.603763+00:00
@@ -4019,17 +4031,4 @@
  ## Avast Business CloudCare
  - [https://us.cloudcare.avg.com](https://us.cloudcare.avg.com)
  - date_published: 2024-08-08T19:56:54.275114+00:00
-
- ## Alumni Ventures: Professional-Grade Venture Portfolios - Alumni Ventures
- - [https://www.avgbasecamp.com](https://www.avgbasecamp.com)
- - date_published: 2024-06-19T23:44:21.475232+00:00
-
- ## Welcome to nginx!
- - [https://avgle.com](https://avgle.com)
- - date_published: 2024-09-02T11:07:01.774977+00:00
-
- ## The Aviation Herald
- - [https://avherald.com](https://avherald.com)
- - date_published: 2023-10-25T11:48:37.614174+00:00
- - tags: ['aviation news']
 

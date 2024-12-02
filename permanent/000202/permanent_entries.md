@@ -1,3 +1,254 @@
+ ## Tech Equity Collective - Accelerating Black innovation in tech
+ - [https://www.techequitycollective.com](https://www.techequitycollective.com)
+ - date_published: 2024-05-04T08:29:34.623191+00:00
+
+ ## Business Tech News - Techerati
+ - [https://www.techerati.com](https://www.techerati.com)
+ - date_published: 2024-10-22T06:34:57.326280+00:00
+
+ ## Home - Discover TechEx Events
+ - [https://techexevent.com](https://techexevent.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Tech Explorist - Latest Science and Technology News
+ - [https://techexplorist.com](https://techexplorist.com)
+ - date_published: 2023-10-25T17:24:28.491926+00:00
+
+ ## TECHEXPO Hiring Events | TECHEXPO Top Secret
+ - [https://techexpousa.com](https://techexpousa.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## TechFabric | Create digital experiences that power your business
+ - [https://www.techfabric.com](https://www.techfabric.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Technician's Field Guide | Travis Cole | Substack
+ - [https://www.techfieldguide.com](https://www.techfieldguide.com)
+ - date_published: 2024-06-22T20:36:33.150598+00:00
+
+ ## TechFUL+
+ - [https://techful-programming.com](https://techful-programming.com)
+ - date_published: 2024-06-24T01:30:10.269263+00:00
+
+ ## Tech Funding News | Global technology startup funding news
+ - [https://techfundingnews.com](https://techfundingnews.com)
+ - date_published: 2023-10-25T17:24:35.857919+00:00
+
+ ## Techgage
+ - [http://www.techgage.com](http://www.techgage.com)
+ - date_published: 2024-11-16T20:02:17.025648+00:00
+
+ ## Tech-Gaming
+ - [http://www.tech-gaming.com](http://www.tech-gaming.com)
+ - date_published: 2024-10-24T13:22:17.513200+00:00
+
+ ## TemanJP - Situs Slot Depo Pulsa Anti Rungkad via Indosat & Tri Min Depo 5000 Tanpa Potongan!!!
+ - [http://techgeel.com](http://techgeel.com)
+ - date_published: 2024-10-14T08:28:54+00:00
+
+ ## https://techgenix.com
+ - [https://techgenix.com](https://techgenix.com)
+ - date_published: 2023-10-25T17:24:36.123076+00:00
+
+ ## TechGig CIO: Latest business news, CIO/CXO interviews
+ - [https://cio.techgig.com](https://cio.techgig.com)
+ - date_published: 2024-06-26T08:28:01+00:00
+
+ ## Latest Tech News, Startup News, Industry Updates | TechGig
+ - [https://content.techgig.com](https://content.techgig.com)
+ - date_published: 2024-06-26T08:35:30+00:00
+
+ ## Corporate | TechGig.com
+ - [https://engage.techgig.com](https://engage.techgig.com)
+ - date_published: 2024-06-26T08:43:22.792379+00:00
+
+ ## Default Inventory : Largest Tech Community | Hackathons, Programming & Coding Challenges | TechGig.com
+ - [https://www.techgig.com](https://www.techgig.com)
+ - date_published: 2024-05-06T18:29:13.975853+00:00
+
+ ## The work of Erik Davis - Techgnosis
+ - [https://techgnosis.com](https://techgnosis.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Techgoeasy
+ - [https://techgoeasy.com](https://techgoeasy.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Techgrabyte
+ - [https://techgrabyte.com](https://techgrabyte.com)
+ - date_published: 2024-06-30T08:29:13.220637+00:00
+
+ ## TechHive
+ - [https://techhive.com](https://techhive.com)
+ - date_published: 2024-04-29T02:55:51.947658+00:00
+
+ ## Tech News | TechHQ | Latest Technology News & Analysis
+ - [https://techhq.com](https://techhq.com)
+ - date_published: 2024-09-18T23:06:57.705651+00:00
+
+ ## Techie Delight
+ - [https://www.techiedelight.com](https://www.techiedelight.com)
+ - date_published: 2024-06-20T12:31:58+00:00
+
+ ## Techie Media | A leading Managed Hosting and Colocation Provider
+ - [http://www.techiemedia.com](http://www.techiemedia.com)
+ - date_published: 2024-04-29T03:16:57.485042+00:00
+
+ ## Techimply - Business Software Marketplace
+ - [https://www.techimply.com](https://www.techimply.com)
+ - date_published: 2024-10-05T23:25:59.005348+00:00
+
+ ## Tech in Asia - Connecting Asia's startup ecosystem
+ - [https://techinasia.com](https://techinasia.com)
+ - date_published: 2024-05-10T03:47:30.650606+00:00
+
+ ## TechInsights Inc. - The Semiconductor Information Platform
+ - [https://www.techinsights.com](https://www.techinsights.com)
+ - date_published: 2024-09-18T23:10:04.533982+00:00
+
+ ## Tech Interrupt | Tristan Greaves | Substack
+ - [https://techinterrupt.com](https://techinterrupt.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Tech Interview Pro
+ - [https://techinterviewpro.com](https://techinterviewpro.com)
+ - date_published: 2024-11-25T21:03:42.130522+00:00
+ - tags: ['techlead']
+
+ ## Techinvestmentshow – Techinvestmentshow
+ - [https://techinvestmentshow.com](https://techinvestmentshow.com)
+ - date_published: 2024-09-24T22:02:05.954805+00:00
+
+ ## Tech Investor News - Always Updating Technology News
+ - [http://www.techinvestornews.com](http://www.techinvestornews.com)
+ - date_published: 2024-09-18T23:20:06+00:00
+
+ ## Home - TechIssuesToday.com
+ - [https://techissuestoday.com](https://techissuestoday.com)
+ - date_published: 2024-08-19T03:45:55+00:00
+
+ ## Techitup Middle East
+ - [https://techitupme.com](https://techitupme.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Find your dream California tech job
+ - [https://techjobscalifornia.com](https://techjobscalifornia.com)
+ - date_published: 2024-04-28T04:30:43.437723+00:00
+
+ ## Tech Jobs Fair - Bringing Together Companies,Talents And Investors
+ - [https://techjobsfair.com](https://techjobsfair.com)
+ - date_published: 2017-11-15T23:04:55+00:00
+
+ ## Tech Jobs for Good
+ - [https://techjobsforgood.com](https://techjobsforgood.com)
+ - date_published: 2024-07-16T20:41:29.568681+00:00
+
+ ## Find your dream New York City tech job
+ - [https://techjobsnewyorkcity.com](https://techjobsnewyorkcity.com)
+ - date_published: 2024-04-28T04:30:36.245674+00:00
+
+ ## Home
+ - [https://www.techjunkie.com](https://www.techjunkie.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Tech-KnowHow.com | Helping you help yourself to technology solutions
+ - [https://tech-knowhow.com](https://tech-knowhow.com)
+ - date_published: 2023-10-25T17:24:10.603392+00:00
+
+ ## Azyl pielgrzymów
+ - [https://pilgrimoutpost.techlandgg.com](https://pilgrimoutpost.techlandgg.com)
+ - date_published: 2024-05-01T07:58:43.598440+00:00
+
+ ## Techland Gamers & Goodies
+ - [https://techlandgg.com](https://techlandgg.com)
+ - date_published: 2024-05-01T07:58:44.761451+00:00
+ - tags: ['video game developer', 'techland']
+
+ ## Techland Careers
+ - [https://techlandjobs.com](https://techlandjobs.com)
+ - date_published: 2024-06-16T21:41:11.149319+00:00
+
+ ## techlawadvisor.com is almost here!
+ - [http://techlawadvisor.com](http://techlawadvisor.com)
+ - date_published: 2024-07-12T20:20:56+00:00
+
+ ## TechLead Conference - Unlock Your Potential for Leadership, Teamwork, and Career Growth
+ - [https://techleadconf.com](https://techleadconf.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Techlead Mentor | Raviraj Achar | Substack
+ - [https://newsletter.techleadmentor.com](https://newsletter.techleadmentor.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## @ederson
+ - [https://techleadpodcast.com](https://techleadpodcast.com)
+ - date_published: 2024-05-10T06:45:58.021556+00:00
+
+ ## Technology Liberation Front
+ - [http://techliberation.com](http://techliberation.com)
+ - date_published: 2024-06-30T06:55:50.823112+00:00
+
+ ## Tech License Express
+ - [https://techlicenseexpress.com](https://techlicenseexpress.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Подкаст о современной жизни, философии, и путешествиях с технологической, космополитической, и контркультурной точек зрения. • Технологии и жизнь: подкаст
+ - [https://www.techlifepodcast.com](https://www.techlifepodcast.com)
+ - date_published: 2024-07-09T06:56:04.410226+00:00
+
+ ## TechLifeWeb
+ - [https://techlifeweb.com](https://techlifeweb.com)
+ - date_published: 2024-06-14T02:13:14+00:00
+
+ ## TechLounges - Where Innovation and Community Meet
+ - [https://techlounges.com](https://techlounges.com)
+ - date_published: 2024-10-27T23:15:02.585673+00:00
+
+ ## Techloy
+ - [http://techloy.com](http://techloy.com)
+ - date_published: 2024-08-12T04:35:49.725566+00:00
+
+ ## Tech Mahindra | Scale at Speed
+ - [https://www.techmahindra.com](https://www.techmahindra.com)
+ - date_published: 2024-09-06T12:32:07+00:00
+
+ ## techmailings.com - Ta strona jest na sprzedaż! - techmailings Zasoby i informacje.
+ - [http://www.techmailings.com](http://www.techmailings.com)
+ - date_published: 2024-07-13T11:09:43+00:00
+
+ ## Home - Techmaker
+ - [https://techmaker.com](https://techmaker.com)
+ - date_published: 2021-12-16T00:00:00+00:00
+
+ ## Techmeme News
+ - [https://news.techmeme.com](https://news.techmeme.com)
+ - date_published: 2021-11-14T18:13:48+00:00
+
+ ## Techmeme
+ - [https://techmeme.com](https://techmeme.com)
+ - date_published: 2023-10-25T17:24:58.613645+00:00
+ - tags: ['tech news']
+
+ ## TechMentor
+ - [https://techmentorevents.com](https://techmentorevents.com)
+ - date_published: 2024-05-07T10:29:57.673992+00:00
+
+ ## TechMindFactory.com
+ - [https://techmindfactory.com](https://techmindfactory.com)
+ - date_published: 2024-02-25T16:55:51+00:00
+
+ ## Home : TechMoran
+ - [http://techmoran.com](http://techmoran.com)
+ - date_published: 2024-08-12T04:29:44.660102+00:00
+
+ ## Homepage
+ - [https://www.technadu.com](https://www.technadu.com)
+ - date_published: 2024-08-11T01:57:48+00:00
+
+ ## Technasma
+ - [http://technasma.com](http://technasma.com)
+ - date_published: 2024-10-31T17:22:52+00:00
+
  ## Archived MSDN and TechNet Blogs
  - [http://blogs.technet.com](http://blogs.technet.com)
  - date_published: 2024-02-08T09:41:10+00:00
@@ -3789,252 +4040,4 @@
  ## Tips on measuring with oscilloscopes, multimeters, LCR meters
  - [https://www.testandmeasurementtips.com](https://www.testandmeasurementtips.com)
  - date_published: 2024-05-02T09:27:42.319122+00:00
-
- ## Testbirds: Building a Better Digital World, Together.
- - [https://www.testbirds.com](https://www.testbirds.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- - [https://testcards.com](https://testcards.com)
- - date_published: 2024-11-27T10:59:46+00:00
-
- ## Testcontainers Product Updates and Newsletter
- - [https://newsletter.testcontainers.com](https://newsletter.testcontainers.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Testcontainers
- - [https://testcontainers.com](https://testcontainers.com)
- - date_published: 2024-02-27T23:15:57+00:00
-
- ## Leading QA & Software Testing Service Provider | TestDevLab
- - [https://www.testdevlab.com](https://www.testdevlab.com)
- - date_published: 2024-06-22T11:02:34.776961+00:00
-
- ## Test Double | Blog | Articles and Screencasts
- - [https://blog.testdouble.com](https://blog.testdouble.com)
- - date_published: 2023-10-25T17:27:24.348664+00:00
-
- ## Test Double
- - [https://cdn-blog.testdouble.com](https://cdn-blog.testdouble.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Test Double | An Agency Improving the World's Software
- - [https://cdn-site.testdouble.com](https://cdn-site.testdouble.com)
- - date_published: 2024-06-14T21:35:51+00:00
-
- ## Test Double | An Agency Improving the World's Software
- - [https://testdouble.com](https://testdouble.com)
- - date_published: 2024-05-06T16:11:27.348619+00:00
-
- ## Test Driving Rails
- - [https://testdrivingrails.com](https://testdrivingrails.com)
- - date_published: 2024-09-02T09:53:14.917820+00:00
-
- ## Tested
- - [http://www.tested.com](http://www.tested.com)
- - date_published: 2024-06-22T08:50:13.423233+00:00
-
- ## Best Applicant Tracking System: Recruitment Software
- - [https://testedrecruits.com](https://testedrecruits.com)
- - date_published: 2024-09-04T04:41:52.370274+00:00
-
- ## Test Effective
- - [http://www.testeffective.com](http://www.testeffective.com)
- - date_published: 2024-06-21T19:11:08.756694+00:00
-
- ## Tester - Bäst i test & Testvinnare från Testfakta
- - [https://biobased.testfakta.com](https://biobased.testfakta.com)
- - date_published: 2024-07-07T07:37:02.284370+00:00
-
- ## Testfakta
- - [http://www.testfakta.com](http://www.testfakta.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Sessions – TestFreaks Admin
- - [https://js.testfreaks.com](https://js.testfreaks.com)
- - date_published: 2024-06-17T21:11:07.626964+00:00
-
- ## Home
- - [https://www.testia.com](https://www.testia.com)
- - date_published: 2024-06-28T00:16:28+00:00
-
- ## The Testimonies Archive
- - [http://testimoniesarchive.com](http://testimoniesarchive.com)
- - date_published: 2024-09-04T03:14:37.122501+00:00
-
- ## Secure Form Builder and Data Collection Software | Formstack
- - [https://testing-formstack.com](https://testing-formstack.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Testing JavaScript | Testing JavaScript
- - [https://testingjavascript.com](https://testingjavascript.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Testing Laravel - Learn how to test Laravel applications
- - [https://testing-laravel.com](https://testing-laravel.com)
- - date_published: 2024-09-09T16:33:48.123545+00:00
-
- ## Testing Library | Testing Library
- - [https://testing-library.com](https://testing-library.com)
- - date_published: 2024-06-20T05:51:50.470275+00:00
-
- ## Testing LiveView
- - [https://www.testingliveview.com](https://www.testingliveview.com)
- - date_published: 2024-04-27T11:08:02+00:00
-
- ## TestingTime - Wir liefern Testpersonen für User Tests
- - [https://www.testingtime.com](https://www.testingtime.com)
- - date_published: 2024-10-22T19:19:56.158519+00:00
-
- ## Software Testing Apps - Brought to you by Test Insane
- - [https://apps.testinsane.com](https://apps.testinsane.com)
- - date_published: 2024-05-11T08:24:35.745677+00:00
-
- ## Test your IPv6.
- - [https://test-ipv6.com](https://test-ipv6.com)
- - date_published: 2024-07-19T15:05:13+00:00
-
- ## TestJS Summit
- - [https://testjssummit.com](https://testjssummit.com)
- - date_published: 2024-06-20T07:01:11.744434+00:00
-
- ## Testlify, Inc. Help Center
- - [https://help.testlify.com](https://help.testlify.com)
- - date_published: 2024-08-11T04:09:34.108659+00:00
-
- ## Plan for Development - Testlify
- - [https://roadmap.testlify.com](https://roadmap.testlify.com)
- - date_published: 2024-08-11T04:09:31.367733+00:00
-
- ## Finest talent assessment platform- Testlify- Try for free
- - [https://testlify.com](https://testlify.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## TestLodge - Login
- - [https://app.testlodge.com](https://app.testlodge.com)
- - date_published: 2024-09-18T18:13:58.236065+00:00
-
- ## TestLodge Blog
- - [https://blog.testlodge.com](https://blog.testlodge.com)
- - date_published: 2024-06-12T15:30:05+00:00
-
- ## TestLodge Support
- - [https://help.testlodge.com](https://help.testlodge.com)
- - date_published: 2024-09-18T18:14:03.672741+00:00
-
- ## TestLodge Status
- - [https://status.testlodge.com](https://status.testlodge.com)
- - date_published: 2024-09-18T18:14:06.462311+00:00
-
- ## Online Test Case Management Tool - TestLodge
- - [https://testlodge.com](https://testlodge.com)
- - date_published: 2024-09-18T18:14:04.681627+00:00
-
- ## TestLodge Product Updates
- - [https://updates.testlodge.com](https://updates.testlodge.com)
- - date_published: 2024-09-18T18:14:00.026071+00:00
-
- ## TestMatick: Software Testing Company | Software Testing Services
- - [https://www.testmatick.com](https://www.testmatick.com)
- - date_published: 2024-06-23T06:47:59.368476+00:00
-
- ## Test your microphone online
- - [https://testmymicrophone.com](https://testmymicrophone.com)
- - date_published: 2024-10-11T12:45:00.554545+00:00
-
- ## Website monitoring & uptime monitoring service / Testomato
- - [https://www.testomato.com](https://www.testomato.com)
- - date_published: 2024-06-25T23:32:30.183030+00:00
-
- ## Printer Test Page - Online Print Quality Check
- - [https://test-print.com](https://test-print.com)
- - date_published: 2023-03-05T00:00:00+00:00
-
- ## #1 Unified, Cloud-Based Test Automation Platform for QA Teams
- - [https://testsigma.com](https://testsigma.com)
- - date_published: 2024-06-19T18:00:14+00:00
-
- ## Test Stack Overflow Domain
- - [https://teststackoverflow.com](https://teststackoverflow.com)
- - date_published: 2024-08-06T06:11:31.398466+00:00
-
- ## a Maryland Terrapins community
- - [https://www.testudotimes.com](https://www.testudotimes.com)
- - date_published: 2024-06-29T01:46:45.269497+00:00
-
- ## Blur Busters TestUFO Motion Tests. Benchmark for monitors & displays.
- - [https://testufo.com](https://testufo.com)
- - date_published: 2024-05-08T03:00:16.389511+00:00
- - tags: ['monitor benchmark', 'online tool']
-
- ## Test Your Might
- - [https://testyourmight.com](https://testyourmight.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Test Your Drinking Water for Lead
- - [http://www.testyourwaterforlead.com](http://www.testyourwaterforlead.com)
- - date_published: 2017-11-07T19:36:49+00:00
-
- ## Tetcos: NetSim - Network Simulation Software, India
- - [http://www.tetcos.com](http://www.tetcos.com)
- - date_published: 2024-09-01T09:59:59+00:00
-
- ## Tetherd Cow Ahead
- - [http://www.tetherdcow.com](http://www.tetherdcow.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## TetonAT.com – TetonAT: Steve Romeo's Website Dedicated to Backcountry Skiing and Ski Mountaineering in Jackson Hole and Grand Teton National Park.
- - [https://www.tetonat.com](https://www.tetonat.com)
- - date_published: 2024-06-20T02:42:56.203325+00:00
-
- ## Teton Family Magazine
- - [https://tetonfamilymagazine.com](https://tetonfamilymagazine.com)
- - date_published: 2024-10-16T01:44:09.672418+00:00
-
- ## Teton Gravity Research
- - [https://www.tetongravity.com](https://www.tetongravity.com)
- - date_published: 2024-07-13T02:54:01+00:00
-
- ## Teton Media Works - Teton Media Works
- - [https://tetonmediaworks.com](https://tetonmediaworks.com)
- - date_published: 2024-10-16T01:44:34.878722+00:00
-
- ## Teton Ridge - Teton Ridge - Home
- - [https://www.tetonridge.com](https://www.tetonridge.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## TETRAGEDDON ::: 2k2k++ CYBERMONKEY HAS DIED REMYX :::
- - [http://tetrageddon.com](http://tetrageddon.com)
- - date_published: 2023-06-30T20:25:45+00:00
-
- ## Tetragrammaton
- - [https://tetragrammaton.com](https://tetragrammaton.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## TetraLogical
- - [https://tetralogical.com](https://tetralogical.com)
- - date_published: 2024-07-14T08:50:42.253095+00:00
-
- ## Tetra Pak processing and packaging solutions for food and beverages
- - [https://www.tetrapak.com](https://www.tetrapak.com)
- - date_published: 2024-07-14T07:38:00.333718+00:00
-
- ## TetraScience
- - [https://developers.tetrascience.com](https://developers.tetrascience.com)
- - date_published: 2024-10-16T18:53:07.280515+00:00
-
- ## Tetra Scientific Data and AI Cloud | TetraScience
- - [https://go.tetrascience.com](https://go.tetrascience.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Tetra Scientific Data and AI Cloud | TetraScience
- - [https://www.tetrascience.com](https://www.tetrascience.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Tetra Tech - Fournisseur mondial de services-conseils et d'ingénierie de pointe
- - [https://fr.tetratech.com](https://fr.tetratech.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.tetratech.com](https://investor.tetratech.com)
- - date_published: 2024-07-17T00:02:31.544788+00:00
 

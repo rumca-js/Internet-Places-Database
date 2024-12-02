@@ -1,3 +1,43 @@
+ ## Deskpro Support
+ - [https://support.deskpro.com](https://support.deskpro.com)
+ - date_published: 2024-10-11T20:24:27.834981+00:00
+
+ ## Deskpro | Help Desk Software | Cloud or On-Premise
+ - [https://www.deskpro.com](https://www.deskpro.com)
+ - date_published: 2024-06-16T16:19:34.815426+00:00
+
+ ## Deskpro Status
+ - [https://deskprostatus.com](https://deskprostatus.com)
+ - date_published: 2024-10-11T20:23:36.552625+00:00
+
+ ## DeskTime | A Time Tracker For Both Remote And On-site Teams
+ - [https://desktime.com](https://desktime.com)
+ - date_published: 2024-05-07T15:20:07.373093+00:00
+
+ ## Desktop apps with Electron – a premium video course by Beyond Code
+ - [https://desktopappswithelectron.com](https://desktopappswithelectron.com)
+ - date_published: 2024-10-28T23:33:43.503309+00:00
+
+ ## Show HN: I made a Mac app to search my images and videos with AI
+ - [https://desktopdocs.com](https://desktopdocs.com)
+ - date_published: 2024-05-15T19:44:46+00:00
+
+ ## Desktop Metal. Define the future. Make it real.
+ - [https://www.desktopmetal.com](https://www.desktopmetal.com)
+ - date_published: 2024-07-08T18:32:43.851647+00:00
+
+ ## Desktop of Samuel
+ - [https://desktopofsamuel.com](https://desktopofsamuel.com)
+ - date_published: 2024-05-11T10:18:27.575023+00:00
+
+ ## Desktop Pipeline | Tech Blog
+ - [http://www.desktoppipeline.com](http://www.desktoppipeline.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Softaculous Support Centre
+ - [https://popularfx.deskuss.com](https://popularfx.deskuss.com)
+ - date_published: 2024-06-28T11:22:39.977745+00:00
+
  ## Softaculous Support Centre
  - [https://softaculous.deskuss.com](https://softaculous.deskuss.com)
  - date_published: 2024-09-09T22:07:47.981806+00:00
@@ -3998,47 +4038,4 @@ A blog about programming, distributed systems and others
  ## Diet Coke - Refreshing Taste With No Calories | Coca-Cola US
  - [https://dietcoke.com](https://dietcoke.com)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## D'Ieteren Group
- - [https://www.dieterengroup.com](https://www.dieterengroup.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Lightweight justice for your SBC!
- - [https://dietpi.com](https://dietpi.com)
- - date_published: 2023-10-25T08:31:40.105924+00:00
- - tags: ['operating system', 'odroid', 'raspberry pi', 'pine64']
-
- ## بازی انفجار دنس بت (dancebet) + دانلود
- - [http://diettask.com](http://diettask.com)
- - date_published: 2024-08-08T11:50:34.192883+00:00
-
- ## Diffbot - Sign In
- - [https://app.diffbot.com](https://app.diffbot.com)
- - date_published: 2024-05-01T05:01:14.839431+00:00
-
- ## Diffblog
- - [https://blog.diffbot.com](https://blog.diffbot.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Turn Websites Into Data in Seconds
- - [https://crawly.diffbot.com](https://crawly.diffbot.com)
- - date_published: 2024-01-17T09:09:20+00:00
- - tags: ['web scraping']
-
- ## Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling
- - [https://diffbot.com](https://diffbot.com)
- - date_published: 2024-01-17T09:11:08+00:00
- - tags: ['web scraping']
-
- ## New to Diffbot?
- - [https://docs.diffbot.com](https://docs.diffbot.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Pingdom Public Reports Overview
- - [https://status.diffbot.com](https://status.diffbot.com)
- - date_published: 2024-05-01T05:01:04.692850+00:00
-
- ## Plausible · Web analytics
- - [https://st.diffbot.com](https://st.diffbot.com)
- - date_published: 2024-05-01T05:01:17.871682+00:00
 

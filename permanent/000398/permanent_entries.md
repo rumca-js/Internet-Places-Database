@@ -1,3 +1,363 @@
+ ## Lulu's homepage
+ - [https://erkin.party](https://erkin.party)
+ - date_published: 2024-01-06T19:33:04+00:00
+
+ ## FediQuiz
+ - [https://14th.fediverse.party](https://14th.fediverse.party)
+ - date_published: 2022-05-16T19:28:58+00:00
+
+ ## - Fediverse.Party - explore federated networks
+ - [https://fediverse.party](https://fediverse.party)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## fedivision.party! – The Fediverse's amateur music contest!
+ - [https://fedivision.party](https://fedivision.party)
+ - date_published: 2024-07-06T20:50:49.853711+00:00
+
+ ## Field-FX
+ - [http://field-fx.party](http://field-fx.party)
+ - date_published: 2024-05-26T05:55:55.343330+00:00
+
+ ## HARD WORK PARTY
+ - [https://hardwork.party](https://hardwork.party)
+ - date_published: 2024-08-19T14:22:44.668173+00:00
+
+ ## Hdmovie2 - Free movies Watch Online HD Quality hdmovie2
+ - [https://hdmovie2.party](https://hdmovie2.party)
+ - date_published: 2024-11-16T10:54:04+00:00
+ - tags: ['bollywood', 'piracy']
+
+ ## Logga in ‹ Hedengrens vinyler 🎶 — WordPress
+ - [https://vinyl.hedengren.party](https://vinyl.hedengren.party)
+ - date_published: 2024-06-21T22:19:20.959207+00:00
+
+ ## /kemono/ - kemono.party
+ - [https://chan.kemono.party](https://chan.kemono.party)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Kemono
+ - [https://kemono.party](https://kemono.party)
+ - date_published: 2024-06-23T18:14:27.215163+00:00
+
+ ## Lovebyte 2024 - 9-11th February 2024 : Where size matters
+ - [https://lovebyte.party](https://lovebyte.party)
+ - date_published: 2024-02-12T01:47:23+00:00
+
+ ## Tiny Code Christmas
+ - [https://tcc.lovebyte.party](https://tcc.lovebyte.party)
+ - date_published: 2023-10-25T22:24:45.776384+00:00
+
+ ## Make Frontend Shit Again
+ - [https://makefrontendshitagain.party](https://makefrontendshitagain.party)
+ - date_published: 2024-06-23T17:16:03.008200+00:00
+
+ ## Mastodon Party
+ - [https://mstdn.party](https://mstdn.party)
+ - date_published: 2024-06-23T17:14:53.324282+00:00
+
+ ## Non-Human Party
+ - [https://nonhuman.party](https://nonhuman.party)
+ - date_published: 2024-03-23T07:03:08+00:00
+ - tags: ['personal']
+
+ ## parappa.party
+ - [https://parappa.party](https://parappa.party)
+ - date_published: 2024-10-22T10:06:19.411946+00:00
+
+ ## PARTY PARTY PARTY PARTY PARTY PARTY PARTY PARTY PARTY
+ - [https://partypartypartyparty.party](https://partypartypartyparty.party)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Queer Party!
+ - [https://queer.party](https://queer.party)
+ - date_published: 2024-05-11T10:48:30.201775+00:00
+ - tags: ['lgbt']
+
+ ## ☆⌒(>。<)
+ - [https://sabrin.party](https://sabrin.party)
+ - date_published: 2024-08-10T02:53:04+00:00
+
+ ## Search Engine Party
+ - [https://searchengine.party](https://searchengine.party)
+ - date_published: 2024-06-10T07:07:59.424885+00:00
+ - tags: ['search engine']
+
+ ## Main Page
+ - [https://wiki.soyjak.party](https://wiki.soyjak.party)
+ - date_published: 2023-12-16T21:47:20+00:00
+
+ ## quiet party music apps
+ - [https://synth.party](https://synth.party)
+ - date_published: 2024-03-17T13:12:08+00:00
+
+ ## Underground Conference 13
+ - [https://uc13.party](https://uc13.party)
+ - date_published: 2024-05-23T11:08:11.934024+00:00
+
+ ## Vammala Party
+ - [https://vammala.party](https://vammala.party)
+ - date_published: 2024-07-29T06:33:25+00:00
+
+ ## wbtc.party: #saveWBTC
+ - [https://wbtc.party](https://wbtc.party)
+ - date_published: 2024-10-11T21:45:38.993622+00:00
+
+ ## 3M Ciencia. Aplicada a la vida. | 3M Perú
+ - [https://www.3m.com.pe](https://www.3m.com.pe)
+ - date_published: 2024-08-06T10:37:58.150464+00:00
+
+ ## Adecco Perú Líderes en Recursos Humanos
+ - [https://adecco.com.pe](https://adecco.com.pe)
+ - date_published: 2024-10-29T04:28:45.075877+00:00
+
+ ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
+ - [https://airbnb.com.pe](https://airbnb.com.pe)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Alpaca del Perú
+ - [https://alpacadelperu.com.pe](https://alpacadelperu.com.pe)
+ - date_published: 2024-04-28T02:00:06.225684+00:00
+
+ ## Andes Films
+ - [http://www.andesfilms.com.pe](http://www.andesfilms.com.pe)
+ - date_published: 2024-07-28T10:10:34.461460+00:00
+
+ ## Audi Perú
+ - [http://www.audi.com.pe](http://www.audi.com.pe)
+ - date_published: 2024-07-19T20:41:50+00:00
+
+ ## Camerfima Perú - Inicio
+ - [https://www.camerfirma.com.pe](https://www.camerfirma.com.pe)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Home - Camposol
+ - [https://camposol.com.pe](https://camposol.com.pe)
+ - date_published: 2024-10-31T08:48:47.590198+00:00
+
+ ## Citroen Perú
+ - [https://citroen.com.pe](https://citroen.com.pe)
+ - date_published: 2024-05-08T05:30:54.411386+00:00
+
+ ## Crate & Barrel Perú: Todo para la decoración del hogar
+ - [https://www.crateandbarrel.com.pe](https://www.crateandbarrel.com.pe)
+ - date_published: 2024-08-05T15:50:34+00:00
+
+ ## CrediScotia CON TODO
+ - [https://www.crediscotia.com.pe](https://www.crediscotia.com.pe)
+ - date_published: 2024-06-16T08:47:56.105369+00:00
+
+ ## Encuentra Tu Próximo Auto o Camioneta nueva • DERCO PERÚ
+ - [https://www.derco.com.pe](https://www.derco.com.pe)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Viajes Baratos y experiencias únicas de viajes | Despegar
+ - [https://www.despegar.com.pe](https://www.despegar.com.pe)
+ - date_published: 2024-09-13T15:40:21.802487+00:00
+
+ ## Disfruta Profuturo
+ - [https://www.disfrutaprofuturo.com.pe](https://www.disfrutaprofuturo.com.pe)
+ - date_published: 2024-09-28T21:42:02.720322+00:00
+
+ ## Secadores de manos Dyson Airblade™ – sitio oficial
+ - [https://www.dyson.com.pe](https://www.dyson.com.pe)
+ - date_published: 2024-07-07T01:57:08.738474+00:00
+
+ ## Editora Perú
+ - [http://www.editoraperu.com.pe](http://www.editoraperu.com.pe)
+ - date_published: 2024-06-27T22:10:54+00:00
+
+ ## EF Education First | Perú
+ - [https://www.ef.com.pe](https://www.ef.com.pe)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## ESPN Perú - Lo Último del Mundo Deportivo
+ - [https://www.espn.com.pe](https://www.espn.com.pe)
+ - date_published: 2024-05-02T09:41:17.365735+00:00
+
+ ## Eventbrite
+ - [https://eventbrite.com.pe](https://eventbrite.com.pe)
+ - date_published: 2024-05-12T05:54:47.555729+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.falabella.com.pe](https://www.falabella.com.pe)
+ - date_published: 2024-10-14T18:53:45.834858+00:00
+
+ ## Radio Felicidad, La música de tu vida
+ - [https://www.felicidad.com.pe](https://www.felicidad.com.pe)
+ - date_published: 2024-09-12T20:47:52.025302+00:00
+
+ ## Inicio - Fiat Perú
+ - [http://www.fiat.com.pe](http://www.fiat.com.pe)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Contrata a freelancers y encuentra trabajo freelance en línea
+ - [https://www.freelancer.com.pe](https://www.freelancer.com.pe)
+ - date_published: 2024-06-16T12:00:13.686296+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.pe](https://images.google.com.pe)
+ - date_published: 2024-07-20T07:37:56.669997+00:00
+
+ ## Google
+ - [https://www.google.com.pe](https://www.google.com.pe)
+ - date_published: 2024-06-21T22:23:53.911752+00:00
+
+ ## Consultoría de cultura | Great Place To Work® Peru
+ - [https://greatplacetowork.com.pe](https://greatplacetowork.com.pe)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Página de inicio de Grünenthal Latinoamérica
+ - [http://www.grunenthal.com.pe](http://www.grunenthal.com.pe)
+ - date_published: 2024-10-16T18:48:53.129525+00:00
+
+ ## Grupo RPP
+ - [https://www.gruporpp.com.pe](https://www.gruporpp.com.pe)
+ - date_published: 2019-10-09T20:27:46+00:00
+
+ ## Herramientas Eléctricas, Fijaciones y Software para Construcción
+ - [https://www.hilti.com.pe](https://www.hilti.com.pe)
+ - date_published: 2024-06-20T07:26:18.703757+00:00
+
+ ## Bienvenido a Hotfrog
+ - [https://www.hotfrog.com.pe](https://www.hotfrog.com.pe)
+ - date_published: 2024-06-29T16:52:09.419293+00:00
+
+ ## Escucha Radio La Zona EN VIVO: Tu Música Urbana
+ - [https://www.lazona.com.pe](https://www.lazona.com.pe)
+ - date_published: 2024-09-12T15:37:25+00:00
+
+ ## Marathon Sports Perú | Venta de artículos deportivos en Perú
+ - [http://marathon.com.pe](http://marathon.com.pe)
+ - date_published: 2024-09-13T15:48:55.614237+00:00
+
+ ## Mary Kay Peru
+ - [https://www.marykay.com.pe](https://www.marykay.com.pe)
+ - date_published: 2024-06-30T09:56:28.638251+00:00
+
+ ## Mastercard - Una empresa tecnológica global en la industria de pagos
+ - [https://www.mastercard.com.pe](https://www.mastercard.com.pe)
+ - date_published: 2024-09-13T02:03:53+00:00
+
+ ## Penguin Libros PE
+ - [https://www.megustaleer.com.pe](https://www.megustaleer.com.pe)
+ - date_published: 2024-06-28T14:50:55.052939+00:00
+
+ ## Mercado Libre Perú - Envíos Gratis en el día
+ - [https://www.mercadolibre.com.pe](https://www.mercadolibre.com.pe)
+ - date_published: 2020-07-20T03:12:14+00:00
+
+ ## Nestlé Perú: nutrición, salud y bienestar | Nestlé
+ - [http://www.nestle.com.pe](http://www.nestle.com.pe)
+ - date_published: 2024-09-14T20:00:06+00:00
+
+ ## Nike Perú Tienda Official
+ - [https://www.nike.com.pe](https://www.nike.com.pe)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Juegos - Sitio oficial de Nintendo
+ - [http://store.nintendo.com.pe](http://store.nintendo.com.pe)
+ - date_published: 2024-06-15T03:44:02.877391+00:00
+
+ ## Escucha Radio Oxígeno EN VIVO: Respiramos Clasicos del Rock & Pop
+ - [https://www.oxigeno.com.pe](https://www.oxigeno.com.pe)
+ - date_published: 2024-09-12T20:49:26.703469+00:00
+
+ ## Palpito - ¡Participa en Encuestas Pagadas Online (Perú)
+ - [https://palpito.com.pe](https://palpito.com.pe)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Cuidado del bebé, embarazo y pañales | Pampers® Perú
+ - [https://www.pampers.com.pe](https://www.pampers.com.pe)
+ - date_published: 2024-10-28T22:55:02+00:00
+
+ ## Productos y consejos para el cuidado del cabello | Pantene
+ - [https://www.pantene.com.pe](https://www.pantene.com.pe)
+ - date_published: 2024-10-17T11:14:32+00:00
+
+ ## PERI Peruana S.A.C., Encofrados, Andamios, Ingeniería
+ - [https://www.peri.com.pe](https://www.peri.com.pe)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Petroperú
+ - [https://www.petroperu.com.pe](https://www.petroperu.com.pe)
+ - date_published: 2024-08-19T07:33:03.784991+00:00
+
+ ## Philips - Peru
+ - [https://www.philips.com.pe](https://www.philips.com.pe)
+ - date_published: 2024-10-30T16:17:48+00:00
+
+ ## PlanetadeLibros
+ - [https://www.planetadelibros.com.pe](https://www.planetadelibros.com.pe)
+ - date_published: 2024-07-11T10:50:11.637205+00:00
+
+ ## Clave Web
+ - [https://claveweb.profuturo.com.pe](https://claveweb.profuturo.com.pe)
+ - date_published: 2024-06-05T15:16:14+00:00
+
+ ## Personas
+ - [https://www.profuturo.com.pe](https://www.profuturo.com.pe)
+ - date_published: 2024-06-16T08:48:42.013084+00:00
+
+ ## Apache2 Debian Default Page: It works
+ - [http://www.radionacional.com.pe](http://www.radionacional.com.pe)
+ - date_published: 2019-10-01T16:38:59+00:00
+
+ ## Delivery de Pedidos y Comida a Domicilio - Rappi Perú
+ - [https://www.rappi.com.pe](https://www.rappi.com.pe)
+ - date_published: 2024-07-01T06:26:29.410822+00:00
+
+ ## Inicio - Banco Santander del Perú
+ - [https://www.santander.com.pe](https://www.santander.com.pe)
+ - date_published: 2024-07-30T15:52:54+00:00
+
+ ## Comunidad Santillana
+ - [https://comunidad.santillana.com.pe](https://comunidad.santillana.com.pe)
+ - date_published: 2024-09-13T10:41:20.019486+00:00
+
+ ## Santillana Digital Login
+ - [https://digital.santillana.com.pe](https://digital.santillana.com.pe)
+ - date_published: 2024-09-13T10:40:58.795239+00:00
+
+ ## SANTILLANA Perú
+ - [https://santillana.com.pe](https://santillana.com.pe)
+ - date_published: 2024-06-12T13:05:09.628118+00:00
+
+ ## Inicio - Santillana Perú
+ - [https://santillanacompartir.com.pe](https://santillanacompartir.com.pe)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Scotiabank - Banca por Internet
+ - [https://mi.scotiabank.com.pe](https://mi.scotiabank.com.pe)
+ - date_published: 2024-09-09T22:26:45+00:00
+
+ ## Scotiabank Perú | Hablemos en serio
+ - [https://www.scotiabank.com.pe](https://www.scotiabank.com.pe)
+ - date_published: 2024-06-16T08:47:48.088402+00:00
+
+ ## Scotia Fondos
+ - [https://www.scotia-inversiones.com.pe](https://www.scotia-inversiones.com.pe)
+ - date_published: 2023-07-19T03:03:47+00:00
+
+ ## Home - Skullcandy
+ - [https://skullcandy.com.pe](https://skullcandy.com.pe)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Sony Perú | Últimas noticias sobre tecnología | Productos electrónicos | Entretenimiento
+ - [http://www.sony.com.pe](http://www.sony.com.pe)
+ - date_published: 2024-10-21T07:38:56.764865+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com.pe](https://www.statkraft.com.pe)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## thefork.com.pe
+ - [https://www.thefork.com.pe](https://www.thefork.com.pe)
+ - date_published: 2024-07-07T10:47:50.289535+00:00
+
+ ## tripadvisor.com.pe
+ - [https://tripadvisor.com.pe](https://tripadvisor.com.pe)
+ - date_published: 2024-05-08T10:34:42.631240+00:00
+
  ## Viru Group – Naturally ahead
  - [https://www.viru.com.pe](https://www.viru.com.pe)
  - date_published: 2024-07-17T07:52:01.779776+00:00
@@ -3671,364 +4031,4 @@
  ## Strona główna podmiotu CENTRUM BADAŃ KOSMICZNYCH PAN
  - [https://cbk_pan.bip.gov.pl](https://cbk_pan.bip.gov.pl)
  - date_published: 2024-10-14T21:27:42.910533+00:00
-
- ## Strona główna podmiotu FILMOTEKA NARODOWA - INSTYTUT AUDIOWIZUALNY
- - [https://fina.bip.gov.pl](https://fina.bip.gov.pl)
- - date_published: 2024-07-20T17:52:42.999440+00:00
-
- ## Strona główna podmiotu POLSKA AGENCJA KOSMICZNA
- - [https://pak.bip.gov.pl](https://pak.bip.gov.pl)
- - date_published: 2024-10-14T21:09:41.374282+00:00
-
- ## Strona główna podmiotu POLSKI FUNDUSZ ROZWOJU SPÓŁKA AKCYJNA
- - [https://pfrsa.bip.gov.pl](https://pfrsa.bip.gov.pl)
- - date_published: 2024-07-17T08:00:31.423328+00:00
-
- ## Strona główna podmiotu BIURO RZECZNIKA MAŁYCH I ŚREDNICH PRZEDSIĘBIORCÓW
- - [http://rzecznikmsp.bip.gov.pl](http://rzecznikmsp.bip.gov.pl)
- - date_published: 2024-07-09T20:14:49.268134+00:00
-
- ## Strona główna podmiotu TEATR NOWY IM.KAZIMIERZA DEJMKA
- - [http://teatr_nowy.bip.gov.pl](http://teatr_nowy.bip.gov.pl)
- - date_published: 2024-06-28T19:22:31.910857+00:00
-
- ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO W KONINIE
- - [https://wordkonin.bip.gov.pl](https://wordkonin.bip.gov.pl)
- - date_published: 2024-05-11T08:18:35.715422+00:00
-
- ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO
- - [https://wordpoznan.bip.gov.pl](https://wordpoznan.bip.gov.pl)
- - date_published: 2024-05-11T08:18:17.908592+00:00
-
- ## Strona główna podmiotu WYŻSZA SZKOŁA BIZNESU-NATIONAL -LOUIS UNIVERSITY Z SIEDZIBĄ W NOWYM SĄCZU
- - [https://wsb-nlu.bip.gov.pl](https://wsb-nlu.bip.gov.pl)
- - date_published: 2024-07-09T13:23:43.623567+00:00
-
- ## BIP: Strona główna
- - [https://www.bip.gov.pl](https://www.bip.gov.pl)
- - date_published: 2024-07-13T19:10:27.210116+00:00
-
- ## Strona główna
- - [https://www.biznes.gov.pl](https://www.biznes.gov.pl)
- - date_published: 2024-07-14T21:34:41.871970+00:00
-
- ## Boxoffice PISF
- - [https://boxoffice.gov.pl](https://boxoffice.gov.pl)
- - date_published: 2024-07-02T22:31:30.197814+00:00
-
- ## Strona główna | Rzecznik Praw Dziecka
- - [http://bip.brpd.gov.pl](http://bip.brpd.gov.pl)
- - date_published: 2024-07-09T20:14:40.966726+00:00
-
- ## Start2
- - [https://brpd.gov.pl](https://brpd.gov.pl)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Czat dla dzieci i młodzieży - Rzecznika Praw Dziecka
- - [https://czat.brpd.gov.pl](https://czat.brpd.gov.pl)
- - date_published: 2022-03-02T07:39:32+00:00
-
- ## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
- - [https://bip.brpo.gov.pl](https://bip.brpo.gov.pl)
- - date_published: 2024-03-11T15:16:36.629145+00:00
-
- ## Logowanie | Ceidg.gov.pl - Centralna Ewidencja i Informacja o Działalności Gospodarczej
- - [https://prod.ceidg.gov.pl](https://prod.ceidg.gov.pl)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Strona główna | Portal Informacyjny Centralnej Ewidencji Pojazdów i Kierowców
- - [http://www.cepik.gov.pl](http://www.cepik.gov.pl)
- - date_published: 2024-09-13T17:56:10.742608+00:00
-
- ## Centrum e-Zdrowia
- - [https://cez.gov.pl](https://cez.gov.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## CSIRT GOV
- - [https://csirt.gov.pl](https://csirt.gov.pl)
- - date_published: 2024-05-09T06:21:42.701617+00:00
-
- ## Otwarte Dane
- - [https://dane.gov.pl](https://dane.gov.pl)
- - date_published: 2024-05-29T08:33:21.785897+00:00
- - tags: ['open data']
-
- ## Przewodnik prawny dla polskiej rodziny za granicą - BRPD MSZ
- - [https://dziecizagranica.gov.pl](https://dziecizagranica.gov.pl)
- - date_published: 2024-07-06T08:33:53+00:00
-
- ## Strona główna
- - [http://dziennikustaw.gov.pl](http://dziennikustaw.gov.pl)
- - date_published: 2024-06-22T09:13:36.282179+00:00
-
- ## ePUAP - Strefa klienta
- - [https://epuap.gov.pl](https://epuap.gov.pl)
- - date_published: 2024-05-11T08:18:34.432317+00:00
-
- ## Europejska Współpraca Terytorialna - Ministerstwo Funduszy i Polityki Regionalnej
- - [http://www.ewt.gov.pl](http://www.ewt.gov.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## ezdrowie.gov.pl
- - [https://ezdrowie.gov.pl](https://ezdrowie.gov.pl)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## FINA strona główna
- - [https://www.fina.gov.pl](https://www.fina.gov.pl)
- - date_published: 2024-07-20T17:53:00.350327+00:00
-
- ## Portal Funduszy Europejskich - Ministerstwo Funduszy i Polityki Regionalnej
- - [https://www.funduszeeuropejskie.gov.pl](https://www.funduszeeuropejskie.gov.pl)
- - date_published: 2024-06-25T22:02:15.720880+00:00
-
- ## Fundusz Sprawiedliwości - Ministerstwo Sprawiedliwości - Portal Gov.pl
- - [http://www.funduszsprawiedliwosci.gov.pl](http://www.funduszsprawiedliwosci.gov.pl)
- - date_published: 2024-08-18T12:22:56.259499+00:00
-
- ## Geoportal.gov.pl
- - [http://mapy.geoportal.gov.pl](http://mapy.geoportal.gov.pl)
- - date_published: 2020-06-24T09:23:28+00:00
-
- ## Strona główna
- - [https://www.geoportal.gov.pl](https://www.geoportal.gov.pl)
- - date_published: 2024-07-14T21:34:34.698553+00:00
-
- ## Ocena jakości powietrza - Bieżące dane pomiarowe - GIOŚ
- - [https://powietrze.gios.gov.pl](https://powietrze.gios.gov.pl)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Główny Urząd Miar
- - [https://www.gum.gov.pl](https://www.gum.gov.pl)
- - date_published: 2024-09-13T17:55:02.429848+00:00
-
- ## Instytut Matematyczny Polskiej Akademii Nauk
- - [http://www.impan.gov.pl](http://www.impan.gov.pl)
- - date_published: 2024-06-30T09:14:22.883100+00:00
-
- ## internet.gov.pl
- - [https://internet.gov.pl](https://internet.gov.pl)
- - date_published: 2024-07-17T07:36:50.329034+00:00
-
- ## Instytut Pamięci Narodowej
- - [http://www.ipn.gov.pl](http://www.ipn.gov.pl)
- - date_published: 2024-07-09T07:27:37.295168+00:00
-
- ## Home | Krajowa Agencja Poszanowania Energii | KAPE S.A.
- - [http://www.kape.gov.pl](http://www.kape.gov.pl)
- - date_published: 2024-07-14T05:27:23.945252+00:00
-
- ## Wyszukiwarka E10
- - [https://e10.klimat.gov.pl](https://e10.klimat.gov.pl)
- - date_published: 2024-03-10T15:31:04+00:00
- - tags: ['government']
-
- ## Strona Główna CEBRF
- - [https://cebrf.knf.gov.pl](https://cebrf.knf.gov.pl)
- - date_published: 2024-05-05T18:08:09.495497+00:00
- - tags: ['cybersecurity']
-
- ## Strona Główna CEBRF
- - [https://encyklopediacyberbezpieczenstwa.knf.gov.pl](https://encyklopediacyberbezpieczenstwa.knf.gov.pl)
- - date_published: 2024-06-26T09:20:17+00:00
-
- ## KNF
- - [https://www.knf.gov.pl](https://www.knf.gov.pl)
- - date_published: 2024-09-02T14:18:35.309956+00:00
-
- ## Strona startowa - Europejskie Centrum Konsumenckie
- - [https://konsument.gov.pl](https://konsument.gov.pl)
- - date_published: 2024-07-09T20:15:10.285404+00:00
-
- ## Strona główna - Krajowy Ośrodek Wsparcia Rolnictwa - Portal Gov.pl
- - [https://www.kowr.gov.pl](https://www.kowr.gov.pl)
- - date_published: 2024-09-13T17:53:42.618524+00:00
-
- ## Laptop dla ucznia
- - [https://laptopdlaucznia.gov.pl](https://laptopdlaucznia.gov.pl)
- - date_published: 2024-05-26T17:01:16.126775+00:00
-
- ## Lektury.gov.pl
- - [https://lektury.gov.pl](https://lektury.gov.pl)
- - date_published: 2024-05-26T17:01:14.032364+00:00
-
- ## Łukasiewicz - Poznański Instytut Technologiczny to multidyscyplinarna jednostka naukowo-badawcza o międzynarodowej skali działania.
- - [https://pit.lukasiewicz.gov.pl](https://pit.lukasiewicz.gov.pl)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Ministerstwo Cyfryzacji - Portal Gov.pl
- - [http://www.mac.gov.pl](http://www.mac.gov.pl)
- - date_published: 2024-07-12T19:00:10.807306+00:00
-
- ## Ministerstwo Cyfryzacji - Portal Gov.pl
- - [https://mc.gov.pl](https://mc.gov.pl)
- - date_published: 2024-07-13T19:11:48.560506+00:00
-
- ## Ministerstwo Edukacji Narodowej - Portal Gov.pl
- - [http://www.men.gov.pl](http://www.men.gov.pl)
- - date_published: 2024-07-09T07:27:48.495848+00:00
-
- ## podatki.gov.pl
- - [http://www.finanse.mf.gov.pl](http://www.finanse.mf.gov.pl)
- - date_published: 2024-09-13T17:56:09.193928+00:00
-
- ## Ministerstwo Kultury i Dziedzictwa Narodowego - Portal gov.pl
- - [http://mkidn.gov.pl](http://mkidn.gov.pl)
- - date_published: 2024-07-09T07:27:39.508701+00:00
-
- ## mObywatel.gov.pl
- - [https://www.mobywatel.gov.pl](https://www.mobywatel.gov.pl)
- - date_published: 2024-05-15T15:07:40+00:00
-
- ## Portal Gov.pl
- - [https://moj.gov.pl](https://moj.gov.pl)
- - date_published: 2024-07-13T19:11:46.170022+00:00
-
- ## Strona główna
- - [http://monitorpolski.gov.pl](http://monitorpolski.gov.pl)
- - date_published: 2024-06-22T09:13:34.673808+00:00
-
- ## EUKW - strona główna
- - [https://ekw.ms.gov.pl](https://ekw.ms.gov.pl)
- - date_published: 2024-09-13T17:56:11.520482+00:00
-
- ## Dziennik Urzędowy Ministra Zdrowia
- - [http://dziennikmz.mz.gov.pl](http://dziennikmz.mz.gov.pl)
- - date_published: 2024-07-14T21:34:33.264329+00:00
-
- ## Mapy potrzeb zdrowotnych – Ministerstwo Zdrowia – MPZ
- - [https://mpz.mz.gov.pl](https://mpz.mz.gov.pl)
- - date_published: 2024-07-14T21:34:40.100763+00:00
-
- ## Ministerstwo Zdrowia - Portal Gov.pl
- - [https://mz.gov.pl](https://mz.gov.pl)
- - date_published: 2024-05-12T04:01:45.153248+00:00
-
- ## Ministerstwo Zdrowia
- - [http://www.archiwum.mz.gov.pl](http://www.archiwum.mz.gov.pl)
- - date_published: 2024-07-14T21:34:32.254911+00:00
-
- ## Ministerstwo Zdrowia
- - [http://www.bip.mz.gov.pl](http://www.bip.mz.gov.pl)
- - date_published: 2024-07-14T21:34:36.297445+00:00
-
- ## NAC | Narodowe Archiwum Cyfrowe
- - [http://www.nac.gov.pl](http://www.nac.gov.pl)
- - date_published: 2024-07-09T07:27:44.808128+00:00
-
- ## Narodowa Agencja Wymiany Akademickiej - Stypendia dla studentów z polski i zagranicy, programy i wymiany naukowe - NAWA
- - [https://nawa.gov.pl](https://nawa.gov.pl)
- - date_published: 2024-06-26T21:36:28+00:00
-
- ## Strona główna Narodowego Centrum Badań i Rozwoju - Narodowe Centrum Badań i Rozwoju - Portal Gov.pl
- - [https://www.ncbr.gov.pl](https://www.ncbr.gov.pl)
- - date_published: 2024-06-25T22:02:16.795391+00:00
-
- ## Strona główna | Narodowe Centrum Nauki
- - [https://www.ncn.gov.pl](https://www.ncn.gov.pl)
- - date_published: 2024-09-13T17:55:01.484867+00:00
-
- ## Akademia NFZ - Serwis Narodowego Funduszu Zdrowia
- - [https://akademia.nfz.gov.pl](https://akademia.nfz.gov.pl)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## aplikacje.nfz.gov.pl
- - [https://aplikacje.nfz.gov.pl](https://aplikacje.nfz.gov.pl)
- - date_published: 2022-03-24T12:32:39+00:00
-
- ## Oficjalny portal Narodowego Funduszu Zdrowia - Serwis Narodowego Funduszu Zdrowia
- - [https://diety.nfz.gov.pl](https://diety.nfz.gov.pl)
- - date_published: 2024-05-29T08:33:29.696492+00:00
-
- ## Koordynowana Opieka Zdrowotna
- - [https://koordynowana.nfz.gov.pl](https://koordynowana.nfz.gov.pl)
- - date_published: 2024-07-14T21:35:00.571385+00:00
-
- ## NFZ Moje Fizjo+
- - [https://mojefizjo.nfz.gov.pl](https://mojefizjo.nfz.gov.pl)
- - date_published: 2022-04-07T11:30:46+00:00
-
- ## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
- - [https://nfz.gov.pl](https://nfz.gov.pl)
- - date_published: 2024-05-12T04:01:41.515185+00:00
- - tags: ['healthcare', 'government']
-
- ## Statystyka NFZ - Start
- - [https://statystyki.nfz.gov.pl](https://statystyki.nfz.gov.pl)
- - date_published: 2024-09-02T17:26:34.709566+00:00
-
- ## Informator o Terminach Leczenia Index
- - [https://terminyleczenia.nfz.gov.pl](https://terminyleczenia.nfz.gov.pl)
- - date_published: 2024-09-02T17:26:25.615519+00:00
-
- ## Najwyższa Izba Kontroli
- - [https://nik.gov.pl](https://nik.gov.pl)
- - date_published: 2023-11-16T16:54:09.383687+00:00
-
- ## FINA strona główna
- - [https://nina.gov.pl](https://nina.gov.pl)
- - date_published: 2024-05-21T03:04:50.101497+00:00
-
- ## Strona główna - Narodowy Instytut Wolności
- - [https://niw.gov.pl](https://niw.gov.pl)
- - date_published: 2021-03-27T07:35:03+00:00
-
- ## OBYWATEL.GOV.PL - Informacje i usługi przyjazne obywatelom | obywatel.gov.pl
- - [https://obywatel.gov.pl](https://obywatel.gov.pl)
- - date_published: 2024-05-29T08:33:34.806119+00:00
-
- ## OSE - Ogólnopolska Sieć Edukacyjna
- - [https://ose.gov.pl](https://ose.gov.pl)
- - date_published: 2024-05-26T17:01:11.556553+00:00
-
- ## Strona główna | Pacjent
- - [https://pacjent.gov.pl](https://pacjent.gov.pl)
- - date_published: 2024-05-12T04:01:48.009966+00:00
-
- ## Strona główna
- - [https://www.paih.gov.pl](https://www.paih.gov.pl)
- - date_published: 2024-07-14T05:24:43.367244+00:00
-
- ## Strona główna - PARP - Centrum Rozwoju MŚP
- - [https://www.parp.gov.pl](https://www.parp.gov.pl)
- - date_published: 2024-06-25T18:35:58+00:00
-
- ## podatki.gov.pl
- - [https://www.podatki.gov.pl](https://www.podatki.gov.pl)
- - date_published: 2024-10-12T12:24:44.921827+00:00
-
- ## Infrastruktura i Środowisko - Ministerstwo Funduszy i Polityki Regionalnej
- - [https://www.pois.gov.pl](https://www.pois.gov.pl)
- - date_published: 2024-10-25T10:22:47.401529+00:00
-
- ## Centralne Biuro Zwalczania Cyberprzestępczości
- - [https://cbzc.policja.gov.pl](https://cbzc.policja.gov.pl)
- - date_published: 2024-09-15T19:19:51.204168+00:00
-
- ## MAPA - POLSA - Mapa infrastruktury
- - [https://mapainfrastruktury.polsa.gov.pl](https://mapainfrastruktury.polsa.gov.pl)
- - date_published: 2021-11-16T11:39:03+00:00
-
- ## Platforma NSIS
- - [https://nsisplatforma.polsa.gov.pl](https://nsisplatforma.polsa.gov.pl)
- - date_published: 2024-10-04T07:52:50+00:00
-
- ## Polska Agencja Kosmiczna (POLSA)
- - [https://polsa.gov.pl](https://polsa.gov.pl)
- - date_published: 2021-10-09T07:09:53+00:00
-
- ## #PomagamUkrainie
- - [https://pomagamukrainie.gov.pl](https://pomagamukrainie.gov.pl)
- - date_published: 2023-03-15T10:40:20+00:00
-
- ## Wiedza Edukacja Rozwój - Ministerstwo Funduszy i Polityki Regionalnej
- - [http://www.power.gov.pl](http://www.power.gov.pl)
- - date_published: 2024-07-13T19:04:55.960252+00:00
-
- ## Strona główna | WORTAL
- - [https://wupkrakow.praca.gov.pl](https://wupkrakow.praca.gov.pl)
- - date_published: 2024-07-09T13:23:47.132733+00:00
-
- ## Strona główna | WORTAL
- - [http://wuppoznan.praca.gov.pl](http://wuppoznan.praca.gov.pl)
- - date_published: 2024-07-13T19:04:39.587956+00:00
 

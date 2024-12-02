@@ -1,3 +1,236 @@
+ ## Smart Girls love SciFi
+ - [https://smartgirlslovesfr.com](https://smartgirlslovesfr.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Coconino County Public Portal
+ - [https://co-coconino-az.smartgovcommunity.com](https://co-coconino-az.smartgovcommunity.com)
+ - date_published: 2024-07-09T22:48:29.466350+00:00
+
+ ## Smart Grow Pros
+ - [https://smartgrowpros.com](https://smartgrowpros.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Smart Growth For Conservatives
+ - [http://www.smartgrowthforconservatives.com](http://www.smartgrowthforconservatives.com)
+ - date_published: 2024-06-28T13:14:14.716852+00:00
+
+ ## Business Networking | Local City Directory and Referral Network
+ - [https://smartguy.com](https://smartguy.com)
+ - date_published: 2024-05-07T13:29:31.534489+00:00
+
+ ## SmartHomeBeginner.com
+ - [https://smarthomebeginner.com](https://smarthomebeginner.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home - Smart Home Pursuits
+ - [https://smarthomepursuits.com](https://smarthomepursuits.com)
+ - date_published: 2023-10-25T17:07:07.612588+00:00
+ - tags: ['smart home']
+
+ ## SmartHomeScene - Be Smart, Go Local!
+ - [https://smarthomescene.com](https://smarthomescene.com)
+ - date_published: 2024-04-29T03:19:46.603012+00:00
+
+ ## SmartiPi - Super cool Raspberry Pi cases
+ - [https://smarticase.com](https://smarticase.com)
+ - date_published: 2024-06-15T16:29:09.922717+00:00
+
+ ## Home - Smarties®
+ - [http://www.smarties.com](http://www.smarties.com)
+ - date_published: 2024-10-21T05:21:17.396524+00:00
+
+ ## Smart Image Denoiser - image denoise, noise reduction
+ - [https://smartimagedenoiser.com](https://smartimagedenoiser.com)
+ - date_published: 2023-12-28T16:22:30+00:00
+
+ ## Smart In Media AG – The Pathologists' Company
+ - [https://www.smartinmedia.com](https://www.smartinmedia.com)
+ - date_published: 2024-06-18T23:57:57.985754+00:00
+
+ ## Smart Insiders specializing in trips and event planning
+ - [http://www.smartinsiders.com](http://www.smartinsiders.com)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Digital marketing strategy advice - Smart Insights Digital Marketing
+ - [https://smartinsights.com](https://smartinsights.com)
+ - date_published: 2024-04-29T07:04:23.751319+00:00
+
+ ## Smart Interface Design Patterns (35 lessons + live UX training) — 100 Smart Interface Design Patterns & Live Examples. 10h Video + UX Training.
+ - [https://smart-interface-design-patterns.com](https://smart-interface-design-patterns.com)
+ - date_published: 2024-07-20T21:47:33.262138+00:00
+
+ ## Home - Tech Tools for Teachers Podcast
+ - [https://smartinwi.com](https://smartinwi.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Smart IOPS | Our goal is to deliver the storage and networking platform for the modern datacenter and redefine your expectations of what is achievable when TruRandom is at work!
+ - [https://smartiops.com](https://smartiops.com)
+ - date_published: 2024-09-28T06:36:36+00:00
+
+ ## Smartjobboard Help Center
+ - [https://help.smartjobboard.com](https://help.smartjobboard.com)
+ - date_published: 2024-10-31T14:44:42.223931+00:00
+
+ ## Job board software by Smartjobboard
+ - [http://www.smartjobboard.com](http://www.smartjobboard.com)
+ - date_published: 2024-06-20T01:11:57.233789+00:00
+
+ ## Home | smartless
+ - [https://www.smartless.com](https://www.smartless.com)
+ - date_published: 2024-07-02T18:18:54.214408+00:00
+
+ ## 语言翻译和内容本地化解决方案 - Smartling
+ - [https://cn.smartling.com](https://cn.smartling.com)
+ - date_published: 2024-10-30T11:30:32.912543+00:00
+
+ ## Übersetzungs- und Lokalisierungslösungen – Smartling
+ - [https://de.smartling.com](https://de.smartling.com)
+ - date_published: 2024-10-30T11:30:26.626715+00:00
+
+ ## Løsninger til oversættelse og lokalisering af indhold – Smartling
+ - [https://dk.smartling.com](https://dk.smartling.com)
+ - date_published: 2024-10-30T11:30:30.735056+00:00
+
+ ## Soluciones de traducción de idiomas y localización de contenido - Smartling
+ - [https://es-mx.smartling.com](https://es-mx.smartling.com)
+ - date_published: 2024-10-30T11:30:37.863545+00:00
+
+ ## Soluciones de traducción de idiomas y localización de contenido - Smartling
+ - [https://es.smartling.com](https://es.smartling.com)
+ - date_published: 2024-10-30T11:30:22.840604+00:00
+
+ ## Solutions de traduction et de localisation de contenu - Smartling
+ - [https://fr-ca.smartling.com](https://fr-ca.smartling.com)
+ - date_published: 2024-10-30T11:30:35.678419+00:00
+
+ ## Solutions de traduction et de localisation de contenu - Smartling
+ - [https://fr.smartling.com](https://fr.smartling.com)
+ - date_published: 2024-10-30T11:30:39.922213+00:00
+
+ ## Soluzioni di traduzione e localizzazione dei contenuti - Smartling
+ - [https://it.smartling.com](https://it.smartling.com)
+ - date_published: 2024-10-30T11:30:42.354490+00:00
+
+ ## Oplossingen voor vertaling en contentlokalisatie - Smartling
+ - [https://nl.smartling.com](https://nl.smartling.com)
+ - date_published: 2024-10-30T11:30:19.042541+00:00
+
+ ## Soluções de tradução de idiomas e localização de conteúdo — Smartling
+ - [https://pt.smartling.com](https://pt.smartling.com)
+ - date_published: 2024-10-30T11:30:20.911794+00:00
+
+ ## Lösningar för översättning och innehållslokalisering – Smartling
+ - [https://se.smartling.com](https://se.smartling.com)
+ - date_published: 2024-10-30T11:30:16.090270+00:00
+
+ ## Language Translation and Content Localization Solutions - Smartling
+ - [https://smartling.com](https://smartling.com)
+ - date_published: 2024-10-30T11:30:14.015052+00:00
+
+ ## Smartling Status
+ - [https://status.smartling.com](https://status.smartling.com)
+ - date_published: 2024-10-30T11:30:24.679188+00:00
+
+ ## Home – SmartLocus
+ - [http://www.smartlocus.com](http://www.smartlocus.com)
+ - date_published: 2024-08-18T05:07:28.623585+00:00
+
+ ## Free Session Replay Tool with Web, Mobile, & App Recordings | Smartlook
+ - [https://app.smartlook.com](https://app.smartlook.com)
+ - date_published: 2022-04-19T00:00:00+00:00
+
+ ## Getting started with Smartlook
+ - [https://help.smartlook.com](https://help.smartlook.com)
+ - date_published: 2024-09-18T18:45:46.544814+00:00
+
+ ## Integrating Smartlook
+ - [https://integrations.smartlook.com](https://integrations.smartlook.com)
+ - date_published: 2024-09-18T18:45:51.322928+00:00
+
+ ## Smartlook Help Center
+ - [https://kb.smartlook.com](https://kb.smartlook.com)
+ - date_published: 2024-08-27T07:52:10+00:00
+
+ ## Smartlook: Product analytics & visual user insights
+ - [https://www.smartlook.com](https://www.smartlook.com)
+ - date_published: 2024-06-15T17:31:00.368841+00:00
+
+ ## Smartly Dressed Games Blog
+ - [https://blog.smartlydressedgames.com](https://blog.smartlydressedgames.com)
+ - date_published: 2024-10-24T03:14:51+00:00
+
+ ## SDG Forum
+ - [https://forum.smartlydressedgames.com](https://forum.smartlydressedgames.com)
+ - date_published: 2024-10-25T10:52:39.257257+00:00
+
+ ## Smartly Dressed Games
+ - [https://smartlydressedgames.com](https://smartlydressedgames.com)
+ - date_published: 2024-08-08T17:08:58+00:00
+
+ ## Unturned Wiki
+ - [https://wiki.smartlydressedgames.com](https://wiki.smartlydressedgames.com)
+ - date_published: 2024-09-26T15:53:37+00:00
+
+ ## Home - Smartly
+ - [https://www.smartlytechs.com](https://www.smartlytechs.com)
+ - date_published: 2021-11-07T00:00:00+00:00
+
+ ## SMART Global Holdings - Investor Relations
+ - [https://ir.smartm.com](https://ir.smartm.com)
+ - date_published: 2024-07-04T16:17:51.979875+00:00
+
+ ## SMART Modular | Industrial DRAM Module | Industrial Flash Product | Industrial RUGGED SSDs
+ - [https://www.smartm.com](https://www.smartm.com)
+ - date_published: 2024-07-04T16:17:37.789862+00:00
+
+ ## Smartman Apps
+ - [https://smartmanapps.com](https://smartmanapps.com)
+ - date_published: 2023-07-10T08:27:54+00:00
+
+ ## Smart Manufacturing Experience
+ - [https://smartmanufacturingexperience.com](https://smartmanufacturingexperience.com)
+ - date_published: 2024-09-13T19:39:27.841375+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.smartmarketingbiz.com](https://www.smartmarketingbiz.com)
+ - date_published: 2024-07-09T22:58:49.100196+00:00
+
+ ## Home | Smartme Analytics
+ - [https://www.smartmeanalytics.com](https://www.smartmeanalytics.com)
+ - date_published: 2024-05-06T18:03:52.138578+00:00
+
+ ## Home - Smart Media Cutter
+ - [https://smartmediacutter.com](https://smartmediacutter.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Smart Memphis Fiber | Initiative
+ - [https://www.smartmemphisfiber.com](https://www.smartmemphisfiber.com)
+ - date_published: 2024-09-16T01:45:55.169130+00:00
+
+ ## About - Smart Mobile Studio
+ - [http://smartmobilestudio.com](http://smartmobilestudio.com)
+ - date_published: 2018-07-20T00:00:00+00:00
+
+ ## Gadget Headlines
+ - [http://smartmobs.com](http://smartmobs.com)
+ - date_published: 2024-08-18T17:59:49.823601+00:00
+
+ ## Smart Money Home Page
+ - [https://www.smartmoney.com](https://www.smartmoney.com)
+ - date_published: 2024-06-20T03:45:59.905420+00:00
+
+ ## Financial Reviews: Banking, Insurance & more - Smart Money People
+ - [https://smartmoneypeople.com](https://smartmoneypeople.com)
+ - date_published: 2024-05-06T16:46:04.016702+00:00
+
+ ## SmartMore
+ - [https://www.smartmore.com](https://www.smartmore.com)
+ - date_published: 2024-08-07T16:12:52.603152+00:00
+
+ ## Login | MakeMusic Cloud
+ - [https://admin.smartmusic.com](https://admin.smartmusic.com)
+ - date_published: 2024-07-15T06:04:57.482526+00:00
+
  ## Power Your Potential with MakeMusic Cloud - MakeMusic
  - [http://www.smartmusic.com](http://www.smartmusic.com)
  - date_published: 2024-08-09T00:00:00+00:00
@@ -3790,239 +4023,4 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## SoftSynth - music and computers
  - [http://www.softsynth.com](http://www.softsynth.com)
  - date_published: 2024-10-16T08:17:03.146073+00:00
-
- ## This domain may be for sale
- - [http://www.softtargets.com](http://www.softtargets.com)
- - date_published: 2024-07-04T14:34:48.463911+00:00
-
- ## Music production software and hardware | Softube
- - [https://www.softube.com](https://www.softube.com)
- - date_published: 2024-09-02T12:50:29.353779+00:00
-
- ## Software | Log in
- - [https://app.software.com](https://app.software.com)
- - date_published: 2024-06-23T06:32:23.096327+00:00
-
- ## Software.com Changelog
- - [https://changelog.software.com](https://changelog.software.com)
- - date_published: 2024-06-23T06:32:19.868159+00:00
-
- ## software.com status
- - [https://status.software.com](https://status.software.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Software.com | Automated development KPIs to improve productivity
- - [https://www.software.com](https://www.software.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Software Acumen - UK Events for Software Professionals
- - [https://www.software-acumen.com](https://www.software-acumen.com)
- - date_published: 2024-06-22T09:14:13.032665+00:00
-
- ## Business Software Reviews from Software Advice®
- - [https://softwareadvice.com](https://softwareadvice.com)
- - date_published: 2024-04-27T07:12:15.072704+00:00
-
- ## Software AG Blog Homepage - Software AG
- - [https://blog.softwareag.com](https://blog.softwareag.com)
- - date_published: 2024-06-16T18:19:59+00:00
-
- ## Software AG Developer Center
- - [https://developer.softwareag.com](https://developer.softwareag.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Software AG Product Documentation
- - [https://documentation.softwareag.com](https://documentation.softwareag.com)
- - date_published: 2024-10-14T10:05:24.260097+00:00
-
- ## Software AG User Groups
- - [https://groups.softwareag.com](https://groups.softwareag.com)
- - date_published: 2024-10-14T10:03:59.007372+00:00
-
- ## Digital Transformation Solutions & Services | Software AG
- - [https://info.softwareag.com](https://info.softwareag.com)
- - date_published: 2024-06-14T13:05:06+00:00
-
- ## Software AG Investor Relations
- - [https://investors.softwareag.com](https://investors.softwareag.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Software AG LP: Public Dashboard
- - [https://learn.softwareag.com](https://learn.softwareag.com)
- - date_published: 2024-06-16T20:21:51.725666+00:00
-
- ## News Center | Software AG
- - [https://newscenter.softwareag.com](https://newscenter.softwareag.com)
- - date_published: 2024-06-04T14:02:32+00:00
-
- ## Access rights validated
- - [https://partnerhub.softwareag.com](https://partnerhub.softwareag.com)
- - date_published: 2024-06-16T20:21:23.998985+00:00
-
- ## Access rights validated
- - [https://prm.softwareag.com](https://prm.softwareag.com)
- - date_published: 2024-06-16T20:21:57.033806+00:00
-
- ## Digital Transformation Solutions & Services | Software AG
- - [https://search.softwareag.com](https://search.softwareag.com)
- - date_published: 2024-06-14T13:05:21+00:00
-
- ## Digital Transformation Solutions & Services | Software AG
- - [https://softwareag.com](https://softwareag.com)
- - date_published: 2024-10-14T09:33:13+00:00
-
- ## Software AG Technology Community
- - [https://techcommunity.softwareag.com](https://techcommunity.softwareag.com)
- - date_published: 2024-05-28T11:47:27+00:00
-
- ## Software AG Tech Community & Forums
- - [https://tech.forums.softwareag.com](https://tech.forums.softwareag.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Software Amusements
- - [https://softwareamusements.com](https://softwareamusements.com)
- - date_published: 2023-12-11T18:40:38.037619+00:00
-
- ## Software Architecture Camp with iSAQB certification
- - [https://software-architecture-camp.com](https://software-architecture-camp.com)
- - date_published: 2024-09-18T17:38:57+00:00
-
- ## Software Architecture Insights | Welcome to Software Architecture Insights
- - [https://softwarearchitectureinsights.com](https://softwarearchitectureinsights.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Software Architecture Summit 2024 | Berlin
- - [http://software-architecture-summit.com](http://software-architecture-summit.com)
- - date_published: 2024-06-15T16:43:52+00:00
-
- ## Home
- - [https://softwareas.com](https://softwareas.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Software Citadel
- - [https://softwarecitadel.com](https://softwarecitadel.com)
- - date_published: 2024-07-10T14:45:00.113317+00:00
- - tags: ['open source']
-
- ## Spy apps for Android
- - [http://softwarecocktail.com](http://softwarecocktail.com)
- - date_published: 2018-04-16T08:59:06+00:00
-
- ## Software Crafts Podcast
- - [https://www.softwarecraftspodcast.com](https://www.softwarecraftspodcast.com)
- - date_published: 2024-08-17T23:51:55.693211+00:00
-
- ## Posts
- - [https://blog.softwarecurmudgeon.com](https://blog.softwarecurmudgeon.com)
- - date_published: 2022-12-07T00:00:00+00:00
-
- ## Software Defined Interviews
- - [https://www.softwaredefinedinterviews.com](https://www.softwaredefinedinterviews.com)
- - date_published: 2022-08-19T16:45:27+00:00
-
- ## Software Defined Talk
- - [http://softwaredefinedtalk.com](http://softwaredefinedtalk.com)
- - date_published: 2024-06-21T07:45:03+00:00
-
- ## Top Software Development Companies (2024)
- - [https://software-development-company.com](https://software-development-company.com)
- - date_published: 2024-10-29T14:16:28+00:00
-
- ## Doug Turnbull's Blog
- - [https://softwaredoug.com](https://softwaredoug.com)
- - date_published: 2023-10-25T17:07:36.413404+00:00
-
- ## Software Engineering Daily
- - [https://softwareengineeringdaily.com](https://softwareengineeringdaily.com)
- - date_published: 2024-05-01T02:58:15.975738+00:00
-
- ## Software Engineering Handbook
- - [https://softwareengineeringhandbook.com](https://softwareengineeringhandbook.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Your favorite Software Engineering Podcast
- - [https://www.software-engineering-unlocked.com](https://www.software-engineering-unlocked.com)
- - date_published: 2024-05-01T07:46:04.720718+00:00
-
- ## SoftwareFromPeter
- - [https://softwarefrompeter.com](https://softwarefrompeter.com)
- - date_published: 2024-06-22T11:10:18+00:00
-
- ## Software Garden, Inc. Website
- - [https://softwaregarden.com](https://softwaregarden.com)
- - date_published: 2010-05-03T03:15:53+00:00
-
- ## SoftwareHow: Small Software Apps That Make Big Impact
- - [https://softwarehow.com](https://softwarehow.com)
- - date_published: 2023-12-19T22:40:53+00:00
-
- ## Single Source of Truth for Software Quality | SIG
- - [https://www.softwareimprovementgroup.com](https://www.softwareimprovementgroup.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Software is hard | More musings on software development
- - [http://www.softwareishard.com](http://www.softwareishard.com)
- - date_published: 2024-06-29T06:02:13.503012+00:00
-
- ## Juan Carlos Sánchez Calle
- - [https://softwarejuancarlos.com](https://softwarejuancarlos.com)
- - date_published: 2024-05-01T03:56:05.925264+00:00
- - tags: ['personal']
-
- ## Software Lead Weekly
- - [https://softwareleadweekly.com](https://softwareleadweekly.com)
- - date_published: 2024-05-06T13:46:40.567798+00:00
-
- ## Musings about software
- - [https://softwaremaxims.com](https://softwaremaxims.com)
- - date_published: 2024-04-01T00:00:00+00:00
- - tags: ['personal']
-
- ## SoftwareMill Tech Blog
- - [https://blog.softwaremill.com](https://blog.softwaremill.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Our Handbook for New Employees | SoftwareMill
- - [http://handbook.softwaremill.com](http://handbook.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Start with Apache Kafka - download ebook!
- - [https://kafka.softwaremill.com](https://kafka.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Softwaremill Handbook Assistant Demo
- - [https://llm-demo.softwaremill.com](https://llm-demo.softwaremill.com)
- - date_published: 2024-07-11T07:36:17+00:00
-
- ## Remote Software Development Ebook | SoftwareMill
- - [https://remotework.softwaremill.com](https://remotework.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SoftwareMill - proactively transforming your business with technology
- - [https://softwaremill.com](https://softwaremill.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## tapir — tapir 1.x documentation
- - [https://tapir.softwaremill.com](https://tapir.softwaremill.com)
- - date_published: 2024-06-20T12:13:56+00:00
-
- ## Software for professionals and beginners
- - [https://softwareok.com](https://softwareok.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## SoftwareOne Client Portal
- - [https://client.softwareone.com](https://client.softwareone.com)
- - date_published: 2024-08-28T14:05:02+00:00
-
- ## SoftwareOne napędza cyfrową transformację.
- - [https://info.softwareone.com](https://info.softwareone.com)
- - date_published: 2024-09-16T03:05:57.445149+00:00
-
- ## SoftwareOne napędza cyfrową transformację.
- - [https://softwareone.com](https://softwareone.com)
- - date_published: 2024-06-15T03:45:04.233294+00:00
-
- ## Software Path | Compare Software for Your Business
- - [https://softwarepath.com](https://softwarepath.com)
- - date_published: 2024-06-27T02:30:06.462079+00:00
 

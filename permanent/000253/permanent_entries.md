@@ -1,3 +1,277 @@
+ ## Beautiful Wrld
+ - [https://koan39.dev](https://koan39.dev)
+ - date_published: 2024-11-19T10:22:59.479544+00:00
+ - tags: ['personal']
+
+ ## Tom.K
+ - [https://tom.kobalt.dev](https://tom.kobalt.dev)
+ - date_published: 2024-06-20T21:56:01.626084+00:00
+
+ ## koch.dev
+ - [https://koch.dev](https://koch.dev)
+ - date_published: 2024-04-29T07:56:14.627737+00:00
+
+ ## chshersh aka Dmitrii Kovanikov
+ - [http://kodimensional.dev](http://kodimensional.dev)
+ - date_published: 2023-10-25T18:38:58.685350+00:00
+
+ ## kodimensional.dev
+ - [http://ww12.kodimensional.dev](http://ww12.kodimensional.dev)
+ - date_published: 2024-08-19T03:54:33.665897+00:00
+
+ ## Koel
+ - [https://demo.koel.dev](https://demo.koel.dev)
+ - date_published: 2024-06-19T22:24:43.920040+00:00
+
+ ## What Is Koel? | koel
+ - [https://docs.koel.dev](https://docs.koel.dev)
+ - date_published: 2024-10-31T05:50:13.369872+00:00
+
+ ## koel
+ - [https://koel.dev](https://koel.dev)
+ - date_published: 2024-06-19T22:28:20.709246+00:00
+
+ ## crypticat
+ - [https://c.kognise.dev](https://c.kognise.dev)
+ - date_published: 2024-06-24T03:36:02.024674+00:00
+
+ ## Color-it
+ - [https://coit.kognise.dev](https://coit.kognise.dev)
+ - date_published: 2024-06-24T03:36:38.272684+00:00
+
+ ## S1 Dashboard
+ - [https://dash.s1.kognise.dev](https://dash.s1.kognise.dev)
+ - date_published: 2024-06-24T03:36:37.708668+00:00
+
+ ## FontKey
+ - [https://fontkey.kognise.dev](https://fontkey.kognise.dev)
+ - date_published: 2024-06-24T03:35:55.489184+00:00
+
+ ## Flight Plan Converter
+ - [https://fpc.kognise.dev](https://fpc.kognise.dev)
+ - date_published: 2024-06-24T03:35:49.395217+00:00
+
+ ## Kognise
+ - [https://kognise.dev](https://kognise.dev)
+ - date_published: 2024-05-06T16:02:14.613415+00:00
+
+ ## Files within /
+ - [https://media.kognise.dev](https://media.kognise.dev)
+ - date_published: 2024-06-24T03:35:59.433483+00:00
+
+ ## Notes
+ - [https://notes.kognise.dev](https://notes.kognise.dev)
+ - date_published: 2024-06-24T03:35:54.633000+00:00
+
+ ## Water.css
+ - [https://watercss.kognise.dev](https://watercss.kognise.dev)
+ - date_published: 2024-05-06T14:02:30.229805+00:00
+
+ ## Gitea
+ - [https://kolaente.dev](https://kolaente.dev)
+ - date_published: 2024-04-08T19:29:17.559682+00:00
+ - tags: ['self-host', 'git']
+
+ ## kotatsuyaki’s site
+ - [https://blog.kotatsu.dev](https://blog.kotatsu.dev)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Sign In | KVH Analytics
+ - [https://analytics.kovah.dev](https://analytics.kovah.dev)
+ - date_published: 2024-07-17T23:08:39.995980+00:00
+
+ ## Home | blog.kronis.dev
+ - [https://blog.kronis.dev](https://blog.kronis.dev)
+ - date_published: 2024-06-01T04:57:33.461854+00:00
+ - tags: ['personal']
+
+ ## Hacker News Personal Blogs | About Site
+ - [https://hn-blogs.kronis.dev](https://hn-blogs.kronis.dev)
+ - date_published: 2023-07-17T08:00:16+00:00
+
+ ## Home | kronis.dev
+ - [https://kronis.dev](https://kronis.dev)
+ - date_published: 2024-06-23T19:05:15.544819+00:00
+
+ ## Welcome to my link shortener
+ - [https://links.kronis.dev](https://links.kronis.dev)
+ - date_published: 2022-08-29T10:01:13+00:00
+
+ ## Spotube
+ - [https://spotube.krtirtho.dev](https://spotube.krtirtho.dev)
+ - date_published: 2024-09-02T11:00:01.901394+00:00
+
+ ## Home
+ - [https://kubeapps.dev](https://kubeapps.dev)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Kubernetes Contributors
+ - [https://kubernetes.dev](https://kubernetes.dev)
+ - date_published: 2023-10-25T18:38:59.480703+00:00
+
+ ## Kubero
+ - [https://demo.kubero.dev](https://demo.kubero.dev)
+ - date_published: 2024-08-30T08:13:26+00:00
+
+ ## Quickstart | Kubero Docs
+ - [https://docs.kubero.dev](https://docs.kubero.dev)
+ - date_published: 2024-09-02T10:43:59.648736+00:00
+
+ ## Kubero Kubernetes CI/CD PaaS
+ - [https://www.kubero.dev](https://www.kubero.dev)
+ - date_published: 2024-09-02T10:43:58.349691+00:00
+
+ ## Kubito
+ - [https://kubito.dev](https://kubito.dev)
+ - date_published: 2024-11-15T21:30:14+00:00
+
+ ## The Twenty Percent
+ - [https://kuenzi.dev](https://kuenzi.dev)
+ - date_published: 2023-10-25T18:39:00.164249+00:00
+
+ ## kulbe dot dev — Portland techie.
+ - [https://kulbe.dev](https://kulbe.dev)
+ - date_published: 2024-06-18T16:15:45.280531+00:00
+ - tags: ['personal']
+
+ ## Plausible · Web analytics
+ - [https://plausible.kulpinski.dev](https://plausible.kulpinski.dev)
+ - date_published: 2024-05-09T05:54:54.325595+00:00
+
+ ## kunat.dev
+ - [https://kunat.dev](https://kunat.dev)
+ - date_published: 2024-06-23T14:49:53.190595+00:00
+
+ ## KUnit — KUnit  documentation
+ - [https://kunit.dev](https://kunit.dev)
+ - date_published: 2024-01-25T07:13:11+00:00
+
+ ## Kusari
+ - [https://www.kusari.dev](https://www.kusari.dev)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Kushagra's World
+ - [https://kushagra.dev](https://kushagra.dev)
+ - date_published: 2024-07-08T15:13:44.842224+00:00
+ - tags: ['personal']
+
+ - [https://kviklet.dev](https://kviklet.dev)
+ - date_published: 2024-03-14T18:39:44.028892+00:00
+
+ ## Kysely | Kysely
+ - [https://kysely.dev](https://kysely.dev)
+ - date_published: 2023-10-25T08:33:04.457103+00:00
+
+ ## @kytta
+ - [https://kytta.dev](https://kytta.dev)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Share₂Fedi, a share page for the Fediverse
+ - [https://s2f.kytta.dev](https://s2f.kytta.dev)
+ - date_published: 2024-04-28T01:59:16.493072+00:00
+
+ ## toot — cross-instance share page for Mastodon
+ - [https://toot.kytta.dev](https://toot.kytta.dev)
+ - date_published: 2024-08-18T09:11:07.198649+00:00
+
+ ## L3-AI: The Level 3 AI Assistant Conference
+ - [https://l3-ai.dev](https://l3-ai.dev)
+ - date_published: 2024-06-22T13:07:28.450319+00:00
+
+ ## LAAC Technology
+ - [https://www.laac.dev](https://www.laac.dev)
+ - date_published: 2023-04-29T00:00:00+00:00
+
+ ## lab2.dev Generative Python App
+ - [https://lab2.dev](https://lab2.dev)
+ - date_published: 2024-10-30T17:44:15.313697+00:00
+
+ ## La Digitale
+ - [https://ladigitale.dev](https://ladigitale.dev)
+ - date_published: 2024-06-19T22:22:04.936253+00:00
+
+ ## The Ladybird browser project
+ - [https://ladybird.dev](https://ladybird.dev)
+ - date_published: 2024-03-07T16:57:29+00:00
+ - tags: ['web browser', 'open source']
+
+ ## Ladybug Podcast
+ - [https://ladybug.dev](https://ladybug.dev)
+ - date_published: 2024-05-06T13:12:13.050171+00:00
+ - tags: ['podcast']
+
+ ## Lagged Developer Dashboard - Reach Millions of Gamers Online
+ - [https://lagged.dev](https://lagged.dev)
+ - date_published: 2024-05-04T11:46:24.117387+00:00
+
+ ## Lagrange
+ - [https://www.lagrange.dev](https://www.lagrange.dev)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Luis Ángel Méndez Gort
+ - [https://lamg.dev](https://lamg.dev)
+ - date_published: 2024-05-26T08:40:25+00:00
+
+ ## Laminar · Simple, expressive, and safe UI library for Scala.js
+ - [https://laminar.dev](https://laminar.dev)
+ - date_published: 2024-05-17T22:25:39+00:00
+
+ ## Laminas Project Community
+ - [https://discourse.laminas.dev](https://discourse.laminas.dev)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Laminas Documentation
+ - [https://docs.laminas.dev](https://docs.laminas.dev)
+ - date_published: 2024-05-12T06:38:45.821865+00:00
+
+ ## Laminas: Components and MVC for Enterprise Applications
+ - [https://laminas.dev](https://laminas.dev)
+ - date_published: 2024-06-18T12:07:06.169344+00:00
+
+ ## Resume of Lance R. Vick
+ - [https://lance.dev](https://lance.dev)
+ - date_published: 2024-04-28T01:58:27.254086+00:00
+
+ ## Lane Sawyer🌹 — Just trying to leave the world a little better...
+ - [https://blog.lanesawyer.dev](https://blog.lanesawyer.dev)
+ - date_published: 2024-06-18T16:13:54.414315+00:00
+
+ ## LangChain Blog
+ - [https://blog.langchain.dev](https://blog.langchain.dev)
+ - date_published: 2023-10-25T18:39:03.545219+00:00
+
+ ## lanius.dev
+ - [https://lanius.dev](https://lanius.dev)
+ - date_published: 2024-05-11T10:09:42.947462+00:00
+
+ ## Lantern
+ - [https://lantern.dev](https://lantern.dev)
+ - date_published: 2024-01-02T20:40:56.829203+00:00
+
+ ## Introduction | Lapdev Docs
+ - [https://docs.lap.dev](https://docs.lap.dev)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Lapdev - Self-Hosted Remote Development Environment
+ - [https://lap.dev](https://lap.dev)
+ - date_published: 2024-05-09T07:43:26.449561+00:00
+
+ ## Introduction | Lapce Docs
+ - [https://docs.lapce.dev](https://docs.lapce.dev)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Lapce
+ - [https://lapce.dev](https://lapce.dev)
+ - date_published: 2024-02-18T17:36:31+00:00
+
+ ## Building Large Scale Web Apps | A React Field Guide
+ - [https://largeapps.dev](https://largeapps.dev)
+ - date_published: 2024-04-27T08:05:09.199772+00:00
+
+ ## Lashatatu Web Developer from Georgia
+ - [https://lashatatu.dev](https://lashatatu.dev)
+ - date_published: 2024-05-11T10:22:50.753638+00:00
+
  ## AIConfig | AIConfig
  - [https://aiconfig.lastmileai.dev](https://aiconfig.lastmileai.dev)
  - date_published: 2024-04-29T07:57:30.786103+00:00
@@ -3807,280 +4081,4 @@
  ## Sarah Dayan
  - [https://sarahdayan.dev](https://sarahdayan.dev)
  - date_published: 2022-08-18T00:00:00+00:00
-
- ## sara j. wallén | Blogolio
- - [https://2022blog.sarajoy.dev](https://2022blog.sarajoy.dev)
- - date_published: 2024-06-22T13:46:22.756912+00:00
-
- ## sara joy w.
- - [https://2022tabs.sarajoy.dev](https://2022tabs.sarajoy.dev)
- - date_published: 2024-06-22T13:46:15.561223+00:00
-
- ## Sara Joy
- - [https://card.sarajoy.dev](https://card.sarajoy.dev)
- - date_published: 2024-06-22T13:46:23.693685+00:00
-
- ## Sara Joy
- - [https://sarajoy.dev](https://sarajoy.dev)
- - date_published: 2024-05-04T14:14:33.787926+00:00
- - tags: ['personal']
-
- ## sarcevic.dev — my website
- - [https://sarcevic.dev](https://sarcevic.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Piotr Sarna
- - [https://bio.sarna.dev](https://bio.sarna.dev)
- - date_published: 2024-05-07T19:07:53.528691+00:00
-
- ## Crate comparator v0.0.42
- - [https://compare-crates.sarna.dev](https://compare-crates.sarna.dev)
- - date_published: 2022-02-24T12:17:23+00:00
-
- ## Sat Naing - A Full-stack Developer
- - [https://satnaing.dev](https://satnaing.dev)
- - date_published: 2024-08-18T02:57:12.889538+00:00
-
- ## Imprints by Saurabh Thakur
- - [https://imprints.saurabhthakur.dev](https://imprints.saurabhthakur.dev)
- - date_published: 2024-05-10T06:26:33.528424+00:00
-
- ## Saurabh Thakur
- - [https://saurabhthakur.dev](https://saurabhthakur.dev)
- - date_published: 2023-11-29T17:09:57.500467+00:00
- - tags: ['personal']
-
- ## Sayak Paul
- - [https://sayak.dev](https://sayak.dev)
- - date_published: 2024-06-21T05:23:51+00:00
-
- ## Scalar - We help you scale
- - [https://www.scalar.dev](https://www.scalar.dev)
- - date_published: 2024-07-11T16:16:54.341555+00:00
-
- ## the scapegoat dev
- - [https://the.scapegoat.dev](https://the.scapegoat.dev)
- - date_published: 2023-10-25T18:41:46.416695+00:00
-
- ## Scarlett Gately Moore – Kubuntu, KDE, Debian, KDE Neon, Ubuntu Snap Developer Blog
- - [https://www.scarlettgatelymoore.dev](https://www.scarlettgatelymoore.dev)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Building Modern Web Apps with React and Next.js
- - [https://learn.scastiel.dev](https://learn.scastiel.dev)
- - date_published: 2024-08-19T03:52:44.124989+00:00
-
- ## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
- - [https://scastiel.dev](https://scastiel.dev)
- - date_published: 2023-10-25T18:41:47.971907+00:00
- - tags: ['personal']
-
- ## SCAYLE Academy
- - [https://academy.scayle.dev](https://academy.scayle.dev)
- - date_published: 2024-09-17T21:45:11.508682+00:00
-
- ## SCAYLE
- - [https://new.scayle.dev](https://new.scayle.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Notes · Boris Schapira
- - [https://boris.schapira.dev](https://boris.schapira.dev)
- - date_published: 2024-06-28T16:03:30.188713+00:00
-
- ## Schedule-X | Material Design Event Calendar
- - [https://premium.schedule-x.dev](https://premium.schedule-x.dev)
- - date_published: 2024-06-05T07:55:42.983133+00:00
-
- ## Schedule-X
- - [https://schedule-x.dev](https://schedule-x.dev)
- - date_published: 2024-01-02T13:33:58.392698+00:00
-
- ## Tobias' blog
- - [https://schmidl.dev](https://schmidl.dev)
- - date_published: 2024-05-09T08:24:45.629313+00:00
-
- ## scnlib: Page Redirection
- - [https://scnlib.dev](https://scnlib.dev)
- - date_published: 2024-06-15T17:09:57+00:00
-
- ## Scorecard: Assess Open Source Project Security
- - [https://scorecard.dev](https://scorecard.dev)
- - date_published: 2024-07-10T17:13:22+00:00
-
- ## Custom Web Design & Development
- - [https://www.scottcarr.dev](https://www.scottcarr.dev)
- - date_published: 2024-07-04T03:28:14.739433+00:00
-
- ## porkbun.com | parked domain
- - [http://scribe.dev](http://scribe.dev)
- - date_published: 2024-07-04T05:38:43.306063+00:00
-
- ## Scriptified
- - [https://scriptified.dev](https://scriptified.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Seán Barry
- - [https://seanbarry.dev](https://seanbarry.dev)
- - date_published: 2023-10-25T18:41:53.898962+00:00
-
- ## Sean Rogers
- - [https://seanrogers.dev](https://seanrogers.dev)
- - date_published: 2024-05-09T08:44:23.938491+00:00
-
- ## Searchbase API Reference
- - [https://docs.searchbase.dev](https://docs.searchbase.dev)
- - date_published: 2024-02-03T00:56:20+00:00
-
- ## Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data
- - [https://searchbase.dev](https://searchbase.dev)
- - date_published: 2024-02-19T04:59:19+00:00
-
- ## listmonk - Mailing list
- - [https://mailings.sebastix.dev](https://mailings.sebastix.dev)
- - date_published: 2024-07-10T07:30:53.989127+00:00
-
- ## sebibasti.dev
- - [https://sebibasti.dev](https://sebibasti.dev)
- - date_published: 2024-05-11T10:23:59.119654+00:00
-
- ## OpenSSF Scorecard
- - [https://api.securityscorecards.dev](https://api.securityscorecards.dev)
- - date_published: 2024-07-07T09:05:53.847595+00:00
-
- ## Home
- - [https://securityscorecards.dev](https://securityscorecards.dev)
- - date_published: 2024-07-07T09:05:50.789379+00:00
-
- ## Home
- - [https://segredo.dev](https://segredo.dev)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Selenium
- - [https://selenium.dev](https://selenium.dev)
- - date_published: 2024-04-30T02:15:06.109583+00:00
- - tags: ['web testing', 'web scraping', 'browser automation']
-
- ## Selenium IDE · Open source record and playback test automation for the web
- - [https://selenium.dev/selenium-ide](https://selenium.dev/selenium-ide)
- - date_published: 2024-11-29T09:09:43+00:00
- - tags: ['open source', 'web scraping']
-
- ## The Self-Improving Developer
- - [https://selfimproving.dev](https://selfimproving.dev)
- - date_published: 2023-01-03T09:04:15+00:00
-
- ## Welcome 👋 | Sematic
- - [https://docs.sematic.dev](https://docs.sematic.dev)
- - date_published: 2024-08-19T03:52:36.675222+00:00
-
- ## Sematic – The open-source ML orchestrator loved by ML teams
- - [https://sematic.dev](https://sematic.dev)
- - date_published: 2023-10-25T18:41:55.378126+00:00
- - tags: ['open source', '. machine learning']
-
- ## Semgrep Academy - Learn to create secure software!
- - [https://academy.semgrep.dev](https://academy.semgrep.dev)
- - date_published: 2024-07-08T16:13:43.384931+00:00
-
- ## Semgrep - Make shift left work
- - [https://get.semgrep.dev](https://get.semgrep.dev)
- - date_published: 2024-06-17T02:51:25.404507+00:00
-
- ## Semgrep — Find bugs and enforce code standards
- - [https://semgrep.dev](https://semgrep.dev)
- - date_published: 2024-04-28T02:55:58.313973+00:00
-
- ## Sentry Developer Documentation
- - [https://develop.sentry.dev](https://develop.sentry.dev)
- - date_published: 2024-06-22T22:29:06.398178+00:00
-
- ## Sentry Docs | Application Performance Monitoring &amp; Error Tracking Software
- - [https://sentry-docs-5n4y8501b.sentry.dev](https://sentry-docs-5n4y8501b.sentry.dev)
- - date_published: 2024-08-07T19:33:32.275815+00:00
-
- ## Seo · SEO Apps
- - [https://seoapps.dev](https://seoapps.dev)
- - date_published: 2024-07-02T21:00:04.609502+00:00
-
- - [https://www.sequential.dev](https://www.sequential.dev)
- - date_published: 2024-01-09T02:57:34.721900+00:00
-
- ## Home | Campbell Jones
- - [https://serebit.dev](https://serebit.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Dominio no encontrado
- - [https://sergiomartin.dev](https://sergiomartin.dev)
- - date_published: 2020-07-17T10:01:47+00:00
-
- ## SerialCoder.dev
- - [https://serialcoder.dev](https://serialcoder.dev)
- - date_published: 2024-06-22T18:54:28+00:00
-
- ## servant – A Type-Level Web DSL — Servant  documentation
- - [https://docs.servant.dev](https://docs.servant.dev)
- - date_published: 2023-06-25T10:05:15+00:00
-
- ## Servant - haskell-servant
- - [http://www.servant.dev](http://www.servant.dev)
- - date_published: 2022-06-10T13:46:03+00:00
-
- ## ServBay - The best local PHP, Node.js, MySQL, PostgreSQL Web development environment Mac PHP Brew MAMP XAMPP Node.js Wordpress
-    Install
- - [https://download.servbay.dev](https://download.servbay.dev)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## ServBay
- - [https://telegram.servbay.dev](https://telegram.servbay.dev)
- - date_published: 2024-07-18T23:13:29.477093+00:00
-
- ## Software Engineering Intelligence
- - [https://cod-twister-production.cl-us-east-3.servd.dev](https://cod-twister-production.cl-us-east-3.servd.dev)
- - date_published: 2024-06-16T08:04:33.492083+00:00
-
- ## Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end
- - [https://serverlessai.dev](https://serverlessai.dev)
- - date_published: 2024-10-07T12:37:38+00:00
-
- ## Serverless Handbook for Frontend Engineers
- - [https://serverlesshandbook.dev](https://serverlesshandbook.dev)
- - date_published: 2024-06-23T03:21:22.617558+00:00
-
- ## ServerlessReact.dev
- - [https://serverlessreact.dev](https://serverlessreact.dev)
- - date_published: 2024-08-19T17:33:22.960766+00:00
-
- ## Work with us at Serverpod - Serverpod
- - [https://careers.serverpod.dev](https://careers.serverpod.dev)
- - date_published: 2024-04-30T02:15:41.962143+00:00
-
- ## Installing Serverpod | Serverpod
- - [https://docs.serverpod.dev](https://docs.serverpod.dev)
- - date_published: 2024-04-30T02:15:07.605327+00:00
-
- ## Serverpod – The Flutter Backend
- - [https://serverpod.dev](https://serverpod.dev)
- - date_published: 2023-10-03T10:11:04+00:00
-
- ## Home | servicer
- - [https://servicer.dev](https://servicer.dev)
- - date_published: 2023-08-15T15:12:21+00:00
-
- ## Seth Michael Larson — Python, open source, and the internet
- - [https://sethmlarson.dev](https://sethmlarson.dev)
- - date_published: 2023-10-25T08:48:58.444338+00:00
- - tags: ['personal']
-
- ## Sourabh's Blog
- - [https://sevzero.dev](https://sevzero.dev)
- - date_published: 2024-10-25T18:59:32.829163+00:00
-
- ## Blazej Sewera - Programmer
- - [https://www.sewera.dev](https://www.sewera.dev)
- - date_published: 2024-09-19T13:34:36.997139+00:00
- - tags: ['personal']
-
- ## https://shadeup.dev
- - [https://shadeup.dev](https://shadeup.dev)
- - date_published: 2024-01-17T17:49:00.747046+00:00
 

@@ -1,3 +1,43 @@
+ ## The Detroit Association of Black Organizations (DABO) is a federation of over 130 black, and non-black organizations working to build community unity.
+ - [https://dabodetroitinc.com](https://dabodetroitinc.com)
+ - date_published: 2024-05-04T14:05:07.768226+00:00
+
+ ## About the Dabo Application Framework
+ - [https://dabodev.com](https://dabodev.com)
+ - date_published: 2024-02-08T16:34:11.456390+00:00
+
+ ## Концерты Dabro
+ - [https://dabroconcert.com](https://dabroconcert.com)
+ - date_published: 2024-06-18T07:09:44+00:00
+
+ ## DABRO STYLE — Официальный мерч Дабро
+ - [https://dabrostyle.com](https://dabrostyle.com)
+ - date_published: 2024-06-21T12:46:41+00:00
+
+ ## Design Automation Conference
+ - [https://dac.com](https://dac.com)
+ - date_published: 2024-04-29T03:14:00.804754+00:00
+
+ ## Dacast Backoffice
+ - [https://app.dacast.com](https://app.dacast.com)
+ - date_published: 2024-07-16T15:43:35+00:00
+
+ ## Video Hosting and Live Streaming Solutions
+ - [https://dacast.com](https://dacast.com)
+ - date_published: 2024-04-30T08:01:50.134745+00:00
+
+ ## Why Should I Use It?
+ - [https://docs.dacast.com](https://docs.dacast.com)
+ - date_published: 2024-07-20T23:24:24.791561+00:00
+
+ ## Video Hosting and Live Streaming Solutions
+ - [https://view.dacast.com](https://view.dacast.com)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## DACdb
+ - [https://websites.dacdb.com](https://websites.dacdb.com)
+ - date_published: 2018-12-04T16:48:42+00:00
+
  ## DACdb.com
  - [https://www.dacdb.com](https://www.dacdb.com)
  - date_published: 2024-07-01T03:17:57+00:00
@@ -4010,44 +4050,4 @@
  ## Device Programmers & ISP Programming by Dataman Programmers
  - [http://www.dataman.com](http://www.dataman.com)
  - date_published: 2024-10-15T22:13:51.236370+00:00
-
- ## Data Management Blog - Data Integration and Modern Data Management Articles, Analysis and Information
- - [https://www.datamanagementblog.com](https://www.datamanagementblog.com)
- - date_published: 2024-06-16T20:24:05.222898+00:00
-
- ## Home
- - [https://datamarkgis.com](https://datamarkgis.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Technology News: Latest IT and Tech Industry News
- - [https://datamation.com](https://datamation.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Confluence
- - [https://documentation.datameer.com](https://documentation.datameer.com)
- - date_published: 2024-06-16T20:10:24.404202+00:00
-
- ## Datameer | A Data Transformation Platform
- - [https://www.datameer.com](https://www.datameer.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Data Mesh Architecture
- - [https://datamesh-architecture.com](https://datamesh-architecture.com)
- - date_published: 2024-05-09T04:56:33.869705+00:00
-
- ## Data Mesh Governance by Example: Pragmatic examples of global policies
- - [https://datamesh-governance.com](https://datamesh-governance.com)
- - date_published: 2023-10-14T10:43:39+00:00
-
- ## The Global Home for Data Mesh | Data Mesh Learning
- - [https://datameshlearning.com](https://datameshlearning.com)
- - date_published: 2024-01-13T00:00:00+00:00
-
- ## Data Mesh Live 2025
- - [https://datameshlive.com](https://datameshlive.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Data Mesh Manager
- - [https://www.datamesh-manager.com](https://www.datamesh-manager.com)
- - date_published: 2024-07-09T10:12:37+00:00
 

@@ -1,3 +1,27 @@
+ ## Sayesha on the rocks
+ - [http://sayesha.blogspot.com](http://sayesha.blogspot.com)
+ - date_published: 2024-08-06T00:58:36+00:00
+
+ ## Yet Another Eclipse Project Blog
+ - [http://sbouchet-eef.blogspot.com](http://sbouchet-eef.blogspot.com)
+ - date_published: 2024-02-19T15:31:55+00:00
+
+ ## Blogger
+ - [http://sbttp.blogspot.com](http://sbttp.blogspot.com)
+ - date_published: 2024-06-30T04:28:53.513834+00:00
+
+ ## SC15 Official Blog
+ - [http://sc15blog.blogspot.com](http://sc15blog.blogspot.com)
+ - date_published: 2024-06-23T04:11:21+00:00
+
+ ## Scale Creep
+ - [http://scalecreep.blogspot.com](http://scalecreep.blogspot.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Southern California Aquatics SCAQ Swim Club
+ - [http://scaq.blogspot.com](http://scaq.blogspot.com)
+ - date_published: 2024-05-13T05:42:32+00:00
+
  ## Scarfolk Council
  - [https://scarfolk.blogspot.com](https://scarfolk.blogspot.com)
  - date_published: 2024-10-30T09:31:35+00:00
@@ -3292,6 +3316,10 @@
  - [https://teaspoonoftreacle.blogspot.com](https://teaspoonoftreacle.blogspot.com)
  - date_published: 2024-02-08T11:49:17+00:00
 
+ ## Tech:443
+ - [https://tech443.blogspot.com](https://tech443.blogspot.com)
+ - date_published: 2022-08-16T00:00:00+00:00
+
  ## Tech Art Tiki
  - [http://techarttiki.blogspot.com](http://techarttiki.blogspot.com)
  - date_published: 2024-03-30T05:33:16+00:00
@@ -3986,32 +4014,4 @@
  ## The Dragon's Tales
  - [http://thedragonstales.blogspot.com](http://thedragonstales.blogspot.com)
  - date_published: 2020-07-05T00:00:00+00:00
-
- ## The Drawing Project
- - [http://thedrawingproject.blogspot.com](http://thedrawingproject.blogspot.com)
- - date_published: 2024-03-05T16:25:46+00:00
-
- ## The Drunkeynesian
- - [http://thedrunkeynesian.blogspot.com](http://thedrunkeynesian.blogspot.com)
- - date_published: 2024-10-07T05:01:10+00:00
-
- ## Tom Hodge - The Dude Designs - Dude Apparel
- - [http://thedudedesigns.blogspot.com](http://thedudedesigns.blogspot.com)
- - date_published: 2024-09-12T12:38:54+00:00
-
- ## The Dusty Victorian
- - [http://thedustyvictorian.blogspot.com](http://thedustyvictorian.blogspot.com)
- - date_published: 2024-09-10T16:26:10+00:00
-
- ## The Eagle and Wolf
- - [http://theeagleandwolf.blogspot.com](http://theeagleandwolf.blogspot.com)
- - date_published: 2024-10-25T12:33:13+00:00
-
- ## The Eastern Fringe
- - [http://theeasternfringe.blogspot.com](http://theeasternfringe.blogspot.com)
- - date_published: 2024-09-09T04:51:11+00:00
-
- ## Blogger
- - [http://theeccentricchemist.blogspot.com](http://theeccentricchemist.blogspot.com)
- - date_published: 2024-10-19T06:06:03.894383+00:00
 

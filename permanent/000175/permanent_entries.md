@@ -1,3 +1,88 @@
+ ## Login – Real Leaders Members
+ - [https://members.real-leaders.com](https://members.real-leaders.com)
+ - date_published: 2024-06-30T10:54:53.507751+00:00
+
+ ## Real Leaders Unite 2024 - CEO Summit & Forums
+ - [https://real-leaders.com](https://real-leaders.com)
+ - date_published: 2023-11-14T17:25:46+00:00
+
+ ## Real Life Comics ©1999-2024 Mae Dean
+ - [https://reallifecomics.com](https://reallifecomics.com)
+ - date_published: 2024-05-23T13:30:43.556816+00:00
+ - tags: ['comics', 'personal']
+
+ ## Real Life
+ - [https://reallifemag.com](https://reallifemag.com)
+ - date_published: 2024-04-28T05:45:34.921091+00:00
+
+ ## Really Good Buildings | Fed Novikov | Substack
+ - [https://www.reallygoodbuildings.com](https://www.reallygoodbuildings.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Really Good Business Ideas | Casandra Campbell | Substack
+ - [https://www.reallygoodbusinessideas.com](https://www.reallygoodbusinessideas.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Unspam
+ - [https://unspam.reallygoodemails.com](https://unspam.reallygoodemails.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## ReallyGoodMousePads
+ - [https://reallygoodmousepads.com](https://reallygoodmousepads.com)
+ - date_published: 2024-07-09T18:48:08.200084+00:00
+
+ ## Home - Really Simple Plugins
+ - [https://really-simple-plugins.com](https://really-simple-plugins.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Really Simple Security: Simple and Performant WordPress Security
+ - [https://really-simple-ssl.com](https://really-simple-ssl.com)
+ - date_published: 2024-09-09T22:18:12+00:00
+
+ ## Wolfenstein - Blade of Agony - News
+ - [https://boa.realm667.com](https://boa.realm667.com)
+ - date_published: 2024-06-21T12:42:50+00:00
+ - tags: ['video games', 'wolfenstein']
+
+ ## Realm667 - Your Ultimate Resource Hub for Doom Modding
+ - [http://realm667.com](http://realm667.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+ - tags: ['doom', 'video game mods']
+
+ ## Realmac Dan
+		- Realmac Dan
+ - [https://realmacdan.com](https://realmacdan.com)
+ - date_published: 2024-06-21T11:41:58+00:00
+
+ ## RapidWeaver Forum
+ - [https://forums.realmacsoftware.com](https://forums.realmacsoftware.com)
+ - date_published: 2024-10-14T16:56:18.719790+00:00
+
+ ## We are Realmac Software
+ - [http://realmacsoftware.com](http://realmacsoftware.com)
+ - date_published: 2024-06-14T10:02:07+00:00
+
+ ## Real Madrid CF | Web Oficial del Real Madrid CF
+ - [https://realmadrid.com](https://realmadrid.com)
+ - date_published: 2024-06-15T17:39:05+00:00
+
+ ## realme (Polska) - Make it real
+ - [https://buy.realme.com](https://buy.realme.com)
+ - date_published: 2024-05-07T10:32:48.303548+00:00
+
+ ## realme Community
+ - [https://c.realme.com](https://c.realme.com)
+ - date_published: 2024-05-07T10:32:58.366947+00:00
+ - tags: ['news']
+
+ ## Test Page for the Nginx HTTP Server on Fedora
+ - [https://event-eu.realme.com](https://event-eu.realme.com)
+ - date_published: 2019-05-10T08:08:40+00:00
+
+ ## realme (Polska) - Make it real
+ - [https://event.realme.com](https://event.realme.com)
+ - date_published: 2024-05-07T10:32:55.103773+00:00
+
  ## realme (Polska) - Dare to Leap
  - [https://realme.com](https://realme.com)
  - date_published: 2023-10-29T18:31:53.207822+00:00
@@ -2000,6 +2085,10 @@
  - [https://reddirtbbqfest.com](https://reddirtbbqfest.com)
  - date_published: 2024-06-21T18:31:33.745850+00:00
 
+ ## Reddit Inc Homepage
+ - [https://about.reddit.com](https://about.reddit.com)
+ - date_published: 2024-11-28T08:33:34+00:00
+
  ## Reddit - Dive into anything
  - [https://accounts.reddit.com](https://accounts.reddit.com)
  - date_published: 2024-05-10T03:54:37.614767+00:00
@@ -2068,6 +2157,10 @@
  - [https://tennis.reddit.com](https://tennis.reddit.com)
  - date_published: 2024-03-17T00:00:00+00:00
 
+ ## reddit
+ - [http://worldnews.reddit.com](http://worldnews.reddit.com)
+ - date_published: 2024-12-01T19:13:25.051497+00:00
+
  ## Reddit - Dive into anything
  - [https://www.reddit.com/r/Piracy/wiki/megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
  - date_published: 2024-11-07T09:41:19+00:00
@@ -2097,6 +2190,171 @@
  - [https://www.reddit.com/r/technology](https://www.reddit.com/r/technology)
  - date_published: 2024-11-30T23:06:43+00:00
  - tags: ['tech news']
+
+ ## Self-Hosted Alternatives to Popular Services
+ - [https://www.reddit.com/r/selfhosted](https://www.reddit.com/r/selfhosted)
+ - date_published: 2024-12-01T19:33:27+00:00
+ - tags: ['self-host']
+
+ ## Welcome to R/3D Printing! Come for the Benchy, stay for the Calibration!
+ - [https://www.reddit.com/r/3Dprinting](https://www.reddit.com/r/3Dprinting)
+ - date_published: 2024-12-01T19:36:15+00:00
+ - tags: ['3d printing']
+
+ ## All things Warhammer!
+ - [https://www.reddit.com/r/Warhammer](https://www.reddit.com/r/Warhammer)
+ - date_published: 2024-12-01T19:37:32+00:00
+ - tags: ['tabletop games', 'miniatures', 'warhammer']
+
+ ## boardgames
+ - [https://www.reddit.com/r/boardgames](https://www.reddit.com/r/boardgames)
+ - date_published: 2024-12-01T19:38:42+00:00
+ - tags: ['board games']
+
+ ## Book Suggestions
+ - [https://www.reddit.com/r/booksuggestions](https://www.reddit.com/r/booksuggestions)
+ - date_published: 2024-12-01T19:41:34+00:00
+ - tags: ['books']
+
+ ## Deep Web
+ - [https://www.reddit.com/r/deepweb](https://www.reddit.com/r/deepweb)
+ - date_published: 2024-12-01T19:43:08+00:00
+ - tags: ['internet']
+
+ ## 10/10 would bookmark again
+ - [https://www.reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful)
+ - date_published: 2024-12-01T19:44:28+00:00
+ - tags: ['internet']
+
+ ## A forum for the security professionals and white hat hackers.
+ - [https://www.reddit.com/r/Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials)
+ - date_published: 2024-12-01T19:45:49+00:00
+ - tags: ['cybersecurity', 'hacking']
+
+ ## Crack Support
+ - [https://www.reddit.com/r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+ - date_published: 2024-12-01T19:47:02+00:00
+ - tags: ['hacking']
+
+ ## CrackWatch
+ - [https://www.reddit.com/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+ - date_published: 2024-12-01T19:48:08+00:00
+ - tags: ['hacking']
+
+ ## Emulation
+ - [https://www.reddit.com/r/emulation](https://www.reddit.com/r/emulation)
+ - date_published: 2024-12-01T19:49:25+00:00
+ - tags: ['emulation']
+
+ ## Game Mods - Video Game Modifications
+ - [https://www.reddit.com/r/GameMods](https://www.reddit.com/r/GameMods)
+ - date_published: 2024-12-01T19:50:19+00:00
+ - tags: ['video game mods']
+
+ ## Hackers
+ - [https://www.reddit.com/r/hackers](https://www.reddit.com/r/hackers)
+ - date_published: 2024-12-01T19:51:21+00:00
+ - tags: ['cybersecurity', 'hacking']
+
+ ## hacking: security in practice
+ - [https://www.reddit.com/r/hacking](https://www.reddit.com/r/hacking)
+ - date_published: 2024-12-01T19:52:48+00:00
+ - tags: ['cybersecurity', 'hacking']
+
+ ## Handmade - Arts & Crafts Made by Hand
+ - [https://www.reddit.com/r/handmade](https://www.reddit.com/r/handmade)
+ - date_published: 2024-12-01T19:53:59+00:00
+ - tags: ['handmade']
+
+ ## memesAndJokesAboutEverythingProgrammingAndCS
+ - [https://www.reddit.com/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor)
+ - date_published: 2024-12-01T19:55:53+00:00
+ - tags: ['programming', 'funny']
+
+ ## Print Comics and Webcomics
+ - [https://www.reddit.com/r/comics](https://www.reddit.com/r/comics)
+ - date_published: 2024-12-01T19:58:27+00:00
+ - tags: ['comics']
+
+ ## programming
+ - [https://www.reddit.com/r/programming](https://www.reddit.com/r/programming)
+ - date_published: 2024-12-01T19:59:38+00:00
+ - tags: ['programming']
+
+ ## Quality Gaming Content and Discussion -- /r/Games
+ - [https://www.reddit.com/r/Games](https://www.reddit.com/r/Games)
+ - date_published: 2024-12-01T20:00:52+00:00
+ - tags: ['video games']
+
+ ## /r/Anime
+ - [https://www.reddit.com/r/anime](https://www.reddit.com/r/anime)
+ - date_published: 2024-12-01T20:02:08+00:00
+ - tags: ['anime']
+
+ ## Raspberry Pi - More than just magic mirrors and kodi!
+ - [https://www.reddit.com/r/raspberry_pi](https://www.reddit.com/r/raspberry_pi)
+ - date_published: 2024-12-01T20:03:18+00:00
+ - tags: ['raspberry pi']
+
+ ## World News
+ - [https://www.reddit.com/r/worldnews](https://www.reddit.com/r/worldnews)
+ - date_published: 2024-12-01T20:04:34+00:00
+ - tags: ['politics', 'news']
+
+ ## Reddit Fantasy
+ - [https://www.reddit.com/r/Fantasy](https://www.reddit.com/r/Fantasy)
+ - date_published: 2024-12-01T20:05:51+00:00
+ - tags: ['fantasy']
+
+ ## Reddit Science
+ - [https://www.reddit.com/r/science](https://www.reddit.com/r/science)
+ - date_published: 2024-12-01T20:06:53+00:00
+ - tags: ['science', 'news']
+
+ ## Retro Gaming: Reddit's home of vintage gaming
+ - [https://www.reddit.com/r/retrogaming](https://www.reddit.com/r/retrogaming)
+ - date_published: 2024-12-01T20:08:06+00:00
+ - tags: ['retro games']
+
+ ## Reverse Engineering
+ - [https://www.reddit.com/r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering)
+ - date_published: 2024-12-01T20:09:18+00:00
+ - tags: ['reverse engineering']
+
+ ## r/gaming
+ - [https://www.reddit.com/r/gaming](https://www.reddit.com/r/gaming)
+ - date_published: 2024-12-01T20:10:39+00:00
+ - tags: ['video game']
+
+ ## r/Music
+ - [https://www.reddit.com/r/Music](https://www.reddit.com/r/Music)
+ - date_published: 2024-12-01T20:11:50+00:00
+ - tags: ['music']
+
+ ## RSS - Really Simple Syndication
+ - [https://www.reddit.com/r/rss](https://www.reddit.com/r/rss)
+ - date_published: 2024-12-01T20:12:40+00:00
+ - tags: ['rss']
+
+ ## /r/Warhammer40k - Unofficial Home of 40k on Reddit
+ - [https://www.reddit.com/r/Warhammer40k](https://www.reddit.com/r/Warhammer40k)
+ - date_published: 2024-12-01T20:13:35+00:00
+ - tags: ['tabletop games', 'warhammer']
+
+ ## Search Engines
+ - [https://www.reddit.com/r/searchengines](https://www.reddit.com/r/searchengines)
+ - date_published: 2024-12-01T20:14:49+00:00
+ - tags: ['search engines']
+
+ ## The Dark Depths of YouTube
+ - [https://www.reddit.com/r/DeepIntoYouTube](https://www.reddit.com/r/DeepIntoYouTube)
+ - date_published: 2024-12-01T20:15:58+00:00
+ - tags: ['weird', 'youtube']
+
+ ## webscraping
+ - [https://www.reddit.com/r/webscraping](https://www.reddit.com/r/webscraping)
+ - date_published: 2024-12-01T20:17:07+00:00
+ - tags: ['web scraping']
 
  ## Upvoted | The Official Reddit Blog
  - [https://redditblog.com](https://redditblog.com)
@@ -3813,225 +4071,4 @@
  ## REGENT | Coastal Travel. 100% Electric.
  - [https://regentcraft.com](https://regentcraft.com)
  - date_published: 2023-10-25T16:48:59.761531+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.regex101.com](https://analytics.regex101.com)
- - date_published: 2024-08-05T16:19:31.551833+00:00
-
- ## regex101: build, test, and debug regex
- - [https://regex101.com](https://regex101.com)
- - date_published: 2024-04-29T05:01:12.054190+00:00
-
- ## RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs
- - [https://regexone.com](https://regexone.com)
- - date_published: 2011-06-01T00:00:00+00:00
-
- ## Regex Tester - Javascript, PCRE, PHP
- - [https://regexpal.com](https://regexpal.com)
- - date_published: 2024-05-11T06:56:23.386688+00:00
-
- ## Regexper
- - [https://regexper.com](https://regexper.com)
- - date_published: 2020-09-05T00:00:00+00:00
-
- ## RegExr: Learn, Build, & Test RegEx
- - [https://regexr.com](https://regexr.com)
- - date_published: 2023-12-11T12:26:25+00:00
- - tags: ['online tool', 'regular expressions', 'code sandbox']
-
- ## Regex Tester and Debugger Online - Javascript, PCRE, PHP
- - [https://regextester.com](https://regextester.com)
- - date_published: 2024-05-11T06:56:21.117282+00:00
-
- ## Attention Required! | Cloudflare
- - [https://psmj.regfox.com](https://psmj.regfox.com)
- - date_published: 2024-08-08T20:10:45.348342+00:00
-
- ## REGGAE BUBBLERS HOME
- - [http://reggaebubblers.com](http://reggaebubblers.com)
- - date_published: 2022-07-01T18:41:50+00:00
-
- ## Attention Required! | Cloudflare
- - [http://reggiewatts.com](http://reggiewatts.com)
- - date_published: 2024-07-13T07:19:26.054546+00:00
-
- ## Home - Regi Claire
- - [http://www.regiclaire.com](http://www.regiclaire.com)
- - date_published: 2024-10-21T17:53:00.399125+00:00
-
- ## Regina-operamathus.com: Berita Youtuber Indonesia & Selebgram Terbaru
- - [https://content.regina-operamathus.com](https://content.regina-operamathus.com)
- - date_published: 2024-07-07T02:50:57.334135+00:00
-
- ## Affordable Shopify apps - Reginapps
- - [https://reginapps.com](https://reginapps.com)
- - date_published: 2024-09-26T13:39:12.902267+00:00
-
- ## Ingenieurbüro für Wissenschaft und Forschung – regineering
- - [https://regineering.com](https://regineering.com)
- - date_published: 2024-08-11T10:56:57+00:00
-
- ## Homepage
- - [https://www.regionaldistrict.com](https://www.regionaldistrict.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 404
- - [http://www.regional-green.com](http://www.regional-green.com)
- - date_published: 2024-06-20T14:58:01.256561+00:00
-
- ## Careers at Regions Bank | Regions Bank jobs
- - [https://careers.regions.com](https://careers.regions.com)
- - date_published: 2024-06-16T09:19:37.075226+00:00
-
- ## Commercial Check Image Archive
- - [https://checkimage.regions.com](https://checkimage.regions.com)
- - date_published: 2023-03-08T02:16:53+00:00
-
- ## Regions Bank más cercano. | Cuenta de cheques, cuenta de ahorros, hipoteca, préstamos y más | Regions Bank más cercano.
- - [https://espanol.regions.com](https://espanol.regions.com)
- - date_published: 2024-06-16T09:19:49.434819+00:00
-
- ## Regions | Regions Bank Visa Card Maintenance
- - [https://intersect.regions.com](https://intersect.regions.com)
- - date_published: 2024-06-16T09:19:58.705706+00:00
-
- ## Attention Required! | Cloudflare
- - [https://ir.regions.com](https://ir.regions.com)
- - date_published: 2024-06-16T09:19:45.638368+00:00
-
- ## Log in to Regions Online Banking | Regions Bank
- - [https://login.regions.com](https://login.regions.com)
- - date_published: 2023-12-06T02:17:10+00:00
-
- ## Regions
- - [https://mkt-ras-proxy-v3.api.regions.com](https://mkt-ras-proxy-v3.api.regions.com)
- - date_published: 2024-06-16T09:19:40.020898+00:00
-
- ## regionscommercialprod - Signing in...
- - [https://onepass.regions.com](https://onepass.regions.com)
- - date_published: 2024-06-16T09:19:33.441870+00:00
-
- ## Log in to Regions Online Banking | Regions Bank
- - [https://onlinebanking.regions.com](https://onlinebanking.regions.com)
- - date_published: 2023-12-06T02:17:10+00:00
-
- ## regionscommercialprod - Signing in...
- - [https://onlineimagelockbox.regions.com](https://onlineimagelockbox.regions.com)
- - date_published: 2024-06-16T09:19:31.285831+00:00
-
- ## Regions Bank | Checking, Savings, Mortgage, Loans & More | Regions Bank
- - [https://regions.com](https://regions.com)
- - date_published: 2024-09-18T22:07:12.380122+00:00
-
- ## Regions
- - [https://regions-rates-sys-proxy-v1.api.regions.com](https://regions-rates-sys-proxy-v1.api.regions.com)
- - date_published: 2024-06-16T09:19:59.914284+00:00
-
- ## Regions MyMortgage -
- - [https://mymortgage.regionsmortgage.com](https://mymortgage.regionsmortgage.com)
- - date_published: 2024-06-16T09:19:42.319572+00:00
-
- ## Mortgage | Home Loans and Refinance | Regions Bank
- - [http://www.regionsmortgage.com](http://www.regionsmortgage.com)
- - date_published: 2024-09-29T20:56:05.461463+00:00
-
- ## Home - Regional Parliaments Lab
- - [https://www.regioparl.com](https://www.regioparl.com)
- - date_published: 2022-12-16T10:39:06+00:00
-
- ## Regis Media - Helping fiduciary businesses to attract and retain clients.
- - [http://regismedia.com](http://regismedia.com)
- - date_published: 2024-09-15T11:24:57.739734+00:00
-
- ## Register Domain Names at Register.com - Business Web Hosting Services and Domain Name Registration Provider
- - [http://www.register.com](http://www.register.com)
- - date_published: 2024-06-23T07:58:09.124133+00:00
-
- ## The Register4Less.com Blog - News & Updates from the Non-Evil Domain Registrar
- - [https://blog.register4less.com](https://blog.register4less.com)
- - date_published: 2024-05-01T06:18:35.878260+00:00
-
- ## Register4less - Order
- - [https://register4less.com](https://register4less.com)
- - date_published: 2024-05-01T06:58:38.235254+00:00
-
- ## RegisterBlast | Scheduling made easy.
- - [https://www.registerblast.com](https://www.registerblast.com)
- - date_published: 2024-07-17T03:24:47.260665+00:00
-
- ## Neo Builder
- - [http://app.neo.registeredsite.com](http://app.neo.registeredsite.com)
- - date_published: 2024-06-17T09:52:39.511455+00:00
-
- ## The Register Guard: Local News, Politics & Sports in Eugene, OR
- - [https://cm.registerguard.com](https://cm.registerguard.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Data Central Home
- - [https://data.registerguard.com](https://data.registerguard.com)
- - date_published: 2024-08-08T17:24:25.130892+00:00
-
- ## Help Center - The Register-Guard
- - [https://help.registerguard.com](https://help.registerguard.com)
- - date_published: 2024-08-08T17:25:06.839090+00:00
-
- ## Newsletters | The Register-Guard
- - [https://profile.registerguard.com](https://profile.registerguard.com)
- - date_published: 2024-08-08T17:25:09.962801+00:00
-
- ## The Register Guard: Local News, Politics & Sports in Eugene, OR
- - [https://registerguard.com](https://registerguard.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home - IRI | International Registries, Inc.
- - [https://register-iri.com](https://register-iri.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Gannett Media Solutions | LocaliQ
- - [http://registermedia.com](http://registermedia.com)
- - date_published: 2024-05-01T04:48:50.196416+00:00
-
- ## Welcome To Singer
- - [https://singer.registria.com](https://singer.registria.com)
- - date_published: 2024-06-28T16:46:01.953833+00:00
-
- ## Registry Compliance | Registry Compliance Home
- - [http://www.registrycompliance.com](http://www.registrycompliance.com)
- - date_published: 2024-07-08T16:23:43.046507+00:00
-
- ## Registration Systems Lab
- - [https://regmaster4.com](https://regmaster4.com)
- - date_published: 2016-06-05T22:41:57+00:00
-
- ## Home
- - [https://regnan.com](https://regnan.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home Page
- - [https://www.regoproducts.com](https://www.regoproducts.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Regular Programming
- - [https://regprog.com](https://regprog.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Regulation Rodeo by The American Action Forum
- - [https://regrodeo.com](https://regrodeo.com)
- - date_published: 2024-06-27T08:12:40.610362+00:00
-
- ## Identity Verification Solutions & Forensic Devices by Regula
- - [https://regulaforensics.com](https://regulaforensics.com)
- - date_published: 2024-08-19T13:19:55.657455+00:00
-
- ## The Regular Guys Review 1998-2013
- - [http://www.regularguys.com](http://www.regularguys.com)
- - date_published: 2024-11-10T03:33:52+00:00
-
- ## RegularLink | SMB Directory
- - [http://www.regularlink.com](http://www.regularlink.com)
- - date_published: 2024-03-28T20:10:26+00:00
-
- ## Regulating for Globalization
- - [https://regulatingforglobalization.com](https://regulatingforglobalization.com)
- - date_published: 2024-10-18T20:54:18.545257+00:00
 

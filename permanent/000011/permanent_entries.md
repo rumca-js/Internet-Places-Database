@@ -1,3 +1,7 @@
+ ## WIA Gold • ASX:WIA
+ - [https://wiagold.com.au](https://wiagold.com.au)
+ - date_published: 2024-09-11T00:00:00+00:00
+
  ## Wild Magazine - Subscribe..
  - [https://subscribe.wild.com.au](https://subscribe.wild.com.au)
  - date_published: 2024-09-17T23:32:22.921396+00:00
@@ -4019,8 +4023,4 @@ University of Technology
  ## Green Left
  - [http://www.greenleft.org.au](http://www.greenleft.org.au)
  - date_published: 2024-10-21T18:50:32.161250+00:00
-
- ## Greenpeace Australia Pacific
- - [http://www.greenpeace.org.au](http://www.greenpeace.org.au)
- - date_published: 2024-06-30T02:30:14.363774+00:00
 

@@ -1,3 +1,11 @@
+ ## Security Systems
+ - [https://www.securitysystems.co](https://www.securitysystems.co)
+ - date_published: 2024-07-20T06:54:03.526731+00:00
+
+ ## Revive Adserver
+ - [https://master-jhm212qsz99h.us.seedcloud.co](https://master-jhm212qsz99h.us.seedcloud.co)
+ - date_published: 2024-09-11T01:44:37.335941+00:00
+
  ## SeeD EM | Drupal Experts
  - [https://seedem.co](https://seedem.co)
  - date_published: 2024-06-12T10:49:47.596832+00:00
@@ -4014,12 +4022,4 @@
  ## Tienda Online Oficial Universidad Javeriana | Tienda Javeriana
  - [https://tienda.javeriana.edu.co](https://tienda.javeriana.edu.co)
  - date_published: 2024-06-12T03:20:22.351200+00:00
-
- ## OneGate
- - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:02.548800+00:00
-
- ## Consultoría | Pontificia Universidad Javeriana, Cali
- - [https://consultoria.javerianacali.edu.co](https://consultoria.javerianacali.edu.co)
- - date_published: 2024-06-12T11:02:24.778922+00:00
 

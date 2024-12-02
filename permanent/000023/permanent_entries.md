@@ -1,3 +1,7 @@
+ ## Inner Development Goals – Switzerland
+ - [https://www.innerdevelopmentgoals.ch](https://www.innerdevelopmentgoals.ch)
+ - date_published: 2024-09-12T19:59:33.669449+00:00
+
  ## Innosuisse
  - [https://www.innosuisse.ch](https://www.innosuisse.ch)
  - date_published: 2024-07-16T22:36:24.055161+00:00
@@ -4016,8 +4020,4 @@ Fakultät | Universität Basel
  ## Agenda des événements de l'Université de Genève - Événements
  - [https://agenda.unige.ch](https://agenda.unige.ch)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Accueil - Agora des associations d’étudiant.e.x.s  - UNIGE
- - [https://agora.unige.ch](https://agora.unige.ch)
- - date_published: 2019-02-14T00:00:00+00:00
 

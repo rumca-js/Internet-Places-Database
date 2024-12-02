@@ -1,3 +1,11 @@
+ ## 首页
+ - [http://admission.bit.edu.cn](http://admission.bit.edu.cn)
+ - date_published: 2024-08-07T13:36:40.810763+00:00
+
+ ## 北京理工大学
+ - [https://bit.edu.cn](https://bit.edu.cn)
+ - date_published: 2024-04-28T04:00:29.393849+00:00
+
  ## 北京理工大学教育基金会
  - [http://ef.bit.edu.cn](http://ef.bit.edu.cn)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -3994,12 +4002,4 @@
  ## 广州市人民政府门户网站
  - [http://www.gz.gov.cn](http://www.gz.gov.cn)
  - date_published: 2024-10-21T05:59:40.802103+00:00
-
- ## 广州市应急管理局网站
- - [http://yjglj.gz.gov.cn](http://yjglj.gz.gov.cn)
- - date_published: 2024-10-21T05:55:42.711726+00:00
-
- ## 贵阳市白云区人民政府
- - [http://www.gzbaiyun.gov.cn](http://www.gzbaiyun.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
 

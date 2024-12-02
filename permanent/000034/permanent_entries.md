@@ -1,3 +1,11 @@
+ ## OneGate
+ - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:02.548800+00:00
+
+ ## Consultoría | Pontificia Universidad Javeriana, Cali
+ - [https://consultoria.javerianacali.edu.co](https://consultoria.javerianacali.edu.co)
+ - date_published: 2024-06-12T11:02:24.778922+00:00
+
  ## Inicio
  - [https://cultural.javerianacali.edu.co](https://cultural.javerianacali.edu.co)
  - date_published: 2019-12-19T13:50:00+00:00
@@ -4019,12 +4027,4 @@
  ## Josef Ottosson
  - [https://josef.codes](https://josef.codes)
  - date_published: 2024-05-01T03:48:40.290359+00:00
-
- ## l33t.codes
- - [https://l33t.codes](https://l33t.codes)
- - date_published: 2024-02-03T20:08:33+00:00
-
- ## Lea Rosema
- - [https://lea.codes](https://lea.codes)
- - date_published: 2024-02-05T00:00:00+00:00
 

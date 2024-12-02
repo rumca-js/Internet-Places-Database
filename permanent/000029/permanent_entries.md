@@ -1,3 +1,11 @@
+ ## 广州市应急管理局网站
+ - [http://yjglj.gz.gov.cn](http://yjglj.gz.gov.cn)
+ - date_published: 2024-10-21T05:55:42.711726+00:00
+
+ ## 贵阳市白云区人民政府
+ - [http://www.gzbaiyun.gov.cn](http://www.gzbaiyun.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 中共贵州省委党校 贵州行政学院 中共贵州省委讲师团
  - [http://www.gzdx.gov.cn](http://www.gzdx.gov.cn)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3989,12 +3997,4 @@
  ## 禹州市人民政府
  - [http://www.yuzhou.gov.cn](http://www.yuzhou.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 中国关心下一代工作委员会
- - [http://www.zgggw.gov.cn](http://www.zgggw.gov.cn)
- - date_published: 2024-06-30T17:03:42.346514+00:00
-
- ## 重庆·石柱网
- - [http://www.zgsz.gov.cn](http://www.zgsz.gov.cn)
- - date_published: 2024-06-30T13:11:15+00:00
 

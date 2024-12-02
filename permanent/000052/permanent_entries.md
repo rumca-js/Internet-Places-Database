@@ -1,3 +1,19 @@
+ ## SymphonyOS Community Updates
+ - [https://symphony-community.beehiiv.com](https://symphony-community.beehiiv.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Teaming with Data
+ - [https://teamingwithdata.beehiiv.com](https://teamingwithdata.beehiiv.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Tech Story Newsletter
+ - [https://techstory.beehiiv.com](https://techstory.beehiiv.com)
+ - date_published: 2024-07-09T21:06:48+00:00
+
+ ## The Disruptors
+ - [https://thedisruptors.beehiiv.com](https://thedisruptors.beehiiv.com)
+ - date_published: 2023-10-25T12:56:33.285763+00:00
+
  ## The Future Is Like Pie
  - [https://thefutureislikepie.beehiiv.com](https://thefutureislikepie.beehiiv.com)
  - date_published: 2024-09-05T00:00:00+00:00
@@ -4018,20 +4034,4 @@
  - [https://bettyjunod.com](https://bettyjunod.com)
  - date_published: 2024-04-11T20:55:37.390257+00:00
  - tags: ['personal']
-
- ## betufa สมัคร แทงบอลออนไลน์ ufa191 ทางเข้า ufabet รับโบนัส 100%
- - [https://www.betufa191.com](https://www.betufa191.com)
- - date_published: 2024-07-04T01:01:59+00:00
-
- ## Information Page
- - [https://www.betvictor.com](https://www.betvictor.com)
- - date_published: 2020-10-14T13:01:28+00:00
-
- ## Betweenle - Word Guessing Game
- - [https://betweenle.com](https://betweenle.com)
- - date_published: 2024-04-06T10:12:07+00:00
-
- ## Between the Bolter and Me
- - [https://www.betweenthebolterandme.com](https://www.betweenthebolterandme.com)
- - date_published: 2024-06-13T00:00:00+00:00
 

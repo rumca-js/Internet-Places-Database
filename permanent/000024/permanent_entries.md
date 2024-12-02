@@ -1,3 +1,7 @@
+ ## Accueil - Agora des associations d’étudiant.e.x.s  - UNIGE
+ - [https://agora.unige.ch](https://agora.unige.ch)
+ - date_published: 2019-02-14T00:00:00+00:00
+
  ## Archive ouverte UNIGE
  - [https://archive-ouverte.unige.ch](https://archive-ouverte.unige.ch)
  - date_published: 2024-03-22T00:00:00+00:00
@@ -4010,8 +4014,4 @@
  ## Franchise: a sql notebook
  - [https://franchise.cloud](https://franchise.cloud)
  - date_published: 2017-10-13T22:29:05+00:00
-
- ## Nova Gadget House
- - [https://erpnext-demo.frappe.cloud](https://erpnext-demo.frappe.cloud)
- - date_published: 2024-10-31T04:19:35.999238+00:00
 

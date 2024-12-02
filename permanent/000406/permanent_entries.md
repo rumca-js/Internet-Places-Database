@@ -1,3 +1,360 @@
+ ## Carros usados,Comerciais,Máquinas,Barcos,Motas | StandCM
+ - [https://www.standcm.pt](https://www.standcm.pt)
+ - date_published: 2024-07-12T20:30:22.460064+00:00
+
+ ## Checking your browser - reCAPTCHA
+ - [http://www.staples.pt](http://www.staples.pt)
+ - date_published: 2024-08-05T21:54:00.338335+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.pt](https://www.statkraft.pt)
+ - date_published: 2023-11-17T00:00:00+00:00
+
+ ## Imprima os seus autocolantes e as suas etiquetas personalizadas!
+ - [https://stickerapp.pt](https://stickerapp.pt)
+ - date_published: 2024-04-30T02:46:12.280628+00:00
+
+ ## Shop • Stolen Books
+ - [https://stolenbooks.pt](https://stolenbooks.pt)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## mesa digitalizadora com tela, tablet gráfico de desenho | XP-PEN Portugal Loja Oficial
+ - [https://storexppen.pt](https://storexppen.pt)
+ - date_published: 2024-05-30T18:42:28.916038+00:00
+
+ ## JackHammer
+ - [https://imagens.supercasa.pt](https://imagens.supercasa.pt)
+ - date_published: 2024-09-05T14:01:50.052938+00:00
+
+ ## SUPERCASA - Moradias e apartamentos, arrendamento e venda, anúncios gratuitos - SUPERCASA
+ - [https://supercasa.pt](https://supercasa.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Superprof - A comunidade de professores particulares
+ - [https://superprof.pt](https://superprof.pt)
+ - date_published: 2024-06-15T01:27:44.389176+00:00
+
+ ## Tudo para informática ao melhor preço!
+ - [https://www.switchtechnology.pt](https://www.switchtechnology.pt)
+ - date_published: 2023-10-24T15:40:42+00:00
+
+ ## Bem-vindo ao site oficial do Tavfer Hoteis
+ - [https://tavferhoteis.pt](https://tavferhoteis.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Taylor's Port - Since 1692 making the finest Port wine
+ - [https://www.taylor.pt](https://www.taylor.pt)
+ - date_published: 2024-10-21T03:32:25.241595+00:00
+
+ ## LÍDER | Tema Central | Loja Online
+ - [https://loja.temacentral.pt](https://loja.temacentral.pt)
+ - date_published: 2024-09-05T15:41:21.870377+00:00
+
+ ## LÍDER | Tema Central | Loja Online
+ - [https://temacentral.pt](https://temacentral.pt)
+ - date_published: 2024-09-05T15:41:24.135044+00:00
+
+ ## O Tempo para 14 dias - tempo.pt | Meteored
+ - [https://www.tempo.pt](https://www.tempo.pt)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Tempo & Radar Portugal
+ - [https://tempoeradar.pt](https://tempoeradar.pt)
+ - date_published: 2024-05-07T13:25:10.701026+00:00
+
+ ## terramar.pt
+ - [http://www.terramar.pt](http://www.terramar.pt)
+ - date_published: 2024-07-12T20:50:12.381429+00:00
+
+ ## Home - The Next Big Idea
+ - [https://thenextbigidea.pt](https://thenextbigidea.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.thenorthface.pt](https://www.thenorthface.pt)
+ - date_published: 2024-07-12T07:35:57.709480+00:00
+
+ ## Ticketline
+ - [https://ticketline.pt](https://ticketline.pt)
+ - date_published: 2024-07-01T14:24:51.681739+00:00
+
+ ## Tinta da china - Tinta da China
+ - [http://www.tintadachina.pt](http://www.tintadachina.pt)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Toyota Portugal - Automóveis Novos e Usados
+ - [https://www.toyota.pt](https://www.toyota.pt)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Início | Trade Stories
+ - [https://tradestories.pt](https://tradestories.pt)
+ - date_published: 2024-05-11T09:35:48.634502+00:00
+
+ ## Mercado de transferências, rumores, Valores de mercado e notícias
+ - [https://www.transfermarkt.pt](https://www.transfermarkt.pt)
+ - date_published: 2024-07-24T06:29:39.030988+00:00
+
+ ## | Tribuna Expresso
+ - [https://tribunaexpresso.pt](https://tribunaexpresso.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Tripadvisor: mais de mil milhões de avaliações e contribuições sobre hotéis, atrações, restaurantes e muito mais
+ - [https://www.tripadvisor.pt](https://www.tripadvisor.pt)
+ - date_published: 2024-06-23T09:27:36.495461+00:00
+
+ ## trivago.pt - Compare hotel prices worldwide
+ - [https://www.trivago.pt](https://www.trivago.pt)
+ - date_published: 2024-09-04T11:20:54.314623+00:00
+
+ ## Compras online com a Trusted Shops
+ - [https://www.trustedshops.pt](https://www.trustedshops.pt)
+ - date_published: 2023-01-30T00:00:00+00:00
+
+ ## Loja Trust in News - Loja TIN
+ - [https://loja.trustinnews.pt](https://loja.trustinnews.pt)
+ - date_published: 2024-09-05T15:01:44.279292+00:00
+
+ ## TTMB - Distribuição e Logística Lda |
+ TTMB - Distribuição e Logística Lda
+ - [https://ttmb.pt](https://ttmb.pt)
+ - date_published: 2024-09-19T02:31:43.878494+00:00
+
+ ## Habilite estudantes fazerem o seu melhor e produzir trabalhos com originalidade| Turnitin
+ - [https://www.turnitin.pt](https://www.turnitin.pt)
+ - date_published: 2024-09-23T16:27:20+00:00
+
+ ## Tuticar - Stand Carros Usados em  Sintra, Lisboa
+ - [http://www.tuticar.pt](http://www.tuticar.pt)
+ - date_published: 2024-09-05T15:04:52.768816+00:00
+
+ ## TV 7 Dias - A atualidade da televisão portuguesa e internacional à distância de um clique.
+ - [https://tv7dias.pt](https://tv7dias.pt)
+ - date_published: 2024-09-05T15:01:22+00:00
+
+ ## Repositório Institucional da Universidade de Aveiro: Home
+ - [https://ria.ua.pt](https://ria.ua.pt)
+ - date_published: 2024-05-12T05:44:34.119743+00:00
+
+ ## Universidade de Aveiro - Universidade de Aveiro
+ - [https://www.ua.pt](https://www.ua.pt)
+ - date_published: 2024-06-28T22:09:10.075719+00:00
+
+ ## RELEASE: Home
+ - [https://release.di.ubi.pt](https://release.di.ubi.pt)
+ - date_published: 2019-09-19T00:00:00+00:00
+
+ ## Departamento de Informática - Universidade da Beira Interior
+ - [http://www.di.ubi.pt](http://www.di.ubi.pt)
+ - date_published: 2024-07-04T11:18:29.061208+00:00
+
+ ## Home | Estudo Geral
+ - [https://estudogeral.sib.uc.pt](https://estudogeral.sib.uc.pt)
+ - date_published: 2024-07-08T21:37:49.098186+00:00
+
+ ## EvoMUSART Index
+ - [https://evomusart-index.dei.uc.pt](https://evomusart-index.dei.uc.pt)
+ - date_published: 2024-09-13T17:58:51.741533+00:00
+
+ ## Welcome to ftp.dei.uc.pt
+ - [http://ftp.dei.uc.pt](http://ftp.dei.uc.pt)
+ - date_published: 2024-08-19T22:20:16.272932+00:00
+
+ ## Universidade de Coimbra
+ - [https://www.uc.pt](https://www.uc.pt)
+ - date_published: 2024-10-14T23:11:21.340510+00:00
+
+ ## Departamento de Informática
+ - [http://www.di.uevora.pt](http://www.di.uevora.pt)
+ - date_published: 2024-07-17T05:49:47+00:00
+
+ ## Canal da Denúncia | ULisboa
+ - [https://canaldedenuncia.ulisboa.pt](https://canaldedenuncia.ulisboa.pt)
+ - date_published: 2024-08-07T13:24:07.109592+00:00
+
+ ## Técnico Lisboa - Autenticação
+ - [https://fenix.tecnico.ulisboa.pt](https://fenix.tecnico.ulisboa.pt)
+ - date_published: 2024-08-07T13:23:53.665394+00:00
+
+ ## Lisbon Unit for Learning and Intelligent Systems - LUMLIS
+ - [https://lumlis.tecnico.ulisboa.pt](https://lumlis.tecnico.ulisboa.pt)
+ - date_published: 2024-06-24T10:22:43+00:00
+
+ ## Scholar
+ - [https://scholar.tecnico.ulisboa.pt](https://scholar.tecnico.ulisboa.pt)
+ - date_published: 2024-08-07T12:50:27+00:00
+
+ ## Instituto Superior Técnico
+ - [https://tecnico.ulisboa.pt](https://tecnico.ulisboa.pt)
+ - date_published: 2024-04-28T04:06:37.502433+00:00
+
+ ## Page has moved
+ - [https://webmail.tecnico.ulisboa.pt](https://webmail.tecnico.ulisboa.pt)
+ - date_published: 2023-03-08T19:27:42+00:00
+
+ ## Instituto Superior Técnico: Serviço de páginas pessoais
+ - [https://web.tecnico.ulisboa.pt](https://web.tecnico.ulisboa.pt)
+ - date_published: 2023-02-20T01:21:24+00:00
+
+ ## Department of Mathematics — Técnico, Lisboa
+ - [https://www.math.tecnico.ulisboa.pt](https://www.math.tecnico.ulisboa.pt)
+ - date_published: 2024-06-30T09:12:56.880278+00:00
+
+ ## Universidade de Lisboa
+ - [http://www.ulisboa.pt](http://www.ulisboa.pt)
+ - date_published: 2024-08-07T13:23:57.995591+00:00
+
+ ## Green Software Lab
+ - [https://greenlab.di.uminho.pt](https://greenlab.di.uminho.pt)
+ - date_published: 2023-10-25T22:34:20.189594+00:00
+
+ ## High-Assurance Software - INESC TEC
+ - [https://haslab.uminho.pt](https://haslab.uminho.pt)
+ - date_published: 2024-07-03T16:48:14.618187+00:00
+
+ ## Universidade do Minho
+ - [http://www.uminho.pt](http://www.uminho.pt)
+ - date_published: 2024-10-30T20:30:33+00:00
+
+ ## Unidos Contra o Desperdício | Movimento cívico em Portugal
+ - [https://www.unidoscontraodesperdicio.pt](https://www.unidoscontraodesperdicio.pt)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## CENTRIA
+ - [http://centria.di.fct.unl.pt](http://centria.di.fct.unl.pt)
+ - date_published: 2017-01-12T01:23:20+00:00
+
+ ## Home - Nova Lincs
+ - [https://nova-lincs.di.fct.unl.pt](https://nova-lincs.di.fct.unl.pt)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## NOVASYS
+ - [https://novasys.di.fct.unl.pt](https://novasys.di.fct.unl.pt)
+ - date_published: 2018-07-23T16:31:37+00:00
+
+ ## Faculdade de Ciências Sociais e Humanas - NOVA FCSH - NOVA FCSH
+ - [https://www.fcsh.unl.pt](https://www.fcsh.unl.pt)
+ - date_published: 2024-10-30T05:33:32.932268+00:00
+
+ ## Universidade NOVA de Lisboa
+ - [http://www.unl.pt](http://www.unl.pt)
+ - date_published: 2024-07-03T06:10:17.043461+00:00
+
+ ## LIACC
+ - [https://liacc.fe.up.pt](https://liacc.fe.up.pt)
+ - date_published: 2019-07-31T15:12:30+00:00
+
+ ## U.PORTO Mirror Service (mirrors.up.pt)
+ - [https://mirrors.up.pt](https://mirrors.up.pt)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## U.Porto - Universidade do Porto
+ - [https://sigarra.up.pt](https://sigarra.up.pt)
+ - date_published: 2024-07-10T09:58:42.611851+00:00
+
+ ## Bem vindo
+ - [http://www.dcc.fc.up.pt](http://www.dcc.fc.up.pt)
+ - date_published: 2024-07-17T05:49:44.231433+00:00
+
+ ## Up Clinic | Cirurgia plástica,medicina estética,smart aging e wellness
+ - [https://upclinic.pt](https://upclinic.pt)
+ - date_published: 2018-08-03T12:33:20+00:00
+
+ ## Home ISR
+ - [http://www.isr.ist.utl.pt](http://www.isr.ist.utl.pt)
+ - date_published: 2024-08-07T13:07:32+00:00
+
+ ## Department of Mathematics — Técnico, Lisboa
+ - [http://www.math.ist.utl.pt](http://www.math.ist.utl.pt)
+ - date_published: 2024-06-30T08:23:34.631710+00:00
+
+ ## Best Fibre Broadband and 5G mobile plans in Portugal | UZO
+ - [https://en.uzo.pt](https://en.uzo.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Chamadas, internet fixa em fibra, móvel 5G e telemóveis baratos | UZO
+ - [https://uzo.pt](https://uzo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Mercado de reposiçao de peças Automotivas | Valeo Service
+ - [https://www.valeoservice.pt](https://www.valeoservice.pt)
+ - date_published: 2024-10-31T11:24:44+00:00
+
+ ## Home - Valor Magazine
+ - [https://www.valormagazine.pt](https://www.valormagazine.pt)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Vaspexpresso :: Geral
+ - [https://www.vaspexpresso.pt](https://www.vaspexpresso.pt)
+ - date_published: 2024-09-19T02:31:41.666934+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.pt](https://www.viagogo.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.pt](https://www.victronenergy.pt)
+ - date_published: 2024-06-21T18:32:04+00:00
+
+ ## Vidas: A ferver, festas, estilo e o mundo dos famosos.
+ - [https://www.vidas.pt](https://www.vidas.pt)
+ - date_published: 2024-07-12T20:30:15.708336+00:00
+
+ ## Vidór
+ - [https://www.vidor.pt](https://www.vidor.pt)
+ - date_published: 2024-09-05T14:58:19.574506+00:00
+
+ ## VIP.pt
+ - [https://www.vip.pt](https://www.vip.pt)
+ - date_published: 2024-09-05T15:01:48+00:00
+
+ ## Home
+ - [http://www.vipacor.pt](http://www.vipacor.pt)
+ - date_published: 2024-09-05T15:04:45+00:00
+
+ ## Home Page
+ - [https://viralcheck.pt](https://viralcheck.pt)
+ - date_published: 2020-07-23T14:11:01+00:00
+
+ ## Visa, na liderança global dos pagamentos digitais
+ - [https://visa.pt](https://visa.pt)
+ - date_published: 2024-05-12T03:58:29.126432+00:00
+
+ ## VisionWare – Sistemas de Informação, S.A.
+ - [https://www.visionware.pt](https://www.visionware.pt)
+ - date_published: 2024-06-28T22:08:06.761160+00:00
+
+ ## Visitalentejo Caiado de Fresco - Turismo do Alentejo
+ - [http://www.visitalentejo.pt](http://www.visitalentejo.pt)
+ - date_published: 2024-09-05T15:40:50.624797+00:00
+
+ ## VisitAlgarve – Portal de Turismo do Algarve
+ - [https://www.visitalgarve.pt](https://www.visitalgarve.pt)
+ - date_published: 2024-06-05T09:15:17+00:00
+
+ ## Visit Fornos de Algodres
+ - [http://www.visitfornosdealgodres.pt](http://www.visitfornosdealgodres.pt)
+ - date_published: 2024-09-05T15:19:23.030563+00:00
+
+ ## Visualforma
+ - [https://www.visualforma.pt](https://www.visualforma.pt)
+ - date_published: 2024-09-05T15:23:41.198714+00:00
+
+ ## Forum Vodafone
+ - [https://forum.vodafone.pt](https://forum.vodafone.pt)
+ - date_published: 2024-06-29T13:50:17.474132+00:00
+
+ ## My Vodafone
+ - [https://my.vodafone.pt](https://my.vodafone.pt)
+ - date_published: 2024-06-29T13:50:19.956850+00:00
+
+ ## TOBi
+ - [https://tobi.vodafone.pt](https://tobi.vodafone.pt)
+ - date_published: 2024-06-29T13:50:24.001595+00:00
+
+ ## Vodafone Portugal - 5G, Telemóveis, Internet, Televisão
+ - [https://vodafone.pt](https://vodafone.pt)
+ - date_published: 2024-05-07T10:58:22.291734+00:00
+
  ## Vodafone Solutions
  - [https://www.vodafonesolutions.pt](https://www.vodafonesolutions.pt)
  - date_published: 2024-06-28T17:21:30+00:00
@@ -3679,360 +4036,4 @@
  ## Sony România | Ultimele știri despre tehnologii | Electronice | Divertisment
  - [http://www.sony.ro](http://www.sony.ro)
  - date_published: 2024-10-21T07:39:06.886792+00:00
-
- ## Încălțăminte, genți și îmbrăcăminte | Livrare Gratuită | SPARTOO
- - [https://spartoo.ro](https://spartoo.ro)
- - date_published: 2024-09-11T18:38:24.627283+00:00
-
- ## ACASA - Spitalul Municipal Caritas
- - [https://www.spitalulcaritasrosiori.ro](https://www.spitalulcaritasrosiori.ro)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Societatea Română de Reumatologie
- - [https://srreumatologie.ro](https://srreumatologie.ro)
- - date_published: 2024-06-28T11:55:18.726527+00:00
-
- ## StareaDemocratiei.ro – Starea Democratiei
- - [https://www.stareademocratiei.ro](https://www.stareademocratiei.ro)
- - date_published: 2024-06-28T21:51:23.389876+00:00
-
- ## StartupCafe.ro - Site-ul antreprenorilor bine informați
- - [https://www.startupcafe.ro](https://www.startupcafe.ro)
- - date_published: 2024-10-18T23:54:22.135380+00:00
-
- ## Főoldal | StartUp HUB
- - [https://startup-hub.ro](https://startup-hub.ro)
- - date_published: 2023-04-21T12:48:06+00:00
-
- ## Știri de Ultima Oră - Știrile zilei online, reportaje și exclusivități din țară și din străinătate - Știrile ProTV
- - [https://stirileprotv.ro](https://stirileprotv.ro)
- - date_published: 2024-10-18T23:54:24.015276+00:00
-
- ## Stiri pe surse - Cele mai noi stiri
- - [https://www.stiripesurse.ro](https://www.stiripesurse.ro)
- - date_published: 2024-07-11T21:51:52.520315+00:00
-
- ## Home
- - [https://www.supercazino.ro](https://www.supercazino.ro)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Hire Dedicated Developers in Eastern Europe
- - [https://teamextension.ro](https://teamextension.ro)
- - date_published: 2024-07-12T08:39:59.893484+00:00
-
- ## TechTalent - Dedicated Software Development Teams - powered by Arnia Software
- - [https://www.techtalent.ro](https://www.techtalent.ro)
- - date_published: 2024-07-14T14:48:06.522133+00:00
-
- ## TEHNE Romania - Education, Innovation, Development
- - [https://tehne.ro](https://tehne.ro)
- - date_published: 2024-01-12T09:06:29+00:00
-
- ## O singură platformă. Toate datele!
- - [http://www.termene.ro](http://www.termene.ro)
- - date_published: 2024-07-13T17:19:55.839058+00:00
-
- ## Times New Roman - Cotidian independent de umor voluntar
- - [https://timesnewroman.ro](https://timesnewroman.ro)
- - date_published: 2024-03-26T20:40:51.272736+00:00
-
- ## Attention Required! | Cloudflare
- - [https://tokero.ro](https://tokero.ro)
- - date_published: 2024-09-24T20:52:56.840259+00:00
-
- ## Totul despre mame - Sarcina, Bebelusi, Copii, Parenting
- - [https://totuldespremame.ro](https://totuldespremame.ro)
- - date_published: 2024-10-18T23:54:19.618077+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://my.toyota.ro](https://my.toyota.ro)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://www.toyota.ro](https://www.toyota.ro)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://toyotamea.ro](https://toyotamea.ro)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## TrackGPS – Soluția completă de management al flotei auto
- - [https://trackgps.ro](https://trackgps.ro)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Traduceri legalizate
- - [http://traduceri--legalizate.ro](http://traduceri--legalizate.ro)
- - date_published: 2016-01-17T08:50:01+00:00
-
- ## Traian Brumă
- - [https://traianbruma.ro](https://traianbruma.ro)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Transferuri de fotbal, zvonuri, valori de piață și știri
- - [https://www.transfermarkt.ro](https://www.transfermarkt.ro)
- - date_published: 2024-07-24T06:29:42.326506+00:00
-
- ## Driving agility into highly complex software engineering projects - Tremend
- - [https://www.tremend.ro](https://www.tremend.ro)
- - date_published: 2024-10-18T23:54:44.114511+00:00
-
- ## Tribuna.ro
- - [https://www.tribuna.ro](https://www.tribuna.ro)
- - date_published: 2024-10-29T09:08:25.604444+00:00
-
- ## trivago.ro - Compare hotel prices worldwide
- - [https://www.trivago.ro](https://www.trivago.ro)
- - date_published: 2024-09-04T11:20:18.550251+00:00
-
- ## True HR și dp-Payroll - soluții software de HR și payroll - UCMS by AROBS
- - [https://truehr.ro](https://truehr.ro)
- - date_published: 2024-10-14T21:08:20.303489+00:00
-
- ## Păreri de încredere de la clienții magazinelor online din România
- - [https://feedback.trusted.ro](https://feedback.trusted.ro)
- - date_published: 2024-09-19T15:00:37.332453+00:00
-
- ## Magazine online și site-uri profesionale de încredere, consumatori avizați
- - [https://nl.trusted.ro](https://nl.trusted.ro)
- - date_published: 2017-05-23T00:00:00+00:00
-
- ## Magazine online și site-uri profesionale de încredere, consumatori avizați
- - [https://trusted.ro](https://trusted.ro)
- - date_published: 2017-05-23T00:00:00+00:00
-
- ## Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity Home Page
- - [http://atps.tucn.ro](http://atps.tucn.ro)
- - date_published: 2020-01-14T16:56:49+00:00
-
- ## https://profs.info.uaic.ro
- - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
- - date_published: 2024-01-11T21:02:01.927273+00:00
-
- ## Universitatea Alexandru Ioan Cuza din Iași
- - [https://uaic.ro](https://uaic.ro)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Facultatea de Informatică – University Alexandru Ioan Cuza, România
- - [https://www.info.uaic.ro](https://www.info.uaic.ro)
- - date_published: 2024-08-18T03:24:50.205939+00:00
-
- ## AcademicInfo
- - [https://academicinfo.ubbcluj.ro](https://academicinfo.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:51.193265+00:00
-
- ## Institute for doctoral studies | Universitatea Babeș-Bolyai
- - [https://doctorat.ubbcluj.ro](https://doctorat.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:56.693322+00:00
-
- ## Center for High Performance Computing | Babeș-Bolyai University
- - [http://hpc.cs.ubbcluj.ro](http://hpc.cs.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:55.553098+00:00
-
- ## - Managementul activităţii academice/ştiinţifice UBB
- - [http://infocercetare.ubbcluj.ro](http://infocercetare.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:54.369709+00:00
-
- ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
- - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
- - date_published: 2024-05-06T14:11:16.484259+00:00
-
- ## Cluj University Press - redirect
- - [http://www.editura.ubbcluj.ro](http://www.editura.ubbcluj.ro)
- - date_published: 2024-10-15T03:07:25.325591+00:00
-
- ## Universitatea Babeș-Bolyai
- - [https://www.ubbcluj.ro](https://www.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:40.252189+00:00
-
- ## Uncyclopedia – Blog facut de oameni inteligenti
- - [http://uncyclopedia.ro](http://uncyclopedia.ro)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## Undelucram.ro - Descoperă angajatorii și mediul de lucru al următorului tău job
- - [https://www.undelucram.ro](https://www.undelucram.ro)
- - date_published: 2024-09-19T14:44:31.715445+00:00
-
- ## University of Bucharest Identity Provider
- - [https://idp.unibuc.ro](https://idp.unibuc.ro)
- - date_published: 2022-02-22T09:27:28+00:00
-
- ## Universitatea Politehnica din București - UPB
- - [http://www.upb.ro](http://www.upb.ro)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Universitatea Politehnica Timișoara
- - [https://www.upt.ro](https://www.upt.ro)
- - date_published: 2024-09-24T11:21:21.500931+00:00
-
- ## Universitatea „Ștefan cel Mare” din Suceava – Una dintre cele mai dinamice universități din Europa de Est
- - [https://usv.ro](https://usv.ro)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Acasă - Serviciul Intern de Contracte si Achizitii
- - [https://achizitii.utcluj.ro](https://achizitii.utcluj.ro)
- - date_published: 2024-06-22T11:56:20.843340+00:00
-
- ## Acasa - Facultatea de Automatica si Calculatoare
- - [http://ac.utcluj.ro](http://ac.utcluj.ro)
- - date_published: 2024-06-21T12:20:00+00:00
-
- ## ADMITERE ONLINE 2024 — Admitere Universitatea Tehnică din Cluj-Napoca
- - [https://admitereonline.utcluj.ro](https://admitereonline.utcluj.ro)
- - date_published: 2024-06-22T11:56:34.802921+00:00
-
- ## Acasa - Extensia Alba Iulia
- - [https://albaiulia.utcluj.ro](https://albaiulia.utcluj.ro)
- - date_published: 2024-06-22T11:56:09+00:00
-
- ## Acasa - alumni.utcluj.ro
- - [https://alumni.utcluj.ro](https://alumni.utcluj.ro)
- - date_published: 2024-06-22T11:56:14.458185+00:00
-
- ## acasa - Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică
- - [http://armm.utcluj.ro](http://armm.utcluj.ro)
- - date_published: 2024-06-17T10:10:00+00:00
-
- ## Acasa - Directia Generala Biblioteca
- - [https://biblioteca.utcluj.ro](https://biblioteca.utcluj.ro)
- - date_published: 2024-06-22T11:56:45+00:00
-
- ## Acasă - Extensia Universitară Bistriţa
- - [https://bistrita.utcluj.ro](https://bistrita.utcluj.ro)
- - date_published: 2022-01-04T13:05:00+00:00
-
- ## Relatii internationale
- - [http://bri.utcluj.ro](http://bri.utcluj.ro)
- - date_published: 2024-06-22T11:56:03.899727+00:00
-
- ## Acasa - Casa de Ajutor Reciproc
- - [http://car.utcluj.ro](http://car.utcluj.ro)
- - date_published: 2024-06-22T11:56:37+00:00
-
- ## Anunturi - Centrul de comunicații "Pusztai Kalman"
- - [https://ccd.utcluj.ro](https://ccd.utcluj.ro)
- - date_published: 2024-06-22T11:55:56.024905+00:00
-
- ## Centrul de Consiliere şi Orientare în Carieră
- - [https://consiliere.utcluj.ro](https://consiliere.utcluj.ro)
- - date_published: 2024-06-22T11:56:08.405127+00:00
-
- ## Acasa - Facultatea de Construcții
- - [http://constructii.utcluj.ro](http://constructii.utcluj.ro)
- - date_published: 2024-06-20T19:24:00+00:00
-
- ## Acasa - Compartimentul pentru Relatia cu Mediul Socio-Economic
- - [https://crmse.utcluj.ro](https://crmse.utcluj.ro)
- - date_published: 2024-06-22T11:56:12+00:00
-
- ## Legis - Legislatie
- - [https://ctfs.utcluj.ro](https://ctfs.utcluj.ro)
- - date_published: 2024-06-22T11:56:25+00:00
-
- ## Programe postuniversitare | UTC-N
- - [http://decidfr.utcluj.ro](http://decidfr.utcluj.ro)
- - date_published: 2024-06-22T11:56:07.376191+00:00
-
- ## Acasa - Departamentul de Specialitate cu Profil Psihopedagogic
- - [http://dspp.utcluj.ro](http://dspp.utcluj.ro)
- - date_published: 2024-06-22T11:56:16+00:00
-
- ## Acasă - Facultatea de Electronică, Telecomunicații și Tehnologia Informației
- - [http://etti.utcluj.ro](http://etti.utcluj.ro)
- - date_published: 2024-06-20T07:53:00+00:00
-
- ## Acasa - Facultatea de Arhitectură și Urbanism
- - [http://fau.utcluj.ro](http://fau.utcluj.ro)
- - date_published: 2024-06-20T10:01:00+00:00
-
- ## Acasa - Facultatea de Inginerie Electrica
- - [http://ie.utcluj.ro](http://ie.utcluj.ro)
- - date_published: 2024-06-17T12:24:00+00:00
-
- ## Acasa - Facultatea de Inginerie Industriala, Robotica si Managementul Productiei
- - [http://iirmp.utcluj.ro](http://iirmp.utcluj.ro)
- - date_published: 2024-06-18T16:42:00+00:00
-
- ## Acasa - Facultatea de Ingineria Materialelor si a Mediului
- - [http://imm.utcluj.ro](http://imm.utcluj.ro)
- - date_published: 2024-06-21T17:39:00+00:00
-
- ## Acasa - Facultatea de Inginerie
- - [http://inginerie.utcluj.ro](http://inginerie.utcluj.ro)
- - date_published: 2024-06-17T12:47:00+00:00
-
- ## Acasa - Facultatea de Inginerie a Instalaţiilor
- - [http://instalatii.utcluj.ro](http://instalatii.utcluj.ro)
- - date_published: 2024-06-19T12:00:00+00:00
-
- ## Portalul intern al Universitatii Tehnice din Cluj-Napoca
- - [https://intranet.utcluj.ro](https://intranet.utcluj.ro)
- - date_published: 2024-06-22T11:56:10.164981+00:00
-
- ## Acasa - IOSUD
- - [http://iosud.utcluj.ro](http://iosud.utcluj.ro)
- - date_published: 2024-06-22T11:55:48+00:00
-
- ## Acasa - Facultatea de Litere
- - [http://litere.utcluj.ro](http://litere.utcluj.ro)
- - date_published: 2024-06-22T11:56:00.029524+00:00
-
- ## Acasa - Compartimentul pentru Management Universitar
- - [https://muniv.utcluj.ro](https://muniv.utcluj.ro)
- - date_published: 2024-06-22T11:55:44+00:00
-
- ## PRO INVENT
- - [http://proinvent.utcluj.ro](http://proinvent.utcluj.ro)
- - date_published: 2023-10-17T11:50:26+00:00
-
- ## Home - Technical University of Cluj-Napoca Research
- - [http://research.utcluj.ro](http://research.utcluj.ro)
- - date_published: 2024-06-22T11:55:52+00:00
-
- ## Think outside the box - SAS UTCN
- - [https://sas.utcluj.ro](https://sas.utcluj.ro)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Acasa - Extensia Universitara Satu Mare
- - [https://satumare.utcluj.ro](https://satumare.utcluj.ro)
- - date_published: 2022-07-07T20:09:00+00:00
-
- ## Acasa - Facultatea de Stiinte
- - [http://stiinte.utcluj.ro](http://stiinte.utcluj.ro)
- - date_published: 2024-06-22T11:56:36.615924+00:00
-
- ## Universitatea TehnicÄ din Cluj-Napoca
- - [https://utcluj.ro](https://utcluj.ro)
- - date_published: 2024-06-22T11:56:44.702996+00:00
-
- ## Universitatea Tehnica Cluj - Napoca
- - [https://viziteaza.utcluj.ro](https://viziteaza.utcluj.ro)
- - date_published: 2019-01-29T16:01:11+00:00
-
- ## Departamentul de Informatica
- - [https://websinu.utcluj.ro](https://websinu.utcluj.ro)
- - date_published: 2024-06-22T11:56:15.738232+00:00
-
- ## Acasă - Extensia Universitara Zalau
- - [https://zalau.utcluj.ro](https://zalau.utcluj.ro)
- - date_published: 2024-04-15T20:08:00+00:00
-
- ## Utilaje pentru gradina si gospodarii - utilaria.ro
- - [https://utilaria.ro](https://utilaria.ro)
- - date_published: 2024-06-12T02:33:25.135709+00:00
-
- ## UTV
- - [https://www.utv.ro](https://www.utv.ro)
- - date_published: 2024-08-18T08:47:38.596877+00:00
-
- ## Acasa - UVT
- - [https://www.uvt.ro](https://www.uvt.ro)
- - date_published: 2023-09-08T10:00:39+00:00
-
- ## valinet
- - [https://valinet.ro](https://valinet.ro)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Calculator — Valori Nutritionale
- - [https://valori-nutritionale.ro](https://valori-nutritionale.ro)
- - date_published: 2024-09-17T00:00:00+00:00
 

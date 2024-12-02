@@ -1,4 +1,8 @@
  ## Brain & Heart Communication - Social Media Agentur
+ - [https://2024.b-h.ch](https://2024.b-h.ch)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Brain & Heart Communication - Social Media Agentur
  - [https://b-h.ch](https://b-h.ch)
  - date_published: 2024-04-04T00:00:00+00:00
 
@@ -4004,8 +4008,4 @@
  ## 🚀  Web hosting, cloud computing, cloud server, domain name, email, radio streaming and more!
  - [https://www.infomaniak.ch](https://www.infomaniak.ch)
  - date_published: 2024-05-01T06:55:11.768907+00:00
-
- ## Inner Development Goals – Switzerland
- - [https://www.innerdevelopmentgoals.ch](https://www.innerdevelopmentgoals.ch)
- - date_published: 2024-09-12T19:59:33.669449+00:00
 

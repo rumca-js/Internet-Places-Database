@@ -1,4 +1,356 @@
  ## Wikipedia
+ - [https://sc.wikipedia.org](https://sc.wikipedia.org)
+ - date_published: 2024-05-10T04:28:41.858008+00:00
+
+ ## وڪيپيڊيا
+ - [https://sd.m.wikipedia.org](https://sd.m.wikipedia.org)
+ - date_published: 2024-07-10T02:22:29+00:00
+
+ ## وڪيپيڊيا
+ - [https://sd.wikipedia.org](https://sd.wikipedia.org)
+ - date_published: 2024-05-10T04:24:36.874408+00:00
+
+ ## Wikipedia
+ - [https://se.m.wikipedia.org](https://se.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Wikipedia
+ - [https://se.wikipedia.org](https://se.wikipedia.org)
+ - date_published: 2024-05-10T04:16:15.232634+00:00
+
+ ## Wikipedia
+ - [https://sg.m.wikipedia.org](https://sg.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:22+00:00
+
+ ## Wikipedia
+ - [https://sg.wikipedia.org](https://sg.wikipedia.org)
+ - date_published: 2024-05-10T04:29:22.186597+00:00
+
+ ## Wikipedia
+ - [https://shi.m.wikipedia.org](https://shi.m.wikipedia.org)
+ - date_published: 2024-07-12T00:02:24+00:00
+
+ ## Wikipedia
+ - [https://shi.wikipedia.org](https://shi.wikipedia.org)
+ - date_published: 2024-05-10T04:17:08.410717+00:00
+
+ ## Wikipedija / Википедија
+ - [https://sh.m.wikipedia.org](https://sh.m.wikipedia.org)
+ - date_published: 2024-07-10T20:03:52+00:00
+
+ ## ဝီႇၶီႇၽီးတီးယႃး
+ - [https://shn.m.wikipedia.org](https://shn.m.wikipedia.org)
+ - date_published: 2024-07-09T21:53:24+00:00
+
+ ## ဝီႇၶီႇၽီးတီးယႃး
+ - [https://shn.wikipedia.org](https://shn.wikipedia.org)
+ - date_published: 2024-05-10T04:28:30.675029+00:00
+
+ ## Wikipedija / Википедија
+ - [https://sh.wikipedia.org](https://sh.wikipedia.org)
+ - date_published: 2024-05-10T04:18:31.271501+00:00
+
+ ## Wikipedia
+ - [https://simple.m.wikipedia.org](https://simple.m.wikipedia.org)
+ - date_published: 2024-08-04T11:18:32+00:00
+
+ ## Wikipedia
+ - [https://simple.wikipedia.org](https://simple.wikipedia.org)
+ - date_published: 2024-04-29T02:50:03.002857+00:00
+
+ ## විකිපීඩියා
+ - [https://si.m.wikipedia.org](https://si.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## විකිපීඩියා
+ - [https://si.wikipedia.org](https://si.wikipedia.org)
+ - date_published: 2024-05-10T04:17:42.453890+00:00
+
+ ## Wikipédia
+ - [https://sk.m.wikipedia.org](https://sk.m.wikipedia.org)
+ - date_published: 2024-07-12T00:01:01+00:00
+
+ ## وکیپیڈیا
+ - [https://skr.m.wikipedia.org](https://skr.m.wikipedia.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## وکیپیڈیا
+ - [https://skr.wikipedia.org](https://skr.wikipedia.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Wikipédia
+ - [https://sk.wikipedia.org](https://sk.wikipedia.org)
+ - date_published: 2024-05-10T04:17:57.656115+00:00
+
+ ## Wikipedija
+ - [https://sl.m.wikipedia.org](https://sl.m.wikipedia.org)
+ - date_published: 2024-07-11T22:02:04+00:00
+
+ ## Wikipedija
+ - [https://sl.wikipedia.org](https://sl.wikipedia.org)
+ - date_published: 2024-05-10T04:28:47.629282+00:00
+
+ ## Wikipedia
+ - [https://sm.m.wikipedia.org](https://sm.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikipedia
+ - [https://smn.m.wikipedia.org](https://smn.m.wikipedia.org)
+ - date_published: 2024-07-12T00:02:24+00:00
+
+ ## Wikipedia
+ - [https://smn.wikipedia.org](https://smn.wikipedia.org)
+ - date_published: 2024-05-10T04:17:39.843840+00:00
+
+ ## Wikipedia
+ - [https://sm.wikipedia.org](https://sm.wikipedia.org)
+ - date_published: 2024-05-10T04:17:52.352245+00:00
+
+ ## Wikipedia
+ - [https://sn.m.wikipedia.org](https://sn.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikipedia
+ - [https://sn.wikipedia.org](https://sn.wikipedia.org)
+ - date_published: 2024-05-10T04:30:32.181723+00:00
+
+ ## Wikipedia
+ - [https://so.m.wikipedia.org](https://so.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikipedia
+ - [https://so.wikipedia.org](https://so.wikipedia.org)
+ - date_published: 2024-05-10T04:29:06.262895+00:00
+
+ ## Wikispecies, free species directory
+ - [https://species.wikipedia.org](https://species.wikipedia.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://sq.m.wikipedia.org](https://sq.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikipedia
+ - [https://sq.wikipedia.org](https://sq.wikipedia.org)
+ - date_published: 2024-05-10T04:29:11.624697+00:00
+
+ ## Википедија
+ - [https://sr.m.wikipedia.org](https://sr.m.wikipedia.org)
+ - date_published: 2024-07-10T07:47:20+00:00
+
+ ## Wikipedia
+ - [https://srn.m.wikipedia.org](https://srn.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:23+00:00
+
+ ## Wikipedia
+ - [https://srn.wikipedia.org](https://srn.wikipedia.org)
+ - date_published: 2024-05-10T04:28:28.834467+00:00
+
+ ## Википедија
+ - [https://sr.wikipedia.org](https://sr.wikipedia.org)
+ - date_published: 2024-05-10T03:55:44.619576+00:00
+
+ ## Wikipedia
+ - [https://ss.m.wikipedia.org](https://ss.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://ss.wikipedia.org](https://ss.wikipedia.org)
+ - date_published: 2024-05-10T04:19:03.926253+00:00
+
+ ## Wikipedia
+ - [https://st.m.wikipedia.org](https://st.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://stq.m.wikipedia.org](https://stq.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://stq.wikipedia.org](https://stq.wikipedia.org)
+ - date_published: 2024-05-10T04:25:17.578133+00:00
+
+ ## Wikipedia
+ - [https://st.wikipedia.org](https://st.wikipedia.org)
+ - date_published: 2024-05-10T04:18:09.303505+00:00
+
+ ## Wikipédia Sunda, énsiklopédi bébas
+ - [https://su.m.wikipedia.org](https://su.m.wikipedia.org)
+ - date_published: 2024-07-11T10:13:57+00:00
+
+ ## Wikipédia Sunda, énsiklopédi bébas
+ - [https://su.wikipedia.org](https://su.wikipedia.org)
+ - date_published: 2024-05-10T04:28:53.483970+00:00
+
+ ## Wikipedia, den fria encyklopedin
+ - [https://sv.m.wikipedia.org](https://sv.m.wikipedia.org)
+ - date_published: 2024-07-11T09:52:01+00:00
+
+ ## Wikipedia, den fria encyklopedin
+ - [https://sv.wikipedia.org](https://sv.wikipedia.org)
+ - date_published: 2024-05-10T03:55:08.539280+00:00
+
+ ## Wikipedia
+ - [https://sw.m.wikipedia.org](https://sw.m.wikipedia.org)
+ - date_published: 2024-07-11T07:28:49+00:00
+
+ ## Wikipedia
+ - [https://sw.wikipedia.org](https://sw.wikipedia.org)
+ - date_published: 2024-05-10T04:19:22.051087+00:00
+
+ ## Wikipedyjo, swobodno yncyklopedyjo
+ - [https://szl.m.wikipedia.org](https://szl.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedyjo, swobodno yncyklopedyjo
+ - [https://szl.wikipedia.org](https://szl.wikipedia.org)
+ - date_published: 2024-05-10T04:28:56.785960+00:00
+
+ ## Wikipitiya
+ - [https://szy.m.wikipedia.org](https://szy.m.wikipedia.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Wikipitiya
+ - [https://szy.wikipedia.org](https://szy.wikipedia.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## விக்கிப்பீடியா
+ - [https://ta.m.wikipedia.org](https://ta.m.wikipedia.org)
+ - date_published: 2024-07-11T07:07:48+00:00
+
+ ## விக்கிப்பீடியா
+ - [https://ta.wikipedia.org](https://ta.wikipedia.org)
+ - date_published: 2024-05-10T04:24:35.232753+00:00
+
+ ## Wikipidia
+ - [https://tay.m.wikipedia.org](https://tay.m.wikipedia.org)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Wikipidia
+ - [https://tay.wikipedia.org](https://tay.wikipedia.org)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## ವಿಕಿಪೀಡಿಯ
+ - [https://tcy.m.wikipedia.org](https://tcy.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## ವಿಕಿಪೀಡಿಯ
+ - [https://tcy.wikipedia.org](https://tcy.wikipedia.org)
+ - date_published: 2024-05-10T04:18:13.129794+00:00
+
+ ## వికీపీడియా
+ - [https://te.m.wikipedia.org](https://te.m.wikipedia.org)
+ - date_published: 2024-07-11T13:53:46+00:00
+
+ ## Wikipedia
+ - [https://test.wikipedia.org](https://test.wikipedia.org)
+ - date_published: 2024-07-06T19:43:15+00:00
+
+ ## Wikipedia
+ - [https://tet.m.wikipedia.org](https://tet.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:24+00:00
+
+ ## Wikipedia
+ - [https://tet.wikipedia.org](https://tet.wikipedia.org)
+ - date_published: 2024-05-10T04:28:24.512220+00:00
+
+ ## వికీపీడియా
+ - [https://te.wikipedia.org](https://te.wikipedia.org)
+ - date_published: 2024-05-10T04:29:48.085307+00:00
+
+ ## Википедия — донишномаи озод
+ - [https://tg.m.wikipedia.org](https://tg.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Википедия — донишномаи озод
+ - [https://tg.wikipedia.org](https://tg.wikipedia.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## วิกิพีเดีย สารานุกรมเสรี
+ - [https://th.m.wikipedia.org](https://th.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:49+00:00
+
+ ## วิกิพีเดีย สารานุกรมเสรี
+ - [https://th.wikipedia.org](https://th.wikipedia.org)
+ - date_published: 2024-05-10T04:29:33.770400+00:00
+
+ ## ዊኪፐድያ፣ ናጻ ኢንሳይክሎፐድያ
+ - [https://ti.m.wikipedia.org](https://ti.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## ዊኪፐድያ፣ ናጻ ኢንሳይክሎፐድያ
+ - [https://ti.wikipedia.org](https://ti.wikipedia.org)
+ - date_published: 2024-05-10T04:18:56.697977+00:00
+
+ ## Wikipediýa
+ - [https://tk.m.wikipedia.org](https://tk.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipediýa
+ - [https://tk.wikipedia.org](https://tk.wikipedia.org)
+ - date_published: 2024-05-10T04:17:33.543971+00:00
+
+ ## Wikipedia, ang malayang ensiklopedya
+ - [https://tl.m.wikipedia.org](https://tl.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipedia, ang malayang ensiklopedya
+ - [https://tl.wikipedia.org](https://tl.wikipedia.org)
+ - date_published: 2024-05-10T04:16:34.782148+00:00
+
+ ## Vikipediá
+ - [https://tly.m.wikipedia.org](https://tly.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Sərlovhə - Vikipediá
+ - [https://tly.wikipedia.org](https://tly.wikipedia.org)
+ - date_published: 2024-05-10T04:30:35.288553+00:00
+
+ ## Wikipedia
+ - [https://tn.m.wikipedia.org](https://tn.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipedia
+ - [https://tn.wikipedia.org](https://tn.wikipedia.org)
+ - date_published: 2024-05-10T04:17:41.163700+00:00
+
+ ## Wikipedia
+ - [https://to.m.wikipedia.org](https://to.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipedia
+ - [https://to.wikipedia.org](https://to.wikipedia.org)
+ - date_published: 2024-05-10T04:25:32.638194+00:00
+
+ ## Wikipedia
+ - [https://tpi.m.wikipedia.org](https://tpi.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipedia
+ - [https://tpi.wikipedia.org](https://tpi.wikipedia.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Vikipedi: Özgür Ansiklopedi
+ - [https://tr.m.wikipedia.org](https://tr.m.wikipedia.org)
+ - date_published: 2024-07-11T00:39:01+00:00
+
+ ## Wikipidiya
+ - [https://trv.m.wikipedia.org](https://trv.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipidiya
+ - [https://trv.wikipedia.org](https://trv.wikipedia.org)
+ - date_published: 2024-05-10T04:25:40.835431+00:00
+
+ ## Vikipedi: Özgür Ansiklopedi
+ - [https://tr.wikipedia.org](https://tr.wikipedia.org)
+ - date_published: 2024-05-10T03:55:18.748709+00:00
+
+ ## Wikipedia
+ - [https://ts.m.wikipedia.org](https://ts.m.wikipedia.org)
+ - date_published: 2024-07-09T12:22:25+00:00
+
+ ## Wikipedia
  - [https://ts.wikipedia.org](https://ts.wikipedia.org)
  - date_published: 2024-05-10T04:29:45.849980+00:00
 
@@ -149,7 +501,7 @@
  ## Wikipedia, the free encyclopedia
  - [https://wikipedia.org](https://wikipedia.org)
  - date_published: 2024-05-07T09:30:33.108008+00:00
- - tags: ['gatekeeper', 'encyclopedia']
+ - tags: ['gateway', 'encyclopedia', 'gatekeeper']
 
  ## Wikipedia
  - [https://wo.m.wikipedia.org](https://wo.m.wikipedia.org)
@@ -3647,356 +3999,4 @@
  ## Main Page - Wiktionary
  - [https://pi.wiktionary.org](https://pi.wiktionary.org)
  - date_published: 2024-09-03T06:47:50+00:00
-
- ## Wikisłownik, wolny słownik wielojęzyczny
- - [https://pl.m.wiktionary.org](https://pl.m.wiktionary.org)
- - date_published: 2024-09-07T06:41:54+00:00
-
- ## Wikisłownik, wolny słownik wielojęzyczny
- - [https://pl.wiktionary.org](https://pl.wiktionary.org)
- - date_published: 2024-06-11T12:31:47+00:00
-
- ## Pàgina prinsipal - Wt/pms - Wikimedia Incubator
- - [https://pms.wiktionary.org](https://pms.wiktionary.org)
- - date_published: 2024-06-28T02:20:22+00:00
-
- ## وکشنری
- - [https://pnb.m.wiktionary.org](https://pnb.m.wiktionary.org)
- - date_published: 2024-09-13T19:52:55+00:00
-
- ## وکشنری
- - [https://pnb.wiktionary.org](https://pnb.wiktionary.org)
- - date_published: 2024-05-31T13:29:01+00:00
-
- ## Αρχικόν σελίδα - Wt/pnt - Wikimedia Incubator
- - [https://pnt.wiktionary.org](https://pnt.wiktionary.org)
- - date_published: 2024-06-28T02:35:20+00:00
-
- ## ويکيسيند
- - [https://ps.m.wiktionary.org](https://ps.m.wiktionary.org)
- - date_published: 2024-09-04T03:08:52+00:00
-
- ## ويکيسيند
- - [https://ps.wiktionary.org](https://ps.wiktionary.org)
- - date_published: 2024-06-11T12:31:54+00:00
-
- ## Wikcionário
- - [https://pt.m.wiktionary.org](https://pt.m.wiktionary.org)
- - date_published: 2024-09-07T06:41:55+00:00
-
- ## Wikcionário
- - [https://pt.wiktionary.org](https://pt.wiktionary.org)
- - date_published: 2024-06-11T12:31:48+00:00
-
- ## Wiktionary
- - [https://qu.m.wiktionary.org](https://qu.m.wiktionary.org)
- - date_published: 2024-09-04T03:06:21+00:00
-
- ## Wiktionary
- - [https://qu.wiktionary.org](https://qu.wiktionary.org)
- - date_published: 2024-06-01T06:21:53+00:00
-
- ## Wiktionary
- - [https://rm.wiktionary.org](https://rm.wiktionary.org)
- - date_published: 2024-09-04T03:00:04+00:00
-
- ## Wiktionary
- - [https://roa-rup.m.wiktionary.org](https://roa-rup.m.wiktionary.org)
- - date_published: 2024-09-12T00:00:46+00:00
-
- ## Wiktionary
- - [https://roa-rup.wiktionary.org](https://roa-rup.wiktionary.org)
- - date_published: 2024-05-31T14:54:02+00:00
-
- ## Wikționar
- - [https://ro.m.wiktionary.org](https://ro.m.wiktionary.org)
- - date_published: 2024-09-03T16:52:12+00:00
-
- ## Wikționar
- - [https://ro.wiktionary.org](https://ro.wiktionary.org)
- - date_published: 2024-06-02T07:24:22+00:00
-
- ## Головна сторінка - Wt/rue - Wikimedia Incubator
- - [https://rue.wiktionary.org](https://rue.wiktionary.org)
- - date_published: 2024-09-04T03:36:01+00:00
-
- ## Викисловарь
- - [https://ru.m.wiktionary.org](https://ru.m.wiktionary.org)
- - date_published: 2024-07-11T11:19:19+00:00
-
- ## Викисловарь
- - [https://ru.wiktionary.org](https://ru.wiktionary.org)
- - date_published: 2024-05-10T03:55:37.295961+00:00
-
- ## Wiktionary
- - [https://rw.m.wiktionary.org](https://rw.m.wiktionary.org)
- - date_published: 2024-09-04T03:21:39+00:00
-
- ## Wiktionary
- - [https://rw.wiktionary.org](https://rw.wiktionary.org)
- - date_published: 2024-06-07T20:13:04+00:00
-
- ## Сүрүн сирэй - Wt/sah - Wikimedia Incubator
- - [https://sah.wiktionary.org](https://sah.wiktionary.org)
- - date_published: 2024-06-27T21:24:05+00:00
-
- ## विकिशब्दकोशः
- - [https://sa.m.wiktionary.org](https://sa.m.wiktionary.org)
- - date_published: 2024-09-04T03:19:25+00:00
-
- ## Main Page - Wt/sat - Wikimedia Incubator
- - [https://sat.wiktionary.org](https://sat.wiktionary.org)
- - date_published: 2024-06-28T02:42:05+00:00
-
- ## विकिशब्दकोशः
- - [https://sa.wiktionary.org](https://sa.wiktionary.org)
- - date_published: 2024-05-31T14:44:52+00:00
-
- ## Wikizziunariu
- - [https://scn.m.wiktionary.org](https://scn.m.wiktionary.org)
- - date_published: 2024-09-04T03:02:06+00:00
-
- ## Wikizziunariu
- - [https://scn.wiktionary.org](https://scn.wiktionary.org)
- - date_published: 2024-06-01T05:09:44+00:00
-
- ## Main Page - Wt/sco - Wikimedia Incubator
- - [https://sco.wiktionary.org](https://sco.wiktionary.org)
- - date_published: 2024-06-28T05:27:18+00:00
-
- ## Pàgina printzipale - Wiktionary
- - [https://sc.wiktionary.org](https://sc.wiktionary.org)
- - date_published: 2024-06-27T15:27:23+00:00
-
- ## Wiktionary
- - [https://sd.m.wiktionary.org](https://sd.m.wiktionary.org)
- - date_published: 2024-09-04T02:57:11+00:00
-
- ## Wiktionary
- - [https://sd.wiktionary.org](https://sd.wiktionary.org)
- - date_published: 2024-06-01T12:23:41+00:00
-
- ## Váldosiidu - Wt/se - Wikimedia Incubator
- - [https://se.wiktionary.org](https://se.wiktionary.org)
- - date_published: 2024-09-04T03:29:10+00:00
-
- ## Wiktionary
- - [https://sg.m.wiktionary.org](https://sg.m.wiktionary.org)
- - date_published: 2024-09-03T14:11:12+00:00
-
- ## Wiktionary
- - [https://sg.wiktionary.org](https://sg.wiktionary.org)
- - date_published: 2024-06-01T09:20:04+00:00
-
- ## Wt/shi - Wikimedia Incubator
- - [https://shi.wiktionary.org](https://shi.wiktionary.org)
- - date_published: 2024-07-09T09:56:25+00:00
-
- ## Wiktionary
- - [https://sh.m.wiktionary.org](https://sh.m.wiktionary.org)
- - date_published: 2024-09-04T02:58:49+00:00
-
- ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
- - [https://shn.m.wiktionary.org](https://shn.m.wiktionary.org)
- - date_published: 2024-09-10T13:43:16+00:00
-
- ## ဝိၵ်ႇသျိၼ်ႇၼရီႇ
- - [https://shn.wiktionary.org](https://shn.wiktionary.org)
- - date_published: 2024-06-11T12:31:49+00:00
-
- ## Wiktionary
- - [https://sh.wiktionary.org](https://sh.wiktionary.org)
- - date_published: 2024-06-01T12:23:52+00:00
-
- ## Wikasegzawal
- - [https://shy.m.wiktionary.org](https://shy.m.wiktionary.org)
- - date_published: 2024-09-04T03:14:18+00:00
-
- ## Wikasegzawal
- - [https://shy.wiktionary.org](https://shy.wiktionary.org)
- - date_published: 2024-05-31T21:43:07+00:00
-
- ## Simple English Wiktionary
- - [https://simple.m.wiktionary.org](https://simple.m.wiktionary.org)
- - date_published: 2024-09-03T04:52:29+00:00
-
- ## Simple English Wiktionary
- - [https://simple.wiktionary.org](https://simple.wiktionary.org)
- - date_published: 2024-06-07T20:13:04+00:00
-
- ## Wiktionary
- - [https://si.m.wiktionary.org](https://si.m.wiktionary.org)
- - date_published: 2024-09-17T14:39:51+00:00
-
- ## Wiktionary
- - [https://si.wiktionary.org](https://si.wiktionary.org)
- - date_published: 2024-06-11T15:08:37+00:00
-
- ## Wikislovník
- - [https://sk.m.wiktionary.org](https://sk.m.wiktionary.org)
- - date_published: 2024-09-17T11:25:48+00:00
-
- ## وکشنری
- - [https://skr.m.wiktionary.org](https://skr.m.wiktionary.org)
- - date_published: 2024-09-17T07:38:20+00:00
-
- ## وکشنری
- - [https://skr.wiktionary.org](https://skr.wiktionary.org)
- - date_published: 2024-06-01T02:57:20+00:00
-
- ## Wikislovník
- - [https://sk.wiktionary.org](https://sk.wiktionary.org)
- - date_published: 2024-06-11T12:31:49+00:00
-
- ## Wikislovar
- - [https://sl.m.wiktionary.org](https://sl.m.wiktionary.org)
- - date_published: 2024-09-04T03:36:20+00:00
-
- ## Wikislovar
- - [https://sl.wiktionary.org](https://sl.wiktionary.org)
- - date_published: 2024-06-01T10:11:38+00:00
-
- ## Wiktionary
- - [https://sm.m.wiktionary.org](https://sm.m.wiktionary.org)
- - date_published: 2024-09-04T03:30:04+00:00
-
- ## Wiktionary
- - [https://sm.wiktionary.org](https://sm.wiktionary.org)
- - date_published: 2024-05-31T13:23:35+00:00
-
- ## Wiktionary
- - [https://sn.m.wiktionary.org](https://sn.m.wiktionary.org)
- - date_published: 2024-09-03T14:01:01+00:00
-
- ## Wiktionary
- - [https://sn.wiktionary.org](https://sn.wiktionary.org)
- - date_published: 2024-05-31T14:13:31+00:00
-
- ## Wiktionary
- - [https://so.m.wiktionary.org](https://so.m.wiktionary.org)
- - date_published: 2024-09-04T03:11:42+00:00
-
- ## Wiktionary
- - [https://so.wiktionary.org](https://so.wiktionary.org)
- - date_published: 2024-06-01T11:26:18+00:00
-
- ## Wiktionary
- - [https://sq.m.wiktionary.org](https://sq.m.wiktionary.org)
- - date_published: 2024-09-04T03:16:17+00:00
-
- ## Wiktionary
- - [https://sq.wiktionary.org](https://sq.wiktionary.org)
- - date_published: 2024-06-01T11:46:24+00:00
-
- ## Викиречник
- - [https://sr.m.wiktionary.org](https://sr.m.wiktionary.org)
- - date_published: 2024-09-04T03:35:54+00:00
-
- ## Викиречник
- - [https://sr.wiktionary.org](https://sr.wiktionary.org)
- - date_published: 2024-06-01T12:26:56+00:00
-
- ## Wiktionary
- - [https://ss.m.wiktionary.org](https://ss.m.wiktionary.org)
- - date_published: 2024-09-04T03:36:54+00:00
-
- ## Wiktionary
- - [https://ss.wiktionary.org](https://ss.wiktionary.org)
- - date_published: 2024-06-01T12:27:01+00:00
-
- ## Wiktionary
- - [https://st.m.wiktionary.org](https://st.m.wiktionary.org)
- - date_published: 2024-09-03T13:23:17+00:00
-
- ## Wiktionary
- - [https://st.wiktionary.org](https://st.wiktionary.org)
- - date_published: 2024-06-07T20:13:04+00:00
-
- ## Wikikamus basa Sunda, kamus bébas
- - [https://su.m.wiktionary.org](https://su.m.wiktionary.org)
- - date_published: 2024-09-08T08:27:52+00:00
-
- ## Wikikamus basa Sunda, kamus bébas
- - [https://su.wiktionary.org](https://su.wiktionary.org)
- - date_published: 2024-05-31T22:30:37+00:00
-
- ## Wiktionary, den fria ordboken
- - [https://sv.m.wiktionary.org](https://sv.m.wiktionary.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Wiktionary, den fria ordboken
- - [https://sv.wiktionary.org](https://sv.wiktionary.org)
- - date_published: 2024-06-11T12:31:50+00:00
-
- ## Wiktionary
- - [https://sw.m.wiktionary.org](https://sw.m.wiktionary.org)
- - date_published: 2024-09-04T03:16:27+00:00
-
- ## Wiktionary
- - [https://sw.wiktionary.org](https://sw.wiktionary.org)
- - date_published: 2024-06-02T08:04:13+00:00
-
- ## Przodniŏ zajta - Wt/szl - Wikimedia Incubator
- - [https://szl.wiktionary.org](https://szl.wiktionary.org)
- - date_published: 2024-09-04T03:35:57+00:00
-
- ## விக்சனரி
- - [https://ta.m.wiktionary.org](https://ta.m.wiktionary.org)
- - date_published: 2024-09-10T02:41:12+00:00
-
- ## விக்சனரி
- - [https://ta.wiktionary.org](https://ta.wiktionary.org)
- - date_published: 2024-06-01T10:59:28+00:00
-
- ## ಮುಖ್ಯ ಪುಟ - Wt/tcy - Wikimedia Incubator
- - [https://tcy.wiktionary.org](https://tcy.wiktionary.org)
- - date_published: 2024-06-28T02:50:12+00:00
-
- ## విక్షనరీ
- - [https://te.m.wiktionary.org](https://te.m.wiktionary.org)
- - date_published: 2024-09-04T03:47:29+00:00
-
- ## Tetum Wiktionary - Wikimedia Incubator
- - [https://tet.wiktionary.org](https://tet.wiktionary.org)
- - date_published: 2024-09-18T03:31:06.228778+00:00
-
- ## విక్షనరీ
- - [https://te.wiktionary.org](https://te.wiktionary.org)
- - date_published: 2024-06-12T18:06:46+00:00
-
- ## Wiktionary
- - [https://tg.m.wiktionary.org](https://tg.m.wiktionary.org)
- - date_published: 2024-09-04T03:41:58+00:00
-
- ## Wiktionary
- - [https://tg.wiktionary.org](https://tg.wiktionary.org)
- - date_published: 2024-06-01T12:27:45+00:00
-
- ## Wiktionary
- - [https://th.m.wiktionary.org](https://th.m.wiktionary.org)
- - date_published: 2024-09-18T03:46:41+00:00
-
- ## Wiktionary
- - [https://th.wiktionary.org](https://th.wiktionary.org)
- - date_published: 2024-06-13T07:25:56+00:00
-
- ## ዊኪ-መዝገበ-ቃላት
- - [https://ti.m.wiktionary.org](https://ti.m.wiktionary.org)
- - date_published: 2024-09-04T03:20:26+00:00
-
- ## ዊኪ-መዝገበ-ቃላት
- - [https://ti.wiktionary.org](https://ti.wiktionary.org)
- - date_published: 2024-05-31T14:05:28+00:00
-
- ## Wikisözlük
- - [https://tk.m.wiktionary.org](https://tk.m.wiktionary.org)
- - date_published: 2024-09-04T03:24:20+00:00
-
- ## Wikisözlük
- - [https://tk.wiktionary.org](https://tk.wiktionary.org)
- - date_published: 2024-06-01T12:25:55+00:00
-
- ## Wiktionary
- - [https://tl.m.wiktionary.org](https://tl.m.wiktionary.org)
- - date_published: 2024-09-04T03:03:54+00:00
 

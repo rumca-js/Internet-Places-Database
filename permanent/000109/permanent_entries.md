@@ -1,3 +1,52 @@
+ ## Gene-drives . com : Genetically designing a happy biosphere
+ - [https://www.gene-drives.com](https://www.gene-drives.com)
+ - date_published: 2024-01-24T14:25:01+00:00
+
+ ## Genehealy.com
+ - [http://genehealy.com](http://genehealy.com)
+ - date_published: 2024-06-30T06:55:53.142299+00:00
+
+ ## Geneinno-the pioneer in underwater drone/ROV and underwater scooter
+ - [https://www.geneinno.com](https://www.geneinno.com)
+ - date_published: 2024-06-10T12:24:12.191562+00:00
+ - tags: ['drones']
+
+ ## Gene Kogan
+ - [http://genekogan.com](http://genekogan.com)
+ - date_published: 2024-06-10T05:55:00+00:00
+
+ ## World Leader in Studio Monitors - Genelec.com
+ - [https://www.genelec.com](https://www.genelec.com)
+ - date_published: 2024-07-01T14:24:56.095713+00:00
+
+ ## Home
+ - [https://genengnews.com](https://genengnews.com)
+ - date_published: 2024-05-04T07:46:29.132815+00:00
+
+ ## BlueConic: Log In
+ - [https://i357.genengnews.com](https://i357.genengnews.com)
+ - date_published: 2024-05-04T07:46:36.780294+00:00
+
+ ## Home
+ - [https://mediakit.genengnews.com](https://mediakit.genengnews.com)
+ - date_published: 2024-05-04T07:46:32.055216+00:00
+
+ ## GenePlanet
+ - [https://geneplanet.com](https://geneplanet.com)
+ - date_published: 2024-09-05T09:41:32+00:00
+
+ ## Utopian surgery? The case against anaesthesia in surgery, dentistry and childbirth
+ - [https://general-anaesthesia.com](https://general-anaesthesia.com)
+ - date_published: 2024-01-24T14:19:24+00:00
+
+ ## General Arcade | Porting house and co-development studio
+ - [http://www.generalarcade.com](http://www.generalarcade.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## General Atlantic: A Global Growth Equity Investor
+ - [https://generalatlantic.com](https://generalatlantic.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
  ## Atominvest
  - [http://portal.generalatlantic.com](http://portal.generalatlantic.com)
  - date_published: 2024-08-06T08:41:50+00:00
@@ -3985,52 +4034,4 @@ Homepage
  ## Log In - GfK Confluence
  - [https://confluence-docu.gfk.com](https://confluence-docu.gfk.com)
  - date_published: 2024-06-25T22:40:14.330743+00:00
-
- ## Turtl - Sign in
- - [https://discover.gfk.com](https://discover.gfk.com)
- - date_published: 2024-08-07T23:04:56.995537+00:00
-
- ## Assests
- - [https://interactive.gfk.com](https://interactive.gfk.com)
- - date_published: 2023-11-09T11:52:50+00:00
-
- ## gfknewron
- - [https://platform.gfk.com](https://platform.gfk.com)
- - date_published: 2024-06-25T23:20:16+00:00
-
- ## VDP
- - [https://vdp.gfk.com](https://vdp.gfk.com)
- - date_published: 2024-08-07T23:04:50.121123+00:00
-
- ## AI-powered market intelligence and consulting service powered by GfK
- - [https://www.gfk.com](https://www.gfk.com)
- - date_published: 2024-04-28T02:14:02.489035+00:00
-
- ## Target Consumers Effectively | Consumer Panel Services GfK
- - [https://www.gfk-cps.com](https://www.gfk-cps.com)
- - date_published: 2024-06-19T23:23:18+00:00
-
- ## GFL Environmental Inc.
- - [https://gflenv.com](https://gflenv.com)
- - date_published: 2024-09-04T19:53:55.123687+00:00
-
- ## Global Finance Magazine
- - [https://gfmag.com](https://gfmag.com)
- - date_published: 2024-06-21T15:17:16+00:00
-
- ## GFM Enterprises | Cape Cod Excavating Services
- - [https://www.gfmexcavating.com](https://www.gfmexcavating.com)
- - date_published: 2024-10-14T20:24:29.088202+00:00
-
- ## Character Designer Illustrator | G. F. Newland Illustration etc
- - [http://www.gfnewland.com](http://www.gfnewland.com)
- - date_published: 2024-06-24T09:33:00.325321+00:00
-
- ## IT solutions for time management, MES & access control | GFOS
- - [https://www.gfos.com](https://www.gfos.com)
- - date_published: 2024-08-16T12:20:27+00:00
-
- ## GFOTY.com
- - [https://www.gfoty.com](https://www.gfoty.com)
- - date_published: 2024-06-18T16:53:23.397486+00:00
 

@@ -1,3 +1,363 @@
+ ## Strona główna podmiotu FILMOTEKA NARODOWA - INSTYTUT AUDIOWIZUALNY
+ - [https://fina.bip.gov.pl](https://fina.bip.gov.pl)
+ - date_published: 2024-07-20T17:52:42.999440+00:00
+
+ ## Strona główna podmiotu POLSKA AGENCJA KOSMICZNA
+ - [https://pak.bip.gov.pl](https://pak.bip.gov.pl)
+ - date_published: 2024-10-14T21:09:41.374282+00:00
+
+ ## Strona główna podmiotu POLSKI FUNDUSZ ROZWOJU SPÓŁKA AKCYJNA
+ - [https://pfrsa.bip.gov.pl](https://pfrsa.bip.gov.pl)
+ - date_published: 2024-07-17T08:00:31.423328+00:00
+
+ ## Strona główna podmiotu BIURO RZECZNIKA MAŁYCH I ŚREDNICH PRZEDSIĘBIORCÓW
+ - [http://rzecznikmsp.bip.gov.pl](http://rzecznikmsp.bip.gov.pl)
+ - date_published: 2024-07-09T20:14:49.268134+00:00
+
+ ## Strona główna podmiotu TEATR NOWY IM.KAZIMIERZA DEJMKA
+ - [http://teatr_nowy.bip.gov.pl](http://teatr_nowy.bip.gov.pl)
+ - date_published: 2024-06-28T19:22:31.910857+00:00
+
+ ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO W KONINIE
+ - [https://wordkonin.bip.gov.pl](https://wordkonin.bip.gov.pl)
+ - date_published: 2024-05-11T08:18:35.715422+00:00
+
+ ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO
+ - [https://wordpoznan.bip.gov.pl](https://wordpoznan.bip.gov.pl)
+ - date_published: 2024-05-11T08:18:17.908592+00:00
+
+ ## Strona główna podmiotu WYŻSZA SZKOŁA BIZNESU-NATIONAL -LOUIS UNIVERSITY Z SIEDZIBĄ W NOWYM SĄCZU
+ - [https://wsb-nlu.bip.gov.pl](https://wsb-nlu.bip.gov.pl)
+ - date_published: 2024-07-09T13:23:43.623567+00:00
+
+ ## BIP: Strona główna
+ - [https://www.bip.gov.pl](https://www.bip.gov.pl)
+ - date_published: 2024-07-13T19:10:27.210116+00:00
+
+ ## Strona główna
+ - [https://www.biznes.gov.pl](https://www.biznes.gov.pl)
+ - date_published: 2024-07-14T21:34:41.871970+00:00
+
+ ## Boxoffice PISF
+ - [https://boxoffice.gov.pl](https://boxoffice.gov.pl)
+ - date_published: 2024-07-02T22:31:30.197814+00:00
+
+ ## Strona główna | Rzecznik Praw Dziecka
+ - [http://bip.brpd.gov.pl](http://bip.brpd.gov.pl)
+ - date_published: 2024-07-09T20:14:40.966726+00:00
+
+ ## Start2
+ - [https://brpd.gov.pl](https://brpd.gov.pl)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Czat dla dzieci i młodzieży - Rzecznika Praw Dziecka
+ - [https://czat.brpd.gov.pl](https://czat.brpd.gov.pl)
+ - date_published: 2022-03-02T07:39:32+00:00
+
+ ## Biuletyn Informacji Publicznej RPO | Rzecznik Praw Obywatelskich
+ - [https://bip.brpo.gov.pl](https://bip.brpo.gov.pl)
+ - date_published: 2024-03-11T15:16:36.629145+00:00
+
+ ## Logowanie | Ceidg.gov.pl - Centralna Ewidencja i Informacja o Działalności Gospodarczej
+ - [https://prod.ceidg.gov.pl](https://prod.ceidg.gov.pl)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Strona główna | Portal Informacyjny Centralnej Ewidencji Pojazdów i Kierowców
+ - [http://www.cepik.gov.pl](http://www.cepik.gov.pl)
+ - date_published: 2024-09-13T17:56:10.742608+00:00
+
+ ## Centrum e-Zdrowia
+ - [https://cez.gov.pl](https://cez.gov.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## CSIRT GOV
+ - [https://csirt.gov.pl](https://csirt.gov.pl)
+ - date_published: 2024-05-09T06:21:42.701617+00:00
+
+ ## Otwarte Dane
+ - [https://dane.gov.pl](https://dane.gov.pl)
+ - date_published: 2024-05-29T08:33:21.785897+00:00
+ - tags: ['open data']
+
+ ## Przewodnik prawny dla polskiej rodziny za granicą - BRPD MSZ
+ - [https://dziecizagranica.gov.pl](https://dziecizagranica.gov.pl)
+ - date_published: 2024-07-06T08:33:53+00:00
+
+ ## Strona główna
+ - [http://dziennikustaw.gov.pl](http://dziennikustaw.gov.pl)
+ - date_published: 2024-06-22T09:13:36.282179+00:00
+
+ ## ePUAP - Strefa klienta
+ - [https://epuap.gov.pl](https://epuap.gov.pl)
+ - date_published: 2024-05-11T08:18:34.432317+00:00
+
+ ## Europejska Współpraca Terytorialna - Ministerstwo Funduszy i Polityki Regionalnej
+ - [http://www.ewt.gov.pl](http://www.ewt.gov.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## ezdrowie.gov.pl
+ - [https://ezdrowie.gov.pl](https://ezdrowie.gov.pl)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## FINA strona główna
+ - [https://www.fina.gov.pl](https://www.fina.gov.pl)
+ - date_published: 2024-07-20T17:53:00.350327+00:00
+
+ ## Portal Funduszy Europejskich - Ministerstwo Funduszy i Polityki Regionalnej
+ - [https://www.funduszeeuropejskie.gov.pl](https://www.funduszeeuropejskie.gov.pl)
+ - date_published: 2024-06-25T22:02:15.720880+00:00
+
+ ## Fundusz Sprawiedliwości - Ministerstwo Sprawiedliwości - Portal Gov.pl
+ - [http://www.funduszsprawiedliwosci.gov.pl](http://www.funduszsprawiedliwosci.gov.pl)
+ - date_published: 2024-08-18T12:22:56.259499+00:00
+
+ ## Geoportal.gov.pl
+ - [http://mapy.geoportal.gov.pl](http://mapy.geoportal.gov.pl)
+ - date_published: 2020-06-24T09:23:28+00:00
+
+ ## Strona główna
+ - [https://www.geoportal.gov.pl](https://www.geoportal.gov.pl)
+ - date_published: 2024-07-14T21:34:34.698553+00:00
+
+ ## Ocena jakości powietrza - Bieżące dane pomiarowe - GIOŚ
+ - [https://powietrze.gios.gov.pl](https://powietrze.gios.gov.pl)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Główny Urząd Miar
+ - [https://www.gum.gov.pl](https://www.gum.gov.pl)
+ - date_published: 2024-09-13T17:55:02.429848+00:00
+
+ ## Instytut Matematyczny Polskiej Akademii Nauk
+ - [http://www.impan.gov.pl](http://www.impan.gov.pl)
+ - date_published: 2024-06-30T09:14:22.883100+00:00
+
+ ## internet.gov.pl
+ - [https://internet.gov.pl](https://internet.gov.pl)
+ - date_published: 2024-07-17T07:36:50.329034+00:00
+
+ ## Instytut Pamięci Narodowej
+ - [http://www.ipn.gov.pl](http://www.ipn.gov.pl)
+ - date_published: 2024-07-09T07:27:37.295168+00:00
+
+ ## Home | Krajowa Agencja Poszanowania Energii | KAPE S.A.
+ - [http://www.kape.gov.pl](http://www.kape.gov.pl)
+ - date_published: 2024-07-14T05:27:23.945252+00:00
+
+ ## Wyszukiwarka E10
+ - [https://e10.klimat.gov.pl](https://e10.klimat.gov.pl)
+ - date_published: 2024-03-10T15:31:04+00:00
+ - tags: ['government']
+
+ ## Strona Główna CEBRF
+ - [https://cebrf.knf.gov.pl](https://cebrf.knf.gov.pl)
+ - date_published: 2024-05-05T18:08:09.495497+00:00
+ - tags: ['cybersecurity']
+
+ ## Strona Główna CEBRF
+ - [https://encyklopediacyberbezpieczenstwa.knf.gov.pl](https://encyklopediacyberbezpieczenstwa.knf.gov.pl)
+ - date_published: 2024-06-26T09:20:17+00:00
+
+ ## KNF
+ - [https://www.knf.gov.pl](https://www.knf.gov.pl)
+ - date_published: 2024-09-02T14:18:35.309956+00:00
+
+ ## Strona startowa - Europejskie Centrum Konsumenckie
+ - [https://konsument.gov.pl](https://konsument.gov.pl)
+ - date_published: 2024-07-09T20:15:10.285404+00:00
+
+ ## Strona główna - Krajowy Ośrodek Wsparcia Rolnictwa - Portal Gov.pl
+ - [https://www.kowr.gov.pl](https://www.kowr.gov.pl)
+ - date_published: 2024-09-13T17:53:42.618524+00:00
+
+ ## Laptop dla ucznia
+ - [https://laptopdlaucznia.gov.pl](https://laptopdlaucznia.gov.pl)
+ - date_published: 2024-05-26T17:01:16.126775+00:00
+
+ ## Lektury.gov.pl
+ - [https://lektury.gov.pl](https://lektury.gov.pl)
+ - date_published: 2024-05-26T17:01:14.032364+00:00
+
+ ## Łukasiewicz - Poznański Instytut Technologiczny to multidyscyplinarna jednostka naukowo-badawcza o międzynarodowej skali działania.
+ - [https://pit.lukasiewicz.gov.pl](https://pit.lukasiewicz.gov.pl)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Ministerstwo Cyfryzacji - Portal Gov.pl
+ - [http://www.mac.gov.pl](http://www.mac.gov.pl)
+ - date_published: 2024-07-12T19:00:10.807306+00:00
+
+ ## Ministerstwo Cyfryzacji - Portal Gov.pl
+ - [https://mc.gov.pl](https://mc.gov.pl)
+ - date_published: 2024-07-13T19:11:48.560506+00:00
+
+ ## Ministerstwo Edukacji Narodowej - Portal Gov.pl
+ - [http://www.men.gov.pl](http://www.men.gov.pl)
+ - date_published: 2024-07-09T07:27:48.495848+00:00
+
+ ## podatki.gov.pl
+ - [http://www.finanse.mf.gov.pl](http://www.finanse.mf.gov.pl)
+ - date_published: 2024-09-13T17:56:09.193928+00:00
+
+ ## Ministerstwo Kultury i Dziedzictwa Narodowego - Portal gov.pl
+ - [http://mkidn.gov.pl](http://mkidn.gov.pl)
+ - date_published: 2024-07-09T07:27:39.508701+00:00
+
+ ## mObywatel.gov.pl
+ - [https://www.mobywatel.gov.pl](https://www.mobywatel.gov.pl)
+ - date_published: 2024-05-15T15:07:40+00:00
+
+ ## Portal Gov.pl
+ - [https://moj.gov.pl](https://moj.gov.pl)
+ - date_published: 2024-07-13T19:11:46.170022+00:00
+
+ ## Strona główna
+ - [http://monitorpolski.gov.pl](http://monitorpolski.gov.pl)
+ - date_published: 2024-06-22T09:13:34.673808+00:00
+
+ ## EUKW - strona główna
+ - [https://ekw.ms.gov.pl](https://ekw.ms.gov.pl)
+ - date_published: 2024-09-13T17:56:11.520482+00:00
+
+ ## Dziennik Urzędowy Ministra Zdrowia
+ - [http://dziennikmz.mz.gov.pl](http://dziennikmz.mz.gov.pl)
+ - date_published: 2024-07-14T21:34:33.264329+00:00
+
+ ## Mapy potrzeb zdrowotnych – Ministerstwo Zdrowia – MPZ
+ - [https://mpz.mz.gov.pl](https://mpz.mz.gov.pl)
+ - date_published: 2024-07-14T21:34:40.100763+00:00
+
+ ## Ministerstwo Zdrowia - Portal Gov.pl
+ - [https://mz.gov.pl](https://mz.gov.pl)
+ - date_published: 2024-05-12T04:01:45.153248+00:00
+
+ ## Ministerstwo Zdrowia
+ - [http://www.archiwum.mz.gov.pl](http://www.archiwum.mz.gov.pl)
+ - date_published: 2024-07-14T21:34:32.254911+00:00
+
+ ## Ministerstwo Zdrowia
+ - [http://www.bip.mz.gov.pl](http://www.bip.mz.gov.pl)
+ - date_published: 2024-07-14T21:34:36.297445+00:00
+
+ ## NAC | Narodowe Archiwum Cyfrowe
+ - [http://www.nac.gov.pl](http://www.nac.gov.pl)
+ - date_published: 2024-07-09T07:27:44.808128+00:00
+
+ ## Narodowa Agencja Wymiany Akademickiej - Stypendia dla studentów z polski i zagranicy, programy i wymiany naukowe - NAWA
+ - [https://nawa.gov.pl](https://nawa.gov.pl)
+ - date_published: 2024-06-26T21:36:28+00:00
+
+ ## Strona główna Narodowego Centrum Badań i Rozwoju - Narodowe Centrum Badań i Rozwoju - Portal Gov.pl
+ - [https://www.ncbr.gov.pl](https://www.ncbr.gov.pl)
+ - date_published: 2024-06-25T22:02:16.795391+00:00
+
+ ## Strona główna | Narodowe Centrum Nauki
+ - [https://www.ncn.gov.pl](https://www.ncn.gov.pl)
+ - date_published: 2024-09-13T17:55:01.484867+00:00
+
+ ## Akademia NFZ - Serwis Narodowego Funduszu Zdrowia
+ - [https://akademia.nfz.gov.pl](https://akademia.nfz.gov.pl)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## aplikacje.nfz.gov.pl
+ - [https://aplikacje.nfz.gov.pl](https://aplikacje.nfz.gov.pl)
+ - date_published: 2022-03-24T12:32:39+00:00
+
+ ## Oficjalny portal Narodowego Funduszu Zdrowia - Serwis Narodowego Funduszu Zdrowia
+ - [https://diety.nfz.gov.pl](https://diety.nfz.gov.pl)
+ - date_published: 2024-05-29T08:33:29.696492+00:00
+
+ ## Koordynowana Opieka Zdrowotna
+ - [https://koordynowana.nfz.gov.pl](https://koordynowana.nfz.gov.pl)
+ - date_published: 2024-07-14T21:35:00.571385+00:00
+
+ ## NFZ Moje Fizjo+
+ - [https://mojefizjo.nfz.gov.pl](https://mojefizjo.nfz.gov.pl)
+ - date_published: 2022-04-07T11:30:46+00:00
+
+ ## Narodowy Fundusz Zdrowia (NFZ) – finansujemy zdrowie Polaków
+ - [https://nfz.gov.pl](https://nfz.gov.pl)
+ - date_published: 2024-05-12T04:01:41.515185+00:00
+ - tags: ['healthcare', 'government']
+
+ ## Statystyka NFZ - Start
+ - [https://statystyki.nfz.gov.pl](https://statystyki.nfz.gov.pl)
+ - date_published: 2024-09-02T17:26:34.709566+00:00
+
+ ## Informator o Terminach Leczenia Index
+ - [https://terminyleczenia.nfz.gov.pl](https://terminyleczenia.nfz.gov.pl)
+ - date_published: 2024-09-02T17:26:25.615519+00:00
+
+ ## Najwyższa Izba Kontroli
+ - [https://nik.gov.pl](https://nik.gov.pl)
+ - date_published: 2023-11-16T16:54:09.383687+00:00
+
+ ## FINA strona główna
+ - [https://nina.gov.pl](https://nina.gov.pl)
+ - date_published: 2024-05-21T03:04:50.101497+00:00
+
+ ## Strona główna - Narodowy Instytut Wolności
+ - [https://niw.gov.pl](https://niw.gov.pl)
+ - date_published: 2021-03-27T07:35:03+00:00
+
+ ## OBYWATEL.GOV.PL - Informacje i usługi przyjazne obywatelom | obywatel.gov.pl
+ - [https://obywatel.gov.pl](https://obywatel.gov.pl)
+ - date_published: 2024-05-29T08:33:34.806119+00:00
+
+ ## OSE - Ogólnopolska Sieć Edukacyjna
+ - [https://ose.gov.pl](https://ose.gov.pl)
+ - date_published: 2024-05-26T17:01:11.556553+00:00
+
+ ## Strona główna | Pacjent
+ - [https://pacjent.gov.pl](https://pacjent.gov.pl)
+ - date_published: 2024-05-12T04:01:48.009966+00:00
+
+ ## Strona główna
+ - [https://www.paih.gov.pl](https://www.paih.gov.pl)
+ - date_published: 2024-07-14T05:24:43.367244+00:00
+
+ ## Strona główna - PARP - Centrum Rozwoju MŚP
+ - [https://www.parp.gov.pl](https://www.parp.gov.pl)
+ - date_published: 2024-06-25T18:35:58+00:00
+
+ ## podatki.gov.pl
+ - [https://www.podatki.gov.pl](https://www.podatki.gov.pl)
+ - date_published: 2024-10-12T12:24:44.921827+00:00
+
+ ## Infrastruktura i Środowisko - Ministerstwo Funduszy i Polityki Regionalnej
+ - [https://www.pois.gov.pl](https://www.pois.gov.pl)
+ - date_published: 2024-10-25T10:22:47.401529+00:00
+
+ ## Centralne Biuro Zwalczania Cyberprzestępczości
+ - [https://cbzc.policja.gov.pl](https://cbzc.policja.gov.pl)
+ - date_published: 2024-09-15T19:19:51.204168+00:00
+
+ ## MAPA - POLSA - Mapa infrastruktury
+ - [https://mapainfrastruktury.polsa.gov.pl](https://mapainfrastruktury.polsa.gov.pl)
+ - date_published: 2021-11-16T11:39:03+00:00
+
+ ## Platforma NSIS
+ - [https://nsisplatforma.polsa.gov.pl](https://nsisplatforma.polsa.gov.pl)
+ - date_published: 2024-10-04T07:52:50+00:00
+
+ ## Polska Agencja Kosmiczna (POLSA)
+ - [https://polsa.gov.pl](https://polsa.gov.pl)
+ - date_published: 2021-10-09T07:09:53+00:00
+
+ ## #PomagamUkrainie
+ - [https://pomagamukrainie.gov.pl](https://pomagamukrainie.gov.pl)
+ - date_published: 2023-03-15T10:40:20+00:00
+
+ ## Wiedza Edukacja Rozwój - Ministerstwo Funduszy i Polityki Regionalnej
+ - [http://www.power.gov.pl](http://www.power.gov.pl)
+ - date_published: 2024-07-13T19:04:55.960252+00:00
+
+ ## Strona główna | WORTAL
+ - [https://wupkrakow.praca.gov.pl](https://wupkrakow.praca.gov.pl)
+ - date_published: 2024-07-09T13:23:47.132733+00:00
+
+ ## Strona główna | WORTAL
+ - [http://wuppoznan.praca.gov.pl](http://wuppoznan.praca.gov.pl)
+ - date_published: 2024-07-13T19:04:39.587956+00:00
+
  ## Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl
  - [https://www.premier.gov.pl](https://www.premier.gov.pl)
  - date_published: 2024-08-18T07:19:55.766848+00:00
@@ -3736,371 +4096,4 @@ Polska 1939
  - [https://copch.pl](https://copch.pl)
  - date_published: 2023-11-27T12:36:24+00:00
  - tags: ['organization', 'christian']
-
- ## Producent mocowań do modułów i dystrybutor renomowanych marek
- - [https://corab.pl](https://corab.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Kompleksowe i profesjonalne pozycjonowanie na każdą kieszeń - www.cotrzecia.pl
- - [http://cotrzecia.pl](http://cotrzecia.pl)
- - date_published: 2024-08-18T17:08:52.350671+00:00
-
- ## Cowzdrowiu
- - [https://cowzdrowiu.pl](https://cowzdrowiu.pl)
- - date_published: 2023-10-25T22:26:33.140596+00:00
-
- ## Centrum Pomocy Osobom Poszkodowanym
- - [https://cpop.pl](https://cpop.pl)
- - date_published: 2024-05-09T05:06:02.305603+00:00
-
- ## Serwis programistyczny C++
- - [https://cpp0x.pl](https://cpp0x.pl)
- - date_published: 2024-03-04T10:50:59+00:00
- - tags: ['tutorials', 'programming', 'cources']
-
- ## Strona główna - Crafton
- - [https://crafton.pl](https://crafton.pl)
- - date_published: 2024-08-18T14:41:08.898484+00:00
-
- ## Wypadki - artykuły i filmy z wypadków
- - [http://www.crashfans.pl](http://www.crashfans.pl)
- - date_published: 2024-07-11T16:33:35.302338+00:00
-
- ## Darmowe Gry Online na CrazyGames | Zagraj Teraz!
- - [https://crazygames.pl](https://crazygames.pl)
- - date_published: 2024-05-08T06:51:55.940807+00:00
-
- ## Nowoczesne strony internetowe. Agencja interaktywna nr 1.
- - [https://crear.pl](https://crear.pl)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Creative Commons Polska
- - [https://creativecommons.pl](https://creativecommons.pl)
- - date_published: 2024-07-08T20:19:42.212010+00:00
-
- ## Bank Credit Agricole
- - [https://ewniosek.credit-agricole.pl](https://ewniosek.credit-agricole.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bank Credit Agricole
- - [https://www.credit-agricole.pl](https://www.credit-agricole.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## CRIDO
- - [https://crido.pl](https://crido.pl)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Strona główna - CRIME + INVESTIGATION
- - [https://crimeinvestigation.pl](https://crimeinvestigation.pl)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Portal o e-commerce za granicą - Cross-border.pl
- - [https://cross-border.pl](https://cross-border.pl)
- - date_published: 2024-10-22T21:10:06.534717+00:00
-
- ## Cross-Play | Gramy międzygeneracyjnie!
- - [https://cross-play.pl](https://cross-play.pl)
- - date_published: 2023-12-13T15:12:15.627209+00:00
- - tags: ['video games']
-
- ## Crystal Launcher - Strona główna
- - [https://crystal-launcher.pl](https://crystal-launcher.pl)
- - date_published: 2024-04-09T17:45:19+00:00
- - tags: ['video game launcher', 'minecraft']
-
- ## Homepage | Hotel Crystal Mountain
- - [https://www.crystal-mountain.pl](https://www.crystal-mountain.pl)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Platforma hurtowa - sklep internetowy B2B | CStore
- - [https://www.cstore.pl](https://www.cstore.pl)
- - date_published: 2024-10-07T22:42:25.288848+00:00
-
- ## Adiee5 Productions
- - [http://adiee5.ct8.pl](http://adiee5.ct8.pl)
- - date_published: 2023-10-09T19:48:20+00:00
-
- ## Emudreams(1996)
- - [https://emudreams.ct8.pl](https://emudreams.ct8.pl)
- - date_published: 2024-06-14T15:52:38.472232+00:00
- - tags: ['emulation']
-
- ## Ctrl+Code
- - [https://ctrlcode.pl](https://ctrlcode.pl)
- - date_published: 2024-03-20T11:51:40+00:00
- - tags: ['learning', 'programming']
-
- ## alfavox CallPage
- - [https://callpage.cuk.pl](https://callpage.cuk.pl)
- - date_published: 2020-12-10T18:44:28+00:00
-
- ## Porównywarka ubezpieczeń OC i AC — CUK Ubezpieczenia
- - [https://cuk.pl](https://cuk.pl)
- - date_published: 2024-02-29T00:00:00+00:00
- - tags: ['car insurance']
-
- ## Ubezpieczenie na życie online w kilka minut. Bezpieczna przyszłość bliskich.
- - [https://lifeup.cuk.pl](https://lifeup.cuk.pl)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## CUK - Strefa Klienta
- - [https://strefaklienta.cuk.pl](https://strefaklienta.cuk.pl)
- - date_published: 2024-05-09T05:11:06.701991+00:00
-
- ## CUK | eMeetings
- - [https://video.cuk.pl](https://video.cuk.pl)
- - date_published: 2022-03-23T19:34:15+00:00
-
- - [https://w.cuk.pl](https://w.cuk.pl)
- - date_published: 2024-03-05T10:11:06+00:00
-
- ## Au Pair w USA | Cultural Care
- - [https://www.culturalcare.pl](https://www.culturalcare.pl)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Culture.pl EN | Polish culture: literature, art, film, design, language, cuisine & more! | Culture.pl
- - [https://culture.pl](https://culture.pl)
- - date_published: 2023-10-25T10:14:36.451684+00:00
-
- ## textowo
- - [http://textowo.cupsell.pl](http://textowo.cupsell.pl)
- - date_published: 2024-08-06T22:35:47.377048+00:00
-
- ## Nadrukomania - Dziecięce, Damskie, Męskie, Dodatki
- - [http://twojelogo.cupsell.pl](http://twojelogo.cupsell.pl)
- - date_published: 2024-08-06T22:28:38.668391+00:00
-
- ## Stwórz CV, dzieki któremu znajdziesz wymarzoną pracę
- - [https://cveasy.pl](https://cveasy.pl)
- - date_published: 2024-05-06T09:21:14.631564+00:00
-
- ## CVeasy.pl FAQ
- - [https://help.cveasy.pl](https://help.cveasy.pl)
- - date_published: 2024-06-22T22:12:08.358804+00:00
-
- ## Strona główna | CyberDefence24
- - [https://cyberdefence24.pl](https://cyberdefence24.pl)
- - date_published: 2023-10-25T22:26:39.035498+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s149.cyber-folks.pl](https://s149.cyber-folks.pl)
- - date_published: 2022-04-26T13:39:09+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s168.cyber-folks.pl](https://s168.cyber-folks.pl)
- - date_published: 2022-04-26T12:43:00+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s44.cyber-folks.pl](https://s44.cyber-folks.pl)
- - date_published: 2023-11-30T13:34:20+00:00
-
- ## hosting | domeny | e-marketing
- - [https://cyberfolks.pl](https://cyberfolks.pl)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## cyber_Folks Investors
- - [https://investors.cyberfolks.pl](https://investors.cyberfolks.pl)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PHP Live! Support
- - [https://livechat.cyberfolks.pl](https://livechat.cyberfolks.pl)
- - date_published: 2024-07-15T04:09:32+00:00
-
- ## _Now - narzędzia do stron 🛠 Kreator i migrator stron www
- - [https://now.cyberfolks.pl](https://now.cyberfolks.pl)
- - date_published: 2024-07-10T07:19:04+00:00
-
- ## _Partners - Marketplace usług cyfrowych
- - [https://partners.cyberfolks.pl](https://partners.cyberfolks.pl)
- - date_published: 2024-07-15T04:09:27.264969+00:00
-
- ## Cyberprofilaktyka NASK
- - [https://cyberprofilaktyka.pl](https://cyberprofilaktyka.pl)
- - date_published: 2024-07-14T18:17:32.315151+00:00
-
- ## Konfigurator sklepu cyber_Stores
- - [https://kreator.cyberstores.pl](https://kreator.cyberstores.pl)
- - date_published: 2024-07-15T04:09:35.897438+00:00
-
- ## CyberSzpieg - Toplista gier online, MMO i MMORPG na Smartfony
- - [http://www.cyberszpieg.pl](http://www.cyberszpieg.pl)
- - date_published: 2024-07-10T02:05:49.812272+00:00
-
- ## Lepsza fotografia lepszy film - Blog o fotografii i filmowaniu
- - [https://blog.cyfrowe.pl](https://blog.cyfrowe.pl)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Aparaty cyfrowe, kamery cyfrowe i akcesoria - Fotograficzny sklep internetowy Cyfrowe.pl
- - [https://cyfrowe.pl](https://cyfrowe.pl)
- - date_published: 2024-05-29T14:03:18.282114+00:00
- - tags: ['photography shop']
-
- ## Strona główna - Polsat Box
- - [http://www.cyfrowypolsat.pl](http://www.cyfrowypolsat.pl)
- - date_published: 2024-07-09T17:48:16.292573+00:00
-
- ## Łukasz Adamczak
- - [http://czak.pl](http://czak.pl)
- - date_published: 2023-12-14T10:20:36+00:00
-
- ## Czarny Kamień RESORT&SPA – hotel w Szklarskiej Porębie, hotel z basenem, apartamenty w Karkonoszach - Czarny Kamień Resort & SPA
- - [https://www.czarnykamien.pl](https://www.czarnykamien.pl)
- - date_published: 2024-08-18T17:10:23.529944+00:00
-
- ## Strona główna - Czas Kultury
- - [http://www.czaskultury.pl](http://www.czaskultury.pl)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Magazyn o stylowych wnętrzach
- - [https://czasnawnetrze.pl](https://czasnawnetrze.pl)
- - date_published: 2023-12-13T14:58:22.574147+00:00
- - tags: ['home articles']
-
- ## Fundacja Cząstka Ciebie - wspieramy charytatywnie
- - [https://czastkaciebie.pl](https://czastkaciebie.pl)
- - date_published: 2024-08-19T23:57:30.875634+00:00
-
- ## Zautomatyzuj marketing i obsługę klienta – Czater
- - [https://www.czater.pl](https://www.czater.pl)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Porównywarka pożyczek i kredytów Czerwona Skarbonka
- - [https://www.czerwona-skarbonka.pl](https://www.czerwona-skarbonka.pl)
- - date_published: 2024-08-19T11:10:05+00:00
-
- ## Części samochodowe » sklep internetowy. Kupić tanie auto części online
- - [http://www.czesciauto24.pl](http://www.czesciauto24.pl)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## CZIX | Budowa Dzierżawa Sieci Światłowodowych Transmisja INTERNET Kolokacja Serwerownia
- - [http://www.czix.pl](http://www.czix.pl)
- - date_published: 2024-09-17T18:54:37.357620+00:00
-
- ## Człowiek w Zagrożeniu – Festiwal Mediów
- - [https://czlowiekwzagrozeniu.pl](https://czlowiekwzagrozeniu.pl)
- - date_published: 2024-06-28T19:23:14.783699+00:00
-
- ## CzteryKaty.pl
- - [https://czterykaty.pl](https://czterykaty.pl)
- - date_published: 2024-08-18T11:29:12.386939+00:00
-
- ## Tramwaje i Autobusy na mapie - lokalizacja na żywo
- - [https://czynaczas.pl](https://czynaczas.pl)
- - date_published: 2023-12-06T13:08:46+00:00
- - tags: ['public transport', 'service maps']
-
- ## Czyściochowa Akademia | Program edukacji higienicznej
- - [https://czysciochowa-akademia.pl](https://czysciochowa-akademia.pl)
- - date_published: 2024-08-11T03:14:16.838814+00:00
-
- ## Obowiązek wymiany pieca - sprawdź terminy wymiany kopciuchów
- - [https://czystezasady.pl](https://czystezasady.pl)
- - date_published: 2021-12-07T12:44:09+00:00
-
- ## Czytaj PL - 18 bestsellerów za darmo na 30 dni!
- - [https://akcja.czytajpl.pl](https://akcja.czytajpl.pl)
- - date_published: 2024-07-14T05:44:19.924345+00:00
-
- ## CzytaLisek - mali czytelnicy, wielkie historie
- - [https://czytalisek.pl](https://czytalisek.pl)
- - date_published: 2024-07-19T21:30:19+00:00
-
- ## Strona główna - Czytelnia.pl
- - [https://czytelnia.pl](https://czytelnia.pl)
- - date_published: 2024-05-09T05:11:18.483868+00:00
-
- ## D16 Group Audio Software
- - [http://www.d16.pl](http://www.d16.pl)
- - date_published: 2024-06-30T07:52:30.602962+00:00
-
- ## D17 Sp. z o.o. - Oprogramowanie IT dla administracji samorządowej
- - [http://d17.pl](http://d17.pl)
- - date_published: 2024-06-28T19:22:55.839800+00:00
-
- ## Auto Compol - Autoryzowany koncesjoner DACIA
- - [https://autocompol.dacia.pl](https://autocompol.dacia.pl)
- - date_published: 2024-08-11T16:36:21+00:00
-
- ## Jaszpol - Autoryzowany koncesjoner DACIA
- - [https://jaszpol.dacia.pl](https://jaszpol.dacia.pl)
- - date_published: 2024-06-28T19:22:12+00:00
-
- ## DAGMA to ludzie, DAGMA to my | DAGMA
- - [https://dagma.pl](https://dagma.pl)
- - date_published: 2024-09-04T14:39:56.169790+00:00
-
- ## Lumen Caritatis – Stowarzyszenie Oblacka Pomoc Misjom
- - [https://dajnadzieje.pl](https://dajnadzieje.pl)
- - date_published: 2024-09-02T15:01:39.245970+00:00
-
- ## Sebastian Dajnowiec Media Web Design - Projektowanie Stron Internetowych, Administracja Joomla, Dostępne strony WCAG 2.0 - Strona główna
- - [http://dajnowiec.pl](http://dajnowiec.pl)
- - date_published: 2018-02-20T05:16:05+00:00
-
- ## Strona Mirosława Dakowskiego
- - [http://dakowski.pl](http://dakowski.pl)
- - date_published: 2024-08-06T22:25:25.431471+00:00
-
- ## Daniel Janus – blog
- - [https://blog.danieljanus.pl](https://blog.danieljanus.pl)
- - date_published: 2023-10-25T09:24:20.873041+00:00
- - tags: ['personal']
-
- ## Daniel Janus
- - [https://danieljanus.pl](https://danieljanus.pl)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Daniel Janus – blog
- - [https://plblog.danieljanus.pl](https://plblog.danieljanus.pl)
- - date_published: 2024-01-26T15:12:21+00:00
-
- ## Smyrna — prosty konkordancer obsługujący język polski
- - [https://smyrna.danieljanus.pl](https://smyrna.danieljanus.pl)
- - date_published: 2017-03-06T12:12:00+00:00
-
- ## Danko – Danko
- - [https://danko.pl](https://danko.pl)
- - date_published: 2024-08-19T19:50:11.108330+00:00
-
- ## Bartosz Danowski - szkolenia i książki informatyczne
- - [https://danowski.pl](https://danowski.pl)
- - date_published: 2024-05-29T10:48:34.257218+00:00
- - tags: ['personal']
-
- ## Darmedia - Stalowa Wola - Strony www, pomoc komputerowa
- - [https://darmedia.pl](https://darmedia.pl)
- - date_published: 2024-09-03T19:32:07+00:00
-
- ## Darmowe-LICZNIKI.PL: Liczniki odwiedzin bez reklam :: darmowe liczniki graficzne odwiedzin
- - [http://www.darmowe-liczniki.pl](http://www.darmowe-liczniki.pl)
- - date_published: 2024-07-11T16:33:42.377344+00:00
-
- ## Darmowy licznik odwiedzin na stronę
- - [http://www.darmowylicznik.pl](http://www.darmowylicznik.pl)
- - date_published: 2024-08-06T22:24:44.549184+00:00
-
- ## Darwin Studio - Profesjonalne produkcje filmowe
- - [http://darwinstudio.pl](http://darwinstudio.pl)
- - date_published: 2024-11-25T20:50:27.850378+00:00
-
- ## Data Exchanger - dane marketingowe w jednym miejscu
- - [https://www.dataexchanger.pl](https://www.dataexchanger.pl)
- - date_published: 2024-05-06T17:58:57.230598+00:00
-
- ## Strona główna | Dolnośląska Agencja Współpracy Gospodarczej Sp. z o.o.
- - [https://dawg.pl](https://dawg.pl)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Dawid Podsiadło - oficjalna strona
- - [https://dawidpodsiadlo.pl](https://dawidpodsiadlo.pl)
- - date_published: 2023-10-29T15:30:33.114136+00:00
- - tags: ['celebrity', 'music band']
-
- ## Sklep Dawida Podsiadło
- - [https://sklep.dawidpodsiadlo.pl](https://sklep.dawidpodsiadlo.pl)
- - date_published: 2024-07-19T22:55:00.146254+00:00
-
- ## 메이플 에반 스킬 트리
- - [https://www.dbgreat.pl](https://www.dbgreat.pl)
- - date_published: 2024-06-20T18:12:49+00:00
 

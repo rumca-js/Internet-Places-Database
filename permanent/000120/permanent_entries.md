@@ -1,3 +1,51 @@
+ ## LEONARDO ROYAL HOTEL LONDON TOWER BRIDGE | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £233
+ - [https://grange-tower-bridge.hotels-of-london.com](https://grange-tower-bridge.hotels-of-london.com)
+ - date_published: 2024-10-16T12:30:50.398625+00:00
+
+ ## GREAT NORTHERN HOTEL, A TRIBUTE PORTFOLIO HOTEL, LONDON | ⋆⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £285
+ - [https://great-northern-a-tribute-portfolio.hotels-of-london.com](https://great-northern-a-tribute-portfolio.hotels-of-london.com)
+ - date_published: 2024-10-16T12:33:28.946053+00:00
+
+ ## GREEN ROOMS | ⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £63
+ - [https://green-rooms.hotels-of-london.com](https://green-rooms.hotels-of-london.com)
+ - date_published: 2024-10-16T12:39:50.734367+00:00
+
+ ## HOTEL GROSVENOR HOUSE | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £431
+ - [https://grosvenor-house-a-jw-marriott.hotels-of-london.com](https://grosvenor-house-a-jw-marriott.hotels-of-london.com)
+ - date_published: 2024-10-16T12:44:36.774440+00:00
+
+ ## HOTEL H10 LONDON WATERLOO | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £199
+ - [https://h10-waterloo.hotels-of-london.com](https://h10-waterloo.hotels-of-london.com)
+ - date_published: 2024-10-16T12:39:21.585115+00:00
+
+ ## HOTEL HALPIN HOUSE | ⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £46
+ - [https://halpin-house.hotels-of-london.com](https://halpin-house.hotels-of-london.com)
+ - date_published: 2024-10-16T12:31:40.484608+00:00
+
+ ## HOTEL HAMPTON BY HILTON LONDON WATERLOO | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £249
+ - [https://hampton-by-hilton-waterloo.hotels-of-london.com](https://hampton-by-hilton-waterloo.hotels-of-london.com)
+ - date_published: 2024-10-16T12:45:02.840023+00:00
+
+ ## HOTEL HAM YARD | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £790
+ - [https://ham-yard.hotels-of-london.com](https://ham-yard.hotels-of-london.com)
+ - date_published: 2024-10-16T12:28:25.235894+00:00
+
+ ## HARD ROCK HOTEL LONDON | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £334
+ - [https://hard-rock.hotels-of-london.com](https://hard-rock.hotels-of-london.com)
+ - date_published: 2024-10-16T12:29:04.084185+00:00
+
+ ## HOTEL HAYMARKET | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £720
+ - [https://haymarket.hotels-of-london.com](https://haymarket.hotels-of-london.com)
+ - date_published: 2024-10-16T12:44:27.777432+00:00
+
+ ## HOTEL HILTON LONDON CANARY WHARF | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £148
+ - [https://hilton-canary-wharf.hotels-of-london.com](https://hilton-canary-wharf.hotels-of-london.com)
+ - date_published: 2024-10-16T12:33:17.977290+00:00
+
+ ## HOTEL HILTON LONDON KENSINGTON | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £102
+ - [https://hilton-kensington.hotels-of-london.com](https://hilton-kensington.hotels-of-london.com)
+ - date_published: 2024-10-16T12:34:44.702870+00:00
+
  ## HOTEL HILTON LONDON METROPOLE | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £121
  - [https://hilton-metropole.hotels-of-london.com](https://hilton-metropole.hotels-of-london.com)
  - date_published: 2024-10-16T12:40:28.180658+00:00
@@ -3963,52 +4011,4 @@
  ## The HTML5 test - How well does your browser support HTML5?
  - [http://html5test.com](http://html5test.com)
  - date_published: 2024-10-31T06:54:29.492209+00:00
-
- ## Frontend Focus
- - [http://html5weekly.com](http://html5weekly.com)
- - date_published: 2024-05-11T10:36:25.181735+00:00
-
- ## ZOMBO
- - [http://html5zombo.com](http://html5zombo.com)
- - date_published: 2018-05-19T08:17:18+00:00
-
- ## HTML webmaster code generators and beginner HTML tutorials
- - [http://www.htmlbasix.com](http://www.htmlbasix.com)
- - date_published: 2024-07-04T14:43:24.026897+00:00
-
- ## HTML Boilerplates
- - [https://htmlboilerplates.com](https://htmlboilerplates.com)
- - date_published: 2024-05-10T02:33:12+00:00
-
- ## We Convert your Design into Pixel Perfect HTML/CSS - htmlBurger ®
- - [https://htmlburger.com](https://htmlburger.com)
- - date_published: 2024-06-05T06:11:49.478457+00:00
-
- ## Free & Premium HTML Website Templates Download - HTML Codex
- - [https://htmlcodex.com](https://htmlcodex.com)
- - date_published: 2024-06-23T20:37:25+00:00
-
- ## HTMLCOIN – Blockchain & Cryptocurrency Innovation
- - [https://htmlcoin.com](https://htmlcoin.com)
- - date_published: 2024-09-24T10:23:10.384106+00:00
-
- ## HTML Comment Box - Hosted Website Comments!
- - [https://www.htmlcommentbox.com](https://www.htmlcommentbox.com)
- - date_published: 2024-06-23T18:23:19.644037+00:00
-
- ## HTML corrector (HTML fixing tool)
- - [https://www.htmlcorrector.com](https://www.htmlcorrector.com)
- - date_published: 2024-09-02T09:46:33.430643+00:00
-
- ## HTML CSS Color Online color library: development, web-design, photoshop, art - HTML CSS Color
- - [https://htmlcsscolor.com](https://htmlcsscolor.com)
- - date_published: 2024-06-13T07:44:42.078929+00:00
-
- ## HTML + CSS + JavaScript
- - [https://htmlcssjavascript.com](https://htmlcssjavascript.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## htmldocs - HTML to PDF document editor and API
- - [https://htmldocs.com](https://htmldocs.com)
- - date_published: 2024-07-20T21:32:22.097488+00:00
 

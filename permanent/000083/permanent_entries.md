@@ -1,3 +1,43 @@
+ ## Data Management Blog - Data Integration and Modern Data Management Articles, Analysis and Information
+ - [https://www.datamanagementblog.com](https://www.datamanagementblog.com)
+ - date_published: 2024-06-16T20:24:05.222898+00:00
+
+ ## Home
+ - [https://datamarkgis.com](https://datamarkgis.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Technology News: Latest IT and Tech Industry News
+ - [https://datamation.com](https://datamation.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Confluence
+ - [https://documentation.datameer.com](https://documentation.datameer.com)
+ - date_published: 2024-06-16T20:10:24.404202+00:00
+
+ ## Datameer | A Data Transformation Platform
+ - [https://www.datameer.com](https://www.datameer.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Data Mesh Architecture
+ - [https://datamesh-architecture.com](https://datamesh-architecture.com)
+ - date_published: 2024-05-09T04:56:33.869705+00:00
+
+ ## Data Mesh Governance by Example: Pragmatic examples of global policies
+ - [https://datamesh-governance.com](https://datamesh-governance.com)
+ - date_published: 2023-10-14T10:43:39+00:00
+
+ ## The Global Home for Data Mesh | Data Mesh Learning
+ - [https://datameshlearning.com](https://datameshlearning.com)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Data Mesh Live 2025
+ - [https://datameshlive.com](https://datameshlive.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Data Mesh Manager
+ - [https://www.datamesh-manager.com](https://www.datamesh-manager.com)
+ - date_published: 2024-07-09T10:12:37+00:00
+
  ## Welcome | Data Management in Large-Scale Education Research
  - [https://datamgmtinedresearch.com](https://datamgmtinedresearch.com)
  - date_published: 2024-01-05T00:00:00+00:00
@@ -4030,44 +4070,4 @@
  ## Dediserve looking glass and network speed test
  - [http://speedtest.c1.jap1.dediserve.com](http://speedtest.c1.jap1.dediserve.com)
  - date_published: 2024-06-16T14:48:50.734309+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.jkt1.dediserve.com](http://speedtest.c1.jkt1.dediserve.com)
- - date_published: 2024-06-16T14:48:35.845814+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.lax1.dediserve.com](http://speedtest.c1.lax1.dediserve.com)
- - date_published: 2024-06-16T14:49:08.839698+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.lon3.dediserve.com](http://speedtest.c1.lon3.dediserve.com)
- - date_published: 2024-06-16T14:49:07.832895+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.nyc1.dediserve.com](http://speedtest.c1.nyc1.dediserve.com)
- - date_published: 2024-06-16T14:48:32.852007+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.pol1.dediserve.com](http://speedtest.c1.pol1.dediserve.com)
- - date_published: 2024-06-16T14:48:51.741000+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.sin1.dediserve.com](http://speedtest.c1.sin1.dediserve.com)
- - date_published: 2024-06-16T14:48:15.522508+00:00
-
- ## Dediserve looking glass and network speed test
- - [http://speedtest.c1.vie1.dediserve.com](http://speedtest.c1.vie1.dediserve.com)
- - date_published: 2024-06-16T14:49:31.388617+00:00
-
- ## Dediserve Wiki
- - [http://wiki.dediserve.com](http://wiki.dediserve.com)
- - date_published: 2024-06-16T14:48:37.789411+00:00
-
- ## Dediserve Status
- - [http://dediservestatus.com](http://dediservestatus.com)
- - date_published: 2024-06-16T14:48:53.729498+00:00
-
- ## Delivering Dedicated Server in Azerbaijan - DEDIVER
- - [https://dediver.com](https://dediver.com)
- - date_published: 2024-09-06T12:53:42.239981+00:00
 

@@ -1,3 +1,51 @@
+ ## Hotel Berna Milan - new 2024 prices, reviews, book now
+ - [http://berna-milan.hotels-lombardy.com](http://berna-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:44:59.454931+00:00
+
+ ## Hotel Antares Hotel Concorde Milan - new 2024 prices, reviews, book now
+ - [http://best-western-antares-hotel-concorde-non.hotels-lombardy.com](http://best-western-antares-hotel-concorde-non.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:41:05.599260+00:00
+
+ ## Hotel C-Hotels Atlantic Milan - new 2024 prices, reviews, book now
+ - [http://best-western-atlantic-hotel.hotels-lombardy.com](http://best-western-atlantic-hotel.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:30:50.008963+00:00
+
+ ## Hotel Western Hotel Goldenmile Milan Trezzano sul Naviglio - new 2024 prices, reviews, book now
+ - [http://best-western-goldenmile.hotels-lombardy.com](http://best-western-goldenmile.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:54:20.053012+00:00
+
+ ## Hotel Ascot Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-ascot.hotels-lombardy.com](http://best-western-hotel-ascot.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:12:29.274584+00:00
+
+ ## Hotel Astoria Sure Hotel Collection By Best Western Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-astoria.hotels-lombardy.com](http://best-western-hotel-astoria.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:41:17.192932+00:00
+
+ ## Hotel Western Cavalieri Della Cardano Al Campo - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-cavalieri-della-corona.hotels-lombardy.com](http://best-western-hotel-cavalieri-della-corona.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:44:25.609345+00:00
+
+ ## Hotel Western Hotel Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-city-milan.hotels-lombardy.com](http://best-western-hotel-city-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:17:05.835434+00:00
+
+ ## Hotel Hotel Como City Center Como - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-continental.hotels-lombardy.com](http://best-western-hotel-continental.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:54:13.816952+00:00
+
+ ## Hotel Western Hotel Cristallo Mantova Virgilio - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-cristallo-mantova.hotels-lombardy.com](http://best-western-hotel-cristallo-mantova.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:31:14.371660+00:00
+
+ ## Hotel Crystal Hotel Varese - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-crystal.hotels-lombardy.com](http://best-western-hotel-crystal.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:15:23.672718+00:00
+
+ ## Hotel Western Madison Milan - new 2024 prices, reviews, book now
+ - [http://best-western-hotel-madison-milan.hotels-lombardy.com](http://best-western-hotel-madison-milan.hotels-lombardy.com)
+ - date_published: 2024-06-29T12:56:07.751947+00:00
+
  ## Hotel Western Hotel Major Milan - new 2024 prices, reviews, book now
  - [http://best-western-hotel-major.hotels-lombardy.com](http://best-western-hotel-major.hotels-lombardy.com)
  - date_published: 2024-06-29T13:02:47.788895+00:00
@@ -3949,52 +3997,4 @@
  ## LEONARDO ROYAL HOTEL LONDON CITY | ⋆⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £185
  - [https://grange-city.hotels-of-london.com](https://grange-city.hotels-of-london.com)
  - date_published: 2024-10-16T12:34:18.991114+00:00
-
- ## LEONARDO ROYAL HOTEL LONDON TOWER BRIDGE | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £233
- - [https://grange-tower-bridge.hotels-of-london.com](https://grange-tower-bridge.hotels-of-london.com)
- - date_published: 2024-10-16T12:30:50.398625+00:00
-
- ## GREAT NORTHERN HOTEL, A TRIBUTE PORTFOLIO HOTEL, LONDON | ⋆⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £285
- - [https://great-northern-a-tribute-portfolio.hotels-of-london.com](https://great-northern-a-tribute-portfolio.hotels-of-london.com)
- - date_published: 2024-10-16T12:33:28.946053+00:00
-
- ## GREEN ROOMS | ⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £63
- - [https://green-rooms.hotels-of-london.com](https://green-rooms.hotels-of-london.com)
- - date_published: 2024-10-16T12:39:50.734367+00:00
-
- ## HOTEL GROSVENOR HOUSE | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £431
- - [https://grosvenor-house-a-jw-marriott.hotels-of-london.com](https://grosvenor-house-a-jw-marriott.hotels-of-london.com)
- - date_published: 2024-10-16T12:44:36.774440+00:00
-
- ## HOTEL H10 LONDON WATERLOO | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £199
- - [https://h10-waterloo.hotels-of-london.com](https://h10-waterloo.hotels-of-london.com)
- - date_published: 2024-10-16T12:39:21.585115+00:00
-
- ## HOTEL HALPIN HOUSE | ⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £46
- - [https://halpin-house.hotels-of-london.com](https://halpin-house.hotels-of-london.com)
- - date_published: 2024-10-16T12:31:40.484608+00:00
-
- ## HOTEL HAMPTON BY HILTON LONDON WATERLOO | ⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £249
- - [https://hampton-by-hilton-waterloo.hotels-of-london.com](https://hampton-by-hilton-waterloo.hotels-of-london.com)
- - date_published: 2024-10-16T12:45:02.840023+00:00
-
- ## HOTEL HAM YARD | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £790
- - [https://ham-yard.hotels-of-london.com](https://ham-yard.hotels-of-london.com)
- - date_published: 2024-10-16T12:28:25.235894+00:00
-
- ## HARD ROCK HOTEL LONDON | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £334
- - [https://hard-rock.hotels-of-london.com](https://hard-rock.hotels-of-london.com)
- - date_published: 2024-10-16T12:29:04.084185+00:00
-
- ## HOTEL HAYMARKET | ⋆⋆⋆⋆⋆ | LONDON, UNITED KINGDOM | SEASON DEALS FROM £720
- - [https://haymarket.hotels-of-london.com](https://haymarket.hotels-of-london.com)
- - date_published: 2024-10-16T12:44:27.777432+00:00
-
- ## HOTEL HILTON LONDON CANARY WHARF | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £148
- - [https://hilton-canary-wharf.hotels-of-london.com](https://hilton-canary-wharf.hotels-of-london.com)
- - date_published: 2024-10-16T12:33:17.977290+00:00
-
- ## HOTEL HILTON LONDON KENSINGTON | ⋆⋆⋆⋆ | UNITED KINGDOM | SEASON DEALS FROM £102
- - [https://hilton-kensington.hotels-of-london.com](https://hilton-kensington.hotels-of-london.com)
- - date_published: 2024-10-16T12:34:44.702870+00:00
 

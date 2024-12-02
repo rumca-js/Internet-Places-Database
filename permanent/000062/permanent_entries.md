@@ -1,3 +1,27 @@
+ ## PennSound Daily
+ - [https://pennsounddaily.blogspot.com](https://pennsounddaily.blogspot.com)
+ - date_published: 2024-10-29T18:41:42+00:00
+
+ ## Penny Red
+ - [http://pennyred.blogspot.com](http://pennyred.blogspot.com)
+ - date_published: 2024-10-21T13:53:58.289690+00:00
+
+ ## Here, There, and Everywhere
+ - [http://penrodpostings.blogspot.com](http://penrodpostings.blogspot.com)
+ - date_published: 2024-07-11T18:04:17+00:00
+
+ ## Blogger
+ - [https://pensieriscossi.blogspot.com](https://pensieriscossi.blogspot.com)
+ - date_published: 2024-09-02T16:54:17.085392+00:00
+
+ ## Confessions of a Penetration Tester
+ - [http://pentesterconfessions.blogspot.com](http://pentesterconfessions.blogspot.com)
+ - date_published: 2024-10-07T04:57:44+00:00
+
+ ## The Nature of Robertson
+ - [http://peonyden.blogspot.com](http://peonyden.blogspot.com)
+ - date_published: 2024-10-19T05:17:18.460165+00:00
+
  ## Right Wing Extreme
  - [http://peoplesrepublicofamerica.blogspot.com](http://peoplesrepublicofamerica.blogspot.com)
  - date_published: 2024-03-06T20:03:29+00:00
@@ -3986,28 +4010,4 @@
  ## The Nothelm Chronicle
  - [http://saxons-and-vikings.blogspot.com](http://saxons-and-vikings.blogspot.com)
  - date_published: 2024-04-28T02:38:02+00:00
-
- ## Sayesha on the rocks
- - [http://sayesha.blogspot.com](http://sayesha.blogspot.com)
- - date_published: 2024-08-06T00:58:36+00:00
-
- ## Yet Another Eclipse Project Blog
- - [http://sbouchet-eef.blogspot.com](http://sbouchet-eef.blogspot.com)
- - date_published: 2024-02-19T15:31:55+00:00
-
- ## Blogger
- - [http://sbttp.blogspot.com](http://sbttp.blogspot.com)
- - date_published: 2024-06-30T04:28:53.513834+00:00
-
- ## SC15 Official Blog
- - [http://sc15blog.blogspot.com](http://sc15blog.blogspot.com)
- - date_published: 2024-06-23T04:11:21+00:00
-
- ## Scale Creep
- - [http://scalecreep.blogspot.com](http://scalecreep.blogspot.com)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Southern California Aquatics SCAQ Swim Club
- - [http://scaq.blogspot.com](http://scaq.blogspot.com)
- - date_published: 2024-05-13T05:42:32+00:00
 

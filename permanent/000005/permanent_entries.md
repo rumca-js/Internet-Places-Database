@@ -1,3 +1,7 @@
+ ## Convert more website visitors into leads with Heyflow
+ - [https://heyflow.app](https://heyflow.app)
+ - date_published: 2024-09-14T23:41:44.432093+00:00
+
  ## HideMail: Protect Your Email Privacy with Random Aliases
  - [https://hidemail.app](https://hidemail.app)
  - date_published: 2024-07-14T10:19:15.020118+00:00
@@ -4036,8 +4040,4 @@
  ## Sei explorer
  - [https://seistream.app](https://seistream.app)
  - date_published: 2024-09-24T00:00:00+00:00
-
- ## Send Files To Tv - Android application for Smart TV
- - [https://sendfilestotv.app](https://sendfilestotv.app)
- - date_published: 2024-03-11T14:59:01+00:00
 

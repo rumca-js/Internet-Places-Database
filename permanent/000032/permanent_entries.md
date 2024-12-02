@@ -1,3 +1,11 @@
+ ## KPRKR
+ - [https://kprkr.co](https://kprkr.co)
+ - date_published: 2024-05-09T06:17:54.303717+00:00
+
+ ## Kravata | El futuro digital de las transacciones
+ - [https://www.kravata.co](https://www.kravata.co)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## PANEN138 > Enjoy Play Game With Panen 138 Resmi
  - [https://krypt.co](https://krypt.co)
  - date_published: 2024-08-08T09:16:01+00:00
@@ -4015,12 +4023,4 @@
  ## Security Newsletter - weekly curated infosec news
  - [https://securitynewsletter.co](https://securitynewsletter.co)
  - date_published: 2024-06-15T00:00:00+00:00
-
- ## Security Systems
- - [https://www.securitysystems.co](https://www.securitysystems.co)
- - date_published: 2024-07-20T06:54:03.526731+00:00
-
- ## Revive Adserver
- - [https://master-jhm212qsz99h.us.seedcloud.co](https://master-jhm212qsz99h.us.seedcloud.co)
- - date_published: 2024-09-11T01:44:37.335941+00:00
 

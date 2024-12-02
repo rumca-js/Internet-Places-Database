@@ -1,3 +1,7 @@
+ ## Life is an Experiment and I’m not in the Control Group
+ - [https://alligator.micro.blog](https://alligator.micro.blog)
+ - date_published: 2024-06-08T13:02:23+00:00
+
  ## Lou Plummer's Obsidian Posts
 		- Lou Plummer's Obsidian Posts
  - [https://amerpie2.micro.blog](https://amerpie2.micro.blog)
@@ -4039,8 +4043,4 @@ Educação
  ## Hollywood Forever TV
  - [https://hollywoodforevertv.com.br](https://hollywoodforevertv.com.br)
  - date_published: 2024-07-11T17:33:41.918455+00:00
-
- ## HOLOBOX | Projetores e projetos de holograma | Brasil
- - [https://www.holobox.com.br](https://www.holobox.com.br)
- - date_published: 2024-09-25T12:04:08.574326+00:00
 

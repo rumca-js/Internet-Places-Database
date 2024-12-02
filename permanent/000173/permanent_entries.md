@@ -1,3 +1,85 @@
+ ## Quantic Dream - Official Site
+ - [https://quanticdream.com](https://quanticdream.com)
+ - date_published: 2024-05-19T06:30:17+00:00
+ - tags: ['video game developer']
+
+ ## Official Quantic Dream Merch & Games Store
+ - [https://shop.quanticdream.com](https://shop.quanticdream.com)
+ - date_published: 2024-06-20T21:10:47.794912+00:00
+
+ ## Quantic Dream Support
+ - [https://support.quanticdream.com](https://support.quanticdream.com)
+ - date_published: 2024-07-20T13:14:36.293617+00:00
+
+ ## Quantic Foundry Apps
+ - [https://apps.quanticfoundry.com](https://apps.quanticfoundry.com)
+ - date_published: 2024-08-19T19:07:16.102256+00:00
+
+ ## Quantic Foundry
+ - [https://quanticfoundry.com](https://quanticfoundry.com)
+ - date_published: 2022-11-08T00:00:00+00:00
+ - tags: ['data science', 'company']
+
+ ## Telescope by Quantic Labs.
+ - [https://scope.quantichq.com](https://scope.quantichq.com)
+ - date_published: 2024-01-31T18:42:53.534720+00:00
+
+ ## Home - Quantic Electronics
+ - [https://quanticnow.com](https://quanticnow.com)
+ - date_published: 2024-06-20T12:12:35.652590+00:00
+
+ ## Quantified Self Forum
+ - [https://forum.quantifiedself.com](https://forum.quantifiedself.com)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Homepage - Quantified Self
+ - [https://quantifiedself.com](https://quantifiedself.com)
+ - date_published: 2024-06-12T12:49:06.756366+00:00
+
+ ## Home
+ - [https://www.quantile.com](https://www.quantile.com)
+ - date_published: 2024-10-30T05:01:37.857226+00:00
+
+ ## InQuanto User Guide
+ - [https://inquanto.quantinuum.com](https://inquanto.quantinuum.com)
+ - date_published: 2024-05-07T10:01:18.518223+00:00
+
+ ## Accelerating Quantum Computing | Quantinuum
+ - [https://quantinuum.com](https://quantinuum.com)
+ - date_published: 2023-10-25T16:43:41.890171+00:00
+
+ ## AI Maturity Model
+ - [https://ai-maturity.quantiphi.com](https://ai-maturity.quantiphi.com)
+ - date_published: 2024-05-31T07:00:21+00:00
+
+ ## Home - Quantiphi
+ - [https://quantiphi.com](https://quantiphi.com)
+ - date_published: 2024-06-19T17:03:00+00:00
+
+ ## SISA allows you to do statistical analysis directly on the Internet.
+ - [http://www.quantitativeskills.com](http://www.quantitativeskills.com)
+ - date_published: 2024-06-01T08:26:30+00:00
+
+ ## Quant Trading Rules | Quantitativo | Substack
+ - [https://www.quantitativo.com](https://www.quantitativo.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## QQ - Quantity Queries Builder
+ - [https://quantityqueries.com](https://quantityqueries.com)
+ - date_published: 2024-10-22T19:23:53.283900+00:00
+
+ ## Articles
+ - [https://quantnet.com](https://quantnet.com)
+ - date_published: 2024-05-04T15:44:31.041229+00:00
+
+ ## A place to share my gained knowledge and experience
+ - [https://quantonganh.com](https://quantonganh.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Smart services for a sustainable world | Quant
+ - [http://www.quantservice.com](http://www.quantservice.com)
+ - date_published: 2024-09-02T13:07:29.374308+00:00
+
  ## Quantstamp - Public Security Assessments
  - [https://certificate.quantstamp.com](https://certificate.quantstamp.com)
  - date_published: 2024-05-08T05:52:17.419777+00:00
@@ -3953,85 +4035,4 @@
  ## rakuten.com
  - [https://images.fr.shopping.rakuten.com](https://images.fr.shopping.rakuten.com)
  - date_published: 2024-09-15T21:16:57.913798+00:00
-
- ## To have a Meaningful Impact
- - [https://insight.rakuten.com](https://insight.rakuten.com)
- - date_published: 2024-06-16T09:53:27.236458+00:00
-
- ## My Rakuten
- - [https://jp.account.rakuten.com](https://jp.account.rakuten.com)
- - date_published: 2024-07-04T07:00:47+00:00
-
- ## Earn Cash Back at stores you 💜
- - [https://rakuten.com](https://rakuten.com)
- - date_published: 2024-06-17T09:17:47.814940+00:00
- - tags: ['browser extension']
-
- ## rakuten.com
- - [https://static.fr.shopping.rakuten.com](https://static.fr.shopping.rakuten.com)
- - date_published: 2024-09-15T21:16:55.078469+00:00
-
- ## Rakuten Symphony | Telecom Reinvented
- - [https://symphony.rakuten.com](https://symphony.rakuten.com)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Rakuten Travel: Book quality hotels and ryokans in Japan
- - [https://travel.rakuten.com](https://travel.rakuten.com)
- - date_published: 2024-06-16T09:53:24.799898+00:00
-
- ## The Global Leader in Digital Advertising Insights | Rakuten Advertising Blog
- - [https://blog.rakutenadvertising.com](https://blog.rakutenadvertising.com)
- - date_published: 2024-06-25T20:59:11.678415+00:00
-
- ## Performance Advertising Network | Rakuten Advertising
- - [https://go.rakutenadvertising.com](https://go.rakutenadvertising.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Sign in to Rakuten Advertising
- - [https://publisher.rakutenadvertising.com](https://publisher.rakutenadvertising.com)
- - date_published: 2024-06-25T20:59:07.029559+00:00
-
- ## Performance Advertising Network | Rakuten Advertising
- - [https://rakutenadvertising.com](https://rakutenadvertising.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Sign in to Rakuten Advertising
- - [https://iap.rakutenmarketing.com](https://iap.rakutenmarketing.com)
- - date_published: 2024-06-25T20:59:09.880321+00:00
-
- ## Rakuten Marketing Performance Intelligence Portal
- - [https://performance.rakutenmarketing.com](https://performance.rakutenmarketing.com)
- - date_published: 2021-03-16T18:05:34+00:00
-
- ## Affiliate Advertising Network
- - [https://rakutenmarketing.com](https://rakutenmarketing.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## RAKwireless Documentation Center
- - [https://docs.rakwireless.com](https://docs.rakwireless.com)
- - date_published: 2024-05-09T04:07:26.459230+00:00
-
- ## Artboard
- - [https://form-api.rakwireless.com](https://form-api.rakwireless.com)
- - date_published: 2022-03-28T03:06:32+00:00
-
- ## RAKwireless Forum
- - [https://forum.rakwireless.com](https://forum.rakwireless.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## RAKwireless News Hub
- - [https://news.rakwireless.com](https://news.rakwireless.com)
- - date_published: 2024-05-09T04:07:31.682788+00:00
-
- ## RAKwireless Official Website - IoT solutions provider - IoT Made Easy
- - [https://rakwireless.com](https://rakwireless.com)
- - date_published: 2024-03-03T11:34:56.838055+00:00
-
- ## The IoT Marketplace Page. Buy here.
- - [https://store.rakwireless.com](https://store.rakwireless.com)
- - date_published: 2024-05-09T04:07:23.838694+00:00
-
- ## Ralawise
- - [https://shop.ralawise.com](https://shop.ralawise.com)
- - date_published: 2024-10-21T08:54:53.307900+00:00
 

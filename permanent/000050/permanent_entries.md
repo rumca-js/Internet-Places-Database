@@ -1,3 +1,19 @@
+ ## Ecotone, by Build Buildings
+ - [https://laaps.bandcamp.com](https://laaps.bandcamp.com)
+ - date_published: 2024-08-18T09:09:01.551969+00:00
+
+ ## Laberinto
+ - [https://laberinto1.bandcamp.com](https://laberinto1.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## A Nice Sweet Getaway, by La Cerca
+ - [https://lacerca.bandcamp.com](https://lacerca.bandcamp.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## S/T, by Lackey Die
+ - [https://lackeydie.bandcamp.com](https://lackeydie.bandcamp.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
  ## Drive All Night 4 U, by La Groix
  - [https://lagroix.bandcamp.com](https://lagroix.bandcamp.com)
  - date_published: 2024-10-17T22:07:40.126598+00:00
@@ -3985,21 +4001,4 @@ rain or shine
  ## Barbara Metzger, author of romance novels
  - [http://www.barbarametzger.com](http://www.barbarametzger.com)
  - date_published: 2019-09-17T03:03:34+00:00
-
- ## The Barbarian Keep -- Robert E. Howard and Conan
- - [http://www.barbariankeep.com](http://www.barbariankeep.com)
- - date_published: 2019-04-17T20:37:50+00:00
-
- ## Barbarian Meets Coding
- - [https://barbarianmeetscoding.com](https://barbarianmeetscoding.com)
- - date_published: 2023-07-24T08:50:45+00:00
- - tags: ['personal']
-
- ## COMICS | Barbatoze Comics
- - [https://barbatoze.com](https://barbatoze.com)
- - date_published: 2024-08-19T16:10:45.898803+00:00
-
- ## Barberio Osteria | Top-rated restaurants in SF
- - [https://www.barberiosf.com](https://www.barberiosf.com)
- - date_published: 2024-03-09T00:00:00+00:00
 

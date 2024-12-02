@@ -1,3 +1,11 @@
+ ## Alfred's Notes
+ - [https://notes.alfredmegally.com](https://notes.alfredmegally.com)
+ - date_published: 2024-05-01T03:11:56.028921+00:00
+
+ ## Alfresco Docs
+ - [http://docs.alfresco.com](http://docs.alfresco.com)
+ - date_published: 2024-07-19T12:32:46+00:00
+
  ## Alfresco Software | Hyland
  - [https://www.alfresco.com](https://www.alfresco.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4024,12 +4032,4 @@
  ## Altwork Station The New Way to Work
  - [https://altwork.com](https://altwork.com)
  - date_published: 2023-10-25T12:39:32.730659+00:00
-
- ## ALTX Online Network
- - [http://altx.com](http://altx.com)
- - date_published: 2018-09-02T13:19:22+00:00
-
- ## 上海国际铝工业展览会|铝工业展|2024铝展-中国国际铝工业展览会
- - [http://www.aluminiumchina.com](http://www.aluminiumchina.com)
- - date_published: 2024-06-24T01:37:07+00:00
 

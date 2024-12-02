@@ -1,3 +1,7 @@
+ ## Home | University of Toronto Libraries
+ - [https://content.library.utoronto.ca](https://content.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
  ## Corpora in the Classroom
  - [https://corpora.chass.utoronto.ca](https://corpora.chass.utoronto.ca)
  - date_published: 2024-07-19T15:20:05.303295+00:00
@@ -4006,8 +4010,4 @@
  ## La Barraqueta
  - [https://www.labarraqueta.cat](https://www.labarraqueta.cat)
  - date_published: 2024-07-21T05:51:21.068136+00:00
-
- ## La Panera
- - [https://www.lapanera.cat](https://www.lapanera.cat)
- - date_published: 2024-06-15T00:00:00+00:00
 

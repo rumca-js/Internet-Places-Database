@@ -1,3 +1,80 @@
+ ## Springfield | Summer Sale 2024
+ - [https://myspringfield.com](https://myspringfield.com)
+ - date_published: 2024-08-07T15:26:55.129851+00:00
+
+ ## MySQL Bugs
+ - [https://bugs.mysql.com](https://bugs.mysql.com)
+ - date_published: 2024-07-19T02:35:39.573076+00:00
+
+ ## MySQL :: Developer Zone
+ - [https://dev.mysql.com](https://dev.mysql.com)
+ - date_published: 2024-04-28T05:39:40.140216+00:00
+
+ ## MySQL :: MySQL Community Downloads
+ - [https://downloads.mysql.com](https://downloads.mysql.com)
+ - date_published: 2024-08-07T18:14:55.203360+00:00
+
+ ## MySQL :: MySQL Forums
+ - [http://forums.mysql.com](http://forums.mysql.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## MySQL :: MySQL Labs
+ - [https://labs.mysql.com](https://labs.mysql.com)
+ - date_published: 2024-07-19T02:35:37.954728+00:00
+
+ ## MySQL
+ - [https://mysql.com](https://mysql.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+ - tags: ['database system']
+
+ ## Planet MySQL
+ - [https://planet.mysql.com](https://planet.mysql.com)
+ - date_published: 2024-05-15T02:52:31.278424+00:00
+
+ ## MySQL vs PostgreSQL
+ - [https://www.mysql-vs-postgres.com](https://www.mysql-vs-postgres.com)
+ - date_published: 2024-06-23T00:01:07.096253+00:00
+
+ ## Chris Lema | Business Coach
+ - [https://chrislema.mystagingwebsite.com](https://chrislema.mystagingwebsite.com)
+ - date_published: 2024-07-17T05:17:20+00:00
+
+ ## Weblogs at Harvard
+ - [https://harvard-blogs-production.mystagingwebsite.com](https://harvard-blogs-production.mystagingwebsite.com)
+ - date_published: 2024-04-30T04:43:15.666745+00:00
+
+ ## Jeff Gothelf
+ - [https://jeff-gothelf-2024-production.mystagingwebsite.com](https://jeff-gothelf-2024-production.mystagingwebsite.com)
+ - date_published: 2024-08-18T11:02:37.949949+00:00
+
+ ## Single Origin Coffee Roaster • Modest Coffee
+ - [https://modestcoffee.mystagingwebsite.com](https://modestcoffee.mystagingwebsite.com)
+ - date_published: 2024-04-30T07:18:01.433480+00:00
+
+ ## Nova Ukraine
+ - [https://nova-ukraine-development.mystagingwebsite.com](https://nova-ukraine-development.mystagingwebsite.com)
+ - date_published: 2024-06-23T14:14:14+00:00
+
+ ## North American Invasive Species Management Association - NAISMA
+ - [https://playcleango.mystagingwebsite.com](https://playcleango.mystagingwebsite.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Retail Gazette | The #1 Free Source for Retail News
+ - [https://retailgazette.mystagingwebsite.com](https://retailgazette.mystagingwebsite.com)
+ - date_published: 2024-10-20T20:35:18.788087+00:00
+
+ ## Shtetl-Optimized
+ - [https://scottaaronson-production.mystagingwebsite.com](https://scottaaronson-production.mystagingwebsite.com)
+ - date_published: 2024-08-19T06:08:33+00:00
+
+ ## Sewdirect – Sewing Patterns UK | Craft & Clothing Patterns
+ - [https://sewdirect-staging.mystagingwebsite.com](https://sewdirect-staging.mystagingwebsite.com)
+ - date_published: 2024-07-10T03:40:44+00:00
+
+ ## Newco Shift | Covering the biggest shift in business and society since the industrial revolution
+ - [https://shiftnewco.mystagingwebsite.com](https://shiftnewco.mystagingwebsite.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Blue Federal Credit Union | For You. For Life. | Blue FCU
  - [https://stagingbluefcu.mystagingwebsite.com](https://stagingbluefcu.mystagingwebsite.com)
  - date_published: 2023-06-16T02:11:00+00:00
@@ -3949,80 +4026,4 @@
  ## Home - Mexico City Capitanes
  - [https://capitanes.gleague.nba.com](https://capitanes.gleague.nba.com)
  - date_published: 2024-07-12T14:56:07.602111+00:00
-
- ## Careers at NBA | NBA jobs
- - [https://careers.nba.com](https://careers.nba.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Homepage - NBA Cares
- - [https://cares.nba.com](https://cares.nba.com)
- - date_published: 2024-05-12T04:38:30.780630+00:00
-
- ## Home - Cavs Legion
- - [http://cavslegion.nba.com](http://cavslegion.nba.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## TheBAL.com | The Official Site of the Basketball Africa League
- - [https://cdn-bal.nba.com](https://cdn-bal.nba.com)
- - date_published: 2024-07-14T23:59:46.834294+00:00
-
- ## The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com
- - [http://cdn.nba.com](http://cdn.nba.com)
- - date_published: 2024-05-12T04:32:15.557332+00:00
-
- ## Home - Celtics Crossover
- - [http://celticscrossover.nba.com](http://celticscrossover.nba.com)
- - date_published: 2024-07-15T00:00:55.212118+00:00
-
- ## Home - Charge Basketball
- - [https://cleveland.gleague.nba.com](https://cleveland.gleague.nba.com)
- - date_published: 2024-07-12T14:55:29.022303+00:00
-
- ## National Basketball Social Justice Coalition
- - [https://coalition.nba.com](https://coalition.nba.com)
- - date_published: 2024-05-12T04:37:55.437789+00:00
-
- ## Home - College Park Skyhawks
- - [https://cpskyhawks.gleague.nba.com](https://cpskyhawks.gleague.nba.com)
- - date_published: 2024-07-12T14:55:50.586938+00:00
-
- ## Home - Motor City Cruise
- - [https://detroit.gleague.nba.com](https://detroit.gleague.nba.com)
- - date_published: 2024-07-12T14:55:27.365684+00:00
-
- ## NBA G League Gear, Official G League Store | One Store, Every Team
- - [http://dleaguestore.nba.com](http://dleaguestore.nba.com)
- - date_published: 2024-07-14T23:59:22.938246+00:00
-
- ## Dux Infinitos – NBA 2KL Team representing Mexico City
- - [http://duxinfinitos.nba.com](http://duxinfinitos.nba.com)
- - date_published: 2024-07-15T02:01:31.128020+00:00
-
- ## NBA.com España | El sitio oficial de la NBA | Sporting News España
- - [https://es.global.nba.com](https://es.global.nba.com)
- - date_published: 2024-09-13T10:37:08+00:00
-
- ## Home - Indiana Mad Ants
- - [https://fortwayne.gleague.nba.com](https://fortwayne.gleague.nba.com)
- - date_published: 2024-07-12T14:55:43.515836+00:00
-
- ## Gen.G Tigers of Shanghai – The Official NBA 2K League Team Site of the Gen.G Tigers of Shanghai
- - [http://gengtigers.nba.com](http://gengtigers.nba.com)
- - date_published: 2024-07-15T02:01:40.694923+00:00
-
- ## The official site of the NBA G League
- - [http://gleague.nba.com](http://gleague.nba.com)
- - date_published: 2024-05-12T04:32:31.267950+00:00
-
- ## NBA G League Gear, Official G League Store | One Store, Every Team
- - [https://gleaguestore.nba.com](https://gleaguestore.nba.com)
- - date_published: 2024-07-14T23:58:33.818123+00:00
-
- ## The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com
- - [http://global.nba.com](http://global.nba.com)
- - date_published: 2024-07-14T23:58:17.634689+00:00
-
- ## Home - Grand Rapids Gold
- - [https://grandrapids.gleague.nba.com](https://grandrapids.gleague.nba.com)
- - date_published: 2024-07-12T14:55:33.211783+00:00
 

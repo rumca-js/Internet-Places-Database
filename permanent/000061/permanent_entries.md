@@ -1,3 +1,27 @@
+ ## Spirithelpers
+ - [http://miztlee.blogspot.com](http://miztlee.blogspot.com)
+ - date_published: 2024-09-02T09:13:34+00:00
+
+ ## Work In Progress
+ - [http://mjldcr.blogspot.com](http://mjldcr.blogspot.com)
+ - date_published: 2024-03-13T10:02:21+00:00
+
+ ## Open Source Activities
+ - [http://mjlposse.blogspot.com](http://mjlposse.blogspot.com)
+ - date_published: 2024-02-08T19:33:50+00:00
+
+ ## CARPE DIEM
+ - [http://mjperry.blogspot.com](http://mjperry.blogspot.com)
+ - date_published: 2024-06-29T11:03:45+00:00
+
+ ## mokelly's devlog
+ - [http://mjtokelly.blogspot.com](http://mjtokelly.blogspot.com)
+ - date_published: 2024-03-16T01:10:07+00:00
+
+ ## Lovin' Life
+ - [http://mkhawks.blogspot.com](http://mkhawks.blogspot.com)
+ - date_published: 2024-07-03T01:57:04+00:00
+
  ## The Maps and Geo Blog
  - [https://ml4711.blogspot.com](https://ml4711.blogspot.com)
  - date_published: 2024-07-11T14:26:04+00:00
@@ -3990,28 +4014,4 @@
  ## penmachinedad
  - [https://penmachinedad.blogspot.com](https://penmachinedad.blogspot.com)
  - date_published: 2024-01-07T00:00:00+00:00
-
- ## PennSound Daily
- - [https://pennsounddaily.blogspot.com](https://pennsounddaily.blogspot.com)
- - date_published: 2024-10-29T18:41:42+00:00
-
- ## Penny Red
- - [http://pennyred.blogspot.com](http://pennyred.blogspot.com)
- - date_published: 2024-10-21T13:53:58.289690+00:00
-
- ## Here, There, and Everywhere
- - [http://penrodpostings.blogspot.com](http://penrodpostings.blogspot.com)
- - date_published: 2024-07-11T18:04:17+00:00
-
- ## Blogger
- - [https://pensieriscossi.blogspot.com](https://pensieriscossi.blogspot.com)
- - date_published: 2024-09-02T16:54:17.085392+00:00
-
- ## Confessions of a Penetration Tester
- - [http://pentesterconfessions.blogspot.com](http://pentesterconfessions.blogspot.com)
- - date_published: 2024-10-07T04:57:44+00:00
-
- ## The Nature of Robertson
- - [http://peonyden.blogspot.com](http://peonyden.blogspot.com)
- - date_published: 2024-10-19T05:17:18.460165+00:00
 

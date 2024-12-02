@@ -2085,6 +2085,10 @@
  - [https://invent-k6b.begin.app](https://invent-k6b.begin.app)
  - date_published: 2024-08-19T10:09:24.509530+00:00
 
+ ## Muscle Body
+ - [https://www.benefiit.app](https://www.benefiit.app)
+ - date_published: 2024-12-01T08:09:59+00:00
+
  ## Bigcapital | Core Accounting Software
  - [https://bigcapital.app](https://bigcapital.app)
  - date_published: 2024-05-08T16:50:18.847614+00:00
@@ -4015,8 +4019,4 @@
  ## Alice - ChatGPT desktop app with superpowers!
  - [https://www.heyalice.app](https://www.heyalice.app)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Convert more website visitors into leads with Heyflow
- - [https://heyflow.app](https://heyflow.app)
- - date_published: 2024-09-14T23:41:44.432093+00:00
 

@@ -1,3 +1,271 @@
+ ## Home - Gender Policy Report
+ - [https://genderpolicyreport.umn.edu](https://genderpolicyreport.umn.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Office of Advancement | UMN Duluth
+ - [https://give.d.umn.edu](https://give.d.umn.edu)
+ - date_published: 2024-07-10T14:59:37+00:00
+
+ ## Give to Morris | Give to UMN Morris
+ - [https://give.morris.umn.edu](https://give.morris.umn.edu)
+ - date_published: 2024-07-10T14:01:45+00:00
+
+ ## Home | Give to the University of Minnesota
+ - [https://give.umn.edu](https://give.umn.edu)
+ - date_published: 2024-05-11T07:52:57.604741+00:00
+
+ ## Graduate Medical Education
+ - [https://gme.umn.edu](https://gme.umn.edu)
+ - date_published: 2024-05-07T21:30:35.938955+00:00
+
+ ## Graduate School Duluth | UMN Duluth
+ - [https://graduate-school.d.umn.edu](https://graduate-school.d.umn.edu)
+ - date_published: 2024-07-10T14:57:44+00:00
+
+ ## Home | The Graduate School
+ - [https://grad.umn.edu](https://grad.umn.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## On-Campus Living
+ - [https://housing.umn.edu](https://housing.umn.edu)
+ - date_published: 2024-05-11T07:55:40.804057+00:00
+
+ ## Human Rights Library- University of Minnesota
+ - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
+ - date_published: 2022-05-07T15:59:08+00:00
+
+ ## Sign In | HRMS Instruction
+ - [https://hrms.umn.edu](https://hrms.umn.edu)
+ - date_published: 2024-06-21T17:10:55+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://hr.umn.edu](https://hr.umn.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Health Sciences Library | Health Sciences Libraries
+ - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://humanresources.umn.edu](https://humanresources.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://ici.umn.edu](https://ici.umn.edu)
+ - date_published: 2024-09-06T13:40:41.144415+00:00
+
+ ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
+ - [http://idea.umn.edu](http://idea.umn.edu)
+ - date_published: 2024-07-10T14:59:09+00:00
+
+ ## Home
+ - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
+ - date_published: 2024-07-03T18:08:12+00:00
+
+ ## IT@UMN | The people behind the technology |
+ - [https://it.umn.edu](https://it.umn.edu)
+ - date_published: 2024-07-02T01:40:28+00:00
+
+ ## IVR Initiative Home Page | CIDRAP
+ - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:30:46.779392+00:00
+
+ ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
+ - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
+ - date_published: 2024-07-10T14:51:45+00:00
+
+ ## Kusske Design Initiative
+ - [https://kdi.umn.edu](https://kdi.umn.edu)
+ - date_published: 2024-07-08T14:57:40.332054+00:00
+
+ ## LATIS | CLA Neighborhood
+ - [http://latis.umn.edu](http://latis.umn.edu)
+ - date_published: 2024-07-01T21:26:53+00:00
+
+ ## Kathryn A. Martin Library | UMN Duluth
+ - [https://lib.d.umn.edu](https://lib.d.umn.edu)
+ - date_published: 2024-07-13T16:50:48+00:00
+
+ ## Home - UMN Libraries News & Events
+ - [https://libnews.umn.edu](https://libnews.umn.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Rodney A. Briggs Library | UMN Morris Library
+ - [https://library.morris.umn.edu](https://library.morris.umn.edu)
+ - date_published: 2024-07-10T14:22:37+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://lib.umn.edu](https://lib.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Labovitz School of Business and Economics | UMN Duluth
+ - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
+ - date_published: 2024-07-11T15:46:00+00:00
+
+ ## Web Login Service
+ - [http://mail.umn.edu](http://mail.umn.edu)
+ - date_published: 2024-07-13T17:15:25.969779+00:00
+
+ ## Home page | Majors
+ - [https://majors.umn.edu](https://majors.umn.edu)
+ - date_published: 2024-07-10T14:13:21+00:00
+
+ ## Donate to the University of Minnesota
+ - [https://makingagift.umn.edu](https://makingagift.umn.edu)
+ - date_published: 2024-05-07T21:30:21.659502+00:00
+
+ ## Manifold @uminnpress
+ - [https://manifold.umn.edu](https://manifold.umn.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## UMN - MARS Lab
+ - [http://mars.cs.umn.edu](http://mars.cs.umn.edu)
+ - date_published: 2019-11-08T00:00:00+00:00
+
+ ## Welcome to MCAE | MCAE
+ - [http://mcae.umn.edu](http://mcae.umn.edu)
+ - date_published: 2024-07-12T16:13:40+00:00
+
+ ## Medical School
+ - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
+ - date_published: 2024-05-07T21:30:07.863681+00:00
+
+ ## Web Login Service
+ - [https://mediaspace.umn.edu](https://mediaspace.umn.edu)
+ - date_published: 2024-07-02T04:07:14.343163+00:00
+
+ ## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date_published: 2023-10-25T19:02:48.728498+00:00
+
+ ## Paul Meehl | Paul E. Meehl
+ - [http://meehl.umn.edu](http://meehl.umn.edu)
+ - date_published: 2024-06-12T15:02:49+00:00
+
+ ## Minnesota Invasive Terrestrial Plants and Pests Center
+ - [https://mitppc.umn.edu](https://mitppc.umn.edu)
+ - date_published: 2024-07-08T17:32:26+00:00
+
+ ## University of Minnesota Morris
+ - [https://morris.umn.edu](https://morris.umn.edu)
+ - date_published: 2024-05-11T07:55:42.951152+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:14.438714+00:00
+
+ ## C&I faculty members receive prestigious fellowship award on Antisemitism and Jewish Inclusion
+ - [https://news.cehd.umn.edu](https://news.cehd.umn.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## News Center Home Page
+ - [https://news.d.umn.edu](https://news.d.umn.edu)
+ - date_published: 2024-07-12T19:23:44+00:00
+
+ ## Welcome to the Office for Conflict Resolution | Office for Conflict Resolution
+ - [http://ocr.umn.edu](http://ocr.umn.edu)
+ - date_published: 2024-07-10T15:52:13+00:00
+
+ ## Education Program | Office for Equity & Diversity Education Program
+ - [https://oeded.umn.edu](https://oeded.umn.edu)
+ - date_published: 2024-07-10T14:18:09+00:00
+
+ ## Please Login | OED Intranet
+ - [https://oedintranet.umn.edu](https://oedintranet.umn.edu)
+ - date_published: 2024-07-13T17:12:21+00:00
+
+ ## Report Web Disability-Related Issue
+ - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
+ - date_published: 2024-05-07T21:29:50.648111+00:00
+
+ ## Home | Crookston One Stop Student Services
+ - [http://onestop.crk.umn.edu](http://onestop.crk.umn.edu)
+ - date_published: 2024-06-20T19:00:39+00:00
+
+ ## Home | Duluth One Stop Student Services
+ - [http://onestop.d.umn.edu](http://onestop.d.umn.edu)
+ - date_published: 2024-06-27T13:19:32+00:00
+
+ ## Home | Morris One Stop Student Services
+ - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
+ - date_published: 2024-07-01T19:37:47+00:00
+
+ ## Home | Rochester One Stop Student Services
+ - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
+ - date_published: 2024-07-01T18:24:15+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
+ - date_published: 2024-07-01T18:27:01+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop.umn.edu](https://onestop.umn.edu)
+ - date_published: 2024-05-07T21:30:12.406123+00:00
+
+ ## Online Learning | University of Minnesota Morris
+ - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
+ - date_published: 2024-07-12T21:39:39+00:00
+
+ ## Publishing Services
+ - [https://open.lib.umn.edu](https://open.lib.umn.edu)
+ - date_published: 2024-05-08T06:58:55.509369+00:00
+
+ ## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date_published: 2023-10-25T19:02:55.930942+00:00
+
+ ## Orientation | UMN Duluth
+ - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
+ - date_published: 2024-07-10T14:03:11+00:00
+
+ ## Welcome! | Office for Student Affairs
+ - [https://osa.umn.edu](https://osa.umn.edu)
+ - date_published: 2024-07-10T14:48:04+00:00
+
+ ## Office for Supplier Diversity | Office for Business & Community Economic Development
+ - [https://osd.umn.edu](https://osd.umn.edu)
+ - date_published: 2024-07-13T17:12:54+00:00
+
+ ## Welcome to the Physics Force | Physics Force
+ - [https://physicsforce.umn.edu](https://physicsforce.umn.edu)
+ - date_published: 2024-06-12T14:45:07+00:00
+
+ ## School of Physics and Astronomy
+ - [https://physics.umn.edu](https://physics.umn.edu)
+ - date_published: 2024-05-07T15:14:46.382218+00:00
+
+ ## Home Page | University Policy Library
+ - [http://policy.umn.edu](http://policy.umn.edu)
+ - date_published: 2024-07-04T09:20:43+00:00
+
+ ## About | Preceptor Resources
+ - [https://preceptor.umn.edu](https://preceptor.umn.edu)
+ - date_published: 2024-05-07T21:30:41.797420+00:00
+
+ ## Website Privacy | Online Privacy
+ - [https://privacy.umn.edu](https://privacy.umn.edu)
+ - date_published: 2024-05-07T21:30:45.450807+00:00
+
+ ## Parking & Transportation Services | UMN Parking & Transportation Services
+ - [https://pts.umn.edu](https://pts.umn.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Public Safety | UMN Department of Public Safety
+ - [https://publicsafety.umn.edu](https://publicsafety.umn.edu)
+ - date_published: 2024-07-12T19:37:38+00:00
+
+ ## Front - Publishing Services
+ - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
+ - date_published: 2024-07-04T16:19:14.960889+00:00
+
+ ## University of Minnesota Rochester
+ - [https://raptorlink.umn.edu](https://raptorlink.umn.edu)
+ - date_published: 2024-07-02T04:19:40.146082+00:00
+
+ ## | Research Computing
+ - [https://rc.umn.edu](https://rc.umn.edu)
+ - date_published: 2024-06-28T13:13:59+00:00
+
  ## Board of Regents | University of Minnesota
  - [https://regents-d8.dev.umn.edu](https://regents-d8.dev.umn.edu)
  - date_published: 2024-07-01T09:10:19+00:00
@@ -3748,273 +4016,4 @@
  ## 2023-24 University Catalog < University of Pennsylvania
  - [https://catalog.upenn.edu](https://catalog.upenn.edu)
  - date_published: 2024-05-07T21:59:09.524495+00:00
-
- ## Chemical and Biomolecular Engineering | A Department of the School of Engineering and Applied Science
- - [https://cbe.seas.upenn.edu](https://cbe.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:45.181122+00:00
-
- ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
- - [http://ccat.sas.upenn.edu](http://ccat.sas.upenn.edu)
- - date_published: 2024-06-21T18:40:25+00:00
-
- ## CETS | Computing and Educational Technology Services
- - [https://cets.seas.upenn.edu](https://cets.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:35.960615+00:00
-
- ## CG@Penn
- - [http://cg.cis.upenn.edu](http://cg.cis.upenn.edu)
- - date_published: 2020-09-25T17:53:10+00:00
-
- ## Computer and Information Science | A Department of the School of Engineering and Applied Science
- - [https://cis.upenn.edu](https://cis.upenn.edu)
- - date_published: 2023-10-25T19:04:17.867275+00:00
-
- ## Penn Business Services
- - [https://cms.business-services.upenn.edu](https://cms.business-services.upenn.edu)
- - date_published: 2024-06-13T19:16:38+00:00
-
- ## Cognitive Computation Group
- - [https://cogcomp.seas.upenn.edu](https://cogcomp.seas.upenn.edu)
- - date_published: 2024-07-01T20:25:34+00:00
-
- ## Wellness at Penn | Wellness at Penn
- - [http://coronavirus.upenn.edu](http://coronavirus.upenn.edu)
- - date_published: 2024-09-15T15:18:33.697551+00:00
-
- ## Search Classes
- - [https://courses.upenn.edu](https://courses.upenn.edu)
- - date_published: 2024-06-18T19:31:59+00:00
-
- ## Department of Criminology
- - [http://crim.sas.upenn.edu](http://crim.sas.upenn.edu)
- - date_published: 2024-06-22T06:01:41+00:00
-
- ## Welcome - The Center for Social Impact Strategy
- - [https://csis.upenn.edu](https://csis.upenn.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Computational Social Science Lab | Projects and Labs
- - [https://css.seas.upenn.edu](https://css.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:35.839983+00:00
-
- ## Penn CURF
- - [https://curf.upenn.edu](https://curf.upenn.edu)
- - date_published: 2024-07-02T03:46:41+00:00
-
- ## Development and Alumni Relations |
- - [https://dar.seas.upenn.edu](https://dar.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:50.740386+00:00
-
- ## MSE in Data Science
- - [https://dats.seas.upenn.edu](https://dats.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:43.441043+00:00
-
- ## Wharton Digital Content Archive
- - [https://dca.wharton.upenn.edu](https://dca.wharton.upenn.edu)
- - date_published: 2024-10-14T20:17:09.010291+00:00
-
- ## Digital.library server at Penn Libraries
- - [https://digital.library.upenn.edu](https://digital.library.upenn.edu)
- - date_published: 2022-07-29T17:55:35+00:00
-
- ## Penn Online Directory - Search
- - [https://directory.apps.upenn.edu](https://directory.apps.upenn.edu)
- - date_published: 2024-05-07T21:58:26.537026+00:00
-
- ## Faculty Directory |
- - [https://directory.seas.upenn.edu](https://directory.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:40.094131+00:00
-
- ## Office of Diversity, Equity and Inclusion |
- - [https://diversity.seas.upenn.edu](https://diversity.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:58.936381+00:00
-
- ## Diversity and Inclusion | Penn Diversity and Inclusion
- - [https://diversity.upenn.edu](https://diversity.upenn.edu)
- - date_published: 2024-07-02T05:36:46+00:00
- - tags: ['dei']
-
- ## Homepage
- - [https://doctoral.wharton.upenn.edu](https://doctoral.wharton.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Distributed Systems Laboratory – Investigating Advanced Distributed Systems and Networking Technologies
- - [https://dsl.cis.upenn.edu](https://dsl.cis.upenn.edu)
- - date_published: 2024-07-02T10:30:52.757825+00:00
-
- ## Engineering Entrepreneurship | Fostering Innovation for Future Leaders
- - [https://eent.seas.upenn.edu](https://eent.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:48.406481+00:00
-
- ## Home Page
- - [https://employers.mbacareers.wharton.upenn.edu](https://employers.mbacareers.wharton.upenn.edu)
- - date_published: 2024-09-29T00:00:00+00:00
-
- ## Engheta Group – At the University of Pennsylvania
- - [https://engheta.seas.upenn.edu](https://engheta.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:26.449680+00:00
-
- ## Homepage
- - [https://entrepreneurship.wharton.upenn.edu](https://entrepreneurship.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:57.298608+00:00
-
- ## Engineering Operational Services |
- - [https://eos.seas.upenn.edu](https://eos.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:31.521423+00:00
-
- ## EPM – Electronic Photonic Microsystems Lab
- - [https://epm.seas.upenn.edu](https://epm.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:23.194643+00:00
-
- ## Home Page
- - [https://esg.wharton.upenn.edu](https://esg.wharton.upenn.edu)
- - date_published: 2024-10-18T22:36:28.488774+00:00
-
- ## Penn Engineering Events |
- - [https://events.seas.upenn.edu](https://events.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:19.158165+00:00
-
- ## Home Page
- - [https://executiveeducation.wharton.upenn.edu](https://executiveeducation.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EMBA Homepage
- - [https://executivemba.wharton.upenn.edu](https://executivemba.wharton.upenn.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home Page
- - [https://executive.wharton.upenn.edu](https://executive.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | University of Pennsylvania Facilities and Real Estate Services
- - [https://facilities.upenn.edu](https://facilities.upenn.edu)
- - date_published: 2024-05-07T21:58:22.982068+00:00
-
- ## Faculty Affairs |
- - [https://facultyaffairs.seas.upenn.edu](https://facultyaffairs.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:21.514810+00:00
-
- ## Wharton Faculty Platform
- - [https://faculty.wharton.upenn.edu](https://faculty.wharton.upenn.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [https://fisher.wharton.upenn.edu](https://fisher.wharton.upenn.edu)
- - date_published: 2024-06-21T11:42:59.091675+00:00
-
- ## Franklin - University of Pennsylvania
- - [https://franklin.library.upenn.edu](https://franklin.library.upenn.edu)
- - date_published: 2024-09-07T22:49:37.055258+00:00
-
- ## Giving to Penn
- - [https://giving.apps.upenn.edu](https://giving.apps.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Giving to Penn
- - [https://giving.aws.cloud.upenn.edu](https://giving.aws.cloud.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Inspiring Impact | University of Pennsylvania
- - [http://giving.upenn.edu](http://giving.upenn.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Penn Global
- - [https://global.upenn.edu](https://global.upenn.edu)
- - date_published: 2024-06-18T13:45:23+00:00
-
- ## Home Page
- - [https://global.wharton.upenn.edu](https://global.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:26.976137+00:00
-
- ## Wharton Global Youth Program Home
- - [https://globalyouth.wharton.upenn.edu](https://globalyouth.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:54.245043+00:00
-
- ## Penn Engineering Graduate Admissions
- - [https://gradadm.seas.upenn.edu](https://gradadm.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:45.434601+00:00
-
- ## Graduate Affairs |
- - [https://grad.seas.upenn.edu](https://grad.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:21.307517+00:00
-
- ## GRASP Laboratory
- - [https://grasp.upenn.edu](https://grasp.upenn.edu)
- - date_published: 2024-05-19T02:40:45.984065+00:00
-
- ## groups.sas.upenn.edu Mailing Lists
- - [https://groups.sas.upenn.edu](https://groups.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:00.890305+00:00
-
- ## The Wharton School
- - [https://groups.wharton.upenn.edu](https://groups.wharton.upenn.edu)
- - date_published: 2024-10-14T20:09:48.142003+00:00
-
- ## Guides: Guides Home: Research Guides
- - [https://guides.library.upenn.edu](https://guides.library.upenn.edu)
- - date_published: 2024-07-01T18:48:13.998189+00:00
-
- ## Andreas Haeberlen
- - [https://haeberlen.cis.upenn.edu](https://haeberlen.cis.upenn.edu)
- - date_published: 2024-07-02T10:29:50.654958+00:00
-
- ## University of Pennsylvania Libraries - Handle Testing
- - [http://hdl.library.upenn.edu](http://hdl.library.upenn.edu)
- - date_published: 2021-10-30T00:18:01+00:00
-
- ## Penn Computer & Information Science Highlights – Inventing the future
- - [https://highlights.cis.upenn.edu](https://highlights.cis.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Human Resources |
- - [https://hr.seas.upenn.edu](https://hr.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:28.412548+00:00
-
- ## Penn Arts and Sciences High School Programs
- - [https://hs.sas.upenn.edu](https://hs.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:57.730525+00:00
-
- ## ImpactED
- - [https://impact-ed.sas.upenn.edu](https://impact-ed.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:53.184194+00:00
-
- ## In Principle and Practice
- - [https://in-principle-and-practice.upenn.edu](https://in-principle-and-practice.upenn.edu)
- - date_published: 2024-05-07T21:57:57.763631+00:00
-
- ## Wharton Inside
- - [https://inside.wharton.upenn.edu](https://inside.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:49.962025+00:00
-
- ## Game Changing Learning
- - [https://interactive.wharton.upenn.edu](https://interactive.wharton.upenn.edu)
- - date_published: 2024-07-02T05:38:09.695427+00:00
-
- ## Language Log
- - [http://itre.cis.upenn.edu](http://itre.cis.upenn.edu)
- - date_published: 2024-06-30T08:51:49.065094+00:00
-
- ## Home
- - [http://journalists.wharton.upenn.edu](http://journalists.wharton.upenn.edu)
- - date_published: 2024-10-14T20:15:25.307766+00:00
-
- ## Home Page - Knowledge at Wharton
- - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
- - date_published: 2023-10-25T19:04:01.029385+00:00
-
- ## Wharton Global Youth Program Home
- - [http://kwhs.wharton.upenn.edu](http://kwhs.wharton.upenn.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 5th L4DC Conference – June 2023, University of Pennsylvania, PA
- - [https://l4dc.seas.upenn.edu](https://l4dc.seas.upenn.edu)
- - date_published: 2024-06-22T08:19:34.928209+00:00
-
- ## Language Log
- - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
- - date_published: 2023-10-25T19:04:08.709335+00:00
-
- ## Home
- - [https://leadership.wharton.upenn.edu](https://leadership.wharton.upenn.edu)
- - date_published: 2024-07-30T00:00:00+00:00
 

@@ -1,3 +1,52 @@
+ ## JMIR Publications
+ - [https://jmirpublications.com](https://jmirpublications.com)
+ - date_published: 2024-06-16T19:36:49.964193+00:00
+
+ ## JMI Sports | A Leading Media Rights and Development Company
+ - [https://www.jmisports.com](https://www.jmisports.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## JMK Engineering Inc.
+ - [https://jmkengineering.com](https://jmkengineering.com)
+ - date_published: 2024-01-23T15:54:26+00:00
+
+ ## JmksportShops | Chaussures, sacs et vêtements | Livraison Gratuite
+ - [https://jmksport.com](https://jmksport.com)
+ - date_published: 2024-06-12T03:29:01.345514+00:00
+
+ ## JMMB Group Jamaica | Jamaica
+ - [https://jm.jmmb.com](https://jm.jmmb.com)
+ - date_published: 2024-07-09T13:48:43.338457+00:00
+
+ ## Beyond Rule 4 - YNAB and Financial Independence (FIRE)
+ - [https://beyondrule4.jmmorrissey.com](https://beyondrule4.jmmorrissey.com)
+ - date_published: 2022-10-14T02:30:03+00:00
+
+ ## Janelle Monáe | ‘The Age of Pleasure’ Out Now!
+ - [https://jmonae.com](https://jmonae.com)
+ - date_published: 2024-05-07T18:33:40.848348+00:00
+
+ ## J Money Apps
+ - [https://jmoneyapps.com](https://jmoneyapps.com)
+ - date_published: 2024-09-24T19:20:01+00:00
+
+ ## Law Office of James Montana
+ - [https://jmontanalaw.com](https://jmontanalaw.com)
+ - date_published: 2024-05-10T05:54:43.442815+00:00
+
+ ## Thirty Five North · Automation Shortcut
+ - [https://jmreekes.com](https://jmreekes.com)
+ - date_published: 2024-08-07T20:57:40.042037+00:00
+
+ ## John Roper - Developer, Organist, and Project Manager
+ - [https://jmroper.com](https://jmroper.com)
+ - date_published: 2024-05-06T13:28:37.123866+00:00
+ - tags: ['personal']
+
+ ## A sonic soul with a relentless drive to make & learn - JmsDnns
+ - [https://jmsdnns.com](https://jmsdnns.com)
+ - date_published: 2023-10-25T15:29:28.593016+00:00
+
  ## Home | The J.M. Smucker Company
  - [https://www.jmsmucker.com](https://www.jmsmucker.com)
  - date_published: 2024-10-18T07:58:50.604137+00:00
@@ -1065,6 +1114,10 @@
  ## John S. Baras
  - [https://johnbaras.com](https://johnbaras.com)
  - date_published: 2024-05-04T15:19:53.645932+00:00
+
+ ## Into the Aetheriad | The Worlds of John Bierce
+ - [https://johnbierce.com](https://johnbierce.com)
+ - date_published: 2024-11-14T13:10:11+00:00
 
  ## Bald Faced Truth by John Canzano | Substack
  - [https://johncanzano.com](https://johncanzano.com)
@@ -4026,56 +4079,4 @@
  ## What is JourneyApps? | JourneyApps Docs
  - [https://docs.journeyapps.com](https://docs.journeyapps.com)
  - date_published: 2024-03-25T00:00:00+00:00
-
- ## JourneyApps: The rapid development platform for industrial apps
- - [https://journeyapps.com](https://journeyapps.com)
- - date_published: 2024-04-30T00:30:23.674087+00:00
-
- ## JourneyApps Accounts
- - [https://oxide.journeyapps.com](https://oxide.journeyapps.com)
- - date_published: 2024-07-22T17:10:22.016576+00:00
-
- ## JourneyApps Accounts
- - [https://powersync.journeyapps.com](https://powersync.journeyapps.com)
- - date_published: 2024-08-06T18:02:22.956084+00:00
-
- ## JourneyApps Status
- - [https://status.journeyapps.com](https://status.journeyapps.com)
- - date_published: 2024-07-22T17:10:20.009145+00:00
-
- ## JourneyApps Support
- - [https://support.journeyapps.com](https://support.journeyapps.com)
- - date_published: 2024-07-22T17:10:23.650474+00:00
-
- ## What's new in JourneyApps
- - [https://whatsnew.journeyapps.com](https://whatsnew.journeyapps.com)
- - date_published: 2024-07-22T17:10:25.286691+00:00
-
- ## Journey Charms - JJ DiGeronimo
- - [http://www.journeycharms.com](http://www.journeycharms.com)
- - date_published: 2020-03-18T17:00:13+00:00
-
- ## Journey Clinical
- - [https://www.journeyclinical.com](https://www.journeyclinical.com)
- - date_published: 2024-10-17T00:00:00+00:00
-
- ## Puzzles Melbourne - Puzzle Artwork Designs | Journey of Something
- - [https://journeyofsomething.com](https://journeyofsomething.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## JourneyToLunar
- - [https://journeytolunar.com](https://journeytolunar.com)
- - date_published: 2024-09-13T17:08:36+00:00
-
- ## Journey to Serve
- - [https://journeytoserve.com](https://journeytoserve.com)
- - date_published: 2024-09-18T22:08:26.373829+00:00
-
- ## Faith Zochowski
- - [https://faithzochowski.journoportfolio.com](https://faithzochowski.journoportfolio.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Nothing to see here
- - [https://media.journoportfolio.com](https://media.journoportfolio.com)
- - date_published: 2018-08-03T12:26:50+00:00
 

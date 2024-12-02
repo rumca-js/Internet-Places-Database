@@ -1,3 +1,7 @@
+ ## Een gratis inleiding tot artificiële intelligentie voor niet-deskundigen
+ - [https://www.elementsofai.be](https://www.elementsofai.be)
+ - date_published: 2024-07-01T08:46:50.336583+00:00
+
  ## Pilario
  - [https://platform.elsya.be](https://platform.elsya.be)
  - date_published: 2024-07-03T09:46:42.499833+00:00
@@ -4013,8 +4017,4 @@ La LUSS est la fédération francophone des associations de patients et de proch
  ## De Winkelhaak | House of C
  - [https://www.winkelhaak.be](https://www.winkelhaak.be)
  - date_published: 2024-07-12T09:16:43.768626+00:00
-
- ## Win Prijzen - alle wedstrijden van België verzameld
- - [https://winprijzen.be](https://winprijzen.be)
- - date_published: 2024-10-29T12:01:01+00:00
 

@@ -1,3 +1,235 @@
+ ## - S.I.Lex -
+ - [https://scinfolex.com](https://scinfolex.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## About Scion Cider - SCION CIDER
+ - [https://www.scionciderbar.com](https://www.scionciderbar.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Gaming & Horse Racing In Columbus, Ohio - Eldorado Scioto Downs
+ - [https://www.sciotodowns.com](https://www.sciotodowns.com)
+ - date_published: 2023-04-10T00:00:00+00:00
+
+ ## SCIPHD -
+ - [https://sciphd.com](https://sciphd.com)
+ - date_published: 2024-07-22T08:22:46.053084+00:00
+
+ ## Sci Phi Journal - Laureate of the European SF Award for Best Magazine
+ - [https://www.sciphijournal.com](https://www.sciphijournal.com)
+ - date_published: 2024-08-19T12:54:16.231976+00:00
+
+ ## World Journal of Biology and Biotechnology
+ - [http://sciplatform.com](http://sciplatform.com)
+ - date_published: 2024-10-29T17:04:54.402892+00:00
+
+ ## American Science & Surplus
+ - [http://www.sciplus.com](http://www.sciplus.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://sciprofiles.com](https://sciprofiles.com)
+ - date_published: 2024-05-04T14:58:55.925629+00:00
+
+ ## SciProgramming - Home
+ - [https://sciprogramming.com](https://sciprogramming.com)
+ - date_published: 2023-10-25T16:59:15.991666+00:00
+
+ ## Top arXiv papers
+ - [https://scirate.com](https://scirate.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Game Making Software - Construct 3 ★★★★★
+ - [https://www.scirra.com](https://www.scirra.com)
+ - date_published: 2024-10-24T13:22:03.282006+00:00
+
+ ## Elsevier | An Information Analytics Business
+ - [http://www.scirus.com](http://www.scirus.com)
+ - date_published: 2024-06-23T01:31:41.969161+00:00
+
+ ## Home
+ - [http://scisafari.com](http://scisafari.com)
+ - date_published: 2024-05-09T12:17:53+00:00
+
+ ## Lab Safety & Inventory for EHS & Ops | SciShield (BioRAFT)
+ - [https://www.scishield.com](https://www.scishield.com)
+ - date_published: 2024-10-18T18:21:11.954770+00:00
+
+ ## ScissorMix 15: Oldish
+ - [http://www.scissorkick.com](http://www.scissorkick.com)
+ - date_published: 2024-10-21T05:28:32.532705+00:00
+
+ ## Free & Premium WordPress Blog themes 2019 by Scissor Themes
+ - [https://scissorthemes.com](https://scissorthemes.com)
+ - date_published: 2024-10-27T22:48:32.657312+00:00
+
+ ## Scissor Themes Support for WordPress Theme and Plugins
+ - [http://support.scissorthemes.com](http://support.scissorthemes.com)
+ - date_published: 2024-10-27T22:48:43.616359+00:00
+
+ ## SciStarter - SciStarter
+ - [https://scistarter.com](https://scistarter.com)
+ - date_published: 2024-05-09T04:11:26.821324+00:00
+
+ ## Use AI To Summarize Scientific Articles - SciSummary
+ - [https://scisummary.com](https://scisummary.com)
+ - date_published: 2024-06-19T21:08:01.585843+00:00
+
+ ## Open Access Journals | Open Access Publications
+ - [http://www.scitcentral.com](http://www.scitcentral.com)
+ - date_published: 2024-10-29T17:33:24.337458+00:00
+
+ ## Science Atlas - in the light of the science! | 2024
+ - [http://scitechc.com](http://scitechc.com)
+ - date_published: 2024-10-29T17:28:49.343627+00:00
+
+ ## SciTechDaily - Science, Space and Technology News 2023
+ - [https://scitechdaily.com](https://scitechdaily.com)
+ - date_published: 2023-10-25T10:11:08.449489+00:00
+
+ ## SciTechnol | International Publisher of Science and Technology
+ - [http://scitechnol.com](http://scitechnol.com)
+ - date_published: 2024-10-29T17:49:08.160890+00:00
+
+ ## Home - Science and Technology Policy Academy
+ - [https://scitechpolicyacademy.com](https://scitechpolicyacademy.com)
+ - date_published: 2024-10-19T04:00:43.162087+00:00
+
+ ## Scitechz
+ - [http://scitechz.com](http://scitechz.com)
+ - date_published: 2024-10-29T17:43:15.317703+00:00
+
+ ## Science and Technology Publishing
+ - [http://www.scitecpub.com](http://www.scitecpub.com)
+ - date_published: 2024-10-29T16:44:38.141510+00:00
+
+ ## Sciter Documentation | Sciter
+ - [https://docs.sciter.com](https://docs.sciter.com)
+ - date_published: 2024-03-03T15:32:45+00:00
+
+ ## Sciter Notes – Take your notes… back home.
+ - [https://notes.sciter.com](https://notes.sciter.com)
+ - date_published: 2024-04-29T02:30:45.890734+00:00
+
+ ## Quark – HTML/CSS/script Application Compiler
+ - [https://quark.sciter.com](https://quark.sciter.com)
+ - date_published: 2024-04-29T02:30:37.098236+00:00
+
+ ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
+ - [https://sciter.com](https://sciter.com)
+ - date_published: 2023-10-25T16:59:18.546109+00:00
+
+ ## SCITEVENTS
+ - [http://www.scitevents.com](http://www.scitevents.com)
+ - date_published: 2024-07-07T10:12:02.382595+00:00
+
+ ## Scitizen,  a collaborative news publishing initiative by scientists, for everyone.
+ - [http://scitizen.com](http://scitizen.com)
+ - date_published: 2024-08-18T20:15:44.324003+00:00
+
+ ## SciURLs – A neat science news aggregator
+ - [https://sciurls.com](https://sciurls.com)
+ - date_published: 2024-04-09T20:07:45.984325+00:00
+ - tags: ['link aggregator', 'science news']
+
+ ## SciVal
+ - [https://scival.com](https://scival.com)
+ - date_published: 2024-06-15T06:31:10.997504+00:00
+
+ ## Sign in -                     Piwik
+ - [https://piwik.scivantage.com](https://piwik.scivantage.com)
+ - date_published: 2024-10-07T20:42:49.741730+00:00
+
+ ## SciVision Open Access Publishers
+ - [http://www.scivisionpub.com](http://www.scivisionpub.com)
+ - date_published: 2024-10-29T17:44:27.413281+00:00
+
+ ## Scivus
+ - [https://scivus.com](https://scivus.com)
+ - date_published: 2023-11-22T07:04:29.079121+00:00
+
+ ## Sciwheel: Discover | Organize | Collaborate - Reference and citation management software
+ - [https://www.sciwheel.com](https://www.sciwheel.com)
+ - date_published: 2024-07-08T14:09:26.486439+00:00
+
+ ## Home
+ - [https://www.scjohnson.com](https://www.scjohnson.com)
+ - date_published: 2024-10-17T07:35:32.056665+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://scjtix.com](https://scjtix.com)
+ - date_published: 2024-07-15T10:45:16.171880+00:00
+
+ ## Scleroderma Manitoba: Support | Education | Research
+ - [https://sclerodermamanitoba.com](https://sclerodermamanitoba.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## SCM - Accelerate your chemistry & materials research
+ - [https://www.scm.com](https://www.scm.com)
+ - date_published: 2024-10-31T06:46:57.250010+00:00
+
+ ## Cybersecurity News, Awards, Webinars, eSummits, Research
+ - [https://pages.scmagazine.com](https://pages.scmagazine.com)
+ - date_published: 2024-04-29T02:31:25.076797+00:00
+
+ ## Cybersecurity News, Awards, Webinars, eSummits, Research
+ - [https://scmagazine.com](https://scmagazine.com)
+ - date_published: 2024-06-29T20:31:44+00:00
+ - tags: ['cybersecurity', 'news']
+
+ ## SC Media UK
+ - [https://insight.scmagazineuk.com](https://insight.scmagazineuk.com)
+ - date_published: 2024-07-13T20:22:51.214815+00:00
+
+ ## South Carolina Media Room
+ - [https://scmediaroom.com](https://scmediaroom.com)
+ - date_published: 2024-06-17T11:17:18+00:00
+
+ ## St. Charles Memorial Gardens |  St Charles, MO Cemetery
+ - [https://www.scmemorialgardens.com](https://www.scmemorialgardens.com)
+ - date_published: 2024-06-19T14:41:22.914801+00:00
+
+ ## Home - Super Conductor Materials
+ - [http://www.scm-inc.com](http://www.scm-inc.com)
+ - date_published: 2024-10-19T03:52:04.675288+00:00
+
+ ## Stevens Capital Management
+ - [https://www.scm-lp.com](https://www.scm-lp.com)
+ - date_published: 2024-03-15T03:00:52+00:00
+
+ ## Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post
+ - [https://amp.scmp.com](https://amp.scmp.com)
+ - date_published: 2024-03-04T10:41:22.801901+00:00
+
+ ## South China Morning Post Graphics
+ - [https://multimedia.scmp.com](https://multimedia.scmp.com)
+ - date_published: 2024-01-15T04:03:12+00:00
+
+ ## Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post
+ - [https://scmp.com](https://scmp.com)
+ - date_published: 2024-04-22T11:29:03+00:00
+ - tags: ['china news']
+
+ ## General Privacy Policy of the 1plusX DMP - 1plusX
+ - [https://tagger.ope.scmp.com](https://tagger.ope.scmp.com)
+ - date_published: 2024-05-09T04:54:13.032804+00:00
+
+ ## News, entertainment and advice for global teens - YP | South China Morning Post
+ - [https://yp.scmp.com](https://yp.scmp.com)
+ - date_published: 2024-06-30T03:57:10.897172+00:00
+
+ ## Soundcloud MP3 - Soundcloud to MP3 Converter & Downloader
+ - [http://scmp3.com](http://scmp3.com)
+ - date_published: 2024-10-26T07:34:12.060665+00:00
+
+ ## SCMR Home
+ - [https://www.scmr.com](https://www.scmr.com)
+ - date_published: 2024-08-06T23:21:59+00:00
+
+ ## Welcome to scmscx.com
+ - [https://scmscx.com](https://scmscx.com)
+ - date_published: 2023-10-25T11:51:08.396681+00:00
+ - tags: ['starcraft', 'video game maps']
+
  ## Obituary Notices |
  - [https://scngobits.com](https://scngobits.com)
  - date_published: 2024-05-01T03:31:00.202177+00:00
@@ -3823,237 +4055,4 @@ Scopus - Welcome to Scopus
  ## BNP Media - BNP Media Contests, Awards, Surveys & Top Lists
  - [https://bnpmedia.secure-platform.com](https://bnpmedia.secure-platform.com)
  - date_published: 2024-08-06T07:58:37.668047+00:00
-
- ## BNP Media - ENR Surveys and Contests
- - [https://enr.secure-platform.com](https://enr.secure-platform.com)
- - date_published: 2024-09-04T19:33:40.005647+00:00
-
- ## Event Marketer - Event Marketer Presents: The 2024 Fab 50
- - [https://fab50.secure-platform.com](https://fab50.secure-platform.com)
- - date_published: 2024-06-29T04:50:06.252132+00:00
-
- ## Event Marketer -
- - [https://hiddengems.secure-platform.com](https://hiddengems.secure-platform.com)
- - date_published: 2024-06-29T04:49:57.824642+00:00
-
- ## Event Marketer -
- - [https://itlist.secure-platform.com](https://itlist.secure-platform.com)
- - date_published: 2024-06-29T04:48:54.054765+00:00
-
- ## BNP Media - The Security Benchmark Survey
- - [https://survey500.secure-platform.com](https://survey500.secure-platform.com)
- - date_published: 2024-04-29T03:01:06.459920+00:00
-
- ## Educational Theatre Association -
- - [https://thespys.secure-platform.com](https://thespys.secure-platform.com)
- - date_published: 2024-07-11T15:12:16.985029+00:00
-
- ## SecureSafe
- - [https://help.securesafe.com](https://help.securesafe.com)
- - date_published: 2024-06-15T07:10:42+00:00
-
- ## SecureSafe – Sichere Cloud für Dokumente und Passwörter
- - [https://securesafe.com](https://securesafe.com)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## SecureStack
- - [https://app.securestack.com](https://app.securestack.com)
- - date_published: 2024-01-10T05:37:08+00:00
-
- ## SecureStack What's your DevSecOps maturity?
- - [https://securestack.com](https://securestack.com)
- - date_published: 2023-08-17T00:00:00+00:00
-
- ## Maintenance
- - [https://secure-superiorchoice.com](https://secure-superiorchoice.com)
- - date_published: 2024-07-10T03:56:32.349281+00:00
-
- ## irmciam_default - Sign In
- - [https://www3.securesync.com](https://www3.securesync.com)
- - date_published: 2024-07-15T09:58:36.822323+00:00
-
- ## Home
- - [https://www.securetrading.com](https://www.securetrading.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Digital Certificates | VikingCloud Digital CA
- - [https://certs.securetrust.com](https://certs.securetrust.com)
- - date_published: 2024-09-20T15:30:54.914158+00:00
-
- ## SecureTrust Portal
- - [https://portal.securetrust.com](https://portal.securetrust.com)
- - date_published: 2024-09-20T15:31:55.848708+00:00
-
- ## Digital Certificates | VikingCloud Digital CA
- - [https://seal.securetrust.com](https://seal.securetrust.com)
- - date_published: 2024-06-16T00:56:42.200692+00:00
-
- ## SecureTrust – the Leader in Security and Compliance Solutions
- - [https://securetrust.com](https://securetrust.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## SecureVideo - Log in
- - [https://luxsci.securevideo.com](https://luxsci.securevideo.com)
- - date_published: 2024-10-31T07:15:45.141601+00:00
-
- ## Login
- - [https://cloud.securew2.com](https://cloud.securew2.com)
- - date_published: 2024-07-27T14:23:39+00:00
-
- ## SecureW2 | Complete Platform for Passwordless Security
- - [https://go.securew2.com](https://go.securew2.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## SecureW2 | Complete Platform for Passwordless Security
- - [https://securew2.com](https://securew2.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Secureworks Brand Portal
- - [https://dam.secureworks.com](https://dam.secureworks.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Secureworks - Investor Relations
- - [https://investors.secureworks.com](https://investors.secureworks.com)
- - date_published: 2024-09-18T15:33:51.343602+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [https://pages.secureworks.com](https://pages.secureworks.com)
- - date_published: 2024-09-18T15:33:47.545749+00:00
-
- ## Waiting for Identity Provider
- - [https://portal.secureworks.com](https://portal.secureworks.com)
- - date_published: 2024-09-18T15:33:42.742427+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [http://secureworks.com](http://secureworks.com)
- - date_published: 2024-06-15T16:06:38.573734+00:00
-
- ## Securing Laravel | Stephen Rees-Carter | Substack
- - [https://securinglaravel.com](https://securinglaravel.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Securing Our Digital Future
- - [https://securingourdigitalfuture.com](https://securingourdigitalfuture.com)
- - date_published: 2024-07-16T20:51:57.701657+00:00
-
- ## Emerging markets research, data and news | EMIS Next
- - [http://www.securities.com](http://www.securities.com)
- - date_published: 2024-07-12T17:34:02+00:00
-
- ## Securities finance news and commentary - Securities Finance Times
- - [https://www.securitiesfinancetimes.com](https://www.securitiesfinancetimes.com)
- - date_published: 2024-09-25T12:23:53.142092+00:00
-
- ## Broadcom Blogs
- - [https://broadcom-software.security.com](https://broadcom-software.security.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Symantec Enterprise Blogs
- - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
- - date_published: 2023-10-25T17:01:22.426033+00:00
-
- ## Security Affairs - Read, think, share … Security is everyone's responsibility
- - [https://securityaffairs.com](https://securityaffairs.com)
- - date_published: 2023-10-25T09:35:33.117030+00:00
- - tags: ['security news']
-
- ## Security and Fire Africa | The leading African Security and Fire news brand
- - [https://securityafricamagazine.com](https://securityafricamagazine.com)
- - date_published: 2024-09-24T22:50:09.130762+00:00
-
- ## Home
- - [https://securityboulevard.com](https://securityboulevard.com)
- - date_published: 2024-04-05T00:00:00+00:00
- - tags: ['tech news']
-
- ## Security Boulevard Chat Podcast | Techstrong Group
- - [https://securityboulevardchats.com](https://securityboulevardchats.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## BSides / FrontPage
- - [http://www.securitybsides.com](http://www.securitybsides.com)
- - date_published: 2024-06-22T11:01:57.296422+00:00
-
- ## Home | The Security Bulldog- AI for cybersecurity, it's about time.
- - [https://securitybulldog.com](https://securitybulldog.com)
- - date_published: 2024-06-19T19:23:55.295058+00:00
-
- ## Security Cameras | IP Cameras | CCTV Video Surveillance Systems
- - [https://securitycameraking.com](https://securitycameraking.com)
- - date_published: 2024-04-08T00:00:00+00:00
- - tags: ['surveillance system']
-
- ## Book - Security Chaos Engineering: Sustaining Resilience in Software and Systems
- - [https://www.securitychaoseng.com](https://www.securitychaoseng.com)
- - date_published: 2023-05-02T01:21:15+00:00
-
- ## Home
- - [https://securitycompass.com](https://securitycompass.com)
- - date_published: 2024-10-31T07:05:44.215026+00:00
-
- ## Home
- - [https://trk.securitycompass.com](https://trk.securitycompass.com)
- - date_published: 2024-10-31T07:05:41.062534+00:00
-
- ## Security Cryptography Whatever
- - [https://merch.securitycryptographywhatever.com](https://merch.securitycryptographywhatever.com)
- - date_published: 2024-07-14T04:47:14.061410+00:00
-
- ## Security Cryptography Whatever
- - [https://securitycryptographywhatever.com](https://securitycryptographywhatever.com)
- - date_published: 2024-05-11T09:25:41.479273+00:00
-
- ## Security Degree Hub - Everything you need to know for a career in Security - Security Degree Hub
- - [https://www.securitydegreehub.com](https://www.securitydegreehub.com)
- - date_published: 2024-06-20T04:02:58.697514+00:00
-
- ## Independent Security Evaluators
- - [https://blog.securityevaluators.com](https://blog.securityevaluators.com)
- - date_published: 2024-06-29T11:14:18.478759+00:00
-
- ## Online and Mobile Security Platform - Security Gladiators
- - [https://securitygladiators.com](https://securitygladiators.com)
- - date_published: 2024-06-21T14:47:32+00:00
-
- ## SecurityGuill
- - [https://securityguill.com](https://securityguill.com)
- - date_published: 2024-05-01T03:55:40.254206+00:00
-
- ## Analyse your HTTP response headers
- - [https://securityheaders.com](https://securityheaders.com)
- - date_published: 2024-05-02T12:14:02.693618+00:00
-
- ## Forums - 
-		
-		SecurityInfoWatch Forums - Discussions for the Security Professional
- - [https://forums.securityinfowatch.com](https://forums.securityinfowatch.com)
- - date_published: 2024-07-16T23:07:43.189098+00:00
-
- ## Home
- - [https://www.securityinfowatch.com](https://www.securityinfowatch.com)
- - date_published: 2024-06-26T23:45:20.518259+00:00
-
- ## Home
- - [https://www.securityinnovation.com](https://www.securityinnovation.com)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## Security Intelligence - Cybersecurity Analysis & Insight
- - [https://securityintelligence.com](https://securityintelligence.com)
- - date_published: 2024-03-03T17:35:06.930018+00:00
-
- ## Security Journal UK | UK Security News Magazine
- - [https://securityjournaluk.com](https://securityjournaluk.com)
- - date_published: 2023-05-23T09:43:16+00:00
-
- ## Secure Coding Training | Security Journey
- - [https://www.securityjourney.com](https://www.securityjourney.com)
- - date_published: 2024-07-09T02:36:48+00:00
-
- ## The Security Ledger with Paul F. Roberts
- - [https://securityledger.com](https://securityledger.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## BlueConic: Log In
- - [https://bc.securitymagazine.com](https://bc.securitymagazine.com)
- - date_published: 2024-08-19T06:06:52.660644+00:00
 

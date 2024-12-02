@@ -1,3 +1,7 @@
+ ## Send Files To Tv - Android application for Smart TV
+ - [https://sendfilestotv.app](https://sendfilestotv.app)
+ - date_published: 2024-03-11T14:59:01+00:00
+
  ## Sequels - SQL Notebook for macOS
  - [https://sequels.app](https://sequels.app)
  - date_published: 2024-08-11T17:24:41.099190+00:00
@@ -4015,8 +4019,4 @@
  ## ZEUS: Bitcoin payments your way
  - [https://zeusln.app](https://zeusln.app)
  - date_published: 2024-05-06T02:23:00+00:00
-
- ## Zimly - Opensource S3 Backup for Android
- - [https://zimly.app](https://zimly.app)
- - date_published: 2024-09-02T09:55:48.696642+00:00
 

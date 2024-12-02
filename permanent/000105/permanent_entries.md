@@ -1,3 +1,52 @@
+ ## Foreign Policy – the Global Magazine of News and Ideas
+ - [https://foreignpolicy.com](https://foreignpolicy.com)
+ - date_published: 2023-10-25T15:10:25.310637+00:00
+ - tags: ['politics news']
+
+ ## FP Analytics - FP Analytics
+ - [https://fpanalytics.foreignpolicy.com](https://fpanalytics.foreignpolicy.com)
+ - date_published: 2024-05-12T07:00:56.916622+00:00
+
+ ## Welcome to the FP Education Guides - Foreign Policy Guide
+ - [https://fpguide.foreignpolicy.com](https://fpguide.foreignpolicy.com)
+ - date_published: 2024-05-12T07:01:02.103168+00:00
+
+ ## The COVID-19 Global Response Index
+ - [https://globalresponseindex.foreignpolicy.com](https://globalresponseindex.foreignpolicy.com)
+ - date_published: 2024-07-16T20:51:52.252777+00:00
+
+ ## Foreign Policy
+ - [https://help.foreignpolicy.com](https://help.foreignpolicy.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Marc Lynch - Foreign Policy
+ - [http://lynch.foreignpolicy.com](http://lynch.foreignpolicy.com)
+ - date_published: 2024-09-10T08:45:22.448826+00:00
+
+ ## PeaceGame - Foreign Policy
+ - [http://peace-game.foreignpolicy.com](http://peace-game.foreignpolicy.com)
+ - date_published: 2024-07-16T20:52:49.834323+00:00
+
+ ## PeaceGame - Foreign Policy
+ - [https://peacegame.foreignpolicy.com](https://peacegame.foreignpolicy.com)
+ - date_published: 2024-05-12T07:01:17.786887+00:00
+
+ ## Best Defense – Foreign Policy
+ - [https://ricks.foreignpolicy.com](https://ricks.foreignpolicy.com)
+ - date_published: 2024-05-06T20:50:28.223129+00:00
+
+ ## FP Solutions
+ - [https://solutions.foreignpolicy.com](https://solutions.foreignpolicy.com)
+ - date_published: 2024-05-12T07:01:10.026448+00:00
+
+ ## Foreign Policy
+ - [https://sponsored.foreignpolicy.com](https://sponsored.foreignpolicy.com)
+ - date_published: 2024-05-12T07:00:43.176004+00:00
+
+ ## Introduction 👋 | Forem Docs
+ - [https://developers.forem.com](https://developers.forem.com)
+ - date_published: 2024-05-09T08:45:20.417216+00:00
+
  ## When it matters, say it on Forem — Forem
  - [https://forem.com](https://forem.com)
  - date_published: 2023-10-25T08:32:55.266940+00:00
@@ -3974,54 +4023,4 @@
  ## Home Page - FrankSpeech
  - [https://frankspeech.com](https://frankspeech.com)
  - date_published: 2023-10-25T14:37:21.205761+00:00
-
- ## Frank’s Family Pizzeria – Wyandotte, Michigan
- - [https://frankspizza1952.com](https://frankspizza1952.com)
- - date_published: 2024-07-09T19:33:13.883663+00:00
-
- ## Frank Stallone Guitars
- - [https://frankstalloneguitars.com](https://frankstalloneguitars.com)
- - date_published: 2024-08-11T06:20:12.190397+00:00
-
- ## Document
- - [http://frankston.com](http://frankston.com)
- - date_published: 2024-05-22T00:00:00+00:00
- - tags: ['personal']
-
- ## Franktuary
- - [http://www.franktuary.com](http://www.franktuary.com)
- - date_published: 2023-02-06T00:00:00+00:00
-
- ## Frankwatching
- - [https://www.frankwatching.com](https://www.frankwatching.com)
- - date_published: 2024-07-09T19:00:16.077193+00:00
-
- ## Franky's Notes
- - [https://www.frankysnotes.com](https://www.frankysnotes.com)
- - date_published: 2024-07-02T21:45:02+00:00
-
- ## Hey there, I’m Frank 👋
- - [https://frankzliu.com](https://frankzliu.com)
- - date_published: 2023-12-29T00:00:00+00:00
-
- ## FRANMAC – Taco Bell Franchise Management Advisory Council
- - [https://www.franmac.com](https://www.franmac.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Fran Monks
- - [https://franmonks.com](https://franmonks.com)
- - date_published: 2024-05-06T18:31:11.675788+00:00
- - tags: ['personal', 'photography']
-
- ## Fran Rios
- - [https://franrios.com](https://franrios.com)
- - date_published: 2024-07-09T19:11:17.890215+00:00
-
- ## Redirecting to frantic.software
- - [https://www.frantic-software.com](https://www.frantic-software.com)
- - date_published: 2024-07-18T23:14:11.187361+00:00
-
- ## Out Of The Comfort Zone
- - [https://outofthecomfortzone.frantzmiccoli.com](https://outofthecomfortzone.frantzmiccoli.com)
- - date_published: 2024-05-10T00:00:00+00:00
 

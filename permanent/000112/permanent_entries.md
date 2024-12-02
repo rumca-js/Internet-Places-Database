@@ -1,3 +1,52 @@
+ ## GOOD Worldwide - Upworthy - Advertising
+ - [https://goodinc.com](https://goodinc.com)
+ - date_published: 2024-05-06T15:10:59.086749+00:00
+
+ ## Good Job, Brain! Trivia Podcast
+ - [https://www.goodjobbrain.com](https://www.goodjobbrain.com)
+ - date_published: 2024-07-10T02:19:09.326504+00:00
+
+ ## See the future sooner with Superforecasting | Good Judgment
+ - [https://goodjudgment.com](https://goodjudgment.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+ - tags: ['superforcasting', 'risk management']
+
+ ## Home - Good Karma Brands: Sports Media & Marketing Experts
+ - [https://goodkarmabrands.com](https://goodkarmabrands.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## GoodLayers | Theme: grindelwald
+ - [https://demo.goodlayers.com](https://demo.goodlayers.com)
+ - date_published: 2024-06-17T15:01:55.554001+00:00
+
+ ## Denis Lynn Foundation - Finnebrogue
+ - [http://goodlittlecompany.com](http://goodlittlecompany.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Good looks like this — Dug Falby's work blog. Good looks like this.
+ - [https://goodlookslikethis.com](https://goodlookslikethis.com)
+ - date_published: 2024-05-09T07:50:28.536247+00:00
+
+ ## goodlookup
+ - [https://www.goodlookup.com](https://www.goodlookup.com)
+ - date_published: 2024-06-19T19:50:10.799062+00:00
+
+ ## Good-Loop
+ - [https://good-loop.com](https://good-loop.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Best Gambling Sites in 2024 - Your Luck is HERE
+ - [https://goodluckmate.com](https://goodluckmate.com)
+ - date_published: 2024-07-17T04:24:12.691012+00:00
+
+ ## Home
+ - [https://www.goodmanfinancial.com](https://www.goodmanfinancial.com)
+ - date_published: 2016-02-02T00:00:00+00:00
+
+ ## Goodman Games|Your Source for Adventures
+ - [https://goodman-games.com](https://goodman-games.com)
+ - date_published: 2024-03-27T21:48:44+00:00
+
  ## Goodman, Hurwitz & James |
  - [https://goodmanhurwitz.com](https://goodmanhurwitz.com)
  - date_published: 2024-07-07T04:56:39.106875+00:00
@@ -495,7 +544,7 @@
  ## Google Drive: Share Files Online with Secure Cloud Storage | Google Workspace
  - [https://drive.google.com](https://drive.google.com)
  - date_published: 2023-10-25T08:25:55.109146+00:00
- - tags: ['gatekeeper', 'file hosting']
+ - tags: ['gateway', 'file hosting', 'gatekeeper']
 
  ## Google Meet
  - [https://duo.google.com](https://duo.google.com)
@@ -578,7 +627,7 @@
  ## Google
  - [https://google.com](https://google.com)
  - date_published: 1998-11-26T05:06:13+00:00
- - tags: ['gatekeeper', 'search engine']
+ - tags: ['gateway', 'search engine', 'gatekeeper']
 
  ## Sign in - Google Accounts
  - [http://goto.google.com](http://goto.google.com)
@@ -680,7 +729,7 @@
  ## Google Maps
  - [https://maps.google.com](https://maps.google.com)
  - date_published: 2023-10-25T08:24:45+00:00
- - tags: ['service maps', 'map', 'gatekeeper']
+ - tags: ['gateway', 'service maps', 'map', 'gatekeeper']
 
  ## Google Maps Platform - Location and Mapping Solutions
  - [https://mapsplatform.google.com](https://mapsplatform.google.com)
@@ -792,7 +841,7 @@
  ## Android Apps on Google Play
  - [https://play.google.com](https://play.google.com)
  - date_published: 2023-10-24T20:11:54.898633+00:00
- - tags: ['app store', 'game store', 'gatekeeper']
+ - tags: ['gateway', 'game store', 'app store', 'gatekeeper']
 
  ## New community features for Google Chat and an update on Currents
  - [https://plus.google.com](https://plus.google.com)
@@ -4005,52 +4054,4 @@
  ## Grakar Grekar Grukor?
  - [http://www.grakar.com](http://www.grakar.com)
  - date_published: 2024-11-16T21:29:56.987970+00:00
-
- ## gram.com is for sale | www.brandforce.com
- - [https://gram.com](https://gram.com)
- - date_published: 2024-05-12T04:24:46.046645+00:00
-
- ## Toko Buku Online Terbesar | Gramedia Digital
- - [https://ebooks.gramedia.com](https://ebooks.gramedia.com)
- - date_published: 2024-10-14T22:58:40.455938+00:00
-
- ## Gramedia.com
- - [https://www.gramedia.com](https://www.gramedia.com)
- - date_published: 2024-10-14T22:59:25.430692+00:00
-
- ## Gramener Blog
- - [https://blog.gramener.com](https://blog.gramener.com)
- - date_published: 2024-10-30T21:15:27.191567+00:00
-
- ## Gramener: A Data Science, Engineering and AI Company
- - [https://gramener.com](https://gramener.com)
- - date_published: 2020-06-15T09:13:07+00:00
-
- ## Gramercy Tavern | New York
- - [https://www.gramercytavern.com](https://www.gramercytavern.com)
- - date_published: 2024-07-15T07:36:50.684699+00:00
-
- ## Instagram Photo Feed
- - [http://www.gramfeed.com](http://www.gramfeed.com)
- - date_published: 2024-06-17T18:17:25.814122+00:00
-
- ## 🚀 Boost Your Social Influence with Graming
- - [https://graming.com](https://graming.com)
- - date_published: 2023-09-24T16:23:25+00:00
-
- ## GrammarIn: Best AI Assistant for All Your Writing Tasks
- - [https://www.grammarin.com](https://www.grammarin.com)
- - date_published: 2024-10-29T13:48:42+00:00
-
- ## Home
- - [https://grammarist.com](https://grammarist.com)
- - date_published: 2023-02-10T22:17:18+00:00
-
- ## Punctuation Checker – Free Grammar And Punctuation Check!
- - [https://www.grammarlookup.com](https://www.grammarlookup.com)
- - date_published: 2024-10-30T08:05:26+00:00
-
- ## Login | Grammarly
- - [https://account.grammarly.com](https://account.grammarly.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

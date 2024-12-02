@@ -1,3 +1,84 @@
+ ## Prompt Fiddle
+ - [https://promptfiddle.com](https://promptfiddle.com)
+ - date_published: 2024-06-27T02:29:49.664522+00:00
+
+ ## PromptFolder: AI Prompt Manager for ChatGPT, Midjourney & More
+ - [https://promptfolder.com](https://promptfolder.com)
+ - date_published: 2024-10-30T23:20:36.736366+00:00
+
+ ## Prompt Genie | Grammarly But for Prompts
+ - [https://prompt-genie.com](https://prompt-genie.com)
+ - date_published: 2024-10-30T09:57:28.934376+00:00
+
+ ## PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney
+ - [https://prompthero.com](https://prompthero.com)
+ - date_published: 2024-06-19T20:08:21.046923+00:00
+
+ ## Prompt Hunt - Your home for exploring, creating, and sharing AI art
+ - [https://www.prompthunt.com](https://www.prompthunt.com)
+ - date_published: 2024-06-19T21:14:31.886150+00:00
+
+ ## Knit - A better playground for prompt designers
+ - [https://promptknit.com](https://promptknit.com)
+ - date_published: 2023-10-25T16:41:15.595812+00:00
+
+ ## PromptLayer
+ - [https://blog.promptlayer.com](https://blog.promptlayer.com)
+ - date_published: 2024-04-05T18:24:28.382746+00:00
+
+ ## PromptLayer - The first platform built for prompt engineers
+ - [https://promptlayer.com](https://promptlayer.com)
+ - date_published: 2023-10-25T16:41:16.300230+00:00
+ - tags: ['llm', 'prompt engineering']
+
+ ## PromptLoop | AI models powering Market Research in Excel and Sheets
+ - [https://www.promptloop.com](https://www.promptloop.com)
+ - date_published: 2024-06-19T21:29:24.906091+00:00
+
+ ## Promptmakr: Buy and Sell AI prompts
+ - [https://promptmakr.com](https://promptmakr.com)
+ - date_published: 2024-03-21T18:23:54+00:00
+
+ ## Ignite Your Imagination: Monthly AI Prompts for Creatives
+ - [https://promptmonthly.com](https://promptmonthly.com)
+ - date_published: 2024-05-06T06:38:37.194469+00:00
+
+ ## promptoMANIA: AI art community with prompt generator
+ - [https://promptomania.com](https://promptomania.com)
+ - date_published: 2023-07-04T08:25:11+00:00
+
+ ## Prompt Reducer - Cut Down GPT-4 Token Costs
+ - [https://promptreducer.com](https://promptreducer.com)
+ - date_published: 2024-05-07T09:35:24.813641+00:00
+
+ ## PromptSalsa: Prompt Guides and Prompt Generators for ChatGPT, Midjourney and other AI tools
+ - [https://promptsalsa.com](https://promptsalsa.com)
+ - date_published: 2024-06-19T20:59:02.957389+00:00
+
+ ## Prompts Ninja - ChatGPT Prompt Tutorial and AI Prompt Guide
+ - [https://promptsninja.com](https://promptsninja.com)
+ - date_published: 2024-09-09T13:43:21+00:00
+
+ ## Promptstacks
+ - [https://www.promptstacks.com](https://www.promptstacks.com)
+ - date_published: 2023-06-11T20:48:16+00:00
+
+ ## PromptVibes- ChatGPT Prompt Generator
+ - [https://promptvibes.com](https://promptvibes.com)
+ - date_published: 2024-10-30T12:10:48.485923+00:00
+
+ ## PromptWink - Prompt Marketplace for AI Models: Midjourney, ChatGPT, DALL-E, Stable Diffusion and more.
+ - [https://www.promptwink.com](https://www.promptwink.com)
+ - date_published: 2024-06-23T11:42:16.540126+00:00
+
+ ## PROMT Translation Software and Dictionaries
+ - [https://www.promt.com](https://www.promt.com)
+ - date_published: 2011-01-12T15:04:36+00:00
+
+ ## Promus Ventures
+ - [http://www.promusventures.com](http://www.promusventures.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Pronauns - Learn English pronunciation
  - [https://www.pronauns.com](https://www.pronauns.com)
  - date_published: 2024-07-23T21:46:15.768839+00:00
@@ -3937,85 +4018,4 @@
  ## CUPANGJP: Agen Game Online Terbaik dan Terlengkap di Asia
  - [https://rtp4.pumaelektrik.com](https://rtp4.pumaelektrik.com)
  - date_published: 2024-06-01T20:19:39+00:00
-
- ## CUPANGJP: Agen Game Online Terbaik dan Terlengkap di Asia
- - [https://rtp7.pumaelektrik.com](https://rtp7.pumaelektrik.com)
- - date_published: 2024-06-01T20:19:39+00:00
-
- ## Exclusive PUMA Collections - Enhance Your Home Lifestyle
- - [https://pumafloripa.com](https://pumafloripa.com)
- - date_published: 2023-12-01T11:08:43+00:00
-
- ## pumaparty.com
- - [http://pumaparty.com](http://pumaparty.com)
- - date_published: 2024-06-27T10:22:14.336544+00:00
-
- ## Dedicated to the Liquid Waste Industry | Pumper
- - [https://pumper.com](https://pumper.com)
- - date_published: 2024-06-26T23:18:57.323627+00:00
-
- ## New & used septic trucks for sale | Pumper Trader
- - [https://pumpertrader.com](https://pumpertrader.com)
- - date_published: 2024-06-26T23:18:24.656408+00:00
-
- ## Pumpkin Beth
- - [https://pumpkinbeth.com](https://pumpkinbeth.com)
- - date_published: 2024-10-31T06:06:59.251886+00:00
-
- ## Home - Pumpkins After Dark - Calgary
- - [https://calgary.pumpkinsafterdark.com](https://calgary.pumpkinsafterdark.com)
- - date_published: 2024-10-17T18:19:37.616344+00:00
-
- ## Punch & Brodie
- - [http://punchandbrodie.com](http://punchandbrodie.com)
- - date_published: 2024-08-18T21:47:23.121481+00:00
-
- ## stoQ - Automation. Simplified.
- - [http://stoq.punchcyber.com](http://stoq.punchcyber.com)
- - date_published: 2022-06-27T19:44:52+00:00
-
- ## PUNCH Home - PUNCH
- - [https://punchdrink.com](https://punchdrink.com)
- - date_published: 2024-05-01T08:12:34.780106+00:00
-
- ## Punching Robots 2084
- - [https://punchingrobots.com](https://punchingrobots.com)
- - date_published: 2024-07-10T07:05:41.652874+00:00
- - tags: ['personal']
-
- ## Attention Required! | Cloudflare
- - [https://www.punchline.com](https://www.punchline.com)
- - date_published: 2024-08-11T06:51:56.612572+00:00
-
- ## Make 'em laugh and you've got 'em for life.
- - [https://punchlinecopy.com](https://punchlinecopy.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Homepage New - Healthwise
- - [https://healthwise.punchng.com](https://healthwise.punchng.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Punch newspapers - Breaking News, Nigerian News & Top Stories
- - [https://punchng.com](https://punchng.com)
- - date_published: 2023-10-25T10:15:32.859277+00:00
-
- ## Punctuation Matters – Punctuation: Important for academic and published writing. Not a bad idea if you just want to be understood.
- - [https://punctuationmatters.com](https://punctuationmatters.com)
- - date_published: 2023-10-25T16:42:20.055212+00:00
-
- ## punctum books – An independent, open-access para-academic publisher
- - [https://punctumbooks.com](https://punctumbooks.com)
- - date_published: 2024-07-01T15:25:37.482370+00:00
-
- ## Pune Business Directory, Indian Manufacturers, Suppliers
- - [https://www.punebusinessdirectory.com](https://www.punebusinessdirectory.com)
- - date_published: 2024-10-15T21:04:38.562885+00:00
-
- ## Punjabi Language,پنجابی,ਪੰਜਾਬੀ, पंजाबी,shahmukhi, Gurmukhi,Eastern Punjabi, Western Punjabi
- - [http://punjabiandpunjab.com](http://punjabiandpunjab.com)
- - date_published: 2024-09-18T03:42:25.004299+00:00
-
- ## Punjabi Tribune Online - ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ Daily Punjabi News Paper.
- - [https://epaper.punjabitribuneonline.com](https://epaper.punjabitribuneonline.com)
- - date_published: 2024-05-09T00:00:00+00:00
 

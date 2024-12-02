@@ -1,3 +1,11 @@
+ ## l33t.codes
+ - [https://l33t.codes](https://l33t.codes)
+ - date_published: 2024-02-03T20:08:33+00:00
+
+ ## Lea Rosema
+ - [https://lea.codes](https://lea.codes)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## Home
  - [https://lyndon.codes](https://lyndon.codes)
  - date_published: 2024-03-06T18:40:07+00:00
@@ -4040,12 +4048,4 @@ syndication,XML,RDF,news ...
  ## Alumni Management Platform Boosts Alumni Engagement - 360Alumni
  - [https://360alumni.com](https://360alumni.com)
  - date_published: 2024-09-03T00:00:00+00:00
-
- ## Cal Alumni Association UC Berkeley Community
- - [https://berkeley.360alumni.com](https://berkeley.360alumni.com)
- - date_published: 2024-06-07T01:12:33.165319+00:00
-
- ## 360 DEGRÉS - Restaurant Pizzeria à Bergerac
- - [https://360bergerac.com](https://360bergerac.com)
- - date_published: 2024-07-10T09:19:47.436349+00:00
 

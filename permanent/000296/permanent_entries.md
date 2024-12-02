@@ -1,3 +1,283 @@
+ ## Women's Fashion Clothing & Dresses
+ - [https://www.prettylittlething.ie](https://www.prettylittlething.ie)
+ - date_published: 2024-10-20T14:11:25.524489+00:00
+
+ ## White Metal Casting | Toy Soldier Miniatures | Themed Chess Sets
+ - [http://shop.princeaugust.ie](http://shop.princeaugust.ie)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Publicjobs.ie | Ireland's Premier Public Sector Recruitment Website
+ - [http://www.publicjobs.ie](http://www.publicjobs.ie)
+ - date_published: 2024-06-20T21:31:51+00:00
+
+ ## Publisher Plus - The multi-channel enterprise publishing platform
+ - [https://www.publisherplus.ie](https://www.publisherplus.ie)
+ - date_published: 2024-05-10T05:29:27.646147+00:00
+
+ ## Pure Cork - Official Tourism Website for Cork, Ireland
+ - [https://purecork.ie](https://purecork.ie)
+ - date_published: 2024-06-20T21:30:49.943429+00:00
+
+ ## Python Ireland
+ - [https://python.ie](https://python.ie)
+ - date_published: 2024-05-07T23:45:19.854957+00:00
+
+ ## Quality and Qualifications Ireland
+ - [https://www.qqi.ie](https://www.qqi.ie)
+ - date_published: 2024-10-29T16:31:43.986277+00:00
+
+ ## events.radio.ie - Dublin Events
+ - [https://events.radio.ie](https://events.radio.ie)
+ - date_published: 2024-09-13T19:33:19.886517+00:00
+
+ ## M1 Podcast
+ - [https://m1.radio.ie](https://m1.radio.ie)
+ - date_published: 2024-09-13T19:33:26.679296+00:00
+
+ ## radio.ie – archives 🔴 podcasting 🔴 radio 🔴 consulting
+ - [https://radio.ie](https://radio.ie)
+ - date_published: 2024-02-21T01:22:48+00:00
+
+ ## Radio Days Ireland
+ - [http://radiodaysireland.ie](http://radiodaysireland.ie)
+ - date_published: 2024-09-13T19:31:01.402105+00:00
+
+ ## Ralph Lauren® IE | Summer Sale Up To 50% Off
+ - [https://www.ralphlauren.ie](https://www.ralphlauren.ie)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Two Chevrons Apart - Johnathan Randall
+ - [https://randall.ie](https://randall.ie)
+ - date_published: 2024-06-12T12:50:13.786987+00:00
+
+ ## RCSI Dublin – Homepage
+ - [http://www.rcsi.ie](http://www.rcsi.ie)
+ - date_published: 2024-10-20T04:18:55.694151+00:00
+
+ ## Home | Reach Packaging
+ - [https://www.reach-delpac.ie](https://www.reach-delpac.ie)
+ - date_published: 2024-08-19T03:23:41.018966+00:00
+
+ ## Solutions Suited to You - Renault Business
+ - [https://business.renault.ie](https://business.renault.ie)
+ - date_published: 2024-09-13T15:11:39+00:00
+
+ ## Cars & Vans, Electric & Hybrid - Renault
+ - [https://renault.ie](https://renault.ie)
+ - date_published: 2024-06-12T20:52:32.661438+00:00
+
+ ## Renault renew | Pre-owned cars with certification | Renault IRLEAND
+ - [https://selection.renault.ie](https://selection.renault.ie)
+ - date_published: 2024-09-13T16:54:09.105731+00:00
+
+ ## Driving Innovation & Research Funding - Research Ireland
+ - [https://researchireland.ie](https://researchireland.ie)
+ - date_published: 2024-10-20T04:19:26.663271+00:00
+
+ ## Retail Excellence - The Voice of Irish Retail
+ - [https://retailexcellence.ie](https://retailexcellence.ie)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Richer Sounds IE
+ - [https://www.richersounds.ie](https://www.richersounds.ie)
+ - date_published: 2024-10-21T01:59:35.281601+00:00
+
+ ## RingCentral: The Leader in Trusted AI Communications | IE
+ - [https://www.ringcentral.ie](https://www.ringcentral.ie)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## RIP.ie - most recent death notices | rip.ie
+ - [https://rip.ie](https://rip.ie)
+ - date_published: 2024-07-13T19:33:15+00:00
+
+ ## Rogie King — Multidisciplinary Artist, Designer and Programmer
+ - [https://rog.ie](https://rog.ie)
+ - date_published: 2024-03-27T18:16:04+00:00
+
+ ## Homepage – About RTÉ
+ - [https://about.rte.ie](https://about.rte.ie)
+ - date_published: 2024-08-18T13:38:45.850736+00:00
+
+ ## RTÉ Ireland's National Television and Radio Broadcaster
+ - [https://rte.ie](https://rte.ie)
+ - date_published: 2023-11-13T11:39:36.280341+00:00
+
+ ## Rufus - The Official Website (Download, New Releases)
+ - [https://rufus.ie](https://rufus.ie)
+ - date_published: 2024-05-11T11:40:33.799668+00:00
+ - tags: ['operating systems', 'bootable drives']
+
+ ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
+ - [http://explore.satosh.ie](http://explore.satosh.ie)
+ - date_published: 2024-09-24T03:30:03.576345+00:00
+
+ ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
+ - [http://explore-testnet.satosh.ie](http://explore-testnet.satosh.ie)
+ - date_published: 2024-09-23T17:52:28.110724+00:00
+
+ ## SATOSH.IE - Web3 Crypto Raffles
+ - [https://satosh.ie](https://satosh.ie)
+ - date_published: 2024-09-24T06:36:41.632485+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://ga.scientology.ie](https://ga.scientology.ie)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.ie](https://scientology.ie)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ - [https://www.scratch.ie](https://www.scratch.ie)
+ - date_published: 2024-07-02T10:35:50+00:00
+
+ ## Home
+ - [https://sfi.ie](https://sfi.ie)
+ - date_published: 2024-10-20T04:19:23.361171+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.ie](https://www.sgs.ie)
+ - date_published: 2024-09-10T12:51:01.143475+00:00
+
+ ## Ring the Bells of Shandon at St. Anne's Church, See spectacular 360° views of Cork, View the internal workings of the 18th Century clock, 'The Four Faced Liar', and see our 18th century Bells
+ - [http://www.shandonbells.ie](http://www.shandonbells.ie)
+ - date_published: 2024-06-20T21:30:14.560789+00:00
+
+ ## The Acronym Server: find and submit acronyms and meanings
+ - [http://acronyms.silmaril.ie](http://acronyms.silmaril.ie)
+ - date_published: 2024-06-28T19:30:01+00:00
+
+ ## Singular Artists
+ - [https://singularartists.ie](https://singularartists.ie)
+ - date_published: 2024-06-28T08:38:57.808054+00:00
+
+ ## Car hire Ireland - Europe & Worldwide | Sixt rent a car
+ - [https://sixt.ie](https://sixt.ie)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Find out all about Sky Media, the advertising sales arm of Sky.
+ - [https://www.skymedia.ie](https://www.skymedia.ie)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Compare Cheap Flights & Book Plane Tickets to Everywhere | Skyscanner
+ - [https://www.skyscanner.ie](https://www.skyscanner.ie)
+ - date_published: 2024-07-10T03:24:06.860196+00:00
+
+ ## smooth-ie
+ - [https://smooth.ie](https://smooth.ie)
+ - date_published: 2024-07-04T12:33:25.994907+00:00
+
+ ## Sony Ireland | Latest Technology News | Electronics | Entertainment
+ - [http://www.sony.ie](http://www.sony.ie)
+ - date_published: 2024-10-21T07:37:47.476601+00:00
+
+ ## Homepage | Sony Pictures Ireland
+ - [https://www.sonypictures.ie](https://www.sonypictures.ie)
+ - date_published: 2024-07-27T17:27:41.184777+00:00
+
+ ## Sordan - Cheap Online Electronics Store & Retro Amiga Shop
+ - [https://sordan.ie](https://sordan.ie)
+ - date_published: 2024-05-07T10:27:18.618182+00:00
+
+ ## Southern Regional Assembly
+ - [http://southernassembly.ie](http://southernassembly.ie)
+ - date_published: 2024-07-08T17:44:58+00:00
+
+ ## Spéire | High Quality Digital Agency | Cork & Kerry
+ - [https://speire.ie](https://speire.ie)
+ - date_published: 2024-07-04T12:29:33.346737+00:00
+
+ ## Website Design & Development - Splash - Kerry - Ireland
+ - [https://splash.ie](https://splash.ie)
+ - date_published: 2023-09-22T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.sportsjoe.ie](https://www.sportsjoe.ie)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.ie](https://my.spreadshirt.ie)
+ - date_published: 2024-10-21T09:06:47.250391+00:00
+
+ ## T-Shirt Printing. Personalised T-Shirts & Hoodies | Spreadshirt
+ - [https://spreadshirt.ie](https://spreadshirt.ie)
+ - date_published: 2024-10-21T09:06:46.647178+00:00
+
+ ## Home
+ - [http://spunout.ie](http://spunout.ie)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Staffroom.ie - Advertising Teaching Jobs in Ireland
+ - [https://staffroom.ie](https://staffroom.ie)
+ - date_published: 2024-05-02T10:35:24.831794+00:00
+
+ ## St. Andrew's Presbyterian Church Blackrock
+ - [https://standrewschurchblackrock.ie](https://standrewschurchblackrock.ie)
+ - date_published: 2024-07-13T19:34:52.768464+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.ie](https://www.statkraft.ie)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## The Steam Museum, Straffan & Lodge Park Walled Garden
+ - [http://steam-museum.ie](http://steam-museum.ie)
+ - date_published: 2022-03-27T17:44:43+00:00
+
+ ## Saint Patrick’s Cathedral Dublin, Ireland
+ - [https://stpatrickscathedral.ie](https://stpatrickscathedral.ie)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home - St Peter's Cork
+ - [https://stpeterscork.ie](https://stpeterscork.ie)
+ - date_published: 2024-06-20T21:30:29.759980+00:00
+
+ ## A lovely lunch with your neighbours - 25th|26th May 2024
+ - [http://www.streetfeast.ie](http://www.streetfeast.ie)
+ - date_published: 2024-07-06T14:43:49+00:00
+
+ ## Homepage - Studies: An Irish Quarterly Review
+ - [http://www.studiesirishreview.ie](http://www.studiesirishreview.ie)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Superprof - The Platform for Private Tutors
+ - [https://superprof.ie](https://superprof.ie)
+ - date_published: 2024-06-15T01:27:41.534108+00:00
+
+ ## Swan River Press | Dedicated to the literature of the fantastic
+ - [https://swanriverpress.ie](https://swanriverpress.ie)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - Sweet Heart Shop- Co. Cork
+ - [https://sweetheartshop.ie](https://sweetheartshop.ie)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Compare Ireland's Best Energy, Broadband & Mobile Deals
+ - [https://switcher.ie](https://switcher.ie)
+ - date_published: 2024-08-19T03:23:29.310862+00:00
+
+ ## REBEL LIVE NOW
+ - [http://www.swp.ie](http://www.swp.ie)
+ - date_published: 2024-10-21T16:52:40.992061+00:00
+
+ ## iTunes U - Trinity College Dublin
+ - [https://itunes.tcd.ie](https://itunes.tcd.ie)
+ - date_published: 2024-07-24T05:53:50.958927+00:00
+
+ ## School of Computer Science and Statistics: Publications - Trinity College Dublin
+ - [https://publications.scss.tcd.ie](https://publications.scss.tcd.ie)
+ - date_published: 2024-07-24T05:53:56.726300+00:00
+
+ ## SCSS - School of Computer Science and Statistics | Trinity College Dublin
+ - [https://scss.tcd.ie](https://scss.tcd.ie)
+ - date_published: 2024-04-29T06:29:53.908511+00:00
+
+ ## School of Computer Science and Statistics: Seminars - Trinity College Dublin
+ - [https://seminars.scss.tcd.ie](https://seminars.scss.tcd.ie)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Trinity College Dublin
+ - [https://tcd.ie](https://tcd.ie)
+ - date_published: 2023-10-27T11:57:09.533071+00:00
+
  ## Teaching and Learning – School of Computer Science and Statistics
  - [https://teaching.scss.tcd.ie](https://teaching.scss.tcd.ie)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3730,286 +4010,4 @@
  ## IIM Raipur – (Indian Institute of Management Raipur)
  - [http://www.iimraipur.ac.in](http://www.iimraipur.ac.in)
  - date_published: 2024-09-11T07:33:55+00:00
-
- ## IIM Rohtak | Indian Institute of Management Rohtak
- - [http://www.iimrohtak.ac.in](http://www.iimrohtak.ac.in)
- - date_published: 2024-09-11T17:50:09.750678+00:00
-
- ## Home - Indian Institute Of Management Sambalpur
- - [https://iimsambalpur.ac.in](https://iimsambalpur.ac.in)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## | IIM Tiruchirappalli
- - [http://www.iimtrichy.ac.in](http://www.iimtrichy.ac.in)
- - date_published: 2024-09-11T17:45:14.087047+00:00
-
- ## Indian Institute of Management Udaipur
- - [http://www.iimu.ac.in](http://www.iimu.ac.in)
- - date_published: 2024-09-11T18:06:27.401619+00:00
-
- ## :: IIMV - Indian Institute of Management Visakhapatnam ::
- - [http://iimv.ac.in](http://iimv.ac.in)
- - date_published: 2024-09-11T17:57:44.504474+00:00
-
- ## Home:
-Department of Computational and Data Sciences-
-Indian Institute of Science, Bangalore
- - [http://cds.iisc.ac.in](http://cds.iisc.ac.in)
- - date_published: 2024-09-13T18:14:39.860530+00:00
-
- ## GATE 2024 | GRADUATE APTITUDE TEST IN ENGINEERING 2024
- - [https://gate2024.iisc.ac.in](https://gate2024.iisc.ac.in)
- - date_published: 2024-06-22T11:40:58.110921+00:00
-
- ## IISER Bhopal | Home
- - [https://www.iiserb.ac.in](https://www.iiserb.ac.in)
- - date_published: 2024-09-11T17:51:51.619223+00:00
-
- ## IISER Kolkata - Home
- - [http://www.iiserkol.ac.in](http://www.iiserkol.ac.in)
- - date_published: 2024-09-11T17:49:55+00:00
-
- ## Home - IISER Mohali
- - [http://www.iisermohali.ac.in](http://www.iisermohali.ac.in)
- - date_published: 2024-09-11T17:59:14+00:00
-
- ## Welcome | IISER Thiruvananthapuram,   MoE, Govt. of India
- - [http://iisertvm.ac.in](http://iisertvm.ac.in)
- - date_published: 2024-09-11T18:06:23.051419+00:00
-
- ## Department of Aerospace Engineering
- - [http://www.aero.iitb.ac.in](http://www.aero.iitb.ac.in)
- - date_published: 2024-07-13T03:07:32.603854+00:00
-
- ## Department of Computer Science and Engineering. IIT Bombay
- - [https://www.cse.iitb.ac.in](https://www.cse.iitb.ac.in)
- - date_published: 2024-05-04T15:26:52.516435+00:00
-
- ## Kanwal Rekhi School of Information Technology, IIT Bombay
- - [http://www.it.iitb.ac.in](http://www.it.iitb.ac.in)
- - date_published: 2024-07-01T20:10:29.141181+00:00
-
- ## Artificial Intelligence Academic Programs and Machine Learning Academic Programs, AI-ML Training through cutting-edge research as well as strong industry collaborations offered by IIT Bombay.
- - [https://www.minds.iitb.ac.in](https://www.minds.iitb.ac.in)
- - date_published: 2024-03-19T08:58:35+00:00
-
- ## IITBHU - Indian Institute of Technology (BHU) Varanasi | Indian Institute of Technology (BHU)
- - [http://iitbhu.ac.in](http://iitbhu.ac.in)
- - date_published: 2024-09-11T10:50:00+00:00
-
- ## Academics (Undergraduate and Postgraduate)
- - [http://academics.iitd.ac.in](http://academics.iitd.ac.in)
- - date_published: 2024-09-13T18:21:48+00:00
-
- ## Centre For Atmospheric Sciences (CAS) :: IIT Delhi
- - [https://cas.iitd.ac.in](https://cas.iitd.ac.in)
- - date_published: 2024-07-08T13:10:05.281339+00:00
-
- ## CEPPAY by IIT Delhi
- - [https://ceppay.iitd.ac.in](https://ceppay.iitd.ac.in)
- - date_published: 2024-09-13T18:19:23.000283+00:00
-
- ## Home - IITD ChemE
- - [http://chemical.iitd.ac.in](http://chemical.iitd.ac.in)
- - date_published: 2024-09-13T18:20:51.378900+00:00
-
- ## Convocation 2023, IIT Delhi
- - [https://convocation.iitd.ac.in](https://convocation.iitd.ac.in)
- - date_published: 2024-06-22T09:14:56.967927+00:00
-
- ## CS Theory @IITD
- - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
- - date_published: 2024-02-08T11:34:33+00:00
-
- ## Portal Selection :: Indian Institute of Technology Delhi
- - [https://ecampus.iitd.ac.in](https://ecampus.iitd.ac.in)
- - date_published: 2024-09-13T18:18:49.816436+00:00
-
- ## Home Page : IIT Delhi
- - [https://home.iitd.ac.in](https://home.iitd.ac.in)
- - date_published: 2024-07-04T10:25:12.979845+00:00
-
- ## Infrastructure Unit | Indian Institute of Technology Delhi
- - [http://infra.iitd.ac.in](http://infra.iitd.ac.in)
- - date_published: 2024-09-13T18:18:30+00:00
-
- ## IIT Delhi Moodle for 2024-2025: Log in to the site
- - [https://moodle.iitd.ac.in](https://moodle.iitd.ac.in)
- - date_published: 2024-09-13T18:18:58.085473+00:00
-
- ## PhD Programme@CSE/SIT
- - [http://phd.cse.iitd.ac.in](http://phd.cse.iitd.ac.in)
- - date_published: 2024-06-06T10:42:47+00:00
-
- ## IIT Delhi - Login
- - [https://webmail.iitd.ac.in](https://webmail.iitd.ac.in)
- - date_published: 2024-09-13T18:21:07.267424+00:00
-
- ## Department of Computer Science and Engineering, IIT Delhi
- - [https://www.cse.iitd.ac.in](https://www.cse.iitd.ac.in)
- - date_published: 2024-05-04T15:26:32.945675+00:00
-
- ## Home Page : IIT Delhi
- - [http://www.iitd.ac.in](http://www.iitd.ac.in)
- - date_published: 2024-06-22T09:14:52.689160+00:00
-
- ## Indian Institute of Technology Guwahati
- - [http://www.iitg.ac.in](http://www.iitg.ac.in)
- - date_published: 2024-07-10T05:44:29.239585+00:00
-
- ## IIT Gandhinagar | Home
- - [http://www.iitgn.ac.in](http://www.iitgn.ac.in)
- - date_published: 2024-09-11T17:46:47.956357+00:00
-
- ## Home
- - [http://www.iith.ac.in](http://www.iith.ac.in)
- - date_published: 2024-06-22T12:51:03+00:00
-
- ## IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर
- - [http://www.iiti.ac.in](http://www.iiti.ac.in)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [http://home.iitj.ac.in](http://home.iitj.ac.in)
- - date_published: 2024-08-07T15:23:59.300389+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [https://iitj.ac.in](https://iitj.ac.in)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## CSE - IIT Kanpur
- - [https://www.cse.iitk.ac.in](https://www.cse.iitk.ac.in)
- - date_published: 2024-06-20T09:19:18+00:00
-
- ## IIT Kanpur
- - [https://www.iitk.ac.in](https://www.iitk.ac.in)
- - date_published: 2024-06-22T10:00:29.156567+00:00
-
- ## National Digital Library of India (NDLI)
- - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Office of Alumni & Corporate Relations
- - [https://acr.iitm.ac.in](https://acr.iitm.ac.in)
- - date_published: 2024-10-15T14:07:50.353555+00:00
-
- ## Centre for Responsible AI
- - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
- - date_published: 2024-08-06T11:00:25+00:00
-
- ## Code
- - [https://code.iitm.ac.in](https://code.iitm.ac.in)
- - date_published: 2024-10-15T14:00:33+00:00
-
- ## Cryo-EM
- - [http://cryoem.iitm.ac.in](http://cryoem.iitm.ac.in)
- - date_published: 2024-06-16T23:35:29.012980+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://dsai.iitm.ac.in](https://dsai.iitm.ac.in)
- - date_published: 2024-06-16T23:35:12.043525+00:00
-
- ## Department of Engineering Design, Indian Institute of Technology Madras
- - [https://ed.iitm.ac.in](https://ed.iitm.ac.in)
- - date_published: 2024-05-01T08:17:12.179261+00:00
-
- ## Equipment Reservation System, IIT Madras
- - [https://ers.iitm.ac.in](https://ers.iitm.ac.in)
- - date_published: 2024-10-15T14:13:50.093266+00:00
-
- ## Faculty Recruitment Portal
- - [https://facapp.iitm.ac.in](https://facapp.iitm.ac.in)
- - date_published: 2024-04-08T05:18:41+00:00
-
- ## Office of Global Engagement | IITM
- - [https://ge.iitm.ac.in](https://ge.iitm.ac.in)
- - date_published: 2024-06-16T23:35:16.062248+00:00
-
- ## Centre for Industrial Consultancy Portals
- - [https://icsrpis.iitm.ac.in](https://icsrpis.iitm.ac.in)
- - date_published: 2024-07-25T11:47:10+00:00
-
- ## IOE-IITM Research Initatives
- - [https://ioe.iitm.ac.in](https://ioe.iitm.ac.in)
- - date_published: 2023-12-01T11:16:58+00:00
-
- ## Endowment Fund Raising | Joy of Giving | Fund on Research Projects
- - [https://joyofgiving.alumni.iitm.ac.in](https://joyofgiving.alumni.iitm.ac.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Department of Medical Sciences & Technology, Indian Institute of Technology Madras | Bringing Engineering to Life
- - [https://mst.iitm.ac.in](https://mst.iitm.ac.in)
- - date_published: 2024-06-16T23:35:37.522060+00:00
-
- ## Women's forum
- - [https://womensforum.iitm.ac.in](https://womensforum.iitm.ac.in)
- - date_published: 2024-06-16T23:35:20.838395+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://wsai.iitm.ac.in](https://wsai.iitm.ac.in)
- - date_published: 2024-10-15T14:07:59.696009+00:00
-
- ## Department of Computer Science & Engineering
- - [http://www.cse.iitm.ac.in](http://www.cse.iitm.ac.in)
- - date_published: 2024-07-04T10:25:16.234812+00:00
-
- ## Indian Institute of Technology Madras
- - [https://www.iitm.ac.in](https://www.iitm.ac.in)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Indian Institute of Technology Mandi
- - [http://www.iitmandi.ac.in](http://www.iitmandi.ac.in)
- - date_published: 2024-09-11T17:48:39.811147+00:00
-
- ## IIT Madras Zanzibar Campus | Empower Your Future with IIT
- - [https://iitmz.ac.in](https://iitmz.ac.in)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Indian Institute of Technology, Patna
- - [http://www.iitp.ac.in](http://www.iitp.ac.in)
- - date_published: 2024-09-11T17:50:20+00:00
-
- ## Academic Information System
- - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
- - date_published: 2024-06-21T12:37:32+00:00
-
- ## IIS Windows Server
- - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
- - date_published: 2020-10-04T13:55:43+00:00
-
- ## DORA Office
- - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
- - date_published: 2024-06-21T11:25:40+00:00
-
- ## BIS Corner – IIT Roorkee
- - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
- - date_published: 2024-06-22T11:41:06.732911+00:00
-
- ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
- - [http://dinc.iitr.ac.in](http://dinc.iitr.ac.in)
- - date_published: 2024-06-22T11:40:33.386378+00:00
-
- ## Academic Documents Request | IITR
- - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
- - date_published: 2024-06-21T06:55:42+00:00
-
- ## EICT Academy - eict.iitr.ac.in
- - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home | Expectations IIT Roorkee
- - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
- - date_published: 2021-10-31T11:12:36+00:00
-
- ## Finance & Accounts Office, IITR
- - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
- - date_published: 2024-06-22T11:32:28.888432+00:00
-
- ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
- - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
- - date_published: 2024-06-22T11:32:06.639736+00:00
-
- ## GNEC IITR
- - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
- - date_published: 2024-06-22T11:31:22.309314+00:00
 

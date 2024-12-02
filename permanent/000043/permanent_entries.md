@@ -1,3 +1,16 @@
+ ## Andrea Feucht: IFS Practitioner
+ - [https://andreafeucht.com](https://andreafeucht.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Graphic design Bologna and Milan - Studio Andrea Guccini
+ - [http://andreaguccini.com](http://andreaguccini.com)
+ - date_published: 2024-10-29T14:29:21.558271+00:00
+
+ ## Autumn Write
+ - [http://www.andreakhost.com](http://www.andreakhost.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
  ## Dame Andrea Leadsom
  - [http://www.andrealeadsom.com](http://www.andrealeadsom.com)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -4064,16 +4077,4 @@
  ## Apache 2 Server on Windows for (business) webmasters, developers, home users and programmers
  - [http://apachelounge.com](http://apachelounge.com)
  - date_published: 2024-09-09T20:59:02.189354+00:00
-
- ## Home - APAC Insider
- - [https://www.apac-insider.com](https://www.apac-insider.com)
- - date_published: 2024-06-25T21:49:58.800794+00:00
-
- ## APAC News Network | Connecting, Communicating, Changing
- - [https://apacnewsnetwork.com](https://apacnewsnetwork.com)
- - date_published: 2021-07-29T07:15:14+00:00
-
- ## APA Merch Store
- - [https://apamerchstore.com](https://apamerchstore.com)
- - date_published: 2024-08-18T20:55:52.306731+00:00
 

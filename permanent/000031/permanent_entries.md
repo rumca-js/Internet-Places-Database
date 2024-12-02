@@ -1,3 +1,11 @@
+ ## ホームページ
+ - [https://coursebase.co](https://coursebase.co)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## CourseCo
+ - [https://courseco.co](https://courseco.co)
+ - date_published: 2024-04-09T08:36:04+00:00
+
  ## Cove - Material Science Company
  - [https://cove.co](https://cove.co)
  - date_published: 2024-07-09T19:39:57.031486+00:00
@@ -4033,12 +4041,4 @@ It’s what you do.
  ## KuppingerCole: Your Trusted Advisor for Identity and Security Solutions
  - [https://kpgr.co](https://kpgr.co)
  - date_published: 2024-09-18T15:14:11.677532+00:00
-
- ## KPRKR
- - [https://kprkr.co](https://kprkr.co)
- - date_published: 2024-05-09T06:17:54.303717+00:00
-
- ## Kravata | El futuro digital de las transacciones
- - [https://www.kravata.co](https://www.kravata.co)
- - date_published: 2024-06-25T00:00:00+00:00
 

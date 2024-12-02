@@ -1,3 +1,245 @@
+ ## SPOT-ON – Political Ads and Analytics
+ - [http://www.spot-on.com](http://www.spot-on.com)
+ - date_published: 2024-08-06T09:09:48.546958+00:00
+
+ ## Bigger Impact Digital Growth Systems | Vancouver Digital Marketing for Small Businesses
+ - [http://spotondigitalmarketing.com](http://spotondigitalmarketing.com)
+ - date_published: 2024-07-09T06:59:01.671762+00:00
+
+ ## Spotpear
+ - [https://spotpear.com](https://spotpear.com)
+ - date_published: 2024-11-25T10:26:56.460704+00:00
+
+ ## Spot Pet Insurance Help Center
+ - [https://help.spotpet.com](https://help.spotpet.com)
+ - date_published: 2024-08-11T16:36:14.678998+00:00
+
+ ## Pet Insurance Plans For Dogs & Cats - Pet Insurance Quotes | Spot®
+ - [https://spotpet.com](https://spotpet.com)
+ - date_published: 2024-08-11T16:36:11.844987+00:00
+
+ ## Pet Insurance Plans For Dogs & Cats - Top Ranked Pet Insurance Plans | Spot®
+ - [https://spotpetins.com](https://spotpetins.com)
+ - date_published: 2024-02-23T17:46:50.090667+00:00
+
+ ## Sports Contracts, Salaries, Caps, Bonuses, & Transactions | Spotrac.com
+ - [https://spotrac.com](https://spotrac.com)
+ - date_published: 2024-06-15T05:56:45.363991+00:00
+
+ ## Spotted by Locals: Travel Guides made by Locals!
+ - [https://www.spottedbylocals.com](https://www.spottedbylocals.com)
+ - date_published: 2024-08-17T23:52:46.343265+00:00
+
+ ## Spotted Fox Digital | Web Design, SEO, Video, Social Media
+ - [https://spottedfoxdigital.com](https://spottedfoxdigital.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Spot Tops
+ - [https://spot-tops.com](https://spot-tops.com)
+ - date_published: 2024-08-07T21:11:55.501059+00:00
+
+ ## Spot | Virtual office for teams
+ - [https://spotvirtual.com](https://spotvirtual.com)
+ - date_published: 2023-10-25T17:11:14.472863+00:00
+
+ ## Forex CFD Trading and Spread Betting Platforms
+ - [http://www.spotware.com](http://www.spotware.com)
+ - date_published: 2024-06-26T09:03:58.771723+00:00
+
+ ## Support
+ - [https://help.spoutible.com](https://help.spoutible.com)
+ - date_published: 2024-07-14T11:58:26.200509+00:00
+
+ ## Spoutible
+ - [https://spoutible.com](https://spoutible.com)
+ - date_published: 2024-05-11T10:41:46.552722+00:00
+
+ ## Home
+ - [https://sppagebuilder.com](https://sppagebuilder.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## The Art of Sprang
+ - [https://www.sprangart.com](https://www.sprangart.com)
+ - date_published: 2024-06-17T10:28:12.292511+00:00
+
+ ## front page
+ - [https://www.spranglady.com](https://www.spranglady.com)
+ - date_published: 2024-05-02T09:54:33.215723+00:00
+
+ ## Спрашивалка — вопросы, ответы, общение
+ - [https://sprashivalka.com](https://sprashivalka.com)
+ - date_published: 2024-07-23T23:31:47.374371+00:00
+
+ ## Home
+ - [https://www.spratings.com](https://www.spratings.com)
+ - date_published: 2024-10-22T16:46:59.187926+00:00
+
+ ## The Sprawl
+ - [https://secure.sprawlalberta.com](https://secure.sprawlalberta.com)
+ - date_published: 2024-07-13T03:48:49+00:00
+
+ ## The Sprawl | In-depth Calgary journalism.
+ - [https://sprawlcalgary.com](https://sprawlcalgary.com)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## SprayGunner - Best Products. Shipped Fast.
+ - [https://spraygunner.com](https://spraygunner.com)
+ - date_published: 2024-09-16T14:26:05.301575+00:00
+
+ ## Sociedad Portuaria Regional de Buenaventura S.A
+ - [http://www.sprbun.com](http://www.sprbun.com)
+ - date_published: 2024-09-10T23:57:57.565564+00:00
+
+ ## Sports Betting | Financial Trading | Spreadex
+ - [https://www.spreadex.com](https://www.spreadex.com)
+ - date_published: 2024-06-22T14:32:20.819027+00:00
+
+ ## Spread Group
+ - [https://spreadgroup.com](https://spreadgroup.com)
+ - date_published: 2024-10-21T09:05:33.605245+00:00
+
+ ## Home - Spreading Daily News
+ - [https://spreadingsantorum.com](https://spreadingsantorum.com)
+ - date_published: 2020-06-22T10:33:37+00:00
+
+ ## spreadjerrypaul.com - spreadjerrypaul Zasoby i informacje.
+ - [http://www.spreadjerrypaul.com](http://www.spreadjerrypaul.com)
+ - date_published: 2024-11-16T21:14:27+00:00
+
+ ## Spread Privacy
+ - [https://spreadprivacy.com](https://spreadprivacy.com)
+ - date_published: 2023-10-25T17:11:16.811041+00:00
+ - tags: ['duckduckgo']
+
+ ## Spreadshirt
+ - [https://help.spreadshirt.com](https://help.spreadshirt.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.com](https://my.spreadshirt.com)
+ - date_published: 2024-06-18T10:20:09.468602+00:00
+
+ ## Spreadshirt
+ - [https://partner.spreadshirt.com](https://partner.spreadshirt.com)
+ - date_published: 2024-06-18T09:38:40+00:00
+
+ ## Shop Help Center
+ - [https://service.spreadshirt.com](https://service.spreadshirt.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Spreadshirt Print on Demand Platform | Spreadshirt
+ - [https://spreadshirt.com](https://spreadshirt.com)
+ - date_published: 2024-07-18T15:08:08.568231+00:00
+
+ ## Welcome to Spreadshirt. Please select your region.
+ - [https://image.spreadshirtmedia.com](https://image.spreadshirtmedia.com)
+ - date_published: 2024-06-18T10:20:27.604429+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://images.spreadshop.com](https://images.spreadshop.com)
+ - date_published: 2024-10-21T08:54:50.986148+00:00
+
+ ## Spreadshop - Our Journey
+ - [https://journey.spreadshop.com](https://journey.spreadshop.com)
+ - date_published: 2024-10-21T08:56:28.215772+00:00
+
+ ## Start your own merch shop OR enhance an existing one with Spreadshop
+ - [http://spreadshop.com](http://spreadshop.com)
+ - date_published: 2024-10-21T08:57:32.222739+00:00
+
+ ## Google Sheets to website - SpreadSimple
+ - [https://spreadsimple.com](https://spreadsimple.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## SPREAD – Created to create
+ - [https://www.spreadyourstyle.com](https://www.spreadyourstyle.com)
+ - date_published: 2024-06-18T10:19:56.404888+00:00
+
+ ## Spreaker News Center
+ - [https://news.spreaker.com](https://news.spreaker.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Listen to the Best Podcasts, For Free - Spreaker
+ - [https://spreaker.com](https://spreaker.com)
+ - date_published: 2024-02-14T15:18:11+00:00
+ - tags: ['podcasts']
+
+ ## Global Payments Orchestration Platform | Spreedly
+ - [https://core.spreedly.com](https://core.spreedly.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Spreedly Status
+ - [https://status.spreedly.com](https://status.spreedly.com)
+ - date_published: 2024-10-18T03:59:13.278454+00:00
+
+ ## Global Payments Orchestration Platform | Spreedly
+ - [http://www.spreedly.com](http://www.spreedly.com)
+ - date_published: 2024-10-18T03:59:08.832152+00:00
+
+ ## Spreely Social
+ - [https://social.spreely.com](https://social.spreely.com)
+ - date_published: 2024-05-08T03:43:33.622326+00:00
+
+ ## Spring | Leading Recruitment in IT and Engineering Jobs Across the UK
+ - [http://www.spring.com](http://www.spring.com)
+ - date_published: 2022-09-22T14:24:46+00:00
+
+ ## Springboard: Online Courses to Future Proof Your Career
+ - [https://www.springboard.com](https://www.springboard.com)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Enterprise Class Finance ERP for Local Government
+ - [https://springbrooksoftware.com](https://springbrooksoftware.com)
+ - date_published: 2024-10-19T03:20:17.210326+00:00
+
+ ## Home of SpringCasual || Welcome! :: Easy to follow patterns with detailed photos.
+ - [https://springcasual.com](https://springcasual.com)
+ - date_published: 2024-07-13T05:16:37.436664+00:00
+
+ ## Spring Science
+ - [https://springdiscovery.com](https://springdiscovery.com)
+ - date_published: 2024-05-08T06:59:14.527768+00:00
+
+ ## Spring EQ Home
+ - [https://mortgage.springeq.com](https://mortgage.springeq.com)
+ - date_published: 2024-08-08T20:27:56+00:00
+
+ ## Author & reviewer tutorials | Springer |
+      
+      Springer — International Publisher
+ - [https://academy.springer.com](https://academy.springer.com)
+ - date_published: 2024-06-14T08:00:56.659594+00:00
+
+ ## Home - AdisInsight
+ - [https://adisinsight.springer.com](https://adisinsight.springer.com)
+ - date_published: 2024-06-24T03:35:10.356893+00:00
+
+ ## Springer Nature
+ - [https://images.springer.com](https://images.springer.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Springer Journal Suggester
+ - [https://journalsuggester.springer.com](https://journalsuggester.springer.com)
+ - date_published: 2024-06-13T05:42:25+00:00
+
+ ## Home | SpringerLink
+ - [https://link.springer.com](https://link.springer.com)
+ - date_published: 2023-10-25T17:11:18.919117+00:00
+
+ ## Access research journals, articles, books and more | SpringerLink
+ - [https://rd.springer.com](https://rd.springer.com)
+ - date_published: 2024-06-16T20:50:14.501120+00:00
+
+ ## Springer - International Publisher Science, Technology, Medicine |
+      
+      Springer — International Publisher
+ - [https://springer.com](https://springer.com)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Beautiful custom maps - Springer Cartographics
+ - [http://www.springercartographics.com](http://www.springercartographics.com)
+ - date_published: 2023-10-31T20:46:03+00:00
+
  ## Home - Springer Healthcare
  - [https://www.springerhealthcare.com](https://www.springerhealthcare.com)
  - date_published: 2024-02-16T00:00:00+00:00
@@ -3785,240 +4027,4 @@
  ## Never Rewrite
  - [https://hawk-megalodon-dmrr.squarespace.com](https://hawk-megalodon-dmrr.squarespace.com)
  - date_published: 2024-08-06T03:44:57.149599+00:00
-
- ## Oikos Technologies Inc
- - [https://hawk-mushroom-ftz7.squarespace.com](https://hawk-mushroom-ftz7.squarespace.com)
- - date_published: 2024-09-23T11:59:23.119169+00:00
-
- ## Houndmouth
- - [https://hawk-ray-5z8c.squarespace.com](https://hawk-ray-5z8c.squarespace.com)
- - date_published: 2024-09-13T17:11:48.719282+00:00
-
- ## Play For Thoughts
- - [https://hawk-wrasse-gna2.squarespace.com](https://hawk-wrasse-gna2.squarespace.com)
- - date_published: 2024-05-09T06:26:47.848088+00:00
-
- ## HAXWARE
- - [https://haxware.squarespace.com](https://haxware.squarespace.com)
- - date_published: 2024-07-21T06:54:41.536786+00:00
-
- ## Hello Big Idea | Brand + Marketing Agency
- - [https://hbi.squarespace.com](https://hbi.squarespace.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Bold Compassion.
- - [https://healthier-moms-and-babies.squarespace.com](https://healthier-moms-and-babies.squarespace.com)
- - date_published: 2024-09-13T17:08:10.785738+00:00
-
- ## Heather Sloane
- - [http://heather-kerr.squarespace.com](http://heather-kerr.squarespace.com)
- - date_published: 2024-07-07T09:18:58.799478+00:00
-
- ## Kerns & Cairns
- - [https://helicon-banjo-73rs.squarespace.com](https://helicon-banjo-73rs.squarespace.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## WILDHORSE SALOON CALGARY
- - [https://helicon-wedge-bzp5.squarespace.com](https://helicon-wedge-bzp5.squarespace.com)
- - date_published: 2024-10-17T18:27:03.082586+00:00
-
- ## Open Future Coalition
- - [https://helix-gecko-65ft.squarespace.com](https://helix-gecko-65ft.squarespace.com)
- - date_published: 2024-09-12T19:01:18.731926+00:00
-
- ## Intense Coffee Luxembourg
- - [https://helix-guitar-d47a.squarespace.com](https://helix-guitar-d47a.squarespace.com)
- - date_published: 2024-09-16T06:16:58.853121+00:00
-
- ## Loes van Mierlo - Regenerative Coaching
- - [https://helix-heptagon-rg96.squarespace.com](https://helix-heptagon-rg96.squarespace.com)
- - date_published: 2024-08-07T23:14:06.170518+00:00
-
- ## Neon Hemlock Press
- - [https://helix-lizard-s36y.squarespace.com](https://helix-lizard-s36y.squarespace.com)
- - date_published: 2024-08-06T11:39:04.523298+00:00
-
- ## Help and Customer Care - Squarespace
- - [http://help.squarespace.com](http://help.squarespace.com)
- - date_published: 2024-08-19T05:36:49.390801+00:00
-
- ## Visit Pitcairn - Open To Explore
- - [https://hen-gazelle-awaj.squarespace.com](https://hen-gazelle-awaj.squarespace.com)
- - date_published: 2024-07-16T17:43:14.290145+00:00
-
- ## Pop Junctions: Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More
- - [https://henryjenkins.squarespace.com](https://henryjenkins.squarespace.com)
- - date_published: 2024-05-12T05:44:36.660330+00:00
-
- ## Magical Moon Farm & Foundation
- - [https://heptagon-cardioid-rm56.squarespace.com](https://heptagon-cardioid-rm56.squarespace.com)
- - date_published: 2024-06-30T05:59:17.092739+00:00
-
- ## Rondo Energy
- - [https://heptagon-jellyfish-6g5f.squarespace.com](https://heptagon-jellyfish-6g5f.squarespace.com)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Mike Troxell
- - [https://heptagon-lettuce-8ea2.squarespace.com](https://heptagon-lettuce-8ea2.squarespace.com)
- - date_published: 2024-09-16T01:17:04.204565+00:00
-
- ## Nineteen80
- - [https://heptagon-seabass-88da.squarespace.com](https://heptagon-seabass-88da.squarespace.com)
- - date_published: 2024-07-11T14:38:58.000373+00:00
-
- ## Qobuz Club
- - [https://heron-cylinder-cawa.squarespace.com](https://heron-cylinder-cawa.squarespace.com)
- - date_published: 2024-09-27T09:21:33.649011+00:00
-
- ## Garth Dew
- - [https://heron-nectarine-ykj5.squarespace.com](https://heron-nectarine-ykj5.squarespace.com)
- - date_published: 2024-10-31T19:44:27.729981+00:00
-
- ## Ordinary Extraordinary Generosity
- - [https://herring-cardioid-8a8z.squarespace.com](https://herring-cardioid-8a8z.squarespace.com)
- - date_published: 2024-07-12T17:42:58.497769+00:00
-
- ## upchuck creative
- - [https://herring-wombat-nxrb.squarespace.com](https://herring-wombat-nxrb.squarespace.com)
- - date_published: 2024-06-22T07:21:45.775254+00:00
-
- ## Briico
- - [https://hexaflexagon-bumblebee-9gpl.squarespace.com](https://hexaflexagon-bumblebee-9gpl.squarespace.com)
- - date_published: 2024-07-07T07:23:14.509984+00:00
-
- ## Beaux Gris Gris & The Apocalypse
- - [https://hexaflexagon-triangle-7ydl.squarespace.com](https://hexaflexagon-triangle-7ydl.squarespace.com)
- - date_published: 2024-10-17T12:05:22.885609+00:00
-
- ## Wrist Enthusiast
- - [https://hexagon-seabass-edyc.squarespace.com](https://hexagon-seabass-edyc.squarespace.com)
- - date_published: 2024-07-04T10:13:49.601994+00:00
-
- ## The Tournament of Books
- - [https://hexahedron-lavender-6m6b.squarespace.com](https://hexahedron-lavender-6m6b.squarespace.com)
- - date_published: 2024-05-06T20:13:02.236166+00:00
-
- ## Stranglehold
- - [https://hexahedron-plantain-22s4.squarespace.com](https://hexahedron-plantain-22s4.squarespace.com)
- - date_published: 2024-07-08T10:30:02.259000+00:00
-
- ## Hillary for America Design 2016
- - [https://hfa-design.squarespace.com](https://hfa-design.squarespace.com)
- - date_published: 2024-06-14T16:49:21.260403+00:00
-
- ## hidell brooks gallery
- - [https://hidell-brooks.squarespace.com](https://hidell-brooks.squarespace.com)
- - date_published: 2024-06-21T22:41:51.028237+00:00
-
- ## Highpoint Center for Printmaking
- - [https://highpointprintmaking.squarespace.com](https://highpointprintmaking.squarespace.com)
- - date_published: 2024-06-25T23:29:48.572285+00:00
-
- ## Higi | Empowering You to Take Control of Your Health
- - [https://higi.squarespace.com](https://higi.squarespace.com)
- - date_published: 2024-09-16T04:02:38.575745+00:00
-
- ## Holman Ranch
- - [https://holman-ranch.squarespace.com](https://holman-ranch.squarespace.com)
- - date_published: 2024-07-19T04:25:22.597993+00:00
-
- ## Hope Dunbar
- - [https://hopedunbar.squarespace.com](https://hopedunbar.squarespace.com)
- - date_published: 2024-09-17T21:13:47.399314+00:00
-
- ## Hopper Institute®
- - [http://hopper-institute.squarespace.com](http://hopper-institute.squarespace.com)
- - date_published: 2024-08-19T21:04:26.876953+00:00
-
- ## John Horgan (The Science Writer)
- - [https://horganism.squarespace.com](https://horganism.squarespace.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Alex Budak – Helping People Become Changemakers
- - [https://horse-avocado-ka9k.squarespace.com](https://horse-avocado-ka9k.squarespace.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## THE GOODSPACE
- - [https://horse-keyboard-ffny.squarespace.com](https://horse-keyboard-ffny.squarespace.com)
- - date_published: 2024-07-15T05:35:00.351385+00:00
-
- ## Adrian Utley Official Website
- - [https://horse-sapphire-w2mr.squarespace.com](https://horse-sapphire-w2mr.squarespace.com)
- - date_published: 2024-06-18T09:17:59.461856+00:00
-
- ## Hot & Bothered
- - [https://hotandbotheredrompod.squarespace.com](https://hotandbotheredrompod.squarespace.com)
- - date_published: 2024-06-18T15:30:12.024612+00:00
-
- ## Hudson Crossing Park
- - [https://hudsoncrossing-park.squarespace.com](https://hudsoncrossing-park.squarespace.com)
- - date_published: 2024-05-08T07:32:48.417714+00:00
-
- ## zack.technology
- - [https://iamzaki.squarespace.com](https://iamzaki.squarespace.com)
- - date_published: 2024-07-13T03:34:11.335371+00:00
-
- ## SpherePlane
- - [https://ian-rabago.squarespace.com](https://ian-rabago.squarespace.com)
- - date_published: 2024-07-21T02:13:53.916936+00:00
-
- ## CAVAR
- - [https://icosahedron-mandolin-gzg6.squarespace.com](https://icosahedron-mandolin-gzg6.squarespace.com)
- - date_published: 2024-09-14T23:46:12.012204+00:00
-
- ## Coming Soon
- - [https://icosahedron-tangerine-yptf.squarespace.com](https://icosahedron-tangerine-yptf.squarespace.com)
- - date_published: 2024-06-18T17:25:07.806401+00:00
-
- ## International Fund for Public Interest Media
- - [https://ifpim.squarespace.com](https://ifpim.squarespace.com)
- - date_published: 2024-09-17T19:20:46.814462+00:00
-
- ## IGN Entertainment
- - [https://ign-entertainment.squarespace.com](https://ign-entertainment.squarespace.com)
- - date_published: 2024-06-28T17:53:17.925567+00:00
-
- ## Andrea Lewicki likes pancakes.
- - [https://iguana-apricots-9pnl.squarespace.com](https://iguana-apricots-9pnl.squarespace.com)
- - date_published: 2024-07-04T06:10:34.155012+00:00
-
- ## Present of Work
- - [https://iguana-clownfish-yz3h.squarespace.com](https://iguana-clownfish-yz3h.squarespace.com)
- - date_published: 2024-09-12T18:39:20.940459+00:00
-
- ## Garrett Leahy
- - [https://iguana-haddock-zwwf.squarespace.com](https://iguana-haddock-zwwf.squarespace.com)
- - date_published: 2024-08-06T05:27:07.296203+00:00
-
- ## 4A's Advancing Talent
- - [https://iguana-wolf-ty58.squarespace.com](https://iguana-wolf-ty58.squarespace.com)
- - date_published: 2024-10-14T17:48:29.425978+00:00
-
- ## VRChat
- - [https://iguana-wolverine-rf6m.squarespace.com](https://iguana-wolverine-rf6m.squarespace.com)
- - date_published: 2024-07-19T21:49:06.339354+00:00
-
- ## Upstream Arcade
- - [https://imkan-hayati-y6pj.squarespace.com](https://imkan-hayati-y6pj.squarespace.com)
- - date_published: 2024-09-04T17:14:09.376307+00:00
-
- ## Immunitas
- - [https://immunitastherapeutics.squarespace.com](https://immunitastherapeutics.squarespace.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## IMO 2024
- - [https://imo2024.squarespace.com](https://imo2024.squarespace.com)
- - date_published: 2024-07-13T03:06:25.426617+00:00
-
- ## Caviar Cafe
- - [https://impala-plane-arz5.squarespace.com](https://impala-plane-arz5.squarespace.com)
- - date_published: 2024-06-24T05:36:22.817829+00:00
-
- ## Dovetail Impact Foundation
- - [https://impala-tortoise-x4le.squarespace.com](https://impala-tortoise-x4le.squarespace.com)
- - date_published: 2024-07-20T18:35:11.741373+00:00
-
- ## BuzzFeed Inc.
- - [https://impala-vibraphone-6f7l.squarespace.com](https://impala-vibraphone-6f7l.squarespace.com)
- - date_published: 2024-06-18T07:36:44.238246+00:00
 

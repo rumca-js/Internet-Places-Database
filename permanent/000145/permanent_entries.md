@@ -1,4 +1,76 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://biomedical.medicaltechoutlook.com](https://biomedical.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:43.397832+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://brain-diagnostics-devices.medicaltechoutlook.com](https://brain-diagnostics-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:57.053693+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://canada.medicaltechoutlook.com](https://canada.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:34.372768+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://cardio-vascular-devices.medicaltechoutlook.com](https://cardio-vascular-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:10.206417+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://cardio-vascular-europe.medicaltechoutlook.com](https://cardio-vascular-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:16.411237+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://cranio-maxillofacial.medicaltechoutlook.com](https://cranio-maxillofacial.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:30.388389+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://dermatology-europe.medicaltechoutlook.com](https://dermatology-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:23.746184+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://dermatology.medicaltechoutlook.com](https://dermatology.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:06.594554+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://drug-delivery-apac.medicaltechoutlook.com](https://drug-delivery-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:38.893147+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://drug-delivery-solutions.medicaltechoutlook.com](https://drug-delivery-solutions.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:47.911875+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://durable-medical-equipment.medicaltechoutlook.com](https://durable-medical-equipment.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:19.238910+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://electro-cautery-device.medicaltechoutlook.com](https://electro-cautery-device.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:52.134245+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://eletrophysiology.medicaltechoutlook.com](https://eletrophysiology.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:54.146914+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://endoscopy.medicaltechoutlook.com](https://endoscopy.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:07.351828+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://ent-devices.medicaltechoutlook.com](https://ent-devices.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:05.184944+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://external-urine-management-device.medicaltechoutlook.com](https://external-urine-management-device.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:36.857822+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://fall-prevention.medicaltechoutlook.com](https://fall-prevention.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:18:59.696884+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://fem-tech-europe.medicaltechoutlook.com](https://fem-tech-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:14.144160+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://fetal-and-neonatal-care.medicaltechoutlook.com](https://fetal-and-neonatal-care.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:10:56.674504+00:00
 
@@ -3957,76 +4029,4 @@
  ## Tim ✌ – Medium
  - [https://tskaggs.medium.com](https://tskaggs.medium.com)
  - date_published: 2024-02-08T16:21:55.282976+00:00
-
- ## TypeType Team – Medium
- - [https://typetype.medium.com](https://typetype.medium.com)
- - date_published: 2024-06-19T16:15:57.074245+00:00
-
- ## UC Berkeley Extension – Medium
- - [https://ucberkeleyextension.medium.com](https://ucberkeleyextension.medium.com)
- - date_published: 2024-07-22T07:39:24.387978+00:00
-
- ## Ulas Can Cengiz – Medium
- - [https://ulsc.medium.com](https://ulsc.medium.com)
- - date_published: 2024-07-19T23:01:49.835709+00:00
-
- ## uNetworking AB – Medium
- - [https://unetworkingab.medium.com](https://unetworkingab.medium.com)
- - date_published: 2023-10-25T10:23:32.060381+00:00
-
- ## Unicorn Growth Capital – Medium
- - [https://unicorngrowthcapital.medium.com](https://unicorngrowthcapital.medium.com)
- - date_published: 2024-07-13T23:37:41.618209+00:00
-
- ## UniqueOne Network – Medium
- - [https://uniqueone.medium.com](https://uniqueone.medium.com)
- - date_published: 2024-09-25T12:01:25.627096+00:00
-
- ## Upper90 Capital – Medium
- - [https://upper90.medium.com](https://upper90.medium.com)
- - date_published: 2024-06-19T10:01:23.393745+00:00
-
- ## Upstream – Medium
- - [https://upstreamexchange.medium.com](https://upstreamexchange.medium.com)
- - date_published: 2024-09-12T19:22:33.394983+00:00
-
- ## USDOT – Medium
- - [https://usdot.medium.com](https://usdot.medium.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Usha Rengaraju – Medium
- - [https://usharengaraju.medium.com](https://usharengaraju.medium.com)
- - date_published: 2024-08-11T07:28:33.158678+00:00
-
- ## Utku Şen – Medium
- - [https://utkusen.medium.com](https://utkusen.medium.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## UX Collective Editors – Medium
- - [https://uxdesigncc.medium.com](https://uxdesigncc.medium.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## UX London – Medium
- - [https://uxlondon.medium.com](https://uxlondon.medium.com)
- - date_published: 2024-06-15T03:58:52.464565+00:00
-
- ## UXLx: UX Lisbon – Medium
- - [https://uxlx.medium.com](https://uxlx.medium.com)
- - date_published: 2024-07-20T11:39:06.284502+00:00
-
- ## UX Movement – Medium
- - [https://uxmovement.medium.com](https://uxmovement.medium.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Vakhtang Matskeplishvili – Medium
- - [https://vakhtang-matskeplishvili.medium.com](https://vakhtang-matskeplishvili.medium.com)
- - date_published: 2024-08-11T07:25:35.819744+00:00
-
- ## Valmik Rao – Medium
- - [https://valmikrao.medium.com](https://valmikrao.medium.com)
- - date_published: 2024-09-09T21:55:28.424469+00:00
-
- ## Aliaksandr Valialkin – Medium
- - [https://valyala.medium.com](https://valyala.medium.com)
- - date_published: 2024-06-29T11:44:17.726127+00:00
 

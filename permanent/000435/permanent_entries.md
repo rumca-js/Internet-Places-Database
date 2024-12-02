@@ -1,3 +1,376 @@
+ ## Home | University of Cape Town
+ - [https://jifa.uct.ac.za](https://jifa.uct.ac.za)
+ - date_published: 2024-05-12T07:45:06.066520+00:00
+
+ ## Home | University of Cape Town
+ - [https://lawatwork.uct.ac.za](https://lawatwork.uct.ac.za)
+ - date_published: 2024-05-12T07:45:19.146792+00:00
+
+ ## Home | University of Cape Town
+ - [https://law.uct.ac.za](https://law.uct.ac.za)
+ - date_published: 2024-05-12T07:45:59.109452+00:00
+
+ ## Ask a Librarian - Ask a Librarian
+ - [https://libanswers.lib.uct.ac.za](https://libanswers.lib.uct.ac.za)
+ - date_published: 2024-07-17T03:53:37.032833+00:00
+
+ ## LibGuides
+ - [http://libguides.lib.uct.ac.za](http://libguides.lib.uct.ac.za)
+ - date_published: 2024-07-17T03:53:35.191497+00:00
+
+ ## Home | University of Cape Town
+ - [https://lib.uct.ac.za](https://lib.uct.ac.za)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## UCT LimeSurvey
+ - [https://limesurvey.uct.ac.za](https://limesurvey.uct.ac.za)
+ - date_published: 2024-07-17T03:51:47.628563+00:00
+
+ ## University of Cape Town News
+ - [https://news.uct.ac.za](https://news.uct.ac.za)
+ - date_published: 2024-05-12T07:46:10.467368+00:00
+
+ ## OpenUCT :: Home
+ - [http://open.uct.ac.za](http://open.uct.ac.za)
+ - date_published: 2024-07-17T04:09:05.440395+00:00
+
+ ## UCT Press
+ - [https://openuctpress.uct.ac.za](https://openuctpress.uct.ac.za)
+ - date_published: 2022-08-24T00:00:00+00:00
+
+ ## Self Service Password Reset
+ - [https://password.uct.ac.za](https://password.uct.ac.za)
+ - date_published: 2024-07-17T03:58:01.064933+00:00
+
+ ## Home | University of Cape Town
+ - [https://science.uct.ac.za](https://science.uct.ac.za)
+ - date_published: 2024-05-12T07:47:18.990085+00:00
+
+ ## Sign in to your account
+ - [https://services.ps.uct.ac.za](https://services.ps.uct.ac.za)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home Page | University of Cape Town
+ - [https://summerschool.uct.ac.za](https://summerschool.uct.ac.za)
+ - date_published: 2024-05-12T07:45:24.855738+00:00
+
+ ## Sign in to your account
+ - [https://thirdparty.uct.ac.za](https://thirdparty.uct.ac.za)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [https://uct.ac.za](https://uct.ac.za)
+ - date_published: 2024-04-05T21:49:40+00:00
+
+ ## UCT Libraries
+ - [http://www2.lib.uct.ac.za](http://www2.lib.uct.ac.za)
+ - date_published: 2024-07-17T03:56:37.954899+00:00
+
+ ## Welcome to the College of Accounting | University of Cape Town
+ - [http://www.accounting.uct.ac.za](http://www.accounting.uct.ac.za)
+ - date_published: 2024-07-17T04:10:28+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.adp.uct.ac.za](http://www.adp.uct.ac.za)
+ - date_published: 2024-07-17T04:09:23+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.apg.uct.ac.za](http://www.apg.uct.ac.za)
+ - date_published: 2024-07-17T03:59:05+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.cea.uct.ac.za](http://www.cea.uct.ac.za)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.civil.uct.ac.za](http://www.civil.uct.ac.za)
+ - date_published: 2024-07-17T03:59:10+00:00
+
+ ## Home | University of Cape Town
+ - [https://www.commerceit.uct.ac.za](https://www.commerceit.uct.ac.za)
+ - date_published: 2024-07-17T04:09:46+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.cons.uct.ac.za](http://www.cons.uct.ac.za)
+ - date_published: 2024-07-17T03:58:59+00:00
+
+ ## Welcome to the Education Development Unit (EDU) | University of Cape Town
+ - [http://www.educommerce.uct.ac.za](http://www.educommerce.uct.ac.za)
+ - date_published: 2024-07-17T04:10:17+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.ee.uct.ac.za](http://www.ee.uct.ac.za)
+ - date_published: 2024-07-17T03:47:15+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.eresearch.uct.ac.za](http://www.eresearch.uct.ac.za)
+ - date_published: 2024-07-17T04:09:37+00:00
+
+ ## GIS Support | University of Cape Town
+ - [http://www.gis.uct.ac.za](http://www.gis.uct.ac.za)
+ - date_published: 2024-07-17T03:53:48+00:00
+
+ ## Government Publications Home | University of Cape Town
+ - [http://www.governmentpublications.lib.uct.ac.za](http://www.governmentpublications.lib.uct.ac.za)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.healthelectives.uct.ac.za](http://www.healthelectives.uct.ac.za)
+ - date_published: 2024-07-17T03:52:02+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.humedu.uct.ac.za](http://www.humedu.uct.ac.za)
+ - date_published: 2024-07-17T03:53:04+00:00
+
+ ## ICTS | University of Cape Town
+ - [http://www.icts.uct.ac.za](http://www.icts.uct.ac.za)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Welcome to Marketing Studies | University of Cape Town
+ - [http://www.marketingstudies.uct.ac.za](http://www.marketingstudies.uct.ac.za)
+ - date_published: 2024-07-17T04:10:21+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.mecheng.uct.ac.za](http://www.mecheng.uct.ac.za)
+ - date_published: 2024-07-17T03:58:55+00:00
+
+ ## Welcome to the Section of Organisational Psychology | University of Cape Town
+ - [http://www.organisationalpsychology.uct.ac.za](http://www.organisationalpsychology.uct.ac.za)
+ - date_published: 2024-07-17T04:07:04+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.pcucommerce.uct.ac.za](http://www.pcucommerce.uct.ac.za)
+ - date_published: 2024-07-17T04:10:24+00:00
+
+ ## Home - Our Academic Program | University of Cape Town
+ - [http://www.radiology.uct.ac.za](http://www.radiology.uct.ac.za)
+ - date_published: 2024-07-17T03:52:15+00:00
+
+ ## Welcome to RC&I | University of Cape Town
+ - [http://www.rci.uct.ac.za](http://www.rci.uct.ac.za)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.researchsupport.uct.ac.za](http://www.researchsupport.uct.ac.za)
+ - date_published: 2024-07-17T03:53:09+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.research.uct.ac.za](http://www.research.uct.ac.za)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home | School of Information Technology
+ - [http://www.sit.uct.ac.za](http://www.sit.uct.ac.za)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home | UCT Libraries
+ - [http://www.specialcollections.uct.ac.za](http://www.specialcollections.uct.ac.za)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.sss.uct.ac.za](http://www.sss.uct.ac.za)
+ - date_published: 2024-07-17T04:10:08+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.staff.uct.ac.za](http://www.staff.uct.ac.za)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Stay and Connect
+ - [http://www.stayandconnect.uct.ac.za](http://www.stayandconnect.uct.ac.za)
+ - date_published: 2024-07-17T04:09:59+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.students.uct.ac.za](http://www.students.uct.ac.za)
+ - date_published: 2024-07-17T03:51:36+00:00
+
+ ## University of Cape Town research repository - Browse
+ - [https://zivahub.uct.ac.za](https://zivahub.uct.ac.za)
+ - date_published: 2024-06-15T21:23:35.508545+00:00
+
+ ## University of the Free State
+ - [https://www.ufs.ac.za](https://www.ufs.ac.za)
+ - date_published: 2024-10-20T04:43:58.226430+00:00
+
+ ## UJ the University of Johannesburg Gauteng South Africa
+ - [https://www.uj.ac.za](https://www.uj.ac.za)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Finding Solutions for Africa - University of Limpopo
+ - [http://www.ul.ac.za](http://www.ul.ac.za)
+ - date_published: 2024-10-29T16:01:35+00:00
+
+ ## University of South Africa
+ - [https://www.unisa.ac.za](https://www.unisa.ac.za)
+ - date_published: 2024-10-20T04:41:21.277454+00:00
+
+ ## UP | University of Pretoria
+ - [http://www.up.ac.za](http://www.up.ac.za)
+ - date_published: 2024-07-22T07:09:58+00:00
+
+ ## Loading Development Manager
+ - [https://devman.wits.ac.za](https://devman.wits.ac.za)
+ - date_published: 2018-04-20T18:14:57+00:00
+
+ ## The Wits Shop – Shop online for Wits University Branded Merchandise, Gifts and Accessories.
+ - [https://shop.wits.ac.za](https://shop.wits.ac.za)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Wits Centenary
+ - [https://wits100.wits.ac.za](https://wits100.wits.ac.za)
+ - date_published: 2024-05-02T13:55:57.893226+00:00
+
+ ## Home - Wits University
+ - [https://wits.ac.za](https://wits.ac.za)
+ - date_published: 2024-10-22T20:50:53.897044+00:00
+
+ ## 3M Science. Applied to Life. | 3M South Africa
+ - [https://www.3m.co.za](https://www.3m.co.za)
+ - date_published: 2024-08-06T10:41:07.961471+00:00
+
+ ## 4aKid - Baby & Toddler Shop, Toy Shop, South Africa
+ - [https://4akid.co.za](https://4akid.co.za)
+ - date_published: 2024-06-21T10:53:26.900623+00:00
+
+ ## adidas Official Website | adidas South Africa
+ - [https://www.adidas.co.za](https://www.adidas.co.za)
+ - date_published: 2024-07-14T12:13:33.652463+00:00
+
+ ## African Pilot magazine - now Africa's most popular aviation publication
+ - [http://www.africanpilot.co.za](http://www.africanpilot.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Lexicography | African Association for Lexicography
+ - [https://www.afrilex.co.za](https://www.afrilex.co.za)
+ - date_published: 2024-07-02T09:44:47.187503+00:00
+
+ ## Agronetto South Africa – an online marketplace for farm equipment and spare parts
+ - [https://agronetto.co.za](https://agronetto.co.za)
+ - date_published: 2024-08-11T15:40:46.688595+00:00
+
+ ## Airbnb | Vacation rentals, cabins, beach houses, & more
+ - [https://airbnb.co.za](https://airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UAirbnb | Iindawo eziqeshisayo zeholide, izindlu zamaplanga, izindlu ezingaselwandle, nokungakumbi
+ - [https://xh.airbnb.co.za](https://xh.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Izindawo eziqashisayo zamaholide, izindlu ezakhiwe ngamapulangwe, izindlu ezingasebhishi, nokunye
+ - [https://zu.airbnb.co.za](https://zu.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbus | Pioneering sustainable aerospace
+ - [http://www.airbushelicopters.co.za](http://www.airbushelicopters.co.za)
+ - date_published: 2021-06-11T00:00:00+00:00
+
+ ## Advance Data and Mobile Financial Services
+ - [https://www.airvantage.co.za](https://www.airvantage.co.za)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## Alfa Romeo official website ׀ Alfa Romeo South Africa
+ - [http://www.alfaromeo.co.za](http://www.alfaromeo.co.za)
+ - date_published: 2024-05-28T09:48:59+00:00
+
+ ## All Bursaries for 2024 Funding in South Africa
+ - [https://allbursaries.co.za](https://allbursaries.co.za)
+ - date_published: 2017-11-13T09:05:47+00:00
+
+ ## Amazon Brand Protection: Protect the Brand You Built
+ - [https://brandservices.amazon.co.za](https://brandservices.amazon.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## AMS homepage
+ - [https://www.angloms.co.za](https://www.angloms.co.za)
+ - date_published: 2024-08-11T04:06:38.879545+00:00
+
+ ## Home - Anomalous Developers
+ - [https://anomalous.co.za](https://anomalous.co.za)
+ - date_published: 2021-06-28T00:00:00+00:00
+
+ ## Arthritis Kids – Arthritis Kids South Africa
+ - [https://arthritiskids.co.za](https://arthritiskids.co.za)
+ - date_published: 2024-06-28T11:54:37.413491+00:00
+
+ ## Audi South Africa | Luxury and Premium Cars | Audi Car Models
+ - [https://www.audi.co.za](https://www.audi.co.za)
+ - date_published: 2024-07-19T20:27:17+00:00
+
+ ## Cars for sale in South Africa
+ - [https://www.autotrader.co.za](https://www.autotrader.co.za)
+ - date_published: 2024-08-19T12:55:49.288821+00:00
+
+ ## Bandwidth Blog | South African Technology and Gadget News
+ - [https://bandwidthblog.co.za](https://bandwidthblog.co.za)
+ - date_published: 2024-08-20T05:39:57.057393+00:00
+
+ ## Barely Normal | Hardly Strange - Barely Normal
+ - [https://barelynormal.co.za](https://barelynormal.co.za)
+ - date_published: 2024-01-09T19:17:05.832477+00:00
+
+ ## Home Page - Berries ZA
+ - [http://www.berriesza.co.za](http://www.berriesza.co.za)
+ - date_published: 2024-10-31T08:54:32.908532+00:00
+
+ ## Best Forex Brokers in South Africa - Top 10 Companies' List
+ - [https://www.bestforexbroker.co.za](https://www.bestforexbroker.co.za)
+ - date_published: 2024-10-20T07:37:45.456232+00:00
+
+ ## Official Google Africa Blog
+ - [http://google-africa.blogspot.co.za](http://google-africa.blogspot.co.za)
+ - date_published: 2024-08-12T04:31:54.636768+00:00
+
+ ## Broad Media
+ - [https://broadmedia.co.za](https://broadmedia.co.za)
+ - date_published: 2024-10-22T21:23:46.404172+00:00
+
+ ## https://brooker.co.za
+ - [https://brooker.co.za](https://brooker.co.za)
+ - date_published: 2023-10-19T00:46:28+00:00
+ - tags: ['personal', 'blog']
+
+ ## Welcome to Brother South Africa
+ - [https://brother.co.za](https://brother.co.za)
+ - date_published: 2024-05-02T11:28:43.011671+00:00
+
+ ## Brother Dealer Portal :: Login
+ - [https://dealerportal.brother.co.za](https://dealerportal.brother.co.za)
+ - date_published: 2024-06-17T21:11:09.366162+00:00
+
+ ## Brutech | Your Bru in High Performance Gaming Desktops, Prebuilts & More
+ - [https://www.brutech.co.za](https://www.brutech.co.za)
+ - date_published: 2024-07-13T13:46:52.869406+00:00
+
+ ## BT Games – South Africas Favourite Online Gaming Store
+ - [https://btgames.co.za](https://btgames.co.za)
+ - date_published: 2024-06-14T20:25:09+00:00
+
+ ## Business Insider Polska
+ - [https://www.businessinsider.co.za](https://www.businessinsider.co.za)
+ - date_published: 2023-10-25T23:05:39.649325+00:00
+
+ ## BusinessLIVE - Latest news and analysis from SA's business sector
+ - [https://www.businesslive.co.za](https://www.businesslive.co.za)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## BusinessTech – Business Technology news and views
+ - [https://businesstech.co.za](https://businesstech.co.za)
+ - date_published: 2024-03-18T22:26:03.441300+00:00
+
+ ## BusinessTech | Company Hub
+ - [https://companies.businesstech.co.za](https://companies.businesstech.co.za)
+ - date_published: 2024-05-11T08:04:23.451771+00:00
+
+ ## Business Talk with Michael Avery
+ - [https://talk.businesstech.co.za](https://talk.businesstech.co.za)
+ - date_published: 2024-05-11T08:04:21.489612+00:00
+
+ ## Capterra helps you find the right software for your business
+ - [https://www.capterra.co.za](https://www.capterra.co.za)
+ - date_published: 2024-07-19T18:05:12.170818+00:00
+
+ ## Homepage
+ - [https://casinoble.co.za](https://casinoble.co.za)
+ - date_published: 2024-09-19T20:32:42.151737+00:00
+
  ## Made Mighty - Cat phones South Africa
  - [https://catphones.co.za](https://catphones.co.za)
  - date_published: 2024-05-08T04:35:58.945461+00:00
@@ -1841,16 +2214,4 @@
  ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
  - [https://www.landrover.co.zw](https://www.landrover.co.zw)
  - date_published: 2024-07-09T17:14:28.294280+00:00
-
- ## Home - Mcheno and More...
- - [https://www.mcheno.co.zw](https://www.mcheno.co.zw)
- - date_published: 2024-05-02T13:58:19.553198+00:00
-
- ## The Sunday Mail | The Leading Family Newspaper in Zimbabwe
- - [https://www.sundaymail.co.zw](https://www.sundaymail.co.zw)
- - date_published: 2024-06-18T17:15:19+00:00
-
- ## Techzim
- - [http://www.techzim.co.zw](http://www.techzim.co.zw)
- - date_published: 2024-08-12T04:29:48+00:00
 

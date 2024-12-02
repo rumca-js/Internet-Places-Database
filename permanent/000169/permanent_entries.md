@@ -1,3 +1,84 @@
+ ## Popular Science Homepage | Popular Science
+ - [https://popsci.com](https://popsci.com)
+ - date_published: 2023-10-25T10:10:46.771446+00:00
+
+ ## Popular Science Shop
+ - [https://shop.popsci.com](https://shop.popsci.com)
+ - date_published: 2024-04-26T18:35:28.237693+00:00
+
+ ## Popular Science Store
+ - [https://store.popsci.com](https://store.popsci.com)
+ - date_published: 2024-04-26T18:35:29.750989+00:00
+
+ ## Page d'accueil - PopSkateLand
+ - [https://www.popskateland.com](https://www.popskateland.com)
+ - date_published: 2024-07-09T12:18:59.860220+00:00
+
+ ## Pop Star Name Generator > Get your Pop Star Music Name at Popstarname.com
+ - [http://popstarname.com](http://popstarname.com)
+ - date_published: 2024-07-04T14:48:42.352144+00:00
+
+ ## SULTANLIGA : Daftar Website Slot Online Bet 200 Buyspin Pragmatic
+ - [http://popstrip.com](http://popstrip.com)
+ - date_published: 2024-07-14T13:02:17.530258+00:00
+
+ ## POPSUGAR
+ - [http://popsugar.com](http://popsugar.com)
+ - date_published: 2024-10-31T23:08:40.348464+00:00
+
+ ## Poptropica - Play it Online at Coolmath Games
+ - [http://www.poptropica.com](http://www.poptropica.com)
+ - date_published: 2024-10-22T10:18:20.121647+00:00
+
+ ## Pop TV
+ - [https://www.poptv.com](https://www.poptv.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Popula: news and culture from planet Earth
+ - [https://popula.com](https://popula.com)
+ - date_published: 2024-07-14T13:04:32.814827+00:00
+
+ ## Popular Bank - Banking and Financial Services
+ - [https://www.popularbank.com](https://www.popularbank.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Popularcert - The Best ISO certification consultants
+ - [https://popularcert.com](https://popularcert.com)
+ - date_published: 2021-11-04T10:20:50+00:00
+
+ ## Popular Culture Gaming
+ - [http://popularculturegaming.com](http://popularculturegaming.com)
+ - date_published: 2024-06-30T09:40:46.607326+00:00
+
+ ## Popular Direct
+ - [https://accounts.populardirect.com](https://accounts.populardirect.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://populardirect.com](https://populardirect.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## PopularFX – The easiest feature rich WordPress Theme with 400 templates
+ - [https://popularfx.com](https://popularfx.com)
+ - date_published: 2024-05-06T22:34:52.937512+00:00
+
+ ## PopularityBazaar Social Media Boost Service | Buy Likes, Views & More
+ - [https://popularitybazaar.com](https://popularitybazaar.com)
+ - date_published: 2013-08-06T20:13:19+00:00
+
+ ## Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology
+ - [https://popularmechanics.com](https://popularmechanics.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+ - tags: ['mechanice', 'articles', 'science']
+
+ ## Hearst Magazines Subscriptions | Home  | Hearst Magazines
+ - [https://shop.popularmechanics.com](https://shop.popularmechanics.com)
+ - date_published: 2024-05-06T23:42:06.352408+00:00
+
+ ## Popular – Every UK#1 reviewed
+ - [https://popular-number1s.com](https://popular-number1s.com)
+ - date_published: 2024-07-04T08:55:31+00:00
+
  ## Popular Pays
  - [https://app.popularpays.com](https://app.popularpays.com)
  - date_published: 2024-10-02T20:48:29+00:00
@@ -3942,84 +4023,4 @@
  ## MCV/DEVELOP | Video games industry news, events, research and jobs
  - [https://150044068.v2.pressablecdn.com](https://150044068.v2.pressablecdn.com)
  - date_published: 2019-01-29T12:10:39+00:00
-
- ## WirtschaftsWoche Abo | Digital + Print | Direkt vom Verlag kaufen & Preisvorteil sichern
- - [https://150071919.v2.pressablecdn.com](https://150071919.v2.pressablecdn.com)
- - date_published: 2024-10-22T11:56:47.218338+00:00
-
- ## Issue #52
- - [https://150085848.v2.pressablecdn.com](https://150085848.v2.pressablecdn.com)
- - date_published: 2024-09-18T23:10:38+00:00
-
- ## The Smartest path to extending your runway.
- - [https://150095322.v2.pressablecdn.com](https://150095322.v2.pressablecdn.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Wayfinder - Hugh C. Howey - Bestselling Author
- - [https://150106973.v2.pressablecdn.com](https://150106973.v2.pressablecdn.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Doc Searls Weblog
- - [https://150108457.v2.pressablecdn.com](https://150108457.v2.pressablecdn.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## ProjectVRM
- - [https://150108465.v2.pressablecdn.com](https://150108465.v2.pressablecdn.com)
- - date_published: 2024-08-06T09:21:08+00:00
-
- ## Home - OpenSource.net
- - [https://150126476.v2.pressablecdn.com](https://150126476.v2.pressablecdn.com)
- - date_published: 2024-05-24T15:28:30.228113+00:00
-
- ## Home
- - [https://150131899.v2.pressablecdn.com](https://150131899.v2.pressablecdn.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home - Association of Science and Technology Centers
- - [https://150136929.v2.pressablecdn.com](https://150136929.v2.pressablecdn.com)
- - date_published: 2024-10-18T04:39:55.829166+00:00
-
- ## Civico – Powered by Sigma XI
- - [https://150216629.v2.pressablecdn.com](https://150216629.v2.pressablecdn.com)
- - date_published: 2024-10-19T04:00:56.934267+00:00
-
- ## AI Tool Details - Your Gateway to the Best AI Community
- - [https://150226542.v2.pressablecdn.com](https://150226542.v2.pressablecdn.com)
- - date_published: 2024-06-14T09:12:52+00:00
-
- ## TheDuranShop
- - [https://150247247.v2.pressablecdn.com](https://150247247.v2.pressablecdn.com)
- - date_published: 2024-07-03T18:45:19+00:00
-
- ## Home | Treatment Advocacy Center
- - [https://150275622.v2.pressablecdn.com](https://150275622.v2.pressablecdn.com)
- - date_published: 2024-07-01T17:02:57.207466+00:00
-
- ## Blue Federal Credit Union | For You. For Life. | Blue FCU
- - [https://150377261.v2.pressablecdn.com](https://150377261.v2.pressablecdn.com)
- - date_published: 2023-06-16T02:11:00+00:00
-
- ## Jason Zweig
- - [https://150385176.v2.pressablecdn.com](https://150385176.v2.pressablecdn.com)
- - date_published: 2024-08-19T08:24:39+00:00
-
- ## Regenerosity | Resourcing grassroots organizations
- - [https://150464550.v2.pressablecdn.com](https://150464550.v2.pressablecdn.com)
- - date_published: 2024-09-19T00:33:36+00:00
-
- ## WP Cloud
- - [https://150480360.v2.pressablecdn.com](https://150480360.v2.pressablecdn.com)
- - date_published: 2024-06-17T15:16:11+00:00
-
- ## Home
- - [https://150506300.v2.pressablecdn.com](https://150506300.v2.pressablecdn.com)
- - date_published: 2024-10-17T19:47:24.155734+00:00
-
- ## Retail Gazette | The #1 Free Source for Retail News
- - [https://150796872.v2.pressablecdn.com](https://150796872.v2.pressablecdn.com)
- - date_published: 2024-10-20T20:34:59.625077+00:00
-
- ## Marketing Beat - Daily Marketing News, Trends & Insight
- - [https://150799396.v2.pressablecdn.com](https://150799396.v2.pressablecdn.com)
- - date_published: 2024-10-17T10:31:13.258632+00:00
 

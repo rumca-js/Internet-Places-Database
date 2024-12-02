@@ -1,3 +1,11 @@
+ ## Welcome to the Center for Responsible AI at New York University
+ - [https://airesponsibly.com](https://airesponsibly.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## EMF Protection & Shielding | Better Than an EMF Blocker
+ - [https://airestech.com](https://airestech.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## Investors - American Aires
  - [https://investors.airestech.com](https://investors.airestech.com)
  - date_published: 2024-07-29T00:00:00+00:00
@@ -4058,12 +4066,4 @@
  - [https://alfredmegally.com](https://alfredmegally.com)
  - date_published: 2024-01-09T08:53:49.175773+00:00
  - tags: ['personal']
-
- ## Alfred's Notes
- - [https://notes.alfredmegally.com](https://notes.alfredmegally.com)
- - date_published: 2024-05-01T03:11:56.028921+00:00
-
- ## Alfresco Docs
- - [http://docs.alfresco.com](http://docs.alfresco.com)
- - date_published: 2024-07-19T12:32:46+00:00
 

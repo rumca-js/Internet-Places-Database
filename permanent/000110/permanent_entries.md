@@ -1,3 +1,51 @@
+ ## Turtl - Sign in
+ - [https://discover.gfk.com](https://discover.gfk.com)
+ - date_published: 2024-08-07T23:04:56.995537+00:00
+
+ ## Assests
+ - [https://interactive.gfk.com](https://interactive.gfk.com)
+ - date_published: 2023-11-09T11:52:50+00:00
+
+ ## gfknewron
+ - [https://platform.gfk.com](https://platform.gfk.com)
+ - date_published: 2024-06-25T23:20:16+00:00
+
+ ## VDP
+ - [https://vdp.gfk.com](https://vdp.gfk.com)
+ - date_published: 2024-08-07T23:04:50.121123+00:00
+
+ ## AI-powered market intelligence and consulting service powered by GfK
+ - [https://www.gfk.com](https://www.gfk.com)
+ - date_published: 2024-04-28T02:14:02.489035+00:00
+
+ ## Target Consumers Effectively | Consumer Panel Services GfK
+ - [https://www.gfk-cps.com](https://www.gfk-cps.com)
+ - date_published: 2024-06-19T23:23:18+00:00
+
+ ## GFL Environmental Inc.
+ - [https://gflenv.com](https://gflenv.com)
+ - date_published: 2024-09-04T19:53:55.123687+00:00
+
+ ## Global Finance Magazine
+ - [https://gfmag.com](https://gfmag.com)
+ - date_published: 2024-06-21T15:17:16+00:00
+
+ ## GFM Enterprises | Cape Cod Excavating Services
+ - [https://www.gfmexcavating.com](https://www.gfmexcavating.com)
+ - date_published: 2024-10-14T20:24:29.088202+00:00
+
+ ## Character Designer Illustrator | G. F. Newland Illustration etc
+ - [http://www.gfnewland.com](http://www.gfnewland.com)
+ - date_published: 2024-06-24T09:33:00.325321+00:00
+
+ ## IT solutions for time management, MES & access control | GFOS
+ - [https://www.gfos.com](https://www.gfos.com)
+ - date_published: 2024-08-16T12:20:27+00:00
+
+ ## GFOTY.com
+ - [https://www.gfoty.com](https://www.gfoty.com)
+ - date_published: 2024-06-18T16:53:23.397486+00:00
+
  ## Gualtiero Frigerio
  - [https://www.gfrigerio.com](https://www.gfrigerio.com)
  - date_published: 2024-06-23T14:36:19.978784+00:00
@@ -1917,7 +1965,7 @@
  ## GitHub · Build and ship software on a single, collaborative platform
  - [https://github.com](https://github.com)
  - date_published: 2023-10-25T14:42:43.938249+00:00
- - tags: ['gatekeeper', 'software platform']
+ - tags: ['gateway', 'software platform', 'gatekeeper']
 
  ## GitHub - ImKKingshuk/Awesome-CustomROM: Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
  - [https://github.com/ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM)
@@ -4066,52 +4114,4 @@
  ## Global Predictions
  - [https://globalpredictions.com](https://globalpredictions.com)
  - date_published: 2024-10-27T19:37:46+00:00
-
- ## Global Press Hub
- - [https://globalpresshub.com](https://globalpresshub.com)
- - date_published: 2024-10-29T16:36:38.657899+00:00
-
- ## Home page
- - [https://www.globalprivatebankingawards.com](https://www.globalprivatebankingawards.com)
- - date_published: 2024-06-19T23:27:03.734725+00:00
-
- ## Global Projects View
- - [https://www.globalprojectsview.com](https://www.globalprojectsview.com)
- - date_published: 2024-09-15T23:33:52.993477+00:00
-
- ## GPS Kota – Just another WordPress site
- - [http://www.globalpublicschool.com](http://www.globalpublicschool.com)
- - date_published: 2024-07-14T09:22:24.780405+00:00
-
- ## IARC ratings for mobile and digitally delivered games from International Age Rating Coalition
- - [https://globalratings.com](https://globalratings.com)
- - date_published: 2024-06-15T03:36:45.059633+00:00
-
- ## Web Design, Development, Hosting, and Digital Marketing in Ames, Iowa
- - [https://www.globalreach.com](https://www.globalreach.com)
- - date_published: 2024-07-21T23:19:50.310933+00:00
-
- ## Global Rescue – Medical & Security Evacuation, Field Rescue, Intelligence Reporting
- - [https://www.globalrescue.com](https://www.globalrescue.com)
- - date_published: 2024-07-01T10:39:19.272204+00:00
-
- ## Main
- - [http://globalriskcommunity.com](http://globalriskcommunity.com)
- - date_published: 2024-09-24T22:53:10.658606+00:00
-
- ## Feedback
- - [https://feedback.global-roam.com](https://feedback.global-roam.com)
- - date_published: 2024-07-15T14:15:32+00:00
-
- ## Global-Roam | Making the energy market understandable.
- - [http://home.global-roam.com](http://home.global-roam.com)
- - date_published: 2024-09-16T21:03:55.220987+00:00
-
- ## Commercial Roofing Contractors - Global Roofing Group
- - [http://www.globalroofinggroup.com](http://www.globalroofinggroup.com)
- - date_published: 2024-10-28T00:49:49.622968+00:00
-
- ## Global Sadaqah
- - [https://admin.globalsadaqah.com](https://admin.globalsadaqah.com)
- - date_published: 2024-10-11T13:37:10.722660+00:00
 

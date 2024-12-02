@@ -1,3 +1,319 @@
+ ## Global Privacy Control — Take Control Of Your Privacy
+ - [https://globalprivacycontrol.org](https://globalprivacycontrol.org)
+ - date_published: 2024-04-29T04:13:48.785981+00:00
+
+ ## The Global Power System Transformation Consortium (G-PST)
+ - [https://globalpst.org](https://globalpst.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Global Centre for the Responsibility to Protect
+ - [http://www.globalr2p.org](http://www.globalr2p.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home
+ - [https://globalrecognitionawards.org](https://globalrecognitionawards.org)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## GRI - Home
+ - [https://www.globalreporting.org](https://www.globalreporting.org)
+ - date_published: 2024-08-07T23:44:13.696208+00:00
+
+ ## RFF
+ - [https://globalrff.org](https://globalrff.org)
+ - date_published: 2024-06-22T15:26:19.302210+00:00
+
+ ## Science & Research Journals | Global Science Research Journals
+ - [http://globalscienceresearchjournals.org](http://globalscienceresearchjournals.org)
+ - date_published: 2024-10-29T17:44:21.211356+00:00
+
+ ## GlobalSecurity.org
+ - [http://www.globalsecurity.org](http://www.globalsecurity.org)
+ - date_published: 2024-06-27T09:28:03.051679+00:00
+
+ ## Global Shapers Community
+ - [http://globalshapers.org](http://globalshapers.org)
+ - date_published: 2024-07-08T11:03:36+00:00
+
+ ## Home | The Global Shield against Climate Risks
+ - [https://www.globalshield.org](https://www.globalshield.org)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## The Global Solutions Initiative
+ - [https://www.global-solutions-initiative.org](https://www.global-solutions-initiative.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home - GOTS - Global Organic Textile Standard
+ - [https://www.global-standard.org](https://www.global-standard.org)
+ - date_published: 2024-10-21T08:58:24.958108+00:00
+
+ ## Global Tech Advocates
+ - [https://www.globaltechadvocates.org](https://www.globaltechadvocates.org)
+ - date_published: 2024-10-22T06:34:44.026563+00:00
+
+ ## Maximizing Progress
+ - [http://globalties.org](http://globalties.org)
+ - date_published: 2024-05-27T03:04:00+00:00
+
+ ## globalvoice.org - Ta strona jest na sprzedaż! - global voice Zasoby i informacje.
+ - [https://am.globalvoice.org](https://am.globalvoice.org)
+ - date_published: 2024-10-18T06:02:47.743429+00:00
+
+ ## Global Voices Advox · Defending Free Speech Online
+ - [https://advox.globalvoices.org](https://advox.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices በአማርኛ · የዜጎች መገናኛ ብዙሐን ከዓለም ሕዝቦች
+ - [https://am.globalvoices.org](https://am.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices الأصوات العالمية · أخبار الصحافة الشعبية من كافة أنحاء العالم
+ - [https://ar.globalvoices.org](https://ar.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Aymarata · Uraqpachat Medios ciudadano-mp lurat isturyanaka
+ - [https://aym.globalvoices.org](https://aym.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices на български · Гражданска журналистика от цял свят.
+ - [https://bg.globalvoices.org](https://bg.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices বাংলা ভার্সন · সারা বিশ্ব থেকে নাগরিক গণমাধ্যমের গল্প
+ - [https://bn.globalvoices.org](https://bn.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices en Català · Històries dels mitjans ciutadans de tot el món
+ - [https://ca.globalvoices.org](https://ca.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Community Blog · Join the Conversation!
+ - [https://community.globalvoices.org](https://community.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices v češtině · Občanská žurnalistika z celého světa
+ - [https://cs.globalvoices.org](https://cs.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices på dansk · Borgermediehistorier fra hele verden
+ - [https://da.globalvoices.org](https://da.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices auf Deutsch · Bürgermedien-Artikel aus aller Welt
+ - [https://de.globalvoices.org](https://de.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices στα Ελληνικά · Ιστορίες πολιτών-δημοσιογράφων από όλο τον κόσμο
+ - [https://el.globalvoices.org](https://el.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices en Esperanto · Lokaj perspektivoj por tutmonda publiko
+ - [https://eo.globalvoices.org](https://eo.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices en Español · Historias de medios ciudadanos de todo el mundo
+ - [https://es.globalvoices.org](https://es.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices به فارسی · رسانه‌های مردمی از سرتاسر جهان
+ - [https://fa.globalvoices.org](https://fa.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices sa Filipino · Ang mundo ay nagsasalita, nakikinig ka ba?
+ - [https://fil.globalvoices.org](https://fil.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices en Français · L'info du monde entier, par les blogs et réseaux sociaux
+ - [https://fr.globalvoices.org](https://fr.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices · Local perspectives for a global audience
+ - [https://globalvoices.org](https://globalvoices.org)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Global Voices בעברית · תקשורת אזרחית מרחבי העולם
+ - [https://he.globalvoices.org](https://he.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices हिन्दी में · वैश्विक दर्शकों के लिए स्थानीय दृष्टिकोण
+ - [https://hi.globalvoices.org](https://hi.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Magyarul · Történetek a közösségi médiából a világ minden tájáról.
+ - [https://hu.globalvoices.org](https://hu.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices dalam bahasa Indonesia · Kisah-kisah dari berbagai outlet jurnalisme warga di seluruh dunia.
+ - [https://id.globalvoices.org](https://id.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices n’asusu Igbo · The world is talking, are you listening? [edit this in settings]
+ - [https://ig.globalvoices.org](https://ig.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices in Italiano · Post sui citizen media da ogni parte del mondo
+ - [https://it.globalvoices.org](https://it.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices 日本語 · 世界中の市民メディア発
+ - [https://jp.globalvoices.org](https://jp.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Қазақша қазақ · Бүкіл әлемнен азаматтық журналистика хикаялары
+ - [https://kk.globalvoices.org](https://kk.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ជាភាសាខ្មែរ · សារព័ត៌មាន​​របស់​អ្នក​​សារព័ត៌មាន​​​ក្នុង​មូលដ្ឋាន​មក​ពី​ជុំវិញ​ពិភពលោក​
+ - [https://km.globalvoices.org](https://km.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices 한국어 · 전세계의 민영방송 화제거리들
+ - [https://ko.globalvoices.org](https://ko.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices بەكوردی · Citizen media stories from around the world
+ - [https://ku.globalvoices.org](https://ku.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices teny Malagasy · Tantara ifanakalozan'olontsotra avy amin'ny lafivalon'izao tontolo izao
+ - [https://mg.globalvoices.org](https://mg.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices на македонски · Приказни од граѓански медиуми од целиот свет
+ - [https://mk.globalvoices.org](https://mk.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices မြန်မာ · ကမ္ဘာ​တစ်​ဝန်း​ရှိ ပြည်​သူ​များ၏ သ​တင်း​များ
+ - [https://my.globalvoices.org](https://my.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices नेपालीमा · The world is talking, are you listening? [edit this in settings]
+ - [https://ne.globalvoices.org](https://ne.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## NewsFrames · Collaborative Insight into Media Narratives
+ - [https://newsframes.globalvoices.org](https://newsframes.globalvoices.org)
+ - date_published: 2024-10-18T06:21:55.169917+00:00
+
+ ## Global Voices in het Nederlands · Artikelen uit burgermedia van over de hele wereld
+ - [https://nl.globalvoices.org](https://nl.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## ଓଡ଼ିଆରେ Global Voices · ସମଗ୍ର ଜଗତରୁ ନାଗରିକଙ୍କ କାହାଣୀମାନ
+ - [https://or.globalvoices.org](https://or.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ਪੰਜਾਬੀ ਵਿੱਚ · ਦੁਨੀਆਂ ਭਰ ਤੋਂ ਨਾਗਰਿਕ ਮੀਡੀਆ ਕਹਾਣੀਆਂ
+ - [https://pa.globalvoices.org](https://pa.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices po polsku · Artykuły z mediów obywatelskich z całego świata
+ - [https://pl.globalvoices.org](https://pl.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices پښتو کې · ښاري رسنۍ خبرونه د نړۍ له شاوخوا څخه
+ - [https://ps.globalvoices.org](https://ps.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices em Português · Notícias sobre mídia cidadã de todos os cantos do mundo
+ - [https://pt.globalvoices.org](https://pt.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Rising Voices · Helping the global population join the global conversation
+ - [https://rising.globalvoices.org](https://rising.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices în Română · Ştirile scrise de tine! Ştiri sociale din întreaga lume
+ - [https://ro.globalvoices.org](https://ro.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices по-русски · Истории гражданской журналистики со всего мира
+ - [https://ru.globalvoices.org](https://ru.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ᱥᱟᱱᱛᱟᱲᱤᱛᱮ · ᱜᱚᱴᱟ ᱡᱮᱜᱮᱛ ᱠᱷᱚᱱ ᱱᱟᱜᱟᱨᱤᱭᱟᱹ ᱢᱤᱰᱤᱭᱟ ᱵᱮᱣᱨᱟ
+ - [https://sat.globalvoices.org](https://sat.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices në Shqip · Artikuj nga mediat e qytetarëve nga e gjithë bota
+ - [https://sq.globalvoices.org](https://sq.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices na srpskom · Tekstovi građanskih medija iz celog sveta
+ - [https://sr.globalvoices.org](https://sr.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices på svenska · Medborgarartiklar från hela världen
+ - [https://sv.globalvoices.org](https://sv.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices in Swahili · Habari za uanahabari wa kiraia kutoka duniani kote
+ - [https://sw.globalvoices.org](https://sw.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Ho-Tetun · Publikasaun media sidadaun iha mundu
+ - [https://tet.globalvoices.org](https://tet.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Türkçe · Tüm dünyadan vatandaş haberleri
+ - [https://tr.globalvoices.org](https://tr.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices по-українськи · Історії громадських медіа з усього світу
+ - [https://uk.globalvoices.org](https://uk.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices اردو میں · دنیا بھر سے شہری میڈیا کہانیاں
+ - [https://ur.globalvoices.org](https://ur.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ўзбек тилида · Жаҳон бўйлаб фуқаролик оммавий ахборот воситалари
+ - [https://uz.globalvoices.org](https://uz.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ⲃⲉ-ⲛογπίⲛ · The world is talking, are you listening? [edit this in settings]
+ - [https://xnz.globalvoices.org](https://xnz.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices ní-Yorùbá · Ìròyìn ọmọ ìlú jákèjádò Ilé-ayé
+ - [https://yo.globalvoices.org](https://yo.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices 简体中文 · 來自世界各地的公民媒體報導
+ - [https://zhs.globalvoices.org](https://zhs.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices 繁體中文 · 來自世界各地的公民媒體報導
+ - [https://zht.globalvoices.org](https://zht.globalvoices.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Global Voices Advox · Defending Free Speech Online
+ - [https://advocacy.globalvoicesonline.org](https://advocacy.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:02:43.309042+00:00
+
+ ## Global Voices በአማርኛ · የዜጎች መገናኛ ብዙሐን ከዓለም ሕዝቦች
+ - [https://am.globalvoicesonline.org](https://am.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:02:45.920438+00:00
+
+ ## Global Voices الأصوات العالمية · أخبار الصحافة الشعبية من كافة أنحاء العالم
+ - [https://ar.globalvoicesonline.org](https://ar.globalvoicesonline.org)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Global Voices Aymarata · Uraqpachat Medios ciudadano-mp lurat isturyanaka
+ - [https://ay.globalvoicesonline.org](https://ay.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:13:04.173001+00:00
+
+ ## Global Voices en Català · Històries dels mitjans ciutadans de tot el món
+ - [https://ca.globalvoicesonline.org](https://ca.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:17:37.139457+00:00
+
+ ## Global Voices Community Blog · Join the Conversation!
+ - [https://community.globalvoicesonline.org](https://community.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:14:24.930513+00:00
+
+ ## Global Voices v češtině · Občanská žurnalistika z celého světa
+ - [https://cs.globalvoicesonline.org](https://cs.globalvoicesonline.org)
+ - date_published: 2024-10-18T06:06:20.851557+00:00
+
  ## Global Voices på dansk · Borgermediehistorier fra hele verden
  - [https://da.globalvoicesonline.org](https://da.globalvoicesonline.org)
  - date_published: 2024-10-18T06:03:10.532085+00:00
@@ -2634,6 +2950,10 @@
  - [http://hacking-scala.org](http://hacking-scala.org)
  - date_published: 2024-08-07T16:23:02.764237+00:00
 
+ ## Hacking Tutorials - The best Step-by-Step Hacking Tutorials
+ - [https://www.hackingtutorials.org](https://www.hackingtutorials.org)
+ - date_published: 2024-12-01T18:47:59.772494+00:00
+
  ## HackInScience — Python Exercises
  - [https://hackinscience.org](https://hackinscience.org)
  - date_published: 2024-05-08T00:37:59.936924+00:00
@@ -3732,325 +4052,4 @@
  ## HCSSiM Summer Math Program
  - [http://www.hcssim.org](http://www.hcssim.org)
  - date_published: 2024-04-10T00:00:00+00:00
-
- ## Health Care Transformation Task Force | Patients, Payers, Providers and Purchasers
- - [https://hcttf.org](https://hcttf.org)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## HCV Network | We protect people and nature
- - [https://hcvnetwork.org](https://hcvnetwork.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HCV 2030 Roadmap | HCV Network
- - [http://roadmap.hcvnetwork.org](http://roadmap.hcvnetwork.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home 2025 - HDAW 2025
- - [https://www.hdaw.org](https://www.hdaw.org)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Login :: HDBits
- - [https://hdbits.org](https://hdbits.org)
- - date_published: 2024-11-07T08:06:02+00:00
- - tags: ['piracy']
-
- ## HDC | Historic Districts Council
- - [https://hdc.org](https://hdc.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## HDCA: Welcome to the HDCA
- - [https://hd-ca.org](https://hd-ca.org)
- - date_published: 2024-06-29T06:14:05.574711+00:00
-
- ## HDF Forum
- - [https://forum.hdfgroup.org](https://forum.hdfgroup.org)
- - date_published: 2024-10-16T05:59:40.895902+00:00
-
- ## Jira Service Management
- - [https://help.hdfgroup.org](https://help.hdfgroup.org)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## myHDF5 · Explore & Visualize HDF5 Files
- - [https://myhdf5.hdfgroup.org](https://myhdf5.hdfgroup.org)
- - date_published: 2024-10-16T05:59:47.542767+00:00
-
- ## The HDF Group Support Site
- - [https://portal.hdfgroup.org](https://portal.hdfgroup.org)
- - date_published: 2024-10-03T22:36:14+00:00
-
- ## The HDF Group - Information, Support, and Software
- - [https://support.hdfgroup.org](https://support.hdfgroup.org)
- - date_published: 2024-06-17T03:17:43.173024+00:00
-
- ## The HDF Group - ensuring long-term access and usability of HDF data and supporting users of HDF technologies
- - [https://www.hdfgroup.org](https://www.hdfgroup.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Human Data Interaction
- - [https://hdi-network.org](https://hdi-network.org)
- - date_published: 2024-10-27T21:50:56.763937+00:00
-
- ## HDMI :: Login
- - [https://adopter.hdmi.org](https://adopter.hdmi.org)
- - date_published: 2024-08-18T19:01:02.887397+00:00
-
- ## HDMI Licensing Administrator, Inc.
- - [https://hdmi.org](https://hdmi.org)
- - date_published: 2023-10-25T21:28:19.437472+00:00
-
- ## HdrHistogram
- - [http://hdrhistogram.org](http://hdrhistogram.org)
- - date_published: 2024-05-06T09:01:06.439776+00:00
-
- ## HDR+ burst photography dataset
- - [http://hdrplusdata.org](http://hdrplusdata.org)
- - date_published: 2020-03-03T20:15:00+00:00
-
- ## From Cosmic Birth to Living Earths
- - [http://www.hdstvision.org](http://www.hdstvision.org)
- - date_published: 2024-08-18T20:14:19.255810+00:00
-
- ## Healing Spring Monastery | Plum Village
- - [https://healingspringmonastery.org](https://healingspringmonastery.org)
- - date_published: 2020-02-28T11:34:37+00:00
-
- ## Home - HEAL Palestine
- - [https://www.healpalestine.org](https://www.healpalestine.org)
- - date_published: 2024-09-06T01:13:42.444932+00:00
-
- ## https://www.healthaffairs.org
- - [https://healthaffairs.org](https://healthaffairs.org)
- - date_published: 2023-10-25T21:28:19.809492+00:00
-
- ## Homepage
- - [https://healthandcareresearchwales.org](https://healthandcareresearchwales.org)
- - date_published: 2024-10-21T10:29:27.913581+00:00
-
- ## Health Record Banking Alliance
- - [https://www.healthbanking.org](https://www.healthbanking.org)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Healthcare Network | Addressing Every Patient’s Needs
- - [https://healthcareswfl.org](https://healthcareswfl.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## 健康宝典 | www.healthcn.org
- - [https://www.healthcn.org](https://www.healthcn.org)
- - date_published: 2024-07-02T22:47:51.754524+00:00
-
- ## HealthCommentary
- - [https://www.healthcommentary.org](https://www.healthcommentary.org)
- - date_published: 2024-09-18T19:47:40+00:00
-
- ## Home
- - [https://healthcostinstitute.org](https://healthcostinstitute.org)
- - date_published: 2024-09-13T17:47:45+00:00
-
- ## Health Council of South Florida
- - [https://www.healthcouncil.org](https://www.healthcouncil.org)
- - date_published: 2024-07-03T14:50:57.651600+00:00
-
- ## IHME | COVID-19 Projections
- - [https://covid19.healthdata.org](https://covid19.healthdata.org)
- - date_published: 2024-05-09T08:45:28.320648+00:00
-
- ## Global Health Data Exchange | GHDx
- - [https://ghdx.healthdata.org](https://ghdx.healthdata.org)
- - date_published: 2024-08-11T15:00:37+00:00
-
- ## Homepage | Institute for Health Metrics and Evaluation
- - [https://healthdata.org](https://healthdata.org)
- - date_published: 2024-02-24T18:07:00.610470+00:00
-
- ## Home - Heal the Bay
- - [https://www.healthebay.org](https://www.healthebay.org)
- - date_published: 2016-10-12T18:13:49+00:00
-
- ## Wisconsin Symposium on Emotion
- - [https://healthemotions.org](https://healthemotions.org)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Scientific Reference to Reliable Health Information - Health Feedback
- - [https://healthfeedback.org](https://healthfeedback.org)
- - date_published: 2023-10-25T21:28:21.366345+00:00
-
- ## Home Page - United Methodist Health Ministry Fund
- - [https://healthfund.org](https://healthfund.org)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Health icons
- - [https://healthicons.org](https://healthicons.org)
- - date_published: 2024-04-26T11:32:28+00:00
-
- ## Bold Compassion.
- - [https://healthiermomsandbabies.org](https://healthiermomsandbabies.org)
- - date_published: 2024-06-12T22:22:56.961654+00:00
-
- ## Find affordable health insurance plans | healthinsurance.org
- - [https://www.healthinsurance.org](https://www.healthinsurance.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://healthix.org](https://healthix.org)
- - date_published: 2024-09-13T17:47:08.104377+00:00
-
- ## Home - Health Policy Watch
- - [http://healthpolicy-watch.org](http://healthpolicy-watch.org)
- - date_published: 2024-10-18T18:05:08.613366+00:00
-
- ## Audere | Equitable Care Worldwide
- - [https://www.healthpulsenow.org](https://www.healthpulsenow.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home Page - Beyond the Basics
- - [https://www.healthreformbeyondthebasics.org](https://www.healthreformbeyondthebasics.org)
- - date_published: 2024-08-18T20:29:08.925949+00:00
-
- ## Health Rising - Finding Answers for Fibromyalgia and Chronic Fatigue Syndrome (ME/CFS)
- - [https://www.healthrising.org](https://www.healthrising.org)
- - date_published: 2024-10-29T16:23:47.622766+00:00
-
- ## Health Sciences South Carolina - Health Sciences South Carolina
- - [https://www.healthsciencessc.org](https://www.healthsciencessc.org)
- - date_published: 2024-03-18T20:05:17+00:00
-
- ## Health Story Collaborative
- - [https://www.healthstorycollaborative.org](https://www.healthstorycollaborative.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home - Peterson-KFF Health System Tracker
- - [http://www.healthsystemtracker.org](http://www.healthsystemtracker.org)
- - date_published: 2024-07-07T04:27:02.126722+00:00
-
- ## HealthTree
- - [https://healthtree.org](https://healthtree.org)
- - date_published: 2024-09-13T17:48:08.981319+00:00
-
- ## HealthUnity
- - [https://www.healthunity.org](https://www.healthunity.org)
- - date_published: 2024-07-01T22:47:03.742210+00:00
-
- ## Homepage - Healthy 10 Challenge
- - [https://healthy10challenge.org](https://healthy10challenge.org)
- - date_published: 2020-12-17T00:00:00+00:00
-
- ## Healthy Alliance
- - [https://healthyalliance.org](https://healthyalliance.org)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## HealthyChildren.org - From the American Academy of Pediatrics
- - [https://www.healthychildren.org](https://www.healthychildren.org)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home - CONSORTIUM FOR A HEALTHIER MIAMI-DADE
- - [https://www.healthymiamidade.org](https://www.healthymiamidade.org)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Business - Webflow HTML website template
- - [https://map.healthyplacesindex.org](https://map.healthyplacesindex.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Healthy Places Index® Policy Guides
- - [https://policies.healthyplacesindex.org](https://policies.healthyplacesindex.org)
- - date_published: 2024-07-17T12:27:06.367681+00:00
-
- ## Business - Webflow HTML website template
- - [https://www.healthyplacesindex.org](https://www.healthyplacesindex.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Healthy Start of Southwest Florida | We're Your Place to Start
- - [https://healthystartbaby.org](https://healthystartbaby.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Improve Infant Health - Healthy Start Coalition of Orange County
- - [https://www.healthystartorange.org](https://www.healthystartorange.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Healthy St. Lucie
- - [http://www.healthystlucie.org](http://www.healthystlucie.org)
- - date_published: 2024-07-03T14:47:29.007096+00:00
-
- ## Hawaiian Ecosystems at Risk project (HEAR)
- - [http://www.hear.org](http://www.hear.org)
- - date_published: 2022-09-06T17:46:49+00:00
-
- ## Hear Arizona
- - [https://heararizona.org](https://heararizona.org)
- - date_published: 2024-06-28T20:49:32+00:00
-
- ## National Hearing Voices Network – For people who hear voices, see visions or have other unusual perceptions
- - [https://www.hearing-voices.org](https://www.hearing-voices.org)
- - date_published: 2024-06-21T19:42:31.746395+00:00
-
- ## Success!
- - [http://hearingvoicescymru.org](http://hearingvoicescymru.org)
- - date_published: 2022-02-04T14:56:13+00:00
-
- ## Sign In or Create an Account - American Heart Association
- - [https://ahasso.heart.org](https://ahasso.heart.org)
- - date_published: 2024-06-14T16:13:10.347623+00:00
-
- ## Sign In or Create an Account - American Heart Association
- - [https://ahassoqa.heart.org](https://ahassoqa.heart.org)
- - date_published: 2024-09-15T09:52:48.126957+00:00
-
- ## American Heart Association CPR &amp; First Aid
- - [https://cpr.heart.org](https://cpr.heart.org)
- - date_published: 2024-06-19T14:40:26.304307+00:00
-
- ## Home, AHA
- - [https://ebooks.heart.org](https://ebooks.heart.org)
- - date_published: 2024-10-29T08:14:18.284376+00:00
-
- ## 2020 American Heart Association Guidelines for CPR and ECC
- - [https://eccguidelines.heart.org](https://eccguidelines.heart.org)
- - date_published: 2024-10-29T08:16:42.685669+00:00
-
- ## Professional Education Hub
- - [https://education.heart.org](https://education.heart.org)
- - date_published: 2024-10-14T16:14:44+00:00
-
- ## American Heart Association | To be a relentless force for a world of longer, healthier lives
- - [https://heart.org](https://heart.org)
- - date_published: 2023-10-25T21:28:27.272418+00:00
-
- ## The Road to a Healthy Heart Starts Here
- - [https://hospitalmaps.heart.org](https://hospitalmaps.heart.org)
- - date_published: 2024-06-19T14:41:03.508669+00:00
-
- ## American Heart Association International
- - [https://international.heart.org](https://international.heart.org)
- - date_published: 2024-06-19T14:40:15.723609+00:00
-
- ## American Heart Association
- - [https://mygiving.heart.org](https://mygiving.heart.org)
- - date_published: 2024-06-19T14:41:00.806122+00:00
-
- ## Welcome to the AHA/ASA Newsroom | American Heart Association
- - [https://newsroom.heart.org](https://newsroom.heart.org)
- - date_published: 2023-10-25T21:28:23.483045+00:00
-
- ## Professional Heart Daily
- - [https://professional.heart.org](https://professional.heart.org)
- - date_published: 2024-06-19T14:40:54.855591+00:00
-
- ## Cardiovascular & Stroke Jobs | American Heart Association
- - [https://professionaljobs.heart.org](https://professionaljobs.heart.org)
- - date_published: 2024-10-29T08:18:15.202572+00:00
-
- ## Recipes
- - [https://recipes.heart.org](https://recipes.heart.org)
- - date_published: 2024-10-29T08:17:29.939164+00:00
-
- ## ShopCPR - American Heart Association ECC & CPR
- - [https://shopcpr.heart.org](https://shopcpr.heart.org)
- - date_published: 2024-06-19T14:39:57.362654+00:00
-
- ## Static on AWS
- - [https://static.heart.org](https://static.heart.org)
- - date_published: 2016-04-01T03:11:23+00:00
-
- ## AHA Elaboration Experience
- - [https://supportnetwork.heart.org](https://supportnetwork.heart.org)
- - date_published: 2023-06-20T14:40:57+00:00
 
