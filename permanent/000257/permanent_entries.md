@@ -1,3 +1,756 @@
+ ## ASU in California | ASU in California
+ - [https://california.asu.edu](https://california.asu.edu)
+ - date_published: 2024-07-07T01:52:28.973319+00:00
+
+ ## Academic Catalog | Arizona State University
+ - [https://catalog.asu.edu](https://catalog.asu.edu)
+ - date_published: 2024-07-22T08:37:41.768609+00:00
+
+ ## Home - Cybersecurity and Trusted Foundations
+ - [https://cdf.asu.edu](https://cdf.asu.edu)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Computer Engineering Graduate Program - ASU Engineering
+ - [https://cen.engineering.asu.edu](https://cen.engineering.asu.edu)
+ - date_published: 2023-09-22T00:00:00+00:00
+
+ ## Home | Center for Indian Education
+ - [https://center-for-indian-education.asu.edu](https://center-for-indian-education.asu.edu)
+ - date_published: 2024-07-09T15:15:59.414541+00:00
+
+ ## Welcome to Business and Finance | Arizona State University
+ - [https://cfo.asu.edu](https://cfo.asu.edu)
+ - date_published: 2024-04-30T03:11:42.763298+00:00
+
+ ## Home | Center for Gender Equity in Science and Technology
+ - [https://cgest.asu.edu](https://cgest.asu.edu)
+ - date_published: 2024-07-09T15:15:47.322275+00:00
+
+ ## Home - School of Computing and Augmented Intelligence
+ - [http://cidse.engineering.asu.edu](http://cidse.engineering.asu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Corporate Engagement and Strategic Partnerships | Arizona State University
+ - [https://corporate.asu.edu](https://corporate.asu.edu)
+ - date_published: 2024-07-07T01:52:03.787178+00:00
+
+ ## Your future starts now
+ - [https://cronkite.asu.edu](https://cronkite.asu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Center for Science and the Imagination - Center for Science and the Imagination
+ - [https://csi.asu.edu](https://csi.asu.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Home - Cybersecurity and Trusted Foundations
+ - [https://ctf.asu.edu](https://ctf.asu.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | ASU Center for Violence Prevention and Community Safety
+ - [https://cvpcs.asu.edu](https://cvpcs.asu.edu)
+ - date_published: 2024-05-09T06:51:20.596814+00:00
+
+ ## Home - Biodesign Europe
+ - [https://dcu.asu.edu](https://dcu.asu.edu)
+ - date_published: 2023-04-14T00:00:00+00:00
+
+ ## Search Academic Degrees and Programs | ASU
+ - [https://degrees.apps.asu.edu](https://degrees.apps.asu.edu)
+ - date_published: 2024-07-07T01:52:26.663959+00:00
+
+ ## Search Academic Degrees and Programs | ASU
+ - [https://degrees.asu.edu](https://degrees.asu.edu)
+ - date_published: 2024-07-22T08:37:44.652325+00:00
+
+ ## Home - Economic Development
+ - [https://economicdevelopment.asu.edu](https://economicdevelopment.asu.edu)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## EdPlus at ASU
+ - [http://edplus.asu.edu](http://edplus.asu.edu)
+ - date_published: 2024-08-11T04:49:59.783830+00:00
+
+ ## Home | Embryo Project Encyclopedia
+ - [https://embryo.asu.edu](https://embryo.asu.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Ira A. Fulton Schools of Engineering at Arizona State University
+ - [http://engineering.asu.edu](http://engineering.asu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home - J. Orin Edson Entrepreneurship + Innovation Institute
+ - [https://entrepreneurship.asu.edu](https://entrepreneurship.asu.edu)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Educational Outreach & Student Services | Educational Outreach and Student Services
+ - [https://eoss.asu.edu](https://eoss.asu.edu)
+ - date_published: 2024-07-09T15:16:00.449037+00:00
+
+ ## Center for Global Discovery and Conservation Science
+ - [https://gdcs.asu.edu](https://gdcs.asu.edu)
+ - date_published: 2024-10-15T07:11:47.428046+00:00
+
+ ## Home - Julie Ann Wrigley Global Futures Laboratory™
+ - [https://globalfutures.asu.edu](https://globalfutures.asu.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Global Security Initiative
+ - [https://globalsecurity.asu.edu](https://globalsecurity.asu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## ASU at Lake Havasu | ASU at Lake Havasu | ASU
+ - [https://havasu.asu.edu](https://havasu.asu.edu)
+ - date_published: 2024-08-01T23:25:01+00:00
+
+ ## Contact us | Arizona State University
+ - [https://help.asu.edu](https://help.asu.edu)
+ - date_published: 2024-07-20T00:58:05+00:00
+
+ ## Project Hieroglyph – Getting big things done
+ - [http://hieroglyph.asu.edu](http://hieroglyph.asu.edu)
+ - date_published: 2024-06-30T11:06:31.837548+00:00
+
+ ## ASU Student Housing | Arizona State University
+ - [https://housing.asu.edu](https://housing.asu.edu)
+ - date_published: 2024-07-18T23:20:42+00:00
+
+ ## ASU Search | Arizona State University
+ - [https://isearch.asu.edu](https://isearch.asu.edu)
+ - date_published: 2024-04-30T03:11:44.205532+00:00
+
+ ## KE News Portal
+ - [https://ke.news.prod.rtd.asu.edu](https://ke.news.prod.rtd.asu.edu)
+ - date_published: 2024-09-13T19:54:18.361342+00:00
+
+ ## Sandra Day O'Connor College of Law | ASU | Sandra Day O'Connor College of Law
+ - [https://law.asu.edu](https://law.asu.edu)
+ - date_published: 2024-07-16T23:00:27+00:00
+
+ ## ASU Provides Learning at Every Stage in Life
+ - [https://learning.asu.edu](https://learning.asu.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Arizona State University Library
+ - [https://lib.asu.edu](https://lib.asu.edu)
+ - date_published: 2024-06-30T01:28:45.481596+00:00
+
+ ## Dramatic Sunrise
+ - [http://lroc.sese.asu.edu](http://lroc.sese.asu.edu)
+ - date_published: 2024-10-29T18:20:34.223550+00:00
+
+ ## Homepage - Mayo Clinic ASU Alliance
+ - [https://mayo.asu.edu](https://mayo.asu.edu)
+ - date_published: 2024-08-11T04:49:32.650990+00:00
+
+ ## Login
+ - [https://my.asu.edu](https://my.asu.edu)
+ - date_published: 2024-04-30T03:11:39.034637+00:00
+
+ ## ASU/NASA Space Grant
+ - [http://nasa.asu.edu](http://nasa.asu.edu)
+ - date_published: 2024-07-09T16:49:11+00:00
+
+ ## Home | New American University
+ - [https://newamericanuniversity.asu.edu](https://newamericanuniversity.asu.edu)
+ - date_published: 2024-08-11T04:49:50.059777+00:00
+
+ ## ASU Now
+ - [https://news.asu.edu](https://news.asu.edu)
+ - date_published: 2023-11-02T16:39:16.908709+00:00
+
+ ## Media Relations & Strategic Communications | Arizona State University
+ - [https://newsroom.asu.edu](https://newsroom.asu.edu)
+ - date_published: 2024-04-30T03:11:24.106269+00:00
+
+ ## Hans D Mittelmann
+ - [http://plato.asu.edu](http://plato.asu.edu)
+ - date_published: 2024-10-13T13:00:26+00:00
+
+ ## President Michael Crow | Office of the President
+ - [https://president.asu.edu](https://president.asu.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Watts College of Public Service and Community Solutions
+ - [https://publicservice.asu.edu](https://publicservice.asu.edu)
+ - date_published: 2024-08-07T19:25:38+00:00
+
+ ## Robotics and Autonomous Systems - ASU Engineering
+ - [https://ras.engineering.asu.edu](https://ras.engineering.asu.edu)
+ - date_published: 2023-02-21T00:00:00+00:00
+
+ ## Knowledge Enterprise | Research at Arizona State University
+ - [https://research.asu.edu](https://research.asu.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home - School of Computing and Augmented Intelligence
+ - [https://scai.engineering.asu.edu](https://scai.engineering.asu.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home - School of Sustainability
+ - [https://schoolofsustainability.asu.edu](https://schoolofsustainability.asu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## ASU Search | Arizona State University
+ - [https://search.asu.edu](https://search.asu.edu)
+ - date_published: 2024-05-09T06:51:17.185359+00:00
+
+ ## Home
+ - [https://sefcom.asu.edu](https://sefcom.asu.edu)
+ - date_published: 2024-04-30T07:18:11.795462+00:00
+
+ ## Login
+ - [https://selfsub.asu.edu](https://selfsub.asu.edu)
+ - date_published: 2024-07-22T08:38:36.666286+00:00
+
+ ## Home - School for the Future of Innovation in Society
+ - [https://sfis.asu.edu](https://sfis.asu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home | Southwest Interdisciplinary Research Center
+ - [https://sirc.asu.edu](https://sirc.asu.edu)
+ - date_published: 2024-08-19T19:45:55.363513+00:00
+
+ ## Homepage | School of Social Transformation
+ - [https://sst.asu.edu](https://sst.asu.edu)
+ - date_published: 2024-05-09T05:35:55.602788+00:00
+
+ ## Home | ASU Students
+ - [https://students.asu.edu](https://students.asu.edu)
+ - date_published: 2024-04-30T03:11:45.321917+00:00
+
+ ## Home | Sun Devil Compliance
+ - [https://sundevilcompliance.asu.edu](https://sundevilcompliance.asu.edu)
+ - date_published: 2024-08-15T21:01:39+00:00
+
+ ## Service Portal - Service Portal
+ - [https://systemstatus.asu.edu](https://systemstatus.asu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Virtual Tour | Virtual Tours
+ - [https://tours.asu.edu](https://tours.asu.edu)
+ - date_published: 2024-07-07T01:52:30.048427+00:00
+
+ ## Tuition | Arizona State University
+ - [https://tuition.asu.edu](https://tuition.asu.edu)
+ - date_published: 2024-07-19T23:31:49+00:00
+
+ ## ASU United Way Campaign | ASU UnitedWay
+ - [http://unitedway.asu.edu](http://unitedway.asu.edu)
+ - date_published: 2024-08-11T04:49:47.403278+00:00
+
+ ## Visit ASU | Arizona State University
+ - [https://visit.asu.edu](https://visit.asu.edu)
+ - date_published: 2024-07-07T01:51:59.512420+00:00
+
+ ## Home | ASU in Washington D.C.
+ - [https://washingtondc.asu.edu](https://washingtondc.asu.edu)
+ - date_published: 2024-06-25T23:24:45+00:00
+
+ ## Home Page | Wellness
+ - [https://wellness.asu.edu](https://wellness.asu.edu)
+ - date_published: 2024-07-22T08:37:47.010886+00:00
+
+ ## NASA L'SPACE Program | NASA L'SPACE Program | United States
+ - [https://www.lspace.asu.edu](https://www.lspace.asu.edu)
+ - date_published: 2024-07-01T17:42:53.459444+00:00
+
+ ## Arizona State University
+ - [https://www.public.asu.edu](https://www.public.asu.edu)
+ - date_published: 2024-06-14T02:53:05.630344+00:00
+
+ ## Why is ASU #1 in innovation in the U.S.? | Your Future | Arizona State University
+ - [https://yourfuture.asu.edu](https://yourfuture.asu.edu)
+ - date_published: 2024-07-07T01:52:31.255540+00:00
+
+ ## The Association of Theological Schools
+ - [https://ats.edu](https://ats.edu)
+ - date_published: 2024-05-07T20:31:56.521868+00:00
+
+ ## HOME - Engage ATS
+ - [https://engage.ats.edu](https://engage.ats.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Study at AUBG| American University in Bulgaria
+ - [https://aubg.edu](https://aubg.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Alabama Agricultural Experiment Station / Science for Healthy, Sustainable Solutions
+ - [https://aaes.auburn.edu](https://aaes.auburn.edu)
+ - date_published: 2024-07-02T13:05:17.005680+00:00
+
+ ## Academic Support
+ - [https://academicsupport.auburn.edu](https://academicsupport.auburn.edu)
+ - date_published: 2024-07-22T08:23:32.171877+00:00
+
+ ## Accessibility || Auburn University
+ - [https://accessibility.auburn.edu](https://accessibility.auburn.edu)
+ - date_published: 2024-04-30T03:12:58.673704+00:00
+
+ ## Home
+ - [https://alumni.auburn.edu](https://alumni.auburn.edu)
+ - date_published: 2024-04-30T03:12:48.892467+00:00
+
+ ## AlumnIQ
+ - [https://alumniq.auburn.edu](https://alumniq.auburn.edu)
+ - date_published: 2024-04-30T03:11:56.838985+00:00
+
+ ## Undergraduate Admissions | Office of Undergraduate Admissions
+ - [https://apply.auburn.edu](https://apply.auburn.edu)
+ - date_published: 2024-07-22T08:24:59.626558+00:00
+
+ ## Default - LibAnswers
+ - [https://askalibrarian.auburn.edu](https://askalibrarian.auburn.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Login - AUthenticate
+ - [https://auaccess.auburn.edu](https://auaccess.auburn.edu)
+ - date_published: 2024-04-30T03:12:54.741278+00:00
+
+ ## Welcome to WebVoyáge
+ - [https://aubiecat.auburn.edu](https://aubiecat.auburn.edu)
+ - date_published: 2013-03-15T20:03:07+00:00
+
+ ## Auburn University Homepage
+ - [https://auburn.edu](https://auburn.edu)
+ - date_published: 2024-04-30T03:12:56.980800+00:00
+
+ ## AUrora Home
+ - [https://aurora.auburn.edu](https://aurora.auburn.edu)
+ - date_published: 2024-07-22T08:23:07.630784+00:00
+
+ ## Auburn University Bulletin < Auburn University
+ - [https://bulletin.auburn.edu](https://bulletin.auburn.edu)
+ - date_published: 2023-08-07T15:04:22+00:00
+
+ ## College of Architecture, Design and Construction
+ - [http://cadc.auburn.edu](http://cadc.auburn.edu)
+ - date_published: 2024-10-18T15:40:29.158576+00:00
+
+ ## Login - AUthenticate
+ - [https://cascade.auburn.edu](https://cascade.auburn.edu)
+ - date_published: 2024-07-22T08:24:57.070935+00:00
+
+ ## Search Home
+ - [http://catalog.lib.auburn.edu](http://catalog.lib.auburn.edu)
+ - date_published: 2024-07-22T08:23:29.578260+00:00
+
+ ## Center for Advanced Vehicle and Extreme Environment Electronics
+ - [https://cave.auburn.edu](https://cave.auburn.edu)
+ - date_published: 2022-06-03T14:56:46+00:00
+
+ ## Auburn University Template
+ - [https://cdn.auburn.edu](https://cdn.auburn.edu)
+ - date_published: 2024-04-30T03:11:47.346753+00:00
+
+ ## College of Forestry, Wildlife and Environment at Auburn University
+ - [https://cfwe.auburn.edu](https://cfwe.auburn.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## OIT Web Application Server
+ - [https://cws.auburn.edu](https://cws.auburn.edu)
+ - date_published: 2023-11-02T14:41:26+00:00
+
+ ## Auburn University Digital Collections
+ - [http://diglib.auburn.edu](http://diglib.auburn.edu)
+ - date_published: 2024-07-22T08:23:23.304625+00:00
+
+ ## Samuel Ginn College of Engineering
+ - [https://ecm.eng.auburn.edu](https://ecm.eng.auburn.edu)
+ - date_published: 2024-06-27T18:19:40+00:00
+
+ ## Samuel Ginn College of Engineering
+ - [https://eng.auburn.edu](https://eng.auburn.edu)
+ - date_published: 2024-05-07T22:23:50.010230+00:00
+
+ ## AUETD Home
+ - [https://etd.auburn.edu](https://etd.auburn.edu)
+ - date_published: 2024-04-30T03:13:11.690729+00:00
+
+ ## Jay and Susie Gogue Performing Arts Center | at Auburn University
+ - [https://goguecenter.auburn.edu](https://goguecenter.auburn.edu)
+ - date_published: 2024-05-23T19:07:17.624948+00:00
+
+ ## Jay and Susie Gogue Performing Arts Center
+ - [https://goguecentertickets.auburn.edu](https://goguecentertickets.auburn.edu)
+ - date_published: 2024-08-20T04:45:54.328573+00:00
+
+ ## Graduate School Forms
+ - [https://gradforms.auburn.edu](https://gradforms.auburn.edu)
+ - date_published: 2024-04-30T03:12:50.332998+00:00
+
+ ## Graduate School Home - Graduate School
+ - [https://graduate.auburn.edu](https://graduate.auburn.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Harbert College of Business
+ - [http://harbert.auburn.edu](http://harbert.auburn.edu)
+ - date_published: 2024-07-22T08:24:21.582690+00:00
+
+ ## Honors At Auburn | Honors College
+ - [http://honors.auburn.edu](http://honors.auburn.edu)
+ - date_published: 2024-07-22T08:24:36.979959+00:00
+
+ ## Auburn University Libraries / Illiad @ Auburn Libraries
+ - [https://illiad.lib.auburn.edu](https://illiad.lib.auburn.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Auburn University
+ - [https://lib.auburn.edu](https://lib.auburn.edu)
+ - date_published: 2024-04-30T03:13:07.785254+00:00
+
+ ## Auburn University Libraries / Electronic Resources Login
+ - [https://login.spot.lib.auburn.edu](https://login.spot.lib.auburn.edu)
+ - date_published: 2024-07-22T08:23:41.739258+00:00
+
+ ## Home
+ - [https://mccrary.auburn.edu](https://mccrary.auburn.edu)
+ - date_published: 2024-07-02T13:05:09.264700+00:00
+
+ ## New Venture Accelerator | Where Collaboration Begins
+ - [https://nva.auburn.edu](https://nva.auburn.edu)
+ - date_published: 2024-07-22T08:25:33.269352+00:00
+
+ ## Office of Communications and Marketing
+ - [https://ocm.auburn.edu](https://ocm.auburn.edu)
+ - date_published: 2024-04-30T03:11:55.792894+00:00
+
+ ## Auburn University |  Home
+ - [https://oira.auburn.edu](https://oira.auburn.edu)
+ - date_published: 2024-07-22T08:24:06.539231+00:00
+
+ ## OIT Web Application Server
+ - [https://oitapps.auburn.edu](https://oitapps.auburn.edu)
+ - date_published: 2023-11-02T14:41:26+00:00
+
+ ## Office of Undergraduate Research – Undergraduate research will set you apart.
+ - [https://our.auburn.edu](https://our.auburn.edu)
+ - date_published: 2024-07-22T08:14:08+00:00
+
+ ## Parent & Family Programs – Student Affairs
+ - [http://parentandfamily.auburn.edu](http://parentandfamily.auburn.edu)
+ - date_published: 2024-07-22T08:24:13.063245+00:00
+
+ ## Harrison College of Pharmacy
+ - [http://pharmacy.auburn.edu](http://pharmacy.auburn.edu)
+ - date_published: 2024-07-22T08:24:15.588180+00:00
+
+ ## 2022 Web Template
+ - [https://registrar.auburn.edu](https://registrar.auburn.edu)
+ - date_published: 2024-07-22T08:24:16.933073+00:00
+
+ ## Auburn University
+ - [https://search.auburn.edu](https://search.auburn.edu)
+ - date_published: 2024-04-30T03:12:00.122504+00:00
+
+ ## Auburn University Libraries / Electronic Resources Login
+ - [https://search.proquest.com.spot.lib.auburn.edu](https://search.proquest.com.spot.lib.auburn.edu)
+ - date_published: 2024-07-22T08:23:14.592186+00:00
+
+ ## Giving to Auburn
+ - [https://secure.auburn.edu](https://secure.auburn.edu)
+ - date_published: 2024-07-22T08:23:53.488772+00:00
+
+ ## Home
+ - [https://sites.auburn.edu](https://sites.auburn.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Auburn University Student Affairs
+ - [https://studentaffairs.auburn.edu](https://studentaffairs.auburn.edu)
+ - date_published: 2024-07-22T08:23:55.345700+00:00
+
+ ## Login - AUthenticate
+ - [https://wire.auburn.edu](https://wire.auburn.edu)
+ - date_published: 2024-07-22T08:25:28.015419+00:00
+
+ ## CampusPress – Educational blogs from our community
+ - [https://wordpress.auburn.edu](https://wordpress.auburn.edu)
+ - date_published: 2024-06-06T22:22:11.048670+00:00
+
+ ## Home
+ - [http://www.agriculture.auburn.edu](http://www.agriculture.auburn.edu)
+ - date_published: 2024-07-22T08:24:26.142970+00:00
+
+ ## Home
+ - [http://www.cla.auburn.edu](http://www.cla.auburn.edu)
+ - date_published: 2024-07-22T08:23:48.007617+00:00
+
+ ## College of Education Homepage | College of Education
+ - [http://www.education.auburn.edu](http://www.education.auburn.edu)
+ - date_published: 2024-07-22T08:23:57.960031+00:00
+
+ ## Auburn University College of Human Sciences
+ - [http://www.humsci.auburn.edu](http://www.humsci.auburn.edu)
+ - date_published: 2024-07-22T08:24:03.756855+00:00
+
+ ## Home - Auburn University College of Veterinary Medicine
+ - [http://www.vetmed.auburn.edu](http://www.vetmed.auburn.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## The American University in Cairo
+ - [https://auc-connect.aucegypt.edu](https://auc-connect.aucegypt.edu)
+ - date_published: 2024-08-07T17:27:07.718702+00:00
+
+ ## The American University in Cairo | The American University in Cairo
+ - [https://aucegypt.edu](https://aucegypt.edu)
+ - date_published: 2024-04-28T03:27:08.141982+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.aucegypt.edu](https://blackboard.aucegypt.edu)
+ - date_published: 2004-08-07T17:26:55+00:00
+
+ ## American University in Cairo - Modern Campus Catalog™
+ - [https://catalog.aucegypt.edu](https://catalog.aucegypt.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Faculty / Staff Telephone Directory
+ - [https://dir.aucegypt.edu](https://dir.aucegypt.edu)
+ - date_published: 2024-08-07T17:26:47.520529+00:00
+
+ ## Happening@AUC
+ - [https://happening.aucegypt.edu](https://happening.aucegypt.edu)
+ - date_published: 2024-08-07T17:26:57+00:00
+
+ ## AUC Libraries and Learning Technologies | AUC Libraries
+ - [https://library.aucegypt.edu](https://library.aucegypt.edu)
+ - date_published: 2024-08-07T17:27:02+00:00
+
+ ## The American University in Cairo: Log in to the site
+ - [https://moodle.aucegypt.edu](https://moodle.aucegypt.edu)
+ - date_published: 2024-08-07T17:27:10.228315+00:00
+
+ ## Sign in - Google Accounts
+ - [https://webmail.aucegypt.edu](https://webmail.aucegypt.edu)
+ - date_published: 2024-08-07T17:27:06.212834+00:00
+
+ ## Home | Robert W. Woodruff Library: Atlanta University Center (AUC) Library
+ - [https://www.auctr.edu](https://www.auctr.edu)
+ - date_published: 2024-09-16T07:36:09.575865+00:00
+
+ ## The American University of Greece | Boston
+ - [http://www.aug.edu](http://www.aug.edu)
+ - date_published: 2024-03-14T12:44:47+00:00
+
+ ## Augusta University
+ - [https://www.augusta.edu](https://www.augusta.edu)
+ - date_published: 2024-07-22T02:13:31.747812+00:00
+
+ ## AUI | We make scientific breakthroughs possible
+ - [https://aui.edu](https://aui.edu)
+ - date_published: 2024-05-07T19:49:08.720348+00:00
+
+ ## Auburn University at Montgomery | Top Ranked University in AL
+ - [https://www.aum.edu](https://www.aum.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## LibGuides: Library Homepage: Welcome
+ - [https://library.aup.edu](https://library.aup.edu)
+ - date_published: 2024-06-30T01:29:41.054361+00:00
+
+ ## The American University of Paris | International Undergraduate and Graduate Programs.
+ - [https://www.aup.edu](https://www.aup.edu)
+ - date_published: 2024-07-09T14:00:16+00:00
+
+ ## Auraria Library
+ - [https://library.auraria.edu](https://library.auraria.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## American University of Sharjah
+ - [https://login.aus.edu](https://login.aus.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home | AVTEC
+ - [https://www.avtec.edu](https://www.avtec.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## All College Blogs
+ - [https://blogs.babson.edu](https://blogs.babson.edu)
+ - date_published: 2024-06-12T06:00:02.929568+00:00
+
+ ## Undergraduate Center for Career Development | Babson College
+ - [https://career.babson.edu](https://career.babson.edu)
+ - date_published: 2024-09-12T14:29:30.392032+00:00
+
+ ## The Entrepreneurial Mindset · Babson Thought & Action
+ - [https://entrepreneurship.babson.edu](https://entrepreneurship.babson.edu)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://facultyportal.babson.edu](https://facultyportal.babson.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Babson College:
+		Babson Authentication
+ - [https://fusionmx.babson.edu](https://fusionmx.babson.edu)
+ - date_published: 2024-09-12T14:29:26.322959+00:00
+
+ ## Sign in to your account
+ - [https://studentportal.babson.edu](https://studentportal.babson.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## www.babson.edu
+ - [https://www.babson.edu](https://www.babson.edu)
+ - date_published: 2024-06-12T12:12:06.697055+00:00
+
+ ## Weissman Foundry
+ - [https://www.foundry.babson.edu](https://www.foundry.babson.edu)
+ - date_published: 2024-09-12T14:29:18.142764+00:00
+
+ ## Bank Street College of Education
+ - [https://www.bankstreet.edu](https://www.bankstreet.edu)
+ - date_published: 2024-08-07T13:08:12.666503+00:00
+
+ ## Alumni/ae Network at Bard College
+ - [https://alums.bard.edu](https://alums.bard.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Bard Architecture
+ - [https://arch.bard.edu](https://arch.bard.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Art History and Visual Culture Program | Bard College
+ - [https://arthistory.bard.edu](https://arthistory.bard.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Bard College Division of the Arts at Bard College
+ - [https://arts.bard.edu](https://arts.bard.edu)
+ - date_published: 2024-04-30T03:13:15.340332+00:00
+
+ ## BEC Baltimore – BEC
+ - [https://baltimore.bard.edu](https://baltimore.bard.edu)
+ - date_published: 2024-07-22T08:06:11.405916+00:00
+
+ ## Bard College at Bard College
+ - [https://bard.edu](https://bard.edu)
+ - date_published: 2024-04-30T03:13:35.109615+00:00
+
+ ## Bard College at Bard College
+ - [https://bardian.bard.edu](https://bardian.bard.edu)
+ - date_published: 2024-04-30T03:13:32.578878+00:00
+
+ ## BardWorks 2024 at Bard College
+ - [https://bardworks.bard.edu](https://bardworks.bard.edu)
+ - date_published: 2024-07-20T22:10:31.814634+00:00
+
+ ## Bard College Berlin at Bard College Berlin
+ - [https://berlin.bard.edu](https://berlin.bard.edu)
+ - date_published: 2024-07-22T08:06:18.670939+00:00
+
+ ## Bard Early College
+ - [https://bhsec.bard.edu](https://bhsec.bard.edu)
+ - date_published: 2024-04-30T03:13:28.182080+00:00
+
+ ## Bard Office of Sustainability at Bard College
+ - [https://bos.bard.edu](https://bos.bard.edu)
+ - date_published: 2024-04-30T03:13:19.580747+00:00
+
+ ## Bard Prison Initiative: Reimagining the Place of Higher Education
+ - [https://bpi.bard.edu](https://bpi.bard.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Center for Civic Engagement at Bard College
+ - [https://cce.bard.edu](https://cce.bard.edu)
+ - date_published: 2024-04-30T03:13:24.455361+00:00
+
+ ## Undergraduate Admission at Bard College
+ - [https://connect.bard.edu](https://connect.bard.edu)
+ - date_published: 2024-04-30T03:13:37.832511+00:00
+
+ ## Bard Dance Program at Bard College
+ - [https://dance.bard.edu](https://dance.bard.edu)
+ - date_published: 2024-07-22T08:20:29.606725+00:00
+
+ ## Economics at Bard at Bard College
+ - [https://economics.bard.edu](https://economics.bard.edu)
+ - date_published: 2024-09-10T07:29:50.666716+00:00
+
+ ## Economic Democracy Initiative at Bard College
+ - [https://edi.bard.edu](https://edi.bard.edu)
+ - date_published: 2024-05-12T05:46:40.670973+00:00
+
+ ## The Bard Family Network at Bard College
+ - [https://families.bard.edu](https://families.bard.edu)
+ - date_published: 2024-04-30T03:13:40.103087+00:00
+
+ ## Film and Electronic Arts Program at Bard College
+ - [https://film.bard.edu](https://film.bard.edu)
+ - date_published: 2024-07-22T08:20:40.340687+00:00
+
+ ## Home - Fisher Center at Bard
+ - [https://fishercenter.bard.edu](https://fishercenter.bard.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Giving at Bard College
+ - [https://giving.bard.edu](https://giving.bard.edu)
+ - date_published: 2024-04-30T03:13:22.832473+00:00
+
+ ## Bard Graduate Programs in Sustainability
+ - [https://gps.bard.edu](https://gps.bard.edu)
+ - date_published: 2024-07-17T06:08:13+00:00
+
+ ## Health, Counseling, and Wellness at Bard College at Bard College
+ - [https://hcw.bard.edu](https://hcw.bard.edu)
+ - date_published: 2024-04-30T03:13:30.419167+00:00
+
+ ## BEC Hudson Valley – BEC
+ - [https://hudson.bard.edu](https://hudson.bard.edu)
+ - date_published: 2024-07-22T08:05:35.930240+00:00
+
+ ## Lead The Change
+ - [https://leadthechange.bard.edu](https://leadthechange.bard.edu)
+ - date_published: 2024-07-21T23:25:46+00:00
+
+ ## Bard Music Program at Bard College
+ - [https://music.bard.edu](https://music.bard.edu)
+ - date_published: 2024-07-22T08:20:42.314623+00:00
+
+ ## BEC New Orleans – BEC
+ - [https://neworleans.bard.edu](https://neworleans.bard.edu)
+ - date_published: 2024-07-22T08:05:34.184956+00:00
+
+ ## Bard Photography Program at Bard College
+ - [https://photo.bard.edu](https://photo.bard.edu)
+ - date_published: 2024-07-22T08:20:34.621076+00:00
+
+ ## Bard College Division of Science, Mathematics, and Computing at Bard College
+ - [https://science.bard.edu](https://science.bard.edu)
+ - date_published: 2024-07-22T08:12:43.364394+00:00
+
+ ## Studio Arts Program at Bard at Bard College
+ - [https://studioarts.bard.edu](https://studioarts.bard.edu)
+ - date_published: 2024-07-22T08:20:31.075297+00:00
+
+ ## Theater and Performance at Bard College at Bard College
+ - [https://theater.bard.edu](https://theater.bard.edu)
+ - date_published: 2024-07-22T08:20:43.871110+00:00
+
+ ## Bard Tools
+ - [https://tools.bard.edu](https://tools.bard.edu)
+ - date_published: 2024-07-20T22:10:30.241269+00:00
+
+ ## Bard Graduate Center
+ - [https://www.bgc.bard.edu](https://www.bgc.bard.edu)
+ - date_published: 2024-07-13T14:27:56.875114+00:00
+
+ ## Barnard College in New York City
+ - [https://barnard.edu](https://barnard.edu)
+ - date_published: 2024-07-08T16:20:53+00:00
+
+ ## Reacting to the Past
+ - [https://reacting.barnard.edu](https://reacting.barnard.edu)
+ - date_published: 2024-05-09T05:24:59.795451+00:00
+
+ ## ‘With Ardor and Devotion’
+ - [https://www.bates.edu](https://www.bates.edu)
+ - date_published: 2013-08-06T19:41:59+00:00
+
+ ## About Baylor
+ - [https://about.web.baylor.edu](https://about.web.baylor.edu)
+ - date_published: 2022-10-22T05:19:00+00:00
+
+ ## Academic Calendar Committee
+ - [https://academiccalendar.web.baylor.edu](https://academiccalendar.web.baylor.edu)
+ - date_published: 2023-08-22T13:30:00+00:00
+
  ## Accelerate
  - [https://accelerate.web.baylor.edu](https://accelerate.web.baylor.edu)
  - date_published: 2022-10-26T09:13:00+00:00
@@ -3250,757 +4003,4 @@
  ## OASIS – Operations research for Advancing Sustainable Infrastructure Systems
  - [http://oasis.eng.buffalo.edu](http://oasis.eng.buffalo.edu)
  - date_published: 2024-08-11T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://pacs.buffalo.edu](https://pacs.buffalo.edu)
- - date_published: 2021-02-16T15:27:23+00:00
-
- ## UB School of Pharmacy and Pharmaceutical Sciences
- - [https://pharmacy.buffalo.edu](https://pharmacy.buffalo.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Interdivisional Marketing and Communications
- - [https://prv-rhm.sens.buffalo.edu](https://prv-rhm.sens.buffalo.edu)
- - date_published: 2020-03-16T15:13:56+00:00
-
- ## School of Public Health and Health Professions
- - [https://publichealth.buffalo.edu](https://publichealth.buffalo.edu)
- - date_published: 2024-04-30T03:31:24.441502+00:00
-
- ## UB Office of the Registrar
- - [https://registrar.buffalo.edu](https://registrar.buffalo.edu)
- - date_published: 2024-04-30T03:31:06.394801+00:00
-
- ## Research and Economic Development
- - [https://research.buffalo.edu](https://research.buffalo.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Research Guides
- - [https://research.lib.buffalo.edu](https://research.lib.buffalo.edu)
- - date_published: 2024-07-22T07:13:13.422146+00:00
-
- ## Search - University at Buffalo
- - [https://search.buffalo.edu](https://search.buffalo.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## University at Buffalo School of Social Work
- - [https://socialwork.buffalo.edu](https://socialwork.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tesserae
- - [http://tesserae.caset.buffalo.edu](http://tesserae.caset.buffalo.edu)
- - date_published: 2021-11-08T18:39:29+00:00
-
- ## Computer Science [ and Engineering ] Timeline
- - [https://timeline.cse.buffalo.edu](https://timeline.cse.buffalo.edu)
- - date_published: 2022-01-28T21:26:15+00:00
-
- ## TPDP - redirecting
- - [https://tpdp.cse.buffalo.edu](https://tpdp.cse.buffalo.edu)
- - date_published: 2020-01-28T20:16:48+00:00
-
- ## AEM Sign In
- - [https://ubcms-author.buffalo.edu](https://ubcms-author.buffalo.edu)
- - date_published: 2024-08-11T09:59:02.645351+00:00
-
- ## Undergraduate Admissions at the University at Buffalo, The State University of New York
- - [https://ubconnect.buffalo.edu](https://ubconnect.buffalo.edu)
- - date_published: 2024-07-22T07:20:06.242889+00:00
-
- ## Login - University at Buffalo
- - [https://ublearns.buffalo.edu](https://ublearns.buffalo.edu)
- - date_published: 2024-07-22T07:18:41.563487+00:00
-
- ## School of Management
- - [https://ubmgtconnect.buffalo.edu](https://ubmgtconnect.buffalo.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## University at Buffalo SMBS - SMBS Home
- - [https://ubmm.med.buffalo.edu](https://ubmm.med.buffalo.edu)
- - date_published: 2024-08-08T23:41:57.515844+00:00
-
- ## School of Engineering and Applied Sciences
- - [https://ubseasconnect.buffalo.edu](https://ubseasconnect.buffalo.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## UB WordPress
- - [http://ubwp.buffalo.edu](http://ubwp.buffalo.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Undergraduate Education
- - [https://undergrad.buffalo.edu](https://undergrad.buffalo.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## University at Buffalo
- - [http://wings.buffalo.edu](http://wings.buffalo.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## CASet :: University at Buffalo ::
- - [https://www.caset.buffalo.edu](https://www.caset.buffalo.edu)
- - date_published: 2024-08-06T17:28:56.783135+00:00
-
- ## Department of Chemical and Biological Engineering
- - [http://www.cbe.buffalo.edu](http://www.cbe.buffalo.edu)
- - date_published: 2024-08-09T20:08:48+00:00
-
- ## Home
- - [https://www.sa.buffalo.edu](https://www.sa.buffalo.edu)
- - date_published: 2015-01-22T07:12:35+00:00
-
- ## University at Buffalo School of Social Work
- - [http://www.social-work.buffalo.edu](http://www.social-work.buffalo.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## University at Buffalo Portal | Home
- - [https://www.ubjobs.buffalo.edu](https://www.ubjobs.buffalo.edu)
- - date_published: 2024-04-30T03:29:59.258733+00:00
-
- ## SUNY Buffalo State University
- - [https://suny.buffalostate.edu](https://suny.buffalostate.edu)
- - date_published: 2024-10-25T20:48:43+00:00
-
- ## Butler University
- - [https://butler.edu](https://butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Digital Commons @ Butler University | Butler University Research
- - [https://digitalcommons.butler.edu](https://digitalcommons.butler.edu)
- - date_published: 2024-08-08T22:56:02.506228+00:00
-
- ## Butler University
- - [https://give.butler.edu](https://give.butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Baldwin Wallace University
- - [http://www.bw.edu](http://www.bw.edu)
- - date_published: 2024-06-28T14:35:19.701506+00:00
-
- ## Home - Academic Calendar
- - [https://academiccalendar.byu.edu](https://academiccalendar.byu.edu)
- - date_published: 2024-05-12T07:42:27.974659+00:00
-
- ## Account Creation
- - [https://accountcreation.byu.edu](https://accountcreation.byu.edu)
- - date_published: 2024-07-16T21:01:30+00:00
-
- ## Account Creation
- - [https://accountcreation-dev.byu.edu](https://accountcreation-dev.byu.edu)
- - date_published: 2024-07-16T20:44:42+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery.byu.edu](https://accountrecovery.byu.edu)
- - date_published: 2024-06-20T16:44:03+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery-dev.byu.edu](https://accountrecovery-dev.byu.edu)
- - date_published: 2024-07-01T08:08:55+00:00
-
- ## Home - ACME
- - [https://acme.byu.edu](https://acme.byu.edu)
- - date_published: 2024-09-18T23:38:13.289757+00:00
-
- ## Adobe
- - [https://adobe.byu.edu](https://adobe.byu.edu)
- - date_published: 2024-07-17T03:06:06.213291+00:00
-
- ## Home
- - [https://advisement.byu.edu](https://advisement.byu.edu)
- - date_published: 2024-07-17T03:08:21.044507+00:00
-
- ## Aims Home
- - [https://aims.byu.edu](https://aims.byu.edu)
- - date_published: 2024-04-30T03:32:15.141700+00:00
-
- ## BYU | Email Alias Manager
- - [https://alias.byu.edu](https://alias.byu.edu)
- - date_published: 2024-07-17T03:06:09.138839+00:00
-
- ## Home page
- - [https://alumni.byu.edu](https://alumni.byu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Homepage
- - [https://alumnicareers.byu.edu](https://alumnicareers.byu.edu)
- - date_published: 2024-08-11T11:23:05.434719+00:00
-
- ## CAS – Central Authentication Service
- - [https://alumnitools.byu.edu](https://alumnitools.byu.edu)
- - date_published: 2024-08-11T11:23:17.311725+00:00
-
- ## Apply Now!
- - [http://apply.byu.edu](http://apply.byu.edu)
- - date_published: 2024-07-17T03:13:54.423834+00:00
-
- ## Events & Tickets - BYU Arts
- - [http://arts.byu.edu](http://arts.byu.edu)
- - date_published: 2024-07-17T03:07:10.352435+00:00
-
- ## ASO Homepage
- - [https://aso.byu.edu](https://aso.byu.edu)
- - date_published: 2024-07-17T03:20:26.844915+00:00
-
- ## Home
- - [https://aspengrove.byu.edu](https://aspengrove.byu.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Ballard Brief
- - [https://ballardbrief.byu.edu](https://ballardbrief.byu.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## BYU Belonging Homepage
- - [https://belonging.byu.edu](https://belonging.byu.edu)
- - date_published: 2024-05-12T07:42:47.995708+00:00
-
- ## Be Safe
- - [https://besafe.byu.edu](https://besafe.byu.edu)
- - date_published: 2024-07-17T03:05:47.019601+00:00
-
- ## Biology Home
- - [https://biology.byu.edu](https://biology.byu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Box
- - [https://box.byu.edu](https://box.byu.edu)
- - date_published: 2024-07-17T03:06:19.588590+00:00
-
- ## Home - Brand
- - [https://brand.byu.edu](https://brand.byu.edu)
- - date_published: 2024-07-17T03:12:17.590315+00:00
-
- ## Login | CMS | Brigham Young University
- - [https://brightspot.byu.edu](https://brightspot.byu.edu)
- - date_published: 2024-04-30T03:32:11.176777+00:00
-
- ## Home - BYU
- - [http://byu.edu](http://byu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
- - tags: ['brigham young university']
-
- ## BYU Journeys
- - [https://byujourneys.byu.edu](https://byujourneys.byu.edu)
- - date_published: 2024-07-16T22:49:38.438696+00:00
-
- ## About BYUSA
- - [https://byusa.byu.edu](https://byusa.byu.edu)
- - date_published: 2024-07-17T03:07:17.904048+00:00
-
- ## BYU Studies
- - [https://byustudies.byu.edu](https://byustudies.byu.edu)
- - date_published: 2024-07-09T19:24:38+00:00
-
- ## BYU Events Calendar
- - [https://calendar.byu.edu](https://calendar.byu.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Counseling and Psychological Services Homepage
- - [https://caps.byu.edu](https://caps.byu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://careers.byu.edu](https://careers.byu.edu)
- - date_published: 2024-07-20T22:24:26.833690+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas.byu.edu](https://cas.byu.edu)
- - date_published: 2024-07-17T03:09:21.656635+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas-dev.byu.edu](https://cas-dev.byu.edu)
- - date_published: 2024-07-17T03:09:30.956383+00:00
-
- ## CAS – Central Authentication Service
- - [https://cas-stg.byu.edu](https://cas-stg.byu.edu)
- - date_published: 2024-07-17T03:09:28.611764+00:00
-
- ## Home
- - [https://ccc.byu.edu](https://ccc.byu.edu)
- - date_published: 2024-07-20T22:24:22.654486+00:00
-
- ## Cell Biology & Physiology
- - [https://cell.byu.edu](https://cell.byu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Cloud Apps
- - [https://cloudapps.byu.edu](https://cloudapps.byu.edu)
- - date_published: 2024-07-17T03:06:13.978749+00:00
-
- ## Integrity and Compliance
- - [https://compliance.byu.edu](https://compliance.byu.edu)
- - date_published: 2024-07-17T03:09:04.250869+00:00
-
- ## English Corpora: most widely used online corpora. Billions of words of data: free online access
- - [https://corpus.byu.edu](https://corpus.byu.edu)
- - date_published: 2024-07-01T14:46:51.645274+00:00
-
- ## Home
- - [https://cougarcash.byu.edu](https://cougarcash.byu.edu)
- - date_published: 2024-07-22T07:13:03.067198+00:00
-
- ## Home - Computing, Math, and Science
- - [https://cpms.byu.edu](https://cpms.byu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## BYU | Design Exploration
- - [http://design.byu.edu](http://design.byu.edu)
- - date_published: 2024-07-01T19:50:16.690428+00:00
-
- ## BYU Developer Portal | Home - Developer
- - [https://developer.byu.edu](https://developer.byu.edu)
- - date_published: 2024-07-17T03:06:02.917658+00:00
-
- ## DNA Sequencing Center
- - [http://dnasc.byu.edu](http://dnasc.byu.edu)
- - date_published: 2024-08-06T17:56:15.488719+00:00
-
- ## HOME - Duo Universal Prompt
- - [https://duo.byu.edu](https://duo.byu.edu)
- - date_published: 2024-07-17T03:06:16.725920+00:00
-
- ## Environmental Analytical Lab
- - [https://eal.byu.edu](https://eal.byu.edu)
- - date_published: 2024-04-30T03:32:23.525414+00:00
-
- ## ECE Home
- - [https://ece.byu.edu](https://ece.byu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## BYU Math EMC2
- - [https://emc2.byu.edu](https://emc2.byu.edu)
- - date_published: 2024-06-06T21:04:09+00:00
-
- ## Transfer Guides | BYU Registrar
- - [https://enrollment2.byu.edu](https://enrollment2.byu.edu)
- - date_published: 2024-02-08T22:50:58.318148+00:00
-
- ## Enrollment Services Homepage
- - [https://enrollment.byu.edu](https://enrollment.byu.edu)
- - date_published: 2024-04-30T03:31:51.164277+00:00
-
- ## Exercise Sciences Homepage
- - [https://exsc.byu.edu](https://exsc.byu.edu)
- - date_published: 2024-08-06T17:56:26.371680+00:00
-
- ## Home
- - [https://familyhistory.lib.byu.edu](https://familyhistory.lib.byu.edu)
- - date_published: 2024-07-17T03:08:37.588249+00:00
-
- ## Records Privacy (FERPA)
- - [http://ferpa.byu.edu](http://ferpa.byu.edu)
- - date_published: 2024-08-19T19:23:49.599145+00:00
-
- ## Financial Aid
- - [https://financialaid.byu.edu](https://financialaid.byu.edu)
- - date_published: 2024-07-22T07:11:44.770777+00:00
-
- ## Floor Maps | HBLL
- - [https://floormaps.lib.byu.edu](https://floormaps.lib.byu.edu)
- - date_published: 2024-06-28T18:02:20+00:00
-
- ## go.byu.edu
- - [https://go.byu.edu](https://go.byu.edu)
- - date_published: 2024-07-17T03:05:56.750959+00:00
-
- ## BYU | Graduate Studies - Graduate Progress
- - [https://gradprogress.sim.byu.edu](https://gradprogress.sim.byu.edu)
- - date_published: 2024-07-22T07:11:39.447576+00:00
-
- ## Graduate Studies Home
- - [https://gradstudies.byu.edu](https://gradstudies.byu.edu)
- - date_published: 2024-06-07T07:44:40.750323+00:00
-
- ## Health Home
- - [http://health.byu.edu](http://health.byu.edu)
- - date_published: 2024-07-20T22:24:20.116218+00:00
-
- ## Home
- - [https://help.byu.edu](https://help.byu.edu)
- - date_published: 2024-05-12T07:41:49.176454+00:00
-
- ## Homecoming Homepage
- - [http://homecoming.byu.edu](http://homecoming.byu.edu)
- - date_published: 2024-08-11T11:22:52.913684+00:00
-
- ## Home page
- - [https://hrs.byu.edu](https://hrs.byu.edu)
- - date_published: 2024-07-17T03:10:19.170861+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://hrswebapps.byu.edu](https://hrswebapps.byu.edu)
- - date_published: 2012-02-07T14:47:02+00:00
-
- ## BYU College of Humanities
- - [https://hum.byu.edu](https://hum.byu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## BYU Account Terms of Use
- - [http://iam-policy.byu.edu](http://iam-policy.byu.edu)
- - date_published: 2024-07-17T03:09:34.165721+00:00
-
- ## BYU Info
- - [https://info.byu.edu](https://info.byu.edu)
- - date_published: 2024-05-12T07:42:32.900711+00:00
-
- ## Login - InfoHub
- - [https://infohub.byu.edu](https://infohub.byu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## BYU Information Security and Privacy
- - [https://infosec.byu.edu](https://infosec.byu.edu)
- - date_published: 2024-04-30T03:32:18.833971+00:00
-
- ## Accredited Online Courses | BYU Independent Study
- - [https://is.byu.edu](https://is.byu.edu)
- - date_published: 2024-07-17T03:22:59.934311+00:00
-
- ## BYU Office of Information Technology
- - [https://it.byu.edu](https://it.byu.edu)
- - date_published: 2024-07-22T07:12:13.577183+00:00
-
- ## Home
- - [https://itsurplus.byu.edu](https://itsurplus.byu.edu)
- - date_published: 2024-07-17T03:06:04.815161+00:00
-
- ## CAS – Central Authentication Service
- - [http://jobs.byu.edu](http://jobs.byu.edu)
- - date_published: 2024-07-17T03:10:17.138281+00:00
-
- ## BYU Law & Corpus Linguistics
- - [https://lawcorpus.byu.edu](https://lawcorpus.byu.edu)
- - date_published: 2024-07-02T09:20:19.082849+00:00
-
- ## CAS – Central Authentication Service
- - [https://learningsuite.byu.edu](https://learningsuite.byu.edu)
- - date_published: 2024-05-12T07:42:04.499155+00:00
-
- ## Harold B. Lee Library
- - [https://lib.byu.edu](https://lib.byu.edu)
- - date_published: 2024-05-12T07:41:58.712488+00:00
-
- ## Homepage
- - [https://licensing.byu.edu](https://licensing.byu.edu)
- - date_published: 2024-07-17T03:11:19.495150+00:00
-
- ## Life Sciences Homepage  - BYU Life Sciences
- - [https://lifesciences.byu.edu](https://lifesciences.byu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Life Sciences Advisement
- - [http://lsa.byu.edu](http://lsa.byu.edu)
- - date_published: 2024-08-06T17:56:29.563162+00:00
-
- ## Home | Life Sciences College Undergraduate Research Award
- - [https://lscura.byu.edu](https://lscura.byu.edu)
- - date_published: 2024-08-06T17:56:13.329293+00:00
-
- ## LSIT Homepage
- - [https://lsit.byu.edu](https://lsit.byu.edu)
- - date_published: 2024-08-06T17:56:21.521024+00:00
-
- ## Home
- - [https://lsm.byu.edu](https://lsm.byu.edu)
- - date_published: 2024-08-06T17:56:17.398458+00:00
-
- ## Life Sciences Scheduling
- - [https://lsscheduler.byu.edu](https://lsscheduler.byu.edu)
- - date_published: 2024-04-30T03:32:25.048301+00:00
-
- ## LSScholarships
- - [https://lsscholarships.byu.edu](https://lsscholarships.byu.edu)
- - date_published: 2024-08-06T17:56:41.797488+00:00
-
- ## Life Sciences Travel Grants
- - [https://lstgrants.byu.edu](https://lstgrants.byu.edu)
- - date_published: 2024-08-06T17:56:11.668229+00:00
-
- ## Y Magazine
- - [https://magazine.byu.edu](https://magazine.byu.edu)
- - date_published: 2024-08-11T11:23:12.044845+00:00
-
- ## Campus Map
- - [http://map.byu.edu](http://map.byu.edu)
- - date_published: 2024-07-11T17:36:18+00:00
-
- ## Home Page — BYU Marriott
- - [https://marriott.byu.edu](https://marriott.byu.edu)
- - date_published: 2024-10-11T22:13:15+00:00
-
- ## Home Page — BYU Marriott
- - [https://marriottschool.byu.edu](https://marriottschool.byu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## BYU Physics and Astronomy Weather Station
- - [https://marvin.byu.edu](https://marvin.byu.edu)
- - date_published: 2024-06-22T12:05:24.567562+00:00
-
- ## Math Home
- - [https://math.byu.edu](https://math.byu.edu)
- - date_published: 2024-07-01T22:54:47.657666+00:00
-
- ## Math Home
- - [https://mathdept.byu.edu](https://mathdept.byu.edu)
- - date_published: 2024-07-01T22:54:53.988606+00:00
-
- ## Mechanical Engineering Home
- - [https://me.byu.edu](https://me.byu.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## CAS – Central Authentication Service
- - [http://mfc.byu.edu](http://mfc.byu.edu)
- - date_published: 2024-07-17T03:13:50.657463+00:00
-
- ## Home -  BYU Electron Microscopy Facility
- - [http://microscopy.byu.edu](http://microscopy.byu.edu)
- - date_published: 2024-08-06T17:56:31.499193+00:00
-
- ## Microsoft 365
- - [https://microsoft.byu.edu](https://microsoft.byu.edu)
- - date_published: 2024-07-17T03:06:56.078155+00:00
-
- ## Home
- - [https://mlbean.byu.edu](https://mlbean.byu.edu)
- - date_published: 2024-08-06T17:56:09.160962+00:00
-
- ## Microbiology & Molecular Biology Homepage
- - [https://mmbio.byu.edu](https://mmbio.byu.edu)
- - date_published: 2024-08-06T17:56:33.337947+00:00
-
- ## My Account
- - [https://myaccount-dev.byu.edu](https://myaccount-dev.byu.edu)
- - date_published: 2024-07-03T16:33:59+00:00
-
- ## CAS – Central Authentication Service
- - [http://myaid.byu.edu](http://myaid.byu.edu)
- - date_published: 2024-07-17T03:13:58.445518+00:00
-
- ## CAS – Central Authentication Service
- - [https://my.byu.edu](https://my.byu.edu)
- - date_published: 2024-05-12T07:42:10.124694+00:00
-
- ## CAS – Central Authentication Service
- - [http://mymap.byu.edu](http://mymap.byu.edu)
- - date_published: 2024-07-17T03:14:04.380355+00:00
-
- ## Nutrition, Dietetics, & Food Science
- - [https://ndfs.byu.edu](https://ndfs.byu.edu)
- - date_published: 2024-08-06T17:56:37.609297+00:00
-
- ## Home
- - [http://neuroscience.byu.edu](http://neuroscience.byu.edu)
- - date_published: 2024-08-06T17:56:23.773765+00:00
-
- ## News Homepage - BYU News
- - [https://news.byu.edu](https://news.byu.edu)
- - date_published: 2023-10-25T18:48:47.775303+00:00
-
- ## Library News
- - [https://news.lib.byu.edu](https://news.lib.byu.edu)
- - date_published: 2024-07-17T03:08:40.950733+00:00
-
- ## BYU Office of Information Technology
- - [https://oit.byu.edu](https://oit.byu.edu)
- - date_published: 2024-05-12T07:41:46.993026+00:00
-
- ## OIT Careers
- - [https://oitcareers.byu.edu](https://oitcareers.byu.edu)
- - date_published: 2024-07-17T03:06:38.291239+00:00
-
- ## Optics Education Home
- - [https://optics.byu.edu](https://optics.byu.edu)
- - date_published: 2024-06-22T12:05:35.394243+00:00
-
- ## The Pendulum Court Cafe
- - [http://pencourt.byu.edu](http://pencourt.byu.edu)
- - date_published: 2024-08-06T17:56:06.906589+00:00
-
- ## Public Health Homepage
- - [https://ph.byu.edu](https://ph.byu.edu)
- - date_published: 2024-08-06T17:56:46.516624+00:00
-
- ## Physics and Astronomy
- - [https://physics.byu.edu](https://physics.byu.edu)
- - date_published: 2024-05-04T15:44:53.441974+00:00
-
- ## Home
- - [https://planetarium.byu.edu](https://planetarium.byu.edu)
- - date_published: 2024-06-22T12:05:33.786604+00:00
-
- ## BYU Police Home
- - [https://police.byu.edu](https://police.byu.edu)
- - date_published: 2024-05-12T07:42:01.302959+00:00
-
- ## University Policies
- - [https://policy.byu.edu](https://policy.byu.edu)
- - date_published: 2024-07-17T03:09:06.540763+00:00
-
- ## Pre-Professional Advisement Home
- - [https://ppa.byu.edu](https://ppa.byu.edu)
- - date_published: 2024-07-17T03:20:29.302427+00:00
-
- ## BiographyHome
- - [https://president.byu.edu](https://president.byu.edu)
- - date_published: 2024-07-17T03:25:38.366436+00:00
-
- ## BYU Print & Mail
- - [http://printandmail.byu.edu](http://printandmail.byu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## BYU Pharos Print Drivers
- - [https://print-drivers.byu.edu](https://print-drivers.byu.edu)
- - date_published: 2020-12-15T17:01:01+00:00
-
- ## Privacy Notice
- - [https://privacy.byu.edu](https://privacy.byu.edu)
- - date_published: 2022-02-01T00:00:00+00:00
-
- ## Plant & Wildlife Sciences Homepage
- - [https://pws.byu.edu](https://pws.byu.edu)
- - date_published: 2023-10-25T18:49:07.807137+00:00
-
- ## Registrar's Office
- - [http://registrar.byu.edu](http://registrar.byu.edu)
- - date_published: 2024-07-20T22:24:31.963385+00:00
-
- ## Religious Education
- - [https://religion.byu.edu](https://religion.byu.edu)
- - date_published: 2024-05-12T07:24:56.631815+00:00
-
- ## Religious Outreach
- - [https://religiousoutreach.byu.edu](https://religiousoutreach.byu.edu)
- - date_published: 2024-07-16T22:49:32.366066+00:00
-
- ## Home page - BYU Research Development
- - [http://researchdevelopment.byu.edu](http://researchdevelopment.byu.edu)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Home
- - [https://reu.byu.edu](https://reu.byu.edu)
- - date_published: 2024-06-22T12:05:30.134922+00:00
-
- ## Silva Rhetoricae: The Forest of Rhetoric
- - [http://rhetoric.byu.edu](http://rhetoric.byu.edu)
- - date_published: 2015-10-09T21:18:12+00:00
-
- ## Ric Facility Homepage - RIC Facility
- - [http://ricfacility.byu.edu](http://ricfacility.byu.edu)
- - date_published: 2024-08-06T17:56:51.552556+00:00
-
- ## Home | Religious Studies Center
- - [https://rsc.byu.edu](https://rsc.byu.edu)
- - date_published: 2024-04-05T18:54:43.590471+00:00
-
- ## CAS – Central Authentication Service
- - [http://saasta.byu.edu](http://saasta.byu.edu)
- - date_published: 2024-07-17T03:23:05.649019+00:00
-
- ## Homepage
- - [https://sallc.byu.edu](https://sallc.byu.edu)
- - date_published: 2024-07-17T03:11:21.389761+00:00
-
- ## BYU ScholarsArchive
- - [https://scholarsarchive.byu.edu](https://scholarsarchive.byu.edu)
- - date_published: 2024-10-14T23:11:02.754927+00:00
-
- ## Home - Computing, Math, and Science
- - [https://science.byu.edu](https://science.byu.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Logging In...
- - [https://sciencesupport.byu.edu](https://sciencesupport.byu.edu)
- - date_published: 2024-08-06T17:56:34.946167+00:00
-
- ## Home
- - [https://sds.byu.edu](https://sds.byu.edu)
- - date_published: 2024-05-12T07:42:30.449439+00:00
-
- ## BYU Security Home
- - [https://security.byu.edu](https://security.byu.edu)
- - date_published: 2024-07-17T03:09:08.595347+00:00
-
- ## Security Portal
- - [https://securityportal.byu.edu](https://securityportal.byu.edu)
- - date_published: 2024-06-24T19:40:06+00:00
-
- ## Apache Tomcat/10.1.19
- - [https://shib.byu.edu](https://shib.byu.edu)
- - date_published: 2024-07-22T07:12:40.450641+00:00
-
- ## BYU Websites Home - BYU Brightspot |
- - [https://sites.byu.edu](https://sites.byu.edu)
- - date_published: 2024-07-17T03:06:22.408386+00:00
-
- ## Software Support Home
- - [https://softwaresupport.byu.edu](https://softwaresupport.byu.edu)
- - date_published: 2024-07-17T03:06:43.051497+00:00
-
- ## BYU Speeches
- - [https://speeches.byu.edu](https://speeches.byu.edu)
- - date_published: 2024-08-11T11:22:53+00:00
-
- ## System Status - Technology Support Portal
- - [https://status.byu.edu](https://status.byu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Student Alumni Home
- - [https://studentalumni.byu.edu](https://studentalumni.byu.edu)
- - date_published: 2024-08-11T11:22:50.597501+00:00
-
- ## IT Home - Technology Support Portal
- - [https://support.byu.edu](https://support.byu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Teaching at BYU homepage
- - [https://teachanywhere.byu.edu](https://teachanywhere.byu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Microsoft Teams
- - [https://teams.byu.edu](https://teams.byu.edu)
- - date_published: 2024-07-17T03:06:28.144514+00:00
-
- ## BYU Tickets Home
- - [https://tickets.byu.edu](https://tickets.byu.edu)
- - date_published: 2024-07-17T03:11:25.247383+00:00
-
- ## Title IX Homepage
- - [https://titleix.byu.edu](https://titleix.byu.edu)
- - date_published: 2024-05-12T07:41:56.446087+00:00
-
- ## BYU Today
- - [http://today.byu.edu](http://today.byu.edu)
- - date_published: 2024-08-11T11:23:08.583343+00:00
-
- ## Home
- - [https://uac.byu.edu](https://uac.byu.edu)
- - date_published: 2024-07-17T03:08:25.710545+00:00
-
- ## Home
- - [https://universityadvisement.byu.edu](https://universityadvisement.byu.edu)
- - date_published: 2024-07-17T03:20:19.755973+00:00
-
- ## BYU - University Communications
- - [https://universitycommunications.byu.edu](https://universitycommunications.byu.edu)
- - date_published: 2024-04-30T03:32:02.939638+00:00
-
- ## Home
- - [https://ux.byu.edu](https://ux.byu.edu)
- - date_published: 2024-07-22T07:12:07.653622+00:00
-
- ## VIEW —
- - [http://view.byu.edu](http://view.byu.edu)
- - date_published: 2024-07-02T09:46:11.427310+00:00
-
- ## Visiting Students at BYU | Visiting Students at BYU
- - [https://visitingstudents.byu.edu](https://visitingstudents.byu.edu)
- - date_published: 2024-07-22T07:11:48.520979+00:00
-
- ## Wildlife Ecology Research Lab
- - [https://wildlifeecology.byu.edu](https://wildlifeecology.byu.edu)
- - date_published: 2024-04-30T03:32:34.652448+00:00
-
- ## Women's Services and Resources
- - [https://wsr.byu.edu](https://wsr.byu.edu)
- - date_published: 2024-07-20T22:24:35.971667+00:00
-
- ## The BYU Design Review
- - [https://www.designreview.byu.edu](https://www.designreview.byu.edu)
- - date_published: 2024-09-05T12:54:33.371116+00:00
 

@@ -1,3 +1,784 @@
+ ## Representative Ryan Zinke
+ - [https://zinke.house.gov](https://zinke.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## | house.gov
+ - [https://ziplook.house.gov](https://ziplook.house.gov)
+ - date_published: 2024-06-27T14:00:04+00:00
+
+ ## Home | Bureau of Health Workforce
+ - [https://bhw.hrsa.gov](https://bhw.hrsa.gov)
+ - date_published: 2024-09-13T17:02:03+00:00
+
+ ## Home | Bureau of Primary Health Care
+ - [https://bphc.hrsa.gov](https://bphc.hrsa.gov)
+ - date_published: 2024-09-13T17:09:10.292749+00:00
+
+ ## data.hrsa.gov Home Page
+ - [https://data.hrsa.gov](https://data.hrsa.gov)
+ - date_published: 2024-06-19T16:43:18.164701+00:00
+
+ ## Find a Health Center
+ - [https://findahealthcenter.hrsa.gov](https://findahealthcenter.hrsa.gov)
+ - date_published: 2024-09-13T17:09:01.140962+00:00
+
+ ## Find a Ryan White HIV/AIDS Program Medical Provider
+ - [https://findhivcare.hrsa.gov](https://findhivcare.hrsa.gov)
+ - date_published: 2024-10-29T15:44:08.924982+00:00
+
+ ## Health Resources and Services Administration | HRSA
+ - [http://hrsa.gov](http://hrsa.gov)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Maternal and Child Health Bureau | MCHB
+ - [https://mchb.hrsa.gov](https://mchb.hrsa.gov)
+ - date_published: 2024-09-13T15:46:58+00:00
+
+ ## National Health Service Corps | NHSC
+ - [https://nhsc.hrsa.gov](https://nhsc.hrsa.gov)
+ - date_published: 2024-09-12T20:58:04+00:00
+
+ ## Find Organ Procurement Organizations and Organ Transplant Programs
+ - [https://opotxfind.hrsa.gov](https://opotxfind.hrsa.gov)
+ - date_published: 2024-10-29T15:44:07.463210+00:00
+
+ ## Home | Poison Help
+ - [https://poisonhelp.hrsa.gov](https://poisonhelp.hrsa.gov)
+ - date_published: 2019-03-08T14:02:07+00:00
+
+ ## Home | Ryan White HIV/AIDS Program
+ - [https://ryanwhite.hrsa.gov](https://ryanwhite.hrsa.gov)
+ - date_published: 2024-09-12T22:44:17+00:00
+
+ ## The NPDB - Home Page
+ - [https://www.npdb.hrsa.gov](https://www.npdb.hrsa.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Hudson, WI - Official Website | Official Website
+ - [https://hudsonwi.gov](https://hudsonwi.gov)
+ - date_published: 2024-06-19T07:32:11.881045+00:00
+
+ ## Redirect
+ - [https://huduser.gov](https://huduser.gov)
+ - date_published: 2021-05-01T21:31:18+00:00
+
+ ## Front Page
+ - [http://www.huntsvilleal.gov](http://www.huntsvilleal.gov)
+ - date_published: 2024-06-29T14:26:11.922121+00:00
+
+ ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
+ - [http://iarpa.gov](http://iarpa.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Internet Crime Complaint Center(IC3) | Home Page
+ - [http://ic3.gov](http://ic3.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['internet crime complaint', 'fbi']
+
+ ## ICE
+ - [https://www.ice.gov](https://www.ice.gov)
+ - date_published: 2024-06-20T05:09:17+00:00
+
+ ## Idaho Fish and Game Home
+ - [https://idfg.idaho.gov](https://idfg.idaho.gov)
+ - date_published: 2024-10-14T22:00:55+00:00
+
+ ## Idaho State Legislature – Idaho State Legislature
+ - [https://legislature.idaho.gov](https://legislature.idaho.gov)
+ - date_published: 2024-09-16T18:34:37.362751+00:00
+
+ ## Login.gov - Partner Dashboard
+ - [https://dashboard.int.identitysandbox.gov](https://dashboard.int.identitysandbox.gov)
+ - date_published: 2024-09-29T00:46:00.549904+00:00
+
+ ## IdentityTheft.gov
+ - [https://identitytheft.gov](https://identitytheft.gov)
+ - date_published: 2024-05-08T02:51:45.802362+00:00
+
+ ## IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet
+ - [https://ignet.gov](https://ignet.gov)
+ - date_published: 2024-05-08T02:59:43.030807+00:00
+
+ - [https://ilga.gov](https://ilga.gov)
+ - date_published: 2024-01-09T03:30:40.556731+00:00
+
+ ## Home
+ - [https://budget.illinois.gov](https://budget.illinois.gov)
+ - date_published: 2024-05-11T08:11:39.852838+00:00
+
+ ## Illinois Capital Markets
+ - [https://capitalmarkets.illinois.gov](https://capitalmarkets.illinois.gov)
+ - date_published: 2024-07-13T18:47:16+00:00
+
+ ## Illinois Department of Central Management Services
+ - [https://cms.illinois.gov](https://cms.illinois.gov)
+ - date_published: 2024-07-13T18:42:40+00:00
+
+ ## Home
+ - [https://doit.illinois.gov](https://doit.illinois.gov)
+ - date_published: 2024-07-21T21:28:20+00:00
+
+ ## Home
+ - [https://gata.illinois.gov](https://gata.illinois.gov)
+ - date_published: 2024-07-13T18:47:32+00:00
+
+ ## JB Pritzker, Governor
+ - [https://gov.illinois.gov](https://gov.illinois.gov)
+ - date_published: 2024-07-03T15:31:45+00:00
+
+ ## Illinois Hospital Report Card
+ - [https://healthcarereportcard.illinois.gov](https://healthcarereportcard.illinois.gov)
+ - date_published: 2024-05-13T03:59:07.495555+00:00
+
+ ## Abraham Lincoln Presidential Library and Museum
+ - [https://presidentlincoln.illinois.gov](https://presidentlincoln.illinois.gov)
+ - date_published: 2024-07-19T23:39:30.496870+00:00
+
+ ## Ready Illinois
+ - [https://ready.illinois.gov](https://ready.illinois.gov)
+ - date_published: 2024-07-13T18:06:33+00:00
+
+ ## Chicago Metropolitan Agency for Planning
+ - [https://www.cmap.illinois.gov](https://www.cmap.illinois.gov)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Illinois
+ - [https://www.illinois.gov](https://www.illinois.gov)
+ - date_published: 2024-05-11T08:11:12.410526+00:00
+
+ ## Office of the Illinois Attorney General Kwame Raoul
+ - [http://www.illinoisattorneygeneral.gov](http://www.illinoisattorneygeneral.gov)
+ - date_published: 2024-09-08T00:00:00+00:00
+
+ ## Oklahoma, Imagine That - Oklahoma
+ - [https://imagineokla.gov](https://imagineokla.gov)
+ - date_published: 2021-03-26T00:00:00+00:00
+
+ ## Institute of Museum and Library Services
+ - [http://imls.gov](http://imls.gov)
+ - date_published: 2024-07-17T14:07:08.200299+00:00
+
+ ## Home | City of Bloomington, Indiana
+ - [https://bloomington.in.gov](https://bloomington.in.gov)
+ - date_published: 2024-05-11T11:03:23.511006+00:00
+
+ ## Indiana Election Results
+ - [https://enr.indianavoters.in.gov](https://enr.indianavoters.in.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date_published: 2023-10-25T19:22:27.576944+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://forms.in.gov](https://forms.in.gov)
+ - date_published: 2024-07-21T02:49:26.080918+00:00
+
+ ## Indiana General Assembly
+ - [http://iga.in.gov](http://iga.in.gov)
+ - date_published: 2024-07-19T17:20:03+00:00
+
+ ## :: Indiana Voters ::
+ - [https://indianavoters.in.gov](https://indianavoters.in.gov)
+ - date_published: 2024-04-30T07:29:15.448230+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.campaignfinance.in.gov](http://www.campaignfinance.in.gov)
+ - date_published: 2024-07-21T02:48:24.818283+00:00
+
+ ## Factsheets | About INL
+ - [https://factsheets.inl.gov](https://factsheets.inl.gov)
+ - date_published: 2024-08-18T06:49:23+00:00
+
+ ## Gateway for Accelerated Innovation in Nuclear
+ - [https://gain.inl.gov](https://gain.inl.gov)
+ - date_published: 2024-10-26T12:11:26+00:00
+
+ ## Home
+ - [https://inl.gov](https://inl.gov)
+ - date_published: 2024-10-26T13:08:29+00:00
+
+ ## RAVEN - Overview
+ - [https://raven.inl.gov](https://raven.inl.gov)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home | InsureKidsNow.gov
+ - [https://www.insurekidsnow.gov](https://www.insurekidsnow.gov)
+ - date_published: 2024-07-11T16:07:03+00:00
+
+ ## INTEL - Home
+ - [https://www.intel.gov](https://www.intel.gov)
+ - date_published: 2024-06-16T13:06:02+00:00
+
+ ## INTEL - Home
+ - [https://intelligence.gov](https://intelligence.gov)
+ - date_published: 2024-04-22T15:42:05+00:00
+
+ ## Join the Intelligence Community
+ - [https://www.intelligencecareers.gov](https://www.intelligencecareers.gov)
+ - date_published: 2024-07-03T14:04:41.050529+00:00
+
+ ## Home | Internet for All
+ - [https://internetforall.gov](https://internetforall.gov)
+ - date_published: 2024-07-05T17:32:02+00:00
+
+ ## National Invasive Species Information Center (NISIC)
+ - [https://invasivespeciesinfo.gov](https://invasivespeciesinfo.gov)
+ - date_published: 2024-09-18T19:00:27+00:00
+
+ ## Home | Investor.gov
+ - [https://investor.gov](https://investor.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Iowa State Patrol Crash Reports
+ - [https://accidentreports.iowa.gov](https://accidentreports.iowa.gov)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Welcome - State of Iowa Directory
+ - [https://directory.iowa.gov](https://directory.iowa.gov)
+ - date_published: 2024-06-20T16:18:12+00:00
+
+ ## Iowa Department of Public Safety
+ - [https://dps.iowa.gov](https://dps.iowa.gov)
+ - date_published: 2024-05-12T05:10:45.214183+00:00
+
+ ## Iowa Department of Education Homepage
+ - [https://educate.iowa.gov](https://educate.iowa.gov)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## List Elections
+ - [https://electionresults.iowa.gov](https://electionresults.iowa.gov)
+ - date_published: 2024-06-11T21:08:03+00:00
+
+ ## Elections 101 - Official Elections Education Curriculum
+ - [https://elections101.iowa.gov](https://elections101.iowa.gov)
+ - date_published: 2015-07-15T20:42:22+00:00
+
+ ## Fast Track Filing
+ - [https://filings.sos.iowa.gov](https://filings.sos.iowa.gov)
+ - date_published: 2024-07-15T02:57:12.155873+00:00
+
+ ## Home | Fast Track Filing Resource Center
+ - [https://help.sos.iowa.gov](https://help.sos.iowa.gov)
+ - date_published: 2024-07-05T14:24:35+00:00
+
+ ## Health and Human Services
+ - [https://hhs.iowa.gov](https://hhs.iowa.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Iowa Businesses Against Trafficking | Iowa Secretary of State
+ - [https://ibat.iowa.gov](https://ibat.iowa.gov)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Welcome
+ - [http://iowa.gov](http://iowa.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Missing Persons | Missing Person Information Clearinghouse
+ - [https://missingpersons.iowa.gov](https://missingpersons.iowa.gov)
+ - date_published: 2024-07-15T04:02:23+00:00
+
+ ## Iowa Precinct Election Officials
+ - [https://pollworker.iowa.gov](https://pollworker.iowa.gov)
+ - date_published: 2024-07-15T02:56:59.866593+00:00
+
+ ## Iowa Safe At Home
+ - [http://safeathome.iowa.gov](http://safeathome.iowa.gov)
+ - date_published: 2024-07-15T02:57:14.750026+00:00
+
+ ## Iowa Secretary of State - Paul D. Pate
+ - [https://sos.iowa.gov](https://sos.iowa.gov)
+ - date_published: 2024-05-12T04:52:50.693632+00:00
+
+ ## Voter Ready | A Guide To Voting In Iowa
+ - [https://voterready.iowa.gov](https://voterready.iowa.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Iowa Voter Education | Iowa Secretary of State
+ - [https://votingprocess.iowa.gov](https://votingprocess.iowa.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Iowa Legislature
+ - [https://www.legis.iowa.gov](https://www.legis.iowa.gov)
+ - date_published: 2024-05-04T09:27:48.085960+00:00
+
+ ## | Iowa Department of Agriculture and Land Stewardship
+ - [https://iowaagriculture.gov](https://iowaagriculture.gov)
+ - date_published: 2024-06-20T05:31:47+00:00
+
+ ## Index
+ - [https://programs.iowadnr.gov](https://programs.iowadnr.gov)
+ - date_published: 2013-08-22T17:47:29+00:00
+
+ ## Iowa Department of Natural Resources
+ - [https://www.iowadnr.gov](https://www.iowadnr.gov)
+ - date_published: 2024-05-04T09:27:44.321383+00:00
+
+ ## The National Intellectual Property Rights Coordination Center — IPRCenter
+ - [http://www.iprcenter.gov](http://www.iprcenter.gov)
+ - date_published: 2024-07-27T00:00:00+00:00
+
+ ## 403 | Internal Revenue Service
+ - [https://apps.irs.gov](https://apps.irs.gov)
+ - date_published: 2022-08-26T12:08:15+00:00
+
+ ## eGain
+ - [https://connect.irs.gov](https://connect.irs.gov)
+ - date_published: 2024-06-01T04:20:00+00:00
+
+ ## Direct File | Internal Revenue Service
+ - [https://directfile.irs.gov](https://directfile.irs.gov)
+ - date_published: 2024-04-22T19:45:29+00:00
+
+ ## Internal Revenue Service | An official website of the United States government
+ - [https://irs.gov](https://irs.gov)
+ - date_published: 2023-10-25T19:22:30.651654+00:00
+
+ ## Home | IRS Careers
+ - [https://jobs.irs.gov](https://jobs.irs.gov)
+ - date_published: 2024-05-08T02:59:37.942415+00:00
+
+ ## Front Page | IRS Auctions
+ - [https://www.irsauctions.gov](https://www.irsauctions.gov)
+ - date_published: 2024-07-03T14:24:07.644742+00:00
+
+ ## Home | IT Dashboard
+ - [https://itdashboard.gov](https://itdashboard.gov)
+ - date_published: 2024-05-08T02:43:25.737848+00:00
+
+ ## Integrated Taxonomic Information System
+ - [https://www.itis.gov](https://www.itis.gov)
+ - date_published: 2024-05-01T08:04:48.235432+00:00
+
+ ## A joint committee of the United States Congress
+ - [https://www.jct.gov](https://www.jct.gov)
+ - date_published: 2024-06-27T14:10:49.460382+00:00
+
+ ## Jefferson County, Florida - The Keystone County
+ - [http://www.jeffersoncountyfl.gov](http://www.jeffersoncountyfl.gov)
+ - date_published: 2024-07-03T14:52:32.290560+00:00
+
+ ## Welcome to Jefferson County, New York - Home Page 2023
+ - [https://www.jeffersoncountyny.gov](https://www.jeffersoncountyny.gov)
+ - date_published: 2024-09-18T04:21:34.092572+00:00
+
+ ## Jewish American Heritage Month
+ - [https://www.jewishheritagemonth.gov](https://www.jewishheritagemonth.gov)
+ - date_published: 2024-08-11T22:52:54.955857+00:00
+
+ ## Jimmy Carter Presidential Library and Museum | Jimmy Carter Library
+ - [https://www.jimmycarterlibrary.gov](https://www.jimmycarterlibrary.gov)
+ - date_published: 2024-06-27T22:42:32+00:00
+
+ ## Department of Justice |  Homepage | United States Department of Justice
+ - [https://justice.gov](https://justice.gov)
+ - date_published: 2023-10-25T19:22:33.543403+00:00
+ - tags: ['u.s. department of justice']
+
+ ## Front Page | U.S. Department of Justice Office of the Inspector General
+ - [https://oig.justice.gov](https://oig.justice.gov)
+ - date_published: 2024-01-09T03:30:58.690663+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.justice.gov](https://search.justice.gov)
+ - date_published: 2024-05-13T03:58:11.673719+00:00
+
+ ## Just Think Twice: Homepage | Just Think Twice
+ - [https://justthinktwice.gov](https://justthinktwice.gov)
+ - date_published: 2024-05-12T06:40:28.014750+00:00
+
+ ## Home - Governor of the State of Kansas
+ - [https://governor.kansas.gov](https://governor.kansas.gov)
+ - date_published: 2024-03-20T00:43:01.854430+00:00
+
+ ## Kansas Department of Insurance
+ - [https://insurance.kansas.gov](https://insurance.kansas.gov)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Kansas.gov – The Official Website of the State of Kansas
+ - [https://portal.kansas.gov](https://portal.kansas.gov)
+ - date_published: 2024-05-11T08:46:57.259111+00:00
+
+ ## Kansas Department of Commerce
+ - [https://kansascommerce.gov](https://kansascommerce.gov)
+ - date_published: 2023-10-25T19:22:38.214597+00:00
+
+ ## Home | Kansas Highway Patrol, KS Kansas Highway Patrol, KS | Official Website
+ - [https://kansashighwaypatrol.gov](https://kansashighwaypatrol.gov)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Kauai County, HI
+ - [https://www.kauai.gov](https://www.kauai.gov)
+ - date_published: 2024-10-15T07:09:21.870118+00:00
+
+ ## Service unavailable
+ - [https://www.kentucky.gov](https://www.kentucky.gov)
+ - date_published: 2024-06-17T16:13:36.586368+00:00
+
+ ## Home - King County, Washington
+ - [https://cdn.kingcounty.gov](https://cdn.kingcounty.gov)
+ - date_published: 2024-07-26T22:47:39.250362+00:00
+
+ ## WebContentNotFound
+ - [https://cds.kingcounty.gov](https://cds.kingcounty.gov)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Online Directory
+ - [https://directory.kingcounty.gov](https://directory.kingcounty.gov)
+ - date_published: 2024-07-26T23:57:56.541501+00:00
+
+ ## Home - King County, Washington
+ - [https://kingcounty.gov](https://kingcounty.gov)
+ - date_published: 2024-04-29T05:28:39.512568+00:00
+
+ ## INFO-Web Transit Information
+ - [https://tripplanner.kingcounty.gov](https://tripplanner.kingcounty.gov)
+ - date_published: 2024-10-14T16:15:28.172056+00:00
+
+ ## Kansas State Service Agency
+ - [https://admin.ks.gov](https://admin.ks.gov)
+ - date_published: 2024-07-13T23:25:48.763419+00:00
+
+ ## test
+ - [https://cdn.oits.ks.gov](https://cdn.oits.ks.gov)
+ - date_published: 2024-02-12T21:40:45+00:00
+
+ ## Kansas COVID-19 Response and Recovery
+ - [https://covid.ks.gov](https://covid.ks.gov)
+ - date_published: 2022-12-23T00:00:00+00:00
+
+ ## Home - Kansas Governor Grants Program (KGGP)
+ - [https://grants.ks.gov](https://grants.ks.gov)
+ - date_published: 2024-05-11T08:46:49.849299+00:00
+
+ ## KS Public Square | Home
+ - [https://publicsquare.ks.gov](https://publicsquare.ks.gov)
+ - date_published: 2024-07-13T18:00:56+00:00
+
+ ## Kansas Secretary of State | Home
+ - [https://sos.ks.gov](https://sos.ks.gov)
+ - date_published: 2024-07-13T23:19:15.239327+00:00
+
+ ## Service unavailable
+ - [https://apps.legislature.ky.gov](https://apps.legislature.ky.gov)
+ - date_published: 2024-05-04T06:40:35.727728+00:00
+
+ ## Service unavailable
+ - [https://elect.ky.gov](https://elect.ky.gov)
+ - date_published: 2024-09-16T18:10:44.053405+00:00
+
+ ## ExploreKYHistory
+ - [https://explorekyhistory.ky.gov](https://explorekyhistory.ky.gov)
+ - date_published: 2024-10-27T21:05:56.090714+00:00
+
+ ## Voter Information Guide - Kentucky State Board of Elections
+ - [http://govote.ky.gov](http://govote.ky.gov)
+ - date_published: 2024-09-17T16:22:26.066781+00:00
+
+ ## Service unavailable
+ - [https://legislature.ky.gov](https://legislature.ky.gov)
+ - date_published: 2024-09-16T18:11:09.357808+00:00
+
+ ## Kentucky State Parks - KY Parks
+ - [https://parks.ky.gov](https://parks.ky.gov)
+ - date_published: 2024-10-19T17:58:08.821214+00:00
+
+ ## Home | KYTC
+ - [https://transportation.ky.gov](https://transportation.ky.gov)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## IIS Windows Server
+ - [https://web.sos.ky.gov](https://web.sos.ky.gov)
+ - date_published: 2021-02-01T19:55:27+00:00
+
+ ## Service unavailable
+ - [https://www.education.ky.gov](https://www.education.ky.gov)
+ - date_published: 2024-09-16T09:56:31.473977+00:00
+
+ ## Kentucky State Police
+ - [https://www.kentuckystatepolice.ky.gov](https://www.kentuckystatepolice.ky.gov)
+ - date_published: 2024-07-08T16:55:28.142733+00:00
+
+ ## Coastal Protection And Restoration Authority | Working to achieve a comprehensive coastal protection and restoration Master Plan
+ - [http://coastal.la.gov](http://coastal.la.gov)
+ - date_published: 2024-08-18T05:01:36.601850+00:00
+
+ ## Louisiana Department of Children & Family Services
+ - [http://dcfs.la.gov](http://dcfs.la.gov)
+ - date_published: 2024-08-18T05:00:51.321997+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://emergency.la.gov](http://emergency.la.gov)
+ - date_published: 2024-07-07T05:33:15.882935+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://gohsep.la.gov](https://gohsep.la.gov)
+ - date_published: 2024-06-20T22:40:40.306733+00:00
+
+ ## Louisiana Board of Regents – Louisiana Prospers: Driving Our Talent Imperative
+ - [https://regents.la.gov](https://regents.la.gov)
+ - date_published: 2024-05-11T09:33:39.731271+00:00
+
+ ## Voter Portal
+ - [https://voterportal.sos.la.gov](https://voterportal.sos.la.gov)
+ - date_published: 2024-09-16T18:14:04.592941+00:00
+
+ ## LaDOTD
+ - [http://www.dotd.la.gov](http://www.dotd.la.gov)
+ - date_published: 2024-08-18T05:00:12+00:00
+
+ ## Home | Louisiana Department of Agriculture and Forestry
+ - [https://www.ldaf.la.gov](https://www.ldaf.la.gov)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Page Redirection
+ - [https://www.legis.la.gov](https://www.legis.la.gov)
+ - date_published: 2020-02-27T01:21:00+00:00
+
+ ## Louisiana Housing Corporation (LHC)
+ - [https://www.lhc.la.gov](https://www.lhc.la.gov)
+ - date_published: 2024-08-17T06:38:20+00:00
+
+ ## LLA | Your Trusted Advisor
+ - [https://www.lla.la.gov](https://www.lla.la.gov)
+ - date_published: 2024-06-21T09:50:25.900703+00:00
+
+ ## Lt. Governor William H Nungesser | State of Louisiana
+ - [http://www.ltgov.la.gov](http://www.ltgov.la.gov)
+ - date_published: 2024-09-20T14:43:12+00:00
+
+ ## Louisiana Secretary of State
+ - [http://www.sos.la.gov](http://www.sos.la.gov)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## John C. Fleming, MD Treasurer | Louisiana State Treasurer | Louisiana
+ - [https://www.treasury.la.gov](https://www.treasury.la.gov)
+ - date_published: 2024-08-18T05:00:46.370333+00:00
+
+ ## Louisiana Department of Veterans Affairs
+ - [http://www.vetaffairs.la.gov](http://www.vetaffairs.la.gov)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home | Office of the City Clerk
+ - [https://clerk.lacity.gov](https://clerk.lacity.gov)
+ - date_published: 2024-10-12T00:14:10+00:00
+
+ ## Department of Cultural Affairs, City of Los Angeles
+ - [https://culture.lacity.gov](https://culture.lacity.gov)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## City of Los Angeles
+ - [https://disclaimer.lacity.gov](https://disclaimer.lacity.gov)
+ - date_published: 2023-09-07T17:02:15+00:00
+
+ ## Home | City of Los Angeles
+ - [https://lacity.gov](https://lacity.gov)
+ - date_published: 2024-10-12T18:00:07+00:00
+
+ ## Child Support Services – Los Angeles County
+ - [https://cssd.lacounty.gov](https://cssd.lacounty.gov)
+ - date_published: 2024-07-02T11:03:44.665404+00:00
+
+ ## Los Angeles County District Attorney's Office
+ - [https://da.lacounty.gov](https://da.lacounty.gov)
+ - date_published: 2023-10-25T19:22:42.028055+00:00
+
+ ## County of Los Angeles Open Data
+ - [https://data.lacounty.gov](https://data.lacounty.gov)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Consumer & Business – Los Angeles County
+ - [https://dcba.lacounty.gov](https://dcba.lacounty.gov)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home - Health Services Los Angeles County
+ - [https://dhs.lacounty.gov](https://dhs.lacounty.gov)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## COUNTY OF LOS ANGELES
+ - [https://lacounty.gov](https://lacounty.gov)
+ - date_published: 2024-07-02T11:03:47.634319+00:00
+
+ ## LA Health Services
+ - [https://lahealthportal.dhs.lacounty.gov](https://lahealthportal.dhs.lacounty.gov)
+ - date_published: 2024-07-02T11:03:53.832013+00:00
+
+ ## Home Page
+ - [https://locator.lacounty.gov](https://locator.lacounty.gov)
+ - date_published: 2024-02-08T22:53:06.181643+00:00
+
+ ## Department of Public Health
+ - [http://publichealth.lacounty.gov](http://publichealth.lacounty.gov)
+ - date_published: 2024-02-21T18:53:55+00:00
+
+ ## Lafayette, CO - Official Website | Official Website
+ - [https://www.lafayetteco.gov](https://www.lafayetteco.gov)
+ - date_published: 2024-07-14T14:06:49.933853+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.lakecountyfl.gov](https://www.lakecountyfl.gov)
+ - date_published: 2024-07-03T14:33:26.874944+00:00
+
+ ## The City of Lakewood, Ohio
+ - [https://www.lakewoodoh.gov](https://www.lakewoodoh.gov)
+ - date_published: 2024-07-03T10:09:14.191856+00:00
+
+ ## About the Lab
+ - [https://about.lanl.gov](https://about.lanl.gov)
+ - date_published: 2024-06-10T15:02:34+00:00
+
+ ## LANL AskIT Portal
+ - [https://askit.lanl.gov](https://askit.lanl.gov)
+ - date_published: 2024-06-17T03:03:57.599205+00:00
+
+ ## Business
+ - [https://business.lanl.gov](https://business.lanl.gov)
+ - date_published: 2024-04-29T19:43:59+00:00
+
+ ## CINT
+ - [http://cint.lanl.gov](http://cint.lanl.gov)
+ - date_published: 2024-07-01T18:45:43.751499+00:00
+
+ ## Center for Nonlinear Studies
+ - [http://cnls.lanl.gov](http://cnls.lanl.gov)
+ - date_published: 2024-08-19T20:54:14.045095+00:00
+
+ ## Collaboration
+ - [https://collaboration.lanl.gov](https://collaboration.lanl.gov)
+ - date_published: 2024-10-14T16:16:10+00:00
+
+ ## Community
+ - [https://community.lanl.gov](https://community.lanl.gov)
+ - date_published: 2024-08-19T15:10:34+00:00
+
+ ## Home | Los Alamos National Laboratory
+ - [https://discover.lanl.gov](https://discover.lanl.gov)
+ - date_published: 2024-05-01T15:35:45.924331+00:00
+
+ ## Environment
+ - [https://environment.lanl.gov](https://environment.lanl.gov)
+ - date_published: 2024-09-23T20:23:54+00:00
+
+ ## Electronic Public Reading Room
+ - [https://eprr.lanl.gov](https://eprr.lanl.gov)
+ - date_published: 2024-06-17T03:04:11.251475+00:00
+
+ ## Home Page
+ - [https://extrain.lanl.gov](https://extrain.lanl.gov)
+ - date_published: 2024-06-17T03:03:59.613957+00:00
+
+ ## Weblogin
+ - [https://idp.lanl.gov](https://idp.lanl.gov)
+ - date_published: 2024-10-16T05:29:13.730500+00:00
+
+ ## Weblogin
+ - [https://int.lanl.gov](https://int.lanl.gov)
+ - date_published: 2024-06-17T03:04:02.867228+00:00
+
+ ## iRecruitment Visitor Home Page
+ - [https://jobs.lanl.gov](https://jobs.lanl.gov)
+ - date_published: 2024-10-16T05:39:19.816808+00:00
+
+ ## Los Alamos National Lab: National Security Science
+ - [https://lanl.gov](https://lanl.gov)
+ - date_published: 2024-10-16T05:30:49.620541+00:00
+
+ ## Los Alamos Neutron Science Center
+ - [http://lansce.lanl.gov](http://lansce.lanl.gov)
+ - date_published: 2024-07-01T18:45:51.201938+00:00
+
+ ## Research Portal
+ - [https://laro.lanl.gov](https://laro.lanl.gov)
+ - date_published: 2024-09-30T19:04:56+00:00
+
+ ## LANL Research Library
+ - [https://lib-www.lanl.gov](https://lib-www.lanl.gov)
+ - date_published: 2023-10-25T19:22:43.331654+00:00
+
+ ## Mission
+ - [https://mission.lanl.gov](https://mission.lanl.gov)
+ - date_published: 2024-10-15T15:58:37+00:00
+
+ ## Weblogin
+ - [https://mymail.lanl.gov](https://mymail.lanl.gov)
+ - date_published: 2024-06-17T03:04:22.591170+00:00
+
+ ## National Security Research Center
+ - [https://nsrc.lanl.gov](https://nsrc.lanl.gov)
+ - date_published: 2024-10-16T04:01:00+00:00
+
+ ## Home | Organizations
+ - [https://organizations.lanl.gov](https://organizations.lanl.gov)
+ - date_published: 2024-06-12T19:07:34+00:00
+
+ ## Off-Site Source Recovery Program (OSRP) | Sealed Sources Recovery | Los Alamos National Lab |
+ - [https://osrp.lanl.gov](https://osrp.lanl.gov)
+ - date_published: 2023-10-25T19:22:45.215778+00:00
+
+ ## Los Alamos National Laboratory: Phonebook
+ - [http://phonebook.lanl.gov](http://phonebook.lanl.gov)
+ - date_published: 2024-07-01T18:45:57.508416+00:00
+
+ ## Weblogin
+ - [https://portal.lanl.gov](https://portal.lanl.gov)
+ - date_published: 2024-06-17T03:04:08.523192+00:00
+
+ ## Default Page | Los Alamos National Laboratory
+ - [http://public.lanl.gov](http://public.lanl.gov)
+ - date_published: 2024-08-19T20:53:54.297979+00:00
+
+ ## LANL | Centers | Quantum Initiative
+ - [http://quantum.lanl.gov](http://quantum.lanl.gov)
+ - date_published: 2024-10-19T07:48:17.802056+00:00
+
+ ## Home | Research Library
+ - [https://researchlibrary.lanl.gov](https://researchlibrary.lanl.gov)
+ - date_published: 2024-06-05T17:22:15+00:00
+
+ ## Science & Innovation
+ - [https://science-innovation.lanl.gov](https://science-innovation.lanl.gov)
+ - date_published: 2024-06-13T19:21:50+00:00
+
+ ## Seaborg Institute | National Security Education Center
+ - [http://seaborg.lanl.gov](http://seaborg.lanl.gov)
+ - date_published: 2024-06-26T19:34:51+00:00
+
+ ## Fusion
+ - [http://searcher-green.lanl.gov](http://searcher-green.lanl.gov)
+ - date_published: 2020-04-01T19:46:14+00:00
+
+ ## Weblogin
+ - [https://weblogin.lanl.gov](https://weblogin.lanl.gov)
+ - date_published: 2024-10-16T05:38:42.076469+00:00
+
+ ## System Unavailable
+ - [https://xxx.lanl.gov](https://xxx.lanl.gov)
+ - date_published: 2024-05-07T20:15:28.268325+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://access.lbl.gov](https://access.lbl.gov)
+ - date_published: 2024-07-15T02:48:18.849353+00:00
+
+ ## ALSHub
+ - [https://alshub.als.lbl.gov](https://alshub.als.lbl.gov)
+ - date_published: 2024-01-11T23:21:51+00:00
+
+ ## ALS - Advanced Light Source
+ - [https://als.lbl.gov](https://als.lbl.gov)
+ - date_published: 2023-10-25T19:22:49.152965+00:00
+
+ ## Applied Nuclear Physics Program – Just another Your SUPER-powered WP Engine Multisite Install site
+ - [http://anp.lbl.gov](http://anp.lbl.gov)
+ - date_published: 2024-06-22T09:06:37.107170+00:00
+
+ ## Assurance
+ - [https://assurance.lbl.gov](https://assurance.lbl.gov)
+ - date_published: 2024-05-12T04:46:34.198411+00:00
+
+ ## ATAP Division Homepage – Accelerator Technology & Applied Physics Division
+ - [https://atap.lbl.gov](https://atap.lbl.gov)
+ - date_published: 2024-08-19T03:50:51.939687+00:00
+
  ## A-Z – LBNL
  - [https://a-z.lbl.gov](https://a-z.lbl.gov)
  - date_published: 2024-05-12T04:46:28.991379+00:00
@@ -1657,6 +2438,10 @@
  - [http://tess.gsfc.nasa.gov](http://tess.gsfc.nasa.gov)
  - date_published: 2024-08-16T00:00:00+00:00
 
+ ## NASA Ames Intelligent Systems Division home
+ - [https://ti.arc.nasa.gov](https://ti.arc.nasa.gov)
+ - date_published: 2024-12-03T21:46:25.795014+00:00
+
  ## NASA Solar System Treks
  - [https://trek.nasa.gov](https://trek.nasa.gov)
  - date_published: 2024-06-01T03:13:21.871062+00:00
@@ -1700,6 +2485,10 @@
  ## Worldview: Explore Your Dynamic Planet
  - [https://worldview.earthdata.nasa.gov](https://worldview.earthdata.nasa.gov)
  - date_published: 2024-07-10T12:12:15+00:00
+
+ ## NASA WorldWind
+ - [https://worldwind.arc.nasa.gov](https://worldwind.arc.nasa.gov)
+ - date_published: 2024-03-22T18:28:27+00:00
 
  ## NASA’s Western Water Applications Office (WWAO)
  - [https://wwao.jpl.nasa.gov](https://wwao.jpl.nasa.gov)
@@ -3230,794 +4019,4 @@
  ## Controller, Nevada State
  - [http://controller.nv.gov](http://controller.nv.gov)
  - date_published: 2024-06-24T11:39:01.121400+00:00
-
- ## Nevada Department of Conservation & Natural Resources | DCNR
- - [http://dcnr.nv.gov](http://dcnr.nv.gov)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Gaming Control Board/Gaming Commission
- - [https://gaming.nv.gov](https://gaming.nv.gov)
- - date_published: 2024-07-07T10:29:15.329053+00:00
-
- ## Joe Lombardo, Governor of Nevada
- - [https://gov.nv.gov](https://gov.nv.gov)
- - date_published: 2024-05-06T17:11:33.129996+00:00
-
- ## Hal
- - [https://hal.nv.gov](https://hal.nv.gov)
- - date_published: 2024-06-24T11:38:20.902685+00:00
-
- ## Home | Nevada Division of Natural Heritage
- - [http://heritage.nv.gov](http://heritage.nv.gov)
- - date_published: 2024-06-24T11:44:58+00:00
-
- ## OCIO
- - [https://it.nv.gov](https://it.nv.gov)
- - date_published: 2024-06-25T16:03:04.384230+00:00
-
- ## Nevada State Lands | Caring For Our Great State | NDSL
- - [http://lands.nv.gov](http://lands.nv.gov)
- - date_published: 2023-12-31T00:00:00+00:00
-
- ## NV Lt. Governor
- - [http://ltgov.nv.gov](http://ltgov.nv.gov)
- - date_published: 2024-06-24T11:38:54.842648+00:00
-
- ## Nevada Division of Environmental Protection | NDEP
- - [https://ndep.nv.gov](https://ndep.nv.gov)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## State of Nevada
- - [http://nv.gov](http://nv.gov)
- - date_published: 2024-06-24T11:39:03.228773+00:00
-
- ## Nevada State Parks - A state park for every adventure | State Parks
- - [http://parks.nv.gov](http://parks.nv.gov)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Homepage | SHPO
- - [http://shpo.nv.gov](http://shpo.nv.gov)
- - date_published: 2024-06-24T11:45:10+00:00
-
- ## Nevada Judiciary
- - [https://nvcourts.gov](https://nvcourts.gov)
- - date_published: 2024-06-22T19:35:16.761100+00:00
-
- ## Home | New York State Attorney General
- - [https://ag.ny.gov](https://ag.ny.gov)
- - date_published: 2023-10-25T19:24:55.587930+00:00
-
- ## Agriculture and Markets
- - [https://agriculture.ny.gov](https://agriculture.ny.gov)
- - date_published: 2024-06-13T13:57:17+00:00
-
- ## Adirondack Park Agency
- - [https://apa.ny.gov](https://apa.ny.gov)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## NY State Identity Service - Signing in...
- - [https://apps.health.ny.gov](https://apps.health.ny.gov)
- - date_published: 2024-07-04T13:02:35.314466+00:00
-
- ## الزراعة والأسواق
- - [https://ar.agriculture.ny.gov](https://ar.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:10.512515+00:00
-
- ## COV-19
- - [https://ar.coronavirus.health.ny.gov](https://ar.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:12.153831+00:00
-
- ## الصفحة الرئيسية
- - [https://ar.dec.ny.gov](https://ar.dec.ny.gov)
- - date_published: 2024-07-14T04:45:55.278319+00:00
-
- ## الموقع الرسمي للحاكمة كاثي هوتشول
- - [https://ar.governor.ny.gov](https://ar.governor.ny.gov)
- - date_published: 2024-08-06T07:09:57.001752+00:00
-
- ## الموقع الشبكي الرسمي لولاية نيويورك
- - [https://ar.ny.gov](https://ar.ny.gov)
- - date_published: 2024-07-14T04:45:03.229353+00:00
-
- ## مكتب المساعدة المؤقتة والمساعدة المتعلقة بالإعاقة
- - [https://ar.otda.ny.gov](https://ar.otda.ny.gov)
- - date_published: 2024-10-28T00:27:58.649115+00:00
-
- ## NYSCA | NYSCA
- - [https://arts.ny.gov](https://arts.ny.gov)
- - date_published: 2024-06-30T22:50:05+00:00
-
- ## কৃষি এবং বাজার
- - [https://bn.agriculture.ny.gov](https://bn.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:03.401540+00:00
-
- ## COVID-19
- - [https://bn.coronavirus.health.ny.gov](https://bn.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:13.977022+00:00
-
- ## বাড়ি
- - [https://bn.dec.ny.gov](https://bn.dec.ny.gov)
- - date_published: 2024-07-14T04:45:29.916668+00:00
-
- ## গভর্নর ক্যাথি হোচুলের অফিসিয়াল ওয়েবসাইট
- - [https://bn.governor.ny.gov](https://bn.governor.ny.gov)
- - date_published: 2024-08-06T07:09:51.741729+00:00
-
- ## নিউ ইয়র্ক স্টেটের অফিসিয়াল ওয়েবসাইট
- - [https://bn.ny.gov](https://bn.ny.gov)
- - date_published: 2024-07-14T04:44:59.003515+00:00
-
- ## অস্থায়ী এবং প্রতিবন্ধী সহায়তা অফিস
- - [https://bn.otda.ny.gov](https://bn.otda.ny.gov)
- - date_published: 2024-10-28T00:28:15.522191+00:00
-
- ## NYS DCSS | New York Child Support
- - [https://childsupport.ny.gov](https://childsupport.ny.gov)
- - date_published: 2024-10-28T00:27:43.485471+00:00
-
- ## NYS Clean Heat
- - [https://cleanheat.ny.gov](https://cleanheat.ny.gov)
- - date_published: 2024-07-04T13:01:21.484475+00:00
-
- ## New York's Climate Leadership & Community Protection Act - New York's Climate Leadership & Community Protection Act
- - [https://climate.ny.gov](https://climate.ny.gov)
- - date_published: 2024-07-04T13:01:29.002283+00:00
-
- ## COVID-19
- - [https://coronavirus.health.ny.gov](https://coronavirus.health.ny.gov)
- - date_published: 2024-05-06T20:40:30.862940+00:00
-
- ## Sign in - Google Accounts
- - [https://covid19tracker.health.ny.gov](https://covid19tracker.health.ny.gov)
- - date_published: 2024-05-07T14:01:57.032934+00:00
-
- ## COVID-19
- - [https://covid19vaccine.health.ny.gov](https://covid19vaccine.health.ny.gov)
- - date_published: 2024-06-21T20:54:34+00:00
-
- ## State of New York | Open Data | State of New York
- - [https://data.ny.gov](https://data.ny.gov)
- - date_published: 2024-05-06T20:35:09.294406+00:00
-
- ## Home
- - [https://dec.ny.gov](https://dec.ny.gov)
- - date_published: 2024-05-11T09:25:27.207623+00:00
-
- ## New York DMV
- - [https://dmv.ny.gov](https://dmv.ny.gov)
- - date_published: 2024-06-26T12:57:21+00:00
-
- ## Department of Labor Home Page
- - [https://dol.ny.gov](https://dol.ny.gov)
- - date_published: 2024-07-02T17:30:25+00:00
-
- ## Register to Become an Organ and Tissue Donor Today
- - [https://donatelife.ny.gov](https://donatelife.ny.gov)
- - date_published: 2024-09-18T04:22:00.478474+00:00
-
- ## Department of State
- - [https://dos.ny.gov](https://dos.ny.gov)
- - date_published: 2024-08-02T19:38:24+00:00
-
- ## Cierpliwości...
- - [https://elections.ny.gov](https://elections.ny.gov)
- - date_published: 2024-06-20T11:43:04.162706+00:00
-
- ## Success
- - [https://encryption.ny.gov](https://encryption.ny.gov)
- - date_published: 2024-05-11T09:25:31.152395+00:00
-
- ## Homepage | NY Energy Advisor
- - [https://energyadvisor.ny.gov](https://energyadvisor.ny.gov)
- - date_published: 2024-07-04T12:52:25+00:00
-
- ## New York State New Energy Plan - New York State New Energy Plan
- - [https://energyplan.ny.gov](https://energyplan.ny.gov)
- - date_published: 2024-07-04T13:01:20.121278+00:00
-
- ## Agricultura y Mercados
- - [https://es.agriculture.ny.gov](https://es.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:08.210398+00:00
-
- ## COVID-19
- - [https://es.coronavirus.health.ny.gov](https://es.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:18.821934+00:00
-
- ## Casa
- - [https://es.dec.ny.gov](https://es.dec.ny.gov)
- - date_published: 2024-07-14T04:45:31.702114+00:00
-
- ## ESD Homepage | Empire State Development
- - [https://esd.ny.gov](https://esd.ny.gov)
- - date_published: 2024-07-22T03:38:07+00:00
-
- ## El sitio web oficial de la Gobernadora Kathy Hochul
- - [https://es.governor.ny.gov](https://es.governor.ny.gov)
- - date_published: 2024-08-06T07:09:58.859544+00:00
-
- ## El sitio web oficial del estado de Nueva York
- - [https://es.ny.gov](https://es.ny.gov)
- - date_published: 2024-07-14T04:45:01.902540+00:00
-
- ## Oficina de Asistencia Temporal y por Incapacidad
- - [https://es.otda.ny.gov](https://es.otda.ny.gov)
- - date_published: 2024-10-28T00:27:52.858090+00:00
-
- ## COVID-19
- - [https://forward.ny.gov](https://forward.ny.gov)
- - date_published: 2024-06-21T20:54:34+00:00
-
- ## Agriculture et marchés
- - [https://fr.agriculture.ny.gov](https://fr.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:20.077108+00:00
-
- ## COVID-19
- - [https://fr.coronavirus.health.ny.gov](https://fr.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:17.370963+00:00
-
- ## Accueil
- - [https://fr.dec.ny.gov](https://fr.dec.ny.gov)
- - date_published: 2024-07-14T04:45:49.307880+00:00
-
- ## Le site officiel du gouverneur Kathy Hochul
- - [https://fr.governor.ny.gov](https://fr.governor.ny.gov)
- - date_published: 2024-08-06T07:10:25.280693+00:00
-
- ## Le site officiel de l'État de New York
- - [https://fr.ny.gov](https://fr.ny.gov)
- - date_published: 2024-07-14T04:45:10.154471+00:00
-
- ## Bureau de l'assistance temporaire et de l'invalidité
- - [https://fr.otda.ny.gov](https://fr.otda.ny.gov)
- - date_published: 2024-10-28T00:28:13.142817+00:00
-
- ## The Official Website of Governor Kathy Hochul
- - [https://governor.ny.gov](https://governor.ny.gov)
- - date_published: 2024-04-29T03:12:36.486669+00:00
-
- ## NY Green Bank
- - [https://greenbank.ny.gov](https://greenbank.ny.gov)
- - date_published: 2024-07-04T13:01:23.953957+00:00
-
- ## State of New York | Open Data Health | State of New York
- - [https://health.data.ny.gov](https://health.data.ny.gov)
- - date_published: 2024-09-18T04:20:01.099923+00:00
-
- ## New York State Department of Health
- - [https://health.ny.gov](https://health.ny.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Agrikilti ak Mache yo
- - [https://ht.agriculture.ny.gov](https://ht.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:56.615806+00:00
-
- ## KOVID-19
- - [https://ht.coronavirus.health.ny.gov](https://ht.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:28.691765+00:00
-
- ## Lakay
- - [https://ht.dec.ny.gov](https://ht.dec.ny.gov)
- - date_published: 2024-07-14T04:45:40.967045+00:00
-
- ## Sit entènèt ofisyèl Gouvènè Kathy Hochul
- - [https://ht.governor.ny.gov](https://ht.governor.ny.gov)
- - date_published: 2024-08-06T07:09:55.405141+00:00
-
- ## Sit entènèt ofisyèl Eta New York
- - [https://ht.ny.gov](https://ht.ny.gov)
- - date_published: 2024-07-14T04:45:22.062679+00:00
-
- ## Biwo Asistans Tanporè ak Enfimite
- - [https://ht.otda.ny.gov](https://ht.otda.ny.gov)
- - date_published: 2024-10-28T00:28:00.810891+00:00
-
- ## Agricoltura e mercati
- - [https://it.agriculture.ny.gov](https://it.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:58.832152+00:00
-
- ## COVID-19
- - [https://it.coronavirus.health.ny.gov](https://it.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:07.693613+00:00
-
- ## Home
- - [https://it.dec.ny.gov](https://it.dec.ny.gov)
- - date_published: 2024-07-14T04:45:58.938859+00:00
-
- ## Il sito ufficiale del Governatore Kathy Hochul
- - [https://it.governor.ny.gov](https://it.governor.ny.gov)
- - date_published: 2024-08-06T07:09:48.180034+00:00
-
- ## Il sito ufficiale dello Stato di New York
- - [https://it.ny.gov](https://it.ny.gov)
- - date_published: 2024-07-14T04:45:08.320620+00:00
-
- ## Ufficio di assistenza temporanea e per disabili
- - [https://it.otda.ny.gov](https://it.otda.ny.gov)
- - date_published: 2024-10-28T00:27:45.747904+00:00
-
- ## Office of Information Technology Services Home Page
- - [http://its.ny.gov](http://its.ny.gov)
- - date_published: 2024-06-24T19:34:23+00:00
-
- ## 농업과 시장
- - [https://ko.agriculture.ny.gov](https://ko.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:15.182175+00:00
-
- ## COVID-19
- - [https://ko.coronavirus.health.ny.gov](https://ko.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:15.496189+00:00
-
- ## 홈
- - [https://ko.dec.ny.gov](https://ko.dec.ny.gov)
- - date_published: 2024-07-14T04:45:51.591161+00:00
-
- ## 캐시 호철 주지사 공식 홈페이지
- - [https://ko.governor.ny.gov](https://ko.governor.ny.gov)
- - date_published: 2024-08-06T07:10:05.803971+00:00
-
- ## 뉴욕 주의 공식 웹사이트
- - [https://ko.ny.gov](https://ko.ny.gov)
- - date_published: 2024-07-14T04:45:04.956154+00:00
-
- ## 임시 및 장애 지원 부서
- - [https://ko.otda.ny.gov](https://ko.otda.ny.gov)
- - date_published: 2024-10-28T00:28:17.465494+00:00
-
- ## Cierpliwości...
- - [https://nyenr.elections.ny.gov](https://nyenr.elections.ny.gov)
- - date_published: 2024-04-02T18:07:10.090471+00:00
-
- ## The Official Website of New York State
- - [https://ny.gov](https://ny.gov)
- - date_published: 2024-05-11T09:25:20.986139+00:00
-
- ## NYSERDA - New York State Energy Research & Development Authority - NYSERDA
- - [https://nyserda.ny.gov](https://nyserda.ny.gov)
- - date_published: 2024-05-08T06:31:58.064149+00:00
-
- ## Office of Addiction Services and Supports
- - [https://oasas.ny.gov](https://oasas.ny.gov)
- - date_published: 2024-07-09T15:30:31+00:00
-
- ## Office of General Services Home Page
- - [https://ogs.ny.gov](https://ogs.ny.gov)
- - date_published: 2024-07-11T13:13:31+00:00
-
- ## https://www.osc.ny.gov
- - [https://osc.ny.gov](https://osc.ny.gov)
- - date_published: 2023-12-19T17:57:44.445591+00:00
-
- ## Office of Temporary and Disability Assistance
- - [https://otda.ny.gov](https://otda.ny.gov)
- - date_published: 2024-06-19T05:11:44.981644+00:00
-
- ## New York State Parks, Recreation & Historic Preservation
- - [https://parks.ny.gov](https://parks.ny.gov)
- - date_published: 2024-07-04T13:05:10.141593+00:00
-
- ## Rolnictwo i rynki
- - [https://pl.agriculture.ny.gov](https://pl.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:01.122644+00:00
-
- ## COVID-19
- - [https://pl.coronavirus.health.ny.gov](https://pl.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:34.601017+00:00
-
- ## Dom
- - [https://pl.dec.ny.gov](https://pl.dec.ny.gov)
- - date_published: 2024-07-14T04:45:43.018570+00:00
-
- ## Oficjalna strona internetowa gubernator Kathy Hochul
- - [https://pl.governor.ny.gov](https://pl.governor.ny.gov)
- - date_published: 2024-08-06T07:10:00.444773+00:00
-
- ## Oficjalna strona internetowa stanu Nowy Jork
- - [https://pl.ny.gov](https://pl.ny.gov)
- - date_published: 2024-07-14T04:45:14.072658+00:00
-
- ## Biuro Pomocy Tymczasowej i Inwalidztwa
- - [https://pl.otda.ny.gov](https://pl.otda.ny.gov)
- - date_published: 2024-10-28T00:27:47.825331+00:00
-
- ## New York State Department of Health : Home
- - [https://profiles.health.ny.gov](https://profiles.health.ny.gov)
- - date_published: 2024-09-18T04:21:49.995857+00:00
-
- ## Сельское хозяйство и рынки
- - [https://ru.agriculture.ny.gov](https://ru.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:54.246801+00:00
-
- ## COVID-19
- - [https://ru.coronavirus.health.ny.gov](https://ru.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:10.558634+00:00
-
- ## Домой
- - [https://ru.dec.ny.gov](https://ru.dec.ny.gov)
- - date_published: 2024-07-14T04:45:45.166689+00:00
-
- ## Официальный сайт губернатора Кэти Хочул
- - [https://ru.governor.ny.gov](https://ru.governor.ny.gov)
- - date_published: 2024-08-06T07:09:50.031162+00:00
-
- ## Официальный сайт штата Нью-Йорк
- - [https://ru.ny.gov](https://ru.ny.gov)
- - date_published: 2024-07-14T04:45:12.822948+00:00
-
- ## Управление временной помощи и помощи инвалидам
- - [https://ru.otda.ny.gov](https://ru.otda.ny.gov)
- - date_published: 2024-10-28T00:27:56.502390+00:00
-
- ## Search Results
- - [https://search.health.ny.gov](https://search.health.ny.gov)
- - date_published: 2024-09-18T04:10:51.890240+00:00
-
- ## زراعت اور بازار
- - [https://ur.agriculture.ny.gov](https://ur.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:05.746827+00:00
-
- ## COVID-19
- - [https://ur.coronavirus.health.ny.gov](https://ur.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:26.785074+00:00
-
- ## گھر
- - [https://ur.dec.ny.gov](https://ur.dec.ny.gov)
- - date_published: 2024-07-14T04:45:47.338009+00:00
-
- ## گورنر کیتھی ہوچول کی سرکاری ویب سائٹ
- - [https://ur.governor.ny.gov](https://ur.governor.ny.gov)
- - date_published: 2024-08-06T07:10:02.269931+00:00
-
- ## نیویارک اسٹیٹ کی سرکاری ویب سائٹ
- - [https://ur.ny.gov](https://ur.ny.gov)
- - date_published: 2024-07-14T04:45:20.670606+00:00
-
- ## عارضی اور معذوری امداد کا دفتر
- - [https://ur.otda.ny.gov](https://ur.otda.ny.gov)
- - date_published: 2024-10-28T00:27:50.115001+00:00
-
- ## Cierpliwości...
- - [https://voterlookup.elections.ny.gov](https://voterlookup.elections.ny.gov)
- - date_published: 2024-06-22T19:36:44.226561+00:00
-
- ## New York State Wood Products Development Council
- - [https://woodproducts.ny.gov](https://woodproducts.ny.gov)
- - date_published: 2024-08-15T18:59:30+00:00
-
- ## Home
- - [http://www.dfs.ny.gov](http://www.dfs.ny.gov)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Home Page | HESC
- - [https://www.hesc.ny.gov](https://www.hesc.ny.gov)
- - date_published: 2024-07-13T03:19:49+00:00
-
- ## Madison County, NY | Official Website
- - [https://www.madisoncounty.ny.gov](https://www.madisoncounty.ny.gov)
- - date_published: 2024-09-18T04:10:40.678120+00:00
-
- ## OpenBudget.ny.gov
- - [http://www.openbudget.ny.gov](http://www.openbudget.ny.gov)
- - date_published: 2014-11-07T00:00:00+00:00
-
- ## אַגריקולטורע און מאַרקעץ
- - [https://yi.agriculture.ny.gov](https://yi.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:22.287847+00:00
-
- ## קאוויד-19
- - [https://yi.coronavirus.health.ny.gov](https://yi.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:36.391114+00:00
-
- ## היים
- - [https://yi.dec.ny.gov](https://yi.dec.ny.gov)
- - date_published: 2024-07-14T04:45:38.805762+00:00
-
- ## די אַפישאַל וועבזייטל פון גאווערנאר Kathy Hochul
- - [https://yi.governor.ny.gov](https://yi.governor.ny.gov)
- - date_published: 2024-08-06T07:09:53.411012+00:00
-
- ## דער באַאַמטער וועבזייטל פון ניו יארק סטעיט
- - [https://yi.ny.gov](https://yi.ny.gov)
- - date_published: 2024-07-14T04:45:16.854127+00:00
-
- ## אמט פון צייטווייליגע און דיסעביליטי הילף
- - [https://yi.otda.ny.gov](https://yi.otda.ny.gov)
- - date_published: 2024-10-28T00:28:02.629380+00:00
-
- ## 农业和市场
- - [https://zh.agriculture.ny.gov](https://zh.agriculture.ny.gov)
- - date_published: 2024-09-18T20:17:46.181956+00:00
-
- ## 新冠肺炎
- - [https://zh.coronavirus.health.ny.gov](https://zh.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:24.427282+00:00
-
- ## 家
- - [https://zh.dec.ny.gov](https://zh.dec.ny.gov)
- - date_published: 2024-07-14T04:45:36.665680+00:00
-
- ## 州长凯西·霍赫尔的官方网站
- - [https://zh.governor.ny.gov](https://zh.governor.ny.gov)
- - date_published: 2024-08-06T07:10:03.896926+00:00
-
- ## 纽约州官方网站
- - [https://zh.ny.gov](https://zh.ny.gov)
- - date_published: 2024-07-14T04:45:15.363275+00:00
-
- ## 临时和残疾援助办公室
- - [https://zh.otda.ny.gov](https://zh.otda.ny.gov)
- - date_published: 2024-10-28T00:28:19.624524+00:00
-
- ## 農業和市場
- - [https://zh-traditional.agriculture.ny.gov](https://zh-traditional.agriculture.ny.gov)
- - date_published: 2024-09-18T20:18:12.825300+00:00
-
- ## 冠狀病毒
- - [https://zh-traditional.coronavirus.health.ny.gov](https://zh-traditional.coronavirus.health.ny.gov)
- - date_published: 2024-06-27T04:01:22.673935+00:00
-
- ## 首頁
- - [https://zh-traditional.dec.ny.gov](https://zh-traditional.dec.ny.gov)
- - date_published: 2024-07-14T04:45:34.336956+00:00
-
- ## 州長凱西·霍楚爾的官方網站
- - [https://zh-traditional.governor.ny.gov](https://zh-traditional.governor.ny.gov)
- - date_published: 2024-08-06T07:10:23.511253+00:00
-
- ## 紐約州官方網站
- - [https://zh-traditional.ny.gov](https://zh-traditional.ny.gov)
- - date_published: 2024-07-14T04:44:57.489703+00:00
-
- ## 臨時和殘疾援助辦公室
- - [https://zh-traditional.otda.ny.gov](https://zh-traditional.otda.ny.gov)
- - date_published: 2024-10-28T00:27:39.782408+00:00
-
- ## Assembly Home | New York State Assembly
- - [https://nyassembly.gov](https://nyassembly.gov)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Mayor's Office NYC
- - [https://a002-oom03.nyc.gov](https://a002-oom03.nyc.gov)
- - date_published: 2019-07-03T17:43:50+00:00
-
- ## NYCAPS ESS
- - [https://a127-ess.nyc.gov](https://a127-ess.nyc.gov)
- - date_published: 2024-06-27T04:00:27.140283+00:00
-
- ## Citystore
- - [https://a856-citystore.nyc.gov](https://a856-citystore.nyc.gov)
- - date_published: 2024-06-27T04:00:05.259783+00:00
-
- ## Home | Notify NYC
- - [https://a858-nycnotify.nyc.gov](https://a858-nycnotify.nyc.gov)
- - date_published: 2024-06-27T04:00:15.280168+00:00
-
- ## ACCESS NYC
- - [http://access.nyc.gov](http://access.nyc.gov)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## HOME
- - [http://bronxboropres.nyc.gov](http://bronxboropres.nyc.gov)
- - date_published: 2024-06-27T04:00:24.705951+00:00
-
- ## Outlook
- - [https://cityhallmail.nyc.gov](https://cityhallmail.nyc.gov)
- - date_published: 2024-06-27T03:59:57.375724+00:00
-
- ## Home
- - [https://council.nyc.gov](https://council.nyc.gov)
- - date_published: 2024-06-22T06:03:12.632765+00:00
-
- ## MyCity
- - [https://mycity.nyc.gov](https://mycity.nyc.gov)
- - date_published: 2023-06-28T04:00:12+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [https://nyc.gov](https://nyc.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
-		 · NYC311
- - [https://portal.311.nyc.gov](https://portal.311.nyc.gov)
- - date_published: 2024-05-12T05:41:23.554612+00:00
-
- ## Property Information Portal
- - [https://propertyinformationportal.nyc.gov](https://propertyinformationportal.nyc.gov)
- - date_published: 2024-05-20T06:53:15.468150+00:00
-
- ## Welcome to NYC.gov | City of New York
- - [https://www1.nyc.gov](https://www1.nyc.gov)
- - date_published: 2024-05-06T20:35:17.057679+00:00
-
- ## Office of the Brooklyn Borough President Antonio Reynoso – Office of the Brooklyn Borough President
- - [https://www.brooklynbp.nyc.gov](https://www.brooklynbp.nyc.gov)
- - date_published: 2024-06-27T04:00:03.832147+00:00
-
- ## Home | Manhattan Borough President
- - [http://www.manhattanbp.nyc.gov](http://www.manhattanbp.nyc.gov)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## NYC Civic Engagement Commission (CEC)
- - [https://www.participate.nyc.gov](https://www.participate.nyc.gov)
- - date_published: 2024-09-12T17:08:31.120818+00:00
-
- ## Office of the New York City Public Advocate
- - [https://www.pubadvocate.nyc.gov](https://www.pubadvocate.nyc.gov)
- - date_published: 2024-06-27T04:00:07.721712+00:00
-
- ## Queens Borough President
- - [https://www.queensbp.nyc.gov](https://www.queensbp.nyc.gov)
- - date_published: 2024-06-27T04:00:09.198205+00:00
-
- ## FAQ's about Ask a Law Librarian - Ask a Law Librarian
- - [https://askalawlibrarian.nycourts.gov](https://askalawlibrarian.nycourts.gov)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://justicetraining.nycourts.gov](https://justicetraining.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://nycourts.gov](https://nycourts.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## NYS UCS Payment Services
- - [https://payments.nycourts.gov](https://payments.nycourts.gov)
- - date_published: 2024-05-02T12:53:16.954450+00:00
-
- ## Home
-		 · Customer Self-Service
- - [https://portal.nycourts.gov](https://portal.nycourts.gov)
- - date_published: 2024-05-02T12:52:37.814527+00:00
-
- ## NYCOURTS.GOV - New York State Unified Court System
- - [https://ww2.nycourts.gov](https://ww2.nycourts.gov)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Office of the Professions | Office of the Professions
- - [https://op.nysed.gov](https://op.nysed.gov)
- - date_published: 2024-05-09T02:37:11.093477+00:00
-
- ## New York State Education Department
- - [https://op-support.nysed.gov](https://op-support.nysed.gov)
- - date_published: 2024-07-08T20:09:21.005105+00:00
-
- ## New York State Education Department
- - [http://www.nysed.gov](http://www.nysed.gov)
- - date_published: 2024-07-08T18:57:34+00:00
-
- ## Home | Board of Regents
- - [http://www.regents.nysed.gov](http://www.regents.nysed.gov)
- - date_published: 2024-07-08T16:39:50+00:00
-
- ## The New York State Senate
- - [http://nysenate.gov](http://nysenate.gov)
- - date_published: 2023-10-25T19:24:58.425689+00:00
-
- ## City of Oakland Open Data Portal | Open Data Portal
- - [https://data.oaklandca.gov](https://data.oaklandca.gov)
- - date_published: 2024-07-08T11:29:33.197298+00:00
-
- ## Homepage
- - [https://oaklandca.gov](https://oaklandca.gov)
- - date_published: 2024-05-08T11:00:28.073943+00:00
-
- ## Barack Obama Presidential Library
- - [https://www.obamalibrary.gov](https://www.obamalibrary.gov)
- - date_published: 2024-06-29T17:41:36+00:00
-
- ## OCC Search
- - [https://apps.occ.gov](https://apps.occ.gov)
- - date_published: 2021-11-08T16:37:52+00:00
-
- ## OCC Careers Home page
- - [https://careers.occ.gov](https://careers.occ.gov)
- - date_published: 2022-05-14T00:00:00+00:00
-
- ## Office of the Comptroller of the Currency (OCC)
- - [https://occ.gov](https://occ.gov)
- - date_published: 2024-07-15T09:58:04.288053+00:00
-
- ## OCWR - Homepage
- - [https://www.ocwr.gov](https://www.ocwr.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## USOGE | OGE
- - [https://oge.gov](https://oge.gov)
- - date_published: 2024-06-15T06:14:50+00:00
-
- ## USOGE | OGE
- - [https://www2.oge.gov](https://www2.oge.gov)
- - date_published: 2024-08-18T04:57:27+00:00
-
- ## Home
- - [https://toledo.oh.gov](https://toledo.oh.gov)
- - date_published: 2024-04-30T07:26:06.794675+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://olvr.ohiosos.gov](https://olvr.ohiosos.gov)
- - date_published: 2024-05-06T21:44:27.190449+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://registrationreadiness.ohiosos.gov](https://registrationreadiness.ohiosos.gov)
- - date_published: 2024-05-04T06:49:48.941211+00:00
-
- ## Ohio Secretary of State's Office Website Maintenance
- - [https://www.ohiosos.gov](https://www.ohiosos.gov)
- - date_published: 2024-05-06T21:44:08.850706+00:00
-
- ## Home | Bureau of Justice Assistance
- - [https://bja.ojp.gov](https://bja.ojp.gov)
- - date_published: 2024-05-04T09:27:08.890517+00:00
-
- ## Home
- - [https://bjs.ojp.gov](https://bjs.ojp.gov)
- - date_published: 2024-06-20T12:17:41+00:00
-
- ## Reliable Research. Real Results.
- - [https://crimesolutions.ojp.gov](https://crimesolutions.ojp.gov)
- - date_published: 2024-08-09T14:25:28+00:00
-
- ## Home
- - [https://namus.nij.ojp.gov](https://namus.nij.ojp.gov)
- - date_published: 2024-10-29T17:38:01+00:00
-
- ## Strengthen science. Advance justice.
- - [https://nij.ojp.gov](https://nij.ojp.gov)
- - date_published: 2024-02-24T18:06:29.327243+00:00
-
- ## Working for Youth Justice and Safety | Office of Juvenile Justice and Delinquency Prevention
- - [https://ojjdp.ojp.gov](https://ojjdp.ojp.gov)
- - date_published: 2024-06-20T13:08:45+00:00
-
- ## Office of Justice Programs | Office of Justice Programs
- - [https://ojp.gov](https://ojp.gov)
- - date_published: 2024-08-16T21:11:04+00:00
-
- ## Home | Office for Victims of Crime
- - [https://ovc.ojp.gov](https://ovc.ojp.gov)
- - date_published: 2024-06-20T14:02:19+00:00
-
- ## Welcome - Oklahoma's Open Data
- - [https://data.ok.gov](https://data.ok.gov)
- - date_published: 2024-08-18T06:27:56.109127+00:00
-
- ## Governor J. Kevin Stitt
- - [https://www.governor.ok.gov](https://www.governor.ok.gov)
- - date_published: 2024-08-18T06:00:24+00:00
-
- ## Oklahoma Department of Commerce | Building business in OK
- - [https://www.okcommerce.gov](https://www.okcommerce.gov)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Oklahoma House of Representatives
- - [https://www.okhouse.gov](https://www.okhouse.gov)
- - date_published: 2024-08-18T06:27:39.255844+00:00
-
- ## Oklahoma.gov Home
- - [https://oklahoma.gov](https://oklahoma.gov)
- - date_published: 2024-01-08T15:10:22.537667+00:00
-
- ## Oklahoma Legislature - Home Page
- - [http://www.oklegislature.gov](http://www.oklegislature.gov)
- - date_published: 2024-09-16T18:15:07.996603+00:00
-
- ## Online Privacy and Security
- - [https://www.onguardonline.gov](https://www.onguardonline.gov)
- - date_published: 2024-08-05T19:04:43+00:00
-
- ## Opelika, AL | Official Website
- - [https://opelika-al.gov](https://opelika-al.gov)
- - date_published: 2024-04-30T03:12:42.107237+00:00
-
- ## Munis Self Service
- - [https://ss.opelika-al.gov](https://ss.opelika-al.gov)
- - date_published: 2016-03-22T21:21:56+00:00
-
- ## Combined Federal Campaign
- - [https://cfcgiving.opm.gov](https://cfcgiving.opm.gov)
- - date_published: 2024-05-08T02:37:17.757418+00:00
-
- ## Leadership
- - [https://leadership.opm.gov](https://leadership.opm.gov)
- - date_published: 2024-06-23T06:32:34.344743+00:00
 

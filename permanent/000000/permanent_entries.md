@@ -2302,6 +2302,10 @@
  - [http://actionize.ai](http://actionize.ai)
  - date_published: 2024-05-31T00:00:00+00:00
 
+ ## Activeloop | Deep Lake | Database for AI
+ - [https://activeloop.ai](https://activeloop.ai)
+ - date_published: 2024-12-03T12:23:20+00:00
+
  ## Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI
  - [https://careers.activeloop.ai](https://careers.activeloop.ai)
  - date_published: 2024-08-08T14:49:27+00:00
@@ -4016,8 +4020,4 @@
  ## Cambridge Boston Alignment Initiative
  - [https://www.cbai.ai](https://www.cbai.ai)
  - date_published: 2024-07-06T19:51:16.091861+00:00
-
- ## GO.CBK.AI - A Dub.co Custom Domain
- - [https://go.cbk.ai](https://go.cbk.ai)
- - date_published: 2024-09-07T23:49:24.654119+00:00
 

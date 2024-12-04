@@ -1,3 +1,99 @@
+ ## HUG - Hôpitaux universitaires de Genève
+ - [https://www.hug.ch](https://www.hug.ch)
+ - date_published: 2024-07-19T13:16:26+00:00
+
+ ## IAB Switzerland | IAB Switzerland Association
+ - [https://www.iab-switzerland.ch](https://www.iab-switzerland.ch)
+ - date_published: 2024-06-25T22:03:31.711490+00:00
+
+ ## IAESTE Switzerland - International Student Exchange
+ - [https://www.iaeste.ch](https://www.iaeste.ch)
+ - date_published: 2020-12-17T10:19:08+00:00
+
+ ## Iconomix - Iconomix – economics for everyone
+ - [https://www.iconomix.ch](https://www.iconomix.ch)
+ - date_published: 2024-07-16T22:18:36.249161+00:00
+
+ ## Accueil | ICTjournal
+ - [https://www.ictjournal.ch](https://www.ictjournal.ch)
+ - date_published: 2024-08-19T15:44:33+00:00
+
+ ## ICT-Ticker – Der Schweizer ICT-Medienspiegel
+ - [https://ict-ticker.ch](https://ict-ticker.ch)
+ - date_published: 2024-07-13T09:53:01.632543+00:00
+
+ ## Idéative - web and digital agency in Geneva and Bern
+ - [https://ideative.ch](https://ideative.ch)
+ - date_published: 2024-04-30T05:59:45.699421+00:00
+
+ ## Les Saugettes - 11 villas à Apples | 11 villas contigües à Apples, proche de Morges, avec une vue dégagée et au calme
+ - [https://www.idee-dailleurs.ch](https://www.idee-dailleurs.ch)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Idiap Research Institute
+ - [https://www.idiap.ch](https://www.idiap.ch)
+ - date_published: 2024-05-27T12:11:29+00:00
+
+ ## SUPSI - Dalle Molle Institute for Artificial Intelligence - Homepage
+ - [http://idsia.ch](http://idsia.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home page | IEC
+ - [https://webstore.iec.ch](https://webstore.iec.ch)
+ - date_published: 2024-10-16T07:24:04.669395+00:00
+
+ ## Homepage
+ - [https://www.iec.ch](https://www.iec.ch)
+ - date_published: 2024-07-02T21:01:26+00:00
+
+ ## Fotobuch, Fotokalender, Fotogrusskarten online erstellen | ifolor
+ - [https://www.ifolor.ch](https://www.ifolor.ch)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Startseite - Eidgenössisches Institut für Geistiges Eigentum
+ - [https://www.ige.ch](https://www.ige.ch)
+ - date_published: 2024-10-22T08:57:55.680456+00:00
+
+ ## igus® – Hochleistungspolymere für Bewegung
+ - [https://www.igus.ch](https://www.igus.ch)
+ - date_published: 2024-08-06T23:12:52.468833+00:00
+
+ ## ImmoScout24: Immobilien in der Schweiz mieten & kaufen
+ - [http://www.immoscout24.ch](http://www.immoscout24.ch)
+ - date_published: 2024-07-21T05:50:14.353809+00:00
+
+ ## Immobilien Schweiz – Wohnung mieten, Haus kaufen - ImmoStreet.ch
+ - [https://www.immostreet.ch](https://www.immostreet.ch)
+ - date_published: 2024-07-21T04:52:31.264904+00:00
+
+ ## NZZ Connect
+ - [https://impactfinanceforum.ch](https://impactfinanceforum.ch)
+ - date_published: 2024-07-21T05:49:48.033974+00:00
+
+ ## imrich.net
+ - [https://imri.ch](https://imri.ch)
+ - date_published: 2024-07-13T04:32:23.396768+00:00
+
+ ## inagenda.ch
+ - [https://www.inagenda.ch](https://www.inagenda.ch)
+ - date_published: 2024-07-15T12:25:24.671979+00:00
+
+ ## InCore Bank AG
+ - [https://www.incorebank.ch](https://www.incorebank.ch)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Indoor Astronaut – developing Unrailed!
+ - [https://indoorastronaut.ch](https://indoorastronaut.ch)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Einfache Werkzeuge um hervorragende Produkte zu entwickeln - Inflectra Schweiz
+ - [http://www.inflectrasoftware.ch](http://www.inflectrasoftware.ch)
+ - date_published: 2023-09-03T23:52:18+00:00
+
+ ## 🚀  Web hosting, cloud computing, cloud server, domain name, email, radio streaming and more!
+ - [https://www.infomaniak.ch](https://www.infomaniak.ch)
+ - date_published: 2024-05-01T06:55:11.768907+00:00
+
  ## Inner Development Goals – Switzerland
  - [https://www.innerdevelopmentgoals.ch](https://www.innerdevelopmentgoals.ch)
  - date_published: 2024-09-12T19:59:33.669449+00:00
@@ -2105,6 +2201,10 @@
  - [https://www.publiceye.ch](https://www.publiceye.ch)
  - date_published: 2024-08-11T03:52:53.846253+00:00
 
+ ## Punkt.: minimalist design and enhanced data privacy
+ - [https://www.punkt.ch](https://www.punkt.ch)
+ - date_published: 2024-12-02T13:11:55.009385+00:00
+
  ## Puzzle Mirror
  - [https://mirror.puzzle.ch](https://mirror.puzzle.ch)
  - date_published: 2024-07-15T11:10:46+00:00
@@ -3920,104 +4020,4 @@ Fakultät | Universität Basel
  ## SCG |Software Composition Group
  - [https://scg.unibe.ch](https://scg.unibe.ch)
  - date_published: 2022-05-11T00:00:00+00:00
-
- ## front
- - [https://seg.inf.unibe.ch](https://seg.inf.unibe.ch)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## The Hans Sigrist Foundation
- - [https://sigrist.unibe.ch](https://sigrist.unibe.ch)
- - date_published: 2024-05-07T21:58:32.764212+00:00
-
- ## Portal
- - [https://unibe.ch](https://unibe.ch)
- - date_published: 2024-06-14T23:30:18.262221+00:00
-
- ## VAMOS 2024 – Feb 7-9, Bern, Switzerland
- - [https://vamos2024.inf.unibe.ch](https://vamos2024.inf.unibe.ch)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Veranstaltungskalender - Universität Bern
- - [https://www.agenda.unibe.ch](https://www.agenda.unibe.ch)
- - date_published: 2024-09-15T15:05:36.469413+00:00
-
- ## Astronomisches Institut
- - [https://www.aiub.unibe.ch](https://www.aiub.unibe.ch)
- - date_published: 2024-06-16T22:06:45.775120+00:00
-
- ## Bernese GNSS Software
- - [http://www.bernese.unibe.ch](http://www.bernese.unibe.ch)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Studienführer Universität Bern
- - [https://www.bst.unibe.ch](https://www.bst.unibe.ch)
- - date_published: 2024-09-15T15:05:38.742410+00:00
-
- ## Computer Vision Group
- - [https://www.cvg.unibe.ch](https://www.cvg.unibe.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Digitalisierung an der Universität Bern
- - [https://www.digitalisierung.unibe.ch](https://www.digitalisierung.unibe.ch)
- - date_published: 2024-09-15T15:05:33.828408+00:00
-
- ## Gute Lehre an der Universität Bern
- - [https://www.gutelehre.unibe.ch](https://www.gutelehre.unibe.ch)
- - date_published: 2024-09-15T15:05:40.343858+00:00
-
- ## Institut für Informatik
- - [http://www.inf.unibe.ch](http://www.inf.unibe.ch)
- - date_published: 2024-07-07T03:09:26.786415+00:00
-
- ## Eine attraktive Arbeitgeberin
- - [https://www.karriere.unibe.ch](https://www.karriere.unibe.ch)
- - date_published: 2024-09-15T15:05:41.368412+00:00
-
- ## Mathematisches Institut
- - [http://www.math.unibe.ch](http://www.math.unibe.ch)
- - date_published: 2024-06-30T09:23:35.880742+00:00
-
- ## Institut für Medizingeschichte
- - [http://www.mhi.unibe.ch](http://www.mhi.unibe.ch)
- - date_published: 2024-06-24T09:35:17.842014+00:00
-
- ## Philosophisch-naturwissenschaftliche Fakultät
- - [https://www.philnat.unibe.ch](https://www.philnat.unibe.ch)
- - date_published: 2024-10-14T21:39:31.877382+00:00
-
- ## University Clinics UPD
- - [http://www.puk.unibe.ch](http://www.puk.unibe.ch)
- - date_published: 2024-06-24T09:50:41.770295+00:00
-
- ## Exoplanets and Origins of Life
- - [http://www.saintex.unibe.ch](http://www.saintex.unibe.ch)
- - date_published: 2024-08-18T20:11:10.126892+00:00
-
- ## Portal - Universität Bern
- - [https://www.suche.unibe.ch](https://www.suche.unibe.ch)
- - date_published: 2024-07-02T10:31:31.544456+00:00
-
- ## Universitätsbibliothek Bern UB
- - [https://www.ub.unibe.ch](https://www.ub.unibe.ch)
- - date_published: 2024-09-15T15:05:32.069547+00:00
-
- ## Das Online-Magazin der Universität Bern
- - [https://www.uniaktuell.unibe.ch](https://www.uniaktuell.unibe.ch)
- - date_published: 2024-09-15T15:05:42.936682+00:00
-
- ## UniBE Mobile
- - [https://www.uni-app.unibe.ch](https://www.uni-app.unibe.ch)
- - date_published: 2024-09-15T15:05:39.668758+00:00
-
- ## unicef.ch
- - [https://www.unicef.ch](https://www.unicef.ch)
- - date_published: 2024-07-12T07:53:11+00:00
-
- ## University of Fribourg - Home |   | University of Fribourg
- - [https://www.unifr.ch](https://www.unifr.ch)
- - date_published: 2024-06-17T11:03:06.001985+00:00
-
- ## Agenda des événements de l'Université de Genève - Événements
- - [https://agenda.unige.ch](https://agenda.unige.ch)
- - date_published: 2024-04-30T00:00:00+00:00
 

@@ -1,3 +1,769 @@
+ ## Natural Gas Initiative
+ - [https://ngi.stanford.edu](https://ngi.stanford.edu)
+ - date_published: 2024-07-03T12:50:29+00:00
+
+ ## The Stanford Natural Language Processing Group
+ - [https://nlp.stanford.edu](https://nlp.stanford.edu)
+ - date_published: 2024-04-28T04:06:49.432548+00:00
+
+ ## Interactive Nolli Map Website
+ - [https://nolli.stanford.edu](https://nolli.stanford.edu)
+ - date_published: 2024-08-19T20:14:31.354329+00:00
+
+ ## Nondiscrimination Policy | Stanford University Bulletin
+ - [https://non-discrimination.stanford.edu](https://non-discrimination.stanford.edu)
+ - date_published: 2024-05-07T20:25:38.478232+00:00
+
+ ## STAR Lab: Science, Telecommunications, and Radioscience Laboratory
+ - [http://nova.stanford.edu](http://nova.stanford.edu)
+ - date_published: 2018-10-20T02:04:34+00:00
+
+ ## Office of Accessible Education
+ - [https://oae.stanford.edu](https://oae.stanford.edu)
+ - date_published: 2024-06-25T12:55:12+00:00
+
+ ## ObjectFolder – ObjectFolder
+ - [https://objectfolder.stanford.edu](https://objectfolder.stanford.edu)
+ - date_published: 2023-07-14T03:20:32+00:00
+
+ ## Oceanic Imaginaries
+ - [https://oceanicimaginaries.sites.stanford.edu](https://oceanicimaginaries.sites.stanford.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Oracle Financials System | Stanford
+ - [http://ofweb.stanford.edu](http://ofweb.stanford.edu)
+ - date_published: 2024-06-29T10:59:02+00:00
+
+ ## Open Graph Benchmark
+ - [https://ogb.stanford.edu](https://ogb.stanford.edu)
+ - date_published: 2024-05-10T05:02:40.166820+00:00
+
+ ## Search - Online King Records Access (OKRA) - The Martin Luther King, Jr. Research and Education Institute
+ - [https://okra.stanford.edu](https://okra.stanford.edu)
+ - date_published: 2024-05-07T20:28:38.974263+00:00
+
+ ## Home | Learning for a Lifetime | Stanford Online
+ - [https://online.stanford.edu](https://online.stanford.edu)
+ - date_published: 2024-05-07T20:31:03.543229+00:00
+
+ ## The Stanford Open Policing Project
+ - [https://openpolicing.stanford.edu](https://openpolicing.stanford.edu)
+ - date_published: 2023-10-30T20:31:25+00:00
+
+ ## ORBIS: The Stanford Geospatial Network Model of the Roman World
+ - [http://orbis.stanford.edu](http://orbis.stanford.edu)
+ - date_published: 2020-11-21T07:26:07+00:00
+
+ ## Stanford Login
+ - [https://org.stanford.edu](https://org.stanford.edu)
+ - date_published: 2024-07-01T19:39:20.779382+00:00
+
+ ## New Student Orientation
+ - [https://orientation.stanford.edu](https://orientation.stanford.edu)
+ - date_published: 2024-06-22T01:55:38+00:00
+
+ ## Ori File System
+ - [https://ori.scs.stanford.edu](https://ori.scs.stanford.edu)
+ - date_published: 2016-09-11T23:59:38+00:00
+
+ ## Office for Religious & Spiritual Life
+ - [https://orsl.stanford.edu](https://orsl.stanford.edu)
+ - date_published: 2024-07-01T18:43:22+00:00
+
+ ## Office of Special Events & Protocol
+ - [https://osep.stanford.edu](https://osep.stanford.edu)
+ - date_published: 2024-10-03T21:30:24+00:00
+
+ ## Office of Student Engagement
+ - [https://ose.stanford.edu](https://ose.stanford.edu)
+ - date_published: 2024-06-28T21:14:48+00:00
+
+ ## Stanford OVAL — Home
+ - [https://oval.cs.stanford.edu](https://oval.cs.stanford.edu)
+ - date_published: 2024-09-24T20:17:17+00:00
+
+ ## Stanford OVAL — Home
+ - [https://ovallab.stanford.edu](https://ovallab.stanford.edu)
+ - date_published: 2024-05-07T20:27:52.277393+00:00
+
+ ## Admission Volunteers : Stanford University
+ - [https://oval.stanford.edu](https://oval.stanford.edu)
+ - date_published: 2023-09-12T00:00:00+00:00
+
+ ## Stanford PACS - Scholars. Practitioners. Leaders.
+ - [https://pacscenter.stanford.edu](https://pacscenter.stanford.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home
+ - [http://pair.stanford.edu](http://pair.stanford.edu)
+ - date_published: 2021-10-14T05:46:20+00:00
+
+ ## Families | Stanford University
+ - [https://parents.stanford.edu](https://parents.stanford.edu)
+ - date_published: 2024-05-07T20:30:58.519390+00:00
+
+ ## Family Weekend
+ - [http://parentsweekend.stanford.edu](http://parentsweekend.stanford.edu)
+ - date_published: 2024-04-19T01:28:46+00:00
+
+ ## Parker Library On the Web
+ - [https://parker.stanford.edu](https://parker.stanford.edu)
+ - date_published: 2024-10-20T05:28:05.656546+00:00
+
+ ## Partnerships | SLAC National Accelerator Laboratory
+ - [https://partnerships.slac.stanford.edu](https://partnerships.slac.stanford.edu)
+ - date_published: 2024-07-04T08:53:57+00:00
+
+ ## Department of Philosophy
+ - [https://philosophy.stanford.edu](https://philosophy.stanford.edu)
+ - date_published: 2024-06-27T19:24:15+00:00
+
+ ## Planning, Compliance, and Administrative Effectiveness
+ - [https://planning-humsci.stanford.edu](https://planning-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:18.024256+00:00
+
+ ## Stanford Encyclopedia of Philosophy
+ - [https://plato.stanford.edu](https://plato.stanford.edu)
+ - date_published: 2023-10-25T18:58:42.260186+00:00
+
+ ## Stanford University Department of Public Safety
+ - [https://police.stanford.edu](https://police.stanford.edu)
+ - date_published: 2024-07-01T02:19:48.479001+00:00
+
+ ## Political Science
+ - [https://politicalscience.stanford.edu](https://politicalscience.stanford.edu)
+ - date_published: 2024-06-15T04:07:59+00:00
+
+ ## Postdoc Benefits
+ - [http://postdocbenefits.stanford.edu](http://postdocbenefits.stanford.edu)
+ - date_published: 2024-06-19T01:03:17+00:00
+
+ ## Office of Postdoctoral Affairs | All Postdocs. All the Time.
+ - [https://postdocs.stanford.edu](https://postdocs.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Stanford Pervasive Parallelism Lab
+ - [https://ppl.stanford.edu](https://ppl.stanford.edu)
+ - date_published: 2024-05-07T20:26:11.039005+00:00
+
+ ## Stanford Profiles | Stanford University
+ - [https://profiles.stanford.edu](https://profiles.stanford.edu)
+ - date_published: 2024-05-07T20:26:42.824119+00:00
+
+ ## Protégé: A free, open-source ontology editor for building intelligent systems
+ - [https://protege.stanford.edu](https://protege.stanford.edu)
+ - date_published: 2023-11-10T17:29:05+00:00
+
+ ## Protege Wiki
+ - [https://protegewiki.stanford.edu](https://protegewiki.stanford.edu)
+ - date_published: 2024-05-11T06:56:44.468199+00:00
+
+ ## PSB Home Page
+ - [https://psb.stanford.edu](https://psb.stanford.edu)
+ - date_published: 2024-05-10T16:01:27+00:00
+
+ ## Department of Psychology
+ - [https://psychology.stanford.edu](https://psychology.stanford.edu)
+ - date_published: 2024-06-06T22:38:31+00:00
+
+ ## Stanford Digital Repository
+ - [https://purl.stanford.edu](https://purl.stanford.edu)
+ - date_published: 2023-12-20T21:10:16.425792+00:00
+
+ ## Program in Writing and Rhetoric
+ - [https://pwr.stanford.edu](https://pwr.stanford.edu)
+ - date_published: 2024-05-10T19:46:08+00:00
+
+ ## Residential & Dining Enterprises | Stanford R&DE
+ - [https://rde.stanford.edu](https://rde.stanford.edu)
+ - date_published: 2024-06-28T21:41:52+00:00
+
+ ## Robotics and Embodied Artificial Intelligence Lab
+ - [https://real.stanford.edu](https://real.stanford.edu)
+ - date_published: 2024-07-03T21:35:24+00:00
+
+ ## Recreation and Wellness
+ - [https://rec20211101.sites.stanford.edu](https://rec20211101.sites.stanford.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Recreation and Wellness
+ - [https://rec.stanford.edu](https://rec.stanford.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Stanford Recreation
+ - [https://recwell.stanford.edu](https://recwell.stanford.edu)
+ - date_published: 2024-07-01T20:25:13.956722+00:00
+
+ ## Stanford Red Barn
+ - [https://redbarn.stanford.edu](https://redbarn.stanford.edu)
+ - date_published: 2024-05-13T22:39:46+00:00
+
+ ## Sign in to MED SSO (SU, SHC, LPCH)
+ - [https://redcap.stanford.edu](https://redcap.stanford.edu)
+ - date_published: 2024-07-01T20:21:16.840371+00:00
+
+ ## Office of the University Registrar
+ - [http://registrar.stanford.edu](http://registrar.stanford.edu)
+ - date_published: 2024-06-27T20:49:04+00:00
+
+ ## RegLab – Regulation, Evaluation, and Governance Lab
+ - [https://reglab.stanford.edu](https://reglab.stanford.edu)
+ - date_published: 2024-05-07T20:26:38.059472+00:00
+
+ ## RelBench: Relational Deep Learning Benchmark
+ - [https://relbench.stanford.edu](https://relbench.stanford.edu)
+ - date_published: 2023-11-28T17:41:50.517585+00:00
+
+ ## Mapping the Republic of Letters
+ - [https://republicofletters.stanford.edu](https://republicofletters.stanford.edu)
+ - date_published: 2024-06-24T09:19:50.595151+00:00
+
+ ## VPTL Reorganized into Separate Units | Stanford Center for Professional Development
+ - [http://rescomp.stanford.edu](http://rescomp.stanford.edu)
+ - date_published: 2024-06-20T17:27:59.422578+00:00
+
+ ## Research Administration
+ - [https://researchadmin-humsci.stanford.edu](https://researchadmin-humsci.stanford.edu)
+ - date_published: 2024-05-07T20:28:09.314667+00:00
+
+ ## Residential Education
+ - [https://resed.stanford.edu](https://resed.stanford.edu)
+ - date_published: 2024-06-19T16:50:20+00:00
+
+ ## ROBOTICS CENTER
+ - [https://robotics.sites.stanford.edu](https://robotics.sites.stanford.edu)
+ - date_published: 2024-04-19T02:18:19+00:00
+
+ ## Stanford Artificial Intelligence Laboratory
+ - [https://robotics.stanford.edu](https://robotics.stanford.edu)
+ - date_published: 2024-05-06T14:18:13.958774+00:00
+
+ ## Sebastian Thrun – Home
+ - [http://robots.stanford.edu](http://robots.stanford.edu)
+ - date_published: 2022-01-27T02:54:34+00:00
+
+ ## RoboTurk - Crowdsourcing Robotics
+ - [https://roboturk.stanford.edu](https://roboturk.stanford.edu)
+ - date_published: 2021-09-06T05:04:27+00:00
+
+ ## Resident Safety Council
+ - [http://rsc.stanford.edu](http://rsc.stanford.edu)
+ - date_published: 2024-07-01T20:20:48+00:00
+
+ ## Robust Systems Group (RSG)
+ - [https://rsg.stanford.edu](https://rsg.stanford.edu)
+ - date_published: 2024-04-19T01:15:49+00:00
+
+ ## RubiksNet
+ - [https://rubiksnet.stanford.edu](https://rubiksnet.stanford.edu)
+ - date_published: 2021-06-24T14:44:10+00:00
+
+ ## Daniel Rubin's Profile | Stanford Profiles
+ - [https://rubinlab.stanford.edu](https://rubinlab.stanford.edu)
+ - date_published: 2024-07-01T19:42:53.538296+00:00
+
+ ## Get Help - SU Services
+ - [https://sawebhelp.stanford.edu](https://sawebhelp.stanford.edu)
+ - date_published: 2024-07-01T20:26:34.123287+00:00
+
+ ## SCCEI Home | FSI
+ - [https://sccei.fsi.stanford.edu](https://sccei.fsi.stanford.edu)
+ - date_published: 2024-06-29T00:58:11+00:00
+
+ ## Scope | Stanford Medicine's blog - Scope
+ - [https://scopeblog.stanford.edu](https://scopeblog.stanford.edu)
+ - date_published: 2023-10-25T18:58:46.447141+00:00
+
+ ## Home | Stanford Center for Professional Development
+ - [https://scpd.stanford.edu](https://scpd.stanford.edu)
+ - date_published: 2024-05-10T05:42:33.589801+00:00
+
+ ## Stanford Diabetes Research Center
+ - [https://sdrc.stanford.edu](https://sdrc.stanford.edu)
+ - date_published: 2024-07-01T20:21:12.937860+00:00
+
+ ## SearchWorks catalog : Stanford Libraries
+ - [https://searchworks.stanford.edu](https://searchworks.stanford.edu)
+ - date_published: 2024-04-28T04:01:12.524459+00:00
+
+ ## Stanford Computer Security Laboratory
+ - [https://seclab.stanford.edu](https://seclab.stanford.edu)
+ - date_published: 2024-05-11T09:26:26.634824+00:00
+
+ ## Stanford Security Lunch
+ - [https://securitylunch.stanford.edu](https://securitylunch.stanford.edu)
+ - date_published: 2024-05-15T01:24:59+00:00
+
+ ## Stanford Engineering Everywhere | Home
+ - [https://see.stanford.edu](https://see.stanford.edu)
+ - date_published: 2024-12-03T19:59:41+00:00
+
+ ## Streamlit
+ - [https://sequoia.stanford.edu](https://sequoia.stanford.edu)
+ - date_published: 2023-10-27T00:14:18+00:00
+
+ ## Stanford Login
+ - [https://sera.stanford.edu](https://sera.stanford.edu)
+ - date_published: 2024-07-01T20:08:29.869657+00:00
+
+ ## Stanford Engineering Research Introductions
+ - [https://serio.stanford.edu](https://serio.stanford.edu)
+ - date_published: 2024-04-24T22:02:29+00:00
+
+ ## Global Studies
+ - [https://sgs.stanford.edu](https://sgs.stanford.edu)
+ - date_published: 2024-05-07T20:29:39.266936+00:00
+
+ ## shape lab - Stanford University
+ - [https://shape.stanford.edu](https://shape.stanford.edu)
+ - date_published: 2024-05-07T20:28:03.440554+00:00
+
+ ## Stanford Humanities Today | Stanford Humanities Center
+ - [https://shc.stanford.edu](https://shc.stanford.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Stanford Institute for Materials and Energy Sciences
+ - [https://simes.stanford.edu](https://simes.stanford.edu)
+ - date_published: 2024-07-02T18:26:38+00:00
+
+ ## Stanford Information Networks Group (SING)
+ - [https://sing.stanford.edu](https://sing.stanford.edu)
+ - date_published: 2024-06-22T07:22:39.496051+00:00
+
+ ## SISL
+ - [https://sisl.stanford.edu](https://sisl.stanford.edu)
+ - date_published: 2024-05-07T18:21:10.499838+00:00
+
+ ## Stanford Introductory Studies
+ - [https://sis.stanford.edu](https://sis.stanford.edu)
+ - date_published: 2024-05-22T18:21:52+00:00
+
+ ## Stanford Sites | University IT
+ - [https://sites.stanford.edu](https://sites.stanford.edu)
+ - date_published: 2024-07-12T15:19:00+00:00
+
+ ## Structured Liberal Education (SLE)
+ - [http://sle.stanford.edu](http://sle.stanford.edu)
+ - date_published: 2024-05-22T18:22:58+00:00
+
+ ## SNAP: Stanford Network Analysis Project
+ - [http://snap.stanford.edu](http://snap.stanford.edu)
+ - date_published: 2024-07-01T19:40:05.329304+00:00
+
+ ## Snorkel
+ - [http://snorkel.stanford.edu](http://snorkel.stanford.edu)
+ - date_published: 2024-07-01T19:39:51.114412+00:00
+
+ ## Stanford Nano Shared Facilities
+ - [https://snsf.stanford.edu](https://snsf.stanford.edu)
+ - date_published: 2024-07-13T05:07:13+00:00
+
+ ## Snyder Lab
+ - [https://snyderlab.stanford.edu](https://snyderlab.stanford.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Office of Digital Accessibility | University IT
+ - [https://soap.stanford.edu](https://soap.stanford.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Sociology
+ - [https://sociology.stanford.edu](https://sociology.stanford.edu)
+ - date_published: 2024-10-14T19:29:37+00:00
+
+ ## Sophomore College
+ - [https://soco.stanford.edu](https://soco.stanford.edu)
+ - date_published: 2024-06-10T19:08:32+00:00
+
+ ## Home | Software at Stanford
+ - [https://software.stanford.edu](https://software.stanford.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The Sonnenburg Lab - Home
+ - [https://sonnenburglab.stanford.edu](https://sonnenburglab.stanford.edu)
+ - date_published: 2024-04-30T06:44:47.569788+00:00
+
+ ## Information and Resources for Current Students
+ - [https://sophomorewelcome.stanford.edu](https://sophomorewelcome.stanford.edu)
+ - date_published: 2024-06-24T15:57:57+00:00
+
+ ## Stanford Pre-Collegiate Studies
+ - [https://spcsonlineapp.stanford.edu](https://spcsonlineapp.stanford.edu)
+ - date_published: 2024-07-01T20:12:45.566010+00:00
+
+ ## SPCS
+ - [https://spcsportal.stanford.edu](https://spcsportal.stanford.edu)
+ - date_published: 2023-07-02T20:12:24+00:00
+
+ ## Stanford Pre-Collegiate Studies
+ - [https://spcs.stanford.edu](https://spcs.stanford.edu)
+ - date_published: 2024-05-07T20:28:49.474828+00:00
+
+ ## Stanford Psychophysiology Laboratory
+ - [https://spl.stanford.edu](https://spl.stanford.edu)
+ - date_published: 2024-04-19T03:22:57+00:00
+
+ ## Stanford Research Computing
+ - [https://srcc.stanford.edu](https://srcc.stanford.edu)
+ - date_published: 2024-07-16T21:15:34+00:00
+
+ ## Stacks
+ - [https://stacks.stanford.edu](https://stacks.stanford.edu)
+ - date_published: 2023-10-25T18:58:47.620111+00:00
+
+ ## Job Opportunities at Stanford University
+ - [https://stanfordcareers.stanford.edu](https://stanfordcareers.stanford.edu)
+ - date_published: 2024-07-01T20:18:40.809366+00:00
+
+ ## Stanford University
+ - [https://stanford.edu](https://stanford.edu)
+ - date_published: 2024-05-07T20:25:42.613680+00:00
+
+ ## Stanford Directory
+ - [https://stanfordwho.stanford.edu](https://stanfordwho.stanford.edu)
+ - date_published: 2024-05-07T20:30:46.785624+00:00
+
+ ## Stanford Login
+ - [http://stanfordyou.stanford.edu](http://stanfordyou.stanford.edu)
+ - date_published: 2024-07-01T20:23:00.300081+00:00
+
+ ## Home - Stanford Medicine Magazine
+ - [https://stanmed.stanford.edu](https://stanmed.stanford.edu)
+ - date_published: 2023-10-25T18:58:50.836757+00:00
+
+ ## stan-x
+ - [https://stanx.stanford.edu](https://stanx.stanford.edu)
+ - date_published: 2024-07-14T11:45:38.795520+00:00
+
+ ## Department of Statistics
+ - [https://statistics.stanford.edu](https://statistics.stanford.edu)
+ - date_published: 2024-06-29T16:01:50+00:00
+
+ ## Topics in Computing for Data Science
+ - [https://stats352.stanford.edu](https://stats352.stanford.edu)
+ - date_published: 2024-05-07T20:26:34.326988+00:00
+
+ ## Machine Learning Group
+ - [http://statsml.stanford.edu](http://statsml.stanford.edu)
+ - date_published: 2023-06-30T22:25:22+00:00
+
+ ## Streamlit
+ - [https://storm.genie.stanford.edu](https://storm.genie.stanford.edu)
+ - date_published: 2024-03-01T20:22:19+00:00
+
+ ## Student Affairs
+ - [https://studentaffairs.stanford.edu](https://studentaffairs.stanford.edu)
+ - date_published: 2024-05-07T20:30:41.528356+00:00
+
+ ## Student Learning Programs
+ - [https://studentlearning.stanford.edu](https://studentlearning.stanford.edu)
+ - date_published: 2024-06-06T02:03:26+00:00
+
+ ## Stanford Students
+ - [https://students.alumni.stanford.edu](https://students.alumni.stanford.edu)
+ - date_published: 2024-07-01T20:35:11.992476+00:00
+
+ ## Student Services
+ - [https://studentservices.stanford.edu](https://studentservices.stanford.edu)
+ - date_published: 2024-05-07T20:26:41.205717+00:00
+
+ ## Home - Stanford Technology Ventures Program
+ - [https://stvp.stanford.edu](https://stvp.stanford.edu)
+ - date_published: 2021-08-30T00:00:00+00:00
+
+ ## SUMaC Landing Page | Stanford Pre-Collegiate Studies
+ - [https://sumac.spcs.stanford.edu](https://sumac.spcs.stanford.edu)
+ - date_published: 2024-05-07T20:28:46.734332+00:00
+
+ ## Summer Fellows Program
+ - [https://summerfellows.stanford.edu](https://summerfellows.stanford.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## SUMO - Stanford University Mathematical Organization
+ - [https://sumo.stanford.edu](https://sumo.stanford.edu)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Center for Interface Science and Catalysis | Theory
+ - [https://suncat.stanford.edu](https://suncat.stanford.edu)
+ - date_published: 2024-07-06T21:22:37+00:00
+
+ ## Suppliers at SLAC | | SLAC National Accelerator Laboratory
+ - [https://suppliers.slac.stanford.edu](https://suppliers.slac.stanford.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Stanford Computer Science
+ - [https://support.cs.stanford.edu](https://support.cs.stanford.edu)
+ - date_published: 2024-06-28T16:40:37.450843+00:00
+
+ ## Sustainability Accelerator
+ - [https://sustainability-accelerator.stanford.edu](https://sustainability-accelerator.stanford.edu)
+ - date_published: 2024-07-01T20:22:19+00:00
+
+ ## Stanford Doerr School of Sustainability
+ - [https://sustainability.stanford.edu](https://sustainability.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Stanford Vision and Learning Lab (SVL)
+ - [https://svl.stanford.edu](https://svl.stanford.edu)
+ - date_published: 2024-04-28T04:07:30.809659+00:00
+
+ ## Symbolic Systems Program
+ - [https://symsys.stanford.edu](https://symsys.stanford.edu)
+ - date_published: 2024-06-27T19:25:42+00:00
+
+ ## Help Guides
+ - [https://techsource-helpguides.stanford.edu](https://techsource-helpguides.stanford.edu)
+ - date_published: 2024-09-27T07:24:27+00:00
+
+ ## Tech Resources & Support
+ - [http://techsource.stanford.edu](http://techsource.stanford.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Student Technology Services | Lathrop Learning Hub
+ - [https://thehub.stanford.edu](https://thehub.stanford.edu)
+ - date_published: 2024-06-28T16:41:27+00:00
+
+ ## Loading...
+ - [https://theory.stanford.edu](https://theory.stanford.edu)
+ - date_published: 2011-04-09T08:48:36+00:00
+
+ ## Technology Innovation Directorate | SLAC National Accelerator Laboratory
+ - [https://tid.slac.stanford.edu](https://tid.slac.stanford.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Transformative Learning Technologies Lab
+ - [https://tltl.stanford.edu](https://tltl.stanford.edu)
+ - date_published: 2024-07-03T11:41:30.496972+00:00
+
+ ## The Movement Lab
+ - [https://tml.stanford.edu](https://tml.stanford.edu)
+ - date_published: 2024-06-12T01:07:35+00:00
+
+ ## Stanford Transportation
+ - [https://transportation.stanford.edu](https://transportation.stanford.edu)
+ - date_published: 2024-06-30T03:31:40+00:00
+
+ ## Student Affairs Meeting Services
+ - [https://tresidder.stanford.edu](https://tresidder.stanford.edu)
+ - date_published: 2024-06-07T23:07:09+00:00
+
+ ## University Communications
+ - [https://ucomm.stanford.edu](https://ucomm.stanford.edu)
+ - date_published: 2024-05-07T20:29:43.038780+00:00
+
+ ## SoE Undergrad Handbook
+ - [https://ughb.stanford.edu](https://ughb.stanford.edu)
+ - date_published: 2024-10-01T17:18:17+00:00
+
+ ## Stanford Login
+ - [https://uitcommunity.stanford.edu](https://uitcommunity.stanford.edu)
+ - date_published: 2024-06-16T08:14:15.742292+00:00
+
+ ## University IT
+ - [https://uit.stanford.edu](https://uit.stanford.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Stanford PULSE Institute
+ - [https://ultrafast.stanford.edu](https://ultrafast.stanford.edu)
+ - date_published: 2024-05-21T23:51:48+00:00
+
+ ## Undergraduate Research and Independent Projects
+ - [https://undergradresearch.stanford.edu](https://undergradresearch.stanford.edu)
+ - date_published: 2024-06-19T22:18:21+00:00
+
+ ## Undergrad
+ - [https://undergrad.stanford.edu](https://undergrad.stanford.edu)
+ - date_published: 2024-05-07T20:30:45.218714+00:00
+
+ ## Vaden Health Services
+ - [https://vaden.stanford.edu](https://vaden.stanford.edu)
+ - date_published: 2024-06-26T21:11:12+00:00
+
+ ## Mathematics
+ - [https://virtualmath1.stanford.edu](https://virtualmath1.stanford.edu)
+ - date_published: 2024-04-30T07:48:23.930819+00:00
+
+ ## Stanford Computer Vision Lab
+ - [http://vision.stanford.edu](http://vision.stanford.edu)
+ - date_published: 2019-05-26T22:44:46+00:00
+
+ ## Visitor Information : Stanford University
+ - [https://visit.stanford.edu](https://visit.stanford.edu)
+ - date_published: 2024-05-07T20:25:14.389278+00:00
+
+ ## Stanford Visualization Group
+ - [http://vis.stanford.edu](http://vis.stanford.edu)
+ - date_published: 2012-10-15T00:00:00+00:00
+
+ ## VLSI Group
+ - [https://vlsi.stanford.edu](https://vlsi.stanford.edu)
+ - date_published: 2024-04-19T01:11:32+00:00
+
+ ## Home
+ - [http://vlsiweb.stanford.edu](http://vlsiweb.stanford.edu)
+ - date_published: 2023-06-07T17:51:30+00:00
+
+ ## Office of the Vice Provost for Graduate Education
+ - [https://vpge.stanford.edu](https://vpge.stanford.edu)
+ - date_published: 2024-05-07T20:30:48.488389+00:00
+
+ ## Log in
+ - [https://vpsaintranet.stanford.edu](https://vpsaintranet.stanford.edu)
+ - date_published: 2024-07-01T20:26:24.612636+00:00
+
+ ## For Faculty and Staff
+ - [https://vpuefacstaff.sites.stanford.edu](https://vpuefacstaff.sites.stanford.edu)
+ - date_published: 2024-04-19T03:49:42+00:00
+
+ ## For Faculty and Staff
+ - [https://vpuefacstaff.stanford.edu](https://vpuefacstaff.stanford.edu)
+ - date_published: 2024-04-19T03:49:42+00:00
+
+ ## About VPUE
+ - [http://vpue.stanford.edu](http://vpue.stanford.edu)
+ - date_published: 2024-07-01T19:23:09+00:00
+
+ ## SLAC | Visitors Users & Employees
+ - [https://vue.slac.stanford.edu](https://vue.slac.stanford.edu)
+ - date_published: 2024-07-06T16:32:32+00:00
+
+ ## The Wall Lab | Wall Lab at Stanford University
+ - [https://wall-lab.stanford.edu](https://wall-lab.stanford.edu)
+ - date_published: 2024-05-08T09:08:54+00:00
+
+ ## Accreditation
+ - [https://wasc.stanford.edu](https://wasc.stanford.edu)
+ - date_published: 2024-04-19T03:58:43+00:00
+
+ ## Ways of Thinking Ways of Doing
+ - [https://ways.stanford.edu](https://ways.stanford.edu)
+ - date_published: 2024-04-19T03:45:46+00:00
+
+ ## Stanford Snyder Lab, Genetics | Precision Medicine,
+ - [https://wearables.stanford.edu](https://wearables.stanford.edu)
+ - date_published: 2024-05-08T10:28:43.358027+00:00
+
+ ## Stanford Weather
+ - [http://weather.stanford.edu](http://weather.stanford.edu)
+ - date_published: 2024-07-01T19:14:59.179882+00:00
+
+ ## Home | Stanford WebCamp
+ - [https://webcamp.stanford.edu](https://webcamp.stanford.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Stanford Login
+ - [https://webmail.stanford.edu](https://webmail.stanford.edu)
+ - date_published: 2024-06-16T08:14:11.086877+00:00
+
+ ## WebProtégé
+ - [http://webprotege.stanford.edu](http://webprotege.stanford.edu)
+ - date_published: 2024-07-13T09:17:57.607768+00:00
+
+ ## Stanford University
+ - [https://web.stanford.edu](https://web.stanford.edu)
+ - date_published: 2023-10-25T11:23:29.593797+00:00
+ - tags: ['university']
+
+ ## Home | Wehab Lab - Stanford
+ - [https://wehab.stanford.edu](https://wehab.stanford.edu)
+ - date_published: 2024-05-07T20:27:42.889052+00:00
+
+ ## Well MD
+ - [https://wellmd.stanford.edu](https://wellmd.stanford.edu)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## WikiChat
+ - [https://wikichat.genie.stanford.edu](https://wikichat.genie.stanford.edu)
+ - date_published: 2024-07-01T20:04:32.376403+00:00
+
+ ## main | wilmap
+ - [https://wilmap.law.stanford.edu](https://wilmap.law.stanford.edu)
+ - date_published: 2024-05-07T20:26:32.714479+00:00
+
+ ## main | wilmap
+ - [https://wilmap.stanford.edu](https://wilmap.stanford.edu)
+ - date_published: 2024-05-07T09:48:53.463655+00:00
+
+ ## WONDERBREAD
+ - [http://wonderbread.stanford.edu](http://wonderbread.stanford.edu)
+ - date_published: 2024-06-22T22:31:55+00:00
+
+ ## Stanford Woods Institute for the Environment
+ - [https://woods.stanford.edu](https://woods.stanford.edu)
+ - date_published: 2024-07-01T20:21:54+00:00
+
+ ## Wordbank: An open database of children's vocabulary development
+ - [http://wordbank.stanford.edu](http://wordbank.stanford.edu)
+ - date_published: 2024-07-02T06:25:09.804552+00:00
+
+ ## Wireless Research Lab
+ - [https://wsl.stanford.edu](https://wsl.stanford.edu)
+ - date_published: 2024-05-30T06:24:12+00:00
+
+ ## SLAC National Accelerator Laboratory | Bold people. Visionary science. Real impact.
+ - [https://www6.slac.stanford.edu](https://www6.slac.stanford.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home | Stanford Autonomous Agents Lab
+ - [https://www.autonomousagents.stanford.edu](https://www.autonomousagents.stanford.edu)
+ - date_published: 2024-06-22T08:15:14.716453+00:00
+
+ ## Computer Science
+ - [https://www-cs-faculty.stanford.edu](https://www-cs-faculty.stanford.edu)
+ - date_published: 2023-10-25T11:23:38.340991+00:00
+ - tags: ['computer science', 'university']
+
+ ## Center for the Study of Language and Information
+ - [https://www-csli.stanford.edu](https://www-csli.stanford.edu)
+ - date_published: 2024-05-07T20:26:36.420705+00:00
+
+ ## Computer Science
+ - [http://www-cs-staff.stanford.edu](http://www-cs-staff.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Computer Science
+ - [https://www-cs.stanford.edu](https://www-cs.stanford.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Student Information
+ - [https://www-cs-students.stanford.edu](https://www-cs-students.stanford.edu)
+ - date_published: 2024-03-24T15:03:46.903814+00:00
+
+ ## The Stanford University InfoLab
+ - [http://www-db.stanford.edu](http://www-db.stanford.edu)
+ - date_published: 2011-11-16T04:48:49+00:00
+
+ ## Fermi Large Area Telescope
+ - [http://www-fermi.stanford.edu](http://www-fermi.stanford.edu)
+ - date_published: 2024-10-14T23:56:37.759215+00:00
+
+ ## Formal Reasoning Group
+ - [https://www-formal.stanford.edu](https://www-formal.stanford.edu)
+ - date_published: 2007-03-01T22:01:53+00:00
+
+ ## Stanford Secure Computer Systems Group
+ - [https://www.scs.stanford.edu](https://www.scs.stanford.edu)
+ - date_published: 2023-10-25T18:59:15.431486+00:00
+
+ ## Home
+ - [https://www.sse.stanford.edu](https://www.sse.stanford.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## As a national user facility the Stanford Synchrotron Radiation Lightsource invites scientists from all over the world to use our intense X-ray beam and world-class instruments for their experiments.
+ - [https://www-ssrl.slac.stanford.edu](https://www-ssrl.slac.stanford.edu)
+ - date_published: 2024-07-06T21:23:33+00:00
+
+ ## Department of Statistics
+ - [https://www-stat.stanford.edu](https://www-stat.stanford.edu)
+ - date_published: 2024-05-07T15:26:10.370328+00:00
+
+ ## Home
+ - [https://www-vlsi.stanford.edu](https://www-vlsi.stanford.edu)
+ - date_published: 2023-06-07T17:51:30+00:00
+
+ ## YelpBot
+ - [https://yelpbot.genie.stanford.edu](https://yelpbot.genie.stanford.edu)
+ - date_published: 2024-07-01T20:04:31.055326+00:00
+
  ## McKeown Group
  - [http://yuba.stanford.edu](http://yuba.stanford.edu)
  - date_published: 2023-12-05T21:26:15+00:00
@@ -1386,6 +2152,10 @@
  ## College of Liberal Arts
  - [http://www.cla.temple.edu](http://www.cla.temple.edu)
  - date_published: 2024-06-17T08:34:15+00:00
+
+ ## Home - Center for Data Analytics and Biomedical Informatics
+ - [http://www.dabi.temple.edu](http://www.dabi.temple.edu)
+ - date_published: 2024-12-03T21:41:06.799989+00:00
 
  ## Academic Affairs, Research and Student Success
  - [https://aarss.tennessee.edu](https://aarss.tennessee.edu)
@@ -3239,774 +4009,4 @@
  ## Shared Services Center
  - [https://aggieservice.ucdavis.edu](https://aggieservice.ucdavis.edu)
  - date_published: 2023-07-02T22:08:09+00:00
-
- ## Home | AgTech Workshop
- - [https://agtechworkshop.ucdavis.edu](https://agtechworkshop.ucdavis.edu)
- - date_published: 2024-06-27T11:32:06+00:00
-
- ## CAS – Central Authentication Service
- - [https://ait-bi.ucdavis.edu](https://ait-bi.ucdavis.edu)
- - date_published: 2024-07-01T22:07:47.285668+00:00
-
- ## Alumni Resources
- - [https://alumni.engineering.ucdavis.edu](https://alumni.engineering.ucdavis.edu)
- - date_published: 2024-05-07T20:44:13.873439+00:00
-
- ## UC Davis Alumni and Affiliate Relations
- - [https://alumni.ucdavis.edu](https://alumni.ucdavis.edu)
- - date_published: 2024-05-07T20:44:55.042173+00:00
-
- ## CAS – Central Authentication Service
- - [https://appointments.ucdavis.edu](https://appointments.ucdavis.edu)
- - date_published: 2024-05-07T20:43:29.415076+00:00
-
- ## UC Davis Air Quality Research Center
- - [https://aqrc.ucdavis.edu](https://aqrc.ucdavis.edu)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## UC Davis Arboretum and Public Garden
- - [https://arboretum.ucdavis.edu](https://arboretum.ucdavis.edu)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Computer Architecture Research
- - [https://arch.cs.ucdavis.edu](https://arch.cs.ucdavis.edu)
- - date_published: 2024-06-08T17:59:57.436302+00:00
-
- ## Academic Senate Information System -
- - [https://asis.ucdavis.edu](https://asis.ucdavis.edu)
- - date_published: 2024-07-01T22:23:22.048818+00:00
-
- ## AvenueE
- - [https://avenuee.engineering.ucdavis.edu](https://avenuee.engineering.ucdavis.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Biological and Agricultural Engineering | UC Davis Engineering
- - [https://bae.ucdavis.edu](https://bae.ucdavis.edu)
- - date_published: 2024-07-01T20:51:56+00:00
-
- ## BASC
- - [https://basc.biology.ucdavis.edu](https://basc.biology.ucdavis.edu)
- - date_published: 2022-09-08T23:24:43+00:00
-
- ## Beyond the Barriers
- - [http://beyond.ucdavis.edu](http://beyond.ucdavis.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## UC Davis Big Ideas
- - [https://bigideas.ucdavis.edu](https://bigideas.ucdavis.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## UC Davis College of Biological Sciences
- - [https://biology.ucdavis.edu](https://biology.ucdavis.edu)
- - date_published: 2024-07-01T22:06:11+00:00
-
- ## Biomedical Engineering | UC Davis Engineering
- - [https://bme.ucdavis.edu](https://bme.ucdavis.edu)
- - date_published: 2024-06-27T05:59:34+00:00
-
- ## Bodega Ocean Observing Node
- - [http://boon.ucdavis.edu](http://boon.ucdavis.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Smoke & Tobacco Free
- - [https://breathefree.ucdavis.edu](https://breathefree.ucdavis.edu)
- - date_published: 2019-10-01T16:17:00+00:00
-
- ## Homepage | College of Agricultural and Environmental Sciences
- - [https://caes.ucdavis.edu](https://caes.ucdavis.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Office of the Campus Counsel
- - [https://campuscounsel.ucdavis.edu](https://campuscounsel.ucdavis.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## UC Davis: Campus Map
- - [https://campusmap.ucdavis.edu](https://campusmap.ucdavis.edu)
- - date_published: 2023-04-04T23:09:04+00:00
-
- ## Campus Ready
- - [https://campusready.ucdavis.edu](https://campusready.ucdavis.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Home | Campus Recreation
- - [https://campusrecreation.ucdavis.edu](https://campusrecreation.ucdavis.edu)
- - date_published: 2024-07-01T21:31:30+00:00
-
- ## Canvas Help
- - [https://canvashelp.ucdavis.edu](https://canvashelp.ucdavis.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UC Davis Canvas Discovery
- - [https://canvas.ucdavis.edu](https://canvas.ucdavis.edu)
- - date_published: 2024-04-06T01:24:17+00:00
-
- ## Center for Advocacy, Resources & Education (CARE)
- - [https://care.ucdavis.edu](https://care.ucdavis.edu)
- - date_published: 2024-07-01T17:47:05+00:00
-
- ## CAS – Central Authentication Service
- - [https://casmgr.ucdavis.edu](https://casmgr.ucdavis.edu)
- - date_published: 2024-07-01T22:09:37.013257+00:00
-
- ## General Catalog - General Catalog Home
- - [https://catalog.ucdavis.edu](https://catalog.ucdavis.edu)
- - date_published: 2024-05-07T20:45:25.522512+00:00
-
- ## Campus Community Book Project
- - [https://ccbp.ucdavis.edu](https://ccbp.ucdavis.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## CEED - Campus Energy Education Dashboard
- - [http://ceed.ucdavis.edu](http://ceed.ucdavis.edu)
- - date_published: 2023-06-16T19:13:02+00:00
-
- ## Civil and Environmental Engineering
- - [https://cee.engineering.ucdavis.edu](https://cee.engineering.ucdavis.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Center for Educational Effectiveness
- - [https://cee.ucdavis.edu](https://cee.ucdavis.edu)
- - date_published: 2024-06-28T19:15:06+00:00
-
- ## Center for Equine Health | School of Veterinary Medicine
- - [https://ceh.vetmed.ucdavis.edu](https://ceh.vetmed.ucdavis.edu)
- - date_published: 2024-06-27T04:48:40+00:00
-
- ## Center for Continuing Professional Education (CCPE)
- - [https://ce.vetmed.ucdavis.edu](https://ce.vetmed.ucdavis.edu)
- - date_published: 2024-07-01T21:42:43+00:00
-
- ## Chemical Engineering | UC Davis Engineering
- - [https://che.engineering.ucdavis.edu](https://che.engineering.ucdavis.edu)
- - date_published: 2024-06-28T16:19:31+00:00
-
- ## Continuing and Professional Education | International
- - [https://cie.ucdavis.edu](https://cie.ucdavis.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Clear Lake Rehabilitation
- - [https://clearlakerehabilitation.ucdavis.edu](https://clearlakerehabilitation.ucdavis.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Climate Adaptation Research Center
- - [https://climateadaptation.ucdavis.edu](https://climateadaptation.ucdavis.edu)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Science & Climate
- - [https://climatechange.ucdavis.edu](https://climatechange.ucdavis.edu)
- - date_published: 2021-05-04T18:38:25+00:00
-
- ## Veterinary Center for Clinical Trials (VCCT)
- - [https://clinicaltrials.vetmed.ucdavis.edu](https://clinicaltrials.vetmed.ucdavis.edu)
- - date_published: 2024-06-27T05:03:53+00:00
-
- ## Center for Leadership Learning
- - [https://cll.ucdavis.edu](https://cll.ucdavis.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## UC Davis Cloud Services
- - [https://cloud.ucdavis.edu](https://cloud.ucdavis.edu)
- - date_published: 2024-06-27T05:58:40+00:00
-
- ## Commencement
- - [http://commencement.ucdavis.edu](http://commencement.ucdavis.edu)
- - date_published: 2023-11-15T17:59:33+00:00
-
- ## UC Davis Computational Linguistics
- - [https://compling.ucdavis.edu](https://compling.ucdavis.edu)
- - date_published: 2023-11-22T23:01:59+00:00
-
- ## UC Davis Computing Accounts Services
- - [http://computingaccounts.ucdavis.edu](http://computingaccounts.ucdavis.edu)
- - date_published: 2024-07-01T22:19:18.788236+00:00
-
- ## Agronomy
- - [https://cottoninfo.ucdavis.edu](https://cottoninfo.ucdavis.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Welcome to Cows.
- - [https://cows.ucdavis.edu](https://cows.ucdavis.edu)
- - date_published: 2024-05-07T20:44:21.199665+00:00
-
- ## Log In to Canvas
- - [https://cpeonline.ucdavis.edu](https://cpeonline.ucdavis.edu)
- - date_published: 2023-09-13T00:00:00+00:00
-
- ## UC Davis Continuing and Professional Education
- - [https://cpe.ucdavis.edu](https://cpe.ucdavis.edu)
- - date_published: 2024-05-07T20:44:36.223883+00:00
-
- ## Computer Science Instructional Facility (CSIF)
- - [https://csif.cs.ucdavis.edu](https://csif.cs.ucdavis.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Computer Science Instructional Facility (CSIF)
- - [https://csif.sf.ucdavis.edu](https://csif.sf.ucdavis.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Computer Science
- - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Department of Environmental Science & Policy
- - [https://desp.ucdavis.edu](https://desp.ucdavis.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Diversity, Equity & Inclusion
- - [https://diversity.ucdavis.edu](https://diversity.ucdavis.edu)
- - date_published: 2024-05-07T20:43:16.846137+00:00
- - tags: ['dei']
-
- ## Electrical and Computer Engineering | UC Davis Engineering
- - [https://ece.ucdavis.edu](https://ece.ucdavis.edu)
- - date_published: 2024-07-01T22:07:05+00:00
-
- ## Engineering
- - [http://eco.ucdavis.edu](http://eco.ucdavis.edu)
- - date_published: 2022-05-26T15:27:11+00:00
-
- ## UC Davis School of Education - Integrating research and practice
- - [https://education.ucdavis.edu](https://education.ucdavis.edu)
- - date_published: 2024-07-01T21:55:40+00:00
-
- ## EggHeads
- - [https://eggheads.ucdavis.edu](https://eggheads.ucdavis.edu)
- - date_published: 2024-05-07T20:45:07.442801+00:00
-
- ## UC Davis Energy and Efficiency Institute
- - [https://energy.ucdavis.edu](https://energy.ucdavis.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Home | College of Engineering
- - [https://engineering.ucdavis.edu](https://engineering.ucdavis.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home | The Department of English English at UC Davis
- - [https://english.ucdavis.edu](https://english.ucdavis.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Enrollment Management
- - [https://enrollmentmanagement.ucdavis.edu](https://enrollmentmanagement.ucdavis.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Center for Environmental Policy & Behavior
- - [http://environmentalpolicy.ucdavis.edu](http://environmentalpolicy.ucdavis.edu)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Home | UC Davis Continuing and Professional Education
- - [https://extensionpv.ucdavis.edu](https://extensionpv.ucdavis.edu)
- - date_published: 2024-07-01T22:20:36.143675+00:00
-
- ## UC Davis Continuing and Professional Education
- - [https://extension.ucdavis.edu](https://extension.ucdavis.edu)
- - date_published: 2024-07-01T18:53:37+00:00
-
- ## UC Davis FacilitiesLink
- - [https://facilitieslink.ucdavis.edu](https://facilitieslink.ucdavis.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Expert Directory
- - [https://faculty.engineering.ucdavis.edu](https://faculty.engineering.ucdavis.edu)
- - date_published: 2020-06-03T01:48:29+00:00
-
- ## Fanyi Xiao
- - [https://fanyix.cs.ucdavis.edu](https://fanyix.cs.ucdavis.edu)
- - date_published: 2023-01-13T18:45:44+00:00
-
- ## Finance & Business
- - [https://financeandbusiness.ucdavis.edu](https://financeandbusiness.ucdavis.edu)
- - date_published: 2024-07-01T21:44:55+00:00
-
- ## Financial Aid and Scholarships | Financial Aid and Scholarships
- - [https://financialaidmigrate.sf.ucdavis.edu](https://financialaidmigrate.sf.ucdavis.edu)
- - date_published: 2024-07-01T22:23:09+00:00
-
- ## Financial Aid and Scholarships | Financial Aid and Scholarships
- - [http://financialaid.ucdavis.edu](http://financialaid.ucdavis.edu)
- - date_published: 2024-07-01T22:02:51+00:00
-
- ## First-Generation Initiative
- - [http://firstgen.ucdavis.edu](http://firstgen.ucdavis.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Front Door
- - [https://frontdoor.ucdavis.edu](https://frontdoor.ucdavis.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Front for the arXiv
- - [http://front.math.ucdavis.edu](http://front.math.ucdavis.edu)
- - date_published: 2020-08-16T02:09:11+00:00
-
- ## UC Davis First-Year Seminar Program
- - [https://fys.ucdavis.edu](https://fys.ucdavis.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## General Education
- - [https://ge.ucdavis.edu](https://ge.ucdavis.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## UC Davis Give Day 2024
- - [https://giveday.ucdavis.edu](https://giveday.ucdavis.edu)
- - date_published: 2024-05-07T20:43:51.489515+00:00
-
- ## Donate to the University of California at Davis
- - [https://give.ucdavis.edu](https://give.ucdavis.edu)
- - date_published: 2024-05-07T20:43:55.207600+00:00
-
- ## Home | UC Davis Giving
- - [https://giving.ucdavis.edu](https://giving.ucdavis.edu)
- - date_published: 2022-10-13T16:58:30+00:00
-
- ## UC Davis Graduate Studies
- - [https://gradstudies.ucdavis.edu](https://gradstudies.ucdavis.edu)
- - date_published: 2024-05-07T20:45:38.691378+00:00
-
- ## UC Davis Graduate Studies
- - [https://grad.ucdavis.edu](https://grad.ucdavis.edu)
- - date_published: 2024-07-01T16:59:42+00:00
-
- ## Graduate Student Association
- - [https://gsa.ucdavis.edu](https://gsa.ucdavis.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Home | UC Davis Graduate School of Management
- - [https://gsm.ucdavis.edu](https://gsm.ucdavis.edu)
- - date_published: 2024-07-01T22:20:56+00:00
-
- ## Harassment & Discrimination Assistance and Prevention Program
- - [https://hdapp.ucdavis.edu](https://hdapp.ucdavis.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Animal Health Topics / School of Veterinary Medicine
- - [https://healthtopics.vetmed.ucdavis.edu](https://healthtopics.vetmed.ucdavis.edu)
- - date_published: 2024-06-27T05:57:16+00:00
-
- ## UC Davis Health | University of California, Davis
- - [https://health.ucdavis.edu](https://health.ucdavis.edu)
- - date_published: 2024-02-24T10:01:59.909607+00:00
-
- ## CAS – Central Authentication Service
- - [https://hem.ucdavis.edu](https://hem.ucdavis.edu)
- - date_published: 2024-07-01T22:21:49.307923+00:00
-
- ## Home Page | History Department
- - [http://history.ucdavis.edu](http://history.ucdavis.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## School of Veterinary Medicine
- - [https://hobbs.vetmed.ucdavis.edu](https://hobbs.vetmed.ucdavis.edu)
- - date_published: 2024-07-01T15:09:05+00:00
-
- ## UC Davis University Honors Program
- - [https://honors.ucdavis.edu](https://honors.ucdavis.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home | UC Davis Student Housing and Dining Services
- - [http://housing.ucdavis.edu](http://housing.ucdavis.edu)
- - date_published: 2024-07-01T22:10:31.391108+00:00
-
- ## UC Davis Human Resources
- - [https://hr.ucdavis.edu](https://hr.ucdavis.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## HE Home Page | Department of Human Ecology
- - [https://humanecology.ucdavis.edu](https://humanecology.ucdavis.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Continuing and Professional Education | Human Services
- - [https://humanservices.ucdavis.edu](https://humanservices.ucdavis.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Internship and Career Center
- - [https://icc.ucdavis.edu](https://icc.ucdavis.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## The IDEA
- - [https://idea.ucdavis.edu](https://idea.ucdavis.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Home Page | UC Davis IET
- - [https://iet.ucdavis.edu](https://iet.ucdavis.edu)
- - date_published: 2024-07-01T21:39:06+00:00
-
- ## Home | College of Engineering Intranet
- - [https://intranet.engineering.ucdavis.edu](https://intranet.engineering.ucdavis.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home - IRB
- - [https://irb.ucdavis.edu](https://irb.ucdavis.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Home - ITS
- - [https://its.ucdavis.edu](https://its.ucdavis.edu)
- - date_published: 2024-09-15T15:03:43.637440+00:00
-
- ## UC Davis | Institute of the Environment
- - [https://johnmuir.ucdavis.edu](https://johnmuir.ucdavis.edu)
- - date_published: 2024-09-14T10:57:41+00:00
-
- ## Knowledge Base - ServiceHub
- - [https://kb.ucdavis.edu](https://kb.ucdavis.edu)
- - date_published: 2024-07-01T22:19:10.508722+00:00
-
- ## Krishna Kumar Singh
- - [https://krsingh.cs.ucdavis.edu](https://krsingh.cs.ucdavis.edu)
- - date_published: 2024-05-04T15:20:21.251932+00:00
-
- ## School of Law
- - [https://law.ucdavis.edu](https://law.ucdavis.edu)
- - date_published: 2024-07-01T22:17:03+00:00
-
- ## Leadership | UC Davis Leadership
- - [https://leadership.ucdavis.edu](https://leadership.ucdavis.edu)
- - date_published: 2024-07-01T15:01:16+00:00
-
- ## Homepage | lettersandsciencemag
- - [https://lettersandsciencemag.ucdavis.edu](https://lettersandsciencemag.ucdavis.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## UC Davis College of Letters and Science
- - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
- - date_published: 2023-11-03T19:14:18.151008+00:00
-
- ## UC Davis Library
- - [https://library.ucdavis.edu](https://library.ucdavis.edu)
- - date_published: 2024-07-01T22:10:24.011937+00:00
-
- ## UC Davis Canvas Discovery
- - [https://login.canvas.ucdavis.edu](https://login.canvas.ucdavis.edu)
- - date_published: 2024-04-06T01:24:17+00:00
-
- ## College of Letters and Science Research Services
- - [https://lsresearch.ucdavis.edu](https://lsresearch.ucdavis.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Mechanical and Aerospace Engineering | UC Davis Engineering
- - [https://mae.ucdavis.edu](https://mae.ucdavis.edu)
- - date_published: 2024-07-01T20:51:56+00:00
-
- ## Home | UC Davis Magazine
- - [https://magazine.ucdavis.edu](https://magazine.ucdavis.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Coastal and Marine Sciences Institute
- - [https://marinescience.ucdavis.edu](https://marinescience.ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Aggie Mental Health
- - [https://mentalhealth.ucdavis.edu](https://mentalhealth.ucdavis.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## UC Davis Mobile
- - [https://mobile.ucdavis.edu](https://mobile.ucdavis.edu)
- - date_published: 2020-07-09T20:13:54+00:00
-
- ## Materials Science and Engineering | UC Davis Engineering
- - [https://mse.engineering.ucdavis.edu](https://mse.engineering.ucdavis.edu)
- - date_published: 2024-06-28T21:34:41+00:00
-
- ## MyAdmissions | UC Davis
- - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
- - date_published: 2024-05-07T20:44:33.426787+00:00
-
- ## Billing Center Login
- - [https://mybill.ucdavis.edu](https://mybill.ucdavis.edu)
- - date_published: 2024-07-01T22:10:28.382040+00:00
-
- ## myucdavis
- - [https://my.ucdavis.edu](https://my.ucdavis.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## News
- - [http://news.ucdavis.edu](http://news.ucdavis.edu)
- - date_published: 2024-10-18T15:42:23.147080+00:00
-
- ## The Betty Irene Moore School of Nursing at UC Davis
- - [http://nursing.ucdavis.edu](http://nursing.ucdavis.edu)
- - date_published: 2024-07-01T22:22:56.795164+00:00
-
- ## Office of the Ombuds
- - [https://ombuds.ucdavis.edu](https://ombuds.ucdavis.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Orientation
- - [https://orientation.ucdavis.edu](https://orientation.ucdavis.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UC Davis Particle Theory: Terning
- - [http://particle.physics.ucdavis.edu](http://particle.physics.ucdavis.edu)
- - date_published: 2024-06-30T05:32:03.171973+00:00
-
- ## Promise Engineering Institute
- - [https://pei.ucdavis.edu](https://pei.ucdavis.edu)
- - date_published: 2024-06-07T21:35:59+00:00
-
- ## Search Results -
-        UC Davis Health
- - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
- - date_published: 2024-05-07T20:43:09.723076+00:00
-
- ## UC Davis Postdoctoral Scholars Association
- - [https://postdocs.ucdavis.edu](https://postdocs.ucdavis.edu)
- - date_published: 2024-06-27T05:46:24+00:00
-
- ## UC Davis Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucdavis.edu](https://profiles.ucdavis.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Quarter at Aggie Square
- - [https://qas.ucdavis.edu](https://qas.ucdavis.edu)
- - date_published: 2024-06-27T07:21:43+00:00
-
- ## Welcome - AP Recruit
- - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
- - date_published: 2024-05-07T20:43:12.170875+00:00
-
- ## Redwood SEED Scholars Program
- - [https://redwoodseed.sf.ucdavis.edu](https://redwoodseed.sf.ucdavis.edu)
- - date_published: 2024-09-13T18:40:35+00:00
-
- ## Redwood SEED Scholars Program
- - [https://redwoodseed.ucdavis.edu](https://redwoodseed.ucdavis.edu)
- - date_published: 2024-06-02T03:57:59+00:00
-
- ## Office of the University Registrar (OUR)
- - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home | Repro Graphics
- - [https://reprographics.sf.ucdavis.edu](https://reprographics.sf.ucdavis.edu)
- - date_published: 2024-06-27T05:29:03+00:00
-
- ## Home | Repro Graphics
- - [https://reprographics.ucdavis.edu](https://reprographics.ucdavis.edu)
- - date_published: 2024-06-27T03:20:35+00:00
-
- ## UC Davis Office of Research - Davis, California - University
- - [https://research.ucdavis.edu](https://research.ucdavis.edu)
- - date_published: 2024-05-07T20:44:57.360595+00:00
-
- ## Emergency Preparedness and Response
- - [https://response.vetmed.ucdavis.edu](https://response.vetmed.ucdavis.edu)
- - date_published: 2024-06-27T10:40:06+00:00
-
- ## UC Davis Retiree Center
- - [https://retireecenter.ucdavis.edu](https://retireecenter.ucdavis.edu)
- - date_published: 2024-06-27T04:58:50+00:00
-
- ## Robert Mondavi Institute for Wine and Food Science
- - [http://rmi.ucdavis.edu](http://rmi.ucdavis.edu)
- - date_published: 2024-10-18T15:43:45.487473+00:00
-
- ## Safe Party
- - [https://safeparty.ucdavis.edu](https://safeparty.ucdavis.edu)
- - date_published: 2024-07-01T22:21:56.095314+00:00
-
- ## Safety Services
- - [https://safetyservices.ucdavis.edu](https://safetyservices.ucdavis.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Learning & Organizational Development
- - [https://sdps.ucdavis.edu](https://sdps.ucdavis.edu)
- - date_published: 2022-09-27T20:45:36+00:00
-
- ## CAS – Central Authentication Service
- - [https://secure.vetmed.ucdavis.edu](https://secure.vetmed.ucdavis.edu)
- - date_published: 2024-07-01T22:24:26.115021+00:00
-
- ## ServiceHub - ServiceHub
- - [https://servicehub.ucdavis.edu](https://servicehub.ucdavis.edu)
- - date_published: 2024-07-01T22:09:27.068347+00:00
-
- ## Student Health and Counseling Services
- - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Sisweb, the student information system on the web
- - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
- - date_published: 2020-10-21T16:35:26+00:00
-
- ## Home | SiteFarm
- - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Campus Licensed Software - ServiceHub
- - [https://software.ucdavis.edu](https://software.ucdavis.edu)
- - date_published: 2024-07-01T22:10:17.389263+00:00
-
- ## System Support Group (SSG)
- - [https://ssg.cs.ucdavis.edu](https://ssg.cs.ucdavis.edu)
- - date_published: 2024-01-13T00:00:00+00:00
-
- ## Staff Assembly
- - [https://staff.ucdavis.edu](https://staff.ucdavis.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - Student Startup Center - UC Davis
- - [https://startup.ucdavis.edu](https://startup.ucdavis.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## UC Davis Status
- - [http://status.ucdavis.edu](http://status.ucdavis.edu)
- - date_published: 2024-07-01T22:09:34.312239+00:00
-
- ## Strategic Communications
- - [https://strategiccommunications.ucdavis.edu](https://strategiccommunications.ucdavis.edu)
- - date_published: 2024-06-27T22:43:49+00:00
-
- ## Student Affairs
- - [https://studentaffairs.ucdavis.edu](https://studentaffairs.ucdavis.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Student Affairs
- - [http://studentlife.ucdavis.edu](http://studentlife.ucdavis.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Student Parent Resources
- - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## OASIS
- - [https://students.ucdavis.edu](https://students.ucdavis.edu)
- - date_published: 2024-07-01T22:10:05.066558+00:00
-
- ## Summer Sessions
- - [https://summer-sessions.ucdavis.edu](https://summer-sessions.ucdavis.edu)
- - date_published: 2024-07-01T21:56:29+00:00
-
- ## Summer Sessions
- - [https://summer.ucdavis.edu](https://summer.ucdavis.edu)
- - date_published: 2024-07-01T22:02:33+00:00
-
- ## Supply Chain Management
- - [https://supplychain.ucdavis.edu](https://supplychain.ucdavis.edu)
- - date_published: 2024-07-01T21:52:13+00:00
-
- ## Sustainable UC Davis
- - [https://sustainability.ucdavis.edu](https://sustainability.ucdavis.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Sustainable Oceans - From Policy To Science To Decisions
- - [https://sustainableoceans.ucdavis.edu](https://sustainableoceans.ucdavis.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Transfer Admission Guarantee
- - [https://tag.ucdavis.edu](https://tag.ucdavis.edu)
- - date_published: 2021-03-02T17:52:06+00:00
-
- ## Tahoe Environmental Research Center
- - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Transportation Services
- - [https://taps.ucdavis.edu](https://taps.ucdavis.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Tahoe Environmental Research Center
- - [http://terc.sf.ucdavis.edu](http://terc.sf.ucdavis.edu)
- - date_published: 2024-06-28T20:29:16+00:00
-
- ## CAS – Central Authentication Service
- - [https://trs.ucdavis.edu](https://trs.ucdavis.edu)
- - date_published: 2024-07-01T22:08:06.257015+00:00
-
- ## UC Davis
- - [https://ucdavis.edu](https://ucdavis.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | UC Davis Magazine
- - [https://ucdavismagazine.ucdavis.edu](https://ucdavismagazine.ucdavis.edu)
- - date_published: 2020-08-24T18:39:10+00:00
-
- ## UC Degree Completion Program
- - [https://ucdcp.ucdavis.edu](https://ucdcp.ucdavis.edu)
- - date_published: 2024-06-27T10:16:01+00:00
-
- ## Undergraduate Education
- - [https://ue.ucdavis.edu](https://ue.ucdavis.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Unitrans
- - [http://unitrans.ucdavis.edu](http://unitrans.ucdavis.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Undergraduate Research Center | Undergraduate Research Center
- - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
- - date_published: 2024-05-07T20:44:22.520926+00:00
-
- ## Veterinary Medicine Extension / School of Veterinary Medicine
- - [https://vetext.vetmed.ucdavis.edu](https://vetext.vetmed.ucdavis.edu)
- - date_published: 2024-06-27T05:21:31+00:00
-
- ## Visit UC Davis
- - [https://visit.ucdavis.edu](https://visit.ucdavis.edu)
- - date_published: 2021-01-08T22:29:29+00:00
-
- ## UC Davis Accreditation
- - [https://wasc.ucdavis.edu](https://wasc.ucdavis.edu)
- - date_published: 2024-06-27T08:25:48+00:00
-
- ## Washington Program
- - [https://washingtonprogram.ucdavis.edu](https://washingtonprogram.ucdavis.edu)
- - date_published: 2024-06-27T05:15:03+00:00
-
- ## Center for Watershed Sciences
- - [https://watershed.sf.ucdavis.edu](https://watershed.sf.ucdavis.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Center for Watershed Sciences
- - [https://watershed.ucdavis.edu](https://watershed.ucdavis.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Computer Science
- - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
- - date_published: 2023-10-25T18:59:47.853350+00:00
-
- ## Viticulture and Enology
- - [https://wineserver.ucdavis.edu](https://wineserver.ucdavis.edu)
- - date_published: 2024-06-21T17:34:16+00:00
-
- ## World Food Center
- - [https://worldfoodcenter.ucdavis.edu](https://worldfoodcenter.ucdavis.edu)
- - date_published: 2024-06-27T05:08:05+00:00
-
- ## Writing Center - a dynamic, friendly and professional writing resource hub | Writing Center
- - [https://writingcenter.ucdavis.edu](https://writingcenter.ucdavis.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## UC Davis College of Letters and Science
- - [https://www.ls.ucdavis.edu](https://www.ls.ucdavis.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Mathematics Home :: math.ucdavis.edu
- - [http://www.math.ucdavis.edu](http://www.math.ucdavis.edu)
- - date_published: 2024-06-30T11:19:39.509686+00:00
-
- ## UC Davis Health | University of California, Davis
- - [https://www.ucdmc.ucdavis.edu](https://www.ucdmc.ucdavis.edu)
- - date_published: 2024-05-07T20:44:40.873243+00:00
-
- ## UC Davis School of Veterinary Medicine
- - [https://www.vetmed.ucdavis.edu](https://www.vetmed.ucdavis.edu)
- - date_published: 2024-05-07T20:45:35.013277+00:00
-
- ## College Admissions | Undergraduate-Transfer-Graduate |  CU Denver
- - [https://application.admissions.ucdenver.edu](https://application.admissions.ucdenver.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## College of Architecture and Planning at CU Denver
- - [https://architectureandplanning.ucdenver.edu](https://architectureandplanning.ucdenver.edu)
- - date_published: 2024-08-10T12:04:45+00:00
-
- ## College of Arts & Media
- - [https://artsandmedia.ucdenver.edu](https://artsandmedia.ucdenver.edu)
- - date_published: 2024-08-08T23:32:48+00:00
-
- ## CU Denver Business School
- - [https://business.ucdenver.edu](https://business.ucdenver.edu)
- - date_published: 2024-08-10T19:17:50+00:00
-
- ## Events from Jun. 6 – Jun. 27 | University Events Calendar
- - [https://calendar.ucdenver.edu](https://calendar.ucdenver.edu)
- - date_published: 2024-07-22T18:41:32.838254+00:00
 

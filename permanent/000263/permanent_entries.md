@@ -1,3 +1,757 @@
+ ## Home
+ - [https://www.mccneb.edu](https://www.mccneb.edu)
+ - date_published: 2024-09-05T20:37:00.424548+00:00
+
+ ## Hoover Library: Hoover Library - homepage: Home
+ - [https://lib.hoover.mcdaniel.edu](https://lib.hoover.mcdaniel.edu)
+ - date_published: 2024-07-04T13:15:43.118209+00:00
+
+ ## Redirect
+ - [http://www2.mcdaniel.edu](http://www2.mcdaniel.edu)
+ - date_published: 2014-07-21T15:22:22+00:00
+
+ ## Home | Medical College of Wisconsin
+ - [https://www.mcw.edu](https://www.mcw.edu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://calendar.mdc.edu](https://calendar.mdc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Index Page
+ - [https://cs.mdc.edu](https://cs.mdc.edu)
+ - date_published: 2024-01-11T06:32:01+00:00
+
+ ## FAQ – Frequently Asked Questions
+ - [https://faq.mdc.edu](https://faq.mdc.edu)
+ - date_published: 2024-05-07T19:31:38.316870+00:00
+
+ ## Miami Dade College Alumni Association Website
+ - [https://foundation.mdc.edu](https://foundation.mdc.edu)
+ - date_published: 2024-05-07T19:31:14.312990+00:00
+
+ ## Official Miami Dade College Homepage
+ - [https://mdc.edu](https://mdc.edu)
+ - date_published: 2023-10-25T11:22:46.236242+00:00
+
+ ## MDConnect | Miami Dade College
+ - [https://mdconnect.mdc.edu](https://mdconnect.mdc.edu)
+ - date_published: 2024-05-07T19:31:36.053490+00:00
+
+ ## Sign In
+ - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
+ - date_published: 2024-05-07T19:31:45.603581+00:00
+
+ ## Student Portal | Miami Dade College
+ - [https://my.mdc.edu](https://my.mdc.edu)
+ - date_published: 2024-05-07T19:31:50.148259+00:00
+
+ ## Sign In
+ - [https://myoffice.mdc.edu](https://myoffice.mdc.edu)
+ - date_published: 2024-07-01T01:39:41.142189+00:00
+
+ ## MDC News
+ - [https://news.mdc.edu](https://news.mdc.edu)
+ - date_published: 2024-05-07T19:31:52.213450+00:00
+
+ ## NWSA | Miami Dade College
+ - [https://nwsa.mdc.edu](https://nwsa.mdc.edu)
+ - date_published: 2024-05-07T19:31:20.975929+00:00
+
+ ## Sign In
+ - [http://orientation.mdc.edu](http://orientation.mdc.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## - SharkNet
+ - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
+ - date_published: 2024-05-07T19:32:02.286290+00:00
+
+ ## Maine College of Art & Design
+ - [https://meca.edu](https://meca.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Middle East Institute
+ - [https://www.mei.edu](https://www.mei.edu)
+ - date_published: 2024-06-28T19:51:11+00:00
+
+ ## The University of Memphis
+ - [http://www.memphis.edu](http://www.memphis.edu)
+ - date_published: 2024-07-15T03:02:38.195327+00:00
+
+ ## Home - College of Menominee Nation
+ - [http://www.menominee.edu](http://www.menominee.edu)
+ - date_published: 2024-07-02T03:18:44.530020+00:00
+
+ ## The Den - News and Feature Stories from Mercer University
+ - [https://den.mercer.edu](https://den.mercer.edu)
+ - date_published: 2024-07-02T12:00:03.747907+00:00
+
+ ## Mercer University School of Law
+ - [http://law.mercer.edu](http://law.mercer.edu)
+ - date_published: 2024-07-22T02:26:08.566660+00:00
+
+ ## Homepage | Mercyhurst
+ - [http://www.mercyhurst.edu](http://www.mercyhurst.edu)
+ - date_published: 2024-06-27T20:46:35+00:00
+
+ ## Mosaic - Messiah's Open Scholarship And Intellectual Creativity
+ - [https://mosaic.messiah.edu](https://mosaic.messiah.edu)
+ - date_published: 2024-07-02T10:48:26.207359+00:00
+
+ ## Methodist University | Fayetteville, NC | Engage. Enrich. Empower.
+ - [https://www.methodist.edu](https://www.methodist.edu)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://access.library.miami.edu](http://access.library.miami.edu)
+ - date_published: 2024-06-30T01:27:57.879791+00:00
+
+ ## Alumni + Friends | University of Miami
+ - [https://alumni.miami.edu](https://alumni.miami.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## School of Architecture | University of Miami
+ - [https://arc.miami.edu](https://arc.miami.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## College of Arts and Sciences | University of Miami
+ - [https://as.miami.edu](https://as.miami.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Camner Center for Academic Resources
+ - [https://camnercenter.miami.edu](https://camnercenter.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## University of Miami School of Architecture Career |University of Miami
+ - [https://career.arc.miami.edu](https://career.arc.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Careers at the University of Miami | University of Miami jobs
+ - [https://careers.miami.edu](https://careers.miami.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Site Under Construction
+ - [https://cdn.miami.edu](https://cdn.miami.edu)
+ - date_published: 2024-05-18T08:31:48+00:00
+
+ ## UM School of Communication
+ - [https://com.miami.edu](https://com.miami.edu)
+ - date_published: 2024-07-08T14:53:45+00:00
+
+ ## Blackboard Learn
+ - [https://courses.miami.edu](https://courses.miami.edu)
+ - date_published: 2004-07-08T14:59:01+00:00
+
+ ## Home | School of Architecture Center for Urban and Community Design | University of Miami
+ - [https://cucd.arc.miami.edu](https://cucd.arc.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Division of Continuing and International Education | University of Miami
+ - [https://dcie.miami.edu](https://dcie.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Rosenstiel School of Marine, Atmospheric, and Earth Science| University of Miami
+ - [https://earth.miami.edu](https://earth.miami.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Education and Human Development | University of Miami
+ - [https://edu.miami.edu](https://edu.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home - Miami Herbert Business School Online - Universidad De Miami
+ - [https://exed.miami.edu](https://exed.miami.edu)
+ - date_published: 2024-10-25T10:36:25+00:00
+
+ ## Frost School of Music at the University of Miami
+ - [https://frost.miami.edu](https://frost.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## U-SoA Graduate Programs | University of Miami
+ - [https://grad.arc.miami.edu](https://grad.arc.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Graduate School | University of Miami
+ - [https://grad.miami.edu](https://grad.miami.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Welcome to Miami Herbert Business School
+ - [https://herbert.miami.edu](https://herbert.miami.edu)
+ - date_published: 2024-07-08T15:04:38.658119+00:00
+
+ ## International Student and Scholar Services
+ - [https://isss.miami.edu](https://isss.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## University of Miami Information Technology
+ - [https://it.miami.edu](https://it.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## University of Miami School of Law | Explore Programs & Faculty
+ - [https://law.miami.edu](https://law.miami.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Master of Construction Management
+ - [https://mcm.arc.miami.edu](https://mcm.arc.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Miller School of Medicine
+ - [https://med.miami.edu](https://med.miami.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## University of Miami
+ - [http://miami.edu](http://miami.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Master of Real Estate Development + Urbanism
+ - [https://mredu.arc.miami.edu](https://mredu.arc.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Sign In
+ - [https://myum.miami.edu](https://myum.miami.edu)
+ - date_published: 2024-07-08T14:59:10.127325+00:00
+
+ ## InventUM
+ - [https://news.med.miami.edu](https://news.med.miami.edu)
+ - date_published: 2024-07-02T15:04:10.821411+00:00
+
+ ## University of Miami News and Events
+ - [https://news.miami.edu](https://news.miami.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## People | University of Miami
+ - [https://people.miami.edu](https://people.miami.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Parking and Transportation | Facilities Operations and Planning | University of Miami
+ - [http://pt.ref.miami.edu](http://pt.ref.miami.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Office of the University Registrar | University of Miami
+ - [http://registrar.miami.edu](http://registrar.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Roadmap to Our New Century | University of Miami
+ - [https://roadmap.miami.edu](https://roadmap.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## School of Nursing and Health Studies I University of Miami
+ - [https://sonhs.miami.edu](https://sonhs.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## SUSTAIN | Rosenstiel School | University of Miami
+ - [https://sustain.earth.miami.edu](https://sustain.earth.miami.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## College of Arts and Sciences | University of Miami
+ - [https://web.as.miami.edu](https://web.as.miami.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## University of Miami
+ - [https://welcome.miami.edu](https://welcome.miami.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 'Canes Central | University of Miami
+ - [https://www.canescentral.miami.edu](https://www.canescentral.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## College of Engineering | University of Miami
+ - [https://www.coe.miami.edu](https://www.coe.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Computer Science | College of Arts and Sciences | University of Miami
+ - [http://www.cs.miami.edu](http://www.cs.miami.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Home | Office of Student Accounts | University of Miami
+ - [https://www.osas.miami.edu](https://www.osas.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Student Affairs  I University of Miami
+ - [https://www.studentaffairs.miami.edu](https://www.studentaffairs.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Admission and Aid
+ - [https://admission.miamioh.edu](https://admission.miamioh.edu)
+ - date_published: 2024-09-26T15:32:08.041435+00:00
+
+ ## Miami University Online Bookstore
+ - [https://campusstore.miamioh.edu](https://campusstore.miamioh.edu)
+ - date_published: 2024-06-16T06:51:40.287203+00:00
+
+ ## CONTENTdm
+ - [https://digital.lib.miamioh.edu](https://digital.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:33:08.984500+00:00
+
+ ## Events Calendar
+ - [https://events.miamioh.edu](https://events.miamioh.edu)
+ - date_published: 2024-06-16T06:51:15.829938+00:00
+
+ ## Catalog of the Miami University Libraries (Sherlock)
+ - [https://holmes.lib.miamioh.edu](https://holmes.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:32:16.879255+00:00
+
+ ## IIS Windows Server
+ - [https://ill.lib.miamioh.edu](https://ill.lib.miamioh.edu)
+ - date_published: 2017-08-08T20:36:29+00:00
+
+ ## Ask Us! - AskUs
+ - [https://libanswers.lib.miamioh.edu](https://libanswers.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:33:06.320158+00:00
+
+ ## Subject & Course Guides
+ - [https://libguides.lib.miamioh.edu](https://libguides.lib.miamioh.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Miami University Libraries
+ - [https://lib.miamioh.edu](https://lib.miamioh.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Miami University
+ - [https://map.miamioh.edu](https://map.miamioh.edu)
+ - date_published: 2024-06-16T06:51:32.525664+00:00
+
+ ## No. 3 Public for Undergrad Teaching
+ - [https://miamioh.edu](https://miamioh.edu)
+ - date_published: 2024-05-01T05:55:34.598366+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://mymiami.miamioh.edu](https://mymiami.miamioh.edu)
+ - date_published: 2024-06-16T06:51:37.360020+00:00
+
+ ## Miami University Program Finder – Program and Career Finder
+ - [https://programs.miamioh.edu](https://programs.miamioh.edu)
+ - date_published: 2024-06-16T06:51:42.524240+00:00
+
+ ## Miami University
+ - [https://stories.miamioh.edu](https://stories.miamioh.edu)
+ - date_published: 2024-09-26T15:30:16.114954+00:00
+
+ ## MICA
+ - [http://mica.edu](http://mica.edu)
+ - date_published: 2024-07-04T10:58:42.475626+00:00
+
+ ## The Middlebury Sites Network – Middlebury’s WordPress-based, self-service, website creation space.
+ - [https://sites.middlebury.edu](https://sites.middlebury.edu)
+ - date_published: 2024-05-11T11:19:03.488578+00:00
+
+ ## vision.middlebury.edu
+ - [http://vision.middlebury.edu](http://vision.middlebury.edu)
+ - date_published: 2024-07-11T16:06:23.182325+00:00
+
+ ## Middlebury
+ - [https://www.middlebury.edu](https://www.middlebury.edu)
+ - date_published: 2024-06-30T04:01:21+00:00
+
+ ## James Martin Center for Nonproliferation Studies (CNS)
+ - [http://cns.miis.edu](http://cns.miis.edu)
+ - date_published: 2024-07-14T05:11:04.634470+00:00
+
+ ## Millersville University - Welcome to Millersville University
+ - [http://www.millersville.edu](http://www.millersville.edu)
+ - date_published: 2024-07-11T15:11:47.183330+00:00
+
+ ## The #1 Most Innovative University in the World
+ - [http://minerva.edu](http://minerva.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - Mines@150
+ - [https://150.mines.edu](https://150.mines.edu)
+ - date_published: 2024-06-16T22:26:10.548983+00:00
+
+ ## Home - Applied Mathematics and Statistics
+ - [https://ams.mines.edu](https://ams.mines.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - Graduate Programs
+ - [https://applygrad.mines.edu](https://applygrad.mines.edu)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Home - Undergraduate Admissions
+ - [https://apply.mines.edu](https://apply.mines.edu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home - Communications and Marketing
+ - [https://brand.mines.edu](https://brand.mines.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home - Campus Events Calendar
+ - [https://calendar.mines.edu](https://calendar.mines.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://campaign.mines.edu](https://campaign.mines.edu)
+ - date_published: 2024-10-15T01:34:43.447486+00:00
+
+ ## Mines Campus Events • Campus Events
+ - [http://campusevents.mines.edu](http://campusevents.mines.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - Career Center
+ - [http://careers.mines.edu](http://careers.mines.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## CASA - Center for Academic Services and Advising (CASA)
+ - [http://casa.mines.edu](http://casa.mines.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## RC home - Research Computing
+ - [https://ciarc.mines.edu](https://ciarc.mines.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## eLearning Resources - Mines Online
+ - [http://elearning.mines.edu](http://elearning.mines.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home / EMS
+ - [http://events.mines.edu](http://events.mines.edu)
+ - date_published: 2024-10-15T01:40:13.884901+00:00
+
+ ## Home - Financial Aid
+ - [http://finaid.mines.edu](http://finaid.mines.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Home - Department of Geology and Geological Engineering
+ - [http://geology.mines.edu](http://geology.mines.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://giving.mines.edu](http://giving.mines.edu)
+ - date_published: 2024-10-15T01:30:34.607884+00:00
+
+ ## Home - Graduate Programs
+ - [https://gradprograms.mines.edu](https://gradprograms.mines.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Graduate Student Government - Graduate Student Government
+ - [http://gsg.mines.edu](http://gsg.mines.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Home - Humanities, Arts and Social Sciences
+ - [http://hass.mines.edu](http://hass.mines.edu)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Human Subjects Research - Human Subjects Research
+ - [https://hsr.mines.edu](https://hsr.mines.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## McNeil Home - McNeil Center for Entrepreneurship and Innovation
+ - [https://innovation.mines.edu](https://innovation.mines.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - Institutional Research | Strategic Analytics
+ - [https://ir.mines.edu](https://ir.mines.edu)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Explore Positions at Mines - Human Resources
+ - [http://jobs.mines.edu](http://jobs.mines.edu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Home - Labriola Innovation Hub
+ - [https://labriola.mines.edu](https://labriola.mines.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## All Questions - Frequently Asked Questions
+ - [https://libanswers.mines.edu](https://libanswers.mines.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Library Calendars -
+        Arthur Lakes Library
+ - [https://libcal.mines.edu](https://libcal.mines.edu)
+ - date_published: 2024-10-15T01:36:29.338598+00:00
+
+ ## Library Guides
+ - [https://libguides.mines.edu](https://libguides.mines.edu)
+ - date_published: 2024-10-15T01:37:29.992456+00:00
+
+ ## Colorado School of Mines - Arthur Lakes Library
+ - [http://library.mines.edu](http://library.mines.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Mines Magazine - The Colorado School of Mines Magazine Website
+ - [http://magazine.mines.edu](http://magazine.mines.edu)
+ - date_published: 2024-06-16T22:26:33.409293+00:00
+
+ ## Home - Metallurgical and Materials Engineering
+ - [http://metallurgy.mines.edu](http://metallurgy.mines.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Colorado School of Mines | A Premier Engineering University
+ - [https://mines.edu](https://mines.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home - Mining Engineering
+ - [https://mining.mines.edu](https://mining.mines.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Nuclear Science and Engineering Center - Nuclear Science and Engineering Center
+ - [https://nusec.mines.edu](https://nusec.mines.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home - Office of Industry Relations
+ - [https://oir.mines.edu](https://oir.mines.edu)
+ - date_published: 2024-10-15T01:51:13+00:00
+
+ ## Home - Mines Online
+ - [https://online.mines.edu](https://online.mines.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Home - Office of Research Administration
+ - [https://ora.mines.edu](https://ora.mines.edu)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Colorado School of Mines
+ - [https://oreconnect.mines.edu](https://oreconnect.mines.edu)
+ - date_published: 2024-10-15T01:45:15.792883+00:00
+
+ ## Home - Payne Institute for Public Policy
+ - [https://payneinstitute.mines.edu](https://payneinstitute.mines.edu)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Quantum Engineering - Quantum Engineering
+ - [https://quantum.mines.edu](https://quantum.mines.edu)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## The Mines Repository
+ - [https://repository.mines.edu](https://repository.mines.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Home - Research and Technology Transfer
+ - [http://research.mines.edu](http://research.mines.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Space Resources Program
+ - [https://space.mines.edu](https://space.mines.edu)
+ - date_published: 2024-10-15T01:51:02+00:00
+
+ ## Home - Student Activities
+ - [http://studentactivities.mines.edu](http://studentactivities.mines.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Experience Our Campus - Campus Tour
+ - [http://tour.mines.edu](http://tour.mines.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Colorado School of Mines - Sign In
+ - [https://trailhead.mines.edu](https://trailhead.mines.edu)
+ - date_published: 2024-10-15T01:52:37.102824+00:00
+
+ ## Home - Squier Group
+ - [https://ultrafastoptics.mines.edu](https://ultrafastoptics.mines.edu)
+ - date_published: 2024-10-15T01:41:26+00:00
+
+ ## Home - Undergraduate Student Government
+ - [https://usg.mines.edu](https://usg.mines.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Beck Venture Center - Beck Venture Center
+ - [https://ventures.mines.edu](https://ventures.mines.edu)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://weare.mines.edu](https://weare.mines.edu)
+ - date_published: 2024-10-15T01:34:49.196975+00:00
+
+ ## Colorado School of Mines | A Premier Engineering University
+ - [https://webapps.mines.edu](https://webapps.mines.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Student Health Center - Student Health
+ - [http://wellnesscenter.mines.edu](http://wellnesscenter.mines.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home / EMS
+ - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
+ - date_published: 2024-02-08T16:36:57.109155+00:00
+
+ ## Home
+ - [https://servicedesk.minnstate.edu](https://servicedesk.minnstate.edu)
+ - date_published: 2024-05-07T19:32:10.852282+00:00
+
+ ## StarID Self Service - Minnesota State
+ - [https://starid.minnstate.edu](https://starid.minnstate.edu)
+ - date_published: 2024-03-04T22:46:53+00:00
+
+ ## Minnesota State - 
+			Minnesota State Colleges and Universities
+ - [https://www.minnstate.edu](https://www.minnstate.edu)
+ - date_published: 2024-07-01T05:41:17+00:00
+
+ ## Minot State University
+ - [https://www.minotstateu.edu](https://www.minotstateu.edu)
+ - date_published: 2024-07-01T16:01:10.733633+00:00
+
+ ## Misericordia Digital Commons
+ - [https://digitalcommons.misericordia.edu](https://digitalcommons.misericordia.edu)
+ - date_published: 2024-07-02T10:48:04.883410+00:00
+
+ ## Mississippi Public Universities - Advancing Our State Together
+ - [http://www.mississippi.edu](http://www.mississippi.edu)
+ - date_published: 2024-07-02T11:16:11.327865+00:00
+
+ ## Home
+ - [https://admissions.missouri.edu](https://admissions.missouri.edu)
+ - date_published: 2024-07-01T14:57:49.689220+00:00
+
+ ## Events Calendar
+ - [https://calendar.missouri.edu](https://calendar.missouri.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Office of Institutional Equity
+ - [https://civilrights.missouri.edu](https://civilrights.missouri.edu)
+ - date_published: 2024-07-01T14:58:50.870809+00:00
+
+ ## Home - Reading Recovery Council of North America
+ - [http://csoc.missouri.edu](http://csoc.missouri.edu)
+ - date_published: 2024-10-31T07:59:04.476539+00:00
+
+ ## Office of Institutional Equity
+ - [https://equity.missouri.edu](https://equity.missouri.edu)
+ - date_published: 2024-07-01T14:57:59.718714+00:00
+
+ ## Mizzou Families // University of Missouri
+ - [https://families.missouri.edu](https://families.missouri.edu)
+ - date_published: 2024-05-07T19:32:32.502186+00:00
+
+ ## Office of Human Resources | Office of Human Resources - Office of Human Resources
+ - [https://hr.missouri.edu](https://hr.missouri.edu)
+ - date_published: 2024-06-25T15:57:51+00:00
+
+ ## Missouri School of Journalism – Official Website for the Missouri School of Journalism at the University of Missouri.
+ - [https://journalism.missouri.edu](https://journalism.missouri.edu)
+ - date_published: 2024-05-09T06:25:35.863279+00:00
+
+ ## School of Law
+ - [http://law.missouri.edu](http://law.missouri.edu)
+ - date_published: 2024-09-15T23:32:57.496651+00:00
+
+ ## Library Guides
+ - [https://libraryguides.missouri.edu](https://libraryguides.missouri.edu)
+ - date_published: 2024-10-22T08:52:45.252093+00:00
+
+ ## Libraries // Mizzou // University of Missouri
+ - [https://library.missouri.edu](https://library.missouri.edu)
+ - date_published: 2024-06-18T14:24:03.788444+00:00
+
+ ## Undergraduate Programs A-Z
+ - [https://majors.missouri.edu](https://majors.missouri.edu)
+ - date_published: 2024-07-01T14:58:08.013269+00:00
+
+ ## Mizzou // Campus Map
+ - [http://map.missouri.edu](http://map.missouri.edu)
+ - date_published: 2023-11-22T15:48:41+00:00
+
+ ## Mizzou
+ - [https://missouri.edu](https://missouri.edu)
+ - date_published: 2024-05-07T19:32:23.394021+00:00
+
+ ## Service Discovery
+ - [https://mizzouone.missouri.edu](https://mizzouone.missouri.edu)
+ - date_published: 2024-07-01T14:59:19.260591+00:00
+
+ ## MU Alert
+ - [https://mualert.missouri.edu](https://mualert.missouri.edu)
+ - date_published: 2024-06-13T14:12:29+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://munews.missouri.edu](https://munews.missouri.edu)
+ - date_published: 2024-07-01T14:58:40.693808+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://news.missouri.edu](https://news.missouri.edu)
+ - date_published: 2024-07-01T14:58:10.672765+00:00
+
+ ## New Student Programs
+ - [https://newstudent.missouri.edu](https://newstudent.missouri.edu)
+ - date_published: 2024-07-01T14:58:23.239514+00:00
+
+ ## Parking & Transportation // University of Missouri
+ - [https://parking.missouri.edu](https://parking.missouri.edu)
+ - date_published: 2024-07-01T14:57:58.020473+00:00
+
+ ## Home
+ - [https://president.missouri.edu](https://president.missouri.edu)
+ - date_published: 2024-05-07T19:32:22.041569+00:00
+
+ ## Office of the University Registrar
+ - [https://registrar.missouri.edu](https://registrar.missouri.edu)
+ - date_published: 2024-07-01T14:58:25.045842+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://showme.missouri.edu](https://showme.missouri.edu)
+ - date_published: 2024-02-08T18:02:26.036563+00:00
+
+ ## Student Affairs // University of Missouri
+ - [https://studentaffairs.missouri.edu](https://studentaffairs.missouri.edu)
+ - date_published: 2024-07-01T14:59:13.359318+00:00
+
+ ## Webmail // Mizzou // University of Missouri
+ - [https://webmail.missouri.edu](https://webmail.missouri.edu)
+ - date_published: 2023-07-14T16:38:31+00:00
+
+ ## Welcome Week // University of Missouri
+ - [https://welcomeweek.missouri.edu](https://welcomeweek.missouri.edu)
+ - date_published: 2024-07-01T14:58:27.114838+00:00
+
+ ## Student Health & Well-Being // University of Missouri
+ - [https://wellbeing.missouri.edu](https://wellbeing.missouri.edu)
+ - date_published: 2024-07-01T14:59:15.942381+00:00
+
+ ## Class Schedule - Missouri State
+ - [http://courses.missouristate.edu](http://courses.missouristate.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## 3D Generative Adversarial Network
+ - [http://3dgan.csail.mit.edu](http://3dgan.csail.mit.edu)
+ - date_published: 2019-07-19T23:42:33+00:00
+
+ ## 3D Interpreter Networks
+ - [http://3dinterpreter.csail.mit.edu](http://3dinterpreter.csail.mit.edu)
+ - date_published: 2024-04-15T07:14:10+00:00
+
+ ## MIT Status
+ - [http://3down.mit.edu](http://3down.mit.edu)
+ - date_published: 2024-06-16T12:36:55.538636+00:00
+
+ ## 3D-Aware Scene Manipulation via Inverse Graphics
+ - [http://3dsdn.csail.mit.edu](http://3dsdn.csail.mit.edu)
+ - date_published: 2018-12-17T14:24:49+00:00
+
+ ## 3D Scene Layout Networks
+ - [http://3dsln.csail.mit.edu](http://3dsln.csail.mit.edu)
+ - date_published: 2020-07-27T20:46:00+00:00
+
+ ## Redirect
+ - [https://61600.csail.mit.edu](https://61600.csail.mit.edu)
+ - date_published: 2024-02-02T22:10:22+00:00
+
+ ## Redirect
+ - [https://65610.csail.mit.edu](https://65610.csail.mit.edu)
+ - date_published: 2024-05-20T13:34:04+00:00
+
+ ## Abstraction
+ - [http://abstraction.csail.mit.edu](http://abstraction.csail.mit.edu)
+ - date_published: 2020-09-17T17:04:02+00:00
+
+ ## Home | Captioning and Accessibility
+ - [https://accessibility.mit.edu](https://accessibility.mit.edu)
+ - date_published: 2024-05-07T19:33:10.706026+00:00
+
+ ## Art, Culture, and Technology (ACT)
+ - [https://act.mit.edu](https://act.mit.edu)
+ - date_published: 2024-05-08T10:20:24.083955+00:00
+
+ ## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date_published: 2023-10-25T18:53:43.612659+00:00
+
+ ## MIT AeroAstro
+ - [https://aeroastro.mit.edu](https://aeroastro.mit.edu)
+ - date_published: 2024-05-07T19:35:18.393154+00:00
+
+ ## What to know today... | MIT AgeLab
+ - [https://agelab.mit.edu](https://agelab.mit.edu)
+ - date_published: 2024-07-07T04:54:40.071792+00:00
+
  ## MIT MAS.S68 | Generative AI for Constructive Communication
  - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
  - date_published: 2023-06-10T07:09:27+00:00
@@ -3252,756 +4006,4 @@
  ## Steps to Health | NC State Extension
  - [https://ncstepstohealth.ces.ncsu.edu](https://ncstepstohealth.ces.ncsu.edu)
  - date_published: 2024-10-15T05:29:15.206652+00:00
-
- ## North Carolina State University
- - [https://ncsu.edu](https://ncsu.edu)
- - date_published: 2024-04-28T03:37:43.019973+00:00
-
- ## New Crops & Organics | NC State Extension
- - [https://newcropsorganics.ces.ncsu.edu](https://newcropsorganics.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:18.265248+00:00
-
- ## New Hanover County Center | N.C. Cooperative Extension
- - [https://newhanover.ces.ncsu.edu](https://newhanover.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:55.305551+00:00
-
- ## Veterinary Medicine News
- - [https://news.cvm.ncsu.edu](https://news.cvm.ncsu.edu)
- - date_published: 2024-08-07T16:55:03.891245+00:00
-
- ## NC State News
- - [https://news.ncsu.edu](https://news.ncsu.edu)
- - date_published: 2023-10-25T18:55:26.541930+00:00
-
- ## Northampton County Center | N.C. Cooperative Extension
- - [https://northampton.ces.ncsu.edu](https://northampton.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:01.359265+00:00
-
- ## Nursery Crop Science | NC State Extension
- - [https://nurserycrops.ces.ncsu.edu](https://nurserycrops.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:08.198493+00:00
-
- ## Official Variety Testing | NC State Extension
- - [https://officialvarietytesting.ces.ncsu.edu](https://officialvarietytesting.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:50.079718+00:00
-
- ## Institutional Strategy and Analysis
- - [https://oirp.ncsu.edu](https://oirp.ncsu.edu)
- - date_published: 2024-07-09T16:34:20.738310+00:00
-
- ## Student Ombuds Services
- - [https://ombuds.dasa.ncsu.edu](https://ombuds.dasa.ncsu.edu)
- - date_published: 2024-08-05T23:58:34.279344+00:00
-
- ## Learn From Anywhere With NC State Online and Distance Education
- - [https://online-distance.ncsu.edu](https://online-distance.ncsu.edu)
- - date_published: 2024-08-07T16:54:53.861419+00:00
-
- ## Onslow County Center | N.C. Cooperative Extension
- - [https://onslow.ces.ncsu.edu](https://onslow.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:59.047311+00:00
-
- ## Orange County Center | N.C. Cooperative Extension
- - [https://orange.ces.ncsu.edu](https://orange.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:02.783350+00:00
-
- ## Organic Commodities | NC State Extension
- - [https://organiccommodities.ces.ncsu.edu](https://organiccommodities.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:05.537943+00:00
-
- ## Outreach Technology
- - [https://ot.ncsu.edu](https://ot.ncsu.edu)
- - date_published: 2024-09-16T13:31:48.201019+00:00
-
- ## Pamlico County Center | N.C. Cooperative Extension
- - [https://pamlico.ces.ncsu.edu](https://pamlico.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:41.148370+00:00
-
- ## Parents and Families Services
- - [https://parents.ncsu.edu](https://parents.ncsu.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Pasquotank County Center | N.C. Cooperative Extension
- - [https://pasquotank.ces.ncsu.edu](https://pasquotank.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:14.390085+00:00
-
- ## #PassTheMicYouth | NC State Extension
- - [https://passthemicyouth.ces.ncsu.edu](https://passthemicyouth.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:13.910326+00:00
-
- ## Plant Disease and Insect Clinic | NC State Extension
- - [https://pdic.ces.ncsu.edu](https://pdic.ces.ncsu.edu)
- - date_published: 2024-06-16T22:36:35.722909+00:00
-
- ## Peach Growers Information | NC State Extension
- - [https://peaches.ces.ncsu.edu](https://peaches.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:18.365428+00:00
-
- ## Peanut | NC State Extension
- - [https://peanut.ces.ncsu.edu](https://peanut.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:56.463680+00:00
-
- ## Pender County Center | N.C. Cooperative Extension
- - [https://pender.ces.ncsu.edu](https://pender.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:26.738697+00:00
-
- ## Perquimans County Center | N.C. Cooperative Extension
- - [https://perquimans.ces.ncsu.edu](https://perquimans.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:45.099043+00:00
-
- ## Person County Center | N.C. Cooperative Extension
- - [https://person.ces.ncsu.edu](https://person.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:36.130422+00:00
-
- ## NC Pesticide Safety Education | NC State Extension
- - [https://pesticidesafety.ces.ncsu.edu](https://pesticidesafety.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:25.696280+00:00
-
- ## Pitt County Center | N.C. Cooperative Extension
- - [https://pitt.ces.ncsu.edu](https://pitt.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:11.647142+00:00
-
- ## PDIC
- - [https://plantclinic.ces.ncsu.edu](https://plantclinic.ces.ncsu.edu)
- - date_published: 2024-10-15T05:40:37.809720+00:00
-
- ## Extension Plant Pathology | NC State Extension
- - [https://plantpathology.ces.ncsu.edu](https://plantpathology.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:05.893215+00:00
-
- ## Home | North Carolina Extension Gardener Plant Toolbox
- - [https://plants.ces.ncsu.edu](https://plants.ces.ncsu.edu)
- - date_published: 2024-05-01T08:04:16.964638+00:00
-
- ## Poinsettias | NC State Extension
- - [https://poinsettias.ces.ncsu.edu](https://poinsettias.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:51.058292+00:00
-
- ## NC State University Police Department – Environmental Health & Public Safety
- - [https://police.ehps.ncsu.edu](https://police.ehps.ncsu.edu)
- - date_published: 2024-07-01T15:50:01+00:00
-
- ## Policies, Regulations & Rules – NC State University
- - [https://policies.ncsu.edu](https://policies.ncsu.edu)
- - date_published: 2024-05-07T19:45:19.698728+00:00
-
- ## Polk County Center | N.C. Cooperative Extension
- - [https://polk.ces.ncsu.edu](https://polk.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:10.393787+00:00
-
- ## Pollinators | NC State Extension
- - [https://pollinators.ces.ncsu.edu](https://pollinators.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:27.521921+00:00
-
- ## Poultry 4-H & Youth | NC State Extension
- - [https://poultry4hyouth.ces.ncsu.edu](https://poultry4hyouth.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:18.787511+00:00
-
- ## Poultry Extension | NC State Extension
- - [https://poultry.ces.ncsu.edu](https://poultry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:23.289137+00:00
-
- ## Executive Vice Chancellor and Provost
- - [https://provost.ncsu.edu](https://provost.ncsu.edu)
- - date_published: 2024-07-01T15:23:52+00:00
-
- ## Randolph County Center | N.C. Cooperative Extension
- - [https://randolph.ces.ncsu.edu](https://randolph.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:13.625966+00:00
-
- ## Richmond County Center | N.C. Cooperative Extension
- - [https://richmond.ces.ncsu.edu](https://richmond.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:50.706757+00:00
-
- ## Robeson County Center | N.C. Cooperative Extension
- - [https://robeson.ces.ncsu.edu](https://robeson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:28.764658+00:00
-
- ## Rockingham County Center | N.C. Cooperative Extension
- - [https://rockingham.ces.ncsu.edu](https://rockingham.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:12.039199+00:00
-
- ## Rowan County Center | N.C. Cooperative Extension
- - [https://rowan.ces.ncsu.edu](https://rowan.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:33.158722+00:00
-
- ## Blackberry & Raspberry Information | NC State Extension
- - [https://rubus.ces.ncsu.edu](https://rubus.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:39.873913+00:00
-
- ## Rutherford County Center | N.C. Cooperative Extension
- - [https://rutherford.ces.ncsu.edu](https://rutherford.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:26.576391+00:00
-
- ## Sampson County Center | N.C. Cooperative Extension
- - [https://sampson.ces.ncsu.edu](https://sampson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:33:02.551621+00:00
-
- ## Scotland County Center | N.C. Cooperative Extension
- - [https://scotland.ces.ncsu.edu](https://scotland.ces.ncsu.edu)
- - date_published: 2024-10-15T05:33:09.733276+00:00
-
- ## Seafood Science | NC State Extension
- - [https://seafoodscience.ces.ncsu.edu](https://seafoodscience.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:57.881875+00:00
-
- ## Small Grains | NC State Extension
- - [https://smallgrains.ces.ncsu.edu](https://smallgrains.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:37.254520+00:00
-
- ## Small Ruminants | NC State Extension
- - [https://smallruminants.ces.ncsu.edu](https://smallruminants.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:53.519409+00:00
-
- ## Social Media | NC State University
- - [https://social.ncsu.edu](https://social.ncsu.edu)
- - date_published: 2024-07-01T15:55:47.069170+00:00
-
- ## Soil Fertility | NC State Extension
- - [https://soilfertility.ces.ncsu.edu](https://soilfertility.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:45.964147+00:00
-
- ## Soil Health and Management | NC State Extension
- - [https://soilmanagement.ces.ncsu.edu](https://soilmanagement.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:27.289110+00:00
-
- ## Soybeans | NC State Extension
- - [https://soybeans.ces.ncsu.edu](https://soybeans.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:24.960648+00:00
-
- ## Stanly County Center | N.C. Cooperative Extension
- - [https://stanly.ces.ncsu.edu](https://stanly.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:37.872501+00:00
-
- ## NC State Extension
- - [https://state.ces.ncsu.edu](https://state.ces.ncsu.edu)
- - date_published: 2024-10-15T05:41:50.692861+00:00
-
- ## Stokes County Center | N.C. Cooperative Extension
- - [https://stokes.ces.ncsu.edu](https://stokes.ces.ncsu.edu)
- - date_published: 2024-10-15T05:23:42.768995+00:00
-
- ## Strategic Planning
- - [https://strategicplan.ncsu.edu](https://strategicplan.ncsu.edu)
- - date_published: 2024-05-07T19:45:13.865771+00:00
-
- ## Strawberry Growers Information | NC State Extension
- - [https://strawberries.ces.ncsu.edu](https://strawberries.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:14.225851+00:00
-
- ## Student Media
- - [https://studentmedia.dasa.ncsu.edu](https://studentmedia.dasa.ncsu.edu)
- - date_published: 2024-08-17T23:12:16.443067+00:00
-
- ## Student Services Center
- - [https://studentservices.ncsu.edu](https://studentservices.ncsu.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Surry County Center | N.C. Cooperative Extension
- - [https://surry.ces.ncsu.edu](https://surry.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:59.035140+00:00
-
- ## Swain County Center | N.C. Cooperative Extension
- - [https://swain.ces.ncsu.edu](https://swain.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:30.165695+00:00
-
- ## Swine | NC State Extension
- - [https://swine.ces.ncsu.edu](https://swine.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:54.229624+00:00
-
- ## Therapeutic Horticulture | NC State Extension
- - [https://therapeutic-hort.ces.ncsu.edu](https://therapeutic-hort.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:21.045537+00:00
-
- ## Tobacco Growers Information | NC State Extension
- - [https://tobacco.ces.ncsu.edu](https://tobacco.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:20.737167+00:00
-
- ## Tourism Extension | NC State Extension
- - [https://tourism.ces.ncsu.edu](https://tourism.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:18.951415+00:00
-
- ## Trademark Licensing
- - [https://trademarks.ncsu.edu](https://trademarks.ncsu.edu)
- - date_published: 2024-07-01T15:55:44.795726+00:00
-
- ## Celebrating Transformation
- - [https://transformation.ncsu.edu](https://transformation.ncsu.edu)
- - date_published: 2024-08-07T16:54:36.533077+00:00
-
- ## Transportation
- - [https://transportation.ncsu.edu](https://transportation.ncsu.edu)
- - date_published: 2024-07-01T15:55:56.780996+00:00
-
- ## Transylvania County Center | N.C. Cooperative Extension
- - [https://transylvania.ces.ncsu.edu](https://transylvania.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:56.373876+00:00
-
- ## TurfFiles | NC State Extension
- - [https://turf.ces.ncsu.edu](https://turf.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:41.664790+00:00
-
- ## Turf Pathology | NC State Extension
- - [https://turfpathology.ces.ncsu.edu](https://turfpathology.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:11.615167+00:00
-
- ## Tyrrell County Center | N.C. Cooperative Extension
- - [https://tyrrell.ces.ncsu.edu](https://tyrrell.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:45.362219+00:00
-
- ## Union County Center | N.C. Cooperative Extension
- - [https://union.ces.ncsu.edu](https://union.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:04.011324+00:00
-
- ## University Communications and Marketing | NC State University
- - [https://university-communications.ncsu.edu](https://university-communications.ncsu.edu)
- - date_published: 2024-07-01T15:55:36.757378+00:00
-
- ## Vance County Center | N.C. Cooperative Extension
- - [https://vance.ces.ncsu.edu](https://vance.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:53.031525+00:00
-
- ## Vegetable Production | NC State Extension
- - [https://vegetables.ces.ncsu.edu](https://vegetables.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:22.413651+00:00
-
- ## Vernon James Center | NC State Extension
- - [https://vernonjames.ces.ncsu.edu](https://vernonjames.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:10.262680+00:00
-
- ## Welcome to NC State Virtual Tour | NC State University
- - [https://visit.ncsu.edu](https://visit.ncsu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Wake County Center | N.C. Cooperative Extension
- - [https://wake.ces.ncsu.edu](https://wake.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:43.793023+00:00
-
- ## Warren County Center | N.C. Cooperative Extension
- - [https://warren.ces.ncsu.edu](https://warren.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:47.373728+00:00
-
- ## Washington County Center | N.C. Cooperative Extension
- - [https://washington.ces.ncsu.edu](https://washington.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:49.163151+00:00
-
- ## Watauga County Center | N.C. Cooperative Extension
- - [https://watauga.ces.ncsu.edu](https://watauga.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:24.300333+00:00
-
- ## Water Resources | NC State Extension
- - [https://waterresources.ces.ncsu.edu](https://waterresources.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:27.180665+00:00
-
- ## Wayne County Center | N.C. Cooperative Extension
- - [https://wayne.ces.ncsu.edu](https://wayne.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:51.612736+00:00
-
- ## Weed Management in Nurseries, Landscapes & Christmas Trees | NC State Extension
- - [https://weeds.ces.ncsu.edu](https://weeds.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:59.915068+00:00
-
- ## Wilkes County Center | N.C. Cooperative Extension
- - [https://wilkes.ces.ncsu.edu](https://wilkes.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:03.862193+00:00
-
- ## Wilson County Center | N.C. Cooperative Extension
- - [https://wilson.ces.ncsu.edu](https://wilson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:29.238330+00:00
-
- ## Wolfpack Pickup
- - [https://wolfpackpickup.dasa.ncsu.edu](https://wolfpackpickup.dasa.ncsu.edu)
- - date_published: 2024-07-01T15:56:00.077707+00:00
-
- ## Center for Environmental Farming Systems
- - [http://www.cefs.ncsu.edu](http://www.cefs.ncsu.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Department of Computer Science at North Carolina State University
- - [http://www.csc.ncsu.edu](http://www.csc.ncsu.edu)
- - date_published: 2024-09-23T13:36:30.788958+00:00
-
- ## College of Engineering
- - [https://www.engr.ncsu.edu](https://www.engr.ncsu.edu)
- - date_published: 2024-07-01T15:53:54.317607+00:00
-
- ## Home | NC State University Libraries
- - [http://www.lib.ncsu.edu](http://www.lib.ncsu.edu)
- - date_published: 2024-06-20T06:59:37.542313+00:00
-
- ## NC State Shibboleth Login - Loading Session Information
- - [https://xemp.ces.ncsu.edu](https://xemp.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:42.514392+00:00
-
- ## Yadkin County Center | N.C. Cooperative Extension
- - [https://yadkin.ces.ncsu.edu](https://yadkin.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:33.476431+00:00
-
- ## Yancey County Center | N.C. Cooperative Extension
- - [https://yancey.ces.ncsu.edu](https://yancey.ces.ncsu.edu)
- - date_published: 2024-10-15T05:33:12.616765+00:00
-
- ## Youth Livestock Program | NC State Extension
- - [https://youthlivestock.ces.ncsu.edu](https://youthlivestock.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:55.624134+00:00
-
- ## NCURA Home
- - [http://ncura.edu](http://ncura.edu)
- - date_published: 2024-07-22T02:41:46.568585+00:00
-
- ## College of Arts & Letters
- - [https://al.nd.edu](https://al.nd.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Athletics Business Office // University of Notre Dame
- - [https://athleticsbusinessoffice.nd.edu](https://athleticsbusinessoffice.nd.edu)
- - date_published: 2024-10-02T10:28:17.878373+00:00
-
- ## Department of Chemistry & Biochemistry
- - [http://chemistry.nd.edu](http://chemistry.nd.edu)
- - date_published: 2024-10-19T04:54:53.464308+00:00
-
- ## Home
- - [https://churchlifejournal.nd.edu](https://churchlifejournal.nd.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Commencement
- - [http://commencement.nd.edu](http://commencement.nd.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Cushwa Center
- - [http://cushwa.nd.edu](http://cushwa.nd.edu)
- - date_published: 2024-06-25T13:05:17+00:00
-
- ## Directory | University of Notre Dame
- - [https://directory.nd.edu](https://directory.nd.edu)
- - date_published: 2024-02-06T21:20:42+00:00
-
- ## Diversity, Equity, and Inclusion
- - [http://diversity.nd.edu](http://diversity.nd.edu)
- - date_published: 2024-10-02T10:27:55.179172+00:00
-
- ## Home // Warren Drug Discovery // University of Notre Dame
- - [http://drugdiscovery.nd.edu](http://drugdiscovery.nd.edu)
- - date_published: 2024-10-19T04:54:19.317133+00:00
-
- ## du Lac: A Guide to Student Life
- - [https://dulac.nd.edu](https://dulac.nd.edu)
- - date_published: 2024-05-31T15:47:32+00:00
-
- ## Emergency Information
- - [https://emergency.nd.edu](https://emergency.nd.edu)
- - date_published: 2024-05-07T19:45:38.368524+00:00
-
- ## Home // Office of Institutional Equity // University of Notre Dame
- - [https://equity.nd.edu](https://equity.nd.edu)
- - date_published: 2024-10-02T10:27:57.045376+00:00
-
- ## Notre Dame Events
- - [https://events.nd.edu](https://events.nd.edu)
- - date_published: 2024-05-07T19:45:46.179696+00:00
-
- ## Faculty Positions
- - [http://facultypositions.nd.edu](http://facultypositions.nd.edu)
- - date_published: 2024-10-02T10:27:58.902749+00:00
-
- ## Home - FaithND
- - [http://faith.nd.edu](http://faith.nd.edu)
- - date_published: 2024-10-02T10:29:48.005926+00:00
-
- ## What Would You Fight For?
- - [https://fightingfor.nd.edu](https://fightingfor.nd.edu)
- - date_published: 2024-10-02T10:24:32.503455+00:00
-
- ## FindND | University of Notre Dame
- - [http://find.nd.edu](http://find.nd.edu)
- - date_published: 2024-10-02T10:27:53.015580+00:00
-
- ## Giving to Notre Dame
- - [https://giving.nd.edu](https://giving.nd.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Human Resources
- - [http://hr.nd.edu](http://hr.nd.edu)
- - date_published: 2024-07-01T13:22:10+00:00
-
- ## Service Discovery
- - [https://inside.nd.edu](https://inside.nd.edu)
- - date_published: 2024-06-16T10:39:07.297352+00:00
-
- ## PeopleGrove
- - [https://irishcompass.nd.edu](https://irishcompass.nd.edu)
- - date_published: 2024-10-02T10:29:43+00:00
-
- ## Notre Dame Application Portal
- - [https://jobs.nd.edu](https://jobs.nd.edu)
- - date_published: 2024-06-16T10:38:55+00:00
-
- ## Home | The Law School | University of Notre Dame
- - [https://law.nd.edu](https://law.nd.edu)
- - date_published: 2024-06-28T17:31:05+00:00
-
- ## Campus Map | University of Notre Dame
- - [https://map.nd.edu](https://map.nd.edu)
- - date_published: 2024-10-02T10:27:28.643581+00:00
-
- ## Department of Mathematics
- - [http://math.nd.edu](http://math.nd.edu)
- - date_published: 2024-06-28T04:00:03+00:00
-
- ## Home - Notre Dame Business Mendoza College of Business
- - [https://mendoza.nd.edu](https://mendoza.nd.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Product Page - Notre Dame Service Portal
- - [https://mobile.nd.edu](https://mobile.nd.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Join myNotreDame
- - [https://my.nd.edu](https://my.nd.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## University of Notre Dame
- - [http://nd.edu](http://nd.edu)
- - date_published: 2024-07-01T15:56:33.102793+00:00
-
- ## Notre Dame Fire Department
- - [https://ndfd.nd.edu](https://ndfd.nd.edu)
- - date_published: 2024-05-02T15:47:14+00:00
-
- ## Notre Dame Philosophical Reviews
- - [https://ndpr.nd.edu](https://ndpr.nd.edu)
- - date_published: 2024-05-07T16:16:12.105690+00:00
-
- ## Home
- - [https://ndworks.nd.edu](https://ndworks.nd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date_published: 2023-10-25T18:55:35.076777+00:00
-
- ## Office of Information Technology
- - [http://oit.nd.edu](http://oit.nd.edu)
- - date_published: 2024-06-28T19:01:34+00:00
-
- ## Office of Public Affairs and Communications
- - [https://opac.nd.edu](https://opac.nd.edu)
- - date_published: 2024-01-18T19:52:55+00:00
-
- ## Home
- - [https://performingarts.nd.edu](https://performingarts.nd.edu)
- - date_published: 2024-07-01T15:56:20.551173+00:00
-
- ## Home // Department of Philosophy // University of Notre Dame
- - [https://philosophy.nd.edu](https://philosophy.nd.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Notre Dame Police Department
- - [https://police.nd.edu](https://police.nd.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home // Department of Political Science // University of Notre Dame
- - [https://politicalscience.nd.edu](https://politicalscience.nd.edu)
- - date_published: 2024-06-28T19:49:24+00:00
-
- ## RecSports
- - [https://recsports.nd.edu](https://recsports.nd.edu)
- - date_published: 2024-10-02T10:28:13.033536+00:00
-
- ## Office of the Registrar
- - [https://registrar.nd.edu](https://registrar.nd.edu)
- - date_published: 2024-06-06T13:38:12+00:00
-
- ## myNotreDame
- - [https://reunion.nd.edu](https://reunion.nd.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Risk Management and Safety
- - [https://riskmanagement.nd.edu](https://riskmanagement.nd.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Campus Safety and University Operations
- - [https://safetyandoperations.nd.edu](https://safetyandoperations.nd.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Search Notre Dame | University of Notre Dame
- - [https://search.nd.edu](https://search.nd.edu)
- - date_published: 2024-01-02T13:51:28+00:00
-
- ## Speak Up
- - [http://speakup.nd.edu](http://speakup.nd.edu)
- - date_published: 2024-10-02T10:30:20.271418+00:00
-
- ## static.nd.edu | University of Notre Dame
- - [https://static.nd.edu](https://static.nd.edu)
- - date_published: 2018-04-17T16:10:09+00:00
-
- ## Stories
- - [https://stories.nd.edu](https://stories.nd.edu)
- - date_published: 2024-05-07T19:45:24.023439+00:00
-
- ## University Strategic Framework
- - [https://strategicframework.nd.edu](https://strategicframework.nd.edu)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Technology Ethics Center
- - [https://techethics.nd.edu](https://techethics.nd.edu)
- - date_published: 2024-07-12T13:47:58+00:00
-
- ## Home - ThinkND
- - [https://think.nd.edu](https://think.nd.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Campus Tour
- - [https://tour.nd.edu](https://tour.nd.edu)
- - date_published: 2024-03-22T20:36:56+00:00
-
- ## myNotreDame
- - [https://travelingirish.nd.edu](https://travelingirish.nd.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home // We Are ND // University of Notre Dame
- - [https://weare.nd.edu](https://weare.nd.edu)
- - date_published: 2024-10-02T10:29:54.951639+00:00
-
- ## University of Notre Dame
- - [http://www3.nd.edu](http://www3.nd.edu)
- - date_published: 2024-08-06T04:24:24.456910+00:00
-
- ## Home | University of Notre Dame | University of Notre Dame
- - [https://wwwnd.nd.edu](https://wwwnd.nd.edu)
- - date_published: 2024-06-14T17:56:44+00:00
-
- ## Homepage | North Dakota State College of Science (NDSCS) | Wahpeton/Fargo
- - [https://www.ndscs.edu](https://www.ndscs.edu)
- - date_published: 2024-07-01T15:37:46+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
- - date_published: 2024-05-07T19:46:04.013334+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career.ndsu.edu](https://career.ndsu.edu)
- - date_published: 2024-07-01T16:01:34.483513+00:00
-
- ## IT Knowledge Base
- - [https://kb.ndsu.edu](https://kb.ndsu.edu)
- - date_published: 2024-07-01T16:02:13.033419+00:00
-
- ## | NDSU Libraries
- - [https://library.ndsu.edu](https://library.ndsu.edu)
- - date_published: 2024-05-07T19:45:50.428351+00:00
-
- ## - myNDSU| North Dakota State University
- - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
- - date_published: 2024-05-07T19:46:13.913614+00:00
-
- ## NDSU - North Dakota State University
- - [https://ndsu.edu](https://ndsu.edu)
- - date_published: 2023-10-25T18:55:39.000458+00:00
-
- ## Home
- - [https://capstone.ndu.edu](https://capstone.ndu.edu)
- - date_published: 2024-06-22T07:07:08.838470+00:00
-
- ## Center for Applied Strategic Learning
- - [http://casl.ndu.edu](http://casl.ndu.edu)
- - date_published: 2024-07-08T21:39:19.622264+00:00
-
- ## Home
- - [https://cic.ndu.edu](https://cic.ndu.edu)
- - date_published: 2024-05-08T02:44:04.388879+00:00
-
- ## Institute for National Strategic Studies (INSS)
- - [https://inss.ndu.edu](https://inss.ndu.edu)
- - date_published: 2024-07-07T04:55:16.136208+00:00
-
- ## Center for the Study of Weapons of Mass Destruction > Home
- - [https://wmdcenter.ndu.edu](https://wmdcenter.ndu.edu)
- - date_published: 2024-06-17T10:48:04.873119+00:00
-
- ## National Defense University
- - [https://www.ndu.edu](https://www.ndu.edu)
- - date_published: 2024-07-03T13:48:41.778164+00:00
-
- ## Blackboard Learn
- - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
- - date_published: 2004-07-01T16:00:49+00:00
-
- ## Buffett Institute - Home
- - [http://buffettinstitute.nebraska.edu](http://buffettinstitute.nebraska.edu)
- - date_published: 2024-07-02T04:49:17.126924+00:00
-
- ## University of Nebraska System Office Employment Opportunities | Home
- - [https://careers.nebraska.edu](https://careers.nebraska.edu)
- - date_published: 2024-07-02T04:49:25+00:00
-
- ## ITS
- - [http://its.nebraska.edu](http://its.nebraska.edu)
- - date_published: 2024-07-02T04:55:02.863686+00:00
-
- ## MYRED
- - [https://myred.nebraska.edu](https://myred.nebraska.edu)
- - date_published: 2023-11-20T02:16:29+00:00
-
- ## University of Nebraska System
- - [https://nebraska.edu](https://nebraska.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## National Strategic Research Institute
- - [https://nsri.nebraska.edu](https://nsri.nebraska.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home
- - [https://nusupport.nebraska.edu](https://nusupport.nebraska.edu)
- - date_published: 2024-07-02T04:51:01.792615+00:00
-
- ## Home
- - [http://online.nebraska.edu](http://online.nebraska.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Peter Kiewit Institute | About UNO | University of Nebraska Omaha
- - [https://pki.nebraska.edu](https://pki.nebraska.edu)
- - date_published: 2024-10-17T22:25:18.777288+00:00
-
- ## Nebraska Scholarly Commons | University of Nebraska Research
- - [https://scholarlycommons.nebraska.edu](https://scholarlycommons.nebraska.edu)
- - date_published: 2024-06-30T03:04:29.441964+00:00
-
- ## IT Status
- - [http://status.nebraska.edu](http://status.nebraska.edu)
- - date_published: 2024-07-02T04:55:22.457606+00:00
-
- ## TrueYou Self Service | Home
- - [https://trueyou.nebraska.edu](https://trueyou.nebraska.edu)
- - date_published: 2024-07-02T04:55:16.713655+00:00
-
- ## Request Rejected
- - [http://unit.nebraska.edu](http://unit.nebraska.edu)
- - date_published: 2024-07-02T04:55:17.983786+00:00
-
- ## Water for Food
- - [http://waterforfood.nebraska.edu](http://waterforfood.nebraska.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Khoury College of Computer Sciences
- - [http://ccs.neu.edu](http://ccs.neu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Dark Patterns Research at Northeastern University · Dark Patterns Research at Northeastern University
- - [https://darkpatterns.ccs.neu.edu](https://darkpatterns.ccs.neu.edu)
- - date_published: 2021-09-01T00:00:00+00:00
-
- ## Department of Electrical & Computer Engineering - Northeastern University
- - [https://ece.neu.edu](https://ece.neu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Select Your Destination – The Hubs
- - [http://myneu.neu.edu](http://myneu.neu.edu)
- - date_published: 2024-07-17T09:15:49+00:00
-
- ## Redirect by Primary Affiliation
- - [https://neuidmsso.neu.edu](https://neuidmsso.neu.edu)
- - date_published: 2020-09-02T18:53:30+00:00
 

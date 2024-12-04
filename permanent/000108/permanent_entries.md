@@ -1,3 +1,229 @@
+ ## High quality 2d Game assets and 2d game sprites
+ - [https://gamedeveloperstudio.com](https://gamedeveloperstudio.com)
+ - date_published: 2024-04-08T18:03:32+00:00
+ - tags: ['image assets']
+
+ ## Game Dev Geek
+ - [http://gamedevgeek.com](http://gamedevgeek.com)
+ - date_published: 2014-06-09T01:48:37+00:00
+
+ ## Gamedev.js - Web Game Development community
+ - [https://gamedevjs.com](https://gamedevjs.com)
+ - date_published: 2024-06-22T13:35:03.756772+00:00
+
+ ## Gamedev.js Weekly - newsletter about HTML5 Game Development
+ - [https://weekly.gamedevjs.com](https://weekly.gamedevjs.com)
+ - date_published: 2024-05-11T10:34:26.327269+00:00
+
+ ## Gamedev.js Weekly
+ - [https://gamedevjsweekly.com](https://gamedevjsweekly.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## GameDistribution Portal
+ - [https://html5.gamedistribution.com](https://html5.gamedistribution.com)
+ - date_published: 2024-07-04T12:02:32+00:00
+
+ ## Game Engine Architecture
+ - [https://www.gameenginebook.com](https://www.gameenginebook.com)
+ - date_published: 2022-08-05T18:36:40+00:00
+
+ ## Game Engine Gems
+ - [http://gameenginegems.com](http://gameenginegems.com)
+ - date_published: 2024-07-10T02:42:57.637874+00:00
+
+ ## GameEx Arcade
+ - [https://arcade.gameex.com](https://arcade.gameex.com)
+ - date_published: 2023-03-07T04:43:50+00:00
+
+ ## Home | GameEx
+ - [https://gameex.com](https://gameex.com)
+ - date_published: 2024-06-13T04:56:02+00:00
+
+ ## RetroBytes Portal
+ - [https://retrobytesportal.gameex.com](https://retrobytesportal.gameex.com)
+ - date_published: 2024-10-31T15:39:48+00:00
+
+ ## GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More
+ - [http://gamefaqs.com](http://gamefaqs.com)
+ - date_published: 2024-07-11T20:55:05.872822+00:00
+
+ ## Gamefic
+ - [http://gamefic.com](http://gamefic.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Gameflip Forum
+ - [https://forum.gameflip.com](https://forum.gameflip.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Gameflip | Buy & Sell Games, Gift Cards & More - Gameflip
+ - [https://gameflip.com](https://gameflip.com)
+ - date_published: 2024-02-08T17:49:25.592012+00:00
+
+ ## Play by Gameflip
+ - [https://play.gameflip.com](https://play.gameflip.com)
+ - date_published: 2024-05-04T07:19:16.637267+00:00
+
+ ## Video Games: Rent/Buy PS5, PS4, Xbox Series X, Nintendo Switch, 4kUHD, Blu-ray & MORE! Plus Consoles, Collectibles & Arcades Games | GameFly
+ - [https://www.gamefly.com](https://www.gamefly.com)
+ - date_published: 2024-05-01T06:30:04.648208+00:00
+
+ ## Video Games: Rent/Buy PS5, PS4, Xbox Series X, Nintendo Switch, 4kUHD, Blu-ray & MORE! Plus Consoles, Collectibles & Arcades Games | GameFly
+ - [https://gamefly.gameflycdn.com](https://gamefly.gameflycdn.com)
+ - date_published: 2024-05-29T18:06:46+00:00
+
+ ## Standard Terms and Conditions of Use - GF Portal - Gameforge 4D GmbH
+ - [https://agbserver.gameforge.com](https://agbserver.gameforge.com)
+ - date_published: 2024-05-14T03:29:09.772361+00:00
+
+ ## Gameforge - Game support
+ - [https://billing.gameforge.com](https://billing.gameforge.com)
+ - date_published: 2024-05-14T03:29:11.086591+00:00
+
+ ## Dashboard - Dev / Style Board
+ - [https://board.dev.gameforge.com](https://board.dev.gameforge.com)
+ - date_published: 2024-07-18T04:58:21+00:00
+
+ ## Forum - Metin2 UK
+ - [https://board.en.metin2.gameforge.com](https://board.en.metin2.gameforge.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Challenge test
+ - [https://challenge.gameforge.com](https://challenge.gameforge.com)
+ - date_published: 2023-02-22T18:43:49+00:00
+
+ ## Welcome to Gameforge AG
+ - [https://corporate.gameforge.com](https://corporate.gameforge.com)
+ - date_published: 2024-10-27T02:05:30.086518+00:00
+
+ ## Gameforge - Game support
+ - [https://digitalservicesact.support.gameforge.com](https://digitalservicesact.support.gameforge.com)
+ - date_published: 2024-07-18T04:58:29.005925+00:00
+
+ ## Start
+ - [http://en.4story.gameforge.com](http://en.4story.gameforge.com)
+ - date_published: 2024-07-18T05:03:45.005039+00:00
+
+ ## Elsword
+ - [https://en.elsword.gameforge.com](https://en.elsword.gameforge.com)
+ - date_published: 2024-07-18T05:03:34.937978+00:00
+
+ ## KingsAge
+ - [https://en.kingsage.gameforge.com](https://en.kingsage.gameforge.com)
+ - date_published: 2024-07-18T05:03:46.242221+00:00
+
+ - [https://gameforge.com](https://gameforge.com)
+ - date_published: 2024-04-08T17:57:30+00:00
+ - tags: ['web games', 'online games']
+
+ ## :: Image Upload
+ - [https://image.board.gameforge.com](https://image.board.gameforge.com)
+ - date_published: 2024-07-18T04:57:07.059319+00:00
+
+ ## AION Classic
+ - [https://join.aionclassic.gameforge.com](https://join.aionclassic.gameforge.com)
+ - date_published: 2024-07-18T05:03:43.190035+00:00
+
+ - [https://ogame.gameforge.com](https://ogame.gameforge.com)
+ - date_published: 2024-04-08T17:56:59+00:00
+
+ ## Gameforge - Game support
+ - [https://ogame.support.gameforge.com](https://ogame.support.gameforge.com)
+ - date_published: 2024-06-19T01:02:02.629907+00:00
+
+ ## OGame - The Most Successful Browser Game in the Universe!
+ - [https://play.ogame.gameforge.com](https://play.ogame.gameforge.com)
+ - date_published: 2024-07-18T05:03:41.947416+00:00
+
+ ## Gameforge - Game support
+ - [https://support.gameforge.com](https://support.gameforge.com)
+ - date_published: 2024-05-14T03:29:14.342525+00:00
+
+ ## Gamefound
+ - [https://gamefound.com](https://gamefound.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Gamefound Knowledge Base
+ - [https://help.gamefound.com](https://help.gamefound.com)
+ - date_published: 2024-11-01T00:27:21.396718+00:00
+
+ ## Gaming News, Videos & More - Xbox, PS5, Nintendo, PC - GameFragger.com
+ - [https://gamefragger.com](https://gamefragger.com)
+ - date_published: 2024-05-08T06:03:56.460431+00:00
+
+ ## Game Freaks 365
+ - [https://gamefreaks365.com](https://gamefreaks365.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## GameFromScratch.com – Game Development News, Tutorials and More
+ - [https://gamefromscratch.com](https://gamefromscratch.com)
+ - date_published: 2023-10-25T14:40:53.198559+00:00
+ - tags: ['game development news']
+
+ ## GameFront - Mods | Maps | News | Guides | Videos
+ - [http://www.gamefront.com](http://www.gamefront.com)
+ - date_published: 2024-06-28T15:44:37.193528+00:00
+
+ ## Home - Game Gavel
+ - [https://gamegavel.com](https://gamegavel.com)
+ - date_published: 2020-09-27T05:13:55+00:00
+
+ ## Gamegenic
+ - [https://www.gamegenic.com](https://www.gamegenic.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://www.gamegirladvance.com](https://www.gamegirladvance.com)
+ - date_published: 2024-04-03T06:41:14.896176+00:00
+
+ ## GameGrooves
+ - [https://gamegrooves.com](https://gamegrooves.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## GameInfinitus - Gaming News, Guides, Patch Notes, and Reviews
+ - [https://gameinfinitus.com](https://gameinfinitus.com)
+ - date_published: 2023-12-10T07:38:40.900576+00:00
+ - tags: ['game news']
+
+ ## GameInformer - The Final Level
+ - [http://gameinformer.com](http://gameinformer.com)
+ - date_published: 2024-08-20T17:04:01+00:00
+
+ ## Game Informer Magazine Subscriptions
+ - [https://subscription.gameinformer.com](https://subscription.gameinformer.com)
+ - date_published: 2024-06-25T17:53:07.220406+00:00
+
+ ## Game Innovation Lab
+ - [http://www.gameinnovationlab.com](http://www.gameinnovationlab.com)
+ - date_published: 2024-07-11T23:02:39.364101+00:00
+
+ ## GameInternals
+ - [http://gameinternals.com](http://gameinternals.com)
+ - date_published: 2010-12-02T00:00:00+00:00
+
+ ## Game in the Brain
+ - [https://www.gameinthebrain.com](https://www.gameinthebrain.com)
+ - date_published: 2024-07-08T08:08:22+00:00
+
+ ## Game Jolt - Share your creations
+ - [https://gamejolt.com](https://gamejolt.com)
+ - date_published: 2024-05-09T08:53:27.579986+00:00
+
+ ## 碧蓝档案wiki官网_碧蓝档案图鉴|GameKee
+ - [https://ba.gamekee.com](https://ba.gamekee.com)
+ - date_published: 2024-10-24T18:33:07.642418+00:00
+
+ ## Home - ViewsGameK
+ - [http://www.gameknightreviews.com](http://www.gameknightreviews.com)
+ - date_published: 2024-05-13T14:24:14+00:00
+
+ ## GameKnot.com - Play Chess Online
+ - [https://gameknot.com](https://gameknot.com)
+ - date_published: 2024-10-29T08:36:03.291463+00:00
+
+ ## Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs
+ - [https://www.gamekult.com](https://www.gamekult.com)
+ - date_published: 2024-09-04T01:31:26.368525+00:00
+
  ## The Gamelatron Archive
  - [http://archive.gamelatron.com](http://archive.gamelatron.com)
  - date_published: 2024-06-17T16:14:30.758420+00:00
@@ -638,6 +864,10 @@
  - [https://blizzard.gamespress.com](https://blizzard.gamespress.com)
  - date_published: 2024-09-16T02:58:39.390135+00:00
 
+ ## Game Guides, Cheats, Walkthroughs, FAQs - IGN
+ - [http://cheats.gamespy.com](http://cheats.gamespy.com)
+ - date_published: 2024-12-02T21:47:13.322897+00:00
+
  ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
  - [http://comrade.gamespy.com](http://comrade.gamespy.com)
  - date_published: 2016-10-20T19:28:14+00:00
@@ -654,6 +884,18 @@
  ## Xbox 360 - X360 - Cheats, Cheat Codes, Videos, Reviews - GameSpy
  - [http://xbox360.gamespy.com](http://xbox360.gamespy.com)
  - date_published: 2013-06-28T17:23:11+00:00
+
+ ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
+ - [http://www.gamespy3d.com](http://www.gamespy3d.com)
+ - date_published: 2016-10-20T19:28:14+00:00
+
+ ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
+ - [http://www.gamespyarcade.com](http://www.gamespyarcade.com)
+ - date_published: 2016-10-20T19:28:14+00:00
+
+ ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
+ - [http://www.gamespystore.com](http://www.gamespystore.com)
+ - date_published: 2016-10-20T19:28:14+00:00
 
  ## GamesRadar+
  - [https://www.gamesradar.com](https://www.gamesradar.com)
@@ -1730,6 +1972,10 @@
  ## Gary McGath
  - [https://garymcgath.com](https://garymcgath.com)
  - date_published: 2024-05-04T06:00:07.312536+00:00
+
+ ## Gary McGraw
+ - [https://www.garymcgraw.com](https://www.garymcgraw.com)
+ - date_published: 2024-12-03T21:12:03.293875+00:00
 
  ## Gary-Moore.com - the official web site
  - [http://www.gary-moore.com](http://www.gary-moore.com)
@@ -3811,249 +4057,4 @@
  ## IELTS Flex
  - [https://www.gelielts.com](https://www.gelielts.com)
  - date_published: 2024-10-20T16:04:42.742908+00:00
-
- ## Elk Grove Kids Martial Arts - G-Elite Martial Arts - Elk Grove, California
- - [https://g-elitemartialarts.com](https://g-elitemartialarts.com)
- - date_published: 2024-08-18T09:35:39.355436+00:00
-
- ## Home - Geller Report
- - [https://gellerreport.com](https://gellerreport.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Gelo e Fogo wiki
- - [https://wiki.geloefogo.com](https://wiki.geloefogo.com)
- - date_published: 2024-04-19T01:37:40+00:00
-
- ## 3D Tactile Sensing with GelSight's Elastomeric Platform
- - [http://gelsight.com](http://gelsight.com)
- - date_published: 2021-09-20T16:42:11+00:00
-
- ## Recruiting CRM | All-in-One Hiring Software | Gem
- - [https://gem.com](https://gem.com)
- - date_published: 2024-06-15T17:59:43.510973+00:00
-
- ## Gem Status
- - [https://status.gem.com](https://status.gem.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Gem
- - [https://support.gem.com](https://support.gem.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Talent Summit 2023 | Gem
- - [https://talentsummit2023-register.gem.com](https://talentsummit2023-register.gem.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Gematsu
- - [https://gematsu.com](https://gematsu.com)
- - date_published: 2024-06-18T21:24:10+00:00
-
- ## Gem Bundler – Manage your Ruby gems
- - [http://gembundler.com](http://gembundler.com)
- - date_published: 2024-09-04T03:25:12.526743+00:00
-
- ## Gem City Swing
- - [https://www.gemcityswing.com](https://www.gemcityswing.com)
- - date_published: 2024-08-18T09:23:28.503886+00:00
-
- ## Gemeos Agency - The Webflow agency that powers your business
- - [https://www.gemeosagency.com](https://www.gemeosagency.com)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Cloud Package Repository
- - [https://gemfury.com](https://gemfury.com)
- - date_published: 2024-06-25T08:01:01+00:00
-
- ## GEM Golf Swing Trainer
- - [https://gemgolf.com](https://gemgolf.com)
- - date_published: 2023-09-29T00:00:00+00:00
-
- ## Gemini - Sign In
- - [https://exchange.gemini.com](https://exchange.gemini.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## [Sandbox] Gemini - Sign In
- - [https://exchange.sandbox.gemini.com](https://exchange.sandbox.gemini.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Buy, Sell & Trade Bitcoin & Other Crypto Currencies with Gemini's Platform | Gemini
- - [https://gemini.com](https://gemini.com)
- - date_published: 2024-05-01T06:43:03.126212+00:00
-
- ## Gemini - Sign In
- - [https://mobile.gemini.com](https://mobile.gemini.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Gemini Exchange Status
- - [https://status.gemini.com](https://status.gemini.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Gemini
- - [https://support.gemini.com](https://support.gemini.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home
- - [https://geminiadventures.com](https://geminiadventures.com)
- - date_published: 2024-06-15T11:56:03+00:00
-
- ## Gemini Bottle Co.
- - [https://www.geminibottlesf.com](https://www.geminibottlesf.com)
- - date_published: 2024-05-06T16:30:05.348837+00:00
-
- ## Data Logger | Gemini Data Loggers UK manufactures of Tinytag
- - [https://geminidataloggers.com](https://geminidataloggers.com)
- - date_published: 2024-05-09T04:21:25.314658+00:00
-
- ## Gemini Pro Chat
- - [https://www.geminiprochat.com](https://www.geminiprochat.com)
- - date_published: 2024-10-30T23:06:45.302622+00:00
-
- ## Gemius - Internet, TV & radio audience measurement
- - [https://gemius.com](https://gemius.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Homepage
- - [http://www.cz.gemius.com](http://www.cz.gemius.com)
- - date_published: 2024-06-25T20:20:36+00:00
-
- ## Gemma Catolino - Assistant Professor
- - [https://www.gemmacatolino.com](https://www.gemmacatolino.com)
- - date_published: 2024-01-10T13:58:49+00:00
-
- ## Gemma Luz Bosch
- - [https://gemmaluzbosch.com](https://gemmaluzbosch.com)
- - date_published: 2024-08-19T15:21:23.721486+00:00
-
- ## Gemmiti Model Art
- - [http://www.gemmiti.com](http://www.gemmiti.com)
- - date_published: 2024-06-29T17:03:23.231784+00:00
-
- ## Gemoo | Record Video Messages and Get Them Organized
- - [https://app.gemoo.com](https://app.gemoo.com)
- - date_published: 2023-11-03T11:12:49.480478+00:00
-
- ## Clippa
- - [https://editor.gemoo.com](https://editor.gemoo.com)
- - date_published: 2024-07-17T03:32:21+00:00
-
- ## Gemoo - Your One-Stop Platform to Create, Edit, and Share Videos
- - [https://gemoo.com](https://gemoo.com)
- - date_published: 2024-05-15T02:44:58.404036+00:00
-
- ## Gems of War – Match 3 Puzzle RPG from the Developers of Puzzle Quest
- - [http://www.gemsofwar.com](http://www.gemsofwar.com)
- - date_published: 2024-07-12T22:23:08.115145+00:00
-
- ## Home | Gemsouls
- - [https://gemsouls.com](https://gemsouls.com)
- - date_published: 2024-10-30T19:34:24.540738+00:00
-
- ## Gem State Comic Con
- - [https://gemstatecomiccon.com](https://gemstatecomiccon.com)
- - date_published: 2024-04-06T00:00:00+00:00
- - tags: ['convention', 'comics']
-
- ## Gemstone Publishing
- - [http://www.gemstonepub.com](http://www.gemstonepub.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## SqueakSource3
- - [https://ss3.gemtalksystems.com](https://ss3.gemtalksystems.com)
- - date_published: 2024-07-19T15:22:51.107149+00:00
-
- ## Gemxhale
- - [https://www.gemxhale.com](https://www.gemxhale.com)
- - date_published: 2024-10-29T23:04:00.493921+00:00
-
- ## Home
- - [http://gen42.com](http://gen42.com)
- - date_published: 2024-07-12T16:56:47+00:00
-
- ## Building the Builders | Dr. Gena Gorlin | Substack
- - [https://builders.genagorlin.com](https://builders.genagorlin.com)
- - date_published: 2024-05-12T06:31:40.313243+00:00
-
- ## Gena Gorlin
- - [https://genagorlin.com](https://genagorlin.com)
- - date_published: 2024-07-16T17:42:50.584375+00:00
-
- ## GAMES 2024
- - [https://gen-aishow.com](https://gen-aishow.com)
- - date_published: 2024-09-24T21:01:19.629272+00:00
-
- ## Sapphire: The Essentials Suite Of Award-Winning VFX Plugins | Boris FX
- - [http://genarts.com](http://genarts.com)
- - date_published: 2024-06-13T17:57:24.717544+00:00
-
- ## Award-Winning Tools For The Post-Production Industry | Boris FX
- - [http://web.genarts.com](http://web.genarts.com)
- - date_published: 2024-08-05T21:09:09.081456+00:00
-
- ## Administrador de aplicaciones
- - [https://admin.genbeta.com](https://admin.genbeta.com)
- - date_published: 2024-06-22T22:46:32.937546+00:00
-
- ## Genbeta - Software, internet y productividad
- - [https://genbeta.com](https://genbeta.com)
- - date_published: 2024-06-22T22:46:29.717485+00:00
-
- ## Generation Black Magazine
- - [https://genbmag.com](https://genbmag.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home - Gen B USA Magazine
- - [https://www.genbusa.com](https://www.genbusa.com)
- - date_published: 2020-01-02T11:13:56+00:00
-
- ## Gen Con | Gen Con Indy 2024
- - [https://gencon.com](https://gencon.com)
- - date_published: 2024-05-01T05:00:47.195931+00:00
-
- ## Gencraft - AI Art Image and Video Generator
- - [https://gencraft.com](https://gencraft.com)
- - date_published: 2024-05-04T08:03:40.285949+00:00
-
- ## Gender Census
- - [http://gendercensus.com](http://gendercensus.com)
- - date_published: 2024-09-02T13:06:34.620452+00:00
-
- ## homepage new
- - [https://www.genderconfirmation.com](https://www.genderconfirmation.com)
- - date_published: 2024-10-29T11:30:46.439676+00:00
-
- ## Elevating Gender Equality in COVID-19 Economic Recovery
- - [https://genderequalitycovid19recovery.com](https://genderequalitycovid19recovery.com)
- - date_published: 2024-03-01T15:54:25+00:00
-
- ## Powering Digital Freedom for people
- - [https://gendigital.com](https://gendigital.com)
- - date_published: 2024-05-28T13:37:55+00:00
-
- ## Gen Investor Relations - Investor Relations
- - [https://investor.gendigital.com](https://investor.gendigital.com)
- - date_published: 2024-07-20T20:42:21.712478+00:00
-
- ## Newsroom | Gen Digital
- - [https://newsroom.gendigital.com](https://newsroom.gendigital.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Guillaume Endignoux | Official Home Page | Site Officiel
- - [https://gendignoux.com](https://gendignoux.com)
- - date_published: 2024-06-18T22:00:52+00:00
-
- ## Genentech
- - [https://www.gene.com](https://www.gene.com)
- - date_published: 2024-07-08T15:40:20+00:00
-
- ## Genealogy, Family History & Ancestry Search | GenealogyBank
- - [https://www.genealogybank.com](https://www.genealogybank.com)
- - date_published: 2024-08-17T23:14:35.405467+00:00
-
- ## S&N Genealogy Supplies
- - [https://genealogysupplies.com](https://genealogysupplies.com)
- - date_published: 2024-06-22T14:19:51.896490+00:00
-
- ## Gene Dante & The Future Starlets
- - [https://genedante.com](https://genedante.com)
- - date_published: 2024-05-06T16:20:12.762653+00:00
 

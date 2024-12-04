@@ -1,3 +1,127 @@
+ ## Bienvenido al campus virtual
+ - [https://campus.arrobamedellin.edu.co](https://campus.arrobamedellin.edu.co)
+ - date_published: 2024-09-12T13:26:39.252191+00:00
+
+ ## Campus Virtual: Entrar al sitio
+ - [https://campusvirtual.edu.co](https://campusvirtual.edu.co)
+ - date_published: 2024-06-12T02:29:44.422518+00:00
+
+ ## Home
+ - [http://www.centrodeestudiosaeronauticos.edu.co](http://www.centrodeestudiosaeronauticos.edu.co)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Biblioteca Digital - CESA
+ - [https://repository.cesa.edu.co](https://repository.cesa.edu.co)
+ - date_published: 2024-09-11T16:52:11.376121+00:00
+
+ ## Inicio - Confederación Interamericana de Educación Católica - CIEC
+ - [https://ciec.edu.co](https://ciec.edu.co)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Centro Colombo Americano Bogotá | Programas de Inglés
+ - [http://www.colombobogota.edu.co](http://www.colombobogota.edu.co)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Colegio Santa María
+ - [https://csm.edu.co](https://csm.edu.co)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Editorial EAFIT
+ - [https://editorial.eafit.edu.co](https://editorial.eafit.edu.co)
+ - date_published: 2024-09-12T13:26:25.471360+00:00
+
+ ## Matrículas 2024
+ - [https://educacionbogota.edu.co](https://educacionbogota.edu.co)
+ - date_published: 2024-03-21T16:01:41+00:00
+
+ ## Inicio | Portal Matrículas Secretaría de Educación del Distrito
+ - [https://matricula.educacionbogota.edu.co](https://matricula.educacionbogota.edu.co)
+ - date_published: 2024-05-26T23:12:28+00:00
+
+ ## Educación - Fundación Santa Fe de Bogotá | Crecer profesionalmente tiene su ciencia
+ - [https://fsfb.edu.co](https://fsfb.edu.co)
+ - date_published: 2024-09-10T20:51:01+00:00
+
+ ## | FUCS
+ - [https://www.fucsalud.edu.co](https://www.fucsalud.edu.co)
+ - date_published: 2024-09-13T14:56:30+00:00
+
+ ## Universidad Icesi Cali, estudia en una de las mejores universidades de Colombia
+ - [https://www.icesi.edu.co](https://www.icesi.edu.co)
+ - date_published: 2024-09-10T23:56:53+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [https://certificados.icfes.edu.co](https://certificados.icfes.edu.co)
+ - date_published: 2013-05-27T19:52:48+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [http://citacion.icfes.edu.co](http://citacion.icfes.edu.co)
+ - date_published: 2016-04-12T19:22:54+00:00
+
+ ## GlassFish Server 3.1.2 - Server Running
+ - [http://prisma.icfes.edu.co](http://prisma.icfes.edu.co)
+ - date_published: 2012-07-13T01:10:59+00:00
+
+ ## ispaeducacion.edu.co
+ - [http://ispaeducacion.edu.co](http://ispaeducacion.edu.co)
+ - date_published: 2024-09-11T01:46:32.802078+00:00
+
+ ## Intranet Javeriana
+ - [https://acceso.javeriana.edu.co](https://acceso.javeriana.edu.co)
+ - date_published: 2020-04-24T16:27:49+00:00
+
+ ## Campus virtual Javeriana
+ - [https://campusvirtual.javeriana.edu.co](https://campusvirtual.javeriana.edu.co)
+ - date_published: 2024-05-24T02:43:50+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://cs.javeriana.edu.co](https://cs.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Encuestador Pontificia Universidad Javeriana
+ - [https://encuestas.javeriana.edu.co](https://encuestas.javeriana.edu.co)
+ - date_published: 2024-09-11T16:54:29.612652+00:00
+
+ ## Facultad de Filosofía - Pontificia Universidad Javeriana
+ - [https://filosofia.javeriana.edu.co](https://filosofia.javeriana.edu.co)
+ - date_published: 2024-06-12T03:19:40.738082+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://fn.javeriana.edu.co](https://fn.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Intranet Pontificia Universidad Javeriana
+ - [https://intranet.javeriana.edu.co](https://intranet.javeriana.edu.co)
+ - date_published: 2024-05-24T03:24:32+00:00
+
+ ## Portal Pontificia Universidad Javeriana
+ - [https://javeriana.edu.co](https://javeriana.edu.co)
+ - date_published: 2024-06-11T23:46:32.301772+00:00
+
+ ## Pontificia Universidad Javeriana
+ - [https://perfilesycapacidades.javeriana.edu.co](https://perfilesycapacidades.javeriana.edu.co)
+ - date_published: 2024-06-12T03:19:10.357420+00:00
+
+ ## Repositorio Institucional - Pontificia Universidad Javeriana
+ - [https://repository.javeriana.edu.co](https://repository.javeriana.edu.co)
+ - date_published: 2024-09-11T16:52:06.446352+00:00
+
+ ## MAX - Mis Aplicaciones Javerianas
+ - [https://rh.javeriana.edu.co](https://rh.javeriana.edu.co)
+ - date_published: 2024-05-24T03:38:30+00:00
+
+ ## Autoservicio de Proveedores || PUJ
+ - [https://servicios.javeriana.edu.co](https://servicios.javeriana.edu.co)
+ - date_published: 2024-06-12T11:02:17.705081+00:00
+
+ ## Facultad de Teología - Pontificia Universidad Javeriana
+ - [https://teologia.javeriana.edu.co](https://teologia.javeriana.edu.co)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Tienda Online Oficial Universidad Javeriana | Tienda Javeriana
+ - [https://tienda.javeriana.edu.co](https://tienda.javeriana.edu.co)
+ - date_published: 2024-06-12T03:20:22.351200+00:00
+
  ## OneGate
  - [https://auladigital.javerianacali.edu.co](https://auladigital.javerianacali.edu.co)
  - date_published: 2024-06-12T11:02:02.548800+00:00
@@ -3898,133 +4022,4 @@
  ## Devheroes
  - [https://devheroes.codes](https://devheroes.codes)
  - date_published: 2024-07-10T07:55:18.198416+00:00
-
- ## Diego Vicente
- - [https://diego.codes](https://diego.codes)
- - date_published: 2023-10-25T08:43:55.105962+00:00
- - tags: ['personal']
-
- ## Dusted Codes
- - [https://dusted.codes](https://dusted.codes)
- - date_published: 2023-10-25T12:25:14.948399+00:00
-
- ## Medama Logo
- - [https://stats.dusted.codes](https://stats.dusted.codes)
- - date_published: 2024-09-13T16:34:16.818494+00:00
-
- ## edm00se.codes
- - [https://edm00se.codes](https://edm00se.codes)
- - date_published: 2024-05-11T10:22:26.169065+00:00
-
- ## Misc
- - [https://misc.edm00se.codes](https://misc.edm00se.codes)
- - date_published: 2023-06-23T00:00:00+00:00
-
- ## Home
- - [https://elian.codes](https://elian.codes)
- - date_published: 2024-06-21T20:21:35.667232+00:00
-
- ## emotional.codes
- - [https://emotional.codes](https://emotional.codes)
- - date_published: 2021-11-25T07:09:29+00:00
-
- ## esoteric.codes
- - [https://esoteric.codes](https://esoteric.codes)
- - date_published: 2024-06-14T15:06:07.718078+00:00
-
- ## Espen.Codes
- - [https://espen.codes](https://espen.codes)
- - date_published: 2024-06-23T06:01:44.898158+00:00
-
- ## Esther's homepage
- - [https://esther.codes](https://esther.codes)
- - date_published: 2024-06-25T08:00:58+00:00
-
- ## evan.codes - rockin' the web like it's 1999...
- - [https://evan.codes](https://evan.codes)
- - date_published: 2023-12-30T22:23:41.770272+00:00
- - tags: ['personal']
-
- ## EVM Codes
- - [https://evm.codes](https://evm.codes)
- - date_published: 2024-09-23T12:19:40.478556+00:00
-
- ## explain.codes
- - [https://explain.codes](https://explain.codes)
- - date_published: 2024-08-19T11:50:28.295351+00:00
-
- ## The future of identity, data, and compute – Fission
- - [https://fission.codes](https://fission.codes)
- - date_published: 2024-06-26T14:12:13+00:00
-
- ## flower.codes
- - [https://flower.codes](https://flower.codes)
- - date_published: 2024-06-16T16:46:13+00:00
-
- ## Headless CMS right in your code editor | Front Matter
- - [https://frontmatter.codes](https://frontmatter.codes)
- - date_published: 2024-07-14T09:57:37.773494+00:00
-
- ## Gil's blog about code, technology, and leadership
-
-– Frontpage
- - [https://gil.codes](https://gil.codes)
- - date_published: 2024-04-03T06:26:03.565380+00:00
- - tags: ['personal']
-
- ## Garrett Tolbert
- - [https://gt.codes](https://gt.codes)
- - date_published: 2024-06-23T08:13:03.372508+00:00
-
- ## Henry From Online
- - [https://henry.codes](https://henry.codes)
- - date_published: 2024-05-07T23:14:33.569599+00:00
-
- ## Peaks | A Tiny List Project By Henry Desroches
- - [https://peaks.henry.codes](https://peaks.henry.codes)
- - date_published: 2024-07-02T19:12:46.399897+00:00
-
- ## The Serious-Version Resume of Henry Desroches
- - [https://resume.henry.codes](https://resume.henry.codes)
- - date_published: 2024-07-02T19:12:39.432640+00:00
-
- ## holmes.codes is almost here!
- - [https://holmes.codes](https://holmes.codes)
- - date_published: 2024-10-16T00:23:10+00:00
-
- ## j.holmes.codes
- - [https://j.holmes.codes](https://j.holmes.codes)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## HTML Color Codes 🎨
- - [https://html-color.codes](https://html-color.codes)
- - date_published: 2024-07-10T05:50:43.379853+00:00
-
- ## About | Digital Garden 🌱
- - [https://garden.ineza.codes](https://garden.ineza.codes)
- - date_published: 2024-07-02T20:59:52.122029+00:00
-
- ## Ineza Bonté
- - [https://ineza.codes](https://ineza.codes)
- - date_published: 2024-05-07T23:27:53.751131+00:00
-
- ## Irina Scurtu - .NET, Architecture and the world around it
- - [http://irina.codes](http://irina.codes)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## JD Minnick | Junior Creative Developer
- - [https://jdminnick.codes](https://jdminnick.codes)
- - date_published: 2024-05-07T23:24:29.465685+00:00
-
- ## JIT.codes — Convert text to code with AI
- - [https://jit.codes](https://jit.codes)
- - date_published: 2024-06-19T20:53:59.451014+00:00
-
- ## Joe Tannenbaum | NYC-based Software Engineer
- - [https://joe.codes](https://joe.codes)
- - date_published: 2024-08-18T09:49:48.648782+00:00
-
- ## Josef Ottosson
- - [https://josef.codes](https://josef.codes)
- - date_published: 2024-05-01T03:48:40.290359+00:00
 

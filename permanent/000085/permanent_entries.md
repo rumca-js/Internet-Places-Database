@@ -1,3 +1,191 @@
+ ## Designs By Darren
+ - [http://designsbydarren.com](http://designsbydarren.com)
+ - date_published: 2024-10-16T07:26:39.617064+00:00
+
+ ## Design Shard
+ - [http://www.designshard.com](http://www.designshard.com)
+ - date_published: 2024-07-23T23:45:49.458177+00:00
+
+ ## Custom Printing - Multipart NCR Invoices & Business Forms | DesignsnPrint
+ - [https://www.designsnprint.com](https://www.designsnprint.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Phone Tracker Free | Mobile Tracker | Cell Phone Tracking App
+ - [http://www.designsoftheyear.com](http://www.designsoftheyear.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## DesignSoft - Index
+ - [http://forum.designsoftware.com](http://forum.designsoftware.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## DesignSoft main page
+ - [https://www.designsoftware.com](https://www.designsoftware.com)
+ - date_published: 2014-10-01T10:10:10+00:00
+
+ ## Design Source Guide - Canadian Interiors
+ - [https://designsourceguide.com](https://designsourceguide.com)
+ - date_published: 2024-08-11T07:52:21.646909+00:00
+
+ ## Design Spells · Design details that feel like magic
+ - [https://www.designspells.com](https://www.designspells.com)
+ - date_published: 2024-07-02T18:02:10.645175+00:00
+
+ ## Designspiration - Design Inspiration | Inspirational Art, Photography & Typography Images
+ - [https://designspiration.com](https://designspiration.com)
+ - date_published: 2024-06-17T14:06:17.151523+00:00
+
+ ## Design Standards Corporation - Turning Innovative Ideas into Medical Solutions
+ - [http://www.designstandards.com](http://www.designstandards.com)
+ - date_published: 2024-07-26T20:17:25+00:00
+
+ ## Create Social Media Content In Seconds - designstripe
+ - [https://designstripe.com](https://designstripe.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Social media post ideas | designstripe
+ - [https://post-idea-generator.designstripe.com](https://post-idea-generator.designstripe.com)
+ - date_published: 2024-10-30T12:20:22.215054+00:00
+
+ ## Download Free Bootstrap Templates & Website Themes | Designstub
+ - [https://designstub.com](https://designstub.com)
+ - date_published: 2024-04-28T03:45:32.607688+00:00
+
+ ## Design System Canvas — Download Now!
+ - [https://designsystemcanvas.com](https://designsystemcanvas.com)
+ - date_published: 2023-07-31T10:23:02+00:00
+
+ ## Design System Checklist
+ - [https://designsystemchecklist.com](https://designsystemchecklist.com)
+ - date_published: 2024-07-09T19:38:26.990061+00:00
+
+ ## Show HN: Possibly the most comprehensive design system collection
+ - [https://designsystemhunt.com](https://designsystemhunt.com)
+ - date_published: 2024-01-05T03:23:31+00:00
+
+ ## DesignSystems.com
+ - [https://designsystems.com](https://designsystems.com)
+ - date_published: 2024-04-29T07:15:19.862644+00:00
+
+ ## Design Systems Repo
+ - [https://designsystemsrepo.com](https://designsystemsrepo.com)
+ - date_published: 2024-05-06T13:44:56.044080+00:00
+
+ ## Designtex
+ - [http://www.designtex.com](http://www.designtex.com)
+ - date_published: 2024-10-29T12:25:24.524484+00:00
+
+ ## Design to Tailwind
+ - [https://designtotailwind.com](https://designtotailwind.com)
+ - date_published: 2024-06-11T08:56:24.985360+00:00
+
+ ## DesignTrek
+ - [http://www.designtrek.com](http://www.designtrek.com)
+ - date_published: 2024-09-04T05:51:47.178699+00:00
+
+ ## DESIGNTV® by SANDOW
+ - [https://designtvbysandow.com](https://designtvbysandow.com)
+ - date_published: 2024-08-08T23:50:50.726082+00:00
+
+ ## École Supérieure de Design Villefontaine | École Supérieure de Design
+ - [https://dsaa.designvillefontaine.com](https://dsaa.designvillefontaine.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## DesignWanted
+ - [https://designwanted.com](https://designwanted.com)
+ - date_published: 2021-11-23T13:44:47+00:00
+
+ ## DesignWicked.com
+ - [https://www.designwicked.com](https://www.designwicked.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Free Engineering Research Library of White Papers, Magazines, Reports, and eBooks
+ - [https://dw-resources.designworldonline.com](https://dw-resources.designworldonline.com)
+ - date_published: 2024-05-02T09:27:57.357159+00:00
+
+ ## Design World Leadership
+ - [https://leadership.designworldonline.com](https://leadership.designworldonline.com)
+ - date_published: 2024-06-17T08:26:59.436328+00:00
+
+ ## Home
+ - [https://www.designworldonline.com](https://www.designworldonline.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Design You Trust
+ - [https://designyoutrust.com](https://designyoutrust.com)
+ - date_published: 2023-10-25T13:50:22.315830+00:00
+
+ ## Electric Bikes | Desiknio | premium lightweight E-bikes
+ - [https://desiknio.com](https://desiknio.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Title: Latest Entertainment News - Bollywood, Hollywood News, Celebs, TV, Movie Trailers, Movie Reviews - DesiMartini
+ - [http://desimartini.com](http://desimartini.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Studio Grafico Napoli - Creative Area - Web Agency Napoli
+ - [https://www.desimoneluca.com](https://www.desimoneluca.com)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Home - desimslaughter
+ - [https://desimslaughter.com](https://desimslaughter.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Desired Landscapes
+ - [https://desired-landscapes.com](https://desired-landscapes.com)
+ - date_published: 2024-10-21T22:52:05.661051+00:00
+
+ ## Career - Desi M. Slaughter | @desimslaughter
+ - [http://desireeslaughter.com](http://desireeslaughter.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Meet Horny Women & Local Sluts Near Me | Desires Tonight
+ - [https://www.desirestonight.com](https://www.desirestonight.com)
+ - date_published: 2024-06-20T02:29:49.938017+00:00
+
+ ## Authentification
+ - [https://accweb.mouv.desjardins.com](https://accweb.mouv.desjardins.com)
+ - date_published: 2024-09-27T10:18:50.343274+00:00
+
+ ## Services financiers aux particuliers
+ - [https://desjardins.com](https://desjardins.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Services financiers aux particuliers
+ - [https://id.desjardins.com](https://id.desjardins.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://itdm.desjardins.com](https://itdm.desjardins.com)
+ - date_published: 2022-08-07T08:33:48+00:00
+
+ ## Page HTML simple
+ - [https://static.desjardins.com](https://static.desjardins.com)
+ - date_published: 2018-07-17T13:08:34+00:00
+
+ ## Banque francophone en Floride | Desjardins Bank
+ - [https://www.desjardinsbank.com](https://www.desjardinsbank.com)
+ - date_published: 2024-06-16T08:16:22.978861+00:00
+
+ ## desk24.com
+ - [http://www.desk24.com](http://www.desk24.com)
+ - date_published: 2024-07-04T14:59:33+00:00
+
+ ## DeskDingo: AI-enhanced Live Chat Software Solution
+ - [https://deskdingo.com](https://deskdingo.com)
+ - date_published: 2024-08-30T15:19:41+00:00
+
+ ## Discover top AI Tools and businesses - Desk Investor
+ - [https://deskinvestor.com](https://deskinvestor.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Fueling Passion, Inspiring Excellence: Sports Unleashed!
+ - [http://deskish.com](http://deskish.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Deskmag | The Coworking Magazine
+ - [http://www.deskmag.com](http://www.deskmag.com)
+ - date_published: 2024-09-18T19:00:54+00:00
+
  ## Deskpro Support
  - [https://support.deskpro.com](https://support.deskpro.com)
  - date_published: 2024-10-11T20:24:27.834981+00:00
@@ -1548,7 +1736,7 @@
  ## DeviantArt - The Largest Online Art Gallery and Community
  - [https://deviantart.com](https://deviantart.com)
  - date_published: 2024-05-08T10:46:34.129232+00:00
- - tags: ['art gallery', 'art community']
+ - tags: ['social platform', 'gateway', 'art community', 'art gallery']
 
  ## DidYouKnowGaming | DeviantArt
  - [http://didyouknowgaming.deviantart.com](http://didyouknowgaming.deviantart.com)
@@ -3849,193 +4037,4 @@ A blog about programming, distributed systems and others
  ## Merriam-Webster Dictionary API
  - [https://dictionaryapi.com](https://dictionaryapi.com)
  - date_published: 2024-04-18T00:00:00+00:00
-
- ## dictionaryevangelist.com is registered with Pair Domains
- - [http://dictionaryevangelist.com](http://dictionaryevangelist.com)
- - date_published: 2024-07-02T06:33:56.801857+00:00
-
- ## The Dictionary of Obscure Sorrows
- - [https://www.dictionaryofobscuresorrows.com](https://www.dictionaryofobscuresorrows.com)
- - date_published: 2023-10-25T13:51:36.270823+00:00
-
- ## Dictionary Of Online Behavior
- - [http://dictionaryofonlinebehavior.com](http://dictionaryofonlinebehavior.com)
- - date_published: 2024-07-13T15:02:11.968012+00:00
-
- ## Dictionaries
- - [https://dictionaryq.com](https://dictionaryq.com)
- - date_published: 2024-07-11T16:14:41.439668+00:00
-
- ## Dictionary Society of North America - Welcome
- - [https://dictionarysociety.com](https://dictionarysociety.com)
- - date_published: 2024-05-07T21:56:17.828231+00:00
-
- ## Show HN: The fastest Ethereum graph explorer (OpenSource)
- - [https://dictynna.com](https://dictynna.com)
- - date_published: 2024-10-13T19:21:38+00:00
-
- ## D-ID Studio
- - [https://create.d-id.com](https://create.d-id.com)
- - date_published: 2024-10-29T14:20:00+00:00
-
- ## D-ID Creative Reality™️
- - [https://d-id.com](https://d-id.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## D-ID's API | Getting Started 🎉
- - [https://docs.d-id.com](https://docs.d-id.com)
- - date_published: 2024-08-11T18:59:00.576207+00:00
-
- ## D-ID Studio
- - [https://studio.d-id.com](https://studio.d-id.com)
- - date_published: 2024-06-18T10:44:13+00:00
-
- ## Dídac Surís’s Page
- - [https://didacsuris.com](https://didacsuris.com)
- - date_published: 2024-03-26T18:17:49+00:00
-
- ## Welcome diddledog.com - BlueHost.com
- - [http://www.diddledog.com](http://www.diddledog.com)
- - date_published: 2024-10-27T18:30:28.710206+00:00
-
- ## Didem Gürdür Broo
- - [https://didemgurdur.com](https://didemgurdur.com)
- - date_published: 2024-06-20T12:32:48.939657+00:00
-
- ## 首页-滴滴官网
- - [http://www.didichuxing.com](http://www.didichuxing.com)
- - date_published: 2024-07-15T02:58:25.779761+00:00
-
- ## Didier Stevens
- - [https://blog.didierstevens.com](https://blog.didierstevens.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Didier Stevens
- - [https://didierstevens.com](https://didierstevens.com)
- - date_published: 2022-07-21T08:13:01+00:00
-
- ## 首页-滴滴官网
- - [https://www.didiglobal.com](https://www.didiglobal.com)
- - date_published: 2024-07-12T08:48:34.261616+00:00
-
- ## Long Island's Top Advertising & Marketing Agency | Digital Marketing New York
- - [https://didit.com](https://didit.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Dido Official Website
- - [http://didomusic.com](http://didomusic.com)
- - date_published: 2024-06-21T08:38:22.669022+00:00
-
- ## DidYouKnowGaming Brasil
- - [http://br.didyouknowgaming.com](http://br.didyouknowgaming.com)
- - date_published: 2024-07-18T05:20:03.390604+00:00
-
- ## Did You Know Gaming?
- - [https://didyouknowgaming.com](https://didyouknowgaming.com)
- - date_published: 2023-11-15T00:00:00+00:00
-
- ## DYKG Español
- - [http://es.didyouknowgaming.com](http://es.didyouknowgaming.com)
- - date_published: 2024-07-18T05:19:42.477985+00:00
-
- ## Show HN: I built a directory about big life decisions/regrets
- - [https://didyouregretit.com](https://didyouregretit.com)
- - date_published: 2024-05-31T19:49:18+00:00
-
- ## Dieblinkenlights
- - [https://dieblinkenlights.com](https://dieblinkenlights.com)
- - date_published: 2024-05-09T08:20:22.652787+00:00
-
- ## Bank Innovation – Retail Technology | Diebold Nixdorf
- - [https://www.dieboldnixdorf.com](https://www.dieboldnixdorf.com)
- - date_published: 2024-06-22T15:16:53.645656+00:00
-
- ## Home – brueder
- - [http://diebrueder.com](http://diebrueder.com)
- - date_published: 2024-07-13T16:02:16.500215+00:00
-
- ## Home - Studio Schneemann
- - [https://diederikschneemann.com](https://diederikschneemann.com)
- - date_published: 2020-07-02T09:52:15+00:00
-
- ## Diego Basch
- - [http://diegobasch.com](http://diegobasch.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Diego Gil de Biedma
- - [https://diegogildebiedma.com](https://diegogildebiedma.com)
- - date_published: 2024-07-04T01:44:21.219176+00:00
-
- ## Diego H. Gurpegui
- - [https://diegogurpegui.com](https://diegogurpegui.com)
- - date_published: 2024-08-12T18:36:51+00:00
-
- ## Diegologs
- - [https://diegologs.com](https://diegologs.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Diego Minero – Cuaderno abierto
- - [https://diegominero.com](https://diegominero.com)
- - date_published: 2024-04-13T03:06:06.395532+00:00
- - tags: ['personal']
-
- ## El Blog de Diego
- - [http://blog.diegoturcios.com](http://blog.diegoturcios.com)
- - date_published: 2024-07-07T05:50:40+00:00
-
- ## Diehard GameFAN
- - [http://diehardgamefan.com](http://diehardgamefan.com)
- - date_published: 2024-07-09T14:50:49.637120+00:00
-
- ## Welcome to Diehl | Diehl Group
- - [https://www.diehl.com](https://www.diehl.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Diehl Gallery | Jackson Hole, WY
- - [http://www.diehlgallery.com](http://www.diehlgallery.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Home - Dielectric
- - [https://www.dielectric.com](https://www.dielectric.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The Diem Association
- - [https://www.diem.com](https://www.diem.com)
- - date_published: 2024-08-18T22:39:49.995667+00:00
-
- ## DieMalen: Ausmalbilder für Kinder, Wie man Zeichnet und mehr
- - [https://diemalen.com](https://diemalen.com)
- - date_published: 2024-05-09T08:19:56.959467+00:00
-
- ## Diego Molina · Home
- - [https://diemol.com](https://diemol.com)
- - date_published: 2024-02-19T11:48:45+00:00
-
- ## Diễn đàn nhân sự lớn nhất Việt Nam
- - [https://diendannhansu.com](https://diendannhansu.com)
- - date_published: 2024-06-29T17:58:14.289836+00:00
-
- ## Die or Not | Is this food spicy ? 🔥
- - [https://dieornot.com](https://dieornot.com)
- - date_published: 2024-01-09T02:34:41.997582+00:00
-
- ## Nachrichten
- - [http://diepresse.com](http://diepresse.com)
- - date_published: 2024-06-25T22:51:42.193125+00:00
-
- ## Home - Diesel Army
- - [https://www.dieselarmy.com](https://www.dieselarmy.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Aberdeen web design & branding for businesses of all sizes UK & globally
- - [https://dieselgraf.com](https://dieselgraf.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## diesel sweeties webcomics by @rstevens
- - [https://dieselsweeties.com](https://dieselsweeties.com)
- - date_published: 2024-05-08T04:34:29.818830+00:00
-
- ## Diet Coke - Refreshing Taste With No Calories | Coca-Cola US
- - [https://dietcoke.com](https://dietcoke.com)
- - date_published: 2024-04-25T00:00:00+00:00
 

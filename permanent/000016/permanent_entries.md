@@ -1,3 +1,59 @@
+ ## Santillana
+ - [https://gruposantillana.com.br](https://gruposantillana.com.br)
+ - date_published: 2024-06-12T12:55:57.533717+00:00
+
+ ## GTAall.com.br — GTA mods com installer
+ - [https://www.gtaall.com.br](https://www.gtaall.com.br)
+ - date_published: 2024-06-16T22:08:21+00:00
+
+ ## GTA 5 - Grand Theft Auto V
+ - [http://br.gtafive.com.br](http://br.gtafive.com.br)
+ - date_published: 2024-07-02T06:04:12+00:00
+
+ ## Mods GTA San Andreas
+ - [https://gta-sa.com.br](https://gta-sa.com.br)
+ - date_published: 2023-10-25T11:08:27.421230+00:00
+
+ ## Home
+ - [https://www.guinnessworldrecords.com.br](https://www.guinnessworldrecords.com.br)
+ - date_published: 2024-05-04T08:58:02.022916+00:00
+
+ ## Hack The Task
+ - [https://hackthetask.com.br](https://hackthetask.com.br)
+ - date_published: 2024-07-18T04:42:27.462596+00:00
+
+ ## Harlequin Brasil
+ - [https://harlequin.com.br](https://harlequin.com.br)
+ - date_published: 2024-05-10T06:58:09.555415+00:00
+
+ ## HarperCollins Brasil
+ - [https://harpercollins.com.br](https://harpercollins.com.br)
+ - date_published: 2024-05-10T06:56:36.060012+00:00
+
+ ## Hashdex | Home
+ - [https://www.hashdex.com.br](https://www.hashdex.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.henkel.com.br](https://www.henkel.com.br)
+ - date_published: 2024-10-18T20:18:40.866367+00:00
+
+ ## Hilti Brasil - Ferramentas Elétricas, Fixadores e Software de Construção
+ - [https://www.hilti.com.br](https://www.hilti.com.br)
+ - date_published: 2024-06-20T07:27:17.095247+00:00
+
+ ## HitPaw Editor De Vídeo Online - Editar Vídeo Online Grátis
+ - [https://online.hitpaw.com.br](https://online.hitpaw.com.br)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Hoje em Dia
+ - [https://www.hojeemdia.com.br](https://www.hojeemdia.com.br)
+ - date_published: 2024-10-28T14:34:25.280470+00:00
+
+ ## Hollywood Forever TV
+ - [https://hollywoodforevertv.com.br](https://hollywoodforevertv.com.br)
+ - date_published: 2024-07-11T17:33:41.918455+00:00
+
  ## HOLOBOX | Projetores e projetos de holograma | Brasil
  - [https://www.holobox.com.br](https://www.holobox.com.br)
  - date_published: 2024-09-25T12:04:08.574326+00:00
@@ -3955,60 +4011,4 @@
  ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
  - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
  - date_published: 2024-08-11T16:11:15.340151+00:00
-
- ## Міністэрства аховы здароўя Рэспублікі Беларусь
- - [http://minzdrav.gov.by](http://minzdrav.gov.by)
- - date_published: 2024-08-11T16:11:05.592845+00:00
-
- ## Главная - Министерство жилищно-коммунального хозяйства Республики Беларусь
- - [http://www.mjkx.gov.by](http://www.mjkx.gov.by)
- - date_published: 2024-08-11T15:52:56.504477+00:00
-
- ## Министерство лесного хозяйства Республики Беларусь
- - [http://www.mlh.gov.by](http://www.mlh.gov.by)
- - date_published: 2024-08-11T16:11:17.611258+00:00
-
- ## Новости Могилева и Могилевской области | Могилевский областной исполнительный комитет
- - [http://mogilev-region.gov.by](http://mogilev-region.gov.by)
- - date_published: 2024-08-11T15:58:17.962387+00:00
-
- ## Главная | Министерство связи и информатизации Республики Беларусь
- - [https://www.mpt.gov.by](https://www.mpt.gov.by)
- - date_published: 2024-06-30T03:40:15.572113+00:00
-
- ## Министерство сельского хозяйства и продовольствия Республики Беларусь
- - [https://www.mshp.gov.by](https://www.mshp.gov.by)
- - date_published: 2024-08-11T16:08:04.648455+00:00
-
- ## Ministry of Sports and Tourism of the Republic of Belarus - Home
- - [http://mst.gov.by](http://mst.gov.by)
- - date_published: 2024-08-11T15:52:51.986228+00:00
-
- ## Official website | Official Internet Portal of the President of the Republic of Belarus
- - [https://president.gov.by](https://president.gov.by)
- - date_published: 2024-06-29T22:50:44+00:00
-
- ## Генеральная прокуратура Республики Беларусь
- - [http://www.prokuratura.gov.by](http://www.prokuratura.gov.by)
- - date_published: 2024-08-11T16:07:05.909814+00:00
-
- ## Официальный сайт Совета Республики
- - [http://www.sovrep.gov.by](http://www.sovrep.gov.by)
- - date_published: 2024-08-11T15:53:00.759309+00:00
-
- ## Витебский областной исполнительный комитет. Официальный сайт.
- - [http://www.vitebsk-region.gov.by](http://www.vitebsk-region.gov.by)
- - date_published: 2024-08-11T15:53:04.146249+00:00
-
- ## Министерство обороны Республики Беларусь | Военный информационный портал Министерства обороны Республики Беларусь
- - [http://www.mil.by](http://www.mil.by)
- - date_published: 2024-08-11T15:54:53.500721+00:00
-
- ## Gogoanime - Watch anime online, English anime online HD
- - [https://anitaku.bz](https://anitaku.bz)
- - date_published: 2024-11-12T17:24:25.893031+00:00
-
- ## Anwar Tours | Tour Operator | Belize
- - [https://anwartours.bz](https://anwartours.bz)
- - date_published: 2024-05-06T22:41:11.214787+00:00
 

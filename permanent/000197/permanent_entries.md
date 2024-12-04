@@ -1,3 +1,606 @@
+ ## NMS Wanderings | GalaxyWanderer | Substack
+ - [https://galaxywanderer.substack.com](https://galaxywanderer.substack.com)
+ - date_published: 2024-07-03T21:25:18.356405+00:00
+
+ ## Galen’s Corner | Galen Marchetti | Substack
+ - [https://galenmarchetti.substack.com](https://galenmarchetti.substack.com)
+ - date_published: 2023-10-25T11:46:17.171143+00:00
+ - tags: ['substack']
+
+ ## GamerBraves Newsletter | Substack
+ - [https://gamerbraves.substack.com](https://gamerbraves.substack.com)
+ - date_published: 2024-05-04T07:19:40.465428+00:00
+
+ ## Gamestorming | Dave Gray | Substack
+ - [https://gamestorming.substack.com](https://gamestorming.substack.com)
+ - date_published: 2024-05-02T13:58:36.626898+00:00
+
+ ## Journey through the Data Realm | Niyazi | Substack
+ - [https://garagashli.substack.com](https://garagashli.substack.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Garbage Day | Ryan Broderick | Substack
+ - [https://garbageday.substack.com](https://garbageday.substack.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## garden3d.net | Substack
+ - [https://garden3d.substack.com](https://garden3d.substack.com)
+ - date_published: 2024-07-12T06:07:25.804750+00:00
+
+ ## I promise I can cook, please love me | Garrett Schlichte | Substack
+ - [https://garrettschlichte.substack.com](https://garrettschlichte.substack.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Garrison’s Substack | Garrison Lovely | Substack
+ - [https://garrisonlovely.substack.com](https://garrisonlovely.substack.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## How We Help | Gary Borjesson | Substack
+ - [https://garyborjesson.substack.com](https://garyborjesson.substack.com)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Thoughts from the North | Gary Judd KC | Substack
+ - [https://garyjuddkc.substack.com](https://garyjuddkc.substack.com)
+ - date_published: 2024-10-31T22:50:35.554463+00:00
+
+ ## Marcus on AI | Gary Marcus | Substack
+ - [https://garymarcus.substack.com](https://garymarcus.substack.com)
+ - date_published: 2023-12-29T01:35:20.032814+00:00
+
+ ## Gav’s Substack | Substack
+ - [https://gav246.substack.com](https://gav246.substack.com)
+ - date_published: 2024-06-21T18:25:57.236988+00:00
+
+ ## Africa Watch | Grieve Chelwa | Substack
+ - [https://gchelwa.substack.com](https://gchelwa.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## The Geek Way | Andrew McAfee | Substack
+ - [https://geekway.substack.com](https://geekway.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Gee! you think too much | Gee the Riot | Substack
+ - [https://geetheriot.substack.com](https://geetheriot.substack.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## https://generallyintelligent.substack.com
+ - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
+ - date_published: 2023-12-05T17:46:50.096294+00:00
+
+ ## General Proximity | Armand B. Cognetta III | Substack
+ - [https://generalproximity.substack.com](https://generalproximity.substack.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## General Robots | Benjie Holson | Substack
+ - [https://generalrobots.substack.com](https://generalrobots.substack.com)
+ - date_published: 2023-10-25T11:46:22.101723+00:00
+ - tags: ['substack']
+
+ ## Generating Conversation | Joseph E. Gonzalez | Substack
+ - [https://generatingconversation.substack.com](https://generatingconversation.substack.com)
+ - date_published: 2023-10-25T17:19:03.436504+00:00
+
+ ## Generative Light | Substack
+ - [https://generativelight.substack.com](https://generativelight.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## R&D Reflections | Geoff Lord | Substack
+ - [https://geofflord.substack.com](https://geofflord.substack.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Geopolitical Economy Report | Ben Norton | Substack
+ - [https://geopoliticaleconomy.substack.com](https://geopoliticaleconomy.substack.com)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Anglo Reaction | George Francis | Substack
+ - [https://georgefrancis.substack.com](https://georgefrancis.substack.com)
+ - date_published: 2024-05-02T15:02:16.886596+00:00
+
+ ## dev/random/ | Substack
+ - [https://georgemandis.substack.com](https://georgemandis.substack.com)
+ - date_published: 2024-05-06T15:11:58.448429+00:00
+
+ ## Predictably Nonfiction | George Saines | Substack
+ - [https://georgesaines.substack.com](https://georgesaines.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Story Club with George Saunders | Substack
+ - [https://georgesaunders.substack.com](https://georgesaunders.substack.com)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Gerry_O'C’s Substack | Substack
+ - [https://gerryoc.substack.com](https://gerryoc.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## BRIGHT | Lisa De Pasquale | Substack
+ - [https://getbright.substack.com](https://getbright.substack.com)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## sungho.blog | Sungho Yahng | Substack
+ - [https://getsungho.substack.com](https://getsungho.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Get Together | Substack
+ - [https://gettogether.substack.com](https://gettogether.substack.com)
+ - date_published: 2024-06-22T23:32:18.416086+00:00
+
+ ## Alex Ghiculescu's Newsletter | Substack
+ - [https://ghiculescu.substack.com](https://ghiculescu.substack.com)
+ - date_published: 2024-01-09T01:40:25.488363+00:00
+
+ ## My Apophenic Haze | Gia | Substack
+ - [https://giagia.substack.com](https://giagia.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## How They Investigated | GIJN | Substack
+ - [https://gijn.substack.com](https://gijn.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Giochetti | Stefano Besi | Substack
+ - [https://giochetti.substack.com](https://giochetti.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Michael Girdley's Newsletter | Substack
+ - [https://girdley.substack.com](https://girdley.substack.com)
+ - date_published: 2024-01-09T01:40:27.407232+00:00
+
+ ## Gleaning Words | Eric Beaty | Substack
+ - [https://gleaningwords.substack.com](https://gleaningwords.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Glenn Loury | Substack
+ - [https://glennloury.substack.com](https://glennloury.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Global Shield's Newsletter | Substack
+ - [https://globalshield.substack.com](https://globalshield.substack.com)
+ - date_published: 2024-10-31T22:40:39.963842+00:00
+
+ ## Game Math Done Quick | Jak Marshall | Substack
+ - [https://gmdq.substack.com](https://gmdq.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## GMG Research | Substack
+ - [https://gmgresearch.substack.com](https://gmgresearch.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Gnocchic Codices | Gnocchic Apocryphon | Substack
+ - [https://gnocchiccodices.substack.com](https://gnocchiccodices.substack.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Going Outbound with Rachael Tiow | Substack
+ - [https://goingoutbound.substack.com](https://goingoutbound.substack.com)
+ - date_published: 2024-06-15T09:38:55.367592+00:00
+
+ ## Golden Pineapple | Abhilash Chowdhary | Substack
+ - [https://goldenpineapple.substack.com](https://goldenpineapple.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Goldfinch | Substack
+ - [https://goldfinch.substack.com](https://goldfinch.substack.com)
+ - date_published: 2024-09-19T00:40:19.680572+00:00
+
+ ## The Gold Split | Fatzke | Substack
+ - [https://goldsplit.substack.com](https://goldsplit.substack.com)
+ - date_published: 2024-10-22T09:34:04.878601+00:00
+
+ ## Wigs on the Green | Matthew Schoolfield | Substack
+ - [https://golfcoursewiki.substack.com](https://golfcoursewiki.substack.com)
+ - date_published: 2024-06-01T04:55:27.908841+00:00
+
+ ## Gonzo ML | Grigory Sapunov | Substack
+ - [https://gonzoml.substack.com](https://gonzoml.substack.com)
+ - date_published: 2023-10-25T11:46:30.729151+00:00
+ - tags: ['substack']
+
+ ## Good Audience | Good Audience: Deep Tech | Substack
+ - [http://goodaudience.substack.com](http://goodaudience.substack.com)
+ - date_published: 2024-09-12T19:23:19.452218+00:00
+
+ ## A Good Enough Newsletter | Shawn Liu | Substack
+ - [https://goodenoughnews.substack.com](https://goodenoughnews.substack.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Good Reason | Andre Cooper | Substack
+ - [https://goodreason.substack.com](https://goodreason.substack.com)
+ - date_published: 2024-01-09T01:40:29.168190+00:00
+
+ ## The Good Science Project | Stuart Buck | Substack
+ - [https://goodscience.substack.com](https://goodscience.substack.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## The Good Teacher | Matthew Kaul | Substack
+ - [https://goodteacher.substack.com](https://goodteacher.substack.com)
+ - date_published: 2023-11-18T19:08:05.233065+00:00
+ - tags: ['substack']
+
+ ## Gould Asks | Substack
+ - [https://gouldasks.substack.com](https://gouldasks.substack.com)
+ - date_published: 2024-01-09T01:40:31.573735+00:00
+
+ ## Bill's Black Box of Government Secrets | William M. Arkin | Substack
+ - [https://governmentsecrets.substack.com](https://governmentsecrets.substack.com)
+ - date_published: 2024-07-09T21:31:01.162643+00:00
+
+ ## Grab a Slice | Charlotte Cake | Substack
+ - [https://grabaslice.substack.com](https://grabaslice.substack.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Let Nature Teach | Grace Dunn | Substack
+ - [https://gracedunnavl.substack.com](https://gracedunnavl.substack.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Medievalish with Grace Hamman | Substack
+ - [https://gracehamman.substack.com](https://gracehamman.substack.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Gradient Flow | Ben Lorica 罗瑞卡 | Substack
+ - [https://gradientflow.substack.com](https://gradientflow.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## The Graham Factor | Substack
+ - [https://grahamfactor.substack.com](https://grahamfactor.substack.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## The Glinner Update | Graham Linehan | Substack
+ - [https://grahamlinehan.substack.com](https://grahamlinehan.substack.com)
+ - date_published: 2024-10-21T15:50:06.516301+00:00
+
+ ## Graham’s Newsletter | Graham Stephan | Substack
+ - [https://grahamstephan.substack.com](https://grahamstephan.substack.com)
+ - date_published: 2024-06-23T21:30:59.392990+00:00
+
+ ## GrailHeart | Substack
+ - [https://grailheart.substack.com](https://grailheart.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## The Grandiose Journal | Substack
+ - [https://grandiose.substack.com](https://grandiose.substack.com)
+ - date_published: 2023-10-25T11:46:41.608888+00:00
+ - tags: ['substack']
+
+ ## Fútbol with Grant Wahl | Substack
+ - [https://grantwahl.substack.com](https://grantwahl.substack.com)
+ - date_published: 2024-01-09T01:40:33.661467+00:00
+
+ ## Grappling Lane | tibi | Substack
+ - [https://grapplinglane.substack.com](https://grapplinglane.substack.com)
+ - date_published: 2023-10-25T11:46:50.347636+00:00
+ - tags: ['substack']
+
+ ## Gray Mirror | Curtis Yarvin | Substack
+ - [http://graymirror.substack.com](http://graymirror.substack.com)
+ - date_published: 2024-05-02T07:56:33.851313+00:00
+
+ ## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
+ - [https://greatreset2022.substack.com](https://greatreset2022.substack.com)
+ - date_published: 2024-08-18T06:02:55.648424+00:00
+
+ ## Green Investing  | Ryan Northover | Substack
+ - [https://greeninvesting.substack.com](https://greeninvesting.substack.com)
+ - date_published: 2024-04-30T06:44:45.288660+00:00
+
+ ## Glenn Greenwald | Substack
+ - [https://greenwald.substack.com](https://greenwald.substack.com)
+ - date_published: 2024-07-03T22:10:35.062447+00:00
+
+ ## https://greglukianoff.substack.com
+ - [https://greglukianoff.substack.com](https://greglukianoff.substack.com)
+ - date_published: 2024-01-25T01:47:52.972038+00:00
+
+ ## fosterfriendship | Greg Foster | Substack
+ - [https://gregmfoster.substack.com](https://gregmfoster.substack.com)
+ - date_published: 2024-12-03T16:36:38.781929+00:00
+
+ ## The Reese Report | Greg Reese | Substack
+ - [https://gregreese.substack.com](https://gregreese.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Greg Rubini Investigations | Substack
+ - [https://gregrubini.substack.com](https://gregrubini.substack.com)
+ - date_published: 2024-07-10T01:56:43.247598+00:00
+
+ ## Gretchen McCulloch's Newsletter | Substack
+ - [https://gretchenmcc.substack.com](https://gretchenmcc.substack.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Griefbacon | Helena Fitzgerald | Substack
+ - [https://griefbacon.substack.com](https://griefbacon.substack.com)
+ - date_published: 2024-08-06T23:29:14.114178+00:00
+
+ ## Grizzly Pear Jr. | Justus | Substack
+ - [https://grizzlypear.substack.com](https://grizzlypear.substack.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## groCTO  | groCTO Community | Substack
+ - [https://grocto.substack.com](https://grocto.substack.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Growing to Truth | Kiyah Willis | Substack
+ - [https://growingtotruth.substack.com](https://growingtotruth.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## The Info Op | the grugq | Substack
+ - [https://grugq.substack.com](https://grugq.substack.com)
+ - date_published: 2024-05-07T09:48:10.978758+00:00
+
+ ## GTM Strategist | Maja Voje | Substack
+ - [https://gtmstrategist.substack.com](https://gtmstrategist.substack.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Guerre di Rete | Carola Frediani | Substack
+ - [https://guerredirete.substack.com](https://guerredirete.substack.com)
+ - date_published: 2024-07-10T09:44:45.936293+00:00
+
+ ## The Prism | Gurwinder | Substack
+ - [https://gurwinder.substack.com](https://gurwinder.substack.com)
+ - date_published: 2023-10-25T11:46:58.520291+00:00
+ - tags: ['substack']
+
+ ## The Gutter | Guttermouth | Substack
+ - [https://guttermouth.substack.com](https://guttermouth.substack.com)
+ - date_published: 2024-10-31T22:38:58.636577+00:00
+
+ ## Guy James' Substack | Substack
+ - [https://guyjames.substack.com](https://guyjames.substack.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Gwern.net Newsletter | Substack
+ - [https://gwern.substack.com](https://gwern.substack.com)
+ - date_published: 2024-02-25T20:35:20.331613+00:00
+
+ ## Memos to Nobody | Greg Wester | Substack
+ - [https://gwestr.substack.com](https://gwestr.substack.com)
+ - date_published: 2024-06-24T05:20:30.888332+00:00
+
+ ## HackBoyFly | Pontus | Substack
+ - [https://hackboyfly.substack.com](https://hackboyfly.substack.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Hacker Stations Newsletter | Substack
+ - [https://hackerstations.substack.com](https://hackerstations.substack.com)
+ - date_published: 2024-05-04T09:13:51.420911+00:00
+
+ ## The Hagakure | Paulo André | Substack
+ - [https://hagakure.substack.com](https://hagakure.substack.com)
+ - date_published: 2024-01-09T01:40:36.254592+00:00
+
+ ## Punishingly Haimona | Haimona Gray | Substack
+ - [https://haimona.substack.com](https://haimona.substack.com)
+ - date_published: 2024-10-31T22:51:03.985062+00:00
+
+ ## Maybe Baby | Haley Nahman | Substack
+ - [https://haleynahman.substack.com](https://haleynahman.substack.com)
+ - date_published: 2024-01-09T01:40:38.764256+00:00
+
+ ## Half-Page Essays | Ken Lane | Substack
+ - [https://halfpageessays.substack.com](https://halfpageessays.substack.com)
+ - date_published: 2024-05-10T04:55:31.204265+00:00
+
+ ## Hal Johnson Books | Substack
+ - [https://haljohnsonbooks.substack.com](https://haljohnsonbooks.substack.com)
+ - date_published: 2024-10-27T17:52:47.920977+00:00
+
+ ## Hamamreh - Wislabi.com | Dr. Jehad M. Hamamreh | Substack
+ - [https://hamamreh.substack.com](https://hamamreh.substack.com)
+ - date_published: 2024-07-08T16:37:43.908101+00:00
+
+ ## Mike Taylor | Substack
+ - [https://hammermt.substack.com](https://hammermt.substack.com)
+ - date_published: 2024-10-28T05:42:55.987690+00:00
+
+ ## Hands-on Agile by Stefan Wolpers | Substack
+ - [https://handsonagile.substack.com](https://handsonagile.substack.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## METAXU | Hannah Close | Substack
+ - [https://hannahlclose.substack.com](https://hannahlclose.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Sustainability by numbers | Hannah Ritchie | Substack
+ - [https://hannahritchie.substack.com](https://hannahritchie.substack.com)
+ - date_published: 2024-01-09T01:40:40.867001+00:00
+
+ ## Happy Chasing | Petter Haga | Substack
+ - [https://happychasing.substack.com](https://happychasing.substack.com)
+ - date_published: 2023-10-25T09:53:28.318342+00:00
+ - tags: ['substack']
+
+ ## HardFacts | Jeff Carlson & Hans Mahncke | Substack
+ - [https://hardfacts.substack.com](https://hardfacts.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Hard Pivot | jeff tang | Substack
+ - [https://hardpivot.substack.com](https://hardpivot.substack.com)
+ - date_published: 2023-10-25T09:53:30.197949+00:00
+ - tags: ['substack']
+
+ ## Michael's Unreasonable Hope | Michael Hardt | Substack
+ - [https://hardt.substack.com](https://hardt.substack.com)
+ - date_published: 2024-09-15T12:16:23.580474+00:00
+
+ ## Hardware FYI | Substack
+ - [https://hardwarefyi.substack.com](https://hardwarefyi.substack.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Occasional Viewpoints | Peter Hargreaves | Substack
+ - [https://hargreavesp.substack.com](https://hargreavesp.substack.com)
+ - date_published: 2024-05-13T02:46:33.548468+00:00
+
+ ## Harry’s Substack | Harry Binswanger | Substack
+ - [https://harrybinswanger.substack.com](https://harrybinswanger.substack.com)
+ - date_published: 2024-10-31T22:40:00.832005+00:00
+
+ ## Harry’s Substack | Substack
+ - [https://harrytaussig.substack.com](https://harrytaussig.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Harmony | Harshal Patil | Substack
+ - [https://harshalpatil.substack.com](https://harshalpatil.substack.com)
+ - date_published: 2024-05-04T09:19:08.135773+00:00
+
+ ## The Thom Hartmann Radio & TV Program | Substack
+ - [https://hartmannprogram.substack.com](https://hartmannprogram.substack.com)
+ - date_published: 2024-05-04T09:19:29.556838+00:00
+
+ ## Hasen Judi | Substack
+ - [https://hasen.substack.com](https://hasen.substack.com)
+ - date_published: 2023-10-25T09:53:32.676350+00:00
+ - tags: ['substack']
+
+ ## Hashed Emergent • Team Blog | Substack
+ - [https://hashedem.substack.com](https://hashedem.substack.com)
+ - date_published: 2024-06-16T04:35:51.253132+00:00
+
+ ## The Hat List | Kyle Lambert | Substack
+ - [https://hatlist.substack.com](https://hatlist.substack.com)
+ - date_published: 2024-09-04T04:11:14.704124+00:00
+
+ ## havemania | Roy Havemann | Substack
+ - [https://havemania.substack.com](https://havemania.substack.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Haver & Sparrow | Charlene Storey | Substack
+ - [https://haverandsparrow.substack.com](https://haverandsparrow.substack.com)
+ - date_published: 2024-08-19T05:03:11.448566+00:00
+
+ ## Headlines | Fitt Insider | Substack
+ - [https://headlineshq.substack.com](https://headlineshq.substack.com)
+ - date_published: 2023-10-25T09:53:34.487257+00:00
+ - tags: ['substack']
+
+ ## The Healthy Dev | Tom White | Substack
+ - [https://healthydev.substack.com](https://healthydev.substack.com)
+ - date_published: 2024-06-01T04:51:57.145979+00:00
+
+ ## Visually AI by Heather Cooper | Substack
+ - [https://heatherbcooper.substack.com](https://heatherbcooper.substack.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Letters from an American | Heather Cox Richardson | Substack
+ - [https://heathercoxrichardson.substack.com](https://heathercoxrichardson.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## HEAVIES | Chris Gayomali | Substack
+ - [https://heavies.substack.com](https://heavies.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Henrik Wallin - All the useful stuff you need to know | Substack
+ - [https://heddahenrik.substack.com](https://heddahenrik.substack.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## imperfect offerings | Helen Beetham | Substack
+ - [https://helenbeetham.substack.com](https://helenbeetham.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Not On Your Team, But Always Fair | Helen Dale | Substack
+ - [https://helendale.substack.com](https://helendale.substack.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Wondering Freely | Helen De Cruz | Substack
+ - [https://helendecruz.substack.com](https://helendecruz.substack.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Supply...., meet Demand | Iain Henderson | Substack
+ - [https://hendersoni.substack.com](https://hendersoni.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Aliveness Studies | Henry | Substack
+ - [https://henryaj.substack.com](https://henryaj.substack.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Herbert's Highlights | Kaylee | Substack
+ - [https://herbertshighlights.substack.com](https://herbertshighlights.substack.com)
+ - date_published: 2024-05-08T04:05:07.968899+00:00
+
+ ## Herb Sundays | Sam Valenti IV | Substack
+ - [https://herbsundays.substack.com](https://herbsundays.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## John’s Substack | Substack
+ - [https://hermitian.substack.com](https://hermitian.substack.com)
+ - date_published: 2024-01-09T01:40:49.351640+00:00
+
+ ## QiuByte | Hesam Sheikh | Substack
+ - [https://hesamsheikh.substack.com](https://hesamsheikh.substack.com)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Heterodox Thinking | Jonatan | Substack
+ - [http://heterodoxthinking.substack.com](http://heterodoxthinking.substack.com)
+ - date_published: 2024-05-02T07:56:35.151077+00:00
+
+ ## Hey! Howdy | Seth Piper | Substack
+ - [https://heyhowdy.substack.com](https://heyhowdy.substack.com)
+ - date_published: 2024-05-12T05:24:45.676695+00:00
+
+ ## HFA Research Newsletter | Taiki Maeda | Substack
+ - [https://hfaresearch.substack.com](https://hfaresearch.substack.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Hidden Japan | Leon | Substack
+ - [https://hiddenjapan.substack.com](https://hiddenjapan.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## HIGH MODERNISM | Nick Whitaker | Substack
+ - [https://highmodernism.substack.com](https://highmodernism.substack.com)
+ - date_published: 2024-04-30T07:02:33.933577+00:00
+
+ ## The World of Osler's Web | Hillary Johnson | Substack
+ - [https://hillaryjohnson.substack.com](https://hillaryjohnson.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Product Lost by @hipcityreg | Reggie James | Substack
+ - [https://hipcityreg.substack.com](https://hipcityreg.substack.com)
+ - date_published: 2024-10-20T20:30:24.731945+00:00
+
+ ## Hirad Notes | Substack
+ - [https://hiradnotes.substack.com](https://hiradnotes.substack.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## This&That | Hiran Venugopalan | Substack
+ - [https://hiran.substack.com](https://hiran.substack.com)
+ - date_published: 2024-04-28T01:40:33.743643+00:00
+
+ ## History Buzz | History Buzz editorial team | Substack
+ - [https://historybuzz.substack.com](https://historybuzz.substack.com)
+ - date_published: 2024-05-04T12:19:24.238483+00:00
+
+ ## Hitesh Writes | Hitesh Yadav | Substack
+ - [https://hiteshyadav.substack.com](https://hiteshyadav.substack.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Hogvet51’s Livestock Emerging and Zoonotic Disease Forum | Substack
+ - [https://hogvet51.substack.com](https://hogvet51.substack.com)
+ - date_published: 2024-11-08T11:27:31.579164+00:00
+
+ ## Holly Elmore | Substack
+ - [https://hollyelmore.substack.com](https://hollyelmore.substack.com)
+ - date_published: 2024-05-08T09:58:51.197839+00:00
+
+ ## The Everwife | T.J. Everwine | Substack
+ - [https://holyshiftsis.substack.com](https://holyshiftsis.substack.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Transits  | Stacey Streshinsky | Substack
+ - [https://hotelbreakfastbuffet.substack.com](https://hotelbreakfastbuffet.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Hot Menu | Elena Saavedra Buckley | Substack
+ - [https://hotmenu.substack.com](https://hotmenu.substack.com)
+ - date_published: 2024-07-01T10:28:48.208454+00:00
+
+ ## Housing is a Human Right | Fran Quigley | Substack
+ - [https://housingisahumanright.substack.com](https://housingisahumanright.substack.com)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## How the Hell | Sergey Alexashenko | Substack
+ - [https://howthehell.substack.com](https://howthehell.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Accept Cookies | Hrishikesh Hirway | Substack
+ - [https://hrishikesh.substack.com](https://hrishikesh.substack.com)
+ - date_published: 2024-06-23T01:59:14.879714+00:00
+
  ## Hudi Newsletter | Substack
  - [https://hudinewsletter.substack.com](https://hudinewsletter.substack.com)
  - date_published: 2024-03-21T00:00:00+00:00
@@ -274,6 +877,10 @@
  ## Invincible Career® | Larry Cornett, Ph.D. | Substack
  - [https://invincible.substack.com](https://invincible.substack.com)
  - date_published: 2024-03-26T00:00:00+00:00
+
+ ## I Read This Over Shabbos | Substack
+ - [https://ireadthisovershabbos.substack.com](https://ireadthisovershabbos.substack.com)
+ - date_published: 2024-12-03T14:26:46.552576+00:00
 
  ## Forward Thinking | Irfan Bhanji | Substack
  - [https://irfanbhanji.substack.com](https://irfanbhanji.substack.com)
@@ -1912,6 +2519,10 @@
  - date_published: 2023-10-25T09:58:16.042885+00:00
  - tags: ['substack']
 
+ ## MLOps Shenanigans | Martynas Šubonis | Substack
+ - [https://martynassubonis.substack.com](https://martynassubonis.substack.com)
+ - date_published: 2024-12-02T23:16:20.280127+00:00
+
  ## Conservative Lady of Letterpress | Mary Beth Klatt | Substack
  - [https://marybethklatt.substack.com](https://marybethklatt.substack.com)
  - date_published: 2024-01-05T00:00:00+00:00
@@ -3476,612 +4087,4 @@
  ## Project 2025 Takedown | Tiffany Torres Williams | Substack
  - [https://project2025takedown.substack.com](https://project2025takedown.substack.com)
  - date_published: 2024-04-08T00:00:00+00:00
-
- ## Marx's Dream Journal | Jonas Marvin | Substack
- - [https://proletarianblues.substack.com](https://proletarianblues.substack.com)
- - date_published: 2024-10-21T12:04:41.105065+00:00
-
- ## PromptArmor Blog | Substack
- - [https://promptarmor.substack.com](https://promptarmor.substack.com)
- - date_published: 2023-12-15T21:47:07.452086+00:00
-
- ## The Prophet of Causation | Robert Tracinski | Substack
- - [https://prophetofcausation.substack.com](https://prophetofcausation.substack.com)
- - date_published: 2024-10-31T22:38:57.791119+00:00
-
- ## Gideon from SubstackAPI.com | Gideon Wislang | Substack
- - [https://prostack.substack.com](https://prostack.substack.com)
- - date_published: 2024-08-08T11:33:00.984228+00:00
-
- ## The Insurgency News Blast | Protestia | Substack
- - [https://protestia.substack.com](https://protestia.substack.com)
- - date_published: 2024-05-07T09:41:12.058238+00:00
-
- ## The Protocolist | Timber Schroff | Substack
- - [https://protocolist.substack.com](https://protocolist.substack.com)
- - date_published: 2024-04-28T04:54:53.542825+00:00
-
- ## The Pseudodragon Newsletter | Kendall Giles | Substack
- - [https://pseudodragon.substack.com](https://pseudodragon.substack.com)
- - date_published: 2024-05-10T05:12:19.682773+00:00
-
- ## PseudoFreedom | Yi Zhang | Substack
- - [https://pseudofreedom.substack.com](https://pseudofreedom.substack.com)
- - date_published: 2024-06-01T04:50:22.026415+00:00
-
- ## psychcrisis.org | Jessica Ocean | Substack
- - [https://psychcrisis.substack.com](https://psychcrisis.substack.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## psychotechnology | The irrationalist | Substack
- - [https://psychotechnology.substack.com](https://psychotechnology.substack.com)
- - date_published: 2024-05-08T09:58:38.260490+00:00
-
- ## Public | Michael Shellenberger | Substack
- - [https://public.substack.com](https://public.substack.com)
- - date_published: 2023-11-26T17:00:37+00:00
- - tags: ['substack']
-
- ## Pursuing Pragmatic Leadership | Josh Gratsch | Substack
- - [https://pursuingpragmaticleadership.substack.com](https://pursuingpragmaticleadership.substack.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Pursuing Reality | Adam Elwood | Substack
- - [https://pursuingreality.substack.com](https://pursuingreality.substack.com)
- - date_published: 2024-05-07T09:46:58.373857+00:00
-
- ## Popcorn Penguin Posts | PopcornPenguin | Substack
- - [https://puzzledpenguin.substack.com](https://puzzledpenguin.substack.com)
- - date_published: 2024-01-09T01:43:25.130618+00:00
-
- ## https://quantfinance.substack.com
- - [https://quantfinance.substack.com](https://quantfinance.substack.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Karen O’Brien for Quantum Social Change | Karen O'Brien | Substack
- - [https://quantumsocialchange.substack.com](https://quantumsocialchange.substack.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Queer Lady Magician: Updates and Musings | Creatrix Tiara | Substack
- - [https://queerladymagician.substack.com](https://queerladymagician.substack.com)
- - date_published: 2024-07-12T23:23:56.532844+00:00
-
- ## Questbook’s Substack | Substack
- - [https://questbook.substack.com](https://questbook.substack.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## QTR’s Fringe Finance | Quoth the Raven | Substack
- - [https://quoththeraven.substack.com](https://quoththeraven.substack.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## The Marketplace: Quy Ma's Newsletter | Substack
- - [https://quyma.substack.com](https://quyma.substack.com)
- - date_published: 2024-06-21T08:32:50.230239+00:00
-
- ## Spacecult 🛸 | Raad ⚔ | Substack
- - [https://raad.substack.com](https://raad.substack.com)
- - date_published: 2024-05-07T10:05:19.062387+00:00
-
- ## Rabbit Room Poetry | The Rabbit Room | Substack
- - [https://rabbitroompoetry.substack.com](https://rabbitroompoetry.substack.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## didion for doomscrollers | Rachdele | Substack
- - [https://rachdele.substack.com](https://rachdele.substack.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Racket Cartoons by Daniel Medina  | Substack
- - [https://racketcartoons.substack.com](https://racketcartoons.substack.com)
- - date_published: 2024-05-11T09:36:01.163261+00:00
-
- ## Raconteur Press | Substack
- - [https://raconteurpress.substack.com](https://raconteurpress.substack.com)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Benjamin Roberts | Substack
- - [https://radicalbenjamin.substack.com](https://radicalbenjamin.substack.com)
- - date_published: 2024-10-22T12:22:31.014242+00:00
-
- ## RadioFarSide’s Teletype | Radio Far Side | Substack
- - [https://radiofarside.substack.com](https://radiofarside.substack.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## The Watch | Radley Balko | Substack
- - [https://radleybalko.substack.com](https://radleybalko.substack.com)
- - date_published: 2024-01-09T01:43:26.643609+00:00
-
- ## Rafal’s Notes | Substack
- - [https://rafalzawadzki.substack.com](https://rafalzawadzki.substack.com)
- - date_published: 2024-07-12T20:03:03.917168+00:00
-
- ## Rahul’s Renaissance Quest  | Substack
- - [https://rahulmajumdar.substack.com](https://rahulmajumdar.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## The Morning Star | Rain Morningstar | Substack
- - [https://rainmorningstar.substack.com](https://rainmorningstar.substack.com)
- - date_published: 2024-07-20T21:33:12.403672+00:00
-
- ## Raising Dust  | Toby Tremlett | Substack
- - [https://raisingdust.substack.com](https://raisingdust.substack.com)
- - date_published: 2024-08-18T19:40:15.201328+00:00
-
- ## Rajan’s Substack | Rajan Sheth | Substack
- - [https://rajansheth.substack.com](https://rajansheth.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Rak's Facts | Rak Garg | Substack
- - [https://rakgarg.substack.com](https://rakgarg.substack.com)
- - date_published: 2024-10-16T19:24:36.892604+00:00
-
- ## Identity Revive | Rakkhi Joy | Substack
- - [https://rakkhi.substack.com](https://rakkhi.substack.com)
- - date_published: 2023-10-25T10:01:24.275651+00:00
- - tags: ['substack']
-
- ## A Blog For The Anthropocene | Rama Pascala | Substack
- - [https://ramapascala.substack.com](https://ramapascala.substack.com)
- - date_published: 2024-01-09T01:43:29.182979+00:00
-
- ## Rambleware | Matthew Carlson | Substack
- - [https://rambleware.substack.com](https://rambleware.substack.com)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Constant Commoner | Ramona Grigg | Substack
- - [https://ramonagrigg.substack.com](https://ramonagrigg.substack.com)
- - date_published: 2024-10-29T19:59:43.975792+00:00
-
- ## Random Acts of Medicine | Chris Worsham | Substack
- - [https://randomactsofmedicine.substack.com](https://randomactsofmedicine.substack.com)
- - date_published: 2023-10-25T10:01:28.416412+00:00
- - tags: ['substack']
-
- ## Random Minds by Katherine Brodsky | Substack
- - [https://randomminds.substack.com](https://randomminds.substack.com)
- - date_published: 2024-01-09T01:43:32.377862+00:00
-
- ## The Rate of Change | Aatish Bhatia | Substack
- - [https://rateofchange.substack.com](https://rateofchange.substack.com)
- - date_published: 2024-05-01T00:33:10.672490+00:00
-
- ## Ravi Joseph | Substack
- - [http://ravijoseph1.substack.com](http://ravijoseph1.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Ravi Parikh’s Newsletter | Substack
- - [https://ravisparikh.substack.com](https://ravisparikh.substack.com)
- - date_published: 2024-01-09T01:43:34.420329+00:00
-
- ## Lazy Afternoons | Ravi Teja Kanta | Substack
- - [https://ravitejakanta.substack.com](https://ravitejakanta.substack.com)
- - date_published: 2023-10-25T10:01:35.638481+00:00
- - tags: ['substack']
-
- ## Beautiful Terrible Things | Ray Edwards | Substack
- - [https://rayedwards.substack.com](https://rayedwards.substack.com)
- - date_published: 2024-05-09T06:21:23.227157+00:00
-
- ## rants by razberry | Substack
- - [https://razberry.substack.com](https://razberry.substack.com)
- - date_published: 2023-11-15T18:40:37.968645+00:00
-
- ## Razib Khan's Unsupervised Learning | Substack
- - [https://razib.substack.com](https://razib.substack.com)
- - date_published: 2023-10-25T10:01:38.890917+00:00
- - tags: ['substack']
-
- ## Coding on Autopilot | Robert Brennan | Substack
- - [https://rbren.substack.com](https://rbren.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## 2050 | Peter Havers | Substack
- - [https://read2050.substack.com](https://read2050.substack.com)
- - date_published: 2024-01-09T01:43:36.185877+00:00
-
- ## Home | Substack
- - [https://reader.substack.com](https://reader.substack.com)
- - date_published: 2024-09-09T23:05:14.717039+00:00
-
- ## The Wonderful Books of Oz | Substack
- - [https://readingoz.substack.com](https://readingoz.substack.com)
- - date_published: 2024-07-26T03:33:36.591925+00:00
-
- ## polymathematics | Substack
- - [https://readpolymathematics.substack.com](https://readpolymathematics.substack.com)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Lesser Tedium | Ernie Smith | Substack
- - [https://readtedium.substack.com](https://readtedium.substack.com)
- - date_published: 2024-04-30T07:05:03.975189+00:00
-
- ## Read. Write. Concurrently | Pham Nguyen Hung | Substack
- - [https://readwriteconcurrently.substack.com](https://readwriteconcurrently.substack.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Reality 2.0 Newsletter | Substack
- - [https://reality2.substack.com](https://reality2.substack.com)
- - date_published: 2024-08-06T09:28:09.481777+00:00
-
- ## Real Kinetic | Substack
- - [https://realkinetic.substack.com](https://realkinetic.substack.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Real Progressives Substack | Substack
- - [https://realprogressives.substack.com](https://realprogressives.substack.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Reason for Living | Thomas Walker-Werth | Substack
- - [https://reasonforliving.substack.com](https://reasonforliving.substack.com)
- - date_published: 2024-10-31T22:38:49.028480+00:00
-
- ## The Reath Report | Jeff Carswell | Substack
- - [https://reathai.substack.com](https://reathai.substack.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Recast Investor | Will | Substack
- - [https://recastinvestor.substack.com](https://recastinvestor.substack.com)
- - date_published: 2024-09-09T21:56:32.798674+00:00
-
- ## Recipes for Wellbeing | Substack
- - [https://recipesforwellbeing.substack.com](https://recipesforwellbeing.substack.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Record Shop Stories | Rich Headland | Substack
- - [https://recordshopstories.substack.com](https://recordshopstories.substack.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Recursing Reflections | Rishika | Substack
- - [https://recursingreflections.substack.com](https://recursingreflections.substack.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Redneck Gone Green | David K. Cobb | Substack
- - [https://redneckgonegreen.substack.com](https://redneckgonegreen.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## REDUXX Weekly Roundup | Substack
- - [https://reduxx.substack.com](https://reduxx.substack.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Redwood Research blog | Buck Shlegeris | Substack
- - [https://redwoodresearch.substack.com](https://redwoodresearch.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## RegenerateX | Substack
- - [https://regeneratex.substack.com](https://regeneratex.substack.com)
- - date_published: 2024-09-06T12:58:47.685651+00:00
-
- ## Relational Riffs | Yael Schonbrun | Substack
- - [https://relationalriffs.substack.com](https://relationalriffs.substack.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Building the AI Workforce | Scott Henderson | Substack
- - [https://relevanceai.substack.com](https://relevanceai.substack.com)
- - date_published: 2024-10-30T09:10:32.620910+00:00
-
- ## Renaissance Readings | Substack
- - [https://renaissancereadings.substack.com](https://renaissancereadings.substack.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Curious Musings | Renee Shupe | Substack
- - [https://reneeshupe.substack.com](https://reneeshupe.substack.com)
- - date_published: 2024-10-27T22:52:08.210429+00:00
-
- ## normality | Substack
- - [https://renormalize.substack.com](https://renormalize.substack.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Public Keys | Republic Crypto | Substack
- - [https://republiccrypto.substack.com](https://republiccrypto.substack.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Res Obscura | Benjamin Breen | Substack
- - [https://resobscura.substack.com](https://resobscura.substack.com)
- - date_published: 2024-01-09T01:43:38.822737+00:00
-
- ## RRK’s Substack library | Responsible Reptile Keeping | Substack
- - [https://responsiblereptilekeeping.substack.com](https://responsiblereptilekeeping.substack.com)
- - date_published: 2024-06-24T05:22:50.464778+00:00
-
- ## Rethinking Software | Adam Ard | Substack
- - [https://rethinkingsoftware.substack.com](https://rethinkingsoftware.substack.com)
- - date_published: 2024-08-07T18:56:41.467600+00:00
-
- ## The Retro Millennial | Dan Scott | Substack
- - [https://retropunk.substack.com](https://retropunk.substack.com)
- - date_published: 2024-05-08T00:00:54.234821+00:00
-
- ## The Judean People's Front by Reuben Salsa | Substack
- - [https://reubensalsa.substack.com](https://reubensalsa.substack.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Sustain What | Andy @Revkin | Substack
- - [https://revkin.substack.com](https://revkin.substack.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Rhea's Substack | Substack
- - [https://rheaeve.substack.com](https://rheaeve.substack.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Hebdo rherault | Romain Herault | Substack
- - [https://rherault.substack.com](https://rherault.substack.com)
- - date_published: 2024-07-08T19:37:23.828181+00:00
-
- ## Rhys' Pieces | Rhys Lindmark | Substack
- - [https://rhyslindmark.substack.com](https://rhyslindmark.substack.com)
- - date_published: 2024-09-12T19:51:17.714829+00:00
-
- ## The Poetry of Reality with Richard Dawkins | Substack
- - [https://richarddawkins.substack.com](https://richarddawkins.substack.com)
- - date_published: 2023-10-25T10:01:47.068642+00:00
- - tags: ['substack']
-
- ## Home & Away | Richard Haass | Substack
- - [https://richardhaass.substack.com](https://richardhaass.substack.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Richard Hanania's Newsletter | Substack
- - [https://richardhanania.substack.com](https://richardhanania.substack.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Japan Economy Watch | Richard Katz | Substack
- - [https://richardkatz.substack.com](https://richardkatz.substack.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Richard Lewis | Substack
- - [https://richardlewis.substack.com](https://richardlewis.substack.com)
- - date_published: 2024-11-17T08:23:29.677464+00:00
-
- ## Richard’s Substack | Richard North Patterson | Substack
- - [https://richardnorthpatterson.substack.com](https://richardnorthpatterson.substack.com)
- - date_published: 2024-05-06T16:32:03.518691+00:00
-
- ## Richard’s Substack | Richard Pettigrew | Substack
- - [https://richardpettigrew.substack.com](https://richardpettigrew.substack.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## What I'm paying attention to | Richard D. Bartlett | Substack
- - [https://richdecibels.substack.com](https://richdecibels.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Design Tactics | Ridd | Substack
- - [https://ridd.substack.com](https://ridd.substack.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## blog.rinesi.com | Marcelo Rinesi | Substack
- - [https://rinesi.substack.com](https://rinesi.substack.com)
- - date_published: 2024-10-22T17:13:53.365342+00:00
-
- ## The Future Does Not Fit In The Containers Of The Past | Rishad Tobaccowala | Substack
- - [https://rishad.substack.com](https://rishad.substack.com)
- - date_published: 2024-05-05T16:42:33.493877+00:00
-
- ## Risky Business News | Patrick Gray | Substack
- - [https://riskybiznews.substack.com](https://riskybiznews.substack.com)
- - date_published: 2024-01-09T01:43:41.924261+00:00
-
- ## River | Rae Lambert | Substack
- - [https://riverapp.substack.com](https://riverapp.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Words that Work | River Crane | Substack
- - [https://rivercrane.substack.com](https://rivercrane.substack.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## rmurphey's newsletter | Rebecca Murphey | Substack
- - [https://rmurphey.substack.com](https://rmurphey.substack.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Road to Reality | Sam Ritchie | Substack
- - [https://roadtoreality.substack.com](https://roadtoreality.substack.com)
- - date_published: 2024-05-08T10:04:56.023678+00:00
-
- ## Robert Bryce | Substack
- - [https://robertbryce.substack.com](https://robertbryce.substack.com)
- - date_published: 2024-01-09T01:43:45.177357+00:00
-
- ## And It Don't Stop | Robert Christgau | Substack
- - [https://robertchristgau.substack.com](https://robertchristgau.substack.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## ERINGER | Robert Eringer | Substack
- - [https://roberteringer.substack.com](https://roberteringer.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Robert Reich | Substack
- - [https://robertreich.substack.com](https://robertreich.substack.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Internal exile | Rob Horning | Substack
- - [https://robhorning.substack.com](https://robhorning.substack.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Robin’s Substack | Robin Dev | Substack
- - [https://robindev.substack.com](https://robindev.substack.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Rob Henderson's Newsletter | Substack
- - [https://robkhenderson.substack.com](https://robkhenderson.substack.com)
- - date_published: 2024-01-09T01:43:54.498996+00:00
-
- ## https://roblh.substack.com
- - [https://roblh.substack.com](https://roblh.substack.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Interconnects | Nathan Lambert | Substack
- - [https://robotic.substack.com](https://robotic.substack.com)
- - date_published: 2023-10-25T10:02:26.630773+00:00
- - tags: ['substack']
-
- ## Robots In Plain English | Sudheer Apte | Substack
- - [https://robotsinplainenglish.substack.com](https://robotsinplainenglish.substack.com)
- - date_published: 2024-04-28T05:25:02.598267+00:00
-
- ## Retirement: One Dividend at a Time | George Schneider | Substack
- - [https://rodat1.substack.com](https://rodat1.substack.com)
- - date_published: 2024-10-31T12:19:41.449106+00:00
-
- ## Rod Dreher's Diary | Substack
- - [https://roddreher.substack.com](https://roddreher.substack.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## The Honest Broker | Roger Pielke Jr. | Substack
- - [https://rogerpielkejr.substack.com](https://rogerpielkejr.substack.com)
- - date_published: 2023-10-25T10:02:34.687234+00:00
- - tags: ['substack']
-
- ## More Letters, Less News | Rohan Banerjee | Substack
- - [https://rohanbanerjee.substack.com](https://rohanbanerjee.substack.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Scribbled in the Margins | Rohan Mehta | Substack
- - [https://rohanmehta.substack.com](https://rohanmehta.substack.com)
- - date_published: 2024-08-19T18:36:57.301494+00:00
-
- ## Rohdesign Dispatch | Mike Rohde | Substack
- - [https://rohdesign.substack.com](https://rohdesign.substack.com)
- - date_published: 2024-06-24T11:00:37.773585+00:00
-
- ## LookingNWords | Rohn Kenyatta | Substack
- - [https://rohnkenyatta.substack.com](https://rohnkenyatta.substack.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## the rohn report | rohn bayes | Substack
- - [https://rohn.substack.com](https://rohn.substack.com)
- - date_published: 2024-09-09T22:33:11.152353+00:00
-
- ## What Do We Do Now That We're Here? | Rosie Spinks | Substack
- - [https://rojospinks.substack.com](https://rojospinks.substack.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Now and Next | Rolf Norfolk | Substack
- - [https://rolfnorfolk.substack.com](https://rolfnorfolk.substack.com)
- - date_published: 2024-10-21T14:19:15.616000+00:00
-
- ## Time & Space | Ronan Lyons | Substack
- - [https://ronanlyons.substack.com](https://ronanlyons.substack.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Ron’s Log | Ron Ghosh | Substack
- - [https://ronghosh.substack.com](https://ronghosh.substack.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Meditations in an Emergency | Rosecrans Baldwin | Substack
- - [https://rosecrans.substack.com](https://rosecrans.substack.com)
- - date_published: 2024-07-01T06:03:57.127887+00:00
-
- ## Kibao | Rose M. Mutiso | Substack
- - [https://rosemutiso.substack.com](https://rosemutiso.substack.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Ross on Growth | Ross Nazarenko | Substack
- - [https://rossongrowth.substack.com](https://rossongrowth.substack.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Roughly Written | Ryan O'Neill | Substack
- - [https://roughlywritten.substack.com](https://roughlywritten.substack.com)
- - date_published: 2023-12-23T15:08:37.487132+00:00
-
- ## Rox’s Picks | Roxine Kee | Substack
- - [https://roxine.substack.com](https://roxine.substack.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Royal Literary Fund | Substack
- - [https://royalliteraryfund.substack.com](https://royalliteraryfund.substack.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## RQ1 | Mark Coddington and Seth Lewis | Substack
- - [https://rq1.substack.com](https://rq1.substack.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## RS-OJICT Newsletter & Podcast | Substack
- - [https://rsojict.substack.com](https://rsojict.substack.com)
- - date_published: 2024-05-08T12:01:44.379421+00:00
-
- ## RSS DS+AI Section | Substack
- - [https://rssdsaisection.substack.com](https://rssdsaisection.substack.com)
- - date_published: 2024-01-09T01:43:57.719459+00:00
-
- ## diesel sweeties comics | rstevens | Substack
- - [https://rstevens.substack.com](https://rstevens.substack.com)
- - date_published: 2024-07-04T02:54:18.993835+00:00
-
- ## John Rubino's Substack | Substack
- - [https://rubino.substack.com](https://rubino.substack.com)
- - date_published: 2024-05-04T09:44:08.354181+00:00
-
- ## A Havenstein Moment. | Rudy Havenstein | Substack
- - [https://rudy.substack.com](https://rudy.substack.com)
- - date_published: 2024-10-31T22:44:29.797594+00:00
-
- ## Being and Politics | Rufus Pollock | Substack
- - [https://rufuspollock.substack.com](https://rufuspollock.substack.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Rule of Five | Tiffanie Darke | Substack
- - [https://ruleoffive.substack.com](https://ruleoffive.substack.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Rushkoff | Douglas Rushkoff | Substack
- - [https://rushkoff.substack.com](https://rushkoff.substack.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## La Briffe | Ruth Reichl | Substack
- - [https://ruthreichl.substack.com](https://ruthreichl.substack.com)
- - date_published: 2024-06-29T10:19:08.470749+00:00
-
- ## A Developer's Newsletter | Robin Wieruch | Substack
- - [https://rwieruch.substack.com](https://rwieruch.substack.com)
- - date_published: 2024-04-29T06:43:55.204381+00:00
-
- ## Who is Robert Malone | Robert W Malone MD, MS | Substack
- - [https://rwmalonemd.substack.com](https://rwmalonemd.substack.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## The War on Prices | Ryan Bourne | Substack
- - [https://ryanbourne.substack.com](https://ryanbourne.substack.com)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Ryan Grim | Substack
- - [https://ryangrim.substack.com](https://ryangrim.substack.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## A Larger Scale | Ryan Meili | Substack
- - [https://ryanmeili.substack.com](https://ryanmeili.substack.com)
- - date_published: 2024-06-24T08:20:44.123807+00:00
-
- ## Entry Level Investing | Ryan Shannon | Substack
- - [https://ryanshannon.substack.com](https://ryanshannon.substack.com)
- - date_published: 2024-01-09T01:44:02.255542+00:00
-
- ## Good Thoughts | Richard Y Chappell | Substack
- - [https://rychappell.substack.com](https://rychappell.substack.com)
- - date_published: 2024-05-06T22:16:12.890884+00:00
-
- ## SaaS Bites | Görkem Çetin | Substack
- - [https://saasbites.substack.com](https://saasbites.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Write your SaaS Growth  | Keoni Murray | Substack
- - [https://saaswrites.substack.com](https://saaswrites.substack.com)
- - date_published: 2024-06-22T23:02:40.276226+00:00
-
- ## Sable GM's game mastering advice | Substack
- - [https://sablegm.substack.com](https://sablegm.substack.com)
- - date_published: 2024-07-07T07:19:40.382445+00:00
-
- ## Leaving Groupthink, Inc. | Sabrina Joy Stevens | Substack
- - [https://sabrinajoystevens.substack.com](https://sabrinajoystevens.substack.com)
- - date_published: 2024-10-31T22:47:31.335816+00:00
-
- ## The S.A.D Newsletter | Sharif Islam | Substack
- - [https://sadnewsletter.substack.com](https://sadnewsletter.substack.com)
- - date_published: 2024-04-29T03:32:17.670761+00:00
-
- ## SAILCARGO | Substack
- - [https://sailcargo.substack.com](https://sailcargo.substack.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Optimismo | Salomón Acuña | Substack
- - [https://salomna.substack.com](https://salomna.substack.com)
- - date_published: 2024-05-10T05:28:57.554218+00:00
 

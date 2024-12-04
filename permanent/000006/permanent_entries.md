@@ -1,3 +1,40 @@
+ ## Scrypted
+ - [https://scrypted.app](https://scrypted.app)
+ - date_published: 2023-07-12T21:24:56+00:00
+ - tags: ['alexa', 'smart home', 'video streaming', 'google home']
+
+ ## sc-type
+ - [https://sctype.app](https://sctype.app)
+ - date_published: 2019-08-01T00:00:00+00:00
+
+ ## SDK code generator | SDKgen
+ - [https://sdkgen.app](https://sdkgen.app)
+ - date_published: 2024-08-18T18:04:02.040911+00:00
+
+ ## SearchBot for Discord
+ - [https://searchbot.app](https://searchbot.app)
+ - date_published: 2024-07-23T23:26:44.568978+00:00
+
+ ## Seatsurfing
+ - [https://seatsurfing.app](https://seatsurfing.app)
+ - date_published: 2024-05-23T20:09:17+00:00
+
+ ## Show HN: Seedling – A Decentralised Medium
+ - [https://seedling-d.app](https://seedling-d.app)
+ - date_published: 2024-01-05T22:54:58+00:00
+
+ ## See Your Budget
+ - [https://seeyourbudget.app](https://seeyourbudget.app)
+ - date_published: 2024-10-02T11:49:21.594303+00:00
+
+ ## Sei Explorer | SeiScan
+ - [https://www.seiscan.app](https://www.seiscan.app)
+ - date_published: 2024-09-25T10:54:09.080878+00:00
+
+ ## Sei explorer
+ - [https://seistream.app](https://seistream.app)
+ - date_published: 2024-09-24T00:00:00+00:00
+
  ## Send Files To Tv - Android application for Smart TV
  - [https://sendfilestotv.app](https://sendfilestotv.app)
  - date_published: 2024-03-11T14:59:01+00:00
@@ -2980,6 +3017,10 @@
  - [https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app](https://smart-layer-2b4ezg7hb-smart-token-labs.vercel.app)
  - date_published: 2024-09-21T23:52:50.967978+00:00
 
+ ## QuestLog
+ - [https://smart-listapp.vercel.app](https://smart-listapp.vercel.app)
+ - date_published: 2024-12-01T22:56:34+00:00
+
  ## SolidStart - Firebase
  - [https://solid-start-firebase.vercel.app](https://solid-start-firebase.vercel.app)
  - date_published: 2024-07-08T15:49:58.641754+00:00
@@ -3978,45 +4019,4 @@
  ## Ytems
  - [https://www.ytems.app](https://www.ytems.app)
  - date_published: 2024-06-18T21:26:20+00:00
-
- ## YouTube Video Summarizer with ChatGPT - YTSummary
- - [https://ytsummary.app](https://ytsummary.app)
- - date_published: 2024-07-10T11:15:31.452678+00:00
-
- ## YYNN — Rate everything
- - [https://yynn.app](https://yynn.app)
- - date_published: 2024-07-21T04:22:07.734395+00:00
-
- ## Plausible · Web analytics
- - [https://plausiblepig.zeabur.app](https://plausiblepig.zeabur.app)
- - date_published: 2024-09-14T07:48:09.900756+00:00
-
- ## Show HN: Python-Type-Challenges, master Python typing with online exercises
- - [https://python-type-challenges.zeabur.app](https://python-type-challenges.zeabur.app)
- - date_published: 2023-11-29T06:38:03+00:00
-
- ## Zen: Firefox Based Browser
- - [https://zen-browser.app](https://zen-browser.app)
- - date_published: 2024-10-19T10:59:42+00:00
- - tags: ['zen browser', 'web browser']
-
- ## Zen Mode for macOS
- - [https://zenmode.app](https://zenmode.app)
- - date_published: 2024-09-28T02:53:15+00:00
-
- ## Zergo
- - [https://api.zergo.app](https://api.zergo.app)
- - date_published: 2024-10-02T11:36:38.295621+00:00
-
- ## Charge Platform
- - [https://red.zergo.app](https://red.zergo.app)
- - date_published: 2024-06-16T10:54:04.929352+00:00
-
- ## Web3 experiences as smooth as Web2.
- - [https://zerodev.app](https://zerodev.app)
- - date_published: 2024-03-15T15:41:05+00:00
-
- ## ZEUS: Bitcoin payments your way
- - [https://zeusln.app](https://zeusln.app)
- - date_published: 2024-05-06T02:23:00+00:00
 

@@ -1,3 +1,772 @@
+ ## Procure Goods & Services | UVA Finance
+ - [https://procurement.virginia.edu](https://procurement.virginia.edu)
+ - date_published: 2024-07-02T13:13:28+00:00
+
+ ## Home Landing Page | Office of the Executive Vice President and Provost
+ - [https://provost.virginia.edu](https://provost.virginia.edu)
+ - date_published: 2024-07-09T20:42:25+00:00
+
+ ## UVA Public People Search, U.Va.
+ - [https://publicsearch.people.virginia.edu](https://publicsearch.people.virginia.edu)
+ - date_published: 2024-06-28T04:02:42+00:00
+
+ ## University of Virginia Real Estate and Leasing Services
+ - [https://realestate.virginia.edu](https://realestate.virginia.edu)
+ - date_published: 2023-06-26T13:06:08+00:00
+
+ ## University of Virginia - Modern Campus Catalog™
+ - [http://records.ureg.virginia.edu](http://records.ureg.virginia.edu)
+ - date_published: 2024-07-09T20:50:37.005214+00:00
+
+ ## Home | University Registrar
+ - [https://registrar.virginia.edu](https://registrar.virginia.edu)
+ - date_published: 2024-05-09T06:35:59.325245+00:00
+
+ ## University of Virginia Facilities Management – Renewable Energy Tracker – Home
+ - [https://renewableenergy.fm.virginia.edu](https://renewableenergy.fm.virginia.edu)
+ - date_published: 2015-01-10T00:00:00+00:00
+
+ ## Report A Barrier
+ - [https://reportabarrier.virginia.edu](https://reportabarrier.virginia.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://research.as.virginia.edu](https://research.as.virginia.edu)
+ - date_published: 2024-07-09T20:50:53.181359+00:00
+
+ ## Research
+ - [https://research.virginia.edu](https://research.virginia.edu)
+ - date_published: 2024-06-21T19:04:29+00:00
+
+ ## NetBadge Message - Loading Session Information
+ - [https://respectat.sites.virginia.edu](https://respectat.sites.virginia.edu)
+ - date_published: 2024-07-09T20:51:51.470519+00:00
+
+ ## NetBadge Message - Loading Session Information
+ - [https://search.people.virginia.edu](https://search.people.virginia.edu)
+ - date_published: 2024-06-28T13:24:23.500067+00:00
+
+ ## Access to UVA SIS Interrupted
+ - [https://sisuva.admin.virginia.edu](https://sisuva.admin.virginia.edu)
+ - date_published: 2024-06-22T09:21:35.301057+00:00
+
+ ## Space at the University of Virginia
+ - [https://space.virginia.edu](https://space.virginia.edu)
+ - date_published: 2024-02-22T14:49:53+00:00
+
+ ## Progress Timeline: Advancing our Goals
+ - [https://strategicplan.virginia.edu](https://strategicplan.virginia.edu)
+ - date_published: 2024-06-22T09:22:00.111186+00:00
+
+ ## Student Affairs | Student Affairs
+ - [https://studentaffairs.virginia.edu](https://studentaffairs.virginia.edu)
+ - date_published: 2024-06-21T20:15:37+00:00
+
+ ## UVA Students
+ - [https://students.virginia.edu](https://students.virginia.edu)
+ - date_published: 2024-06-22T09:21:39.138424+00:00
+
+ ## Department of Surgery - Surgery at the UVA School of Medicine
+ - [https://surgery.virginia.edu](https://surgery.virginia.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Homepage | The Office of the University Counsel
+ - [https://universitycounsel.virginia.edu](https://universitycounsel.virginia.edu)
+ - date_published: 2024-06-10T19:52:35+00:00
+
+ ## Home - UVA Physicians Group
+ - [http://upg.virginia.edu](http://upg.virginia.edu)
+ - date_published: 2024-06-27T12:39:23.070100+00:00
+
+ ## Home | Emergency Management
+ - [http://uvaemergency.virginia.edu](http://uvaemergency.virginia.edu)
+ - date_published: 2024-06-22T09:21:42+00:00
+
+ ## Home | UVA Policy
+ - [https://uvapolicy.virginia.edu](https://uvapolicy.virginia.edu)
+ - date_published: 2024-07-09T13:27:49+00:00
+
+ ## The University of Virginia
+ - [https://virginia.edu](https://virginia.edu)
+ - date_published: 2024-05-07T22:24:43.605408+00:00
+
+ ## Home Page | Division for Diversity, Equity, and Inclusion
+ - [https://vpdiversity.virginia.edu](https://vpdiversity.virginia.edu)
+ - date_published: 2024-07-06T00:39:39+00:00
+
+ ## Search
+ - [https://www2.virginia.edu](https://www2.virginia.edu)
+ - date_published: 2024-06-28T13:24:28.507048+00:00
+
+ ## https://www.cs.virginia.edu
+ - [https://www.cs.virginia.edu](https://www.cs.virginia.edu)
+ - date_published: 2023-12-31T13:20:21.546076+00:00
+
+ ## Robert M. Berne Cardiovascular Research Center – World-Class Research
+ - [http://www.cvrc.virginia.edu](http://www.cvrc.virginia.edu)
+ - date_published: 2024-06-27T00:15:09+00:00
+
+ ## University of Virginia Facilities Management – Home
+ - [https://www.fm.virginia.edu](https://www.fm.virginia.edu)
+ - date_published: 2024-05-07T22:24:45.366781+00:00
+
+ ## Patient Care at UVA Health
+ - [https://www.healthsystem.virginia.edu](https://www.healthsystem.virginia.edu)
+ - date_published: 2024-06-27T12:01:55+00:00
+
+ ## Beirne B. Carter Center for Immunology Research
+ - [https://www.immunology.virginia.edu](https://www.immunology.virginia.edu)
+ - date_published: 2024-06-27T00:15:13+00:00
+
+ ## Homepage
+ - [http://www.kcci.virginia.edu](http://www.kcci.virginia.edu)
+ - date_published: 2024-06-27T12:39:05.787790+00:00
+
+ ## University of Virginia School of Law - Home
+ - [https://www.law.virginia.edu](https://www.law.virginia.edu)
+ - date_published: 2022-09-02T18:14:37+00:00
+
+ ## UVA Health | Medical Center
+ - [https://www.medicalcenter.virginia.edu](https://www.medicalcenter.virginia.edu)
+ - date_published: 2024-02-08T15:30:09+00:00
+
+ ## School of Nursing • University of Virginia
+ - [https://www.nursing.virginia.edu](https://www.nursing.virginia.edu)
+ - date_published: 2024-05-06T21:28:34.456081+00:00
+
+ ## Home page | University of Virginia School of Engineering and Applied Science
+ - [https://www.seas.virginia.edu](https://www.seas.virginia.edu)
+ - date_published: 2024-07-13T22:53:02+00:00
+
+ ## Homepage | Student Health and Wellness
+ - [https://www.studenthealth.virginia.edu](https://www.studenthealth.virginia.edu)
+ - date_published: 2024-07-09T20:32:30+00:00
+
+ ## University of Virginia Press
+ - [https://www.upress.virginia.edu](https://www.upress.virginia.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## XROADS Has Been Archived
+ - [https://xroads.virginia.edu](https://xroads.virginia.edu)
+ - date_published: 2023-11-29T20:21:02+00:00
+
+ ## Service Portal - Service Portal
+ - [https://4help.vt.edu](https://4help.vt.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://admin.cs.vt.edu](https://admin.cs.vt.edu)
+ - date_published: 2024-06-15T09:18:12.539213+00:00
+
+ ## Analytics & Institutional Effectiveness
+ - [https://aie.vt.edu](https://aie.vt.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Virginia Tech Foundation, Inc.
+ - [https://aimsbbis.vt.edu](https://aimsbbis.vt.edu)
+ - date_published: 2024-07-09T16:36:16.567551+00:00
+
+ ## Alumni Relations
+ - [https://alumni.vt.edu](https://alumni.vt.edu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Virginia Tech Magazine | Virginia Polytechnic Institute and State University
+ - [https://archive.vtmag.vt.edu](https://archive.vtmag.vt.edu)
+ - date_published: 2024-07-09T16:35:28.253209+00:00
+
+ ## Frequently Asked Questions - LibAnswers
+ - [https://ask.lib.vt.edu](https://ask.lib.vt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Index of /
+ - [https://assets.cms.vt.edu](https://assets.cms.vt.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## blogs.icat.vt.edu
+ - [https://blogs.icat.vt.edu](https://blogs.icat.vt.edu)
+ - date_published: 2024-09-16T22:53:06.768831+00:00
+
+ ## Bookings.lib.vt.edu | University Libraries at Virginia Tech
+ - [https://bookings.lib.vt.edu](https://bookings.lib.vt.edu)
+ - date_published: 2022-01-04T00:00:00+00:00
+
+ ## Home page - Board of Visitors
+ - [https://bov.vt.edu](https://bov.vt.edu)
+ - date_published: 2024-07-09T16:35:34.407835+00:00
+
+ ## Library Events -
+        University Libraries at Virginia Tech
+ - [https://calendar.lib.vt.edu](https://calendar.lib.vt.edu)
+ - date_published: 2024-07-09T16:34:39.419231+00:00
+
+ ## Login | Virginia Tech
+ - [https://canvas.vt.edu](https://canvas.vt.edu)
+ - date_published: 2024-07-02T13:15:32.903166+00:00
+
+ ## CAS Lab
+ - [https://caslab.ece.vt.edu](https://caslab.ece.vt.edu)
+ - date_published: 2024-06-22T07:35:07.867010+00:00
+
+ ## Commonwealth Cyber Initiative
+ - [https://cci.research.vt.edu](https://cci.research.vt.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## CVL Wiki
+ - [https://computing.ece.vt.edu](https://computing.ece.vt.edu)
+ - date_published: 2020-03-16T14:21:44+00:00
+
+ ## Courses
+ - [http://courses.cs.vt.edu](http://courses.cs.vt.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Home
+ - [https://csmb.phys.vt.edu](https://csmb.phys.vt.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Department of Computer Science
+ - [https://cs.vt.edu](https://cs.vt.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## VT Special Collections and University Archives Online
+ - [https://digitalsc.lib.vt.edu](https://digitalsc.lib.vt.edu)
+ - date_published: 2024-07-09T16:36:15.525215+00:00
+
+ ## CS Dept. NSF-Supported Education Infrastructure Project / ei.cs.vt.edu
+ - [https://ei.cs.vt.edu](https://ei.cs.vt.edu)
+ - date_published: 1999-01-01T03:42:15+00:00
+
+ ## Home
+ - [https://eng.vt.edu](https://eng.vt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Ensemble documentation home
+ - [https://ensemble.cms.vt.edu](https://ensemble.cms.vt.edu)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Home
+ - [https://fbri.vtc.vt.edu](https://fbri.vtc.vt.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## CVL Wiki
+ - [https://filebox.ece.vt.edu](https://filebox.ece.vt.edu)
+ - date_published: 2020-03-16T14:21:44+00:00
+
+ ## Professional-Homepage Fox, Edward
+ - [https://fox.cs.vt.edu](https://fox.cs.vt.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Project GeoSim - Geography Education Software
+ - [https://geosim.cs.vt.edu](https://geosim.cs.vt.edu)
+ - date_published: 2016-01-08T20:34:12+00:00
+
+ ## Giving Home
+ - [https://give.vt.edu](https://give.vt.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Governance | Home
+ - [https://governance.vt.edu](https://governance.vt.edu)
+ - date_published: 2023-08-29T00:00:00+00:00
+
+ ## Login | Virginia Tech
+ - [http://hokiespa.vt.edu](http://hokiespa.vt.edu)
+ - date_published: 2024-07-09T16:35:15.614466+00:00
+
+ ## Human Resources
+ - [https://hr.vt.edu](https://hr.vt.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Hume Center Home
+ - [https://hume.vt.edu](https://hume.vt.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Institute for Creativity, Arts, and Technology
+ - [https://icat.vt.edu](https://icat.vt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Jobs
+ - [https://jobs.vt.edu](https://jobs.vt.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Index of /
+ - [https://kiosk.lib.vt.edu](https://kiosk.lib.vt.edu)
+ - date_published: 2024-07-09T16:34:49.516115+00:00
+
+ ## Login | Virginia Tech
+ - [http://leavereports.vt.edu](http://leavereports.vt.edu)
+ - date_published: 2024-07-09T16:35:17.802335+00:00
+
+ ## College of Liberal Arts and Human Sciences
+ - [https://liberalarts.vt.edu](https://liberalarts.vt.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## University Libraries
+ - [https://lib.vt.edu](https://lib.vt.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Virginia Tech Carilion School of Medicine
+ - [https://medicine.vtc.vt.edu](https://medicine.vtc.vt.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home Page
+ - [https://nationalsecurity.vt.edu](https://nationalsecurity.vt.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Virginia Tech News
+ - [https://news.vt.edu](https://news.vt.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Home
+ - [https://police.vt.edu](https://police.vt.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home Page | Virginia Tech Policies
+ - [https://policies.vt.edu](https://policies.vt.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## VT Professional Development
+ - [https://profdev.tlos.vt.edu](https://profdev.tlos.vt.edu)
+ - date_published: 2024-07-09T16:34:32.849382+00:00
+
+ ## Office of the Executive Vice President & Provost
+ - [https://provost.vt.edu](https://provost.vt.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Recreational Sports
+ - [https://recsports.vt.edu](https://recsports.vt.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Office of the University Registrar
+ - [http://registrar.vt.edu](http://registrar.vt.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Virginia Tech SACSCOC Accreditation
+ - [https://sacs.vt.edu](https://sacs.vt.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## SAFE at VT
+ - [https://safe.vt.edu](https://safe.vt.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Sanghani Center for Artificial Intelligence and Data Analytics – The Sanghani Center for Artificial Intelligence and Data Analytics brings together computer scientists, engineers, and statisticians to meet the research and workforce needs of today’s data-driven society.
+ - [https://sanghani.cs.vt.edu](https://sanghani.cs.vt.edu)
+ - date_published: 2024-07-02T13:15:11.143328+00:00
+
+ ## Virginia Tech Scholarly Communication University Libraries
+ - [http://scholar.lib.vt.edu](http://scholar.lib.vt.edu)
+ - date_published: 2024-03-29T15:12:35+00:00
+
+ ## College of Science
+ - [https://science.vt.edu](https://science.vt.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Virginia Tech - Video
+ - [https://video.vt.edu](https://video.vt.edu)
+ - date_published: 2024-06-16T16:09:30+00:00
+
+ ## VPPG | Home
+ - [https://vppg.vt.edu](https://vppg.vt.edu)
+ - date_published: 2024-07-09T16:35:36.381792+00:00
+
+ ## VTechWorks Repository :: Home
+ - [https://vtechworks.lib.vt.edu](https://vtechworks.lib.vt.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home
+ - [https://vt.edu](https://vt.edu)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Virginia Tech News
+ - [https://vtnews.vt.edu](https://vtnews.vt.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Virginia Tech News
+ - [https://vtx.vt.edu](https://vtx.vt.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Banner Web Server
+ - [https://webapps.banner.vt.edu](https://webapps.banner.vt.edu)
+ - date_published: 2021-03-09T20:25:53+00:00
+
+ ## Banner Web Server
+ - [https://webapps.es.vt.edu](https://webapps.es.vt.edu)
+ - date_published: 2021-03-09T20:17:10+00:00
+
+ ## Department of Computer Science
+ - [https://website.cs.vt.edu](https://website.cs.vt.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## We Remember
+ - [https://weremember.vt.edu](https://weremember.vt.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Computer Science WordPress
+ - [https://wordpress.cs.vt.edu](https://wordpress.cs.vt.edu)
+ - date_published: 2024-06-22T07:31:50.448661+00:00
+
+ ## Building Construction
+ - [https://www.bc.vt.edu](https://www.bc.vt.edu)
+ - date_published: 2024-06-11T11:54:28+00:00
+
+ ## Home
+ - [http://www.dlib.vt.edu](http://www.dlib.vt.edu)
+ - date_published: 2024-04-18T00:40:29+00:00
+
+ ## Global Change Center
+ - [http://www.globalchange.vt.edu](http://www.globalchange.vt.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home
+ - [http://www.hci.vt.edu](http://www.hci.vt.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## InclusiveVT
+ - [https://www.inclusive.vt.edu](https://www.inclusive.vt.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Industrial and Systems Engineering
+ - [https://www.ise.vt.edu](https://www.ise.vt.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Division of Information Technology
+ - [http://www.it.vt.edu](http://www.it.vt.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [http://www.me.vt.edu](http://www.me.vt.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Events
+ - [https://www.performingarts.vt.edu](https://www.performingarts.vt.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Department of Philosophy
+ - [https://www.phil.vt.edu](https://www.phil.vt.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home
+ - [https://www.phys.vt.edu](https://www.phys.vt.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## School of Visual Arts
+ - [https://www.sova.vt.edu](https://www.sova.vt.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## VT Center for Autism Research
+ - [http://www.vtcar.science.vt.edu](http://www.vtcar.science.vt.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Vu.edu Link Shortener
+ - [http://vu.edu](http://vu.edu)
+ - date_published: 2024-02-29T16:58:13+00:00
+
+ ## Wabash Center – Seeks to strengthen and enhance education in North American theological schools, colleges and universities.
+ - [https://www.wabashcenter.wabash.edu](https://www.wabashcenter.wabash.edu)
+ - date_published: 2024-07-08T18:37:32.902127+00:00
+
+ ## Home
+ - [https://giving.wakehealth.edu](https://giving.wakehealth.edu)
+ - date_published: 2024-07-02T13:16:13.023653+00:00
+
+ ## Lexington Medical Center | Lexington, NC
+ - [http://lexington.wakehealth.edu](http://lexington.wakehealth.edu)
+ - date_published: 2024-07-02T13:16:03.754796+00:00
+
+ ## Newsroom | Atrium Health Wake Forest Baptist
+ - [https://newsroom.wakehealth.edu](https://newsroom.wakehealth.edu)
+ - date_published: 2023-10-25T19:05:55.541527+00:00
+
+ ## Wake Forest University School of Medicine - Winston-Salem, NC
+ - [https://school.wakehealth.edu](https://school.wakehealth.edu)
+ - date_published: 2024-05-07T22:25:03.035962+00:00
+
+ ## Home
+ - [https://wakehealth.edu](https://wakehealth.edu)
+ - date_published: 2024-05-07T22:24:58.168125+00:00
+
+ ## Home
+ - [https://www1.wakehealth.edu](https://www1.wakehealth.edu)
+ - date_published: 2024-07-02T13:16:10.637936+00:00
+
+ ## Quick Answers - Walden University
+ - [https://academicanswers.waldenu.edu](https://academicanswers.waldenu.edu)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Academic Guides: Walden University Departments & Centers: Welcome
+ - [https://academicguides.waldenu.edu](https://academicguides.waldenu.edu)
+ - date_published: 2024-07-02T13:19:33.724564+00:00
+
+ ## Academics: Student Catalog, Handbook, and University Guidebooks: Student Catalog, Student Handbook, and University Guidebooks
+ - [https://academics.waldenu.edu](https://academics.waldenu.edu)
+ - date_published: 2024-05-07T22:25:28.380986+00:00
+
+ ## Alumni Home | Walden University
+ - [https://alumni.waldenu.edu](https://alumni.waldenu.edu)
+ - date_published: 2024-05-07T22:25:17.985798+00:00
+
+ ## MyFaculty Portal
+ - [https://faculty.waldenu.edu](https://faculty.waldenu.edu)
+ - date_published: 2022-03-10T20:48:01+00:00
+
+ ## Walden Homepage
+ - [https://lifelonglearning.waldenu.edu](https://lifelonglearning.waldenu.edu)
+ - date_published: 2024-07-02T13:19:31.790351+00:00
+
+ ## Apply Now | Submit Your Application Online – Walden University
+ - [https://myhomepage.waldenu.edu](https://myhomepage.waldenu.edu)
+ - date_published: 2024-05-07T22:25:37.911881+00:00
+
+ ## myWalden Student Portal
+ - [https://my.waldenu.edu](https://my.waldenu.edu)
+ - date_published: 2024-06-04T11:06:20+00:00
+
+ ## ScholarWorks | Walden University Research
+ - [https://scholarworks.waldenu.edu](https://scholarworks.waldenu.edu)
+ - date_published: 2024-07-02T13:20:00.606521+00:00
+
+ ## Accredited Online University
+ - [https://waldenu.edu](https://waldenu.edu)
+ - date_published: 2024-01-09T19:16:48.326131+00:00
+
+ ## Wallace Community College - Dothan, Alabama
+ - [https://www.wallace.edu](https://www.wallace.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Welcome to Walsh University
+ - [http://www.walsh.edu](http://www.walsh.edu)
+ - date_published: 2024-06-28T09:00:06+00:00
+
+ ## UW Aeronautics and Astronautics Department
+ - [https://aa.washington.edu](https://aa.washington.edu)
+ - date_published: 2024-05-09T04:21:40.214179+00:00
+
+ ## Applied and Computational Math Sciences Program (ACMS) | College of Arts and Sciences - University of Washington |
+ - [https://acms.washington.edu](https://acms.washington.edu)
+ - date_published: 2024-06-25T17:53:15+00:00
+
+ ## Welcome
+ - [https://admit.washington.edu](https://admit.washington.edu)
+ - date_published: 2024-05-07T22:27:22.866171+00:00
+
+ ## AGQA-Decomp
+ - [https://agqa-decomp.cs.washington.edu](https://agqa-decomp.cs.washington.edu)
+ - date_published: 2022-08-31T01:58:59+00:00
+
+ ## AIMS Lab
+ - [https://aims.cs.washington.edu](https://aims.cs.washington.edu)
+ - date_published: 2024-08-06T20:41:57.617269+00:00
+
+ ## https://www.ark.cs.washington.edu
+ - [http://ark.cs.washington.edu](http://ark.cs.washington.edu)
+ - date_published: 2021-06-10T22:26:26+00:00
+
+ ## Animation Research Labs
+ - [https://arl.cs.washington.edu](https://arl.cs.washington.edu)
+ - date_published: 2024-05-25T00:10:29+00:00
+
+ ## College of Arts & Sciences | University of Washington
+ - [https://artsci.washington.edu](https://artsci.washington.edu)
+ - date_published: 2024-06-29T21:13:11+00:00
+
+ ## ArtsUW Events | Arts Events
+ - [https://artsevents.washington.edu](https://artsevents.washington.edu)
+ - date_published: 2024-07-02T13:43:32.234998+00:00
+
+ ## Arts at the University of Washington | ArtsUW
+ - [https://arts.washington.edu](https://arts.washington.edu)
+ - date_published: 2024-05-07T22:26:47.220708+00:00
+
+ ## Computational Neuroscience Center – University of Washington
+ - [https://compneuro.washington.edu](https://compneuro.washington.edu)
+ - date_published: 2024-09-04T19:14:18.553629+00:00
+
+ ## Department of Communication
+ - [https://com.washington.edu](https://com.washington.edu)
+ - date_published: 2024-04-30T05:44:47.988190+00:00
+
+ ## ::: University of Washington Libraries Digital Collections :::
+ - [https://content.lib.washington.edu](https://content.lib.washington.edu)
+ - date_published: 2024-07-02T13:49:02.756489+00:00
+
+ ## courses.cs.washington.edu
+ - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
+ - date_published: 2013-08-16T21:59:17+00:00
+
+ ## UW Courses Web Server
+ - [https://courses.washington.edu](https://courses.washington.edu)
+ - date_published: 2024-08-19T08:23:55.362447+00:00
+
+ ## CREATE
+ - [https://create.washington.edu](https://create.washington.edu)
+ - date_published: 2024-07-02T13:32:21.765628+00:00
+
+ ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
+ - [https://cs.washington.edu](https://cs.washington.edu)
+ - date_published: 2024-05-07T22:26:19.017761+00:00
+
+ ## Dada
+ - [https://dada.cs.washington.edu](https://dada.cs.washington.edu)
+ - date_published: 2024-08-13T22:22:01+00:00
+
+ ## Home
+ - [https://db.cs.washington.edu](https://db.cs.washington.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## UW Departments Web Server
+ - [https://depts.washington.edu](https://depts.washington.edu)
+ - date_published: 2023-11-13T19:09:28.425970+00:00
+
+ ## ::: University of Washington Libraries Digital Collections :::
+ - [https://digitalcollections.lib.washington.edu](https://digitalcollections.lib.washington.edu)
+ - date_published: 2024-07-13T11:27:19.192813+00:00
+
+ ## UW DNA Sequencing Security Study
+ - [https://dnasec.cs.washington.edu](https://dnasec.cs.washington.edu)
+ - date_published: 2022-04-08T03:58:50+00:00
+
+ ## HCI & Design at the University of Washington
+ - [https://dub.washington.edu](https://dub.washington.edu)
+ - date_published: 2024-05-07T22:26:37.313431+00:00
+
+ ## eScience Institute – Advancing data-intensive discovery in all fields
+ - [https://escience.washington.edu](https://escience.washington.edu)
+ - date_published: 2024-05-07T22:26:02.346351+00:00
+
+ ## Animating Pictures with Eulerian Motion Fields
+ - [https://eulerian.cs.washington.edu](https://eulerian.cs.washington.edu)
+ - date_published: 2023-01-03T20:06:37+00:00
+
+ ## Felsenstein/Kuhner lab
+ - [http://evolution.genetics.washington.edu](http://evolution.genetics.washington.edu)
+ - date_published: 2023-10-06T20:55:51+00:00
+
+ ## UW Faculty Web Server
+ - [https://faculty.washington.edu](https://faculty.washington.edu)
+ - date_published: 2023-10-25T19:05:59.829333+00:00
+
+ ## GRAIL: UW Graphics and Imaging Laboratory
+ - [https://grail.cs.washington.edu](https://grail.cs.washington.edu)
+ - date_published: 2024-04-28T03:46:08.109811+00:00
+
+ ## Human Centered Design & Engineering
+ - [https://hcde.washington.edu](https://hcde.washington.edu)
+ - date_published: 2024-06-21T10:05:36.880404+00:00
+
+ ## homes.cs.washington.edu
+ - [https://homes.cs.washington.edu](https://homes.cs.washington.edu)
+ - date_published: 2013-02-19T15:20:04+00:00
+
+ ## UW Interactive Data Lab
+ - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
+ - date_published: 2023-10-26T06:39:53.394657+00:00
+
+ ## UW Industrial & Systems Engineering | University of Washington
+ - [http://ise.washington.edu](http://ise.washington.edu)
+ - date_published: 2024-09-18T19:13:05.529006+00:00
+
+ ## ResearchWorks Journal Hosting
+ - [https://journals.lib.washington.edu](https://journals.lib.washington.edu)
+ - date_published: 2024-06-24T10:35:05.630438+00:00
+
+ ## The Henry M. Jackson School of International Studies
+ - [https://jsis.washington.edu](https://jsis.washington.edu)
+ - date_published: 2024-10-18T21:43:42.208391+00:00
+
+ ## University of Washington Libraries
+ - [https://lib.washington.edu](https://lib.washington.edu)
+ - date_published: 2024-07-02T13:46:45.080973+00:00
+
+ ## Home | Department of Linguistics | University of Washington
+ - [https://linguistics.washington.edu](https://linguistics.washington.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## UW Magazine — University of Washington Magazine
+ - [https://magazine.washington.edu](https://magazine.washington.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## UW Mailman Listserver - Gateway
+ - [https://mailman11.u.washington.edu](https://mailman11.u.washington.edu)
+ - date_published: 2015-03-10T22:37:22+00:00
+
+ ## Makeability Lab Website
+ - [https://makeabilitylab.cs.washington.edu](https://makeabilitylab.cs.washington.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## MHCI+D – Human-Computer Interaction + Design at University of Washington
+ - [https://mhcid.washington.edu](https://mhcid.washington.edu)
+ - date_published: 2024-07-02T13:32:49.847052+00:00
+
+ ## CSE Web Login - Loading Session Information
+ - [http://mycse.cs.washington.edu](http://mycse.cs.washington.edu)
+ - date_published: 2024-07-02T13:34:04.041178+00:00
+
+ ## My UW Giving > Welcome
+ - [https://myuwgiving.gifts.washington.edu](https://myuwgiving.gifts.washington.edu)
+ - date_published: 2024-05-07T22:27:17.131297+00:00
+
+ ## UW NetID sign-in
+ - [https://myuw.washington.edu](https://myuw.washington.edu)
+ - date_published: 2024-05-07T22:25:46.966494+00:00
+
+ ## Allen School News
+ - [https://news.cs.washington.edu](https://news.cs.washington.edu)
+ - date_published: 2024-04-28T05:52:24.341855+00:00
+
+ ## Natural Language Processing
+ - [https://nlp.cs.washington.edu](https://nlp.cs.washington.edu)
+ - date_published: 2024-08-07T17:44:19.543993+00:00
+
+ ## Natural Language Processing
+ - [https://nlp.washington.edu](https://nlp.washington.edu)
+ - date_published: 2024-08-06T20:50:42.713621+00:00
+
+ ## CSE Web Login - Loading Session Information
+ - [https://norfolk.cs.washington.edu](https://norfolk.cs.washington.edu)
+ - date_published: 2024-07-02T13:34:06.049781+00:00
+
+ ## Support the University of Washington
+ - [https://online.gifts.washington.edu](https://online.gifts.washington.edu)
+ - date_published: 2024-07-26T23:58:00.401656+00:00
+
+ ## Photo Tourism
+ - [http://phototour.cs.washington.edu](http://phototour.cs.washington.edu)
+ - date_published: 2012-05-28T22:04:56+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://projectsweb.cs.washington.edu](http://projectsweb.cs.washington.edu)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Polar Science Center
+ - [http://psc.apl.washington.edu](http://psc.apl.washington.edu)
+ - date_published: 2024-06-30T06:32:48.113221+00:00
+
+ ## UW Radiology
+ - [https://rad.washington.edu](https://rad.washington.edu)
+ - date_published: 2023-08-14T16:01:21+00:00
+
+ ## UW RAIVN Lab
+ - [https://raivn.cs.washington.edu](https://raivn.cs.washington.edu)
+ - date_published: 2024-07-17T20:40:02+00:00
+
+ ## Office of the University Registrar - Office of the University Registrar
+ - [https://registrar.washington.edu](https://registrar.washington.edu)
+ - date_published: 2024-05-07T22:27:57.277578+00:00
+
+ ## Research at the UW
+ - [https://research.washington.edu](https://research.washington.edu)
+ - date_published: 2024-10-21T06:02:31.354666+00:00
+
+ ## Robotics | Computer Science & Engineering
+ - [https://robotics.cs.washington.edu](https://robotics.cs.washington.edu)
+ - date_published: 2024-06-21T11:11:51+00:00
+
+ ## David Salesin
+ - [http://salesin.cs.washington.edu](http://salesin.cs.washington.edu)
+ - date_published: 2009-12-24T19:43:02+00:00
+
+ ## Sampa: Home
+ - [https://sampa.cs.washington.edu](https://sampa.cs.washington.edu)
+ - date_published: 2019-12-03T00:00:00+00:00
+
  ## SAMPL: Home
  - [https://sampl.cs.washington.edu](https://sampl.cs.washington.edu)
  - date_published: 2024-02-23T00:00:00+00:00
@@ -3235,805 +4004,4 @@
  ## Home | The Foundation for WWU & Alumni | Western Washington University
  - [https://alumni.wwu.edu](https://alumni.wwu.edu)
  - date_published: 2024-07-02T15:42:43+00:00
-
- ## Home | Admissions | Western Washington University
- - [https://apply.wwu.edu](https://apply.wwu.edu)
- - date_published: 2024-06-28T19:20:43+00:00
-
- ## Associated Students Associated Students of WWU
- - [http://as.wwu.edu](http://as.wwu.edu)
- - date_published: 2024-07-02T15:35:09.650469+00:00
-
- ## Home | ATUS | Western Washington University
- - [https://atus.wwu.edu](https://atus.wwu.edu)
- - date_published: 2024-07-02T15:42:51.211551+00:00
-
- ## Home | Basic Needs Hub | Western Washington University
- - [https://basicneeds.wwu.edu](https://basicneeds.wwu.edu)
- - date_published: 2024-06-27T19:21:41+00:00
-
- ## Business Services | Business Services | Western Washington University
- - [https://business-services.wwu.edu](https://business-services.wwu.edu)
- - date_published: 2024-06-27T20:37:34+00:00
-
- ## Calendar Home | Events Calendar | Western Washington University
- - [https://calendar.wwu.edu](https://calendar.wwu.edu)
- - date_published: 2024-05-07T22:41:00.868845+00:00
-
- ## Home | Campus Recreation | Western Washington University
- - [https://campusrec.wwu.edu](https://campusrec.wwu.edu)
- - date_published: 2024-06-27T22:48:01+00:00
-
- ## Home | Career Services Center | Western Washington University
- - [https://careercenter.wwu.edu](https://careercenter.wwu.edu)
- - date_published: 2024-07-02T09:12:28+00:00
-
- ## Western Washington University - Modern Campus Catalog™
- - [https://catalog.wwu.edu](https://catalog.wwu.edu)
- - date_published: 2024-07-02T15:32:51.146758+00:00
-
- ## Western CEDAR
- - [https://cedar.wwu.edu](https://cedar.wwu.edu)
- - date_published: 2024-07-02T15:36:04.567419+00:00
-
- ## Home | College of Fine and Performing Arts | Western Washington University
- - [https://cfpa.wwu.edu](https://cfpa.wwu.edu)
- - date_published: 2024-07-02T15:32:15+00:00
-
- ## Home | College of Humanities and Social Sciences | Western Washington University
- - [https://chss.wwu.edu](https://chss.wwu.edu)
- - date_published: 2024-07-02T15:34:34+00:00
-
- ## Home | Center for Instructional Innovation and Assessment | Western Washington University
- - [https://cii.wwu.edu](https://cii.wwu.edu)
- - date_published: 2024-06-27T19:25:42+00:00
-
- ## Home | Civil Rights and Title IX Compliance | Western Washington University
- - [https://crtc.wwu.edu](https://crtc.wwu.edu)
- - date_published: 2024-06-28T18:58:04+00:00
-
- ## Home | Counseling and Wellness Center | Western Washington University
- - [https://cwc.wwu.edu](https://cwc.wwu.edu)
- - date_published: 2024-07-02T15:42:43.068459+00:00
-
- ## Landing | Disability Access Center | Western Washington University
- - [https://disability.wwu.edu](https://disability.wwu.edu)
- - date_published: 2024-07-01T23:25:18+00:00
-
- ## Home | Environmental Health and Safety | Western Washington University
- - [https://ehs.wwu.edu](https://ehs.wwu.edu)
- - date_published: 2024-07-02T15:42:02.751571+00:00
-
- ## Home | Emergency Management & Business Continuity | Western Washington University
- - [https://embc.wwu.edu](https://embc.wwu.edu)
- - date_published: 2024-06-27T19:14:24+00:00
-
- ## Safety and Emergency Information
- - [https://emergency.wwu.edu](https://emergency.wwu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Safety and Emergency Information
- - [https://em.wwu.edu](https://em.wwu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home | Institute for Energy Studies | Western Washington University
- - [https://energy.wwu.edu](https://energy.wwu.edu)
- - date_published: 2024-05-07T22:40:50.065440+00:00
-
- ## Universal Login - CAS – Central Authentication Service
- - [https://epas.wwu.edu](https://epas.wwu.edu)
- - date_published: 2024-07-02T15:42:23.475669+00:00
-
- ## Home | Office of Equity | Western Washington University
- - [https://equity.wwu.edu](https://equity.wwu.edu)
- - date_published: 2024-07-02T15:41:45.671208+00:00
-
- ## Western Washington University :: Esign Web Forms
- - [https://esign.wwu.edu](https://esign.wwu.edu)
- - date_published: 2024-07-02T15:36:33.142649+00:00
-
- ## Home | The Centers for Student Access, Community, and Intercultural Engagement | Western Washington University
- - [https://ess-adei.wwu.edu](https://ess-adei.wwu.edu)
- - date_published: 2024-06-27T19:38:13+00:00
-
- ## Home | Financial Aid Department | Western Washington University
- - [https://finaid.wwu.edu](https://finaid.wwu.edu)
- - date_published: 2024-06-27T19:06:49+00:00
-
- ## Home | The Merriman Financial Literacy Program | Western Washington University
- - [https://financialliteracy.wwu.edu](https://financialliteracy.wwu.edu)
- - date_published: 2024-06-27T22:52:48+00:00
-
- ## Study | Find a Space @ Western Libraries | Western Washington University
- - [https://findaspace.wwu.edu](https://findaspace.wwu.edu)
- - date_published: 2024-07-02T09:05:12+00:00
-
- ## Home | The Foundation for WWU & Alumni | Western Washington University
- - [https://foundation.wwu.edu](https://foundation.wwu.edu)
- - date_published: 2024-07-02T15:30:46+00:00
-
- ## Home | Faculty and Staff of Color Council | Western Washington University
- - [https://fsocc.wwu.edu](https://fsocc.wwu.edu)
- - date_published: 2024-07-02T15:36:18.298718+00:00
-
- ## Home | Institute for Global Engagement | Western Washington University
- - [https://global.wwu.edu](https://global.wwu.edu)
- - date_published: 2024-06-27T19:22:42+00:00
-
- ## Graduate School | Western Washington University
- - [https://gradschool.wwu.edu](https://gradschool.wwu.edu)
- - date_published: 2024-06-28T17:12:25+00:00
-
- ## Home | WWU Honors College | Western Washington University
- - [https://honors.wwu.edu](https://honors.wwu.edu)
- - date_published: 2024-07-01T22:35:36+00:00
-
- ## Home | On-Campus Housing | Western Washington University
- - [https://housing.wwu.edu](https://housing.wwu.edu)
- - date_published: 2024-07-01T16:44:02+00:00
-
- ## Home | Human Resources | Western Washington University
- - [https://hr.wwu.edu](https://hr.wwu.edu)
- - date_published: 2024-06-27T19:11:24+00:00
-
- ## Home | International Student & Scholar Services | Western Washington University
- - [https://isss.wwu.edu](https://isss.wwu.edu)
- - date_published: 2024-07-02T15:32:25.340352+00:00
-
- ## Home | LGBTQ+ Western | Western Washington University
- - [https://lgbtq.wwu.edu](https://lgbtq.wwu.edu)
- - date_published: 2024-07-02T09:11:27+00:00
-
- ## Western Libraries | Western Libraries | Western Washington University
- - [https://library.wwu.edu](https://library.wwu.edu)
- - date_published: 2024-07-02T15:32:14.124798+00:00
-
- ## Home | Local Vendors | Western Washington University
- - [https://localvendors.wwu.edu](https://localvendors.wwu.edu)
- - date_published: 2024-06-27T19:53:17+00:00
-
- ## Home | MABEL | Western Washington University
- - [https://mabel.wwu.edu](https://mabel.wwu.edu)
- - date_published: 2024-07-02T15:27:00+00:00
-
- ## Home | Multicultural Student Services | Western Washington University
- - [https://mss.wwu.edu](https://mss.wwu.edu)
- - date_published: 2024-06-28T15:35:52+00:00
-
- ## Home | myWestern | Western Washington University
- - [https://mywestern.wwu.edu](https://mywestern.wwu.edu)
- - date_published: 2024-05-07T22:40:56.918628+00:00
-
- ## WWU News | Western Washington University
- - [https://news.wwu.edu](https://news.wwu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | New Student Services/Family Outreach | Western Washington University
- - [https://nssfo.wwu.edu](https://nssfo.wwu.edu)
- - date_published: 2024-07-02T15:33:10.410021+00:00
-
- ## Outreach and Continuing Education | Outreach and Continuing Education | Western Washington University
- - [https://oce.wwu.edu](https://oce.wwu.edu)
- - date_published: 2024-02-08T18:45:45.986859+00:00
-
- ## Off Campus Living
- - [https://offcampusliving.wwu.edu](https://offcampusliving.wwu.edu)
- - date_published: 2024-07-02T15:00:34+00:00
-
- ## Office of Institutional Effectiveness – Office of Institutional Effectiveness – Western Washington University
- - [https://oie.wwu.edu](https://oie.wwu.edu)
- - date_published: 2024-07-02T15:42:29+00:00
-
- ## Western Online | Western Washington University
- - [https://online.wwu.edu](https://online.wwu.edu)
- - date_published: 2024-06-27T19:20:52+00:00
-
- ## Home | Professional and Continuing Education | Western Washington University
- - [https://pce.wwu.edu](https://pce.wwu.edu)
- - date_published: 2024-07-02T15:32:41.951540+00:00
-
- ## Western on the Peninsulas
- - [https://peninsulas.wwu.edu](https://peninsulas.wwu.edu)
- - date_published: 2024-07-02T09:00:25+00:00
-
- ## Home | President's Office | Western Washington University
- - [https://president.wwu.edu](https://president.wwu.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | Registrar's Office | Western Washington University
- - [https://registrar.wwu.edu](https://registrar.wwu.edu)
- - date_published: 2024-07-02T15:32:19.980596+00:00
-
- ## Home | Student Business Office | Western Washington University
- - [https://sbo.wwu.edu](https://sbo.wwu.edu)
- - date_published: 2024-07-02T15:32:10.010559+00:00
-
- ## Home | Academic Advising & Student Achievement Center | Western Washington University
- - [https://sos.wwu.edu](https://sos.wwu.edu)
- - date_published: 2024-07-01T21:00:40+00:00
-
- ## Home | Student Health Center | Western Washington University
- - [https://studenthealth.wwu.edu](https://studenthealth.wwu.edu)
- - date_published: 2024-07-01T19:29:16+00:00
-
- ## Home | Education Abroad | Western Washington University
- - [https://studyabroad.wwu.edu](https://studyabroad.wwu.edu)
- - date_published: 2024-06-27T20:46:57+00:00
-
- ## Home | Summer Session | Western Washington University
- - [https://summer.wwu.edu](https://summer.wwu.edu)
- - date_published: 2024-06-27T19:21:41+00:00
-
- ## Testing Center | Testing Center | Western Washington University
- - [https://testingcenter.wwu.edu](https://testingcenter.wwu.edu)
- - date_published: 2024-05-07T22:40:44.852980+00:00
-
- ## Home | The Centers for Student Access, Community, and Intercultural Engagement | Western Washington University
- - [https://thecenters.wwu.edu](https://thecenters.wwu.edu)
- - date_published: 2024-06-27T19:38:13+00:00
-
- ## Home | Time, Place, Manner | Western Washington University
- - [https://timeplacemanner.wwu.edu](https://timeplacemanner.wwu.edu)
- - date_published: 2024-07-02T15:32:48.972649+00:00
-
- ## Home | Transportation Services | Western Washington University
- - [https://transportation.wwu.edu](https://transportation.wwu.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home | VIKING UNION | Western Washington University
- - [https://vu.wwu.edu](https://vu.wwu.edu)
- - date_published: 2024-07-02T15:32:46.839079+00:00
-
- ## Universal Login - CAS – Central Authentication Service
- - [https://web4u.banner.wwu.edu](https://web4u.banner.wwu.edu)
- - date_published: 2024-07-02T15:42:25.778286+00:00
-
- ## Home | Web Communication Technologies (WebTech) | Western Washington University
- - [https://webtech.wwu.edu](https://webtech.wwu.edu)
- - date_published: 2024-07-01T23:03:20+00:00
-
- ## WWU News | Western Washington University
- - [https://westerntoday.wwu.edu](https://westerntoday.wwu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Window | Western Washington University
- - [https://window.wwu.edu](https://window.wwu.edu)
- - date_published: 2024-07-02T15:35:24.873083+00:00
-
- ## - Western Involvement Network
- - [https://win.wwu.edu](https://win.wwu.edu)
- - date_published: 2024-07-02T15:32:23.626064+00:00
-
- ## WordPress for WWU
- - [https://wp.wwu.edu](https://wp.wwu.edu)
- - date_published: 2024-05-07T22:40:54.222224+00:00
-
- ## Western Washington University - Make Waves.
- - [https://wwu.edu](https://wwu.edu)
- - date_published: 2024-05-07T22:40:42.716863+00:00
-
- ## Welcome to the Xavier University Personal Web Site
- - [https://site.xavier.edu](https://site.xavier.edu)
- - date_published: 2021-06-29T19:59:30+00:00
-
- ## Xavier University
- - [https://www.xavier.edu](https://www.xavier.edu)
- - date_published: 2024-07-18T17:24:45.726209+00:00
-
- ## Welcome
- | Academic Continuity
- - [https://academiccontinuity.yale.edu](https://academiccontinuity.yale.edu)
- - date_published: 2024-07-02T12:41:00+00:00
-
- ## Academic Job Listings | Office of the Provost
- - [https://academicpositions.yale.edu](https://academicpositions.yale.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Welcome
- | ACME Lab
- - [https://acmelab.yale.edu](https://acmelab.yale.edu)
- - date_published: 2024-07-13T02:56:37+00:00
-
- ## Home | Yale College Undergraduate Admissions
- - [https://admissions.yale.edu](https://admissions.yale.edu)
- - date_published: 2024-07-02T11:36:24+00:00
-
- ## Home | Yale Alumni Association
- - [https://alumni.yale.edu](https://alumni.yale.edu)
- - date_published: 2024-06-28T19:29:36+00:00
-
- ## Yale School of the Environment
- - [https://apply.environment.yale.edu](https://apply.environment.yale.edu)
- - date_published: 2024-07-02T13:40:51+00:00
-
- ## Home - Yale Architecture
- - [https://architecture.yale.edu](https://architecture.yale.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Welcome to Yale University Art Gallery | Yale University Art Gallery
- - [https://artgallery.yale.edu](https://artgallery.yale.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Home - Yale School of Art
- - [https://art.yale.edu](https://art.yale.edu)
- - date_published: 2024-05-11T07:41:36.743220+00:00
-
- ## Central Authentication Service | Yale University
- - [https://ask.yale.edu](https://ask.yale.edu)
- - date_published: 2024-07-02T15:59:59.904302+00:00
-
- ## Shibboleth IdP
- - [https://auth.yale.edu](https://auth.yale.edu)
- - date_published: 2024-07-02T15:59:52.503634+00:00
-
- ## Avalon Project - Documents in Law, History and Diplomacy
- - [https://avalon.law.yale.edu](https://avalon.law.yale.edu)
- - date_published: 2024-05-12T05:58:24.668738+00:00
-
- ## Beatrix
- - [https://beatrix.yale.edu](https://beatrix.yale.edu)
- - date_published: 2024-05-07T22:41:44.405222+00:00
-
- ## Beinecke Rare Book & Manuscript Library
- - [https://beinecke.library.yale.edu](https://beinecke.library.yale.edu)
- - date_published: 2024-07-02T13:35:03+00:00
-
- ## Belonging at Yale
- - [https://belong.yale.edu](https://belong.yale.edu)
- - date_published: 2024-07-02T11:46:39+00:00
-
- ## Initializing login
- - [https://bluedogs.med.yale.edu](https://bluedogs.med.yale.edu)
- - date_published: 2020-11-02T09:55:46+00:00
-
- ## Welcome
- | Boulder School for Condensed Matter and Materials Physics
- - [https://boulderschool.yale.edu](https://boulderschool.yale.edu)
- - date_published: 2024-05-07T15:14:51.348882+00:00
-
- ## Homepage
- - [https://britishart.yale.edu](https://britishart.yale.edu)
- - date_published: 2024-07-01T16:31:28+00:00
-
- ## Welcome | Yale Broadcast Studio
- - [http://broadcast.yale.edu](http://broadcast.yale.edu)
- - date_published: 2024-07-02T15:49:33.535219+00:00
-
- ## The Budget Lab at Yale
- - [https://budgetlab.yale.edu](https://budgetlab.yale.edu)
- - date_published: 2024-09-09T13:09:27+00:00
-
- ## Welcome
- | Bulletin of Yale University
- - [https://bulletin.yale.edu](https://bulletin.yale.edu)
- - date_published: 2024-05-07T22:43:43.366026+00:00
-
- ## Center for Algorithms, Data, and Market Design at Yale
- - [https://cadmy.yale.edu](https://cadmy.yale.edu)
- - date_published: 2024-07-03T19:12:43+00:00
-
- ## Home | Campus Health
- - [https://campushealth.yale.edu](https://campushealth.yale.edu)
- - date_published: 2024-06-28T17:07:30+00:00
-
- ## Yale University
- - [https://campuspress.yale.edu](https://campuspress.yale.edu)
- - date_published: 2024-05-07T22:41:08.349119+00:00
-
- ## Home
- | Canvas @ Yale
- - [https://canvas.yale.edu](https://canvas.yale.edu)
- - date_published: 2024-05-07T22:42:14.424407+00:00
-
- ## Welcome
- | Capital Projects
- - [https://capitalprojects.yale.edu](https://capitalprojects.yale.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Welcome
- | Yale Carbon Charge
- - [https://carbon.yale.edu](https://carbon.yale.edu)
- - date_published: 2024-07-02T15:48:35+00:00
-
- ## Yale School of the Environment | Office of Career and Professional Development
- - [https://careers.environment.yale.edu](https://careers.environment.yale.edu)
- - date_published: 2024-07-02T16:03:24.938625+00:00
-
- ## Computer Architecture and Security Lab
- - [https://caslab.csl.yale.edu](https://caslab.csl.yale.edu)
- - date_published: 2023-11-09T00:00:00+00:00
-
- ## Yale University Publications < Yale University
- - [https://catalog.yale.edu](https://catalog.yale.edu)
- - date_published: 2024-05-07T22:44:29.533897+00:00
-
- ## CBEY Home
- - [https://cbey.yale.edu](https://cbey.yale.edu)
- - date_published: 2024-07-02T13:49:44+00:00
-
- ## Center for Collaborative Arts and Media |
- - [https://ccam.yale.edu](https://ccam.yale.edu)
- - date_published: 2024-07-08T14:37:47+00:00
-
- ## Welcome
- | Yale CCE Program
- - [http://cce.yalecollege.yale.edu](http://cce.yalecollege.yale.edu)
- - date_published: 2024-07-02T15:47:18+00:00
-
- ## Yale School of Medicine
- - [https://cdn1.medicine.yale.edu](https://cdn1.medicine.yale.edu)
- - date_published: 2024-05-07T22:41:39.972527+00:00
-
- ## About Yale Center Beijing | CenterBeijing-Yale
- - [http://centerbeijing.yale.edu](http://centerbeijing.yale.edu)
- - date_published: 2024-07-02T16:02:49.684385+00:00
-
- ## Chaplain's Office |
- - [http://chaplain.yale.edu](http://chaplain.yale.edu)
- - date_published: 2024-06-28T14:19:14+00:00
-
- ## Welcome
- | Department of Chemistry
- - [https://chem.yale.edu](https://chem.yale.edu)
- - date_published: 2024-10-03T20:49:24+00:00
-
- ## Phasing out CIPE | Center for International and Professional Experience | Yale University
- - [https://cipe.yale.edu](https://cipe.yale.edu)
- - date_published: 2024-06-30T14:37:31+00:00
-
- ## Welcome
- | Perspectives on Poverty and Human Development
- - [https://clais-udesa.yale.edu](https://clais-udesa.yale.edu)
- - date_published: 2024-07-02T16:02:42+00:00
-
- ## The Yale Program on Climate Change Communication
- - [https://climatecommunication.yale.edu](https://climatecommunication.yale.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## CMES Home
- | Yale MacMillan Center Council on Middle East Studies
- - [https://cmes.macmillan.yale.edu](https://cmes.macmillan.yale.edu)
- - date_published: 2024-07-02T15:43:52+00:00
-
- ## Cognitive & Neural Computation Laboratory
- - [http://cncl.yale.edu](http://cncl.yale.edu)
- - date_published: 2024-06-22T05:23:49+00:00
-
- ## Yale University Libraries - Digital Collections
- - [https://collections.library.yale.edu](https://collections.library.yale.edu)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Welcome
- | Residential College Renovations
- - [https://collegerenovations.yale.edu](https://collegerenovations.yale.edu)
- - date_published: 2024-07-02T13:16:34+00:00
-
- ## Welcome
- | Yale Commencement
- - [https://commencement.yale.edu](https://commencement.yale.edu)
- - date_published: 2024-05-07T22:44:32.915506+00:00
-
- ## Office of Public Affairs & Communications
- - [https://communications.yale.edu](https://communications.yale.edu)
- - date_published: 2024-05-07T22:42:29.173803+00:00
-
- ## Conference & Event Services in New Haven CT | Yale Conference Venues
- - [https://conferencesandevents.yale.edu](https://conferencesandevents.yale.edu)
- - date_published: 2024-07-02T10:00:10+00:00
-
- ## Welcome to the COSINE-100 Website!
- | COSINE-100 Dark Matter Experiment
- - [https://cosine.yale.edu](https://cosine.yale.edu)
- - date_published: 2024-02-08T16:33:40.809072+00:00
-
- ## Search Yale Courses
- - [https://courses.yale.edu](https://courses.yale.edu)
- - date_published: 2024-05-07T22:42:08.997011+00:00
-
- ## COVID-19 Information
- - [https://covid19.yale.edu](https://covid19.yale.edu)
- - date_published: 2024-06-28T17:02:42+00:00
-
- ## Cowles Foundation for Research in Economics
- - [https://cowles.yale.edu](https://cowles.yale.edu)
- - date_published: 2024-07-14T13:31:56+00:00
-
- ## Welcome
- | Computer Science
- - [https://cpsc.yale.edu](https://cpsc.yale.edu)
- - date_published: 2024-04-28T02:51:13.876263+00:00
-
- ## https://cs-www.cs.yale.edu
- - [https://cs-www.cs.yale.edu](https://cs-www.cs.yale.edu)
- - date_published: 2020-12-22T13:49:52+00:00
-
- ## https://www.cs.yale.edu
- - [https://cs.yale.edu](https://cs.yale.edu)
- - date_published: 2020-12-22T13:49:52+00:00
-
- ## Home | Yale Cybersecurity
- - [https://cybersecurity.yale.edu](https://cybersecurity.yale.edu)
- - date_published: 2024-05-07T22:42:58.802164+00:00
-
- ## Decentralized and Distributed Systems Research at Yale
- - [http://dedis.cs.yale.edu](http://dedis.cs.yale.edu)
- - date_published: 2020-05-09T13:41:58+00:00
-
- ## Directories | Yale University
- - [https://directory.yale.edu](https://directory.yale.edu)
- - date_published: 2024-05-07T22:41:35.047159+00:00
-
- ## LUX: Yale Collections Discovery
- - [http://discover.odai.yale.edu](http://discover.odai.yale.edu)
- - date_published: 2024-06-10T15:29:23+00:00
-
- ## Introduction - Yale Center for Research Computing
- - [https://docs.ycrc.yale.edu](https://docs.ycrc.yale.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Beinecke Documentation
- | Beinecke Documentation
- - [https://documentation.beinecke.library.yale.edu](https://documentation.beinecke.library.yale.edu)
- - date_published: 2024-07-02T15:30:28+00:00
-
- ## Home - David Geffen School of Drama at Yale
- - [https://drama.yale.edu](https://drama.yale.edu)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Yale E360
- - [https://e360.yale.edu](https://e360.yale.edu)
- - date_published: 2023-10-25T19:06:53.110107+00:00
-
- ## Yale Department of Economics
- - [https://economics.yale.edu](https://economics.yale.edu)
- - date_published: 2024-07-14T13:33:17+00:00
-
- ## Yale Department of Economics
- - [http://econ.yale.edu](http://econ.yale.edu)
- - date_published: 2024-05-11T11:10:38.698986+00:00
-
- ## SDL
- - [https://edit.yale.edu](https://edit.yale.edu)
- - date_published: 2016-12-07T20:15:30+00:00
-
- ## Yale EGC
- - [https://egcenter.economics.yale.edu](https://egcenter.economics.yale.edu)
- - date_published: 2024-07-12T12:58:44+00:00
-
- ## Yale EGC
- - [https://egc.yale.edu](https://egc.yale.edu)
- - date_published: 2024-07-12T12:58:44+00:00
-
- ## Welcome
- | Yale Environmental Health & Safety
- - [https://ehs.yale.edu](https://ehs.yale.edu)
- - date_published: 2024-05-07T22:42:39.683123+00:00
-
- ## EliScholar – A Digital Platform for Scholarly Publishing at Yale
- - [https://elischolar.library.yale.edu](https://elischolar.library.yale.edu)
- - date_published: 2024-07-03T22:07:35.875357+00:00
-
- ## Welcome
- | Emergency Management
- - [https://emergency.yale.edu](https://emergency.yale.edu)
- - date_published: 2024-05-07T22:42:54.723593+00:00
-
- ## Energy History – Energy History Online
- - [https://energyhistory.yale.edu](https://energyhistory.yale.edu)
- - date_published: 2023-11-16T01:58:56.369597+00:00
-
- ## Welcome
- | English
- - [https://english.yale.edu](https://english.yale.edu)
- - date_published: 2024-07-06T19:04:03+00:00
-
- ## Yale School of the Environment
- - [https://environment.yale.edu](https://environment.yale.edu)
- - date_published: 2024-05-07T22:43:58.314347+00:00
-
- ## Environmental Performance Index
- - [https://epi.envirocenter.yale.edu](https://epi.envirocenter.yale.edu)
- - date_published: 2024-09-16T19:37:37+00:00
-
- ## Central Authentication Service | Yale University
- - [http://facilitiessafetymanual.yale.edu](http://facilitiessafetymanual.yale.edu)
- - date_published: 2024-07-02T15:50:12.946371+00:00
-
- ## Yale Office of Facilities
- | Office of Facilities
- - [https://facilities.yale.edu](https://facilities.yale.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Faculty Development & Diversity
- | Faculty Development & Diversity
- - [https://faculty.yale.edu](https://faculty.yale.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## FAS Home Page
- | Faculty of Arts and Sciences
- - [https://fas.yale.edu](https://fas.yale.edu)
- - date_published: 2024-07-01T01:28:04+00:00
-
- ## Yale Office of the Fire Marshal
- | Office of the Fire Marshal
- - [https://firemarshal.yale.edu](https://firemarshal.yale.edu)
- - date_published: 2024-07-02T13:48:31+00:00
-
- ## Yale FLINT Group: Home
- - [http://flint.cs.yale.edu](http://flint.cs.yale.edu)
- - date_published: 2024-01-01T01:23:13+00:00
-
- ## For Humanity
- - [https://forhumanity.yale.edu](https://forhumanity.yale.edu)
- - date_published: 2024-05-07T22:44:07.264999+00:00
-
- ## Welcome
- - [https://foxfellowship.yale.edu](https://foxfellowship.yale.edu)
- - date_published: 2024-05-07T22:43:54.917895+00:00
-
- ## For Humanity
- - [https://giving.yale.edu](https://giving.yale.edu)
- - date_published: 2024-07-02T12:41:48+00:00
-
- ## Yale School of Management
- - [https://groups.som.yale.edu](https://groups.som.yale.edu)
- - date_published: 2024-07-02T16:02:40.316153+00:00
-
- ## Homepage | Gruber Foundation
- - [https://gruber.yale.edu](https://gruber.yale.edu)
- - date_published: 2024-08-15T01:53:30+00:00
-
- ## Homepage
- - [https://gsas.yale.edu](https://gsas.yale.edu)
- - date_published: 2024-07-02T15:44:14+00:00
-
- ## Canvas @ Yale
- - [https://help.canvas.yale.edu](https://help.canvas.yale.edu)
- - date_published: 2024-07-02T15:48:14.291140+00:00
-
- ## Get Help - IT at Yale
- - [http://helpme.yale.edu](http://helpme.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Health Insurance Portability and Accountability Act
- - [https://hipaa.yale.edu](https://hipaa.yale.edu)
- - date_published: 2024-05-07T22:43:07.725858+00:00
-
- ## Welcome
- | Yale Hospitality
- - [https://hospitality.yale.edu](https://hospitality.yale.edu)
- - date_published: 2024-05-07T22:43:09.035378+00:00
-
- ## Welcome
- | Yale Housing
- - [https://housing.yale.edu](https://housing.yale.edu)
- - date_published: 2024-05-07T22:42:18.524914+00:00
-
- ## Home
- | The MacMillan Center Hellenic Studies Program
- - [https://hsp.macmillan.yale.edu](https://hsp.macmillan.yale.edu)
- - date_published: 2024-02-08T17:35:48.928417+00:00
-
- ## Ideas from the Yale School of Management | Yale Insights
- - [https://insights.som.yale.edu](https://insights.som.yale.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome
- | Yale Merchandise
- - [https://insigniagoods.yale.edu](https://insigniagoods.yale.edu)
- - date_published: 2024-07-02T11:21:45+00:00
-
- ## Institute of Sacred Music | Music, Worship, Arts
- - [https://ism.yale.edu](https://ism.yale.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- | Institution for Social and Policy Studies
- - [https://isps.yale.edu](https://isps.yale.edu)
- - date_published: 2024-07-01T00:23:59+00:00
-
- ## Information Society Project
- - [http://isp.yale.edu](http://isp.yale.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Homepage - IT at Yale
- - [https://its.yale.edu](https://its.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Homepage - IT at Yale
- - [http://it.yale.edu](http://it.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## System Outage | University Registrar's Office
- - [https://ivy.yale.edu](https://ivy.yale.edu)
- - date_published: 2024-07-02T13:07:18+00:00
-
- ## Welcome
- | Jack M. Balkin
- - [http://jackbalkin.yale.edu](http://jackbalkin.yale.edu)
- - date_published: 2024-07-08T08:22:51+00:00
-
- ## Homepage
- - [https://law.yale.edu](https://law.yale.edu)
- - date_published: 2024-01-02T00:04:15.577147+00:00
-
- ## Lillian Goldman Law Library
- - [https://library.law.yale.edu](https://library.law.yale.edu)
- - date_published: 2024-05-07T22:41:28.514651+00:00
-
- ## Harvey Cushing/John Hay Whitney Medical Library
- - [https://library.medicine.yale.edu](https://library.medicine.yale.edu)
- - date_published: 2024-05-07T22:41:36.380491+00:00
-
- ## Homepage
- | Yale Library
- - [https://library.yale.edu](https://library.yale.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## LUX: Yale Collections Discovery
- - [https://lux.collections.yale.edu](https://lux.collections.yale.edu)
- - date_published: 2024-07-01T15:16:44+00:00
-
- ## The MacMillan Report
- - [https://macmillanreport.yale.edu](https://macmillanreport.yale.edu)
- - date_published: 2024-05-07T22:41:25.423892+00:00
-
- ## The MacMillan Center
- - [https://macmillan.yale.edu](https://macmillan.yale.edu)
- - date_published: 2024-05-07T22:41:11.409861+00:00
-
- ## Yale University Campus Map
- - [https://map.yale.edu](https://map.yale.edu)
- - date_published: 2024-07-02T15:44:46.516641+00:00
-
- ## Welcome
- | Department of Mathematics
- - [https://math.yale.edu](https://math.yale.edu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Yale School of Medicine
- - [https://medicine.yale.edu](https://medicine.yale.edu)
- - date_published: 2023-12-27T12:02:00.358239+00:00
-
- ## Morris: the Law Library Catalog
- - [http://morris.law.yale.edu](http://morris.law.yale.edu)
- - date_published: 2024-07-15T10:43:54.391506+00:00
-
- ## Homepage | Yale School of Music
- - [https://music.yale.edu](https://music.yale.edu)
- - date_published: 2024-05-07T22:42:56.515651+00:00
-
- ## YaleNews | Home
- - [https://news.yale.edu](https://news.yale.edu)
- - date_published: 2023-10-25T19:06:55.320385+00:00
-
- ## Yale School of Nursing
- - [https://nursing.yale.edu](https://nursing.yale.edu)
- - date_published: 2024-07-02T11:47:23+00:00
-
- ## Office of Career Strategy - Yale University
- - [https://ocs.yale.edu](https://ocs.yale.edu)
- - date_published: 2024-07-13T16:14:11.461386+00:00
-
- ## Welcome
- | Division of the Senior Vice President and General Counsel
- - [http://ogc.yale.edu](http://ogc.yale.edu)
- - date_published: 2024-07-02T09:52:05+00:00
-
- ## Welcome
- | Office of Institutional Equity & Accessibility
- - [https://oiea.yale.edu](https://oiea.yale.edu)
- - date_published: 2024-07-02T15:44:26+00:00
-
- ## Office of International and Summer Programs
- - [https://oisp.yale.edu](https://oisp.yale.edu)
- - date_published: 2024-06-26T11:54:30+00:00
-
- ## Office of International Students & Scholars
- - [https://oiss.yale.edu](https://oiss.yale.edu)
- - date_published: 2024-07-02T12:39:18+00:00
-
- ## Welcome to Yale Online | Yale Online
- - [https://online.yale.edu](https://online.yale.edu)
- - date_published: 2024-07-02T15:44:16.334235+00:00
 

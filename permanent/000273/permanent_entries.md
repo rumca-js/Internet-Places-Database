@@ -1,3 +1,771 @@
+ ## Home - University of Texas Admissions
+ - [https://admissions.utexas.edu](https://admissions.utexas.edu)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Stan Richards School of Advertising
+ - [https://advertising.utexas.edu](https://advertising.utexas.edu)
+ - date_published: 2024-07-03T11:43:06+00:00
+
+ ## Dept of Aerospace Engineering & Engineering Mechanics - Cockrell School of Engineering, The University of Texas at Austin
+ - [https://ae.utexas.edu](https://ae.utexas.edu)
+ - date_published: 2024-05-07T22:13:02.586542+00:00
+
+ ## Department of Computer Science
+ - [https://apps.cs.utexas.edu](https://apps.cs.utexas.edu)
+ - date_published: 2024-05-07T22:13:47.645331+00:00
+
+ ## Asia Policy Program - The University of Texas at Austin
+ - [https://asiapolicy.utexas.edu](https://asiapolicy.utexas.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - University of Texas Admissions
+ - [https://bealonghorn.utexas.edu](https://bealonghorn.utexas.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Department of Biomedical Engineering - Cockrell School of Engineering - The University of Texas, Austin - Department of Biomedical Engineering
+ - [https://bme.utexas.edu](https://bme.utexas.edu)
+ - date_published: 2024-05-07T22:13:00.514420+00:00
+
+ ## Brand
+ - [https://brand.utexas.edu](https://brand.utexas.edu)
+ - date_published: 2024-05-06T21:46:30.190021+00:00
+
+ ## Welcome to Bridging Barriers | Bridging Barriers
+ - [https://bridgingbarriers.utexas.edu](https://bridgingbarriers.utexas.edu)
+ - date_published: 2024-07-02T05:50:50+00:00
+
+ ## Home
+ - [https://caee.utexas.edu](https://caee.utexas.edu)
+ - date_published: 2024-05-07T22:12:58.473331+00:00
+
+ ## Event / Announcement Calendar - Texas Today:  UT Events & Announcements Calendar
+ - [https://calendar.utexas.edu](https://calendar.utexas.edu)
+ - date_published: 2024-07-02T12:02:17.188388+00:00
+
+ ## University of Texas at Austin Canvas Learning Management System
+ - [https://canvas.utexas.edu](https://canvas.utexas.edu)
+ - date_published: 2024-05-03T03:41:36+00:00
+
+ ## Computer & Data Science Online
+ - [https://cdso.utexas.edu](https://cdso.utexas.edu)
+ - date_published: 2024-05-07T22:13:49.369793+00:00
+
+ ## McKetta Department of Chemical Engineering - Home
+ - [https://che.utexas.edu](https://che.utexas.edu)
+ - date_published: 2024-05-07T22:13:04.686240+00:00
+
+ ## Home | Information Technology Services
+ - [https://cio.utexas.edu](https://cio.utexas.edu)
+ - date_published: 2024-05-07T22:13:08.797097+00:00
+
+ ## School of Civic Leadership | The University of Texas at Austin
+ - [https://civicleadership.utexas.edu](https://civicleadership.utexas.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## This page has moved....
+ - [http://clyde.as.utexas.edu](http://clyde.as.utexas.edu)
+ - date_published: 2024-08-18T20:22:10.150535+00:00
+
+ ## UT Counseling and Mental Health Center
+ - [https://cmhc.utexas.edu](https://cmhc.utexas.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Department of Chemistry, University of Texas at Austin
+ - [https://cm.utexas.edu](https://cm.utexas.edu)
+ - date_published: 2024-10-19T04:50:01.835895+00:00
+
+ ## Discovery starts here in the College of Natural Sciences
+ - [https://cns.utexas.edu](https://cns.utexas.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## UT Cockrell School of Engineering
+ - [https://cockrell.utexas.edu](https://cockrell.utexas.edu)
+ - date_published: 2023-10-25T19:05:12.024214+00:00
+
+ ## Communication Studies
+ - [https://commstudies.utexas.edu](https://commstudies.utexas.edu)
+ - date_published: 2024-07-04T11:44:31+00:00
+
+ ## About the Center for Community Engagement - The Center for Community Engagement
+ - [https://communityengagement.studentaffairs.utexas.edu](https://communityengagement.studentaffairs.utexas.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Division of Campus and Community Engagement
+ - [https://community.utexas.edu](https://community.utexas.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## University Risk and Compliance Services | University Risk and Compliance Services
+ - [https://compliance.utexas.edu](https://compliance.utexas.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Home | Texas Computing
+ - [https://computing.utexas.edu](https://computing.utexas.edu)
+ - date_published: 2024-07-02T12:03:11.908046+00:00
+
+ ## Home | Texas CSB
+ - [https://csb.utexas.edu](https://csb.utexas.edu)
+ - date_published: 2024-05-07T22:13:54.867319+00:00
+
+ ## Department of Computer Science
+ - [https://cs.utexas.edu](https://cs.utexas.edu)
+ - date_published: 2024-05-07T22:14:01.714994+00:00
+
+ ## Home | Dell Medical School
+ - [http://dellmedschool.utexas.edu](http://dellmedschool.utexas.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home | Dell Medical School
+ - [https://dellmed.utexas.edu](https://dellmed.utexas.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [https://directory.utexas.edu](https://directory.utexas.edu)
+ - date_published: 2024-07-02T11:58:24.815556+00:00
+
+ ## Homepage - Discovery to Impact
+ - [https://discoveries.utexas.edu](https://discoveries.utexas.edu)
+ - date_published: 2024-07-01T07:42:28.341801+00:00
+
+ ## Division of Campus and Community Engagement
+ - [https://diversity.utexas.edu](https://diversity.utexas.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home | DrugDiscovery@TACC
+ - [https://drugdiscovery.tacc.utexas.edu](https://drugdiscovery.tacc.utexas.edu)
+ - date_published: 2024-10-16T07:54:20.963190+00:00
+
+ ## Homepage | Texas ECE - Electrical & Computer Engineering at UT Austin
+ - [https://ece.utexas.edu](https://ece.utexas.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## College of Education - The University of Texas at Austin
+ - [https://education.utexas.edu](https://education.utexas.edu)
+ - date_published: 2022-03-28T23:21:18+00:00
+
+ ## University Messages | Emergency Use Website |The University of Texas at Austin
+ - [https://emergency.utexas.edu](https://emergency.utexas.edu)
+ - date_published: 2024-05-07T22:13:27.877240+00:00
+
+ ## UT Cockrell School of Engineering
+ - [https://engr.utexas.edu](https://engr.utexas.edu)
+ - date_published: 2024-05-07T22:12:53.189975+00:00
+
+ ## Ethics Unwrapped - Beyond Business Ethics - UT Austin
+ - [https://ethicsunwrapped.utexas.edu](https://ethicsunwrapped.utexas.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Moody College Events Calendar | Moody Events Calendar
+ - [https://events.moody.utexas.edu](https://events.moody.utexas.edu)
+ - date_published: 2024-07-05T15:07:32+00:00
+
+ ## Texas Engineering Executive Education
+ - [https://executive.engr.utexas.edu](https://executive.engr.utexas.edu)
+ - date_published: 2024-07-02T11:59:11+00:00
+
+ ## UT Experts : University Communications : The University of Texas at Austin
+ - [https://experts.utexas.edu](https://experts.utexas.edu)
+ - date_published: 2024-05-07T22:13:31.432323+00:00
+
+ ## Continuing and Professional Education | Extended Campus at UT Austin
+ - [http://extendedcampus.utexas.edu](http://extendedcampus.utexas.edu)
+ - date_published: 2024-08-06T10:24:04.750920+00:00
+
+ ## Faculty Careers - The University of Texas at Austin
+ - [https://facultyjobs.utexas.edu](https://facultyjobs.utexas.edu)
+ - date_published: 2023-09-06T14:47:14+00:00
+
+ ## Faculty Careers - The University of Texas at Austin
+ - [https://faculty.utexas.edu](https://faculty.utexas.edu)
+ - date_published: 2023-09-06T14:47:14+00:00
+
+ ## Home
+ - [https://finearts.utexas.edu](https://finearts.utexas.edu)
+ - date_published: 2024-08-06T04:23:31+00:00
+
+ ## What Starts Here | The University of Texas at Austin
+ - [https://give.utexas.edu](https://give.utexas.edu)
+ - date_published: 2024-05-07T22:13:09.952918+00:00
+
+ ## Giving to UT | The University of Texas at Austin
+ - [https://giving.utexas.edu](https://giving.utexas.edu)
+ - date_published: 2022-08-19T19:36:30+00:00
+
+ ## Welcome
+ - [https://golem.ph.utexas.edu](https://golem.ph.utexas.edu)
+ - date_published: 2019-01-06T20:05:16+00:00
+
+ ## Home | Graduate School
+ - [https://gradschool.utexas.edu](https://gradschool.utexas.edu)
+ - date_published: 2024-08-06T09:36:22+00:00
+
+ ## UT Graduate ECE (GREECE)
+ - [https://greece.ece.utexas.edu](https://greece.ece.utexas.edu)
+ - date_published: 2024-04-06T08:54:31+00:00
+
+ ## Human-AI Interaction Lab | UT Austin
+ - [https://hai.ischool.utexas.edu](https://hai.ischool.utexas.edu)
+ - date_published: 2024-07-01T20:08:10.980534+00:00
+
+ ## Hazing Prevention and Response | Hazing Prevention and Response
+ - [https://hazing.utexas.edu](https://hazing.utexas.edu)
+ - date_published: 2024-08-03T02:02:49+00:00
+
+ ## CNS Help Request Form
+ - [https://help.cns.utexas.edu](https://help.cns.utexas.edu)
+ - date_published: 2024-06-30T08:25:26.374332+00:00
+
+ ## HornRaiser | Give
+ - [https://hornraiser.utexas.edu](https://hornraiser.utexas.edu)
+ - date_published: 2024-07-02T12:00:43.558993+00:00
+
+ ## Human Resources Home | Human Resources
+ - [https://hr.utexas.edu](https://hr.utexas.edu)
+ - date_published: 2024-07-02T11:41:06+00:00
+
+ ## Home - The IC² Institute - Innovating Well-Being
+ - [https://ic2.utexas.edu](https://ic2.utexas.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Intelligence Studies Project
+ - [https://intelligencestudies.utexas.edu](https://intelligencestudies.utexas.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [https://intranet.che.utexas.edu](https://intranet.che.utexas.edu)
+ - date_published: 2024-07-02T11:59:01.921892+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [https://intranet.dellmed.utexas.edu](https://intranet.dellmed.utexas.edu)
+ - date_published: 2024-07-01T07:42:31.697477+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [https://intranet.engr.utexas.edu](https://intranet.engr.utexas.edu)
+ - date_published: 2024-07-02T11:59:14.404012+00:00
+
+ ## Home | Information Technology Services
+ - [https://its.utexas.edu](https://its.utexas.edu)
+ - date_published: 2024-07-01T22:56:21+00:00
+
+ ## IT@UT | | The University of Texas at Austin
+ - [https://it.utexas.edu](https://it.utexas.edu)
+ - date_published: 2024-06-23T15:45:35+00:00
+
+ ## Welcome to the School of Journalism
+ - [https://journalism.utexas.edu](https://journalism.utexas.edu)
+ - date_published: 2024-07-01T16:49:36+00:00
+
+ ## Home
+ - [https://knightcenter.utexas.edu](https://knightcenter.utexas.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## The University of Texas School of Law
+ - [https://law.utexas.edu](https://law.utexas.edu)
+ - date_published: 2024-08-06T10:24:11.807751+00:00
+
+ ## LBJ School | The University of Texas at Austin | LBJ School of Public Affairs
+ - [https://lbj.utexas.edu](https://lbj.utexas.edu)
+ - date_published: 2023-11-19T15:39:17.659158+00:00
+
+ ## LBJ Women's Campaign School | LBJ Women's Campaign School
+ - [https://lbjwcs.lbj.utexas.edu](https://lbjwcs.lbj.utexas.edu)
+ - date_published: 2024-05-07T22:13:24.990562+00:00
+
+ ## UT Libraries | University of Texas Libraries | University of Texas at Austin
+ - [https://legacy.lib.utexas.edu](https://legacy.lib.utexas.edu)
+ - date_published: 2024-09-03T18:09:58+00:00
+
+ ## College of Liberal Arts | The University of Texas at Austin
+ - [https://liberalarts.utexas.edu](https://liberalarts.utexas.edu)
+ - date_published: 2024-05-06T14:49:07.264286+00:00
+
+ ## Life & Letters Magazine
+ - [https://lifeandletters.la.utexas.edu](https://lifeandletters.la.utexas.edu)
+ - date_published: 2024-06-11T21:23:04+00:00
+
+ ## Department of Computer Science
+ - [https://login.cs.utexas.edu](https://login.cs.utexas.edu)
+ - date_published: 2024-04-29T02:33:59.825964+00:00
+
+ ## The Linguistics Research Center
+ - [https://lrc.la.utexas.edu](https://lrc.la.utexas.edu)
+ - date_published: 2024-05-02T09:39:40.418961+00:00
+
+ ## Texas Engineer Magazine - Texas Engineer
+ - [https://magazine.engr.utexas.edu](https://magazine.engr.utexas.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Perry-Castañeda Library Map Collection | The University of Texas at Austin
+ - [https://maps.lib.utexas.edu](https://maps.lib.utexas.edu)
+ - date_published: 2023-10-18T17:49:41+00:00
+
+ ## Department of Mathematics, University of Texas at Austin
+ - [https://ma.utexas.edu](https://ma.utexas.edu)
+ - date_published: 2024-05-07T15:49:04.756890+00:00
+
+ ## McCombs School of Business
+ - [https://mccombs.utexas.edu](https://mccombs.utexas.edu)
+ - date_published: 2024-08-06T11:08:01.141437+00:00
+
+ ## Home
+ - [https://me.utexas.edu](https://me.utexas.edu)
+ - date_published: 2024-05-07T22:13:15.664061+00:00
+
+ ## Home | Machine Learning Laboratory
+ - [https://ml.utexas.edu](https://ml.utexas.edu)
+ - date_published: 2024-05-07T22:13:51.354136+00:00
+
+ ## Homepage
+ - [https://moody.utexas.edu](https://moody.utexas.edu)
+ - date_published: 2024-05-08T09:31:24.233872+00:00
+
+ ## UT Austin
+ - [https://my.utexas.edu](https://my.utexas.edu)
+ - date_published: 2024-08-06T10:23:58.113086+00:00
+
+ ## Home - UT News
+ - [https://news.utexas.edu](https://news.utexas.edu)
+ - date_published: 2023-10-25T19:05:16.450263+00:00
+
+ ## Home Page | School of Nursing
+ - [https://nursing.utexas.edu](https://nursing.utexas.edu)
+ - date_published: 2024-05-04T10:01:49.227896+00:00
+
+ ## Oden Institute for Computational Engineering and Sciences
+ - [https://oden.utexas.edu](https://oden.utexas.edu)
+ - date_published: 2024-05-07T22:13:41.660037+00:00
+
+ ## Texas One Stop - University of Texas at Austin
+ - [https://onestop.utexas.edu](https://onestop.utexas.edu)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Petroleum & Geosystems Engineering Department
+ - [https://pge.utexas.edu](https://pge.utexas.edu)
+ - date_published: 2024-05-07T22:13:21.755355+00:00
+
+ ## Home | College of Pharmacy
+ - [https://pharmacy.utexas.edu](https://pharmacy.utexas.edu)
+ - date_published: 2024-08-06T04:32:08+00:00
+
+ ## LAITS Podcasting
+ - [https://podcasts.la.utexas.edu](https://podcasts.la.utexas.edu)
+ - date_published: 2024-06-23T16:29:27.825335+00:00
+
+ ## Office of the President
+ - [https://president.utexas.edu](https://president.utexas.edu)
+ - date_published: 2024-07-02T11:41:33+00:00
+
+ ## COVID-19 | healthybodies
+ - [https://protect.utexas.edu](https://protect.utexas.edu)
+ - date_published: 2024-07-02T12:02:33.395705+00:00
+
+ ## Home | Office of the Registrar
+ - [https://registrar.utexas.edu](https://registrar.utexas.edu)
+ - date_published: 2024-06-21T23:28:02+00:00
+
+ ## TSW :: Repository Home
+ - [https://repositories.lib.utexas.edu](https://repositories.lib.utexas.edu)
+ - date_published: 2024-07-02T12:00:27.597502+00:00
+
+ ## Welcome | Texas Research
+ - [https://research.utexas.edu](https://research.utexas.edu)
+ - date_published: 2024-07-02T11:42:29+00:00
+
+ ## Nuclear and Applied Robotics Group
+ - [https://robotics.me.utexas.edu](https://robotics.me.utexas.edu)
+ - date_published: 2024-08-07T16:55:43.596733+00:00
+
+ ## Home | Robotics
+ - [https://robotics.utexas.edu](https://robotics.utexas.edu)
+ - date_published: 2024-05-07T22:13:53.033511+00:00
+
+ ## UT Austin Robot Perception and Learning Lab
+ - [https://rpl.cs.utexas.edu](https://rpl.cs.utexas.edu)
+ - date_published: 2024-05-08T12:34:00.524973+00:00
+
+ ## Home Page
+ - [https://rtf.utexas.edu](https://rtf.utexas.edu)
+ - date_published: 2024-07-06T11:45:25+00:00
+
+ ## Home | UT Austin Information Security Office
+ - [https://security.utexas.edu](https://security.utexas.edu)
+ - date_published: 2024-06-20T05:01:28+00:00
+
+ ## Home | sites.cns.utexas.edu
+ - [https://sites.cns.utexas.edu](https://sites.cns.utexas.edu)
+ - date_published: 2024-06-30T08:25:43.013926+00:00
+
+ ## University Blog Service
+ - [https://sites.utexas.edu](https://sites.utexas.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to the Department of Speech, Language, and Hearing Sciences
+ - [https://slhs.utexas.edu](https://slhs.utexas.edu)
+ - date_published: 2024-07-06T11:40:33+00:00
+
+ ## The University of Texas at Austin School of Architecture
+ - [https://soa.utexas.edu](https://soa.utexas.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Steve Hicks School of Social Work - The University of Texas at Austin
+ - [https://socialwork.utexas.edu](https://socialwork.utexas.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Spark Research Lab @ The University of Texas at Austin
+ - [https://spark.ece.utexas.edu](https://spark.ece.utexas.edu)
+ - date_published: 2024-05-04T15:41:20.429738+00:00
+
+ ## Major in Statistics & Data Science
+ - [https://stat.utexas.edu](https://stat.utexas.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Strategic Plan | The University of Texas at Austin – UT’s 10-year strategic plan to align our mission with our unique opportunity to impact society and change the world.
+ - [https://strategicplan.utexas.edu](https://strategicplan.utexas.edu)
+ - date_published: 2024-07-02T12:02:22.293448+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [http://students.engr.utexas.edu](http://students.engr.utexas.edu)
+ - date_published: 2024-07-02T11:59:16.710641+00:00
+
+ ## Home - University of Texas Austin
+ - [https://supportstudents.giving.utexas.edu](https://supportstudents.giving.utexas.edu)
+ - date_published: 2024-07-02T12:01:07.076946+00:00
+
+ ## Texas Advanced Computing Center
+ - [https://tacc.utexas.edu](https://tacc.utexas.edu)
+ - date_published: 2022-08-11T15:19:05.210781+00:00
+
+ ## Texas Engineer Magazine – Texas Engineer
+ - [https://test.magazine.engr.utexas.edu](https://test.magazine.engr.utexas.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Title IX Office Home | Title IX Office
+ - [https://titleix.utexas.edu](https://titleix.utexas.edu)
+ - date_published: 2024-08-06T03:17:53+00:00
+
+ ## Introduction | Trademark Licensing
+ - [https://trademarks.utexas.edu](https://trademarks.utexas.edu)
+ - date_published: 2024-07-02T01:18:13+00:00
+
+ ## University Marketing and Communications
+ - [https://ucomm.utexas.edu](https://ucomm.utexas.edu)
+ - date_published: 2024-05-07T22:13:39.986998+00:00
+
+ ## TEXAS Undergraduate Studies |
+ - [https://ugs.utexas.edu](https://ugs.utexas.edu)
+ - date_published: 2024-08-06T09:56:53+00:00
+
+ ## University Marketing and Communications
+ - [https://umac.utexas.edu](https://umac.utexas.edu)
+ - date_published: 2024-07-02T12:02:24.107866+00:00
+
+ ## https://users.ece.utexas.edu
+ - [https://users.ece.utexas.edu](https://users.ece.utexas.edu)
+ - date_published: 2024-01-09T03:28:47.911805+00:00
+
+ ## Sign in with your UT EID - Loading Session Information
+ - [https://utdirect.utexas.edu](https://utdirect.utexas.edu)
+ - date_published: 2024-05-07T22:13:56.711342+00:00
+
+ ## The University of Texas at Austin
+ - [https://utexas.edu](https://utexas.edu)
+ - date_published: 2024-04-29T02:33:49.099791+00:00
+
+ ## Home | UTLA Program
+ - [https://utla.utexas.edu](https://utla.utexas.edu)
+ - date_published: 2024-07-06T11:43:05+00:00
+
+ ## UT Lists - home
+ - [https://utlists.utexas.edu](https://utlists.utexas.edu)
+ - date_published: 2015-06-17T00:00:00+00:00
+
+ ## UTNY Home Page | UTNY
+ - [https://utny.utexas.edu](https://utny.utexas.edu)
+ - date_published: 2024-07-05T00:17:22+00:00
+
+ ## Home - University of Texas Press
+ - [https://utpress.utexas.edu](https://utpress.utexas.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Department of Mathematics, University of Texas at Austin
+ - [https://web.ma.utexas.edu](https://web.ma.utexas.edu)
+ - date_published: 2024-05-12T05:31:58.537337+00:00
+
+ ## University Wiki Service
+ - [https://wikis.utexas.edu](https://wikis.utexas.edu)
+ - date_published: 2024-06-23T16:29:48.235846+00:00
+
+ ## Astronomy at the University of Texas at Austin
+ - [http://www.as.utexas.edu](http://www.as.utexas.edu)
+ - date_published: 2024-08-18T20:22:16.186551+00:00
+
+ ## EEMDL
+ - [https://www.eemdl.utexas.edu](https://www.eemdl.utexas.edu)
+ - date_published: 2024-07-02T11:59:03.733917+00:00
+
+ ## Endowments | What Starts Here Changes the World
+ - [https://www.endowments.giving.utexas.edu](https://www.endowments.giving.utexas.edu)
+ - date_published: 2024-07-02T12:01:04.743307+00:00
+
+ ## healthyhorns
+ - [https://www.healthyhorns.utexas.edu](https://www.healthyhorns.utexas.edu)
+ - date_published: 2024-07-02T11:50:34.698812+00:00
+
+ ## UT iSchool | The University of Texas at Austin
+ - [https://www.ischool.utexas.edu](https://www.ischool.utexas.edu)
+ - date_published: 2024-07-02T10:45:39+00:00
+
+ ## Jackson School of Geosciences
+ - [http://www.jsg.utexas.edu](http://www.jsg.utexas.edu)
+ - date_published: 2024-08-05T15:13:17+00:00
+
+ ## UT Libraries | University of Texas Libraries | University of Texas at Austin
+ - [https://www.lib.utexas.edu](https://www.lib.utexas.edu)
+ - date_published: 2024-07-08T13:26:15+00:00
+
+ ## UTHealth Houston
+ - [https://www.uth.edu](https://www.uth.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## The University of Tennessee Health Science Center (UTHSC)
+ - [http://www.uthsc.edu](http://www.uthsc.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Branding Central - UT Health San Antonio
+ - [https://branding.uthscsa.edu](https://branding.uthscsa.edu)
+ - date_published: 2024-07-02T12:06:19.697052+00:00
+
+ ## Home | UT Health San Antonio MD Anderson Cancer Center
+ - [https://cancer.uthscsa.edu](https://cancer.uthscsa.edu)
+ - date_published: 2024-05-07T22:14:20.098503+00:00
+
+ ## Catalog < UT Health San Antonio
+ - [http://catalog.uthscsa.edu](http://catalog.uthscsa.edu)
+ - date_published: 2024-02-23T21:55:41+00:00
+
+ ## Critically Appraised Topics, CATs, UT Health Science Center San Antonio Dental School
+ - [https://cats.uthscsa.edu](https://cats.uthscsa.edu)
+ - date_published: 2024-07-22T04:56:29.371019+00:00
+
+ ## Home - Greehey Children's Cancer Research Institute
+ - [http://ccri.uthscsa.edu](http://ccri.uthscsa.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Profiles
+ - [https://directory.uthscsa.edu](https://directory.uthscsa.edu)
+ - date_published: 2024-07-01T16:11:50+00:00
+
+ ## Events Calendar
+ - [https://events.uthscsa.edu](https://events.uthscsa.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## UT Health San Antonio
+ - [https://forever.uthscsa.edu](https://forever.uthscsa.edu)
+ - date_published: 2024-07-02T12:05:26.818091+00:00
+
+ ## Planned Giving | UT Health San Antonio
+ - [http://giftplanning.uthscsa.edu](http://giftplanning.uthscsa.edu)
+ - date_published: 2024-07-02T12:05:48.243684+00:00
+
+ ## Home - Institute for Health Promotion Research
+ - [https://ihpr.uthscsa.edu](https://ihpr.uthscsa.edu)
+ - date_published: 2024-07-02T16:04:02.661581+00:00
+
+ ## The University of Texas Health Science Center at San Antonio
+ - [http://ims.uthscsa.edu](http://ims.uthscsa.edu)
+ - date_published: 2024-07-02T12:04:08.429104+00:00
+
+ ## Welcome to the Office of Legal Affairs
+ - [http://legalaffairs.uthscsa.edu](http://legalaffairs.uthscsa.edu)
+ - date_published: 2024-07-02T12:03:57.483064+00:00
+
+ ## Home - UT Health Science Center Library
+ - [http://library.uthscsa.edu](http://library.uthscsa.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## President's Luminary Honors | October 4, 2024
+ - [https://luminaryhonors.uthscsa.edu](https://luminaryhonors.uthscsa.edu)
+ - date_published: 2024-06-13T18:27:23+00:00
+
+ ## Magazines of UT Health San Antonio - Magazines | UT Health San Antonio
+ - [https://magazines.uthscsa.edu](https://magazines.uthscsa.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Give to the UT Health San Antonio
+ - [https://makelivesbetter.uthscsa.edu](https://makelivesbetter.uthscsa.edu)
+ - date_published: 2024-05-07T22:14:17.643244+00:00
+
+ ## Home - UT Health San Antonio
+ - [https://news.uthscsa.edu](https://news.uthscsa.edu)
+ - date_published: 2023-10-25T19:05:27.448402+00:00
+
+ ## School of Nursing | School of Nursing
+ - [http://nursing.uthscsa.edu](http://nursing.uthscsa.edu)
+ - date_published: 2024-07-02T05:49:00+00:00
+
+ ## OPA Home | Office of Postdoctoral Affairs
+ - [https://opa.uthscsa.edu](https://opa.uthscsa.edu)
+ - date_published: 2024-06-25T20:33:31+00:00
+
+ ## Find a Provider | UT Health San Antonio Patient Care
+ - [https://providers.uthscsa.edu](https://providers.uthscsa.edu)
+ - date_published: 2024-07-02T12:04:50.211303+00:00
+
+ ## School of Medicine | Long School of Medicine
+ - [http://som.uthscsa.edu](http://som.uthscsa.edu)
+ - date_published: 2024-07-02T05:31:17+00:00
+
+ ## Home - Student Services
+ - [https://students.uthscsa.edu](https://students.uthscsa.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Home | UT Health San Antonio
+ - [https://uthscsa.edu](https://uthscsa.edu)
+ - date_published: 2024-05-07T22:14:03.682930+00:00
+
+ ## Home | UT Health San Antonio
+ - [https://wp.uthscsa.edu](https://wp.uthscsa.edu)
+ - date_published: 2024-05-07T22:14:08.007690+00:00
+
+ ## Home | UT Health San Antonio
+ - [http://ww2.uthscsa.edu](http://ww2.uthscsa.edu)
+ - date_published: 2024-06-27T18:09:16+00:00
+
+ ## Home - Barshop Institute
+ - [http://www.barshop.uthscsa.edu](http://www.barshop.uthscsa.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Undergraduate Admissions - University of Tennessee, Knoxville
+ - [https://admissions.utk.edu](https://admissions.utk.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Academic Honors Banquet | The University of Tennessee, Knoxville
+ - [https://ahb.utk.edu](https://ahb.utk.edu)
+ - date_published: 2024-09-18T05:39:59.143902+00:00
+
+ ## College of Arts and Sciences - College of Arts and Sciences
+ - [https://artsci.utk.edu](https://artsci.utk.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Office of the Bursar | The University of Tennessee, Knoxville
+ - [http://bursar.utk.edu](http://bursar.utk.edu)
+ - date_published: 2024-09-18T05:38:41.145751+00:00
+
+ ## Events Calendar - University of Tennessee, Knoxville
+ - [https://calendar.utk.edu](https://calendar.utk.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## University of Tennessee, Knoxville - Modern Campus Catalog™
+ - [https://catalog.utk.edu](https://catalog.utk.edu)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Center for Global Engagement | The University of Tennessee, Knoxville
+ - [https://cge.utk.edu](https://cge.utk.edu)
+ - date_published: 2024-09-18T05:41:03.278826+00:00
+
+ ## Home - UT Office of the Chancellor
+ - [http://chancellor.utk.edu](http://chancellor.utk.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Chancellor’s Honors Banquet | The University of Tennessee, Knoxville
+ - [https://chb.utk.edu](https://chb.utk.edu)
+ - date_published: 2024-09-18T05:39:57.079367+00:00
+
+ ## Clery Act | The University of Tennessee, Knoxville
+ - [https://clery.utk.edu](https://clery.utk.edu)
+ - date_published: 2024-09-18T05:40:40.109538+00:00
+
+ ## Office of Communications and Marketing | The University of Tennessee, Knoxville
+ - [http://communications.utk.edu](http://communications.utk.edu)
+ - date_published: 2024-07-02T12:17:55.002045+00:00
+
+ ## University of Tennessee, Knoxville
+ - [https://content.cms.utk.edu](https://content.cms.utk.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Digital Collections | Libraries at University of Tennessee, Knoxville
+ - [http://digital.lib.utk.edu](http://digital.lib.utk.edu)
+ - date_published: 2023-03-08T19:48:57+00:00
+
+ ## Directory | The University of Tennessee
+ - [https://directory.utk.edu](https://directory.utk.edu)
+ - date_published: 2024-05-07T22:14:34.124921+00:00
+
+ ## Home - Dean of Students
+ - [http://dos.utk.edu](http://dos.utk.edu)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Directory | The University of Tennessee
+ - [https://ds.utk.edu](https://ds.utk.edu)
+ - date_published: 2024-07-02T12:14:15.178956+00:00
+
+ ## Environmental Health & Safety | The University of Tennessee, Knoxville
+ - [https://ehs.utk.edu](https://ehs.utk.edu)
+ - date_published: 2024-09-18T05:40:36.674967+00:00
+
+ ## Experts Guide – University of Tennessee, Knoxville
+ - [https://experts.utk.edu](https://experts.utk.edu)
+ - date_published: 2024-07-02T12:17:42.185594+00:00
+
+ ## University of Tennessee Knoxville
+ - [https://faculty.utk.edu](https://faculty.utk.edu)
+ - date_published: 2024-10-14T23:20:05.736761+00:00
+
+ ## Facilities Services | The University of Tennessee, Knoxville
+ - [http://fs.utk.edu](http://fs.utk.edu)
+ - date_published: 2024-09-18T05:40:31.010932+00:00
+
+ ## Department of Geography and Sustainability - Geography and Sustainability Department
+ - [https://geography.utk.edu](https://geography.utk.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## University of Tennessee, Knoxville
+ - [http://giveto.utk.edu](http://giveto.utk.edu)
+ - date_published: 2024-07-01T03:17:00.719503+00:00
+
+ ## UT Knoxville Advancement
+ - [https://giving.utk.edu](https://giving.utk.edu)
+ - date_published: 2024-07-02T12:15:23.016271+00:00
+
+ ## Haslam College of Business - University of Tennessee, Knoxville
+ - [https://haslam.utk.edu](https://haslam.utk.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Hebrew - World Languages and Cultures Department
+ - [https://hebrew.utk.edu](https://hebrew.utk.edu)
+ - date_published: 2023-10-24T00:00:00+00:00
+
+ ## Home
+ - [https://help.utk.edu](https://help.utk.edu)
+ - date_published: 2024-07-02T12:14:22.475411+00:00
+
+ ## Home - Hilltopics Student Handbook
+ - [http://hilltopics.utk.edu](http://hilltopics.utk.edu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Honors Banquets | The University of Tennessee, Knoxville
+ - [https://honorsbanquet.utk.edu](https://honorsbanquet.utk.edu)
+ - date_published: 2024-06-15T12:53:45.943282+00:00
+
+ ## Home - University Housing
+ - [https://housing.utk.edu](https://housing.utk.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Human Resources | The University of Tennessee, Knoxville
+ - [http://hr.utk.edu](http://hr.utk.edu)
+ - date_published: 2024-07-02T12:14:20.303743+00:00
+
+ ## Humanities Center - Denbo Center for Humanities and the Arts
+ - [https://humanitiescenter.utk.edu](https://humanitiescenter.utk.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## ICL | Innovative Computing Laboratory
+ - [https://icl.utk.edu](https://icl.utk.edu)
+ - date_published: 2024-06-17T00:31:40+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://images.utk.edu](https://images.utk.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
  ## The Fern and Manfred Steinfeld Program in Judaic Studies | The University of Tennessee, Knoxville
  - [https://judaic.utk.edu](https://judaic.utk.edu)
  - date_published: 2024-05-07T22:15:05.438828+00:00
@@ -3230,773 +3998,4 @@
  ## Home | Office of the President
  - [https://president.virginia.edu](https://president.virginia.edu)
  - date_published: 2024-06-22T09:21:52.092470+00:00
-
- ## Procure Goods & Services | UVA Finance
- - [https://procurement.virginia.edu](https://procurement.virginia.edu)
- - date_published: 2024-07-02T13:13:28+00:00
-
- ## Home Landing Page | Office of the Executive Vice President and Provost
- - [https://provost.virginia.edu](https://provost.virginia.edu)
- - date_published: 2024-07-09T20:42:25+00:00
-
- ## UVA Public People Search, U.Va.
- - [https://publicsearch.people.virginia.edu](https://publicsearch.people.virginia.edu)
- - date_published: 2024-06-28T04:02:42+00:00
-
- ## University of Virginia Real Estate and Leasing Services
- - [https://realestate.virginia.edu](https://realestate.virginia.edu)
- - date_published: 2023-06-26T13:06:08+00:00
-
- ## University of Virginia - Modern Campus Catalog™
- - [http://records.ureg.virginia.edu](http://records.ureg.virginia.edu)
- - date_published: 2024-07-09T20:50:37.005214+00:00
-
- ## Home | University Registrar
- - [https://registrar.virginia.edu](https://registrar.virginia.edu)
- - date_published: 2024-05-09T06:35:59.325245+00:00
-
- ## University of Virginia Facilities Management – Renewable Energy Tracker – Home
- - [https://renewableenergy.fm.virginia.edu](https://renewableenergy.fm.virginia.edu)
- - date_published: 2015-01-10T00:00:00+00:00
-
- ## Report A Barrier
- - [https://reportabarrier.virginia.edu](https://reportabarrier.virginia.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage
- - [https://research.as.virginia.edu](https://research.as.virginia.edu)
- - date_published: 2024-07-09T20:50:53.181359+00:00
-
- ## Research
- - [https://research.virginia.edu](https://research.virginia.edu)
- - date_published: 2024-06-21T19:04:29+00:00
-
- ## NetBadge Message - Loading Session Information
- - [https://respectat.sites.virginia.edu](https://respectat.sites.virginia.edu)
- - date_published: 2024-07-09T20:51:51.470519+00:00
-
- ## NetBadge Message - Loading Session Information
- - [https://search.people.virginia.edu](https://search.people.virginia.edu)
- - date_published: 2024-06-28T13:24:23.500067+00:00
-
- ## Access to UVA SIS Interrupted
- - [https://sisuva.admin.virginia.edu](https://sisuva.admin.virginia.edu)
- - date_published: 2024-06-22T09:21:35.301057+00:00
-
- ## Space at the University of Virginia
- - [https://space.virginia.edu](https://space.virginia.edu)
- - date_published: 2024-02-22T14:49:53+00:00
-
- ## Progress Timeline: Advancing our Goals
- - [https://strategicplan.virginia.edu](https://strategicplan.virginia.edu)
- - date_published: 2024-06-22T09:22:00.111186+00:00
-
- ## Student Affairs | Student Affairs
- - [https://studentaffairs.virginia.edu](https://studentaffairs.virginia.edu)
- - date_published: 2024-06-21T20:15:37+00:00
-
- ## UVA Students
- - [https://students.virginia.edu](https://students.virginia.edu)
- - date_published: 2024-06-22T09:21:39.138424+00:00
-
- ## Department of Surgery - Surgery at the UVA School of Medicine
- - [https://surgery.virginia.edu](https://surgery.virginia.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Homepage | The Office of the University Counsel
- - [https://universitycounsel.virginia.edu](https://universitycounsel.virginia.edu)
- - date_published: 2024-06-10T19:52:35+00:00
-
- ## Home - UVA Physicians Group
- - [http://upg.virginia.edu](http://upg.virginia.edu)
- - date_published: 2024-06-27T12:39:23.070100+00:00
-
- ## Home | Emergency Management
- - [http://uvaemergency.virginia.edu](http://uvaemergency.virginia.edu)
- - date_published: 2024-06-22T09:21:42+00:00
-
- ## Home | UVA Policy
- - [https://uvapolicy.virginia.edu](https://uvapolicy.virginia.edu)
- - date_published: 2024-07-09T13:27:49+00:00
-
- ## The University of Virginia
- - [https://virginia.edu](https://virginia.edu)
- - date_published: 2024-05-07T22:24:43.605408+00:00
-
- ## Home Page | Division for Diversity, Equity, and Inclusion
- - [https://vpdiversity.virginia.edu](https://vpdiversity.virginia.edu)
- - date_published: 2024-07-06T00:39:39+00:00
-
- ## Search
- - [https://www2.virginia.edu](https://www2.virginia.edu)
- - date_published: 2024-06-28T13:24:28.507048+00:00
-
- ## https://www.cs.virginia.edu
- - [https://www.cs.virginia.edu](https://www.cs.virginia.edu)
- - date_published: 2023-12-31T13:20:21.546076+00:00
-
- ## Robert M. Berne Cardiovascular Research Center – World-Class Research
- - [http://www.cvrc.virginia.edu](http://www.cvrc.virginia.edu)
- - date_published: 2024-06-27T00:15:09+00:00
-
- ## University of Virginia Facilities Management – Home
- - [https://www.fm.virginia.edu](https://www.fm.virginia.edu)
- - date_published: 2024-05-07T22:24:45.366781+00:00
-
- ## Patient Care at UVA Health
- - [https://www.healthsystem.virginia.edu](https://www.healthsystem.virginia.edu)
- - date_published: 2024-06-27T12:01:55+00:00
-
- ## Beirne B. Carter Center for Immunology Research
- - [https://www.immunology.virginia.edu](https://www.immunology.virginia.edu)
- - date_published: 2024-06-27T00:15:13+00:00
-
- ## Homepage
- - [http://www.kcci.virginia.edu](http://www.kcci.virginia.edu)
- - date_published: 2024-06-27T12:39:05.787790+00:00
-
- ## University of Virginia School of Law - Home
- - [https://www.law.virginia.edu](https://www.law.virginia.edu)
- - date_published: 2022-09-02T18:14:37+00:00
-
- ## UVA Health | Medical Center
- - [https://www.medicalcenter.virginia.edu](https://www.medicalcenter.virginia.edu)
- - date_published: 2024-02-08T15:30:09+00:00
-
- ## School of Nursing • University of Virginia
- - [https://www.nursing.virginia.edu](https://www.nursing.virginia.edu)
- - date_published: 2024-05-06T21:28:34.456081+00:00
-
- ## Home page | University of Virginia School of Engineering and Applied Science
- - [https://www.seas.virginia.edu](https://www.seas.virginia.edu)
- - date_published: 2024-07-13T22:53:02+00:00
-
- ## Homepage | Student Health and Wellness
- - [https://www.studenthealth.virginia.edu](https://www.studenthealth.virginia.edu)
- - date_published: 2024-07-09T20:32:30+00:00
-
- ## University of Virginia Press
- - [https://www.upress.virginia.edu](https://www.upress.virginia.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## XROADS Has Been Archived
- - [https://xroads.virginia.edu](https://xroads.virginia.edu)
- - date_published: 2023-11-29T20:21:02+00:00
-
- ## Service Portal - Service Portal
- - [https://4help.vt.edu](https://4help.vt.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## CAS - Central Authentication Service Login
- - [https://admin.cs.vt.edu](https://admin.cs.vt.edu)
- - date_published: 2024-06-15T09:18:12.539213+00:00
-
- ## Analytics & Institutional Effectiveness
- - [https://aie.vt.edu](https://aie.vt.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Virginia Tech Foundation, Inc.
- - [https://aimsbbis.vt.edu](https://aimsbbis.vt.edu)
- - date_published: 2024-07-09T16:36:16.567551+00:00
-
- ## Alumni Relations
- - [https://alumni.vt.edu](https://alumni.vt.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Virginia Tech Magazine | Virginia Polytechnic Institute and State University
- - [https://archive.vtmag.vt.edu](https://archive.vtmag.vt.edu)
- - date_published: 2024-07-09T16:35:28.253209+00:00
-
- ## Frequently Asked Questions - LibAnswers
- - [https://ask.lib.vt.edu](https://ask.lib.vt.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Index of /
- - [https://assets.cms.vt.edu](https://assets.cms.vt.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## blogs.icat.vt.edu
- - [https://blogs.icat.vt.edu](https://blogs.icat.vt.edu)
- - date_published: 2024-09-16T22:53:06.768831+00:00
-
- ## Bookings.lib.vt.edu | University Libraries at Virginia Tech
- - [https://bookings.lib.vt.edu](https://bookings.lib.vt.edu)
- - date_published: 2022-01-04T00:00:00+00:00
-
- ## Home page - Board of Visitors
- - [https://bov.vt.edu](https://bov.vt.edu)
- - date_published: 2024-07-09T16:35:34.407835+00:00
-
- ## Library Events -
-        University Libraries at Virginia Tech
- - [https://calendar.lib.vt.edu](https://calendar.lib.vt.edu)
- - date_published: 2024-07-09T16:34:39.419231+00:00
-
- ## Login | Virginia Tech
- - [https://canvas.vt.edu](https://canvas.vt.edu)
- - date_published: 2024-07-02T13:15:32.903166+00:00
-
- ## CAS Lab
- - [https://caslab.ece.vt.edu](https://caslab.ece.vt.edu)
- - date_published: 2024-06-22T07:35:07.867010+00:00
-
- ## Commonwealth Cyber Initiative
- - [https://cci.research.vt.edu](https://cci.research.vt.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## CVL Wiki
- - [https://computing.ece.vt.edu](https://computing.ece.vt.edu)
- - date_published: 2020-03-16T14:21:44+00:00
-
- ## Courses
- - [http://courses.cs.vt.edu](http://courses.cs.vt.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home
- - [https://csmb.phys.vt.edu](https://csmb.phys.vt.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Department of Computer Science
- - [https://cs.vt.edu](https://cs.vt.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## VT Special Collections and University Archives Online
- - [https://digitalsc.lib.vt.edu](https://digitalsc.lib.vt.edu)
- - date_published: 2024-07-09T16:36:15.525215+00:00
-
- ## CS Dept. NSF-Supported Education Infrastructure Project / ei.cs.vt.edu
- - [https://ei.cs.vt.edu](https://ei.cs.vt.edu)
- - date_published: 1999-01-01T03:42:15+00:00
-
- ## Home
- - [https://eng.vt.edu](https://eng.vt.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Ensemble documentation home
- - [https://ensemble.cms.vt.edu](https://ensemble.cms.vt.edu)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home
- - [https://fbri.vtc.vt.edu](https://fbri.vtc.vt.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## CVL Wiki
- - [https://filebox.ece.vt.edu](https://filebox.ece.vt.edu)
- - date_published: 2020-03-16T14:21:44+00:00
-
- ## Professional-Homepage Fox, Edward
- - [https://fox.cs.vt.edu](https://fox.cs.vt.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Project GeoSim - Geography Education Software
- - [https://geosim.cs.vt.edu](https://geosim.cs.vt.edu)
- - date_published: 2016-01-08T20:34:12+00:00
-
- ## Giving Home
- - [https://give.vt.edu](https://give.vt.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Governance | Home
- - [https://governance.vt.edu](https://governance.vt.edu)
- - date_published: 2023-08-29T00:00:00+00:00
-
- ## Login | Virginia Tech
- - [http://hokiespa.vt.edu](http://hokiespa.vt.edu)
- - date_published: 2024-07-09T16:35:15.614466+00:00
-
- ## Human Resources
- - [https://hr.vt.edu](https://hr.vt.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Hume Center Home
- - [https://hume.vt.edu](https://hume.vt.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Institute for Creativity, Arts, and Technology
- - [https://icat.vt.edu](https://icat.vt.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Jobs
- - [https://jobs.vt.edu](https://jobs.vt.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Index of /
- - [https://kiosk.lib.vt.edu](https://kiosk.lib.vt.edu)
- - date_published: 2024-07-09T16:34:49.516115+00:00
-
- ## Login | Virginia Tech
- - [http://leavereports.vt.edu](http://leavereports.vt.edu)
- - date_published: 2024-07-09T16:35:17.802335+00:00
-
- ## College of Liberal Arts and Human Sciences
- - [https://liberalarts.vt.edu](https://liberalarts.vt.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## University Libraries
- - [https://lib.vt.edu](https://lib.vt.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Virginia Tech Carilion School of Medicine
- - [https://medicine.vtc.vt.edu](https://medicine.vtc.vt.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home Page
- - [https://nationalsecurity.vt.edu](https://nationalsecurity.vt.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Virginia Tech News
- - [https://news.vt.edu](https://news.vt.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Home
- - [https://police.vt.edu](https://police.vt.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home Page | Virginia Tech Policies
- - [https://policies.vt.edu](https://policies.vt.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## VT Professional Development
- - [https://profdev.tlos.vt.edu](https://profdev.tlos.vt.edu)
- - date_published: 2024-07-09T16:34:32.849382+00:00
-
- ## Office of the Executive Vice President & Provost
- - [https://provost.vt.edu](https://provost.vt.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Recreational Sports
- - [https://recsports.vt.edu](https://recsports.vt.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Office of the University Registrar
- - [http://registrar.vt.edu](http://registrar.vt.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Virginia Tech SACSCOC Accreditation
- - [https://sacs.vt.edu](https://sacs.vt.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## SAFE at VT
- - [https://safe.vt.edu](https://safe.vt.edu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Sanghani Center for Artificial Intelligence and Data Analytics – The Sanghani Center for Artificial Intelligence and Data Analytics brings together computer scientists, engineers, and statisticians to meet the research and workforce needs of today’s data-driven society.
- - [https://sanghani.cs.vt.edu](https://sanghani.cs.vt.edu)
- - date_published: 2024-07-02T13:15:11.143328+00:00
-
- ## Virginia Tech Scholarly Communication University Libraries
- - [http://scholar.lib.vt.edu](http://scholar.lib.vt.edu)
- - date_published: 2024-03-29T15:12:35+00:00
-
- ## College of Science
- - [https://science.vt.edu](https://science.vt.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Virginia Tech - Video
- - [https://video.vt.edu](https://video.vt.edu)
- - date_published: 2024-06-16T16:09:30+00:00
-
- ## VPPG | Home
- - [https://vppg.vt.edu](https://vppg.vt.edu)
- - date_published: 2024-07-09T16:35:36.381792+00:00
-
- ## VTechWorks Repository :: Home
- - [https://vtechworks.lib.vt.edu](https://vtechworks.lib.vt.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home
- - [https://vt.edu](https://vt.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Virginia Tech News
- - [https://vtnews.vt.edu](https://vtnews.vt.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Virginia Tech News
- - [https://vtx.vt.edu](https://vtx.vt.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Banner Web Server
- - [https://webapps.banner.vt.edu](https://webapps.banner.vt.edu)
- - date_published: 2021-03-09T20:25:53+00:00
-
- ## Banner Web Server
- - [https://webapps.es.vt.edu](https://webapps.es.vt.edu)
- - date_published: 2021-03-09T20:17:10+00:00
-
- ## Department of Computer Science
- - [https://website.cs.vt.edu](https://website.cs.vt.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## We Remember
- - [https://weremember.vt.edu](https://weremember.vt.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Computer Science WordPress
- - [https://wordpress.cs.vt.edu](https://wordpress.cs.vt.edu)
- - date_published: 2024-06-22T07:31:50.448661+00:00
-
- ## Building Construction
- - [https://www.bc.vt.edu](https://www.bc.vt.edu)
- - date_published: 2024-06-11T11:54:28+00:00
-
- ## Home
- - [http://www.dlib.vt.edu](http://www.dlib.vt.edu)
- - date_published: 2024-04-18T00:40:29+00:00
-
- ## Global Change Center
- - [http://www.globalchange.vt.edu](http://www.globalchange.vt.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [http://www.hci.vt.edu](http://www.hci.vt.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## InclusiveVT
- - [https://www.inclusive.vt.edu](https://www.inclusive.vt.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Industrial and Systems Engineering
- - [https://www.ise.vt.edu](https://www.ise.vt.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Division of Information Technology
- - [http://www.it.vt.edu](http://www.it.vt.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [http://www.me.vt.edu](http://www.me.vt.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Events
- - [https://www.performingarts.vt.edu](https://www.performingarts.vt.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Department of Philosophy
- - [https://www.phil.vt.edu](https://www.phil.vt.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Home
- - [https://www.phys.vt.edu](https://www.phys.vt.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## School of Visual Arts
- - [https://www.sova.vt.edu](https://www.sova.vt.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## VT Center for Autism Research
- - [http://www.vtcar.science.vt.edu](http://www.vtcar.science.vt.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Vu.edu Link Shortener
- - [http://vu.edu](http://vu.edu)
- - date_published: 2024-02-29T16:58:13+00:00
-
- ## Wabash Center – Seeks to strengthen and enhance education in North American theological schools, colleges and universities.
- - [https://www.wabashcenter.wabash.edu](https://www.wabashcenter.wabash.edu)
- - date_published: 2024-07-08T18:37:32.902127+00:00
-
- ## Home
- - [https://giving.wakehealth.edu](https://giving.wakehealth.edu)
- - date_published: 2024-07-02T13:16:13.023653+00:00
-
- ## Lexington Medical Center | Lexington, NC
- - [http://lexington.wakehealth.edu](http://lexington.wakehealth.edu)
- - date_published: 2024-07-02T13:16:03.754796+00:00
-
- ## Newsroom | Atrium Health Wake Forest Baptist
- - [https://newsroom.wakehealth.edu](https://newsroom.wakehealth.edu)
- - date_published: 2023-10-25T19:05:55.541527+00:00
-
- ## Wake Forest University School of Medicine - Winston-Salem, NC
- - [https://school.wakehealth.edu](https://school.wakehealth.edu)
- - date_published: 2024-05-07T22:25:03.035962+00:00
-
- ## Home
- - [https://wakehealth.edu](https://wakehealth.edu)
- - date_published: 2024-05-07T22:24:58.168125+00:00
-
- ## Home
- - [https://www1.wakehealth.edu](https://www1.wakehealth.edu)
- - date_published: 2024-07-02T13:16:10.637936+00:00
-
- ## Quick Answers - Walden University
- - [https://academicanswers.waldenu.edu](https://academicanswers.waldenu.edu)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Academic Guides: Walden University Departments & Centers: Welcome
- - [https://academicguides.waldenu.edu](https://academicguides.waldenu.edu)
- - date_published: 2024-07-02T13:19:33.724564+00:00
-
- ## Academics: Student Catalog, Handbook, and University Guidebooks: Student Catalog, Student Handbook, and University Guidebooks
- - [https://academics.waldenu.edu](https://academics.waldenu.edu)
- - date_published: 2024-05-07T22:25:28.380986+00:00
-
- ## Alumni Home | Walden University
- - [https://alumni.waldenu.edu](https://alumni.waldenu.edu)
- - date_published: 2024-05-07T22:25:17.985798+00:00
-
- ## MyFaculty Portal
- - [https://faculty.waldenu.edu](https://faculty.waldenu.edu)
- - date_published: 2022-03-10T20:48:01+00:00
-
- ## Walden Homepage
- - [https://lifelonglearning.waldenu.edu](https://lifelonglearning.waldenu.edu)
- - date_published: 2024-07-02T13:19:31.790351+00:00
-
- ## Apply Now | Submit Your Application Online – Walden University
- - [https://myhomepage.waldenu.edu](https://myhomepage.waldenu.edu)
- - date_published: 2024-05-07T22:25:37.911881+00:00
-
- ## myWalden Student Portal
- - [https://my.waldenu.edu](https://my.waldenu.edu)
- - date_published: 2024-06-04T11:06:20+00:00
-
- ## ScholarWorks | Walden University Research
- - [https://scholarworks.waldenu.edu](https://scholarworks.waldenu.edu)
- - date_published: 2024-07-02T13:20:00.606521+00:00
-
- ## Accredited Online University
- - [https://waldenu.edu](https://waldenu.edu)
- - date_published: 2024-01-09T19:16:48.326131+00:00
-
- ## Wallace Community College - Dothan, Alabama
- - [https://www.wallace.edu](https://www.wallace.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Welcome to Walsh University
- - [http://www.walsh.edu](http://www.walsh.edu)
- - date_published: 2024-06-28T09:00:06+00:00
-
- ## UW Aeronautics and Astronautics Department
- - [https://aa.washington.edu](https://aa.washington.edu)
- - date_published: 2024-05-09T04:21:40.214179+00:00
-
- ## Applied and Computational Math Sciences Program (ACMS) | College of Arts and Sciences - University of Washington |
- - [https://acms.washington.edu](https://acms.washington.edu)
- - date_published: 2024-06-25T17:53:15+00:00
-
- ## Welcome
- - [https://admit.washington.edu](https://admit.washington.edu)
- - date_published: 2024-05-07T22:27:22.866171+00:00
-
- ## AGQA-Decomp
- - [https://agqa-decomp.cs.washington.edu](https://agqa-decomp.cs.washington.edu)
- - date_published: 2022-08-31T01:58:59+00:00
-
- ## AIMS Lab
- - [https://aims.cs.washington.edu](https://aims.cs.washington.edu)
- - date_published: 2024-08-06T20:41:57.617269+00:00
-
- ## https://www.ark.cs.washington.edu
- - [http://ark.cs.washington.edu](http://ark.cs.washington.edu)
- - date_published: 2021-06-10T22:26:26+00:00
-
- ## Animation Research Labs
- - [https://arl.cs.washington.edu](https://arl.cs.washington.edu)
- - date_published: 2024-05-25T00:10:29+00:00
-
- ## College of Arts & Sciences | University of Washington
- - [https://artsci.washington.edu](https://artsci.washington.edu)
- - date_published: 2024-06-29T21:13:11+00:00
-
- ## ArtsUW Events | Arts Events
- - [https://artsevents.washington.edu](https://artsevents.washington.edu)
- - date_published: 2024-07-02T13:43:32.234998+00:00
-
- ## Arts at the University of Washington | ArtsUW
- - [https://arts.washington.edu](https://arts.washington.edu)
- - date_published: 2024-05-07T22:26:47.220708+00:00
-
- ## Computational Neuroscience Center – University of Washington
- - [https://compneuro.washington.edu](https://compneuro.washington.edu)
- - date_published: 2024-09-04T19:14:18.553629+00:00
-
- ## Department of Communication
- - [https://com.washington.edu](https://com.washington.edu)
- - date_published: 2024-04-30T05:44:47.988190+00:00
-
- ## ::: University of Washington Libraries Digital Collections :::
- - [https://content.lib.washington.edu](https://content.lib.washington.edu)
- - date_published: 2024-07-02T13:49:02.756489+00:00
-
- ## courses.cs.washington.edu
- - [https://courses.cs.washington.edu](https://courses.cs.washington.edu)
- - date_published: 2013-08-16T21:59:17+00:00
-
- ## UW Courses Web Server
- - [https://courses.washington.edu](https://courses.washington.edu)
- - date_published: 2024-08-19T08:23:55.362447+00:00
-
- ## CREATE
- - [https://create.washington.edu](https://create.washington.edu)
- - date_published: 2024-07-02T13:32:21.765628+00:00
-
- ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
- - [https://cs.washington.edu](https://cs.washington.edu)
- - date_published: 2024-05-07T22:26:19.017761+00:00
-
- ## Dada
- - [https://dada.cs.washington.edu](https://dada.cs.washington.edu)
- - date_published: 2024-08-13T22:22:01+00:00
-
- ## Home
- - [https://db.cs.washington.edu](https://db.cs.washington.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## UW Departments Web Server
- - [https://depts.washington.edu](https://depts.washington.edu)
- - date_published: 2023-11-13T19:09:28.425970+00:00
-
- ## ::: University of Washington Libraries Digital Collections :::
- - [https://digitalcollections.lib.washington.edu](https://digitalcollections.lib.washington.edu)
- - date_published: 2024-07-13T11:27:19.192813+00:00
-
- ## UW DNA Sequencing Security Study
- - [https://dnasec.cs.washington.edu](https://dnasec.cs.washington.edu)
- - date_published: 2022-04-08T03:58:50+00:00
-
- ## HCI & Design at the University of Washington
- - [https://dub.washington.edu](https://dub.washington.edu)
- - date_published: 2024-05-07T22:26:37.313431+00:00
-
- ## eScience Institute – Advancing data-intensive discovery in all fields
- - [https://escience.washington.edu](https://escience.washington.edu)
- - date_published: 2024-05-07T22:26:02.346351+00:00
-
- ## Animating Pictures with Eulerian Motion Fields
- - [https://eulerian.cs.washington.edu](https://eulerian.cs.washington.edu)
- - date_published: 2023-01-03T20:06:37+00:00
-
- ## Felsenstein/Kuhner lab
- - [http://evolution.genetics.washington.edu](http://evolution.genetics.washington.edu)
- - date_published: 2023-10-06T20:55:51+00:00
-
- ## UW Faculty Web Server
- - [https://faculty.washington.edu](https://faculty.washington.edu)
- - date_published: 2023-10-25T19:05:59.829333+00:00
-
- ## GRAIL: UW Graphics and Imaging Laboratory
- - [https://grail.cs.washington.edu](https://grail.cs.washington.edu)
- - date_published: 2024-04-28T03:46:08.109811+00:00
-
- ## Human Centered Design & Engineering
- - [https://hcde.washington.edu](https://hcde.washington.edu)
- - date_published: 2024-06-21T10:05:36.880404+00:00
-
- ## homes.cs.washington.edu
- - [https://homes.cs.washington.edu](https://homes.cs.washington.edu)
- - date_published: 2013-02-19T15:20:04+00:00
-
- ## UW Interactive Data Lab
- - [https://idl.cs.washington.edu](https://idl.cs.washington.edu)
- - date_published: 2023-10-26T06:39:53.394657+00:00
-
- ## UW Industrial & Systems Engineering | University of Washington
- - [http://ise.washington.edu](http://ise.washington.edu)
- - date_published: 2024-09-18T19:13:05.529006+00:00
-
- ## ResearchWorks Journal Hosting
- - [https://journals.lib.washington.edu](https://journals.lib.washington.edu)
- - date_published: 2024-06-24T10:35:05.630438+00:00
-
- ## The Henry M. Jackson School of International Studies
- - [https://jsis.washington.edu](https://jsis.washington.edu)
- - date_published: 2024-10-18T21:43:42.208391+00:00
-
- ## University of Washington Libraries
- - [https://lib.washington.edu](https://lib.washington.edu)
- - date_published: 2024-07-02T13:46:45.080973+00:00
-
- ## Home | Department of Linguistics | University of Washington
- - [https://linguistics.washington.edu](https://linguistics.washington.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## UW Magazine — University of Washington Magazine
- - [https://magazine.washington.edu](https://magazine.washington.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## UW Mailman Listserver - Gateway
- - [https://mailman11.u.washington.edu](https://mailman11.u.washington.edu)
- - date_published: 2015-03-10T22:37:22+00:00
-
- ## Makeability Lab Website
- - [https://makeabilitylab.cs.washington.edu](https://makeabilitylab.cs.washington.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## MHCI+D – Human-Computer Interaction + Design at University of Washington
- - [https://mhcid.washington.edu](https://mhcid.washington.edu)
- - date_published: 2024-07-02T13:32:49.847052+00:00
-
- ## CSE Web Login - Loading Session Information
- - [http://mycse.cs.washington.edu](http://mycse.cs.washington.edu)
- - date_published: 2024-07-02T13:34:04.041178+00:00
-
- ## My UW Giving > Welcome
- - [https://myuwgiving.gifts.washington.edu](https://myuwgiving.gifts.washington.edu)
- - date_published: 2024-05-07T22:27:17.131297+00:00
-
- ## UW NetID sign-in
- - [https://myuw.washington.edu](https://myuw.washington.edu)
- - date_published: 2024-05-07T22:25:46.966494+00:00
-
- ## Allen School News
- - [https://news.cs.washington.edu](https://news.cs.washington.edu)
- - date_published: 2024-04-28T05:52:24.341855+00:00
-
- ## Natural Language Processing
- - [https://nlp.cs.washington.edu](https://nlp.cs.washington.edu)
- - date_published: 2024-08-07T17:44:19.543993+00:00
-
- ## Natural Language Processing
- - [https://nlp.washington.edu](https://nlp.washington.edu)
- - date_published: 2024-08-06T20:50:42.713621+00:00
-
- ## CSE Web Login - Loading Session Information
- - [https://norfolk.cs.washington.edu](https://norfolk.cs.washington.edu)
- - date_published: 2024-07-02T13:34:06.049781+00:00
-
- ## Support the University of Washington
- - [https://online.gifts.washington.edu](https://online.gifts.washington.edu)
- - date_published: 2024-07-26T23:58:00.401656+00:00
-
- ## Photo Tourism
- - [http://phototour.cs.washington.edu](http://phototour.cs.washington.edu)
- - date_published: 2012-05-28T22:04:56+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [http://projectsweb.cs.washington.edu](http://projectsweb.cs.washington.edu)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Polar Science Center
- - [http://psc.apl.washington.edu](http://psc.apl.washington.edu)
- - date_published: 2024-06-30T06:32:48.113221+00:00
-
- ## UW Radiology
- - [https://rad.washington.edu](https://rad.washington.edu)
- - date_published: 2023-08-14T16:01:21+00:00
-
- ## UW RAIVN Lab
- - [https://raivn.cs.washington.edu](https://raivn.cs.washington.edu)
- - date_published: 2024-07-17T20:40:02+00:00
-
- ## Office of the University Registrar - Office of the University Registrar
- - [https://registrar.washington.edu](https://registrar.washington.edu)
- - date_published: 2024-05-07T22:27:57.277578+00:00
-
- ## Research at the UW
- - [https://research.washington.edu](https://research.washington.edu)
- - date_published: 2024-10-21T06:02:31.354666+00:00
-
- ## Robotics | Computer Science & Engineering
- - [https://robotics.cs.washington.edu](https://robotics.cs.washington.edu)
- - date_published: 2024-06-21T11:11:51+00:00
-
- ## David Salesin
- - [http://salesin.cs.washington.edu](http://salesin.cs.washington.edu)
- - date_published: 2009-12-24T19:43:02+00:00
-
- ## Sampa: Home
- - [https://sampa.cs.washington.edu](https://sampa.cs.washington.edu)
- - date_published: 2019-12-03T00:00:00+00:00
 

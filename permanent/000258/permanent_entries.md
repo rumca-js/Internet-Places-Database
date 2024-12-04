@@ -1,3 +1,756 @@
+ ## IIS Windows Server
+ - [https://pacs.buffalo.edu](https://pacs.buffalo.edu)
+ - date_published: 2021-02-16T15:27:23+00:00
+
+ ## UB School of Pharmacy and Pharmaceutical Sciences
+ - [https://pharmacy.buffalo.edu](https://pharmacy.buffalo.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Interdivisional Marketing and Communications
+ - [https://prv-rhm.sens.buffalo.edu](https://prv-rhm.sens.buffalo.edu)
+ - date_published: 2020-03-16T15:13:56+00:00
+
+ ## School of Public Health and Health Professions
+ - [https://publichealth.buffalo.edu](https://publichealth.buffalo.edu)
+ - date_published: 2024-04-30T03:31:24.441502+00:00
+
+ ## UB Office of the Registrar
+ - [https://registrar.buffalo.edu](https://registrar.buffalo.edu)
+ - date_published: 2024-04-30T03:31:06.394801+00:00
+
+ ## Research and Economic Development
+ - [https://research.buffalo.edu](https://research.buffalo.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Research Guides
+ - [https://research.lib.buffalo.edu](https://research.lib.buffalo.edu)
+ - date_published: 2024-07-22T07:13:13.422146+00:00
+
+ ## Search - University at Buffalo
+ - [https://search.buffalo.edu](https://search.buffalo.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## University at Buffalo School of Social Work
+ - [https://socialwork.buffalo.edu](https://socialwork.buffalo.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Tesserae
+ - [http://tesserae.caset.buffalo.edu](http://tesserae.caset.buffalo.edu)
+ - date_published: 2021-11-08T18:39:29+00:00
+
+ ## Computer Science [ and Engineering ] Timeline
+ - [https://timeline.cse.buffalo.edu](https://timeline.cse.buffalo.edu)
+ - date_published: 2022-01-28T21:26:15+00:00
+
+ ## TPDP - redirecting
+ - [https://tpdp.cse.buffalo.edu](https://tpdp.cse.buffalo.edu)
+ - date_published: 2020-01-28T20:16:48+00:00
+
+ ## AEM Sign In
+ - [https://ubcms-author.buffalo.edu](https://ubcms-author.buffalo.edu)
+ - date_published: 2024-08-11T09:59:02.645351+00:00
+
+ ## Undergraduate Admissions at the University at Buffalo, The State University of New York
+ - [https://ubconnect.buffalo.edu](https://ubconnect.buffalo.edu)
+ - date_published: 2024-07-22T07:20:06.242889+00:00
+
+ ## Login - University at Buffalo
+ - [https://ublearns.buffalo.edu](https://ublearns.buffalo.edu)
+ - date_published: 2024-07-22T07:18:41.563487+00:00
+
+ ## School of Management
+ - [https://ubmgtconnect.buffalo.edu](https://ubmgtconnect.buffalo.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## University at Buffalo SMBS - SMBS Home
+ - [https://ubmm.med.buffalo.edu](https://ubmm.med.buffalo.edu)
+ - date_published: 2024-08-08T23:41:57.515844+00:00
+
+ ## School of Engineering and Applied Sciences
+ - [https://ubseasconnect.buffalo.edu](https://ubseasconnect.buffalo.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## UB WordPress
+ - [http://ubwp.buffalo.edu](http://ubwp.buffalo.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Undergraduate Education
+ - [https://undergrad.buffalo.edu](https://undergrad.buffalo.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## University at Buffalo
+ - [http://wings.buffalo.edu](http://wings.buffalo.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## CASet :: University at Buffalo ::
+ - [https://www.caset.buffalo.edu](https://www.caset.buffalo.edu)
+ - date_published: 2024-08-06T17:28:56.783135+00:00
+
+ ## Department of Chemical and Biological Engineering
+ - [http://www.cbe.buffalo.edu](http://www.cbe.buffalo.edu)
+ - date_published: 2024-08-09T20:08:48+00:00
+
+ ## Home
+ - [https://www.sa.buffalo.edu](https://www.sa.buffalo.edu)
+ - date_published: 2015-01-22T07:12:35+00:00
+
+ ## University at Buffalo School of Social Work
+ - [http://www.social-work.buffalo.edu](http://www.social-work.buffalo.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## University at Buffalo Portal | Home
+ - [https://www.ubjobs.buffalo.edu](https://www.ubjobs.buffalo.edu)
+ - date_published: 2024-04-30T03:29:59.258733+00:00
+
+ ## SUNY Buffalo State University
+ - [https://suny.buffalostate.edu](https://suny.buffalostate.edu)
+ - date_published: 2024-10-25T20:48:43+00:00
+
+ ## Butler University
+ - [https://butler.edu](https://butler.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Digital Commons @ Butler University | Butler University Research
+ - [https://digitalcommons.butler.edu](https://digitalcommons.butler.edu)
+ - date_published: 2024-08-08T22:56:02.506228+00:00
+
+ ## Butler University
+ - [https://give.butler.edu](https://give.butler.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Baldwin Wallace University
+ - [http://www.bw.edu](http://www.bw.edu)
+ - date_published: 2024-06-28T14:35:19.701506+00:00
+
+ ## Home - Academic Calendar
+ - [https://academiccalendar.byu.edu](https://academiccalendar.byu.edu)
+ - date_published: 2024-05-12T07:42:27.974659+00:00
+
+ ## Account Creation
+ - [https://accountcreation.byu.edu](https://accountcreation.byu.edu)
+ - date_published: 2024-07-16T21:01:30+00:00
+
+ ## Account Creation
+ - [https://accountcreation-dev.byu.edu](https://accountcreation-dev.byu.edu)
+ - date_published: 2024-07-16T20:44:42+00:00
+
+ ## Password Reset & Account Recovery
+ - [https://accountrecovery.byu.edu](https://accountrecovery.byu.edu)
+ - date_published: 2024-06-20T16:44:03+00:00
+
+ ## Password Reset & Account Recovery
+ - [https://accountrecovery-dev.byu.edu](https://accountrecovery-dev.byu.edu)
+ - date_published: 2024-07-01T08:08:55+00:00
+
+ ## Home - ACME
+ - [https://acme.byu.edu](https://acme.byu.edu)
+ - date_published: 2024-09-18T23:38:13.289757+00:00
+
+ ## Adobe
+ - [https://adobe.byu.edu](https://adobe.byu.edu)
+ - date_published: 2024-07-17T03:06:06.213291+00:00
+
+ ## Home
+ - [https://advisement.byu.edu](https://advisement.byu.edu)
+ - date_published: 2024-07-17T03:08:21.044507+00:00
+
+ ## Aims Home
+ - [https://aims.byu.edu](https://aims.byu.edu)
+ - date_published: 2024-04-30T03:32:15.141700+00:00
+
+ ## BYU | Email Alias Manager
+ - [https://alias.byu.edu](https://alias.byu.edu)
+ - date_published: 2024-07-17T03:06:09.138839+00:00
+
+ ## Home page
+ - [https://alumni.byu.edu](https://alumni.byu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Homepage
+ - [https://alumnicareers.byu.edu](https://alumnicareers.byu.edu)
+ - date_published: 2024-08-11T11:23:05.434719+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://alumnitools.byu.edu](https://alumnitools.byu.edu)
+ - date_published: 2024-08-11T11:23:17.311725+00:00
+
+ ## Apply Now!
+ - [http://apply.byu.edu](http://apply.byu.edu)
+ - date_published: 2024-07-17T03:13:54.423834+00:00
+
+ ## Events & Tickets - BYU Arts
+ - [http://arts.byu.edu](http://arts.byu.edu)
+ - date_published: 2024-07-17T03:07:10.352435+00:00
+
+ ## ASO Homepage
+ - [https://aso.byu.edu](https://aso.byu.edu)
+ - date_published: 2024-07-17T03:20:26.844915+00:00
+
+ ## Home
+ - [https://aspengrove.byu.edu](https://aspengrove.byu.edu)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Ballard Brief
+ - [https://ballardbrief.byu.edu](https://ballardbrief.byu.edu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## BYU Belonging Homepage
+ - [https://belonging.byu.edu](https://belonging.byu.edu)
+ - date_published: 2024-05-12T07:42:47.995708+00:00
+
+ ## Be Safe
+ - [https://besafe.byu.edu](https://besafe.byu.edu)
+ - date_published: 2024-07-17T03:05:47.019601+00:00
+
+ ## Biology Home
+ - [https://biology.byu.edu](https://biology.byu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Box
+ - [https://box.byu.edu](https://box.byu.edu)
+ - date_published: 2024-07-17T03:06:19.588590+00:00
+
+ ## Home - Brand
+ - [https://brand.byu.edu](https://brand.byu.edu)
+ - date_published: 2024-07-17T03:12:17.590315+00:00
+
+ ## Login | CMS | Brigham Young University
+ - [https://brightspot.byu.edu](https://brightspot.byu.edu)
+ - date_published: 2024-04-30T03:32:11.176777+00:00
+
+ ## Home - BYU
+ - [http://byu.edu](http://byu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['brigham young university']
+
+ ## BYU Journeys
+ - [https://byujourneys.byu.edu](https://byujourneys.byu.edu)
+ - date_published: 2024-07-16T22:49:38.438696+00:00
+
+ ## About BYUSA
+ - [https://byusa.byu.edu](https://byusa.byu.edu)
+ - date_published: 2024-07-17T03:07:17.904048+00:00
+
+ ## BYU Studies
+ - [https://byustudies.byu.edu](https://byustudies.byu.edu)
+ - date_published: 2024-07-09T19:24:38+00:00
+
+ ## BYU Events Calendar
+ - [https://calendar.byu.edu](https://calendar.byu.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Counseling and Psychological Services Homepage
+ - [https://caps.byu.edu](https://caps.byu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home
+ - [https://careers.byu.edu](https://careers.byu.edu)
+ - date_published: 2024-07-20T22:24:26.833690+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://cas.byu.edu](https://cas.byu.edu)
+ - date_published: 2024-07-17T03:09:21.656635+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://cas-dev.byu.edu](https://cas-dev.byu.edu)
+ - date_published: 2024-07-17T03:09:30.956383+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://cas-stg.byu.edu](https://cas-stg.byu.edu)
+ - date_published: 2024-07-17T03:09:28.611764+00:00
+
+ ## Home
+ - [https://ccc.byu.edu](https://ccc.byu.edu)
+ - date_published: 2024-07-20T22:24:22.654486+00:00
+
+ ## Cell Biology & Physiology
+ - [https://cell.byu.edu](https://cell.byu.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Cloud Apps
+ - [https://cloudapps.byu.edu](https://cloudapps.byu.edu)
+ - date_published: 2024-07-17T03:06:13.978749+00:00
+
+ ## Integrity and Compliance
+ - [https://compliance.byu.edu](https://compliance.byu.edu)
+ - date_published: 2024-07-17T03:09:04.250869+00:00
+
+ ## English Corpora: most widely used online corpora. Billions of words of data: free online access
+ - [https://corpus.byu.edu](https://corpus.byu.edu)
+ - date_published: 2024-07-01T14:46:51.645274+00:00
+
+ ## Home
+ - [https://cougarcash.byu.edu](https://cougarcash.byu.edu)
+ - date_published: 2024-07-22T07:13:03.067198+00:00
+
+ ## Home - Computing, Math, and Science
+ - [https://cpms.byu.edu](https://cpms.byu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## BYU | Design Exploration
+ - [http://design.byu.edu](http://design.byu.edu)
+ - date_published: 2024-07-01T19:50:16.690428+00:00
+
+ ## BYU Developer Portal | Home - Developer
+ - [https://developer.byu.edu](https://developer.byu.edu)
+ - date_published: 2024-07-17T03:06:02.917658+00:00
+
+ ## DNA Sequencing Center
+ - [http://dnasc.byu.edu](http://dnasc.byu.edu)
+ - date_published: 2024-08-06T17:56:15.488719+00:00
+
+ ## HOME - Duo Universal Prompt
+ - [https://duo.byu.edu](https://duo.byu.edu)
+ - date_published: 2024-07-17T03:06:16.725920+00:00
+
+ ## Environmental Analytical Lab
+ - [https://eal.byu.edu](https://eal.byu.edu)
+ - date_published: 2024-04-30T03:32:23.525414+00:00
+
+ ## ECE Home
+ - [https://ece.byu.edu](https://ece.byu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## BYU Math EMC2
+ - [https://emc2.byu.edu](https://emc2.byu.edu)
+ - date_published: 2024-06-06T21:04:09+00:00
+
+ ## Transfer Guides | BYU Registrar
+ - [https://enrollment2.byu.edu](https://enrollment2.byu.edu)
+ - date_published: 2024-02-08T22:50:58.318148+00:00
+
+ ## Enrollment Services Homepage
+ - [https://enrollment.byu.edu](https://enrollment.byu.edu)
+ - date_published: 2024-04-30T03:31:51.164277+00:00
+
+ ## Exercise Sciences Homepage
+ - [https://exsc.byu.edu](https://exsc.byu.edu)
+ - date_published: 2024-08-06T17:56:26.371680+00:00
+
+ ## Home
+ - [https://familyhistory.lib.byu.edu](https://familyhistory.lib.byu.edu)
+ - date_published: 2024-07-17T03:08:37.588249+00:00
+
+ ## Records Privacy (FERPA)
+ - [http://ferpa.byu.edu](http://ferpa.byu.edu)
+ - date_published: 2024-08-19T19:23:49.599145+00:00
+
+ ## Financial Aid
+ - [https://financialaid.byu.edu](https://financialaid.byu.edu)
+ - date_published: 2024-07-22T07:11:44.770777+00:00
+
+ ## Floor Maps | HBLL
+ - [https://floormaps.lib.byu.edu](https://floormaps.lib.byu.edu)
+ - date_published: 2024-06-28T18:02:20+00:00
+
+ ## go.byu.edu
+ - [https://go.byu.edu](https://go.byu.edu)
+ - date_published: 2024-07-17T03:05:56.750959+00:00
+
+ ## BYU | Graduate Studies - Graduate Progress
+ - [https://gradprogress.sim.byu.edu](https://gradprogress.sim.byu.edu)
+ - date_published: 2024-07-22T07:11:39.447576+00:00
+
+ ## Graduate Studies Home
+ - [https://gradstudies.byu.edu](https://gradstudies.byu.edu)
+ - date_published: 2024-06-07T07:44:40.750323+00:00
+
+ ## Health Home
+ - [http://health.byu.edu](http://health.byu.edu)
+ - date_published: 2024-07-20T22:24:20.116218+00:00
+
+ ## Home
+ - [https://help.byu.edu](https://help.byu.edu)
+ - date_published: 2024-05-12T07:41:49.176454+00:00
+
+ ## Homecoming Homepage
+ - [http://homecoming.byu.edu](http://homecoming.byu.edu)
+ - date_published: 2024-08-11T11:22:52.913684+00:00
+
+ ## Home page
+ - [https://hrs.byu.edu](https://hrs.byu.edu)
+ - date_published: 2024-07-17T03:10:19.170861+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://hrswebapps.byu.edu](https://hrswebapps.byu.edu)
+ - date_published: 2012-02-07T14:47:02+00:00
+
+ ## BYU College of Humanities
+ - [https://hum.byu.edu](https://hum.byu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## BYU Account Terms of Use
+ - [http://iam-policy.byu.edu](http://iam-policy.byu.edu)
+ - date_published: 2024-07-17T03:09:34.165721+00:00
+
+ ## BYU Info
+ - [https://info.byu.edu](https://info.byu.edu)
+ - date_published: 2024-05-12T07:42:32.900711+00:00
+
+ ## Login - InfoHub
+ - [https://infohub.byu.edu](https://infohub.byu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## BYU Information Security and Privacy
+ - [https://infosec.byu.edu](https://infosec.byu.edu)
+ - date_published: 2024-04-30T03:32:18.833971+00:00
+
+ ## Accredited Online Courses | BYU Independent Study
+ - [https://is.byu.edu](https://is.byu.edu)
+ - date_published: 2024-07-17T03:22:59.934311+00:00
+
+ ## BYU Office of Information Technology
+ - [https://it.byu.edu](https://it.byu.edu)
+ - date_published: 2024-07-22T07:12:13.577183+00:00
+
+ ## Home
+ - [https://itsurplus.byu.edu](https://itsurplus.byu.edu)
+ - date_published: 2024-07-17T03:06:04.815161+00:00
+
+ ## CAS – Central Authentication Service
+ - [http://jobs.byu.edu](http://jobs.byu.edu)
+ - date_published: 2024-07-17T03:10:17.138281+00:00
+
+ ## BYU Law & Corpus Linguistics
+ - [https://lawcorpus.byu.edu](https://lawcorpus.byu.edu)
+ - date_published: 2024-07-02T09:20:19.082849+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://learningsuite.byu.edu](https://learningsuite.byu.edu)
+ - date_published: 2024-05-12T07:42:04.499155+00:00
+
+ ## Harold B. Lee Library
+ - [https://lib.byu.edu](https://lib.byu.edu)
+ - date_published: 2024-05-12T07:41:58.712488+00:00
+
+ ## Homepage
+ - [https://licensing.byu.edu](https://licensing.byu.edu)
+ - date_published: 2024-07-17T03:11:19.495150+00:00
+
+ ## Life Sciences Homepage  - BYU Life Sciences
+ - [https://lifesciences.byu.edu](https://lifesciences.byu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Life Sciences Advisement
+ - [http://lsa.byu.edu](http://lsa.byu.edu)
+ - date_published: 2024-08-06T17:56:29.563162+00:00
+
+ ## Home | Life Sciences College Undergraduate Research Award
+ - [https://lscura.byu.edu](https://lscura.byu.edu)
+ - date_published: 2024-08-06T17:56:13.329293+00:00
+
+ ## LSIT Homepage
+ - [https://lsit.byu.edu](https://lsit.byu.edu)
+ - date_published: 2024-08-06T17:56:21.521024+00:00
+
+ ## Home
+ - [https://lsm.byu.edu](https://lsm.byu.edu)
+ - date_published: 2024-08-06T17:56:17.398458+00:00
+
+ ## Life Sciences Scheduling
+ - [https://lsscheduler.byu.edu](https://lsscheduler.byu.edu)
+ - date_published: 2024-04-30T03:32:25.048301+00:00
+
+ ## LSScholarships
+ - [https://lsscholarships.byu.edu](https://lsscholarships.byu.edu)
+ - date_published: 2024-08-06T17:56:41.797488+00:00
+
+ ## Life Sciences Travel Grants
+ - [https://lstgrants.byu.edu](https://lstgrants.byu.edu)
+ - date_published: 2024-08-06T17:56:11.668229+00:00
+
+ ## Y Magazine
+ - [https://magazine.byu.edu](https://magazine.byu.edu)
+ - date_published: 2024-08-11T11:23:12.044845+00:00
+
+ ## Campus Map
+ - [http://map.byu.edu](http://map.byu.edu)
+ - date_published: 2024-07-11T17:36:18+00:00
+
+ ## Home Page — BYU Marriott
+ - [https://marriott.byu.edu](https://marriott.byu.edu)
+ - date_published: 2024-10-11T22:13:15+00:00
+
+ ## Home Page — BYU Marriott
+ - [https://marriottschool.byu.edu](https://marriottschool.byu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## BYU Physics and Astronomy Weather Station
+ - [https://marvin.byu.edu](https://marvin.byu.edu)
+ - date_published: 2024-06-22T12:05:24.567562+00:00
+
+ ## Math Home
+ - [https://math.byu.edu](https://math.byu.edu)
+ - date_published: 2024-07-01T22:54:47.657666+00:00
+
+ ## Math Home
+ - [https://mathdept.byu.edu](https://mathdept.byu.edu)
+ - date_published: 2024-07-01T22:54:53.988606+00:00
+
+ ## Mechanical Engineering Home
+ - [https://me.byu.edu](https://me.byu.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## CAS – Central Authentication Service
+ - [http://mfc.byu.edu](http://mfc.byu.edu)
+ - date_published: 2024-07-17T03:13:50.657463+00:00
+
+ ## Home -  BYU Electron Microscopy Facility
+ - [http://microscopy.byu.edu](http://microscopy.byu.edu)
+ - date_published: 2024-08-06T17:56:31.499193+00:00
+
+ ## Microsoft 365
+ - [https://microsoft.byu.edu](https://microsoft.byu.edu)
+ - date_published: 2024-07-17T03:06:56.078155+00:00
+
+ ## Home
+ - [https://mlbean.byu.edu](https://mlbean.byu.edu)
+ - date_published: 2024-08-06T17:56:09.160962+00:00
+
+ ## Microbiology & Molecular Biology Homepage
+ - [https://mmbio.byu.edu](https://mmbio.byu.edu)
+ - date_published: 2024-08-06T17:56:33.337947+00:00
+
+ ## My Account
+ - [https://myaccount-dev.byu.edu](https://myaccount-dev.byu.edu)
+ - date_published: 2024-07-03T16:33:59+00:00
+
+ ## CAS – Central Authentication Service
+ - [http://myaid.byu.edu](http://myaid.byu.edu)
+ - date_published: 2024-07-17T03:13:58.445518+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://my.byu.edu](https://my.byu.edu)
+ - date_published: 2024-05-12T07:42:10.124694+00:00
+
+ ## CAS – Central Authentication Service
+ - [http://mymap.byu.edu](http://mymap.byu.edu)
+ - date_published: 2024-07-17T03:14:04.380355+00:00
+
+ ## Nutrition, Dietetics, & Food Science
+ - [https://ndfs.byu.edu](https://ndfs.byu.edu)
+ - date_published: 2024-08-06T17:56:37.609297+00:00
+
+ ## Home
+ - [http://neuroscience.byu.edu](http://neuroscience.byu.edu)
+ - date_published: 2024-08-06T17:56:23.773765+00:00
+
+ ## News Homepage - BYU News
+ - [https://news.byu.edu](https://news.byu.edu)
+ - date_published: 2023-10-25T18:48:47.775303+00:00
+
+ ## Library News
+ - [https://news.lib.byu.edu](https://news.lib.byu.edu)
+ - date_published: 2024-07-17T03:08:40.950733+00:00
+
+ ## BYU Office of Information Technology
+ - [https://oit.byu.edu](https://oit.byu.edu)
+ - date_published: 2024-05-12T07:41:46.993026+00:00
+
+ ## OIT Careers
+ - [https://oitcareers.byu.edu](https://oitcareers.byu.edu)
+ - date_published: 2024-07-17T03:06:38.291239+00:00
+
+ ## Optics Education Home
+ - [https://optics.byu.edu](https://optics.byu.edu)
+ - date_published: 2024-06-22T12:05:35.394243+00:00
+
+ ## The Pendulum Court Cafe
+ - [http://pencourt.byu.edu](http://pencourt.byu.edu)
+ - date_published: 2024-08-06T17:56:06.906589+00:00
+
+ ## Public Health Homepage
+ - [https://ph.byu.edu](https://ph.byu.edu)
+ - date_published: 2024-08-06T17:56:46.516624+00:00
+
+ ## Physics and Astronomy
+ - [https://physics.byu.edu](https://physics.byu.edu)
+ - date_published: 2024-05-04T15:44:53.441974+00:00
+
+ ## Home
+ - [https://planetarium.byu.edu](https://planetarium.byu.edu)
+ - date_published: 2024-06-22T12:05:33.786604+00:00
+
+ ## BYU Police Home
+ - [https://police.byu.edu](https://police.byu.edu)
+ - date_published: 2024-05-12T07:42:01.302959+00:00
+
+ ## University Policies
+ - [https://policy.byu.edu](https://policy.byu.edu)
+ - date_published: 2024-07-17T03:09:06.540763+00:00
+
+ ## Pre-Professional Advisement Home
+ - [https://ppa.byu.edu](https://ppa.byu.edu)
+ - date_published: 2024-07-17T03:20:29.302427+00:00
+
+ ## BiographyHome
+ - [https://president.byu.edu](https://president.byu.edu)
+ - date_published: 2024-07-17T03:25:38.366436+00:00
+
+ ## BYU Print & Mail
+ - [http://printandmail.byu.edu](http://printandmail.byu.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## BYU Pharos Print Drivers
+ - [https://print-drivers.byu.edu](https://print-drivers.byu.edu)
+ - date_published: 2020-12-15T17:01:01+00:00
+
+ ## Privacy Notice
+ - [https://privacy.byu.edu](https://privacy.byu.edu)
+ - date_published: 2022-02-01T00:00:00+00:00
+
+ ## Plant & Wildlife Sciences Homepage
+ - [https://pws.byu.edu](https://pws.byu.edu)
+ - date_published: 2023-10-25T18:49:07.807137+00:00
+
+ ## Registrar's Office
+ - [http://registrar.byu.edu](http://registrar.byu.edu)
+ - date_published: 2024-07-20T22:24:31.963385+00:00
+
+ ## Religious Education
+ - [https://religion.byu.edu](https://religion.byu.edu)
+ - date_published: 2024-05-12T07:24:56.631815+00:00
+
+ ## Religious Outreach
+ - [https://religiousoutreach.byu.edu](https://religiousoutreach.byu.edu)
+ - date_published: 2024-07-16T22:49:32.366066+00:00
+
+ ## Home page - BYU Research Development
+ - [http://researchdevelopment.byu.edu](http://researchdevelopment.byu.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home
+ - [https://reu.byu.edu](https://reu.byu.edu)
+ - date_published: 2024-06-22T12:05:30.134922+00:00
+
+ ## Silva Rhetoricae: The Forest of Rhetoric
+ - [http://rhetoric.byu.edu](http://rhetoric.byu.edu)
+ - date_published: 2015-10-09T21:18:12+00:00
+
+ ## Ric Facility Homepage - RIC Facility
+ - [http://ricfacility.byu.edu](http://ricfacility.byu.edu)
+ - date_published: 2024-08-06T17:56:51.552556+00:00
+
+ ## Home | Religious Studies Center
+ - [https://rsc.byu.edu](https://rsc.byu.edu)
+ - date_published: 2024-04-05T18:54:43.590471+00:00
+
+ ## CAS – Central Authentication Service
+ - [http://saasta.byu.edu](http://saasta.byu.edu)
+ - date_published: 2024-07-17T03:23:05.649019+00:00
+
+ ## Homepage
+ - [https://sallc.byu.edu](https://sallc.byu.edu)
+ - date_published: 2024-07-17T03:11:21.389761+00:00
+
+ ## BYU ScholarsArchive
+ - [https://scholarsarchive.byu.edu](https://scholarsarchive.byu.edu)
+ - date_published: 2024-10-14T23:11:02.754927+00:00
+
+ ## Home - Computing, Math, and Science
+ - [https://science.byu.edu](https://science.byu.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Logging In...
+ - [https://sciencesupport.byu.edu](https://sciencesupport.byu.edu)
+ - date_published: 2024-08-06T17:56:34.946167+00:00
+
+ ## Home
+ - [https://sds.byu.edu](https://sds.byu.edu)
+ - date_published: 2024-05-12T07:42:30.449439+00:00
+
+ ## BYU Security Home
+ - [https://security.byu.edu](https://security.byu.edu)
+ - date_published: 2024-07-17T03:09:08.595347+00:00
+
+ ## Security Portal
+ - [https://securityportal.byu.edu](https://securityportal.byu.edu)
+ - date_published: 2024-06-24T19:40:06+00:00
+
+ ## Apache Tomcat/10.1.19
+ - [https://shib.byu.edu](https://shib.byu.edu)
+ - date_published: 2024-07-22T07:12:40.450641+00:00
+
+ ## BYU Websites Home - BYU Brightspot |
+ - [https://sites.byu.edu](https://sites.byu.edu)
+ - date_published: 2024-07-17T03:06:22.408386+00:00
+
+ ## Software Support Home
+ - [https://softwaresupport.byu.edu](https://softwaresupport.byu.edu)
+ - date_published: 2024-07-17T03:06:43.051497+00:00
+
+ ## BYU Speeches
+ - [https://speeches.byu.edu](https://speeches.byu.edu)
+ - date_published: 2024-08-11T11:22:53+00:00
+
+ ## System Status - Technology Support Portal
+ - [https://status.byu.edu](https://status.byu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Student Alumni Home
+ - [https://studentalumni.byu.edu](https://studentalumni.byu.edu)
+ - date_published: 2024-08-11T11:22:50.597501+00:00
+
+ ## IT Home - Technology Support Portal
+ - [https://support.byu.edu](https://support.byu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Teaching at BYU homepage
+ - [https://teachanywhere.byu.edu](https://teachanywhere.byu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Microsoft Teams
+ - [https://teams.byu.edu](https://teams.byu.edu)
+ - date_published: 2024-07-17T03:06:28.144514+00:00
+
+ ## BYU Tickets Home
+ - [https://tickets.byu.edu](https://tickets.byu.edu)
+ - date_published: 2024-07-17T03:11:25.247383+00:00
+
+ ## Title IX Homepage
+ - [https://titleix.byu.edu](https://titleix.byu.edu)
+ - date_published: 2024-05-12T07:41:56.446087+00:00
+
+ ## BYU Today
+ - [http://today.byu.edu](http://today.byu.edu)
+ - date_published: 2024-08-11T11:23:08.583343+00:00
+
+ ## Home
+ - [https://uac.byu.edu](https://uac.byu.edu)
+ - date_published: 2024-07-17T03:08:25.710545+00:00
+
+ ## Home
+ - [https://universityadvisement.byu.edu](https://universityadvisement.byu.edu)
+ - date_published: 2024-07-17T03:20:19.755973+00:00
+
+ ## BYU - University Communications
+ - [https://universitycommunications.byu.edu](https://universitycommunications.byu.edu)
+ - date_published: 2024-04-30T03:32:02.939638+00:00
+
+ ## Home
+ - [https://ux.byu.edu](https://ux.byu.edu)
+ - date_published: 2024-07-22T07:12:07.653622+00:00
+
+ ## VIEW —
+ - [http://view.byu.edu](http://view.byu.edu)
+ - date_published: 2024-07-02T09:46:11.427310+00:00
+
+ ## Visiting Students at BYU | Visiting Students at BYU
+ - [https://visitingstudents.byu.edu](https://visitingstudents.byu.edu)
+ - date_published: 2024-07-22T07:11:48.520979+00:00
+
+ ## Wildlife Ecology Research Lab
+ - [https://wildlifeecology.byu.edu](https://wildlifeecology.byu.edu)
+ - date_published: 2024-04-30T03:32:34.652448+00:00
+
+ ## Women's Services and Resources
+ - [https://wsr.byu.edu](https://wsr.byu.edu)
+ - date_published: 2024-07-20T22:24:35.971667+00:00
+
+ ## The BYU Design Review
+ - [https://www.designreview.byu.edu](https://www.designreview.byu.edu)
+ - date_published: 2024-09-05T12:54:33.371116+00:00
+
  ## YBeFit
  - [http://ybefit.byu.edu](http://ybefit.byu.edu)
  - date_published: 2024-08-06T17:56:49.029294+00:00
@@ -3263,759 +4016,4 @@ Mellon University
  ## Columbia Community Service
  - [https://communityservice.columbia.edu](https://communityservice.columbia.edu)
  - date_published: 2024-04-02T00:00:00+00:00
-
- ## Computer Engineering
- - [https://compeng.columbia.edu](https://compeng.columbia.edu)
- - date_published: 2024-04-30T03:56:57.464249+00:00
-
- ## Connect - Login Page
- - [https://connect.doctors.columbia.edu](https://connect.doctors.columbia.edu)
- - date_published: 2024-07-22T05:43:13.307589+00:00
-
- ## Copyright Advisory Services Home | Columbia University Libraries
- - [https://copyright.columbia.edu](https://copyright.columbia.edu)
- - date_published: 2024-07-22T05:45:17.964823+00:00
-
- ## An Update on COVID-19 University Guidance
- - [https://covid19.columbia.edu](https://covid19.columbia.edu)
- - date_published: 2024-07-08T13:17:06+00:00
-
- ## Columbia Creative | Office of Public Affairs
- - [http://creative.columbia.edu](http://creative.columbia.edu)
- - date_published: 2024-07-12T19:54:07+00:00
-
- ## Department of Computer Science, Columbia University
- - [https://cs.columbia.edu](https://cs.columbia.edu)
- - date_published: 2024-07-22T05:41:09.829862+00:00
-
- ## Center for Sustainable Development
- - [http://csd.columbia.edu](http://csd.columbia.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Columbia University Irving Medical Center
- - [https://cuimc.columbia.edu](https://cuimc.columbia.edu)
- - date_published: 2023-10-25T18:50:21.143055+00:00
-
- ## Columbia University Information Technology
- - [https://cuit.columbia.edu](https://cuit.columbia.edu)
- - date_published: 2024-04-30T03:48:58.578784+00:00
-
- ## Columbia University Irving Medical Center
- - [https://cumc.columbia.edu](https://cumc.columbia.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Columbia University Press Website | Home
- - [https://cup.columbia.edu](https://cup.columbia.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Columbia University Data Science Institute
- - [https://datascience.columbia.edu](https://datascience.columbia.edu)
- - date_published: 2024-04-30T03:56:55.595507+00:00
-
- ## Columbia Giving
- - [https://datasociety.givenow.columbia.edu](https://datasociety.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:47.135844+00:00
-
- ## The Roger Lehecka Double Discovery Center
- - [https://ddc.college.columbia.edu](https://ddc.college.columbia.edu)
- - date_published: 2024-04-30T03:56:48.123202+00:00
-
- ## DextAIRity: Deformable Manipulation Can be a Breeze
- - [https://dextairity.cs.columbia.edu](https://dextairity.cs.columbia.edu)
- - date_published: 2023-02-28T20:29:15+00:00
-
- ## Diffusion Models for Robotics Control
- - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
- - date_published: 2023-12-14T04:53:26+00:00
-
- ## Columbia University: Directory
- - [https://directory.columbia.edu](https://directory.columbia.edu)
- - date_published: 2024-04-30T03:57:20.283569+00:00
-
- ## CU Directory of Classes
- - [https://doc.sis.columbia.edu](https://doc.sis.columbia.edu)
- - date_published: 2024-07-22T05:55:39.070614+00:00
-
- ## Find the nearest Columbia University Irving Medical Center Doctor near you | family physicians, pediatricians, surgeons
- - [https://doctors.columbia.edu](https://doctors.columbia.edu)
- - date_published: 2024-04-30T03:57:12.879681+00:00
-
- ## Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
- - [https://dreamitate.cs.columbia.edu](https://dreamitate.cs.columbia.edu)
- - date_published: 2024-06-30T18:12:18+00:00
-
- ## Learning 3D Dynamic Scene Representations for Robot Manipulation
- - [https://dsr-net.cs.columbia.edu](https://dsr-net.cs.columbia.edu)
- - date_published: 2022-10-12T21:54:27+00:00
-
- ## Earth Day
- - [https://earthday.columbia.edu](https://earthday.columbia.edu)
- - date_published: 2024-04-30T03:49:15.495140+00:00
-
- ## Department of Earth and Environmental Sciences
- - [https://eesc.columbia.edu](https://eesc.columbia.edu)
- - date_published: 2024-07-02T19:45:18+00:00
-
- ## Columbia Engineering Schools | Innovative Programs for Students
- - [https://engineering.columbia.edu](https://engineering.columbia.edu)
- - date_published: 2016-09-09T19:10:05+00:00
-
- ## Home - Columbia Entrepreneurship
- - [https://entrepreneurship.columbia.edu](https://entrepreneurship.columbia.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Equal Opportunity and Affirmative Action
- - [https://eoaa.columbia.edu](https://eoaa.columbia.edu)
- - date_published: 2024-04-30T03:55:44.508591+00:00
-
- ## Columbia University Events Calendar
- - [https://events.columbia.edu](https://events.columbia.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Facilities and Operations
- - [http://facilities.columbia.edu](http://facilities.columbia.edu)
- - date_published: 2024-07-05T18:15:22+00:00
-
- ## Faculty Resources
- - [https://faculty-resources.law.columbia.edu](https://faculty-resources.law.columbia.edu)
- - date_published: 2024-08-31T17:36:44+00:00
-
- ## Feedback
- - [https://feedback.cul.columbia.edu](https://feedback.cul.columbia.edu)
- - date_published: 2024-07-22T05:45:10.694920+00:00
-
- ## Law School Services
- - [https://finance-admin.law.columbia.edu](https://finance-admin.law.columbia.edu)
- - date_published: 2024-09-04T12:46:31+00:00
-
- ## Columbia University Libraries Finding Aids
- - [https://findingaids.library.columbia.edu](https://findingaids.library.columbia.edu)
- - date_published: 2024-07-02T10:27:36.749111+00:00
-
- ## Users
- - [https://forms.alumdev.columbia.edu](https://forms.alumdev.columbia.edu)
- - date_published: 2024-04-30T03:48:21.638479+00:00
-
- ## Columbia Giving
- - [https://futureofneuroscience.givenow.columbia.edu](https://futureofneuroscience.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:43.708601+00:00
-
- ## GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
- - [https://garmentnets.cs.columbia.edu](https://garmentnets.cs.columbia.edu)
- - date_published: 2021-09-27T00:38:01+00:00
-
- ## Government and Community Affairs | Office of Public Affairs
- - [https://gca.columbia.edu](https://gca.columbia.edu)
- - date_published: 2024-04-30T03:55:41.248565+00:00
-
- ## Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis - Columbia Computer Vision Lab
- - [https://gcd.cs.columbia.edu](https://gcd.cs.columbia.edu)
- - date_published: 2024-07-21T19:30:39+00:00
-
- ## pix2gestalt: Amodal Segmentation by Synthesizing Wholes
- - [https://gestalt.cs.columbia.edu](https://gestalt.cs.columbia.edu)
- - date_published: 2024-06-25T13:26:48+00:00
-
- ## Why We Give
- - [https://giftplanning.columbia.edu](https://giftplanning.columbia.edu)
- - date_published: 2024-07-22T05:44:55.936992+00:00
-
- ## Columbia Giving
- - [https://givenow.columbia.edu](https://givenow.columbia.edu)
- - date_published: 2024-04-30T03:57:10.913005+00:00
-
- ## Homepage
- - [https://giving.columbia.edu](https://giving.columbia.edu)
- - date_published: 2024-04-30T03:55:48.094993+00:00
-
- ## Columbia Giving Day 2024
- - [http://givingday.columbia.edu](http://givingday.columbia.edu)
- - date_published: 2024-07-22T05:31:41.174502+00:00
-
- ## Columbia Global Centers
- - [https://globalcenters.columbia.edu](https://globalcenters.columbia.edu)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Columbia Giving
- - [https://globalsolutions.givenow.columbia.edu](https://globalsolutions.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:50.536044+00:00
-
- ## Study Abroad | Undergraduate Global Engagement
- - [https://global.undergrad.columbia.edu](https://global.undergrad.columbia.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Grossman Center
- - [http://grossmancenter.columbia.edu](http://grossmancenter.columbia.edu)
- - date_published: 2024-07-22T05:55:23.864020+00:00
-
- ## School of General Studies
- - [https://gs.columbia.edu](https://gs.columbia.edu)
- - date_published: 2024-07-08T08:43:29+00:00
-
- ## Columbia Health
- - [https://health.columbia.edu](https://health.columbia.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Grades of Heat
- - [https://heat.brown.columbia.edu](https://heat.brown.columbia.edu)
- - date_published: 2023-09-18T17:33:36+00:00
-
- ## CUIMC Privacy Office
- - [https://hipaa.cumc.columbia.edu](https://hipaa.cumc.columbia.edu)
- - date_published: 2024-04-30T03:50:17.649163+00:00
-
- ## Department of History - Columbia University
- - [https://history.columbia.edu](https://history.columbia.edu)
- - date_published: 2024-06-30T08:33:13+00:00
-
- ## The Eric H. Holder Jr. Initiative for Civil and Political Rights
- - [https://holder.college.columbia.edu](https://holder.college.columbia.edu)
- - date_published: 2024-09-04T17:40:00+00:00
-
- ## Library Hours and Locations Open Now | Columbia University Libraries
- - [https://hours.library.columbia.edu](https://hours.library.columbia.edu)
- - date_published: 2024-07-22T05:45:03.188025+00:00
-
- ## The Hub
- - [https://hub.zi.columbia.edu](https://hub.zi.columbia.edu)
- - date_published: 2023-07-23T05:31:46+00:00
-
- ## Learning the Predictability of the Future - Columbia Computer Vision
- - [https://hyperfuture.cs.columbia.edu](https://hyperfuture.cs.columbia.edu)
- - date_published: 2023-04-28T19:04:55+00:00
-
- ## Error Page
- - [https://internal.zi.columbia.edu](https://internal.zi.columbia.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
- - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
- - date_published: 2022-07-01T02:01:20+00:00
-
- ## Institute for Social and Economic Research and Policy (ISERP)
- - [http://iserp.columbia.edu](http://iserp.columbia.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Columbia Journalism School
- - [http://journalism.columbia.edu](http://journalism.columbia.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Columbia Library Journals
- - [https://journals.library.columbia.edu](https://journals.library.columbia.edu)
- - date_published: 2024-06-29T06:05:37.864133+00:00
-
- ## Columbia Giving
- - [https://justsocieties.givenow.columbia.edu](https://justsocieties.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:45.595454+00:00
-
- ## The Kermit Project - Columbia University:
- Terminal Emulation, File Transfer, Scripting
- - [https://kermit.columbia.edu](https://kermit.columbia.edu)
- - date_published: 2024-05-08T09:12:36.452054+00:00
-
- ## Columbia Giving
- - [https://law.givenow.columbia.edu](https://law.givenow.columbia.edu)
- - date_published: 2024-09-04T20:15:32.966324+00:00
-
- ## Law, Rights, and Religion Project
- - [https://lawrightsreligion.law.columbia.edu](https://lawrightsreligion.law.columbia.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Lamont-Doherty Earth Observatory
- - [https://ldeo.columbia.edu](https://ldeo.columbia.edu)
- - date_published: 2024-04-30T03:55:38.664702+00:00
-
- ## LEAP - An NSF Science and Technology Center
- - [https://leap.columbia.edu](https://leap.columbia.edu)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Libraries Home | Columbia University Libraries
- - [https://library.columbia.edu](https://library.columbia.edu)
- - date_published: 2024-04-30T03:55:42.681297+00:00
-
- ## Welcome to Augustus C. Long Health Sciences Library | Augustus C. Long Health Sciences Library
- - [https://library.cumc.columbia.edu](https://library.cumc.columbia.edu)
- - date_published: 2024-07-21T23:31:03+00:00
-
- ## Columbia Giving
- - [https://library.givenow.columbia.edu](https://library.givenow.columbia.edu)
- - date_published: 2024-07-22T05:45:12.080504+00:00
-
- ## Local News Lab - Brown Institute - Columbia University
- - [https://lnl.brown.columbia.edu](https://lnl.brown.columbia.edu)
- - date_published: 2023-10-24T00:00:00+00:00
-
- ## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date_published: 2023-10-25T18:49:57.691308+00:00
-
- ## Columbia University Mailman School of Public Health
- - [https://mailman.columbia.edu](https://mailman.columbia.edu)
- - date_published: 2024-04-30T03:56:50.595002+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://mail.math.columbia.edu](https://mail.math.columbia.edu)
- - date_published: 2024-06-30T09:08:04.555064+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://math.columbia.edu](https://math.columbia.edu)
- - date_published: 2024-05-07T15:56:49.200989+00:00
-
- ## Columbia University Authentication
- - [https://mice.cs.columbia.edu](https://mice.cs.columbia.edu)
- - date_published: 2024-04-30T03:57:06.698061+00:00
-
- ## Columbia Neighbors
- - [https://neighbors.columbia.edu](https://neighbors.columbia.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## State of the Planet - News from the Columbia Climate School
- - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
- - date_published: 2023-12-20T22:47:58.538909+00:00
-
- ## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date_published: 2023-12-05T18:08:58.749533+00:00
-
- ## Columbia School of Nursing in New York City
- - [https://nursing.columbia.edu](https://nursing.columbia.edu)
- - date_published: 2024-06-07T15:35:06.302706+00:00
-
- ## Study Abroad | Undergraduate Global Engagement
- - [http://ogp.columbia.edu](http://ogp.columbia.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home
- - [https://opportunities.columbia.edu](https://opportunities.columbia.edu)
- - date_published: 2024-07-22T05:55:26.522395+00:00
-
- ## Columbia University | Our Values
- - [https://ourvalues.columbia.edu](https://ourvalues.columbia.edu)
- - date_published: 2024-04-30T03:55:34.036752+00:00
-
- ## PaperBot: Learning to Design Real-World Tools Using Paper
- - [https://paperbot.cs.columbia.edu](https://paperbot.cs.columbia.edu)
- - date_published: 2024-06-25T17:16:50+00:00
-
- ## About PEERING |
-    
-    PEERING - The BGP Testbed
- - [https://peering.ee.columbia.edu](https://peering.ee.columbia.edu)
- - date_published: 2024-06-17T03:31:48.710343+00:00
-
- ## Physical Education and Recreation
- - [https://perec.columbia.edu](https://perec.columbia.edu)
- - date_published: 2024-06-28T19:31:59+00:00
-
- ## Columbia Plus
- - [https://plus.columbia.edu](https://plus.columbia.edu)
- - date_published: 2024-04-30T03:55:32.741149+00:00
-
- ## University Policies
- - [http://policylibrary.columbia.edu](http://policylibrary.columbia.edu)
- - date_published: 2024-07-12T21:11:59+00:00
-
- ## Political Science
- - [http://polisci.columbia.edu](http://polisci.columbia.edu)
- - date_published: 2024-06-11T14:55:51+00:00
-
- ## Columbia University Center on Poverty and Social Policy
- - [https://povertycenter.columbia.edu](https://povertycenter.columbia.edu)
- - date_published: 2024-04-28T04:12:55.677485+00:00
-
- ## Power: Infrastructure in America
- - [https://power.buellcenter.columbia.edu](https://power.buellcenter.columbia.edu)
- - date_published: 2023-09-30T07:51:34+00:00
-
- ## Columbia Giving
- - [https://precisionmedicine.givenow.columbia.edu](https://precisionmedicine.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:48.692586+00:00
-
- ## Columbia University Pre-College Programs
- - [https://precollege.sps.columbia.edu](https://precollege.sps.columbia.edu)
- - date_published: 2024-04-30T03:49:20.102489+00:00
-
- ## Columbia University Mailman School of Public Health
- - [https://publichealth.columbia.edu](https://publichealth.columbia.edu)
- - date_published: 2024-03-02T19:19:41.405171+00:00
-
- ## HICCC ANNUAL REPORT 2023
- - [https://pubs.cancer.columbia.edu](https://pubs.cancer.columbia.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Columbia College
- - [http://rabi.columbia.edu](http://rabi.columbia.edu)
- - date_published: 2024-07-08T13:43:52+00:00
-
- ## Office of the University Registrar | Columbia University in the City of New York
- - [https://registrar.columbia.edu](https://registrar.columbia.edu)
- - date_published: 2024-04-30T03:56:46.048602+00:00
-
- ## The Real Estate Record: Home
- - [https://rerecord.library.columbia.edu](https://rerecord.library.columbia.edu)
- - date_published: 2024-05-07T15:03:49.432581+00:00
-
- ## RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
- - [https://roboninja.cs.columbia.edu](https://roboninja.cs.columbia.edu)
- - date_published: 2023-05-01T06:28:22+00:00
-
- ## Scholarship Archive | Columbia Law School Research
- - [https://scholarship.law.columbia.edu](https://scholarship.law.columbia.edu)
- - date_published: 2024-09-04T20:15:35.091339+00:00
-
- ## Columbia University Search
- - [http://search.columbia.edu](http://search.columbia.edu)
- - date_published: 2024-07-22T05:40:52.946583+00:00
-
- ## Columbia University Search
- - [https://search.sites.columbia.edu](https://search.sites.columbia.edu)
- - date_published: 2024-04-30T03:57:33.332050+00:00
-
- ## Socioeconomic Data and Applications Center | SEDAC
- - [https://sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu)
- - date_published: 2024-05-09T07:19:35.951462+00:00
-
- ## Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models
- - [https://semantic-abstraction.cs.columbia.edu](https://semantic-abstraction.cs.columbia.edu)
- - date_published: 2023-02-13T20:32:40+00:00
-
- ## Student Financial Services
- - [http://sfs.columbia.edu](http://sfs.columbia.edu)
- - date_published: 2024-07-02T17:35:03+00:00
-
- ## Columbia SIPA | School of International and Public Affairs
- - [https://sipa.columbia.edu](https://sipa.columbia.edu)
- - date_published: 2024-07-06T23:47:53.952042+00:00
-
- ## Columbia Sites
- - [https://sites.columbia.edu](https://sites.columbia.edu)
- - date_published: 2024-04-30T03:56:25.550837+00:00
-
- ## Department of Sociology
- - [https://sociology.columbia.edu](https://sociology.columbia.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Columbia University School of Professional Studies
- - [https://sps.columbia.edu](https://sps.columbia.edu)
- - date_published: 2024-02-24T18:08:00.655256+00:00
-
- ## Student Service Center
- - [https://ssc.columbia.edu](https://ssc.columbia.edu)
- - date_published: 2024-07-07T23:45:41+00:00
-
- ## Columbia Student Services Online - Log in
- - [https://ssol.columbia.edu](https://ssol.columbia.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Index—The Stacks project
- - [https://stacks.math.columbia.edu](https://stacks.math.columbia.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Department of Statistics
- - [https://stat.columbia.edu](https://stat.columbia.edu)
- - date_published: 2024-04-30T03:50:01.262083+00:00
-
- ## Special Year on Statistical Machine Learning - Columbia University in the City of New York
- - [http://statisticalml.stat.columbia.edu](http://statisticalml.stat.columbia.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date_published: 2023-10-25T18:50:02.076404+00:00
-
- ## Strategic Directions | Columbia University Libraries
- - [https://strategicdirections.library.columbia.edu](https://strategicdirections.library.columbia.edu)
- - date_published: 2024-07-22T05:45:16.579789+00:00
-
- ## Columbia College and Columbia Engineering
- - [http://studentaffairs.columbia.edu](http://studentaffairs.columbia.edu)
- - date_published: 2024-09-04T18:42:13+00:00
-
- ## CSSI | Center for Student Success and Intervention
- - [https://studentconduct.columbia.edu](https://studentconduct.columbia.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Columbia University Summer Session
- - [https://summer.sps.columbia.edu](https://summer.sps.columbia.edu)
- - date_published: 2024-04-30T03:49:21.172646+00:00
-
- ## Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection
- - [https://thermal.cs.columbia.edu](https://thermal.cs.columbia.edu)
- - date_published: 2020-03-27T00:00:00+00:00
-
- ## CUL Toolkit
- - [https://toolkit.library.columbia.edu](https://toolkit.library.columbia.edu)
- - date_published: 2023-03-02T17:04:33+00:00
-
- ## Columbia University School of Professional Studies Virtual Tour
- - [https://tour.sps.columbia.edu](https://tour.sps.columbia.edu)
- - date_published: 2023-03-25T15:43:02+00:00
-
- ## Columbia Transportation
- - [https://transportation.columbia.edu](https://transportation.columbia.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## WebHome < Main < TWiki
- - [https://twiki.nevis.columbia.edu](https://twiki.nevis.columbia.edu)
- - date_published: 2024-07-10T02:19:16.900161+00:00
-
- ## UMPNet: Universal Manipulation Policy Network for Articulated Objects
- - [https://ump-net.cs.columbia.edu](https://ump-net.cs.columbia.edu)
- - date_published: 2022-07-01T13:49:30+00:00
-
- ## Home | Columbia Undergraduate Admissions
- - [https://undergrad.admissions.columbia.edu](https://undergrad.admissions.columbia.edu)
- - date_published: 2024-04-30T03:57:04.900245+00:00
-
- ## University Life
- - [https://universitylife.columbia.edu](https://universitylife.columbia.edu)
- - date_published: 2024-07-08T14:55:07+00:00
-
- ## Undergraduate Research and Fellowships | Undergraduate Research and Fellowships
- - [https://urf.columbia.edu](https://urf.columbia.edu)
- - date_published: 2024-05-08T11:29:09.415255+00:00
-
- ## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date_published: 2023-10-25T18:50:05.789837+00:00
-
- ## Visualizing Virality
- - [https://virality.brown.columbia.edu](https://virality.brown.columbia.edu)
- - date_published: 2024-07-01T20:07:09.922953+00:00
-
- ## Visitors Center
- - [https://visit.columbia.edu](https://visit.columbia.edu)
- - date_published: 2024-04-30T03:56:27.647910+00:00
-
- ## Women Film Pioneers Project
- - [https://wfpp.columbia.edu](https://wfpp.columbia.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Columbia University in the City of New York
- - [https://www1.columbia.edu](https://www1.columbia.edu)
- - date_published: 2024-06-30T03:10:22+00:00
-
- ## Department of Computer Science, Columbia University
- - [http://www1.cs.columbia.edu](http://www1.cs.columbia.edu)
- - date_published: 2024-07-03T04:52:57.587346+00:00
-
- ## Home - Columbia GSAPP
- - [https://www.arch.columbia.edu](https://www.arch.columbia.edu)
- - date_published: 2024-05-08T11:43:48.142108+00:00
-
- ## Astronomy & Astrophysics
- - [http://www.astro.columbia.edu](http://www.astro.columbia.edu)
- - date_published: 2024-08-16T14:42:15+00:00
-
- ## CAP
- - [http://www.cap.columbia.edu](http://www.cap.columbia.edu)
- - date_published: 2024-07-12T02:03:59+00:00
-
- ## Columbia CCE
- - [https://www.careereducation.columbia.edu](https://www.careereducation.columbia.edu)
- - date_published: 2024-09-04T19:13:17+00:00
-
- ## CIESIN Columbia University
- - [http://www.ciesin.columbia.edu](http://www.ciesin.columbia.edu)
- - date_published: 2024-07-10T03:10:34.604667+00:00
-
- ## Schneeweiss Adult Congenital Heart Center
- - [https://www.congenitalheart.cuimc.columbia.edu](https://www.congenitalheart.cuimc.columbia.edu)
- - date_published: 2024-09-04T19:20:01+00:00
-
- ## Columbia DBMI Home - Columbia DBMI
- - [https://www.dbmi.columbia.edu](https://www.dbmi.columbia.edu)
- - date_published: 2019-06-11T15:36:11+00:00
-
- ## CUIMC Privacy Office
- - [https://www.hipaa.cuimc.columbia.edu](https://www.hipaa.cuimc.columbia.edu)
- - date_published: 2024-07-22T01:43:49+00:00
-
- ## Homepage | Columbia Law School
- - [https://www.law.columbia.edu](https://www.law.columbia.edu)
- - date_published: 2024-06-08T04:34:48.643951+00:00
-
- ## Vagelos College of Physicians and Surgeons
- - [https://www.ps.columbia.edu](https://www.ps.columbia.edu)
- - date_published: 2024-10-16T07:23:09+00:00
-
- ## QMSS
- - [http://www.qmss.columbia.edu](http://www.qmss.columbia.edu)
- - date_published: 2024-07-16T16:40:42+00:00
-
- ## Columbia University Fu Foundation School of Engineering and Applied Science
- - [http://www.seas.columbia.edu](http://www.seas.columbia.edu)
- - date_published: 2024-06-17T12:17:24.066055+00:00
-
- ## Teachers College - Columbia University
- - [http://www.tc.columbia.edu](http://www.tc.columbia.edu)
- - date_published: 2024-07-22T05:43:05.998045+00:00
-
- ## Vagelos College of Physicians and Surgeons
- - [https://www.vagelos.columbia.edu](https://www.vagelos.columbia.edu)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## SOCIAL MEDIA TITLE TAG
- - [https://xskill.cs.columbia.edu](https://xskill.cs.columbia.edu)
- - date_published: 2023-10-27T15:43:11+00:00
-
- ## Zero-1-to-3: Zero-shot One Image to 3D Object
- - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
- - date_published: 2023-06-03T20:45:06+00:00
-
- ## Columbia | Zuckerman Institute
- - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
- - date_published: 2023-10-25T18:50:31.676775+00:00
-
- ## Columbia Giving
- - [https://zuckermaninstitute.givenow.columbia.edu](https://zuckermaninstitute.givenow.columbia.edu)
- - date_published: 2024-04-30T03:57:50.734861+00:00
-
- ## An Online University with Unlimited Possibilities | Columbia Southern University
- - [https://www.columbiasouthern.edu](https://www.columbiasouthern.edu)
- - date_published: 2024-07-21T09:48:40.897333+00:00
-
- ## Universidad Pontificia Comillas
- - [https://www.comillas.edu](https://www.comillas.edu)
- - date_published: 2024-08-10T01:14:24+00:00
-
- ## ICAI
- - [https://www.icai.comillas.edu](https://www.icai.comillas.edu)
- - date_published: 2024-07-01T15:16:48+00:00
-
- ## Home
- - [https://www.commonwealthu.edu](https://www.commonwealthu.edu)
- - date_published: 2024-06-29T16:59:30+00:00
-
- ## Purdue Global Law School | Earn a Law Degree Online
- - [http://www.concordlawschool.edu](http://www.concordlawschool.edu)
- - date_published: 2024-08-19T21:45:52.260250+00:00
-
- ## Admissions
- - [https://connect.cooper.edu](https://connect.cooper.edu)
- - date_published: 2024-08-05T17:40:31+00:00
-
- ## Welcome
- - [https://cooper.edu](https://cooper.edu)
- - date_published: 2024-04-29T02:00:21.387322+00:00
-
- ## The Cooper Union Library: Homepage: The Cooper Union Library
- - [http://library.cooper.edu](http://library.cooper.edu)
- - date_published: 2024-08-06T15:30:03.845388+00:00
-
- ## Coppin State University Employment Opportunities | Home
- - [https://employment.coppin.edu](https://employment.coppin.edu)
- - date_published: 2024-07-02T03:25:12+00:00
-
- ## Homepage | Coppin State University
- - [http://www.coppin.edu](http://www.coppin.edu)
- - date_published: 2024-07-01T21:52:50+00:00
-
- ## Cornell AAP
- - [https://aap.cornell.edu](https://aap.cornell.edu)
- - date_published: 2024-07-22T05:13:08+00:00
-
- ## Applied Bioinformatics Core
- - [https://abc.med.cornell.edu](https://abc.med.cornell.edu)
- - date_published: 2024-02-05T23:30:09+00:00
-
- ## Welcome | Academic Integration
- - [https://academicintegration.cornell.edu](https://academicintegration.cornell.edu)
- - date_published: 2024-04-30T03:59:40.500162+00:00
-
- ## Welcome to the Cornell Academic Materials Program | Cornell U.
- - [https://academicmaterials.cornell.edu](https://academicmaterials.cornell.edu)
- - date_published: 2024-02-08T18:00:56.538608+00:00
-
- ## Accessibility Information
- - [https://accessibility.cornell.edu](https://accessibility.cornell.edu)
- - date_published: 2024-07-22T05:21:03+00:00
-
- ## Admissions | Undergraduate Admissions
- - [https://admissions.cornell.edu](https://admissions.cornell.edu)
- - date_published: 2024-08-05T16:24:12+00:00
-
- ## John Henrik Clarke Africana Library
- - [http://africana.library.cornell.edu](http://africana.library.cornell.edu)
- - date_published: 2024-07-22T05:27:48.009571+00:00
-
- ## AgCensus
- - [https://agcensus.library.cornell.edu](https://agcensus.library.cornell.edu)
- - date_published: 2024-07-08T11:56:49.860827+00:00
-
- ## Animal Health Diagnostic Center
- - [https://ahdc.vet.cornell.edu](https://ahdc.vet.cornell.edu)
- - date_published: 2024-10-18T16:09:32.175230+00:00
-
- ## AIPP - Home
- - [https://aipp.cis.cornell.edu](https://aipp.cis.cornell.edu)
- - date_published: 2021-08-01T00:00:00+00:00
-
- ## Home - Alumni, parents, and friends | Cornell University
- - [https://alumni.cornell.edu](https://alumni.cornell.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Alumni and Friends - Alumni and Friends
- - [https://alumni.library.cornell.edu](https://alumni.library.cornell.edu)
- - date_published: 2024-07-09T19:57:35+00:00
-
- ## Alumni | Weill Cornell Medicine
- - [https://alumni.weill.cornell.edu](https://alumni.weill.cornell.edu)
- - date_published: 2024-07-22T05:07:53+00:00
-
- ## Library Annex
- - [https://annex.library.cornell.edu](https://annex.library.cornell.edu)
- - date_published: 2024-07-22T05:27:51.739510+00:00
-
- ## Cornell University Web Login
- - [https://apps.johnson.cornell.edu](https://apps.johnson.cornell.edu)
- - date_published: 2024-09-09T22:00:05.668955+00:00
-
- ## The College of Arts & Sciences, Cornell University
- - [https://as.cornell.edu](https://as.cornell.edu)
- - date_published: 2024-07-01T04:38:55+00:00
-
- ## Kroch Library Asia Collections
- - [https://asia.library.cornell.edu](https://asia.library.cornell.edu)
- - date_published: 2024-07-22T05:27:30.938265+00:00
-
- ## Home Page | CU Assemblies
- - [https://assembly.cornell.edu](https://assembly.cornell.edu)
- - date_published: 2024-07-22T03:37:18+00:00
-
- ## Welcome | Office of the Chief Risk Officer
- - [https://auditriskcompliance.cornell.edu](https://auditriskcompliance.cornell.edu)
- - date_published: 2024-07-02T02:03:34+00:00
-
- ## Bronfenbrenner Center for Translational Research
- - [https://bctr.cornell.edu](https://bctr.cornell.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Cornell Lab of Ornithology—Home
- - [https://birds.cornell.edu](https://birds.cornell.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## LII News – Legal Information Institute
- - [http://blog.law.cornell.edu](http://blog.law.cornell.edu)
- - date_published: 2024-08-08T17:35:11.798451+00:00
-
- ## Cornell Mushroom Blog
- - [https://blog.mycology.cornell.edu](https://blog.mycology.cornell.edu)
- - date_published: 2024-06-30T05:14:05.485944+00:00
-
- ## CU Blog Service – Cornell University Blog Service
- - [https://blogs.cornell.edu](https://blogs.cornell.edu)
- - date_published: 2024-04-30T03:57:52.165255+00:00
-
- ## See You at BOOM 2025 | Cornell Computing and Information Science
- - [https://boom.cornell.edu](https://boom.cornell.edu)
- - date_published: 2024-04-30T04:00:38.324637+00:00
-
- ## ILR School Messaging and Branding Guidelines | ILR Brand Book
- - [https://brand.ilr.cornell.edu](https://brand.ilr.cornell.edu)
- - date_published: 2024-07-22T05:30:42.214470+00:00
-
- ## SC Johnson College of Business | Cornell University
- - [https://business.cornell.edu](https://business.cornell.edu)
- - date_published: 2024-04-15T00:00:00+00:00
 

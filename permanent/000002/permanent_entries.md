@@ -1,3 +1,19 @@
+ ## Welcome to the Artificial Intelligence Incident Database
+ - [https://incidentdatabase.ai](https://incidentdatabase.ai)
+ - date_published: 2023-10-25T11:52:19.311811+00:00
+
+ ## Infinity AI
+ - [https://infinity.ai](https://infinity.ai)
+ - date_published: 2024-04-30T05:24:19+00:00
+
+ ## Infinity AI
+ - [https://studio.infinity.ai](https://studio.infinity.ai)
+ - date_published: 2024-09-06T18:19:53.710590+00:00
+
+ ## Infinity GPT-4
+ - [http://www.infinitygpt.ai](http://www.infinitygpt.ai)
+ - date_published: 2023-05-18T06:09:03+00:00
+
  ## Inflection
  - [https://inflection.ai](https://inflection.ai)
  - date_published: 2023-10-25T11:39:23.848682+00:00
@@ -3191,7 +3207,7 @@
  ## Perplexity AI
  - [https://perplexity.ai](https://perplexity.ai)
  - date_published: 2024-05-14T03:37:40+00:00
- - tags: ['artificial intelligence bot', 'search engine']
+ - tags: ['artificial intelligence', 'artificial intelligence bot', 'search engine']
 
  ## Persana AI | 10x your Prospecting with AI | Best Clay Alternative
  - [https://persana.ai](https://persana.ai)
@@ -4006,20 +4022,4 @@
  ## QoQo Blog - Your UX research AI-companion
  - [https://blog.qoqo.ai](https://blog.qoqo.ai)
  - date_published: 2024-10-30T20:57:21.858106+00:00
-
- ## QoQo - your user experience AI companion
- - [https://qoqo.ai](https://qoqo.ai)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## QORTEX | Video Intelligence for Ads, Monetization, Analytics
- - [https://www.qortex.ai](https://www.qortex.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## QR code generator - QRCode AI
- - [https://qrcode.ai](https://qrcode.ai)
- - date_published: 2024-06-19T20:06:39.737756+00:00
-
- ## 큐샵 Qshop
- - [https://qshop.ai](https://qshop.ai)
- - date_published: 2024-06-25T20:32:58.050581+00:00
 

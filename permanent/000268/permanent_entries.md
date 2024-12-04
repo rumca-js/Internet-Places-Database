@@ -1,3 +1,773 @@
+ ## Home | AgTech Workshop
+ - [https://agtechworkshop.ucdavis.edu](https://agtechworkshop.ucdavis.edu)
+ - date_published: 2024-06-27T11:32:06+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://ait-bi.ucdavis.edu](https://ait-bi.ucdavis.edu)
+ - date_published: 2024-07-01T22:07:47.285668+00:00
+
+ ## Alumni Resources
+ - [https://alumni.engineering.ucdavis.edu](https://alumni.engineering.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:13.873439+00:00
+
+ ## UC Davis Alumni and Affiliate Relations
+ - [https://alumni.ucdavis.edu](https://alumni.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:55.042173+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://appointments.ucdavis.edu](https://appointments.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:29.415076+00:00
+
+ ## UC Davis Air Quality Research Center
+ - [https://aqrc.ucdavis.edu](https://aqrc.ucdavis.edu)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## UC Davis Arboretum and Public Garden
+ - [https://arboretum.ucdavis.edu](https://arboretum.ucdavis.edu)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Computer Architecture Research
+ - [https://arch.cs.ucdavis.edu](https://arch.cs.ucdavis.edu)
+ - date_published: 2024-06-08T17:59:57.436302+00:00
+
+ ## Academic Senate Information System -
+ - [https://asis.ucdavis.edu](https://asis.ucdavis.edu)
+ - date_published: 2024-07-01T22:23:22.048818+00:00
+
+ ## AvenueE
+ - [https://avenuee.engineering.ucdavis.edu](https://avenuee.engineering.ucdavis.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Biological and Agricultural Engineering | UC Davis Engineering
+ - [https://bae.ucdavis.edu](https://bae.ucdavis.edu)
+ - date_published: 2024-07-01T20:51:56+00:00
+
+ ## BASC
+ - [https://basc.biology.ucdavis.edu](https://basc.biology.ucdavis.edu)
+ - date_published: 2022-09-08T23:24:43+00:00
+
+ ## Beyond the Barriers
+ - [http://beyond.ucdavis.edu](http://beyond.ucdavis.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## UC Davis Big Ideas
+ - [https://bigideas.ucdavis.edu](https://bigideas.ucdavis.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## UC Davis College of Biological Sciences
+ - [https://biology.ucdavis.edu](https://biology.ucdavis.edu)
+ - date_published: 2024-07-01T22:06:11+00:00
+
+ ## Biomedical Engineering | UC Davis Engineering
+ - [https://bme.ucdavis.edu](https://bme.ucdavis.edu)
+ - date_published: 2024-06-27T05:59:34+00:00
+
+ ## Bodega Ocean Observing Node
+ - [http://boon.ucdavis.edu](http://boon.ucdavis.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Smoke & Tobacco Free
+ - [https://breathefree.ucdavis.edu](https://breathefree.ucdavis.edu)
+ - date_published: 2019-10-01T16:17:00+00:00
+
+ ## Homepage | College of Agricultural and Environmental Sciences
+ - [https://caes.ucdavis.edu](https://caes.ucdavis.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Office of the Campus Counsel
+ - [https://campuscounsel.ucdavis.edu](https://campuscounsel.ucdavis.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## UC Davis: Campus Map
+ - [https://campusmap.ucdavis.edu](https://campusmap.ucdavis.edu)
+ - date_published: 2023-04-04T23:09:04+00:00
+
+ ## Campus Ready
+ - [https://campusready.ucdavis.edu](https://campusready.ucdavis.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Home | Campus Recreation
+ - [https://campusrecreation.ucdavis.edu](https://campusrecreation.ucdavis.edu)
+ - date_published: 2024-07-01T21:31:30+00:00
+
+ ## Canvas Help
+ - [https://canvashelp.ucdavis.edu](https://canvashelp.ucdavis.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## UC Davis Canvas Discovery
+ - [https://canvas.ucdavis.edu](https://canvas.ucdavis.edu)
+ - date_published: 2024-04-06T01:24:17+00:00
+
+ ## Center for Advocacy, Resources & Education (CARE)
+ - [https://care.ucdavis.edu](https://care.ucdavis.edu)
+ - date_published: 2024-07-01T17:47:05+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://casmgr.ucdavis.edu](https://casmgr.ucdavis.edu)
+ - date_published: 2024-07-01T22:09:37.013257+00:00
+
+ ## General Catalog - General Catalog Home
+ - [https://catalog.ucdavis.edu](https://catalog.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:25.522512+00:00
+
+ ## Campus Community Book Project
+ - [https://ccbp.ucdavis.edu](https://ccbp.ucdavis.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## CEED - Campus Energy Education Dashboard
+ - [http://ceed.ucdavis.edu](http://ceed.ucdavis.edu)
+ - date_published: 2023-06-16T19:13:02+00:00
+
+ ## Civil and Environmental Engineering
+ - [https://cee.engineering.ucdavis.edu](https://cee.engineering.ucdavis.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Center for Educational Effectiveness
+ - [https://cee.ucdavis.edu](https://cee.ucdavis.edu)
+ - date_published: 2024-06-28T19:15:06+00:00
+
+ ## Center for Equine Health | School of Veterinary Medicine
+ - [https://ceh.vetmed.ucdavis.edu](https://ceh.vetmed.ucdavis.edu)
+ - date_published: 2024-06-27T04:48:40+00:00
+
+ ## Center for Continuing Professional Education (CCPE)
+ - [https://ce.vetmed.ucdavis.edu](https://ce.vetmed.ucdavis.edu)
+ - date_published: 2024-07-01T21:42:43+00:00
+
+ ## Chemical Engineering | UC Davis Engineering
+ - [https://che.engineering.ucdavis.edu](https://che.engineering.ucdavis.edu)
+ - date_published: 2024-06-28T16:19:31+00:00
+
+ ## Continuing and Professional Education | International
+ - [https://cie.ucdavis.edu](https://cie.ucdavis.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Clear Lake Rehabilitation
+ - [https://clearlakerehabilitation.ucdavis.edu](https://clearlakerehabilitation.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Climate Adaptation Research Center
+ - [https://climateadaptation.ucdavis.edu](https://climateadaptation.ucdavis.edu)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Science & Climate
+ - [https://climatechange.ucdavis.edu](https://climatechange.ucdavis.edu)
+ - date_published: 2021-05-04T18:38:25+00:00
+
+ ## Veterinary Center for Clinical Trials (VCCT)
+ - [https://clinicaltrials.vetmed.ucdavis.edu](https://clinicaltrials.vetmed.ucdavis.edu)
+ - date_published: 2024-06-27T05:03:53+00:00
+
+ ## Center for Leadership Learning
+ - [https://cll.ucdavis.edu](https://cll.ucdavis.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UC Davis Cloud Services
+ - [https://cloud.ucdavis.edu](https://cloud.ucdavis.edu)
+ - date_published: 2024-06-27T05:58:40+00:00
+
+ ## Commencement
+ - [http://commencement.ucdavis.edu](http://commencement.ucdavis.edu)
+ - date_published: 2023-11-15T17:59:33+00:00
+
+ ## UC Davis Computational Linguistics
+ - [https://compling.ucdavis.edu](https://compling.ucdavis.edu)
+ - date_published: 2023-11-22T23:01:59+00:00
+
+ ## UC Davis Computing Accounts Services
+ - [http://computingaccounts.ucdavis.edu](http://computingaccounts.ucdavis.edu)
+ - date_published: 2024-07-01T22:19:18.788236+00:00
+
+ ## Agronomy
+ - [https://cottoninfo.ucdavis.edu](https://cottoninfo.ucdavis.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Welcome to Cows.
+ - [https://cows.ucdavis.edu](https://cows.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:21.199665+00:00
+
+ ## Log In to Canvas
+ - [https://cpeonline.ucdavis.edu](https://cpeonline.ucdavis.edu)
+ - date_published: 2023-09-13T00:00:00+00:00
+
+ ## UC Davis Continuing and Professional Education
+ - [https://cpe.ucdavis.edu](https://cpe.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:36.223883+00:00
+
+ ## Computer Science Instructional Facility (CSIF)
+ - [https://csif.cs.ucdavis.edu](https://csif.cs.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Computer Science Instructional Facility (CSIF)
+ - [https://csif.sf.ucdavis.edu](https://csif.sf.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Computer Science
+ - [https://cs.ucdavis.edu](https://cs.ucdavis.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Department of Environmental Science & Policy
+ - [https://desp.ucdavis.edu](https://desp.ucdavis.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Diversity, Equity & Inclusion
+ - [https://diversity.ucdavis.edu](https://diversity.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:16.846137+00:00
+ - tags: ['dei']
+
+ ## Electrical and Computer Engineering | UC Davis Engineering
+ - [https://ece.ucdavis.edu](https://ece.ucdavis.edu)
+ - date_published: 2024-07-01T22:07:05+00:00
+
+ ## Engineering
+ - [http://eco.ucdavis.edu](http://eco.ucdavis.edu)
+ - date_published: 2022-05-26T15:27:11+00:00
+
+ ## UC Davis School of Education - Integrating research and practice
+ - [https://education.ucdavis.edu](https://education.ucdavis.edu)
+ - date_published: 2024-07-01T21:55:40+00:00
+
+ ## EggHeads
+ - [https://eggheads.ucdavis.edu](https://eggheads.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:07.442801+00:00
+
+ ## UC Davis Energy and Efficiency Institute
+ - [https://energy.ucdavis.edu](https://energy.ucdavis.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Home | College of Engineering
+ - [https://engineering.ucdavis.edu](https://engineering.ucdavis.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | The Department of English English at UC Davis
+ - [https://english.ucdavis.edu](https://english.ucdavis.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Enrollment Management
+ - [https://enrollmentmanagement.ucdavis.edu](https://enrollmentmanagement.ucdavis.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Center for Environmental Policy & Behavior
+ - [http://environmentalpolicy.ucdavis.edu](http://environmentalpolicy.ucdavis.edu)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home | UC Davis Continuing and Professional Education
+ - [https://extensionpv.ucdavis.edu](https://extensionpv.ucdavis.edu)
+ - date_published: 2024-07-01T22:20:36.143675+00:00
+
+ ## UC Davis Continuing and Professional Education
+ - [https://extension.ucdavis.edu](https://extension.ucdavis.edu)
+ - date_published: 2024-07-01T18:53:37+00:00
+
+ ## UC Davis FacilitiesLink
+ - [https://facilitieslink.ucdavis.edu](https://facilitieslink.ucdavis.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Expert Directory
+ - [https://faculty.engineering.ucdavis.edu](https://faculty.engineering.ucdavis.edu)
+ - date_published: 2020-06-03T01:48:29+00:00
+
+ ## Fanyi Xiao
+ - [https://fanyix.cs.ucdavis.edu](https://fanyix.cs.ucdavis.edu)
+ - date_published: 2023-01-13T18:45:44+00:00
+
+ ## Finance & Business
+ - [https://financeandbusiness.ucdavis.edu](https://financeandbusiness.ucdavis.edu)
+ - date_published: 2024-07-01T21:44:55+00:00
+
+ ## Financial Aid and Scholarships | Financial Aid and Scholarships
+ - [https://financialaidmigrate.sf.ucdavis.edu](https://financialaidmigrate.sf.ucdavis.edu)
+ - date_published: 2024-07-01T22:23:09+00:00
+
+ ## Financial Aid and Scholarships | Financial Aid and Scholarships
+ - [http://financialaid.ucdavis.edu](http://financialaid.ucdavis.edu)
+ - date_published: 2024-07-01T22:02:51+00:00
+
+ ## First-Generation Initiative
+ - [http://firstgen.ucdavis.edu](http://firstgen.ucdavis.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Front Door
+ - [https://frontdoor.ucdavis.edu](https://frontdoor.ucdavis.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Front for the arXiv
+ - [http://front.math.ucdavis.edu](http://front.math.ucdavis.edu)
+ - date_published: 2020-08-16T02:09:11+00:00
+
+ ## UC Davis First-Year Seminar Program
+ - [https://fys.ucdavis.edu](https://fys.ucdavis.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## General Education
+ - [https://ge.ucdavis.edu](https://ge.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## UC Davis Give Day 2024
+ - [https://giveday.ucdavis.edu](https://giveday.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:51.489515+00:00
+
+ ## Donate to the University of California at Davis
+ - [https://give.ucdavis.edu](https://give.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:55.207600+00:00
+
+ ## Home | UC Davis Giving
+ - [https://giving.ucdavis.edu](https://giving.ucdavis.edu)
+ - date_published: 2022-10-13T16:58:30+00:00
+
+ ## UC Davis Graduate Studies
+ - [https://gradstudies.ucdavis.edu](https://gradstudies.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:38.691378+00:00
+
+ ## UC Davis Graduate Studies
+ - [https://grad.ucdavis.edu](https://grad.ucdavis.edu)
+ - date_published: 2024-07-01T16:59:42+00:00
+
+ ## Graduate Student Association
+ - [https://gsa.ucdavis.edu](https://gsa.ucdavis.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Home | UC Davis Graduate School of Management
+ - [https://gsm.ucdavis.edu](https://gsm.ucdavis.edu)
+ - date_published: 2024-07-01T22:20:56+00:00
+
+ ## Harassment & Discrimination Assistance and Prevention Program
+ - [https://hdapp.ucdavis.edu](https://hdapp.ucdavis.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Animal Health Topics / School of Veterinary Medicine
+ - [https://healthtopics.vetmed.ucdavis.edu](https://healthtopics.vetmed.ucdavis.edu)
+ - date_published: 2024-06-27T05:57:16+00:00
+
+ ## UC Davis Health | University of California, Davis
+ - [https://health.ucdavis.edu](https://health.ucdavis.edu)
+ - date_published: 2024-02-24T10:01:59.909607+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://hem.ucdavis.edu](https://hem.ucdavis.edu)
+ - date_published: 2024-07-01T22:21:49.307923+00:00
+
+ ## Home Page | History Department
+ - [http://history.ucdavis.edu](http://history.ucdavis.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## School of Veterinary Medicine
+ - [https://hobbs.vetmed.ucdavis.edu](https://hobbs.vetmed.ucdavis.edu)
+ - date_published: 2024-07-01T15:09:05+00:00
+
+ ## UC Davis University Honors Program
+ - [https://honors.ucdavis.edu](https://honors.ucdavis.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home | UC Davis Student Housing and Dining Services
+ - [http://housing.ucdavis.edu](http://housing.ucdavis.edu)
+ - date_published: 2024-07-01T22:10:31.391108+00:00
+
+ ## UC Davis Human Resources
+ - [https://hr.ucdavis.edu](https://hr.ucdavis.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## HE Home Page | Department of Human Ecology
+ - [https://humanecology.ucdavis.edu](https://humanecology.ucdavis.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Continuing and Professional Education | Human Services
+ - [https://humanservices.ucdavis.edu](https://humanservices.ucdavis.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Internship and Career Center
+ - [https://icc.ucdavis.edu](https://icc.ucdavis.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## The IDEA
+ - [https://idea.ucdavis.edu](https://idea.ucdavis.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Home Page | UC Davis IET
+ - [https://iet.ucdavis.edu](https://iet.ucdavis.edu)
+ - date_published: 2024-07-01T21:39:06+00:00
+
+ ## Home | College of Engineering Intranet
+ - [https://intranet.engineering.ucdavis.edu](https://intranet.engineering.ucdavis.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home - IRB
+ - [https://irb.ucdavis.edu](https://irb.ucdavis.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home - ITS
+ - [https://its.ucdavis.edu](https://its.ucdavis.edu)
+ - date_published: 2024-09-15T15:03:43.637440+00:00
+
+ ## UC Davis | Institute of the Environment
+ - [https://johnmuir.ucdavis.edu](https://johnmuir.ucdavis.edu)
+ - date_published: 2024-09-14T10:57:41+00:00
+
+ ## Knowledge Base - ServiceHub
+ - [https://kb.ucdavis.edu](https://kb.ucdavis.edu)
+ - date_published: 2024-07-01T22:19:10.508722+00:00
+
+ ## Krishna Kumar Singh
+ - [https://krsingh.cs.ucdavis.edu](https://krsingh.cs.ucdavis.edu)
+ - date_published: 2024-05-04T15:20:21.251932+00:00
+
+ ## School of Law
+ - [https://law.ucdavis.edu](https://law.ucdavis.edu)
+ - date_published: 2024-07-01T22:17:03+00:00
+
+ ## Leadership | UC Davis Leadership
+ - [https://leadership.ucdavis.edu](https://leadership.ucdavis.edu)
+ - date_published: 2024-07-01T15:01:16+00:00
+
+ ## Homepage | lettersandsciencemag
+ - [https://lettersandsciencemag.ucdavis.edu](https://lettersandsciencemag.ucdavis.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## UC Davis College of Letters and Science
+ - [https://lettersandscience.ucdavis.edu](https://lettersandscience.ucdavis.edu)
+ - date_published: 2023-11-03T19:14:18.151008+00:00
+
+ ## UC Davis Library
+ - [https://library.ucdavis.edu](https://library.ucdavis.edu)
+ - date_published: 2024-07-01T22:10:24.011937+00:00
+
+ ## UC Davis Canvas Discovery
+ - [https://login.canvas.ucdavis.edu](https://login.canvas.ucdavis.edu)
+ - date_published: 2024-04-06T01:24:17+00:00
+
+ ## College of Letters and Science Research Services
+ - [https://lsresearch.ucdavis.edu](https://lsresearch.ucdavis.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Mechanical and Aerospace Engineering | UC Davis Engineering
+ - [https://mae.ucdavis.edu](https://mae.ucdavis.edu)
+ - date_published: 2024-07-01T20:51:56+00:00
+
+ ## Home | UC Davis Magazine
+ - [https://magazine.ucdavis.edu](https://magazine.ucdavis.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Coastal and Marine Sciences Institute
+ - [https://marinescience.ucdavis.edu](https://marinescience.ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Aggie Mental Health
+ - [https://mentalhealth.ucdavis.edu](https://mentalhealth.ucdavis.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UC Davis Mobile
+ - [https://mobile.ucdavis.edu](https://mobile.ucdavis.edu)
+ - date_published: 2020-07-09T20:13:54+00:00
+
+ ## Materials Science and Engineering | UC Davis Engineering
+ - [https://mse.engineering.ucdavis.edu](https://mse.engineering.ucdavis.edu)
+ - date_published: 2024-06-28T21:34:41+00:00
+
+ ## MyAdmissions | UC Davis
+ - [https://myadmissions.ucdavis.edu](https://myadmissions.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:33.426787+00:00
+
+ ## Billing Center Login
+ - [https://mybill.ucdavis.edu](https://mybill.ucdavis.edu)
+ - date_published: 2024-07-01T22:10:28.382040+00:00
+
+ ## myucdavis
+ - [https://my.ucdavis.edu](https://my.ucdavis.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## News
+ - [http://news.ucdavis.edu](http://news.ucdavis.edu)
+ - date_published: 2024-10-18T15:42:23.147080+00:00
+
+ ## The Betty Irene Moore School of Nursing at UC Davis
+ - [http://nursing.ucdavis.edu](http://nursing.ucdavis.edu)
+ - date_published: 2024-07-01T22:22:56.795164+00:00
+
+ ## Office of the Ombuds
+ - [https://ombuds.ucdavis.edu](https://ombuds.ucdavis.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Orientation
+ - [https://orientation.ucdavis.edu](https://orientation.ucdavis.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## UC Davis Particle Theory: Terning
+ - [http://particle.physics.ucdavis.edu](http://particle.physics.ucdavis.edu)
+ - date_published: 2024-06-30T05:32:03.171973+00:00
+
+ ## Promise Engineering Institute
+ - [https://pei.ucdavis.edu](https://pei.ucdavis.edu)
+ - date_published: 2024-06-07T21:35:59+00:00
+
+ ## Search Results -
+        UC Davis Health
+ - [https://physicians.ucdavis.edu](https://physicians.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:09.723076+00:00
+
+ ## UC Davis Postdoctoral Scholars Association
+ - [https://postdocs.ucdavis.edu](https://postdocs.ucdavis.edu)
+ - date_published: 2024-06-27T05:46:24+00:00
+
+ ## UC Davis Profiles • Find/collaborate with leading health researchers
+ - [https://profiles.ucdavis.edu](https://profiles.ucdavis.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Quarter at Aggie Square
+ - [https://qas.ucdavis.edu](https://qas.ucdavis.edu)
+ - date_published: 2024-06-27T07:21:43+00:00
+
+ ## Welcome - AP Recruit
+ - [https://recruit.ucdavis.edu](https://recruit.ucdavis.edu)
+ - date_published: 2024-05-07T20:43:12.170875+00:00
+
+ ## Redwood SEED Scholars Program
+ - [https://redwoodseed.sf.ucdavis.edu](https://redwoodseed.sf.ucdavis.edu)
+ - date_published: 2024-09-13T18:40:35+00:00
+
+ ## Redwood SEED Scholars Program
+ - [https://redwoodseed.ucdavis.edu](https://redwoodseed.ucdavis.edu)
+ - date_published: 2024-06-02T03:57:59+00:00
+
+ ## Office of the University Registrar (OUR)
+ - [https://registrar.ucdavis.edu](https://registrar.ucdavis.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home | Repro Graphics
+ - [https://reprographics.sf.ucdavis.edu](https://reprographics.sf.ucdavis.edu)
+ - date_published: 2024-06-27T05:29:03+00:00
+
+ ## Home | Repro Graphics
+ - [https://reprographics.ucdavis.edu](https://reprographics.ucdavis.edu)
+ - date_published: 2024-06-27T03:20:35+00:00
+
+ ## UC Davis Office of Research - Davis, California - University
+ - [https://research.ucdavis.edu](https://research.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:57.360595+00:00
+
+ ## Emergency Preparedness and Response
+ - [https://response.vetmed.ucdavis.edu](https://response.vetmed.ucdavis.edu)
+ - date_published: 2024-06-27T10:40:06+00:00
+
+ ## UC Davis Retiree Center
+ - [https://retireecenter.ucdavis.edu](https://retireecenter.ucdavis.edu)
+ - date_published: 2024-06-27T04:58:50+00:00
+
+ ## Robert Mondavi Institute for Wine and Food Science
+ - [http://rmi.ucdavis.edu](http://rmi.ucdavis.edu)
+ - date_published: 2024-10-18T15:43:45.487473+00:00
+
+ ## Safe Party
+ - [https://safeparty.ucdavis.edu](https://safeparty.ucdavis.edu)
+ - date_published: 2024-07-01T22:21:56.095314+00:00
+
+ ## Safety Services
+ - [https://safetyservices.ucdavis.edu](https://safetyservices.ucdavis.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Learning & Organizational Development
+ - [https://sdps.ucdavis.edu](https://sdps.ucdavis.edu)
+ - date_published: 2022-09-27T20:45:36+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://secure.vetmed.ucdavis.edu](https://secure.vetmed.ucdavis.edu)
+ - date_published: 2024-07-01T22:24:26.115021+00:00
+
+ ## ServiceHub - ServiceHub
+ - [https://servicehub.ucdavis.edu](https://servicehub.ucdavis.edu)
+ - date_published: 2024-07-01T22:09:27.068347+00:00
+
+ ## Student Health and Counseling Services
+ - [https://shcs.ucdavis.edu](https://shcs.ucdavis.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Sisweb, the student information system on the web
+ - [https://sisweb.ucdavis.edu](https://sisweb.ucdavis.edu)
+ - date_published: 2020-10-21T16:35:26+00:00
+
+ ## Home | SiteFarm
+ - [https://sitefarm.ucdavis.edu](https://sitefarm.ucdavis.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Campus Licensed Software - ServiceHub
+ - [https://software.ucdavis.edu](https://software.ucdavis.edu)
+ - date_published: 2024-07-01T22:10:17.389263+00:00
+
+ ## System Support Group (SSG)
+ - [https://ssg.cs.ucdavis.edu](https://ssg.cs.ucdavis.edu)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Staff Assembly
+ - [https://staff.ucdavis.edu](https://staff.ucdavis.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home - Student Startup Center - UC Davis
+ - [https://startup.ucdavis.edu](https://startup.ucdavis.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## UC Davis Status
+ - [http://status.ucdavis.edu](http://status.ucdavis.edu)
+ - date_published: 2024-07-01T22:09:34.312239+00:00
+
+ ## Strategic Communications
+ - [https://strategiccommunications.ucdavis.edu](https://strategiccommunications.ucdavis.edu)
+ - date_published: 2024-06-27T22:43:49+00:00
+
+ ## Student Affairs
+ - [https://studentaffairs.ucdavis.edu](https://studentaffairs.ucdavis.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Student Affairs
+ - [http://studentlife.ucdavis.edu](http://studentlife.ucdavis.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Student Parent Resources
+ - [https://studentparents.ucdavis.edu](https://studentparents.ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## OASIS
+ - [https://students.ucdavis.edu](https://students.ucdavis.edu)
+ - date_published: 2024-07-01T22:10:05.066558+00:00
+
+ ## Summer Sessions
+ - [https://summer-sessions.ucdavis.edu](https://summer-sessions.ucdavis.edu)
+ - date_published: 2024-07-01T21:56:29+00:00
+
+ ## Summer Sessions
+ - [https://summer.ucdavis.edu](https://summer.ucdavis.edu)
+ - date_published: 2024-07-01T22:02:33+00:00
+
+ ## Supply Chain Management
+ - [https://supplychain.ucdavis.edu](https://supplychain.ucdavis.edu)
+ - date_published: 2024-07-01T21:52:13+00:00
+
+ ## Sustainable UC Davis
+ - [https://sustainability.ucdavis.edu](https://sustainability.ucdavis.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Sustainable Oceans - From Policy To Science To Decisions
+ - [https://sustainableoceans.ucdavis.edu](https://sustainableoceans.ucdavis.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Transfer Admission Guarantee
+ - [https://tag.ucdavis.edu](https://tag.ucdavis.edu)
+ - date_published: 2021-03-02T17:52:06+00:00
+
+ ## Tahoe Environmental Research Center
+ - [https://tahoe.ucdavis.edu](https://tahoe.ucdavis.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Transportation Services
+ - [https://taps.ucdavis.edu](https://taps.ucdavis.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Tahoe Environmental Research Center
+ - [http://terc.sf.ucdavis.edu](http://terc.sf.ucdavis.edu)
+ - date_published: 2024-06-28T20:29:16+00:00
+
+ ## CAS – Central Authentication Service
+ - [https://trs.ucdavis.edu](https://trs.ucdavis.edu)
+ - date_published: 2024-07-01T22:08:06.257015+00:00
+
+ ## UC Davis
+ - [https://ucdavis.edu](https://ucdavis.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | UC Davis Magazine
+ - [https://ucdavismagazine.ucdavis.edu](https://ucdavismagazine.ucdavis.edu)
+ - date_published: 2020-08-24T18:39:10+00:00
+
+ ## UC Degree Completion Program
+ - [https://ucdcp.ucdavis.edu](https://ucdcp.ucdavis.edu)
+ - date_published: 2024-06-27T10:16:01+00:00
+
+ ## Undergraduate Education
+ - [https://ue.ucdavis.edu](https://ue.ucdavis.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Unitrans
+ - [http://unitrans.ucdavis.edu](http://unitrans.ucdavis.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Undergraduate Research Center | Undergraduate Research Center
+ - [https://urc.ucdavis.edu](https://urc.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:22.520926+00:00
+
+ ## Veterinary Medicine Extension / School of Veterinary Medicine
+ - [https://vetext.vetmed.ucdavis.edu](https://vetext.vetmed.ucdavis.edu)
+ - date_published: 2024-06-27T05:21:31+00:00
+
+ ## Visit UC Davis
+ - [https://visit.ucdavis.edu](https://visit.ucdavis.edu)
+ - date_published: 2021-01-08T22:29:29+00:00
+
+ ## UC Davis Accreditation
+ - [https://wasc.ucdavis.edu](https://wasc.ucdavis.edu)
+ - date_published: 2024-06-27T08:25:48+00:00
+
+ ## Washington Program
+ - [https://washingtonprogram.ucdavis.edu](https://washingtonprogram.ucdavis.edu)
+ - date_published: 2024-06-27T05:15:03+00:00
+
+ ## Center for Watershed Sciences
+ - [https://watershed.sf.ucdavis.edu](https://watershed.sf.ucdavis.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Center for Watershed Sciences
+ - [https://watershed.ucdavis.edu](https://watershed.ucdavis.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Computer Science
+ - [https://web.cs.ucdavis.edu](https://web.cs.ucdavis.edu)
+ - date_published: 2023-10-25T18:59:47.853350+00:00
+
+ ## Viticulture and Enology
+ - [https://wineserver.ucdavis.edu](https://wineserver.ucdavis.edu)
+ - date_published: 2024-06-21T17:34:16+00:00
+
+ ## World Food Center
+ - [https://worldfoodcenter.ucdavis.edu](https://worldfoodcenter.ucdavis.edu)
+ - date_published: 2024-06-27T05:08:05+00:00
+
+ ## Writing Center - a dynamic, friendly and professional writing resource hub | Writing Center
+ - [https://writingcenter.ucdavis.edu](https://writingcenter.ucdavis.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## UC Davis College of Letters and Science
+ - [https://www.ls.ucdavis.edu](https://www.ls.ucdavis.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Mathematics Home :: math.ucdavis.edu
+ - [http://www.math.ucdavis.edu](http://www.math.ucdavis.edu)
+ - date_published: 2024-06-30T11:19:39.509686+00:00
+
+ ## UC Davis Health | University of California, Davis
+ - [https://www.ucdmc.ucdavis.edu](https://www.ucdmc.ucdavis.edu)
+ - date_published: 2024-05-07T20:44:40.873243+00:00
+
+ ## UC Davis School of Veterinary Medicine
+ - [https://www.vetmed.ucdavis.edu](https://www.vetmed.ucdavis.edu)
+ - date_published: 2024-05-07T20:45:35.013277+00:00
+
+ ## College Admissions | Undergraduate-Transfer-Graduate |  CU Denver
+ - [https://application.admissions.ucdenver.edu](https://application.admissions.ucdenver.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## College of Architecture and Planning at CU Denver
+ - [https://architectureandplanning.ucdenver.edu](https://architectureandplanning.ucdenver.edu)
+ - date_published: 2024-08-10T12:04:45+00:00
+
+ ## College of Arts & Media
+ - [https://artsandmedia.ucdenver.edu](https://artsandmedia.ucdenver.edu)
+ - date_published: 2024-08-08T23:32:48+00:00
+
+ ## CU Denver Business School
+ - [https://business.ucdenver.edu](https://business.ucdenver.edu)
+ - date_published: 2024-08-10T19:17:50+00:00
+
+ ## Events from Jun. 6 – Jun. 27 | University Events Calendar
+ - [https://calendar.ucdenver.edu](https://calendar.ucdenver.edu)
+ - date_published: 2024-07-22T18:41:32.838254+00:00
+
  ## College of Liberal Arts and Sciences
  - [https://clas.ucdenver.edu](https://clas.ucdenver.edu)
  - date_published: 2024-07-21T16:46:23+00:00
@@ -3256,773 +4026,4 @@
  ## Career Center
  - [https://careers.ucr.edu](https://careers.ucr.edu)
  - date_published: 2024-07-01T15:08:31+00:00
-
- ## CARE Program
- - [https://care.ucr.edu](https://care.ucr.edu)
- - date_published: 2024-05-07T20:57:01.705119+00:00
-
- ## Case Management
- - [https://casemanagement.ucr.edu](https://casemanagement.ucr.edu)
- - date_published: 2024-04-05T04:02:46+00:00
-
- ## Center for Bibliographical Studies and Research (CBSR)
- - [https://cbsr.ucr.edu](https://cbsr.ucr.edu)
- - date_published: 2024-05-27T11:07:31+00:00
-
- ## California Digital Newspaper Collection
- - [https://cdnc.ucr.edu](https://cdnc.ucr.edu)
- - date_published: 2024-05-07T09:16:04.491684+00:00
-
- ## Office of the Chancellor
- - [http://chancellor.ucr.edu](http://chancellor.ucr.edu)
- - date_published: 2024-06-07T03:27:13+00:00
-
- ## UCRiverside | Login
- - [https://chconline.ucr.edu](https://chconline.ucr.edu)
- - date_published: 2024-07-01T23:36:12.637864+00:00
-
- ## CNAS Undergraduate Academic Advising Center
- - [https://cnasstudent.ucr.edu](https://cnasstudent.ucr.edu)
- - date_published: 2024-06-28T23:36:44+00:00
-
- ## College of Natural & Agricultural Sciences
- - [https://cnas.ucr.edu](https://cnas.ucr.edu)
- - date_published: 2024-07-01T22:47:07+00:00
-
- ## Compliance
- - [https://compliance.ucr.edu](https://compliance.ucr.edu)
- - date_published: 2024-06-25T17:56:49+00:00
-
- ## Supporting integrity and accountability at UCR
- - [https://conduct.ucr.edu](https://conduct.ucr.edu)
- - date_published: 2024-05-22T16:22:02+00:00
-
- ## We've been waiting for a Highlander like you!
- - [https://connect.ucr.edu](https://connect.ucr.edu)
- - date_published: 2024-07-01T23:35:53+00:00
-
- ## Counseling & Psychological Services
- - [https://counseling.ucr.edu](https://counseling.ucr.edu)
- - date_published: 2024-05-07T20:56:56.771638+00:00
-
- ## The Creator State
- - [https://creatorstate.ucr.edu](https://creatorstate.ucr.edu)
- - date_published: 2024-04-03T06:48:09+00:00
-
- ## Share the spirit of Raza with UCR's Chicano Student Programs!
- - [https://csp.ucr.edu](https://csp.ucr.edu)
- - date_published: 2024-05-07T20:57:33.431969+00:00
-
- ## UCR Dean of Students
- - [https://deanofstudents.ucr.edu](https://deanofstudents.ucr.edu)
- - date_published: 2024-05-07T20:57:17.897630+00:00
-
- ## Dining Services
- - [https://dining.ucr.edu](https://dining.ucr.edu)
- - date_published: 2024-07-01T23:35:43.324815+00:00
-
- ## Office of Diversity, Equity & Inclusion
- - [https://diversity.ucr.edu](https://diversity.ucr.edu)
- - date_published: 2024-05-07T20:57:34.669512+00:00
-
- ## Center for Early Childhood Education
- - [https://ecs.ucr.edu](https://ecs.ucr.edu)
- - date_published: 2024-06-28T16:40:58+00:00
-
- ## Environmental Health & Safety
- - [https://ehs.ucr.edu](https://ehs.ucr.edu)
- - date_published: 2024-07-01T23:38:38+00:00
-
- ## Office of Emergency Management
- - [https://emergency.ucr.edu](https://emergency.ucr.edu)
- - date_published: 2024-05-31T17:09:31+00:00
-
- ## Events Calendar
- - [https://events.ucr.edu](https://events.ucr.edu)
- - date_published: 2024-05-07T20:57:21.046479+00:00
-
- ## UCR University Extension
- - [https://extension.ucr.edu](https://extension.ucr.edu)
- - date_published: 2024-07-01T23:35:50.907292+00:00
-
- ## Facilities Services
- - [https://facilities.ucr.edu](https://facilities.ucr.edu)
- - date_published: 2024-07-01T22:34:25+00:00
-
- ## Highlander Family Network
- - [https://families.ucr.edu](https://families.ucr.edu)
- - date_published: 2024-07-01T22:40:58+00:00
-
- ## The Office of Financial Aid
- - [https://financialaid.ucr.edu](https://financialaid.ucr.edu)
- - date_published: 2024-05-07T20:57:15.365680+00:00
-
- ## Connect with the Office of Foster Youth Support Services
- - [https://fosteryouth.ucr.edu](https://fosteryouth.ucr.edu)
- - date_published: 2024-05-07T20:57:06.418302+00:00
-
- ## UCR Values Freedom of Speech
- - [https://freespeech.ucr.edu](https://freespeech.ucr.edu)
- - date_published: 2024-04-05T04:56:47+00:00
-
- ## UCR Botanic Gardens
- - [https://gardens.ucr.edu](https://gardens.ucr.edu)
- - date_published: 2024-07-01T21:35:06+00:00
-
- ## Giving
- - [https://giving.ucr.edu](https://giving.ucr.edu)
- - date_published: 2024-06-28T07:47:50+00:00
-
- ## Graduate Division
- - [https://graduate.ucr.edu](https://graduate.ucr.edu)
- - date_published: 2024-06-27T22:44:45+00:00
-
- ## Connect with the Office of Foster Youth Support Services
- - [https://guardianscholars.ucr.edu](https://guardianscholars.ucr.edu)
- - date_published: 2024-06-13T19:06:58+00:00
-
- ## Healthy Campus
- - [https://healthycampus.ucr.edu](https://healthycampus.ucr.edu)
- - date_published: 2024-05-17T16:54:00+00:00
-
- ## Help@UCR
- - [https://help.ucr.edu](https://help.ucr.edu)
- - date_published: 2024-06-12T21:32:49+00:00
-
- ## Highlander Empowerment Student Services Referendum
- - [https://hessr.ucr.edu](https://hessr.ucr.edu)
- - date_published: 2024-04-05T04:02:09+00:00
-
- ## - HighlanderLink
- - [https://highlanderlink.ucr.edu](https://highlanderlink.ucr.edu)
- - date_published: 2024-07-01T23:37:48.452092+00:00
-
- ## The HOSS
- - [http://hoss.ucr.edu](http://hoss.ucr.edu)
- - date_published: 2024-04-03T06:52:48+00:00
-
- ## Housing Services
- - [https://housing.ucr.edu](https://housing.ucr.edu)
- - date_published: 2024-07-01T22:48:23+00:00
-
- ## Human Resources
- - [https://hr.ucr.edu](https://hr.ucr.edu)
- - date_published: 2024-07-01T22:47:53+00:00
-
- ## Highlander Union Building
- - [https://hub.ucr.edu](https://hub.ucr.edu)
- - date_published: 2024-05-22T17:29:47+00:00
-
- ## Health, Well-being & Safety
- - [https://hws.ucr.edu](https://hws.ucr.edu)
- - date_published: 2024-05-24T19:14:40+00:00
-
- ## Interdisciplinary Center for Quantitative Modeling in Biology
- - [https://icqmb.ucr.edu](https://icqmb.ucr.edu)
- - date_published: 2024-06-18T18:42:19+00:00
-
- ## Inclusion at UCR
- - [https://inclusion.ucr.edu](https://inclusion.ucr.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Inside UCR | UC Riverside
- - [https://insideucr.ucr.edu](https://insideucr.ucr.edu)
- - date_published: 2024-05-07T20:57:44.934793+00:00
-
- ## International Affairs
- - [https://international.ucr.edu](https://international.ucr.edu)
- - date_published: 2024-06-27T18:02:54+00:00
-
- ## Information Technology Solutions
- - [https://its.ucr.edu](https://its.ucr.edu)
- - date_published: 2024-07-01T23:36:23+00:00
-
- ## University of California, Riverside - Jobs
- - [https://jobsportal.ucr.edu](https://jobsportal.ucr.edu)
- - date_published: 2024-06-26T00:10:19+00:00
-
- ## Jobs
- - [https://jobs.ucr.edu](https://jobs.ucr.edu)
- - date_published: 2024-05-07T20:57:26.431360+00:00
-
- ## Learning Resources
- - [https://keeplearning.ucr.edu](https://keeplearning.ucr.edu)
- - date_published: 2024-06-18T17:36:18+00:00
-
- ## UC Library Application Manager
- - [https://libapps.ucr.edu](https://libapps.ucr.edu)
- - date_published: 2024-07-01T23:39:22.113796+00:00
-
- ## UCR Library | Giving
- - [https://library-giving.ucr.edu](https://library-giving.ucr.edu)
- - date_published: 2024-03-22T14:51:50+00:00
-
- ## Library
- - [https://library.ucr.edu](https://library.ucr.edu)
- - date_published: 2024-05-07T20:57:31.232994+00:00
-
- ## UCR Magazine
- - [https://magazine.ucr.edu](https://magazine.ucr.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Department of Mathematics
- - [https://mathdept.ucr.edu](https://mathdept.ucr.edu)
- - date_published: 2024-05-07T20:57:41.720908+00:00
-
- ## Microtutorials in Mathematics
- - [https://mathtutorials.ucr.edu](https://mathtutorials.ucr.edu)
- - date_published: 2024-06-03T19:43:16+00:00
-
- ## https://math.ucr.edu
- - [https://math.ucr.edu](https://math.ucr.edu)
- - date_published: 2018-09-18T00:48:22+00:00
-
- ## Connect with UCR's MESC!
- - [https://mesc.ucr.edu](https://mesc.ucr.edu)
- - date_published: 2024-05-07T20:57:35.616451+00:00
-
- ## Microtutorials in Mathematics
- - [https://microtutorials.ucr.edu](https://microtutorials.ucr.edu)
- - date_published: 2024-06-03T19:43:16+00:00
-
- ## UC Management Skills Assessment Program
- - [https://msap.ucr.edu](https://msap.ucr.edu)
- - date_published: 2024-04-03T04:45:01+00:00
-
- ## Giving
- - [https://myadv.ucr.edu](https://myadv.ucr.edu)
- - date_published: 2024-05-07T20:57:39.804859+00:00
-
- ## MyUCR Login
- - [http://my.ucr.edu](http://my.ucr.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Native American Student Programs
- - [https://nasp.ucr.edu](https://nasp.ucr.edu)
- - date_published: 2024-05-07T20:57:07.491047+00:00
-
- ## | News
- - [https://news.ucr.edu](https://news.ucr.edu)
- - date_published: 2023-10-25T19:00:55.178548+00:00
-
- ## Highlander Orientation
- - [https://orientation.ucr.edu](https://orientation.ucr.edu)
- - date_published: 2024-06-26T22:03:14+00:00
-
- ## Connect with UCR's LGBT Resource Center!
- - [https://out.ucr.edu](https://out.ucr.edu)
- - date_published: 2024-05-07T20:56:53.721165+00:00
-
- ## Department of Philosophy
- - [http://philosophy.ucr.edu](http://philosophy.ucr.edu)
- - date_published: 2024-06-24T14:59:34+00:00
-
- ## Placement and Advisory Examinations
- - [https://placementtest.ucr.edu](https://placementtest.ucr.edu)
- - date_published: 2024-05-13T19:32:24+00:00
-
- ## Police & Campus Safety
- - [https://police.ucr.edu](https://police.ucr.edu)
- - date_published: 2024-07-01T18:46:07+00:00
-
- ## UCR Profiles - Search & Browse
- - [http://profiles.ucr.edu](http://profiles.ucr.edu)
- - date_published: 2024-05-11T21:19:36+00:00
-
- ## Undocumented Student Programs
- - [http://rdream.ucr.edu](http://rdream.ucr.edu)
- - date_published: 2024-04-09T16:38:49+00:00
-
- ## UCR Recreation
- - [https://recreationregistration.ucr.edu](https://recreationregistration.ucr.edu)
- - date_published: 2024-07-01T23:38:04.414590+00:00
-
- ## Recreation
- - [https://recreation.ucr.edu](https://recreation.ucr.edu)
- - date_published: 2024-06-28T16:05:07+00:00
-
- ## The Office of the Registrar
- - [https://registrar.ucr.edu](https://registrar.ucr.edu)
- - date_published: 2024-06-25T02:43:44+00:00
-
- ## UCRiverside | Login
- - [https://rweb.ucr.edu](https://rweb.ucr.edu)
- - date_published: 2024-07-01T23:37:21.098108+00:00
-
- ## Student Affairs Assessment & Research
- - [https://saar.ucr.edu](https://saar.ucr.edu)
- - date_published: 2024-05-31T21:23:09+00:00
-
- ## Student Business Services
- - [https://sbs.ucr.edu](https://sbs.ucr.edu)
- - date_published: 2024-05-03T20:48:46+00:00
-
- ## Accessibility is golden at UCR
- - [https://sdrc.ucr.edu](https://sdrc.ucr.edu)
- - date_published: 2024-06-25T18:32:04+00:00
-
- ## Senate
- - [http://senate.ucr.edu](http://senate.ucr.edu)
- - date_published: 2024-07-01T23:36:54.914448+00:00
-
- ## Title IX, Equal Opportunity and Affirmative Action
- - [http://sexualviolence.ucr.edu](http://sexualviolence.ucr.edu)
- - date_published: 2024-04-25T01:08:49+00:00
-
- ## School of Public Policy
- - [https://spp.ucr.edu](https://spp.ucr.edu)
- - date_published: 2024-06-24T20:24:54+00:00
-
- ## Staff Assembly
- - [https://staffassembly.ucr.edu](https://staffassembly.ucr.edu)
- - date_published: 2024-07-01T20:38:06+00:00
-
- ## Department of Statistics
- - [https://statistics.ucr.edu](https://statistics.ucr.edu)
- - date_published: 2024-06-27T16:00:49+00:00
-
- ## Strategic Plan
- - [https://strategicplan.ucr.edu](https://strategicplan.ucr.edu)
- - date_published: 2024-07-01T18:30:07+00:00
-
- ## Student Affairs
- - [https://studentaffairs.ucr.edu](https://studentaffairs.ucr.edu)
- - date_published: 2024-04-05T03:53:42+00:00
-
- ## Get High-Quality Medical Care from Student Health Services
- - [https://studenthealth.ucr.edu](https://studenthealth.ucr.edu)
- - date_published: 2024-05-07T20:57:03.745633+00:00
-
- ## Get Involved at UCR!
- - [https://studentlife.ucr.edu](https://studentlife.ucr.edu)
- - date_published: 2024-06-04T23:33:42+00:00
-
- ## Health, Well-being & Safety
- - [https://studentwellness.ucr.edu](https://studentwellness.ucr.edu)
- - date_published: 2024-05-07T20:57:28.220544+00:00
-
- ## Summer Sessions
- - [https://summer.ucr.edu](https://summer.ucr.edu)
- - date_published: 2024-06-25T23:12:45+00:00
-
- ## SWIFT Crisis Response & Intervention
- - [https://swift.ucr.edu](https://swift.ucr.edu)
- - date_published: 2024-04-03T04:06:43+00:00
-
- ## Title IX, Equal Opportunity and Affirmative Action
- - [http://titleix.ucr.edu](http://titleix.ucr.edu)
- - date_published: 2024-04-25T00:44:20+00:00
-
- ## Tobacco Free
- - [https://tobaccofree.ucr.edu](https://tobaccofree.ucr.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## We've been waiting for a Highlander like you!
- - [http://tours.ucr.edu](http://tours.ucr.edu)
- - date_published: 2024-07-01T23:35:53+00:00
-
- ## Transportation Services
- - [https://transportation.ucr.edu](https://transportation.ucr.edu)
- - date_published: 2024-07-01T17:16:20+00:00
-
- ## UCPath Campus Support Center
- - [http://ucpath.ucr.edu](http://ucpath.ucr.edu)
- - date_published: 2024-04-29T15:36:55+00:00
-
- ## University of California, Riverside
- - [https://ucr.edu](https://ucr.edu)
- - date_published: 2024-05-07T20:57:23.081434+00:00
-
- ## UC Learning Center
- - [https://ucrlearning.ucr.edu](https://ucrlearning.ucr.edu)
- - date_published: 2024-06-12T23:14:02+00:00
-
- ## UCR News | UC Riverside
- - [https://ucrtoday.ucr.edu](https://ucrtoday.ucr.edu)
- - date_published: 2024-07-01T23:40:48.278297+00:00
-
- ## Undocumented Student Programs
- - [https://usp.ucr.edu](https://usp.ucr.edu)
- - date_published: 2024-04-09T16:38:49+00:00
-
- ## Planning, Budget & Administration
- - [https://vcpb.ucr.edu](https://vcpb.ucr.edu)
- - date_published: 2024-04-03T06:19:01+00:00
-
- ## Student Affairs Human Resources
- - [https://vcsahr.ucr.edu](https://vcsahr.ucr.edu)
- - date_published: 2024-04-05T04:54:59+00:00
-
- ## Student Affairs
- - [http://vcsa.ucr.edu](http://vcsa.ucr.edu)
- - date_published: 2024-04-05T03:53:42+00:00
-
- ## UC Riverside is for Veterans!
- - [https://veterans.ucr.edu](https://veterans.ucr.edu)
- - date_published: 2024-04-03T07:06:05+00:00
-
- ## Art of Assembly Language Programming and HLA by Randall Hyde
- - [https://webster.cs.ucr.edu](https://webster.cs.ucr.edu)
- - date_published: 2014-06-16T20:01:31+00:00
-
- ## The Well
- - [https://well.ucr.edu](https://well.ucr.edu)
- - date_published: 2024-05-07T20:57:16.479338+00:00
-
- ## Discover UCR's WRC!
- - [https://wrc.ucr.edu](https://wrc.ucr.edu)
- - date_published: 2024-04-05T03:39:47+00:00
-
- ## Computer Science and Engineering
- - [http://www.cs.ucr.edu](http://www.cs.ucr.edu)
- - date_published: 2024-08-08T19:50:39+00:00
-
- ## Department of Electrical and Computer Engineering
- - [http://www.ee.ucr.edu](http://www.ee.ucr.edu)
- - date_published: 2024-10-19T07:43:05.816817+00:00
-
- ## American Cultures and Global Contexts Center – Interdisciplinary, innovative research and pedagogy in t he study of American cultures.
- - [https://acgcc.english.ucsb.edu](https://acgcc.english.ucsb.edu)
- - date_published: 2024-07-01T23:41:26.715098+00:00
-
- ## Home | Undergraduate Admissions
- - [https://admissions.sa.ucsb.edu](https://admissions.sa.ucsb.edu)
- - date_published: 2024-06-12T15:15:10+00:00
-
- ## The Agrippa Files
- - [https://agrippa.english.ucsb.edu](https://agrippa.english.ucsb.edu)
- - date_published: 2024-01-09T03:28:12.292436+00:00
-
- ## member portal
- - [https://alert.ucsb.edu](https://alert.ucsb.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Alexandria Digital Research Library
- - [http://alexandria.ucsb.edu](http://alexandria.ucsb.edu)
- - date_published: 2024-09-14T10:14:00.254371+00:00
-
- ## Alumni Highlights
- - [https://alumni-highlights.pstat.ucsb.edu](https://alumni-highlights.pstat.ucsb.edu)
- - date_published: 2021-06-14T23:08:37+00:00
-
- ## Home
- - [https://alumni.ucsb.edu](https://alumni.ucsb.edu)
- - date_published: 2024-06-11T18:31:02+00:00
-
- ## About this site
- - [https://apps.dining.ucsb.edu](https://apps.dining.ucsb.edu)
- - date_published: 2024-09-14T10:14:59.930649+00:00
-
- ## About this site
- - [https://apps.housing.ucsb.edu](https://apps.housing.ucsb.edu)
- - date_published: 2024-09-14T10:15:02.195143+00:00
-
- ## Home | Basic Needs
- - [https://basicneeds.ucsb.edu](https://basicneeds.ucsb.edu)
- - date_published: 2024-09-06T22:51:43+00:00
-
- ## Biological Engineering | UC Santa Barbara
- - [https://bioengineering.ucsb.edu](https://bioengineering.ucsb.edu)
- - date_published: 2024-09-13T19:44:11.091292+00:00
-
- ## Home - UCSB Professional and Continuing Education
- - [https://blockchain.professional.ucsb.edu](https://blockchain.professional.ucsb.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Sign In
- - [https://blue.sa.ucsb.edu](https://blue.sa.ucsb.edu)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Bowers Group
- - [http://bowers.chem.ucsb.edu](http://bowers.chem.ucsb.edu)
- - date_published: 2024-06-17T12:17:47.162005+00:00
-
- ## Home
- - [https://brand.ucsb.edu](https://brand.ucsb.edu)
- - date_published: 2024-05-23T21:20:08+00:00
-
- ## UCSB Bren School of Environmental Science & Management
- - [https://bren.ucsb.edu](https://bren.ucsb.edu)
- - date_published: 2024-07-03T12:49:32.420930+00:00
-
- ## Events Calendar
- - [https://campuscalendar.ucsb.edu](https://campuscalendar.ucsb.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | UC Santa Barbara Campus Store
- - [http://campusstore.ucsb.edu](http://campusstore.ucsb.edu)
- - date_published: 2024-09-14T10:16:20.606942+00:00
-
- ## Home | Counseling & Psychological Services
- - [https://caps.sa.ucsb.edu](https://caps.sa.ucsb.edu)
- - date_published: 2024-09-09T23:01:42+00:00
-
- ## Home | UC Santa Barbara Career Services
- - [https://career.sa.ucsb.edu](https://career.sa.ucsb.edu)
- - date_published: 2024-09-14T10:12:37.956973+00:00
-
- ## Home | UC Santa Barbara Career Services
- - [https://career.ucsb.edu](https://career.ucsb.edu)
- - date_published: 2024-09-14T10:16:07.352619+00:00
-
- ## Home | Campus Advocacy, Resources & Education (CARE)
- - [https://care.ucsb.edu](https://care.ucsb.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## The Catalyst – UCSB's Literary Arts Magazine
- - [https://catalyst.english.ucsb.edu](https://catalyst.english.ucsb.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## UCSB College of Creative Studies
- - [https://ccs.ucsb.edu](https://ccs.ucsb.edu)
- - date_published: 2024-04-29T03:32:44.065533+00:00
-
- ## Center for Financial Mathematics and Actuarial Research - UC Santa Barbara
- - [https://cfmar.pstat.ucsb.edu](https://cfmar.pstat.ucsb.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home | Graduate Student Association • Chemical Engineering • College of Engineering • University of California, Santa Barbara
- - [http://chegsa.engineering.ucsb.edu](http://chegsa.engineering.ucsb.edu)
- - date_published: 2024-10-19T08:20:47.739154+00:00
-
- ## Chemical Engineering - UC Santa Barbara
- - [https://chemengr.ucsb.edu](https://chemengr.ucsb.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | College of Letters & Science
- - [https://college.ucsb.edu](https://college.ucsb.edu)
- - date_published: 2024-05-07T20:58:45.475138+00:00
-
- ## COMMA – Center for Modern Literature, Materialism and Aesthetics
- - [http://comma.english.ucsb.edu](http://comma.english.ucsb.edu)
- - date_published: 2023-05-26T23:21:40+00:00
-
- ## Home | Conference & Hospitality Services
- - [https://conferences.ucsb.edu](https://conferences.ucsb.edu)
- - date_published: 2024-09-14T10:15:05.575129+00:00
-
- ## Home | Undergraduate Admissions
- - [https://connect.admissions.ucsb.edu](https://connect.admissions.ucsb.edu)
- - date_published: 2024-09-13T15:46:33+00:00
-
- ## Home | UCSB Computer Science
- - [http://cs.ucsb.edu](http://cs.ucsb.edu)
- - date_published: 2024-06-27T13:57:03.759938+00:00
-
- ## Data Science Initiative - UC Santa Barbara
- - [https://datascience.ucsb.edu](https://datascience.ucsb.edu)
- - date_published: 2024-07-01T22:51:19+00:00
-
- ## Home | Institutional Advancement
- - [https://dia.ucsb.edu](https://dia.ucsb.edu)
- - date_published: 2024-05-07T20:58:40.757409+00:00
-
- ## Home | UCSB Dining
- - [https://dining.ucsb.edu](https://dining.ucsb.edu)
- - date_published: 2024-09-14T10:15:03.945604+00:00
-
- ## Home | Disabled Students Program
- - [https://dsp.sa.ucsb.edu](https://dsp.sa.ucsb.edu)
- - date_published: 2024-09-11T23:37:41+00:00
-
- ## Division of Undergraduate Education - UC Santa Barbara
- - [https://duels.ucsb.edu](https://duels.ucsb.edu)
- - date_published: 2024-07-01T23:50:57+00:00
-
- ## UCSB English Broadside Ballad Archive
- - [http://ebba.english.ucsb.edu](http://ebba.english.ucsb.edu)
- - date_published: 2024-08-08T03:29:14.437622+00:00
-
- ## Expressive Computation Lab
- - [https://ecl.mat.ucsb.edu](https://ecl.mat.ucsb.edu)
- - date_published: 2024-04-27T19:34:55+00:00
-
- ## Home | The Gevirtz School (GGSE) - UC Santa Barbara
- - [https://education.ucsb.edu](https://education.ucsb.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Log In - UCSB Authentication Service
- - [https://egrades.sa.ucsb.edu](https://egrades.sa.ucsb.edu)
- - date_published: 2024-09-14T10:16:49.261430+00:00
-
- ## The Early Modern Center – Department of English, University of California at Santa Barbara
- - [http://emc.english.ucsb.edu](http://emc.english.ucsb.edu)
- - date_published: 2024-07-01T23:41:22.057880+00:00
-
- ## Home | Emergency Management & Mission Continuity
- - [http://emergency.ucsb.edu](http://emergency.ucsb.edu)
- - date_published: 2024-09-11T03:56:37+00:00
-
- ## College of Engineering - UC Santa Barbara
- - [https://engineering.ucsb.edu](https://engineering.ucsb.edu)
- - date_published: 2024-06-13T23:55:26+00:00
-
- ## UCSB English Department
- - [https://english.ucsb.edu](https://english.ucsb.edu)
- - date_published: 2024-05-07T20:58:11.492113+00:00
-
- ## University of California at Santa Barbara Extension a leader in continuing education, special programs, professional training, and certificate and award programs. Earning a certificate or award through UCSB Extension will give you personal enrichment and a competitive edge in your current job or help you move into a new career.
- - [https://enroll.professional.ucsb.edu](https://enroll.professional.ucsb.edu)
- - date_published: 2024-09-14T10:15:17.754563+00:00
-
- ## Literature and the Environment – A Research Center at UCSB Department of English
- - [http://environment.english.ucsb.edu](http://environment.english.ucsb.edu)
- - date_published: 2024-07-01T23:41:25.343952+00:00
-
- ## UCSB Professional and Continuing Education
- - [https://extension.ucsb.edu](https://extension.ucsb.edu)
- - date_published: 2024-06-14T14:39:37.464428+00:00
-
- ## Home | Basic Needs
- - [https://food.ucsb.edu](https://food.ucsb.edu)
- - date_published: 2024-09-06T22:51:43+00:00
-
- ## Giving to the University of California, Santa Barbara
- - [https://giving.ucsb.edu](https://giving.ucsb.edu)
- - date_published: 2024-05-07T20:58:47.966068+00:00
-
- ## Home | UCSB Global Engagement
- - [https://globalengagement.ucsb.edu](https://globalengagement.ucsb.edu)
- - date_published: 2024-09-14T10:11:05.424365+00:00
-
- ## Home | Global Latinidades
- - [https://globallatinidades.ucsb.edu](https://globallatinidades.ucsb.edu)
- - date_published: 2024-07-01T23:41:23.869734+00:00
-
- ## Home | Graduate Division
- - [https://graddiv.ucsb.edu](https://graddiv.ucsb.edu)
- - date_published: 2024-06-12T23:43:23+00:00
-
- ## Sign In
- - [https://gradpoint.ucsb.edu](https://gradpoint.ucsb.edu)
- - date_published: 2024-09-14T10:16:46.344155+00:00
-
- ## Home | Grad Slam
- - [https://gradslam.ucsb.edu](https://gradslam.ucsb.edu)
- - date_published: 2024-08-29T05:33:03+00:00
-
- ## Hai Lab UCSB
- - [https://hai.chem.ucsb.edu](https://hai.chem.ucsb.edu)
- - date_published: 2024-10-19T08:20:24.774717+00:00
-
- ## Home | Housing, Dining & Auxiliary Enterprises
- - [https://hdae.ucsb.edu](https://hdae.ucsb.edu)
- - date_published: 2024-09-14T10:14:57.284045+00:00
-
- ## Help Center | UCSB Professional and Continuing Education Help Center
- - [https://help.professional.ucsb.edu](https://help.professional.ucsb.edu)
- - date_published: 2024-09-10T22:40:32+00:00
-
- ## Hemispheric South/s – University of California Santa Barbara
- - [http://hemsouths.english.ucsb.edu](http://hemsouths.english.ucsb.edu)
- - date_published: 2024-07-01T23:47:13.886733+00:00
-
- ## UCSB High Energy Physics Home Page
- - [http://hep.ucsb.edu](http://hep.ucsb.edu)
- - date_published: 2022-06-29T17:11:05+00:00
-
- ## Home | Campus Housing
- - [https://housing.ucsb.edu](https://housing.ucsb.edu)
- - date_published: 2024-06-14T14:39:34.554272+00:00
-
- ## Untitled Document
- - [https://hpca2018.ece.ucsb.edu](https://hpca2018.ece.ucsb.edu)
- - date_published: 2020-10-07T01:23:01+00:00
-
- ## Home | Four Eyes Lab
- - [https://ilab.cs.ucsb.edu](https://ilab.cs.ucsb.edu)
- - date_published: 2023-04-15T22:08:38+00:00
-
- ## Home | UC Santa Barbara | Residential Network (ResNet)
- - [https://info.resnet.ucsb.edu](https://info.resnet.ucsb.edu)
- - date_published: 2024-09-14T10:14:53.474171+00:00
-
- ## Home | UCSB Innovation + Entrepreneurship
- - [https://innovation.ucsb.edu](https://innovation.ucsb.edu)
- - date_published: 2024-08-29T23:19:10+00:00
-
- ## LibCal -
-        University of California, Santa Barbara
- - [https://libcal.library.ucsb.edu](https://libcal.library.ucsb.edu)
- - date_published: 2024-09-14T10:13:58.510433+00:00
-
- ## UCSB Library
- - [https://library.ucsb.edu](https://library.ucsb.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## lists.cs.ucsb.edu Mailing Lists
- - [https://lists.cs.ucsb.edu](https://lists.cs.ucsb.edu)
- - date_published: 2024-06-27T13:57:05.595609+00:00
-
- ## Alan Liu
- - [https://liu.english.ucsb.edu](https://liu.english.ucsb.edu)
- - date_published: 2024-07-01T23:48:54.660957+00:00
-
- ## Home | Ludkovski
- - [https://ludkovski.pstat.ucsb.edu](https://ludkovski.pstat.ucsb.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Fall/Winter 2023 Home
- - [https://magazine.ucsb.edu](https://magazine.ucsb.edu)
- - date_published: 2024-05-07T20:58:41.991720+00:00
-
- ## UC Santa Barbara Campus Map
- - [https://maps.ucsb.edu](https://maps.ucsb.edu)
- - date_published: 2024-06-14T14:39:06.348042+00:00
-
- ## UC Santa Barbara Campus Map
- - [https://map.ucsb.edu](https://map.ucsb.edu)
- - date_published: 2024-06-14T14:39:08.512610+00:00
-
- ## Materials - UC Santa Barbara
- - [https://materials.ucsb.edu](https://materials.ucsb.edu)
- - date_published: 2024-09-13T19:44:05+00:00
-
- ## Home | UCSB Multicultural Center
- - [https://mcc.sa.ucsb.edu](https://mcc.sa.ucsb.edu)
- - date_published: 2024-09-14T10:12:35.511635+00:00
-
- ## McNair Scholars Program - UC Santa Barbara
- - [https://mcnair.ucsb.edu](https://mcnair.ucsb.edu)
- - date_published: 2024-02-08T22:06:39.602435+00:00
-
- ## Medieval Literatures | Medieval Literature Scholars of the English Department at UC Santa Barbara
- - [http://medieval.english.ucsb.edu](http://medieval.english.ucsb.edu)
- - date_published: 2024-07-01T23:47:06.275692+00:00
-
- ## Mechanical Engineering - UC Santa Barbara
- - [https://me.ucsb.edu](https://me.ucsb.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## LITERATURE AND MIND
- - [http://mind.english.ucsb.edu](http://mind.english.ucsb.edu)
- - date_published: 2024-07-01T23:47:07.727847+00:00
-
- ## Home | Mind and Machine Intelligence | UC Santa Barbara
- - [https://mind-machine.ucsb.edu](https://mind-machine.ucsb.edu)
- - date_published: 2024-07-01T23:48:58.343024+00:00
-
- ## Home | UCSB Marine Science Institute
- - [https://msi.ucsb.edu](https://msi.ucsb.edu)
- - date_published: 2024-10-19T08:20:50.498018+00:00
-
- ## Insert title here
- - [https://mybarc.ucsb.edu](https://mybarc.ucsb.edu)
- - date_published: 2024-09-14T10:17:17.712866+00:00
-
- ## Login
- - [https://myclas.sa.ucsb.edu](https://myclas.sa.ucsb.edu)
- - date_published: 2024-09-14T10:16:40.981902+00:00
-
- ## MyUCSB Start Page
- - [https://my.sa.ucsb.edu](https://my.sa.ucsb.edu)
- - date_published: 2024-06-14T14:39:40.224233+00:00
-
- ## UC Santa Barbara News & Events | The Current
- - [https://news.ucsb.edu](https://news.ucsb.edu)
- - date_published: 2023-10-25T19:00:57.283089+00:00
-
- ## Home | Non-Traditional Student Resource Center
- - [https://nontrad.sa.ucsb.edu](https://nontrad.sa.ucsb.edu)
- - date_published: 2024-08-29T00:21:21+00:00
 

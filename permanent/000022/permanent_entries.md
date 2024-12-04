@@ -1,3 +1,96 @@
+ ## Agence de développement web & communication, Lausanne — Bee Interactive
+ - [https://bee-interactive.ch](https://bee-interactive.ch)
+ - date_published: 2024-05-11T10:18:28.712143+00:00
+
+ ## Blog – Bee Interactive
+ - [https://blog.bee-interactive.ch](https://blog.bee-interactive.ch)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - Benvenuti nella regione di Bellinzona e Valli! | bellinzonaevalli.ch
+ - [https://www.bellinzonaevalli.ch](https://www.bellinzonaevalli.ch)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Beni Bischof
+ - [http://benibischof.ch](http://benibischof.ch)
+ - date_published: 2017-05-04T04:25:59+00:00
+
+ ## Benjamin Muzzin
+ - [http://www.benjaminmuzzin.ch](http://www.benjaminmuzzin.ch)
+ - date_published: 2024-07-13T16:27:55.400208+00:00
+
+ ## Stuff that keeps me awake at night
+ - [http://www.benzedrine.ch](http://www.benzedrine.ch)
+ - date_published: 2017-09-26T06:57:43+00:00
+
+ ## Schweizer Medium mit Fokus auf Recht und Gerechtigkeit | Beobachter
+ - [https://www.beobachter.ch](https://www.beobachter.ch)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Outdoor Shop für Bergsport, Klettern & Trekking | Berg-freunde.ch
+ - [https://www.berg-freunde.ch](https://www.berg-freunde.ch)
+ - date_published: 2024-07-14T12:11:11.632167+00:00
+
+ ## Bergwaldprojekt - Freiwilligenarbeit im Bergwald
+ - [https://bergwaldprojekt.ch](https://bergwaldprojekt.ch)
+ - date_published: 2024-10-29T11:15:44.331289+00:00
+
+ ## Stadt Bern
+ - [https://www.bern.ch](https://www.bern.ch)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## MTU Ninja | Vincent Bernat
+ - [https://bernat.ch](https://bernat.ch)
+ - date_published: 2024-04-30T05:58:46.919513+00:00
+
+ ## MTU Ninja | Vincent Bernat
+ - [https://vincent.bernat.ch](https://vincent.bernat.ch)
+ - date_published: 2023-10-25T08:43:17.908139+00:00
+ - tags: ['personal']
+
+ ## Agenda - Berner Oberländer
+ - [https://agenda.berneroberlaender.ch](https://agenda.berneroberlaender.ch)
+ - date_published: 2024-07-22T17:33:28.566366+00:00
+
+ ## Berner Oberländer | Nachrichten aus dem Berner Oberland
+ - [https://berneroberlaender.ch](https://berneroberlaender.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Berner Oberländer
+ - [https://helpcenter.berneroberlaender.ch](https://helpcenter.berneroberlaender.ch)
+ - date_published: 2023-07-23T17:33:15+00:00
+
+ ## Agenda - Berner Zeitung
+ - [https://agenda.bernerzeitung.ch](https://agenda.bernerzeitung.ch)
+ - date_published: 2024-07-22T17:34:08.168878+00:00
+
+ ## BZ Berner Zeitung | Nachrichten und Fakten aus Bern
+ - [https://bernerzeitung.ch](https://bernerzeitung.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Berner Zeitung
+ - [https://helpcenter.bernerzeitung.ch](https://helpcenter.bernerzeitung.ch)
+ - date_published: 2023-07-22T05:38:12+00:00
+
+ ## Die Berufsbildung in der Schweiz
+ - [https://www.berufsbildung-schweiz.ch](https://www.berufsbildung-schweiz.ch)
+ - date_published: 2024-10-14T21:50:37+00:00
+
+ ## Bern University of Applied Sciences
+ - [https://bfh.ch](https://bfh.ch)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Alumni Association
+ - [https://www.alumni.bfh.ch](https://www.alumni.bfh.ch)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Hochschule der Künste Bern
+ - [https://www.hkb.bfh.ch](https://www.hkb.bfh.ch)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Home | BFSUG – Beratung für Schwerhörige und Gehörlose
+ - [https://www.bfsug.ch](https://www.bfsug.ch)
+ - date_published: 2024-10-29T11:16:03.115264+00:00
+
  ## Brain & Heart Communication - Social Media Agentur
  - [https://2024.b-h.ch](https://2024.b-h.ch)
  - date_published: 2024-07-17T00:00:00+00:00
@@ -1687,6 +1780,10 @@
  ## Login for the service CRPP web services (crppwww)
  - [https://crppwww.epfl.ch](https://crppwww.epfl.ch)
  - date_published: 2024-05-12T07:16:03.482070+00:00
+
+ ## CVLab
+ - [https://cvlab.epfl.ch](https://cvlab.epfl.ch)
+ - date_published: 2024-12-03T21:40:41.268246+00:00
 
  ## Digital and Cognitive Musicology Lab
  - [https://dcml.epfl.ch](https://dcml.epfl.ch)
@@ -3912,100 +4009,4 @@
  ## Startseite
  - [https://www.htr-milestone.ch](https://www.htr-milestone.ch)
  - date_published: 2024-07-04T04:07:43.752473+00:00
-
- ## HUG - Hôpitaux universitaires de Genève
- - [https://www.hug.ch](https://www.hug.ch)
- - date_published: 2024-07-19T13:16:26+00:00
-
- ## IAB Switzerland | IAB Switzerland Association
- - [https://www.iab-switzerland.ch](https://www.iab-switzerland.ch)
- - date_published: 2024-06-25T22:03:31.711490+00:00
-
- ## IAESTE Switzerland - International Student Exchange
- - [https://www.iaeste.ch](https://www.iaeste.ch)
- - date_published: 2020-12-17T10:19:08+00:00
-
- ## Iconomix - Iconomix – economics for everyone
- - [https://www.iconomix.ch](https://www.iconomix.ch)
- - date_published: 2024-07-16T22:18:36.249161+00:00
-
- ## Accueil | ICTjournal
- - [https://www.ictjournal.ch](https://www.ictjournal.ch)
- - date_published: 2024-08-19T15:44:33+00:00
-
- ## ICT-Ticker – Der Schweizer ICT-Medienspiegel
- - [https://ict-ticker.ch](https://ict-ticker.ch)
- - date_published: 2024-07-13T09:53:01.632543+00:00
-
- ## Idéative - web and digital agency in Geneva and Bern
- - [https://ideative.ch](https://ideative.ch)
- - date_published: 2024-04-30T05:59:45.699421+00:00
-
- ## Les Saugettes - 11 villas à Apples | 11 villas contigües à Apples, proche de Morges, avec une vue dégagée et au calme
- - [https://www.idee-dailleurs.ch](https://www.idee-dailleurs.ch)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Idiap Research Institute
- - [https://www.idiap.ch](https://www.idiap.ch)
- - date_published: 2024-05-27T12:11:29+00:00
-
- ## SUPSI - Dalle Molle Institute for Artificial Intelligence - Homepage
- - [http://idsia.ch](http://idsia.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home page | IEC
- - [https://webstore.iec.ch](https://webstore.iec.ch)
- - date_published: 2024-10-16T07:24:04.669395+00:00
-
- ## Homepage
- - [https://www.iec.ch](https://www.iec.ch)
- - date_published: 2024-07-02T21:01:26+00:00
-
- ## Fotobuch, Fotokalender, Fotogrusskarten online erstellen | ifolor
- - [https://www.ifolor.ch](https://www.ifolor.ch)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Startseite - Eidgenössisches Institut für Geistiges Eigentum
- - [https://www.ige.ch](https://www.ige.ch)
- - date_published: 2024-10-22T08:57:55.680456+00:00
-
- ## igus® – Hochleistungspolymere für Bewegung
- - [https://www.igus.ch](https://www.igus.ch)
- - date_published: 2024-08-06T23:12:52.468833+00:00
-
- ## ImmoScout24: Immobilien in der Schweiz mieten & kaufen
- - [http://www.immoscout24.ch](http://www.immoscout24.ch)
- - date_published: 2024-07-21T05:50:14.353809+00:00
-
- ## Immobilien Schweiz – Wohnung mieten, Haus kaufen - ImmoStreet.ch
- - [https://www.immostreet.ch](https://www.immostreet.ch)
- - date_published: 2024-07-21T04:52:31.264904+00:00
-
- ## NZZ Connect
- - [https://impactfinanceforum.ch](https://impactfinanceforum.ch)
- - date_published: 2024-07-21T05:49:48.033974+00:00
-
- ## imrich.net
- - [https://imri.ch](https://imri.ch)
- - date_published: 2024-07-13T04:32:23.396768+00:00
-
- ## inagenda.ch
- - [https://www.inagenda.ch](https://www.inagenda.ch)
- - date_published: 2024-07-15T12:25:24.671979+00:00
-
- ## InCore Bank AG
- - [https://www.incorebank.ch](https://www.incorebank.ch)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Indoor Astronaut – developing Unrailed!
- - [https://indoorastronaut.ch](https://indoorastronaut.ch)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Einfache Werkzeuge um hervorragende Produkte zu entwickeln - Inflectra Schweiz
- - [http://www.inflectrasoftware.ch](http://www.inflectrasoftware.ch)
- - date_published: 2023-09-03T23:52:18+00:00
-
- ## 🚀  Web hosting, cloud computing, cloud server, domain name, email, radio streaming and more!
- - [https://www.infomaniak.ch](https://www.infomaniak.ch)
- - date_published: 2024-05-01T06:55:11.768907+00:00
 

@@ -1,3 +1,193 @@
+ ## www.lmp.d2g.com
+ - [http://lmp.d2g.com](http://lmp.d2g.com)
+ - date_published: 2023-12-14T08:50:54+00:00
+ - tags: ['demoscene']
+
+ ## D2iQ | Enterprise Kubernetes Platform
+ - [https://d2iq.com](https://d2iq.com)
+ - date_published: 2024-09-18T22:19:41.608324+00:00
+
+ ## @storybook/cli - Storybook
+ - [https://design-system.d2iq.com](https://design-system.d2iq.com)
+ - date_published: 2023-12-14T19:20:49+00:00
+
+ ## Nutanix Help Center
+ - [http://docs.d2iq.com](http://docs.d2iq.com)
+ - date_published: 2024-09-18T22:19:39.764534+00:00
+
+ ## D2iQ Engineering
+ - [https://eng.d2iq.com](https://eng.d2iq.com)
+ - date_published: 2024-09-18T22:19:46.221716+00:00
+
+ ## D2iQ
+ - [https://support.d2iq.com](https://support.d2iq.com)
+ - date_published: 2024-09-18T22:19:44.918146+00:00
+
+ ## Home - Brightspace
+ - [https://community.d2l.com](https://community.d2l.com)
+ - date_published: 2024-07-01T17:39:04+00:00
+
+ ## D2L | Online Learning Platform | Creators of the Brightspace LMS Software
+ - [http://www.d2l.com](http://www.d2l.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | D2 Documentation
+ - [https://d2-lang.com](https://d2-lang.com)
+ - date_published: 2024-07-23T21:15:35.603275+00:00
+
+ ## Home | D2 Documentation
+ - [https://d2lang.com](https://d2lang.com)
+ - date_published: 2024-05-06T16:10:34.133168+00:00
+
+ ## D2 Playground
+ - [https://play.d2lang.com](https://play.d2lang.com)
+ - date_published: 2024-03-24T06:56:58+00:00
+
+ ## Design-2-Part Trade Shows | See The Best Manufacturers Face-to-Face at the Region's Largest Contract Manufacturing Trade Show
+ - [https://www.d2p.com](https://www.d2p.com)
+ - date_published: 2024-09-05T21:53:11.926451+00:00
+
+ ## Tools, Resources, and News for Diablo 2 Resurrected - D2Runewizard
+ - [https://d2runewizard.com](https://d2runewizard.com)
+ - date_published: 2023-10-30T15:21:18.226777+00:00
+ - tags: ['diablo']
+
+ ## Diablo II Tomb of Knowledge Home Page
+ - [http://d2tomb.com](http://d2tomb.com)
+ - date_published: 2024-07-12T13:39:39+00:00
+ - tags: ['fan page', 'diablo']
+
+ ## Diablo 3 - AnDre#2616 pl
+ - [https://d3andre.com](https://d3andre.com)
+ - date_published: 2024-06-12T21:15:03+00:00
+ - tags: ['diablo']
+
+ ## D3 Bahamas | October 10-12, 2023 | Building Trust in Web3
+ - [https://www.d3bahamas.com](https://www.d3bahamas.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## D3Boost – Your #1 Diablo 4 Boosting & Gearing Provider
+ - [https://d3boost.com](https://d3boost.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## The D3 Graph Gallery – Simple charts made in d3.js
+ - [https://d3-graph-gallery.com](https://d3-graph-gallery.com)
+ - date_published: 2024-05-07T10:30:02.245538+00:00
+
+ ## D3 in Depth
+ - [https://d3indepth.com](https://d3indepth.com)
+ - date_published: 2024-05-16T14:18:07+00:00
+
+ ## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
+ - [http://d3maxstats.com](http://d3maxstats.com)
+ - date_published: 2024-06-12T21:13:41+00:00
+ - tags: ['diablo']
+
+ ## D3R - Web Design and Development
+ - [https://d3r.com](https://d3r.com)
+ - date_published: 2024-07-09T09:12:52.943225+00:00
+
+ ## Diablo 3 Resources
+ - [https://d3resource.com](https://d3resource.com)
+ - date_published: 2023-10-25T11:08:36.624986+00:00
+ - tags: ['diablo']
+
+ ## https://d3sanctuary.com
+ - [https://d3sanctuary.com](https://d3sanctuary.com)
+ - date_published: 2023-12-13T16:21:58.317851+00:00
+
+ ## Smart SOAR - The World's Leading Independent SOAR Platform
+ - [https://d3security.com](https://d3security.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## D3 SOAR Docs
+ - [https://docs.d3security.com](https://docs.d3security.com)
+ - date_published: 2024-07-16T20:50:13.738054+00:00
+
+ ## d4 Caltrops
+ - [https://blog.d4caltrops.com](https://blog.d4caltrops.com)
+ - date_published: 2024-08-17T23:28:30+00:00
+
+ ## D4V (Design for Ventures)
+ - [https://d4v.com](https://d4v.com)
+ - date_published: 2024-09-18T23:53:05.796554+00:00
+
+ ## D6 Combat - Geeking out about Tabletop Wargames and D&D
+ - [https://d6combat.com](https://d6combat.com)
+ - date_published: 2024-04-28T04:44:07.735311+00:00
+
+ ## D6 TEAM - indie app & game developer
+ - [https://d6team.com](https://d6team.com)
+ - date_published: 2024-05-08T17:19:52.226645+00:00
+
+ ## Warhammer 40k Orks (and more)
+ - [http://www.da40korks.com](http://www.da40korks.com)
+ - date_published: 2024-09-26T17:35:14+00:00
+
+ ## Davide A – Designer, Investor. Fewer, better things.
+ - [http://da5ide.com](http://da5ide.com)
+ - date_published: 2022-03-18T15:17:39+00:00
+
+ ## DAAily
+ - [https://daaily.com](https://daaily.com)
+ - date_published: 2024-05-11T11:09:31.615710+00:00
+
+ ## Daalder Culinair
+ - [https://daalderculinair.com](https://daalderculinair.com)
+ - date_published: 2024-07-03T06:44:04.220239+00:00
+
+ ## Data as a Product Podcast Network – Exploring what it means to treat data as a product
+ - [https://daappod.com](https://daappod.com)
+ - date_published: 2024-07-09T12:17:05.888757+00:00
+
+ ## Daar Communication Plc – Nigeria's Premiere Private Broadcast Network
+ - [https://daargroup.com](https://daargroup.com)
+ - date_published: 2024-06-17T16:29:53.834178+00:00
+
+ ## Login - Daasity
+ - [https://app.daasity.com](https://app.daasity.com)
+ - date_published: 2024-08-11T05:10:26.876477+00:00
+
+ ## Daasity | ELT & Analytics for Consumer Brands
+ - [https://daasity.com](https://daasity.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## 👋 Daasity Overview | Help Center
+ - [https://help.daasity.com](https://help.daasity.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Leading Web and Mobile App Development agency, Brighton - DabApps
+ - [https://www.dabapps.com](https://www.dabapps.com)
+ - date_published: 2024-07-22T17:34:51.320681+00:00
+
+ ## dabblet.com
+ - [https://dabblet.com](https://dabblet.com)
+ - date_published: 2018-05-16T20:09:05+00:00
+
+ ## DABclassic Radio – radio DAB+
+ - [https://dabclassic.com](https://dabclassic.com)
+ - date_published: 2024-09-02T15:15:47.323058+00:00
+
+ ## Home Page
+ - [https://dabdoob.com](https://dabdoob.com)
+ - date_published: 2024-06-20T13:45:16.239928+00:00
+
+ ## Dabeaz
+ - [http://dabeaz.com](http://dabeaz.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Home - Dabico
+ - [https://www.dabico.com](https://www.dabico.com)
+ - date_published: 2024-10-23T06:17:26.911623+00:00
+
+ ## Dabl TV Network - Get Into It!
+ - [https://dabl.com](https://dabl.com)
+ - date_published: 2024-04-30T07:28:59.809985+00:00
+
+ ## Dabl TV Network - Get Into It!
+ - [https://dabltvnetwork.com](https://dabltvnetwork.com)
+ - date_published: 2024-07-21T02:50:30.128358+00:00
+
  ## The Detroit Association of Black Organizations (DABO) is a federation of over 130 black, and non-black organizations working to build community unity.
  - [https://dabodetroitinc.com](https://dabodetroitinc.com)
  - date_published: 2024-05-04T14:05:07.768226+00:00
@@ -3597,6 +3787,10 @@
  - [https://databasediagram.com](https://databasediagram.com)
  - date_published: 2023-06-17T03:37:26+00:00
 
+ ## Open Source Database Designs
+ - [https://databasesample.com](https://databasesample.com)
+ - date_published: 2024-12-03T14:27:02.856232+00:00
+
  ## Database Soup
  - [http://www.databasesoup.com](http://www.databasesoup.com)
  - date_published: 2024-09-02T07:38:24+00:00
@@ -3862,192 +4056,4 @@
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://imgix.datadoghq.com](https://imgix.datadoghq.com)
  - date_published: 2024-04-19T00:00:00+00:00
-
- ## Investor Relations | Datadog
- - [https://investors.datadoghq.com](https://investors.datadoghq.com)
- - date_published: 2024-10-09T00:00:00+00:00
-
- ## Cloud Monitoring as a Service | Datadog
- - [https://lp.datadoghq.com](https://lp.datadoghq.com)
- - date_published: 2016-07-14T20:32:45+00:00
-
- ## Open Source Hub |  Datadog Open Source Hub
- - [https://opensource.datadoghq.com](https://opensource.datadoghq.com)
- - date_published: 2024-05-01T04:03:28.929725+00:00
-
- ## Datadog: Log In
- - [https://sbchat.datadoghq.com](https://sbchat.datadoghq.com)
- - date_published: 2024-08-11T03:22:01.348008+00:00
-
- ## Home |  Datadog Security Labs
- - [https://securitylabs.datadoghq.com](https://securitylabs.datadoghq.com)
- - date_published: 2023-10-25T13:43:42.783008+00:00
-
- ## Datadog AP1 Status
- - [https://status.ap1.datadoghq.com](https://status.ap1.datadoghq.com)
- - date_published: 2024-06-15T17:47:40.363390+00:00
-
- ## Datadog US1 Status
- - [https://status.datadoghq.com](https://status.datadoghq.com)
- - date_published: 2024-05-01T04:01:07.489353+00:00
-
- ## Datadog US3 Status
- - [https://status.us3.datadoghq.com](https://status.us3.datadoghq.com)
- - date_published: 2024-06-15T17:47:46.686957+00:00
-
- ## Datadog US5 Status
- - [https://status.us5.datadoghq.com](https://status.us5.datadoghq.com)
- - date_published: 2024-06-15T17:47:35.348414+00:00
-
- ## Data Driven Community - Home page
- - [https://datadrivencommunity.com](https://datadrivencommunity.com)
- - date_published: 2024-08-06T14:03:30+00:00
-
- ## Data Driven Fasting App
- - [https://app.datadrivenfasting.com](https://app.datadrivenfasting.com)
- - date_published: 2024-05-06T22:03:07.217874+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.datadrivenfasting.com](https://www.datadrivenfasting.com)
- - date_published: 2024-05-06T22:03:04.181678+00:00
-
- ## Data-Driven Hypothesis
- - [https://www.datadrivenhypothesis.com](https://www.datadrivenhypothesis.com)
- - date_published: 2024-02-01T18:57:00+00:00
-
- ## DataDrivenInvestor | Data | Knowledge | Expertise
- - [https://datadriveninvestor.com](https://datadriveninvestor.com)
- - date_published: 2024-06-19T23:44:51.265992+00:00
-
- ## DDIntel | Justin Chan, Ph.D. | Substack
- - [https://ddintel.datadriveninvestor.com](https://ddintel.datadriveninvestor.com)
- - date_published: 2024-05-04T11:43:23.623100+00:00
-
- ## Join DDI
- - [https://join.datadriveninvestor.com](https://join.datadriveninvestor.com)
- - date_published: 2024-06-19T23:44:03.392251+00:00
-
- ## DataDrivenInvestor
- - [https://medium.datadriveninvestor.com](https://medium.datadriveninvestor.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Data Council 2024
- - [https://www.dataengconf.com](https://www.dataengconf.com)
- - date_published: 2024-06-15T22:50:29+00:00
-
- ## Data Engineering Podcast
- - [https://www.dataengineeringpodcast.com](https://www.dataengineeringpodcast.com)
- - date_published: 2024-05-06T13:58:17.287594+00:00
-
- ## Data Engineering Weekly | Ananth Packkildurai | Substack
- - [https://www.dataengineeringweekly.com](https://www.dataengineeringweekly.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Dataescher Home Page
- - [https://dataescher.com](https://dataescher.com)
- - date_published: 2024-11-16T08:32:23.012214+00:00
-
- ## Datafantic
- - [https://datafantic.com](https://datafantic.com)
- - date_published: 2024-05-01T04:03:32.299272+00:00
-
- ## Data Fetcher | API Connector for Airtable
- - [http://datafetcher.com](http://datafetcher.com)
- - date_published: 2024-07-10T05:51:08.947748+00:00
-
- ## DataFragment - Search engine for source code
- - [https://www.datafragment.com](https://www.datafragment.com)
- - date_published: 2024-08-27T16:43:53+00:00
-
- ## DataGeeek
- - [https://datageeek.com](https://datageeek.com)
- - date_published: 2024-06-27T15:21:47.120411+00:00
-
- ## Data Geekery
- - [https://www.datageekery.com](https://www.datageekery.com)
- - date_published: 2024-07-10T03:23:09.618972+00:00
-
- ## DataGenetics
- - [https://datagenetics.com](https://datagenetics.com)
- - date_published: 2024-05-07T14:26:57.705161+00:00
-
- ## Data Gibberish | Yordan Ivanov | Substack
- - [https://datagibberish.com](https://datagibberish.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Datagraver
- - [https://datagraver.com](https://datagraver.com)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## DataGuidance
- - [https://www.dataguidance.com](https://www.dataguidance.com)
- - date_published: 2024-07-04T08:23:20.686955+00:00
-
- ## The Data Hazards Project — Data Hazards v1.0 documentation
- - [https://datahazards.com](https://datahazards.com)
- - date_published: 2024-06-10T08:03:55+00:00
-
- ## 405 Not allowed.
- - [https://brands.datahc.com](https://brands.datahc.com)
- - date_published: 2024-07-30T03:44:26.650744+00:00
-
- ## DataHeadhunters - Elite Remote Data Talent Recruitment
- - [https://dataheadhunters.com](https://dataheadhunters.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## dataiFX
- - [http://dataifx.com](http://dataifx.com)
- - date_published: 2018-04-17T15:22:36+00:00
-
- ## PathFactory
- - [https://content.dataiku.com](https://content.dataiku.com)
- - date_published: 2024-06-19T20:44:31.415300+00:00
-
- ## Dataiku | Everyday AI, Extraordinary People
- - [https://www.dataiku.com](https://www.dataiku.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Data Imaginist
- - [https://data-imaginist.com](https://data-imaginist.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home
- - [https://datainnovations.com](https://datainnovations.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Data Innovation Summit 2025 | 10th Edition
- - [https://datainnovationsummit.com](https://datainnovationsummit.com)
- - date_published: 2024-10-30T22:45:57.628620+00:00
-
- ## Cierpliwości...
- - [https://dataintelo.com](https://dataintelo.com)
- - date_published: 2024-05-06T22:34:18.217267+00:00
-
- ## Data Is Plural
- - [https://podcast.data-is-plural.com](https://podcast.data-is-plural.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Data Is Plural
- - [https://www.data-is-plural.com](https://www.data-is-plural.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Data Scientist | Dave Ramsey | PHL | blog
- - [https://datajazzdave.com](https://datajazzdave.com)
- - date_published: 2024-02-26T14:45:39.711412+00:00
-
- ## Unparalleled Data Insight to Power Customer Growth - DataLabs Group
- - [https://datalabsgroup.com](https://datalabsgroup.com)
- - date_published: 2022-08-09T00:00:00+00:00
-
- ## datalars
- - [https://datalars.com](https://datalars.com)
- - date_published: 2023-10-25T13:44:08.044566+00:00
-
- ## Live! 360 Events
- - [https://datalive360.com](https://datalive360.com)
- - date_published: 2024-06-29T13:25:52.774182+00:00
-
- ## Device Programmers & ISP Programming by Dataman Programmers
- - [http://www.dataman.com](http://www.dataman.com)
- - date_published: 2024-10-15T22:13:51.236370+00:00
 

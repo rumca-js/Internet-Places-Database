@@ -1,3 +1,44 @@
+ ## YouTube Video Summarizer with ChatGPT - YTSummary
+ - [https://ytsummary.app](https://ytsummary.app)
+ - date_published: 2024-07-10T11:15:31.452678+00:00
+
+ ## YYNN — Rate everything
+ - [https://yynn.app](https://yynn.app)
+ - date_published: 2024-07-21T04:22:07.734395+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausiblepig.zeabur.app](https://plausiblepig.zeabur.app)
+ - date_published: 2024-09-14T07:48:09.900756+00:00
+
+ ## Show HN: Python-Type-Challenges, master Python typing with online exercises
+ - [https://python-type-challenges.zeabur.app](https://python-type-challenges.zeabur.app)
+ - date_published: 2023-11-29T06:38:03+00:00
+
+ ## Zen: Firefox Based Browser
+ - [https://zen-browser.app](https://zen-browser.app)
+ - date_published: 2024-10-19T10:59:42+00:00
+ - tags: ['zen browser', 'web browser']
+
+ ## Zen Mode for macOS
+ - [https://zenmode.app](https://zenmode.app)
+ - date_published: 2024-09-28T02:53:15+00:00
+
+ ## Zergo
+ - [https://api.zergo.app](https://api.zergo.app)
+ - date_published: 2024-10-02T11:36:38.295621+00:00
+
+ ## Charge Platform
+ - [https://red.zergo.app](https://red.zergo.app)
+ - date_published: 2024-06-16T10:54:04.929352+00:00
+
+ ## Web3 experiences as smooth as Web2.
+ - [https://zerodev.app](https://zerodev.app)
+ - date_published: 2024-03-15T15:41:05+00:00
+
+ ## ZEUS: Bitcoin payments your way
+ - [https://zeusln.app](https://zeusln.app)
+ - date_published: 2024-05-06T02:23:00+00:00
+
  ## Zimly - Opensource S3 Backup for Android
  - [https://zimly.app](https://zimly.app)
  - date_published: 2024-09-02T09:55:48.696642+00:00
@@ -3990,44 +4031,4 @@ October 2024 in Singapore
  ## Digital Society
  - [https://digisociety.at](https://digisociety.at)
  - date_published: 2015-05-24T14:01:18+00:00
-
- ## Digitaler Kompass - Institut für Nachrichtenkompetenz und digitale Bildung
- - [https://www.digitalerkompass.at](https://www.digitalerkompass.at)
- - date_published: 2024-07-02T22:28:23.699396+00:00
-
- ## Digital Hunter Österreich
- - [https://digitalhunter.at](https://digitalhunter.at)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home | DigitAlly
- - [http://www.digitally.at](http://www.digitally.at)
- - date_published: 2024-07-13T11:35:21.659064+00:00
-
- ## WERBEAGENTUR Wien - Digital Rockstars: Die Online Marketing Agentur
- - [https://www.digitalrockstars.at](https://www.digitalrockstars.at)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Home
- - [https://digitalsportsfan.at](https://digitalsportsfan.at)
- - date_published: 2024-10-29T10:04:46.286464+00:00
-
- ## Di-mog-i.at - Die Singlebörse für Oberösterreich!
- - [https://di-mog-i.at](https://di-mog-i.at)
- - date_published: 2024-07-13T11:29:35.288349+00:00
-
- ## Domäne Wachau
- - [https://www.domaene-wachau.at](https://www.domaene-wachau.at)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Client XSS Introduction - DomGoat
- - [https://domgo.at](https://domgo.at)
- - date_published: 2024-06-19T22:53:03.848258+00:00
-
- ## MESS SVN History
- - [http://mess.dorando.at](http://mess.dorando.at)
- - date_published: 2024-09-15T08:39:16.880559+00:00
-
- ## DORIS interMAP - Startseite
- - [https://www.doris.at](https://www.doris.at)
- - date_published: 2024-09-13T16:18:58.934167+00:00
 

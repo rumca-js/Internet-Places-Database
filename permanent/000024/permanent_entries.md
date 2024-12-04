@@ -1,3 +1,103 @@
+ ## front
+ - [https://seg.inf.unibe.ch](https://seg.inf.unibe.ch)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## The Hans Sigrist Foundation
+ - [https://sigrist.unibe.ch](https://sigrist.unibe.ch)
+ - date_published: 2024-05-07T21:58:32.764212+00:00
+
+ ## Portal
+ - [https://unibe.ch](https://unibe.ch)
+ - date_published: 2024-06-14T23:30:18.262221+00:00
+
+ ## VAMOS 2024 – Feb 7-9, Bern, Switzerland
+ - [https://vamos2024.inf.unibe.ch](https://vamos2024.inf.unibe.ch)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Veranstaltungskalender - Universität Bern
+ - [https://www.agenda.unibe.ch](https://www.agenda.unibe.ch)
+ - date_published: 2024-09-15T15:05:36.469413+00:00
+
+ ## Astronomisches Institut
+ - [https://www.aiub.unibe.ch](https://www.aiub.unibe.ch)
+ - date_published: 2024-06-16T22:06:45.775120+00:00
+
+ ## Bernese GNSS Software
+ - [http://www.bernese.unibe.ch](http://www.bernese.unibe.ch)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Studienführer Universität Bern
+ - [https://www.bst.unibe.ch](https://www.bst.unibe.ch)
+ - date_published: 2024-09-15T15:05:38.742410+00:00
+
+ ## Computer Vision Group
+ - [https://www.cvg.unibe.ch](https://www.cvg.unibe.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Digitalisierung an der Universität Bern
+ - [https://www.digitalisierung.unibe.ch](https://www.digitalisierung.unibe.ch)
+ - date_published: 2024-09-15T15:05:33.828408+00:00
+
+ ## Gute Lehre an der Universität Bern
+ - [https://www.gutelehre.unibe.ch](https://www.gutelehre.unibe.ch)
+ - date_published: 2024-09-15T15:05:40.343858+00:00
+
+ ## Institut für Informatik
+ - [http://www.inf.unibe.ch](http://www.inf.unibe.ch)
+ - date_published: 2024-07-07T03:09:26.786415+00:00
+
+ ## Eine attraktive Arbeitgeberin
+ - [https://www.karriere.unibe.ch](https://www.karriere.unibe.ch)
+ - date_published: 2024-09-15T15:05:41.368412+00:00
+
+ ## Mathematisches Institut
+ - [http://www.math.unibe.ch](http://www.math.unibe.ch)
+ - date_published: 2024-06-30T09:23:35.880742+00:00
+
+ ## Institut für Medizingeschichte
+ - [http://www.mhi.unibe.ch](http://www.mhi.unibe.ch)
+ - date_published: 2024-06-24T09:35:17.842014+00:00
+
+ ## Philosophisch-naturwissenschaftliche Fakultät
+ - [https://www.philnat.unibe.ch](https://www.philnat.unibe.ch)
+ - date_published: 2024-10-14T21:39:31.877382+00:00
+
+ ## University Clinics UPD
+ - [http://www.puk.unibe.ch](http://www.puk.unibe.ch)
+ - date_published: 2024-06-24T09:50:41.770295+00:00
+
+ ## Exoplanets and Origins of Life
+ - [http://www.saintex.unibe.ch](http://www.saintex.unibe.ch)
+ - date_published: 2024-08-18T20:11:10.126892+00:00
+
+ ## Portal - Universität Bern
+ - [https://www.suche.unibe.ch](https://www.suche.unibe.ch)
+ - date_published: 2024-07-02T10:31:31.544456+00:00
+
+ ## Universitätsbibliothek Bern UB
+ - [https://www.ub.unibe.ch](https://www.ub.unibe.ch)
+ - date_published: 2024-09-15T15:05:32.069547+00:00
+
+ ## Das Online-Magazin der Universität Bern
+ - [https://www.uniaktuell.unibe.ch](https://www.uniaktuell.unibe.ch)
+ - date_published: 2024-09-15T15:05:42.936682+00:00
+
+ ## UniBE Mobile
+ - [https://www.uni-app.unibe.ch](https://www.uni-app.unibe.ch)
+ - date_published: 2024-09-15T15:05:39.668758+00:00
+
+ ## unicef.ch
+ - [https://www.unicef.ch](https://www.unicef.ch)
+ - date_published: 2024-07-12T07:53:11+00:00
+
+ ## University of Fribourg - Home |   | University of Fribourg
+ - [https://www.unifr.ch](https://www.unifr.ch)
+ - date_published: 2024-06-17T11:03:06.001985+00:00
+
+ ## Agenda des événements de l'Université de Genève - Événements
+ - [https://agenda.unige.ch](https://agenda.unige.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Accueil - Agora des associations d’étudiant.e.x.s  - UNIGE
  - [https://agora.unige.ch](https://agora.unige.ch)
  - date_published: 2019-02-14T00:00:00+00:00
@@ -43,6 +143,10 @@
  ## Accueil - Memento - UNIGE
  - [https://memento.unige.ch](https://memento.unige.ch)
  - date_published: 2019-10-02T00:00:00+00:00
+
+ ## Statistique pour sciences sociales
+ - [http://mephisto.unige.ch](http://mephisto.unige.ch)
+ - date_published: 2021-11-12T10:34:13+00:00
 
  ## Machine Learning Group - Machine Learning Group - UNIGE
  - [https://mlg.unige.ch](https://mlg.unige.ch)
@@ -3910,108 +4014,4 @@
  ## Directus Cloud
  - [https://directus.cloud](https://directus.cloud)
  - date_published: 2024-05-19T02:57:33.642389+00:00
-
- ## DocsGPT - Open Source AI Assistant
- - [https://www.docsgpt.cloud](https://www.docsgpt.cloud)
- - date_published: 2024-07-13T14:16:36.157486+00:00
-
- ## home
- - [https://poc.dokos.cloud](https://poc.dokos.cloud)
- - date_published: 2024-05-10T04:32:03.396833+00:00
-
- ## The Emperor's New Milestones
- - [https://milestones.dothub.cloud](https://milestones.dothub.cloud)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Build data analytics infrastructure in one day
- - [https://double.cloud](https://double.cloud)
- - date_published: 2024-10-14T08:42:13.436652+00:00
-
- ## Dragonfly Cloud
- - [https://dragonflydb.cloud](https://dragonflydb.cloud)
- - date_published: 2024-08-18T23:58:37.514376+00:00
-
- ## Dreamdata CDN
- - [https://cdn.dreamdata.cloud](https://cdn.dreamdata.cloud)
- - date_published: 2022-03-10T08:59:00+00:00
-
- ## Dremio
- - [https://app.dremio.cloud](https://app.dremio.cloud)
- - date_published: 2024-07-10T03:33:50.280378+00:00
-
- ## Dremio
- - [http://app.eu.dremio.cloud](http://app.eu.dremio.cloud)
- - date_published: 2024-07-10T03:33:43.586709+00:00
-
- ## Loading...
- - [https://workspace.easyv.cloud](https://workspace.easyv.cloud)
- - date_published: 2024-10-21T21:08:40.684736+00:00
-
- ## eGain
- - [https://greenpathcoach.egain.cloud](https://greenpathcoach.egain.cloud)
- - date_published: 2024-03-28T08:28:16+00:00
-
- ## Best Vendor Management Software
- - [https://ibvzdmsv.elementor.cloud](https://ibvzdmsv.elementor.cloud)
- - date_published: 2024-10-30T11:53:45+00:00
-
- ## Maintenance en cours...
- - [https://interview.eloquant.cloud](https://interview.eloquant.cloud)
- - date_published: 2016-10-29T13:47:10+00:00
-
- ## Esper.io Status
- - [https://status.esper.cloud](https://status.esper.cloud)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Ethernity CLOUD
- - [https://ethernity.cloud](https://ethernity.cloud)
- - date_published: 2024-06-13T09:43:34+00:00
-
- ## Etherneals NFT
- - [https://nft.ethernity.cloud](https://nft.ethernity.cloud)
- - date_published: 2024-09-24T20:53:08.642042+00:00
-
- ## Ethernity CLOUD
- - [https://staking.ethernity.cloud](https://staking.ethernity.cloud)
- - date_published: 2024-02-07T10:43:13+00:00
-
- ## Ethernity CLOUD SWAP
- - [https://swap.ethernity.cloud](https://swap.ethernity.cloud)
- - date_published: 2024-05-23T06:52:43+00:00
-
- ## Home: EU Cloud CoC
- - [https://eucoc.cloud](https://eucoc.cloud)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## EzriCloud
- - [https://ezri.cloud](https://ezri.cloud)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## FireMon Cloud Defense
- - [https://app.defense.firemon.cloud](https://app.defense.firemon.cloud)
- - date_published: 2024-06-13T15:36:44+00:00
-
- ## Cloud Defense by FireMon
- - [https://defense.firemon.cloud](https://defense.firemon.cloud)
- - date_published: 2024-05-04T06:10:34.318700+00:00
-
- ## Coffeetime - A non-commercial coffee forum
- - [https://coffeetime.flarum.cloud](https://coffeetime.flarum.cloud)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## flAWS
- - [http://flaws.cloud](http://flaws.cloud)
- - date_published: 2024-02-22T02:32:41+00:00
-
- ## When it matters, say it on Forem — Forem
- - [https://forem-89e5f6f3c802.forem.cloud](https://forem-89e5f6f3c802.forem.cloud)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Julia Community 🟣
- - [https://forem-bce91056d27d.forem.cloud](https://forem-bce91056d27d.forem.cloud)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Franchise: a sql notebook
- - [https://franchise.cloud](https://franchise.cloud)
- - date_published: 2017-10-13T22:29:05+00:00
 

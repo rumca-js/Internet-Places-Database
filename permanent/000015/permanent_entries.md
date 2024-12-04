@@ -1,3 +1,62 @@
+ ## Pile of Text
+ - [https://pileoftext.mataroa.blog](https://pileoftext.mataroa.blog)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## rep lodsb
+ - [https://rep-lodsb.mataroa.blog](https://rep-lodsb.mataroa.blog)
+ - date_published: 2022-08-13T00:00:00+00:00
+
+ ## Mataroa.blog Status
+ - [https://status.mataroa.blog](https://status.mataroa.blog)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Matt Baker's Math Blog
+ - [https://mattbaker.blog](https://mattbaker.blog)
+ - date_published: 2024-05-07T16:15:55.235865+00:00
+
+ ## mattturner.blog
+ - [https://mattturner.blog](https://mattturner.blog)
+ - date_published: 2024-08-19T10:22:29.681407+00:00
+
+ ## Kayla
+ - [https://mckayla.blog](https://mckayla.blog)
+ - date_published: 2023-10-25T09:01:48.490146+00:00
+ - tags: ['personal']
+
+ ## email
+ - [https://mclare.blog](https://mclare.blog)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## CSRFing VS Code's Debug Adapter Protocol
+ - [https://www.mcnulty.blog](https://www.mcnulty.blog)
+ - date_published: 2023-07-28T00:00:00+00:00
+
+ ## melkat.blog - hi there! please enjoy my blog of things i think are interesting
+ - [https://melkat.blog](https://melkat.blog)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## The Metamodel Blog
+ - [https://metamodel.blog](https://metamodel.blog)
+ - date_published: 2023-07-06T13:54:31+00:00
+
+ ## Michele Neylon :: Pensieri
+ - [https://www.michele.blog](https://www.michele.blog)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Aaron Aiken
+		- Aaron Aiken
+ - [https://aaronaiken.micro.blog](https://aaronaiken.micro.blog)
+ - date_published: 2024-07-07T04:27:07+00:00
+
+ ## Lisa Sieverts
+ - [https://agilelisa.micro.blog](https://agilelisa.micro.blog)
+ - date_published: 2023-11-29T15:29:38.973597+00:00
+ - tags: ['personal']
+
+ ## alex ink
+ - [https://alexink.micro.blog](https://alexink.micro.blog)
+ - date_published: 2024-08-07T20:15:53+00:00
+
  ## Life is an Experiment and I’m not in the Control Group
  - [https://alligator.micro.blog](https://alligator.micro.blog)
  - date_published: 2024-06-08T13:02:23+00:00
@@ -3987,60 +4046,4 @@ Educação
  ## Grupo Perfil
  - [https://grupoperfilbrasil.com.br](https://grupoperfilbrasil.com.br)
  - date_published: 2022-07-05T18:32:20+00:00
-
- ## Santillana
- - [https://gruposantillana.com.br](https://gruposantillana.com.br)
- - date_published: 2024-06-12T12:55:57.533717+00:00
-
- ## GTAall.com.br — GTA mods com installer
- - [https://www.gtaall.com.br](https://www.gtaall.com.br)
- - date_published: 2024-06-16T22:08:21+00:00
-
- ## GTA 5 - Grand Theft Auto V
- - [http://br.gtafive.com.br](http://br.gtafive.com.br)
- - date_published: 2024-07-02T06:04:12+00:00
-
- ## Mods GTA San Andreas
- - [https://gta-sa.com.br](https://gta-sa.com.br)
- - date_published: 2023-10-25T11:08:27.421230+00:00
-
- ## Home
- - [https://www.guinnessworldrecords.com.br](https://www.guinnessworldrecords.com.br)
- - date_published: 2024-05-04T08:58:02.022916+00:00
-
- ## Hack The Task
- - [https://hackthetask.com.br](https://hackthetask.com.br)
- - date_published: 2024-07-18T04:42:27.462596+00:00
-
- ## Harlequin Brasil
- - [https://harlequin.com.br](https://harlequin.com.br)
- - date_published: 2024-05-10T06:58:09.555415+00:00
-
- ## HarperCollins Brasil
- - [https://harpercollins.com.br](https://harpercollins.com.br)
- - date_published: 2024-05-10T06:56:36.060012+00:00
-
- ## Hashdex | Home
- - [https://www.hashdex.com.br](https://www.hashdex.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [https://www.henkel.com.br](https://www.henkel.com.br)
- - date_published: 2024-10-18T20:18:40.866367+00:00
-
- ## Hilti Brasil - Ferramentas Elétricas, Fixadores e Software de Construção
- - [https://www.hilti.com.br](https://www.hilti.com.br)
- - date_published: 2024-06-20T07:27:17.095247+00:00
-
- ## HitPaw Editor De Vídeo Online - Editar Vídeo Online Grátis
- - [https://online.hitpaw.com.br](https://online.hitpaw.com.br)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Hoje em Dia
- - [https://www.hojeemdia.com.br](https://www.hojeemdia.com.br)
- - date_published: 2024-10-28T14:34:25.280470+00:00
-
- ## Hollywood Forever TV
- - [https://hollywoodforevertv.com.br](https://hollywoodforevertv.com.br)
- - date_published: 2024-07-11T17:33:41.918455+00:00
 

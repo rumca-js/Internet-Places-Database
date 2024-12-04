@@ -1,3 +1,741 @@
+ ## SDU Bibliotek
+ - [https://books.sdu.dk](https://books.sdu.dk)
+ - date_published: 2024-04-30T02:45:47.330250+00:00
+
+ ## VISL Corpuseye
+ - [http://corp.hum.sdu.dk](http://corp.hum.sdu.dk)
+ - date_published: 2024-07-02T09:46:59.686392+00:00
+
+ ## Sign in to your account
+ - [https://crm.sdu.dk](https://crm.sdu.dk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## You are entering the digital exam portal for - University of Southern Denmark
+ - [https://digitaleksamen.sdu.dk](https://digitaleksamen.sdu.dk)
+ - date_published: 2024-04-30T02:45:44.863844+00:00
+
+ ## Syddansk Universitet
+ - [https://findresearcher.sdu.dk](https://findresearcher.sdu.dk)
+ - date_published: 2024-07-22T09:40:45.684108+00:00
+
+ ## Sign in to your account
+ - [https://indkob.sdu.dk](https://indkob.sdu.dk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Velkommen til dit karrierecenter | JobTeaser
+ - [https://jobbank.sdu.dk](https://jobbank.sdu.dk)
+ - date_published: 2024-07-19T19:43:51.488570+00:00
+
+ ## Username - SDU Change Password
+ - [https://password.sdu.dk](https://password.sdu.dk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Syddansk Universitet
+ - [https://portal.findresearcher.sdu.dk](https://portal.findresearcher.sdu.dk)
+ - date_published: 2024-04-30T02:45:49.397427+00:00
+
+ ## Syddansk Universitet
+ - [https://sdu.dk](https://sdu.dk)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## SDU Single Sign-On
+ - [https://sso.sdu.dk](https://sso.sdu.dk)
+ - date_published: 2024-04-30T02:45:53.601559+00:00
+
+ ## SDUnet - Syddansk Universitets intranet
+ - [https://sdunet.dk](https://sdunet.dk)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Sebastian Ly Serena
+ - [http://sebastianlyserena.dk](http://sebastianlyserena.dk)
+ - date_published: 2024-07-13T15:00:30.485142+00:00
+
+ ## SektorCERT
+ - [https://sektorcert.dk](https://sektorcert.dk)
+ - date_published: 2023-11-12T14:44:45.072325+00:00
+
+ ## Sēlekkt.
+ - [https://selekkt.dk](https://selekkt.dk)
+ - date_published: 2020-10-07T21:34:27+00:00
+
+ ## Send en ballon
+ - [https://sendenballon.dk](https://sendenballon.dk)
+ - date_published: 2024-09-08T00:00:00+00:00
+
+ ## Seniormonitor
+ - [https://seniormonitor.dk](https://seniormonitor.dk)
+ - date_published: 2024-04-30T02:44:15.460810+00:00
+
+ ## Forside
+ - [https://seriousgames.dk](https://seriousgames.dk)
+ - date_published: 2023-05-05T00:00:00+00:00
+
+ ## Folklore fra Eventyret, Rytmerne og Legens Verden
+ - [https://www.shagembe.dk](https://www.shagembe.dk)
+ - date_published: 2023-11-29T12:47:05+00:00
+
+ ## SHAPE Code Blog
+ - [http://codeblog.shape.dk](http://codeblog.shape.dk)
+ - date_published: 2015-04-23T08:52:36+00:00
+
+ ## This website is not in use yet – Domain hosted by Gigahost
+ - [http://si-arkiv.dk](http://si-arkiv.dk)
+ - date_published: 2012-09-19T04:15:38+00:00
+
+ ## SIDFX | The ultimate dual SID solution
+ - [https://sidfx.dk](https://sidfx.dk)
+ - date_published: 2024-03-27T12:18:13+00:00
+ - tags: ['sid music']
+
+ ## Statens Institut for Folkesundhed
+ - [https://si-folkesundhed.dk](https://si-folkesundhed.dk)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## kill -9
+ - [https://sigkill.dk](https://sigkill.dk)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Sikkerdigital.dk
+ - [https://sikkerdigital.dk](https://sikkerdigital.dk)
+ - date_published: 2024-07-22T10:05:24.892959+00:00
+
+ ## SIVE
+ - [http://sive.dk](http://sive.dk)
+ - date_published: 2024-07-13T17:59:01.814202+00:00
+
+ ## Biludlejning Danmark, Europa & hele verden - Sixt Billeje
+ - [https://sixt.dk](https://sixt.dk)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## SIXT Bilsalg | Brugte biler med garanti
+ - [https://www.sixtbilsalg.dk](https://www.sixtbilsalg.dk)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Garantifonden for skadesforsikringsselskaber
+ - [https://www.skadesgarantifonden.dk](https://www.skadesgarantifonden.dk)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Skanderborg Festivalklub | Smukfest
+ - [https://skanderborgfestivalklub.dk](https://skanderborgfestivalklub.dk)
+ - date_published: 2024-06-25T16:55:09.886836+00:00
+
+ ## Kontor- og boligudvikling i Storkøbenhavn | www.skanska.dk
+ - [https://www.skanska.dk](https://www.skanska.dk)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Forside - Skoleavis
+ - [https://skoleavis.dk](https://skoleavis.dk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Skolemonitor
+ - [https://skolemonitor.dk](https://skolemonitor.dk)
+ - date_published: 2024-04-30T02:44:38.122014+00:00
+
+ ## Skousen - Stort udvalg af hvidevarer - Få prismatch*
+ - [https://www.skousen.dk](https://www.skousen.dk)
+ - date_published: 2024-09-19T20:31:08.071392+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.dk](https://www.skyscanner.dk)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## SMK - Statens Museum for Kunst
+ - [https://smk.dk](https://smk.dk)
+ - date_published: 2024-05-07T12:51:45.018965+00:00
+
+ ## Smukfest
+ - [https://old.smukfest.dk](https://old.smukfest.dk)
+ - date_published: 2024-06-25T16:55:14.135277+00:00
+
+ ## Forside
+ - [http://smukfest.dk](http://smukfest.dk)
+ - date_published: 2024-06-25T14:49:45+00:00
+
+ ## Smukfest Farvefjernsyn
+ - [https://video.smukfest.dk](https://video.smukfest.dk)
+ - date_published: 2024-06-25T16:54:36.011279+00:00
+
+ ## Smukfonden | En del af Smukfest
+ - [https://www.smukfonden.dk](https://www.smukfonden.dk)
+ - date_published: 2024-06-25T16:55:16.147655+00:00
+
+ ## Smukshoppen
+ - [https://smukshop.dk](https://smukshop.dk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Welcome
+ - [http://www.snedkeriet-optimisten.dk](http://www.snedkeriet-optimisten.dk)
+ - date_published: 2020-03-03T11:43:17+00:00
+
+ ## En destination – mange oplevelser
+ - [https://snm.dk](https://snm.dk)
+ - date_published: 2024-08-09T09:34:58+00:00
+
+ ## SNM Webshop
+ - [https://webshop.snm.dk](https://webshop.snm.dk)
+ - date_published: 2024-08-11T03:42:35.592928+00:00
+
+ ## Den Sociale Retshjælps Fond | gratis retshjælp og gældsrådgivning
+ - [https://www.socialeretshjaelp.dk](https://www.socialeretshjaelp.dk)
+ - date_published: 2024-10-31T00:48:25.907041+00:00
+
+ ## Socialmonitor
+ - [https://socialmonitor.dk](https://socialmonitor.dk)
+ - date_published: 2024-04-30T02:43:36.129785+00:00
+
+ ## Sodan.dk
+ - [http://www.sodan.dk](http://www.sodan.dk)
+ - date_published: 2023-12-09T00:00:00+00:00
+
+ ## Søfartsstyrelsen
+ - [https://www.soefartsstyrelsen.dk](https://www.soefartsstyrelsen.dk)
+ - date_published: 2024-09-04T15:37:22.643295+00:00
+
+ ## Sony Danmark | Seneste teknologinyheder | Elektronik | Underholdning
+ - [http://www.sony.dk](http://www.sony.dk)
+ - date_published: 2024-10-21T07:37:24.561398+00:00
+
+ ## Sony Pictures Denmark | Homepage
+ - [https://www.sonypictures.dk](https://www.sonypictures.dk)
+ - date_published: 2024-07-28T03:59:59.958779+00:00
+
+ ## Hjem | Sopra Steria
+ - [https://www.soprasteria.dk](https://www.soprasteria.dk)
+ - date_published: 2024-07-04T12:16:32.076924+00:00
+
+ ## SpaceController - new technology in music and graphic media
+ - [http://spacecontroller.dk](http://spacecontroller.dk)
+ - date_published: 2024-02-08T21:47:23.123244+00:00
+
+ ## 🤑 Sparpedia.dk || Alle rabatkoder ⇒ opdateret dagligt
+ - [https://sparpedia.dk](https://sparpedia.dk)
+ - date_published: 2024-10-21T23:01:57.121896+00:00
+
+ ## SPARTOO | Sko, tasker og tøj | Gratis fragt*
+ - [https://spartoo.dk](https://spartoo.dk)
+ - date_published: 2024-09-11T18:36:34.596772+00:00
+
+ ## Cierpliwości...
+ - [https://spillehallen.dk](https://spillehallen.dk)
+ - date_published: 2024-06-15T21:39:51.520708+00:00
+
+ ## Velkommen til Spillemyndigheden | Spillemyndigheden
+ - [https://www.spillemyndigheden.dk](https://www.spillemyndigheden.dk)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Sparekassen Sjælland-Fyn - dit lokale pengeinstitut
+ - [https://beta.spks.dk](https://beta.spks.dk)
+ - date_published: 2024-09-19T20:34:03.355261+00:00
+
+ ## Kunderum
+ - [https://kunderum.spks.dk](https://kunderum.spks.dk)
+ - date_published: 2024-09-13T05:40:29+00:00
+
+ ## portal4.erhverv.spks.dk
+ - [https://portal4.erhverv.spks.dk](https://portal4.erhverv.spks.dk)
+ - date_published: 2024-09-19T20:33:58.243826+00:00
+
+ ## portal4.spks.dk
+ - [https://portal4.spks.dk](https://portal4.spks.dk)
+ - date_published: 2024-09-19T20:34:04.927309+00:00
+
+ ## Sparekassen Sjælland-Fyn - Vi er dér, hvor du er
+ - [https://spks.dk](https://spks.dk)
+ - date_published: 2024-06-15T21:40:04.575980+00:00
+
+ ## Underskriftsrum
+ - [https://underskriftsrum.spks.dk](https://underskriftsrum.spks.dk)
+ - date_published: 2024-09-12T17:08:13+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.dk](https://my.spreadshirt.dk)
+ - date_published: 2024-10-21T09:04:31.506705+00:00
+
+ ## T-shirt med tryk, design din egen t-shirt | Spreadshirt
+ - [https://spreadshirt.dk](https://spreadshirt.dk)
+ - date_published: 2024-10-21T09:04:32.886336+00:00
+
+ ## SPY System | Stronger business. Less hassle.
+ - [https://spysystem.dk](https://spysystem.dk)
+ - date_published: 2024-08-20T19:34:55.647443+00:00
+
+ ## Everything SQL Server Compact
+ - [https://sqlcompact.dk](https://sqlcompact.dk)
+ - date_published: 2024-07-08T22:21:20.557489+00:00
+
+ ## SSI Antibodies
+ - [https://antibodies.ssi.dk](https://antibodies.ssi.dk)
+ - date_published: 2023-01-19T00:00:00+00:00
+
+ ## English
+ - [https://en.ssi.dk](https://en.ssi.dk)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Statens Serum Institut
+ - [https://www.ssi.dk](https://www.ssi.dk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Sundhedsstyrelsen
+ - [https://sst.dk](https://sst.dk)
+ - date_published: 2023-10-25T18:46:10.089946+00:00
+
+ ## S.Stenbæk Webudvikling
+ - [https://sstenbaek.dk](https://sstenbaek.dk)
+ - date_published: 2024-05-11T10:04:58.399294+00:00
+
+ ## Staples - Online magasin der kommer helt tæt på
+ - [http://www.staples.dk](http://www.staples.dk)
+ - date_published: 2024-08-05T21:53:58.996159+00:00
+
+ ## STARK - Landsdækkende byggemarked og tømmerhandel med salg til både private og professionelle
+ - [https://www.stark.dk](https://www.stark.dk)
+ - date_published: 2024-06-25T16:50:07.605587+00:00
+
+ ## Station Next - Den danske ungdomsfilmskole - Station Next
+ - [https://station-next.dk](https://station-next.dk)
+ - date_published: 2024-05-07T23:40:47.349913+00:00
+
+ ## Science, kropsidealer og astronomi. Oplevelser for alle aldre
+ - [http://www.stenomuseet.dk](http://www.stenomuseet.dk)
+ - date_published: 2024-06-24T09:34:54.354758+00:00
+
+ ## Design selv klistermærker og stickers!
+ - [https://stickerapp.dk](https://stickerapp.dk)
+ - date_published: 2024-02-08T17:52:02.329878+00:00
+
+ ## StopSpillet - rådgivning om spilafhængighed
+ - [http://stopspillet.dk](http://stopspillet.dk)
+ - date_published: 2024-10-08T12:15:13+00:00
+
+ ## Foredrag til Erhvervslivet >> Bookes hos StrongMind
+ - [https://strongmind.dk](https://strongmind.dk)
+ - date_published: 2024-05-12T07:47:39.652373+00:00
+
+ ## Studiepraktik - prøv livet på en videregående uddannelse
+ - [https://www.studiepraktik.dk](https://www.studiepraktik.dk)
+ - date_published: 2024-08-08T22:37:37.037574+00:00
+
+ ## Stumfilm.dk
+ - [https://www.stumfilm.dk](https://www.stumfilm.dk)
+ - date_published: 2024-07-02T22:48:08+00:00
+
+ ## Home | Summer Sessions
+ - [https://www.summer-session.dk](https://www.summer-session.dk)
+ - date_published: 2024-07-17T11:17:52.884786+00:00
+
+ ## Master i Sundhedsantropologi – Københavns Universitet
+ - [https://sundhedsantropologi.dk](https://sundhedsantropologi.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Sundhedsmonitor
+ - [https://sundhedsmonitor.dk](https://sundhedsmonitor.dk)
+ - date_published: 2024-04-30T02:45:06.848796+00:00
+
+ ## Superprof - netværket af private undervisere
+ - [https://superprof.dk](https://superprof.dk)
+ - date_published: 2024-06-15T01:28:10.652318+00:00
+
+ ## SurveyXact
+ - [https://www.survey-xact.dk](https://www.survey-xact.dk)
+ - date_published: 2024-07-22T10:07:07+00:00
+
+ ## Home | Suset
+ - [https://www.suset.dk](https://www.suset.dk)
+ - date_published: 2024-07-17T11:17:59.724549+00:00
+
+ ## Svend Sømod
+ - [http://svendsoemod.dk](http://svendsoemod.dk)
+ - date_published: 2023-12-08T10:34:33+00:00
+
+ ## Forbrugerrådet Tænk: Gratis økonomi- og gældsrådgivning
+ - [https://gaeld.taenk.dk](https://gaeld.taenk.dk)
+ - date_published: 2024-10-30T12:52:24+00:00
+
+ ## Billige Bøger >> Køb online og få leveret på 1-2 dage | Tales.dk
+ - [https://tales.dk](https://tales.dk)
+ - date_published: 2024-07-11T10:51:05.113131+00:00
+
+ ## Færgefart, MiniCruise og sejlads i Østersøen | Tallink Silja Line
+ - [http://www.tallink.dk](http://www.tallink.dk)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Blog | Tangram
+ - [https://tangramgames.dk](https://tangramgames.dk)
+ - date_published: 2022-10-12T12:43:15+00:00
+
+ ## Lån penge nu - Lån op til 1.000.000 kr. (Udbetaling på 1 min)
+ - [https://tankpenge.dk](https://tankpenge.dk)
+ - date_published: 2024-06-19T18:53:13+00:00
+
+ ## tberg
+ - [https://tberg.dk](https://tberg.dk)
+ - date_published: 2023-07-16T00:00:00+00:00
+
+ ## T-Shirt Printing - Tryk på tøj - Design dit eget tøj | TeamShirts
+ - [https://www.teamshirts.dk](https://www.teamshirts.dk)
+ - date_published: 2024-10-21T09:03:49.150787+00:00
+
+ ## Fagmedier - TechMedia
+ - [http://www.techmedia.dk](http://www.techmedia.dk)
+ - date_published: 2024-10-19T05:54:03.419559+00:00
+
+ ## Danmarks Tekniske Kulturarv
+ - [https://tekniskkulturarv.dk](https://tekniskkulturarv.dk)
+ - date_published: 2024-07-22T10:13:49.409889+00:00
+
+ ## Teknologisk Institut
+ - [https://www.teknologisk.dk](https://www.teknologisk.dk)
+ - date_published: 2024-10-30T22:46:19.882850+00:00
+
+ ## Testfakta
+ - [http://www.testfakta.dk](http://www.testfakta.dk)
+ - date_published: 2024-07-07T07:37:03.529254+00:00
+
+ ## Home - theessence.dk
+ - [http://www.theessence.dk](http://www.theessence.dk)
+ - date_published: 2024-09-12T17:22:20.879421+00:00
+
+ ## Køkkenredskaber og køkkentilbehør online | KitchenLab
+ - [https://www.thekitchenlab.dk](https://www.thekitchenlab.dk)
+ - date_published: 2024-10-03T08:49:02.225165+00:00
+
+ ## The Local Denmark - News and practical guides in English
+ - [https://www.thelocal.dk](https://www.thelocal.dk)
+ - date_published: 2024-05-06T15:16:51.406696+00:00
+
+ ## Join the evolution
+ - [http://think.dk](http://think.dk)
+ - date_published: 2016-01-10T17:01:00+00:00
+
+ ## Third Ear Podcast | Third Ear Studio
+ - [https://thirdear.dk](https://thirdear.dk)
+ - date_published: 2024-07-09T06:40:02.548476+00:00
+
+ ## Thise Mejeri
+ - [https://thise.dk](https://thise.dk)
+ - date_published: 2024-06-25T16:50:00.483499+00:00
+
+ ## THOMAS WIUF SCHWARTZ
+ - [http://thomaswiufschwartz.dk](http://thomaswiufschwartz.dk)
+ - date_published: 2024-10-29T14:26:08.208418+00:00
+
+ ## Thor Vestergaard Christiansen
+ - [https://www.thorshammer.dk](https://www.thorshammer.dk)
+ - date_published: 2024-03-04T13:47:49+00:00
+
+ ## Tidsskrift.dk
+ - [https://tidsskrift.dk](https://tidsskrift.dk)
+ - date_published: 2024-06-17T18:18:54.958148+00:00
+
+ ## Time2Learn webshop
+ - [https://shop.time2learn.dk](https://shop.time2learn.dk)
+ - date_published: 2024-04-30T02:46:36.406591+00:00
+
+ ## Time2learn – Alle har lyst til at lære!
+ - [https://time2learn.dk](https://time2learn.dk)
+ - date_published: 2024-02-08T21:50:32.897108+00:00
+
+ ## Forside
+ - [http://www.tlamedia.dk](http://www.tlamedia.dk)
+ - date_published: 2023-06-02T00:00:00+00:00
+
+ ## Welcome
+ - [https://blog.tohojo.dk](https://blog.tohojo.dk)
+ - date_published: 2024-07-23T09:27:48+00:00
+
+ ## Tomas Norre's Blog
+ - [https://blog.tomasnorre.dk](https://blog.tomasnorre.dk)
+ - date_published: 2024-05-09T08:16:08.547966+00:00
+
+ ## Totalkredit - realkredit til private og erhverv - se her
+ - [https://www.totalkredit.dk](https://www.totalkredit.dk)
+ - date_published: 2024-07-22T09:54:02.083914+00:00
+
+ ## Toyota Danmarks officielle hjemmeside | Køb Toyota-biler her
+ - [https://www.toyota.dk](https://www.toyota.dk)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## OFS Management
+ - [https://ofs.toyota-fs.dk](https://ofs.toyota-fs.dk)
+ - date_published: 2024-10-16T16:26:43.806423+00:00
+
+ ## Transskriber
+ - [https://www.transskriber.dk](https://www.transskriber.dk)
+ - date_published: 2024-07-22T10:04:49.581676+00:00
+
+ ## Trapeze - Teknologi til kollektiv trafik
+ - [https://www.trapezegroup.dk](https://www.trapezegroup.dk)
+ - date_published: 2023-05-23T00:00:00+00:00
+
+ ## tripadvisor.dk
+ - [https://www.tripadvisor.dk](https://www.tripadvisor.dk)
+ - date_published: 2024-06-23T09:27:39.390464+00:00
+
+ ## trivago.dk - Compare hotel prices worldwide
+ - [https://www.trivago.dk](https://www.trivago.dk)
+ - date_published: 2024-09-04T11:21:16.294172+00:00
+
+ ## TRSAC 2023
+ - [https://trsac.dk](https://trsac.dk)
+ - date_published: 2024-05-08T17:09:28.280815+00:00
+
+ ## Tuborgfondet støtter unge
+ - [https://www.tuborgfondet.dk](https://www.tuborgfondet.dk)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Tulip - Danmarks ældste brand. Se vores opskriftsunivers
+ - [https://www.tulip.dk](https://www.tulip.dk)
+ - date_published: 2024-06-25T16:54:28.393455+00:00
+
+ ## Velkommen til Tupalo
+ - [https://www.tupalo.dk](https://www.tupalo.dk)
+ - date_published: 2024-06-29T19:12:22.517109+00:00
+
+ ## Turistmonitor - dansk turismes uafhængige medie
+ - [https://turistmonitor.dk](https://turistmonitor.dk)
+ - date_published: 2024-04-30T02:44:25.845386+00:00
+
+ ## TV 2 Apps
+ - [https://apps.kundeservice.tv2.dk](https://apps.kundeservice.tv2.dk)
+ - date_published: 2024-07-22T09:28:15.284306+00:00
+
+ ## TV 2 - bedst på breaking og live
+ - [https://auth.tv2.dk](https://auth.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## TV 2 Connect
+ - [https://connect.tv2.dk](https://connect.tv2.dk)
+ - date_published: 2024-07-17T10:30:43+00:00
+
+ ## TV 2 Echo | Historier fra dit liv og verden omkring dig - TV 2
+ - [https://echo.tv2.dk](https://echo.tv2.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## TV 2 Kundeservice
+ - [https://kundeservice.tv2.dk](https://kundeservice.tv2.dk)
+ - date_published: 2024-03-22T10:15:14+00:00
+
+ ## Livsstil - TV 2
+ - [https://livsstil.tv2.dk](https://livsstil.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## TV 2 Nyheder | Få overblik over de seneste nyheder - TV 2
+ - [https://nyheder.tv2.dk](https://nyheder.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## TV 2 Nyheder | Få overblik over de seneste nyheder - TV 2
+ - [http://nyhedsbreve.tv2.dk](http://nyhedsbreve.tv2.dk)
+ - date_published: 2024-07-22T09:33:32.984742+00:00
+
+ ## Om TV 2
+ - [https://omtv2.tv2.dk](https://omtv2.tv2.dk)
+ - date_published: 2024-04-30T02:46:45.569266+00:00
+
+ ## Pakker og priser
+ - [https://pakkerogpriser.kundeservice.tv2.dk](https://pakkerogpriser.kundeservice.tv2.dk)
+ - date_published: 2024-07-22T09:33:19.016823+00:00
+
+ ## TV 2 Play
+ - [https://play.kundeservice.tv2.dk](https://play.kundeservice.tv2.dk)
+ - date_published: 2024-07-22T09:28:17.123729+00:00
+
+ ## TV 2 Play - Serier, nyheder og underholdning
+ - [https://play.tv2.dk](https://play.tv2.dk)
+ - date_published: 2024-04-30T02:46:51.847311+00:00
+
+ ## Cierpliwości...
+ - [https://privatliv.tv2.dk](https://privatliv.tv2.dk)
+ - date_published: 2024-04-30T02:47:34.606163+00:00
+
+ ## Søg på TV 2
+ - [https://search.tv2.dk](https://search.tv2.dk)
+ - date_published: 2024-04-30T02:47:40.705133+00:00
+
+ ## TV 2 Sport | Få sidste nyt fra sportens verden
+ - [https://sport.tv2.dk](https://sport.tv2.dk)
+ - date_published: 2023-10-25T18:46:14.828525+00:00
+
+ ## Seernes redaktør
+ - [https://sr.tv2.dk](https://sr.tv2.dk)
+ - date_published: 2024-04-30T02:47:00.445620+00:00
+
+ ## TV 2 - bedst på breaking og live
+ - [https://tv2.dk](https://tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## TV 2.dk
+ - [https://tv2.kundeservice.tv2.dk](https://tv2.kundeservice.tv2.dk)
+ - date_published: 2024-07-22T09:33:21.391773+00:00
+
+ ## TV-guide | Se komplet programoversigt for alle tv-kanaler her
+ - [https://tvtid.tv2.dk](https://tvtid.tv2.dk)
+ - date_published: 2024-04-30T02:46:59.679140+00:00
+
+ ## TV 2 programguide | Se programmet for TV 2s kanaler i dag
+ - [https://tv.tv2.dk](https://tv.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Underholdning - TV 2
+ - [https://underholdning.tv2.dk](https://underholdning.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## TV 2 Vejr | Se vejret i dag, i morgen og 7 dage frem
+ - [https://vejr.tv2.dk](https://vejr.tv2.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Vilkår
+ - [https://vilkaar.kundeservice.tv2.dk](https://vilkaar.kundeservice.tv2.dk)
+ - date_published: 2024-07-22T09:28:08.370335+00:00
+
+ ## Apollo Router
+ - [https://play.tv2api.dk](https://play.tv2api.dk)
+ - date_published: 2024-07-22T09:34:27.891680+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn-free-external.tv2i.dk](https://cdn-free-external.tv2i.dk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn-free.tv2i.dk](https://cdn-free.tv2i.dk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn-play-prismic.tv2i.dk](https://cdn-play-prismic.tv2i.dk)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn-play.tv2i.dk](https://cdn-play.tv2i.dk)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Annoncering hos TV 2
+ - [https://tv2media.dk](https://tv2media.dk)
+ - date_published: 2024-04-30T02:47:39.165796+00:00
+
+ ## TV 2 Reklame
+ - [https://tv2reklame.dk](https://tv2reklame.dk)
+ - date_published: 2024-07-22T09:28:06.763575+00:00
+
+ ## u-days
+ - [http://www.udays.dk](http://www.udays.dk)
+ - date_published: 2024-07-22T10:15:12.044565+00:00
+
+ ## udbud.dk
+ - [https://udbud.dk](https://udbud.dk)
+ - date_published: 2024-07-22T10:05:11.929763+00:00
+
+ ## Forside
+ - [https://ufm.dk](https://ufm.dk)
+ - date_published: 2024-07-20T15:31:42.673192+00:00
+
+ ## Udenrigsministeriet
+ - [https://um.dk](https://um.dk)
+ - date_published: 2024-09-04T02:19:57.540243+00:00
+
+ ## Undy.dk - Dansk designede underbukser og bambussokker
+ - [https://undy.dk](https://undy.dk)
+ - date_published: 2024-06-16T15:46:59.150261+00:00
+
+ ## Aarhus Universitetsforlag Aarhus Universitetsforlag
+ - [https://unipress.dk](https://unipress.dk)
+ - date_published: 2024-07-22T10:18:45.404646+00:00
+
+ ## Tinderbox 2025 - Partoutbillet
+ - [https://tinderbox.unitedtickets.dk](https://tinderbox.unitedtickets.dk)
+ - date_published: 2024-10-20T11:04:10.986416+00:00
+
+ ## United Tickets - Billetter til Koncerter, Festivaler, Teateroplevelser og meget mere | United Tickets
+ - [http://www.unitedtickets.dk](http://www.unitedtickets.dk)
+ - date_published: 2024-10-20T11:04:17.266807+00:00
+
+ ## Forside
+ - [https://urk.dk](https://urk.dk)
+ - date_published: 2024-05-08T02:29:39.194897+00:00
+
+ ## valberg.dk
+ - [https://valberg.dk](https://valberg.dk)
+ - date_published: 2023-10-25T18:46:16.069620+00:00
+
+ ## Michael Bang's blog
+ - [https://blog.vbang.dk](https://blog.vbang.dk)
+ - date_published: 2024-05-29T13:53:31.863069+00:00
+
+ ## Mit liv - Vejle Kommune
+ - [https://www.vejle.dk](https://www.vejle.dk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Vejr & Radar Danmark
+ - [https://vejrogradar.dk](https://vejrogradar.dk)
+ - date_published: 2024-05-07T12:52:56.918903+00:00
+
+ ## Velux Fonden | Velux
+ - [https://veluxfonden.dk](https://veluxfonden.dk)
+ - date_published: 2024-07-13T14:26:38.630369+00:00
+
+ ## Veterancentret
+ - [https://veterancentret.dk](https://veterancentret.dk)
+ - date_published: 2024-04-30T02:35:15.382023+00:00
+
+ ## Veteranportalen
+ - [https://veteranportalen.dk](https://veteranportalen.dk)
+ - date_published: 2024-02-06T10:22:05+00:00
+
+ ## Vetvision | Når din tid er for dyr – -> Provet Cloud
+ - [https://www.vetvision.dk](https://www.vetvision.dk)
+ - date_published: 2024-07-18T14:49:27.394110+00:00
+
+ ## Virus Help Denmark - Amiga antivirus
+ - [http://vht-dk.dk](http://vht-dk.dk)
+ - date_published: 2021-09-23T07:52:20+00:00
+
+ ## NetScaler AAA
+ - [http://fs.via.dk](http://fs.via.dk)
+ - date_published: 2024-07-04T15:32:14+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.dk](https://www.viagogo.dk)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.dk](https://www.victronenergy.dk)
+ - date_published: 2024-06-21T18:32:26+00:00
+
+ ## Nyheder om forskning og videnskab
+ - [https://videnskab.dk](https://videnskab.dk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Libre.vin – [Vin først, så natur]
+ - [http://vinhacker.dk](http://vinhacker.dk)
+ - date_published: 2023-05-09T06:46:29+00:00
+
+ ## Virk
+ - [https://post.virk.dk](https://post.virk.dk)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Visa, en af de pålidelige ledere inden for digitale betalinger
+ - [https://visa.dk](https://visa.dk)
+ - date_published: 2024-05-12T03:59:08.726730+00:00
+
+ ## Hjemmeværnet
+ - [https://vistillerop.dk](https://vistillerop.dk)
+ - date_published: 2024-07-22T10:05:39.186989+00:00
+
+ ## Jacob Saaby Nielsen — Copenhagen born, Aarhus living.
+I box, ...
+ - [https://wabisaaby.dk](https://wabisaaby.dk)
+ - date_published: 2024-10-22T18:24:29.662438+00:00
+
+ ## Warner Bros. Discovery Danmarks presseside
+ - [https://presse.warnerbrosdiscovery.dk](https://presse.warnerbrosdiscovery.dk)
+ - date_published: 2024-06-29T15:37:55.239798+00:00
+
+ ## Warpigs - BBQ & brewery in the heart of Copenhagen
+ - [https://warpigs.dk](https://warpigs.dk)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Watch Medier
+ - [https://watchmedier.dk](https://watchmedier.dk)
+ - date_published: 2024-07-22T17:53:48.310013+00:00
+
  ## Gaming udstyr - Det bedste gaming udstyr hos WEBdanes
  - [http://webdanes.dk](http://webdanes.dk)
  - date_published: 2024-07-13T13:45:03.004862+00:00
@@ -1765,6 +2503,10 @@
  - [https://dis.academia.edu](https://dis.academia.edu)
  - date_published: 2024-04-30T02:33:54.041807+00:00
 
+ ## Getulio Vargas Foundation (Fundação Getulio Vargas)
+ - [https://fgv.academia.edu](https://fgv.academia.edu)
+ - date_published: 2024-12-03T21:12:26.502192+00:00
+
  ## Field Museum
  - [https://fieldmuseum.academia.edu](https://fieldmuseum.academia.edu)
  - date_published: 2024-04-30T02:57:57.614569+00:00
@@ -1788,6 +2530,10 @@
  ## Goldsmiths, University of London
  - [https://goldsmiths.academia.edu](https://goldsmiths.academia.edu)
  - date_published: 2024-07-10T11:17:55.427286+00:00
+
+ ## Google
+ - [https://google.academia.edu](https://google.academia.edu)
+ - date_published: 2024-12-03T21:12:15.694626+00:00
 
  ## Griffith University
  - [https://griffith.academia.edu](https://griffith.academia.edu)
@@ -1816,6 +2562,10 @@
  ## Huntington University
  - [https://huntington.academia.edu](https://huntington.academia.edu)
  - date_published: 2024-04-30T03:01:15.988933+00:00
+
+ ## Indiana University
+ - [https://indiana.academia.edu](https://indiana.academia.edu)
+ - date_published: 2024-12-03T21:12:07.958408+00:00
 
  ## Johns Hopkins University
  - [https://johnshopkins.academia.edu](https://johnshopkins.academia.edu)
@@ -1916,6 +2666,10 @@
  ## University of Oxford
  - [https://oxford.academia.edu](https://oxford.academia.edu)
  - date_published: 2024-04-30T02:57:15.147449+00:00
+
+ ## Portland State University
+ - [https://pdx.academia.edu](https://pdx.academia.edu)
+ - date_published: 2024-12-03T21:11:52.751752+00:00
 
  ## Princeton University
  - [https://princeton.academia.edu](https://princeton.academia.edu)
@@ -3255,757 +4009,4 @@
  ## Home - Biodesign Institute
  - [https://biodesign.asu.edu](https://biodesign.asu.edu)
  - date_published: 2024-04-19T00:00:00+00:00
-
- ## ASU in California | ASU in California
- - [https://california.asu.edu](https://california.asu.edu)
- - date_published: 2024-07-07T01:52:28.973319+00:00
-
- ## Academic Catalog | Arizona State University
- - [https://catalog.asu.edu](https://catalog.asu.edu)
- - date_published: 2024-07-22T08:37:41.768609+00:00
-
- ## Home - Cybersecurity and Trusted Foundations
- - [https://cdf.asu.edu](https://cdf.asu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Computer Engineering Graduate Program - ASU Engineering
- - [https://cen.engineering.asu.edu](https://cen.engineering.asu.edu)
- - date_published: 2023-09-22T00:00:00+00:00
-
- ## Home | Center for Indian Education
- - [https://center-for-indian-education.asu.edu](https://center-for-indian-education.asu.edu)
- - date_published: 2024-07-09T15:15:59.414541+00:00
-
- ## Welcome to Business and Finance | Arizona State University
- - [https://cfo.asu.edu](https://cfo.asu.edu)
- - date_published: 2024-04-30T03:11:42.763298+00:00
-
- ## Home | Center for Gender Equity in Science and Technology
- - [https://cgest.asu.edu](https://cgest.asu.edu)
- - date_published: 2024-07-09T15:15:47.322275+00:00
-
- ## Home - School of Computing and Augmented Intelligence
- - [http://cidse.engineering.asu.edu](http://cidse.engineering.asu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Corporate Engagement and Strategic Partnerships | Arizona State University
- - [https://corporate.asu.edu](https://corporate.asu.edu)
- - date_published: 2024-07-07T01:52:03.787178+00:00
-
- ## Your future starts now
- - [https://cronkite.asu.edu](https://cronkite.asu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Center for Science and the Imagination - Center for Science and the Imagination
- - [https://csi.asu.edu](https://csi.asu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home - Cybersecurity and Trusted Foundations
- - [https://ctf.asu.edu](https://ctf.asu.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home | ASU Center for Violence Prevention and Community Safety
- - [https://cvpcs.asu.edu](https://cvpcs.asu.edu)
- - date_published: 2024-05-09T06:51:20.596814+00:00
-
- ## Home - Biodesign Europe
- - [https://dcu.asu.edu](https://dcu.asu.edu)
- - date_published: 2023-04-14T00:00:00+00:00
-
- ## Search Academic Degrees and Programs | ASU
- - [https://degrees.apps.asu.edu](https://degrees.apps.asu.edu)
- - date_published: 2024-07-07T01:52:26.663959+00:00
-
- ## Search Academic Degrees and Programs | ASU
- - [https://degrees.asu.edu](https://degrees.asu.edu)
- - date_published: 2024-07-22T08:37:44.652325+00:00
-
- ## Home - Economic Development
- - [https://economicdevelopment.asu.edu](https://economicdevelopment.asu.edu)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## EdPlus at ASU
- - [http://edplus.asu.edu](http://edplus.asu.edu)
- - date_published: 2024-08-11T04:49:59.783830+00:00
-
- ## Home | Embryo Project Encyclopedia
- - [https://embryo.asu.edu](https://embryo.asu.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Ira A. Fulton Schools of Engineering at Arizona State University
- - [http://engineering.asu.edu](http://engineering.asu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home - J. Orin Edson Entrepreneurship + Innovation Institute
- - [https://entrepreneurship.asu.edu](https://entrepreneurship.asu.edu)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Educational Outreach & Student Services | Educational Outreach and Student Services
- - [https://eoss.asu.edu](https://eoss.asu.edu)
- - date_published: 2024-07-09T15:16:00.449037+00:00
-
- ## Center for Global Discovery and Conservation Science
- - [https://gdcs.asu.edu](https://gdcs.asu.edu)
- - date_published: 2024-10-15T07:11:47.428046+00:00
-
- ## Home - Julie Ann Wrigley Global Futures Laboratory™
- - [https://globalfutures.asu.edu](https://globalfutures.asu.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Global Security Initiative
- - [https://globalsecurity.asu.edu](https://globalsecurity.asu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ASU at Lake Havasu | ASU at Lake Havasu | ASU
- - [https://havasu.asu.edu](https://havasu.asu.edu)
- - date_published: 2024-08-01T23:25:01+00:00
-
- ## Contact us | Arizona State University
- - [https://help.asu.edu](https://help.asu.edu)
- - date_published: 2024-07-20T00:58:05+00:00
-
- ## Project Hieroglyph – Getting big things done
- - [http://hieroglyph.asu.edu](http://hieroglyph.asu.edu)
- - date_published: 2024-06-30T11:06:31.837548+00:00
-
- ## ASU Student Housing | Arizona State University
- - [https://housing.asu.edu](https://housing.asu.edu)
- - date_published: 2024-07-18T23:20:42+00:00
-
- ## ASU Search | Arizona State University
- - [https://isearch.asu.edu](https://isearch.asu.edu)
- - date_published: 2024-04-30T03:11:44.205532+00:00
-
- ## KE News Portal
- - [https://ke.news.prod.rtd.asu.edu](https://ke.news.prod.rtd.asu.edu)
- - date_published: 2024-09-13T19:54:18.361342+00:00
-
- ## Sandra Day O'Connor College of Law | ASU | Sandra Day O'Connor College of Law
- - [https://law.asu.edu](https://law.asu.edu)
- - date_published: 2024-07-16T23:00:27+00:00
-
- ## ASU Provides Learning at Every Stage in Life
- - [https://learning.asu.edu](https://learning.asu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Arizona State University Library
- - [https://lib.asu.edu](https://lib.asu.edu)
- - date_published: 2024-06-30T01:28:45.481596+00:00
-
- ## Dramatic Sunrise
- - [http://lroc.sese.asu.edu](http://lroc.sese.asu.edu)
- - date_published: 2024-10-29T18:20:34.223550+00:00
-
- ## Homepage - Mayo Clinic ASU Alliance
- - [https://mayo.asu.edu](https://mayo.asu.edu)
- - date_published: 2024-08-11T04:49:32.650990+00:00
-
- ## Login
- - [https://my.asu.edu](https://my.asu.edu)
- - date_published: 2024-04-30T03:11:39.034637+00:00
-
- ## ASU/NASA Space Grant
- - [http://nasa.asu.edu](http://nasa.asu.edu)
- - date_published: 2024-07-09T16:49:11+00:00
-
- ## Home | New American University
- - [https://newamericanuniversity.asu.edu](https://newamericanuniversity.asu.edu)
- - date_published: 2024-08-11T04:49:50.059777+00:00
-
- ## ASU Now
- - [https://news.asu.edu](https://news.asu.edu)
- - date_published: 2023-11-02T16:39:16.908709+00:00
-
- ## Media Relations & Strategic Communications | Arizona State University
- - [https://newsroom.asu.edu](https://newsroom.asu.edu)
- - date_published: 2024-04-30T03:11:24.106269+00:00
-
- ## Hans D Mittelmann
- - [http://plato.asu.edu](http://plato.asu.edu)
- - date_published: 2024-10-13T13:00:26+00:00
-
- ## President Michael Crow | Office of the President
- - [https://president.asu.edu](https://president.asu.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Watts College of Public Service and Community Solutions
- - [https://publicservice.asu.edu](https://publicservice.asu.edu)
- - date_published: 2024-08-07T19:25:38+00:00
-
- ## Robotics and Autonomous Systems - ASU Engineering
- - [https://ras.engineering.asu.edu](https://ras.engineering.asu.edu)
- - date_published: 2023-02-21T00:00:00+00:00
-
- ## Knowledge Enterprise | Research at Arizona State University
- - [https://research.asu.edu](https://research.asu.edu)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Home - School of Computing and Augmented Intelligence
- - [https://scai.engineering.asu.edu](https://scai.engineering.asu.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Home - School of Sustainability
- - [https://schoolofsustainability.asu.edu](https://schoolofsustainability.asu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## ASU Search | Arizona State University
- - [https://search.asu.edu](https://search.asu.edu)
- - date_published: 2024-05-09T06:51:17.185359+00:00
-
- ## Home
- - [https://sefcom.asu.edu](https://sefcom.asu.edu)
- - date_published: 2024-04-30T07:18:11.795462+00:00
-
- ## Login
- - [https://selfsub.asu.edu](https://selfsub.asu.edu)
- - date_published: 2024-07-22T08:38:36.666286+00:00
-
- ## Home - School for the Future of Innovation in Society
- - [https://sfis.asu.edu](https://sfis.asu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home | Southwest Interdisciplinary Research Center
- - [https://sirc.asu.edu](https://sirc.asu.edu)
- - date_published: 2024-08-19T19:45:55.363513+00:00
-
- ## Homepage | School of Social Transformation
- - [https://sst.asu.edu](https://sst.asu.edu)
- - date_published: 2024-05-09T05:35:55.602788+00:00
-
- ## Home | ASU Students
- - [https://students.asu.edu](https://students.asu.edu)
- - date_published: 2024-04-30T03:11:45.321917+00:00
-
- ## Home | Sun Devil Compliance
- - [https://sundevilcompliance.asu.edu](https://sundevilcompliance.asu.edu)
- - date_published: 2024-08-15T21:01:39+00:00
-
- ## Service Portal - Service Portal
- - [https://systemstatus.asu.edu](https://systemstatus.asu.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Virtual Tour | Virtual Tours
- - [https://tours.asu.edu](https://tours.asu.edu)
- - date_published: 2024-07-07T01:52:30.048427+00:00
-
- ## Tuition | Arizona State University
- - [https://tuition.asu.edu](https://tuition.asu.edu)
- - date_published: 2024-07-19T23:31:49+00:00
-
- ## ASU United Way Campaign | ASU UnitedWay
- - [http://unitedway.asu.edu](http://unitedway.asu.edu)
- - date_published: 2024-08-11T04:49:47.403278+00:00
-
- ## Visit ASU | Arizona State University
- - [https://visit.asu.edu](https://visit.asu.edu)
- - date_published: 2024-07-07T01:51:59.512420+00:00
-
- ## Home | ASU in Washington D.C.
- - [https://washingtondc.asu.edu](https://washingtondc.asu.edu)
- - date_published: 2024-06-25T23:24:45+00:00
-
- ## Home Page | Wellness
- - [https://wellness.asu.edu](https://wellness.asu.edu)
- - date_published: 2024-07-22T08:37:47.010886+00:00
-
- ## NASA L'SPACE Program | NASA L'SPACE Program | United States
- - [https://www.lspace.asu.edu](https://www.lspace.asu.edu)
- - date_published: 2024-07-01T17:42:53.459444+00:00
-
- ## Arizona State University
- - [https://www.public.asu.edu](https://www.public.asu.edu)
- - date_published: 2024-06-14T02:53:05.630344+00:00
-
- ## Why is ASU #1 in innovation in the U.S.? | Your Future | Arizona State University
- - [https://yourfuture.asu.edu](https://yourfuture.asu.edu)
- - date_published: 2024-07-07T01:52:31.255540+00:00
-
- ## The Association of Theological Schools
- - [https://ats.edu](https://ats.edu)
- - date_published: 2024-05-07T20:31:56.521868+00:00
-
- ## HOME - Engage ATS
- - [https://engage.ats.edu](https://engage.ats.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Study at AUBG| American University in Bulgaria
- - [https://aubg.edu](https://aubg.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Alabama Agricultural Experiment Station / Science for Healthy, Sustainable Solutions
- - [https://aaes.auburn.edu](https://aaes.auburn.edu)
- - date_published: 2024-07-02T13:05:17.005680+00:00
-
- ## Academic Support
- - [https://academicsupport.auburn.edu](https://academicsupport.auburn.edu)
- - date_published: 2024-07-22T08:23:32.171877+00:00
-
- ## Accessibility || Auburn University
- - [https://accessibility.auburn.edu](https://accessibility.auburn.edu)
- - date_published: 2024-04-30T03:12:58.673704+00:00
-
- ## Home
- - [https://alumni.auburn.edu](https://alumni.auburn.edu)
- - date_published: 2024-04-30T03:12:48.892467+00:00
-
- ## AlumnIQ
- - [https://alumniq.auburn.edu](https://alumniq.auburn.edu)
- - date_published: 2024-04-30T03:11:56.838985+00:00
-
- ## Undergraduate Admissions | Office of Undergraduate Admissions
- - [https://apply.auburn.edu](https://apply.auburn.edu)
- - date_published: 2024-07-22T08:24:59.626558+00:00
-
- ## Default - LibAnswers
- - [https://askalibrarian.auburn.edu](https://askalibrarian.auburn.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Login - AUthenticate
- - [https://auaccess.auburn.edu](https://auaccess.auburn.edu)
- - date_published: 2024-04-30T03:12:54.741278+00:00
-
- ## Welcome to WebVoyáge
- - [https://aubiecat.auburn.edu](https://aubiecat.auburn.edu)
- - date_published: 2013-03-15T20:03:07+00:00
-
- ## Auburn University Homepage
- - [https://auburn.edu](https://auburn.edu)
- - date_published: 2024-04-30T03:12:56.980800+00:00
-
- ## AUrora Home
- - [https://aurora.auburn.edu](https://aurora.auburn.edu)
- - date_published: 2024-07-22T08:23:07.630784+00:00
-
- ## Auburn University Bulletin < Auburn University
- - [https://bulletin.auburn.edu](https://bulletin.auburn.edu)
- - date_published: 2023-08-07T15:04:22+00:00
-
- ## College of Architecture, Design and Construction
- - [http://cadc.auburn.edu](http://cadc.auburn.edu)
- - date_published: 2024-10-18T15:40:29.158576+00:00
-
- ## Login - AUthenticate
- - [https://cascade.auburn.edu](https://cascade.auburn.edu)
- - date_published: 2024-07-22T08:24:57.070935+00:00
-
- ## Search Home
- - [http://catalog.lib.auburn.edu](http://catalog.lib.auburn.edu)
- - date_published: 2024-07-22T08:23:29.578260+00:00
-
- ## Center for Advanced Vehicle and Extreme Environment Electronics
- - [https://cave.auburn.edu](https://cave.auburn.edu)
- - date_published: 2022-06-03T14:56:46+00:00
-
- ## Auburn University Template
- - [https://cdn.auburn.edu](https://cdn.auburn.edu)
- - date_published: 2024-04-30T03:11:47.346753+00:00
-
- ## College of Forestry, Wildlife and Environment at Auburn University
- - [https://cfwe.auburn.edu](https://cfwe.auburn.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## OIT Web Application Server
- - [https://cws.auburn.edu](https://cws.auburn.edu)
- - date_published: 2023-11-02T14:41:26+00:00
-
- ## Auburn University Digital Collections
- - [http://diglib.auburn.edu](http://diglib.auburn.edu)
- - date_published: 2024-07-22T08:23:23.304625+00:00
-
- ## Samuel Ginn College of Engineering
- - [https://ecm.eng.auburn.edu](https://ecm.eng.auburn.edu)
- - date_published: 2024-06-27T18:19:40+00:00
-
- ## Samuel Ginn College of Engineering
- - [https://eng.auburn.edu](https://eng.auburn.edu)
- - date_published: 2024-05-07T22:23:50.010230+00:00
-
- ## AUETD Home
- - [https://etd.auburn.edu](https://etd.auburn.edu)
- - date_published: 2024-04-30T03:13:11.690729+00:00
-
- ## Jay and Susie Gogue Performing Arts Center | at Auburn University
- - [https://goguecenter.auburn.edu](https://goguecenter.auburn.edu)
- - date_published: 2024-05-23T19:07:17.624948+00:00
-
- ## Jay and Susie Gogue Performing Arts Center
- - [https://goguecentertickets.auburn.edu](https://goguecentertickets.auburn.edu)
- - date_published: 2024-08-20T04:45:54.328573+00:00
-
- ## Graduate School Forms
- - [https://gradforms.auburn.edu](https://gradforms.auburn.edu)
- - date_published: 2024-04-30T03:12:50.332998+00:00
-
- ## Graduate School Home - Graduate School
- - [https://graduate.auburn.edu](https://graduate.auburn.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Harbert College of Business
- - [http://harbert.auburn.edu](http://harbert.auburn.edu)
- - date_published: 2024-07-22T08:24:21.582690+00:00
-
- ## Honors At Auburn | Honors College
- - [http://honors.auburn.edu](http://honors.auburn.edu)
- - date_published: 2024-07-22T08:24:36.979959+00:00
-
- ## Auburn University Libraries / Illiad @ Auburn Libraries
- - [https://illiad.lib.auburn.edu](https://illiad.lib.auburn.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Auburn University
- - [https://lib.auburn.edu](https://lib.auburn.edu)
- - date_published: 2024-04-30T03:13:07.785254+00:00
-
- ## Auburn University Libraries / Electronic Resources Login
- - [https://login.spot.lib.auburn.edu](https://login.spot.lib.auburn.edu)
- - date_published: 2024-07-22T08:23:41.739258+00:00
-
- ## Home
- - [https://mccrary.auburn.edu](https://mccrary.auburn.edu)
- - date_published: 2024-07-02T13:05:09.264700+00:00
-
- ## New Venture Accelerator | Where Collaboration Begins
- - [https://nva.auburn.edu](https://nva.auburn.edu)
- - date_published: 2024-07-22T08:25:33.269352+00:00
-
- ## Office of Communications and Marketing
- - [https://ocm.auburn.edu](https://ocm.auburn.edu)
- - date_published: 2024-04-30T03:11:55.792894+00:00
-
- ## Auburn University |  Home
- - [https://oira.auburn.edu](https://oira.auburn.edu)
- - date_published: 2024-07-22T08:24:06.539231+00:00
-
- ## OIT Web Application Server
- - [https://oitapps.auburn.edu](https://oitapps.auburn.edu)
- - date_published: 2023-11-02T14:41:26+00:00
-
- ## Office of Undergraduate Research – Undergraduate research will set you apart.
- - [https://our.auburn.edu](https://our.auburn.edu)
- - date_published: 2024-07-22T08:14:08+00:00
-
- ## Parent & Family Programs – Student Affairs
- - [http://parentandfamily.auburn.edu](http://parentandfamily.auburn.edu)
- - date_published: 2024-07-22T08:24:13.063245+00:00
-
- ## Harrison College of Pharmacy
- - [http://pharmacy.auburn.edu](http://pharmacy.auburn.edu)
- - date_published: 2024-07-22T08:24:15.588180+00:00
-
- ## 2022 Web Template
- - [https://registrar.auburn.edu](https://registrar.auburn.edu)
- - date_published: 2024-07-22T08:24:16.933073+00:00
-
- ## Auburn University
- - [https://search.auburn.edu](https://search.auburn.edu)
- - date_published: 2024-04-30T03:12:00.122504+00:00
-
- ## Auburn University Libraries / Electronic Resources Login
- - [https://search.proquest.com.spot.lib.auburn.edu](https://search.proquest.com.spot.lib.auburn.edu)
- - date_published: 2024-07-22T08:23:14.592186+00:00
-
- ## Giving to Auburn
- - [https://secure.auburn.edu](https://secure.auburn.edu)
- - date_published: 2024-07-22T08:23:53.488772+00:00
-
- ## Home
- - [https://sites.auburn.edu](https://sites.auburn.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Auburn University Student Affairs
- - [https://studentaffairs.auburn.edu](https://studentaffairs.auburn.edu)
- - date_published: 2024-07-22T08:23:55.345700+00:00
-
- ## Login - AUthenticate
- - [https://wire.auburn.edu](https://wire.auburn.edu)
- - date_published: 2024-07-22T08:25:28.015419+00:00
-
- ## CampusPress – Educational blogs from our community
- - [https://wordpress.auburn.edu](https://wordpress.auburn.edu)
- - date_published: 2024-06-06T22:22:11.048670+00:00
-
- ## Home
- - [http://www.agriculture.auburn.edu](http://www.agriculture.auburn.edu)
- - date_published: 2024-07-22T08:24:26.142970+00:00
-
- ## Home
- - [http://www.cla.auburn.edu](http://www.cla.auburn.edu)
- - date_published: 2024-07-22T08:23:48.007617+00:00
-
- ## College of Education Homepage | College of Education
- - [http://www.education.auburn.edu](http://www.education.auburn.edu)
- - date_published: 2024-07-22T08:23:57.960031+00:00
-
- ## Auburn University College of Human Sciences
- - [http://www.humsci.auburn.edu](http://www.humsci.auburn.edu)
- - date_published: 2024-07-22T08:24:03.756855+00:00
-
- ## Home - Auburn University College of Veterinary Medicine
- - [http://www.vetmed.auburn.edu](http://www.vetmed.auburn.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## The American University in Cairo
- - [https://auc-connect.aucegypt.edu](https://auc-connect.aucegypt.edu)
- - date_published: 2024-08-07T17:27:07.718702+00:00
-
- ## The American University in Cairo | The American University in Cairo
- - [https://aucegypt.edu](https://aucegypt.edu)
- - date_published: 2024-04-28T03:27:08.141982+00:00
-
- ## Blackboard Learn
- - [https://blackboard.aucegypt.edu](https://blackboard.aucegypt.edu)
- - date_published: 2004-08-07T17:26:55+00:00
-
- ## American University in Cairo - Modern Campus Catalog™
- - [https://catalog.aucegypt.edu](https://catalog.aucegypt.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Faculty / Staff Telephone Directory
- - [https://dir.aucegypt.edu](https://dir.aucegypt.edu)
- - date_published: 2024-08-07T17:26:47.520529+00:00
-
- ## Happening@AUC
- - [https://happening.aucegypt.edu](https://happening.aucegypt.edu)
- - date_published: 2024-08-07T17:26:57+00:00
-
- ## AUC Libraries and Learning Technologies | AUC Libraries
- - [https://library.aucegypt.edu](https://library.aucegypt.edu)
- - date_published: 2024-08-07T17:27:02+00:00
-
- ## The American University in Cairo: Log in to the site
- - [https://moodle.aucegypt.edu](https://moodle.aucegypt.edu)
- - date_published: 2024-08-07T17:27:10.228315+00:00
-
- ## Sign in - Google Accounts
- - [https://webmail.aucegypt.edu](https://webmail.aucegypt.edu)
- - date_published: 2024-08-07T17:27:06.212834+00:00
-
- ## Home | Robert W. Woodruff Library: Atlanta University Center (AUC) Library
- - [https://www.auctr.edu](https://www.auctr.edu)
- - date_published: 2024-09-16T07:36:09.575865+00:00
-
- ## The American University of Greece | Boston
- - [http://www.aug.edu](http://www.aug.edu)
- - date_published: 2024-03-14T12:44:47+00:00
-
- ## Augusta University
- - [https://www.augusta.edu](https://www.augusta.edu)
- - date_published: 2024-07-22T02:13:31.747812+00:00
-
- ## AUI | We make scientific breakthroughs possible
- - [https://aui.edu](https://aui.edu)
- - date_published: 2024-05-07T19:49:08.720348+00:00
-
- ## Auburn University at Montgomery | Top Ranked University in AL
- - [https://www.aum.edu](https://www.aum.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## LibGuides: Library Homepage: Welcome
- - [https://library.aup.edu](https://library.aup.edu)
- - date_published: 2024-06-30T01:29:41.054361+00:00
-
- ## The American University of Paris | International Undergraduate and Graduate Programs.
- - [https://www.aup.edu](https://www.aup.edu)
- - date_published: 2024-07-09T14:00:16+00:00
-
- ## Auraria Library
- - [https://library.auraria.edu](https://library.auraria.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## American University of Sharjah
- - [https://login.aus.edu](https://login.aus.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home | AVTEC
- - [https://www.avtec.edu](https://www.avtec.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## All College Blogs
- - [https://blogs.babson.edu](https://blogs.babson.edu)
- - date_published: 2024-06-12T06:00:02.929568+00:00
-
- ## Undergraduate Center for Career Development | Babson College
- - [https://career.babson.edu](https://career.babson.edu)
- - date_published: 2024-09-12T14:29:30.392032+00:00
-
- ## The Entrepreneurial Mindset · Babson Thought & Action
- - [https://entrepreneurship.babson.edu](https://entrepreneurship.babson.edu)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Sign in to your account
- - [https://facultyportal.babson.edu](https://facultyportal.babson.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Babson College:
-		Babson Authentication
- - [https://fusionmx.babson.edu](https://fusionmx.babson.edu)
- - date_published: 2024-09-12T14:29:26.322959+00:00
-
- ## Sign in to your account
- - [https://studentportal.babson.edu](https://studentportal.babson.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## www.babson.edu
- - [https://www.babson.edu](https://www.babson.edu)
- - date_published: 2024-06-12T12:12:06.697055+00:00
-
- ## Weissman Foundry
- - [https://www.foundry.babson.edu](https://www.foundry.babson.edu)
- - date_published: 2024-09-12T14:29:18.142764+00:00
-
- ## Bank Street College of Education
- - [https://www.bankstreet.edu](https://www.bankstreet.edu)
- - date_published: 2024-08-07T13:08:12.666503+00:00
-
- ## Alumni/ae Network at Bard College
- - [https://alums.bard.edu](https://alums.bard.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Bard Architecture
- - [https://arch.bard.edu](https://arch.bard.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Art History and Visual Culture Program | Bard College
- - [https://arthistory.bard.edu](https://arthistory.bard.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Bard College Division of the Arts at Bard College
- - [https://arts.bard.edu](https://arts.bard.edu)
- - date_published: 2024-04-30T03:13:15.340332+00:00
-
- ## BEC Baltimore – BEC
- - [https://baltimore.bard.edu](https://baltimore.bard.edu)
- - date_published: 2024-07-22T08:06:11.405916+00:00
-
- ## Bard College at Bard College
- - [https://bard.edu](https://bard.edu)
- - date_published: 2024-04-30T03:13:35.109615+00:00
-
- ## Bard College at Bard College
- - [https://bardian.bard.edu](https://bardian.bard.edu)
- - date_published: 2024-04-30T03:13:32.578878+00:00
-
- ## BardWorks 2024 at Bard College
- - [https://bardworks.bard.edu](https://bardworks.bard.edu)
- - date_published: 2024-07-20T22:10:31.814634+00:00
-
- ## Bard College Berlin at Bard College Berlin
- - [https://berlin.bard.edu](https://berlin.bard.edu)
- - date_published: 2024-07-22T08:06:18.670939+00:00
-
- ## Bard Early College
- - [https://bhsec.bard.edu](https://bhsec.bard.edu)
- - date_published: 2024-04-30T03:13:28.182080+00:00
-
- ## Bard Office of Sustainability at Bard College
- - [https://bos.bard.edu](https://bos.bard.edu)
- - date_published: 2024-04-30T03:13:19.580747+00:00
-
- ## Bard Prison Initiative: Reimagining the Place of Higher Education
- - [https://bpi.bard.edu](https://bpi.bard.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Center for Civic Engagement at Bard College
- - [https://cce.bard.edu](https://cce.bard.edu)
- - date_published: 2024-04-30T03:13:24.455361+00:00
-
- ## Undergraduate Admission at Bard College
- - [https://connect.bard.edu](https://connect.bard.edu)
- - date_published: 2024-04-30T03:13:37.832511+00:00
-
- ## Bard Dance Program at Bard College
- - [https://dance.bard.edu](https://dance.bard.edu)
- - date_published: 2024-07-22T08:20:29.606725+00:00
-
- ## Economics at Bard at Bard College
- - [https://economics.bard.edu](https://economics.bard.edu)
- - date_published: 2024-09-10T07:29:50.666716+00:00
-
- ## Economic Democracy Initiative at Bard College
- - [https://edi.bard.edu](https://edi.bard.edu)
- - date_published: 2024-05-12T05:46:40.670973+00:00
-
- ## The Bard Family Network at Bard College
- - [https://families.bard.edu](https://families.bard.edu)
- - date_published: 2024-04-30T03:13:40.103087+00:00
-
- ## Film and Electronic Arts Program at Bard College
- - [https://film.bard.edu](https://film.bard.edu)
- - date_published: 2024-07-22T08:20:40.340687+00:00
-
- ## Home - Fisher Center at Bard
- - [https://fishercenter.bard.edu](https://fishercenter.bard.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Giving at Bard College
- - [https://giving.bard.edu](https://giving.bard.edu)
- - date_published: 2024-04-30T03:13:22.832473+00:00
-
- ## Bard Graduate Programs in Sustainability
- - [https://gps.bard.edu](https://gps.bard.edu)
- - date_published: 2024-07-17T06:08:13+00:00
-
- ## Health, Counseling, and Wellness at Bard College at Bard College
- - [https://hcw.bard.edu](https://hcw.bard.edu)
- - date_published: 2024-04-30T03:13:30.419167+00:00
-
- ## BEC Hudson Valley – BEC
- - [https://hudson.bard.edu](https://hudson.bard.edu)
- - date_published: 2024-07-22T08:05:35.930240+00:00
-
- ## Lead The Change
- - [https://leadthechange.bard.edu](https://leadthechange.bard.edu)
- - date_published: 2024-07-21T23:25:46+00:00
-
- ## Bard Music Program at Bard College
- - [https://music.bard.edu](https://music.bard.edu)
- - date_published: 2024-07-22T08:20:42.314623+00:00
-
- ## BEC New Orleans – BEC
- - [https://neworleans.bard.edu](https://neworleans.bard.edu)
- - date_published: 2024-07-22T08:05:34.184956+00:00
-
- ## Bard Photography Program at Bard College
- - [https://photo.bard.edu](https://photo.bard.edu)
- - date_published: 2024-07-22T08:20:34.621076+00:00
-
- ## Bard College Division of Science, Mathematics, and Computing at Bard College
- - [https://science.bard.edu](https://science.bard.edu)
- - date_published: 2024-07-22T08:12:43.364394+00:00
-
- ## Studio Arts Program at Bard at Bard College
- - [https://studioarts.bard.edu](https://studioarts.bard.edu)
- - date_published: 2024-07-22T08:20:31.075297+00:00
-
- ## Theater and Performance at Bard College at Bard College
- - [https://theater.bard.edu](https://theater.bard.edu)
- - date_published: 2024-07-22T08:20:43.871110+00:00
-
- ## Bard Tools
- - [https://tools.bard.edu](https://tools.bard.edu)
- - date_published: 2024-07-20T22:10:30.241269+00:00
-
- ## Bard Graduate Center
- - [https://www.bgc.bard.edu](https://www.bgc.bard.edu)
- - date_published: 2024-07-13T14:27:56.875114+00:00
-
- ## Barnard College in New York City
- - [https://barnard.edu](https://barnard.edu)
- - date_published: 2024-07-08T16:20:53+00:00
-
- ## Reacting to the Past
- - [https://reacting.barnard.edu](https://reacting.barnard.edu)
- - date_published: 2024-05-09T05:24:59.795451+00:00
-
- ## ‘With Ardor and Devotion’
- - [https://www.bates.edu](https://www.bates.edu)
- - date_published: 2013-08-06T19:41:59+00:00
-
- ## About Baylor
- - [https://about.web.baylor.edu](https://about.web.baylor.edu)
- - date_published: 2022-10-22T05:19:00+00:00
-
- ## Academic Calendar Committee
- - [https://academiccalendar.web.baylor.edu](https://academiccalendar.web.baylor.edu)
- - date_published: 2023-08-22T13:30:00+00:00
 

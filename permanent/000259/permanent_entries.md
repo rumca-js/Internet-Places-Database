@@ -1,3 +1,758 @@
+ ## Computer Engineering
+ - [https://compeng.columbia.edu](https://compeng.columbia.edu)
+ - date_published: 2024-04-30T03:56:57.464249+00:00
+
+ ## Connect - Login Page
+ - [https://connect.doctors.columbia.edu](https://connect.doctors.columbia.edu)
+ - date_published: 2024-07-22T05:43:13.307589+00:00
+
+ ## Copyright Advisory Services Home | Columbia University Libraries
+ - [https://copyright.columbia.edu](https://copyright.columbia.edu)
+ - date_published: 2024-07-22T05:45:17.964823+00:00
+
+ ## An Update on COVID-19 University Guidance
+ - [https://covid19.columbia.edu](https://covid19.columbia.edu)
+ - date_published: 2024-07-08T13:17:06+00:00
+
+ ## Columbia Creative | Office of Public Affairs
+ - [http://creative.columbia.edu](http://creative.columbia.edu)
+ - date_published: 2024-07-12T19:54:07+00:00
+
+ ## Department of Computer Science, Columbia University
+ - [https://cs.columbia.edu](https://cs.columbia.edu)
+ - date_published: 2024-07-22T05:41:09.829862+00:00
+
+ ## Center for Sustainable Development
+ - [http://csd.columbia.edu](http://csd.columbia.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Columbia University Irving Medical Center
+ - [https://cuimc.columbia.edu](https://cuimc.columbia.edu)
+ - date_published: 2023-10-25T18:50:21.143055+00:00
+
+ ## Columbia University Information Technology
+ - [https://cuit.columbia.edu](https://cuit.columbia.edu)
+ - date_published: 2024-04-30T03:48:58.578784+00:00
+
+ ## Columbia University Irving Medical Center
+ - [https://cumc.columbia.edu](https://cumc.columbia.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Columbia University Press Website | Home
+ - [https://cup.columbia.edu](https://cup.columbia.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Columbia University Data Science Institute
+ - [https://datascience.columbia.edu](https://datascience.columbia.edu)
+ - date_published: 2024-04-30T03:56:55.595507+00:00
+
+ ## Columbia Giving
+ - [https://datasociety.givenow.columbia.edu](https://datasociety.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:47.135844+00:00
+
+ ## The Roger Lehecka Double Discovery Center
+ - [https://ddc.college.columbia.edu](https://ddc.college.columbia.edu)
+ - date_published: 2024-04-30T03:56:48.123202+00:00
+
+ ## DextAIRity: Deformable Manipulation Can be a Breeze
+ - [https://dextairity.cs.columbia.edu](https://dextairity.cs.columbia.edu)
+ - date_published: 2023-02-28T20:29:15+00:00
+
+ ## Diffusion Models for Robotics Control
+ - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
+ - date_published: 2023-12-14T04:53:26+00:00
+
+ ## Columbia University: Directory
+ - [https://directory.columbia.edu](https://directory.columbia.edu)
+ - date_published: 2024-04-30T03:57:20.283569+00:00
+
+ ## CU Directory of Classes
+ - [https://doc.sis.columbia.edu](https://doc.sis.columbia.edu)
+ - date_published: 2024-07-22T05:55:39.070614+00:00
+
+ ## Find the nearest Columbia University Irving Medical Center Doctor near you | family physicians, pediatricians, surgeons
+ - [https://doctors.columbia.edu](https://doctors.columbia.edu)
+ - date_published: 2024-04-30T03:57:12.879681+00:00
+
+ ## Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
+ - [https://dreamitate.cs.columbia.edu](https://dreamitate.cs.columbia.edu)
+ - date_published: 2024-06-30T18:12:18+00:00
+
+ ## Learning 3D Dynamic Scene Representations for Robot Manipulation
+ - [https://dsr-net.cs.columbia.edu](https://dsr-net.cs.columbia.edu)
+ - date_published: 2022-10-12T21:54:27+00:00
+
+ ## Earth Day
+ - [https://earthday.columbia.edu](https://earthday.columbia.edu)
+ - date_published: 2024-04-30T03:49:15.495140+00:00
+
+ ## Department of Earth and Environmental Sciences
+ - [https://eesc.columbia.edu](https://eesc.columbia.edu)
+ - date_published: 2024-07-02T19:45:18+00:00
+
+ ## Columbia Engineering Schools | Innovative Programs for Students
+ - [https://engineering.columbia.edu](https://engineering.columbia.edu)
+ - date_published: 2016-09-09T19:10:05+00:00
+
+ ## Home - Columbia Entrepreneurship
+ - [https://entrepreneurship.columbia.edu](https://entrepreneurship.columbia.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Equal Opportunity and Affirmative Action
+ - [https://eoaa.columbia.edu](https://eoaa.columbia.edu)
+ - date_published: 2024-04-30T03:55:44.508591+00:00
+
+ ## Columbia University Events Calendar
+ - [https://events.columbia.edu](https://events.columbia.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Facilities and Operations
+ - [http://facilities.columbia.edu](http://facilities.columbia.edu)
+ - date_published: 2024-07-05T18:15:22+00:00
+
+ ## Faculty Resources
+ - [https://faculty-resources.law.columbia.edu](https://faculty-resources.law.columbia.edu)
+ - date_published: 2024-08-31T17:36:44+00:00
+
+ ## Feedback
+ - [https://feedback.cul.columbia.edu](https://feedback.cul.columbia.edu)
+ - date_published: 2024-07-22T05:45:10.694920+00:00
+
+ ## Law School Services
+ - [https://finance-admin.law.columbia.edu](https://finance-admin.law.columbia.edu)
+ - date_published: 2024-09-04T12:46:31+00:00
+
+ ## Columbia University Libraries Finding Aids
+ - [https://findingaids.library.columbia.edu](https://findingaids.library.columbia.edu)
+ - date_published: 2024-07-02T10:27:36.749111+00:00
+
+ ## Users
+ - [https://forms.alumdev.columbia.edu](https://forms.alumdev.columbia.edu)
+ - date_published: 2024-04-30T03:48:21.638479+00:00
+
+ ## Columbia Giving
+ - [https://futureofneuroscience.givenow.columbia.edu](https://futureofneuroscience.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:43.708601+00:00
+
+ ## GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
+ - [https://garmentnets.cs.columbia.edu](https://garmentnets.cs.columbia.edu)
+ - date_published: 2021-09-27T00:38:01+00:00
+
+ ## Government and Community Affairs | Office of Public Affairs
+ - [https://gca.columbia.edu](https://gca.columbia.edu)
+ - date_published: 2024-04-30T03:55:41.248565+00:00
+
+ ## Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis - Columbia Computer Vision Lab
+ - [https://gcd.cs.columbia.edu](https://gcd.cs.columbia.edu)
+ - date_published: 2024-07-21T19:30:39+00:00
+
+ ## pix2gestalt: Amodal Segmentation by Synthesizing Wholes
+ - [https://gestalt.cs.columbia.edu](https://gestalt.cs.columbia.edu)
+ - date_published: 2024-06-25T13:26:48+00:00
+
+ ## Why We Give
+ - [https://giftplanning.columbia.edu](https://giftplanning.columbia.edu)
+ - date_published: 2024-07-22T05:44:55.936992+00:00
+
+ ## Columbia Giving
+ - [https://givenow.columbia.edu](https://givenow.columbia.edu)
+ - date_published: 2024-04-30T03:57:10.913005+00:00
+
+ ## Homepage
+ - [https://giving.columbia.edu](https://giving.columbia.edu)
+ - date_published: 2024-04-30T03:55:48.094993+00:00
+
+ ## Columbia Giving Day 2024
+ - [http://givingday.columbia.edu](http://givingday.columbia.edu)
+ - date_published: 2024-07-22T05:31:41.174502+00:00
+
+ ## Columbia Global Centers
+ - [https://globalcenters.columbia.edu](https://globalcenters.columbia.edu)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Columbia Giving
+ - [https://globalsolutions.givenow.columbia.edu](https://globalsolutions.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:50.536044+00:00
+
+ ## Study Abroad | Undergraduate Global Engagement
+ - [https://global.undergrad.columbia.edu](https://global.undergrad.columbia.edu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Grossman Center
+ - [http://grossmancenter.columbia.edu](http://grossmancenter.columbia.edu)
+ - date_published: 2024-07-22T05:55:23.864020+00:00
+
+ ## School of General Studies
+ - [https://gs.columbia.edu](https://gs.columbia.edu)
+ - date_published: 2024-07-08T08:43:29+00:00
+
+ ## Columbia Health
+ - [https://health.columbia.edu](https://health.columbia.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Grades of Heat
+ - [https://heat.brown.columbia.edu](https://heat.brown.columbia.edu)
+ - date_published: 2023-09-18T17:33:36+00:00
+
+ ## CUIMC Privacy Office
+ - [https://hipaa.cumc.columbia.edu](https://hipaa.cumc.columbia.edu)
+ - date_published: 2024-04-30T03:50:17.649163+00:00
+
+ ## Department of History - Columbia University
+ - [https://history.columbia.edu](https://history.columbia.edu)
+ - date_published: 2024-06-30T08:33:13+00:00
+
+ ## The Eric H. Holder Jr. Initiative for Civil and Political Rights
+ - [https://holder.college.columbia.edu](https://holder.college.columbia.edu)
+ - date_published: 2024-09-04T17:40:00+00:00
+
+ ## Library Hours and Locations Open Now | Columbia University Libraries
+ - [https://hours.library.columbia.edu](https://hours.library.columbia.edu)
+ - date_published: 2024-07-22T05:45:03.188025+00:00
+
+ ## The Hub
+ - [https://hub.zi.columbia.edu](https://hub.zi.columbia.edu)
+ - date_published: 2023-07-23T05:31:46+00:00
+
+ ## Learning the Predictability of the Future - Columbia Computer Vision
+ - [https://hyperfuture.cs.columbia.edu](https://hyperfuture.cs.columbia.edu)
+ - date_published: 2023-04-28T19:04:55+00:00
+
+ ## Error Page
+ - [https://internal.zi.columbia.edu](https://internal.zi.columbia.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+ - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
+ - date_published: 2022-07-01T02:01:20+00:00
+
+ ## Institute for Social and Economic Research and Policy (ISERP)
+ - [http://iserp.columbia.edu](http://iserp.columbia.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Columbia Journalism School
+ - [http://journalism.columbia.edu](http://journalism.columbia.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Columbia Library Journals
+ - [https://journals.library.columbia.edu](https://journals.library.columbia.edu)
+ - date_published: 2024-06-29T06:05:37.864133+00:00
+
+ ## Columbia Giving
+ - [https://justsocieties.givenow.columbia.edu](https://justsocieties.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:45.595454+00:00
+
+ ## The Kermit Project - Columbia University:
+ Terminal Emulation, File Transfer, Scripting
+ - [https://kermit.columbia.edu](https://kermit.columbia.edu)
+ - date_published: 2024-05-08T09:12:36.452054+00:00
+
+ ## Columbia Giving
+ - [https://law.givenow.columbia.edu](https://law.givenow.columbia.edu)
+ - date_published: 2024-09-04T20:15:32.966324+00:00
+
+ ## Law, Rights, and Religion Project
+ - [https://lawrightsreligion.law.columbia.edu](https://lawrightsreligion.law.columbia.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Lamont-Doherty Earth Observatory
+ - [https://ldeo.columbia.edu](https://ldeo.columbia.edu)
+ - date_published: 2024-04-30T03:55:38.664702+00:00
+
+ ## LEAP - An NSF Science and Technology Center
+ - [https://leap.columbia.edu](https://leap.columbia.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Libraries Home | Columbia University Libraries
+ - [https://library.columbia.edu](https://library.columbia.edu)
+ - date_published: 2024-04-30T03:55:42.681297+00:00
+
+ ## Welcome to Augustus C. Long Health Sciences Library | Augustus C. Long Health Sciences Library
+ - [https://library.cumc.columbia.edu](https://library.cumc.columbia.edu)
+ - date_published: 2024-07-21T23:31:03+00:00
+
+ ## Columbia Giving
+ - [https://library.givenow.columbia.edu](https://library.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:45:12.080504+00:00
+
+ ## Local News Lab - Brown Institute - Columbia University
+ - [https://lnl.brown.columbia.edu](https://lnl.brown.columbia.edu)
+ - date_published: 2023-10-24T00:00:00+00:00
+
+ ## Columbia Magazine
+ - [https://magazine.columbia.edu](https://magazine.columbia.edu)
+ - date_published: 2023-10-25T18:49:57.691308+00:00
+
+ ## Columbia University Mailman School of Public Health
+ - [https://mailman.columbia.edu](https://mailman.columbia.edu)
+ - date_published: 2024-04-30T03:56:50.595002+00:00
+
+ ## Department of Mathematics at Columbia University - Welcome
+ - [https://mail.math.columbia.edu](https://mail.math.columbia.edu)
+ - date_published: 2024-06-30T09:08:04.555064+00:00
+
+ ## Department of Mathematics at Columbia University - Welcome
+ - [https://math.columbia.edu](https://math.columbia.edu)
+ - date_published: 2024-05-07T15:56:49.200989+00:00
+
+ ## Columbia University Authentication
+ - [https://mice.cs.columbia.edu](https://mice.cs.columbia.edu)
+ - date_published: 2024-04-30T03:57:06.698061+00:00
+
+ ## Columbia Neighbors
+ - [https://neighbors.columbia.edu](https://neighbors.columbia.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## State of the Planet - News from the Columbia Climate School
+ - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
+ - date_published: 2023-12-20T22:47:58.538909+00:00
+
+ ## Columbia News
+ - [https://news.columbia.edu](https://news.columbia.edu)
+ - date_published: 2023-12-05T18:08:58.749533+00:00
+
+ ## Columbia School of Nursing in New York City
+ - [https://nursing.columbia.edu](https://nursing.columbia.edu)
+ - date_published: 2024-06-07T15:35:06.302706+00:00
+
+ ## Study Abroad | Undergraduate Global Engagement
+ - [http://ogp.columbia.edu](http://ogp.columbia.edu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home
+ - [https://opportunities.columbia.edu](https://opportunities.columbia.edu)
+ - date_published: 2024-07-22T05:55:26.522395+00:00
+
+ ## Columbia University | Our Values
+ - [https://ourvalues.columbia.edu](https://ourvalues.columbia.edu)
+ - date_published: 2024-04-30T03:55:34.036752+00:00
+
+ ## PaperBot: Learning to Design Real-World Tools Using Paper
+ - [https://paperbot.cs.columbia.edu](https://paperbot.cs.columbia.edu)
+ - date_published: 2024-06-25T17:16:50+00:00
+
+ ## About PEERING |
+    
+    PEERING - The BGP Testbed
+ - [https://peering.ee.columbia.edu](https://peering.ee.columbia.edu)
+ - date_published: 2024-06-17T03:31:48.710343+00:00
+
+ ## Physical Education and Recreation
+ - [https://perec.columbia.edu](https://perec.columbia.edu)
+ - date_published: 2024-06-28T19:31:59+00:00
+
+ ## Columbia Plus
+ - [https://plus.columbia.edu](https://plus.columbia.edu)
+ - date_published: 2024-04-30T03:55:32.741149+00:00
+
+ ## University Policies
+ - [http://policylibrary.columbia.edu](http://policylibrary.columbia.edu)
+ - date_published: 2024-07-12T21:11:59+00:00
+
+ ## Political Science
+ - [http://polisci.columbia.edu](http://polisci.columbia.edu)
+ - date_published: 2024-06-11T14:55:51+00:00
+
+ ## Columbia University Center on Poverty and Social Policy
+ - [https://povertycenter.columbia.edu](https://povertycenter.columbia.edu)
+ - date_published: 2024-04-28T04:12:55.677485+00:00
+
+ ## Power: Infrastructure in America
+ - [https://power.buellcenter.columbia.edu](https://power.buellcenter.columbia.edu)
+ - date_published: 2023-09-30T07:51:34+00:00
+
+ ## Columbia Giving
+ - [https://precisionmedicine.givenow.columbia.edu](https://precisionmedicine.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:48.692586+00:00
+
+ ## Columbia University Pre-College Programs
+ - [https://precollege.sps.columbia.edu](https://precollege.sps.columbia.edu)
+ - date_published: 2024-04-30T03:49:20.102489+00:00
+
+ ## Columbia University Mailman School of Public Health
+ - [https://publichealth.columbia.edu](https://publichealth.columbia.edu)
+ - date_published: 2024-03-02T19:19:41.405171+00:00
+
+ ## HICCC ANNUAL REPORT 2023
+ - [https://pubs.cancer.columbia.edu](https://pubs.cancer.columbia.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Columbia College
+ - [http://rabi.columbia.edu](http://rabi.columbia.edu)
+ - date_published: 2024-07-08T13:43:52+00:00
+
+ ## Office of the University Registrar | Columbia University in the City of New York
+ - [https://registrar.columbia.edu](https://registrar.columbia.edu)
+ - date_published: 2024-04-30T03:56:46.048602+00:00
+
+ ## The Real Estate Record: Home
+ - [https://rerecord.library.columbia.edu](https://rerecord.library.columbia.edu)
+ - date_published: 2024-05-07T15:03:49.432581+00:00
+
+ ## RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
+ - [https://roboninja.cs.columbia.edu](https://roboninja.cs.columbia.edu)
+ - date_published: 2023-05-01T06:28:22+00:00
+
+ ## Scholarship Archive | Columbia Law School Research
+ - [https://scholarship.law.columbia.edu](https://scholarship.law.columbia.edu)
+ - date_published: 2024-09-04T20:15:35.091339+00:00
+
+ ## Columbia University Search
+ - [http://search.columbia.edu](http://search.columbia.edu)
+ - date_published: 2024-07-22T05:40:52.946583+00:00
+
+ ## Columbia University Search
+ - [https://search.sites.columbia.edu](https://search.sites.columbia.edu)
+ - date_published: 2024-04-30T03:57:33.332050+00:00
+
+ ## Socioeconomic Data and Applications Center | SEDAC
+ - [https://sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu)
+ - date_published: 2024-05-09T07:19:35.951462+00:00
+
+ ## Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models
+ - [https://semantic-abstraction.cs.columbia.edu](https://semantic-abstraction.cs.columbia.edu)
+ - date_published: 2023-02-13T20:32:40+00:00
+
+ ## Student Financial Services
+ - [http://sfs.columbia.edu](http://sfs.columbia.edu)
+ - date_published: 2024-07-02T17:35:03+00:00
+
+ ## Columbia SIPA | School of International and Public Affairs
+ - [https://sipa.columbia.edu](https://sipa.columbia.edu)
+ - date_published: 2024-07-06T23:47:53.952042+00:00
+
+ ## Columbia Sites
+ - [https://sites.columbia.edu](https://sites.columbia.edu)
+ - date_published: 2024-04-30T03:56:25.550837+00:00
+
+ ## Department of Sociology
+ - [https://sociology.columbia.edu](https://sociology.columbia.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Columbia University School of Professional Studies
+ - [https://sps.columbia.edu](https://sps.columbia.edu)
+ - date_published: 2024-02-24T18:08:00.655256+00:00
+
+ ## Student Service Center
+ - [https://ssc.columbia.edu](https://ssc.columbia.edu)
+ - date_published: 2024-07-07T23:45:41+00:00
+
+ ## Columbia Student Services Online - Log in
+ - [https://ssol.columbia.edu](https://ssol.columbia.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Index—The Stacks project
+ - [https://stacks.math.columbia.edu](https://stacks.math.columbia.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Department of Statistics
+ - [https://stat.columbia.edu](https://stat.columbia.edu)
+ - date_published: 2024-04-30T03:50:01.262083+00:00
+
+ ## Special Year on Statistical Machine Learning - Columbia University in the City of New York
+ - [http://statisticalml.stat.columbia.edu](http://statisticalml.stat.columbia.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Statistical Modeling, Causal Inference, and Social Science
+ - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
+ - date_published: 2023-10-25T18:50:02.076404+00:00
+
+ ## Strategic Directions | Columbia University Libraries
+ - [https://strategicdirections.library.columbia.edu](https://strategicdirections.library.columbia.edu)
+ - date_published: 2024-07-22T05:45:16.579789+00:00
+
+ ## Columbia College and Columbia Engineering
+ - [http://studentaffairs.columbia.edu](http://studentaffairs.columbia.edu)
+ - date_published: 2024-09-04T18:42:13+00:00
+
+ ## CSSI | Center for Student Success and Intervention
+ - [https://studentconduct.columbia.edu](https://studentconduct.columbia.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Columbia University Summer Session
+ - [https://summer.sps.columbia.edu](https://summer.sps.columbia.edu)
+ - date_published: 2024-04-30T03:49:21.172646+00:00
+
+ ## Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection
+ - [https://thermal.cs.columbia.edu](https://thermal.cs.columbia.edu)
+ - date_published: 2020-03-27T00:00:00+00:00
+
+ ## CUL Toolkit
+ - [https://toolkit.library.columbia.edu](https://toolkit.library.columbia.edu)
+ - date_published: 2023-03-02T17:04:33+00:00
+
+ ## Columbia University School of Professional Studies Virtual Tour
+ - [https://tour.sps.columbia.edu](https://tour.sps.columbia.edu)
+ - date_published: 2023-03-25T15:43:02+00:00
+
+ ## Columbia Transportation
+ - [https://transportation.columbia.edu](https://transportation.columbia.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## WebHome < Main < TWiki
+ - [https://twiki.nevis.columbia.edu](https://twiki.nevis.columbia.edu)
+ - date_published: 2024-07-10T02:19:16.900161+00:00
+
+ ## UMPNet: Universal Manipulation Policy Network for Articulated Objects
+ - [https://ump-net.cs.columbia.edu](https://ump-net.cs.columbia.edu)
+ - date_published: 2022-07-01T13:49:30+00:00
+
+ ## Home | Columbia Undergraduate Admissions
+ - [https://undergrad.admissions.columbia.edu](https://undergrad.admissions.columbia.edu)
+ - date_published: 2024-04-30T03:57:04.900245+00:00
+
+ ## University Life
+ - [https://universitylife.columbia.edu](https://universitylife.columbia.edu)
+ - date_published: 2024-07-08T14:55:07+00:00
+
+ ## Undergraduate Research and Fellowships | Undergraduate Research and Fellowships
+ - [https://urf.columbia.edu](https://urf.columbia.edu)
+ - date_published: 2024-05-08T11:29:09.415255+00:00
+
+ ## ViperGPT: Visual Inference via Python Execution for Reasoning
+ - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
+ - date_published: 2023-10-25T18:50:05.789837+00:00
+
+ ## Visualizing Virality
+ - [https://virality.brown.columbia.edu](https://virality.brown.columbia.edu)
+ - date_published: 2024-07-01T20:07:09.922953+00:00
+
+ ## Visitors Center
+ - [https://visit.columbia.edu](https://visit.columbia.edu)
+ - date_published: 2024-04-30T03:56:27.647910+00:00
+
+ ## Women Film Pioneers Project
+ - [https://wfpp.columbia.edu](https://wfpp.columbia.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Columbia University in the City of New York
+ - [https://www1.columbia.edu](https://www1.columbia.edu)
+ - date_published: 2024-06-30T03:10:22+00:00
+
+ ## Department of Computer Science, Columbia University
+ - [http://www1.cs.columbia.edu](http://www1.cs.columbia.edu)
+ - date_published: 2024-07-03T04:52:57.587346+00:00
+
+ ## Home - Columbia GSAPP
+ - [https://www.arch.columbia.edu](https://www.arch.columbia.edu)
+ - date_published: 2024-05-08T11:43:48.142108+00:00
+
+ ## Astronomy & Astrophysics
+ - [http://www.astro.columbia.edu](http://www.astro.columbia.edu)
+ - date_published: 2024-08-16T14:42:15+00:00
+
+ ## CAP
+ - [http://www.cap.columbia.edu](http://www.cap.columbia.edu)
+ - date_published: 2024-07-12T02:03:59+00:00
+
+ ## Columbia CCE
+ - [https://www.careereducation.columbia.edu](https://www.careereducation.columbia.edu)
+ - date_published: 2024-09-04T19:13:17+00:00
+
+ ## CIESIN Columbia University
+ - [http://www.ciesin.columbia.edu](http://www.ciesin.columbia.edu)
+ - date_published: 2024-07-10T03:10:34.604667+00:00
+
+ ## Schneeweiss Adult Congenital Heart Center
+ - [https://www.congenitalheart.cuimc.columbia.edu](https://www.congenitalheart.cuimc.columbia.edu)
+ - date_published: 2024-09-04T19:20:01+00:00
+
+ ## Columbia DBMI Home - Columbia DBMI
+ - [https://www.dbmi.columbia.edu](https://www.dbmi.columbia.edu)
+ - date_published: 2019-06-11T15:36:11+00:00
+
+ ## CUIMC Privacy Office
+ - [https://www.hipaa.cuimc.columbia.edu](https://www.hipaa.cuimc.columbia.edu)
+ - date_published: 2024-07-22T01:43:49+00:00
+
+ ## Homepage | Columbia Law School
+ - [https://www.law.columbia.edu](https://www.law.columbia.edu)
+ - date_published: 2024-06-08T04:34:48.643951+00:00
+
+ ## Vagelos College of Physicians and Surgeons
+ - [https://www.ps.columbia.edu](https://www.ps.columbia.edu)
+ - date_published: 2024-10-16T07:23:09+00:00
+
+ ## QMSS
+ - [http://www.qmss.columbia.edu](http://www.qmss.columbia.edu)
+ - date_published: 2024-07-16T16:40:42+00:00
+
+ ## Columbia University Fu Foundation School of Engineering and Applied Science
+ - [http://www.seas.columbia.edu](http://www.seas.columbia.edu)
+ - date_published: 2024-06-17T12:17:24.066055+00:00
+
+ ## Teachers College - Columbia University
+ - [http://www.tc.columbia.edu](http://www.tc.columbia.edu)
+ - date_published: 2024-07-22T05:43:05.998045+00:00
+
+ ## Vagelos College of Physicians and Surgeons
+ - [https://www.vagelos.columbia.edu](https://www.vagelos.columbia.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## SOCIAL MEDIA TITLE TAG
+ - [https://xskill.cs.columbia.edu](https://xskill.cs.columbia.edu)
+ - date_published: 2023-10-27T15:43:11+00:00
+
+ ## Zero-1-to-3: Zero-shot One Image to 3D Object
+ - [https://zero123.cs.columbia.edu](https://zero123.cs.columbia.edu)
+ - date_published: 2023-06-03T20:45:06+00:00
+
+ ## Columbia | Zuckerman Institute
+ - [https://zuckermaninstitute.columbia.edu](https://zuckermaninstitute.columbia.edu)
+ - date_published: 2023-10-25T18:50:31.676775+00:00
+
+ ## Columbia Giving
+ - [https://zuckermaninstitute.givenow.columbia.edu](https://zuckermaninstitute.givenow.columbia.edu)
+ - date_published: 2024-04-30T03:57:50.734861+00:00
+
+ ## An Online University with Unlimited Possibilities | Columbia Southern University
+ - [https://www.columbiasouthern.edu](https://www.columbiasouthern.edu)
+ - date_published: 2024-07-21T09:48:40.897333+00:00
+
+ ## Universidad Pontificia Comillas
+ - [https://www.comillas.edu](https://www.comillas.edu)
+ - date_published: 2024-08-10T01:14:24+00:00
+
+ ## ICAI
+ - [https://www.icai.comillas.edu](https://www.icai.comillas.edu)
+ - date_published: 2024-07-01T15:16:48+00:00
+
+ ## Home
+ - [https://www.commonwealthu.edu](https://www.commonwealthu.edu)
+ - date_published: 2024-06-29T16:59:30+00:00
+
+ ## Purdue Global Law School | Earn a Law Degree Online
+ - [http://www.concordlawschool.edu](http://www.concordlawschool.edu)
+ - date_published: 2024-08-19T21:45:52.260250+00:00
+
+ ## Admissions
+ - [https://connect.cooper.edu](https://connect.cooper.edu)
+ - date_published: 2024-08-05T17:40:31+00:00
+
+ ## Welcome
+ - [https://cooper.edu](https://cooper.edu)
+ - date_published: 2024-04-29T02:00:21.387322+00:00
+
+ ## The Cooper Union Library: Homepage: The Cooper Union Library
+ - [http://library.cooper.edu](http://library.cooper.edu)
+ - date_published: 2024-08-06T15:30:03.845388+00:00
+
+ ## Coppin State University Employment Opportunities | Home
+ - [https://employment.coppin.edu](https://employment.coppin.edu)
+ - date_published: 2024-07-02T03:25:12+00:00
+
+ ## Homepage | Coppin State University
+ - [http://www.coppin.edu](http://www.coppin.edu)
+ - date_published: 2024-07-01T21:52:50+00:00
+
+ ## Cornell AAP
+ - [https://aap.cornell.edu](https://aap.cornell.edu)
+ - date_published: 2024-07-22T05:13:08+00:00
+
+ ## Applied Bioinformatics Core
+ - [https://abc.med.cornell.edu](https://abc.med.cornell.edu)
+ - date_published: 2024-02-05T23:30:09+00:00
+
+ ## Welcome | Academic Integration
+ - [https://academicintegration.cornell.edu](https://academicintegration.cornell.edu)
+ - date_published: 2024-04-30T03:59:40.500162+00:00
+
+ ## Welcome to the Cornell Academic Materials Program | Cornell U.
+ - [https://academicmaterials.cornell.edu](https://academicmaterials.cornell.edu)
+ - date_published: 2024-02-08T18:00:56.538608+00:00
+
+ ## Accessibility Information
+ - [https://accessibility.cornell.edu](https://accessibility.cornell.edu)
+ - date_published: 2024-07-22T05:21:03+00:00
+
+ ## Admissions | Undergraduate Admissions
+ - [https://admissions.cornell.edu](https://admissions.cornell.edu)
+ - date_published: 2024-08-05T16:24:12+00:00
+
+ ## John Henrik Clarke Africana Library
+ - [http://africana.library.cornell.edu](http://africana.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:48.009571+00:00
+
+ ## AgCensus
+ - [https://agcensus.library.cornell.edu](https://agcensus.library.cornell.edu)
+ - date_published: 2024-07-08T11:56:49.860827+00:00
+
+ ## Animal Health Diagnostic Center
+ - [https://ahdc.vet.cornell.edu](https://ahdc.vet.cornell.edu)
+ - date_published: 2024-10-18T16:09:32.175230+00:00
+
+ ## AIPP - Home
+ - [https://aipp.cis.cornell.edu](https://aipp.cis.cornell.edu)
+ - date_published: 2021-08-01T00:00:00+00:00
+
+ ## Home - Alumni, parents, and friends | Cornell University
+ - [https://alumni.cornell.edu](https://alumni.cornell.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Alumni and Friends - Alumni and Friends
+ - [https://alumni.library.cornell.edu](https://alumni.library.cornell.edu)
+ - date_published: 2024-07-09T19:57:35+00:00
+
+ ## Alumni | Weill Cornell Medicine
+ - [https://alumni.weill.cornell.edu](https://alumni.weill.cornell.edu)
+ - date_published: 2024-07-22T05:07:53+00:00
+
+ ## Library Annex
+ - [https://annex.library.cornell.edu](https://annex.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:51.739510+00:00
+
+ ## Cornell University Web Login
+ - [https://apps.johnson.cornell.edu](https://apps.johnson.cornell.edu)
+ - date_published: 2024-09-09T22:00:05.668955+00:00
+
+ ## The College of Arts & Sciences, Cornell University
+ - [https://as.cornell.edu](https://as.cornell.edu)
+ - date_published: 2024-07-01T04:38:55+00:00
+
+ ## Kroch Library Asia Collections
+ - [https://asia.library.cornell.edu](https://asia.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:30.938265+00:00
+
+ ## Home Page | CU Assemblies
+ - [https://assembly.cornell.edu](https://assembly.cornell.edu)
+ - date_published: 2024-07-22T03:37:18+00:00
+
+ ## Welcome | Office of the Chief Risk Officer
+ - [https://auditriskcompliance.cornell.edu](https://auditriskcompliance.cornell.edu)
+ - date_published: 2024-07-02T02:03:34+00:00
+
+ ## Bronfenbrenner Center for Translational Research
+ - [https://bctr.cornell.edu](https://bctr.cornell.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Cornell Lab of Ornithology—Home
+ - [https://birds.cornell.edu](https://birds.cornell.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## LII News – Legal Information Institute
+ - [http://blog.law.cornell.edu](http://blog.law.cornell.edu)
+ - date_published: 2024-08-08T17:35:11.798451+00:00
+
+ ## Cornell Mushroom Blog
+ - [https://blog.mycology.cornell.edu](https://blog.mycology.cornell.edu)
+ - date_published: 2024-06-30T05:14:05.485944+00:00
+
+ ## CU Blog Service – Cornell University Blog Service
+ - [https://blogs.cornell.edu](https://blogs.cornell.edu)
+ - date_published: 2024-04-30T03:57:52.165255+00:00
+
+ ## See You at BOOM 2025 | Cornell Computing and Information Science
+ - [https://boom.cornell.edu](https://boom.cornell.edu)
+ - date_published: 2024-04-30T04:00:38.324637+00:00
+
+ ## ILR School Messaging and Branding Guidelines | ILR Brand Book
+ - [https://brand.ilr.cornell.edu](https://brand.ilr.cornell.edu)
+ - date_published: 2024-07-22T05:30:42.214470+00:00
+
+ ## SC Johnson College of Business | Cornell University
+ - [https://business.cornell.edu](https://business.cornell.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## Cornell Custom Silicon Systems
  - [https://c2s2.engineering.cornell.edu](https://c2s2.engineering.cornell.edu)
  - date_published: 2023-07-27T00:00:00+00:00
@@ -3247,755 +4002,4 @@
  ## Bolch Judicial Institute of Duke Law School
  - [https://storefront.law.duke.edu](https://storefront.law.duke.edu)
  - date_published: 2024-09-15T15:02:04.459162+00:00
-
- ## Front Page - Duke Stories
- - [https://stories.duke.edu](https://stories.duke.edu)
- - date_published: 2024-05-10T04:48:51.839796+00:00
-
- ## A strategic framework for the future of Duke - Strategic Vision
- - [https://strategicvision.duke.edu](https://strategicvision.duke.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Front Page | String School
- - [https://stringschool.duke.edu](https://stringschool.duke.edu)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Home - Duke Student Affairs
- - [https://studentaffairs.duke.edu](https://studentaffairs.duke.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Home - Duke Student Affairs
- - [https://students.duke.edu](https://students.duke.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## This is Duke - Brand Guide
- - [http://styleguide.duke.edu](http://styleguide.duke.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Front Page | Summer Session
- - [https://summersession.duke.edu](https://summersession.duke.edu)
- - date_published: 2024-07-21T08:19:53+00:00
-
- ## Welcome to Sustainable Duke | Office of Sustainable Duke
- - [https://sustainability.duke.edu](https://sustainability.duke.edu)
- - date_published: 2024-09-26T17:52:31+00:00
-
- ## Front Page | Theater Studies
- - [https://theaterstudies.duke.edu](https://theaterstudies.duke.edu)
- - date_published: 2024-06-15T19:33:05+00:00
-
- ## Duke University Box Office
- - [https://tickets.duke.edu](https://tickets.duke.edu)
- - date_published: 2024-09-04T19:41:41.912364+00:00
-
- ## Duke Today | Duke Today
- - [https://today.duke.edu](https://today.duke.edu)
- - date_published: 2023-10-25T18:51:07.229842+00:00
-
- ## Front Page | Transformative Ideas
- - [https://transformativeideas.duke.edu](https://transformativeideas.duke.edu)
- - date_published: 2024-07-21T19:42:03+00:00
-
- ## Homepage | Global Travel Support
- - [https://travel.duke.edu](https://travel.duke.edu)
- - date_published: 2024-06-16T07:00:04+00:00
-
- ## Trent Center for Bioethics, Humanities & History of Medicine
- - [https://trentcenter.duke.edu](https://trentcenter.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Front Page | Trinity College of Arts & Sciences
- - [https://trinity.duke.edu](https://trinity.duke.edu)
- - date_published: 2024-04-30T04:13:05.802775+00:00
-
- ## Homepage | Board of Trustees
- - [https://trustees.duke.edu](https://trustees.duke.edu)
- - date_published: 2024-09-26T17:33:24+00:00
-
- ## Duke University Center of Exemplary Mentoring – Funded by the Alfred P. Sloan Foundation
- - [https://ucem.duke.edu](https://ucem.duke.edu)
- - date_published: 2024-09-26T18:04:57.198792+00:00
-
- ## Home Page | Office of  Undergraduate Education
- - [https://undergrad.duke.edu](https://undergrad.duke.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Front Page | Undergraduate Research Support Office
- - [https://undergraduateresearch.duke.edu](https://undergraduateresearch.duke.edu)
- - date_published: 2024-06-15T08:22:23+00:00
-
- ## Duke | Log In
- - [https://unlock.duke.edu](https://unlock.duke.edu)
- - date_published: 2024-06-16T14:05:13.508819+00:00
-
- ## Front Page | Department of Computer Science
- - [https://users.cs.duke.edu](https://users.cs.duke.edu)
- - date_published: 2024-05-22T02:38:09.761464+00:00
-
- ## Values & Culture - Values
- - [https://values.duke.edu](https://values.duke.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Iron Dukes Varsity Club
- - [https://vcgivingday.duke.edu](https://vcgivingday.duke.edu)
- - date_published: 2024-09-04T19:39:19.745266+00:00
-
- ## Via - Network Performance
- - [https://via.oit.duke.edu](https://via.oit.duke.edu)
- - date_published: 2024-06-16T14:05:10.996586+00:00
-
- ## Welcome to Duke Votes - Voting Information for the Duke Community
- - [https://vote.duke.edu](https://vote.duke.edu)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Homepage | Web Accessibility
- - [https://web.accessibility.duke.edu](https://web.accessibility.duke.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Duke University School of Law
- - [https://web.law.duke.edu](https://web.law.duke.edu)
- - date_published: 2023-10-25T11:22:18.328920+00:00
-
- ## Duke | Log In
- - [https://work.oit.duke.edu](https://work.oit.duke.edu)
- - date_published: 2024-08-06T17:45:47.899912+00:00
-
- ## Shibboleth Authentication Request
- - [https://www-chronicle-com.proxy.lib.duke.edu](https://www-chronicle-com.proxy.lib.duke.edu)
- - date_published: 2024-09-26T17:57:13.034735+00:00
-
- ## Duke Clinical and Translational Science Institute
- - [https://www.ctsi.duke.edu](https://www.ctsi.duke.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Duke Online
- - [https://www.dukeonline.duke.edu](https://www.dukeonline.duke.edu)
- - date_published: 2024-06-28T14:41:20+00:00
-
- ## Duke University Stores |
- - [https://www.dukestores.duke.edu](https://www.dukestores.duke.edu)
- - date_published: 2024-09-04T19:37:49.838343+00:00
-
- ## FuquaWorld
- - [https://www.fuquaworld.duke.edu](https://www.fuquaworld.duke.edu)
- - date_published: 2024-09-26T18:02:04.355581+00:00
-
- ## Home
- - [https://dukeupress.edu](https://dukeupress.edu)
- - date_published: 2024-04-30T04:14:03.894284+00:00
-
- ## Duke University Press
- - [https://read.dukeupress.edu](https://read.dukeupress.edu)
- - date_published: 2023-10-25T18:51:09.503912+00:00
-
- ## Duquesne Scholarship Collection | Duquesne University Research
- - [https://dsc.duq.edu](https://dsc.duq.edu)
- - date_published: 2024-07-02T10:47:54.754480+00:00
-
- ## Duquesne University
- - [http://www.duq.edu](http://www.duq.edu)
- - date_published: 2024-06-28T14:20:35.839817+00:00
-
- - [https://legacy.earlham.edu](https://legacy.earlham.edu)
- - date_published: 2023-07-17T14:10:29+00:00
-
- ## Earlham College
- - [http://www.earlham.edu](http://www.earlham.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Online Cyber Security Programs | EC-Council University
- - [https://eccu.edu](https://eccu.edu)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Institute of Institute of Ecotechnics
- - [https://ecotechnics.edu](https://ecotechnics.edu)
- - date_published: 2024-10-16T01:46:05.893361+00:00
-
- ## ECPI University - Accredited | Offering Online & On-Campus Degrees
- - [https://www.ecpi.edu](https://www.ecpi.edu)
- - date_published: 2024-10-18T04:57:48.099133+00:00
-
- ## Home
- - [https://www.ecsu.edu](https://www.ecsu.edu)
- - date_published: 2024-07-02T04:32:36.686022+00:00
-
- ## About Alternative Break Experiences - Alternative Break Experiences
- - [https://abe.ecu.edu](https://abe.ecu.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Accessibility - Accessibility
- - [https://accessibility.ecu.edu](https://accessibility.ecu.edu)
- - date_published: 2024-06-16T08:33:53.452028+00:00
-
- ## Undergraduate Admissions - Undergraduate Admissions
- - [https://admissions.ecu.edu](https://admissions.ecu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Admitted Student Guide - Admitted Student Guide
- - [https://admittedstudents.ecu.edu](https://admittedstudents.ecu.edu)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Loading...
- - [https://bustime.ecu.edu](https://bustime.ecu.edu)
- - date_published: 2023-08-28T15:29:05+00:00
-
- ## Events Calendar
- - [https://calendar.ecu.edu](https://calendar.ecu.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Canvas at ECU - Canvas
- - [https://canvas.ecu.edu](https://canvas.ecu.edu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Career Services - Career Services
- - [https://career.ecu.edu](https://career.ecu.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## East Carolina University - Acalog ACMS™
- - [https://catalog.ecu.edu](https://catalog.ecu.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Center for Leadership & Civic Engagement - Center for Leadership & Civic Engagement
- - [https://clce.ecu.edu](https://clce.ecu.edu)
- - date_published: 2024-09-27T21:50:25.990305+00:00
-
- ## PiratePanel Redirect | Information Technology and Computing Services | ECU
- - [https://core.ecu.edu](https://core.ecu.edu)
- - date_published: 2024-05-09T04:41:09.357121+00:00
-
- ## Home - Central Reservations Office
- - [https://cro.ecu.edu](https://cro.ecu.edu)
- - date_published: 2024-09-27T21:50:41.606696+00:00
-
- ## ECU Digital Collections
- - [https://digital.lib.ecu.edu](https://digital.lib.ecu.edu)
- - date_published: 2024-10-29T18:33:20.021573+00:00
-
- ## Home - ECU Dining Services
- - [https://dining.ecu.edu](https://dining.ecu.edu)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## In This Issue | East Magazine | ECU
- - [https://east.ecu.edu](https://east.ecu.edu)
- - date_published: 2024-09-27T21:49:40.590114+00:00
-
- ## Home - East Carolina University
- - [https://ecu.edu](https://ecu.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home | ECU Physicians – A Proud Part of ECU Health | ECU
- - [https://ecuphysicians.ecu.edu](https://ecuphysicians.ecu.edu)
- - date_published: 2024-09-27T21:39:35.978997+00:00
-
- ## Home - College of Education
- - [https://education.ecu.edu](https://education.ecu.edu)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## ERROR: HTTP 403
- - [https://epay-banner.ecu.edu](https://epay-banner.ecu.edu)
- - date_published: 2012-06-27T14:07:44+00:00
-
- ## East Carolina University BY THE NUMBERS | facts.ecu.edu | ECU
- - [https://facts.ecu.edu](https://facts.ecu.edu)
- - date_published: 2024-06-16T08:34:04.915827+00:00
-
- ## Faculty180 - Faculty180
- - [https://faculty180.ecu.edu](https://faculty180.ecu.edu)
- - date_published: 2024-09-27T21:48:29.261984+00:00
-
- ## ECU Faculty Senate | Faculty Senate | ECU
- - [https://facultysenate.ecu.edu](https://facultysenate.ecu.edu)
- - date_published: 2024-06-16T08:33:50.900253+00:00
-
- ## Family Weekend - Family Weekend
- - [https://familyweekend.ecu.edu](https://familyweekend.ecu.edu)
- - date_published: 2024-09-27T21:50:21.938198+00:00
-
- ## ECU First Day - ECU First Day
- - [https://first-day.ecu.edu](https://first-day.ecu.edu)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## ECU Impact - First Destination
- - [https://firstdestination.ecu.edu](https://firstdestination.ecu.edu)
- - date_published: 2024-09-27T21:40:59.021528+00:00
-
- ## Home - Office of Global Affairs
- - [https://global-affairs.ecu.edu](https://global-affairs.ecu.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Graduate School - Graduate School
- - [https://gradschool.ecu.edu](https://gradschool.ecu.edu)
- - date_published: 2024-09-27T21:40:53.625558+00:00
-
- ## Campus Living - Housing
- - [https://housing.ecu.edu](https://housing.ecu.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Human Resources - Human Resources
- - [https://humanresources.ecu.edu](https://humanresources.ecu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## - Information
- - [https://info.ecu.edu](https://info.ecu.edu)
- - date_published: 2024-06-16T08:33:46.029490+00:00
-
- ## East Carolina University
- - [https://internationalapply.ecu.edu](https://internationalapply.ecu.edu)
- - date_published: 1990-01-01T00:00:00+00:00
-
- ## ECU Libraries - Sign In
- - [https://intranet.lib.ecu.edu](https://intranet.lib.ecu.edu)
- - date_published: 2024-08-07T16:52:53.677739+00:00
-
- ## Institutional Planning, Assessment & Research - IPAR
- - [https://ipar.ecu.edu](https://ipar.ecu.edu)
- - date_published: 2024-06-16T08:34:21.145494+00:00
-
- ## ITCS | Information Technology and Computing Services | ECU
- - [https://itcs.ecu.edu](https://itcs.ecu.edu)
- - date_published: 2024-07-09T10:34:55.644066+00:00
-
- ## Home
- - [https://ithelp.ecu.edu](https://ithelp.ecu.edu)
- - date_published: 2024-06-16T08:34:07.505197+00:00
-
- ## East Carolina University Portal | Home
- - [https://jobs.ecu.edu](https://jobs.ecu.edu)
- - date_published: 2024-06-16T08:34:38+00:00
-
- ## Home Page - Dr. Jesse R. Peel LGBTQ Center
- - [https://lgbtq.ecu.edu](https://lgbtq.ecu.edu)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Libraries - Information
- - [http://lib.ecu.edu](http://lib.ecu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## LWCC - LWCC
- - [https://lwcc.ecu.edu](https://lwcc.ecu.edu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## ECU Campus Map
- - [https://maps.ecu.edu](https://maps.ecu.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Home | Brody School of Medicine | ECU
- - [https://medicine.ecu.edu](https://medicine.ecu.edu)
- - date_published: 2024-06-16T08:33:57.656161+00:00
-
- ## Home - Military & Veterans Resource Center
- - [https://mvrc.ecu.edu](https://mvrc.ecu.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## ECU News Services
- - [https://news.ecu.edu](https://news.ecu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Office for Faculty Excellence - Office for Faculty Excellence
- - [https://ofe.ecu.edu](https://ofe.ecu.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Off Campus Student Services at ECU - Off-Campus Student Services
- - [https://offcampus.ecu.edu](https://offcampus.ecu.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Office of University Ombuds | Office of University Ombuds | ECU
- - [https://ombuds.ecu.edu](https://ombuds.ecu.edu)
- - date_published: 2024-09-27T21:39:20.209704+00:00
-
- ## ECU Online - Online Bachelor's - Masters - Doctoral Degrees
- - [https://online.ecu.edu](https://online.ecu.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## ECU Orientation - Orientation
- - [https://orientation.ecu.edu](https://orientation.ecu.edu)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Home - Parents
- - [https://parents.ecu.edu](https://parents.ecu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Welcome | Parking & Transportation | ECU
- - [https://parking.ecu.edu](https://parking.ecu.edu)
- - date_published: 2024-09-27T21:46:33.355292+00:00
-
- ## ECU Passport Services - Passport Facility
- - [https://passports.ecu.edu](https://passports.ecu.edu)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## PiratePanel Redirect | Information Technology and Computing Services | ECU
- - [https://piratepanel.ecu.edu](https://piratepanel.ecu.edu)
- - date_published: 2024-07-09T10:34:59.233447+00:00
-
- ## ECU PiratePort
- - [https://pirateport.ecu.edu](https://pirateport.ecu.edu)
- - date_published: 2024-06-16T08:34:18.936135+00:00
-
- ## Home | Police | ECU
- - [https://police.ecu.edu](https://police.ecu.edu)
- - date_published: 2024-09-27T21:50:03.148678+00:00
-
- ## Policies, Rules and Regulations | East Carolina University
- - [https://policydev.ecu.edu](https://policydev.ecu.edu)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Policies, Rules and Regulations | East Carolina University
- - [https://policy.ecu.edu](https://policy.ecu.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Home | Department of Public Health | ECU
- - [https://public-health.ecu.edu](https://public-health.ecu.edu)
- - date_published: 2024-09-27T21:39:37.488057+00:00
-
- ## Home | Research | ECU
- - [https://rede.ecu.edu](https://rede.ecu.edu)
- - date_published: 2024-09-27T21:49:50.697200+00:00
-
- ## About Us - Office of the Registrar
- - [https://registrar.ecu.edu](https://registrar.ecu.edu)
- - date_published: 2024-09-27T21:39:05.562405+00:00
-
- ## Home - Residence Hall Association
- - [https://rha.ecu.edu](https://rha.ecu.edu)
- - date_published: 2024-09-27T21:38:44.957180+00:00
-
- ## sites.ecu.edu
- - [https://sites.ecu.edu](https://sites.ecu.edu)
- - date_published: 2024-09-27T21:49:48.867797+00:00
-
- ## Social Media | Social Media | ECU
- - [https://socialmedia.ecu.edu](https://socialmedia.ecu.edu)
- - date_published: 2024-09-27T21:49:42.506916+00:00
-
- ## Future focused. Innovation driven. - Strategic Plan
- - [https://strategicplan.ecu.edu](https://strategicplan.ecu.edu)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Home - Student Affairs
- - [https://studentaffairs.ecu.edu](https://studentaffairs.ecu.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home - Student Transitions
- - [https://studenttransitions.ecu.edu](https://studenttransitions.ecu.edu)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Thomas Harriot College of Arts and Sciences - Thomas Harriot College of Arts and Sciences
- - [https://thcas.ecu.edu](https://thcas.ecu.edu)
- - date_published: 2024-09-27T21:49:44.406561+00:00
-
- ## East Carolina University
- - [https://thepirateexperience.ecu.edu](https://thepirateexperience.ecu.edu)
- - date_published: 2024-06-16T08:33:43.236800+00:00
-
- ## The ScholarShip at ECU
- - [https://thescholarship.ecu.edu](https://thescholarship.ecu.edu)
- - date_published: 2024-04-28T03:37:49.924498+00:00
-
- ## Your one-stop shop for ticketed performing arts and other non-athletic events on the East Carolina University campus. *Note that our order charge has been eliminated and replaced with ticket fees to better reflect the way we are billed by our software provider. | Central Ticket Office | ECU
- - [https://tickets.ecu.edu](https://tickets.ecu.edu)
- - date_published: 2024-09-27T21:44:50.848794+00:00
-
- ## Title IX - Title IX
- - [https://titleix.ecu.edu](https://titleix.ecu.edu)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## ECU Transit
- - [https://transit.ecu.edu](https://transit.ecu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Voyages of Discovery - Voyages of Discovery
- - [https://voyages.ecu.edu](https://voyages.ecu.edu)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Health and Well-Being - Health and Well-Being
- - [https://well-being.ecu.edu](https://well-being.ecu.edu)
- - date_published: 2024-09-27T21:50:32.248956+00:00
-
- ## Women & Gender Office - Women and Gender Center
- - [https://wgc.ecu.edu](https://wgc.ecu.edu)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Welcome to WordPress | WordPress | ECU
- - [https://wordpress.ecu.edu](https://wordpress.ecu.edu)
- - date_published: 2024-09-27T21:44:48.656161+00:00
-
- ## Careers | Careers at ECU | ECU
- - [https://working-at.ecu.edu](https://working-at.ecu.edu)
- - date_published: 2024-09-27T21:49:59.577064+00:00
-
- ## Information - Sarbacane
- - [https://mail.edhec.edu](https://mail.edhec.edu)
- - date_published: 2024-10-18T19:03:32.861848+00:00
-
- ## Home | PennWest Edinboro
- - [http://www.edinboro.edu](http://www.edinboro.edu)
- - date_published: 2024-06-28T14:07:10.084580+00:00
-
- ## Home - EDUCAUSE Connect
- - [https://connect.educause.edu](https://connect.educause.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## EDUCAUSE Library
- - [https://library.educause.edu](https://library.educause.edu)
- - date_published: 2024-10-15T01:27:57.924119+00:00
-
- ## EDUCAUSE Homepage
- - [http://www.educause.edu](http://www.educause.edu)
- - date_published: 2024-07-02T04:55:05.145895+00:00
-
- ## EF Education First | Educational Tours & Language Programs Abroad
- - [https://www.ef.edu](https://www.ef.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EHL Hospitality Business & Hotel Management School Switzerland
- - [https://www.ehl.edu](https://www.ehl.edu)
- - date_published: 2024-07-16T22:14:22+00:00
-
- ## Emerson College Iwasaki Library redirect
- - [http://library.emerson.edu](http://library.emerson.edu)
- - date_published: 2022-03-29T18:29:13+00:00
-
- ## Marlboro College Archives – at Emerson College
- - [https://marlboro.emerson.edu](https://marlboro.emerson.edu)
- - date_published: 2024-06-26T09:04:53.357147+00:00
-
- ## Eastern Michigan University
- - [https://www.emich.edu](https://www.emich.edu)
- - date_published: 2024-05-01T06:25:27.365332+00:00
-
- ## Home
- - [http://www.emmanuel.edu](http://www.emmanuel.edu)
- - date_published: 2024-10-19T04:33:12.686775+00:00
-
- ## Welcome to the Carlos Museum | Emory | Michael C. Carlos Museum
- - [https://carlos.emory.edu](https://carlos.emory.edu)
- - date_published: 2024-06-23T23:50:47+00:00
-
- ## Center for the Study of Law and Religion | Emory University School of Law | Atlanta, GA
- - [http://cslr.law.emory.edu](http://cslr.law.emory.edu)
- - date_published: 2024-06-26T21:02:46+00:00
-
- ## The Center for the Study of Human Health
- - [http://humanhealth.emory.edu](http://humanhealth.emory.edu)
- - date_published: 2024-10-18T15:34:58.131989+00:00
-
- ## Welcome to Emory Law | Emory University School of Law | Atlanta, GA
- - [https://law.emory.edu](https://law.emory.edu)
- - date_published: 2024-06-28T20:28:59+00:00
-
- ## Hugh F. MacMillan Law Library | Emory University School of Law | Atlanta, GA
- - [http://library.law.emory.edu](http://library.law.emory.edu)
- - date_published: 2024-07-21T02:50:12+00:00
-
- ## News | Emory University | Atlanta GA
- - [https://news.emory.edu](https://news.emory.edu)
- - date_published: 2024-06-24T10:53:23.957251+00:00
-
- ## Log in | Django site admin
- - [http://pid.emory.edu](http://pid.emory.edu)
- - date_published: 2024-07-13T03:18:33.813532+00:00
-
- ## Home | Emory University | Atlanta GA
- - [http://www.emory.edu](http://www.emory.edu)
- - date_published: 2024-07-12T14:53:19+00:00
-
- ## Department of Rehabilitation Medicine | Emory School of Medicine
- - [http://www.rehabmed.emory.edu](http://www.rehabmed.emory.edu)
- - date_published: 2024-05-22T18:08:57+00:00
-
- ## Home - Eastern Nazarene College
- - [https://enc.edu](https://enc.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Calendar Homepage
- - [https://calendar.ensign.edu](https://calendar.ensign.edu)
- - date_published: 2024-07-17T03:24:32.317225+00:00
-
- ## Explore your options at Ensign College.
- - [https://ensign.edu](https://ensign.edu)
- - date_published: 2024-05-12T07:42:40.315652+00:00
-
- ## Library Homepage
- - [https://library.ensign.edu](https://library.ensign.edu)
- - date_published: 2024-07-17T03:24:53.450743+00:00
-
- ## Sign in to your account
- - [https://lynda.ensign.edu](https://lynda.ensign.edu)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## ces-ensign - Sign In
- - [https://password.ensign.edu](https://password.ensign.edu)
- - date_published: 2024-07-17T03:24:38.380449+00:00
-
- ## Welcome to Ensign International
- - [https://sunapsis.ensign.edu](https://sunapsis.ensign.edu)
- - date_published: 2024-07-17T03:24:23+00:00
-
- ## IIS Windows Server
- - [https://webprint.ensign.edu](https://webprint.ensign.edu)
- - date_published: 2018-06-18T18:45:30+00:00
-
- ## Eastern Oregon University Homepage
- - [https://www.eou.edu](https://www.eou.edu)
- - date_published: 2024-07-14T13:54:26.959349+00:00
-
- ## Alumni | Embry-Riddle Aeronautical University
- - [https://alumni.erau.edu](https://alumni.erau.edu)
- - date_published: 2024-07-13T17:47:55.183073+00:00
-
- ## Asia | Embry-Riddle Aeronautical University
- - [https://asia.erau.edu](https://asia.erau.edu)
- - date_published: 2024-07-13T17:48:29.899327+00:00
-
- ## Careers | Embry-Riddle Aeronautical University
- - [https://careers.erau.edu](https://careers.erau.edu)
- - date_published: 2024-07-13T17:48:25.645092+00:00
-
- ## Career Services | Embry-Riddle Aeronautical University
- - [https://careerservices.erau.edu](https://careerservices.erau.edu)
- - date_published: 2024-07-13T17:48:03.048701+00:00
-
- ## Embry-Riddle Aeronautical University Catalogs
- - [https://catalog.erau.edu](https://catalog.erau.edu)
- - date_published: 2024-07-03T18:17:17+00:00
-
- ## Scholarly Commons | Embry-Riddle Aeronautical University Research
- - [https://commons.erau.edu](https://commons.erau.edu)
- - date_published: 2024-07-13T17:48:21.316065+00:00
-
- ## test page
- - [https://css.erau.edu](https://css.erau.edu)
- - date_published: 2015-02-19T22:13:42+00:00
-
- ## Daytona Beach | Embry-Riddle Aeronautical University
- - [https://daytonabeach.erau.edu](https://daytonabeach.erau.edu)
- - date_published: 2024-07-13T17:47:58.575693+00:00
-
- ## Hosted Pages -  Embry-Riddle Aeronautical University
- - [https://dbwebcat.erau.edu](https://dbwebcat.erau.edu)
- - date_published: 2024-05-11T08:04:07.793271+00:00
-
- ## Embry-Riddle Aeronautical University
- - [https://erau.edu](https://erau.edu)
- - date_published: 2024-05-11T08:04:12.318412+00:00
-
- ## Europe | Embry-Riddle Aeronautical University
- - [https://europe.erau.edu](https://europe.erau.edu)
- - date_published: 2024-07-13T17:48:09.374350+00:00
-
- ## Faculty | Embry-Riddle Aeronautical University
- - [https://faculty.erau.edu](https://faculty.erau.edu)
- - date_published: 2024-07-13T17:48:27.466494+00:00
-
- ## Giving To Embry-Riddle
- - [https://givingto.erau.edu](https://givingto.erau.edu)
- - date_published: 2024-07-13T17:48:13.348669+00:00
-
- ## Lift Magazine
- - [https://lift.erau.edu](https://lift.erau.edu)
- - date_published: 2024-07-13T17:47:47.774735+00:00
-
- ## News | Embry-Riddle Aeronautical University
- - [http://news.erau.edu](http://news.erau.edu)
- - date_published: 2024-07-13T17:48:17.013752+00:00
-
- ## Hosted Pages -  Embry-Riddle Aeronautical University
- - [http://pages.erau.edu](http://pages.erau.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Prescott | Embry-Riddle Aeronautical University
- - [https://prescott.erau.edu](https://prescott.erau.edu)
- - date_published: 2024-07-09T17:12:03.499450+00:00
-
- ## ProEd | Embry-Riddle Aeronautical University
- - [https://proed.erau.edu](https://proed.erau.edu)
- - date_published: 2024-07-13T17:48:31.333581+00:00
-
- ## Board of Trustees | Embry-Riddle Aeronautical University
- - [https://trustees.erau.edu](https://trustees.erau.edu)
- - date_published: 2024-07-13T17:47:49.797503+00:00
-
- ## Worldwide | Embry-Riddle Aeronautical University
- - [https://worldwide.erau.edu](https://worldwide.erau.edu)
- - date_published: 2024-07-13T17:48:19.237762+00:00
-
- ## Welcome to ESF
- - [https://www.esf.edu](https://www.esf.edu)
- - date_published: 2024-10-25T19:36:23.151312+00:00
-
- ## Esic Campus
- - [https://cvbs.esic.edu](https://cvbs.esic.edu)
- - date_published: 2024-09-12T12:06:16.480498+00:00
-
- ## Esic Campus
- - [https://cv.esic.edu](https://cv.esic.edu)
- - date_published: 2024-09-12T12:07:24.073640+00:00
-
- ## ESIC University - Transformation with Purpose
- - [https://esic.edu](https://esic.edu)
- - date_published: 2024-06-12T11:16:43.454210+00:00
-
- ## ICEMD
- - [https://icemd.esic.edu](https://icemd.esic.edu)
- - date_published: 2024-09-12T12:06:09.711887+00:00
-
- ## Tienda | ESIC Store
- - [https://store.esic.edu](https://store.esic.edu)
- - date_published: 2024-09-12T12:05:43.700108+00:00
-
- ## Testimonial Home Page
- - [http://www.eskenazihealth.edu](http://www.eskenazihealth.edu)
- - date_published: 2024-08-18T17:36:06.842369+00:00
-
- ## ESSEC
- - [https://www.essec.edu](https://www.essec.edu)
- - date_published: 2024-07-02T10:29:08.305730+00:00
-
- ## Elizabethtown College Groups
- - [https://groups.etown.edu](https://groups.etown.edu)
- - date_published: 2024-03-26T00:14:32.167556+00:00
-
- ## JayScholar
- - [https://jayscholar.etown.edu](https://jayscholar.etown.edu)
- - date_published: 2024-07-02T10:48:00.868243+00:00
-
- ## East Tennessee State University
- - [https://etsu.edu](https://etsu.edu)
- - date_published: 2024-10-18T15:27:30.264419+00:00
-
- ## Libraries: Home: Sherrod Library
- - [https://libraries.etsu.edu](https://libraries.etsu.edu)
- - date_published: 2024-10-18T15:27:07.965790+00:00
-
- ## University of Evansville Faculty Web sites
- - [https://faculty.evansville.edu](https://faculty.evansville.edu)
- - date_published: 2019-12-04T18:36:19+00:00
-
- ## University of Evansville
- - [https://www.evansville.edu](https://www.evansville.edu)
- - date_published: 2024-07-01T17:42:38.992766+00:00
-
- ## EvergreenStateCollege-Home
- - [https://archives.evergreen.edu](https://archives.evergreen.edu)
- - date_published: 2024-09-19T14:39:19.835674+00:00
-
- ## Homepage
- - [https://www.excelsior.edu](https://www.excelsior.edu)
- - date_published: 2024-10-18T04:57:26.320398+00:00
-
- ## Phillips Exeter Academy
- - [https://exeter.edu](https://exeter.edu)
- - date_published: 2024-05-09T05:21:01.438647+00:00
-
- ## Exploratorium Online Archives
- - [https://annex.exploratorium.edu](https://annex.exploratorium.edu)
- - date_published: 2024-04-05T19:54:45+00:00
-
- ## Experience the Exploratorium at Pier 15 | Exploratorium
- - [https://exploratorium.edu](https://exploratorium.edu)
- - date_published: 2024-04-30T15:48:05.838419+00:00
-
- ## IIS Windows Server
- - [https://transact.exploratorium.edu](https://transact.exploratorium.edu)
- - date_published: 2023-11-22T18:44:12+00:00
 

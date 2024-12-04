@@ -1,3 +1,19 @@
+ ## QoQo - your user experience AI companion
+ - [https://qoqo.ai](https://qoqo.ai)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## QORTEX | Video Intelligence for Ads, Monetization, Analytics
+ - [https://www.qortex.ai](https://www.qortex.ai)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## QR code generator - QRCode AI
+ - [https://qrcode.ai](https://qrcode.ai)
+ - date_published: 2024-06-19T20:06:39.737756+00:00
+
+ ## 큐샵 Qshop
+ - [https://qshop.ai](https://qshop.ai)
+ - date_published: 2024-06-25T20:32:58.050581+00:00
+
  ## Quadrature
  - [https://quadrature.ai](https://quadrature.ai)
  - date_published: 2024-07-02T16:05:07+00:00
@@ -969,7 +985,7 @@
  ## AI for Research | Scite
  - [https://scite.ai](https://scite.ai)
  - date_published: 2024-06-19T19:35:43.574313+00:00
- - tags: ['artificial intelligence bot']
+ - tags: ['artificial intelligence', 'artificial intelligence bot']
 
  ## Buy and Sell Domain Names | Dan.com
  - [http://scotty.ai](http://scotty.ai)
@@ -2111,6 +2127,11 @@
  ## Curb API spend. Before you get an invoice.
  - [https://supergood.ai](https://supergood.ai)
  - date_published: 2024-08-08T12:13:49.951861+00:00
+
+ ## Superhuman AI
+ - [https://superhuman.ai](https://superhuman.ai)
+ - date_published: 2024-12-03T22:13:23+00:00
+ - tags: ['newsletter', 'artificial intelligence']
 
  ## Superhuman AI
  - [https://www.superhuman.ai](https://www.superhuman.ai)
@@ -3647,6 +3668,10 @@ Creative Solutions
  - [https://www.voc.ai](https://www.voc.ai)
  - date_published: 2024-06-19T21:35:59.180840+00:00
 
+ ## Vocera | AI Voice Agent Testing
+ - [https://www.vocera.ai](https://www.vocera.ai)
+ - date_published: 2024-12-03T17:41:55.448169+00:00
+
  ## Vogent
  - [https://www.vogent.ai](https://www.vogent.ai)
  - date_published: 2024-10-16T04:09:03+00:00
@@ -3730,6 +3755,10 @@ Creative Solutions
  ## WaifuChat
  - [https://waifuchat.ai](https://waifuchat.ai)
  - date_published: 2024-06-19T19:23:40.731098+00:00
+
+ ## The AI inference platform for any model, any hardware, anywhere | Wallaroo.AI
+ - [https://wallaroo.ai](https://wallaroo.ai)
+ - date_published: 2024-12-03T21:15:03.078306+00:00
 
  ## wallet.AI
  - [https://wallet.ai](https://wallet.ai)
@@ -3990,32 +4019,4 @@ Creative Solutions
  ## WEVO | Effortless UX Research for Teams
  - [https://wevo.ai](https://wevo.ai)
  - date_published: 2024-10-30T07:04:42.190777+00:00
-
- ## What-the-Diff – AI-powered code review assistant
- - [http://app.whatthediff.ai](http://app.whatthediff.ai)
- - date_published: 2024-10-30T11:28:29.259848+00:00
-
- ## What-the-Diff – AI-powered code review assistant
- - [https://whatthediff.ai](https://whatthediff.ai)
- - date_published: 2024-02-15T09:42:49+00:00
-
- ## WhyHow.AI
- - [https://www.whyhow.ai](https://www.whyhow.ai)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Introduction | WhyLabs Documentation
- - [https://docs.whylabs.ai](https://docs.whylabs.ai)
- - date_published: 2024-07-13T14:17:59.669249+00:00
-
- ## Join R2AI by WhyLabs on Slack
- - [http://join.slack.whylabs.ai](http://join.slack.whylabs.ai)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Wild Moose
- - [https://wildmoose.ai](https://wildmoose.ai)
- - date_published: 2023-10-25T11:45:06.456495+00:00
-
- ## Business & Financial Intelligence About China & Global Supply Chains
- - [https://www.wirescreen.ai](https://www.wirescreen.ai)
- - date_published: 2024-07-12T00:00:00+00:00
 
