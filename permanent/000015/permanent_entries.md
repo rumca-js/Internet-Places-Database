@@ -1,3 +1,51 @@
+ ## A Fan of Many Things
+ - [https://magess.blog](https://magess.blog)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Marked Up
+ - [https://markedup.blog](https://markedup.blog)
+ - date_published: 2024-07-03T22:23:27.672869+00:00
+
+ ## andrewkdinh
+ - [https://andrewkdinh.mataroa.blog](https://andrewkdinh.mataroa.blog)
+ - date_published: 2024-07-02T20:13:39.128167+00:00
+
+ ## ash
+ - [https://ash.mataroa.blog](https://ash.mataroa.blog)
+ - date_published: 2022-12-20T00:00:00+00:00
+
+ ## C.H. Atpin
+ - [https://chatpin.mataroa.blog](https://chatpin.mataroa.blog)
+ - date_published: 2022-01-28T00:00:00+00:00
+
+ ## Mataroa Collection
+ - [https://collection.mataroa.blog](https://collection.mataroa.blog)
+ - date_published: 2024-09-05T16:01:40.136212+00:00
+
+ ## Randal, plain and simple
+ - [https://dy.mataroa.blog](https://dy.mataroa.blog)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Blog of Mataroa.blog
+ - [https://hey.mataroa.blog](https://hey.mataroa.blog)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## johnpublic
+ - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
+ - date_published: 2023-10-25T12:00:42.570358+00:00
+
+ ## Ludicity
+ - [https://ludic.mataroa.blog](https://ludic.mataroa.blog)
+ - date_published: 2023-10-25T12:00:43.846678+00:00
+
+ ## Mataroa — Blogging platform for minimalists
+ - [https://mataroa.blog](https://mataroa.blog)
+ - date_published: 2024-04-30T06:58:27.742458+00:00
+
+ ## nutcroft
+ - [https://nutcroft.mataroa.blog](https://nutcroft.mataroa.blog)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Pile of Text
  - [https://pileoftext.mataroa.blog](https://pileoftext.mataroa.blog)
  - date_published: 2024-05-25T00:00:00+00:00
@@ -1129,6 +1177,10 @@
  ## BlueSCSI - A hardware SCSI HDD & CD-ROM emulator
  - [https://scsi.blue](https://scsi.blue)
  - date_published: 2024-05-08T08:58:04.469629+00:00
+
+ ## Blue Dot Sessions | Podcast Intro and Background Music | Music For Podcasts
+ - [https://www.sessions.blue](https://www.sessions.blue)
+ - date_published: 2023-07-11T22:27:05+00:00
 
  ## Matt Steele
  - [https://steele.blue](https://steele.blue)
@@ -3994,56 +4046,4 @@ Educação
  ## Grafika Google
  - [https://images.google.com.br](https://images.google.com.br)
  - date_published: 2024-07-20T07:38:45.468430+00:00
-
- ## Google Scholar
- - [https://scholar.google.com.br](https://scholar.google.com.br)
- - date_published: 2024-07-10T03:50:52.556232+00:00
-
- ## Certificadas Great Place to Work (Brasil)
- - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
- - date_published: 2024-07-30T20:31:29+00:00
-
- ## Home - GPTW
- - [https://gptw.com.br](https://gptw.com.br)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Certificação GPTW
- - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
- - date_published: 2024-09-10T23:52:34.136531+00:00
-
- ## GPTW - Sistema de Pesquisas
- - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
- - date_published: 2024-09-06T23:34:23+00:00
-
- ## Home - Partners GPTW
- - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Granado | Granado Pharmácias
- - [https://www.granado.com.br](https://www.granado.com.br)
- - date_published: 2024-07-13T02:16:21.420663+00:00
-
- ## Gr@tis - GRATIS.COM.BR
- - [http://www.gratis.com.br](http://www.gratis.com.br)
- - date_published: 2024-06-24T04:03:12.915944+00:00
-
- ## GRAYSEG | Segurança e Tecnologia
- - [http://grayseg.com.br](http://grayseg.com.br)
- - date_published: 2024-10-22T20:48:25.860445+00:00
-
- ## Home - GPTW
- - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Grünenthal do Brasil | Negócios Latinoamérica | Sobre nós |Grünenthal Latinoamérica
- - [http://www.grunenthal.com.br](http://www.grunenthal.com.br)
- - date_published: 2024-10-16T18:49:00.733559+00:00
-
- ## Grupo CCR | 25 anos melhorando vidas com mobilidade
- - [https://www.grupoccr.com.br](https://www.grupoccr.com.br)
- - date_published: 2024-07-11T17:50:37+00:00
-
- ## Grupo Perfil
- - [https://grupoperfilbrasil.com.br](https://grupoperfilbrasil.com.br)
- - date_published: 2022-07-05T18:32:20+00:00
 

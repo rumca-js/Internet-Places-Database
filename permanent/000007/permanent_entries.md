@@ -1,3 +1,31 @@
+ ## Yakk
+ - [https://yakk.app](https://yakk.app)
+ - date_published: 2024-01-23T16:13:48+00:00
+
+ ## Yarnit | Generative AI marketing platform for personalized content creation
+ - [https://www.yarnit.app](https://www.yarnit.app)
+ - date_published: 2024-10-30T07:27:29.617288+00:00
+
+ ## YourDoctor AI
+ - [https://doctor.yourmed.app](https://doctor.yourmed.app)
+ - date_published: 2024-06-19T19:35:48.749447+00:00
+
+ ## Youtube Chatpers | Summaries powered by ChatGPT
+ - [https://youtubechapters.app](https://youtubechapters.app)
+ - date_published: 2024-10-30T11:55:43.327142+00:00
+
+ ## Generate Summaries for YouTube Videos using ChatGPT | Chrome Extension
+ - [https://www.youtubedigest.app](https://www.youtubedigest.app)
+ - date_published: 2024-06-19T19:20:49.285541+00:00
+
+ ## Ytems : Devenez l'Expert-Comptable préféré des BNC
+ - [https://com.ytems.app](https://com.ytems.app)
+ - date_published: 2024-06-22T10:55:25.444605+00:00
+
+ ## Ytems
+ - [https://www.ytems.app](https://www.ytems.app)
+ - date_published: 2024-06-18T21:26:20+00:00
+
  ## YouTube Video Summarizer with ChatGPT - YTSummary
  - [https://ytsummary.app](https://ytsummary.app)
  - date_published: 2024-07-10T11:15:31.452678+00:00
@@ -1662,6 +1690,10 @@
  ## Kreyda | UX/UI design & development
  - [https://www.kreyda.art](https://www.kreyda.art)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Kuliszu Art
+ - [https://www.kuliszu.art](https://www.kuliszu.art)
+ - date_published: 2024-12-04T10:59:53.724062+00:00
 
  ## Laboratoria.art
  - [https://laboratoria.art](https://laboratoria.art)
@@ -3999,36 +4031,4 @@ October 2024 in Singapore
  ## derStandard.at Checkout
  - [https://checkout.derstandard.at](https://checkout.derstandard.at)
  - date_published: 2024-05-28T12:46:11+00:00
-
- ## derStandard.at
- - [https://derstandard.at](https://derstandard.at)
- - date_published: 2024-05-02T13:40:24.633291+00:00
-
- ## NetScaler AAA
- - [https://editorial.derstandard.at](https://editorial.derstandard.at)
- - date_published: 2024-06-07T01:00:01+00:00
-
- ## Jobsuche - DER STANDARD
- - [https://jobs.derstandard.at](https://jobs.derstandard.at)
- - date_published: 2024-10-22T12:20:11.877315+00:00
-
- ## Sales: DER STANDARD Werbung für Online & Print
- - [https://sales.derstandard.at](https://sales.derstandard.at)
- - date_published: 2024-10-22T12:20:10.933896+00:00
-
- ## Home DE
- - [http://www.designaustria.at](http://www.designaustria.at)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Dianetik: Der Leitfaden für den menschlichen Verstand
- - [https://www.dianetics.at](https://www.dianetics.at)
- - date_published: 2024-09-04T18:09:16.453820+00:00
-
- ## DigiKey
- - [https://digikey.at](https://digikey.at)
- - date_published: 2024-05-01T05:04:03.961654+00:00
-
- ## Digital Society
- - [https://digisociety.at](https://digisociety.at)
- - date_published: 2015-05-24T14:01:18+00:00
 

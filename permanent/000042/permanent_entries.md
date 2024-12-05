@@ -1,3 +1,119 @@
+ ## Altitude Authentics
+ - [https://www.altitudeauthentics.com](https://www.altitudeauthentics.com)
+ - date_published: 2024-10-18T17:27:20.768780+00:00
+
+ ## Guidepost Montessori | Exceptional School Programs | Early Education | Preschool | Child Care
+ - [https://www.altitudelearning.com](https://www.altitudelearning.com)
+ - date_published: 2024-07-24T02:33:18.866809+00:00
+
+ ## Home - Altitude Sports
+ - [https://www.altitudesports.com](https://www.altitudesports.com)
+ - date_published: 2024-10-18T17:27:29.097799+00:00
+
+ ## Authenticate server
+ - [https://365.altium.com](https://365.altium.com)
+ - date_published: 2024-09-09T18:15:24+00:00
+
+ ## PCB Design Software & Tools | Altium
+ - [https://altium.com](https://altium.com)
+ - date_published: 2024-05-01T03:19:00.888359+00:00
+
+ ## Authenticate server
+ - [https://auth.altium.com](https://auth.altium.com)
+ - date_published: 2024-05-01T03:19:02.677504+00:00
+
+ ## Altium BugCrunch
+ - [https://bugcrunch.live.altium.com](https://bugcrunch.live.altium.com)
+ - date_published: 2024-05-01T03:19:08.034196+00:00
+
+ ## Open Positions & Careers | Join Altium's Team of PCB System Engineers & Designers
+ - [https://careers.altium.com](https://careers.altium.com)
+ - date_published: 2024-06-13T14:45:07+00:00
+
+ ## PCB Design Software & Tools | Altium
+ - [https://cdn-static.altium.com](https://cdn-static.altium.com)
+ - date_published: 2024-06-13T14:44:45+00:00
+
+ ## PCB Design Courses by Altium
+ - [https://education.altium.com](https://education.altium.com)
+ - date_published: 2024-06-15T11:24:30.592886+00:00
+
+ ## Altium Forum
+ - [https://forum.live.altium.com](https://forum.live.altium.com)
+ - date_published: 2024-05-01T03:19:06.841789+00:00
+
+ ## AltiumLive
+ - [https://live.altium.com](https://live.altium.com)
+ - date_published: 2024-06-15T11:24:49+00:00
+
+ ## Altium Designer Getting Started User Guide & Video Tutorials
+ - [https://my.altium.com](https://my.altium.com)
+ - date_published: 2024-09-15T12:37:15.287400+00:00
+
+ ## OnTrack: The PCB Design Podcast | Altium LLC.
+ - [https://podcast.altium.com](https://podcast.altium.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## User Profile | Altium
+ - [https://profile.altium.com](https://profile.altium.com)
+ - date_published: 2024-04-15T16:21:06+00:00
+
+ ## PCB Design Resources and Information | Altium
+ - [https://resources.altium.com](https://resources.altium.com)
+ - date_published: 2023-10-25T12:39:30.132261+00:00
+
+ ## Altium 365 Status
+ - [https://status.altium.com](https://status.altium.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Purchase Licenses, Services, and Subscriptions Online | Altium
+ - [https://store.altium.com](https://store.altium.com)
+ - date_published: 2024-05-01T03:19:05.781705+00:00
+
+ ## Altium 365 | Cloud Based Solutions for Electronics Development
+ - [https://altium365.com](https://altium365.com)
+ - date_published: 2024-06-13T14:44:47+00:00
+
+ ## Altium 365 | Altium
+ - [https://resources.altium365.com](https://resources.altium365.com)
+ - date_published: 2024-09-15T12:36:55.721141+00:00
+
+ ## alt-J Official Store
+ - [http://altjband.com](http://altjband.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Altlab - Web design and development.
+ - [http://altlab.com](http://altlab.com)
+ - date_published: 2022-06-10T13:40:32+00:00
+
+ ## altMBA
+ - [https://altmba.com](https://altmba.com)
+ - date_published: 2024-05-10T06:27:29.762451+00:00
+
+ ## AltME - Secure Messaging and Instant Applications
+ - [http://www.altme.com](http://www.altme.com)
+ - date_published: 2021-01-19T17:35:38+00:00
+
+ ## Homepage
+ - [https://acs.altmetric.com](https://acs.altmetric.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Homepage
+ - [https://altmetric.com](https://altmetric.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Welcome to Altmetric’s Details Page API documentation! — Altmetric Details Page API 1.0 documentation
+ - [https://api.altmetric.com](https://api.altmetric.com)
+ - date_published: 2024-05-08T03:00:51.151011+00:00
+
+ ## Welcome to Altmetric’s Details Page API documentation! — Altmetric Details Page API 1.0 documentation
+ - [https://details-page-api-docs.altmetric.com](https://details-page-api-docs.altmetric.com)
+ - date_published: 2024-06-20T07:32:44.378171+00:00
+
+ ## Support
+ - [https://help.altmetric.com](https://help.altmetric.com)
+ - date_published: 2024-06-20T07:32:20.579371+00:00
+
  ## Welcome to Altmetric’s Implementation Documentation! — Altmetric Implementation Documentation 1.0 documentation
  - [https://implementation-docs.altmetric.com](https://implementation-docs.altmetric.com)
  - date_published: 2024-06-20T07:32:37.824601+00:00
@@ -130,6 +246,10 @@
  ## Premium European Web Hosting Provider | AltusHost
  - [https://altushost.com](https://altushost.com)
  - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Microsoft – sztuczna inteligencja, chmura, produktywność, obliczenia, gry i aplikacje
+ - [http://altvr.com](http://altvr.com)
+ - date_published: 2024-12-04T19:14:12.751788+00:00
 
  ## alt-webring | The alternative webring system
  - [http://alt-webring.com](http://alt-webring.com)
@@ -591,6 +711,10 @@
  - [https://amanpreetkaur.com](https://amanpreetkaur.com)
  - date_published: 2023-12-14T01:19:10.426629+00:00
  - tags: ['personal']
+
+ ## Aman Sanger
+ - [https://amansanger.com](https://amansanger.com)
+ - date_published: 2024-12-04T20:12:40.824130+00:00
 
  ## Amantes Villas and Suites · Nikiti Halkidiki Greece
  - [https://amantesvillassuites.com](https://amantesvillassuites.com)
@@ -2472,6 +2596,10 @@
  - [https://aminoapps.com](https://aminoapps.com)
  - date_published: 2024-06-18T23:11:49.099492+00:00
 
+ ## Am I Racist?
+ - [https://amiracist.com](https://amiracist.com)
+ - date_published: 2024-12-04T20:18:10.066182+00:00
+
  ## About us – Amiral Gestion
  - [https://www.amiralgestion.com](https://www.amiralgestion.com)
  - date_published: 2024-10-31T05:03:01.136730+00:00
@@ -3925,133 +4053,4 @@
  ## Ancient DNA Origins
  - [https://ancientdnaorigins.com](https://ancientdnaorigins.com)
  - date_published: 2024-05-10T09:09:57.912303+00:00
-
- ## The Official Blog for ADOM (Ancient Domains Of Mystery)
- - [https://www.ancientdomainsofmystery.com](https://www.ancientdomainsofmystery.com)
- - date_published: 2024-10-20T21:45:32+00:00
-
- ## Ancient Faith Blogs
- - [https://blogs.ancientfaith.com](https://blogs.ancientfaith.com)
- - date_published: 2024-10-19T10:46:16.714325+00:00
-
- ## ANCIENT JEW REVIEW
- - [http://www.ancientjewreview.com](http://www.ancientjewreview.com)
- - date_published: 2024-06-28T21:07:44.874270+00:00
-
- ## Welcome to Ancient Origins Magazine | Ancient Origins Magazine
- - [https://ancientoriginsmagazine.com](https://ancientoriginsmagazine.com)
- - date_published: 2024-05-10T09:09:45.987022+00:00
-
- ## Ancient Origins Tours – Ancient Origins Tours
- - [https://ancientoriginstours.com](https://ancientoriginstours.com)
- - date_published: 2024-05-10T09:09:40.583720+00:00
-
- ## Ancient Origins UNLEASHED | Substack
- - [https://www.ancientoriginsunleashed.com](https://www.ancientoriginsunleashed.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Ancient Pages - All About The Ancient World
- - [https://www.ancientpages.com](https://www.ancientpages.com)
- - date_published: 2024-11-25T10:33:42.379134+00:00
-
- ## Home | Ancient Routes
- - [https://ancientroutes.com](https://ancientroutes.com)
- - date_published: 2024-07-13T03:49:38.434356+00:00
-
- ## Ancient World Magazine
- - [https://ancientworldmagazine.com](https://ancientworldmagazine.com)
- - date_published: 2024-09-05T11:27:34+00:00
-
- ## And a Dinosaur
- - [https://andadinosaur.com](https://andadinosaur.com)
- - date_published: 2023-10-30T02:12:03.537127+00:00
-
- ## Ecommerce Software Solutions w/ Vendio
- - [https://www.andale.com](https://www.andale.com)
- - date_published: 2024-09-15T08:55:02.203791+00:00
-
- ## Small Business - The Andalusia Star-News | The Andalusia Star-News
- - [https://smb.andalusiastarnews.com](https://smb.andalusiastarnews.com)
- - date_published: 2024-06-29T01:43:17.205120+00:00
-
- ## &Brands - Marketing & Branding Agency
- - [https://www.andbrands.com](https://www.andbrands.com)
- - date_published: 2024-10-16T19:20:06.282118+00:00
-
- ## Andeers.com
- - [https://andeers.com](https://andeers.com)
- - date_published: 2024-05-07T23:25:26.884929+00:00
-
- ## Adaptive Hiring Lets You Put Every Project on the Front Burner
- - [https://www.andela.com](https://www.andela.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Biopharmaceutical Manufacturing - CDMO - cGMP | Andelyn Biosciences
- - [https://andelynbio.com](https://andelynbio.com)
- - date_published: 2024-07-15T03:41:59.884463+00:00
-
- ## me.andering – Willem van den Ende
- - [http://me.andering.com](http://me.andering.com)
- - date_published: 2024-07-03T06:18:07.406812+00:00
-
- ## Anders - Kokenut ohjelmistokehityksen luottokumppani
- - [https://anders.com](https://anders.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Anders Support
- - [http://support.anders.com](http://support.anders.com)
- - date_published: 2024-09-04T03:40:38.249289+00:00
-
- ## Anders Nilsen
- - [https://www.andersbrekhusnilsen.com](https://www.andersbrekhusnilsen.com)
- - date_published: 2024-07-17T13:09:09.356374+00:00
-
- ## Andersen : Independent Tax, Valuation, Financial Advisory and Consulting Services for Individual and Commercial Clients | Andersen
- - [https://andersen.com](https://andersen.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Andersen Global
- - [https://global.andersen.com](https://global.andersen.com)
- - date_published: 2024-09-04T12:23:02.190479+00:00
-
- ## Andersen w Polsce
- - [https://pl.andersen.com](https://pl.andersen.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## AndersenSilva.com
- - [https://andersensilva.com](https://andersensilva.com)
- - date_published: 2023-12-27T01:10:57.904709+00:00
- - tags: ['personal']
-
- ## the 'Blog... of Death!
- - [https://blog.andersensilva.com](https://blog.andersensilva.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## ShunyaEkam.com
- - [https://andersentobias.com](https://andersentobias.com)
- - date_published: 2023-10-25T12:40:42.895954+00:00
-
- ## Andersen Windows & Doors | LOVE THE LIFE YOU SEE.™
- - [http://andersenwindows.com](http://andersenwindows.com)
- - date_published: 2024-06-20T05:08:17.158208+00:00
-
- ## Anders Indset: Philosopher & Author
- - [https://andersindset.com](https://andersindset.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Anders Loves Maria
- - [https://anderslovesmaria.com](https://anderslovesmaria.com)
- - date_published: 2024-07-23T23:45:50.268756+00:00
-
- ## Anders Monsen
- - [http://andersmonsen.com](http://andersmonsen.com)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## anders murphy
- - [https://andersmurphy.com](https://andersmurphy.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Anderson Dahlen Inc.
- - [https://www.andersondahlen.com](https://www.andersondahlen.com)
- - date_published: 2024-10-19T03:51:01.794036+00:00
 

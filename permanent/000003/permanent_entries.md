@@ -1,3 +1,7 @@
+ ## QoQo Blog - Your UX research AI-companion
+ - [https://blog.qoqo.ai](https://blog.qoqo.ai)
+ - date_published: 2024-10-30T20:57:21.858106+00:00
+
  ## QoQo - your user experience AI companion
  - [https://qoqo.ai](https://qoqo.ai)
  - date_published: 1980-01-01T00:00:00+00:00
@@ -149,6 +153,10 @@
  ## Rainbird
  - [https://academy.rainbird.ai](https://academy.rainbird.ai)
  - date_published: 2024-09-27T10:04:35.020372+00:00
+
+ ## Random Daily Art AI
+ - [https://randomdailyart.ai](https://randomdailyart.ai)
+ - date_published: 2024-12-04T06:03:30.082143+00:00
 
  ## RankNow.ai for ChatGPT
  - [https://ranknow.ai](https://ranknow.ai)
@@ -2133,10 +2141,6 @@
  - date_published: 2024-12-03T22:13:23+00:00
  - tags: ['newsletter', 'artificial intelligence']
 
- ## Superhuman AI
- - [https://www.superhuman.ai](https://www.superhuman.ai)
- - date_published: 2024-06-10T00:00:00+00:00
-
  ## Supermanage AI ✦
  - [https://supermanage.ai](https://supermanage.ai)
  - date_published: 2024-02-01T00:00:00+00:00
@@ -4015,8 +4019,4 @@ Creative Solutions
  ## AI Creative Studio & Image Editing for E-Commerce | WeShop AI
  - [https://www.weshop.ai](https://www.weshop.ai)
  - date_published: 2024-10-30T18:28:25.387017+00:00
-
- ## WEVO | Effortless UX Research for Teams
- - [https://wevo.ai](https://wevo.ai)
- - date_published: 2024-10-30T07:04:42.190777+00:00
 

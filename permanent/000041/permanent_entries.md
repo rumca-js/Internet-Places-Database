@@ -1,3 +1,127 @@
+ ## Alex Pedicini - Product Manager
+ - [http://www.alexpedicini.com](http://www.alexpedicini.com)
+ - date_published: 2023-02-24T22:36:56+00:00
+
+ ## Alex Piacentini
+ - [https://alexpiacentini.com](https://alexpiacentini.com)
+ - date_published: 2024-06-17T11:26:09.011037+00:00
+
+ ## Web and mobile developer | Alex Plescan
+ - [https://alexplescan.com](https://alexplescan.com)
+ - date_published: 2023-10-25T12:38:04.232631+00:00
+
+ ## Alex Polozov
+ - [https://alexpolozov.com](https://alexpolozov.com)
+ - date_published: 2023-11-11T17:13:31+00:00
+
+ ## Alex Eaton - Writer & Photographer
+ - [https://alexreaton.com](https://alexreaton.com)
+ - date_published: 2024-02-09T00:12:37.874010+00:00
+ - tags: ['personal']
+
+ ## Alex Reichert
+ - [https://www.alexreichert.com](https://www.alexreichert.com)
+ - date_published: 2024-08-22T21:33:57.624844+00:00
+ - tags: ['personal']
+
+ ## Alex Reservations - Restaurant Bookings Plugin for WordPress
+ - [https://alexreservations.com](https://alexreservations.com)
+ - date_published: 2024-07-22T09:27:07.966205+00:00
+
+ ## Alex Rupérez
+ - [http://www.alexruperez.com](http://www.alexruperez.com)
+ - date_published: 2024-06-12T23:14:16+00:00
+
+ ## Alex Sanchez-Stern
+ - [https://www.alexsanchezstern.com](https://www.alexsanchezstern.com)
+ - date_published: 2024-05-16T21:02:47+00:00
+
+ ## alexsci.com
+ - [https://alexsci.com](https://alexsci.com)
+ - date_published: 2023-10-25T12:38:05.842613+00:00
+ - tags: ['personal']
+
+ ## IDEAS ON IDEAS
+ - [https://alexsheremet.com](https://alexsheremet.com)
+ - date_published: 2024-07-14T11:40:35+00:00
+ - tags: ['personal']
+
+ ## overskill.alexshu.com – このドメインはお名前.comで取得されています。
+ - [http://overskill.alexshu.com](http://overskill.alexshu.com)
+ - date_published: 2024-07-08T20:56:27.025561+00:00
+
+ ## Home | Alex Sidorenko
+ - [https://alexsidorenko.com](https://alexsidorenko.com)
+ - date_published: 2023-10-25T12:38:06.569578+00:00
+ - tags: ['personal']
+
+ ## Alex – Le site Internet d'Alex Sirac.
+ - [https://alexsirac.com](https://alexsirac.com)
+ - date_published: 2024-06-15T04:07:11.380396+00:00
+
+ ## Alexskra | Web developer from Norway
+ - [https://alexskra.com](https://alexskra.com)
+ - date_published: 2023-10-25T12:38:13.172045+00:00
+
+ ## Alex Soros, PhD
+ - [https://alexsoros.com](https://alexsoros.com)
+ - date_published: 2024-07-03T16:06:00.723147+00:00
+
+ ## Metal Inspection / Metal Analysis  / Metal Testing /  Laboratory Services / Alex Stewart International
+ - [https://alexstewartinternational.com](https://alexstewartinternational.com)
+ - date_published: 2024-06-18T08:56:11.140753+00:00
+
+ ## alexstonethinkingstrings.com
+ - [https://alexstonethinkingstrings.com](https://alexstonethinkingstrings.com)
+ - date_published: 2023-02-09T02:30:27+00:00
+ - tags: ['personal']
+
+ ## Alex Strick van Linschoten
+ - [https://alexstrick.com](https://alexstrick.com)
+ - date_published: 2024-05-01T03:11:51.550298+00:00
+ - tags: ['personal']
+
+ ## Alex Suzuki
+ - [https://alexsuzuki.com](https://alexsuzuki.com)
+ - date_published: 2024-05-24T08:55:40+00:00
+
+ ## Alex Tabarrok
+ - [https://alextabarrok.com](https://alextabarrok.com)
+ - date_published: 2024-05-04T14:26:27.039496+00:00
+
+ ## About  - Alex Toussaint
+ - [https://alextoussaint.com](https://alextoussaint.com)
+ - date_published: 2024-05-08T09:51:28.273419+00:00
+ - tags: ['personal']
+
+ ## Software Development - Alex Tselegidis
+ - [https://alextselegidis.com](https://alextselegidis.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Alex Vermeer — Life-Hacking. Climbing. Striving for awesome. Coffee.
+ - [https://alexvermeer.com](https://alexvermeer.com)
+ - date_published: 2023-10-25T12:38:14.741434+00:00
+
+ ## Alex Wellerstein
+ - [https://alexwellerstein.com](https://alexwellerstein.com)
+ - date_published: 2024-08-19T06:50:25.505527+00:00
+
+ ## Alex W.'s Blog
+ - [https://blog.alexwendland.com](https://blog.alexwendland.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Alex Widua
+ - [https://alexwidua.com](https://alexwidua.com)
+ - date_published: 2024-05-09T06:18:49.198056+00:00
+
+ ## Kami, for Origami
+ - [https://kami.alexwidua.com](https://kami.alexwidua.com)
+ - date_published: 2024-07-09T19:17:29.434868+00:00
+
+ ## Home, Alex Williamson
+ - [https://www.alexwilliamson.com](https://www.alexwilliamson.com)
+ - date_published: 2024-11-25T20:49:26.372121+00:00
+
  ## Mobile development with Alex
  - [https://alexzh.com](https://alexzh.com)
  - date_published: 2024-06-23T21:43:14.328463+00:00
@@ -3916,120 +4040,4 @@
  ## Developer Portal | APIs and Services to enhance existing applications
  - [https://developers.altitudeangel.com](https://developers.altitudeangel.com)
  - date_published: 2024-09-05T12:24:24+00:00
-
- ## Altitude Authentics
- - [https://www.altitudeauthentics.com](https://www.altitudeauthentics.com)
- - date_published: 2024-10-18T17:27:20.768780+00:00
-
- ## Guidepost Montessori | Exceptional School Programs | Early Education | Preschool | Child Care
- - [https://www.altitudelearning.com](https://www.altitudelearning.com)
- - date_published: 2024-07-24T02:33:18.866809+00:00
-
- ## Home - Altitude Sports
- - [https://www.altitudesports.com](https://www.altitudesports.com)
- - date_published: 2024-10-18T17:27:29.097799+00:00
-
- ## Authenticate server
- - [https://365.altium.com](https://365.altium.com)
- - date_published: 2024-09-09T18:15:24+00:00
-
- ## PCB Design Software & Tools | Altium
- - [https://altium.com](https://altium.com)
- - date_published: 2024-05-01T03:19:00.888359+00:00
-
- ## Authenticate server
- - [https://auth.altium.com](https://auth.altium.com)
- - date_published: 2024-05-01T03:19:02.677504+00:00
-
- ## Altium BugCrunch
- - [https://bugcrunch.live.altium.com](https://bugcrunch.live.altium.com)
- - date_published: 2024-05-01T03:19:08.034196+00:00
-
- ## Open Positions & Careers | Join Altium's Team of PCB System Engineers & Designers
- - [https://careers.altium.com](https://careers.altium.com)
- - date_published: 2024-06-13T14:45:07+00:00
-
- ## PCB Design Software & Tools | Altium
- - [https://cdn-static.altium.com](https://cdn-static.altium.com)
- - date_published: 2024-06-13T14:44:45+00:00
-
- ## PCB Design Courses by Altium
- - [https://education.altium.com](https://education.altium.com)
- - date_published: 2024-06-15T11:24:30.592886+00:00
-
- ## Altium Forum
- - [https://forum.live.altium.com](https://forum.live.altium.com)
- - date_published: 2024-05-01T03:19:06.841789+00:00
-
- ## AltiumLive
- - [https://live.altium.com](https://live.altium.com)
- - date_published: 2024-06-15T11:24:49+00:00
-
- ## Altium Designer Getting Started User Guide & Video Tutorials
- - [https://my.altium.com](https://my.altium.com)
- - date_published: 2024-09-15T12:37:15.287400+00:00
-
- ## OnTrack: The PCB Design Podcast | Altium LLC.
- - [https://podcast.altium.com](https://podcast.altium.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## User Profile | Altium
- - [https://profile.altium.com](https://profile.altium.com)
- - date_published: 2024-04-15T16:21:06+00:00
-
- ## PCB Design Resources and Information | Altium
- - [https://resources.altium.com](https://resources.altium.com)
- - date_published: 2023-10-25T12:39:30.132261+00:00
-
- ## Altium 365 Status
- - [https://status.altium.com](https://status.altium.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Purchase Licenses, Services, and Subscriptions Online | Altium
- - [https://store.altium.com](https://store.altium.com)
- - date_published: 2024-05-01T03:19:05.781705+00:00
-
- ## Altium 365 | Cloud Based Solutions for Electronics Development
- - [https://altium365.com](https://altium365.com)
- - date_published: 2024-06-13T14:44:47+00:00
-
- ## Altium 365 | Altium
- - [https://resources.altium365.com](https://resources.altium365.com)
- - date_published: 2024-09-15T12:36:55.721141+00:00
-
- ## alt-J Official Store
- - [http://altjband.com](http://altjband.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Altlab - Web design and development.
- - [http://altlab.com](http://altlab.com)
- - date_published: 2022-06-10T13:40:32+00:00
-
- ## altMBA
- - [https://altmba.com](https://altmba.com)
- - date_published: 2024-05-10T06:27:29.762451+00:00
-
- ## AltME - Secure Messaging and Instant Applications
- - [http://www.altme.com](http://www.altme.com)
- - date_published: 2021-01-19T17:35:38+00:00
-
- ## Homepage
- - [https://acs.altmetric.com](https://acs.altmetric.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Homepage
- - [https://altmetric.com](https://altmetric.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome to Altmetric’s Details Page API documentation! — Altmetric Details Page API 1.0 documentation
- - [https://api.altmetric.com](https://api.altmetric.com)
- - date_published: 2024-05-08T03:00:51.151011+00:00
-
- ## Welcome to Altmetric’s Details Page API documentation! — Altmetric Details Page API 1.0 documentation
- - [https://details-page-api-docs.altmetric.com](https://details-page-api-docs.altmetric.com)
- - date_published: 2024-06-20T07:32:44.378171+00:00
-
- ## Support
- - [https://help.altmetric.com](https://help.altmetric.com)
- - date_published: 2024-06-20T07:32:20.579371+00:00
 

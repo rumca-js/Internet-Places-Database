@@ -1,3 +1,179 @@
+ ## 2 Minute Streaming
+ - [https://2minutestreaming.beehiiv.com](https://2minutestreaming.beehiiv.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## 5to9
+ - [https://5to9.beehiiv.com](https://5to9.beehiiv.com)
+ - date_published: 2024-01-09T02:30:13.006207+00:00
+
+ ## Aceocial's Social Updates
+ - [https://aceocial.beehiiv.com](https://aceocial.beehiiv.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## AI Breakfast
+ - [https://aibreakfast.beehiiv.com](https://aibreakfast.beehiiv.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## AI Scout Insider
+ - [https://aiscout.beehiiv.com](https://aiscout.beehiiv.com)
+ - date_published: 2024-10-29T21:25:59+00:00
+
+ ## AI Tool Report
+ - [https://aitoolreport.beehiiv.com](https://aitoolreport.beehiiv.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Alex West Newsletter
+ - [https://alex-west-newsletter.beehiiv.com](https://alex-west-newsletter.beehiiv.com)
+ - date_published: 2024-10-26T11:40:38+00:00
+
+ ## beehiiv
+ - [https://app.beehiiv.com](https://app.beehiiv.com)
+ - date_published: 2024-08-07T18:37:14.148887+00:00
+
+ ## Audio Bytes by Headphonesty
+ - [https://audio-bytes.beehiiv.com](https://audio-bytes.beehiiv.com)
+ - date_published: 2024-11-06T09:11:17+00:00
+
+ ## Avanzai Blog
+ - [https://avanzai.beehiiv.com](https://avanzai.beehiiv.com)
+ - date_published: 2024-10-30T15:27:19+00:00
+
+ ## GuruFinance Insights
+ - [https://ayratmurtazin.beehiiv.com](https://ayratmurtazin.beehiiv.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Bad Astronomy Newsletter
+ - [https://badastronomy.beehiiv.com](https://badastronomy.beehiiv.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## beehiiv — The newsletter platform built for growth
+ - [https://beehiiv.com](https://beehiiv.com)
+ - date_published: 2024-04-28T03:09:12.137203+00:00
+
+ ## Ben's Bites
+ - [https://bensbites.beehiiv.com](https://bensbites.beehiiv.com)
+ - date_published: 2023-10-25T12:55:28.977663+00:00
+
+ ## beehiiv Blog
+ - [https://blog.beehiiv.com](https://blog.beehiiv.com)
+ - date_published: 2024-08-07T10:32:27+00:00
+
+ ## 11 Things You Missed On The Internet
+ - [https://brobible.beehiiv.com](https://brobible.beehiiv.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## But What For?
+ - [https://butwhatfor.beehiiv.com](https://butwhatfor.beehiiv.com)
+ - date_published: 2023-10-25T12:55:34.496023+00:00
+
+ ## Careers at beehiiv
+ - [https://careers.beehiiv.com](https://careers.beehiiv.com)
+ - date_published: 2024-08-07T18:37:25.999278+00:00
+
+ ## Cat and Girl
+ - [https://cat-and-girl.beehiiv.com](https://cat-and-girl.beehiiv.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Chatbots Life
+ - [https://chatbotslife.beehiiv.com](https://chatbotslife.beehiiv.com)
+ - date_published: 2024-10-31T12:20:18+00:00
+
+ ## Click Americana
+ - [https://clickamericana.beehiiv.com](https://clickamericana.beehiiv.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## DIRECTORS' LIBRARY
+ - [https://directorslibrary.beehiiv.com](https://directorslibrary.beehiiv.com)
+ - date_published: 2024-06-21T14:26:58+00:00
+
+ ## dot.LA
+ - [https://dotla.beehiiv.com](https://dotla.beehiiv.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Dustin's Newsletter
+ - [https://dustin-montgomery.beehiiv.com](https://dustin-montgomery.beehiiv.com)
+ - date_published: 2024-04-28T01:56:27.134722+00:00
+
+ ## Easily Amused
+ - [https://easilyamused.beehiiv.com](https://easilyamused.beehiiv.com)
+ - date_published: 2023-10-25T12:55:37.997353+00:00
+
+ ## Entrepreneurship Handbook
+ - [https://ehandbook.beehiiv.com](https://ehandbook.beehiiv.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Envio Newsletter
+ - [https://envio.beehiiv.com](https://envio.beehiiv.com)
+ - date_published: 2024-09-25T07:01:18+00:00
+
+ ## Executive Offense
+ - [https://executiveoffense.beehiiv.com](https://executiveoffense.beehiiv.com)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## The Fantasy Football Scout Bulletin
+ - [https://ffscoutbulletin.beehiiv.com](https://ffscoutbulletin.beehiiv.com)
+ - date_published: 2024-10-26T00:22:48+00:00
+
+ ## FOSS Weekly
+ - [https://fossweekly.beehiiv.com](https://fossweekly.beehiiv.com)
+ - date_published: 2023-10-25T12:55:43.086938+00:00
+
+ ## What Are Founders Reading?
+ - [https://foundcy.beehiiv.com](https://foundcy.beehiiv.com)
+ - date_published: 2024-06-02T02:55:44+00:00
+
+ ## Founder Exits
+ - [https://founderexits.beehiiv.com](https://founderexits.beehiiv.com)
+ - date_published: 2024-05-10T06:31:20.389488+00:00
+
+ ## Future Social
+ - [https://futuresocial.beehiiv.com](https://futuresocial.beehiiv.com)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Future Tools
+ - [https://futuretools.beehiiv.com](https://futuretools.beehiiv.com)
+ - date_published: 2024-10-30T16:30:21+00:00
+
+ ## Prune
+ - [https://getprune.beehiiv.com](https://getprune.beehiiv.com)
+ - date_published: 2024-05-08T00:40:54.823722+00:00
+
+ ## GrowthHackers' Newsletter
+ - [https://growthhackers-newsletter.beehiiv.com](https://growthhackers-newsletter.beehiiv.com)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## HBCU Spotlight
+ - [https://hbcu-spotlight.beehiiv.com](https://hbcu-spotlight.beehiiv.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Health Brief
+ - [https://healthbrief.beehiiv.com](https://healthbrief.beehiiv.com)
+ - date_published: 2023-11-15T09:58:50.981130+00:00
+
+ ## IdeaHub
+ - [https://ideahub.beehiiv.com](https://ideahub.beehiiv.com)
+ - date_published: 2023-10-25T12:55:48.185995+00:00
+
+ ## Idea Vault
+ - [https://ideavault.beehiiv.com](https://ideavault.beehiiv.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Ironic Sans
+ - [https://ironicsans.beehiiv.com](https://ironicsans.beehiiv.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## One Thing Better
+ - [https://jasonfeifer.beehiiv.com](https://jasonfeifer.beehiiv.com)
+ - date_published: 2023-10-25T12:55:54.736691+00:00
+
+ ## The Weekly Marketer
+ - [https://jeannen.beehiiv.com](https://jeannen.beehiiv.com)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Johnny Wander Newsletter
+ - [https://johnnywander.beehiiv.com](https://johnnywander.beehiiv.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
  ## Kei's Newsletter
  - [https://keis-newsletter.beehiiv.com](https://keis-newsletter.beehiiv.com)
  - date_published: 2024-03-12T00:00:00+00:00
@@ -1488,6 +1664,10 @@
  ## benaGene
  - [https://benagene.com](https://benagene.com)
  - date_published: 2024-10-29T16:22:49.743723+00:00
+
+ ## BeNaked
+ - [http://www.benaked.com](http://www.benaked.com)
+ - date_published: 2024-12-04T20:24:27.259011+00:00
 
  ## Hotel Benalmádena Beach en Costa del Sol | Web oficial
  - [https://www.benalmadenabeach.com](https://www.benalmadenabeach.com)
@@ -3847,188 +4027,4 @@
  ## Simple, Online Mortgage | Better Mortgage
  - [https://better.com](https://better.com)
  - date_published: 2024-05-02T09:39:30.189203+00:00
-
- ## Better Auth – The most comprehensive authentication library for TypeScript
- - [https://www.better-auth.com](https://www.better-auth.com)
- - date_published: 2024-11-29T10:01:57+00:00
-
- ## Better Baking Bible | Cake, Recipes, Cookies, Cupcakes, & Easy Desserts for the Modern, Busy woman!
- - [https://www.betterbakingbible.com](https://www.betterbakingbible.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Better Bathrooms - Beautiful Bathrooms at Better Prices
- - [https://www.betterbathrooms.com](https://www.betterbathrooms.com)
- - date_published: 2024-07-04T03:12:10.599871+00:00
-
- ## Priceline Coupons, Hotwire Hotel Lists, and Expert Bidding Help
- - [http://www.betterbidding.com](http://www.betterbidding.com)
- - date_published: 2024-06-23T06:09:42+00:00
-
- ## Better Blogs Media – Inbound marketing, sponsored articles, blog posts, advertising, social media promotions, SEO, and so much more!
- - [https://betterblogsmedia.com](https://betterblogsmedia.com)
- - date_published: 2024-08-11T23:12:13.505528+00:00
-
- ## The Better Chicken Commitment - BCC [US]
- - [https://betterchickencommitment.com](https://betterchickencommitment.com)
- - date_published: 2024-06-18T17:34:55.122628+00:00
-
- ## BetterCloud
- - [https://app.bettercloud.com](https://app.bettercloud.com)
- - date_published: 2024-06-10T21:31:33+00:00
-
- ## BetterCloud - Developer Portal
- - [https://developer.bettercloud.com](https://developer.bettercloud.com)
- - date_published: 2023-02-28T17:45:19+00:00
-
- ## Sign in - Google Accounts
- - [https://g.bettercloud.com](https://g.bettercloud.com)
- - date_published: 2024-06-23T06:54:56.710571+00:00
-
- ## Support Community
- - [https://support.bettercloud.com](https://support.bettercloud.com)
- - date_published: 2023-06-24T06:55:05+00:00
-
- ## Login | Track
- - [https://trackapp.bettercloud.com](https://trackapp.bettercloud.com)
- - date_published: 2024-06-23T06:55:03.325946+00:00
-
- ## SaaS Management Platform (SMP) Leader | BetterCloud
- - [https://www.bettercloud.com](https://www.bettercloud.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Building Better CMOs
- - [https://bettercmos.com](https://bettercmos.com)
- - date_published: 2024-07-03T21:27:59+00:00
-
- ## Better Code Hub has retired!
- - [https://bettercodehub.com](https://bettercodehub.com)
- - date_published: 2023-01-10T07:49:19+00:00
-
- ## Better Collective - Leading Digital Sports Media Group
- - [https://bettercollective.com](https://bettercollective.com)
- - date_published: 2024-06-22T16:45:03+00:00
-
- ## Better Cover - shop your insurance across 15+ providers.
- - [https://www.bettercover.com](https://www.bettercover.com)
- - date_published: 2024-10-17T21:39:41.098637+00:00
-
- ## Cross Stitch - Learn Why So Many Crafters Fall In Love With It
- - [https://better-cross-stitch-patterns.com](https://better-cross-stitch-patterns.com)
- - date_published: 2024-05-10T05:12:29.722421+00:00
-
- ## BetterDecoratingBible
- - [https://www.betterdecoratingbible.com](https://www.betterdecoratingbible.com)
- - date_published: 2024-08-08T20:31:21+00:00
-
- ## Better Dwelling - Canada’s Fastest Growing Real Estate News Source
- - [https://betterdwelling.com](https://betterdwelling.com)
- - date_published: 2023-10-25T12:58:23.678899+00:00
- - tags: ['news', 'real estates']
-
- ## Better Energy: Be engineers of a sustainable future
- - [https://www.betterenergy.com](https://www.betterenergy.com)
- - date_published: 2024-07-14T05:28:18.516553+00:00
-
- ## BetterExplained – Math lessons that click
- - [https://betterexplained.com](https://betterexplained.com)
- - date_published: 2023-10-25T12:58:29.605403+00:00
-
- ## Better Farming | Keeping Canadian Farmers and Agriculture Professionals Connected with News, Information and Resources.
- - [https://betterfarming.com](https://betterfarming.com)
- - date_published: 2024-07-01T15:54:27.216161+00:00
-
- ## Better Fundraising | Increase Your Fundraising Capacity
- - [https://betterfundraising.com](https://betterfundraising.com)
- - date_published: 2024-07-04T12:51:07.985516+00:00
-
- ## BetterHelp | Professional Therapy With A Licensed Therapist
- - [https://betterhelp.com](https://betterhelp.com)
- - date_published: 2024-03-01T18:25:30.716776+00:00
-
- ## BetterHelp Business
- - [https://betterhelporg.com](https://betterhelporg.com)
- - date_published: 2024-05-08T12:29:21.342166+00:00
-
- ## Better HouseKeeper
- - [https://betterhousekeeper.com](https://betterhousekeeper.com)
- - date_published: 2024-02-08T17:01:58.909410+00:00
-
- ## MyImpactPage - 
-    Login
- - [https://app.betterimpact.com](https://app.betterimpact.com)
- - date_published: 2024-07-01T20:48:58.826576+00:00
-
- ## Better Institutions
- - [http://www.betterinstitutions.com](http://www.betterinstitutions.com)
- - date_published: 2024-06-28T13:28:42.873117+00:00
-
- ## Nike: Better is Temporary
- - [https://betteristemporary.com](https://betteristemporary.com)
- - date_published: 2021-02-01T12:38:26+00:00
-
- ## https://www.betterleadersbetterschools.com
- - [https://betterleadersbetterschools.com](https://betterleadersbetterschools.com)
- - date_published: 2023-12-27T18:11:37.780094+00:00
- - tags: ['personal']
-
- ## Set up your business with BetterLegal
- - [https://betterlegal.com](https://betterlegal.com)
- - date_published: 2024-07-24T02:30:46.988393+00:00
-
- ## Better Man | Official Website | December 25 2024
- - [https://www.bettermanmovie.com](https://www.bettermanmovie.com)
- - date_published: 2024-10-16T22:15:37+00:00
-
- ## Adaptive learning with interactive maths books - bettermarks
- - [https://bettermarks.com](https://bettermarks.com)
- - date_published: 2024-09-20T15:35:27.072125+00:00
-
- ## Online Dating Photographer | BetterMatches.com
- - [https://www.bettermatches.com](https://www.bettermatches.com)
- - date_published: 2023-12-31T00:00:00+00:00
-
- ## Betterment Help Center
- - [https://help.betterment.com](https://help.betterment.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Betterment Shop | Wear Betterment - Pursue Happiness
- - [https://shop.betterment.com](https://shop.betterment.com)
- - date_published: 2024-06-16T12:32:58.207276+00:00
-
- ## Betterment
- - [https://www.betterment.com](https://www.betterment.com)
- - date_published: 2024-05-01T06:45:01.200258+00:00
-
- ## Log in to Betterment | Betterment
- - [https://wwws.betterment.com](https://wwws.betterment.com)
- - date_published: 2024-06-16T12:33:00.792337+00:00
-
- ## Bettermode | Create Powerful Web Apps
- - [https://bettermode.com](https://bettermode.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Better Motherfucking Website
- - [http://bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
- - date_published: 2015-02-20T22:26:23+00:00
- - tags: ['interesting domain name']
-
- ## Nutrition Archives
- - [https://betternutrition.com](https://betternutrition.com)
- - date_published: 2024-06-15T12:10:16.546050+00:00
-
- ## Better Packaging Co.
- - [https://www.betterpackaging.com](https://www.betterpackaging.com)
- - date_published: 2024-10-24T13:12:21.436096+00:00
-
- ## Better Read Events
- - [https://www.betterreadevents.com](https://www.betterreadevents.com)
- - date_published: 2024-06-16T21:00:20.100693+00:00
-
- ## bettersax.com – Saxophone Lessons, Gear Reviews and More
- - [https://bettersax.com](https://bettersax.com)
- - date_published: 2024-07-15T05:06:52+00:00
-
- ## Many developers don't speak to users or collaborate with the business
- - [https://bettersoftwarerequirements.com](https://bettersoftwarerequirements.com)
- - date_published: 2024-03-27T22:01:45+00:00
 

@@ -1,3 +1,1506 @@
+ ## LFD - Laboratory for Fluorescence Dynamics
+ - [http://www.lfd.uci.edu](http://www.lfd.uci.edu)
+ - date_published: 2024-06-19T22:39:49.423341+00:00
+
+ ## CA Post Baccalaureate
+ - [http://www.meded.uci.edu](http://www.meded.uci.edu)
+ - date_published: 2024-07-01T22:49:29.020943+00:00
+
+ ## Office of Equal Opportunity & Diversity // Office of Equal Opportunity and Diversity // UCI
+ - [https://www.oeod.uci.edu](https://www.oeod.uci.edu)
+ - date_published: 2024-06-19T02:14:25.509883+00:00
+
+ ## Office of Financial Aid and Scholarships | UCI
+ - [http://www.ofas.uci.edu](http://www.ofas.uci.edu)
+ - date_published: 2024-07-01T22:50:27.409938+00:00
+
+ ## UCI Beall Applied Innovation – Innovation and Entrepreneurship in Orange County, CA
+ - [http://www.ota.uci.edu](http://www.ota.uci.edu)
+ - date_published: 2024-07-01T22:49:20.806461+00:00
+
+ ## Transportation and Distribution Services | The website for Transportation and Distribution Services at UCI.
+ - [http://www.parking.uci.edu](http://www.parking.uci.edu)
+ - date_published: 2024-07-01T22:51:20.212679+00:00
+
+ ## Home
+ - [https://www.personnel.socsci.uci.edu](https://www.personnel.socsci.uci.edu)
+ - date_published: 2024-07-09T22:47:23.187477+00:00
+
+ ## UCI Physics and Astronomy
+ - [https://www.physics.uci.edu](https://www.physics.uci.edu)
+ - date_published: 2024-07-01T22:31:36+00:00
+
+ ## Home | Remote | UCI Social Sciences
+ - [https://www.remote.socsci.uci.edu](https://www.remote.socsci.uci.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Office of Research Development | UCI Social Sciences
+ - [https://www.researchdevelopment.socsci.uci.edu](https://www.researchdevelopment.socsci.uci.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.research.socsci.uci.edu](https://www.research.socsci.uci.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home
+ - [https://www.saep.socsci.uci.edu](https://www.saep.socsci.uci.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Academic Senate
+ - [http://www.senate.uci.edu](http://www.senate.uci.edu)
+ - date_published: 2024-07-01T21:56:09+00:00
+
+ ## Home
+ - [https://www.ssarc.socsci.uci.edu](https://www.ssarc.socsci.uci.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home
+ - [https://www.ssa.socsci.uci.edu](https://www.ssa.socsci.uci.edu)
+ - date_published: 2024-07-09T22:47:11.615382+00:00
+
+ ## Home | Social Sciences Computer Services | UCI Social Sciences
+ - [https://www.sscs.socsci.uci.edu](https://www.sscs.socsci.uci.edu)
+ - date_published: 2024-07-09T22:46:24.677076+00:00
+
+ ## UCI Student Center & Event Services · Interact. Learn. Enjoy.
+ - [http://www.studentcenter.uci.edu](http://www.studentcenter.uci.edu)
+ - date_published: 2024-07-01T22:49:22+00:00
+
+ ## TLG - Home
+ - [https://www.tlg.uci.edu](https://www.tlg.uci.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home
+ - [https://www.undergrad.socsci.uci.edu](https://www.undergrad.socsci.uci.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home - The Division of Student Affairs
+ - [http://www.vcsa.uci.edu](http://www.vcsa.uci.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## ZotMail
+ - [https://zotmail.oit.uci.edu](https://zotmail.oit.uci.edu)
+ - date_published: 2024-07-09T22:31:50.654084+00:00
+
+ ## Universidad Camilo José Cela | Universidad privada en Madrid
+ - [https://www.ucjc.edu](https://www.ucjc.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Home | UCLA 100
+ - [https://100.ucla.edu](https://100.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - The Center for 17th- & 18th-Century Studies
+ - [https://1718.ucla.edu](https://1718.ucla.edu)
+ - date_published: 2024-05-07T10:26:20.505488+00:00
+
+ ## UCLA
+ - [https://account.giving.ucla.edu](https://account.giving.ucla.edu)
+ - date_published: 2024-06-03T22:24:58+00:00
+
+ ## Homepage
+ - [https://admission.ucla.edu](https://admission.ucla.edu)
+ - date_published: 2024-06-28T21:54:21+00:00
+
+ ## Homepage - UCLA Alumni
+ - [https://alumni.ucla.edu](https://alumni.ucla.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## UCLA Anderson Review
+ - [https://anderson-review.ucla.edu](https://anderson-review.ucla.edu)
+ - date_published: 2024-10-27T11:22:03.882362+00:00
+
+ ## Academic Personnel | Academic Affairs and Personnel
+ - [https://apo.ucla.edu](https://apo.ucla.edu)
+ - date_published: 2024-07-01T22:41:37+00:00
+
+ ## UCLA Arts: School of the Arts and Architecture
+ - [https://arts.ucla.edu](https://arts.ucla.edu)
+ - date_published: 2024-09-30T20:03:26+00:00
+
+ ## AskCHIS Neighborhood Edition - Local Level Health Data
+ - [https://askchisne.ucla.edu](https://askchisne.ucla.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## AskCHIS™
+ - [https://ask.chis.ucla.edu](https://ask.chis.ucla.edu)
+ - date_published: 2024-07-17T11:25:22+00:00
+
+ ## AVAL
+ - [https://aval.ucla.edu](https://aval.ucla.edu)
+ - date_published: 2024-05-23T00:41:05+00:00
+
+ ## UCLA Cognitive Systems Laboratory (Experimental)
+ - [http://bayes.cs.ucla.edu](http://bayes.cs.ucla.edu)
+ - date_published: 2023-04-12T18:21:36+00:00
+
+ ## Be Well Bruin | Be Well Bruin
+ - [https://bewellbruin.ucla.edu](https://bewellbruin.ucla.edu)
+ - date_published: 2024-07-01T23:03:03+00:00
+
+ ## UCLA Graduate Programs in Bioscience (GPB)
+ - [https://bioscience.ucla.edu](https://bioscience.ucla.edu)
+ - date_published: 2024-06-30T05:33:33.644277+00:00
+
+ ## Tribute to Chancellor Block
+ - [https://blocktribute.ucla.edu](https://blocktribute.ucla.edu)
+ - date_published: 2024-07-01T23:01:50.682623+00:00
+
+ ## Home | Bruins Safe Online
+ - [https://bso.ucla.edu](https://bso.ucla.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | Campus Services
+ - [https://campusservices.ucla.edu](https://campusservices.ucla.edu)
+ - date_published: 2024-07-01T22:55:56+00:00
+
+ ## UCLA’s Center for the Art of Performance | CAP UCLA
+ - [https://cap.ucla.edu](https://cap.ucla.edu)
+ - date_published: 2024-07-01T22:01:26+00:00
+
+ ## UCLA | Career Center
+ - [https://career.ucla.edu](https://career.ucla.edu)
+ - date_published: 2024-07-01T22:56:27.840375+00:00
+
+ ## UCLA General Catalog
+ - [https://catalog.registrar.ucla.edu](https://catalog.registrar.ucla.edu)
+ - date_published: 2024-07-01T23:02:30.635939+00:00
+
+ ## PSTI
+ - [https://cbp.physics.ucla.edu](https://cbp.physics.ucla.edu)
+ - date_published: 2023-10-20T20:21:51+00:00
+
+ ## Home
+ - [https://cdli.ucla.edu](https://cdli.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by: Rocky Linux
+ - [https://cdsc.ucla.edu](https://cdsc.ucla.edu)
+ - date_published: 2022-07-27T18:04:30+00:00
+
+ ## UCLA Biomedical Artificial Intelligence Research Lab
+ - [https://cdx.seas.ucla.edu](https://cdx.seas.ucla.edu)
+ - date_published: 2024-06-30T04:59:29+00:00
+
+ ## Computer Engineering Program | Samueli Electrical and Computer Engineering
+ - [https://ce.ucla.edu](https://ce.ucla.edu)
+ - date_published: 2024-08-11T03:41:57+00:00
+
+ ## Challenge Inequality | Organizing Knowledge to Challenge Inequality
+ - [https://challengeinequality.luskin.ucla.edu](https://challengeinequality.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:18.799394+00:00
+
+ ## Home - UCLA Chavez
+ - [https://chavez.ucla.edu](https://chavez.ucla.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Homepage - CHIPTS - Center for HIV Identification, Prevention and Treatment Services
+ - [https://chipts.ucla.edu](https://chipts.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home | Campus Human Resources
+ - [https://chr.ucla.edu](https://chr.ucla.edu)
+ - date_published: 2024-07-01T22:41:20+00:00
+
+ ## Latin American Cities Initiative | Latin American Cities Initiative
+ - [https://ciudades.luskin.ucla.edu](https://ciudades.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:22.044765+00:00
+
+ ## California NanoSystems Institute Leveraging public and private investment for nanoscience research at the interface between disciplines The CNSI is a hub of interdisciplinary research, translation, and education
+ - [https://cnsi.ucla.edu](https://cnsi.ucla.edu)
+ - date_published: 2024-10-19T04:01:57.150345+00:00
+
+ ## Home (New)
+ - [https://college.ucla.edu](https://college.ucla.edu)
+ - date_published: 2024-05-07T20:55:21.916268+00:00
+
+ ## UCLA Community
+ - [https://community.ucla.edu](https://community.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [https://conditional.arts.ucla.edu](https://conditional.arts.ucla.edu)
+ - date_published: 2024-10-29T11:44:45.254747+00:00
+
+ ## UCLA COVID-19 Resources - Coronavirus information for the campus community
+ - [https://covid-19.ucla.edu](https://covid-19.ucla.edu)
+ - date_published: 2024-05-07T20:55:24.036838+00:00
+
+ ## UCLA CTSI
+ - [https://ctsi.ucla.edu](https://ctsi.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## UCLA Library Digital Collections
+ - [https://digital.library.ucla.edu](https://digital.library.ucla.edu)
+ - date_published: 2024-08-06T19:19:20.625859+00:00
+
+ ## UCLA Campus Directory
+ - [https://directory.ucla.edu](https://directory.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UCLA Design Media Arts
+ - [http://dma.ucla.edu](http://dma.ucla.edu)
+ - date_published: 2024-06-19T15:49:49.566945+00:00
+
+ ## Samueli Electrical and Computer Engineering
+ - [https://ee.ucla.edu](https://ee.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Bruins Safe Online
+ - [https://emergency.ucla.edu](https://emergency.ucla.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UCLA Equity, Diversity & Inclusion
+ - [https://equity.ucla.edu](https://equity.ucla.edu)
+ - date_published: 2024-07-01T22:56:25.480533+00:00
+
+ ## Welcome to Emeriti/Retirees Relations Center | Emeriti/Retirees Relations Center
+ - [https://errc.ucla.edu](https://errc.ucla.edu)
+ - date_published: 2024-06-26T17:08:49+00:00
+
+ ## ETC – UCLA Experiential Technologies Center
+ - [http://etc.ucla.edu](http://etc.ucla.edu)
+ - date_published: 2024-07-09T18:44:52.457849+00:00
+
+ ## Home | Events Office
+ - [https://events.ucla.edu](https://events.ucla.edu)
+ - date_published: 2024-07-01T22:55:02+00:00
+
+ ## UCLA External Affairs
+ - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
+ - date_published: 2024-07-01T23:04:45.616948+00:00
+
+ ## Index of /
+ - [http://ficus-www.cs.ucla.edu](http://ficus-www.cs.ucla.edu)
+ - date_published: 2024-06-20T17:26:28.223717+00:00
+
+ ## Welcome First-Gen Bruins! | First to Go
+ - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
+ - date_published: 2024-06-29T06:13:31+00:00
+
+ ## Home | Fowler Museum at UCLA
+ - [https://fowler.ucla.edu](https://fowler.ucla.edu)
+ - date_published: 2021-04-29T17:08:56+00:00
+
+ ## Index of /
+ - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## UCLA is responding to COVID-19
+ - [https://giveto.ucla.edu](https://giveto.ucla.edu)
+ - date_published: 2024-05-07T20:54:59.420873+00:00
+
+ ## Giving to UCLA
+ - [https://giving.ucla.edu](https://giving.ucla.edu)
+ - date_published: 2024-05-07T20:55:32.392874+00:00
+
+ ## Global Public Affairs
+ - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
+ - date_published: 2023-11-20T00:00:00+00:00
+
+ ## GO ARTS UCLA
+ - [https://goarts.ucla.edu](https://goarts.ucla.edu)
+ - date_published: 2024-07-01T22:55:58.050491+00:00
+
+ ## Home | The Berggruen Governance Index
+ - [https://governance.luskin.ucla.edu](https://governance.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:06:51.812703+00:00
+
+ ## UCLA Graduate Programs
+ - [https://grad.ucla.edu](https://grad.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Research Guides
+ - [https://guides.library.ucla.edu](https://guides.library.ucla.edu)
+ - date_published: 2024-10-29T09:13:38.278952+00:00
+
+ ## Hammer Museum | Hammer Museum
+ - [https://hammer.ucla.edu](https://hammer.ucla.edu)
+ - date_published: 2024-06-20T16:00:06+00:00
+
+ ## HAPI
+ - [https://hapi.ucla.edu](https://hapi.ucla.edu)
+ - date_published: 2024-09-12T12:53:29.839912+00:00
+
+ ## Calendars
+ - [https://happenings.ucla.edu](https://happenings.ucla.edu)
+ - date_published: 2024-05-07T20:54:34.739703+00:00
+
+ ## UCLA HARRT
+ - [https://harrt.ucla.edu](https://harrt.ucla.edu)
+ - date_published: 2024-07-01T23:06:21.096132+00:00
+
+ ## Homepage of the UCLA Center for Health Policy Research
+ - [https://healthpolicy.ucla.edu](https://healthpolicy.ucla.edu)
+ - date_published: 2024-07-17T10:52:41+00:00
+
+ ## Communities hold the power to shape their health and well-being | UCLA HHIPP
+ - [http://hhipp.sites.luskin.ucla.edu](http://hhipp.sites.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:06.775582+00:00
+
+ ## Housing & Hospitality
+ - [https://housingandhospitality.ucla.edu](https://housingandhospitality.ucla.edu)
+ - date_published: 2024-06-30T08:08:49.643178+00:00
+
+ ## Home – UCLA Housing | Housing
+ - [https://housing.ucla.edu](https://housing.ucla.edu)
+ - date_published: 2024-07-01T22:38:01+00:00
+
+ ## Careers Home | UCLA
+ - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Humanities Division - UCLA
+ - [http://humanities.ucla.edu](http://humanities.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - HumTech - UCLA
+ - [https://humtech.ucla.edu](https://humtech.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Integrated Diagnostics IDx Shared Resource Portal - Home
+ - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
+ - date_published: 2024-06-07T21:58:40+00:00
+
+ ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
+ - [https://ieo.ucla.edu](https://ieo.ucla.edu)
+ - date_published: 2024-07-01T23:02:33.540862+00:00
+
+ ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
+ - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Institute for Research on Labor and Employment
+ - [https://irle.ucla.edu](https://irle.ucla.edu)
+ - date_published: 2024-05-07T20:55:11.391952+00:00
+
+ ## Home - UCLA Institute of Transportation Studies
+ - [https://its.ucla.edu](https://its.ucla.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UCLA Center for Neighborhood Knowledge
+ - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## LAERI@UCLA | The Los Angeles Education Research Institute
+ - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:25.237557+00:00
+
+ ## Engaging LA, Changing the World | LA Social Science
+ - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
+ - date_published: 2024-07-01T23:06:08.159487+00:00
+
+ ## Latino Policy & Politics Institute
+ - [https://latino.ucla.edu](https://latino.ucla.edu)
+ - date_published: 2024-07-01T23:07:12.647596+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://law.ucla.edu](https://law.ucla.edu)
+ - date_published: 2024-05-04T14:42:25.180876+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://legacy.ucla.edu](https://legacy.ucla.edu)
+ - date_published: 2024-07-01T23:04:58.808632+00:00
+
+ ## Homepage - UCLA Let There Be
+ - [https://lettherebe.ucla.edu](https://lettherebe.ucla.edu)
+ - date_published: 2020-08-26T00:00:00+00:00
+
+ ## Lewis Home - UCLA Lewis Center for Regional Policy Studies
+ - [https://lewis.ucla.edu](https://lewis.ucla.edu)
+ - date_published: 2024-04-30T05:05:25.842498+00:00
+
+ ## Home - LGBTQ Studies - UCLA
+ - [https://lgbtqstudies.ucla.edu](https://lgbtqstudies.ucla.edu)
+ - date_published: 2024-10-29T11:44:56.942880+00:00
+
+ ## Labor Occupational Safety and Health Program
+ - [https://losh.ucla.edu](https://losh.ucla.edu)
+ - date_published: 2024-07-01T23:06:11.308355+00:00
+
+ ## UCLA Conference Center | Meyer & Renee Luskin Center | UCLA Luskin Conference Center
+ - [https://luskinconferencecenter.ucla.edu](https://luskinconferencecenter.ucla.edu)
+ - date_published: 2024-07-01T23:03:08.451096+00:00
+
+ ## School of Public Affairs | UCLA Luskin
+ - [https://luskin.ucla.edu](https://luskin.ucla.edu)
+ - date_published: 2024-05-07T20:55:15.920022+00:00
+
+ ## Home | Transportation
+ - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
+ - date_published: 2024-05-07T20:55:26.311984+00:00
+
+ ## UCLA Med School
+ - [https://medschool.ucla.edu](https://medschool.ucla.edu)
+ - date_published: 2024-06-29T11:34:56+00:00
+
+ ## Memory Work | Los Angeles
+ - [https://memorywork.irle.ucla.edu](https://memorywork.irle.ucla.edu)
+ - date_published: 2024-07-01T23:06:24.623787+00:00
+
+ ## UCLA MII – Medical and Imaging Informatics
+ - [https://mii.ucla.edu](https://mii.ucla.edu)
+ - date_published: 2024-05-07T15:26:25.393622+00:00
+
+ ## MSOL | Master of Science in Engineering Online
+ - [http://msengrol.seas.ucla.edu](http://msengrol.seas.ucla.edu)
+ - date_published: 2024-08-11T03:42:02.102106+00:00
+
+ ## UCLA
+ - [https://mygiving.ucla.edu](https://mygiving.ucla.edu)
+ - date_published: 2024-05-30T21:50:59+00:00
+
+ ## Sign in to your account
+ - [https://my.law.ucla.edu](https://my.law.ucla.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## MyUCLA
+ - [https://my.ucla.edu](https://my.ucla.edu)
+ - date_published: 2024-07-01T23:05:07.433141+00:00
+
+ ## Newsroom | UCLA
+ - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
+ - date_published: 2023-10-25T19:00:36.419553+00:00
+
+ ## New Student & Transition Programs
+ - [https://newstudents.ucla.edu](https://newstudents.ucla.edu)
+ - date_published: 2024-07-01T22:56:03.305914+00:00
+
+ ## Optimism - UCLA
+ - [https://optimism.ucla.edu](https://optimism.ucla.edu)
+ - date_published: 2023-01-03T22:52:19+00:00
+
+ ## UCLA Philanthropy Forward
+ - [https://philanthropy.ucla.edu](https://philanthropy.ucla.edu)
+ - date_published: 2024-07-01T23:04:55.531345+00:00
+
+ ## Home - Department of Philosophy - UCLA
+ - [https://philosophy.ucla.edu](https://philosophy.ucla.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## UCLA Fielding School of Public Health | UCLA Fielding
+ - [https://ph.ucla.edu](https://ph.ucla.edu)
+ - date_published: 2023-10-25T19:00:39.211230+00:00
+
+ ## UCLA’s Division of Physical Sciences
+ - [https://physicalsciences.ucla.edu](https://physicalsciences.ucla.edu)
+ - date_published: 2024-07-01T02:37:43.582969+00:00
+
+ ## Home – UCLA Housing | Housing
+ - [https://portal.housing.ucla.edu](https://portal.housing.ucla.edu)
+ - date_published: 2024-07-01T22:39:35+00:00
+
+ ## UCLA Profiles • Find/collaborate with leading health researchers
+ - [https://profiles.ucla.edu](https://profiles.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Automated Reasoning Group - UCLA
+ - [http://reasoning.cs.ucla.edu](http://reasoning.cs.ucla.edu)
+ - date_published: 2024-08-18T18:44:55.622444+00:00
+
+ ## Welcome - UCLA Academic RECRUIT
+ - [https://recruit.apo.ucla.edu](https://recruit.apo.ucla.edu)
+ - date_published: 2024-10-29T18:27:51.485184+00:00
+
+ ## Welcome! | UCLA Registrar’s Office
+ - [https://registrar.ucla.edu](https://registrar.ucla.edu)
+ - date_published: 2024-07-01T20:43:03+00:00
+
+ ## Home | Research & Creative Activities
+ - [https://research.ucla.edu](https://research.ucla.edu)
+ - date_published: 2024-07-01T22:44:57+00:00
+
+ ## Welcome to Residential Life! | Residential Life
+ - [https://reslife.ucla.edu](https://reslife.ucla.edu)
+ - date_published: 2024-06-29T01:32:20+00:00
+
+ ## UCLA Samueli School of Engineering. Engineer Change.
+ - [https://samueli.ucla.edu](https://samueli.ucla.edu)
+ - date_published: 2024-06-30T05:34:01+00:00
+
+ ## UCLA Student Affairs
+ - [https://sa.ucla.edu](https://sa.ucla.edu)
+ - date_published: 2016-02-18T23:53:14+00:00
+
+ ## UCLA Single Sign-On
+ - [https://saweb.uclanet.ucla.edu](https://saweb.uclanet.ucla.edu)
+ - date_published: 2024-07-01T23:05:16.259442+00:00
+
+ ## Scalable Analytics Institute (ScAi) | where data finds its meaning
+ - [https://scai.cs.ucla.edu](https://scai.cs.ucla.edu)
+ - date_published: 2024-06-30T05:33:56.550428+00:00
+
+ ## UCLA Herb Alpert School of Music - All in One Place
+ - [https://schoolofmusic.ucla.edu](https://schoolofmusic.ucla.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## UCLA Cognitive Systems Laboratory (Experimental)
+ - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
+ - date_published: 2023-04-12T18:21:36+00:00
+
+ ## Smadar Naoz
+ - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
+ - date_published: 2024-04-30T03:33:26.794955+00:00
+
+ ## Social Media | UCLA Social Media
+ - [https://socialmedia.ucla.edu](https://socialmedia.ucla.edu)
+ - date_published: 2024-07-01T23:07:14.437929+00:00
+
+ ## Social Sciences
+ - [http://socialsciences.ucla.edu](http://socialsciences.ucla.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## UCLA | Spark
+ - [https://spark.ucla.edu](https://spark.ucla.edu)
+ - date_published: 2024-07-01T23:05:01.147710+00:00
+
+ ## UCLA Anderson Blogs – UCLA Anderson Blogs
+ - [https://stories.anderson.ucla.edu](https://stories.anderson.ucla.edu)
+ - date_published: 2024-10-29T09:13:58.273481+00:00
+
+ ## Creating the Future: UCLA Strategic Plan 2023-28
+ - [https://strategic-plan.ucla.edu](https://strategic-plan.ucla.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - UCLA Summer Sessions
+ - [https://summer.ucla.edu](https://summer.ucla.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## D|MA Support v2.0
+ - [https://support.dma.ucla.edu](https://support.dma.ucla.edu)
+ - date_published: 2024-10-29T11:44:26.044988+00:00
+
+ ## Home | UCLA TDG
+ - [https://tdg.ucla.edu](https://tdg.ucla.edu)
+ - date_published: 2024-07-01T23:02:00.263817+00:00
+
+ ## Home | Transportation
+ - [https://transportation.ucla.edu](https://transportation.ucla.edu)
+ - date_published: 2024-07-01T22:44:57+00:00
+
+ ## UCLA
+ - [https://ucla.edu](https://ucla.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Archaeological Centers Coalition
+ - [https://uee.cdh.ucla.edu](https://uee.cdh.ucla.edu)
+ - date_published: 2024-07-09T18:44:50.810773+00:00
+
+ ## UCLA Vision Lab
+ - [http://vision.ucla.edu](http://vision.ucla.edu)
+ - date_published: 2024-01-09T08:07:39+00:00
+
+ ## We're Here to Serve | Volunteer Center
+ - [https://volunteer.ucla.edu](https://volunteer.ucla.edu)
+ - date_published: 2024-07-01T22:17:29+00:00
+
+ ## UCLA Computer Science
+ - [http://web.cs.ucla.edu](http://web.cs.ucla.edu)
+ - date_published: 2017-03-29T23:40:19+00:00
+
+ ## Home
+ - [https://williamsinstitute.law.ucla.edu](https://williamsinstitute.law.ucla.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Life Sciences WordPress Template – Based on UCLA Starter Theme
+ - [https://wp-misc.lifesci.ucla.edu](https://wp-misc.lifesci.ucla.edu)
+ - date_published: 2024-07-01T23:07:40.944325+00:00
+
+ ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
+ - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
+ - date_published: 2023-10-25T19:00:46.288421+00:00
+
+ ## UCLA Anderson Home
+ - [https://www.anderson.ucla.edu](https://www.anderson.ucla.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## UCLA Division of Astronomy & Astrophysics
+ - [http://www.astro.ucla.edu](http://www.astro.ucla.edu)
+ - date_published: 2024-07-22T07:04:06.347077+00:00
+
+ ## Atmospheric and Oceanic Sciences | AOS
+ - [http://www.atmos.ucla.edu](http://www.atmos.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## BE | Bioengineering
+ - [https://www.bioeng.ucla.edu](https://www.bioeng.ucla.edu)
+ - date_published: 2024-06-30T05:33:59+00:00
+
+ ## Biological Chemistry Department
+ - [http://www.biolchem.ucla.edu](http://www.biolchem.ucla.edu)
+ - date_published: 2024-10-19T04:52:31.756069+00:00
+
+ ## UCLA Film & Television Archive
+ - [https://www.cinema.ucla.edu](https://www.cinema.ucla.edu)
+ - date_published: 2024-07-01T22:51:29+00:00
+
+ ## Home - Clark Library
+ - [http://www.clarklibrary.ucla.edu](http://www.clarklibrary.ucla.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Counseling & Psychological Services | Counseling and Psychological Services
+ - [https://www.counseling.ucla.edu](https://www.counseling.ucla.edu)
+ - date_published: 2024-06-27T15:11:34+00:00
+
+ ## CS | Computer Science
+ - [https://www.cs.ucla.edu](https://www.cs.ucla.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home
+ - [http://www.environment.ucla.edu](http://www.environment.ucla.edu)
+ - date_published: 2024-07-08T12:05:02.595610+00:00
+
+ ## .::. UCLA Global .::.
+ - [https://www.global.ucla.edu](https://www.global.ucla.edu)
+ - date_published: 2024-07-01T22:56:06+00:00
+
+ ## UCLA | Honors Programs | University of California, Los Angeles
+ - [http://www.honors.ucla.edu](http://www.honors.ucla.edu)
+ - date_published: 2024-07-01T23:02:22.845039+00:00
+
+ ## Institute of the Environment and Sustainability at UCLA
+ - [https://www.ioes.ucla.edu](https://www.ioes.ucla.edu)
+ - date_published: 2024-08-22T22:12:46.119028+00:00
+
+ ## Home - IPAM
+ - [http://www.ipam.ucla.edu](http://www.ipam.ucla.edu)
+ - date_published: 2013-12-07T10:17:26+00:00
+
+ ## UCLA Labor Center
+ - [https://www.labor.ucla.edu](https://www.labor.ucla.edu)
+ - date_published: 2024-07-01T23:06:04.685386+00:00
+
+ ## UCLA Library
+ - [https://www.library.ucla.edu](https://www.library.ucla.edu)
+ - date_published: 2024-10-29T09:13:44.538331+00:00
+
+ ## Home - Department of Linguistics - UCLA
+ - [http://www.linguistics.ucla.edu](http://www.linguistics.ucla.edu)
+ - date_published: 2024-07-02T09:18:05.787206+00:00
+
+ ## Home - UCLA Mathematics
+ - [http://www.math.ucla.edu](http://www.math.ucla.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home | Office of Emergency Management
+ - [https://www.oem.ucla.edu](https://www.oem.ucla.edu)
+ - date_published: 2024-07-01T22:46:35+00:00
+
+ ## CD to accompany Vowels and Consonants
+ - [http://www.phonetics.ucla.edu](http://www.phonetics.ucla.edu)
+ - date_published: 2020-09-11T17:43:27+00:00
+
+ ## Welcome to UCLA Recreation | Recreation
+ - [https://www.recreation.ucla.edu](https://www.recreation.ucla.edu)
+ - date_published: 2024-07-01T20:12:47+00:00
+
+ ## Home - Royce Reading Room - UCLA
+ - [http://www.roycereadingroom.ucla.edu](http://www.roycereadingroom.ucla.edu)
+ - date_published: 2024-06-29T10:15:59.504404+00:00
+
+ ## OASA | Office of Academic and Student Affairs
+ - [http://www.seasoasa.ucla.edu](http://www.seasoasa.ucla.edu)
+ - date_published: 2024-08-11T03:41:53.520949+00:00
+
+ ## Home | Academic Senate
+ - [https://www.senate.ucla.edu](https://www.senate.ucla.edu)
+ - date_published: 2024-07-01T22:45:15+00:00
+
+ ## Social Sciences
+ - [http://www.sscnet.ucla.edu](http://www.sscnet.ucla.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - UCLA Statistics
+ - [http://www.stat.ucla.edu](http://www.stat.ucla.edu)
+ - date_published: 2019-03-19T11:37:06+00:00
+
+ ## UCLA Student Affairs
+ - [https://www.studentaffairs.ucla.edu](https://www.studentaffairs.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Shine Inside and Out: Student Health at UCLA | Arthur Ashe Student
+ - [https://www.studenthealth.ucla.edu](https://www.studenthealth.ucla.edu)
+ - date_published: 2024-07-01T17:41:58+00:00
+
+ ## UCLA Sustainability | Sustainability at UCLA brings together a community of students, faculty, and staff
+ - [https://www.sustain.ucla.edu](https://www.sustain.ucla.edu)
+ - date_published: 2024-07-01T23:03:02.629818+00:00
+
+ ## HOME - xLAB
+ - [https://xlab.aud.ucla.edu](https://xlab.aud.ucla.edu)
+ - date_published: 2024-07-12T18:09:42.098373+00:00
+
+ ## Zocchi Laboratory
+ - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
+ - date_published: 2024-02-08T21:48:42.972695+00:00
+
+ ## UCLA Extension Career Center
+ - [https://careers.uclaextension.edu](https://careers.uclaextension.edu)
+ - date_published: 2024-06-29T01:45:00.284389+00:00
+
+ ## Log In to Canvas
+ - [https://my.uclaextension.edu](https://my.uclaextension.edu)
+ - date_published: 2023-09-20T00:00:00+00:00
+
+ ## Newsroom
+ - [https://newsroom.uclaextension.edu](https://newsroom.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:32.296367+00:00
+
+ ## Home | UCLA Extension
+ - [https://portal.uclaextension.edu](https://portal.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:26.000928+00:00
+
+ ## UCLA Extension - Continuing Education Courses & Certificates
+ - [https://uclaextension.edu](https://uclaextension.edu)
+ - date_published: 2024-05-07T20:55:05.477271+00:00
+
+ ## Writing & Journalism Courses & Certificates | UCLA Extension
+ - [http://writers.uclaextension.edu](http://writers.uclaextension.edu)
+ - date_published: 2024-06-29T20:04:18.999916+00:00
+
+ ## UC Law SF Scholarship Repository | UC Law SF Research
+ - [https://repository.uclawsf.edu](https://repository.uclawsf.edu)
+ - date_published: 2024-07-17T17:16:35.501110+00:00
+
+ ## Accessibility at UC Merced
+ - [https://accessibility.ucmerced.edu](https://accessibility.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Undergraduate Admissions | Division of Enrollment Management
+ - [https://admissions.ucmerced.edu](https://admissions.ucmerced.edu)
+ - date_published: 2024-07-01T21:46:04+00:00
+
+ ## Applied Mathematics
+ - [https://appliedmath.ucmerced.edu](https://appliedmath.ucmerced.edu)
+ - date_published: 2024-07-01T21:45:38+00:00
+
+ ## Apply Now | Graduate Division
+ - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:30.115935+00:00
+
+ ## Basic Needs
+ - [https://basicneeds.ucmerced.edu](https://basicneeds.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:46.497349+00:00
+
+ ## Biological Engineering and Small-Scale Technologies
+ - [https://best.ucmerced.edu](https://best.ucmerced.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Bioengineering
+ - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:24.812623+00:00
+
+ ## University of California Merced - Acalog ACMS™
+ - [http://catalog.ucmerced.edu](http://catalog.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Center for Cellular and Biomolecular Machines | National Science Foundation Center of Research Excellence in Science and Technology (CREST)
+ - [https://ccbm.ucmerced.edu](https://ccbm.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:13.753480+00:00
+
+ ## Center for Educational Partnerships
+ - [https://cep.ucmerced.edu](https://cep.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:41.329936+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucmerced.edu](https://chancellor.ucmerced.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UC Merced Community and Labor Center
+ - [https://clc.ucmerced.edu](https://clc.ucmerced.edu)
+ - date_published: 2024-07-01T20:55:14+00:00
+
+ ## Convergence of Nano-engineered Devices for Environmental and Sustainable Applications (CONDESA) | A National Science Foundation Research Traineeship Program
+ - [https://condesa.ucmerced.edu](https://condesa.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:34+00:00
+
+ ## SIR UCMerced Admission
+ - [https://decision.ucmerced.edu](https://decision.ucmerced.edu)
+ - date_published: 2024-06-04T07:03:18+00:00
+
+ ## Division of Finance and Administration
+ - [https://dfa.ucmerced.edu](https://dfa.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Directory
+ - [https://directory.ucmerced.edu](https://directory.ucmerced.edu)
+ - date_published: 2024-06-25T07:05:06+00:00
+
+ ## Division of Equity, Justice, & Inclusive Excellence
+ - [https://diversity.ucmerced.edu](https://diversity.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:32+00:00
+ - tags: ['dei']
+
+ ## Home | Emergency Preparedness
+ - [https://emergency.ucmerced.edu](https://emergency.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:37+00:00
+
+ ## Engineering Service Learning | School of Engineering
+ - [https://engineeringservicelearning.ucmerced.edu](https://engineeringservicelearning.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Engineering
+ - [https://engineering.ucmerced.edu](https://engineering.ucmerced.edu)
+ - date_published: 2024-07-01T22:40:53+00:00
+
+ ## School of Engineering
+ - [https://eng.ucmerced.edu](https://eng.ucmerced.edu)
+ - date_published: 2024-06-22T06:19:46+00:00
+
+ ## Environmental Systems Graduate Group
+ - [https://es.ucmerced.edu](https://es.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:09.391442+00:00
+
+ ## Events Calendar
+ - [https://events.ucmerced.edu](https://events.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | University Extension
+ - [https://extension.ucmerced.edu](https://extension.ucmerced.edu)
+ - date_published: 2024-07-01T22:54:36+00:00
+
+ ## External Relations & Strategic Communications
+ - [https://externalrelations.ucmerced.edu](https://externalrelations.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:58+00:00
+
+ ## Financial Aid | Helping Students Succeed
+ - [https://financialaid.ucmerced.edu](https://financialaid.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Division of Management and Information
+ - [https://gallo.ucmerced.edu](https://gallo.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:56.998444+00:00
+
+ ## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:27.415446+00:00
+
+ ## Home | Health Services
+ - [http://health.ucmerced.edu](http://health.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## G-RISE I-BioSTeP | Interdisciplinary Biomedical Science and Technology Program
+ - [https://ibiostep.ucmerced.edu](https://ibiostep.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Office of Information Technology
+ - [https://it.ucmerced.edu](https://it.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:29.991059+00:00
+
+ ## Home | Staff Jobs
+ - [https://jobs.ucmerced.edu](https://jobs.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:16+00:00
+
+ ## UC Merced Library | Not what other research libraries are, what they will be.
+ - [https://library.ucmerced.edu](https://library.ucmerced.edu)
+ - date_published: 2024-07-01T19:38:14+00:00
+
+ ## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:19.947352+00:00
+
+ ## UC Merced | Premier Academic Institution in California
+ - [https://mist.ucmerced.edu](https://mist.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:05.684504+00:00
+
+ ## Welcome to UC Merced Connect | UC Merced Connect
+ - [https://my.ucmerced.edu](https://my.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:11.919076+00:00
+
+ ## School of Natural Sciences
+ - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
+ - date_published: 2024-07-01T21:12:30+00:00
+
+ ## Home | Newsroom
+ - [http://news.ucmerced.edu](http://news.ucmerced.edu)
+ - date_published: 2024-07-01T21:41:05+00:00
+
+ ## University of California, Merced | Off-Campus Housing Search
+ - [http://och.ucmerced.edu](http://och.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:06.136319+00:00
+
+ ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
+ - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:44.171009+00:00
+
+ ## UC Merced Postdoctoral Scholars
+ - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
+ - date_published: 2024-07-01T23:04:19+00:00
+
+ ## Home | Office of the Executive Vice Chancellor and Provost
+ - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
+ - date_published: 2024-07-01T22:56:00+00:00
+
+ ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
+ - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Welcome to Office of Research Development | Office of Research Development
+ - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:01.432396+00:00
+
+ ## Office of the Registrar | Supporting the Academic Mission
+ - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:18.492407+00:00
+
+ ## Office of Research and Economic Development
+ - [https://research.ucmerced.edu](https://research.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:38+00:00
+
+ ## Home | Academic Senate
+ - [http://senate.ucmerced.edu](http://senate.ucmerced.edu)
+ - date_published: 2024-07-01T22:59:39+00:00
+
+ ## Sponsored Projects Office
+ - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Social Sciences, Humanities and Arts
+ - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
+ - date_published: 2024-07-01T20:39:06+00:00
+
+ ## Home | Student Affairs
+ - [https://studentaffairs.ucmerced.edu](https://studentaffairs.ucmerced.edu)
+ - date_published: 2024-07-01T21:00:27+00:00
+
+ ## Students First Center | Phone: 209-228-7178
+ - [https://studentsfirst.ucmerced.edu](https://studentsfirst.ucmerced.edu)
+ - date_published: 2024-07-01T22:32:00+00:00
+
+ ## Division of Undergraduate Education
+ - [https://ue.ucmerced.edu](https://ue.ucmerced.edu)
+ - date_published: 2024-07-01T23:16:45.680457+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://vllab1.ucmerced.edu](http://vllab1.ucmerced.edu)
+ - date_published: 2018-04-18T23:18:39+00:00
+
+ ## VLLab - UC Merced
+ - [http://vllab.ucmerced.edu](http://vllab.ucmerced.edu)
+ - date_published: 2023-03-12T09:07:46+00:00
+
+ ## Home | University Writing Center
+ - [https://writingcenter.ucmerced.edu](https://writingcenter.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:40.485463+00:00
+
+ ## The Karen Merritt Writing Program
+ - [https://writingprogram.ucmerced.edu](https://writingprogram.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:22.838187+00:00
+
+ ## Writing Studies
+ - [https://writingstudies.ucmerced.edu](https://writingstudies.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:04.509540+00:00
+
+ ## University of California, Merced
+ - [https://www.ucmerced.edu](https://www.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:17.110274+00:00
+
+ ## Home | IT Accessibility
+ - [https://accessibility.its.uconn.edu](https://accessibility.its.uconn.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://accessibility.media.uconn.edu](https://accessibility.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## Home | Accessibility
+ - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Home | Accounting Department
+ - [http://accounting.business.uconn.edu](http://accounting.business.uconn.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.uconn.edu](https://admissions.uconn.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## UConn Alert | Home
+ - [http://alert.uconn.edu](http://alert.uconn.edu)
+ - date_published: 2024-07-01T23:20:39.740632+00:00
+
+ ## UConn School of Business | Office of External and Alumni Engagement
+ - [http://alumni.business.uconn.edu](http://alumni.business.uconn.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://arthur-parzygnat.uconn.edu](https://arthur-parzygnat.uconn.edu)
+ - date_published: 2024-05-04T14:40:31.233891+00:00
+
+ ## Home | Aurora
+ - [https://aurora.media.uconn.edu](https://aurora.media.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Aurora
+ - [https://aurora.uconn.edu](https://aurora.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Avery Point
+ - [https://averypoint.uconn.edu](https://averypoint.uconn.edu)
+ - date_published: 2024-07-01T23:19:55.132584+00:00
+
+ ## University of Connecticut | Brand Standards
+ - [https://brand.uconn.edu](https://brand.uconn.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Home | Business Law
+ - [http://businesslaw.business.uconn.edu](http://businesslaw.business.uconn.edu)
+ - date_published: 2024-07-01T23:32:59+00:00
+
+ ## UConn School of Business | School of Business
+ - [https://business.uconn.edu](https://business.uconn.edu)
+ - date_published: 2024-05-07T20:56:51.424555+00:00
+
+ ## Home | Business Career Development Office
+ - [https://career.business.uconn.edu](https://career.business.uconn.edu)
+ - date_published: 2024-07-01T22:05:27+00:00
+
+ ## Home | Connecticut Center for Economic Analysis
+ - [http://ccea.uconn.edu](http://ccea.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ccei.business.uconn.edu](http://ccei.business.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [https://ccei.uconn.edu](https://ccei.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home | Department of Chemistry
+ - [http://chemistry.uconn.edu](http://chemistry.uconn.edu)
+ - date_published: 2024-10-19T04:47:38.579363+00:00
+
+ ## The 2024 Periodical Cicada Emergence | Periodical Cicada Information Pages
+ - [https://cicadas.uconn.edu](https://cicadas.uconn.edu)
+ - date_published: 2024-07-17T04:52:21+00:00
+
+ ## Home | Connecticut Information Technology Institute
+ - [http://citi.uconn.edu](http://citi.uconn.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home | College of Liberal Arts and Sciences
+ - [https://clas.uconn.edu](https://clas.uconn.edu)
+ - date_published: 2024-07-21T01:27:03+00:00
+
+ ## University of Connecticut | University Communications
+ - [https://communications.uconn.edu](https://communications.uconn.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | Office of University Compliance
+ - [https://compliance.uconn.edu](https://compliance.uconn.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home | Math Courses
+ - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Home | Connecticut Small Business Development Center
+ - [https://ctsbdc.uconn.edu](https://ctsbdc.uconn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Daigle Labs
+ - [https://daiglelabs.business.uconn.edu](https://daiglelabs.business.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Digital Frontiers Initiative | UConn School of Business
+ - [https://digitalfrontiers.business.uconn.edu](https://digitalfrontiers.business.uconn.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Office of Diversity Initiatives | UConn School of Business
+ - [http://diversity.business.uconn.edu](http://diversity.business.uconn.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Entrepreneurship Bootcamp for Veterans | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ebv.business.uconn.edu](http://ebv.business.uconn.edu)
+ - date_published: 2017-07-19T16:10:27+00:00
+
+ ## Home | Office of Institutional Equity
+ - [http://equity.uconn.edu](http://equity.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UConn Calendar
+ - [https://events.uconn.edu](https://events.uconn.edu)
+ - date_published: 2024-06-27T17:02:56+00:00
+
+ ## New Home | Faculty & Staff
+ - [https://facultystaff.uconn.edu](https://facultystaff.uconn.edu)
+ - date_published: 2024-07-01T21:49:56+00:00
+
+ ## FERPA Manager
+ - [https://ferpamanager.uconn.edu](https://ferpamanager.uconn.edu)
+ - date_published: 2024-07-01T23:19:15.523206+00:00
+
+ ## Home | UConn Finance Department - School of Business
+ - [http://finance.business.uconn.edu](http://finance.business.uconn.edu)
+ - date_published: 2024-07-01T23:23:37+00:00
+
+ ## Graduate Programs in Financial Technology (FinTech)
+ - [https://fintech.business.uconn.edu](https://fintech.business.uconn.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UConn Global Business Programs | School of Business
+ - [http://global.business.uconn.edu](http://global.business.uconn.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## HOME | Global Affairs
+ - [https://global.uconn.edu](https://global.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Goldenson Center
+ - [https://goldensoncenter.uconn.edu](https://goldensoncenter.uconn.edu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Graduate Business Programs | Graduate Programs
+ - [https://grad.business.uconn.edu](https://grad.business.uconn.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## The Graduate School | The Graduate School
+ - [https://grad.uconn.edu](https://grad.uconn.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Greenhouse Studios - Scholarly Communications Design at UConn
+ - [https://greenhousestudios.uconn.edu](https://greenhousestudios.uconn.edu)
+ - date_published: 2024-07-19T03:49:16.145807+00:00
+
+ ## Home | Hartford
+ - [https://hartford.uconn.edu](https://hartford.uconn.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Home | Healthcare Management & Insurance Studies
+ - [http://healthcare.business.uconn.edu](http://healthcare.business.uconn.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Home | UConn Health
+ - [https://health.uconn.edu](https://health.uconn.edu)
+ - date_published: 2024-07-01T22:56:02+00:00
+
+ ## Home | Student Consumer Information
+ - [http://heoa.uconn.edu](http://heoa.uconn.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Online Graduate Programs in Human Resource Management | UConn HRM
+ - [http://hrm.business.uconn.edu](http://hrm.business.uconn.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Home | Human Resources
+ - [https://hr.uconn.edu](https://hr.uconn.edu)
+ - date_published: 2024-07-01T21:01:48+00:00
+
+ ## Human Rights Institute | University of Connecticut
+ - [https://humanrights.uconn.edu](https://humanrights.uconn.edu)
+ - date_published: 2024-07-22T07:54:38+00:00
+
+ ## Home | Innovation Quest
+ - [https://innovationquest.uconn.edu](https://innovationquest.uconn.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Keith Conrad's Home Page
+ - [https://kconrad.math.uconn.edu](https://kconrad.math.uconn.edu)
+ - date_published: 2024-05-07T15:58:32.946320+00:00
+ - tags: ['personal']
+
+ ## Home | Aurora
+ - [https://kendalllab.media.uconn.edu](https://kendalllab.media.uconn.edu)
+ - date_published: 2024-07-01T02:07:45+00:00
+
+ ## Home | Kendall Lab
+ - [https://kendalllab.uconn.edu](https://kendalllab.uconn.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home | Richard N. Langlois
+ - [http://langlois.uconn.edu](http://langlois.uconn.edu)
+ - date_published: 2024-10-29T16:29:22+00:00
+
+ ## Home | Aurora
+ - [https://law.media.uconn.edu](https://law.media.uconn.edu)
+ - date_published: 2024-10-18T22:30:39.593934+00:00
+
+ ## Home | School of Law
+ - [https://law.uconn.edu](https://law.uconn.edu)
+ - date_published: 2024-10-18T22:30:47.559512+00:00
+
+ ## Home | Thomas J. Meskill Law Library
+ - [https://library.law.uconn.edu](https://library.law.uconn.edu)
+ - date_published: 2024-10-18T22:30:45.472162+00:00
+
+ ## Home | University of Connecticut Logic Group
+ - [https://logic.uconn.edu](https://logic.uconn.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## UConn Magazine
+ - [https://magazine.uconn.edu](https://magazine.uconn.edu)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Management & Entrepreneurship Department | UConn School of Business
+ - [http://management.business.uconn.edu](http://management.business.uconn.edu)
+ - date_published: 2024-07-01T23:11:47+00:00
+
+ ## Marketing Department | UConn School of Business
+ - [http://marketing.business.uconn.edu](http://marketing.business.uconn.edu)
+ - date_published: 2024-07-01T22:52:09+00:00
+
+ ## Home page | Math Club
+ - [https://mathclub.math.uconn.edu](https://mathclub.math.uconn.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://math.media.uconn.edu](https://math.media.uconn.edu)
+ - date_published: 2024-07-21T00:09:30+00:00
+
+ ## Aurora outage
+ - [https://math.uconn.edu](https://math.uconn.edu)
+ - date_published: 2024-04-30T07:32:52.315694+00:00
+
+ ## UConn MBA Programs | Top - Ranked | Fast & Flexible
+ - [https://mba.business.uconn.edu](https://mba.business.uconn.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Online Master of Science in Accounting (MSA) - UConn
+ - [http://msaccounting.business.uconn.edu](http://msaccounting.business.uconn.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## MS in Business Analytics and Project Management | UConn
+ - [http://msbapm.business.uconn.edu](http://msbapm.business.uconn.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home | Operations and Information Management Department
+ - [http://opim.business.uconn.edu](http://opim.business.uconn.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://pharmacy.media.uconn.edu](https://pharmacy.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## Home - UConn School of Pharmacy | UConn School of Pharmacy
+ - [https://pharmacy.uconn.edu](https://pharmacy.uconn.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Department of Pharmaceutical Sciences | UConn School of Pharmacy
+ - [https://pharmsci.uconn.edu](https://pharmsci.uconn.edu)
+ - date_published: 2019-05-16T14:22:20+00:00
+
+ ## UConn School of Business Ph.D. Program
+ - [http://phd.business.uconn.edu](http://phd.business.uconn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Course Placement
+ - [https://placement.uconn.edu](https://placement.uconn.edu)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Home | University Policies
+ - [https://policy.uconn.edu](https://policy.uconn.edu)
+ - date_published: 2024-07-01T20:59:07+00:00
+
+ ## Home | Department of Political Science
+ - [https://polisci.uconn.edu](https://polisci.uconn.edu)
+ - date_published: 2024-06-18T15:31:33+00:00
+
+ ## Home | Office of the President
+ - [https://president.uconn.edu](https://president.uconn.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://privacy.media.uconn.edu](https://privacy.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## Home | UConn Privacy
+ - [https://privacy.uconn.edu](https://privacy.uconn.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home | Quantitative Learning Center
+ - [https://qcenter.uconn.edu](https://qcenter.uconn.edu)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Home | Center for Real Estate and Urban Economic Studies
+ - [http://realestate.business.uconn.edu](http://realestate.business.uconn.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Home | Business Career Development Office
+ - [http://recruiters.business.uconn.edu](http://recruiters.business.uconn.edu)
+ - date_published: 2024-07-01T22:05:27+00:00
+
+ ## UConn Graduate Programs in Financial and Enterprise Risk Management | Apply Now
+ - [https://risk.business.uconn.edu](https://risk.business.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Scholarships for Business Students | Undergraduate Programs
+ - [http://scholarships.business.uconn.edu](http://scholarships.business.uconn.edu)
+ - date_published: 2014-01-09T14:34:51+00:00
+
+ ## | Student Managed Fund
+ - [http://smf.business.uconn.edu](http://smf.business.uconn.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## MS in Social Responsibility & Impact in Business | UConn
+ - [https://socialimpact.business.uconn.edu](https://socialimpact.business.uconn.edu)
+ - date_published: 2024-07-01T23:33:12+00:00
+
+ ## Home | Stamford
+ - [https://stamford.uconn.edu](https://stamford.uconn.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home  - UConn Today
+ - [https://today.uconn.edu](https://today.uconn.edu)
+ - date_published: 2023-10-25T19:00:48.881073+00:00
+
+ ## Home | Polynomial-Sized LP Models for Hard COPs
+ - [https://tsplp.research.uconn.edu](https://tsplp.research.uconn.edu)
+ - date_published: 2023-10-25T19:00:52.126830+00:00
+
+ ## University of Connecticut
+ - [https://uconn.edu](https://uconn.edu)
+ - date_published: 2024-05-07T20:56:38.013761+00:00
+
+ ## Home | Information Technology Services
+ - [http://uits.uconn.edu](http://uits.uconn.edu)
+ - date_published: 2024-06-22T04:58:36+00:00
+
+ ## School of Business Undergraduate Programs | Undergraduate Programs
+ - [http://undergrad.business.uconn.edu](http://undergrad.business.uconn.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## University of Connecticut | University Communications
+ - [https://universitycommunications.uconn.edu](https://universitycommunications.uconn.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | Waterbury
+ - [https://waterbury.uconn.edu](https://waterbury.uconn.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://www-business.media.uconn.edu](https://www-business.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## UConn | College of Engineering
+ - [http://www.engr.uconn.edu](http://www.engr.uconn.edu)
+ - date_published: 2024-06-28T11:28:26+00:00
+
+ ## The UConn Foundation: Supporting the University of Connecticut
+ - [https://www.foundation.uconn.edu](https://www.foundation.uconn.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Home | UConn Library
+ - [http://www.lib.uconn.edu](http://www.lib.uconn.edu)
+ - date_published: 2024-06-24T08:20:24+00:00
+
+ ## At Your Service Online : Sign In
+ - [https://atyourserviceonline.ucop.edu](https://atyourserviceonline.ucop.edu)
+ - date_published: 2024-07-09T22:35:33.316307+00:00
+
+ ## Risk & Safety Solutions
+ - [https://ehs.ucop.edu](https://ehs.ucop.edu)
+ - date_published: 2024-07-01T15:38:40+00:00
+
+ ## Home
+| I-9 Complete
+ - [https://i9complete.ucop.edu](https://i9complete.ucop.edu)
+ - date_published: 2022-03-09T21:42:05+00:00
+
+ ## Welcome | Librarians Association of The University of California (LAUC)
+ - [https://lauc.ucop.edu](https://lauc.ucop.edu)
+ - date_published: 2024-07-01T23:37:04+00:00
+
+ ## Link: UCOP's e-newsletter
+ - [https://link.ucop.edu](https://link.ucop.edu)
+ - date_published: 2024-07-01T23:08:38.376642+00:00
+
+ ## Search policies | UCOP
+ - [https://policy.ucop.edu](https://policy.ucop.edu)
+ - date_published: 2024-06-21T00:03:57+00:00
+
+ ## President's Postdoctoral Fellowship Program
+ - [https://ppfp.ucop.edu](https://ppfp.ucop.edu)
+ - date_published: 2024-07-22T08:22:40.351277+00:00
+
+ ## University Of California - Records Authority
+ - [https://recordsretention.ucop.edu](https://recordsretention.ucop.edu)
+ - date_published: 2024-07-01T23:51:16.787892+00:00
+
+ ## Home
+ - [https://security.ucop.edu](https://security.ucop.edu)
+ - date_published: 2024-06-27T20:56:43+00:00
+
+ ## University of California | Office of The President
+ - [http://ucop.edu](http://ucop.edu)
+ - date_published: 2024-07-01T17:16:51+00:00
+
+ ## Foxy.io | Flexible Ecommerce for Your Website
+ - [https://cart.ucpress.edu](https://cart.ucpress.edu)
+ - date_published: 2024-06-17T10:40:16.598229+00:00
+
+ ## Journals Gateway | University of California Press
+ - [https://online.ucpress.edu](https://online.ucpress.edu)
+ - date_published: 2024-06-17T10:59:38.923135+00:00
+
+ ## University of California Press
+ - [http://ucpress.edu](http://ucpress.edu)
+ - date_published: 2024-07-01T10:35:02.749737+00:00
+
+ ## Academic Personnel Office
+ - [http://academicpersonnel.ucr.edu](http://academicpersonnel.ucr.edu)
+ - date_published: 2024-07-01T21:42:01+00:00
+
+ ## We've been waiting for a Highlander like you!
+ - [https://admissions.ucr.edu](https://admissions.ucr.edu)
+ - date_published: 2024-07-01T23:35:53+00:00
+
+ ## University Advancement
+ - [https://advancement.ucr.edu](https://advancement.ucr.edu)
+ - date_published: 2024-06-06T18:00:57+00:00
+
+ ## Alumni
+ - [https://alumni.ucr.edu](https://alumni.ucr.edu)
+ - date_published: 2024-07-01T21:05:03+00:00
+
+ ## Connect with Asian Pacific Student Programs (APSP)!
+ - [https://apsp.ucr.edu](https://apsp.ucr.edu)
+ - date_published: 2024-04-05T03:48:19+00:00
+
+ ## Associated Students Program Board
+ - [https://aspb.ucr.edu](https://aspb.ucr.edu)
+ - date_published: 2024-04-05T03:49:50+00:00
+
+ ## UCR African Student Programs
+ - [https://asp.ucr.edu](https://asp.ucr.edu)
+ - date_published: 2024-05-07T20:57:10.969841+00:00
+
+ ## Assets
+ - [https://assets.ucr.edu](https://assets.ucr.edu)
+ - date_published: 2021-07-14T17:32:28+00:00
+
+ ## Alternative Earths Astrobiology Center
+ - [https://astrobiology.ucr.edu](https://astrobiology.ucr.edu)
+ - date_published: 2024-08-18T06:08:52+00:00
+
+ ## Associated Students of UCR
+ - [https://asucr.ucr.edu](https://asucr.ucr.edu)
+ - date_published: 2024-06-12T18:46:50+00:00
+
+ ## Essential resources that make college life easier.
+ - [https://basicneeds.ucr.edu](https://basicneeds.ucr.edu)
+ - date_published: 2024-05-08T17:37:26+00:00
+
+ ## Get High-Quality Medical Care from Student Health Services
+ - [http://campushealth.ucr.edu](http://campushealth.ucr.edu)
+ - date_published: 2024-06-26T23:42:01+00:00
+
+ ## University of California, Riverside
+ - [https://campusmap.ucr.edu](https://campusmap.ucr.edu)
+ - date_published: 2024-05-07T20:57:29.964689+00:00
+
+ ## Coronavirus (COVID-19)
+ - [http://campusreturn.ucr.edu](http://campusreturn.ucr.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Campus Emergency Status
+ - [https://campusstatus.ucr.edu](https://campusstatus.ucr.edu)
+ - date_published: 2024-04-03T06:15:18+00:00
+
+ ## Career Center
+ - [https://careers.ucr.edu](https://careers.ucr.edu)
+ - date_published: 2024-07-01T15:08:31+00:00
+
  ## CARE Program
  - [https://care.ucr.edu](https://care.ucr.edu)
  - date_published: 2024-05-07T20:57:01.705119+00:00
@@ -2499,1505 +4002,4 @@
  ## Colleges Business Office
  - [https://ugcbo.ucsd.edu](https://ugcbo.ucsd.edu)
  - date_published: 2024-03-06T18:58:38+00:00
-
- ## Undergraduate Education
- - [https://undergrad.ucsd.edu](https://undergrad.ucsd.edu)
- - date_published: 2024-02-28T00:03:27+00:00
-
- ## University Communications
- - [https://univcomms.ucsd.edu](https://univcomms.ucsd.edu)
- - date_published: 2024-05-07T21:02:06.679262+00:00
-
- ## University Centers
- - [https://universitycenters.ucsd.edu](https://universitycenters.ucsd.edu)
- - date_published: 2024-10-11T20:32:48+00:00
-
- ## UC San Diego Updates
- - [https://updates.ucsd.edu](https://updates.ucsd.edu)
- - date_published: 2024-06-06T15:25:24+00:00
-
- ## SINGLE SIGN-ON
- - [https://vac.ucsd.edu](https://vac.ucsd.edu)
- - date_published: 2024-10-14T20:58:51.424906+00:00
-
- ## Vice Chancellor for Health Sciences
- - [https://vchs.ucsd.edu](https://vchs.ucsd.edu)
- - date_published: 2024-07-01T23:32:59+00:00
-
- ## University of California San Diego
- - [https://volunteer50.ucsd.edu](https://volunteer50.ucsd.edu)
- - date_published: 2024-10-11T17:42:26+00:00
-
- ## Website Offline
- - [https://web.eng.ucsd.edu](https://web.eng.ucsd.edu)
- - date_published: 2015-11-18T21:37:53+00:00
-
- ## Nadir Weibel | HXI - Human-centered eXtended Intelligence
- - [http://weibel.ucsd.edu](http://weibel.ucsd.edu)
- - date_published: 2024-07-02T13:36:23.609223+00:00
-
- ## Willo
- - [https://willo.ucsd.edu](https://willo.ucsd.edu)
- - date_published: 2024-10-01T18:45:31+00:00
-
- ## Women's Center
- - [https://women.ucsd.edu](https://women.ucsd.edu)
- - date_published: 2024-09-09T17:39:57+00:00
-
- ## Writing Hub
- - [https://writinghub.ucsd.edu](https://writinghub.ucsd.edu)
- - date_published: 2024-09-24T17:02:14+00:00
-
- ## IT Services
- - [http://www-act.ucsd.edu](http://www-act.ucsd.edu)
- - date_published: 2024-06-29T07:42:12+00:00
-
- ## Main Page - CASS
- - [http://www.cass.ucsd.edu](http://www.cass.ucsd.edu)
- - date_published: 2023-07-20T22:53:31+00:00
-
- ## Home | Computer Science
- - [http://www-cse.ucsd.edu](http://www-cse.ucsd.edu)
- - date_published: 2024-07-02T03:02:51.764985+00:00
-
- ## Home | Computer Science
- - [http://www.cs.ucsd.edu](http://www.cs.ucsd.edu)
- - date_published: 2024-07-03T07:10:49.060926+00:00
-
- ## SVCL - Statistical Visual Computing Lab
- - [http://www.svcl.ucsd.edu](http://www.svcl.ucsd.edu)
- - date_published: 2024-06-22T09:04:29.341370+00:00
-
- ## UC San Diego Commencement 2024
- - [https://yearbook.ucsd.edu](https://yearbook.ucsd.edu)
- - date_published: 2024-10-14T20:56:44.799190+00:00
-
- ## Sign in - Google Accounts
- - [https://zjia.eng.ucsd.edu](https://zjia.eng.ucsd.edu)
- - date_published: 2024-09-05T23:20:52.294279+00:00
-
- ## UCSF Alumni
- - [https://alumni.ucsf.edu](https://alumni.ucsf.edu)
- - date_published: 2024-06-28T20:51:47+00:00
-
- ## Home
- - [https://archesprogram.ucsf.edu](https://archesprogram.ucsf.edu)
- - date_published: 2024-07-02T01:52:38+00:00
-
- ## Home
- - [http://audit.ucsf.edu](http://audit.ucsf.edu)
- - date_published: 2024-07-02T01:47:38+00:00
-
- ## Basic Needs for Students
- - [https://basicneeds.ucsf.edu](https://basicneeds.ucsf.edu)
- - date_published: 2024-07-02T01:38:52+00:00
-
- ## Douglas Lab | Research
- - [https://bionano.ucsf.edu](https://bionano.ucsf.edu)
- - date_published: 2024-08-19T18:40:02+00:00
-
- ## Department of Bioengineering and Therapeutic Sciences
- - [https://bts.ucsf.edu](https://bts.ucsf.edu)
- - date_published: 2024-07-02T01:49:02+00:00
-
- ## LibCal -
-        University of California, San Francisco
- - [https://calendars.library.ucsf.edu](https://calendars.library.ucsf.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.ucsf.edu](https://calendar.ucsf.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home
- - [https://calm.ucsf.edu](https://calm.ucsf.edu)
- - date_published: 2024-06-17T12:12:58+00:00
-
- ## Campus Life Services | Campus Life Services
- - [https://campuslifeserviceshome.ucsf.edu](https://campuslifeserviceshome.ucsf.edu)
- - date_published: 2024-05-07T21:08:30.121576+00:00
-
- ## Campus Life Services
- - [https://campuslifeservices.ucsf.edu](https://campuslifeservices.ucsf.edu)
- - date_published: 2021-10-18T16:19:39+00:00
-
- ## Home | UCSF Helen Diller Family Comprehensive Cancer Center
- - [https://cancer.ucsf.edu](https://cancer.ucsf.edu)
- - date_published: 2024-07-01T23:47:43+00:00
-
- ## What We Do
- - [https://careadvocate.ucsf.edu](https://careadvocate.ucsf.edu)
- - date_published: 2024-07-02T01:40:40+00:00
-
- ## Home
- - [https://career.ucsf.edu](https://career.ucsf.edu)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Welcome to the General Catalog of the University of California, San Francisco | UC San Francisco
- - [https://catalog.ucsf.edu](https://catalog.ucsf.edu)
- - date_published: 2024-05-07T21:09:22.619700+00:00
-
- ## Home | Office of the Chancellor
- - [https://chancellor.ucsf.edu](https://chancellor.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Clinical Pharmacy
- - [https://clinicalpharmacy.ucsf.edu](https://clinicalpharmacy.ucsf.edu)
- - date_published: 2024-07-02T01:49:11+00:00
-
- ## Clinical Trials at UCSF
- - [https://clinicaltrials.ucsf.edu](https://clinicaltrials.ucsf.edu)
- - date_published: 2024-05-07T21:09:34.197296+00:00
-
- ## Welcome
- - [https://compliance.ucsf.edu](https://compliance.ucsf.edu)
- - date_published: 2024-07-02T01:50:37+00:00
-
- ## COVID-19 Resources
- - [https://coronavirus.ucsf.edu](https://coronavirus.ucsf.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://courses.learning.ucsf.edu](https://courses.learning.ucsf.edu)
- - date_published: 2024-07-02T02:02:29.299563+00:00
-
- ## CLE Home | UCSF-CLE
- - [https://courses.ucsf.edu](https://courses.ucsf.edu)
- - date_published: 2024-07-02T01:55:00+00:00
-
- ## Home
- - [https://covidresearch.ucsf.edu](https://covidresearch.ucsf.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## What We Do
- - [https://cseo.ucsf.edu](https://cseo.ucsf.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## UCSF Clinical &amp; Translational Science Institute
- - [https://ctsi.ucsf.edu](https://ctsi.ucsf.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Center for Vulnerable Populations at ZSFG | Center for Vulnerable Populations
- - [https://cvp.ucsf.edu](https://cvp.ucsf.edu)
- - date_published: 2024-07-02T01:53:04+00:00
-
- ## Home | School of Dentistry
- - [https://dentistry.ucsf.edu](https://dentistry.ucsf.edu)
- - date_published: 2024-05-07T21:09:37.870275+00:00
-
- ## Engagement | Learning & Organization Development
- - [https://devlearning.ucsf.edu](https://devlearning.ucsf.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UCSF Directory
- - [https://directory.ucsf.edu](https://directory.ucsf.edu)
- - date_published: 2024-05-07T21:09:41.945405+00:00
-
- ## Welcome to the Office of Disability Access and Inclusion
- - [https://disability.ucsf.edu](https://disability.ucsf.edu)
- - date_published: 2024-07-02T01:33:20+00:00
-
- ## Homepage | Office of Diversity and Outreach UCSF
- - [https://diversity.ucsf.edu](https://diversity.ucsf.edu)
- - date_published: 2024-05-07T21:09:29.897306+00:00
-
- ## Sign In
- - [https://email.ucsf.edu](https://email.ucsf.edu)
- - date_published: 2024-05-07T21:09:17.604072+00:00
-
- ## Home
- - [https://emergency.ucsf.edu](https://emergency.ucsf.edu)
- - date_published: 2024-07-02T01:54:11+00:00
-
- ## Home
- - [https://engineering.ucsf.edu](https://engineering.ucsf.edu)
- - date_published: 2024-07-02T01:52:36+00:00
-
- ## Welcome
- - [https://epibiostat.ucsf.edu](https://epibiostat.ucsf.edu)
- - date_published: 2024-07-02T01:53:07+00:00
-
- ## EVCP Organization | Executive Vice Chancellor & Provost
- - [https://evcprovost.ucsf.edu](https://evcprovost.ucsf.edu)
- - date_published: 2024-05-07T21:09:06.650556+00:00
-
- ## Home | Office of Faculty and Academic Affairs
- - [https://facultyacademicaffairs.ucsf.edu](https://facultyacademicaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:29:22+00:00
-
- ## About Our Services
- - [https://fas.ucsf.edu](https://fas.ucsf.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## UCSF Student Financial Services
- - [https://finaid.ucsf.edu](https://finaid.ucsf.edu)
- - date_published: 2024-05-07T21:08:08.320300+00:00
-
- ## Home
- - [http://finance.ucsf.edu](http://finance.ucsf.edu)
- - date_published: 2024-07-02T01:49:53+00:00
-
- ## First Generation Support Services
- - [http://firstgen.ucsf.edu](http://firstgen.ucsf.edu)
- - date_published: 2024-07-02T01:40:28+00:00
-
- ## Your gift can ignite discovery and inspire cures
- - [https://giving.ucsf.edu](https://giving.ucsf.edu)
- - date_published: 2024-05-07T21:08:41.367080+00:00
-
- ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
- - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Graduate &amp; Professional Student Association
- - [http://gpsa.ucsf.edu](http://gpsa.ucsf.edu)
- - date_published: 2024-07-02T01:40:09+00:00
-
- ## UC San Francisco Graduate Division
- - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
- - date_published: 2024-05-07T21:09:36.451286+00:00
-
- ## UCSF Guides
- - [http://guides.ucsf.edu](http://guides.ucsf.edu)
- - date_published: 2024-07-02T01:55:06.742733+00:00
-
- ## Home
- - [https://healthcarefacilitators.ucsf.edu](https://healthcarefacilitators.ucsf.edu)
- - date_published: 2024-07-02T02:02:04+00:00
-
- ## Home - UCSF - Service Portal
- - [https://help.ucsf.edu](https://help.ucsf.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## UCSF Human Resources | UCSF Human Resources
- - [https://hr.ucsf.edu](https://hr.ucsf.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://identity.ucsf.edu](https://identity.ucsf.edu)
- - date_published: 2024-05-07T21:09:27.329315+00:00
-
- ## About Us
- - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage | intelligent imaging
- - [https://intelligentimaging.ucsf.edu](https://intelligentimaging.ucsf.edu)
- - date_published: 2024-09-01T11:16:27+00:00
-
- ## PIPE
- - [https://interprofessional.ucsf.edu](https://interprofessional.ucsf.edu)
- - date_published: 2024-07-02T01:52:29+00:00
-
- ## Home
- - [http://isso.ucsf.edu](http://isso.ucsf.edu)
- - date_published: 2024-07-02T01:36:46+00:00
-
- ## Home | UCSF IT
- - [https://it.ucsf.edu](https://it.ucsf.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Executive Leadership Support Network (ELSN)
- - [https://leadershipsupport.ucsf.edu](https://leadershipsupport.ucsf.edu)
- - date_published: 2024-07-02T01:41:07+00:00
-
- ## Learning Resource Services
- - [http://learn.ucsf.edu](http://learn.ucsf.edu)
- - date_published: 2024-07-02T01:40:38+00:00
-
- ## Office of Legal Affairs
- - [https://legal.ucsf.edu](https://legal.ucsf.edu)
- - date_published: 2024-05-07T21:09:13.745970+00:00
-
- ## Welcome to the LGBT Resource Center
- - [http://lgbt.ucsf.edu](http://lgbt.ucsf.edu)
- - date_published: 2024-07-02T01:38:37+00:00
-
- ## UCSF Library Help Center
- - [https://libraryhelp.ucsf.edu](https://libraryhelp.ucsf.edu)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Home - UCSF Library
- - [https://library.ucsf.edu](https://library.ucsf.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UCSF Magazine
- - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
- - date_published: 2024-05-07T21:09:44.345297+00:00
-
- ## Your gift can ignite discovery and inspire cures
- - [https://makeagift.ucsf.edu](https://makeagift.ucsf.edu)
- - date_published: 2024-07-02T01:40:52.391257+00:00
-
- ## UCSF Medical Education Home | UCSF Medical Education
- - [https://meded.ucsf.edu](https://meded.ucsf.edu)
- - date_published: 2024-07-02T00:18:19+00:00
-
- ## Home | UCSF School of Medicine
- - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
- - date_published: 2024-05-07T21:09:09.026443+00:00
-
- ## Welcome to the Multicultural Resource Center
- - [http://mrc.ucsf.edu](http://mrc.ucsf.edu)
- - date_published: 2024-07-02T01:40:14+00:00
-
- ## UCSF Mass Spectrometry Facility
- - [http://msf.ucsf.edu](http://msf.ucsf.edu)
- - date_published: 2024-02-22T19:59:17+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
- - date_published: 2024-05-07T21:08:39.463840+00:00
-
- ## MyFamily at UCSF
- - [https://myfamily.ucsf.edu](https://myfamily.ucsf.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://netpartner.ucsf.edu](https://netpartner.ucsf.edu)
- - date_published: 2024-07-02T01:48:41.626403+00:00
-
- ## Home
- - [https://neurosurgery.ucsf.edu](https://neurosurgery.ucsf.edu)
- - date_published: 2024-07-02T01:35:56+00:00
-
- ## Home
- - [https://nic.ucsf.edu](https://nic.ucsf.edu)
- - date_published: 2024-05-02T10:08:50.424455+00:00
-
- ## Home | UCSF School of Nursing
- - [https://nursing.ucsf.edu](https://nursing.ucsf.edu)
- - date_published: 2024-05-07T21:09:24.970801+00:00
-
- ## Home
- - [http://ombuds.ucsf.edu](http://ombuds.ucsf.edu)
- - date_published: 2024-07-02T01:39:56+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://ophd.ucsf.edu](https://ophd.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## OCPD Opportunities and Job Board
- - [https://opportunities.ucsf.edu](https://opportunities.ucsf.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## PAB at UCSF
- - [https://pab.ucsf.edu](https://pab.ucsf.edu)
- - date_published: 2024-07-02T01:54:14+00:00
-
- ## Center for Community Engagement
- - [https://partnerships.ucsf.edu](https://partnerships.ucsf.edu)
- - date_published: 2024-07-02T01:52:57+00:00
-
- ## The Tudors
- - [https://pcounterwebdeposit.ucsf.edu](https://pcounterwebdeposit.ucsf.edu)
- - date_published: 2023-03-12T15:09:12+00:00
-
- ## UCSF School of Pharmacy
- - [https://pharmacy.ucsf.edu](https://pharmacy.ucsf.edu)
- - date_published: 2024-05-07T21:08:11.071638+00:00
-
- ## Department of Pharmaceutical Chemistry
- - [https://pharmchem.ucsf.edu](https://pharmchem.ucsf.edu)
- - date_published: 2024-07-02T01:49:08+00:00
-
- ## PharmD Degree Program
- - [https://pharmd.ucsf.edu](https://pharmd.ucsf.edu)
- - date_published: 2024-07-02T01:48:39+00:00
-
- ## List of Sites
- - [https://pharm.ucsf.edu](https://pharm.ucsf.edu)
- - date_published: 2024-07-02T01:40:39+00:00
-
- ## UCSF Brand Portal
- - [https://photolibrary.ucsf.edu](https://photolibrary.ucsf.edu)
- - date_published: 2024-07-02T01:49:48.240505+00:00
-
- ## The Power of In-House Consulting
- - [https://pmo.ucsf.edu](https://pmo.ucsf.edu)
- - date_published: 2024-07-02T01:50:04+00:00
-
- ## Home
- - [https://police.ucsf.edu](https://police.ucsf.edu)
- - date_published: 2024-05-07T21:08:45.814832+00:00
-
- ## Home | Campus Administrative Policies
- - [https://policies.ucsf.edu](https://policies.ucsf.edu)
- - date_published: 2024-05-07T21:08:12.703899+00:00
-
- ## Home
- - [https://pophealth.ucsf.edu](https://pophealth.ucsf.edu)
- - date_published: 2024-07-02T01:53:17+00:00
-
- ## UCSF Postdocs
- - [https://postdocs.ucsf.edu](https://postdocs.ucsf.edu)
- - date_published: 2024-05-07T21:08:43.275417+00:00
-
- ## UCSF Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucsf.edu](https://profiles.ucsf.edu)
- - date_published: 2024-05-07T21:08:27.094538+00:00
-
- ## Welcome!
- - [https://pssp.ucsf.edu](https://pssp.ucsf.edu)
- - date_published: 2024-07-02T01:49:42+00:00
-
- ## UCSF Department of Psychiatry and Behavioral Sciences
- - [https://psychiatry.ucsf.edu](https://psychiatry.ucsf.edu)
- - date_published: 2024-07-02T01:38:57+00:00
-
- ## Welcome to the UCSF Psychiatry Intranet | UCSF Psychiatry and Behavioral Sciences Intranet
- - [http://psychintranet.ucsf.edu](http://psychintranet.ucsf.edu)
- - date_published: 2024-07-02T00:45:03+00:00
-
- ## UCSF Department of Psychiatry and Behavioral Sciences
- - [https://psych.ucsf.edu](https://psych.ucsf.edu)
- - date_published: 2024-05-07T21:08:51.999465+00:00
-
- ## UCSF Department of Physical Therapy and Rehabilitation Science
- - [https://ptrehab.ucsf.edu](https://ptrehab.ucsf.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home · Quantitative Biosciences Consortium (QBC)
- - [https://qbc.ucsf.edu](https://qbc.ucsf.edu)
- - date_published: 2024-07-02T01:20:29+00:00
-
- ## QBI | https://qbi.ucsf.edu/Home
- - [https://qbi.ucsf.edu](https://qbi.ucsf.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Welcome
- - [http://rajlab.ucsf.edu](http://rajlab.ucsf.edu)
- - date_published: 2024-09-03T21:48:20+00:00
-
- ## Home
- - [https://realestate.ucsf.edu](https://realestate.ucsf.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## HomePage
- - [https://registrar.ucsf.edu](https://registrar.ucsf.edu)
- - date_published: 2024-05-07T21:08:54.318403+00:00
-
- ## Home
- - [https://research.ucsf.edu](https://research.ucsf.edu)
- - date_published: 2024-05-07T21:09:46.218415+00:00
-
- ## Restorative Justice Practices at UCSF
- - [https://restorativejustice.ucsf.edu](https://restorativejustice.ucsf.edu)
- - date_published: 2024-07-02T01:40:21+00:00
-
- ## Supporting Cores &amp; Shared Resource Laboratories
- - [https://rrp.ucsf.edu](https://rrp.ucsf.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Rx for Change: Home
- - [https://rxforchange.ucsf.edu](https://rxforchange.ucsf.edu)
- - date_published: 2024-07-02T01:48:50.613632+00:00
-
- ## Student Academic Affairs
- - [https://saa.ucsf.edu](https://saa.ucsf.edu)
- - date_published: 2024-07-02T01:35:55+00:00
-
- ## Shibboleth Authentication Request
- - [http://scholar.ucsf.edu](http://scholar.ucsf.edu)
- - date_published: 2024-07-02T01:54:55.724491+00:00
-
- ## HOME
- - [http://sds.ucsf.edu](http://sds.ucsf.edu)
- - date_published: 2024-07-02T01:37:17+00:00
-
- ## UCSF School of Medicine Vice Dean's Office at ZSFG
- - [http://sfgh.ucsf.edu](http://sfgh.ucsf.edu)
- - date_published: 2024-07-02T01:48:38+00:00
-
- ## Welcome to the Office for the Prevention of Harassment and Discrimination (OPHD)
- - [https://shpr.ucsf.edu](https://shpr.ucsf.edu)
- - date_published: 2024-07-02T01:50:16+00:00
-
- ## Welcome to the UCSF Center for ASD and NDDs | The UCSF Center for ASD and NDDs
- - [https://star.ucsf.edu](https://star.ucsf.edu)
- - date_published: 2024-07-02T00:24:10+00:00
-
- ## Student Academic Affairs
- - [http://studentaffairs.ucsf.edu](http://studentaffairs.ucsf.edu)
- - date_published: 2024-07-02T01:40:12+00:00
-
- ## Student Life
- - [https://studentlife.ucsf.edu](https://studentlife.ucsf.edu)
- - date_published: 2024-07-02T01:40:16+00:00
-
- ## Welcome to Student Mental Health and Wellbeing
- - [https://studentmentalhealth.ucsf.edu](https://studentmentalhealth.ucsf.edu)
- - date_published: 2024-07-02T01:34:51+00:00
-
- ## HOME
- - [https://success.ucsf.edu](https://success.ucsf.edu)
- - date_published: 2024-05-07T21:07:48.715308+00:00
-
- ## Home Page
- - [http://synapse.ucsf.edu](http://synapse.ucsf.edu)
- - date_published: 2024-07-01T19:46:38+00:00
-
- ## tiny.ucsf.edu home
- - [https://tiny.ucsf.edu](https://tiny.ucsf.edu)
- - date_published: 2024-07-02T01:55:11.626802+00:00
-
- ## Home | UCSF Together
- - [https://together.ucsf.edu](https://together.ucsf.edu)
- - date_published: 2024-05-07T21:07:53.774272+00:00
-
- ## Learning &amp; Organization Development
- - [https://training.ucsf.edu](https://training.ucsf.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UCSF Climate
- - [https://ucsfclimate.ucsf.edu](https://ucsfclimate.ucsf.edu)
- - date_published: 2024-07-02T01:54:02+00:00
-
- ## Home | UC San Francisco
- - [https://ucsf.edu](https://ucsf.edu)
- - date_published: 2023-10-25T19:01:18.504331+00:00
-
- ## What We Do
- - [https://undocu.ucsf.edu](https://undocu.ucsf.edu)
- - date_published: 2024-07-02T01:40:18+00:00
-
- ## Shibboleth Authentication Request
- - [https://uptodate.ucsf.edu](https://uptodate.ucsf.edu)
- - date_published: 2024-07-02T01:54:53.644796+00:00
-
- ## Vale_Lab_Homepage
- - [http://valelab4.ucsf.edu](http://valelab4.ucsf.edu)
- - date_published: 2014-11-04T23:17:09+00:00
-
- ## Welcome
- - [http://veterans.ucsf.edu](http://veterans.ucsf.edu)
- - date_published: 2024-07-02T01:40:07+00:00
-
- ## Homepage
- - [https://websites.ucsf.edu](https://websites.ucsf.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Industry Documents Library
- - [https://www.industrydocuments.ucsf.edu](https://www.industrydocuments.ucsf.edu)
- - date_published: 2024-06-30T02:47:42.092119+00:00
-
- ## RBVI Home Page
- - [https://www.rbvi.ucsf.edu](https://www.rbvi.ucsf.edu)
- - date_published: 2019-03-08T00:26:55+00:00
-
- ## Home
- - [https://gradweb.ucumberlands.edu](https://gradweb.ucumberlands.edu)
- - date_published: 2024-02-08T17:58:04.593788+00:00
-
- ## Home
- - [https://ucumberlands.edu](https://ucumberlands.edu)
- - date_published: 2024-05-07T21:10:08.991388+00:00
-
- ## Events Calendar
- - [https://calendar.udallas.edu](https://calendar.udallas.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## U of Dallas | Continuing Ed
- - [https://continuinged.udallas.edu](https://continuinged.udallas.edu)
- - date_published: 2024-09-18T08:32:21.717071+00:00
-
- ## University of Dallas News - American Council of Trustees and Alumni
- - [https://news.udallas.edu](https://news.udallas.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Tower Magazine | University of Dallas
- - [https://tower.udallas.edu](https://tower.udallas.edu)
- - date_published: 2024-09-18T07:15:18+00:00
-
- ## University of Dallas - The Catholic University for Independent Thinkers
- - [https://udallas.edu](https://udallas.edu)
- - date_published: 2024-05-01T03:33:02.211564+00:00
-
- ## Office of Development and University Relations
- - [https://udrelations.udallas.edu](https://udrelations.udallas.edu)
- - date_published: 2024-09-18T08:32:47.945319+00:00
-
- ## Index Page - EECIS Accounts System
- - [https://accounts.eecis.udel.edu](https://accounts.eecis.udel.edu)
- - date_published: 2024-09-02T10:41:12.174055+00:00
-
- ## Home - Advising Central
- - [https://advising.udel.edu](https://advising.udel.edu)
- - date_published: 2024-05-07T21:10:50.020124+00:00
-
- ## Ask the Library - Ask the Library
- - [https://ask.lib.udel.edu](https://ask.lib.udel.edu)
- - date_published: 2024-07-02T02:03:48.243088+00:00
-
- ## College of Agriculture & Natural Resources | University of Delaware
- - [http://canr.udel.edu](http://canr.udel.edu)
- - date_published: 2024-07-01T22:57:57+00:00
-
- ## University of Delaware
- - [https://cas.nss.udel.edu](https://cas.nss.udel.edu)
- - date_published: 2018-01-11T20:27:17+00:00
-
- ## DSpace Repository :: Home
- - [http://dspace.udel.edu](http://dspace.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Events Calendar - University of Delaware
- - [https://events.udel.edu](https://events.udel.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Library, Museums and Press – Online Exhibitions
- - [https://exhibitions.lib.udel.edu](https://exhibitions.lib.udel.edu)
- - date_published: 2024-07-02T02:04:14.498023+00:00
-
- ## Faculty Handbook | Faculty Senate
- - [https://facultyhandbook.udel.edu](https://facultyhandbook.udel.edu)
- - date_published: 2024-07-02T01:52:44+00:00
-
- ## Finding Aids for Archival Collections | Finding Aids for Archival Collections
- - [https://findingaids.lib.udel.edu](https://findingaids.lib.udel.edu)
- - date_published: 2024-07-02T02:04:23.381436+00:00
-
- ## University of Delaware Graduate College | Graduate College | University of Delaware
- - [https://grad.udel.edu](https://grad.udel.edu)
- - date_published: 2024-05-07T21:10:33.985298+00:00
-
- ## Research Guides
- - [http://guides.lib.udel.edu](http://guides.lib.udel.edu)
- - date_published: 2024-07-02T02:04:05.591529+00:00
-
- ## UD Library, Museums and Press
- - [https://library.udel.edu](https://library.udel.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Lerner College Intranet – University of Delaware
- - [https://my.lerner.udel.edu](https://my.lerner.udel.edu)
- - date_published: 2024-07-02T02:06:02.980467+00:00
-
- ## My UD
- - [https://my.udel.edu](https://my.udel.edu)
- - date_published: 2024-05-07T21:10:20.790392+00:00
-
- ## Online Degree Programs | University of Delaware
- - [https://online.udel.edu](https://online.udel.edu)
- - date_published: 2024-05-07T21:10:28.553956+00:00
-
- ## Home - University of Delaware Div. of Professional and Continuing Studies
- - [https://pcs.udel.edu](https://pcs.udel.edu)
- - date_published: 2024-05-07T21:10:35.232512+00:00
-
- ## University of Delaware Research Office
- - [https://research.udel.edu](https://research.udel.edu)
- - date_published: 2024-05-07T21:10:45.959700+00:00
-
- ## Service Portal Home
- - [https://services.udel.edu](https://services.udel.edu)
- - date_published: 2024-07-02T02:04:45.918512+00:00
-
- ## WordPress at UD |
- - [https://sites.udel.edu](https://sites.udel.edu)
- - date_published: 2024-05-07T21:10:31.254051+00:00
-
- ## ECE/CIS
- - [https://staff.eecis.udel.edu](https://staff.eecis.udel.edu)
- - date_published: 2024-08-16T19:42:00+00:00
-
- ## University of Delaware Central Authentication Service - Login
- - [http://staffweb.lib.udel.edu](http://staffweb.lib.udel.edu)
- - date_published: 2024-07-02T02:03:51.897412+00:00
-
- ## UD Capture | University of Delaware
- - [https://udcapture.udel.edu](https://udcapture.udel.edu)
- - date_published: 2024-07-02T01:47:18+00:00
-
- ## University of Delaware
- - [https://udel.edu](https://udel.edu)
- - date_published: 2023-12-23T17:33:38.138635+00:00
-
- ## UDLib/SEARCH
- - [https://udlibsearch.lib.udel.edu](https://udlibsearch.lib.udel.edu)
- - date_published: 2024-07-02T02:04:03.027418+00:00
-
- ## University of Delaware Press
- - [https://udpress.udel.edu](https://udpress.udel.edu)
- - date_published: 2024-07-02T02:03:49.757729+00:00
-
- ## DSpace Repository :: Home
- - [https://udspace.udel.edu](https://udspace.udel.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## | University Studies
- - [http://ust.udel.edu](http://ust.udel.edu)
- - date_published: 2024-07-02T02:05:58.798849+00:00
-
- ## Writing Center
- - [https://writingcenter.udel.edu](https://writingcenter.udel.edu)
- - date_published: 2024-07-02T02:05:02+00:00
-
- ## University of Delaware
- - [https://www1.udel.edu](https://www1.udel.edu)
- - date_published: 2024-05-07T21:10:24.567419+00:00
-
- ## AAP
- - [https://www.aap.udel.edu](https://www.aap.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Joseph R. Biden, Jr. School of Public Policy & Administration
- - [https://www.bidenschool.udel.edu](https://www.bidenschool.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## College of Arts & Sciences
- - [https://www.cas.udel.edu](https://www.cas.udel.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Center for Composite Materials - University of Delaware
- - [https://www.ccm.udel.edu](https://www.ccm.udel.edu)
- - date_published: 2024-07-02T02:05:05.336896+00:00
-
- ## Home - College of Education & Human Development
- - [http://www.cehd.udel.edu](http://www.cehd.udel.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## College of Earth, Ocean & Environment | University of Delaware
- - [http://www.ceoe.udel.edu](http://www.ceoe.udel.edu)
- - date_published: 2024-07-01T22:58:22+00:00
-
- ## Computer & Information Sciences at the University of Delaware
- - [https://www.cis.udel.edu](https://www.cis.udel.edu)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Home | Electrical & Computer Engineering
- - [http://www.ece.udel.edu](http://www.ece.udel.edu)
- - date_published: 2024-09-02T10:41:10.359822+00:00
-
- ## ECE/CIS
- - [https://www.eecis.udel.edu](https://www.eecis.udel.edu)
- - date_published: 2024-05-24T22:39:08.772559+00:00
-
- ## UD College of Engineering
- - [http://www.engr.udel.edu](http://www.engr.udel.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## OEIP | University of Delaware
- - [http://www.oeip.udel.edu](http://www.oeip.udel.edu)
- - date_published: 2024-07-01T23:40:16+00:00
-
- ## Join us at OLLI! - Osher Lifelong Learning Institute %
- - [https://www.olli.udel.edu](https://www.olli.udel.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home - Undergraduate Research Program
- - [https://www.urp.udel.edu](https://www.urp.udel.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Universitat de Girona > UdG
- - [http://www.udg.edu](http://www.udg.edu)
- - date_published: 2024-07-02T10:36:06.638771+00:00
-
- ## ONE.UF
- - [https://one.uf.edu](https://one.uf.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## Accessibility at UF
- - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
- - date_published: 2024-05-07T21:11:08.489230+00:00
-
- ## UF ADA Compliance
- - [https://ada.ufl.edu](https://ada.ufl.edu)
- - date_published: 2024-07-02T02:17:54.009807+00:00
-
- ## University of Florida Office of Admissions
- - [https://admissions.ufl.edu](https://admissions.ufl.edu)
- - date_published: 2024-07-02T02:06:22.599170+00:00
-
- ## Welcome
- - [https://advancement.clas.ufl.edu](https://advancement.clas.ufl.edu)
- - date_published: 2024-07-07T08:12:01.425998+00:00
-
- ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:21.398370+00:00
-
- ## Welcome to the Center for African Studies
- - [http://africa.ufl.edu](http://africa.ufl.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://ahc-webservices-a2.sites.medinfo.ufl.edu](https://ahc-webservices-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:14:03+00:00
-
- ## AI - University of Florida
- - [https://ai.ufl.edu](https://ai.ufl.edu)
- - date_published: 2024-07-02T02:11:02.126501+00:00
-
- ## UF IT Alerts Dashboard
- - [https://alerts.it.ufl.edu](https://alerts.it.ufl.edu)
- - date_published: 2024-07-02T02:07:54.283886+00:00
-
- ## Alumni & Giving » College of Public Health and Health Professions » University of Florida
- - [https://alumni-giving.phhp.ufl.edu](https://alumni-giving.phhp.ufl.edu)
- - date_published: 2024-07-01T21:22:22+00:00
-
- ## Home
- - [https://antiracism.ufl.edu](https://antiracism.ufl.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Welcome
- - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
- - date_published: 2024-05-08T10:03:56.364600+00:00
-
- ## Biotility - Biotech Professional Development & Credentialing
- - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
- - date_published: 2024-10-22T03:51:42.004239+00:00
-
- ## UF/IFAS Blogs Homepage - What's Happening Around Florida
- - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
- - [https://bme.ufl.edu](https://bme.ufl.edu)
- - date_published: 2024-05-07T21:11:14.981767+00:00
-
- ## Branding Portal - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://branding.ifas.ufl.edu](https://branding.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:06.440779+00:00
-
- ## Calendar - University of Florida
- - [https://calendar.ufl.edu](https://calendar.ufl.edu)
- - date_published: 2024-07-02T00:06:16+00:00
-
- ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://cals.ufl.edu](http://cals.ufl.edu)
- - date_published: 2024-06-16T22:50:43.417250+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
- - date_published: 2023-10-25T19:01:26.632166+00:00
-
- ## Campus Closures
- - [https://campusclosures.ufl.edu](https://campusclosures.ufl.edu)
- - date_published: 2024-07-02T02:11:26.723216+00:00
-
- ## UF Campus Map
- - [https://campusmap.ufl.edu](https://campusmap.ufl.edu)
- - date_published: 2024-03-27T14:23:43+00:00
-
- ## University of Florida Catalog < University of Florida
- - [https://catalog.ufl.edu](https://catalog.ufl.edu)
- - date_published: 2024-06-28T21:03:19+00:00
-
- ## Home - Computer & Information Science & Engineering
- - [https://cise.ufl.edu](https://cise.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## College of Liberal Arts & Sciences
- - [http://clas.ufl.edu](http://clas.ufl.edu)
- - date_published: 2024-07-07T08:11:50.445375+00:00
-
- ## GatorCloud - University of Florida
- - [https://cloud.it.ufl.edu](https://cloud.it.ufl.edu)
- - date_published: 2024-07-02T02:06:14.155895+00:00
-
- ## IFAS-CLUE
- - [https://clue.ifas.ufl.edu](https://clue.ifas.ufl.edu)
- - date_published: 2024-10-14T23:51:28+00:00
-
- ## Tiny Tech
- - [https://cnem.chem.ufl.edu](https://cnem.chem.ufl.edu)
- - date_published: 2021-11-09T02:11:06+00:00
-
- ## Center for Natural Products, Drug Discovery and Development (CNPD3) » College of Pharmacy » University of Florida
- - [https://cnpd3.pharmacy.ufl.edu](https://cnpd3.pharmacy.ufl.edu)
- - date_published: 2024-06-28T15:43:26+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://com-acb-liao.sites.medinfo.ufl.edu](https://com-acb-liao.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:31.450474+00:00
-
- ## Forms & Requests
- - [https://commsupport.clas.ufl.edu](https://commsupport.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:59.501755+00:00
-
- ## compliance.ufl.edu - Compliance & Ethics - University of Florida
- - [https://compliance.ufl.edu](https://compliance.ufl.edu)
- - date_published: 2024-10-15T06:43:21.120010+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu](https://com-psychiatry-dcf-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-10-25T21:04:26+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [http://csea.phhp.ufl.edu](http://csea.phhp.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## MedConsults » College of Medicine » University of Florida
- - [https://dcf.psychiatry.ufl.edu](https://dcf.psychiatry.ufl.edu)
- - date_published: 2024-06-18T21:55:40+00:00
-
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://directory.ifas.ufl.edu](https://directory.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:45.890823+00:00
-
- ## Directory » University of Florida
- - [https://directory.ufl.edu](https://directory.ufl.edu)
- - date_published: 2024-07-02T02:07:51.489872+00:00
-
- ## Disability Resource Center - Disability
- - [https://disability.ufl.edu](https://disability.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## UF/IFAS Disaster Preparation & Recovery - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://disaster.ifas.ufl.edu](https://disaster.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:03.020199+00:00
-
- ## Ask IFAS - Powered by EDIS
- - [https://edis.ifas.ufl.edu](https://edis.ifas.ufl.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## eLearning - University of Florida
- - [https://elearning.ufl.edu](https://elearning.ufl.edu)
- - date_published: 2024-07-02T02:07:58.545229+00:00
-
- ## UF Election Lab
- - [https://election.lab.ufl.edu](https://election.lab.ufl.edu)
- - date_published: 2024-10-14T21:14:49.282029+00:00
-
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://entnemdept.ufl.edu](https://entnemdept.ufl.edu)
- - date_published: 2024-10-15T05:48:11.814538+00:00
-
- ## Entomology and Nematology Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://entomology.ifas.ufl.edu](http://entomology.ifas.ufl.edu)
- - date_published: 2024-10-15T05:48:07.135878+00:00
-
- ## University of Florida Experts | Search & Connect
- - [https://experts.ufl.edu](https://experts.ufl.edu)
- - date_published: 2024-05-07T21:11:34.496371+00:00
-
- ## UF/IFAS Extension Administration - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://extadmin.ifas.ufl.edu](https://extadmin.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:35.898558+00:00
-
- ## Faculty Websites – Herbert Wertheim College of Engineering
- - [https://faculty.eng.ufl.edu](https://faculty.eng.ufl.edu)
- - date_published: 2024-08-06T10:26:00.307799+00:00
-
- ## Field and Fork Website
- - [https://fieldandfork.ufl.edu](https://fieldandfork.ufl.edu)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## ArchivesSpace Public Interface | Special & Area Studies Collections
- - [https://findingaids.uflib.ufl.edu](https://findingaids.uflib.ufl.edu)
- - date_published: 2024-06-14T04:11:54.363246+00:00
-
- ## Florida Museum
- - [https://floridamuseum.ufl.edu](https://floridamuseum.ufl.edu)
- - date_published: 2023-11-09T19:00:22.567256+00:00
-
- ## Florida SeaGrant Programs - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://flseagrant.ifas.ufl.edu](http://flseagrant.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:29.562040+00:00
-
- ## Food and Resource Economics Department - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://fred.ifas.ufl.edu](https://fred.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:33.872122+00:00
-
- ## Dr. Jie Fu – Assistant Professor at ECE Florida
- - [https://fujie.ece.ufl.edu](https://fujie.ece.ufl.edu)
- - date_published: 2024-09-13T19:54:49.243023+00:00
-
- ## Gulf Coast Research and Education Center - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://gcrec.ifas.ufl.edu](http://gcrec.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:31.793095+00:00
-
- ## Wireless@UF - Get Online
- - [https://getonline.ufl.edu](https://getonline.ufl.edu)
- - date_published: 2024-07-02T02:07:52.798120+00:00
-
- ## IFAS Advancement Office - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://give.ifas.ufl.edu](https://give.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:53.378272+00:00
-
- ## Graduate Catalog  < University of Florida
- - [http://gradcatalog.ufl.edu](http://gradcatalog.ufl.edu)
- - date_published: 2024-06-17T20:04:27+00:00
-
- ## The Graduate School - University of Florida
- - [http://graduateschool.ufl.edu](http://graduateschool.ufl.edu)
- - date_published: 2024-07-02T02:18:23.621879+00:00
-
- ## LibGuides: home: Home
- - [https://guides.law.ufl.edu](https://guides.law.ufl.edu)
- - date_published: 2024-10-18T22:27:29.761367+00:00
-
- ## handbook.aa.ufl.edu - Faculty Handbook - University of Florida
- - [http://handbook.aa.ufl.edu](http://handbook.aa.ufl.edu)
- - date_published: 2024-07-02T02:19:13.447830+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://hr.ifas.ufl.edu](https://hr.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:55.840843+00:00
-
- ## IFAS Communications - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://ics.ifas.ufl.edu](https://ics.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:23.630749+00:00
-
- ## Identity & Access Management Services » University of Florida
- - [https://identity.it.ufl.edu](https://identity.it.ufl.edu)
- - date_published: 2024-07-02T02:08:10.255439+00:00
-
- ## Home
- - [https://ifasbooks.ifas.ufl.edu](https://ifasbooks.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:27.774795+00:00
-
- ## Institute of Food and Agricultural Sciences - University of Florida
- - [https://ifas.ufl.edu](https://ifas.ufl.edu)
- - date_published: 2024-06-14T23:31:44.295638+00:00
-
- ## Procedures and Policies - UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://imm.ifas.ufl.edu](https://imm.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:21.320326+00:00
-
- ## Home - UF Innovate
- - [https://innovate.research.ufl.edu](https://innovate.research.ufl.edu)
- - date_published: 2024-06-17T04:16:53.822673+00:00
-
- ## AdvancementHUB
- - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
- - date_published: 2024-07-02T02:19:57.569762+00:00
-
- ## Institutional Planning and Research
- - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
- - date_published: 2024-07-02T01:53:41+00:00
-
- ## UF/IFAS Information Technology
- - [http://it.ifas.ufl.edu](http://it.ifas.ufl.edu)
- - date_published: 2022-12-30T18:49:20+00:00
-
- ## Information Technology - University of Florida
- - [https://it.ufl.edu](https://it.ufl.edu)
- - date_published: 2024-07-02T02:07:49.776780+00:00
-
- ## Careers
- - [https://jobs.ufl.edu](https://jobs.ufl.edu)
- - date_published: 2024-07-02T02:11:23.301447+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date_published: 2024-02-08T16:20:48.739035+00:00
-
- ## Health Science Center Libraries » UF Libraries » University of Florida
- - [https://library.health.ufl.edu](https://library.health.ufl.edu)
- - date_published: 2024-08-16T20:05:57+00:00
-
- ## eLearning - University of Florida
- - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
- - date_published: 2024-07-02T02:19:19.447279+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:06.799717+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:21:43+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi.ufl.edu](https://mbi.ufl.edu)
- - date_published: 2024-05-07T21:11:20.615371+00:00
-
- ## Forms & Requests
- - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:57.753234+00:00
-
- ## Mediasite
- - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
- - date_published: 2015-08-16T15:00:32+00:00
-
- ## College of Medicine » University of Florida
- - [http://med.ufl.edu](http://med.ufl.edu)
- - date_published: 2024-10-25T21:29:27+00:00
-
- ## Microbiology and Cell Science, University of Florida - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://microcell.ufl.edu](http://microcell.ufl.edu)
- - date_published: 2024-10-15T05:48:09.917681+00:00
-
- ## Welcome to myUFL
- - [https://my.ufl.edu](https://my.ufl.edu)
- - date_published: 2022-12-01T23:07:50+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:15:02+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
- - date_published: 2024-05-07T21:11:17.576118+00:00
-
- ## CLAS News
- - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
- - date_published: 2024-07-02T02:10:51.497253+00:00
-
- ## Current News
- - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
- - date_published: 2024-07-02T02:19:46.370243+00:00
-
- ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
- - [https://news.it.ufl.edu](https://news.it.ufl.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date_published: 2024-01-04T17:18:14.446846+00:00
-
- ## ONE.UF
- - [https://one.ufl.edu](https://one.ufl.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## InCommon Federation Discovery Service
- - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
- - date_published: 2024-07-02T02:08:20.186571+00:00
-
- ## UF/IFAS | PDEC | Program Development & Evaluation Center
- - [https://pdec.ifas.ufl.edu](https://pdec.ifas.ufl.edu)
- - date_published: 2024-10-15T06:40:23.195625+00:00
-
- ## Home
- - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
- - date_published: 2024-07-02T02:19:17.573739+00:00
-
- ## UF/IFAS Office of Human Resources - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://personnel.ifas.ufl.edu](http://personnel.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:09.202938+00:00
-
- ## College of Pharmacy » University of Florida
- - [http://pharmacy.ufl.edu](http://pharmacy.ufl.edu)
- - date_published: 2024-10-19T04:47:43.627221+00:00
-
- ## Academic Integrity » College of Public Health and Health Professions » University of Florida
- - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T23:25:15+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## Fall 2023
- - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
- - date_published: 2024-07-02T02:10:36.550557+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:37:08+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp.ufl.edu](https://phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:59.230316+00:00
-
- ## Directory » University of Florida
- - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
- - date_published: 2024-07-02T02:19:07.703974+00:00
-
- ## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date_published: 2006-05-26T17:00:41+00:00
-
- ## Regulation and Policy Hub
- - [https://policy.ufl.edu](https://policy.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## Privacy » University of Florida
- - [https://privacy.ufl.edu](https://privacy.ufl.edu)
- - date_published: 2024-05-07T21:11:12.619267+00:00
-
- ## UF/IFAS Programs and Projects - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://programs.ifas.ufl.edu](https://programs.ifas.ufl.edu)
- - date_published: 2024-09-15T15:18:48.009200+00:00
-
- ## Support Home Page
- - [https://publicrecords.ufl.edu](https://publicrecords.ufl.edu)
- - date_published: 2024-07-02T02:06:16.719156+00:00
-
- ## RecSports | University of Florida, Department of Recreation Sports
- - [https://recsports.ufl.edu](https://recsports.ufl.edu)
- - date_published: 2024-07-02T02:10:49.105837+00:00
-
- ## Regulation and Policy Hub
- - [https://regulations.ufl.edu](https://regulations.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## UF Conduct and Concern Reporting
- - [https://report.ufl.edu](https://report.ufl.edu)
- - date_published: 2024-07-02T02:10:55.034023+00:00
-
- ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:40.362339+00:00
-
- ## Office of Research » College of Medicine » University of Florida
- - [https://research.med.ufl.edu](https://research.med.ufl.edu)
- - date_published: 2024-07-01T20:29:32+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:54.372575+00:00
-
- ## University of Florida Research
- - [https://research.ufl.edu](https://research.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Search » University of Florida
- - [https://search.ufl.edu](https://search.ufl.edu)
- - date_published: 2024-05-07T21:11:36.945840+00:00
-
- ## Information Security – University of Florida
- - [https://security.ufl.edu](https://security.ufl.edu)
- - date_published: 2024-05-07T21:10:52.267199+00:00
-
- ## Solutions For Your Life - Real Solutions for Real Life
- - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:19.568229+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:23.235964+00:00
-
- ## studentinvolvement.ufl.edu | UF Student Involvement
- - [https://studentinvolvement.ufl.edu](https://studentinvolvement.ufl.edu)
- - date_published: 2024-07-02T02:10:59.617305+00:00
-
- ## Center for Teaching Excellence | University of Florida
- - [http://teach.ufl.edu](http://teach.ufl.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Tomato Genetics Cooperative
- - [https://tgc.ifas.ufl.edu](https://tgc.ifas.ufl.edu)
- - date_published: 2020-01-02T04:58:19+00:00
-
- ## UF Title IX Compliance
- - [https://titleix.ufl.edu](https://titleix.ufl.edu)
- - date_published: 2024-07-02T02:11:06.150034+00:00
-
- ## UF Alert
- - [https://ufalert.ufl.edu](https://ufalert.ufl.edu)
- - date_published: 2024-07-02T02:11:20.229795+00:00
-
- ## Home - University of Florida Alumni Association
- - [http://ufalumni.ufl.edu](http://ufalumni.ufl.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## University of Florida Advancement
- - [https://uff.ufl.edu](https://uff.ufl.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## UF Health Podcasts
- - [https://ufh-podcasts.sites.medinfo.ufl.edu](https://ufh-podcasts.sites.medinfo.ufl.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home
- - [https://ufl.edu](https://ufl.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## George A. Smathers Libraries » UF Libraries » University of Florida
- - [https://uflib.ufl.edu](https://uflib.ufl.edu)
- - date_published: 2024-07-01T20:14:29+00:00
-
- ## University of Florida Office of Admissions
- - [http://virtualtour.ufl.edu](http://virtualtour.ufl.edu)
- - date_published: 2024-07-02T02:18:21.587138+00:00
-
- ## UF Water Institute
- - [https://waterinstitute.ufl.edu](https://waterinstitute.ufl.edu)
- - date_published: 2024-10-15T06:39:59.959527+00:00
-
- ## Florida Water Watch - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [https://waterwatch.ifas.ufl.edu](https://waterwatch.ifas.ufl.edu)
- - date_published: 2024-10-15T06:39:49.689865+00:00
-
- ## GatorMail - University of Florida
- - [https://webmail.ufl.edu](https://webmail.ufl.edu)
- - date_published: 2024-07-02T02:08:23.603195+00:00
-
- ## aa.ufl.edu - Academic Affairs - University of Florida
- - [http://www.aa.ufl.edu](http://www.aa.ufl.edu)
- - date_published: 2024-07-02T02:18:33.637050+00:00
-
- ## UF Business Affairs – Our departments unite as one division to provide excellent service, sustainability, and safety to the University of Florida.
- - [http://www.admin.ufl.edu](http://www.admin.ufl.edu)
- - date_published: 2024-07-02T02:18:28.561508+00:00
-
- ## Welcome!
- - [http://www.astro.ufl.edu](http://www.astro.ufl.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Information Technology - University of Florida
- - [https://www.at.ufl.edu](https://www.at.ufl.edu)
- - date_published: 2024-07-02T02:06:18.928502+00:00
-
- ## Home
- - [https://www.chem.ufl.edu](https://www.chem.ufl.edu)
- - date_published: 2024-10-19T04:46:26.595173+00:00
-
- ## DEAN OF STUDENTS OFFICE | Dean of Students Office UF
- - [http://www.dso.ufl.edu](http://www.dso.ufl.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home : ECE FLORIDA
- - [https://www.ece.ufl.edu](https://www.ece.ufl.edu)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Welcome to the English Language Institute
- - [http://www.eli.ufl.edu](http://www.eli.ufl.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home - Herbert Wertheim College of Engineering
- - [https://www.eng.ufl.edu](https://www.eng.ufl.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Planning, Design and Construction
- - [http://www.facilities.ufl.edu](http://www.facilities.ufl.edu)
- - date_published: 2024-07-02T02:17:50.281756+00:00
-
- ##  Yuguang Fang's Home Page 
- - [http://www.fang.ece.ufl.edu](http://www.fang.ece.ufl.edu)
- - date_published: 2024-05-10T08:11:45+00:00
-
- ## Current Employees
- - [http://www.hr.ufl.edu](http://www.hr.ufl.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home | Department of Industrial & Systems Engineering
- - [http://www.ise.ufl.edu](http://www.ise.ufl.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - UF College of Journalism and Communications
- - [https://www.jou.ufl.edu](https://www.jou.ufl.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Levin College of Law
- - [http://www.law.ufl.edu](http://www.law.ufl.edu)
- - date_published: 2024-06-14T17:11:11+00:00
-
- ## GatorMail - University of Florida
- - [http://www.mail.ufl.edu](http://www.mail.ufl.edu)
- - date_published: 2024-07-02T02:18:15.593040+00:00
-
- ## TAPS
- - [http://www.parking.ufl.edu](http://www.parking.ufl.edu)
- - date_published: 2024-07-02T02:16:28+00:00
-
- ## Office of the University Registrar | University of Florida
- - [http://www.questions.ufl.edu](http://www.questions.ufl.edu)
- - date_published: 2024-07-02T02:17:57.025194+00:00
-
- ## Office of the University Registrar | University of Florida
- - [http://www.registrar.ufl.edu](http://www.registrar.ufl.edu)
- - date_published: 2024-07-02T02:18:03.735838+00:00
-
- ## Faculty Senate - University of Florida
- - [http://www.senate.ufl.edu](http://www.senate.ufl.edu)
- - date_published: 2024-07-02T02:19:24.688391+00:00
-
- ## Home | UF Office of Student Financial Aid and Scholarships
- - [https://www.sfa.ufl.edu](https://www.sfa.ufl.edu)
- - date_published: 2024-07-02T02:10:45.574860+00:00
-
- ## Welcome
- - [https://www.stat.ufl.edu](https://www.stat.ufl.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Florida Gators - Official Athletics Website
- - [http://www.uaa.ufl.edu](http://www.uaa.ufl.edu)
- - date_published: 2024-07-02T02:09:07+00:00
-
- ## University of Florida International Center
- - [http://www.ufic.ufl.edu](http://www.ufic.ufl.edu)
- - date_published: 2024-07-02T02:18:49.880528+00:00
-
- ## University Relations - University of Florida
- - [http://www.urel.ufl.edu](http://www.urel.ufl.edu)
- - date_published: 2024-07-02T02:19:11.448879+00:00
-
- ## Wildlife Ecology and Conservation  - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://www.wec.ufl.edu](http://www.wec.ufl.edu)
- - date_published: 2024-10-15T05:48:00.619504+00:00
-
- ## Whitney Laboratory for Marine Bioscience - University of Florida
- - [https://www.whitney.ufl.edu](https://www.whitney.ufl.edu)
- - date_published: 2024-08-06T11:09:38.079109+00:00
-
- ## UFM - Facultad de Ciencias Económicas
- - [http://fce.ufm.edu](http://fce.ufm.edu)
- - date_published: 2024-10-31T07:59:12.119486+00:00
-
- ## UGA Admissions
- - [https://admissions.uga.edu](https://admissions.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Agricultural & Applied Economics
- - [https://agecon.uga.edu](https://agecon.uga.edu)
- - date_published: 2024-07-01T21:36:13+00:00
-
- ## Agricultural Leadership, Education & Communication
- - [https://alec.caes.uga.edu](https://alec.caes.uga.edu)
- - date_published: 2024-07-01T21:03:48+00:00
-
- ## Animal & Dairy Science
- - [https://animaldairy.uga.edu](https://animaldairy.uga.edu)
- - date_published: 2024-07-01T21:06:04+00:00
-
- ## UGA Admissions
- - [https://apply.uga.edu](https://apply.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Login - UGA SSO – Central Authentication Service
- - [http://archpass.uga.edu](http://archpass.uga.edu)
- - date_published: 2024-07-02T02:22:46.921907+00:00
-
- ## Athena Homepage
- - [https://athena.uga.edu](https://athena.uga.edu)
- - date_published: 2024-07-02T02:25:09.342921+00:00
-
- ## Home - Belonging
- - [https://belong.uga.edu](https://belong.uga.edu)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Program Request | UGA | Student Affairs
- - [https://bewellprograms.uga.edu](https://bewellprograms.uga.edu)
- - date_published: 2024-05-22T14:25:54+00:00
-
- ## Home - UGA State Botanical Garden
- - [https://botgarden.uga.edu](https://botgarden.uga.edu)
- - date_published: 2024-07-02T02:24:13.732226+00:00
-
- ## University of Georgia Brand Style Guide
- - [https://brand.uga.edu](https://brand.uga.edu)
- - date_published: 2024-07-02T02:20:16.769896+00:00
-
- ## Bulletin - Home
- - [https://bulletin.uga.edu](https://bulletin.uga.edu)
- - date_published: 2024-07-02T02:22:43.521569+00:00
-
- ## UGA Finance Division | University of Georgia
- - [https://busfin.uga.edu](https://busfin.uga.edu)
- - date_published: 2024-07-02T02:21:02.595392+00:00
-
- ## Agribusiness and Economic Development
- - [https://caed.uga.edu](https://caed.uga.edu)
- - date_published: 2024-06-28T20:50:37+00:00
-
- ## College of Agricultural & Environmental Sciences | University of Georgia
- - [https://caes.uga.edu](https://caes.uga.edu)
- - date_published: 2024-05-07T21:12:19.491625+00:00
-
- ## Events Calendar
- - [https://calendar.uga.edu](https://calendar.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Student Conduct
- - [https://conduct.uga.edu](https://conduct.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Crop & Soil Sciences
- - [https://cropsoil.uga.edu](https://cropsoil.uga.edu)
- - date_published: 2024-07-01T21:09:51+00:00
 

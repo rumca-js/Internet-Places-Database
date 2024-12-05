@@ -3619,6 +3619,10 @@ Welcome
  - [https://www.hirex.ai](https://www.hirex.ai)
  - date_published: 2024-04-01T18:09:35+00:00
 
+ ## Hitesh Choudhary Home page
+ - [https://hitesh.ai](https://hitesh.ai)
+ - date_published: 2024-12-04T10:54:54.032428+00:00
+
  ## hitt.ai | AI Workout Tracker
  - [https://hitt.ai](https://hitt.ai)
  - date_published: 2024-10-28T07:12:38.277146+00:00
@@ -4006,8 +4010,4 @@ Welcome
  ## Facial Emotion Recognition Software - Emotion AI | Imentiv AI
  - [https://imentiv.ai](https://imentiv.ai)
  - date_published: 2024-10-28T06:50:37+00:00
-
- ## Quantum Apex AI Official 2024 - Your Trusted Trading Partner
- - [https://immediate-apex.ai](https://immediate-apex.ai)
- - date_published: 2024-10-31T00:24:06.789578+00:00
 

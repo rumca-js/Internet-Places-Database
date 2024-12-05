@@ -1,3 +1,55 @@
+ ## Google Scholar
+ - [https://scholar.google.com.br](https://scholar.google.com.br)
+ - date_published: 2024-07-10T03:50:52.556232+00:00
+
+ ## Certificadas Great Place to Work (Brasil)
+ - [https://certificadas.gptw.com.br](https://certificadas.gptw.com.br)
+ - date_published: 2024-07-30T20:31:29+00:00
+
+ ## Home - GPTW
+ - [https://gptw.com.br](https://gptw.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Certificação GPTW
+ - [https://jornada-certificacao.gptw.com.br](https://jornada-certificacao.gptw.com.br)
+ - date_published: 2024-09-10T23:52:34.136531+00:00
+
+ ## GPTW - Sistema de Pesquisas
+ - [https://monitor.gptw.com.br](https://monitor.gptw.com.br)
+ - date_published: 2024-09-06T23:34:23+00:00
+
+ ## Home - Partners GPTW
+ - [https://www.gptwpartners.com.br](https://www.gptwpartners.com.br)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Granado | Granado Pharmácias
+ - [https://www.granado.com.br](https://www.granado.com.br)
+ - date_published: 2024-07-13T02:16:21.420663+00:00
+
+ ## Gr@tis - GRATIS.COM.BR
+ - [http://www.gratis.com.br](http://www.gratis.com.br)
+ - date_published: 2024-06-24T04:03:12.915944+00:00
+
+ ## GRAYSEG | Segurança e Tecnologia
+ - [http://grayseg.com.br](http://grayseg.com.br)
+ - date_published: 2024-10-22T20:48:25.860445+00:00
+
+ ## Home - GPTW
+ - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Grünenthal do Brasil | Negócios Latinoamérica | Sobre nós |Grünenthal Latinoamérica
+ - [http://www.grunenthal.com.br](http://www.grunenthal.com.br)
+ - date_published: 2024-10-16T18:49:00.733559+00:00
+
+ ## Grupo CCR | 25 anos melhorando vidas com mobilidade
+ - [https://www.grupoccr.com.br](https://www.grupoccr.com.br)
+ - date_published: 2024-07-11T17:50:37+00:00
+
+ ## Grupo Perfil
+ - [https://grupoperfilbrasil.com.br](https://grupoperfilbrasil.com.br)
+ - date_published: 2022-07-05T18:32:20+00:00
+
  ## Santillana
  - [https://gruposantillana.com.br](https://gruposantillana.com.br)
  - date_published: 2024-06-12T12:55:57.533717+00:00
@@ -3959,56 +4011,4 @@
  ## 403
  - [https://metrika.yandex.by](https://metrika.yandex.by)
  - date_published: 2024-08-11T15:55:46.036919+00:00
-
- ## Мобильный оператор life:)
- - [http://life.com.by](http://life.com.by)
- - date_published: 2024-07-13T14:57:23.640595+00:00
-
- ## Национальный статистический комитет Республики Беларусь
- - [http://www.belstat.gov.by](http://www.belstat.gov.by)
- - date_published: 2024-08-11T15:56:39.319587+00:00
-
- ## Официальный сайт Брестского облисполкома - Русская версия
- - [http://brest-region.gov.by](http://brest-region.gov.by)
- - date_published: 2024-08-11T16:20:38.408627+00:00
-
- ## Министерство экономики Республики Беларусь
- - [http://www.economy.gov.by](http://www.economy.gov.by)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Министерство образования Республики Беларусь
- - [http://edu.gov.by](http://edu.gov.by)
- - date_published: 2024-08-11T16:19:43.765953+00:00
-
- ## Государственный пограничный комитет Республики Беларусь
- - [http://gpk.gov.by](http://gpk.gov.by)
- - date_published: 2024-08-11T16:20:41.095020+00:00
-
- ## Министерство по чрезвычайным ситуациям
- - [http://mchs.gov.by](http://mchs.gov.by)
- - date_published: 2024-08-11T16:11:12.492321+00:00
-
- ## Министерство иностранных дел  Республики Беларусь
- - [http://mfa.gov.by](http://mfa.gov.by)
- - date_published: 2024-08-11T16:06:13.376324+00:00
-
- ## Министерство финансов Республики Беларусь
- - [http://www.minfin.gov.by](http://www.minfin.gov.by)
- - date_published: 2024-08-11T16:14:32.247128+00:00
-
- ## Министерство информации Республики Беларусь
- - [http://www.mininform.gov.by](http://www.mininform.gov.by)
- - date_published: 2024-08-11T15:52:54.507908+00:00
-
- ## Министерство природных ресурсов и охраны окружающей среды Республики Беларусь
- - [http://minpriroda.gov.by](http://minpriroda.gov.by)
- - date_published: 2024-08-11T15:58:32.806494+00:00
-
- ## Home – Министерство промышленности РБ
- - [http://www.minprom.gov.by](http://www.minprom.gov.by)
- - date_published: 2024-08-07T06:44:25+00:00
-
- ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
- - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
- - date_published: 2024-08-11T16:11:15.340151+00:00
 

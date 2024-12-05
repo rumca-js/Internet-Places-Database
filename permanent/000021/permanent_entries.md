@@ -1,3 +1,63 @@
+ ## Club El Nacional
+ - [https://club.elnacional.cat](https://club.elnacional.cat)
+ - date_published: 2024-10-30T14:15:16+00:00
+
+ ## El Caso | Notícies, actualitat i última hora de successos a Barcelona, Espanya i el món
+ - [https://elcaso.elnacional.cat](https://elcaso.elnacional.cat)
+ - date_published: 2024-10-31T12:58:42+00:00
+
+ ## El Nacional.cat - Última hora política i econòmica de Catalunya, Espanya i internacional
+ - [https://elnacional.cat](https://elnacional.cat)
+ - date_published: 2024-10-31T14:09:25+00:00
+
+ ## ésAdir
+ - [https://esadir.cat](https://esadir.cat)
+ - date_published: 2024-07-04T03:53:49.815758+00:00
+
+ ## ESDAPC Escola Superior de Disseny i d’Arts Plàstiques de Catalunya
+ - [http://www.esdap.cat](http://www.esdap.cat)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## ESDAPC Escola Superior de Disseny i d’Arts Plàstiques de Catalunya
+ - [https://www.esdapc.cat](https://www.esdapc.cat)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Inici - BioFiC-Planta / EtnobotCat
+ - [http://www.etnobiofic.cat](http://www.etnobiofic.cat)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## FAD. Foment de les Arts i del Disseny
+ - [https://www.fad.cat](https://www.fad.cat)
+ - date_published: 2024-10-29T14:15:22.663753+00:00
+
+ ## Viatja en bus per Europa | FlixBus
+ - [https://www.flixbus.cat](https://www.flixbus.cat)
+ - date_published: 2024-06-28T10:10:11+00:00
+
+ ## Sobre Gamifica't! Cultura en Joc - Gamifica't!
+ - [https://gamifi.cat](https://gamifi.cat)
+ - date_published: 2024-06-05T14:31:44+00:00
+
+ ## Inici
+ - [https://canalsalut.gencat.cat](https://canalsalut.gencat.cat)
+ - date_published: 2024-07-07T00:55:07+00:00
+
+ ## Inici
+ - [https://cultura.gencat.cat](https://cultura.gencat.cat)
+ - date_published: 2024-07-20T22:11:23+00:00
+
+ ## Inici
+ - [https://gencat.cat](https://gencat.cat)
+ - date_published: 2015-01-26T15:44:48+00:00
+
+ ## Inici
+ - [https://incasol.gencat.cat](https://incasol.gencat.cat)
+ - date_published: 2024-07-02T10:06:05+00:00
+
+ ## Participa gencat
+ - [http://participa.gencat.cat](http://participa.gencat.cat)
+ - date_published: 2024-09-12T17:08:43.778893+00:00
+
  ## Inici
  - [https://presidencia.gencat.cat](https://presidencia.gencat.cat)
  - date_published: 2024-10-15T03:10:32+00:00
@@ -3977,64 +4037,4 @@
         Accueil
  - [https://bakir.ch](https://bakir.ch)
  - date_published: 2024-05-09T08:19:24.886720+00:00
-
- ## Tanz & Ballettschule in Zentralschweiz - Ballett Akademie Luzern
- - [https://ballettakademie.ch](https://ballettakademie.ch)
- - date_published: 2024-10-21T09:23:47.813952+00:00
-
- ## Baloise | Private clients
- - [https://www.baloise.ch](https://www.baloise.ch)
- - date_published: 2024-07-09T11:52:14+00:00
-
- ## BARNES Suisse :: Agence immobilière, courtage, projets neufs
- - [https://www.barnes-suisse.ch](https://www.barnes-suisse.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## BaselOne: Die Software-Entwicklungskonferenz für das Dreiland
- - [https://baselone.ch](https://baselone.ch)
- - date_published: 2024-04-29T06:28:45.276009+00:00
-
- ## Your high quality cleaning services in Switzerland - Cleaning company in Switzerland
- - [https://batmaid.ch](https://batmaid.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Startseite - Bauer-Plus
- - [https://www.bauer-plus.ch](https://www.bauer-plus.ch)
- - date_published: 2024-07-25T09:47:41.960115+00:00
-
- ## Agenda - Basler Zeitung
- - [https://agenda.bazonline.ch](https://agenda.bazonline.ch)
- - date_published: 2024-07-22T17:33:02.804495+00:00
-
- ## Basler Zeitung | Aktuelle Nachrichten aus Basel
- - [https://bazonline.ch](https://bazonline.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Basler Zeitung
- - [https://helpcenter.bazonline.ch](https://helpcenter.bazonline.ch)
- - date_published: 2023-07-23T17:32:53+00:00
-
- ## BBVA Suiza - Banca privada online| BBVA Suiza
- - [https://www.bbva.ch](https://www.bbva.ch)
- - date_published: 2024-10-31T12:40:02.645750+00:00
-
- ## Bienvenue
- - [https://www.bcn.ch](https://www.bcn.ch)
- - date_published: 2024-10-17T22:13:50.487197+00:00
-
- ## BCTS - Digitale Lösungen, massgeschneidert für KMUs. - Blockchain Trust Solutions AG
- - [https://bcts.ch](https://bcts.ch)
- - date_published: 2024-09-24T02:25:24.029666+00:00
-
- ## Bibliothèque cantonale et universitaire BCU Lausanne
- - [http://www.bcu-lausanne.ch](http://www.bcu-lausanne.ch)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## BCV - Banque Cantonale Vaudoise
- - [http://www.bcv.ch](http://www.bcv.ch)
- - date_published: 2024-07-03T05:53:31+00:00
-
- ## Bechtler Stiftung – Bechtler Stiftung
- - [https://www.bechtlerstiftung.ch](https://www.bechtlerstiftung.ch)
- - date_published: 2024-10-31T11:30:59.565124+00:00
 

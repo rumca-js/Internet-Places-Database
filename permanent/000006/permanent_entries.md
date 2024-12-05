@@ -1,3 +1,27 @@
+ ## Buy ScreenMemory
+ - [https://screenmemory.app](https://screenmemory.app)
+ - date_published: 2024-05-04T09:32:23.602650+00:00
+
+ ## Scrypted Network Video Recorder
+ - [https://demo.scrypted.app](https://demo.scrypted.app)
+ - date_published: 2024-07-01T10:04:02+00:00
+
+ ## Scrypted Documentation
+ - [https://developer.scrypted.app](https://developer.scrypted.app)
+ - date_published: 2023-08-26T23:51:15+00:00
+
+ ## Scrypted | Scrypted Docs
+ - [https://docs.scrypted.app](https://docs.scrypted.app)
+ - date_published: 2024-05-14T04:02:08.467387+00:00
+
+ ## Scrypted Cloud
+ - [https://home.scrypted.app](https://home.scrypted.app)
+ - date_published: 2024-05-14T04:02:09.834278+00:00
+
+ ## Scrypted Scripts
+ - [https://scripts.scrypted.app](https://scripts.scrypted.app)
+ - date_published: 2024-05-07T19:39:50+00:00
+
  ## Scrypted
  - [https://scrypted.app](https://scrypted.app)
  - date_published: 2023-07-12T21:24:56+00:00
@@ -2337,6 +2361,10 @@
  - [https://make-resume.vercel.app](https://make-resume.vercel.app)
  - date_published: 2024-10-30T15:28:12.253361+00:00
 
+ ## Mantine UI Library
+ - [https://mantine-extensions.vercel.app](https://mantine-extensions.vercel.app)
+ - date_published: 2024-12-04T06:44:11.761598+00:00
+
  ## Mantle | Mass Adoption of Decentralized and Token-Governed Technologies
  - [https://mantle-prod.vercel.app](https://mantle-prod.vercel.app)
  - date_published: 2024-04-15T00:00:00+00:00
@@ -3991,32 +4019,4 @@
  ## Blog
  - [https://blog.xumm.app](https://blog.xumm.app)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Yakk
- - [https://yakk.app](https://yakk.app)
- - date_published: 2024-01-23T16:13:48+00:00
-
- ## Yarnit | Generative AI marketing platform for personalized content creation
- - [https://www.yarnit.app](https://www.yarnit.app)
- - date_published: 2024-10-30T07:27:29.617288+00:00
-
- ## YourDoctor AI
- - [https://doctor.yourmed.app](https://doctor.yourmed.app)
- - date_published: 2024-06-19T19:35:48.749447+00:00
-
- ## Youtube Chatpers | Summaries powered by ChatGPT
- - [https://youtubechapters.app](https://youtubechapters.app)
- - date_published: 2024-10-30T11:55:43.327142+00:00
-
- ## Generate Summaries for YouTube Videos using ChatGPT | Chrome Extension
- - [https://www.youtubedigest.app](https://www.youtubedigest.app)
- - date_published: 2024-06-19T19:20:49.285541+00:00
-
- ## Ytems : Devenez l'Expert-Comptable préféré des BNC
- - [https://com.ytems.app](https://com.ytems.app)
- - date_published: 2024-06-22T10:55:25.444605+00:00
-
- ## Ytems
- - [https://www.ytems.app](https://www.ytems.app)
- - date_published: 2024-06-18T21:26:20+00:00
 

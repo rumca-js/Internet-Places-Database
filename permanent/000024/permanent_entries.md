@@ -1,3 +1,69 @@
+ ## Wartungsarbeiten | Universität Basel
+ - [https://maintenance.unibas.ch](https://maintenance.unibas.ch)
+ - date_published: 2021-06-02T07:52:35+00:00
+
+ ## Home | Unimarkt Universität Basel
+ - [https://markt.unibas.ch](https://markt.unibas.ch)
+ - date_published: 2024-04-30T06:14:41.959459+00:00
+
+ ## Home | Medizinische 
+Fakultät | Universität Basel
+ - [https://medizin.unibas.ch](https://medizin.unibas.ch)
+ - date_published: 2024-07-21T05:48:25.623712+00:00
+
+ ## Organisation Selection
+ - [https://personeninfo.unibas.ch](https://personeninfo.unibas.ch)
+ - date_published: 2024-04-30T06:14:36.477620+00:00
+
+ ## Personensuche
+ - [https://personensuche.unibas.ch](https://personensuche.unibas.ch)
+ - date_published: 2019-11-22T13:21:17+00:00
+
+ ## Personensuche
+ - [https://perssearch.unibas.ch](https://perssearch.unibas.ch)
+ - date_published: 2019-11-22T13:21:17+00:00
+
+ ## Home | Universitätsbibliothek | Universität Basel
+ - [https://ub.unibas.ch](https://ub.unibas.ch)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Universität Basel
+ - [https://unibas.ch](https://unibas.ch)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Unisport - Sportbereiche | Kurse
+ - [https://universitaetssport.unibas.ch](https://universitaetssport.unibas.ch)
+ - date_published: 2024-08-11T04:56:16.890179+00:00
+
+ ## viaWeb
+ - [https://viaweb.unibas.ch](https://viaweb.unibas.ch)
+ - date_published: 2024-08-11T05:23:20.743237+00:00
+
+ ## Home | Vorlesungsverzeichnis Universität Basel
+ - [http://vorlesungsverzeichnis.unibas.ch](http://vorlesungsverzeichnis.unibas.ch)
+ - date_published: 2024-07-21T05:12:59.578283+00:00
+
+ ## Home | Wirtschaftswissenschaftliche 
+Fakultät | Universität Basel
+ - [https://wwz.unibas.ch](https://wwz.unibas.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Medienmitteilungen 2024
+ - [https://mediarelations.unibe.ch](https://mediarelations.unibe.ch)
+ - date_published: 2024-09-15T15:05:37.979121+00:00
+
+ ## Münchenwiler Meeting Autumn 2018
+ - [https://mw.inf.unibe.ch](https://mw.inf.unibe.ch)
+ - date_published: 2023-09-29T14:00:06+00:00
+
+ ## Alumni UniBE
+ - [https://myalumni.unibe.ch](https://myalumni.unibe.ch)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## SCG |Software Composition Group
+ - [https://scg.unibe.ch](https://scg.unibe.ch)
+ - date_published: 2022-05-11T00:00:00+00:00
+
  ## front
  - [https://seg.inf.unibe.ch](https://seg.inf.unibe.ch)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -1376,6 +1442,7 @@
  ## Awesome ChatGPT Prompts
  - [https://prompts.chat](https://prompts.chat)
  - date_published: 2022-12-19T00:00:00+00:00
+ - tags: ['artificial intelligence', 'chatgpt']
 
  ## Show HN: I made an app to use local AI as daily driver
  - [https://recurse.chat](https://recurse.chat)
@@ -3950,68 +4017,4 @@
  ## Continuum AI
  - [https://ai.confidential.cloud](https://ai.confidential.cloud)
  - date_published: 2024-08-16T11:52:38+00:00
-
- ## Confluent Cloud
- - [https://confluent.cloud](https://confluent.cloud)
- - date_published: 2024-04-28T02:57:18.594671+00:00
-
- ## Confluent Cloud Status
- - [https://status.confluent.cloud](https://status.confluent.cloud)
- - date_published: 2024-08-07T19:26:57.426028+00:00
-
- ## Connect.ID Intelligence
- - [https://intelligence.connectid.cloud](https://intelligence.connectid.cloud)
- - date_published: 2024-05-20T12:56:12+00:00
-
- ## Pearson's 2023 Interim Results
- - [https://pearson.connectid.cloud](https://pearson.connectid.cloud)
- - date_published: 2024-03-01T14:12:41+00:00
-
- ## contrado
- - [https://resources.crucible.cloud](https://resources.crucible.cloud)
- - date_published: 2019-12-23T11:57:54+00:00
-
- ## Deploy your apps on Kubernetes easily - Cuber
- - [https://cuber.cloud](https://cuber.cloud)
- - date_published: 2024-06-23T06:09:33.575145+00:00
-
- ## Chatbot UI
- - [https://ui-docs-chat.chat.cyberark.cloud](https://ui-docs-chat.chat.cyberark.cloud)
- - date_published: 2024-06-02T08:58:01+00:00
-
- ## API Playground | Dagger
- - [https://play.dagger.cloud](https://play.dagger.cloud)
- - date_published: 2024-04-28T02:59:32.122342+00:00
-
- ## Dagster+
- - [https://dagster.cloud](https://dagster.cloud)
- - date_published: 2024-04-28T02:59:57.274112+00:00
-
- ## dark-firepit
- - [https://dark-firepit.cloud](https://dark-firepit.cloud)
- - date_published: 2024-02-15T16:49:31+00:00
-
- ## Trust Center
- - [https://trust.datameer.cloud](https://trust.datameer.cloud)
- - date_published: 2024-06-16T20:10:05.707829+00:00
-
- ## Datasette Cloud
- - [https://datasette.cloud](https://datasette.cloud)
- - date_published: 2023-10-25T12:15:18.435087+00:00
-
- ## dcnetio
- - [https://www.dcnetio.cloud](https://www.dcnetio.cloud)
- - date_published: 2024-09-24T08:38:38.780286+00:00
-
- ## WOGAA | 404
- - [https://assets.dcube.cloud](https://assets.dcube.cloud)
- - date_published: 2021-10-22T00:48:30+00:00
-
- ## Log in | Deepfence
- - [https://deepfence.cloud](https://deepfence.cloud)
- - date_published: 2024-08-07T19:02:31.448450+00:00
-
- ## Directus Cloud
- - [https://directus.cloud](https://directus.cloud)
- - date_published: 2024-05-19T02:57:33.642389+00:00
 

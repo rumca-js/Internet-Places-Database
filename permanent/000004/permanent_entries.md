@@ -1,3 +1,7 @@
+ ## WEVO | Effortless UX Research for Teams
+ - [https://wevo.ai](https://wevo.ai)
+ - date_published: 2024-10-30T07:04:42.190777+00:00
+
  ## What-the-Diff – AI-powered code review assistant
  - [http://app.whatthediff.ai](http://app.whatthediff.ai)
  - date_published: 2024-10-30T11:28:29.259848+00:00
@@ -676,6 +680,10 @@
  ## ( ͡° ͜ʖ ͡°)
  - [https://bil.al](https://bil.al)
  - date_published: 2024-07-13T04:16:39.128891+00:00
+
+ ## CANAL+ online: oglądaj na żywo lub na życzenie, kiedy chcesz! | CANAL+
+ - [https://can.al](https://can.al)
+ - date_published: 2024-12-04T20:25:55.106164+00:00
 
  ## CNA - Pa censurë!
  - [https://cna.al](https://cna.al)
@@ -3506,6 +3514,10 @@
  - [https://tt-prod-ab33.asia-southeast1.firebasedatabase.app](https://tt-prod-ab33.asia-southeast1.firebasedatabase.app)
  - date_published: 2024-07-10T10:09:57.096519+00:00
 
+ ## ‎Fire Merch
+ - [http://firemerch.app](http://firemerch.app)
+ - date_published: 2024-12-04T20:31:04.441361+00:00
+
  ## TiddlyWiki on Fission
 
 
@@ -4007,16 +4019,4 @@
  ## Hardcover Feedback
  - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
  - date_published: 2024-06-29T23:26:16.054530+00:00
-
- ## Hardcover - API for the blog.
- - [https://wp.hardcover.app](https://wp.hardcover.app)
- - date_published: 2024-06-29T23:26:24.079520+00:00
-
- ## HarmonyAI
- - [https://harmonyai.app](https://harmonyai.app)
- - date_published: 2024-10-30T15:22:00.575808+00:00
-
- ## Headliner - Promote your podcast, radio show or blog with video
- - [https://headliner.app](https://headliner.app)
- - date_published: 2024-02-27T00:00:00+00:00
 

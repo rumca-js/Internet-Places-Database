@@ -1,3 +1,55 @@
+ ## Мобильный оператор life:)
+ - [http://life.com.by](http://life.com.by)
+ - date_published: 2024-07-13T14:57:23.640595+00:00
+
+ ## Национальный статистический комитет Республики Беларусь
+ - [http://www.belstat.gov.by](http://www.belstat.gov.by)
+ - date_published: 2024-08-11T15:56:39.319587+00:00
+
+ ## Официальный сайт Брестского облисполкома - Русская версия
+ - [http://brest-region.gov.by](http://brest-region.gov.by)
+ - date_published: 2024-08-11T16:20:38.408627+00:00
+
+ ## Министерство экономики Республики Беларусь
+ - [http://www.economy.gov.by](http://www.economy.gov.by)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Министерство образования Республики Беларусь
+ - [http://edu.gov.by](http://edu.gov.by)
+ - date_published: 2024-08-11T16:19:43.765953+00:00
+
+ ## Государственный пограничный комитет Республики Беларусь
+ - [http://gpk.gov.by](http://gpk.gov.by)
+ - date_published: 2024-08-11T16:20:41.095020+00:00
+
+ ## Министерство по чрезвычайным ситуациям
+ - [http://mchs.gov.by](http://mchs.gov.by)
+ - date_published: 2024-08-11T16:11:12.492321+00:00
+
+ ## Министерство иностранных дел  Республики Беларусь
+ - [http://mfa.gov.by](http://mfa.gov.by)
+ - date_published: 2024-08-11T16:06:13.376324+00:00
+
+ ## Министерство финансов Республики Беларусь
+ - [http://www.minfin.gov.by](http://www.minfin.gov.by)
+ - date_published: 2024-08-11T16:14:32.247128+00:00
+
+ ## Министерство информации Республики Беларусь
+ - [http://www.mininform.gov.by](http://www.mininform.gov.by)
+ - date_published: 2024-08-11T15:52:54.507908+00:00
+
+ ## Министерство природных ресурсов и охраны окружающей среды Республики Беларусь
+ - [http://minpriroda.gov.by](http://minpriroda.gov.by)
+ - date_published: 2024-08-11T15:58:32.806494+00:00
+
+ ## Home – Министерство промышленности РБ
+ - [http://www.minprom.gov.by](http://www.minprom.gov.by)
+ - date_published: 2024-08-07T06:44:25+00:00
+
+ ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
+ - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
+ - date_published: 2024-08-11T16:11:15.340151+00:00
+
  ## Міністэрства аховы здароўя Рэспублікі Беларусь
  - [http://minzdrav.gov.by](http://minzdrav.gov.by)
  - date_published: 2024-08-11T16:11:05.592845+00:00
@@ -3969,57 +4021,4 @@
  ## FCA Canada Electric Vehicles
  - [https://www.fca-electric-vehicles.ca](https://www.fca-electric-vehicles.ca)
  - date_published: 2024-10-28T16:03:37.755902+00:00
-
- ## Dodge, Chrysler, Ram Trucks, Jeep, Fiat Fleet Services
- - [https://www.fcafleet.ca](https://www.fcafleet.ca)
- - date_published: 2024-10-28T16:03:53.766380+00:00
-
- ## Fonds canadien de protection des investisseurs
- - [https://www.fcpi.ca](https://www.fcpi.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Welcome | Fedecan
- - [https://fedecan.ca](https://fedecan.ca)
- - date_published: 2024-07-23T09:24:22+00:00
-
- ## blog.fejes.ca | A behind the scenes peak at building a biotech company.
- - [http://blog.fejes.ca](http://blog.fejes.ca)
- - date_published: 2024-05-28T00:43:39.163402+00:00
-
- ## ferd.ca
- - [https://ferd.ca](https://ferd.ca)
- - date_published: 2023-10-25T12:04:53.238516+00:00
-
- ## Mutual Fund and ETF Investing | Fidelity Investments Canada
- - [http://fidelity.ca](http://fidelity.ca)
- - date_published: 2024-10-27T06:01:24+00:00
-
- ## FilKONtario – Ontario's Science Fiction and Fantasy Music Festival
- - [http://www.filkontario.ca](http://www.filkontario.ca)
- - date_published: 2024-06-19T09:45:09.097307+00:00
-
- ## FilmBooster.ca
- - [https://www.filmbooster.ca](https://www.filmbooster.ca)
- - date_published: 2024-10-03T08:23:52.774076+00:00
-
- ## Film Brockville - The Films
- - [https://filmbrockville.ca](https://filmbrockville.ca)
- - date_published: 2024-04-13T16:55:56+00:00
-
- ## Latest Bitcoin, Crypto, and Blockchain News
- - [https://financefy.ca](https://financefy.ca)
- - date_published: 2024-09-24T20:56:09.996647+00:00
-
- ## Finbarr Timbers
- - [https://finbarr.ca](https://finbarr.ca)
- - date_published: 2023-10-25T08:42:53.636850+00:00
- - tags: ['personal']
-
- ## Fireplaces in Canada, Canada
- - [http://www.fireplaces.ca](http://www.fireplaces.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - FireSmoke.ca
- - [https://firesmoke.ca](https://firesmoke.ca)
- - date_published: 2024-07-03T00:00:00+00:00
 
