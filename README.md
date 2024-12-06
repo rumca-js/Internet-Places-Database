@@ -74,17 +74,17 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 # Static lists
 
-This data were used to create the following static lists, as an example:
-
-- [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/search_engines.html)
-- [Operating system](https://rumca-js.github.io/quickstart/public/static_lists/operating_system.html)
-- [Programming language](https://rumca-js.github.io/quickstart/public/static_lists/programming_language.html)
-- [Artificial intelligence](https://rumca-js.github.io/quickstart/public/static_lists/artificial_intelligence.html)
-- [Self-host](https://rumca-js.github.io/quickstart/public/static_lists/selfhost.html)
-- [Virtual reality](https://rumca-js.github.io/quickstart/public/static_lists/virtual_reality.html)
-- [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/amiga.html)
-- [Demoscene](https://rumca-js.github.io/quickstart/public/static_lists/demoscene.html)
-- [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/tabletop_game.html)
+This data were used to create the following static lists:
+- [Static Lists Index](https://rumca-js.github.io/quickstart/public/static_lists)
+- [Search engines](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
+- [Operating system](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=operating_systems)
+- [Programming language](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=programming_languages)
+- [Artificial intelligence](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=artificial_intelligence)
+- [Self-host](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=selfhost)
+- [Virtual reality](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=virtual_reality)
+- [Amiga](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=amiga)
+- [Demoscene](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=demoscene)
+- [Tabletop Game](https://rumca-js.github.io/quickstart/public/static_lists/viewer.html?file=tabletop_game)
 
 # Files
 
