@@ -1,3 +1,137 @@
+ ## Further your goals with Microsoft events
+ - [https://events.microsoft.com](https://events.microsoft.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Microsoft Virtual Events Powered by Teams
+ - [https://events.teams.microsoft.com](https://events.teams.microsoft.com)
+ - date_published: 2024-05-11T09:33:36.685368+00:00
+
+ ## Microsoft Power Automate
+ - [https://flow.microsoft.com](https://flow.microsoft.com)
+ - date_published: 2024-05-06T14:01:53.317175+00:00
+
+ ## Fluent 2 Design System
+ - [https://fluent.microsoft.com](https://fluent.microsoft.com)
+ - date_published: 2024-04-29T07:04:30.314105+00:00
+
+ ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
+ - [https://forms.microsoft.com](https://forms.microsoft.com)
+ - date_published: 2024-08-11T17:42:03.018538+00:00
+
+ ## Artificial Intelligence Solutions | Microsoft AI
+ - [https://fuse.microsoft.com](https://fuse.microsoft.com)
+ - date_published: 2024-06-30T10:06:36.040571+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://gallery.technet.microsoft.com](https://gallery.technet.microsoft.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## App badge tester
+ - [https://get.microsoft.com](https://get.microsoft.com)
+ - date_published: 2024-06-03T19:06:53+00:00
+
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://go.microsoft.com](https://go.microsoft.com)
+ - date_published: 2024-04-28T02:26:37.044247+00:00
+
+ ## Microsoft Graph Dev Center | APIs and app development
+ - [https://graph.microsoft.com](https://graph.microsoft.com)
+ - date_published: 2024-05-07T09:12:40.653122+00:00
+
+ ## Microsoft Guided Tours
+ - [https://guidedtour.microsoft.com](https://guidedtour.microsoft.com)
+ - date_published: 2024-07-25T07:11:52+00:00
+
+ ## Microsoft Research Lab - Cambridge - Microsoft Research
+ - [https://hxd.research.microsoft.com](https://hxd.research.microsoft.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Join us November 18–22, 2024
+ - [https://ignite.microsoft.com](https://ignite.microsoft.com)
+ - date_published: 2024-05-04T06:46:32.533987+00:00
+
+ ## Branżowe rozwiązania chmurowe firmy Microsoft
+ - [https://info.microsoft.com](https://info.microsoft.com)
+ - date_published: 2024-06-22T09:19:41.364233+00:00
+
+ ## Microsoft Research – Emerging Technology, Computer, and Software Research
+ - [https://innovation.microsoft.com](https://innovation.microsoft.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Search Jobs | Microsoft Careers
+ - [https://jobs.careers.microsoft.com](https://jobs.careers.microsoft.com)
+ - date_published: 2023-10-25T11:31:38.386584+00:00
+
+ ## Search Jobs | Microsoft Careers
+ - [https://jobs.careersppe.microsoft.com](https://jobs.careersppe.microsoft.com)
+ - date_published: 2024-08-06T12:52:39+00:00
+
+ ## My Apps
+ - [https://launcher.myapps.microsoft.com](https://launcher.myapps.microsoft.com)
+ - date_published: 2024-05-31T23:02:26+00:00
+
+ ## Learning Lab
+ - [https://learninglab.about.ads.microsoft.com](https://learninglab.about.ads.microsoft.com)
+ - date_published: 2024-06-25T20:07:06+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://learn.microsoft.com](https://learn.microsoft.com)
+ - date_published: 2023-10-25T11:30:34.619514+00:00
+
+ ## Sign in to your account
+ - [https://login.microsoft.com](https://login.microsoft.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Microsoft Loop - Think, plan and create together
+ - [https://loop.microsoft.com](https://loop.microsoft.com)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## MCAPSStartforPartnersFY24 | SignIn
+ - [https://mcapsstartforpartners.microsoft.com](https://mcapsstartforpartners.microsoft.com)
+ - date_published: 2024-06-29T13:25:38.514134+00:00
+
+ ## Microsoft Production Studios | stream.microsoft.com
+ - [https://mediastream.microsoft.com](https://mediastream.microsoft.com)
+ - date_published: 2016-01-26T18:44:45+00:00
+
+ ## Log in Medius
+ - [https://medius.microsoft.com](https://medius.microsoft.com)
+ - date_published: 2024-06-19T17:26:21.526568+00:00
+
+ ## Microsoft – chmura, komputery, aplikacje i gry
+ - [https://microsoft.com](https://microsoft.com)
+ - date_published: 2024-04-28T02:26:51.043312+00:00
+ - tags: ['gatekeeper', 'edge', 'company', 'web browser']
+
+ ## Wideokonferencje, spotkania, rozmowy | Microsoft Teams
+ - [https://microsoft.com/microsoft-teams](https://microsoft.com/microsoft-teams)
+ - date_published: 2024-11-28T20:10:14+00:00
+ - tags: ['ma teams', 'video meetings', 'social communicator', 'gatekeeper']
+
+ ## Microsoft Edge Addons
+ - [https://microsoftedge.microsoft.com](https://microsoftedge.microsoft.com)
+ - date_published: 2024-04-28T02:27:44.674398+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://msdn2.microsoft.com](https://msdn2.microsoft.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://msdn.microsoft.com](https://msdn.microsoft.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Microsoft Security Response Center
+ - [https://msrc-blog.microsoft.com](https://msrc-blog.microsoft.com)
+ - date_published: 2024-06-22T06:20:28+00:00
+
+ ## Microsoft Security Response Center
+ - [https://msrc.microsoft.com](https://msrc.microsoft.com)
+ - date_published: 2023-10-25T11:31:41.607143+00:00
+
+ ## GAM Visualizer
+ - [https://msrgamut.microsoft.com](https://msrgamut.microsoft.com)
+ - date_published: 2024-06-21T22:32:47+00:00
+
  ## Training
  - [https://mva.microsoft.com](https://mva.microsoft.com)
  - date_published: 2024-02-23T00:00:00+00:00
@@ -3922,139 +4056,4 @@
  ## Mirco Azzopardi
  - [https://mircoazzopardi.com](https://mircoazzopardi.com)
  - date_published: 2024-08-19T15:26:49.366157+00:00
-
- ## Learn Advanced Software Design
- - [https://mirdin.com](https://mirdin.com)
- - date_published: 2024-05-04T15:20:06.660892+00:00
-
- ## Learn Advanced Software Design
- - [https://self-service.mirdin.com](https://self-service.mirdin.com)
- - date_published: 2024-05-06T22:34:08.592648+00:00
-
- ## End-to-end digital product team
- - [https://www.mirego.com](https://www.mirego.com)
- - date_published: 2024-10-19T15:21:21.169302+00:00
-
- ## Mirek Długosz personal website
- - [https://mirekdlugosz.com](https://mirekdlugosz.com)
- - date_published: 2024-06-20T20:51:11+00:00
-
- ## Mirelle Borra — Projects
- - [http://mirelleborra.com](http://mirelleborra.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Mercer Island Reporter
- - [https://www.mi-reporter.com](https://www.mi-reporter.com)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## МИР ЭСПЕРАНТО
- - [https://miresperanto.com](https://miresperanto.com)
- - date_published: 2024-01-09T02:43:54.014575+00:00
-
- ## Mirha Masala
- - [https://mirhamasala.com](https://mirhamasala.com)
- - date_published: 2023-11-29T17:11:25.073563+00:00
- - tags: ['personal']
-
- ## Tolkien Art Prints and Fine Paintings - Miriam Ellis
- - [https://www.miriamellis.com](https://www.miriamellis.com)
- - date_published: 2024-12-04T10:59:43.483689+00:00
-
- ## MIRIAM EVE MORA, PHD
- - [https://www.miriamevemora.com](https://www.miriamevemora.com)
- - date_published: 2024-06-17T10:39:48.837873+00:00
-
- ## Miriam Gordis
- - [https://miriamgordis.com](https://miriamgordis.com)
- - date_published: 2024-05-08T00:40:50.756026+00:00
-
- ## Miriam Eric Suzanne
- - [https://miriamsuzanne.com](https://miriamsuzanne.com)
- - date_published: 2024-05-07T23:26:54.814950+00:00
-
- ## Mirider
- - [http://www.mirider.com](http://www.mirider.com)
- - date_published: 2020-12-03T10:21:40+00:00
-
- ## Mirko Pizii | Developer, Blogger, Maker
- - [https://www.mirkopizii.com](https://www.mirkopizii.com)
- - date_published: 2022-03-07T23:11:16+00:00
-
- ## Miro Academy
- - [https://academy.miro.com](https://academy.miro.com)
- - date_published: 2024-07-19T20:12:09.295879+00:00
-
- ## Miro Community Forum: A Community of Collaborators | Miro
- - [https://community.miro.com](https://community.miro.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Miro Developer Platform
- - [https://developers.miro.com](https://developers.miro.com)
- - date_published: 2024-07-19T20:12:02.954173+00:00
-
- ## Miro Help Center
- - [https://help.miro.com](https://help.miro.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Miro | The Visual Workspace for Innovation
- - [https://miro.com](https://miro.com)
- - date_published: 2024-02-14T21:45:05+00:00
- - tags: ['online tool', 'project management']
-
- ## Miro Status
- - [https://status.miro.com](https://status.miro.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## MIROC BEER /ミロクビール/ミロクブルワリー/MARUGAME/丸亀/クラフトビール/CRAFTBEER
- - [https://www.miroc-beer.com](https://www.miroc-beer.com)
- - date_published: 2024-07-10T08:10:29.320499+00:00
-
- ## Miro Haller
- - [https://mirohaller.com](https://mirohaller.com)
- - date_published: 2024-10-07T20:57:08+00:00
-
- ## Miron Construction Co., Inc. | Building Excellence
- - [https://miron-construction.com](https://miron-construction.com)
- - date_published: 2024-07-11T15:35:18+00:00
-
- ## Rich Mironov's Product Bytes
- - [https://mironov.com](https://mironov.com)
- - date_published: 2023-10-25T16:04:55.298712+00:00
-
- ## Miroslav Velev's Home Page
- - [http://www.miroslav-velev.com](http://www.miroslav-velev.com)
- - date_published: 2022-05-01T05:35:32+00:00
-
- ## Click the link to join this call.
- - [https://c2c.mirotalk.com](https://c2c.mirotalk.com)
- - date_published: 2024-05-15T07:13:36+00:00
-
- ## Click the link to make a call.
- - [https://p2p.mirotalk.com](https://p2p.mirotalk.com)
- - date_published: 2024-04-08T19:30:10.302707+00:00
- - tags: ['self-host', 'video calls']
-
- ## Click the link to make a call.
- - [https://sfu.mirotalk.com](https://sfu.mirotalk.com)
- - date_published: 2024-05-10T08:44:50+00:00
-
- ## Mirova: Where Investing Meets Sustainability
- - [https://www.mirova.com](https://www.mirova.com)
- - date_published: 2024-07-03T05:04:27.487222+00:00
-
- ## mirrAR | Virtual Try-On | AR Solutions | AR Software
- - [https://mirrar.com](https://mirrar.com)
- - date_published: 2024-10-27T15:31:51+00:00
-
- ## Leveraging AR in Luxury Jewelry Ecommerce | mirrAR Webinar
- - [https://www.webinar.mirrar.com](https://www.webinar.mirrar.com)
- - date_published: 2024-10-30T19:10:02.508488+00:00
-
- ## Mirre Yayla Séur
- - [https://www.mirreyaylaseur.com](https://www.mirreyaylaseur.com)
- - date_published: 2024-08-19T15:27:20.475586+00:00
-
- ## Mirror Conf 2018
- - [http://mirrorconf.com](http://mirrorconf.com)
- - date_published: 2019-08-20T15:51:15+00:00
 

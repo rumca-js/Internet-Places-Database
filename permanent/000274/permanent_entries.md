@@ -1,3 +1,451 @@
+ ## Commitment to Privacy
+ - [https://bpm.pharmacy.vcu.edu](https://bpm.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:48:12.026879+00:00
+
+ ## VCU Brandcenter
+ - [https://brandcenter.vcu.edu](https://brandcenter.vcu.edu)
+ - date_published: 2024-07-02T12:44:51.521837+00:00
+
+ ## Commitment to Privacy
+ - [https://branding.vcu.edu](https://branding.vcu.edu)
+ - date_published: 2024-05-07T22:23:10.475683+00:00
+
+ ## VCU Brand - VCU Brand
+ - [https://brand.vcu.edu](https://brand.vcu.edu)
+ - date_published: 2024-07-02T12:49:53.546516+00:00
+
+ ## Commitment to Privacy
+ - [https://bshs.chp.vcu.edu](https://bshs.chp.vcu.edu)
+ - date_published: 2024-07-02T12:45:21.887454+00:00
+
+ ## Commitment to Privacy
+ - [https://bsv.vcu.edu](https://bsv.vcu.edu)
+ - date_published: 2024-07-02T12:44:27.303208+00:00
+
+ ## Commitment to Privacy
+ - [https://budget.vcu.edu](https://budget.vcu.edu)
+ - date_published: 2024-07-02T12:58:18.541384+00:00
+
+ ## Welcome to the VCU Bulletins website! < Virginia Commonwealth University
+ - [http://bulletin.vcu.edu](http://bulletin.vcu.edu)
+ - date_published: 2024-06-24T15:39:05+00:00
+
+ ## Commitment to Privacy
+ - [https://business.vcu.edu](https://business.vcu.edu)
+ - date_published: 2024-07-02T12:58:11.412610+00:00
+
+ ## VCU Office of Development and Alumni Relations
+ - [https://campaign.vcu.edu](https://campaign.vcu.edu)
+ - date_published: 2024-05-07T22:22:21.007981+00:00
+
+ ## Commitment to Privacy
+ - [http://canvas.vcu.edu](http://canvas.vcu.edu)
+ - date_published: 2024-06-16T06:31:22.427258+00:00
+
+ ## Commitment to Privacy
+ - [https://careconnections.vcu.edu](https://careconnections.vcu.edu)
+ - date_published: 2024-07-02T12:58:25.347394+00:00
+
+ ## Commitment to Privacy
+ - [https://careers.vcu.edu](https://careers.vcu.edu)
+ - date_published: 2024-07-02T12:50:30.757412+00:00
+
+ ## Commitment to Privacy
+ - [https://care.vcu.edu](https://care.vcu.edu)
+ - date_published: 2024-07-02T12:49:42.345629+00:00
+
+ ## Service Categories | IT Catalog | Virginia Commonwealth University
+ - [https://catalog.ts.vcu.edu](https://catalog.ts.vcu.edu)
+ - date_published: 2024-07-02T12:58:43.710035+00:00
+
+ ## Biological Data Science
+ - [https://cbds.vcu.edu](https://cbds.vcu.edu)
+ - date_published: 2023-11-08T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://ccep.vcu.edu](https://ccep.vcu.edu)
+ - date_published: 2024-07-02T12:41:47.862491+00:00
+
+ ## Commitment to Privacy
+ - [https://cctr.vcu.edu](https://cctr.vcu.edu)
+ - date_published: 2024-07-02T12:46:20.505893+00:00
+
+ ## Commitment to Privacy
+ - [https://cdc.soe.vcu.edu](https://cdc.soe.vcu.edu)
+ - date_published: 2024-07-02T12:59:13.061276+00:00
+
+ ## Commitment to Privacy
+ - [https://cdl.partnership.vcu.edu](https://cdl.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:46:27.640824+00:00
+
+ ## Commitment to Privacy
+ - [https://ce.dentistry.vcu.edu](https://ce.dentistry.vcu.edu)
+ - date_published: 2024-07-02T12:48:34.986360+00:00
+
+ ## Commitment to Privacy
+ - [https://cepi.vcu.edu](https://cepi.vcu.edu)
+ - date_published: 2024-07-02T12:45:24.857445+00:00
+
+ ## VCU Center for Environmental Studies – ENVS
+ - [https://ces.vcu.edu](https://ces.vcu.edu)
+ - date_published: 2023-10-26T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://cgep.vcu.edu](https://cgep.vcu.edu)
+ - date_published: 2024-07-02T12:46:57.065642+00:00
+
+ ## Commitment to Privacy
+ - [https://chai.vcu.edu](https://chai.vcu.edu)
+ - date_published: 2024-07-02T12:46:59.047711+00:00
+
+ ## Commitment to Privacy
+ - [https://champ.vcu.edu](https://champ.vcu.edu)
+ - date_published: 2024-07-02T12:41:49.886993+00:00
+
+ ## Commitment to Privacy
+ - [https://chembio.vcu.edu](https://chembio.vcu.edu)
+ - date_published: 2024-07-02T12:45:16.383051+00:00
+
+ ## Commitment to Privacy
+ - [https://chemistry.vcu.edu](https://chemistry.vcu.edu)
+ - date_published: 2024-07-02T12:44:57.152820+00:00
+
+ ## Commitment to Privacy
+ - [https://chp.vcu.edu](https://chp.vcu.edu)
+ - date_published: 2024-07-02T12:44:33.446952+00:00
+
+ ## Commitment to Privacy
+ - [https://chs.vcu.edu](https://chs.vcu.edu)
+ - date_published: 2024-07-02T12:49:10.240235+00:00
+
+ ## Commitment to Privacy
+ - [https://cilse.vcu.edu](https://cilse.vcu.edu)
+ - date_published: 2024-07-02T12:44:55.793680+00:00
+
+ ## Commitment to Privacy
+ - [https://cio.ts.vcu.edu](https://cio.ts.vcu.edu)
+ - date_published: 2024-07-02T12:58:49.337010+00:00
+
+ ## Commitment to Privacy
+ - [https://clarkhill.vcu.edu](https://clarkhill.vcu.edu)
+ - date_published: 2024-07-02T12:43:47.104656+00:00
+
+ ## Commitment to Privacy
+ - [https://clc.vcu.edu](https://clc.vcu.edu)
+ - date_published: 2024-07-02T12:46:34.269942+00:00
+
+ ## Commitment to Privacy
+ - [https://cls.chp.vcu.edu](https://cls.chp.vcu.edu)
+ - date_published: 2024-07-02T12:49:34.432658+00:00
+
+ ## Commitment to Privacy
+ - [http://cobe.vcu.edu](http://cobe.vcu.edu)
+ - date_published: 2024-07-02T12:43:26.882909+00:00
+
+ ## Commitment to Privacy
+ - [https://codeofconduct.vcu.edu](https://codeofconduct.vcu.edu)
+ - date_published: 2024-07-02T12:43:41.381736+00:00
+
+ ## Commitment to Privacy
+ - [https://collaborate.vcu.edu](https://collaborate.vcu.edu)
+ - date_published: 2024-07-02T12:58:17.021387+00:00
+
+ ## Commitment to Privacy
+ - [https://commencement.vcu.edu](https://commencement.vcu.edu)
+ - date_published: 2024-06-16T06:31:16.901233+00:00
+
+ ## Commitment to Privacy
+ - [https://communications.semss.vcu.edu](https://communications.semss.vcu.edu)
+ - date_published: 2024-07-02T12:47:27.338367+00:00
+
+ ## Commitment to Privacy
+ - [https://community.pharmacy.vcu.edu](https://community.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:50:34.598080+00:00
+
+ ## Commitment to Privacy
+ - [https://community.vcu.edu](https://community.vcu.edu)
+ - date_published: 2024-05-07T22:23:15.462966+00:00
+
+ ## Commitment to Privacy
+ - [https://compounding.pharmacy.vcu.edu](https://compounding.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:50:31.921591+00:00
+
+ ## Commitment to Privacy
+ - [https://conduct.students.vcu.edu](https://conduct.students.vcu.edu)
+ - date_published: 2024-07-02T12:49:18.538191+00:00
+
+ ## Commitment to Privacy
+ - [https://connected.vcu.edu](https://connected.vcu.edu)
+ - date_published: 2024-07-02T12:50:03.496191+00:00
+
+ ## Commitment to Privacy
+ - [https://controller.vcu.edu](https://controller.vcu.edu)
+ - date_published: 2024-07-02T12:47:34.977521+00:00
+
+ ## Commitment to Privacy
+ - [https://council.vcu.edu](https://council.vcu.edu)
+ - date_published: 2024-07-02T12:57:45.745623+00:00
+
+ ## Commitment to Privacy
+ - [https://counseling.vcu.edu](https://counseling.vcu.edu)
+ - date_published: 2024-07-02T12:49:07.501075+00:00
+
+ ## Commitment to Privacy
+ - [https://cpel.vcu.edu](https://cpel.vcu.edu)
+ - date_published: 2024-07-02T12:44:24.396893+00:00
+
+ ## Commitment to Privacy
+ - [https://cpsd.vcu.edu](https://cpsd.vcu.edu)
+ - date_published: 2024-07-02T12:47:51.945495+00:00
+
+ ## Commitment to Privacy
+ - [https://cstp.vcu.edu](https://cstp.vcu.edu)
+ - date_published: 2024-07-02T12:44:54.184718+00:00
+
+ ## Commitment to Privacy
+ - [https://ctle.vcu.edu](https://ctle.vcu.edu)
+ - date_published: 2024-07-02T12:57:26.304149+00:00
+
+ ## Commitment to Privacy
+ - [https://ctl.vcu.edu](https://ctl.vcu.edu)
+ - date_published: 2024-07-02T12:49:37.198409+00:00
+
+ ## Commitment to Privacy
+ - [https://cura.vcu.edu](https://cura.vcu.edu)
+ - date_published: 2024-07-02T12:47:17.350787+00:00
+
+ ## Commitment to Privacy
+ - [https://cybersecurity.vcu.edu](https://cybersecurity.vcu.edu)
+ - date_published: 2024-07-02T12:46:35.516148+00:00
+
+ ## Commitment to Privacy
+ - [https://das.vcu.edu](https://das.vcu.edu)
+ - date_published: 2024-07-02T12:43:08.630989+00:00
+
+ ## Commitment to Privacy
+ - [https://data.vcu.edu](https://data.vcu.edu)
+ - date_published: 2024-07-02T12:48:22.683354+00:00
+
+ ## Commitment to Privacy
+ - [https://davincicenter.vcu.edu](https://davincicenter.vcu.edu)
+ - date_published: 2024-07-02T12:43:51.843136+00:00
+
+ ## Commitment to Privacy
+ - [https://deiaction.vcu.edu](https://deiaction.vcu.edu)
+ - date_published: 2024-07-02T12:44:39.982099+00:00
+
+ ## Commitment to Privacy
+ - [https://dentalpublichealth.vcu.edu](https://dentalpublichealth.vcu.edu)
+ - date_published: 2024-07-02T12:45:12.114742+00:00
+
+ ## Commitment to Privacy
+ - [https://dentistry.vcu.edu](https://dentistry.vcu.edu)
+ - date_published: 2024-07-02T12:47:59.833509+00:00
+
+ ## Commitment to Privacy
+ - [https://dermatology.vcu.edu](https://dermatology.vcu.edu)
+ - date_published: 2024-07-02T12:47:09.667935+00:00
+
+ ## Commitment to Privacy
+ - [https://dhsd.vcu.edu](https://dhsd.vcu.edu)
+ - date_published: 2024-07-02T12:44:21.293769+00:00
+
+ ## Commitment to Privacy
+ - [https://digestive.vcu.edu](https://digestive.vcu.edu)
+ - date_published: 2024-07-02T12:58:55.921990+00:00
+
+ ## Commitment to Privacy
+ - [https://digitalhealth.pharmacy.vcu.edu](https://digitalhealth.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:44:25.658037+00:00
+
+ ## Commitment to Privacy
+ - [https://digital.library.vcu.edu](https://digital.library.vcu.edu)
+ - date_published: 2024-07-02T12:44:36.590301+00:00
+
+ ## Commitment to Privacy
+ - [https://dimc.vcu.edu](https://dimc.vcu.edu)
+ - date_published: 2024-07-02T12:44:22.658135+00:00
+
+ ## Commitment to Privacy
+ - [https://dos.vcu.edu](https://dos.vcu.edu)
+ - date_published: 2024-07-02T12:43:11.200013+00:00
+
+ ## Commitment to Privacy
+ - [https://drugdiscovery.vcu.edu](https://drugdiscovery.vcu.edu)
+ - date_published: 2024-07-02T12:57:22.348225+00:00
+
+ ## Commitment to Privacy
+ - [https://dsporientation.partnership.vcu.edu](https://dsporientation.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:45:09.452951+00:00
+
+ ## Commitment to Privacy
+ - [https://dualcareer.vcu.edu](https://dualcareer.vcu.edu)
+ - date_published: 2024-07-02T12:57:55.661434+00:00
+
+ ## Commitment to Privacy
+ - [https://earthhacks.vcu.edu](https://earthhacks.vcu.edu)
+ - date_published: 2024-07-02T12:57:17.891070+00:00
+
+ ## Commitment to Privacy
+ - [https://ecmhva.partnership.vcu.edu](https://ecmhva.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:51:17.765151+00:00
+
+ ## Commitment to Privacy
+ - [https://edge.vcu.edu](https://edge.vcu.edu)
+ - date_published: 2024-07-02T12:44:04.868802+00:00
+
+ ## Commitment to Privacy
+ - [https://egr.vcu.edu](https://egr.vcu.edu)
+ - date_published: 2024-07-02T12:45:35.264988+00:00
+
+ ## Commitment to Privacy
+ - [https://emergencymedicine.vcu.edu](https://emergencymedicine.vcu.edu)
+ - date_published: 2024-07-02T12:47:18.987354+00:00
+
+ ## Commitment to Privacy
+ - [https://emsw.vcu.edu](https://emsw.vcu.edu)
+ - date_published: 2024-07-02T12:45:38.037886+00:00
+
+ ## Commitment to Privacy
+ - [https://endodontics.vcu.edu](https://endodontics.vcu.edu)
+ - date_published: 2024-07-02T12:50:49.919232+00:00
+
+ ## Commitment to Privacy
+ - [https://english.vcu.edu](https://english.vcu.edu)
+ - date_published: 2024-07-02T12:51:12.567296+00:00
+
+ ## Venture Creation University | VCU
+ - [https://entrepreneurship.vcu.edu](https://entrepreneurship.vcu.edu)
+ - date_published: 2024-07-02T12:44:59.970591+00:00
+
+ ## Commitment to Privacy
+ - [https://ent.vcu.edu](https://ent.vcu.edu)
+ - date_published: 2024-07-02T12:41:52.268658+00:00
+
+ ## Commitment to Privacy
+ - [https://epeslab.vcu.edu](https://epeslab.vcu.edu)
+ - date_published: 2024-07-02T12:49:47.795401+00:00
+
+ ## Commitment to Privacy
+ - [https://epidemiology.vcu.edu](https://epidemiology.vcu.edu)
+ - date_published: 2024-07-02T12:48:13.652229+00:00
+
+ ## Commitment to Privacy
+ - [https://equity.vcu.edu](https://equity.vcu.edu)
+ - date_published: 2024-05-07T22:23:51.579209+00:00
+
+ ## Commitment to Privacy
+ - [https://etm3.egr.vcu.edu](https://etm3.egr.vcu.edu)
+ - date_published: 2024-07-02T12:57:20.635669+00:00
+
+ ## Commitment to Privacy
+ - [https://eugenetrani.vcu.edu](https://eugenetrani.vcu.edu)
+ - date_published: 2024-07-02T12:48:37.808797+00:00
+
+ ## VCU Events Calendar
+ - [https://events.vcu.edu](https://events.vcu.edu)
+ - date_published: 2024-07-02T12:50:02.139242+00:00
+
+ ## Commitment to Privacy
+ - [https://eye.vcu.edu](https://eye.vcu.edu)
+ - date_published: 2024-07-02T12:58:51.982254+00:00
+
+ ## Commitment to Privacy
+ - [https://facultysenate.vcu.edu](https://facultysenate.vcu.edu)
+ - date_published: 2024-07-02T12:51:23.172005+00:00
+
+ ## Commitment to Privacy
+ - [https://families.vcu.edu](https://families.vcu.edu)
+ - date_published: 2024-07-02T12:46:22.074088+00:00
+
+ ## Commitment to Privacy
+ - [https://familymedicine.vcu.edu](https://familymedicine.vcu.edu)
+ - date_published: 2024-07-02T12:44:28.632955+00:00
+
+ ## Commitment to Privacy
+ - [https://family.vcu.edu](https://family.vcu.edu)
+ - date_published: 2024-07-02T12:44:35.079876+00:00
+
+ ## Commitment to Privacy
+ - [https://finaid.vcu.edu](https://finaid.vcu.edu)
+ - date_published: 2024-05-07T22:23:40.677248+00:00
+
+ ## Commitment to Privacy
+ - [https://finance.vcu.edu](https://finance.vcu.edu)
+ - date_published: 2024-07-02T12:47:02.225674+00:00
+
+ ## Commitment to Privacy
+ - [https://firstnovelist.vcu.edu](https://firstnovelist.vcu.edu)
+ - date_published: 2024-07-02T12:47:46.462441+00:00
+
+ ## Commitment to Privacy
+ - [https://fmd.vcu.edu](https://fmd.vcu.edu)
+ - date_published: 2024-07-02T12:51:29.289639+00:00
+
+ ## Commitment to Privacy
+ - [https://focusedinquiry.vcu.edu](https://focusedinquiry.vcu.edu)
+ - date_published: 2024-07-02T12:49:23.060200+00:00
+
+ ## Commitment to Privacy
+ - [https://forensicscience.vcu.edu](https://forensicscience.vcu.edu)
+ - date_published: 2024-07-02T12:45:27.468194+00:00
+
+ ## Commitment to Privacy
+ - [https://freespeech.vcu.edu](https://freespeech.vcu.edu)
+ - date_published: 2024-07-02T12:47:47.642202+00:00
+
+ ## Facilities Self Service - VCU
+ - [https://fss.vcu.edu](https://fss.vcu.edu)
+ - date_published: 2024-07-02T12:42:19.571251+00:00
+
+ ## Commitment to Privacy
+ - [https://ftac.vcu.edu](https://ftac.vcu.edu)
+ - date_published: 2024-07-02T12:46:29.203970+00:00
+
+ ## Commitment to Privacy
+ - [https://gehli.vcu.edu](https://gehli.vcu.edu)
+ - date_published: 2024-07-02T12:58:50.785486+00:00
+
+ ## Commitment to Privacy
+ - [https://gencyber.vcu.edu](https://gencyber.vcu.edu)
+ - date_published: 2024-07-02T12:58:38.169215+00:00
+
+ ## Commitment to Privacy
+ - [https://generaldentistry.vcu.edu](https://generaldentistry.vcu.edu)
+ - date_published: 2024-07-02T12:43:16.837639+00:00
+
+ ## Commitment to Privacy
+ - [https://genetics.vcu.edu](https://genetics.vcu.edu)
+ - date_published: 2024-07-02T12:45:52.873582+00:00
+
+ ## Commitment to Privacy
+ - [https://genomics.pharmacy.vcu.edu](https://genomics.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:48:19.787160+00:00
+
+ ## Commitment to Privacy
+ - [https://genomics.vcu.edu](https://genomics.vcu.edu)
+ - date_published: 2024-07-02T12:45:07.967771+00:00
+
+ ## Commitment to Privacy
+ - [https://geriatrics.pharmacy.vcu.edu](https://geriatrics.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:57:37.460043+00:00
+
+ ## Commitment to Privacy
+ - [https://germanstories.vcu.edu](https://germanstories.vcu.edu)
+ - date_published: 2024-05-07T22:22:31.206514+00:00
+
+ ## Commitment to Privacy
+ - [https://gerontology.chp.vcu.edu](https://gerontology.chp.vcu.edu)
+ - date_published: 2024-07-02T12:45:48.825999+00:00
+
+ ## Commitment to Privacy
+ - [https://global.vcu.edu](https://global.vcu.edu)
+ - date_published: 2024-07-02T12:45:17.968808+00:00
+
+ ## Home Page
+ - [https://go.arts.vcu.edu](https://go.arts.vcu.edu)
+ - date_published: 2019-09-13T09:37:39+00:00
+
  ## go.vcu.edu Keywords
  - [https://go.vcu.edu](https://go.vcu.edu)
  - date_published: 2024-05-07T22:22:44.596979+00:00
@@ -3554,452 +4002,4 @@
  ## University of Wisconsin Law School
  - [https://law.wisc.edu](https://law.wisc.edu)
  - date_published: 2024-07-02T14:34:17.184448+00:00
-
- ## Home | UW-Madison Libraries
- - [https://learn.library.wisc.edu](https://learn.library.wisc.edu)
- - date_published: 2024-07-21T06:50:50.262297+00:00
-
- ## Law Library
- - [https://library.law.wisc.edu](https://library.law.wisc.edu)
- - date_published: 2024-07-21T06:50:53.497778+00:00
-
- ## UW-Madison Libraries
- - [https://library.wisc.edu](https://library.wisc.edu)
- - date_published: 2024-06-14T04:12:15.108256+00:00
-
- ## Botany Garden and Greenhouse
- - [https://livingcollection.botany.wisc.edu](https://livingcollection.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:22.017518+00:00
-
- ## Home Page - Letters & Science
- - [https://lsmagazine.wisc.edu](https://lsmagazine.wisc.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Campus Map: University of Wisconsin–Madison
- - [https://map.wisc.edu](https://map.wisc.edu)
- - date_published: 2024-05-07T22:30:45.074774+00:00
-
- ## Mass Spectrometry Facility
- - [https://massspec.biotech.wisc.edu](https://massspec.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:46.897031+00:00
-
- ## IceCube Masterclass – IceCube Masterclass
- - [https://masterclass.icecube.wisc.edu](https://masterclass.icecube.wisc.edu)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Math Alumni
- - [https://mathalumni.math.wisc.edu](https://mathalumni.math.wisc.edu)
- - date_published: 2024-07-04T02:22:49.513789+00:00
-
- ## Department of Mathematics
- - [https://math.wisc.edu](https://math.wisc.edu)
- - date_published: 2024-07-04T02:22:59.771224+00:00
-
- ## McBurney Disability Resource Center
- - [https://mcburney.wisc.edu](https://mcburney.wisc.edu)
- - date_published: 2024-07-02T14:32:34.666708+00:00
-
- ## Master of Science in Design + Innovation
- - [https://mdi.wisc.edu](https://mdi.wisc.edu)
- - date_published: 2024-07-02T14:33:16.373837+00:00
-
- ## Home - MERIT
- - [https://merit.education.wisc.edu](https://merit.education.wisc.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Missing in Action
- - [https://mia.biotech.wisc.edu](https://mia.biotech.wisc.edu)
- - date_published: 2024-02-08T21:46:45.255457+00:00
-
- ## Materials Research Science and Engineering Center
- - [http://mrsec.wisc.edu](http://mrsec.wisc.edu)
- - date_published: 2024-06-29T22:29:29.391036+00:00
-
- ## Madison Experimental Mathematics Lab
- - [https://mxm.math.wisc.edu](https://mxm.math.wisc.edu)
- - date_published: 2024-07-04T02:22:53.474808+00:00
-
- ## University of Wisconsin-Madison Login
- - [http://my.wisc.edu](http://my.wisc.edu)
- - date_published: 2024-07-02T14:28:31.376092+00:00
-
- ## NATURAL BOND ORBITAL 7.0 HOME
- - [https://nbo7.chem.wisc.edu](https://nbo7.chem.wisc.edu)
- - date_published: 2023-11-24T06:00:02+00:00
-
- ## News from the University of Wisconsin–Madison
- - [https://news.wisc.edu](https://news.wisc.edu)
- - date_published: 2023-11-12T12:01:17.297435+00:00
-
- ## Newcomb Imaging Center
- - [https://nic.botany.wisc.edu](https://nic.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:25.073693+00:00
-
- ## Robert Nowak
- - [https://nowak.ece.wisc.edu](https://nowak.ece.wisc.edu)
- - date_published: 2023-06-07T15:52:21+00:00
-
- ## N+1 Institute
- - [https://nplus1.wisc.edu](https://nplus1.wisc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Office of Business Engagement
- - [https://obe.wisc.edu](https://obe.wisc.edu)
- - date_published: 2024-07-02T13:52:45+00:00
-
- ## Outreach
- - [https://outreach.biotech.wisc.edu](https://outreach.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:38.255935+00:00
-
- ## UW Computer Sciences User Pages
- - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
- - date_published: 2023-10-25T19:06:38.993669+00:00
-
- ## Home
- - [https://pdc.wisc.edu](https://pdc.wisc.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Hilbert
- - [https://people.math.wisc.edu](https://people.math.wisc.edu)
- - date_published: 2024-05-08T04:30:30.104818+00:00
-
- ## PHARM--Computer Architecture Research
- - [https://pharm.ece.wisc.edu](https://pharm.ece.wisc.edu)
- - date_published: 2024-04-12T15:59:11+00:00
-
- ## Department of Philosophy
- - [http://philosophy.wisc.edu](http://philosophy.wisc.edu)
- - date_published: 2024-09-10T08:45:15.720245+00:00
-
- ## UW-Madison Policy Library
- - [https://policy.wisc.edu](https://policy.wisc.edu)
- - date_published: 2024-07-02T14:35:21.552246+00:00
-
- ## Department of Political Science
- - [https://polisci.wisc.edu](https://polisci.wisc.edu)
- - date_published: 2024-10-18T20:42:09.501076+00:00
-
- ## Poster Printing
- - [https://poster.library.wisc.edu](https://poster.library.wisc.edu)
- - date_published: 2024-07-21T06:50:31.421919+00:00
-
- ## PROFS
- - [http://profs.wisc.edu](http://profs.wisc.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Course Search & Enroll
- - [http://public.enroll.wisc.edu](http://public.enroll.wisc.edu)
- - date_published: 2024-04-26T13:40:43+00:00
-
- ## Office of the Registrar
- - [https://registrar.wisc.edu](https://registrar.wisc.edu)
- - date_published: 2024-07-02T14:32:57.503074+00:00
-
- ## Research | UW–Madison
- - [https://research.wisc.edu](https://research.wisc.edu)
- - date_published: 2024-07-02T14:35:31.444467+00:00
-
- ## Spatial Automation Laboratory
- - [http://sal-cnc.me.wisc.edu](http://sal-cnc.me.wisc.edu)
- - date_published: 2024-08-11T19:07:22.495553+00:00
-
- ## Lupyan Lab – University of Wisconsin-Madison
- - [http://sapir.psych.wisc.edu](http://sapir.psych.wisc.edu)
- - date_published: 2024-07-02T08:48:56.979498+00:00
-
- ## Simulation Based Engineering Lab
- - [http://sbel.wisc.edu](http://sbel.wisc.edu)
- - date_published: 2024-10-16T06:03:16.380576+00:00
-
- ## Internet Scout
- - [https://scout.wisc.edu](https://scout.wisc.edu)
- - date_published: 2024-07-02T14:28:40.024211+00:00
-
- ## Search UW-Madison Libraries
- - [https://search.library.wisc.edu](https://search.library.wisc.edu)
- - date_published: 2024-04-30T05:55:37.209738+00:00
-
- ## sethares homepage
- - [https://sethares.engr.wisc.edu](https://sethares.engr.wisc.edu)
- - date_published: 2020-02-19T15:54:41+00:00
-
- ## SILO – Systems | Information | Learning | Optimization
- - [http://silo.ece.wisc.edu](http://silo.ece.wisc.edu)
- - date_published: 2024-06-30T08:38:53.507090+00:00
-
- ## Wisconsin Institute for Sleep and Consciousness
- - [https://sleep-and-consciousness.wisc.edu](https://sleep-and-consciousness.wisc.edu)
- - date_published: 2024-09-15T15:09:02.854999+00:00
-
- ## University of Wisconsin–Madison
- - [http://social.wisc.edu](http://social.wisc.edu)
- - date_published: 2024-06-20T18:06:51+00:00
-
- ## Space Science and Engineering Center
- - [http://ssec.wisc.edu](http://ssec.wisc.edu)
- - date_published: 2024-07-19T14:57:01.453565+00:00
-
- ## State Relations
- - [https://staterelations.wisc.edu](https://staterelations.wisc.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## IceCube Store
- - [https://store.icecube.wisc.edu](https://store.icecube.wisc.edu)
- - date_published: 2024-07-06T23:33:48.545681+00:00
-
- ## Office of Strategic Communication
- - [https://stratcommunication.wisc.edu](https://stratcommunication.wisc.edu)
- - date_published: 2024-05-07T22:31:00.910927+00:00
-
- ## Student Affairs
- - [https://students.wisc.edu](https://students.wisc.edu)
- - date_published: 2024-07-02T14:33:06.866652+00:00
-
- ## Study Abroad
- - [https://studyabroad.wisc.edu](https://studyabroad.wisc.edu)
- - date_published: 2024-07-02T14:28:56.268797+00:00
-
- ## Office of Sustainability
- - [https://sustainability.wisc.edu](https://sustainability.wisc.edu)
- - date_published: 2024-07-17T12:33:27.068256+00:00
-
- ## WISCONSIN MATHEMATICS, ENGINEERING AND SCIENCE TALENT SEARCH
- - [https://talent.math.wisc.edu](https://talent.math.wisc.edu)
- - date_published: 2024-07-04T02:22:55.926348+00:00
-
- ## The Weekly : UW–Madison
- - [https://theweekly.wisc.edu](https://theweekly.wisc.edu)
- - date_published: 2024-07-02T14:34:45.132807+00:00
-
- ## All events | UW–Madison Events Calendar
- - [https://today.wisc.edu](https://today.wisc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Tribal Relations
- - [https://tribalrelations.wisc.edu](https://tribalrelations.wisc.edu)
- - date_published: 2024-07-02T14:35:20.043088+00:00
-
- ## CIMSS Tropical Cyclones
- - [http://tropic.ssec.wisc.edu](http://tropic.ssec.wisc.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## University Communications
- - [https://uc.wisc.edu](https://uc.wisc.edu)
- - date_published: 2024-05-07T22:30:57.169671+00:00
-
- ## University Marketing
- - [https://umark.wisc.edu](https://umark.wisc.edu)
- - date_published: 2024-05-07T22:30:54.091288+00:00
-
- ## Home
- - [https://union.wisc.edu](https://union.wisc.edu)
- - date_published: 2024-07-02T14:34:06.057001+00:00
-
- ## University Relations
- - [https://universityrelations.wisc.edu](https://universityrelations.wisc.edu)
- - date_published: 2024-05-07T22:31:05.631891+00:00
-
- ## UW Connects
- - [https://uwconnects.wisc.edu](https://uwconnects.wisc.edu)
- - date_published: 2024-07-02T14:35:23.983696+00:00
-
- ## UWDC Search - UW-Madison Libraries
- - [https://uwdc.library.wisc.edu](https://uwdc.library.wisc.edu)
- - date_published: 2024-07-21T06:51:04.712486+00:00
-
- ## UW Theme Lite – Just another WordPress site
- - [https://uwtheme-lite.wordpress.wisc.edu](https://uwtheme-lite.wordpress.wisc.edu)
- - date_published: 2024-07-02T13:46:05+00:00
-
- ## UW Theme
- - [https://uwtheme.wordpress.wisc.edu](https://uwtheme.wordpress.wisc.edu)
- - date_published: 2024-05-07T22:30:37.281027+00:00
-
- ## UW Veterinary Care | Animal Hospital & Vet Clinic in Madison, WI
- - [https://uwveterinarycare.wisc.edu](https://uwveterinarycare.wisc.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Directory listing unavailable
- - [https://web.library.wisc.edu](https://web.library.wisc.edu)
- - date_published: 2019-03-11T16:33:25+00:00
-
- ## Directory listing unavailable
- - [https://web.lib.wisc.edu](https://web.lib.wisc.edu)
- - date_published: 2019-03-11T16:33:25+00:00
-
- ## Web.math.wisc.edu
- - [https://web.math.wisc.edu](https://web.math.wisc.edu)
- - date_published: 2024-05-29T19:17:38+00:00
-
- ## Web-Needs Survey
- - [https://webneeds.it.wisc.edu](https://webneeds.it.wisc.edu)
- - date_published: 2024-07-02T14:33:09.512953+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://wiki.botany.wisc.edu](https://wiki.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:01.514393+00:00
-
- ## UW-Math Wiki
- - [https://wiki.math.wisc.edu](https://wiki.math.wisc.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## WIPAC – Wisconsin IceCube Particle Astrophysics Center
- - [https://wipac.wisc.edu](https://wipac.wisc.edu)
- - date_published: 2024-05-08T08:47:21.978955+00:00
-
- ## University of Wisconsin–Madison
- - [https://wisc.edu](https://wisc.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## WISCERS
- - [https://wiscers.cs.wisc.edu](https://wiscers.cs.wisc.edu)
- - date_published: 2024-07-02T14:28:37.896641+00:00
-
- ## Please wait...
- - [https://wiscmail.wisc.edu](https://wiscmail.wisc.edu)
- - date_published: 2024-07-21T06:50:56.255209+00:00
-
- ## WiscWeb WordPress Service
- - [https://wiscweb.wisc.edu](https://wiscweb.wisc.edu)
- - date_published: 2024-07-02T14:33:04.101082+00:00
-
- ## Wisconsin Law Review
- - [https://wlr.law.wisc.edu](https://wlr.law.wisc.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## WordPress at UW–Madison
- - [https://wordpress.wisc.edu](https://wordpress.wisc.edu)
- - date_published: 2024-07-02T14:32:54.373705+00:00
-
- ## Computer Systems Lab Secure Web Page
- - [https://www-auth.cs.wisc.edu](https://www-auth.cs.wisc.edu)
- - date_published: 2024-07-02T14:29:03.366807+00:00
-
- ## Computer-Aided Engineering
- - [http://www.cae.wisc.edu](http://www.cae.wisc.edu)
- - date_published: 2024-07-02T14:34:22.190193+00:00
-
- ## Department of Chemistry
- - [http://www.chem.wisc.edu](http://www.chem.wisc.edu)
- - date_published: 2024-10-19T04:29:32.079991+00:00
-
- ## University Housing
- - [https://www.housing.wisc.edu](https://www.housing.wisc.edu)
- - date_published: 2024-07-02T14:33:12.753256+00:00
-
- ## Department of Medicine, University of Wisconsin–Madison
- - [https://www.medicine.wisc.edu](https://www.medicine.wisc.edu)
- - date_published: 2024-09-15T09:03:57+00:00
-
- ## Home Page - Ob-Gyn UW-Madison
- - [https://www.obgyn.wisc.edu](https://www.obgyn.wisc.edu)
- - date_published: 2024-09-18T22:59:52.236783+00:00
-
- ## UW Department of Psychiatry
- - [https://www.psychiatry.wisc.edu](https://www.psychiatry.wisc.edu)
- - date_published: 2024-06-14T23:30:35.862338+00:00
-
- ## Social Science Computing Cooperative
- - [http://www.ssc.wisc.edu](http://www.ssc.wisc.edu)
- - date_published: 2024-07-03T22:39:52.471912+00:00
-
- ## School of Veterinary Medicine
- - [https://www.vetmed.wisc.edu](https://www.vetmed.wisc.edu)
- - date_published: 2024-06-15T17:31:48+00:00
-
- ## UW System Authentication Redirector
- - [https://hrs.wisconsin.edu](https://hrs.wisconsin.edu)
- - date_published: 2024-06-30T02:29:28.734878+00:00
-
- ## Home - Universities of Wisconsin Online
- - [https://online.wisconsin.edu](https://online.wisconsin.edu)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Home - UW HELP
- - [https://uwhelp.wisconsin.edu](https://uwhelp.wisconsin.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Universities of Wisconsin
- - [https://wisconsin.edu](https://wisconsin.edu)
- - date_published: 2024-04-02T17:56:04+00:00
-
- ## A Top-Ranked Liberal Arts College in Ohio | Wittenberg University
- - [http://www.wittenberg.edu](http://www.wittenberg.edu)
- - date_published: 2024-06-21T20:20:36+00:00
-
- ## Western Kentucky University
- - [https://apply.wku.edu](https://apply.wku.edu)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Western Kentucky University < Western Kentucky University
- - [https://catalog.wku.edu](https://catalog.wku.edu)
- - date_published: 2023-10-23T15:38:14+00:00
-
- ## myWKU
- - [https://my.wku.edu](https://my.wku.edu)
- - date_published: 2024-07-14T04:06:30.944967+00:00
-
- ## ITS - Website Hosting - Personal/Professional | Western Kentucky University
- - [https://people.wku.edu](https://people.wku.edu)
- - date_published: 2024-06-21T03:48:17.054169+00:00
-
- ## WKU TopNet
- - [https://topnet.wku.edu](https://topnet.wku.edu)
- - date_published: 2024-06-08T11:55:03+00:00
-
- ## Western Kentucky University
- - [https://wku.edu](https://wku.edu)
- - date_published: 2024-05-11T09:19:50.683326+00:00
-
- ## Admissions & Aid
- - [https://access.wlu.edu](https://access.wlu.edu)
- - date_published: 2024-10-18T22:19:45.918431+00:00
-
- ## The Columns
- - [https://columns.wlu.edu](https://columns.wlu.edu)
- - date_published: 2024-10-18T22:19:51.848555+00:00
-
- ## Home
- - [https://go.wlu.edu](https://go.wlu.edu)
- - date_published: 2024-10-18T22:19:40.264619+00:00
-
- ## Washington and Lee University School of Law
- - [http://law.wlu.edu](http://law.wlu.edu)
- - date_published: 2024-06-17T11:14:52.218385+00:00
-
- ## Home
- - [https://wlu.edu](https://wlu.edu)
- - date_published: 2024-10-18T22:19:43.349630+00:00
-
- ## Home
- - [http://law.wm.edu](http://law.wm.edu)
- - date_published: 2024-09-12T20:07:34.014938+00:00
-
- ## W&M News
- - [https://news.wm.edu](https://news.wm.edu)
- - date_published: 2024-07-03T07:38:21.963590+00:00
-
- ## Home - OIEAHC
- - [https://oieahc.wm.edu](https://oieahc.wm.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## W&M Law School Scholarship Repository
- - [https://scholarship.law.wm.edu](https://scholarship.law.wm.edu)
- - date_published: 2024-06-12T12:51:45.722051+00:00
-
- ## Institutional repository of scholarship, research, and publications at William & Mary
- - [https://scholarworks.wm.edu](https://scholarworks.wm.edu)
- - date_published: 2024-09-12T20:07:29.894467+00:00
-
- ## William & Mary
- - [https://www.wm.edu](https://www.wm.edu)
- - date_published: 2024-10-16T04:57:35.162414+00:00
-
- ## Home | WMed
- - [https://wmed.edu](https://wmed.edu)
- - date_published: 2024-07-01T12:56:24+00:00
-
- ## ScholarWorks at WMU
- - [http://scholarworks.wmich.edu](http://scholarworks.wmich.edu)
- - date_published: 2024-10-29T18:17:28.162622+00:00
 

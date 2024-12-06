@@ -1,3 +1,435 @@
+ ## Neuigkeiten
+ - [https://mcs.phil2.uni-wuerzburg.de](https://mcs.phil2.uni-wuerzburg.de)
+ - date_published: 2024-06-10T07:16:19+00:00
+
+ ## Medizinische Fakultät - Medizinische Fakultät
+ - [https://med.uni-wuerzburg.de](https://med.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:44.042071+00:00
+
+ ## Neuphilologisches Institut - Neuphilologisches Institut – Moderne Fremdsprachen
+ - [https://neuphil.uni-wuerzburg.de](https://neuphil.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:06.418518+00:00
+
+ ## OPUS Würzburg | HOME
+ - [https://opus.bibliothek.uni-wuerzburg.de](https://opus.bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:01.582452+00:00
+
+ ## Philosophische Fakultät - Philosophische Fakultät
+ - [https://phil.uni-wuerzburg.de](https://phil.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:32.909215+00:00
+
+ ## Fakultät für Physik und Astronomie - Fakultät für Physik und Astronomie
+ - [https://physik.uni-wuerzburg.de](https://physik.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:11.493804+00:00
+
+ ## Rechenzentrum & IT-Dienste - Rechenzentrum
+ - [https://rz.uni-wuerzburg.de](https://rz.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:39.299213+00:00
+
+ ## Katholisch-Theologische Fakultät - Katholisch-Theologische Fakultät
+ - [https://theologie.uni-wuerzburg.de](https://theologie.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:29.815347+00:00
+
+ ## Universität Würzburg - Universität Würzburg
+ - [https://uni-wuerzburg.de](https://uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:31:59.461709+00:00
+
+ ## Sign In
+ - [https://user-portal.rz.uni-wuerzburg.de](https://user-portal.rz.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:59.867026+00:00
+
+ ## Virtuelle Bibliothek Würzburg
+ - [http://vb.uni-wuerzburg.de](http://vb.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:31:57.044566+00:00
+
+ ## Sign in to your account
+ - [https://webstats.uni-wuerzburg.de](https://webstats.uni-wuerzburg.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## IfI Wiki | IfI - central IT systems
+ - [https://wiki.informatik.uni-wuerzburg.de](https://wiki.informatik.uni-wuerzburg.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Wirtschaftswissenschaftl. Fakultät
+ - [https://wiwi.uni-wuerzburg.de](https://wiwi.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:41.170563+00:00
+
+ ## WueAddress
+ - [https://wueaddress.uni-wuerzburg.de](https://wueaddress.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:37.303194+00:00
+
+ ## Home | WueCampus
+ - [https://wuecampus.uni-wuerzburg.de](https://wuecampus.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:01.568733+00:00
+
+ ## Startseite | WueStart
+ - [https://wuestart.uni-wuerzburg.de](https://wuestart.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:42.347308+00:00
+
+ ## Weiterleitung
+ - [https://wuestudy.uni-wuerzburg.de](https://wuestudy.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:02.712387+00:00
+
+ ## Weiterleitung
+ - [https://wuestudy.zv.uni-wuerzburg.de](https://wuestudy.zv.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:50.633519+00:00
+
+ ## Micro Focus Vibe
+ - [http://wueteams.uni-wuerzburg.de](http://wueteams.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:44.131393+00:00
+
+ ## Würzburg University Press - Würzburg University Press
+ - [https://wup.uni-wuerzburg.de](https://wup.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:45.121955+00:00
+
+ ## UBWü - Go to Homepage
+ - [https://www2.bibliothek.uni-wuerzburg.de](https://www2.bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:04.097099+00:00
+
+ ## Universität Würzburg - Universität Würzburg
+ - [https://www2.uni-wuerzburg.de](https://www2.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:29.917710+00:00
+
+ ## Institut für Evangelische Theologie und Religionspädagogik - Institut für Evangelische Theologie und Religionspädagogik
+ - [https://www.ev-theologie.uni-wuerzburg.de](https://www.ev-theologie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:36.817919+00:00
+
+ ## Institut für Geographie und Geologie - Institut für Geographie und Geologie
+ - [https://www.geographie.uni-wuerzburg.de](https://www.geographie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:41.147615+00:00
+
+ ## Institut für deutsche Philologie - Institut für deutsche Philologie
+ - [https://www.germanistik.uni-wuerzburg.de](https://www.germanistik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:34.719008+00:00
+
+ ## Institut für Geschichte - Institut für Geschichte
+ - [https://www.geschichte.uni-wuerzburg.de](https://www.geschichte.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:36.890837+00:00
+
+ ## Institut für Informatik - Institut für Informatik
+ - [https://www.informatik.uni-wuerzburg.de](https://www.informatik.uni-wuerzburg.de)
+ - date_published: 2024-05-06T19:58:51.128516+00:00
+
+ ## Institut für Klassische Philologie - Institut für klassische Philologie
+ - [https://www.klassphil.uni-wuerzburg.de](https://www.klassphil.uni-wuerzburg.de)
+ - date_published: 2024-07-19T23:09:55.940858+00:00
+
+ ## Institut für Mathematik - Institut für Mathematik
+ - [https://www.mathematik.uni-wuerzburg.de](https://www.mathematik.uni-wuerzburg.de)
+ - date_published: 2024-06-26T22:12:48.960789+00:00
+
+ ## Institut Mensch-Computer-Medien - Mensch-Computer-Medien
+ - [https://www.mcm.uni-wuerzburg.de](https://www.mcm.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:40.187166+00:00
+
+ ## Institut für Musikforschung - Institut für Musikforschung
+ - [https://www.musikwissenschaft.uni-wuerzburg.de](https://www.musikwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:39.461403+00:00
+
+ ## Institut für Pädagogik - Institut für Pädagogik
+ - [https://www.paedagogik.uni-wuerzburg.de](https://www.paedagogik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:34.811812+00:00
+
+ ## Institut für Pharmazie und Lebensmittelchemie - Institut für Pharmazie und Lebensmittelchemie
+ - [https://www.pharmazie.uni-wuerzburg.de](https://www.pharmazie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:19.726003+00:00
+
+ ## Institut für Philosophie - Institut für Philosophie
+ - [https://www.philosophie.uni-wuerzburg.de](https://www.philosophie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:47.157236+00:00
+
+ ## Institut für Politikwissenschaft und Soziologie - Institut für Politikwissenschaft und Soziologie
+ - [https://www.politikwissenschaft.uni-wuerzburg.de](https://www.politikwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:42.472987+00:00
+
+ ## Institut für Psychologie - Institut für Psychologie
+ - [https://www.psychologie.uni-wuerzburg.de](https://www.psychologie.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:49.676635+00:00
+
+ ## Institut für Sonderpädagogik - Institut für Sonderpädagogik
+ - [https://www.sonderpaedagogik.uni-wuerzburg.de](https://www.sonderpaedagogik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:38.361949+00:00
+
+ ## Sportwissenschaft
+ - [https://www.sportwissenschaft.uni-wuerzburg.de](https://www.sportwissenschaft.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:33:45.661562+00:00
+
+ ## Unishop Würzburg | UNISHOP WÜRZBURG
+ - [https://unishop.uni-wuerzburg-gmbh.de](https://unishop.uni-wuerzburg-gmbh.de)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Universität Würzburg GmbH
+ - [https://uni-wuerzburg-gmbh.de](https://uni-wuerzburg-gmbh.de)
+ - date_published: 2024-04-29T07:01:49.997289+00:00
+
+ ## Sign in - Matomo
+ - [https://use.uni-wuerzburg-gmbh.de](https://use.uni-wuerzburg-gmbh.de)
+ - date_published: 2024-07-24T03:39:37.791820+00:00
+
+ ## Startseite Berufung
+ - [https://berufung.uni-wuppertal.de](https://berufung.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:49.202501+00:00
+
+ ## Bilddatenbank - Bergische Universität Wuppertal
+ - [https://bilddatenbank.uni-wuppertal.de](https://bilddatenbank.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:34+00:00
+
+ ## Sign in - Matomo
+ - [https://buwal.uni-wuppertal.de](https://buwal.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:42.669949+00:00
+
+ ## Startseite Dezernat 1
+ - [https://dez1.uni-wuppertal.de](https://dez1.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:34.477898+00:00
+
+ ## Startseite Dezernat 2
+ - [https://dez2.uni-wuppertal.de](https://dez2.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:11.098795+00:00
+
+ ## Startseite Dezernat 3
+ - [https://dez3.uni-wuppertal.de](https://dez3.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:28.560307+00:00
+
+ ## Startseite Dezernat 4
+ - [https://dez4.uni-wuppertal.de](https://dez4.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:58.174338+00:00
+
+ ## Dezernat 5
+ - [https://dez5.uni-wuppertal.de](https://dez5.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:53.743490+00:00
+
+ ## Startseite Dezernat 6
+ - [https://dez6.uni-wuppertal.de](https://dez6.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:18.369526+00:00
+
+ ## Startseite Dezernat 7
+ - [https://dez7.uni-wuppertal.de](https://dez7.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:18.866837+00:00
+
+ ## School of Education, Lehrer*innenbildung, Bildungswissenschaften Forschung und Lehre, Master of Education,
+ - [https://edu.uni-wuppertal.de](https://edu.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:50.622748+00:00
+
+ ## Startseite Fakultät für Geistes- und Kulturwissenschaften
+ - [https://fk1.uni-wuppertal.de](https://fk1.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:09.862378+00:00
+
+ ## Startseite Fakultät für Human- und Sozialwissenschaften
+ - [https://fk2.uni-wuppertal.de](https://fk2.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:16.006841+00:00
+
+ ## Startseite Fakultät für Mathematik und Naturwissenschaften
+ - [https://fk4.uni-wuppertal.de](https://fk4.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:10.714284+00:00
+
+ ## Fakultät 6 der Uni-Wuppertal
+ - [https://fk6.uni-wuppertal.de](https://fk6.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:47.540987+00:00
+
+ ## Maschinenbau / Sicherheitstechnik
+ - [https://fk7.uni-wuppertal.de](https://fk7.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:41.019459+00:00
+
+ ## Startseite
+ - [https://fk8.uni-wuppertal.de](https://fk8.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:50:01.226519+00:00
+
+ ## Zentrale Gleichstellungsbeauftragte der Bergischen Universität Wuppertal (BUW)
+ - [https://gleichstellungsbeauftragte.uni-wuppertal.de](https://gleichstellungsbeauftragte.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:43.380907+00:00
+
+ ## Startseite Karriere
+ - [http://karriere.uni-wuppertal.de](http://karriere.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:20.781665+00:00
+
+ ## Startseite Stiftungs- & Kooperationsmanagement
+ - [https://kooperation.uni-wuppertal.de](https://kooperation.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:37.228570+00:00
+
+ ## Log in to the site | Universität Wuppertal - Moodle
+ - [https://moodle.uni-wuppertal.de](https://moodle.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:41.584233+00:00
+
+ ## Start-up Center - Die Gündungsberatung der BUW
+ - [https://startupcenter.uni-wuppertal.de](https://startupcenter.uni-wuppertal.de)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Weiterleitung
+ - [https://stellenausschreibungen.uni-wuppertal.de](https://stellenausschreibungen.uni-wuppertal.de)
+ - date_published: 2024-02-02T10:15:06+00:00
+
+ ## Weiterleitung
+ - [https://studiloewe.uni-wuppertal.de](https://studiloewe.uni-wuppertal.de)
+ - date_published: 2024-03-07T07:36:39+00:00
+
+ ## UniService Digitale Transformation - Bergische Universität Wuppertal
+ - [https://uniservice-dt.uni-wuppertal.de](https://uniservice-dt.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:08.463585+00:00
+
+ ## Startseite
+ - [https://uni-wuppertal.de](https://uni-wuppertal.de)
+ - date_published: 2024-05-07T23:01:36.058755+00:00
+
+ ## Webmail-BUW
+ - [https://webmail.uni-wuppertal.de](https://webmail.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:45.120532+00:00
+
+ ## Startseite Alumni-Services
+ - [https://www.alumni.uni-wuppertal.de](https://www.alumni.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:30.049195+00:00
+
+ ## Startseite Fakultät
+ - [https://www.archbau.uni-wuppertal.de](https://www.archbau.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:39.118532+00:00
+
+ ## Startseite Universitätsarchiv
+ - [https://www.archiv.uni-wuppertal.de](https://www.archiv.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:24.565158+00:00
+
+ ## Startseite
+ - [https://www.bib.uni-wuppertal.de](https://www.bib.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:27.000477+00:00
+
+ ## Forschungsdaten
+ - [https://www.fdm.uni-wuppertal.de](https://www.fdm.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:40.162791+00:00
+
+ ## Startseite UniSport
+ - [http://www.hochschulsport.uni-wuppertal.de](http://www.hochschulsport.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:17.034730+00:00
+
+ ## Jahrbuch
+ - [https://www.jahrbuch.uni-wuppertal.de](https://www.jahrbuch.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:23.916917+00:00
+
+ ## Startseite Kommunikation
+ - [http://www.kommunikation.uni-wuppertal.de](http://www.kommunikation.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:38.594576+00:00
+
+ ## Startseite Uni-Konzerte
+ - [http://www.konzerte.uni-wuppertal.de](http://www.konzerte.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:15.113797+00:00
+
+ ## Startseite UNImarketing
+ - [https://www.marketing.uni-wuppertal.de](https://www.marketing.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:17.622586+00:00
+
+ ## Startseite Pressestelle
+ - [https://www.presse.uni-wuppertal.de](https://www.presse.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:21.623369+00:00
+
+ ## Personalrat der Beschäftigten in Technik und Verwaltung
+ - [https://www.pr-tuv.uni-wuppertal.de](https://www.pr-tuv.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:20.496171+00:00
+
+ ## Startseite PR-WISS
+ - [https://www.prwiss.uni-wuppertal.de](https://www.prwiss.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:23.393594+00:00
+
+ ## Startseite QSL
+ - [http://www.qsl.uni-wuppertal.de](http://www.qsl.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:14.734048+00:00
+
+ ## Startseite
+ - [https://www.sbv.uni-wuppertal.de](https://www.sbv.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:12.594155+00:00
+
+ ## Startseite Sprachlehrinstitut
+ - [http://www.sli.uni-wuppertal.de](http://www.sli.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:46.034969+00:00
+
+ ## Startdenker*innen
+ - [https://www.startdenker.uni-wuppertal.de](https://www.startdenker.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:13.177255+00:00
+
+ ## Stipendien und Förderung
+ - [https://www.stipendien.uni-wuppertal.de](https://www.stipendien.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:43.587826+00:00
+
+ ## Startseite Studierendensekretariat
+ - [https://www.studierendensekretariat.uni-wuppertal.de](https://www.studierendensekretariat.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:27.060896+00:00
+
+ ## Transfer
+ - [http://www.transfer.uni-wuppertal.de](http://www.transfer.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:47:56.120466+00:00
+
+ ## Fakultät für Wirtschaftswissenschaft - Schumpeter School of Business and Economics
+ - [https://www.wiwi.uni-wuppertal.de](https://www.wiwi.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:33.646618+00:00
+
+ ## Startseite ZPA
+ - [https://www.zpa.uni-wuppertal.de](https://www.zpa.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:04.347794+00:00
+
+ ## Zentrale Studienberatung der Bergischen Universität Wuppertal
+ - [http://www.zsb.uni-wuppertal.de](http://www.zsb.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:36.431242+00:00
+
+ ## Zentrum für Weiterbildung
+ - [https://www.zwb.uni-wuppertal.de](https://www.zwb.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:46:31.568823+00:00
+
+ ## Startseite ZIM
+ - [https://zim.uni-wuppertal.de](https://zim.uni-wuppertal.de)
+ - date_published: 2024-07-02T17:48:29.171970+00:00
+
+ ## Welcome to nginx!
+ - [http://unrealed.de](http://unrealed.de)
+ - date_published: 2021-05-03T09:07:34+00:00
+
+ ## Unreal Software - game dev and stuff
+ - [https://unrealsoftware.de](https://unrealsoftware.de)
+ - date_published: 2024-06-18T06:58:32.420400+00:00
+
+ ## Homepage
+ - [http://www4.unserding.de](http://www4.unserding.de)
+ - date_published: 2024-07-14T02:30:30.061089+00:00
+
+ ## Homepage
+ - [https://www.unserding.de](https://www.unserding.de)
+ - date_published: 2024-07-13T09:04:58.821399+00:00
+
+ ## Unternehmensregister
+ - [https://www.unternehmensregister.de](https://www.unternehmensregister.de)
+ - date_published: 2024-08-19T19:20:49.103653+00:00
+
+ ## Zentrum für Innovation & Gründung
+ - [https://unternehmertum.de](https://unternehmertum.de)
+ - date_published: 2024-08-06T18:32:27.787118+00:00
+
+ ## Carl von Ossietzky Universität Oldenburg
+ - [https://uol.de](https://uol.de)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Sign in
+ - [https://code.uplex.de](https://code.uplex.de)
+ - date_published: 2018-05-24T00:00:00+00:00
+
+ ## UPLEX Home - understanding complex systems
+ - [https://uplex.de](https://uplex.de)
+ - date_published: 2023-03-29T12:56:27+00:00
+
+ ## uppr Performance Network
+ - [https://netzwerk.uppr.de](https://netzwerk.uppr.de)
+ - date_published: 2024-05-06T17:32:06.652655+00:00
+
+ ## Upspeak - Dein Mentor im Ohr
+ - [https://upspeak.de](https://upspeak.de)
+ - date_published: 2024-07-10T11:06:20.790550+00:00
+
+ ## DBIS: Fachübersicht
+ - [https://dbis.ur.de](https://dbis.ur.de)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
+ - [https://ezb.ur.de](https://ezb.ur.de)
+ - date_published: 2024-07-09T20:13:01.758954+00:00
+
+ ## Stream - Urbane Künste Ruhr
+ - [https://urbanekuensteruhr.de](https://urbanekuensteruhr.de)
+ - date_published: 2024-05-11T07:40:18.441784+00:00
+
  ## Nettes Stadtgarten
  - [https://urban-gardening-blog.de](https://urban-gardening-blog.de)
  - date_published: 2024-07-16T15:12:12+00:00
@@ -3586,442 +4018,4 @@ Bibliotheken / Z39.50
  ## Microsoft Design
  - [https://microsoft.design](https://microsoft.design)
  - date_published: 2024-04-29T07:18:49.713895+00:00
-
- ## Welcome to your Strapi app
- - [https://storytelling-cms.microsoft.design](https://storytelling-cms.microsoft.design)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Microsoft Design - Wallpapers
- - [https://wallpapers.microsoft.design](https://wallpapers.microsoft.design)
- - date_published: 2024-07-23T23:59:39.652985+00:00
-
- ## Mindstate Design Labs
- - [https://mindstate.design](https://mindstate.design)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Miris Whispers
- - [https://blog.miris.design](https://blog.miris.design)
- - date_published: 2023-10-25T18:34:31.450280+00:00
-
- ## Home - Mozilla Dot Design
- - [https://mozilla.design](https://mozilla.design)
- - date_published: 2024-05-08T10:31:09.668343+00:00
-
- ## nick trombley . design
- - [https://nicktrombley.design](https://nicktrombley.design)
- - date_published: 2024-06-14T15:06:41.047493+00:00
-
- ## Nord Design System
- - [https://nordhealth.design](https://nordhealth.design)
- - date_published: 2024-05-14T04:03:47.126834+00:00
-
- ## OFF MENU | Full-Service Creative Partner for Fast Moving Teams
- - [https://offmenu.design](https://offmenu.design)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Front Page – OFICINA
- - [https://oficina.design](https://oficina.design)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Olivia Truong
- - [https://www.oliviatruong.design](https://www.oliviatruong.design)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Onur Çoban
- - [https://onur.design](https://onur.design)
- - date_published: 2024-05-09T06:17:43.310266+00:00
-
- ## Open & Honest
- - [https://openandhonest.design](https://openandhonest.design)
- - date_published: 2024-10-18T21:07:38.449770+00:00
-
- ## Open Up! – Community for open design
- - [https://openup.design](https://openup.design)
- - date_published: 2024-04-25T15:31:54.993786+00:00
-
- ## Order - Design
- - [https://order.design](https://order.design)
- - date_published: 2024-07-12T16:37:38.747608+00:00
-
- ## 🧰 Page Builder
- - [https://pagebuilder.design](https://pagebuilder.design)
- - date_published: 2023-07-27T18:27:02+00:00
-
- ## Paul Schoppert Design
- - [http://paulschoppert.design](http://paulschoppert.design)
- - date_published: 2024-07-13T14:47:49.882009+00:00
-
- ## Plaid Shaman Design & Web Development Studio
- - [https://plaidshaman.design](https://plaidshaman.design)
- - date_published: 2024-10-30T21:17:10.325424+00:00
-
- ## plaintext design
- - [https://plaintext.design](https://plaintext.design)
- - date_published: 2024-05-09T08:24:19.272356+00:00
-
- ## Plau
- - [https://plau.design](https://plau.design)
- - date_published: 2024-10-29T13:36:44.231815+00:00
-
- ## Logo & Guidelines
- - [https://porkbun.design](https://porkbun.design)
- - date_published: 2021-04-30T23:37:04+00:00
-
- ## Genentech: Prescient Design
- - [https://www.prescient.design](https://www.prescient.design)
- - date_published: 2024-07-08T15:40:05+00:00
-
- ## Presenting Persuasively
- - [https://learn.presentation.design](https://learn.presentation.design)
- - date_published: 2024-06-23T10:13:33.198921+00:00
-
- ## Presentation.Design
- - [https://www.presentation.design](https://www.presentation.design)
- - date_published: 2023-10-26T00:00:00+00:00
-
- ## Primo - The Better Banner Builder
- - [https://primo.design](https://primo.design)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Design Principles
- - [https://principles.design](https://principles.design)
- - date_published: 2024-04-29T07:17:48.715040+00:00
-
- ## Prototyper for Figma
- - [https://prototyper.design](https://prototyper.design)
- - date_published: 2024-07-09T19:17:28.288599+00:00
-
- ## Home | Raaad Design Studio
- - [http://www.raaad.design](http://www.raaad.design)
- - date_published: 2024-10-28T03:11:20.855225+00:00
-
- ## Radical web design
- - [https://radicalweb.design](https://radicalweb.design)
- - date_published: 2024-07-10T07:54:58.729918+00:00
-
- ## Radmir Volk | Multidisciplinary designer
- - [https://radmirvolk.design](https://radmirvolk.design)
- - date_published: 2024-10-29T13:36:39.645743+00:00
-
- ## Rafa's website
- - [https://rafa.design](https://rafa.design)
- - date_published: 2024-05-08T03:05:18.408616+00:00
-
- ## Rayon.design: Draw floor plans faster together
- - [https://www.rayon.design](https://www.rayon.design)
- - date_published: 2024-08-19T21:29:42.281900+00:00
-
- ## Reconstrained Design
- - [https://reconstrained.design](https://reconstrained.design)
- - date_published: 2023-12-11T16:18:13.316990+00:00
-
- ## Rectangle
- - [https://rectangle.design](https://rectangle.design)
- - date_published: 2024-08-18T19:05:45.104922+00:00
-
- ## Recursive Sans & Mono
- - [https://www.recursive.design](https://www.recursive.design)
- - date_published: 2024-06-23T06:25:26.494662+00:00
-
- ## Refero — design references for your next project
- - [https://refero.design](https://refero.design)
- - date_published: 2024-04-29T07:15:44.898000+00:00
-
- ## Roast my landing page
- - [https://roasted.design](https://roasted.design)
- - date_published: 2024-10-17T14:15:29.244618+00:00
-
- ## Rober González - Lead UI & IxD / Data Visualization Designer
- - [https://rober.design](https://rober.design)
- - date_published: 2024-03-08T08:53:02+00:00
-
- ## Robin Gabriel Design
- - [https://robingabriel.design](https://robingabriel.design)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Rob Lewis, Designer
- - [http://roblewis.design](http://roblewis.design)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Roland Szabó | Senior Web Designer
- - [https://rolandszabo.design](https://rolandszabo.design)
- - date_published: 2024-05-07T23:12:34.912941+00:00
-
- ## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
- - [https://rolle.design](https://rolle.design)
- - date_published: 2023-12-19T02:59:27.788104+00:00
- - tags: ['personal']
-
- ## Rolodex Design | The top freelance design directory
- - [https://rolodex.design](https://rolodex.design)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Ron Bronson
- - [https://ronbronson.design](https://ronbronson.design)
- - date_published: 2024-05-10T06:32:12.680284+00:00
- - tags: ['personal']
-
- ## Ruined by Design
- - [https://www.ruinedby.design](https://www.ruinedby.design)
- - date_published: 2024-08-19T07:28:34.039129+00:00
-
- ## Sabai Design: Affordable, Sustainable & Convenient Furniture
- - [https://sabai.design](https://sabai.design)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home | Sahar Heumesser
- - [https://sahar.design](https://sahar.design)
- - date_published: 2024-07-20T15:18:27.970432+00:00
-
- ## Saman Archive
- - [https://archive.saman.design](https://archive.saman.design)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Saman Icons
- - [https://icons.saman.design](https://icons.saman.design)
- - date_published: 2024-05-10T05:33:21.544366+00:00
-
- ## SAMAN
- - [https://saman.design](https://saman.design)
- - date_published: 2024-07-12T16:37:41.289734+00:00
-
- ## Sam King
- - [https://samking.design](https://samking.design)
- - date_published: 2024-07-09T19:14:28.977380+00:00
-
- ## Semi Design
- - [https://semi.design](https://semi.design)
- - date_published: 2024-07-09T19:01:02.885473+00:00
-
- ## SevenType | An Independent Multi-script Type Design Studio
- - [https://seventype.design](https://seventype.design)
- - date_published: 2024-10-29T14:04:04.425637+00:00
-
- ## shaper
- - [https://shaper.design](https://shaper.design)
- - date_published: 2024-08-18T13:09:06.618414+00:00
-
- ## Shelby Klein Design - Shelby Klein Design
- - [http://shelbyklein.design](http://shelbyklein.design)
- - date_published: 2023-08-14T17:52:18+00:00
-
- ## Shopware – Meteor Design System
- - [https://shopware.design](https://shopware.design)
- - date_published: 2024-09-04T15:34:36.228107+00:00
-
- ## Sigma Software Design
- - [https://sigmasoftware.design](https://sigmasoftware.design)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## SINK
- - [https://sink.design](https://sink.design)
- - date_published: 2024-07-19T17:51:53.449113+00:00
-
- ## Skeuomorphic Design: Lessons from Apple's Golden Era | Michael Darius | Substack
- - [https://skeuomorphic.design](https://skeuomorphic.design)
- - date_published: 2024-09-04T04:41:37.092036+00:00
-
- ## Slack Design
- - [https://slack.design](https://slack.design)
- - date_published: 2023-11-02T16:39:18.847159+00:00
-
- ## Snowdrop.design |  Product Design, UI/UX, websites for founders
- - [https://snowdrop.design](https://snowdrop.design)
- - date_published: 2024-05-29T14:18:03+00:00
-
- ## Spline
- - [https://app.spline.design](https://app.spline.design)
- - date_published: 2024-06-20T15:23:44.998275+00:00
-
- ## Spline Community - A new home for your creativity
- - [https://community.spline.design](https://community.spline.design)
- - date_published: 2024-09-04T11:13:59.906398+00:00
-
- ## spline_my_design
- - [https://my.spline.design](https://my.spline.design)
- - date_published: 2020-12-04T00:36:31+00:00
-
- ## Spline - 3D Design tool in the browser with real-time collaboration
- - [https://spline.design](https://spline.design)
- - date_published: 2024-06-20T15:24:09.263792+00:00
-
- ## Home
- - [https://spotify.design](https://spotify.design)
- - date_published: 2024-04-29T07:17:03.664294+00:00
-
- ## Staff Design
- - [https://staff.design](https://staff.design)
- - date_published: 2024-06-23T11:11:21.700277+00:00
-
- ## Stammy.design
- - [https://stammy.design](https://stammy.design)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Standard - Design & technology consultancy
- - [https://standard.design](https://standard.design)
- - date_published: 2024-09-05T20:15:46.111877+00:00
-
- ## Statista Content & Design
- - [https://statista.design](https://statista.design)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Time saving Expert UX Templates and Resources -- By Stéphanie Walter
- - [https://shop.stephaniewalter.design](https://shop.stephaniewalter.design)
- - date_published: 2024-07-02T19:36:36.384342+00:00
-
- ## Stéphanie Walter - UX Researcher & Product designer, Mobile Expert, Speaker, Blog writer.
- - [https://stephaniewalter.design](https://stephaniewalter.design)
- - date_published: 2024-05-07T23:17:07.469502+00:00
-
- ## Steve Polito is a full stack web developer in the Boston Area
- - [https://stevepolito.design](https://stevepolito.design)
- - date_published: 2023-10-25T18:34:32.217038+00:00
-
- ## Stöckli Design
- - [https://stoeckli.design](https://stoeckli.design)
- - date_published: 2024-06-19T15:39:37.580104+00:00
-
- ## Strate, école de design à Paris et Lyon
- - [https://www.strate.design](https://www.strate.design)
- - date_published: 2024-10-31T03:11:16+00:00
-
- ## STUDIO | The best free website builder for designers
- - [https://studio.design](https://studio.design)
- - date_published: 2024-06-19T20:10:46.890627+00:00
-
- ## Superposition: Use the design system you already have
- - [https://superposition.design](https://superposition.design)
- - date_published: 2022-04-07T09:25:20+00:00
-
- ## Houston Webflow Web Design Experts | Sweven.design
- - [https://sweven.design](https://sweven.design)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Team
- - [https://team.design](https://team.design)
- - date_published: 2024-07-15T06:52:01.157961+00:00
-
- ## Home
- - [https://think.design](https://think.design)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## story.to.design | Generate Figma components from code
- - [https://story.to.design](https://story.to.design)
- - date_published: 2024-07-04T15:15:11+00:00
-
- ## Today in Design
- - [https://news.todayin.design](https://news.todayin.design)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Tom Newspring
- - [https://tomnewspring.design](https://tomnewspring.design)
- - date_published: 2024-05-26T05:50:26+00:00
-
- ## Top Level Design
- - [https://toplevel.design](https://toplevel.design)
- - date_published: 2024-06-03T06:11:53.064696+00:00
-
- ## Trueform | Digital Experience Studio
- - [https://www.trueform.design](https://www.trueform.design)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Work | twenty-six.design
- - [http://www.twenty-six.design](http://www.twenty-six.design)
- - date_published: 2024-05-15T15:28:42+00:00
-
- ## Undertone.design | Academic graphic design
- - [https://undertone.design](https://undertone.design)
- - date_published: 2024-04-30T06:03:28.489976+00:00
-
- ## Blank: Figma UI kit and Design system
- - [https://useblank.design](https://useblank.design)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## USTUDIO Design | Award Winning Greeting Card Publisher
- - [https://ustudio.design](https://ustudio.design)
- - date_published: 2024-07-23T21:13:43.942842+00:00
-
- ## Vev Design
- - [https://a.vev.design](https://a.vev.design)
- - date_published: 2018-07-28T14:10:51+00:00
-
- ## VisualEyes - Optimize your UX via Attention Heatmaps and Clarity
- - [https://www.visualeyes.design](https://www.visualeyes.design)
- - date_published: 2024-06-29T15:34:23.637644+00:00
-
- ## Vishal Krishna • Visual and UX Designer
- - [https://vsk.design](https://vsk.design)
- - date_published: 2024-07-24T02:30:18.464022+00:00
-
- ## wahnsinn design
- - [https://wahnsinn.design](https://wahnsinn.design)
- - date_published: 2024-06-26T11:17:09+00:00
-
- ## WeDesign
- - [http://wechat.design](http://wechat.design)
- - date_published: 2024-08-05T23:46:37.572880+00:00
-
- ## Work – Werk 8
- - [https://www.werk8.design](https://www.werk8.design)
- - date_published: 2024-07-14T08:50:49.943363+00:00
-
- ## Wise Design
- - [https://wise.design](https://wise.design)
- - date_published: 2023-10-25T18:34:32.784058+00:00
-
- ## Студія «Зіна дизайн» - створення сайтів в Дніпрі
- - [https://www.zina.design](https://www.zina.design)
- - date_published: 2024-06-23T14:14:18.881195+00:00
-
- ## 0dependencies!
- - [https://0dependencies.dev](https://0dependencies.dev)
- - date_published: 2024-09-05T00:10:55+00:00
-
- ## Tech @ Cliqz
- - [https://0x65.dev](https://0x65.dev)
- - date_published: 2020-05-16T08:56:54+00:00
- - tags: ['personal']
-
- ## 0x7D0
- - [https://0x7d0.dev](https://0x7d0.dev)
- - date_published: 2024-01-20T00:00:00+00:00
- - tags: ['personal', 'hacking']
-
- ## 0x7D0
- - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
- - date_published: 2023-10-25T18:34:34.220775+00:00
- - tags: ['personal', 'hacking']
-
- ## 0x7f Inc.
- - [https://0x7f.dev](https://0x7f.dev)
- - date_published: 2023-10-25T18:34:34.827334+00:00
-
- ## 0x7f Notes
- - [https://notes.0x7f.dev](https://notes.0x7f.dev)
- - date_published: 2024-08-19T04:22:25.180442+00:00
-
- ## 0xCB - Tech, Keyboards and more
- - [https://0xcb.dev](https://0xcb.dev)
- - date_published: 2024-06-21T22:05:58.748190+00:00
-
- ## Eleventy is a simpler static site generator
- - [https://11ty.dev](https://11ty.dev)
- - date_published: 2024-02-16T00:00:00+00:00
- - tags: ['self-host', 'static websites']
-
- ## 11ty’s International Symposium on Making Web Sites Real Good
- - [https://conf.11ty.dev](https://conf.11ty.dev)
- - date_published: 2024-05-07T18:48:43.330288+00:00
-
- ## 11ty Merch
- - [https://merch.11ty.dev](https://merch.11ty.dev)
- - date_published: 2024-05-07T18:48:40.563426+00:00
-
- ## THE Eleventy Meetup
- - [https://11tymeetup.dev](https://11tymeetup.dev)
- - date_published: 2024-04-29T07:27:21.280515+00:00
-
- ## 12 Days of Web
- - [https://12daysofweb.dev](https://12daysofweb.dev)
- - date_published: 2024-04-30T00:34:50.848266+00:00
 

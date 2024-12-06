@@ -1,3 +1,32 @@
+ ## CloudBees Blog
+ - [https://blog.codeship.com](https://blog.codeship.com)
+ - date_published: 2024-06-22T16:03:36.244582+00:00
+
+ ## CloudBees CodeShip | Software as a Service (SaaS) CI/CD Solution
+ - [https://codeship.com](https://codeship.com)
+ - date_published: 2024-05-01T06:29:28.629091+00:00
+
+ ## CodeSignal - Discover and Develop In-Demand Skills
+ - [https://codesignal.com](https://codesignal.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Online Resumé of Martin Finnerup
+ - [https://codeslasher.com](https://codeslasher.com)
+ - date_published: 2023-05-30T14:59:04+00:00
+ - tags: ['personal']
+
+ ## Coffee: Never Surprise your Customers
+ - [http://codesnipers.com](http://codesnipers.com)
+ - date_published: 2024-06-28T20:09:46.346979+00:00
+
+ ## Codesolvent Blog
+ - [https://blog.codesolvent.com](https://blog.codesolvent.com)
+ - date_published: 2023-10-25T13:28:28.190326+00:00
+
+ ## Solvent Sign In
+ - [https://cloud.codesolvent.com](https://cloud.codesolvent.com)
+ - date_published: 2024-03-06T19:09:06+00:00
+
  ## Codesolvent - Web development on the web - java ruby python javascript clojure groovy velocity
  - [https://codesolvent.com](https://codesolvent.com)
  - date_published: 2024-05-08T05:49:33.481110+00:00
@@ -2460,7 +2489,7 @@ Glass, Collectibles
  ## AEROSPACE REDEFINED
  - [https://collinsaerospace.com](https://collinsaerospace.com)
  - date_published: 2024-07-02T04:18:37.388214+00:00
- - tags: ['company', 'avionics', 'collins aerospace', 'aviation']
+ - tags: ['company', 'aviation', 'collins aerospace', 'aviation']
 
  ## Cierpliwości...
  - [https://jobs.collinsaerospace.com](https://jobs.collinsaerospace.com)
@@ -4016,34 +4045,4 @@ Colyvan's Homepage
  ## Commodities API Knowledge Base
  - [http://help.commodities-api.com](http://help.commodities-api.com)
  - date_published: 2024-07-20T04:11:37.827463+00:00
-
- ## Commodity Context | Rory Johnston | Substack
- - [https://commoditycontext.com](https://commoditycontext.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Commodore CDTV
- - [https://commodorecdtv.com](https://commodorecdtv.com)
- - date_published: 2024-05-22T13:21:43+00:00
-
- ## Commodore Computer Club – USA - Vancouver, WA – Portland, OR – PDX Commodore Users Group
- - [https://www.commodorecomputerclub.com](https://www.commodorecomputerclub.com)
- - date_published: 2024-07-20T20:57:33.276916+00:00
-
- ## Commodore Format Archive – Commodore Format magazine fan site
- - [https://commodoreformatarchive.com](https://commodoreformatarchive.com)
- - date_published: 2023-10-25T11:14:50.885010+00:00
- - tags: ['magazine', 'commodore']
-
- ## COMMODORE FREE
- - [https://commodorefree.com](https://commodorefree.com)
- - date_published: 2024-05-10T03:57:08.121795+00:00
- - tags: ['commodore']
-
- ## commodorehistory.com
- - [https://commodorehistory.com](https://commodorehistory.com)
- - date_published: 2024-07-14T12:10:40+00:00
-
- ## Commodore Info Page - Start page [en]
- - [https://www.commodore-info.com](https://www.commodore-info.com)
- - date_published: 2024-08-19T09:41:50.352185+00:00
 

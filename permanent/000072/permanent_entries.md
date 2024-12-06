@@ -1,3 +1,31 @@
+ ## Hobbies for College Students: Art, Sports, Cooking, and Other Ideas
+ - [http://www.cavetocanvas.com](http://www.cavetocanvas.com)
+ - date_published: 2024-06-26T11:00:50+00:00
+
+ ## Caviar Cafe
+ - [https://www.caviarcafe.com](https://www.caviarcafe.com)
+ - date_published: 2024-05-06T16:27:40.157847+00:00
+
+ ## Apprendre le français en France | CAVILAM - Alliance française
+ - [https://cavilam.com](https://cavilam.com)
+ - date_published: 2024-10-19T15:27:16.770628+00:00
+
+ ## Des ressources pratiques pour enseigner le français – La Fabrique par le CAVILAM - Alliance Française
+ - [https://lafabrique.cavilam.com](https://lafabrique.cavilam.com)
+ - date_published: 2024-10-19T15:28:45.690057+00:00
+
+ ## Cours de langues à Vichy | DLE | CAVILAM - Alliance Française
+ - [https://langues.cavilam.com](https://langues.cavilam.com)
+ - date_published: 2024-10-19T15:27:19.592551+00:00
+
+ ## Savoir enseigner le français | Connaître et comprendre les nouvelles évolutions du CECRL
+ - [https://savoir.cavilam.com](https://savoir.cavilam.com)
+ - date_published: 2024-10-19T15:27:11.910798+00:00
+
+ ## California Wax Bar
+ - [https://cawaxbar.com](https://cawaxbar.com)
+ - date_published: 2024-05-06T23:11:36.206079+00:00
+
  ## Digital transformation, product innovation & software development
  - [http://caxy.com](http://caxy.com)
  - date_published: 2024-09-12T00:00:00+00:00
@@ -4012,32 +4040,4 @@ Challonge
  ## ChapterOneAI Blog - Covering Everthing Resume Related
  - [https://blog.chapteroneai.com](https://blog.chapteroneai.com)
  - date_published: 2024-04-11T00:00:00+00:00
-
- ## Your Drupal and Next.js Experts in San Francisco | Chapter Three
- - [https://www.chapterthree.com](https://www.chapterthree.com)
- - date_published: 2024-06-22T23:30:37.208108+00:00
-
- ## Home Page - ChapterZ Magazine
- - [https://chapterzmagazine.com](https://chapterzmagazine.com)
- - date_published: 2021-12-30T10:42:33+00:00
-
- ## ChapterZ
- - [https://chapterzusa.com](https://chapterzusa.com)
- - date_published: 2017-02-03T00:10:55+00:00
-
- ## Character Design References
- - [http://characterdesignreferences.com](http://characterdesignreferences.com)
- - date_published: 2024-07-12T22:06:00.308474+00:00
-
- ## Characterdesigns.com
- - [http://www.characterdesigns.com](http://www.characterdesigns.com)
- - date_published: 2024-07-17T10:01:22.492764+00:00
-
- ## Character Home, LLC
- - [https://characterhome.com](https://characterhome.com)
- - date_published: 2024-01-19T13:01:28.344914+00:00
-
- ## CharacterHub - Share and store your original characters
- - [https://characterhub.com](https://characterhub.com)
- - date_published: 2024-07-10T08:45:07.454622+00:00
 

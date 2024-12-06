@@ -1,3 +1,7 @@
+ ## Cambridge Boston Alignment Initiative
+ - [https://www.cbai.ai](https://www.cbai.ai)
+ - date_published: 2024-07-06T19:51:16.091861+00:00
+
  ## GO.CBK.AI - A Dub.co Custom Domain
  - [https://go.cbk.ai](https://go.cbk.ai)
  - date_published: 2024-09-07T23:49:24.654119+00:00
@@ -1737,6 +1741,10 @@ Welcome
  - [https://unsupervisedlearning.dry.ai](https://unsupervisedlearning.dry.ai)
  - date_published: 2024-08-11T17:06:19.308484+00:00
 
+ ## AI container orchestration for everyone
+ - [https://dstack.ai](https://dstack.ai)
+ - date_published: 2024-12-05T18:02:16+00:00
+
  ## AI Dubbing: Online Video Translation | Dubdub.ai
  - [https://www.dubdub.ai](https://www.dubdub.ai)
  - date_published: 2024-04-12T00:00:00+00:00
@@ -2052,6 +2060,10 @@ Welcome
  ## Eureka Labs
  - [https://eurekalabs.ai](https://eurekalabs.ai)
  - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Chat with an AI Partner Who Appreciates You | EVA AI
+ - [https://evaapp.ai](https://evaapp.ai)
+ - date_published: 2024-12-05T07:21:01.649561+00:00
 
  ## EvaDB: Bring AI inside your Database System
  - [https://evadb.ai](https://evadb.ai)
@@ -3998,16 +4010,4 @@ Welcome
  ## Imajinn AI
  - [https://imajinn.ai](https://imajinn.ai)
  - date_published: 2024-06-19T18:48:20.350394+00:00
-
- ## Home of Reasoning as a Service® | Imandra Inc.
- - [https://www.imandra.ai](https://www.imandra.ai)
- - date_published: 2024-06-22T09:46:59.565346+00:00
-
- ## iMean AI
- - [https://www.imean.ai](https://www.imean.ai)
- - date_published: 2024-07-22T11:02:09.881781+00:00
-
- ## Facial Emotion Recognition Software - Emotion AI | Imentiv AI
- - [https://imentiv.ai](https://imentiv.ai)
- - date_published: 2024-10-28T06:50:37+00:00
 

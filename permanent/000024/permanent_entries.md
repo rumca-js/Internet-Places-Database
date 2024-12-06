@@ -1,3 +1,23 @@
+ ## Startseite | easyWeb lite
+ - [https://easyweb-lite.unibas.ch](https://easyweb-lite.unibas.ch)
+ - date_published: 2024-08-11T05:23:22.452421+00:00
+
+ ## Home | easyWeb standard | Informations- und Hilfeseite | Universität Basel
+ - [https://easyweb.unibas.ch](https://easyweb.unibas.ch)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Internal Access Only | Universität Basel
+ - [https://intranet.unibas.ch](https://intranet.unibas.ch)
+ - date_published: 2023-08-11T08:08:34+00:00
+
+ ## Home | IT-Services | Universität Basel
+ - [https://its.unibas.ch](https://its.unibas.ch)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Sign In
+ - [https://mail.unibas.ch](https://mail.unibas.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
  ## Wartungsarbeiten | Universität Basel
  - [https://maintenance.unibas.ch](https://maintenance.unibas.ch)
  - date_published: 2021-06-02T07:52:35+00:00
@@ -3997,24 +4017,4 @@ Fakultät | Universität Basel
  ## CockroachDB Cloud
  - [https://cockroachlabs.cloud](https://cockroachlabs.cloud)
  - date_published: 2024-05-08T05:48:01.546060+00:00
-
- ## Codean Status
- - [http://status.codean.cloud](http://status.codean.cloud)
- - date_published: 2024-07-20T15:30:51.324157+00:00
-
- ## Log In — CodeRed Cloud
- - [https://app.codered.cloud](https://app.codered.cloud)
- - date_published: 2024-05-08T05:49:29.398955+00:00
-
- ## Wagtail Hosting by CodeRed Cloud
- - [https://codered.cloud](https://codered.cloud)
- - date_published: 2024-04-22T19:22:42+00:00
-
- ## The Comedy Podcast Cloud Network
- - [https://comedypodcast.cloud](https://comedypodcast.cloud)
- - date_published: 2024-08-11T14:56:43.552740+00:00
-
- ## Continuum AI
- - [https://ai.confidential.cloud](https://ai.confidential.cloud)
- - date_published: 2024-08-16T11:52:38+00:00
 

@@ -1,3 +1,23 @@
+ ## @Large Research - Massivizing Computer Systems
+ - [https://atlarge-research.com](https://atlarge-research.com)
+ - date_published: 2023-10-25T12:47:42.982758+00:00
+
+ ## Workflow Trace Archive
+ - [https://wta.atlarge-research.com](https://wta.atlarge-research.com)
+ - date_published: 2021-05-13T00:00:00+00:00
+
+ ## ISPDC 2019 – The 18th IEEE International Symposium on Parallel and Distributed Computing, Amsterdam, The Netherlands
+ - [http://www.ispdc.atlarge-research.com](http://www.ispdc.atlarge-research.com)
+ - date_published: 2024-08-19T10:26:12.539163+00:00
+
+ ## Home
+ - [https://atlas21.com](https://atlas21.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Welcome To Atlas 3DSS - Atlas 3DSS
+ - [https://atlas3dss.com](https://atlas3dss.com)
+ - date_published: 2021-10-04T13:40:24+00:00
+
  ## [[Organization]] | [[City, State]] | [[Organization]] | [[City, State]]
  - [https://brewersguildofalaska.atlasams.com](https://brewersguildofalaska.atlasams.com)
  - date_published: 2024-09-16T06:49:59.739491+00:00
@@ -3810,7 +3830,7 @@
  ## Welcome to Av8n.com
  - [https://av8n.com](https://av8n.com)
  - date_published: 2016-10-27T04:40:43+00:00
- - tags: ['aviation', 'avionics']
+ - tags: ['aviation', 'aviation']
 
  ## Login
  - [https://c0.avaamo.com](https://c0.avaamo.com)
@@ -4010,26 +4030,4 @@
  ## Avatar The Last Airbender Live In Concert
  - [https://www.avatarinconcert.com](https://www.avatarinconcert.com)
  - date_published: 2024-06-19T21:50:58.569984+00:00
-
- ## Diseño web Murcia - Avatar Internet
- - [http://www.avatarinternet.com](http://www.avatarinternet.com)
- - date_published: 2024-07-12T16:10:20.263033+00:00
-
- ## Avatar: Frontiers of Pandora Mods | Avatar PC Mods
- - [https://avatarmodding.com](https://avatarmodding.com)
- - date_published: 2024-06-08T18:41:32+00:00
- - tags: ['video game mods']
-
- ## Avatar Puppeteering
- - [http://www.avatarpuppeteering.com](http://www.avatarpuppeteering.com)
- - date_published: 2018-01-18T23:43:41+00:00
-
- ## Avatars of War
- - [http://www.avatars-of-war.com](http://www.avatars-of-war.com)
- - date_published: 2024-10-26T16:49:15.902137+00:00
-
- ## Avatar Studios | Official Website
- - [https://avatarstudiosofficial.com](https://avatarstudiosofficial.com)
- - date_published: 2024-07-04T12:57:17+00:00
- - tags: ['avatar', 'anime show']
 

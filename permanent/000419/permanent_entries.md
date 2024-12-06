@@ -1,3 +1,640 @@
+ ## DABİS - Amaç
+ - [https://dabis.cbiko.gov.tr](https://dabis.cbiko.gov.tr)
+ - date_published: 2024-10-19T13:33:06.678354+00:00
+
+ ## T.C. Cumhurbaşkanlığı İnsan Kaynakları Ofisi | Uzaktan Eğitim Kapısı
+ - [https://egitimpanel.cbiko.gov.tr](https://egitimpanel.cbiko.gov.tr)
+ - date_published: 2024-10-19T17:26:58.063828+00:00
+
+ ## Kariyer Kapısı - T.C. Cumhurbaşkanlığı İnsan Kaynakları Ofisi
+ - [https://kariyerkapisi.cbiko.gov.tr](https://kariyerkapisi.cbiko.gov.tr)
+ - date_published: 2024-10-19T13:31:53.728501+00:00
+
+ ## Uzaktan Eğitim Kapısı
+ - [https://uzaktanegitimkapisi.cbiko.gov.tr](https://uzaktanegitimkapisi.cbiko.gov.tr)
+ - date_published: 2024-06-17T16:09:02.088704+00:00
+
+ ## CİMER - T.C. Cumhurbaşkanlığı İletişim Merkezi
+ - [http://cimer.gov.tr](http://cimer.gov.tr)
+ - date_published: 2024-06-17T15:18:19.976244+00:00
+
+ ## T.C. Çalışma ve Sosyal Güvenlik Bakanlığı
+ - [https://www.csgb.gov.tr](https://www.csgb.gov.tr)
+ - date_published: 2024-06-17T16:08:38.550098+00:00
+
+ ## Danıştay Resmi Sitesi
+ - [http://www.danistay.gov.tr](http://www.danistay.gov.tr)
+ - date_published: 2024-10-19T14:58:44.641553+00:00
+
+ ## Anasayfa - T.C. Darülaceze Başkanlığı
+ - [http://www.darulaceze.gov.tr](http://www.darulaceze.gov.tr)
+ - date_published: 2024-10-19T12:40:25.074988+00:00
+
+ ## detsis
+ - [https://detsis.gov.tr](https://detsis.gov.tr)
+ - date_published: 2024-10-19T12:09:16.849648+00:00
+
+ ## Ana Sayfa
+ - [https://www.dmo.gov.tr](https://www.dmo.gov.tr)
+ - date_published: 2024-10-19T16:57:51.881403+00:00
+
+ ## KÜTÜPHANELER VE YAYIMLAR GENEL MÜDÜRLÜĞÜ
+ - [https://earsiv.gov.tr](https://earsiv.gov.tr)
+ - date_published: 2024-06-17T15:57:23.966421+00:00
+
+ ## Yönlendiriliyorsunuz Lütfen Bekleyin.
+ - [https://cdn.e-devlet.gov.tr](https://cdn.e-devlet.gov.tr)
+ - date_published: 2024-02-27T14:25:18+00:00
+
+ ## T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü
+ - [https://egm.gov.tr](https://egm.gov.tr)
+ - date_published: 2024-10-19T14:08:13.129062+00:00
+
+ ## e-insan
+ - [https://einsan.gov.tr](https://einsan.gov.tr)
+ - date_published: 2023-10-03T14:26:02+00:00
+
+ ## T.C. Ticaret Bakanlığı
+ - [https://www.ekonomi.gov.tr](https://www.ekonomi.gov.tr)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü catalog
+ - [https://koha.ekutuphane.gov.tr](https://koha.ekutuphane.gov.tr)
+ - date_published: 2024-05-02T10:28:41.066905+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü Bilgi Sistemi | T.C. Kültür ve Turizm Bakanlığı
+ - [https://ekygm.gov.tr](https://ekygm.gov.tr)
+ - date_published: 2024-10-19T16:31:39.823148+00:00
+
+ ## Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı
+ - [https://enerji.gov.tr](https://enerji.gov.tr)
+ - date_published: 2024-10-19T13:57:12.617837+00:00
+
+ ## e-Devlet Kapısı
+ - [https://etbis.eticaret.gov.tr](https://etbis.eticaret.gov.tr)
+ - date_published: 2024-04-28T05:24:33.963396+00:00
+
+ ## T.C. Kamu Görevlileri Etik Kurulu
+ - [http://etik.gov.tr](http://etik.gov.tr)
+ - date_published: 2024-06-17T16:09:04.479902+00:00
+
+ ## T.C. Sakarya Valiliği İl Göç İdaresi Müdürlüğü Resmi İnternet Sitesi
+ - [https://sakarya.goc.gov.tr](https://sakarya.goc.gov.tr)
+ - date_published: 2024-10-19T14:50:01.857742+00:00
+
+ ## T.C. İçişleri Bakanlığı Göç İdaresi Başkanlığı
+ - [https://www.goc.gov.tr](https://www.goc.gov.tr)
+ - date_published: 2024-09-19T19:55:53+00:00
+
+ ## İnşaat Sektöründe İş Sağlığı ve Güvenliği
+ - [http://www.guvenliinsaat.gov.tr](http://www.guvenliinsaat.gov.tr)
+ - date_published: 2024-10-19T17:19:11.504115+00:00
+
+ ## Atlas
+ - [https://atlas.harita.gov.tr](https://atlas.harita.gov.tr)
+ - date_published: 2024-10-19T12:09:36.823750+00:00
+
+ ## Heal In Türkiye
+ - [https://healinturkiye.gov.tr](https://healinturkiye.gov.tr)
+ - date_published: 2024-10-19T12:47:06.661536+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://mys.hmb.gov.tr](https://mys.hmb.gov.tr)
+ - date_published: 2024-10-19T13:54:01.893620+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://www.hmb.gov.tr](https://www.hmb.gov.tr)
+ - date_published: 2024-10-19T16:57:41.746787+00:00
+
+ ## T.C. İçişleri Bakanlığı
+ - [https://www.icisleri.gov.tr](https://www.icisleri.gov.tr)
+ - date_published: 2024-09-19T19:52:06+00:00
+
+ ## İnsan Kaynaklarının Geliştirilmesi Program Otoritesi – Gelişen Hayatlar Değişen Türkiye
+ - [http://www.ikg.gov.tr](http://www.ikg.gov.tr)
+ - date_published: 2024-06-17T15:56:42.002238+00:00
+
+ ## ilan.gov.tr - Türkiye'nin İlan Portalı
+ - [https://ilan.gov.tr](https://ilan.gov.tr)
+ - date_published: 2023-06-16T05:56:59+00:00
+
+ ## Türkiye Cumhuriyeti | İletişim Başkanlığı
+ - [https://www.iletisim.gov.tr](https://www.iletisim.gov.tr)
+ - date_published: 2024-10-19T13:53:54.336891+00:00
+
+ ## Türkiye Cumhuriyeti Isparta Valiliği
+ - [http://isparta.gov.tr](http://isparta.gov.tr)
+ - date_published: 2024-06-17T15:26:44+00:00
+
+ ## Isparta İl Jandarma Komutanlığı
+ - [https://isparta.jandarma.gov.tr](https://isparta.jandarma.gov.tr)
+ - date_published: 2024-10-19T14:08:23.349038+00:00
+
+ ## T.C. İçişleri Bakanlığı Jandarma Genel Komutanlığı
+ - [https://www.jandarma.gov.tr](https://www.jandarma.gov.tr)
+ - date_published: 2024-09-19T19:56:53+00:00
+
+ ## Kamu SM - Kamu Sertifikasyon Merkezi - Elektronik Sertifika Hizmet Sağlayıcısı ve E-imza Uygulamaları
+ - [http://kamusm.gov.tr](http://kamusm.gov.tr)
+ - date_published: 2024-09-12T13:54:26.572644+00:00
+
+ ## T.C. Hazine ve Maliye Bakanlığı
+ - [https://www.kbs.gov.tr](https://www.kbs.gov.tr)
+ - date_published: 2024-10-19T13:54:05.358251+00:00
+
+ ## EKAP (Elektronik Kamu Alımları Platformu)
+ - [https://ekap.kik.gov.tr](https://ekap.kik.gov.tr)
+ - date_published: 2024-10-19T13:51:52.973063+00:00
+
+ ## T.C. Dışişleri Bakanlığı Konsolosluk İşlemleri
+ - [https://www.konsolosluk.gov.tr](https://www.konsolosluk.gov.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## KOSGEB T.C. Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı
+ - [https://www.kosgeb.gov.tr](https://www.kosgeb.gov.tr)
+ - date_published: 2024-10-19T12:28:22.027942+00:00
+
+ ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [https://kvmgm.ktb.gov.tr](https://kvmgm.ktb.gov.tr)
+ - date_published: 2024-05-04T08:26:42.291050+00:00
+
+ ## Kütüphaneler ve Yayımlar Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [https://kygm.ktb.gov.tr](https://kygm.ktb.gov.tr)
+ - date_published: 2024-06-17T15:57:36+00:00
+
+ ## Mobil uygulamalar - T.C. Kültür ve Turizm Bakanlığı
+ - [https://mobil.ktb.gov.tr](https://mobil.ktb.gov.tr)
+ - date_published: 2024-06-17T15:57:22.218537+00:00
+
+ ## Kurumsal Portal - T.C. Kültür ve Turizm Bakanlığı
+ - [http://intranet.kultur.gov.tr](http://intranet.kultur.gov.tr)
+ - date_published: 2024-10-19T16:35:07.250025+00:00
+
+ ## T.C. Kültür ve Turizm Bakanlığı
+ - [http://www.kultur.gov.tr](http://www.kultur.gov.tr)
+ - date_published: 2024-06-17T15:57:59.909165+00:00
+
+ ## Kurumsal Portal - T.C. Kültür ve Turizm Bakanlığı
+ - [http://intranet.kulturturizm.gov.tr](http://intranet.kulturturizm.gov.tr)
+ - date_published: 2024-10-19T16:39:33.211941+00:00
+
+ ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
+ - [http://www.kulturvarliklari.gov.tr](http://www.kulturvarliklari.gov.tr)
+ - date_published: 2024-06-20T08:42:38+00:00
+ - tags: ['travel', 'turkey']
+
+ ## KVKK - Şikayet Modülü
+ - [https://sikayet.kvkk.gov.tr](https://sikayet.kvkk.gov.tr)
+ - date_published: 2024-10-19T17:18:56.135778+00:00
+
+ ## KİŞİSEL VERİLERİ KORUMA KURUMU | KVKK | Kişisel Verileri Koruma Kurumu Başkanlığı
+ - [https://www.kvkk.gov.tr](https://www.kvkk.gov.tr)
+ - date_published: 2024-06-17T16:08:35.957307+00:00
+
+ ## Millî Eğitim Bakanlığı - e-Denklik
+ - [https://edenklik.meb.gov.tr](https://edenklik.meb.gov.tr)
+ - date_published: 2024-10-19T17:11:04.245537+00:00
+
+ ## T.C. Millî Eğitim Bakanlığı
+ - [https://www.meb.gov.tr](https://www.meb.gov.tr)
+ - date_published: 2024-10-19T12:45:19.724420+00:00
+
+ ## MEB Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğü
+ - [http://yyegm.meb.gov.tr](http://yyegm.meb.gov.tr)
+ - date_published: 2024-10-19T14:14:58.202215+00:00
+
+ ## Mevzuat Bilgi Sistemi
+ - [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
+ - date_published: 2024-05-02T10:25:53.224305+00:00
+
+ ## Meteoroloji Genel Müdürlüğü - Deprem Bölgesi Tahmini
+ - [https://afet.mgm.gov.tr](https://afet.mgm.gov.tr)
+ - date_published: 2023-03-16T06:15:01+00:00
+
+ ## Hezarfen
+ - [https://hezarfen.mgm.gov.tr](https://hezarfen.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:04.390570+00:00
+
+ ## INFORMAL CONFERENCE OF SOUTH-EAST EUROPEAN
+NMHSs DIRECTORS
+ - [http://iceed.mgm.gov.tr](http://iceed.mgm.gov.tr)
+ - date_published: 2024-08-07T22:45:47.057288+00:00
+
+ ## İslam Ülkeleri Meteoroloji Servisleri
+ - [http://ic.mgm.gov.tr](http://ic.mgm.gov.tr)
+ - date_published: 2024-08-07T22:47:47.901145+00:00
+
+ ## Meteoroloji Genel Müdürlüğü
+ - [https://mevbis.mgm.gov.tr](https://mevbis.mgm.gov.tr)
+ - date_published: 2022-05-12T06:17:44+00:00
+
+ ## Meteoroloji Genel Müdürlüğü
+ - [https://mgm.gov.tr](https://mgm.gov.tr)
+ - date_published: 2024-04-28T02:22:41.637724+00:00
+
+ ## Piri Reis Denizcilik Sayfaları - 3 Günlük Tahmin
+ - [https://pirireis.mgm.gov.tr](https://pirireis.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:07.389801+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.mgm.gov.tr](https://posta.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:05.636813+00:00
+
+ ## Meteorolojinin Sesi Radyosu
+ - [http://radyo.mgm.gov.tr](http://radyo.mgm.gov.tr)
+ - date_published: 2024-08-07T22:45:59.753023+00:00
+
+ ## Tarımsal Hava Tahmini
+ - [https://tarim.mgm.gov.tr](https://tarim.mgm.gov.tr)
+ - date_published: 2024-08-07T12:54:13+00:00
+
+ ## UZALMET 2023
+ - [https://uzalmet.mgm.gov.tr](https://uzalmet.mgm.gov.tr)
+ - date_published: 2023-12-05T07:34:49+00:00
+
+ ## SDS West Asia
+ - [https://wdcc.mgm.gov.tr](https://wdcc.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:10.264887+00:00
+
+ ## Eastern Mediterranean Climate Center - EMCC
+ - [http://www.emcc.mgm.gov.tr](http://www.emcc.mgm.gov.tr)
+ - date_published: 2024-08-07T22:46:08.796333+00:00
+
+ ## Milli Kütüphane | National Library of Turkey
+ - [http://www.millikutuphane.gov.tr](http://www.millikutuphane.gov.tr)
+ - date_published: 2024-06-17T15:57:42.301680+00:00
+
+ ## MAKİNE ve KİMYA ENDÜSTRİSİ A.Ş
+ - [https://www.mke.gov.tr](https://www.mke.gov.tr)
+ - date_published: 2024-09-19T19:58:32.910069+00:00
+
+ ## Anasayfa | Milli Kütüphane
+ - [https://dijital-kutuphane.mkutup.gov.tr](https://dijital-kutuphane.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:44.167976+00:00
+
+ ## Kaşif || Milli Kütüphane Otomasyonu Okuyucu Tarama Modülü- National Library of Turkey
+ - [https://kasif.mkutup.gov.tr](https://kasif.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:25.585805+00:00
+
+ ## Konuşan Kitaplik | Milli Kütüphane | Sesli Kitaplar
+ - [https://konusankitaplik.mkutup.gov.tr](https://konusankitaplik.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:45.690321+00:00
+
+ ## Login - Taş Plaklar
+ - [https://tasplaklar.mkutup.gov.tr](https://tasplaklar.mkutup.gov.tr)
+ - date_published: 2024-06-17T15:57:31.793879+00:00
+
+ ## Bulletin of the Mineral Research and Exploration
+ - [http://dergi.mta.gov.tr](http://dergi.mta.gov.tr)
+ - date_published: 2024-10-30T20:33:31.505911+00:00
+
+ ## Müze Kart resmi sayfası
+ - [https://muze.gov.tr](https://muze.gov.tr)
+ - date_published: 2024-10-19T12:48:20.115758+00:00
+
+ ## ÖSYM Görevli İşlemleri Sistemi - Sisteme Giriş
+ - [https://gis.osym.gov.tr](https://gis.osym.gov.tr)
+ - date_published: 2024-10-19T17:18:40.120004+00:00
+
+ ## Uluslararası Ölçme, Seçme ve Yerleştirme Sempozyumu
+ - [https://symp2024.osym.gov.tr](https://symp2024.osym.gov.tr)
+ - date_published: 2024-10-19T14:39:13.937236+00:00
+
+ ## T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
+ - [https://www.osym.gov.tr](https://www.osym.gov.tr)
+ - date_published: 2024-06-17T16:08:17.862271+00:00
+
+ ## Anasayfa | Rami Kütüphanesi
+ - [https://ramikutuphanesi.gov.tr](https://ramikutuphanesi.gov.tr)
+ - date_published: 2024-06-17T15:57:33.821500+00:00
+
+ ## T.C. Resmî Gazete
+ - [http://www.resmigazete.gov.tr](http://www.resmigazete.gov.tr)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## T.C. Sağlık Bakanlığı
+ - [https://lutfikirdareah.saglik.gov.tr](https://lutfikirdareah.saglik.gov.tr)
+ - date_published: 2024-06-28T12:07:09.992632+00:00
+
+ ## T.C. Sağlık Bakanlığı
+ - [https://sakaryaeah.saglik.gov.tr](https://sakaryaeah.saglik.gov.tr)
+ - date_published: 2024-10-19T14:49:16.017815+00:00
+
+ ## T.C. Sakarya Valiliği
+ - [http://www.sakarya.gov.tr](http://www.sakarya.gov.tr)
+ - date_published: 2024-10-19T14:50:15.279200+00:00
+
+ ## T.C. Sanayi ve Teknoloji Bakanlığı
+ - [http://sanayi.gov.tr](http://sanayi.gov.tr)
+ - date_published: 2024-10-19T16:27:43.892581+00:00
+
+ ## T.C. İçişleri Bakanlığı Sahil Güvenlik Komutanlığı
+ - [https://www.sg.gov.tr](https://www.sg.gov.tr)
+ - date_published: 2024-09-19T19:52:19+00:00
+
+ ## Ana Sayfa
+ - [https://sifiratik.gov.tr](https://sifiratik.gov.tr)
+ - date_published: 2024-10-19T12:30:33.861514+00:00
+
+ ## T.C. Sivas Valiliği
+ - [http://www.sivas.gov.tr](http://www.sivas.gov.tr)
+ - date_published: 2024-10-19T17:14:02.606592+00:00
+
+ ## Spor Toto Teşkilat Başkanlığı
+ - [http://sportoto.gov.tr](http://sportoto.gov.tr)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Savunma Sanayii Baskanligi.
+ - [https://www.ssb.gov.tr](https://www.ssb.gov.tr)
+ - date_published: 2024-09-19T19:53:18+00:00
+
+ ## Study in Türkiye
+ - [https://studyinturkey.gov.tr](https://studyinturkey.gov.tr)
+ - date_published: 2024-05-02T10:25:20.250143+00:00
+
+ ## Study in Türkiye
+ - [https://www.studyinturkiye.gov.tr](https://www.studyinturkiye.gov.tr)
+ - date_published: 2024-06-17T15:10:38.519268+00:00
+
+ ## Türkiye Adalet Akademisi | TAA - taa.gov.tr
+ - [https://www.taa.gov.tr](https://www.taa.gov.tr)
+ - date_published: 2024-10-19T14:58:03.866202+00:00
+
+ ## T.C.CUMHURBAŞKANLIĞI : Anasayfa
+ - [https://www.tccb.gov.tr](https://www.tccb.gov.tr)
+ - date_published: 2024-06-17T14:59:59.149278+00:00
+
+ ## T.C. Ticaret Bakanlığı
+ - [https://www.ticaret.gov.tr](https://www.ticaret.gov.tr)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Tarım ve Kırsal Kalkınmayı Destekleme Kurumu | TKDK
+ - [https://www.tkdk.gov.tr](https://www.tkdk.gov.tr)
+ - date_published: 2024-10-19T17:12:15.948717+00:00
+
+ ## Ulusal Toplu Katalog - Tarama
+ - [https://www.toplukatalog.gov.tr](https://www.toplukatalog.gov.tr)
+ - date_published: 2024-05-02T10:28:48.267143+00:00
+
+ ## TRDizin – TRDizin
+ - [https://app.trdizin.gov.tr](https://app.trdizin.gov.tr)
+ - date_published: 2024-06-17T15:56:57.238633+00:00
+
+ ## TRDizin – TRDizin
+ - [https://trdizin.gov.tr](https://trdizin.gov.tr)
+ - date_published: 2024-06-17T15:27:34.245115+00:00
+
+ ## Ana Sayfa - Türk Ulusal Bilim e-Altyapısı
+ - [https://portal.truba.gov.tr](https://portal.truba.gov.tr)
+ - date_published: 2024-06-17T15:56:54.225424+00:00
+
+ ## Türkiye Uzay Ajansı
+ - [https://tua.gov.tr](https://tua.gov.tr)
+ - date_published: 2024-10-19T17:12:01.129514+00:00
+
+ ## Türkiye Bilimler Akademisi
+ - [https://tuba.gov.tr](https://tuba.gov.tr)
+ - date_published: 2024-10-19T14:38:23.664052+00:00
+
+ ## ARBİS - Araştırmacı Bilgi Sistemi
+ - [https://arbis.tubitak.gov.tr](https://arbis.tubitak.gov.tr)
+ - date_published: 2024-05-02T10:25:39.528705+00:00
+
+ ## Kamu SM - Kamu Sertifikasyon Merkezi - Elektronik Sertifika Hizmet Sağlayıcısı ve E-imza Uygulamaları
+ - [https://kamusm.bilgem.tubitak.gov.tr](https://kamusm.bilgem.tubitak.gov.tr)
+ - date_published: 2024-09-12T13:54:31.694675+00:00
+
+ ## | TÜBİMER
+ - [https://tubimer.tubitak.gov.tr](https://tubimer.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:27:24.219075+00:00
+
+ ## TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+ - [https://tubitak.gov.tr](https://tubitak.gov.tr)
+ - date_published: 2024-07-08T16:08:44+00:00
+
+ ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
+ - [https://ulakbim.tubitak.gov.tr](https://ulakbim.tubitak.gov.tr)
+ - date_published: 2024-06-17T15:57:15.300855+00:00
+
+ ## e-Devlet Kapısı
+ - [https://giris.turkiye.gov.tr](https://giris.turkiye.gov.tr)
+ - date_published: 2024-06-17T03:48:46.370717+00:00
+
+ ## e-Devlet Kapısı Devletin Kısayolu | www.türkiye.gov.tr
+ - [https://turkiye.gov.tr](https://turkiye.gov.tr)
+ - date_published: 2024-08-07T22:46:12.172442+00:00
+
+ ## Türkiye Bursları
+ - [https://turkiyeburslari.gov.tr](https://turkiyeburslari.gov.tr)
+ - date_published: 2024-06-17T15:10:26.418720+00:00
+
+ ## TÜRKPATENT
+ - [https://www.turkpatent.gov.tr](https://www.turkpatent.gov.tr)
+ - date_published: 2024-10-19T14:37:41.769936+00:00
+
+ ## Savunma ve Havacılık Sanayi İhracatçıları Birliği
+ - [https://www.turksavunmasanayi.gov.tr](https://www.turksavunmasanayi.gov.tr)
+ - date_published: 2024-09-19T19:58:36.965994+00:00
+
+ ## Eurodesk
+ - [http://eurodesk.ua.gov.tr](http://eurodesk.ua.gov.tr)
+ - date_published: 2024-09-15T20:56:03.127016+00:00
+
+ ## TURNAPortal
+ - [https://turnaportal.ua.gov.tr](https://turnaportal.ua.gov.tr)
+ - date_published: 2024-06-13T13:52:09+00:00
+
+ ## Ulusal Ajans
+ - [https://ua.gov.tr](https://ua.gov.tr)
+ - date_published: 2024-06-17T15:02:03.211379+00:00
+
+ ## ÜAK
+            
+            
+            Ana Sayfa
+ - [http://www.uak.gov.tr](http://www.uak.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ana sayfa | TÜBİTAK-ULAKBİM Açık Ders Platformu
+ - [https://acikders.ulakbim.gov.tr](https://acikders.ulakbim.gov.tr)
+ - date_published: 2024-10-19T16:29:54.155145+00:00
+
+ ## Açık Veri Açık Bilim – Açık Veri Açık Bilim
+ - [https://acikveri.ulakbim.gov.tr](https://acikveri.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:56:52.433924+00:00
+
+ ## Aperta - Türkiye Açık Arşivi
+ - [https://aperta.ulakbim.gov.tr](https://aperta.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:16.744639+00:00
+
+ ## Harman Türkiye Akademik Arşivi
+ - [https://arsiv.ulakbim.gov.tr](https://arsiv.ulakbim.gov.tr)
+ - date_published: 2024-06-04T07:04:55+00:00
+
+ ## Cahit Arf Bilgi Merkezi
+ - [https://cabim.ulakbim.gov.tr](https://cabim.ulakbim.gov.tr)
+ - date_published: 2024-05-02T10:28:35.258103+00:00
+
+ ## TÜBİTAK ULAKBİM Etkinlikleri · Ulakbim Etkinlikler Sayfası (Indico)
+ - [https://etkinlik.ulakbim.gov.tr](https://etkinlik.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:18.548849+00:00
+
+ ## Harman Türkiye Akademik Arşivi
+ - [https://harman.ulakbim.gov.tr](https://harman.ulakbim.gov.tr)
+ - date_published: 2024-06-04T07:04:55+00:00
+
+ ## Üniversite Veri Portalı
+ - [https://veri.ulakbim.gov.tr](https://veri.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:12.574671+00:00
+
+ ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
+ - [https://www.ulakbim.gov.tr](https://www.ulakbim.gov.tr)
+ - date_published: 2024-06-17T15:57:00.982884+00:00
+
+ ## Yargıtay Başkanlığı
+ - [http://www.yargitay.gov.tr](http://www.yargitay.gov.tr)
+ - date_published: 2024-10-19T14:58:57.112012+00:00
+
+ ## www.yatirimadestek.gov.tr | Devlet Destekleri ve Teşvikler
+ - [https://www.yatirimadestek.gov.tr](https://www.yatirimadestek.gov.tr)
+ - date_published: 2024-10-19T17:12:05.954518+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://acikerisim.yok.gov.tr](https://acikerisim.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:42.194624+00:00
+
+ ## YÜKSEKÖĞRETİM KURULU
+ - [https://akademik.yok.gov.tr](https://akademik.yok.gov.tr)
+ - date_published: 2024-05-02T10:26:50.302804+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://basin.yok.gov.tr](https://basin.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:30.727790+00:00
+
+ ## YÖK
+            
+            
+            AnaSayfa
+ - [https://burs.yok.gov.tr](https://burs.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://covid19.yok.gov.tr](https://covid19.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://denetleme.yok.gov.tr](https://denetleme.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:33.387809+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://denklik.yok.gov.tr](http://denklik.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:36.702038+00:00
+
+ ## YÖK
+            
+            
+            Engelli Öğrenci Komisyonu
+ - [https://engelsiz.yok.gov.tr](https://engelsiz.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:38.251467+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://farabi.yok.gov.tr](https://farabi.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:35.321329+00:00
+
+ ## Yükseköğretim Bilgi Yönetim Sistemi
+ - [https://istatistik.yok.gov.tr](https://istatistik.yok.gov.tr)
+ - date_published: 2024-06-17T15:27:25.004889+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://kadincalismalari.yok.gov.tr](https://kadincalismalari.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://mevlana.yok.gov.tr](https://mevlana.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:40.663301+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://odul.yok.gov.tr](https://odul.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK Okul Tanima Sistemi
+ - [https://okultanima.yok.gov.tr](https://okultanima.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:42.985089+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://oyp.yok.gov.tr](https://oyp.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Ulusal Tez Merkezi | Anasayfa
+ - [https://tez.yok.gov.tr](https://tez.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:55.267456+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://uluslararasi.yok.gov.tr](https://uluslararasi.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://vcforum.yok.gov.tr](https://vcforum.yok.gov.tr)
+ - date_published: 2024-10-19T12:46:44.348192+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [http://www.yok.gov.tr](http://www.yok.gov.tr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Yükseköğretim Program Atlası
+ - [https://yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr)
+ - date_published: 2024-06-17T15:10:40.080702+00:00
+
+ ## YÖK
+            
+            
+            Ana Sayfa
+ - [https://yok.gov.tr](https://yok.gov.tr)
+ - date_published: 2024-10-19T12:51:22.813798+00:00
+
+ ## Yükseköğretim Bilgi Sistemi
+ - [https://yoksis.yok.gov.tr](https://yoksis.yok.gov.tr)
+ - date_published: 2024-05-02T10:25:40.424402+00:00
+
  ## YÖK
             
             
@@ -3443,588 +4080,4 @@
  ## Ultrafeel TV - Feast your eyes on the world's most enchanting art tv channel
  - [http://www.ultrafeel.tv](http://www.ultrafeel.tv)
  - date_published: 2024-11-16T20:25:56.097062+00:00
-
- ## Unicable home
- - [https://www.unicable.tv](https://www.unicable.tv)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## UNIFYD TV - Join the Movement.
- - [https://unifyd.tv](https://unifyd.tv)
- - date_published: 2024-07-03T19:06:02.570077+00:00
-
- ## United Voices
- - [http://unitedvoices.tv](http://unitedvoices.tv)
- - date_published: 2024-06-29T23:53:37+00:00
-
- ## Digital Signage Software | UPshow
- - [https://www.upshow.tv](https://www.upshow.tv)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Survive & Thrive as a Solopreneur
- - [https://upstartist.tv](https://upstartist.tv)
- - date_published: 2024-01-20T02:45:11.538831+00:00
-
- ## Join Uscreen
- - [https://app.uscreen.tv](https://app.uscreen.tv)
- - date_published: 2024-06-17T16:50:33.968974+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.uscreen.tv](https://cdn.uscreen.tv)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Uscreen Help Center
- - [https://help.uscreen.tv](https://help.uscreen.tv)
- - date_published: 2024-06-17T16:50:31.554840+00:00
-
- ## Membership+ - Build your creator business with confidence
- - [https://membershipplus.uscreen.tv](https://membershipplus.uscreen.tv)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Uscreen Status
- - [https://status.uscreen.tv](https://status.uscreen.tv)
- - date_published: 2024-10-19T22:09:27.108088+00:00
-
- ## Uscreen: All-in-one Video Membership Platform for Creators
- - [https://uscreen.tv](https://uscreen.tv)
- - date_published: 2024-10-19T22:09:03.817998+00:00
-
- ## IBM Video Streaming
- - [http://ustream.tv](http://ustream.tv)
- - date_published: 2024-07-13T10:11:39+00:00
-
- ## Vadootv - Create, present & distribute Videos
- - [https://api.vadoo.tv](https://api.vadoo.tv)
- - date_published: 2024-06-24T05:03:47.217862+00:00
-
- ## Vadoo AI - All in one AI video platform
- - [https://vadoo.tv](https://vadoo.tv)
- - date_published: 2024-10-30T16:26:58+00:00
-
- ## vatorevents
- - [https://events.vator.tv](https://events.vator.tv)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## VatorNews
- - [https://vator.tv](https://vator.tv)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## SEVC 2024 | v·connect
- - [https://sevc2024.vconnect.tv](https://sevc2024.vconnect.tv)
- - date_published: 2024-06-27T03:59:33.419271+00:00
-
- ## VDX.TV I The-leading-omnichannel-digital video-advertising-company
- - [https://vdx.tv](https://vdx.tv)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## 3Rein Media Membership
- - [https://3reinmedia.vhx.tv](https://3reinmedia.vhx.tv)
- - date_published: 2024-07-09T12:00:40.669094+00:00
-
- ## Vimeo OTT Video Content Monetization Platform
- - [https://cdn.vhx.tv](https://cdn.vhx.tv)
- - date_published: 2024-07-09T15:50:25.124855+00:00
-
- ## The Criterion Channel
- - [https://criterionchannel.vhx.tv](https://criterionchannel.vhx.tv)
- - date_published: 2024-07-20T05:51:08.632757+00:00
-
- ## Vimeo OTT
- - [https://embed.vhx.tv](https://embed.vhx.tv)
- - date_published: 2024-07-26T05:14:05.020942+00:00
-
- ## History Hit
- - [https://historyhit1.vhx.tv](https://historyhit1.vhx.tv)
- - date_published: 2024-07-26T05:13:58.004555+00:00
-
- ## Full Subscription
- - [https://mattiamuravannuzzi.vhx.tv](https://mattiamuravannuzzi.vhx.tv)
- - date_published: 2024-09-12T19:23:59.407144+00:00
-
- ## mdw Mediathek
- - [https://mdw.vhx.tv](https://mdw.vhx.tv)
- - date_published: 2024-07-04T17:27:54.330117+00:00
-
- ## Stripped
- - [https://stripped.vhx.tv](https://stripped.vhx.tv)
- - date_published: 2024-07-17T08:19:26.127008+00:00
-
- ## Vimeo OTT Customer Support
- - [http://support.vhx.tv](http://support.vhx.tv)
- - date_published: 2024-07-20T05:51:10.565580+00:00
-
- ## Watcher Membership
- - [https://watcherentertainment.vhx.tv](https://watcherentertainment.vhx.tv)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## MasterLectures
- - [https://zondervanacademic.vhx.tv](https://zondervanacademic.vhx.tv)
- - date_published: 2024-10-21T10:44:35.258925+00:00
-
- ## AOL Video - Serving the best video content from AOL and around the web
- - [https://api.vidible.tv](https://api.vidible.tv)
- - date_published: 2024-05-08T03:20:32.849229+00:00
-
- ## AOL Video - Serving the best video content from AOL and around the web
- - [https://delivery.vidible.tv](https://delivery.vidible.tv)
- - date_published: 2024-05-08T03:20:18.173040+00:00
-
- ## Movie recommendation engine backed by AI
- - [https://vidoc.tv](https://vidoc.tv)
- - date_published: 2024-06-19T19:06:02.389664+00:00
-
- ## VMTV
- - [https://vieiradominho.tv](https://vieiradominho.tv)
- - date_published: 2024-09-05T14:59:17.334979+00:00
-
- ## VIEWPAY – SOLUTIONS TECHNOLOGIQUES POUR LES MÉDIAS ET LA PUBLICITÉ EN LIGNE
- - [https://viewpay.tv](https://viewpay.tv)
- - date_published: 2024-05-06T17:31:51.324073+00:00
-
- ## Vigilante.TV
- - [https://vigilante.tv](https://vigilante.tv)
- - date_published: 2024-07-03T18:57:51.787054+00:00
-
- ## Телеканалы смотреть онлайн бесплатно в хорошем качестве hd в прямом эфире » Viks.tv
- - [http://ip.viks.tv](http://ip.viks.tv)
- - date_published: 2024-09-13T19:18:41.098071+00:00
-
- ## VizChoice
- - [https://console.vizchoice.tv](https://console.vizchoice.tv)
- - date_published: 2024-06-18T18:06:02+00:00
-
- ## Viznet - Solutions for Video Ads
- - [https://viznet.tv](https://viznet.tv)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## voxmusic.tv - oficjalna strona internetowa telewizji VOX Music
- - [https://voxmusic.tv](https://voxmusic.tv)
- - date_published: 2024-05-10T05:26:53.672802+00:00
-
- ## High-Speed Internet in Fort Johnson, LA
- - [http://www.warrior.tv](http://www.warrior.tv)
- - date_published: 2024-06-29T16:20:25.187250+00:00
-
- ## WCTV | News, Weather and Sports | Tallahassee, FL
- - [https://www.wctv.tv](https://www.wctv.tv)
- - date_published: 2024-07-08T19:52:33+00:00
-
- ## History of Weapons & War
- - [https://www.weaponsandwar.tv](https://www.weaponsandwar.tv)
- - date_published: 2024-06-21T09:41:41.067522+00:00
-
- ## Home | WEAVR
- - [https://weavr.tv](https://weavr.tv)
- - date_published: 2024-09-05T19:56:35.092936+00:00
-
- ## Sautv
- - [https://sautv.web.tv](https://sautv.web.tv)
- - date_published: 2024-10-19T14:41:07.031136+00:00
-
- ## Web3tv.com - Coming Soon!
- - [http://web3.tv](http://web3.tv)
- - date_published: 2024-03-19T04:28:26+00:00
-
- ## webcontrols.tv
- - [http://www.webcontrols.tv](http://www.webcontrols.tv)
- - date_published: 2024-11-16T20:37:15.948931+00:00
-
- ## Portal Home - Webhosting.tv
- - [http://www.webhosting.tv](http://www.webhosting.tv)
- - date_published: 2024-07-12T18:51:14.914245+00:00
-
- ## Trigger the Wheel of Wishes Free Spins & Win Big with This Guide
- - [http://webpulp.tv](http://webpulp.tv)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home - What the Tech?
- - [https://whatthetech.tv](https://whatthetech.tv)
- - date_published: 2024-10-30T04:37:39.607967+00:00
-
- ## (What To Watch On TV -- Episode Ratings Visualizer)
- - [https://whattowatchon.tv](https://whattowatchon.tv)
- - date_published: 2024-11-12T17:23:59.784723+00:00
-
- ## Home: Interact, watch & learn with Wimee the robot!
- - [https://wimee.tv](https://wimee.tv)
- - date_published: 2024-06-17T18:22:13+00:00
-
- ## Home • Grow with Gray
- - [https://grow.withgray.tv](https://grow.withgray.tv)
- - date_published: 2024-05-04T09:56:11.224583+00:00
-
- ## Home • Gray Live Events
- - [https://talk.withgray.tv](https://talk.withgray.tv)
- - date_published: 2024-06-20T22:41:11.157043+00:00
-
- ## WNL
- - [https://wnl.tv](https://wnl.tv)
- - date_published: 2024-10-16T10:24:19.585645+00:00
-
- ## WordPress.tv Blog
- - [https://blog.wordpress.tv](https://blog.wordpress.tv)
- - date_published: 2024-06-17T11:41:30.415773+00:00
-
- ## WordPress.tv
- - [https://wordpress.tv](https://wordpress.tv)
- - date_published: 2024-05-02T10:05:34.316206+00:00
-
- ## Worthy Christian TV - Worthy TV
- - [https://worthy.tv](https://worthy.tv)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## WP Hosting
- - [https://wphosting.tv](https://wphosting.tv)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## WVLT | East Tennessee News, Weather | Knoxville, TN
- - [https://www.wvlt.tv](https://www.wvlt.tv)
- - date_published: 2024-07-09T22:48:13+00:00
-
- ## 西宁网络电视台 西宁新闻门户 西宁广播电
- - [https://www.xntv.tv](https://www.xntv.tv)
- - date_published: 2024-06-30T18:19:35.006031+00:00
-
- ## Xumo Play
- - [https://www.xumo.tv](https://www.xumo.tv)
- - date_published: 2024-10-25T01:08:24+00:00
-
- ## 深圳市迅龙软件有限公司
- - [http://www.xunlong.tv](http://www.xunlong.tv)
- - date_published: 2024-05-20T07:56:12+00:00
-
- ## Home - Yella Umbrella Ltd.
- - [https://www.yellaumbrella.tv](https://www.yellaumbrella.tv)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Loading...
- - [https://yifymovies.tv](https://yifymovies.tv)
- - date_published: 2023-12-02T13:10:45.706597+00:00
-
- ## Yikes | Haberdashery - Los Angeles & New York
- - [http://yikes.tv](http://yikes.tv)
- - date_published: 2024-07-13T14:47:36.717660+00:00
-
- ## 一席
- - [https://yixi.tv](https://yixi.tv)
- - date_published: 2024-08-18T06:59:21.936633+00:00
-
- ## YourTravel.TV- Flug-Reviews, Top Deals & die besten Travel Hacks
- - [https://yourtravel.tv](https://yourtravel.tv)
- - date_published: 2024-08-10T15:17:35+00:00
-
- ## ytsmovie.tv
- - [https://ww1.ytsmovie.tv](https://ww1.ytsmovie.tv)
- - date_published: 2024-05-02T10:39:43.724780+00:00
-
- ## Track, Discover, Share & Watch Anime for Free! :: YugenAnime
- - [https://yugenanime.tv](https://yugenanime.tv)
- - date_published: 2024-11-12T17:12:28.063947+00:00
-
- ## 云犀-让直播更有价值
- - [https://b.yunxi.tv](https://b.yunxi.tv)
- - date_published: 2024-09-24T22:48:28.930204+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://de.zendesk.tv](https://de.zendesk.tv)
- - date_published: 2024-10-08T22:02:48.242142+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://en.zendesk.tv](https://en.zendesk.tv)
- - date_published: 2024-06-17T16:35:15.416065+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://es.zendesk.tv](https://es.zendesk.tv)
- - date_published: 2024-10-08T22:40:09.280523+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://fr.zendesk.tv](https://fr.zendesk.tv)
- - date_published: 2024-10-08T22:40:07.968378+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://hk.zendesk.tv](https://hk.zendesk.tv)
- - date_published: 2024-10-08T22:00:03.388241+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://kr.zendesk.tv](https://kr.zendesk.tv)
- - date_published: 2024-10-08T22:06:52.669634+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://mx.zendesk.tv](https://mx.zendesk.tv)
- - date_published: 2024-10-08T22:02:30.206970+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://nl.zendesk.tv](https://nl.zendesk.tv)
- - date_published: 2024-10-08T22:40:11.060453+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://pt.zendesk.tv](https://pt.zendesk.tv)
- - date_published: 2024-10-08T22:06:55.075296+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://tw.zendesk.tv](https://tw.zendesk.tv)
- - date_published: 2024-10-08T22:02:40.398884+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://uk.zendesk.tv](https://uk.zendesk.tv)
- - date_published: 2024-10-08T21:59:57.353892+00:00
-
- ## Best android tv box-ZIDOO tv box,best KODI box,zidoo Streaming Media Player
- - [https://www.zidoo.tv](https://www.zidoo.tv)
- - date_published: 2017-12-31T00:00:00+00:00
-
- ## 智家网-智能家居品牌加盟--和网络媒体
- - [http://www.znjj.tv](http://www.znjj.tv)
- - date_published: 2024-10-25T11:57:06.982335+00:00
-
- ## 104人力銀行－不只找工作、幫你找方向的求職徵才平台
- - [https://www.104.com.tw](https://www.104.com.tw)
- - date_published: 2024-06-21T15:29:30.333209+00:00
-
- ## 新通訊
- - [https://www.2cm.com.tw](https://www.2cm.com.tw)
- - date_published: 2024-10-31T12:02:09.481347+00:00
-
- ## 優質醫療保健資訊平台 - 39健康網
- - [https://www.39health.com.tw](https://www.39health.com.tw)
- - date_published: 2024-10-25T10:28:07.886295+00:00
-
- ## 3M 科技 改善生活│3M 台灣
- - [https://www.3m.com.tw](https://www.3m.com.tw)
- - date_published: 2024-08-06T10:39:18.957136+00:00
-
- ## 4Gamers
- - [https://www.4gamers.com.tw](https://www.4gamers.com.tw)
- - date_published: 2024-08-18T06:58:02.510552+00:00
-
- ## Adecco 藝珂人事股份有限公司 | Adecco Taiwan
- - [https://www.adecco.com.tw](https://www.adecco.com.tw)
- - date_published: 2024-10-29T04:20:52.735605+00:00
-
- ## ADK TAIWAN | 觸動心消費，促動新價值
- - [https://www.adk.com.tw](https://www.adk.com.tw)
- - date_published: 2024-10-15T14:15:07.768587+00:00
-
- ## Employee Portal - Homepage
- - [https://employeezone.advantech.com.tw](https://employeezone.advantech.com.tw)
- - date_published: 2024-09-05T21:53:21.654863+00:00
-
- ## Home - eRMA
- - [https://erma.advantech.com.tw](https://erma.advantech.com.tw)
- - date_published: 2024-09-05T21:53:37.350949+00:00
-
- ## 漢翔航空工業股份有限公司
- - [http://www.aidc.com.tw](http://www.aidc.com.tw)
- - date_published: 2024-07-09T21:50:34.130857+00:00
-
- ## Airbnb | 度假屋、小木屋、海邊房源等
- - [https://airbnb.com.tw](https://airbnb.com.tw)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Altair | Discover Continuously. Advance Infinitely - Only Forward.
- - [https://www.altair.com.tw](https://www.altair.com.tw)
- - date_published: 2024-10-15T22:27:54+00:00
-
- ## 亞馬遜台灣 | 跨境電商網站 | Amazon 亞馬遜全球開店
- - [https://gs.amazon.com.tw](https://gs.amazon.com.tw)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 主頁 | Ambarella
- - [https://www.ambarella.com.tw](https://www.ambarella.com.tw)
- - date_published: 2024-09-14T09:54:46.796660+00:00
-
- ## Home
- - [https://ametek.com.tw](https://ametek.com.tw)
- - date_published: 2024-06-15T10:44:11.823112+00:00
-
- ## Audi Taiwan
- - [http://www.audi.com.tw](http://www.audi.com.tw)
- - date_published: 2024-07-19T20:24:15+00:00
-
- ## Blue Dragon Art Company
- - [http://www.bluedragonart.com.tw](http://www.bluedragonart.com.tw)
- - date_published: 2024-06-17T16:53:58.153195+00:00
-
- ## 國家地理雜誌｜大石文化官方商城
- - [https://www.bmall.com.tw](https://www.bmall.com.tw)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## 數位時代 BusinessNext
- - [https://www.bnext.com.tw](https://www.bnext.com.tw)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Event Go活動平台 | 你學習新知的好夥伴
- - [https://eventgo.bnextmedia.com.tw](https://eventgo.bnextmedia.com.tw)
- - date_published: 2024-10-20T09:26:19.088764+00:00
-
- ## 歡迎光臨博客來
- - [http://www.books.com.tw](http://www.books.com.tw)
- - date_published: 2024-06-30T03:49:29.046892+00:00
-
- ## 博世家電：品質、可靠與精確的美好體驗。
- - [https://www.bosch-home.com.tw](https://www.bosch-home.com.tw)
- - date_published: 2024-06-16T21:35:17.259808+00:00
-
- ## 臺灣銀行 Bank of Taiwan
- - [https://www.bot.com.tw](https://www.bot.com.tw)
- - date_published: 2024-10-19T22:30:50.135408+00:00
-
- ## CAPCOM TAIWAN
- - [https://capcom.com.tw](https://capcom.com.tw)
- - date_published: 2024-05-09T14:42:21.961851+00:00
-
- ## 『ROCKMAN X DIVE』官方網站
- - [http://rxd.capcom.com.tw](http://rxd.capcom.com.tw)
- - date_published: 2024-10-24T09:41:12.152878+00:00
-
- ## 醫級好膚 | 舒特膚®
- - [https://www.cetaphil.com.tw](https://www.cetaphil.com.tw)
- - date_published: 2024-10-30T23:02:34.359432+00:00
-
- ## CHALLENTECH INTERNATIONAL CORP.
- - [http://www.challentech.com.tw](http://www.challentech.com.tw)
- - date_published: 2024-10-19T03:55:06.400480+00:00
-
- ## 中華電信 - 5G行動上網通話、HiNet光世代寬頻上網/市話、MOD影視娛樂及智慧生活應用 | 中華電信網路門市CHT.com.tw
- - [https://www.cht.com.tw](https://www.cht.com.tw)
- - date_published: 2024-07-07T10:16:07.952880+00:00
-
- ## 城邦讀書花園網路書店
- - [http://www.cite.com.tw](http://www.cite.com.tw)
- - date_published: 2024-06-30T07:06:59.085507+00:00
-
- ## Citi 台灣
- - [https://www.citibank.com.tw](https://www.citibank.com.tw)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## CITIZEN 男錶 韋禮安 代言網站
- - [https://ambassador.citizenwatch.com.tw](https://ambassador.citizenwatch.com.tw)
- - date_published: 2024-06-27T09:01:14+00:00
-
- ## 主頁 | CITIZEN WATCH
- - [https://citizenwatch.com.tw](https://citizenwatch.com.tw)
- - date_published: 2024-05-08T05:28:55.259101+00:00
-
- ## CITIZEN 女錶 田馥甄 代言網站
- - [https://lady.citizenwatch.com.tw](https://lady.citizenwatch.com.tw)
- - date_published: 2024-02-05T03:13:50+00:00
-
- ## 歡迎來到 CITROËN 臺灣網站
- - [https://citroen.com.tw](https://citroen.com.tw)
- - date_published: 2024-05-08T05:30:24.170665+00:00
-
- ## 中央社新聞學院
- - [https://academy.cna.com.tw](https://academy.cna.com.tw)
- - date_published: 2024-05-12T07:10:24.181349+00:00
-
- ## 中央社 CNA
- - [https://cna.com.tw](https://cna.com.tw)
- - date_published: 2024-05-12T07:07:51.107899+00:00
-
- ## 好生活
- - [https://howlife.cna.com.tw](https://howlife.cna.com.tw)
- - date_published: 2024-07-16T20:57:42.276407+00:00
-
- ## 403 - 禁止: 拒絕存取。
- - [https://imgcdn.cna.com.tw](https://imgcdn.cna.com.tw)
- - date_published: 2024-05-12T07:10:21.433600+00:00
-
- ## 歡迎使用 CNA Web Mail
- - [https://mail.cna.com.tw](https://mail.cna.com.tw)
- - date_published: 2024-07-16T20:57:50.387655+00:00
-
- ## 淨零碳排 | 中央社 CNA
- - [https://netzero.cna.com.tw](https://netzero.cna.com.tw)
- - date_published: 2024-07-16T20:57:44+00:00
-
- ## 數位專題｜中央社 CNA
- - [https://project.cna.com.tw](https://project.cna.com.tw)
- - date_published: 2022-06-27T02:26:36+00:00
-
- ## 中央社客戶網頁 CNA NEWS
- - [http://service.cna.com.tw](http://service.cna.com.tw)
- - date_published: 2024-07-16T20:57:58.639854+00:00
-
- ## COMPUTEX (含InnoVEX) 2024參觀登錄
- - [https://www.computexonline.com.tw](https://www.computexonline.com.tw)
- - date_published: 2024-06-19T23:05:41.587392+00:00
-
- ## 台北國際電腦展
- - [https://www.computextaipei.com.tw](https://www.computextaipei.com.tw)
- - date_published: 2024-06-19T23:39:07.087463+00:00
-
- ## COMPUTEX Keynote & Forum 2024
- - [https://www.computextaipei2024.com.tw](https://www.computextaipei2024.com.tw)
- - date_published: 2024-10-31T12:03:07.192591+00:00
-
- ## Condé Nast TAIWAN | 康泰納仕
- - [https://www.condenast.com.tw](https://www.condenast.com.tw)
- - date_published: 2024-04-19T03:34:48+00:00
-
- ## 網頁設計公司 - 網站設計公司 - Cubik
- - [https://cubik.com.tw](https://cubik.com.tw)
- - date_published: 2023-02-22T00:00:00+00:00
-
- ## 達文西數位科技-專注排名的網頁設計服務
- - [https://www.da-vinci.com.tw](https://www.da-vinci.com.tw)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## DBS Bank | Taiwan
- - [https://www.dbs.com.tw](https://www.dbs.com.tw)
- - date_published: 2024-10-07T22:39:28.976938+00:00
-
- ## DeviseTop響應式網頁設計，客製化量身訂做、專屬風格 - 禾太國際有限公司,勤美創意設計有限公司
- - [http://www.devisetop.com.tw](http://www.devisetop.com.tw)
- - date_published: 2024-07-14T10:35:28.507426+00:00
-
- ## 大侑DIET-U官方網站｜你健康的好朋友
- - [https://www.diet-u.com.tw](https://www.diet-u.com.tw)
- - date_published: 2024-07-04T17:32:22.645811+00:00
-
- ## DIGITIMES-首頁
- - [https://www.digitimes.com.tw](https://www.digitimes.com.tw)
- - date_published: 2024-10-31T12:01:37.314160+00:00
-
- ## 台灣迪士尼官方網站
- - [https://disney.com.tw](https://disney.com.tw)
- - date_published: 2024-06-16T02:13:54.799668+00:00
-
- ## eBay全球銷售指南 - 首頁
- - [https://www.ebay.com.tw](https://www.ebay.com.tw)
- - date_published: 2024-05-01T08:15:29.101406+00:00
-
- ## 專業學術英文編修、中翻英、論文編修、論文投稿協助丨Editage 意得輯
- - [https://www.editage.com.tw](https://www.editage.com.tw)
- - date_published: 2024-10-29T20:42:45.127641+00:00
-
- ## 一元素科技股份有限公司 - 一元素科技股份有限公司
- - [http://www.e-elements.com.tw](http://www.e-elements.com.tw)
- - date_published: 2021-05-13T04:59:26+00:00
-
- ## EF國際文教機構 | EF海外遊學留學 | EF台灣
- - [https://www.ef.com.tw](https://www.ef.com.tw)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## ELTA TECHNOLOGY
- - [https://www.elta.com.tw](https://www.elta.com.tw)
- - date_published: 2024-07-07T10:16:18.705430+00:00
-
- ## Experian - 益博睿——企業徵信，決策分析，反詐欺與身分辨識
- - [https://www.experian.com.tw](https://www.experian.com.tw)
- - date_published: 2024-06-25T21:31:54.279340+00:00
-
- ## 財團法人徐有庠紀念基金會
- - [http://yzhsu.feg.com.tw](http://yzhsu.feg.com.tw)
- - date_published: 2024-07-14T10:35:19.243788+00:00
-
- ## 基金投資規劃 | 投資理財網 | 富達投信 | 富達台灣
- - [https://www.fidelity.com.tw](https://www.fidelity.com.tw)
- - date_published: 2024-10-27T18:01:21.884714+00:00
-
- ## 火氣音樂｜Fire On Music
- - [https://www.fireonmusic.com.tw](https://www.fireonmusic.com.tw)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Fitness factory｜健身工廠
- - [https://www.fitnessfactory.com.tw](https://www.fitnessfactory.com.tw)
- - date_published: 2024-05-25T00:00:00+00:00
 

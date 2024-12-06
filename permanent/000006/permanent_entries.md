@@ -1,3 +1,11 @@
+ ## sci.app | A window to Science
+ - [https://sci.app](https://sci.app)
+ - date_published: 2024-05-10T06:40:41.329753+00:00
+
+ ## ScienceGate : Academic Search Engine
+ - [https://www.sciencegate.app](https://www.sciencegate.app)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## Buy ScreenMemory
  - [https://screenmemory.app](https://screenmemory.app)
  - date_published: 2024-05-04T09:32:23.602650+00:00
@@ -4011,12 +4019,4 @@
  ## Xpeer, Next Medical Education
  - [https://web.xpeer.app](https://web.xpeer.app)
  - date_published: 2024-06-12T10:25:38+00:00
-
- ## All-in-one workspace for your creative journey • xTiles
- - [https://xtiles.app](https://xtiles.app)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Blog
- - [https://blog.xumm.app](https://blog.xumm.app)
- - date_published: 2024-06-20T00:00:00+00:00
 

@@ -1,3 +1,15 @@
+ ## Hardcover
+ - [https://hardcover.app](https://hardcover.app)
+ - date_published: 2024-05-07T14:34:18.728544+00:00
+
+ ## Mastodon
+ - [https://mastodon.hardcover.app](https://mastodon.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.950334+00:00
+
+ ## Hardcover Feedback
+ - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
+ - date_published: 2024-06-29T23:26:16.054530+00:00
+
  ## Hardcover - API for the blog.
  - [https://wp.hardcover.app](https://wp.hardcover.app)
  - date_published: 2024-06-29T23:26:24.079520+00:00
@@ -1013,10 +1025,6 @@
  ## Meco: The #1 newsletter aggregator | Declutter your inbox
  - [https://meco.app](https://meco.app)
  - date_published: 2024-11-02T08:18:28+00:00
-
- ## Meco: The #1 newsletter aggregator | Declutter your inbox
- - [https://www.meco.app](https://www.meco.app)
- - date_published: 2024-07-25T00:00:00+00:00
 
  ## MeetSpace - Home
  - [https://meetspace.app](https://meetspace.app)
@@ -4033,12 +4041,4 @@
  ## Online Book Writing Software now with AI Writing Assistant
  - [https://sceneone.app](https://sceneone.app)
  - date_published: 2024-06-19T20:03:38.704975+00:00
-
- ## sci.app | A window to Science
- - [https://sci.app](https://sci.app)
- - date_published: 2024-05-10T06:40:41.329753+00:00
-
- ## ScienceGate : Academic Search Engine
- - [https://www.sciencegate.app](https://www.sciencegate.app)
- - date_published: 2024-06-30T00:00:00+00:00
 

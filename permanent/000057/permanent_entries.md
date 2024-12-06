@@ -1,3 +1,31 @@
+ ## Ottawa Citizen Cryptic Crossword Forum
+ - [http://citizencryptic.blogspot.com](http://citizencryptic.blogspot.com)
+ - date_published: 2024-04-23T01:21:24+00:00
+
+ ## Citizens and Neighbours
+ - [http://citizensandneighbours.blogspot.com](http://citizensandneighbours.blogspot.com)
+ - date_published: 2024-10-21T14:29:58.322735+00:00
+
+ ## Citizenschallenge
+ - [http://citizenschallenge.blogspot.com](http://citizenschallenge.blogspot.com)
+ - date_published: 2024-06-15T07:25:08+00:00
+
+ ## A Murder of Ravens
+ - [http://citizenwilliams-amurderofravens.blogspot.com](http://citizenwilliams-amurderofravens.blogspot.com)
+ - date_published: 2024-03-13T16:08:59+00:00
+
+ ## Citron - DEMO
+ - [https://citron-demo.blogspot.com](https://citron-demo.blogspot.com)
+ - date_published: 2024-02-20T14:04:44+00:00
+
+ ## Hicaro, ambientazione e avventure per Dungeons & Dragons
+ - [http://cittavolanti.blogspot.com](http://cittavolanti.blogspot.com)
+ - date_published: 2024-03-30T01:54:15+00:00
+
+ ## Civilian Reader
+ - [https://civilian-reader.blogspot.com](https://civilian-reader.blogspot.com)
+ - date_published: 2024-06-18T13:28:37+00:00
+
  ## Circle Jerk at the Square Dance
  - [http://cjsd.blogspot.com](http://cjsd.blogspot.com)
  - date_published: 2024-06-05T12:57:25+00:00
@@ -3979,32 +4007,4 @@
  ## Eclipse Ecosystem
  - [http://eclipse-ecosystem.blogspot.com](http://eclipse-ecosystem.blogspot.com)
  - date_published: 2024-03-13T04:55:52+00:00
-
- ## I Like Eclipse
- - [http://eclipse-info.blogspot.com](http://eclipse-info.blogspot.com)
- - date_published: 2024-03-19T04:41:44+00:00
-
- ## EclipseLink Team Blog
- - [http://eclipselink.blogspot.com](http://eclipselink.blogspot.com)
- - date_published: 2024-03-05T08:58:16+00:00
-
- ## Eclipse from the bottom up
- - [http://eclipselowdown.blogspot.com](http://eclipselowdown.blogspot.com)
- - date_published: 2024-03-07T06:30:54+00:00
-
- ## Eclipse mde
- - [http://eclipsemde.blogspot.com](http://eclipsemde.blogspot.com)
- - date_published: 2024-05-04T02:05:49+00:00
-
- ## Eclipse Eco System
- - [http://eclipse-membership.blogspot.com](http://eclipse-membership.blogspot.com)
- - date_published: 2024-07-14T20:59:48+00:00
-
- ## Modeling Eclipse
- - [http://eclipse-modeling.blogspot.com](http://eclipse-modeling.blogspot.com)
- - date_published: 2024-03-05T05:43:07+00:00
-
- ## Mati@GSOC
- - [http://eclipse-n-mati.blogspot.com](http://eclipse-n-mati.blogspot.com)
- - date_published: 2024-03-20T05:38:41+00:00
 

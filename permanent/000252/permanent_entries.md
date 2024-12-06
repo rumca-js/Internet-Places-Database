@@ -1,3 +1,441 @@
+ ## Welcome to your Strapi app
+ - [https://storytelling-cms.microsoft.design](https://storytelling-cms.microsoft.design)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Microsoft Design - Wallpapers
+ - [https://wallpapers.microsoft.design](https://wallpapers.microsoft.design)
+ - date_published: 2024-07-23T23:59:39.652985+00:00
+
+ ## Mindstate Design Labs
+ - [https://mindstate.design](https://mindstate.design)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Miris Whispers
+ - [https://blog.miris.design](https://blog.miris.design)
+ - date_published: 2023-10-25T18:34:31.450280+00:00
+
+ ## Home - Mozilla Dot Design
+ - [https://mozilla.design](https://mozilla.design)
+ - date_published: 2024-05-08T10:31:09.668343+00:00
+
+ ## nick trombley . design
+ - [https://nicktrombley.design](https://nicktrombley.design)
+ - date_published: 2024-06-14T15:06:41.047493+00:00
+
+ ## Nord Design System
+ - [https://nordhealth.design](https://nordhealth.design)
+ - date_published: 2024-05-14T04:03:47.126834+00:00
+
+ ## OFF MENU | Full-Service Creative Partner for Fast Moving Teams
+ - [https://offmenu.design](https://offmenu.design)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Front Page – OFICINA
+ - [https://oficina.design](https://oficina.design)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Olivia Truong
+ - [https://www.oliviatruong.design](https://www.oliviatruong.design)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Onur Çoban
+ - [https://onur.design](https://onur.design)
+ - date_published: 2024-05-09T06:17:43.310266+00:00
+
+ ## Open & Honest
+ - [https://openandhonest.design](https://openandhonest.design)
+ - date_published: 2024-10-18T21:07:38.449770+00:00
+
+ ## Open Up! – Community for open design
+ - [https://openup.design](https://openup.design)
+ - date_published: 2024-04-25T15:31:54.993786+00:00
+
+ ## Order - Design
+ - [https://order.design](https://order.design)
+ - date_published: 2024-07-12T16:37:38.747608+00:00
+
+ ## 🧰 Page Builder
+ - [https://pagebuilder.design](https://pagebuilder.design)
+ - date_published: 2023-07-27T18:27:02+00:00
+
+ ## Paul Schoppert Design
+ - [http://paulschoppert.design](http://paulschoppert.design)
+ - date_published: 2024-07-13T14:47:49.882009+00:00
+
+ ## Plaid Shaman Design & Web Development Studio
+ - [https://plaidshaman.design](https://plaidshaman.design)
+ - date_published: 2024-10-30T21:17:10.325424+00:00
+
+ ## plaintext design
+ - [https://plaintext.design](https://plaintext.design)
+ - date_published: 2024-05-09T08:24:19.272356+00:00
+
+ ## Plau
+ - [https://plau.design](https://plau.design)
+ - date_published: 2024-10-29T13:36:44.231815+00:00
+
+ ## Logo & Guidelines
+ - [https://porkbun.design](https://porkbun.design)
+ - date_published: 2021-04-30T23:37:04+00:00
+
+ ## Genentech: Prescient Design
+ - [https://www.prescient.design](https://www.prescient.design)
+ - date_published: 2024-07-08T15:40:05+00:00
+
+ ## Presenting Persuasively
+ - [https://learn.presentation.design](https://learn.presentation.design)
+ - date_published: 2024-06-23T10:13:33.198921+00:00
+
+ ## Presentation.Design
+ - [https://www.presentation.design](https://www.presentation.design)
+ - date_published: 2023-10-26T00:00:00+00:00
+
+ ## Primo - The Better Banner Builder
+ - [https://primo.design](https://primo.design)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Design Principles
+ - [https://principles.design](https://principles.design)
+ - date_published: 2024-04-29T07:17:48.715040+00:00
+
+ ## Prototyper for Figma
+ - [https://prototyper.design](https://prototyper.design)
+ - date_published: 2024-07-09T19:17:28.288599+00:00
+
+ ## Home | Raaad Design Studio
+ - [http://www.raaad.design](http://www.raaad.design)
+ - date_published: 2024-10-28T03:11:20.855225+00:00
+
+ ## Radical web design
+ - [https://radicalweb.design](https://radicalweb.design)
+ - date_published: 2024-07-10T07:54:58.729918+00:00
+
+ ## Radmir Volk | Multidisciplinary designer
+ - [https://radmirvolk.design](https://radmirvolk.design)
+ - date_published: 2024-10-29T13:36:39.645743+00:00
+
+ ## Rafa's website
+ - [https://rafa.design](https://rafa.design)
+ - date_published: 2024-05-08T03:05:18.408616+00:00
+
+ ## Rayon.design: Draw floor plans faster together
+ - [https://www.rayon.design](https://www.rayon.design)
+ - date_published: 2024-08-19T21:29:42.281900+00:00
+
+ ## Reconstrained Design
+ - [https://reconstrained.design](https://reconstrained.design)
+ - date_published: 2023-12-11T16:18:13.316990+00:00
+
+ ## Rectangle
+ - [https://rectangle.design](https://rectangle.design)
+ - date_published: 2024-08-18T19:05:45.104922+00:00
+
+ ## Recursive Sans & Mono
+ - [https://www.recursive.design](https://www.recursive.design)
+ - date_published: 2024-06-23T06:25:26.494662+00:00
+
+ ## Refero — design references for your next project
+ - [https://refero.design](https://refero.design)
+ - date_published: 2024-04-29T07:15:44.898000+00:00
+
+ ## Roast my landing page
+ - [https://roasted.design](https://roasted.design)
+ - date_published: 2024-10-17T14:15:29.244618+00:00
+
+ ## Rober González - Lead UI & IxD / Data Visualization Designer
+ - [https://rober.design](https://rober.design)
+ - date_published: 2024-03-08T08:53:02+00:00
+
+ ## Robin Gabriel Design
+ - [https://robingabriel.design](https://robingabriel.design)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Rob Lewis, Designer
+ - [http://roblewis.design](http://roblewis.design)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Roland Szabó | Senior Web Designer
+ - [https://rolandszabo.design](https://rolandszabo.design)
+ - date_published: 2024-05-07T23:12:34.912941+00:00
+
+ ## @rolle / Full Stack Developer = Front-end developer, designer, sysadmin
+ - [https://rolle.design](https://rolle.design)
+ - date_published: 2023-12-19T02:59:27.788104+00:00
+ - tags: ['personal']
+
+ ## Rolodex Design | The top freelance design directory
+ - [https://rolodex.design](https://rolodex.design)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Ron Bronson
+ - [https://ronbronson.design](https://ronbronson.design)
+ - date_published: 2024-05-10T06:32:12.680284+00:00
+ - tags: ['personal']
+
+ ## Ruined by Design
+ - [https://www.ruinedby.design](https://www.ruinedby.design)
+ - date_published: 2024-08-19T07:28:34.039129+00:00
+
+ ## Sabai Design: Affordable, Sustainable & Convenient Furniture
+ - [https://sabai.design](https://sabai.design)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home | Sahar Heumesser
+ - [https://sahar.design](https://sahar.design)
+ - date_published: 2024-07-20T15:18:27.970432+00:00
+
+ ## Saman Archive
+ - [https://archive.saman.design](https://archive.saman.design)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Saman Icons
+ - [https://icons.saman.design](https://icons.saman.design)
+ - date_published: 2024-05-10T05:33:21.544366+00:00
+
+ ## SAMAN
+ - [https://saman.design](https://saman.design)
+ - date_published: 2024-07-12T16:37:41.289734+00:00
+
+ ## Sam King
+ - [https://samking.design](https://samking.design)
+ - date_published: 2024-07-09T19:14:28.977380+00:00
+
+ ## Semi Design
+ - [https://semi.design](https://semi.design)
+ - date_published: 2024-07-09T19:01:02.885473+00:00
+
+ ## SevenType | An Independent Multi-script Type Design Studio
+ - [https://seventype.design](https://seventype.design)
+ - date_published: 2024-10-29T14:04:04.425637+00:00
+
+ ## shaper
+ - [https://shaper.design](https://shaper.design)
+ - date_published: 2024-08-18T13:09:06.618414+00:00
+
+ ## Shelby Klein Design - Shelby Klein Design
+ - [http://shelbyklein.design](http://shelbyklein.design)
+ - date_published: 2023-08-14T17:52:18+00:00
+
+ ## Shopware – Meteor Design System
+ - [https://shopware.design](https://shopware.design)
+ - date_published: 2024-09-04T15:34:36.228107+00:00
+
+ ## Sigma Software Design
+ - [https://sigmasoftware.design](https://sigmasoftware.design)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## SINK
+ - [https://sink.design](https://sink.design)
+ - date_published: 2024-07-19T17:51:53.449113+00:00
+
+ ## Skeuomorphic Design: Lessons from Apple's Golden Era | Michael Darius | Substack
+ - [https://skeuomorphic.design](https://skeuomorphic.design)
+ - date_published: 2024-09-04T04:41:37.092036+00:00
+
+ ## Slack Design
+ - [https://slack.design](https://slack.design)
+ - date_published: 2023-11-02T16:39:18.847159+00:00
+
+ ## Snowdrop.design |  Product Design, UI/UX, websites for founders
+ - [https://snowdrop.design](https://snowdrop.design)
+ - date_published: 2024-05-29T14:18:03+00:00
+
+ ## Spline
+ - [https://app.spline.design](https://app.spline.design)
+ - date_published: 2024-06-20T15:23:44.998275+00:00
+
+ ## Spline Community - A new home for your creativity
+ - [https://community.spline.design](https://community.spline.design)
+ - date_published: 2024-09-04T11:13:59.906398+00:00
+
+ ## spline_my_design
+ - [https://my.spline.design](https://my.spline.design)
+ - date_published: 2020-12-04T00:36:31+00:00
+
+ ## Spline - 3D Design tool in the browser with real-time collaboration
+ - [https://spline.design](https://spline.design)
+ - date_published: 2024-06-20T15:24:09.263792+00:00
+
+ ## Home
+ - [https://spotify.design](https://spotify.design)
+ - date_published: 2024-04-29T07:17:03.664294+00:00
+
+ ## Staff Design
+ - [https://staff.design](https://staff.design)
+ - date_published: 2024-06-23T11:11:21.700277+00:00
+
+ ## Stammy.design
+ - [https://stammy.design](https://stammy.design)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Standard - Design & technology consultancy
+ - [https://standard.design](https://standard.design)
+ - date_published: 2024-09-05T20:15:46.111877+00:00
+
+ ## Statista Content & Design
+ - [https://statista.design](https://statista.design)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Time saving Expert UX Templates and Resources -- By Stéphanie Walter
+ - [https://shop.stephaniewalter.design](https://shop.stephaniewalter.design)
+ - date_published: 2024-07-02T19:36:36.384342+00:00
+
+ ## Stéphanie Walter - UX Researcher & Product designer, Mobile Expert, Speaker, Blog writer.
+ - [https://stephaniewalter.design](https://stephaniewalter.design)
+ - date_published: 2024-05-07T23:17:07.469502+00:00
+
+ ## Steve Polito is a full stack web developer in the Boston Area
+ - [https://stevepolito.design](https://stevepolito.design)
+ - date_published: 2023-10-25T18:34:32.217038+00:00
+
+ ## Stöckli Design
+ - [https://stoeckli.design](https://stoeckli.design)
+ - date_published: 2024-06-19T15:39:37.580104+00:00
+
+ ## Strate, école de design à Paris et Lyon
+ - [https://www.strate.design](https://www.strate.design)
+ - date_published: 2024-10-31T03:11:16+00:00
+
+ ## STUDIO | The best free website builder for designers
+ - [https://studio.design](https://studio.design)
+ - date_published: 2024-06-19T20:10:46.890627+00:00
+
+ ## Superposition: Use the design system you already have
+ - [https://superposition.design](https://superposition.design)
+ - date_published: 2022-04-07T09:25:20+00:00
+
+ ## Houston Webflow Web Design Experts | Sweven.design
+ - [https://sweven.design](https://sweven.design)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Team
+ - [https://team.design](https://team.design)
+ - date_published: 2024-07-15T06:52:01.157961+00:00
+
+ ## Home
+ - [https://think.design](https://think.design)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## story.to.design | Generate Figma components from code
+ - [https://story.to.design](https://story.to.design)
+ - date_published: 2024-07-04T15:15:11+00:00
+
+ ## Today in Design
+ - [https://news.todayin.design](https://news.todayin.design)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Tom Newspring
+ - [https://tomnewspring.design](https://tomnewspring.design)
+ - date_published: 2024-05-26T05:50:26+00:00
+
+ ## Top Level Design
+ - [https://toplevel.design](https://toplevel.design)
+ - date_published: 2024-06-03T06:11:53.064696+00:00
+
+ ## Trueform | Digital Experience Studio
+ - [https://www.trueform.design](https://www.trueform.design)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Work | twenty-six.design
+ - [http://www.twenty-six.design](http://www.twenty-six.design)
+ - date_published: 2024-05-15T15:28:42+00:00
+
+ ## Undertone.design | Academic graphic design
+ - [https://undertone.design](https://undertone.design)
+ - date_published: 2024-04-30T06:03:28.489976+00:00
+
+ ## Blank: Figma UI kit and Design system
+ - [https://useblank.design](https://useblank.design)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## USTUDIO Design | Award Winning Greeting Card Publisher
+ - [https://ustudio.design](https://ustudio.design)
+ - date_published: 2024-07-23T21:13:43.942842+00:00
+
+ ## Vev Design
+ - [https://a.vev.design](https://a.vev.design)
+ - date_published: 2018-07-28T14:10:51+00:00
+
+ ## VisualEyes - Optimize your UX via Attention Heatmaps and Clarity
+ - [https://www.visualeyes.design](https://www.visualeyes.design)
+ - date_published: 2024-06-29T15:34:23.637644+00:00
+
+ ## Vishal Krishna • Visual and UX Designer
+ - [https://vsk.design](https://vsk.design)
+ - date_published: 2024-07-24T02:30:18.464022+00:00
+
+ ## wahnsinn design
+ - [https://wahnsinn.design](https://wahnsinn.design)
+ - date_published: 2024-06-26T11:17:09+00:00
+
+ ## WeDesign
+ - [http://wechat.design](http://wechat.design)
+ - date_published: 2024-08-05T23:46:37.572880+00:00
+
+ ## Work – Werk 8
+ - [https://www.werk8.design](https://www.werk8.design)
+ - date_published: 2024-07-14T08:50:49.943363+00:00
+
+ ## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date_published: 2023-10-25T18:34:32.784058+00:00
+
+ ## Студія «Зіна дизайн» - створення сайтів в Дніпрі
+ - [https://www.zina.design](https://www.zina.design)
+ - date_published: 2024-06-23T14:14:18.881195+00:00
+
+ ## 0dependencies!
+ - [https://0dependencies.dev](https://0dependencies.dev)
+ - date_published: 2024-09-05T00:10:55+00:00
+
+ ## Tech @ Cliqz
+ - [https://0x65.dev](https://0x65.dev)
+ - date_published: 2020-05-16T08:56:54+00:00
+ - tags: ['personal']
+
+ ## 0x7D0
+ - [https://0x7d0.dev](https://0x7d0.dev)
+ - date_published: 2024-01-20T00:00:00+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date_published: 2023-10-25T18:34:34.220775+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date_published: 2023-10-25T18:34:34.827334+00:00
+
+ ## 0x7f Notes
+ - [https://notes.0x7f.dev](https://notes.0x7f.dev)
+ - date_published: 2024-08-19T04:22:25.180442+00:00
+
+ ## 0xCB - Tech, Keyboards and more
+ - [https://0xcb.dev](https://0xcb.dev)
+ - date_published: 2024-06-21T22:05:58.748190+00:00
+
+ ## Eleventy is a simpler static site generator
+ - [https://11ty.dev](https://11ty.dev)
+ - date_published: 2024-02-16T00:00:00+00:00
+ - tags: ['self-host', 'static websites']
+
+ ## 11ty’s International Symposium on Making Web Sites Real Good
+ - [https://conf.11ty.dev](https://conf.11ty.dev)
+ - date_published: 2024-05-07T18:48:43.330288+00:00
+
+ ## 11ty Merch
+ - [https://merch.11ty.dev](https://merch.11ty.dev)
+ - date_published: 2024-05-07T18:48:40.563426+00:00
+
+ ## THE Eleventy Meetup
+ - [https://11tymeetup.dev](https://11tymeetup.dev)
+ - date_published: 2024-04-29T07:27:21.280515+00:00
+
+ ## 12 Days of Web
+ - [https://12daysofweb.dev](https://12daysofweb.dev)
+ - date_published: 2024-04-30T00:34:50.848266+00:00
+
  ## 16pixel. | Where Beauty Converges with Innovation
  - [https://16pixel.dev](https://16pixel.dev)
  - date_published: 2024-04-21T00:00:00+00:00
@@ -2356,6 +2794,10 @@
  - [https://composio.dev](https://composio.dev)
  - date_published: 2024-10-25T14:30:44.735167+00:00
 
+ ## Discover The Best Agentic AI Developer Tools
+ - [https://directory.composio.dev](https://directory.composio.dev)
+ - date_published: 2024-12-05T18:29:24.191920+00:00
+
  ## Overview - Composio
  - [https://docs.composio.dev](https://docs.composio.dev)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -3617,448 +4059,4 @@
  ## Eternal Terminal
  - [https://eternalterminal.dev](https://eternalterminal.dev)
  - date_published: 2023-06-29T01:33:34+00:00
-
- ## EthanG
- - [https://ethang.dev](https://ethang.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Ethical Source: Open Source, Evolved.
- - [https://ethicalsource.dev](https://ethicalsource.dev)
- - date_published: 2024-05-09T02:33:36.183383+00:00
-
- ## ethos.dev
- - [https://ethos.dev](https://ethos.dev)
- - date_published: 2022-10-17T00:00:00+00:00
-
- ## EthWarsaw 2024
- - [https://www.ethwarsaw.dev](https://www.ethwarsaw.dev)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## There’s been an error
- - [https://api.every-layout.dev](https://api.every-layout.dev)
- - date_published: 2024-09-18T19:08:42.043065+00:00
-
- ## Relearn CSS layout
- - [https://every-layout.dev](https://every-layout.dev)
- - date_published: 2024-06-15T17:35:07.223411+00:00
-
- ## What is Evidence? | Evidence Docs
- - [https://docs.evidence.dev](https://docs.evidence.dev)
- - date_published: 2024-04-29T07:43:16.381155+00:00
-
- ## Evidence - Business Intelligence as Code
- - [https://evidence.dev](https://evidence.dev)
- - date_published: 2023-10-25T18:37:57.379219+00:00
-
- ## Join evidence on Slack
- - [https://slack.evidence.dev](https://slack.evidence.dev)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Evolu - Local-First Platform Designed for Privacy, Ease of Use, and No Vendor Lock-In – Evolu
- - [https://evolu.dev](https://evolu.dev)
- - date_published: 2024-04-30T00:30:08.886685+00:00
-
- ## // Ewal
- - [https://ewal.dev](https://ewal.dev)
- - date_published: 2024-05-11T10:24:37.588431+00:00
-
- ## Exograph
- - [https://exograph.dev](https://exograph.dev)
- - date_published: 2024-07-07T10:27:34.692236+00:00
-
- ## Exome – State manager
- - [https://exome.dev](https://exome.dev)
- - date_published: 2024-05-09T09:14:48.409522+00:00
-
- ## Exposition
- - [https://blog.expo.dev](https://blog.expo.dev)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Join the Expo Developers Discord Server!
- - [https://chat.expo.dev](https://chat.expo.dev)
- - date_published: 2024-06-22T00:40:11+00:00
-
- ## Expo Documentation
- - [https://docs.expo.dev](https://docs.expo.dev)
- - date_published: 2024-05-08T09:01:15.165964+00:00
-
- ## Expo
- - [https://expo.dev](https://expo.dev)
- - date_published: 2024-05-06T20:15:56.064931+00:00
-
- ## Expo and React Native Jobs
- - [https://jobs.expo.dev](https://jobs.expo.dev)
- - date_published: 2024-06-23T06:55:40.312522+00:00
-
- ## Snack - React Native in the browser
- - [https://snack.expo.dev](https://snack.expo.dev)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Expo
- - [https://static.expo.dev](https://static.expo.dev)
- - date_published: 2024-06-23T06:55:41.595848+00:00
-
- ## Expo Status
- - [https://status.expo.dev](https://status.expo.dev)
- - date_published: 2024-06-23T06:55:36.886460+00:00
-
- ## Share local sites via secure tunnels with Expose
- - [https://expose.dev](https://expose.dev)
- - date_published: 2024-06-23T05:56:30.342555+00:00
-
- ## Extensible AI
- - [https://extensible.dev](https://extensible.dev)
- - date_published: 2024-02-13T20:23:39+00:00
-
- ## Firebase Extensions Hub
- - [https://extensions.dev](https://extensions.dev)
- - date_published: 2024-05-08T07:31:43.052561+00:00
-
- ## Araa
- - [https://araa.extravi.dev](https://araa.extravi.dev)
- - date_published: 2024-07-09T06:01:51.793733+00:00
-
- ## Ezell Frazier
- - [https://ezell.dev](https://ezell.dev)
- - date_published: 2024-05-06T13:58:33.020536+00:00
-
- ## Welcome to Friday 13th Development | F13.DEV
- - [https://f13.dev](https://f13.dev)
- - date_published: 2024-08-18T04:33:40.967996+00:00
-
- ## Welcome - Faceswap
- - [https://faceswap.dev](https://faceswap.dev)
- - date_published: 2024-03-22T00:00:00+00:00
- - tags: ['open source', 'deep fake']
-
- ## Forum Home
- - [https://forum.faceswap.dev](https://forum.faceswap.dev)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## JavaScript CMS Framework
- - [https://factor.dev](https://factor.dev)
- - date_published: 2024-09-04T15:05:29.695211+00:00
-
- ## Factory | Digital Transformation Company
- - [https://factory.dev](https://factory.dev)
- - date_published: 2024-09-04T12:04:51.358575+00:00
-
- ## Join the faker-js Discord Server!
- - [https://chat.fakerjs.dev](https://chat.fakerjs.dev)
- - date_published: 2024-07-23T22:44:17.203544+00:00
-
- ## Faker
- - [https://fakerjs.dev](https://fakerjs.dev)
- - date_published: 2024-04-29T07:30:55.142540+00:00
-
- ## Faker
- - [https://next.fakerjs.dev](https://next.fakerjs.dev)
- - date_published: 2024-07-23T22:44:14.795233+00:00
-
- ## Faker | Faker
- - [https://v6.fakerjs.dev](https://v6.fakerjs.dev)
- - date_published: 2024-07-23T22:44:18.197091+00:00
-
- ## Faker | Faker
- - [https://v7.fakerjs.dev](https://v7.fakerjs.dev)
- - date_published: 2024-07-23T22:44:15.709986+00:00
-
- ## Faker
- - [https://v9.fakerjs.dev](https://v9.fakerjs.dev)
- - date_published: 2024-07-23T22:44:19.983187+00:00
-
- ## Charalampos Fanoulis
- - [https://fanoulis.dev](https://fanoulis.dev)
- - date_published: 2024-05-09T07:45:49.225086+00:00
-
- ## Matt Fantinel
- - [https://fantinel.dev](https://fantinel.dev)
- - date_published: 2024-07-23T23:40:53.684240+00:00
-
- ## Faraday.dev
- - [https://faraday.dev](https://faraday.dev)
- - date_published: 2024-05-06T14:40:50.610082+00:00
-
- ## Farfalle
- - [http://farfalle.dev](http://farfalle.dev)
- - date_published: 2024-08-06T10:06:17.200683+00:00
-
- ## https://farlow.dev
- - [https://farlow.dev](https://farlow.dev)
- - date_published: 2024-01-09T02:57:15.429770+00:00
-
- ## Fast and low overhead web framework, for Node.js | Fastify
- - [https://fastify.dev](https://fastify.dev)
- - date_published: 2024-05-04T13:00:18.664451+00:00
-
- ## Fiddle - Fastly
- - [https://fiddle.fastly.dev](https://fiddle.fastly.dev)
- - date_published: 2024-06-16T14:04:13.809417+00:00
-
- ## FAUN
-              
-              | The fastest way for busy developers to keep up with technologies 🚀 | www.faun.dev
- - [https://faun.dev](https://faun.dev)
- - date_published: 2024-07-18T12:56:28.200513+00:00
-
- ## Fáyer - Creative Developer
- - [http://fayer.dev](http://fayer.dev)
- - date_published: 2024-10-05T23:03:01.784804+00:00
-
- ## Home | fdgt.dev
- - [https://fdgt.dev](https://fdgt.dev)
- - date_published: 2024-07-14T09:11:11.584682+00:00
-
- ## Feast: Feature Store for Machine Learning
- - [https://feast.dev](https://feast.dev)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Join Feast on Slack
- - [https://slack.feast.dev](https://slack.feast.dev)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Feather - Free & open source icons
- - [https://feathericons.dev](https://feathericons.dev)
- - date_published: 2024-05-09T07:23:06.557657+00:00
-
- ## Federico Vitale - Software Engineer
- - [https://fedevitale.dev](https://fedevitale.dev)
- - date_published: 2024-05-11T10:09:14.385795+00:00
-
- ## Fedi.dev
- - [https://fedi.dev](https://fedi.dev)
- - date_published: 2024-08-08T15:22:51.068757+00:00
-
- ## Fedify
- - [https://fedify.dev](https://fedify.dev)
- - date_published: 2024-06-28T15:59:09+00:00
-
- ## Home - FED Mentor
- - [https://fedmentor.dev](https://fedmentor.dev)
- - date_published: 2023-10-25T18:37:59.320927+00:00
-
- ## Feep! search
- - [https://search.feep.dev](https://search.feep.dev)
- - date_published: 2023-10-25T18:38:00.233684+00:00
-
- ## Felte | Home
- - [https://felte.dev](https://felte.dev)
- - date_published: 2024-07-10T06:39:31.042458+00:00
-
- ## Ferib - Cyber Security Researcher
- - [https://ferib.dev](https://ferib.dev)
- - date_published: 2024-08-08T15:17:22.181942+00:00
-
- ## en/
- - [https://ferrocene.dev](https://ferrocene.dev)
- - date_published: 2024-06-19T02:43:48.314108+00:00
-
- ## Engineering Festivus
- - [https://festivus.dev](https://festivus.dev)
- - date_published: 2020-11-01T00:00:00+00:00
-
- ## Johannes Pichler's blog about Web Development
- - [https://fetzi.dev](https://fetzi.dev)
- - date_published: 2023-11-10T00:00:00+00:00
-
- ## Fine Grained Authorization (FGA) at scale for developers - Auth0
- - [https://fga.dev](https://fga.dev)
- - date_published: 2024-06-27T14:38:58.868294+00:00
-
- ## Posterior Collapse
- - [https://haydn.fgl.dev](https://haydn.fgl.dev)
- - date_published: 2023-08-10T13:53:13+00:00
-
- ## Fidalgo Info
- - [https://info.fidalgo.dev](https://info.fidalgo.dev)
- - date_published: 2024-05-11T10:20:53.334347+00:00
-
- ## Intro | FILE0
- - [https://docs.file0.dev](https://docs.file0.dev)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Show HN: File0 – An easier way to manage files in serverless apps
- - [https://file0.dev](https://file0.dev)
- - date_published: 2024-05-28T08:17:00+00:00
-
- ## Sign in - Google Accounts
- - [https://appdistribution.firebase.dev](https://appdistribution.firebase.dev)
- - date_published: 2024-07-20T02:29:34.050758+00:00
-
- ## Firecrawl Docs
- - [https://docs.firecrawl.dev](https://docs.firecrawl.dev)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Turn entire websites into LLM-ready data
- - [https://firecrawl.dev](https://firecrawl.dev)
- - date_published: 2024-04-13T22:32:54+00:00
- - tags: ['web crawler']
-
- ## firefish · GitLab
- - [https://firefish.dev](https://firefish.dev)
- - date_published: 2024-06-18T15:43:31.417180+00:00
-
- ## Custom Domain by Bitly
- - [https://share.firefox.dev](https://share.firefox.dev)
- - date_published: 2024-04-29T06:28:04.916930+00:00
-
- ## firenze.dev, la community di sviluppatori a firenze
- - [https://firenze.dev](https://firenze.dev)
- - date_published: 2024-06-22T14:02:38.803648+00:00
-
- ## Firezone
-     · Firezone
- - [https://app.firezone.dev](https://app.firezone.dev)
- - date_published: 2024-06-20T22:13:43.836597+00:00
-
- ## Oneleet | Trust Page
- - [https://trust.firezone.dev](https://trust.firezone.dev)
- - date_published: 2024-06-20T13:49:36+00:00
-
- ## Firezone: Zero trust access that scales
- - [https://www.firezone.dev](https://www.firezone.dev)
- - date_published: 2024-05-04T09:44:22.070487+00:00
-
- ## Reverse Image Search
- - DupeBot
- - [https://dupebot.firstbyte.dev](https://dupebot.firstbyte.dev)
- - date_published: 2024-07-02T20:17:57.389482+00:00
-
- ## The Hippocratic License: An Ethical License for Open Source
- - [https://firstdonoharm.dev](https://firstdonoharm.dev)
- - date_published: 2021-01-01T00:00:00+00:00
-
- ## Flashlight | Get your app Performance score
- - [https://flashlight.dev](https://flashlight.dev)
- - date_published: 2023-06-30T15:34:41+00:00
-
- ## Flawless - Durable Execution Engine
- - [https://flawless.dev](https://flawless.dev)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## Flecs
- - [https://flecs.dev](https://flecs.dev)
- - date_published: 2024-04-29T07:43:55.572472+00:00
-
- ## fleetwood.dev
- - [https://fleetwood.dev](https://fleetwood.dev)
- - date_published: 2024-11-18T00:28:57.121049+00:00
-
- ## Launch Your Ready-to-Use Marketplace in Just a Few Days
- - [https://fleexy.dev](https://fleexy.dev)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Flet – multi-platform apps in Python powered by Flutter
- - [https://flet.dev](https://flet.dev)
- - date_published: 2024-07-06T20:52:29+00:00
-
- ## Flightcontrol Jobs
- - [https://jobs.flightcontrol.dev](https://jobs.flightcontrol.dev)
- - date_published: 2023-10-25T18:38:01.725933+00:00
-
- ## Flightcontrol –  The kick-ass PaaS
- - [https://www.flightcontrol.dev](https://www.flightcontrol.dev)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## FlineDev
- - [https://www.fline.dev](https://www.fline.dev)
- - date_published: 2024-06-23T15:46:55.386842+00:00
-
- ## Just a placeholder
- - [https://fliphess.dev](https://fliphess.dev)
- - date_published: 2024-02-04T19:28:32+00:00
-
- ## Flipper Zero Links
- - [https://flipp.dev](https://flipp.dev)
- - date_published: 2023-07-20T09:47:26+00:00
-
- ## Flitter - Data Visualization Framework
- - [https://flitter.dev](https://flitter.dev)
- - date_published: 2024-07-07T02:58:43.167587+00:00
-
- ## The Flix Programming Language
- - [https://flix.dev](https://flix.dev)
- - date_published: 2023-11-26T04:54:16+00:00
-
- ## Florian Franke
- - [https://florianfranke.dev](https://florianfranke.dev)
- - date_published: 2024-04-05T16:59:00+00:00
-
- ## Florimond Manca
- - [https://florimond.dev](https://florimond.dev)
- - date_published: 2024-05-09T08:12:03.169885+00:00
-
- ## Posts
- - [https://flounder.dev](https://flounder.dev)
- - date_published: 2024-10-12T08:57:45.389523+00:00
-
- ## Flower: A Friendly Federated Learning Framework
- - [https://flower.dev](https://flower.dev)
- - date_published: 2023-11-16T20:06:53.497502+00:00
-
- ## Flox | Your dev environment, everywhere
- - [https://flox.dev](https://flox.dev)
- - date_published: 2024-04-29T07:14:43.818522+00:00
-
- ## Flox | Your dev environment, everywhere
- - [https://go.flox.dev](https://go.flox.dev)
- - date_published: 2024-05-04T06:27:19.717683+00:00
-
- ## FloxHub
- - [https://hub.flox.dev](https://hub.flox.dev)
- - date_published: 2024-05-04T06:27:21.776624+00:00
-
- ## Fluence blockchain explorer - View Fluence stats | Blockscout
- - [https://blockscout.mainnet.fluence.dev](https://blockscout.mainnet.fluence.dev)
- - date_published: 2024-09-24T08:13:16.329873+00:00
-
- ## ran-various-neck blockchain explorer | Blockscout
- - [https://blockscout.stage.fluence.dev](https://blockscout.stage.fluence.dev)
- - date_published: 2024-09-24T02:19:10.340967+00:00
-
- ## Fluence Testnet blockchain explorer - View Fluence Testnet stats | Blockscout
- - [https://blockscout.testnet.fluence.dev](https://blockscout.testnet.fluence.dev)
- - date_published: 2024-09-24T10:41:34.953451+00:00
-
- ## Overview | Fluence Docs
- - [https://fluence.dev](https://fluence.dev)
- - date_published: 2024-09-04T11:55:46.052335+00:00
-
- ## Fluent UI React
- - [https://react.fluentui.dev](https://react.fluentui.dev)
- - date_published: 2024-07-01T20:47:31+00:00
-
- ## Flutter - Dart API docs
- - [https://api.flutter.dev](https://api.flutter.dev)
- - date_published: 2024-04-29T07:44:09.252279+00:00
-
- ## Flutter documentation
- - [https://docs.flutter.dev](https://docs.flutter.dev)
- - date_published: 2023-12-11T12:14:27+00:00
- - tags: ['programming language', 'flutter']
-
- ## Flutter - Build apps for any screen
- - [https://flutter.dev](https://flutter.dev)
- - date_published: 2023-12-11T12:15:06+00:00
- - tags: ['programming language', 'flutter']
-
- ## GitHub - flutter/gallery: Flutter Gallery was a resource to help developers evaluate and use Flutter
- - [https://gallery.flutter.dev](https://gallery.flutter.dev)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Flutter - Dart API docs
- - [https://main-api.flutter.dev](https://main-api.flutter.dev)
- - date_published: 2024-07-23T22:04:32.960118+00:00
-
- ## Home - fluttercon
- - [https://fluttercon.dev](https://fluttercon.dev)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home - flutterconusa
- - [https://flutterconusa.dev](https://flutterconusa.dev)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Flutter Europe Conference
- - [https://fluttereurope.dev](https://fluttereurope.dev)
- - date_published: 2020-01-23T11:01:55+00:00
 

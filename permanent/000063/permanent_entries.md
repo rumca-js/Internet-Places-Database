@@ -1,3 +1,31 @@
+ ## Rusty Mech Salvage
+ - [http://rustymechsalvage.blogspot.com](http://rustymechsalvage.blogspot.com)
+ - date_published: 2024-03-20T07:36:06+00:00
+
+ ## Rusty Robots
+ - [https://rustyrobots.blogspot.com](https://rustyrobots.blogspot.com)
+ - date_published: 2021-01-10T00:00:00+00:00
+
+ ## The Rusty Workbench
+ - [http://rusty-warriors.blogspot.com](http://rusty-warriors.blogspot.com)
+ - date_published: 2024-10-09T01:36:29+00:00
+
+ ## the dark goddess of replevin speaks
+ - [http://ruthedlund.blogspot.com](http://ruthedlund.blogspot.com)
+ - date_published: 2024-03-13T22:10:25+00:00
+
+ ## Ruttetkaffe
+ - [https://ruttetkaffe.blogspot.com](https://ruttetkaffe.blogspot.com)
+ - date_published: 2024-03-05T12:40:36+00:00
+
+ ## Robert on anything
+ - [http://rvirding.blogspot.com](http://rvirding.blogspot.com)
+ - date_published: 2024-06-21T09:12:51+00:00
+
+ ## Famous Battles!
+ - [http://rwva.blogspot.com](http://rwva.blogspot.com)
+ - date_published: 2024-03-05T09:14:29+00:00
+
  ## Twenty-First Century Blues
  - [http://rwwgreene.blogspot.com](http://rwwgreene.blogspot.com)
  - date_published: 2024-02-21T17:50:28+00:00
@@ -3984,32 +4012,4 @@
  ## The Accessible Transhumanist
  - [http://theaccessibletranshumanist.blogspot.com](http://theaccessibletranshumanist.blogspot.com)
  - date_published: 2024-03-13T18:17:47+00:00
-
- ## The Accidental Environmentalist
- - [http://theaccidentalenvironmentalist.blogspot.com](http://theaccidentalenvironmentalist.blogspot.com)
- - date_published: 2024-03-07T08:07:53+00:00
-
- ## The Acetone Pit
- - [http://theacetonepit.blogspot.com](http://theacetonepit.blogspot.com)
- - date_published: 2024-08-28T04:55:22+00:00
-
- ## theadventuresofcabrito
- - [http://theadventuresofcabrito.blogspot.com](http://theadventuresofcabrito.blogspot.com)
- - date_published: 2024-09-20T11:13:58+00:00
-
- ## The Aircav Saga
- - [http://theaircavsaga.blogspot.com](http://theaircavsaga.blogspot.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## TheAmbit's Hobby Blog
- - [http://theambit.blogspot.com](http://theambit.blogspot.com)
- - date_published: 2024-06-13T17:20:33+00:00
-
- ## The American Individualist
- - [http://theamericanindividualist.blogspot.com](http://theamericanindividualist.blogspot.com)
- - date_published: 2024-03-05T19:13:06+00:00
-
- ## Google Translate
- - [http://theamericanjingoist.blogspot.com](http://theamericanjingoist.blogspot.com)
- - date_published: 2023-12-28T06:57:33+00:00
 

@@ -1,3 +1,31 @@
+ ## ART OR IDIOCY?
+ - [http://artoridiocy.blogspot.com](http://artoridiocy.blogspot.com)
+ - date_published: 2024-03-23T18:26:09+00:00
+
+ ## Sam's Tasty Art
+ - [http://artsammich.blogspot.com](http://artsammich.blogspot.com)
+ - date_published: 2024-07-13T06:01:48+00:00
+
+ ## ArtSci Chicago
+ - [http://artscichicago.blogspot.com](http://artscichicago.blogspot.com)
+ - date_published: 2024-03-06T01:57:15+00:00
+
+ ## Art Theft Central
+ - [http://arttheftcentral.blogspot.com](http://arttheftcentral.blogspot.com)
+ - date_published: 2024-02-23T07:43:21+00:00
+
+ ## Laura Gilbert__ Art Unwashed
+ - [https://art-unwashed.blogspot.com](https://art-unwashed.blogspot.com)
+ - date_published: 2024-03-13T10:11:48+00:00
+
+ ## variousposition
+ - [http://artu-variousposition.blogspot.com](http://artu-variousposition.blogspot.com)
+ - date_published: 2024-06-11T03:06:09+00:00
+
+ ## ARTWACH
+ - [http://artwach.blogspot.com](http://artwach.blogspot.com)
+ - date_published: 2024-06-20T17:51:45+00:00
+
  ## Mattress Factory | Art You Can Get Into
  - [http://artyoucangetinto.blogspot.com](http://artyoucangetinto.blogspot.com)
  - date_published: 2024-03-20T17:43:09+00:00
@@ -3987,32 +4015,4 @@
  ## Cities Matter
  - [http://cities-matter.blogspot.com](http://cities-matter.blogspot.com)
  - date_published: 2024-10-29T08:26:39+00:00
-
- ## Ottawa Citizen Cryptic Crossword Forum
- - [http://citizencryptic.blogspot.com](http://citizencryptic.blogspot.com)
- - date_published: 2024-04-23T01:21:24+00:00
-
- ## Citizens and Neighbours
- - [http://citizensandneighbours.blogspot.com](http://citizensandneighbours.blogspot.com)
- - date_published: 2024-10-21T14:29:58.322735+00:00
-
- ## Citizenschallenge
- - [http://citizenschallenge.blogspot.com](http://citizenschallenge.blogspot.com)
- - date_published: 2024-06-15T07:25:08+00:00
-
- ## A Murder of Ravens
- - [http://citizenwilliams-amurderofravens.blogspot.com](http://citizenwilliams-amurderofravens.blogspot.com)
- - date_published: 2024-03-13T16:08:59+00:00
-
- ## Citron - DEMO
- - [https://citron-demo.blogspot.com](https://citron-demo.blogspot.com)
- - date_published: 2024-02-20T14:04:44+00:00
-
- ## Hicaro, ambientazione e avventure per Dungeons & Dragons
- - [http://cittavolanti.blogspot.com](http://cittavolanti.blogspot.com)
- - date_published: 2024-03-30T01:54:15+00:00
-
- ## Civilian Reader
- - [https://civilian-reader.blogspot.com](https://civilian-reader.blogspot.com)
- - date_published: 2024-06-18T13:28:37+00:00
 

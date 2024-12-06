@@ -1,3 +1,31 @@
+ ## Grumpy Wargamer
+ - [http://grumpywargamer.blogspot.com](http://grumpywargamer.blogspot.com)
+ - date_published: 2024-10-07T05:59:45+00:00
+
+ ## Warsztat Krasnoluda
+ - [http://grungnargundrikson.blogspot.com](http://grungnargundrikson.blogspot.com)
+ - date_published: 2024-03-14T04:51:59+00:00
+
+ ## It's Grymn Out There.
+ - [http://grymnoutthere.blogspot.com](http://grymnoutthere.blogspot.com)
+ - date_published: 2024-02-19T01:54:33+00:00
+
+ ## Gryphon Scratches
+ - [http://gryphonscratches.blogspot.com](http://gryphonscratches.blogspot.com)
+ - date_published: 2024-03-08T20:00:39+00:00
+
+ ## Blogger
+ - [http://gsaartdesign.blogspot.com](http://gsaartdesign.blogspot.com)
+ - date_published: 2024-10-29T18:52:04.721963+00:00
+
+ ## GSoC 2013 - Communicating with Mobile Devices
+ - [http://gsoc2013cwithmobiledevices.blogspot.com](http://gsoc2013cwithmobiledevices.blogspot.com)
+ - date_published: 2024-03-05T23:51:39+00:00
+
+ ## sugarbot
+ - [http://gsoc-sugarbot.blogspot.com](http://gsoc-sugarbot.blogspot.com)
+ - date_published: 2008-12-16T21:01:00+00:00
+
  ## Sons of Mortikah
  - [http://guardiansotc.blogspot.com](http://guardiansotc.blogspot.com)
  - date_published: 2024-10-16T18:34:48+00:00
@@ -3982,32 +4010,4 @@
  ## Kenton's Weekend Projects
  - [https://kentonsprojects.blogspot.com](https://kentonsprojects.blogspot.com)
  - date_published: 2024-03-13T01:46:03+00:00
-
- ## 15mm paint shack
- - [http://kentspainting15mm.blogspot.com](http://kentspainting15mm.blogspot.com)
- - date_published: 2024-10-12T18:06:28+00:00
-
- ## Blogger
- - [http://kenyasanergy.blogspot.com](http://kenyasanergy.blogspot.com)
- - date_published: 2024-06-20T04:03:05.707844+00:00
-
- ## Kepala Jenong
- - [https://kepalajenong.blogspot.com](https://kepalajenong.blogspot.com)
- - date_published: 2023-11-22T00:00:00+00:00
-
- ## Kepala Jenung
- - [https://kepalajenung.blogspot.com](https://kepalajenung.blogspot.com)
- - date_published: 2023-11-22T00:00:00+00:00
-
- ## Kepala Santai
- - [https://kepalasantai.blogspot.com](https://kepalasantai.blogspot.com)
- - date_published: 2023-11-27T00:00:00+00:00
-
- ## Strange New World
- - [http://kepler22-strange-new-world.blogspot.com](http://kepler22-strange-new-world.blogspot.com)
- - date_published: 2024-07-02T06:19:24+00:00
-
- ## keresearch
- - [http://keresearch.blogspot.com](http://keresearch.blogspot.com)
- - date_published: 2024-02-28T19:02:22+00:00
 

@@ -1,3 +1,19 @@
+ ## Federation of Black Canadians
+ - [https://fbcfcn.ca](https://fbcfcn.ca)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Jeep Off-Road Vehicles | Jeep Canada
+ - [https://autoshow.fcacanada.ca](https://autoshow.fcacanada.ca)
+ - date_published: 2024-10-28T16:04:09.038344+00:00
+
+ ## News Dashboard
+ - [http://www.fcacanada.ca](http://www.fcacanada.ca)
+ - date_published: 2024-10-28T12:05:57+00:00
+
+ ## FCA Canada Electric Vehicles
+ - [https://www.fca-electric-vehicles.ca](https://www.fca-electric-vehicles.ca)
+ - date_published: 2024-10-28T16:03:37.755902+00:00
+
  ## Dodge, Chrysler, Ram Trucks, Jeep, Fiat Fleet Services
  - [https://www.fcafleet.ca](https://www.fcafleet.ca)
  - date_published: 2024-10-28T16:03:53.766380+00:00
@@ -4027,20 +4043,4 @@
  ## The School of Public Policy
  - [https://www.policyschool.ca](https://www.policyschool.ca)
  - date_published: 2016-02-15T19:05:29+00:00
-
- ## About Political Ads - Political Ads
- - [https://politicalads.ca](https://politicalads.ca)
- - date_published: 2024-09-16T03:08:17.052234+00:00
-
- ## Polygon Sandwich -- animation
- - [https://polygons.ca](https://polygons.ca)
- - date_published: 2024-08-18T06:14:35.219587+00:00
-
- ## CERC DS4DM – Data Science for Real-Time Decision-Making
- - [https://cerc-datascience.polymtl.ca](https://cerc-datascience.polymtl.ca)
- - date_published: 2024-07-12T08:10:10.378487+00:00
-
- ## Software Engineering for Machine Learning Application – SEMLA
- - [https://semla.polymtl.ca](https://semla.polymtl.ca)
- - date_published: 2024-07-21T22:10:42.947358+00:00
 

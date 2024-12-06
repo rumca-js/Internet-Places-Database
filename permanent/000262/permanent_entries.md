@@ -1,3 +1,448 @@
+ ## Harvard University Press
+ - [https://hup.harvard.edu](https://hup.harvard.edu)
+ - date_published: 2024-05-08T08:44:54.987046+00:00
+
+ ## Ukrainian Research Institute at Harvard University
+ - [https://huri.harvard.edu](https://huri.harvard.edu)
+ - date_published: 2024-09-10T07:25:41+00:00
+
+ ## The Hutchins Center for African & African American Research
+ - [https://hutchinscenter.fas.harvard.edu](https://hutchinscenter.fas.harvard.edu)
+ - date_published: 2024-08-18T21:57:52+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://hwp.harvard.edu](https://hwp.harvard.edu)
+ - date_published: 2024-06-16T22:29:52.541779+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://hwpi.harvard.edu](https://hwpi.harvard.edu)
+ - date_published: 2024-06-16T13:36:14+00:00
+
+ ## PRESTO; Office for Information Systems; Harvard University Library
+ - [http://id.lib.harvard.edu](http://id.lib.harvard.edu)
+ - date_published: 2022-02-23T16:53:24+00:00
+
+ ## Kosuke Imai's Homepage
+ - [https://imai.fas.harvard.edu](https://imai.fas.harvard.edu)
+ - date_published: 2024-06-21T10:34:16+00:00
+
+ ## Project Implicit
+ - [https://implicit.harvard.edu](https://implicit.harvard.edu)
+ - date_published: 2024-06-15T18:40:21.830267+00:00
+
+ ## Harvard Innovation Labs
+ - [https://innovationlabs.harvard.edu](https://innovationlabs.harvard.edu)
+ - date_published: 2024-10-30T08:23:37.040843+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://internal.accessibility.huit.harvard.edu](https://internal.accessibility.huit.harvard.edu)
+ - date_published: 2024-07-21T23:19:20.697512+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://intranet.huit.harvard.edu](https://intranet.huit.harvard.edu)
+ - date_published: 2024-06-16T13:36:27.224638+00:00
+
+ ## The Institute of Politics at Harvard University
+ - [http://iop.harvard.edu](http://iop.harvard.edu)
+ - date_published: 2024-07-10T00:02:07.058226+00:00
+
+ ## Institute for Quantitative Social Science
+ - [https://iq.harvard.edu](https://iq.harvard.edu)
+ - date_published: 2024-05-11T11:25:48.873885+00:00
+
+ ## I Tatti | The Harvard University Center for Italian Renaissance Studies
+ - [http://itatti.harvard.edu](http://itatti.harvard.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## HLS Journals – HLS Journals
+ - [https://journals.law.harvard.edu](https://journals.law.harvard.edu)
+ - date_published: 2024-06-30T04:00:41.779983+00:00
+
+ ## The Kavli Institute
+ - [https://kavli.seas.harvard.edu](https://kavli.seas.harvard.edu)
+ - date_published: 2024-10-19T08:13:57.295864+00:00
+
+ ## Kempner Institute
+ - [https://kempnerinstitute.harvard.edu](https://kempnerinstitute.harvard.edu)
+ - date_published: 2024-07-11T14:31:22+00:00
+
+ ## Welcome to HarvardKey
+ - [https://key.harvard.edu](https://key.harvard.edu)
+ - date_published: 2024-07-21T23:18:37.519529+00:00
+
+ ## Kreiman Lab
+ - [https://klab.tch.harvard.edu](https://klab.tch.harvard.edu)
+ - date_published: 2024-04-25T23:44:08+00:00
+
+ ## Harvard Kennedy School
+ - [http://ksgaccman.harvard.edu](http://ksgaccman.harvard.edu)
+ - date_published: 2024-06-27T06:28:35+00:00
+
+ ## Harvard Kennedy School
+ - [http://ksghome.harvard.edu](http://ksghome.harvard.edu)
+ - date_published: 2024-07-03T21:57:07+00:00
+
+ ## Home - Harvard Law School
+ - [https://law.harvard.edu](https://law.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Harvard & the Legacy of Slavery | Radcliffe Institute for Advanced Study at Harvard University
+ - [https://legacyofslavery.harvard.edu](https://legacyofslavery.harvard.edu)
+ - date_published: 2024-07-21T23:12:56.976823+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://liaisons.accessibility.huit.harvard.edu](https://liaisons.accessibility.huit.harvard.edu)
+ - date_published: 2024-07-21T23:19:16.691833+00:00
+
+ ## Harvard Library Calendars -
+        Harvard Library
+ - [https://libcal.library.harvard.edu](https://libcal.library.harvard.edu)
+ - date_published: 2024-07-21T22:53:39.195556+00:00
+
+ ## library.harvard
+ - [https://library.harvard.edu](https://library.harvard.edu)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Harvard Divinity School Library
+ - [https://library.hds.harvard.edu](https://library.hds.harvard.edu)
+ - date_published: 2024-07-02T11:57:49+00:00
+
+ ## The Library Innovation Lab at Harvard University
+ - [http://librarylab.law.harvard.edu](http://librarylab.law.harvard.edu)
+ - date_published: 2024-07-02T21:27:44+00:00
+
+ ## Ernst Mayr Library
+ - [https://library.mcz.harvard.edu](https://library.mcz.harvard.edu)
+ - date_published: 2024-08-11T04:57:25+00:00
+
+ ## The Library Innovation Lab at Harvard University
+ - [https://lil.law.harvard.edu](https://lil.law.harvard.edu)
+ - date_published: 2024-07-02T21:27:44+00:00
+
+ ## HMS LINCS Project
+ - [http://lincs.hms.harvard.edu](http://lincs.hms.harvard.edu)
+ - date_published: 2024-06-20T15:40:09.438774+00:00
+
+ ## Laboratory for Innovation Science at Harvard
+ - [https://lish.harvard.edu](https://lish.harvard.edu)
+ - date_published: 2024-09-04T20:20:16+00:00
+
+ ## Home
+ - [https://logic.harvard.edu](https://logic.harvard.edu)
+ - date_published: 2024-06-15T13:02:28.058605+00:00
+
+ ## LSTMVis
+ - [http://lstm.seas.harvard.edu](http://lstm.seas.harvard.edu)
+ - date_published: 2024-01-29T16:41:57+00:00
+
+ ## Home | Center for Astrophysics
+ - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
+ - date_published: 2023-10-25T18:51:56.891134+00:00
+
+ ## Lyme Wellness Initiative Harvard Health Publishing
+ - [https://lyme.health.harvard.edu](https://lyme.health.harvard.edu)
+ - date_published: 2024-02-05T16:23:53+00:00
+
+ ## Harvard Medicine Magazine | Harvard Medicine Magazine
+ - [https://magazine.hms.harvard.edu](https://magazine.hms.harvard.edu)
+ - date_published: 2024-08-04T14:10:48+00:00
+
+ ## Harvard University Mathematics Department Cambridge MA
+ - [https://math.harvard.edu](https://math.harvard.edu)
+ - date_published: 2021-07-13T16:49:58+00:00
+
+ ## Mind Brain Behavior
+ - [https://mbb.harvard.edu](https://mbb.harvard.edu)
+ - date_published: 2024-08-11T05:21:13+00:00
+
+ ## Homepage - Harvard University - Department of Molecular & Cellular Biology
+ - [https://mcb.harvard.edu](https://mcb.harvard.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## MCO Intranet
+ - [https://mcointranet.fas.harvard.edu](https://mcointranet.fas.harvard.edu)
+ - date_published: 2024-09-18T22:49:48+00:00
+
+ ## Mineralogical & Geological Museum
+ - [http://mgmh.fas.harvard.edu](http://mgmh.fas.harvard.edu)
+ - date_published: 2024-08-11T05:21:44+00:00
+
+ ## James Mickens
+ - [https://mickens.seas.harvard.edu](https://mickens.seas.harvard.edu)
+ - date_published: 2024-07-18T04:39:43+00:00
+
+ ## HKS Misinformation Review
+ - [https://misinforeview.hks.harvard.edu](https://misinforeview.hks.harvard.edu)
+ - date_published: 2024-03-13T10:53:23.464434+00:00
+
+ ## my.harvard
+ - [https://my.harvard.edu](https://my.harvard.edu)
+ - date_published: 2024-04-30T04:47:29.696404+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://my.hds.harvard.edu](https://my.hds.harvard.edu)
+ - date_published: 2024-07-02T12:18:26.582809+00:00
+
+ ## Na (Lina) Li 黎娜
+ - [https://nali.seas.harvard.edu](https://nali.seas.harvard.edu)
+ - date_published: 2024-05-04T15:43:50.597405+00:00
+
+ ## Home
+ - [https://neuro.hms.harvard.edu](https://neuro.hms.harvard.edu)
+ - date_published: 2024-08-11T04:50:49+00:00
+
+ ## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
+ - [https://news.harvard.edu](https://news.harvard.edu)
+ - date_published: 2023-10-25T11:22:32.692394+00:00
+
+ ## Nieman Foundation for Journalism at Harvard
+ - [https://nieman.harvard.edu](https://nieman.harvard.edu)
+ - date_published: 2024-05-08T10:50:13.873435+00:00
+
+ ## Harvard NLP
+ - [https://nlp.seas.harvard.edu](https://nlp.seas.harvard.edu)
+ - date_published: 2018-04-03T00:00:00+00:00
+
+ ## Nutritional & Microbial Ecology Lab
+ - [https://nme.fas.harvard.edu](https://nme.fas.harvard.edu)
+ - date_published: 2024-09-04T17:26:54+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://now.gsd.harvard.edu](https://now.gsd.harvard.edu)
+ - date_published: 2024-06-22T11:46:26.089253+00:00
+
+ ## The Nutrition Source
+ - [https://nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu)
+ - date_published: 2024-07-09T06:43:37.498122+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [http://openscholar.harvard.edu](http://openscholar.harvard.edu)
+ - date_published: 2024-09-07T22:30:39+00:00
+
+ ## Home | Harvard OSC
+ - [https://osc.hul.harvard.edu](https://osc.hul.harvard.edu)
+ - date_published: 2020-05-18T18:24:22+00:00
+
+ ## Home
+ - [https://ostransition.hwp.harvard.edu](https://ostransition.hwp.harvard.edu)
+ - date_published: 2024-07-14T20:38:03.952189+00:00
+
+ ## Program on Corporate Governance
+ - [https://pcg.law.harvard.edu](https://pcg.law.harvard.edu)
+ - date_published: 2024-04-30T04:43:55.632088+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [http://people.fas.harvard.edu](http://people.fas.harvard.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## Harvard Mathematics Department : Home page
+ - [https://people.math.harvard.edu](https://people.math.harvard.edu)
+ - date_published: 2021-07-13T16:49:58+00:00
+
+ ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
+ - date_published: 2023-10-25T18:52:00.075501+00:00
+
+ ## Home | PeopleSoft HR @ Harvard
+ - [https://peoplesoftinfo.hrapps.harvard.edu](https://peoplesoftinfo.hrapps.harvard.edu)
+ - date_published: 2024-10-07T07:08:50+00:00
+
+ ## The Petrie-Flom Center for Health Law Policy, Biotechnology,
+ - [https://petrieflom.law.harvard.edu](https://petrieflom.law.harvard.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Department of Philosophy
+ - [https://philosophy.fas.harvard.edu](https://philosophy.fas.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Information Security Policy
+ - [https://policy.security.harvard.edu](https://policy.security.harvard.edu)
+ - date_published: 2024-10-07T21:50:53+00:00
+
+ ## PON - Program on Negotiation at Harvard Law School
+ - [https://pon.harvard.edu](https://pon.harvard.edu)
+ - date_published: 2023-10-25T18:52:14.185371+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://portal.my.harvard.edu](https://portal.my.harvard.edu)
+ - date_published: 2024-07-21T23:10:24.355185+00:00
+
+ ## Harvard University Privacy Tools Project
+ - [https://privacytools.seas.harvard.edu](https://privacytools.seas.harvard.edu)
+ - date_published: 2024-06-23T11:08:37+00:00
+
+ ## Harvard University Information Security
+ - [https://privsec.harvard.edu](https://privsec.harvard.edu)
+ - date_published: 2024-10-07T21:48:39+00:00
+
+ ## Profiles Research Networking Software
+ - [http://profiles.catalyst.harvard.edu](http://profiles.catalyst.harvard.edu)
+ - date_published: 2024-07-02T01:50:10.780215+00:00
+
+ ## Home | Projects at Harvard
+ - [https://projects.iq.harvard.edu](https://projects.iq.harvard.edu)
+ - date_published: 2024-05-12T03:55:01.349670+00:00
+
+ ## Office of the Provost
+ - [http://provost.harvard.edu](http://provost.harvard.edu)
+ - date_published: 2024-07-21T23:00:09+00:00
+
+ ## Department of Psychology
+ - [https://psychology.fas.harvard.edu](https://psychology.fas.harvard.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Home | Center for Astrophysics | Harvard & Smithsonian
+ - [https://pweb.cfa.harvard.edu](https://pweb.cfa.harvard.edu)
+ - date_published: 2024-04-30T04:46:10.416653+00:00
+
+ ## Radcliffe Institute for Advanced Study at Harvard University
+ - [https://radcliffe.harvard.edu](https://radcliffe.harvard.edu)
+ - date_published: 2024-04-30T04:46:24.912098+00:00
+
+ ## rafalab
+ - [https://rafalab.dfci.harvard.edu](https://rafalab.dfci.harvard.edu)
+ - date_published: 2024-02-24T18:03:46+00:00
+
+ ## Real Colegio Complutense
+ - [https://rcc.harvard.edu](https://rcc.harvard.edu)
+ - date_published: 2024-06-24T09:47:45+00:00
+
+ ## FAS Registrar's Office
+ - [https://registrar.fas.harvard.edu](https://registrar.fas.harvard.edu)
+ - date_published: 2024-07-01T15:10:08+00:00
+
+ ## Find A Researcher at Massachusetts General Hospital
+ - [https://researchers.mgh.harvard.edu](https://researchers.mgh.harvard.edu)
+ - date_published: 2024-05-08T10:03:09.286878+00:00
+
+ ## Risk Management & Audit Services
+ - [https://rmas.fad.harvard.edu](https://rmas.fad.harvard.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Homepage - The Salata Institute
+ - [https://salatainstitute.harvard.edu](https://salatainstitute.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Salil Vadhan
+ - [https://salil.seas.harvard.edu](https://salil.seas.harvard.edu)
+ - date_published: 2024-09-07T23:15:12+00:00
+
+ ## Home | Scholars at Harvard
+ - [https://scholar.harvard.edu](https://scholar.harvard.edu)
+ - date_published: 2023-10-25T18:52:02.303424+00:00
+
+ ## Home
+ - [https://sciencecooking.seas.harvard.edu](https://sciencecooking.seas.harvard.edu)
+ - date_published: 2024-09-10T06:42:26+00:00
+
+ ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://seas.harvard.edu](https://seas.harvard.edu)
+ - date_published: 2023-10-25T18:52:04.448986+00:00
+
+ ## Harvard University Information Security
+ - [https://security.harvard.edu](https://security.harvard.edu)
+ - date_published: 2024-06-16T13:30:43+00:00
+
+ ## Sham M. Kakade
+ - [https://sham.seas.harvard.edu](https://sham.seas.harvard.edu)
+ - date_published: 2024-08-06T20:54:14+00:00
+
+ ## (no title)
+ - [https://shine.sph.harvard.edu](https://shine.sph.harvard.edu)
+ - date_published: 2024-07-14T14:36:26.704717+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://sites.fas.harvard.edu](https://sites.fas.harvard.edu)
+ - date_published: 2021-07-12T19:36:32+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [https://sites.harvard.edu](https://sites.harvard.edu)
+ - date_published: 2024-09-09T23:21:20+00:00
+
+ ## Science in the News
+ - [https://sitn.hms.harvard.edu](https://sitn.hms.harvard.edu)
+ - date_published: 2024-05-06T17:25:46.781359+00:00
+
+ ## Home | Society of Fellows
+ - [https://socfell.fas.harvard.edu](https://socfell.fas.harvard.edu)
+ - date_published: 2024-06-16T22:19:19.891582+00:00
+
+ ## Department of Sociology
+ - [https://sociology.fas.harvard.edu](https://sociology.fas.harvard.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Harvard College
+ - [https://soco.college.harvard.edu](https://soco.college.harvard.edu)
+ - date_published: 2024-09-04T20:22:14.456660+00:00
+
+ ## Home | Harvard Web Publishing
+ - [https://static.hwpi.harvard.edu](https://static.hwpi.harvard.edu)
+ - date_published: 2024-10-07T21:33:19+00:00
+
+ ## Department of Statistics
+ - [https://statistics.fas.harvard.edu](https://statistics.fas.harvard.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HUIT Status
+ - [https://status.huit.harvard.edu](https://status.huit.harvard.edu)
+ - date_published: 2024-06-16T13:36:33.900124+00:00
+
+ ## Home | Dataverse Support
+ - [https://support.dataverse.harvard.edu](https://support.dataverse.harvard.edu)
+ - date_published: 2024-07-14T05:10:25.995779+00:00
+
+ ## Home | Harvard Trademark Program
+ - [https://trademark.harvard.edu](https://trademark.harvard.edu)
+ - date_published: 2024-04-30T04:46:02.480776+00:00
+
+ ## NASA/ADS
+ - [https://ui.adsabs.harvard.edu](https://ui.adsabs.harvard.edu)
+ - date_published: 2024-02-22T20:45:22+00:00
+
+ ## Undergraduate Research Scholars Program
+ - [https://urs.iq.harvard.edu](https://urs.iq.harvard.edu)
+ - date_published: 2024-07-14T14:36:24+00:00
+
+ ## Visual Computing Group
+ - [https://vcg.seas.harvard.edu](https://vcg.seas.harvard.edu)
+ - date_published: 2024-07-10T05:37:17.397336+00:00
+
+ ## Video.seas redirection
+ - [https://video.seas.harvard.edu](https://video.seas.harvard.edu)
+ - date_published: 2024-06-28T21:34:14+00:00
+
+ ## Weatherhead Center for International Affairs
+ - [https://wcfia.harvard.edu](https://wcfia.harvard.edu)
+ - date_published: 2024-04-30T04:46:13.887864+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [http://websites.harvard.edu](http://websites.harvard.edu)
+ - date_published: 2024-07-20T22:15:11+00:00
+
+ ## Dashboard - Harvard Wiki
+ - [https://wiki.harvard.edu](https://wiki.harvard.edu)
+ - date_published: 2024-06-15T13:02:25.934138+00:00
+
+ ## Berkman Klein Center Media Library
+ - [http://wilkins.law.harvard.edu](http://wilkins.law.harvard.edu)
+ - date_published: 2024-06-27T18:14:25.737799+00:00
+
+ ## Home | Harvard Division of Continuing Education
+ - [https://www.dce.harvard.edu](https://www.dce.harvard.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home - DF/HCC
+ - [https://www.dfhcc.harvard.edu](https://www.dfhcc.harvard.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Harvard Web Directory
+ - [https://www.directory.harvard.edu](https://www.directory.harvard.edu)
+ - date_published: 2024-08-11T05:21:38.100780+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://www-economist-com.ezp-prod1.hul.harvard.edu](https://www-economist-com.ezp-prod1.hul.harvard.edu)
+ - date_published: 2024-07-21T22:53:37.267520+00:00
+
  ## Home | Harvard Energy & Facilities
  - [http://www.energyandfacilities.harvard.edu](http://www.energyandfacilities.harvard.edu)
  - date_published: 2024-09-18T22:44:05+00:00
@@ -3565,448 +4010,4 @@ Data Services
  ## Events Calendar - Events
  - [https://events.k-state.edu](https://events.k-state.edu)
  - date_published: 2024-07-01T11:14:22.079055+00:00
-
- ## Research Guides
- - [https://guides.lib.k-state.edu](https://guides.lib.k-state.edu)
- - date_published: 2024-07-01T11:20:48.381988+00:00
-
- ## Housing and Dining Services
- - [https://housing.k-state.edu](https://housing.k-state.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://kcats.k-state.edu](https://kcats.k-state.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## K-REx :: Home
- - [https://krex.k-state.edu](https://krex.k-state.edu)
- - date_published: 2024-07-01T11:21:11.244256+00:00
-
- ## K-State Research and Extension
- - [https://ksre.k-state.edu](https://ksre.k-state.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Kansas State University
- - [https://k-state.edu](https://k-state.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## K-State Libraries
- - [https://lib.k-state.edu](https://lib.k-state.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## K-State Olathe
- - [https://olathe.k-state.edu](https://olathe.k-state.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## K-State Online
- - [https://online.k-state.edu](https://online.k-state.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Kansas State University
- - [https://orgcentral.k-state.edu](https://orgcentral.k-state.edu)
- - date_published: 2024-05-07T19:17:11.652087+00:00
-
- ## Recreational Services
- - [https://recservices.k-state.edu](https://recservices.k-state.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Kansas State Salina
- - [https://salina.k-state.edu](https://salina.k-state.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Search | Kansas State University
- - [https://search.k-state.edu](https://search.k-state.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://signin.k-state.edu](https://signin.k-state.edu)
- - date_published: 2024-07-01T11:19:57.768703+00:00
-
- ## Qualtrics
- - [https://survey.k-state.edu](https://survey.k-state.edu)
- - date_published: 2023-06-14T00:00:00+00:00
-
- ## K-State Student Union | Kansas State University
- - [https://union.k-state.edu](https://union.k-state.edu)
- - date_published: 2024-07-01T10:25:54+00:00
-
- ## CMS Redirect
- - [https://webcms.k-state.edu](https://webcms.k-state.edu)
- - date_published: 2024-05-07T19:17:44.188672+00:00
-
- ## Please wait...
- - [https://webmail.k-state.edu](https://webmail.k-state.edu)
- - date_published: 2024-05-07T19:17:01.570828+00:00
-
- ## College of Agriculture
- - [https://www.ag.k-state.edu](https://www.ag.k-state.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Department of Agronomy | Kansas State University
- - [https://www.agronomy.k-state.edu](https://www.agronomy.k-state.edu)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## Department of Communications and Agricultural Education
- - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## College of Health and Human Sciences
- - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Kansas State University
- - [http://www.k-state.edu](http://www.k-state.edu)
- - date_published: 2024-11-04T21:49:30.914821+00:00
-
- ## K-State College of Veterinary Medicine Home Page
- - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## K-State Association for Computing Machinery
- - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
- - date_published: 2024-04-17T03:05:42+00:00
-
- ## K-State ACM SIGAI
- - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
- - date_published: 2024-07-11T13:09:50.053496+00:00
-
- ## ALT+CS Lab
- - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
- - date_published: 2024-06-27T16:51:28+00:00
-
- ## CS Applications - Home
- - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:12.648572+00:00
-
- ## Center for Artificial Intelligence and Data Science
- - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
- - date_published: 2024-03-05T23:08:49+00:00
-
- ## home    [Machine Learning and Data Science Lab @ K-State]
- - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:36.621884+00:00
-
- ## Engineering Computing Services | Engineering Computing Services
- - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
- - date_published: 2024-07-01T10:35:28+00:00
-
- ## Department of Computer Science at K-State
- - [https://cis.ksu.edu](https://cis.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.ksu.edu](https://cs.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Semantics Lab
- - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:44.703164+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.ksu.edu](https://engg.ksu.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## K-State GDC
- - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
- - date_published: 2020-02-03T06:08:13+00:00
-
- ## Kansas State University
- - [https://ksu.edu](https://ksu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
- - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
- - date_published: 2016-12-08T20:03:10+00:00
-
- ## K-State MDC
- - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:04.324614+00:00
-
- ## K-State ACM SIGAI
- - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
- - date_published: 2024-05-09T09:12:16.301047+00:00
-
- ## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date_published: 2023-10-25T18:53:27.215934+00:00
-
- ## K-State Web Dev Club
- - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
- - date_published: 2019-02-27T01:14:52+00:00
-
- ## Please wait...
- - [https://webmail.ksu.edu](https://webmail.ksu.edu)
- - date_published: 2024-07-01T11:22:25.357090+00:00
-
- ## Agricultural Economics | Kansas State University
- - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home Page
- - [https://admissions.ktu.edu](https://admissions.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Pradžia
- - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
- - [https://alumni.ktu.edu](https://alumni.ktu.edu)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## APCIS
- - [https://apcis.ktu.edu](https://apcis.ktu.edu)
- - date_published: 2024-07-01T11:24:39.197337+00:00
-
- ## Research
- - [https://apinien.ktu.edu](https://apinien.ktu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Mokslas
- - [https://apini.ktu.edu](https://apini.ktu.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Kaunas University of Technology
- - [https://apply.ktu.edu](https://apply.ktu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Research
- - [https://asien.ktu.edu](https://asien.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://asi.ktu.edu](https://asi.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Pradžia
- - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
- - date_published: 2024-07-01T11:24:05.276622+00:00
-
- ## Bibliotekos paslaugos
- - [https://biblioteka.ktu.edu](https://biblioteka.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Apie
- - [https://biomedicina.ktu.edu](https://biomedicina.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## About
- - [https://biomedicine.ktu.edu](https://biomedicine.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home
- - [https://business.ktu.edu](https://business.ktu.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home
- - [https://centenary.ktu.edu](https://centenary.ktu.edu)
- - date_published: 2023-11-06T00:00:00+00:00
-
- ## Home
- - [https://compsystems.ktu.edu](https://compsystems.ktu.edu)
- - date_published: 2023-06-22T00:00:00+00:00
-
- ## Home
- - [https://csci.ktu.edu](https://csci.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ctf.ktu.edu](https://ctf.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Pradžia
- - [https://dicentras.ktu.edu](https://dicentras.ktu.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Pradžia
- - [https://dormitory.ktu.edu](https://dormitory.ktu.edu)
- - date_published: 2023-12-22T00:00:00+00:00
-
- ## ECIU University
- - [https://eciu-en.ktu.edu](https://eciu-en.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Apie ECIU universitetą
- - [https://eciu.ktu.edu](https://eciu.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home
- - [https://edulab-en.ktu.edu](https://edulab-en.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradžia
- - [https://edulab.ktu.edu](https://edulab.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradinis
- - [https://eef.ktu.edu](https://eef.ktu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Pradžia
- - [https://emeritus.ktu.edu](https://emeritus.ktu.edu)
- - date_published: 2024-05-07T19:17:49.924180+00:00
-
- ## Home
- - [https://en.ktu.edu](https://en.ktu.edu)
- - date_published: 2023-12-25T16:53:53.461151+00:00
-
- ## Pradinis puslapis
- - [https://evf.ktu.edu](https://evf.ktu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://fcea.ktu.edu](https://fcea.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fct.ktu.edu](https://fct.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home
- - [https://feee.ktu.edu](https://feee.ktu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://fi.ktu.edu](https://fi.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fmed.ktu.edu](https://fmed.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home
- - [https://fmns.ktu.edu](https://fmns.ktu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Research
- - [https://food.ktu.edu](https://food.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Home
- - [https://fssah.ktu.edu](https://fssah.ktu.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://if.ktu.edu](https://if.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ktu.edu](https://ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Pradžia
- - [https://leidykla.ktu.edu](https://leidykla.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Library Services
- - [https://library.ktu.edu](https://library.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mokslas
- - [https://maistas.ktu.edu](https://maistas.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Research
- - [https://materials.ktu.edu](https://materials.ktu.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Research
- - [https://mechatronics.ktu.edu](https://mechatronics.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://mechatronika.ktu.edu](https://mechatronika.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://medziagos.ktu.edu](https://medziagos.ktu.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://mgmf.ktu.edu](https://mgmf.ktu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pradžia
- - [https://midf.ktu.edu](https://midf.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## KTU kviečia mokyklas atrasti technologijų pasaulį!
- - [https://mokykloms.ktu.edu](https://mokykloms.ktu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Prisijungti
- - [http://moodle.ktu.edu](http://moodle.ktu.edu)
- - date_published: 2024-07-01T11:54:14.466148+00:00
-
- ## Home
- - [https://museum.ktu.edu](https://museum.ktu.edu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Pradžia
- - [https://muziejus.ktu.edu](https://muziejus.ktu.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home
- - [https://niec.ktu.edu](https://niec.ktu.edu)
- - date_published: 2021-07-23T00:00:00+00:00
-
- ## Pradžia
- - [https://nivc.ktu.edu](https://nivc.ktu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Pradžia
- - [https://oac.ktu.edu](https://oac.ktu.edu)
- - date_published: 2022-12-21T00:00:00+00:00
-
- ## Centre for Packaging Innovations and Research
- - [https://packaging.ktu.edu](https://packaging.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Home
- - [https://pftb.ktu.edu](https://pftb.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradžia
- - [https://poilsiavietes.ktu.edu](https://poilsiavietes.ktu.edu)
- - date_published: 2022-04-26T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ptvf.ktu.edu](https://ptvf.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://saf.ktu.edu](https://saf.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://scpconference.ktu.edu](https://scpconference.ktu.edu)
- - date_published: 2023-03-29T00:00:00+00:00
-
- ## Home
- - [https://seb.ktu.edu](https://seb.ktu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Socialinių, humanitarinių mokslų ir menų fakultetas | KTU
- - [https://shmmf.ktu.edu](https://shmmf.ktu.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## About us
- - [https://startupspace-en.ktu.edu](https://startupspace-en.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradžia
- - [https://stojantiesiems.ktu.edu](https://stojantiesiems.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## KTU studentams
- - [https://studentams.ktu.edu](https://studentams.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## For KTU Students
- - [https://students.ktu.edu](https://students.ktu.edu)
- - date_published: 2024-01-05T00:00:00+00:00
 

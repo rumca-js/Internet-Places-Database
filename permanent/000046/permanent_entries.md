@@ -1,3 +1,23 @@
+ ## Oversoul
+ - [http://oversoul.artix.com](http://oversoul.artix.com)
+ - date_published: 2024-06-19T01:18:26.931565+00:00
+
+ ## ARTIX | Video Games on Artix Entertainment
+ - [https://www.artix.com](https://www.artix.com)
+ - date_published: 2024-06-19T01:00:57+00:00
+
+ ## ARTIX | Video Games on Artix Entertainment
+ - [http://www.artixentertainment.com](http://www.artixentertainment.com)
+ - date_published: 2024-10-27T04:54:13+00:00
+
+ ## Artizan Designs - Home Page
+ - [https://artizandesigns.com](https://artizandesigns.com)
+ - date_published: 2024-05-08T12:31:26.709584+00:00
+
+ ## Sheet Metal Machinery & Equipment Supplier - Artizono Machinery
+ - [https://artizono.com](https://artizono.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
  ## Artland Magazine: Stories Dedicated to Contemporary Art
  - [https://magazine.artland.com](https://magazine.artland.com)
  - date_published: 2024-10-20T20:30:44.670077+00:00
@@ -4005,24 +4025,4 @@
  ## Atlantis Resorts (World's Most Iconic Resorts) Dubai | Best Beach Hotels for Families & Couples
  - [https://www.atlantis.com](https://www.atlantis.com)
  - date_published: 2024-09-04T05:57:44.247875+00:00
-
- ## @Large Research - Massivizing Computer Systems
- - [https://atlarge-research.com](https://atlarge-research.com)
- - date_published: 2023-10-25T12:47:42.982758+00:00
-
- ## Workflow Trace Archive
- - [https://wta.atlarge-research.com](https://wta.atlarge-research.com)
- - date_published: 2021-05-13T00:00:00+00:00
-
- ## ISPDC 2019 – The 18th IEEE International Symposium on Parallel and Distributed Computing, Amsterdam, The Netherlands
- - [http://www.ispdc.atlarge-research.com](http://www.ispdc.atlarge-research.com)
- - date_published: 2024-08-19T10:26:12.539163+00:00
-
- ## Home
- - [https://atlas21.com](https://atlas21.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Welcome To Atlas 3DSS - Atlas 3DSS
- - [https://atlas3dss.com](https://atlas3dss.com)
- - date_published: 2021-10-04T13:40:24+00:00
 

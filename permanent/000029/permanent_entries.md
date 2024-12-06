@@ -1,3 +1,23 @@
+ ## 国家机关事务管理局
+ - [http://bgs.ggj.gov.cn](http://bgs.ggj.gov.cn)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## 公共机构节约能源资源网
+ - [http://ecpi.ggj.gov.cn](http://ecpi.ggj.gov.cn)
+ - date_published: 2024-06-28T09:53:41+00:00
+
+ ## 中央国家机关人民防空网
+ - [https://gjjgrf.ggj.gov.cn](https://gjjgrf.ggj.gov.cn)
+ - date_published: 2024-05-28T01:13:14+00:00
+
+ ## 政府信息公开-国家机关事务管理局
+ - [https://gkml.ggj.gov.cn](https://gkml.ggj.gov.cn)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## 国家机关事务管理局
+ - [https://www.ggj.gov.cn](https://www.ggj.gov.cn)
+ - date_published: 2024-05-07T16:49:21.148158+00:00
+
  ## 中央行政事业单位国有资产管理
  - [https://zc.ggj.gov.cn](https://zc.ggj.gov.cn)
  - date_published: 2024-03-20T13:37:23+00:00
@@ -3981,24 +4001,4 @@
  ## 新疆生产建设兵团统计局
  - [http://tjj.xjbt.gov.cn](http://tjj.xjbt.gov.cn)
  - date_published: 2024-06-24T00:00:00+00:00
-
- ## 兵团文化体育广电和旅游局
- - [http://wtgl.xjbt.gov.cn](http://wtgl.xjbt.gov.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 新疆生产建设兵团
- - [http://www.xjbt.gov.cn](http://www.xjbt.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 兵团应急管理局
- - [http://yjglj.xjbt.gov.cn](http://yjglj.xjbt.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 兵团长安网
- - [http://zfw.xjbt.gov.cn](http://zfw.xjbt.gov.cn)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## 新疆维吾尔自治区纪委监委
- - [http://www.xjjw.gov.cn](http://www.xjjw.gov.cn)
- - date_published: 2024-06-30T13:53:52.935952+00:00
 

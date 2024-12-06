@@ -1,3 +1,31 @@
+ ## Gurer - the blog
+ - [http://mikkelnyboe.blogspot.com](http://mikkelnyboe.blogspot.com)
+ - date_published: 2024-07-04T06:33:33+00:00
+
+ ## Mik's Minis
+ - [http://miksminis.blogspot.com](http://miksminis.blogspot.com)
+ - date_published: 2024-07-20T00:19:34+00:00
+
+ ## Miles Nilsson Fowler
+ - [https://milesnilssonfowler.blogspot.com](https://milesnilssonfowler.blogspot.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Computing Reality
+ - [http://milesparker.blogspot.com](http://milesparker.blogspot.com)
+ - date_published: 2024-07-03T01:48:35+00:00
+
+ ## Military Miniatures
+ - [http://militaryminiatures-carloantonio.blogspot.com](http://militaryminiatures-carloantonio.blogspot.com)
+ - date_published: 2024-10-16T22:00:17+00:00
+
+ ## Magicshine - Militarymotivator
+ - [http://militarymotivator.blogspot.com](http://militarymotivator.blogspot.com)
+ - date_published: 2024-03-08T19:14:14+00:00
+
+ ## Military Museums and Battlefields
+ - [https://militarymuseums.blogspot.com](https://militarymuseums.blogspot.com)
+ - date_published: 2024-03-05T05:09:35+00:00
+
  ## puntocroce e fantasia
  - [https://millecrocette.blogspot.com](https://millecrocette.blogspot.com)
  - date_published: 2024-09-02T07:21:00+00:00
@@ -3988,32 +4016,4 @@
  ## Paradox0ns Wargaming Blog
  - [https://paradox0n.blogspot.com](https://paradox0n.blogspot.com)
  - date_published: 2024-10-26T07:28:37+00:00
-
- ## this is mine
- - [https://paradoxslush.blogspot.com](https://paradoxslush.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## The Paragraph Farmer
- - [http://paragraphfarmer.blogspot.com](http://paragraphfarmer.blogspot.com)
- - date_published: 2024-03-14T03:10:36+00:00
-
- ## Paralipomena (2)
- - [http://parajr.blogspot.com](http://parajr.blogspot.com)
- - date_published: 2024-03-05T07:55:02+00:00
-
- ## The Parallel Campaign
- - [http://parallelcampaign.blogspot.com](http://parallelcampaign.blogspot.com)
- - date_published: 2024-03-13T18:16:55+00:00
-
- ## Parallel Futures: Musings on SF
- - [http://parallelfutures.blogspot.com](http://parallelfutures.blogspot.com)
- - date_published: 2024-10-21T17:28:48.051608+00:00
-
- ## Paranormal in Origin
- - [https://paranormalorigin.blogspot.com](https://paranormalorigin.blogspot.com)
- - date_published: 2024-03-07T03:52:04+00:00
-
- ## Parole di Vetro
- - [https://paroledivetro99.blogspot.com](https://paroledivetro99.blogspot.com)
- - date_published: 2024-09-02T14:16:58+00:00
 

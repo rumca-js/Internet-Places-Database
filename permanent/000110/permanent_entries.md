@@ -1,3 +1,55 @@
+ ## Divjoy | Sign up
+ - [https://divjoy.getrewardful.com](https://divjoy.getrewardful.com)
+ - date_published: 2024-07-10T11:16:08.504418+00:00
+
+ ## Rewardful | Sign up
+ - [https://friends.getrewardful.com](https://friends.getrewardful.com)
+ - date_published: 2024-06-22T22:20:43.892781+00:00
+
+ ## Rewardful - Affiliate Software for SaaS
+ - [https://getrewardful.com](https://getrewardful.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Go Moonbeam | Sign up
+ - [https://gomoonbeam.getrewardful.com](https://gomoonbeam.getrewardful.com)
+ - date_published: 2024-06-21T20:01:19.771840+00:00
+
+ ## Affiliate Program Inactive
+ - [https://kualto-llc.getrewardful.com](https://kualto-llc.getrewardful.com)
+ - date_published: 2024-06-16T12:38:02.490082+00:00
+
+ ## Affiliate Program Inactive
+ - [https://libraria.getrewardful.com](https://libraria.getrewardful.com)
+ - date_published: 2024-04-29T07:57:56.559442+00:00
+
+ ## Linkly | Sign up
+ - [https://linkly.getrewardful.com](https://linkly.getrewardful.com)
+ - date_published: 2024-07-08T11:30:23.277085+00:00
+
+ ## Mango Mail | Sign up
+ - [https://mango-mail.getrewardful.com](https://mango-mail.getrewardful.com)
+ - date_published: 2024-08-19T07:27:37.241957+00:00
+
+ ## Mubert | Sign up
+ - [https://mubert.getrewardful.com](https://mubert.getrewardful.com)
+ - date_published: 2024-09-14T07:59:05.661350+00:00
+
+ ## Palette | Sign up
+ - [https://palette.getrewardful.com](https://palette.getrewardful.com)
+ - date_published: 2024-05-08T00:13:07.156068+00:00
+
+ ## Photo AI | Sign up
+ - [https://photo-ai.getrewardful.com](https://photo-ai.getrewardful.com)
+ - date_published: 2024-06-26T23:54:33.532309+00:00
+
+ ## PitchPower | Sign up
+ - [https://pitchpower.getrewardful.com](https://pitchpower.getrewardful.com)
+ - date_published: 2024-09-14T07:50:03.834596+00:00
+
+ ## ProductScope AI | Sign up
+ - [https://productscope-ai.getrewardful.com](https://productscope-ai.getrewardful.com)
+ - date_published: 2024-09-14T07:47:23.266645+00:00
+
  ## QuickNode | Sign up
  - [https://quicknode.getrewardful.com](https://quicknode.getrewardful.com)
  - date_published: 2024-09-21T23:37:03.047869+00:00
@@ -2622,6 +2674,7 @@
  ## GitHub - TeamNewPipe/NewPipe: A libre lightweight streaming front-end for Android.
  - [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
  - date_published: 2024-11-07T09:48:05+00:00
+ - tags: ['youtube', 'youtube client']
 
  ## GitHub - Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist: The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
  - [https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
@@ -2644,10 +2697,12 @@
  ## GitHub - searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
  - [https://github.com/searxng/searxng](https://github.com/searxng/searxng)
  - date_published: 2024-11-07T09:48:56+00:00
+ - tags: ['search engine']
 
  ## GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader
  - [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
  - date_published: 2024-11-07T09:49:05+00:00
+ - tags: ['youtube']
 
  ## GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
  - [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
@@ -2660,6 +2715,7 @@
  ## GitHub - geerlingguy/pi-kiosk: A simple Raspberry Pi Kiosk app
  - [https://github.com/geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk)
  - date_published: 2024-11-08T15:54:45+00:00
+ - tags: ['raspberry pi']
 
  ## GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics
  - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
@@ -2739,7 +2795,7 @@
  ## GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
  - [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
  - date_published: 2024-11-10T11:58:44+00:00
- - tags: ['ad block']
+ - tags: ['ad block', 'blocklist']
 
  ## GitHub - atom0s/Steamless: Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
  - [https://github.com/atom0s/Steamless](https://github.com/atom0s/Steamless)
@@ -2964,7 +3020,7 @@
  ## GitHub - usememos/memos: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
  - [https://github.com/usememos/memos](https://github.com/usememos/memos)
  - date_published: 2024-11-25T10:34:56+00:00
- - tags: ['notes program']
+ - tags: ['self-host', 'notes program']
 
  ## GitHub - go-rod/rod: A Chrome DevTools Protocol driver for web automation and scraping.
  - [https://github.com/go-rod/rod](https://github.com/go-rod/rod)
@@ -3014,7 +3070,7 @@
  ## GitHub - yourselfhosted/slash: An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
  - [https://github.com/yourselfhosted/slash](https://github.com/yourselfhosted/slash)
  - date_published: 2024-12-03T08:26:04+00:00
- - tags: ['open source', 'link service']
+ - tags: ['open source', 'link service', 'bookmark manager', 'link aggregator']
 
  ## GitHub - theotherp/nzbhydra2: Usenet meta search
  - [https://github.com/theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2)
@@ -3380,6 +3436,10 @@
  ## GitHub: Let’s build from here
  - [https://raw.githubusercontent.com](https://raw.githubusercontent.com)
  - date_published: 2024-04-28T02:44:44.457925+00:00
+
+ ## Show HN: Replace "hub" by "ingest" in GitHub URLs for a prompt-friendly extract
+ - [https://gitingest.com](https://gitingest.com)
+ - date_published: 2024-12-05T15:24:49+00:00
 
  ## GitKon 2023 - The Fellowship of Code
  - [https://gitkon.com](https://gitkon.com)
@@ -4087,61 +4147,4 @@
  ## Your Cart
  - [https://cup.glassboxx.com](https://cup.glassboxx.com)
  - date_published: 2024-08-11T04:36:59.522601+00:00
-
- ## Glassboxx - Glassboxx
- - [https://glassboxx.com](https://glassboxx.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## The Glass Dimensions Collection - Handcdrafted Glass by American Artisans
- - [http://glassdimensions.com](http://glassdimensions.com)
- - date_published: 2024-11-16T19:41:30.825053+00:00
-
- ## Security | Glassdoor
- - [https://glassdoor.com](https://glassdoor.com)
- - date_published: 2024-03-14T17:44:11+00:00
- - tags: ['social platform', 'job platform', 'work platform']
-
- ## Glass Editor
- - [https://glasseditor.com](https://glasseditor.com)
- - date_published: 2024-11-22T17:22:20.157446+00:00
-
- ## Glasses and Prescription Sunglasses Online | Glasses.com®
- - [https://glasses.com](https://glasses.com)
- - date_published: 2024-07-09T10:16:20.877516+00:00
-
- ## Glasses and Prescription Sunglasses Online | Glasses.com®
- - [https://stg.glasses.com](https://stg.glasses.com)
- - date_published: 2024-07-09T10:17:38.489314+00:00
-
- ## Glasses and Prescription Sunglasses Online | Glasses.com®
- - [https://uat2.glasses.com](https://uat2.glasses.com)
- - date_published: 2024-07-09T10:17:47.464541+00:00
-
- ## Glasses and Prescription Sunglasses Online | Glasses.com®
- - [https://uat2stage.glasses.com](https://uat2stage.glasses.com)
- - date_published: 2024-07-09T10:18:02.509863+00:00
-
- ## GlassesOnWeb.com
- - [https://www.glassesonweb.com](https://www.glassesonweb.com)
- - date_published: 2024-06-26T14:18:09.229844+00:00
-
- ## GlassGiant.com - Make free pictures for your Facebook Photos!
- - [http://glassgiant.com](http://glassgiant.com)
- - date_published: 2024-07-04T14:18:08.803458+00:00
-
- ## Glasshalfpool - Freelance Web Designer in Cirencester & UK
- - [https://glasshalfpool.com](https://glasshalfpool.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Glass Lewis - Proxy Voting
- - [https://www.glasslewis.com](https://www.glasslewis.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Glassnode Academy | Glassnode Academy
- - [https://academy.glassnode.com](https://academy.glassnode.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Introduction | Glassnode Docs
- - [https://docs.glassnode.com](https://docs.glassnode.com)
- - date_published: 2024-07-04T10:14:34.243205+00:00
 

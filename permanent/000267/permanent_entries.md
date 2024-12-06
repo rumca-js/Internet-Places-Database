@@ -1,3 +1,453 @@
+ ## Home
+ - [https://www.sdsu.edu](https://www.sdsu.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.seattleu.edu](https://admissions.seattleu.edu)
+ - date_published: 2024-10-18T21:58:08.846178+00:00
+
+ ## Events Calendar
+ - [https://events.seattleu.edu](https://events.seattleu.edu)
+ - date_published: 2024-10-18T21:57:53.797543+00:00
+
+ ## Graduate Admissions
+ - [https://grad-admissions.seattleu.edu](https://grad-admissions.seattleu.edu)
+ - date_published: 2024-10-18T21:58:22.586889+00:00
+
+ ## Life-Changing Education in a World-Changing City
+ - [https://seattleu.edu](https://seattleu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Seattle University School of Law
+ - [http://www.law.seattleu.edu](http://www.law.seattleu.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Seton Hill University
+ - [http://www.setonhill.edu](http://www.setonhill.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Southeastern University
+ - [https://seu.edu](https://seu.edu)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Chemistry
+ - [http://chemistry.sewanee.edu](http://chemistry.sewanee.edu)
+ - date_published: 2024-10-19T04:51:21.101126+00:00
+
+ ## Stephen F. Austin State University
+ - [https://www.sfasu.edu](https://www.sfasu.edu)
+ - date_published: 2024-07-02T11:02:02+00:00
+
+ ## Welcome | Disability Programs and Resource Center
+ - [https://access.sfsu.edu](https://access.sfsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Student Activities & Events | San Francisco State University
+ - [https://activities.sfsu.edu](https://activities.sfsu.edu)
+ - date_published: 2024-07-22T17:07:10+00:00
+
+ ## Advising Hub | San Francisco State University
+ - [https://advisinghub.sfsu.edu](https://advisinghub.sfsu.edu)
+ - date_published: 2024-07-22T17:06:23+00:00
+
+ ## SF State Bulletin 2024–2025 < San Francisco State University
+ - [https://bulletin.sfsu.edu](https://bulletin.sfsu.edu)
+ - date_published: 2024-05-28T18:45:42+00:00
+
+ ## College of Professional and Global Education (CPaGE) | San Francisco State University | Bay Area, California Continuing Education / Extension Classes + Certificates
+ - [https://cpage.sfsu.edu](https://cpage.sfsu.edu)
+ - date_published: 2024-07-22T16:42:20+00:00
+
+ ## University Development at SF State | San Francisco State University
+ - [https://develop.sfsu.edu](https://develop.sfsu.edu)
+ - date_published: 2024-07-22T17:07:15+00:00
+
+ ## Division of Student Life (DSL) | Dean of Students (DOS)
+ - [https://dos.sfsu.edu](https://dos.sfsu.edu)
+ - date_published: 2024-07-22T17:06:09+00:00
+
+ ## Educational Opportunity & Pathway Programs | Educational Opportunity & Pathway Programs
+ - [https://eop.sfsu.edu](https://eop.sfsu.edu)
+ - date_published: 2024-07-22T17:07:02+00:00
+
+ ## Equity & Community Inclusion | San Francisco State University
+ - [https://equity.sfsu.edu](https://equity.sfsu.edu)
+ - date_published: 2024-07-22T17:06:21+00:00
+
+ ## Office of Student Financial Aid | San Francisco State University
+ - [https://financialaid.sfsu.edu](https://financialaid.sfsu.edu)
+ - date_published: 2024-07-22T17:07:04+00:00
+
+ ## Prospective Students | San Francisco State University
+ - [https://future.sfsu.edu](https://future.sfsu.edu)
+ - date_published: 2024-07-22T17:07:21+00:00
+
+ ## Search SF State | San Francisco State University  - SF State University
+ - [https://google.sfsu.edu](https://google.sfsu.edu)
+ - date_published: 2024-07-22T17:06:35.433070+00:00
+
+ ## Graduate Studies | San Francisco State University
+ - [https://grad.sfsu.edu](https://grad.sfsu.edu)
+ - date_published: 2024-07-22T17:06:54+00:00
+
+ ## Hackathon at SF State | Hackathon at SF State
+ - [http://hackathon.sfsu.edu](http://hackathon.sfsu.edu)
+ - date_published: 2024-07-10T03:05:14+00:00
+
+ ## University Housing | San Francisco State University
+ - [https://housing.sfsu.edu](https://housing.sfsu.edu)
+ - date_published: 2024-07-22T17:06:47+00:00
+
+ ## Division of International Education | San Francisco State University
+ - [https://international.sfsu.edu](https://international.sfsu.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Information Technology Services | Information Technology Services
+ - [https://its.sfsu.edu](https://its.sfsu.edu)
+ - date_published: 2024-07-22T17:05:10+00:00
+
+ ## College of Liberal & Creative Arts | San Francisco State University
+ - [https://lca.sfsu.edu](https://lca.sfsu.edu)
+ - date_published: 2024-07-22T17:06:40+00:00
+
+ ## J. Paul Leonard Library | J. Paul Leonard Library
+ - [https://library.sfsu.edu](https://library.sfsu.edu)
+ - date_published: 2024-07-22T17:06:37+00:00
+
+ ## Department of Mathematics | San Francisco State University | Undergraduate & Graduate Math Programs - Combinatorics, Applied Math, Data Science, Math Education | Bay Area, California
+ - [http://math.sfsu.edu](http://math.sfsu.edu)
+ - date_published: 2024-06-30T08:23:38+00:00
+
+ ## SF State News | San Francisco State University
+ - [http://news.sfsu.edu](http://news.sfsu.edu)
+ - date_published: 2024-07-22T17:07:12+00:00
+
+ ## Undergraduate Recruitment | Enrollment Management | SF State
+ - [https://recruitment.sfsu.edu](https://recruitment.sfsu.edu)
+ - date_published: 2024-07-22T17:06:49+00:00
+
+ ## Welcome | University Advancement
+ - [https://renxt.sfsu.edu](https://renxt.sfsu.edu)
+ - date_published: 2024-07-22T17:06:27+00:00
+
+ ## Office of Research & Sponsored Programs | SF State
+ - [https://research.sfsu.edu](https://research.sfsu.edu)
+ - date_published: 2024-07-22T17:06:06+00:00
+
+ ## Residential Life | San Francisco State University
+ - [https://reslife.sfsu.edu](https://reslife.sfsu.edu)
+ - date_published: 2024-07-22T17:07:27+00:00
+
+ ## San Francisco State University
+ - [https://sfsu.edu](https://sfsu.edu)
+ - date_published: 2024-04-30T00:32:25.761904+00:00
+
+ ## Sustainability at SF State | Office of Sustainability
+ - [https://sustain.sfsu.edu](https://sustain.sfsu.edu)
+ - date_published: 2024-07-22T17:07:08+00:00
+
+ ## Undergraduate Education and Academic Planning | Undergraduate Education and Academic Planning
+ - [https://ueap.sfsu.edu](https://ueap.sfsu.edu)
+ - date_published: 2024-07-22T17:07:18+00:00
+
+ ## University Police Department | San Francisco State University
+ - [https://upd.sfsu.edu](https://upd.sfsu.edu)
+ - date_published: 2024-07-22T17:07:25+00:00
+
+ ## Welcome to SF State Faculty Sites | SF State Faculty Sites
+ - [http://userwww.sfsu.edu](http://userwww.sfsu.edu)
+ - date_published: 2024-06-30T02:31:25+00:00
+
+ ## Sign in to your account
+ - [https://webapps.sfsu.edu](https://webapps.sfsu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Privacy Notice
+ - [https://your.future.sfsu.edu](https://your.future.sfsu.edu)
+ - date_published: 2024-07-22T17:06:45.542798+00:00
+
+ ## Shoreline Community College
+ - [http://www.shoreline.edu](http://www.shoreline.edu)
+ - date_published: 2024-07-11T15:35:43.281007+00:00
+
+ ## On-line Picasso Project
+ - [http://picasso.shsu.edu](http://picasso.shsu.edu)
+ - date_published: 2024-06-24T09:20:20.959080+00:00
+
+ ## Seton Hall Law School - Newark NJ
+ - [http://law.shu.edu](http://law.shu.edu)
+ - date_published: 2024-06-17T11:13:25.735577+00:00
+
+ ## Seton Hall University (SHU) - Seton Hall University
+ - [http://www.shu.edu](http://www.shu.edu)
+ - date_published: 2024-07-22T09:21:17.344212+00:00
+
+ ## 3d-api.si.edu
+ - [https://3d-api.si.edu](https://3d-api.si.edu)
+ - date_published: 2020-02-05T15:49:39+00:00
+
+ ## 3D Digitization |
+ - [https://3d.si.edu](https://3d.si.edu)
+ - date_published: 2024-05-07T15:59:34.213901+00:00
+
+ ## Archives of American Art, Smithsonian Institution
+ - [https://aaa.si.edu](https://aaa.si.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Smithsonian Affiliations – The Smithsonian in Your Neighborhood
+ - [https://affiliations.si.edu](https://affiliations.si.edu)
+ - date_published: 2024-05-07T20:24:37.049164+00:00
+
+ ## National Museum of African Art – Smithsonian Institution
+ - [https://africa.si.edu](https://africa.si.edu)
+ - date_published: 2024-07-26T05:17:20.759606+00:00
+
+ ## Homepage | National Air and Space Museum
+ - [https://airandspace.si.edu](https://airandspace.si.edu)
+ - date_published: 2023-11-13T13:53:14.274573+00:00
+ - tags: ['museum', 'aerospace', 'aviation']
+
+ ## Home
+ - [https://americanart.si.edu](https://americanart.si.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Home | National Museum of American History
+ - [https://americanhistory.si.edu](https://americanhistory.si.edu)
+ - date_published: 2023-10-25T18:57:48.749072+00:00
+
+ ## Home Page | National Museum of the American Indian
+ - [https://americanindian.si.edu](https://americanindian.si.edu)
+ - date_published: 2024-08-18T12:46:27.001362+00:00
+
+ ## All Stories
+ - [http://blog.nasm.si.edu](http://blog.nasm.si.edu)
+ - date_published: 2021-03-02T00:00:00+00:00
+
+ ## Chandra X-ray Observatory - NASA's flagship X-ray telescope
+ - [https://chandra.si.edu](https://chandra.si.edu)
+ - date_published: 2023-10-25T18:57:53.939009+00:00
+
+ ## SI NMNH - Museum Collection Search
+ - [https://collections.nmnh.si.edu](https://collections.nmnh.si.edu)
+ - date_published: 2024-05-02T09:55:29.581906+00:00
+
+ ## Collections Search Center, Smithsonian Institution
+ - [http://collections.si.edu](http://collections.si.edu)
+ - date_published: 2024-08-18T12:41:23.920854+00:00
+
+ ## Welcome | Digitization Program Office
+ - [https://dpo.si.edu](https://dpo.si.edu)
+ - date_published: 2024-06-24T18:43:30+00:00
+
+ ## Smithsonian Institution EDAN Services
+ - [https://edan.si.edu](https://edan.si.edu)
+ - date_published: 2021-10-07T17:34:17+00:00
+
+ ## SAAM Stories
+ - [http://eyelevel.si.edu](http://eyelevel.si.edu)
+ - date_published: 2024-10-29T17:34:11+00:00
+
+ ## Smithsonian Folklife Festival
+ - [https://festival.si.edu](https://festival.si.edu)
+ - date_published: 2024-07-01T02:17:09.302299+00:00
+
+ ## Smithsonian Center for Folklife and Cultural Heritage
+ - [http://folklife.si.edu](http://folklife.si.edu)
+ - date_published: 2024-10-29T18:19:50.536274+00:00
+
+ ## Smithsonian Folkways Recordings
+ - [https://folkways.si.edu](https://folkways.si.edu)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Home
+ - [https://global.si.edu](https://global.si.edu)
+ - date_published: 2024-05-07T20:24:33.628646+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://go.si.edu](https://go.si.edu)
+ - date_published: 2016-09-07T14:46:16+00:00
+
+ ## Homepage - greatamericans.si.edu
+ - [https://greatamericans.si.edu](https://greatamericans.si.edu)
+ - date_published: 2023-05-10T00:00:00+00:00
+
+ ## Hirshhorn Museum and Sculpture Garden | Smithsonian
+ - [https://hirshhorn.si.edu](https://hirshhorn.si.edu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Here. There. Everywhere.
+ - [http://hte.si.edu](http://hte.si.edu)
+ - date_published: 2024-09-07T23:15:02.554266+00:00
+
+ ## Smithsonian Institution IDS
+ - [https://ids.si.edu](https://ids.si.edu)
+ - date_published: 2015-04-02T14:58:42+00:00
+
+ ## Marine Invasions Research at the Smithsonian Environmental Research Center
+ - [https://invasions.si.edu](https://invasions.si.edu)
+ - date_published: 2024-03-18T17:24:28+00:00
+
+ ## Lemelson Center for the Study of Invention and Innovation
+ - [https://invention.si.edu](https://invention.si.edu)
+ - date_published: 2024-03-04T19:41:26.731968+00:00
+
+ ## Smithsonian Learning Lab: Discover, Create, Share
+ - [https://learninglab.si.edu](https://learninglab.si.edu)
+ - date_published: 2024-05-07T20:24:20.432065+00:00
+
+ ## Smithsonian Libraries
+ - [https://library.si.edu](https://library.si.edu)
+ - date_published: 2024-05-07T20:24:30.709247+00:00
+
+ ## Homepage | Smithsonian National Museum of Natural History
+ - [https://mnh.si.edu](https://mnh.si.edu)
+ - date_published: 2024-05-07T22:32:06.074736+00:00
+
+ ## Request Rejected
+ - [https://nationalzoo.si.edu](https://nationalzoo.si.edu)
+ - date_published: 2023-11-09T12:24:21.084128+00:00
+
+ ## Homepage | Smithsonian National Museum of Natural History
+ - [https://naturalhistory.si.edu](https://naturalhistory.si.edu)
+ - date_published: 2024-05-04T08:28:25.774708+00:00
+
+ ## National Ballast Information Clearinghouse
+ - [https://nbic.si.edu](https://nbic.si.edu)
+ - date_published: 2024-06-24T04:46:27.951082+00:00
+
+ ## Newsdesk | Smithsonian Institution
+ - [http://newsdesk.si.edu](http://newsdesk.si.edu)
+ - date_published: 2024-06-26T21:39:02+00:00
+
+ ## A People’s Journey, A Nation’s Story | National Museum of African American History and Culture
+ - [https://nmaahc.si.edu](https://nmaahc.si.edu)
+ - date_published: 2023-11-13T13:44:30.377020+00:00
+ - tags: ['museum']
+
+ ## Home Page | National Museum of the American Indian
+ - [http://nmai.si.edu](http://nmai.si.edu)
+ - date_published: 2024-06-22T13:52:46.717275+00:00
+
+ ## National Portrait Gallery
+ - [http://npg.si.edu](http://npg.si.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Smithsonian Ocean | Smithsonian Ocean
+ - [https://ocean.si.edu](https://ocean.si.edu)
+ - date_published: 2024-07-19T19:50:47+00:00
+
+ ## Home | Office of the Inspector General
+ - [https://oig.si.edu](https://oig.si.edu)
+ - date_published: 2024-05-07T20:24:40.175530+00:00
+
+ ## National Postal Museum
+ - [https://postalmuseum.si.edu](https://postalmuseum.si.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Smithsonian Research Online
+ - [http://research.si.edu](http://research.si.edu)
+ - date_published: 2024-10-29T19:03:03.450002+00:00
+
+ ## Smithsonian Environmental Research Center
+ - [https://serc.si.edu](https://serc.si.edu)
+ - date_published: 2024-06-23T08:44:17+00:00
+
+ ## Smithsonian Institution Archives
+ - [https://siarchives.si.edu](https://siarchives.si.edu)
+ - date_published: 2024-05-12T05:52:51.486914+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://si.edu](https://si.edu)
+ - date_published: 2024-05-07T20:24:13.550163+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://s.si.edu](https://s.si.edu)
+ - date_published: 2024-05-07T20:23:41.189772+00:00
+
+ ## Smithsonian Tropical Research Institute
+ - [https://stri.si.edu](https://stri.si.edu)
+ - date_published: 2024-07-01T07:49:22+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://support.si.edu](https://support.si.edu)
+ - date_published: 2024-05-07T20:23:38.651679+00:00
+
+ ## Global Volcanism Program
+ - [http://volcano.si.edu](http://volcano.si.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Smithsonian American Women's History Museum
+ - [https://womenshistory.si.edu](https://womenshistory.si.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Smithsonian Libraries
+ - [https://www.sil.si.edu](https://www.sil.si.edu)
+ - date_published: 2024-06-18T20:03:14+00:00
+
+ ## SITES Community Portal
+ - [https://www.sites.si.edu](https://www.sites.si.edu)
+ - date_published: 2023-08-19T18:49:06+00:00
+
+ ## Siena College Research Institute – The preeminent academically situated polling institute in New York State
+ - [https://scri.siena.edu](https://scri.siena.edu)
+ - date_published: 2024-06-29T10:52:42.448464+00:00
+
+ ## Library Catalog | Simmons University
+ - [https://libcat.simmons.edu](https://libcat.simmons.edu)
+ - date_published: 2024-06-18T14:24:00.632291+00:00
+
+ ## Where Independent Minds Get Their Start
+ - [https://simons-rock.edu](https://simons-rock.edu)
+ - date_published: 2024-07-22T08:05:28.651580+00:00
+
+ ## Southwestern Indian Polytechnic Institute
+ - [https://www.sipi.edu](https://www.sipi.edu)
+ - date_published: 2024-10-15T07:22:42+00:00
+
+ ## DEBRA
+ - [https://debra.physics.siu.edu](https://debra.physics.siu.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Admissions and Financial Aid Information | St. John's College
+ - [https://admissions.sjc.edu](https://admissions.sjc.edu)
+ - date_published: 2024-05-07T20:24:53.044257+00:00
+
+ ## Events Calendar
+ - [https://events.sjc.edu](https://events.sjc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home Page | Welcome to mySJC
+ - [https://mysjc.sjc.edu](https://mysjc.sjc.edu)
+ - date_published: 2024-05-07T20:24:49.813140+00:00
+
+ ## St. John's College | Liberal Arts College with a World-Class Faculty
+ - [https://sjc.edu](https://sjc.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## San José State University - Modern Campus Catalog™
+ - [https://catalog.sjsu.edu](https://catalog.sjsu.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Artic.sjsu.edu
+ - [https://info.sjsu.edu](https://info.sjsu.edu)
+ - date_published: 2022-06-24T00:47:17+00:00
+
+ ## SJSU ScholarWorks | Open Access Research | San Jose State University
+ - [https://scholarworks.sjsu.edu](https://scholarworks.sjsu.edu)
+ - date_published: 2024-08-19T16:52:04.729878+00:00
+
+ ## San José State University
+ - [http://sjsu.edu](http://sjsu.edu)
+ - date_published: 2024-08-19T16:52:02.019825+00:00
+
+ ## Saint Joseph's University
+ - [http://www.sju.edu](http://www.sju.edu)
+ - date_published: 2024-07-04T00:51:36+00:00
+
+ ## Salish Kootenai College - Empowering the Future - Salish Kootenai College
+ - [https://www.skc.edu](https://www.skc.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Home - Salmagundi Magazine
  - [https://salmagundi.skidmore.edu](https://salmagundi.skidmore.edu)
  - date_published: 2024-05-15T03:00:54.371221+00:00
@@ -3564,452 +4014,4 @@
  ## Lewis Katz School of Medicine at Temple University
  - [https://medicine.temple.edu](https://medicine.temple.edu)
  - date_published: 2024-06-15T23:56:14+00:00
-
- ## Temple Now
- - [https://news.temple.edu](https://news.temple.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## School of Pharmacy
- - [https://pharmacy.temple.edu](https://pharmacy.temple.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Temple University Department of Physics
- - [http://phys.cst.temple.edu](http://phys.cst.temple.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## School of Podiatric Medicine
- - [http://podiatry.temple.edu](http://podiatry.temple.edu)
- - date_published: 2024-06-16T01:50:22+00:00
-
- ## Policies & Bylaws | Office of the Secretary
- - [http://policies.temple.edu](http://policies.temple.edu)
- - date_published: 2024-09-27T00:17:29+00:00
-
- ## Office of the President
- - [https://president.temple.edu](https://president.temple.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Temple University
- - [https://route.temple.edu](https://route.temple.edu)
- - date_published: 2024-09-27T09:11:26.527937+00:00
-
- ## Public Safety
- - [https://safety.temple.edu](https://safety.temple.edu)
- - date_published: 2024-06-15T22:14:38+00:00
-
- ## Search
- - [https://search.temple.edu](https://search.temple.edu)
- - date_published: 2024-05-07T20:38:26.986342+00:00
-
- ## home | Office of the Secretary
- - [https://secretary.temple.edu](https://secretary.temple.edu)
- - date_published: 2024-09-27T00:16:43+00:00
-
- ## Sites
- - [https://sites.temple.edu](https://sites.temple.edu)
- - date_published: 2024-06-26T13:42:13.723969+00:00
-
- ## Home - School of Sport, Tourism and Hospitality Management
- - [https://sthm.temple.edu](https://sthm.temple.edu)
- - date_published: 2024-06-16T10:33:49.402998+00:00
-
- ## System Status | Temple University
- - [https://systemstatus.temple.edu](https://systemstatus.temple.edu)
- - date_published: 2024-06-16T10:34:21.908085+00:00
-
- ## Temple University
- - [https://temple.edu](https://temple.edu)
- - date_published: 2024-06-16T07:24:23+00:00
-
- ## School of Theater, Film and Media Arts |
- - [https://tfma.temple.edu](https://tfma.temple.edu)
- - date_published: 2024-06-15T22:51:42+00:00
-
- ## TUHelp
- - [https://tuhelp.temple.edu](https://tuhelp.temple.edu)
- - date_published: 2024-08-22T13:06:30+00:00
-
- ## Temple University
- - [https://tumail.temple.edu](https://tumail.temple.edu)
- - date_published: 2024-06-16T07:57:33.051871+00:00
-
- ## RedirectToGroupHome - TUportal6
- - [https://tuportal4.temple.edu](https://tuportal4.temple.edu)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## RedirectToGroupHome - TUportal6
- - [https://tuportal6.temple.edu](https://tuportal6.temple.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## RedirectToGroupHome - TUportal6
- - [https://tuportal.temple.edu](https://tuportal.temple.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Temple University Press
- - [https://tupress.temple.edu](https://tupress.temple.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Welcome to Tyler School of Art and Architecture
- - [https://tyler.temple.edu](https://tyler.temple.edu)
- - date_published: 2024-06-16T03:39:03+00:00
-
- ## College of Liberal Arts
- - [http://www.cla.temple.edu](http://www.cla.temple.edu)
- - date_published: 2024-06-17T08:34:15+00:00
-
- ## Home - Center for Data Analytics and Biomedical Informatics
- - [http://www.dabi.temple.edu](http://www.dabi.temple.edu)
- - date_published: 2024-12-03T21:41:06.799989+00:00
-
- ## Academic Affairs, Research and Student Success
- - [https://aarss.tennessee.edu](https://aarss.tennessee.edu)
- - date_published: 2024-07-02T12:16:00.783749+00:00
-
- ## UT Advocacy
- - [http://advocacy.tennessee.edu](http://advocacy.tennessee.edu)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Audit and Compliance - University of Tennessee
- - [https://audit.tennessee.edu](https://audit.tennessee.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Capital Projects - University of Tennessee System
- - [http://capitalprojects.tennessee.edu](http://capitalprojects.tennessee.edu)
- - date_published: 2023-04-14T00:00:00+00:00
-
- ## Communications & Marketing | University of Tennessee System
- - [https://communications.tennessee.edu](https://communications.tennessee.edu)
- - date_published: 2023-10-30T00:00:00+00:00
-
- ## General Counsel - The University of Tennessee
- - [https://counsel.tennessee.edu](https://counsel.tennessee.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Data at UT - Data at UT
- - [http://data.tennessee.edu](http://data.tennessee.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Equity and Diversity - Equity and Diversity
- - [https://equity.tennessee.edu](https://equity.tennessee.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Everywhere You Look, UT Murals
- - [https://everywhere.tennessee.edu](https://everywhere.tennessee.edu)
- - date_published: 2024-07-02T12:17:04.189592+00:00
-
- ## Finance and Administration — Finance and Administration
- - [https://finance.tennessee.edu](https://finance.tennessee.edu)
- - date_published: 2024-07-02T12:16:59.918682+00:00
-
- ## Search - The University of Tennessee System
- - [http://google.tennessee.edu](http://google.tennessee.edu)
- - date_published: 2024-07-02T12:18:02.871844+00:00
-
- ## Government Relations and Advocacy - Office of Government Relations
- - [https://govrelations.tennessee.edu](https://govrelations.tennessee.edu)
- - date_published: 2024-07-02T12:15:52.387300+00:00
-
- ## Home - Grand Challenges
- - [https://grandchallenges.tennessee.edu](https://grandchallenges.tennessee.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## University of Tennessee System Human Resources
- - [https://hr.tennessee.edu](https://hr.tennessee.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Equity and Diversity - Equity and Diversity
- - [https://ide.tennessee.edu](https://ide.tennessee.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## - Institutional Effectiveness
- - [https://ie.tennessee.edu](https://ie.tennessee.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home - Institute for Public Service
- - [http://ips.tennessee.edu](http://ips.tennessee.edu)
- - date_published: 2024-07-02T12:17:08.373815+00:00
-
- ## UT System News
- - [https://news.tennessee.edu](https://news.tennessee.edu)
- - date_published: 2024-07-02T12:16:10.270666+00:00
-
- ## UT Tower - Offices of the University of Tennessee System
- - [https://offices.tennessee.edu](https://offices.tennessee.edu)
- - date_published: 2024-07-02T12:16:21.800182+00:00
-
- ## Home — Our Tennessee
- - [https://our.tennessee.edu](https://our.tennessee.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Payroll, Benefits and Retirement - Payroll, Benefits and Retirement
- - [http://payroll.tennessee.edu](http://payroll.tennessee.edu)
- - date_published: 2022-10-19T00:00:00+00:00
-
- ## Strategic Plan - Strategic Plan
- - [https://plan.tennessee.edu](https://plan.tennessee.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## UT System Policy Website - UT System Policies
- - [https://policy.tennessee.edu](https://policy.tennessee.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Office of the President | University of Tennessee
- - [https://president.tennessee.edu](https://president.tennessee.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Research at the University of Tennessee - University of Tennessee
- - [https://research.tennessee.edu](https://research.tennessee.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Safety at the University of Tennessee
- - [https://safety.tennessee.edu](https://safety.tennessee.edu)
- - date_published: 2022-06-07T00:00:00+00:00
-
- ## Department of Technology Solutions
- - [https://techsolutions.tennessee.edu](https://techsolutions.tennessee.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## The University of Tennessee System
- - [https://tennessee.edu](https://tennessee.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## UT Board of Trustees
- - [https://trustees.tennessee.edu](https://trustees.tennessee.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UT Gardens - The State Botanical Garden of Tennessee | UT Gardens - The State Botanical Garden of Tennessee
- - [https://utgardens.tennessee.edu](https://utgardens.tennessee.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Institute of Agriculture | UTIA
- - [http://utia.tennessee.edu](http://utia.tennessee.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home (2022) - University of Tennessee Research Foundation
- - [https://utrf.tennessee.edu](https://utrf.tennessee.edu)
- - date_published: 2022-12-07T11:30:15+00:00
-
- ## Tilburg University Research Portal
- - [https://research.tilburguniversity.edu](https://research.tilburguniversity.edu)
- - date_published: 2024-06-19T23:59:45.550112+00:00
-
- ## Tilburg University: Responsible and Enterprising Thinkers | Tilburg University
- - [https://www.tilburguniversity.edu](https://www.tilburguniversity.edu)
- - date_published: 2024-05-04T07:17:20.074869+00:00
-
- ## Thomas Jefferson School of Law in San Diego
- - [https://tjsl.edu](https://tjsl.edu)
- - date_published: 2024-10-18T21:41:43.666131+00:00
-
- ## TMC Houston | Leader in Collaborative Medicine and Research
- - [http://www.tmc.edu](http://www.tmc.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Tennessee Bible College - Christian Education In Cookeville
- - [https://www.tn-biblecollege.edu](https://www.tn-biblecollege.edu)
- - date_published: 2020-05-08T19:01:17+00:00
-
- ## Tennessee State University
- - [https://www.tnstate.edu](https://www.tnstate.edu)
- - date_published: 2024-07-01T15:47:29.714961+00:00
-
- ## Tennessee Tech University
- - [https://www.tntech.edu](https://www.tntech.edu)
- - date_published: 2024-07-01T15:47:31.582292+00:00
-
- ## Computational Social Science Lab
- - [http://csslab.cs.toronto.edu](http://csslab.cs.toronto.edu)
- - date_published: 2024-08-13T18:21:02+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://cs.toronto.edu](https://cs.toronto.edu)
- - date_published: 2023-10-25T18:59:33.196200+00:00
-
- ## Home | Dynamic Graphics Project
- - [https://dgp.toronto.edu](https://dgp.toronto.edu)
- - date_published: 2013-06-12T13:33:58+00:00
-
- ## UofT Machine Learning
- - [http://learning.cs.toronto.edu](http://learning.cs.toronto.edu)
- - date_published: 2018-10-19T17:38:44+00:00
-
- ## Webmail - Department of Mathematics, University of Toronto
- - [https://mail.math.toronto.edu](https://mail.math.toronto.edu)
- - date_published: 2008-01-04T00:00:00+00:00
-
- ## UofT CS Robotics Group
- - [https://robotics.cs.toronto.edu](https://robotics.cs.toronto.edu)
- - date_published: 2023-11-21T18:34:43+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://web.cs.toronto.edu](https://web.cs.toronto.edu)
- - date_published: 2024-05-07T20:38:31.367334+00:00
-
- ## CS Teaching Labs
- - [http://www.cdf.toronto.edu](http://www.cdf.toronto.edu)
- - date_published: 2024-09-10T17:28:43+00:00
-
- ## Engineering Computing Facility (ECF) - Current Engineering Undergraduates
- - [http://www.ecf.toronto.edu](http://www.ecf.toronto.edu)
- - date_published: 2016-06-22T17:54:12+00:00
-
- ## The Computer Engineering Research Group
- - [https://www.eecg.toronto.edu](https://www.eecg.toronto.edu)
- - date_published: 2018-08-16T23:56:55+00:00
-
- ## Department of Mathematics | University of Toronto
- - [https://www.math.toronto.edu](https://www.math.toronto.edu)
- - date_published: 2024-05-10T06:24:33.776589+00:00
-
- ## The Matter Lab
- - [https://www.matter.toronto.edu](https://www.matter.toronto.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## www.touro.edu
- - [https://www.touro.edu](https://www.touro.edu)
- - date_published: 2024-10-27T18:39:20.855613+00:00
-
- ## Touro Law - Touro Law Center | Long Island, NY Law School
- - [https://www.tourolaw.edu](https://www.tourolaw.edu)
- - date_published: 2024-09-15T23:14:33.805744+00:00
-
- ## myTU | Towson University
- - [https://inside.towson.edu](https://inside.towson.edu)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Towson University | Maryland’s University of Opportunities
- - [https://www.towson.edu](https://www.towson.edu)
- - date_published: 2024-06-24T04:45:51.385944+00:00
-
- ## Trinity College
- - [https://www.trincoll.edu](https://www.trincoll.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Trine University | Home
- - [http://www.trine.edu](http://www.trine.edu)
- - date_published: 2024-07-01T17:42:17.900853+00:00
-
- ## Home - Pickler Memorial Library
- - [http://library.truman.edu](http://library.truman.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Social Communication
- - [https://socialcommunication.truman.edu](https://socialcommunication.truman.edu)
- - date_published: 2024-09-21T22:07:30.756177+00:00
-
- ## Talmudical Seminary Oholei Torah
- - [http://www.tsot.edu](http://www.tsot.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Automated Astronomy Group
- - [http://schwab.tsuniv.edu](http://schwab.tsuniv.edu)
- - date_published: 2024-07-12T14:31:09+00:00
-
- ## Sign in - Google Accounts
- - [http://intranet.ttic.edu](http://intranet.ttic.edu)
- - date_published: 2024-08-07T13:22:29.249287+00:00
-
- ## Sign in - Google Accounts
- - [http://it.ttic.edu](http://it.ttic.edu)
- - date_published: 2024-08-07T13:22:19.124320+00:00
-
- ## Perception and Learning Systems, PALS @ TTIC
- - [https://pals.ttic.edu](https://pals.ttic.edu)
- - date_published: 2024-04-30T03:57:29.826420+00:00
-
- ## TTIC
- - [https://ttic.edu](https://ttic.edu)
- - date_published: 2024-04-28T04:06:55.247231+00:00
-
- ## Guides
- - [https://guides.library.ttu.edu](https://guides.library.ttu.edu)
- - date_published: 2024-10-30T19:51:53.198671+00:00
-
- ## Texas Tech University Departments | TTU
- - [https://www.depts.ttu.edu](https://www.depts.ttu.edu)
- - date_published: 2024-08-18T06:49:06.422764+00:00
-
- ## The Vietnam Center and Sam Johnson Vietnam Archive, Texas Tech University
- - [http://www.vietnam.ttu.edu](http://www.vietnam.ttu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | Access Tufts
- - [https://access.tufts.edu](https://access.tufts.edu)
- - date_published: 2024-05-07T20:38:46.446850+00:00
-
- ## Tufts University
- - [https://admissions.tufts.edu](https://admissions.tufts.edu)
- - date_published: 2024-05-07T20:39:11.355750+00:00
-
- ## Home
- - [https://alumniandfriends.tufts.edu](https://alumniandfriends.tufts.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Welcome to Tufts Announcements | Tufts Announcements
- - [https://announcements.tufts.edu](https://announcements.tufts.edu)
- - date_published: 2024-06-29T02:40:47+00:00
-
- ## Home | Office of the Secretary of the Faculty - Arts, Sciences, and Engineering
- - [https://asefaculty.tufts.edu](https://asefaculty.tufts.edu)
- - date_published: 2024-06-28T16:50:23+00:00
-
- ## Graduate School of Arts and Sciences and the School of Engineering
- - [https://asegrad.tufts.edu](https://asegrad.tufts.edu)
- - date_published: 2024-05-07T20:38:53.277004+00:00
-
- ## Home Page
- - [http://ase.tufts.edu](http://ase.tufts.edu)
- - date_published: 2024-06-24T06:43:38+00:00
-
- ## Homepage | School of Arts and Sciences
- - [https://as.tufts.edu](https://as.tufts.edu)
- - date_published: 2024-06-21T13:49:04+00:00
-
- ## Visit Tufts
- - [http://campusmaps.tufts.edu](http://campusmaps.tufts.edu)
- - date_published: 2024-07-01T18:15:53+00:00
-
- ## Canvas - Tufts University
- - [https://canvas.tufts.edu](https://canvas.tufts.edu)
- - date_published: 2022-02-09T16:39:39+00:00
-
- ## Career Center | Tufts University
- - [https://careers.tufts.edu](https://careers.tufts.edu)
- - date_published: 2024-07-01T21:39:51.927620+00:00
-
- ## Home | Center for Engineering Education and Outreach
- - [http://ceeo.tufts.edu](http://ceeo.tufts.edu)
- - date_published: 2024-06-28T05:15:00+00:00
-
- ## Home | Department of Chemistry
- - [https://chem.tufts.edu](https://chem.tufts.edu)
- - date_published: 2024-05-07T15:55:26.989351+00:00
-
- ## Homepage | Government & Community Relations
- - [https://communityrelations.tufts.edu](https://communityrelations.tufts.edu)
- - date_published: 2024-07-01T05:06:12+00:00
-
- ## Tufts CSDD
- - [http://csdd.tufts.edu](http://csdd.tufts.edu)
- - date_published: 2024-10-20T23:58:14+00:00
-
- ## Homepage | School of Dental Medicine
- - [https://dental.tufts.edu](https://dental.tufts.edu)
- - date_published: 2024-07-01T15:02:52+00:00
-
- ## Welcome to the Tufts Online Directory
- - [https://directory.tufts.edu](https://directory.tufts.edu)
- - date_published: 2024-07-01T21:37:14.151520+00:00
-
- ## Home - Distinction Awards
- - [https://distinctionawards.tufts.edu](https://distinctionawards.tufts.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Home - Office of the Vice Provost for Institutional Inclusive Excellence
- - [https://diversity.tufts.edu](https://diversity.tufts.edu)
- - date_published: 2024-07-01T21:36:47.590630+00:00
-
- ## Tufts Digital Library
- - [https://dl.tufts.edu](https://dl.tufts.edu)
- - date_published: 2024-06-24T10:08:23.737005+00:00
 

@@ -1,3 +1,15 @@
+ ## Busca de vagas no Glassdoor
+ - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
+ - date_published: 2024-05-06T09:09:46.730024+00:00
+
+ ## Google
+ - [https://google.com.br](https://google.com.br)
+ - date_published: 2024-06-18T12:08:11.684347+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.br](https://images.google.com.br)
+ - date_published: 2024-07-20T07:38:45.468430+00:00
+
  ## Google Scholar
  - [https://scholar.google.com.br](https://scholar.google.com.br)
  - date_published: 2024-07-10T03:50:52.556232+00:00
@@ -3999,16 +4011,4 @@
  ## Beste casinoer i Norge 2024
  - [https://trd.by](https://trd.by)
  - date_published: 2024-07-12T22:42:44.106573+00:00
-
- ## VEG.BY — VEG's Blog
- - [https://veg.by](https://veg.by)
- - date_published: 2023-11-26T12:56:13.830280+00:00
-
- ## The Welby Family's Blogs
- - [https://wel.by](https://wel.by)
- - date_published: 2024-07-13T04:13:15.094318+00:00
-
- ## 403
- - [https://metrika.yandex.by](https://metrika.yandex.by)
- - date_published: 2024-08-11T15:55:46.036919+00:00
 

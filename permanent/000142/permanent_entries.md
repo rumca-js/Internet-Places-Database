@@ -1,3 +1,119 @@
+ ## OnePrompt
+ - [https://oneprompt.magickworx.com](https://oneprompt.magickworx.com)
+ - date_published: 2023-11-13T23:50:03+00:00
+
+ ## magic-kyoto2019 - Rekomendasi Game Indonesia yang menyajikan informasi, berita, review Game Mobile danPC
+ - [https://magic-kyoto2019.com](https://magic-kyoto2019.com)
+ - date_published: 2024-08-20T03:59:54.690717+00:00
+
+ ## Magic Leap
+ - [https://developer.magicleap.com](https://developer.magicleap.com)
+ - date_published: 2024-06-21T21:07:08.819732+00:00
+
+ ## Buy Magic Leap 2 Now
+ - [https://enterprise.magicleap.com](https://enterprise.magicleap.com)
+ - date_published: 2024-06-21T21:07:46.835230+00:00
+
+ ## Leading Innovation in Augmented Reality
+ - [https://forum.magicleap.com](https://forum.magicleap.com)
+ - date_published: 2024-06-21T21:05:32.609454+00:00
+
+ ## Authentication | Magic Leap
+ - [https://id.magicleap.com](https://id.magicleap.com)
+ - date_published: 2024-06-21T21:07:24.843852+00:00
+
+ ## AR for Business | Augmented Reality
+ - [https://magicleap.com](https://magicleap.com)
+ - date_published: 2024-05-04T14:03:38.977658+00:00
+
+ ## Magic Leap 1 Resources | Magic Leap
+ - [https://ml1-developer.magicleap.com](https://ml1-developer.magicleap.com)
+ - date_published: 2024-06-21T21:05:34.737473+00:00
+
+ ## Magic Leap
+ - [https://ml2-developer.magicleap.com](https://ml2-developer.magicleap.com)
+ - date_published: 2024-05-04T14:03:37.744835+00:00
+
+ ## Leading Innovation in Augmented Reality
+ - [https://pages.magicleap.com](https://pages.magicleap.com)
+ - date_published: 2024-06-21T21:05:30.995467+00:00
+
+ ## Augmented reality platform for Enterprise
+ - [https://resources.magicleap.com](https://resources.magicleap.com)
+ - date_published: 2024-05-04T14:03:40.522708+00:00
+
+ ## Buy Magic Leap 2 Now
+ - [https://shop.magicleap.com](https://shop.magicleap.com)
+ - date_published: 2024-06-21T21:07:19.496448+00:00
+
+ ## Apps on Magic Leap World
+ - [https://world.magicleap.com](https://world.magicleap.com)
+ - date_published: 2024-06-21T21:07:17.132526+00:00
+
+ ## Pesulap Dunia - magic-man.com
+ - [http://www.magic-man.com](http://www.magic-man.com)
+ - date_published: 2024-11-16T22:20:04.381926+00:00
+
+ ## Chicago Magician Amazes Guests & Keeps ’em Laughing!
+ - [http://www.magicmgmt.com](http://www.magicmgmt.com)
+ - date_published: 2019-12-23T15:52:27+00:00
+
+ ## Landing
+ - [https://magicmikelive.com](https://magicmikelive.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home
+ - [https://magicmikelivelasvegas.com](https://magicmikelivelasvegas.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Magic Mind | The World's First Mental Performance Shot
+ - [https://magicmind.com](https://magicmind.com)
+ - date_published: 2024-08-11T08:54:03.009364+00:00
+
+ ## Magic Mockups • Free real-life mockup generator
+ - [http://magicmockups.com](http://magicmockups.com)
+ - date_published: 2024-10-22T19:22:55.725363+00:00
+
+ ## Magic Notes
+ - [http://www.magicnotes.com](http://www.magicnotes.com)
+ - date_published: 2024-11-16T20:11:20.687552+00:00
+
+ ## MagicSchool AI Shop
+ - [https://magicschoolshop.com](https://magicschoolshop.com)
+ - date_published: 2024-10-30T22:08:07.056407+00:00
+
+ ## MagicScreed2021 – Un site utilisant WordPress
+ - [https://magicscreed.com](https://magicscreed.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Magicsplat
+ - [http://www.magicsplat.com](http://www.magicsplat.com)
+ - date_published: 2024-05-21T08:44:11+00:00
+
+ ## Magic Studio : Make beautiful images with AI
+ - [https://magicstudio.com](https://magicstudio.com)
+ - date_published: 2024-06-19T20:56:45.219030+00:00
+
+ ## Plausible · Web analytics
+ - [https://traffic.magicstudio.com](https://traffic.magicstudio.com)
+ - date_published: 2024-10-30T19:07:08.069066+00:00
+
+ ## Magic Tellers
+ - [https://magictellers.com](https://magictellers.com)
+ - date_published: 2024-10-30T09:14:57.320985+00:00
+
+ ## Magic: The Gathering | Official site for MTG news, sets, and events
+ - [http://www.magicthegathering.com](http://www.magicthegathering.com)
+ - date_published: 2024-06-29T22:59:27.950942+00:00
+
+ ## Magic Thumbnails
+ - [https://magicthumbnails.com](https://magicthumbnails.com)
+ - date_published: 2024-06-19T19:25:49.742179+00:00
+
+ ## Magic Toolbox: Image Zoom Plugins, 360 Spin & Slideshow
+ - [https://magictoolbox.com](https://magictoolbox.com)
+ - date_published: 2024-04-28T00:27:29.610272+00:00
+
  ## magicvalley.com | Read Twin Falls, ID and Idaho breaking news. Get latest news, events and information on Idaho sports, weather, entertainment and lifestyles.
  - [https://magicvalley.com](https://magicvalley.com)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -2091,6 +2207,10 @@
  - [https://www.malgregator.com](https://www.malgregator.com)
  - date_published: 2023-11-01T00:00:00+00:00
 
+ ## MALIBAL
+ - [https://www.malibal.com](https://www.malibal.com)
+ - date_published: 2024-12-04T22:27:49+00:00
+
  ## Malibu.com - Now Available for Acquisition!
  - [http://www.malibu.com](http://www.malibu.com)
  - date_published: 2019-12-03T13:34:14+00:00
@@ -3912,124 +4032,4 @@
  ## Maps and data simplified
  - [https://mapotic.com](https://mapotic.com)
  - date_published: 2024-03-19T00:00:00+00:00
-
- ## Find nearby businesses, restaurants and hotels in Canada
- - [https://mappca.com](https://mappca.com)
- - date_published: 2024-10-31T01:00:38.681259+00:00
-
- ## Mappedin: Map your venue in minutes
- - [https://app.mappedin.com](https://app.mappedin.com)
- - date_published: 2024-07-19T14:49:18+00:00
-
- ## Developer Documentation | Mappedin Developer Portal
- - [https://developer.mappedin.com](https://developer.mappedin.com)
- - date_published: 2024-07-20T18:34:59.300035+00:00
-
- ## Mappedin | Make Indoor Maps in Minutes
- - [https://info.mappedin.com](https://info.mappedin.com)
- - date_published: 2024-07-20T18:34:55.403037+00:00
-
- ## Mappedin: Map your venue in minutes
- - [https://maker.mappedin.com](https://maker.mappedin.com)
- - date_published: 2024-05-22T02:37:54.398831+00:00
-
- ## Mappedin | Make Indoor Maps in Minutes
- - [https://mappedin.com](https://mappedin.com)
- - date_published: 2024-05-22T02:38:33.129997+00:00
-
- ## Welcome | Map Pin Software
- - [https://map-pin.com](https://map-pin.com)
- - date_published: 2020-12-03T13:34:20+00:00
-
- ## Mapping Black California | Knowledge on all things Black and data in California
- - [https://mappingblackca.com](https://mappingblackca.com)
- - date_published: 2024-09-18T04:22:45.312463+00:00
-
- ## Mapping the Nation - A Companion Site to Mapping the Nation by Susan Schulten
- - [http://www.mappingthenation.com](http://www.mappingthenation.com)
- - date_published: 2024-06-27T08:45:55.130072+00:00
-
- ## MapPress Pro Demo Site – Try Before You Buy
- - [https://demo.mappresspro.com](https://demo.mappresspro.com)
- - date_published: 2024-06-27T16:09:54.646295+00:00
-
- ## MapPress Pro
- - [https://mappresspro.com](https://mappresspro.com)
- - date_published: 2024-06-27T16:09:52.409799+00:00
-
- ## Official MapQuest - Maps, Driving Directions, Live Traffic
- - [http://www.mapquest.com](http://www.mapquest.com)
- - date_published: 2024-09-16T03:50:48.121975+00:00
-
- ## Mapraider.com
- - [https://www.mapraider.com](https://www.mapraider.com)
- - date_published: 2024-07-17T06:37:34.303599+00:00
-
- ## Magnolia Press
- - [https://mapress.com](https://mapress.com)
- - date_published: 2024-07-09T21:16:57.820485+00:00
-
- ## The Map Room – Blogging about maps since 2003
- - [https://www.maproomblog.com](https://www.maproomblog.com)
- - date_published: 2024-08-12T04:49:10+00:00
-
- ## Online route maker
- - [https://www.maproute.com](https://www.maproute.com)
- - date_published: 2024-07-11T13:12:34.038207+00:00
-
- ## Maps.com | Maps about Trending Topics
- - [https://www.maps.com](https://www.maps.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home - Mapscaping.com
- - [https://mapscaping.com](https://mapscaping.com)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## Create A Custom Map With Pins In Seconds | MapsGPT
- - [https://www.mapsgpt.com](https://www.mapsgpt.com)
- - date_published: 2023-04-20T00:00:00+00:00
-
- ## MapsIndoors
- - [https://clients.mapsindoors.com](https://clients.mapsindoors.com)
- - date_published: 2024-03-13T09:34:18+00:00
-
- ## Maps Made Easy - Home
- - [https://www.mapsmadeeasy.com](https://www.mapsmadeeasy.com)
- - date_published: 2024-05-04T06:26:26.936001+00:00
-
- ## MapsMarker.com e.U. - Affiliate Program
- - [https://affiliates.mapsmarker.com](https://affiliates.mapsmarker.com)
- - date_published: 2024-09-13T16:16:30.742553+00:00
-
- ## Map Icons Collection - 1000+ free & customizable icons for maps
- - [https://mapicons.mapsmarker.com](https://mapicons.mapsmarker.com)
- - date_published: 2024-06-12T14:27:49.309004+00:00
-
- ## Home
- - [https://mapsmarker.com](https://mapsmarker.com)
- - date_published: 2024-06-12T14:27:45.069065+00:00
-
- ## Mapsted Maps
- - [https://maps.mapsted.com](https://maps.mapsted.com)
- - date_published: 2024-06-12T14:55:19+00:00
-
- ## cdn.mapstor.com — Coming Soon
- - [https://cdn.mapstor.com](https://cdn.mapstor.com)
- - date_published: 2023-03-01T00:26:15+00:00
-
- ## Topographic maps of the world to download - mapstor.com
- - [https://mapstor.com](https://mapstor.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Organize and save your addresses with Mapstr
- - [https://en.mapstr.com](https://en.mapstr.com)
- - date_published: 2024-10-20T02:46:31.284275+00:00
-
- ## Organisez et enregistrez vos adresses avec Mapstr
- - [https://go.mapstr.com](https://go.mapstr.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Organisez et enregistrez vos adresses avec Mapstr
- - [https://mapstr.com](https://mapstr.com)
- - date_published: 2024-08-22T00:00:00+00:00
 

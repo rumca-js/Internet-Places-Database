@@ -1,3 +1,31 @@
+ ## this is mine
+ - [https://paradoxslush.blogspot.com](https://paradoxslush.blogspot.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## The Paragraph Farmer
+ - [http://paragraphfarmer.blogspot.com](http://paragraphfarmer.blogspot.com)
+ - date_published: 2024-03-14T03:10:36+00:00
+
+ ## Paralipomena (2)
+ - [http://parajr.blogspot.com](http://parajr.blogspot.com)
+ - date_published: 2024-03-05T07:55:02+00:00
+
+ ## The Parallel Campaign
+ - [http://parallelcampaign.blogspot.com](http://parallelcampaign.blogspot.com)
+ - date_published: 2024-03-13T18:16:55+00:00
+
+ ## Parallel Futures: Musings on SF
+ - [http://parallelfutures.blogspot.com](http://parallelfutures.blogspot.com)
+ - date_published: 2024-10-21T17:28:48.051608+00:00
+
+ ## Paranormal in Origin
+ - [https://paranormalorigin.blogspot.com](https://paranormalorigin.blogspot.com)
+ - date_published: 2024-03-07T03:52:04+00:00
+
+ ## Parole di Vetro
+ - [https://paroledivetro99.blogspot.com](https://paroledivetro99.blogspot.com)
+ - date_published: 2024-09-02T14:16:58+00:00
+
  ## Parum Pugna
  - [http://parumpugna.blogspot.com](http://parumpugna.blogspot.com)
  - date_published: 2024-07-18T11:37:32+00:00
@@ -3982,32 +4010,4 @@
  ## Rusty Battle Axe
  - [http://rustybattleaxe.blogspot.com](http://rustybattleaxe.blogspot.com)
  - date_published: 2024-02-20T10:45:50+00:00
-
- ## Rusty Mech Salvage
- - [http://rustymechsalvage.blogspot.com](http://rustymechsalvage.blogspot.com)
- - date_published: 2024-03-20T07:36:06+00:00
-
- ## Rusty Robots
- - [https://rustyrobots.blogspot.com](https://rustyrobots.blogspot.com)
- - date_published: 2021-01-10T00:00:00+00:00
-
- ## The Rusty Workbench
- - [http://rusty-warriors.blogspot.com](http://rusty-warriors.blogspot.com)
- - date_published: 2024-10-09T01:36:29+00:00
-
- ## the dark goddess of replevin speaks
- - [http://ruthedlund.blogspot.com](http://ruthedlund.blogspot.com)
- - date_published: 2024-03-13T22:10:25+00:00
-
- ## Ruttetkaffe
- - [https://ruttetkaffe.blogspot.com](https://ruttetkaffe.blogspot.com)
- - date_published: 2024-03-05T12:40:36+00:00
-
- ## Robert on anything
- - [http://rvirding.blogspot.com](http://rvirding.blogspot.com)
- - date_published: 2024-06-21T09:12:51+00:00
-
- ## Famous Battles!
- - [http://rwva.blogspot.com](http://rwva.blogspot.com)
- - date_published: 2024-03-05T09:14:29+00:00
 

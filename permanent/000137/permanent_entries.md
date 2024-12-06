@@ -1,3 +1,108 @@
+ ## LibApps Login @ University of Kansas
+ - [https://ku.libapps.com](https://ku.libapps.com)
+ - date_published: 2024-07-01T12:21:35.805548+00:00
+
+ ## LibApps Login @ Health Sciences Library, University of Colorado Anschutz Medical Campus
+ - [https://library-cuanschutz.libapps.com](https://library-cuanschutz.libapps.com)
+ - date_published: 2024-07-22T04:56:33.968255+00:00
+
+ ## LibApps Login @ University of British Columbia
+ - [https://library-ubc-ca.libapps.com](https://library-ubc-ca.libapps.com)
+ - date_published: 2024-04-30T05:18:45.118670+00:00
+
+ ## LibApps Login @ Ben-Gurion University of the Negev
+ - [https://medlib-bgu.libapps.com](https://medlib-bgu.libapps.com)
+ - date_published: 2024-07-14T03:36:50.467536+00:00
+
+ ## LibApps Login @ Middle Tennessee State University
+ - [https://mtsu.libapps.com](https://mtsu.libapps.com)
+ - date_published: 2024-07-01T15:46:30.785547+00:00
+
+ ## LibApps Login @ NATO Library
+ - [https://nato.libapps.com](https://nato.libapps.com)
+ - date_published: 2024-08-07T22:30:15.663707+00:00
+
+ ## LibApps Login @ Northwestern University
+ - [https://northwestern.libapps.com](https://northwestern.libapps.com)
+ - date_published: 2024-09-13T19:58:15.524961+00:00
+
+ ## LibApps Login @ New York Botanical Garden
+ - [https://nybg.libapps.com](https://nybg.libapps.com)
+ - date_published: 2024-06-16T22:51:45.651427+00:00
+
+ ## LibApps Login @ Stevens Institute of Technology
+ - [https://stevens.libapps.com](https://stevens.libapps.com)
+ - date_published: 2024-07-01T20:36:53.791106+00:00
+
+ ## LibApps Login @ University of Alaska Fairbanks
+ - [https://uaf.libapps.com](https://uaf.libapps.com)
+ - date_published: 2024-07-01T22:04:36.367905+00:00
+
+ ## LibApps Login @ UChicago
+ - [https://uchicago.libapps.com](https://uchicago.libapps.com)
+ - date_published: 2024-07-01T22:39:58.033669+00:00
+
+ ## LibApps Login @ University of Kentucky
+ - [https://uky.libapps.com](https://uky.libapps.com)
+ - date_published: 2024-09-13T20:00:33.620610+00:00
+
+ ## LibApps Login @ University of Cambridge Subject Libraries
+ - [https://uniofcam.libapps.com](https://uniofcam.libapps.com)
+ - date_published: 2024-06-17T17:46:56.129081+00:00
+
+ ## LibApps Login @ University of Toronto
+ - [https://utoronto.libapps.com](https://utoronto.libapps.com)
+ - date_published: 2024-07-21T08:23:16.028106+00:00
+
+ ## LibApps Login @ Walden University
+ - [https://waldenu.libapps.com](https://waldenu.libapps.com)
+ - date_published: 2024-07-02T13:20:04.286028+00:00
+
+ ## LibApps Login @ The College of Wooster
+ - [https://wooster.libapps.com](https://wooster.libapps.com)
+ - date_published: 2024-07-02T14:41:54.855852+00:00
+
+ ## Springshare - Online Services SaaS platform for Libraries, Educational Institutions, and Non Profits
+ - [https://ca.libauth.com](https://ca.libauth.com)
+ - date_published: 2024-07-21T09:06:54.977146+00:00
+
+ ## Springshare - Online Services SaaS platform for Libraries, Educational Institutions, and Non Profits
+ - [https://eu.libauth.com](https://eu.libauth.com)
+ - date_published: 2024-10-20T03:33:32.435258+00:00
+
+ ## Swagger UI
+ - [https://autocomplete-cache.libbyapp.com](https://autocomplete-cache.libbyapp.com)
+ - date_published: 2024-07-04T06:20:08.289397+00:00
+
+ ## Redirecting
+ - [https://help.libbyapp.com](https://help.libbyapp.com)
+ - date_published: 2020-09-21T13:43:58+00:00
+
+ ## Libby
+ - [https://libbyapp.com](https://libbyapp.com)
+ - date_published: 2024-05-08T05:15:26.262997+00:00
+ - tags: ['ebooks', 'audiobooks']
+
+ ## Download the Libby App: ebooks & audiobooks FREE from your library
+ - [https://meet.libbyapp.com](https://meet.libbyapp.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Download the Libby App: ebooks & audiobooks FREE from your library
+ - [https://share.libbyapp.com](https://share.libbyapp.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Libby Cunniffe
+ - [http://libbycunniffe.com](http://libbycunniffe.com)
+ - date_published: 2024-06-15T10:12:53.418580+00:00
+
+ ## Libby Klein
+ - [https://libbykleinbooks.com](https://libbykleinbooks.com)
+ - date_published: 2024-10-17T23:16:05.460208+00:00
+
+ ## Libby Life blog - For your love of books & reading | OverDrive
+ - [https://libbylife.com](https://libbylife.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Libby & Son U-Picks Fruit & Farm
  - [https://www.libbysonupicks.com](https://www.libbysonupicks.com)
  - date_published: 2024-08-08T23:51:14.767921+00:00
@@ -306,6 +411,10 @@
  ## Liberland Press
  - [https://liberlandpress.com](https://liberlandpress.com)
  - date_published: 2023-10-25T10:15:59.341820+00:00
+
+ ## Portada
+ - [https://www.libertaddigital.com](https://www.libertaddigital.com)
+ - date_published: 2024-12-05T07:21:20+00:00
 
  ## Thought Grenades | The Official Blog of Libertas Bella
  - [https://blog.libertasbella.com](https://blog.libertasbella.com)
@@ -3961,112 +4070,4 @@
  ## About LinkedIn
  - [https://about.linkedin.com](https://about.linkedin.com)
  - date_published: 2024-04-29T00:31:20.815211+00:00
-
- ## LinkedIn الإمارات: تسجيل الدخول أو إنشاء حساب
- - [https://ae.linkedin.com](https://ae.linkedin.com)
- - date_published: 2024-05-04T05:45:03.030576+00:00
-
- ## LinkedIn Albania: Log In or Sign Up
- - [https://al.linkedin.com](https://al.linkedin.com)
- - date_published: 2024-10-20T11:36:30.869498+00:00
-
- ## LinkedIn Angola: entre ou cadastre-se
- - [https://ao.linkedin.com](https://ao.linkedin.com)
- - date_published: 2024-08-07T19:19:09.880264+00:00
-
- ## LinkedIn: inicio de sesión o registro
- - [https://ar.linkedin.com](https://ar.linkedin.com)
- - date_published: 2024-05-04T12:42:29.507268+00:00
-
- ## LinkedIn Österreich: Einloggen oder anmelden
- - [https://at.linkedin.com](https://at.linkedin.com)
- - date_published: 2024-05-04T12:42:22.667124+00:00
-
- ## LinkedIn Australia: Log In or Sign Up
- - [https://au.linkedin.com](https://au.linkedin.com)
- - date_published: 2024-04-29T00:31:15.563103+00:00
-
- ## LinkedIn Belgium: Log In or Sign Up
- - [https://be.linkedin.com](https://be.linkedin.com)
- - date_published: 2024-05-02T09:57:22.972500+00:00
-
- ## LinkedIn Bulgaria: Log In or Sign Up
- - [https://bg.linkedin.com](https://bg.linkedin.com)
- - date_published: 2024-06-14T16:14:15.872883+00:00
-
- ## Official LinkedIn Blog
- - [https://blog.linkedin.com](https://blog.linkedin.com)
- - date_published: 2024-05-04T12:40:31.339701+00:00
-
- ## LinkedIn Bolivia: inicio de sesión o registro
- - [https://bo.linkedin.com](https://bo.linkedin.com)
- - date_published: 2024-05-04T12:42:03.330143+00:00
-
- ## LinkedIn Brand Guidelines | LinkedIn
- - [https://brand.linkedin.com](https://brand.linkedin.com)
- - date_published: 2024-04-29T00:31:05.511138+00:00
-
- ## LinkedIn Brasil: entre ou cadastre-se
- - [https://br.linkedin.com](https://br.linkedin.com)
- - date_published: 2024-05-04T12:42:32.693136+00:00
-
- ## Business Solutions on LinkedIn | LinkedIn Business
- - [https://business.linkedin.com](https://business.linkedin.com)
- - date_published: 2024-05-04T12:40:34.009255+00:00
-
- ## LinkedIn: Log In or Sign Up
- - [https://ca.linkedin.com](https://ca.linkedin.com)
- - date_published: 2024-04-27T08:31:52.818143+00:00
-
- ## LinkedIn Careers: Find Your Opportunity Here
- - [https://careers.linkedin.com](https://careers.linkedin.com)
- - date_published: 2024-06-23T10:57:26.377561+00:00
-
- ## LinkedIn Schweiz: Einloggen oder anmelden
- - [https://ch.linkedin.com](https://ch.linkedin.com)
- - date_published: 2024-04-30T06:14:34.222561+00:00
-
- ## LinkedIn Chile: inicio de sesión o registro
- - [https://cl.linkedin.com](https://cl.linkedin.com)
- - date_published: 2024-05-04T12:42:38.423453+00:00
-
- ## 领英 (中国): 登录/注册
- - [https://cn.linkedin.com](https://cn.linkedin.com)
- - date_published: 2024-05-04T12:40:50.219120+00:00
-
- ## LinkedIn Colombia: inicio de sesión o registro
- - [https://co.linkedin.com](https://co.linkedin.com)
- - date_published: 2024-05-04T12:40:25.887596+00:00
-
- ## LinkedIn Costa Rica: inicio de sesión o registro
- - [https://cr.linkedin.com](https://cr.linkedin.com)
- - date_published: 2024-05-04T12:41:09.905752+00:00
-
- ## LinkedIn Cyprus: Log In or Sign Up
- - [https://cy.linkedin.com](https://cy.linkedin.com)
- - date_published: 2024-07-12T19:08:22.117562+00:00
-
- ## LinkedIn Česká republika: Přihlásit se nebo se zaregistrovat
- - [https://cz.linkedin.com](https://cz.linkedin.com)
- - date_published: 2024-05-04T12:41:52.630068+00:00
-
- ## LinkedIn Deutschland: Einloggen oder anmelden
- - [https://de.linkedin.com](https://de.linkedin.com)
- - date_published: 2024-04-29T05:58:42.544143+00:00
-
- ## LinkedIn Developer Solutions
- - [https://developer.linkedin.com](https://developer.linkedin.com)
- - date_published: 2024-05-04T12:42:00.087692+00:00
-
- ## LinkedIn Danmark: Log ind eller tilmeld dig
- - [https://dk.linkedin.com](https://dk.linkedin.com)
- - date_published: 2024-04-30T02:41:33.058170+00:00
-
- ## LinkedIn República Dominicana: inicio de sesión o registro
- - [https://do.linkedin.com](https://do.linkedin.com)
- - date_published: 2024-05-04T12:41:46.118893+00:00
-
- ## LinkedIn Ecuador: inicio de sesión o registro
- - [https://ec.linkedin.com](https://ec.linkedin.com)
- - date_published: 2024-05-04T12:35:23.644472+00:00
 

@@ -1474,7 +1474,7 @@
  ## Stralis Aircraft – Emission free hydrogen electric aircraft
  - [https://stralis.aero](https://stralis.aero)
  - date_published: 2023-11-20T20:24:12.351020+00:00
- - tags: ['airspace', 'avionics', 'aviation', 'aircraft']
+ - tags: ['airspace', 'aviation', 'aviation', 'aircraft']
 
  ## Supernal.aero
  - [https://www.supernal.aero](https://www.supernal.aero)
@@ -1499,7 +1499,7 @@
  ## Wisk | We've Arrived.
  - [https://wisk.aero](https://wisk.aero)
  - date_published: 2024-06-26T11:19:09.857168+00:00
- - tags: ['vtol', 'avionics', 'aviation']
+ - tags: ['vtol', 'aviation', 'aviation']
 
  ## Aerospace Accelerator - Aerospace Xelerated
  - [https://xelerated.aero](https://xelerated.aero)
@@ -2722,6 +2722,10 @@
  ## 190903-amplified-logo-updated
  - [https://amplified.ai](https://amplified.ai)
  - date_published: 2024-07-11T16:48:16.653616+00:00
+
+ ## Amurex
+ - [https://www.amurex.ai](https://www.amurex.ai)
+ - date_published: 2024-12-05T14:31:48.229927+00:00
 
  ## Anakin.ai - One-Stop AI App Platform
  - [https://anakin.ai](https://anakin.ai)
@@ -4016,8 +4020,4 @@
  ## wrtsc
  - [https://wrtsc.catgirl.ai](https://wrtsc.catgirl.ai)
  - date_published: 2023-03-18T06:54:14+00:00
-
- ## Cambridge Boston Alignment Initiative
- - [https://www.cbai.ai](https://www.cbai.ai)
- - date_published: 2024-07-06T19:51:16.091861+00:00
 

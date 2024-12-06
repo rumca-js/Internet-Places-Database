@@ -1,3 +1,252 @@
+ ## Recalibrating | Callum Wanderloots | Substack
+ - [https://wanderloots.substack.com](https://wanderloots.substack.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Waqas’ Musings | Waqas Sheikh | Substack
+ - [https://waqaswrites.substack.com](https://waqaswrites.substack.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Tai Chi & Me | Warner Blake | Substack
+ - [https://warnerblake.substack.com](https://warnerblake.substack.com)
+ - date_published: 2024-08-08T20:56:54.167393+00:00
+
+ ## Galaxy Brain | Charlie Warzel | Substack
+ - [https://warzel.substack.com](https://warzel.substack.com)
+ - date_published: 2024-06-29T07:36:34.412485+00:00
+
+ ## Startup Real Talk | Waseem Daher | Substack
+ - [https://waseem.substack.com](https://waseem.substack.com)
+ - date_published: 2024-01-09T01:45:56.159960+00:00
+
+ ## Wastyk Writes | Hannah Wastyk | Substack
+ - [https://wastykwrites.substack.com](https://wastykwrites.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## W. Austin Gardner | Substack
+ - [https://waustingardner.substack.com](https://waustingardner.substack.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Ways of Life | Theo FS | Substack
+ - [https://waysoflife.substack.com](https://waysoflife.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## The Elevator’s Substack | Substack
+ - [https://wearetheelevator.substack.com](https://wearetheelevator.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Web3 Summary | Manav | Substack
+ - [https://web3summary.substack.com](https://web3summary.substack.com)
+ - date_published: 2024-10-30T13:48:41.457175+00:00
+
+ ## Dave's Interactive Fiction Musings... | David Cornelson | Substack
+ - [https://webif.substack.com](https://webif.substack.com)
+ - date_published: 2024-07-10T02:40:34.093135+00:00
+
+ ## Weblearning | Open Umbrella  | Derek Moore | Substack
+ - [https://weblearning.substack.com](https://weblearning.substack.com)
+ - date_published: 2024-05-02T13:57:04.949076+00:00
+
+ ## Weed Church | Casey Taylor | Substack
+ - [https://weedchurch.substack.com](https://weedchurch.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Weekly Briefing | Darja Gutnick | Substack
+ - [https://weeklybriefing.substack.com](https://weeklybriefing.substack.com)
+ - date_published: 2024-08-19T12:25:37.969242+00:00
+
+ ## Weekly PHP | Víctor Falcón 🤟 | Substack
+ - [https://weeklyphp.substack.com](https://weeklyphp.substack.com)
+ - date_published: 2023-10-25T10:07:21.630667+00:00
+ - tags: ['substack']
+
+ ## weird medieval guys  | Substack
+ - [https://weirdmedievalguys.substack.com](https://weirdmedievalguys.substack.com)
+ - date_published: 2024-01-09T01:45:57.742248+00:00
+
+ ## Weirdo Poetry | Jason McBride | Substack
+ - [https://weirdopoetry.substack.com](https://weirdopoetry.substack.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Wenqi Shao | Substack
+ - [https://wenqi.substack.com](https://wenqi.substack.com)
+ - date_published: 2024-04-30T06:56:27.759683+00:00
+
+ ## Wasabi | Substack
+ - [https://wesabbey.substack.com](https://wesabbey.substack.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Wesley Goatley | Substack
+ - [https://wesleygoatley.substack.com](https://wesleygoatley.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## West Ends | Angella d'Avignon | Substack
+ - [http://westends.substack.com](http://westends.substack.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## The Fifth Column (A Podcast) | Substack
+ - [https://wethefifth.substack.com](https://wethefifth.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Bill's Newsletter | Bill Sullivan | Substack
+ - [https://wfsullivan.substack.com](https://wfsullivan.substack.com)
+ - date_published: 2024-07-14T10:07:36.943840+00:00
+
+ ## We're Gonna Get Those Bastards | Jared Dillian | Substack
+ - [https://wggtb.substack.com](https://wggtb.substack.com)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## What Is Called Thinking? | Zohar Atkins | Substack
+ - [http://whatiscalledthinking.substack.com](http://whatiscalledthinking.substack.com)
+ - date_published: 2024-09-09T21:55:35.909452+00:00
+
+ ## What Rocks | Charlie Harrington | Substack
+ - [https://whatrocks.substack.com](https://whatrocks.substack.com)
+ - date_published: 2024-05-08T04:49:53.669081+00:00
+
+ ## What's Curation? | Nikhil Rajagopalan | Substack
+ - [https://whatscuration.substack.com](https://whatscuration.substack.com)
+ - date_published: 2024-09-09T14:27:42.014596+00:00
+
+ ## What's Important? | Tom Morgan | Substack
+ - [https://whatsimportant.substack.com](https://whatsimportant.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## What's in my NOW? | Cool Tools Lab | Substack
+ - [https://whatsinmynow.substack.com](https://whatsinmynow.substack.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## What To Cook When You Don't Feel Like Cooking | Caroline Chambers | Substack
+ - [https://whattocook.substack.com](https://whattocook.substack.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## What We Need Now | Substack
+ - [https://whatweneednow.substack.com](https://whatweneednow.substack.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## What You Can Do For Liberty | Rebecca de Winter | Substack
+ - [https://whatyoucando.substack.com](https://whatyoucando.substack.com)
+ - date_published: 2024-10-31T22:47:59.748302+00:00
+
+ ## Wheel’s Substack | Wheel Reinventor | Substack
+ - [https://wheelreinventor.substack.com](https://wheelreinventor.substack.com)
+ - date_published: 2024-01-09T01:45:59.747302+00:00
+
+ ## Whimsi | Substack
+ - [https://whimsi.substack.com](https://whimsi.substack.com)
+ - date_published: 2024-07-07T07:19:22.183427+00:00
+
+ ## Whitepaper.io’s Newsletter | Substack
+ - [https://whitepaperio.substack.com](https://whitepaperio.substack.com)
+ - date_published: 2024-10-11T21:52:48.273855+00:00
+
+ ## Zoe's Build & Launch | Zoe Chew | Substack
+ - [https://whizzoe.substack.com](https://whizzoe.substack.com)
+ - date_published: 2024-05-07T14:12:34.323433+00:00
+
+ ## WhoWhatWhyAi | Brian Ball | Substack
+ - [https://whowhatwhyai.substack.com](https://whowhatwhyai.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Why is this interesting? | Noah Brier | Substack
+ - [https://whyisthisinteresting.substack.com](https://whyisthisinteresting.substack.com)
+ - date_published: 2024-01-09T01:46:02.416332+00:00
+
+ ## why we should | meika loofs samorzewski | Substack
+ - [https://whyweshould.substack.com](https://whyweshould.substack.com)
+ - date_published: 2024-05-13T02:46:36.023716+00:00
+
+ ## Wildfire Labs Substack | Todd Gagne | Substack
+ - [https://wildfirelabs.substack.com](https://wildfirelabs.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## William’s Substack | William Pritting | Substack
+ - [https://william3n4z2.substack.com](https://william3n4z2.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Will's Notes | Product Newsletter | Will F. | Substack
+ - [https://williamfu.substack.com](https://williamfu.substack.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## William Jakfar’s Newsletter | Substack
+ - [https://williamjakfar.substack.com](https://williamjakfar.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Cosy Moments | William Poulos | Substack
+ - [https://williampoulos.substack.com](https://williampoulos.substack.com)
+ - date_published: 2023-12-14T01:32:56.687154+00:00
+
+ ## Jack’s Substack | Jack Gibbons | Substack
+ - [https://willowskeeper.substack.com](https://willowskeeper.substack.com)
+ - date_published: 2024-10-31T22:42:53.108713+00:00
+
+ ## Internet Connection | Will Patrick | Substack
+ - [https://willpatrick.substack.com](https://willpatrick.substack.com)
+ - date_published: 2024-05-11T05:40:07.363955+00:00
+
+ ## Will’s World | Will O'Brien | Substack
+ - [https://willsworld.substack.com](https://willsworld.substack.com)
+ - date_published: 2024-05-06T16:46:18.321292+00:00
+
+ ## Winner Traits | Jakob Greenfeld | Substack
+ - [https://winnertraits.substack.com](https://winnertraits.substack.com)
+ - date_published: 2024-08-19T08:33:02.584234+00:00
+
+ ## Great CTOs Focus on Outcomes  | Daniel Walters | Substack
+ - [https://wioota.substack.com](https://wioota.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Wittgenfine’s Word | Substack
+ - [https://wittgenfine.substack.com](https://wittgenfine.substack.com)
+ - date_published: 2024-01-09T01:46:04.050317+00:00
+
+ ## Witt Weekly | Benjamin Witt | Substack
+ - [https://wittweekly.substack.com](https://wittweekly.substack.com)
+ - date_published: 2024-06-01T04:50:13.496986+00:00
+
+ ## Wayne's Earth | L Wayne Mathison | Substack
+ - [https://wmathison.substack.com](https://wmathison.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## WMC Research | Walter M Chesnut | Substack
+ - [https://wmcresearch.substack.com](https://wmcresearch.substack.com)
+ - date_published: 2024-09-16T20:01:17.109129+00:00
+
+ ## Cosmic Anarchy | Ayesha Khan, Ph.D. | Substack
+ - [https://wokescientist.substack.com](https://wokescientist.substack.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Going Awol | Amos Wollen | Substack
+ - [https://wollenblog.substack.com](https://wollenblog.substack.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## WoMakersCode | Substack
+ - [https://womakerscode.substack.com](https://womakerscode.substack.com)
+ - date_published: 2024-10-30T05:31:39.127252+00:00
+
+ ## Wonder Tools | Jeremy Caplan | Substack
+ - [https://wondertools.substack.com](https://wondertools.substack.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Wonkette | Rebecca Schoenkopf | Substack
+ - [https://wonkette.substack.com](https://wonkette.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Wood From Eden | Anders L | Substack
+ - [https://woodfromeden.substack.com](https://woodfromeden.substack.com)
+ - date_published: 2024-01-09T01:46:05.713860+00:00
+
+ ## Word Count: Mews, News and Reviews | Suw Charman-Anderson | Substack
+ - [https://wordcounting.substack.com](https://wordcounting.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Work Chronicles | Substack
+ - [https://workchronicles.substack.com](https://workchronicles.substack.com)
+ - date_published: 2024-05-07T16:04:57.486654+00:00
+
+ ## Work/Craft/Life | Neal Bascomb | Substack
+ - [https://workcraftlife.substack.com](https://workcraftlife.substack.com)
+ - date_published: 2024-10-19T10:11:47.105805+00:00
+
  ## Working Class Love Notes | Beth Howard | Substack
  - [https://workingclasslovenotes.substack.com](https://workingclasslovenotes.substack.com)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -3786,258 +4035,4 @@
  ## SV3 Designs – San Jose Web Design & Maintenance
  - [http://www.sv3designs.com](http://www.sv3designs.com)
  - date_published: 2024-06-28T09:02:10.096131+00:00
-
- ## Steven Vachon
- - [https://www.svachon.com](https://www.svachon.com)
- - date_published: 2024-10-20T05:14:08.750996+00:00
-
- ## Svadba-ukr
- - [https://svadba-ukr.com](https://svadba-ukr.com)
- - date_published: 2024-08-20T04:27:43.965360+00:00
-
- ## SV Angel Job Board
- - [https://jobs.svangel.com](https://jobs.svangel.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## AI Open Letter - SVA
- - [https://openletter.svangel.com](https://openletter.svangel.com)
- - date_published: 2024-07-23T22:06:19.576815+00:00
-
- ## SVA
- - [https://svangel.com](https://svangel.com)
- - date_published: 2024-04-29T07:43:17.871535+00:00
-
- ## 绿叶加速器【官网】-畅游全球网络
- - [https://www.svaok.com](https://www.svaok.com)
- - date_published: 2024-07-05T09:13:19+00:00
-
- ## Svart Records
- - [https://www.svartrecords.com](https://www.svartrecords.com)
- - date_published: 2024-07-19T15:46:17.085267+00:00
-
- ## Portfolio
- - [http://www.svartzman.com](http://www.svartzman.com)
- - date_published: 2024-07-13T02:34:23.084115+00:00
-
- ## Silicon Valley Bank - Banking for Innovation Economy
- - [http://www.svb.com](http://www.svb.com)
- - date_published: 2024-06-23T10:02:26.491376+00:00
-
- ## Science, Energy Start-ups & More on Svbtle
- - [https://alphydan.svbtle.com](https://alphydan.svbtle.com)
- - date_published: 2024-09-03T21:49:14.757522+00:00
-
- ## Way of the Duck on Svbtle
- - [https://buster.svbtle.com](https://buster.svbtle.com)
- - date_published: 2024-05-08T04:02:45.695944+00:00
-
- ## xn--xp8h.st
- - [http://good.svbtle.com](http://good.svbtle.com)
- - date_published: 2024-08-19T20:27:14.825244+00:00
-
- ## Constantine Molchanov on Svbtle
- - [https://moigagoo.svbtle.com](https://moigagoo.svbtle.com)
- - date_published: 2023-12-04T19:56:08.845073+00:00
-
- ## Nicholas Pilkington on Svbtle
- - [https://nickp.svbtle.com](https://nickp.svbtle.com)
- - date_published: 2024-06-01T04:51:40.051842+00:00
- - tags: ['personal']
-
- ## Alexandros Salazar on Svbtle
- - [https://nomothetis.svbtle.com](https://nomothetis.svbtle.com)
- - date_published: 2024-06-23T15:30:49.074880+00:00
-
- ## Syd Norpol on Svbtle
- - [https://oo.svbtle.com](https://oo.svbtle.com)
- - date_published: 2024-06-01T04:52:11.870523+00:00
-
- ## Russell Cohen on Svbtle
- - [https://rcoh.svbtle.com](https://rcoh.svbtle.com)
- - date_published: 2024-06-03T06:27:38.030439+00:00
- - tags: ['personal']
-
- ## Svbtle
- - [https://svbtle.com](https://svbtle.com)
- - date_published: 2024-05-01T03:57:48.277695+00:00
-
- ## Ted Piotrowski
- - [https://tedpiotrowski.svbtle.com](https://tedpiotrowski.svbtle.com)
- - date_published: 2023-10-25T17:20:00.283562+00:00
-
- ## Organizational transformation | Sveiby
- - [https://www.sveiby.com](https://www.sveiby.com)
- - date_published: 2024-08-18T17:19:26.462404+00:00
-
- ## Svelte French Toast
- - [https://svelte-french-toast.com](https://svelte-french-toast.com)
- - date_published: 2024-06-23T06:28:08.069777+00:00
-
- ## Launch Faster with the Full-stack SaaS Template for SvelteKit
- - [https://sveltekitsaas.com](https://sveltekitsaas.com)
- - date_published: 2023-10-25T17:20:01.448128+00:00
-
- ## Svelte Radio
- - [https://www.svelteradio.com](https://www.svelteradio.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Svelte Summit - The largest Svelte-only conference in the world.
- - [https://sveltesummit.com](https://sveltesummit.com)
- - date_published: 2024-05-06T14:16:23.127584+00:00
-
- ## Sven Beckert History
- - [http://svenbeckert.com](http://svenbeckert.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Svengoolie
- - [http://svengoolie.com](http://svengoolie.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Sven Luijten
- - [https://svenluijten.com](https://svenluijten.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## SVG | Video Game News, Reviews, Trailers, & Opinions
- - [https://svg.com](https://svg.com)
- - date_published: 2024-06-28T14:31:46+00:00
- - tags: ['video game news']
-
- ## svgapi - Reliable SVG Icon API in PD&CC
- - [https://www.svgapi.com](https://www.svgapi.com)
- - date_published: 2020-01-25T15:03:33+00:00
-
- ## SVG Animator Login - Start Animating Today | SVGator
- - [https://app.svgator.com](https://app.svgator.com)
- - date_published: 2024-06-23T14:22:16.694735+00:00
-
- ## SVGator: Free SVG Animation Creator Online - No Coding
- - [https://www.svgator.com](https://www.svgator.com)
- - date_published: 2024-05-06T14:42:18.760796+00:00
-
- ## Customize and apply backgrounds fast | SVG Backgrounds
- - [https://svgbackgrounds.com](https://svgbackgrounds.com)
- - date_published: 2023-10-25T17:20:04.343453+00:00
-
- ## Customize and apply backgrounds fast
- - [https://www.design.svgbackgrounds.com](https://www.design.svgbackgrounds.com)
- - date_published: 2024-08-19T05:02:07.427689+00:00
-
- ## SVG Basics Tutorials - 
-  Scalable Vector Graphics by Hand
- - [http://www.svgbasics.com](http://www.svgbasics.com)
- - date_published: 2022-11-26T03:34:58+00:00
-
- ## SVG Crop
- - [https://svgcrop.com](https://svgcrop.com)
- - date_published: 2021-11-22T02:13:35+00:00
-
- ## SVG Find - Free SVG Files and Icons
- - [https://svgfind.com](https://svgfind.com)
- - date_published: 2024-07-19T18:33:28.148181+00:00
-
- ## Convert an SVG
- - [https://svgful.com](https://svgful.com)
- - date_published: 2024-08-18T02:23:43.110399+00:00
-
- ## Svg/icons - Free Open-source SVG Icons for your Applications
- - [https://www.svgicons.com](https://www.svgicons.com)
- - date_published: 2024-10-27T23:03:26.710455+00:00
-
- ## svgimmersion.com
- - [http://svgimmersion.com](http://svgimmersion.com)
- - date_published: 2024-06-23T10:25:40.955115+00:00
-
- ## Free SVG logos & icons download
- - [https://new.svgmix.com](https://new.svgmix.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Free SVG logos & icons download  | SVGmix
- - [https://svgmix.com](https://svgmix.com)
- - date_published: 2023-10-25T17:20:13.052145+00:00
-
- ## phpinfo()
- - [http://api.svgrepo.com](http://api.svgrepo.com)
- - date_published: 2024-07-19T18:33:25.908649+00:00
-
- ## SVG Repo - Free SVG Vectors and Icons
- - [https://svgrepo.com](https://svgrepo.com)
- - date_published: 2024-04-25T18:24:54+00:00
- - tags: ['image assets']
-
- ## svgshare.com - share SVG vector files
- - [https://svgshare.com](https://svgshare.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Free SVG Image & Icon. | SVG Silh
- - [https://svgsilh.com](https://svgsilh.com)
- - date_published: 2024-05-06T18:26:00.564407+00:00
-
- ## Learn SVG with 25 examples – How to code images in HTML
- - [https://svg-tutorial.com](https://svg-tutorial.com)
- - date_published: 2023-12-07T13:38:04+00:00
- - tags: ['svg', 'html', 'tutorial']
-
- ## svgshare.com - share SVG vector files
- - [http://svgur.com](http://svgur.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Université de Montréal
- - [http://udem.sviesolutions.com](http://udem.sviesolutions.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Svija: build websites with Adobe Illustrator ∴ Svija ∴ Websites with Adobe Illustrator
- - [http://svija.com](http://svija.com)
- - date_published: 2024-08-18T23:07:36.368262+00:00
-
- ## Simpsonville + SAFI
- - [http://svillesummerseries.com](http://svillesummerseries.com)
- - date_published: 2024-10-27T21:42:02+00:00
-
- ## Home | Seasonal Visions International
- - [https://sviservice.com](https://sviservice.com)
- - date_published: 2024-08-18T02:21:52.095761+00:00
-
- ## Vivek Srikumar
- - [https://svivek.com](https://svivek.com)
- - date_published: 2024-04-30T14:21:31+00:00
-
- ## Svix Dashboard
- - [https://dashboard.svix.com](https://dashboard.svix.com)
- - date_published: 2024-10-29T16:59:41+00:00
-
- ## Introduction | Svix Docs
- - [https://docs.svix.com](https://docs.svix.com)
- - date_published: 2024-10-18T22:07:26+00:00
-
- ## Svix Status
- - [https://status.svix.com](https://status.svix.com)
- - date_published: 2024-10-31T03:42:28.309401+00:00
-
- ## Webhooks as a Service – Secure and Enterprise Ready · Svix
- - [https://svix.com](https://svix.com)
- - date_published: 2024-06-19T22:09:55.909373+00:00
-
- ## SV Modular
- - [https://svmodular.com](https://svmodular.com)
- - date_published: 2024-05-02T13:45:49.502056+00:00
-
- ## Full-Service Commercial Real Estate Firm - SVN® International
- - [https://svn.com](https://svn.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Subversion vs. Git: Myths and Facts
- - [https://svnvsgit.com](https://svnvsgit.com)
- - date_published: 2020-11-04T18:15:15+00:00
-
- ## Home - SVN West
- - [https://svnwest.com](https://svnwest.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://www.svp.com](https://www.svp.com)
- - date_published: 2024-07-03T06:07:29.293234+00:00
-
- ## Silicon Valley Product Group
- - [https://svpg.com](https://svpg.com)
- - date_published: 2024-06-27T00:00:00+00:00
 

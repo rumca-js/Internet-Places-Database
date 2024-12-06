@@ -1,3 +1,19 @@
+ ## About Political Ads - Political Ads
+ - [https://politicalads.ca](https://politicalads.ca)
+ - date_published: 2024-09-16T03:08:17.052234+00:00
+
+ ## Polygon Sandwich -- animation
+ - [https://polygons.ca](https://polygons.ca)
+ - date_published: 2024-08-18T06:14:35.219587+00:00
+
+ ## CERC DS4DM – Data Science for Real-Time Decision-Making
+ - [https://cerc-datascience.polymtl.ca](https://cerc-datascience.polymtl.ca)
+ - date_published: 2024-07-12T08:10:10.378487+00:00
+
+ ## Software Engineering for Machine Learning Application – SEMLA
+ - [https://semla.polymtl.ca](https://semla.polymtl.ca)
+ - date_published: 2024-07-21T22:10:42.947358+00:00
+
  ## Polytechnique Montréal | Polytechnique Montréal est l’un des plus importants établissements d’enseignement et de recherche en génie au Canada
  - [http://www.polymtl.ca](http://www.polymtl.ca)
  - date_published: 2024-08-06T17:23:58+00:00
@@ -4013,20 +4029,4 @@
  ## Search - University of Saskatchewan
  - [https://search.usask.ca](https://search.usask.ca)
  - date_published: 2024-09-15T13:00:56.099541+00:00
-
- ## Students
- - [https://students.usask.ca](https://students.usask.ca)
- - date_published: 2024-09-15T13:01:28.207037+00:00
-
- ## Faculty Relations - Vice-Provost, Faculty Relations
- - [https://vpfaculty.usask.ca](https://vpfaculty.usask.ca)
- - date_published: 2024-09-15T13:01:03.796595+00:00
-
- ## Wellness
- - [https://wellness.usask.ca](https://wellness.usask.ca)
- - date_published: 2024-09-15T13:01:10.199304+00:00
-
- ## Department of Computer Science
- - [https://www.cs.usask.ca](https://www.cs.usask.ca)
- - date_published: 2024-06-29T03:19:26.005459+00:00
 

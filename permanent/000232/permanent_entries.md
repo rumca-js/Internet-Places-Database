@@ -1,3 +1,296 @@
+ ## Researcher to Reader Conference — London — 25-26 February 2025
+ - [https://r2rconf.wordpress.com](https://r2rconf.wordpress.com)
+ - date_published: 2024-10-20T04:45:29.613875+00:00
+
+ ## RaceOnline 2012 - Blog
+ - [http://raceonline2012.wordpress.com](http://raceonline2012.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## RachelCreative
+ - [http://rachelcreative.wordpress.com](http://rachelcreative.wordpress.com)
+ - date_published: 2024-10-19T07:05:06.920005+00:00
+
+ ## (no title)
+ - [https://racheldominica.wordpress.com](https://racheldominica.wordpress.com)
+ - date_published: 2024-02-08T16:49:44.688152+00:00
+
+ ## Rachel Wollaston
+ - [http://rachelewollaston.wordpress.com](http://rachelewollaston.wordpress.com)
+ - date_published: 2024-07-15T07:16:15.834711+00:00
+
+ ## Rachel Spangler
+ - [https://rachelspangler.wordpress.com](https://rachelspangler.wordpress.com)
+ - date_published: 2024-02-08T22:01:50.995260+00:00
+
+ ## rachleona's GSoC
+ - [https://rachleona.wordpress.com](https://rachleona.wordpress.com)
+ - date_published: 2024-07-13T07:22:55+00:00
+
+ ## Private Site
+ - [http://raddblog.wordpress.com](http://raddblog.wordpress.com)
+ - date_published: 2024-06-20T04:06:46.830529+00:00
+
+ ## Radek's tech blog
+ - [https://radektech.wordpress.com](https://radektech.wordpress.com)
+ - date_published: 2024-07-18T12:24:25.085001+00:00
+
+ ## Radhegovind
+ - [https://radhegovind.wordpress.com](https://radhegovind.wordpress.com)
+ - date_published: 2024-07-01T08:22:52.654652+00:00
+
+ ## iif_alt
+ - [http://radiant-ailcic.wordpress.com](http://radiant-ailcic.wordpress.com)
+ - date_published: 2024-08-19T04:59:19.766045+00:00
+
+ ## dr. p.l. (paul) thomas
+ - [https://radicalscholarship.wordpress.com](https://radicalscholarship.wordpress.com)
+ - date_published: 2024-05-07T10:13:19.837280+00:00
+
+ ## Radio Free Africa
+ - [https://radiofreeafrica.wordpress.com](https://radiofreeafrica.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Radish
+ - [https://radishmag.wordpress.com](https://radishmag.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Rafał Cieślak's blog
+ - [https://rafalcieslak.wordpress.com](https://rafalcieslak.wordpress.com)
+ - date_published: 2023-10-25T18:15:34.497692+00:00
+
+ ## The Emergent Fool
+ - [http://rafefurst.wordpress.com](http://rafefurst.wordpress.com)
+ - date_published: 2024-10-19T04:34:11.411514+00:00
+
+ ## Raffles Museum News III (2007 – 2014)
+ - [https://rafflesmuseum.wordpress.com](https://rafflesmuseum.wordpress.com)
+ - date_published: 2024-10-19T05:21:24.886261+00:00
+
+ ## RAF Meteorology Man – Roy Cook ~ Former Weatherman of Sark
+ - [https://rafmetman.wordpress.com](https://rafmetman.wordpress.com)
+ - date_published: 2023-10-25T18:15:38.538826+00:00
+
+ ## GEEK Lvl 60
+ - [https://rafpark.wordpress.com](https://rafpark.wordpress.com)
+ - date_published: 2024-10-26T21:39:27.760737+00:00
+
+ ## Rage Against the Algorithm
+ - [https://rageagainstthealgorithm.wordpress.com](https://rageagainstthealgorithm.wordpress.com)
+ - date_published: 2024-07-12T05:57:55.452504+00:00
+
+ ## Focus Home
+ - [https://raghavmehracom.wordpress.com](https://raghavmehracom.wordpress.com)
+ - date_published: 2024-05-12T05:27:52.868091+00:00
+
+ ## Smoke words every day.
+ - [http://rahulgaurblog.wordpress.com](http://rahulgaurblog.wordpress.com)
+ - date_published: 2024-07-12T22:35:26+00:00
+
+ ## Railroad Prototype Modeler
+ - [https://railroadprototypemodeler.wordpress.com](https://railroadprototypemodeler.wordpress.com)
+ - date_published: 2024-08-11T22:55:35.285854+00:00
+
+ ## Raimanet
+ - [https://raimanet.wordpress.com](https://raimanet.wordpress.com)
+ - date_published: 2024-06-21T13:56:39+00:00
+
+ ## Rain & the Rhinoceros
+ - [http://rainandtherhinoceros.wordpress.com](http://rainandtherhinoceros.wordpress.com)
+ - date_published: 2024-06-28T21:09:55.987457+00:00
+
+ ## Rainbow Junkie
+ - [http://rainbowjunkiecorner.wordpress.com](http://rainbowjunkiecorner.wordpress.com)
+ - date_published: 2024-07-04T05:37:13.533242+00:00
+
+ ## Raincoat Optimism
+ - [http://raincoatoptimism.wordpress.com](http://raincoatoptimism.wordpress.com)
+ - date_published: 2024-10-21T13:59:39.818908+00:00
+
+ ## Raising an Army
+ - [http://raisinganarmy.wordpress.com](http://raisinganarmy.wordpress.com)
+ - date_published: 2024-10-29T19:13:24.866027+00:00
+
+ ## Raku Advent Calendar
+ - [https://rakuadventcalendar.wordpress.com](https://rakuadventcalendar.wordpress.com)
+ - date_published: 2024-08-19T11:03:57.589833+00:00
+
+ ## Open::Journey
+ - [https://rakujourney.wordpress.com](https://rakujourney.wordpress.com)
+ - date_published: 2024-09-09T12:44:26.942489+00:00
+
+ ## Neither Here nor There....
+ - [https://ralfast.wordpress.com](https://ralfast.wordpress.com)
+ - date_published: 2024-10-17T22:54:51.891799+00:00
+
+ ## Ralf Zahn's blog
+ - [https://ralfzahn.wordpress.com](https://ralfzahn.wordpress.com)
+ - date_published: 2024-07-18T12:25:38.920514+00:00
+
+ ## Ralph Losey
+ - [https://ralphloseycom.wordpress.com](https://ralphloseycom.wordpress.com)
+ - date_published: 2024-06-16T21:53:41.149851+00:00
+
+ ## Ramani Sandeep
+ - [https://ramanisandeep.wordpress.com](https://ramanisandeep.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## New at LacusCurtius & Livius
+ - [https://rambambashi.wordpress.com](https://rambambashi.wordpress.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Rambles to Relics
+ - [https://rambletorelics.wordpress.com](https://rambletorelics.wordpress.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Rambling about...
+ - [https://ramblingabout.wordpress.com](https://ramblingabout.wordpress.com)
+ - date_published: 2024-07-18T12:20:52.648447+00:00
+
+ ## Ramblings from The Trenches
+ - [https://ramblingsfromthetrenches.wordpress.com](https://ramblingsfromthetrenches.wordpress.com)
+ - date_published: 2024-06-18T23:42:13.429325+00:00
+
+ ## Ramis Movassagh
+ - [https://ramismovassagh.wordpress.com](https://ramismovassagh.wordpress.com)
+ - date_published: 2024-05-07T15:49:59.476882+00:00
+ - tags: ['personal']
+
+ ## The Legal Satyricon
+ - [http://randazza.wordpress.com](http://randazza.wordpress.com)
+ - date_published: 2024-10-19T06:03:07.815738+00:00
+
+ ## Rare & Old Computers
+ - [https://randoc.wordpress.com](https://randoc.wordpress.com)
+ - date_published: 2024-01-11T00:05:52.139920+00:00
+
+ ## Random ASCII – tech blog of Bruce Dawson | Forecast for randomascii: programming, tech topics, with a chance of unicycling
+ - [https://randomascii.wordpress.com](https://randomascii.wordpress.com)
+ - date_published: 2023-10-25T18:15:46.058749+00:00
+
+ ## return EWTF;
+ - [https://randomguy3.wordpress.com](https://randomguy3.wordpress.com)
+ - date_published: 2024-07-09T20:01:10.070757+00:00
+
+ ## Randomly Candice
+ - [http://randomlycandice.wordpress.com](http://randomlycandice.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Random Problem (solved)
+ - [https://randomproblem.wordpress.com](https://randomproblem.wordpress.com)
+ - date_published: 2024-10-27T12:28:55.673077+00:00
+
+ ## RandProcNotes
+ - [https://randprocnotes.wordpress.com](https://randprocnotes.wordpress.com)
+ - date_published: 2024-07-11T07:53:49.712398+00:00
+
+ ## Rantings from under the Wargames table
+ - [https://rantingsfromunderthewargamestable.wordpress.com](https://rantingsfromunderthewargamestable.wordpress.com)
+ - date_published: 2024-10-26T17:53:46.904625+00:00
+
+ ## The Zhao Research Group
+ - [https://ranzhaoualberta.wordpress.com](https://ranzhaoualberta.wordpress.com)
+ - date_published: 2024-10-19T04:54:34.916512+00:00
+
+ ## Raoul Pop
+ - [https://raoulpop.wordpress.com](https://raoulpop.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Rapid Oat
+ - [https://rapidoat.wordpress.com](https://rapidoat.wordpress.com)
+ - date_published: 2024-04-30T07:32:55.242595+00:00
+
+ ## Musings on Nature & Items of Interest
+ - [http://raptorgallery.wordpress.com](http://raptorgallery.wordpress.com)
+ - date_published: 2024-10-19T07:05:04.989997+00:00
+
+ ## Cooking in the Archives
+ - [https://rarecooking.wordpress.com](https://rarecooking.wordpress.com)
+ - date_published: 2024-05-07T10:20:08.892218+00:00
+
+ ## Rashid's Blog: Portal for  Inquisitive Learners
+ - [http://rashidfaridi.wordpress.com](http://rashidfaridi.wordpress.com)
+ - date_published: 2024-06-23T10:32:56.611643+00:00
+
+ ## Rashim's Memoir
+ - [https://rashimuddin.wordpress.com](https://rashimuddin.wordpress.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Rascality: Speeches to its Cultured Despisers
+ - [https://raskality.wordpress.com](https://raskality.wordpress.com)
+ - date_published: 2023-10-25T18:15:57.058312+00:00
+
+ ## Ratio Bound – A Combinatorics Blog
+ - [https://ratiobound.wordpress.com](https://ratiobound.wordpress.com)
+ - date_published: 2024-06-30T09:11:05.020448+00:00
+
+ ## rationalinsurgent
+ - [http://rationalinsurgent.wordpress.com](http://rationalinsurgent.wordpress.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Juan Carlos Sánchez Calle
+ - [https://ravened.wordpress.com](https://ravened.wordpress.com)
+ - date_published: 2024-06-17T02:49:41+00:00
+
+ ## Ravens of Alladore
+ - [https://ravensofalladoreblog.wordpress.com](https://ravensofalladoreblog.wordpress.com)
+ - date_published: 2024-07-20T07:26:02+00:00
+
+ ## Rayandmave's Blog
+ - [http://rayandmave.wordpress.com](http://rayandmave.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## EL DIABLO CRIATIVO
+ - [http://razgrizbox.wordpress.com](http://razgrizbox.wordpress.com)
+ - date_published: 2024-09-13T18:06:42.844666+00:00
+
+ ## Building confidence.
+ - [https://rbaltman.wordpress.com](https://rbaltman.wordpress.com)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## rbresearch
+ - [http://rbresearch.wordpress.com](http://rbresearch.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Code happens
+ - [https://rbtcollins.wordpress.com](https://rbtcollins.wordpress.com)
+ - date_published: 2024-05-19T02:44:35.657953+00:00
+
+ ## Science Matters
+ - [http://rclutz.wordpress.com](http://rclutz.wordpress.com)
+ - date_published: 2024-08-19T08:08:20+00:00
+
+ ## Read and Hear
+ - [http://readandhear.wordpress.com](http://readandhear.wordpress.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Radhika's Reading Retreat
+ - [https://readersretreat2017.wordpress.com](https://readersretreat2017.wordpress.com)
+ - date_published: 2024-06-30T05:57:55.431025+00:00
+
+ ## a reader's words
+ - [https://readerswords.wordpress.com](https://readerswords.wordpress.com)
+ - date_published: 2024-10-21T16:49:51.136903+00:00
+
+ ## readerunner
+ - [https://readerunner.wordpress.com](https://readerunner.wordpress.com)
+ - date_published: 2024-07-11T07:50:37.495881+00:00
+
+ ## Imogen is Reading and Watching the World: On Books, Film, Art & More
+ - [https://readingandwatchingtheworldhome.wordpress.com](https://readingandwatchingtheworldhome.wordpress.com)
+ - date_published: 2024-09-17T17:13:13.536372+00:00
+
+ ## Reading in Bed
+ - [https://readinginbeddotcom.wordpress.com](https://readinginbeddotcom.wordpress.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Infernosgarden
+ - [https://readwithinfernosgarden.wordpress.com](https://readwithinfernosgarden.wordpress.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Realize Engineering
+ - [https://realizeengineering.wordpress.com](https://realizeengineering.wordpress.com)
+ - date_published: 2024-08-19T11:03:53.310825+00:00
+
  ## Karissa Reads Books
  - [http://realizinggrace.wordpress.com](http://realizinggrace.wordpress.com)
  - date_published: 2024-09-17T17:23:04.564019+00:00
@@ -3718,298 +4011,4 @@
  ## Thesis By Publication
  - [https://thesisbypublication.wordpress.com](https://thesisbypublication.wordpress.com)
  - date_published: 2024-10-19T11:06:04.978984+00:00
-
- ## The Situationist
- - [http://thesituationist.wordpress.com](http://thesituationist.wordpress.com)
- - date_published: 2024-07-08T09:04:13.575050+00:00
-
- ## The Skeptical Being
- - [https://theskepticalbeing.wordpress.com](https://theskepticalbeing.wordpress.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## ..The Slightly Strange..
- - [http://theslightlystrange.wordpress.com](http://theslightlystrange.wordpress.com)
- - date_published: 2024-09-03T22:59:05.563110+00:00
-
- ## Ashley Blackburn
- - [https://thesomedayfile.wordpress.com](https://thesomedayfile.wordpress.com)
- - date_published: 2024-08-17T22:16:24+00:00
-
- ## Live from the Alamo City
- - [http://thesouthtexaspistolero.wordpress.com](http://thesouthtexaspistolero.wordpress.com)
- - date_published: 2024-07-03T23:35:16+00:00
-
- ## Private Site
- - [http://thesquaredcircle.wordpress.com](http://thesquaredcircle.wordpress.com)
- - date_published: 2024-06-23T10:40:50.214398+00:00
-
- ## TheStarForge
- - [https://thestarforge.wordpress.com](https://thestarforge.wordpress.com)
- - date_published: 2024-09-03T22:15:52.916446+00:00
-
- ## thesterlingmeasure
- - [https://thesterlingmeasure.wordpress.com](https://thesterlingmeasure.wordpress.com)
- - date_published: 2024-07-18T17:17:14.900759+00:00
-
- ## The Stormcast Eternals
- - [http://thestormcasts.wordpress.com](http://thestormcasts.wordpress.com)
- - date_published: 2024-10-26T22:05:37.600162+00:00
-
- ## The StoryTeller
- - [https://thestorytellerpilgrim.wordpress.com](https://thestorytellerpilgrim.wordpress.com)
- - date_published: 2024-08-10T22:22:18.947413+00:00
-
- ## A.D. SUI
- - [https://thesuiway.wordpress.com](https://thesuiway.wordpress.com)
- - date_published: 2024-08-06T11:38:07.052780+00:00
-
- ## thesuncarvault
- - [https://thesuncarvault.wordpress.com](https://thesuncarvault.wordpress.com)
- - date_published: 2024-10-31T17:34:08.378618+00:00
-
- ## The Gospel of Super Jesus
- - [https://thesuperjesus.wordpress.com](https://thesuperjesus.wordpress.com)
- - date_published: 2024-06-28T21:23:12.391932+00:00
-
- ## thesweeheng's weblog
- - [https://thesweeheng.wordpress.com](https://thesweeheng.wordpress.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## The Tao of James
- - [http://thetaoofjames.wordpress.com](http://thetaoofjames.wordpress.com)
- - date_published: 2024-09-03T22:45:02.035184+00:00
-
- ## The Tao Of Wealth – Practical ways to create abundance
- - [https://thetaoofwealth.wordpress.com](https://thetaoofwealth.wordpress.com)
- - date_published: 2023-10-25T18:17:34.886755+00:00
-
- ## The Tattooed Book Geek
- - [http://thetattooedbookgeek.wordpress.com](http://thetattooedbookgeek.wordpress.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Inside the Mind of the T-Bones
- - [http://thetbones.wordpress.com](http://thetbones.wordpress.com)
- - date_published: 2024-10-31T23:22:40.621526+00:00
-
- ## The Tech Trailblazer
- - [https://thetechtrailblazer.wordpress.com](https://thetechtrailblazer.wordpress.com)
- - date_published: 2024-08-19T16:32:29.563697+00:00
-
- ## The Thesis Whisperer
- - [https://thethesiswhisperer.wordpress.com](https://thethesiswhisperer.wordpress.com)
- - date_published: 2024-06-17T14:03:50+00:00
-
- ## The Thinking Aro
- - [http://thethinkingasexual.wordpress.com](http://thethinkingasexual.wordpress.com)
- - date_published: 2024-06-30T05:03:01.938498+00:00
-
- ## The Tragic Community
- - [http://thetragiccommunity.wordpress.com](http://thetragiccommunity.wordpress.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Book-Butterfly
- - [https://thetravelingminstrelandherbooks.wordpress.com](https://thetravelingminstrelandherbooks.wordpress.com)
- - date_published: 2024-09-17T17:40:02.758452+00:00
-
- ## The Truth Or The Fight
- - [http://thetruthorthefight.wordpress.com](http://thetruthorthefight.wordpress.com)
- - date_published: 2024-10-21T14:46:02.631100+00:00
-
- ## Gracious Living
- - [http://thetwomeatmeal.wordpress.com](http://thetwomeatmeal.wordpress.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## The Untranslated
- - [https://theuntranslated.wordpress.com](https://theuntranslated.wordpress.com)
- - date_published: 2024-06-29T07:59:38+00:00
-
- ## The Unwritten Record
- - [https://theunwrittenrecord.wordpress.com](https://theunwrittenrecord.wordpress.com)
- - date_published: 2024-05-04T11:57:42.254719+00:00
-
- ## Velvet Duke Productions
- - [https://thevelvetduke.wordpress.com](https://thevelvetduke.wordpress.com)
- - date_published: 2024-05-06T14:34:44.966486+00:00
-
- ## My journey to neurodivergent joy
- - [http://thevoiceofhealing.wordpress.com](http://thevoiceofhealing.wordpress.com)
- - date_published: 2024-08-31T23:41:06+00:00
-
- ## Bustednuckles
- - [https://thevulgarcurmudgeon.wordpress.com](https://thevulgarcurmudgeon.wordpress.com)
- - date_published: 2024-06-27T09:56:10.220786+00:00
-
- ## The Waiter's Pad
- - [https://thewaiterspad.wordpress.com](https://thewaiterspad.wordpress.com)
- - date_published: 2024-06-26T14:27:08+00:00
-
- ## The Wakes I Leave...
- - [https://thewakesileave.wordpress.com](https://thewakesileave.wordpress.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## THE WAR FOR THE END OF THE WORLD
- - [https://thewarfortheendoftheworld.wordpress.com](https://thewarfortheendoftheworld.wordpress.com)
- - date_published: 2024-10-26T17:51:52.119929+00:00
-
- ## The War Room
- - [http://thewarroomorg.wordpress.com](http://thewarroomorg.wordpress.com)
- - date_published: 2024-06-30T11:04:37.751626+00:00
-
- ## The Rising Tide
- - [https://thewebhaswon.wordpress.com](https://thewebhaswon.wordpress.com)
- - date_published: 2024-06-28T19:57:22.858129+00:00
-
- ## The Whipple Line
- - [https://thewhippleline.wordpress.com](https://thewhippleline.wordpress.com)
- - date_published: 2024-06-15T10:21:17.770061+00:00
-
- ## The Whisper Within
- - [https://thewhisperwithinlive.wordpress.com](https://thewhisperwithinlive.wordpress.com)
- - date_published: 2024-07-21T06:49:16.638767+00:00
-
- ## The whole sky
- - [http://thewholesky.wordpress.com](http://thewholesky.wordpress.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## The Word From Struggle Street
- - [http://thewordfromstrugglestreet.wordpress.com](http://thewordfromstrugglestreet.wordpress.com)
- - date_published: 2024-10-21T16:34:22.849041+00:00
-
- ## The Writer in Black
- - [https://thewriterinblack.wordpress.com](https://thewriterinblack.wordpress.com)
- - date_published: 2024-06-21T09:49:09+00:00
-
- ## The Writes of Womxn
- - [https://thewritesofwoman.wordpress.com](https://thewritesofwoman.wordpress.com)
- - date_published: 2024-09-17T17:22:12.337285+00:00
-
- ## The Year Without Wimbledon
- - [http://theyearwithoutwimbledon.wordpress.com](http://theyearwithoutwimbledon.wordpress.com)
- - date_published: 2024-10-21T23:00:29.034211+00:00
-
- ## Yuan Wang
- - [https://theyuanwangcom.wordpress.com](https://theyuanwangcom.wordpress.com)
- - date_published: 2024-05-06T17:28:14.385255+00:00
-
- ## They Were Out To Get Trump
- - [https://theywereouttogettrump.wordpress.com](https://theywereouttogettrump.wordpress.com)
- - date_published: 2024-07-17T05:42:37.911658+00:00
-
- ## thezoepost
- - [http://thezoepost.wordpress.com](http://thezoepost.wordpress.com)
- - date_published: 2024-07-04T15:13:55.431447+00:00
-
- ## Don't Worry About the Vase | Trying to dig out from minus a million points
- - [https://thezvi.wordpress.com](https://thezvi.wordpress.com)
- - date_published: 2023-10-25T18:17:39.628093+00:00
-
- ## Dacq'Art
- - [http://thierrydacq.wordpress.com](http://thierrydacq.wordpress.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Thing of Things
- - [https://thingofthings.wordpress.com](https://thingofthings.wordpress.com)
- - date_published: 2024-05-02T09:54:28.074454+00:00
-
- ## Private Site
- - [https://thingsbreak.wordpress.com](https://thingsbreak.wordpress.com)
- - date_published: 2024-06-30T02:32:49.689702+00:00
-
- ## Things I read
- - [https://thingsireaddotblog.wordpress.com](https://thingsireaddotblog.wordpress.com)
- - date_published: 2024-10-16T20:37:44.697526+00:00
-
- ## Things That Go Bump
- - [http://thingsthatgobumpblog.wordpress.com](http://thingsthatgobumpblog.wordpress.com)
- - date_published: 2024-10-19T11:04:28.758161+00:00
-
- ## What I Think About When I Think About Reading
- - [https://thinkaboutreading.wordpress.com](https://thinkaboutreading.wordpress.com)
- - date_published: 2024-06-15T10:19:29+00:00
-
- ## Private Site
- - [http://thinkinginriddles.wordpress.com](http://thinkinginriddles.wordpress.com)
- - date_published: 2024-07-03T22:02:50.258233+00:00
-
- ## ThinkMarkets
- - [https://thinkmarkets.wordpress.com](https://thinkmarkets.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## thinkwhere
- - [http://thinkwhere.wordpress.com](http://thinkwhere.wordpress.com)
- - date_published: 2024-07-08T12:52:08.867974+00:00
-
- ## This Builds Character
- - [https://thisbuildscharacter.wordpress.com](https://thisbuildscharacter.wordpress.com)
- - date_published: 2024-05-06T18:10:33.914234+00:00
-
- ## This Condensed Life
- - [https://thiscondensedlife.wordpress.com](https://thiscondensedlife.wordpress.com)
- - date_published: 2024-05-07T15:14:30.143646+00:00
-
- ## This Fine Place
- - [https://thisfineplace.wordpress.com](https://thisfineplace.wordpress.com)
- - date_published: 2023-11-29T17:18:49.482246+00:00
- - tags: ['personal']
-
- ## This is for you, Carrie
- - [http://thisisforyoucarrie.wordpress.com](http://thisisforyoucarrie.wordpress.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## this many kittens
- - [http://thismanykittens.wordpress.com](http://thismanykittens.wordpress.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## This Recording
- - [http://thisrecording.wordpress.com](http://thisrecording.wordpress.com)
- - date_published: 2024-10-21T05:11:13.209530+00:00
-
- ## Mary Jo Gibson
- - [https://thiswritelife.wordpress.com](https://thiswritelife.wordpress.com)
- - date_published: 2024-05-06T16:59:56.594362+00:00
- - tags: ['personal', 'history']
-
- ## Theory Matters
- - [https://thmatters.wordpress.com](https://thmatters.wordpress.com)
- - date_published: 2024-06-22T10:54:08.819364+00:00
-
- ## episodic thoughts
- - [http://thomas1111.wordpress.com](http://thomas1111.wordpress.com)
- - date_published: 2024-06-21T21:18:02+00:00
-
- ## Adventures in Signal Processing and Open Science
- - [https://thomasdotarildsendotorg.wordpress.com](https://thomasdotarildsendotorg.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Just Thomism
- - [https://thomism.wordpress.com](https://thomism.wordpress.com)
- - date_published: 2024-08-19T09:41:41.962052+00:00
-
- ## The Renaissance Mathematicus
- - [https://thonyc.wordpress.com](https://thonyc.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Thorwil's
- - [http://thorwil.wordpress.com](http://thorwil.wordpress.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Thoughts From A White Man
- - [http://thoughtsfromawhiteman.wordpress.com](http://thoughtsfromawhiteman.wordpress.com)
- - date_published: 2024-09-03T23:03:11.926966+00:00
-
- ## Private Site
- - [https://thoughtsonmilitaryhistory.files.wordpress.com](https://thoughtsonmilitaryhistory.files.wordpress.com)
- - date_published: 2024-06-24T10:18:37.939239+00:00
-
- ## Private Site
- - [https://thoughtsonmilitaryhistory.wordpress.com](https://thoughtsonmilitaryhistory.wordpress.com)
- - date_published: 2024-06-24T10:17:41.277821+00:00
-
- ## thousandiy
- - [https://thousandiy.wordpress.com](https://thousandiy.wordpress.com)
- - date_published: 2024-09-05T18:28:20.937175+00:00
-
- ## Meandering in the Middle East
- - [https://thowesward.wordpress.com](https://thowesward.wordpress.com)
- - date_published: 2024-01-22T10:09:15.885150+00:00
 

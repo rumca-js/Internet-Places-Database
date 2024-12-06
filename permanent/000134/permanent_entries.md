@@ -1,3 +1,92 @@
+ ## Home - KTVZ
+ - [https://ktvz.com](https://ktvz.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Abilene News, Weather, Sports, Breaking News
+ - [https://ktxs.com](https://ktxs.com)
+ - date_published: 2024-10-29T06:09:03.578792+00:00
+
+ ## Marcin Kulik
+ - [https://ku1ik.com](https://ku1ik.com)
+ - date_published: 2024-08-06T09:39:48.571573+00:00
+
+ ## KUAF Public Radio
+ - [https://www.kuaf.com](https://www.kuaf.com)
+ - date_published: 2024-07-09T20:28:48.768758+00:00
+
+ ## 会计网 - 会计行业门户网站，始于1996年
+ - [https://www.kuaiji.com](https://www.kuaiji.com)
+ - date_published: 2024-10-25T10:16:39.399518+00:00
+
+ ## 快剪辑官网-好用的视频剪辑软件|电脑在线视频剪辑工具！
+ - [https://www.kuaijianji.com](https://www.kuaijianji.com)
+ - date_published: 2024-07-12T19:38:13.252017+00:00
+
+ ## 快解析官网 - 免费内网穿透工具-动态域名解析-无需公网ip-金万维快解析
+ - [https://www.kuaijiexi.com](https://www.kuaijiexi.com)
+ - date_published: 2024-07-04T16:05:14.784722+00:00
+
+ ## 快手创作者服务平台
+ - [https://cp.kuaishou.com](https://cp.kuaishou.com)
+ - date_published: 2024-06-07T15:19:57.483890+00:00
+
+ ## 可灵大模型
+ - [https://kling.kuaishou.com](https://kling.kuaishou.com)
+ - date_published: 2024-06-07T08:34:41.098997+00:00
+
+ ## 精彩推荐-快手
+ - [http://kuaishou.com](http://kuaishou.com)
+ - date_published: 2024-06-07T15:18:27+00:00
+ - tags: ['social platform']
+
+ ## 快手直播_发现好玩有趣的游戏
+ - [https://live.kuaishou.com](https://live.kuaishou.com)
+ - date_published: 2024-06-07T15:19:51.586842+00:00
+
+ ## onvideo快手云剪-快手官方在线视频创作平台
+ - [https://onvideo.kuaishou.com](https://onvideo.kuaishou.com)
+ - date_published: 2024-09-04T19:27:51.515682+00:00
+
+ ## 精彩推荐-快手
+ - [https://pay.ssl.kuaishou.com](https://pay.ssl.kuaishou.com)
+ - date_published: 2024-06-07T15:19:55.677129+00:00
+
+ ## 快压-压缩和解压缩利器
+ - [http://kuaizip.com](http://kuaizip.com)
+ - date_published: 2024-06-29T17:09:50.799562+00:00
+
+ ## Kuali.com - Recipes, Food and Restaurant Reviews, Cooking Hacks...
+ - [https://www.kuali.com](https://www.kuali.com)
+ - date_published: 2024-09-10T08:03:32.516040+00:00
+
+ ## Kuali
+ - [https://ucsd.kualibuild.com](https://ucsd.kualibuild.com)
+ - date_published: 2024-10-14T19:00:29+00:00
+
+ ## MyKualo - Kualo Customer Area Login
+ - [https://my.kualo.com](https://my.kualo.com)
+ - date_published: 2024-05-06T21:47:01.548959+00:00
+
+ ## Personal Budget & Cash Flow Forecasting (App & Web) | Kualto
+ - [https://www.kualto.com](https://www.kualto.com)
+ - date_published: 2018-12-22T00:00:00+00:00
+
+ ## Kuarzo – Entertainment In Argentina
+ - [http://www.kuarzo.com](http://www.kuarzo.com)
+ - date_published: 2024-06-28T15:58:58.045124+00:00
+
+ ## Kansas Jayhawks
+ - [https://kuathletics.com](https://kuathletics.com)
+ - date_published: 2024-07-01T12:36:23.390781+00:00
+
+ ## Jacob Martin
+ - [https://kubamartin.com](https://kubamartin.com)
+ - date_published: 2024-08-19T08:34:18.175093+00:00
+
+ ## Kubanda Cryotherapy
+ - [https://kubandacryotherapy.com](https://kubandacryotherapy.com)
+ - date_published: 2024-07-09T09:58:16.776920+00:00
+
  ## Kubbix | Digital Powered
  - [https://kubbix.com](https://kubbix.com)
  - date_published: 2024-02-14T20:53:32+00:00
@@ -504,7 +593,7 @@
  ## Welcome to Kurator
  - [https://kurator.com](https://kurator.com)
  - date_published: 2024-02-10T00:00:00+00:00
- - tags: ['rss client']
+ - tags: ['historical films']
 
  ## The Evolution of Slot Machines: A Detailed Journey
  - [http://kurdishquestion.com](http://kurdishquestion.com)
@@ -1203,6 +1292,10 @@
  ## The Kyiv Independent Store
  - [https://store.kyivindependent.com](https://store.kyivindependent.com)
  - date_published: 2024-10-28T05:24:05.472557+00:00
+
+ ## Home - Kyiv Insider
+ - [https://kyivinsider.com](https://kyivinsider.com)
+ - date_published: 2024-12-06T00:58:53+00:00
 
  ## Get the Latest Ukraine News Today - KyivPost
  - [https://kyivpost.com](https://kyivpost.com)
@@ -2480,6 +2573,10 @@
  ## LaineeMakes
  - [https://laineemakes.com](https://laineemakes.com)
  - date_published: 2024-05-09T07:23:53.547295+00:00
+
+ ## La Información Económica: actualidad económica de mercados y bolsas
+ - [https://www.lainformacion.com](https://www.lainformacion.com)
+ - date_published: 2024-12-05T07:23:40.590841+00:00
 
  ## lainspotting
  - [http://www.lainspotting.com](http://www.lainspotting.com)
@@ -3935,101 +4032,4 @@
  - [https://laravel.com](https://laravel.com)
  - date_published: 2024-05-01T00:28:51.363668+00:00
  - tags: ['php', 'programming framework']
-
- ## Livewire | Laravel
- - [https://livewire.laravel.com](https://livewire.laravel.com)
- - date_published: 2024-05-02T12:27:44.153606+00:00
-
- ## Laravel Nova -
-        Beautifully-designed administration panel for Laravel
- - [https://nova.laravel.com](https://nova.laravel.com)
- - date_published: 2024-06-11T08:56:50.811799+00:00
-
- ## Laravel Partners
- - [https://partners.laravel.com](https://partners.laravel.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Laravel Pulse - Vital signs in real-time
- - [https://pulse.laravel.com](https://pulse.laravel.com)
- - date_published: 2024-06-11T08:56:25.539995+00:00
-
- ## Laravel Reverb - Real-time WebSocket
- - [https://reverb.laravel.com](https://reverb.laravel.com)
- - date_published: 2024-06-11T08:56:29.431575+00:00
-
- ## Laravel Spark
- - [https://spark-classic.laravel.com](https://spark-classic.laravel.com)
- - date_published: 2024-09-09T16:30:22.221514+00:00
-
- ## Laravel Spark
- - [https://spark.laravel.com](https://spark.laravel.com)
- - date_published: 2024-05-09T08:38:54.996455+00:00
-
- ## Deploy your Laravel PHP application to the cloud
- - [https://vapor.laravel.com](https://vapor.laravel.com)
- - date_published: 2024-06-11T08:56:23.421975+00:00
-
- ## Building larger-than-average web applications
- - [https://laravel-beyond-crud.com](https://laravel-beyond-crud.com)
- - date_published: 2024-09-09T16:33:54.583023+00:00
-
- ## Laravel Daily
- - [https://laraveldaily.com](https://laraveldaily.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Laravel Idea
- - [https://laravel-idea.com](https://laravel-idea.com)
- - date_published: 2024-08-11T21:08:27+00:00
-
- ## Livewire | Livewire
- - [https://laravel-livewire.com](https://laravel-livewire.com)
- - date_published: 2024-05-04T05:59:11.572097+00:00
-
- ## Laravel Mix
- - [https://laravel-mix.com](https://laravel-mix.com)
- - date_published: 2024-07-14T00:30:15+00:00
-
- ## Laravel News
- - [https://feed.laravel-news.com](https://feed.laravel-news.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Laravel News
- - [https://laravel-news.com](https://laravel-news.com)
- - date_published: 2023-10-25T15:41:11.614231+00:00
-
- ## Laravel News Podcast
- - [https://podcast.laravel-news.com](https://podcast.laravel-news.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Laravel Newsletter
- - [https://laravelnewsletter.com](https://laravelnewsletter.com)
- - date_published: 2024-07-19T20:00:06.171128+00:00
-
- ## The Laravel Podcast
- - [https://laravelpodcast.com](https://laravelpodcast.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Blueprint
- - [https://blueprint.laravelshift.com](https://blueprint.laravelshift.com)
- - date_published: 2024-02-21T14:28:29+00:00
-
- ## Laravel Shift
- - [https://laravelshift.com](https://laravelshift.com)
- - date_published: 2024-05-02T12:28:17.568654+00:00
-
- ## Code snippets, tips and tricks for Laravel PHP framework
- - [https://laravel-tricks.com](https://laravel-tricks.com)
- - date_published: 2024-06-18T10:24:04.651313+00:00
-
- ## Laravel Up & Running - An O'Reilly book from Matt Stauffer
- - [https://laravelupandrunning.com](https://laravelupandrunning.com)
- - date_published: 2024-06-18T10:24:11.724321+00:00
-
- ## Home | La Raza del Noroeste
- - [https://www.larazanw.com](https://www.larazanw.com)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Lara Zeus Demo App
- - [https://demo.larazeus.com](https://demo.larazeus.com)
- - date_published: 2024-10-28T23:37:25.565199+00:00
 

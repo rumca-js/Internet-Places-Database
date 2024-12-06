@@ -1,3 +1,23 @@
+ ## Puerto de Santa Marta
+ - [https://www.spsm.com.co](https://www.spsm.com.co)
+ - date_published: 2024-09-10T21:32:44.171955+00:00
+
+ ## Tarjeta de Credito Olímpica - Banco Serfinansa
+ - [https://tarjetaolimpica.com.co](https://tarjetaolimpica.com.co)
+ - date_published: 2024-09-10T23:23:33.084816+00:00
+
+ ## thefork.com.co
+ - [https://www.thefork.com.co](https://www.thefork.com.co)
+ - date_published: 2024-09-10T21:38:11.721921+00:00
+
+ ## The Guardian | Solución de biometría
+ - [https://www.theguardian.com.co](https://www.theguardian.com.co)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Top Doctors | Para tu tranquilidad, sólo los mejores médicos | Top Doctors
+ - [https://www.topdoctors.com.co](https://www.topdoctors.com.co)
+ - date_published: 2024-09-06T12:46:08.312865+00:00
+
  ## Transfiya - transfiya.com.co
  - [https://www.transfiya.com.co](https://www.transfiya.com.co)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -3998,27 +4018,4 @@
  ## 300.codes • software development agency
  - [https://300.codes](https://300.codes)
  - date_published: 2024-02-29T00:00:00+00:00
-
- ## Aidan Follestad's Site
- - [https://af.codes](https://af.codes)
- - date_published: 2024-03-25T21:30:22+00:00
-
- ## Posts | Andrew Jorgensen
- - [https://aj.codes](https://aj.codes)
- - date_published: 2023-10-25T09:07:57.863652+00:00
- - tags: ['personal']
-
- ## aleksandra.codes
- - [https://aleksandra.codes](https://aleksandra.codes)
- - date_published: 2024-04-30T07:16:44.886150+00:00
- - tags: ['personal']
-
- ## Welcome!
- - [https://alvin.codes](https://alvin.codes)
- - date_published: 2023-12-17T05:07:17.833775+00:00
- - tags: ['personal']
-
- ## Ammar Alakkad
- - [https://ammar.codes](https://ammar.codes)
- - date_published: 2024-05-11T10:07:47.185252+00:00
 

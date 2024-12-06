@@ -1,3 +1,31 @@
+ ## I Like Eclipse
+ - [http://eclipse-info.blogspot.com](http://eclipse-info.blogspot.com)
+ - date_published: 2024-03-19T04:41:44+00:00
+
+ ## EclipseLink Team Blog
+ - [http://eclipselink.blogspot.com](http://eclipselink.blogspot.com)
+ - date_published: 2024-03-05T08:58:16+00:00
+
+ ## Eclipse from the bottom up
+ - [http://eclipselowdown.blogspot.com](http://eclipselowdown.blogspot.com)
+ - date_published: 2024-03-07T06:30:54+00:00
+
+ ## Eclipse mde
+ - [http://eclipsemde.blogspot.com](http://eclipsemde.blogspot.com)
+ - date_published: 2024-05-04T02:05:49+00:00
+
+ ## Eclipse Eco System
+ - [http://eclipse-membership.blogspot.com](http://eclipse-membership.blogspot.com)
+ - date_published: 2024-07-14T20:59:48+00:00
+
+ ## Modeling Eclipse
+ - [http://eclipse-modeling.blogspot.com](http://eclipse-modeling.blogspot.com)
+ - date_published: 2024-03-05T05:43:07+00:00
+
+ ## Mati@GSOC
+ - [http://eclipse-n-mati.blogspot.com](http://eclipse-n-mati.blogspot.com)
+ - date_published: 2024-03-20T05:38:41+00:00
+
  ## Its Eclipse in Clips ...
  - [http://eclipseo.blogspot.com](http://eclipseo.blogspot.com)
  - date_published: 2024-07-08T09:50:58+00:00
@@ -3983,32 +4011,4 @@
  ## Grumpy Painting Git
  - [https://grumpypaintinggit.blogspot.com](https://grumpypaintinggit.blogspot.com)
  - date_published: 2021-08-21T00:00:00+00:00
-
- ## Grumpy Wargamer
- - [http://grumpywargamer.blogspot.com](http://grumpywargamer.blogspot.com)
- - date_published: 2024-10-07T05:59:45+00:00
-
- ## Warsztat Krasnoluda
- - [http://grungnargundrikson.blogspot.com](http://grungnargundrikson.blogspot.com)
- - date_published: 2024-03-14T04:51:59+00:00
-
- ## It's Grymn Out There.
- - [http://grymnoutthere.blogspot.com](http://grymnoutthere.blogspot.com)
- - date_published: 2024-02-19T01:54:33+00:00
-
- ## Gryphon Scratches
- - [http://gryphonscratches.blogspot.com](http://gryphonscratches.blogspot.com)
- - date_published: 2024-03-08T20:00:39+00:00
-
- ## Blogger
- - [http://gsaartdesign.blogspot.com](http://gsaartdesign.blogspot.com)
- - date_published: 2024-10-29T18:52:04.721963+00:00
-
- ## GSoC 2013 - Communicating with Mobile Devices
- - [http://gsoc2013cwithmobiledevices.blogspot.com](http://gsoc2013cwithmobiledevices.blogspot.com)
- - date_published: 2024-03-05T23:51:39+00:00
-
- ## sugarbot
- - [http://gsoc-sugarbot.blogspot.com](http://gsoc-sugarbot.blogspot.com)
- - date_published: 2008-12-16T21:01:00+00:00
 

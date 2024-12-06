@@ -1,3 +1,23 @@
+ ## 兵团文化体育广电和旅游局
+ - [http://wtgl.xjbt.gov.cn](http://wtgl.xjbt.gov.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 新疆生产建设兵团
+ - [http://www.xjbt.gov.cn](http://www.xjbt.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 兵团应急管理局
+ - [http://yjglj.xjbt.gov.cn](http://yjglj.xjbt.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 兵团长安网
+ - [http://zfw.xjbt.gov.cn](http://zfw.xjbt.gov.cn)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## 新疆维吾尔自治区纪委监委
+ - [http://www.xjjw.gov.cn](http://www.xjjw.gov.cn)
+ - date_published: 2024-06-30T13:53:52.935952+00:00
+
  ## 中共新疆维吾尔自治区委员会统一战线工作部
  - [http://www.xjtzb.gov.cn](http://www.xjtzb.gov.cn)
  - date_published: 2024-06-30T20:40:50.828089+00:00
@@ -3997,24 +4017,4 @@
  ## Coinvise
  - [https://coinvise.co](https://coinvise.co)
  - date_published: 2024-06-16T03:37:03.901580+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://jobs.coinvise.co](https://jobs.coinvise.co)
- - date_published: 2024-09-20T22:13:32+00:00
-
- ## Amplify Colorado
- - [https://amplifycolorado.colabnews.co](https://amplifycolorado.colabnews.co)
- - date_published: 2024-07-07T05:13:39.674569+00:00
-
- ## Welcome
- - [https://colabnews.co](https://colabnews.co)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Collage
- - [https://secure.collage.co](https://secure.collage.co)
- - date_published: 2024-09-16T10:15:11.727975+00:00
-
- ## Best Canadian HRMS (HR Software) - Collage HR
- - [https://www.collage.co](https://www.collage.co)
- - date_published: 2024-09-04T00:00:00+00:00
 

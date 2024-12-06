@@ -1,3 +1,31 @@
+ ## The Accidental Environmentalist
+ - [http://theaccidentalenvironmentalist.blogspot.com](http://theaccidentalenvironmentalist.blogspot.com)
+ - date_published: 2024-03-07T08:07:53+00:00
+
+ ## The Acetone Pit
+ - [http://theacetonepit.blogspot.com](http://theacetonepit.blogspot.com)
+ - date_published: 2024-08-28T04:55:22+00:00
+
+ ## theadventuresofcabrito
+ - [http://theadventuresofcabrito.blogspot.com](http://theadventuresofcabrito.blogspot.com)
+ - date_published: 2024-09-20T11:13:58+00:00
+
+ ## The Aircav Saga
+ - [http://theaircavsaga.blogspot.com](http://theaircavsaga.blogspot.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## TheAmbit's Hobby Blog
+ - [http://theambit.blogspot.com](http://theambit.blogspot.com)
+ - date_published: 2024-06-13T17:20:33+00:00
+
+ ## The American Individualist
+ - [http://theamericanindividualist.blogspot.com](http://theamericanindividualist.blogspot.com)
+ - date_published: 2024-03-05T19:13:06+00:00
+
+ ## Google Translate
+ - [http://theamericanjingoist.blogspot.com](http://theamericanjingoist.blogspot.com)
+ - date_published: 2023-12-28T06:57:33+00:00
+
  ## The Ancient's Den
  - [https://theancientsden.blogspot.com](https://theancientsden.blogspot.com)
  - date_published: 2024-05-13T12:08:00+00:00
@@ -3980,32 +4008,4 @@
  ## Wargaming Mechanics
  - [http://wargaming-mechanics.blogspot.com](http://wargaming-mechanics.blogspot.com)
  - date_published: 2024-09-18T08:49:19+00:00
-
- ## Wargaming with Barks
- - [http://wargamingwithbarks.blogspot.com](http://wargamingwithbarks.blogspot.com)
- - date_published: 2024-07-19T12:38:10+00:00
-
- ## Wargaming With Lead Ferrari's
- - [http://wargamingwithleadferraris.blogspot.com](http://wargamingwithleadferraris.blogspot.com)
- - date_published: 2024-03-14T07:42:49+00:00
-
- ## Wargaming with Silver Whistle
- - [http://wargamingwithsilverwhistle.blogspot.com](http://wargamingwithsilverwhistle.blogspot.com)
- - date_published: 2024-07-09T05:50:54+00:00
-
- ## Warhammer 40k Miniatures in Guatemala
- - [http://wargt.blogspot.com](http://wargt.blogspot.com)
- - date_published: 2024-09-10T03:09:50+00:00
-
- ## Warhammer 40,000 Rogue Trader Blog
- - [http://warhammer40000roguetrader.blogspot.com](http://warhammer40000roguetrader.blogspot.com)
- - date_published: 2024-05-19T03:08:43+00:00
-
- ## The Blood Angels: by Jawaballs
- - [http://warhammer40kbloodangels.blogspot.com](http://warhammer40kbloodangels.blogspot.com)
- - date_published: 2024-07-13T05:55:04+00:00
-
- ## The Ravens Claw
- - [http://warhammer40korks.blogspot.com](http://warhammer40korks.blogspot.com)
- - date_published: 2024-09-16T07:46:59+00:00
 

@@ -1,3 +1,23 @@
+ ## Rizoma | Dario Castañé | Substack
+ - [https://rizoma.dario.cat](https://rizoma.dario.cat)
+ - date_published: 2024-07-10T08:32:41.303453+00:00
+
+ ## Diari de Girona: últimes notícies de Girona, les comarques gironines i el món
+ - [https://www.diaridegirona.cat](https://www.diaridegirona.cat)
+ - date_published: 2024-10-14T20:49:01+00:00
+
+ ## diccionari.cat | diccionari.cat
+ - [https://www.diccionari.cat](https://www.diccionari.cat)
+ - date_published: 2024-06-30T02:02:41+00:00
+
+ ## Som el teu punt de partida
+ - [https://domini.cat](https://domini.cat)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## EINA Centre Universitari de Disseny i Art de Barcelona
+ - [http://eina.cat](http://eina.cat)
+ - date_published: 2024-07-13T00:19:27+00:00
+
  ## Club El Nacional
  - [https://club.elnacional.cat](https://club.elnacional.cat)
  - date_published: 2024-10-30T14:15:16+00:00
@@ -4016,25 +4036,4 @@
  ## Home - TS3 Identity generator
  - [https://identity.ayra.ch](https://identity.ayra.ch)
  - date_published: 2017-09-26T16:39:10+00:00
-
- ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
- - [https://2018.babyinktwice.ch](https://2018.babyinktwice.ch)
- - date_published: 2024-10-29T13:48:35.409227+00:00
-
- ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
- - [http://babyinktwice.ch](http://babyinktwice.ch)
- - date_published: 2024-06-19T16:18:23.201061+00:00
-
- ## Badesaison Studio
- - [https://badesaison.ch](https://badesaison.ch)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Baggenstos/Rudolf
- - [http://www.baggenstos-rudolf.ch](http://www.baggenstos-rudolf.ch)
- - date_published: 2024-06-18T12:07:34+00:00
-
- ## Hicham BAKIR -
-        Accueil
- - [https://bakir.ch](https://bakir.ch)
- - date_published: 2024-05-09T08:19:24.886720+00:00
 

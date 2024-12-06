@@ -1,3 +1,15 @@
+ ## Welltested AI - Unit, Widget and Integration Tests for Flutter
+ - [https://www.welltested.ai](https://www.welltested.ai)
+ - date_published: 2024-10-30T07:26:34.446167+00:00
+
+ ## WeRide 文远知行 - To Transform Urban Living with Autonomous Driving
+ - [https://www.weride.ai](https://www.weride.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## AI Creative Studio & Image Editing for E-Commerce | WeShop AI
+ - [https://www.weshop.ai](https://www.weshop.ai)
+ - date_published: 2024-10-30T18:28:25.387017+00:00
+
  ## WEVO | Effortless UX Research for Teams
  - [https://wevo.ai](https://wevo.ai)
  - date_published: 2024-10-30T07:04:42.190777+00:00
@@ -4007,16 +4019,4 @@
  ## Happy Bob turns diabetes data into rewarding experiences and better health
  - [https://happybob.app](https://happybob.app)
  - date_published: 2024-10-17T05:51:28.387223+00:00
-
- ## Hardcover
- - [https://hardcover.app](https://hardcover.app)
- - date_published: 2024-05-07T14:34:18.728544+00:00
-
- ## Mastodon
- - [https://mastodon.hardcover.app](https://mastodon.hardcover.app)
- - date_published: 2024-06-29T23:26:16.950334+00:00
-
- ## Hardcover Feedback
- - [https://roadmap.hardcover.app](https://roadmap.hardcover.app)
- - date_published: 2024-06-29T23:26:16.054530+00:00
 

@@ -1,3 +1,100 @@
+ ## Livewire | Laravel
+ - [https://livewire.laravel.com](https://livewire.laravel.com)
+ - date_published: 2024-05-02T12:27:44.153606+00:00
+
+ ## Laravel Nova -
+        Beautifully-designed administration panel for Laravel
+ - [https://nova.laravel.com](https://nova.laravel.com)
+ - date_published: 2024-06-11T08:56:50.811799+00:00
+
+ ## Laravel Partners
+ - [https://partners.laravel.com](https://partners.laravel.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Laravel Pulse - Vital signs in real-time
+ - [https://pulse.laravel.com](https://pulse.laravel.com)
+ - date_published: 2024-06-11T08:56:25.539995+00:00
+
+ ## Laravel Reverb - Real-time WebSocket
+ - [https://reverb.laravel.com](https://reverb.laravel.com)
+ - date_published: 2024-06-11T08:56:29.431575+00:00
+
+ ## Laravel Spark
+ - [https://spark-classic.laravel.com](https://spark-classic.laravel.com)
+ - date_published: 2024-09-09T16:30:22.221514+00:00
+
+ ## Laravel Spark
+ - [https://spark.laravel.com](https://spark.laravel.com)
+ - date_published: 2024-05-09T08:38:54.996455+00:00
+
+ ## Deploy your Laravel PHP application to the cloud
+ - [https://vapor.laravel.com](https://vapor.laravel.com)
+ - date_published: 2024-06-11T08:56:23.421975+00:00
+
+ ## Building larger-than-average web applications
+ - [https://laravel-beyond-crud.com](https://laravel-beyond-crud.com)
+ - date_published: 2024-09-09T16:33:54.583023+00:00
+
+ ## Laravel Daily
+ - [https://laraveldaily.com](https://laraveldaily.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Laravel Idea
+ - [https://laravel-idea.com](https://laravel-idea.com)
+ - date_published: 2024-08-11T21:08:27+00:00
+
+ ## Livewire | Livewire
+ - [https://laravel-livewire.com](https://laravel-livewire.com)
+ - date_published: 2024-05-04T05:59:11.572097+00:00
+
+ ## Laravel Mix
+ - [https://laravel-mix.com](https://laravel-mix.com)
+ - date_published: 2024-07-14T00:30:15+00:00
+
+ ## Laravel News
+ - [https://feed.laravel-news.com](https://feed.laravel-news.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date_published: 2023-10-25T15:41:11.614231+00:00
+
+ ## Laravel News Podcast
+ - [https://podcast.laravel-news.com](https://podcast.laravel-news.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Laravel Newsletter
+ - [https://laravelnewsletter.com](https://laravelnewsletter.com)
+ - date_published: 2024-07-19T20:00:06.171128+00:00
+
+ ## The Laravel Podcast
+ - [https://laravelpodcast.com](https://laravelpodcast.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Blueprint
+ - [https://blueprint.laravelshift.com](https://blueprint.laravelshift.com)
+ - date_published: 2024-02-21T14:28:29+00:00
+
+ ## Laravel Shift
+ - [https://laravelshift.com](https://laravelshift.com)
+ - date_published: 2024-05-02T12:28:17.568654+00:00
+
+ ## Code snippets, tips and tricks for Laravel PHP framework
+ - [https://laravel-tricks.com](https://laravel-tricks.com)
+ - date_published: 2024-06-18T10:24:04.651313+00:00
+
+ ## Laravel Up & Running - An O'Reilly book from Matt Stauffer
+ - [https://laravelupandrunning.com](https://laravelupandrunning.com)
+ - date_published: 2024-06-18T10:24:11.724321+00:00
+
+ ## Home | La Raza del Noroeste
+ - [https://www.larazanw.com](https://www.larazanw.com)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Lara Zeus Demo App
+ - [https://demo.larazeus.com](https://demo.larazeus.com)
+ - date_published: 2024-10-28T23:37:25.565199+00:00
+
  ## Lara Zeus | filamentphp free and premium plugin, and open source laravel packages
  - [https://larazeus.com](https://larazeus.com)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -3537,6 +3634,10 @@ Chamber Music, Symphony
  - [https://www.learnstage.com](https://www.learnstage.com)
  - date_published: 2024-03-30T00:00:00+00:00
 
+ ## Learn The Piano with The Piano Guys Note Reading Bootcamp!
+ - [https://www.learnthepiano.com](https://www.learnthepiano.com)
+ - date_published: 2024-12-05T07:21:24.969153+00:00
+
  ## Learn TLA+ — Learn TLA+
  - [https://learntla.com](https://learntla.com)
  - date_published: 2023-10-25T15:44:15.064986+00:00
@@ -3934,107 +4035,4 @@ LearnWorlds
  ## Monadnock Ledger-Transcript
  - [https://ledgertranscript.com](https://ledgertranscript.com)
  - date_published: 2024-05-08T06:15:03.290911+00:00
-
- ## Monadnock Ledger-Transcript | Local ads in Peterborough, NH
- - [https://local.ledgertranscript.com](https://local.ledgertranscript.com)
- - date_published: 2024-07-04T11:19:14.030918+00:00
-
- ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
- - [https://www.ledgerwallet.com](https://www.ledgerwallet.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Ledgy | We make equity work
- - [https://ledgy.com](https://ledgy.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 乐调查-问卷调查_调查问卷_制作问卷
- - [https://www.lediaocha.com](https://www.lediaocha.com)
- - date_published: 2024-08-06T10:51:37.684342+00:00
-
- ## Cosmétique de Luxe - Beau Domaine Skincare
- - [https://le-domaine.com](https://le-domaine.com)
- - date_published: 2024-11-08T10:03:03.858994+00:00
-
- ## Ledsreact
- - [https://www.ledsreact.com](https://www.ledsreact.com)
- - date_published: 2024-09-02T09:50:40.808445+00:00
-
- ## collection of jan aman, le duchamp .com by rafaël rozendaal, 2008
- - [https://www.leduchamp.com](https://www.leduchamp.com)
- - date_published: 2023-04-11T12:11:30+00:00
-
- ## Corporate website
- - [https://www.ledvance.com](https://www.ledvance.com)
- - date_published: 2024-10-15T16:40:19.601421+00:00
-
- ## Items for sale by harrismix | eBay
- - [http://www.led-watch.com](http://www.led-watch.com)
- - date_published: 2024-11-16T20:13:35.680425+00:00
-
- ## Led Zeppelin Discography - Official Website
- - [https://discography.ledzeppelin.com](https://discography.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:24.085996+00:00
-
- ## Led Zeppelin Official Forum
- - [https://forums.ledzeppelin.com](https://forums.ledzeppelin.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Led Zeppelin | Official Website Official Website
- - [https://ledzeppelin.com](https://ledzeppelin.com)
- - date_published: 2024-06-04T09:39:54+00:00
- - tags: ['music band']
-
- ## Led Zeppelin - Official Website
- - [https://merch.ledzeppelin.com](https://merch.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:22.125974+00:00
-
- ## Led Zeppelin - All Products
- - [https://store.ledzeppelin.com](https://store.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:25.789039+00:00
-
- ## Multicultural Children's Book Publisher
- | Lee & Low Books
- - [http://www.leeandlow.com](http://www.leeandlow.com)
- - date_published: 2024-07-04T15:14:18.610985+00:00
-
- ## Homes for Sale at the Delaware Beaches | The Lee Ann Wilkinson Group
- - [http://leeanngroup.com](http://leeanngroup.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home
- - [http://www.lee-associates.com](http://www.lee-associates.com)
- - date_published: 2024-10-27T23:53:13+00:00
-
- ## Welcome to leewebapps.leeaws.com
- - [https://leeaws.com](https://leeaws.com)
- - date_published: 2023-01-26T21:43:49+00:00
-
- ## Little Short Bulletins | Likely Some Balderdash
- - [https://www.leebutterman.com](https://www.leebutterman.com)
- - date_published: 2023-10-25T15:44:26.549554+00:00
-
- ## Lee Byron
- - [https://leebyron.com](https://leebyron.com)
- - date_published: 2023-10-25T15:44:27.988608+00:00
- - tags: ['personal']
-
- ## Home - US - JackReacher.com
- - [http://www.leechild.com](http://www.leechild.com)
- - date_published: 2024-08-18T03:31:24.088964+00:00
-
- ## LEED Online
- - [https://leedonline.com](https://leedonline.com)
- - date_published: 2024-06-20T13:00:53.587834+00:00
-
- ## Bramham Park » 21 – 25 August 2024
- - [https://www.leedsfestival.com](https://www.leedsfestival.com)
- - date_published: 2024-06-25T16:49:22.365844+00:00
-
- ## Home
- - [https://www.leedsfilm.com](https://www.leedsfilm.com)
- - date_published: 2024-09-06T21:55:21.085028+00:00
-
- ## University of Leeds // clothing, gifts, merchandise
- - [https://www.leedsgear.com](https://www.leedsgear.com)
- - date_published: 2024-06-17T18:09:08.258893+00:00
 

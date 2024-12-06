@@ -1,3 +1,15 @@
+ ## linusdata
+ - [https://linusdata.blog](https://linusdata.blog)
+ - date_published: 2024-06-15T16:56:52.601875+00:00
+
+ ## Loopholes
+ - [https://loopholes.blog](https://loopholes.blog)
+ - date_published: 2024-05-02T09:54:09.423097+00:00
+
+ ## Luigi's corner
+ - [https://luigiscorner.blog](https://luigiscorner.blog)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## A Fan of Many Things
  - [https://magess.blog](https://magess.blog)
  - date_published: 2024-09-09T00:00:00+00:00
@@ -4034,16 +4046,4 @@ Educação
  ## Glassdoor Help Center
  - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
  - date_published: 2023-07-12T20:05:46+00:00
-
- ## Busca de vagas no Glassdoor
- - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
- - date_published: 2024-05-06T09:09:46.730024+00:00
-
- ## Google
- - [https://google.com.br](https://google.com.br)
- - date_published: 2024-06-18T12:08:11.684347+00:00
-
- ## Grafika Google
- - [https://images.google.com.br](https://images.google.com.br)
- - date_published: 2024-07-20T07:38:45.468430+00:00
 

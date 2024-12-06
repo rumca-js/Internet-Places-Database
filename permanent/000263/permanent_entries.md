@@ -1,3 +1,447 @@
+ ## Research Guides
+ - [https://guides.lib.k-state.edu](https://guides.lib.k-state.edu)
+ - date_published: 2024-07-01T11:20:48.381988+00:00
+
+ ## Housing and Dining Services
+ - [https://housing.k-state.edu](https://housing.k-state.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Center for Cybersecurity and Trustworthy Systems
+ - [https://kcats.k-state.edu](https://kcats.k-state.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## K-REx :: Home
+ - [https://krex.k-state.edu](https://krex.k-state.edu)
+ - date_published: 2024-07-01T11:21:11.244256+00:00
+
+ ## K-State Research and Extension
+ - [https://ksre.k-state.edu](https://ksre.k-state.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Kansas State University
+ - [https://k-state.edu](https://k-state.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## K-State Libraries
+ - [https://lib.k-state.edu](https://lib.k-state.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## K-State Olathe
+ - [https://olathe.k-state.edu](https://olathe.k-state.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## K-State Online
+ - [https://online.k-state.edu](https://online.k-state.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Kansas State University
+ - [https://orgcentral.k-state.edu](https://orgcentral.k-state.edu)
+ - date_published: 2024-05-07T19:17:11.652087+00:00
+
+ ## Recreational Services
+ - [https://recservices.k-state.edu](https://recservices.k-state.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Kansas State Salina
+ - [https://salina.k-state.edu](https://salina.k-state.edu)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Search | Kansas State University
+ - [https://search.k-state.edu](https://search.k-state.edu)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Login - Sign in | Kansas State University
+ - [https://signin.k-state.edu](https://signin.k-state.edu)
+ - date_published: 2024-07-01T11:19:57.768703+00:00
+
+ ## Qualtrics
+ - [https://survey.k-state.edu](https://survey.k-state.edu)
+ - date_published: 2023-06-14T00:00:00+00:00
+
+ ## K-State Student Union | Kansas State University
+ - [https://union.k-state.edu](https://union.k-state.edu)
+ - date_published: 2024-07-01T10:25:54+00:00
+
+ ## CMS Redirect
+ - [https://webcms.k-state.edu](https://webcms.k-state.edu)
+ - date_published: 2024-05-07T19:17:44.188672+00:00
+
+ ## Please wait...
+ - [https://webmail.k-state.edu](https://webmail.k-state.edu)
+ - date_published: 2024-05-07T19:17:01.570828+00:00
+
+ ## College of Agriculture
+ - [https://www.ag.k-state.edu](https://www.ag.k-state.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Department of Agronomy | Kansas State University
+ - [https://www.agronomy.k-state.edu](https://www.agronomy.k-state.edu)
+ - date_published: 2023-06-27T00:00:00+00:00
+
+ ## Department of Communications and Agricultural Education
+ - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## College of Health and Human Sciences
+ - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Kansas State University
+ - [http://www.k-state.edu](http://www.k-state.edu)
+ - date_published: 2024-11-04T21:49:30.914821+00:00
+
+ ## K-State College of Veterinary Medicine Home Page
+ - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## K-State Association for Computing Machinery
+ - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
+ - date_published: 2024-04-17T03:05:42+00:00
+
+ ## K-State ACM SIGAI
+ - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
+ - date_published: 2024-07-11T13:09:50.053496+00:00
+
+ ## ALT+CS Lab
+ - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
+ - date_published: 2024-06-27T16:51:28+00:00
+
+ ## CS Applications - Home
+ - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
+ - date_published: 2024-05-07T19:17:12.648572+00:00
+
+ ## Center for Artificial Intelligence and Data Science
+ - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
+ - date_published: 2024-03-05T23:08:49+00:00
+
+ ## home    [Machine Learning and Data Science Lab @ K-State]
+ - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
+ - date_published: 2024-07-01T11:14:36.621884+00:00
+
+ ## Engineering Computing Services | Engineering Computing Services
+ - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
+ - date_published: 2024-07-01T10:35:28+00:00
+
+ ## Department of Computer Science at K-State
+ - [https://cis.ksu.edu](https://cis.ksu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Computer Science at K-State
+ - [https://cs.ksu.edu](https://cs.ksu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Data Semantics Lab
+ - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
+ - date_published: 2024-07-01T11:14:44.703164+00:00
+
+ ## Carl R. Ice College of Engineering at K-State
+ - [https://engg.ksu.edu](https://engg.ksu.edu)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## K-State GDC
+ - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
+ - date_published: 2020-02-03T06:08:13+00:00
+
+ ## Kansas State University
+ - [https://ksu.edu](https://ksu.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
+ - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
+ - date_published: 2016-12-08T20:03:10+00:00
+
+ ## K-State MDC
+ - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
+ - date_published: 2024-05-07T19:17:04.324614+00:00
+
+ ## K-State ACM SIGAI
+ - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
+ - date_published: 2024-05-09T09:12:16.301047+00:00
+
+ ## People
+ - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
+ - date_published: 2023-10-25T18:53:27.215934+00:00
+
+ ## K-State Web Dev Club
+ - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
+ - date_published: 2019-02-27T01:14:52+00:00
+
+ ## Please wait...
+ - [https://webmail.ksu.edu](https://webmail.ksu.edu)
+ - date_published: 2024-07-01T11:22:25.357090+00:00
+
+ ## Agricultural Economics | Kansas State University
+ - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home Page
+ - [https://admissions.ktu.edu](https://admissions.ktu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Pradžia
+ - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
+ - [https://alumni.ktu.edu](https://alumni.ktu.edu)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## APCIS
+ - [https://apcis.ktu.edu](https://apcis.ktu.edu)
+ - date_published: 2024-07-01T11:24:39.197337+00:00
+
+ ## Research
+ - [https://apinien.ktu.edu](https://apinien.ktu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Mokslas
+ - [https://apini.ktu.edu](https://apini.ktu.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Kaunas University of Technology
+ - [https://apply.ktu.edu](https://apply.ktu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Research
+ - [https://asien.ktu.edu](https://asien.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://asi.ktu.edu](https://asi.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Pradžia
+ - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
+ - date_published: 2024-07-01T11:24:05.276622+00:00
+
+ ## Bibliotekos paslaugos
+ - [https://biblioteka.ktu.edu](https://biblioteka.ktu.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Apie
+ - [https://biomedicina.ktu.edu](https://biomedicina.ktu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## About
+ - [https://biomedicine.ktu.edu](https://biomedicine.ktu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home
+ - [https://business.ktu.edu](https://business.ktu.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home
+ - [https://centenary.ktu.edu](https://centenary.ktu.edu)
+ - date_published: 2023-11-06T00:00:00+00:00
+
+ ## Home
+ - [https://compsystems.ktu.edu](https://compsystems.ktu.edu)
+ - date_published: 2023-06-22T00:00:00+00:00
+
+ ## Home
+ - [https://csci.ktu.edu](https://csci.ktu.edu)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://ctf.ktu.edu](https://ctf.ktu.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Pradžia
+ - [https://dicentras.ktu.edu](https://dicentras.ktu.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Pradžia
+ - [https://dormitory.ktu.edu](https://dormitory.ktu.edu)
+ - date_published: 2023-12-22T00:00:00+00:00
+
+ ## ECIU University
+ - [https://eciu-en.ktu.edu](https://eciu-en.ktu.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Apie ECIU universitetą
+ - [https://eciu.ktu.edu](https://eciu.ktu.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Home
+ - [https://edulab-en.ktu.edu](https://edulab-en.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Pradžia
+ - [https://edulab.ktu.edu](https://edulab.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Pradinis
+ - [https://eef.ktu.edu](https://eef.ktu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Pradžia
+ - [https://emeritus.ktu.edu](https://emeritus.ktu.edu)
+ - date_published: 2024-05-07T19:17:49.924180+00:00
+
+ ## Home
+ - [https://en.ktu.edu](https://en.ktu.edu)
+ - date_published: 2023-12-25T16:53:53.461151+00:00
+
+ ## Pradinis puslapis
+ - [https://evf.ktu.edu](https://evf.ktu.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://fcea.ktu.edu](https://fcea.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://fct.ktu.edu](https://fct.ktu.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home
+ - [https://feee.ktu.edu](https://feee.ktu.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://fi.ktu.edu](https://fi.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://fmed.ktu.edu](https://fmed.ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://fmns.ktu.edu](https://fmns.ktu.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Research
+ - [https://food.ktu.edu](https://food.ktu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Home
+ - [https://fssah.ktu.edu](https://fssah.ktu.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://if.ktu.edu](https://if.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://ktu.edu](https://ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Pradžia
+ - [https://leidykla.ktu.edu](https://leidykla.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Library Services
+ - [https://library.ktu.edu](https://library.ktu.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Mokslas
+ - [https://maistas.ktu.edu](https://maistas.ktu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Research
+ - [https://materials.ktu.edu](https://materials.ktu.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Research
+ - [https://mechatronics.ktu.edu](https://mechatronics.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://mechatronika.ktu.edu](https://mechatronika.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://medziagos.ktu.edu](https://medziagos.ktu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://mgmf.ktu.edu](https://mgmf.ktu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Pradžia
+ - [https://midf.ktu.edu](https://midf.ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## KTU kviečia mokyklas atrasti technologijų pasaulį!
+ - [https://mokykloms.ktu.edu](https://mokykloms.ktu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Prisijungti
+ - [http://moodle.ktu.edu](http://moodle.ktu.edu)
+ - date_published: 2024-07-01T11:54:14.466148+00:00
+
+ ## Home
+ - [https://museum.ktu.edu](https://museum.ktu.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Pradžia
+ - [https://muziejus.ktu.edu](https://muziejus.ktu.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home
+ - [https://niec.ktu.edu](https://niec.ktu.edu)
+ - date_published: 2021-07-23T00:00:00+00:00
+
+ ## Pradžia
+ - [https://nivc.ktu.edu](https://nivc.ktu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Pradžia
+ - [https://oac.ktu.edu](https://oac.ktu.edu)
+ - date_published: 2022-12-21T00:00:00+00:00
+
+ ## Centre for Packaging Innovations and Research
+ - [https://packaging.ktu.edu](https://packaging.ktu.edu)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Home
+ - [https://pftb.ktu.edu](https://pftb.ktu.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Pradžia
+ - [https://poilsiavietes.ktu.edu](https://poilsiavietes.ktu.edu)
+ - date_published: 2022-04-26T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://ptvf.ktu.edu](https://ptvf.ktu.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://saf.ktu.edu](https://saf.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://scpconference.ktu.edu](https://scpconference.ktu.edu)
+ - date_published: 2023-03-29T00:00:00+00:00
+
+ ## Home
+ - [https://seb.ktu.edu](https://seb.ktu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Socialinių, humanitarinių mokslų ir menų fakultetas | KTU
+ - [https://shmmf.ktu.edu](https://shmmf.ktu.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## About us
+ - [https://startupspace-en.ktu.edu](https://startupspace-en.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Pradžia
+ - [https://stojantiesiems.ktu.edu](https://stojantiesiems.ktu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## KTU studentams
+ - [https://studentams.ktu.edu](https://studentams.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## For KTU Students
+ - [https://students.ktu.edu](https://students.ktu.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
  ## Home
  - [https://su.ktu.edu](https://su.ktu.edu)
  - date_published: 2023-09-25T00:00:00+00:00
@@ -3558,450 +4002,4 @@
  ## School of Architecture and Planning Intranet – School of Architecture and Planning Intranet
  - [https://sap-resources.mit.edu](https://sap-resources.mit.edu)
  - date_published: 2024-07-01T15:02:39.435022+00:00
-
- ## Group Overview ‹ Scalable Cooperation – MIT Media Lab
- - [http://scalable.media.mit.edu](http://scalable.media.mit.edu)
- - date_published: 2024-06-19T23:46:43.824116+00:00
-
- ## Scene Physics
- - [http://scenephys.csail.mit.edu](http://scenephys.csail.mit.edu)
- - date_published: 2019-01-03T22:48:03+00:00
-
- ## MIT School of Science
- - [https://science.mit.edu](https://science.mit.edu)
- - date_published: 2023-10-25T18:54:41.430859+00:00
-
- ## Scratch - Imagine, Program, Share
- - [https://scratch.mit.edu](https://scratch.mit.edu)
- - date_published: 2023-10-25T18:54:41.797954+00:00
- - tags: ['scratch', 'programming language']
-
- ## scripts.mit.edu
- - [http://scripts.mit.edu](http://scripts.mit.edu)
- - date_published: 2021-02-09T07:47:23+00:00
-
- ## Home | Software Design Group
- - [http://sdg.csail.mit.edu](http://sdg.csail.mit.edu)
- - date_published: 2024-06-18T13:48:39+00:00
-
- ## Touchstone@MIT : Please Authenticate
- - [https://sdm-idm.mit.edu](https://sdm-idm.mit.edu)
- - date_published: 2024-07-01T15:26:48.291449+00:00
-
- ## Masters in Engineering and Management | MIT SDM - System Design and Management
- - [https://sdm.mit.edu](https://sdm.mit.edu)
- - date_published: 2024-05-07T19:35:50.892572+00:00
-
- ## HOME | mitsdv
- - [http://sdv.mit.edu](http://sdv.mit.edu)
- - date_published: 2024-06-20T03:48:03.229484+00:00
-
- ## Search Results | MIT - Massachusetts Institute of Technology
- - [http://search.mit.edu](http://search.mit.edu)
- - date_published: 2023-08-24T09:20:31+00:00
-
- ## Self-Assembly Lab
- - [https://selfassemblylab.mit.edu](https://selfassemblylab.mit.edu)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## MIT Senseable City Lab
- - [https://senseable.mit.edu](https://senseable.mit.edu)
- - date_published: 2024-01-09T02:59:24.170978+00:00
-
- ## MIT Student Financial Services
- - [https://sfs.mit.edu](https://sfs.mit.edu)
- - date_published: 2024-05-08T10:20:06.514373+00:00
-
- ## The Complete Works of William Shakespeare
- - [http://shakespeare.mit.edu](http://shakespeare.mit.edu)
- - date_published: 2024-08-19T15:15:22.179632+00:00
-
- ## Shape Programs
- - [http://shape2prog.csail.mit.edu](http://shape2prog.csail.mit.edu)
- - date_published: 2019-12-20T00:31:08+00:00
-
- ## ShapeHD
- - [http://shapehd.csail.mit.edu](http://shapehd.csail.mit.edu)
- - date_published: 2018-12-28T19:51:22+00:00
-
- ## Shared Interest
- - [http://shared-interest.csail.mit.edu](http://shared-interest.csail.mit.edu)
- - date_published: 2022-05-05T17:15:13+00:00
-
- ## Sharenthood
- - [https://sharenthood.mitpress.mit.edu](https://sharenthood.mitpress.mit.edu)
- - date_published: 2024-06-21T20:53:47.527494+00:00
-
- ## MIT School of Humanities, Arts and Social Sciences (SHASS)
- - [https://shass.mit.edu](https://shass.mit.edu)
- - date_published: 2024-05-08T10:20:32.720515+00:00
-
- ## Home - MIT SMR Store
- - [https://shop.sloanreview.mit.edu](https://shop.sloanreview.mit.edu)
- - date_published: 2024-05-07T19:37:14.762335+00:00
-
- ## The Structure and Interpretation of Deep Networks
- - [http://sidn.csail.mit.edu](http://sidn.csail.mit.edu)
- - date_published: 2022-09-06T00:07:49+00:00
-
- ## Sidney-Pacific | Home
- - [https://sidpac.mit.edu](https://sidpac.mit.edu)
- - date_published: 2024-07-03T11:56:17.789810+00:00
-
- ## MIT Student Information Processing Board
- - [https://sipb.mit.edu](https://sipb.mit.edu)
- - date_published: 2024-01-05T05:23:29+00:00
-
- ## MIT Sites
- - [https://sites.mit.edu](https://sites.mit.edu)
- - date_published: 2024-07-01T14:40:13+00:00
-
- ## Slice Homepage
- - [https://slice.mit.edu](https://slice.mit.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## MIT Sloan Management Review
- - [https://sloanreview.mit.edu](https://sloanreview.mit.edu)
- - date_published: 2023-10-25T18:54:48.399246+00:00
-
- ## |
- - [https://smallbusiness.ll.mit.edu](https://smallbusiness.ll.mit.edu)
- - date_published: 2024-05-07T19:38:15.933308+00:00
-
- ## The Smart Enough City
- - [https://smartenoughcity.mitpress.mit.edu](https://smartenoughcity.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Sociable Media Group - MIT Media Lab
- - [http://smg.media.mit.edu](http://smg.media.mit.edu)
- - date_published: 2009-09-02T23:00:05+00:00
-
- ## MIT Social Media Hub | Massachusetts Institute of Technology
- - [http://socialmediahub.mit.edu](http://socialmediahub.mit.edu)
- - date_published: 2024-05-07T19:36:13.004701+00:00
-
- ## Solid
- - [https://solid.mit.edu](https://solid.mit.edu)
- - date_published: 2024-06-14T11:58:05.014211+00:00
-
- ## MIT Solve | A Marketplace for Social Impact Innovation
- - [https://solve.mit.edu](https://solve.mit.edu)
- - date_published: 2024-06-12T05:59:58.058259+00:00
-
- ## Song Han - Associate Professor, MIT EECS
- - [https://songhan.mit.edu](https://songhan.mit.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Generative Modeling of Audible Shapes for Object Perception
- - [http://sound.csail.mit.edu](http://sound.csail.mit.edu)
- - date_published: 2019-07-19T23:49:18+00:00
-
- ## Sparse and Local Networks for Hypergraph Reasoning
- - [https://spaloc.csail.mit.edu](https://spaloc.csail.mit.edu)
- - date_published: 2023-03-10T14:26:12+00:00
-
- ## Spectrum
- - [https://spectrum.mit.edu](https://spectrum.mit.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MIT Course Management System
- - [https://stellar.mit.edu](https://stellar.mit.edu)
- - date_published: 2024-04-29T02:32:55.106565+00:00
-
- ## Home
- - [http://studentlife.mit.edu](http://studentlife.mit.edu)
- - date_published: 2024-06-28T19:40:29+00:00
-
- ## MIT WebSIS
- - [https://student.mit.edu](https://student.mit.edu)
- - date_published: 2024-05-07T19:38:12.352737+00:00
-
- ## Study Abroad
- - [https://studyabroad.mit.edu](https://studyabroad.mit.edu)
- - date_published: 2024-07-01T13:51:11+00:00
-
- ## stuff.mit.edu: students' portal
- - [https://stuff.mit.edu](https://stuff.mit.edu)
- - date_published: 2024-02-21T20:09:52.594239+00:00
-
- ## Nancy Leveson's Home Page at MIT
- - [http://sunnyday.mit.edu](http://sunnyday.mit.edu)
- - date_published: 2018-04-21T14:29:50+00:00
-
- ## Telecom Digest and Archives
- - [http://telecom2022.csail.mit.edu](http://telecom2022.csail.mit.edu)
- - date_published: 2024-05-07T19:37:26.240817+00:00
-
- ## Telecom Digest and Archives
- - [http://telecom.csail.mit.edu](http://telecom.csail.mit.edu)
- - date_published: 2023-10-25T18:54:50.229504+00:00
-
- ## TESS - Transiting Exoplanet Survey Satellite
- - [https://tess.mit.edu](https://tess.mit.edu)
- - date_published: 2024-05-07T20:24:58.744424+00:00
-
- ## homepage | MIT CSAIL Theory of Computation
- - [http://theory.csail.mit.edu](http://theory.csail.mit.edu)
- - date_published: 2024-06-19T14:38:24+00:00
-
- ## homepage | MIT CSAIL Theory of Computation
- - [http://theory.lcs.mit.edu](http://theory.lcs.mit.edu)
- - date_published: 2024-08-08T16:56:08+00:00
-
- ## The MIT Press Reader
- - [https://thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu)
- - date_published: 2023-10-25T10:39:41.389672+00:00
-
- ## Lincoln Laboratory Timeline | LL Timeline
- - [https://timeline.ll.mit.edu](https://timeline.ll.mit.edu)
- - date_published: 2024-05-07T19:38:17.658737+00:00
-
- ## Video Enhancement with Task-Oriented Flow
- - [http://toflow.csail.mit.edu](http://toflow.csail.mit.edu)
- - date_published: 2020-04-09T21:58:20+00:00
-
- ## Topology
- - [https://topology.mitpress.mit.edu](https://topology.mitpress.mit.edu)
- - date_published: 2023-10-25T18:54:52.088797+00:00
-
- ## Temporal and Object Quantification Networks
- - [http://toqnet.csail.mit.edu](http://toqnet.csail.mit.edu)
- - date_published: 2021-08-23T03:16:04+00:00
-
- ## Vision+Touch
- - [http://touch.csail.mit.edu](http://touch.csail.mit.edu)
- - date_published: 2018-08-24T01:21:51+00:00
-
- ## MIT Technology and Policy Program
- - [http://tpp.mit.edu](http://tpp.mit.edu)
- - date_published: 2024-07-16T20:39:41.435159+00:00
-
- ## Seeing Tree Structure from Vibration
- - [http://tree.csail.mit.edu](http://tree.csail.mit.edu)
- - date_published: 2018-08-24T01:37:38+00:00
-
- ## Trust :: Data
- - [http://trust.mit.edu](http://trust.mit.edu)
- - date_published: 2024-07-07T03:47:27.595206+00:00
-
- ## TurkEyes
- - [http://turkeyes.mit.edu](http://turkeyes.mit.edu)
- - date_published: 2020-06-11T23:26:43+00:00
-
- ## MIT Undergrad Math Association
- - [https://uma.mit.edu](https://uma.mit.edu)
- - date_published: 2024-05-07T19:34:16.300653+00:00
-
- ## Underactuated Robotics
- - [https://underactuated.mit.edu](https://underactuated.mit.edu)
- - date_published: 2024-07-04T12:14:15+00:00
-
- ## UniverSeg
- - [https://universeg.csail.mit.edu](https://universeg.csail.mit.edu)
- - date_published: 2023-07-15T17:03:29+00:00
-
- ## The Ur/Web People Organizer
- - [http://upo.csail.mit.edu](http://upo.csail.mit.edu)
- - date_published: 2016-02-05T20:46:12+00:00
-
- ## Homepage - UPOP
- - [https://upop.mit.edu](https://upop.mit.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## MIT UROP - Undergraduate Research Opportunities Program
- - [https://urop.mit.edu](https://urop.mit.edu)
- - date_published: 2024-07-01T15:10:51.322671+00:00
-
- ## Visual Concept-Metaconcept Learning
- - [http://vcml.csail.mit.edu](http://vcml.csail.mit.edu)
- - date_published: 2020-10-20T01:08:55+00:00
-
- ## Visual De-animation
- - [http://vda.csail.mit.edu](http://vda.csail.mit.edu)
- - date_published: 2019-07-19T23:44:28+00:00
-
- ## MIT Visualization Group
- - [http://vis.csail.mit.edu](http://vis.csail.mit.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Visually29K
- - [http://visdata.mit.edu](http://visdata.mit.edu)
- - date_published: 2018-12-21T16:40:37+00:00
-
- ## Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks
- - [http://visualdynamics.csail.mit.edu](http://visualdynamics.csail.mit.edu)
- - date_published: 2019-08-07T00:19:50+00:00
-
- ## MIT Visualizing Cultures
- - [http://visualizingcultures.mit.edu](http://visualizingcultures.mit.edu)
- - date_published: 2021-03-16T20:39:10+00:00
-
- ## VGPL
- - [http://visual-physics-grounding.csail.mit.edu](http://visual-physics-grounding.csail.mit.edu)
- - date_published: 2020-09-11T02:52:03+00:00
-
- ## Visual Object Networks: Image Generation with Disentangled 3D Representation
- - [http://von.csail.mit.edu](http://von.csail.mit.edu)
- - date_published: 2022-04-12T23:13:39+00:00
-
- ## The MIT Radio Society
- - [http://w1mx.mit.edu](http://w1mx.mit.edu)
- - date_published: 2024-06-29T15:56:39+00:00
-
- ## News + Updates — MIT Media Lab
- - [https://web.media.mit.edu](https://web.media.mit.edu)
- - date_published: 2023-10-25T18:54:57.442420+00:00
-
- ## More crop per drop | MIT - Massachusetts Institute of Technology
- - [https://web.mit.edu](https://web.mit.edu)
- - date_published: 2023-10-25T11:22:48.078614+00:00
-
- ## MIT WebSIS
- - [http://websis.mit.edu](http://websis.mit.edu)
- - date_published: 2024-08-06T10:27:51.051848+00:00
-
- ## Whamit!
- - [http://whamit.mit.edu](http://whamit.mit.edu)
- - date_published: 2024-07-08T12:23:36.980180+00:00
-
- ## MIT Campus Map
- - [http://whereis.mit.edu](http://whereis.mit.edu)
- - date_published: 2023-12-18T05:15:37+00:00
-
- ## MIT Wiki Service
- - [http://wikis.mit.edu](http://wikis.mit.edu)
- - date_published: 2023-12-10T03:58:24+00:00
-
- ## Whitehead Institute
- - [https://wi.mit.edu](https://wi.mit.edu)
- - date_published: 2024-07-01T13:28:40+00:00
-
- ## Networks and Mobile Systems
- - [http://wind.lcs.mit.edu](http://wind.lcs.mit.edu)
- - date_published: 2022-11-14T19:52:54+00:00
-
- ## Works in Progress
- - [https://wip.mitpress.mit.edu](https://wip.mitpress.mit.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## WordleLab
- - [https://wordlelab.media.mit.edu](https://wordlelab.media.mit.edu)
- - date_published: 2022-08-11T21:54:50+00:00
-
- ## Home Page | MIT CSAIL
- - [http://www.ai.mit.edu](http://www.ai.mit.edu)
- - date_published: 2024-05-07T20:26:04.399073+00:00
-
- ## MIT Computer Architecture Group Home Page
- - [http://www.cag.csail.mit.edu](http://www.cag.csail.mit.edu)
- - date_published: 2020-10-19T19:00:55+00:00
-
- ## MIT CoLab
- - [https://www.colab.mit.edu](https://www.colab.mit.edu)
- - date_published: 2024-09-12T16:54:24.686072+00:00
-
- ## Dimitris Bertsimas
- - [https://www.dbertsim.mit.edu](https://www.dbertsim.mit.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## MIT EECS
- - [https://www.eecs.mit.edu](https://www.eecs.mit.edu)
- - date_published: 2024-05-04T09:29:54.869702+00:00
-
- ## MIT Haystack Observatory - Radio science & technology research center
- - [https://www.haystack.mit.edu](https://www.haystack.mit.edu)
- - date_published: 2023-10-25T18:55:07.021253+00:00
-
- ## Jameel World Education Lab (J-WEL)
- - [https://www.jwel.mit.edu](https://www.jwel.mit.edu)
- - date_published: 2024-12-04T20:19:56+00:00
-
- ## Homepage | MIT Lincoln Laboratory
- - [https://www.ll.mit.edu](https://www.ll.mit.edu)
- - date_published: 2023-10-25T18:55:14.624029+00:00
-
- ## MIT Mathematics
- - [http://www-math.mit.edu](http://www-math.mit.edu)
- - date_published: 2024-06-13T19:14:38.567425+00:00
-
- ## News + Updates – MIT Media Lab
- - [https://www.media.mit.edu](https://www.media.mit.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Microsystems Technology Laboratories
- - [https://www.mtl.mit.edu](https://www.mtl.mit.edu)
- - date_published: 2022-08-18T21:07:45+00:00
-
- ## Home - RLE at MIT
- - [https://www.rle.mit.edu](https://www.rle.mit.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Project MAC Home Page
- - [http://www-swiss.ai.mit.edu](http://www-swiss.ai.mit.edu)
- - date_published: 2011-09-08T16:35:04+00:00
-
- ## Project MAC Home Page
- - [http://www.swiss.ai.mit.edu](http://www.swiss.ai.mit.edu)
- - date_published: 2011-09-08T16:35:04+00:00
-
- ## The Massachusetts Institute of Technology (MIT)
- - [https://wwww.mit.edu](https://wwww.mit.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Intro
- — XVM
- - [http://xvm.mit.edu](http://xvm.mit.edu)
- - date_published: 2024-06-20T13:11:35.971619+00:00
-
- ## Yang Tan Collective at MIT
- - [https://yangtan.mit.edu](https://yangtan.mit.edu)
- - date_published: 2024-10-14T23:54:37.616210+00:00
-
- ## Madras Institute of Technology
- - [https://www.mitindia.edu](https://www.mitindia.edu)
- - date_published: 2024-08-08T12:17:16.387033+00:00
-
- ## Missouri Baptist University Online - Flexible Online Degree Programs
- - [https://online.mobap.edu](https://online.mobap.edu)
- - date_published: 2024-07-16T23:03:10.963531+00:00
-
- ## Welcome to the archived website of  CTIE  The Monash University Centre for Telecommunications and Information Engineering
- - [https://ctie.monash.edu](https://ctie.monash.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Lens: Expert topical commentary, pioneering research - Monash University
- - [https://lens.monash.edu](https://lens.monash.edu)
- - date_published: 2023-12-11T11:12:50.679402+00:00
-
- ## Home
- - [https://monash.edu](https://monash.edu)
- - date_published: 2023-10-31T10:59:13.130253+00:00
-
- ## Monash University
- - [https://research.monash.edu](https://research.monash.edu)
- - date_published: 2024-06-17T18:33:48.420217+00:00
-
- ## Mondragon Unibertsitatea
- - [https://www.mondragon.edu](https://www.mondragon.edu)
- - date_published: 2024-09-12T12:54:59.978828+00:00
-
- ## Monmouth University | Monmouth University
- - [https://www.monmouth.edu](https://www.monmouth.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Eclipse Ballooning Project | Eclipse Ballooning Project
- - [https://eclipse.montana.edu](https://eclipse.montana.edu)
- - date_published: 2024-05-06T16:44:48.191940+00:00
-
- ## Gallatin College - Gallatin College | Gallatin College
- - [https://gallatin.montana.edu](https://gallatin.montana.edu)
- - date_published: 2024-10-27T18:28:21.085468+00:00
-
- ## Outlook Web - Office 365 Web Access - Office 365 | Montana State University
- - [http://outlookweb.montana.edu](http://outlookweb.montana.edu)
- - date_published: 2024-10-27T18:28:07.501451+00:00
-
- ## WIMU Regional Program in Veterinary Medicine - WIMU Regional Program in Veterinary Medicine | Montana State University
- - [https://wimu.montana.edu](https://wimu.montana.edu)
- - date_published: 2024-08-05T17:34:48.544797+00:00
 

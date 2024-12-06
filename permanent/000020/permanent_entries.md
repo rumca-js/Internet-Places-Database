@@ -1,3 +1,19 @@
+ ## Students
+ - [https://students.usask.ca](https://students.usask.ca)
+ - date_published: 2024-09-15T13:01:28.207037+00:00
+
+ ## Faculty Relations - Vice-Provost, Faculty Relations
+ - [https://vpfaculty.usask.ca](https://vpfaculty.usask.ca)
+ - date_published: 2024-09-15T13:01:03.796595+00:00
+
+ ## Wellness
+ - [https://wellness.usask.ca](https://wellness.usask.ca)
+ - date_published: 2024-09-15T13:01:10.199304+00:00
+
+ ## Department of Computer Science
+ - [https://www.cs.usask.ca](https://www.cs.usask.ca)
+ - date_published: 2024-06-29T03:19:26.005459+00:00
+
  ## University of Saskatchewan
  - [http://www.usask.ca](http://www.usask.ca)
  - date_published: 2024-09-15T13:01:01.962502+00:00
@@ -3426,6 +3442,10 @@
  - [https://readmy.cards](https://readmy.cards)
  - date_published: 2024-07-10T11:15:38.166903+00:00
 
+ ## SpecialQR | Create Magical Gift Experiences
+ - [https://specialqr.cards](https://specialqr.cards)
+ - date_published: 2024-12-05T01:41:25.285539+00:00
+
  ## Sprint cards
  - [https://sprint.cards](https://sprint.cards)
  - date_published: 2024-07-20T19:09:11.039268+00:00
@@ -3989,24 +4009,4 @@
  ## Dario Castañé
  - [https://dario.cat](https://dario.cat)
  - date_published: 2024-05-09T08:12:41.816016+00:00
-
- ## Rizoma | Dario Castañé | Substack
- - [https://rizoma.dario.cat](https://rizoma.dario.cat)
- - date_published: 2024-07-10T08:32:41.303453+00:00
-
- ## Diari de Girona: últimes notícies de Girona, les comarques gironines i el món
- - [https://www.diaridegirona.cat](https://www.diaridegirona.cat)
- - date_published: 2024-10-14T20:49:01+00:00
-
- ## diccionari.cat | diccionari.cat
- - [https://www.diccionari.cat](https://www.diccionari.cat)
- - date_published: 2024-06-30T02:02:41+00:00
-
- ## Som el teu punt de partida
- - [https://domini.cat](https://domini.cat)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## EINA Centre Universitari de Disseny i Art de Barcelona
- - [http://eina.cat](http://eina.cat)
- - date_published: 2024-07-13T00:19:27+00:00
 

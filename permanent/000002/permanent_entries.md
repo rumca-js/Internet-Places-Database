@@ -1,3 +1,15 @@
+ ## Home of Reasoning as a Service® | Imandra Inc.
+ - [https://www.imandra.ai](https://www.imandra.ai)
+ - date_published: 2024-06-22T09:46:59.565346+00:00
+
+ ## iMean AI
+ - [https://www.imean.ai](https://www.imean.ai)
+ - date_published: 2024-07-22T11:02:09.881781+00:00
+
+ ## Facial Emotion Recognition Software - Emotion AI | Imentiv AI
+ - [https://imentiv.ai](https://imentiv.ai)
+ - date_published: 2024-10-28T06:50:37+00:00
+
  ## Quantum Apex AI Official 2024 - Your Trusted Trading Partner
  - [https://immediate-apex.ai](https://immediate-apex.ai)
  - date_published: 2024-10-31T00:24:06.789578+00:00
@@ -4010,16 +4022,4 @@
  ## QMR – QMR
  - [https://qmr.ai](https://qmr.ai)
  - date_published: 2023-10-25T11:41:43.521292+00:00
-
- ## QnA Maker
- - [https://qnamaker.ai](https://qnamaker.ai)
- - date_published: 2024-05-02T12:44:28.817311+00:00
-
- ## Quality-first Generative AI Coding Platform | Qodo (CodiumAI)
- - [https://www.qodo.ai](https://www.qodo.ai)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Generative AI Tools | GPT4| SDXL | Qolaba AI Studio
- - [https://www.qolaba.ai](https://www.qolaba.ai)
- - date_published: 2024-09-13T20:25:49.719131+00:00
 
