@@ -1,3 +1,85 @@
+ ## Newsroom
+ - [https://media.nxp.com](https://media.nxp.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## NXP® Semiconductors Official Site
+ - [https://nxp.com](https://nxp.com)
+ - date_published: 2023-11-08T11:33:00.662536+00:00
+ - tags: ['semiconductors', 'integrated circuits', 'company']
+
+ ## NXP | Technology Showroom
+ - [https://showroom.nxp.com](https://showroom.nxp.com)
+ - date_published: 2024-01-09T14:33:08+00:00
+
+ ## Sign in to NXP.com | NXP Semiconductors
+ - [https://store.nxp.com](https://store.nxp.com)
+ - date_published: 2024-07-19T22:27:17.004008+00:00
+
+ ## Homepage
+ - [https://nxplaybook.com](https://nxplaybook.com)
+ - date_published: 2024-04-30T02:04:03.355490+00:00
+
+ ## Home - NXTaltfoods
+ - [https://www.nxtaltfoods.com](https://www.nxtaltfoods.com)
+ - date_published: 2023-10-25T16:23:37.700057+00:00
+
+ ## Real-time Action Sports Betting Data, Insights & Picks | NXTbets
+ - [https://nxtbets.com](https://nxtbets.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Digital Content Experience Platform | Nxtbook
+ - [https://nxtbook.com](https://nxtbook.com)
+ - date_published: 2024-05-16T02:46:52.399651+00:00
+
+ ## Log In ‹ Nxtbook Media Knowledge Base — WordPress
+ - [https://help.nxtbookmedia.com](https://help.nxtbookmedia.com)
+ - date_published: 2024-07-19T05:47:33.047135+00:00
+
+ ## Digital Content Experience Platform | Nxtbook
+ - [https://www.nxtbookmedia.com](https://www.nxtbookmedia.com)
+ - date_published: 2024-07-19T05:47:34.763070+00:00
+
+ ## Index of /
+ - [http://mirrors.nxtgen.com](http://mirrors.nxtgen.com)
+ - date_published: 2024-07-13T17:40:01.609654+00:00
+
+ ## RINGBET88 &^\ Slot Deposit 10000 Qris Dana Gopay Ovo Terbaru
+ - [https://nxtmodern.com](https://nxtmodern.com)
+ - date_published: 2024-05-15T07:44:32+00:00
+
+ ## nxtthing.com
+ - [https://nxtthing.com](https://nxtthing.com)
+ - date_published: 2024-10-22T06:23:31.490178+00:00
+
+ ## NXTThingRPO - The Art of Recruiting - Flexible RPO outsourcing
+ - [https://nxtthingrpo.com](https://nxtthingrpo.com)
+ - date_published: 2024-09-09T21:25:39.656343+00:00
+
+ ## Nanxuan Zhao
+ - [http://nxzhao.com](http://nxzhao.com)
+ - date_published: 2024-07-24T05:51:44.545803+00:00
+
+ ## Spectrum News NY1 | New York City
+ - [https://ny1.com](https://ny1.com)
+ - date_published: 2024-04-05T15:04:22.566250+00:00
+ - tags: ['new york news']
+
+ ## Diana Nyad Fact Check: Home
+ - [http://nyadfactcheck.com](http://nyadfactcheck.com)
+ - date_published: 2024-07-22T22:11:45+00:00
+
+ ## Nyan Heroes
+ - [https://nyanheroes.com](https://nyanheroes.com)
+ - date_published: 2024-06-11T16:03:19+00:00
+
+ ## Saving Wildlife and Wild Places - New York Aquarium
+ - [https://nyaquarium.com](https://nyaquarium.com)
+ - date_published: 2024-06-30T05:16:00.771364+00:00
+
+ ## Malawi Nyasa Times - News from Malawi about Malawi - Malawi premier news source updated 24 Hours a day Nyasa Times - Malawi News - Malawi Politics
+ - [http://www.nyasatimes.com](http://www.nyasatimes.com)
+ - date_published: 2024-08-12T04:32:12.476626+00:00
+
  ## nathaniel yazdani
  - [https://nyazdani.com](https://nyazdani.com)
  - date_published: 2022-05-14T10:52:44+00:00
@@ -3938,87 +4020,4 @@
  ## Microsoft 365 Blog
  - [https://blogs.office.com](https://blogs.office.com)
  - date_published: 2024-08-18T13:08:35.691558+00:00
-
- ## Sign in to Outlook
- - [https://example.webhook.office.com](https://example.webhook.office.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
- - [https://forms.office.com](https://forms.office.com)
- - date_published: 2024-05-06T16:57:01.222500+00:00
- - tags: ['online service', 'forms', 'polls']
-
- ## Office Insiders
- - [https://insider.office.com](https://insider.office.com)
- - date_published: 2024-06-18T06:28:05.589353+00:00
-
- ## Login | Microsoft 365
- - [https://office.com](https://office.com)
- - date_published: 2024-06-16T00:00:00+00:00
- - tags: ['gateway', 'office suite', 'gatekeeper']
-
- ## Sign in to Outlook
- - [http://outlook.office.com](http://outlook.office.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Sign in to Outlook
- - [https://outlook-sdf.office.com](https://outlook-sdf.office.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Appsource – Business Apps
- - [https://pages.store.office.com](https://pages.store.office.com)
- - date_published: 2024-10-30T22:11:30.526833+00:00
-
- ## Sign in to your account
- - [https://portal.office.com](https://portal.office.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
- - [https://products.office.com](https://products.office.com)
- - date_published: 2024-05-14T03:49:51.816302+00:00
-
- ## Microsoft service health status
- - [https://status.office.com](https://status.office.com)
- - date_published: 2024-06-27T14:39:04.987660+00:00
-
- ## Appsource – Business Apps
- - [https://store.office.com](https://store.office.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Sign in to Outlook
- - [https://substrate.office.com](https://substrate.office.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Microsoft 365 help & learning
- - [https://support.office.com](https://support.office.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Sway: Create and share interactive reports, presentations, personal stories, and more.
- - [https://sway.office.com](https://sway.office.com)
- - date_published: 2024-05-15T07:44:09.441729+00:00
-
- ## Microsoft Teams – Microsoft Adoption
- - [https://teamsdemo.office.com](https://teamsdemo.office.com)
- - date_published: 2024-11-21T12:59:24+00:00
-
- ## Free templates for social media, documents & designs | Microsoft Create
- - [https://templates.office.com](https://templates.office.com)
- - date_published: 2024-06-16T16:09:19.656815+00:00
-
- ## Sign in to Outlook
- - [https://mail.office365.com](https://mail.office365.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Microsoft 365 — subskrypcja narzędzi i aplikacji do pracy biurowej | Microsoft 365
- - [https://office365.com](https://office365.com)
- - date_published: 2024-11-29T09:00:36+00:00
- - tags: ['office suite', 'office', 'gateway', 'gatekeeper']
-
- ## Sign in to Outlook
- - [https://outlook.office365.com](https://outlook.office365.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sign in to your account
- - [http://portal.office365.com](http://portal.office365.com)
- - date_published: 2024-06-17T00:00:00+00:00
 

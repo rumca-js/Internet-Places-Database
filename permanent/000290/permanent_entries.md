@@ -1,3 +1,103 @@
+ ## HEAT.gov - National Integrated Heat Health Information System
+ - [https://www.heat.gov](https://www.heat.gov)
+ - date_published: 2024-06-19T02:55:36.767289+00:00
+
+ ## HelpWithMyBank.gov – Get Answers to Your Banking Questions
+ - [https://helpwithmybank.gov](https://helpwithmybank.gov)
+ - date_published: 2020-09-12T00:00:00+00:00
+
+ ## ASPE Homepage
+ - [https://aspe.hhs.gov](https://aspe.hhs.gov)
+ - date_published: 2024-06-28T19:05:22+00:00
+
+ ## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date_published: 2023-10-25T19:22:17.545788+00:00
+
+ ## ASPR TRACIE | Healthcare Emergency Preparedness Information Gateway
+ - [https://asprtracie.hhs.gov](https://asprtracie.hhs.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Centers for Medicare & Medicaid Services | CMS
+ - [https://cms.hhs.gov](https://cms.hhs.gov)
+ - date_published: 2024-09-16T12:35:39+00:00
+
+ ## ECLKC
+ - [https://eclkc.ohs.acf.hhs.gov](https://eclkc.ohs.acf.hhs.gov)
+ - date_published: 2024-10-10T17:21:53+00:00
+
+ ## Search the Exclusions Database | Office of Inspector General
+ - [https://exclusions.oig.hhs.gov](https://exclusions.oig.hhs.gov)
+ - date_published: 2024-07-03T13:21:49.510603+00:00
+
+ ## Department of Health & Human Services
+ - [https://hhs.gov](https://hhs.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HPH Cybersecurity Gateway
+ - [https://hphcyber.hhs.gov](https://hphcyber.hhs.gov)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home Page - Office of Minority Health (OMH)
+ - [https://minorityhealth.hhs.gov](https://minorityhealth.hhs.gov)
+ - date_published: 2024-06-23T07:30:19.313027+00:00
+
+ ## NPPES NPI Registry
+ - [https://npiregistry.cms.hhs.gov](https://npiregistry.cms.hhs.gov)
+ - date_published: 2024-06-26T00:18:59+00:00
+
+ ## U.S. Department of Health & Human Services - Office for Civil Rights
+ - [https://ocrportal.hhs.gov](https://ocrportal.hhs.gov)
+ - date_published: 2024-05-08T02:59:11.401239+00:00
+
+ ## Office of Inspector General | Government Oversight | U.S. Department of Health and Human Services
+ - [https://oig.hhs.gov](https://oig.hhs.gov)
+ - date_published: 2024-05-08T02:36:32.077870+00:00
+
+ ## ORI - The Office of Research Integrity | ORI - The Office of Research Integrity
+ - [https://ori.hhs.gov](https://ori.hhs.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Safety Reporting Portal
+ - [https://safetyreporting.hhs.gov](https://safetyreporting.hhs.gov)
+ - date_published: 2024-05-08T02:47:05.377234+00:00
+
+ ## Telehealth.HHS.gov
+ - [https://telehealth.hhs.gov](https://telehealth.hhs.gov)
+ - date_published: 2024-10-10T14:08:11+00:00
+
+ ## Welcome To ACF | The Administration for Children and Families
+ - [https://www.acf.hhs.gov](https://www.acf.hhs.gov)
+ - date_published: 2024-06-19T03:29:34+00:00
+
+ ## Highlands County Avon Park Sebring Lake Placid
+ - [https://www.highlandsfl.gov](https://www.highlandsfl.gov)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## City of Hillsboro, OR | Home
+ - [https://www.hillsboro-oregon.gov](https://www.hillsboro-oregon.gov)
+ - date_published: 2024-07-04T04:56:05+00:00
+
+ ## Welcome to Hillsdale County, Michigan
+ - [https://hillsdalecounty.gov](https://hillsdalecounty.gov)
+ - date_published: 2024-05-07T14:18:45.954059+00:00
+
+ ## Home | HIREVets Medallion
+ - [https://hirevets.gov](https://hirevets.gov)
+ - date_published: 2024-05-08T02:45:48.478749+00:00
+
+ ## History Hub
+ - [https://historyhub.history.gov](https://historyhub.history.gov)
+ - date_published: 2024-06-29T18:23:46.522776+00:00
+
+ ## America's HIV Epidemic Analysis Dashboard | AHEAD
+ - [https://ahead.hiv.gov](https://ahead.hiv.gov)
+ - date_published: 2024-05-08T02:59:17.990063+00:00
+
+ ## HIV Chatbot
+ - [https://bot.hiv.gov](https://bot.hiv.gov)
+ - date_published: 2023-12-13T22:16:01+00:00
+
  ## Clinicalinfo | Information on HIV/AIDS Treatment, Prevention and Research | NIH
  - [https://clinicalinfo.hiv.gov](https://clinicalinfo.hiv.gov)
  - date_published: 2024-05-08T02:59:14.843580+00:00
@@ -3899,106 +3999,4 @@
  ## Astrophysics Science Division
  - [https://astrophysics.gsfc.nasa.gov](https://astrophysics.gsfc.nasa.gov)
  - date_published: 2024-05-20T00:00:00+00:00
-
- ## The Afternoon Constellation - A-Train
- - [https://atrain.nasa.gov](https://atrain.nasa.gov)
- - date_published: 2024-08-11T10:38:46.819277+00:00
-
- ## The Aura Mission
- - [http://aura.gsfc.nasa.gov](http://aura.gsfc.nasa.gov)
- - date_published: 2024-08-11T10:38:41.099593+00:00
-
- ## Access Launchpad
- - [https://auth.launchpad.nasa.gov](https://auth.launchpad.nasa.gov)
- - date_published: 2024-07-14T12:56:12.699937+00:00
-
- ## Ciencia - NASA Ciencia
- - [https://beta.ciencia.nasa.gov](https://beta.ciencia.nasa.gov)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## NASA Blogs
- - [https://blogs.nasa.gov](https://blogs.nasa.gov)
- - date_published: 2023-10-25T19:23:03.213236+00:00
-
- ## NASA
- - [https://bsgapps.arc.nasa.gov](https://bsgapps.arc.nasa.gov)
- - date_published: 2022-12-07T18:25:23+00:00
-
- ## CMS
- - [http://carbon.nasa.gov](http://carbon.nasa.gov)
- - date_published: 2024-10-08T15:07:59+00:00
-
- ## Earthdata
- - [https://cdn.earthdata.nasa.gov](https://cdn.earthdata.nasa.gov)
- - date_published: 2020-12-10T02:00:43+00:00
-
- ## CERES – Clouds and the Earth's Radiant Energy System
- - [http://ceres.larc.nasa.gov](http://ceres.larc.nasa.gov)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Ciencia - NASA Ciencia
- - [https://ciencia.nasa.gov](https://ciencia.nasa.gov)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Home
- - [https://climatekids.nasa.gov](https://climatekids.nasa.gov)
- - date_published: 2024-07-20T15:30:57.375789+00:00
-
- ## Home – Climate Change: Vital Signs of the Planet
- - [https://climate.nasa.gov](https://climate.nasa.gov)
- - date_published: 2023-12-03T11:58:16.572325+00:00
- - tags: ['climate']
-
- ## Home
- - [https://climatesciences.jpl.nasa.gov](https://climatesciences.jpl.nasa.gov)
- - date_published: 2024-07-15T02:35:19.345003+00:00
-
- ## Center for NEO Studies
- - [https://cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov)
- - date_published: 2024-06-25T23:23:52+00:00
-
- ## NASA Open Source Software
- - [https://code.nasa.gov](https://code.nasa.gov)
- - date_published: 2023-12-03T03:36:15+00:00
- - tags: ['nasa', 'open source']
-
- ## Data.GISS: Data and Images
- - [https://data.giss.nasa.gov](https://data.giss.nasa.gov)
- - date_published: 2024-05-07T15:00:07.647536+00:00
-
- ## NASA | Open Data | NASA Open Data Portal
- - [https://data.nasa.gov](https://data.nasa.gov)
- - date_published: 2024-06-18T17:01:39+00:00
-
- ## Dawn - NASA Science
- - [http://dawn.jpl.nasa.gov](http://dawn.jpl.nasa.gov)
- - date_published: 2024-06-30T05:45:31.310047+00:00
-
- ## About DEVELOP | NASA Applied Sciences
- - [https://develop.larc.nasa.gov](https://develop.larc.nasa.gov)
- - date_published: 2024-10-13T00:07:16+00:00
-
- ## Direct Readout Home Page
- - [http://directreadout.sci.gsfc.nasa.gov](http://directreadout.sci.gsfc.nasa.gov)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## GES DISC
- - [https://disc.gsfc.nasa.gov](https://disc.gsfc.nasa.gov)
- - date_published: 2024-08-07T21:00:56+00:00
-
- ## Access Launchpad
- - [https://doclib.eosdis.nasa.gov](https://doclib.eosdis.nasa.gov)
- - date_published: 2024-07-20T21:27:06.286215+00:00
-
- ## Earthdata | Earthdata
- - [https://earthdata.nasa.gov](https://earthdata.nasa.gov)
- - date_published: 2024-04-30T02:49:00.398160+00:00
-
- ## NASA Earth Observatory - Home
- - [https://earthobservatory.nasa.gov](https://earthobservatory.nasa.gov)
- - date_published: 2023-10-25T09:28:13.212248+00:00
-
- ## Eclipse 2017
- - [https://eclipse2017.nasa.gov](https://eclipse2017.nasa.gov)
- - date_published: 2024-05-13T02:45:10.864089+00:00
 

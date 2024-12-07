@@ -1,3 +1,71 @@
+ ## FP Complete Haskell
+ - [https://haskell.fpcomplete.com](https://haskell.fpcomplete.com)
+ - date_published: 2024-07-03T04:10:30.407890+00:00
+
+ ## Home - FPC Special Events
+ - [https://fpcprivateevents.com](https://fpcprivateevents.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home - FPC Special Events
+ - [https://fpcspecialevents.com](https://fpcspecialevents.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Home
+ - [https://fpdcc.com](https://fpdcc.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## fpga4fun.com - where FPGAs are fun
+ - [http://www.fpga4fun.com](http://www.fpga4fun.com)
+ - date_published: 2024-04-08T05:38:43+00:00
+
+ ## Dashboard [Jenkins]
+ - [https://build.fpgaarcade.com](https://build.fpgaarcade.com)
+ - date_published: 2023-12-11T17:28:17.596795+00:00
+
+ ## FPGA Arcade
+ - [https://docs.fpgaarcade.com](https://docs.fpgaarcade.com)
+ - date_published: 2023-12-11T17:29:08.892468+00:00
+
+ ## FPGAArcade | Programmable Gaming Hardware
+ - [https://fpgaarcade.com](https://fpgaarcade.com)
+ - date_published: 2023-12-11T17:29:13.446690+00:00
+ - tags: ['retro games', 'amiga', 'fpga']
+
+ ## FPGACoding.com
+ - [https://fpgacoding.com](https://fpgacoding.com)
+ - date_published: 2024-04-29T09:19:52+00:00
+ - tags: ['fpga', 'verilog']
+
+ ## FPGA Design and Tutorials
+ - [https://fpgadeveloper.com](https://fpgadeveloper.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+ - tags: ['fpga', 'tutorials']
+
+ ## FPGAjobs - Jobs for Logic Designers!
+ - [https://fpgajobs.com](https://fpgajobs.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+ - tags: ['fpga']
+
+ ## FPGAkey - Best Resource For Online FPGA
+ - [https://fpgakey.com](https://fpgakey.com)
+ - date_published: 2024-04-29T09:16:01+00:00
+
+ ## FPGA Mining - Home
+ - [http://fpgamining.com](http://fpgamining.com)
+ - date_published: 2019-01-19T03:41:16+00:00
+
+ ## FPGARelated.com - All You Can Eat FPGA
+ - [https://www.fpgarelated.com](https://www.fpgarelated.com)
+ - date_published: 2024-08-08T23:08:56.829013+00:00
+
+ ## Festival of Fresh · FPJ Live
+ - [https://www.fpjlive.com](https://www.fpjlive.com)
+ - date_published: 2024-06-19T23:22:07.641919+00:00
+
+ ## FPL | Homepage
+ - [https://www.fpl.com](https://www.fpl.com)
+ - date_published: 2024-05-01T07:02:57.467297+00:00
+
  ## FPL | Blog | Watt's Happening
  - [http://www.fplblog.com](http://www.fplblog.com)
  - date_published: 2024-06-14T07:00:29+00:00
@@ -3970,69 +4038,4 @@
  ## Splat FRVR
  - [https://splat.frvr.com](https://splat.frvr.com)
  - date_published: 2023-07-20T14:08:56+00:00
-
- ## Sort 64 FRVR
- - [https://stack.frvr.com](https://stack.frvr.com)
- - date_published: 2023-07-20T14:08:43+00:00
-
- ## Play Trim FRVR
- - [https://trim.frvr.com](https://trim.frvr.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Unblock FRVR
- - [https://unblock.frvr.com](https://unblock.frvr.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## FryAI
- - [https://www.fry-ai.com](https://www.fry-ai.com)
- - date_published: 2023-10-25T14:39:16.490708+00:00
-
- ## Nuffield Department of Population Health
- - [https://clone.ndph.haiku.fry-it.com](https://clone.ndph.haiku.fry-it.com)
- - date_published: 2024-06-17T18:23:32.527376+00:00
-
- ## risr/home — risr/ the new Fry
- - [https://fry-it.com](https://fry-it.com)
- - date_published: 2024-05-02T10:58:41.591589+00:00
-
- ## Same Day Flower Delivery in Tolleson, AZ, 85353 by your FTD florist Fry's 800-900-6575
- - [https://flowers.frysfood.com](https://flowers.frysfood.com)
- - date_published: 2024-08-05T22:17:18.952108+00:00
-
- ## Fry’s Food Stores : Fresh Food. Famous Low Prices. | Shop Groceries Online
- - [https://www.frysfood.com](https://www.frysfood.com)
- - date_published: 2024-08-05T22:13:43.897104+00:00
-
- ## Fry's REWARDS World MastercardÂ®
- - [https://www.frysmastercard.com](https://www.frysmastercard.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Fryzek Concepts
- - [https://fryzekconcepts.com](https://fryzekconcepts.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Farming Simulator 19 Mods | FS19 Mods
- - [https://www.fs19mods.com](https://www.fs19mods.com)
- - date_published: 2024-05-04T08:56:00.107872+00:00
-
- ## FS22 Mods | Farming Simulator 22 Mods
- - [https://fs22modhub.com](https://fs22modhub.com)
- - date_published: 2024-06-08T21:13:49+00:00
- - tags: ['video game mods']
-
- ## FS22 mods, Farming Simulator 22 mods - FS22Planet.com
- - [https://fs22planet.com](https://fs22planet.com)
- - date_published: 2024-07-17T12:16:54.171955+00:00
-
- ## FS25 Mods | Farming Simulator 25 Mods
- - [https://www.fs25modhub.com](https://www.fs25modhub.com)
- - date_published: 2024-09-05T11:03:51.049365+00:00
-
- ## The FreeSpace Oracle
- - [http://www.fs2downloads.com](http://www.fs2downloads.com)
- - date_published: 2018-03-20T12:09:22+00:00
-
- ## Book Publicity, Author Websites, Consulting
- - [http://www.fsbassociates.com](http://www.fsbassociates.com)
- - date_published: 2024-07-04T13:43:54.133335+00:00
 

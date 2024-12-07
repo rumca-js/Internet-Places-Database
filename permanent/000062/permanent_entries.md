@@ -1,3 +1,43 @@
+ ## papel y maquina
+ - [https://papelymaquina.blogspot.com](https://papelymaquina.blogspot.com)
+ - date_published: 2024-03-21T06:21:21+00:00
+
+ ## herbert pfostl's paper graveyard
+ - [http://papergraveyard.blogspot.com](http://papergraveyard.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## PAPERMAU
+ - [http://papermau.blogspot.com](http://papermau.blogspot.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## paperpools
+ - [https://paperpools.blogspot.com](https://paperpools.blogspot.com)
+ - date_published: 2024-05-07T21:46:58.642350+00:00
+
+ ## The Paperwalker Journal - by Florian Satzinger
+ - [http://paperwalker.blogspot.com](http://paperwalker.blogspot.com)
+ - date_published: 2024-07-13T06:16:09+00:00
+
+ ## Pappy's Golden Age Comics Blogzine
+ - [https://pappysgoldenage.blogspot.com](https://pappysgoldenage.blogspot.com)
+ - date_published: 2024-07-17T05:47:15+00:00
+
+ ## Philthy-Delphia
+ - [http://pappys-rants.blogspot.com](http://pappys-rants.blogspot.com)
+ - date_published: 2024-06-26T21:57:18+00:00
+
+ ## Paracademia
+ - [http://paracademia.blogspot.com](http://paracademia.blogspot.com)
+ - date_published: 2024-03-13T17:57:13+00:00
+
+ ## MYSTERIES in PARADISE
+ - [http://paradise-mysteries.blogspot.com](http://paradise-mysteries.blogspot.com)
+ - date_published: 2024-09-16T10:16:08+00:00
+
+ ## Paradox0ns Wargaming Blog
+ - [https://paradox0n.blogspot.com](https://paradox0n.blogspot.com)
+ - date_published: 2024-10-26T07:28:37+00:00
+
  ## this is mine
  - [https://paradoxslush.blogspot.com](https://paradoxslush.blogspot.com)
  - date_published: 1999-01-01T00:00:00+00:00
@@ -3970,44 +4010,4 @@
  ## RUPALI DEAN -TRAVELLER AND FOODIE
  - [http://rupalideantraveller.blogspot.com](http://rupalideantraveller.blogspot.com)
  - date_published: 2022-03-30T17:28:00+00:00
-
- ## Questions in Development
- - [http://rupertsimons.blogspot.com](http://rupertsimons.blogspot.com)
- - date_published: 2024-03-05T10:39:02+00:00
-
- ## RURAL-LAB
- - [https://rural-lab-usme.blogspot.com](https://rural-lab-usme.blogspot.com)
- - date_published: 2024-08-28T12:48:51+00:00
-
- ## Ruscombe Green
- - [http://ruscombegreen.blogspot.com](http://ruscombegreen.blogspot.com)
- - date_published: 2024-10-21T17:56:49.411524+00:00
-
- ## Tom Russell: Notes from the Borderland
- - [http://russelltom.blogspot.com](http://russelltom.blogspot.com)
- - date_published: 2024-02-21T07:53:56+00:00
-
- ## Russian Dinosaur
- - [http://russiandinosaur.blogspot.com](http://russiandinosaur.blogspot.com)
- - date_published: 2024-05-21T09:46:17+00:00
-
- ## Rush-Mush
- - [http://russianmushroom.blogspot.com](http://russianmushroom.blogspot.com)
- - date_published: 2024-06-11T17:57:28+00:00
-
- ## The Gallery: Art of Russ Nicholson
- - [https://russnicholson.blogspot.com](https://russnicholson.blogspot.com)
- - date_published: 2020-02-27T00:00:00+00:00
-
- ## Blogger
- - [http://rustandthecity.blogspot.com](http://rustandthecity.blogspot.com)
- - date_published: 2024-07-20T06:53:44.592794+00:00
-
- ## Rustmeister's Alehouse
- - [http://rustmeister.blogspot.com](http://rustmeister.blogspot.com)
- - date_published: 2024-03-12T23:48:37+00:00
-
- ## Rusty Battle Axe
- - [http://rustybattleaxe.blogspot.com](http://rustybattleaxe.blogspot.com)
- - date_published: 2024-02-20T10:45:50+00:00
 

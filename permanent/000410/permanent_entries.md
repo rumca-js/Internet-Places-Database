@@ -1,3 +1,131 @@
+ ## King Abdulaziz City for Science and Technology
+ - [https://www.kacst.edu.sa](https://www.kacst.edu.sa)
+ - date_published: 2024-04-18T10:01:27+00:00
+
+ ## King Abdullah University of Science and Technology
+ - [https://admissions.kaust.edu.sa](https://admissions.kaust.edu.sa)
+ - date_published: 2024-05-14T13:36:35+00:00
+
+ ## KAUST Artificial Intelligence Initiative | AI | KAUST AI Initiative
+ - [http://ai.kaust.edu.sa](http://ai.kaust.edu.sa)
+ - date_published: 2024-08-07T14:34:07+00:00
+
+ ## Home
+ - [https://alumni.kaust.edu.sa](https://alumni.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:17.849973+00:00
+
+ ## HOME
+ - [https://bese.kaust.edu.sa](https://bese.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:41.734390+00:00
+
+ ## Home
+ - [https://cci.kaust.edu.sa](https://cci.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:35.350313+00:00
+
+ ## Computer, Electrical and Mathematical Sciences and Engineering Division | CEMSE | Computer, Electrical and Mathematical Sciences and Engineering
+ - [https://cemse.kaust.edu.sa](https://cemse.kaust.edu.sa)
+ - date_published: 2024-06-22T03:43:21+00:00
+
+ ## Home
+ - [https://commencement.kaust.edu.sa](https://commencement.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:24.925498+00:00
+
+ ## Community Life
+ - [https://communitylife.kaust.edu.sa](https://communitylife.kaust.edu.sa)
+ - date_published: 2024-08-07T14:29:21.746893+00:00
+
+ ## Home
+ - [https://corelabs.kaust.edu.sa](https://corelabs.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:43.173142+00:00
+
+ ## Curriculum Management
+ - [https://courses.kaust.edu.sa](https://courses.kaust.edu.sa)
+ - date_published: 2024-01-08T16:46:30+00:00
+
+ ## KAUST Discovery - From curiosity to innovation
+ - [https://discovery.kaust.edu.sa](https://discovery.kaust.edu.sa)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home | Winter Enrichment Program 2024 at KAUST
+ - [https://enrichment.kaust.edu.sa](https://enrichment.kaust.edu.sa)
+ - date_published: 2024-01-09T12:12:13+00:00
+
+ ## Home
+ - [https://facultylife.kaust.edu.sa](https://facultylife.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:14.628809+00:00
+
+ ## KAUST Innovation
+ - [https://innovation.kaust.edu.sa](https://innovation.kaust.edu.sa)
+ - date_published: 2015-04-01T20:00:49+00:00
+
+ ## Home - KAUST Insight
+ - [https://insight.kaust.edu.sa](https://insight.kaust.edu.sa)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Image and Video Understanding Lab | IVUL | Image and Video Understanding Lab
+ - [http://ivul.kaust.edu.sa](http://ivul.kaust.edu.sa)
+ - date_published: 2024-08-07T14:40:18+00:00
+
+ ## King Abdullah University of Science and Technology | KAUST
+ - [https://kaust.edu.sa](https://kaust.edu.sa)
+ - date_published: 2024-04-28T03:52:58.644832+00:00
+
+ ## HOME
+ - [https://kgfp.kaust.edu.sa](https://kgfp.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:22.244718+00:00
+
+ ## Community Map
+ - [https://maps.kaust.edu.sa](https://maps.kaust.edu.sa)
+ - date_published: 2024-07-02T06:48:05+00:00
+
+ ## Museum of Science & Technology in Islam
+ - [https://museum.kaust.edu.sa](https://museum.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:45.045140+00:00
+
+ ## Home
+ - [https://ora.kaust.edu.sa](https://ora.kaust.edu.sa)
+ - date_published: 2024-08-07T14:29:10.327897+00:00
+
+ ## PSE
+ - [https://pse.kaust.edu.sa](https://pse.kaust.edu.sa)
+ - date_published: 2024-08-07T14:29:06.588964+00:00
+
+ ## HOME
+ - [https://registrar.kaust.edu.sa](https://registrar.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:48.454046+00:00
+
+ ## Research Compliance
+ - [https://researchcompliance.kaust.edu.sa](https://researchcompliance.kaust.edu.sa)
+ - date_published: 2023-03-31T07:07:08+00:00
+
+ ## Home
+ - [https://rfs.kaust.edu.sa](https://rfs.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:58.353034+00:00
+
+ ## Home
+ - [https://rtp.kaust.edu.sa](https://rtp.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:16.376400+00:00
+
+ ## Home
+ - [https://smarthealth.kaust.edu.sa](https://smarthealth.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:13.148951+00:00
+
+ ## Home | Kaust Sustainability
+ - [https://sustainability.kaust.edu.sa](https://sustainability.kaust.edu.sa)
+ - date_published: 2024-08-07T14:38:29.458725+00:00
+
+ ## THE LENS | KAUST News & Updates
+ - [https://thelens.kaust.edu.sa](https://thelens.kaust.edu.sa)
+ - date_published: 2024-08-07T14:28:37.273992+00:00
+
+ ## HOME
+ - [https://tie.kaust.edu.sa](https://tie.kaust.edu.sa)
+ - date_published: 2024-04-01T19:01:15+00:00
+
+ ## Visual Computing Center | VCC | Visual Computing Center
+ - [http://vcc.kaust.edu.sa](http://vcc.kaust.edu.sa)
+ - date_published: 2024-08-07T11:28:41+00:00
+
  ## Home
  - [https://vsrp.kaust.edu.sa](https://vsrp.kaust.edu.sa)
  - date_published: 2024-08-07T14:28:19.266166+00:00
@@ -3891,132 +4019,4 @@
  ## Land Rover | Utforska lyx-SUV:ar med legendarisk fyrhjulsdrift | Land Rover Sverige
  - [https://www.landrover.se](https://www.landrover.se)
  - date_published: 2024-03-27T00:00:00+00:00
-
- ## Logga in på Mina sidor - Länsförsäkringar
- - [https://secure246.lansforsakringar.se](https://secure246.lansforsakringar.se)
- - date_published: 2024-06-13T05:40:10+00:00
-
- ## Heltäckande inom bank och försäkringar - Länsförsäkringar
- - [https://www.lansforsakringar.se](https://www.lansforsakringar.se)
- - date_published: 2024-05-01T06:11:22.834002+00:00
-
- ## larouche.se is almost here!
- - [http://www.larouche.se](http://www.larouche.se)
- - date_published: 2024-07-12T20:20:59+00:00
-
- ## larsthunberg.se – Lars Thunberg – Sollentuna
- - [https://www.larsthunberg.se](https://www.larsthunberg.se)
- - date_published: 2024-06-29T07:58:37.283919+00:00
-
- ## En skräck, en sci-fi och en sak till
- - [https://lasloss.se](https://lasloss.se)
- - date_published: 2024-05-12T05:28:25.502230+00:00
-
- ## Lawline - Juridisk rådgivning & hjälp - Jurist online
- - [https://lawline.se](https://lawline.se)
- - date_published: 2024-05-08T10:01:38.623635+00:00
-
- ## leblog.se
- - [http://totte.leblog.se](http://totte.leblog.se)
- - date_published: 2024-10-31T17:14:51.859455+00:00
-
- ## Web App - Unavailable
- - [https://leetspeak.se](https://leetspeak.se)
- - date_published: 2024-07-07T05:26:33.988469+00:00
-
- ## Vincent Lejtzén
- - [https://lejtzendesign.se](https://lejtzendesign.se)
- - date_published: 2022-08-06T22:48:00+00:00
-
- ## Prisgaranti, flerårigt prisbelönt kundservice | Lensway
- - [https://www.lensway.se](https://www.lensway.se)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Lerums Tidning - Nyheter från Lerum
- - [https://www.lerumstidning.se](https://www.lerumstidning.se)
- - date_published: 2024-08-18T03:29:51+00:00
-
- ## Leftfield Records
- - [http://www.lftfld.se](http://www.lftfld.se)
- - date_published: 2022-03-30T09:17:19+00:00
-
- ## Lidl Sverige - Högsta kvalitet till branschens bästa pris
- - [https://www.lidl.se](https://www.lidl.se)
- - date_published: 2024-06-25T19:02:09.589098+00:00
-
- ## Heartflow - Låt dig ledas av ditt hjärta
- - [https://lifeguide.se](https://lifeguide.se)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mediehuset Life of Svea har det starkaste digitala erbjudandet i målgruppen kvinnor 18 - 45 år.
- - [https://lifeofsvea.se](https://lifeofsvea.se)
- - date_published: 2024-07-22T18:05:06+00:00
-
- ## Liljevalchs
- - [https://liljevalchs.se](https://liljevalchs.se)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## LINAK – elektriska linjära ställdonssystem för rörelser
- - [https://www.linak.se](https://www.linak.se)
- - date_published: 2024-09-05T21:36:32.220122+00:00
-
- ## Grattis Göran och Therese! - 8-bit Wedding
- - [http://8bitwedding.linusbohman.se](http://8bitwedding.linusbohman.se)
- - date_published: 2024-08-18T07:31:18.951622+00:00
-
- ## Fake stories about real people
- - [http://fakestoriesrealpeople.linusbohman.se](http://fakestoriesrealpeople.linusbohman.se)
- - date_published: 2020-03-17T18:06:43+00:00
-
- ## legible.css
- - [http://legiblecss.linusbohman.se](http://legiblecss.linusbohman.se)
- - date_published: 2020-03-17T18:06:47+00:00
-
- ## Linus Bohman, making things since 1984
- - [https://linusbohman.se](https://linusbohman.se)
- - date_published: 2024-01-04T19:57:10.255184+00:00
-
- ## Linus learns to draw
- - [http://linuslearnstodraw.linusbohman.se](http://linuslearnstodraw.linusbohman.se)
- - date_published: 2020-03-17T18:06:47+00:00
-
- ## Öl-VM
- - [http://olvm.linusbohman.se](http://olvm.linusbohman.se)
- - date_published: 2024-08-18T07:31:15.677061+00:00
-
- ## linuxmint.se
- - [https://linuxmint.se](https://linuxmint.se)
- - date_published: 2024-05-04T12:46:15.901025+00:00
-
- ## Common Lisp HyperSpec (TM)
- - [http://clhs.lisp.se](http://clhs.lisp.se)
- - date_published: 2017-06-29T12:43:18+00:00
-
- ## Datorhandbok
- - [https://datorhandbok.lysator.liu.se](https://datorhandbok.lysator.liu.se)
- - date_published: 2023-09-14T16:51:32+00:00
-
- ## Index of /
- - [https://ftp.lysator.liu.se](https://ftp.lysator.liu.se)
- - date_published: 2024-07-20T05:16:15.774605+00:00
-
- ## Sign in · GitLab
- - [https://git.lysator.liu.se](https://git.lysator.liu.se)
- - date_published: 2024-06-17T03:06:19.614978+00:00
-
- ## Sign In
- - [https://intranet.liu.se](https://intranet.liu.se)
- - date_published: 2024-07-12T16:28:19.033757+00:00
-
- ## jskom
- - [https://jskom.lysator.liu.se](https://jskom.lysator.liu.se)
- - date_published: 2024-08-18T07:14:57.771366+00:00
-
- ## Redirecting...
- - [https://lisam.liu.se](https://lisam.liu.se)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Sign In
- - [https://liunet.liu.se](https://liunet.liu.se)
- - date_published: 2024-08-18T11:08:28.460320+00:00
 

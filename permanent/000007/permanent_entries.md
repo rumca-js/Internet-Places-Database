@@ -1,3 +1,15 @@
+ ## xLog - Write. Own. Earn.
+ - [https://xlog.app](https://xlog.app)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Xmind - Full-featured mind mapping and brainstorming tool.
+ - [https://xmind.app](https://xmind.app)
+ - date_published: 2024-07-09T15:52:54.690470+00:00
+
+ ## Xpeer, Next Medical Education
+ - [https://web.xpeer.app](https://web.xpeer.app)
+ - date_published: 2024-06-12T10:25:38+00:00
+
  ## All-in-one workspace for your creative journey • xTiles
  - [https://xtiles.app](https://xtiles.app)
  - date_published: 2024-08-06T00:00:00+00:00
@@ -49,6 +61,14 @@
  ## Show HN: Python-Type-Challenges, master Python typing with online exercises
  - [https://python-type-challenges.zeabur.app](https://python-type-challenges.zeabur.app)
  - date_published: 2023-11-29T06:38:03+00:00
+
+ ## Welcome to Zen Browser's Documentation
+ - [https://docs.zen-browser.app](https://docs.zen-browser.app)
+ - date_published: 2024-12-02T00:14:06+00:00
+
+ ## updates-server
+ - [https://updates.zen-browser.app](https://updates.zen-browser.app)
+ - date_published: 2024-12-06T14:16:10+00:00
 
  ## Zen: Firefox Based Browser
  - [https://zen-browser.app](https://zen-browser.app)
@@ -4011,24 +4031,4 @@ October 2024 in Singapore
  ## Deetail® Marketing & Webdesign Agentur: Webdesign | Strategie | Performance
  - [https://www.deetail.at](https://www.deetail.at)
  - date_published: 2023-02-03T16:08:10+00:00
-
- ## DER WIENER DEEWAN •  pakistani food  •  essen für alle
- - [http://deewan.at](http://deewan.at)
- - date_published: 2024-07-10T09:21:13.711151+00:00
-
- ## Online Wertpapierhandel | Günstige Gebühren | Broker DEGIRO
- - [https://www.degiro.at](https://www.degiro.at)
- - date_published: 2024-05-22T10:58:04+00:00
-
- ## Organisation „United for Human Rights“: Informationen über die Liste der durch die Allgemeine Erklärung der Menschenrechte geschützten Rechte
- - [https://www.deinemenschenrechte.at](https://www.deinemenschenrechte.at)
- - date_published: 2024-09-04T17:57:40.004869+00:00
-
- ## Demenzhilfe der Volkshilfe
- - [http://demenz-hilfe.at](http://demenz-hilfe.at)
- - date_published: 2024-10-22T11:33:13.101102+00:00
-
- ## DER STANDARD Abo & Angebote
- - [https://abo.derstandard.at](https://abo.derstandard.at)
- - date_published: 2024-10-22T12:20:08.437597+00:00
 

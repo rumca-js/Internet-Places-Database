@@ -1,3 +1,43 @@
+ ## That Figures
+ - [http://that-figures.blogspot.com](http://that-figures.blogspot.com)
+ - date_published: 2024-09-27T07:22:57+00:00
+
+ ## That Guy James
+ - [http://thatguyjames.blogspot.com](http://thatguyjames.blogspot.com)
+ - date_published: 2024-08-30T04:24:34+00:00
+
+ ## That Lawyer Dude
+ - [http://thatlawyerdude.blogspot.com](http://thatlawyerdude.blogspot.com)
+ - date_published: 2017-06-14T15:39:00+00:00
+
+ ## That Logic Blog
+ - [http://thatlogicblog.blogspot.com](http://thatlogicblog.blogspot.com)
+ - date_published: 2024-04-19T19:41:18+00:00
+
+ ## That Modern Rock Show
+ - [http://thatmodernrockshow.blogspot.com](http://thatmodernrockshow.blogspot.com)
+ - date_published: 2024-10-24T11:08:32+00:00
+
+ ## That's Punny!
+ - [http://thatspunny.blogspot.com](http://thatspunny.blogspot.com)
+ - date_published: 2024-10-19T11:04:48.867276+00:00
+
+ ## THCC Families
+ - [http://thccfamilies.blogspot.com](http://thccfamilies.blogspot.com)
+ - date_published: 2024-05-10T04:30:24+00:00
+
+ ## The 1709 Blog
+ - [http://the1709blog.blogspot.com](http://the1709blog.blogspot.com)
+ - date_published: 2024-10-18T19:16:32.780519+00:00
+
+ ## The Academy
+ - [http://theacademy.blogspot.com](http://theacademy.blogspot.com)
+ - date_published: 2024-03-07T07:14:38+00:00
+
+ ## The Accessible Transhumanist
+ - [http://theaccessibletranshumanist.blogspot.com](http://theaccessibletranshumanist.blogspot.com)
+ - date_published: 2024-03-13T18:17:47+00:00
+
  ## The Accidental Environmentalist
  - [http://theaccidentalenvironmentalist.blogspot.com](http://theaccidentalenvironmentalist.blogspot.com)
  - date_published: 2024-03-07T08:07:53+00:00
@@ -3967,45 +4007,4 @@
  ## All about Warhammer 40k & Fantasy  , Or One Page Rule
  - [https://wargameskorinthos.blogspot.com](https://wargameskorinthos.blogspot.com)
  - date_published: 2024-06-05T12:57:18+00:00
-
- ## Happy Valley
- - [http://wargamesleadslifenstuff.blogspot.com](http://wargamesleadslifenstuff.blogspot.com)
- - date_published: 2024-05-16T21:50:57+00:00
-
- ## Wargames & Stuff
- - [https://wargamestuff.blogspot.com](https://wargamestuff.blogspot.com)
- - date_published: 2024-05-17T14:39:24.050692+00:00
- - tags: ['miniatures', 'wargames']
-
- ## Wargames Wasteland
- - [http://wargames-wasteland.blogspot.com](http://wargames-wasteland.blogspot.com)
- - date_published: 2024-10-24T23:19:58+00:00
-
- ## Wargame News and Terrain
- - [http://wargameterrain.blogspot.com](http://wargameterrain.blogspot.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Wargame Transfers by Battle Flag
- - [http://wargametransfers.blogspot.com](http://wargametransfers.blogspot.com)
- - date_published: 2024-09-09T10:47:36+00:00
-
- ## Wargaming for Grown-ups
- - [http://wargaming4grownups.blogspot.com](http://wargaming4grownups.blogspot.com)
- - date_published: 2024-07-07T20:39:56+00:00
-
- ## Wargaming Buildings
- - [http://wargamingbuildings.blogspot.com](http://wargamingbuildings.blogspot.com)
- - date_published: 2024-07-12T07:39:13+00:00
-
- ## A Wargaming Gallimaufry
- - [https://wargaminggallimaufry.blogspot.com](https://wargaminggallimaufry.blogspot.com)
- - date_published: 2024-07-19T12:38:05+00:00
-
- ## Wargaming Girl
- - [http://wargaminggirl.blogspot.com](http://wargaminggirl.blogspot.com)
- - date_published: 2024-07-13T07:46:59+00:00
-
- ## Wargaming Mechanics
- - [http://wargaming-mechanics.blogspot.com](http://wargaming-mechanics.blogspot.com)
- - date_published: 2024-09-18T08:49:19+00:00
 

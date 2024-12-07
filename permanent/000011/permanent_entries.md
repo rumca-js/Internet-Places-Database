@@ -1,3 +1,27 @@
+ ## Waterfalls of Tasmania
+ - [http://waterfallsoftasmania.com.au](http://waterfallsoftasmania.com.au)
+ - date_published: 2024-08-18T05:18:57.435461+00:00
+
+ ## WAtoday
+ - [https://help.watoday.com.au](https://help.watoday.com.au)
+ - date_published: 2024-09-16T08:12:00.325519+00:00
+
+ ## Subscribe to WAtoday - Save over 50% for 3 months
+ - [https://subscribe.watoday.com.au](https://subscribe.watoday.com.au)
+ - date_published: 2024-05-22T22:33:40+00:00
+
+ ## WA Today Death Notices - Perth, Western Australia | WA Today
+ - [https://tributes.watoday.com.au](https://tributes.watoday.com.au)
+ - date_published: 2024-06-15T05:52:18.440899+00:00
+
+ ## Australian TV Guide - All TV Show times, All Channels - WA Today
+ - [https://tvguide.watoday.com.au](https://tvguide.watoday.com.au)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Breaking News from Perth & Western Australia | WAtoday.com.au
+ - [https://watoday.com.au](https://watoday.com.au)
+ - date_published: 2024-05-01T02:32:44.303943+00:00
+
  ## BESIX Watpac
  - [https://www.watpac.com.au](https://www.watpac.com.au)
  - date_published: 2024-07-31T00:00:00+00:00
@@ -3998,28 +4022,4 @@ University of Technology
  ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
  - [https://www.dianetics.org.au](https://www.dianetics.org.au)
  - date_published: 2024-09-04T18:07:24.341379+00:00
-
- ## Digital Bioprocess Hub
- - [https://digitalbioprocesshub.org.au](https://digitalbioprocesshub.org.au)
- - date_published: 2024-07-19T19:45:43.680535+00:00
-
- ## Home - Digital Rights Watch
- - [https://digitalrightswatch.org.au](https://digitalrightswatch.org.au)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Disclaimer
- - [https://disclaimer.org.au](https://disclaimer.org.au)
- - date_published: 2024-05-10T06:27:22.027954+00:00
-
- ## Home - dpc.org.au
- - [http://dpc.org.au](http://dpc.org.au)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## DSAi | Data Science and AI Association of Australia
- - [https://dsai.org.au](https://dsai.org.au)
- - date_published: 2024-04-03T09:03:02+00:00
-
- ## Home - Effective Altruism Australia
- - [https://eaa.org.au](https://eaa.org.au)
- - date_published: 2020-04-02T01:32:27+00:00
 

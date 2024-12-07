@@ -1,3 +1,7 @@
+ ## Happy Bob turns diabetes data into rewarding experiences and better health
+ - [https://happybob.app](https://happybob.app)
+ - date_published: 2024-10-17T05:51:28.387223+00:00
+
  ## Hardcover
  - [https://hardcover.app](https://hardcover.app)
  - date_published: 2024-05-07T14:34:18.728544+00:00
@@ -551,6 +555,10 @@
  ## Lettercase™
  - [https://lettercase.app](https://lettercase.app)
  - date_published: 2024-07-04T11:01:34.731562+00:00
+
+ ## Lidana - AI Generated Manual Test Cases
+ - [https://www.lidana.app](https://www.lidana.app)
+ - date_published: 2024-12-06T10:44:04.960354+00:00
 
  ## Lightest.app
  - [https://www.lightest.app](https://www.lightest.app)
@@ -4033,12 +4041,4 @@
  ## Savepad - Join the Waitlist!
  - [https://savepad.app](https://savepad.app)
  - date_published: 2024-03-23T00:00:00+00:00
-
- ## Coinbit Mainnet POA Explorer
- - [https://coinbit-explorer.chain.sbcrypto.app](https://coinbit-explorer.chain.sbcrypto.app)
- - date_published: 2024-09-23T20:21:01.741266+00:00
-
- ## Online Book Writing Software now with AI Writing Assistant
- - [https://sceneone.app](https://sceneone.app)
- - date_published: 2024-06-19T20:03:38.704975+00:00
 

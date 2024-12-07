@@ -1,3 +1,43 @@
+ ## Questions in Development
+ - [http://rupertsimons.blogspot.com](http://rupertsimons.blogspot.com)
+ - date_published: 2024-03-05T10:39:02+00:00
+
+ ## RURAL-LAB
+ - [https://rural-lab-usme.blogspot.com](https://rural-lab-usme.blogspot.com)
+ - date_published: 2024-08-28T12:48:51+00:00
+
+ ## Ruscombe Green
+ - [http://ruscombegreen.blogspot.com](http://ruscombegreen.blogspot.com)
+ - date_published: 2024-10-21T17:56:49.411524+00:00
+
+ ## Tom Russell: Notes from the Borderland
+ - [http://russelltom.blogspot.com](http://russelltom.blogspot.com)
+ - date_published: 2024-02-21T07:53:56+00:00
+
+ ## Russian Dinosaur
+ - [http://russiandinosaur.blogspot.com](http://russiandinosaur.blogspot.com)
+ - date_published: 2024-05-21T09:46:17+00:00
+
+ ## Rush-Mush
+ - [http://russianmushroom.blogspot.com](http://russianmushroom.blogspot.com)
+ - date_published: 2024-06-11T17:57:28+00:00
+
+ ## The Gallery: Art of Russ Nicholson
+ - [https://russnicholson.blogspot.com](https://russnicholson.blogspot.com)
+ - date_published: 2020-02-27T00:00:00+00:00
+
+ ## Blogger
+ - [http://rustandthecity.blogspot.com](http://rustandthecity.blogspot.com)
+ - date_published: 2024-07-20T06:53:44.592794+00:00
+
+ ## Rustmeister's Alehouse
+ - [http://rustmeister.blogspot.com](http://rustmeister.blogspot.com)
+ - date_published: 2024-03-12T23:48:37+00:00
+
+ ## Rusty Battle Axe
+ - [http://rustybattleaxe.blogspot.com](http://rustybattleaxe.blogspot.com)
+ - date_published: 2024-02-20T10:45:50+00:00
+
  ## Rusty Mech Salvage
  - [http://rustymechsalvage.blogspot.com](http://rustymechsalvage.blogspot.com)
  - date_published: 2024-03-20T07:36:06+00:00
@@ -3972,44 +4012,4 @@
  ## thatdakotajones
  - [http://thatdakotajones.blogspot.com](http://thatdakotajones.blogspot.com)
  - date_published: 2024-02-21T00:42:29+00:00
-
- ## That Figures
- - [http://that-figures.blogspot.com](http://that-figures.blogspot.com)
- - date_published: 2024-09-27T07:22:57+00:00
-
- ## That Guy James
- - [http://thatguyjames.blogspot.com](http://thatguyjames.blogspot.com)
- - date_published: 2024-08-30T04:24:34+00:00
-
- ## That Lawyer Dude
- - [http://thatlawyerdude.blogspot.com](http://thatlawyerdude.blogspot.com)
- - date_published: 2017-06-14T15:39:00+00:00
-
- ## That Logic Blog
- - [http://thatlogicblog.blogspot.com](http://thatlogicblog.blogspot.com)
- - date_published: 2024-04-19T19:41:18+00:00
-
- ## That Modern Rock Show
- - [http://thatmodernrockshow.blogspot.com](http://thatmodernrockshow.blogspot.com)
- - date_published: 2024-10-24T11:08:32+00:00
-
- ## That's Punny!
- - [http://thatspunny.blogspot.com](http://thatspunny.blogspot.com)
- - date_published: 2024-10-19T11:04:48.867276+00:00
-
- ## THCC Families
- - [http://thccfamilies.blogspot.com](http://thccfamilies.blogspot.com)
- - date_published: 2024-05-10T04:30:24+00:00
-
- ## The 1709 Blog
- - [http://the1709blog.blogspot.com](http://the1709blog.blogspot.com)
- - date_published: 2024-10-18T19:16:32.780519+00:00
-
- ## The Academy
- - [http://theacademy.blogspot.com](http://theacademy.blogspot.com)
- - date_published: 2024-03-07T07:14:38+00:00
-
- ## The Accessible Transhumanist
- - [http://theaccessibletranshumanist.blogspot.com](http://theaccessibletranshumanist.blogspot.com)
- - date_published: 2024-03-13T18:17:47+00:00
 

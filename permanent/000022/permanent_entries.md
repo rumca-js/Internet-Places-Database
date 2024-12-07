@@ -1,3 +1,31 @@
+ ## Alle Netflix-Filem und Serien - AufNetflix.ch
+ - [https://www.aufnetflix.ch](https://www.aufnetflix.ch)
+ - date_published: 2024-09-02T11:17:49.889234+00:00
+
+ ## AUGS - Amiga User Group Switzerland
+ - [https://www.augs.ch](https://www.augs.ch)
+ - date_published: 2024-08-19T19:46:15.530446+00:00
+
+ ## Top aktuelles Datenmaterial und einfachste Handhabung
+ - [https://www.auto-i-dat.ch](https://www.auto-i-dat.ch)
+ - date_published: 2024-07-11T14:38:28.906109+00:00
+
+ ## Avis dexperts
+ - [https://avisdexperts.ch](https://avisdexperts.ch)
+ - date_published: 2024-07-21T05:12:50.589117+00:00
+
+ ## Gesamtlösung für Gemeinden, Städte und kantonale Finanzverwaltungen - Axians Infoma - Ihr Partner für Smart Government
+ - [https://www.axians-infoma.ch](https://www.axians-infoma.ch)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Services of cable.ayra.ch
+ - [https://cable.ayra.ch](https://cable.ayra.ch)
+ - date_published: 2023-10-12T13:44:48+00:00
+
+ ## Home - TS3 Identity generator
+ - [https://identity.ayra.ch](https://identity.ayra.ch)
+ - date_published: 2017-09-26T16:39:10+00:00
+
  ## Dafi Kühne – Dafi Kühne is a graphic designer and letterpress print maker from Zürich+Glarus, Switzerland. Since 2009 his studio «babyinktwice» has been designing and printing posters, invitation cards and brochures for music, art, architecture, theater and film projects and also for products. Since 2011 Dafi Kühne has also been teaching everything from short workshops to full semesters in various universities in Europe and the United States.
  - [https://2018.babyinktwice.ch](https://2018.babyinktwice.ch)
  - date_published: 2024-10-29T13:48:35.409227+00:00
@@ -3982,32 +4010,4 @@
  ## software.hixie.ch
  - [https://software.hixie.ch](https://software.hixie.ch)
  - date_published: 2024-05-11T05:36:05.495364+00:00
-
- ## www.hixie.ch
- - [http://www.hixie.ch](http://www.hixie.ch)
- - date_published: 2024-06-23T16:38:39.825227+00:00
-
- ## hokify - deine mobile Job-Plattform | Jobbörse | Stellenangebote
- - [https://hokify.ch](https://hokify.ch)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Daniel Holbach
- - [https://daniel.holba.ch](https://daniel.holba.ch)
- - date_published: 2024-09-20T14:12:28+00:00
-
- ## home.ch
- - [https://www.home.ch](https://www.home.ch)
- - date_published: 2024-07-21T04:52:19.826355+00:00
-
- ## Sign in | homegate.ch
- - [https://accounts.homegate.ch](https://accounts.homegate.ch)
- - date_published: 2024-07-21T04:52:29.887172+00:00
-
- ## Homegate | Immobilien Markt Schweiz
- - [https://auth.homegate.ch](https://auth.homegate.ch)
- - date_published: 2024-07-21T04:52:08.151692+00:00
-
- ## Homegate | Immobilien Markt Schweiz
- - [https://homegate.ch](https://homegate.ch)
- - date_published: 2024-04-30T06:42:11.422891+00:00
 

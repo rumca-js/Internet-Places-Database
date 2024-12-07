@@ -1,3 +1,103 @@
+ ## GIANT | Giantbicyclesid
+ - [https://www.giantbicycle.id](https://www.giantbicycle.id)
+ - date_published: 2024-09-18T02:01:16.777264+00:00
+
+ ## Login - KG Media ID
+ - [https://account.grid.id](https://account.grid.id)
+ - date_published: 2024-10-14T22:59:16.766931+00:00
+
+ ## adjar.ID - Situs Tentang Materi Pelajaran
+ - [https://adjar.grid.id](https://adjar.grid.id)
+ - date_published: 2024-10-14T22:59:08.786273+00:00
+
+ ## Bobo.ID - Teman Bermain dan Belajar
+ - [https://bobo.grid.id](https://bobo.grid.id)
+ - date_published: 2024-10-14T22:58:56.113606+00:00
+
+ ## Cerdasbelanja.id - Serba - serbi Info Belanja
+ - [https://cerdasbelanja.grid.id](https://cerdasbelanja.grid.id)
+ - date_published: 2024-10-14T22:59:04.908783+00:00
+
+ ## Situs Untuk Perempuan Muda - CewekBanget.ID
+ - [https://cewekbanget.grid.id](https://cewekbanget.grid.id)
+ - date_published: 2024-10-14T22:56:46.740563+00:00
+
+ ## GridFame.id - Berita, Informasi & Tips Tentang Finance
+ - [https://fame.grid.id](https://fame.grid.id)
+ - date_published: 2024-10-14T22:57:33.006756+00:00
+
+ ## Fotokita - Berita Foto Dengan Fakta Sebenarnya
+ - [https://fotokita.grid.id](https://fotokita.grid.id)
+ - date_published: 2024-10-14T22:59:02.538343+00:00
+
+ ## GridGames.id - Berita Tentang Dunia Games & eSport
+ - [https://games.grid.id](https://games.grid.id)
+ - date_published: 2024-10-14T22:58:01.215356+00:00
+
+ ## Celebrity Breaking News - Berita Artis Terkini Hari Ini - Grid.ID
+ - [https://grid.id](https://grid.id)
+ - date_published: 2024-10-14T22:56:48.943414+00:00
+
+ ## Situs Remaja Cowok
+ - [https://hai.grid.id](https://hai.grid.id)
+ - date_published: 2024-10-14T22:57:35.476350+00:00
+
+ ## Inspiring Better Health - Gridhealth.id
+ - [https://health.grid.id](https://health.grid.id)
+ - date_published: 2024-10-14T22:58:39.223616+00:00
+
+ ## GridHits.id - Berita TerHits dari Dunia Hiburan
+ - [https://hits.grid.id](https://hits.grid.id)
+ - date_published: 2024-10-14T22:59:19.448651+00:00
+
+ ## Grid Hot - Seputar peristiwa terkini
+ - [https://hot.grid.id](https://hot.grid.id)
+ - date_published: 2024-10-14T22:59:10.474452+00:00
+
+ ## Berita Entertainment TerHype, Terkini Dan Terpercaya
+ - [https://hype.grid.id](https://hype.grid.id)
+ - date_published: 2024-10-14T22:58:45.126366+00:00
+
+ ## iDEA Online - Inspirasi Dalam Mempercantik Hunian
+ - [https://idea.grid.id](https://idea.grid.id)
+ - date_published: 2024-10-14T22:57:48.367687+00:00
+
+ ## Discover Possibilities in Industry 4.0 Era - Infokomputer Online
+ - [https://infokomputer.grid.id](https://infokomputer.grid.id)
+ - date_published: 2024-10-14T22:59:06.704764+00:00
+
+ ## Smart And Inspiring - Intisari Online
+ - [https://intisari.grid.id](https://intisari.grid.id)
+ - date_published: 2024-10-14T22:56:39.020744+00:00
+
+ ## Grid Kids - Situs Pembelajaran Anak Terlengkap
+ - [https://kids.grid.id](https://kids.grid.id)
+ - date_published: 2024-10-14T22:59:12.375827+00:00
+
+ ## Kitchenesia - Appetizing Recipes, Indonesian Way
+ - [https://kitchenesia.grid.id](https://kitchenesia.grid.id)
+ - date_published: 2024-10-14T22:59:27.378968+00:00
+
+ ## Makemac - Berita Terupdate Tentang Produk Apple & iOS
+ - [https://makemac.grid.id](https://makemac.grid.id)
+ - date_published: 2024-10-14T22:59:30.232199+00:00
+
+ ## For Moms and Everything that Matters - Nakita.ID
+ - [https://nakita.grid.id](https://nakita.grid.id)
+ - date_published: 2024-10-14T22:57:23.718618+00:00
+
+ ## National Geographic Indonesia
+ - [https://nationalgeographic.grid.id](https://nationalgeographic.grid.id)
+ - date_published: 2024-06-16T22:12:27.062044+00:00
+
+ ## Tren Dan Berita Terkini Dunia Teknologi - Nextren.grid.id
+ - [https://nextren.grid.id](https://nextren.grid.id)
+ - date_published: 2024-10-14T22:57:28.458107+00:00
+
+ ## NOVA - Sahabat Perempuan Indonesia yang Berani dan Mandiri
+ - [https://nova.grid.id](https://nova.grid.id)
+ - date_published: 2024-10-14T22:58:03.494647+00:00
+
  ## Female-style Automotive - Otofemale.id
  - [https://otofemale.grid.id](https://otofemale.grid.id)
  - date_published: 2024-10-14T22:56:54.874364+00:00
@@ -3905,104 +4005,4 @@
  ## הדקאנט לחדשנות בהוראה ובלמידה
  - [https://innovative-learning.tau.ac.il](https://innovative-learning.tau.ac.il)
  - date_published: 2024-07-24T07:58:15.206717+00:00
-
- ## TAU International
- - [https://international.tau.ac.il](https://international.tau.ac.il)
- - date_published: 2024-07-21T21:13:18+00:00
-
- ## היחידה ללימודי שפות
- - [http://languages.tau.ac.il](http://languages.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## הפקולטה למשפטים ע"ש בוכמן
- - [https://law.tau.ac.il](https://law.tau.ac.il)
- - date_published: 2024-07-21T22:16:55+00:00
-
- ## אתר הספריות
- - [https://libraries.tau.ac.il](https://libraries.tau.ac.il)
- - date_published: 2024-07-24T07:58:28.734420+00:00
-
- ## הפקולטה למדעי החיים ע"ש ג'ורג ס' וייז
- - [https://lifesci.tau.ac.il](https://lifesci.tau.ac.il)
- - date_published: 2024-07-24T07:58:44.646659+00:00
-
- ## הפקולטה למדעי הרפואה והבריאות
- - [https://med.tau.ac.il](https://med.tau.ac.il)
- - date_published: 2024-07-24T07:57:23.480080+00:00
-
- ## עמוד הבית
- - [https://m.tau.ac.il](https://m.tau.ac.il)
- - date_published: 2024-07-24T07:57:51.287075+00:00
-
- ## Nano Center
- - [https://nano.tau.ac.il](https://nano.tau.ac.il)
- - date_published: 2024-07-24T07:58:07.649976+00:00
-
- ## עמוד הבית
- - [http://new.tau.ac.il](http://new.tau.ac.il)
- - date_published: 2024-07-24T07:57:25.645710+00:00
-
- ## אוניברסיטת תל אביב לנוער - נוער שוחר מדע
- - [https://noar.tau.ac.il](https://noar.tau.ac.il)
- - date_published: 2024-07-24T07:57:55.692108+00:00
-
- ## ארגון הסגל המינהלי
- - [https://ovdim.tau.ac.il](https://ovdim.tau.ac.il)
- - date_published: 2024-07-24T07:57:48.388726+00:00
-
- ## המרכז להתמודדות עם מגפות
- - [https://pandemics.tau.ac.il](https://pandemics.tau.ac.il)
- - date_published: 2024-07-24T07:58:27.626002+00:00
-
- ## מיזם האקלים של אוניברסיטת תל אביב
- - [https://planetzero.tau.ac.il](https://planetzero.tau.ac.il)
- - date_published: 2024-07-24T07:57:33.949921+00:00
-
- ## Quantum Science and Technology
- - [https://quantum.tau.ac.il](https://quantum.tau.ac.il)
- - date_published: 2024-07-24T07:57:40.555750+00:00
-
- ## הצטיינות הרקטור
- - [https://rector.tau.ac.il](https://rector.tau.ac.il)
- - date_published: 2024-07-24T07:58:10.375618+00:00
-
- ## רשות המחקר
- - [http://research-authority.tau.ac.il](http://research-authority.tau.ac.il)
- - date_published: 2024-07-24T07:57:52.891369+00:00
-
- ## לשכת סגן הנשיא למחקר ופיתוח
- - [http://research-vp.tau.ac.il](http://research-vp.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Добро пожаловать в Тель-Авивский университет
- - [https://russian.tau.ac.il](https://russian.tau.ac.il)
- - date_published: 2024-07-24T07:58:50.241756+00:00
-
- ## Edmond J. Safra Center for Bioinformatics
- - [https://safrabio.cs.tau.ac.il](https://safrabio.cs.tau.ac.il)
- - date_published: 2024-08-06T21:26:17+00:00
-
- ## בית הספר סגול למדעי המוח
- - [https://sagol.tau.ac.il](https://sagol.tau.ac.il)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## ברוכים הבאים לספרייה
- - [https://scilib.tau.ac.il](https://scilib.tau.ac.il)
- - date_published: 2024-08-07T10:24:17+00:00
-
- ## Sagol Center for Regenerative Medicine
- - [https://scrm.tau.ac.il](https://scrm.tau.ac.il)
- - date_published: 2024-08-19T00:33:53+00:00
-
- ## מוזיאון הטבע ע"ש שטיינהרדט
- - [https://smnh.tau.ac.il](https://smnh.tau.ac.il)
- - date_published: 2024-07-24T07:58:17.703441+00:00
-
- ## הפקולטה למדעי החברה
- - [http://social-sciences.tau.ac.il](http://social-sciences.tau.ac.il)
- - date_published: 2024-07-24T07:58:40.973053+00:00
-
- ## הספרייה למדעי החברה, לניהול ולחינוך
- - [http://soclib.tau.ac.il](http://soclib.tau.ac.il)
- - date_published: 2024-07-24T07:57:30.380858+00:00
 

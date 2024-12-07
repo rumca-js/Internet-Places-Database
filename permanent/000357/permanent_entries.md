@@ -1,3 +1,115 @@
+ ## Home
+ - [http://www.alastaircampbell.org](http://www.alastaircampbell.org)
+ - date_published: 2024-10-21T11:59:11.651881+00:00
+
+ ## Welcome | Alaveteli | mySociety
+ - [http://alaveteli.org](http://alaveteli.org)
+ - date_published: 2024-08-14T16:24:06+00:00
+
+ ## Albacon
+ - [https://albacon.org](https://albacon.org)
+ - date_published: 2023-10-31T02:27:37+00:00
+
+ ## مجموعة البنك الدولي
+ - [https://albankaldawli.org](https://albankaldawli.org)
+ - date_published: 2024-05-12T07:30:08.297443+00:00
+
+ ## World Bank Open Data
+ - [https://data.albankaldawli.org](https://data.albankaldawli.org)
+ - date_published: 2024-05-12T07:29:54.941384+00:00
+
+ ## Sign in to your account
+ - [https://databank.albankaldawli.org](https://databank.albankaldawli.org)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## المؤسسة الدولية للتنمية
+ - [http://ida.albankaldawli.org](http://ida.albankaldawli.org)
+ - date_published: 2024-07-15T14:50:17+00:00
+
+ ## Home
+ - [https://live.albankaldawli.org](https://live.albankaldawli.org)
+ - date_published: 2024-07-16T23:34:45+00:00
+
+ ## مشاريع وعمليات البنك الدولي
+ - [https://projects.albankaldawli.org](https://projects.albankaldawli.org)
+ - date_published: 2024-07-16T23:33:00.748516+00:00
+
+ ## World Bank Group - International Development, Poverty, & Sustainability
+ - [https://www5.albankaldawli.org](https://www5.albankaldawli.org)
+ - date_published: 2024-07-16T14:14:52+00:00
+
+ ## Meetings and Events | Albany OCF
+ - [https://albanyocf.org](https://albanyocf.org)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Inicio - Albaola
+ - [https://albaola.org](https://albaola.org)
+ - date_published: 2024-07-11T15:44:56.328417+00:00
+
+ ## Bot Verification
+ - [http://www.albarakahcoop.org](http://www.albarakahcoop.org)
+ - date_published: 2024-09-24T21:41:08.798070+00:00
+
+ ## The Albemarle Charlottesville Historical Society
+ - [https://albemarlehistory.org](https://albemarlehistory.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Dog Adoption | Albert's Dog Lounge | United States
+ - [https://www.albertsdoglounge.org](https://www.albertsdoglounge.org)
+ - date_published: 2024-06-20T23:55:23.945033+00:00
+
+ ## ALBION SC Boulder | Home
+ - [http://www.albionscbouldercounty.org](http://www.albionscbouldercounty.org)
+ - date_published: 2024-07-09T18:40:45+00:00
+
+ ## Home | Buffalo AKG Art Museum
+ - [http://www.albrightknox.org](http://www.albrightknox.org)
+ - date_published: 2024-06-28T13:53:04+00:00
+
+ ## Cierpliwości...
+ - [https://www.albumoftheyear.org](https://www.albumoftheyear.org)
+ - date_published: 2024-06-23T01:59:09.207273+00:00
+
+ ## Cumbre por la Allianza
+ - [https://www.dominicana.alcaldesporelclima.org](https://www.dominicana.alcaldesporelclima.org)
+ - date_published: 2021-05-10T23:52:50+00:00
+
+ ## ALCDEF Database
+ - [http://alcdef.org](http://alcdef.org)
+ - date_published: 2024-10-27T09:12:33.516105+00:00
+
+ ## Alchemy Pay - Bridging the Fiat and Crypto Global Economies
+ - [https://alchemypay.org](https://alchemypay.org)
+ - date_published: 2024-09-20T06:45:32+00:00
+
+ ## Inicio | Alcles
+ - [http://www.alcles.org](http://www.alcles.org)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Alcohol Forum Ireland
+ - [https://alcoholforum.org](https://alcoholforum.org)
+ - date_published: 2024-10-18T21:27:00.374217+00:00
+
+ ## Home - Alcohol Justice
+ - [https://alcoholjustice.org](https://alcoholjustice.org)
+ - date_published: 2024-10-18T21:24:40.787972+00:00
+
+ ## Animal Legal Defense Fund
+ - [https://aldf.org](https://aldf.org)
+ - date_published: 2024-06-29T01:47:35.640943+00:00
+
+ ## www.aldostools.org - Playstation Emulation Tools, Piano and Multimedia Software, Macro Recorder, Text-to-Speech, Memory Manager, Magnifier, Freeware, PDF Development Tool, Productivity Tools by Aldo Vargas
+ - [https://aldostools.org](https://aldostools.org)
+ - date_published: 2018-08-03T21:48:18+00:00
+
+ ## ALEC Exposed
+ - [https://www.alecexposed.org](https://www.alecexposed.org)
+ - date_published: 2024-06-30T02:33:08.278482+00:00
+
+ ## ALEF - Act for human rights
+ - [https://alefliban.org](https://alefliban.org)
+ - date_published: 2024-10-18T21:18:43.611224+00:00
+
  ## Aleo | Fully Private Applications
  - [https://aleo.org](https://aleo.org)
  - date_published: 2024-06-16T04:44:22.018707+00:00
@@ -3926,124 +4038,4 @@
  ## Help Wanted!
  - [https://helpwanted.apache.org](https://helpwanted.apache.org)
  - date_published: 2022-04-05T19:38:10+00:00
-
- ## Apache Hive
- - [https://hive.apache.org](https://hive.apache.org)
- - date_published: 2024-04-03T07:28:56+00:00
- - tags: ['open source', 'database system']
-
- ## Apache Hive Blogs
- - [https://hive.blog.apache.org](https://hive.blog.apache.org)
- - date_published: 2023-07-19T08:36:47+00:00
-
- ## home.apache.org
- - [https://home.apache.org](https://home.apache.org)
- - date_published: 2024-01-28T00:15:55+00:00
-
- ## Apache Hop
- - [http://hop.apache.org](http://hop.apache.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Welcome! - The Apache HTTP Server Project
- - [https://httpd.apache.org](https://httpd.apache.org)
- - date_published: 2023-10-25T08:35:23.292622+00:00
- - tags: ['open source', 'web server']
-
- ## Hello from Apache Hudi | Apache Hudi
- - [https://hudi.apache.org](https://hudi.apache.org)
- - date_published: 2024-01-18T07:35:20+00:00
- - tags: ['big data']
-
- ## Apache Iceberg
- - [https://iceberg.apache.org](https://iceberg.apache.org)
- - date_published: 2000-01-01T00:00:00+00:00
- - tags: ['big data']
-
- ## Apache Account Utility
- - [https://id.apache.org](https://id.apache.org)
- - date_published: 2024-08-18T20:55:25.135906+00:00
-
- ## Distributed Database - Apache Ignite&reg;
- - [http://ignite.apache.org](http://ignite.apache.org)
- - date_published: 2024-07-19T21:45:35.658567+00:00
-
- ## Impala
- - [https://impala.apache.org](https://impala.apache.org)
- - date_published: 2024-05-25T04:54:23.445278+00:00
- - tags: ['open source']
-
- ## The Apache Incubator
- - [https://incubator.apache.org](https://incubator.apache.org)
- - date_published: 2024-06-10T07:54:34+00:00
-
- ## Apache Infrastructure Website
- - [https://infra.apache.org](https://infra.apache.org)
- - date_published: 2024-07-16T16:52:22+00:00
-
- ## Home · ASF Infrastructure Reporting Dashboard
- - [https://infra-reports.apache.org](https://infra-reports.apache.org)
- - date_published: 2024-06-27T04:16:41+00:00
-
- ## Apache InLong | Apache InLong
- - [http://inlong.apache.org](http://inlong.apache.org)
- - date_published: 2024-06-25T07:40:21+00:00
-
- ## IoTDB Website
- - [http://iotdb.apache.org](http://iotdb.apache.org)
- - date_published: 2024-07-19T10:39:33+00:00
-
- ## issues.apache.org
- - [https://issues.apache.org](https://issues.apache.org)
- - date_published: 2023-07-18T23:51:55+00:00
-
- ## Apache Jackrabbit – Welcome to Apache Jackrabbit
- - [http://jackrabbit.apache.org](http://jackrabbit.apache.org)
- - date_published: 2024-07-11T03:51:00+00:00
-
- ## The Jakarta Site - The Apache Jakarta™ Project -- Java Related Products
- - [http://jakarta.apache.org](http://jakarta.apache.org)
- - date_published: 2011-12-24T22:21:07+00:00
-
- ## Apache James
- - [https://james.apache.org](https://james.apache.org)
- - date_published: 2024-06-17T08:01:22+00:00
-
- ## Apache jclouds® :: Home
- - [http://jclouds.apache.org](http://jclouds.apache.org)
- - date_published: 2022-03-26T00:00:00+00:00
-
- ## Apache Jena - Home
- - [https://jena.apache.org](https://jena.apache.org)
- - date_published: 2024-01-17T22:41:11+00:00
-
- ## Apache JMeter
-          -
-          Apache JMeter™
- - [https://jmeter.apache.org](https://jmeter.apache.org)
- - date_published: 2024-01-07T17:19:24+00:00
-
- ## Apache Johnzon – Apache Johnzon
- - [http://johnzon.apache.org](http://johnzon.apache.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Apache JSPWiki
- - [http://jspwiki.apache.org](http://jspwiki.apache.org)
- - date_published: 2024-06-23T20:00:08+00:00
-
- ## Apache Juneau Universal Serialization and REST API Library
- - [http://juneau.apache.org](http://juneau.apache.org)
- - date_published: 2023-10-03T18:09:48+00:00
-
- ## Apache Kafka
- - [https://kafka.apache.org](https://kafka.apache.org)
- - date_published: 2024-05-04T13:43:32.381219+00:00
- - tags: ['open source', 'data pipelines', 'streaming platform']
-
- ## Apache Karaf - The Modulith Runtime
- - [https://karaf.apache.org](https://karaf.apache.org)
- - date_published: 2024-04-12T14:07:16+00:00
-
- ## Apache® Kibble™
- - [http://kibble.apache.org](http://kibble.apache.org)
- - date_published: 2024-04-01T10:09:49+00:00
 

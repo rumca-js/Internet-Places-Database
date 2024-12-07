@@ -1,3 +1,63 @@
+ ## SCEPCOP - Scientific Committee to Evaluate Pseudo-Skeptic Criticism of the Paranormal
+ - [https://www.debunkingskeptics.com](https://www.debunkingskeptics.com)
+ - date_published: 2024-09-03T23:11:00.866397+00:00
+
+ ## Debutante Clothing vintage shop
+ - [http://www.debutanteclothing.com](http://www.debutanteclothing.com)
+ - date_published: 2024-10-31T22:30:37.699576+00:00
+
+ ## Welcome to Debwan Network
+ - [https://www.debwan.com](https://www.debwan.com)
+ - date_published: 2024-10-30T11:38:05.048115+00:00
+
+ ## Catchy Comedy™ - Catch All The Laughs!
+ - [https://decades.com](https://decades.com)
+ - date_published: 2024-05-07T14:18:31.403581+00:00
+
+ ## 0xDECAFBAD
+ - [http://decafbad.com](http://decafbad.com)
+ - date_published: 2019-03-14T04:56:17+00:00
+
+ ## Deca Games
+ - [https://decagames.com](https://decagames.com)
+ - date_published: 2024-06-24T15:07:01+00:00
+
+ ## Decal
+ - [https://www.decaldev.com](https://www.decaldev.com)
+ - date_published: 2024-06-18T18:05:54.054070+00:00
+
+ ## DECALOGUE Magazine
+ - [https://www.decaloguemagazine.com](https://www.decaloguemagazine.com)
+ - date_published: 2024-07-04T01:42:46.782574+00:00
+
+ ## Decameron Row Intro
+ - [https://decameronrow.com](https://decameronrow.com)
+ - date_published: 2024-05-08T09:33:10.862354+00:00
+
+ ## Decarbonisation Technology | Powering the transition to sustainable fuels and energy 2
+ - [https://decarbonisationtechnology.com](https://decarbonisationtechnology.com)
+ - date_published: 2024-10-15T23:02:14.447656+00:00
+
+ ## My account Decathlon
+ - [https://account.decathlon.com](https://account.decathlon.com)
+ - date_published: 2024-09-18T09:19:45+00:00
+
+ ## Decathlon Latvija vakances - Decathlon Latvijas filiāle
+ - [https://career.baltics.decathlon.com](https://career.baltics.decathlon.com)
+ - date_published: 2024-09-19T13:38:53.942112+00:00
+
+ ## Decathlon | Move people through the wonders of sport | Decathlon
+ - [https://decathlon.com](https://decathlon.com)
+ - date_published: 2023-10-25T13:47:16.336867+00:00
+
+ ## decathlon membership program
+ - [https://membership.decathlon.com](https://membership.decathlon.com)
+ - date_published: 2024-06-12T11:21:28+00:00
+
+ ## Sports equipment rental service | Rental Decathlon
+ - [https://rental.decathlon.com](https://rental.decathlon.com)
+ - date_published: 2024-06-15T20:35:53.524997+00:00
+
  ## Decathlon
  - [https://reviews.decathlon.com](https://reviews.decathlon.com)
  - date_published: 2024-06-15T20:06:54.315009+00:00
@@ -3974,64 +4034,4 @@
  ## Design N Form - Best Exhibition Stall Designer in Delhi NCR
  - [https://www.designandforms.com](https://www.designandforms.com)
  - date_published: 2024-09-07T11:49:41+00:00
-
- ## Geoffrey Dorne Design : atelier de design graphique engagé
- - [http://designandhuman.com](http://designandhuman.com)
- - date_published: 2024-01-15T05:53:45+00:00
-
- ## Naperville Web Design & Digital Marketing Company | Design & Promote
- - [https://www.designandpromote.com](https://www.designandpromote.com)
- - date_published: 2024-09-27T01:49:06+00:00
-
- ## D&R Web Site -  Loading: Please Wait
- - [https://static.designandreuse.com](https://static.designandreuse.com)
- - date_published: 2013-03-18T06:32:25+00:00
-
- ## Designing APIs with Swagger and OpenAPI
- - [https://designapis.com](https://designapis.com)
- - date_published: 2022-05-28T11:08:16+00:00
-
- ## Designatives
- - [https://designatives.com](https://designatives.com)
- - date_published: 2024-09-18T19:39:31+00:00
-
- ## Engineered Solutions for a World in Motion - Designatronics Inc.
- - [https://www.designatronics.com](https://www.designatronics.com)
- - date_published: 2024-07-20T11:00:50.008989+00:00
-
- ## Design Better Learning – Make learning that really works.
- - [https://designbetterlearning.com](https://designbetterlearning.com)
- - date_published: 2024-05-06T21:25:24.713868+00:00
-
- ## Design Better | The Curiosity Department | Substack
- - [https://designbetterpodcast.com](https://designbetterpodcast.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Design Bombs
- - [http://www.designbombs.com](http://www.designbombs.com)
- - date_published: 2024-07-20T03:55:33+00:00
-
- ## designboom | architecture & design magazine
- - [https://designboom.com](https://designboom.com)
- - date_published: 2024-05-01T04:48:13.742123+00:00
-
- ## designboom ad system
- - [https://grinx.designboom.com](https://grinx.designboom.com)
- - date_published: 2024-05-01T04:48:12.187289+00:00
-
- ## Designbooth — Visual communication and corporate identity
- - [https://designbooth.com](https://designbooth.com)
- - date_published: 2024-06-21T15:05:53.883536+00:00
-
- ## Ayelet | Confident Brand Design for Daring Dreamers
- - [https://designbyayelet.com](https://designbyayelet.com)
- - date_published: 2024-09-16T23:04:20.079707+00:00
-
- ## Home Page
- - [https://www.designbygeometry.com](https://www.designbygeometry.com)
- - date_published: 2024-07-03T18:04:29.588645+00:00
-
- ## Designbygoci - Membentuk Identitas Pemain: Peran Avatar dalam Pengalaman Bermain Game
- - [https://designbygoci.com](https://designbygoci.com)
- - date_published: 2024-08-20T04:15:18.006740+00:00
 

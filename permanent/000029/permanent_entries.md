@@ -1,3 +1,35 @@
+ ## 广东省政务服务和数据管理局
+ - [http://zfsg.gd.gov.cn](http://zfsg.gd.gov.cn)
+ - date_published: 2024-10-21T05:52:49.363079+00:00
+
+ ## Guangzhou Development District
+ - [https://eng.gdd.gov.cn](https://eng.gdd.gov.cn)
+ - date_published: 2024-05-09T06:04:47.250511+00:00
+
+ ## 広州ハイテク産業開発区（黄埔区）
+ - [http://jp.gdd.gov.cn](http://jp.gdd.gov.cn)
+ - date_published: 2024-07-09T18:30:20.893387+00:00
+
+ ## 광저우시 황푸구·개발구
+ - [http://kr.gdd.gov.cn](http://kr.gdd.gov.cn)
+ - date_published: 2024-07-09T18:30:36.023394+00:00
+
+ ## 中共广东省委党校（广东行政学院）
+ - [http://www.gddx.gov.cn](http://www.gddx.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 广东政协网 中国人民政治协商会议广东省委员会
+ - [https://www.gdszx.gov.cn](https://www.gdszx.gov.cn)
+ - date_published: 2024-06-30T23:12:19.611761+00:00
+
+ ## 粤政易
+ - [https://yzy.gdzwfw.gov.cn](https://yzy.gdzwfw.gov.cn)
+ - date_published: 2024-01-30T09:41:46+00:00
+
+ ## 全国征兵网
+ - [https://www.gfbzb.gov.cn](https://www.gfbzb.gov.cn)
+ - date_published: 2024-06-30T15:33:13.578975+00:00
+
  ## 国家机关事务管理局
  - [http://bgs.ggj.gov.cn](http://bgs.ggj.gov.cn)
  - date_published: 2024-04-18T00:00:00+00:00
@@ -3969,36 +4001,4 @@
  ## 兵团医疗保障局
  - [http://btybj.xjbt.gov.cn](http://btybj.xjbt.gov.cn)
  - date_published: 2024-06-30T13:32:51.611103+00:00
-
- ## 兵团调查总队
- - [http://dczd.xjbt.gov.cn](http://dczd.xjbt.gov.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 兵团党委党校（兵团行政学院）
- - [http://dwdx.xjbt.gov.cn](http://dwdx.xjbt.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 检察院
- - [http://jcy.xjbt.gov.cn](http://jcy.xjbt.gov.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 农业农村局（畜牧兽医局）
- - [http://nyj.xjbt.gov.cn](http://nyj.xjbt.gov.cn)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## 兵团人力资源和社会保障局
- - [http://rsj.xjbt.gov.cn](http://rsj.xjbt.gov.cn)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## 兵团司法局
- - [http://sfj.xjbt.gov.cn](http://sfj.xjbt.gov.cn)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## 兵团生态环境局
- - [http://sthjj.xjbt.gov.cn](http://sthjj.xjbt.gov.cn)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## 新疆生产建设兵团统计局
- - [http://tjj.xjbt.gov.cn](http://tjj.xjbt.gov.cn)
- - date_published: 2024-06-24T00:00:00+00:00
 

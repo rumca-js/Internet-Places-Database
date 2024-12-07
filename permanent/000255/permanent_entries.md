@@ -1,3 +1,101 @@
+ ## Trevor Elkins Blog
+ - [https://telkins.dev](https://telkins.dev)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Terminal 7
+ - [https://pwa.terminal7.dev](https://pwa.terminal7.dev)
+ - date_published: 2024-10-20T15:20:11.144836+00:00
+
+ ## Terminal7
+ - [https://terminal7.dev](https://terminal7.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Redirecting…
+ - [https://termux.dev](https://termux.dev)
+ - date_published: 2023-10-25T18:42:40.262222+00:00
+
+ ## Territory
+ - [https://app.territory.dev](https://app.territory.dev)
+ - date_published: 2024-06-28T14:27:18+00:00
+
+ ## An infinite canvas for code exploration
+ - [https://territory.dev](https://territory.dev)
+ - date_published: 2024-05-06T21:03:54+00:00
+
+ ## Tess - Terminal for the new era
+ - [https://tessapp.dev](https://tessapp.dev)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Android Testify | Android Testify
+ - [https://testify.dev](https://testify.dev)
+ - date_published: 2024-09-04T14:11:16+00:00
+
+ ## testlify-api
+ - [https://api.testlify.dev](https://api.testlify.dev)
+ - date_published: 2024-08-09T13:46:19+00:00
+
+ ## texastim.dev
+ - [https://texastim.dev](https://texastim.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Log In - Campus Pickup Settings
+ - [https://texttogo.dev](https://texttogo.dev)
+ - date_published: 2024-07-14T15:03:43.635148+00:00
+
+ ## Find Pre-trained Models | Kaggle
+ - [https://tfhub.dev](https://tfhub.dev)
+ - date_published: 2024-07-12T17:58:27.369443+00:00
+
+ ## thanks.dev – open source funding platform
+ - [https://thanks.dev](https://thanks.dev)
+ - date_published: 2023-10-25T18:42:40.674475+00:00
+
+ ## Andrew's Class Notes: üè† Home
+ - [https://notes.thatother.dev](https://notes.thatother.dev)
+ - date_published: 2024-03-03T11:15:38.185651+00:00
+ - tags: ['personal']
+
+ ## Verma Notes
+ - [https://blog.theabhishek.dev](https://blog.theabhishek.dev)
+ - date_published: 2023-10-25T18:42:42.879233+00:00
+
+ ## The Basics – Front-End Web Development Courses by Geoff Graham
+ - [https://thebasics.dev](https://thebasics.dev)
+ - date_published: 2024-06-05T17:12:51+00:00
+
+ ## The David Dias | Front-End Developer, Podcaster & Content Creator
+ - [https://thedaviddias.dev](https://thedaviddias.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## thefoggiest.dev
+ - [https://thefoggiest.dev](https://thefoggiest.dev)
+ - date_published: 2024-01-30T06:11:51.457009+00:00
+
+ ## Hello. - TheGiftCode's Digital Garden
+ - [https://notes.thegiftcode.dev](https://notes.thegiftcode.dev)
+ - date_published: 2024-07-14T09:12:24.725874+00:00
+
+ ## thegoodalright.dev
+ - [https://thegoodalright.dev](https://thegoodalright.dev)
+ - date_published: 2024-06-23T15:06:36.673042+00:00
+
+ ## The Guild Newsletter
+ - [https://newsletter.the-guild.dev](https://newsletter.the-guild.dev)
+ - date_published: 2024-04-30T02:19:02.324614+00:00
+
+ ## GraphQL – The Guild
+ - [https://the-guild.dev](https://the-guild.dev)
+ - date_published: 2023-10-25T18:42:41.689819+00:00
+
+ ## Open Minds, Open Source
+ - [https://blog.thekush.dev](https://blog.thekush.dev)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## theme.park Docs
+ - [https://docs.theme-park.dev](https://docs.theme-park.dev)
+ - date_published: 2024-10-07T20:12:41+00:00
+
  ## theme.park - A collection of themes/skins for your favorite apps!
  - [https://theme-park.dev](https://theme-park.dev)
  - date_published: 2024-06-15T18:12:16+00:00
@@ -3936,100 +4034,4 @@
  ## Chantelle
  - [https://femilet.dk](https://femilet.dk)
  - date_published: 2024-06-13T08:15:25+00:00
-
- ## Hos Ferratum kan du låne penge nemt og hurtigt | Ferratum Bank
- - [https://ferratumbank.dk](https://ferratumbank.dk)
- - date_published: 2024-10-31T00:48:51.144521+00:00
-
- ## Fiat Danmarks hjemmeside |  Nye biler, mobilitet og service
- - [https://www.fiat.dk](https://www.fiat.dk)
- - date_published: 2024-06-19T07:19:40+00:00
-
- ## Film søgemaskine | FilmFinder
- - [https://www.filmfinder.dk](https://www.filmfinder.dk)
- - date_published: 2020-11-20T00:00:00+00:00
-
- ## FINANS | Seneste nyheder - Nyt fra erhvervslivet - Nyhedsoverblik
- - [https://finans.dk](https://finans.dk)
- - date_published: 2024-04-30T02:43:16.661888+00:00
-
- ## Hey, I'm imgproxy!
- - [https://imgproxy.finans.dk](https://imgproxy.finans.dk)
- - date_published: 2024-07-22T09:49:24.858969+00:00
-
- ## Min Konto
- - [https://minkonto.finans.dk](https://minkonto.finans.dk)
- - date_published: 2024-07-17T14:31:13+00:00
-
- ## findsmiley.dk
- - [https://findsmiley.dk](https://findsmiley.dk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## FlatpanelsDK - Om et TV-marked i forandring
- - [https://www.flatpanels.dk](https://www.flatpanels.dk)
- - date_published: 2024-05-04T06:17:59.728302+00:00
-
- ## Fleet
- - [https://www.fleet.dk](https://www.fleet.dk)
- - date_published: 2024-06-18T12:43:31+00:00
-
- ## Billige busrejser | FlixBus
- - [https://www.flixbus.dk](https://www.flixbus.dk)
- - date_published: 2024-06-28T10:09:37+00:00
-
- ## Home | FLYV
- - [http://www.flyv.dk](http://www.flyv.dk)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Forsvarsministeriets Materiel- og Indkøbsstyrelse
- - [https://fmi.dk](https://fmi.dk)
- - date_published: 2024-04-30T02:40:48.420545+00:00
-
- ## Forsvarsministeriet
- - [https://fmn.dk](https://fmn.dk)
- - date_published: 2024-04-30T02:40:38.133474+00:00
-
- ## Forside
- - [https://foedevarestyrelsen.dk](https://foedevarestyrelsen.dk)
- - date_published: 2024-07-13T17:43:15.995688+00:00
-
- ## Forbrug.dk
- - [https://forbrug.dk](https://forbrug.dk)
- - date_published: 2024-10-31T00:48:34.169641+00:00
-
- ## Ford Danmarks officielle hjemmeside| Ford DK
- - [https://www.ford.dk](https://www.ford.dk)
- - date_published: 2024-06-19T07:40:46+00:00
-
- ## United for Menneskerettigheder, undervisningsmaterialer, videoer
- - [http://www.forenetformenneskerettigheder.dk](http://www.forenetformenneskerettigheder.dk)
- - date_published: 2024-09-04T17:55:21.756699+00:00
-
- ## Forenet Kredit - Fundamentet er forening
- - [http://www.forenetkredit.dk](http://www.forenetkredit.dk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Open Doors Danmark
- - [https://forfulgt.dk](https://forfulgt.dk)
- - date_published: 2024-05-08T11:13:24.527418+00:00
-
- ## Forsvarsministeriets Personalestyrelse
- - [https://forpers.dk](https://forpers.dk)
- - date_published: 2024-04-30T02:40:39.814297+00:00
-
- ## Forsvaret
- - [https://forsvaret.dk](https://forsvaret.dk)
- - date_published: 2024-04-30T02:40:52.575523+00:00
-
- ## Uddannelse, Job Og Karriere I Forsvaret » Start Her
- - [https://karriere.forsvaret.dk](https://karriere.forsvaret.dk)
- - date_published: 2024-04-30T02:35:18.598908+00:00
-
- ## HR-portalen
- - [https://medarbejder.forsvaret.dk](https://medarbejder.forsvaret.dk)
- - date_published: 2024-04-30T02:35:17.525014+00:00
-
- ## Fortunfortet
- - [https://fortunfortet.dk](https://fortunfortet.dk)
- - date_published: 2024-05-27T10:08:39+00:00
 

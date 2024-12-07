@@ -1,3 +1,91 @@
+ ## Build bigger, ship faster
+ - [https://envio.dev](https://envio.dev)
+ - date_published: 2024-06-16T05:15:00.984822+00:00
+
+ ## Home - The Earth Observation API
+ - [https://eoapi.dev](https://eoapi.dev)
+ - date_published: 2024-05-24T18:43:46+00:00
+
+ ## Get Really Good at React
+ - [https://epicreact.dev](https://epicreact.dev)
+ - date_published: 2024-04-29T07:42:15.928621+00:00
+
+ ## Advanced React Patterns 🤯
+ - [http://advanced-react-patterns.epicweb.dev](http://advanced-react-patterns.epicweb.dev)
+ - date_published: 2024-07-23T22:07:11.358593+00:00
+
+ ## Web Authentication 🔐
+ - [https://auth.epicweb.dev](https://auth.epicweb.dev)
+ - date_published: 2024-04-29T07:42:12.019064+00:00
+
+ ## Data Modeling Deep Dive 💾
+ - [https://data.epicweb.dev](https://data.epicweb.dev)
+ - date_published: 2024-04-29T07:42:18.181881+00:00
+
+ ## Ship Modern Full-Stack Web Applications
+ - [https://epicweb.dev](https://epicweb.dev)
+ - date_published: 2024-06-21T12:11:26.119472+00:00
+
+ ## Professional Web Forms 📝
+ - [https://forms.epicweb.dev](https://forms.epicweb.dev)
+ - date_published: 2024-04-29T07:42:08.974265+00:00
+
+ ## Full Stack Foundations 🔭
+ - [https://foundations.epicweb.dev](https://foundations.epicweb.dev)
+ - date_published: 2024-04-29T07:42:07.417595+00:00
+
+ ## Full Stack Testing 🧪
+ - [https://testing.epicweb.dev](https://testing.epicweb.dev)
+ - date_published: 2024-04-29T07:42:14.404529+00:00
+
+ ## Date to Epoch Converter
+ - [https://www.epoch-time.dev](https://www.epoch-time.dev)
+ - date_published: 2024-11-08T11:28:07.313252+00:00
+
+ ## Ergomake | Environments-as-a-Service
+ - [https://ergomake.dev](https://ergomake.dev)
+ - date_published: 2023-09-11T04:52:34+00:00
+
+ ## Oxidizing corner
+ - [https://blog.erk.dev](https://blog.erk.dev)
+ - date_published: 2023-10-25T18:37:48.559995+00:00
+
+ ## Flutter - Crea aplicaciones para cualquier pantalla
+ - [https://esflutter.dev](https://esflutter.dev)
+ - date_published: 2024-04-29T07:44:11.020194+00:00
+
+ ## Educational Sensational Inspirational Foundational
+ - [https://esif.dev](https://esif.dev)
+ - date_published: 2023-10-25T18:37:55.517883+00:00
+
+ ## Eduardo San Martin Morote
+ - [https://esm.dev](https://esm.dev)
+ - date_published: 2024-09-04T15:12:57.161859+00:00
+
+ ## Pinia | The intuitive store for Vue.js
+ - [https://pinia.esm.dev](https://pinia.esm.dev)
+ - date_published: 2024-09-04T15:01:13.728257+00:00
+
+ ## Estee's Tech Blog
+ - [https://blog.esteetey.dev](https://blog.esteetey.dev)
+ - date_published: 2024-05-06T13:14:52.028654+00:00
+
+ ## Estee Tey's personal website
+ - [https://polywork.esteetey.dev](https://polywork.esteetey.dev)
+ - date_published: 2024-06-23T01:36:10.067131+00:00
+
+ ## Esther Agbaje | Portfolio
+ - [https://estheragbaje.dev](https://estheragbaje.dev)
+ - date_published: 2024-06-23T08:12:11.994734+00:00
+
+ ## Show HN: Etcha – Infinite scale, serverless config management
+ - [https://etcha.dev](https://etcha.dev)
+ - date_published: 2023-11-18T15:39:55+00:00
+
+ ## Eternal Terminal
+ - [https://eternalterminal.dev](https://eternalterminal.dev)
+ - date_published: 2023-06-29T01:33:34+00:00
+
  ## EthanG
  - [https://ethang.dev](https://ethang.dev)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -2162,6 +2250,10 @@
  - [https://jandurkaj.dev](https://jandurkaj.dev)
  - date_published: 2024-05-11T10:18:34.054646+00:00
 
+ ## Jared Norman | Software Consultant, Open-Source Maintainer, and Solidus Expert
+ - [https://jardo.dev](https://jardo.dev)
+ - date_published: 2024-12-06T23:50:03.125657+00:00
+
  ## Medior
  - [https://medior.jaredg.dev](https://medior.jaredg.dev)
  - date_published: 2024-06-10T03:06:10+00:00
@@ -3991,96 +4083,4 @@
  ## Mobb - AI Security Fixes You Can Trust
  - [https://www.mobb.dev](https://www.mobb.dev)
  - date_published: 2024-01-23T00:00:00+00:00
-
- ## mobile.dev
- - [https://blog.mobile.dev](https://blog.mobile.dev)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## What is Maestro? | Maestro by mobile.dev
- - [https://maestro.mobile.dev](https://maestro.mobile.dev)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## mobile.dev - Maestro, Maestro Studio, Maestro Cloud
- - [https://www.mobile.dev](https://www.mobile.dev)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## ModelFusion
- - [https://modelfusion.dev](https://modelfusion.dev)
- - date_published: 2023-10-25T18:39:50.499764+00:00
-
- ## 3D model-viewer embed
- - [https://modelviewer.dev](https://modelviewer.dev)
- - date_published: 2024-04-28T03:42:03.513997+00:00
-
- ## Modern CSS Challenges
- - [https://challenges.moderncss.dev](https://challenges.moderncss.dev)
- - date_published: 2024-04-30T00:34:51.676636+00:00
-
- ## Modern CSS Solutions
- - [https://moderncss.dev](https://moderncss.dev)
- - date_published: 2023-10-25T18:39:51.550252+00:00
-
- ## Modern.js
- - [https://modernjs.dev](https://modernjs.dev)
- - date_published: 2024-07-07T03:05:40.864647+00:00
-
- ## Modular Summit 3.0
- - [https://modularsummit.dev](https://modularsummit.dev)
- - date_published: 2024-07-13T07:37:54+00:00
-
- ## Mockoops
- - [https://mockoops.mohitya.dev](https://mockoops.mohitya.dev)
- - date_published: 2024-10-22T19:20:11.668628+00:00
-
- ## mohsen
- - [https://mohsen.dev](https://mohsen.dev)
- - date_published: 2022-08-12T00:00:00+00:00
-
- ## Mojo Dojo
- - [https://mojodojo.dev](https://mojodojo.dev)
- - date_published: 2023-10-25T18:39:53.691349+00:00
-
- ## Monerium Developers
- - [https://monerium.dev](https://monerium.dev)
- - date_published: 2024-09-09T08:39:17+00:00
-
- ## Accounts | Monerium
- - [https://sandbox.monerium.dev](https://sandbox.monerium.dev)
- - date_published: 2024-09-25T16:09:18.471587+00:00
-
- ## Monitor
- - [https://demo.monitor.dev](https://demo.monitor.dev)
- - date_published: 2024-08-10T21:31:46+00:00
-
- ## Monitor Docs | Monitor
- - [https://docs.monitor.dev](https://docs.monitor.dev)
- - date_published: 2024-08-10T22:34:10+00:00
-
- ## MonoLisa
- - [https://www.monolisa.dev](https://www.monolisa.dev)
- - date_published: 2024-06-23T06:14:38.800400+00:00
-
- ## Monolog
- - [https://monolog.dev](https://monolog.dev)
- - date_published: 2024-05-09T06:20:08.987585+00:00
-
- ## Pieter Montoulieu
- - [https://montoulieu.dev](https://montoulieu.dev)
- - date_published: 2024-05-07T23:25:24.512041+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://analytics.blog.moonguard.dev](https://analytics.blog.moonguard.dev)
- - date_published: 2024-04-30T00:35:00.267766+00:00
-
- ## MoonGuard - Web Monitoring Tools | MoonGuard - Web Monitoring Tools
- - [https://blog.moonguard.dev](https://blog.moonguard.dev)
- - date_published: 2023-11-07T19:56:34.884228+00:00
-
- ## Meet MoonGuard | Docs
- - [https://docs.moonguard.dev](https://docs.moonguard.dev)
- - date_published: 2024-04-30T00:35:02.770213+00:00
-
- ## MoonGuard
- - [https://moonguard.dev](https://moonguard.dev)
- - date_published: 2024-04-30T00:35:01.548601+00:00
 

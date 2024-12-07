@@ -1,3 +1,75 @@
+ ## Thoughts of Chairman Michael | Michael Liebreich | Substack
+ - [https://mliebreich.substack.com](https://mliebreich.substack.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## The mobilegamer.biz newsletter | Substack
+ - [https://mobilegamerbiz.substack.com](https://mobilegamerbiz.substack.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## MOBOLOGY | Dan E. Moldea | Substack
+ - [https://mobology.substack.com](https://mobology.substack.com)
+ - date_published: 2024-04-30T07:03:41.188933+00:00
+
+ ## Model Thinking | Duncan McClements | Substack
+ - [https://modelthinking.substack.com](https://modelthinking.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Modernist Estates | Substack
+ - [https://modernistestates.substack.com](https://modernistestates.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Modern Power | Misha David Chellam | Substack
+ - [https://modernpower.substack.com](https://modernpower.substack.com)
+ - date_published: 2024-05-08T11:05:41.335958+00:00
+
+ ## Not the Fun Kind | Moira Donegan | Substack
+ - [https://moiradonegan.substack.com](https://moiradonegan.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Remotely Productive | Gio | Substack
+ - [https://mokagio.substack.com](https://mokagio.substack.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Molecular Spectacular | Adomas Malaiska | Substack
+ - [https://molecularspec.substack.com](https://molecularspec.substack.com)
+ - date_published: 2023-12-28T21:40:00.740879+00:00
+
+ ## Molecule’s Newsletter | Substack
+ - [https://moleculeto.substack.com](https://moleculeto.substack.com)
+ - date_published: 2024-09-25T16:00:40.683812+00:00
+
+ ## The Long Game | Molly Knight | Substack
+ - [https://mollyknight.substack.com](https://mollyknight.substack.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Monalisa's Musings | Monalisa Foster | Substack
+ - [https://monalisafostertheauthor.substack.com](https://monalisafostertheauthor.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Moneyin2 | Jim Edwards | Substack
+ - [https://moneyin2.substack.com](https://moneyin2.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Monitoring Monitoring | Clay Smith | Substack
+ - [https://monitoring2.substack.com](https://monitoring2.substack.com)
+ - date_published: 2024-09-19T00:33:44.767399+00:00
+
+ ## MonsterMind | Peter Eijk | Substack
+ - [https://monstermind.substack.com](https://monstermind.substack.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## lawrence’s Substack | lawrence fossi | Substack
+ - [https://montanaskeptic.substack.com](https://montanaskeptic.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Peter Montgomery | Substack
+ - [https://montgomeryp.substack.com](https://montgomeryp.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## moontower: a stoner dad explains options trading to his kids | Kris Abdelmessih | Substack
+ - [https://moontower.substack.com](https://moontower.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## The Unfurling | Mo Perry | Substack
  - [https://moperry.substack.com](https://moperry.substack.com)
  - date_published: 2024-06-26T09:45:57.195398+00:00
@@ -4000,77 +4072,4 @@
  ## The Vinyl Room | Andres | Substack
  - [https://vinylroom.substack.com](https://vinylroom.substack.com)
  - date_published: 2024-02-18T00:00:00+00:00
-
- ## Magic + Loss | Virginia Heffernan | Substack
- - [https://virginiaheffernan.substack.com](https://virginiaheffernan.substack.com)
- - date_published: 2024-07-01T06:04:07.529280+00:00
-
- ## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
- - [https://visakanv.substack.com](https://visakanv.substack.com)
- - date_published: 2024-01-09T00:13:02.520095+00:00
-
- ## The Chaddi Things | Vishal Dayama | Substack
- - [https://vishaldayama.substack.com](https://vishaldayama.substack.com)
- - date_published: 2024-08-11T05:36:28.920932+00:00
-
- ## Vishnu R Nair | Substack
- - [https://vishnurnair.substack.com](https://vishnurnair.substack.com)
- - date_published: 2024-10-25T10:32:30.705079+00:00
-
- ## Visual frameworks | Dave Gray | Substack
- - [https://visualframeworks.substack.com](https://visualframeworks.substack.com)
- - date_published: 2024-05-02T13:58:35.640862+00:00
-
- ## Alguma coisa acontece | Viva São Paulo | Cultura | Substack
- - [https://vivaculturasp.substack.com](https://vivaculturasp.substack.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Simulated Annealing | Vivian Qu | Substack
- - [https://vivqu.substack.com](https://vivqu.substack.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Vlad Iliescu | Substack
- - [https://vlad.substack.com](https://vlad.substack.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Void Papers | Tobi | Substack
- - [https://voidpapers.substack.com](https://voidpapers.substack.com)
- - date_published: 2023-10-25T10:07:14.153042+00:00
- - tags: ['substack']
-
- ## Volted: Electrify your Life | Jeff Eiden | Substack
- - [https://volted.substack.com](https://volted.substack.com)
- - date_published: 2024-01-09T01:45:46.968262+00:00
-
- ## Devon's wanderings | Substack
- - [https://vonzu.substack.com](https://vonzu.substack.com)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Virginia's Newsletter | Virginia Postrel | Substack
- - [https://vpostrel.substack.com](https://vpostrel.substack.com)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## Van’s Substack | Van Snyder | Substack
- - [https://vsnyder.substack.com](https://vsnyder.substack.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## VuTrinh. | Vu Trinh | Substack
- - [https://vutr.substack.com](https://vutr.substack.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Sunday Summary | Vyshnav Gangadharan | Substack
- - [https://vyshnav.substack.com](https://vyshnav.substack.com)
- - date_published: 2024-06-14T15:15:49.441655+00:00
-
- ## Chris Arnade Walks the World  | Substack
- - [https://walkingtheworld.substack.com](https://walkingtheworld.substack.com)
- - date_published: 2024-01-09T01:45:54.486490+00:00
-
- ## Unbound | Walter Kirn | Substack
- - [https://walterkirn.substack.com](https://walterkirn.substack.com)
- - date_published: 2023-12-28T03:21:31.503169+00:00
-
- ## Wanderfull | Scott Dawson | Substack
- - [https://wanderfull.substack.com](https://wanderfull.substack.com)
- - date_published: 2024-06-20T13:16:59.223328+00:00
 

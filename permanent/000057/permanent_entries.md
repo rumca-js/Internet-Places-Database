@@ -1,3 +1,43 @@
+ ## Cicero's Songs
+ - [http://cicerossongs.blogspot.com](http://cicerossongs.blogspot.com)
+ - date_published: 2024-04-09T00:47:12+00:00
+
+ ## Blogger
+ - [http://cigarettesmokingblog.blogspot.com](http://cigarettesmokingblog.blogspot.com)
+ - date_published: 2024-06-27T08:39:27.163038+00:00
+
+ ## Cincinnati Blog
+ - [http://cincinnati.blogspot.com](http://cincinnati.blogspot.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Cincinnati Locavore
+ - [http://cincinnatilocavore.blogspot.com](http://cincinnatilocavore.blogspot.com)
+ - date_published: 2024-08-15T09:07:39+00:00
+
+ ## Cinta Sapto Condro (iscab)
+ - [http://cintascondro.blogspot.com](http://cintascondro.blogspot.com)
+ - date_published: 2023-11-16T14:17:43+00:00
+
+ ## Spunk On A Stick's Tips
+ - [http://circleoffriendsbooks.blogspot.com](http://circleoffriendsbooks.blogspot.com)
+ - date_published: 2024-10-17T23:03:25.277727+00:00
+
+ ## Circling the Lion's Den
+ - [http://circlingthelionsden.blogspot.com](http://circlingthelionsden.blogspot.com)
+ - date_published: 2024-10-21T17:38:15.948037+00:00
+
+ ## Sixth Circuit Blog
+ - [https://circuit6.blogspot.com](https://circuit6.blogspot.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Círculo de Lovecraft
+ - [http://circulodelovecraft.blogspot.com](http://circulodelovecraft.blogspot.com)
+ - date_published: 2024-06-27T21:54:02+00:00
+
+ ## Cities Matter
+ - [http://cities-matter.blogspot.com](http://cities-matter.blogspot.com)
+ - date_published: 2024-10-29T08:26:39+00:00
+
  ## Ottawa Citizen Cryptic Crossword Forum
  - [http://citizencryptic.blogspot.com](http://citizencryptic.blogspot.com)
  - date_published: 2024-04-23T01:21:24+00:00
@@ -3967,44 +4007,4 @@
  ## Eclectic Ephemera
  - [http://eclecticephemera.blogspot.com](http://eclecticephemera.blogspot.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Eclectic Expanding Empires
- - [http://eclectic-expanding-empires.blogspot.com](http://eclectic-expanding-empires.blogspot.com)
- - date_published: 2024-07-15T22:30:04+00:00
-
- ## eclectorama
- - [http://eclectorama.blogspot.com](http://eclectorama.blogspot.com)
- - date_published: 2024-09-14T03:36:56+00:00
-
- ## Eclipse, Java and all that JAZZ!
- - [http://eclipseandjazz.blogspot.com](http://eclipseandjazz.blogspot.com)
- - date_published: 2024-03-14T09:53:10+00:00
-
- ## Chris Daniel
- - [http://eclipseandlinux.blogspot.com](http://eclipseandlinux.blogspot.com)
- - date_published: 2024-07-11T18:13:32+00:00
-
- ## Atos Eclipse
- - [http://eclipseatos.blogspot.com](http://eclipseatos.blogspot.com)
- - date_published: 2024-03-14T14:44:01+00:00
-
- ## The Eclipse Committer Reps (ARCHIVE)
- - [http://eclipse-committer-reps.blogspot.com](http://eclipse-committer-reps.blogspot.com)
- - date_published: 2024-03-22T00:59:35+00:00
-
- ## Eclipse Lives In Winnipeg
- - [http://eclipse-debug.blogspot.com](http://eclipse-debug.blogspot.com)
- - date_published: 2024-03-25T06:09:14+00:00
-
- ## Eclipse Driven Rich Application Development
- - [http://eclipsedriven.blogspot.com](http://eclipsedriven.blogspot.com)
- - date_published: 2024-02-08T15:47:29+00:00
-
- ## Eclipse Communication Framework
- - [http://eclipseecf.blogspot.com](http://eclipseecf.blogspot.com)
- - date_published: 2021-10-19T00:00:00+00:00
-
- ## Eclipse Ecosystem
- - [http://eclipse-ecosystem.blogspot.com](http://eclipse-ecosystem.blogspot.com)
- - date_published: 2024-03-13T04:55:52+00:00
 

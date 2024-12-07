@@ -1,3 +1,75 @@
+ ## Deliberate Capital By Corbin & Grayden | Substack
+ - [https://deliberatecapital.substack.com](https://deliberatecapital.substack.com)
+ - date_published: 2024-05-01T08:34:38.046286+00:00
+
+ ## AI Research & Strategy | Delip Rao | Substack
+ - [https://deliprao.substack.com](https://deliprao.substack.com)
+ - date_published: 2023-12-22T01:52:44.921506+00:00
+
+ ## Delphi Zero | Art Lapinsch | Substack
+ - [https://delphizero.substack.com](https://delphizero.substack.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## No Royal Road | Demetri Spanos / No Royal Road | Substack
+ - [https://demetri.substack.com](https://demetri.substack.com)
+ - date_published: 2024-05-09T06:54:20.904198+00:00
+
+ ## Democracy for Sale | Peter Geoghegan | Substack
+ - [https://democracyforsale.substack.com](https://democracyforsale.substack.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## The Cutting Room Floor | Jerusalem Demsas | Substack
+ - [https://demsas.substack.com](https://demsas.substack.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Marko Tech Tips | Marko Denic | Substack
+ - [https://denicmarko.substack.com](https://denicmarko.substack.com)
+ - date_published: 2024-07-14T09:21:42.407252+00:00
+
+ ## through another lens  | Denise Masiel | Substack
+ - [https://denisemasiel.substack.com](https://denisemasiel.substack.com)
+ - date_published: 2024-05-06T16:27:21.130791+00:00
+
+ ## One Mindful Thing - Daring Perspectives on Micro-Mindfulness | Denise Pyles | Substack
+ - [https://denisepyles.substack.com](https://denisepyles.substack.com)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## De Novo | Metacelsus | Substack
+ - [https://denovo.substack.com](https://denovo.substack.com)
+ - date_published: 2024-06-01T05:03:32.197997+00:00
+
+ ## Department of Product | Rich Holmes | Substack
+ - [https://departmentofproduct.substack.com](https://departmentofproduct.substack.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
+ - [https://depression2022.substack.com](https://depression2022.substack.com)
+ - date_published: 2024-01-09T01:39:30.436174+00:00
+
+ ## Derw | Substack
+ - [https://derw.substack.com](https://derw.substack.com)
+ - date_published: 2024-01-09T01:39:32.524288+00:00
+
+ ## Design Buddies Newsletter | Design Buddies Community | Substack
+ - [https://designbuddies.substack.com](https://designbuddies.substack.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Design Lobster | Ben Strak | Substack
+ - [https://designlobster.substack.com](https://designlobster.substack.com)
+ - date_published: 2024-04-30T05:42:40.111704+00:00
+
+ ## Design snippet | João Borges | Substack
+ - [https://designsnippet.substack.com](https://designsnippet.substack.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## From Desi’s Desk | Desi M. Slaughter | Substack
+ - [https://desimslaughter.substack.com](https://desimslaughter.substack.com)
+ - date_published: 2024-05-12T05:25:17.891636+00:00
+
+ ## Desinteressante | Marcos Candido | Substack
+ - [https://desinteressante.substack.com](https://desinteressante.substack.com)
+ - date_published: 2024-10-31T14:35:37.318162+00:00
+
  ## Desystemize | collin | Substack
  - [https://desystemize.substack.com](https://desystemize.substack.com)
  - date_published: 2024-06-17T14:31:36.136804+00:00
@@ -4007,76 +4079,4 @@
  ## The ML Engineer Insights | Kartik Singhal | Substack
  - [https://mlengineerinsights.substack.com](https://mlengineerinsights.substack.com)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## Thoughts of Chairman Michael | Michael Liebreich | Substack
- - [https://mliebreich.substack.com](https://mliebreich.substack.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## The mobilegamer.biz newsletter | Substack
- - [https://mobilegamerbiz.substack.com](https://mobilegamerbiz.substack.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## MOBOLOGY | Dan E. Moldea | Substack
- - [https://mobology.substack.com](https://mobology.substack.com)
- - date_published: 2024-04-30T07:03:41.188933+00:00
-
- ## Model Thinking | Duncan McClements | Substack
- - [https://modelthinking.substack.com](https://modelthinking.substack.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Modernist Estates | Substack
- - [https://modernistestates.substack.com](https://modernistestates.substack.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Modern Power | Misha David Chellam | Substack
- - [https://modernpower.substack.com](https://modernpower.substack.com)
- - date_published: 2024-05-08T11:05:41.335958+00:00
-
- ## Not the Fun Kind | Moira Donegan | Substack
- - [https://moiradonegan.substack.com](https://moiradonegan.substack.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Remotely Productive | Gio | Substack
- - [https://mokagio.substack.com](https://mokagio.substack.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Molecular Spectacular | Adomas Malaiska | Substack
- - [https://molecularspec.substack.com](https://molecularspec.substack.com)
- - date_published: 2023-12-28T21:40:00.740879+00:00
-
- ## Molecule’s Newsletter | Substack
- - [https://moleculeto.substack.com](https://moleculeto.substack.com)
- - date_published: 2024-09-25T16:00:40.683812+00:00
-
- ## The Long Game | Molly Knight | Substack
- - [https://mollyknight.substack.com](https://mollyknight.substack.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Monalisa's Musings | Monalisa Foster | Substack
- - [https://monalisafostertheauthor.substack.com](https://monalisafostertheauthor.substack.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Moneyin2 | Jim Edwards | Substack
- - [https://moneyin2.substack.com](https://moneyin2.substack.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Monitoring Monitoring | Clay Smith | Substack
- - [https://monitoring2.substack.com](https://monitoring2.substack.com)
- - date_published: 2024-09-19T00:33:44.767399+00:00
-
- ## MonsterMind | Peter Eijk | Substack
- - [https://monstermind.substack.com](https://monstermind.substack.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## lawrence’s Substack | lawrence fossi | Substack
- - [https://montanaskeptic.substack.com](https://montanaskeptic.substack.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Peter Montgomery | Substack
- - [https://montgomeryp.substack.com](https://montgomeryp.substack.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## moontower: a stoner dad explains options trading to his kids | Kris Abdelmessih | Substack
- - [https://moontower.substack.com](https://moontower.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
 

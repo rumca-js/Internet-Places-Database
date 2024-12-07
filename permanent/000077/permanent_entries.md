@@ -1,3 +1,52 @@
+ ## codersnotes.com
+ - [https://codersnotes.com](https://codersnotes.com)
+ - date_published: 2022-06-04T18:53:54+00:00
+ - tags: ['programming', 'tech', 'personal']
+
+ ## CoderTee
+ - [https://codertee.com](https://codertee.com)
+ - date_published: 2016-07-20T18:45:50+00:00
+
+ ## A community of great programmers and their programming tips
+ - [https://coderwall.com](https://coderwall.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Pkv Games : Daftar Situs Judi Bandarq online Terpercaya 2024
+ - [http://www.codescapegame.com](http://www.codescapegame.com)
+ - date_published: 2024-06-15T11:37:48+00:00
+
+ ## Next generation code analysis | CodeScene
+ - [https://codescene.com](https://codescene.com)
+ - date_published: 2024-07-16T08:32:54+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://angular.codeschool.com](https://angular.codeschool.com)
+ - date_published: 2024-06-15T08:21:10+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://codeschool.com](https://codeschool.com)
+ - date_published: 2024-05-25T09:11:03.086836+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://coffeescript.codeschool.com](https://coffeescript.codeschool.com)
+ - date_published: 2024-05-25T09:10:24.631656+00:00
+
+ ## Pluralsight + Code School: Code Courses | Pluralsight
+ - [https://fivejs.codeschool.com](https://fivejs.codeschool.com)
+ - date_published: 2024-05-11T10:37:24.014097+00:00
+
+ ## Codesealer
+ - [https://codesealer.com](https://codesealer.com)
+ - date_published: 2024-07-09T17:38:17.670317+00:00
+
+ ## codeshaunted | code’s haunted
+ - [https://codeshaunted.com](https://codeshaunted.com)
+ - date_published: 2023-10-25T13:28:26.229731+00:00
+
+ ## Sign In • CodeShip
+ - [https://app.codeship.com](https://app.codeship.com)
+ - date_published: 2024-06-15T08:10:19.683625+00:00
+
  ## CloudBees Blog
  - [https://blog.codeship.com](https://blog.codeship.com)
  - date_published: 2024-06-22T16:03:36.244582+00:00
@@ -2300,7 +2349,7 @@ Glass, Collectibles
  ## Find Top Colleges & Universities in India | Explore Courses, Exams, Admissions & Latest News
  - [https://collegedekho.com](https://collegedekho.com)
  - date_published: 2024-04-23T19:56:40.331233+00:00
- - tags: ['india', 'college', 'page rank', 'university']
+ - tags: ['india', 'college', 'ranking page', 'university']
 
  ## CollegeDekho Hindi Visual Stories
  - [https://hindistories.collegedekho.com](https://hindistories.collegedekho.com)
@@ -2606,6 +2655,10 @@ Glass, Collectibles
  ## Últimas noticias y servicios de Colombia - Colombia.com
  - [https://www.colombia.com](https://www.colombia.com)
  - date_published: 2024-09-10T12:22:33.676944+00:00
+
+ ## ColombiaOne.com - News from Colombia and the World
+ - [https://colombiaone.com](https://colombiaone.com)
+ - date_published: 2024-12-06T04:12:52+00:00
 
  ## colombia
  - [https://www.colombiaonline.com](https://www.colombiaonline.com)
@@ -3992,57 +4045,4 @@ Colyvan's Homepage
  ## Commerzbank Firmenkundenservice
  - [https://service-firmenkunden.commerzbank.com](https://service-firmenkunden.commerzbank.com)
  - date_published: 2024-10-11T09:10:20+00:00
-
- ## Corporate Clients Portal - Commerzbank
- - [https://www.corporates.commerzbank.com](https://www.corporates.commerzbank.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## The Communication Initiative Network | convening the communication and media development, social and behaviour change community
- - [http://www.comminit.com](http://www.comminit.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Show HN: CommitAsync – $100K+ dev jobs 100% remote only
- - [https://commitasync.com](https://commitasync.com)
- - date_published: 2024-05-31T13:45:45+00:00
-
- ## CommitChange – Helping social impact movements fund their missions.
- - [https://commitchange.com](https://commitchange.com)
- - date_published: 2024-06-19T08:15:42+00:00
-
- ## Login - CommitChange
- - [https://us.commitchange.com](https://us.commitchange.com)
- - date_published: 2024-06-27T16:49:39.541154+00:00
-
- ## Commit Mono. Neutral programming typeface.
- - [https://commitmono.com](https://commitmono.com)
- - date_published: 2023-10-25T13:30:58.581020+00:00
-
- ## A whole new world
- - [http://www.commitstrip.com](http://www.commitstrip.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Charity Fundraising & Payment Services - Charity Experts
- - [https://www.committedgiving.com](https://www.committedgiving.com)
- - date_published: 2021-11-19T10:57:01+00:00
-
- ## Dribbble Comment Generator – Generate your own completely random comment
- - [https://commments.com](https://commments.com)
- - date_published: 2024-09-14T23:28:02.639039+00:00
-
- ## Home | Commnatural: Communicate for Change | Science Communication & Organizational Change Research & Consulting
- - [https://www.commnatural.com](https://www.commnatural.com)
- - date_published: 2024-10-19T10:21:40.061138+00:00
-
- ## COMMODEXPLORER – La radio des ordinateurs des années 80-90
- - [https://commodexplorer.com](https://commodexplorer.com)
- - date_published: 2024-02-15T22:15:06.222705+00:00
- - tags: ['demoscene']
-
- ## Commodities-API | Free Oil, Coffee, Wheat & Commodities Rates JSON API
- - [https://commodities-api.com](https://commodities-api.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Commodities API Knowledge Base
- - [http://help.commodities-api.com](http://help.commodities-api.com)
- - date_published: 2024-07-20T04:11:37.827463+00:00
 

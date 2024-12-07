@@ -1,3 +1,7 @@
+ ## QMR – QMR
+ - [https://qmr.ai](https://qmr.ai)
+ - date_published: 2023-10-25T11:41:43.521292+00:00
+
  ## QnA Maker
  - [https://qnamaker.ai](https://qnamaker.ai)
  - date_published: 2024-05-02T12:44:28.817311+00:00
@@ -4015,8 +4019,4 @@ Creative Solutions
  ## Wegic User Service Agreement | Terms of service
  - [https://privacy.wegic.ai](https://privacy.wegic.ai)
  - date_published: 2024-08-30T00:00:00+00:00
-
- ## Wegic | The first AI web designer & developer by your side.
- - [https://wegic.ai](https://wegic.ai)
- - date_published: 2024-06-14T08:53:31.371770+00:00
 

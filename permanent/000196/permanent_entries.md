@@ -1,3 +1,75 @@
+ ## Stuck in the Rockies | Home
+ - [https://stuckintherockies.com](https://stuckintherockies.com)
+ - date_published: 2024-06-20T02:43:11+00:00
+
+ ## Stuck in the Scroll
+ - [https://stuckinthescroll.com](https://stuckinthescroll.com)
+ - date_published: 2024-07-30T23:04:56+00:00
+
+ ## Stuckis.com
+ - [http://stuckis.com](http://stuckis.com)
+ - date_published: 2023-12-27T04:30:30+00:00
+
+ ## Student Accommodation Made Easy | Student.com
+ - [https://www.student.com](https://www.student.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## ClearCost
+ - [https://uga.studentaidcalculator.com](https://uga.studentaidcalculator.com)
+ - date_published: 2024-06-26T18:07:22+00:00
+
+ ## Student App Centre
+ - [https://www.studentappcentre.com](https://www.studentappcentre.com)
+ - date_published: 2024-06-20T17:17:56.946490+00:00
+
+ ## Student Beans
+ - [https://accounts.studentbeans.com](https://accounts.studentbeans.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## ANKER | Student Beans iD
+ - [https://anker-us.connect.studentbeans.com](https://anker-us.connect.studentbeans.com)
+ - date_published: 2024-06-18T16:18:33.954738+00:00
+
+ ## HelloFresh | Student Beans iD
+ - [https://hellofresh-at.connect.studentbeans.com](https://hellofresh-at.connect.studentbeans.com)
+ - date_published: 2024-06-18T17:37:40.548424+00:00
+
+ ## HelloFresh | Student Beans iD
+ - [https://hellofresh-ca.connect.studentbeans.com](https://hellofresh-ca.connect.studentbeans.com)
+ - date_published: 2024-06-18T17:36:27.164292+00:00
+
+ ## HelloFresh | Student Beans iD
+ - [https://hellofresh-de.connect.studentbeans.com](https://hellofresh-de.connect.studentbeans.com)
+ - date_published: 2024-06-18T17:18:58.926667+00:00
+
+ ## HelloFresh | Student Beans iD
+ - [https://hellofresh-dk.connect.studentbeans.com](https://hellofresh-dk.connect.studentbeans.com)
+ - date_published: 2024-06-18T17:18:17.281829+00:00
+
+ ## HelloFresh | Student Beans iD
+ - [https://hellofresh-se.connect.studentbeans.com](https://hellofresh-se.connect.studentbeans.com)
+ - date_published: 2024-06-18T17:20:16.875932+00:00
+
+ ## Logitech | Student Beans iD
+ - [https://logitech-de.connect.studentbeans.com](https://logitech-de.connect.studentbeans.com)
+ - date_published: 2024-06-21T15:43:37.260674+00:00
+
+ ## Darmowe zniżki studenckie | Ważne kody 2024
+ - [https://www.studentbeans.com](https://www.studentbeans.com)
+ - date_published: 2024-06-29T15:56:02.602790+00:00
+
+ ## Home - StudentBrands
+ - [https://www.studentbrands.com](https://www.studentbrands.com)
+ - date_published: 2024-10-21T19:02:35.731211+00:00
+
+ ## Name Capture
+ - [https://namecapture.studentbridge.com](https://namecapture.studentbridge.com)
+ - date_published: 2024-07-21T09:08:04.358203+00:00
+
+ ## Enrollment Marketing And Management Software - StudentBridge
+ - [http://studentbridge.com](http://studentbridge.com)
+ - date_published: 2024-07-17T04:53:00+00:00
+
  ## Home
  - [https://www.student-circuit.com](https://www.student-circuit.com)
  - date_published: 2024-09-19T08:43:25+00:00
@@ -4025,76 +4097,4 @@
  ## Delay Smartphones | Hannah Oertel | Substack
  - [https://delaysmartphones.substack.com](https://delaysmartphones.substack.com)
  - date_published: 2024-03-17T00:00:00+00:00
-
- ## Deliberate Capital By Corbin & Grayden | Substack
- - [https://deliberatecapital.substack.com](https://deliberatecapital.substack.com)
- - date_published: 2024-05-01T08:34:38.046286+00:00
-
- ## AI Research & Strategy | Delip Rao | Substack
- - [https://deliprao.substack.com](https://deliprao.substack.com)
- - date_published: 2023-12-22T01:52:44.921506+00:00
-
- ## Delphi Zero | Art Lapinsch | Substack
- - [https://delphizero.substack.com](https://delphizero.substack.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## No Royal Road | Demetri Spanos / No Royal Road | Substack
- - [https://demetri.substack.com](https://demetri.substack.com)
- - date_published: 2024-05-09T06:54:20.904198+00:00
-
- ## Democracy for Sale | Peter Geoghegan | Substack
- - [https://democracyforsale.substack.com](https://democracyforsale.substack.com)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## The Cutting Room Floor | Jerusalem Demsas | Substack
- - [https://demsas.substack.com](https://demsas.substack.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Marko Tech Tips | Marko Denic | Substack
- - [https://denicmarko.substack.com](https://denicmarko.substack.com)
- - date_published: 2024-07-14T09:21:42.407252+00:00
-
- ## through another lens  | Denise Masiel | Substack
- - [https://denisemasiel.substack.com](https://denisemasiel.substack.com)
- - date_published: 2024-05-06T16:27:21.130791+00:00
-
- ## One Mindful Thing - Daring Perspectives on Micro-Mindfulness | Denise Pyles | Substack
- - [https://denisepyles.substack.com](https://denisepyles.substack.com)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## De Novo | Metacelsus | Substack
- - [https://denovo.substack.com](https://denovo.substack.com)
- - date_published: 2024-06-01T05:03:32.197997+00:00
-
- ## Department of Product | Rich Holmes | Substack
- - [https://departmentofproduct.substack.com](https://departmentofproduct.substack.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## The Great Reset Diary 2022-  | Yun-Fang Juan | Substack
- - [https://depression2022.substack.com](https://depression2022.substack.com)
- - date_published: 2024-01-09T01:39:30.436174+00:00
-
- ## Derw | Substack
- - [https://derw.substack.com](https://derw.substack.com)
- - date_published: 2024-01-09T01:39:32.524288+00:00
-
- ## Design Buddies Newsletter | Design Buddies Community | Substack
- - [https://designbuddies.substack.com](https://designbuddies.substack.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Design Lobster | Ben Strak | Substack
- - [https://designlobster.substack.com](https://designlobster.substack.com)
- - date_published: 2024-04-30T05:42:40.111704+00:00
-
- ## Design snippet | João Borges | Substack
- - [https://designsnippet.substack.com](https://designsnippet.substack.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## From Desi’s Desk | Desi M. Slaughter | Substack
- - [https://desimslaughter.substack.com](https://desimslaughter.substack.com)
- - date_published: 2024-05-12T05:25:17.891636+00:00
-
- ## Desinteressante | Marcos Candido | Substack
- - [https://desinteressante.substack.com](https://desinteressante.substack.com)
- - date_published: 2024-10-31T14:35:37.318162+00:00
 

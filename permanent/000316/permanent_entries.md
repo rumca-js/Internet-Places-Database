@@ -1,3 +1,108 @@
+ ## Prefect Cloud
+ - [https://prefect.status.io](https://prefect.status.io)
+ - date_published: 2024-06-16T20:07:28.105615+00:00
+
+ ## Sectigo
+ - [https://sectigo.status.io](https://sectigo.status.io)
+ - date_published: 2024-10-07T23:39:10.745590+00:00
+
+ ## SmartSurvey Status Page
+ - [https://smartsurvey.status.io](https://smartsurvey.status.io)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Status.io - Hosted Status Pages
+ - [https://status.io](https://status.io)
+ - date_published: 2024-02-08T18:05:58.663012+00:00
+
+ ## Status.io System Status
+ - [https://status.status.io](https://status.status.io)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Tabular.io
+ - [https://tabular.status.io](https://tabular.status.io)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## University of Utah IT Services
+ - [https://uofu.status.io](https://uofu.status.io)
+ - date_published: 2024-07-14T05:11:29.726836+00:00
+
+ ## Statusduck
+ - [https://statusduck.io](https://statusduck.io)
+ - date_published: 2024-02-13T17:40:24.219862+00:00
+ - tags: ['down detector']
+
+ ## Loading...
+ - [https://clemsonuniversity.statushub.io](https://clemsonuniversity.statushub.io)
+ - date_published: 2024-09-05T11:23:55+00:00
+
+ ## Statuslink.io
+ - [https://statuslink.io](https://statuslink.io)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sequin Status Status
+ - [https://1btv5z1y42jp.statuspage.io](https://1btv5z1y42jp.statuspage.io)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## 1Password Status
+ - [https://1password.statuspage.io](https://1password.statuspage.io)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Kattis Status
+ - [https://1v5nt68l4ppj.statuspage.io](https://1v5nt68l4ppj.statuspage.io)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Python Infrastructure Status
+ - [https://2p66nmmycsj3.statuspage.io](https://2p66nmmycsj3.statuspage.io)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## BotTalk Status
+ - [https://46bxr4kl9k0w.statuspage.io](https://46bxr4kl9k0w.statuspage.io)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## UNLV Status
+ - [https://4lbn1k8y5mln.statuspage.io](https://4lbn1k8y5mln.statuspage.io)
+ - date_published: 2024-10-30T03:10:12.982546+00:00
+
+ ## Airtable Status
+ - [https://5vv477bkm0kl.statuspage.io](https://5vv477bkm0kl.statuspage.io)
+ - date_published: 2024-09-27T21:54:48.045728+00:00
+
+ ## OpenWater Status
+ - [https://8fjzqlcd23k3.statuspage.io](https://8fjzqlcd23k3.statuspage.io)
+ - date_published: 2024-08-06T07:58:35.752114+00:00
+
+ ## Dover Status
+ - [https://9ns8rs9sdd6r.statuspage.io](https://9ns8rs9sdd6r.statuspage.io)
+ - date_published: 2024-05-10T05:56:18.587581+00:00
+
+ ## Abnormal Security Status
+ - [https://abnormalsecurity.statuspage.io](https://abnormalsecurity.statuspage.io)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## AIdea Status
+ - [https://aidea.statuspage.io](https://aidea.statuspage.io)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Akita Status
+ - [https://akita.statuspage.io](https://akita.statuspage.io)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## All The Flavors Status
+ - [https://alltheflavors.statuspage.io](https://alltheflavors.statuspage.io)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Anaconda Status
+ - [https://anaconda.statuspage.io](https://anaconda.statuspage.io)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## American Registry for Internet Numbers Status
+ - [https://arin.statuspage.io](https://arin.statuspage.io)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Asphalt Status
+ - [https://asphalt.statuspage.io](https://asphalt.statuspage.io)
+ - date_published: 2024-10-22T18:34:21.350918+00:00
+
  ## Base Status
  - [https://base-l2.statuspage.io](https://base-l2.statuspage.io)
  - date_published: 2024-04-06T00:00:00+00:00
@@ -2369,6 +2474,10 @@
  - [https://tembo.io](https://tembo.io)
  - date_published: 2023-10-25T20:11:16.524916+00:00
 
+ ## API for Automated Image and PDF Generation | Templated
+ - [https://templated.io](https://templated.io)
+ - date_published: 2024-12-06T15:48:56+00:00
+
  ## Project, Product, & Portfolio Management Software for Jira | Tempo
  - [https://www.tempo.io](https://www.tempo.io)
  - date_published: 2024-06-23T09:33:10.167189+00:00
@@ -3910,113 +4019,4 @@ End-to-end typesafe APIs made easy. | tRPC
  ## TypeFox
  - [http://typefox.io](http://typefox.io)
  - date_published: 2024-03-18T00:00:00+00:00
-
- ## TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
- - [https://typeorm.io](https://typeorm.io)
- - date_published: 2024-03-21T19:23:55+00:00
-
- ## typescript-eslint
- - [https://typescript-eslint.io](https://typescript-eslint.io)
- - date_published: 2024-05-07T10:03:12.295927+00:00
-
- ## AI Chat for scientific PDFs | SciSpace
- - [https://typeset.io](https://typeset.io)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## TypeSpec
- - [https://typespec.io](https://typespec.io)
- - date_published: 2024-04-30T08:13:12.430087+00:00
-
- ## Typhon Wallet - Your Gateway To Cardano
- - [https://typhonwallet.io](https://typhonwallet.io)
- - date_published: 2024-09-27T06:01:41+00:00
-
- ## Typora Store
- - [https://store.typora.io](https://store.typora.io)
- - date_published: 2024-06-23T09:56:15.275311+00:00
-
- ## Typora Support
- - [https://support.typora.io](https://support.typora.io)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Themes Gallery — Typora
- - [https://theme.typora.io](https://theme.typora.io)
- - date_published: 2024-06-20T07:48:32+00:00
-
- ## Typora — a markdown editor, markdown reader.
- - [https://typora.io](https://typora.io)
- - date_published: 2024-05-06T14:02:51.149326+00:00
-
- ## Typper - Accelerate your workflow with Figma AI
- - [https://typper.io](https://typper.io)
- - date_published: 2024-10-04T16:46:27+00:00
-
- ## TzKT - Tezos Explorer by Baking Bad
- - [https://tzkt.io](https://tzkt.io)
- - date_published: 2024-05-02T13:44:36.595662+00:00
-
- ## UBER ADDRESS
- - [https://uberapi.io](https://uberapi.io)
- - date_published: 2023-10-01T10:28:46+00:00
-
- ## ÜBERVIZ
- - [https://www.uberviz.io](https://www.uberviz.io)
- - date_published: 2015-11-25T07:12:24+00:00
-
- ## Ubiqscan
- - [https://ubiqscan.io](https://ubiqscan.io)
- - date_published: 2022-08-05T15:55:00+00:00
-
- ## Ubuntu Touch • Linux Phone
- - [https://devices.ubuntu-touch.io](https://devices.ubuntu-touch.io)
- - date_published: 2024-06-16T02:39:57.556031+00:00
-
- ## Home | Ubuntu Touch
- - [https://ubuntu-touch.io](https://ubuntu-touch.io)
- - date_published: 2024-06-16T02:40:06.109445+00:00
-
- ## File uploading, processing & delivery for web and mobile apps
- - [https://61ffd1663944611bf8b4.ucr.io](https://61ffd1663944611bf8b4.ucr.io)
- - date_published: 2024-10-20T17:00:49.531247+00:00
-
- ## File uploading, processing & delivery for web and mobile apps
- - [https://b83eeb945e2915539af8.ucr.io](https://b83eeb945e2915539af8.ucr.io)
- - date_published: 2024-10-20T08:29:05.960472+00:00
-
- ## Udara Jay
- - [https://udara.io](https://udara.io)
- - date_published: 2024-06-08T11:15:29+00:00
-
- ## UEVR - Transform Unreal Engine Games into VR Experiences
- - [http://uevr.io](http://uevr.io)
- - date_published: 2023-11-30T23:14:57+00:00
- - tags: ['unreal engine', 'video game mod']
-
- ## Ufile.io - Upload files for free & share them without registration
- - [https://ufile.io](https://ufile.io)
- - date_published: 2024-07-14T19:21:46.510536+00:00
-
- ## What's new on UI Bakery
- - [https://changelog.uibakery.io](https://changelog.uibakery.io)
- - date_published: 2023-09-04T00:00:00+00:00
-
- ## UI Bakery
- - [https://cloud.uibakery.io](https://cloud.uibakery.io)
- - date_published: 2024-09-02T15:21:06+00:00
-
- ## UI Bakery Community
- - [https://community.uibakery.io](https://community.uibakery.io)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## What is UI Bakery? | UI Bakery Docs
- - [https://docs.uibakery.io](https://docs.uibakery.io)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## UI Bakery Feedback
- - [https://roadmap.uibakery.io](https://roadmap.uibakery.io)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Build internal tools faster than ever | UI Bakery
- - [https://uibakery.io](https://uibakery.io)
- - date_published: 2024-05-30T00:00:00+00:00
 

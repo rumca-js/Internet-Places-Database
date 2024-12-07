@@ -1,3 +1,92 @@
+ ## Kundo
+ - [https://kundo.design](https://kundo.design)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Learn UI Design
+ - [https://app.learnui.design](https://app.learnui.design)
+ - date_published: 2024-06-23T07:56:52.263258+00:00
+
+ ## Learn UI Design
+ - [https://learnui.design](https://learnui.design)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Lessons of Design
+ - [https://lessons.design](https://lessons.design)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Ben Luby - UX, Content Design, Accessibility
+ - [https://luby.design](https://luby.design)
+ - date_published: 2024-05-09T08:21:21.309633+00:00
+
+ ## Magician for Figma
+ - [https://magician.design](https://magician.design)
+ - date_published: 2024-06-19T19:42:29.119726+00:00
+
+ ## MagicPattern - Beautiful & cool backgrounds with 10+ tools!
+ - [https://www.magicpattern.design](https://www.magicpattern.design)
+ - date_published: 2024-10-22T19:23:56.950852+00:00
+
+ ## Magic UI: UI Library for Design Engineers
+ - [https://magicui.design](https://magicui.design)
+ - date_published: 2024-05-23T03:23:54+00:00
+ - tags: ['web ui', 'programming library']
+
+ ## Magic UI Pro
+ - [https://pro.magicui.design](https://pro.magicui.design)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## MAINES DESIGN
+ - [https://www.maines.design](https://www.maines.design)
+ - date_published: 2024-07-08T16:07:02.222366+00:00
+
+ ## Home | Valery Marier
+ - [https://marier.design](https://marier.design)
+ - date_published: 2024-04-29T07:13:57.627738+00:00
+
+ ## mastodon.design
+ - [https://mastodon.design](https://mastodon.design)
+ - date_published: 2023-12-11T16:19:14.967288+00:00
+
+ ## Maze Help
+ - [https://help.maze.design](https://help.maze.design)
+ - date_published: 2024-07-21T07:06:38.064244+00:00
+
+ ## Mechanic
+ - [https://mechanic.design](https://mechanic.design)
+ - date_published: 2024-08-18T13:11:04.603536+00:00
+
+ ## Medium.design
+ - [https://medium.design](https://medium.design)
+ - date_published: 2024-03-22T15:04:13.826927+00:00
+
+ ## Home • Mel Choyce
+ - [https://melchoyce.design](https://melchoyce.design)
+ - date_published: 2024-05-07T23:12:31.267573+00:00
+
+ ## MESHLESS DESIGN
+ - [https://meshless.design](https://meshless.design)
+ - date_published: 2024-03-07T19:36:39.228012+00:00
+
+ ## Design Subscription Service | Mi&u Designs
+ - [https://miandu.design](https://miandu.design)
+ - date_published: 2024-07-24T02:30:03.812045+00:00
+
+ ## Microsoft Design
+ - [https://fluent1.microsoft.design](https://fluent1.microsoft.design)
+ - date_published: 2024-04-29T07:18:50.432364+00:00
+
+ ## Home - Fluent 2 Design System
+ - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
+ - date_published: 2023-10-25T18:34:24.950370+00:00
+
+ ## Microsoft Inclusive Design
+ - [https://inclusive.microsoft.design](https://inclusive.microsoft.design)
+ - date_published: 2024-04-29T07:16:45.355247+00:00
+
+ ## Microsoft Design
+ - [https://microsoft.design](https://microsoft.design)
+ - date_published: 2024-04-29T07:18:49.713895+00:00
+
  ## Welcome to your Strapi app
  - [https://storytelling-cms.microsoft.design](https://storytelling-cms.microsoft.design)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -3971,92 +4060,4 @@
  ## Envio
  - [https://docs.envio.dev](https://docs.envio.dev)
  - date_published: 2024-09-21T23:29:21.583569+00:00
-
- ## Build bigger, ship faster
- - [https://envio.dev](https://envio.dev)
- - date_published: 2024-06-16T05:15:00.984822+00:00
-
- ## Home - The Earth Observation API
- - [https://eoapi.dev](https://eoapi.dev)
- - date_published: 2024-05-24T18:43:46+00:00
-
- ## Get Really Good at React
- - [https://epicreact.dev](https://epicreact.dev)
- - date_published: 2024-04-29T07:42:15.928621+00:00
-
- ## Advanced React Patterns 🤯
- - [http://advanced-react-patterns.epicweb.dev](http://advanced-react-patterns.epicweb.dev)
- - date_published: 2024-07-23T22:07:11.358593+00:00
-
- ## Web Authentication 🔐
- - [https://auth.epicweb.dev](https://auth.epicweb.dev)
- - date_published: 2024-04-29T07:42:12.019064+00:00
-
- ## Data Modeling Deep Dive 💾
- - [https://data.epicweb.dev](https://data.epicweb.dev)
- - date_published: 2024-04-29T07:42:18.181881+00:00
-
- ## Ship Modern Full-Stack Web Applications
- - [https://epicweb.dev](https://epicweb.dev)
- - date_published: 2024-06-21T12:11:26.119472+00:00
-
- ## Professional Web Forms 📝
- - [https://forms.epicweb.dev](https://forms.epicweb.dev)
- - date_published: 2024-04-29T07:42:08.974265+00:00
-
- ## Full Stack Foundations 🔭
- - [https://foundations.epicweb.dev](https://foundations.epicweb.dev)
- - date_published: 2024-04-29T07:42:07.417595+00:00
-
- ## Full Stack Testing 🧪
- - [https://testing.epicweb.dev](https://testing.epicweb.dev)
- - date_published: 2024-04-29T07:42:14.404529+00:00
-
- ## Date to Epoch Converter
- - [https://www.epoch-time.dev](https://www.epoch-time.dev)
- - date_published: 2024-11-08T11:28:07.313252+00:00
-
- ## Ergomake | Environments-as-a-Service
- - [https://ergomake.dev](https://ergomake.dev)
- - date_published: 2023-09-11T04:52:34+00:00
-
- ## Oxidizing corner
- - [https://blog.erk.dev](https://blog.erk.dev)
- - date_published: 2023-10-25T18:37:48.559995+00:00
-
- ## Flutter - Crea aplicaciones para cualquier pantalla
- - [https://esflutter.dev](https://esflutter.dev)
- - date_published: 2024-04-29T07:44:11.020194+00:00
-
- ## Educational Sensational Inspirational Foundational
- - [https://esif.dev](https://esif.dev)
- - date_published: 2023-10-25T18:37:55.517883+00:00
-
- ## Eduardo San Martin Morote
- - [https://esm.dev](https://esm.dev)
- - date_published: 2024-09-04T15:12:57.161859+00:00
-
- ## Pinia | The intuitive store for Vue.js
- - [https://pinia.esm.dev](https://pinia.esm.dev)
- - date_published: 2024-09-04T15:01:13.728257+00:00
-
- ## Estee's Tech Blog
- - [https://blog.esteetey.dev](https://blog.esteetey.dev)
- - date_published: 2024-05-06T13:14:52.028654+00:00
-
- ## Estee Tey's personal website
- - [https://polywork.esteetey.dev](https://polywork.esteetey.dev)
- - date_published: 2024-06-23T01:36:10.067131+00:00
-
- ## Esther Agbaje | Portfolio
- - [https://estheragbaje.dev](https://estheragbaje.dev)
- - date_published: 2024-06-23T08:12:11.994734+00:00
-
- ## Show HN: Etcha – Infinite scale, serverless config management
- - [https://etcha.dev](https://etcha.dev)
- - date_published: 2023-11-18T15:39:55+00:00
-
- ## Eternal Terminal
- - [https://eternalterminal.dev](https://eternalterminal.dev)
- - date_published: 2023-06-29T01:33:34+00:00
 

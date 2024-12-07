@@ -1,3 +1,35 @@
+ ## 兵团调查总队
+ - [http://dczd.xjbt.gov.cn](http://dczd.xjbt.gov.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 兵团党委党校（兵团行政学院）
+ - [http://dwdx.xjbt.gov.cn](http://dwdx.xjbt.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 检察院
+ - [http://jcy.xjbt.gov.cn](http://jcy.xjbt.gov.cn)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 农业农村局（畜牧兽医局）
+ - [http://nyj.xjbt.gov.cn](http://nyj.xjbt.gov.cn)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## 兵团人力资源和社会保障局
+ - [http://rsj.xjbt.gov.cn](http://rsj.xjbt.gov.cn)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## 兵团司法局
+ - [http://sfj.xjbt.gov.cn](http://sfj.xjbt.gov.cn)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## 兵团生态环境局
+ - [http://sthjj.xjbt.gov.cn](http://sthjj.xjbt.gov.cn)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## 新疆生产建设兵团统计局
+ - [http://tjj.xjbt.gov.cn](http://tjj.xjbt.gov.cn)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## 兵团文化体育广电和旅游局
  - [http://wtgl.xjbt.gov.cn](http://wtgl.xjbt.gov.cn)
  - date_published: 2024-06-14T00:00:00+00:00
@@ -3985,36 +4017,4 @@
  ## Coffee in Literature
  - [http://coffeeliterature.co](http://coffeeliterature.co)
  - date_published: 2018-12-27T16:03:22+00:00
-
- ## Cofina | Colombian Coffee
- - [http://cofina.co](http://cofina.co)
- - date_published: 2024-06-12T13:10:50.955682+00:00
-
- ## Analytics for VR, AR, MR
- - [http://cognitivevr.co](http://cognitivevr.co)
- - date_published: 2024-12-04T19:13:04.953906+00:00
-
- ## CoinList
- - [https://coinlist.co](https://coinlist.co)
- - date_published: 2024-09-21T23:51:33.354766+00:00
-
- ## Coinmash - Your entry into Web3, NFTs & DeFi
- - [https://coinmash.co](https://coinmash.co)
- - date_published: 2022-07-21T13:06:53+00:00
-
- ## Coinscope | Today's best
- - [https://www.coinscope.co](https://www.coinscope.co)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## CoinSwitch: Buy Bitcoin and Cryptocurrency at India's Leading Crypto Exchange
- - [https://coinswitch.co](https://coinswitch.co)
- - date_published: 2024-06-16T04:35:50.132848+00:00
-
- ## Bitkuber Help Certer
- - [https://crypto-support.coinswitch.co](https://crypto-support.coinswitch.co)
- - date_published: 2023-09-26T11:31:12+00:00
-
- ## Coinvise
- - [https://coinvise.co](https://coinvise.co)
- - date_published: 2024-06-16T03:37:03.901580+00:00
 

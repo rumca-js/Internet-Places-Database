@@ -1,3 +1,63 @@
+ ## Geoffrey Dorne Design : atelier de design graphique engagé
+ - [http://designandhuman.com](http://designandhuman.com)
+ - date_published: 2024-01-15T05:53:45+00:00
+
+ ## Naperville Web Design & Digital Marketing Company | Design & Promote
+ - [https://www.designandpromote.com](https://www.designandpromote.com)
+ - date_published: 2024-09-27T01:49:06+00:00
+
+ ## D&R Web Site -  Loading: Please Wait
+ - [https://static.designandreuse.com](https://static.designandreuse.com)
+ - date_published: 2013-03-18T06:32:25+00:00
+
+ ## Designing APIs with Swagger and OpenAPI
+ - [https://designapis.com](https://designapis.com)
+ - date_published: 2022-05-28T11:08:16+00:00
+
+ ## Designatives
+ - [https://designatives.com](https://designatives.com)
+ - date_published: 2024-09-18T19:39:31+00:00
+
+ ## Engineered Solutions for a World in Motion - Designatronics Inc.
+ - [https://www.designatronics.com](https://www.designatronics.com)
+ - date_published: 2024-07-20T11:00:50.008989+00:00
+
+ ## Design Better Learning – Make learning that really works.
+ - [https://designbetterlearning.com](https://designbetterlearning.com)
+ - date_published: 2024-05-06T21:25:24.713868+00:00
+
+ ## Design Better | The Curiosity Department | Substack
+ - [https://designbetterpodcast.com](https://designbetterpodcast.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Design Bombs
+ - [http://www.designbombs.com](http://www.designbombs.com)
+ - date_published: 2024-07-20T03:55:33+00:00
+
+ ## designboom | architecture & design magazine
+ - [https://designboom.com](https://designboom.com)
+ - date_published: 2024-05-01T04:48:13.742123+00:00
+
+ ## designboom ad system
+ - [https://grinx.designboom.com](https://grinx.designboom.com)
+ - date_published: 2024-05-01T04:48:12.187289+00:00
+
+ ## Designbooth — Visual communication and corporate identity
+ - [https://designbooth.com](https://designbooth.com)
+ - date_published: 2024-06-21T15:05:53.883536+00:00
+
+ ## Ayelet | Confident Brand Design for Daring Dreamers
+ - [https://designbyayelet.com](https://designbyayelet.com)
+ - date_published: 2024-09-16T23:04:20.079707+00:00
+
+ ## Home Page
+ - [https://www.designbygeometry.com](https://www.designbygeometry.com)
+ - date_published: 2024-07-03T18:04:29.588645+00:00
+
+ ## Designbygoci - Membentuk Identitas Pemain: Peran Avatar dalam Pengalaman Bermain Game
+ - [https://designbygoci.com](https://designbygoci.com)
+ - date_published: 2024-08-20T04:15:18.006740+00:00
+
  ## Design By Humans Blog
  - [https://blog.designbyhumans.com](https://blog.designbyhumans.com)
  - date_published: 2024-05-01T04:48:22.297803+00:00
@@ -3971,64 +4031,4 @@ A blog about programming, distributed systems and others
  ## DIAL UP
  - [http://dialupstuff.com](http://dialupstuff.com)
  - date_published: 2024-07-13T15:48:58.964728+00:00
-
- ## Peter Diamandis - Innovation & Entrepreneurship Community | Leadership Development
- - [https://diamandis.com](https://diamandis.com)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Diamante Farms – Welcome to Diamante Farms
- - [http://www.diamantefarms.com](http://www.diamantefarms.com)
- - date_published: 2024-08-05T19:15:45.343436+00:00
-
- ## Diamantrad: Traumhaft schöne Räder seit 1885
- - [https://www.diamantrad.com](https://www.diamantrad.com)
- - date_published: 2024-09-18T01:36:59.799864+00:00
-
- ## Homepage
- - [http://diamax.com](http://diamax.com)
- - date_published: 2024-06-21T19:21:22.058496+00:00
-
- ## Diamond Aircraft Industries
- - [http://www.diamondaircraft.com](http://www.diamondaircraft.com)
- - date_published: 2024-07-09T21:49:53.892345+00:00
-
- ## Beef | Diamond A Ranch Beef | Dime Box
- - [https://www.diamondaranchbeef.com](https://www.diamondaranchbeef.com)
- - date_published: 2024-06-21T09:54:19.058842+00:00
-
- ## Diamond Book Distributors
- - [http://www.diamondbookdistributors.com](http://www.diamondbookdistributors.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Diamond BookShelf - Graphic Novel Resource for Libraries
- - [http://www.diamondbookshelf.com](http://www.diamondbookshelf.com)
- - date_published: 2024-06-29T09:07:36.109706+00:00
-
- ## Home Page
- - [https://www.diamondcomics.com](https://www.diamondcomics.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Diamond International Galleries
- - [https://www.diamondgalleries.com](https://www.diamondgalleries.com)
- - date_published: 2024-06-29T09:07:39.402232+00:00
-
- ## DiamondNet | Sallisaw, OK - Official Website
- - [http://www.diamondnetok.com](http://www.diamondnetok.com)
- - date_published: 2024-06-29T16:04:45.259140+00:00
-
- ## Diamond Paintings kopen? Gratis verzending in de Benelux! Klik hier!
- - [https://diamondpaintingwinkel.com](https://diamondpaintingwinkel.com)
- - date_published: 2024-09-18T20:05:43.404313+00:00
-
- ## Diamond Select Toys
- - [http://www.diamondselecttoys.com](http://www.diamondselecttoys.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Diamonds Suck
- - [https://diamondssuck.com](https://diamondssuck.com)
- - date_published: 2023-11-13T05:32:47+00:00
-
- ## Diana Smith | UI Engineer / Web Developer / Frontend Specialist | cyanharlow @ GitHub
- - [http://diana-adrianne.com](http://diana-adrianne.com)
- - date_published: 2023-05-03T16:20:48+00:00
 

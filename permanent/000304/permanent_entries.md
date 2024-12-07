@@ -1,3 +1,103 @@
+ ## DesignSparks
+ - [https://designsparks.io](https://designsparks.io)
+ - date_published: 2024-06-19T19:36:45.849007+00:00
+
+ ## Design Vault: Design Inspiration
+ - [https://designvault.io](https://designvault.io)
+ - date_published: 2024-05-06T13:56:40.205734+00:00
+
+ ## DeSpace Protocol
+ - [https://despace.io](https://despace.io)
+ - date_published: 2022-11-05T23:38:22+00:00
+
+ ## DeSpread | A Web3 Market Strategy Consulting Firm
+ - [https://despread.io](https://despread.io)
+ - date_published: 2024-09-10T09:45:42.638770+00:00
+
+ ## Agence Growth Hacking & Stratégie Web, Paris • DEUX.IO
+ - [https://deux.io](https://deux.io)
+ - date_published: 2024-07-08T11:13:23.382236+00:00
+
+ ## devcraft.io
+ - [https://devcraft.io](https://devcraft.io)
+ - date_published: 2022-04-04T00:00:00+00:00
+
+ ## Dev Different
+ - [https://www.devdifferent.io](https://www.devdifferent.io)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## DevDocs
+ - [https://devdocs.io](https://devdocs.io)
+ - date_published: 2024-01-12T19:52:26.129273+00:00
+
+ ## Aria · Personal, Portfolio, Blog Template
+ - [https://aria.devdojo.io](https://aria.devdojo.io)
+ - date_published: 2023-10-11T19:41:52+00:00
+
+ ## Blog · Home
+ - [https://blog.devdojo.io](https://blog.devdojo.io)
+ - date_published: 2023-03-16T00:00:00+00:00
+
+ ## Boxed Template
+ - [https://boxed.devdojo.io](https://boxed.devdojo.io)
+ - date_published: 2023-10-11T19:45:08+00:00
+
+ ## C64 Template
+ - [https://c64.devdojo.io](https://c64.devdojo.io)
+ - date_published: 2023-10-11T19:42:29+00:00
+
+ ## Retro-frame Template
+ - [https://retroframe.devdojo.io](https://retroframe.devdojo.io)
+ - date_published: 2023-10-08T11:53:15+00:00
+
+ ## Static Starter Template
+ - [https://starter.devdojo.io](https://starter.devdojo.io)
+ - date_published: 2023-09-27T14:27:06+00:00
+
+ ## Stone · Premium template
+ - [https://stone.devdojo.io](https://stone.devdojo.io)
+ - date_published: 2023-10-11T19:45:42+00:00
+
+ ## Windy City DevFest 2023
+ - [https://windycity.devfest.io](https://windycity.devfest.io)
+ - date_published: 2024-08-10T21:34:19+00:00
+
+ ## Dev Genius
+ - [https://blog.devgenius.io](https://blog.devgenius.io)
+ - date_published: 2023-10-25T19:41:22.720361+00:00
+
+ ## DevGenius’s Newsletter | Substack
+ - [https://newsletter.devgenius.io](https://newsletter.devgenius.io)
+ - date_published: 2024-04-28T03:06:57.161027+00:00
+
+ ## Devhints — TL;DR for developer documentation
+ - [https://assets.devhints.io](https://assets.devhints.io)
+ - date_published: 2024-07-08T15:13:52.375796+00:00
+
+ ## Devhints — TL;DR for developer documentation
+ - [https://devhints.io](https://devhints.io)
+ - date_published: 2024-05-08T11:46:08.153411+00:00
+
+ ## Device Security - DeviceSecurity.io
+ - [https://www.devicesecurity.io](https://www.devicesecurity.io)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## DevLifts | Refactor Your Body
+ - [http://devlifts.io](http://devlifts.io)
+ - date_published: 2024-06-23T06:15:02.408290+00:00
+
+ ## devmio - Software Know-How
+ - [https://devm.io](https://devm.io)
+ - date_published: 2023-10-25T19:41:26.103460+00:00
+
+ ## DEVMARKS
+ - [https://devmarks.io](https://devmarks.io)
+ - date_published: 2024-05-06T21:17:09.845482+00:00
+
+ ## DevOpsCon | The world of DevOps conferences, Camps and more
+ - [https://devopscon.io](https://devopscon.io)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## DevOps For Developers – Learn the mindset and skills needed to land high paying, in-demand DevOps jobs
  - [https://devopsfordevelopers.io](https://devopsfordevelopers.io)
  - date_published: 2024-06-23T12:57:06.045366+00:00
@@ -2385,7 +2485,7 @@
  ## Favoree - Discover quality channels from YouTube
  - [https://favoree.io](https://favoree.io)
  - date_published: 2023-10-25T19:42:22.471809+00:00
- - tags: ['page rank', 'youtube']
+ - tags: ['ranking page', 'youtube']
 
  ## FCC ID Search and Redirection
  - [https://fcc.io](https://fcc.io)
@@ -3928,105 +4028,4 @@
  ## Contact Us | YoYo Account
  - [https://contact.gamemaker.io](https://contact.gamemaker.io)
  - date_published: 2024-04-28T03:13:52.778081+00:00
-
- ## GameMaker Community
- - [https://forum.gamemaker.io](https://forum.gamemaker.io)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Make 2D Games With GameMaker | Free Video Game Maker
- - [https://gamemaker.io](https://gamemaker.io)
- - date_published: 2023-11-21T15:29:41.097407+00:00
- - tags: ['video game engine']
-
- ## Cierpliwości...
- - [https://help.gamemaker.io](https://help.gamemaker.io)
- - date_published: 2024-04-28T03:14:07.219684+00:00
-
- ## GameMaker Account
- - [https://id.gamemaker.io](https://id.gamemaker.io)
- - date_published: 2024-04-28T03:13:51.262323+00:00
-
- ## GameMaker Manual
- - [https://manual.gamemaker.io](https://manual.gamemaker.io)
- - date_published: 2024-04-28T03:14:10.551989+00:00
-
- ## GameMaker: Marketplace
- - [https://marketplace.gamemaker.io](https://marketplace.gamemaker.io)
- - date_published: 2024-04-28T03:14:02.118494+00:00
-
- ## GameMaker Release Notes
- - [https://releases.gamemaker.io](https://releases.gamemaker.io)
- - date_published: 2024-04-28T03:13:40.513791+00:00
-
- ## Gamesight
- - [https://console.gamesight.io](https://console.gamesight.io)
- - date_published: 2024-05-06T17:42:26.764084+00:00
-
- ## Contact Us
- - [https://contact-us-form.gameswift.io](https://contact-us-form.gameswift.io)
- - date_published: 2024-09-25T11:30:57.768856+00:00
-
- ## Join the GameSwift Discord Server!
- - [https://discord.gameswift.io](https://discord.gameswift.io)
- - date_published: 2024-09-25T01:14:56+00:00
-
- ## Overview | GameSwift Docs
- - [https://docs.gameswift.io](https://docs.gameswift.io)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## GameSwift
- - [https://gameswift.io](https://gameswift.io)
- - date_published: 2024-06-13T11:05:02+00:00
-
- ## Contact Us
- - [https://incubation-form.gameswift.io](https://incubation-form.gameswift.io)
- - date_published: 2024-09-25T11:29:37.762878+00:00
-
- ## Download Launcher | GameSwift
- - [https://launcher.gameswift.io](https://launcher.gameswift.io)
- - date_published: 2024-09-25T11:29:26.000353+00:00
-
- ## Home | GameSwift
- - [https://platform.gameswift.io](https://platform.gameswift.io)
- - date_published: 2024-09-25T11:30:55.184326+00:00
-
- ## Contact Us
- - [https://platform-launcher-form.gameswift.io](https://platform-launcher-form.gameswift.io)
- - date_published: 2024-09-25T11:29:25.335158+00:00
-
- ## GameSwift Services Status
- - [https://status.gameswift.io](https://status.gameswift.io)
- - date_published: 2024-09-25T11:30:43.639577+00:00
-
- ## GameSwift Chain Testnet blockchain explorer - View GameSwift Chain Testnet stats | Blockscout
- - [https://testnet.gameswift.io](https://testnet.gameswift.io)
- - date_published: 2024-09-25T11:30:46.824649+00:00
-
- ## GameSwift SDK | GameSwift SDK
- - [https://unity-sdk.gameswift.io](https://unity-sdk.gameswift.io)
- - date_published: 2024-09-25T11:30:48.778445+00:00
-
- ## GameSwift Unreal SDK: Overview
- - [https://unreal-sdk.gameswift.io](https://unreal-sdk.gameswift.io)
- - date_published: 2024-09-25T11:30:54.200661+00:00
-
- ## Contact Us
- - [https://venture-form.gameswift.io](https://venture-form.gameswift.io)
- - date_published: 2024-09-25T11:29:33.888487+00:00
-
- ## Dashboard
- - [https://dashboard.gamoshi.io](https://dashboard.gamoshi.io)
- - date_published: 2024-06-13T08:27:06+00:00
-
- ## Paul Ganssle
- - [https://blog.ganssle.io](https://blog.ganssle.io)
- - date_published: 2023-10-25T19:43:02.935158+00:00
-
- ## Software Developer
- - [https://ganssle.io](https://ganssle.io)
- - date_published: 2024-04-28T03:14:15.923217+00:00
-
- ## Log in | Gantry
- - [https://app.gantry.io](https://app.gantry.io)
- - date_published: 2024-04-28T03:14:25.475466+00:00
 

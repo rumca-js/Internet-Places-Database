@@ -1,3 +1,99 @@
+ ## University of Kentucky - University of Kentucky :: directions
+ - [https://maps.uky.edu](https://maps.uky.edu)
+ - date_published: 2023-10-11T05:58:20+00:00
+
+ ## Home | Martin School of Public Policy and Administration
+ - [https://martin.uky.edu](https://martin.uky.edu)
+ - date_published: 2024-06-16T22:21:43.704819+00:00
+
+ ## MCLLC | University of Kentucky College of Arts & Sciences
+ - [https://mcl.as.uky.edu](https://mcl.as.uky.edu)
+ - date_published: 2024-07-18T21:24:44+00:00
+
+ ## University of Kentucky College of Medicine | University of Kentucky College of Medicine
+ - [https://medicine.uky.edu](https://medicine.uky.edu)
+ - date_published: 2024-06-16T19:26:16+00:00
+
+ ## Home / EMS
+ - [https://meetatbigblue.uky.edu](https://meetatbigblue.uky.edu)
+ - date_published: 2024-07-02T02:56:08.362446+00:00
+
+ ## SAP Netweaver Portal
+ - [https://myuk.uky.edu](https://myuk.uky.edu)
+ - date_published: 2024-05-07T21:23:02.127030+00:00
+
+ ## Home | College News
+ - [https://news.ca.uky.edu](https://news.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:26.480355+00:00
+
+ ## Home | Center for Next Generational Leadership
+ - [https://nextgen.uky.edu](https://nextgen.uky.edu)
+ - date_published: 2024-10-14T23:29:38.457536+00:00
+
+ ## Notable Kentucky African Americans Database
+ - [https://nkaa.uky.edu](https://nkaa.uky.edu)
+ - date_published: 2024-10-14T23:38:16.444742+00:00
+
+ ## Home | College of Nursing
+ - [https://nursing.uky.edu](https://nursing.uky.edu)
+ - date_published: 2024-10-14T23:07:03.359246+00:00
+
+ ## Home | University of Kentucky College of Arts & Sciences
+ - [https://online.as.uky.edu](https://online.as.uky.edu)
+ - date_published: 2024-07-01T20:10:13+00:00
+
+ ## UK Online | University of Kentucky
+ - [https://online.uky.edu](https://online.uky.edu)
+ - date_published: 2024-06-16T22:22:05.187310+00:00
+
+ ## Home | Orientation
+ - [https://orientation.uky.edu](https://orientation.uky.edu)
+ - date_published: 2024-07-02T03:09:58.005221+00:00
+
+ ## Home | Patterson School of Diplomacy and International Commerce
+ - [https://pattersonschool.uky.edu](https://pattersonschool.uky.edu)
+ - date_published: 2024-10-14T23:07:05.491519+00:00
+
+ ## Homepage | UK College of Pharmacy
+ - [https://pharmacy.uky.edu](https://pharmacy.uky.edu)
+ - date_published: 2024-06-16T22:21:21.392317+00:00
+
+ ## Home | University of Kentucky Police Department
+ - [https://police.uky.edu](https://police.uky.edu)
+ - date_published: 2024-07-02T03:05:52.592373+00:00
+
+ ## Office of the President | Office of the President
+ - [https://pres.uky.edu](https://pres.uky.edu)
+ - date_published: 2024-06-16T22:21:26.981908+00:00
+
+ ## Home | Office of The Provost
+ - [https://provost.uky.edu](https://provost.uky.edu)
+ - date_published: 2024-06-16T22:21:23.232339+00:00
+
+ ## Robinson Center
+ - [http://rcars.ca.uky.edu](http://rcars.ca.uky.edu)
+ - date_published: 2024-07-02T03:08:54+00:00
+
+ ## Home | Office of the University Registrar
+ - [https://registrar.uky.edu](https://registrar.uky.edu)
+ - date_published: 2024-06-16T22:20:52.636123+00:00
+
+ ## Home | University Regulations
+ - [https://regs.uky.edu](https://regs.uky.edu)
+ - date_published: 2024-10-14T23:38:52.095914+00:00
+
+ ## Research |
+ - [https://research.ca.uky.edu](https://research.ca.uky.edu)
+ - date_published: 2024-05-07T21:23:15.884052+00:00
+
+ ## Home | University of Kentucky Research
+ - [https://research.uky.edu](https://research.uky.edu)
+ - date_published: 2024-03-07T18:28:27.352122+00:00
+
+ ## Page Redirection
+ - [https://ris.uky.edu](https://ris.uky.edu)
+ - date_published: 2024-02-22T21:31:16+00:00
+
  ## Home | Robinson Forest
  - [http://robinson-forest.ca.uky.edu](http://robinson-forest.ca.uky.edu)
  - date_published: 2024-07-02T03:08:57.773302+00:00
@@ -3909,100 +4005,4 @@ Center for Information Technology Integration
  ## Study Abroad
  - [https://studyabroad.unc.edu](https://studyabroad.unc.edu)
  - date_published: 2024-07-02T04:20:33.854816+00:00
-
- ## Summer School
- - [https://summer.unc.edu](https://summer.unc.edu)
- - date_published: 2024-07-02T04:26:22.733784+00:00
-
- ## The Well - The University of North Carolina at Chapel Hill
- - [https://thewell.unc.edu](https://thewell.unc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## NC TraCS  Institute
- - [https://tracs.unc.edu](https://tracs.unc.edu)
- - date_published: 2024-07-01T02:54:14+00:00
-
- ## The University of North Carolina at Chapel Hill
- - [https://unc.edu](https://unc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - UNC News Archives
- - [https://uncnewsarchive.unc.edu](https://uncnewsarchive.unc.edu)
- - date_published: 2024-07-02T04:31:59.319868+00:00
-
- ## Home - UNC News
- - [https://uncnews.unc.edu](https://uncnews.unc.edu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Undergraduate Education
- - [https://undergrad-ed.unc.edu](https://undergrad-ed.unc.edu)
- - date_published: 2024-07-02T04:20:28.374581+00:00
-
- ## UNC Chapel Hill University Library Classic Catalog
- - [https://webcat.lib.unc.edu](https://webcat.lib.unc.edu)
- - date_published: 2024-07-02T04:22:27.521485+00:00
-
- ## Home – The Writing Center • University of North Carolina at Chapel Hill
- - [https://writingcenter.unc.edu](https://writingcenter.unc.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Biostatistics  - UNC Gillings School of Global Public Health
- - [http://www.bios.unc.edu](http://www.bios.unc.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## UNC Kenan-Flagler Business School
- - [https://www.kenan-flagler.unc.edu](https://www.kenan-flagler.unc.edu)
- - date_published: 2024-10-14T19:31:18.313335+00:00
-
- ## Library Homepage
- - [http://www.lib.unc.edu](http://www.lib.unc.edu)
- - date_published: 2024-07-02T04:25:49.339857+00:00
-
- ## Home - Sheps Center
- - [https://www.shepscenter.unc.edu](https://www.shepscenter.unc.edu)
- - date_published: 2023-10-25T19:03:16.486451+00:00
-
- ## UNC School of Government
- - [https://www.sog.unc.edu](https://www.sog.unc.edu)
- - date_published: 2024-07-02T01:08:26+00:00
-
- ## UNC Gillings School of Global Public Health
- - [http://www.sph.unc.edu](http://www.sph.unc.edu)
- - date_published: 2024-07-02T04:24:25.112358+00:00
-
- ## HOME | CSLS, Inc.
- - [https://www.uncstudentlegal.unc.edu](https://www.uncstudentlegal.unc.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Department of Computer Science - Computer Science
- - [https://wwwx.cs.unc.edu](https://wwwx.cs.unc.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## UNC Asheville - Where It All Starts - UNC Asheville
- - [https://www.unca.edu](https://www.unca.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Campus Accessibility
- - [https://accessibility.uncc.edu](https://accessibility.uncc.edu)
- - date_published: 2024-06-21T22:56:25.863262+00:00
-
- ## UNC Charlotte Admissions - Undergraduate Admissions
- - [https://admissions.uncc.edu](https://admissions.uncc.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Division of University Advancement
- - [https://advancement.uncc.edu](https://advancement.uncc.edu)
- - date_published: 2024-06-21T22:57:04.697206+00:00
-
- ## Academic Advising
- - [https://advising.uncc.edu](https://advising.uncc.edu)
- - date_published: 2024-06-21T22:56:50.141702+00:00
-
- ## Auxiliary Services - Auxiliary Services
- - [https://aux.uncc.edu](https://aux.uncc.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Events Calendar
- - [https://campusevents.uncc.edu](https://campusevents.uncc.edu)
- - date_published: 2024-06-21T00:00:00+00:00
 

@@ -1,3 +1,103 @@
+ ## Chef Product Download
+ - [https://forms.chef.io](https://forms.chef.io)
+ - date_published: 2023-11-22T09:25:30+00:00
+
+ ## LearnChef: Tutorials | Chef
+ - [https://learn.chef.io](https://learn.chef.io)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Chef Software Downloads | Automation, DevOps, Security, DevSecOps | Chef
+ - [https://packages.chef.io](https://packages.chef.io)
+ - date_published: 2024-10-10T12:23:27+00:00
+
+ ## Chef
+ - [https://secure.chef.io](https://secure.chef.io)
+ - date_published: 2024-10-14T08:30:35.408925+00:00
+
+ ## Welcome - The resource for Chef cookbooks - Chef Supermarket
+ - [https://supermarket.chef.io](https://supermarket.chef.io)
+ - date_published: 2024-09-05T19:01:32.465276+00:00
+
+ ## Home
+ - [https://chenwu.io](https://chenwu.io)
+ - date_published: 2024-06-20T03:02:11+00:00
+
+ ## Chequity - Earn Gift Cards & Crypto
+ - [https://chequity.io](https://chequity.io)
+ - date_published: 2024-09-14T10:25:22.255667+00:00
+
+ ## chexs
+ - [https://chexs.io](https://chexs.io)
+ - date_published: 2023-07-16T19:26:33+00:00
+
+ ## chezmoi - chezmoi
+ - [https://chezmoi.io](https://chezmoi.io)
+ - date_published: 2024-05-08T10:51:22.997156+00:00
+
+ ## Chiffre.io
+ - [https://chiffre.io](https://chiffre.io)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Chilipepper
+ - [https://chilipepper.io](https://chilipepper.io)
+ - date_published: 2024-06-26T22:06:25.132693+00:00
+
+ ## Bharat ka Super Entertainment App | Chingari.io
+ - [https://chingari.io](https://chingari.io)
+ - date_published: 2024-09-25T11:24:42.057482+00:00
+
+ ## Chintai - Home
+ - [https://chintai.io](https://chintai.io)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## ChirpStack open-source LoRaWAN Network Server
+ - [https://www.chirpstack.io](https://www.chirpstack.io)
+ - date_published: 2024-05-08T07:54:41+00:00
+
+ ## Chiyo: Web3 Product Analytics & CRM
+ - [http://www.chiyo.io](http://www.chiyo.io)
+ - date_published: 2024-04-11T09:27:41+00:00
+
+ ## Chkk Kubernetes Availability Platform
+ - [https://www.chkk.io](https://www.chkk.io)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Chooky Records
+ - [https://chookyrecords.io](https://chookyrecords.io)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## chopcast services | Done-for-you LinkedIn personal branding as a service using short form videos
+ - [https://chopcast.io](https://chopcast.io)
+ - date_published: 2024-10-25T23:15:39+00:00
+
+ ## Choria
+ - [https://choria.io](https://choria.io)
+ - date_published: 2024-05-09T08:43:45.798922+00:00
+
+ ## ChrisBerry.io
+ - [https://chrisberry.io](https://chrisberry.io)
+ - date_published: 2024-05-11T10:19:15.493052+00:00
+
+ ## Chris Jones | chrisjones.io
+ - [https://chrisjones.io](https://chrisjones.io)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Chris Said · Chris Said
+ - [https://chris-said.io](https://chris-said.io)
+ - date_published: 2024-10-14T23:05:26+00:00
+
+ ## Christian Ek
+ - [https://christianek.io](https://christianek.io)
+ - date_published: 2024-04-20T06:50:36+00:00
+
+ ## Cierpliwości...
+ - [https://chrome.io](https://chrome.io)
+ - date_published: 2024-06-23T05:56:55.986992+00:00
+
+ ## ChronosHub Journal Guide
+ - [https://journalfinder.chronoshub.io](https://journalfinder.chronoshub.io)
+ - date_published: 2024-08-18T14:44:01.372140+00:00
+
  ## Chronos NFT
  - [https://chronosnft.io](https://chronosnft.io)
  - date_published: 2024-09-25T09:55:10.088305+00:00
@@ -3914,104 +4014,4 @@
  ## Design Gurus - One-Stop Portal For Tech Interviews
  - [https://designgurus.io](https://designgurus.io)
  - date_published: 2024-04-29T07:35:15.561358+00:00
-
- ## DesignSparks
- - [https://designsparks.io](https://designsparks.io)
- - date_published: 2024-06-19T19:36:45.849007+00:00
-
- ## Design Vault: Design Inspiration
- - [https://designvault.io](https://designvault.io)
- - date_published: 2024-05-06T13:56:40.205734+00:00
-
- ## DeSpace Protocol
- - [https://despace.io](https://despace.io)
- - date_published: 2022-11-05T23:38:22+00:00
-
- ## DeSpread | A Web3 Market Strategy Consulting Firm
- - [https://despread.io](https://despread.io)
- - date_published: 2024-09-10T09:45:42.638770+00:00
-
- ## Agence Growth Hacking & Stratégie Web, Paris • DEUX.IO
- - [https://deux.io](https://deux.io)
- - date_published: 2024-07-08T11:13:23.382236+00:00
-
- ## devcraft.io
- - [https://devcraft.io](https://devcraft.io)
- - date_published: 2022-04-04T00:00:00+00:00
-
- ## Dev Different
- - [https://www.devdifferent.io](https://www.devdifferent.io)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## DevDocs
- - [https://devdocs.io](https://devdocs.io)
- - date_published: 2024-01-12T19:52:26.129273+00:00
-
- ## Aria · Personal, Portfolio, Blog Template
- - [https://aria.devdojo.io](https://aria.devdojo.io)
- - date_published: 2023-10-11T19:41:52+00:00
-
- ## Blog · Home
- - [https://blog.devdojo.io](https://blog.devdojo.io)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## Boxed Template
- - [https://boxed.devdojo.io](https://boxed.devdojo.io)
- - date_published: 2023-10-11T19:45:08+00:00
-
- ## C64 Template
- - [https://c64.devdojo.io](https://c64.devdojo.io)
- - date_published: 2023-10-11T19:42:29+00:00
-
- ## Retro-frame Template
- - [https://retroframe.devdojo.io](https://retroframe.devdojo.io)
- - date_published: 2023-10-08T11:53:15+00:00
-
- ## Static Starter Template
- - [https://starter.devdojo.io](https://starter.devdojo.io)
- - date_published: 2023-09-27T14:27:06+00:00
-
- ## Stone · Premium template
- - [https://stone.devdojo.io](https://stone.devdojo.io)
- - date_published: 2023-10-11T19:45:42+00:00
-
- ## Windy City DevFest 2023
- - [https://windycity.devfest.io](https://windycity.devfest.io)
- - date_published: 2024-08-10T21:34:19+00:00
-
- ## Dev Genius
- - [https://blog.devgenius.io](https://blog.devgenius.io)
- - date_published: 2023-10-25T19:41:22.720361+00:00
-
- ## DevGenius’s Newsletter | Substack
- - [https://newsletter.devgenius.io](https://newsletter.devgenius.io)
- - date_published: 2024-04-28T03:06:57.161027+00:00
-
- ## Devhints — TL;DR for developer documentation
- - [https://assets.devhints.io](https://assets.devhints.io)
- - date_published: 2024-07-08T15:13:52.375796+00:00
-
- ## Devhints — TL;DR for developer documentation
- - [https://devhints.io](https://devhints.io)
- - date_published: 2024-05-08T11:46:08.153411+00:00
-
- ## Device Security - DeviceSecurity.io
- - [https://www.devicesecurity.io](https://www.devicesecurity.io)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## DevLifts | Refactor Your Body
- - [http://devlifts.io](http://devlifts.io)
- - date_published: 2024-06-23T06:15:02.408290+00:00
-
- ## devmio - Software Know-How
- - [https://devm.io](https://devm.io)
- - date_published: 2023-10-25T19:41:26.103460+00:00
-
- ## DEVMARKS
- - [https://devmarks.io](https://devmarks.io)
- - date_published: 2024-05-06T21:17:09.845482+00:00
-
- ## DevOpsCon | The world of DevOps conferences, Camps and more
- - [https://devopscon.io](https://devopscon.io)
- - date_published: 2024-04-26T00:00:00+00:00
 

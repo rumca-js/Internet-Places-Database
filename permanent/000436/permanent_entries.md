@@ -1,3 +1,147 @@
+ ## Home | University of Cape Town
+ - [http://www.humedu.uct.ac.za](http://www.humedu.uct.ac.za)
+ - date_published: 2024-07-17T03:53:04+00:00
+
+ ## ICTS | University of Cape Town
+ - [http://www.icts.uct.ac.za](http://www.icts.uct.ac.za)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Welcome to Marketing Studies | University of Cape Town
+ - [http://www.marketingstudies.uct.ac.za](http://www.marketingstudies.uct.ac.za)
+ - date_published: 2024-07-17T04:10:21+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.mecheng.uct.ac.za](http://www.mecheng.uct.ac.za)
+ - date_published: 2024-07-17T03:58:55+00:00
+
+ ## Welcome to the Section of Organisational Psychology | University of Cape Town
+ - [http://www.organisationalpsychology.uct.ac.za](http://www.organisationalpsychology.uct.ac.za)
+ - date_published: 2024-07-17T04:07:04+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.pcucommerce.uct.ac.za](http://www.pcucommerce.uct.ac.za)
+ - date_published: 2024-07-17T04:10:24+00:00
+
+ ## Home - Our Academic Program | University of Cape Town
+ - [http://www.radiology.uct.ac.za](http://www.radiology.uct.ac.za)
+ - date_published: 2024-07-17T03:52:15+00:00
+
+ ## Welcome to RC&I | University of Cape Town
+ - [http://www.rci.uct.ac.za](http://www.rci.uct.ac.za)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.researchsupport.uct.ac.za](http://www.researchsupport.uct.ac.za)
+ - date_published: 2024-07-17T03:53:09+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.research.uct.ac.za](http://www.research.uct.ac.za)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home | School of Information Technology
+ - [http://www.sit.uct.ac.za](http://www.sit.uct.ac.za)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home | UCT Libraries
+ - [http://www.specialcollections.uct.ac.za](http://www.specialcollections.uct.ac.za)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.sss.uct.ac.za](http://www.sss.uct.ac.za)
+ - date_published: 2024-07-17T04:10:08+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.staff.uct.ac.za](http://www.staff.uct.ac.za)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Stay and Connect
+ - [http://www.stayandconnect.uct.ac.za](http://www.stayandconnect.uct.ac.za)
+ - date_published: 2024-07-17T04:09:59+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.students.uct.ac.za](http://www.students.uct.ac.za)
+ - date_published: 2024-07-17T03:51:36+00:00
+
+ ## University of Cape Town research repository - Browse
+ - [https://zivahub.uct.ac.za](https://zivahub.uct.ac.za)
+ - date_published: 2024-06-15T21:23:35.508545+00:00
+
+ ## University of the Free State
+ - [https://www.ufs.ac.za](https://www.ufs.ac.za)
+ - date_published: 2024-10-20T04:43:58.226430+00:00
+
+ ## UJ the University of Johannesburg Gauteng South Africa
+ - [https://www.uj.ac.za](https://www.uj.ac.za)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Finding Solutions for Africa - University of Limpopo
+ - [http://www.ul.ac.za](http://www.ul.ac.za)
+ - date_published: 2024-10-29T16:01:35+00:00
+
+ ## University of South Africa
+ - [https://www.unisa.ac.za](https://www.unisa.ac.za)
+ - date_published: 2024-10-20T04:41:21.277454+00:00
+
+ ## UP | University of Pretoria
+ - [http://www.up.ac.za](http://www.up.ac.za)
+ - date_published: 2024-07-22T07:09:58+00:00
+
+ ## Loading Development Manager
+ - [https://devman.wits.ac.za](https://devman.wits.ac.za)
+ - date_published: 2018-04-20T18:14:57+00:00
+
+ ## The Wits Shop – Shop online for Wits University Branded Merchandise, Gifts and Accessories.
+ - [https://shop.wits.ac.za](https://shop.wits.ac.za)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Wits Centenary
+ - [https://wits100.wits.ac.za](https://wits100.wits.ac.za)
+ - date_published: 2024-05-02T13:55:57.893226+00:00
+
+ ## Home - Wits University
+ - [https://wits.ac.za](https://wits.ac.za)
+ - date_published: 2024-10-22T20:50:53.897044+00:00
+
+ ## 3M Science. Applied to Life. | 3M South Africa
+ - [https://www.3m.co.za](https://www.3m.co.za)
+ - date_published: 2024-08-06T10:41:07.961471+00:00
+
+ ## 4aKid - Baby & Toddler Shop, Toy Shop, South Africa
+ - [https://4akid.co.za](https://4akid.co.za)
+ - date_published: 2024-06-21T10:53:26.900623+00:00
+
+ ## adidas Official Website | adidas South Africa
+ - [https://www.adidas.co.za](https://www.adidas.co.za)
+ - date_published: 2024-07-14T12:13:33.652463+00:00
+
+ ## African Pilot magazine - now Africa's most popular aviation publication
+ - [http://www.africanpilot.co.za](http://www.africanpilot.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Lexicography | African Association for Lexicography
+ - [https://www.afrilex.co.za](https://www.afrilex.co.za)
+ - date_published: 2024-07-02T09:44:47.187503+00:00
+
+ ## Agronetto South Africa – an online marketplace for farm equipment and spare parts
+ - [https://agronetto.co.za](https://agronetto.co.za)
+ - date_published: 2024-08-11T15:40:46.688595+00:00
+
+ ## Airbnb | Vacation rentals, cabins, beach houses, & more
+ - [https://airbnb.co.za](https://airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UAirbnb | Iindawo eziqeshisayo zeholide, izindlu zamaplanga, izindlu ezingaselwandle, nokungakumbi
+ - [https://xh.airbnb.co.za](https://xh.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Izindawo eziqashisayo zamaholide, izindlu ezakhiwe ngamapulangwe, izindlu ezingasebhishi, nokunye
+ - [https://zu.airbnb.co.za](https://zu.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbus | Pioneering sustainable aerospace
+ - [http://www.airbushelicopters.co.za](http://www.airbushelicopters.co.za)
+ - date_published: 2021-06-11T00:00:00+00:00
+
  ## Advance Data and Mobile Financial Services
  - [https://www.airvantage.co.za](https://www.airvantage.co.za)
  - date_published: 2024-08-27T00:00:00+00:00
@@ -1970,4 +2114,8 @@
  ## The Zimbabwe Sphere
  - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
  - date_published: 2024-01-09T03:49:05.321457+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.zw](https://www2.zoetis.co.zw)
+ - date_published: 2024-06-27T09:52:47+00:00
 

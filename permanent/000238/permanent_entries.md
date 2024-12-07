@@ -1,3 +1,113 @@
+ ## Coreteks
+ - [https://www.youtube.com/channel/UCX_t3BvnQtS5IHzto_y7tbw](https://www.youtube.com/channel/UCX_t3BvnQtS5IHzto_y7tbw)
+ - date_published: 2024-11-25T21:41:34+00:00
+ - tags: ['tech news']
+
+ ## CppCon
+ - [https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
+ - date_published: 2024-11-25T21:42:03+00:00
+ - tags: ['cpp', 'c++']
+
+ ## cyriak
+ - [https://www.youtube.com/channel/UC9Ntx-EF3LzKY1nQ5rTUP2g](https://www.youtube.com/channel/UC9Ntx-EF3LzKY1nQ5rTUP2g)
+ - date_published: 2024-11-25T21:42:28+00:00
+ - tags: ['animation', 'art']
+
+ ## Daniel Greene
+ - [https://www.youtube.com/channel/UCw--xPGVVxYzRsWyV1nFqgg](https://www.youtube.com/channel/UCw--xPGVVxYzRsWyV1nFqgg)
+ - date_published: 2024-11-25T21:42:48+00:00
+ - tags: ['book news', 'books', 'personal']
+
+ ## DistroTube
+ - [https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
+ - date_published: 2024-11-25T21:43:10+00:00
+ - tags: ['tech news', 'linux']
+
+ ## Drew Gooden
+ - [https://www.youtube.com/channel/UCTSRIY3GLFYIpkR2QwyeklA](https://www.youtube.com/channel/UCTSRIY3GLFYIpkR2QwyeklA)
+ - date_published: 2024-11-25T21:43:29+00:00
+ - tags: ['youtuber']
+
+ ## emzdanowicz
+ - [https://www.youtube.com/channel/UCCDGVMGoT8ql8JQLJt715jA](https://www.youtube.com/channel/UCCDGVMGoT8ql8JQLJt715jA)
+ - date_published: 2024-11-25T21:44:11+00:00
+ - tags: ['video game reviews', 'video game news']
+
+ ## EonsOfBattle
+ - [https://www.youtube.com/channel/UCDNHPNeWScAC8h8IxtEBtkQ](https://www.youtube.com/channel/UCDNHPNeWScAC8h8IxtEBtkQ)
+ - date_published: 2024-11-25T21:44:31+00:00
+ - tags: ['tabletop games', 'warhammer']
+
+ ## ETA PRIME
+ - [https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
+ - date_published: 2024-11-25T21:44:48+00:00
+ - tags: ['single board computers']
+
+ ## Felix Colgrave
+ - [https://www.youtube.com/channel/UCO7fujFV_MuxTM0TuZrnE6Q](https://www.youtube.com/channel/UCO7fujFV_MuxTM0TuZrnE6Q)
+ - date_published: 2024-11-25T21:45:09+00:00
+ - tags: ['art']
+
+ ## Filmento
+ - [https://www.youtube.com/channel/UCG_nvdTLdijiAAuPKxtvBjA](https://www.youtube.com/channel/UCG_nvdTLdijiAAuPKxtvBjA)
+ - date_published: 2024-11-25T21:45:27+00:00
+ - tags: ['movie analysis', 'moview reviews', 'movies']
+
+ ## Flashgitz
+ - [https://www.youtube.com/channel/UCNnKprAG-MWLsk-GsbsC2BA](https://www.youtube.com/channel/UCNnKprAG-MWLsk-GsbsC2BA)
+ - date_published: 2024-11-25T21:45:43+00:00
+ - tags: ['entertainment', 'comedy']
+
+ ## Folding Ideas
+ - [https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ)
+ - date_published: 2024-11-25T21:46:03+00:00
+ - tags: ['entertainment']
+
+ ## ForrestKnight
+ - [https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
+ - date_published: 2024-11-25T21:46:39+00:00
+ - tags: ['programmer', 'programming']
+
+ ## The Friday Checkout
+ - [https://www.youtube.com/channel/UCRG_N2uO405WO4P3Ruef9NA](https://www.youtube.com/channel/UCRG_N2uO405WO4P3Ruef9NA)
+ - date_published: 2024-11-25T21:46:56+00:00
+ - tags: ['tech news']
+
+ ## FRONTLINE PBS | Official
+ - [https://www.youtube.com/channel/UC3ScyryU9Oy9Wse3a8OAmYQ](https://www.youtube.com/channel/UC3ScyryU9Oy9Wse3a8OAmYQ)
+ - date_published: 2024-11-25T21:49:26+00:00
+ - tags: ['politics', 'documentaries']
+
+ ## G.F. Darwin
+ - [https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw](https://www.youtube.com/channel/UCkPjHTuNd_ycm__29dXM3Nw)
+ - date_published: 2024-11-25T21:49:47+00:00
+ - tags: ['entertainment', 'comedy']
+
+ ## GameLinked
+ - [https://www.youtube.com/channel/UCHDxYLv8iovIbhrfl16CNyg](https://www.youtube.com/channel/UCHDxYLv8iovIbhrfl16CNyg)
+ - date_published: 2024-11-25T21:51:04+00:00
+ - tags: ['video game news']
+
+ ## gameranx
+ - [https://www.youtube.com/channel/UCNvzD7Z-g64bPXxGzaQaa4g](https://www.youtube.com/channel/UCNvzD7Z-g64bPXxGzaQaa4g)
+ - date_published: 2024-11-25T21:51:30+00:00
+ - tags: ['video game news']
+
+ ## Gamers Nexus
+ - [https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA)
+ - date_published: 2024-11-25T21:51:51+00:00
+ - tags: ['tech news']
+
+ ## GameSpot
+ - [https://www.youtube.com/channel/UCbu2SsF-Or3Rsn3NxqODImw](https://www.youtube.com/channel/UCbu2SsF-Or3Rsn3NxqODImw)
+ - date_published: 2024-11-25T21:52:14+00:00
+ - tags: ['video game news']
+
+ ## GamingBolt
+ - [https://www.youtube.com/channel/UCXa_bzvv7Oo1glaW9FldDhQ](https://www.youtube.com/channel/UCXa_bzvv7Oo1glaW9FldDhQ)
+ - date_published: 2024-11-25T21:52:43+00:00
+ - tags: ['video game news']
+
  ## Glass Reflection
  - [https://www.youtube.com/channel/UCmEbe0XH51CI09gm_9Fcn8Q](https://www.youtube.com/channel/UCmEbe0XH51CI09gm_9Fcn8Q)
  - date_published: 2024-11-25T21:53:02+00:00
@@ -4083,92 +4193,4 @@
  ## Brighteon.com
  - [https://realvideo.zendesk.com](https://realvideo.zendesk.com)
  - date_published: 2024-07-03T18:44:56.167141+00:00
-
- ## Rebellion Games Support
- - [https://rebeldev.zendesk.com](https://rebeldev.zendesk.com)
- - date_published: 2024-07-21T02:58:58.812981+00:00
-
- ## Rec Room Help Center
- - [https://recroom.zendesk.com](https://recroom.zendesk.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Recurly
- - [https://recurly.zendesk.com](https://recurly.zendesk.com)
- - date_published: 2024-09-18T10:16:22.087602+00:00
-
- ## Cierpliwości...
- - [https://reddit.zendesk.com](https://reddit.zendesk.com)
- - date_published: 2024-04-28T04:09:40.296244+00:00
-
- ## Support
- - [https://redgatesupport.zendesk.com](https://redgatesupport.zendesk.com)
- - date_published: 2014-05-02T00:00:00+00:00
-
- ## Culture Archives - Zendesk
- - [https://relate.zendesk.com](https://relate.zendesk.com)
- - date_published: 2022-12-16T11:49:18+00:00
-
- ## Render
- - [https://render.zendesk.com](https://render.zendesk.com)
- - date_published: 2024-08-08T16:56:02.906977+00:00
-
- ## Replit
- - [https://replit9268.zendesk.com](https://replit9268.zendesk.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Responsible Man
- - [https://responsibleman.zendesk.com](https://responsibleman.zendesk.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Revolut
- - [https://revolut.zendesk.com](https://revolut.zendesk.com)
- - date_published: 2024-08-07T03:23:25.545626+00:00
-
- ## Rev.com Help Center
- - [https://rev.zendesk.com](https://rev.zendesk.com)
- - date_published: 2024-08-07T03:50:51.259199+00:00
-
- ## Red Gate CORE Services
- - [https://rgcoreservices.zendesk.com](https://rgcoreservices.zendesk.com)
- - date_published: 2024-06-29T11:19:41.877546+00:00
-
- ## Rhino Store
- - [https://rhinostoresupport.zendesk.com](https://rhinostoresupport.zendesk.com)
- - date_published: 2024-08-07T11:39:28.021157+00:00
-
- ## Riot Games Support
- - [https://riotgames-landing.zendesk.com](https://riotgames-landing.zendesk.com)
- - date_published: 2024-08-07T02:38:56.365213+00:00
-
- ## League of Legends Support
- - [https://riotgames.zendesk.com](https://riotgames.zendesk.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Roblox Support
- - [https://roblox.zendesk.com](https://roblox.zendesk.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Rocketbook Help Center
- - [https://rocketbookhelp.zendesk.com](https://rocketbookhelp.zendesk.com)
- - date_published: 2018-03-26T00:00:00+00:00
-
- ## Roll20 Help Center
- - [https://roll20.zendesk.com](https://roll20.zendesk.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Sailthru
- - [https://sailthru.zendesk.com](https://sailthru.zendesk.com)
- - date_published: 2024-10-14T11:53:44.124090+00:00
-
- ## Podrška - Sancta Domenica
- - [https://sanctadomenica.zendesk.com](https://sanctadomenica.zendesk.com)
- - date_published: 2024-09-16T02:16:42.887229+00:00
-
- ## Scribd Help Center
- - [https://scribd.zendesk.com](https://scribd.zendesk.com)
- - date_published: 2024-08-06T10:11:40.706410+00:00
-
- ## Self Publishing Formula
- - [https://selfpublishingformula.zendesk.com](https://selfpublishingformula.zendesk.com)
- - date_published: 2024-02-22T00:00:00+00:00
 

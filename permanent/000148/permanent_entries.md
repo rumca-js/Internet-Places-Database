@@ -1,3 +1,84 @@
+ ## Microsoft Copilot: Your everyday AI companion
+ - [https://copilot.microsoft.com](https://copilot.microsoft.com)
+ - date_published: 2024-04-29T02:49:49.964886+00:00
+ - tags: ['artificial intelligence']
+
+ ## Microsoft Copilot Studio
+ - [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
+ - date_published: 2024-07-02T23:45:56.856874+00:00
+
+ ## Free templates for social media, documents & designs | Microsoft Create
+ - [https://create.microsoft.com](https://create.microsoft.com)
+ - date_published: 2024-10-11T20:00:08.963148+00:00
+
+ ## Microsoft Customer Stories
+ - [https://customers.microsoft.com](https://customers.microsoft.com)
+ - date_published: 2024-05-08T07:27:26.402375+00:00
+
+ ## Sign in to your account
+ - [https://customervoice.microsoft.com](https://customervoice.microsoft.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Microsoft Designer - Stunning designs in a flash
+ - [https://designer.microsoft.com](https://designer.microsoft.com)
+ - date_published: 2023-10-25T16:03:31.208056+00:00
+
+ ## DevBlogs - Microsoft Developer Blogs
+ - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
+ - date_published: 2023-10-25T10:14:03.592606+00:00
+
+ ## Microsoft Developer Community
+ - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
+ - date_published: 2024-05-08T07:27:28.574938+00:00
+
+ ## Microsoft Developer
+ - [https://developer.microsoft.com](https://developer.microsoft.com)
+ - date_published: 2024-01-15T13:49:47.590358+00:00
+
+ ## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
+ - [https://devicepartner.microsoft.com](https://devicepartner.microsoft.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Microsoft Loop - Think, plan and create together
+ - [https://dev.loop.microsoft.com](https://dev.loop.microsoft.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Microsoft developer portal
+ - [https://devportal.microsoft.com](https://devportal.microsoft.com)
+ - date_published: 2024-06-15T15:56:02.532132+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://docs.microsoft.com](https://docs.microsoft.com)
+ - date_published: 2023-10-25T11:30:47.045143+00:00
+
+ ## .NET | Build. Test. Deploy.
+ - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
+ - date_published: 2024-04-30T02:31:00.357576+00:00
+
+ ## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
+ - [https://download.microsoft.com](https://download.microsoft.com)
+ - date_published: 2024-05-01T07:31:51.863543+00:00
+
+ ## Business Applications | Microsoft Dynamics 365
+ - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
+ - date_published: 2024-04-28T02:27:06.759348+00:00
+
+ ## Microsoft Power Platform Partner Hub
+ - [https://dynamicspartners.transform.microsoft.com](https://dynamicspartners.transform.microsoft.com)
+ - date_published: 2024-08-07T22:13:16.659300+00:00
+
+ ## Microsoft Education Blog
+ - [https://educationblog.microsoft.com](https://educationblog.microsoft.com)
+ - date_published: 2024-05-31T01:54:07.750114+00:00
+
+ ## Educator Center Overview - Microsoft Learn Educator Center
+ - [https://education.microsoft.com](https://education.microsoft.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Microsoft Entra admin center
+ - [https://entra.microsoft.com](https://entra.microsoft.com)
+ - date_published: 2024-06-29T04:16:00+00:00
+
  ## Further your goals with Microsoft events
  - [https://events.microsoft.com](https://events.microsoft.com)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -3975,85 +4056,4 @@
  ## Miraculous Ladybug: Official Site for Episodes, Characters & News
  - [http://www.miraculousladybug.com](http://www.miraculousladybug.com)
  - date_published: 2024-10-23T10:18:14.045553+00:00
-
- ## Login - Miradore
- - [https://online.miradore.com](https://online.miradore.com)
- - date_published: 2024-06-20T11:45:51.941849+00:00
-
- ## Miradore MDM Software | Smarter Mobile Device Management
- - [https://www.miradore.com](https://www.miradore.com)
- - date_published: 2018-10-25T03:13:06+00:00
-
- ## 미래에셋증권 - 글로벌 투자 파트너
- - [https://securities.miraeasset.com](https://securities.miraeasset.com)
- - date_published: 2022-08-19T06:50:41+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.miragefloors.com](https://www.miragefloors.com)
- - date_published: 2024-05-02T09:52:45.143857+00:00
-
- ## Mirage JS • An API mocking library for frontend developers
- - [https://miragejs.com](https://miragejs.com)
- - date_published: 2024-05-06T13:16:17.006863+00:00
-
- ## Australia's 24/7 live news & media portal
- - [https://cdn1.miragenews.com](https://cdn1.miragenews.com)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Australia's 24/7 live news & media portal
- - [https://www.miragenews.com](https://www.miragenews.com)
- - date_published: 2024-06-17T02:34:35+00:00
-
- ## みらい翻訳｜AI自動翻訳サービス・機械翻訳
- - [https://miraitranslate.com](https://miraitranslate.com)
- - date_published: 2024-06-19T20:54:56.850945+00:00
-
- ## みらい翻訳Plus｜仕事で使うあなたへ。日本発AI翻訳サービス
- - [https://plus.miraitranslate.com](https://plus.miraitranslate.com)
- - date_published: 2024-09-24T11:20:38+00:00
-
- ## mirak-athletics.com
- - [https://mirak-athletics.com](https://mirak-athletics.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Mirakl | Online Marketplace and Dropship Solution
- - [https://www.mirakl.com](https://www.mirakl.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - Miramar Air Show
- - [http://www.miramarairshow.com](http://www.miramarairshow.com)
- - date_published: 2024-06-29T17:33:39+00:00
-
- ## Miranda Fricker
- - [https://www.mirandafricker.com](https://www.mirandafricker.com)
- - date_published: 2024-09-18T08:05:15.101030+00:00
-
- ## Kubernetes Training & Certification | Mirantis
- - [https://training.mirantis.com](https://training.mirantis.com)
- - date_published: 2024-12-02T13:39:19+00:00
-
- ## Enterprise On-Prem Cloud & Kubernetes Support | Mirantis
- - [https://www.mirantis.com](https://www.mirantis.com)
- - date_published: 2024-06-22T06:11:37.001818+00:00
-
- ## The Art of Miraval
- - [https://www.miraval.com](https://www.miraval.com)
- - date_published: 2024-07-03T06:33:48.142427+00:00
-
- ## Miraval Studios | More than a recording studio in France
- - [https://miraval-studios.com](https://miraval-studios.com)
- - date_published: 2024-11-08T10:02:46.470788+00:00
-
- ## miray van der Bend
- - [https://mirayvdbend.com](https://mirayvdbend.com)
- - date_published: 2024-08-19T15:26:55.332688+00:00
-
- ## mIRC: Internet Relay Chat client
- - [https://mirc.com](https://mirc.com)
- - date_published: 2023-10-25T08:36:59.140579+00:00
- - tags: ['social communicator']
-
- ## Mirco Azzopardi
- - [https://mircoazzopardi.com](https://mircoazzopardi.com)
- - date_published: 2024-08-19T15:26:49.366157+00:00
 

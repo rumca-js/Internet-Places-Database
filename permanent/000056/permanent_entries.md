@@ -1,3 +1,43 @@
+ ## A R T H i s t o r i e s
+ - [https://arthistories.blogspot.com](https://arthistories.blogspot.com)
+ - date_published: 2024-03-14T16:00:44+00:00
+
+ ## The Art History Flashbook: Free, Open, Created in a Flash
+ - [http://arthistoryflashbook.blogspot.com](http://arthistoryflashbook.blogspot.com)
+ - date_published: 2024-03-13T11:18:47+00:00
+
+ ## Art Hostage
+ - [https://arthostage.blogspot.com](https://arthostage.blogspot.com)
+ - date_published: 2024-06-04T17:25:35+00:00
+
+ ## Artificer's Workshop Visions
+ - [http://artificer-gallery.blogspot.com](http://artificer-gallery.blogspot.com)
+ - date_published: 2024-08-21T18:41:31+00:00
+
+ ## Artistic licence or why i trust no one
+ - [https://artisticlicenseorwhyitrustnoone.blogspot.com](https://artisticlicenseorwhyitrustnoone.blogspot.com)
+ - date_published: 2024-09-05T14:51:41+00:00
+
+ ## MIKH's
+ - [https://artmikh.blogspot.com](https://artmikh.blogspot.com)
+ - date_published: 2024-07-13T09:34:23+00:00
+
+ ## Dave Au's Stories and Doodles
+ - [http://artofau.blogspot.com](http://artofau.blogspot.com)
+ - date_published: 2024-03-13T05:10:29+00:00
+
+ ## Art of Darian
+ - [http://artofdarian.blogspot.com](http://artofdarian.blogspot.com)
+ - date_published: 2024-08-28T04:37:43+00:00
+
+ ## Art of Elias
+ - [http://artofelias.blogspot.com](http://artofelias.blogspot.com)
+ - date_published: 2024-09-09T06:26:46+00:00
+
+ ## The Art of Fiction
+ - [http://artoffiction.blogspot.com](http://artoffiction.blogspot.com)
+ - date_published: 2024-10-23T11:29:57+00:00
+
  ## ART OR IDIOCY?
  - [http://artoridiocy.blogspot.com](http://artoridiocy.blogspot.com)
  - date_published: 2024-03-23T18:26:09+00:00
@@ -3975,44 +4015,4 @@
  ## cianty's Tabletop Wargames Blog
  - [http://cianty-tabletop.blogspot.com](http://cianty-tabletop.blogspot.com)
  - date_published: 2024-03-19T21:14:58+00:00
-
- ## Cicero's Songs
- - [http://cicerossongs.blogspot.com](http://cicerossongs.blogspot.com)
- - date_published: 2024-04-09T00:47:12+00:00
-
- ## Blogger
- - [http://cigarettesmokingblog.blogspot.com](http://cigarettesmokingblog.blogspot.com)
- - date_published: 2024-06-27T08:39:27.163038+00:00
-
- ## Cincinnati Blog
- - [http://cincinnati.blogspot.com](http://cincinnati.blogspot.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Cincinnati Locavore
- - [http://cincinnatilocavore.blogspot.com](http://cincinnatilocavore.blogspot.com)
- - date_published: 2024-08-15T09:07:39+00:00
-
- ## Cinta Sapto Condro (iscab)
- - [http://cintascondro.blogspot.com](http://cintascondro.blogspot.com)
- - date_published: 2023-11-16T14:17:43+00:00
-
- ## Spunk On A Stick's Tips
- - [http://circleoffriendsbooks.blogspot.com](http://circleoffriendsbooks.blogspot.com)
- - date_published: 2024-10-17T23:03:25.277727+00:00
-
- ## Circling the Lion's Den
- - [http://circlingthelionsden.blogspot.com](http://circlingthelionsden.blogspot.com)
- - date_published: 2024-10-21T17:38:15.948037+00:00
-
- ## Sixth Circuit Blog
- - [https://circuit6.blogspot.com](https://circuit6.blogspot.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Círculo de Lovecraft
- - [http://circulodelovecraft.blogspot.com](http://circulodelovecraft.blogspot.com)
- - date_published: 2024-06-27T21:54:02+00:00
-
- ## Cities Matter
- - [http://cities-matter.blogspot.com](http://cities-matter.blogspot.com)
- - date_published: 2024-10-29T08:26:39+00:00
 

@@ -1,3 +1,99 @@
+ ## UC Irvine - Faculty Profile System
+ - [http://faculty.uci.edu](http://faculty.uci.edu)
+ - date_published: 2024-07-01T22:50:04.781971+00:00
+
+ ## faultline – A publication from the MFA Programs in Writing at UC Irvine
+ - [https://faultline.sites.uci.edu](https://faultline.sites.uci.edu)
+ - date_published: 2024-07-07T05:11:26+00:00
+
+ ## UCI Institute for Future Health
+ - [https://futurehealth.ics.uci.edu](https://futurehealth.ics.uci.edu)
+ - date_published: 2024-05-07T20:53:22.787974+00:00
+
+ ## UCI Institute for Future Health
+ - [https://futurehealth.uci.edu](https://futurehealth.uci.edu)
+ - date_published: 2024-05-07T20:53:02.542030+00:00
+
+ ## give.uci.edu – Coming Soon
+ - [http://give.uci.edu](http://give.uci.edu)
+ - date_published: 2024-07-01T22:50:18.285035+00:00
+
+ ## GPS-STEM UCI
+ - [https://gps-stem.grad.uci.edu](https://gps-stem.grad.uci.edu)
+ - date_published: 2024-07-09T22:34:31.751870+00:00
+
+ ## Graduate Student Services |
+ - [https://grads.soceco.uci.edu](https://grads.soceco.uci.edu)
+ - date_published: 2024-07-09T19:48:20+00:00
+
+ ## Engineering Graduate and Professional Studies
+ - [https://graduate.eng.uci.edu](https://graduate.eng.uci.edu)
+ - date_published: 2024-07-09T22:17:24+00:00
+
+ ## Home Page - UCI Graduate Division
+ - [http://grad.uci.edu](http://grad.uci.edu)
+ - date_published: 2024-10-27T11:42:27.225478+00:00
+
+ ## Hall of Fame – Engineering and ICS at UCI
+ - [https://halloffame.tech.uci.edu](https://halloffame.tech.uci.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## UCI Health Affairs
+ - [https://healthaffairs.uci.edu](https://healthaffairs.uci.edu)
+ - date_published: 2024-07-09T21:47:36+00:00
+
+ ## Home | Engineering Computing Support
+ - [https://helpdesk.eng.uci.edu](https://helpdesk.eng.uci.edu)
+ - date_published: 2024-07-09T22:35:42.157316+00:00
+
+ ## UCI Division of Undergraduate Education
+ - [http://home.due.uci.edu](http://home.due.uci.edu)
+ - date_published: 2024-07-09T22:23:22+00:00
+
+ ## Campuswide Honors Collegium | CHC at UCI
+ - [http://honors.uci.edu](http://honors.uci.edu)
+ - date_published: 2024-07-01T22:50:36.448983+00:00
+
+ ## UCI Student Housing | Creating Places to Thrive and Connect
+ - [http://housing.uci.edu](http://housing.uci.edu)
+ - date_published: 2024-07-01T22:36:48+00:00
+
+ ## HPI Research Center in Machine Learning and Data Science at UCI
+ - [https://hpi.ics.uci.edu](https://hpi.ics.uci.edu)
+ - date_published: 2024-05-07T20:54:01.513372+00:00
+
+ ## UCI Human Resources | Home
+ - [https://hr.uci.edu](https://hr.uci.edu)
+ - date_published: 2024-07-01T22:40:55.732539+00:00
+
+ ## UCI School of Humanities
+ - [https://humanities.uci.edu](https://humanities.uci.edu)
+ - date_published: 2024-05-09T06:50:30.346817+00:00
+
+ ## Home
+ - [https://ics.uci.edu](https://ics.uci.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UCI Institute for Genomics & Bioinformatics – IGB at UC Irvine
+ - [https://igb.uci.edu](https://igb.uci.edu)
+ - date_published: 2024-05-07T20:54:04.188674+00:00
+
+ ## Home // Illuminations The Chancellor's Arts & Culture Initiative // UCI
+ - [http://illuminations.uci.edu](http://illuminations.uci.edu)
+ - date_published: 2024-07-01T22:49:04.549283+00:00
+
+ ## Home - UCI Langson IMCA
+ - [https://imca.uci.edu](https://imca.uci.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## UC Irvine Dunlop School Office of Diversity, Equity and Inclusion – Dedicated to making a more inclusive and equitable future in the Biological Sciences.
+ - [https://inclusion.bio.uci.edu](https://inclusion.bio.uci.edu)
+ - date_published: 2024-07-09T22:34:07.739935+00:00
+
+ ## Informatics @ the University of California, Irvine
+ - [https://informatics.uci.edu](https://informatics.uci.edu)
+ - date_published: 2024-05-07T20:53:13.149689+00:00
+
  ## UCI Beall Applied Innovation – Innovation and Entrepreneurship in Orange County, CA
  - [http://innovation.uci.edu](http://innovation.uci.edu)
  - date_published: 2024-07-01T22:49:07.696567+00:00
@@ -3906,100 +4002,4 @@
  ## Welcome to Franklin Antonio Hall | Franklin Antonio Hall
  - [http://fah.ucsd.edu](http://fah.ucsd.edu)
  - date_published: 2024-07-02T01:39:31.208975+00:00
-
- ## Financial Aid & Scholarships
- - [https://fas.ucsd.edu](https://fas.ucsd.edu)
- - date_published: 2024-06-13T17:27:40+00:00
-
- ## https://fmeyer.ucsd.edu
- - [https://fmeyer.ucsd.edu](https://fmeyer.ucsd.edu)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## UC San Diego Foundation
- - [https://foundation.ucsd.edu](https://foundation.ucsd.edu)
- - date_published: 2024-05-24T23:30:49+00:00
-
- ## Founders' Pledge
- - [https://founderspledge.ucsd.edu](https://founderspledge.ucsd.edu)
- - date_published: 2024-04-11T16:52:25+00:00
-
- ## Free Expression
- - [https://freespeech.ucsd.edu](https://freespeech.ucsd.edu)
- - date_published: 2024-01-10T23:37:14+00:00
-
- ## Fulbright
- - [https://fulbright.ucsd.edu](https://fulbright.ucsd.edu)
- - date_published: 2024-08-30T21:55:55+00:00
-
- ## Global Environmental Leadership and Sustainability
- - [http://gels.ucsd.edu](http://gels.ucsd.edu)
- - date_published: 2024-04-12T22:46:14+00:00
-
- ## Center for Student Involvement
- - [https://getinvolved.ucsd.edu](https://getinvolved.ucsd.edu)
- - date_published: 2024-09-13T18:15:38+00:00
-
- ## Giving
- - [https://giving.ucsd.edu](https://giving.ucsd.edu)
- - date_published: 2024-06-05T18:05:18+00:00
-
- ## Global Initiatives
- - [http://global.ucsd.edu](http://global.ucsd.edu)
- - date_published: 2024-08-29T19:13:15+00:00
-
- ## Index of /
- - [https://goto.ucsd.edu](https://goto.ucsd.edu)
- - date_published: 2023-10-25T19:01:14.176997+00:00
-
- ## Custom Domain by Bitly
- - [https://go.ucsd.edu](https://go.ucsd.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## GPS News
- - [https://gpsnews.ucsd.edu](https://gpsnews.ucsd.edu)
- - date_published: 2024-07-02T01:34:41.539503+00:00
-
- ## School of Global Policy and Strategy
- - [https://gps.ucsd.edu](https://gps.ucsd.edu)
- - date_published: 2024-05-07T21:01:58.215434+00:00
-
- ## Grad Ed & Postdoc Affrs
- - [https://grad.ucsd.edu](https://grad.ucsd.edu)
- - date_published: 2024-05-07T21:07:25.397224+00:00
-
- ## HACKING 4 THE OCEANS
- - [http://h4oceans.ucsd.edu](http://h4oceans.ucsd.edu)
- - date_published: 2024-07-20T15:33:53.372579+00:00
-
- ## DCog-HCI Lab @ UCSD - Home
- - [http://hci.ucsd.edu](http://hci.ucsd.edu)
- - date_published: 2022-10-06T17:13:11+00:00
-
- ## Halıcıoğlu Data Science Institute – UC San Diego
- - [http://hdsi.ucsd.edu](http://hdsi.ucsd.edu)
- - date_published: 2024-06-22T09:59:11.093002+00:00
-
- ## UC San Diego Health | San Diego Hospital, Healthcare
- - [https://health.ucsd.edu](https://health.ucsd.edu)
- - date_published: 2024-06-16T21:57:30.228377+00:00
-
- ## Herbgrind analyzes binaries to find inaccurate floating point expressions
- - [https://herbgrind.ucsd.edu](https://herbgrind.ucsd.edu)
- - date_published: 2018-09-10T20:46:06+00:00
-
- ## SINGLE SIGN-ON
- - [https://hireonline.ucsd.edu](https://hireonline.ucsd.edu)
- - date_published: 2024-09-13T18:36:40.113551+00:00
-
- ## UC San Diego Homecoming
- - [https://homecoming.ucsd.edu](https://homecoming.ucsd.edu)
- - date_published: 2024-09-26T18:28:08+00:00
-
- ## Herbert Wertheim School of Public Health and Human Longevity Science – Academic Year Annual Report
- - [https://hwsphreport.ucsd.edu](https://hwsphreport.ucsd.edu)
- - date_published: 2024-07-02T01:37:31.882171+00:00
-
- ## UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science
- - [https://hwsph.ucsd.edu](https://hwsph.ucsd.edu)
- - date_published: 2024-05-02T00:07:09+00:00
 

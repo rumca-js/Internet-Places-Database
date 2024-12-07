@@ -1,3 +1,104 @@
+ ## GameMaker Community
+ - [https://forum.gamemaker.io](https://forum.gamemaker.io)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Make 2D Games With GameMaker | Free Video Game Maker
+ - [https://gamemaker.io](https://gamemaker.io)
+ - date_published: 2023-11-21T15:29:41.097407+00:00
+ - tags: ['video game engine']
+
+ ## Cierpliwości...
+ - [https://help.gamemaker.io](https://help.gamemaker.io)
+ - date_published: 2024-04-28T03:14:07.219684+00:00
+
+ ## GameMaker Account
+ - [https://id.gamemaker.io](https://id.gamemaker.io)
+ - date_published: 2024-04-28T03:13:51.262323+00:00
+
+ ## GameMaker Manual
+ - [https://manual.gamemaker.io](https://manual.gamemaker.io)
+ - date_published: 2024-04-28T03:14:10.551989+00:00
+
+ ## GameMaker: Marketplace
+ - [https://marketplace.gamemaker.io](https://marketplace.gamemaker.io)
+ - date_published: 2024-04-28T03:14:02.118494+00:00
+
+ ## GameMaker Release Notes
+ - [https://releases.gamemaker.io](https://releases.gamemaker.io)
+ - date_published: 2024-04-28T03:13:40.513791+00:00
+
+ ## Gamesight
+ - [https://console.gamesight.io](https://console.gamesight.io)
+ - date_published: 2024-05-06T17:42:26.764084+00:00
+
+ ## Contact Us
+ - [https://contact-us-form.gameswift.io](https://contact-us-form.gameswift.io)
+ - date_published: 2024-09-25T11:30:57.768856+00:00
+
+ ## Join the GameSwift Discord Server!
+ - [https://discord.gameswift.io](https://discord.gameswift.io)
+ - date_published: 2024-09-25T01:14:56+00:00
+
+ ## Overview | GameSwift Docs
+ - [https://docs.gameswift.io](https://docs.gameswift.io)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## GameSwift
+ - [https://gameswift.io](https://gameswift.io)
+ - date_published: 2024-06-13T11:05:02+00:00
+
+ ## Contact Us
+ - [https://incubation-form.gameswift.io](https://incubation-form.gameswift.io)
+ - date_published: 2024-09-25T11:29:37.762878+00:00
+
+ ## Download Launcher | GameSwift
+ - [https://launcher.gameswift.io](https://launcher.gameswift.io)
+ - date_published: 2024-09-25T11:29:26.000353+00:00
+
+ ## Home | GameSwift
+ - [https://platform.gameswift.io](https://platform.gameswift.io)
+ - date_published: 2024-09-25T11:30:55.184326+00:00
+
+ ## Contact Us
+ - [https://platform-launcher-form.gameswift.io](https://platform-launcher-form.gameswift.io)
+ - date_published: 2024-09-25T11:29:25.335158+00:00
+
+ ## GameSwift Services Status
+ - [https://status.gameswift.io](https://status.gameswift.io)
+ - date_published: 2024-09-25T11:30:43.639577+00:00
+
+ ## GameSwift Chain Testnet blockchain explorer - View GameSwift Chain Testnet stats | Blockscout
+ - [https://testnet.gameswift.io](https://testnet.gameswift.io)
+ - date_published: 2024-09-25T11:30:46.824649+00:00
+
+ ## GameSwift SDK | GameSwift SDK
+ - [https://unity-sdk.gameswift.io](https://unity-sdk.gameswift.io)
+ - date_published: 2024-09-25T11:30:48.778445+00:00
+
+ ## GameSwift Unreal SDK: Overview
+ - [https://unreal-sdk.gameswift.io](https://unreal-sdk.gameswift.io)
+ - date_published: 2024-09-25T11:30:54.200661+00:00
+
+ ## Contact Us
+ - [https://venture-form.gameswift.io](https://venture-form.gameswift.io)
+ - date_published: 2024-09-25T11:29:33.888487+00:00
+
+ ## Dashboard
+ - [https://dashboard.gamoshi.io](https://dashboard.gamoshi.io)
+ - date_published: 2024-06-13T08:27:06+00:00
+
+ ## Paul Ganssle
+ - [https://blog.ganssle.io](https://blog.ganssle.io)
+ - date_published: 2023-10-25T19:43:02.935158+00:00
+
+ ## Software Developer
+ - [https://ganssle.io](https://ganssle.io)
+ - date_published: 2024-04-28T03:14:15.923217+00:00
+
+ ## Log in | Gantry
+ - [https://app.gantry.io](https://app.gantry.io)
+ - date_published: 2024-04-28T03:14:25.475466+00:00
+
  ## Gantry | Build AI your users trust
  - [https://gantry.io](https://gantry.io)
  - date_published: 2023-10-25T19:43:06.618863+00:00
@@ -3915,106 +4016,4 @@
  ## ‎
  - [https://alhassy.github.io](https://alhassy.github.io)
  - date_published: 2024-03-24T00:00:00+00:00
-
- ## Alia’s artefacts
- - [https://alia-traces.github.io](https://alia-traces.github.io)
- - date_published: 2022-11-09T15:58:00+00:00
-
- ## Alicia Jarvis
- - [https://aliciajarvis.github.io](https://aliciajarvis.github.io)
- - date_published: 2024-01-09T12:05:57+00:00
-
- ## Ali Ghazal
- - [https://alighazal.github.io](https://alighazal.github.io)
- - date_published: 2021-05-31T08:51:12+00:00
-
- ## Simplifying Model-based RL: Learning Representations, Latent-space Models and Policies with One Objective
- - [https://alignedlatentmodels.github.io](https://alignedlatentmodels.github.io)
- - date_published: 2022-11-21T13:49:15+00:00
-
- ## Alireza’s Homepage
- - [https://alii-ganjj.github.io](https://alii-ganjj.github.io)
- - date_published: 2024-03-29T20:44:43+00:00
-
- ## Andrei Alikimovich — UX designer based in Seattle
- - [https://alikimovich.github.io](https://alikimovich.github.io)
- - date_published: 2023-09-28T08:40:48+00:00
-
- ## Crunchy Development
- - [https://alisoftware.github.io](https://alisoftware.github.io)
- - date_published: 2021-08-19T00:00:00+00:00
-
- ## Professional Blog
- - [https://alister.github.io](https://alister.github.io)
- - date_published: 2023-10-04T19:39:15+00:00
-
- ## R.E.L.I.V.E.
- - [https://aliveteam.github.io](https://aliveteam.github.io)
- - date_published: 2024-05-09T09:08:58.732596+00:00
- - tags: ["abe's oddysee", 'video game port']
-
- ## Aljaž Božič
- - [https://aljazbozic.github.io](https://aljazbozic.github.io)
- - date_published: 2024-07-24T05:51:21.029220+00:00
-
- ## Tutorials
- - [https://allanblanchard.github.io](https://allanblanchard.github.io)
- - date_published: 2019-11-25T08:04:11+00:00
-
- ## Coding Diet
- - [https://allanderek.github.io](https://allanderek.github.io)
- - date_published: 2017-04-21T00:00:00+00:00
-
- - [https://allendowney.github.io](https://allendowney.github.io)
- - date_published: 2024-02-16T05:20:49.161617+00:00
-
- ## Just a Blog
- - [https://allentiak.github.io](https://allentiak.github.io)
- - date_published: 2021-08-23T16:07:21+00:00
-
- ## Allen Z. Ren - Princeton
- - [https://allenzren.github.io](https://allenzren.github.io)
- - date_published: 2024-04-26T16:06:24+00:00
-
- ## Allan’s blog
- - [https://alnvdl.github.io](https://alnvdl.github.io)
- - date_published: 2024-05-05T19:34:17+00:00
- - tags: ['personal']
-
- ## Every Man a Debtor
- - [https://alok.github.io](https://alok.github.io)
- - date_published: 2023-10-25T19:43:59.118164+00:00
-
- ## Alper Canberk
- - [https://alpercanberk.github.io](https://alpercanberk.github.io)
- - date_published: 2024-06-16T13:26:25+00:00
-
- ## Vega-Altair: Declarative Visualization in Python — Vega-Altair 5.2.0 documentation
- - [https://altair-viz.github.io](https://altair-viz.github.io)
- - date_published: 2024-02-25T21:17:59.011743+00:00
-
- ## Romes' Musings
- - [https://alt-romes.github.io](https://alt-romes.github.io)
- - date_published: 2023-10-25T19:43:59.879415+00:00
- - tags: ['personal']
-
- ## Xian Liu's Homepage
- - [https://alvinliu0.github.io](https://alvinliu0.github.io)
- - date_published: 2024-07-01T18:15:31+00:00
-
- ## ALVR 2024
- - [https://alvr-workshop.github.io](https://alvr-workshop.github.io)
- - date_published: 2024-06-03T20:57:47+00:00
-
- ## Alexandr A. Kalinin
- - [https://alxndrkalinin.github.io](https://alxndrkalinin.github.io)
- - date_published: 2022-11-19T00:00:00+00:00
-
- ## Aly Lidayan
- - [https://alyd.github.io](https://alyd.github.io)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Alex Makelov
- - [https://amakelov.github.io](https://amakelov.github.io)
- - date_published: 2024-07-04T12:33:58+00:00
 

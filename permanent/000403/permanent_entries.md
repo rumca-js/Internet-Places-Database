@@ -1,3 +1,132 @@
+ ## The World of Nanophysics: - Computational modeling of 3D semiconductors and Van der Waals 2D structures.
+ - [http://www.nanophysics.pl](http://www.nanophysics.pl)
+ - date_published: 2024-08-06T22:40:35.756982+00:00
+
+ ## Na obrzeżach
+ - [https://www.naobrzezach.pl](https://www.naobrzezach.pl)
+ - date_published: 2024-06-29T21:18:29+00:00
+
+ ## forum.napiprojekt.pl :: Indeks
+ - [https://forum.napiprojekt.pl](https://forum.napiprojekt.pl)
+ - date_published: 2024-05-26T16:30:57.315153+00:00
+
+ ## NapiProjekt - program pobierający napisy do filmów.
+ - [https://napiprojekt.pl](https://napiprojekt.pl)
+ - date_published: 2024-05-26T16:31:03.427984+00:00
+ - tags: ['video subtitles', 'subtitles']
+
+ ## Forum Napisy24.pl - Wykaz forów
+ - [https://forum.napisy24.pl](https://forum.napisy24.pl)
+ - date_published: 2024-07-19T19:59:36.371169+00:00
+
+ ## Napisy24.pl - wprost od tłumaczy
+ - [https://napisy24.pl](https://napisy24.pl)
+ - date_published: 2024-02-23T16:46:35+00:00
+ - tags: ['subtitles']
+
+ ## Cyberprofilaktyka NASK
+ - [https://akademia.nask.pl](https://akademia.nask.pl)
+ - date_published: 2024-05-26T17:01:17.480310+00:00
+
+ ## NASK BIP
+ - [https://bip.nask.pl](https://bip.nask.pl)
+ - date_published: 2024-05-26T17:00:55.922475+00:00
+
+ ## Cyberpolicy NASK - Strona główna
+ - [https://cyberpolicy.nask.pl](https://cyberpolicy.nask.pl)
+ - date_published: 2024-05-26T17:01:13.661384+00:00
+
+ ## Edukacyjna Sieć Antysmogowa
+ - [https://esa.nask.pl](https://esa.nask.pl)
+ - date_published: 2024-05-26T17:01:10.942153+00:00
+
+ ## GetResponse MAX | Online Marketing Platform
+ - [https://mailing.nask.pl](https://mailing.nask.pl)
+ - date_published: 2024-09-02T13:52:28.241267+00:00
+
+ ## NASK
+ - [https://nask.pl](https://nask.pl)
+ - date_published: 2024-05-09T06:21:46.528365+00:00
+ - tags: ['naukowa i akademicka sieć komputerowa', 'cybersecurity', 'organization']
+
+ ## Nasza Polska internetowy magazyn informacyjny
+ - [https://naszapolska.pl](https://naszapolska.pl)
+ - date_published: 2024-01-09T03:44:25.873154+00:00
+
+ ## Strona główna - Miejski Ośrodek Kultury
+ - [http://www.mokrabka.naszbip.pl](http://www.mokrabka.naszbip.pl)
+ - date_published: 2024-07-09T13:22:41.448527+00:00
+
+ ## Nasze Blogi | Strefa Wolnego Słowa
+ - [https://naszeblogi.pl](https://naszeblogi.pl)
+ - date_published: 2024-06-30T09:23:53+00:00
+
+ ## Cierpliwości...
+ - [https://jastrzebiezdroj.naszemiasto.pl](https://jastrzebiezdroj.naszemiasto.pl)
+ - date_published: 2024-02-24T01:43:11.947311+00:00
+
+ ## Śrem Nasze Miasto - Wiadomości, informacje i wydarzenia
+ - [https://srem.naszemiasto.pl](https://srem.naszemiasto.pl)
+ - date_published: 2024-09-13T10:18:51.233790+00:00
+
+ ## Natalia Kukulska
+ - [https://www.nataliakukulska.pl](https://www.nataliakukulska.pl)
+ - date_published: 2024-07-03T17:13:33.227442+00:00
+
+ ## Biblioteka natan.pl
+ - [http://biblioteka.natan.pl](http://biblioteka.natan.pl)
+ - date_published: 2024-09-03T19:26:00.238298+00:00
+
+ ## naTemat.pl - informacje i opinie, którymi żyją Polacy
+ - [https://m.natemat.pl](https://m.natemat.pl)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## naTemat.pl - informacje i opinie, którymi żyją Polacy
+ - [https://natemat.pl](https://natemat.pl)
+ - date_published: 2023-11-06T22:10:38.945631+00:00
+
+ ## Sklep Audio - Sklep HiFi - Warszawa - Salon Na Temat Audio
+ - [https://natemataudio.pl](https://natemataudio.pl)
+ - date_published: 2024-09-02T17:08:36.976925+00:00
+
+ ## National Geographic – przyroda, fotografia, nauka, ludzie, podróże, świat
+ - [https://national-geographic.pl](https://national-geographic.pl)
+ - date_published: 2024-02-05T19:23:30.522432+00:00
+ - tags: ['science', 'nature']
+
+ ## Burda Media Polska
+ - [https://tools.nationalgeographic.pl](https://tools.nationalgeographic.pl)
+ - date_published: 2024-07-19T20:30:25.355376+00:00
+
+ ## Nauka o klimacie | naukaoklimacie.pl
+ - [https://naukaoklimacie.pl](https://naukaoklimacie.pl)
+ - date_published: 2023-10-25T22:29:07.910756+00:00
+
+ ## Nauka w Polsce
+ - [https://naukawpolsce.pl](https://naukawpolsce.pl)
+ - date_published: 2024-05-06T16:59:31.336031+00:00
+ - tags: ['science news']
+
+ ## Domena blackdown.nazwa.pl jest utrzymywana na serwerach nazwa.pl
+ - [https://blackdown.nazwa.pl](https://blackdown.nazwa.pl)
+ - date_published: 2024-07-09T16:59:11.377822+00:00
+
+ ## Domena djk.nazwa.pl jest utrzymywana na serwerach nazwa.pl
+ - [http://djk.nazwa.pl](http://djk.nazwa.pl)
+ - date_published: 2024-06-30T06:27:15.580775+00:00
+
+ ## Strategiczna Mapa Hałasu
+ - [http://gorzow.server833955.nazwa.pl](http://gorzow.server833955.nazwa.pl)
+ - date_published: 2023-08-22T15:56:29+00:00
+
+ ## Narodowy Bank Polski - Internetowy Serwis Informacyjny | Dbamy o wartość polskiego pieniądza
+ - [http://www.nbp.pl](http://www.nbp.pl)
+ - date_published: 2024-07-17T06:05:09.176735+00:00
+
+ ## NCEZ - strona główna - Narodowe Centrum Edukacji Żywieniowej
+ - [https://ncez.pl](https://ncez.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## Strona główna | Narodowe Centrum Kultury
  - [https://www.nck.pl](https://www.nck.pl)
  - date_published: 2024-08-11T13:38:01.023017+00:00
@@ -1746,7 +1875,7 @@
  ## Pepper.pl - Najlepsze Okazje, Rabaty, Promocje i Błędy Cenowe
  - [https://pepper.pl](https://pepper.pl)
  - date_published: 2023-10-24T20:20:40.054915+00:00
- - tags: ['deals', 'promotions', 'page rank']
+ - tags: ['deals', 'promotions', 'ranking page']
 
  ## Perlbrew
  - [http://perlbrew.pl](http://perlbrew.pl)
@@ -3966,131 +4095,4 @@
  ## PwC Store
  - [https://store.pwc.pl](https://store.pwc.pl)
  - date_published: 2024-10-18T20:14:22.254345+00:00
-
- ## PwC: audyt, doradztwo podatkowe, prawne i biznesowe
- - [https://www.pwc.pl](https://www.pwc.pl)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## pwmarcz.pl
- - [https://pwmarcz.pl](https://pwmarcz.pl)
- - date_published: 2023-06-18T14:00:56+00:00
-
- ## Słownik języka polskiego PWN
- - [https://sjp.pwn.pl](https://sjp.pwn.pl)
- - date_published: 2024-11-13T14:27:01.033451+00:00
-
- ## Pół Wieku Poezji Później - fanowski film z uniwersum Wiedźmina
- - [http://www.pwppfilm.pl](http://www.pwppfilm.pl)
- - date_published: 2024-06-19T01:06:28.949401+00:00
-
- ## Pixel's home
- - [https://pxh.pl](https://pxh.pl)
- - date_published: 2024-10-27T12:22:56.973550+00:00
-
- ## Rejestracja - PYRCAMP
- - [https://bilety.pyrcamp.pl](https://bilety.pyrcamp.pl)
- - date_published: 2024-09-13T17:49:30.031379+00:00
-
- ## Pyrcamp – 3 dni innego świata na PYRCAMP!
- - [https://pyrcamp.pl](https://pyrcamp.pl)
- - date_published: 2024-06-13T16:58:24.333150+00:00
- - tags: ['pyrkon', 'hotel']
-
- ## PyrCaster MDP 2023
- - [https://pyrcaster.pl](https://pyrcaster.pl)
- - date_published: 2024-05-10T04:12:46.809990+00:00
-
- ## Cyfrowa Biblioteka Fantastyczna
- - [https://biblioteka.pyrkon.pl](https://biblioteka.pyrkon.pl)
- - date_published: 2023-05-10T13:28:35+00:00
-
- ## Strona Główna
- - [https://pyrkon.pl](https://pyrkon.pl)
- - date_published: 2023-10-29T15:10:10.114957+00:00
- - tags: ['convention', 'pyrkon', 'fantasy']
-
- ## Pyszności - Z miłości do Pyszności!
- - [https://pysznosci.pl](https://pysznosci.pl)
- - date_published: 2024-07-20T02:57:28.104333+00:00
-
- ## Pytaki® NieZwykła Gra Rodzinna - DOBRETO Wydawnictwo - Oficjalna Strona Gry PYTAKI
- - [https://pytaki.pl](https://pytaki.pl)
- - date_published: 2024-09-13T16:31:58.267886+00:00
-
- ## PZIP Polski Związek Instytucji Pożyczkowych
- - [https://pzip.pl](https://pzip.pl)
- - date_published: 2024-08-19T12:34:55.862647+00:00
-
- ## PZL-Świdnik
- - [https://www.pzlswidnik.pl](https://www.pzlswidnik.pl)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## PZU | Ubezpieczenia, emerytury i inwestycje dla Ciebie i rodziny
- - [https://www.pzu.pl](https://www.pzu.pl)
- - date_published: 2024-06-20T09:02:41.847642+00:00
- - tags: ['insurance']
-
- ## PZU Zdrowie - prywatna opieka medyczna
- - [https://www.pzuzdrowie.pl](https://www.pzuzdrowie.pl)
- - date_published: 2024-07-14T05:23:45.188457+00:00
-
- ## Q21 - salon audio-video oraz sklep internetowy Q21.pl
- - [https://www.q21.pl](https://www.q21.pl)
- - date_published: 2024-09-02T17:08:58.330512+00:00
-
- ## Lista kursów - Szkolenia Scrum Online | Platforma E-Learning QAgile
- - [https://online.qagile.pl](https://online.qagile.pl)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Szkolenia Scrum - Akredytowane Szkolenia Scrum - Kurs Scrum
- - [https://qagile.pl](https://qagile.pl)
- - date_published: 2024-05-26T18:51:37.395047+00:00
-
- ## Artificial Intelligence Development Company - QED Software
- - [https://qed.pl](https://qed.pl)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## q13 - home
- - [https://qfel13.pl](https://qfel13.pl)
- - date_published: 2022-02-06T21:20:58+00:00
-
- ## Produkcja filmów z budowy w technice timelapse - Qwor - Time Lapse Movies
- - [http://qwor.pl](http://qwor.pl)
- - date_published: 2024-08-18T17:08:27+00:00
-
- ## Home - QZ Solutions - Nowoczesne rozwiązania dla rolnictwa
- - [https://www.qzsolutions.pl](https://www.qzsolutions.pl)
- - date_published: 2024-10-14T21:43:47.749479+00:00
-
- ## Agencja Interaktywna r360 | Digital marketing
- - [https://www.r360.pl](https://www.r360.pl)
- - date_published: 2024-08-18T14:57:18.213923+00:00
-
- ## Teatr Lalek Rabcio |
- - [http://teatr.rabcio.pl](http://teatr.rabcio.pl)
- - date_published: 2024-07-09T13:22:49.332426+00:00
-
- ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
- - [https://centrum-kultury.rabka.pl](https://centrum-kultury.rabka.pl)
- - date_published: 2024-07-09T13:22:42.568610+00:00
-
- ## Start
- - [http://mok-archiwum.rabka.pl](http://mok-archiwum.rabka.pl)
- - date_published: 2024-07-09T13:22:44+00:00
-
- ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
- - [https://mok.rabka.pl](https://mok.rabka.pl)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Kino Śnieżka Rabka Zdrój
- - [https://www.kino.rabka.pl](https://www.kino.rabka.pl)
- - date_published: 2024-05-09T05:17:02.919093+00:00
-
- ## Rabka Zdrój - Miasto na 4 pory roku
- - [http://www.rabka.pl](http://www.rabka.pl)
- - date_published: 2024-07-09T13:22:45.583643+00:00
-
- ## Rabka Festival – Międzynarodowy Festiwal Literatury Dziecięcej
- - [http://www.rabkafestival.pl](http://www.rabkafestival.pl)
- - date_published: 2024-07-09T13:22:47.588598+00:00
 

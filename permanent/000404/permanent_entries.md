@@ -1,3 +1,130 @@
+ ## PwC: audyt, doradztwo podatkowe, prawne i biznesowe
+ - [https://www.pwc.pl](https://www.pwc.pl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## pwmarcz.pl
+ - [https://pwmarcz.pl](https://pwmarcz.pl)
+ - date_published: 2023-06-18T14:00:56+00:00
+
+ ## Słownik języka polskiego PWN
+ - [https://sjp.pwn.pl](https://sjp.pwn.pl)
+ - date_published: 2024-11-13T14:27:01.033451+00:00
+
+ ## Pół Wieku Poezji Później - fanowski film z uniwersum Wiedźmina
+ - [http://www.pwppfilm.pl](http://www.pwppfilm.pl)
+ - date_published: 2024-06-19T01:06:28.949401+00:00
+
+ ## Pixel's home
+ - [https://pxh.pl](https://pxh.pl)
+ - date_published: 2024-10-27T12:22:56.973550+00:00
+
+ ## Rejestracja - PYRCAMP
+ - [https://bilety.pyrcamp.pl](https://bilety.pyrcamp.pl)
+ - date_published: 2024-09-13T17:49:30.031379+00:00
+
+ ## Pyrcamp – 3 dni innego świata na PYRCAMP!
+ - [https://pyrcamp.pl](https://pyrcamp.pl)
+ - date_published: 2024-06-13T16:58:24.333150+00:00
+ - tags: ['pyrkon', 'hotel']
+
+ ## PyrCaster MDP 2023
+ - [https://pyrcaster.pl](https://pyrcaster.pl)
+ - date_published: 2024-05-10T04:12:46.809990+00:00
+
+ ## Cyfrowa Biblioteka Fantastyczna
+ - [https://biblioteka.pyrkon.pl](https://biblioteka.pyrkon.pl)
+ - date_published: 2023-05-10T13:28:35+00:00
+
+ ## Strona Główna
+ - [https://pyrkon.pl](https://pyrkon.pl)
+ - date_published: 2023-10-29T15:10:10.114957+00:00
+ - tags: ['convention', 'pyrkon', 'fantasy']
+
+ ## Pyszności - Z miłości do Pyszności!
+ - [https://pysznosci.pl](https://pysznosci.pl)
+ - date_published: 2024-07-20T02:57:28.104333+00:00
+
+ ## Pytaki® NieZwykła Gra Rodzinna - DOBRETO Wydawnictwo - Oficjalna Strona Gry PYTAKI
+ - [https://pytaki.pl](https://pytaki.pl)
+ - date_published: 2024-09-13T16:31:58.267886+00:00
+
+ ## PZIP Polski Związek Instytucji Pożyczkowych
+ - [https://pzip.pl](https://pzip.pl)
+ - date_published: 2024-08-19T12:34:55.862647+00:00
+
+ ## PZL-Świdnik
+ - [https://www.pzlswidnik.pl](https://www.pzlswidnik.pl)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## PZU | Ubezpieczenia, emerytury i inwestycje dla Ciebie i rodziny
+ - [https://www.pzu.pl](https://www.pzu.pl)
+ - date_published: 2024-06-20T09:02:41.847642+00:00
+ - tags: ['insurance']
+
+ ## PZU Zdrowie - prywatna opieka medyczna
+ - [https://www.pzuzdrowie.pl](https://www.pzuzdrowie.pl)
+ - date_published: 2024-07-14T05:23:45.188457+00:00
+
+ ## Q21 - salon audio-video oraz sklep internetowy Q21.pl
+ - [https://www.q21.pl](https://www.q21.pl)
+ - date_published: 2024-09-02T17:08:58.330512+00:00
+
+ ## Lista kursów - Szkolenia Scrum Online | Platforma E-Learning QAgile
+ - [https://online.qagile.pl](https://online.qagile.pl)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Szkolenia Scrum - Akredytowane Szkolenia Scrum - Kurs Scrum
+ - [https://qagile.pl](https://qagile.pl)
+ - date_published: 2024-05-26T18:51:37.395047+00:00
+
+ ## Artificial Intelligence Development Company - QED Software
+ - [https://qed.pl](https://qed.pl)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## q13 - home
+ - [https://qfel13.pl](https://qfel13.pl)
+ - date_published: 2022-02-06T21:20:58+00:00
+
+ ## Produkcja filmów z budowy w technice timelapse - Qwor - Time Lapse Movies
+ - [http://qwor.pl](http://qwor.pl)
+ - date_published: 2024-08-18T17:08:27+00:00
+
+ ## Home - QZ Solutions - Nowoczesne rozwiązania dla rolnictwa
+ - [https://www.qzsolutions.pl](https://www.qzsolutions.pl)
+ - date_published: 2024-10-14T21:43:47.749479+00:00
+
+ ## Agencja Interaktywna r360 | Digital marketing
+ - [https://www.r360.pl](https://www.r360.pl)
+ - date_published: 2024-08-18T14:57:18.213923+00:00
+
+ ## Teatr Lalek Rabcio |
+ - [http://teatr.rabcio.pl](http://teatr.rabcio.pl)
+ - date_published: 2024-07-09T13:22:49.332426+00:00
+
+ ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
+ - [https://centrum-kultury.rabka.pl](https://centrum-kultury.rabka.pl)
+ - date_published: 2024-07-09T13:22:42.568610+00:00
+
+ ## Start
+ - [http://mok-archiwum.rabka.pl](http://mok-archiwum.rabka.pl)
+ - date_published: 2024-07-09T13:22:44+00:00
+
+ ## Strona główna - Centrum Kultury, Sportu i Promocji w Rabce-Zdroju
+ - [https://mok.rabka.pl](https://mok.rabka.pl)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Kino Śnieżka Rabka Zdrój
+ - [https://www.kino.rabka.pl](https://www.kino.rabka.pl)
+ - date_published: 2024-05-09T05:17:02.919093+00:00
+
+ ## Rabka Zdrój - Miasto na 4 pory roku
+ - [http://www.rabka.pl](http://www.rabka.pl)
+ - date_published: 2024-07-09T13:22:45.583643+00:00
+
+ ## Rabka Festival – Międzynarodowy Festiwal Literatury Dziecięcej
+ - [http://www.rabkafestival.pl](http://www.rabkafestival.pl)
+ - date_published: 2024-07-09T13:22:47.588598+00:00
+
  ## Rachit Nigam | PhD Candidate, Cornell University
  - [https://rachit.pl](https://rachit.pl)
  - date_published: 2023-10-27T12:07:34.246036+00:00
@@ -1415,7 +1542,7 @@
  ## Tanie loty: porównaj i zarezerwuj bilety lotnicze | Skyscanner
  - [https://skyscanner.pl](https://skyscanner.pl)
  - date_published: 2024-01-02T07:34:13+00:00
- - tags: ['ticket service', 'page rank', 'flying', 'page rank']
+ - tags: ['ticket service', 'ranking page', 'flying', 'ranking page']
 
  ## Załóż Sklep Internetowy na Sky-Shop - Oprogramowanie sklepu internetowego
  - [https://sky-shop.pl](https://sky-shop.pl)
@@ -3050,6 +3177,10 @@
  - [https://tor-praca.pl](https://tor-praca.pl)
  - date_published: 2024-06-14T12:54:36+00:00
 
+ - [https://torrentleech.pl](https://torrentleech.pl)
+ - date_published: 2024-12-06T20:08:37+00:00
+ - tags: ['piracy']
+
  ## Portal kopernikański
  - [http://copernicus.torun.pl](http://copernicus.torun.pl)
  - date_published: 2024-10-29T18:19:09+00:00
@@ -3920,134 +4051,4 @@
  ## Wiadomości Ukrinform
  - [https://www.ukrinform.pl](https://www.ukrinform.pl)
  - date_published: 2024-05-02T10:44:17.268810+00:00
-
- ## Ulica Żywiołów EC1
- - [https://ulicazywiolow.pl](https://ulicazywiolow.pl)
- - date_published: 2024-06-28T19:21:36.388419+00:00
-
- ## Uliczna Dywizja - Odzież uliczna
- - [https://ulicznadywizja.pl](https://ulicznadywizja.pl)
- - date_published: 2024-05-26T22:01:17.322678+00:00
-
- ## Holab.pl Hosting vh4
- - [http://blog.ultima.pl](http://blog.ultima.pl)
- - date_published: 2021-01-05T12:48:20+00:00
-
- ## Sklep internetowy z grami - Sprzęt i gry na PC, PS3, XBOX - Ultima.pl
- - [https://ultima.pl](https://ultima.pl)
- - date_published: 2024-06-15T03:21:59.248279+00:00
-
- ## Ultimate File Manager
- - [https://ultimatefilemanager.pl](https://ultimatefilemanager.pl)
- - date_published: 2024-05-12T04:24:19.187202+00:00
-
- ## Ulubiony Kiosk - Prasa, e-kiosk, e-wydania czasopism wydawnictwa AVT
- - [https://ulubionykiosk.pl](https://ulubionykiosk.pl)
- - date_published: 2023-12-13T14:59:25.270654+00:00
- - tags: ['ebooks', 'books']
-
- ## Strona główna UMCS
- - [https://www.umcs.pl](https://www.umcs.pl)
- - date_published: 2024-09-15T23:56:19.342376+00:00
-
- ## Wydział Fizyki, Astronomii i Informatyki Stosowanej        - Uniwersytet Mikołaja Kopernika w Toruniu
- - [https://fizyka.umk.pl](https://fizyka.umk.pl)
- - date_published: 2024-12-03T21:36:36.017749+00:00
-
- ## XVII Kopernikańskie Seminarium Doktoranckie
- - [https://ksd.umk.pl](https://ksd.umk.pl)
- - date_published: 2024-05-09T05:48:36.802325+00:00
-
- ## Polska Misja Historyczna - Wydział Nauk Historycznych - Uniwersytet Mikołaja Kopernika
- - [https://pmh.umk.pl](https://pmh.umk.pl)
- - date_published: 2024-07-24T03:41:33.482649+00:00
-
- ## Województwo Wielkopolskie z siedzibą Urzędu Marszałkowskiego Województwa Wielkopolskiego w Poznaniu
- - [http://bip.umww.pl](http://bip.umww.pl)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Program Rozwoju Obszarów Wiejskich / Program Operacyjny Rybactwo i Morze – Program
- - [http://dprow.umww.pl](http://dprow.umww.pl)
- - date_published: 2024-07-13T19:04:51.157312+00:00
-
- ## Enigma. Odszyfrować zwycięstwo -
- - [https://enigma.umww.pl](https://enigma.umww.pl)
- - date_published: 2024-07-13T19:04:15.646098+00:00
-
- ## Publicznie dostępny wykaz danych o dokumentach zawierających informacje o środowisku i jego ochronie - Urząd Marszałkowski Województwa Wielkopolskiego w Poznaniu
- - [http://f7.umww.pl](http://f7.umww.pl)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Urząd Marszałkowski Województwa Wielkopolskiego w Poznaniu
- - [https://umww.pl](https://umww.pl)
- - date_published: 2024-05-11T08:18:14.759973+00:00
-
- ## Wielkopolskie Regionalne Obserwatorium Terytorialne | WROT
- - [https://wrot.umww.pl](https://wrot.umww.pl)
- - date_published: 2024-07-13T19:04:06.290004+00:00
-
- ## UNCHARTED.pl | Pierwszy Polski Portal
- - [http://www.uncharted.pl](http://www.uncharted.pl)
- - date_published: 2024-06-20T12:13:07.205454+00:00
- - tags: ['uncharted', 'video games', 'fan page']
-
- ## Strony internetowe Gliwice • tworzenie i projektowanie • Undicom
- - [http://undicom.pl](http://undicom.pl)
- - date_published: 2024-07-14T05:22:06.105808+00:00
-
- ## UNDERTONE
- - [https://undrtn.pl](https://undrtn.pl)
- - date_published: 2024-07-03T11:52:40.544869+00:00
-
- ## Unia Teatrów Polskich — Celem powstania Unii Polskich Teatrów jest ochrona praw i reprezentowanie interesów zrzeszonych w nim pracodawców wobec związków zawodowych pracowników i organów administracji publicznej.
- - [http://www.uniapolskichteatrow.pl](http://www.uniapolskichteatrow.pl)
- - date_published: 2024-06-28T19:12:52.956695+00:00
-
- ## Polska Unia Medycyny Transplantacyjnej - Strona Główna
- - [https://www.uniatransplantacyjna.pl](https://www.uniatransplantacyjna.pl)
- - date_published: 2024-12-05T07:22:35+00:00
-
- ## Strona główna
- - [https://unibep.pl](https://unibep.pl)
- - date_published: 2024-07-14T05:29:39+00:00
-
- ## UNICEF Polska – pomagamy dzieciom
- - [https://unicef.pl](https://unicef.pl)
- - date_published: 2024-07-14T05:29:53.310266+00:00
-
- ## UniCrum - Gwiezdne Imperium
- - [http://www.unicrum.pl](http://www.unicrum.pl)
- - date_published: 2024-07-10T02:05:18.487854+00:00
-
- ## Unilever Poland Homepage | Unilever
- - [https://www.unilever.pl](https://www.unilever.pl)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Strona Główna - UNIMOT S.A
- - [http://www.unimot.pl](http://www.unimot.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Kup ubezpieczenia online -15% taniej | UNIQA
- - [https://www.uniqa.pl](https://www.uniqa.pl)
- - date_published: 2024-09-02T13:35:11.275732+00:00
-
- ## Strona Główna - Poznaj Universal Music Polska
- - [https://universalmusic.pl](https://universalmusic.pl)
- - date_published: 2024-10-22T21:12:09.235393+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://ads.unreal.pl](https://ads.unreal.pl)
- - date_published: 2024-05-13T03:45:01.134884+00:00
-
- ## Brotherhood of the Eternal SoulhunTers Clan.
- - [https://best.unreal.pl](https://best.unreal.pl)
- - date_published: 2024-05-13T03:45:12.813254+00:00
-
- ## utbible - utbible by shuuk'flocutus translated by best|shiro_4
- - [https://bibliaut.unreal.pl](https://bibliaut.unreal.pl)
- - date_published: 2024-05-13T03:45:03.457401+00:00
-
- ## Welcome!
- - [https://cued.unreal.pl](https://cued.unreal.pl)
- - date_published: 2024-05-13T03:45:10.930246+00:00
 

@@ -1,3 +1,27 @@
+ ## Leaders Blog
+ - [https://www.leaders.blog](https://www.leaders.blog)
+ - date_published: 2022-03-02T19:40:28+00:00
+
+ ## About this book - Learn Haskell by building a blog generator
+ - [https://learn-haskell.blog](https://learn-haskell.blog)
+ - date_published: 2024-04-08T12:34:49+00:00
+
+ ## The Leica camera Blog
+ - [https://leica-camera.blog](https://leica-camera.blog)
+ - date_published: 2022-04-25T00:00:00+00:00
+
+ ## Lekumo ブログ | 広告ナシ・10人で書ける10個まで作れるブログサービス
+ - [https://www.lekumo.blog](https://www.lekumo.blog)
+ - date_published: 2024-07-03T20:18:36.570196+00:00
+
+ ## Comparing Notes
+ - [https://leviconrad.blog](https://leviconrad.blog)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Blog, Liberty's Corner
+ - [https://www.libertyscorner.blog](https://www.libertyscorner.blog)
+ - date_published: 2024-07-13T11:12:15.855204+00:00
+
  ## linusdata
  - [https://linusdata.blog](https://linusdata.blog)
  - date_published: 2024-06-15T16:56:52.601875+00:00
@@ -4022,28 +4046,4 @@ Educação
  ## Garnier | Skincare e coloração para todos
  - [http://www.garnier.com.br](http://www.garnier.com.br)
  - date_published: 2024-10-20T22:52:18.127182+00:00
-
- ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
- - [http://www.garotait.com.br](http://www.garotait.com.br)
- - date_published: 2023-08-16T14:58:38+00:00
-
- ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
- - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Genera - Ancestralidade, Saúde e Bem-Estar
- - [https://www.genera.com.br](https://www.genera.com.br)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
- - [https://www.getapp.com.br](https://www.getapp.com.br)
- - date_published: 2024-08-08T18:07:17.777717+00:00
-
- ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
- - [https://gettyimages.com.br](https://gettyimages.com.br)
- - date_published: 2024-10-31T20:05:40.887742+00:00
-
- ## Glassdoor Help Center
- - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
- - date_published: 2023-07-12T20:05:46+00:00
 

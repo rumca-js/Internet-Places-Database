@@ -1,3 +1,103 @@
+ ## Mike Lee US Senator for Utah
+ - [https://www.lee.senate.gov](https://www.lee.senate.gov)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## United States Senator Lindsey Graham
+ - [https://www.lgraham.senate.gov](https://www.lgraham.senate.gov)
+ - date_published: 2024-08-19T03:38:48.232743+00:00
+
+ ## Home - Senator Ben Ray Luján
+ - [http://www.lujan.senate.gov](http://www.lujan.senate.gov)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Home | U.S. Senator Joe Manchin of West Virginia
+ - [https://www.manchin.senate.gov](https://www.manchin.senate.gov)
+ - date_published: 2024-08-18T08:06:09.044920+00:00
+
+ ## Home - Senator Roger Marshall
+ - [http://www.marshall.senate.gov](http://www.marshall.senate.gov)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home - U.S. Senator Markwayne Mullin of Oklahoma
+ - [https://www.mullin.senate.gov](https://www.mullin.senate.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | U.S. Senator Lisa Murkowski of Alaska
+ - [http://www.murkowski.senate.gov](http://www.murkowski.senate.gov)
+ - date_published: 2024-08-19T03:39:45.936445+00:00
+
+ ## Home | U.S. Senator Chris Murphy of Connecticut
+ - [https://www.murphy.senate.gov](https://www.murphy.senate.gov)
+ - date_published: 2024-08-19T03:39:36.696086+00:00
+
+ ## Home - Senator Patty Murray
+ - [https://www.murray.senate.gov](https://www.murray.senate.gov)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Georgia U.S. Senator Jon Ossoff
+ - [https://www.ossoff.senate.gov](https://www.ossoff.senate.gov)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home - Senator Alex Padilla
+ - [https://www.padilla.senate.gov](https://www.padilla.senate.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [http://www.paul.senate.gov](http://www.paul.senate.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | U.S. Senator Gary Peters of Michigan
+ - [https://www.peters.senate.gov](https://www.peters.senate.gov)
+ - date_published: 2024-08-19T03:39:51.177611+00:00
+
+ ## Home - Mitt Romney
+ - [http://www.romney.senate.gov](http://www.romney.senate.gov)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Ron Johnson Senator from Wisconsin
+ - [https://www.ronjohnson.senate.gov](https://www.ronjohnson.senate.gov)
+ - date_published: 2024-09-16T19:37:22.305139+00:00
+
+ ## Home - Jacky Rosen
+ - [https://www.rosen.senate.gov](https://www.rosen.senate.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | U.S. Senator Mike Rounds of South Dakota
+ - [https://www.rounds.senate.gov](https://www.rounds.senate.gov)
+ - date_published: 2024-06-28T08:47:07.561327+00:00
+
+ ## Home » Senator Bernie Sanders
+ - [https://www.sanders.senate.gov](https://www.sanders.senate.gov)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Home | U.S. Senator Brian Schatz of Hawaii
+ - [https://www.schatz.senate.gov](https://www.schatz.senate.gov)
+ - date_published: 2024-08-18T08:06:11.643850+00:00
+
+ ## Home | U.S. Senator Chuck Schumer of New York
+ - [https://www.schumer.senate.gov](https://www.schumer.senate.gov)
+ - date_published: 2024-08-18T08:06:14.308583+00:00
+
+ ## Senator Kyrsten Sinema | U.S Senator for Arizona
+ - [https://www.sinema.senate.gov](https://www.sinema.senate.gov)
+ - date_published: 2024-08-19T03:39:56.476381+00:00
+
+ ## Home - Senator Tina Smith
+ - [https://www.smith.senate.gov](https://www.smith.senate.gov)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Home | U.S. Senator Debbie Stabenow of Michigan
+ - [https://www.stabenow.senate.gov](https://www.stabenow.senate.gov)
+ - date_published: 2024-08-18T08:06:07.708819+00:00
+
+ ## Senator Jon Tester
+ - [https://www.tester.senate.gov](https://www.tester.senate.gov)
+ - date_published: 2023-08-03T00:00:00+00:00
+
+ ## Thom Tillis, U.S. Senator for North Carolina
+ - [https://www.tillis.senate.gov](https://www.tillis.senate.gov)
+ - date_published: 2024-08-14T00:00:00+00:00
+
  ## Coach Tommy Tuberville - U.S. Senator for Alabama
  - [http://www.tuberville.senate.gov](http://www.tuberville.senate.gov)
  - date_published: 2023-08-30T00:00:00+00:00
@@ -3914,104 +4014,4 @@
  ## Find F
  - [http://findf.gr](http://findf.gr)
  - date_published: 2019-04-11T08:59:55+00:00
-
- ## FlexCar | Η ευέλικτη λύση στο leasing αυτοκινήτου
- - [https://flexcar.gr](https://flexcar.gr)
- - date_published: 2024-07-13T02:58:58.355560+00:00
-
- ## Εύρεση εισιτηρίων λεωφορείων για την Ελλάδα I FlixBus
- - [https://www.flixbus.gr](https://www.flixbus.gr)
- - date_published: 2024-06-28T10:10:39+00:00
-
- ## Detrop - Oenos
- - [https://www.foodanddrinks-expo.gr](https://www.foodanddrinks-expo.gr)
- - date_published: 2024-10-31T10:20:13.620831+00:00
-
- ## Forbesgreece.gr
- - [https://www.forbesgreece.gr](https://www.forbesgreece.gr)
- - date_published: 2024-10-29T15:15:35.416146+00:00
-
- ## H Επίσημη Ιστοσελίδα της Ford Ελλάς | Ford GR
- - [https://www.ford.gr](https://www.ford.gr)
- - date_published: 2024-06-18T15:27:20+00:00
-
- ## ICS-FORTH | Institute of Computer Science-FORTH
- - [https://ics.forth.gr](https://ics.forth.gr)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home | Foundation for Research and Technology - Hellas
- - [https://www.forth.gr](https://www.forth.gr)
- - date_published: 2024-07-20T17:52:07.060465+00:00
-
- ## Homepage
- - [https://www.franklincovey.gr](https://www.franklincovey.gr)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Inside Scientology: Η Ιστορία Χωρίς Λογοκρισία
- - [https://www.freedommag.gr](https://www.freedommag.gr)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Πρόσλαβε Freelancers & Βρες Δουλειές Freelance Διαδικτυακά
- - [https://www.freelancer.gr](https://www.freelancer.gr)
- - date_published: 2024-06-16T12:01:01.368293+00:00
-
- ## Αρχική - FRESKON
- - [https://www.freskon-expo.gr](https://www.freskon-expo.gr)
- - date_published: 2024-05-04T07:11:09.252441+00:00
-
- ## Πρωτοσέλιδα εφημερίδων και περιοδικών - 13/9/2024 - frontpages.gr
- - [https://www.frontpages.gr](https://www.frontpages.gr)
- - date_published: 2024-09-13T17:39:15.037677+00:00
-
- ## Τα καλύτερα games στις καλύτερες τιμές
- - [https://www.gameexplorers.gr](https://www.gameexplorers.gr)
- - date_published: 2024-07-13T13:31:38.651132+00:00
-
- ## Τρέιλερ από Βιντεοπαιχνίδια, Ζωντανές Μεταδόσεις και Συνεντεύξεις | Gamereactor Greece
- - [https://www.gamereactor.gr](https://www.gamereactor.gr)
- - date_published: 2024-07-17T13:06:21.758270+00:00
-
- ## GamescomGr
- - [https://www.gamescom.gr](https://www.gamescom.gr)
- - date_published: 2024-07-13T13:47:52.033577+00:00
-
- ## Games Corner
- - [https://www.gamescorner.gr](https://www.gamescorner.gr)
- - date_published: 2024-07-13T13:24:03.840945+00:00
-
- ## Game Show - Κονσόλες Παιχνίδια Games Επισκευές Service
- - [https://www.game-show.gr](https://www.game-show.gr)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Garnier | Προϊόντα Περιποίησης Μαλλιών, Προσώπου & Σώματος
- - [https://www.garnier.gr](https://www.garnier.gr)
- - date_published: 2024-10-20T22:51:51.469135+00:00
-
- ## ΒΜΦ - Βιομηχανικό Μουσείο Φωταερίου - Τεχνόπολη
- - [https://gasmuseum.gr](https://gasmuseum.gr)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Gastronomos.gr
- - [http://gastronomos.gr](http://gastronomos.gr)
- - date_published: 2024-06-17T01:45:30.452299+00:00
-
- ## Γέφυρα Ρίου - Αντιρρίου Χαρίλαος Τρικούπης - GEFYRA S.A.
- - [https://www.gefyra.gr](https://www.gefyra.gr)
- - date_published: 2024-10-18T23:29:16.763231+00:00
-
- ## Attention Required! | Cloudflare
- - [https://generation-y.gr](https://generation-y.gr)
- - date_published: 2024-06-01T04:38:29.426305+00:00
-
- ## Gaming Galaxy - Επιλεγμένα προϊόντα gaming, Keyboards & Mouses, PC Parts & Περιφερειακά | Gaming Galaxy
- - [https://ggalaxy.gr](https://ggalaxy.gr)
- - date_published: 2024-07-13T13:45:28.793706+00:00
-
- ## Gilead Ελλάδος
- - [https://www.gilead.gr](https://www.gilead.gr)
- - date_published: 2024-07-02T04:08:32.078167+00:00
-
- ## Ελληνική κοινότητα του GNOME
- - [http://gnome.gr](http://gnome.gr)
- - date_published: 2022-04-15T16:35:42+00:00
 

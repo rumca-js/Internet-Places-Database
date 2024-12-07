@@ -1,3 +1,86 @@
+ ## Sign in to Outlook
+ - [https://example.webhook.office.com](https://example.webhook.office.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
+ - [https://forms.office.com](https://forms.office.com)
+ - date_published: 2024-05-06T16:57:01.222500+00:00
+ - tags: ['online service', 'forms', 'polls']
+
+ ## Office Insiders
+ - [https://insider.office.com](https://insider.office.com)
+ - date_published: 2024-06-18T06:28:05.589353+00:00
+
+ ## Login | Microsoft 365
+ - [https://office.com](https://office.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+ - tags: ['gateway', 'office suite', 'gatekeeper']
+
+ ## Sign in to Outlook
+ - [http://outlook.office.com](http://outlook.office.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Sign in to Outlook
+ - [https://outlook-sdf.office.com](https://outlook-sdf.office.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Appsource – Business Apps
+ - [https://pages.store.office.com](https://pages.store.office.com)
+ - date_published: 2024-10-30T22:11:30.526833+00:00
+
+ ## Sign in to your account
+ - [https://portal.office.com](https://portal.office.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Microsoft 365 — subskrypcja aplikacji pakietu Office | Microsoft 365
+ - [https://products.office.com](https://products.office.com)
+ - date_published: 2024-05-14T03:49:51.816302+00:00
+
+ ## Microsoft service health status
+ - [https://status.office.com](https://status.office.com)
+ - date_published: 2024-06-27T14:39:04.987660+00:00
+
+ ## Appsource – Business Apps
+ - [https://store.office.com](https://store.office.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Sign in to Outlook
+ - [https://substrate.office.com](https://substrate.office.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Microsoft 365 help & learning
+ - [https://support.office.com](https://support.office.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Sway: Create and share interactive reports, presentations, personal stories, and more.
+ - [https://sway.office.com](https://sway.office.com)
+ - date_published: 2024-05-15T07:44:09.441729+00:00
+
+ ## Microsoft Teams – Microsoft Adoption
+ - [https://teamsdemo.office.com](https://teamsdemo.office.com)
+ - date_published: 2024-11-21T12:59:24+00:00
+
+ ## Free templates for social media, documents & designs | Microsoft Create
+ - [https://templates.office.com](https://templates.office.com)
+ - date_published: 2024-06-16T16:09:19.656815+00:00
+
+ ## Sign in to Outlook
+ - [https://mail.office365.com](https://mail.office365.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Microsoft 365 — subskrypcja narzędzi i aplikacji do pracy biurowej | Microsoft 365
+ - [https://office365.com](https://office365.com)
+ - date_published: 2024-11-29T09:00:36+00:00
+ - tags: ['office suite', 'office', 'gateway', 'gatekeeper']
+
+ ## Sign in to Outlook
+ - [https://outlook.office365.com](https://outlook.office365.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sign in to your account
+ - [http://portal.office365.com](http://portal.office365.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## Microsoft service health status
  - [https://status.office365.com](https://status.office365.com)
  - date_published: 2024-06-27T14:39:01.842187+00:00
@@ -3957,84 +4040,4 @@ Christ
  ## DS Portal
  - [https://privacyportal-fr.onetrust.com](https://privacyportal-fr.onetrust.com)
  - date_published: 2024-06-26T09:22:57+00:00
-
- ## DS Portal
- - [https://privacyportal.onetrust.com](https://privacyportal.onetrust.com)
- - date_published: 2024-04-29T04:05:34.415866+00:00
-
- ## DS Portal
- - [https://privacyportal-t-mobile.my.onetrust.com](https://privacyportal-t-mobile.my.onetrust.com)
- - date_published: 2024-05-16T08:40:27+00:00
-
- ## DS Portal
- - [https://privacyportal-uk.onetrust.com](https://privacyportal-uk.onetrust.com)
- - date_published: 2024-05-16T08:40:27+00:00
-
- ## DS Portal
- - [https://publicisresources-privacy.my.onetrust.com](https://publicisresources-privacy.my.onetrust.com)
- - date_published: 2024-08-13T12:55:59+00:00
-
- ## DS Portal
- - [https://simon-privacy.my.onetrust.com](https://simon-privacy.my.onetrust.com)
- - date_published: 2024-04-29T03:57:59.827055+00:00
-
- ## DS Portal
- - [https://sony-privacyportal.my.onetrust.com](https://sony-privacyportal.my.onetrust.com)
- - date_published: 2024-07-29T08:10:21.335295+00:00
-
- ## DS Portal
- - [https://sophos-privacy.my.onetrust.com](https://sophos-privacy.my.onetrust.com)
- - date_published: 2024-05-16T08:40:27+00:00
-
- ## DS Portal
- - [https://talent-privacy.my.onetrust.com](https://talent-privacy.my.onetrust.com)
- - date_published: 2024-09-05T11:43:16+00:00
-
- ## DS Portal
- - [https://truebotanicals-privacy.my.onetrust.com](https://truebotanicals-privacy.my.onetrust.com)
- - date_published: 2024-06-26T09:22:57+00:00
-
- ## DS Portal
- - [https://unilever-privacy.my.onetrust.com](https://unilever-privacy.my.onetrust.com)
- - date_published: 2024-07-23T08:51:56+00:00
-
- ## DS Portal
- - [https://upgrade-requests.my.onetrust.com](https://upgrade-requests.my.onetrust.com)
- - date_published: 2024-06-11T07:12:35+00:00
-
- ## Home
- - [https://web.onetrust.com](https://web.onetrust.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## One Typed Page
- - [https://onetypedpage.com](https://onetypedpage.com)
- - date_published: 2024-07-18T17:07:09+00:00
-
- ## 1unicorn2
- - [https://blog.oneunicorn.com](https://blog.oneunicorn.com)
- - date_published: 2023-12-12T10:23:20+00:00
-
- ## OneUp Components - The mountain bike specialists
- - [https://can.dealer.oneupcomponents.com](https://can.dealer.oneupcomponents.com)
- - date_published: 2024-09-18T01:41:01.784883+00:00
-
- ## OneUp Components - The mountain bike specialists
- - [https://can.oneupcomponents.com](https://can.oneupcomponents.com)
- - date_published: 2024-06-15T11:59:21.810670+00:00
-
- ## OneUptime - One Complete Observability platform.
- - [https://oneuptime.com](https://oneuptime.com)
- - date_published: 2023-11-15T14:45:24.721531+00:00
-
- ## OneVariable : Home
- - [https://onevariable.com](https://onevariable.com)
- - date_published: 2023-10-25T16:26:02.867890+00:00
-
- ## OneV’s Den
- - [https://onevcat.com](https://onevcat.com)
- - date_published: 2024-04-19T12:47:22+00:00
-
- ## Best [Online Canadian Casinos]: Get Exclusive Bonuses & Win Big Today!
- - [https://onevisiongames.com](https://onevisiongames.com)
- - date_published: 2023-07-14T07:24:20+00:00
 

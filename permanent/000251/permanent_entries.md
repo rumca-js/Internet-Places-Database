@@ -1,3 +1,91 @@
+ ## Bauhaus-Universität Weimar - Webmail :: Welcome to Bauhaus-Universität Weimar - Webmail
+ - [https://webmail.uni-weimar.de](https://webmail.uni-weimar.de)
+ - date_published: 2024-06-18T13:28:45+00:00
+
+ ## Bauhaus-Universität Weimar: Universität
+ - [https://www.uni-weimar.de](https://www.uni-weimar.de)
+ - date_published: 2024-05-02T12:55:31.261127+00:00
+
+ ## Universität Würzburg - Universität Würzburg
+ - [https://go.uniwue.de](https://go.uniwue.de)
+ - date_published: 2024-07-24T03:32:24.906966+00:00
+
+ ## Universitätsbibliothek - Universitätsbibliothek
+ - [https://bibliothek.uni-wuerzburg.de](https://bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:14.808041+00:00
+
+ ## Fakultät für Biologie - Fakultät für Biologie
+ - [https://biologie.uni-wuerzburg.de](https://biologie.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:07.815336+00:00
+
+ ## Biozentrum - Biozentrum der Universität Würzburg
+ - [https://biozentrum.uni-wuerzburg.de](https://biozentrum.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:50.105139+00:00
+
+ ## CAIDAS - Center for Artificial Intelligence and Data Science
+ - [https://caidas.uni-wuerzburg.de](https://caidas.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:48.911379+00:00
+
+ ## WiWi-Campus
+ - [https://campus.wiwi.uni-wuerzburg.de](https://campus.wiwi.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:20.113849+00:00
+
+ ## CaseTrain
+ - [https://casetrain.uni-wuerzburg.de](https://casetrain.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:59.235883+00:00
+
+ ## Fakultät für Chemie und Pharmazie - Fakultät für Chemie und Pharmazie
+ - [https://chemie.uni-wuerzburg.de](https://chemie.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:36.525537+00:00
+
+ ## Informationen zur Fachschaft - Fachschaft Mathe/Info
+ - [https://fachschaft.informatik.uni-wuerzburg.de](https://fachschaft.informatik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:27.342675+00:00
+
+ ## Fachschaft Physik | Studierendenvertretung der Fakultät für Physik und Astronomie der Universität Würzburg
+ - [http://fachschaft.physik.uni-wuerzburg.de](http://fachschaft.physik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:32:34.467963+00:00
+
+ ## News
+ - [https://games.uni-wuerzburg.de](https://games.uni-wuerzburg.de)
+ - date_published: 2024-06-17T17:15:00+00:00
+
+ ## UWGS - University of Würzburg Graduate Schools
+ - [https://graduateschools.uni-wuerzburg.de](https://graduateschools.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:59.828656+00:00
+
+ ## Fakultät für Humanwissenschaften - Fakultät für Humanwissenschaften
+ - [https://hw.uni-wuerzburg.de](https://hw.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:54.521994+00:00
+
+ ## Weiterleitung…
+ - [https://ifm.mathematik.uni-wuerzburg.de](https://ifm.mathematik.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:41:26.080039+00:00
+
+ ## Juristische Fakultät - Juristische Fakultät
+ - [https://jura.uni-wuerzburg.de](https://jura.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:52.681173+00:00
+
+ ## Katalog der Universitätsbibliothek Würzburg
+ - [https://katalog.bibliothek.uni-wuerzburg.de](https://katalog.bibliothek.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:02:09.318464+00:00
+
+ ## Login - KursShop
+ - [https://kursshop.rz.uni-wuerzburg.de](https://kursshop.rz.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:46.475925+00:00
+
+ ## Sign in to your account
+ - [https://lecture.uni-wuerzburg.de](https://lecture.uni-wuerzburg.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## JMU Mail
+ - [https://mail.uni-wuerzburg.de](https://mail.uni-wuerzburg.de)
+ - date_published: 2024-07-24T03:40:45.228610+00:00
+
+ ## Fakultät für Mathematik und Informatik - Fakultät für Mathematik und Informatik
+ - [https://mathematik-informatik.uni-wuerzburg.de](https://mathematik-informatik.uni-wuerzburg.de)
+ - date_published: 2024-04-29T07:01:34.925604+00:00
+
  ## Neuigkeiten
  - [https://mcs.phil2.uni-wuerzburg.de](https://mcs.phil2.uni-wuerzburg.de)
  - date_published: 2024-06-10T07:16:19+00:00
@@ -3929,93 +4017,4 @@ Bibliotheken / Z39.50
  ## Kult Byrå – Designbyrået for dem som tør å vise personlighet | Kult Byrå 😎
  - [https://kult.design](https://kult.design)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Kundo
- - [https://kundo.design](https://kundo.design)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Learn UI Design
- - [https://app.learnui.design](https://app.learnui.design)
- - date_published: 2024-06-23T07:56:52.263258+00:00
-
- ## Learn UI Design
- - [https://learnui.design](https://learnui.design)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Lessons of Design
- - [https://lessons.design](https://lessons.design)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Ben Luby - UX, Content Design, Accessibility
- - [https://luby.design](https://luby.design)
- - date_published: 2024-05-09T08:21:21.309633+00:00
-
- ## Magician for Figma
- - [https://magician.design](https://magician.design)
- - date_published: 2024-06-19T19:42:29.119726+00:00
-
- ## MagicPattern - Beautiful & cool backgrounds with 10+ tools!
- - [https://www.magicpattern.design](https://www.magicpattern.design)
- - date_published: 2024-10-22T19:23:56.950852+00:00
-
- ## Magic UI: UI Library for Design Engineers
- - [https://magicui.design](https://magicui.design)
- - date_published: 2024-05-23T03:23:54+00:00
- - tags: ['web ui', 'programming library']
-
- ## Magic UI Pro
- - [https://pro.magicui.design](https://pro.magicui.design)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## MAINES DESIGN
- - [https://www.maines.design](https://www.maines.design)
- - date_published: 2024-07-08T16:07:02.222366+00:00
-
- ## Home | Valery Marier
- - [https://marier.design](https://marier.design)
- - date_published: 2024-04-29T07:13:57.627738+00:00
-
- ## mastodon.design
- - [https://mastodon.design](https://mastodon.design)
- - date_published: 2023-12-11T16:19:14.967288+00:00
-
- ## Maze Help
- - [https://help.maze.design](https://help.maze.design)
- - date_published: 2024-07-21T07:06:38.064244+00:00
-
- ## Mechanic
- - [https://mechanic.design](https://mechanic.design)
- - date_published: 2024-08-18T13:11:04.603536+00:00
-
- ## Medium.design
- - [https://medium.design](https://medium.design)
- - date_published: 2024-03-22T15:04:13.826927+00:00
-
- ## Home • Mel Choyce
- - [https://melchoyce.design](https://melchoyce.design)
- - date_published: 2024-05-07T23:12:31.267573+00:00
-
- ## MESHLESS DESIGN
- - [https://meshless.design](https://meshless.design)
- - date_published: 2024-03-07T19:36:39.228012+00:00
-
- ## Design Subscription Service | Mi&u Designs
- - [https://miandu.design](https://miandu.design)
- - date_published: 2024-07-24T02:30:03.812045+00:00
-
- ## Microsoft Design
- - [https://fluent1.microsoft.design](https://fluent1.microsoft.design)
- - date_published: 2024-04-29T07:18:50.432364+00:00
-
- ## Home - Fluent 2 Design System
- - [https://fluent2.microsoft.design](https://fluent2.microsoft.design)
- - date_published: 2023-10-25T18:34:24.950370+00:00
-
- ## Microsoft Inclusive Design
- - [https://inclusive.microsoft.design](https://inclusive.microsoft.design)
- - date_published: 2024-04-29T07:16:45.355247+00:00
-
- ## Microsoft Design
- - [https://microsoft.design](https://microsoft.design)
- - date_published: 2024-04-29T07:18:49.713895+00:00
 

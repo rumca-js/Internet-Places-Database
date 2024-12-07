@@ -1,3 +1,44 @@
+ ## Show HN: I Made a Books Recommendation App Based on Your Mood
+ - [https://booksbymood.com](https://booksbymood.com)
+ - date_published: 2024-03-26T13:13:04+00:00
+
+ ## IndieBound.org
+ - [http://www.booksense.com](http://www.booksense.com)
+ - date_published: 2024-06-30T01:24:34+00:00
+
+ ## Bookshelf Fantasies
+ - [http://bookshelffantasies.com](http://bookshelffantasies.com)
+ - date_published: 2024-09-17T17:47:02.336244+00:00
+
+ ## Books In Print: Sign In
+ - [http://www.booksinprint.com](http://www.booksinprint.com)
+ - date_published: 2024-07-21T21:56:03.405503+00:00
+
+ ## Get Honest Book Reviews on Amazon | BookSirens
+ - [https://booksirens.com](https://booksirens.com)
+ - date_published: 2024-09-17T17:41:27.805915+00:00
+
+ ## Book Slut
+ - [https://bookslut.com](https://bookslut.com)
+ - date_published: 2024-05-07T15:27:26.286971+00:00
+ - tags: ['books']
+
+ ## Books of Titans | Erik Rostad | Substack
+ - [https://www.booksoftitans.com](https://www.booksoftitans.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Colin Marshall's Books on Cities | Substack
+ - [https://www.booksoncities.com](https://www.booksoncities.com)
+ - date_published: 2024-06-27T16:00:13.240626+00:00
+
+ ## BooksoniX - We help you sell more books
+ - [https://booksonix.com](https://booksonix.com)
+ - date_published: 2024-10-19T19:46:43.957358+00:00
+
+ ## Explore Audiobooks on the NEW PenguinRandomHouseLibrary.com! | Penguin Random House Library Marketing
+ - [http://library.booksontape.com](http://library.booksontape.com)
+ - date_published: 2023-06-20T08:09:54+00:00
+
  ## Buy Australian War Books & Military Books & DVDs for Sale Online
  - [https://booksonwaraustralia.com](https://booksonwaraustralia.com)
  - date_published: 2024-02-08T22:10:04.124211+00:00
@@ -3989,44 +4030,4 @@
  ## Breakbulk Europe | 13-15 May 2025 | Rotterdam Ahoy, Netherlands
  - [https://europe.breakbulk.com](https://europe.breakbulk.com)
  - date_published: 2024-06-21T22:41:06+00:00
-
- ## The simple Sales CRM Software for Agencies & Startups - Breakcold
- - [https://www.breakcold.com](https://www.breakcold.com)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Breakdance - Website Builder for WordPress
- - [https://breakdance.com](https://breakdance.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Louis Reingold Site – Your SUPER-powered WP Engine Site
- - [https://breakdancelibrary.com](https://breakdancelibrary.com)
- - date_published: 2024-08-19T12:55:11.729531+00:00
-
- ## Quake 3 DeFrag Demo Archive
- - [http://www.breakdown-hq.com](http://www.breakdown-hq.com)
- - date_published: 2024-09-13T16:58:26.526421+00:00
-
- ## Outsource Back Office Support Services across US, Europe: O2I
- - [https://www.breakerstennis.com](https://www.breakerstennis.com)
- - date_published: 2024-06-28T09:00:10+00:00
-
- ## Breakfast in Beauclair
- - [https://www.breakfastinbeauclair.com](https://www.breakfastinbeauclair.com)
- - date_published: 2024-10-27T03:21:10.249264+00:00
-
- ## Breakfast Quay
- - [https://www.breakfastquay.com](https://www.breakfastquay.com)
- - date_published: 2024-06-17T03:06:14.747722+00:00
-
- ## Breaking911 America's #1 Alternative News Source
- - [http://breaking911.com](http://breaking911.com)
- - date_published: 2024-09-20T14:19:54+00:00
-
- ## Breaking AC
- - [https://breakingac.com](https://breakingac.com)
- - date_published: 2024-08-18T11:44:28.499558+00:00
-
- ## Breaking Bitcoin Conference
- - [https://breaking-bitcoin.com](https://breaking-bitcoin.com)
- - date_published: 2021-03-30T16:23:51+00:00
 

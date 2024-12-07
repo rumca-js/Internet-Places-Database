@@ -1,3 +1,131 @@
+ ## Home
+ - [http://www.vipacor.pt](http://www.vipacor.pt)
+ - date_published: 2024-09-05T15:04:45+00:00
+
+ ## Home Page
+ - [https://viralcheck.pt](https://viralcheck.pt)
+ - date_published: 2020-07-23T14:11:01+00:00
+
+ ## Visa, na liderança global dos pagamentos digitais
+ - [https://visa.pt](https://visa.pt)
+ - date_published: 2024-05-12T03:58:29.126432+00:00
+
+ ## VisionWare – Sistemas de Informação, S.A.
+ - [https://www.visionware.pt](https://www.visionware.pt)
+ - date_published: 2024-06-28T22:08:06.761160+00:00
+
+ ## Visitalentejo Caiado de Fresco - Turismo do Alentejo
+ - [http://www.visitalentejo.pt](http://www.visitalentejo.pt)
+ - date_published: 2024-09-05T15:40:50.624797+00:00
+
+ ## VisitAlgarve – Portal de Turismo do Algarve
+ - [https://www.visitalgarve.pt](https://www.visitalgarve.pt)
+ - date_published: 2024-06-05T09:15:17+00:00
+
+ ## Visit Fornos de Algodres
+ - [http://www.visitfornosdealgodres.pt](http://www.visitfornosdealgodres.pt)
+ - date_published: 2024-09-05T15:19:23.030563+00:00
+
+ ## Visualforma
+ - [https://www.visualforma.pt](https://www.visualforma.pt)
+ - date_published: 2024-09-05T15:23:41.198714+00:00
+
+ ## Forum Vodafone
+ - [https://forum.vodafone.pt](https://forum.vodafone.pt)
+ - date_published: 2024-06-29T13:50:17.474132+00:00
+
+ ## My Vodafone
+ - [https://my.vodafone.pt](https://my.vodafone.pt)
+ - date_published: 2024-06-29T13:50:19.956850+00:00
+
+ ## TOBi
+ - [https://tobi.vodafone.pt](https://tobi.vodafone.pt)
+ - date_published: 2024-06-29T13:50:24.001595+00:00
+
+ ## Vodafone Portugal - 5G, Telemóveis, Internet, Televisão
+ - [https://vodafone.pt](https://vodafone.pt)
+ - date_published: 2024-05-07T10:58:22.291734+00:00
+
+ ## Vodafone Solutions
+ - [https://www.vodafonesolutions.pt](https://www.vodafonesolutions.pt)
+ - date_published: 2024-06-28T17:21:30+00:00
+
+ ## Moda Beleza Lifestyle Inspiring Women Vogue TV Casamentos
+ - [https://vogue.pt](https://vogue.pt)
+ - date_published: 2024-05-07T10:58:32.208947+00:00
+
+ ## Volante SIC
+ - [https://volantesic.pt](https://volantesic.pt)
+ - date_published: 2024-10-20T21:35:29.785857+00:00
+
+ ## VW Digital Solutions - Exploring new Roads
+ - [https://www.vwds.pt](https://www.vwds.pt)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Webwiki - O motor de busca de sites com comentários
+ - [https://www.webwiki.pt](https://www.webwiki.pt)
+ - date_published: 2024-06-29T16:56:01.493305+00:00
+
+ ## Westwing | A sua loja online de móveis, decoração de interiores e mais!
+ - [https://www.westwing.pt](https://www.westwing.pt)
+ - date_published: 2024-07-04T12:29:55.150898+00:00
+
+ ## Wikidata Days 2023
+ - [https://wikidatadays.wikimedia.pt](https://wikidatadays.wikimedia.pt)
+ - date_published: 2024-07-14T03:08:05.911648+00:00
+
+ ## Wikimedia Portugal – O capítulo português do movimento Wikimedia
+ - [https://wikimedia.pt](https://wikimedia.pt)
+ - date_published: 2024-07-14T03:07:25.987568+00:00
+
+ ## Home
+ - [https://women4cyber.pt](https://women4cyber.pt)
+ - date_published: 2024-05-06T23:57:12.999433+00:00
+
+ ## Programa de Afiliados - Wook
+ - [https://afiliados.wook.pt](https://afiliados.wook.pt)
+ - date_published: 2024-07-14T05:39:32.197384+00:00
+
+ ## WWF Portugal
+ - [http://www.wwf.pt](http://www.wwf.pt)
+ - date_published: 2024-07-01T10:30:06+00:00
+
+ ## Login - A Minha Conta Medialivre
+ - [https://aminhaconta.xl.pt](https://aminhaconta.xl.pt)
+ - date_published: 2024-07-12T20:30:31.426806+00:00
+
+ ## Assinaturas Medialivre
+ - [https://assinaturas.xl.pt](https://assinaturas.xl.pt)
+ - date_published: 2024-07-12T20:30:58.857233+00:00
+
+ ## Loja XL
+ - [http://loja.xl.pt](http://loja.xl.pt)
+ - date_published: 2024-10-20T17:31:03.220344+00:00
+
+ ## Homepage
+ - [http://www.automotor.xl.pt](http://www.automotor.xl.pt)
+ - date_published: 2024-10-20T17:31:05.517574+00:00
+
+ ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
+ - [http://www.cmjornal.xl.pt](http://www.cmjornal.xl.pt)
+ - date_published: 2024-07-12T20:31:02.150319+00:00
+
+ ## Correio da Manhã: Portugal, Mundo, Sociedade, Cultura. Classificados.
+ - [http://www.correiodamanha.xl.pt](http://www.correiodamanha.xl.pt)
+ - date_published: 2024-10-20T17:31:17.587673+00:00
+
+ ## Máxima: Moda, beleza, lifestyle e comportamento
+ - [http://www.maxima.xl.pt](http://www.maxima.xl.pt)
+ - date_published: 2024-10-20T17:30:59.774000+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.negocios.xl.pt](http://www.negocios.xl.pt)
+ - date_published: 2024-10-20T17:31:21.192620+00:00
+
+ ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
+ - [http://www.record.xl.pt](http://www.record.xl.pt)
+ - date_published: 2024-10-20T17:31:09.456576+00:00
+
  ## Moda Beleza Lifestyle Inspiring Women Vogue TV Casamentos
  - [https://www.vogue.xl.pt](https://www.vogue.xl.pt)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -3908,132 +4036,4 @@
  ## PRO INVENT
  - [http://proinvent.utcluj.ro](http://proinvent.utcluj.ro)
  - date_published: 2023-10-17T11:50:26+00:00
-
- ## Home - Technical University of Cluj-Napoca Research
- - [http://research.utcluj.ro](http://research.utcluj.ro)
- - date_published: 2024-06-22T11:55:52+00:00
-
- ## Think outside the box - SAS UTCN
- - [https://sas.utcluj.ro](https://sas.utcluj.ro)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Acasa - Extensia Universitara Satu Mare
- - [https://satumare.utcluj.ro](https://satumare.utcluj.ro)
- - date_published: 2022-07-07T20:09:00+00:00
-
- ## Acasa - Facultatea de Stiinte
- - [http://stiinte.utcluj.ro](http://stiinte.utcluj.ro)
- - date_published: 2024-06-22T11:56:36.615924+00:00
-
- ## Universitatea TehnicÄ din Cluj-Napoca
- - [https://utcluj.ro](https://utcluj.ro)
- - date_published: 2024-06-22T11:56:44.702996+00:00
-
- ## Universitatea Tehnica Cluj - Napoca
- - [https://viziteaza.utcluj.ro](https://viziteaza.utcluj.ro)
- - date_published: 2019-01-29T16:01:11+00:00
-
- ## Departamentul de Informatica
- - [https://websinu.utcluj.ro](https://websinu.utcluj.ro)
- - date_published: 2024-06-22T11:56:15.738232+00:00
-
- ## Acasă - Extensia Universitara Zalau
- - [https://zalau.utcluj.ro](https://zalau.utcluj.ro)
- - date_published: 2024-04-15T20:08:00+00:00
-
- ## Utilaje pentru gradina si gospodarii - utilaria.ro
- - [https://utilaria.ro](https://utilaria.ro)
- - date_published: 2024-06-12T02:33:25.135709+00:00
-
- ## UTV
- - [https://www.utv.ro](https://www.utv.ro)
- - date_published: 2024-08-18T08:47:38.596877+00:00
-
- ## Acasa - UVT
- - [https://www.uvt.ro](https://www.uvt.ro)
- - date_published: 2023-09-08T10:00:39+00:00
-
- ## valinet
- - [https://valinet.ro](https://valinet.ro)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Calculator — Valori Nutritionale
- - [https://valori-nutritionale.ro](https://valori-nutritionale.ro)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Vlad Niculae
- - [http://vene.ro](http://vene.ro)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.ro](https://www.victronenergy.ro)
- - date_published: 2024-06-21T18:32:19+00:00
-
- ## Viimeinen metro
- - [https://viimeinenmet.ro](https://viimeinenmet.ro)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Consultant digital / Growth hacker - Viorel Mocanu
- - [https://viorelmocanu.ro](https://viorelmocanu.ro)
- - date_published: 2021-06-24T00:00:00+00:00
-
- ## Visa, un lider global in plati digital
- - [https://visa.ro](https://visa.ro)
- - date_published: 2024-05-12T03:59:37.386971+00:00
-
- ## Vlad Ilie | Software Engineer · Work with NodeJS, WordPress, Neo4j
- - [https://vladilie.ro](https://vladilie.ro)
- - date_published: 2024-05-11T10:09:30.335557+00:00
-
- ## Vocaroo | Online voice recorder
- - [https://voca.ro](https://voca.ro)
- - date_published: 2024-04-27T06:50:41+00:00
-
- ## Vodafone
- - [https://factura.vodafone.ro](https://factura.vodafone.ro)
- - date_published: 2024-06-29T13:40:43.365248+00:00
-
- ## Vodafone: Tehnologie | Telefonie | Televiziune și Internet | Gadgeturi | Oferte la portare
- - [https://vodafone.ro](https://vodafone.ro)
- - date_published: 2024-05-07T10:57:39.841960+00:00
-
- ## Vodafone Televiziune şi Internet Fix
- - [https://zoom.vodafone.ro](https://zoom.vodafone.ro)
- - date_published: 2024-06-29T13:40:42.829346+00:00
-
- ## Volution Notes
- - [https://notes.volution.ro](https://notes.volution.ro)
- - date_published: 2023-10-25T22:35:41.081523+00:00
-
- ## Web2Unu Blog - All things webby
- - [http://web2unu.ro](http://web2unu.ro)
- - date_published: 2024-07-09T08:21:33.404896+00:00
-
- ## WebDigital – agenție specializată în PPC marketing
- - [https://webdigital.ro](https://webdigital.ro)
- - date_published: 2024-09-19T15:00:32.255127+00:00
-
- ## Servere VPS SSD in Romania la preturi foarte mici | VPS Cloud Hosting
- - [http://www.webland.ro](http://www.webland.ro)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Program pentru creare site web gratuit | WebWave
- - [https://webwave.ro](https://webwave.ro)
- - date_published: 2024-09-14T07:50:49.544463+00:00
-
- ## WITTENSTEIN România
- - [https://www.wittenstein.ro](https://www.wittenstein.ro)
- - date_published: 2024-07-15T04:10:28.808860+00:00
-
- ## WWF Romania | Construim un viitor în care oamenii trăiesc în armonie cu natura
- - [https://wwf.ro](https://wwf.ro)
- - date_published: 2024-05-08T00:00:26.754812+00:00
-
- ## Lounge by Zalando - outletul online pentru modă și casă
- - [https://www.zalando-lounge.ro](https://www.zalando-lounge.ro)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## ZEISS România
- - [https://www.zeiss.ro](https://www.zeiss.ro)
- - date_published: 2024-09-16T07:56:09.734864+00:00
 

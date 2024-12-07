@@ -1,3 +1,79 @@
+ ## madbox Technical Support and Help Center
+ - [https://madbox.helpshift.com](https://madbox.helpshift.com)
+ - date_published: 2024-05-12T06:55:26.258868+00:00
+
+ ## Niantic Technical Support and Help Center
+ - [https://niantic.helpshift.com](https://niantic.helpshift.com)
+ - date_published: 2024-06-04T15:41:13.686756+00:00
+
+ ## Playrix Technical Support and Help Center
+ - [https://playrix.helpshift.com](https://playrix.helpshift.com)
+ - date_published: 2024-05-12T06:55:47.492997+00:00
+
+ ## Rovio Entertainment Technical Support and Help Center
+ - [https://roviosupport.helpshift.com](https://roviosupport.helpshift.com)
+ - date_published: 2024-07-16T19:56:34.491480+00:00
+
+ ## Socialpoint Technical Support and Help Center
+ - [https://socialpoint.helpshift.com](https://socialpoint.helpshift.com)
+ - date_published: 2024-10-26T08:57:09.652150+00:00
+
+ ## Helpshift Status
+ - [https://status.helpshift.com](https://status.helpshift.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## FAQ Technical Support and Help Center
+ - [https://stitcher.helpshift.com](https://stitcher.helpshift.com)
+ - date_published: 2024-06-15T10:43:21.787453+00:00
+
+ ## Supercell Support Portal
+ - [https://supercell.helpshift.com](https://supercell.helpshift.com)
+ - date_published: 2024-05-12T06:56:23.778923+00:00
+
+ ## Helpshift Technical Support and Help Center
+ - [https://support.helpshift.com](https://support.helpshift.com)
+ - date_published: 2024-06-28T18:08:29.932810+00:00
+
+ ## Ubisoft Mobile Technical Support and Help Center
+ - [https://ubisoft-mobile.helpshift.com](https://ubisoft-mobile.helpshift.com)
+ - date_published: 2024-05-12T06:56:45.952013+00:00
+
+ ## Paramount Technical Support and Help Center
+ - [https://viacom.helpshift.com](https://viacom.helpshift.com)
+ - date_published: 2024-06-17T01:30:39.241175+00:00
+
+ ## Wooga Technical Support and Help Center
+ - [https://wooga.helpshift.com](https://wooga.helpshift.com)
+ - date_published: 2024-07-10T03:27:20.517345+00:00
+
+ ## Zynga Technical Support and Help Center
+ - [https://zyngasupport.helpshift.com](https://zyngasupport.helpshift.com)
+ - date_published: 2024-07-10T02:49:27.052954+00:00
+
+ ## HelpSpace Blog
+ - [https://blog.helpspace.com](https://blog.helpspace.com)
+ - date_published: 2024-10-28T23:36:20.442867+00:00
+
+ ## Widget Javascript API
+ - [https://documentation.helpspace.com](https://documentation.helpspace.com)
+ - date_published: 2024-10-28T23:36:23.506181+00:00
+
+ ## The  team inbox  with  super powers
+ - [https://helpspace.com](https://helpspace.com)
+ - date_published: 2024-06-19T09:30:53.014590+00:00
+
+ ## Disclaimer
+ - [https://legal.helpspace.com](https://legal.helpspace.com)
+ - date_published: 2024-10-28T23:36:16.584346+00:00
+
+ ## HelpSpace | Support Center
+ - [https://supportcenter.helpspace.com](https://supportcenter.helpspace.com)
+ - date_published: 2024-10-28T23:36:14.250132+00:00
+
+ ## Dashboard - Pirsch Analytics
+ - [https://t.helpspace.com](https://t.helpspace.com)
+ - date_published: 2024-10-28T23:36:15.259890+00:00
+
  ## Fortra – Your Cybersecurity Ally
  - [https://helpsystems.com](https://helpsystems.com)
  - date_published: 2024-07-01T12:35:58+00:00
@@ -3959,80 +4035,4 @@
  ## HireVue Hiring Platform: Video Interviews, Assessment, Scheduling, AI, Chatbot | HireVue
  - [https://webapi.hirevue.com](https://webapi.hirevue.com)
  - date_published: 2024-05-07T19:53:55.831000+00:00
-
- ## Auth
- - [https://spectrum.hirevue-app.com](https://spectrum.hirevue-app.com)
- - date_published: 2024-07-16T21:51:16.517069+00:00
-
- ## HiRezFox Image Server
- - [http://hirezfox.com](http://hirezfox.com)
- - date_published: 2005-01-27T13:52:34+00:00
-
- ## Hiring Engineers - Hiring Engineers
- - [https://hiringengineersbook.com](https://hiringengineersbook.com)
- - date_published: 2024-05-12T04:24:50.500811+00:00
-
- ## Attorney Hiring Applicant Tracking System | HiringPartner.com
- - [https://www.hiringpartner.com](https://www.hiringpartner.com)
- - date_published: 2024-06-20T16:15:16.636174+00:00
-
- ## Hiring Success
- - [https://www.hiringsuccess.com](https://www.hiringsuccess.com)
- - date_published: 2024-09-16T07:34:21.833279+00:00
-
- ## HiringThing Blog
- - [https://blog.hiringthing.com](https://blog.hiringthing.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## HiringThing
- - [https://careers.hiringthing.com](https://careers.hiringthing.com)
- - date_published: 2024-08-10T23:07:16.021993+00:00
-
- ## The HiringThing HR Platform For Recruiting & Onboarding | HiringThing
- - [https://hiringthing.com](https://hiringthing.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HiringThing
- - [https://login.hiringthing.com](https://login.hiringthing.com)
- - date_published: 2024-08-10T23:07:03.972851+00:00
-
- ## Support
- - [https://support.hiringthing.com](https://support.hiringthing.com)
- - date_published: 2024-08-10T23:07:18.162168+00:00
-
- ## Employee Onboarding
- - [https://app.hiringthing-onboarding.com](https://app.hiringthing-onboarding.com)
- - date_published: 2024-08-10T23:07:07.756993+00:00
-
- ## hirolvaso.com
- - [https://www.hirolvaso.com](https://www.hirolvaso.com)
- - date_published: 2024-08-19T15:45:50.698805+00:00
-
- ## Home - Hiromi Goto
- - [http://www.hiromigoto.com](http://www.hiromigoto.com)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## 公益財団法人　広沢技術振興財団　ホームページ
- - [http://www.hirosawa-zaidan.com](http://www.hirosawa-zaidan.com)
- - date_published: 2024-05-31T06:54:17+00:00
-
- ## Electrical and Electronic Connectors - HIROSE Electric Group [Connector]
- - [https://www.hirose.com](https://www.hirose.com)
- - date_published: 2024-07-04T02:12:46.763908+00:00
-
- ## Nuclear Energy Information | Fukushima Accident Updates | Fukushima Commentary
- - [http://www.hiroshimasyndrome.com](http://www.hiroshimasyndrome.com)
- - date_published: 2024-08-18T06:49:58+00:00
-
- ## Hirst Arts: Make Your Own Castles Easily
- - [http://hirstarts.com](http://hirstarts.com)
- - date_published: 2024-05-13T12:36:04+00:00
-
- ## Hisar Coding Summit X
- - [http://event.hisarcs.com](http://event.hisarcs.com)
- - date_published: 2023-12-15T16:17:46+00:00
-
- ## Hisense DE | Innovationen für Ihr Zuhause
- - [https://cc.hisense.com](https://cc.hisense.com)
- - date_published: 2024-10-10T00:00:00+00:00
 

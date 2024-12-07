@@ -1,3 +1,99 @@
+ ## Human Resources
+ - [https://careers.temple.edu](https://careers.temple.edu)
+ - date_published: 2024-09-27T08:09:42+00:00
+
+ ## Department of Computer & Information Sciences | College of Science and Technology
+ - [https://cis.temple.edu](https://cis.temple.edu)
+ - date_published: 2023-10-25T18:59:25.283156+00:00
+
+ ## Temple University
+ - [https://connect.temple.edu](https://connect.temple.edu)
+ - date_published: 2024-06-16T07:24:23+00:00
+
+ ## College of Public Health
+ - [https://cph.temple.edu](https://cph.temple.edu)
+ - date_published: 2024-06-16T04:48:48+00:00
+
+ ## College of Science and Technology
+ - [https://cst.temple.edu](https://cst.temple.edu)
+ - date_published: 2024-05-07T20:38:29.600991+00:00
+
+ ## Kornberg School of Dentistry
+ - [https://dentistry.temple.edu](https://dentistry.temple.edu)
+ - date_published: 2024-06-16T02:00:58+00:00
+
+ ## Cherry & White Directory | Temple University
+ - [https://directory.temple.edu](https://directory.temple.edu)
+ - date_published: 2024-06-16T07:57:23.747813+00:00
+
+ ## College of Education and Human Development
+ - [https://education.temple.edu](https://education.temple.edu)
+ - date_published: 2024-06-16T07:05:23+00:00
+
+ ## College of Engineering
+ - [https://engineering.temple.edu](https://engineering.temple.edu)
+ - date_published: 2024-06-16T10:34:36.902528+00:00
+
+ ## Welcome to Calendar of Events | Calendar of Events
+ - [https://events.temple.edu](https://events.temple.edu)
+ - date_published: 2024-06-16T00:59:57+00:00
+
+ ## Fox School of Business
+ - [https://fox.temple.edu](https://fox.temple.edu)
+ - date_published: 2024-06-15T22:06:06+00:00
+
+ ## Giving
+ - [https://giving.temple.edu](https://giving.temple.edu)
+ - date_published: 2024-06-16T10:34:04.438999+00:00
+
+ ## Graduate School
+ - [https://grad.temple.edu](https://grad.temple.edu)
+ - date_published: 2024-06-16T04:43:00+00:00
+
+ ## Research Guides
+ - [https://guides.temple.edu](https://guides.temple.edu)
+ - date_published: 2024-06-30T01:26:19.559309+00:00
+
+ ## University Housing and Residential Life
+ - [https://housing.temple.edu](https://housing.temple.edu)
+ - date_published: 2024-09-27T09:11:22.733157+00:00
+
+ ## iGEM - Institute for Genomics and Evolutionary Medicine | Temple University
+ - [https://igem.temple.edu](https://igem.temple.edu)
+ - date_published: 2024-07-01T21:35:49.616442+00:00
+
+ ## Information Technology Services
+ - [https://its.temple.edu](https://its.temple.edu)
+ - date_published: 2024-05-01T06:30:18.131359+00:00
+
+ ## Klein College of Media and Communication
+ - [https://klein.temple.edu](https://klein.temple.edu)
+ - date_published: 2024-06-15T22:27:57+00:00
+
+ ## Temple University Beasley School of Law
+ - [https://law.temple.edu](https://law.temple.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## College of Liberal Arts
+ - [https://liberalarts.temple.edu](https://liberalarts.temple.edu)
+ - date_published: 2024-06-16T08:33:21+00:00
+
+ ## Temple University Libraries
+ - [http://library.temple.edu](http://library.temple.edu)
+ - date_published: 2024-09-30T19:45:08.966176+00:00
+
+ ## Listserv
+ - [https://listserv.temple.edu](https://listserv.temple.edu)
+ - date_published: 2019-09-11T18:36:55+00:00
+
+ ## Temple Mathematics
+ - [https://math.temple.edu](https://math.temple.edu)
+ - date_published: 2024-07-01T21:35:51.741578+00:00
+
+ ## Lewis Katz School of Medicine at Temple University
+ - [https://medicine.temple.edu](https://medicine.temple.edu)
+ - date_published: 2024-06-15T23:56:14+00:00
+
  ## Temple Now
  - [https://news.temple.edu](https://news.temple.edu)
  - date_published: 2024-05-13T00:00:00+00:00
@@ -3928,100 +4024,4 @@
  ## Faculty Websites – Simple Websites for UCI Faculty
  - [https://faculty.sites.uci.edu](https://faculty.sites.uci.edu)
  - date_published: 2024-07-01T22:09:04+00:00
-
- ## UC Irvine - Faculty Profile System
- - [http://faculty.uci.edu](http://faculty.uci.edu)
- - date_published: 2024-07-01T22:50:04.781971+00:00
-
- ## faultline – A publication from the MFA Programs in Writing at UC Irvine
- - [https://faultline.sites.uci.edu](https://faultline.sites.uci.edu)
- - date_published: 2024-07-07T05:11:26+00:00
-
- ## UCI Institute for Future Health
- - [https://futurehealth.ics.uci.edu](https://futurehealth.ics.uci.edu)
- - date_published: 2024-05-07T20:53:22.787974+00:00
-
- ## UCI Institute for Future Health
- - [https://futurehealth.uci.edu](https://futurehealth.uci.edu)
- - date_published: 2024-05-07T20:53:02.542030+00:00
-
- ## give.uci.edu – Coming Soon
- - [http://give.uci.edu](http://give.uci.edu)
- - date_published: 2024-07-01T22:50:18.285035+00:00
-
- ## GPS-STEM UCI
- - [https://gps-stem.grad.uci.edu](https://gps-stem.grad.uci.edu)
- - date_published: 2024-07-09T22:34:31.751870+00:00
-
- ## Graduate Student Services |
- - [https://grads.soceco.uci.edu](https://grads.soceco.uci.edu)
- - date_published: 2024-07-09T19:48:20+00:00
-
- ## Engineering Graduate and Professional Studies
- - [https://graduate.eng.uci.edu](https://graduate.eng.uci.edu)
- - date_published: 2024-07-09T22:17:24+00:00
-
- ## Home Page - UCI Graduate Division
- - [http://grad.uci.edu](http://grad.uci.edu)
- - date_published: 2024-10-27T11:42:27.225478+00:00
-
- ## Hall of Fame – Engineering and ICS at UCI
- - [https://halloffame.tech.uci.edu](https://halloffame.tech.uci.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## UCI Health Affairs
- - [https://healthaffairs.uci.edu](https://healthaffairs.uci.edu)
- - date_published: 2024-07-09T21:47:36+00:00
-
- ## Home | Engineering Computing Support
- - [https://helpdesk.eng.uci.edu](https://helpdesk.eng.uci.edu)
- - date_published: 2024-07-09T22:35:42.157316+00:00
-
- ## UCI Division of Undergraduate Education
- - [http://home.due.uci.edu](http://home.due.uci.edu)
- - date_published: 2024-07-09T22:23:22+00:00
-
- ## Campuswide Honors Collegium | CHC at UCI
- - [http://honors.uci.edu](http://honors.uci.edu)
- - date_published: 2024-07-01T22:50:36.448983+00:00
-
- ## UCI Student Housing | Creating Places to Thrive and Connect
- - [http://housing.uci.edu](http://housing.uci.edu)
- - date_published: 2024-07-01T22:36:48+00:00
-
- ## HPI Research Center in Machine Learning and Data Science at UCI
- - [https://hpi.ics.uci.edu](https://hpi.ics.uci.edu)
- - date_published: 2024-05-07T20:54:01.513372+00:00
-
- ## UCI Human Resources | Home
- - [https://hr.uci.edu](https://hr.uci.edu)
- - date_published: 2024-07-01T22:40:55.732539+00:00
-
- ## UCI School of Humanities
- - [https://humanities.uci.edu](https://humanities.uci.edu)
- - date_published: 2024-05-09T06:50:30.346817+00:00
-
- ## Home
- - [https://ics.uci.edu](https://ics.uci.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## UCI Institute for Genomics & Bioinformatics – IGB at UC Irvine
- - [https://igb.uci.edu](https://igb.uci.edu)
- - date_published: 2024-05-07T20:54:04.188674+00:00
-
- ## Home // Illuminations The Chancellor's Arts & Culture Initiative // UCI
- - [http://illuminations.uci.edu](http://illuminations.uci.edu)
- - date_published: 2024-07-01T22:49:04.549283+00:00
-
- ## Home - UCI Langson IMCA
- - [https://imca.uci.edu](https://imca.uci.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## UC Irvine Dunlop School Office of Diversity, Equity and Inclusion – Dedicated to making a more inclusive and equitable future in the Biological Sciences.
- - [https://inclusion.bio.uci.edu](https://inclusion.bio.uci.edu)
- - date_published: 2024-07-09T22:34:07.739935+00:00
-
- ## Informatics @ the University of California, Irvine
- - [https://informatics.uci.edu](https://informatics.uci.edu)
- - date_published: 2024-05-07T20:53:13.149689+00:00
 

@@ -1,3 +1,31 @@
+ ## Indigenous Engagement - Office of the Vice-Provost Indigenous Engagement
+ - [https://indigenous.usask.ca](https://indigenous.usask.ca)
+ - date_published: 2024-09-15T13:01:12.015234+00:00
+
+ ## Usask Art Gallery - USask Art Galleries | University of Saskatchewan
+ - [https://kagcag.usask.ca](https://kagcag.usask.ca)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## University of Saskatchewan
+ - [https://limestone.usask.ca](https://limestone.usask.ca)
+ - date_published: 2024-09-15T13:01:14.750326+00:00
+
+ ## News
+ - [https://news.usask.ca](https://news.usask.ca)
+ - date_published: 2024-09-15T13:01:18.586679+00:00
+
+ ## PAWS - University of Saskatchewan
+ - [https://paws.usask.ca](https://paws.usask.ca)
+ - date_published: 2024-06-20T05:48:10+00:00
+
+ ## Access and Privacy - Legal Office
+ - [https://privacy.usask.ca](https://privacy.usask.ca)
+ - date_published: 2024-09-15T13:01:23.213015+00:00
+
+ ## Search - University of Saskatchewan
+ - [https://search.usask.ca](https://search.usask.ca)
+ - date_published: 2024-09-15T13:00:56.099541+00:00
+
  ## Students
  - [https://students.usask.ca](https://students.usask.ca)
  - date_published: 2024-09-15T13:01:28.207037+00:00
@@ -3981,32 +4009,4 @@
  ## Inici - CERCA
  - [https://cerca.cat](https://cerca.cat)
  - date_published: 2024-03-05T00:00:00+00:00
-
- ## CERCA Gender
- - [https://gender.cerca.cat](https://gender.cerca.cat)
- - date_published: 2024-07-07T01:34:25.694650+00:00
-
- ## CERCA Gínjol Patent Funds
- - [https://ginjol.cerca.cat](https://ginjol.cerca.cat)
- - date_published: 2023-10-03T00:00:00+00:00
-
- ## CERCA GINYS
- - [https://ginys.cerca.cat](https://ginys.cerca.cat)
- - date_published: 2024-07-07T01:34:20.645825+00:00
-
- ## Portada - CIVIC Ai
- - [https://civicai.cat](https://civicai.cat)
- - date_published: 2023-03-10T11:36:17+00:00
-
- ## Portal de la Recerca de Catalunya: Home
- - [http://portalrecerca.csuc.cat](http://portalrecerca.csuc.cat)
- - date_published: 2024-07-02T10:45:32.189841+00:00
-
- ## Dansàneu
- - [https://dansaneu.cat](https://dansaneu.cat)
- - date_published: 2024-09-17T16:52:05.911326+00:00
-
- ## Dario Castañé
- - [https://dario.cat](https://dario.cat)
- - date_published: 2024-05-09T08:12:41.816016+00:00
 

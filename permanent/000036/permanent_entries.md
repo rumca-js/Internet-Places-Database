@@ -1,3 +1,35 @@
+ ## Best Neurai XNA Mining Pool - 2Miners
+ - [https://xna.2miners.com](https://xna.2miners.com)
+ - date_published: 2024-04-30T07:31:42.544749+00:00
+
+ ## Best Zcash ZEC Mining Pool - 2Miners
+ - [https://zec.2miners.com](https://zec.2miners.com)
+ - date_published: 2024-07-21T02:35:07.815403+00:00
+
+ ## Best Horizen Mining Pool - 2Miners
+ - [https://zen.2miners.com](https://zen.2miners.com)
+ - date_published: 2024-07-21T02:34:44.563167+00:00
+
+ ## Best Zephyr ZEPH Mining Pool - 2Miners
+ - [https://zeph.2miners.com](https://zeph.2miners.com)
+ - date_published: 2024-06-12T23:17:34.263313+00:00
+
+ ## 2-Minute Tabletop – Fantasy RPG Maps, Assets, and Tokens
+ - [https://2minutetabletop.com](https://2minutetabletop.com)
+ - date_published: 2024-10-30T08:06:52+00:00
+
+ ## Home
+ - [https://2mrecords.com](https://2mrecords.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## 2N - a Global Leader in IP Intercoms and Access Control
+ - [https://www.2n.com](https://www.2n.com)
+ - date_published: 2024-08-06T10:54:22.413217+00:00
+
+ ## 2nd Amendment Shooting Supply – 2nd Amendment Shooting Supply
+ - [http://www.2ndamendmentshootingsupply.com](http://www.2ndamendmentshootingsupply.com)
+ - date_published: 2024-07-03T23:37:33.431113+00:00
+
  ## 2nd Smartest Guy in the World | Substack
  - [https://www.2ndsmartestguyintheworld.com](https://www.2ndsmartestguyintheworld.com)
  - date_published: 2024-08-14T00:00:00+00:00
@@ -1776,7 +1808,7 @@ syndication,XML,RDF,news ...
  ## Find new games
  - [https://50gameslike.com](https://50gameslike.com)
  - date_published: 2023-10-27T13:24:34.247396+00:00
- - tags: ['page rank']
+ - tags: ['ranking page']
 
  ## 50Hertz Tingly Foods
  - [https://50hertzfoods.com](https://50hertzfoods.com)
@@ -4026,36 +4058,4 @@ Personal Consulting
  ## Aave - Open Source Liquidity Protocol
  - [https://aave.com](https://aave.com)
  - date_published: 2024-06-15T19:19:14.946919+00:00
-
- ## Aave - Open Source Liquidity Protocol
- - [https://app.aave.com](https://app.aave.com)
- - date_published: 2024-06-22T20:49:31+00:00
-
- ## Aave Document Hub | Hub
- - [https://docs.aave.com](https://docs.aave.com)
- - date_published: 2024-04-29T07:33:42.912734+00:00
-
- ## Aave
- - [https://governance.aave.com](https://governance.aave.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## ACI Dashboard
- - [https://apps.aavechan.com](https://apps.aavechan.com)
- - date_published: 2024-09-25T16:08:09.203675+00:00
-
- ## ACI
- - [https://www.aavechan.com](https://www.aavechan.com)
- - date_published: 2024-06-16T05:15:04.266534+00:00
-
- ## Aavegotchi - Game and Earn with Frens
- - [https://aavegotchi.com](https://aavegotchi.com)
- - date_published: 2024-09-04T12:16:05.269868+00:00
-
- ## The Curve | Official  Blog of Aavegotchi NFTs
- - [https://blog.aavegotchi.com](https://blog.aavegotchi.com)
- - date_published: 2024-06-22T12:52:45.699266+00:00
-
- ## Anthony Avina
- - [https://aavina.com](https://aavina.com)
- - date_published: 2023-05-04T00:00:00+00:00
 

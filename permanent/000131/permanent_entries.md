@@ -1,3 +1,84 @@
+ ## JVM Bloggers - wszystkie polskie blogi o ekosytemie Javy i programowaniu
+ - [http://jvm-bloggers.com](http://jvm-bloggers.com)
+ - date_published: 2024-06-29T11:07:10.377611+00:00
+
+ ## JV Micronics – Leading Developing and Manufacturing brand of Rf Absorbers and RF Anechoic Chambers
+ - [https://jvmicronics.com](https://jvmicronics.com)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## JVM Weekly | Artur Skowronski | Substack
+ - [https://www.jvm-weekly.com](https://www.jvm-weekly.com)
+ - date_published: 2024-12-05T16:19:15.944248+00:00
+
+ ## John Egan
+ - [https://jwegan.com](https://jwegan.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home - J Wolfgang Goerlich
+ - [https://jwgoerlich.com](https://jwgoerlich.com)
+ - date_published: 2024-03-17T07:05:42.106657+00:00
+
+ ## Jacki Whisenant
+ - [http://www.jwhisenant.com](http://www.jwhisenant.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Joseph W. Iverson
+ - [https://www.jwiverson.com](https://www.jwiverson.com)
+ - date_published: 2024-05-07T15:02:12.471856+00:00
+
+ ## jwjacobs.com | Front-End Web Designer
+ - [https://jwjacobs.com](https://jwjacobs.com)
+ - date_published: 2024-02-13T17:35:54.225452+00:00
+ - tags: ['personal']
+
+ ## Home | Uhmm
+ - [https://uhmm.jwjacobs.com](https://uhmm.jwjacobs.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## JWN Energy
+ - [https://www.jwnenergy.com](https://www.jwnenergy.com)
+ - date_published: 2023-08-31T00:00:00+00:00
+
+ ## Tennis Videos
+ - [https://tennis.jwpapp.com](https://tennis.jwpapp.com)
+ - date_published: 2024-07-12T09:38:01.146339+00:00
+
+ ## simo
+ - [https://www.jwpapp.com](https://www.jwpapp.com)
+ - date_published: 2024-07-20T10:20:02.363514+00:00
+
+ ## JW Player: End-to-End Solution for Streaming & Monetizing Video
+ - [https://content.jwplatform.com](https://content.jwplatform.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## JW Player: End-to-End Solution for Streaming & Monetizing Video
+ - [https://cdn.jwplayer.com](https://cdn.jwplayer.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## JW Player Dashboard
+ - [https://dashboard.jwplayer.com](https://dashboard.jwplayer.com)
+ - date_published: 2024-06-10T16:18:35+00:00
+
+ ## Welcome
+ - [https://developer.jwplayer.com](https://developer.jwplayer.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Welcome
+ - [https://docs.jwplayer.com](https://docs.jwplayer.com)
+ - date_published: 2024-06-17T12:33:15.294846+00:00
+
+ ## JW Player: End-to-End Solution for Streaming & Monetizing Video
+ - [https://jwplayer.com](https://jwplayer.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## JWP Product Release Notes
+ - [https://releases.jwplayer.com](https://releases.jwplayer.com)
+ - date_published: 2024-07-13T12:49:24.502324+00:00
+
+ ## JW Player Status
+ - [https://status.jwplayer.com](https://status.jwplayer.com)
+ - date_published: 2024-07-13T12:49:23.009708+00:00
+
  ## JW Player
  - [https://support.jwplayer.com](https://support.jwplayer.com)
  - date_published: 2024-03-08T00:00:00+00:00
@@ -3971,84 +4052,4 @@
  ## Best of Kelowna 2024
  - [https://bestof.kelownanow.com](https://bestof.kelownanow.com)
  - date_published: 2024-06-29T11:45:02.201836+00:00
-
- ## Kelowna and Central Okanagan News & Information
- - [https://kelownanow.com](https://kelownanow.com)
- - date_published: 2024-05-07T10:43:40.865846+00:00
-
- ## Best of Kelowna
- - [https://winners.kelownanow.com](https://winners.kelownanow.com)
- - date_published: 2024-06-29T11:45:58.149724+00:00
-
- ## Kelsea Ballerini
- - [https://store.kelseaballerini.com](https://store.kelseaballerini.com)
- - date_published: 2024-06-30T12:34:28.943165+00:00
-
- ## Kelsey Ogletree
- - [https://kelseyogletree.com](https://kelseyogletree.com)
- - date_published: 2024-05-08T04:59:48.968271+00:00
-
- ## Kelsi Kliethermes Photography LLC - Missouri & Midwest Wedding Photographer
- - [https://kelsikliethermesphotography.com](https://kelsikliethermesphotography.com)
- - date_published: 2024-05-07T14:15:13.613846+00:00
-
- ## Ren.AI.ssance | Kelsus | Substack
- - [https://renaissance.kelsus.com](https://renaissance.kelsus.com)
- - date_published: 2024-05-09T07:04:12.960572+00:00
-
- ## Startup Win | Kelsus | Substack
- - [https://startupwin.kelsus.com](https://startupwin.kelsus.com)
- - date_published: 2023-10-25T15:35:46+00:00
-
- ## Kel-Tec Forum
- - [http://www.keltecforum.com](http://www.keltecforum.com)
- - date_published: 2024-07-04T00:00:47+00:00
-
- ## Rumah Sakit Keluarga Kita || Home
- - [https://keluarga-kita.com](https://keluarga-kita.com)
- - date_published: 2024-09-10T13:56:13.051238+00:00
-
- ## Kelurahan Sukamulya Cikupa - Web Informasi Tentang Pendidikan Terbaik di Indonesia
- - [https://kelurahansukamulya.com](https://kelurahansukamulya.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Kelvin Cooperage
- - [https://kelvincooperage.com](https://kelvincooperage.com)
- - date_published: 2024-06-24T06:06:36.927917+00:00
-
- ## Kurtz-Ersa-Magazine
- - [https://www.ke-mag.com](https://www.ke-mag.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Kemin | Global Ingredient Supplier | Kemin Industries USA
- - [https://www.kemin.com](https://www.kemin.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Keming Labs: Data & Design
- - [https://keminglabs.com](https://keminglabs.com)
- - date_published: 2024-02-14T08:51:34+00:00
-
- ## Kyle Mitchell’s Availability
- - [https://availability.kemitchell.com](https://availability.kemitchell.com)
- - date_published: 2024-01-29T17:13:11+00:00
-
- ## css.kemitchell.com
- - [https://css.kemitchell.com](https://css.kemitchell.com)
- - date_published: 2024-05-19T02:18:16+00:00
-
- ## fonts.kemitchell.com
- - [https://fonts.kemitchell.com](https://fonts.kemitchell.com)
- - date_published: 2022-01-14T20:58:18+00:00
-
- ## Kyle Mitchell, attorney
- - [https://kemitchell.com](https://kemitchell.com)
- - date_published: 2024-01-19T23:53:19+00:00
-
- ## K.E. Mitchell’s Projects
- - [https://projects.kemitchell.com](https://projects.kemitchell.com)
- - date_published: 2024-06-20T10:16:06+00:00
-
- ## Kyle Mitchell’s Work
- - [https://work.kemitchell.com](https://work.kemitchell.com)
- - date_published: 2024-01-29T18:13:24+00:00
 

@@ -1,3 +1,7 @@
+ ## Imajinn AI
+ - [https://imajinn.ai](https://imajinn.ai)
+ - date_published: 2024-06-19T18:48:20.350394+00:00
+
  ## Home of Reasoning as a Service® | Imandra Inc.
  - [https://www.imandra.ai](https://www.imandra.ai)
  - date_published: 2024-06-22T09:46:59.565346+00:00
@@ -4018,8 +4022,4 @@
  ## Extract short clips from your videos in a flash.
  - [https://www.qlip.ai](https://www.qlip.ai)
  - date_published: 2024-05-16T16:19:17+00:00
-
- ## QMR – QMR
- - [https://qmr.ai](https://qmr.ai)
- - date_published: 2023-10-25T11:41:43.521292+00:00
 

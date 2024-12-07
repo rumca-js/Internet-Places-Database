@@ -1,3 +1,84 @@
+ ## Web Reader
+ - [https://reader.paperlit.com](https://reader.paperlit.com)
+ - date_published: 2024-05-06T16:16:11.750741+00:00
+
+ ## PAPER Magazine
+ - [https://papermag.com](https://papermag.com)
+ - date_published: 2024-06-15T05:14:03.716820+00:00
+
+ ## Papermerge DMS with OCR
+ - [https://papermerge.com](https://papermerge.com)
+ - date_published: 2022-05-10T05:08:27+00:00
+ - tags: ['document management system', 'self-host', 'ocr']
+
+ ## Papernautic - Paper Art for Life
+ - [https://papernautic.com](https://papernautic.com)
+ - date_published: 2019-11-26T08:22:54+00:00
+
+ ## AI Academic Writing Tool - Online English Language Check | Paperpal
+ - [https://paperpal.com](https://paperpal.com)
+ - date_published: 2024-06-19T21:06:57.373567+00:00
+
+ ## Paperpile Reference Manager
+ - [https://cdn.paperpile.com](https://cdn.paperpile.com)
+ - date_published: 2024-05-06T22:31:34.340322+00:00
+
+ ## Paperpile Forum
+ - [https://forum.paperpile.com](https://forum.paperpile.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Paperpile Reference Manager
+ - [https://paperpile.com](https://paperpile.com)
+ - date_published: 2023-11-01T08:42:53.570173+00:00
+
+ ## PaperRater: Free Online Proofreader with Grammar Check, Plagiarism Detection and more
+ - [https://www.paperrater.com](https://www.paperrater.com)
+ - date_published: 2024-08-07T23:36:36.489749+00:00
+
+ ## Home
+ - [https://papersapp.com](https://papersapp.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Support : Papers Support
+ - [https://support.papersapp.com](https://support.papersapp.com)
+ - date_published: 2024-05-09T05:48:44.471396+00:00
+
+ ## Dienstplan und Zeiterfassung Online verwalten | Papershift
+ - [https://www.papershift.com](https://www.papershift.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Papersign by Paperform: Fast, Easy & Secure Electronic Signatures
+ - [https://papersign.com](https://papersign.com)
+ - date_published: 2024-10-21T02:44:19.157125+00:00
+
+ ## PAPERSKI
+ - [http://paperski.com](http://paperski.com)
+ - date_published: 2024-05-08T10:05:37.538412+00:00
+
+ ## Top Essay Writing Service in Canada - Ca.PapersOwl.com
+ - [https://ca.papersowl.com](https://ca.papersowl.com)
+ - date_published: 2024-07-18T08:45:18.287011+00:00
+
+ ## PapersOwl: 你的英文essay 代 写, 留学生代写论文
+ - [https://cn.papersowl.com](https://cn.papersowl.com)
+ - date_published: 2024-07-18T08:45:15.889166+00:00
+
+ ## Write My Essay For Me | Essay Writing Service by PapersOwl.com
+ - [https://papersowl.com](https://papersowl.com)
+ - date_published: 2024-05-14T03:47:27.754978+00:00
+
+ ## Paperspace Blog
+ - [https://blog.paperspace.com](https://blog.paperspace.com)
+ - date_published: 2024-05-06T22:31:51.498995+00:00
+
+ ## Community | Paperspace
+ - [https://community.paperspace.com](https://community.paperspace.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Paperspace
+ - [https://console.paperspace.com](https://console.paperspace.com)
+ - date_published: 2024-05-06T22:31:52.487859+00:00
+
  ## Paperspace :: DigitalOcean Documentation
  - [https://docs.paperspace.com](https://docs.paperspace.com)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -3978,85 +4059,4 @@
  ## PayPal Newsroom - Home
  - [https://newsroom.ie.paypal-corp.com](https://newsroom.ie.paypal-corp.com)
  - date_published: 2024-06-21T23:51:00+00:00
-
- ## PayPal Newsroom - Home
- - [https://newsroom.in.paypal-corp.com](https://newsroom.in.paypal-corp.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## PayPal Newsroom - Home
- - [https://newsroom.it.paypal-corp.com](https://newsroom.it.paypal-corp.com)
- - date_published: 2024-06-21T23:51:05+00:00
-
- ## ペイパル ニュースルーム |  ホーム
- - [https://newsroom.jp.paypal-corp.com](https://newsroom.jp.paypal-corp.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## PayPal Newsroom - Inicio
- - [https://newsroom.latam.paypal-corp.com](https://newsroom.latam.paypal-corp.com)
- - date_published: 2024-06-21T23:50:37+00:00
-
- ## PayPal Newsroom  |  Home
- - [https://newsroom.paypal-corp.com](https://newsroom.paypal-corp.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## PayPal Newsroom - Home
- - [https://newsroom.uk.paypal-corp.com](https://newsroom.uk.paypal-corp.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## The PayPal Technology Blog – Medium
- - [https://www.paypal-engineering.com](https://www.paypal-engineering.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## 403
- - [https://www.paypalobjects.com](https://www.paypalobjects.com)
- - date_published: 2023-10-25T16:31:48.214530+00:00
-
- ## PayPal Status Page
- - [https://paypal-status.com](https://paypal-status.com)
- - date_published: 2024-06-16T15:15:00.596700+00:00
- - tags: ['down detector']
-
- ## Payplug: the online and in-store payment solution
- - [https://secure.payplug.com](https://secure.payplug.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Payplug: the online and in-store payment solution
- - [https://www.payplug.com](https://www.payplug.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## PayPro Global Legal Documentation
- - [https://docs.payproglobal.com](https://docs.payproglobal.com)
- - date_published: 2019-01-15T10:43:48+00:00
-
- ## Sell Software and SaaS Online with PayPro Global
- - [https://payproglobal.com](https://payproglobal.com)
- - date_published: 2024-06-18T12:55:10+00:00
-
- ## PayPro Global Store
- - [https://store.payproglobal.com](https://store.payproglobal.com)
- - date_published: 2024-10-16T11:00:12.692634+00:00
-
- ## Mobile payment solutions for vending, laundry and more by PayRange
- - [https://distributor.payrange.com](https://distributor.payrange.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## PayRange | Powering Cashless Connected Solutions for Unattended Retail
- - [https://payrange.com](https://payrange.com)
- - date_published: 2024-06-14T14:36:58.529347+00:00
-
- ## PayRange Support
- - [https://support.payrange.com](https://support.payrange.com)
- - date_published: 2024-09-14T10:08:33.780315+00:00
-
- ## Payrexx - Online payment system
- - [https://opendoors.payrexx.com](https://opendoors.payrexx.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Embedded Payments for SaaS Platforms | Payrix
- - [http://www.payrix.com](http://www.payrix.com)
- - date_published: 2024-08-06T19:33:52.775704+00:00
-
- ## Payroll4Free.com - Free Payroll Service, Software, Calculation, and Checks
- - [https://www.payroll4free.com](https://www.payroll4free.com)
- - date_published: 2023-11-20T20:31:09+00:00
 

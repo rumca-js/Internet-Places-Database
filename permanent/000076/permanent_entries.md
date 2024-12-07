@@ -1,3 +1,51 @@
+ ## Universal ADB Drivers
+ - [https://adb.clockworkmod.com](https://adb.clockworkmod.com)
+ - date_published: 2021-05-22T14:58:12+00:00
+
+ ## ClockworkMod
+ - [https://clockworkmod.com](https://clockworkmod.com)
+ - date_published: 2020-09-10T06:08:45+00:00
+
+ ## ClockworkPi | Open Source Hardware
+ - [https://clockworkpi.com](https://clockworkpi.com)
+ - date_published: 2023-10-25T08:35:32.122401+00:00
+
+ ## clockworkpi
+ - [https://forum.clockworkpi.com](https://forum.clockworkpi.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Main - Clockworkpi Wiki
+ - [https://wiki.clockworkpi.com](https://wiki.clockworkpi.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Clocky, The Loud Alarm Clock That Runs Away Beeping for Heavy Sleepers
+ - [https://clocky.com](https://clocky.com)
+ - date_published: 2024-08-19T15:37:57.705735+00:00
+
+ ## Clojure for Pros
+ - [https://clojureforpros.com](https://clojureforpros.com)
+ - date_published: 2023-11-25T23:31:26+00:00
+
+ ## ClojureScript Koans
+ - [http://clojurescriptkoans.com](http://clojurescriptkoans.com)
+ - date_published: 2019-08-25T01:38:09+00:00
+
+ ## Clojure SYNC
+ - [https://clojuresync.com](https://clojuresync.com)
+ - date_published: 2024-07-07T05:27:07.842388+00:00
+
+ ## Clonaid.com
+ - [http://www.clonaid.com](http://www.clonaid.com)
+ - date_published: 2024-06-29T22:34:26.656437+00:00
+
+ ## Homemade Dildo | DIY Penis Clone Kit | Clone-A-Willy
+ - [https://cloneawilly.com](https://cloneawilly.com)
+ - date_published: 2024-07-09T15:13:43.229989+00:00
+
+ ## Replicas Relojes | Suizos Mejores Rolex Imitacion Watches
+ - [https://www.cloneswatches.com](https://www.cloneswatches.com)
+ - date_published: 2024-10-22T16:06:01.220139+00:00
+
  ## clonoSEQ
  - [http://clonoseq.com](http://clonoseq.com)
  - date_published: 2024-10-16T18:15:28.991855+00:00
@@ -3987,53 +4035,4 @@
  ## CodersLegacy
  - [https://coderslegacy.com](https://coderslegacy.com)
  - date_published: 2020-02-12T00:00:00+00:00
-
- ## codersnotes.com
- - [https://codersnotes.com](https://codersnotes.com)
- - date_published: 2022-06-04T18:53:54+00:00
- - tags: ['programming', 'tech', 'personal']
-
- ## CoderTee
- - [https://codertee.com](https://codertee.com)
- - date_published: 2016-07-20T18:45:50+00:00
-
- ## A community of great programmers and their programming tips
- - [https://coderwall.com](https://coderwall.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Pkv Games : Daftar Situs Judi Bandarq online Terpercaya 2024
- - [http://www.codescapegame.com](http://www.codescapegame.com)
- - date_published: 2024-06-15T11:37:48+00:00
-
- ## Next generation code analysis | CodeScene
- - [https://codescene.com](https://codescene.com)
- - date_published: 2024-07-16T08:32:54+00:00
-
- ## Pluralsight + Code School: Code Courses | Pluralsight
- - [https://angular.codeschool.com](https://angular.codeschool.com)
- - date_published: 2024-06-15T08:21:10+00:00
-
- ## Pluralsight + Code School: Code Courses | Pluralsight
- - [https://codeschool.com](https://codeschool.com)
- - date_published: 2024-05-25T09:11:03.086836+00:00
-
- ## Pluralsight + Code School: Code Courses | Pluralsight
- - [https://coffeescript.codeschool.com](https://coffeescript.codeschool.com)
- - date_published: 2024-05-25T09:10:24.631656+00:00
-
- ## Pluralsight + Code School: Code Courses | Pluralsight
- - [https://fivejs.codeschool.com](https://fivejs.codeschool.com)
- - date_published: 2024-05-11T10:37:24.014097+00:00
-
- ## Codesealer
- - [https://codesealer.com](https://codesealer.com)
- - date_published: 2024-07-09T17:38:17.670317+00:00
-
- ## codeshaunted | code’s haunted
- - [https://codeshaunted.com](https://codeshaunted.com)
- - date_published: 2023-10-25T13:28:26.229731+00:00
-
- ## Sign In • CodeShip
- - [https://app.codeship.com](https://app.codeship.com)
- - date_published: 2024-06-15T08:10:19.683625+00:00
 

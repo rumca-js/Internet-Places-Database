@@ -1,3 +1,135 @@
+ ## Anasayfa
+ - [https://sem.sivas.edu.tr](https://sem.sivas.edu.tr)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa
+ - [https://sivas.edu.tr](https://sivas.edu.tr)
+ - date_published: 2024-05-02T10:28:58.209897+00:00
+
+ ## SBTU | Sivas TTO
+ - [https://sivastto.sivas.edu.tr](https://sivastto.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:28.104521+00:00
+
+ ## SAĞLIK, KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://sks.sivas.edu.tr](http://sks.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:27.844943+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Sivas Bim ve Teknoloji Üniversitesi Aktif Cihaz ve Hat Kullanım İstati
+ - [http://stat.sivas.edu.tr](http://stat.sivas.edu.tr)
+ - date_published: 2024-10-19T17:07:48.190501+00:00
+
+ ## Strateji Geliştirme Daire Başkanlığı - Anasayfa
+ - [http://strateji.sivas.edu.tr](http://strateji.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:43.819168+00:00
+
+ ## Prospective Student - SBTÜ
+ - [https://student.sivas.edu.tr](https://student.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:11.241635+00:00
+
+ ## Sivas Bilim ve Teknoloji Üniversitesi
+ - [https://ubys.sivas.edu.tr](https://ubys.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:15.433716+00:00
+
+ ## Uzaktan Eğitim Uygulama ve Araştırma Merkezi - Anasayfa
+ - [https://uzem.sivas.edu.tr](https://uzem.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:22.690726+00:00
+
+ ## YAPI İŞLERİ TEKNİK DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://yapi.sivas.edu.tr](http://yapi.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:24.545872+00:00
+
+ ## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
+ - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## SBTU | Yeşil Kampüs
+ - [https://yesilkampus.sivas.edu.tr](https://yesilkampus.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:11.599914+00:00
+
+ ## Tarım Bilimleri ve Teknolojileri Fakültesi
+ - [http://ziraat.sivas.edu.tr](http://ziraat.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:47.673988+00:00
+
+ ## Trakya Üniversitesi Merkez Kütüphanesi
+ - [https://katalog.trakya.edu.tr](https://katalog.trakya.edu.tr)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Trakya Üniversitesi Rektörlüğü
+ - [http://www.trakya.edu.tr](http://www.trakya.edu.tr)
+ - date_published: 2024-06-24T09:53:38.555820+00:00
+
+ ## nobel.gen.tr
+ - [http://www.nobel.gen.tr](http://www.nobel.gen.tr)
+ - date_published: 2024-10-29T17:19:18.766038+00:00
+
+ ## Türkiye Cumhuriyeti Adalet Bakanlığı
+ - [http://www.adalet.gov.tr](http://www.adalet.gov.tr)
+ - date_published: 2024-10-19T14:58:52.490226+00:00
+
+ ## Adapazarı Kaymakamlığı
+ - [http://www.adapazari.gov.tr](http://www.adapazari.gov.tr)
+ - date_published: 2024-10-19T14:52:23.796115+00:00
+
+ ## T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı
+ - [https://www.afad.gov.tr](https://www.afad.gov.tr)
+ - date_published: 2024-09-19T19:52:11+00:00
+
+ ## T.C. Aile ve Sosyal Hizmetler Bakanlığı
+ - [https://aile.gov.tr](https://aile.gov.tr)
+ - date_published: 2024-10-19T12:38:37.118517+00:00
+
+ ## AİLEM Engelsiz İletişim Merkezi
+ - [https://ailemtid.aile.gov.tr](https://ailemtid.aile.gov.tr)
+ - date_published: 2024-10-19T12:37:57.267571+00:00
+
+ ## Anasayfa - Alo 176
+ - [http://www.alo176.gov.tr](http://www.alo176.gov.tr)
+ - date_published: 2024-06-20T08:42:37.202257+00:00
+
+ ## Anasayfa | Anayasa Mahkemesi
+ - [http://www.anayasa.gov.tr](http://www.anayasa.gov.tr)
+ - date_published: 2024-10-19T14:53:23.563241+00:00
+
+ ## ATAM | Atatürk Araştırma Merkezi
+ - [https://www.atam.gov.tr](https://www.atam.gov.tr)
+ - date_published: 2024-10-19T15:52:35.175110+00:00
+
+ ## Toplu Katalog Tarama
+ - [http://katalog.ayk.gov.tr](http://katalog.ayk.gov.tr)
+ - date_published: 2024-05-02T10:27:23.380719+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://posta.ayk.gov.tr](https://posta.ayk.gov.tr)
+ - date_published: 2024-10-19T15:53:11.968886+00:00
+
+ ## AYK – Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
+ - [https://www.ayk.gov.tr](https://www.ayk.gov.tr)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Bilgi Teknolojileri ve İletişim Kurumu
+ - [http://btk.gov.tr](http://btk.gov.tr)
+ - date_published: 2024-10-19T17:24:13.892870+00:00
+
+ ## BTK - İNTERNET
+ - [https://internet.btk.gov.tr](https://internet.btk.gov.tr)
+ - date_published: 2024-10-19T17:23:55.800914+00:00
+
+ ## BTK Tüketici Sitesi
+ - [https://tuketici.btk.gov.tr](https://tuketici.btk.gov.tr)
+ - date_published: 2024-10-19T17:24:16.923568+00:00
+
+ ## Veri Kullanım Hesaplayıcı - Bilgi Teknolojileri ve İletişim Kurumu
+ - [http://veri-hesaplayici.btk.gov.tr](http://veri-hesaplayici.btk.gov.tr)
+ - date_published: 2024-10-19T17:24:21.988523+00:00
+
+ ## Akademi
+ - [https://www.btkakademi.gov.tr](https://www.btkakademi.gov.tr)
+ - date_published: 2024-06-17T16:09:00.474817+00:00
+
+ ## Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Anasayfa
+ - [https://cbddo.gov.tr](https://cbddo.gov.tr)
+ - date_published: 2024-06-17T15:00:01.880384+00:00
+
  ## DABİS - Amaç
  - [https://dabis.cbiko.gov.tr](https://dabis.cbiko.gov.tr)
  - date_published: 2024-10-19T13:33:06.678354+00:00
@@ -3947,137 +4079,4 @@ NMHSs DIRECTORS
  ## True North - making stand-out factual content for global audiences
  - [http://www.truenorth.tv](http://www.truenorth.tv)
  - date_published: 2024-07-18T22:03:45.788798+00:00
-
- ## TrueNuff.tv  | Index
- - [https://www.truenuff.tv](https://www.truenuff.tv)
- - date_published: 2024-07-12T22:22:00.815389+00:00
-
- ## Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws.
- - [https://gdpr.tubi.tv](https://gdpr.tubi.tv)
- - date_published: 2024-05-12T07:53:14.703600+00:00
-
- ## Log in
- - [https://elroy.twit.tv](https://elroy.twit.tv)
- - date_published: 2024-06-21T09:57:03+00:00
-
- ## TWiT Live Chat
- - [http://irc.twit.tv](http://irc.twit.tv)
- - date_published: 2023-11-13T18:48:26+00:00
-
- ## Looking for Live Content? | TWiT.TV
- - [https://live.twit.tv](https://live.twit.tv)
- - date_published: 2024-05-06T18:14:49.140812+00:00
-
- ## Podcasts | TWiT.TV
- - [https://podcasts.twit.tv](https://podcasts.twit.tv)
- - date_published: 2024-06-21T09:56:59.090220+00:00
-
- ## Tech Podcasts From People You Trust | TWiT.tv - This Week in Tech
- - [https://twit.tv](https://twit.tv)
- - date_published: 2024-05-04T11:58:33.826239+00:00
-
- ## Twitch Help Portal
- - [https://affiliate.twitch.tv](https://affiliate.twitch.tv)
- - date_published: 2023-06-18T16:52:06+00:00
-
- ## Twitch Blog
- - [https://blog.twitch.tv](https://blog.twitch.tv)
- - date_published: 2023-10-25T22:47:52.990838+00:00
-
- ## Brand Assets
- - [https://brand.twitch.tv](https://brand.twitch.tv)
- - date_published: 2024-05-21T13:46:47+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.m7g.twitch.tv](https://cdn.m7g.twitch.tv)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Twitch
- - [https://clips.twitch.tv](https://clips.twitch.tv)
- - date_published: 2023-11-10T05:49:59.405958+00:00
-
- ## Twitch
- - [https://dashboard.twitch.tv](https://dashboard.twitch.tv)
- - date_published: 2024-07-09T10:04:52.155348+00:00
-
- ## Statuspage | Atlassian
- - [https://devstatus.twitch.tv](https://devstatus.twitch.tv)
- - date_published: 2024-06-17T16:52:00.641597+00:00
-
- ## Home
- - [https://dev.twitch.tv](https://dev.twitch.tv)
- - date_published: 2024-05-02T10:39:21.619261+00:00
-
- ## Twitch
- - [https://embed.twitch.tv](https://embed.twitch.tv)
- - date_published: 2023-12-11T18:31:02.049722+00:00
-
- ## Twitch
- - [https://go.twitch.tv](https://go.twitch.tv)
- - date_published: 2024-06-21T19:39:11.763019+00:00
-
- ## Twitch Help Portal
- - [https://help.twitch.tv](https://help.twitch.tv)
- - date_published: 2023-06-17T14:52:11+00:00
-
- ## Twitch | Twitch
- - [https://meetups.twitch.tv](https://meetups.twitch.tv)
- - date_published: 2024-05-02T10:39:18.225255+00:00
-
- ## Twitch
- - [https://m.twitch.tv](https://m.twitch.tv)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## login - Twitch
- - [https://passport.twitch.tv](https://passport.twitch.tv)
- - date_published: 2024-05-02T10:39:30.319050+00:00
-
- ## Twitch
- - [https://player.twitch.tv](https://player.twitch.tv)
- - date_published: 2024-05-01T05:00:25.261790+00:00
-
- ## Twitch
- - [https://pl.twitch.tv](https://pl.twitch.tv)
- - date_published: 2024-06-03T08:51:56.497999+00:00
-
- ## Twitch
- - [https://sings.twitch.tv](https://sings.twitch.tv)
- - date_published: 2024-06-17T16:51:38.226324+00:00
-
- ## Twitch
- - [https://twitch.tv](https://twitch.tv)
- - date_published: 2023-12-11T17:52:57.347740+00:00
- - tags: ['video streaming', 'game streaming', 'gateway']
-
- ## Twitch Ads |
- - [https://twitchadvertising.tv](https://twitchadvertising.tv)
- - date_published: 2024-01-04T23:04:03+00:00
-
- ## GStreamer conferences
- - [https://gstconf.ubicast.tv](https://gstconf.ubicast.tv)
- - date_published: 2024-05-11T09:05:56.155226+00:00
-
- ## UCSD-TV, UC San Diego Television
- - [http://www.ucsd.tv](http://www.ucsd.tv)
- - date_published: 2024-07-02T01:24:10.217747+00:00
-
- ## Quad Split Sites:
- - [http://podcast.uctv.tv](http://podcast.uctv.tv)
- - date_published: 2018-05-23T18:15:42+00:00
-
- ## UCTV, University of California Television
- - [https://uctv.tv](https://uctv.tv)
- - date_published: 2024-05-07T21:00:43.429278+00:00
-
- ## UEFA.tv
- - [https://www.uefa.tv](https://www.uefa.tv)
- - date_published: 2024-06-10T10:23:26+00:00
-
- ## ufabet 191 แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100% สูงสุด 1000 บาท ไม่มีขั้นต่ำ
- - [https://ufabet191.tv](https://ufabet191.tv)
- - date_published: 2024-07-04T13:51:35+00:00
-
- ## Ultrafeel TV - Feast your eyes on the world's most enchanting art tv channel
- - [http://www.ultrafeel.tv](http://www.ultrafeel.tv)
- - date_published: 2024-11-16T20:25:56.097062+00:00
 

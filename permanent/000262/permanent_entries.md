@@ -1,3 +1,99 @@
+ ## Harvard Club of Southern California
+ - [https://hcsc.clubs.harvard.edu](https://hcsc.clubs.harvard.edu)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## Harvard Computer Society
+ - [http://hcs.harvard.edu](http://hcs.harvard.edu)
+ - date_published: 2024-05-08T19:32:23+00:00
+
+ ## Harvard Club of the United Kingdom
+ - [https://hcuk.clubs.harvard.edu](https://hcuk.clubs.harvard.edu)
+ - date_published: 2024-10-07T21:52:40.891160+00:00
+
+ ## Harvard Divinity School (HDS)
+ - [https://hds.harvard.edu](https://hds.harvard.edu)
+ - date_published: 2024-05-07T22:15:06.697497+00:00
+
+ ## Health Information and Medical Information - Harvard Health
+ - [https://health.harvard.edu](https://health.harvard.edu)
+ - date_published: 2023-10-25T18:52:11.043760+00:00
+
+ ## Department of Human Evolutionary Biology
+ - [https://heb.fas.harvard.edu](https://heb.fas.harvard.edu)
+ - date_published: 2024-06-06T11:30:17.817226+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://helios.law.harvard.edu](https://helios.law.harvard.edu)
+ - date_published: 2024-04-30T04:45:54.999652+00:00
+
+ ## Harvard Humanitarian Initiative
+ - [https://hhi.harvard.edu](https://hhi.harvard.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Laboratory for Intelligent Probabilistic Systems
+ - [https://hips.seas.harvard.edu](https://hips.seas.harvard.edu)
+ - date_published: 2024-06-11T17:50:23+00:00
+
+ ## Harvard International Review
+ - [https://hir.harvard.edu](https://hir.harvard.edu)
+ - date_published: 2024-04-29T03:12:52.103949+00:00
+
+ ## Harvard Kennedy School
+ - [https://hks.harvard.edu](https://hks.harvard.edu)
+ - date_published: 2024-05-09T07:03:39.411243+00:00
+
+ ## Home - Harvard Law School | Harvard Law School
+ - [https://hls.harvard.edu](https://hls.harvard.edu)
+ - date_published: 2023-10-25T18:51:50.060436+00:00
+
+ ## Harvard Museum of the Ancient Near East
+ - [https://hmane.harvard.edu](https://hmane.harvard.edu)
+ - date_published: 2024-08-11T05:19:42+00:00
+
+ ## Harvard Museum of Natural History
+ - [https://hmnh.harvard.edu](https://hmnh.harvard.edu)
+ - date_published: 2024-04-30T04:46:21.952583+00:00
+
+ ## Harvard Museums of Science & Culture
+ - [http://hmsc.harvard.edu](http://hmsc.harvard.edu)
+ - date_published: 2024-07-21T22:38:35+00:00
+
+ ## Home | Harvard Medical School
+ - [https://hms.harvard.edu](https://hms.harvard.edu)
+ - date_published: 2023-10-25T18:51:52.607343+00:00
+
+ ## Harvard Human Resources
+ - [https://hr.harvard.edu](https://hr.harvard.edu)
+ - date_published: 2024-07-02T12:07:04+00:00
+
+ ## Home - Harvard Law School | Human Rights Program
+ - [https://hrp.law.harvard.edu](https://hrp.law.harvard.edu)
+ - date_published: 2024-10-18T21:02:34.120210+00:00
+
+ ## Harvard School of Dental Medicine
+ - [http://hsdm.harvard.edu](http://hsdm.harvard.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Harvard T.H. Chan School of Public Health
+ - [https://hsph.harvard.edu](https://hsph.harvard.edu)
+ - date_published: 2024-07-21T23:10:32.928435+00:00
+
+ ## Harvard University Herbaria & Libraries
+ - [https://huh.harvard.edu](https://huh.harvard.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Harvard University Health Services – To Heal | To Care | To Educate
+ - [https://huhs.harvard.edu](https://huhs.harvard.edu)
+ - date_published: 2024-06-22T11:10:34+00:00
+
+ ## Harvard University Information Technology
+ - [https://huit.harvard.edu](https://huit.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## International Human Rights Clinic
+ - [https://humanrightsclinic.law.harvard.edu](https://humanrightsclinic.law.harvard.edu)
+ - date_published: 2024-07-21T23:18:54.259520+00:00
+
  ## Harvard University Press
  - [https://hup.harvard.edu](https://hup.harvard.edu)
  - date_published: 2024-05-08T08:44:54.987046+00:00
@@ -3914,100 +4010,4 @@ Data Services
  ## KIT-CSE- Startseite
  - [https://www.cse.kit.edu](https://www.cse.kit.edu)
  - date_published: 2024-07-22T12:13:54.048838+00:00
-
- ## KIT - IAI - Institut
- - [https://www.iai.kit.edu](https://www.iai.kit.edu)
- - date_published: 2024-07-02T17:18:00.449014+00:00
-
- ## KIT-INTL  Portal
- - [https://www.intl.kit.edu](https://www.intl.kit.edu)
- - date_published: 2024-07-22T12:13:37.263495+00:00
-
- ## KIT - IRM - Startseite
- - [https://www.irm.kit.edu](https://www.irm.kit.edu)
- - date_published: 2024-07-22T12:13:50.525574+00:00
-
- ## KIT - Karlsruhe House of Young Scientists (KHYS) Startseite
- - [https://www.khys.kit.edu](https://www.khys.kit.edu)
- - date_published: 2024-07-22T12:13:56.098781+00:00
-
- ## KIT - Konvent Startseite
- - [http://www.konvent.kit.edu](http://www.konvent.kit.edu)
- - date_published: 2024-07-22T12:13:46.743043+00:00
-
- ## KIT -  PSE - Startseite
- - [https://www.pse.kit.edu](https://www.pse.kit.edu)
- - date_published: 2024-07-22T12:13:30.961762+00:00
-
- ## KIT - Dienstleistungseinheit Studium und Lehre - Startseite
- - [https://www.sle.kit.edu](https://www.sle.kit.edu)
- - date_published: 2024-07-22T12:13:48.528177+00:00
-
- ## KIT - STS - Startseite
- - [https://www.sts.kit.edu](https://www.sts.kit.edu)
- - date_published: 2024-07-22T12:13:41.977740+00:00
-
- ## KIT - Technologietransfer - Startseite
- - [https://www.techtransfer.kit.edu](https://www.techtransfer.kit.edu)
- - date_published: 2024-07-22T12:13:39.205078+00:00
-
- ## KIT Wirtschaftsinformatik - Startseite
- - [https://www.wirtschaftsinformatik.kit.edu](https://www.wirtschaftsinformatik.kit.edu)
- - date_published: 2024-07-24T04:12:13.705274+00:00
-
- ## Korea University Websites
- - [https://www.korea.edu](https://www.korea.edu)
- - date_published: 2022-02-21T08:07:34+00:00
-
- ## College of Architecture, Planning and Design at Kansas State University
- - [https://apdesign.k-state.edu](https://apdesign.k-state.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## College of Arts and Sciences
- - [https://artsci.k-state.edu](https://artsci.k-state.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://canvas.k-state.edu](https://canvas.k-state.edu)
- - date_published: 2024-05-07T19:16:58.132635+00:00
-
- ## Kansas State University - Acalog ACMS™
- - [https://catalog.k-state.edu](https://catalog.k-state.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## College of Business Administration
- - [https://cba.k-state.edu](https://cba.k-state.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://cisa.k-state.edu](https://cisa.k-state.edu)
- - date_published: 2023-10-19T00:00:00+00:00
-
- ## K-State College of Education
- - [https://coe.k-state.edu](https://coe.k-state.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Recent events update | News and Communications Services | Kansas State University
- - [https://connect.k-state.edu](https://connect.k-state.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Academics | Kansas State University
- - [https://courses.k-state.edu](https://courses.k-state.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.k-state.edu](https://cs.k-state.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://eid.k-state.edu](https://eid.k-state.edu)
- - date_published: 2024-07-01T11:14:54.064117+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.k-state.edu](https://engg.k-state.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Events Calendar - Events
- - [https://events.k-state.edu](https://events.k-state.edu)
- - date_published: 2024-07-01T11:14:22.079055+00:00
 

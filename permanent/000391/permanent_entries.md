@@ -1,3 +1,124 @@
+ ## Home - IEEE Technology and Society
+ - [https://technologyandsociety.org](https://technologyandsociety.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The Technology Source Archives
+ - [https://technologysource.org](https://technologysource.org)
+ - date_published: 2024-05-07T21:37:47.368742+00:00
+
+ ## TechnoServe – Homepage
+ - [http://www.technoserve.org](http://www.technoserve.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## TO Hackathon
+ - [https://hacks.techoptimum.org](https://hacks.techoptimum.org)
+ - date_published: 2024-06-20T15:20:43.239734+00:00
+
+ ## The Tech Oversight Project | Punish Bad Actions from Big Tech.
+ - [https://techoversight.org](https://techoversight.org)
+ - date_published: 2024-07-19T15:07:31.121938+00:00
+
+ ## Tech Policy Lab | University of Washington
+ - [https://techpolicylab.org](https://techpolicylab.org)
+ - date_published: 2024-05-07T22:26:42.388092+00:00
+
+ ## ¡Hola! - Techqueria
+ - [https://techqueria.org](https://techqueria.org)
+ - date_published: 2024-10-31T07:43:16+00:00
+
+ ## Techrights — Welcome to the New Techrights
+ - [https://techrights.org](https://techrights.org)
+ - date_published: 2023-12-21T21:42:23+00:00
+ - tags: ['tech']
+
+ ## Home | Technology Science
+ - [http://techscience.org](http://techscience.org)
+ - date_published: 2021-11-10T00:00:00+00:00
+
+ ## Tech Solidarity
+ - [https://techsolidarity.org](https://techsolidarity.org)
+ - date_published: 2023-02-24T21:13:38+00:00
+
+ ## Home - Techstars Foundation
+ - [https://techstars.org](https://techstars.org)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Home - Tech Talent Project
+ - [https://techtalentproject.org](https://techtalentproject.org)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Techtonica: Bridging the Tech Gap
+ - [https://techtonica.org](https://techtonica.org)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Tech To The Rescue Project Marketplace
+ - [https://app.techtotherescue.org](https://app.techtotherescue.org)
+ - date_published: 2024-09-15T12:35:38.762218+00:00
+
+ ## Tech To The Rescue
+ - [https://techtotherescue.org](https://techtotherescue.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Tech Transparency Project
+ - [https://www.techtransparencyproject.org](https://www.techtransparencyproject.org)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## The UK's technology trade association
+ - [https://www.techuk.org](https://www.techuk.org)
+ - date_published: 2024-06-20T22:14:18.744749+00:00
+
+ ## TWC Newsletter
+ - [https://news.techworkerscoalition.org](https://news.techworkerscoalition.org)
+ - date_published: 2024-08-18T14:01:43.621337+00:00
+
+ ## Tech Workers Coalition
+ - [https://techworkerscoalition.org](https://techworkerscoalition.org)
+ - date_published: 2024-08-02T17:59:53.019931+00:00
+
+ ## Home | TechXcelerate
+ - [https://www.techxcelerate.org](https://www.techxcelerate.org)
+ - date_published: 2024-06-20T15:18:27.595211+00:00
+
+ ## The Center for the Study of Technology and Society
+ - [https://tecsoc.org](https://tecsoc.org)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## [ ted davis ]
+ - [http://teddavis.org](http://teddavis.org)
+ - date_published: 2021-11-05T10:24:44+00:00
+
+ ## Home
+ - [https://teesriverrescue.org](https://teesriverrescue.org)
+ - date_published: 2024-08-07T03:55:51+00:00
+
+ ## TEEX.ORG
+ - [https://teex.org](https://teex.org)
+ - date_published: 2015-09-01T10:53:44+00:00
+
+ ## Tegmark Group
+ - [https://tegmark.org](https://tegmark.org)
+ - date_published: 2024-04-10T18:55:20+00:00
+
+ ## Tehilim Hotline
+ - [http://tehilimhotline.org](http://tehilimhotline.org)
+ - date_published: 2024-06-27T07:47:44.218776+00:00
+
+ ## TehnoBlog.org
+ - [https://tehnoblog.org](https://tehnoblog.org)
+ - date_published: 2024-11-07T17:56:34+00:00
+
+ ## TEI: Text Encoding Initiative
+ - [https://www.tei-c.org](https://www.tei-c.org)
+ - date_published: 2024-06-24T10:14:09.527006+00:00
+
+ ## Teichmann Lab
+ - [http://www.teichlab.org](http://www.teichlab.org)
+ - date_published: 2024-09-02T15:24:25.490867+00:00
+
+ ## TEKNOFEST I The Festival Whose Feet Don't Touch the Ground
+ - [https://teknofest.org](https://teknofest.org)
+ - date_published: 2024-06-17T15:37:20.170388+00:00
+
  ## Tékumel Foundation - Home
  - [http://www.tekumelfoundation.org](http://www.tekumelfoundation.org)
  - date_published: 2024-04-05T00:00:00+00:00
@@ -333,6 +454,10 @@
  ## Terrestres | La revue des écologies radicales
  - [https://www.terrestres.org](https://www.terrestres.org)
  - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Terrible Software
+ - [https://terriblesoftware.org](https://terriblesoftware.org)
+ - date_published: 2024-12-06T20:35:13.409089+00:00
 
  ## Terrier IR Platform - Homepage
  - [http://terrier.org](http://terrier.org)
@@ -2036,7 +2161,7 @@
  ## The Movie Database (TMDB)
  - [https://themoviedb.org](https://themoviedb.org)
  - date_published: 2024-04-26T17:44:21+00:00
- - tags: ['page rank', 'actors', 'movies', 'movie database']
+ - tags: ['ranking page', 'actors', 'movies', 'movie database']
 
  ## The Maritime Republic of Eastport – Fun with a purpose!
  - [https://themre.org](https://themre.org)
@@ -3914,129 +4039,4 @@
  ## Transnational Litigation Blog
  - [https://tlblog.org](https://tlblog.org)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## TLDP-ES: Página Principal
- - [http://es.tldp.org](http://es.tldp.org)
- - date_published: 2021-01-12T12:15:08+00:00
-
- ## ILDP | PLUTO Project
- - [http://it.tldp.org](http://it.tldp.org)
- - date_published: 2024-05-27T10:19:46.747635+00:00
-
- ## The Linux Documentation Project
- - [https://tldp.org](https://tldp.org)
- - date_published: 2023-10-25T22:14:58.578899+00:00
- - tags: ['linux documentation']
-
- ## The Linux Documentation Project
- - [http://wiki.tldp.org](http://wiki.tldp.org)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## TL;DR AI are better community-written abstracts for research papers
- - [https://tldr-ai.org](https://tldr-ai.org)
- - date_published: 2024-04-30T05:34:22+00:00
-
- ## Test Page for the HTTP Server on Fedora
- - [http://gallery.tlhiv.org](http://gallery.tlhiv.org)
- - date_published: 2023-02-20T17:42:39+00:00
-
- ## Troy Henderson
- - [http://tlhiv.org](http://tlhiv.org)
- - date_published: 2024-05-11T07:08:48.241088+00:00
-
- ## Transmission Line Speakers
- - [http://www.t-linespeakers.org](http://www.t-linespeakers.org)
- - date_published: 2013-02-08T03:22:33+00:00
-
- ## The Liminal Learning Portal
- - [http://tllp.org](http://tllp.org)
- - date_published: 2024-09-08T00:00:00+00:00
-
- ## The LinuxLink TechShow
- - [https://tllts.org](https://tllts.org)
- - date_published: 2024-05-01T05:29:08.070324+00:00
-
- ## TLSNotary
- - [https://tlsnotary.org](https://tlsnotary.org)
- - date_published: 2024-07-17T22:37:57+00:00
-
- ## T-machine.org – Hi, I'm Adam. Email me about: CTOs, Mobile/iOS, Project Management, and Development
- - [http://t-machine.org](http://t-machine.org)
- - date_published: 2024-07-12T22:09:58.602677+00:00
-
- ## TMAMT
- - [https://tmamt.org](https://tmamt.org)
- - date_published: 2024-09-18T08:32:36.297966+00:00
-
- ## DTW25 Ignite | TM Forum | Telecommunications Event 2025
- - [https://dtw.tmforum.org](https://dtw.tmforum.org)
- - date_published: 2024-10-30T22:46:02.871868+00:00
-
- ## Transactions on Machine Learning Research
- - [http://tmlr.org](http://tmlr.org)
- - date_published: 2024-07-06T04:01:21+00:00
-
- ## Home - TMMi
- - [https://www.tmmi.org](https://www.tmmi.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## פרויקט סינון העפר מהר הבית
- - [http://tmsifting.org](http://tmsifting.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Micropalaeontological Society – Towards the advancement of the education of the public in the study of Micropalaeontology
- - [http://www.tmsoc.org](http://www.tmsoc.org)
- - date_published: 2024-08-18T09:24:25.694117+00:00
-
- ## TMT International Observatory
- - [http://www.tmt.org](http://www.tmt.org)
- - date_published: 2024-08-18T20:13:03.219251+00:00
-
- ## Tmura – The Israeli Public Service Venture Fund | Israel's most successful venture fund, with the best returns.
- - [http://www.tmura.org](http://www.tmura.org)
- - date_published: 2024-09-16T18:37:12+00:00
-
- ## TMU Tutoring Program
- - [https://tmututoring.org](https://tmututoring.org)
- - date_published: 2024-06-22T05:51:46.697954+00:00
-
- ## TMY chain
- - [https://tmychain.org](https://tmychain.org)
- - date_published: 2024-09-24T00:43:57.546976+00:00
-
- ## Welcome - Tennessee Arts Commission
- - [https://tnartscommission.org](https://tnartscommission.org)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## The Nature Conservancy
- - [https://tnc.org](https://tnc.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## The Nature Conservancy Gala 2024: Climate Crossroads | Powered by Givergy
- - [https://www.tncgala2024.org](https://www.tncgala2024.org)
- - date_published: 2024-09-25T18:05:39.969142+00:00
-
- ## The Nature Conservancy México
- - [https://tncmx.org](https://tncmx.org)
- - date_published: 2024-05-08T10:42:34.636051+00:00
-
- ## opportunity only knocks if you have a door | Tenderloin Neighborhood Development Corporation
- - [http://www.tndc.org](http://www.tndc.org)
- - date_published: 2024-06-27T23:45:50+00:00
-
- ## TN eCampus: Online Degrees in Tennessee | Online Education
- - [http://www.tnecampus.org](http://www.tnecampus.org)
- - date_published: 2024-07-01T15:44:05.836868+00:00
-
- ## IllustrisTNG - Main
- - [https://tng-project.org](https://tng-project.org)
- - date_published: 2023-11-13T18:48:08.058674+00:00
-
- ## TN History For Kids - Home
- - [https://tnhistoryforkids.org](https://tnhistoryforkids.org)
- - date_published: 2024-02-08T22:08:34.236550+00:00
-
- ## Transnational Institute | Ideas into Movement
- - [https://www.tni.org](https://www.tni.org)
- - date_published: 2024-07-25T00:00:00+00:00
 

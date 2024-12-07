@@ -1,3 +1,103 @@
+ ## TAU International
+ - [https://international.tau.ac.il](https://international.tau.ac.il)
+ - date_published: 2024-07-21T21:13:18+00:00
+
+ ## היחידה ללימודי שפות
+ - [http://languages.tau.ac.il](http://languages.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## הפקולטה למשפטים ע"ש בוכמן
+ - [https://law.tau.ac.il](https://law.tau.ac.il)
+ - date_published: 2024-07-21T22:16:55+00:00
+
+ ## אתר הספריות
+ - [https://libraries.tau.ac.il](https://libraries.tau.ac.il)
+ - date_published: 2024-07-24T07:58:28.734420+00:00
+
+ ## הפקולטה למדעי החיים ע"ש ג'ורג ס' וייז
+ - [https://lifesci.tau.ac.il](https://lifesci.tau.ac.il)
+ - date_published: 2024-07-24T07:58:44.646659+00:00
+
+ ## הפקולטה למדעי הרפואה והבריאות
+ - [https://med.tau.ac.il](https://med.tau.ac.il)
+ - date_published: 2024-07-24T07:57:23.480080+00:00
+
+ ## עמוד הבית
+ - [https://m.tau.ac.il](https://m.tau.ac.il)
+ - date_published: 2024-07-24T07:57:51.287075+00:00
+
+ ## Nano Center
+ - [https://nano.tau.ac.il](https://nano.tau.ac.il)
+ - date_published: 2024-07-24T07:58:07.649976+00:00
+
+ ## עמוד הבית
+ - [http://new.tau.ac.il](http://new.tau.ac.il)
+ - date_published: 2024-07-24T07:57:25.645710+00:00
+
+ ## אוניברסיטת תל אביב לנוער - נוער שוחר מדע
+ - [https://noar.tau.ac.il](https://noar.tau.ac.il)
+ - date_published: 2024-07-24T07:57:55.692108+00:00
+
+ ## ארגון הסגל המינהלי
+ - [https://ovdim.tau.ac.il](https://ovdim.tau.ac.il)
+ - date_published: 2024-07-24T07:57:48.388726+00:00
+
+ ## המרכז להתמודדות עם מגפות
+ - [https://pandemics.tau.ac.il](https://pandemics.tau.ac.il)
+ - date_published: 2024-07-24T07:58:27.626002+00:00
+
+ ## מיזם האקלים של אוניברסיטת תל אביב
+ - [https://planetzero.tau.ac.il](https://planetzero.tau.ac.il)
+ - date_published: 2024-07-24T07:57:33.949921+00:00
+
+ ## Quantum Science and Technology
+ - [https://quantum.tau.ac.il](https://quantum.tau.ac.il)
+ - date_published: 2024-07-24T07:57:40.555750+00:00
+
+ ## הצטיינות הרקטור
+ - [https://rector.tau.ac.il](https://rector.tau.ac.il)
+ - date_published: 2024-07-24T07:58:10.375618+00:00
+
+ ## רשות המחקר
+ - [http://research-authority.tau.ac.il](http://research-authority.tau.ac.il)
+ - date_published: 2024-07-24T07:57:52.891369+00:00
+
+ ## לשכת סגן הנשיא למחקר ופיתוח
+ - [http://research-vp.tau.ac.il](http://research-vp.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Добро пожаловать в Тель-Авивский университет
+ - [https://russian.tau.ac.il](https://russian.tau.ac.il)
+ - date_published: 2024-07-24T07:58:50.241756+00:00
+
+ ## Edmond J. Safra Center for Bioinformatics
+ - [https://safrabio.cs.tau.ac.il](https://safrabio.cs.tau.ac.il)
+ - date_published: 2024-08-06T21:26:17+00:00
+
+ ## בית הספר סגול למדעי המוח
+ - [https://sagol.tau.ac.il](https://sagol.tau.ac.il)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## ברוכים הבאים לספרייה
+ - [https://scilib.tau.ac.il](https://scilib.tau.ac.il)
+ - date_published: 2024-08-07T10:24:17+00:00
+
+ ## Sagol Center for Regenerative Medicine
+ - [https://scrm.tau.ac.il](https://scrm.tau.ac.il)
+ - date_published: 2024-08-19T00:33:53+00:00
+
+ ## מוזיאון הטבע ע"ש שטיינהרדט
+ - [https://smnh.tau.ac.il](https://smnh.tau.ac.il)
+ - date_published: 2024-07-24T07:58:17.703441+00:00
+
+ ## הפקולטה למדעי החברה
+ - [http://social-sciences.tau.ac.il](http://social-sciences.tau.ac.il)
+ - date_published: 2024-07-24T07:58:40.973053+00:00
+
+ ## הספרייה למדעי החברה, לניהול ולחינוך
+ - [http://soclib.tau.ac.il](http://soclib.tau.ac.il)
+ - date_published: 2024-07-24T07:57:30.380858+00:00
+
  ## Parasol Foundation International LL.M. Program
  - [http://studylaw.tau.ac.il](http://studylaw.tau.ac.il)
  - date_published: 2024-07-21T21:15:11+00:00
@@ -3913,104 +4013,4 @@ Engineering & Medical Students,Scholarships for Medical Students in India, Schol
  ## Home - Lights to illuminate homes and hearts
  - [http://www.steller.co.in](http://www.steller.co.in)
  - date_published: 2024-10-15T21:33:54.296444+00:00
-
- ## Industrial 3D Printing & Additive Manufacturing
- - [https://www.stratasys.co.in](https://www.stratasys.co.in)
- - date_published: 2024-06-20T13:54:38.977942+00:00
-
- ## Superprof - The Community For Home Tutors
- - [https://superprof.co.in](https://superprof.co.in)
- - date_published: 2024-06-15T01:28:20.335966+00:00
-
- ## ₹1,000 - ₹10,000 Instant Personal Loans | Tala Loan App India
- - [https://tala.co.in](https://tala.co.in)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.tanishq.co.in](https://www.tanishq.co.in)
- - date_published: 2024-07-15T05:01:28.285154+00:00
-
- ## Thinkinspire -
- - [https://thinkinspire.co.in](https://thinkinspire.co.in)
- - date_published: 2024-09-18T13:56:35+00:00
-
- ## TNQTech: Scholarly Excellence. AI-Driven Efficiency.
- - [http://www.tnq.co.in](http://www.tnq.co.in)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Football transfers, rumours, market values and news
- - [https://www.transfermarkt.co.in](https://www.transfermarkt.co.in)
- - date_published: 2024-07-24T06:23:31.387025+00:00
-
- ## TrustDeals.co.in - Save with exclusive discount codes, vouchers and coupons
- - [https://www.trustdeals.co.in](https://www.trustdeals.co.in)
- - date_published: 2024-08-18T12:00:49+00:00
-
- ## Uchi Embedded Solutions | Welcome.
- - [http://uchiembedded.co.in](http://uchiembedded.co.in)
- - date_published: 2024-07-05T16:58:16+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.co.in](https://visa.co.in)
- - date_published: 2024-05-12T03:59:47.088765+00:00
-
- ## VISU Poly Products (P) Ltd
- - [https://www.visu.co.in](https://www.visu.co.in)
- - date_published: 2024-10-15T21:39:50.435491+00:00
-
- ## Vivacious Designs
- - [http://vivaciousdesigns.co.in](http://vivaciousdesigns.co.in)
- - date_published: 2024-07-17T07:45:34.708930+00:00
-
- ## Virtual Labs
- - [https://vlab.co.in](https://vlab.co.in)
- - date_published: 2024-06-12T03:27:04.911879+00:00
-
- ## Vlabs Central Outreach Portal
- - [https://centraloutreach.vlabs.co.in](https://centraloutreach.vlabs.co.in)
- - date_published: 2023-12-14T06:50:01+00:00
-
- ## WebConfig
- - [http://www.webconfig.co.in](http://www.webconfig.co.in)
- - date_published: 2024-09-14T22:11:19.397449+00:00
-
- ## Website Design Company In Bangalore | Web Universals
- - [https://webuniversals.co.in](https://webuniversals.co.in)
- - date_published: 2021-08-18T05:07:21+00:00
-
- ## WeWork India | Coworking Spaces | Shared Office Spaces
- - [https://wework.co.in](https://wework.co.in)
- - date_published: 2024-09-18T11:06:00.591761+00:00
-
- ## wjp.co.in
- - [http://www.wjp.co.in](http://www.wjp.co.in)
- - date_published: 2024-10-29T17:38:50.222531+00:00
-
- ## XPPen | Official India Store | Graphic Tablets & Display Tablets
- - [https://xp-pen.co.in](https://xp-pen.co.in)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## ZEISS India
- - [https://www.zeiss.co.in](https://www.zeiss.co.in)
- - date_published: 2024-06-17T01:59:44.734317+00:00
-
- ## Zense
- - [http://zense.co.in](http://zense.co.in)
- - date_published: 2021-08-20T10:58:44+00:00
-
- ## Compaq: Buy TVs, Smart Watches & Home Appliances | Compaq India
- - [https://compaq.com.in](https://compaq.com.in)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Satish B. Setty
- - [https://satish.com.in](https://satish.com.in)
- - date_published: 2024-01-09T10:50:02.675830+00:00
-
- ## Landing Page - Ashoka University: Leading Liberal Arts and Sciences University
- - [https://cs.ashoka.edu.in](https://cs.ashoka.edu.in)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## BITS Law School – Mumbai: A Benchmark for Legal Education
- - [https://www.bitslawschool.edu.in](https://www.bitslawschool.edu.in)
- - date_published: 2024-08-11T11:37:21.256356+00:00
 

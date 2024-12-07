@@ -1,3 +1,85 @@
+ ## The New JFK Show Blog – New JFK Assassination Research
+ - [http://merdist.com](http://merdist.com)
+ - date_published: 2024-09-16T19:55:55.473131+00:00
+
+ ## MereCivilian
+ - [https://merecivilian.com](https://merecivilian.com)
+ - date_published: 2023-10-25T16:01:29.064207+00:00
+
+ ## Unfiltered by MereCivilian
+ - [https://m.merecivilian.com](https://m.merecivilian.com)
+ - date_published: 2024-08-07T20:49:16.616283+00:00
+
+ ## Dotdash Meredith - America's Largest Digital & Print Publisher
+ - [https://meredith.com](https://meredith.com)
+ - date_published: 2024-04-29T04:14:16.793749+00:00
+
+ ## Dotdash Meredith Customer Support
+ - [https://websupport.meredith.com](https://websupport.meredith.com)
+ - date_published: 2024-06-30T04:17:41.885679+00:00
+
+ ## Site Maintenance
+ - [https://meredithangwin.com](https://meredithangwin.com)
+ - date_published: 2024-08-18T06:48:37.385707+00:00
+
+ ## Meredith Owens
+ - [https://www.meredithowens.com](https://www.meredithowens.com)
+ - date_published: 2024-10-31T15:40:51.150781+00:00
+
+ ## Cryptocurrency Exchange Software Development Company - Merehead
+ - [https://exchange.merehead.com](https://exchange.merehead.com)
+ - date_published: 2024-09-24T21:21:32.223767+00:00
+
+ ## Blockchain Development Company
+ - [https://merehead.com](https://merehead.com)
+ - date_published: 2024-06-16T04:15:39.135367+00:00
+
+ ## Merentha
+ - [https://merentha.com](https://merentha.com)
+ - date_published: 1996-01-01T00:00:00+00:00
+
+ ## Merentha Entertainment
+ - [https://merentha-entertainment.com](https://merentha-entertainment.com)
+ - date_published: 2024-05-12T02:45:32.995619+00:00
+
+ ## Mere Orthodoxy | Christianity, Politics, and Culture
+ - [http://mereorthodoxy.com](http://mereorthodoxy.com)
+ - date_published: 2024-06-22T00:17:44+00:00
+
+ ## Mere Records
+ - [http://www.mererecords.com](http://www.mererecords.com)
+ - date_published: 2024-07-10T10:35:05.479000+00:00
+
+ ## Mere Rhetoric | Omri Ceren
+ - [http://www.mererhetoric.com](http://www.mererhetoric.com)
+ - date_published: 2018-09-02T12:46:01+00:00
+
+ ## Official Home Page of Meresha
+ - [https://meresha.com](https://meresha.com)
+ - date_published: 2023-12-30T22:22:49.884747+00:00
+ - tags: ['personal']
+
+ ## Mer et Marine - Actualités maritimes, défense, marine marchande
+ - [http://www.meretmarine.com](http://www.meretmarine.com)
+ - date_published: 2024-06-21T09:47:15+00:00
+
+ ## Merge 104.8 - Listen Live!
+ - [https://merge1048.com](https://merge1048.com)
+ - date_published: 2024-04-30T08:03:40.387656+00:00
+ - tags: ['radio station']
+
+ ## Merge Games
+ - [http://www.mergegames.com](http://www.mergegames.com)
+ - date_published: 2024-10-25T10:58:40.624861+00:00
+
+ ## MergeQueue | Automate your Github workflows
+ - [https://mergequeue.com](https://mergequeue.com)
+ - date_published: 2024-04-30T06:28:57.965283+00:00
+
+ ## Merge Records - Artists, News, Music - Shop Vinyl, Merch, Music and More
+ - [https://www.mergerecords.com](https://www.mergerecords.com)
+ - date_published: 2024-09-16T03:35:13.900713+00:00
+
  ## MergeSociety - Learn Web Development
  - [https://mergesociety.com](https://mergesociety.com)
  - date_published: 2024-10-11T09:55:21.830909+00:00
@@ -661,7 +743,7 @@
  ## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
  - [https://metacritic.com](https://metacritic.com)
  - date_published: 2023-10-24T20:20:31.185064+00:00
- - tags: ['page rank']
+ - tags: ['ranking page']
 
  ## Certified Salesforce PDO Partner for ISV App Integration & Development
  - [https://europe.metacube.com](https://europe.metacube.com)
@@ -3980,85 +4062,4 @@
  ## Info
  - [https://connect.microsoft.com](https://connect.microsoft.com)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## Microsoft Copilot: Your everyday AI companion
- - [https://copilot.microsoft.com](https://copilot.microsoft.com)
- - date_published: 2024-04-29T02:49:49.964886+00:00
- - tags: ['artificial intelligence']
-
- ## Microsoft Copilot Studio
- - [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
- - date_published: 2024-07-02T23:45:56.856874+00:00
-
- ## Free templates for social media, documents & designs | Microsoft Create
- - [https://create.microsoft.com](https://create.microsoft.com)
- - date_published: 2024-10-11T20:00:08.963148+00:00
-
- ## Microsoft Customer Stories
- - [https://customers.microsoft.com](https://customers.microsoft.com)
- - date_published: 2024-05-08T07:27:26.402375+00:00
-
- ## Sign in to your account
- - [https://customervoice.microsoft.com](https://customervoice.microsoft.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date_published: 2023-10-25T16:03:31.208056+00:00
-
- ## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date_published: 2023-10-25T10:14:03.592606+00:00
-
- ## Microsoft Developer Community
- - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
- - date_published: 2024-05-08T07:27:28.574938+00:00
-
- ## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date_published: 2024-01-15T13:49:47.590358+00:00
-
- ## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
- - [https://devicepartner.microsoft.com](https://devicepartner.microsoft.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Microsoft Loop - Think, plan and create together
- - [https://dev.loop.microsoft.com](https://dev.loop.microsoft.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Microsoft developer portal
- - [https://devportal.microsoft.com](https://devportal.microsoft.com)
- - date_published: 2024-06-15T15:56:02.532132+00:00
-
- ## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date_published: 2023-10-25T11:30:47.045143+00:00
-
- ## .NET | Build. Test. Deploy.
- - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
- - date_published: 2024-04-30T02:31:00.357576+00:00
-
- ## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
- - [https://download.microsoft.com](https://download.microsoft.com)
- - date_published: 2024-05-01T07:31:51.863543+00:00
-
- ## Business Applications | Microsoft Dynamics 365
- - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
- - date_published: 2024-04-28T02:27:06.759348+00:00
-
- ## Microsoft Power Platform Partner Hub
- - [https://dynamicspartners.transform.microsoft.com](https://dynamicspartners.transform.microsoft.com)
- - date_published: 2024-08-07T22:13:16.659300+00:00
-
- ## Microsoft Education Blog
- - [https://educationblog.microsoft.com](https://educationblog.microsoft.com)
- - date_published: 2024-05-31T01:54:07.750114+00:00
-
- ## Educator Center Overview - Microsoft Learn Educator Center
- - [https://education.microsoft.com](https://education.microsoft.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Microsoft Entra admin center
- - [https://entra.microsoft.com](https://entra.microsoft.com)
- - date_published: 2024-06-29T04:16:00+00:00
 

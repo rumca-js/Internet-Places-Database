@@ -1,3 +1,131 @@
+ ## Home - Technical University of Cluj-Napoca Research
+ - [http://research.utcluj.ro](http://research.utcluj.ro)
+ - date_published: 2024-06-22T11:55:52+00:00
+
+ ## Think outside the box - SAS UTCN
+ - [https://sas.utcluj.ro](https://sas.utcluj.ro)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Acasa - Extensia Universitara Satu Mare
+ - [https://satumare.utcluj.ro](https://satumare.utcluj.ro)
+ - date_published: 2022-07-07T20:09:00+00:00
+
+ ## Acasa - Facultatea de Stiinte
+ - [http://stiinte.utcluj.ro](http://stiinte.utcluj.ro)
+ - date_published: 2024-06-22T11:56:36.615924+00:00
+
+ ## Universitatea TehnicÄ din Cluj-Napoca
+ - [https://utcluj.ro](https://utcluj.ro)
+ - date_published: 2024-06-22T11:56:44.702996+00:00
+
+ ## Universitatea Tehnica Cluj - Napoca
+ - [https://viziteaza.utcluj.ro](https://viziteaza.utcluj.ro)
+ - date_published: 2019-01-29T16:01:11+00:00
+
+ ## Departamentul de Informatica
+ - [https://websinu.utcluj.ro](https://websinu.utcluj.ro)
+ - date_published: 2024-06-22T11:56:15.738232+00:00
+
+ ## Acasă - Extensia Universitara Zalau
+ - [https://zalau.utcluj.ro](https://zalau.utcluj.ro)
+ - date_published: 2024-04-15T20:08:00+00:00
+
+ ## Utilaje pentru gradina si gospodarii - utilaria.ro
+ - [https://utilaria.ro](https://utilaria.ro)
+ - date_published: 2024-06-12T02:33:25.135709+00:00
+
+ ## UTV
+ - [https://www.utv.ro](https://www.utv.ro)
+ - date_published: 2024-08-18T08:47:38.596877+00:00
+
+ ## Acasa - UVT
+ - [https://www.uvt.ro](https://www.uvt.ro)
+ - date_published: 2023-09-08T10:00:39+00:00
+
+ ## valinet
+ - [https://valinet.ro](https://valinet.ro)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Calculator — Valori Nutritionale
+ - [https://valori-nutritionale.ro](https://valori-nutritionale.ro)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Vlad Niculae
+ - [http://vene.ro](http://vene.ro)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.ro](https://www.victronenergy.ro)
+ - date_published: 2024-06-21T18:32:19+00:00
+
+ ## Viimeinen metro
+ - [https://viimeinenmet.ro](https://viimeinenmet.ro)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Consultant digital / Growth hacker - Viorel Mocanu
+ - [https://viorelmocanu.ro](https://viorelmocanu.ro)
+ - date_published: 2021-06-24T00:00:00+00:00
+
+ ## Visa, un lider global in plati digital
+ - [https://visa.ro](https://visa.ro)
+ - date_published: 2024-05-12T03:59:37.386971+00:00
+
+ ## Vlad Ilie | Software Engineer · Work with NodeJS, WordPress, Neo4j
+ - [https://vladilie.ro](https://vladilie.ro)
+ - date_published: 2024-05-11T10:09:30.335557+00:00
+
+ ## Vocaroo | Online voice recorder
+ - [https://voca.ro](https://voca.ro)
+ - date_published: 2024-04-27T06:50:41+00:00
+
+ ## Vodafone
+ - [https://factura.vodafone.ro](https://factura.vodafone.ro)
+ - date_published: 2024-06-29T13:40:43.365248+00:00
+
+ ## Vodafone: Tehnologie | Telefonie | Televiziune și Internet | Gadgeturi | Oferte la portare
+ - [https://vodafone.ro](https://vodafone.ro)
+ - date_published: 2024-05-07T10:57:39.841960+00:00
+
+ ## Vodafone Televiziune şi Internet Fix
+ - [https://zoom.vodafone.ro](https://zoom.vodafone.ro)
+ - date_published: 2024-06-29T13:40:42.829346+00:00
+
+ ## Volution Notes
+ - [https://notes.volution.ro](https://notes.volution.ro)
+ - date_published: 2023-10-25T22:35:41.081523+00:00
+
+ ## Web2Unu Blog - All things webby
+ - [http://web2unu.ro](http://web2unu.ro)
+ - date_published: 2024-07-09T08:21:33.404896+00:00
+
+ ## WebDigital – agenție specializată în PPC marketing
+ - [https://webdigital.ro](https://webdigital.ro)
+ - date_published: 2024-09-19T15:00:32.255127+00:00
+
+ ## Servere VPS SSD in Romania la preturi foarte mici | VPS Cloud Hosting
+ - [http://www.webland.ro](http://www.webland.ro)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Program pentru creare site web gratuit | WebWave
+ - [https://webwave.ro](https://webwave.ro)
+ - date_published: 2024-09-14T07:50:49.544463+00:00
+
+ ## WITTENSTEIN România
+ - [https://www.wittenstein.ro](https://www.wittenstein.ro)
+ - date_published: 2024-07-15T04:10:28.808860+00:00
+
+ ## WWF Romania | Construim un viitor în care oamenii trăiesc în armonie cu natura
+ - [https://wwf.ro](https://wwf.ro)
+ - date_published: 2024-05-08T00:00:26.754812+00:00
+
+ ## Lounge by Zalando - outletul online pentru modă și casă
+ - [https://www.zalando-lounge.ro](https://www.zalando-lounge.ro)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## ZEISS România
+ - [https://www.zeiss.ro](https://www.zeiss.ro)
+ - date_published: 2024-09-16T07:56:09.734864+00:00
+
  ## Experiențe Pop Culture • Zile și Nopți
  - [https://zilesinopti.ro](https://zilesinopti.ro)
  - date_published: 2024-10-29T09:08:32.526595+00:00
@@ -3895,135 +4023,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Агентство Лангуст: грамматика английского языка, изучение иностранных языков
  - [http://www.langust.ru](http://www.langust.ru)
  - date_published: 2024-06-30T07:25:00.013934+00:00
-
- ## Attention Required! | Cloudflare
- - [http://latinofiesta.ru](http://latinofiesta.ru)
- - date_published: 2024-06-24T09:48:15.426873+00:00
-
- ## Website leakedsource.ru is ready. The content is to be added
- - [https://leakedsource.ru](https://leakedsource.ru)
- - date_published: 2024-06-19T22:42:50.012882+00:00
-
- ## Законы, кодексы и нормативно-правовые акты Российской федерации
- - [https://legalacts.ru](https://legalacts.ru)
- - date_published: 2024-08-19T19:20:54.549044+00:00
-
- ## Legion-Media
- - [http://legion-media.ru](http://legion-media.ru)
- - date_published: 2024-09-04T06:21:55.052349+00:00
-
- ## Лента.Ру
- - [https://lenta.ru](https://lenta.ru)
- - date_published: 2024-06-28T21:43:08.095173+00:00
-
- ## Евгений Лепёхин
- - [https://lepekhin.ru](https://lepekhin.ru)
- - date_published: 2024-04-29T14:11:46.541772+00:00
- - tags: ['personal']
-
- ## Поисковая система LetSearch.ru
- - [https://letsearch.ru](https://letsearch.ru)
- - date_published: 2024-06-10T07:07:10.834164+00:00
- - tags: ['search engine']
-
- ## L'Etoile
- - [https://www.letu.ru](https://www.letu.ru)
- - date_published: 2024-06-21T14:37:31.707533+00:00
-
- ## Где россияне проводят летний отпуск
- - [https://levada.ru](https://levada.ru)
- - date_published: 2024-10-18T22:40:29.104116+00:00
-
- ## Мобильный LiveInternet
- - [http://www.li.ru](http://www.li.ru)
- - date_published: 2024-06-20T13:32:20.219651+00:00
-
- ## LibertyCity // Новости GTA 6, новые моды на GTA 5, GTA San Andreas
- - [https://libertycity.ru](https://libertycity.ru)
- - date_published: 2024-08-19T12:50:35.409998+00:00
-
- ## Лайфхакер — советы и лайфхаки, продуктивность, вдохновение, здоровье
- - [https://lifehacker.ru](https://lifehacker.ru)
- - date_published: 2024-10-30T19:25:42.463887+00:00
-
- ## Модификации для Tilda Publishing
- - [http://lifehackov.ru](http://lifehackov.ru)
- - date_published: 2024-07-20T20:42:44.084226+00:00
-
- ## Жизнь в путешествиях
- - [https://www.life-in-travels.ru](https://www.life-in-travels.ru)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Liquid HUB - Разработка и верстка сайтов для интернет продаж
- - [https://liquidhub.ru](https://liquidhub.ru)
- - date_published: 2024-06-18T15:53:45+00:00
-
- ## Студия «Лист Ветра» — фирменный стиль, полиграфия, дизайн упаковки, создание сайтов.
- - [http://listvetra.ru](http://listvetra.ru)
- - date_published: 2024-06-24T05:18:23.755747+00:00
-
- ## Литрес – сервис электронных и аудиокниг, скачать в fb2 и mp3, читать и слушать онлайн на Litres
- - [https://cdn.litres.ru](https://cdn.litres.ru)
- - date_published: 2024-09-18T23:47:48.277515+00:00
-
- ## DDoS-Guard
- - [https://litres.ru](https://litres.ru)
- - date_published: 2024-06-15T19:06:22.741719+00:00
-
- ## Вход в почтовый ящик Liveinternet.ru
- - [https://g.liveinternet.ru](https://g.liveinternet.ru)
- - date_published: 2023-11-29T21:20:09+00:00
-
- ## LiveInternet @ Статистика и дневники, почта и поиск
- - [https://liveinternet.ru](https://liveinternet.ru)
- - date_published: 2024-08-18T12:32:11.928391+00:00
-
- ## LiWiki : Проекты Live Internet
- - [http://wiki.liveinternet.ru](http://wiki.liveinternet.ru)
- - date_published: 2008-11-21T10:56:08+00:00
-
- ## LiveJournal: Discover global communities of bloggers who share your unique passions and interests.
- - [https://livejournal.ru](https://livejournal.ru)
- - date_published: 2024-06-21T14:40:43.244482+00:00
-
- ## White horse at warehouse
- - [https://wh.lj.ru](https://wh.lj.ru)
- - date_published: 2024-06-21T14:57:03.154178+00:00
-
- ## Летняя компьютерная школа
- - [https://lksh.ru](https://lksh.ru)
- - date_published: 2024-05-30T10:40:52+00:00
-
- ## Legacy Launcher for Minecraft
- - [https://ll4n.ru](https://ll4n.ru)
- - date_published: 2024-11-14T08:35:57.050212+00:00
-
- ## Llamas Shop
- - [http://llamasshop.ru](http://llamasshop.ru)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Рецепты простые
- - [https://loewereplica.ru](https://loewereplica.ru)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Марафон Рецепт продвинутой аналитики
- - [https://analytics-recipe.loginom.ru](https://analytics-recipe.loginom.ru)
- - date_published: 2024-03-22T06:41:16+00:00
-
- ## Логотип
-     · Loginom Brandbook
- - [https://brandbook.loginom.ru](https://brandbook.loginom.ru)
- - date_published: 2023-09-18T18:12:08+00:00
-
- ## Марафон Генеральная уборка данных - Data Preprocessing в Loginom
- - [https://data-preprocessing.loginom.ru](https://data-preprocessing.loginom.ru)
- - date_published: 2023-08-11T10:20:03+00:00
-
- ## Демонстрационные стенды | Loginom
- - [https://demo.loginom.ru](https://demo.loginom.ru)
- - date_published: 2022-06-17T14:32:49+00:00
-
- ## Loginom | Технологии анализа данных
- - [https://downloads.loginom.ru](https://downloads.loginom.ru)
- - date_published: 2021-01-11T13:52:25+00:00
 

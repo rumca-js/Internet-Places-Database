@@ -1,3 +1,31 @@
+ ## CERCA Gender
+ - [https://gender.cerca.cat](https://gender.cerca.cat)
+ - date_published: 2024-07-07T01:34:25.694650+00:00
+
+ ## CERCA Gínjol Patent Funds
+ - [https://ginjol.cerca.cat](https://ginjol.cerca.cat)
+ - date_published: 2023-10-03T00:00:00+00:00
+
+ ## CERCA GINYS
+ - [https://ginys.cerca.cat](https://ginys.cerca.cat)
+ - date_published: 2024-07-07T01:34:20.645825+00:00
+
+ ## Portada - CIVIC Ai
+ - [https://civicai.cat](https://civicai.cat)
+ - date_published: 2023-03-10T11:36:17+00:00
+
+ ## Portal de la Recerca de Catalunya: Home
+ - [http://portalrecerca.csuc.cat](http://portalrecerca.csuc.cat)
+ - date_published: 2024-07-02T10:45:32.189841+00:00
+
+ ## Dansàneu
+ - [https://dansaneu.cat](https://dansaneu.cat)
+ - date_published: 2024-09-17T16:52:05.911326+00:00
+
+ ## Dario Castañé
+ - [https://dario.cat](https://dario.cat)
+ - date_published: 2024-05-09T08:12:41.816016+00:00
+
  ## Rizoma | Dario Castañé | Substack
  - [https://rizoma.dario.cat](https://rizoma.dario.cat)
  - date_published: 2024-07-10T08:32:41.303453+00:00
@@ -4008,32 +4036,4 @@
  ## audienzz - premium. digital. advertising.
  - [https://audienzz.ch](https://audienzz.ch)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## Alle Netflix-Filem und Serien - AufNetflix.ch
- - [https://www.aufnetflix.ch](https://www.aufnetflix.ch)
- - date_published: 2024-09-02T11:17:49.889234+00:00
-
- ## AUGS - Amiga User Group Switzerland
- - [https://www.augs.ch](https://www.augs.ch)
- - date_published: 2024-08-19T19:46:15.530446+00:00
-
- ## Top aktuelles Datenmaterial und einfachste Handhabung
- - [https://www.auto-i-dat.ch](https://www.auto-i-dat.ch)
- - date_published: 2024-07-11T14:38:28.906109+00:00
-
- ## Avis dexperts
- - [https://avisdexperts.ch](https://avisdexperts.ch)
- - date_published: 2024-07-21T05:12:50.589117+00:00
-
- ## Gesamtlösung für Gemeinden, Städte und kantonale Finanzverwaltungen - Axians Infoma - Ihr Partner für Smart Government
- - [https://www.axians-infoma.ch](https://www.axians-infoma.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Services of cable.ayra.ch
- - [https://cable.ayra.ch](https://cable.ayra.ch)
- - date_published: 2023-10-12T13:44:48+00:00
-
- ## Home - TS3 Identity generator
- - [https://identity.ayra.ch](https://identity.ayra.ch)
- - date_published: 2017-09-26T16:39:10+00:00
 

@@ -1,3 +1,124 @@
+ ## Scintilla and SciTE
+ - [https://scintilla.org](https://scintilla.org)
+ - date_published: 2023-10-25T22:06:57.037238+00:00
+ - tags: ['open source']
+
+ ## Corporación SCIO
+ - [https://sciocorp.org](https://sciocorp.org)
+ - date_published: 2021-05-29T04:09:28+00:00
+
+ ## Sci Phi Journal - A Universe of Wonder
+ - [https://sciphijournal.org](https://sciphijournal.org)
+ - date_published: 2023-10-25T11:13:33.009612+00:00
+
+ ## SCIP
+ - [https://scipopt.org](https://scipopt.org)
+ - date_published: 2024-07-15T07:08:37.539964+00:00
+
+ ## SciPost Homepage
+ - [https://scipost.org](https://scipost.org)
+ - date_published: 2024-09-13T17:26:11.129341+00:00
+
+ ## Overview - SCIPR
+ - [http://www.scipr-lab.org](http://www.scipr-lab.org)
+ - date_published: 2020-06-03T13:52:58+00:00
+
+ ## SciPy Conferences
+ - [https://conference.scipy.org](https://conference.scipy.org)
+ - date_published: 2024-09-06T01:44:23+00:00
+
+ ## Numpy and Scipy Documentation — Numpy and Scipy documentation
+ - [https://docs.scipy.org](https://docs.scipy.org)
+ - date_published: 2024-05-07T14:11:10.761104+00:00
+
+ ## SciPy -
+ - [http://projects.scipy.org](http://projects.scipy.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## SciPy 2024
+ - [https://scipy2024.scipy.org](https://scipy2024.scipy.org)
+ - date_published: 2024-05-08T12:03:00.915868+00:00
+
+ ## SciPy -
+ - [https://scipy.org](https://scipy.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## SciPy Conference 2021 -- Scientific Computing with Python
+ - [https://www.scipy2021.scipy.org](https://www.scipy2021.scipy.org)
+ - date_published: 2024-06-20T23:46:55.004305+00:00
+
+ ## Scipy Lecture Notes — Scipy lecture notes
+ - [http://scipy-lectures.org](http://scipy-lectures.org)
+ - date_published: 2023-06-30T18:22:25+00:00
+
+ ## Paper Submission System - Home
+ - [https://papersubmission.scirp.org](https://papersubmission.scirp.org)
+ - date_published: 2024-08-08T17:03:59.610139+00:00
+
+ ## SCIRP Open Access
+ - [https://scirp.org](https://scirp.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Scissortail Traditional Dance Society | Oklahoma's contra dance, English country dance, and more!
+ - [http://scissortail.org](http://scissortail.org)
+ - date_published: 2024-08-20T05:21:17.599835+00:00
+
+ ## SciStarter - SciStarter
+ - [https://scistarter.org](https://scistarter.org)
+ - date_published: 2024-05-11T09:19:37.240968+00:00
+
+ ## Browser Compatibility
+ - [https://static.scistarter.org](https://static.scistarter.org)
+ - date_published: 2024-04-24T11:58:06+00:00
+
+ ## American Association of Physics Teachers | AIP Publishing
+ - [https://aapt.scitation.org](https://aapt.scitation.org)
+ - date_published: 2023-10-25T22:07:00.202610+00:00
+
+ ## AIP Publishing Portfolio | AIP Publishing
+ - [https://aip.scitation.org](https://aip.scitation.org)
+ - date_published: 2023-10-25T22:07:04.043537+00:00
+
+ ## Acoustical Society of America | AIP Publishing
+ - [https://asa.scitation.org](https://asa.scitation.org)
+ - date_published: 2024-05-07T21:01:14.294930+00:00
+
+ ## Physics Today | AIP Publishing
+ - [https://physicstoday.scitation.org](https://physicstoday.scitation.org)
+ - date_published: 2023-10-25T22:07:12.198844+00:00
+
+ ## AIP Publishing
+ - [https://scitationinfo.org](https://scitationinfo.org)
+ - date_published: 2024-06-30T04:18:25.941149+00:00
+
+ ## SCITEPRESS
+ - [https://www.scitepress.org](https://www.scitepress.org)
+ - date_published: 2024-07-07T10:11:57.685542+00:00
+
+ ## BIOSTEC, 18th International Joint Conference on Biomedical Engineering Systems and Technologies
+ - [https://biostec.scitevents.org](https://biostec.scitevents.org)
+ - date_published: 2024-06-19T07:39:26.260204+00:00
+
+ ## DeLTA, 6th Int'l. Conf. on Deep Learning Theory and Applications
+ - [https://delta.scitevents.org](https://delta.scitevents.org)
+ - date_published: 2024-10-28T06:56:48.650337+00:00
+
+ ## ICAART, 17th Int'l. Conf. on Agents and Artificial Intelligence
+ - [https://icaart.scitevents.org](https://icaart.scitevents.org)
+ - date_published: 2024-06-19T07:39:56.922225+00:00
+
+ ## ICEIS, 27th Int'l. Conf. on Enterprise Information Systems
+ - [https://iceis.scitevents.org](https://iceis.scitevents.org)
+ - date_published: 2024-08-08T21:18:49.172073+00:00
+
+ ## ICISSP, 11th Int'l. Conf. on Information Systems Security and Privacy
+ - [https://icissp.scitevents.org](https://icissp.scitevents.org)
+ - date_published: 2024-10-28T06:56:12.328999+00:00
+
+ ## ICORES, 14th Int'l. Conf. on Operations Research and Enterprise Systems
+ - [https://icores.scitevents.org](https://icores.scitevents.org)
+ - date_published: 2024-10-28T06:59:38.998606+00:00
+
  ## ICPRAM, 14th Int'l. Conf. on Pattern Recognition Applications and Methods
  - [https://icpram.scitevents.org](https://icpram.scitevents.org)
  - date_published: 2024-06-19T07:39:53.422573+00:00
@@ -3910,125 +4031,4 @@
  ## Simple.css Framework
  - [https://simplecss.org](https://simplecss.org)
  - date_published: 2024-04-30T15:48:55.629204+00:00
-
- ## SimpleCV
- - [http://simplecv.org](http://simplecv.org)
- - date_published: 2020-02-03T20:43:28+00:00
-
- ## Connect to your bank - SimpleFIN Bridge
- - [https://bridge.simplefin.org](https://bridge.simplefin.org)
- - date_published: 2024-07-23T23:42:36.584359+00:00
-
- ## Simple Haskell
- - [https://www.simplehaskell.org](https://www.simplehaskell.org)
- - date_published: 2022-06-29T12:12:42+00:00
-
- ## GitHub - LitoMore/simple-icons-cdn: Simple Icons CDN
- - [https://cdn.simpleicons.org](https://cdn.simpleicons.org)
- - date_published: 2024-05-09T07:43:18.553373+00:00
-
- ## Simple Icons
- - [https://simpleicons.org](https://simpleicons.org)
- - date_published: 2024-08-07T22:04:55.963252+00:00
-
- ## Simple Machines Customization Site
- - [https://custom.simplemachines.org](https://custom.simplemachines.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## SMF Development
- - [https://dev.simplemachines.org](https://dev.simplemachines.org)
- - date_published: 2024-07-11T21:47:32.657000+00:00
-
- ## Simple Machines Open Source Software Downloads
- - [https://download.simplemachines.org](https://download.simplemachines.org)
- - date_published: 2024-07-11T21:47:28.477083+00:00
-
- ## Home of Open Source Free Forum Community Software
- - [https://simplemachines.org](https://simplemachines.org)
- - date_published: 2024-01-09T03:42:35.429252+00:00
-
- ## Support
- - [https://support.simplemachines.org](https://support.simplemachines.org)
- - date_published: 2024-07-11T21:48:02.405147+00:00
-
- ## Online Manual
- - [https://wiki.simplemachines.org](https://wiki.simplemachines.org)
- - date_published: 2024-07-11T21:47:57.721466+00:00
-
- ## SimplePie: Super-fast, easy-to-use, RSS and Atom feed parsing in PHP.
- - [https://simplepie.org](https://simplepie.org)
- - date_published: 2024-07-09T21:18:46.963585+00:00
-
- ## SimpleRAN Home
- - [https://simpleran.org](https://simpleran.org)
- - date_published: 2020-11-01T00:00:00+00:00
-
- ## SimpleSAMLphp Home - SimpleSAMLphp
- - [https://simplesamlphp.org](https://simplesamlphp.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Simple Statistics
- - [https://simplestatistics.org](https://simplestatistics.org)
- - date_published: 2023-03-15T13:05:07+00:00
-
- ## SimplyDifferently.org: Home *
- - [https://simplydifferently.org](https://simplydifferently.org)
- - date_published: 2023-10-25T22:08:42.916358+00:00
-
- ## Simply Psychology | Self-Care, Theories, Famous Studies & More
- - [https://www.simplypsychology.org](https://www.simplypsychology.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home – Simply Secure
- - [https://simplysecure.org](https://simplysecure.org)
- - date_published: 2024-09-05T12:09:37.591660+00:00
-
- ## Simply Statistics
- - [https://simplystatistics.org](https://simplystatistics.org)
- - date_published: 2023-10-03T20:42:10+00:00
-
- ## UMass Memorial Health - Simply Well Blog
- - [https://www.simplywellblog.org](https://www.simplywellblog.org)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## SimTK: Welcome
- - [https://simtk.org](https://simtk.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## servers.simutrans.org - Server listing
- - [https://servers.simutrans.org](https://servers.simutrans.org)
- - date_published: 2024-04-29T04:18:25.093305+00:00
-
- ## It's a fangirls world, you're just living in it.
- - [https://collective.sin21.org](https://collective.sin21.org)
- - date_published: 2022-07-18T21:34:16+00:00
-
- ## Sin21 Designs – Affordable clean & responsive WordPress themes
- - [https://sin21.org](https://sin21.org)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## SinaiEM
- - [http://sinaiem.org](http://sinaiem.org)
- - date_published: 2024-07-06T23:47:11.130195+00:00
-
- ## Since Parkland
- - [https://sinceparkland.org](https://sinceparkland.org)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Page Redirection
- - [http://www.sinconf.org](http://www.sinconf.org)
- - date_published: 2024-04-06T13:08:19+00:00
-
- ## Scientific Indexing Services
- - [https://www.sindexs.org](https://www.sindexs.org)
- - date_published: 2024-10-14T20:49:33.504510+00:00
-
- ## Connect - Modern Gaming Client | Sindome
- - [https://play.sindome.org](https://play.sindome.org)
- - date_published: 2024-05-12T02:46:20.456681+00:00
-
- ## Cyberpunk Roleplaying Game | Sindome
- - [https://sindome.org](https://sindome.org)
- - date_published: 2024-03-27T20:53:17.335227+00:00
- - tags: ['mud game']
 

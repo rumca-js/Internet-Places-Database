@@ -1,3 +1,27 @@
+ ## Honza's git repositories
+ - [https://git.pokorny.ca](https://git.pokorny.ca)
+ - date_published: 2024-09-04T03:40:41.413776+00:00
+
+ ## Honza Pokorný
+ - [https://honza.pokorny.ca](https://honza.pokorny.ca)
+ - date_published: 2024-06-01T04:52:15.881714+00:00
+
+ ## Polarcon
+ - [https://polarcon.ca](https://polarcon.ca)
+ - date_published: 2024-08-30T01:02:18+00:00
+
+ ## Polaris Music Prize
+ - [https://polarismusicprize.ca](https://polarismusicprize.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## | Canadian Centre for Policy Alternatives
+ - [https://www.policyalternatives.ca](https://www.policyalternatives.ca)
+ - date_published: 2024-08-02T18:01:09.429086+00:00
+
+ ## The School of Public Policy
+ - [https://www.policyschool.ca](https://www.policyschool.ca)
+ - date_published: 2016-02-15T19:05:29+00:00
+
  ## About Political Ads - Political Ads
  - [https://politicalads.ca](https://politicalads.ca)
  - date_published: 2024-09-16T03:08:17.052234+00:00
@@ -1266,6 +1290,10 @@
  ## Welcome | Sherwin-Williams
  - [https://www.sherwin-williams.ca](https://www.sherwin-williams.ca)
  - date_published: 2024-10-22T20:37:37.560968+00:00
+
+ ## shilin typing...
+ - [https://shilin.ca](https://shilin.ca)
+ - date_published: 2024-12-06T21:34:12.997853+00:00
 
  ## Shop Beer Gear
  - [https://www.shopbeergear.ca](https://www.shopbeergear.ca)
@@ -4001,32 +4029,4 @@
  ## About the Campaign - Giving to USask
  - [https://give.usask.ca](https://give.usask.ca)
  - date_published: 2024-09-15T13:01:20.317791+00:00
-
- ## Indigenous Engagement - Office of the Vice-Provost Indigenous Engagement
- - [https://indigenous.usask.ca](https://indigenous.usask.ca)
- - date_published: 2024-09-15T13:01:12.015234+00:00
-
- ## Usask Art Gallery - USask Art Galleries | University of Saskatchewan
- - [https://kagcag.usask.ca](https://kagcag.usask.ca)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## University of Saskatchewan
- - [https://limestone.usask.ca](https://limestone.usask.ca)
- - date_published: 2024-09-15T13:01:14.750326+00:00
-
- ## News
- - [https://news.usask.ca](https://news.usask.ca)
- - date_published: 2024-09-15T13:01:18.586679+00:00
-
- ## PAWS - University of Saskatchewan
- - [https://paws.usask.ca](https://paws.usask.ca)
- - date_published: 2024-06-20T05:48:10+00:00
-
- ## Access and Privacy - Legal Office
- - [https://privacy.usask.ca](https://privacy.usask.ca)
- - date_published: 2024-09-15T13:01:23.213015+00:00
-
- ## Search - University of Saskatchewan
- - [https://search.usask.ca](https://search.usask.ca)
- - date_published: 2024-09-15T13:00:56.099541+00:00
 

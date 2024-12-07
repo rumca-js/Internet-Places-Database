@@ -1,3 +1,11 @@
+ ## Coinbit Mainnet POA Explorer
+ - [https://coinbit-explorer.chain.sbcrypto.app](https://coinbit-explorer.chain.sbcrypto.app)
+ - date_published: 2024-09-23T20:21:01.741266+00:00
+
+ ## Online Book Writing Software now with AI Writing Assistant
+ - [https://sceneone.app](https://sceneone.app)
+ - date_published: 2024-06-19T20:03:38.704975+00:00
+
  ## sci.app | A window to Science
  - [https://sci.app](https://sci.app)
  - date_published: 2024-05-10T06:40:41.329753+00:00
@@ -123,6 +131,11 @@
  ## Save Money & Earn Rewards
  - [https://www.shopruby.app](https://www.shopruby.app)
  - date_published: 2024-10-30T21:10:05.477926+00:00
+
+ ## Home - URL Shortener
+ - [https://shortenurl.app](https://shortenurl.app)
+ - date_published: 2024-12-06T13:28:40.853944+00:00
+ - tags: ['link service']
 
  ## Code Shrew
  - [https://shrew.app](https://shrew.app)
@@ -4007,16 +4020,4 @@
  ## Songkeys
  - [https://song.xlog.app](https://song.xlog.app)
  - date_published: 2024-01-15T14:06:39.285330+00:00
-
- ## xLog - Write. Own. Earn.
- - [https://xlog.app](https://xlog.app)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Xmind - Full-featured mind mapping and brainstorming tool.
- - [https://xmind.app](https://xmind.app)
- - date_published: 2024-07-09T15:52:54.690470+00:00
-
- ## Xpeer, Next Medical Education
- - [https://web.xpeer.app](https://web.xpeer.app)
- - date_published: 2024-06-12T10:25:38+00:00
 

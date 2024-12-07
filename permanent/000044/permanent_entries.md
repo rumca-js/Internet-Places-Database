@@ -1,3 +1,35 @@
+ ## ANZ Institutional & Corporate banking
+ - [https://institutional.anz.com](https://institutional.anz.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## ANZ Plus, A New Way To Bank
+ - [https://link.anz.com](https://link.anz.com)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## ANZ Personal – Bank accounts, home loans, credit cards & more
+ - [https://login.anz.com](https://login.anz.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## ANZ Log On
+ - [https://logon.online.anz.com](https://logon.online.anz.com)
+ - date_published: 2024-09-28T20:48:45.356281+00:00
+
+ ## ANZ Log On
+ - [https://markets.online.anz.com](https://markets.online.anz.com)
+ - date_published: 2024-09-28T20:52:35.079755+00:00
+
+ ## Mobile Lending
+ - [https://mobilelending.anz.com](https://mobilelending.anz.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## ANZ Newsroom | ANZ
+ - [https://news.anz.com](https://news.anz.com)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## ANZ Personal – Bank accounts, home loans, credit cards & more
+ - [https://register.anz.com](https://register.anz.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
  ## Shareholder Centre | ANZ
  - [https://shareholder.anz.com](https://shareholder.anz.com)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -4011,37 +4043,4 @@ my personal blog
  ## The Shop & Ship Blog - The Shop & Ship Blog
  - [https://snsblog.aramex.com](https://snsblog.aramex.com)
  - date_published: 2021-01-22T06:47:59+00:00
-
- ## Home
- - [https://www.aramex.com](https://www.aramex.com)
- - date_published: 2024-09-25T10:00:58.957258+00:00
-
- ## IIS Windows Server
- - [https://creasolucionesenlineautadeo.arandasoft.com](https://creasolucionesenlineautadeo.arandasoft.com)
- - date_published: 2020-12-11T22:31:09+00:00
-
- ## Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases
- - [https://arangodb.com](https://arangodb.com)
- - date_published: 2023-10-25T12:43:48.616759+00:00
-
- ## ArangoGraph Insights Platform
- - [https://cloud.arangodb.com](https://cloud.arangodb.com)
- - date_published: 2024-08-19T10:38:40.058496+00:00
-
- ## Hello from ArangoDB Developer Hub (Beta) | ArangoDB Developer Hub (Beta)
- - [https://developer.arangodb.com](https://developer.arangodb.com)
- - date_published: 2023-11-08T06:53:22+00:00
-
- ## ArangoDB Documentation
- - [https://docs.arangodb.com](https://docs.arangodb.com)
- - date_published: 2024-08-19T10:38:48.384106+00:00
-
- ## ArangoDB University – The database for graphs and beyond
- - [https://university.arangodb.com](https://university.arangodb.com)
- - date_published: 2024-08-19T10:38:37.411828+00:00
-
- ## Pedro's Blog
- - [https://arantespp.com](https://arantespp.com)
- - date_published: 2023-12-25T04:56:04.383111+00:00
- - tags: ['personal']
 

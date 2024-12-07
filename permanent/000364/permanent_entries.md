@@ -1,3 +1,115 @@
+ ## CSEdPodcast by Kristin Stephens-Martinez
+ - [https://csedpodcast.org](https://csedpodcast.org)
+ - date_published: 2024-06-20T14:10:48+00:00
+
+ ## CSEdResesarch.org
+ - [https://csedresearch.org](https://csedresearch.org)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Centre for Science and Environment
+ - [https://cseindia.org](https://cseindia.org)
+ - date_published: 2024-04-28T01:45:28.041875+00:00
+
+ ## Please give to CSE
+ - [http://donations.cseindia.org](http://donations.cseindia.org)
+ - date_published: 2024-08-08T11:33:26.545213+00:00
+
+ ## CSEstack – Computer Science & Programming Portal
+ - [https://www.csestack.org](https://www.csestack.org)
+ - date_published: 2024-10-31T05:11:41.735093+00:00
+
+ ## CS Fund
+ - [http://www.csfund.org](http://www.csfund.org)
+ - date_published: 2024-09-09T22:18:49.740373+00:00
+
+ ## Cold Spring Harbor Asia
+ - [http://www.csh-asia.org](http://www.csh-asia.org)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Cold Spring Harbor Perspectives in Biology
+ - [http://cshperspectives.cshlp.org](http://cshperspectives.cshlp.org)
+ - date_published: 2024-10-19T04:06:43.046157+00:00
+
+ ## Cold Spring Harbor Protocols
+ - [http://cshprotocols.cshlp.org](http://cshprotocols.cshlp.org)
+ - date_published: 2024-09-13T16:51:07.757161+00:00
+
+ ## Genes & Development
+ - [https://genesdev.cshlp.org](https://genesdev.cshlp.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Genome Research
+ - [http://genome.cshlp.org](http://genome.cshlp.org)
+ - date_published: 2024-07-15T02:58:54.754863+00:00
+
+ ## Cold Spring Harbor Perspectives in Biology
+ - [http://intl-cshperspectives.cshlp.org](http://intl-cshperspectives.cshlp.org)
+ - date_published: 2024-10-19T04:07:08.477337+00:00
+
+ ## Genes & Development
+ - [http://intl-genesdev.cshlp.org](http://intl-genesdev.cshlp.org)
+ - date_published: 2024-10-19T04:10:17.423787+00:00
+
+ ## Genome Research
+ - [http://intl-genome.cshlp.org](http://intl-genome.cshlp.org)
+ - date_published: 2024-10-19T04:08:46.543677+00:00
+
+ ## Learning & Memory
+ - [http://intl-learnmem.cshlp.org](http://intl-learnmem.cshlp.org)
+ - date_published: 2024-10-19T04:09:27.189795+00:00
+
+ ## Molecular Case Studies, a Journal of Precision Medicine
+ - [http://intl-molecularcasestudies.cshlp.org](http://intl-molecularcasestudies.cshlp.org)
+ - date_published: 2024-10-19T04:09:54.721950+00:00
+
+ ## RNA
+ - [http://intl-rnajournal.cshlp.org](http://intl-rnajournal.cshlp.org)
+ - date_published: 2024-10-19T04:06:54.662178+00:00
+
+ ## Cold Spring Harbor Symposia on Quantitative Biology
+ - [http://intl-symposium.cshlp.org](http://intl-symposium.cshlp.org)
+ - date_published: 2024-09-13T16:51:05.339903+00:00
+
+ ## Learning & Memory
+ - [http://learnmem.cshlp.org](http://learnmem.cshlp.org)
+ - date_published: 2024-09-13T16:51:12.686005+00:00
+
+ ## Molecular Case Studies, a Journal of Precision Medicine
+ - [http://molecularcasestudies.cshlp.org](http://molecularcasestudies.cshlp.org)
+ - date_published: 2024-10-19T04:06:47.215649+00:00
+
+ ## RNA
+ - [https://rnajournal.cshlp.org](https://rnajournal.cshlp.org)
+ - date_published: 2024-07-01T19:41:17.382816+00:00
+
+ ## Cold Spring Harbor Symposia on Quantitative Biology
+ - [https://symposium.cshlp.org](https://symposium.cshlp.org)
+ - date_published: 2024-06-12T20:39:41.012209+00:00
+
+ ## Guide to the Human Genome
+ - [http://www.cshlp.org](http://www.cshlp.org)
+ - date_published: 2024-09-13T16:51:09.416316+00:00
+
+ ## Cold Spring Harbor Lab Press
+ - [http://www.cshlpress.org](http://www.cshlpress.org)
+ - date_published: 2024-10-19T04:07:37.560518+00:00
+
+ ## Cold Spring Harbor Perspectives in Biology
+ - [http://cshperspectives.org](http://cshperspectives.org)
+ - date_published: 2024-06-17T11:48:26.413381+00:00
+
+ ## Cold Spring Harbor Protocols
+ - [http://cshprotocols.org](http://cshprotocols.org)
+ - date_published: 2024-06-17T11:48:36.408728+00:00
+
+ ## Home
+ - [http://www.csia.org](http://www.csia.org)
+ - date_published: 2024-07-15T11:59:39.638826+00:00
+
+ ## CSICon Homepage
+ - [https://csiconference.org](https://csiconference.org)
+ - date_published: 2024-07-19T15:17:42.128051+00:00
+
  ## Immigrant Computer Scientists Podcast – An Oral History Project featuring Prominent Computer Scientists
  - [http://csimmigrant.org](http://csimmigrant.org)
  - date_published: 2024-06-22T09:32:14.451443+00:00
@@ -3931,116 +4043,4 @@
  ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
  - [https://www.dianetics.org](https://www.dianetics.org)
  - date_published: 2024-05-02T10:38:18.313220+00:00
-
- ## Loading...
- - [http://diannaagron.org](http://diannaagron.org)
- - date_published: 2024-09-04T02:48:41.163132+00:00
-
- ## Detroit Institute of Arts Museum Shop | Find a unique assortment of gifts inspired by the collection of the Detroit Institute of Arts.
- - [https://diashop.org](https://diashop.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Diaspora Blog
- - [https://b.diasp.org](https://b.diasp.org)
- - date_published: 2024-07-12T21:32:26+00:00
-
- ## diaspora social network
- - [https://diasp.org](https://diasp.org)
- - date_published: 2024-05-10T06:28:11.494423+00:00
-
- ## Submit a Ticket - Diasporg Support
- - [https://support.diasp.org](https://support.diasp.org)
- - date_published: 2024-07-12T22:10:30.987620+00:00
-
- ## The diaspora* Project
- - [https://diasporafoundation.org](https://diasporafoundation.org)
- - date_published: 2024-06-19T22:13:34.553315+00:00
-
- ## diaspora* Discourse
- - [https://discourse.diasporafoundation.org](https://discourse.diasporafoundation.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Share to diaspora*
- - [https://share.diasporafoundation.org](https://share.diasporafoundation.org)
- - date_published: 2022-04-18T17:18:42+00:00
-
- ## diaspora-fr*
- - [https://diaspora-fr.org](https://diaspora-fr.org)
- - date_published: 2024-07-10T06:24:47.091392+00:00
-
- ## Diastema editrice Studi e ricerche
- - [https://diastemastudiericerche.org](https://diastemastudiericerche.org)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Homepage - The Dibble Institute
- - [https://www.dibbleinstitute.org](https://www.dibbleinstitute.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Le Dico des Ados
- - [https://fr.dicoado.org](https://fr.dicoado.org)
- - date_published: 2024-07-12T05:17:42+00:00
-
- ## dict.org
- - [https://dict.org](https://dict.org)
- - date_published: 2024-05-24T08:08:32.893996+00:00
-
- ## Dictionnaire des francophones
- - [https://www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
- - date_published: 2023-07-07T20:14:15+00:00
-
- ## Welcome to Didactic Journals
- - [http://didacticjournals.org](http://didacticjournals.org)
- - date_published: 2024-10-29T16:59:51.133701+00:00
-
- ## Die Bombe
- - [https://www.diebombe.org](https://www.diebombe.org)
- - date_published: 2015-12-21T12:12:20+00:00
-
- ## DIEGO  VERA
- - [https://diegovera.org](https://diegovera.org)
- - date_published: 2023-10-25T21:14:18.082525+00:00
-
- ## Bogleheads Investing Advice and Info
- - [http://diehards.org](http://diehards.org)
- - date_published: 2024-08-18T20:41:13.478450+00:00
-
- ## DiEM25 - Democracy in Europe Movement 2025
- - [https://diem25.org](https://diem25.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Internal - For DiEM25 Members Only - DiEM25
- - [https://i.diem25.org](https://i.diem25.org)
- - date_published: 2024-07-03T03:15:35.823225+00:00
-
- ## Internal - For DiEM25 Members Only - DiEM25
- - [https://internal.diem25.org](https://internal.diem25.org)
- - date_published: 2024-07-03T03:15:36.471935+00:00
-
- ## Übersicht
- - [https://community.dieselschrauber.org](https://community.dieselschrauber.org)
- - date_published: 2024-07-16T17:48:22.428766+00:00
-
- ## diffoscope: in-depth comparison of files, archives, and directories
- - [https://diffoscope.org](https://diffoscope.org)
- - date_published: 2023-10-25T21:14:19.698212+00:00
-
- ## trydiffoscope: in-depth comparison of files, archives, and directories
- - [https://try.diffoscope.org](https://try.diffoscope.org)
- - date_published: 2024-08-18T19:51:55.363349+00:00
-
- ## Archive - Diffractions Collective 2013-2023
- - [https://diffractionscollective.org](https://diffractionscollective.org)
- - date_published: 2024-09-23T13:31:44.932944+00:00
-
- ## Digital Citizenship
- - [https://digcitconnect.org](https://digcitconnect.org)
- - date_published: 2024-08-06T15:22:30.926068+00:00
-
- ## Digger - Back and Digitally Remastered
- - [https://digger.org](https://digger.org)
- - date_published: 2011-03-16T02:32:26+00:00
-
- ## Diggers Docs
- - [https://diggersdocs.org](https://diggersdocs.org)
- - date_published: 2024-09-14T04:20:21+00:00
 

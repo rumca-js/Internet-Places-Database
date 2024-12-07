@@ -1,3 +1,63 @@
+ ## dooce® | i've been drinking from a periscope
+ - [https://dooce.com](https://dooce.com)
+ - date_published: 2024-08-11T05:39:28.440602+00:00
+
+ ## DOOD | Web design agency
+ - [https://doodhk.com](https://doodhk.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Welcome future Doodler! - Doodle
+ - [https://careers.doodle.com](https://careers.doodle.com)
+ - date_published: 2024-06-16T16:57:24.416435+00:00
+
+ ## Free online meeting scheduling tool
+ - [https://doodle.com](https://doodle.com)
+ - date_published: 2024-05-04T13:58:18.636715+00:00
+
+ ## Doodle Help Center
+ - [https://help.doodle.com](https://help.doodle.com)
+ - date_published: 2024-06-16T16:57:22.955737+00:00
+
+ ## Ecuador and Galapagos
+ - [http://www.doodlecafe.com](http://www.doodlecafe.com)
+ - date_published: 2024-09-03T23:28:13+00:00
+
+ ## Home - Doodle Doods
+ - [https://doodledoods.com](https://doodledoods.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## 404 - The page you are looking for is not here..
+ - [http://www.doodlejump.com](http://www.doodlejump.com)
+ - date_published: 2024-10-24T10:40:02.879855+00:00
+
+ ## Contact Us - Doodle Labs
+ - [https://contact.doodlelabs.com](https://contact.doodlelabs.com)
+ - date_published: 2024-09-05T10:25:24+00:00
+
+ ## Home
+ - [https://doodlelabs.com](https://doodlelabs.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Doodle Labs Technical Library
+ - [https://techlibrary.doodlelabs.com](https://techlibrary.doodlelabs.com)
+ - date_published: 2024-08-23T07:55:01+00:00
+
+ ## Doodle Morph AI - Turn doodles into photo realistic art
+ - [https://doodlemorphai.com](https://doodlemorphai.com)
+ - date_published: 2024-06-19T18:48:05.785032+00:00
+
+ ## Doodle or Die
+ - [https://doodleordie.com](https://doodleordie.com)
+ - date_published: 2024-10-30T19:20:05.588448+00:00
+
+ ## Doddle Strudel - Illustration Idea Generator
+ - [https://www.doodlestrudel.com](https://www.doodlestrudel.com)
+ - date_published: 2020-12-13T00:00:00+00:00
+
+ ## Doodlewash® - Watercolor Painting & Sketching Group, Community, and Blog
+ - [https://doodlewash.com](https://doodlewash.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
  ## Dooers Sneakers | Lo último en Zapatillas y Streetstyle
  - [https://www.dooerssneakers.com](https://www.dooerssneakers.com)
  - date_published: 2024-09-12T20:29:51.584814+00:00
@@ -3990,64 +4050,4 @@ Home Page, Genealogy, The Road News and Rumors, and Other Web sites  by Laurie M
  ## Best Game Server Hosting For 2024 - All You Need To Know
  - [http://www.dropmsg.com](http://www.dropmsg.com)
  - date_published: 2022-09-15T19:55:49+00:00
-
- ## Dropover - Easier Drag and Drop on your Mac.
- - [https://dropoverapp.com](https://dropoverapp.com)
- - date_published: 2024-07-08T16:12:54.742152+00:00
-
- ## Droppe
- - [https://droppe.com](https://droppe.com)
- - date_published: 2024-10-31T03:49:03.778473+00:00
-
- ## Droppin the Fork
- - [http://www.droppin-the-fork.com](http://www.droppin-the-fork.com)
- - date_published: 2024-07-04T13:18:45.016240+00:00
-
- ## Salesforce has a contract with US Border Patrol
- - [https://www.dropsalesforce.com](https://www.dropsalesforce.com)
- - date_published: 2024-07-15T11:27:39.190380+00:00
-
- ## Drops Capital - Самое Боярское Криптосообщество
- - [https://dropscapital.com](https://dropscapital.com)
- - date_published: 2024-10-11T21:38:36.295687+00:00
-
- ## Crypto Events, Promotions, Bounties, Airdrops - DropsEarn
- - [https://dropsearn.com](https://dropsearn.com)
- - date_published: 2024-10-11T21:38:56.253442+00:00
-
- ## Dropshipman: Easy Dropshipping Journey
- - [https://www.dropshipman.com](https://www.dropshipman.com)
- - date_published: 2023-12-26T09:47:31+00:00
-
- ## Drop Site News | Substack
- - [https://www.dropsitenews.com](https://www.dropsitenews.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Cryptocurrency Market Prices | Capitalization & Crypto Charts | DropsTab
- - [https://dropstab.com](https://dropstab.com)
- - date_published: 2024-10-11T21:38:38.815711+00:00
-
- ## Drop Tables, inc.
- - [https://droptables.com](https://droptables.com)
- - date_published: 2024-02-13T17:57:28+00:00
-
- ## Dror Poleg — Official Website
- - [https://drorpoleg.com](https://drorpoleg.com)
- - date_published: 2023-10-25T13:59:06.912379+00:00
-
- ## drossbucket
- - [https://drossbucket.com](https://drossbucket.com)
- - date_published: 2023-10-25T13:59:15.349301+00:00
-
- ## DroughtMath – A Critical look at the City of L.A.'s Water Supply Policy
- - [https://droughtmath.com](https://droughtmath.com)
- - date_published: 2024-05-08T11:05:48.457831+00:00
-
- ## Home
- - [http://drouindancecenter.com](http://drouindancecenter.com)
- - date_published: 2024-08-08T23:51:50.723389+00:00
-
- ## Cattle Exchange
- - [https://cattle-exchange.drovers.com](https://cattle-exchange.drovers.com)
- - date_published: 2024-05-01T02:43:17.606462+00:00
 

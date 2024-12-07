@@ -1,3 +1,99 @@
+ ## Home - Scripps Centennial
+ - [https://100.scripps.edu](https://100.scripps.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Homepage
+ - [http://autodock.scripps.edu](http://autodock.scripps.edu)
+ - date_published: 2024-10-16T07:54:43.991596+00:00
+
+ ## Homepage
+ - [https://autodocksuite.scripps.edu](https://autodocksuite.scripps.edu)
+ - date_published: 2024-10-16T07:54:56.123396+00:00
+
+ ## HOME
+ - [http://ccsb.scripps.edu](http://ccsb.scripps.edu)
+ - date_published: 2024-10-16T07:54:13.148516+00:00
+
+ ## Scripps Research Education & Training
+ - [https://education.scripps.edu](https://education.scripps.edu)
+ - date_published: 2024-05-07T20:23:21.382890+00:00
+
+ ## Front Row Lecture Series - Scripps Research
+ - [https://frontrow.scripps.edu](https://frontrow.scripps.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home - Scripps Research Magazine
+ - [https://magazine.scripps.edu](https://magazine.scripps.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Homepage
+ - [http://mgltools.scripps.edu](http://mgltools.scripps.edu)
+ - date_published: 2024-10-16T07:54:36.798198+00:00
+
+ ## Scripps Research
+ - [https://scripps.edu](https://scripps.edu)
+ - date_published: 2024-01-06T17:19:10.654645+00:00
+
+ ## Homepage
+ - [http://vina.scripps.edu](http://vina.scripps.edu)
+ - date_published: 2024-06-17T03:16:13.219295+00:00
+
+ ## File not found - 404 - Santa Clara University
+ - [https://assets.scu.edu](https://assets.scu.edu)
+ - date_published: 2024-05-07T20:23:28.216609+00:00
+
+ ## Event Calendar - Santa Clara University
+ - [https://events.scu.edu](https://events.scu.edu)
+ - date_published: 2024-05-07T20:23:29.559645+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://image.scu.edu](https://image.scu.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home - Santa Clara Magazine
+ - [https://magazine.scu.edu](https://magazine.scu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Santa Clara University: The Jesuit University in Silicon Valley
+ - [https://scu.edu](https://scu.edu)
+ - date_published: 2023-11-21T17:24:48.452481+00:00
+
+ ## TERMINALFOUR
+ - [https://t4.scu.edu](https://t4.scu.edu)
+ - date_published: 2024-05-07T20:23:27.614713+00:00
+
+ ## San Diego Supercomputer Center
+ - [https://sdsc.edu](https://sdsc.edu)
+ - date_published: 2024-10-14T08:14:13+00:00
+
+ ## IEEE Supercomputing
+ - [https://supercomputing-club.sdsc.edu](https://supercomputing-club.sdsc.edu)
+ - date_published: 2024-08-07T20:18:54.085018+00:00
+
+ ## https://edoras.sdsu.edu
+ - [https://edoras.sdsu.edu](https://edoras.sdsu.edu)
+ - date_published: 2023-08-17T17:29:31+00:00
+
+ ## about me | Gabriel Doyle
+ - [https://gdoyle.sdsu.edu](https://gdoyle.sdsu.edu)
+ - date_published: 2022-03-16T00:00:00+00:00
+
+ ## Welcome!
+ - [https://library2.sdsu.edu](https://library2.sdsu.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Welcome!
+ - [https://library.sdsu.edu](https://library.sdsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Department of Math & Statistics
+ - [https://math.sdsu.edu](https://math.sdsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## SDSU » Chemistry & Biochemistry »
+ - [http://www.chemistry.sdsu.edu](http://www.chemistry.sdsu.edu)
+ - date_published: 2024-10-19T06:08:23.255530+00:00
+
  ## Home
  - [https://www.sdsu.edu](https://www.sdsu.edu)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -3918,100 +4014,4 @@
  ## Campus Operations
  - [https://campusoperations.temple.edu](https://campusoperations.temple.edu)
  - date_published: 2024-08-28T00:00:00+00:00
-
- ## Human Resources
- - [https://careers.temple.edu](https://careers.temple.edu)
- - date_published: 2024-09-27T08:09:42+00:00
-
- ## Department of Computer & Information Sciences | College of Science and Technology
- - [https://cis.temple.edu](https://cis.temple.edu)
- - date_published: 2023-10-25T18:59:25.283156+00:00
-
- ## Temple University
- - [https://connect.temple.edu](https://connect.temple.edu)
- - date_published: 2024-06-16T07:24:23+00:00
-
- ## College of Public Health
- - [https://cph.temple.edu](https://cph.temple.edu)
- - date_published: 2024-06-16T04:48:48+00:00
-
- ## College of Science and Technology
- - [https://cst.temple.edu](https://cst.temple.edu)
- - date_published: 2024-05-07T20:38:29.600991+00:00
-
- ## Kornberg School of Dentistry
- - [https://dentistry.temple.edu](https://dentistry.temple.edu)
- - date_published: 2024-06-16T02:00:58+00:00
-
- ## Cherry & White Directory | Temple University
- - [https://directory.temple.edu](https://directory.temple.edu)
- - date_published: 2024-06-16T07:57:23.747813+00:00
-
- ## College of Education and Human Development
- - [https://education.temple.edu](https://education.temple.edu)
- - date_published: 2024-06-16T07:05:23+00:00
-
- ## College of Engineering
- - [https://engineering.temple.edu](https://engineering.temple.edu)
- - date_published: 2024-06-16T10:34:36.902528+00:00
-
- ## Welcome to Calendar of Events | Calendar of Events
- - [https://events.temple.edu](https://events.temple.edu)
- - date_published: 2024-06-16T00:59:57+00:00
-
- ## Fox School of Business
- - [https://fox.temple.edu](https://fox.temple.edu)
- - date_published: 2024-06-15T22:06:06+00:00
-
- ## Giving
- - [https://giving.temple.edu](https://giving.temple.edu)
- - date_published: 2024-06-16T10:34:04.438999+00:00
-
- ## Graduate School
- - [https://grad.temple.edu](https://grad.temple.edu)
- - date_published: 2024-06-16T04:43:00+00:00
-
- ## Research Guides
- - [https://guides.temple.edu](https://guides.temple.edu)
- - date_published: 2024-06-30T01:26:19.559309+00:00
-
- ## University Housing and Residential Life
- - [https://housing.temple.edu](https://housing.temple.edu)
- - date_published: 2024-09-27T09:11:22.733157+00:00
-
- ## iGEM - Institute for Genomics and Evolutionary Medicine | Temple University
- - [https://igem.temple.edu](https://igem.temple.edu)
- - date_published: 2024-07-01T21:35:49.616442+00:00
-
- ## Information Technology Services
- - [https://its.temple.edu](https://its.temple.edu)
- - date_published: 2024-05-01T06:30:18.131359+00:00
-
- ## Klein College of Media and Communication
- - [https://klein.temple.edu](https://klein.temple.edu)
- - date_published: 2024-06-15T22:27:57+00:00
-
- ## Temple University Beasley School of Law
- - [https://law.temple.edu](https://law.temple.edu)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## College of Liberal Arts
- - [https://liberalarts.temple.edu](https://liberalarts.temple.edu)
- - date_published: 2024-06-16T08:33:21+00:00
-
- ## Temple University Libraries
- - [http://library.temple.edu](http://library.temple.edu)
- - date_published: 2024-09-30T19:45:08.966176+00:00
-
- ## Listserv
- - [https://listserv.temple.edu](https://listserv.temple.edu)
- - date_published: 2019-09-11T18:36:55+00:00
-
- ## Temple Mathematics
- - [https://math.temple.edu](https://math.temple.edu)
- - date_published: 2024-07-01T21:35:51.741578+00:00
-
- ## Lewis Katz School of Medicine at Temple University
- - [https://medicine.temple.edu](https://medicine.temple.edu)
- - date_published: 2024-06-15T23:56:14+00:00
 

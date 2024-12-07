@@ -1,3 +1,103 @@
+ ## CityU Web Template - City University of Hong Kong
+ - [https://template.cityu.edu.hk](https://template.cityu.edu.hk)
+ - date_published: 2022-02-11T02:28:41+00:00
+
+ ## Sign in to your account
+ - [https://wiki.cityu.edu.hk](https://wiki.cityu.edu.hk)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## CityU Undergraduate Admissions: Home
+ - [https://www.admo.cityu.edu.hk](https://www.admo.cityu.edu.hk)
+ - date_published: 2024-08-18T13:52:01.873885+00:00
+
+ ## Hong Kong Institute for Advanced Study | City University of Hong Kong
+ - [https://www.hkias.cityu.edu.hk](https://www.hkias.cityu.edu.hk)
+ - date_published: 2024-08-18T13:52:15.934340+00:00
+
+ ## CityU Lodge Home | CityU Lodge
+ - [https://www.lodge.cityu.edu.hk](https://www.lodge.cityu.edu.hk)
+ - date_published: 2024-07-15T07:03:41+00:00
+
+ ## VLSI/ASIC Design Laboratory | CUHK
+ - [http://asic.ee.cuhk.edu.hk](http://asic.ee.cuhk.edu.hk)
+ - date_published: 2014-01-23T04:36:54+00:00
+
+ ## Big Data Decision Analytics (BDDA) Research Centre, CUHK
+ - [https://bdda.cuhk.edu.hk](https://bdda.cuhk.edu.hk)
+ - date_published: 2024-04-28T03:41:44.410082+00:00
+
+ ## Redirect after 2 seconds
+ - [http://bzhou.ie.cuhk.edu.hk](http://bzhou.ie.cuhk.edu.hk)
+ - date_published: 2021-09-30T02:22:09+00:00
+
+ ## The Chinese University of Hong Kong
+ - [https://cuhk.edu.hk](https://cuhk.edu.hk)
+ - date_published: 2009-12-14T09:42:15+00:00
+
+ ## The Chinese University of Hong Kong
+ - [https://cumassmail.itsc.cuhk.edu.hk](https://cumassmail.itsc.cuhk.edu.hk)
+ - date_published: 2013-12-06T05:53:40+00:00
+
+ ## DSP & Speech Technology Laboratory | The Chinese University of Hong Kong
+ - [http://dsp.ee.cuhk.edu.hk](http://dsp.ee.cuhk.edu.hk)
+ - date_published: 2024-08-07T15:59:46.958774+00:00
+
+ ## Home Page
+ - [https://erg.cuhk.edu.hk](https://erg.cuhk.edu.hk)
+ - date_published: 2014-11-14T08:17:46+00:00
+
+ ## Home - Bachelor of Engineering Programme in Financial Technology, CUHK
+ - [https://fintech.se.cuhk.edu.hk](https://fintech.se.cuhk.edu.hk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## SEEM Gallery
+ - [http://gallery.se.cuhk.edu.hk](http://gallery.se.cuhk.edu.hk)
+ - date_published: 2024-08-07T16:06:06.662478+00:00
+
+ ## Research Centre for Humanities Computing
+ - [https://humanum.arts.cuhk.edu.hk](https://humanum.arts.cuhk.edu.hk)
+ - date_published: 2023-04-26T01:04:45+00:00
+
+ ## Image and Video Processing Laboratory
+ - [http://ivp.ee.cuhk.edu.hk](http://ivp.ee.cuhk.edu.hk)
+ - date_published: 2024-08-07T15:58:30.600360+00:00
+
+ ## CUHK Business School Master's - CUHK Business School Masters
+ - [https://masters.bschool.cuhk.edu.hk](https://masters.bschool.cuhk.edu.hk)
+ - date_published: 2024-09-18T22:59:16.543450+00:00
+
+ ## Redmine packaged by Bitnami
+ - [http://microwave.ee.cuhk.edu.hk](http://microwave.ee.cuhk.edu.hk)
+ - date_published: 2022-05-31T23:42:15+00:00
+
+ ## Multimedia Laboratory
+ - [http://mmlab.ie.cuhk.edu.hk](http://mmlab.ie.cuhk.edu.hk)
+ - date_published: 2024-08-07T17:12:59.126650+00:00
+
+ ## Master of Science in Information Engineering
+ - [https://msc.ie.cuhk.edu.hk](https://msc.ie.cuhk.edu.hk)
+ - date_published: 2024-09-18T22:59:11.339944+00:00
+
+ ## PHOTONICS LABORATORY
+ - [http://opto.ee.cuhk.edu.hk](http://opto.ee.cuhk.edu.hk)
+ - date_published: 2024-08-01T00:47:29+00:00
+
+ ## Test Page for the HTTP Server on AlmaLinux
+ - [http://personal.ie.cuhk.edu.hk](http://personal.ie.cuhk.edu.hk)
+ - date_published: 2021-10-09T17:49:21+00:00
+
+ ## Home | pip.erg.cuhk.edu.hk
+ - [https://pip.erg.cuhk.edu.hk](https://pip.erg.cuhk.edu.hk)
+ - date_published: 2024-08-19T19:43:06+00:00
+
+ ## Home - Bachelor of Engineering Programme in Systems Engineering and Engineering Management, CUHK
+ - [https://seem.se.cuhk.edu.hk](https://seem.se.cuhk.edu.hk)
+ - date_published: 2024-08-07T16:00:03.534411+00:00
+
+ ## Test Page for the HTTP Server on AlmaLinux
+ - [http://user-www.ie.cuhk.edu.hk](http://user-www.ie.cuhk.edu.hk)
+ - date_published: 2021-10-09T17:49:21+00:00
+
  ## SEEM WEBMAIL (PUBLIC) :: Welcome to SEEM WEBMAIL (PUBLIC)
  - [http://webmail.se.cuhk.edu.hk](http://webmail.se.cuhk.edu.hk)
  - date_published: 2024-08-07T16:06:02+00:00
@@ -3910,104 +4010,4 @@
  ## Szalay Dakar Team - Kövess minket a sivatagba!
  - [http://dakar.hu](http://dakar.hu)
  - date_published: 2024-09-04T17:34:36.429431+00:00
-
- ## Das Blog - A használt autós blog
- - [https://dasblog.hu](https://dasblog.hu)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Szerver-hosting
- - [https://dataland.hu](https://dataland.hu)
- - date_published: 2024-09-04T17:34:40.640755+00:00
-
- ## Facebook
- - [https://chatbot.decathlon.hu](https://chatbot.decathlon.hu)
- - date_published: 2024-09-19T13:36:17.324471+00:00
-
- ## Decathlon webáruház - 75 sport egy helyen
- - [https://decathlon.hu](https://decathlon.hu)
- - date_published: 2024-06-15T20:23:18.251462+00:00
-
- ## Termékbérlés bárhol | Decathlon Rent
- - [https://rent.decathlon.hu](https://rent.decathlon.hu)
- - date_published: 2024-09-19T13:36:19.930116+00:00
-
- ## Üdvözlünk a Decathlon karbantartási és javítási oldalán
- - [https://support.decathlon.hu](https://support.decathlon.hu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Online Tőzsdei Kereskedés | Alacsony Árak|Kereskedés|DEGIRO
- - [https://www.degiro.hu](https://www.degiro.hu)
- - date_published: 2024-01-11T14:29:48+00:00
-
- ## DELMAGYAR - Csongrád-Csanád vármegyei hírportál
- - [https://www.delmagyar.hu](https://www.delmagyar.hu)
- - date_published: 2024-09-04T04:20:59.351785+00:00
-
- ## Deutsche Telekom IT Solutions | Life is for sharing
- - [https://www.deutschetelekomitsolutions.hu](https://www.deutschetelekomitsolutions.hu)
- - date_published: 2024-06-21T10:46:13+00:00
-
- ## A maják tévedtek. A világvége 2011-ben jött el.
- - [http://scenergy.dfmk.hu](http://scenergy.dfmk.hu)
- - date_published: 2011-02-02T01:20:24+00:00
-
- ## Üdvözöljük weboldalunkon! - Deák Ferenc Megyei és Városi Könyvtár
- - [http://www.dfmk.hu](http://www.dfmk.hu)
- - date_published: 2024-07-08T19:39:18.042491+00:00
-
- ## Gél lakk és Műköröm Alapanyagok - Diamond Nails
- - [https://www.diamondnails.hu](https://www.diamondnails.hu)
- - date_published: 2024-07-11T17:39:58+00:00
-
- ## Dianetika: A szellemi egészség modern tudománya
- - [https://www.dianetics.hu](https://www.dianetics.hu)
- - date_published: 2024-06-17T16:42:31.308081+00:00
-
- ## Dianetika: A szellemi egészség modern tudománya
- - [http://www.dianetika.hu](http://www.dianetika.hu)
- - date_published: 2024-09-04T18:52:41.374850+00:00
-
- ## Diéta és Fitnesz
- - [https://dietaesfitnesz.hu](https://dietaesfitnesz.hu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## DigiKey Home
- - [https://digikey.hu](https://digikey.hu)
- - date_published: 2024-05-01T05:04:29.183562+00:00
-
- ## DiMail.hu Hírlevélküldő Adminisztrációs felület
- - [https://admin.dimail.hu](https://admin.dimail.hu)
- - date_published: 2024-06-20T04:57:57.768062+00:00
-
- ## Disney Magyarország | A Disney hivatalos weboldala
- - [https://disney.hu](https://disney.hu)
- - date_published: 2024-06-16T01:50:38.455738+00:00
-
- ## Dívány
- - [https://divany.hu](https://divany.hu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## DKT | Digitális Közönségmérési Tanács | Budapest
- - [https://www.dkt.hu](https://www.dkt.hu)
- - date_published: 2024-06-25T21:30:36.471407+00:00
-
- ## DNV.hu - Safer Smarter Greener - DNV
- - [https://www.dnv.hu](https://www.dnv.hu)
- - date_published: 2024-09-04T15:26:09.074272+00:00
-
- ## Állapot áttekintése
- - [https://downdetector.hu](https://downdetector.hu)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Drogriporter
- - [http://www.drogriporter.hu](http://www.drogriporter.hu)
- - date_published: 2024-10-21T13:07:22.879549+00:00
-
- ## DUOL - dunaújvárosi hírportál
- - [https://www.duol.hu](https://www.duol.hu)
- - date_published: 2024-09-04T04:20:24.222648+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.hu](https://www.duracell.hu)
- - date_published: 1970-01-01T00:00:00+00:00
 

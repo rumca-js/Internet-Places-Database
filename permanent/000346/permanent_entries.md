@@ -1,3 +1,118 @@
+ ## Vega Strike - Home
+ - [http://vegastrike.sourceforge.net](http://vegastrike.sourceforge.net)
+ - date_published: 2020-11-09T11:29:14+00:00
+
+ ## VICE - the Versatile Commodore Emulator
+ - [https://vice-emu.sourceforge.net](https://vice-emu.sourceforge.net)
+ - date_published: 2023-12-24T17:06:59+00:00
+
+ ## Vimdoc : the online source for Vim documentation
+ - [https://vimdoc.sourceforge.net](https://vimdoc.sourceforge.net)
+ - date_published: 2024-05-04T15:34:14.844487+00:00
+
+ ## vim
+ - [http://vim.sourceforge.net](http://vim.sourceforge.net)
+ - date_published: 2013-08-19T00:00:00+00:00
+
+ ## Vorton
+ - [https://vorton.sourceforge.net](https://vorton.sourceforge.net)
+ - date_published: 2004-03-04T23:26:20+00:00
+
+ ## Voxelstein 3D
+ - [https://voxelstein3d.sourceforge.net](https://voxelstein3d.sourceforge.net)
+ - date_published: 2009-04-18T05:43:29+00:00
+ - tags: ['wolfenstein', 'video game port', 'open source']
+
+ ## W3M Homepage
+ - [http://w3m.sourceforge.net](http://w3m.sourceforge.net)
+ - date_published: 2008-02-16T05:51:21+00:00
+
+ ## WAtomic
+ - [https://watomic.sourceforge.net](https://watomic.sourceforge.net)
+ - date_published: 2007-07-13T07:38:36+00:00
+
+ ## WinDirStat
+ - [https://windirstat.sourceforge.net](https://windirstat.sourceforge.net)
+ - date_published: 2024-01-28T20:56:53+00:00
+
+ ## WinMerge - You will see the difference…
+ - [https://winmerge.sourceforge.net](https://winmerge.sourceforge.net)
+ - date_published: 2024-05-09T05:02:26.340150+00:00
+ - tags: ['compare', 'desktop program', 'open source']
+
+ ## WURFL - Mobile Device Database by ScientiaMobile
+ - [https://wurfl.sourceforge.net](https://wurfl.sourceforge.net)
+ - date_published: 2024-09-02T16:22:49.635755+00:00
+
+ ## wxWidgets Dialog Designer
+ - [http://wxdsgn.sourceforge.net](http://wxdsgn.sourceforge.net)
+ - date_published: 2020-10-18T00:00:00+00:00
+
+ ## wxGlade: a GUI builder for wxWidgets/wxPython
+ - [https://wxglade.sourceforge.net](https://wxglade.sourceforge.net)
+ - date_published: 2024-06-15T12:22:58.445118+00:00
+
+ ## wxLaserTank
+ - [https://wxlasertank.sourceforge.net](https://wxlasertank.sourceforge.net)
+ - date_published: 2010-12-26T04:53:37+00:00
+
+ ## wxPerl
+ - [https://wxperl.sourceforge.net](https://wxperl.sourceforge.net)
+ - date_published: 2013-03-08T21:42:44+00:00
+
+ ## X11-Basic: BASIC for UNIX
+ - [http://x11-basic.sourceforge.net](http://x11-basic.sourceforge.net)
+ - date_published: 2020-07-16T08:49:16+00:00
+
+ ## xBaK
+ - [https://xbak.sourceforge.net](https://xbak.sourceforge.net)
+ - date_published: 2010-02-17T00:00:00+00:00
+
+ ## Xtreme Download Manager
+ - [http://xdman.sourceforge.net](http://xdman.sourceforge.net)
+ - date_published: 2024-11-10T19:01:16.573606+00:00
+
+ ## XeTeX - Unicode-based TeX
+ - [http://xetex.sourceforge.net](http://xetex.sourceforge.net)
+ - date_published: 2014-11-26T14:51:18+00:00
+
+ ## the xine project - Home
+ - [http://xine.sourceforge.net](http://xine.sourceforge.net)
+ - date_published: 2020-12-06T13:35:55+00:00
+
+ ## XL: An extensible programming language
+ - [https://xlr.sourceforge.net](https://xlr.sourceforge.net)
+ - date_published: 2021-12-10T12:34:51+00:00
+
+ ## xmlrpc-epi
+ - [http://xmlrpc-epi.sourceforge.net](http://xmlrpc-epi.sourceforge.net)
+ - date_published: 2010-11-02T00:00:00+00:00
+
+ ## Xoops Cube Project
+ - [http://xoopscube.sourceforge.net](http://xoopscube.sourceforge.net)
+ - date_published: 2013-05-27T00:00:00+00:00
+
+ ## XPilot NG
+ - [https://xpilot.sourceforge.net](https://xpilot.sourceforge.net)
+ - date_published: 2005-06-11T20:02:46+00:00
+
+ ## XQilla
+ - [http://xqilla.sourceforge.net](http://xqilla.sourceforge.net)
+ - date_published: 2024-06-17T03:14:38.588044+00:00
+
+ ## xu4 - Ultima IV Recreated
+ - [https://xu4.sourceforge.net](https://xu4.sourceforge.net)
+ - date_published: 2024-05-09T09:10:07.011346+00:00
+ - tags: ['ultima 4', 'open source', 'ultima iv']
+
+ ## xVideoServiceThief Official Web site
+ - [http://xviservicethief.sourceforge.net](http://xviservicethief.sourceforge.net)
+ - date_published: 2024-07-16T20:10:17.203474+00:00
+
+ ## xxdiff
+ - [https://xxdiff.sourceforge.net](https://xxdiff.sourceforge.net)
+ - date_published: 2012-09-04T00:00:00+00:00
+
  ## Xye - A puzzle game with varied gameplay
  - [https://xye.sourceforge.net](https://xye.sourceforge.net)
  - date_published: 2024-05-09T08:58:38.743952+00:00
@@ -3943,117 +4058,4 @@ Ocean's Eleven fanlisting
  ## The Weather Station
  - [http://www.theweatherstation.net](http://www.theweatherstation.net)
  - date_published: 2024-09-16T03:36:29.076927+00:00
-
- ## amiga the wet machine – alternative computing with amiga and icaros desktop
- - [http://amiga.thewetmachine.net](http://amiga.thewetmachine.net)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## The Wikipedian | Substack
- - [http://thewikipedian.net](http://thewikipedian.net)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## the witching hours | los angeles
- - [https://www.thewitchinghours.net](https://www.thewitchinghours.net)
- - date_published: 2024-06-22T07:02:43.201210+00:00
-
- ## The Witness
- - [http://the-witness.net](http://the-witness.net)
- - date_published: 2018-04-23T18:42:42+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://theworldnews.net](https://theworldnews.net)
- - date_published: 2024-06-23T22:57:12.494216+00:00
-
- ## Buy Essay Online: 5 Best Sites to Purchase Cheap College Papers
- - [http://thewritingresource.net](http://thewritingresource.net)
- - date_published: 2021-09-23T11:00:14+00:00
-
- ## theXifer.net - Just a Web Based EXIF Editor for Local, Cloud, Flickr, Google Drive
- - [http://www.thexifer.net](http://www.thexifer.net)
- - date_published: 2024-08-18T19:27:14.615376+00:00
-
- ## TheYeshiva.net | Rabbi YY Jacobson
- - [http://theyeshiva.net](http://theyeshiva.net)
- - date_published: 2024-06-27T08:02:40.918247+00:00
-
- ## theyrule.net
- - [https://theyrule.net](https://theyrule.net)
- - date_published: 2023-07-11T20:13:52+00:00
- - tags: ['deep state', 'corporatocracy', 'big tech']
-
- ## The YUNiversity
- - [http://www.theyuniversity.net](http://www.theyuniversity.net)
- - date_published: 2024-08-19T16:07:32.413031+00:00
-
- ## Camisapedia
- - [https://camisapedia.thiagosf.net](https://camisapedia.thiagosf.net)
- - date_published: 2024-10-26T19:31:22.049098+00:00
-
- ## chatNow - Open Source Chat PHP & MySQL
- - [http://chatnow.thiagosf.net](http://chatnow.thiagosf.net)
- - date_published: 2024-10-26T19:31:25.287024+00:00
-
- ## Thiago Silva Ferreira - Full Stack Developer
- - [http://thiagosf.net](http://thiagosf.net)
- - date_published: 2024-05-21T13:36:37+00:00
-
- ## Harold Thimbleby - A RADICAL NEW BOOK ON DIGITAL HEALTHCARE
- - [https://harold.thimbleby.net](https://harold.thimbleby.net)
- - date_published: 2023-12-31T16:48:44+00:00
-
- ## things magazine
- - [https://thingsmagazine.net](https://thingsmagazine.net)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## ThingsPool
- - [https://thingspool.net](https://thingspool.net)
- - date_published: 2024-10-08T00:00:39+00:00
-
- ## Homepage - ThinkDigital Group
- - [https://thinkdigitalgroup.net](https://thinkdigitalgroup.net)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Thinking Meat
- - [https://thinkingmeat.net](https://thinkingmeat.net)
- - date_published: 2024-10-29T18:58:33+00:00
-
- ## THINKIUM
- - [https://thinkium.net](https://thinkium.net)
- - date_published: 2024-05-16T07:17:22+00:00
-
- ## Thinkium Developer Hub
- - [https://www.thinkiumdev.net](https://www.thinkiumdev.net)
- - date_published: 2024-05-16T07:33:08+00:00
-
- ## THINKEY
- - [https://chain0.thinkiumscan.net](https://chain0.thinkiumscan.net)
- - date_published: 2019-09-03T11:53:41+00:00
-
- ## browser
- - [https://chain103.thinkiumscan.net](https://chain103.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## browser
- - [https://chain1.thinkiumscan.net](https://chain1.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## browser
- - [https://chain2.thinkiumscan.net](https://chain2.thinkiumscan.net)
- - date_published: 2022-05-09T10:14:47+00:00
-
- ## Six · young Chinese in new China
- - [https://thinksix.net](https://thinksix.net)
- - date_published: 2024-10-21T09:10:01.227308+00:00
-
- ## Home Default - ThirdCode
- - [https://www.thirdcode.net](https://www.thirdcode.net)
- - date_published: 2021-09-28T12:55:08+00:00
-
- ## &> /dev/null
- - [https://thirtythreeforty.net](https://thirtythreeforty.net)
- - date_published: 2021-10-19T01:43:33+00:00
-
- ## This Can't Be Happening!
- - [https://thiscantbehappening.net](https://thiscantbehappening.net)
- - date_published: 2024-03-18T00:00:00+00:00
 

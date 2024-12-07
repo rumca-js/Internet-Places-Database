@@ -1,3 +1,35 @@
+ ## Sample Page
+ - [https://wfcache.advantech.com](https://wfcache.advantech.com)
+ - date_published: 2022-04-08T05:24:06+00:00
+
+ ## WISE-Marketplace
+ - [https://wise-paas.advantech.com](https://wise-paas.advantech.com)
+ - date_published: 2024-09-05T21:53:58.454967+00:00
+
+ ## Home
+ - [https://ibc.advarra.com](https://ibc.advarra.com)
+ - date_published: 2024-10-16T18:43:40+00:00
+
+ ## Advarra - Reimagine Clinical Research
+ - [https://info.advarra.com](https://info.advarra.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Advarra - Reimagine Clinical Research
+ - [https://www.advarra.com](https://www.advarra.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Portfolio Management and Accounting Solutions | SS&C Advent
+ - [https://advent.com](https://advent.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Home
+ - [https://blackdiamond.advent.com](https://blackdiamond.advent.com)
+ - date_published: 2024-05-01T02:28:39.176384+00:00
+
+ ## Portfolio Management and Accounting Solutions | SS&C Advent
+ - [https://info.advent.com](https://info.advent.com)
+ - date_published: 2024-05-01T02:28:21.618253+00:00
+
  ## Advent Login
  - [https://login.advent.com](https://login.advent.com)
  - date_published: 2024-05-01T02:28:22.683580+00:00
@@ -3990,36 +4022,4 @@
  ## AirbusWorld Helicopters | World's first civil helicopter manufacturer - AirbusWorld
  - [https://airbusworld.helicopters.airbus.com](https://airbusworld.helicopters.airbus.com)
  - date_published: 2024-04-17T00:00:00+00:00
-
- ## We are on a mission to connect today and tomorrow
- - [https://aircraft.airbus.com](https://aircraft.airbus.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## Welcome Beyond
- - [https://beyond.airbus.com](https://beyond.airbus.com)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Airbus Brand Centre
- - [https://brand.airbus.com](https://brand.airbus.com)
- - date_published: 2021-06-16T00:00:00+00:00
-
- ## Site under maintenance | Airbus
- - [https://ccntservice.airbus.com](https://ccntservice.airbus.com)
- - date_published: 2024-01-12T09:33:17+00:00
-
- ## OneLogin
- - [https://create.airbus.com](https://create.airbus.com)
- - date_published: 2024-07-08T18:34:51+00:00
-
- ## Airbus Foundation Discovery Space
- - [https://discoveryspace-foundation.airbus.com](https://discoveryspace-foundation.airbus.com)
- - date_published: 2022-03-04T00:00:00+00:00
-
- ## Airbus | Pioneering sustainable aerospace
- - [http://event.airbus.com](http://event.airbus.com)
- - date_published: 2021-06-11T00:00:00+00:00
-
- ## Geospatial Information Data and Intelligence | Airbus Intelligence
- - [https://intelligence.airbus.com](https://intelligence.airbus.com)
- - date_published: 2024-05-13T00:00:00+00:00
 

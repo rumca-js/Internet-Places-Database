@@ -1,3 +1,27 @@
+ ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
+ - [http://www.garotait.com.br](http://www.garotait.com.br)
+ - date_published: 2023-08-16T14:58:38+00:00
+
+ ## Gazeta da Semana - Portal de Notícias e Negócios GRÁTIS
+ - [https://gazetadasemana.com.br](https://gazetadasemana.com.br)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Genera - Ancestralidade, Saúde e Bem-Estar
+ - [https://www.genera.com.br](https://www.genera.com.br)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Descubra os melhores apps no GetApp Brasil para expandir sua empresa
+ - [https://www.getapp.com.br](https://www.getapp.com.br)
+ - date_published: 2024-08-08T18:07:17.777717+00:00
+
+ ## Fotos de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
+ - [https://gettyimages.com.br](https://gettyimages.com.br)
+ - date_published: 2024-10-31T20:05:40.887742+00:00
+
+ ## Glassdoor Help Center
+ - [https://ajuda.glassdoor.com.br](https://ajuda.glassdoor.com.br)
+ - date_published: 2023-07-12T20:05:46+00:00
+
  ## Busca de vagas no Glassdoor
  - [https://www.glassdoor.com.br](https://www.glassdoor.com.br)
  - date_published: 2024-05-06T09:09:46.730024+00:00
@@ -3987,28 +4011,4 @@
  ## Каталог товаров Shop.by – сравнение цен в интернет-магазинах Минска и Беларуси
  - [http://shop.by](http://shop.by)
  - date_published: 2024-10-17T07:03:51.377071+00:00
-
- ## Shor. Instagram Bio Supercharger
- - [https://shor.by](https://shor.by)
- - date_published: 2021-08-18T09:43:27+00:00
-
- ## Навіны Беларусі і свету на беларускай мове | bel.sputnik.by
- - [https://bel.sputnik.by](https://bel.sputnik.by)
- - date_published: 2024-06-15T08:47:22.249199+00:00
-
- ## Sputnik Беларусь - последние новости и главные события. Новости Беларуси сегодня.
- - [https://sputnik.by](https://sputnik.by)
- - date_published: 2024-09-16T18:49:26.107932+00:00
-
- ## Taxidermy Eyes | Taxidermy.by. Mammal eyes, bird eyes, fish eyes, reptile eyes
- - [http://www.taxidermy.by](http://www.taxidermy.by)
- - date_published: 2024-08-20T05:36:18.237565+00:00
-
- ## TopTweets.by
- - [https://toptweets.by](https://toptweets.by)
- - date_published: 2024-05-10T04:55:23.138340+00:00
-
- ## Beste casinoer i Norge 2024
- - [https://trd.by](https://trd.by)
- - date_published: 2024-07-12T22:42:44.106573+00:00
 

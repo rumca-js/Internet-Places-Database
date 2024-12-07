@@ -1,3 +1,35 @@
+ ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
+ - [https://ultra-s.ch](https://ultra-s.ch)
+ - date_published: 2024-06-13T13:53:27+00:00
+
+ ## Gitea: Git with a cup of tea
+ - [https://code.ungleich.ch](https://code.ungleich.ch)
+ - date_published: 2024-05-08T10:51:02.978903+00:00
+
+ ## Welcome to mirror.ungleich.ch
+ - [https://mirror.ungleich.ch](https://mirror.ungleich.ch)
+ - date_published: 2023-06-11T13:53:47+00:00
+
+ ## The world after systemd
+ - [https://the-world-after-systemd.ungleich.ch](https://the-world-after-systemd.ungleich.ch)
+ - date_published: 2016-02-25T13:46:36+00:00
+
+ ## ungleich.ch - Linux system engineering and VM hosting
+ - [https://ungleich.ch](https://ungleich.ch)
+ - date_published: 2024-06-22T12:06:29+00:00
+
+ ## Uni Basel
+ - [https://asknet.unibas.ch](https://asknet.unibas.ch)
+ - date_published: 2010-09-17T09:56:34+00:00
+
+ ## Beast Blog ...be a student!
+ - [http://beast.unibas.ch](http://beast.unibas.ch)
+ - date_published: 2024-07-21T05:13:00.844880+00:00
+
+ ## UB Basel Blog
+ - [https://blog.ub.unibas.ch](https://blog.ub.unibas.ch)
+ - date_published: 2024-08-08T23:40:12.035458+00:00
+
  ## Startseite | easyWeb lite
  - [https://easyweb-lite.unibas.ch](https://easyweb-lite.unibas.ch)
  - date_published: 2024-08-11T05:23:22.452421+00:00
@@ -3985,36 +4017,4 @@ Fakultät | Universität Basel
  ## catgirl.cloud
  - [https://status.catgirl.cloud](https://status.catgirl.cloud)
  - date_published: 2024-08-06T19:20:19.018494+00:00
-
- ## Cegedim Secure Cloud
- - [https://vpn.cegedim.cloud](https://vpn.cegedim.cloud)
- - date_published: 2024-07-06T23:41:52.578972+00:00
-
- ## Custom Small Business Website Design • Cemah Creative LLC
- - [https://cemah.cloud](https://cemah.cloud)
- - date_published: 2024-08-19T19:50:22.702604+00:00
-
- ## Cerbos Hub
- - [https://hub.cerbos.cloud](https://hub.cerbos.cloud)
- - date_published: 2024-07-23T21:20:51.904915+00:00
-
- ## Hello World
- - [https://assets.chrism.cloud](https://assets.chrism.cloud)
- - date_published: 2024-04-29T07:28:16.674637+00:00
-
- ## CleanShot Cloud
- - [https://cleanshot.cloud](https://cleanshot.cloud)
- - date_published: 2024-08-05T22:59:27.028097+00:00
-
- ## ClickHouse
- - [https://clickhouse.cloud](https://clickhouse.cloud)
- - date_published: 2024-05-08T05:35:57.608698+00:00
-
- ## Cloud Index
- - [http://cloud-index.cloud](http://cloud-index.cloud)
- - date_published: 2024-07-13T16:01:20.549997+00:00
-
- ## CockroachDB Cloud
- - [https://cockroachlabs.cloud](https://cockroachlabs.cloud)
- - date_published: 2024-05-08T05:48:01.546060+00:00
 

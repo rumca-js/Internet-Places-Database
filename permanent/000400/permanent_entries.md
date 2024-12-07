@@ -1,3 +1,127 @@
+ ## Biuro Rzecznika Małych i Średnich Przedsiębiorców
+ - [https://en.rzecznikmsp.gov.pl](https://en.rzecznikmsp.gov.pl)
+ - date_published: 2024-07-09T20:14:52.968810+00:00
+
+ ## Nauka i Biznes - Rzecznik MŚP
+ - [https://naukaibiznes.rzecznikmsp.gov.pl](https://naukaibiznes.rzecznikmsp.gov.pl)
+ - date_published: 2024-07-09T20:14:50.770178+00:00
+
+ ## Rzecznik Przedsiębiorców
+ - [https://rzecznikmsp.gov.pl](https://rzecznikmsp.gov.pl)
+ - date_published: 2024-05-09T06:26:57.008830+00:00
+
+ ## Globalne Statystyki GUS
+ - [http://sdg.gov.pl](http://sdg.gov.pl)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Welcome to ELI & Sejm API documentation! — Sejm API 1.0 documentation
+ - [https://api.sejm.gov.pl](https://api.sejm.gov.pl)
+ - date_published: 2024-07-04T11:17:56+00:00
+
+ ## Internetowy System Aktów Prawnych
+ - [https://isap.sejm.gov.pl](https://isap.sejm.gov.pl)
+ - date_published: 2024-08-18T11:46:21.346157+00:00
+
+ ## Sejm Rzeczypospolitej Polskiej
+ - [https://sejm.gov.pl](https://sejm.gov.pl)
+ - date_published: 2023-12-01T20:34:13.194103+00:00
+
+ ## Senat Rzeczypospolitej Polskiej
+ - [http://senat.gov.pl](http://senat.gov.pl)
+ - date_published: 2024-08-18T07:19:41+00:00
+
+ ## SMUP
+ - [https://smup.gov.pl](https://smup.gov.pl)
+ - date_published: 2024-04-22T08:10:10+00:00
+
+ ## Narodowy Spis Powszechny Ludności i Mieszkań 2021 – Strona informacyjna o Narodowym Spisie Powszechnym 2021
+ - [https://spis.gov.pl](https://spis.gov.pl)
+ - date_published: 2024-03-01T11:29:01+00:00
+
+ ## Powszechny Spis Rolny 2020
+ - [https://spisrolny.gov.pl](https://spisrolny.gov.pl)
+ - date_published: 2024-08-18T07:18:49+00:00
+
+ ## Strona główna - 100 lat Głównego Urzędu Statystycznego
+ - [http://100latgus.stat.gov.pl](http://100latgus.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:12+00:00
+
+ ## Portal API GUS
+ - [https://api.stat.gov.pl](https://api.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:57.325830+00:00
+
+ ## GUS - Bank Danych Lokalnych
+ - [https://bdl.stat.gov.pl](https://bdl.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:22.444872+00:00
+
+ ## Bank Danych Makroekonomicznych
+ - [https://bdm.stat.gov.pl](https://bdm.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:54.346219+00:00
+
+ ## Bank Danych Polska
+ - [https://bdp.stat.gov.pl](https://bdp.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:25.897876+00:00
+
+ ## Urząd Statystyczny w Białymstoku
+ - [http://bialystok.stat.gov.pl](http://bialystok.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:26+00:00
+
+ ## Biuletyn Informacji Publicznej
+ - [https://bip.stat.gov.pl](https://bip.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:00+00:00
+
+ ## Urząd Statystyczny w Bydgoszczy
+ - [http://bydgoszcz.stat.gov.pl](http://bydgoszcz.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:38+00:00
+
+ ## Centrum Informatyki Statystycznej
+ - [http://cis.stat.gov.pl](http://cis.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:56+00:00
+
+ ## GUS - Dashboard gospodarczy
+ - [https://dashboard.stat.gov.pl](https://dashboard.stat.gov.pl)
+ - date_published: 2024-04-02T12:41:21+00:00
+
+ ## Ładowanie
+ - [https://dbw.stat.gov.pl](https://dbw.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:58.277853+00:00
+
+ ## Dekompozycje
+ - [https://dekompozycje.stat.gov.pl](https://dekompozycje.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:24.101148+00:00
+
+ ## Główny Urząd Statystyczny / Dzienniki Urzędowe GUS
+ - [http://dziennikigus.stat.gov.pl](http://dziennikigus.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:54+00:00
+
+ ## Urząd Statystyczny w Gdańsku
+ - [http://gdansk.stat.gov.pl](http://gdansk.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:29+00:00
+
+ ## Strona główna
+ - [http://geo.stat.gov.pl](http://geo.stat.gov.pl)
+ - date_published: 2024-08-16T12:12:13+00:00
+
+ ## Urząd Statystyczny w Katowicach
+ - [http://katowice.stat.gov.pl](http://katowice.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:21+00:00
+
+ ## Urząd Statystyczny w Kielcach
+ - [http://kielce.stat.gov.pl](http://kielce.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:01+00:00
+
+ ## Urząd Statystyczny w Krakowie
+ - [http://krakow.stat.gov.pl](http://krakow.stat.gov.pl)
+ - date_published: 2024-08-18T07:18:47+00:00
+
+ ## Urząd Statystyczny w Łodzi
+ - [http://lodz.stat.gov.pl](http://lodz.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:51+00:00
+
+ ## Urząd Statystyczny w Lublinie
+ - [http://lublin.stat.gov.pl](http://lublin.stat.gov.pl)
+ - date_published: 2024-08-18T07:19:15+00:00
+
  ## Portal Naukowy GUS, Nauka GUS,
  - [https://nauka.stat.gov.pl](https://nauka.stat.gov.pl)
  - date_published: 2024-08-18T07:18:30.758179+00:00
@@ -3219,7 +3343,7 @@ Polska 1939
  ## Ceneo - porównanie cen, sklepy, perfumy, agd, rtv, komputery
  - [https://ceneo.pl](https://ceneo.pl)
  - date_published: 2023-10-24T20:20:37.877202+00:00
- - tags: ['page rank']
+ - tags: ['ranking page']
 
  ## Ekspert Ceneo - serwis o grach komputerowych, sprzęcie i cyfrowej rozrywce - Ekspert Ceneo
  - [https://ekspert.ceneo.pl](https://ekspert.ceneo.pl)
@@ -3980,130 +4104,4 @@ Polska 1939
  ## Wydarzenia sportowe wokół Ciebie | Decathlon GO
  - [https://go.decathlon.pl](https://go.decathlon.pl)
  - date_published: 2024-09-19T13:39:50.370756+00:00
-
- ## Biuro prasowe Decathlon
- - [http://media.decathlon.pl](http://media.decathlon.pl)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Wypożyczalnia sprzętu sportowego - Decathlon Rent
- - [https://rent.decathlon.pl](https://rent.decathlon.pl)
- - date_published: 2024-09-19T13:39:47.504300+00:00
-
- ## Decathlon Support
- - [https://support.decathlon.pl](https://support.decathlon.pl)
- - date_published: 2024-09-19T13:39:57.171333+00:00
-
- ## Praca i kariera w Decathlon – Sport to Twoja pasja? Jesteś osobą aktywną i szukasz pracy, która jest przygodą? Sprawdź oferty pracy w Decathlon i po prostu do nas dołącz!
- - [http://www.decathlonkariera.pl](http://www.decathlonkariera.pl)
- - date_published: 2024-09-19T13:37:34+00:00
-
- ## Deccoria.pl - porady dla domu i ogrodu - Artykuły, Wideo, Inspiracje
- - [https://deccoria.pl](https://deccoria.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## John Deere – Polska
- - [https://www.deere.pl](https://www.deere.pl)
- - date_published: 2024-08-11T16:53:43.235125+00:00
-
- ## cdn.defence24.pl
- - [https://cdn.defence24.pl](https://cdn.defence24.pl)
- - date_published: 2024-04-04T21:07:55+00:00
-
- ## Wojsko, przemysł, bezpieczeństwo, geopolityka
- - [https://defence24.pl](https://defence24.pl)
- - date_published: 2024-05-02T07:59:09.805711+00:00
-
- ## Gry strategiczne, księgarnia - Sklep Defence24
- - [https://sklep.defence24.pl](https://sklep.defence24.pl)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Broker on-line | Niskie opłaty | Inwestowanie |Broker DEGIRO
- - [https://www.degiro.pl](https://www.degiro.pl)
- - date_published: 2024-05-31T14:30:50+00:00
-
- ## Antystatyka dla przemysłu | Oferowane przez MS BERTOL urządzenia do usuwania ładunków elektrostatycznych znajdują zastosowanie w wielu różnych gałęziach przemysłu, a także w procesach związanych z pakowaniem gotowych wyrobów.
- - [http://www.dejonizator-jonizator.pl](http://www.dejonizator-jonizator.pl)
- - date_published: 2024-08-06T22:27:11.816290+00:00
-
- ## Dekodowanie kodu AZTEC 2D z dowodu rejestracyjnego
- - [https://dekoderaztec.pl](https://dekoderaztec.pl)
- - date_published: 2024-05-11T08:34:13.137707+00:00
-
- ## Hyundai Używane
- - [https://hyundai.dekra.pl](https://hyundai.dekra.pl)
- - date_published: 2024-07-19T22:41:17.614546+00:00
-
- ## DeliGoo - Ty sprzedajesz, my dostarczamy | Dostawy na żądanie dla twojej firmy
- - [https://deligoo.pl](https://deligoo.pl)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Największy sklep ze sprzętem obserwacyjnym w Polsce - Teleskopy, lornetki, mikroskopy, noktowizja, termowizja
- - [https://deltaoptical.pl](https://deltaoptical.pl)
- - date_published: 2024-06-26T11:44:49.327500+00:00
-
- ## Demotywatory.pl
- - [https://demotywatory.pl](https://demotywatory.pl)
- - date_published: 2023-10-31T13:19:51.709657+00:00
- - tags: ['memes', 'funny images']
-
- ## Demotywatory.pl
- - [http://m.demotywatory.pl](http://m.demotywatory.pl)
- - date_published: 2024-07-11T15:36:37.226444+00:00
-
- ## Demotywatory.pl
- - [https://img15.demotywatoryfb.pl](https://img15.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:13.860010+00:00
-
- ## Demotywatory.pl
- - [https://img17.demotywatoryfb.pl](https://img17.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:49.258439+00:00
-
- ## Demotywatory.pl
- - [https://img21.demotywatoryfb.pl](https://img21.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:03.970810+00:00
-
- ## Demotywatory.pl
- - [https://img27.demotywatoryfb.pl](https://img27.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:55.354198+00:00
-
- ## Demotywatory.pl
- - [https://img29.demotywatoryfb.pl](https://img29.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:36:50.646893+00:00
-
- ## Demotywatory.pl
- - [https://img7.demotywatoryfb.pl](https://img7.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:12.333792+00:00
-
- ## Demotywatory.pl
- - [https://img8.demotywatoryfb.pl](https://img8.demotywatoryfb.pl)
- - date_published: 2024-07-11T15:37:09.464074+00:00
-
- ## Biblia Tysiąclecia - Pismo Święte Starego i Nowego Testamentu
- - [https://biblia.deon.pl](https://biblia.deon.pl)
- - date_published: 2024-05-29T11:08:20.108167+00:00
-
- ## BLOG.DEON.PL – O Kościele Z KAŻDEJ STRONY
- - [https://blog.deon.pl](https://blog.deon.pl)
- - date_published: 2024-05-29T11:08:18.959568+00:00
-
- ## DEON.pl
- - [https://deon.pl](https://deon.pl)
- - date_published: 2023-10-25T22:26:47.842454+00:00
- - tags: ['christian news', 'catholic news', 'religion']
-
- ## Dobra wnuczka – Przyszłość zaczęła się wczoraj
- - [https://dobrawnuczka.blog.deon.pl](https://dobrawnuczka.blog.deon.pl)
- - date_published: 2024-05-29T11:08:29.494359+00:00
-
- ## druga
- - [https://druga.blog.deon.pl](https://druga.blog.deon.pl)
- - date_published: 2024-05-29T11:08:13.302712+00:00
-
- ## Jaśminowa | codzienność pełna Boga
- - [https://jasminowa.blog.deon.pl](https://jasminowa.blog.deon.pl)
- - date_published: 2024-05-29T11:08:25.961005+00:00
-
- ## Magdalena Urbańska – Są spojrzenia, które bez słów już są spotkaniem… Są słowa, które znaczą więcej niż spojrzenie… Są spotkania, które odmieniają bieg naszej historii… Zatrzymaj się, posiedź u mnie chwilkę, odpocznij…
- - [https://niezawodnanadzieja.blog.deon.pl](https://niezawodnanadzieja.blog.deon.pl)
- - date_published: 2024-05-29T11:08:17.094401+00:00
 

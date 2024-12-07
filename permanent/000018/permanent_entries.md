@@ -1,3 +1,28 @@
+ ## Making It Up
+ - [http://play.fallows.ca](http://play.fallows.ca)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## FanCons.ca - Canadian Comic, Sci-Fi, Anime, and Pop-Culture Fan Conventions
+ - [https://fancons.ca](https://fancons.ca)
+ - date_published: 2024-05-13T03:53:37.103488+00:00
+ - tags: ['conventions']
+
+ ## Forum Index - AnimeCons.com Forums
+ - [https://forums.fancons.ca](https://forums.fancons.ca)
+ - date_published: 2024-07-17T12:59:04.842879+00:00
+
+ ## Murdoch Rocks!
+ - [http://www.fandom.ca](http://www.fandom.ca)
+ - date_published: 2021-09-21T15:38:23+00:00
+
+ ## Fanshawe College
+ - [https://www.fanshawec.ca](https://www.fanshawec.ca)
+ - date_published: 2024-07-09T19:05:55+00:00
+
+ ## Home | Farm Boy
+ - [https://www.farmboy.ca](https://www.farmboy.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Federation of Black Canadians
  - [https://fbcfcn.ca](https://fbcfcn.ca)
  - date_published: 2024-10-11T00:00:00+00:00
@@ -4019,28 +4044,4 @@
  ## League of Canadian Poets Home
  - [https://poets.ca](https://poets.ca)
  - date_published: 2024-07-20T00:00:00+00:00
-
- ## Honza's git repositories
- - [https://git.pokorny.ca](https://git.pokorny.ca)
- - date_published: 2024-09-04T03:40:41.413776+00:00
-
- ## Honza Pokorný
- - [https://honza.pokorny.ca](https://honza.pokorny.ca)
- - date_published: 2024-06-01T04:52:15.881714+00:00
-
- ## Polarcon
- - [https://polarcon.ca](https://polarcon.ca)
- - date_published: 2024-08-30T01:02:18+00:00
-
- ## Polaris Music Prize
- - [https://polarismusicprize.ca](https://polarismusicprize.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## | Canadian Centre for Policy Alternatives
- - [https://www.policyalternatives.ca](https://www.policyalternatives.ca)
- - date_published: 2024-08-02T18:01:09.429086+00:00
-
- ## The School of Public Policy
- - [https://www.policyschool.ca](https://www.policyschool.ca)
- - date_published: 2016-02-15T19:05:29+00:00
 

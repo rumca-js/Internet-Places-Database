@@ -1,3 +1,84 @@
+ ## Fine Art by Maggie Vandewalle
+ - [http://www.maggievandewalle.com](http://www.maggievandewalle.com)
+ - date_published: 2024-09-06T13:13:39.956702+00:00
+
+ ## Magical How? - Home
+ - [https://magicalhowcomic.com](https://magicalhowcomic.com)
+ - date_published: 2024-08-05T16:32:19.886192+00:00
+
+ ## timeOS
+ - [https://app.magicalhq.com](https://app.magicalhq.com)
+ - date_published: 2024-10-29T15:47:38+00:00
+
+ ## MagicalTimeBean
+ - [http://www.magicaltimebean.com](http://www.magicaltimebean.com)
+ - date_published: 2024-07-11T11:52:29.446701+00:00
+
+ ## Home
+ - [http://www.magicalvacationplanner.com](http://www.magicalvacationplanner.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Harry Potter: Magic Awakened
+ - [https://magicawakened.com](https://magicawakened.com)
+ - date_published: 2024-06-18T15:20:25+00:00
+ - tags: ['card game', 'harry potter']
+
+ ## Store | Harry Potter: Magic Awakened
+ - [https://store.magicawakened.com](https://store.magicawakened.com)
+ - date_published: 2024-06-15T12:11:10.384150+00:00
+
+ ## Magic Baby Names - Quickly find a baby name you love!
+ - [https://www.magicbabynames.com](https://www.magicbabynames.com)
+ - date_published: 2024-05-02T14:02:25.780124+00:00
+
+ ## In-app & Push Notifications for Progressive Web Apps | MagicBell
+ - [https://magicbell.com](https://magicbell.com)
+ - date_published: 2024-06-23T06:17:08.338333+00:00
+
+ ## MagicBrief
+ - [https://app.magicbrief.com](https://app.magicbrief.com)
+ - date_published: 2024-10-30T09:03:02+00:00
+
+ ## MagicBrief - Give your marketing team superpowers
+ - [https://magicbrief.com](https://magicbrief.com)
+ - date_published: 2024-10-30T12:59:24+00:00
+
+ ## Magic Desert Tours - The best tour agency in town
+ - [https://magicdeserttours.com](https://magicdeserttours.com)
+ - date_published: 2024-08-06T03:12:41+00:00
+
+ ## MagicDisk64
+ - [http://www.magicdisk64.com](http://www.magicdisk64.com)
+ - date_published: 2024-07-30T05:28:02+00:00
+
+ ## Magic Earth - Free Navigation & Maps App for Android and iPhone
+ - [https://www.magicearth.com](https://www.magicearth.com)
+ - date_published: 2023-10-25T08:24:50.926584+00:00
+
+ ## Ermine: Ermine - Linux Portable Application Creator
+ - [http://www.magicermine.com](http://www.magicermine.com)
+ - date_published: 2024-02-26T18:22:30+00:00
+
+ ## Trend & Young Contemporary Women's Fashion - MAGIC
+ - [https://www.magicfashionevents.com](https://www.magicfashionevents.com)
+ - date_published: 2024-05-06T14:19:33.866858+00:00
+
+ ## magickimg
+ - [https://magickimg.com](https://magickimg.com)
+ - date_published: 2024-10-30T08:23:52.087809+00:00
+
+ ## Magick Multimedia
+ - [https://magickmultimedia.com](https://magickmultimedia.com)
+ - date_published: 2024-06-23T06:59:42.687196+00:00
+
+ ## MagickPen Blog
+ - [https://blog.magickpen.com](https://blog.magickpen.com)
+ - date_published: 2024-10-30T19:13:50+00:00
+
+ ## MagickPen
+ - [https://magickpen.com](https://magickpen.com)
+ - date_published: 2024-06-19T20:58:05.076503+00:00
+
  ## OnePrompt
  - [https://oneprompt.magickworx.com](https://oneprompt.magickworx.com)
  - date_published: 2023-11-13T23:50:03+00:00
@@ -3952,84 +4033,4 @@
  ## Maplesoft - Mathematikbasierte Software und Dienstleistungen für den Bereich Ausbildung, Technik und Forschung
  - [https://de.maplesoft.com](https://de.maplesoft.com)
  - date_published: 2024-07-06T23:17:39.952735+00:00
-
- ## FAQ
- - [https://faq.maplesoft.com](https://faq.maplesoft.com)
- - date_published: 2023-07-07T23:17:36+00:00
-
- ## Maplesoft - Technical Computing Software pour les ingénieurs, mathématiciens, scientifiques, enseignants et les étudiants
- - [https://fr.maplesoft.com](https://fr.maplesoft.com)
- - date_published: 2024-07-06T23:17:42.953360+00:00
-
- ## Maplesoft - Software for Mathematics, Online Learning, Engineering
- - [https://jp.maplesoft.com](https://jp.maplesoft.com)
- - date_published: 2024-07-06T23:17:17.862373+00:00
-
- ## Maplesoft - Software for Mathematics, Online Learning, Engineering
- - [https://maplesoft.com](https://maplesoft.com)
- - date_published: 2024-05-08T08:43:03.824458+00:00
-
- ## Maplesoft Store
- - [https://webstore.maplesoft.com](https://webstore.maplesoft.com)
- - date_published: 2024-07-06T23:17:34.394226+00:00
-
- ## Maple Valley Pharms - Home
- - [https://www.maplevalleypharms.com](https://www.maplevalleypharms.com)
- - date_published: 2024-07-12T22:58:09.701526+00:00
-
- ## Login to Build a Map from Excel Spreadsheet Data
- - [https://app.mapline.com](https://app.mapline.com)
- - date_published: 2024-07-04T11:04:41.537000+00:00
-
- ## The Most Powerful Mapping Software on the Planet - Mapline
- - [https://mapline.com](https://mapline.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## MapLoco! - Web Visitor Map - Visited States Map
- - [https://map1.maploco.com](https://map1.maploco.com)
- - date_published: 2024-06-20T17:48:21.488928+00:00
-
- ## MapLoco! - Web Visitor Map - Visited States Map
- - [http://m.maploco.com](http://m.maploco.com)
- - date_published: 2024-06-20T17:47:42.425895+00:00
-
- ## MapLoco! - Web Visitor Map - Visited States Map
- - [https://www.maploco.com](https://www.maploco.com)
- - date_published: 2024-05-04T09:34:17.815976+00:00
-
- ## KLONK Map Measurement
- - [https://mapmeasurement.com](https://mapmeasurement.com)
- - date_published: 2024-06-12T02:36:09.353190+00:00
-
- ## MapMSG.com - Smoke signals
- - [http://www.mapmsg.com](http://www.mapmsg.com)
- - date_published: 2024-07-04T14:19:22.742245+00:00
-
- ## MapMyRide
- - [https://mapmyride.com](https://mapmyride.com)
- - date_published: 2019-06-14T00:00:00+00:00
-
- ## MapMyRun
- - [http://www.mapmyrun.com](http://www.mapmyrun.com)
- - date_published: 2024-08-07T23:16:45.457854+00:00
-
- ## City of Oakland Maps
- - [http://mapoakland.com](http://mapoakland.com)
- - date_published: 2019-07-16T22:52:53+00:00
-
- ## Map of zones - Cosmos network explorer
- - [https://mapofzones.com](https://mapofzones.com)
- - date_published: 2024-09-06T09:34:25+00:00
-
- ## Fleet Management & Asset Tracking Platform
- - [https://www.mapon.com](https://www.mapon.com)
- - date_published: 2024-06-30T05:27:59.263060+00:00
-
- ## Mapotic Help Portal | Mapotic Help
- - [https://help.mapotic.com](https://help.mapotic.com)
- - date_published: 2024-07-08T09:39:48+00:00
-
- ## Maps and data simplified
- - [https://mapotic.com](https://mapotic.com)
- - date_published: 2024-03-19T00:00:00+00:00
 

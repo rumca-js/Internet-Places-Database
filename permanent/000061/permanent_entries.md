@@ -1,3 +1,44 @@
+ ## Working notes
+ - [http://mikejohnduff.blogspot.com](http://mikejohnduff.blogspot.com)
+ - date_published: 2024-02-07T05:39:30+00:00
+
+ ## Mike Lynch Cartoons
+ - [https://mikelynchcartoons.blogspot.com](https://mikelynchcartoons.blogspot.com)
+ - date_published: 2023-10-25T09:09:53.674589+00:00
+ - tags: ['personal']
+
+ ## mikemcguff.com
+ - [https://mikemcguff.blogspot.com](https://mikemcguff.blogspot.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Thoughts, reflections and rants!
+ - [http://mikepcshaw.blogspot.com](http://mikepcshaw.blogspot.com)
+ - date_published: 2024-09-01T14:30:55+00:00
+
+ ## Mike's Eyes (Spotted By)
+ - [http://mikeseyes.blogspot.com](http://mikeseyes.blogspot.com)
+ - date_published: 2024-03-24T18:47:00+00:00
+
+ ## Mike's Random Wargame Meanderings Blog
+ - [https://mikesrandomwargamemeanderings.blogspot.com](https://mikesrandomwargamemeanderings.blogspot.com)
+ - date_published: 2024-07-18T10:06:06+00:00
+
+ ## Mike Types
+ - [https://miketypes.blogspot.com](https://miketypes.blogspot.com)
+ - date_published: 2024-07-04T05:42:19+00:00
+
+ ## Mikey's Action Figures
+ - [http://mikeysactionfigures.blogspot.com](http://mikeysactionfigures.blogspot.com)
+ - date_published: 2024-08-29T01:11:27+00:00
+
+ ## Mikey Sklar
+ - [https://mikeysklar.blogspot.com](https://mikeysklar.blogspot.com)
+ - date_published: 2024-02-08T22:18:56.447615+00:00
+
+ ## MOZ O'CLOCK
+ - [https://mikimoz.blogspot.com](https://mikimoz.blogspot.com)
+ - date_published: 2024-09-02T16:22:51+00:00
+
  ## Gurer - the blog
  - [http://mikkelnyboe.blogspot.com](http://mikkelnyboe.blogspot.com)
  - date_published: 2024-07-04T06:33:33+00:00
@@ -3976,44 +4017,4 @@
  ## Mr Papafakis
  - [https://papafakis.blogspot.com](https://papafakis.blogspot.com)
  - date_published: 2024-03-13T21:14:42+00:00
-
- ## papel y maquina
- - [https://papelymaquina.blogspot.com](https://papelymaquina.blogspot.com)
- - date_published: 2024-03-21T06:21:21+00:00
-
- ## herbert pfostl's paper graveyard
- - [http://papergraveyard.blogspot.com](http://papergraveyard.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## PAPERMAU
- - [http://papermau.blogspot.com](http://papermau.blogspot.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## paperpools
- - [https://paperpools.blogspot.com](https://paperpools.blogspot.com)
- - date_published: 2024-05-07T21:46:58.642350+00:00
-
- ## The Paperwalker Journal - by Florian Satzinger
- - [http://paperwalker.blogspot.com](http://paperwalker.blogspot.com)
- - date_published: 2024-07-13T06:16:09+00:00
-
- ## Pappy's Golden Age Comics Blogzine
- - [https://pappysgoldenage.blogspot.com](https://pappysgoldenage.blogspot.com)
- - date_published: 2024-07-17T05:47:15+00:00
-
- ## Philthy-Delphia
- - [http://pappys-rants.blogspot.com](http://pappys-rants.blogspot.com)
- - date_published: 2024-06-26T21:57:18+00:00
-
- ## Paracademia
- - [http://paracademia.blogspot.com](http://paracademia.blogspot.com)
- - date_published: 2024-03-13T17:57:13+00:00
-
- ## MYSTERIES in PARADISE
- - [http://paradise-mysteries.blogspot.com](http://paradise-mysteries.blogspot.com)
- - date_published: 2024-09-16T10:16:08+00:00
-
- ## Paradox0ns Wargaming Blog
- - [https://paradox0n.blogspot.com](https://paradox0n.blogspot.com)
- - date_published: 2024-10-26T07:28:37+00:00
 

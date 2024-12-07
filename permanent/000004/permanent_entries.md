@@ -1,3 +1,7 @@
+ ## Wegic | The first AI web designer & developer by your side.
+ - [https://wegic.ai](https://wegic.ai)
+ - date_published: 2024-06-14T08:53:31.371770+00:00
+
  ## Welltested AI - Unit, Widget and Integration Tests for Flutter
  - [https://www.welltested.ai](https://www.welltested.ai)
  - date_published: 2024-10-30T07:26:34.446167+00:00
@@ -4015,8 +4019,4 @@
  ## Hansei - Chat with your Knowledgebase
  - [https://hansei.app](https://hansei.app)
  - date_published: 2023-10-25T11:46:38.618243+00:00
-
- ## Happy Bob turns diabetes data into rewarding experiences and better health
- - [https://happybob.app](https://happybob.app)
- - date_published: 2024-10-17T05:51:28.387223+00:00
 

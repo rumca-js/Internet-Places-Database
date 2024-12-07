@@ -1,3 +1,43 @@
+ ## IVA NOVA
+ - [https://ivanovaband.bandcamp.com](https://ivanovaband.bandcamp.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## I, Voidhanger Records
+ - [https://i-voidhangerrecords.bandcamp.com](https://i-voidhangerrecords.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Jacaszek
+ - [https://jacaszekreleases.bandcamp.com](https://jacaszekreleases.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Jack Cade and the Everyday Sinners
+ - [https://jackcade.bandcamp.com](https://jackcade.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Jack Chrome and the Darkness Waltz, by Russell Morris & Rick Springfield
+ - [https://jackchrome.bandcamp.com](https://jackchrome.bandcamp.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Dakota Blue Moon, by Jackson Harden
+ - [https://jacksonharden.bandcamp.com](https://jacksonharden.bandcamp.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Jack Van Cleaf
+ - [https://jackvancleaf.bandcamp.com](https://jackvancleaf.bandcamp.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Jakub Lemiszewski
+ - [https://jakublemiszewski.bandcamp.com](https://jakublemiszewski.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## James Alexander Bright
+ - [https://jamesalexanderbright.bandcamp.com](https://jamesalexanderbright.bandcamp.com)
+ - date_published: 2024-07-19T22:25:12.338394+00:00
+
+ ## James Brandon Lewis
+ - [https://jamesbrandonlewis.bandcamp.com](https://jamesbrandonlewis.bandcamp.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
  ## JamesNotJim
  - [https://jamesnotjim.bandcamp.com](https://jamesnotjim.bandcamp.com)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -3959,44 +3999,4 @@
  ## Bankless Academy
  - [https://app.banklessacademy.com](https://app.banklessacademy.com)
  - date_published: 2024-09-24T11:00:11.766047+00:00
-
- ## Bankless Africa
- - [https://www.banklessafrica.com](https://www.banklessafrica.com)
- - date_published: 2023-05-30T09:04:28+00:00
-
- ## BanklessHQ
- - [https://merch.banklesshq.com](https://merch.banklesshq.com)
- - date_published: 2024-09-25T12:18:54.627491+00:00
-
- ## Bankless
- - [http://podcast.banklesshq.com](http://podcast.banklesshq.com)
- - date_published: 2024-05-06T13:42:39.090144+00:00
-
- ## We moved to Bankless.com | Substack
- - [https://shows.banklesshq.com](https://shows.banklesshq.com)
- - date_published: 2024-09-19T00:41:27.094040+00:00
-
- ## BankMD
- - [https://bankmd.com](https://bankmd.com)
- - date_published: 2024-05-09T07:27:00.792400+00:00
-
- ## BanknoteNews – Breaking news about world paper money. Powered by The Banknote Book.
- - [http://banknotenews.com](http://banknotenews.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## CDS Global : w1.buysub.com
- - [https://my.banknotereporter.com](https://my.banknotereporter.com)
- - date_published: 2024-07-08T16:05:45.986006+00:00
-
- ## BankObserver
- - [https://bankobserver-wavestone.com](https://bankobserver-wavestone.com)
- - date_published: 2024-04-28T05:08:22.013969+00:00
-
- ## About Bank of America - Our People, Our Passion, Our Purpose
- - [https://about.bankofamerica.com](https://about.bankofamerica.com)
- - date_published: 2024-06-16T10:00:18+00:00
-
- ## Bank of America Private Bank - Sign-In & Access Your Account,Bank of America Private Bank - Sign-In & Access Your Account,Bank of America Private Bank - Sign-In & Access Your Account
- - [https://auth.privatebank.bankofamerica.com](https://auth.privatebank.bankofamerica.com)
- - date_published: 2024-09-30T16:05:28.508460+00:00
 

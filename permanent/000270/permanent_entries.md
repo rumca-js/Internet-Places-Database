@@ -1,3 +1,99 @@
+ ## Financial Aid & Scholarships
+ - [https://fas.ucsd.edu](https://fas.ucsd.edu)
+ - date_published: 2024-06-13T17:27:40+00:00
+
+ ## https://fmeyer.ucsd.edu
+ - [https://fmeyer.ucsd.edu](https://fmeyer.ucsd.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## UC San Diego Foundation
+ - [https://foundation.ucsd.edu](https://foundation.ucsd.edu)
+ - date_published: 2024-05-24T23:30:49+00:00
+
+ ## Founders' Pledge
+ - [https://founderspledge.ucsd.edu](https://founderspledge.ucsd.edu)
+ - date_published: 2024-04-11T16:52:25+00:00
+
+ ## Free Expression
+ - [https://freespeech.ucsd.edu](https://freespeech.ucsd.edu)
+ - date_published: 2024-01-10T23:37:14+00:00
+
+ ## Fulbright
+ - [https://fulbright.ucsd.edu](https://fulbright.ucsd.edu)
+ - date_published: 2024-08-30T21:55:55+00:00
+
+ ## Global Environmental Leadership and Sustainability
+ - [http://gels.ucsd.edu](http://gels.ucsd.edu)
+ - date_published: 2024-04-12T22:46:14+00:00
+
+ ## Center for Student Involvement
+ - [https://getinvolved.ucsd.edu](https://getinvolved.ucsd.edu)
+ - date_published: 2024-09-13T18:15:38+00:00
+
+ ## Giving
+ - [https://giving.ucsd.edu](https://giving.ucsd.edu)
+ - date_published: 2024-06-05T18:05:18+00:00
+
+ ## Global Initiatives
+ - [http://global.ucsd.edu](http://global.ucsd.edu)
+ - date_published: 2024-08-29T19:13:15+00:00
+
+ ## Index of /
+ - [https://goto.ucsd.edu](https://goto.ucsd.edu)
+ - date_published: 2023-10-25T19:01:14.176997+00:00
+
+ ## Custom Domain by Bitly
+ - [https://go.ucsd.edu](https://go.ucsd.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## GPS News
+ - [https://gpsnews.ucsd.edu](https://gpsnews.ucsd.edu)
+ - date_published: 2024-07-02T01:34:41.539503+00:00
+
+ ## School of Global Policy and Strategy
+ - [https://gps.ucsd.edu](https://gps.ucsd.edu)
+ - date_published: 2024-05-07T21:01:58.215434+00:00
+
+ ## Grad Ed & Postdoc Affrs
+ - [https://grad.ucsd.edu](https://grad.ucsd.edu)
+ - date_published: 2024-05-07T21:07:25.397224+00:00
+
+ ## HACKING 4 THE OCEANS
+ - [http://h4oceans.ucsd.edu](http://h4oceans.ucsd.edu)
+ - date_published: 2024-07-20T15:33:53.372579+00:00
+
+ ## DCog-HCI Lab @ UCSD - Home
+ - [http://hci.ucsd.edu](http://hci.ucsd.edu)
+ - date_published: 2022-10-06T17:13:11+00:00
+
+ ## Halıcıoğlu Data Science Institute – UC San Diego
+ - [http://hdsi.ucsd.edu](http://hdsi.ucsd.edu)
+ - date_published: 2024-06-22T09:59:11.093002+00:00
+
+ ## UC San Diego Health | San Diego Hospital, Healthcare
+ - [https://health.ucsd.edu](https://health.ucsd.edu)
+ - date_published: 2024-06-16T21:57:30.228377+00:00
+
+ ## Herbgrind analyzes binaries to find inaccurate floating point expressions
+ - [https://herbgrind.ucsd.edu](https://herbgrind.ucsd.edu)
+ - date_published: 2018-09-10T20:46:06+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://hireonline.ucsd.edu](https://hireonline.ucsd.edu)
+ - date_published: 2024-09-13T18:36:40.113551+00:00
+
+ ## UC San Diego Homecoming
+ - [https://homecoming.ucsd.edu](https://homecoming.ucsd.edu)
+ - date_published: 2024-09-26T18:28:08+00:00
+
+ ## Herbert Wertheim School of Public Health and Human Longevity Science – Academic Year Annual Report
+ - [https://hwsphreport.ucsd.edu](https://hwsphreport.ucsd.edu)
+ - date_published: 2024-07-02T01:37:31.882171+00:00
+
+ ## UC San Diego Herbert Wertheim School of Public Health and Human Longevity Science
+ - [https://hwsph.ucsd.edu](https://hwsph.ucsd.edu)
+ - date_published: 2024-05-02T00:07:09+00:00
+
  ## Project IDA
  - [http://ida.ucsd.edu](http://ida.ucsd.edu)
  - date_published: 2024-07-10T02:20:53.929989+00:00
@@ -3907,100 +4003,4 @@
  ## Linguistics | University of Kentucky College of Arts & Sciences
  - [https://linguistics.as.uky.edu](https://linguistics.as.uky.edu)
  - date_published: 2024-09-11T00:00:00+00:00
-
- ## University of Kentucky - University of Kentucky :: directions
- - [https://maps.uky.edu](https://maps.uky.edu)
- - date_published: 2023-10-11T05:58:20+00:00
-
- ## Home | Martin School of Public Policy and Administration
- - [https://martin.uky.edu](https://martin.uky.edu)
- - date_published: 2024-06-16T22:21:43.704819+00:00
-
- ## MCLLC | University of Kentucky College of Arts & Sciences
- - [https://mcl.as.uky.edu](https://mcl.as.uky.edu)
- - date_published: 2024-07-18T21:24:44+00:00
-
- ## University of Kentucky College of Medicine | University of Kentucky College of Medicine
- - [https://medicine.uky.edu](https://medicine.uky.edu)
- - date_published: 2024-06-16T19:26:16+00:00
-
- ## Home / EMS
- - [https://meetatbigblue.uky.edu](https://meetatbigblue.uky.edu)
- - date_published: 2024-07-02T02:56:08.362446+00:00
-
- ## SAP Netweaver Portal
- - [https://myuk.uky.edu](https://myuk.uky.edu)
- - date_published: 2024-05-07T21:23:02.127030+00:00
-
- ## Home | College News
- - [https://news.ca.uky.edu](https://news.ca.uky.edu)
- - date_published: 2024-05-07T21:23:26.480355+00:00
-
- ## Home | Center for Next Generational Leadership
- - [https://nextgen.uky.edu](https://nextgen.uky.edu)
- - date_published: 2024-10-14T23:29:38.457536+00:00
-
- ## Notable Kentucky African Americans Database
- - [https://nkaa.uky.edu](https://nkaa.uky.edu)
- - date_published: 2024-10-14T23:38:16.444742+00:00
-
- ## Home | College of Nursing
- - [https://nursing.uky.edu](https://nursing.uky.edu)
- - date_published: 2024-10-14T23:07:03.359246+00:00
-
- ## Home | University of Kentucky College of Arts & Sciences
- - [https://online.as.uky.edu](https://online.as.uky.edu)
- - date_published: 2024-07-01T20:10:13+00:00
-
- ## UK Online | University of Kentucky
- - [https://online.uky.edu](https://online.uky.edu)
- - date_published: 2024-06-16T22:22:05.187310+00:00
-
- ## Home | Orientation
- - [https://orientation.uky.edu](https://orientation.uky.edu)
- - date_published: 2024-07-02T03:09:58.005221+00:00
-
- ## Home | Patterson School of Diplomacy and International Commerce
- - [https://pattersonschool.uky.edu](https://pattersonschool.uky.edu)
- - date_published: 2024-10-14T23:07:05.491519+00:00
-
- ## Homepage | UK College of Pharmacy
- - [https://pharmacy.uky.edu](https://pharmacy.uky.edu)
- - date_published: 2024-06-16T22:21:21.392317+00:00
-
- ## Home | University of Kentucky Police Department
- - [https://police.uky.edu](https://police.uky.edu)
- - date_published: 2024-07-02T03:05:52.592373+00:00
-
- ## Office of the President | Office of the President
- - [https://pres.uky.edu](https://pres.uky.edu)
- - date_published: 2024-06-16T22:21:26.981908+00:00
-
- ## Home | Office of The Provost
- - [https://provost.uky.edu](https://provost.uky.edu)
- - date_published: 2024-06-16T22:21:23.232339+00:00
-
- ## Robinson Center
- - [http://rcars.ca.uky.edu](http://rcars.ca.uky.edu)
- - date_published: 2024-07-02T03:08:54+00:00
-
- ## Home | Office of the University Registrar
- - [https://registrar.uky.edu](https://registrar.uky.edu)
- - date_published: 2024-06-16T22:20:52.636123+00:00
-
- ## Home | University Regulations
- - [https://regs.uky.edu](https://regs.uky.edu)
- - date_published: 2024-10-14T23:38:52.095914+00:00
-
- ## Research |
- - [https://research.ca.uky.edu](https://research.ca.uky.edu)
- - date_published: 2024-05-07T21:23:15.884052+00:00
-
- ## Home | University of Kentucky Research
- - [https://research.uky.edu](https://research.uky.edu)
- - date_published: 2024-03-07T18:28:27.352122+00:00
-
- ## Page Redirection
- - [https://ris.uky.edu](https://ris.uky.edu)
- - date_published: 2024-02-22T21:31:16+00:00
 

@@ -1,3 +1,124 @@
+ ## The Roc Programming Language
+ - [https://roc-lang.org](https://roc-lang.org)
+ - date_published: 2024-05-06T15:16:43.034767+00:00
+ - tags: ['programming language']
+
+ ## Rocpridefest
+ - [https://www.rocpridefest.org](https://www.rocpridefest.org)
+ - date_published: 2024-08-20T03:59:08.680684+00:00
+
+ ## Rodale Institute - Global Leaders in Organic Agriculture Research
+ - [http://www.rodaleinstitute.org](http://www.rodaleinstitute.org)
+ - date_published: 2024-10-19T05:27:06.963913+00:00
+
+ ## Home | Roddenberry Foundation
+ - [https://roddenberryfoundation.org](https://roddenberryfoundation.org)
+ - date_published: 2023-09-04T00:00:00+00:00
+
+ ## The Roddenberry Prize
+ - [https://roddenberryprize.org](https://roddenberryprize.org)
+ - date_published: 2024-07-09T10:34:07.756442+00:00
+
+ ## Home - Rodef Shalom 613
+ - [https://rodefshalom613.org](https://rodefshalom613.org)
+ - date_published: 2023-10-27T12:06:58.791396+00:00
+
+ ## Начало - Асоциация Родители
+ - [http://roditeli.org](http://roditeli.org)
+ - date_published: 2021-07-09T05:51:31+00:00
+
+ ## Homepage - ROD'S HOUSE
+ - [https://rodshouse.org](https://rodshouse.org)
+ - date_published: 2023-03-08T19:42:45+00:00
+
+ ## Roebling Museum
+ - [https://www.roeblingmuseum.org](https://www.roeblingmuseum.org)
+ - date_published: 2024-08-10T23:23:35.737545+00:00
+
+ ## Rogue Scholar
+ - [https://rogue-scholar.org](https://rogue-scholar.org)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Rohingya Response | Rohingya Response
+ - [https://rohingyaresponse.org](https://rohingyaresponse.org)
+ - date_published: 2024-08-07T22:29:32.246009+00:00
+
+ ## Roice Nelson
+ - [http://roice3.org](http://roice3.org)
+ - date_published: 2019-09-18T02:27:37+00:00
+
+ ## Rolands Art
+ - [https://rolands-art.org](https://rolands-art.org)
+ - date_published: 2023-11-28T12:27:11+00:00
+
+ ## Role Reboot - Life, Off Script
+ - [https://rolereboot.org](https://rolereboot.org)
+ - date_published: 2020-01-26T17:52:29+00:00
+
+ ## Lasting contributions to future generations - Rolex.org
+ - [https://www.rolex.org](https://www.rolex.org)
+ - date_published: 2024-07-13T02:28:27.555533+00:00
+
+ ## Homepage | RBM Partnership to End Malaria
+ - [http://www.rollbackmalaria.org](http://www.rollbackmalaria.org)
+ - date_published: 2024-06-28T11:25:02+00:00
+
+ ## Debt Abolition
+ - [https://rollingjubilee.org](https://rollingjubilee.org)
+ - date_published: 2024-07-01T09:15:38.292897+00:00
+
+ ## Rollup 中文文档
+ - [https://cn.rollupjs.org](https://cn.rollupjs.org)
+ - date_published: 2024-06-23T09:11:11.543024+00:00
+
+ ## Rollup
+ - [https://rollupjs.org](https://rollupjs.org)
+ - date_published: 2024-05-06T13:58:46.833679+00:00
+
+ ## Roleplaying Dice Roller · Rolz
+ - [http://rolz.org](http://rolz.org)
+ - date_published: 2024-07-09T14:50:50.933245+00:00
+
+ ## www.ro-man2022.org
+ - [http://www.ro-man2022.org](http://www.ro-man2022.org)
+ - date_published: 2024-07-01T19:56:29.862699+00:00
+
+ ## IEEE RO-MAN 2023
+ - [http://ro-man2023.org](http://ro-man2023.org)
+ - date_published: 2024-09-13T17:59:16.893921+00:00
+
+ ## Roman Britain
+ - [http://www.roman-britain.org](http://www.roman-britain.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## RomanceUniversity.org – Product Reviews Worth Spreading
+ - [https://romanceuniversity.org](https://romanceuniversity.org)
+ - date_published: 2024-10-17T23:10:38.361045+00:00
+
+ ## Home
+ - [http://www.romansociety.org](http://www.romansociety.org)
+ - date_published: 2024-06-24T10:17:52.404025+00:00
+
+ ## Home - Romantic Novelists' Association
+ - [https://romanticnovelistsassociation.org](https://romanticnovelistsassociation.org)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## ROMchip
+ - [https://romchip.org](https://romchip.org)
+ - date_published: 2024-07-20T21:02:03.720381+00:00
+
+ ## Rome Call | What is the Matter with AI Ethics?
+ - [https://www.romecall.org](https://www.romecall.org)
+ - date_published: 2024-06-20T05:36:52.373555+00:00
+
+ ## Romeda -
+ - [https://blog.romeda.org](https://blog.romeda.org)
+ - date_published: 2024-05-06T21:50:24.406268+00:00
+
+ ## Romeda -
+ - [https://romeda.org](https://romeda.org)
+ - date_published: 2024-06-27T15:25:30.338474+00:00
+
  ## Romsaction - Bermain untuk Belajar: Manfaat Edukasi dalam Game Interaktif
  - [https://romsaction.org](https://romsaction.org)
  - date_published: 2024-08-20T03:56:13.471326+00:00
@@ -3916,125 +4037,4 @@
  ## Science Media Exchange - Scimex
  - [https://scimex.org](https://scimex.org)
  - date_published: 2023-10-25T22:06:56.073682+00:00
-
- ## Scintilla and SciTE
- - [https://scintilla.org](https://scintilla.org)
- - date_published: 2023-10-25T22:06:57.037238+00:00
- - tags: ['open source']
-
- ## Corporación SCIO
- - [https://sciocorp.org](https://sciocorp.org)
- - date_published: 2021-05-29T04:09:28+00:00
-
- ## Sci Phi Journal - A Universe of Wonder
- - [https://sciphijournal.org](https://sciphijournal.org)
- - date_published: 2023-10-25T11:13:33.009612+00:00
-
- ## SCIP
- - [https://scipopt.org](https://scipopt.org)
- - date_published: 2024-07-15T07:08:37.539964+00:00
-
- ## SciPost Homepage
- - [https://scipost.org](https://scipost.org)
- - date_published: 2024-09-13T17:26:11.129341+00:00
-
- ## Overview - SCIPR
- - [http://www.scipr-lab.org](http://www.scipr-lab.org)
- - date_published: 2020-06-03T13:52:58+00:00
-
- ## SciPy Conferences
- - [https://conference.scipy.org](https://conference.scipy.org)
- - date_published: 2024-09-06T01:44:23+00:00
-
- ## Numpy and Scipy Documentation — Numpy and Scipy documentation
- - [https://docs.scipy.org](https://docs.scipy.org)
- - date_published: 2024-05-07T14:11:10.761104+00:00
-
- ## SciPy -
- - [http://projects.scipy.org](http://projects.scipy.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## SciPy 2024
- - [https://scipy2024.scipy.org](https://scipy2024.scipy.org)
- - date_published: 2024-05-08T12:03:00.915868+00:00
-
- ## SciPy -
- - [https://scipy.org](https://scipy.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## SciPy Conference 2021 -- Scientific Computing with Python
- - [https://www.scipy2021.scipy.org](https://www.scipy2021.scipy.org)
- - date_published: 2024-06-20T23:46:55.004305+00:00
-
- ## Scipy Lecture Notes — Scipy lecture notes
- - [http://scipy-lectures.org](http://scipy-lectures.org)
- - date_published: 2023-06-30T18:22:25+00:00
-
- ## Paper Submission System - Home
- - [https://papersubmission.scirp.org](https://papersubmission.scirp.org)
- - date_published: 2024-08-08T17:03:59.610139+00:00
-
- ## SCIRP Open Access
- - [https://scirp.org](https://scirp.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Scissortail Traditional Dance Society | Oklahoma's contra dance, English country dance, and more!
- - [http://scissortail.org](http://scissortail.org)
- - date_published: 2024-08-20T05:21:17.599835+00:00
-
- ## SciStarter - SciStarter
- - [https://scistarter.org](https://scistarter.org)
- - date_published: 2024-05-11T09:19:37.240968+00:00
-
- ## Browser Compatibility
- - [https://static.scistarter.org](https://static.scistarter.org)
- - date_published: 2024-04-24T11:58:06+00:00
-
- ## American Association of Physics Teachers | AIP Publishing
- - [https://aapt.scitation.org](https://aapt.scitation.org)
- - date_published: 2023-10-25T22:07:00.202610+00:00
-
- ## AIP Publishing Portfolio | AIP Publishing
- - [https://aip.scitation.org](https://aip.scitation.org)
- - date_published: 2023-10-25T22:07:04.043537+00:00
-
- ## Acoustical Society of America | AIP Publishing
- - [https://asa.scitation.org](https://asa.scitation.org)
- - date_published: 2024-05-07T21:01:14.294930+00:00
-
- ## Physics Today | AIP Publishing
- - [https://physicstoday.scitation.org](https://physicstoday.scitation.org)
- - date_published: 2023-10-25T22:07:12.198844+00:00
-
- ## AIP Publishing
- - [https://scitationinfo.org](https://scitationinfo.org)
- - date_published: 2024-06-30T04:18:25.941149+00:00
-
- ## SCITEPRESS
- - [https://www.scitepress.org](https://www.scitepress.org)
- - date_published: 2024-07-07T10:11:57.685542+00:00
-
- ## BIOSTEC, 18th International Joint Conference on Biomedical Engineering Systems and Technologies
- - [https://biostec.scitevents.org](https://biostec.scitevents.org)
- - date_published: 2024-06-19T07:39:26.260204+00:00
-
- ## DeLTA, 6th Int'l. Conf. on Deep Learning Theory and Applications
- - [https://delta.scitevents.org](https://delta.scitevents.org)
- - date_published: 2024-10-28T06:56:48.650337+00:00
-
- ## ICAART, 17th Int'l. Conf. on Agents and Artificial Intelligence
- - [https://icaart.scitevents.org](https://icaart.scitevents.org)
- - date_published: 2024-06-19T07:39:56.922225+00:00
-
- ## ICEIS, 27th Int'l. Conf. on Enterprise Information Systems
- - [https://iceis.scitevents.org](https://iceis.scitevents.org)
- - date_published: 2024-08-08T21:18:49.172073+00:00
-
- ## ICISSP, 11th Int'l. Conf. on Information Systems Security and Privacy
- - [https://icissp.scitevents.org](https://icissp.scitevents.org)
- - date_published: 2024-10-28T06:56:12.328999+00:00
-
- ## ICORES, 14th Int'l. Conf. on Operations Research and Enterprise Systems
- - [https://icores.scitevents.org](https://icores.scitevents.org)
- - date_published: 2024-10-28T06:59:38.998606+00:00
 

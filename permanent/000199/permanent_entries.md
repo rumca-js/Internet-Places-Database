@@ -1,3 +1,76 @@
+ ## Magic + Loss | Virginia Heffernan | Substack
+ - [https://virginiaheffernan.substack.com](https://virginiaheffernan.substack.com)
+ - date_published: 2024-07-01T06:04:07.529280+00:00
+
+ ## visa's voltaic verses ⚡️ | visakan veerasamy | Substack
+ - [https://visakanv.substack.com](https://visakanv.substack.com)
+ - date_published: 2024-01-09T00:13:02.520095+00:00
+
+ ## The Chaddi Things | Vishal Dayama | Substack
+ - [https://vishaldayama.substack.com](https://vishaldayama.substack.com)
+ - date_published: 2024-08-11T05:36:28.920932+00:00
+
+ ## Vishnu R Nair | Substack
+ - [https://vishnurnair.substack.com](https://vishnurnair.substack.com)
+ - date_published: 2024-10-25T10:32:30.705079+00:00
+
+ ## Visual frameworks | Dave Gray | Substack
+ - [https://visualframeworks.substack.com](https://visualframeworks.substack.com)
+ - date_published: 2024-05-02T13:58:35.640862+00:00
+
+ ## Alguma coisa acontece | Viva São Paulo | Cultura | Substack
+ - [https://vivaculturasp.substack.com](https://vivaculturasp.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Simulated Annealing | Vivian Qu | Substack
+ - [https://vivqu.substack.com](https://vivqu.substack.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Vlad Iliescu | Substack
+ - [https://vlad.substack.com](https://vlad.substack.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Void Papers | Tobi | Substack
+ - [https://voidpapers.substack.com](https://voidpapers.substack.com)
+ - date_published: 2023-10-25T10:07:14.153042+00:00
+ - tags: ['substack']
+
+ ## Volted: Electrify your Life | Jeff Eiden | Substack
+ - [https://volted.substack.com](https://volted.substack.com)
+ - date_published: 2024-01-09T01:45:46.968262+00:00
+
+ ## Devon's wanderings | Substack
+ - [https://vonzu.substack.com](https://vonzu.substack.com)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Virginia's Newsletter | Virginia Postrel | Substack
+ - [https://vpostrel.substack.com](https://vpostrel.substack.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## Van’s Substack | Van Snyder | Substack
+ - [https://vsnyder.substack.com](https://vsnyder.substack.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## VuTrinh. | Vu Trinh | Substack
+ - [https://vutr.substack.com](https://vutr.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Sunday Summary | Vyshnav Gangadharan | Substack
+ - [https://vyshnav.substack.com](https://vyshnav.substack.com)
+ - date_published: 2024-06-14T15:15:49.441655+00:00
+
+ ## Chris Arnade Walks the World  | Substack
+ - [https://walkingtheworld.substack.com](https://walkingtheworld.substack.com)
+ - date_published: 2024-01-09T01:45:54.486490+00:00
+
+ ## Unbound | Walter Kirn | Substack
+ - [https://walterkirn.substack.com](https://walterkirn.substack.com)
+ - date_published: 2023-12-28T03:21:31.503169+00:00
+
+ ## Wanderfull | Scott Dawson | Substack
+ - [https://wanderfull.substack.com](https://wanderfull.substack.com)
+ - date_published: 2024-06-20T13:16:59.223328+00:00
+
  ## Recalibrating | Callum Wanderloots | Substack
  - [https://wanderloots.substack.com](https://wanderloots.substack.com)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -3961,78 +4034,4 @@
  - [https://sutherland-hdl.com](https://sutherland-hdl.com)
  - date_published: 2024-10-26T05:22:59+00:00
  - tags: ['verilog', 'company']
-
- ## Sutherland House Books I Nonfiction Publisher
- - [https://sutherlandhousebooks.com](https://sutherlandhousebooks.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Sutherland Quarterly
- - [https://sutherlandquarterly.com](https://sutherlandquarterly.com)
- - date_published: 2024-06-24T08:04:25.944848+00:00
-
- ## Sutori
- - [https://www.sutori.com](https://www.sutori.com)
- - date_published: 2024-06-29T17:57:49.958974+00:00
-
- ## SUTRON - Environmental & Hydrological Monitoring Solutions | OTT HydroMet
- - [https://sutron.com](https://sutron.com)
- - date_published: 2024-05-09T04:25:46.568050+00:00
-
- ## Home - Suunta Integrative Health
- - [https://suuntawellness.com](https://suuntawellness.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Suunto sports watches, dive products, compasses and accessories
- - [https://suunto.com](https://suunto.com)
- - date_published: 2024-05-12T05:37:50.808920+00:00
-
- ## Home - JC Suurmond
- - [https://www.suurmond-taxconsultants.com](https://www.suurmond-taxconsultants.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Suwannee County Sheriff
- - [https://suwanneesheriff.com](https://suwanneesheriff.com)
- - date_published: 2024-07-03T14:33:47.047566+00:00
-
- ## 苏仙新闻网_主流媒体,党政门户
- - [https://www.suxiannews.com](https://www.suxiannews.com)
- - date_published: 2024-10-21T06:43:03.471733+00:00
-
- ## Suyu Emulator: Continuing the Legacy of Yuzu Nintendo Switch Emulator - Suyu Emulator
- - [https://suyuemulator.com](https://suyuemulator.com)
- - date_published: 2024-07-03T18:58:39+00:00
- - tags: ['nintendo switch', 'emulator', 'emulation']
-
- ## - Suzana Herculano-Houzel
- - [http://www.suzanaherculanohouzel.com](http://www.suzanaherculanohouzel.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Main
- - [http://suzann.com](http://suzann.com)
- - date_published: 2024-05-10T06:32:03.784655+00:00
- - tags: ['personal']
-
- ## Regency Romance Author Suzanne Enoch
- - [http://www.suzanneenoch.com](http://www.suzanneenoch.com)
- - date_published: 2024-07-19T16:13:58+00:00
-
- ## Main
- - [http://suzannelanoue.com](http://suzannelanoue.com)
- - date_published: 2024-05-10T06:31:53.771450+00:00
-
- ## suzerspace.com
- - [https://suzerspace.com](https://suzerspace.com)
- - date_published: 2024-01-13T22:53:32.691876+00:00
-
- ## Suzie & Leo
- - [https://suzieandleo.com](https://suzieandleo.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Suzuki Musical Inst. MFG | Qualified Musical Inst. Manufacture.
- - [https://suzukimusic-global.com](https://suzukimusic-global.com)
- - date_published: 2023-12-08T08:31:28.443083+00:00
-
- ## SV3 Designs – San Jose Web Design & Maintenance
- - [http://www.sv3designs.com](http://www.sv3designs.com)
- - date_published: 2024-06-28T09:02:10.096131+00:00
 

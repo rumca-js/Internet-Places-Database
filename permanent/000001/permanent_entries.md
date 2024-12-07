@@ -1741,6 +1741,10 @@ Welcome
  - [https://unsupervisedlearning.dry.ai](https://unsupervisedlearning.dry.ai)
  - date_published: 2024-08-11T17:06:19.308484+00:00
 
+ ## DSPy – Programming–not prompting–LMs
+ - [https://dspy.ai](https://dspy.ai)
+ - date_published: 2024-12-06T19:59:49+00:00
+
  ## AI container orchestration for everyone
  - [https://dstack.ai](https://dstack.ai)
  - date_published: 2024-12-05T18:02:16+00:00
@@ -4006,8 +4010,4 @@ Welcome
  ## Imagined with AI
  - [https://imagined-with.ai](https://imagined-with.ai)
  - date_published: 2024-10-30T07:42:43.663285+00:00
-
- ## Imajinn AI
- - [https://imajinn.ai](https://imajinn.ai)
- - date_published: 2024-06-19T18:48:20.350394+00:00
 
