@@ -1,3 +1,955 @@
+ ## Liceo Chris Cappell College
+ - [https://www.liceochriscappell.edu.it](https://www.liceochriscappell.edu.it)
+ - date_published: 2024-10-13T07:20:42.651303+00:00
+
+ ## Liceo Classico Statale G.M. Dettori
+ - [http://www.liceoclassicodettori.edu.it](http://www.liceoclassicodettori.edu.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Liceo Classico Foligno
+ - [https://liceoclassicofoligno.edu.it](https://liceoclassicofoligno.edu.it)
+ - date_published: 2024-10-13T07:24:40.890094+00:00
+
+ ## LICEO CLASSICO “GIOACCHINO DA FIORE” - RENDE
+ - [https://www.liceoclassicorendecs.edu.it](https://www.liceoclassicorendecs.edu.it)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Liceo Scientifico Statale "Leonardo Cocito" - Alba (CN)
+ - [https://liceococito.edu.it](https://liceococito.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.liceocopernico.edu.it](https://www.liceocopernico.edu.it)
+ - date_published: 2024-10-13T06:58:02+00:00
+
+ ## Liceo Don Tonino Bello Copertino
+ - [https://www.liceocopertino.edu.it](https://www.liceocopertino.edu.it)
+ - date_published: 2024-10-13T07:03:44+00:00
+
+ ## Liceo Scientifico e Liceo delle Scienze Umane "O.M. Corbino" - Siracusa - liceocorbinosiracusa.edu.it
+ - [https://www.liceocorbinosiracusa.edu.it](https://www.liceocorbinosiracusa.edu.it)
+ - date_published: 2024-10-13T06:58:06.000196+00:00
+
+ ## Liceo Statale ‘Alvise Cornaro’
+ - [https://www.liceocornaro.edu.it](https://www.liceocornaro.edu.it)
+ - date_published: 2024-10-13T07:24:34.531738+00:00
+
+ ## LICEO STATALE G. COTTA
+ - [https://www.liceocotta.edu.it](https://www.liceocotta.edu.it)
+ - date_published: 2024-10-13T07:22:09.641245+00:00
+
+ ## Home - Liceo Scientifico Benedetto Croce di Palermo
+ - [https://www.liceocroce.edu.it](https://www.liceocroce.edu.it)
+ - date_published: 2024-10-13T07:04:22+00:00
+
+ ## COORDINATORI E SEGRETARI CDC  A.S. 2024/25 - RETTIFICA
+ - [https://www.liceocuoco.edu.it](https://www.liceocuoco.edu.it)
+ - date_published: 2024-10-13T06:50:54+00:00
+
+ ## Liceo Scientifico D'Ascanio Montesilvano
+ - [https://www.liceodascanio.edu.it](https://www.liceodascanio.edu.it)
+ - date_published: 2024-10-13T06:54:13.716854+00:00
+
+ ## LICEO LEONARDO DA VINCI
+ - [https://liceodavinci.edu.it](https://liceodavinci.edu.it)
+ - date_published: 2024-10-13T07:17:53.176888+00:00
+
+ ## Liceo Scientifico Leonardo da Vinci di Firenze – Costruiamo insieme il nostro futuro
+ - [https://www.liceodavincifi.edu.it](https://www.liceodavincifi.edu.it)
+ - date_published: 2024-10-13T07:01:08.683909+00:00
+
+ ## Liceo "Da Vinci" Jesi
+ - [https://www.liceodavincijesi.edu.it](https://www.liceodavincijesi.edu.it)
+ - date_published: 2024-10-13T07:04:07.830651+00:00
+
+ ## Home
+ - [https://liceodavincimaglie.edu.it](https://liceodavincimaglie.edu.it)
+ - date_published: 2024-10-13T07:29:35+00:00
+
+ ## Home - Liceo Scientifico Cosimo De Giorgi
+ - [https://liceodegiorgi.edu.it](https://liceodegiorgi.edu.it)
+ - date_published: 2015-10-19T04:23:53+00:00
+
+ ## Liceo Scientifico, Classico, Linguistico Statale “Alfonso Maria de' Liguori”
+ - [https://www.liceodeliguori.edu.it](https://www.liceodeliguori.edu.it)
+ - date_published: 2024-10-13T06:52:01.335013+00:00
+
+ ## Liceo Scientifico Statale “Albert Einstein”
+ - [http://www.liceoeinstein.edu.it](http://www.liceoeinstein.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Liceo Scientifico Statale Einstein Milano
+        
+        
+        
+        - Liceo Scientifico Statale Einstein Milano
+ - [https://www.liceoeinsteinmilano.edu.it](https://www.liceoeinsteinmilano.edu.it)
+ - date_published: 2024-10-13T07:17:11.332298+00:00
+
+ ## Liceo Enrico Medi
+ - [https://liceoenricomedi.edu.it](https://liceoenricomedi.edu.it)
+ - date_published: 2024-10-13T07:01:14.474650+00:00
+
+ ## Liceo Statale Ettore Majorana
+ - [https://www.liceoettoremajorana.edu.it](https://www.liceoettoremajorana.edu.it)
+ - date_published: 2024-10-13T07:20:50.517362+00:00
+
+ ## Liceo Scientifico Enrico Fermi
+ - [https://www.liceofermibo.edu.it](https://www.liceofermibo.edu.it)
+ - date_published: 2024-10-13T07:24:12.023184+00:00
+
+ ## Liceo Galileo Ferraris – Taranto – La logica vi porterà da A a B. L’immaginazione vi porterà dappertutto.
+ - [https://www.liceoferraris.edu.it](https://www.liceoferraris.edu.it)
+ - date_published: 2024-10-13T07:01:34.430166+00:00
+
+ ## Liceo "Leonardo Da Vinci" Di Floridia
+ - [https://www.liceofloridia.edu.it](https://www.liceofloridia.edu.it)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Home - Liceo Scientifico G. Galilei Ancona
+ - [https://www.liceogalileiancona.edu.it](https://www.liceogalileiancona.edu.it)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Liceo Statale Galileo Galilei
+ - [https://www.liceogalileidolo.edu.it](https://www.liceogalileidolo.edu.it)
+ - date_published: 2024-10-13T07:16:36.083530+00:00
+
+ ## Liceo Scientifico
+ - [https://www.liceogalileinapoli.edu.it](https://www.liceogalileinapoli.edu.it)
+ - date_published: 2024-10-13T07:08:00.782432+00:00
+
+ ## Home - Liceo "Alfonso Gatto"
+ - [https://www.liceogatto.edu.it](https://www.liceogatto.edu.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Liceo Classico Scientifico PIETRO GIANNONE – Sito Web Istituzionale
+ - [https://www.liceogiannonecaserta.edu.it](https://www.liceogiannonecaserta.edu.it)
+ - date_published: 2024-10-13T07:22:46.346652+00:00
+
+ ## Liceo Classico e Linguistico Vincenzo Gioberti
+ - [https://www.liceogioberti.edu.it](https://www.liceogioberti.edu.it)
+ - date_published: 2024-10-13T06:54:00.948598+00:00
+
+ ## Liceo Marconi Foggia
+ - [https://www.liceogmarconifg.edu.it](https://www.liceogmarconifg.edu.it)
+ - date_published: 2024-10-13T06:53:30.043955+00:00
+
+ ## LICEO SCIENTIFICO STATALE ORAZIO GRASSI - SAVONA
+ - [https://www.liceograssi.edu.it](https://www.liceograssi.edu.it)
+ - date_published: 2024-10-13T07:20:13.064338+00:00
+
+ ## LICEO STATALE "G. Buchner"
+ - [https://www.liceoischia.edu.it](https://www.liceoischia.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## LICEO STATALE “JACOPONE DA TODI”
+ - [https://www.liceojacopone.edu.it](https://www.liceojacopone.edu.it)
+ - date_published: 2024-10-13T07:13:06.583632+00:00
+
+ ## Home - IIS "Julia - Falcone"
+ - [https://www.liceojulia.edu.it](https://www.liceojulia.edu.it)
+ - date_published: 2024-10-13T07:00:38.445591+00:00
+
+ ## Liceo Scientifico Statale “Arturo Labriola”
+ - [https://www.liceolabriolanapoli.edu.it](https://www.liceolabriolanapoli.edu.it)
+ - date_published: 2024-10-13T07:25:00.237908+00:00
+
+ ## Liceo Scientifico e Linguistico "A. Landi" – Liceo Scientifico e Linguistico
+ - [https://www.liceolandi.edu.it](https://www.liceolandi.edu.it)
+ - date_published: 2024-10-13T07:24:28.183285+00:00
+
+ ## Liceo Scientifico “Paolo Lioy”
+ - [https://www.liceolioy.edu.it](https://www.liceolioy.edu.it)
+ - date_published: 2024-10-13T07:07:08.998854+00:00
+
+ ## Liceo Statale Terenzio Mamiani
+ - [https://www.liceomamiani.edu.it](https://www.liceomamiani.edu.it)
+ - date_published: 2024-10-13T06:58:38.987167+00:00
+
+ ## Liceo Scientifico Marinelli – Sito ufficiale del Liceo Scientifico Marinelli di Udine
+ - [https://liceomarinelli.edu.it](https://liceomarinelli.edu.it)
+ - date_published: 2024-10-13T06:53:33.459148+00:00
+
+ ## Home
+ - [https://www.liceomasci.edu.it](https://www.liceomasci.edu.it)
+ - date_published: 2024-10-13T07:10:44+00:00
+
+ ## Liceo Mazzini
+ - [https://www.liceomazzini.edu.it](https://www.liceomazzini.edu.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## LICEO SCIENTIFICO STATALE  "GIUSEPPE MERCALLI"
+ - [https://www.liceomercalli.edu.it](https://www.liceomercalli.edu.it)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Liceo Scientifico Statale Ugo Morin
+ - [https://www.liceomorin.edu.it](https://www.liceomorin.edu.it)
+ - date_published: 2024-10-13T07:02:50.749118+00:00
+
+ ## LICEO STATALE MOSCATI Grottaglie
+ - [https://www.liceomoscati.edu.it](https://www.liceomoscati.edu.it)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## LICEO STATALE "N. ROSA" - SUSA
+ - [https://www.liceonorbertorosa.edu.it](https://www.liceonorbertorosa.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Liceo Classico e Musicale "G. Palmieri" – il più antico ginnasio liceo della città
+ - [https://www.liceopalmieri.edu.it](https://www.liceopalmieri.edu.it)
+ - date_published: 2024-10-13T07:05:57.166449+00:00
+
+ ## Liceo Scientifico Statale G. Peano - Monterotondo
+ - [https://www.liceopeanomonterotondo.edu.it](https://www.liceopeanomonterotondo.edu.it)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## I.I.S. Licei "Luca da Penne – Mario dei Fiori" – Sito istituzionale
+ - [https://www.liceopenne.edu.it](https://www.liceopenne.edu.it)
+ - date_published: 2024-10-13T06:52:47.887291+00:00
+
+ ## Liceo SCIENTIFICO E CLASSICO "L. Pepe - A. Calamo"
+ - [https://www.liceopepecalamo.edu.it](https://www.liceopepecalamo.edu.it)
+ - date_published: 2024-10-13T07:26:26.215804+00:00
+
+ ## Liceo Statale Galileo Galilei
+ - [https://www.liceopiedimontematese.edu.it](https://www.liceopiedimontematese.edu.it)
+ - date_published: 2024-10-13T06:55:56.914717+00:00
+
+ ## Liceo Pizzi Capua
+ - [https://www.liceopizzi.edu.it](https://www.liceopizzi.edu.it)
+ - date_published: 2024-10-13T07:21:44.976431+00:00
+
+ ## Istituto Superiore Carolina Poerio – Istituto Superiore Carolina Poerio
+ - [https://www.liceopoerio.edu.it](https://www.liceopoerio.edu.it)
+ - date_published: 2024-10-13T07:24:22.304030+00:00
+
+ ## Liceo Giacomo Leopardi Recanati
+ - [https://liceorecanati.edu.it](https://liceorecanati.edu.it)
+ - date_published: 2024-10-13T07:17:24.111234+00:00
+
+ ## Liceo Scientifico Statale "Lorenzo Respighi"
+ - [https://www.liceorespighi.edu.it](https://www.liceorespighi.edu.it)
+ - date_published: 2024-10-13T07:04:19.745873+00:00
+
+ ## Liceo Statale “Francesco Ribezzo”
+ - [https://www.liceoribezzo.edu.it](https://www.liceoribezzo.edu.it)
+ - date_published: 2024-10-13T07:19:57.207053+00:00
+
+ ## Liceo Scientifico Augusto Righi di Cesena (FC)
+ - [https://www.liceorighicesena.edu.it](https://www.liceorighicesena.edu.it)
+ - date_published: 2024-10-13T07:14:24.883669+00:00
+
+ ## LICEO SCIENTIFICO NICCOLO' RODOLICO - FIRENZE
+ - [https://www.liceorodolico.edu.it](https://www.liceorodolico.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Liceo Scientifico A. Roiti Ferrara
+ - [https://www.liceoroiti.edu.it](https://www.liceoroiti.edu.it)
+ - date_published: 2024-10-13T07:21:57.516652+00:00
+
+ ## Liceo Scientifico P. Ruggieri Marsala
+ - [https://www.liceoruggierimarsala.edu.it](https://www.liceoruggierimarsala.edu.it)
+ - date_published: 2024-10-13T07:11:30.532459+00:00
+
+ ## IIS SANSEPOLCRO
+ - [https://www.liceosansepolcro.edu.it](https://www.liceosansepolcro.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Liceo Statale “Tito Lucrezio Caro”
+ - [https://www.liceosarno.edu.it](https://www.liceosarno.edu.it)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Liceo Statale "Felicia E Peppino Impastato"
+ - [https://www.liceosavarino.edu.it](https://www.liceosavarino.edu.it)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Liceo "Arcangelo Scacchi
+ - [https://www.liceoscacchibari.edu.it](https://www.liceoscacchibari.edu.it)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Liceo scientifico artistico Brotzu - Liceo Brotzu scientifico artistico
+ - [https://liceoscientificoartisticobrotzu.edu.it](https://liceoscientificoartisticobrotzu.edu.it)
+ - date_published: 2024-10-13T07:20:47+00:00
+
+ ## Liceo Scientifico Nino Cortese Maddaloni
+ - [https://liceoscientificocortese.edu.it](https://liceoscientificocortese.edu.it)
+ - date_published: 2024-10-13T06:51:13.032243+00:00
+
+ ## Liceo Scientifico Statale "De Carlo" Giugliano In Campania
+ - [https://www.liceoscientificodecarlo.edu.it](https://www.liceoscientificodecarlo.edu.it)
+ - date_published: 2024-10-13T07:23:40.596558+00:00
+
+ ## LICEO SCIENTIFICO STATALE "Pietro Farinato"
+ - [https://liceoscientificofarinato.edu.it](https://liceoscientificofarinato.edu.it)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## LICEO SCIENTIFICO STATALE "Enrico Fermi" - Paternò
+ - [https://www.liceoscientificofermi.edu.it](https://www.liceoscientificofermi.edu.it)
+ - date_published: 2024-10-13T07:09:35.210287+00:00
+
+ ## Liceo Scientifico Scorza – Cosenza – Sito web ufficiale
+ - [https://www.liceoscorza.edu.it](https://www.liceoscorza.edu.it)
+ - date_published: 2024-10-13T07:28:37.454405+00:00
+
+ ## Liceo Scientifico Filippo Silvestri
+ - [https://www.liceosilvestri.edu.it](https://www.liceosilvestri.edu.it)
+ - date_published: 2024-10-13T06:53:48.763001+00:00
+
+ ## Liceo Scientifico - Paola | Sito web ufficiale
+ - [https://www.liceostatalepaola.edu.it](https://www.liceostatalepaola.edu.it)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Liceo Statale Vittorio Emanuele III Patti – Patti (ME)
+ - [https://liceostatalepatti.edu.it](https://liceostatalepatti.edu.it)
+ - date_published: 2024-10-13T06:55:25.178540+00:00
+
+ ## Liceo Scientifico Talete
+ - [https://www.liceotalete.edu.it](https://www.liceotalete.edu.it)
+ - date_published: 2024-10-13T07:23:51.091106+00:00
+
+ ## Liceo Ginnasio Torquato Tasso
+ - [https://www.liceotasso.edu.it](https://www.liceotasso.edu.it)
+ - date_published: 2024-10-13T06:51:54.724127+00:00
+
+ ## Liceo Scientifico e Linguistico "O. Tedone"
+ - [https://www.liceotedone.edu.it](https://www.liceotedone.edu.it)
+ - date_published: 2024-10-13T07:23:38.876169+00:00
+
+ ## Liceo Tito Lucrezio Caro
+ - [https://www.liceotitolucreziocaro.edu.it](https://www.liceotitolucreziocaro.edu.it)
+ - date_published: 2024-10-13T06:53:57.051234+00:00
+
+ ## LICEO SCIENTIFICO – CLASSICO “E. TORRICELLI” Somma Vesuviana (NA)
+ - [https://www.liceotorricellisommavesuviana.edu.it](https://www.liceotorricellisommavesuviana.edu.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Liceo Scientifico E Linguistico Statale "Antonio Vallone" - Galatina
+ - [https://www.liceovallone.edu.it](https://www.liceovallone.edu.it)
+ - date_published: 2024-10-05T00:00:00+00:00
+
+ ## Home
+ - [https://www.liceoviconapoli.edu.it](https://www.liceoviconapoli.edu.it)
+ - date_published: 2024-10-13T07:11:19+00:00
+
+ ## Liceo "Virgilio-Redi" – Lecce – Liceo Classico, Linguistico, Scientifico e delle Scienze Applicate
+ - [https://www.liceovirgilio.edu.it](https://www.liceovirgilio.edu.it)
+ - date_published: 2024-10-13T06:49:48.997867+00:00
+
+ ## Liceo Scientifico Statale
+ - [https://www.liceozaleuco.edu.it](https://www.liceozaleuco.edu.it)
+ - date_published: 2024-09-29T07:13:16+00:00
+
+ ## Istituto di Istruzione Superiore R. Lotti – Umberto I
+ - [http://www.lottiumbertoprimo.edu.it](http://www.lottiumbertoprimo.edu.it)
+ - date_published: 2024-10-13T07:25:24.303348+00:00
+
+ ## Liceo "Galileo Galilei"
+ - [https://www.lsgalilei.edu.it](https://www.lsgalilei.edu.it)
+ - date_published: 2024-10-13T07:11:27.463953+00:00
+
+ ## Liceo Scientifico Marconi - Home
+ - [https://lsmarconi.edu.it](https://lsmarconi.edu.it)
+ - date_published: 2024-10-13T07:04:43+00:00
+
+ ## I.I.S.S. Luigi dell'Erba – Istituto Tecnico Tecnologico a Castellana Grotte
+ - [https://www.luigidellerba.edu.it](https://www.luigidellerba.edu.it)
+ - date_published: 2024-10-13T07:19:24.345994+00:00
+
+ ## I.T.I.S. Magistri Cumacini – COMO – Scuola statale – Istituto Tecnico
+ - [https://www.magistricumacini.edu.it](https://www.magistricumacini.edu.it)
+ - date_published: 2024-10-13T07:14:32.648025+00:00
+
+ ## I.I.S.S. E. MAJORANA
+ - [https://www.majoranabrindisi.edu.it](https://www.majoranabrindisi.edu.it)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## I.I.S. Statale “Ettore Majorana – Elena Corner”
+ - [https://www.majoranacorner.edu.it](https://www.majoranacorner.edu.it)
+ - date_published: 2024-10-13T06:52:07.335661+00:00
+
+ ## Istituto Superiore Statale Majorana – Giorgi – Istituto Superiore Statale Majorana – Giorgi
+ - [https://www.majorana-giorgi.edu.it](https://www.majorana-giorgi.edu.it)
+ - date_published: 2024-10-13T07:17:50.954021+00:00
+
+ ## Home
+ - [https://www.majoranaiiss.edu.it](https://www.majoranaiiss.edu.it)
+ - date_published: 2024-10-13T06:51:35+00:00
+
+ ## Istituto Superiore Majorana
+ - [http://majoranapa.edu.it](http://majoranapa.edu.it)
+ - date_published: 2024-10-13T06:55:45.167262+00:00
+
+ ## Istituto di Istruzione Superiore Ettore Majorana
+ - [https://www.majoranasanlazzaro.edu.it](https://www.majoranasanlazzaro.edu.it)
+ - date_published: 2024-10-13T07:18:32.371004+00:00
+
+ ## I.I.S. E. MAJORANA
+ - [https://www.majoranatorino.edu.it](https://www.majoranatorino.edu.it)
+ - date_published: 2024-10-13T07:34:08.140895+00:00
+
+ ## ISTITUTO D'ISTRUZIONE SUPERIORE "A. MANZONI"
+ - [https://www.manzoni.edu.it](https://www.manzoni.edu.it)
+ - date_published: 2024-10-13T07:28:20.598147+00:00
+
+ ## IISS G.Marconi - M.Hack
+ - [https://marconibari.edu.it](https://marconibari.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Home | ISTITUTO G. MARCONI
+ - [https://www.marconigorgonzola.edu.it](https://www.marconigorgonzola.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## ITI G. Marconi – Learning to develop, to link, to care!
+ - [https://www.marconipontedera.edu.it](https://www.marconipontedera.edu.it)
+ - date_published: 2024-10-13T06:57:32.677192+00:00
+
+ ## IIS Guglielmo Marconi Tortona
+ - [https://www.marconitortona.edu.it](https://www.marconitortona.edu.it)
+ - date_published: 2024-10-13T06:55:14.274052+00:00
+
+ ## Istituto Tecnico Industriale Statale G. Marconi Verona
+ - [https://www.marconiverona.edu.it](https://www.marconiverona.edu.it)
+ - date_published: 2024-10-13T07:09:21.428551+00:00
+
+ ## I.S. MASULLO-THETI - NOLA
+ - [https://www.masullotheti.edu.it](https://www.masullotheti.edu.it)
+ - date_published: 2024-10-13T07:24:54.800259+00:00
+
+ ## Polo Statale I.S.S. "P. Mattarella"
+ - [http://www.mattarelladolci.edu.it](http://www.mattarelladolci.edu.it)
+ - date_published: 2024-10-13T06:51:00.271017+00:00
+
+ ## I.I.S. "F. Maurolico" – Liceo Classico "Maurolico" – Liceo Scientifico "Galilei"
+ - [https://www.maurolicomessina.edu.it](https://www.maurolicomessina.edu.it)
+ - date_published: 2024-10-13T07:03:27.005500+00:00
+
+ ## Home - ISTITUTO MAX PLANCK
+ - [https://www.maxplanck.edu.it](https://www.maxplanck.edu.it)
+ - date_published: 2024-10-13T07:24:46+00:00
+
+ ## www.meuccifanoli.edu.it
+ - [https://www.meuccifanoli.edu.it](https://www.meuccifanoli.edu.it)
+ - date_published: 2024-10-13T07:20:16+00:00
+
+ ## Istituto di Istruzione Superiore Natta • Deambrosis
+ - [https://www.nattadeambrosis.edu.it](https://www.nattadeambrosis.edu.it)
+ - date_published: 2024-10-13T07:25:41.684908+00:00
+
+ ## Home - ITT "NerviGalilei" Altamura
+ - [https://www.nervigalilei.edu.it](https://www.nervigalilei.edu.it)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Istituto di Istruzione Superiore "Newton - Pertini"
+ - [https://www.newtonpertini.edu.it](https://www.newtonpertini.edu.it)
+ - date_published: 2024-10-13T07:10:21.156828+00:00
+
+ ## Home
+ - [https://www.nobeltorredelgreco.edu.it](https://www.nobeltorredelgreco.edu.it)
+ - date_published: 2024-10-13T07:10:09+00:00
+
+ ## Istituto d'Istruzione Superiore Olivelli Putelli di Darfo
+ - [https://www.olivelliputelli.edu.it](https://www.olivelliputelli.edu.it)
+ - date_published: 2024-10-13T07:32:24.102801+00:00
+
+ ## ISTITUTO OMNICOMPRENSIVO STATALE "CIAMPOLI-SPAVENTA"
+ - [https://www.omnicomprensivoatessa.edu.it](https://www.omnicomprensivoatessa.edu.it)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Istituto Pacinotti Archimede
+ - [https://www.pacinottiarchimede.edu.it](https://www.pacinottiarchimede.edu.it)
+ - date_published: 2024-10-13T07:29:39.966032+00:00
+
+ ## IIS Pacinotti-Belmesseri
+ - [https://www.pacinottibelmesseri.edu.it](https://www.pacinottibelmesseri.edu.it)
+ - date_published: 2024-10-13T06:53:44.742174+00:00
+
+ ## I.T.T. A.PACINOTTI Di Taranto
+ - [https://www.pacinottitaranto.edu.it](https://www.pacinottitaranto.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## ITT Panetti Pitagora
+ - [https://www.panettipitagora.edu.it](https://www.panettipitagora.edu.it)
+ - date_published: 2024-10-13T07:05:15+00:00
+
+ ## I.T. "PANTANELLI – MONNET"
+ - [https://www.pantanelli-monnet.edu.it](https://www.pantanelli-monnet.edu.it)
+ - date_published: 2024-10-13T06:51:07.595289+00:00
+
+ ## IIS Paolini – Cassiano
+ - [https://paolinicassiano.edu.it](https://paolinicassiano.edu.it)
+ - date_published: 2024-10-13T07:07:45.999570+00:00
+
+ ## Istituto Istruzione Superiore Papareschi – Chi non si forma si ferma
+ - [https://www.papareschi.edu.it](https://www.papareschi.edu.it)
+ - date_published: 2024-10-13T06:53:26.483517+00:00
+
+ ## Istituto di Istruzione Superiore Blaise Pascal
+ - [https://www.pascal.edu.it](https://www.pascal.edu.it)
+ - date_published: 2024-10-13T06:54:59.011346+00:00
+
+ ## IIS Biagio Pascal Di Roma
+ - [https://www.pascalroma.edu.it](https://www.pascalroma.edu.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## I.I.S. “S. Pertini” – Istituto di Istruzione Superiore
+ - [https://www.pertinigenzano.edu.it](https://www.pertinigenzano.edu.it)
+ - date_published: 2024-10-13T07:01:31.947269+00:00
+
+ ## I.I.S. “CARRARA-NOTTOLINI-BUSDRAGHI”
+ - [https://www.politecnicolucca.edu.it](https://www.politecnicolucca.edu.it)
+ - date_published: 2024-10-13T07:26:21.093289+00:00
+
+ ## Homepage del portale scolastico
+ - [https://www.polocodigoro.edu.it](https://www.polocodigoro.edu.it)
+ - date_published: 2024-10-13T06:56:25+00:00
+
+ ## ISTITUTO STATALE DI ISTRUZIONE SUPERIORE PIETRO ALDI GROSSETO
+ - [https://pololiceale.edu.it](https://pololiceale.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## Polo Tecnologico "Manetti-Porciatti" Grosseto
+ - [https://www.polomanettiporciatti.edu.it](https://www.polomanettiporciatti.edu.it)
+ - date_published: 2024-10-13T06:49:39.451144+00:00
+
+ ## Polo Tecnologico Ind. ed Artig. Avanz. - Lamezia Terme | Sito web ufficiale
+ - [https://www.polotecnologico.edu.it](https://www.polotecnologico.edu.it)
+ - date_published: 2024-10-13T07:12:55+00:00
+
+ ## I.I.S. Polo Tecnologico Imperiese – Istituto di Istruzione Superiore a Imperia
+ - [https://www.polotecnologicoimperiese.edu.it](https://www.polotecnologicoimperiese.edu.it)
+ - date_published: 2024-10-13T07:02:23.794985+00:00
+
+ ## Polo Tecnico Professionale Venezia - Sede Centrale
+ - [https://www.ptpvenezia.edu.it](https://www.ptpvenezia.edu.it)
+ - date_published: 2024-10-13T06:56:42.101934+00:00
+
+ ## I.I.S. "Racchetti - da Vinci"
+ - [https://www.racchettidavinci.edu.it](https://www.racchettidavinci.edu.it)
+ - date_published: 2024-10-13T07:14:49.045260+00:00
+
+ ## Istituto Tecnico Economico e Tecnologico Rapisardi Da Vinci
+ - [https://www.rapisardidavinci.edu.it](https://www.rapisardidavinci.edu.it)
+ - date_published: 2024-10-13T07:07:40.507010+00:00
+
+ ## Liceo Statale Regina Margherita
+ - [https://www.reginamargherita.edu.it](https://www.reginamargherita.edu.it)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Home - I. I. S. S. Bertrand Russell
+ - [https://www.russell-fontana.edu.it](https://www.russell-fontana.edu.it)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Istituto di Istruzione Superiore Tecnica e Liceale “B. Russell - I. Newton”
+ - [https://www.russell-newton.edu.it](https://www.russell-newton.edu.it)
+ - date_published: 2024-10-13T07:18:29.257584+00:00
+
+ ## Istituto Istruzione Statale Superiore G. Salvemini Alessano
+ - [https://www.salveminialessano.edu.it](https://www.salveminialessano.edu.it)
+ - date_published: 2024-10-13T06:51:43.117003+00:00
+
+ ## ITCS Gaetano Salvemini Casalecchio di Reno
+ - [https://www.salvemini-bo.edu.it](https://www.salvemini-bo.edu.it)
+ - date_published: 2024-10-13T07:03:38.219953+00:00
+
+ ## Istituto di Istruzione Superiore "Michele Sanmicheli"
+ - [https://www.sanmicheli.edu.it](https://www.sanmicheli.edu.it)
+ - date_published: 2024-10-13T07:03:00.339245+00:00
+
+ ## Home
+ - [https://www.saracenoromegialli.edu.it](https://www.saracenoromegialli.edu.it)
+ - date_published: 2024-10-13T07:04:28+00:00
+
+ ## Home
+ - [https://www.sarrocchi.edu.it](https://www.sarrocchi.edu.it)
+ - date_published: 2024-10-13T06:51:56+00:00
+
+ ## IIS Savoia Benincasa – Ancona
+ - [https://www.savoiabenincasa.edu.it](https://www.savoiabenincasa.edu.it)
+ - date_published: 2024-10-13T07:17:19.363727+00:00
+
+ ## Istituto D'Istruzione Superiore "LUIGI DI SAVOIA" – Chieti
+ - [https://www.savoiachieti.edu.it](https://www.savoiachieti.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## Liceo Scientifico  "F. Vercelli" - Asti (AT)
+ - [https://www.scientificoasti.edu.it](https://www.scientificoasti.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.scientificoaz.edu.it](https://www.scientificoaz.edu.it)
+ - date_published: 2024-10-13T07:23:12.789347+00:00
+
+ ## Istituto di Istruzione Superiore “Maria Montessori – Leonardo da Vinci”
+ - [https://www.scuolamontessoridavinci.edu.it](https://www.scuolamontessoridavinci.edu.it)
+ - date_published: 2024-10-13T07:27:54.262622+00:00
+
+ ## Scuola Orte
+ - [https://www.scuoleorte.edu.it](https://www.scuoleorte.edu.it)
+ - date_published: 2024-10-13T07:00:28.477818+00:00
+
+ ## IIS "Paolo Borsellino e Giovanni Falcone" di Zagarolo
+ - [https://www.scuolesuperioridizagarolo.edu.it](https://www.scuolesuperioridizagarolo.edu.it)
+ - date_published: 2024-10-13T07:20:09.335387+00:00
+
+ ## Home
+ - [https://www.segatobrustolon.edu.it](https://www.segatobrustolon.edu.it)
+ - date_published: 2024-10-13T07:17:12+00:00
+
+ ## Liceo Scientifico Statale "E. G. Segrè"
+ - [https://www.segresancipriano.edu.it](https://www.segresancipriano.edu.it)
+ - date_published: 2024-10-13T06:52:04.372788+00:00
+
+ ## IIS Silvio Ceccato
+ - [https://www.silvioceccato.edu.it](https://www.silvioceccato.edu.it)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## IS Sobrero | - Casale Monferrato
+ - [https://www.sobrero.edu.it](https://www.sobrero.edu.it)
+ - date_published: 2024-10-13T07:13:47.081514+00:00
+
+ ## IIS Tecnico-Professionale "Spagna - Campani" Spoleto
+ - [https://www.tecnicoprofessionalespoleto.edu.it](https://www.tecnicoprofessionalespoleto.edu.it)
+ - date_published: 2023-09-19T20:25:27+00:00
+
+ ## Istituto Istruzione Superiore ITG-ITI – Vibo Valentia – Sito web ufficiale
+ - [https://www.tecnologicovibo.edu.it](https://www.tecnologicovibo.edu.it)
+ - date_published: 2024-10-13T06:59:49.004161+00:00
+
+ ## I.I.S.S. Statale Toniolo – Manfredonia
+ - [https://www.toniolo.edu.it](https://www.toniolo.edu.it)
+ - date_published: 2024-10-13T07:21:14+00:00
+
+ ## Istituto di Istruzione Superiore "Evangelista Torricelli" - Milano (MI)
+ - [https://www.torricellimi.edu.it](https://www.torricellimi.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## I.I.S. TRON ZANELLA MARTINI
+ - [https://www.tronzanella.edu.it](https://www.tronzanella.edu.it)
+ - date_published: 2024-10-13T07:22:01.357192+00:00
+
+ ## ITS Tullio Buzzi – Istituto Tecnico Statale
+ - [https://www.tulliobuzzi.edu.it](https://www.tulliobuzzi.edu.it)
+ - date_published: 2024-10-13T07:28:12.676982+00:00
+
+ ## Istituto Istruzione Superiore G.B. Vaccarini
+ - [https://www.vaccarinict.edu.it](https://www.vaccarinict.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## ITES "R.Valturio" – Sito dell'Istituto Tecnico Economico Statale "Roberto Valturio"
+ - [https://www.valturio.edu.it](https://www.valturio.edu.it)
+ - date_published: 2024-10-13T07:04:34.232327+00:00
+
+ ## IISS Pietro Verri di Milano - Liceo Linguistico e Tecnico Economico
+ - [https://www.verri.edu.it](https://www.verri.edu.it)
+ - date_published: 2024-09-21T00:00:00+00:00
+
+ ## I.I.S. via Copernico
+ - [https://viacopernico.edu.it](https://viacopernico.edu.it)
+ - date_published: 2024-10-13T07:09:40.334061+00:00
+
+ ## Inizio lezioni a.s. 2024/25 e accoglienza classi prime - IISS J. von Neumann - Roma
+ - [https://www.vonneumann.edu.it](https://www.vonneumann.edu.it)
+ - date_published: 2024-09-06T16:44:27+00:00
+
+ ## IIS Zaccagna Galilei
+ - [https://www.zaccagnagalilei.edu.it](https://www.zaccagnagalilei.edu.it)
+ - date_published: 2024-09-03T08:35:00+00:00
+
+ ## Home
+ - [https://www.isit100.fe.it](https://www.isit100.fe.it)
+ - date_published: 2021-04-13T23:13:59+00:00
+
+ ## Musei Civici Fiorentini | Cultura
+ - [http://museicivicifiorentini.comune.fi.it](http://museicivicifiorentini.comune.fi.it)
+ - date_published: 2024-08-19T20:45:52.489140+00:00
+
+ ## Esposizioni on-line  - Istituto e Museo di Storia della Scienza
+ - [http://brunelleschi.imss.fi.it](http://brunelleschi.imss.fi.it)
+ - date_published: 2024-05-30T11:52:47+00:00
+
+ ## Agenzia per la Cybersicurezza Nazionale - ACN
+ - [https://acn.gov.it](https://acn.gov.it)
+ - date_published: 2024-10-13T07:35:59.382407+00:00
+
+ ## GlobaLeaks
+ - [https://whistleblowing.acn.gov.it](https://whistleblowing.acn.gov.it)
+ - date_published: 2024-10-13T07:36:01.019063+00:00
+
+ ## Agenzia delle Entrate - Dichiarazione Precompilata
+ - [https://dichiarazioneprecompilata.agenziaentrate.gov.it](https://dichiarazioneprecompilata.agenziaentrate.gov.it)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Agenzia delle Entrate - Area riservata
+ - [https://iampe.agenziaentrate.gov.it](https://iampe.agenziaentrate.gov.it)
+ - date_published: 2024-09-28T21:58:05.486837+00:00
+
+ ## Agenzia delle Entrate - Whatsapp
+ - [https://infoprecompilata.agenziaentrate.gov.it](https://infoprecompilata.agenziaentrate.gov.it)
+ - date_published: 2024-07-09T12:49:50+00:00
+
+ ## Agenzia delle Entrate - Strumenti
+ - [https://portale.agenziaentrate.gov.it](https://portale.agenziaentrate.gov.it)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Agenzia delle Entrate - Dichiarazione precompilata 2024
+ - [https://www.agenziaentrate.gov.it](https://www.agenziaentrate.gov.it)
+ - date_published: 2024-05-01T06:13:36.493549+00:00
+
+ ## AGID Form | Home
+ - [https://form.agid.gov.it](https://form.agid.gov.it)
+ - date_published: 2024-05-06T15:15:17.633592+00:00
+
+ ## CSIRT Italia
+ - [https://www.csirt.gov.it](https://www.csirt.gov.it)
+ - date_published: 2024-07-30T09:15:01+00:00
+
+ ## CVCN
+ - [https://www.cvcn.gov.it](https://www.cvcn.gov.it)
+ - date_published: 2024-10-13T07:36:42.586444+00:00
+
+ ## Export.gov.it
+ - [https://export.gov.it](https://export.gov.it)
+ - date_published: 2024-06-14T10:27:41+00:00
+
+ ## Dipartimento per la trasformazione digitale
+ - [https://innovazione.gov.it](https://innovazione.gov.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Eligendo - Ministero dell'Interno DAIT
+ - [https://elezioni.interno.gov.it](https://elezioni.interno.gov.it)
+ - date_published: 2024-07-14T16:18:54.015215+00:00
+
+ ## The Electronic Identity Card (CIE)
+ - [https://www.cartaidentita.interno.gov.it](https://www.cartaidentita.interno.gov.it)
+ - date_published: 2024-07-14T16:19:39.430289+00:00
+
+ ## Ministero dell‘Interno
+ - [https://www.interno.gov.it](https://www.interno.gov.it)
+ - date_published: 2024-06-21T17:50:58+00:00
+
+ ## homepage
+ - [http://www.isprambiente.gov.it](http://www.isprambiente.gov.it)
+ - date_published: 2024-06-16T22:50:48.095450+00:00
+
+ ## Home - Italia Domani - Portale PNRR
+ - [https://italiadomani.gov.it](https://italiadomani.gov.it)
+ - date_published: 2024-09-16T10:57:39.342068+00:00
+
+ ## Home page | Ministero del Lavoro e delle Politiche Sociali
+ - [https://www.lavoro.gov.it](https://www.lavoro.gov.it)
+ - date_published: 2024-06-23T21:06:03.345870+00:00
+
+ ## Made in italy, simply extraordinary
+ - [https://madeinitaly.gov.it](https://madeinitaly.gov.it)
+ - date_published: 2024-08-10T23:32:59.133490+00:00
+
+ ## OpenBDAP | I dati della Finanza Pubblica
+ - [https://openbdap.rgs.mef.gov.it](https://openbdap.rgs.mef.gov.it)
+ - date_published: 2024-07-08T15:41:51.547778+00:00
+
+ ## Ministero dell'Economia e delle Finanze
+ - [https://www.mef.gov.it](https://www.mef.gov.it)
+ - date_published: 2024-06-23T21:01:10+00:00
+
+ ## Ministero delle Imprese e del Made in Italy
+ - [https://www.mimit.gov.it](https://www.mimit.gov.it)
+ - date_published: 2024-07-14T16:10:20+00:00
+
+ ## Ministero del Turismo
+ - [https://www.ministeroturismo.gov.it](https://www.ministeroturismo.gov.it)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Ecobonus
+ - [https://ecobonus.mise.gov.it](https://ecobonus.mise.gov.it)
+ - date_published: 2024-07-12T06:27:54.045032+00:00
+
+ ## Ministero delle Imprese e del Made in Italy
+ - [https://www.mise.gov.it](https://www.mise.gov.it)
+ - date_published: 2024-06-23T21:05:43+00:00
+
+ ## Home page | Ministero delle infrastrutture e dei trasporti
+ - [https://www.mit.gov.it](https://www.mit.gov.it)
+ - date_published: 2024-06-23T21:05:40+00:00
+
+ ## | Ministero dell'Ambiente e della Sicurezza Energetica
+ - [https://www.mite.gov.it](https://www.mite.gov.it)
+ - date_published: 2024-10-15T06:44:00.324878+00:00
+
+ ## Ministero dell'Istruzione e del Merito
+ - [https://www.miur.gov.it](https://www.miur.gov.it)
+ - date_published: 2024-06-23T21:05:53.403068+00:00
+
+ ## Dipartimento per le Pari Opportunità -
+ - [http://www.pariopportunita.gov.it](http://www.pariopportunita.gov.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## homepage
+ - [https://www.politicheagricole.gov.it](https://www.politicheagricole.gov.it)
+ - date_published: 2024-06-23T20:15:24+00:00
+
+ ## Loading...
+ - [https://www.protezionecivile.gov.it](https://www.protezionecivile.gov.it)
+ - date_published: 2024-05-29T22:47:14+00:00
+
+ ## Home - Quello che conta
+ - [https://www.quellocheconta.gov.it](https://www.quellocheconta.gov.it)
+ - date_published: 2024-09-26T21:01:11+00:00
+
+ ## Ministero della Salute
+ - [https://www.salute.gov.it](https://www.salute.gov.it)
+ - date_published: 2021-05-14T13:05:35+00:00
+
+ ## SPID - Sistema Pubblico di identità Digitale
+ - [https://www.spid.gov.it](https://www.spid.gov.it)
+ - date_published: 2022-01-03T00:00:00+00:00
+
+ ## Home | Unioncamere
+ - [http://www.unioncamere.gov.it](http://www.unioncamere.gov.it)
+ - date_published: 2024-07-14T16:10:16.501204+00:00
+
+ ## Il Sole 24 Ore: notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri
+ - [https://i2.res.24o.it](https://i2.res.24o.it)
+ - date_published: 2019-11-21T13:47:58+00:00
+
+ ## 3CX. PBX. Live Chat. Videoconferenza
+ - [https://3cx.it](https://3cx.it)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## 3M Science. Applied to Life.™ | 3M Italia Sito Ufficiale
+ - [https://www.3mitalia.it](https://www.3mitalia.it)
+ - date_published: 2024-08-06T10:41:29.339397+00:00
+
+ ## 50 Top Pizza – Guide to the BestPizzerias in the world
+ - [https://www.50toppizza.it](https://www.50toppizza.it)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## 64b.it | Software Development & Quality Consulting
+ - [https://64b.it](https://64b.it)
+ - date_published: 2024-08-08T15:18:19.747259+00:00
+
+ ## NOT Dexter's Lab
+ - [https://www.a2p.it](https://www.a2p.it)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Sito ufficiale Abarth - Auto sportive | Abarth
+ - [https://www.abarth.it](https://www.abarth.it)
+ - date_published: 2024-06-05T14:57:53+00:00
+
+ ## Valutazione auto usate : stima auto usate | Abarth IT
+ - [https://www.valutazioneusato.abarth.it](https://www.valutazioneusato.abarth.it)
+ - date_published: 2024-10-28T21:42:00.898863+00:00
+
+ ## Home page - Abbazia di San Giorgio Maggiore
+ - [https://abbaziasangiorgio.it](https://abbaziasangiorgio.it)
+ - date_published: 2023-04-18T16:16:55+00:00
+
+ ## Abbonamenti a riviste, prodotti e servizi - Abbonamenti.it
+ - [https://www.abbonamenti.it](https://www.abbonamenti.it)
+ - date_published: 2024-07-15T11:02:36.613733+00:00
+
+ ## Homepage - Abbonationline
+ - [https://www.abbonationline.it](https://www.abbonationline.it)
+ - date_published: 2024-09-20T17:25:05.643371+00:00
+
+ ## Magazine
+ - [https://abbonatiqui.it](https://abbonatiqui.it)
+ - date_published: 2024-05-12T06:00:08.830769+00:00
+
+ ## Magazine
+ - [https://offerte.abbonatiqui.it](https://offerte.abbonatiqui.it)
+ - date_published: 2024-07-15T11:02:31.779664+00:00
+
+ ## AbeBooks | Libri, Arte e Collezionismo
+ - [https://abebooks.it](https://abebooks.it)
+ - date_published: 2024-09-15T23:49:00.408027+00:00
+
+ ## Abebooks
+ - [https://supporto.abebooks.it](https://supporto.abebooks.it)
+ - date_published: 2023-09-16T23:50:29+00:00
+
+ ## Abitare | Rivista d'Architettura e Design
+ - [http://www.abitare.it](http://www.abitare.it)
+ - date_published: 2024-09-02T10:41:08.140512+00:00
+
+ ## About Amazon Italia
+ - [https://aboutamazon.it](https://aboutamazon.it)
+ - date_published: 2024-05-01T02:02:27.509499+00:00
+
+ ## Home - Amazon Sustainability
+ - [https://sostenibilita.aboutamazon.it](https://sostenibilita.aboutamazon.it)
+ - date_published: 2024-06-15T02:15:07.409446+00:00
+
+ ## AboutBits | Software Development and Consulting Agency
+ - [https://aboutbits.it](https://aboutbits.it)
+ - date_published: 2024-08-19T16:43:58.344387+00:00
+
+ ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
+ - [https://m.aboutyou.it](https://m.aboutyou.it)
+ - date_published: 2024-09-17T18:06:41+00:00
+
+ ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
+ - [https://www.aboutyou.it](https://www.aboutyou.it)
+ - date_published: 2024-09-17T18:06:41+00:00
+
+ ## Accademia del Cinema. La scuola per lavorare nel mondo dello spettacolo e del cinema.
+ - [https://accademiadelcinema.it](https://accademiadelcinema.it)
+ - date_published: 2024-05-07T23:42:16.887401+00:00
+
+ ## AccentiWeb
+ - [http://www.accentiweb.it](http://www.accentiweb.it)
+ - date_published: 2018-12-14T11:59:08+00:00
+
+ ## Revive Adserver
+ - [https://adserver.acdsolutions.it](https://adserver.acdsolutions.it)
+ - date_published: 2024-08-11T14:54:21.531365+00:00
+
+ ## ACSG Associazione Culturale Studi Grafici – Comunicare. Condividere. Crescere.
+ - [http://www.acsg.it](http://www.acsg.it)
+ - date_published: 2024-08-18T12:00:22+00:00
+
+ ## Ada Amendola
+ - [https://www.adaamendola.it](https://www.adaamendola.it)
+ - date_published: 2024-09-06T20:20:47.549092+00:00
+
+ ## Adafruit Industries, Unique & fun DIY electronics and kits
+ - [https://adafru.it](https://adafru.it)
+ - date_published: 2024-05-01T02:20:03.054699+00:00
+
+ ## Concessionaria Pubblicitaria Digitale | Adasta
+ - [https://adasta.it](https://adasta.it)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Login Editore
+ - [https://dashboard.adasta.it](https://dashboard.adasta.it)
+ - date_published: 2024-06-25T22:42:24.810448+00:00
+
+ ## Adecco Italia - agenzia del lavoro per privati e aziende
+ - [https://www.adecco.it](https://www.adecco.it)
+ - date_published: 2024-09-26T18:18:03+00:00
+
+ ## The Adecco Group
+ - [https://adeccogroup.it](https://adeccogroup.it)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Iniziano i saldi estivi 2024: fino al 50% di sconto | adidas IT
+ - [https://www.adidas.it](https://www.adidas.it)
+ - date_published: 2024-07-14T12:13:29.453849+00:00
+
+ ## La tua rivista di arredamento, design e arte
+ - [https://ad-italia.it](https://ad-italia.it)
+ - date_published: 2024-05-12T06:00:14.655903+00:00
+
+ ## AdPlay: Media, Tech e Digital Transformation.
+ - [https://www.adplay.it](https://www.adplay.it)
+ - date_published: 2024-10-22T12:42:57.770975+00:00
+
+ ## AdRaise
+ - [https://www.adraise.it](https://www.adraise.it)
+ - date_published: 2024-06-25T21:21:26.127183+00:00
+
+ ## Advance Projects
+ - [https://www.advancemame.it](https://www.advancemame.it)
+ - date_published: 2024-02-11T14:44:49+00:00
+
  ## Affari Internazionali - Affari Internazionali
  - [https://www.affarinternazionali.it](https://www.affarinternazionali.it)
  - date_published: 2023-12-30T18:33:40+00:00
@@ -3064,954 +4016,4 @@
  ## Главная | Ближайшее будущее
  - [https://ru.futuroprossimo.it](https://ru.futuroprossimo.it)
  - date_published: 2024-04-22T00:00:00+00:00
-
- ## Notizie di Mercato & Previsioni, Grafici e Recensioni dei Broker | FX Empire
- - [https://www.fxempire.it](https://www.fxempire.it)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://www.fxstreet.it](https://www.fxstreet.it)
- - date_published: 2024-06-20T22:01:37.815075+00:00
-
- ## G7 Italy 2024
- - [https://www.g7italy.it](https://www.g7italy.it)
- - date_published: 2024-09-16T07:22:43+00:00
-
- ## GA-2 s.n.c.
- - [https://ga-2.it](https://ga-2.it)
- - date_published: 2024-05-09T08:24:14.778389+00:00
-
- ## Test page: GaiaTool CGI map server
- - [https://www.gaia-gis.it](https://www.gaia-gis.it)
- - date_published: 2024-01-28T16:02:30.100601+00:00
-
- ## galaxus.it – more than an online shop
- - [https://galaxus.it](https://galaxus.it)
- - date_published: 2024-04-30T06:03:43.952109+00:00
-
- ## Liceo Scientifico Galileo Galilei Trieste
- - [https://www.galileitrieste.it](https://www.galileitrieste.it)
- - date_published: 2024-10-13T06:54:18.074885+00:00
-
- ## GalleriaNews - Home
- - [http://www.galleriaborghese.it](http://www.galleriaborghese.it)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## G|A|M|E
- - [https://gamejournal.it](https://gamejournal.it)
- - date_published: 2024-05-09T05:23:59.696302+00:00
-
- ## Gamelife | Negozio Online di Videogiochi, Console, Gadget e Giocattoli
- - [https://gamelife.it](https://gamelife.it)
- - date_published: 2024-10-17T07:10:47.995164+00:00
-
- ## Gamelite.it
- - [https://forum.gamelite.it](https://forum.gamelite.it)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Gamelite - Videogiochi per console e PC - Gamelite
- - [https://gamelite.it](https://gamelite.it)
- - date_published: 2024-06-29T07:07:54.003559+00:00
-
- ## Gamepeople.it
- - [http://www.gamepeople.it](http://www.gamepeople.it)
- - date_published: 2024-11-08T13:07:46.657082+00:00
-
- ## Trailer, dirette e interviste dedicati ai giochi | Gamereactor Italia
- - [https://www.gamereactor.it](https://www.gamereactor.it)
- - date_published: 2024-07-17T13:05:58.500877+00:00
-
- ## GameSoul.it - News, Recensioni, Rubriche, Guide e tutto dei Videogiochi!
- - [http://www.gamesoul.it](http://www.gamesoul.it)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## GameStop - PS5, Videogiochi, Console, Accessori | GameStop
- - [https://gamestop.it](https://gamestop.it)
- - date_published: 2024-06-15T03:28:24+00:00
-
- ## Gamesurf
- - [https://www.gamesurf.it](https://www.gamesurf.it)
- - date_published: 2024-08-08T21:40:18.632926+00:00
-
- ## Home - Garante Privacy
- - [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
- - date_published: 2023-10-25T20:14:57.663434+00:00
-
- ## Gardaland Resort: il resort del divertimento n. 1 in Italia
- - [https://www.gardaland.it](https://www.gardaland.it)
- - date_published: 2024-07-03T09:45:41.880936+00:00
-
- ## Garnier: Prodotti di Bellezza per la Pelle e i Capelli | Garnier
- - [http://www.garnier.it](http://www.garnier.it)
- - date_published: 2024-10-20T22:52:07.736787+00:00
-
- ## Index of /
- - [https://alpinelinux.mirror.garr.it](https://alpinelinux.mirror.garr.it)
- - date_published: 2024-07-20T15:58:48.105506+00:00
-
- ## Index of /
- - [https://manjaro.mirror.garr.it](https://manjaro.mirror.garr.it)
- - date_published: 2024-08-19T22:19:24.221457+00:00
-
- ## Index of /
- - [https://voidlinux.mirror.garr.it](https://voidlinux.mirror.garr.it)
- - date_published: 2024-07-20T05:17:36.557971+00:00
-
- ## Gaspartorriero.it  – It's more complicated than that!
- - [http://www.gaspartorriero.it](http://www.gaspartorriero.it)
- - date_published: 2024-07-04T08:35:45.834863+00:00
-
- ## Gattaiola | Press Play & Follow the Cat
- - [http://gattaiola.it](http://gattaiola.it)
- - date_published: 2024-07-20T07:11:38.700885+00:00
-
- ## La Gazzetta dello Sport | Notizie sportive e risultati live di oggi
- - [https://www.gazzetta.it](https://www.gazzetta.it)
- - date_published: 2024-10-19T00:01:46.750107+00:00
-
- ## Fondazione G.A.R.I. - Home
- - [http://www.gazzettaamministrativa.it](http://www.gazzettaamministrativa.it)
- - date_published: 2024-07-06T23:43:37.486601+00:00
-
- ## Homepage | Gazzetta Necrologie
- - [https://www.gazzettanecrologie.it](https://www.gazzettanecrologie.it)
- - date_published: 2024-10-22T12:37:23.825178+00:00
-
- ## GCERTI ITALY ASSESSMENT & CERTIFICATION
- - [https://www.gcerti.it](https://www.gcerti.it)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## About
- - [https://gdgpisa.it](https://gdgpisa.it)
- - date_published: 2024-02-02T00:04:56+00:00
-
- ## GEAR.it | Servizi e soluzioni innovativi
- - [https://www.gear.it](https://www.gear.it)
- - date_published: 2024-07-17T04:35:41.149203+00:00
-
- ## GEDI
- - [https://ilmioabbonamento.gedi.it](https://ilmioabbonamento.gedi.it)
- - date_published: 2024-03-11T08:36:07+00:00
-
- ## Homepage | GEDI Gruppo Editoriale
- - [https://www.gedi.it](https://www.gedi.it)
- - date_published: 2024-07-16T18:33:57.636721+00:00
-
- ## 200 OK
- - [https://a.gedidigital.it](https://a.gedidigital.it)
- - date_published: 2024-05-12T06:44:57.929239+00:00
-
- ## Visual Lab - Il laboratorio digitale del Gruppo Gedi
- - [https://lab.gedidigital.it](https://lab.gedidigital.it)
- - date_published: 2018-10-30T09:00:00+00:00
-
- ## Home | Gedi
- - [https://smile.gedidigital.it](https://smile.gedidigital.it)
- - date_published: 2024-05-12T06:45:48.658816+00:00
-
- ## Homepage | GEDI Gruppo Editoriale
- - [https://gedispa.it](https://gedispa.it)
- - date_published: 2024-05-12T06:43:56.816042+00:00
-
- ## Gedi Visual
- - [https://www.gedivisual.it](https://www.gedivisual.it)
- - date_published: 2019-04-05T18:00:00+00:00
-
- ## GEEKOM Mini PC | Mini Computer
- - [https://www.geekom.it](https://www.geekom.it)
- - date_published: 2024-10-31T09:40:13+00:00
-
- ## Annunci Pavia - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.laprovinciapavese.gelocal.it](https://annunci.laprovinciapavese.gelocal.it)
- - date_published: 2024-07-16T19:12:34.691824+00:00
-
- ## Annunci Novara - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.lasentinella.gelocal.it](https://annunci.lasentinella.gelocal.it)
- - date_published: 2024-07-16T19:02:46.381065+00:00
-
- ## La Provincia Pavese
- - [https://laprovinciapavese.gelocal.it](https://laprovinciapavese.gelocal.it)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## La Sentinella - Ivrea
- - [https://lasentinella.gelocal.it](https://lasentinella.gelocal.it)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Necrologi Defunti – Annunci Necrologici - Necrologie La Provincia Pavese
- - [https://necrologie.laprovinciapavese.gelocal.it](https://necrologie.laprovinciapavese.gelocal.it)
- - date_published: 2024-07-16T18:47:55.042310+00:00
-
- ## Necrologi Defunti – Annunci Necrologici - Necrologie La Sentinella Del Canavese
- - [https://necrologie.lasentinella.gelocal.it](https://necrologie.lasentinella.gelocal.it)
- - date_published: 2024-07-16T18:48:25.014181+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://negozi.laprovinciapavese.gelocal.it](https://negozi.laprovinciapavese.gelocal.it)
- - date_published: 2024-07-16T19:12:40.339880+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://negozi.lasentinella.gelocal.it](https://negozi.lasentinella.gelocal.it)
- - date_published: 2024-07-16T19:02:26.878642+00:00
-
- ## GenovaToday
- - [https://genovatoday.it](https://genovatoday.it)
- - date_published: 2024-05-11T09:56:40.622343+00:00
-
- ## Home - Genta & Cappa
- - [https://gentaecappa.it](https://gentaecappa.it)
- - date_published: 2024-09-03T23:22:44.840672+00:00
-
- ## Geostudi Astier srl | Strumenti e software per la geofisica |
- - [http://www.geostudiastier.it](http://www.geostudiastier.it)
- - date_published: 2024-06-17T10:29:32.642660+00:00
-
- ## gesinn.it
- - [https://gesinn.it](https://gesinn.it)
- - date_published: 2022-02-02T16:13:51+00:00
-
- ## Foto stock, immagini Creative e vettoriali royalty-free | Immagini di attualità, entertainment e moda - Getty Images
- - [https://gettyimages.it](https://gettyimages.it)
- - date_published: 2024-10-31T19:47:24.517589+00:00
-
- ## Giacinto Carlucci - Home
- - [https://www.giacintocarlucci.it](https://www.giacintocarlucci.it)
- - date_published: 2022-01-23T17:09:09+00:00
-
- ## Giacomo Nanni - Baritono
- - [http://giacomonanni.it](http://giacomonanni.it)
- - date_published: 2024-07-13T15:13:23.018404+00:00
-
- ## Giallotv.it è il sito di GIALLO, il canale televisivo in chiaro visibile al 38 del DTT
- - [https://giallotv.it](https://giallotv.it)
- - date_published: 2024-05-07T12:49:45.096814+00:00
-
- ## Gian Paolo Fontani | Musicante
- - [https://gianpaolofontani.it](https://gianpaolofontani.it)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## GiardiniBlog - Il Blog di riferimento per Tecnologia
- - [https://giardiniblog.it](https://giardiniblog.it)
- - date_published: 2017-06-19T09:14:27+00:00
- - tags: ['tech news']
-
- ## Giffoni - Sito Ufficiale
- - [https://www.giffonifilmfestival.it](https://www.giffonifilmfestival.it)
- - date_published: 2024-09-24T11:17:48+00:00
-
- ## Gilead Sciences
- - [https://www.gilead.it](https://www.gilead.it)
- - date_published: 2024-07-02T04:08:24.141555+00:00
-
- ## Giochi online gratuiti su giochi.it
- - [https://www.giochi.it](https://www.giochi.it)
- - date_published: 2024-07-20T02:45:51.459158+00:00
-
- ## Giochi gratis - Gioca online su gioco.it
- - [https://www.gioco.it](https://www.gioco.it)
- - date_published: 2024-07-20T02:43:22.733331+00:00
-
- ## giocoindie.it
- - [https://giocoindie.it](https://giocoindie.it)
- - date_published: 2024-05-10T05:28:50.657430+00:00
-
- ## Gioielli Nascosti di Venezia, quattro tesori per riscoprire Venezia fuori dai tradizionali percorsi
- - [https://gioiellinascostidivenezia.it](https://gioiellinascostidivenezia.it)
- - date_published: 2018-04-24T10:05:33+00:00
-
- ## Giochi per Ragazze Gratis Online - GirlsGoGames.it
- - [https://www.girlsgogames.it](https://www.girlsgogames.it)
- - date_published: 2024-07-20T02:45:44.903962+00:00
-
- ## Gitea
- - [https://gitea.it](https://gitea.it)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Giulio Magnifico
- - [https://giuliomagnifico.it](https://giuliomagnifico.it)
- - date_published: 2024-08-19T11:04:20.877575+00:00
-
- ## Ministero della giustizia
- - [https://www.giustizia.it](https://www.giustizia.it)
- - date_published: 2024-06-23T21:05:59.258468+00:00
-
- ## Glacom, consulenti per lo sviluppo aziendale
- - [https://www.glacom.it](https://www.glacom.it)
- - date_published: 2024-09-15T13:37:19.372582+00:00
-
- ## Beauty Vogue: consigli, idee e tutorial per la tua bellezza
- - [http://www.glamour.it](http://www.glamour.it)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Ricerca lavori Glassdoor
- - [https://www.glassdoor.it](https://www.glassdoor.it)
- - date_published: 2024-06-17T11:42:40.979809+00:00
-
- ## Social GL-Como | Home
- - [https://social.gl-como.it](https://social.gl-como.it)
- - date_published: 2024-08-18T11:45:53.241182+00:00
-
- ## Home - Globo Diroma
- - [https://globodiroma.it](https://globodiroma.it)
- - date_published: 2024-04-30T06:43:32.861097+00:00
-
- ## Gomibo.it - Tutti i telefoni e accessori
- - [https://www.gomibo.it](https://www.gomibo.it)
- - date_published: 2024-10-21T22:25:59.938005+00:00
-
- ## Google Libri
- - [https://books.google.it](https://books.google.it)
- - date_published: 2024-05-06T22:31:28.745720+00:00
-
- ## Google
- - [https://google.it](https://google.it)
- - date_published: 2024-06-18T12:08:55.648967+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.it](https://maps.google.it)
- - date_published: 2024-07-20T07:36:11.917270+00:00
-
- ## Google Scholar
- - [https://scholar.google.it](https://scholar.google.it)
- - date_published: 2024-05-06T15:15:11.350462+00:00
-
- ## www.governo.it
- - [https://governo.it](https://governo.it)
- - date_published: 2024-06-15T05:24:22+00:00
-
- ## Presidenza del Consiglio dei Ministri
- - [http://presidenza.governo.it](http://presidenza.governo.it)
- - date_published: 2024-09-16T10:57:36.920745+00:00
-
- ## Autenticazione Servizi OnLine
- - [https://iam.gpdp.it](https://iam.gpdp.it)
- - date_published: 2024-06-23T21:14:53.505566+00:00
-
- ## portale
- - [https://servizi.gpdp.it](https://servizi.gpdp.it)
- - date_published: 2023-06-24T21:08:55+00:00
-
- ## Home
- - [https://www.gpdp.it](https://www.gpdp.it)
- - date_published: 2024-05-06T15:15:14.600499+00:00
-
- ## GQ Italia
- - [https://www.gqitalia.it](https://www.gqitalia.it)
- - date_published: 2024-05-02T11:53:31.172305+00:00
-
- ## Hello GratkaApiWeb!
- - [https://gratka.api.gratka.it](https://gratka.api.gratka.it)
- - date_published: 2024-07-19T18:37:31.587133+00:00
-
- ## GPTW BLOG
- - [https://gptw.greatplacetowork.it](https://gptw.greatplacetowork.it)
- - date_published: 2024-09-10T09:18:24+00:00
-
- ## Great Place to Work Italia
- - [https://greatplacetowork.it](https://greatplacetowork.it)
- - date_published: 2024-06-12T10:40:45.092150+00:00
-
- ## GRIN Informatica - Società Informatica Italiana
- - [http://www.grin-informatica.it](http://www.grin-informatica.it)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Groupon® Sito Ufficiale | Offerte & Shopping Online | Risparmia fino al 70%
- - [https://www.groupon.it](https://www.groupon.it)
- - date_published: 2024-10-22T21:36:47.006830+00:00
-
- ## Gruppo Grunenthal Home
- - [https://www.grunenthal.it](https://www.grunenthal.it)
- - date_published: 2024-10-16T18:48:36.464118+00:00
-
- ## REPUBBLICABOOKSHOP
- - [https://inedicola.gruppoespresso.it](https://inedicola.gruppoespresso.it)
- - date_published: 2024-05-12T06:45:41.554858+00:00
-
- ## Gruppo Iren, multiutility  italiana e holding industriale con sede a Reggio Emilia
- - [http://www.gruppoiren.it](http://www.gruppoiren.it)
- - date_published: 2024-07-14T16:00:11+00:00
-
- ## GTA-Expert.it - FanSite Italiano di Grand Theft Auto
- - [http://www.gta-expert.it](http://www.gta-expert.it)
- - date_published: 2024-07-13T11:50:27.716178+00:00
-
- ## Guerre di Rete
- - [https://guerredirete.it](https://guerredirete.it)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Guggenheim museum in Venice: exhibition and guided tour - Peggy Guggenheim Collection
- - [https://www.guggenheim-venice.it](https://www.guggenheim-venice.it)
- - date_published: 2024-10-22T12:38:21.000468+00:00
-
- ## LE GUIDE DE L'ESPRESSO
- - [https://guideespresso.it](https://guideespresso.it)
- - date_published: 2024-09-02T11:13:36.171881+00:00
-
- ## Go With The Flow
- - [https://gwtf.it](https://gwtf.it)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## HackInBo
- - [https://www.hackinbo.it](https://www.hackinbo.it)
- - date_published: 2024-06-23T16:48:56.585218+00:00
-
- ## GoatCounter
- - [https://analytics.halb.it](https://analytics.halb.it)
- - date_published: 2024-05-06T15:15:18.821800+00:00
-
- ## Alberto Ventafridda
- - [https://halb.it](https://halb.it)
- - date_published: 2024-05-11T10:11:31.962507+00:00
-
- ## morsechat - an online morse code radio
- - [https://morse.halb.it](https://morse.halb.it)
- - date_published: 2023-05-23T17:54:13+00:00
-
- ## 
- - [https://haystack.it](https://haystack.it)
- - date_published: 2024-01-09T03:33:35.326586+00:00
-
- ## Siamo Hearst.
- - [https://hearst.it](https://hearst.it)
- - date_published: 2024-06-16T01:16:59.386496+00:00
-
- ## Home - Helix Pictures
- - [https://helixpictures.it](https://helixpictures.it)
- - date_published: 2018-10-23T08:04:01+00:00
-
- ## Ordina la tua deliziosa box ricette | 50% prima box + 3 box al 25% | HelloFresh
- - [https://hellofresh.it](https://hellofresh.it)
- - date_published: 2024-06-18T17:17:59.927510+00:00
-
- ## Home
- - [https://www.henkel.it](https://www.henkel.it)
- - date_published: 2024-10-18T20:18:20.739272+00:00
-
- ## P&G Per Te
- - [https://herbalessences.it](https://herbalessences.it)
- - date_published: 2024-10-29T06:36:20.345769+00:00
-
- ## Home - HiFi Comet
- - [https://www.hificomet.it](https://www.hificomet.it)
- - date_published: 2022-06-08T14:39:03+00:00
-
- ## L'evoluzione della connessione nell'assistenza sanitaria
- - [https://www.hillrom.it](https://www.hillrom.it)
- - date_published: 2024-10-17T21:28:00.978862+00:00
-
- ## Homepage
- - [https://www.hilti.it](https://www.hilti.it)
- - date_published: 2024-06-20T07:25:48.805869+00:00
-
- ## HitPaw Online: I primi strumenti di editing basati sull'AI
- - [https://online.hitpaw.it](https://online.hitpaw.it)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Home - HIWIN ITALIA
- - [https://www.hiwin.it](https://www.hiwin.it)
- - date_published: 2024-09-05T21:56:49+00:00
-
- ## HN Security - Humanativa Group
- - [http://www.hnsecurity.it](http://www.hnsecurity.it)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home | { Hoelzel.IT }
- - [https://www.hoelzel.it](https://www.hoelzel.it)
- - date_published: 2023-10-04T08:48:58+00:00
-
- ## Home - Hologic
- - [https://www.hologic.it](https://www.hologic.it)
- - date_published: 2024-07-13T13:19:42.164319+00:00
-
- ## Home | Holotipus
- - [http://www.holotipus.it](http://www.holotipus.it)
- - date_published: 2024-07-09T21:17:21.556098+00:00
-
- ## Discover HomeCamper! (Private camping rentals)
- - [https://homecamper.it](https://homecamper.it)
- - date_published: 2024-06-15T01:34:11.568875+00:00
-
- ## Radio Pompa
- - [http://lamiaradio.homepc.it](http://lamiaradio.homepc.it)
- - date_published: 2022-02-03T19:48:22+00:00
-
- ## HorrorMagazine
- - [https://www.horrormagazine.it](https://www.horrormagazine.it)
- - date_published: 2024-07-04T13:17:17.326462+00:00
-
- ## Host - Hosting sicuro e professionale dedicato alle imprese
- - [https://host.it](https://host.it)
- - date_published: 2024-06-28T14:47:31+00:00
-
- ## Mautic
- - [https://marketing.host.it](https://marketing.host.it)
- - date_published: 2024-06-29T08:07:14.476982+00:00
-
- ## Host Academy - Corsi di formazione professionali online
- - [https://host-academy.it](https://host-academy.it)
- - date_published: 2024-06-28T07:36:25+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.it](https://hostico.it)
- - date_published: 2024-06-16T14:56:53.723417+00:00
-
- ## Accedi a Hostinger
- - [https://auth.hostinger.it](https://auth.hostinger.it)
- - date_published: 2024-07-13T16:44:05.919019+00:00
-
- ## Hostinger - Tutto ciò di cui hai bisogno per creare un sito web
- - [https://hostinger.it](https://hostinger.it)
- - date_published: 2024-05-11T07:50:50.508016+00:00
-
- ## Hostwinds: Soluzioni di hosting web incentrate sul cliente
- - [https://www.hostwinds.it](https://www.hostwinds.it)
- - date_published: 2024-06-18T17:35:47+00:00
-
- ## Hotel Il Marchese SPA Sciacca | Piscina | Ristorante e Mare
- - [https://www.hotelilmarchese.it](https://www.hotelilmarchese.it)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Benvenuti su Hotfrog
- - [https://www.hotfrog.it](https://www.hotfrog.it)
- - date_published: 2024-06-29T16:52:46.014923+00:00
-
- ## Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365
- - [https://hotmail.it](https://hotmail.it)
- - date_published: 2024-10-20T10:09:29.945840+00:00
-
- ## Welcome to Streamlined Solopreneur
- - [https://howibuilt.it](https://howibuilt.it)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Airport Transfers | Award-winning Shuttles & Taxis | HolidayTaxis
- - [https://zend-documents.core.ireland.production.htxg.it](https://zend-documents.core.ireland.production.htxg.it)
- - date_published: 2024-10-12T11:28:40.509484+00:00
-
- ## Hubsan.IT – Hubsan-The Leading provider of flight control and digital aerial photography systems solutions
- - [https://www.hubsan.it](https://www.hubsan.it)
- - date_published: 2024-09-05T19:04:22.622339+00:00
-
- ## HuffPost Italia: Notizie, ultim&apos;ora e commenti su L&apos;HuffPost
- - [https://www.huffingtonpost.it](https://www.huffingtonpost.it)
- - date_published: 2024-05-02T11:55:15.838571+00:00
-
- ## hn security
- - [https://security.humanativaspa.it](https://security.humanativaspa.it)
- - date_published: 2024-11-13T10:49:20.530272+00:00
-
- ## Home - Hardware Upgrade Media Group
- - [https://www.hwmediagroup.it](https://www.hwmediagroup.it)
- - date_published: 2024-09-28T02:44:01+00:00
-
- ## Hardware Upgrade | il sito italiano sulla tecnologia
- - [http://www.hwupgrade.it](http://www.hwupgrade.it)
- - date_published: 2024-07-02T03:03:54.025263+00:00
-
- ## Benvenuti in Hydropath Italia
- - [https://hydropath-italia.it](https://hydropath-italia.it)
- - date_published: 2024-10-14T18:01:12.106804+00:00
-
- ## Hype Web
- - [https://app.hype.it](https://app.hype.it)
- - date_published: 2024-04-05T08:05:56+00:00
-
- ## Hype Support Center
- - [https://support.hype.it](https://support.hype.it)
- - date_published: 2024-09-28T21:25:55.764074+00:00
-
- ## Neo bank digitale e app smartphone per pagamenti
- - [https://www.hype.it](https://www.hype.it)
- - date_published: 2024-05-01T06:13:31.592861+00:00
-
- ## HyperBit SRLs
- - [https://hyperbit.it](https://hyperbit.it)
- - date_published: 2024-06-12T09:09:23+00:00
-
- ## Plausible · Web analytics
- - [https://stats.hyperbit.it](https://stats.hyperbit.it)
- - date_published: 2024-05-06T21:26:08.339683+00:00
-
- ## Home - IAB Italia - Associazione dedicata all'advertising interattivo
- - [http://www.iab.it](http://www.iab.it)
- - date_published: 2024-06-25T19:34:52.176479+00:00
-
- ## iAchieved.it – Thoughts from a Technology Leader
- - [http://dev.iachieved.it](http://dev.iachieved.it)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## IAI | Future Africa | home
- - [https://africaenergy.iai.it](https://africaenergy.iai.it)
- - date_published: 2024-05-06T15:15:36.904344+00:00
-
- ## Energy: New Horizons | home
- - [https://energy.iai.it](https://energy.iai.it)
- - date_published: 2024-05-06T15:15:35.474193+00:00
-
- ## Joint Project - Survey
- - [https://jointchecklist.iai.it](https://jointchecklist.iai.it)
- - date_published: 2024-02-15T23:10:56+00:00
-
- ## IAI Istituto Affari Internazionali
- - [https://www.iai.it](https://www.iai.it)
- - date_published: 2023-10-25T20:15:02.462616+00:00
-
- ## Home | Italian Association for Machine Learning
- - [https://history.iaml.it](https://history.iaml.it)
- - date_published: 2022-03-05T19:37:28+00:00
-
- ## IBAA – Italian Business Aviation Association
- - [https://www.ibaa.it](https://www.ibaa.it)
- - date_published: 2024-10-11T22:51:47.560470+00:00
-
- ## Libreria IBS: Libri, DVD, Blu-ray, CD, eBook, Games, eReader, Giocattoli
- - [https://www.ibs.it](https://www.ibs.it)
- - date_published: 2024-09-17T21:07:48.086006+00:00
-
- ## International Business Times Italy
- - [https://ibtimes.it](https://ibtimes.it)
- - date_published: 2024-06-30T06:57:04.000400+00:00
-
- ## iCalendario : Calendario gratis on-line
- - [https://icalendario.it](https://icalendario.it)
- - date_published: 2024-07-11T22:10:16.877838+00:00
-
- ## ICAR 2024: research and care: from...
- - [https://www.icar2024.it](https://www.icar2024.it)
- - date_published: 2024-07-03T15:35:42.231223+00:00
-
- ## Home | Agenzia ICE
- - [https://www.ice.it](https://www.ice.it)
- - date_published: 2024-08-10T23:32:42.120500+00:00
-
- ## Ötzi, l'Uomo venuto dal ghiaccio
- - [https://iceman.it](https://iceman.it)
- - date_published: 2024-03-22T10:38:43.538641+00:00
-
- ## ICONIUM Blockchain Ventures
- - [https://www.iconium.it](https://www.iconium.it)
- - date_published: 2024-06-16T04:30:14.733972+00:00
-
- ## blog.icons8.com
- - [https://blog.icons8.it](https://blog.icons8.it)
- - date_published: 2024-08-20T04:39:27.971915+00:00
-
- ## Icone, Clipart, Foto e Musica Gratis
- - [https://icons8.it](https://icons8.it)
- - date_published: 2024-05-23T16:32:58.520057+00:00
-
- ## Indico [Home]
- - [https://indico.ictp.it](https://indico.ictp.it)
- - date_published: 2024-07-13T03:07:33.500075+00:00
-
- ## New ICTP Webserver: redirect
- - [http://users.ictp.it](http://users.ictp.it)
- - date_published: 2015-11-02T17:25:10+00:00
-
- ## Home | ICTP
- - [https://www.ictp.it](https://www.ictp.it)
- - date_published: 2024-06-30T08:20:10+00:00
-
- ## I-Days Milano - Homepage
- - [https://idays.it](https://idays.it)
- - date_published: 2024-05-13T03:41:27.821804+00:00
-
- ## idealo – il tuo comparatore prezzi
- - [https://www.idealo.it](https://www.idealo.it)
- - date_published: 2024-07-09T07:54:02.573697+00:00
-
- ## Istituto Europeo di Design
- - [https://www.ied.it](https://www.ied.it)
- - date_published: 2024-07-17T11:14:24.375947+00:00
-
- ## IESS Liceo Europeo a Reggio Emilia | Più del solito liceo
- - [https://www.iess.it](https://www.iess.it)
- - date_published: 2024-10-13T07:14:57.170076+00:00
-
- ## iFOSS – iFOSS
- - [https://www.ifoss.it](https://www.ifoss.it)
- - date_published: 2024-06-23T20:48:43.303053+00:00
-
- ## I Giochi dei Grandi | Giochi da tavolo
- - [http://www.igiochideigrandi.it](http://www.igiochideigrandi.it)
- - date_published: 2024-07-20T07:25:51.727005+00:00
-
- ## igus | cuscinetti, guide lineari, catene portacavi e cavi
- - [https://www.igus.it](https://www.igus.it)
- - date_published: 2024-08-06T23:11:58.773622+00:00
-
- ## Istituto Istruzione Superiore "Abramo Lincoln"
- - [https://www.iisabramolincolnenna.it](https://www.iisabramolincolnenna.it)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Home - I.I.S. Curie-Levi
- - [https://www.iiscurielevi.it](https://www.iiscurielevi.it)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Istituto Istruzione Superiore 'E. Fermi' Logo Istituto Istruzione Superiore 'E. Fermi'
- - [https://www.iisfermisarno.it](https://www.iisfermisarno.it)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Istituto Istruzione Superiore "Galileo Ferraris" - Vercelli (VC)
- - [http://www.iis-galileoferraris.it](http://www.iis-galileoferraris.it)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## Notizie
- - [https://www.iisgiustinofortunato.it](https://www.iisgiustinofortunato.it)
- - date_published: 2024-10-13T07:14:28+00:00
-
- ## Istituto di Istruzione Superiore Merloni Miliani
- - [https://www.iismerlonimiliani.it](https://www.iismerlonimiliani.it)
- - date_published: 2024-10-13T07:27:48.518429+00:00
-
- ## Home IIS Meucci Massa
- - [https://www.iismeuccimassa.it](https://www.iismeuccimassa.it)
- - date_published: 2024-10-13T07:17:54.817916+00:00
-
- ## IIS IPSAR Piranesi
- - [https://www.iispiranesi.it](https://www.iispiranesi.it)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## I.I.S. E.Fermi Aragona
- - [https://www.iissenricofermi.it](https://www.iissenricofermi.it)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Istituto Istruzione Superiore "Carlo Emilio Gadda"
- - [https://www.iissgadda.it](https://www.iissgadda.it)
- - date_published: 2024-10-13T07:11:09.970242+00:00
-
- ## Istituto Istruzione Secondaria Superiore Gandhi Merano
- - [https://www.iiss-gandhi-merano.it](https://www.iiss-gandhi-merano.it)
- - date_published: 2024-10-13T07:01:11.616539+00:00
-
- ## Istituti Tecnici Vito Sante Longo
- - [https://www.iisstecnicomonopoli.it](https://www.iisstecnicomonopoli.it)
- - date_published: 2024-10-13T06:59:31.042739+00:00
-
- ## I.I.S.T.C.G. - DON GAVINO PES
- - [https://www.iistcgdongavinopes.it](https://www.iistcgdongavinopes.it)
- - date_published: 2024-10-13T06:52:33.387920+00:00
-
- ## Polo Liceale "Pomponio Leto"
- - [https://www.iisteggiano.it](https://www.iisteggiano.it)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## I.I.S. "Janello Torriani" | Cremona
- - [https://www.iistorriani.it](https://www.iistorriani.it)
- - date_published: 2024-10-13T06:53:52+00:00
-
- ## IIS "Marzotto-Luzzatti" – Valdagno – Tecnologico – Economico – Professionale
- - [https://www.iisvaldagno.it](https://www.iisvaldagno.it)
- - date_published: 2024-10-13T07:06:28.256831+00:00
-
- ## Istituto Italiano di Tecnologia - IIT
- - [https://www.iit.it](https://www.iit.it)
- - date_published: 2024-10-28T23:46:49.626052+00:00
-
- ## Hosting, Domini, Server dedicati, VPS, Cloud | Ikoula Italia
- - [https://www.ikoula.it](https://www.ikoula.it)
- - date_published: 2024-07-07T05:18:34+00:00
-
- ## Il Calderone Magico - (sito no profit)
- - [http://www.ilcalderonemagico.it](http://www.ilcalderonemagico.it)
- - date_published: 2015-10-31T10:27:56+00:00
-
- ## Il Cerchio della Luna
- - [http://www.ilcerchiodellaluna.it](http://www.ilcerchiodellaluna.it)
- - date_published: 2021-02-17T16:12:34+00:00
-
- ## Disqus Connect
- - [https://comments.ilfattoquotidiano.it](https://comments.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Home - Community Web3
- - [https://community.ilfattoquotidiano.it](https://community.ilfattoquotidiano.it)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Fatto da Voi
- - [https://fattodavoi.ilfattoquotidiano.it](https://fattodavoi.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
- - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
- - date_published: 2024-05-12T04:56:02.975121+00:00
-
- ## Previsioni Meteo - Il Fatto Quotidiano
- - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:28.664261+00:00
-
- ## Il Fatto Social Club
- - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
- - date_published: 2012-04-17T21:31:03+00:00
-
- ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
- - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:48.085233+00:00
-
- ## Il Foglio - Edizione Online
- - [https://www.ilfoglio.it](https://www.ilfoglio.it)
- - date_published: 2024-07-03T22:12:57+00:00
-
- ## il Giornale
- - [http://www.ilgiornale.it](http://www.ilgiornale.it)
- - date_published: 2024-07-03T22:20:22.112238+00:00
-
- ## Offerte mobile, fibra e smartphone
- - iliad
- - [https://www.iliad.it](https://www.iliad.it)
- - date_published: 2024-09-18T22:53:47.241287+00:00
-
- ## Stand Virtuale | Food Service ILIP - Passion for Packaging
- - [https://foodservice.ilip.it](https://foodservice.ilip.it)
- - date_published: 2024-10-31T10:00:30.298370+00:00
-
- ## Stand Virtuale | Fresh Produce ILIP - Passion for Packaging
- - [https://freshproduce.ilip.it](https://freshproduce.ilip.it)
- - date_published: 2024-10-31T10:00:20.528738+00:00
-
- ## ILIP Hortipack | Packaging per l'ortoflorovivaismo
- - [https://hortipack.ilip.it](https://hortipack.ilip.it)
- - date_published: 2024-10-31T09:59:46.907954+00:00
-
- ## ILIP S.r.l. Passion for Packaging | Soluzioni d’imballaggio per alimenti
- - [https://ilip.it](https://ilip.it)
- - date_published: 2024-10-31T09:15:38.902226+00:00
-
- ## homepage manifesto | il manifesto
- - [https://ilmanifesto.it](https://ilmanifesto.it)
- - date_published: 2024-10-29T16:11:54.606225+00:00
-
- ## IL METEO ▷ Meteo e previsioni del tempo in Italia * iLMeteo.it
- - [https://www.ilmeteo.it](https://www.ilmeteo.it)
- - date_published: 2024-06-23T21:07:00.808088+00:00
-
- ## Previsioni meteo | ilmeteo24.it | App meteo
- - [https://www.ilmeteo24.it](https://www.ilmeteo24.it)
- - date_published: 2024-06-25T19:48:56.363300+00:00
-
- ## ilMioDono
- - [https://www.ilmiodono.it](https://www.ilmiodono.it)
- - date_published: 2024-06-25T15:02:17+00:00
-
- ## Il Mondo Di Sopra
- - [http://www.ilmondodisopra.it](http://www.ilmondodisopra.it)
- - date_published: 2024-09-02T08:31:58+00:00
-
- ## IlPescara
- - [https://ilpescara.it](https://ilpescara.it)
- - date_published: 2024-05-11T09:56:17.372901+00:00
-
- ## IlPiacenza
- - [https://ilpiacenza.it](https://ilpiacenza.it)
- - date_published: 2024-05-11T09:56:05.765220+00:00
-
- ## Il Post
- - [https://www.ilpost.it](https://www.ilpost.it)
- - date_published: 2024-07-09T19:53:12+00:00
-
- ## Il Salotto del Gatto Libraio
- - [https://www.ilsalottodelgattolibraio.it](https://www.ilsalottodelgattolibraio.it)
- - date_published: 2024-09-02T15:00:34+00:00
-
- ## Il SecoloXIX - Finanza
- - [https://finanza.ilsecoloxix.it](https://finanza.ilsecoloxix.it)
- - date_published: 2024-07-16T19:12:03.794728+00:00
-
- ## Il Secolo XIX - Quotidiano online
- - [https://ilsecoloxix.it](https://ilsecoloxix.it)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Previsioni meteo in Italia e nel Mondo - Il Secolo XIX
- - [https://meteo.ilsecoloxix.it](https://meteo.ilsecoloxix.it)
- - date_published: 2024-07-16T19:12:11.247622+00:00
-
- ## Necrologi Defunti – Annunci Necrologici - Necrologie Il Secolo XIX
- - [https://necrologie.ilsecoloxix.it](https://necrologie.ilsecoloxix.it)
- - date_published: 2024-07-16T18:48:00.870574+00:00
-
- ## IlSoftware.it - Il Sito Italiano sul Software
- - [https://ilsoftware.it](https://ilsoftware.it)
- - date_published: 2024-05-11T07:05:30.701170+00:00
-
- ## Scuola Privata Materne A Bergamo – Scuola Imiberg
- - [https://www.imiberg.it](https://www.imiberg.it)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Immobiliare Labs
- - [https://labs.immobiliare.it](https://labs.immobiliare.it)
- - date_published: 2024-06-11T11:16:08+00:00
-
- ## Case in vendita - Immobiliare.it
- - [http://www.immobiliare.it](http://www.immobiliare.it)
- - date_published: 2024-07-08T12:56:45.699609+00:00
-
- ## Impresa di Pulizie Baccalini Pavia - Home
- - [https://impresadipuliziebaccalini.it](https://impresadipuliziebaccalini.it)
- - date_published: 2024-06-29T17:04:18+00:00
-
- ## SySMA
- - [http://sysma.imtlucca.it](http://sysma.imtlucca.it)
- - date_published: 2024-08-18T22:54:58.783435+00:00
-
- ## Scuola IMT Alti Studi Lucca
- - [https://www.imtlucca.it](https://www.imtlucca.it)
- - date_published: 2024-06-23T20:44:51.962076+00:00
-
- ## Osservatorio Astrofisico di Catania | INAF
- - [http://www.oact.inaf.it](http://www.oact.inaf.it)
- - date_published: 2024-08-18T20:22:28.898927+00:00
-
- ## IpaPortale
- - [https://www.indicepa.it](https://www.indicepa.it)
- - date_published: 2024-01-26T16:52:03+00:00
-
- ## Indire – Ricerca per l'innovazione della scuola italiana
- - [http://www.indire.it](http://www.indire.it)
- - date_published: 2024-07-06T23:43:02.662504+00:00
-
- ## Home · Agenda (Indico)
- - [http://agenda.infn.it](http://agenda.infn.it)
- - date_published: 2024-07-06T23:43:25.898822+00:00
-
- ## Sign in - Matomo
- - [https://analytics.infn.it](https://analytics.infn.it)
- - date_published: 2024-07-06T23:32:17.521888+00:00
-
- ## BookingFrontend
- - [https://booking.dsi.infn.it](https://booking.dsi.infn.it)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Istituto Nazionale di Fisica Nucleare | Attività di Terza Missione
- - [http://cc3m.infn.it](http://cc3m.infn.it)
- - date_published: 2024-03-21T12:08:18+00:00
-
- ## Collisioni.infn – Spazi culturali all’Istituto Nazionale di Fisica Nucleare
- - [https://collisioni.infn.it](https://collisioni.infn.it)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Il DPO dell'INFN
- - [https://dpo.infn.it](https://dpo.infn.it)
- - date_published: 2024-07-06T23:32:14.163454+00:00
-
- ## Educational
- - [http://edu.lnf.infn.it](http://edu.lnf.infn.it)
- - date_published: 2024-07-06T23:32:09.119727+00:00
-
- ## MachForm Admin Panel
- - [https://forms.lnf.infn.it](https://forms.lnf.infn.it)
- - date_published: 2024-07-06T23:31:50.766706+00:00
-
- ## Gallery LNGS
- - [https://gallery.lngs.infn.it](https://gallery.lngs.infn.it)
- - date_published: 2024-07-06T23:41:30.787642+00:00
-
- ## Istituto Nazionale di Fisica Nucleare
- - [https://home.infn.it](https://home.infn.it)
- - date_published: 2024-05-08T08:47:45.961985+00:00
-
- ## SimpleSAMLphp installation page
- - [https://idp.infn.it](https://idp.infn.it)
- - date_published: 2024-08-07T10:10:42.455659+00:00
-
- ## [INFN] Opportunità di lavoro
- - [https://jobs.dsi.infn.it](https://jobs.dsi.infn.it)
- - date_published: 2024-07-06T23:41:27.358527+00:00
 

@@ -1,3 +1,23 @@
+ ## Спецпроекты
+ - [http://sp.sb.by](http://sp.sb.by)
+ - date_published: 2024-03-29T10:27:17+00:00
+
+ ## Беларусь помнит
+ - [https://storyofvictory.sb.by](https://storyofvictory.sb.by)
+ - date_published: 2024-05-06T13:38:14+00:00
+
+ ## Программа передач на все каналы. ТВ программа Беларуси. Телепрограмма
+ - [https://tv.sb.by](https://tv.sb.by)
+ - date_published: 2024-06-30T03:40:22.183372+00:00
+
+ ## неОБЫЧАЙные деревни
+ - [http://veski.sb.by](http://veski.sb.by)
+ - date_published: 2023-01-05T11:13:59+00:00
+
+ ## Каталог товаров Shop.by – сравнение цен в интернет-магазинах Минска и Беларуси
+ - [http://shop.by](http://shop.by)
+ - date_published: 2024-10-17T07:03:51.377071+00:00
+
  ## Shor. Instagram Bio Supercharger
  - [https://shor.by](https://shor.by)
  - date_published: 2021-08-18T09:43:27+00:00
@@ -4000,24 +4020,4 @@
  ## Eyesurgery in Canada, Canada
  - [http://www.eyesurgery.ca](http://www.eyesurgery.ca)
  - date_published: 2024-06-03T00:00:00+00:00
-
- ## Factor_ | Healthy, Fully-Prepared Food Delivered to Your Door
- - [https://factormeals.ca](https://factormeals.ca)
- - date_published: 2024-06-18T17:20:20.346793+00:00
-
- ## FAIR Canada
- - [http://faircanada.ca](http://faircanada.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fair Vote Canada
- - [https://secure.fairvote.ca](https://secure.fairvote.ca)
- - date_published: 2024-07-20T12:02:47+00:00
-
- ## Fair Vote Canada - Proportional Representation
- - [https://www.fairvote.ca](https://www.fairvote.ca)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Stephen's Guide to the Logical Fallacies ~ Home Page
- - [https://www.fallacies.ca](https://www.fallacies.ca)
- - date_published: 2024-07-04T09:37:01+00:00
 

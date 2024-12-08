@@ -1,3 +1,27 @@
+ ## Redireccionando a Factoring
+ - [https://confirming-factoring.santander.com.co](https://confirming-factoring.santander.com.co)
+ - date_published: 2021-02-19T18:49:54+00:00
+
+ ## Banco Santander Colombia
+ - [https://santander.com.co](https://santander.com.co)
+ - date_published: 2024-06-12T10:32:43.371116+00:00
+
+ ## CDT - HOME | Banco Santander Colombia
+ - [https://www.cdt.santander.com.co](https://www.cdt.santander.com.co)
+ - date_published: 2024-09-03T06:29:59+00:00
+
+ ## Apps Frontend
+ - [https://apps.santillana.com.co](https://apps.santillana.com.co)
+ - date_published: 2024-06-12T12:56:30.784332+00:00
+
+ ## Ruta Maestra revista digital de educación - Santillana Colombia
+ - [https://rutamaestra.santillana.com.co](https://rutamaestra.santillana.com.co)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Inicio - Santillana Colombia
+ - [https://santillana.com.co](https://santillana.com.co)
+ - date_published: 2024-06-12T06:04:57.012404+00:00
+
  ## Inicio - Santillana Colombia
  - [https://santillanacompartir.com.co](https://santillanacompartir.com.co)
  - date_published: 2024-03-19T00:00:00+00:00
@@ -3994,28 +4018,4 @@
  ## Gus's Barbell Club - Private Strength Coaching in Louisville, KY
  - [https://www.gus.coach](https://www.gus.coach)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home of most advanced virtual job coach | JobInterview.coach
- - [https://jobinterview.coach](https://jobinterview.coach)
- - date_published: 2024-06-19T19:38:06.972106+00:00
-
- ## Sign In - momo.coach
- - [https://app.momo.coach](https://app.momo.coach)
- - date_published: 2023-07-03T11:54:56+00:00
-
- ## Master your freelance admin with momo.coach
- - [https://momo.coach](https://momo.coach)
- - date_published: 2023-10-25T12:25:12.358705+00:00
-
- ## Peaceful Productivity
- - [https://peacefulproductivity.coach](https://peacefulproductivity.coach)
- - date_published: 2024-05-12T05:30:44.510923+00:00
-
- ## Peter Saint-Andre, Philosopher-Coach
- - [https://philosopher.coach](https://philosopher.coach)
- - date_published: 2024-05-23T02:51:02.269533+00:00
-
- ## snackableCTO | Adrian Stanek | Substack
- - [https://blog.snackablecto.coach](https://blog.snackablecto.coach)
- - date_published: 2023-12-03T17:18:27.310586+00:00
 

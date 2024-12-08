@@ -1,3 +1,15 @@
+ ## Warriedar Resources – Warriedar Resources Ltd
+ - [https://www.warriedarresources.com.au](https://www.warriedarresources.com.au)
+ - date_published: 2024-09-16T22:10:56.160842+00:00
+
+ ## WASO
+ - [https://www.waso.com.au](https://www.waso.com.au)
+ - date_published: 2024-08-11T21:43:14+00:00
+
+ ## Waste Management Review
+ - [https://wastemanagementreview.com.au](https://wastemanagementreview.com.au)
+ - date_published: 2024-09-09T17:47:40+00:00
+
  ## Waterfalls of Tasmania
  - [http://waterfallsoftasmania.com.au](http://waterfallsoftasmania.com.au)
  - date_published: 2024-08-18T05:18:57.435461+00:00
@@ -4010,16 +4022,4 @@ University of Technology
  ## Home | DeMolay Australia Ltd
  - [https://www.demolay.org.au](https://www.demolay.org.au)
  - date_published: 2024-06-17T14:04:09.642063+00:00
-
- ## Home - Defence Families of Australia
- - [https://dfa.org.au](https://dfa.org.au)
- - date_published: 2024-10-22T06:37:04.393432+00:00
-
- ## Welcome to Diabetes Victoria | Diabetes Victoria
- - [https://www.diabetesvic.org.au](https://www.diabetesvic.org.au)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
- - [https://www.dianetics.org.au](https://www.dianetics.org.au)
- - date_published: 2024-09-04T18:07:24.341379+00:00
 

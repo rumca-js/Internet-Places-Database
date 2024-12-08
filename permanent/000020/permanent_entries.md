@@ -1,3 +1,23 @@
+ ## Home - College of Arts and Science | University of Saskatchewan
+ - [https://artscibeta.usask.ca](https://artscibeta.usask.ca)
+ - date_published: 2024-09-15T13:00:58.780498+00:00
+
+ ## Careers @ USask - Careers
+ - [https://careers.usask.ca](https://careers.usask.ca)
+ - date_published: 2024-09-15T13:00:54.539659+00:00
+
+ ## Giving Options - University of Saskatchewan Online Giving
+ - [https://donate.usask.ca](https://donate.usask.ca)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## University of Saskatchewan - Library
+ - [https://drc.usask.ca](https://drc.usask.ca)
+ - date_published: 2024-10-29T18:45:26.871793+00:00
+
+ ## About the Campaign - Giving to USask
+ - [https://give.usask.ca](https://give.usask.ca)
+ - date_published: 2024-09-15T13:01:20.317791+00:00
+
  ## Indigenous Engagement - Office of the Vice-Provost Indigenous Engagement
  - [https://indigenous.usask.ca](https://indigenous.usask.ca)
  - date_published: 2024-09-15T13:01:12.015234+00:00
@@ -3989,24 +4009,4 @@
  ## Catalunya Plural -
  - [http://catalunyaplural.cat](http://catalunyaplural.cat)
  - date_published: 2024-07-03T02:07:52.683249+00:00
-
- ## La botiga oficial de TV3 i Catalunya Ràdio - CCMA
- - [https://botiga.ccma.cat](https://botiga.ccma.cat)
- - date_published: 2024-07-04T03:53:53.671003+00:00
-
- ## El grup - CCMA
- - [https://ccma.cat](https://ccma.cat)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Espai Selecció
- - [https://seleccio.ccma.cat](https://seleccio.ccma.cat)
- - date_published: 2024-07-04T03:53:47.444156+00:00
-
- ## Buscador de convenis col·lectius
- - [https://convenis.ccoo.cat](https://convenis.ccoo.cat)
- - date_published: 2024-07-12T15:09:35+00:00
-
- ## Inici - CERCA
- - [https://cerca.cat](https://cerca.cat)
- - date_published: 2024-03-05T00:00:00+00:00
 

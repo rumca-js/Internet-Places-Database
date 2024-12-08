@@ -1,3 +1,167 @@
+ ## Job Search Results
+ - [http://careers.citeline.com](http://careers.citeline.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Generics Bulletin | Coverage of generics, biosimilars and value-added medicines
+ - [https://generics.citeline.com](https://generics.citeline.com)
+ - date_published: 2024-05-12T04:10:25.452828+00:00
+
+ ## HBW Insight | Commercial News | OTC Medicines, Cosmetics and Dietary Supplements
+ - [https://hbw.citeline.com](https://hbw.citeline.com)
+ - date_published: 2024-05-12T04:10:35.963371+00:00
+
+ ## In Vivo | Life Sciences Business Strategy
+ - [https://invivo.citeline.com](https://invivo.citeline.com)
+ - date_published: 2024-05-12T04:10:19.384642+00:00
+
+ ## Medtech Insight | Global Medtech News
+ - [https://medtech.citeline.com](https://medtech.citeline.com)
+ - date_published: 2024-05-12T04:10:22.150134+00:00
+
+ ## Pink Sheet | Pharma Regulatory and Policy Insights
+ - [https://pink.citeline.com](https://pink.citeline.com)
+ - date_published: 2024-05-12T04:10:16.405516+00:00
+
+ ## Scrip: Pharma Intelligence
+ - [https://scrip.citeline.com](https://scrip.citeline.com)
+ - date_published: 2024-03-28T13:39:01.180013+00:00
+
+ ## Home | Citeline
+ - [https://www.citeline.com](https://www.citeline.com)
+ - date_published: 2024-07-08T08:50:16.482794+00:00
+
+ ## Cite Them Right - Home
+ - [https://citethemrightonline.com](https://citethemrightonline.com)
+ - date_published: 2024-06-17T19:03:26.546101+00:00
+
+ ## Cite This For Me: Harvard, APA, MLA Reference Generator
+ - [https://citethisforme.com](https://citethisforme.com)
+ - date_published: 2024-05-09T04:20:02.398968+00:00
+
+ ## Academic Writing 101: Free Resource Collection by IvyPanda
+ - [https://citetotal.com](https://citetotal.com)
+ - date_published: 2024-10-30T11:10:30.900685+00:00
+
+ ## Citi Alumni Network
+ - [https://alumni.citi.com](https://alumni.citi.com)
+ - date_published: 2024-05-08T05:27:51.420632+00:00
+
+ ## Citibank Asia
+ - [https://asia.citi.com](https://asia.citi.com)
+ - date_published: 2021-10-31T17:15:55+00:00
+
+ ## Open A Bank Account | Online Banking | Citi.com
+ - [https://banking.citi.com](https://banking.citi.com)
+ - date_published: 2024-07-04T07:18:25.205764+00:00
+
+ ## Credit Cards - Apply for a New Credit Card Online - Citi.com
+ - [https://citicards.citi.com](https://citicards.citi.com)
+ - date_published: 2024-10-09T15:36:56.050645+00:00
+
+ ## Credit Cards, Banking, Mortgage, Personal Loans | Citi.com
+ - [https://citi.com](https://citi.com)
+ - date_published: 2024-06-16T14:51:00.299094+00:00
+
+ ## Citigold®.  Wealth management on your terms.
+ - [https://citigold.citi.com](https://citigold.citi.com)
+ - date_published: 2024-06-28T23:12:38+00:00
+
+ ## Citigold Private Client.  A Wealth of Opportunity.
+ - [https://citigoldprivateclient.citi.com](https://citigoldprivateclient.citi.com)
+ - date_published: 2024-06-28T23:08:51+00:00
+
+ ## Citigold — Contact Us
+ - [https://contactcitigold.citi.com](https://contactcitigold.citi.com)
+ - date_published: 2024-06-28T23:32:16+00:00
+
+ ## Citi Developer Landing Page
+ - [https://developer.citi.com](https://developer.citi.com)
+ - date_published: 2024-05-20T05:09:16+00:00
+
+ ## Citi Developer Landing Page
+ - [https://developer.icg.citi.com](https://developer.icg.citi.com)
+ - date_published: 2024-05-20T05:09:16+00:00
+
+ ## Institutional Clients Group
+ - [https://icg.citi.com](https://icg.citi.com)
+ - date_published: 2021-10-30T20:04:25+00:00
+
+ ## Information.citi.com
+ - [https://information.citi.com](https://information.citi.com)
+ - date_published: 2024-10-09T15:37:00.617711+00:00
+
+ ## Working at Citi | Jobs and Careers at Citi
+ - [https://jobs.citi.com](https://jobs.citi.com)
+ - date_published: 2024-07-04T07:17:50.729297+00:00
+
+ ## Market Insights & Financial Education
+ - [https://marketinsights.citi.com](https://marketinsights.citi.com)
+ - date_published: 2024-10-07T19:15:00+00:00
+
+ ## Credit Cards, Banking, Mortgage, Personal Loans | Citi.com
+ - [https://mymortgage.citi.com](https://mymortgage.citi.com)
+ - date_published: 2024-10-09T15:33:46.991772+00:00
+
+ ## Credit Cards, Banking, Mortgage, Personal Loans | Citi.com
+ - [https://online.citi.com](https://online.citi.com)
+ - date_published: 2024-05-01T07:02:26.080514+00:00
+
+ ## Citi Partner Portal
+ - [https://sandbox.developerhub.citi.com](https://sandbox.developerhub.citi.com)
+ - date_published: 2024-07-04T07:19:17.020883+00:00
+
+ ## Citibank Online Site Outage
+ - [https://sit6.online.citi.com](https://sit6.online.citi.com)
+ - date_published: 2012-12-31T18:30:46+00:00
+
+ ## Institutional Clients Group
+ - [https://uat.icg.citi.com](https://uat.icg.citi.com)
+ - date_published: 2021-05-12T21:28:06+00:00
+
+ ## Single Sign-On
+ - [https://video.citi.com](https://video.citi.com)
+ - date_published: 2024-05-08T05:28:05.758266+00:00
+
+ ## Citi Alumni Network
+ - [https://www.citialumninetwork.com](https://www.citialumninetwork.com)
+ - date_published: 2024-07-04T07:17:44.634374+00:00
+
+ ## Credit Cards, Banking, Mortgage, Personal Loans | Citi.com
+ - [https://citibank.com](https://citibank.com)
+ - date_published: 2024-08-08T17:48:19.523485+00:00
+
+ ## Credit Cards, Banking, Mortgage, Personal Loans | Citi.com
+ - [https://online.citibank.com](https://online.citibank.com)
+ - date_published: 2024-07-04T07:19:24.159821+00:00
+
+ ## Citi Private Bank | Private banking for global citizens
+ - [https://privatebank.citibank.com](https://privatebank.citibank.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Citi Private Bank | Private banking for Global Citizens
+ - [https://www2.privatebank.citibank.com](https://www2.privatebank.citibank.com)
+ - date_published: 2023-08-21T10:41:07+00:00
+
+ ## Citi Private Bank | Private banking for global citizens
+ - [http://wwwqa.privatebank.citibank.com](http://wwwqa.privatebank.citibank.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Benefits Handbook
+ - [https://handbook.citibenefitsonline.com](https://handbook.citibenefitsonline.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Citi Bike: NYC’s Official Bike Sharing System | Citi Bike NYC
+ - [http://citibikenyc.com](http://citibikenyc.com)
+ - date_published: 2024-06-28T12:59:48.544497+00:00
+
+ ## Credit Cards - Apply for a New Credit Card Online - Citi.com
+ - [https://www.citicards.com](https://www.citicards.com)
+ - date_published: 2024-06-16T14:51:28.674995+00:00
+
+ ## CitiDirect® Online Banking
+ - [https://www.citidirectonline1.citidirect.citicorp.com](https://www.citidirectonline1.citidirect.citicorp.com)
+ - date_published: 2017-08-11T12:22:50+00:00
+
  ## Home
  - [http://citidbus.com](http://citidbus.com)
  - date_published: 2024-07-14T15:22:37.803537+00:00
@@ -3856,169 +4020,4 @@
  ## clipperhouse.com
  - [https://clipperhouse.com](https://clipperhouse.com)
  - date_published: 2024-07-26T03:27:48.618804+00:00
-
- ## Clipper Vacations | Seattle to Victoria Ferry - Hotels, Tours & More
- - [https://www.clippervacations.com](https://www.clippervacations.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Clipping Magic: Remove Background From Image
- - [https://clippingmagic.com](https://clippingmagic.com)
- - date_published: 2024-08-19T12:10:56.419501+00:00
-
- ## Clips AI | AI Video Repurposing for Developers
- - [https://www.clipsai.com](https://www.clipsai.com)
- - date_published: 2024-06-19T19:10:55.118029+00:00
-
- ## a Los Angeles Clippers community
- - [https://www.clipsnation.com](https://www.clipsnation.com)
- - date_published: 2024-06-29T01:58:18.751134+00:00
-
- ## Clipsource
- - [https://admin.clipsource.com](https://admin.clipsource.com)
- - date_published: 2024-09-20T18:48:56.588111+00:00
-
- ## The #1 PR & sharing platform for media companies
- - [https://clipsource.com](https://clipsource.com)
- - date_published: 2024-06-16T01:39:14.050577+00:00
-
- ## Customer and Service Support | Clipsource Help Center
- - [https://help.clipsource.com](https://help.clipsource.com)
- - date_published: 2024-09-20T18:49:04.568820+00:00
-
- ## Clipsource
- - [https://media.clipsource.com](https://media.clipsource.com)
- - date_published: 2024-09-20T18:48:58.725394+00:00
-
- ## Clipsource | Press Room
- - [https://news.clipsource.com](https://news.clipsource.com)
- - date_published: 2024-09-20T18:49:01.189762+00:00
-
- ## Clipy
- - [https://clipy-app.com](https://clipy-app.com)
- - date_published: 2018-10-10T19:43:10+00:00
- - tags: ['macos extension']
-
- ## Clique Studios - Chicago Web Design and Development Company
- - [https://cliquestudios.com](https://cliquestudios.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Clique Lab
- - [https://lab.cliquestudios.com](https://lab.cliquestudios.com)
- - date_published: 2024-04-04T18:05:20+00:00
-
- ## Climate Scepticism
- - [https://cliscep.com](https://cliscep.com)
- - date_published: 2024-06-15T09:05:36.750176+00:00
-
- ## Cliss XXI
- - [https://cliss21.com](https://cliss21.com)
- - date_published: 2024-07-08T10:48:13+00:00
-
- ## CliteHD
- - [https://www.clitehd.com](https://www.clitehd.com)
- - date_published: 2024-07-07T01:28:20.219564+00:00
-
- ## Home - The Counterfactual
- - [https://clivebates.com](https://clivebates.com)
- - date_published: 2024-10-21T14:43:20.991583+00:00
-
- ## Clive Best
- - [http://clivebest.com](http://clivebest.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Camisetas de Fútbol - clivedavis-online.com
- - [http://www.clivedavis-online.com](http://www.clivedavis-online.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Clive james
- - [https://www.clivejames.com](https://www.clivejames.com)
- - date_published: 2024-08-19T16:09:22.959869+00:00
-
- ## Clive Maund Technical Analysis
- - [http://www.clivemaund.com](http://www.clivemaund.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Clive Maxfield – High-Tech Consulting
- - [https://clivemaxfield.com](https://clivemaxfield.com)
- - date_published: 2024-10-15T15:29:40.187340+00:00
-
- ## Clixel Design  · Web Development by Nate Beaty
- - [http://clixel.com](http://clixel.com)
- - date_published: 2024-07-17T10:43:45.422852+00:00
-
- ## ClixTrac - Free Link Tracking, Banner Tracking, Ad Tracking and Click Tracking
- - [https://clixtrac.com](https://clixtrac.com)
- - date_published: 2024-06-23T08:17:09.600399+00:00
-
- ## Cloaked | Safeguard your online privacy
- - [https://clkdmail.com](https://clkdmail.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Free Clip Art & Images - Millions of Royalty Free Images | Clker
- - [https://www.clker.com](https://www.clker.com)
- - date_published: 2024-07-14T10:55:32.497670+00:00
-
- ## clkmg.com
- - [https://cdn.clkmg.com](https://cdn.clkmg.com)
- - date_published: 2024-10-15T07:45:42.569258+00:00
-
- ## clkmg.com
- - [https://www.clkmg.com](https://www.clkmg.com)
- - date_published: 2024-07-12T22:39:40.017420+00:00
-
- ## Chris Koerner
- - [https://clkoerner.com](https://clkoerner.com)
- - date_published: 2024-07-13T23:57:26.072921+00:00
-
- ## Homepage - CLM Pro
- - [http://www.clm-pro.com](http://www.clm-pro.com)
- - date_published: 2024-09-05T19:34:35+00:00
-
- ## Home - HCP
- - [https://www.cln2connection.com](https://www.cln2connection.com)
- - date_published: 2023-11-10T00:00:00+00:00
-
- ## CLN INDUSTRIES INTERNATIONAL INC
- - [https://clnindustries.com](https://clnindustries.com)
- - date_published: 2024-09-10T11:05:32+00:00
-
- ## Private Secure & Untraceable Proof of Stake Cryptocurrency With 6% Staking Reward | CloakCoin | Privacycoin | Privacy | Anonymous | Decentralized | CLOAK
- - [http://www.cloakcoin.com](http://www.cloakcoin.com)
- - date_published: 2024-07-03T04:39:49.238195+00:00
-
- ## Cloaking Company - Seduce the algorithms!
- - [https://cloakingcompany.com](https://cloakingcompany.com)
- - date_published: 2018-04-08T00:00:00+00:00
-
- ## Natural, Organic, and Ecological Cosmetics ∙ Clochee
- - [https://clochee.com](https://clochee.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## ClockLink - Free HTML5 & World Clocks
- - [https://www.clocklink.com](https://www.clocklink.com)
- - date_published: 2024-07-15T04:12:28.035561+00:00
-
- ## Time Tracking | Clockly by 500apps
- - [https://clockly.com](https://clockly.com)
- - date_published: 2024-10-30T18:43:53.965885+00:00
-
- ## Home - Clockpunk Studios
- - [https://clockpunkstudios.com](https://clockpunkstudios.com)
- - date_published: 2024-10-19T11:47:27.860848+00:00
-
- ## Urgent Care Software & Practice Management Solutions | Experity
- - [https://clockwisemd.com](https://clockwisemd.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Kate Milford - I Update This Site Sometimes.
- - [https://clockworkfoundry.com](https://clockworkfoundry.com)
- - date_published: 2024-08-19T20:28:38.944649+00:00
-
- ## Clockwork Mansion: Discuss Amongst Yourselves
- - [https://clockworkmansion.com](https://clockworkmansion.com)
- - date_published: 2024-05-13T03:57:14.172881+00:00
-
- ## Clockwork Micro: Map tools that work like clockwork | Clockwork Micro
- - [https://clockworkmicro.com](https://clockworkmicro.com)
- - date_published: 2024-05-08T05:36:52.530935+00:00
 

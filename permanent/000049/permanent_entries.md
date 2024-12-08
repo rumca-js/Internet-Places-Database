@@ -1,3 +1,55 @@
+ ## very.badssl.com
+ - [https://very.badssl.com](https://very.badssl.com)
+ - date_published: 2024-05-24T23:24:59.520370+00:00
+
+ ## webpack-dev-server.badssl.com
+ - [https://webpack-dev-server.badssl.com](https://webpack-dev-server.badssl.com)
+ - date_published: 2024-05-24T23:25:14.194867+00:00
+
+ ## wrong.host.badssl.com
+ - [https://wrong.host.badssl.com](https://wrong.host.badssl.com)
+ - date_published: 2024-05-24T23:24:09.751101+00:00
+
+ ## BaDumChh
+ - [https://badumchh.com](https://badumchh.com)
+ - date_published: 2024-04-29T03:46:17.646826+00:00
+
+ ## Badu World Market
+ - [https://baduworldmarket.com](https://baduworldmarket.com)
+ - date_published: 2024-09-06T21:51:29.755135+00:00
+
+ ## Step Inside Your Data (R)
+ - [https://badvr.com](https://badvr.com)
+ - date_published: 2024-01-01T13:00:32+00:00
+
+ ## Badwater | The World's Toughest Foot Race – Badwater 135 | Badwater Salton Sea | Badwater Cape Fear
+ - [https://www.badwater.com](https://www.badwater.com)
+ - date_published: 2024-08-18T19:41:15.401645+00:00
+
+ ## BAD WOOL DESIGNS - OUR WOOL AIN'T VIRGIN
+ - [http://www.badwool.com](http://www.badwool.com)
+ - date_published: 2012-02-08T18:16:41+00:00
+
+ ## Baeblemusic.com
+ - [http://hypehotel.baeblemusic.com](http://hypehotel.baeblemusic.com)
+ - date_published: 2024-07-15T05:54:01.570240+00:00
+
+ ## Baekdal - Media trends, strategy, monetization and analytics - Baekdal
+ - [https://baekdal.com](https://baekdal.com)
+ - date_published: 2023-10-25T12:51:48.611520+00:00
+
+ ## Baekdal Plus
+ - [https://stream.baekdal.com](https://stream.baekdal.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## BaekdalMedia - Strategic Consulting - New Media - @baekdal
+ - [https://baekdalmedia.com](https://baekdalmedia.com)
+ - date_published: 2024-07-20T02:27:12.856459+00:00
+
+ ## Baeldung
+ - [https://baeldung.com](https://baeldung.com)
+ - date_published: 2020-10-30T13:34:47+00:00
+
  ## Baen Books Science Fiction & Fantasy - Home Page
  - [https://baen.com](https://baen.com)
  - date_published: 2024-06-06T14:17:36.947559+00:00
@@ -1557,6 +1609,10 @@
  - [https://40wattsunmusic.bandcamp.com](https://40wattsunmusic.bandcamp.com)
  - date_published: 2024-09-06T00:00:00+00:00
 
+ ## Insomnia, by 808weeds
+ - [https://808weeds.bandcamp.com](https://808weeds.bandcamp.com)
+ - date_published: 2024-12-07T17:54:03.340504+00:00
+
  ## 8D Industries
  - [https://8dindustries.bandcamp.com](https://8dindustries.bandcamp.com)
  - date_published: 2024-08-18T00:00:00+00:00
@@ -1572,6 +1628,10 @@
  ## Àbáse
  - [https://abasemusic.bandcamp.com](https://abasemusic.bandcamp.com)
  - date_published: 2024-06-30T06:18:45.890659+00:00
+
+ ## A Beacon School
+ - [https://abeaconschool.bandcamp.com](https://abeaconschool.bandcamp.com)
+ - date_published: 2024-12-07T17:50:47.621763+00:00
 
  ## abracadabra
  - [https://abracadabraoakland.bandcamp.com](https://abracadabraoakland.bandcamp.com)
@@ -1833,6 +1893,10 @@
  - [https://aphasiarecords.bandcamp.com](https://aphasiarecords.bandcamp.com)
  - date_published: 2024-07-01T00:00:00+00:00
 
+ ## Aphex Twin
+ - [https://aphextwin.bandcamp.com](https://aphextwin.bandcamp.com)
+ - date_published: 2024-12-07T16:21:37.249767+00:00
+
  ## Apollo Brown
  - [https://apollobrown360.bandcamp.com](https://apollobrown360.bandcamp.com)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -1893,6 +1957,10 @@
  - [https://ashwednesday2.bandcamp.com](https://ashwednesday2.bandcamp.com)
  - date_published: 2024-09-16T00:00:00+00:00
 
+ ## A Space Love Adventure
+ - [https://aspaceloveadventure.bandcamp.com](https://aspaceloveadventure.bandcamp.com)
+ - date_published: 2024-12-07T17:54:06.598070+00:00
+
  ## Assemblage 23
  - [http://assemblage23.bandcamp.com](http://assemblage23.bandcamp.com)
  - date_published: 2024-06-30T07:51:55.221459+00:00
@@ -1944,6 +2012,10 @@
  ## Austin Wintory
  - [http://austinwintory.bandcamp.com](http://austinwintory.bandcamp.com)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Talitakum, by Avalanche Kaito
+ - [https://avalanchekaito.bandcamp.com](https://avalanchekaito.bandcamp.com)
+ - date_published: 2024-12-07T14:13:36.392175+00:00
 
  ## Baba Vanga
  - [https://babavanga.bandcamp.com](https://babavanga.bandcamp.com)
@@ -3082,6 +3154,10 @@
  - [https://dsppr.bandcamp.com](https://dsppr.bandcamp.com)
  - date_published: 2024-07-12T00:00:00+00:00
 
+ ## Dub FX
+ - [https://dubfx.bandcamp.com](https://dubfx.bandcamp.com)
+ - date_published: 2024-12-07T16:40:41.167335+00:00
+
  ## Ducks Ltd.
  - [https://ducksltdband.bandcamp.com](https://ducksltdband.bandcamp.com)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -3722,6 +3798,10 @@
  - [https://hamishhawk.bandcamp.com](https://hamishhawk.bandcamp.com)
  - date_published: 2024-06-15T00:00:00+00:00
 
+ ## Hang Massive
+ - [https://hangmassive.bandcamp.com](https://hangmassive.bandcamp.com)
+ - date_published: 2024-12-07T16:46:32.023065+00:00
+
  ## 12 Shots of Nature, by Hard Copy
  - [https://hardcopyincorporated.bandcamp.com](https://hardcopyincorporated.bandcamp.com)
  - date_published: 2024-09-16T00:00:00+00:00
@@ -3773,6 +3853,10 @@
  ## Heels & Souls Recordings
  - [https://heelsandsouls.bandcamp.com](https://heelsandsouls.bandcamp.com)
  - date_published: 2024-07-19T00:00:00+00:00
+
+ ## LIFA Iotungard, by Heilung
+ - [https://heilung.bandcamp.com](https://heilung.bandcamp.com)
+ - date_published: 2024-12-07T16:46:45.231879+00:00
 
  ## Helado Negro
  - [https://heladonegro.bandcamp.com](https://heladonegro.bandcamp.com)
@@ -3925,88 +4009,4 @@
  ## Artists | Indigo Soul
  - [https://indigosouluk.bandcamp.com](https://indigosouluk.bandcamp.com)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## Infinite Illectrik
- - [https://infiniteillectrik.bandcamp.com](https://infiniteillectrik.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Infinity Shred
- - [https://infinityshred.bandcamp.com](https://infinityshred.bandcamp.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Infomercial
- - [https://infomercialusa.bandcamp.com](https://infomercialusa.bandcamp.com)
- - date_published: 2024-10-17T22:07:24.801715+00:00
-
- ## In Love With A Ghost
- - [https://inlovewithaghost.bandcamp.com](https://inlovewithaghost.bandcamp.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## inside//outside, by inside//outside
- - [http://insideoutsidemusic.bandcamp.com](http://insideoutsidemusic.bandcamp.com)
- - date_published: 2024-11-25T10:29:40.583825+00:00
-
- ## Emulators Plus Digital Winter Music Edition, by insight NetProject
- - [https://insightnetproject.bandcamp.com](https://insightnetproject.bandcamp.com)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Prompt Critical, by Insinuations
- - [https://insinuations.bandcamp.com](https://insinuations.bandcamp.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Kiki Mori, by Hinode Tapes
- - [https://instantclassic.bandcamp.com](https://instantclassic.bandcamp.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## International Feel
- - [https://internationalfeel.bandcamp.com](https://internationalfeel.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## INTERNET CLUB
- - [https://internetclub.bandcamp.com](https://internetclub.bandcamp.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## The New Weird, by Interrobang
- - [https://interrobangatl.bandcamp.com](https://interrobangatl.bandcamp.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## International Anthem
- - [https://intlanthem.bandcamp.com](https://intlanthem.bandcamp.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Lifeblood, by In Twilight's Embrace
- - [https://intwilightsembrace.bandcamp.com](https://intwilightsembrace.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Inventions
- - [https://inventions.bandcamp.com](https://inventions.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Artists | Ipecac Recordings
- - [https://ipecacrecordings.bandcamp.com](https://ipecacrecordings.bandcamp.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Isak J Martinsson
- - [http://isakmartinsson.bandcamp.com](http://isakmartinsson.bandcamp.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Isolato
- - [http://isolato.bandcamp.com](http://isolato.bandcamp.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Tentacle, by Itaru
- - [https://itaru.bandcamp.com](https://itaru.bandcamp.com)
- - date_published: 2024-10-17T22:07:35.470444+00:00
-
- ## Spirit Level, by It Thing
- - [https://itthing.bandcamp.com](https://itthing.bandcamp.com)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Graveyard Bound, by Ivan Cenzi
- - [https://ivancenzi.bandcamp.com](https://ivancenzi.bandcamp.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Ivan Duch
- - [https://ivanduch.bandcamp.com](https://ivanduch.bandcamp.com)
- - date_published: 2024-08-11T00:00:00+00:00
 

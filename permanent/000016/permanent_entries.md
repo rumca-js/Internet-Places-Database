@@ -1,3 +1,23 @@
+ ## Gabriel
+ - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
+ - date_published: 2024-10-28T12:19:56+00:00
+
+ ## Galera - Grupo Editorial Record
+ - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
+ - date_published: 2024-07-13T02:29:04.705015+00:00
+
+ ## Home | ICBC 2024
+ - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
+ - date_published: 2024-10-19T23:00:43.311356+00:00
+
+ ## Participate in one of the biggest B2B events in the gaming industry
+ - [https://gamescom.com.br](https://gamescom.com.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Garnier | Skincare e coloração para todos
+ - [http://www.garnier.com.br](http://www.garnier.com.br)
+ - date_published: 2024-10-20T22:52:18.127182+00:00
+
  ## Aprenda a Fazer Falta Livro PDF Ebook Editora Ramos
  - [http://www.garotait.com.br](http://www.garotait.com.br)
  - date_published: 2023-08-16T14:58:38+00:00
@@ -3991,24 +4011,4 @@
  ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
  - [https://sb.by](https://sb.by)
  - date_published: 2024-05-07T15:11:50.507081+00:00
-
- ## Спецпроекты
- - [http://sp.sb.by](http://sp.sb.by)
- - date_published: 2024-03-29T10:27:17+00:00
-
- ## Беларусь помнит
- - [https://storyofvictory.sb.by](https://storyofvictory.sb.by)
- - date_published: 2024-05-06T13:38:14+00:00
-
- ## Программа передач на все каналы. ТВ программа Беларуси. Телепрограмма
- - [https://tv.sb.by](https://tv.sb.by)
- - date_published: 2024-06-30T03:40:22.183372+00:00
-
- ## неОБЫЧАЙные деревни
- - [http://veski.sb.by](http://veski.sb.by)
- - date_published: 2023-01-05T11:13:59+00:00
-
- ## Каталог товаров Shop.by – сравнение цен в интернет-магазинах Минска и Беларуси
- - [http://shop.by](http://shop.by)
- - date_published: 2024-10-17T07:03:51.377071+00:00
 

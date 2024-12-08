@@ -1,3 +1,7 @@
+ ## Hansei - Chat with your Knowledgebase
+ - [https://hansei.app](https://hansei.app)
+ - date_published: 2023-10-25T11:46:38.618243+00:00
+
  ## Happy Bob turns diabetes data into rewarding experiences and better health
  - [https://happybob.app](https://happybob.app)
  - date_published: 2024-10-17T05:51:28.387223+00:00
@@ -4037,8 +4041,4 @@
  ## Satyrn
  - [https://satyrn.app](https://satyrn.app)
  - date_published: 2024-07-07T17:59:31+00:00
-
- ## Savepad - Join the Waitlist!
- - [https://savepad.app](https://savepad.app)
- - date_published: 2024-03-23T00:00:00+00:00
 

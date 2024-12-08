@@ -1,3 +1,7 @@
+ ## Geordie Guy
+ - [https://geordieguy.au](https://geordieguy.au)
+ - date_published: 2024-06-30T06:53:09+00:00
+
  ## Ihsaan
  - [https://ihsaan.au](https://ihsaan.au)
  - date_published: 2024-07-23T23:31:17.330394+00:00
@@ -1091,6 +1095,14 @@
  ## Alvvays
  - [https://alvvays.bandtshirts.com.au](https://alvvays.bandtshirts.com.au)
  - date_published: 2024-09-13T17:07:24.890301+00:00
+
+ ## Tom Cardy
+ - [https://tomcardy.bandtshirts.com.au](https://tomcardy.bandtshirts.com.au)
+ - date_published: 2024-12-07T18:33:36.025804+00:00
+
+ ## Music, Tees and More
+ - [https://www.bandtshirts.com.au](https://www.bandtshirts.com.au)
+ - date_published: 2024-12-07T18:33:38.415506+00:00
 
  ## Luxury Accommodation NSW | Holiday Accommodation | Bannisters Hotels
  - [https://www.bannisters.com.au](https://www.bannisters.com.au)
@@ -4002,16 +4014,4 @@
  ## Inside Construction
  - [https://www.insideconstruction.com.au](https://www.insideconstruction.com.au)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## Inside Waste
- - [https://www.insidewaste.com.au](https://www.insidewaste.com.au)
- - date_published: 2024-09-09T19:20:05+00:00
-
- ## Inside Water
- - [https://insidewater.com.au](https://insidewater.com.au)
- - date_published: 2024-09-09T20:13:42+00:00
-
- ## Adventure & Charity Challenges | Travel for Good | Inspired Adventures
- - [https://inspiredadventures.com.au](https://inspiredadventures.com.au)
- - date_published: 2024-06-26T00:00:00+00:00
 

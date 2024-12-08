@@ -1,3 +1,996 @@
+ ## Forside - Det matematisk-naturvitenskapelige fakultet
+ - [https://mn.uio.no](https://mn.uio.no)
+ - date_published: 2024-06-22T08:46:41.011169+00:00
+
+ ## Hinode Science Data Centre Europe -
+ - [http://sdc.uio.no](http://sdc.uio.no)
+ - date_published: 1997-02-26T00:00:00+00:00
+
+ ## Sympa - mailing list system
+ - [https://sympa.uio.no](https://sympa.uio.no)
+ - date_published: 2024-07-02T10:03:26.102123+00:00
+
+ ## Forsiden - Universitetet i Oslo
+ - [https://uio.no](https://uio.no)
+ - date_published: 2024-04-29T07:20:16.092694+00:00
+
+ ## Dokumentasjonsprosjektet
+ - [http://www.dokpro.uio.no](http://www.dokpro.uio.no)
+ - date_published: 1998-01-01T00:00:00+00:00
+
+ ## Eining for digital dokumentasjon
+ - [http://www.edd.uio.no](http://www.edd.uio.no)
+ - date_published: 2024-07-12T05:28:19.516172+00:00
+
+ ## Forside - Det humanistiske fakultet
+ - [http://www.hf.uio.no](http://www.hf.uio.no)
+ - date_published: 2024-07-02T10:03:50.491945+00:00
+
+ ## Forsiden - Universitetet i Oslo
+ - [https://www-int.uio.no](https://www-int.uio.no)
+ - date_published: 2024-07-04T10:33:23.455411+00:00
+
+ ## Forside - Det medisinske fakultet
+ - [https://www.med.uio.no](https://www.med.uio.no)
+ - date_published: 2024-07-01T04:04:17.265514+00:00
+
+ ## Forside - Museum for universitets- og vitenskapshistorie
+ - [https://www.muv.uio.no](https://www.muv.uio.no)
+ - date_published: 2024-10-18T15:53:07.240809+00:00
+
+ ## Forside - Naturhistorisk museum
+ - [https://www.nhm.uio.no](https://www.nhm.uio.no)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Norsk Nukleært Forskningssenter - NNRC
+ - [https://www.nnrc.uio.no](https://www.nnrc.uio.no)
+ - date_published: 2024-06-22T08:46:34.482486+00:00
+
+ ## Forsiden - Det samfunnsvitenskapelige fakultet
+ - [https://www.sv.uio.no](https://www.sv.uio.no)
+ - date_published: 2024-07-23T23:54:22.925688+00:00
+
+ ## Forsiden - Titan.uio.no
+ - [https://www.titan.uio.no](https://www.titan.uio.no)
+ - date_published: 2024-06-22T08:46:38.685205+00:00
+
+ ## Forside - Universitetsbiblioteket
+ - [https://www.ub.uio.no](https://www.ub.uio.no)
+ - date_published: 2024-07-23T23:54:24.066396+00:00
+
+ ## Forsiden - IT-avdelingen
+ - [https://www.usit.uio.no](https://www.usit.uio.no)
+ - date_published: 2024-07-04T10:33:22.391424+00:00
+
+ ## Forside | Universitetet i Stavanger
+ - [https://uis.no](https://uis.no)
+ - date_published: 2024-04-30T03:49:34.992067+00:00
+
+ ## Blogg.uit.no Velkommen til UIT’s bloggtjeneste - Blogg.uit.no
+ - [http://blogg.uit.no](http://blogg.uit.no)
+ - date_published: 2024-07-02T10:18:50.423466+00:00
+
+ ## UiT â€“ Norges arktiske universitet
+ - [https://en.uit.no](https://en.uit.no)
+ - date_published: 2024-05-13T03:14:38.083089+00:00
+
+ ## Munin: Home
+ - [https://iportal.uit.no](https://iportal.uit.no)
+ - date_published: 2024-07-20T15:15:18.799787+00:00
+
+ ## Munin: Home
+ - [https://munin.uit.no](https://munin.uit.no)
+ - date_published: 2024-05-20T08:03:16.578925+00:00
+
+ ## Septentrio Academic Publishing
+ - [https://septentrio.uit.no](https://septentrio.uit.no)
+ - date_published: 2024-06-22T08:47:50.304741+00:00
+
+ ## Site.uit.no – Diverse prosjektsider og gruppeblogger med tilhørighet til UiT
+ - [https://site.uit.no](https://site.uit.no)
+ - date_published: 2024-03-26T00:15:00.472678+00:00
+
+ ## Universitetsbiblioteket | UiT
+ - [https://ub.uit.no](https://ub.uit.no)
+ - date_published: 2024-07-20T15:15:24.491759+00:00
+
+ ## UiT – Norges arktiske universitet
+ - [https://uit.no](https://uit.no)
+ - date_published: 2024-06-24T04:54:03.171321+00:00
+
+ ## ulriken.no
+ - [https://ulriken.no](https://ulriken.no)
+ - date_published: 2024-02-08T16:46:41.150976+00:00
+
+ ## ultima • oslo contemporary
+      music festival
+ - [https://ultima.no](https://ultima.no)
+ - date_published: 2024-07-10T10:35:16.092687+00:00
+ - tags: ['music festival']
+
+ ## Umble – Taking startups from MVP to mighty products
+ - [https://umble.no](https://umble.no)
+ - date_published: 2024-10-28T23:26:36+00:00
+
+ ## Underworld
+ - [https://www.underworld.no](https://www.underworld.no)
+ - date_published: 2024-06-06T11:48:01.699044+00:00
+ - tags: ['organisation', 'cybersecurity']
+
+ ## Unge for menneskerettigheter-organisasjonen: Dokumentarfilm Menneskerettighetenes historie, informasjon, nyheter, pedagogpakke og -bøker
+ - [http://www.ungeformenneskerettigheter.no](http://www.ungeformenneskerettigheter.no)
+ - date_published: 2024-08-29T13:48:20+00:00
+
+ ## UniMus
+ - [https://www.unimus.no](https://www.unimus.no)
+ - date_published: 2023-04-18T08:54:51+00:00
+
+ ## UNIS
+ - [https://www.unis.no](https://www.unis.no)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## AURA
+ - [https://uia.brage.unit.no](https://uia.brage.unit.no)
+ - date_published: 2024-08-02T23:33:12.890371+00:00
+
+ ## folk.universitetetioslo.no
+ - [https://folk.universitetetioslo.no](https://folk.universitetetioslo.no)
+ - date_published: 2023-03-16T17:55:26+00:00
+
+ ## Universitetsforlaget
+ - [http://www.universitetsforlaget.no](http://www.universitetsforlaget.no)
+ - date_published: 2024-08-18T22:38:31.939795+00:00
+
+ ## Utdanning.no
+ - [https://utdanning.no](https://utdanning.no)
+ - date_published: 2024-07-14T12:08:41+00:00
+
+ ## Framside til uustatus.no
+ - [https://uustatus.no](https://uustatus.no)
+ - date_published: 2024-06-22T08:46:32.337555+00:00
+
+ ## UX Norge – Fagmiljøet for UX i Norge, på tvers av firmaer og landet
+ - [https://uxnorge.no](https://uxnorge.no)
+ - date_published: 2024-06-19T09:28:47.272457+00:00
+
+ ## Variant – En variant av et konsulentselskap
+ - [https://www.variant.no](https://www.variant.no)
+ - date_published: 2024-08-17T23:52:06.712274+00:00
+
+ ## Abonner.varsom.no
+ - [https://abonner.varsom.no](https://abonner.varsom.no)
+ - date_published: 2024-09-24T11:06:53+00:00
+
+ ## Naturhendelser
+ - [https://naturhendelser.varsom.no](https://naturhendelser.varsom.no)
+ - date_published: 2024-09-19T11:37:10+00:00
+
+ ## Varsler om naturfarer i Norge | Varsom.no
+ - [https://www.varsom.no](https://www.varsom.no)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Vasser er et lite designbyrå med stor kraft
+ - [https://www.vasser.no](https://www.vasser.no)
+ - date_published: 2024-07-02T20:00:19.218979+00:00
+
+ ## Vei, trafikk, kjøretøy og førerkort
+ - [https://www.vegvesen.no](https://www.vegvesen.no)
+ - date_published: 2024-06-16T19:55:55.786023+00:00
+
+ ## Veien til lykke
+ - [http://www.veientillykke.no](http://www.veientillykke.no)
+ - date_published: 2024-09-04T17:59:26.293956+00:00
+
+ ## VGs Vektklubb - varig ned i vekt i ditt tempo - Vektklubb
+ - [https://www.vektklubb.no](https://www.vektklubb.no)
+ - date_published: 2024-09-02T11:11:25.246712+00:00
+
+ ## Veterinærinstituttet - god helse hos dyr, fisk og mennesker
+ - [https://www.vetinst.no](https://www.vetinst.no)
+ - date_published: 2024-06-24T04:53:59.586208+00:00
+
+ ## Programvare for Veterinærpraksis | Provet Cloud
+ - [https://vetserve.no](https://vetserve.no)
+ - date_published: 2024-07-15T04:11:43+00:00
+
+ ## VG Nettbutikk
+ - [https://butikk.vg.no](https://butikk.vg.no)
+ - date_published: 2024-09-02T11:11:13.273320+00:00
+
+ ## VG eAvis
+ - [https://eavis.vg.no](https://eavis.vg.no)
+ - date_published: 2024-09-02T11:11:29.558400+00:00
+
+ ## Dagligvarer | Ukens beste tilbud og nye kundeaviser (oppdatert uke 36, 2024)
+ - [https://kupp.vg.no](https://kupp.vg.no)
+ - date_published: 2024-09-02T11:11:58.165115+00:00
+
+ ## VG Help Center
+ - [https://support.vg.no](https://support.vg.no)
+ - date_published: 2023-09-03T11:11:48+00:00
+
+ ## På TV i dag - se hva som går på TV - TV-guide fra VG
+ - [https://tvguide.vg.no](https://tvguide.vg.no)
+ - date_published: 2024-09-02T11:11:51.505112+00:00
+
+ ## VGTV
+ - [https://tv.vg.no](https://tv.vg.no)
+ - date_published: 2024-09-02T11:11:54.151792+00:00
+
+ ## VG Live
+ - [https://vglive.vg.no](https://vglive.vg.no)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Nyheter fra Norges mest leste nettavis – VG
+ - [https://vg.no](https://vg.no)
+ - date_published: 2024-05-25T01:49:38.892890+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.no](https://www.victronenergy.no)
+ - date_published: 2024-06-21T16:59:49+00:00
+
+ ## minside.vid.no
+ - [https://minside.vid.no](https://minside.vid.no)
+ - date_published: 2024-07-15T04:23:37.543993+00:00
+
+ ## Avsenderdomene
+ - [https://nyhetsbrev.vid.no](https://nyhetsbrev.vid.no)
+ - date_published: 2024-07-15T04:23:36.061782+00:00
+
+ ## VID vitenskapelige høgskole
+ - [https://vid.no](https://vid.no)
+ - date_published: 2024-05-12T05:09:46.789526+00:00
+
+ ## Viking Redningstjeneste – Veihjelp. Alltid. Uansett.
+ - [https://vikingredning.no](https://vikingredning.no)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Forside - Vikingtidsmuseet
+ - [https://www.vikingtidsmuseet.no](https://www.vikingtidsmuseet.no)
+ - date_published: 2024-10-18T15:53:08.618430+00:00
+
+ ## Vilhelm Christensen
+ - [https://vilhelmchristensen.no](https://vilhelmchristensen.no)
+ - date_published: 2013-04-21T00:00:00+00:00
+
+ ## Vipps – veldig, veldig enkelt
+ - [https://vipps.no](https://vipps.no)
+ - date_published: 2024-07-08T10:45:44.685645+00:00
+
+ ## Virke - Hovedorganisasjonen for handels- og tjenestenæringen
+ - [https://www.virke.no](https://www.virke.no)
+ - date_published: 2024-10-17T21:51:21.178157+00:00
+
+ ## Visa er en pålitelig leder innen digitale betalinger
+ - [https://visa.no](https://visa.no)
+ - date_published: 2024-05-12T03:59:46.028210+00:00
+
+ ## Visma - Europas ledende softwareselskap
+ - [https://www.visma.no](https://www.visma.no)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Hjem - Vitamix Norge
+ - [https://vitamixnorge.no](https://vitamixnorge.no)
+ - date_published: 2024-07-04T17:23:48+00:00
+
+ ## Hjem - Vivende
+ - [https://www.vivende.no](https://www.vivende.no)
+ - date_published: 2024-08-17T23:51:18.613963+00:00
+
+ ## Volse Hubzilla
+ - [https://hub.volse.no](https://hub.volse.no)
+ - date_published: 2024-09-14T08:53:12.681319+00:00
+
+ ## Oslo | Euronext Securities
+ - [https://foretak.vps.no](https://foretak.vps.no)
+ - date_published: 2024-10-07T18:00:08+00:00
+
+ ## Oslo | Euronext Securities
+ - [https://investor.vps.no](https://investor.vps.no)
+ - date_published: 2024-10-07T18:00:08+00:00
+
+ ## WebPress
+ - [https://webpress.no](https://webpress.no)
+ - date_published: 2018-04-12T11:59:26+00:00
+
+ ## IT-konsulenter i teknologi- og rådgivningsselskapet Webstep
+ - [https://www.webstep.no](https://www.webstep.no)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Weedensenteret — Hva er egentlig cannabis?
+ - [https://weedensenteret.no](https://weedensenteret.no)
+ - date_published: 2024-08-06T20:07:16.607096+00:00
+
+ ## Forside - Wikimedia Norge
+ - [https://www.wikimedia.no](https://www.wikimedia.no)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Allan Jensen — Software Developer & Consultant
+ - [http://www.winternet.no](http://www.winternet.no)
+ - date_published: 2024-06-18T11:06:30.335786+00:00
+
+ ## Agera WWF Norge
+ - [https://blimed.wwf.no](https://blimed.wwf.no)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Gjør Norges hager villere
+ - [https://wwf.no](https://wwf.no)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## XLENT Norge
+ - [https://www.xlent.no](https://www.xlent.no)
+ - date_published: 2024-08-17T23:48:28.058530+00:00
+
+ ## Billigste og Beste forbrukslån
+ - [https://xn--besteforbruksln-ulb.no](https://xn--besteforbruksln-ulb.no)
+ - date_published: 2024-05-08T09:12:47.937172+00:00
+
+ ## Forbrukslån | Lån uten sikkerhet (Billigste) Topp 10
+ - [https://www.xn--billigeforbruksln-orb.no](https://www.xn--billigeforbruksln-orb.no)
+ - date_published: 2024-10-19T08:01:23.682311+00:00
+
+ ## Lånekalkulator - Regn ut hvor mye lånet koster
+ - [https://xn--lnekalkulator1-lib.no](https://xn--lnekalkulator1-lib.no)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Låne Penger - Låne 1.000 - 500.000 kr til lav Rente fra 6.99%
+ - [https://xn--lnepenger24-x8a.no](https://xn--lnepenger24-x8a.no)
+ - date_published: 2018-11-09T00:00:00+00:00
+
+ ## Forbrukslån på dagen | Tilbud fra 20+ Banker | Låne Penger
+ - [https://xn--lnepenger-52a.no](https://xn--lnepenger-52a.no)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Home
+ - [https://yankee.no](https://yankee.no)
+ - date_published: 2020-11-21T22:30:32+00:00
+
+ ## Yelp
+ - [https://m.yelp.no](https://m.yelp.no)
+ - date_published: 2024-07-01T07:11:08.466078+00:00
+
+ ## Yelp
+ - [https://yelp.no](https://yelp.no)
+ - date_published: 2024-07-01T07:08:39.329866+00:00
+
+ ## Yr Badetemperaturer
+ - [https://badetemperaturer.yr.no](https://badetemperaturer.yr.no)
+ - date_published: 2024-07-01T10:11:35.446458+00:00
+
+ ## For developers - Yr
+ - [https://developer.yr.no](https://developer.yr.no)
+ - date_published: 2023-12-07T00:00:00+00:00
+
+ ## Yr help and information
+ - [https://hjelp.yr.no](https://hjelp.yr.no)
+ - date_published: 2015-01-30T00:00:00+00:00
+
+ ## Retro.yr.no
+ - [https://retro.yr.no](https://retro.yr.no)
+ - date_published: 2021-10-07T08:43:25+00:00
+
+ ## Dagens værvarsel for ditt sted
+ - [https://yr.no](https://yr.no)
+ - date_published: 2024-05-07T19:04:43.208564+00:00
+
+ ## ZEISS i Norge
+ - [https://www.zeiss.no](https://www.zeiss.no)
+ - date_published: 2024-09-16T07:55:53.692542+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.no](https://www2.zoetis.no)
+ - date_published: 2024-06-27T09:52:50+00:00
+
+ ## Support
+ - [https://support.zooplus.no](https://support.zooplus.no)
+ - date_published: 2024-09-26T11:26:30.220027+00:00
+
+ ## zooplus dyrebutikk på nett | Alt til kjæledyr på ett sted
+ - [https://www.zooplus.no](https://www.zooplus.no)
+ - date_published: 2024-06-16T06:28:03.817003+00:00
+
+ ## CICERO
+ - [https://cicero.oslo.no](https://cicero.oslo.no)
+ - date_published: 2024-06-20T16:23:15.735327+00:00
+
+ ## Daniel Aleksandersen
+ - [https://daniel.priv.no](https://daniel.priv.no)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Arnt Gulbrandsen
+ - [https://rant.gulbrandsen.priv.no](https://rant.gulbrandsen.priv.no)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Arjun's Blogs
+ - [https://adhikariarjun.com.np](https://adhikariarjun.com.np)
+ - date_published: 2022-09-02T16:25:34+00:00
+
+ ## Dinesh Ghimire - Software Developer
+ - [https://dinesh-ghimire.com.np](https://dinesh-ghimire.com.np)
+ - date_published: 2024-05-10T14:08:26+00:00
+
+ ## Roy's Blog
+ - [https://dineshroy.com.np](https://dineshroy.com.np)
+ - date_published: 2024-05-07T09:14:19.412997+00:00
+ - tags: ['personal']
+
+ ## Geshan's Blog
+ - [https://geshan.com.np](https://geshan.com.np)
+ - date_published: 2024-05-07T23:25:07.460751+00:00
+ - tags: ['personal']
+
+ ## Software Engineering and Web Development Newsletter
+ - [https://newsletter.geshan.com.np](https://newsletter.geshan.com.np)
+ - date_published: 2024-09-04T10:13:25+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.np](https://images.google.com.np)
+ - date_published: 2024-07-20T07:40:25.551552+00:00
+
+ ## Google
+ - [https://www.google.com.np](https://www.google.com.np)
+ - date_published: 2024-06-21T22:24:14.650184+00:00
+
+ ## Apex College | Premier Business Education in Nepal
+ - [https://apexcollege.ing.com.np](https://apexcollege.ing.com.np)
+ - date_published: 2024-07-17T10:24:26.017242+00:00
+
+ ## ING
+ - [https://ing.com.np](https://ing.com.np)
+ - date_published: 2024-07-09T12:09:38+00:00
+
+ ## Jeep® Nepal: Best SUV 4WD in Nepal | Jeep Price in Nepal
+ - [https://jeep.com.np](https://jeep.com.np)
+ - date_published: 2023-03-15T00:00:00+00:00
+
+ ## Kantipur Media Group
+ - [https://kmg.com.np](https://kmg.com.np)
+ - date_published: 2024-07-17T10:24:56.886714+00:00
+
+ ## LIC Nepal
+ - [https://www.licnepal.com.np](https://www.licnepal.com.np)
+ - date_published: 2024-07-03T17:30:12.080850+00:00
+
+ ## MetLife: Navigating Life Together
+ - [https://www.metlife.com.np](https://www.metlife.com.np)
+ - date_published: 2024-07-19T16:45:09+00:00
+
+ ## Online Learning Platform in Nepal | mySecondTeacher, Nepal
+ - [https://mysecondteacher.com.np](https://mysecondteacher.com.np)
+ - date_published: 2020-03-24T04:41:42+00:00
+
+ ## महिलाहरुको सम्पूर्ण पत्रिका - नारी
+ - [https://narimag.com.np](https://narimag.com.np)
+ - date_published: 2024-05-13T03:29:20.852977+00:00
+
+ ## नेपाल - राष्ट्रिय साप्ताहिक पत्रिका
+ - [https://nepalmag.com.np](https://nepalmag.com.np)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Prashant Barahi | realpacific
+ - [https://prashantbarahi.com.np](https://prashantbarahi.com.np)
+ - date_published: 2024-06-01T05:05:10.139107+00:00
+ - tags: ['personal']
+
+ ## Sagyam's Blog
+ - [https://blog.sagyamthapa.com.np](https://blog.sagyamthapa.com.np)
+ - date_published: 2024-11-26T23:47:07.249166+00:00
+
+ ## सूचना र मनोरञ्जनको संगालो - साप्ताहिक
+ - [https://saptahik.com.np](https://saptahik.com.np)
+ - date_published: 2024-05-13T03:28:42.665902+00:00
+
+ ## TATA Motors Contactless Services
+ - [https://tatacars.sipradi.com.np](https://tatacars.sipradi.com.np)
+ - date_published: 2024-07-17T10:25:13+00:00
+
+ ## Sudan Chapagain
+ - [https://sudanchapagain.com.np](https://sudanchapagain.com.np)
+ - date_published: 2024-05-11T10:22:01.707493+00:00
+
+ ## UN STORE - The One Stop Destination
+ - [https://unstore.com.np](https://unstore.com.np)
+ - date_published: 2024-08-11T14:50:36.891992+00:00
+
+ ## Castor's Guestbook
+ - [http://guestbook.yogeshlamichhane.com.np](http://guestbook.yogeshlamichhane.com.np)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Yuvraj Timalsina
+ - [https://yuvrajtimalsina.com.np](https://yuvrajtimalsina.com.np)
+ - date_published: 2024-06-12T10:44:20+00:00
+
+ ## Home
+ - [https://apexcollege.edu.np](https://apexcollege.edu.np)
+ - date_published: 2024-05-13T03:28:25.481258+00:00
+
+ ## Home - Capital College and Research Center (CCRC)
+ - [https://ccrc.edu.np](https://ccrc.edu.np)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Homepage | Goethe-Zentrum Kathmandu
+ - [https://www.goethe-kathmandu.edu.np](https://www.goethe-kathmandu.edu.np)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - Heuristic School
+ - [https://hsrc.edu.np](https://hsrc.edu.np)
+ - date_published: 2024-07-26T04:11:12.790139+00:00
+
+ ## Home
+ - [https://apply.patancollege.edu.np](https://apply.patancollege.edu.np)
+ - date_published: 2024-09-10T13:30:47.910612+00:00
+
+ ## PCPS College – World Class UK Degree in Nepal
+ - [https://patancollege.edu.np](https://patancollege.edu.np)
+ - date_published: 2024-06-12T02:28:42.254847+00:00
+
+ ## Office of the Controller of Examinations, Pokhara University – Office of the Controller of Examinations
+ - [https://pouexam.edu.np](https://pouexam.edu.np)
+ - date_published: 2024-07-17T10:24:31.384503+00:00
+
+ ## An Official Site of Pokhara University – Pokhara University
+ - [https://pu.edu.np](https://pu.edu.np)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Quest Int'l College - Offering best MBA, BBA, BCSIT, & BHM Programs in Nepal
+ - [http://quest.edu.np](http://quest.edu.np)
+ - date_published: 2024-10-30T20:22:26.075530+00:00
+
+ ## DINESHDB
+ - [https://dbhattarai.info.np](https://dbhattarai.info.np)
+ - date_published: 2023-12-26T06:31:54.283704+00:00
+ - tags: ['personal']
+
+ ## Internet of Things
+ - [http://veshraj.info.np](http://veshraj.info.np)
+ - date_published: 2021-11-09T11:33:09+00:00
+
+ ## Nepal Research and Education Network – NREN
+ - [http://nren.net.np](http://nren.net.np)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
+ - [https://www.dianetics.org.np](https://www.dianetics.org.np)
+ - date_published: 2024-09-04T18:14:25.838106+00:00
+
+ ## JuRI Nepal
+ - [http://jurinepal.org.np](http://jurinepal.org.np)
+ - date_published: 2024-07-10T09:02:02.980359+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.org.np](https://scientology.org.np)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Sign in - Google Accounts
+ - [https://elmer.data.bn.nr](https://elmer.data.bn.nr)
+ - date_published: 2024-06-17T18:22:02.993511+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.nr](https://maps.google.nr)
+ - date_published: 2024-07-20T07:38:48.457113+00:00
+
+ ## Google
+ - [https://www.google.nr](https://www.google.nr)
+ - date_published: 2024-06-21T22:23:12.037304+00:00
+
+ ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [https://babii.sup.nr](https://babii.sup.nr)
+ - date_published: 2024-10-22T22:18:28.441626+00:00
+
+ ## Weiterleitung
+ - [https://ubi.cris.nrw](https://ubi.cris.nrw)
+ - date_published: 2024-07-24T03:56:03.353188+00:00
+
+ ## Startseite – LAG ABK NRW e.V.
+ - [http://www.fsjkultur.nrw](http://www.fsjkultur.nrw)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Heimatdesign
+ - [https://heimatdesign.nrw](https://heimatdesign.nrw)
+ - date_published: 2023-10-29T19:28:33+00:00
+
+ ## Home
+ - [https://jrf.nrw](https://jrf.nrw)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## KI.NRW – The central point of contact for artificial intelligence in NRW
+ - [https://www.ki.nrw](https://www.ki.nrw)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## my-azur.de – … ein Admin nach Feierabend
+ - [https://krage.nrw](https://krage.nrw)
+ - date_published: 2024-07-02T18:27:38.312725+00:00
+
+ ## Startseite | Land.NRW
+ - [https://www.land.nrw](https://www.land.nrw)
+ - date_published: 2024-07-11T14:01:39.726984+00:00
+
+ ## medienwerk.nrw – Das medienwerk nrw – Medienkunst und digitale Kultur
+ - [https://medienwerk.nrw](https://medienwerk.nrw)
+ - date_published: 2024-07-13T16:12:28.247033+00:00
+
+ ## NERD II – NERD 2: Research Training Group on Human Centered Systems Security
+ - [https://nerd2.nrw](https://nerd2.nrw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Startseite | Bonn
+ - [https://bonn.polizei.nrw](https://bonn.polizei.nrw)
+ - date_published: 2024-07-14T14:18:37+00:00
+
+ ## Startseite | Verbraucherzentrale NRW
+ - [https://www.verbraucherzentrale.nrw](https://www.verbraucherzentrale.nrw)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Startseite | Wirtschaft NRW
+ - [https://www.wirtschaft.nrw](https://www.wirtschaft.nrw)
+ - date_published: 2024-06-25T22:38:20.168364+00:00
+
+ ## Homepage - NTT
+ - [https://www.global.ntt](https://www.global.ntt)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## NTT / NTT Group | Nippon Telegraph and Telephone Corporation
+ - [https://group.ntt](https://group.ntt)
+ - date_published: 2024-06-18T17:40:56.228986+00:00
+
+ ## NTT R&D Website | 日本電信電話株式会社
+ - [https://www.rd.ntt](https://www.rd.ntt)
+ - date_published: 2024-10-23T06:52:44.628003+00:00
+
+ ## 0xFF
+ - [https://0xff.nu](https://0xff.nu)
+ - date_published: 2024-05-27T11:54:18+00:00
+ - tags: ['personal']
+
+ ## 6510
+ - [https://6510.nu](https://6510.nu)
+ - date_published: 2024-07-10T06:12:05.554781+00:00
+
+ ## 720p Sports Live Streaming Online | 720pStream
+ - [https://720pstream.nu](https://720pstream.nu)
+ - date_published: 2024-11-12T16:58:28.347660+00:00
+
+ ## Nightlife
+ - [https://www.abag.nu](https://www.abag.nu)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Asbjørn Ulsberg
+ - [https://asbjor.nu](https://asbjor.nu)
+ - date_published: 2022-11-23T10:41:19+00:00
+
+ ## Atletiek.nu - Atletiek Wedstrijd Administratie Software
+ - [https://www.atletiek.nu](https://www.atletiek.nu)
+ - date_published: 2024-07-01T09:17:56.969485+00:00
+
+ ## [ my heart's on fire for your love ]
+ - [https://borahae.nu](https://borahae.nu)
+ - date_published: 2024-06-20T21:32:03.955651+00:00
+
+ ## Imageboard Scraper
+ - [https://nik.bot.nu](https://nik.bot.nu)
+ - date_published: 2022-02-11T12:44:56+00:00
+
+ ## Nyheter från Sverige och världen - Bulletin
+ - [https://bulletin.nu](https://bulletin.nu)
+ - date_published: 2024-06-29T04:22:48.264489+00:00
+
+ ## Caelestis
+ - [http://caelestis.nu](http://caelestis.nu)
+ - date_published: 2024-07-12T09:40:52+00:00
+
+ ## DRACONIQUE.     Tribute to Clair (Ibuki) of Pokémon
+ - [https://clair.caelestis.nu](https://clair.caelestis.nu)
+ - date_published: 2024-07-12T16:40:39.616432+00:00
+
+ ## c a e l e s t i s    .·*    ⌜ N U ⌟     ◦    contact form
+ - [https://form.caelestis.nu](https://form.caelestis.nu)
+ - date_published: 2024-07-12T16:40:46.879207+00:00
+
+ ## «   W H I M S I C A L   »     Adopt a Keyblade Clique
+ - [https://key.caelestis.nu](https://key.caelestis.nu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## ⌜ M E M O I R S ⌟     ⋯    update log
+ - [https://log.caelestis.nu](https://log.caelestis.nu)
+ - date_published: 2024-07-12T16:40:55.902183+00:00
+
+ ## I Choose You!
+ - [http://pkmn.caelestis.nu](http://pkmn.caelestis.nu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## CarPorten – DNB Finans | För DNB-samarbetande bilåterförsäljare
+ - [https://carporten.nu](https://carporten.nu)
+ - date_published: 2024-09-28T22:33:12.046811+00:00
+
+ ## Casino Bonus
+ - [https://www.casinobonusar.nu](https://www.casinobonusar.nu)
+ - date_published: 2024-09-19T11:01:27+00:00
+
+ ## CZC | Casinos Zonder Cruks 2024 | Zonder NL Vergunning & Licentie
+ - [https://www.casinoszondercruks.nu](https://www.casinoszondercruks.nu)
+ - date_published: 2024-06-19T21:58:49.113473+00:00
+
+ ## Collect
+ - [https://preprod.collect.nu](https://preprod.collect.nu)
+ - date_published: 2024-07-08T12:21:09.360137+00:00
+
+ ## Confirm | Gepassioneerde accountants die u begrijpen
+ - [https://www.confirm.nu](https://www.confirm.nu)
+ - date_published: 2020-03-05T16:42:44+00:00
+
+ ## Hoe vind ik een goede copywriter?
+ - [http://www.copywriting.nu](http://www.copywriting.nu)
+ - date_published: 2023-02-02T09:11:11+00:00
+
+ ## c h o s e n ~ love.cordy.nu
+ - [https://love.cordy.nu](https://love.cordy.nu)
+ - date_published: 2024-06-20T21:17:06.312540+00:00
+
+ ## CRUX | Main / HomePage
+ - [https://crux.nu](https://crux.nu)
+ - date_published: 2022-09-26T00:00:00+00:00
+
+ ## Databyrån i Visby AB - Vi löser hela problemet!
+ - [https://www.databyran.nu](https://www.databyran.nu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bloggen som hedrar Steven Den Beste genom anime- och filmrecensioner
+ - [https://denbeste.nu](https://denbeste.nu)
+ - date_published: 2021-10-29T00:00:00+00:00
+
+ ## DFM RADIO TELEVISION INTERNATIONAL
+ - [http://dfm.nu](http://dfm.nu)
+ - date_published: 2024-05-05T10:51:28+00:00
+
+ ## Dead Hackers Society
+ - [http://dhs.nu](http://dhs.nu)
+ - date_published: 2024-06-22T14:29:59.101732+00:00
+
+ ## Draft: a Small Design Consultancy
+ - [https://draft.nu](https://draft.nu)
+ - date_published: 2024-05-07T22:56:49.786957+00:00
+
+ ## Draft's Letters
+ - [https://letters.draft.nu](https://letters.draft.nu)
+ - date_published: 2024-07-02T17:05:13.980474+00:00
+
+ ## Daniel Verkamp :: Home
+ - [https://drv.nu](https://drv.nu)
+ - date_published: 2018-12-12T06:51:07+00:00
+
+ ## Enamour
+ - [https://enamour.nu](https://enamour.nu)
+ - date_published: 2024-07-12T16:40:57.316732+00:00
+
+ ## Enamour
+ - [http://fan.enamour.nu](http://fan.enamour.nu)
+ - date_published: 2024-06-20T21:15:20.025986+00:00
+
+ ## FHT (Försvarets Historiska Telesamlingar)
+ - [http://www.fht.nu](http://www.fht.nu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Filmer.nu - Allt du behöver inom film, serier och streaming | Filmer
+ - [https://filmer.nu](https://filmer.nu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Flaunt Network - Incomparable Free Fansite Hosting Since 2009!
+ - [https://www.flaunt.nu](https://www.flaunt.nu)
+ - date_published: 2024-10-27T07:52:32.532260+00:00
+
+ ## Piratenhits bij FluxFM webradio - FluxFM webradio
+ - [https://fluxfm.nu](https://fluxfm.nu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Placeholder – Antagonist
+ - [http://flyhigh.nu](http://flyhigh.nu)
+ - date_published: 2023-09-14T20:08:20+00:00
+
+ ## Klostervallen - Temperatur: 18.9
+ - [http://bokstavskex.framtid.nu](http://bokstavskex.framtid.nu)
+ - date_published: 2024-07-04T14:27:01+00:00
+
+ ## Hey Georgie
+ - [http://hey.georgie.nu](http://hey.georgie.nu)
+ - date_published: 2024-09-18T02:38:37.564750+00:00
+
+ ## Google
+ - [https://www.google.nu](https://www.google.nu)
+ - date_published: 2024-06-21T22:23:06.456274+00:00
+
+ ## Drop the gunbelt, boy!
+ - [http://ftp2.grandis.nu](http://ftp2.grandis.nu)
+ - date_published: 2024-07-14T12:19:33.944681+00:00
+
+ ## S I L E N T }{ f a n l i s t i n g s
+ - [https://hanabi.nu](https://hanabi.nu)
+ - date_published: 2024-07-21T07:43:07.384280+00:00
+
+ ## Henrik Svensson – production designer – Henrik Svensson – production designer
+ - [https://henriksvensson.nu](https://henriksvensson.nu)
+ - date_published: 2023-12-23T03:00:13.904277+00:00
+ - tags: ['personal']
+
+ ## John "Chucky" Hertell | Just another WordPress site
+ - [https://wordpress.hertell.nu](https://wordpress.hertell.nu)
+ - date_published: 2024-05-08T12:13:13.334471+00:00
+
+ ## Hitta rabattkoder » Bäst rabatter & erbjudanden i juli 2024
+ - [https://hittarabattkod.nu](https://hittarabattkod.nu)
+ - date_published: 2024-07-18T14:24:49.433178+00:00
+
+ ## Startsida - Anmälan till högskoleprovet
+ - [https://www.hogskoleprov.nu](https://www.hogskoleprov.nu)
+ - date_published: 2024-06-16T17:37:58+00:00
+
+ ## Holland FM 2.0 – Zo Hollands is er geen één
+ - [http://www.hollandfm.nu](http://www.hollandfm.nu)
+ - date_published: 2024-09-13T19:07:19.586246+00:00
+
+ ## H☆shiNU ... on medical leave
+ - [http://hoshi.nu](http://hoshi.nu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## W O N D E R L A N D   ~ the Anime Fanlisting
+ - [http://anime.ichigo.nu](http://anime.ichigo.nu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## L O R D   o f   D E S T R U C T I O N ~     the SESSHOUMARU (Inuyasha) fanlisting
+ - [http://sesshoumaru.ichigo.nu](http://sesshoumaru.ichigo.nu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## for the  G L O R Y  of humanity ~     the Shingeki no Kyojin (Attack on Titan) fanlisting
+ - [http://shingeki.ichigo.nu](http://shingeki.ichigo.nu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Welcome to Ikano Bank SE!
+ - [https://application.ikanobank.nu](https://application.ikanobank.nu)
+ - date_published: 2020-10-13T14:24:36+00:00
+
+ ## Ikwilhet - www.ikwilhet.nu
+ - [http://www.ikwilhet.nu](http://www.ikwilhet.nu)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Incisive.nu
+ - [http://incisive.nu](http://incisive.nu)
+ - date_published: 2024-09-16T03:47:26.440729+00:00
+
+ ## Home - Nubank RI
+ - [https://investidores.nu](https://investidores.nu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home - Nubank IR
+ - [http://investors.nu](http://investors.nu)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Startsida
+ - [https://itarc.nu](https://itarc.nu)
+ - date_published: 2020-05-11T14:26:11+00:00
+
+ ## kea.nu
+ - [https://kea.nu](https://kea.nu)
+ - date_published: 2021-06-14T05:52:17+00:00
+
+ ## Bilarna var bättre förr | Klassiker
+ - [http://klassiker.nu](http://klassiker.nu)
+ - date_published: 2024-08-18T16:33:32.214406+00:00
+
+ ## Funny Knock Knock Jokes
+ - [https://knockknockjokes.nu](https://knockknockjokes.nu)
+ - date_published: 2024-05-07T23:30:05.931803+00:00
+
+ ## Jämför lån & låna pengar med rätt kreditkoll 2024
+ - [https://www.kreditkoll.nu](https://www.kreditkoll.nu)
+ - date_published: 2024-09-19T20:31:21.152741+00:00
+
+ ## Blog posts
+ - [https://krompaco.nu](https://krompaco.nu)
+ - date_published: 2024-05-09T08:14:35.995874+00:00
+
+ ## Kuriren, Norrbottens-Kuriren
+ - [https://kuriren.nu](https://kuriren.nu)
+ - date_published: 2024-06-29T04:22:41.951192+00:00
+
+ ## kyouNU
+ - [https://kyou.nu](https://kyou.nu)
+ - date_published: 2024-07-10T11:34:45.403304+00:00
+
+ ## lhs
+ - [https://lhs.nu](https://lhs.nu)
+ - date_published: 2024-05-25T08:00:04.408571+00:00
+
+ ## library.nu
+ - [http://library.nu](http://library.nu)
+ - date_published: 2024-06-30T02:59:40.007803+00:00
+
+ ## Life is great - Quote of the Day
+ - [https://www.lifeisgreat.nu](https://www.lifeisgreat.nu)
+ - date_published: 2024-07-02T21:30:25.438088+00:00
+
+ ## L I G H T N I N G . n u       ~ R E B I R T H ~
+ - [http://lightning.nu](http://lightning.nu)
+ - date_published: 2024-07-12T16:40:45.340769+00:00
+
+ ## Lume
+ - [https://lume.nu](https://lume.nu)
+ - date_published: 2024-05-22T08:36:58+00:00
+
+ ## Startsida - Lymfominfo
+ - [https://lymfom.nu](https://lymfom.nu)
+ - date_published: 2024-05-08T09:48:05.714461+00:00
+
+ ## Manu Cornet's website
+ - [https://ma.nu](https://ma.nu)
+ - date_published: 2023-10-25T20:48:57.839136+00:00
+
+ ## manu-static
+ - [https://static.ma.nu](https://static.ma.nu)
+ - date_published: 2024-05-09T04:17:59+00:00
+
+ ## Start
+ - [https://malarna.nu](https://malarna.nu)
+ - date_published: 2023-11-10T14:03:58.337435+00:00
+
+ ## Marginalia Downloads
+ - [https://downloads.marginalia.nu](https://downloads.marginalia.nu)
+ - date_published: 2023-10-25T08:29:33.050968+00:00
+
+ ## Encyclopedia
+ - [https://encyclopedia.marginalia.nu](https://encyclopedia.marginalia.nu)
+ - date_published: 2024-06-20T21:32:46.030670+00:00
+
+ ## Marginalia Similar Website Finder
+ - [https://explore2.marginalia.nu](https://explore2.marginalia.nu)
+ - date_published: 2023-12-03T08:39:07+00:00
+ - tags: ['seo', 'algorithms']
+
+ ## Website Explorer - http://bmannconsulting.com/
+ - [https://explore.marginalia.nu](https://explore.marginalia.nu)
+ - date_published: 2024-06-20T21:32:46.556229+00:00
+
+ ## GitHub - MarginaliaSearch/MarginaliaSearch: Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+ - [https://git.marginalia.nu](https://git.marginalia.nu)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## www.marginalia.nu
+ - [https://marginalia.nu](https://marginalia.nu)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['search engine']
+
+ ## www.marginalia.nu @
+marginalia.nu
+ - [https://memex.marginalia.nu](https://memex.marginalia.nu)
+ - date_published: 2023-10-25T20:48:59.430464+00:00
+
+ ## Marginalia Search
+ - [https://search.marginalia.nu](https://search.marginalia.nu)
+ - date_published: 2023-10-25T13:51:19.392203+00:00
+ - tags: ['search engine', 'personal sites source']
+
+ ## Welcome to nginx!
+ - [https://status.marginalia.nu](https://status.marginalia.nu)
+ - date_published: 2022-10-19T08:02:20+00:00
+
+ ## Mastodon.nu
+ - [https://mastodon.nu](https://mastodon.nu)
+ - date_published: 2024-07-11T23:02:52.705611+00:00
+
+ ## MustHaveMenus - Sorry!
+ - [https://mhme.nu](https://mhme.nu)
+ - date_published: 2024-09-06T13:39:45.337359+00:00
+
+ ## [ HOSTSFILE.MINE.NU ] [ HOSTS FILE PROJECT ]
+ - [https://hostsfile.mine.nu](https://hostsfile.mine.nu)
+ - date_published: 2018-02-14T19:14:36+00:00
+
+ ## Titus the Fox
+ - [http://ttf.mine.nu](http://ttf.mine.nu)
+ - date_published: 2024-07-11T11:16:10.965569+00:00
+
+ ## ::: EPHEMERAL ::: fanlisting collective directory
+ - [http://dir.minty.nu](http://dir.minty.nu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
  ## " the book lives on " » the KINDLE fanlisting
  - [https://kindle.minty.nu](https://kindle.minty.nu)
  - date_published: 2024-08-26T00:00:00+00:00
@@ -3043,988 +4036,4 @@
  ## Home | VietnamWar.govt.nz - New Zealand and the Vietnam War
  - [https://www.vietnamwar.govt.nz](https://www.vietnamwar.govt.nz)
  - date_published: 2024-09-07T22:04:32+00:00
-
- ## Meetings - Wellington City Council
- - [https://meetings.wellington.govt.nz](https://meetings.wellington.govt.nz)
- - date_published: 2024-10-12T23:24:48+00:00
-
- ## New Zealand Government | Information and Services
- - [https://www.govt.nz](https://www.govt.nz)
- - date_published: 2024-06-12T22:06:36+00:00
-
- ## Wedding and Marriage Celebrants in Auckland | My Wedding Guide
- - [http://www.korero.maori.nz](http://www.korero.maori.nz)
- - date_published: 2024-09-18T03:09:28.722440+00:00
-
- ## Kupu o te Rā - a word of the day service for Te Reo Māori
- - [https://kupu.maori.nz](https://kupu.maori.nz)
- - date_published: 2024-08-18T03:14:16.212811+00:00
-
- ## PAHU
- - [http://www.pahu.maori.nz](http://www.pahu.maori.nz)
- - date_published: 2024-06-26T07:18:52.104970+00:00
-
- ## Home | Catalyst IT
- - [http://catalyst.net.nz](http://catalyst.net.nz)
- - date_published: 2024-07-10T07:46:47.533072+00:00
-
- ## Home
- - [https://internetnz.net.nz](https://internetnz.net.nz)
- - date_published: 2024-08-18T21:18:04.128636+00:00
-
- ## InternetNZ Technical Documentation — InternetNZ Product Documentation 8.0a1 documentation
- - [https://api.irs.net.nz](https://api.irs.net.nz)
- - date_published: 2024-08-06T22:58:14+00:00
-
- ## Welcome! - Matt Brown
- - [https://www.mattb.net.nz](https://www.mattb.net.nz)
- - date_published: 2024-05-08T10:23:23+00:00
-
- ## Maxwells vs The World
- - [http://geriandricky.maxwells.net.nz](http://geriandricky.maxwells.net.nz)
- - date_published: 2014-05-09T04:37:17+00:00
-
- ## Nothing to see here...
- - [https://andrew.mcmillan.net.nz](https://andrew.mcmillan.net.nz)
- - date_published: 2018-04-23T22:17:44+00:00
-
- ## Matthew Paul Thomas
- - [http://mpt.net.nz](http://mpt.net.nz)
- - date_published: 2024-07-26T04:02:04+00:00
-
- ## Phi Crosswords
- - [http://phionline.net.nz](http://phionline.net.nz)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Play Online Pokies NZ 2024 - Pokies Online New Zealand
- - [https://pokiesonlinenz.net.nz](https://pokiesonlinenz.net.nz)
- - date_published: 2024-07-08T06:54:02+00:00
-
- ## SPOON.net.nz
- - [https://spoon.net.nz](https://spoon.net.nz)
- - date_published: 2024-08-07T21:00:12.067077+00:00
-
- ## iCraig Blog
- - [http://craig.stanton.net.nz](http://craig.stanton.net.nz)
- - date_published: 2024-08-18T19:28:32.279276+00:00
-
- ## Home Page
- - [https://www.thecoast.net.nz](https://www.thecoast.net.nz)
- - date_published: 2024-08-18T21:19:26+00:00
-
- ## Side projects - Ultraq's Final MooCow
- - [http://www.ultraq.net.nz](http://www.ultraq.net.nz)
- - date_published: 2024-07-02T11:20:19.890765+00:00
-
- ## Index of /
- - [http://mirror.2degrees.nz](http://mirror.2degrees.nz)
- - date_published: 2024-07-20T15:59:03.058180+00:00
-
- ## Agronetto New Zealand – an online marketplace for farm equipment and spare parts
- - [https://agronetto.nz](https://agronetto.nz)
- - date_published: 2024-08-11T15:41:44.344102+00:00
-
- ## Art~Hack Wellington
- - [https://arthack.nz](https://arthack.nz)
- - date_published: 2024-10-22T17:47:45.900864+00:00
-
- ## Bamboo Creative | NZ Digital Services Agency
- - [https://bamboocreative.nz](https://bamboocreative.nz)
- - date_published: 2024-07-15T11:09:48.704661+00:00
-
- ## Basestation Co-working and Bike Stop - Basestation
- - [https://basestation.nz](https://basestation.nz)
- - date_published: 2024-05-01T03:59:39.684143+00:00
-
- ## Subscribe to our Newsletters
- - [https://lists.basestation.nz](https://lists.basestation.nz)
- - date_published: 2024-06-15T17:33:27.098394+00:00
-
- ## Basestation Coworking
- - [https://my.basestation.nz](https://my.basestation.nz)
- - date_published: 2024-06-15T17:33:19.719568+00:00
-
- ## Bike Stop
- - [https://my.bikestop.nz](https://my.bikestop.nz)
- - date_published: 2024-06-15T17:33:21.811977+00:00
-
- ## Ton's blog
- - [https://boele.nz](https://boele.nz)
- - date_published: 2023-09-16T07:59:45+00:00
-
- ## Brigada
- - [https://brigada.nz](https://brigada.nz)
- - date_published: 2024-02-27T03:49:04+00:00
-
- ## dinosaur
- - [https://dinosaur.butt.nz](https://dinosaur.butt.nz)
- - date_published: 2024-06-18T16:09:35.645391+00:00
-
- ## canterburystories.nz
- - [https://canterburystories.nz](https://canterburystories.nz)
- - date_published: 2024-05-08T05:15:40.231988+00:00
-
- ## The only cloud computing provider that’s made of NZ | IaaS and PaaS
- - [https://catalystcloud.nz](https://catalystcloud.nz)
- - date_published: 2024-06-26T22:39:53.012346+00:00
-
- ## Christchurch Freediving Club
- - [https://chchfreediving.nz](https://chchfreediving.nz)
- - date_published: 2023-11-01T01:14:40+00:00
-
- ## ChoiceCheapies
- - [https://www.cheapies.nz](https://www.cheapies.nz)
- - date_published: 2024-10-28T00:29:34+00:00
-
- ## A City for People | Substack
- - [https://cityforpeople.nz](https://cityforpeople.nz)
- - date_published: 2024-10-31T22:48:04.315950+00:00
-
- ## Clix Concepts
- - [https://clix.nz](https://clix.nz)
- - date_published: 2024-06-13T21:27:39.748704+00:00
-
- ## Cloud Island
- - [https://cloudisland.nz](https://cloudisland.nz)
- - date_published: 2023-10-25T20:51:13.906554+00:00
-
- ## Free Online CV Builder (NZ): Make a Custom Job Winning CV
- - [https://cvapp.nz](https://cvapp.nz)
- - date_published: 2024-05-06T09:21:23.893924+00:00
-
- ## CVapp.nz FAQ
- - [https://help.cvapp.nz](https://help.cvapp.nz)
- - date_published: 2024-06-22T22:11:35.678011+00:00
-
- ## Dave Lane
- - [https://davelane.nz](https://davelane.nz)
- - date_published: 2024-05-09T08:02:27.382259+00:00
-
- ## Degrowth Aotearoa New Zealand
- - [https://www.degrowth.nz](https://www.degrowth.nz)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Democracy Project
- - [https://democracyproject.nz](https://democracyproject.nz)
- - date_published: 2024-10-31T22:49:21.176288+00:00
-
- ## Home - Digital Identity New Zealand
- - [https://digitalidentity.nz](https://digitalidentity.nz)
- - date_published: 2024-07-22T11:20:26.612012+00:00
-
- ## Director – Athlete Management System
- - [https://director.nz](https://director.nz)
- - date_published: 2024-06-27T15:11:18.484325+00:00
-
- ## discoverywall.nz
- - [https://discoverywall.nz](https://discoverywall.nz)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Jack Dunn
- - [http://jack.dunn.nz](http://jack.dunn.nz)
- - date_published: 2024-08-02T18:47:06.949132+00:00
-
- ## Effective Altruism New Zealand
- - [https://effectivealtruism.nz](https://effectivealtruism.nz)
- - date_published: 2024-05-10T05:58:48.112956+00:00
-
- ## Home || Eiara Limited - Sustainable DevOps
- - [https://eiara.nz](https://eiara.nz)
- - date_published: 2022-12-11T03:58:04+00:00
-
- ## eli's website
- - [https://eli.nz](https://eli.nz)
- - date_published: 2024-06-16T06:01:29+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.enoki.nz](https://analytics.enoki.nz)
- - date_published: 2024-05-04T08:56:33.527622+00:00
-
- ## Plausible · Web analytics
- - [https://stats.enoki.nz](https://stats.enoki.nz)
- - date_published: 2024-10-28T01:02:23.322758+00:00
-
- ## Fabrum | Liquid Hydrogen Systems
- - [https://fabrum.nz](https://fabrum.nz)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Home | FediServices.nz
- - [https://fediservices.nz](https://fediservices.nz)
- - date_published: 2023-08-19T00:00:00+00:00
-
- ## NZ Fedi Services
- - [https://status.fediservices.nz](https://status.fediservices.nz)
- - date_published: 2024-04-30T08:13:19.427358+00:00
-
- ## Fireballs Aotearoa
- - [http://fireballs.nz](http://fireballs.nz)
- - date_published: 2024-06-15T04:16:57.716888+00:00
-
- ## For Purpose
- - [https://www.forpurpose.nz](https://www.forpurpose.nz)
- - date_published: 2024-07-15T03:20:23.891529+00:00
-
- ## Good Buzz Kombucha | Authentically made in Tauranga
- - [https://goodbuzz.nz](https://goodbuzz.nz)
- - date_published: 2024-06-15T10:12:48.423183+00:00
-
- ## Software engineering and technical management coach | Ben Gracewood
- - [https://ben.gracewood.nz](https://ben.gracewood.nz)
- - date_published: 2024-06-29T21:20:32.022753+00:00
-
- ## Welcome | Advanced R
- - [https://adv-r.hadley.nz](https://adv-r.hadley.nz)
- - date_published: 2024-06-15T18:11:05.598297+00:00
-
- ## Hadley Wickham
- - [http://hadley.nz](http://hadley.nz)
- - date_published: 2024-05-31T21:43:55+00:00
-
- ## R for Data Science (2e)
- - [https://r4ds.hadley.nz](https://r4ds.hadley.nz)
- - date_published: 2024-09-09T22:26:03.154547+00:00
-
- ## Home - Halo Guarantees Limited
- - [https://halo.nz](https://halo.nz)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## Marketing & Advertising | Media & Web | Harvey Cameron
- - [https://www.harveycameron.nz](https://www.harveycameron.nz)
- - date_published: 2022-11-13T02:47:41+00:00
-
- ## Watch Anime Online, Free Anime Streaming Online on HiAnime.to Anime Website
- - [https://hianime.nz](https://hianime.nz)
- - date_published: 2024-11-12T17:31:13.082268+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.nz](https://hostico.nz)
- - date_published: 2024-06-16T14:56:51.756364+00:00
-
- ## InternetNZ Technical Documentation — InternetNZ Product Documentation 8.0a1 documentation
- - [https://docs.internetnz.nz](https://docs.internetnz.nz)
- - date_published: 2024-08-06T22:58:14+00:00
-
- ## Home » InternetNZ
- - [https://internetnz.nz](https://internetnz.nz)
- - date_published: 2023-10-25T20:51:16.741237+00:00
-
- ## InternetNZ Status
- - [https://status.internetnz.nz](https://status.internetnz.nz)
- - date_published: 2023-10-25T20:51:22.956753+00:00
-
- ## Sign in - Matomo
- - [https://matomo.iridescent.nz](https://matomo.iridescent.nz)
- - date_published: 2024-07-02T19:04:25.273768+00:00
-
- ## Home
- - [https://israelinstitute.nz](https://israelinstitute.nz)
- - date_published: 2024-10-21T22:07:35+00:00
-
- ## is this it?
- - [https://isthisit.nz](https://isthisit.nz)
- - date_published: 2023-10-25T20:51:24.181241+00:00
-
- ## IT Professionals NZ
- - [https://itp.nz](https://itp.nz)
- - date_published: 2024-06-26T22:40:12.029235+00:00
-
- ## Jeremy Baker
- - [https://jeremybaker.nz](https://jeremybaker.nz)
- - date_published: 2024-07-26T22:39:22+00:00
-
- ## JLL | Commercial Property Sale & Trusted Leasing Company NZ
- - [https://www.jll.nz](https://www.jll.nz)
- - date_published: 2024-10-30T21:40:14.123130+00:00
-
- ## Kea Database
- - [https://keadatabase.nz](https://keadatabase.nz)
- - date_published: 2024-06-23T17:21:02.678915+00:00
-
- ## Corporate Catering Tauranga | Kex Catering | Mount Maunganui
- - [http://www.kex.nz](http://www.kex.nz)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## KissCartoon - Watch cartoon online free - English cartoon high quality
- - [https://kisscartoon.nz](https://kisscartoon.nz)
- - date_published: 2024-11-12T17:22:22.988218+00:00
-
- ## KiwiSDR NZ Store
- - [https://kiwisdr.nz](https://kiwisdr.nz)
- - date_published: 2024-08-10T23:52:26.785580+00:00
-
- ## Free Spins No Deposit NZ 🎖️ July 2024
- - [https://kiwislots.nz](https://kiwislots.nz)
- - date_published: 2024-07-15T11:27:44+00:00
-
- ## Kor - Loading
- - [https://kor.nz](https://kor.nz)
- - date_published: 2024-08-07T23:59:38.755128+00:00
-
- ## Daniel Mason
- - [https://m2.nz](https://m2.nz)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Magnificent Forgejo: Beyond gorgeous coding. We forge magnificently.
- - [https://forge.magnificent.nz](https://forge.magnificent.nz)
- - date_published: 2024-07-10T07:46:23.322899+00:00
-
- ## Maimoa Creative
- - [https://maimoa.nz](https://maimoa.nz)
- - date_published: 2024-08-06T03:01:24.825298+00:00
-
- ## Mastodon NZ
- - [https://mastodon.nz](https://mastodon.nz)
- - date_published: 2024-04-30T06:57:38.186050+00:00
-
- ## Welcome! - Matt Brown
- - [https://mattb.nz](https://mattb.nz)
- - date_published: 2023-10-25T20:51:25.148571+00:00
-
- ## Tim McNamara (@timClicks)
- - [https://tim.mcnamara.nz](https://tim.mcnamara.nz)
- - date_published: 2023-10-25T20:51:26.754354+00:00
-
- ## 401 Authorization Required
- - [https://cms2.mega.nz](https://cms2.mega.nz)
- - date_published: 2021-05-26T13:35:54+00:00
-
- ## MEGA
- - [https://mega.nz](https://mega.nz)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Constant Meiring
- - [https://constant.meiring.nz](https://constant.meiring.nz)
- - date_published: 2023-10-25T20:51:27.602839+00:00
-
- ## domain name services - Metaname
- - [https://metaname.nz](https://metaname.nz)
- - date_published: 2024-10-06T17:47:29.605586+00:00
-
- ## Sign in - Matomo
- - [https://analytics.mikey.nz](https://analytics.mikey.nz)
- - date_published: 2024-05-02T13:44:55.759703+00:00
-
- ## Life as a solarpunk hacker
- - [https://blog.mikey.nz](https://blog.mikey.nz)
- - date_published: 2023-06-01T00:00:00+00:00
-
- ## 😺🎉 Mikey Williams ☀️🌈
- - [https://cv.mikey.nz](https://cv.mikey.nz)
- - date_published: 2024-06-18T16:09:36.251850+00:00
-
- ## Mikey (@ahdinosaur)
- - [https://mikey.nz](https://mikey.nz)
- - date_published: 2024-06-18T16:09:32.808122+00:00
- - tags: ['personal']
-
- ## Ngahere Communities
- - [https://www.ngaherecommunities.nz](https://www.ngaherecommunities.nz)
- - date_published: 2024-08-06T03:01:39.290512+00:00
-
- ## 2023 NZCB AGM, Conference & Expo
- - [https://events.nzcb.nz](https://events.nzcb.nz)
- - date_published: 2024-06-15T17:21:49.305878+00:00
-
- ## NZCB - New Zealand Certified Builders
- - [https://nzcb.nz](https://nzcb.nz)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## NZOSS Rocket.Chat
- - [https://chat.nzoss.nz](https://chat.nzoss.nz)
- - date_published: 2024-07-10T07:46:30.445066+00:00
-
- ## Sign in · GitLab
- - [https://git.nzoss.nz](https://git.nzoss.nz)
- - date_published: 2024-07-10T07:46:08.053422+00:00
-
- ## Mastodon - NZOSS
- - [https://mastodon.nzoss.nz](https://mastodon.nzoss.nz)
- - date_published: 2024-07-10T07:46:39.845251+00:00
-
- ## NZ Super Fund - Home
- - [https://nzsuperfund.nz](https://nzsuperfund.nz)
- - date_published: 2014-05-20T11:40:11+00:00
-
- ## Power Company NZ | Electricity NZ | Octopus Energy NZ
- - [https://octopusenergy.nz](https://octopusenergy.nz)
- - date_published: 2024-06-18T12:39:03.154472+00:00
-
- ## One Good Kiwi
- - [https://onegoodkiwi.one.nz](https://onegoodkiwi.one.nz)
- - date_published: 2024-05-27T04:30:39+00:00
-
- ## Mobile made for you. One NZ.
- - [https://one.nz](https://one.nz)
- - date_published: 2023-10-27T12:06:21.792668+00:00
-
- ## One Pin - One NZ
- - [https://onepin.one.nz](https://onepin.one.nz)
- - date_published: 2024-07-25T00:09:47+00:00
-
- ## Trade-in your old mobile phone with us. One NZ.
- - [https://tradein.one.nz](https://tradein.one.nz)
- - date_published: 2024-08-18T15:36:59.082064+00:00
-
- ## All Netflix movies and series - OnNetflix.nz
- - [https://www.onnetflix.nz](https://www.onnetflix.nz)
- - date_published: 2024-09-02T11:18:00.735492+00:00
-
- ## A new system for open government - Designing an Open Government System for NZ
- - [https://opengovt.nz](https://opengovt.nz)
- - date_published: 2024-10-29T19:36:47.835283+00:00
-
- ## Organon Architecture | Creating Your Unique Home
- - [https://www.organonarchitecture.nz](https://www.organonarchitecture.nz)
- - date_published: 2024-10-31T22:40:32.336308+00:00
-
- ## PERI New Zealand
- - [https://www.peri.nz](https://www.peri.nz)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## PHP development, support and maintenance | Albany, Auckland
- - [https://phplab.nz](https://phplab.nz)
- - date_published: 2024-05-10T05:32:52.729257+00:00
-
- ## Pinterest
- - [https://pinterest.nz](https://pinterest.nz)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## pixelfed.nz
- - [https://pixelfed.nz](https://pixelfed.nz)
- - date_published: 2024-07-10T09:15:59.399090+00:00
-
- ## Home - Plain Sight
- - [https://plainsight.nz](https://plainsight.nz)
- - date_published: 2024-10-31T22:38:11.032028+00:00
-
- ## purplecon
- - [https://purplecon.nz](https://purplecon.nz)
- - date_published: 2024-05-02T13:57:43.097671+00:00
-
- ## RailsBridge Wellington 2018 | RailsBridge Wellington 2018
- - [http://railsbridge.nz](http://railsbridge.nz)
- - date_published: 2021-09-11T17:29:07+00:00
-
- ## Matiu Te Huki - Rainbow Warrior
- - [https://rainbowwarrior.nz](https://rainbowwarrior.nz)
- - date_published: 2024-09-12T19:18:23.632732+00:00
-
- ## Reading Ambassador
- - [https://readingambassador.nz](https://readingambassador.nz)
- - date_published: 2024-09-09T21:20:43.438762+00:00
-
- ## Marketing Blog - releva.nz
- - [https://blog.releva.nz](https://blog.releva.nz)
- - date_published: 2024-08-06T19:57:31+00:00
-
- ## releva.nz
- - [https://frontend.releva.nz](https://frontend.releva.nz)
- - date_published: 2024-07-23T08:07:47+00:00
-
- ## Hilfe-Center
- - [https://help.releva.nz](https://help.releva.nz)
- - date_published: 2024-08-09T07:33:26+00:00
-
- ## releva.nz App: Conversion Rate bis 12%
- - [https://releva.nz](https://releva.nz)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Welcome!
- - [https://chat.retro-freedom.nz](https://chat.retro-freedom.nz)
- - date_published: 2018-01-12T07:32:40+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://media.rnztools.nz](https://media.rnztools.nz)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Scan Space NZ
- - [https://scanspace.nz](https://scanspace.nz)
- - date_published: 2024-07-19T18:09:20.011579+00:00
-
- ## Scratch | Website Design Auckland | Digital Agency in Ponsonby
- - [http://scratchdigital.nz](http://scratchdigital.nz)
- - date_published: 2024-07-18T23:58:58+00:00
-
- ## scuttle-camp one
- - [https://one.camp.scuttlebutt.nz](https://one.camp.scuttlebutt.nz)
- - date_published: 2019-01-14T02:04:53+00:00
-
- ## Scuttlebutt social network: a decentralised platform
- - [https://scuttlebutt.nz](https://scuttlebutt.nz)
- - date_published: 2023-03-10T08:29:14+00:00
-
- ## Mission-Critical Software, DevOps, Advice & Support - SECTION6
- - [https://section6.nz](https://section6.nz)
- - date_published: 2024-06-26T22:40:06.807041+00:00
-
- ## Serena Chen
- - [https://serena.nz](https://serena.nz)
- - date_published: 2024-01-11T12:23:11.834075+00:00
-
- ## Car rental & Hire - SIXT New Zealand
- - [https://sixt.nz](https://sixt.nz)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## sk4nz
- - [https://www.sk4.nz](https://www.sk4.nz)
- - date_published: 2024-09-12T09:51:18.815573+00:00
- - tags: ['personal']
-
- ## Directory
- - [https://directory.sloop.nz](https://directory.sloop.nz)
- - date_published: 2024-06-20T21:58:13+00:00
-
- ## Software Innovation NZ – The software research network for New Zealand
- - [https://softwareinnovation.nz](https://softwareinnovation.nz)
- - date_published: 2024-09-30T12:39:40+00:00
-
- ## Te Awamutu Space Centre
- - [https://spacecentre.nz](https://spacecentre.nz)
- - date_published: 2023-10-25T20:51:43.027687+00:00
-
- ## Welcome to Techdox Docs
- - [https://docs.techdox.nz](https://docs.techdox.nz)
- - date_published: 2024-07-04T07:02:57.165964+00:00
-
- ## Torrentz2 Search Engine | The Best Torrent Search Engine
- - [https://torrentz2.nz](https://torrentz2.nz)
- - date_published: 2024-11-08T12:10:03.677380+00:00
-
- ## Totentanz - About
- - [https://totenta.nz](https://totenta.nz)
- - date_published: 2021-04-24T11:25:18+00:00
-
- ## Used Trucks NZ
- - [https://www.usedtrucks.nz](https://www.usedtrucks.nz)
- - date_published: 2024-09-18T18:41:21+00:00
-
- ## Webprecision - Achieve the online presence you deserve.
- - [https://webprecision.nz](https://webprecision.nz)
- - date_published: 2023-06-14T02:24:25+00:00
-
- ## WEBSAM.NZ |
- - [https://websam.nz](https://websam.nz)
- - date_published: 2024-02-14T08:43:34.578551+00:00
- - tags: ['personal']
-
- ## Webshop - Webstock Webshop
- - [https://webstock.nz](https://webstock.nz)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## The Whakataki Times | Trusted news that's important
- - [https://whakatakitimes.nz](https://whakatakitimes.nz)
- - date_published: 2024-10-31T22:50:34.564853+00:00
-
- ## WhereTheyStand
- - [https://wheretheystand.nz](https://wheretheystand.nz)
- - date_published: 2024-10-29T19:37:05.530682+00:00
-
- ## Winston
- - [https://winston.nz](https://winston.nz)
- - date_published: 2024-05-12T05:30:27.449357+00:00
-
- ## Tō Reo — your Māori spellchecker
- - [https://xn--treo-l3a.nz](https://xn--treo-l3a.nz)
- - date_published: 2024-09-20T12:30:11+00:00
-
- ## Homepage | 28 Māori Battalion
- - [https://www.28maoribattalion.org.nz](https://www.28maoribattalion.org.nz)
- - date_published: 2024-09-07T22:10:21+00:00
-
- ## Asia Media Centre | Helping New Zealand media cover Asia
- - [https://asiamediacentre.org.nz](https://asiamediacentre.org.nz)
- - date_published: 2023-10-25T20:51:53.621097+00:00
-
- ## Asia New Zealand Foundation
- - [https://asianz.org.nz](https://asianz.org.nz)
- - date_published: 2024-10-28T08:40:14.035275+00:00
-
- ## Home
- - [https://fundraise.bcf.org.nz](https://fundraise.bcf.org.nz)
- - date_published: 2024-10-14T18:20:24.597218+00:00
-
- ## Welcome to BlockchainNZ - Blockchain NZ | Representing the Blockchain Ecosystem
- - [https://blockchain.org.nz](https://blockchain.org.nz)
- - date_published: 2024-09-30T19:43:48.968167+00:00
-
- ## Homepage
- - [https://bowelcancerfoundation.org.nz](https://bowelcancerfoundation.org.nz)
- - date_published: 2024-05-08T03:36:12.851119+00:00
-
- ## CAPE Homepage - CAPE
- - [https://cape.org.nz](https://cape.org.nz)
- - date_published: 2024-07-24T03:16:47.392918+00:00
-
- ## Christ Church Cathedral Rebuild | Reinstatement Project
- - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
- - date_published: 2021-08-20T01:27:26+00:00
-
- ## My Playlist
- - [https://circuit.org.nz](https://circuit.org.nz)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Terry Stewart's (Tezza's) Webzone for Classic Computers
- - [https://classic-computers.org.nz](https://classic-computers.org.nz)
- - date_published: 2024-01-27T00:52:33+00:00
-
- ## CCG | The end is not nigh.
- - [https://climateconversation.org.nz](https://climateconversation.org.nz)
- - date_published: 2024-06-15T09:05:33.141087+00:00
-
- ## Blog
- - [http://www.climatescience.org.nz](http://www.climatescience.org.nz)
- - date_published: 2019-03-28T00:00:00+00:00
-
- ## Campaigns & advocacy - Consumer NZ
- - [https://campaigns.consumer.org.nz](https://campaigns.consumer.org.nz)
- - date_published: 2024-10-28T08:39:34.840130+00:00
-
- ## Consumer NZ | Expert product tests, research and advocacy
- - [https://www.consumer.org.nz](https://www.consumer.org.nz)
- - date_published: 2024-06-19T08:16:48.218427+00:00
-
- ## Cryptocurrency NZ - New Zealand Crypto Community & Guide
- - [https://cryptocurrency.org.nz](https://cryptocurrency.org.nz)
- - date_published: 2020-07-21T20:24:34+00:00
-
- ## David Miscavige Scientology Ecclesiastical Leader
- - [http://www.davidmiscavige.org.nz](http://www.davidmiscavige.org.nz)
- - date_published: 2024-09-04T17:54:09.296252+00:00
-
- ## Diabetes New Zealand
- - [http://diabetes.org.nz](http://diabetes.org.nz)
- - date_published: 2024-07-19T23:16:33.325225+00:00
-
- ## The Designers Institute of New Zealand
- - [http://www.dinz.org.nz](http://www.dinz.org.nz)
- - date_published: 2024-07-14T13:04:59.557915+00:00
-
- ## Information About Illegal Drugs & Alcohol Abuse - Drug-Free World
- - [http://www.drugfreeworld.org.nz](http://www.drugfreeworld.org.nz)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Family First NZ
- - [https://familyfirst.org.nz](https://familyfirst.org.nz)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Fightback Newsletter
- - [https://fightback.org.nz](https://fightback.org.nz)
- - date_published: 2024-05-07T19:07:20.002209+00:00
-
- ## FRED: New Zealand open-access and crowdsource database of fossil records
- - [https://fred.org.nz](https://fred.org.nz)
- - date_published: 2024-09-25T04:52:56+00:00
-
- ## Welcome to Opioid, USA
- - [https://www.freedom.org.nz](https://www.freedom.org.nz)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Index of /
- - [http://hlzmel.fsmg.org.nz](http://hlzmel.fsmg.org.nz)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Index of /
- - [http://wlglam.fsmg.org.nz](http://wlglam.fsmg.org.nz)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Giving - The University of Auckland
- - [https://www.givingtoauckland.org.nz](https://www.givingtoauckland.org.nz)
- - date_published: 2024-07-24T03:16:03.784354+00:00
-
- ## GOVIS | GOVIS Incorporated
- - [http://www.govis.org.nz](http://www.govis.org.nz)
- - date_published: 2024-07-19T05:12:03.582991+00:00
-
- ## Greater Auckland
- - [https://www.greaterauckland.org.nz](https://www.greaterauckland.org.nz)
- - date_published: 2024-10-29T19:37:49.874901+00:00
-
- ## HDRLab - Pure Research & Development | HDRLab
- - [http://hdrlab.org.nz](http://hdrlab.org.nz)
- - date_published: 2024-08-11T13:56:56.278308+00:00
-
- ## Genital Herpes & Cold Sore information from New Zealand Herpes Foundation
- - [https://www.herpes.org.nz](https://www.herpes.org.nz)
- - date_published: 2024-10-28T08:38:12.041123+00:00
-
- ## Heart Research Institute NZ • Donate to heart disease research charity • Heart Research Institute
- - [https://hri.org.nz](https://hri.org.nz)
- - date_published: 2024-05-09T05:52:55.306536+00:00
-
- ## New Zealand IPv6 Task Force |
- - [http://www.ipv6.org.nz](http://www.ipv6.org.nz)
- - date_published: 2019-02-11T04:34:06+00:00
-
- ## The Jane Goodall Institute New Zealand
- - [https://janegoodall.org.nz](https://janegoodall.org.nz)
- - date_published: 2024-04-30T06:49:12.443411+00:00
-
- ## LIANZA – People & communities connected & empowered by information
- - [https://lianza.org.nz](https://lianza.org.nz)
- - date_published: 2024-07-04T04:38:57+00:00
-
- ## Mental Health Support & Counselling
- - [https://www.lifeline.org.nz](https://www.lifeline.org.nz)
- - date_published: 2024-10-28T08:38:31.919568+00:00
-
- ## Living Wage Movement Aotearoa New Zealand
- - [https://www.livingwage.org.nz](https://www.livingwage.org.nz)
- - date_published: 2024-09-04T17:13:44.711394+00:00
-
- ## Loud Shirt Day | Hearing House NZ
- - [https://www.loudshirtday.org.nz](https://www.loudshirtday.org.nz)
- - date_published: 2024-09-18T19:01:44.680974+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.org.nz](https://www.lronhubbard.org.nz)
- - date_published: 2024-06-06T19:38:34.357268+00:00
-
- ## Lower the Voting Age | Make It 16
- - [https://makeit16.org.nz](https://makeit16.org.nz)
- - date_published: 2024-10-29T19:37:46.690682+00:00
-
- ## Home
- - [http://mmef.org.nz](http://mmef.org.nz)
- - date_published: 2024-10-31T22:51:06.374897+00:00
-
- ## Welcome to the audiovisual archive of Aotearoa New Zealand
- - [https://www.ngataonga.org.nz](https://www.ngataonga.org.nz)
- - date_published: 2024-11-12T17:13:49.868273+00:00
-
- ## New Zealander of the Year Awards
- - [https://nzawards.org.nz](https://nzawards.org.nz)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## NZ Council for Civil Liberties
- - [https://nzccl.org.nz](https://nzccl.org.nz)
- - date_published: 2024-10-29T19:37:26.117893+00:00
-
- ## New Zealand Open Source Awards
- - [https://nzosa.org.nz](https://nzosa.org.nz)
- - date_published: 2024-06-26T22:40:16.281487+00:00
- - tags: ['open source']
-
- ## Open Source Software
- - [http://nzoss.org.nz](http://nzoss.org.nz)
- - date_published: 2024-06-26T22:39:56.665664+00:00
-
- ## - NZRise
- - [http://nzrise.org.nz](http://nzrise.org.nz)
- - date_published: 2024-06-26T22:40:10.489184+00:00
-
- ## Open Doors - Serving Persecuted Christians Worldwide
- - [https://opendoors.org.nz](https://opendoors.org.nz)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home - Open Doors New Zealand
- - [https://secure.opendoors.org.nz](https://secure.opendoors.org.nz)
- - date_published: 2024-07-08T07:42:33+00:00
-
- ## Open Food Network
- - [https://openfoodnetwork.org.nz](https://openfoodnetwork.org.nz)
- - date_published: 2024-10-31T03:27:49.774444+00:00
-
- ## Ōtautahi Christchurch
- - [https://otautahi.org.nz](https://otautahi.org.nz)
- - date_published: 2024-08-10T23:07:51.095924+00:00
-
- ## OUSA
- - [https://www.ousa.org.nz](https://www.ousa.org.nz)
- - date_published: 2024-08-18T15:07:26.740328+00:00
-
- ## Oxfam Aotearoa
- - [https://www.oxfam.org.nz](https://www.oxfam.org.nz)
- - date_published: 2024-07-08T13:54:14.260663+00:00
-
- ## Thundering Herd
- - [http://blog.pearce.org.nz](http://blog.pearce.org.nz)
- - date_published: 2023-04-08T00:00:00+00:00
-
- ## The Physics Room
- - [https://physicsroom.org.nz](https://physicsroom.org.nz)
- - date_published: 2024-07-13T16:16:00.753479+00:00
-
- ## Powerswitch: Compare and find cheap energy plans
- - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
- - date_published: 2024-10-28T08:39:38.426513+00:00
-
- ## https://www.privacy.org.nz
- - [https://privacy.org.nz](https://privacy.org.nz)
- - date_published: 2024-01-09T03:38:02.730564+00:00
-
- ## Home | QEII National Trust
- - [https://qeiinationaltrust.org.nz](https://qeiinationaltrust.org.nz)
- - date_published: 2024-10-29T19:12:23.472919+00:00
-
- ## Royal Astronomical Society of New Zealand
- - [https://rasnz.org.nz](https://rasnz.org.nz)
- - date_published: 2024-09-16T06:21:56.597365+00:00
-
- ## Repair Network Aotearoa
- - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
- - date_published: 2024-05-29T20:28:15.667518+00:00
-
- ## New Zealand Republic
- - [http://www.republic.org.nz](http://www.republic.org.nz)
- - date_published: 2024-10-29T19:38:24.164931+00:00
-
- ## New Zealand Rheumatology Association
- - [https://www.rheumatology.org.nz](https://www.rheumatology.org.nz)
- - date_published: 2024-06-28T12:04:00.628983+00:00
-
- ## Seafriends home page
- - [http://www.seafriends.org.nz](http://www.seafriends.org.nz)
- - date_published: 2018-10-01T09:27:11+00:00
-
- ## Future website of splice.org.nz
- - [http://www.splice.org.nz](http://www.splice.org.nz)
- - date_published: 2024-07-04T06:19:29.422021+00:00
-
- ## Starship
- - [https://starship.org.nz](https://starship.org.nz)
- - date_published: 2024-07-19T23:16:46.276567+00:00
-
- ## Stats Chat
- - [https://www.statschat.org.nz](https://www.statschat.org.nz)
- - date_published: 2024-10-31T22:43:41.509664+00:00
-
- ## Hato Hone St John | Here for Life
- - [https://www.stjohn.org.nz](https://www.stjohn.org.nz)
- - date_published: 2024-08-18T21:20:15.795315+00:00
-
- ## takahē - Bringing literature and art from Aotearoa New Zealand to the world.
- - [https://takahe.org.nz](https://takahe.org.nz)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Welcome to the Divisional Websites of Freemasons New Zealand
- - [http://www.themasons.org.nz](http://www.themasons.org.nz)
- - date_published: 2023-01-29T00:47:16+00:00
-
- ## The Standard
- - [https://thestandard.org.nz](https://thestandard.org.nz)
- - date_published: 2024-10-31T22:40:30+00:00
-
- ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
- - [http://www.thewaytohappiness.org.nz](http://www.thewaytohappiness.org.nz)
- - date_published: 2024-09-04T17:54:11.460356+00:00
-
- ## Manaaki Tāngata | Victim Support
- - [http://www.victimsupport.org.nz](http://www.victimsupport.org.nz)
- - date_published: 2024-10-25T01:36:41+00:00
-
- ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [http://www.volunteerministers.org.nz](http://www.volunteerministers.org.nz)
- - date_published: 2024-09-04T17:54:05.471217+00:00
-
- ## WasteNet Southland
- - [https://www.wastenet.org.nz](https://www.wastenet.org.nz)
- - date_published: 2024-02-08T17:46:48.890625+00:00
-
- ## Home - Webstock
- - [https://webstock.org.nz](https://webstock.org.nz)
- - date_published: 2024-05-11T10:54:26.727367+00:00
-
- ## Women's Refuge - Gift a Safe Night
- - [https://www.womensrefuge.org.nz](https://www.womensrefuge.org.nz)
- - date_published: 2024-10-20T11:44:32.811636+00:00
-
- ## Send a WWF Wildlife eCard
- - [https://wwf.org.nz](https://wwf.org.nz)
- - date_published: 2024-05-07T23:58:32.194496+00:00
-
- ## What Are Human Rights? Defined • Youth for Human Rights Campaign
- - [http://www.youthforhumanrights.org.nz](http://www.youthforhumanrights.org.nz)
- - date_published: 2024-09-04T17:54:03.840995+00:00
-
- ## Ombudsman New Zealand
- - [https://www.ombudsman.parliament.nz](https://www.ombudsman.parliament.nz)
- - date_published: 2024-10-29T18:45:24+00:00
-
- ## New Zealand Parliament home page - New Zealand Parliament
- - [https://www.parliament.nz](https://www.parliament.nz)
- - date_published: 2024-10-28T08:36:45.103977+00:00
-
- ## Browne School of Art | Auckland, NZ
- - [https://www.browne.school.nz](https://www.browne.school.nz)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Homepage - Scots College
- - [http://www.scotscollege.school.nz](http://www.scotscollege.school.nz)
- - date_published: 2024-09-05T17:24:41.898398+00:00
-
- ## Home – St Mark's School
- - [http://www.st-marks.school.nz](http://www.st-marks.school.nz)
- - date_published: 2024-09-05T02:33:51+00:00
-
- ## Home - Altcoin Observer
- - [https://altcoin.observer](https://altcoin.observer)
- - date_published: 2024-07-29T14:01:43+00:00
-
- ## corru.observer
- - [https://corru.observer](https://corru.observer)
- - date_published: 2024-06-23T18:33:11.915513+00:00
-
- ## Ian's blog | entropy.observer
- - [https://blog.entropy.observer](https://blog.entropy.observer)
- - date_published: 2023-10-25T20:51:56.441202+00:00
-
- ## The World's Largest Exploit & Vulnerability Database
- - [https://exploit.observer](https://exploit.observer)
- - date_published: 2024-04-30T05:57:32.690426+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://akkoma.fediverse.observer](https://akkoma.fediverse.observer)
- - date_published: 2024-07-18T05:38:29.648190+00:00
-
- ## Fediverse Observer | GraphiQL API
- - [https://api.fediverse.observer](https://api.fediverse.observer)
- - date_published: 2024-07-18T05:38:19.113861+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://bookwyrm.fediverse.observer](https://bookwyrm.fediverse.observer)
- - date_published: 2024-07-18T05:38:54.346368+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://bridgy-fed.fediverse.observer](https://bridgy-fed.fediverse.observer)
- - date_published: 2024-07-18T05:38:27.948048+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cdn.fediverse.observer](https://cdn.fediverse.observer)
- - date_published: 2024-07-18T05:38:47.227460+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cherrypick.fediverse.observer](https://cherrypick.fediverse.observer)
- - date_published: 2024-07-18T05:38:24.413993+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://cuculus.fediverse.observer](https://cuculus.fediverse.observer)
- - date_published: 2024-07-18T05:38:40.197160+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://diaspora.fediverse.observer](https://diaspora.fediverse.observer)
- - date_published: 2024-07-18T05:38:45.605174+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fedibird.fediverse.observer](https://fedibird.fediverse.observer)
- - date_published: 2024-07-18T05:38:38.581771+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://fediverse.observer](https://fediverse.observer)
- - date_published: 2024-07-08T17:37:29.834254+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://firefish.fediverse.observer](https://firefish.fediverse.observer)
- - date_published: 2024-07-18T05:38:26.077369+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://foundkey.fediverse.observer](https://foundkey.fediverse.observer)
- - date_published: 2024-07-18T05:38:49.165477+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://friendica.fediverse.observer](https://friendica.fediverse.observer)
- - date_published: 2024-07-18T05:38:14.109448+00:00
-
- ## Fediverse Observer checks all servers in the fediverse and gives you an easy way to find a home using a map or list.
- - [https://funkwhale.fediverse.observer](https://funkwhale.fediverse.observer)
- - date_published: 2024-07-18T05:38:09.047368+00:00
 

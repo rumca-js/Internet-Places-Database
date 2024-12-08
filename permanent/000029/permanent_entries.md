@@ -1,3 +1,27 @@
+ ## 广东省文化和旅游厅
+ - [http://whly.gd.gov.cn](http://whly.gd.gov.cn)
+ - date_published: 2024-06-30T19:32:16.833684+00:00
+
+ ## 广东省人民政府外事办公室
+ - [http://www.gdfao.gd.gov.cn](http://www.gdfao.gd.gov.cn)
+ - date_published: 2024-09-09T15:36:27.736799+00:00
+
+ ## 广东省人民政府门户网站
+ - [http://www.gd.gov.cn](http://www.gd.gov.cn)
+ - date_published: 2024-06-30T04:00:24.100826+00:00
+
+ ## 南粤清风网
+ - [http://www.gdjct.gd.gov.cn](http://www.gdjct.gd.gov.cn)
+ - date_published: 2024-06-30T14:03:06.041269+00:00
+
+ ## 广东省人民政府侨务办公室
+ - [http://www.qb.gd.gov.cn](http://www.qb.gd.gov.cn)
+ - date_published: 2024-06-30T20:39:04.429812+00:00
+
+ ## 广东省应急管理厅网站
+ - [http://yjgl.gd.gov.cn](http://yjgl.gd.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 广东省政务服务和数据管理局
  - [http://zfsg.gd.gov.cn](http://zfsg.gd.gov.cn)
  - date_published: 2024-10-21T05:52:49.363079+00:00
@@ -3977,28 +4001,4 @@
  ## 西藏自治区人民政府
  - [http://www.xizang.gov.cn](http://www.xizang.gov.cn)
  - date_published: 2024-06-30T15:38:51.441198+00:00
-
- ## 西藏自治区医疗保障局
- - [http://ylbzj.xizang.gov.cn](http://ylbzj.xizang.gov.cn)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 兵团发展和改革委员会（兵团粮食和物资储备局）
- - [http://btfgw.xjbt.gov.cn](http://btfgw.xjbt.gov.cn)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## 兵团工业和信息化局
- - [http://btgxj.xjbt.gov.cn](http://btgxj.xjbt.gov.cn)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## 兵团纪委监委
- - [http://btjw.xjbt.gov.cn](http://btjw.xjbt.gov.cn)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## 兵团外事办公室
- - [http://btwql.xjbt.gov.cn](http://btwql.xjbt.gov.cn)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## 兵团医疗保障局
- - [http://btybj.xjbt.gov.cn](http://btybj.xjbt.gov.cn)
- - date_published: 2024-06-30T13:32:51.611103+00:00
 

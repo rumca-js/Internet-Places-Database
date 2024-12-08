@@ -1,3 +1,152 @@
+ ## Michael Rosen
+ - [http://michaelrosenblog.blogspot.com](http://michaelrosenblog.blogspot.com)
+ - date_published: 2024-06-13T11:18:55+00:00
+
+ ## Eclipse and Java Blog by Michael Scharf
+ - [http://michaelscharf.blogspot.com](http://michaelscharf.blogspot.com)
+ - date_published: 2014-05-29T00:00:00+00:00
+
+ ## Nie znaleziono bloga
+ - [http://michael-schwarz.blogspot.com](http://michael-schwarz.blogspot.com)
+ - date_published: 2024-09-18T14:34:10.974669+00:00
+
+ ## focus on politics focus on sports
+ - [http://michalrachon.blogspot.com](http://michalrachon.blogspot.com)
+ - date_published: 2024-07-04T06:42:54+00:00
+
+ ## Michał Tyrpa
+ - [https://michaltyrpa.blogspot.com](https://michaltyrpa.blogspot.com)
+ - date_published: 2004-02-27T00:00:00+00:00
+
+ ## michas figuren
+ - [https://michasfiguren.blogspot.com](https://michasfiguren.blogspot.com)
+ - date_published: 2024-08-30T01:04:45+00:00
+
+ ## inspiration, etc...
+ - [http://micheleguieu.blogspot.com](http://micheleguieu.blogspot.com)
+ - date_published: 2024-02-21T03:47:53+00:00
+
+ ## Michelle's Spell
+ - [http://michellespells.blogspot.com](http://michellespells.blogspot.com)
+ - date_published: 2024-10-07T04:12:33+00:00
+
+ ## Michigentile's MicroWorld
+ - [http://michigentilesmicroworld.blogspot.com](http://michigentilesmicroworld.blogspot.com)
+ - date_published: 2024-10-21T09:17:32+00:00
+
+ ## Micko's WIP
+ - [https://micko-wip.blogspot.com](https://micko-wip.blogspot.com)
+ - date_published: 2024-02-19T11:40:38+00:00
+
+ ## Supervisor Mick Staton
+ - [http://mickstaton.blogspot.com](http://mickstaton.blogspot.com)
+ - date_published: 2024-03-13T02:18:17+00:00
+
+ ## Micky's Muses...from the Antipodes
+ - [http://mickysmuses.blogspot.com](http://mickysmuses.blogspot.com)
+ - date_published: 2024-06-08T14:42:14+00:00
+
+ ## Navi e altro in  miniatura
+ - [http://micronavi.blogspot.com](http://micronavi.blogspot.com)
+ - date_published: 2024-03-21T11:48:23+00:00
+
+ ## Hacking Microsoft Chat
+ - [http://microsoftchat.blogspot.com](http://microsoftchat.blogspot.com)
+ - date_published: 2024-08-13T19:59:03+00:00
+
+ ## Mid2Mod
+ - [http://mid2mod.blogspot.com](http://mid2mod.blogspot.com)
+ - date_published: 2024-07-17T23:02:51+00:00
+
+ ## From the Desk of Living Museum
+ - [https://midcenturylivingmuseum.blogspot.com](https://midcenturylivingmuseum.blogspot.com)
+ - date_published: 2024-07-04T06:10:46+00:00
+
+ ## Middenmurk
+ - [http://middenmurk.blogspot.com](http://middenmurk.blogspot.com)
+ - date_published: 2024-06-19T17:03:49+00:00
+
+ ## Middle East Analysis
+ - [http://middle-east-analysis.blogspot.com](http://middle-east-analysis.blogspot.com)
+ - date_published: 2024-03-23T10:13:41+00:00
+
+ ## In the MIDDLE of  the RIGHT
+ - [http://middleoftheright.blogspot.com](http://middleoftheright.blogspot.com)
+ - date_published: 2024-06-14T06:07:01+00:00
+
+ ## Middle Passages
+ - [http://middlepassages-lcs.blogspot.com](http://middlepassages-lcs.blogspot.com)
+ - date_published: 2024-07-09T06:00:00+00:00
+
+ ## The Middle Stage
+ - [http://middlestage.blogspot.com](http://middlestage.blogspot.com)
+ - date_published: 2024-06-10T18:33:16+00:00
+
+ ## Midgaard
+ - [http://middleyard.blogspot.com](http://middleyard.blogspot.com)
+ - date_published: 2024-02-07T03:57:16+00:00
+
+ ## MEI Editor's Blog
+ - [http://mideasti.blogspot.com](http://mideasti.blogspot.com)
+ - date_published: 2024-07-01T07:21:36+00:00
+
+ ## Mid-Life Gaming Crisis
+ - [http://midlifegamingcrisis.blogspot.com](http://midlifegamingcrisis.blogspot.com)
+ - date_published: 2024-06-29T11:07:23+00:00
+
+ ## Burning the Midnight Oil ...
+ - [https://midnight-populist.blogspot.com](https://midnight-populist.blogspot.com)
+ - date_published: 2024-04-21T11:19:52+00:00
+
+ ## The Midnight Rant
+ - [http://midnight-rant.blogspot.com](http://midnight-rant.blogspot.com)
+ - date_published: 2024-09-03T09:51:02+00:00
+
+ ## INKSPOT Crime Fiction Blog | A Place for Mystery, Mayhem, Writing and Life
+ - [http://midnightwriters.blogspot.com](http://midnightwriters.blogspot.com)
+ - date_published: 2024-10-17T23:05:01.853136+00:00
+
+ ## Escape from: Oppression in the Midwest
+ - [http://midwestoppression.blogspot.com](http://midwestoppression.blogspot.com)
+ - date_published: 2024-03-13T20:42:47+00:00
+
+ ## Sears Houses in the Midwest
+ - [https://midwestsearshouses.blogspot.com](https://midwestsearshouses.blogspot.com)
+ - date_published: 2024-04-29T02:56:56.796572+00:00
+
+ ## Kevin Kidney
+ - [http://miehana.blogspot.com](http://miehana.blogspot.com)
+ - date_published: 2024-08-08T01:38:00+00:00
+
+ ## Miette
+ - [http://miettecakes.blogspot.com](http://miettecakes.blogspot.com)
+ - date_published: 2024-07-21T11:12:47+00:00
+
+ ## The Grumpy Old Troll
+ - [http://migellito.blogspot.com](http://migellito.blogspot.com)
+ - date_published: 2024-06-07T01:07:36+00:00
+
+ ## Mighty Thews and Non-Euclidean Geometry
+ - [http://mightythews.blogspot.com](http://mightythews.blogspot.com)
+ - date_published: 2024-05-20T05:19:12+00:00
+
+ ## Mighty Vision
+ - [http://mightyvision.blogspot.com](http://mightyvision.blogspot.com)
+ - date_published: 2024-10-17T22:00:41.081337+00:00
+
+ ## Migo Brain Soup
+ - [http://migobrainsoup.blogspot.com](http://migobrainsoup.blogspot.com)
+ - date_published: 2024-03-19T05:02:07+00:00
+
+ ## Boltguns, Bashers and Brushes
+ - [http://mikedthreeb.blogspot.com](http://mikedthreeb.blogspot.com)
+ - date_published: 2024-08-31T14:44:06+00:00
+
+ ## Code rant
+ - [https://mikehadlow.blogspot.com](https://mikehadlow.blogspot.com)
+ - date_published: 2023-10-25T09:09:48.126384+00:00
+ - tags: ['personal']
+
  ## Working notes
  - [http://mikejohnduff.blogspot.com](http://mikejohnduff.blogspot.com)
  - date_published: 2024-02-07T05:39:30+00:00
@@ -3369,6 +3518,10 @@
  - [http://opensourceknowledge.blogspot.com](http://opensourceknowledge.blogspot.com)
  - date_published: 2024-03-13T19:09:12+00:00
 
+ ## Open Source Software and Windows 32-bit
+ - [http://opensourcepack.blogspot.com](http://opensourcepack.blogspot.com)
+ - date_published: 2024-12-06T19:04:27+00:00
+
  ## Opera Buffo
  - [http://operabuffo.blogspot.com](http://operabuffo.blogspot.com)
  - date_published: 2024-10-17T22:55:34.551969+00:00
@@ -3865,156 +4018,4 @@
  ## Paint Machine
  - [https://paintmachine.blogspot.com](https://paintmachine.blogspot.com)
  - date_published: 2024-03-13T15:51:33+00:00
-
- ## Slowly Over a Low Flame
- - [http://paintpigdave.blogspot.com](http://paintpigdave.blogspot.com)
- - date_published: 2024-10-02T17:15:15+00:00
-
- ## Paint Pot Procrastinator
- - [http://paintpotprocrastinator.blogspot.com](http://paintpotprocrastinator.blogspot.com)
- - date_published: 2024-10-25T22:46:58+00:00
-
- ## Paints and stuff
- - [http://paintsandstuff.blogspot.com](http://paintsandstuff.blogspot.com)
- - date_published: 2024-09-21T22:15:31+00:00
-
- ## Nord's Painting Saga
- - [https://paintsngluenrocknroll.blogspot.com](https://paintsngluenrocknroll.blogspot.com)
- - date_published: 2024-06-16T17:38:38+00:00
-
- ## Paints, Pencils and Plastics
- - [http://paintspencilsandplastics.blogspot.com](http://paintspencilsandplastics.blogspot.com)
- - date_published: 2024-04-21T11:21:45+00:00
-
- ## Paint Splats
- - [http://paintsplats.blogspot.com](http://paintsplats.blogspot.com)
- - date_published: 2024-07-04T06:01:12+00:00
-
- ## PALEtte
- - [https://paintsquig.blogspot.com](https://paintsquig.blogspot.com)
- - date_published: 2023-11-06T00:00:00+00:00
-
- ## Forged at a Painting Desk
- - [http://paintstationforge.blogspot.com](http://paintstationforge.blogspot.com)
- - date_published: 2024-09-02T08:04:43+00:00
-
- ## paintXdestroy
- - [http://paintxdestroy.blogspot.com](http://paintxdestroy.blogspot.com)
- - date_published: 2024-09-13T20:13:05+00:00
-
- ## Paint your Toys
- - [http://paintyourtoys.blogspot.com](http://paintyourtoys.blogspot.com)
- - date_published: 2024-10-07T05:40:33+00:00
-
- ## Palabres, Bricoles et autres Songes
- - [https://palabres-et-songes.blogspot.com](https://palabres-et-songes.blogspot.com)
- - date_published: 2024-10-25T22:42:50+00:00
-
- ## The Steps of the Palace
- - [http://palacesteps.blogspot.com](http://palacesteps.blogspot.com)
- - date_published: 2004-02-24T00:00:00+00:00
-
- ## Nie znaleziono bloga
- - [http://paladin-guide.blogspot.com](http://paladin-guide.blogspot.com)
- - date_published: 2024-09-06T20:45:51.947399+00:00
-
- ## PALAEOBLOG
- - [http://palaeoblog.blogspot.com](http://palaeoblog.blogspot.com)
- - date_published: 2024-03-19T22:23:03+00:00
-
- ## the pale coin
- - [http://palecoin.blogspot.com](http://palecoin.blogspot.com)
- - date_published: 2024-03-13T11:18:40+00:00
-
- ## Dinochick Blogs
- - [http://paleochick.blogspot.com](http://paleochick.blogspot.com)
- - date_published: 2024-10-19T05:15:16.766132+00:00
-
- ## PaleoCon Command Center
- - [http://paleoconcommandcenter.blogspot.com](http://paleoconcommandcenter.blogspot.com)
- - date_published: 2024-02-07T18:06:37+00:00
-
- ## Paleo-Future
- - [http://paleo-future.blogspot.com](http://paleo-future.blogspot.com)
- - date_published: 2024-09-14T18:25:30+00:00
-
- ## Paleoglot
- - [https://paleoglot.blogspot.com](https://paleoglot.blogspot.com)
- - date_published: 2024-05-07T21:54:34.038344+00:00
-
- ## PaleoJudaica.com
- - [https://paleojudaica.blogspot.com](https://paleojudaica.blogspot.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Paleo Runners
- - [http://paleorunners.blogspot.com](http://paleorunners.blogspot.com)
- - date_published: 2024-09-17T01:59:17+00:00
-
- ## Palestinian Pundit
- - [http://palestinianpundit.blogspot.com](http://palestinianpundit.blogspot.com)
- - date_published: 2024-10-21T16:43:38.305964+00:00
-
- ## PaleXO
- - [http://palexo.blogspot.com](http://palexo.blogspot.com)
- - date_published: 2024-07-04T06:02:46+00:00
-
- ## Palladian Guard
- - [http://palladian-guard.blogspot.com](http://palladian-guard.blogspot.com)
- - date_published: 2024-10-09T18:01:02+00:00
-
- ## Palmetto Pundit
- - [http://palmettopundit.blogspot.com](http://palmettopundit.blogspot.com)
- - date_published: 2024-03-07T23:24:18+00:00
-
- ## Palouse Wargaming Journal
- - [https://palousewargamingjournal.blogspot.com](https://palousewargamingjournal.blogspot.com)
- - date_published: 2024-07-19T23:45:45+00:00
-
- ## The Pancake Proverbs
- - [http://pancakeproverbs.blogspot.com](http://pancakeproverbs.blogspot.com)
- - date_published: 2024-03-05T08:02:09+00:00
-
- ## Pandamonium - Resurrection
- - [http://pandamonium-resurrection.blogspot.com](http://pandamonium-resurrection.blogspot.com)
- - date_published: 2024-09-24T20:17:19+00:00
-
- ## Pangloss' Miniature Wargaming Blogspot
- - [http://pangloss40k.blogspot.com](http://pangloss40k.blogspot.com)
- - date_published: 2024-08-30T06:48:37+00:00
-
- ## Pani Bufetowa
- - [http://panibufetowa.blogspot.com](http://panibufetowa.blogspot.com)
- - date_published: 2023-12-08T16:07:44+00:00
-
- ## FS
- - [http://panicsonic.blogspot.com](http://panicsonic.blogspot.com)
- - date_published: 2024-05-11T00:27:25+00:00
-
- ## Pan Mieteg. (blog taki)
- - [http://panmietek.blogspot.com](http://panmietek.blogspot.com)
- - date_published: 2024-04-14T03:24:19+00:00
-
- ## Paint-it-Pink
- - [https://panther6actual.blogspot.com](https://panther6actual.blogspot.com)
- - date_published: 2024-07-09T07:04:59+00:00
-
- ## Pants On Fire
- - [https://pantsaflame.blogspot.com](https://pantsaflame.blogspot.com)
- - date_published: 2024-06-06T07:27:38.504269+00:00
-
- ## Cry Havoc!
- - [http://panzerde.blogspot.com](http://panzerde.blogspot.com)
- - date_published: 2024-07-04T05:44:23+00:00
-
- ## PanzerKaput's Painted Review
- - [https://panzerkaput.blogspot.com](https://panzerkaput.blogspot.com)
- - date_published: 2024-07-03T02:51:14+00:00
-
- ## Panzer March!
- - [https://panzermarch.blogspot.com](https://panzermarch.blogspot.com)
- - date_published: 2024-10-09T06:06:09+00:00
-
- ## Mr Papafakis
- - [https://papafakis.blogspot.com](https://papafakis.blogspot.com)
- - date_published: 2024-03-13T21:14:42+00:00
 

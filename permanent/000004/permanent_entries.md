@@ -1,3 +1,7 @@
+ ## Wegic User Service Agreement | Terms of service
+ - [https://privacy.wegic.ai](https://privacy.wegic.ai)
+ - date_published: 2024-08-30T00:00:00+00:00
+
  ## Wegic | The first AI web designer & developer by your side.
  - [https://wegic.ai](https://wegic.ai)
  - date_published: 2024-06-14T08:53:31.371770+00:00
@@ -4015,8 +4019,4 @@
  ## Hands Time
  - [https://handstime.app](https://handstime.app)
  - date_published: 2024-07-09T19:01:00.181784+00:00
-
- ## Hansei - Chat with your Knowledgebase
- - [https://hansei.app](https://hansei.app)
- - date_published: 2023-10-25T11:46:38.618243+00:00
 

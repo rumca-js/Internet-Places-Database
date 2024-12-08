@@ -1,3 +1,413 @@
+ ## Dan Taberski
+ - [https://parakeet-mackerel-e7y9.squarespace.com](https://parakeet-mackerel-e7y9.squarespace.com)
+ - date_published: 2024-07-12T21:52:43.985469+00:00
+
+ ## Kimbra
+ - [https://parakeet-nectarine-ltkk.squarespace.com](https://parakeet-nectarine-ltkk.squarespace.com)
+ - date_published: 2024-05-04T09:41:45.388968+00:00
+
+ ## Pixar Animation Studios
+ - [https://parallax-pixar.squarespace.com](https://parallax-pixar.squarespace.com)
+ - date_published: 2024-05-06T23:19:52.988274+00:00
+
+ ## GD Video | Video Production Preston, Lancashire
+ - [https://parrotfish-algae-5a9f.squarespace.com](https://parrotfish-algae-5a9f.squarespace.com)
+ - date_published: 2024-06-20T01:48:17.791275+00:00
+
+ ## MATS Program
+ - [https://parrotfish-gecko-h3dr.squarespace.com](https://parrotfish-gecko-h3dr.squarespace.com)
+ - date_published: 2024-06-21T11:42:17.626716+00:00
+
+ ## Chelsea Hollow | Coloratura Soprano
+ - [https://parrotfish-tortoise-mgds.squarespace.com](https://parrotfish-tortoise-mgds.squarespace.com)
+ - date_published: 2024-07-09T17:26:36.512596+00:00
+
+ ## Opus Patent Pool
+ - [https://parsnip-tortoise-tsrm.squarespace.com](https://parsnip-tortoise-tsrm.squarespace.com)
+ - date_published: 2024-06-27T13:26:22.267217+00:00
+
+ ## Partners
+ - [https://partnerspodcast.squarespace.com](https://partnerspodcast.squarespace.com)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Party Qs - #1 Questions App for Conversation Starters
+ - [https://partyqs.squarespace.com](https://partyqs.squarespace.com)
+ - date_published: 2024-06-23T10:00:07.560291+00:00
+
+ ## Patrick Keefe – Designer + Leader + Fun Loving Irishman
+ - [http://patrick-keefe.squarespace.com](http://patrick-keefe.squarespace.com)
+ - date_published: 2024-08-18T09:39:56.885147+00:00
+
+ ## BlackBox
+ - [https://patrick-mcgowan-bwfc.squarespace.com](https://patrick-mcgowan-bwfc.squarespace.com)
+ - date_published: 2024-07-07T10:47:09.080978+00:00
+
+ ## Paul Layzell
+ - [https://paul-layzell.squarespace.com](https://paul-layzell.squarespace.com)
+ - date_published: 2024-09-14T23:09:02.211578+00:00
+
+ ## Paul Pedrazzi
+ - [https://paul-pedrazzi.squarespace.com](https://paul-pedrazzi.squarespace.com)
+ - date_published: 2024-05-06T22:40:28.801616+00:00
+
+ ## Paul Shipper Studio | Award Winning Film Poster Artist
+ - [https://paulshipper.squarespace.com](https://paulshipper.squarespace.com)
+ - date_published: 2024-07-09T23:16:14.748431+00:00
+
+ ## Pauls Valley
+ - [https://paulsvalley.squarespace.com](https://paulsvalley.squarespace.com)
+ - date_published: 2024-05-06T22:45:38.853636+00:00
+
+ ## Princejvstin Photography
+ - [https://paul-weimer-wzhl.squarespace.com](https://paul-weimer-wzhl.squarespace.com)
+ - date_published: 2024-06-19T09:44:20.155461+00:00
+
+ ## Publisher's Creative Systems
+ - [https://pcspublink.squarespace.com](https://pcspublink.squarespace.com)
+ - date_published: 2024-06-15T21:42:40.642626+00:00
+
+ ## Recipes that Make All Eaters Feel Great | Two Raw Sisters
+ - [https://pear-bulldog-dedg.squarespace.com](https://pear-bulldog-dedg.squarespace.com)
+ - date_published: 2024-10-28T11:53:09.677902+00:00
+
+ ## Ticket Buyer Bill of Rights
+ - [https://pear-perch-6ycy.squarespace.com](https://pear-perch-6ycy.squarespace.com)
+ - date_published: 2024-10-14T07:50:28.937885+00:00
+
+ ## The Pen Addict
+ - [https://penaddict.squarespace.com](https://penaddict.squarespace.com)
+ - date_published: 2024-06-29T20:27:55.984410+00:00
+
+ ## Red Shirt Jeff
+ - [https://penguin-bluebird-xh4g.squarespace.com](https://penguin-bluebird-xh4g.squarespace.com)
+ - date_published: 2024-06-02T05:21:54.548570+00:00
+
+ ## Nathan Pai Schmitt
+ - [https://pentagon-dachshund-hlnt.squarespace.com](https://pentagon-dachshund-hlnt.squarespace.com)
+ - date_published: 2024-08-18T08:46:24.207116+00:00
+
+ ## FOB Kitchen | Top Bay Area Filipino Restaurant | Queer Woman POC Owned
+ - [https://pentagon-guppy-trwc.squarespace.com](https://pentagon-guppy-trwc.squarespace.com)
+ - date_published: 2024-06-26T07:37:51.781587+00:00
+
+ ## Multiboard
+ - [https://pentagon-swan-dmyh.squarespace.com](https://pentagon-swan-dmyh.squarespace.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## FinTech Australia
+ - [https://pepper-bulldog-cx5a.squarespace.com](https://pepper-bulldog-cx5a.squarespace.com)
+ - date_published: 2024-10-11T22:08:46.399392+00:00
+
+ ## Byline Festival
+ - [https://peter-jukes-9f82.squarespace.com](https://peter-jukes-9f82.squarespace.com)
+ - date_published: 2024-07-03T21:22:40.142451+00:00
+
+ ## What Bitcoin Did - The #1 Bitcoin Podcast
+ - [https://peter-mccormack-t2mk.squarespace.com](https://peter-mccormack-t2mk.squarespace.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The Naked Watchmaker
+ - [https://peter-speakemarin-gxph.squarespace.com](https://peter-speakemarin-gxph.squarespace.com)
+ - date_published: 2024-05-06T17:03:53.808698+00:00
+ - tags: ['watchmaking', 'hobby', 'clocks']
+
+ ## East Coast Automation
+ - [https://peter-zaremba.squarespace.com](https://peter-zaremba.squarespace.com)
+ - date_published: 2024-09-05T21:25:53.214056+00:00
+
+ ## 1-800-GAMBLER
+ - [https://pghnwv.squarespace.com](https://pghnwv.squarespace.com)
+ - date_published: 2024-08-06T12:53:27.035340+00:00
+
+ ## Philosophy Bro
+ - [https://philosophybro.squarespace.com](https://philosophybro.squarespace.com)
+ - date_published: 2024-05-06T23:15:23.287601+00:00
+
+ ## Sukhy Hullait - Documentary Photographer
+ - [https://piano-marigold-la5a.squarespace.com](https://piano-marigold-la5a.squarespace.com)
+ - date_published: 2024-08-18T09:47:10.106337+00:00
+
+ ## RAMONES
+ - [https://piano-oboe-zgtr.squarespace.com](https://piano-oboe-zgtr.squarespace.com)
+ - date_published: 2024-06-30T23:38:25.578971+00:00
+
+ ## Little Gay Garden
+ - [https://piano-orchid-w3se.squarespace.com](https://piano-orchid-w3se.squarespace.com)
+ - date_published: 2024-07-07T05:04:31.333379+00:00
+
+ ## jamiebristow.com
+ - [https://piano-panda-zzck.squarespace.com](https://piano-panda-zzck.squarespace.com)
+ - date_published: 2024-09-12T16:17:32.769917+00:00
+
+ ## Wing Luke Museum
+ - [https://piano-tortoise-fxlx.squarespace.com](https://piano-tortoise-fxlx.squarespace.com)
+ - date_published: 2024-07-26T19:15:15.923035+00:00
+
+ ## Abstract Table
+ - [https://piccolo-toucan-kynm.squarespace.com](https://piccolo-toucan-kynm.squarespace.com)
+ - date_published: 2024-06-26T07:30:44.290287+00:00
+
+ ## Janelle Shane
+ - [https://pigeon-gazelle-xg6h.squarespace.com](https://pigeon-gazelle-xg6h.squarespace.com)
+ - date_published: 2024-06-15T07:44:17.302978+00:00
+
+ ## Brave Earth
+ - [https://pike-impala-x529.squarespace.com](https://pike-impala-x529.squarespace.com)
+ - date_published: 2024-09-12T18:53:32.094321+00:00
+
+ ## Pilliga Pottery Creative Farmstay
+ - [https://pilliga.squarespace.com](https://pilliga.squarespace.com)
+ - date_published: 2024-09-18T22:01:28.673788+00:00
+
+ ## Dirty Shirley Drink - Best Dirty Shirley Cocktails in a Can
+ - [https://pineapple-khaki-2crt.squarespace.com](https://pineapple-khaki-2crt.squarespace.com)
+ - date_published: 2024-09-19T01:32:56.111144+00:00
+
+ ## Amber Shand
+ - [https://pineapple-quillfish-s57g.squarespace.com](https://pineapple-quillfish-s57g.squarespace.com)
+ - date_published: 2024-10-20T15:20:35.808806+00:00
+
+ ## Foursevens
+ - [https://plane-contrabass-rmye.squarespace.com](https://plane-contrabass-rmye.squarespace.com)
+ - date_published: 2024-07-10T08:44:15.009655+00:00
+
+ ## Careers at Bright
+ - [https://plane-trout-rfx7.squarespace.com](https://plane-trout-rfx7.squarespace.com)
+ - date_published: 2024-05-08T04:28:45.923691+00:00
+
+ ## Denise Cornell - Customer Marketing
+ - [https://plantain-algae-7l7g.squarespace.com](https://plantain-algae-7l7g.squarespace.com)
+ - date_published: 2024-05-10T05:47:34.443129+00:00
+
+ ## The Collegiate School of Memphis
+ - [https://plantain-corn-ywz4.squarespace.com](https://plantain-corn-ywz4.squarespace.com)
+ - date_published: 2024-07-04T10:33:43.576793+00:00
+
+ ## Integrity Institute
+ - [https://plantain-octagon-78kg.squarespace.com](https://plantain-octagon-78kg.squarespace.com)
+ - date_published: 2024-05-08T08:46:53.592739+00:00
+
+ ## CanSecWest 2024 Registration
+ - [https://plantain-wolverine-4cst.squarespace.com](https://plantain-wolverine-4cst.squarespace.com)
+ - date_published: 2024-07-03T23:21:39.527147+00:00
+
+ ## MetroSight
+ - [https://platinum-grape-8s2e.squarespace.com](https://platinum-grape-8s2e.squarespace.com)
+ - date_published: 2024-07-07T04:59:02.963906+00:00
+
+ ## Amy Goodchild
+ - [https://platinum-sphere-9hkf.squarespace.com](https://platinum-sphere-9hkf.squarespace.com)
+ - date_published: 2024-08-19T16:26:25.455212+00:00
+
+ ## PPF: Simplifying Nonprofit Administration via Fiscal Sponsorship
+ - [https://players-philanthropy-fund.squarespace.com](https://players-philanthropy-fund.squarespace.com)
+ - date_published: 2024-10-29T05:15:55.112441+00:00
+
+ ## Business Travel Awards Europe
+ - [https://plums-cardioid-23x9.squarespace.com](https://plums-cardioid-23x9.squarespace.com)
+ - date_published: 2024-07-03T20:41:35.871405+00:00
+
+ ## Influence Media: Creative Marketing Agency | Hull | UK
+ - [https://plums-helicon-e7w4.squarespace.com](https://plums-helicon-e7w4.squarespace.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Molly Crabapple
+ - [https://plum-sponge-5d7t.squarespace.com](https://plum-sponge-5d7t.squarespace.com)
+ - date_published: 2024-07-11T12:55:39.454218+00:00
+
+ ## Evolved • Your Home for Halo
+ - [https://podcast-evolved.squarespace.com](https://podcast-evolved.squarespace.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Podtrac - Podtrac Home
+ - [http://podtracanalytics.squarespace.com](http://podtracanalytics.squarespace.com)
+ - date_published: 2024-08-05T21:01:20.069732+00:00
+
+ ## FOM Archive / Competition
+ - [https://point-dolphin-fdnt.squarespace.com](https://point-dolphin-fdnt.squarespace.com)
+ - date_published: 2024-06-26T22:28:50.526367+00:00
+
+ ## Shepherd For Authors
+ - [https://point-hexagon-6csg.squarespace.com](https://point-hexagon-6csg.squarespace.com)
+ - date_published: 2024-08-11T00:00:03.797151+00:00
+
+ ## Prairie Dog Coalition
+ - [https://polygon-bumblebee-h56h.squarespace.com](https://polygon-bumblebee-h56h.squarespace.com)
+ - date_published: 2024-07-04T12:45:02.707505+00:00
+
+ ## Ari Klinger
+ - [https://polygon-garlic-kc8r.squarespace.com](https://polygon-garlic-kc8r.squarespace.com)
+ - date_published: 2024-05-12T05:24:10.060281+00:00
+
+ ## Phil Rosenthal World
+ - [https://polygon-onion-cdtd.squarespace.com](https://polygon-onion-cdtd.squarespace.com)
+ - date_published: 2024-09-17T21:32:24.987979+00:00
+
+ ## Core64 - Interactive Core Memory Kit
+ - [https://polygon-pear-3w6r.squarespace.com](https://polygon-pear-3w6r.squarespace.com)
+ - date_published: 2024-04-28T02:58:17.672365+00:00
+
+ ## CFCP
+ - [https://polygon-porcupine-arlc.squarespace.com](https://polygon-porcupine-arlc.squarespace.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Jose Briones
+ - [https://pomegranate-tarpon-9wz4.squarespace.com](https://pomegranate-tarpon-9wz4.squarespace.com)
+ - date_published: 2024-05-08T09:00:22.744579+00:00
+
+ ## Wakefully - Dream Interpretation
+ - [https://pomegranate-trumpet-9w8y.squarespace.com](https://pomegranate-trumpet-9w8y.squarespace.com)
+ - date_published: 2024-10-30T15:22:04.994223+00:00
+
+ ## Oasis Texas Brewing Company
+ - [https://pomegranate-vibraphone-99kt.squarespace.com](https://pomegranate-vibraphone-99kt.squarespace.com)
+ - date_published: 2024-09-17T21:20:39.167228+00:00
+
+ ## Miranda May, a traveling Funeral and Memorial Celebrant serving families in New Mexico and throughout the United States.
+ - [https://poodle-bobcat-4yfb.squarespace.com](https://poodle-bobcat-4yfb.squarespace.com)
+ - date_published: 2024-08-11T20:52:29.280939+00:00
+
+ ## Jonathan Byrd's Events + Catering
+ - [https://poodle-collie-wzgm.squarespace.com](https://poodle-collie-wzgm.squarespace.com)
+ - date_published: 2024-05-02T10:11:41.087923+00:00
+
+ ## Practical Object-Oriented Design in Ruby
+ - [https://poodr.squarespace.com](https://poodr.squarespace.com)
+ - date_published: 2024-08-06T16:50:21.877705+00:00
+
+ ## Careful Industries
+ - [https://porpoise-khaki-bt6z.squarespace.com](https://porpoise-khaki-bt6z.squarespace.com)
+ - date_published: 2024-07-11T14:28:26.525743+00:00
+
+ ## Portobello Road Market
+ - [https://portobello-v2.squarespace.com](https://portobello-v2.squarespace.com)
+ - date_published: 2024-06-20T21:27:21.983085+00:00
+
+ ## Vote Yes! on Measure 118, the Oregon Rebate
+ - [https://potato-llama-zth5.squarespace.com](https://potato-llama-zth5.squarespace.com)
+ - date_published: 2024-10-28T04:57:20.777268+00:00
+
+ ## Practical Reporting Inc.
+ - [https://practical-reporting.squarespace.com](https://practical-reporting.squarespace.com)
+ - date_published: 2024-08-05T16:38:36.395575+00:00
+
+ ## Pradyuman Kodavatiganti
+ - [https://pradyuman-kodavatiganti.squarespace.com](https://pradyuman-kodavatiganti.squarespace.com)
+ - date_published: 2024-06-23T17:45:26.391218+00:00
+
+ ## Premiere Gal
+ - [https://premieregal.squarespace.com](https://premieregal.squarespace.com)
+ - date_published: 2024-06-22T22:33:13.839677+00:00
+
+ ## Prerna Pradeep
+ - [https://prernapradeep.squarespace.com](https://prernapradeep.squarespace.com)
+ - date_published: 2024-05-12T06:13:17.378031+00:00
+
+ ## Vectis IP Ltd - Building IP Solutions  for the Future
+ - [https://preview-vectis.squarespace.com](https://preview-vectis.squarespace.com)
+ - date_published: 2024-05-06T21:34:53.334600+00:00
+
+ ## Primitus Consultancy
+ - [https://primitusconsultancy.squarespace.com](https://primitusconsultancy.squarespace.com)
+ - date_published: 2024-06-30T10:22:46.753849+00:00
+
+ ## Project Covalence
+ - [https://primrose-hibiscus-8wdg.squarespace.com](https://primrose-hibiscus-8wdg.squarespace.com)
+ - date_published: 2024-08-06T17:15:18.715129+00:00
+
+ ## Brigitte Winter
+ - [https://primrose-octagon-7jx4.squarespace.com](https://primrose-octagon-7jx4.squarespace.com)
+ - date_published: 2024-10-19T09:21:01.714772+00:00
+
+ ## Print Awards 2024
+ - [https://printawards.squarespace.com](https://printawards.squarespace.com)
+ - date_published: 2024-06-29T05:22:16.099469+00:00
+
+ ## Priscilla Howe, Storyteller
+ - [https://priscilla-howe.squarespace.com](https://priscilla-howe.squarespace.com)
+ - date_published: 2024-05-07T09:26:48.706101+00:00
+
+ ## Ghost in the Stacks
+ - [https://prism-dove-byae.squarespace.com](https://prism-dove-byae.squarespace.com)
+ - date_published: 2024-05-04T07:57:59.102635+00:00
+
+ ## DAVE MACLEOD
+ - [https://prism-grapefruit-k2s5.squarespace.com](https://prism-grapefruit-k2s5.squarespace.com)
+ - date_published: 2024-05-11T10:52:42.552929+00:00
+
+ ## Project Geospatial
+ - [https://projectgeospatial.squarespace.com](https://projectgeospatial.squarespace.com)
+ - date_published: 2024-06-21T01:54:31.512968+00:00
+
+ ## Prolost Store
+ - [https://proloststore.squarespace.com](https://proloststore.squarespace.com)
+ - date_published: 2024-06-29T06:25:41.532336+00:00
+
+ ## Prolost
+ - [https://prolostx.squarespace.com](https://prolostx.squarespace.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Pronouns.org Resources on Personal Pronouns
+ - [https://pronouns.squarespace.com](https://pronouns.squarespace.com)
+ - date_published: 2024-07-15T07:06:25.790808+00:00
+
+ ## Prophetic
+ - [https://prophetic.squarespace.com](https://prophetic.squarespace.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Squarespace Circle Blog - Build your web design business
+ - [https://pros.squarespace.com](https://pros.squarespace.com)
+ - date_published: 2024-05-06T19:55:30.633380+00:00
+
+ ## PsiQuantum - Building the World's First Useful Quantum Computer
+ - [https://psi-quantum.squarespace.com](https://psi-quantum.squarespace.com)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Construtor de sites — Crie um site em poucos minutos — Squarespace
+ - [https://pt.squarespace.com](https://pt.squarespace.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Attila Bujdosó
+ - [https://pufferfish-cat-sf8k.squarespace.com](https://pufferfish-cat-sf8k.squarespace.com)
+ - date_published: 2024-05-08T03:51:15.500078+00:00
+
+ ## Mini Misfits
+ - [https://pufferfish-duck-mfnb.squarespace.com](https://pufferfish-duck-mfnb.squarespace.com)
+ - date_published: 2024-06-15T03:56:16.353885+00:00
+
+ ## Eliza Bentz
+ - [https://pufferfish-trumpet-h6l6.squarespace.com](https://pufferfish-trumpet-h6l6.squarespace.com)
+ - date_published: 2024-07-01T05:13:30.770147+00:00
+
+ ## Unreasonable Hospitality
+ - [https://pufferfish-wolf-2kg3.squarespace.com](https://pufferfish-wolf-2kg3.squarespace.com)
+ - date_published: 2024-10-05T23:48:41.560321+00:00
+
+ ## SaaStr AI Day | September 11, 2024
+ - [https://puma-glockenspiel-zwez.squarespace.com](https://puma-glockenspiel-zwez.squarespace.com)
+ - date_published: 2024-08-11T09:08:07.486506+00:00
+
+ ## Peter Is Pedaling
+ - [https://puma-sturgeon-l9mh.squarespace.com](https://puma-sturgeon-l9mh.squarespace.com)
+ - date_published: 2024-05-06T23:11:25.927230+00:00
+
+ ## MIT AI Alignment
+ - [https://pumpkin-bear-9nlf.squarespace.com](https://pumpkin-bear-9nlf.squarespace.com)
+ - date_published: 2024-07-07T07:24:18.078154+00:00
+
+ ## Deep Space Food Challenge
+ - [https://purple-fox-3zlf.squarespace.com](https://purple-fox-3zlf.squarespace.com)
+ - date_published: 2024-07-15T07:31:49.278032+00:00
+
+ ## Yinson Lee
+ - [https://purple-ray-5644.squarespace.com](https://purple-ray-5644.squarespace.com)
+ - date_published: 2024-05-07T18:32:08.872372+00:00
+ - tags: ['personal']
+
+ ## Penn Wharton Budget Model
+ - [https://pwbm.squarespace.com](https://pwbm.squarespace.com)
+ - date_published: 2024-05-07T21:46:26.628345+00:00
+
  ## Quantum Space — GEO & Cislunar Space
  - [https://quantum-space.squarespace.com](https://quantum-space.squarespace.com)
  - date_published: 2024-10-23T06:47:49.935938+00:00
@@ -3604,413 +4014,4 @@
  ## Project Management Meta Stack Exchange
  - [https://pm.meta.stackexchange.com](https://pm.meta.stackexchange.com)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Project Management Stack Exchange
- - [https://pm.stackexchange.com](https://pm.stackexchange.com)
- - date_published: 2023-10-25T17:14:00.083237+00:00
-
- ## Poker Meta Stack Exchange
- - [https://poker.meta.stackexchange.com](https://poker.meta.stackexchange.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Poker Stack Exchange
- - [https://poker.stackexchange.com](https://poker.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Politics Meta Stack Exchange
- - [https://politics.meta.stackexchange.com](https://politics.meta.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Politics Stack Exchange
- - [https://politics.stackexchange.com](https://politics.stackexchange.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Portuguese Language Meta Stack Exchange
- - [https://portuguese.meta.stackexchange.com](https://portuguese.meta.stackexchange.com)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Portuguese Language Stack Exchange
- - [https://portuguese.stackexchange.com](https://portuguese.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Software Engineering Stack Exchange
- - [http://programmers.stackexchange.com](http://programmers.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Proof Assistants Meta Stack Exchange
- - [https://proofassistants.meta.stackexchange.com](https://proofassistants.meta.stackexchange.com)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date_published: 2023-10-27T23:10:18.343496+00:00
-
- ## Puzzling Meta Stack Exchange
- - [https://puzzling.meta.stackexchange.com](https://puzzling.meta.stackexchange.com)
- - date_published: 2024-08-06T06:23:30.596746+00:00
-
- ## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date_published: 2023-10-25T17:14:03.428352+00:00
-
- ## Quantitative Finance Meta Stack Exchange
- - [https://quant.meta.stackexchange.com](https://quant.meta.stackexchange.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Quantitative Finance Stack Exchange
- - [https://quant.stackexchange.com](https://quant.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Quantum Computing Meta Stack Exchange
- - [https://quantumcomputing.meta.stackexchange.com](https://quantumcomputing.meta.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Quantum Computing Stack Exchange
- - [https://quantumcomputing.stackexchange.com](https://quantumcomputing.stackexchange.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Raspberry Pi Meta Stack Exchange
- - [https://raspberrypi.meta.stackexchange.com](https://raspberrypi.meta.stackexchange.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Raspberry Pi Stack Exchange
- - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
- - date_published: 2023-11-06T10:17:19.467869+00:00
-
- ## Retrocomputing Meta Stack Exchange
- - [https://retrocomputing.meta.stackexchange.com](https://retrocomputing.meta.stackexchange.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Retrocomputing Stack Exchange
- - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
- - date_published: 2023-10-25T17:14:06.682774+00:00
-
- ## Reverse Engineering Meta Stack Exchange
- - [https://reverseengineering.meta.stackexchange.com](https://reverseengineering.meta.stackexchange.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Reverse Engineering Stack Exchange
- - [https://reverseengineering.stackexchange.com](https://reverseengineering.stackexchange.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Robotics Meta Stack Exchange
- - [https://robotics.meta.stackexchange.com](https://robotics.meta.stackexchange.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Robotics Stack Exchange
- - [https://robotics.stackexchange.com](https://robotics.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Role-playing Games Meta Stack Exchange
- - [https://rpg.meta.stackexchange.com](https://rpg.meta.stackexchange.com)
- - date_published: 2024-07-09T12:58:19.172562+00:00
-
- ## Role-playing Games Stack Exchange
- - [https://rpg.stackexchange.com](https://rpg.stackexchange.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Русский язык Meta
- - [https://rus.meta.stackexchange.com](https://rus.meta.stackexchange.com)
- - date_published: 2024-07-28T00:00:00+00:00
-
- ## Russian Language Meta Stack Exchange
- - [https://russian.meta.stackexchange.com](https://russian.meta.stackexchange.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Russian Language Stack Exchange
- - [https://russian.stackexchange.com](https://russian.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Русский язык
- - [https://rus.stackexchange.com](https://rus.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Salesforce Meta Stack Exchange
- - [https://salesforce.meta.stackexchange.com](https://salesforce.meta.stackexchange.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Salesforce Stack Exchange
- - [https://salesforce.stackexchange.com](https://salesforce.stackexchange.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Computational Science Meta Stack Exchange
- - [https://scicomp.meta.stackexchange.com](https://scicomp.meta.stackexchange.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Computational Science Stack Exchange
- - [https://scicomp.stackexchange.com](https://scicomp.stackexchange.com)
- - date_published: 2023-10-25T17:14:10.060152+00:00
-
- ## Science Fiction & Fantasy Meta Stack Exchange
- - [https://scifi.meta.stackexchange.com](https://scifi.meta.stackexchange.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Science Fiction & Fantasy Stack Exchange
- - [https://scifi.stackexchange.com](https://scifi.stackexchange.com)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Information Security Meta Stack Exchange
- - [https://security.meta.stackexchange.com](https://security.meta.stackexchange.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Information Security Stack Exchange
- - [https://security.stackexchange.com](https://security.stackexchange.com)
- - date_published: 2023-10-25T17:14:13.452807+00:00
-
- ## SharePoint Meta Stack Exchange
- - [https://sharepoint.meta.stackexchange.com](https://sharepoint.meta.stackexchange.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## SharePoint Stack Exchange
- - [https://sharepoint.stackexchange.com](https://sharepoint.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Sitecore Meta Stack Exchange
- - [https://sitecore.meta.stackexchange.com](https://sitecore.meta.stackexchange.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Sitecore Stack Exchange
- - [https://sitecore.stackexchange.com](https://sitecore.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Skeptics Meta Stack Exchange
- - [https://skeptics.meta.stackexchange.com](https://skeptics.meta.stackexchange.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Skeptics Stack Exchange
- - [https://skeptics.stackexchange.com](https://skeptics.stackexchange.com)
- - date_published: 2023-10-25T17:14:16.355135+00:00
-
- ## Software Engineering Meta Stack Exchange
- - [https://softwareengineering.meta.stackexchange.com](https://softwareengineering.meta.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Software Engineering Stack Exchange
- - [https://softwareengineering.stackexchange.com](https://softwareengineering.stackexchange.com)
- - date_published: 2023-10-25T17:14:19.605475+00:00
-
- ## Software Recommendations Meta Stack Exchange
- - [https://softwarerecs.meta.stackexchange.com](https://softwarerecs.meta.stackexchange.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Software Recommendations Stack Exchange
- - [https://softwarerecs.stackexchange.com](https://softwarerecs.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Solana Meta Stack Exchange
- - [https://solana.meta.stackexchange.com](https://solana.meta.stackexchange.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Solana Stack Exchange
- - [https://solana.stackexchange.com](https://solana.stackexchange.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Sound Design Meta Stack Exchange
- - [https://sound.meta.stackexchange.com](https://sound.meta.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Sound Design Stack Exchange
- - [https://sound.stackexchange.com](https://sound.stackexchange.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Space Exploration Meta Stack Exchange
- - [https://space.meta.stackexchange.com](https://space.meta.stackexchange.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Space Exploration Stack Exchange
- - [https://space.stackexchange.com](https://space.stackexchange.com)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Spanish Language Meta Stack Exchange
- - [https://spanish.meta.stackexchange.com](https://spanish.meta.stackexchange.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Spanish Language Stack Exchange
- - [https://spanish.stackexchange.com](https://spanish.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Sports Meta Stack Exchange
- - [https://sports.meta.stackexchange.com](https://sports.meta.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Sports Stack Exchange
- - [https://sports.stackexchange.com](https://sports.stackexchange.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Software Quality Assurance & Testing Meta Stack Exchange
- - [https://sqa.meta.stackexchange.com](https://sqa.meta.stackexchange.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Software Quality Assurance & Testing Stack Exchange
- - [https://sqa.stackexchange.com](https://sqa.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Hot Questions - Stack Exchange
- - [https://stackexchange.com](https://stackexchange.com)
- - date_published: 2024-04-28T03:30:40.257141+00:00
-
- ## Cross Validated Meta
- - [https://stats.meta.stackexchange.com](https://stats.meta.stackexchange.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Cross Validated
- - [https://stats.stackexchange.com](https://stats.stackexchange.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Stellar Meta Stack Exchange
- - [https://stellar.meta.stackexchange.com](https://stellar.meta.stackexchange.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Stellar Stack Exchange
- - [https://stellar.stackexchange.com](https://stellar.stackexchange.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Substrate and Polkadot Meta Stack Exchange
- - [https://substrate.meta.stackexchange.com](https://substrate.meta.stackexchange.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Substrate and Polkadot Stack Exchange
- - [https://substrate.stackexchange.com](https://substrate.stackexchange.com)
- - date_published: 2023-10-25T17:14:27.990996+00:00
-
- ## Sustainable Living Meta Stack Exchange
- - [https://sustainability.meta.stackexchange.com](https://sustainability.meta.stackexchange.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Sustainable Living Stack Exchange
- - [https://sustainability.stackexchange.com](https://sustainability.stackexchange.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## TeX - LaTeX Meta Stack Exchange
- - [https://tex.meta.stackexchange.com](https://tex.meta.stackexchange.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## TeX - LaTeX Stack Exchange
- - [https://tex.stackexchange.com](https://tex.stackexchange.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tezos Meta Stack Exchange
- - [https://tezos.meta.stackexchange.com](https://tezos.meta.stackexchange.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Tezos Stack Exchange
- - [https://tezos.stackexchange.com](https://tezos.stackexchange.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Tor Meta Stack Exchange
- - [https://tor.meta.stackexchange.com](https://tor.meta.stackexchange.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Tor Stack Exchange
- - [https://tor.stackexchange.com](https://tor.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Travel Meta Stack Exchange
- - [https://travel.meta.stackexchange.com](https://travel.meta.stackexchange.com)
- - date_published: 2024-08-06T06:25:50.386279+00:00
-
- ## Travel Stack Exchange
- - [https://travel.stackexchange.com](https://travel.stackexchange.com)
- - date_published: 2023-10-25T17:14:31.765614+00:00
-
- ## Tridion Meta Stack Exchange
- - [https://tridion.meta.stackexchange.com](https://tridion.meta.stackexchange.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Tridion Stack Exchange
- - [https://tridion.stackexchange.com](https://tridion.stackexchange.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Ukrainian Language Meta Stack Exchange
- - [https://ukrainian.meta.stackexchange.com](https://ukrainian.meta.stackexchange.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Ukrainian Language Stack Exchange
- - [https://ukrainian.stackexchange.com](https://ukrainian.stackexchange.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Unix & Linux Meta Stack Exchange
- - [https://unix.meta.stackexchange.com](https://unix.meta.stackexchange.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Unix & Linux Stack Exchange
- - [https://unix.stackexchange.com](https://unix.stackexchange.com)
- - date_published: 2023-10-25T17:14:39.830149+00:00
-
- ## User Experience Meta Stack Exchange
- - [https://ux.meta.stackexchange.com](https://ux.meta.stackexchange.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## User Experience Stack Exchange
- - [https://ux.stackexchange.com](https://ux.stackexchange.com)
- - date_published: 2024-02-04T00:00:00+00:00
- - tags: ['gui design', 'ux design']
-
- ## Veganism & Vegetarianism Meta Stack Exchange
- - [https://vegetarianism.meta.stackexchange.com](https://vegetarianism.meta.stackexchange.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Veganism & Vegetarianism Stack Exchange
- - [https://vegetarianism.stackexchange.com](https://vegetarianism.stackexchange.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Vi and Vim Meta Stack Exchange
- - [https://vi.meta.stackexchange.com](https://vi.meta.stackexchange.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Vi and Vim Stack Exchange
- - [https://vi.stackexchange.com](https://vi.stackexchange.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Web Applications Meta Stack Exchange
- - [https://webapps.meta.stackexchange.com](https://webapps.meta.stackexchange.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Web Applications Stack Exchange
- - [https://webapps.stackexchange.com](https://webapps.stackexchange.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Webmasters Meta Stack Exchange
- - [https://webmasters.meta.stackexchange.com](https://webmasters.meta.stackexchange.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Webmasters Stack Exchange
- - [https://webmasters.stackexchange.com](https://webmasters.stackexchange.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Windows Phone - A Stack Exchange Proposal
- - [https://windowsphone.stackexchange.com](https://windowsphone.stackexchange.com)
- - date_published: 2024-08-06T06:24:42+00:00
-
- ## Woodworking Meta Stack Exchange
- - [https://woodworking.meta.stackexchange.com](https://woodworking.meta.stackexchange.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Woodworking Stack Exchange
- - [https://woodworking.stackexchange.com](https://woodworking.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## WordPress Development Meta Stack Exchange
- - [https://wordpress.meta.stackexchange.com](https://wordpress.meta.stackexchange.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## WordPress Development Stack Exchange
- - [https://wordpress.stackexchange.com](https://wordpress.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The Workplace Meta Stack Exchange
- - [https://workplace.meta.stackexchange.com](https://workplace.meta.stackexchange.com)
- - date_published: 2024-07-28T00:00:00+00:00
-
- ## The Workplace Stack Exchange
- - [https://workplace.stackexchange.com](https://workplace.stackexchange.com)
- - date_published: 2023-10-25T17:14:43.195803+00:00
-
- ## Worldbuilding Meta Stack Exchange
- - [https://worldbuilding.meta.stackexchange.com](https://worldbuilding.meta.stackexchange.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Worldbuilding Stack Exchange
- - [https://worldbuilding.stackexchange.com](https://worldbuilding.stackexchange.com)
- - date_published: 2023-12-24T19:38:56.919466+00:00
 

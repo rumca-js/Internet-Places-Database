@@ -1,3 +1,7 @@
+ ## Extract short clips from your videos in a flash.
+ - [https://www.qlip.ai](https://www.qlip.ai)
+ - date_published: 2024-05-16T16:19:17+00:00
+
  ## QMR – QMR
  - [https://qmr.ai](https://qmr.ai)
  - date_published: 2023-10-25T11:41:43.521292+00:00
@@ -4015,8 +4019,4 @@ Creative Solutions
  ## What's Wegic? | Help Center
  - [https://help.wegic.ai](https://help.wegic.ai)
  - date_published: 2024-07-23T00:00:00+00:00
-
- ## Wegic User Service Agreement | Terms of service
- - [https://privacy.wegic.ai](https://privacy.wegic.ai)
- - date_published: 2024-08-30T00:00:00+00:00
 

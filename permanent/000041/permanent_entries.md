@@ -1,3 +1,41 @@
+ ## Alexandre Ferreira - Software Developer
+ - [https://alexjorgef.com](https://alexjorgef.com)
+ - date_published: 2017-12-08T00:00:00+00:00
+
+ ## Alex Jover
+ - [https://alexjover.com](https://alexjover.com)
+ - date_published: 2024-09-04T11:27:29.607612+00:00
+
+ ## Alex Panagis | Entrepreneur, SaaS Operator & Investor
+ - [https://alexjpanagis.com](https://alexjpanagis.com)
+ - date_published: 2024-01-13T18:26:31.067280+00:00
+ - tags: ['personal']
+
+ ## Posts
+ - [https://alexklibisz.com](https://alexklibisz.com)
+ - date_published: 2024-09-29T20:05:03.999152+00:00
+
+ ## Home - alexkosch.com
+ - [https://alexkosch.com](https://alexkosch.com)
+ - date_published: 2024-10-30T16:39:59+00:00
+
+ ## Alex Kutas blog
+ - [https://alexkutas.com](https://alexkutas.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://www.alexlee.com](https://www.alexlee.com)
+ - date_published: 2024-10-04T08:48:38.425408+00:00
+
+ ## Alex Loftus
+ - [https://alex-loftus.com](https://alex-loftus.com)
+ - date_published: 2024-08-01T13:52:39+00:00
+
+ ## Alex MacCaw
+ - [https://alexmaccaw.com](https://alexmaccaw.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
  ## Alex MacCaw
  - [https://blog.alexmaccaw.com](https://blog.alexmaccaw.com)
  - date_published: 2024-09-03T21:04:56.507404+00:00
@@ -4005,40 +4043,4 @@
  ## Alterra Mountain Company
  - [https://www.alterramtnco.com](https://www.alterramtnco.com)
  - date_published: 2024-09-05T00:00:00+00:00
-
- ## Home
- - [https://alteryx.com](https://alteryx.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Alteryx Community
- - [https://community.alteryx.com](https://community.alteryx.com)
- - date_published: 2024-06-16T20:11:52.678419+00:00
-
- ## Data Scorecard
- - [https://data-scorecard.alteryx.com](https://data-scorecard.alteryx.com)
- - date_published: 2024-06-10T19:46:39+00:00
-
- ## Alteryx Help Documentation
- - [https://help.alteryx.com](https://help.alteryx.com)
- - date_published: 2024-05-10T15:46:38+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.alteryx.com](https://investor.alteryx.com)
- - date_published: 2024-06-16T20:11:36.161502+00:00
-
- ## Mission Control
- - [http://licenses.alteryx.com](http://licenses.alteryx.com)
- - date_published: 2024-05-17T18:54:46+00:00
-
- ## Alteryx Marketplace | Alteryx Marketplace
- - [https://marketplace.alteryx.com](https://marketplace.alteryx.com)
- - date_published: 2024-06-16T20:11:45.946942+00:00
-
- ## Mission Control
- - [https://my.alteryx.com](https://my.alteryx.com)
- - date_published: 2024-05-17T18:54:46+00:00
-
- ## Alteryx Platform Application
- - [https://us1.alteryxcloud.com](https://us1.alteryxcloud.com)
- - date_published: 2024-06-06T17:34:02+00:00
 

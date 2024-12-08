@@ -1687,6 +1687,10 @@
  - [https://status.marqo.ai](https://status.marqo.ai)
  - date_published: 2024-07-20T19:30:37.673405+00:00
 
+ ## martini.ai
+ - [https://martini.ai](https://martini.ai)
+ - date_published: 2024-12-07T20:38:55.643957+00:00
+
  ## Maskr.AI - Instant famous with our AI generated photos
  - [https://maskr.ai](https://maskr.ai)
  - date_published: 2023-05-09T19:58:21+00:00
@@ -4018,8 +4022,4 @@
  ## qlip
  - [https://app.qlip.ai](https://app.qlip.ai)
  - date_published: 2024-10-22T14:17:45+00:00
-
- ## Extract short clips from your videos in a flash.
- - [https://www.qlip.ai](https://www.qlip.ai)
- - date_published: 2024-05-16T16:19:17+00:00
 

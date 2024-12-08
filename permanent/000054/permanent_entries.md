@@ -1,3 +1,138 @@
+ ## Nutrition Journal
+ - [https://nutritionj.biomedcentral.com](https://nutritionj.biomedcentral.com)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Parasites & Vectors
+ - [https://parasitesandvectors.biomedcentral.com](https://parasitesandvectors.biomedcentral.com)
+ - date_published: 2024-10-20T07:19:41.488898+00:00
+
+ ## Reproductive Health
+ - [https://reproductive-health-journal.biomedcentral.com](https://reproductive-health-journal.biomedcentral.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Research Integrity and Peer Review | Home
+ - [https://researchintegrityjournal.biomedcentral.com](https://researchintegrityjournal.biomedcentral.com)
+ - date_published: 2023-10-25T13:00:31.950838+00:00
+
+ ## Cost Effectiveness and Resource Allocation
+ - [https://resource-allocation.biomedcentral.com](https://resource-allocation.biomedcentral.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Respiratory Research
+ - [https://respiratory-research.biomedcentral.com](https://respiratory-research.biomedcentral.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Support
+ - [https://support.biomedcentral.com](https://support.biomedcentral.com)
+ - date_published: 2024-05-10T05:15:01.202272+00:00
+
+ ## Journal of Translational Medicine
+ - [https://translational-medicine.biomedcentral.com](https://translational-medicine.biomedcentral.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Trials
+ - [https://trialsjournal.biomedcentral.com](https://trialsjournal.biomedcentral.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Biomedgrid | American Journal of Biomedical Science and Research
+ - [https://biomedgrid.com](https://biomedgrid.com)
+ - date_published: 2024-10-29T17:28:23.020532+00:00
+
+ ## Home | Phoenix Bioscience Core
+ - [http://biomedicalphoenix.com](http://biomedicalphoenix.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## International Journal of Biological & Medical Research, Medical Studies
+ - [http://www.biomedscidirect.com](http://www.biomedscidirect.com)
+ - date_published: 2024-10-29T17:23:08.651152+00:00
+
+ ## bioMérieux
+ - [https://www.biomerieux.com](https://www.biomerieux.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Biometric Update: Biometrics News, Companies and Explainers
+ - [https://biometricupdate.com](https://biometricupdate.com)
+ - date_published: 2023-10-25T10:36:49.502438+00:00
+
+ ## Biomutant – Official Game Site
+ - [https://biomutant.com](https://biomutant.com)
+ - date_published: 2024-05-06T18:17:56.752245+00:00
+ - tags: ['video game']
+
+ ## Bionaut — Precision micro-technology, the future of healthcare.
+ - [https://bionautlabs.com](https://bionautlabs.com)
+ - date_published: 2024-10-17T05:47:17.941588+00:00
+
+ ## Biondo Studio LLC. The Original for 20+ years.
+ - [https://biondostudio.com](https://biondostudio.com)
+ - date_published: 2024-10-25T05:40:24+00:00
+
+ ## Bionica Womens  on Shoeline.com
+ - [https://www.bionicafootwear.com](https://www.bionicafootwear.com)
+ - date_published: 2024-09-18T11:36:33.883740+00:00
+
+ ## Enterprise Generative AI
+ - [https://bionic-gpt.com](https://bionic-gpt.com)
+ - date_published: 2024-10-09T11:13:17.150705+00:00
+
+ ## BR for You.
+ - [https://bionic-reading.com](https://bionic-reading.com)
+ - date_published: 2022-07-21T05:01:01+00:00
+
+ ## Bionic Series
+ - [https://bionicseries.com](https://bionicseries.com)
+ - date_published: 2024-10-17T23:26:09.759373+00:00
+
+ ## Bionic Teaching – utan blixt
+ - [https://bionicteaching.com](https://bionicteaching.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## bionity.com - Das Fachportal für Biotechnologie, Pharma und Life Sciences
+ - [https://bionity.com](https://bionity.com)
+ - date_published: 2023-10-25T13:00:38.354625+00:00
+
+ ## Sign in - Matomo
+ - [https://mt.bionity.com](https://mt.bionity.com)
+ - date_published: 2024-08-19T09:52:57.528553+00:00
+
+ ## BioNTech
+ - [https://biontech.com](https://biontech.com)
+ - date_published: 2024-04-07T14:02:53.484407+00:00
+ - tags: ['vaccines', 'mrna', 'covid']
+
+ ## pro.biontech.com
+ - [https://pro.biontech.com](https://pro.biontech.com)
+ - date_published: 2024-07-17T00:53:02+00:00
+
+ ## BioPharma APAC - Leading Source of Biopharmaceutical Intelligence in Asia Pacific
+ - [https://biopharmaapac.com](https://biopharmaapac.com)
+ - date_published: 2024-09-18T23:07:18.245803+00:00
+
+ ## Biotech and Pharma Industry News | BioPharma Dive
+ - [https://www.biopharmadive.com](https://www.biopharmadive.com)
+ - date_published: 2024-07-23T22:01:25.292766+00:00
+
+ ## Biopharmaceutical Manufacturing, Upstream, Downstream processing news
+ - [https://www.biopharma-reporter.com](https://www.biopharma-reporter.com)
+ - date_published: 2024-10-16T18:40:34.704629+00:00
+
+ ## BioPharmaTrend: Where Tech Meets Bio
+ - [https://www.biopharmatrend.com](https://www.biopharmatrend.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Biotech catalyst calendars and drug pipelines • BioPharmCatalyst
+ - [http://www.biopharmcatalyst.com](http://www.biopharmcatalyst.com)
+ - date_published: 2024-09-02T15:36:12.564250+00:00
+
+ ## BIOPOLITICAL PHILOSOPHY
+ - [https://biopoliticalphilosophy.com](https://biopoliticalphilosophy.com)
+ - date_published: 2024-06-14T19:39:38.634972+00:00
+ - tags: ['philosophy']
+
+ ## Bio Prepper
+ - [https://www.bioprepper.com](https://www.bioprepper.com)
+ - date_published: 2024-06-25T16:17:51.090835+00:00
+
  ## BioProcess International
  - [https://bioprocessintl.com](https://bioprocessintl.com)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3522,6 +3657,10 @@
  - [https://bleach-exhibition.com](https://bleach-exhibition.com)
  - date_published: 2024-06-19T07:02:15.367506+00:00
 
+ ## BLEACH FX
+ - [http://www.bleachhaus.com](http://www.bleachhaus.com)
+ - date_published: 2024-12-07T16:24:50.958427+00:00
+
  ## BLEACH Soul Puzzle（ブリパズ）公式サイト｜KLabGames
  - [https://www.bleach-soul-puzzle.com](https://www.bleach-soul-puzzle.com)
  - date_published: 2024-10-01T08:42:40+00:00
@@ -3533,6 +3672,10 @@
  ## a Chicago Cubs community
  - [https://bleedcubbieblue.com](https://bleedcubbieblue.com)
  - date_published: 2024-04-29T02:02:57.753725+00:00
+
+ ## BLEED FROM WITHIN
+ - [https://www.bleedfromwithin.com](https://www.bleedfromwithin.com)
+ - date_published: 2024-12-07T18:02:38+00:00
 
  ## Bleeding Cool
  - [https://bleedingcool.com](https://bleedingcool.com)
@@ -3900,165 +4043,4 @@
  ## Blix Electric Bikes — Style, Performance and Utility eBikes
  - [https://blixbike.com](https://blixbike.com)
  - date_published: 2024-05-12T06:02:36.865032+00:00
-
- ## Blix
- - [https://support.blixbike.com](https://support.blixbike.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Blizzard Entertainment
- - [https://blizzard.com](https://blizzard.com)
- - date_published: 2023-12-13T15:52:43.797885+00:00
- - tags: ['company', 'diablo', 'overwatch', 'starcraft', 'world of warcraft', 'video game developer']
-
- ## Careers at Blizzard Entertainment | Blizzard Entertainment jobs
- - [https://careers.blizzard.com](https://careers.blizzard.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Diablo® II: Resurrected
- - [https://diablo2.blizzard.com](https://diablo2.blizzard.com)
- - date_published: 2023-12-13T16:18:22.660901+00:00
- - tags: ['video game', 'diablo']
-
- ## Diablo III
- - [https://diablo3.blizzard.com](https://diablo3.blizzard.com)
- - date_published: 2024-10-25T17:00:00+00:00
- - tags: ['video game']
-
- ## Diablo IV
- - [https://diablo4.blizzard.com](https://diablo4.blizzard.com)
- - date_published: 2024-04-30T00:00:00+00:00
- - tags: ['video game', 'diablo']
-
- ## Diablo IV
- - [https://diablo.blizzard.com](https://diablo.blizzard.com)
- - date_published: 2024-11-20T20:54:38+00:00
- - tags: ['video game']
-
- ## Diablo Immortal
- - [https://diabloimmortal.blizzard.com](https://diabloimmortal.blizzard.com)
- - date_published: 2024-06-28T00:00:00+00:00
- - tags: ['video game', 'diablo']
-
- ## Blizzard Entertainment
- - [http://eu.blizzard.com](http://eu.blizzard.com)
- - date_published: 2024-09-16T02:58:45.363932+00:00
-
- ## Diablo III
- - [https://eu.diablo3.blizzard.com](https://eu.diablo3.blizzard.com)
- - date_published: 2024-06-28T17:00:00+00:00
- - tags: ['diablo', 'video game']
-
- ## https://eu.forums.blizzard.com
- - [https://eu.forums.blizzard.com](https://eu.forums.blizzard.com)
- - date_published: 2023-01-31T16:41:47+00:00
-
- ## Hearthstone Official Game Site
- - [https://hearthstone.blizzard.com](https://hearthstone.blizzard.com)
- - date_published: 2023-01-01T00:00:00+00:00
- - tags: ['video game', 'hearthstone']
-
- ## Blizzard News
- - [https://news.blizzard.com](https://news.blizzard.com)
- - date_published: 2023-10-29T10:40:53.223640+00:00
- - tags: ['video game news']
-
- ## Overwatch 2
- - [https://overwatch.blizzard.com](https://overwatch.blizzard.com)
- - date_published: 2024-06-15T03:44:37.777646+00:00
- - tags: ['overwatch', 'video game']
-
- ## Battle.net
- - [https://shop.blizzard.com](https://shop.blizzard.com)
- - date_published: 2024-07-19T22:55:15.922849+00:00
- - tags: ['game store', 'app store']
-
- ## StarCraft II
- - [https://starcraft2.blizzard.com](https://starcraft2.blizzard.com)
- - date_published: 2024-06-28T17:59:15.839259+00:00
- - tags: ['video game', 'starcraft']
-
- ## StarCraft: Remastered
- - [https://starcraft.blizzard.com](https://starcraft.blizzard.com)
- - date_published: 2024-11-20T20:57:10+00:00
- - tags: ['video game']
-
- ## Blizzard Support
- - [https://support.blizzard.com](https://support.blizzard.com)
- - date_published: 2024-07-19T22:55:25.467253+00:00
-
- ## World of Warcraft®: The War Within™
- - [https://thewarwithin.blizzard.com](https://thewarwithin.blizzard.com)
- - date_published: 2024-07-06T19:24:05.234656+00:00
- - tags: ['warcraft', 'video game']
-
- ## Blizzard Entertainment
- - [https://us.blizzard.com](https://us.blizzard.com)
- - date_published: 2024-04-28T06:06:32.088991+00:00
-
- ## Diablo III
- - [https://us.diablo3.blizzard.com](https://us.diablo3.blizzard.com)
- - date_published: 2024-03-27T17:00:00+00:00
- - tags: ['diablo', 'video game']
-
- ## https://us.forums.blizzard.com
- - [https://us.forums.blizzard.com](https://us.forums.blizzard.com)
- - date_published: 2023-01-31T16:27:33+00:00
-
- ## Warcraft III: Reforged
- - [https://warcraft3.blizzard.com](https://warcraft3.blizzard.com)
- - date_published: 2024-06-28T18:04:38.166096+00:00
- - tags: ['warcraft', 'video game']
-
- ## Warcraft Rumble
- - [https://warcraftrumble.blizzard.com](https://warcraftrumble.blizzard.com)
- - date_published: 2024-05-15T00:00:00+00:00
- - tags: ['video game']
-
- ## World of Warcraft
- - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
- - date_published: 2024-04-10T00:00:00+00:00
- - tags: ['mmorpg', 'warcraft', 'video game']
-
- ## World of Warcraft®: Cataclysm Classic™
- - [https://wowclassic.blizzard.com](https://wowclassic.blizzard.com)
- - date_published: 2024-05-20T00:00:00+00:00
- - tags: ['world of warcraft', 'video game']
-
- ## Blizzard Community Competition License - Legal – Blizzard Entertainment
- - [https://communitytournaments.blizzardesports.com](https://communitytournaments.blizzardesports.com)
- - date_published: 2024-07-19T22:55:13.372952+00:00
-
- ## Blizzard Gear Store
- - [https://www.blizzardgearstore.com](https://www.blizzardgearstore.com)
- - date_published: 2024-08-19T12:33:41.430173+00:00
-
- ## Blizzard Ski, Tecnica Ski Boots, Tecnica Trekking Shoes and Trail Shoes
- - [https://www.blizzard-tecnica.com](https://www.blizzard-tecnica.com)
- - date_published: 2024-06-22T10:46:24.499605+00:00
-
- ## Blizzbrush - the best toothbrush in the world.
- - [https://blizzbrush.com](https://blizzbrush.com)
- - date_published: 2023-11-02T14:14:36.913015+00:00
-
- ## BlizzCon
- - [https://blizzcon.com](https://blizzcon.com)
- - date_published: 2023-11-02T19:01:40.399355+00:00
- - tags: ['convention']
-
- ## blizzheart.com
- - [https://blizzheart.com](https://blizzheart.com)
- - date_published: 2024-08-19T12:33:47.834305+00:00
-
- ## Blizzplanet | News about World of Warcraf, Diablo 4, Diablo Immortal, and licensed products.
- - [https://blizzplanet.com](https://blizzplanet.com)
- - date_published: 2024-06-12T21:15:44+00:00
- - tags: ['blizzard', 'diablo', 'video game news', 'fan page', 'world of warcraft']
-
- ## Blizzplanet | Diablo III | Diablo Immortal and Diablo IV content
- - [https://diablo.blizzplanet.com](https://diablo.blizzplanet.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Blizzplanet | News about World of Warcraft: Shadowlands and licensed products
- - [https://warcraft.blizzplanet.com](https://warcraft.blizzplanet.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

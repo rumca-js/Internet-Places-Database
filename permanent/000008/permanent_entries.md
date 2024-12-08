@@ -1,3 +1,7 @@
+ ## Deetail® Marketing & Webdesign Agentur: Webdesign | Strategie | Performance
+ - [https://www.deetail.at](https://www.deetail.at)
+ - date_published: 2023-02-03T16:08:10+00:00
+
  ## DER WIENER DEEWAN •  pakistani food  •  essen für alle
  - [http://deewan.at](http://deewan.at)
  - date_published: 2024-07-10T09:21:13.711151+00:00
@@ -4010,8 +4014,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## GEEKOM Mini PC & Mini Computer: Best Mini Desktop PC in AU
  - [https://www.geekom.au](https://www.geekom.au)
  - date_published: 2024-10-31T09:56:32+00:00
-
- ## Geordie Guy
- - [https://geordieguy.au](https://geordieguy.au)
- - date_published: 2024-06-30T06:53:09+00:00
 

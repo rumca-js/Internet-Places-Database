@@ -1,3 +1,165 @@
+ ## BookLife - Resources and tools for book publishers and writers
+ - [https://booklife.com](https://booklife.com)
+ - date_published: 2024-05-07T09:46:00.599046+00:00
+
+ ## BookLife | Booklife gave you the platform. Booklife Now is your expansion kit.
+ - [https://booklifenow.com](https://booklifenow.com)
+ - date_published: 2024-05-08T06:37:02.487034+00:00
+
+ ## Cyfranek - Cyfrowe Czytanie
+ - [http://cyfranek.booklikes.com](http://cyfranek.booklikes.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Booklinker: Universal book links to boost international book sales
+ - [https://booklinker.com](https://booklinker.com)
+ - date_published: 2024-03-20T16:39:53+00:00
+
+ ## Book Review Site for Librarians in Public Libraries and School Libraries | Booklist Online
+ - [https://www.booklistonline.com](https://www.booklistonline.com)
+ - date_published: 2024-07-15T03:01:09.456093+00:00
+
+ ## Find the best books to read at Booklover Book Reviews
+ - [https://bookloverbookreviews.com](https://bookloverbookreviews.com)
+ - date_published: 2020-04-15T21:53:18+00:00
+ - tags: ['book reviews']
+
+ ## Bookmanager Store
+ - [https://biz.bookmanager.com](https://biz.bookmanager.com)
+ - date_published: 2024-07-21T09:38:01.820568+00:00
+
+ ## Bookmanager
+ - [https://bookmanager.com](https://bookmanager.com)
+ - date_published: 2024-04-30T05:13:23.689477+00:00
+
+ ## Book-Man. Enter the word maze. Play now!
+ - [https://bookmangame.com](https://bookmangame.com)
+ - date_published: 2023-07-26T10:05:25+00:00
+
+ ## Bookmark4You | Social Bookmarking
+ - [https://bookmark4you.com](https://bookmark4you.com)
+ - date_published: 2024-05-07T13:55:23.497140+00:00
+
+ ## All-in-one bookmark manager
+ - [https://bookmarkos.com](https://bookmarkos.com)
+ - date_published: 2024-05-25T14:57:37+00:00
+ - tags: ['bookmark manager']
+
+ ## 403
+ - [https://ru.bookmate.com](https://ru.bookmate.com)
+ - date_published: 2024-06-15T19:06:23.826440+00:00
+
+ ## Bookmundo | Publish, print, and sell your own books
+ - [https://bookmundo.com](https://bookmundo.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Bookmundo: Je eigen boek uitgeven en drukken
+ - [https://publishnl.bookmundo.com](https://publishnl.bookmundo.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Buy & Sell Forex Online | Foreign Exchange | Forex India - BookMyForex
+ - [https://www.bookmyforex.com](https://www.bookmyforex.com)
+ - date_published: 2024-10-11T14:16:07.786357+00:00
+
+ ## Book of Adam Z
+ - [https://bookofadamz.com](https://bookofadamz.com)
+ - date_published: 2024-06-06T17:17:02.126189+00:00
+ - tags: ['personal']
+
+ ## An Illustrated Book of Bad Arguments
+ - [https://bookofbadarguments.com](https://bookofbadarguments.com)
+ - date_published: 2017-11-14T00:00:00+00:00
+
+ ## Play Book of Ra Deluxe online
+ - [https://book-of-ra-deluxe-slot.com](https://book-of-ra-deluxe-slot.com)
+ - date_published: 2018-04-04T00:00:00+00:00
+
+ ## Explore Free Play at Book of Ra Online Casino!
+ - [https://book-of-ra-kostenlos-spielen.com](https://book-of-ra-kostenlos-spielen.com)
+ - date_published: 2024-08-07T21:20:29.763371+00:00
+
+ ## The Book of Threes – All Things Three | The most efficient organizational pattern.
+ - [https://bookofthrees.com](https://bookofthrees.com)
+ - date_published: 2024-10-29T06:17:20+00:00
+
+ ## Bookouture
+ - [https://bookouture.com](https://bookouture.com)
+ - date_published: 2024-10-21T03:15:42.109136+00:00
+
+ ## BookPage | Discover your next great book!
+ - [https://assets.bookpage.com](https://assets.bookpage.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## BookPage | Discover your next great book!
+ - [https://bookpage.com](https://bookpage.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+ - tags: ['book reviews']
+
+ ## BookPage Subscriptions
+ - [https://subscribe.bookpage.com](https://subscribe.bookpage.com)
+ - date_published: 2023-01-12T17:21:30+00:00
+
+ ## Welcome to The Book Palace!
+ - [http://www.bookpalace.com](http://www.bookpalace.com)
+ - date_published: 2024-07-17T18:33:07+00:00
+
+ ## Book Passage
+ - [https://www.bookpassage.com](https://www.bookpassage.com)
+ - date_published: 2024-10-18T15:35:05.205178+00:00
+
+ ## BookPecker.com: 14509 books summarized in 5 bullet points
+ - [https://bookpecker.com](https://bookpecker.com)
+ - date_published: 2024-02-26T18:53:52+00:00
+ - tags: ['books']
+
+ ## BookRaid: Free & Discount Bestselling eBooks
+ - [https://bookraid.com](https://bookraid.com)
+ - date_published: 2024-05-24T22:19:10.553818+00:00
+
+ ## Welcome - bookrastinating.com
+ - [https://bookrastinating.com](https://bookrastinating.com)
+ - date_published: 2024-04-29T07:57:46.984632+00:00
+
+ ## Bookreporter.com |
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date_published: 2023-11-07T16:06:19.097099+00:00
+
+ ## Bookride
+ - [http://www.bookride.com](http://www.bookride.com)
+ - date_published: 2015-02-27T00:00:00+00:00
+
+ ## BOOK RIOT - Book Recommendations and Reviews
+ - [https://bookriot.com](https://bookriot.com)
+ - date_published: 2023-10-25T13:08:14.644680+00:00
+ - tags: ['books', 'book reviews']
+
+ ## Hotel Booking Engine Software for DMOs, Events, Groups | Ripe
+ - [https://bookripe.com](https://bookripe.com)
+ - date_published: 2024-06-17T13:50:48+00:00
+
+ ## Welcome To The Product Hub
+ - [https://producthub.bookripe.com](https://producthub.bookripe.com)
+ - date_published: 2024-10-19T09:32:33.407745+00:00
+
+ ## Find the Best Indie Books at Books2Read.com
+ - [https://books2read.com](https://books2read.com)
+ - date_published: 2024-04-28T05:13:21.776383+00:00
+
+ ## Cierpliwości...
+ - [https://booksamillion.com](https://booksamillion.com)
+ - date_published: 2024-04-29T02:17:00.150176+00:00
+
+ ## Books & Books | Locally-owned, independent neighborhood bookstore
+ - [https://booksandbooks.com](https://booksandbooks.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## booksaremyfavouriteandbest
+ - [https://booksaremyfavouriteandbest.com](https://booksaremyfavouriteandbest.com)
+ - date_published: 2024-06-15T10:19:36+00:00
+
+ ## Books, Bones & Buffy
+ - [https://booksbonesbuffy.com](https://booksbonesbuffy.com)
+ - date_published: 2024-05-02T10:21:54.291170+00:00
+
  ## Show HN: I Made a Books Recommendation App Based on Your Mood
  - [https://booksbymood.com](https://booksbymood.com)
  - date_published: 2024-03-26T13:13:04+00:00
@@ -3873,161 +4035,4 @@
  ## Brazen
  - [https://app.brazenconnect.com](https://app.brazenconnect.com)
  - date_published: 2024-05-17T00:00:00+00:00
-
- ## Brazil Journal – Quem faz o PIB lê
- - [https://braziljournal.com](https://braziljournal.com)
- - date_published: 2022-03-30T17:28:22+00:00
-
- ## Brazil Reports
- - [https://brazilreports.com](https://brazilreports.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Brazil Sun | brazilsun.com | Brazil Newspaper Online
- - [http://www.brazilsun.com](http://www.brazilsun.com)
- - date_published: 2024-07-13T22:58:13.383503+00:00
-
- ## brazzil – Since 1989 Trying to Understand Brazil
- - [http://www.brazzil.com](http://www.brazzil.com)
- - date_published: 2024-10-21T18:40:27.421342+00:00
-
- ## Brbck
- - [https://brbck.com](https://brbck.com)
- - date_published: 2024-09-24T21:48:45.610883+00:00
-
- ## BRB Running
- - [https://brbrunning.com](https://brbrunning.com)
- - date_published: 2024-08-18T19:41:19.036503+00:00
-
- ## BRC20
- - [https://brc20.com](https://brc20.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## BRC Audio Productions
- - [https://www.brcaudio.com](https://www.brcaudio.com)
- - date_published: 2024-07-15T06:02:46.195760+00:00
-
- ## BRCK | 
-	  Front Page
- - [http://www.brck.com](http://www.brck.com)
- - date_published: 2024-08-07T19:26:11+00:00
-
- ## Breach Bang Clear Home | Breach Bang Clear
- - [http://www.breachbangclear.com](http://www.breachbangclear.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## BREACH :: HARBOR
- - [https://breachharbor.com](https://breachharbor.com)
- - date_published: 2024-06-20T11:06:43.026908+00:00
-
- ## Cloud Protection & Licensing Solutions | Thales
- - [https://breachlevelindex.com](https://breachlevelindex.com)
- - date_published: 2024-10-31T00:54:29+00:00
-
- ## Attack Surface Discovery & Penetration Testing | BreachLock
- - [https://breachlock.com](https://breachlock.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## BreachLock Reports
- - [https://downloads.breachlock.com](https://downloads.breachlock.com)
- - date_published: 2024-06-20T12:51:11+00:00
-
- ## Impact
- - [http://www.breadandbutterscience.com](http://www.breadandbutterscience.com)
- - date_published: 2020-07-30T22:36:16+00:00
-
- ## Bread and Roses Creative – Websites and Digital Marketing For Small and Medium Businesses
- - [https://breadandrosesweb.com](https://breadandrosesweb.com)
- - date_published: 2024-05-11T10:24:54.058958+00:00
-
- ## The Art of Food Photography | Bread & Beast Food Photographer
- - [https://www.breadbeastphotographer.com](https://www.breadbeastphotographer.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## BREADBOARD RADIO
- - [https://breadboardradio.com](https://breadboardradio.com)
- - date_published: 2023-09-15T14:42:52+00:00
-
- ## breadchris
- - [https://breadchris.com](https://breadchris.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Bread Financial: A Tech-forward Financial Services Company
- - [https://breadfinancial.com](https://breadfinancial.com)
- - date_published: 2024-05-09T07:36:52.671263+00:00
-
- ## Investor Relations | Bread Financial
- - [https://investor.breadfinancial.com](https://investor.breadfinancial.com)
- - date_published: 2024-07-10T05:05:06+00:00
-
- ## Bread Savings
- - [https://mysavings.breadfinancial.com](https://mysavings.breadfinancial.com)
- - date_published: 2024-07-10T05:05:21.126213+00:00
-
- ## Bread Financial Newsroom
- - [http://newsroom.breadfinancial.com](http://newsroom.breadfinancial.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Business solutions
- - [https://payments.breadfinancial.com](https://payments.breadfinancial.com)
- - date_published: 2024-06-21T12:43:30+00:00
-
- ## Bread Savings High-Yield Savings Accounts & Certificates of Deposit
- - [https://savings.breadfinancial.com](https://savings.breadfinancial.com)
- - date_published: 2024-07-10T05:05:36.384046+00:00
-
- ## Loading...
- - [https://connect.breadpayments.com](https://connect.breadpayments.com)
- - date_published: 2024-05-04T14:05:20.513940+00:00
-
- ## Loading...
- - [https://connect-preview.breadpayments.com](https://connect-preview.breadpayments.com)
- - date_published: 2024-07-29T08:10:23.076862+00:00
-
- ## Member Portal
- - [https://member-portal.breadpayments.com](https://member-portal.breadpayments.com)
- - date_published: 2024-07-10T05:05:14.632175+00:00
-
- ## Merchant Portal Frontend
- - [https://merchants.platform.breadpayments.com](https://merchants.platform.breadpayments.com)
- - date_published: 2024-07-10T05:04:59.726943+00:00
-
- ## Buy Now, Pay Later Built for the Future of Ecommerce | Bread
- - [https://platform-faq.breadpayments.com](https://platform-faq.breadpayments.com)
- - date_published: 2024-06-21T21:34:12.337587+00:00
-
- ## Bakery Machines and Bakery Equipments Wholesale Sellers | Baker Enterprises, New Delhi
- - [http://www.breadplant.com](http://www.breadplant.com)
- - date_published: 2024-10-15T21:39:41.684018+00:00
-
- ## BreadTalk – BreadTalk Group
- - [https://www.breadtalk.com](https://www.breadtalk.com)
- - date_published: 2024-06-23T10:44:06.826300+00:00
-
- ## Crafting Digital Success Stories – Bread Ventures
- - [http://www.bread-ventures.com](http://www.bread-ventures.com)
- - date_published: 2023-10-21T00:00:00+00:00
-
- ## BreakAway Games - Serious Games Developer
- - [https://breakawaygames.com](https://breakawaygames.com)
- - date_published: 2024-05-09T05:25:48.563274+00:00
-
- ## vHealthCare Portal
- - [https://store.breakawaygames.com](https://store.breakawaygames.com)
- - date_published: 2024-07-09T14:38:15.185011+00:00
-
- ## Gravel Cycling & Marathon Running Event Marketing and Promotion | BREAKAWAY PROMOTIONS
- - [https://breakawaypromotions.com](https://breakawaypromotions.com)
- - date_published: 2024-09-17T23:20:34.432766+00:00
-
- ## The Breakaway - Learn to Swing Dance in Oakland
- - [https://www.breakawayswing.com](https://www.breakawayswing.com)
- - date_published: 2024-06-26T21:46:17.461073+00:00
-
- ## Breakbulk Americas | October 15-17 2024 | Houston, TX
- - [https://americas.breakbulk.com](https://americas.breakbulk.com)
- - date_published: 2024-06-21T23:25:18+00:00
-
- ## Breakbulk Europe | 13-15 May 2025 | Rotterdam Ahoy, Netherlands
- - [https://europe.breakbulk.com](https://europe.breakbulk.com)
- - date_published: 2024-06-21T22:41:06+00:00
 

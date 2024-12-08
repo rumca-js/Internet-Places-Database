@@ -1,3 +1,19 @@
+ ## λ ∧ ¬λ
+ - [https://lamda.blog](https://lamda.blog)
+ - date_published: 2024-10-19T02:45:51.411985+00:00
+
+ ## Lat × Long
+ - [https://latlong.blog](https://latlong.blog)
+ - date_published: 2023-10-25T12:00:41.450594+00:00
+
+ ## Laurie J. Marks
+ - [https://lauriejmarks.blog](https://lauriejmarks.blog)
+ - date_published: 2024-06-22T14:04:51.290899+00:00
+
+ ## The end can be prevented
+ - [https://activeprp2k24.law.blog](https://activeprp2k24.law.blog)
+ - date_published: 2024-09-19T20:09:29.601542+00:00
+
  ## Leaders Blog
  - [https://www.leaders.blog](https://www.leaders.blog)
  - date_published: 2022-03-02T19:40:28+00:00
@@ -1213,6 +1229,10 @@
  ## BlueSCSI - A hardware SCSI HDD & CD-ROM emulator
  - [https://scsi.blue](https://scsi.blue)
  - date_published: 2024-05-08T08:58:04.469629+00:00
+
+ ## Seeking Blue Records | Indie Electronic Record Label
+ - [https://seeking.blue](https://seeking.blue)
+ - date_published: 2024-12-07T17:51:07.277400+00:00
 
  ## Blue Dot Sessions | Podcast Intro and Background Music | Music For Podcasts
  - [https://www.sessions.blue](https://www.sessions.blue)
@@ -4026,24 +4046,4 @@ Educação
  ## Gabriel
  - [https://gabriel.com.br](https://gabriel.com.br)
  - date_published: 2024-10-28T12:19:58+00:00
-
- ## Gabriel
- - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
- - date_published: 2024-10-28T12:19:56+00:00
-
- ## Galera - Grupo Editorial Record
- - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
- - date_published: 2024-07-13T02:29:04.705015+00:00
-
- ## Home | ICBC 2024
- - [https://icbc2024.galoa.com.br](https://icbc2024.galoa.com.br)
- - date_published: 2024-10-19T23:00:43.311356+00:00
-
- ## Participate in one of the biggest B2B events in the gaming industry
- - [https://gamescom.com.br](https://gamescom.com.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Garnier | Skincare e coloração para todos
- - [http://www.garnier.com.br](http://www.garnier.com.br)
- - date_published: 2024-10-20T22:52:18.127182+00:00
 

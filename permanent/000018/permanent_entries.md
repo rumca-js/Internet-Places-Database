@@ -1,3 +1,23 @@
+ ## Factor_ | Healthy, Fully-Prepared Food Delivered to Your Door
+ - [https://factormeals.ca](https://factormeals.ca)
+ - date_published: 2024-06-18T17:20:20.346793+00:00
+
+ ## FAIR Canada
+ - [http://faircanada.ca](http://faircanada.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fair Vote Canada
+ - [https://secure.fairvote.ca](https://secure.fairvote.ca)
+ - date_published: 2024-07-20T12:02:47+00:00
+
+ ## Fair Vote Canada - Proportional Representation
+ - [https://www.fairvote.ca](https://www.fairvote.ca)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Stephen's Guide to the Logical Fallacies ~ Home Page
+ - [https://www.fallacies.ca](https://www.fallacies.ca)
+ - date_published: 2024-07-04T09:37:01+00:00
+
  ## Making It Up
  - [http://play.fallows.ca](http://play.fallows.ca)
  - date_published: 2024-07-20T00:00:00+00:00
@@ -4024,24 +4044,4 @@
  ## Plant - Canada's Manufacturing Voice
  - [https://www.plant.ca](https://www.plant.ca)
  - date_published: 2024-10-15T17:34:17+00:00
-
- ## PlanToys Canada
- - [https://plantoys.ca](https://plantoys.ca)
- - date_published: 2024-06-23T16:34:47.232640+00:00
-
- ## play 101.3 - play 101.3
- - [https://www.play1013.ca](https://www.play1013.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## play 103.7 - play 103.7
- - [https://www.play1037.ca](https://www.play1037.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Play 92
- - [https://www.play92.ca](https://www.play92.ca)
- - date_published: 2024-06-27T12:38:46+00:00
-
- ## League of Canadian Poets Home
- - [https://poets.ca](https://poets.ca)
- - date_published: 2024-07-20T00:00:00+00:00
 
