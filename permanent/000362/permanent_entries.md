@@ -1,3 +1,82 @@
+ ## Fabio Cevasco's Web Page
+ - [https://cevasco.org](https://cevasco.org)
+ - date_published: 2023-08-12T03:46:39+00:00
+
+ ## C-evo, Empire Building Game
+ - [https://c-evo.org](https://c-evo.org)
+ - date_published: 2024-05-14T13:53:47+00:00
+ - tags: ['open source', 'video game']
+
+ ## Home | CEWIT
+ - [http://www.cewit.org](http://www.cewit.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## CF.ORG
+ - [https://www.cf.org](https://www.cf.org)
+ - date_published: 2024-09-16T19:52:31.928516+00:00
+
+ ## Home
+        |
+        Comic Fanfiction Authors Archive
+ - [http://www.cfaarchive.org](http://www.cfaarchive.org)
+ - date_published: 2024-09-16T06:42:09.097359+00:00
+
+ ## 中国期货业协会
+ - [http://www.cfachina.org](http://www.cfachina.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## CFACT – Individual freedom, climate, energy technology and more
+ - [https://cfact.org](https://cfact.org)
+ - date_published: 2024-06-15T08:48:11.761513+00:00
+
+ ## CFACT – Collegians For A Constructive Tomorrow
+ - [https://www.cfactcampus.org](https://www.cfactcampus.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home | CFAIL
+ - [https://www.cfail.org](https://www.cfail.org)
+ - date_published: 2024-08-19T17:45:45.235846+00:00
+
+ ## CFA Institute Daily Browse | Research. Reviews. Ideas. Built for investment professionals.
+ - [https://blogs.cfainstitute.org](https://blogs.cfainstitute.org)
+ - date_published: 2024-09-09T15:26:13.752628+00:00
+
+ ## CFA Institute
+ - [https://www.cfainstitute.org](https://www.cfainstitute.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Chris Fallin
+ - [https://cfallin.org](https://cfallin.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## C-Fam
+ - [https://c-fam.org](https://c-fam.org)
+ - date_published: 2023-10-25T21:04:54.162943+00:00
+
+ ## 中国电影著作权协会
+ - [http://www.cfca-c.org](http://www.cfca-c.org)
+ - date_published: 2024-06-30T20:36:07.567360+00:00
+
+ ## CFCamp - The CFML conference in Europe
+ - [https://www.cfcamp.org](https://www.cfcamp.org)
+ - date_published: 2024-08-18T20:29:37.802832+00:00
+
+ ## DRONE SCHOOL PORTAL | 日本最大級のドローン資格・免許専門サイト
+ - [http://www.cfctoday.org](http://www.cfctoday.org)
+ - date_published: 2024-06-19T02:22:40.740810+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://staging.mrk.cfdata.org](https://staging.mrk.cfdata.org)
+ - date_published: 2024-05-08T05:42:47.048530+00:00
+
+ ## Canadian Foundation for Economic Education
+ - [http://cfee.org](http://cfee.org)
+ - date_published: 2024-06-24T08:18:42.749142+00:00
+
+ ## Home | Cystic Fibrosis Foundation
+ - [https://www.cff.org](https://www.cff.org)
+ - date_published: 2024-08-18T00:05:18+00:00
+
  ## Homepage
  - [https://www.cfgnh.org](https://www.cfgnh.org)
  - date_published: 2024-07-02T15:49:03.445767+00:00
@@ -2678,6 +2757,10 @@ feel and do
  - [https://www.classical89.org](https://www.classical89.org)
  - date_published: 2024-07-17T03:25:28.523002+00:00
 
+ ## Classical California
+ - [https://classicalcalifornia.org](https://classicalcalifornia.org)
+ - date_published: 2024-12-09T01:40:02.349485+00:00
+
  ## Classical KC - Homepage
  - [http://classicalkc.org](http://classicalkc.org)
  - date_published: 2024-01-31T00:00:00+00:00
@@ -3971,85 +4054,4 @@ feel and do
  ## Chambre des notaires du Québec | CNQ
  - [http://www.cnq.org](http://www.cnq.org)
  - date_published: 2024-07-16T00:00:00+00:00
-
- ## Lethal Restraint from The Howard Centers for Investigative Journalism
- - [https://police.cnsmaryland.org](https://police.cnsmaryland.org)
- - date_published: 2024-08-18T20:44:25.866871+00:00
-
- ## Clausewitz Netzwerk für strategische Studien e.V. - Clausewitz Netzwerk für Strategische Studien
- - [http://www.cnss.org](http://www.cnss.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Center for Neighborhood Technology
- - [https://www.cnt.org](https://www.cnt.org)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Confédération nationale du travail - Un syndicat de lutte des classes !
- - [http://www.cnt-f.org](http://www.cnt-f.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## CNU
- - [https://cnu.org](https://cnu.org)
- - date_published: 2023-11-21T21:54:59.568176+00:00
-
- ## Attention Required! | Cloudflare
- - [https://cnvc.org](https://cnvc.org)
- - date_published: 2024-05-12T06:12:09.940537+00:00
-
- ## OpenStax | Free Textbooks Online with No Catch
- - [http://cnx.org](http://cnx.org)
- - date_published: 2024-06-12T16:06:21+00:00
-
- ## Home - CO2 Coalition
- - [https://co2coalition.org](https://co2coalition.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Rezeki Apps – Aplikasi Bisnis Online Tanpa Modal 2022
- - [http://www.co2isgreen.org](http://www.co2isgreen.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Current & Historical Carbon Dioxide (CO2) Levels Graph
- - [https://co2levels.org](https://co2levels.org)
- - date_published: 2024-01-09T03:38:35.859795+00:00
-
- ## Earth's CO2 Home Page
- - [https://co2now.org](https://co2now.org)
- - date_published: 2024-05-07T15:01:22.483208+00:00
- - tags: ['co2']
-
- ## CO2 Science
- - [https://co2science.org](https://co2science.org)
- - date_published: 2024-05-06T23:32:54.090996+00:00
-
- ## Colorado Utility Locator | Call For Local Utility Locating Services | CO811
- - [http://www.co811.org](http://www.co811.org)
- - date_published: 2024-10-22T02:45:05.612109+00:00
-
- ## International Coaching Federation- Professional Coaching Association
- - [https://coachfederation.org](https://coachfederation.org)
- - date_published: 2024-05-01T03:04:46.662663+00:00
-
- ## ICF - Search Research Portal
- - [https://researchportal.coachfederation.org](https://researchportal.coachfederation.org)
- - date_published: 2024-06-15T09:27:10+00:00
-
- ## International Coaching Federation- Professional Coaching Association
- - [https://coachingfederation.org](https://coachingfederation.org)
- - date_published: 2024-06-15T09:27:42.406948+00:00
-
- ## Login Required
- - [https://learning.coachingfederation.org](https://learning.coachingfederation.org)
- - date_published: 2024-09-16T23:30:16.419426+00:00
-
- ## Council on Accreditation - Supporting Quality Assessment and Improvement in Nurse Anesthesia Education
- - [http://www.coacrna.org](http://www.coacrna.org)
- - date_published: 2024-10-22T03:48:59.150519+00:00
-
- ## COACV - Colegio de Arquitectos de la Comunidad Valenciana
- - [https://www.coacv.org](https://www.coacv.org)
- - date_published: 2024-10-15T03:37:40.994134+00:00
-
- ## COAL + ICE | Visualizing the climate crisis.
- - [http://coalandice.org](http://coalandice.org)
- - date_published: 2024-05-13T00:00:00+00:00
 

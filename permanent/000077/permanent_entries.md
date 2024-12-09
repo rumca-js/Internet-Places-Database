@@ -1,3 +1,20 @@
+ ## GitBook
+ - [https://docs.codeocean.com](https://docs.codeocean.com)
+ - date_published: 2024-08-05T12:43:42+00:00
+
+ ## My Secret Life as a Spaghetti Coder
+ - [http://codeodor.com](http://codeodor.com)
+ - date_published: 2024-05-08T10:19:06.601153+00:00
+
+ ## Code Of Honor - Game design, programming and more
+ - [https://codeofhonor.com](https://codeofhonor.com)
+ - date_published: 2024-03-24T15:08:02.980466+00:00
+ - tags: ['personal']
+
+ ## Code On Technologies
+ - [https://www.codeontechnologies.com](https://www.codeontechnologies.com)
+ - date_published: 2024-05-06T21:34:50.879268+00:00
+
  ## CodeOpinion
  - [https://codeopinion.com](https://codeopinion.com)
  - date_published: 2024-06-08T21:34:48.601702+00:00
@@ -4031,20 +4048,4 @@ Colyvan's Homepage
  ## Communication Arts
  - [https://www.commarts.com](https://www.commarts.com)
  - date_published: 2024-06-29T11:57:01.457769+00:00
-
- ## COMME des GARÇONS
- - [http://comme-des-garcons.com](http://comme-des-garcons.com)
- - date_published: 2024-07-11T06:03:24+00:00
-
- ## BIKES, SNOW, LIFESTYLE - COMMENCAL
- - [https://commencal.com](https://commencal.com)
- - date_published: 2024-06-15T11:59:04.567339+00:00
-
- ## Social Media Comment Moderation - Comment Bounce
- - [https://www.commentbounce.com](https://www.commentbounce.com)
- - date_published: 2024-07-12T17:05:57.925659+00:00
-
- ## Connexion aux forums
- - [https://auth.commentcamarche.com](https://auth.commentcamarche.com)
- - date_published: 2024-10-02T13:56:38.942385+00:00
 

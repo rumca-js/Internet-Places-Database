@@ -1,3 +1,11 @@
+ ## Solo Nexa Mining Pool - 2Miners
+ - [https://solo-nexa.2miners.com](https://solo-nexa.2miners.com)
+ - date_published: 2024-07-21T02:34:51.302074+00:00
+
+ ## Solo Pyrin PYI Mining Pool - 2Miners
+ - [https://solo-pyi.2miners.com](https://solo-pyi.2miners.com)
+ - date_published: 2024-04-30T07:31:41.167427+00:00
+
  ## Solo Ravencoin RVN Mining Pool - 2Miners
  - [https://solo-rvn.2miners.com](https://solo-rvn.2miners.com)
  - date_published: 2024-07-21T02:34:57.088188+00:00
@@ -4049,12 +4057,4 @@ Personal Consulting
  ## J. Ellis Uptown Apartment Locators - Dallas, TX | (469) 442-1974
  - [http://www.aarynbelfer.com](http://www.aarynbelfer.com)
  - date_published: 2024-10-29T19:39:42.163838+00:00
-
- ## AASBI-com
- - [https://www.aasbi.com](https://www.aasbi.com)
- - date_published: 2024-07-09T13:23:08+00:00
-
- ## Aaseya: Empowering Businesses with Cutting-Edge Digital Solutions
- - [https://aaseya.com](https://aaseya.com)
- - date_published: 2024-09-16T00:00:00+00:00
 

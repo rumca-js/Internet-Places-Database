@@ -1,3 +1,71 @@
+ ## Abonnement au Journal du Dimanche sans engagement | JDD numérique
+ - [https://abonnement.lejdd.fr](https://abonnement.lejdd.fr)
+ - date_published: 2024-05-11T07:47:48.116144+00:00
+
+ ## Actualités du jour | JDD
+ - [https://lejdd.fr](https://lejdd.fr)
+ - date_published: 2024-03-18T12:33:59.768522+00:00
+
+ ## Compte | JDD
+ - [https://profile.lejdd.fr](https://profile.lejdd.fr)
+ - date_published: 2024-05-11T07:47:46.513283+00:00
+
+ ## Le Keynote
+ - [https://lekeynote.fr](https://lekeynote.fr)
+ - date_published: 2023-09-12T11:27:35+00:00
+
+ ## Le Kinetoscope
+ - [https://www.lekinetoscope.fr](https://www.lekinetoscope.fr)
+ - date_published: 2024-10-19T15:42:13.856564+00:00
+
+ ## lelynx.fr
+ - [https://www.lelynx.fr](https://www.lelynx.fr)
+ - date_published: 2024-09-15T20:07:08.846099+00:00
+
+ ## LeMagIT | Toute l'information IT pour l'entreprise
+ - [https://lemagit.fr](https://lemagit.fr)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## TechTarget
+ - [https://users.lemagit.fr](https://users.lemagit.fr)
+ - date_published: 2020-08-28T02:21:40+00:00
+
+ ## Le Média, une information au service du bien commun
+ - [https://www.lemediatv.fr](https://www.lemediatv.fr)
+ - date_published: 2024-07-09T07:02:57.143371+00:00
+
+ ## Le meilleur pour votre bien - Estimez votre maison ICI ! + de 200 000 Acquereurs de maisons.
+ - [https://www.le-meilleur-pour-votre-bien.fr](https://www.le-meilleur-pour-votre-bien.fr)
+ - date_published: 2024-07-13T19:48:17.618992+00:00
+
+ ## Abonnement Le Monde : toutes nos formules et offres
+ - [https://abo.lemonde.fr](https://abo.lemonde.fr)
+ - date_published: 2024-05-08T00:31:12.882672+00:00
+
+ ## Cours d'allemand avec Wunderbla
+ - [https://allemand.lemonde.fr](https://allemand.lemonde.fr)
+ - date_published: 2024-05-08T00:31:11.551763+00:00
+
+ ## Cours d'anglais en ligne avec Gymglish
+ - [https://anglais.lemonde.fr](https://anglais.lemonde.fr)
+ - date_published: 2024-05-08T00:30:35.596331+00:00
+
+ ## Annonces légales
+ - [https://annonces-legales.lemonde.fr](https://annonces-legales.lemonde.fr)
+ - date_published: 2024-05-08T00:30:27.582008+00:00
+
+ ## Cours de français avec Frantastique
+ - [https://apprendre-francais.lemonde.fr](https://apprendre-francais.lemonde.fr)
+ - date_published: 2024-07-03T06:04:15.578384+00:00
+
+ ## Jeux gratuits en ligne : jouez gratuitement ici | LE MONDE
+ - [https://arcade.lemonde.fr](https://arcade.lemonde.fr)
+ - date_published: 2024-05-08T00:30:30.915439+00:00
+
+ ## Les ateliers du Monde : sélection d'ateliers et cours par la rédaction du Monde
+ - [https://ateliers.lemonde.fr](https://ateliers.lemonde.fr)
+ - date_published: 2024-05-08T00:30:37.271187+00:00
+
  ## La boutique du Monde
  - [https://boutique.lemonde.fr](https://boutique.lemonde.fr)
  - date_published: 2024-05-08T00:30:40.888527+00:00
@@ -3938,72 +4006,4 @@
  ## korii. - L'actu des nouvelles économies et des nouvelles techno par Slate.fr
  - [https://korii.slate.fr](https://korii.slate.fr)
  - date_published: 2024-07-18T05:27:54+00:00
-
- ## Slate.fr - Culture, politique, économie, tech, sciences, santé
- - [http://www.slate.fr](http://www.slate.fr)
- - date_published: 2024-08-18T01:38:11+00:00
-
- ## About Slint
- - [https://slint.fr](https://slint.fr)
- - date_published: 2023-10-07T00:00:00+00:00
-
- ## Assurances pour les professionnels et les particuliers
- - [https://www.smabtp.fr](https://www.smabtp.fr)
- - date_published: 2024-09-11T18:10:16.935659+00:00
-
- ## Xpollens : Embedded Payment - Solution de paiement intégré
- - [https://s-money.fr](https://s-money.fr)
- - date_published: 2024-09-26T12:17:43+00:00
-
- ## SOBREN - Votre conseiller sur la sobriété énergétique
- - [https://sobren.fr](https://sobren.fr)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## SG - Banque et Assurance au plus proche de vous
- - [https://www.societegenerale.fr](https://www.societegenerale.fr)
- - date_published: 2024-07-03T05:07:24.708721+00:00
-
- ## Crédit Sofinco : crédits auto, conso, perso, rachat et simulation de prêt
- - [https://www.sofinco.fr](https://www.sofinco.fr)
- - date_published: 2024-06-25T22:05:49.275351+00:00
-
- ## Solar hotel. The best budget hotel, ecological and low cost at the center of Paris. Cheap Hotel in Paris -
- - [http://www.solarhotel.fr](http://www.solarhotel.fr)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Étude de Sol Assainissement ANC, Fosse Septique - Étude Infiltration Eaux Pluviales - Bassin de Rétention - Diagnostic Pollution Terrain, Sol et Eau - Avignon, Nîmes, Alès
- - [https://soleo-environnement.fr](https://soleo-environnement.fr)
- - date_published: 2023-04-11T00:00:00+00:00
-
- ## Solidarité & Progrès
- - [https://solidariteetprogres.fr](https://solidariteetprogres.fr)
- - date_published: 2024-07-13T17:57:11+00:00
-
- ## Citroën SOMASCO – Listing des offres Citroën Somasco
- - [https://citroen.somasco-guyane.fr](https://citroen.somasco-guyane.fr)
- - date_published: 2024-05-10T04:45:25.283818+00:00
-
- ## Sommet du Grand Paris
- - [https://sommetdugrandparis.fr](https://sommetdugrandparis.fr)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Sony France | Actualités sur les technologies | Électronique | Divertissement
- - [http://www.sony.fr](http://www.sony.fr)
- - date_published: 2024-10-21T07:37:10.457574+00:00
-
- ## Sony Pictures France | homepage
- - [https://www.sonypictures.fr](https://www.sonypictures.fr)
- - date_published: 2024-07-27T17:28:01.314030+00:00
-
- ## Sophia In
- - [https://www.sophia-in.fr](https://www.sophia-in.fr)
- - date_published: 2024-06-14T20:10:32+00:00
-
- ## Accueil - Sopra Steria
- - [https://www.soprasteria.fr](https://www.soprasteria.fr)
- - date_published: 2024-06-09T17:28:35.158252+00:00
-
- ## soqr.fr Pascal Cauhépé
- - [http://soqr.fr](http://soqr.fr)
- - date_published: 2024-09-14T22:36:09.556818+00:00
 

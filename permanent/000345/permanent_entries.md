@@ -1,3 +1,85 @@
+ ## Aeon Genesis ~ News
+ - [http://agtp.romhack.net](http://agtp.romhack.net)
+ - date_published: 2024-07-11T11:27:00.529071+00:00
+
+ ## ROMhacking.net News
+ - [https://romhacking.net](https://romhacking.net)
+ - date_published: 2024-06-08T00:00:00+00:00
+ - tags: ['homebrew', 'reverse engineering', 'hacking']
+
+ ## ROMsfun- Download ROMs Game and Emulators for Console
+ - [https://romsdl.net](https://romsdl.net)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Download ROMs for GBA, SNES, NDS, N64, PSX, 3DS, GBC and more!
+ - [https://romsgames.net](https://romsgames.net)
+ - date_published: 2024-07-16T19:25:34+00:00
+ - tags: ['nintendo', 'gameboy', 'sega', 'game roms', 'playstation']
+
+ ## Roms'n'Games
+ - [https://romsngames.net](https://romsngames.net)
+ - date_published: 2024-07-14T12:18:44+00:00
+ - tags: ['video game roms']
+
+ ## Ron Cobb - Home
+ - [https://roncobb.net](https://roncobb.net)
+ - date_published: 2016-07-14T00:41:05+00:00
+ - tags: ['personal']
+
+ ## Rooms on rent, facilities, advantages, disadvantages, problems, hostel, paying guest, rates, food, restrictions, room size, R&AW/cbi committing CYBERCRIME on private citizens, to steal data, make fake claims about their lazy greedy fraud employees, permanent raw/cbi jobs for sugar babies of top raw/ntro employees with fake resume, fake investment, fake computer work, harassment , ntro, raw, cbi, security agencies,identity theft, resume theft, savings theft, panaji banking fraud , fraud raw/cbi employees faking ownership of website in financial, domain fraud, indian government duping domain registrars, registries and ICANN with fake claims of domain ownership allegedly bribed by google, tata to increase their million dollar profits
+ - [http://www.roomu.net](http://www.roomu.net)
+ - date_published: 2024-06-20T03:48:49.450242+00:00
+
+ ## Association pour la promotion des logiciels libres dans les Yvelines - Root66
+ - [https://root66.net](https://root66.net)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## RootBSD - NetActuate
+ - [https://rootbsd.net](https://rootbsd.net)
+ - date_published: 2024-06-16T03:00:00.832018+00:00
+
+ ## ROSEMARY SUTCLIFF (1920-92)
+ - [https://rosemarysutcliff.net](https://rosemarysutcliff.net)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Cyrille Rossant
+ - [https://cyrille.rossant.net](https://cyrille.rossant.net)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## BeRo's Blog
+ - [http://blog.rosseaux.net](http://blog.rosseaux.net)
+ - date_published: 2023-07-18T00:39:59+00:00
+
+ ## Ross Kaffenberger
+ - [https://rossta.net](https://rossta.net)
+ - date_published: 2023-12-05T21:46:39+00:00
+
+ ## RossWorx
+ - [http://rossworx.net](http://rossworx.net)
+ - date_published: 2008-08-02T00:00:00+00:00
+
+ ## David Röthlisberger
+ - [https://david.rothlis.net](https://david.rothlis.net)
+ - date_published: 2023-10-25T20:36:38.418299+00:00
+
+ ## Rotovaps.net
+       | The Largest Selection of Rotary Evaporators!
+ - [http://rotovaps.net](http://rotovaps.net)
+ - date_published: 2024-08-18T22:22:50.410399+00:00
+
+ ## Accueil
+ - [https://rougy.net](https://rougy.net)
+ - date_published: 2024-06-10T12:18:18.535468+00:00
+
+ ## Roundcube Plugins Repository
+ - [https://plugins.roundcube.net](https://plugins.roundcube.net)
+ - date_published: 2021-04-26T19:53:56+00:00
+
+ ## Roundcube - Free and Open Source Webmail Software
+ - [https://roundcube.net](https://roundcube.net)
+ - date_published: 2024-04-08T19:30:38.049870+00:00
+ - tags: ['self-host', 'e-mail server']
+
  ## Request Rejected
  - [https://www.routeone.net](https://www.routeone.net)
  - date_published: 2024-05-01T08:25:22.987270+00:00
@@ -3994,81 +4076,4 @@
  ## FlightGear Aviation Resources
  - [https://flightgear.sourceforge.net](https://flightgear.sourceforge.net)
  - date_published: 2022-02-19T12:40:38+00:00
-
- ## FMPP: Text file preprocessor (HTML preprocessor)
- - [http://fmpp.sourceforge.net](http://fmpp.sourceforge.net)
- - date_published: 2018-09-03T22:18:48+00:00
-
- ## Foremost
- - [http://foremost.sourceforge.net](http://foremost.sourceforge.net)
- - date_published: 2010-03-02T03:00:03+00:00
-
- ## fpGUI Toolkit
- - [https://fpgui.sourceforge.net](https://fpgui.sourceforge.net)
- - date_published: 2015-09-02T00:00:00+00:00
-
- ## The Freeciv Alpha Centauri Project
- - [https://freecivac.sourceforge.net](https://freecivac.sourceforge.net)
- - date_published: 2009-07-17T13:42:09+00:00
-
- ## Freedoom
- - [http://freedoom.sourceforge.net](http://freedoom.sourceforge.net)
- - date_published: 2024-07-11T12:14:29.278976+00:00
-
- ## Home | FreedroidRPG
- - [http://freedroid.sourceforge.net](http://freedroid.sourceforge.net)
- - date_published: 2023-01-23T00:25:45+00:00
-
- ## The freeglut Project :: About
- - [http://freeglut.sourceforge.net](http://freeglut.sourceforge.net)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## FreeMind - free mind mapping software
- - [http://freemind.sourceforge.net](http://freemind.sourceforge.net)
- - date_published: 2006-03-09T05:12:35+00:00
-
- ## Freerails
- - [https://freerails2.sourceforge.net](https://freerails2.sourceforge.net)
- - date_published: 2024-05-09T09:01:11.457296+00:00
-
- ## FreeRA
- - [http://freera.sourceforge.net](http://freera.sourceforge.net)
- - date_published: 2024-09-13T20:13:16.283999+00:00
-
- ## CVS Info for project freesiege
- - [http://freesiege.cvs.sourceforge.net](http://freesiege.cvs.sourceforge.net)
- - date_published: 2024-07-11T12:03:16.925141+00:00
-
- ## FreeSiege
- - [https://freesiege.sourceforge.net](https://freesiege.sourceforge.net)
- - date_published: 2013-04-25T21:55:53+00:00
-
- ## Freestars, a Stars! clone
- - [https://freestars.sourceforge.net](https://freestars.sourceforge.net)
- - date_published: 2004-05-29T03:06:34+00:00
-
- ## The FreeSynd Project :: News
- - [http://freesynd.sourceforge.net](http://freesynd.sourceforge.net)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## FreeTDS development site
- - [http://freetds.sourceforge.net](http://freetds.sourceforge.net)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## FreeTrain
- - [https://freetrain.sourceforge.net](https://freetrain.sourceforge.net)
- - date_published: 2019-12-01T00:00:00+00:00
- - tags: ['video game port', 'open source']
-
- ## Best Open Source Linux Libraries 2024
- - [https://freeverb3.sourceforge.net](https://freeverb3.sourceforge.net)
- - date_published: 2024-05-08T10:16:31.357046+00:00
-
- ## Best Open Source Linux Software Development Software 2024
- - [https://freshmeat.sourceforge.net](https://freshmeat.sourceforge.net)
- - date_published: 2024-05-08T08:44:50.306941+00:00
-
- ## Frets On Fire
- - [https://fretsonfire.sourceforge.net](https://fretsonfire.sourceforge.net)
- - date_published: 2012-01-31T23:43:51+00:00
 

@@ -1,3 +1,72 @@
+ ## Doc
+ - [https://doc.crds.dev](https://doc.crds.dev)
+ - date_published: 2024-08-07T22:03:30.072896+00:00
+
+ ## Create React App
+ - [https://create-react-app.dev](https://create-react-app.dev)
+ - date_published: 2022-03-24T20:09:17+00:00
+
+ ## Christian Fei's Blog - cri.dev
+ - [https://cri.dev](https://cri.dev)
+ - date_published: 2023-10-25T08:58:26.480635+00:00
+ - tags: ['personal']
+
+ ## Plausible · Web analytics
+ - [https://p.cri.dev](https://p.cri.dev)
+ - date_published: 2024-04-29T07:34:06.303514+00:00
+
+ ## Minimal Analytics
+ - [https://s.cri.dev](https://s.cri.dev)
+ - date_published: 2024-04-29T07:34:05.562487+00:00
+
+ ## crowd.dev Changelog
+ - [https://changelog.crowd.dev](https://changelog.crowd.dev)
+ - date_published: 2024-07-18T13:06:14.310858+00:00
+
+ ## crowd.dev | The Developer Data Platform
+ - [https://crowd.dev](https://crowd.dev)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | Index
+ - [https://docs.crowd.dev](https://docs.crowd.dev)
+ - date_published: 2024-07-18T13:05:57.969724+00:00
+
+ ## GO.CROWD.DEV - A Dub.co Custom Domain
+ - [https://go.crowd.dev](https://go.crowd.dev)
+ - date_published: 2024-07-18T13:06:09.399274+00:00
+
+ ## Corbin Crutchley
+ - [https://crutchcorn.dev](https://crutchcorn.dev)
+ - date_published: 2024-07-02T20:47:15.492734+00:00
+
+ ## Visual Studio Code for CS50
+ - [https://cs50.dev](https://cs50.dev)
+ - date_published: 2024-06-22T10:42:46.766783+00:00
+
+ ## CSSBattle
+ - [https://cssbattle.dev](https://cssbattle.dev)
+ - date_published: 2024-09-04T06:46:46.542117+00:00
+
+ ## Cthos (dot) Dev Mastodon
+ - [https://mastodon.cthos.dev](https://mastodon.cthos.dev)
+ - date_published: 2024-09-05T15:42:27.629652+00:00
+
+ ## Chris Nicholas | Developer experience at Liveblocks
+ - [https://ctnicholas.dev](https://ctnicholas.dev)
+ - date_published: 2024-04-29T07:28:39.968298+00:00
+
+ ## The Amazing CTO Book | Amazing CTO
+ - [https://ctobook.dev](https://ctobook.dev)
+ - date_published: 2024-07-26T12:49:07+00:00
+
+ ## Cube — Semantic Layer for Building Data Applications
+ - [https://cube.dev](https://cube.dev)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Cube Cloud – Deploy, Scale, and Optimize Your Cube Apps
+ - [https://cubecloud.dev](https://cubecloud.dev)
+ - date_published: 2024-08-08T23:24:24.640047+00:00
+
  ## CubeSigner, a refreshingly secure key manager
  - [https://cubist.dev](https://cubist.dev)
  - date_published: 2023-11-02T07:07:07+00:00
@@ -4007,74 +4076,4 @@
  ## Introduction - Docs
  - [https://docs.layerform.dev](https://docs.layerform.dev)
  - date_published: 2024-04-29T07:42:23.536481+00:00
-
- ## Layerform | Open-source production-like development infrastructure
- - [https://layerform.dev](https://layerform.dev)
- - date_published: 2024-07-23T22:07:04.387238+00:00
-
- ## lcdsmao
- - [http://lcdsmao.dev](http://lcdsmao.dev)
- - date_published: 2024-06-23T08:12:27.416143+00:00
-
- ## https://www.leapml.dev
- - [https://www.leapml.dev](https://www.leapml.dev)
- - date_published: 2024-01-09T02:57:18.355700+00:00
-
- ## Learn How To Make a Website with Steph
- - [https://learnfromsteph.dev](https://learnfromsteph.dev)
- - date_published: 2024-04-30T00:34:49.721013+00:00
-
- ## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
- - [https://learngenomics.dev](https://learngenomics.dev)
- - date_published: 2023-07-21T20:05:42+00:00
-
- ## Demo - LearnLingo
- - [https://demo.learnlingo.dev](https://demo.learnlingo.dev)
- - date_published: 2024-06-19T21:25:56.820654+00:00
-
- ## Learn. Build. Grow. Together.
- - [https://learnwithjason.dev](https://learnwithjason.dev)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## 1kb by lejtzen.dev
- - [https://1kb.lejtzen.dev](https://1kb.lejtzen.dev)
- - date_published: 2024-06-20T21:56:15.098029+00:00
-
- ## lejtzen.dev
- - [https://lejtzen.dev](https://lejtzen.dev)
- - date_published: 2023-10-14T19:16:11+00:00
-
- ## Lelouch.dev | Personal Blog
- - [https://lelouch.dev](https://lelouch.dev)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://leocavalcante.dev](https://leocavalcante.dev)
- - date_published: 2024-05-09T07:48:17.080986+00:00
-
- ## Leonardo Luís Dalcegio
- - [https://leodalcegio.dev](https://leodalcegio.dev)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Leo Gao
- - [https://leogao.dev](https://leogao.dev)
- - date_published: 2022-02-19T07:46:49+00:00
-
- ## Leo Melo
- - [https://www.leomeloxp.dev](https://www.leomeloxp.dev)
- - date_published: 2024-05-05T00:00:00+00:00
- - tags: ['personal']
-
- ## ChatGPT HTML Web View Extension - Revolutionize Your ChatGPT Experience
- - [https://gptview.leonkohli.dev](https://gptview.leonkohli.dev)
- - date_published: 2024-09-26T16:51:29.563351+00:00
-
- ## Home Page
- - [https://leots.dev](https://leots.dev)
- - date_published: 2023-12-15T11:15:24.587419+00:00
- - tags: ['personal']
-
- ## Introduction
- - [https://book.leptos.dev](https://book.leptos.dev)
- - date_published: 2024-04-29T07:57:43.246589+00:00
 

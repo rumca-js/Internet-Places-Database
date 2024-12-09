@@ -1,3 +1,71 @@
+ ## groups.sas.upenn.edu Mailing Lists
+ - [https://groups.sas.upenn.edu](https://groups.sas.upenn.edu)
+ - date_published: 2024-05-07T21:59:00.890305+00:00
+
+ ## The Wharton School
+ - [https://groups.wharton.upenn.edu](https://groups.wharton.upenn.edu)
+ - date_published: 2024-10-14T20:09:48.142003+00:00
+
+ ## Guides: Guides Home: Research Guides
+ - [https://guides.library.upenn.edu](https://guides.library.upenn.edu)
+ - date_published: 2024-07-01T18:48:13.998189+00:00
+
+ ## Andreas Haeberlen
+ - [https://haeberlen.cis.upenn.edu](https://haeberlen.cis.upenn.edu)
+ - date_published: 2024-07-02T10:29:50.654958+00:00
+
+ ## University of Pennsylvania Libraries - Handle Testing
+ - [http://hdl.library.upenn.edu](http://hdl.library.upenn.edu)
+ - date_published: 2021-10-30T00:18:01+00:00
+
+ ## Penn Computer & Information Science Highlights – Inventing the future
+ - [https://highlights.cis.upenn.edu](https://highlights.cis.upenn.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Human Resources |
+ - [https://hr.seas.upenn.edu](https://hr.seas.upenn.edu)
+ - date_published: 2024-05-07T21:58:28.412548+00:00
+
+ ## Penn Arts and Sciences High School Programs
+ - [https://hs.sas.upenn.edu](https://hs.sas.upenn.edu)
+ - date_published: 2024-07-02T10:33:57.730525+00:00
+
+ ## ImpactED
+ - [https://impact-ed.sas.upenn.edu](https://impact-ed.sas.upenn.edu)
+ - date_published: 2024-07-02T10:33:53.184194+00:00
+
+ ## In Principle and Practice
+ - [https://in-principle-and-practice.upenn.edu](https://in-principle-and-practice.upenn.edu)
+ - date_published: 2024-05-07T21:57:57.763631+00:00
+
+ ## Wharton Inside
+ - [https://inside.wharton.upenn.edu](https://inside.wharton.upenn.edu)
+ - date_published: 2024-06-16T21:52:49.962025+00:00
+
+ ## Game Changing Learning
+ - [https://interactive.wharton.upenn.edu](https://interactive.wharton.upenn.edu)
+ - date_published: 2024-07-02T05:38:09.695427+00:00
+
+ ## Language Log
+ - [http://itre.cis.upenn.edu](http://itre.cis.upenn.edu)
+ - date_published: 2024-06-30T08:51:49.065094+00:00
+
+ ## Home
+ - [http://journalists.wharton.upenn.edu](http://journalists.wharton.upenn.edu)
+ - date_published: 2024-10-14T20:15:25.307766+00:00
+
+ ## Home Page - Knowledge at Wharton
+ - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
+ - date_published: 2023-10-25T19:04:01.029385+00:00
+
+ ## Wharton Global Youth Program Home
+ - [http://kwhs.wharton.upenn.edu](http://kwhs.wharton.upenn.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 5th L4DC Conference – June 2023, University of Pennsylvania, PA
+ - [https://l4dc.seas.upenn.edu](https://l4dc.seas.upenn.edu)
+ - date_published: 2024-06-22T08:19:34.928209+00:00
+
  ## Language Log
  - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
  - date_published: 2023-10-25T19:04:08.709335+00:00
@@ -3930,72 +3998,4 @@
  ## University of Toledo
  - [http://utoledo.edu](http://utoledo.edu)
  - date_published: 2024-08-11T11:06:25.749005+00:00
-
- ## Career Services | University of Texas Permian Basin
- - [https://careers.utpb.edu](https://careers.utpb.edu)
- - date_published: 2024-07-14T04:05:48.171208+00:00
-
- ## UTPB Complaint Management - UTPB IRD
- - [https://complaints.utpb.edu](https://complaints.utpb.edu)
- - date_published: 2024-07-14T04:05:25.836053+00:00
-
- ## La Cuenca Pérmica de la Universidad de Texas | Inicio UTPB
- - [https://es.utpb.edu](https://es.utpb.edu)
- - date_published: 2024-07-14T04:05:27.492616+00:00
-
- ## MyUTPB
- - [https://my.utpb.edu](https://my.utpb.edu)
- - date_published: 2024-07-14T04:06:07.405050+00:00
-
- ## Home - JBS Public Leadership Institute
- - [https://shepperdleadership.utpb.edu](https://shepperdleadership.utpb.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## The University of Texas Permian Basin | UTPB Home
- - [https://utpb.edu](https://utpb.edu)
- - date_published: 2024-05-11T09:19:48.754579+00:00
-
- ## Home | UTRGV
- - [http://www.utrgv.edu](http://www.utrgv.edu)
- - date_published: 2024-06-18T15:41:21+00:00
-
- ## UTSA Login - Loading Session Information
- - [https://asap.utsa.edu](https://asap.utsa.edu)
- - date_published: 2024-09-13T19:57:46.072848+00:00
-
- ## Alvarez College of Business | Alvarez College of Business
- - [https://business.utsa.edu](https://business.utsa.edu)
- - date_published: 2024-10-14T19:32:24.866237+00:00
-
- ## All - FAQs
- - [https://libanswers.utsa.edu](https://libanswers.utsa.edu)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## | UTSA Libraries
- - [https://lib.utsa.edu](https://lib.utsa.edu)
- - date_published: 2024-06-14T04:12:00.505478+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.libweb.lib.utsa.edu](https://login.libweb.lib.utsa.edu)
- - date_published: 2024-06-30T01:19:22.689242+00:00
-
- ## Welcome to The University of Texas at San Antonio | UTSA
- - [https://utsa.edu](https://utsa.edu)
- - date_published: 2024-07-14T09:53:53.626734+00:00
-
- ## CS
- - [http://www.cs.utsa.edu](http://www.cs.utsa.edu)
- - date_published: 2023-10-09T16:02:46+00:00
-
- ## Homepage - Union Theological Seminary
- - [https://utsnyc.edu](https://utsnyc.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home - The University of Tennessee Southern
- - [https://utsouthern.edu](https://utsouthern.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Faculty and Staff Directory - UT Southwestern
- - [https://directory.utsouthwestern.edu](https://directory.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:37.820857+00:00
 

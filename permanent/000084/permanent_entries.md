@@ -1,3 +1,19 @@
+ ## Just for PUN!
+ - [https://puns.deathwhisper.com](https://puns.deathwhisper.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Death Wish Coffee Company: #1 Organic and #1 Fair Trade Coffee Brand
+ - [https://deathwishcoffee.com](https://deathwishcoffee.com)
+ - date_published: 2024-08-06T03:30:34.889399+00:00
+
+ ## Deaton Communications - Networking | Panama City, FL
+ - [http://deatoncom.com](http://deatoncom.com)
+ - date_published: 2024-06-29T23:13:06.492624+00:00
+
+ ## Curso de JavaScript desde cero con deBakatas
+ - [http://debakatas.com](http://debakatas.com)
+ - date_published: 2020-09-05T16:24:38+00:00
+
  ## DeBank | The Real User Based Web3 Community
  - [https://debank.com](https://debank.com)
  - date_published: 2024-09-04T09:28:58+00:00
@@ -4020,20 +4036,4 @@
  ## Descript Feedback
  - [https://feedback.descript.com](https://feedback.descript.com)
  - date_published: 2024-06-23T08:10:38.371043+00:00
-
- ## Descript Help
- - [https://help.descript.com](https://help.descript.com)
- - date_published: 2024-07-19T05:15:04.062023+00:00
-
- ## Descript | All-in-one video & podcast editing, easy as a doc.
- - [https://share.descript.com](https://share.descript.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Descript Status
- - [https://status.descript.com](https://status.descript.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Descript
- - [https://web.descript.com](https://web.descript.com)
- - date_published: 2024-06-23T08:10:40.019244+00:00
 

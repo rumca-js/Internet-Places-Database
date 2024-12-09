@@ -1,3 +1,12 @@
+ ## Araelium — Home
+ - [https://www.araelium.com](https://www.araelium.com)
+ - date_published: 2024-06-23T04:00:30.012061+00:00
+
+ ## Personal Portfolio - Arafat Tehsin
+ - [https://arafattehsin.com](https://arafattehsin.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+ - tags: ['personal']
+
  ## BlakeWiki: Main
  - [https://wiki.arahant.com](https://wiki.arahant.com)
  - date_published: 2024-09-14T23:13:40.911555+00:00
@@ -4033,12 +4042,4 @@ By Arts Economics
  ## WinterFest
  - [https://www.artisanalsoftwarefestival.com](https://www.artisanalsoftwarefestival.com)
  - date_published: 2024-01-19T17:33:14+00:00
-
- ## The Artisanal Writer
- - [https://artisanalwriter.com](https://artisanalwriter.com)
- - date_published: 2024-08-18T09:50:46.628658+00:00
-
- ## Artisan Book Reviews
- - [https://artisanbookreviews.com](https://artisanbookreviews.com)
- - date_published: 2024-08-19T21:58:39.433023+00:00
 

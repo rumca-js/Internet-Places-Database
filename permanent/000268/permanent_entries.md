@@ -1,3 +1,71 @@
+ ## HST User Documentation - HDox - HST User Documentation
+ - [https://hst-docs.stsci.edu](https://hst-docs.stsci.edu)
+ - date_published: 2024-07-04T18:28:02.761667+00:00
+
+ ## STScI | Mikulski Archive for Space Telescopes (MAST) Portal
+ - [https://mast.stsci.edu](https://mast.stsci.edu)
+ - date_published: 2023-04-27T14:29:45+00:00
+
+ ## Site Home - STScI Outerspace
+ - [https://outerspace.stsci.edu](https://outerspace.stsci.edu)
+ - date_published: 2024-08-11T15:11:00.913057+00:00
+
+ ## Welcome to the Proposal/Person (ProPer) Application
+ - [https://proper.stsci.edu](https://proper.stsci.edu)
+ - date_published: 2024-07-04T18:28:27.260804+00:00
+
+ ## Home
+ - [https://stsci.edu](https://stsci.edu)
+ - date_published: 2024-05-08T07:32:42.863208+00:00
+
+ ## ULLYSES Project
+ - [https://ullyses.stsci.edu](https://ullyses.stsci.edu)
+ - date_published: 2023-03-20T22:24:53+00:00
+
+ ## Site Directory - UST Sites & Blogs - Be Bold
+ - [https://blogs.stthom.edu](https://blogs.stthom.edu)
+ - date_published: 2024-07-01T20:42:46.896605+00:00
+
+ ## Homepage - UST IT
+ - [https://it.stthom.edu](https://it.stthom.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## University of St. Thomas | Catholic University Houston, Tx
+ - [https://myust.stthom.edu](https://myust.stthom.edu)
+ - date_published: 2024-07-01T20:42:49.753066+00:00
+
+ ## News and Success Stories | University of St. Thomas Houston
+ - [https://news.stthom.edu](https://news.stthom.edu)
+ - date_published: 2024-02-08T17:00:17.906342+00:00
+
+ ## University of St. Thomas | Catholic University Houston, Tx
+ - [https://stthom.edu](https://stthom.edu)
+ - date_published: 2024-05-07T20:32:15.546670+00:00
+
+ ## Opus College of Business
+ - [https://business.stthomas.edu](https://business.stthomas.edu)
+ - date_published: 2024-08-06T17:00:53+00:00
+
+ ## College of Arts and Sciences
+ - [https://cas.stthomas.edu](https://cas.stthomas.edu)
+ - date_published: 2024-08-06T17:00:11+00:00
+
+ ## School of Education | University of St. Thomas – Minnesota
+ - [https://education.stthomas.edu](https://education.stthomas.edu)
+ - date_published: 2024-04-28T06:23:18.311929+00:00
+
+ ## Give to St. Thomas
+ - [https://give.stthomas.edu](https://give.stthomas.edu)
+ - date_published: 2024-07-10T13:38:02+00:00
+
+ ## Homepage - Newsroom | University of St. Thomas
+ - [https://news.stthomas.edu](https://news.stthomas.edu)
+ - date_published: 2021-06-30T22:53:43+00:00
+
+ ## Home
+ - [https://www.stthomas.edu](https://www.stthomas.edu)
+ - date_published: 2024-08-06T17:15:20+00:00
+
  ## This is Saint Vincent
  - [http://www.stvincent.edu](http://www.stvincent.edu)
  - date_published: 2024-06-20T15:09:27+00:00
@@ -3941,72 +4009,4 @@
  ## Center for Research in Computer Vision – UCF CRCV
  - [https://www.crcv.ucf.edu](https://www.crcv.ucf.edu)
  - date_published: 2024-06-22T08:35:57.003169+00:00
-
- ## UCF Office of Research
- - [http://www.research.ucf.edu](http://www.research.ucf.edu)
- - date_published: 2024-07-02T20:08:21+00:00
-
- ## Sign in to Outlook
- - [https://www.webmail.ucf.edu](https://www.webmail.ucf.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## UC Law Sites – WordPress platform
- - [http://sites.uchastings.edu](http://sites.uchastings.edu)
- - date_published: 2024-06-29T01:59:26.558017+00:00
-
- ## Two-Factor Authentication | The University of Chicago
- - [https://2fa.uchicago.edu](https://2fa.uchicago.edu)
- - date_published: 2011-10-03T00:00:00+00:00
-
- ## Academic Technology Solutions – Academic Technology Solutions group website (IT Services)
- - [https://academictech.uchicago.edu](https://academictech.uchicago.edu)
- - date_published: 2024-07-01T21:47:56+00:00
-
- ## Access UChicago Now | The University of Chicago
- - [https://accessibility.uchicago.edu](https://accessibility.uchicago.edu)
- - date_published: 2024-05-07T20:45:44.535009+00:00
-
- ## UChicago Alumni & Friends
- - [https://alumniandfriends.uchicago.edu](https://alumniandfriends.uchicago.edu)
- - date_published: 2023-06-30T21:12:04+00:00
-
- ## Home | UChicago Alumni Weekend
- - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
- - date_published: 2024-05-07T14:13:58.243002+00:00
-
- ## Admissions - UChicagoGRAD | The University of Chicago
- - [https://apply-bsd.uchicago.edu](https://apply-bsd.uchicago.edu)
- - date_published: 2024-07-01T22:32:39.802309+00:00
-
- ## Harris | The University of Chicago Harris School of Public Policy
- - [https://apply-harris.uchicago.edu](https://apply-harris.uchicago.edu)
- - date_published: 2024-07-02T21:29:37+00:00
-
- ## Amp
- - [https://apply.pritzker.uchicago.edu](https://apply.pritzker.uchicago.edu)
- - date_published: 2024-07-01T22:31:56.728154+00:00
-
- ## Admissions - UChicagoGRAD | The University of Chicago
- - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
- - date_published: 2024-05-07T20:46:36.545286+00:00
-
- ## Home - AQLI
- - [https://aqli.epic.uchicago.edu](https://aqli.epic.uchicago.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Explore the architecture at the University of Chicago
- - [https://architecture.uchicago.edu](https://architecture.uchicago.edu)
- - date_published: 2024-07-01T22:38:48+00:00
-
- ## The ARTFL Project | The ARTFL Project
- - [http://artfl-project.uchicago.edu](http://artfl-project.uchicago.edu)
- - date_published: 2024-06-30T04:26:38+00:00
-
- ## Arts Institutions & Programs
- - [https://arts.uchicago.edu](https://arts.uchicago.edu)
- - date_published: 2024-06-29T21:12:38.560661+00:00
-
- ## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
- - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
- - date_published: 2023-10-25T18:59:59.078924+00:00
 

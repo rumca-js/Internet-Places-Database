@@ -1,3 +1,111 @@
+ ## Zepler Institute
+ - [https://zepler.soton.ac.uk](https://zepler.soton.ac.uk)
+ - date_published: 2024-06-18T10:58:39+00:00
+
+ ## University of Southampton Online Store
+ - [https://store.southampton.ac.uk](https://store.southampton.ac.uk)
+ - date_published: 2024-07-22T07:04:59.929624+00:00
+
+ ## Homepage
+ - [https://www.southampton.ac.uk](https://www.southampton.ac.uk)
+ - date_published: 2024-05-02T12:29:57.550421+00:00
+
+ ## SRHE | Society for Research into Higher Education | SRHE.ac.uk
+ - [https://srhe.ac.uk](https://srhe.ac.uk)
+ - date_published: 2024-10-19T10:18:37.330350+00:00
+
+ ## Home
+ - [https://www.sruc.ac.uk](https://www.sruc.ac.uk)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Jobs at Staffs
+ - [https://jobs.staffs.ac.uk](https://jobs.staffs.ac.uk)
+ - date_published: 2024-05-09T09:16:27.322459+00:00
+
+ ## Home - Staffordshire University
+ - [https://staffs.ac.uk](https://staffs.ac.uk)
+ - date_published: 2023-12-12T13:24:55.758245+00:00
+
+ ## Sign in to your account
+ - [https://workvivo.staffs.ac.uk](https://workvivo.staffs.ac.uk)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - Staffordshire University London
+ - [https://staffslondon.ac.uk](https://staffslondon.ac.uk)
+ - date_published: 2024-05-09T09:16:30.519523+00:00
+
+ ## CS Proxy Service
+ - [http://www.dcs.st-and.ac.uk](http://www.dcs.st-and.ac.uk)
+ - date_published: 2024-05-14T14:55:56+00:00
+
+ ## MacTutor Index
+ - [http://www-groups.dcs.st-and.ac.uk](http://www-groups.dcs.st-and.ac.uk)
+ - date_published: 2024-06-28T08:29:32+00:00
+
+ ## Research Computing Server
+ - [https://arts.st-andrews.ac.uk](https://arts.st-andrews.ac.uk)
+ - date_published: 2024-01-16T15:37:58+00:00
+
+ ## Computer Science WordPress – School of Computer Science, University of St Andrews
+ - [https://blogs.cs.st-andrews.ac.uk](https://blogs.cs.st-andrews.ac.uk)
+ - date_published: 2024-07-04T18:54:47.657147+00:00
+
+ ## Events
+ - [https://events.st-andrews.ac.uk](https://events.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:42.143458+00:00
+
+ ## Information for current CS students
+ - [https://info.cs.st-andrews.ac.uk](https://info.cs.st-andrews.ac.uk)
+ - date_published: 2024-07-04T18:54:46.757251+00:00
+
+ ## IT Services blog – Latest news, advice and information from the IT Services team
+ - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
+ - date_published: 2023-10-25T22:49:46.498310+00:00
+
+ ## MacTutor Index - MacTutor History of Mathematics
+ - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
+ - date_published: 2023-10-25T22:49:48.719060+00:00
+
+ ## Home | Moodle
+ - [https://moody.st-andrews.ac.uk](https://moody.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:38.746062+00:00
+
+ ## News | University of St Andrews
+ - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Research Computing Team
+ - [https://researchcomputing.wp.st-andrews.ac.uk](https://researchcomputing.wp.st-andrews.ac.uk)
+ - date_published: 2024-07-09T20:40:20.560995+00:00
+
+ ## Special Collections blog
+ - [https://special-collections.wp.st-andrews.ac.uk](https://special-collections.wp.st-andrews.ac.uk)
+ - date_published: 2024-06-29T10:08:11.912096+00:00
+
+ ## University of St Andrews - Scotland's first university, founded 1413
+ - [https://st-andrews.ac.uk](https://st-andrews.ac.uk)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## WordPress at St Andrews
+ - [https://wp.st-andrews.ac.uk](https://wp.st-andrews.ac.uk)
+ - date_published: 2018-03-21T16:41:14+00:00
+
+ ## School of Computer Science - University of St Andrews
+ - [https://www.cs.st-andrews.ac.uk](https://www.cs.st-andrews.ac.uk)
+ - date_published: 2024-05-08T07:35:46.046567+00:00
+
+ ## Welcome
+ - [https://www.vacancies.st-andrews.ac.uk](https://www.vacancies.st-andrews.ac.uk)
+ - date_published: 2024-05-09T06:35:43.358963+00:00
+
+ ## WelcomePage - Starlink
+ - [https://www.starlink.ac.uk](https://www.starlink.ac.uk)
+ - date_published: 2024-10-16T08:39:38.776989+00:00
+
+ ## Science and Technology Facilities Council (STFC)
+ - [http://www.stfc.ac.uk](http://www.stfc.ac.uk)
+ - date_published: 2024-07-02T10:06:11.708286+00:00
+
  ## UKATC
  - [http://www.ukatc.stfc.ac.uk](http://www.ukatc.stfc.ac.uk)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3909,112 +4017,4 @@
  ## The Privates Eternal
  - [http://theprivateseternal.blogspot.co.uk](http://theprivateseternal.blogspot.co.uk)
  - date_published: 2024-06-29T22:15:34+00:00
-
- ## The REALM of JiNNai
- - [http://therealmofjinnai.blogspot.co.uk](http://therealmofjinnai.blogspot.co.uk)
- - date_published: 2024-07-11T18:19:40+00:00
-
- ## The Retro Ranch Blog
- - [https://theretroranch.blogspot.co.uk](https://theretroranch.blogspot.co.uk)
- - date_published: 2024-02-19T05:13:14+00:00
-
- ## Blogslot
- - [http://theslot.blogspot.co.uk](http://theslot.blogspot.co.uk)
- - date_published: 2024-07-28T16:24:35+00:00
-
- ## The Toxicologist Today
- - [http://thetoxicologisttoday.blogspot.co.uk](http://thetoxicologisttoday.blogspot.co.uk)
- - date_published: 2024-10-19T05:45:08.841682+00:00
-
- ## The Wargame Shed
- - [http://thewargameshed.blogspot.co.uk](http://thewargameshed.blogspot.co.uk)
- - date_published: 2024-07-11T18:19:20+00:00
-
- ## The Whited Sepulchre
- - [http://thewhitedsepulchre.blogspot.co.uk](http://thewhitedsepulchre.blogspot.co.uk)
- - date_published: 2024-07-13T05:59:16+00:00
-
- ## Broad Oak Magazine
- - [http://theylaughedatnoah.blogspot.co.uk](http://theylaughedatnoah.blogspot.co.uk)
- - date_published: 2024-10-21T15:31:12.868505+00:00
-
- ## Throne of Glass
- - [http://throneofglass.blogspot.co.uk](http://throneofglass.blogspot.co.uk)
- - date_published: 2024-10-05T01:55:24+00:00
-
- ## Throw Grammar from the Train
- - [http://throwgrammarfromthetrain.blogspot.co.uk](http://throwgrammarfromthetrain.blogspot.co.uk)
- - date_published: 2024-07-07T06:43:28+00:00
-
- ## Ambush Predator
- - [http://thylacosmilus.blogspot.co.uk](http://thylacosmilus.blogspot.co.uk)
- - date_published: 2024-10-21T14:41:16.121576+00:00
-
- ## Tlatet
- - [http://tlatet.blogspot.co.uk](http://tlatet.blogspot.co.uk)
- - date_published: 2024-03-13T06:00:40+00:00
-
- ## tomorrow we will scream louder
- - [http://tomorrowwewillscreamlouder.blogspot.co.uk](http://tomorrowwewillscreamlouder.blogspot.co.uk)
- - date_published: 2024-03-13T09:43:48+00:00
-
- ## Memorabilia Antonina
- - [http://tonykeen.blogspot.co.uk](http://tonykeen.blogspot.co.uk)
- - date_published: 2024-06-20T22:13:55+00:00
-
- ## Transform Drug Policy Foundation Blog
- - [http://transform-drugs.blogspot.co.uk](http://transform-drugs.blogspot.co.uk)
- - date_published: 2024-10-21T13:06:32.739927+00:00
-
- ## Two Nerdy History Girls
- - [http://twonerdyhistorygirls.blogspot.co.uk](http://twonerdyhistorygirls.blogspot.co.uk)
- - date_published: 2024-10-20T06:39:10.742686+00:00
-
- ## Understanding Society
- - [http://understandingsociety.blogspot.co.uk](http://understandingsociety.blogspot.co.uk)
- - date_published: 2024-10-21T13:02:47.020827+00:00
-
- ## University of Oxford Apprentices
- - [http://universityofoxfordapprentices.blogspot.co.uk](http://universityofoxfordapprentices.blogspot.co.uk)
- - date_published: 2024-10-20T06:56:06.652863+00:00
-
- ## Until Darwin: Science and the Origins of Race
- - [http://until-darwin.blogspot.co.uk](http://until-darwin.blogspot.co.uk)
- - date_published: 2024-10-07T06:27:59+00:00
-
- ## up close and personal
- - [http://upclosemaspersonal.blogspot.co.uk](http://upclosemaspersonal.blogspot.co.uk)
- - date_published: 2024-10-21T13:36:44.034013+00:00
-
- ## The Varcan Cluster
- - [http://varcancluster.blogspot.co.uk](http://varcancluster.blogspot.co.uk)
- - date_published: 2024-10-23T21:47:57+00:00
-
- ## Velvet Glove, Iron Fist
- - [http://velvetgloveironfist.blogspot.co.uk](http://velvetgloveironfist.blogspot.co.uk)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Icaros Desktop
- - [http://vmwaros.blogspot.co.uk](http://vmwaros.blogspot.co.uk)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## Walks Out of Shifnal
- - [http://walksoutofshifnal.blogspot.co.uk](http://walksoutofshifnal.blogspot.co.uk)
- - date_published: 2024-10-21T22:57:32.616404+00:00
-
- ## The Ward-O-Matic
- - [http://wardomatic.blogspot.co.uk](http://wardomatic.blogspot.co.uk)
- - date_published: 2024-09-02T08:22:02+00:00
-
- ## WargamerEthan
- - [http://wargamerethan.blogspot.co.uk](http://wargamerethan.blogspot.co.uk)
- - date_published: 2024-09-09T18:50:30+00:00
-
- ## Blogs of War
- - [http://wargamesblogs.blogspot.co.uk](http://wargamesblogs.blogspot.co.uk)
- - date_published: 2024-03-08T09:10:57+00:00
-
- ## History of Wargaming Project
- - [http://wargamingco.blogspot.co.uk](http://wargamingco.blogspot.co.uk)
- - date_published: 2024-07-09T08:35:26+00:00
 

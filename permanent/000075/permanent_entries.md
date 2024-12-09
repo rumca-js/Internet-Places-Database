@@ -1,3 +1,15 @@
+ ## Citavi - Best Reference Management Software for Writing and Note Taking
+ - [https://www.citavi.com](https://www.citavi.com)
+ - date_published: 2024-06-21T19:58:07.667154+00:00
+
+ ## Citco One
+ - [https://citcoone.citco.com](https://citcoone.citco.com)
+ - date_published: 2024-07-04T02:28:26.459628+00:00
+
+ ## Cited Podcast
+ - [https://citedpodcast.com](https://citedpodcast.com)
+ - date_published: 2024-07-04T05:38:51.614085+00:00
+
  ## Job Search Results
  - [http://careers.citeline.com](http://careers.citeline.com)
  - date_published: 2024-07-14T00:00:00+00:00
@@ -4008,16 +4020,4 @@
  ## ClipMove.com - Make viral videos fast with AI
  - [https://www.clipmove.com](https://www.clipmove.com)
  - date_published: 2024-10-30T23:09:31.120504+00:00
-
- ## SCOREBOARD
- - [https://scoreboard.clippd.com](https://scoreboard.clippd.com)
- - date_published: 2024-09-04T19:07:41.200451+00:00
-
- ## Page Redirection
- - [https://www.clippercard.com](https://www.clippercard.com)
- - date_published: 2021-01-21T23:36:21+00:00
-
- ## clipperhouse.com
- - [https://clipperhouse.com](https://clipperhouse.com)
- - date_published: 2024-07-26T03:27:48.618804+00:00
 

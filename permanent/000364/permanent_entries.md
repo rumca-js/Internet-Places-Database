@@ -1,3 +1,83 @@
+ ## craigslist: lubbock jobs, apartments, for sale, services, community, and events
+ - [https://lubbock.craigslist.org](https://lubbock.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: madrid trabajos, apartamentos, ventas, servicios, comunidad y eventos
+ - [https://madrid.craigslist.org](https://madrid.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: manila jobs, apartments, for sale, services, community, and events
+ - [https://manila.craigslist.org](https://manila.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: ciudad de méxico empleos, apartamentos, ventas, servicios, comunidad y eventos
+ - [https://mexicocity.craigslist.org](https://mexicocity.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: south florida jobs, apartments, for sale, services, community, and events
+ - [https://miami.craigslist.org](https://miami.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: minneapolis jobs, apartments, for sale, services, community, and events
+ - [https://minneapolis.craigslist.org](https://minneapolis.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: mohave co jobs, apartments, for sale, services, community, and events
+ - [https://mohave.craigslist.org](https://mohave.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Montréal emplois, appartements, à vendre, services, communauté et événements
+ - [https://montreal.craigslist.org](https://montreal.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: москва вакансии, квартиры, на продажу, услуги, сообщества и мероприятия
+ - [https://moscow.craigslist.org](https://moscow.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: München Jobs, Wohnungen, zu verkaufen, Dienstleistungen, Gemeinschaft und Veranstaltungen
+ - [https://munich.craigslist.org](https://munich.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: new york jobs, apartments, for sale, services, community, and events
+ - [https://newyork.craigslist.org](https://newyork.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: odessa jobs, apartments, for sale, services, community, and events
+ - [https://odessa.craigslist.org](https://odessa.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: orange co jobs, apartments, for sale, services, community, and events
+ - [https://orangecounty.craigslist.org](https://orangecounty.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Norway jobs, apartments, for sale, services, community, and events
+ - [https://oslo.craigslist.org](https://oslo.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: ottawa jobs, apartments, for sale, services, community, and events
+ - [https://ottawa.craigslist.org](https://ottawa.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Oxford jobs, apartments, for sale, services, community, and events
+ - [https://oxford.craigslist.org](https://oxford.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: palm springs jobs, apartments, for sale, services, community, and events
+ - [https://palmsprings.craigslist.org](https://palmsprings.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Paris emplois, appartements, à vendre, services, communauté et événements
+ - [https://paris.craigslist.org](https://paris.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: philadelphia jobs, apartments, for sale, services, community, and events
+ - [https://philadelphia.craigslist.org](https://philadelphia.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: phoenix jobs, apartments, for sale, services, community, and events
+ - [https://phoenix.craigslist.org](https://phoenix.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
  ## craigslist: portland jobs, apartments, for sale, services, community, and events
  - [https://portland.craigslist.org](https://portland.craigslist.org)
  - date_published: 2024-07-07T00:00:00+00:00
@@ -3956,88 +4036,4 @@ irc logs at libera.irclog.whitequark.org
  ## Deep Space Food Challenge
  - [https://deepspacefoodchallenge.org](https://deepspacefoodchallenge.org)
  - date_published: 2024-05-12T05:43:59.181498+00:00
-
- ## The Science of Deep Specification
- - [https://deepspec.org](https://deepspec.org)
- - date_published: 2024-05-04T15:41:34.426951+00:00
-
- ## Welcome to the Deep State Blog
- - [https://deepstateblog.org](https://deepstateblog.org)
- - date_published: 2023-10-25T21:13:44.064425+00:00
- - tags: ['intelligence', 'deep state']
-
- ## Deep Synoptic Array (DSA)
- - [https://deepsynoptic.org](https://deepsynoptic.org)
- - date_published: 2024-07-22T06:23:01.392595+00:00
-
- ## Deep Teams
- - [https://www.deepteams.org](https://www.deepteams.org)
- - date_published: 2024-09-23T12:19:42.638010+00:00
-
- ## folder listing: /
- - [https://dplanet.deep-time.org](https://dplanet.deep-time.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Deep Vellum
- - [https://deepvellum.org](https://deepvellum.org)
- - date_published: 2024-07-13T11:14:26.263958+00:00
-
- ## Store :: Deep Vellum Publishing
- - [https://store.deepvellum.org](https://store.deepvellum.org)
- - date_published: 2024-05-11T07:09:44.369050+00:00
-
- ## Immerse Yourself in Miami's Cultural Tapestry: Deering Estate, Museums, and Historical Sites
- - [https://deeringestate.org](https://deeringestate.org)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Deer Park Monastery
- - [https://deerparkmonastery.org](https://deerparkmonastery.org)
- - date_published: 2024-09-12T17:00:51+00:00
-
- ## Atanu Dey : Life is a Random Draw
- - [http://www.deeshaa.org](http://www.deeshaa.org)
- - date_published: 2024-07-03T21:55:39.421550+00:00
-
- ## DEF CON Hacking Conference Home
- - [https://defcon.org](https://defcon.org)
- - date_published: 2024-02-05T09:21:34+00:00
- - tags: ['conference', 'hacking', 'convention', 'cybersecurity']
-
- ## forum.defcon.org
- - [https://forum.defcon.org](https://forum.defcon.org)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## The DEF CON® Media Server - Archives of the conferences
- - [https://media.defcon.org](https://media.defcon.org)
- - date_published: 2024-02-05T19:19:52.136849+00:00
- - tags: ['hacking']
-
- ## DEF CON merchandise shop
- - [https://shop.defcon.org](https://shop.defcon.org)
- - date_published: 2024-02-05T17:23:18.325780+00:00
-
- ## DEF CON Security Training
- - [https://training.defcon.org](https://training.defcon.org)
- - date_published: 2024-02-05T17:23:16.947188+00:00
-
- ## forum.defcon.org
- - [https://defcongroups.org](https://defcongroups.org)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## DEF CON – Arts & Entertainment
- - [https://defconmusic.org](https://defconmusic.org)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## We oppose DRM. | Defective by Design
- - [https://defectivebydesign.org](https://defectivebydesign.org)
- - date_published: 2024-05-08T09:35:57.647047+00:00
- - tags: ['drm', 'activism']
-
- ## Homepage v2 - Defence for Children
- - [https://defenceforchildren.org](https://defenceforchildren.org)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Engaging Networks: Nonprofit Digital Engagement Platform
- - [https://support.defenders.org](https://support.defenders.org)
- - date_published: 2024-05-31T00:00:00+00:00
 

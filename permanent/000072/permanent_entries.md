@@ -1,3 +1,16 @@
+ ## 宁德时代·CATL
+ - [https://www.catl.com](https://www.catl.com)
+ - date_published: 2023-10-25T13:19:14.141081+00:00
+
+ ## GitHub - cdiggins/cat-language: Cat - a statically typed functional stack-based programming language
+ - [http://www.cat-language.com](http://www.cat-language.com)
+ - date_published: 2024-07-08T11:40:51.108697+00:00
+ - tags: ['programming language']
+
+ ## Catlike Coding
+ - [https://catlikecoding.com](https://catlikecoding.com)
+ - date_published: 2023-11-08T19:53:36+00:00
+
  ## CatLikesBest | Tips & Reviews to Get What Your Cat Likes the Most
  - [https://catlikesbest.com](https://catlikesbest.com)
  - date_published: 2024-05-10T04:12:07.406400+00:00
@@ -4026,16 +4039,4 @@ Challonge
  ## Channelone.com has been retired
  - [https://www.channelone.com](https://www.channelone.com)
  - date_published: 2024-06-22T08:49:55.608597+00:00
-
- ## Channel Partners Conference & Expo - World's Largest Channel Event
- - [https://channelpartnersconference.com](https://channelpartnersconference.com)
- - date_published: 2024-09-15T12:41:01+00:00
-
- ## Product Management Tool for Online Shops - Channel Pilot Pro
- - [https://channelpilot.com](https://channelpilot.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Channel Pilot Pro | Login
- - [https://go.channelpilot.com](https://go.channelpilot.com)
- - date_published: 2024-06-25T23:17:07.468334+00:00
 

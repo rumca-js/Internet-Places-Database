@@ -1,3 +1,79 @@
+ ## Istituto Statale d'Istruzione Superiore "G. A. Pujati"
+ - [https://liceipujati.edu.it](https://liceipujati.edu.it)
+ - date_published: 2024-10-13T07:02:47.225769+00:00
+
+ ## POLO LICEALE "LICEI SYLOS - FIORE"
+ - [https://www.liceisylosfiore.edu.it](https://www.liceisylosfiore.edu.it)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Licei Trebisacce – Polo Liceale "G. Galilei"
+ - [https://www.liceitrebisacce.edu.it](https://www.liceitrebisacce.edu.it)
+ - date_published: 2024-10-13T06:56:23.454015+00:00
+
+ ## Istituto di Istruzione Superiore - Liceo "Bocchi-Galilei"
+ - [https://www.liceoadria.edu.it](https://www.liceoadria.edu.it)
+ - date_published: 2024-10-13T07:33:04.901934+00:00
+
+ ## Liceo Statale M.G. Agnesi – Liceo Statale M.G. Agnesi
+ - [https://www.liceoagnesi.edu.it](https://www.liceoagnesi.edu.it)
+ - date_published: 2024-10-13T07:22:03.242856+00:00
+
+ ## Liceo Statale – "Alfano 1"
+ - [https://www.liceoalfano1.edu.it](https://www.liceoalfano1.edu.it)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Liceo Scientifico E Linguistico Statale ARCHIMEDE
+ - [https://www.liceoarchimedeme.edu.it](https://www.liceoarchimedeme.edu.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## LICEO ARCHITA
+ - [https://www.liceoarchita.edu.it](https://www.liceoarchita.edu.it)
+ - date_published: 2024-10-13T07:03:52.279244+00:00
+
+ ## Liceo Ariosto Ferrara
+ - [https://www.liceoariosto.edu.it](https://www.liceoariosto.edu.it)
+ - date_published: 2024-10-13T06:54:09+00:00
+
+ ## Aristofane – Liceo Classico e Linguistico Statale | Sapere Aude
+ - [https://www.liceoaristofane.edu.it](https://www.liceoaristofane.edu.it)
+ - date_published: 2024-10-13T07:28:24.005298+00:00
+
+ ## LiceoArtistico CALO' - Home
+ - [https://www.liceoartisticocalo.edu.it](https://www.liceoartisticocalo.edu.it)
+ - date_published: 2024-10-13T06:54:32+00:00
+
+ ## Liceo Scientifico Aselli
+ - [https://www.liceoaselli.edu.it](https://www.liceoaselli.edu.it)
+ - date_published: 2024-10-13T07:22:28.497278+00:00
+
+ ## | Liceo Statale A.Banfi di Vimercate
+ - [https://www.liceobanfi.edu.it](https://www.liceobanfi.edu.it)
+ - date_published: 2024-10-13T07:01:28.111330+00:00
+
+ ## Liceo Scientifico Statale Giulietta Banzi Bazoli
+ - [https://www.liceobanzi.edu.it](https://www.liceobanzi.edu.it)
+ - date_published: 2024-10-13T07:18:22.800182+00:00
+
+ ## Liceo Domenico Berti Torino
+ - [https://www.liceoberti.edu.it](https://www.liceoberti.edu.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## LICEO "G.B. BODONI" DI SALUZZO
+ - [https://www.liceobodoni.edu.it](https://www.liceobodoni.edu.it)
+ - date_published: 2024-10-13T07:15:29.237025+00:00
+
+ ## Liceo Statale Donato Bramante
+ - [https://liceobramante.edu.it](https://liceobramante.edu.it)
+ - date_published: 2024-10-13T07:11:33.199592+00:00
+
+ ## Liceo Ginnasio Statale B. Cairoli - Vigevano
+ - [https://www.liceocairoli.edu.it](https://www.liceocairoli.edu.it)
+ - date_published: 2024-10-13T06:58:35.936566+00:00
+
+ ## Liceo Scientifico di Stato "A. Calini"
+ - [https://www.liceocalini.edu.it](https://www.liceocalini.edu.it)
+ - date_published: 2024-10-13T07:07:32.288475+00:00
+
  ## Liceo Chris Cappell College
  - [https://www.liceochriscappell.edu.it](https://www.liceochriscappell.edu.it)
  - date_published: 2024-10-13T07:20:42.651303+00:00
@@ -3940,80 +4016,4 @@
  ## Frequenze Software - Siti web, e-commerce, newsletter e gestionali.
  - [https://www.frequenze.it](https://www.frequenze.it)
  - date_published: 2024-09-14T22:36:20.514868+00:00
-
- ## FreshPlaza: Notiziario Internazionale Ortofrutta e Banane
- - [https://freshplaza.it](https://freshplaza.it)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home | Fridays For Future Italia
- - [https://fridaysforfutureitalia.it](https://fridaysforfutureitalia.it)
- - date_published: 2020-05-22T01:10:33+00:00
-
- ## discovery+
- - [https://frisbeetv.it](https://frisbeetv.it)
- - date_published: 2024-05-07T12:49:16.086337+00:00
-
- ## FrosinoneToday
- - [https://frosinonetoday.it](https://frosinonetoday.it)
- - date_published: 2024-05-11T09:54:55.146385+00:00
-
- ## F.T. Marinetti – Aerosito ufficiale del genio del Futurismo
- - [https://ftmarinetti.it](https://ftmarinetti.it)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## @fullbl Headquarters - Back-End Developer
- - [https://fullbl.it](https://fullbl.it)
- - date_published: 2024-02-02T16:38:12+00:00
-
- ## Funkwhale
- - [https://funkwhale.it](https://funkwhale.it)
- - date_published: 2023-12-12T12:29:50+00:00
-
- ## Fuoriluogo
- - [http://www.fuoriluogo.it](http://www.fuoriluogo.it)
- - date_published: 2024-10-21T13:08:51.431243+00:00
-
- ## homepage
- - [https://futuranet.it](https://futuranet.it)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## Shop
- - [https://www.futurashop.it](https://www.futurashop.it)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Startseite | Nahe Zukunft
- - [https://de.futuroprossimo.it](https://de.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home | Near future
- - [https://en.futuroprossimo.it](https://en.futuroprossimo.it)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Inicio | Futuro cercano
- - [https://es.futuroprossimo.it](https://es.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Accueil | Futur proche
- - [https://fr.futuroprossimo.it](https://fr.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home | Futuro Prossimo
- - [https://futuroprossimo.it](https://futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## निकट भविष्य | कल की दुनिया से समाचार
- - [https://hi.futuroprossimo.it](https://hi.futuroprossimo.it)
- - date_published: 2024-07-13T20:00:15+00:00
-
- ## ホーム | 近い将来
- - [https://ja.futuroprossimo.it](https://ja.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Início | Futuro próximo
- - [https://pt.futuroprossimo.it](https://pt.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Главная | Ближайшее будущее
- - [https://ru.futuroprossimo.it](https://ru.futuroprossimo.it)
- - date_published: 2024-04-22T00:00:00+00:00
 

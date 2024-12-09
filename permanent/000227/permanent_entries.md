@@ -1,3 +1,64 @@
+ ## Kevin Zraly
+ - [http://www.windowswineschool.com](http://www.windowswineschool.com)
+ - date_published: 2024-07-04T04:55:11.492530+00:00
+
+ ## Home
+ - [https://www.windpowerengineering.com](https://www.windpowerengineering.com)
+ - date_published: 2024-06-17T08:28:31.277661+00:00
+
+ ## Wind River Blog
+ - [https://blogs.windriver.com](https://blogs.windriver.com)
+ - date_published: 2024-05-07T14:19:48.187715+00:00
+
+ ## BSP QUERY TOOL
+ - [https://bsp.windriver.com](https://bsp.windriver.com)
+ - date_published: 2022-04-05T11:30:28+00:00
+
+ ## Gallery
+ - [https://delivers.windriver.com](https://delivers.windriver.com)
+ - date_published: 2023-06-16T15:42:10+00:00
+
+ ## Wind River Documentation
+ - [https://docs.windriver.com](https://docs.windriver.com)
+ - date_published: 2024-04-02T13:04:09+00:00
+
+ ## Wind River Labs
+ - [https://labs.windriver.com](https://labs.windriver.com)
+ - date_published: 2024-06-29T21:55:39.745085+00:00
+
+ ## Wind River Training
+ - [https://learning.windriver.com](https://learning.windriver.com)
+ - date_published: 2024-05-07T14:19:43.271766+00:00
+
+ ## Wind River - Sign In
+ - [https://learn.windriver.com](https://learn.windriver.com)
+ - date_published: 2020-05-18T00:00:00+00:00
+
+ ## Wind River Resource Library
+ - [https://resources.windriver.com](https://resources.windriver.com)
+ - date_published: 2024-06-29T05:41:03+00:00
+
+ ## Wind River
+ - [https://support2.windriver.com](https://support2.windriver.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Wind River Documentation
+ - [https://windriver-be-prod.windriver.com](https://windriver-be-prod.windriver.com)
+ - date_published: 2024-05-12T05:07:52.056382+00:00
+
+ ## Wind River
+ - [https://windriver.com](https://windriver.com)
+ - date_published: 2024-04-02T13:04:34+00:00
+ - tags: ['aviation', 'rtos', 'real time operating system', 'aviation', 'linux', 'windriver', 'do-178c', 'operating system', 'do-178b', 'wind river']
+
+ ## Gallery
+ - [https://windshare.windriver.com](https://windshare.windriver.com)
+ - date_published: 2023-06-16T15:42:10+00:00
+
+ ## Wind River - Sign In
+ - [https://wrsn.windriver.com](https://wrsn.windriver.com)
+ - date_published: 2020-05-18T00:00:00+00:00
+
  ## Windscribbles
  - [https://blog.windscribe.com](https://blog.windscribe.com)
  - date_published: 2024-04-05T13:57:15.173920+00:00
@@ -383,6 +444,11 @@
  ## Winks Eatery - London Ontario
  - [https://www.winkseatery.com](https://www.winkseatery.com)
  - date_published: 2024-09-09T21:32:26.035660+00:00
+
+ ## Winlator: Windows x86, x64 PC Emulator for Android
+ - [https://winlator.com](https://winlator.com)
+ - date_published: 2024-12-08T11:29:13+00:00
+ - tags: ['emulator']
 
  ## Windows Plotter Driver for CAD
  - [https://winline.com](https://winline.com)
@@ -3978,68 +4044,4 @@ Company :: Home
  ## Metalworking — a how-to community for metalsmiths of all kinds « Metalworking :: WonderHowTo
  - [https://metalsmithing.wonderhowto.com](https://metalsmithing.wonderhowto.com)
  - date_published: 2024-06-29T18:51:27.046393+00:00
-
- ## Mind Hacks — Mental cheats for getting your way « Mind Hacks :: WonderHowTo
- - [https://mind-hacks.wonderhowto.com](https://mind-hacks.wonderhowto.com)
- - date_published: 2024-06-29T18:50:47.374104+00:00
-
- ## Motivation & Self Help — How-To Videos, Articles, & Inspiration « Motivation & Self Help :: WonderHowTo
- - [https://motivation-self-help.wonderhowto.com](https://motivation-self-help.wonderhowto.com)
- - date_published: 2024-06-29T18:41:32.185525+00:00
-
- ## Film & Theater — How-To Videos, Articles, & Inspiration « Film & Theater :: WonderHowTo
- - [https://movies-film-theater.wonderhowto.com](https://movies-film-theater.wonderhowto.com)
- - date_published: 2024-06-29T18:48:59.422367+00:00
-
- ## Music & Instruments — How-To Videos, Articles, & Inspiration « Music & Instruments :: WonderHowTo
- - [https://music-instruments.wonderhowto.com](https://music-instruments.wonderhowto.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Nexus :: Gadget Hacks » Tips, tricks, and mods for your Nexus devices.
- - [http://nexus5.wonderhowto.com](http://nexus5.wonderhowto.com)
- - date_published: 2024-06-29T18:52:16.610553+00:00
-
- ## Null Byte — The aspiring white-hat hacker/security awareness playground « Null Byte :: WonderHowTo
- - [https://null-byte.wonderhowto.com](https://null-byte.wonderhowto.com)
- - date_published: 2024-06-29T18:51:45.419143+00:00
-
- ## Outdoor Recreation — How-To Videos, Articles, & Inspiration « Outdoor Recreation :: WonderHowTo
- - [https://outdoor-recreation.wonderhowto.com](https://outdoor-recreation.wonderhowto.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Pets & Animals — How-To Videos, Articles, & Inspiration « Pets & Animals :: WonderHowTo
- - [https://pets-animals.wonderhowto.com](https://pets-animals.wonderhowto.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Pranks & Cons — How-To Videos, Articles, & Inspiration « Pranks & Cons :: WonderHowTo
- - [https://prank-con.wonderhowto.com](https://prank-con.wonderhowto.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Software — How-To Videos, Articles, & Inspiration « Software :: WonderHowTo
- - [https://software.wonderhowto.com](https://software.wonderhowto.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Spirituality — How-To Videos, Articles, & Inspiration « Spirituality :: WonderHowTo
- - [https://spirituality.wonderhowto.com](https://spirituality.wonderhowto.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Sports — How-To Videos, Articles, & Inspiration « Sports :: WonderHowTo
- - [https://sports.wonderhowto.com](https://sports.wonderhowto.com)
- - date_published: 2024-06-29T18:41:45.480062+00:00
-
- ## Steampunk R&D — For those who live in a future that never was « Steampunk R&D :: WonderHowTo
- - [https://steampunk.wonderhowto.com](https://steampunk.wonderhowto.com)
- - date_published: 2024-06-29T18:41:07.468352+00:00
-
- ## Survival Training — Survival training & guides « Survival Training :: WonderHowTo
- - [https://survivial-training.wonderhowto.com](https://survivial-training.wonderhowto.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## The Secret Yumiverse — Illustrated tips and tricks from the mind of Yumi « The Secret Yumiverse :: WonderHowTo
- - [https://thesecretyumiverse.wonderhowto.com](https://thesecretyumiverse.wonderhowto.com)
- - date_published: 2024-06-29T18:51:38.637086+00:00
-
- ## Travel — How-To Videos, Articles, & Inspiration « Travel :: WonderHowTo
- - [https://travel.wonderhowto.com](https://travel.wonderhowto.com)
- - date_published: 2024-06-29T18:50:27.160615+00:00
 

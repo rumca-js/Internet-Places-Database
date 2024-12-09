@@ -1,3 +1,107 @@
+ ## Interfax-Ukraine - news from Ukraine and the world
+ - [https://en.interfax.com.ua](https://en.interfax.com.ua)
+ - date_published: 2024-02-28T13:12:33.772179+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://interfax.com.ua](https://interfax.com.ua)
+ - date_published: 2024-05-02T10:41:31.084008+00:00
+
+ ## Історична правда
+ - [https://www.istpravda.com.ua](https://www.istpravda.com.ua)
+ - date_published: 2024-05-02T10:41:23.060881+00:00
+
+ ## Jeep® SUVs & Crossovers - Official Jeep Site
+ - [https://www.jeep-official.com.ua](https://www.jeep-official.com.ua)
+ - date_published: 2024-06-19T09:08:17.098921+00:00
+
+ ## Интернет магазин автозапчастей Jparts - подбор запчастей по vin коду онлайн, купить автозапчасти в Киеве и Одессе на сайте jparts.com.ua
+ - [https://jparts.com.ua](https://jparts.com.ua)
+ - date_published: 2024-07-20T11:32:56.696847+00:00
+
+ ## Домашня сторінка КМІС
+ - [https://kiis.com.ua](https://kiis.com.ua)
+ - date_published: 2024-05-09T06:32:16.742874+00:00
+
+ ## Каталог української локалізації ігор | Головна сторінка
+ - [https://kuli.com.ua](https://kuli.com.ua)
+ - date_published: 2024-10-27T04:41:31.414669+00:00
+
+ ## Український Медіа Дім
+ - [https://mediadim.com.ua](https://mediadim.com.ua)
+ - date_published: 2024-10-19T23:39:21.118137+00:00
+
+ ## Погода в Україні та світі
+ - [https://meteofor.com.ua](https://meteofor.com.ua)
+ - date_published: 2024-06-17T17:20:08.859526+00:00
+
+ ## Ставки, индексы, тарифы
+ - [https://index.minfin.com.ua](https://index.minfin.com.ua)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Мінфін - все про фінанси: новини, курси валют, банки
+ - [https://minfin.com.ua](https://minfin.com.ua)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Міжнародний виставковий центр | МВЦ Київ
+ - [http://mvc-expo.com.ua](http://mvc-expo.com.ua)
+ - date_published: 2024-09-19T20:00:30.788636+00:00
+
+ ## Безкоштовне родинне дерево, генеалогія, сімейна історія та ДНК-тестування
+ - [https://www.myheritage.com.ua](https://www.myheritage.com.ua)
+ - date_published: 2024-10-30T07:56:08.069790+00:00
+
+ ## nBook - найцікавіше зі світу IT, Hi-Tech
+ - [https://nbookpart.com.ua](https://nbookpart.com.ua)
+ - date_published: 2023-10-04T15:13:32+00:00
+
+ ## Nexinsight - Data Marketplace & Insight Tracker
+ - [https://nexinsight.com.ua](https://nexinsight.com.ua)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Головна
+ - [https://nextpage.com.ua](https://nextpage.com.ua)
+ - date_published: 2024-10-19T23:16:58.019368+00:00
+
+ ## Ntema – технологии качества – NTema - технологии качества
+ - [https://ntema.com.ua](https://ntema.com.ua)
+ - date_published: 2024-07-09T08:37:19.479649+00:00
+
+ ## Network Tools - сетевое и WiFi оборудование в Киеве и Украине. Продажа и доставка.
+ - [https://ntools.com.ua](https://ntools.com.ua)
+ - date_published: 2024-07-09T08:37:23.886748+00:00
+
+ ## plusone social impact
+ - [http://www.plusone.com.ua](http://www.plusone.com.ua)
+ - date_published: 2024-10-19T22:44:58.120105+00:00
+
+ ## Все для татуажа в Украине, Киеве. Интернет магазин оборудования, материалов для перманентного макияжа
+ - [https://pmpro.com.ua](https://pmpro.com.ua)
+ - date_published: 2024-05-08T09:02:41.465817+00:00
+
+ ## PocketBook
+ - [https://pocketbook.com.ua](https://pocketbook.com.ua)
+ - date_published: 2024-07-20T16:13:06.373431+00:00
+
+ ## Погода & Радар Україна
+ - [https://pogodairadar.com.ua](https://pogodairadar.com.ua)
+ - date_published: 2024-05-07T13:25:14.492211+00:00
+
+ ## Блог Portmone
+ - [https://blog.portmone.com.ua](https://blog.portmone.com.ua)
+ - date_published: 2024-10-19T23:37:02.644046+00:00
+
+ ## Платіжна система Portmone.com — оплати онлайн в Україні
+ - [https://www.portmone.com.ua](https://www.portmone.com.ua)
+ - date_published: 2024-06-17T17:13:03.207817+00:00
+
+ ## Цікаві новини та статті – Післязавтра
+ - [https://poslezavtra.com.ua](https://poslezavtra.com.ua)
+ - date_published: 2024-10-15T10:48:07+00:00
+
+ ## Блоги - Українська правда
+ - [https://blogs.pravda.com.ua](https://blogs.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:21.345623+00:00
+
  ## Клуб УП
  - [https://cabinet.pravda.com.ua](https://cabinet.pravda.com.ua)
  - date_published: 2024-06-17T16:58:58.454241+00:00
@@ -1146,6 +1250,10 @@
  ## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
  - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
  - date_published: 2023-10-25T22:48:03.655543+00:00
+
+ ## RTFM: Linux, DevOps та системне адміністрування
+ - [https://rtfm.co.ua](https://rtfm.co.ua)
+ - date_published: 2024-12-07T16:52:49+00:00
 
  ## Афіша подій у Києві 2018 | Придбати квитки на Концерт.юа
  - [https://concert.ua](https://concert.ua)
@@ -3901,112 +4009,4 @@
  ## Proof General
  - [https://proofgeneral.inf.ed.ac.uk](https://proofgeneral.inf.ed.ac.uk)
  - date_published: 2024-05-17T02:59:18.218334+00:00
-
- ## SAFE website Login
- - [https://safe.epcc.ed.ac.uk](https://safe.epcc.ed.ac.uk)
- - date_published: 2024-06-17T17:29:17.275122+00:00
-
- ## Search results | The University of Edinburgh
- - [https://search.ed.ac.uk](https://search.ed.ac.uk)
- - date_published: 2024-05-02T10:53:50.026219+00:00
-
- ## School of Mathematics Teaching
- - [https://teaching.maths.ed.ac.uk](https://teaching.maths.ed.ac.uk)
- - date_published: 2024-05-02T10:54:02.253074+00:00
-
- ## Degree finder
- - [https://undergraduate.degrees.ed.ac.uk](https://undergraduate.degrees.ed.ac.uk)
- - date_published: 2024-10-17T06:37:22.145255+00:00
-
- ## InfWeb | InfWeb
- - [https://web.inf.ed.ac.uk](https://web.inf.ed.ac.uk)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Physics & Astronomy
- - [http://www2.ph.ed.ac.uk](http://www2.ph.ed.ac.uk)
- - date_published: 2024-06-20T14:45:50+00:00
-
- ## Accommodation, Catering and Events at The University of Edinburgh
- - [https://www.accom.ed.ac.uk](https://www.accom.ed.ac.uk)
- - date_published: 2024-05-02T10:53:49.061701+00:00
-
- ## University of Edinburgh Business School
- - [https://www.business-school.ed.ac.uk](https://www.business-school.ed.ac.uk)
- - date_published: 2024-10-14T19:32:01.636477+00:00
-
- ## Centre for the Study of Christian Origins
- - [http://www.christianorigins.div.ed.ac.uk](http://www.christianorigins.div.ed.ac.uk)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home - Current Law Students
- - [http://www.currentstudents.law.ed.ac.uk](http://www.currentstudents.law.ed.ac.uk)
- - date_published: 2024-10-18T22:23:37.232547+00:00
-
- ## The University of Edinburgh
- - [https://www.ed.ac.uk](https://www.ed.ac.uk)
- - date_published: 2024-02-26T15:42:27.741470+00:00
-
- ## Edinburgh University Students' Association
- - [https://www.eusa.ed.ac.uk](https://www.eusa.ed.ac.uk)
- - date_published: 2024-08-07T12:06:45+00:00
-
- ## Home | Edinburgh Law School
- - [http://www.law.ed.ac.uk](http://www.law.ed.ac.uk)
- - date_published: 2024-06-17T11:15:33.311374+00:00
-
- ## LFCS | InfWeb
- - [http://www.lfcs.inf.ed.ac.uk](http://www.lfcs.inf.ed.ac.uk)
- - date_published: 2024-08-18T18:21:07.084648+00:00
-
- ## School of Mathematics | School of Mathematics
- - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
- - date_published: 2023-10-25T22:48:35.495631+00:00
-
- ## Reid School of Music | Edinburgh College of Art
- - [http://www.music.ed.ac.uk](http://www.music.ed.ac.uk)
- - date_published: 2024-08-08T03:36:53.927004+00:00
-
- ## MyEd Student and Staff Portal
- - [https://www.myed.ed.ac.uk](https://www.myed.ed.ac.uk)
- - date_published: 2024-01-24T10:38:29+00:00
-
- ## Physics & Astronomy
- - [http://www.ph.ed.ac.uk](http://www.ph.ed.ac.uk)
- - date_published: 2024-06-17T17:45:05+00:00
-
- ## Log in - Your University Login - The University of Edinburgh
- - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## University of Edinburgh Research Explorer
- - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
- - date_published: 2024-04-28T04:01:00.882394+00:00
-
- ## Home | Tower Block
- - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
- - date_published: 2024-09-14T22:47:24.448503+00:00
-
- ## Dashboard - Wiki Service
- - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
- - date_published: 2024-07-21T06:43:07.730143+00:00
-
- ## Environmental Information Data Centre | EIDC
- - [https://eidc.ac.uk](https://eidc.ac.uk)
- - date_published: 2024-05-02T10:52:18.599276+00:00
-
- ## Edinburgh Mathematical Society
- - [https://ems.ac.uk](https://ems.ac.uk)
- - date_published: 2024-06-17T17:51:20.737823+00:00
-
- ## The English Association | The English Association
- - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Enhancement Themes
- - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
- - date_published: 2024-07-04T09:50:42+00:00
-
- ## Engineering and Physical Sciences Research Council (EPSRC)
- - [http://epsrc.ac.uk](http://epsrc.ac.uk)
- - date_published: 2024-07-08T17:37:09.965108+00:00
 

@@ -1,3 +1,11 @@
+ ## 广东省交通运输厅
+ - [http://td.gd.gov.cn](http://td.gd.gov.cn)
+ - date_published: 2024-10-21T05:52:44.336203+00:00
+
+ ## 广东省体育局网站
+ - [http://tyj.gd.gov.cn](http://tyj.gd.gov.cn)
+ - date_published: 2024-10-21T05:48:47.982385+00:00
+
  ## 广东省文化和旅游厅
  - [http://whly.gd.gov.cn](http://whly.gd.gov.cn)
  - date_published: 2024-06-30T19:32:16.833684+00:00
@@ -3993,12 +4001,4 @@
  ## 西藏自治区卫生健康委员会
  - [http://wjw.xizang.gov.cn](http://wjw.xizang.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 西藏自治区外事办公室
- - [http://wsb.xizang.gov.cn](http://wsb.xizang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 西藏自治区人民政府
- - [http://www.xizang.gov.cn](http://www.xizang.gov.cn)
- - date_published: 2024-06-30T15:38:51.441198+00:00
 

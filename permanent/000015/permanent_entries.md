@@ -1,3 +1,11 @@
+ ## The Journeyman
+ - [https://kraft.blog](https://kraft.blog)
+ - date_published: 2024-05-09T08:19:11.914468+00:00
+
+ ## photo(kraft)blog
+ - [https://photo.kraft.blog](https://photo.kraft.blog)
+ - date_published: 2024-07-10T00:00:00+00:00
+
  ## λ ∧ ¬λ
  - [https://lamda.blog](https://lamda.blog)
  - date_published: 2024-10-19T02:45:51.411985+00:00
@@ -4038,12 +4046,4 @@ Educação
  ## FCC - Fundação Cultural de Curitiba
  - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
  - date_published: 2024-06-12T11:18:30.371953+00:00
-
- ## Página Inicial - Fundação Santillana
- - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Gabriel
- - [https://gabriel.com.br](https://gabriel.com.br)
- - date_published: 2024-10-28T12:19:58+00:00
 

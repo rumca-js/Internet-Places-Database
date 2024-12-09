@@ -1,3 +1,15 @@
+ ## HOME | Blue Nova Inc.
+ - [https://bluenova.com](https://bluenova.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Blue Ocean Strategy & Blue Ocean Shift: Create Blue Oceans of New Market Space
+ - [https://www.blueoceanstrategy.com](https://www.blueoceanstrategy.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Blue Orange Games - Hot Games for a Cool Planet - Home
+ - [https://blueorangegames.com](https://blueorangegames.com)
+ - date_published: 2024-07-08T23:16:04.262861+00:00
+
  ## Home | Blue Origin
  - [https://blueorigin.com](https://blueorigin.com)
  - date_published: 2023-10-25T13:07:05.076275+00:00
@@ -4039,16 +4051,4 @@
  ## Book Jotter
  - [https://bookjotter.com](https://bookjotter.com)
  - date_published: 2024-06-14T18:18:38+00:00
-
- ## Book Junkies Library
- - [http://www.book-junkies-library.com](http://www.book-junkies-library.com)
- - date_published: 2024-07-04T14:06:10.434010+00:00
-
- ## Home | Book Launch | Book Marketing
- - [https://booklaunch.com](https://booklaunch.com)
- - date_published: 2024-06-16T15:46:51.415954+00:00
-
- ## HOME | Bookleggers Library | Miami
- - [https://www.bookleggerslibrary.com](https://www.bookleggerslibrary.com)
- - date_published: 2024-06-29T10:59:47.005071+00:00
 

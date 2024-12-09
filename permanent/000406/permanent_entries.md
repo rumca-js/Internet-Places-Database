@@ -1,3 +1,100 @@
+ ## Nifty
+ - [https://nifty.pm](https://nifty.pm)
+ - date_published: 2024-10-30T22:02:55+00:00
+
+ ## Oskar Larsson Högfeldt
+ - [https://oscar.pm](https://oscar.pm)
+ - date_published: 2022-10-20T13:53:06+00:00
+
+ ## Oskar Larsson Högfeldt
+ - [https://oskar.pm](https://oskar.pm)
+ - date_published: 2023-10-24T23:53:45+00:00
+
+ ## Piximedia Platform
+ - [https://dashboard.platform.pm](https://dashboard.platform.pm)
+ - date_published: 2024-06-25T21:54:33+00:00
+
+ ## Cardano visual explorer
+ - [https://pool.pm](https://pool.pm)
+ - date_published: 2024-06-28T12:41:43+00:00
+
+ ## The Product Compass | Paweł Huryn | Substack
+ - [https://www.productcompass.pm](https://www.productcompass.pm)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Sam Butler
+ - [https://pss.pm](https://pss.pm)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## AI Therapists - Mental Health Chatbots
+ - [https://psy.pm](https://psy.pm)
+ - date_published: 2024-09-13T20:25:40.294105+00:00
+
+ ## Matthew's Lab
+ - [https://roberts.pm](https://roberts.pm)
+ - date_published: 2024-01-09T03:44:58.196217+00:00
+
+ ## Directory
+ - [https://dl.sbr.pm](https://dl.sbr.pm)
+ - date_published: 2024-07-10T10:09:17.907443+00:00
+
+ ## SietePM - Desarrollo web desde Chile
+ - [https://siete.pm](https://siete.pm)
+ - date_published: 2024-09-19T19:01:04.581679+00:00
+
+ ## hey!
+ - [https://til.pm](https://til.pm)
+ - date_published: 2024-06-14T14:47:20.796362+00:00
+
+ ## Tina
+ - [https://tina.pm](https://tina.pm)
+ - date_published: 2023-04-22T17:39:25+00:00
+
+ ## VidSrc - Video Streaming API
+ - [https://vidsrc.pm](https://vidsrc.pm)
+ - date_published: 2024-11-12T18:21:39.416031+00:00
+
+ ## Works - Paul Macgregor
+ - [https://works.pm](https://works.pm)
+ - date_published: 2024-07-12T16:38:31.112865+00:00
+
+ ## WorldFree4u | The Official Home of Worldfree4u.trade Movies
+ - [https://worldfree4u.pm](https://worldfree4u.pm)
+ - date_published: 2024-11-12T17:16:15.172270+00:00
+
+ ## Watch Thousands of Free Movies Online FREE | YesMovies
+ - [https://yesmovies.pm](https://yesmovies.pm)
+ - date_published: 2024-11-03T03:55:09+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Open Source Project Management Software-Scrum Tool - ZenTao
+ - [https://fr.zentao.pm](https://fr.zentao.pm)
+ - date_published: 2024-10-31T05:26:56.314837+00:00
+
+ ## Open Source Project Management Software-Scrum Tool - ZenTao
+ - [https://www.zentao.pm](https://www.zentao.pm)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## why me?
+ - [https://zer0.pm](https://zer0.pm)
+ - date_published: 2024-04-26T06:38:38+00:00
+
+ ## Pitcairn Island Immigration
+ - [http://www.immigration.gov.pn](http://www.immigration.gov.pn)
+ - date_published: 2024-07-16T17:43:20.947800+00:00
+
+ ## ESPN - Serving Sports Fans. Anytime. Anywhere.
+ - [https://es.pn](https://es.pn)
+ - date_published: 2024-05-02T09:41:48.306022+00:00
+
+ ## Check Your Free Credit Report & FICO® Score - Experian
+ - [http://ex.pn](http://ex.pn)
+ - date_published: 2024-10-19T17:56:15.763439+00:00
+
+ ## Grafika Google
+ - [https://images.google.pn](https://images.google.pn)
+ - date_published: 2024-07-20T07:37:25.322174+00:00
+
  ## Google
  - [https://www.google.pn](https://www.google.pn)
  - date_published: 2024-06-21T22:25:50.631117+00:00
@@ -320,6 +417,10 @@
  ## AI Lawyer | Your personal AI legal assistant
  - [https://linguana.ailawyer.pro](https://linguana.ailawyer.pro)
  - date_published: 2024-10-28T16:46:16+00:00
+
+ ## Show HN: AirFry.Pro – The best popular and healthy recipes for your air fryer
+ - [https://airfry.pro](https://airfry.pro)
+ - date_published: 2024-12-07T23:07:01+00:00
 
  ## Киберспортивный магазин аll4game.pro, доставка товаров по всей России!
  - [https://all4game.pro](https://all4game.pro)
@@ -3909,104 +4010,4 @@
  ## PyCon Portugal 2024 Website
  - [https://2024.pycon.pt](https://2024.pycon.pt)
  - date_published: 2024-07-01T03:52:46.992728+00:00
-
- ## quidnovi.pt
- - [http://www.quidnovi.pt](http://www.quidnovi.pt)
- - date_published: 2024-07-12T20:50:11.364936+00:00
-
- ## about
- - [https://quiteade.pt](https://quiteade.pt)
- - date_published: 2024-07-22T11:46:09.289770+00:00
-
- ## Rádio online gratuita e transmissāo de música online
- - [https://www.radio.pt](https://www.radio.pt)
- - date_published: 2024-07-01T10:56:05.344184+00:00
-
- ## Início
- - [https://www.radioboanova.pt](https://www.radioboanova.pt)
- - date_published: 2020-09-12T03:01:30+00:00
-
- ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
- - [http://www.radiosines.pt](http://www.radiosines.pt)
- - date_published: 2024-09-05T15:27:55.275674+00:00
-
- ## Rafael Albuquerque (rafaqueque)
- - [https://rafael.pt](https://rafael.pt)
- - date_published: 2024-05-28T17:47:18+00:00
-
- ## Ralph Lauren® PT | Promoção de verão até 50% de desconto
- - [https://www.ralphlauren.pt](https://www.ralphlauren.pt)
- - date_published: 2024-06-19T23:58:36.332096+00:00
-
- ## Revistas e colecionáveis ​​RBA (Loja Online) - RBA
- - [https://loja.rbaportugal.pt](https://loja.rbaportugal.pt)
- - date_published: 2024-10-14T22:52:39.148084+00:00
-
- ## Rádio Clube de Angra |  A Voz da Terceira
- - [https://rcangra.pt](https://rcangra.pt)
- - date_published: 2024-09-05T15:04:59.689194+00:00
-
- ## Rui Carlos Gonçalves
- - [https://rcgoncalves.pt](https://rcgoncalves.pt)
- - date_published: 2024-05-08T03:15:38.189196+00:00
-
- ## RealGaming.pt - Notícias sobre jogos, revisões, análises guias and mais!
- - [https://realgaming101.pt](https://realgaming101.pt)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Reativa | Marketing Digital | Fotografia | Filme | Design
- - [https://www.reativa.pt](https://www.reativa.pt)
- - date_published: 2024-09-05T14:02:05.455634+00:00
-
- ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
- - [http://www.record.pt](http://www.record.pt)
- - date_published: 2024-06-25T18:52:17.480524+00:00
-
- ## relampago
- - [http://www.relampago.pt](http://www.relampago.pt)
- - date_published: 2022-03-29T21:57:15+00:00
-
- ## Relógio D'Água - Editores
- - [http://www.relogiodagua.pt](http://www.relogiodagua.pt)
- - date_published: 2023-09-19T10:14:46+00:00
-
- ## RE/MAX Portugal
- - [https://remax.pt](https://remax.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## JackHammer
- - [https://media.rentals.pt](https://media.rentals.pt)
- - date_published: 2024-09-05T14:57:55.300596+00:00
-
- ## Rentals.pt - Casas, apartamentos e alojamento para férias
- - [https://rentals.pt](https://rentals.pt)
- - date_published: 2024-06-10T06:55:50.883934+00:00
-
- ## Inicio
- - [http://sines.repsol.pt](http://sines.repsol.pt)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## CITROËN COMPRE O SEU VEÍCULO - Avaliação gratuita do seu veículo
- - [https://www.retoma-citroen.pt](https://www.retoma-citroen.pt)
- - date_published: 2024-07-12T06:30:31.446254+00:00
-
- ## Ricardo Bernardo
- - [http://ricardobernardo.pt](http://ricardobernardo.pt)
- - date_published: 2024-01-23T19:17:44+00:00
-
- ## Rock in Rio Academy 2024
- - [https://rockinrioacademy.pt](https://rockinrioacademy.pt)
- - date_published: 2024-06-10T06:57:21.870118+00:00
-
- ## Rock in Rio Lisboa
- - [https://rockinriolisboa.pt](https://rockinriolisboa.pt)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Tech Rock Experience
- - [https://techrocks.rockinriolisboa.pt](https://techrocks.rockinriolisboa.pt)
- - date_published: 2024-06-18T19:14:58+00:00
-
- ## Roma Editora
- - [http://roma-editora.pt](http://roma-editora.pt)
- - date_published: 2024-07-12T20:49:40.038164+00:00
 

@@ -1,3 +1,100 @@
+ ## ShopTPT
+ - [https://www.shoptpt.org](https://www.shoptpt.org)
+ - date_published: 2024-07-01T23:40:40.916616+00:00
+
+ ## Shorenstein Center on Media, Politics and Public Policy
+ - [https://shorensteincenter.org](https://shorensteincenter.org)
+ - date_published: 2024-05-09T07:03:37.690627+00:00
+
+ ## Shortbread
+ - [https://shortbread-tiles.org](https://shortbread-tiles.org)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Shoshin College
+ - [https://shoshincollege.org](https://shoshincollege.org)
+ - date_published: 2024-10-20T21:46:19.924555+00:00
+
+ ## About Adam Shostack
+ - [https://adam.shostack.org](https://adam.shostack.org)
+ - date_published: 2024-08-19T21:34:33.566913+00:00
+
+ ## Home
+ - [https://shostack.org](https://shostack.org)
+ - date_published: 2024-05-09T07:39:17.970171+00:00
+
+ ## Shotcut Forum
+ - [https://forum.shotcut.org](https://forum.shotcut.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Shotcut - Home
+ - [https://shotcut.org](https://shotcut.org)
+ - date_published: 2024-03-28T21:45:17+00:00
+ - tags: ['desktop program', 'video editor']
+
+ ## שוברים שתיקה
+ - [https://www.shovrimshtika.org](https://www.shovrimshtika.org)
+ - date_published: 2024-10-22T20:24:38.522729+00:00
+
+ ## Home
+ - [http://www.showhope.org](http://www.showhope.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Show Up Utah
+ - [https://showuputah.org](https://showuputah.org)
+ - date_published: 2024-06-15T22:36:09.450286+00:00
+
+ ## Home - Summer Health Professions Education Program
+ - [http://www.shpep.org](http://www.shpep.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Shreveport Martyrs | Servants of God
+ - [https://shreveportmartyrs.org](https://shreveportmartyrs.org)
+ - date_published: 2024-06-20T23:56:03.175193+00:00
+
+ ## shreyans
+ - [https://shreyans.org](https://shreyans.org)
+ - date_published: 2023-11-09T19:00:05.108858+00:00
+
+ ## Shriners International | 150 years of Fun, Fellowship & Philanthropy
+ - [https://www.shrinersinternational.org](https://www.shrinersinternational.org)
+ - date_published: 2024-10-18T23:24:50.248896+00:00
+
+ ## My SHRM
+ - [https://account.shrm.org](https://account.shrm.org)
+ - date_published: 2024-04-02T07:58:08+00:00
+
+ ## SHRM24 Annual Conference
+ - [https://annual.shrm.org](https://annual.shrm.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## SHRM Events & Conferences | Connect with Top HR Pros
+ - [https://conferences.shrm.org](https://conferences.shrm.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## SHRM’s HR Jobs. Find or Post HR jobs. Search HR Resume Center. - SHRM's HR Jobs
+ - [https://jobs.shrm.org](https://jobs.shrm.org)
+ - date_published: 2024-07-19T23:04:16.877824+00:00
+
+ ## Welcome to SHRM | The Voice of All Things Work
+ - [https://pages.shrm.org](https://pages.shrm.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## SHRM - The Voice of All Things Work
+ - [https://shrm.org](https://shrm.org)
+ - date_published: 2023-10-25T22:08:14.306313+00:00
+
+ ## Welcome to SHRM | The Voice of All Things Work
+ - [https://stage-aem-www.shrm.org](https://stage-aem-www.shrm.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## SHRM Store - The World's Largest HR Store
+ - [https://store.shrm.org](https://store.shrm.org)
+ - date_published: 2024-07-19T23:09:28.656288+00:00
+
+ ## Customer Experience Community
+ - [https://support.shrm.org](https://support.shrm.org)
+ - date_published: 2023-07-20T23:09:29+00:00
+
  ## Volunteer Leader Community
  - [https://vlrc.shrm.org](https://vlrc.shrm.org)
  - date_published: 2023-07-20T23:04:21+00:00
@@ -3937,100 +4034,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## SPC ORG 2024
  - [http://spc.org](http://spc.org)
  - date_published: 2023-12-31T22:19:08+00:00
-
- ## SPCA International | Global Animal Rescue
- - [https://www.spcai.org](https://www.spcai.org)
- - date_published: 2024-07-07T07:22:44.000729+00:00
-
- ## Multi-Channel Marketing Automation Platform
- - [https://www.spcdn.org](https://www.spcdn.org)
- - date_published: 2024-06-10T06:39:52+00:00
-
- ## Enrico Boccioletti, 2020
- - [http://spcnvdr.org](http://spcnvdr.org)
- - date_published: 2024-10-29T14:24:15.895695+00:00
-
- ## Small Press Distribution
- - [https://spdbooks.org](https://spdbooks.org)
- - date_published: 2024-04-29T05:30:12.814028+00:00
-
- ## SPDX – Linux Foundation Projects Site
- - [https://spdx.org](https://spdx.org)
- - date_published: 2024-04-30T00:28:55.279354+00:00
-
- ## SPDX Online Tool
- - [https://tools.spdx.org](https://tools.spdx.org)
- - date_published: 2024-07-22T17:24:36.348915+00:00
-
- ## SP DX Club – Stowarzyszenie Miłośników Dalekosiężnych Łączności Radiowych
- - [http://www.spdxc.org](http://www.spdxc.org)
- - date_published: 2024-07-15T04:11:40.766383+00:00
-
- ## Society of Petroleum Engineers (SPE) | Oil & Gas Membership Association
- - [http://www.spe.org](http://www.spe.org)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## SPEAKEZEE.ORG
- - [https://speakezee.org](https://speakezee.org)
- - date_published: 2024-06-29T02:57:45.918687+00:00
-
- ## Speakit – Film & TV Production
- - [https://www.speakit.org](https://www.speakit.org)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Welcome to ICPE2020: ICPE 2020
- - [https://icpe2020.spec.org](https://icpe2020.spec.org)
- - date_published: 2021-03-09T14:22:10+00:00
-
- ## SPEC Research Group
- - [https://research.spec.org](https://research.spec.org)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Abu Simbel: Secret of Ramses
- - [http://abusimbel2.speccy.org](http://abusimbel2.speccy.org)
- - date_published: 2006-06-25T11:55:50+00:00
-
- ## Akton Films
- - [http://aktonfilms.speccy.org](http://aktonfilms.speccy.org)
- - date_published: 2007-10-22T21:20:07+00:00
-
- ## Bacteria, el emulador mas pequeño del mundo
- - [http://bacteria.speccy.org](http://bacteria.speccy.org)
- - date_published: 2012-11-06T12:30:39+00:00
-
- ## B.A.S.E.
- - [http://base.speccy.org](http://base.speccy.org)
- - date_published: 2008-03-01T20:06:18+00:00
-
- ## Página de Bibosoft
- - [http://bibosoft.speccy.org](http://bibosoft.speccy.org)
- - date_published: 2014-11-26T22:37:21+00:00
-
- ## Alexander Podzhunas ZX-Projects/TAP VERSION
- - [http://biotoxin.speccy.org](http://biotoxin.speccy.org)
- - date_published: 2011-01-11T16:52:26+00:00
-
- ## Documento sin título
- - [http://canadul.speccy.org](http://canadul.speccy.org)
- - date_published: 2023-10-31T11:23:01+00:00
-
- ## CargandoLeches
- - [http://cargandoleches.speccy.org](http://cargandoleches.speccy.org)
- - date_published: 2012-06-09T14:18:02+00:00
-
- ## Compiler Software
- - [https://compiler.speccy.org](https://compiler.speccy.org)
- - date_published: 2024-05-09T09:07:05.232781+00:00
-
- ## Curso de Código Máquina del ZX-Spectrum
- - [http://curso-cm.speccy.org](http://curso-cm.speccy.org)
- - date_published: 2003-09-25T08:53:47+00:00
-
- ## CZArg -Sitio dedicado al Spectrum Argentino y su familia.
- - [http://czarg.speccy.org](http://czarg.speccy.org)
- - date_published: 2021-06-01T00:00:00+00:00
-
- ## CZ Spectrum
- - [http://czspectrum.speccy.org](http://czspectrum.speccy.org)
- - date_published: 2002-10-24T18:44:32+00:00
 

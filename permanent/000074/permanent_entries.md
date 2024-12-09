@@ -1,3 +1,15 @@
+ ## Cronometraje y Gestión de eventos deportivos - CHIPLEVANTE
+ - [https://www.chiplevante.com](https://www.chiplevante.com)
+ - date_published: 2024-10-15T02:44:33.862619+00:00
+
+ ## Chipley Gun & Pawn
+ - [http://chipleypawnshop.com](http://chipleypawnshop.com)
+ - date_published: 2024-06-29T23:03:00.562571+00:00
+
+ ## Mexican Food - Restaurant &amp; Catering - Chipotle Mexican Grill
+ - [https://www.chipotle.com](https://www.chipotle.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## Chippendales | The Hottest Male Revue Show in Las Vegas
  - [https://www.chippendales.com](https://www.chippendales.com)
  - date_published: 2024-06-01T00:00:00+00:00
@@ -4050,16 +4062,4 @@
  ## Create citations, reference lists, and bibliographies
  - [https://citationsy.com](https://citationsy.com)
  - date_published: 2024-07-08T14:08:38.501718+00:00
-
- ## Citavi - Best Reference Management Software for Writing and Note Taking
- - [https://www.citavi.com](https://www.citavi.com)
- - date_published: 2024-06-21T19:58:07.667154+00:00
-
- ## Citco One
- - [https://citcoone.citco.com](https://citcoone.citco.com)
- - date_published: 2024-07-04T02:28:26.459628+00:00
-
- ## Cited Podcast
- - [https://citedpodcast.com](https://citedpodcast.com)
- - date_published: 2024-07-04T05:38:51.614085+00:00
 

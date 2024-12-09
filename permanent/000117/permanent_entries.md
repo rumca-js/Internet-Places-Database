@@ -1,3 +1,35 @@
+ ## HelpDesk API
+ - [https://api.helpdesk.com](https://api.helpdesk.com)
+ - date_published: 2024-07-04T07:57:59+00:00
+
+ ## HelpDesk
+ - [https://app.helpdesk.com](https://app.helpdesk.com)
+ - date_published: 2024-10-21T10:59:49.440168+00:00
+
+ ## Help Desk 🎫 IT Service Desk Software
+ - [https://helpdesk.com](https://helpdesk.com)
+ - date_published: 2024-10-21T11:02:05.345922+00:00
+
+ ## What's new on HelpDesk
+ - [https://news.helpdesk.com](https://news.helpdesk.com)
+ - date_published: 2024-10-21T10:59:48.612182+00:00
+
+ ## HelpDesk Status
+ - [https://status.helpdesk.com](https://status.helpdesk.com)
+ - date_published: 2024-10-21T10:59:45.230681+00:00
+
+ ## Литрес
+ - [https://litres.helpdeskeddy.com](https://litres.helpdeskeddy.com)
+ - date_published: 2024-09-18T23:47:54.263681+00:00
+
+ ## Help Desk Geek - Tech Tips from Trusted Tech Experts
+ - [https://helpdeskgeek.com](https://helpdeskgeek.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Helpdesk Habits | Soft skills for engineers & IT support technicians
+ - [https://helpdeskhabits.com](https://helpdeskhabits.com)
+ - date_published: 2024-05-10T06:32:18.694964+00:00
+
  ## EDSuite Help Site
  - [https://edsuite.helpdocs.com](https://edsuite.helpdocs.com)
  - date_published: 2024-09-18T11:30:21.735776+00:00
@@ -4004,36 +4036,4 @@
  ## Hiome
  - [https://www.hiome.com](https://www.hiome.com)
  - date_published: 2024-07-14T09:42:18.493680+00:00
-
- ## Home
- - [https://hioperator.com](https://hioperator.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## HIPAA Training, Certification, and Compliance
- - [https://www.hipaatraining.com](https://www.hipaatraining.com)
- - date_published: 2024-06-29T06:41:31+00:00
-
- ## P.S. You Should Know…
- - [https://blog.hipavel.com](https://blog.hipavel.com)
- - date_published: 2024-05-02T09:55:04.865563+00:00
-
- ## Pavel Sokolovsky
- - [https://hipavel.com](https://hipavel.com)
- - date_published: 2023-12-12T17:09:50+00:00
-
- ## 404
- - [https://libs.hipay.com](https://libs.hipay.com)
- - date_published: 2024-06-20T09:05:51+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://img.hipcamp.com](https://img.hipcamp.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Find yourself outside | Discover the best camping near you
- - [https://www.hipcamp.com](https://www.hipcamp.com)
- - date_published: 2024-05-06T16:28:03.127105+00:00
-
- ## The Best All-In-One Free Online PDF Solution.
- - [https://hipdf.com](https://hipdf.com)
- - date_published: 2024-05-11T08:34:57.690350+00:00
 

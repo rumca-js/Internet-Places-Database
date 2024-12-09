@@ -1,3 +1,71 @@
+ ## Institut für Medizinische Physik und Biophysik
+ - [https://biophysik.medizin.uni-leipzig.de](https://biophysik.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T06:32:26+00:00
+
+ ## Universitätsbibliothek Leipzig
+ - [https://blog.ub.uni-leipzig.de](https://blog.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:54.544596+00:00
+
+ ## Leipzig Corpora Collection - German
+ - [http://corpora.uni-leipzig.de](http://corpora.uni-leipzig.de)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Willkommen beim Fachschaftsrat Informatik
+ - [https://fsinf.informatik.uni-leipzig.de](https://fsinf.informatik.uni-leipzig.de)
+ - date_published: 2024-06-17T23:25:54+00:00
+
+ ## Universität Leipzig: Global and European Studies Institute
+ - [https://gesi.sozphil.uni-leipzig.de](https://gesi.sozphil.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:31.993616+00:00
+
+ ## Sign in · GitLab
+ - [https://git.fsinf.informatik.uni-leipzig.de](https://git.fsinf.informatik.uni-leipzig.de)
+ - date_published: 2024-10-22T05:31:02.070265+00:00
+
+ ## Universität Leipzig: Universität Leipzig
+ - [https://home.uni-leipzig.de](https://home.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:05.293351+00:00
+
+ ## Universität Leipzig: Fehler
+ - [https://intranet.uni-leipzig.de](https://intranet.uni-leipzig.de)
+ - date_published: 2024-06-18T13:28:10.521673+00:00
+
+ ## Karl-Sudhoff-Institut für Geschichte der Medizin und der Naturwissenschaften
+ - [http://karl-sudhoff.uni-leipzig.de](http://karl-sudhoff.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Start: Universitätsbibliothek Leipzig
+ - [https://katalog.ub.uni-leipzig.de](https://katalog.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:50.884348+00:00
+
+ ## Klinik für Kleintiere | Start
+ - [https://kleintierklinik.uni-leipzig.de](https://kleintierklinik.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:37+00:00
+
+ ## UBLab
+ - [https://lab.ub.uni-leipzig.de](https://lab.ub.uni-leipzig.de)
+ - date_published: 2024-10-22T05:19:36.437930+00:00
+
+ ## leuris - Das Forschungsinformationssystem der Universtität Leipzig
+ - [https://leuris.uni-leipzig.de](https://leuris.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:54.423935+00:00
+
+ ## Universität Leipzig: Das Leipziger Universitätsmagazin
+ - [https://magazin.uni-leipzig.de](https://magazin.uni-leipzig.de)
+ - date_published: 2024-06-18T13:27:34.780992+00:00
+
+ ## Home | Moodle 2
+ - [https://moodle2.uni-leipzig.de](https://moodle2.uni-leipzig.de)
+ - date_published: 2024-10-22T05:27:07.952612+00:00
+
+ ## Universität Leipzig: Leipziger Universitätsorchester
+ - [https://orchester.uni-leipzig.de](https://orchester.uni-leipzig.de)
+ - date_published: 2024-10-22T05:25:20.092717+00:00
+
+ ## Paul-Flechsig-Institut – Zentrum für Neuropathologie und Hirnforschung
+ - [http://pfi.medizin.uni-leipzig.de](http://pfi.medizin.uni-leipzig.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Pharmazie in Leipzig
  - [https://pharmazie.medizin.uni-leipzig.de](https://pharmazie.medizin.uni-leipzig.de)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -3945,72 +4013,4 @@ Bibliotheken / Z39.50
  ## ZDFtext
  - [https://zdftext.de](https://zdftext.de)
  - date_published: 2024-05-13T03:13:59.269129+00:00
-
- ## Mit dem Zweiten wirbt man besser – ZDF Werbefernsehen
- - [https://zdf-werbefernsehen.de](https://zdf-werbefernsehen.de)
- - date_published: 2024-05-13T03:14:01.284466+00:00
-
- ## Sign in - Matomo
- - [https://piwik.zdf-werbung.de](https://piwik.zdf-werbung.de)
- - date_published: 2024-07-17T08:07:54.731974+00:00
-
- ## Startseite
- - [https://zdi-portal.de](https://zdi-portal.de)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Download | ZDNet.de
- - [https://downloads.zdnet.de](https://downloads.zdnet.de)
- - date_published: 2024-07-01T08:34:12.495057+00:00
-
- ## Registrieren Sie sich für unseren kostenlosen Newsletter in nur 60 Sekunden!
- - [http://subscriber.zdnet.de](http://subscriber.zdnet.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## ZDNet.de
- - [https://zdnet.de](https://zdnet.de)
- - date_published: 2024-05-07T18:49:45.562787+00:00
-
- ## Sign in - Matomo
- - [https://stats.zebralog.de](https://stats.zebralog.de)
- - date_published: 2024-07-17T08:01:39.329224+00:00
-
- ## Startseite
- - [https://www.zebralog.de](https://www.zebralog.de)
- - date_published: 2024-07-17T08:01:40.841463+00:00
-
- ## ZEISS Gruppe
- - [http://www.zeiss.de](http://www.zeiss.de)
- - date_published: 2024-07-08T15:22:52.265717+00:00
-
- ## DIE ZEIT und die ZEIT Magazine im Abo
- - [https://abo.zeit.de](https://abo.zeit.de)
- - date_published: 2024-04-29T07:11:54.596037+00:00
-
- ## Welcher Beruf passt zu mir? - Der Berufstest von ZEIT Campus
- - [https://berufstest.zeit.de](https://berufstest.zeit.de)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Blogs
- - [https://blog.zeit.de](https://blog.zeit.de)
- - date_published: 2024-04-29T07:12:36.743029+00:00
-
- ## Briefkasten
- - [https://briefkasten.zeit.de](https://briefkasten.zeit.de)
- - date_published: 2024-06-28T21:41:04.646084+00:00
-
- ## ZEIT ONLINE Startseite
- - [https://cmk.zeit.de](https://cmk.zeit.de)
- - date_published: 2024-04-29T07:00:14.167012+00:00
-
- ## 403
- - [https://datenschutz.zeit.de](https://datenschutz.zeit.de)
- - date_published: 2024-04-29T07:12:24.987920+00:00
-
- ## 404 Fehler
- - [https://img.zeit.de](https://img.zeit.de)
- - date_published: 2024-04-29T07:11:36.595535+00:00
-
- ## Anzeigenerfassung | DIE ZEIT
- - [https://inserieren.zeit.de](https://inserieren.zeit.de)
- - date_published: 2024-04-29T07:12:50.059154+00:00
 

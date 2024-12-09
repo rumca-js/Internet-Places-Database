@@ -1,3 +1,99 @@
+ ## IT TECHNOLOGY FOR BUSINESS - The Underdogs
+ - [http://www.the-underdogs.org](http://www.the-underdogs.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home
+ - [https://theunitedhp.org](https://theunitedhp.org)
+ - date_published: 2024-07-20T22:28:38.324917+00:00
+
+ ## Home - The Urbanist
+ - [https://theurbanist.org](https://theurbanist.org)
+ - date_published: 2023-10-25T22:14:42.141298+00:00
+
+ ## The Vaccine Reaction
+ - [https://thevaccinereaction.org](https://thevaccinereaction.org)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## The Village Of Love Foundation
+ - [https://thevillageoflove.org](https://thevillageoflove.org)
+ - date_published: 2024-06-24T11:47:59.343223+00:00
+
+ ## The Walk Home | A KNKX Public Radio and Seattle Times Podcast
+ - [http://thewalkhomepodcast.org](http://thewalkhomepodcast.org)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Wall Will Fall
+ - [https://thewallwillfall.org](https://thewallwillfall.org)
+ - date_published: 2024-10-29T09:55:33+00:00
+
+ ## الطريق إلى السعادة: نظام أخلاقي للقِيَم والآداب العامة - 21 طريقة لنكون سعداء
+ - [https://ar.thewaytohappiness.org](https://ar.thewaytohappiness.org)
+ - date_published: 2024-09-04T18:00:28.071838+00:00
+
+ ## Der Weg zum Glücklichsein: Ausbildung zu einer moralischen Wesensart, guter Rat, ethische Werte, Tugenden für ein glücklicheres Leben
+ - [http://de.thewaytohappiness.org](http://de.thewaytohappiness.org)
+ - date_published: 2024-09-04T17:54:58.706485+00:00
+
+ ## Welcome to the Virtual Academy
+ - [http://education.thewaytohappiness.org](http://education.thewaytohappiness.org)
+ - date_published: 2024-09-04T18:00:34.398778+00:00
+
+ ## Az út a boldogsághoz: Erkölcsi jellemformálás, Jó tanácsok, Etikai értékek, Erények egy boldogabb élethez
+ - [http://hu.thewaytohappiness.org](http://hu.thewaytohappiness.org)
+ - date_published: 2024-09-04T17:56:41.964902+00:00
+
+ ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
+ - [https://thewaytohappiness.org](https://thewaytohappiness.org)
+ - date_published: 2024-06-06T19:39:24.417614+00:00
+
+ ## The Web Conference 2019
+ - [https://www2019.thewebconf.org](https://www2019.thewebconf.org)
+ - date_published: 2024-12-03T21:39:33.102863+00:00
+
+ ## The Web Conference 2020
+ - [https://www2020.thewebconf.org](https://www2020.thewebconf.org)
+ - date_published: 2024-05-08T10:32:06.464716+00:00
+
+ ## The Web Conference | 2021
+ - [https://www2021.thewebconf.org](https://www2021.thewebconf.org)
+ - date_published: 2024-07-02T13:33:14.548144+00:00
+
+ ## The Web Conference 2023
+ - [https://www2023.thewebconf.org](https://www2023.thewebconf.org)
+ - date_published: 2024-09-13T17:59:11.098831+00:00
+
+ ## Home | International World Wide Web Conference 2024 ( WWW2024 | The Web Conf 2024 )
+ - [https://www2024.thewebconf.org](https://www2024.thewebconf.org)
+ - date_published: 2024-08-08T02:42:10+00:00
+
+ ## LHENA in the Wedge
+ - [https://www.thewedge.org](https://www.thewedge.org)
+ - date_published: 2024-07-09T20:25:38.024096+00:00
+
+ ## The Weekly Challenge - Perl & Raku
+ - [https://theweeklychallenge.org](https://theweeklychallenge.org)
+ - date_published: 2024-09-03T21:29:55+00:00
+
+ ## The White Review
+ - [https://thewhitereview.org](https://thewhitereview.org)
+ - date_published: 2024-05-08T09:33:41.086596+00:00
+
+ ## TheWombat
+ - [https://www.thewombat.org](https://www.thewombat.org)
+ - date_published: 2024-08-20T04:25:22.925381+00:00
+
+ ## The World from PRX
+ - [https://api.theworld.org](https://api.theworld.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The World from PRX
+ - [https://theworld.org](https://theworld.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Yes Men | Substack
+ - [https://news.theyesmen.org](https://news.theyesmen.org)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## Future home of press.theyesmen.org
  - [https://press.theyesmen.org](https://press.theyesmen.org)
  - date_published: 2024-01-20T21:52:33+00:00
@@ -3941,103 +4037,4 @@ of Life Web Project
  ## uarray — uarray 0.8.2+16.g13bf041 documentation
  - [https://uarray.org](https://uarray.org)
  - date_published: 2021-06-22T00:00:00+00:00
-
- ## UASF Working Group
- - [https://uasf.org](https://uasf.org)
- - date_published: 2022-01-01T14:24:29+00:00
-
- ## uAspire
- - [https://www.uaspire.org](https://www.uaspire.org)
- - date_published: 2024-07-12T09:01:38.421946+00:00
-
- ## UAV Challenge
- - [http://uavchallenge.org](http://uavchallenge.org)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Home - UAW International Store
- - [https://store.uaw.org](https://store.uaw.org)
- - date_published: 2023-12-01T19:09:50+00:00
-
- ## Plausible · Web analytics
- - [https://track.uaw.org](https://track.uaw.org)
- - date_published: 2024-05-16T02:47:26.384743+00:00
- - tags: ['open source', 'website analitics']
-
- ## Southern Autoworkers Are Getting Ready to Stand Up! - UAW | United Automobile, Aerospace and Agricultural Implement Workers of America
- - [https://uaw.org](https://uaw.org)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## UAWire
- - [https://uawire.org](https://uawire.org)
- - date_published: 2024-01-02T18:25:41.964512+00:00
-
- ## SolidWeb 3.0 - Get a free website for your Local Union - UAW | United Automobile, Aerospace and Agricultural Implement Workers of America
- - [http://uawsolidweb.org](http://uawsolidweb.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home
- - [http://ubicomp.org](http://ubicomp.org)
- - date_published: 2024-09-05T06:16:27+00:00
-
- ## Data Ownership Challenges: Understanding Your Rights in the Digital Era
- - [http://www.ubiquitouscommons.org](http://www.ubiquitouscommons.org)
- - date_published: 2023-11-23T08:17:14+00:00
-
- ## Home - u-bmc
- - [https://u-bmc.org](https://u-bmc.org)
- - date_published: 2024-05-06T09:07:37.513922+00:00
- - tags: ['linux', 'operating system', 'open source']
-
- ## UbuCon
- - [http://ubucon.org](http://ubucon.org)
- - date_published: 2024-06-04T16:08:11+00:00
-
- ## Ubuntu Budgie
- - [https://ubuntubudgie.org](https://ubuntubudgie.org)
- - date_published: 2024-07-12T23:07:18+00:00
-
- ## Ubuntu Forums
- - [http://ubuntuforums.org](http://ubuntuforums.org)
- - date_published: 2024-06-23T01:32:10.250391+00:00
-
- ## accueil [Wiki ubuntu-fr]
- - [https://doc.ubuntu-fr.org](https://doc.ubuntu-fr.org)
- - date_published: 2024-07-10T06:24:24.305729+00:00
-
- ## Ubuntu GNOME | An official flavor of Ubuntu, featuring the GNOME desktop environment.
- - [https://ubuntugnome.org](https://ubuntugnome.org)
- - date_published: 2024-09-21T22:54:48.246448+00:00
-
- ## Ubuntu-gr – Η ελληνική κοινότητα του Ubuntu
- - [http://ubuntu-gr.org](http://ubuntu-gr.org)
- - date_published: 2024-07-14T03:11:25.659692+00:00
-
- ## Planet Ubuntu-it
- - [https://planet.ubuntu-it.org](https://planet.ubuntu-it.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Documentazione - Wiki di ubuntu-it
- - [https://wiki.ubuntu-it.org](https://wiki.ubuntu-it.org)
- - date_published: 2024-07-20T04:55:53.871611+00:00
-
- ## Ubuntu MATE Guide
- - [https://guide.ubuntu-mate.org](https://guide.ubuntu-mate.org)
- - date_published: 2022-03-09T17:23:13+00:00
-
- ## Ubuntu MATE Start Page
- - [https://start.ubuntu-mate.org](https://start.ubuntu-mate.org)
- - date_published: 2021-03-04T20:41:39+00:00
-
- ## Ubuntu MATE | For a retrospective future
- - [https://ubuntu-mate.org](https://ubuntu-mate.org)
- - date_published: 2023-11-06T10:08:20.674734+00:00
- - tags: ['operating system', 'linux']
-
- ## Ubuntu Fridge
- - [http://ubuntu-news.org](http://ubuntu-news.org)
- - date_published: 2024-09-21T22:50:17.212917+00:00
-
- ## Ubucon Portugal 2024 | Ubucon Portugal 2024
- - [https://ubuconpt2024.ubuntu-pt.org](https://ubuconpt2024.ubuntu-pt.org)
- - date_published: 2024-09-21T22:48:37+00:00
 

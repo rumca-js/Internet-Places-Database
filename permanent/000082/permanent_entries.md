@@ -1,3 +1,19 @@
+ ## The Lair of the CyberVillains
+ - [https://cybervillains.com](https://cybervillains.com)
+ - date_published: 2024-05-06T20:48:00.549004+00:00
+
+ ## Success! | Cybervio Shield
+ - [https://cdn.cybervio.com](https://cdn.cybervio.com)
+ - date_published: 2024-05-30T21:18:24+00:00
+
+ ## Cyberwarzone
+ - [http://cyberwarzone.com](http://cyberwarzone.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Cyberwoven - Digital Agency in South Carolina
+ - [https://www.cyberwoven.com](https://www.cyberwoven.com)
+ - date_published: 2024-07-19T15:10:37+00:00
+
  ## CyberYozh Academy
  - [https://edu.cyberyozh.com](https://edu.cyberyozh.com)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -4037,21 +4053,4 @@
  ## Darned Sock Productions
  - [http://darnedsock.com](http://darnedsock.com)
  - date_published: 2024-07-13T05:03:24.463179+00:00
-
- ## Darnell Clayton
- - [https://darnellclayton.com](https://darnellclayton.com)
- - date_published: 2024-07-01T01:02:13+00:00
-
- ## Darn Tough Vermont - Merino Wool Socks Guaranteed for Life
- - [https://darntough.com](https://darntough.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## BlueConic: Log In
- - [https://n168.darntough.com](https://n168.darntough.com)
- - date_published: 2024-08-11T06:23:43.970974+00:00
-
- ## James Darpinian's blog | James Darpinian
- - [https://james.darpinian.com](https://james.darpinian.com)
- - date_published: 2023-10-25T09:20:00.494541+00:00
- - tags: ['personal']
 

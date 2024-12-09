@@ -1,3 +1,101 @@
+ ## ZTM w Gdańsku
+ - [https://ztm.gda.pl](https://ztm.gda.pl)
+ - date_published: 2024-10-16T19:15:04.218788+00:00
+ - tags: ['public transportation', 'government']
+
+ ## Bazylika Mariacka w Gdańsku
+ - [https://bazylikamariacka.gdansk.pl](https://bazylikamariacka.gdansk.pl)
+ - date_published: 2024-07-17T07:14:27.366366+00:00
+
+ ## Oficjalny portal miasta Gdańska
+ - [https://www.gdansk.pl](https://www.gdansk.pl)
+ - date_published: 2024-07-01T08:07:38.820459+00:00
+
+ ## Strona główna
+ - [http://gdanskifunduszfilmowy.pl](http://gdanskifunduszfilmowy.pl)
+ - date_published: 2024-07-01T08:07:40.633786+00:00
+
+ ## SEO Blog - Blog O Pozycjonowaniu I Optymalizacji Stron
+ - [http://www.blog.gdaq.pl](http://www.blog.gdaq.pl)
+ - date_published: 2024-07-02T17:27:19+00:00
+
+ ## Gdynia - Otwarte Dane
+ - [https://otwartedane.gdynia.pl](https://otwartedane.gdynia.pl)
+ - date_published: 2024-07-17T16:27:26.357456+00:00
+
+ ## Serwis internetowy Miasta Gdynia
+ - [https://www.gdynia.pl](https://www.gdynia.pl)
+ - date_published: 2024-07-01T08:06:21.306096+00:00
+
+ ## Co i gdzie?
+ - [http://gdzie.pl](http://gdzie.pl)
+ - date_published: 2023-10-07T11:55:43+00:00
+
+ ## Co i gdzie?
+ - [http://www.tpak.gdzie.pl](http://www.tpak.gdzie.pl)
+ - date_published: 2023-10-07T11:55:43+00:00
+
+ ## GeekRetro blog - Pasja do gier klasycznych | geekretro.pl
+ - [https://geekretro.pl](https://geekretro.pl)
+ - date_published: 2024-05-30T01:02:10.680766+00:00
+
+ ## Software House WooCommerce — GeekRoom.pl
+ - [http://geekroom.pl](http://geekroom.pl)
+ - date_published: 2024-07-15T11:16:12+00:00
+
+ ## Geekweb – Lekki blog technologiczno-rozrywkowy
+ - [https://geekweb.pl](https://geekweb.pl)
+ - date_published: 2024-08-19T23:58:54.669473+00:00
+
+ ## GeekWeek w INTERIA.PL – technologie, nauka, lifestyle i podróże
+ - [https://geekweek.pl](https://geekweek.pl)
+ - date_published: 2023-10-25T22:27:43.375194+00:00
+
+ ## GELG – We Work With Metal
+ - [https://gelg.pl](https://gelg.pl)
+ - date_published: 2024-09-02T13:53:56.609805+00:00
+
+ ## Strona główna
+ - [https://www.gemius.pl](https://www.gemius.pl)
+ - date_published: 2024-06-25T20:20:49+00:00
+
+ ## Generator domen
+ - [http://www.generatordomen.pl](http://www.generatordomen.pl)
+ - date_published: 2024-09-04T10:57:04.192076+00:00
+
+ ## Generujemy.pl
+ - [https://generujemy.pl](https://generujemy.pl)
+ - date_published: 2024-07-12T15:12:06.509837+00:00
+
+ ## Genialne - Zainspiruj się!
+ - [https://genialne.pl](https://genialne.pl)
+ - date_published: 2024-07-20T02:58:01.059324+00:00
+
+ ## genompolski.pl
+ - [https://genompolski.pl](https://genompolski.pl)
+ - date_published: 2024-09-02T14:16:33.374258+00:00
+
+ ## Page Redirection
+ - [http://sip.geopoz.pl](http://sip.geopoz.pl)
+ - date_published: 2016-06-13T11:57:29+00:00
+
+ ## Doradzamy, Projektujemy, Kodujemy, Angażujemy. | GETID Interactive
+ - [http://getid.pl](http://getid.pl)
+ - date_published: 2024-09-02T13:55:38.998162+00:00
+
+ ## Klienci indywidualni - VeloBank
+ - [https://www.getinbank.pl](https://www.getinbank.pl)
+ - date_published: 2024-07-13T19:12:49+00:00
+
+ ## GetResponse | Profesjonalny email marketing dla każdego
+ - [https://www.getresponse.pl](https://www.getresponse.pl)
+ - date_published: 2024-09-03T20:24:37.787586+00:00
+
+ ## Game Exe :: Pillars of Eternity, Skyrim, Wiedźmin 3, Dragon Age: Inkwizycja, Mass Effect 3, cRPG, RPG, Fantasy
+ - [https://gexe.pl](https://gexe.pl)
+ - date_published: 2023-10-27T13:52:06.302322+00:00
+ - tags: ['game news']
+
  ## Biuro prasowe GG
  - [https://biuroprasowe.gg.pl](https://biuroprasowe.gg.pl)
  - date_published: 2024-06-14T07:32:35.312667+00:00
@@ -3979,101 +4077,4 @@
  ## Strona główna - Witryna Mazovia.pl
  - [https://mazovia.pl](https://mazovia.pl)
  - date_published: 2024-07-14T07:42:55.815694+00:00
-
- ## MRBRD, Informacja o przeniesieniu strony
- - [http://www.mrbrd.mazovia.pl](http://www.mrbrd.mazovia.pl)
- - date_published: 2024-01-24T07:10:27+00:00
-
- ## Catering dla firm - eventy w całej Polsce
- - [https://catering.mazurkas.pl](https://catering.mazurkas.pl)
- - date_published: 2024-10-31T09:08:51.043163+00:00
-
- ## Catering dla firm - eventy w całej Polsce
- - [http://www.mazurkascatering.pl](http://www.mazurkascatering.pl)
- - date_published: 2024-10-31T09:09:21.854053+00:00
-
- ## Centrum konferencyjne MCC Mazurkas Conference Centre & Hotel**** Ożarów Mazowiecki (Warszawa) | Catering Warszawa
- - [https://mazurkashotel.pl](https://mazurkashotel.pl)
- - date_published: 2024-10-31T09:09:07.940339+00:00
-
- ## Mazury PTTK - spływy kajakowe Krutynia, wycieczki, kolonie.
- - [https://mazurypttk.pl](https://mazurypttk.pl)
- - date_published: 2024-07-17T11:47:30+00:00
-
- ## mBank CompanyNet
- - [https://companynet.mbank.pl](https://companynet.mbank.pl)
- - date_published: 2024-05-26T14:56:02.013854+00:00
-
- ## mBank CZ - tiskové centrum
- - [https://cz.media.mbank.pl](https://cz.media.mbank.pl)
- - date_published: 2024-09-02T13:37:55.151172+00:00
-
- ## mBank EN - newsroom
- - [https://en.media.mbank.pl](https://en.media.mbank.pl)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## mBank serwis ekonomiczny
- - [https://makroekonomia.mbank.pl](https://makroekonomia.mbank.pl)
- - date_published: 2024-05-26T14:56:09.957919+00:00
-
- ## Kredyty, lokaty, konta bankowe, karty, ubezpieczenia online | mBank.pl
- - [https://mbank.pl](https://mbank.pl)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## mBank serwis transakcyjny
- - [https://online.mbank.pl](https://online.mbank.pl)
- - date_published: 2024-05-26T14:56:20.612624+00:00
-
- ## Biuro prasowe, centrum prasowe - mBank.pl
- - [https://pl.media.mbank.pl](https://pl.media.mbank.pl)
- - date_published: 2024-05-26T14:55:59.674798+00:00
-
- ## mBank SK - tlačové centrum
- - [https://sk.media.mbank.pl](https://sk.media.mbank.pl)
- - date_published: 2024-09-02T13:37:53.525639+00:00
-
- ## Marcin Borkowski: Strona domowa
- - [https://mbork.pl](https://mbork.pl)
- - date_published: 2023-10-25T08:55:20.152030+00:00
- - tags: ['personal']
-
- ## Agencja SEO/SEM: performance i strategie kreatywne | MBridge
- - [https://www.mbridge.pl](https://www.mbridge.pl)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## McDonald's: Burgery, Frytki, Sałatki, Desery, McCafe i inne!
- - [https://mcdonalds.pl](https://mcdonalds.pl)
- - date_published: 2024-07-14T05:29:55.592229+00:00
-
- ## Grupa MCI
- - [https://mci.pl](https://mci.pl)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Strona główna
- - [https://mckgorzow.pl](https://mckgorzow.pl)
- - date_published: 2017-05-12T13:24:09+00:00
-
- ## Międzynarodowe Centrum Kongresowe w Katowicach - Kongresy, Konferencje, Sympozja, Wydarzenia sportowe, koncerty
- - [http://www.mckkatowice.pl](http://www.mckkatowice.pl)
- - date_published: 2024-07-14T05:22:38.554621+00:00
-
- ## System Sprzedaży biletów - MCK Nowy Targ - system biletowy
- - [https://bilety.mck-nowytarg.pl](https://bilety.mck-nowytarg.pl)
- - date_published: 2024-07-09T13:29:47.092314+00:00
-
- ## Małopolskie Centrum Kultury SOKÓŁ w Nowym Sączu
- - [https://mcksokol.pl](https://mcksokol.pl)
- - date_published: 2024-07-09T13:22:51.547636+00:00
-
- ## PTWP Event Center Sp. z o.o. - Międzynarodowe Centrum Kongresowe i Spodek Katowice
- - [http://www.mckspodek.pl](http://www.mckspodek.pl)
- - date_published: 2016-10-04T06:45:45+00:00
-
- ## Site is under maintenance
- - [http://www.familia.mebloweuchwyty.pl](http://www.familia.mebloweuchwyty.pl)
- - date_published: 2024-08-06T22:38:24.019006+00:00
-
- ## Meczyki.pl
- - [https://www.meczyki.pl](https://www.meczyki.pl)
- - date_published: 2024-08-18T15:19:08.470883+00:00
 

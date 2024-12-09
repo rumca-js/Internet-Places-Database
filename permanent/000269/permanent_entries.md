@@ -1,3 +1,71 @@
+ ## UCF Office of Research
+ - [http://www.research.ucf.edu](http://www.research.ucf.edu)
+ - date_published: 2024-07-02T20:08:21+00:00
+
+ ## Sign in to Outlook
+ - [https://www.webmail.ucf.edu](https://www.webmail.ucf.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## UC Law Sites – WordPress platform
+ - [http://sites.uchastings.edu](http://sites.uchastings.edu)
+ - date_published: 2024-06-29T01:59:26.558017+00:00
+
+ ## Two-Factor Authentication | The University of Chicago
+ - [https://2fa.uchicago.edu](https://2fa.uchicago.edu)
+ - date_published: 2011-10-03T00:00:00+00:00
+
+ ## Academic Technology Solutions – Academic Technology Solutions group website (IT Services)
+ - [https://academictech.uchicago.edu](https://academictech.uchicago.edu)
+ - date_published: 2024-07-01T21:47:56+00:00
+
+ ## Access UChicago Now | The University of Chicago
+ - [https://accessibility.uchicago.edu](https://accessibility.uchicago.edu)
+ - date_published: 2024-05-07T20:45:44.535009+00:00
+
+ ## UChicago Alumni & Friends
+ - [https://alumniandfriends.uchicago.edu](https://alumniandfriends.uchicago.edu)
+ - date_published: 2023-06-30T21:12:04+00:00
+
+ ## Home | UChicago Alumni Weekend
+ - [https://alumniweekend.uchicago.edu](https://alumniweekend.uchicago.edu)
+ - date_published: 2024-05-07T14:13:58.243002+00:00
+
+ ## Admissions - UChicagoGRAD | The University of Chicago
+ - [https://apply-bsd.uchicago.edu](https://apply-bsd.uchicago.edu)
+ - date_published: 2024-07-01T22:32:39.802309+00:00
+
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [https://apply-harris.uchicago.edu](https://apply-harris.uchicago.edu)
+ - date_published: 2024-07-02T21:29:37+00:00
+
+ ## Amp
+ - [https://apply.pritzker.uchicago.edu](https://apply.pritzker.uchicago.edu)
+ - date_published: 2024-07-01T22:31:56.728154+00:00
+
+ ## Admissions - UChicagoGRAD | The University of Chicago
+ - [https://apply-psd.uchicago.edu](https://apply-psd.uchicago.edu)
+ - date_published: 2024-05-07T20:46:36.545286+00:00
+
+ ## Home - AQLI
+ - [https://aqli.epic.uchicago.edu](https://aqli.epic.uchicago.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Explore the architecture at the University of Chicago
+ - [https://architecture.uchicago.edu](https://architecture.uchicago.edu)
+ - date_published: 2024-07-01T22:38:48+00:00
+
+ ## The ARTFL Project | The ARTFL Project
+ - [http://artfl-project.uchicago.edu](http://artfl-project.uchicago.edu)
+ - date_published: 2024-06-30T04:26:38+00:00
+
+ ## Arts Institutions & Programs
+ - [https://arts.uchicago.edu](https://arts.uchicago.edu)
+ - date_published: 2024-06-29T21:12:38.560661+00:00
+
+ ## Becker Friedman Institute for Economics at University of Chicago — Frontier Research, Global Impact. | BFI
+ - [https://bfi.uchicago.edu](https://bfi.uchicago.edu)
+ - date_published: 2023-10-25T18:59:59.078924+00:00
+
  ## Biological Sciences Division at the University of Chicago
  - [https://biologicalsciences.uchicago.edu](https://biologicalsciences.uchicago.edu)
  - date_published: 2023-11-27T16:10:30.419743+00:00
@@ -3957,72 +4025,4 @@
  ## Home | University of California, Santa Barbara University Center
  - [https://ucen.ucsb.edu](https://ucen.ucsb.edu)
  - date_published: 2024-09-14T10:14:33.118357+00:00
-
- ## Home
- - [https://ucsb.edu](https://ucsb.edu)
- - date_published: 2024-04-30T15:47:47.439884+00:00
-
- ## UCSB Undergraduate Research
- - [https://undergrad.research.ucsb.edu](https://undergrad.research.ucsb.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | Veterans & Military Services
- - [https://veterans.sa.ucsb.edu](https://veterans.sa.ucsb.edu)
- - date_published: 2024-08-26T23:20:21+00:00
-
- ## VoS: Voice of the Shuttle
- - [http://vos.ucsb.edu](http://vos.ucsb.edu)
- - date_published: 2024-06-24T09:17:44.711485+00:00
-
- ## Home | UCSB Web Theme
- - [https://webtheme-demo.brand.ucsb.edu](https://webtheme-demo.brand.ucsb.edu)
- - date_published: 2024-06-24T22:04:00+00:00
-
- ## Home | Wellbeing
- - [https://wellbeing.ucsb.edu](https://wellbeing.ucsb.edu)
- - date_published: 2024-06-12T19:59:35+00:00
-
- ## Home | Health & Wellness
- - [https://wellness.sa.ucsb.edu](https://wellness.sa.ucsb.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | Health & Wellness
- - [https://wellness.ucsb.edu](https://wellness.ucsb.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | Women's Center
- - [https://womenscenter.sa.ucsb.edu](https://womenscenter.sa.ucsb.edu)
- - date_published: 2024-09-11T16:17:35+00:00
-
- ## Department of Anthropology - UC Santa Barbara
- - [http://www.anth.ucsb.edu](http://www.anth.ucsb.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## UCSB ArchLab
- - [https://www.arch.cs.ucsb.edu](https://www.arch.cs.ucsb.edu)
- - date_published: 2024-07-02T14:31:58.174112+00:00
-
- ## Associated Students – A Place For Everyone
- - [https://www.as.ucsb.edu](https://www.as.ucsb.edu)
- - date_published: 2024-09-14T10:16:15.639344+00:00
-
- ## Home | Business & Financial Services
- - [https://www.bfs.ucsb.edu](https://www.bfs.ucsb.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Structurally Dynamic Biomaterials | Carlini Group
- - [https://www.carlini-group.chem.ucsb.edu](https://www.carlini-group.chem.ucsb.edu)
- - date_published: 2024-10-19T08:20:34.543889+00:00
-
- ## Department of Chemistry - UC Santa Barbara
- - [http://www.chem.ucsb.edu](http://www.chem.ucsb.edu)
- - date_published: 2024-06-17T11:47:07+00:00
-
- ## Comparative Literature Program - UC Santa Barbara
- - [https://www.complit.ucsb.edu](https://www.complit.ucsb.edu)
- - date_published: 2024-07-01T22:56:17+00:00
-
- ## Electrical and Computer Engineering | UC Santa Barbara | Electrical and Computer Engineering | UC Santa Barbara
- - [http://www.ece.ucsb.edu](http://www.ece.ucsb.edu)
- - date_published: 2024-09-13T19:44:09.330349+00:00
 

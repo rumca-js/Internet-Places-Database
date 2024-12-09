@@ -1,3 +1,79 @@
+ ## Portrait Neural Radiance Fields from a Single Image
+ - [https://portrait-nerf.github.io](https://portrait-nerf.github.io)
+ - date_published: 2020-12-12T19:40:38+00:00
+
+ ## Consistent View Synthesis with Pose-Guided Diffusion Models
+ - [https://poseguided-diffusion.github.io](https://poseguided-diffusion.github.io)
+ - date_published: 2023-06-02T05:13:04+00:00
+
+ ## Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN
+ - [https://pose-with-style.github.io](https://pose-with-style.github.io)
+ - date_published: 2024-03-13T20:45:07+00:00
+
+ ## Alex Potanin
+ - [https://potanin.github.io](https://potanin.github.io)
+ - date_published: 2024-10-10T21:57:45+00:00
+
+ ## POtO Software
+ - [https://potosoftware.github.io](https://potosoftware.github.io)
+ - date_published: 2023-07-30T17:18:22+00:00
+
+ ## Generative Powers of Ten
+ - [https://powers-of-10.github.io](https://powers-of-10.github.io)
+ - date_published: 2024-05-22T22:49:42+00:00
+
+ ## PPDP 2021
+ - [https://ppdp2021.github.io](https://ppdp2021.github.io)
+ - date_published: 2021-11-16T19:28:02+00:00
+
+ ## Tom Hulton-Harrop | A programming blog
+ - [https://pr0g.github.io](https://pr0g.github.io)
+ - date_published: 2023-10-25T19:51:17.054227+00:00
+
+ ## Prakash Sellathurai
+ - [https://prakashsellathurai.github.io](https://prakashsellathurai.github.io)
+ - date_published: 2024-07-23T23:32:35.708796+00:00
+
+ ## Pramesh Bajracharya's Portfolio and Blog
+ - [https://prameshbajra.github.io](https://prameshbajra.github.io)
+ - date_published: 2024-05-07T23:11:44.186363+00:00
+
+ ## Groups of Loops – a mathematics blog
+ - [https://pranavchinmay.github.io](https://pranavchinmay.github.io)
+ - date_published: 2021-10-13T15:21:39+00:00
+
+ ## Pranav Khadpe
+ - [https://pranavkhadpe.github.io](https://pranavkhadpe.github.io)
+ - date_published: 2024-04-02T02:31:00+00:00
+
+ ## Prashant Pandey
+ - [https://prashantpandey.github.io](https://prashantpandey.github.io)
+ - date_published: 2024-05-24T00:21:20+00:00
+
+ ## Prateek Sahu
+ - [https://prateeksahu.github.io](https://prateeksahu.github.io)
+ - date_published: 2023-06-16T17:11:02+00:00
+
+ ## Pratik Chaudhari
+ - [https://pratikac.github.io](https://pratikac.github.io)
+ - date_published: 2024-05-10T07:02:10.387213+00:00
+
+ ## Pratul Srinivasan
+ - [https://pratulsrinivasan.github.io](https://pratulsrinivasan.github.io)
+ - date_published: 2023-12-13T00:31:37+00:00
+
+ ## hacking with praydog
+ - [https://praydog.github.io](https://praydog.github.io)
+ - date_published: 2023-07-13T19:07:23+00:00
+
+ ## Redirecting to https://humantorch.github.io/
+ - [https://prayingmadness.github.io](https://prayingmadness.github.io)
+ - date_published: 2022-07-05T01:52:37+00:00
+
+ ## precondition
+ - [https://precondition.github.io](https://precondition.github.io)
+ - date_published: 2023-12-03T17:58:27.872171+00:00
+
  ## Pradyumna Reddy
  - [https://preddy5.github.io](https://preddy5.github.io)
  - date_published: 2024-06-27T09:49:55+00:00
@@ -3960,80 +4036,4 @@ Visualization
  ## Uber Open Source
  - [http://uber.github.io](http://uber.github.io)
  - date_published: 2023-11-01T14:18:00+00:00
-
- ## /var/log/uberspot
- - [http://uberspot.github.io](http://uberspot.github.io)
- - date_published: 2013-10-04T00:00:00+00:00
-
- ## CROSS Software Catalog
- - [https://uccross.github.io](https://uccross.github.io)
- - date_published: 2023-01-09T20:37:41+00:00
-
- ## UCL Information Security Research Group (UCL ISec)
- - [https://uclisec.github.io](https://uclisec.github.io)
- - date_published: 2024-06-20T10:44:43+00:00
-
- ## Aerodrome | Contextual Robotics Institute
- - [https://ucsd-aerodrome.github.io](https://ucsd-aerodrome.github.io)
- - date_published: 2024-01-18T03:33:06+00:00
-
- ## Compiler Construction - Compiler Construction – Spring 2023 Edition
- - [https://ucsd-compilers-s23.github.io](https://ucsd-compilers-s23.github.io)
- - date_published: 2023-06-04T02:55:09+00:00
-
- ## UCSD CSE100 – Advanced Data Structures
- - [https://ucsd-cse100-s20.github.io](https://ucsd-cse100-s20.github.io)
- - date_published: 2020-05-08T15:09:30+00:00
-
- ## UCSD CSE11 – Accelerated Introduction to Programming
- - [https://ucsd-cse11-f21.github.io](https://ucsd-cse11-f21.github.io)
- - date_published: 2021-12-07T04:41:46+00:00
-
- ## UCSD CSE11 – Accelerated Introduction to Programming
- - [https://ucsd-cse11-s20.github.io](https://ucsd-cse11-s20.github.io)
- - date_published: 2021-06-03T04:36:46+00:00
-
- ## CSE 12 Winter 2018, B & C Sections
- - [https://ucsd-cse12-w17.github.io](https://ucsd-cse12-w17.github.io)
- - date_published: 2019-01-08T05:14:02+00:00
-
- ## CSE 12 Winter 2019, A & B Sections
- - [https://ucsd-cse12-w19.github.io](https://ucsd-cse12-w19.github.io)
- - date_published: 2019-03-14T22:52:49+00:00
-
- ## Compiler Construction – CSE 131 F19
- - [https://ucsd-cse131-f19.github.io](https://ucsd-cse131-f19.github.io)
- - date_published: 2019-12-05T22:01:29+00:00
-
- ## Compiler Construction – CSE 131 S18
- - [https://ucsd-cse131-s18.github.io](https://ucsd-cse131-s18.github.io)
- - date_published: 2018-07-13T19:15:33+00:00
-
- ## Software Tools & Techniques Lab (UCSD CSE15L S23)
- - [https://ucsd-cse15l-s23.github.io](https://ucsd-cse15l-s23.github.io)
- - date_published: 2023-06-08T16:59:09+00:00
-
- ## Software Tools & Techniques Lab (UCSD CSE15L)
- - [https://ucsd-cse15l-w22.github.io](https://ucsd-cse15l-w22.github.io)
- - date_published: 2022-09-06T17:39:53+00:00
-
- ## Software Tools & Techniques Lab (UCSD CSE15L)
- - [https://ucsd-cse15l-w23.github.io](https://ucsd-cse15l-w23.github.io)
- - date_published: 2023-04-14T21:51:05+00:00
-
- ## Software Tools & Techniques Lab - UCSD CSE15L Winter 2024
- - [https://ucsd-cse15l-w24.github.io](https://ucsd-cse15l-w24.github.io)
- - date_published: 2024-04-05T19:47:29+00:00
-
- ## Advanced Compiler Design (UCSD CSE231)
- - [https://ucsd-cse231-s22.github.io](https://ucsd-cse231-s22.github.io)
- - date_published: 2022-04-01T00:00:00+00:00
-
- ## UCSD CSE231 – Advanced Compiler Design
- - [https://ucsd-cse231-w21.github.io](https://ucsd-cse231-w21.github.io)
- - date_published: 2021-03-02T04:32:23+00:00
-
- ## Introduction to Programming in Java I – CSE 8A F18
- - [https://ucsd-cse8a-f18.github.io](https://ucsd-cse8a-f18.github.io)
- - date_published: 2019-10-31T05:09:36+00:00
 

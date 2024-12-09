@@ -1,3 +1,71 @@
+ ## Career Services | University of Texas Permian Basin
+ - [https://careers.utpb.edu](https://careers.utpb.edu)
+ - date_published: 2024-07-14T04:05:48.171208+00:00
+
+ ## UTPB Complaint Management - UTPB IRD
+ - [https://complaints.utpb.edu](https://complaints.utpb.edu)
+ - date_published: 2024-07-14T04:05:25.836053+00:00
+
+ ## La Cuenca Pérmica de la Universidad de Texas | Inicio UTPB
+ - [https://es.utpb.edu](https://es.utpb.edu)
+ - date_published: 2024-07-14T04:05:27.492616+00:00
+
+ ## MyUTPB
+ - [https://my.utpb.edu](https://my.utpb.edu)
+ - date_published: 2024-07-14T04:06:07.405050+00:00
+
+ ## Home - JBS Public Leadership Institute
+ - [https://shepperdleadership.utpb.edu](https://shepperdleadership.utpb.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## The University of Texas Permian Basin | UTPB Home
+ - [https://utpb.edu](https://utpb.edu)
+ - date_published: 2024-05-11T09:19:48.754579+00:00
+
+ ## Home | UTRGV
+ - [http://www.utrgv.edu](http://www.utrgv.edu)
+ - date_published: 2024-06-18T15:41:21+00:00
+
+ ## UTSA Login - Loading Session Information
+ - [https://asap.utsa.edu](https://asap.utsa.edu)
+ - date_published: 2024-09-13T19:57:46.072848+00:00
+
+ ## Alvarez College of Business | Alvarez College of Business
+ - [https://business.utsa.edu](https://business.utsa.edu)
+ - date_published: 2024-10-14T19:32:24.866237+00:00
+
+ ## All - FAQs
+ - [https://libanswers.utsa.edu](https://libanswers.utsa.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## | UTSA Libraries
+ - [https://lib.utsa.edu](https://lib.utsa.edu)
+ - date_published: 2024-06-14T04:12:00.505478+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.libweb.lib.utsa.edu](https://login.libweb.lib.utsa.edu)
+ - date_published: 2024-06-30T01:19:22.689242+00:00
+
+ ## Welcome to The University of Texas at San Antonio | UTSA
+ - [https://utsa.edu](https://utsa.edu)
+ - date_published: 2024-07-14T09:53:53.626734+00:00
+
+ ## CS
+ - [http://www.cs.utsa.edu](http://www.cs.utsa.edu)
+ - date_published: 2023-10-09T16:02:46+00:00
+
+ ## Homepage - Union Theological Seminary
+ - [https://utsnyc.edu](https://utsnyc.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home - The University of Tennessee Southern
+ - [https://utsouthern.edu](https://utsouthern.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Faculty and Staff Directory - UT Southwestern
+ - [https://directory.utsouthwestern.edu](https://directory.utsouthwestern.edu)
+ - date_published: 2024-05-07T22:15:37.820857+00:00
+
  ## Development and Alumni Relations - UT Southwestern Medical Center
  - [https://donate.utsouthwestern.edu](https://donate.utsouthwestern.edu)
  - date_published: 2024-05-07T22:15:15.485989+00:00
@@ -3932,72 +4000,4 @@
  ## Giving
  - [https://giving.wayne.edu](https://giving.wayne.edu)
  - date_published: 2024-05-16T00:00:00+00:00
-
- ## Wayne State University
- - [https://go.wayne.edu](https://go.wayne.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Time is precious. We'll help you make the most of yours.
- - [https://housing.wayne.edu](https://housing.wayne.edu)
- - date_published: 2021-03-24T00:00:00+00:00
-
- ## Welcome
- - [https://hr.wayne.edu](https://hr.wayne.edu)
- - date_published: 2024-07-02T13:58:52.652714+00:00
-
- ## Welcome
- - [https://irda.wayne.edu](https://irda.wayne.edu)
- - date_published: 2017-10-03T00:00:00+00:00
-
- ## Career Opportunities
- - [https://jobs.wayne.edu](https://jobs.wayne.edu)
- - date_published: 2024-07-02T13:51:23.847863+00:00
-
- ## Wayne State University Libraries
- - [https://library.wayne.edu](https://library.wayne.edu)
- - date_published: 2024-07-02T13:51:21.550453+00:00
-
- ## Login - Academica
- - [https://login.wayne.edu](https://login.wayne.edu)
- - date_published: 2024-05-07T22:28:05.167624+00:00
-
- ## Campus Map - Wayne State University
- - [https://maps.wayne.edu](https://maps.wayne.edu)
- - date_published: 2024-07-02T13:50:53.761377+00:00
-
- ## People
- - [https://people.wayne.edu](https://people.wayne.edu)
- - date_published: 2024-07-03T22:08:21.562937+00:00
-
- ## Police and campus safety
- - [https://police.wayne.edu](https://police.wayne.edu)
- - date_published: 2024-07-02T13:51:12.274659+00:00
-
- ## Welcome from the president
- - [https://president.wayne.edu](https://president.wayne.edu)
- - date_published: 2024-07-02T13:58:37.023647+00:00
-
- ## Welcome
- - [https://provost.wayne.edu](https://provost.wayne.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Welcome
- - [https://research.wayne.edu](https://research.wayne.edu)
- - date_published: 2024-07-02T13:58:34.385446+00:00
-
- ## STARS: Student Tracking And Retention System - Login
- - [https://stars.wayne.edu](https://stars.wayne.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Wayne State Warrior Sites – We're all born to succeed.
- - [https://s.wayne.edu](https://s.wayne.edu)
- - date_published: 2024-04-28T01:57:31.647827+00:00
-
- ## Computing & Information Technology - Wayne State University
- - [https://tech.wayne.edu](https://tech.wayne.edu)
- - date_published: 2017-04-07T00:00:00+00:00
-
- ## Welcome
- - [https://theatreanddance.wayne.edu](https://theatreanddance.wayne.edu)
- - date_published: 2024-05-31T00:00:00+00:00
 

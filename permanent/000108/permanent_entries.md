@@ -1,3 +1,24 @@
+ ## The Galactic Senate - Index page
+ - [https://www.galacticsenate.com](https://www.galacticsenate.com)
+ - date_published: 2024-02-15T22:31:54.736521+00:00
+ - tags: ['star wars']
+
+ ## Overview - Galadriel Docs
+ - [https://docs.galadriel.com](https://docs.galadriel.com)
+ - date_published: 2024-09-21T23:29:44.247496+00:00
+
+ ## Galadriel Devnet blockchain explorer | Blockscout
+ - [https://explorer.galadriel.com](https://explorer.galadriel.com)
+ - date_published: 2024-09-24T09:33:51.723200+00:00
+
+ ## Galadriel
+ - [https://galadriel.com](https://galadriel.com)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Galadriel teeML
+ - [https://teeml.galadriel.com](https://teeml.galadriel.com)
+ - date_published: 2024-09-21T23:30:02.206999+00:00
+
  ## ギャラガウェブ　Galaga Web | バンダイナムコエンターテインメント公式サイト
  - [https://galaga.com](https://galaga.com)
  - date_published: 2024-11-19T12:08:41+00:00
@@ -4034,25 +4055,4 @@
  - [http://ge.com](http://ge.com)
  - date_published: 2024-07-09T19:38:56.637868+00:00
  - tags: ['corporation', 'aviation']
-
- ## GE Aerospace Engineering & Manufacturing | GE Aerospace
- - [https://geaerospace.com](https://geaerospace.com)
- - date_published: 2024-05-29T00:00:00+00:00
- - tags: ['aviation', 'aviation']
-
- ## GEALive
- - [https://www.gealive.com](https://www.gealive.com)
- - date_published: 2024-10-30T23:46:30.203288+00:00
-
- ## GE Appliances: Shop for Home, Kitchen, & Laundry Appliances
- - [https://www.geappliances.com](https://www.geappliances.com)
- - date_published: 2024-10-02T00:00:00+00:00
-
- ## Gearank
- - [https://www.gearank.com](https://www.gearank.com)
- - date_published: 2024-06-17T01:22:35+00:00
-
- ## Gearbox Gives
- - [http://www.gearboxgives.com](http://www.gearboxgives.com)
- - date_published: 2024-07-10T11:38:15.121199+00:00
 

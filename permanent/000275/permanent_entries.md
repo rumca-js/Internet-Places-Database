@@ -1,3 +1,71 @@
+ ## Wayne State University
+ - [https://go.wayne.edu](https://go.wayne.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Time is precious. We'll help you make the most of yours.
+ - [https://housing.wayne.edu](https://housing.wayne.edu)
+ - date_published: 2021-03-24T00:00:00+00:00
+
+ ## Welcome
+ - [https://hr.wayne.edu](https://hr.wayne.edu)
+ - date_published: 2024-07-02T13:58:52.652714+00:00
+
+ ## Welcome
+ - [https://irda.wayne.edu](https://irda.wayne.edu)
+ - date_published: 2017-10-03T00:00:00+00:00
+
+ ## Career Opportunities
+ - [https://jobs.wayne.edu](https://jobs.wayne.edu)
+ - date_published: 2024-07-02T13:51:23.847863+00:00
+
+ ## Wayne State University Libraries
+ - [https://library.wayne.edu](https://library.wayne.edu)
+ - date_published: 2024-07-02T13:51:21.550453+00:00
+
+ ## Login - Academica
+ - [https://login.wayne.edu](https://login.wayne.edu)
+ - date_published: 2024-05-07T22:28:05.167624+00:00
+
+ ## Campus Map - Wayne State University
+ - [https://maps.wayne.edu](https://maps.wayne.edu)
+ - date_published: 2024-07-02T13:50:53.761377+00:00
+
+ ## People
+ - [https://people.wayne.edu](https://people.wayne.edu)
+ - date_published: 2024-07-03T22:08:21.562937+00:00
+
+ ## Police and campus safety
+ - [https://police.wayne.edu](https://police.wayne.edu)
+ - date_published: 2024-07-02T13:51:12.274659+00:00
+
+ ## Welcome from the president
+ - [https://president.wayne.edu](https://president.wayne.edu)
+ - date_published: 2024-07-02T13:58:37.023647+00:00
+
+ ## Welcome
+ - [https://provost.wayne.edu](https://provost.wayne.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Welcome
+ - [https://research.wayne.edu](https://research.wayne.edu)
+ - date_published: 2024-07-02T13:58:34.385446+00:00
+
+ ## STARS: Student Tracking And Retention System - Login
+ - [https://stars.wayne.edu](https://stars.wayne.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Wayne State Warrior Sites – We're all born to succeed.
+ - [https://s.wayne.edu](https://s.wayne.edu)
+ - date_published: 2024-04-28T01:57:31.647827+00:00
+
+ ## Computing & Information Technology - Wayne State University
+ - [https://tech.wayne.edu](https://tech.wayne.edu)
+ - date_published: 2017-04-07T00:00:00+00:00
+
+ ## Welcome
+ - [https://theatreanddance.wayne.edu](https://theatreanddance.wayne.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Today@Wayne
  - [https://today.wayne.edu](https://today.wayne.edu)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -3983,76 +4051,4 @@
  | Yale Library
  - [https://web.library.yale.edu](https://web.library.yale.edu)
  - date_published: 2024-06-06T00:00:00+00:00
-
- ## Welcome
- | Yale West Campus
- - [https://westcampus.yale.edu](https://westcampus.yale.edu)
- - date_published: 2024-07-02T14:57:21+00:00
-
- ## Wright Laboratory
- - [https://wlab.yale.edu](https://wlab.yale.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Maurice R. Greenberg World Fellows Program – At Yale University
- - [https://worldfellows.yale.edu](https://worldfellows.yale.edu)
- - date_published: 2024-06-23T12:22:27+00:00
-
- ## Welcome
- | International Toolkit
- - [https://world-toolkit.yale.edu](https://world-toolkit.yale.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Yale and the World |
- - [https://world.yale.edu](https://world.yale.edu)
- - date_published: 2024-05-07T22:43:59.761008+00:00
-
- ## redirecting...
- - [https://www.eng.yale.edu](https://www.eng.yale.edu)
- - date_published: 2016-05-25T16:11:51+00:00
-
- ## Yale Sustainable Food Program
- - [https://www.sustainablefood.yale.edu](https://www.sustainablefood.yale.edu)
- - date_published: 2024-07-02T15:45:57.848991+00:00
-
- ## Home - Yale University Press
- - [https://yalebooks.yale.edu](https://yalebooks.yale.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Yale College
- - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Yale University
- - [https://yaleconnect.yale.edu](https://yaleconnect.yale.edu)
- - date_published: 2024-07-02T16:03:21.284611+00:00
-
- ## Yale University
- - [https://yale.edu](https://yale.edu)
- - date_published: 2024-05-07T22:43:02.347115+00:00
-
- ## Yale Health Center
- - [https://yalehealth.yale.edu](https://yalehealth.yale.edu)
- - date_published: 2024-05-07T22:41:51.266407+00:00
-
- ## Welcome | Yale Identity
- - [https://yaleidentity.yale.edu](https://yaleidentity.yale.edu)
- - date_published: 2024-06-26T11:58:08+00:00
-
- ## Welcome
- | Department of Music
- - [https://yalemusic.yale.edu](https://yalemusic.yale.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Yale University Press
- - [http://yalepress.yale.edu](http://yalepress.yale.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Homepage
- - [https://yalereview.yale.edu](https://yalereview.yale.edu)
- - date_published: 2024-05-15T03:01:06.317518+00:00
-
- ## Welcome
- | Yale Well
- - [https://yalewell.yale.edu](https://yalewell.yale.edu)
- - date_published: 2024-07-02T13:15:39+00:00
 

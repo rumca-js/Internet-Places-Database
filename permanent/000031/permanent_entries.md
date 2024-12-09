@@ -1,3 +1,11 @@
+ ## codename /// web software foundry
+ - [https://codename.co](https://codename.co)
+ - date_published: 2024-07-23T23:26:55.923316+00:00
+
+ ## Caards
+ - [https://caards.codesupply.co](https://caards.codesupply.co)
+ - date_published: 2024-05-25T02:31:16.173463+00:00
+
  ## #1 Resource to Help You Start a Blog - Code Supply Co.
  - [https://codesupply.co](https://codesupply.co)
  - date_published: 2024-05-21T00:00:00+00:00
@@ -4023,12 +4031,4 @@
  ## JazzHR
  - [https://app.jazz.co](https://app.jazz.co)
  - date_published: 2024-09-09T21:26:32.741094+00:00
-
- ## Jen Wagner Co.
- - [https://jenwagner.co](https://jenwagner.co)
- - date_published: 2024-06-19T03:12:23.377992+00:00
-
- ## Inicio - Jesuitas Colombia
- - [https://jesuitas.co](https://jesuitas.co)
- - date_published: 2024-05-14T00:00:00+00:00
 

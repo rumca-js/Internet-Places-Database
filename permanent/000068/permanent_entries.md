@@ -1,3 +1,15 @@
+ ## Log in
+ - [https://lookerpartner.braze.com](https://lookerpartner.braze.com)
+ - date_published: 2024-10-12T22:52:29.826904+00:00
+
+ ## Braze Customer Engagement Platform
+ - [http://www.braze.com](http://www.braze.com)
+ - date_published: 2024-06-16T19:22:54.912992+00:00
+
+ ## Brazen
+ - [https://app.brazenconnect.com](https://app.brazenconnect.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
  ## Brazil Journal – Quem faz o PIB lê
  - [https://braziljournal.com](https://braziljournal.com)
  - date_published: 2022-03-30T17:28:22+00:00
@@ -4038,16 +4050,4 @@
  ## Maior banco de investimentos da América Latina | BTG Pactual
  - [https://www.btgpactualdigital.com](https://www.btgpactualdigital.com)
  - date_published: 2024-10-10T23:16:42+00:00
-
- ## BTG e-Mağazası - Embarcardero Türkiye Distribütörü
- - [https://www.btgsoft.com](https://www.btgsoft.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Brian Donohue - Makin’ that Instapaper
- - [https://bthdonohue.com](https://bthdonohue.com)
- - date_published: 2024-04-24T14:02:45+00:00
-
- ## BTIKI - A social token for Future Fighters
- - [https://btiki.com](https://btiki.com)
- - date_published: 2024-05-07T10:46:11.027504+00:00
 

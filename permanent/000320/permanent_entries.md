@@ -1,3 +1,79 @@
+ ## FreshPlaza: Notiziario Internazionale Ortofrutta e Banane
+ - [https://freshplaza.it](https://freshplaza.it)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home | Fridays For Future Italia
+ - [https://fridaysforfutureitalia.it](https://fridaysforfutureitalia.it)
+ - date_published: 2020-05-22T01:10:33+00:00
+
+ ## discovery+
+ - [https://frisbeetv.it](https://frisbeetv.it)
+ - date_published: 2024-05-07T12:49:16.086337+00:00
+
+ ## FrosinoneToday
+ - [https://frosinonetoday.it](https://frosinonetoday.it)
+ - date_published: 2024-05-11T09:54:55.146385+00:00
+
+ ## F.T. Marinetti – Aerosito ufficiale del genio del Futurismo
+ - [https://ftmarinetti.it](https://ftmarinetti.it)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## @fullbl Headquarters - Back-End Developer
+ - [https://fullbl.it](https://fullbl.it)
+ - date_published: 2024-02-02T16:38:12+00:00
+
+ ## Funkwhale
+ - [https://funkwhale.it](https://funkwhale.it)
+ - date_published: 2023-12-12T12:29:50+00:00
+
+ ## Fuoriluogo
+ - [http://www.fuoriluogo.it](http://www.fuoriluogo.it)
+ - date_published: 2024-10-21T13:08:51.431243+00:00
+
+ ## homepage
+ - [https://futuranet.it](https://futuranet.it)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Shop
+ - [https://www.futurashop.it](https://www.futurashop.it)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Startseite | Nahe Zukunft
+ - [https://de.futuroprossimo.it](https://de.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home | Near future
+ - [https://en.futuroprossimo.it](https://en.futuroprossimo.it)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Inicio | Futuro cercano
+ - [https://es.futuroprossimo.it](https://es.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Accueil | Futur proche
+ - [https://fr.futuroprossimo.it](https://fr.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home | Futuro Prossimo
+ - [https://futuroprossimo.it](https://futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## निकट भविष्य | कल की दुनिया से समाचार
+ - [https://hi.futuroprossimo.it](https://hi.futuroprossimo.it)
+ - date_published: 2024-07-13T20:00:15+00:00
+
+ ## ホーム | 近い将来
+ - [https://ja.futuroprossimo.it](https://ja.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Início | Futuro próximo
+ - [https://pt.futuroprossimo.it](https://pt.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Главная | Ближайшее будущее
+ - [https://ru.futuroprossimo.it](https://ru.futuroprossimo.it)
+ - date_published: 2024-04-22T00:00:00+00:00
+
  ## Notizie di Mercato & Previsioni, Grafici e Recensioni dei Broker | FX Empire
  - [https://www.fxempire.it](https://www.fxempire.it)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -3937,80 +4013,4 @@
  ## Crea facilmente il tuo negozio online - E-commerce
  - [https://prestashop.it](https://prestashop.it)
  - date_published: 2024-02-06T00:00:00+00:00
-
- ## Il Preventivatore Pubblico
- - [https://www.preventivass.it](https://www.preventivass.it)
- - date_published: 2024-09-25T09:26:43+00:00
-
- ## Previnet - Funds
- - [https://fondipensione1-f.previnet.it](https://fondipensione1-f.previnet.it)
- - date_published: 2018-04-17T10:32:18+00:00
-
- ## Banca Mediolanum
- - [https://www.prexta.it](https://www.prexta.it)
- - date_published: 2024-06-16T17:36:45.530646+00:00
-
- ## Home - PrivacyControl
- - [https://privacycontrol.it](https://privacycontrol.it)
- - date_published: 2024-07-17T07:48:45.821482+00:00
-
- ## Privacylab
- - [https://www.privacylab.it](https://www.privacylab.it)
- - date_published: 2024-10-31T10:00:10.294188+00:00
-
- ## Privacy Network | Privacy, diritti digitali, innovazione
- - [https://privacy-network.it](https://privacy-network.it)
- - date_published: 2024-05-06T23:57:43.437444+00:00
-
- ## 2024 Probability Rome Conference
- - [https://probabilityrome2024.it](https://probabilityrome2024.it)
- - date_published: 2024-06-30T05:32:30.477885+00:00
-
- ## ProductDo
- - [https://app.productdo.it](https://app.productdo.it)
- - date_published: 2023-03-11T00:00:00+00:00
-
- ## Home
- - [https://profooditalia.it](https://profooditalia.it)
- - date_published: 2024-10-31T10:00:26.935386+00:00
-
- ## programs.it
- - [http://programs.it](http://programs.it)
- - date_published: 2024-06-20T23:42:43.432314+00:00
-
- ## Prologo - Selle e accessori per il ciclismo | Prologo
- - [https://prologo.it](https://prologo.it)
- - date_published: 2024-06-15T11:56:47.260121+00:00
-
- ## Assistenza antincendio Pavia Voghera Piacenza
- - [https://www.protectionantincendio.it](https://www.protectionantincendio.it)
- - date_published: 2024-06-29T17:04:14+00:00
-
- ## Provisiva Digital Agency | Comunicazione digitale e servizi web
- - [https://www.provisiva.it](https://www.provisiva.it)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Blog di Psicologia e Curiosità - PsicoSocial.it
- - [https://www.psicosocial.it](https://www.psicosocial.it)
- - date_published: 2024-10-29T19:48:14.588090+00:00
-
- ## Publiacqua
- - [https://www.publiacqua.it](https://www.publiacqua.it)
- - date_published: 2024-07-16T18:32:14.629957+00:00
-
- ## Publifarm | Agenzia di comunicazione
- - [https://publifarm.it](https://publifarm.it)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## PuntoLis – Servizi digitali, persone reali
- - [https://www.puntolis.it](https://www.puntolis.it)
- - date_published: 2024-09-30T10:15:38+00:00
-
- ## Web site, web design, information technology - Purelab
- - [https://www.purelab.it](https://www.purelab.it)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## PURHO -
- - [http://purho.it](http://purho.it)
- - date_published: 2024-07-13T14:57:42.839683+00:00
 

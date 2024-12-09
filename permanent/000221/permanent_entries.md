@@ -1,3 +1,61 @@
+ ## Branding Agency + Graphic & Web Design Studio, Manila Philippines
+ - [http://vgrafiks.com](http://vgrafiks.com)
+ - date_published: 2023-02-11T00:00:00+00:00
+
+ ## VGMix
+ - [https://vgremix.com](https://vgremix.com)
+ - date_published: 2024-06-14T15:50:25.495530+00:00
+
+ ## The VG Resource
+ - [https://vg-resource.com](https://vg-resource.com)
+ - date_published: 2024-04-08T18:01:44+00:00
+ - tags: ['image assets']
+
+ ## The VG Resource Wiki
+ - [https://wiki.vg-resource.com](https://wiki.vg-resource.com)
+ - date_published: 2023-08-10T18:09:11+00:00
+
+ ## V Group | Signage & Print Experts
+ - [https://vgroupsigns.com](https://vgroupsigns.com)
+ - date_published: 2024-07-09T23:05:58.780760+00:00
+
+ ## IIS Windows Server
+ - [http://gis.vgsi.com](http://gis.vgsi.com)
+ - date_published: 2022-01-26T21:33:14+00:00
+
+ ## Facebook
+ - [https://www.vh1.com](https://www.vh1.com)
+ - date_published: 2024-06-17T10:18:06.815976+00:00
+
+ ## Vanderbilt Health Affiliated Network – This is rewarding care. This is VHAN.
+ - [http://vhan.com](http://vhan.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Audio cables, parts, and tweaks for audiophiles - VH Audio
+ - [http://www.vhaudio.com](http://www.vhaudio.com)
+ - date_published: 2024-08-19T12:48:15.293220+00:00
+
+ ## Home • V.H. Belvadi
+ - [https://vhbelvadi.com](https://vhbelvadi.com)
+ - date_published: 2024-05-07T23:26:51.892217+00:00
+
+ ## VHDLwhiz
+ - [https://academy.vhdlwhiz.com](https://academy.vhdlwhiz.com)
+ - date_published: 2024-08-11T07:12:12.526313+00:00
+
+ ## VHDLwhiz - The best resource for VHDL engineers
+ - [https://cdn.vhdlwhiz.com](https://cdn.vhdlwhiz.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## VHDLwhiz - The best resource for VHDL engineers
+ - [https://vhdlwhiz.com](https://vhdlwhiz.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+ - tags: ['vhdl']
+
+ ## VHS Dreams | Dance Music Artist | United Kingdom
+ - [https://www.vhsdreamsofficial.com](https://www.vhsdreamsofficial.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## Conversation Bridge
  - [https://19ffd0ccf375ef3e.cbridgert.vhtcloud.com](https://19ffd0ccf375ef3e.cbridgert.vhtcloud.com)
  - date_published: 2024-10-18T17:08:05.202064+00:00
@@ -3970,61 +4028,4 @@
  ## The most complete social media management platform for brands and agencies | Vista Social
  - [https://vistasocial.com](https://vistasocial.com)
  - date_published: 2024-06-15T18:16:08+00:00
-
- ## Vista Forums
- - [https://www.vistax64.com](https://www.vistax64.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Now It All Adds Up | Vistex®
- - [https://www.vistex.com](https://www.vistex.com)
- - date_published: 2024-07-08T10:32:50.009233+00:00
-
- ## Home - The Vistria Group
- - [http://www.vistria.com](http://www.vistria.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## 邢台械人科技有限公司
- - [http://www.visualastronomy.com](http://www.visualastronomy.com)
- - date_published: 2024-08-18T20:28:12.553985+00:00
-
- ## Home
- - [https://advisor.visualcapitalist.com](https://advisor.visualcapitalist.com)
- - date_published: 2013-10-21T14:49:21+00:00
-
- ## Decarbonization Channel by Visual Capitalist and NPUC
- - [https://decarbonization.visualcapitalist.com](https://decarbonization.visualcapitalist.com)
- - date_published: 2021-03-29T14:49:21+00:00
-
- ## Home
- - [https://elements.visualcapitalist.com](https://elements.visualcapitalist.com)
- - date_published: 2021-03-29T14:49:21+00:00
-
- ## Visual Capitalist Licensing – License infographics from Visual Capitalist
- - [https://licensing.visualcapitalist.com](https://licensing.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:16.604094+00:00
-
- ## Home - The Money Project
- - [https://money.visualcapitalist.com](https://money.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:06.565402+00:00
-
- ## The Visual Capitalist Store – Shop the latest merch from Visual Capitalist.
- - [https://store.visualcapitalist.com](https://store.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:14.872253+00:00
-
- ## Visual Capitalist
- - [https://visualcapitalist.com](https://visualcapitalist.com)
- - date_published: 2013-10-21T14:49:21+00:00
- - tags: ['statistics', 'visualisation']
-
- ## Wealth 101
- - [https://wealth.visualcapitalist.com](https://wealth.visualcapitalist.com)
- - date_published: 2024-05-07T10:50:12.576359+00:00
-
- ## VCR: Visual Commonsense Reasoning
- - [https://visualcommonsense.com](https://visualcommonsense.com)
- - date_published: 2019-11-26T00:23:37+00:00
-
- ## Visual C++ .Net programming tutorial: learn step by step C++ .NET programming through program examples and source code samples
- - [https://www.visualcplusdotnet.com](https://www.visualcplusdotnet.com)
- - date_published: 2019-01-31T15:30:08+00:00
 

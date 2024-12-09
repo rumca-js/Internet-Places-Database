@@ -1,3 +1,31 @@
+ ## Vineyard GoTürkiye Experiences
+ - [https://vineyards.goturkiye.com](https://vineyards.goturkiye.com)
+ - date_published: 2024-10-19T12:48:05.179216+00:00
+
+ ## Walking GoTürkiye Experiences
+ - [https://walking.goturkiye.com](https://walking.goturkiye.com)
+ - date_published: 2024-10-19T12:50:11.995593+00:00
+
+ ## Waterfalls GoTürkiye Experiences
+ - [https://waterfalls.goturkiye.com](https://waterfalls.goturkiye.com)
+ - date_published: 2024-10-19T12:48:50.638470+00:00
+
+ ## Weddings & Honeymoons - GoTürkiye Experiences
+ - [https://weddings.goturkiye.com](https://weddings.goturkiye.com)
+ - date_published: 2024-10-19T12:49:48.355288+00:00
+
+ ## Wellness GoTürkiye Experiences
+ - [https://wellness.goturkiye.com](https://wellness.goturkiye.com)
+ - date_published: 2024-10-19T12:49:14.219471+00:00
+
+ ## Yalova GoTürkiye Destinations
+ - [https://yalova.goturkiye.com](https://yalova.goturkiye.com)
+ - date_published: 2024-10-19T12:50:26.627770+00:00
+
+ ## Yozgat GoTürkiye Destinations
+ - [https://yozgat.goturkiye.com](https://yozgat.goturkiye.com)
+ - date_published: 2024-10-19T12:48:29.713149+00:00
+
  ## Zonguldak - GoTürkiye Destinations
  - [https://zonguldak.goturkiye.com](https://zonguldak.goturkiye.com)
  - date_published: 2024-10-19T12:48:09.524369+00:00
@@ -4006,32 +4034,4 @@
  ## Home - GRIFFIG kletterhalle uster
  - [http://griffig.com](http://griffig.com)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## Griffin Docs | Griffin Docs
- - [https://docs.griffin.com](https://docs.griffin.com)
- - date_published: 2024-10-22T21:36:30.376838+00:00
-
- ## Griffin - The bank you can build on
- - [https://griffin.com](https://griffin.com)
- - date_published: 2024-10-22T21:36:31.686780+00:00
-
- ## Griffin Status
- - [https://status.griffin.com](https://status.griffin.com)
- - date_published: 2024-10-22T21:36:29.375968+00:00
-
- ## Griffin Help Centre
- - [https://support.griffin.com](https://support.griffin.com)
- - date_published: 2024-10-22T21:36:33.723624+00:00
-
- ## Griffin - Release notes
- - [https://updates.griffin.com](https://updates.griffin.com)
- - date_published: 2024-10-22T21:36:27.182416+00:00
-
- ## Enter the Gungeon: House of the Gundead | Griffin Aerotech
- - [https://www.griffinaerotech.com](https://www.griffinaerotech.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Home - Griffin Gaming Partners
- - [https://griffingp.com](https://griffingp.com)
- - date_published: 2024-01-29T18:24:28+00:00
 

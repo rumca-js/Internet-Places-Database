@@ -1,3 +1,51 @@
+ ## Cambridge AI Safety Hub
+ - [https://owl-parsnip-7sny.squarespace.com](https://owl-parsnip-7sny.squarespace.com)
+ - date_published: 2024-07-07T07:23:41.601674+00:00
+
+ ## OWL Ventures - Web3 Investments
+ - [https://owlventures.squarespace.com](https://owlventures.squarespace.com)
+ - date_published: 2024-09-04T14:19:45.893435+00:00
+
+ ## Oyster City Brewing Co.
+ - [https://oystercity.squarespace.com](https://oystercity.squarespace.com)
+ - date_published: 2024-10-30T03:57:46.371813+00:00
+
+ ## Ozone – Powering the premium web
+ - [https://ozoneprojectdemo.squarespace.com](https://ozoneprojectdemo.squarespace.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Valentina Casali – Lettering & Design
+ - [https://paddlefish-lavender-gykw.squarespace.com](https://paddlefish-lavender-gykw.squarespace.com)
+ - date_published: 2024-07-17T12:42:41.947265+00:00
+
+ ## The Hottest August
+ - [https://paddlefish-radish-alxp.squarespace.com](https://paddlefish-radish-alxp.squarespace.com)
+ - date_published: 2024-09-19T01:37:43.099085+00:00
+
+ ## Paleofuture
+ - [https://paleo-future.squarespace.com](https://paleo-future.squarespace.com)
+ - date_published: 2024-05-06T22:27:03.984943+00:00
+
+ ## Palestinian Youth Movement
+ - [https://palestinian-youthmovement.squarespace.com](https://palestinian-youthmovement.squarespace.com)
+ - date_published: 2024-07-08T16:27:08.504943+00:00
+
+ ## 996Roadtrip
+ - [https://panda-apricots-b4xg.squarespace.com](https://panda-apricots-b4xg.squarespace.com)
+ - date_published: 2024-07-14T03:50:08.469809+00:00
+
+ ## The Indieverse Awards
+ - [https://panda-turkey-zwxk.squarespace.com](https://panda-turkey-zwxk.squarespace.com)
+ - date_published: 2024-07-03T22:35:56.812951+00:00
+
+ ## Kineviz
+ - [https://parakeet-earthworm-9wr3.squarespace.com](https://parakeet-earthworm-9wr3.squarespace.com)
+ - date_published: 2024-10-14T11:40:28.604850+00:00
+
+ ## Sebastián Castrodad Reverón
+ - [https://parakeet-lily-c9ez.squarespace.com](https://parakeet-lily-c9ez.squarespace.com)
+ - date_published: 2024-10-15T07:56:16.716438+00:00
+
  ## Dan Taberski
  - [https://parakeet-mackerel-e7y9.squarespace.com](https://parakeet-mackerel-e7y9.squarespace.com)
  - date_published: 2024-07-12T21:52:43.985469+00:00
@@ -3966,52 +4014,4 @@
  ## Parenting Meta Stack Exchange
  - [https://parenting.meta.stackexchange.com](https://parenting.meta.stackexchange.com)
  - date_published: 2024-02-16T00:00:00+00:00
-
- ## Parenting Stack Exchange
- - [https://parenting.stackexchange.com](https://parenting.stackexchange.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Ask Patents Meta
- - [https://patents.meta.stackexchange.com](https://patents.meta.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Ask Patents
- - [https://patents.stackexchange.com](https://patents.stackexchange.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Pets Meta Stack Exchange
- - [https://pets.meta.stackexchange.com](https://pets.meta.stackexchange.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Pets Stack Exchange
- - [https://pets.stackexchange.com](https://pets.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Philosophy Meta Stack Exchange
- - [https://philosophy.meta.stackexchange.com](https://philosophy.meta.stackexchange.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Philosophy Stack Exchange
- - [https://philosophy.stackexchange.com](https://philosophy.stackexchange.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Photography Meta Stack Exchange
- - [https://photo.meta.stackexchange.com](https://photo.meta.stackexchange.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Photography Stack Exchange
- - [http://photo.stackexchange.com](http://photo.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Physics Meta Stack Exchange
- - [https://physics.meta.stackexchange.com](https://physics.meta.stackexchange.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Physics Stack Exchange
- - [https://physics.stackexchange.com](https://physics.stackexchange.com)
- - date_published: 2023-10-25T17:13:56.651090+00:00
-
- ## Project Management Meta Stack Exchange
- - [https://pm.meta.stackexchange.com](https://pm.meta.stackexchange.com)
- - date_published: 2024-06-18T00:00:00+00:00
 

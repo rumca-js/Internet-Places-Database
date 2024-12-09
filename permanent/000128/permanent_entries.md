@@ -1,3 +1,35 @@
+ ## Book Online at Tonume Integrated Health
+ - [https://tonume.janeapp.com](https://tonume.janeapp.com)
+ - date_published: 2024-10-17T00:00:00+00:00
+
+ ## Jane App - Practice Management Software for Health &amp; Wellness Practitioners
+ - [http://www.janeapp.com](http://www.janeapp.com)
+ - date_published: 2024-09-19T20:14:14.525361+00:00
+
+ ## Janea Systems
+ - [https://code.janeasystems.com](https://code.janeasystems.com)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Jane Audas - Writer, digital producer & curator
+ - [https://janeaudas.com](https://janeaudas.com)
+ - date_published: 2024-09-14T22:43:53.050235+00:00
+
+ ## Jane Austen's London
+ - [http://janeaustenslondon.com](http://janeaustenslondon.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Coming Soon
+ - [http://www.janecritchlow.com](http://www.janecritchlow.com)
+ - date_published: 2024-06-28T14:20:57.350092+00:00
+
+ ## jane friedhoff
+ - [http://janefriedhoff.com](http://janefriedhoff.com)
+ - date_published: 2024-04-17T15:09:04+00:00
+
+ ## Jane Friedman | Reporting on the Publishing Industry
+ - [https://janefriedman.com](https://janefriedman.com)
+ - date_published: 2023-10-25T15:26:46.348517+00:00
+
  ## Janela digital - A tecnologia ao serviço do imobiliário
  - [https://janeladigital.com](https://janeladigital.com)
  - date_published: 2024-09-05T14:01:49.375402+00:00
@@ -4073,38 +4105,4 @@
  ## Jewish Content Network
  - [https://servedby.jewishcontentnetwork.com](https://servedby.jewishcontentnetwork.com)
  - date_published: 2024-05-07T10:48:40.904062+00:00
-
- ## Jewish Experience Radio show
- - [http://www.jewishexperienceradio.com](http://www.jewishexperienceradio.com)
- - date_published: 2021-05-31T21:44:32+00:00
-
- ## Jewish-American History on the Web
- - [https://jewish-history.com](https://jewish-history.com)
- - date_published: 2023-01-01T01:13:33+00:00
-
- ## Jewish Ideas Daily
- - [http://jewishideasdaily.com](http://jewishideasdaily.com)
- - date_published: 2024-08-18T15:31:21+00:00
-
- ## Jewish Insider
- - [https://jewishinsider.com](https://jewishinsider.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Jewish Journal
- - [http://jewishjournal.com](http://jewishjournal.com)
- - date_published: 2024-03-21T00:00:00+00:00
- - tags: ['israel news']
-
- ## THE DAILY ROUNDTABLE - Powered by the Jewish Journal
- - [https://roundtable.jewishjournal.com](https://roundtable.jewishjournal.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Jewish Lights
- - [http://www.jewishlights.com](http://www.jewishlights.com)
- - date_published: 2024-10-21T17:56:47.014135+00:00
-
- ## The Jewish Press - JewishPress.com
- - [https://jewishpress.com](https://jewishpress.com)
- - date_published: 2023-12-07T15:14:09.328558+00:00
- - tags: ['israel', 'israel news']
 

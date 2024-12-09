@@ -1,3 +1,82 @@
+ ## OVAL :: BASE OAI-PMH Validator
+ - [https://oval.base-search.net](https://oval.base-search.net)
+ - date_published: 2024-09-11T16:51:45.503015+00:00
+
+ ## Bash Prompt
+ - [https://bash-prompt.net](https://bash-prompt.net)
+ - date_published: 2023-10-25T20:26:26.536044+00:00
+ - tags: ['bash', 'personal']
+
+ ## Privacy Policy | Basis
+ - [https://privacy.basis.net](https://privacy.basis.net)
+ - date_published: 2024-05-06T17:44:32.027282+00:00
+
+ ## Orion Compliance
+ - [https://compliance.basiscode.net](https://compliance.basiscode.net)
+ - date_published: 2024-06-16T06:56:07.863654+00:00
+
+ ## Basis: An economic protocol for scalable, ecological production
+ - [https://basisproject.net](https://basisproject.net)
+ - date_published: 2024-03-28T07:55:35+00:00
+
+ ## BA Society
+ - [http://basociety.net](http://basociety.net)
+ - date_published: 2024-06-17T17:37:00.322775+00:00
+
+ ## BASTA! | Die Konferenz für .NET, Windows & Web Development
+ - [https://basta.net](https://basta.net)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Synapse Gateway Simple Pay
+ - [https://simplepay.basyspro.net](https://simplepay.basyspro.net)
+ - date_published: 2024-07-09T13:32:18.723129+00:00
+
+ ## Baton Rouge News.Net | Current News from Baton Rouge, La
+ - [http://www.batonrougenews.net](http://www.batonrougenews.net)
+ - date_published: 2024-07-13T23:02:58.297057+00:00
+
+ ## Forgejo: Beyond coding. We forge.
+ - [https://git.batsense.net](https://git.batsense.net)
+ - date_published: 2024-10-20T22:39:43.280355+00:00
+
+ ## (think)
+ - [https://batsov.net](https://batsov.net)
+ - date_published: 2024-04-25T04:50:06+00:00
+
+ ## Battle.net
+ - [https://battle.net](https://battle.net)
+ - date_published: 2024-05-17T02:44:32.655613+00:00
+ - tags: ['gateway', 'gatekeeper', 'video game developer', 'starcraft', 'overwatch', 'warcraft', 'diablo']
+
+ ## Battle.net - Welcome to the Battle.net Web Site!
+ - [https://classic.battle.net](https://classic.battle.net)
+ - date_published: 2023-10-29T10:35:41.296892+00:00
+
+ ## Blizzard Battle.net Developer Portal
+ - [https://develop.battle.net](https://develop.battle.net)
+ - date_published: 2024-09-16T02:58:35.587676+00:00
+
+ ## Download Battle.net | Battle.net
+ - [https://download.battle.net](https://download.battle.net)
+ - date_published: 2024-05-12T04:12:22.516021+00:00
+
+ ## Battle.net
+ - [https://eu.battle.net](https://eu.battle.net)
+ - date_published: 2023-12-13T16:05:58.268096+00:00
+
+ ## Battle.net
+ - [https://eu.shop.battle.net](https://eu.shop.battle.net)
+ - date_published: 2024-06-15T23:43:41.132335+00:00
+
+ ## Battle.net
+ - [https://kr.battle.net](https://kr.battle.net)
+ - date_published: 2023-12-13T16:21:41.043824+00:00
+
+ ## Battle.net
+ - [https://shop.battle.net](https://shop.battle.net)
+ - date_published: 2024-05-01T05:00:21.220801+00:00
+ - tags: ['gateway', 'diablo', 'gatekeeper', 'starcraft', 'game store', 'overwatch', 'warcraft']
+
  ## Battle.net
  - [https://us.battle.net](https://us.battle.net)
  - date_published: 2023-12-13T16:20:30.595491+00:00
@@ -3969,84 +4048,4 @@ Buildings in Saint Louis, Missouri
  ## CapAnalysis | PCAP from another point of view
  - [https://www.capanalysis.net](https://www.capanalysis.net)
  - date_published: 2023-03-11T14:23:09+00:00
-
- ## capenews.net | powered by The Enterprise
- - [https://www.capenews.net](https://www.capenews.net)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## The Systems View of Life
- - [https://www.capracourse.net](https://www.capracourse.net)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Meilleur Casino en Ligne Fiables : Comparatif 15/06/2024
- - [https://captaincaz.net](https://captaincaz.net)
- - date_published: 2024-06-15T01:43:43.699239+00:00
-
- ## Cara Bradley | Body-Mind Teacher | Author
- - [https://carabradley.net](https://carabradley.net)
- - date_published: 2023-11-29T15:15:28.569781+00:00
- - tags: ['personal']
-
- ## Reach Designers and Developers with Carbon
- - [https://www.carbonads.net](https://www.carbonads.net)
- - date_published: 2024-06-15T23:45:22+00:00
-
- ## Carbon Based Lifeforms
- - [https://carbonbasedlifeforms.net](https://carbonbasedlifeforms.net)
- - date_published: 2024-02-13T07:43:09+00:00
- - tags: ['music band']
-
- ## Carcosa.net
- - [https://carcosa.net](https://carcosa.net)
- - date_published: 2017-03-28T03:54:30+00:00
-
- ## Carcosa Git
- - [https://git.carcosa.net](https://git.carcosa.net)
- - date_published: 2024-08-19T17:13:56.055643+00:00
-
- ## Jason F. McBrayer
- - [https://jfm.carcosa.net](https://jfm.carcosa.net)
- - date_published: 2023-09-25T18:33:46+00:00
- - tags: ['personal']
-
- ## {{content.browserTitle}}
- - [https://waterfrontbremen.cardfront.net](https://waterfrontbremen.cardfront.net)
- - date_published: 2024-03-11T23:16:46+00:00
-
- ## Career Canvas
- - [http://careercanvas.net](http://careercanvas.net)
- - date_published: 2024-06-21T10:05:41.285996+00:00
-
- ## Career Theory｜最高の転職を実現するメディア
- - [https://career-theory.net](https://career-theory.net)
- - date_published: 2024-06-19T07:12:44+00:00
-
- ## Caribbean News.Net | All the News from the Caribbean Islands
- - [http://www.caribbeannews.net](http://www.caribbeannews.net)
- - date_published: 2024-07-13T23:12:32.689181+00:00
-
- ## The Ethically-Trained Programmer
- - [https://blog.carlana.net](https://blog.carlana.net)
- - date_published: 2023-12-22T07:17:32.415179+00:00
-
- ## Homepage of Carlana Johnson
- - [https://carlana.net](https://carlana.net)
- - date_published: 2024-08-18T09:38:15.283176+00:00
-
- ## The Ethically-Trained Programmer
- - [https://blog.carlmjohnson.net](https://blog.carlmjohnson.net)
- - date_published: 2023-10-25T09:22:48.829332+00:00
- - tags: ['personal']
-
- ## Carl Griffith 1847 Oregon Trail Sourdough Page
- - [https://carlsfriends.net](https://carlsfriends.net)
- - date_published: 2024-02-10T06:10:41.441028+00:00
-
- ## 麻豆传媒-麻豆传媒AV-麻豆传媒色情片
- - [http://carmenmarie.net](http://carmenmarie.net)
- - date_published: 2024-07-13T15:17:04.572857+00:00
-
- ## Hi, I'm Caroline.
- - [https://carolinemoore.net](https://carolinemoore.net)
- - date_published: 2024-05-02T11:41:39.221109+00:00
 

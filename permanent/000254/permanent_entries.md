@@ -1,3 +1,73 @@
+ ## Layerform | Open-source production-like development infrastructure
+ - [https://layerform.dev](https://layerform.dev)
+ - date_published: 2024-07-23T22:07:04.387238+00:00
+
+ ## lcdsmao
+ - [http://lcdsmao.dev](http://lcdsmao.dev)
+ - date_published: 2024-06-23T08:12:27.416143+00:00
+
+ ## https://www.leapml.dev
+ - [https://www.leapml.dev](https://www.leapml.dev)
+ - date_published: 2024-01-09T02:57:18.355700+00:00
+
+ ## Learn How To Make a Website with Steph
+ - [https://learnfromsteph.dev](https://learnfromsteph.dev)
+ - date_published: 2024-04-30T00:34:49.721013+00:00
+
+ ## Introduction to Genomics for Engineers | Introduction to Genomics for Engineers
+ - [https://learngenomics.dev](https://learngenomics.dev)
+ - date_published: 2023-07-21T20:05:42+00:00
+
+ ## Demo - LearnLingo
+ - [https://demo.learnlingo.dev](https://demo.learnlingo.dev)
+ - date_published: 2024-06-19T21:25:56.820654+00:00
+
+ ## Learn. Build. Grow. Together.
+ - [https://learnwithjason.dev](https://learnwithjason.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## 1kb by lejtzen.dev
+ - [https://1kb.lejtzen.dev](https://1kb.lejtzen.dev)
+ - date_published: 2024-06-20T21:56:15.098029+00:00
+
+ ## lejtzen.dev
+ - [https://lejtzen.dev](https://lejtzen.dev)
+ - date_published: 2023-10-14T19:16:11+00:00
+
+ ## Lelouch.dev | Personal Blog
+ - [https://lelouch.dev](https://lelouch.dev)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+ - [https://leocavalcante.dev](https://leocavalcante.dev)
+ - date_published: 2024-05-09T07:48:17.080986+00:00
+
+ ## Leonardo Luís Dalcegio
+ - [https://leodalcegio.dev](https://leodalcegio.dev)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Leo Gao
+ - [https://leogao.dev](https://leogao.dev)
+ - date_published: 2022-02-19T07:46:49+00:00
+
+ ## Leo Melo
+ - [https://www.leomeloxp.dev](https://www.leomeloxp.dev)
+ - date_published: 2024-05-05T00:00:00+00:00
+ - tags: ['personal']
+
+ ## ChatGPT HTML Web View Extension - Revolutionize Your ChatGPT Experience
+ - [https://gptview.leonkohli.dev](https://gptview.leonkohli.dev)
+ - date_published: 2024-09-26T16:51:29.563351+00:00
+
+ ## Home Page
+ - [https://leots.dev](https://leots.dev)
+ - date_published: 2023-12-15T11:15:24.587419+00:00
+ - tags: ['personal']
+
+ ## Introduction
+ - [https://book.leptos.dev](https://book.leptos.dev)
+ - date_published: 2024-04-29T07:57:43.246589+00:00
+
  ## Home - Leptos
  - [https://leptos.dev](https://leptos.dev)
  - date_published: 2023-10-25T18:39:09.955344+00:00
@@ -4013,73 +4083,4 @@
  ## Sharavanan
  - [https://lite.sharavananpa.dev](https://lite.sharavananpa.dev)
  - date_published: 2024-09-07T23:51:25.197544+00:00
-
- ## Sharavanan
- - [https://sharavananpa.dev](https://sharavananpa.dev)
- - date_published: 2024-07-16T17:18:44+00:00
-
- ## Shayon Mukherjee
- - [https://shayon.dev](https://shayon.dev)
- - date_published: 2023-12-21T17:41:52.153062+00:00
-
- ## Christian Rebischke
- - [https://shibumi.dev](https://shibumi.dev)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Shielded.dev
- - [https://shielded.dev](https://shielded.dev)
- - date_published: 2024-09-04T03:56:21.702132+00:00
-
- ## ShiftMag
- - [https://shiftmag.dev](https://shiftmag.dev)
- - date_published: 2023-11-11T21:40:32.425246+00:00
-
- ## Shinya Kato / 加藤 真也
- - [https://shinyakato.dev](https://shinyakato.dev)
- - date_published: 2024-10-22T16:48:39.745009+00:00
-
- ## Shivam Mishra - Software developer, designer.
- - [https://shivam.dev](https://shivam.dev)
- - date_published: 2024-08-08T12:25:03.091694+00:00
-
- ## Shokku
- - [https://shokku.dev](https://shokku.dev)
- - date_published: 2024-01-22T09:38:37+00:00
-
- ## Home
- - [https://shom.dev](https://shom.dev)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Shopify Blockchain
- - [https://blockchain.shopify.dev](https://blockchain.shopify.dev)
- - date_published: 2024-09-07T22:26:50.809869+00:00
-
- ## Hydrogen: Shopify’s headless commerce framework
- - [https://hydrogen.shopify.dev](https://hydrogen.shopify.dev)
- - date_published: 2024-04-29T03:43:43.341193+00:00
-
- ## Ruby Style Guide
- - [https://ruby-style-guide.shopify.dev](https://ruby-style-guide.shopify.dev)
- - date_published: 2023-12-01T20:06:51+00:00
-
- ## Shopify Developers Platform—Build. Innovate. Get paid.
- - [https://shopify.dev](https://shopify.dev)
- - date_published: 2024-04-28T04:58:16.582225+00:00
-
- ## Shorebird Console
- - [https://console.shorebird.dev](https://console.shorebird.dev)
- - date_published: 2024-05-14T04:06:34.348644+00:00
-
- ## Getting Started
- - [https://docs.shorebird.dev](https://docs.shorebird.dev)
- - date_published: 2024-05-14T04:06:29.954938+00:00
-
- ## Shorebird
- - [https://shorebird.dev](https://shorebird.dev)
- - date_published: 2024-04-08T20:31:17.090700+00:00
-
- ## ShotShare
- - [https://demo.shotshare.dev](https://demo.shotshare.dev)
- - date_published: 2024-04-08T19:27:50.836641+00:00
- - tags: ['self-host', 'image sharing']
 

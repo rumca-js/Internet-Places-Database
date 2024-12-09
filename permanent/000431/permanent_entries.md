@@ -1,3 +1,111 @@
+ ## Minnesota Legislature
+ - [http://www.leg.state.mn.us](http://www.leg.state.mn.us)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Minnesota Senate
+ - [https://www.senate.leg.state.mn.us](https://www.senate.leg.state.mn.us)
+ - date_published: 2024-07-08T00:01:40+00:00
+
+ ## Office of the State Of Minnesota Secretary of State
+ - [https://www.sos.state.mn.us](https://www.sos.state.mn.us)
+ - date_published: 2024-08-19T07:42:20.595151+00:00
+
+ ## City of Biloxi | The Official Website of the City of Biloxi
+ - [https://biloxi.ms.us](https://biloxi.ms.us)
+ - date_published: 2024-06-29T23:35:43.057497+00:00
+
+ ## City of D'Iberville, Mississippi - Located in South Mississippi
+ - [https://diberville.ms.us](https://diberville.ms.us)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Harrison County! Online Services and Information
+ - [http://harrison2.co.harrison.ms.us](http://harrison2.co.harrison.ms.us)
+ - date_published: 2024-06-29T23:35:48.434029+00:00
+
+ ## Harrison County Soil and Water Conservation District
+ - [http://hcswcd.co.harrison.ms.us](http://hcswcd.co.harrison.ms.us)
+ - date_published: 2024-06-29T23:36:12.314753+00:00
+
+ ## The General Court of New Hampshire
+ - [http://gencourt.state.nh.us](http://gencourt.state.nh.us)
+ - date_published: 2024-06-30T11:18:40.860231+00:00
+
+ ## NJ Legislature
+ - [https://lis.njleg.state.nj.us](https://lis.njleg.state.nj.us)
+ - date_published: 2024-06-24T11:17:27.968521+00:00
+
+ ## NJ Legislature
+ - [https://www.njleg.state.nj.us](https://www.njleg.state.nj.us)
+ - date_published: 2024-08-19T07:06:32.775445+00:00
+
+ ## State of New Jersey
+ - [https://www.state.nj.us](https://www.state.nj.us)
+ - date_published: 2024-08-19T07:06:37.495422+00:00
+
+ ## New Mexico Higher Education Department | NM Higher Education Department
+ - [https://hed.state.nm.us](https://hed.state.nm.us)
+ - date_published: 2024-07-02T05:04:38+00:00
+
+ ## Request Rejected
+ - [https://portal.sos.state.nm.us](https://portal.sos.state.nm.us)
+ - date_published: 2024-09-16T18:08:38.532591+00:00
+
+ ## Confederated Tribes of Siletz Indians | Siletz Tribe located in Oregon
+ - [https://ctsi.nsn.us](https://ctsi.nsn.us)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Public Search Page
+ - [https://trweb.co.clark.nv.us](https://trweb.co.clark.nv.us)
+ - date_published: 1981-06-12T00:00:00+00:00
+
+ ## Nevada Legislature
+ - [https://leg.state.nv.us](https://leg.state.nv.us)
+ - date_published: 2024-04-20T08:35:29.500154+00:00
+
+ ## ISYS Search
+ - [http://search.leg.state.nv.us](http://search.leg.state.nv.us)
+ - date_published: 2024-08-10T23:37:45+00:00
+
+ ## State of Nevada Legislative Counsel Bureau
+ - [https://shop.leg.state.nv.us](https://shop.leg.state.nv.us)
+ - date_published: 2024-08-10T23:37:50.027088+00:00
+
+ ## Welcome to Chautauqua County | Chautauqua County, NY
+ - [https://www.co.chautauqua.ny.us](https://www.co.chautauqua.ny.us)
+ - date_published: 2024-09-17T17:08:44+00:00
+
+ ## Home - Delaware County
+ - [https://www.co.delaware.ny.us](https://www.co.delaware.ny.us)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Montgomery County, NY
+ - [https://www.co.montgomery.ny.us](https://www.co.montgomery.ny.us)
+ - date_published: 2024-09-18T04:21:58.936767+00:00
+
+ ## Assembly Home | New York State Assembly
+ - [http://assembly.state.ny.us](http://assembly.state.ny.us)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## NYCOURTS.GOV - New York State Unified Court System
+ - [https://iapps.courts.state.ny.us](https://iapps.courts.state.ny.us)
+ - date_published: 2023-10-25T22:58:25.114509+00:00
+
+ ## NYCOURTS.GOV - New York State Unified Court System
+ - [http://www.courts.state.ny.us](http://www.courts.state.ny.us)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Tulsa Social
+ - [https://social.tulsa.ok.us](https://social.tulsa.ok.us)
+ - date_published: 2024-06-23T17:14:20.994694+00:00
+
+ ## City of Ashland, Oregon
+ - [https://www.ashland.or.us](https://www.ashland.or.us)
+ - date_published: 2024-05-02T10:09:56.422216+00:00
+
+ ## The Joe Rogan Experience
+ - [https://secure.sos.state.or.us](https://secure.sos.state.or.us)
+ - date_published: 2024-07-23T13:44:17.371120+00:00
+
  ## Attorney General - Oregon Department of Justice
  - [https://www.doj.state.or.us](https://www.doj.state.or.us)
  - date_published: 2024-07-02T00:00:00+00:00
@@ -3042,6 +3150,10 @@
  - [https://pixls.us](https://pixls.us)
  - date_published: 2021-01-11T18:28:51+00:00
 
+ ## Platanus Hack Voting
+ - [https://vote.hack.platan.us](https://vote.hack.platan.us)
+ - date_published: 2024-12-09T01:40:49.823949+00:00
+
  ## PLAYMOBIL® USA
  - [https://www.playmobil.us](https://www.playmobil.us)
  - date_published: 2024-07-06T23:28:10.557415+00:00
@@ -3700,6 +3812,10 @@ lucific.
  - [http://tdwp.us](http://tdwp.us)
  - date_published: 2024-04-08T11:52:40+00:00
 
+ ## Douglas Crockford Is Not Your Dad
+ - [https://douglascrockfordisnotyourdad.technomancy.us](https://douglascrockfordisnotyourdad.technomancy.us)
+ - date_published: 2024-12-08T21:00:14+00:00
+
  ## in which an escape route is discovered - Technomancy
  - [https://technomancy.us](https://technomancy.us)
  - date_published: 2023-12-31T00:00:00+00:00
@@ -3912,120 +4028,4 @@ lucific.
  ## 🐀
  - [http://universe2.us](http://universe2.us)
  - date_published: 2023-04-23T07:01:47+00:00
-
- ## Untamed Heart Klonoa Collective - Index
- - [http://forums.untamedheart.us](http://forums.untamedheart.us)
- - date_published: 2024-10-26T23:09:22+00:00
-
- ## An Atypical Aggregation of Thoughts from an Average Chuck
- - [https://upchuck.us](https://upchuck.us)
- - date_published: 2024-07-02T20:45:31.279382+00:00
-
- ## Proofpoint Targeted Attack Protection
- - [https://urldefense.us](https://urldefense.us)
- - date_published: 2024-08-19T09:37:10.296554+00:00
-
- ## Úrsula Corberó Daily – www.ursula-corbero.us | Your 24/7 online and leading source dedicated to actress Úrsula Corberó
- - [http://ursula-corbero.us](http://ursula-corbero.us)
- - date_published: 2024-07-02T13:44:52.378952+00:00
-
- ## U.S. Department of Arts and Culture
- - [https://usdac.us](https://usdac.us)
- - date_published: 2024-05-04T09:41:33.879679+00:00
-
- ## American Heroes Association – Supporting American Heroes
- - [https://usheroes.us](https://usheroes.us)
- - date_published: 2024-07-03T19:15:22.334816+00:00
-
- ## Chatwoot
- - [https://chatwoot.ext.v35.us](https://chatwoot.ext.v35.us)
- - date_published: 2024-06-27T13:56:01.685279+00:00
-
- ## umami
- - [https://stats.ext.v35.us](https://stats.ext.v35.us)
- - date_published: 2024-05-10T05:55:15.778405+00:00
-
- ## Valeo Service | Aftermarket services
- - [https://www.valeoservice.us](https://www.valeoservice.us)
- - date_published: 2024-10-31T11:10:18+00:00
-
- ## Home
- - [http://trick.vanstaveren.us](http://trick.vanstaveren.us)
- - date_published: 2023-09-26T00:00:00+00:00
-
- ## Vayuaerospace
- - [https://vayu.us](https://vayu.us)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Privacy4Cars
- - [https://badge.vehicleprivacyreport.us](https://badge.vehicleprivacyreport.us)
- - date_published: 2024-05-11T08:19:00.730653+00:00
-
- ## Veolia Water
- - [https://mywater.veolia.us](https://mywater.veolia.us)
- - date_published: 2024-08-18T12:36:27+00:00
-
- ## HOME
- - [https://vercettiway.us](https://vercettiway.us)
- - date_published: 2024-07-06T21:17:19+00:00
-
- ## Via Negativa
- - [https://www.vianegativa.us](https://www.vianegativa.us)
- - date_published: 2024-09-06T00:50:33+00:00
-
- ## BombBomb | Video Messaging & Screen Recording Platform
- - [https://vid.us](https://vid.us)
- - date_published: 2015-06-25T20:26:53+00:00
-
- ## Viewlike.us - Check sites in various resolutions.
- - [https://viewlike.us](https://viewlike.us)
- - date_published: 2024-05-07T09:33:24.729075+00:00
-
- ## virtualvacation.us - Explore the World from Home
- - [https://virtualvacation.us](https://virtualvacation.us)
- - date_published: 2023-03-29T04:55:53+00:00
-
- ## Visla - Al Video Creation and Editing Platform for Business
- - [https://app.visla.us](https://app.visla.us)
- - date_published: 2024-10-30T10:17:02+00:00
-
- ## Visla Help Center
- - [https://support.visla.us](https://support.visla.us)
- - date_published: 2024-10-30T21:49:11.060440+00:00
-
- ## Visla - Al Video Creation and Editing Platform for Business
- - [https://www.visla.us](https://www.visla.us)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## WWW Virtual Library @ www.vlib.us | WWW-VL | United States History; World History; WWI; American History Documents; US Art Museums; US History Museums; USA Historic Sites; Native American Bibliography; Web Site Tools; Electronic Texts; Tim Berners-Lee
- - [http://www.vlib.us](http://www.vlib.us)
- - date_published: 2022-01-20T15:29:02+00:00
-
- ## Online Accounting Software
- - [https://books.voeja.us](https://books.voeja.us)
- - date_published: 2024-09-25T12:54:47.514190+00:00
-
- ## Volvo Trucks | Industry-Leading Commercial Semi Trucks
- - [https://www.volvotrucks.us](https://www.volvotrucks.us)
- - date_published: 2024-06-07T14:02:27+00:00
-
- ## VoteShield
- - [https://voteshield.us](https://voteshield.us)
- - date_published: 2024-06-13T18:49:23+00:00
-
- ## Startup Insurance for Venture Backed Companies | Vouch
- - [https://www.vouch.us](https://www.vouch.us)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## VOZ
- - [https://voz.us](https://voz.us)
- - date_published: 2024-08-02T23:32:34.483906+00:00
-
- ## Vueconf US – May 15-17, 2024 in New Orleans, LA | Vue.js Conference
- - [https://vueconf.us](https://vueconf.us)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## WØEA Blog!
- - [https://www.w0ea.us](https://www.w0ea.us)
- - date_published: 2024-06-07T23:01:25+00:00
 

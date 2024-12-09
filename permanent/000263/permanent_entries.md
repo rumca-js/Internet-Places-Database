@@ -1,3 +1,72 @@
+ ## A great academic year concludes, setting up a great year ahead
+ - [https://corporateengagement.kelley.iu.edu](https://corporateengagement.kelley.iu.edu)
+ - date_published: 2024-09-05T10:08:52.256927+00:00
+
+ ## Forms - Client Services and Support
+ - [https://css-fireform.eas.iu.edu](https://css-fireform.eas.iu.edu)
+ - date_published: 2024-07-21T21:42:21.675046+00:00
+
+ ## IU Directory
+ - [https://directory.iu.edu](https://directory.iu.edu)
+ - date_published: 2024-04-30T05:01:23.042703+00:00
+
+ ## Office of the Vice President for Diversity, Equity & Inclusion
+ - [https://diversity.iu.edu](https://diversity.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+ - tags: ['dei']
+
+ ## Livewhale Events/Storyteller Documentation
+ - [https://documentation.events.iu.edu](https://documentation.events.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Eclipse Project
+ - [https://eclipse.iu.edu](https://eclipse.iu.edu)
+ - date_published: 2024-04-29T02:49:54.988565+00:00
+
+ ## Emergency IU Information
+ - [http://emergency.iu.edu](http://emergency.iu.edu)
+ - date_published: 2022-08-04T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.iu.edu](https://events.iu.edu)
+ - date_published: 2024-04-29T02:49:59.985204+00:00
+
+ ## Executive Searches | Human Resources | Indiana University
+ - [https://execsearch.iu.edu](https://execsearch.iu.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Experience Indiana University: Visual Stories at IU
+ - [https://experience.iu.edu](https://experience.iu.edu)
+ - date_published: 2024-08-06T09:22:42.468414+00:00
+
+ ## Richard M. Fairbanks School of Public Health
+ - [https://fairbanks.indianapolis.iu.edu](https://fairbanks.indianapolis.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Available Fonts: IU Communications
+ - [https://fonts.iu.edu](https://fonts.iu.edu)
+ - date_published: 2014-10-17T13:30:51+00:00
+
+ ## IU Framework
+ - [https://framework.iu.edu](https://framework.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Giving: My IU: Indiana University
+ - [https://give.iu.edu](https://give.iu.edu)
+ - date_published: 2024-07-13T17:29:50.711275+00:00
+
+ ## Global engagement for all
+ - [https://global.iu.edu](https://global.iu.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Indiana University Trident
+ - [https://go.iu.edu](https://go.iu.edu)
+ - date_published: 2024-07-13T17:29:52.160585+00:00
+
+ ## Google
+ - [https://google.iu.edu](https://google.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
  ## The University Graduate School
  - [https://graduate.iu.edu](https://graduate.iu.edu)
  - date_published: 2024-10-18T05:38:10.243042+00:00
@@ -3936,72 +4005,4 @@
  ## Home | codeforgood
  - [https://codeforgood.mit.edu](https://codeforgood.mit.edu)
  - date_published: 2024-01-14T18:29:02+00:00
-
- ## Home | Commencement
- - [https://commencement.mit.edu](https://commencement.mit.edu)
- - date_published: 2024-06-27T16:36:34+00:00
-
- ## Institute Office of Communications | Massachusetts Institute of Technology
- - [https://comms.mit.edu](https://comms.mit.edu)
- - date_published: 2024-05-07T19:36:20.409053+00:00
-
- ## MIT Schwarzman College of Computing
- - [https://computing.mit.edu](https://computing.mit.edu)
- - date_published: 2024-05-07T19:33:59.330514+00:00
-
- ## MIT Copytech
- - [https://copytech.mit.edu](https://copytech.mit.edu)
- - date_published: 2024-07-01T13:03:57+00:00
-
- ## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date_published: 2016-02-18T05:29:48+00:00
-
- ## MIT Press on COVID-19
- - [https://covid-19.mitpress.mit.edu](https://covid-19.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## MIT Covid Apps – Supporting Institute operations during the COVID-19 pandemic
- - [https://covidapps.mit.edu](https://covidapps.mit.edu)
- - date_published: 2024-06-29T02:52:56.751168+00:00
-
- ## Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?
- - [http://crowdensembles.csail.mit.edu](http://crowdensembles.csail.mit.edu)
- - date_published: 2020-09-22T14:39:12+00:00
-
- ## Home Page | MIT CSAIL
- - [https://csail.mit.edu](https://csail.mit.edu)
- - date_published: 2024-06-20T00:16:34+00:00
-
- ## Computation Structures Group
- - [http://csg.csail.mit.edu](http://csg.csail.mit.edu)
- - date_published: 2019-12-02T22:57:39+00:00
-
- ## MIT CSAIL Computer Systems Security Group
- - [https://css.csail.mit.edu](https://css.csail.mit.edu)
- - date_published: 2023-11-13T12:03:27+00:00
-
- ## Daniela Rus – Robotics
- - [http://danielarus.csail.mit.edu](http://danielarus.csail.mit.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Daper
- - [https://daper.mit.edu](https://daper.mit.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Feminism
- - [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## MIT Database Group
- - [http://db.csail.mit.edu](http://db.csail.mit.edu)
- - date_published: 2024-07-01T20:10:24.223424+00:00
-
- ## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date_published: 2023-10-25T18:53:49.969803+00:00
-
- ## MIT Digital Currency Initiative
- - [https://dci.mit.edu](https://dci.mit.edu)
- - date_published: 2024-04-16T00:00:00+00:00
 

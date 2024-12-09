@@ -1,3 +1,15 @@
+ ## Steve's Paintingshed
+ - [http://paintingshed.blogspot.com](http://paintingshed.blogspot.com)
+ - date_published: 2024-10-12T08:54:32+00:00
+
+ ## Warhammer painting stuff
+ - [http://paintingstuff.blogspot.com](http://paintingstuff.blogspot.com)
+ - date_published: 2024-10-03T21:59:50+00:00
+
+ ## Paint Machine
+ - [https://paintmachine.blogspot.com](https://paintmachine.blogspot.com)
+ - date_published: 2024-03-13T15:51:33+00:00
+
  ## Slowly Over a Low Flame
  - [http://paintpigdave.blogspot.com](http://paintpigdave.blogspot.com)
  - date_published: 2024-10-02T17:15:15+00:00
@@ -3998,16 +4010,4 @@
  ## Blogger
  - [http://rpgseeds.blogspot.com](http://rpgseeds.blogspot.com)
  - date_published: 2024-09-03T22:17:52.607660+00:00
-
- ## RPG Shared
- - [http://rpgshared.blogspot.com](http://rpgshared.blogspot.com)
- - date_published: 2024-04-28T02:24:20+00:00
-
- ## Blogger
- - [http://rrrschaefer.blogspot.com](http://rrrschaefer.blogspot.com)
- - date_published: 2024-07-20T21:16:47.795828+00:00
-
- ## RRTeaching
- - [http://rrteaching.blogspot.com](http://rrteaching.blogspot.com)
- - date_published: 2024-10-19T05:32:36.871463+00:00
 

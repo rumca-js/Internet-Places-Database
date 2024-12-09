@@ -1,3 +1,79 @@
+ ## Copa TS
+ - [https://copa-ts-podcast.podigee.io](https://copa-ts-podcast.podigee.io)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## DAMALS und heute - Der Podcast zur Geschichte
+ - [https://damalsundheute.podigee.io](https://damalsundheute.podigee.io)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Thales Podcasts
+ - [https://decisivemoments.podigee.io](https://decisivemoments.podigee.io)
+ - date_published: 2024-05-06T16:13:14.927862+00:00
+
+ ## Devs on Tape
+ - [https://devsontape.podigee.io](https://devsontape.podigee.io)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Digital Future – Technologie & Unternehmenskultur
+ - [https://digital-future.podigee.io](https://digital-future.podigee.io)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Einfach mal Luppen
+ - [https://einfach-mal-luppen.podigee.io](https://einfach-mal-luppen.podigee.io)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Ernährungswissen mit Niko Rittenau
+ - [https://ernaehrungswissen.podigee.io](https://ernaehrungswissen.podigee.io)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## So klingt Wirtschaft – Zukunftsthemen für Unternehmen
+ - [https://handelsblatt-soklingtwirtschaft.podigee.io](https://handelsblatt-soklingtwirtschaft.podigee.io)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## IDG TechTalk | Voice of Digital
+ - [https://idgtechtalk.podigee.io](https://idgtechtalk.podigee.io)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Der INNOQ Podcast
+ - [https://innoq.podigee.io](https://innoq.podigee.io)
+ - date_published: 2024-02-25T20:49:08.634490+00:00
+
+ ## Der Security Podcast
+ - [https://innoqsecurity.podigee.io](https://innoqsecurity.podigee.io)
+ - date_published: 2024-08-11T13:56:37.808538+00:00
+
+ ## ITCS PIZZATIME TECH PODCAST
+ - [https://itcspizzatime.podigee.io](https://itcspizzatime.podigee.io)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## KI-Update – ein Heise-Podcast
+ - [https://kiupdate.podigee.io](https://kiupdate.podigee.io)
+ - date_published: 2024-04-29T06:12:16.203225+00:00
+
+ ## klima update° - der Nachrichten-Podcast von klimareporter°
+ - [http://klimaupdate.podigee.io](http://klimaupdate.podigee.io)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## kurz informiert by heise online
+ - [https://kurzinformiert.podigee.io](https://kurzinformiert.podigee.io)
+ - date_published: 2024-04-29T06:12:54.331051+00:00
+
+ ## OMR Podcast
+ - [https://omr.podigee.io](https://omr.podigee.io)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Food Fak(t)
+ - [https://podcast767e0f.podigee.io](https://podcast767e0f.podigee.io)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Der Public Interest Podcast - mit Technologien für eine bessere Welt
+ - [https://public-interest-podcast.podigee.io](https://public-interest-podcast.podigee.io)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## pv magazine Deutschland
+ - [https://pvmagazine-de.podigee.io](https://pvmagazine-de.podigee.io)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Ruhr Ding: Schlaf – Der Podcast
  - [https://ruhr-ding.podigee.io](https://ruhr-ding.podigee.io)
  - date_published: 2023-12-05T14:31:20+00:00
@@ -3938,81 +4014,4 @@
  ## Podman: Python scripting for Podman services — Podman Python SDK 3.2.1.0 documentation
  - [https://podman-py.readthedocs.io](https://podman-py.readthedocs.io)
  - date_published: 2024-01-17T17:56:04+00:00
-
- ## Welcome to the Docs for PolicyKit! — PolicyKit  documentation
- - [https://policykit.readthedocs.io](https://policykit.readthedocs.io)
- - date_published: 2023-06-30T14:42:46+00:00
-
- ## Postorius - Web UI for GNU Mailman — Postorius 1.3.13 documentation
- - [https://postorius.readthedocs.io](https://postorius.readthedocs.io)
- - date_published: 2024-07-15T20:33:11+00:00
-
- ## PostgreSQL Workload Analyzer — PoWA 4.1.4 documentation
- - [https://powa.readthedocs.io](https://powa.readthedocs.io)
- - date_published: 2024-05-11T07:52:08.878878+00:00
-
- ## PrairieLearn
- - [https://prairielearn.readthedocs.io](https://prairielearn.readthedocs.io)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Welcome to privacyIDEA — privacyIDEA 3.10dev1 documentation
- - [https://privacyidea.readthedocs.io](https://privacyidea.readthedocs.io)
- - date_published: 2024-02-23T08:11:41+00:00
-
- ## Protocol Guild — protocol-guild  documentation
- - [https://protocol-guild.readthedocs.io](https://protocol-guild.readthedocs.io)
- - date_published: 2024-09-09T08:03:39+00:00
-
- ## Welcome to Pumbaa’s documentation! — Pumbaa 3.0.2 documentation
- - [http://pumbaa.readthedocs.io](http://pumbaa.readthedocs.io)
- - date_published: 2021-01-29T12:59:47+00:00
-
- ## The PyData Sphinx Theme — PyData Theme 0.15.2 documentation
- - [https://pydata-sphinx-theme.readthedocs.io](https://pydata-sphinx-theme.readthedocs.io)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## PyGObject
- - [https://pygobject.readthedocs.io](https://pygobject.readthedocs.io)
- - date_published: 2024-06-19T01:48:42+00:00
-
- ## PyMuPDF 1.24.9 documentation
- - [https://pymupdf.readthedocs.io](https://pymupdf.readthedocs.io)
- - date_published: 2024-08-08T21:38:37+00:00
-
- ## — PyObjC - the Python to Objective-C bridge
- - [https://pyobjc.readthedocs.io](https://pyobjc.readthedocs.io)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Py Oozie documentation — Py Oozie 0.0.3 documentation
- - [https://py-oozie.readthedocs.io](https://py-oozie.readthedocs.io)
- - date_published: 2021-01-29T13:05:08+00:00
-
- ## pyprql — pyprql  documentation
- - [https://pyprql.readthedocs.io](https://pyprql.readthedocs.io)
- - date_published: 2023-07-25T09:21:32+00:00
-
- ## PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System — PyPSA-Eur
- - [https://pypsa-eur.readthedocs.io](https://pypsa-eur.readthedocs.io)
- - date_published: 2024-11-28T20:16:44+00:00
- - tags: ['energy']
-
- ## Welcome to PyPy’s documentation! — PyPy documentation
- - [https://pypy.readthedocs.io](https://pypy.readthedocs.io)
- - date_published: 2024-06-26T21:33:40+00:00
-
- ## PyQt-builder Documentation — PyQt-builder  documentation
- - [https://pyqt-builder.readthedocs.io](https://pyqt-builder.readthedocs.io)
- - date_published: 2024-06-21T15:29:06+00:00
-
- ## PyQUBO — pyqubo 1.0.5 documentation
- - [https://pyqubo.readthedocs.io](https://pyqubo.readthedocs.io)
- - date_published: 2021-01-21T00:00:00+00:00
-
- ## The Pyramid Web Framework — The Pyramid Web Framework v2.0.2
- - [https://pyramid.readthedocs.io](https://pyramid.readthedocs.io)
- - date_published: 2023-08-25T06:27:49+00:00
-
- ## PyRF Documentation — PyRF  documentation
- - [https://pyrf.readthedocs.io](https://pyrf.readthedocs.io)
- - date_published: 2021-06-04T16:47:41+00:00
 

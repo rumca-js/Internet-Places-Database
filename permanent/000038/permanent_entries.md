@@ -1,3 +1,11 @@
+ ## Programmatic Advertising Solutions | Virtual Minds GmbH
+ - [https://www.active-agent.com](https://www.active-agent.com)
+ - date_published: 2024-06-25T13:16:04+00:00
+
+ ## Homepage
+ - [https://go.activecalendar.com](https://go.activecalendar.com)
+ - date_published: 2024-09-13T19:57:05+00:00
+
  ## Marketing automation for any business
  - [https://activecampaign.com](https://activecampaign.com)
  - date_published: 2024-06-29T00:00:00+00:00
@@ -4022,12 +4030,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## Home
  - [https://base.advantch.com](https://base.advantch.com)
  - date_published: 2024-07-10T11:15:55.110374+00:00
-
- ## Advantech IoT Academy | Free IoT Online Courses and Certification
- - [https://academy.advantech.com](https://academy.advantech.com)
- - date_published: 2024-09-05T21:54:07.296698+00:00
-
- ## Advantech Co-Creating the Future of the IoT World
- - [https://advantech.com](https://advantech.com)
- - date_published: 2024-06-11T00:00:00+00:00
 

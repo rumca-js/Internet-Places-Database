@@ -1,3 +1,15 @@
+ ## KANTOR BASE
+ - [http://kantorbase.blogspot.com](http://kantorbase.blogspot.com)
+ - date_published: 2024-10-01T21:16:00+00:00
+
+ ## Blogger
+ - [http://karencolbysierra.blogspot.com](http://karencolbysierra.blogspot.com)
+ - date_published: 2024-07-02T08:49:34.137251+00:00
+
+ ## Karen the Small Press Librarian
+ - [http://karenslibraryblog.blogspot.com](http://karenslibraryblog.blogspot.com)
+ - date_published: 2024-04-12T17:47:49+00:00
+
  ## Tales of a Texpatriate
  - [https://karlastories.blogspot.com](https://karlastories.blogspot.com)
  - date_published: 2024-10-25T11:49:52+00:00
@@ -3996,16 +4008,4 @@
  ## Blogger
  - [http://michaelheaversblog.blogspot.com](http://michaelheaversblog.blogspot.com)
  - date_published: 2024-10-21T14:23:41.827596+00:00
-
- ## Michael Horowitz
- - [https://michaelhorowitz2.blogspot.com](https://michaelhorowitz2.blogspot.com)
- - date_published: 2024-03-13T18:05:54+00:00
-
- ## A Typewriter A Day Keeps the Doctor Away
- - [http://michaeliany.blogspot.com](http://michaeliany.blogspot.com)
- - date_published: 2024-06-29T16:47:47+00:00
-
- ## Annabelle's Aspirin
- - [http://michaelklease.blogspot.com](http://michaelklease.blogspot.com)
- - date_published: 2024-03-07T14:02:41+00:00
 

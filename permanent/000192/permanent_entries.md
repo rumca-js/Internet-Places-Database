@@ -1,3 +1,51 @@
+ ## Fabrizio Dell'Acqua
+ - [https://bison-harp-zc2x.squarespace.com](https://bison-harp-zc2x.squarespace.com)
+ - date_published: 2024-06-16T21:51:30.687064+00:00
+
+ ## THE BITTER SOUTHERNER - Great Stories from the South
+ - [https://bittersoutherner.squarespace.com](https://bittersoutherner.squarespace.com)
+ - date_published: 2024-05-10T05:42:13.820676+00:00
+
+ ## Roote
+ - [https://blackbird-grouse-je9z.squarespace.com](https://blackbird-grouse-je9z.squarespace.com)
+ - date_published: 2024-09-12T19:51:26.678879+00:00
+
+ ## Open-RMF
+ - [https://blackbird-leopard-8err.squarespace.com](https://blackbird-leopard-8err.squarespace.com)
+ - date_published: 2024-07-08T12:38:30.299300+00:00
+
+ ## Blackheart
+ - [https://blackheartnew.squarespace.com](https://blackheartnew.squarespace.com)
+ - date_published: 2024-08-20T05:23:39.537525+00:00
+
+ ## Seattle Anxiety Specialists - Psychiatry, Psychology, and Psychotherapy
+ - [https://blake-thompson-c9d9.squarespace.com](https://blake-thompson-c9d9.squarespace.com)
+ - date_published: 2024-08-05T18:30:26.601134+00:00
+
+ ## Art and Poetry — Sherrie Lovler
+ - [https://blenny-parakeet-dtj4.squarespace.com](https://blenny-parakeet-dtj4.squarespace.com)
+ - date_published: 2024-09-19T22:50:01.860964+00:00
+
+ ## The Official Squarespace Newsroom
+ - [http://blog.squarespace.com](http://blog.squarespace.com)
+ - date_published: 2024-06-26T22:05:25.291309+00:00
+
+ ## Sport Oregon / A Nonprofit Promoting Sports in Oregon
+ - [https://blueberry-carrot-ydxs.squarespace.com](https://blueberry-carrot-ydxs.squarespace.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Agility Robotics
+ - [https://blueberry-minnow-94wp.squarespace.com](https://blueberry-minnow-94wp.squarespace.com)
+ - date_published: 2024-05-01T02:42:15.419008+00:00
+
+ ## Mike Lull Custom Guitars
+ - [https://bluebird-daffodil-es5y.squarespace.com](https://bluebird-daffodil-es5y.squarespace.com)
+ - date_published: 2024-08-19T21:04:44.547710+00:00
+
+ ## Mike Sgier Comics, Prints & Illustration
+ - [https://bluebird-squid-ffrw.squarespace.com](https://bluebird-squid-ffrw.squarespace.com)
+ - date_published: 2024-09-05T22:23:59.070204+00:00
+
  ## Minds Behind Maps
  - [https://bluebird-star-4e83.squarespace.com](https://bluebird-star-4e83.squarespace.com)
  - date_published: 2024-07-20T00:00:00+00:00
@@ -3951,52 +3999,4 @@
  ## Bardo Lounge & Supper Club
  - [https://owl-parrot-jf3j.squarespace.com](https://owl-parrot-jf3j.squarespace.com)
  - date_published: 2024-06-26T07:37:24.365109+00:00
-
- ## Cambridge AI Safety Hub
- - [https://owl-parsnip-7sny.squarespace.com](https://owl-parsnip-7sny.squarespace.com)
- - date_published: 2024-07-07T07:23:41.601674+00:00
-
- ## OWL Ventures - Web3 Investments
- - [https://owlventures.squarespace.com](https://owlventures.squarespace.com)
- - date_published: 2024-09-04T14:19:45.893435+00:00
-
- ## Oyster City Brewing Co.
- - [https://oystercity.squarespace.com](https://oystercity.squarespace.com)
- - date_published: 2024-10-30T03:57:46.371813+00:00
-
- ## Ozone – Powering the premium web
- - [https://ozoneprojectdemo.squarespace.com](https://ozoneprojectdemo.squarespace.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Valentina Casali – Lettering & Design
- - [https://paddlefish-lavender-gykw.squarespace.com](https://paddlefish-lavender-gykw.squarespace.com)
- - date_published: 2024-07-17T12:42:41.947265+00:00
-
- ## The Hottest August
- - [https://paddlefish-radish-alxp.squarespace.com](https://paddlefish-radish-alxp.squarespace.com)
- - date_published: 2024-09-19T01:37:43.099085+00:00
-
- ## Paleofuture
- - [https://paleo-future.squarespace.com](https://paleo-future.squarespace.com)
- - date_published: 2024-05-06T22:27:03.984943+00:00
-
- ## Palestinian Youth Movement
- - [https://palestinian-youthmovement.squarespace.com](https://palestinian-youthmovement.squarespace.com)
- - date_published: 2024-07-08T16:27:08.504943+00:00
-
- ## 996Roadtrip
- - [https://panda-apricots-b4xg.squarespace.com](https://panda-apricots-b4xg.squarespace.com)
- - date_published: 2024-07-14T03:50:08.469809+00:00
-
- ## The Indieverse Awards
- - [https://panda-turkey-zwxk.squarespace.com](https://panda-turkey-zwxk.squarespace.com)
- - date_published: 2024-07-03T22:35:56.812951+00:00
-
- ## Kineviz
- - [https://parakeet-earthworm-9wr3.squarespace.com](https://parakeet-earthworm-9wr3.squarespace.com)
- - date_published: 2024-10-14T11:40:28.604850+00:00
-
- ## Sebastián Castrodad Reverón
- - [https://parakeet-lily-c9ez.squarespace.com](https://parakeet-lily-c9ez.squarespace.com)
- - date_published: 2024-10-15T07:56:16.716438+00:00
 

@@ -1,3 +1,37 @@
+ ## Jewish Experience Radio show
+ - [http://www.jewishexperienceradio.com](http://www.jewishexperienceradio.com)
+ - date_published: 2021-05-31T21:44:32+00:00
+
+ ## Jewish-American History on the Web
+ - [https://jewish-history.com](https://jewish-history.com)
+ - date_published: 2023-01-01T01:13:33+00:00
+
+ ## Jewish Ideas Daily
+ - [http://jewishideasdaily.com](http://jewishideasdaily.com)
+ - date_published: 2024-08-18T15:31:21+00:00
+
+ ## Jewish Insider
+ - [https://jewishinsider.com](https://jewishinsider.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Jewish Journal
+ - [http://jewishjournal.com](http://jewishjournal.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+ - tags: ['israel news']
+
+ ## THE DAILY ROUNDTABLE - Powered by the Jewish Journal
+ - [https://roundtable.jewishjournal.com](https://roundtable.jewishjournal.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Jewish Lights
+ - [http://www.jewishlights.com](http://www.jewishlights.com)
+ - date_published: 2024-10-21T17:56:47.014135+00:00
+
+ ## The Jewish Press - JewishPress.com
+ - [https://jewishpress.com](https://jewishpress.com)
+ - date_published: 2023-12-07T15:14:09.328558+00:00
+ - tags: ['israel', 'israel news']
+
  ## Jewish Press Ad Control Panel
  - [https://webads.jewishpress.com](https://webads.jewishpress.com)
  - date_published: 2024-05-12T07:10:56.928461+00:00
@@ -2912,6 +2946,10 @@
  - date_published: 2024-05-06T00:00:00+00:00
  - tags: ['personal']
 
+ ## The World Of John Richard Hewitt - Artist; Writer
+ - [https://johnrichardhewitt.com](https://johnrichardhewitt.com)
+ - date_published: 2024-12-08T16:48:53+00:00
+
  ## John R. Leeman | Scientist by day, engineer by night, coder by birth…mad scientist at large
  - [https://johnrleeman.com](https://johnrleeman.com)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -4024,40 +4062,4 @@
  ## Jonathon Riggert
  - [https://jonathonriggert.com](https://jonathonriggert.com)
  - date_published: 2024-01-10T14:29:56.063970+00:00
-
- ## Jonathon Toon
- - [https://jonathontoon.com](https://jonathontoon.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Radical Transparency – Personal adventures in humanity
- - [https://jonblossom.com](https://jonblossom.com)
- - date_published: 2024-06-15T18:42:52.341264+00:00
-
- ## Jon Boden
- - [http://www.jonboden.com](http://www.jonboden.com)
- - date_published: 2024-08-06T15:08:24+00:00
-
- ## Jon's Personal Blog
- - [http://jonbottarini.com](http://jonbottarini.com)
- - date_published: 2024-09-13T16:44:21.404499+00:00
-
- ## Home
- - [http://jon-carlos.com](http://jon-carlos.com)
- - date_published: 2024-05-01T08:45:30.704350+00:00
-
- ## Jon Crawford Has Something To Say
- - [https://joncrawford.com](https://joncrawford.com)
- - date_published: 2024-05-09T08:13:15.599468+00:00
-
- ## Home - Jon Curry
- - [https://joncurry.com](https://joncurry.com)
- - date_published: 2024-06-30T09:39:52.499305+00:00
-
- ## THE JON DWOSKIN EXPERIENCE – BUSINESS COACH - The Jon Dwoskin Experience
- - [https://jondwoskin.com](https://jondwoskin.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## JoneKiri
- - [https://jonekiri.com](https://jonekiri.com)
- - date_published: 2024-07-13T03:47:50.980639+00:00
 

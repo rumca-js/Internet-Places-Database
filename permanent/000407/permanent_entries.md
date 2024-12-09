@@ -1,3 +1,103 @@
+ ## quidnovi.pt
+ - [http://www.quidnovi.pt](http://www.quidnovi.pt)
+ - date_published: 2024-07-12T20:50:11.364936+00:00
+
+ ## about
+ - [https://quiteade.pt](https://quiteade.pt)
+ - date_published: 2024-07-22T11:46:09.289770+00:00
+
+ ## Rádio online gratuita e transmissāo de música online
+ - [https://www.radio.pt](https://www.radio.pt)
+ - date_published: 2024-07-01T10:56:05.344184+00:00
+
+ ## Início
+ - [https://www.radioboanova.pt](https://www.radioboanova.pt)
+ - date_published: 2020-09-12T03:01:30+00:00
+
+ ## Rádio Sines - 95.9 FM - A rádio do Litoral Alentejano
+ - [http://www.radiosines.pt](http://www.radiosines.pt)
+ - date_published: 2024-09-05T15:27:55.275674+00:00
+
+ ## Rafael Albuquerque (rafaqueque)
+ - [https://rafael.pt](https://rafael.pt)
+ - date_published: 2024-05-28T17:47:18+00:00
+
+ ## Ralph Lauren® PT | Promoção de verão até 50% de desconto
+ - [https://www.ralphlauren.pt](https://www.ralphlauren.pt)
+ - date_published: 2024-06-19T23:58:36.332096+00:00
+
+ ## Revistas e colecionáveis ​​RBA (Loja Online) - RBA
+ - [https://loja.rbaportugal.pt](https://loja.rbaportugal.pt)
+ - date_published: 2024-10-14T22:52:39.148084+00:00
+
+ ## Rádio Clube de Angra |  A Voz da Terceira
+ - [https://rcangra.pt](https://rcangra.pt)
+ - date_published: 2024-09-05T15:04:59.689194+00:00
+
+ ## Rui Carlos Gonçalves
+ - [https://rcgoncalves.pt](https://rcgoncalves.pt)
+ - date_published: 2024-05-08T03:15:38.189196+00:00
+
+ ## RealGaming.pt - Notícias sobre jogos, revisões, análises guias and mais!
+ - [https://realgaming101.pt](https://realgaming101.pt)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Reativa | Marketing Digital | Fotografia | Filme | Design
+ - [https://www.reativa.pt](https://www.reativa.pt)
+ - date_published: 2024-09-05T14:02:05.455634+00:00
+
+ ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
+ - [http://www.record.pt](http://www.record.pt)
+ - date_published: 2024-06-25T18:52:17.480524+00:00
+
+ ## relampago
+ - [http://www.relampago.pt](http://www.relampago.pt)
+ - date_published: 2022-03-29T21:57:15+00:00
+
+ ## Relógio D'Água - Editores
+ - [http://www.relogiodagua.pt](http://www.relogiodagua.pt)
+ - date_published: 2023-09-19T10:14:46+00:00
+
+ ## RE/MAX Portugal
+ - [https://remax.pt](https://remax.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## JackHammer
+ - [https://media.rentals.pt](https://media.rentals.pt)
+ - date_published: 2024-09-05T14:57:55.300596+00:00
+
+ ## Rentals.pt - Casas, apartamentos e alojamento para férias
+ - [https://rentals.pt](https://rentals.pt)
+ - date_published: 2024-06-10T06:55:50.883934+00:00
+
+ ## Inicio
+ - [http://sines.repsol.pt](http://sines.repsol.pt)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## CITROËN COMPRE O SEU VEÍCULO - Avaliação gratuita do seu veículo
+ - [https://www.retoma-citroen.pt](https://www.retoma-citroen.pt)
+ - date_published: 2024-07-12T06:30:31.446254+00:00
+
+ ## Ricardo Bernardo
+ - [http://ricardobernardo.pt](http://ricardobernardo.pt)
+ - date_published: 2024-01-23T19:17:44+00:00
+
+ ## Rock in Rio Academy 2024
+ - [https://rockinrioacademy.pt](https://rockinrioacademy.pt)
+ - date_published: 2024-06-10T06:57:21.870118+00:00
+
+ ## Rock in Rio Lisboa
+ - [https://rockinriolisboa.pt](https://rockinriolisboa.pt)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Tech Rock Experience
+ - [https://techrocks.rockinriolisboa.pt](https://techrocks.rockinriolisboa.pt)
+ - date_published: 2024-06-18T19:14:58+00:00
+
+ ## Roma Editora
+ - [http://roma-editora.pt](http://roma-editora.pt)
+ - date_published: 2024-07-12T20:49:40.038164+00:00
+
  ## Roman Imankulov
  - [https://roman.pt](https://roman.pt)
  - date_published: 2024-05-05T14:51:20+00:00
@@ -3934,104 +4034,4 @@
  ## DigiFm.ro
  - [https://www.digifm.ro](https://www.digifm.ro)
  - date_published: 2024-08-18T08:47:34.539308+00:00
-
- ## DigiKey Home
- - [https://digikey.ro](https://digikey.ro)
- - date_published: 2024-05-01T05:03:01.399334+00:00
-
- ## Digi Online – vezi online știri, sport, filme, desene animate și documentare
- - [https://www.digionline.ro](https://www.digionline.ro)
- - date_published: 2024-08-18T08:47:55.661701+00:00
-
- ## Digi
- - [https://www.digiromania.ro](https://www.digiromania.ro)
- - date_published: 2024-08-16T11:29:44+00:00
-
- ## Digi Sport - stiri din sport, meciuri live - Spectacolul campionilor!
- - [https://digisport.ro](https://digisport.ro)
- - date_published: 2024-08-18T08:47:42.069813+00:00
-
- ## digitaliada.ro
- - [http://www.digitaliada.ro](http://www.digitaliada.ro)
- - date_published: 2024-10-18T23:56:53.675514+00:00
-
- ## Digital Nature
- - [http://digitalnature.ro](http://digitalnature.ro)
- - date_published: 2024-04-29T04:18:10.889878+00:00
-
- ## Digital Trip – Ghidul afacerii tale în online
- - [https://digitaltrip.ro](https://digitaltrip.ro)
- - date_published: 2024-09-10T13:40:09.140454+00:00
-
- ## Web design premium. Aplicații online complexe. Proiecte GIS.
- - [https://www.directdesign.ro](https://www.directdesign.ro)
- - date_published: 2024-06-17T11:28:42.684752+00:00
-
- ## Disney România | Disney oficial
- - [https://disney.ro](https://disney.ro)
- - date_published: 2024-06-16T01:51:00.062238+00:00
-
- ## Dixid NFC business card - DiXiD | Digital Business Cards
- - [https://dixid.ro](https://dixid.ro)
- - date_published: 2024-04-30T20:45:26+00:00
-
- ## dmyt.ro
- - [https://dmyt.ro](https://dmyt.ro)
- - date_published: 2024-07-13T04:04:08.436127+00:00
-
- ## dorinlazar.ro
- - [https://dorinlazar.ro](https://dorinlazar.ro)
- - date_published: 2023-10-25T22:35:40.022074+00:00
-
- ## Prezentare generală a problemei
- - [https://downdetector.ro](https://downdetector.ro)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Apache2 Debian Default Page: It works
- - [http://wmts.dpd.ro](http://wmts.dpd.ro)
- - date_published: 2017-03-25T16:33:35+00:00
-
- ## Acasă - Duracell
- - [https://www.duracell.ro](https://www.duracell.ro)
- - date_published: 2024-07-22T07:22:42+00:00
-
- ## Articole - ECOMpedia
- - [https://ecompedia.ro](https://ecompedia.ro)
- - date_published: 2024-09-19T15:00:28.464753+00:00
-
- ## Ministerul Educației
- - [https://www.edu.ro](https://www.edu.ro)
- - date_published: 2024-10-14T12:21:07+00:00
-
- ## EF Education First | România
- - [https://www.ef.ro](https://www.ef.ro)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Homepage
- - [http://www.elearning.ro](http://www.elearning.ro)
- - date_published: 2022-05-12T13:02:59+00:00
-
- ## Electrica - Societatea Energetică Electrica SA este lider pe piaţa de distribuție și furnizare a energiei electrice din România, precum și unul dintre cei mai importanți jucători din sectorul serviciilor energetice. Poziţia de top este susţinută atât de rezultatele economice, cât şi de o experienţă în domeniu ce se întinde pe mai mult de 120 ani.
- - [https://www.electrica.ro](https://www.electrica.ro)
- - date_published: 2024-08-19T16:34:28.922247+00:00
-
- ## Home | Revista online de biciclete electrice
- - [https://electrobike.ro](https://electrobike.ro)
- - date_published: 2024-09-19T14:59:15.094895+00:00
-
- ## elefant.ro - mallul online al familiei tale! • Branduri de top, preturi excelente • Peste 500.000 de produse pentru tine!
- - [https://www.elefant.ro](https://www.elefant.ro)
- - date_published: 2024-07-11T10:51:23.936802+00:00
-
- ## Un curs introductiv disponibil gratuit online despre inteligența artificială pentrunespecialiști
- - [https://www.elementsofai.ro](https://www.elementsofai.ro)
- - date_published: 2024-07-01T08:47:09.737873+00:00
-
- ## Bine ai venit la eMAG - Căutarea nu se oprește niciodată - eMAG
- - [https://about.emag.ro](https://about.emag.ro)
- - date_published: 2024-09-16T02:24:12.042194+00:00
-
- ## eMAG.ro - Căutarea nu se oprește niciodată
- - [https://emag.ro](https://emag.ro)
- - date_published: 2024-06-15T03:29:28.104552+00:00
 

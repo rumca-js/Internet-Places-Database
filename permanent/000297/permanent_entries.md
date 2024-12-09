@@ -1,3 +1,75 @@
+ ## Rogie King — Multidisciplinary Artist, Designer and Programmer
+ - [https://rog.ie](https://rog.ie)
+ - date_published: 2024-03-27T18:16:04+00:00
+
+ ## Homepage – About RTÉ
+ - [https://about.rte.ie](https://about.rte.ie)
+ - date_published: 2024-08-18T13:38:45.850736+00:00
+
+ ## RTÉ Ireland's National Television and Radio Broadcaster
+ - [https://rte.ie](https://rte.ie)
+ - date_published: 2023-11-13T11:39:36.280341+00:00
+
+ ## Rufus - The Official Website (Download, New Releases)
+ - [https://rufus.ie](https://rufus.ie)
+ - date_published: 2024-05-11T11:40:33.799668+00:00
+ - tags: ['operating systems', 'bootable drives']
+
+ ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
+ - [http://explore.satosh.ie](http://explore.satosh.ie)
+ - date_published: 2024-09-24T03:30:03.576345+00:00
+
+ ## SATOSH.IE Explorer | #1 web3 crypto raffle platform
+ - [http://explore-testnet.satosh.ie](http://explore-testnet.satosh.ie)
+ - date_published: 2024-09-23T17:52:28.110724+00:00
+
+ ## SATOSH.IE - Web3 Crypto Raffles
+ - [https://satosh.ie](https://satosh.ie)
+ - date_published: 2024-09-24T06:36:41.632485+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://ga.scientology.ie](https://ga.scientology.ie)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.ie](https://scientology.ie)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ - [https://www.scratch.ie](https://www.scratch.ie)
+ - date_published: 2024-07-02T10:35:50+00:00
+
+ ## Home
+ - [https://sfi.ie](https://sfi.ie)
+ - date_published: 2024-10-20T04:19:23.361171+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.ie](https://www.sgs.ie)
+ - date_published: 2024-09-10T12:51:01.143475+00:00
+
+ ## Ring the Bells of Shandon at St. Anne's Church, See spectacular 360° views of Cork, View the internal workings of the 18th Century clock, 'The Four Faced Liar', and see our 18th century Bells
+ - [http://www.shandonbells.ie](http://www.shandonbells.ie)
+ - date_published: 2024-06-20T21:30:14.560789+00:00
+
+ ## The Acronym Server: find and submit acronyms and meanings
+ - [http://acronyms.silmaril.ie](http://acronyms.silmaril.ie)
+ - date_published: 2024-06-28T19:30:01+00:00
+
+ ## Singular Artists
+ - [https://singularartists.ie](https://singularartists.ie)
+ - date_published: 2024-06-28T08:38:57.808054+00:00
+
+ ## Car hire Ireland - Europe & Worldwide | Sixt rent a car
+ - [https://sixt.ie](https://sixt.ie)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Find out all about Sky Media, the advertising sales arm of Sky.
+ - [https://www.skymedia.ie](https://www.skymedia.ie)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Compare Cheap Flights & Book Plane Tickets to Everywhere | Skyscanner
+ - [https://www.skyscanner.ie](https://www.skyscanner.ie)
+ - date_published: 2024-07-10T03:24:06.860196+00:00
+
  ## smooth-ie
  - [https://smooth.ie](https://smooth.ie)
  - date_published: 2024-07-04T12:33:25.994907+00:00
@@ -3940,76 +4012,4 @@ Indian Institute of Science, Bangalore
  ## CS Theory @IITD
  - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
  - date_published: 2024-02-08T11:34:33+00:00
-
- ## Portal Selection :: Indian Institute of Technology Delhi
- - [https://ecampus.iitd.ac.in](https://ecampus.iitd.ac.in)
- - date_published: 2024-09-13T18:18:49.816436+00:00
-
- ## Home Page : IIT Delhi
- - [https://home.iitd.ac.in](https://home.iitd.ac.in)
- - date_published: 2024-07-04T10:25:12.979845+00:00
-
- ## Infrastructure Unit | Indian Institute of Technology Delhi
- - [http://infra.iitd.ac.in](http://infra.iitd.ac.in)
- - date_published: 2024-09-13T18:18:30+00:00
-
- ## IIT Delhi Moodle for 2024-2025: Log in to the site
- - [https://moodle.iitd.ac.in](https://moodle.iitd.ac.in)
- - date_published: 2024-09-13T18:18:58.085473+00:00
-
- ## PhD Programme@CSE/SIT
- - [http://phd.cse.iitd.ac.in](http://phd.cse.iitd.ac.in)
- - date_published: 2024-06-06T10:42:47+00:00
-
- ## IIT Delhi - Login
- - [https://webmail.iitd.ac.in](https://webmail.iitd.ac.in)
- - date_published: 2024-09-13T18:21:07.267424+00:00
-
- ## Department of Computer Science and Engineering, IIT Delhi
- - [https://www.cse.iitd.ac.in](https://www.cse.iitd.ac.in)
- - date_published: 2024-05-04T15:26:32.945675+00:00
-
- ## Home Page : IIT Delhi
- - [http://www.iitd.ac.in](http://www.iitd.ac.in)
- - date_published: 2024-06-22T09:14:52.689160+00:00
-
- ## Indian Institute of Technology Guwahati
- - [http://www.iitg.ac.in](http://www.iitg.ac.in)
- - date_published: 2024-07-10T05:44:29.239585+00:00
-
- ## IIT Gandhinagar | Home
- - [http://www.iitgn.ac.in](http://www.iitgn.ac.in)
- - date_published: 2024-09-11T17:46:47.956357+00:00
-
- ## Home
- - [http://www.iith.ac.in](http://www.iith.ac.in)
- - date_published: 2024-06-22T12:51:03+00:00
-
- ## IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर
- - [http://www.iiti.ac.in](http://www.iiti.ac.in)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [http://home.iitj.ac.in](http://home.iitj.ac.in)
- - date_published: 2024-08-07T15:23:59.300389+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [https://iitj.ac.in](https://iitj.ac.in)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## CSE - IIT Kanpur
- - [https://www.cse.iitk.ac.in](https://www.cse.iitk.ac.in)
- - date_published: 2024-06-20T09:19:18+00:00
-
- ## IIT Kanpur
- - [https://www.iitk.ac.in](https://www.iitk.ac.in)
- - date_published: 2024-06-22T10:00:29.156567+00:00
-
- ## National Digital Library of India (NDLI)
- - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Office of Alumni & Corporate Relations
- - [https://acr.iitm.ac.in](https://acr.iitm.ac.in)
- - date_published: 2024-10-15T14:07:50.353555+00:00
 

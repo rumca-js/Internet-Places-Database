@@ -1,3 +1,35 @@
+ ## HYPER ISLAND | Get ready for the unknown
+ - [https://www.hyperisland.com](https://www.hyperisland.com)
+ - date_published: 2024-07-01T08:15:20+00:00
+
+ ## Thoughts while building | Zsolt Ero | Substack
+ - [https://blog.hyperknot.com](https://blog.hyperknot.com)
+ - date_published: 2024-10-23T04:36:01.756869+00:00
+
+ ## Ted Nelson Home Page
+ - [http://hyperland.com](http://hyperland.com)
+ - date_published: 2018-08-01T11:34:04+00:00
+
+ ## Ted Nelson Home Page
+ - [http://ted.hyperland.com](http://ted.hyperland.com)
+ - date_published: 2018-08-01T11:34:04+00:00
+
+ ## Hyper Light Breaker
+ - [https://www.hyperlightbreaker.com](https://www.hyperlightbreaker.com)
+ - date_published: 2024-06-20T21:42:34.483253+00:00
+
+ ## Home - Hipermak
+ - [http://www.hypermach.com](http://www.hypermach.com)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Premium Figma plugins to 1,000x your workflows. - Hypermatic
+ - [https://www.hypermatic.com](https://www.hypermatic.com)
+ - date_published: 2024-06-23T07:01:53.356050+00:00
+
+ ## Hyper Mega Tech!
+ - [https://www.hypermegatech.com](https://www.hypermegatech.com)
+ - date_published: 2024-07-20T20:59:22.593600+00:00
+
  ## Home
  - [https://hypermind.com](https://hypermind.com)
  - date_published: 2024-06-19T02:11:04.927001+00:00
@@ -4000,38 +4032,4 @@ Weinberger)
  ## 9to5Mac Apple Repair Services
  - [https://9to5mac.ifixyouri.com](https://9to5mac.ifixyouri.com)
  - date_published: 2024-04-30T08:01:11.480762+00:00
-
- ## iFixYouri Business and Education Repair Services |
- - [https://enterprise.ifixyouri.com](https://enterprise.ifixyouri.com)
- - date_published: 2024-07-20T23:25:39.701607+00:00
-
- ## Repair your iPhone, iPad, Smartphone, Tablet or Computer Today!
- - [https://ifixyouri.com](https://ifixyouri.com)
- - date_published: 2024-07-20T23:25:42.292380+00:00
-
- ## iFlight - Official Store
- - [https://shop.iflight.com](https://shop.iflight.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## iFlight - Official Website
- - [https://www.iflight.com](https://www.iflight.com)
- - date_published: 2024-09-05T19:15:29.807033+00:00
-
- ## iFlight Community
- - [https://bbs.iflight-rc.com](https://bbs.iflight-rc.com)
- - date_published: 2024-09-05T19:15:32.090621+00:00
-
- ## iFlight - Official Store
- - [https://shop.iflight-rc.com](https://shop.iflight-rc.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## iFlight - Official Website
- - [https://www.iflight-rc.com](https://www.iflight-rc.com)
- - date_published: 2024-06-10T12:23:30.329761+00:00
- - tags: ['drones']
-
- ## iflix - Genuine HD Video Online Watching Platform | Chinese series,Korean series,Comic,etc.
- - [https://iflix.com](https://iflix.com)
- - date_published: 2024-11-07T07:42:55+00:00
- - tags: ['piracy']
 

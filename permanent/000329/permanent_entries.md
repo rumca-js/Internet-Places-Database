@@ -1,3 +1,80 @@
+ ## https://rejectedagain.lol
+ - [https://rejectedagain.lol](https://rejectedagain.lol)
+ - date_published: 2024-01-18T21:07:21.223392+00:00
+
+ ## resume.lol
+ - [https://resume.lol](https://resume.lol)
+ - date_published: 2024-07-11T15:37:22.515837+00:00
+
+ ## @ricardo
+ - [https://ric.lol](https://ric.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Welcome to the r/ProgrammerHumor website!
+ - [https://rph.lol](https://rph.lol)
+ - date_published: 2023-04-30T19:16:03+00:00
+
+ ## Sanel Kukic
+ - [https://sanel.lol](https://sanel.lol)
+ - date_published: 2024-08-07T20:27:36.473652+00:00
+
+ ## Ræn Kararou :: UNIX Developer
+ - [http://ren.is.schizo.lol](http://ren.is.schizo.lol)
+ - date_published: 2024-04-28T15:18:12+00:00
+
+ ## shoutouts
+ - [https://shoutouts.lol](https://shoutouts.lol)
+ - date_published: 2024-06-21T22:05:23.200928+00:00
+
+ ## CSS JOY Webring
+ - [https://cs.sjoy.lol](https://cs.sjoy.lol)
+ - date_published: 2024-04-30T02:02:31.044447+00:00
+
+ ## RS.S JOY.lol | dev
+ - [https://rs.sjoy.lol](https://rs.sjoy.lol)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Skvip.lol
+ - [https://skvip.lol](https://skvip.lol)
+ - date_published: 2024-06-23T17:15:06.494791+00:00
+
+ ## social.lol
+ - [https://social.lol](https://social.lol)
+ - date_published: 2024-01-05T17:10:57.173135+00:00
+ - tags: ['mastodon']
+
+ ## srs bsns (lol)
+ - [https://srsbsns.lol](https://srsbsns.lol)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## cassiopeia
+ - [https://starsetbyte.lol](https://starsetbyte.lol)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## @adjb’s statuslog
+ - [https://adjb.status.lol](https://adjb.status.lol)
+ - date_published: 2024-08-07T20:03:17.111902+00:00
+
+ ## @anniegreens’s statuslog
+ - [https://anniegreens.status.lol](https://anniegreens.status.lol)
+ - date_published: 2024-08-07T20:27:11.517433+00:00
+
+ ## @ben’s statuslog
+ - [https://ben.status.lol](https://ben.status.lol)
+ - date_published: 2024-07-02T20:43:03.572738+00:00
+
+ ## @binarydigit’s statuslog
+ - [https://binarydigit.status.lol](https://binarydigit.status.lol)
+ - date_published: 2024-04-28T02:45:19.646140+00:00
+
+ ## @cygnoir’s statuslog
+ - [https://cygnoir.status.lol](https://cygnoir.status.lol)
+ - date_published: 2024-08-07T20:27:04.514471+00:00
+
+ ## @darylsun’s statuslog
+ - [https://darylsun.status.lol](https://darylsun.status.lol)
+ - date_published: 2024-08-07T21:02:16.010243+00:00
+
  ## @davep’s statuslog
  - [https://davep.status.lol](https://davep.status.lol)
  - date_published: 2024-08-07T20:59:25.585331+00:00
@@ -3932,80 +4009,4 @@
  ## Audi Maroc | Importateur officiel de voitures Audi
  - [https://www.audi.ma](https://www.audi.ma)
  - date_published: 2024-07-19T20:44:19+00:00
-
- ## BANK OF AFRICA
- - [https://www.bankofafrica.ma](https://www.bankofafrica.ma)
- - date_published: 2024-09-26T12:40:05.293087+00:00
-
- ## IEEE Morocco Blockchain Summit
- - [http://blockchainsummit.ma](http://blockchainsummit.ma)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## BOSCH – Catalogue
- - [https://catalogue.bosch-home.ma](https://catalogue.bosch-home.ma)
- - date_published: 2024-10-14T18:42:57.367780+00:00
-
- ## Appareils électroménagers durables de qualité | Bosch
- - [https://www.bosch-home.ma](https://www.bosch-home.ma)
- - date_published: 2024-06-16T21:36:26.034023+00:00
-
- ## Chronopost Maroc
- - [https://chronopost.ma](https://chronopost.ma)
- - date_published: 2024-10-13T21:43:34.632337+00:00
-
- ## Achat de voitures neuves et d'occasion| Automobile | Citroën Maroc
- - [https://citroen.ma](https://citroen.ma)
- - date_published: 2023-12-11T15:50:30.164343+00:00
-
- ## Service Plan - Citroen
- - [https://rendezvousenligne.citroen.ma](https://rendezvousenligne.citroen.ma)
- - date_published: 2024-05-10T04:45:09.313277+00:00
-
- ## Citroën Online | Maroc
- - [https://store.citroen.ma](https://store.citroen.ma)
- - date_published: 2023-11-15T12:38:56+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.ma](https://www.citroenorigins.ma)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## DECATHLON Maroc | Magasin de sport
- - [https://decathlon.ma](https://decathlon.ma)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Site carrières Decathlon Maroc
- - [https://joinus.decathlon.ma](https://joinus.decathlon.ma)
- - date_published: 2024-06-15T20:21:41.381797+00:00
-
- ## Digimmo
- - [https://digimmo.ma](https://digimmo.ma)
- - date_published: 2024-07-12T06:51:14.617770+00:00
-
- ## ESCA - Ecole de Management - Casablanca
- - [https://esca.ma](https://esca.ma)
- - date_published: 2024-05-08T00:27:43.652609+00:00
-
- ## ESCA - Ecole de Management - Casablanca
- - [https://info.esca.ma](https://info.esca.ma)
- - date_published: 2024-07-03T05:00:56+00:00
-
- ## Accueil | Public Policy School - UM6P
- - [https://pps.fgses-um6p.ma](https://pps.fgses-um6p.ma)
- - date_published: 2024-07-22T07:26:14.037694+00:00
-
- ## Site Officiel Fiat | FCA GROUP | Fiat.ma
- - [https://www.fiat.ma](https://www.fiat.ma)
- - date_published: 2024-06-13T14:24:20+00:00
-
- ## RGPH 2014
- - [http://rgphentableaux.hcp.ma](http://rgphentableaux.hcp.ma)
- - date_published: 2024-08-02T18:03:14.246524+00:00
-
- ## Homepage
- - [https://www.hilti.ma](https://www.hilti.ma)
- - date_published: 2024-06-20T07:26:57.533296+00:00
-
- ## مدقق IBAN: التحقق من صحة رقم الحساب الدولي للبنك
- - [https://www.iban.ma](https://www.iban.ma)
- - date_published: 2024-08-30T00:00:00+00:00
 

@@ -1,3 +1,79 @@
+ ## /var/log/uberspot
+ - [http://uberspot.github.io](http://uberspot.github.io)
+ - date_published: 2013-10-04T00:00:00+00:00
+
+ ## CROSS Software Catalog
+ - [https://uccross.github.io](https://uccross.github.io)
+ - date_published: 2023-01-09T20:37:41+00:00
+
+ ## UCL Information Security Research Group (UCL ISec)
+ - [https://uclisec.github.io](https://uclisec.github.io)
+ - date_published: 2024-06-20T10:44:43+00:00
+
+ ## Aerodrome | Contextual Robotics Institute
+ - [https://ucsd-aerodrome.github.io](https://ucsd-aerodrome.github.io)
+ - date_published: 2024-01-18T03:33:06+00:00
+
+ ## Compiler Construction - Compiler Construction – Spring 2023 Edition
+ - [https://ucsd-compilers-s23.github.io](https://ucsd-compilers-s23.github.io)
+ - date_published: 2023-06-04T02:55:09+00:00
+
+ ## UCSD CSE100 – Advanced Data Structures
+ - [https://ucsd-cse100-s20.github.io](https://ucsd-cse100-s20.github.io)
+ - date_published: 2020-05-08T15:09:30+00:00
+
+ ## UCSD CSE11 – Accelerated Introduction to Programming
+ - [https://ucsd-cse11-f21.github.io](https://ucsd-cse11-f21.github.io)
+ - date_published: 2021-12-07T04:41:46+00:00
+
+ ## UCSD CSE11 – Accelerated Introduction to Programming
+ - [https://ucsd-cse11-s20.github.io](https://ucsd-cse11-s20.github.io)
+ - date_published: 2021-06-03T04:36:46+00:00
+
+ ## CSE 12 Winter 2018, B & C Sections
+ - [https://ucsd-cse12-w17.github.io](https://ucsd-cse12-w17.github.io)
+ - date_published: 2019-01-08T05:14:02+00:00
+
+ ## CSE 12 Winter 2019, A & B Sections
+ - [https://ucsd-cse12-w19.github.io](https://ucsd-cse12-w19.github.io)
+ - date_published: 2019-03-14T22:52:49+00:00
+
+ ## Compiler Construction – CSE 131 F19
+ - [https://ucsd-cse131-f19.github.io](https://ucsd-cse131-f19.github.io)
+ - date_published: 2019-12-05T22:01:29+00:00
+
+ ## Compiler Construction – CSE 131 S18
+ - [https://ucsd-cse131-s18.github.io](https://ucsd-cse131-s18.github.io)
+ - date_published: 2018-07-13T19:15:33+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L S23)
+ - [https://ucsd-cse15l-s23.github.io](https://ucsd-cse15l-s23.github.io)
+ - date_published: 2023-06-08T16:59:09+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L)
+ - [https://ucsd-cse15l-w22.github.io](https://ucsd-cse15l-w22.github.io)
+ - date_published: 2022-09-06T17:39:53+00:00
+
+ ## Software Tools & Techniques Lab (UCSD CSE15L)
+ - [https://ucsd-cse15l-w23.github.io](https://ucsd-cse15l-w23.github.io)
+ - date_published: 2023-04-14T21:51:05+00:00
+
+ ## Software Tools & Techniques Lab - UCSD CSE15L Winter 2024
+ - [https://ucsd-cse15l-w24.github.io](https://ucsd-cse15l-w24.github.io)
+ - date_published: 2024-04-05T19:47:29+00:00
+
+ ## Advanced Compiler Design (UCSD CSE231)
+ - [https://ucsd-cse231-s22.github.io](https://ucsd-cse231-s22.github.io)
+ - date_published: 2022-04-01T00:00:00+00:00
+
+ ## UCSD CSE231 – Advanced Compiler Design
+ - [https://ucsd-cse231-w21.github.io](https://ucsd-cse231-w21.github.io)
+ - date_published: 2021-03-02T04:32:23+00:00
+
+ ## Introduction to Programming in Java I – CSE 8A F18
+ - [https://ucsd-cse8a-f18.github.io](https://ucsd-cse8a-f18.github.io)
+ - date_published: 2019-10-31T05:09:36+00:00
+
  ## UCSD CSE8A – Introduction to Programming 1
  - [https://ucsd-cse8a-w20.github.io](https://ucsd-cse8a-w20.github.io)
  - date_published: 2020-03-07T01:09:07+00:00
@@ -3952,81 +4028,4 @@
  ## Hedgie
  - [https://hedgie.io](https://hedgie.io)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## Heex technologies
- - [https://www.heex.io](https://www.heex.io)
- - date_published: 2024-07-12T07:25:20.025722+00:00
-
- ## Helio | Sell more with crypto ⚡️
- - [https://app.hel.io](https://app.hel.io)
- - date_published: 2024-09-04T12:23:18.324468+00:00
-
- ## Helio Demo
- - [https://demo.hel.io](https://demo.hel.io)
- - date_published: 2024-09-09T22:25:03.856709+00:00
-
- ## Welcome to Helio | Helio
- - [https://docs.hel.io](https://docs.hel.io)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## Helio | Sell More with Crypto - Instant DeFi Payments for Merchants
- - [https://hel.io](https://hel.io)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Terms of Service | Helio legals
- - [https://info.docs.hel.io](https://info.docs.hel.io)
- - date_published: 2024-09-09T22:25:05.174861+00:00
-
- ## Join Helio
- - [https://join.hel.io](https://join.hel.io)
- - date_published: 2024-09-09T22:25:01.684755+00:00
-
- ## Helika - Web3 Gaming Analytics Platform
- - [https://www.helika.io](https://www.helika.io)
- - date_published: 2024-09-21T00:00:00+00:00
-
- ## Heliogenesis
- - [https://heliogenesis.io](https://heliogenesis.io)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## HELI fast HELI cheap DeFi made easy | HeliSwap
- - [https://www.heliswap.io](https://www.heliswap.io)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## Helldivers: Galactic War Status
- - [https://helldivers.io](https://helldivers.io)
- - date_published: 2024-05-11T10:39:05.832788+00:00
- - tags: ['video game']
-
- ## 3DPrinterOS Knowledge Base
- - [https://3dprinteros.helpdocs.io](https://3dprinteros.helpdocs.io)
- - date_published: 2024-07-08T18:34:00.342852+00:00
-
- ## KOS HELP CENTER
- - [https://kosnaturals.helpdocs.io](https://kosnaturals.helpdocs.io)
- - date_published: 2024-08-05T19:33:24.299143+00:00
-
- ## HelpDocs | Knowledge Base Software
- - [https://www.helpdocs.io](https://www.helpdocs.io)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## dirty-equals
- - [https://dirty-equals.helpmanual.io](https://dirty-equals.helpmanual.io)
- - date_published: 2024-07-22T12:07:38.540683+00:00
-
- ## Welcome to Pydantic - Pydantic
- - [https://pydantic-docs.helpmanual.io](https://pydantic-docs.helpmanual.io)
- - date_published: 2024-10-22T19:58:24.663324+00:00
-
- ## watchfiles
- - [https://watchfiles.helpmanual.io](https://watchfiles.helpmanual.io)
- - date_published: 2024-05-27T12:33:39+00:00
-
- ## HelpRealm - The free SaaS support ticket system
- - [https://www.helprealm.io](https://www.helprealm.io)
- - date_published: 2024-06-19T02:15:58.329886+00:00
-
- ## Helpwise: Easy-to-use & affordable customer service platform
- - [https://helpwise.io](https://helpwise.io)
- - date_published: 2024-10-19T17:57:17.813828+00:00
 

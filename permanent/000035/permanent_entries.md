@@ -1,3 +1,11 @@
+ ## Digital Productivity Coach
+ - [https://digitalproductivity.coach](https://digitalproductivity.coach)
+ - date_published: 2023-12-09T18:30:47+00:00
+
+ ## Gus's Barbell Club - Private Strength Coaching in Louisville, KY
+ - [https://www.gus.coach](https://www.gus.coach)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Home of most advanced virtual job coach | JobInterview.coach
  - [https://jobinterview.coach](https://jobinterview.coach)
  - date_published: 2024-06-19T19:38:06.972106+00:00
@@ -4047,12 +4055,4 @@
  ## Solo Neoxa NEOX Mining Pool - 2Miners
  - [https://solo-neox.2miners.com](https://solo-neox.2miners.com)
  - date_published: 2024-07-21T02:34:43.560576+00:00
-
- ## Solo Nexa Mining Pool - 2Miners
- - [https://solo-nexa.2miners.com](https://solo-nexa.2miners.com)
- - date_published: 2024-07-21T02:34:51.302074+00:00
-
- ## Solo Pyrin PYI Mining Pool - 2Miners
- - [https://solo-pyi.2miners.com](https://solo-pyi.2miners.com)
- - date_published: 2024-04-30T07:31:41.167427+00:00
 

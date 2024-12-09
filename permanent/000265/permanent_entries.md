@@ -1,3 +1,71 @@
+ ## Welcome | Otto H. York Center for Environmental Engineering and Science
+ - [http://www.ycees.njit.edu](http://www.ycees.njit.edu)
+ - date_published: 2024-07-01T08:46:26+00:00
+
+ ## Salmon P. Chase College of Law
+ - [https://chaselaw.nku.edu](https://chaselaw.nku.edu)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## 4-H Healthy Habits Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://4hhealthyhabits.nmsu.edu](https://4hhealthyhabits.nmsu.edu)
+ - date_published: 2024-07-01T16:11:00.309185+00:00
+
+ ## 4-H Projects Home
+ - [https://4hprojects.nmsu.edu](https://4hprojects.nmsu.edu)
+ - date_published: 2024-07-01T16:10:54.508216+00:00
+
+ ## Accreditation | New Mexico State University
+ - [https://accreditation.nmsu.edu](https://accreditation.nmsu.edu)
+ - date_published: 2024-07-01T16:14:37.777778+00:00
+
+ ## ACES About Home
+ - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
+ - date_published: 2024-05-07T19:47:50.508147+00:00
+
+ ## Academic Programs Home
+ - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
+ - date_published: 2024-05-07T19:47:48.930373+00:00
+
+ ## ACES Awards Home
+ - [http://aces-awards.nmsu.edu](http://aces-awards.nmsu.edu)
+ - date_published: 2024-07-01T16:15:29.989294+00:00
+
+ ## Branding Resources Home
+ - [http://aces-branding.nmsu.edu](http://aces-branding.nmsu.edu)
+ - date_published: 2024-07-01T16:15:49.708703+00:00
+
+ ## Business and Resource Planning Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://aces-business.nmsu.edu](https://aces-business.nmsu.edu)
+ - date_published: 2024-07-01T16:15:51.268758+00:00
+
+ ## CESFAS Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [https://aces-cesfas.nmsu.edu](https://aces-cesfas.nmsu.edu)
+ - date_published: 2024-07-01T16:12:21.977735+00:00
+
+ ## Chairs & Professorships Home
+ - [https://aces-chairsandprofessorships.nmsu.edu](https://aces-chairsandprofessorships.nmsu.edu)
+ - date_published: 2024-07-01T16:11:49.317873+00:00
+
+ ## Home | New Mexico State University | BE BOLD. Shape the Future.
+ - [http://aces-civilrights.nmsu.edu](http://aces-civilrights.nmsu.edu)
+ - date_published: 2024-07-01T16:15:47.803300+00:00
+
+ ## ACES Competitive Awards Home
+ - [https://aces-competitiveawards.nmsu.edu](https://aces-competitiveawards.nmsu.edu)
+ - date_published: 2024-07-01T16:15:55.246858+00:00
+
+ ## ACES Dean Home
+ - [https://aces-dean.nmsu.edu](https://aces-dean.nmsu.edu)
+ - date_published: 2024-07-01T16:11:28.037635+00:00
+
+ ## For Employees Home
+ - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
+ - date_published: 2024-05-07T19:47:28.006281+00:00
+
+ ## Alumni and Giving Home
+ - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
+ - date_published: 2024-05-07T19:47:00.744286+00:00
+
  ## ACES Heroes | New Mexico State University | BE BOLD. Shape the Future.
  - [https://aces-heroes.nmsu.edu](https://aces-heroes.nmsu.edu)
  - date_published: 2024-07-01T16:11:21.145737+00:00
@@ -3932,72 +4000,4 @@
  ## Your Plan for Health
  - [http://yp4h.osu.edu](http://yp4h.osu.edu)
  - date_published: 2024-07-16T00:00:00+00:00
-
- ## Oregon State University - Cascades
- - [https://bendbeavscentral.osucascades.edu](https://bendbeavscentral.osucascades.edu)
- - date_published: 2024-10-15T01:19:36.556974+00:00
-
- ## OSU-Cascades
- - [https://osucascades.edu](https://osucascades.edu)
- - date_published: 2024-06-15T00:44:10+00:00
-
- ## Be True to You | Be the One They Call
- - [https://osuit.edu](https://osuit.edu)
- - date_published: 2024-06-26T22:10:33.215876+00:00
-
- ## NetScaler AAA
- - [https://wwwow.osumc.edu](https://wwwow.osumc.edu)
- - date_published: 2024-07-14T08:00:02+00:00
-
- ## Oklahoma State University-Oklahoma City | Celebrating 60 Years 1961-2021
- - [https://osuokc.edu](https://osuokc.edu)
- - date_published: 2024-06-26T22:11:05.039114+00:00
-
- ## SUNY Oswego | Home
- - [http://oswego.edu](http://oswego.edu)
- - date_published: 2024-08-28T14:29:25+00:00
-
- ## Otis College of Art and Design
- - [https://www.otis.edu](https://www.otis.edu)
- - date_published: 2024-07-14T19:33:12.827453+00:00
-
- ## AAARG - Arctic and Antarctic Atmospheric Science Research Group
- - [https://arctic.som.ou.edu](https://arctic.som.ou.edu)
- - date_published: 2022-08-15T14:25:37+00:00
-
- ## Online Tech Bootcamps | University of Oklahoma Outreach
- - [https://bootcamp.outreach.ou.edu](https://bootcamp.outreach.ou.edu)
- - date_published: 2024-07-15T03:19:07.701768+00:00
-
- ## CSRDE-The Consortium for Student Retention Data Exchange > Home
- - [https://csrde.ou.edu](https://csrde.ou.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## ETEAM
- - [https://eteam.ou.edu](https://eteam.ou.edu)
- - date_published: 2021-10-04T23:47:31+00:00
-
- ## This Site Is Scheduled To Be Removed
- - [http://faculty-staff.ou.edu](http://faculty-staff.ou.edu)
- - date_published: 2017-06-19T21:08:48+00:00
-
- ## Home
- - [https://halloffame.outreach.ou.edu](https://halloffame.outreach.ou.edu)
- - date_published: 2024-07-15T03:19:03.076283+00:00
-
- ## OU Human Resources
- - [http://hr.ou.edu](http://hr.ou.edu)
- - date_published: 2024-07-15T03:18:57.088630+00:00
-
- ## NCORE > Home
- - [http://ncore.ou.edu](http://ncore.ou.edu)
- - date_published: 2024-07-15T03:18:37.221113+00:00
-
- ## The University of Oklahoma Joins The SEC July 1 2024
- - [https://ou.edu](https://ou.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## OU Outreach > Home
- - [https://outreach.ou.edu](https://outreach.ou.edu)
- - date_published: 2024-05-12T04:56:37.458514+00:00
 

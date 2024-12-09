@@ -1,3 +1,100 @@
+ ## blog.scalability.org
+ - [http://scalability.org](http://scalability.org)
+ - date_published: 2021-01-10T00:00:00+00:00
+
+ ## ScalablyTyped · The Javascript ecosystem for Scala.js!
+ - [https://scalablytyped.org](https://scalablytyped.org)
+ - date_published: 2024-01-28T18:19:45+00:00
+
+ ## Learn or improve at programming in a fun and supportive environment
+ - [https://www.scalabridgelondon.org](https://www.scalabridgelondon.org)
+ - date_published: 2024-07-02T17:05:28.497544+00:00
+
+ ## Scalactic
+ - [http://www.scalactic.org](http://www.scalactic.org)
+ - date_published: 2024-06-27T15:06:10.147266+00:00
+
+ ## The premier Scala conference in North America and Europe
+ - [http://scaladays.org](http://scaladays.org)
+ - date_published: 2023-09-20T09:26:34+00:00
+
+ ## Scala.js
+ - [http://www.scala-js.org](http://www.scala-js.org)
+ - date_published: 2024-06-18T13:15:04+00:00
+
+ ## Learn Scala
+ - [https://docs.scala-lang.org](https://docs.scala-lang.org)
+ - date_published: 2024-04-28T03:40:06.079633+00:00
+
+ ## Scaladex
+ - [https://index.scala-lang.org](https://index.scala-lang.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Issues · scala/bug
+ - [https://issues.scala-lang.org](https://issues.scala-lang.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.scala-lang.org](https://plausible.scala-lang.org)
+ - date_published: 2024-06-16T23:57:00.280335+00:00
+
+ ## Scaladex
+ - [https://scaladex.scala-lang.org](https://scaladex.scala-lang.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## The Scala Programming Language
+ - [https://scala-lang.org](https://scala-lang.org)
+ - date_published: 2024-05-04T09:02:28.466548+00:00
+ - tags: ['programming language', 'scala']
+
+ ## Scastie - An interactive playground for Scala.
+ - [https://scastie.scala-lang.org](https://scastie.scala-lang.org)
+ - date_published: 2024-05-16T12:53:58+00:00
+
+ ## Scalameta · Library to read, analyze, transform and generate Scala programs
+ - [https://scalameta.org](https://scalameta.org)
+ - date_published: 2024-06-22T14:56:04+00:00
+
+ ## Scala Native — Scala Native 0.5.3 documentation
+ - [https://scala-native.org](https://scala-native.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## sbt, a simple build tool | sbt
+ - [https://scala-sbt.org](https://scala-sbt.org)
+ - date_published: 2024-05-01T08:26:50.766855+00:00
+
+ ## Slick
+ - [https://scala-slick.org](https://scala-slick.org)
+ - date_published: 2024-06-27T17:10:40+00:00
+
+ ## ScalaTest
+ - [http://www.scalatest.org](http://www.scalatest.org)
+ - date_published: 2024-06-27T15:06:08.002863+00:00
+
+ ## Scalawag – Reckoning with the South
+ - [http://www.scalawagmagazine.org](http://www.scalawagmagazine.org)
+ - date_published: 2024-10-29T19:48:37+00:00
+
+ ## scalaxb | XML databinding for Scala
+ - [https://scalaxb.org](https://scalaxb.org)
+ - date_published: 2024-05-01T08:26:46.653395+00:00
+
+ ## scaldi.org
+ - [https://scaldi.org](https://scaldi.org)
+ - date_published: 2019-09-10T12:27:07+00:00
+
+ ## Scale Ireland
+ - [https://www.scaleireland.org](https://www.scaleireland.org)
+ - date_published: 2024-10-29T14:10:56+00:00
+
+ ## ScalikeJDBC
+ - [http://scalikejdbc.org](http://scalikejdbc.org)
+ - date_published: 2024-05-12T14:07:35+00:00
+
+ ## Scambi, il Festival dei Laboratori Paneuretici
+ - [https://scambi.org](https://scambi.org)
+ - date_published: 2024-05-09T07:49:08.274310+00:00
+
  ## QR Code Scanner - Scan QR Code with webcam or files
  - [https://scanapp.org](https://scanapp.org)
  - date_published: 2024-03-16T12:47:32+00:00
@@ -3934,101 +4031,4 @@
  ## ShopSTLPR
  - [https://shopstlpr.org](https://shopstlpr.org)
  - date_published: 2024-07-07T03:34:56.107290+00:00
-
- ## ShopTPT
- - [https://www.shoptpt.org](https://www.shoptpt.org)
- - date_published: 2024-07-01T23:40:40.916616+00:00
-
- ## Shorenstein Center on Media, Politics and Public Policy
- - [https://shorensteincenter.org](https://shorensteincenter.org)
- - date_published: 2024-05-09T07:03:37.690627+00:00
-
- ## Shortbread
- - [https://shortbread-tiles.org](https://shortbread-tiles.org)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Shoshin College
- - [https://shoshincollege.org](https://shoshincollege.org)
- - date_published: 2024-10-20T21:46:19.924555+00:00
-
- ## About Adam Shostack
- - [https://adam.shostack.org](https://adam.shostack.org)
- - date_published: 2024-08-19T21:34:33.566913+00:00
-
- ## Home
- - [https://shostack.org](https://shostack.org)
- - date_published: 2024-05-09T07:39:17.970171+00:00
-
- ## Shotcut Forum
- - [https://forum.shotcut.org](https://forum.shotcut.org)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Shotcut - Home
- - [https://shotcut.org](https://shotcut.org)
- - date_published: 2024-03-28T21:45:17+00:00
- - tags: ['desktop program', 'video editor']
-
- ## שוברים שתיקה
- - [https://www.shovrimshtika.org](https://www.shovrimshtika.org)
- - date_published: 2024-10-22T20:24:38.522729+00:00
-
- ## Home
- - [http://www.showhope.org](http://www.showhope.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Show Up Utah
- - [https://showuputah.org](https://showuputah.org)
- - date_published: 2024-06-15T22:36:09.450286+00:00
-
- ## Home - Summer Health Professions Education Program
- - [http://www.shpep.org](http://www.shpep.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Shreveport Martyrs | Servants of God
- - [https://shreveportmartyrs.org](https://shreveportmartyrs.org)
- - date_published: 2024-06-20T23:56:03.175193+00:00
-
- ## shreyans
- - [https://shreyans.org](https://shreyans.org)
- - date_published: 2023-11-09T19:00:05.108858+00:00
-
- ## Shriners International | 150 years of Fun, Fellowship & Philanthropy
- - [https://www.shrinersinternational.org](https://www.shrinersinternational.org)
- - date_published: 2024-10-18T23:24:50.248896+00:00
-
- ## My SHRM
- - [https://account.shrm.org](https://account.shrm.org)
- - date_published: 2024-04-02T07:58:08+00:00
-
- ## SHRM24 Annual Conference
- - [https://annual.shrm.org](https://annual.shrm.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SHRM Events & Conferences | Connect with Top HR Pros
- - [https://conferences.shrm.org](https://conferences.shrm.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SHRM’s HR Jobs. Find or Post HR jobs. Search HR Resume Center. - SHRM's HR Jobs
- - [https://jobs.shrm.org](https://jobs.shrm.org)
- - date_published: 2024-07-19T23:04:16.877824+00:00
-
- ## Welcome to SHRM | The Voice of All Things Work
- - [https://pages.shrm.org](https://pages.shrm.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## SHRM - The Voice of All Things Work
- - [https://shrm.org](https://shrm.org)
- - date_published: 2023-10-25T22:08:14.306313+00:00
-
- ## Welcome to SHRM | The Voice of All Things Work
- - [https://stage-aem-www.shrm.org](https://stage-aem-www.shrm.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## SHRM Store - The World's Largest HR Store
- - [https://store.shrm.org](https://store.shrm.org)
- - date_published: 2024-07-19T23:09:28.656288+00:00
-
- ## Customer Experience Community
- - [https://support.shrm.org](https://support.shrm.org)
- - date_published: 2023-07-20T23:09:29+00:00
 

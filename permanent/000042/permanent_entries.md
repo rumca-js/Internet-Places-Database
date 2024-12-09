@@ -1,3 +1,11 @@
+ ## Alternative to popular SaaS products (Free/ OpenSource or with Great Deals) build by Indie, suggest by Indie
+ - [https://alteropen.com](https://alteropen.com)
+ - date_published: 2024-10-30T08:00:19.970858+00:00
+
+ ## Alterra Mountain Company
+ - [https://www.alterramtnco.com](https://www.alterramtnco.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
  ## Home
  - [https://alteryx.com](https://alteryx.com)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -4045,13 +4053,4 @@
  ## Home - Ana Isabel Turner
  - [https://anaturner.com](https://anaturner.com)
  - date_published: 2024-01-11T12:22:58.975279+00:00
-
- ## InfinitX Admin
- - [http://v1.anavallasuiza.com](http://v1.anavallasuiza.com)
- - date_published: 2024-07-09T19:00:43.077731+00:00
-
- ## Ana Victoria Calderon
- - [https://anavictoriana.com](https://anavictoriana.com)
- - date_published: 2024-05-13T06:53:13.538114+00:00
- - tags: ['personal', 'watercolors', 'art']
 

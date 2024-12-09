@@ -1,3 +1,15 @@
+ ## Federated Hermes
+ - [https://federatedhermes.com](https://federatedhermes.com)
+ - date_published: 2024-07-08T10:04:55.762230+00:00
+
+ ## Federico Terzi - A Software Engineering Journey
+ - [https://federicoterzi.com](https://federicoterzi.com)
+ - date_published: 2024-10-22T19:25:24.521439+00:00
+
+ ## Home - Commerce
+ - [https://fulfillment.fedex.com](https://fulfillment.fedex.com)
+ - date_published: 2024-06-16T17:10:08.377443+00:00
+
  ## FedEx Global Home - Select Your Language
  - [https://local.fedex.com](https://local.fedex.com)
  - date_published: 2024-05-25T09:50:27.864038+00:00
@@ -4031,16 +4043,4 @@
  ## FindingMFG : Global Manufacturing  Directory
  - [https://findingmfg.com](https://findingmfg.com)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## Finding My Quiet Place
- - [https://findingmyquietplace.com](https://findingmyquietplace.com)
- - date_published: 2024-06-25T18:37:10+00:00
-
- ## Log In ‹ Finding Simple Hosting — WordPress
- - [http://hosting.findingsimple.com](http://hosting.findingsimple.com)
- - date_published: 2024-09-06T12:59:36.541293+00:00
-
- ## EU Notice | Media News Group - Massachusetts
- - [https://findjobsinne.com](https://findjobsinne.com)
- - date_published: 2024-06-15T12:49:30.594792+00:00
 

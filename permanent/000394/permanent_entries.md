@@ -1,3 +1,101 @@
+ ## Venture Dallas – Connecting early-stage investors and VCs to emerging startups in Dallas-Fort Worth
+ - [https://2022.venturedallas.org](https://2022.venturedallas.org)
+ - date_published: 2024-06-15T15:25:04.908543+00:00
+
+ ## Home | Venture Dallas - Innovation Meets Investment
+ - [https://venturedallas.org](https://venturedallas.org)
+ - date_published: 2024-05-01T03:42:22.007632+00:00
+
+ ## Venture Miami - Innovation and Economic Development Office
+ - [https://venturemia.org](https://venturemia.org)
+ - date_published: 2024-06-16T05:00:08.682689+00:00
+
+ ## VentureWell Home Page - Welcome to VentureWell
+ - [https://venturewell.org](https://venturewell.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Institut Veolia - Prospective environnementale et sociétale
+ - [https://www.institut.veolia.org](https://www.institut.veolia.org)
+ - date_published: 2024-09-12T06:17:39+00:00
+
+ ## Home
+ - [https://www.vera.org](https://www.vera.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Verandi
+ - [https://verandi.org](https://verandi.org)
+ - date_published: 2024-08-20T04:12:56.978896+00:00
+
+ ## veraPDF | Industry Supported PDF/A Validation
+ - [https://verapdf.org](https://verapdf.org)
+ - date_published: 2024-08-18T20:42:37.948618+00:00
+
+ ## Ruben Verborgh’s homepage
+ - [https://ruben.verborgh.org](https://ruben.verborgh.org)
+ - date_published: 2024-07-04T11:28:27+00:00
+
+ ## A lightweight Node.js private proxy registry | Verdaccio
+ - [https://verdaccio.org](https://verdaccio.org)
+ - date_published: 2024-06-23T06:26:56.528527+00:00
+
+ ## Zompist Bboard Again - Index page
+ - [https://verduria.org](https://verduria.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Veridian Credit Union
+ - [https://www.veridiancu.org](https://www.veridiancu.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.verifiedvoting.org](https://www.verifiedvoting.org)
+ - date_published: 2024-07-16T20:39:06.974868+00:00
+
+ ## Sign In | Verify Email
+ - [https://dashboard.verify-email.org](https://dashboard.verify-email.org)
+ - date_published: 2024-10-14T08:38:04.811373+00:00
+
+ ## Free Email Verifier and Email Checker to Verify Email Addresses
+ - [https://www.verifyemailaddress.org](https://www.verifyemailaddress.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Veripool
+ - [https://verilator.org](https://verilator.org)
+ - date_published: 2024-06-15T12:49:36+00:00
+
+ ## Welcome to Verilog-to-Routing’s documentation! — Verilog-to-Routing 8.1.0-dev documentation
+ - [https://docs.verilogtorouting.org](https://docs.verilogtorouting.org)
+ - date_published: 2020-03-24T00:00:00+00:00
+
+ ## Verilog to Routing
+ - [https://verilogtorouting.org](https://verilogtorouting.org)
+ - date_published: 2023-08-05T19:24:26+00:00
+ - tags: ['verilog', 'fpga']
+
+ ## Veripool · Veripool
+ - [https://veripool.org](https://veripool.org)
+ - date_published: 2024-01-02T12:13:46+00:00
+ - tags: ['verilog', 'verilator', 'open source']
+
+ ## Vermont Artisans
+ - [https://vermontartisans.org](https://vermontartisans.org)
+ - date_published: 2024-04-14T18:24:14+00:00
+
+ ## Vermont Complex Systems Center
+ - [https://vermontcomplexsystems.org](https://vermontcomplexsystems.org)
+ - date_published: 2024-07-02T12:27:07.177659+00:00
+
+ ## Support Vermont Public
+ - [https://donate.vermontpublic.org](https://donate.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:37.795509+00:00
+
+ ## 2023 Impact Report
+ - [https://impact.vermontpublic.org](https://impact.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:47.763320+00:00
+
+ ## Home
+ - [https://info.vermontpublic.org](https://info.vermontpublic.org)
+ - date_published: 2024-08-17T23:19:34.887017+00:00
+
  ## Vermont Public's Merch Store
  - [https://store.vermontpublic.org](https://store.vermontpublic.org)
  - date_published: 2024-08-17T23:19:56.412032+00:00
@@ -3946,101 +4044,4 @@
  ## Whale & Dolphin Conservation UK
  - [https://whales.org](https://whales.org)
  - date_published: 2024-06-21T10:04:57.766650+00:00
-
- ## The Whale Store
- - [https://whalestore.org](https://whalestore.org)
- - date_published: 2024-06-21T10:04:16.518926+00:00
-
- ## IIS Windows Server
- - [https://collections.whalingmuseum.org](https://collections.whalingmuseum.org)
- - date_published: 2017-03-14T12:30:10+00:00
-
- ## The White Whale at the New Bedford Whaling Museum. Gifts, Books, More.
- - [http://store.whalingmuseum.org](http://store.whalingmuseum.org)
- - date_published: 2024-06-29T04:52:00.179559+00:00
-
- ## Home - New Bedford Whaling Museum
- - [https://whalingmuseum.org](https://whalingmuseum.org)
- - date_published: 2022-02-14T19:04:40+00:00
-
- ## Wharton FinTech
- - [https://www.whartonfintech.org](https://www.whartonfintech.org)
- - date_published: 2024-05-06T13:10:34.908148+00:00
-
- ## What can I do for Fedora?
- - [https://whatcanidoforfedora.org](https://whatcanidoforfedora.org)
- - date_published: 2023-11-16T18:42:04+00:00
-
- ## What can I do for LibreOffice
- - [https://whatcanidoforlibreoffice.org](https://whatcanidoforlibreoffice.org)
- - date_published: 2024-05-08T09:35:16.347122+00:00
-
- ## whatevs (dot org) | p.h.c.f.y.s.b.
- - [http://whatevs.org](http://whatevs.org)
- - date_published: 2024-10-21T05:28:49.356735+00:00
-
- ## Chris Sacca's 'What is left?'
- - [https://whatisleft.org](https://whatisleft.org)
- - date_published: 2024-06-15T18:38:24.557379+00:00
-
- ## What Is My Screen Resolution
- - [https://whatismyscreenresolution.org](https://whatismyscreenresolution.org)
- - date_published: 2024-01-07T05:40:05+00:00
-
- ## What Is Scientology? Beliefs & Facts - Church of Scientology
- - [https://whatisscientology.org](https://whatisscientology.org)
- - date_published: 2015-03-31T00:00:00+00:00
- - tags: ['scientology']
-
- ## Hello world
- - [https://whatpr.org](https://whatpr.org)
- - date_published: 2017-12-01T16:48:49+00:00
-
- ## Get Breaking News, Latest Updates and In-Depth Analysis | What's In The News
- - [https://whatsinthenews.org](https://whatsinthenews.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## What browser am I using?
- - [https://www.whatsmybrowser.org](https://www.whatsmybrowser.org)
- - date_published: 2024-06-16T10:55:06.035761+00:00
-
- ## What's Up With Opioids?
- - [https://www.whatsupwithopioids.org](https://www.whatsupwithopioids.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Index of /
- - [http://whattf.org](http://whattf.org)
- - date_published: 2021-01-17T00:00:00+00:00
-
- ## The WHATWG Blog
- - [https://blog.whatwg.org](https://blog.whatwg.org)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Compatibility Standard
- - [https://compat.spec.whatwg.org](https://compat.spec.whatwg.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Compression Standard
- - [https://compression.spec.whatwg.org](https://compression.spec.whatwg.org)
- - date_published: 2024-05-30T08:26:26+00:00
-
- ## Console Standard
- - [https://console.spec.whatwg.org](https://console.spec.whatwg.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## HTML Standard, Edition for Web Developers
- - [https://developers.whatwg.org](https://developers.whatwg.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## DOM Standard
- - [https://dom.spec.whatwg.org](https://dom.spec.whatwg.org)
- - date_published: 2024-06-17T11:24:05+00:00
-
- ## Encoding Standard
- - [https://encoding.spec.whatwg.org](https://encoding.spec.whatwg.org)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Fetch Standard
- - [https://fetch.spec.whatwg.org](https://fetch.spec.whatwg.org)
- - date_published: 2024-06-17T11:23:24+00:00
 

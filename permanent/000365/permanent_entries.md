@@ -1,3 +1,87 @@
+ ## The Science of Deep Specification
+ - [https://deepspec.org](https://deepspec.org)
+ - date_published: 2024-05-04T15:41:34.426951+00:00
+
+ ## Welcome to the Deep State Blog
+ - [https://deepstateblog.org](https://deepstateblog.org)
+ - date_published: 2023-10-25T21:13:44.064425+00:00
+ - tags: ['intelligence', 'deep state']
+
+ ## Deep Synoptic Array (DSA)
+ - [https://deepsynoptic.org](https://deepsynoptic.org)
+ - date_published: 2024-07-22T06:23:01.392595+00:00
+
+ ## Deep Teams
+ - [https://www.deepteams.org](https://www.deepteams.org)
+ - date_published: 2024-09-23T12:19:42.638010+00:00
+
+ ## folder listing: /
+ - [https://dplanet.deep-time.org](https://dplanet.deep-time.org)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Deep Vellum
+ - [https://deepvellum.org](https://deepvellum.org)
+ - date_published: 2024-07-13T11:14:26.263958+00:00
+
+ ## Store :: Deep Vellum Publishing
+ - [https://store.deepvellum.org](https://store.deepvellum.org)
+ - date_published: 2024-05-11T07:09:44.369050+00:00
+
+ ## Immerse Yourself in Miami's Cultural Tapestry: Deering Estate, Museums, and Historical Sites
+ - [https://deeringestate.org](https://deeringestate.org)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Deer Park Monastery
+ - [https://deerparkmonastery.org](https://deerparkmonastery.org)
+ - date_published: 2024-09-12T17:00:51+00:00
+
+ ## Atanu Dey : Life is a Random Draw
+ - [http://www.deeshaa.org](http://www.deeshaa.org)
+ - date_published: 2024-07-03T21:55:39.421550+00:00
+
+ ## DEF CON Hacking Conference Home
+ - [https://defcon.org](https://defcon.org)
+ - date_published: 2024-02-05T09:21:34+00:00
+ - tags: ['conference', 'hacking', 'convention', 'cybersecurity']
+
+ ## forum.defcon.org
+ - [https://forum.defcon.org](https://forum.defcon.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## The DEF CON® Media Server - Archives of the conferences
+ - [https://media.defcon.org](https://media.defcon.org)
+ - date_published: 2024-02-05T19:19:52.136849+00:00
+ - tags: ['hacking']
+
+ ## DEF CON merchandise shop
+ - [https://shop.defcon.org](https://shop.defcon.org)
+ - date_published: 2024-02-05T17:23:18.325780+00:00
+
+ ## DEF CON Security Training
+ - [https://training.defcon.org](https://training.defcon.org)
+ - date_published: 2024-02-05T17:23:16.947188+00:00
+
+ ## forum.defcon.org
+ - [https://defcongroups.org](https://defcongroups.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## DEF CON – Arts & Entertainment
+ - [https://defconmusic.org](https://defconmusic.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## We oppose DRM. | Defective by Design
+ - [https://defectivebydesign.org](https://defectivebydesign.org)
+ - date_published: 2024-05-08T09:35:57.647047+00:00
+ - tags: ['drm', 'activism']
+
+ ## Homepage v2 - Defence for Children
+ - [https://defenceforchildren.org](https://defenceforchildren.org)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Engaging Networks: Nonprofit Digital Engagement Platform
+ - [https://support.defenders.org](https://support.defenders.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Defending Democracy Together
  - [https://www.defendingdemocracytogether.org](https://www.defendingdemocracytogether.org)
  - date_published: 2024-03-13T00:00:00+00:00
@@ -3949,84 +4033,4 @@
  ## Immutable Zkevm RPC: Public Web3 API for blockchain integration
  - [https://immutable-zkevm.drpc.org](https://immutable-zkevm.drpc.org)
  - date_published: 2024-09-23T21:35:22.052519+00:00
-
- ## Immutable Zkevm Testnet RPC: Public Web3 API for blockchain integration
- - [https://immutable-zkevm-testnet.drpc.org](https://immutable-zkevm-testnet.drpc.org)
- - date_published: 2024-09-23T22:22:58.103188+00:00
-
- ## Kava RPC: Public Web3 API for blockchain integration
- - [https://kava.drpc.org](https://kava.drpc.org)
- - date_published: 2024-09-24T09:04:14.312886+00:00
-
- ## Kava Testnet RPC: Public Web3 API for blockchain integration
- - [https://kava-testnet.drpc.org](https://kava-testnet.drpc.org)
- - date_published: 2024-09-24T00:15:11.319509+00:00
-
- ## Klaytn RPC: Public Web3 API for blockchain integration
- - [https://klaytn.drpc.org](https://klaytn.drpc.org)
- - date_published: 2024-09-24T07:21:58.934461+00:00
-
- ## Kroma RPC: Public Web3 API for blockchain integration
- - [https://kroma.drpc.org](https://kroma.drpc.org)
- - date_published: 2024-09-23T23:30:05.708193+00:00
-
- ## Linea RPC: Public Web3 API for blockchain integration
- - [https://linea.drpc.org](https://linea.drpc.org)
- - date_published: 2024-09-24T02:20:28.771979+00:00
-
- ## Lisk RPC: Public Web3 API for blockchain integration
- - [https://lisk.drpc.org](https://lisk.drpc.org)
- - date_published: 2024-09-23T16:28:22.990750+00:00
-
- ## Manta Pacific RPC: Public Web3 API for blockchain integration
- - [https://manta-pacific.drpc.org](https://manta-pacific.drpc.org)
- - date_published: 2024-09-23T22:55:56.788637+00:00
-
- ## Manta Pacific Testnet RPC: Public Web3 API for blockchain integration
- - [https://manta-pacific-testnet.drpc.org](https://manta-pacific-testnet.drpc.org)
- - date_published: 2024-09-24T03:20:29.376067+00:00
-
- ## Mantle RPC: Public Web3 API for blockchain integration
- - [https://mantle.drpc.org](https://mantle.drpc.org)
- - date_published: 2024-09-24T04:26:59.049688+00:00
-
- ## Metall2 RPC: Public Web3 API for blockchain integration
- - [https://metall2.drpc.org](https://metall2.drpc.org)
- - date_published: 2024-09-24T10:16:21.642065+00:00
-
- ## Metis RPC: Public Web3 API for blockchain integration
- - [https://metis.drpc.org](https://metis.drpc.org)
- - date_published: 2024-09-24T04:30:30.916908+00:00
-
- ## Mode RPC: Public Web3 API for blockchain integration
- - [https://mode.drpc.org](https://mode.drpc.org)
- - date_published: 2024-09-23T22:35:21.656608+00:00
-
- ## Moonbase Alpha RPC: Public Web3 API for blockchain integration
- - [https://moonbase-alpha.drpc.org](https://moonbase-alpha.drpc.org)
- - date_published: 2024-09-24T01:07:38.595519+00:00
-
- ## Moonbeam RPC: Public Web3 API for blockchain integration
- - [https://moonbeam.drpc.org](https://moonbeam.drpc.org)
- - date_published: 2024-09-24T05:47:09.080921+00:00
-
- ## Moonriver RPC: Public Web3 API for blockchain integration
- - [https://moonriver.drpc.org](https://moonriver.drpc.org)
- - date_published: 2024-09-24T02:43:24.665631+00:00
-
- ## Neon Evm Devnet RPC: Public Web3 API for blockchain integration
- - [https://neon-evm-devnet.drpc.org](https://neon-evm-devnet.drpc.org)
- - date_published: 2024-09-23T20:33:59.416367+00:00
-
- ## Neon Evm RPC: Public Web3 API for blockchain integration
- - [https://neon-evm.drpc.org](https://neon-evm.drpc.org)
- - date_published: 2024-09-24T03:27:28.337023+00:00
-
- ## Oktc RPC: Public Web3 API for blockchain integration
- - [https://oktc.drpc.org](https://oktc.drpc.org)
- - date_published: 2024-09-24T04:15:34.820653+00:00
-
- ## Opbnb RPC: Public Web3 API for blockchain integration
- - [https://opbnb.drpc.org](https://opbnb.drpc.org)
- - date_published: 2024-09-23T18:58:27.911517+00:00
 

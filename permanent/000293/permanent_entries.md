@@ -1,3 +1,71 @@
+ ## Fiscal Notes Public Search
+ - [https://fnspublic.ofm.wa.gov](https://fnspublic.ofm.wa.gov)
+ - date_published: 2024-06-28T22:37:05.676801+00:00
+
+ ## Home | Governor Jay Inslee
+ - [https://governor.wa.gov](https://governor.wa.gov)
+ - date_published: 2024-06-28T01:38:46+00:00
+
+ ## Legislature Home
+ - [https://leg.wa.gov](https://leg.wa.gov)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Home - Washington State's Paid Family and Medical Leave
+ - [https://paidleave.wa.gov](https://paidleave.wa.gov)
+ - date_published: 2024-09-18T22:14:34.571869+00:00
+
+ ## April 23, 2024 Special Election Results
+ - [https://results.vote.wa.gov](https://results.vote.wa.gov)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Washington State Ferries Vehicle Reservations System (WSF VRS)
+ - [https://secureapps.wsdot.wa.gov](https://secureapps.wsdot.wa.gov)
+ - date_published: 2024-06-28T12:56:13.872465+00:00
+
+ ## Home - Washington Senate Democrats
+ - [https://senatedemocrats.wa.gov](https://senatedemocrats.wa.gov)
+ - date_published: 2023-10-25T19:27:05.211655+00:00
+
+ ## Home | Office of the Washington State Treasurer
+ - [https://tre.wa.gov](https://tre.wa.gov)
+ - date_published: 2024-07-10T09:29:46.368442+00:00
+
+ ## Vaccinate WA: COVID-19 Vaccine Availability
+ - [http://vaccinelocator.doh.wa.gov](http://vaccinelocator.doh.wa.gov)
+ - date_published: 2023-12-07T04:39:23+00:00
+
+ ## Home | WA.gov
+ - [http://wa.gov](http://wa.gov)
+ - date_published: 2024-06-18T09:31:27.831306+00:00
+
+ ## Washington Department of Fish and Wildlife
+ - [https://wdfw.wa.gov](https://wdfw.wa.gov)
+ - date_published: 2024-06-15T03:32:44+00:00
+
+ ## Washington State Department of Transportation
+ - [https://wsdot.wa.gov](https://wsdot.wa.gov)
+ - date_published: 2024-05-06T22:48:28.762977+00:00
+
+ ## Washington State Transportation Commission
+ - [https://wstc.wa.gov](https://wstc.wa.gov)
+ - date_published: 2024-06-28T12:56:15.554344+00:00
+
+ ## Washington State Department of Commerce
+ - [https://www.commerce.wa.gov](https://www.commerce.wa.gov)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Washington State Department of Social and Health Services | Transforming Lives
+ - [https://www.dshs.wa.gov](https://www.dshs.wa.gov)
+ - date_published: 2024-06-28T22:37:00.538292+00:00
+
+ ## Executive Ethics Board | Washington State Executive Ethics Board
+ - [http://www.ethics.wa.gov](http://www.ethics.wa.gov)
+ - date_published: 2024-08-19T03:34:49.579137+00:00
+
+ ## Home | Washington State Public Disclosure Commission (PDC)
+ - [https://www.pdc.wa.gov](https://www.pdc.wa.gov)
+ - date_published: 2024-09-16T17:56:18+00:00
+
  ## Home | WA Secretary of State
  - [https://www.sos.wa.gov](https://www.sos.wa.gov)
  - date_published: 2024-09-16T15:09:53+00:00
@@ -3959,74 +4027,4 @@
  ## OR
  - [https://odious.haus](https://odious.haus)
  - date_published: 2024-07-04T01:56:36.298273+00:00
-
- ## RamenHaus — Homepage
- - [https://ramen.haus](https://ramen.haus)
- - date_published: 2024-04-05T23:54:35.153096+00:00
- - tags: ['interesting', 'ramen']
-
- ## Nicholas Scheurich
- - [https://scheurich.haus](https://scheurich.haus)
- - date_published: 2024-05-09T08:17:51.916575+00:00
-
- ## Vineyard - Free Shell Accounts for MUDs, talkers, web pages, and more.
- - [https://vineyard.haus](https://vineyard.haus)
- - date_published: 2024-03-27T20:49:10+00:00
- - tags: ['mud game']
-
- ## 1upHealth - Healthcare's Most Complete FHIR Data Platform
- - [https://1up.health](https://1up.health)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Air Health by Aclima
- - [https://air.health](https://air.health)
- - date_published: 2024-07-15T11:47:58.680040+00:00
-
- ## Augment Health
- - [https://augment.health](https://augment.health)
- - date_published: 2024-06-12T19:56:17+00:00
-
- ## BIG BANG HEALTH-Festival am 11. & 12.9.2024 in Berlin
- - [https://bigbang.health](https://bigbang.health)
- - date_published: 2024-09-12T16:52:58.535544+00:00
-
- ## CaryHealth - An Interconnected Digital Health Experience
- - [https://www.cary.health](https://www.cary.health)
- - date_published: 2024-10-28T18:02:11+00:00
-
- ## home | cured
- - [https://www.cured.health](https://www.cured.health)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## DOC 2024: Truth in Medicine
- - [https://2024.doc.health](https://2024.doc.health)
- - date_published: 2024-09-18T23:25:24.645081+00:00
-
- ## DOC 2024: Truth in Medicine
- - [http://doc.health](http://doc.health)
- - date_published: 2024-09-18T23:25:19.739413+00:00
-
- ## Empirical Health: The future of primary care
- - [https://www.empirical.health](https://www.empirical.health)
- - date_published: 2024-09-09T19:48:46.473725+00:00
-
- ## Dr. Adeel Khan: Stem Cell Therapy Specialist - Eterna Health
- - [https://eterna.health](https://eterna.health)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Flo - ovulation calendar, period tracker, and pregnancy app
- - [https://flo.health](https://flo.health)
- - date_published: 2024-06-26T14:13:37+00:00
-
- ## Galvan Login
- - [https://app.galvan.health](https://app.galvan.health)
- - date_published: 2024-10-31T08:04:11.673982+00:00
-
- ## Galvan - #1 AI Wellness App
- - [https://www.galvan.health](https://www.galvan.health)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Glass Health Blog
- - [https://blog.glass.health](https://blog.glass.health)
- - date_published: 2024-10-30T08:40:15.409974+00:00
 

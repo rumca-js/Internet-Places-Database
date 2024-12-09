@@ -1,3 +1,67 @@
+ ## Mind Hacks — Mental cheats for getting your way « Mind Hacks :: WonderHowTo
+ - [https://mind-hacks.wonderhowto.com](https://mind-hacks.wonderhowto.com)
+ - date_published: 2024-06-29T18:50:47.374104+00:00
+
+ ## Motivation & Self Help — How-To Videos, Articles, & Inspiration « Motivation & Self Help :: WonderHowTo
+ - [https://motivation-self-help.wonderhowto.com](https://motivation-self-help.wonderhowto.com)
+ - date_published: 2024-06-29T18:41:32.185525+00:00
+
+ ## Film & Theater — How-To Videos, Articles, & Inspiration « Film & Theater :: WonderHowTo
+ - [https://movies-film-theater.wonderhowto.com](https://movies-film-theater.wonderhowto.com)
+ - date_published: 2024-06-29T18:48:59.422367+00:00
+
+ ## Music & Instruments — How-To Videos, Articles, & Inspiration « Music & Instruments :: WonderHowTo
+ - [https://music-instruments.wonderhowto.com](https://music-instruments.wonderhowto.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Nexus :: Gadget Hacks » Tips, tricks, and mods for your Nexus devices.
+ - [http://nexus5.wonderhowto.com](http://nexus5.wonderhowto.com)
+ - date_published: 2024-06-29T18:52:16.610553+00:00
+
+ ## Null Byte — The aspiring white-hat hacker/security awareness playground « Null Byte :: WonderHowTo
+ - [https://null-byte.wonderhowto.com](https://null-byte.wonderhowto.com)
+ - date_published: 2024-06-29T18:51:45.419143+00:00
+
+ ## Outdoor Recreation — How-To Videos, Articles, & Inspiration « Outdoor Recreation :: WonderHowTo
+ - [https://outdoor-recreation.wonderhowto.com](https://outdoor-recreation.wonderhowto.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Pets & Animals — How-To Videos, Articles, & Inspiration « Pets & Animals :: WonderHowTo
+ - [https://pets-animals.wonderhowto.com](https://pets-animals.wonderhowto.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Pranks & Cons — How-To Videos, Articles, & Inspiration « Pranks & Cons :: WonderHowTo
+ - [https://prank-con.wonderhowto.com](https://prank-con.wonderhowto.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Software — How-To Videos, Articles, & Inspiration « Software :: WonderHowTo
+ - [https://software.wonderhowto.com](https://software.wonderhowto.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Spirituality — How-To Videos, Articles, & Inspiration « Spirituality :: WonderHowTo
+ - [https://spirituality.wonderhowto.com](https://spirituality.wonderhowto.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Sports — How-To Videos, Articles, & Inspiration « Sports :: WonderHowTo
+ - [https://sports.wonderhowto.com](https://sports.wonderhowto.com)
+ - date_published: 2024-06-29T18:41:45.480062+00:00
+
+ ## Steampunk R&D — For those who live in a future that never was « Steampunk R&D :: WonderHowTo
+ - [https://steampunk.wonderhowto.com](https://steampunk.wonderhowto.com)
+ - date_published: 2024-06-29T18:41:07.468352+00:00
+
+ ## Survival Training — Survival training & guides « Survival Training :: WonderHowTo
+ - [https://survivial-training.wonderhowto.com](https://survivial-training.wonderhowto.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## The Secret Yumiverse — Illustrated tips and tricks from the mind of Yumi « The Secret Yumiverse :: WonderHowTo
+ - [https://thesecretyumiverse.wonderhowto.com](https://thesecretyumiverse.wonderhowto.com)
+ - date_published: 2024-06-29T18:51:38.637086+00:00
+
+ ## Travel — How-To Videos, Articles, & Inspiration « Travel :: WonderHowTo
+ - [https://travel.wonderhowto.com](https://travel.wonderhowto.com)
+ - date_published: 2024-06-29T18:50:27.160615+00:00
+
  ## Video Games — How-To Videos, Articles, & Inspiration « Video Games :: WonderHowTo
  - [https://video-games.wonderhowto.com](https://video-games.wonderhowto.com)
  - date_published: 2024-01-18T00:00:00+00:00
@@ -3950,68 +4014,4 @@
  ## Woett's Blog
  - [http://bylosingallgenerality.wordpress.com](http://bylosingallgenerality.wordpress.com)
  - date_published: 2024-06-30T08:15:02.067692+00:00
-
- ## Woett's Blog
- - [http://bylossofgenerality.wordpress.com](http://bylossofgenerality.wordpress.com)
- - date_published: 2024-06-30T11:21:55.759499+00:00
-
- ## blog :: Brent -> [String]
- - [https://byorgey.wordpress.com](https://byorgey.wordpress.com)
- - date_published: 2023-10-25T18:09:52.299601+00:00
-
- ## Byron's Muse
- - [http://byronsmuse.wordpress.com](http://byronsmuse.wordpress.com)
- - date_published: 2024-07-16T21:36:08.218399+00:00
-
- ## By the Mighty Mumford
- - [http://bythemightymumford.wordpress.com](http://bythemightymumford.wordpress.com)
- - date_published: 2024-06-30T04:13:39.857647+00:00
-
- ## Sailing to Byzantium
- - [http://byzantium.wordpress.com](http://byzantium.wordpress.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Commodore 64
- - [https://c64blog.wordpress.com](https://c64blog.wordpress.com)
- - date_published: 2023-12-11T16:34:07.156127+00:00
-
- ## Amused Cynicism
- - [https://cabalamat.wordpress.com](https://cabalamat.wordpress.com)
- - date_published: 2024-10-21T11:56:22.206776+00:00
-
- ## C.A. Bennett
- - [https://cabennettwriter.wordpress.com](https://cabennettwriter.wordpress.com)
- - date_published: 2024-07-18T17:22:44.553847+00:00
-
- ## CABINET DE CHAOLOGIE
- - [https://cabinetdechaologie.wordpress.com](https://cabinetdechaologie.wordpress.com)
- - date_published: 2024-10-26T22:13:12.169422+00:00
-
- ## By Hook Or By Book
- - [http://cadburypom.wordpress.com](http://cadburypom.wordpress.com)
- - date_published: 2024-08-05T10:30:02+00:00
-
- ## Café Society
- - [https://cafesociety956.wordpress.com](https://cafesociety956.wordpress.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Teaching blog
- - [http://caicedoteaching.wordpress.com](http://caicedoteaching.wordpress.com)
- - date_published: 2024-07-01T14:43:14.048981+00:00
-
- ## caintheconqueror
- - [http://caintheconqueror.wordpress.com](http://caintheconqueror.wordpress.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Cait Gordon—author, editor, baker
- - [https://caitgordondotcom.wordpress.com](https://caitgordondotcom.wordpress.com)
- - date_published: 2024-05-08T04:15:02.479494+00:00
-
- ## Private Site
- - [http://cakeheadlovesevil.wordpress.com](http://cakeheadlovesevil.wordpress.com)
- - date_published: 2024-06-27T09:13:02.173379+00:00
-
- ## Adventure Sin Cake
- - [http://cakesinadventure.wordpress.com](http://cakesinadventure.wordpress.com)
- - date_published: 2024-09-17T17:22:33.170766+00:00
 

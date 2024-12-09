@@ -1,3 +1,11 @@
+ ## Casa Batlló de Gaudí, Barcelona | Web oficial
+ - [http://casabatllo.cat](http://casabatllo.cat)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Catalunya Plural -
+ - [http://catalunyaplural.cat](http://catalunyaplural.cat)
+ - date_published: 2024-07-03T02:07:52.683249+00:00
+
  ## La botiga oficial de TV3 i Catalunya Ràdio - CCMA
  - [https://botiga.ccma.cat](https://botiga.ccma.cat)
  - date_published: 2024-07-04T03:53:53.671003+00:00
@@ -4028,12 +4036,4 @@
  ## ATD Quart Monde
  - [https://www.atd-quartmonde.ch](https://www.atd-quartmonde.ch)
  - date_published: 2024-07-13T19:49:44.924763+00:00
-
- ## Soutien Financier de Projets Sportifs | Athlètes Vaudois
- - [https://athletes-vaudois.ch](https://athletes-vaudois.ch)
- - date_published: 2024-07-21T05:58:12+00:00
-
- ## Your digital partner in Geneva - Atipik
- - [https://www.atipik.ch](https://www.atipik.ch)
- - date_published: 2024-07-16T22:36:35.718060+00:00
 

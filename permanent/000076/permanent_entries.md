@@ -1,3 +1,15 @@
+ ## SCOREBOARD
+ - [https://scoreboard.clippd.com](https://scoreboard.clippd.com)
+ - date_published: 2024-09-04T19:07:41.200451+00:00
+
+ ## Page Redirection
+ - [https://www.clippercard.com](https://www.clippercard.com)
+ - date_published: 2021-01-21T23:36:21+00:00
+
+ ## clipperhouse.com
+ - [https://clipperhouse.com](https://clipperhouse.com)
+ - date_published: 2024-07-26T03:27:48.618804+00:00
+
  ## Clipper Vacations | Seattle to Victoria Ferry - Hotels, Tours & More
  - [https://www.clippervacations.com](https://www.clippervacations.com)
  - date_published: 2024-08-02T00:00:00+00:00
@@ -1319,6 +1331,10 @@
  ## Suyu Emulator: Continuing the Legacy of Yuzu Nintendo Switch Emulator - Suyu Emulator
  - [https://wordpress-1298598-4721598.cloudwaysapps.com](https://wordpress-1298598-4721598.cloudwaysapps.com)
  - date_published: 2024-07-03T18:58:39+00:00
+
+ ## Winlator: Windows x86, x64 PC Emulator for Android
+ - [https://wordpress-1298598-4742686.cloudwaysapps.com](https://wordpress-1298598-4742686.cloudwaysapps.com)
+ - date_published: 2024-12-01T05:21:02+00:00
 
  ## Heritage Park Homepage | HPDEV (Latest)
  - [https://wordpress-1311155-4921785.cloudwaysapps.com](https://wordpress-1311155-4921785.cloudwaysapps.com)
@@ -4017,21 +4033,4 @@
  ## Computational science software for biology | Code Ocean
  - [https://codeocean.com](https://codeocean.com)
  - date_published: 2024-04-29T03:20:02.558626+00:00
-
- ## GitBook
- - [https://docs.codeocean.com](https://docs.codeocean.com)
- - date_published: 2024-08-05T12:43:42+00:00
-
- ## My Secret Life as a Spaghetti Coder
- - [http://codeodor.com](http://codeodor.com)
- - date_published: 2024-05-08T10:19:06.601153+00:00
-
- ## Code Of Honor - Game design, programming and more
- - [https://codeofhonor.com](https://codeofhonor.com)
- - date_published: 2024-03-24T15:08:02.980466+00:00
- - tags: ['personal']
-
- ## Code On Technologies
- - [https://www.codeontechnologies.com](https://www.codeontechnologies.com)
- - date_published: 2024-05-06T21:34:50.879268+00:00
 

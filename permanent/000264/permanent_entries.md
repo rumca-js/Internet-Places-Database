@@ -1,3 +1,71 @@
+ ## Home | Commencement
+ - [https://commencement.mit.edu](https://commencement.mit.edu)
+ - date_published: 2024-06-27T16:36:34+00:00
+
+ ## Institute Office of Communications | Massachusetts Institute of Technology
+ - [https://comms.mit.edu](https://comms.mit.edu)
+ - date_published: 2024-05-07T19:36:20.409053+00:00
+
+ ## MIT Schwarzman College of Computing
+ - [https://computing.mit.edu](https://computing.mit.edu)
+ - date_published: 2024-05-07T19:33:59.330514+00:00
+
+ ## MIT Copytech
+ - [https://copytech.mit.edu](https://copytech.mit.edu)
+ - date_published: 2024-07-01T13:03:57+00:00
+
+ ## courses.csail.mit.edu
+ - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
+ - date_published: 2016-02-18T05:29:48+00:00
+
+ ## MIT Press on COVID-19
+ - [https://covid-19.mitpress.mit.edu](https://covid-19.mitpress.mit.edu)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## MIT Covid Apps – Supporting Institute operations during the COVID-19 pandemic
+ - [https://covidapps.mit.edu](https://covidapps.mit.edu)
+ - date_published: 2024-06-29T02:52:56.751168+00:00
+
+ ## Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?
+ - [http://crowdensembles.csail.mit.edu](http://crowdensembles.csail.mit.edu)
+ - date_published: 2020-09-22T14:39:12+00:00
+
+ ## Home Page | MIT CSAIL
+ - [https://csail.mit.edu](https://csail.mit.edu)
+ - date_published: 2024-06-20T00:16:34+00:00
+
+ ## Computation Structures Group
+ - [http://csg.csail.mit.edu](http://csg.csail.mit.edu)
+ - date_published: 2019-12-02T22:57:39+00:00
+
+ ## MIT CSAIL Computer Systems Security Group
+ - [https://css.csail.mit.edu](https://css.csail.mit.edu)
+ - date_published: 2023-11-13T12:03:27+00:00
+
+ ## Daniela Rus – Robotics
+ - [http://danielarus.csail.mit.edu](http://danielarus.csail.mit.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Daper
+ - [https://daper.mit.edu](https://daper.mit.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Data Feminism
+ - [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## MIT Database Group
+ - [http://db.csail.mit.edu](http://db.csail.mit.edu)
+ - date_published: 2024-07-01T20:10:24.223424+00:00
+
+ ## Introduction to Data-Centric AI
+ - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
+ - date_published: 2023-10-25T18:53:49.969803+00:00
+
+ ## MIT Digital Currency Initiative
+ - [https://dci.mit.edu](https://dci.mit.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
  ## Debathena
  - [https://debathena.mit.edu](https://debathena.mit.edu)
  - date_published: 2016-11-13T21:08:10+00:00
@@ -3936,72 +4004,4 @@
  ## EOVSA - Home Page
  - [http://www.ovsa.njit.edu](http://www.ovsa.njit.edu)
  - date_published: 2024-07-01T16:10:07.460669+00:00
-
- ## Welcome | Otto H. York Center for Environmental Engineering and Science
- - [http://www.ycees.njit.edu](http://www.ycees.njit.edu)
- - date_published: 2024-07-01T08:46:26+00:00
-
- ## Salmon P. Chase College of Law
- - [https://chaselaw.nku.edu](https://chaselaw.nku.edu)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## 4-H Healthy Habits Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://4hhealthyhabits.nmsu.edu](https://4hhealthyhabits.nmsu.edu)
- - date_published: 2024-07-01T16:11:00.309185+00:00
-
- ## 4-H Projects Home
- - [https://4hprojects.nmsu.edu](https://4hprojects.nmsu.edu)
- - date_published: 2024-07-01T16:10:54.508216+00:00
-
- ## Accreditation | New Mexico State University
- - [https://accreditation.nmsu.edu](https://accreditation.nmsu.edu)
- - date_published: 2024-07-01T16:14:37.777778+00:00
-
- ## ACES About Home
- - [https://aces-about.nmsu.edu](https://aces-about.nmsu.edu)
- - date_published: 2024-05-07T19:47:50.508147+00:00
-
- ## Academic Programs Home
- - [https://aces-academics.nmsu.edu](https://aces-academics.nmsu.edu)
- - date_published: 2024-05-07T19:47:48.930373+00:00
-
- ## ACES Awards Home
- - [http://aces-awards.nmsu.edu](http://aces-awards.nmsu.edu)
- - date_published: 2024-07-01T16:15:29.989294+00:00
-
- ## Branding Resources Home
- - [http://aces-branding.nmsu.edu](http://aces-branding.nmsu.edu)
- - date_published: 2024-07-01T16:15:49.708703+00:00
-
- ## Business and Resource Planning Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://aces-business.nmsu.edu](https://aces-business.nmsu.edu)
- - date_published: 2024-07-01T16:15:51.268758+00:00
-
- ## CESFAS Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://aces-cesfas.nmsu.edu](https://aces-cesfas.nmsu.edu)
- - date_published: 2024-07-01T16:12:21.977735+00:00
-
- ## Chairs & Professorships Home
- - [https://aces-chairsandprofessorships.nmsu.edu](https://aces-chairsandprofessorships.nmsu.edu)
- - date_published: 2024-07-01T16:11:49.317873+00:00
-
- ## Home | New Mexico State University | BE BOLD. Shape the Future.
- - [http://aces-civilrights.nmsu.edu](http://aces-civilrights.nmsu.edu)
- - date_published: 2024-07-01T16:15:47.803300+00:00
-
- ## ACES Competitive Awards Home
- - [https://aces-competitiveawards.nmsu.edu](https://aces-competitiveawards.nmsu.edu)
- - date_published: 2024-07-01T16:15:55.246858+00:00
-
- ## ACES Dean Home
- - [https://aces-dean.nmsu.edu](https://aces-dean.nmsu.edu)
- - date_published: 2024-07-01T16:11:28.037635+00:00
-
- ## For Employees Home
- - [https://aces-employee.nmsu.edu](https://aces-employee.nmsu.edu)
- - date_published: 2024-05-07T19:47:28.006281+00:00
-
- ## Alumni and Giving Home
- - [https://aces-giving.nmsu.edu](https://aces-giving.nmsu.edu)
- - date_published: 2024-05-07T19:47:00.744286+00:00
 

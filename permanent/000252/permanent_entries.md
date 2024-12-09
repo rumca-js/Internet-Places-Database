@@ -1,3 +1,71 @@
+ ## Mit dem Zweiten wirbt man besser – ZDF Werbefernsehen
+ - [https://zdf-werbefernsehen.de](https://zdf-werbefernsehen.de)
+ - date_published: 2024-05-13T03:14:01.284466+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.zdf-werbung.de](https://piwik.zdf-werbung.de)
+ - date_published: 2024-07-17T08:07:54.731974+00:00
+
+ ## Startseite
+ - [https://zdi-portal.de](https://zdi-portal.de)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Download | ZDNet.de
+ - [https://downloads.zdnet.de](https://downloads.zdnet.de)
+ - date_published: 2024-07-01T08:34:12.495057+00:00
+
+ ## Registrieren Sie sich für unseren kostenlosen Newsletter in nur 60 Sekunden!
+ - [http://subscriber.zdnet.de](http://subscriber.zdnet.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## ZDNet.de
+ - [https://zdnet.de](https://zdnet.de)
+ - date_published: 2024-05-07T18:49:45.562787+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.zebralog.de](https://stats.zebralog.de)
+ - date_published: 2024-07-17T08:01:39.329224+00:00
+
+ ## Startseite
+ - [https://www.zebralog.de](https://www.zebralog.de)
+ - date_published: 2024-07-17T08:01:40.841463+00:00
+
+ ## ZEISS Gruppe
+ - [http://www.zeiss.de](http://www.zeiss.de)
+ - date_published: 2024-07-08T15:22:52.265717+00:00
+
+ ## DIE ZEIT und die ZEIT Magazine im Abo
+ - [https://abo.zeit.de](https://abo.zeit.de)
+ - date_published: 2024-04-29T07:11:54.596037+00:00
+
+ ## Welcher Beruf passt zu mir? - Der Berufstest von ZEIT Campus
+ - [https://berufstest.zeit.de](https://berufstest.zeit.de)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Blogs
+ - [https://blog.zeit.de](https://blog.zeit.de)
+ - date_published: 2024-04-29T07:12:36.743029+00:00
+
+ ## Briefkasten
+ - [https://briefkasten.zeit.de](https://briefkasten.zeit.de)
+ - date_published: 2024-06-28T21:41:04.646084+00:00
+
+ ## ZEIT ONLINE Startseite
+ - [https://cmk.zeit.de](https://cmk.zeit.de)
+ - date_published: 2024-04-29T07:00:14.167012+00:00
+
+ ## 403
+ - [https://datenschutz.zeit.de](https://datenschutz.zeit.de)
+ - date_published: 2024-04-29T07:12:24.987920+00:00
+
+ ## 404 Fehler
+ - [https://img.zeit.de](https://img.zeit.de)
+ - date_published: 2024-04-29T07:11:36.595535+00:00
+
+ ## Anzeigenerfassung | DIE ZEIT
+ - [https://inserieren.zeit.de](https://inserieren.zeit.de)
+ - date_published: 2024-04-29T07:12:50.059154+00:00
+
  ## ZEIT ONLINE Stellenmarkt - Jobbörse der ZEIT - Alle aktuellen Jobs im ZEIT ONLINE Stellenmarkt
  - [https://jobs.zeit.de](https://jobs.zeit.de)
  - date_published: 2024-02-16T00:00:00+00:00
@@ -3957,6 +4025,7 @@
  ## Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs
  - [https://countless.dev](https://countless.dev)
  - date_published: 2024-12-07T09:42:59+00:00
+ - tags: ['ranking page']
 
  ## cpx
  - [https://cpx.dev](https://cpx.dev)
@@ -3983,73 +4052,4 @@
  - [https://crazymax.dev](https://crazymax.dev)
  - date_published: 2024-04-08T19:27:34.886188+00:00
  - tags: ['personal']
-
- ## Doc
- - [https://doc.crds.dev](https://doc.crds.dev)
- - date_published: 2024-08-07T22:03:30.072896+00:00
-
- ## Create React App
- - [https://create-react-app.dev](https://create-react-app.dev)
- - date_published: 2022-03-24T20:09:17+00:00
-
- ## Christian Fei's Blog - cri.dev
- - [https://cri.dev](https://cri.dev)
- - date_published: 2023-10-25T08:58:26.480635+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://p.cri.dev](https://p.cri.dev)
- - date_published: 2024-04-29T07:34:06.303514+00:00
-
- ## Minimal Analytics
- - [https://s.cri.dev](https://s.cri.dev)
- - date_published: 2024-04-29T07:34:05.562487+00:00
-
- ## crowd.dev Changelog
- - [https://changelog.crowd.dev](https://changelog.crowd.dev)
- - date_published: 2024-07-18T13:06:14.310858+00:00
-
- ## crowd.dev | The Developer Data Platform
- - [https://crowd.dev](https://crowd.dev)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | Index
- - [https://docs.crowd.dev](https://docs.crowd.dev)
- - date_published: 2024-07-18T13:05:57.969724+00:00
-
- ## GO.CROWD.DEV - A Dub.co Custom Domain
- - [https://go.crowd.dev](https://go.crowd.dev)
- - date_published: 2024-07-18T13:06:09.399274+00:00
-
- ## Corbin Crutchley
- - [https://crutchcorn.dev](https://crutchcorn.dev)
- - date_published: 2024-07-02T20:47:15.492734+00:00
-
- ## Visual Studio Code for CS50
- - [https://cs50.dev](https://cs50.dev)
- - date_published: 2024-06-22T10:42:46.766783+00:00
-
- ## CSSBattle
- - [https://cssbattle.dev](https://cssbattle.dev)
- - date_published: 2024-09-04T06:46:46.542117+00:00
-
- ## Cthos (dot) Dev Mastodon
- - [https://mastodon.cthos.dev](https://mastodon.cthos.dev)
- - date_published: 2024-09-05T15:42:27.629652+00:00
-
- ## Chris Nicholas | Developer experience at Liveblocks
- - [https://ctnicholas.dev](https://ctnicholas.dev)
- - date_published: 2024-04-29T07:28:39.968298+00:00
-
- ## The Amazing CTO Book | Amazing CTO
- - [https://ctobook.dev](https://ctobook.dev)
- - date_published: 2024-07-26T12:49:07+00:00
-
- ## Cube — Semantic Layer for Building Data Applications
- - [https://cube.dev](https://cube.dev)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Cube Cloud – Deploy, Scale, and Optimize Your Cube Apps
- - [https://cubecloud.dev](https://cubecloud.dev)
- - date_published: 2024-08-08T23:24:24.640047+00:00
 

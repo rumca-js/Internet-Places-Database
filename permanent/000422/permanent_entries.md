@@ -1,3 +1,111 @@
+ ## SAFE website Login
+ - [https://safe.epcc.ed.ac.uk](https://safe.epcc.ed.ac.uk)
+ - date_published: 2024-06-17T17:29:17.275122+00:00
+
+ ## Search results | The University of Edinburgh
+ - [https://search.ed.ac.uk](https://search.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:50.026219+00:00
+
+ ## School of Mathematics Teaching
+ - [https://teaching.maths.ed.ac.uk](https://teaching.maths.ed.ac.uk)
+ - date_published: 2024-05-02T10:54:02.253074+00:00
+
+ ## Degree finder
+ - [https://undergraduate.degrees.ed.ac.uk](https://undergraduate.degrees.ed.ac.uk)
+ - date_published: 2024-10-17T06:37:22.145255+00:00
+
+ ## InfWeb | InfWeb
+ - [https://web.inf.ed.ac.uk](https://web.inf.ed.ac.uk)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Physics & Astronomy
+ - [http://www2.ph.ed.ac.uk](http://www2.ph.ed.ac.uk)
+ - date_published: 2024-06-20T14:45:50+00:00
+
+ ## Accommodation, Catering and Events at The University of Edinburgh
+ - [https://www.accom.ed.ac.uk](https://www.accom.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:49.061701+00:00
+
+ ## University of Edinburgh Business School
+ - [https://www.business-school.ed.ac.uk](https://www.business-school.ed.ac.uk)
+ - date_published: 2024-10-14T19:32:01.636477+00:00
+
+ ## Centre for the Study of Christian Origins
+ - [http://www.christianorigins.div.ed.ac.uk](http://www.christianorigins.div.ed.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home - Current Law Students
+ - [http://www.currentstudents.law.ed.ac.uk](http://www.currentstudents.law.ed.ac.uk)
+ - date_published: 2024-10-18T22:23:37.232547+00:00
+
+ ## The University of Edinburgh
+ - [https://www.ed.ac.uk](https://www.ed.ac.uk)
+ - date_published: 2024-02-26T15:42:27.741470+00:00
+
+ ## Edinburgh University Students' Association
+ - [https://www.eusa.ed.ac.uk](https://www.eusa.ed.ac.uk)
+ - date_published: 2024-08-07T12:06:45+00:00
+
+ ## Home | Edinburgh Law School
+ - [http://www.law.ed.ac.uk](http://www.law.ed.ac.uk)
+ - date_published: 2024-06-17T11:15:33.311374+00:00
+
+ ## LFCS | InfWeb
+ - [http://www.lfcs.inf.ed.ac.uk](http://www.lfcs.inf.ed.ac.uk)
+ - date_published: 2024-08-18T18:21:07.084648+00:00
+
+ ## School of Mathematics | School of Mathematics
+ - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
+ - date_published: 2023-10-25T22:48:35.495631+00:00
+
+ ## Reid School of Music | Edinburgh College of Art
+ - [http://www.music.ed.ac.uk](http://www.music.ed.ac.uk)
+ - date_published: 2024-08-08T03:36:53.927004+00:00
+
+ ## MyEd Student and Staff Portal
+ - [https://www.myed.ed.ac.uk](https://www.myed.ed.ac.uk)
+ - date_published: 2024-01-24T10:38:29+00:00
+
+ ## Physics & Astronomy
+ - [http://www.ph.ed.ac.uk](http://www.ph.ed.ac.uk)
+ - date_published: 2024-06-17T17:45:05+00:00
+
+ ## Log in - Your University Login - The University of Edinburgh
+ - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## University of Edinburgh Research Explorer
+ - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
+ - date_published: 2024-04-28T04:01:00.882394+00:00
+
+ ## Home | Tower Block
+ - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
+ - date_published: 2024-09-14T22:47:24.448503+00:00
+
+ ## Dashboard - Wiki Service
+ - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
+ - date_published: 2024-07-21T06:43:07.730143+00:00
+
+ ## Environmental Information Data Centre | EIDC
+ - [https://eidc.ac.uk](https://eidc.ac.uk)
+ - date_published: 2024-05-02T10:52:18.599276+00:00
+
+ ## Edinburgh Mathematical Society
+ - [https://ems.ac.uk](https://ems.ac.uk)
+ - date_published: 2024-06-17T17:51:20.737823+00:00
+
+ ## The English Association | The English Association
+ - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Enhancement Themes
+ - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
+ - date_published: 2024-07-04T09:50:42+00:00
+
+ ## Engineering and Physical Sciences Research Council (EPSRC)
+ - [http://epsrc.ac.uk](http://epsrc.ac.uk)
+ - date_published: 2024-07-08T17:37:09.965108+00:00
+
  ## Escape Studios | School of Animation, Games and VFX
  - [https://www.escapestudios.ac.uk](https://www.escapestudios.ac.uk)
  - date_published: 2024-10-20T03:46:35.312911+00:00
@@ -3901,112 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## GitHub - libvips/libvips: A fast image processing library with low memory needs.
  - [http://www.vips.ecs.soton.ac.uk](http://www.vips.ecs.soton.ac.uk)
  - date_published: 2024-03-14T00:00:00+00:00
-
- ## Zepler Institute
- - [https://zepler.soton.ac.uk](https://zepler.soton.ac.uk)
- - date_published: 2024-06-18T10:58:39+00:00
-
- ## University of Southampton Online Store
- - [https://store.southampton.ac.uk](https://store.southampton.ac.uk)
- - date_published: 2024-07-22T07:04:59.929624+00:00
-
- ## Homepage
- - [https://www.southampton.ac.uk](https://www.southampton.ac.uk)
- - date_published: 2024-05-02T12:29:57.550421+00:00
-
- ## SRHE | Society for Research into Higher Education | SRHE.ac.uk
- - [https://srhe.ac.uk](https://srhe.ac.uk)
- - date_published: 2024-10-19T10:18:37.330350+00:00
-
- ## Home
- - [https://www.sruc.ac.uk](https://www.sruc.ac.uk)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Jobs at Staffs
- - [https://jobs.staffs.ac.uk](https://jobs.staffs.ac.uk)
- - date_published: 2024-05-09T09:16:27.322459+00:00
-
- ## Home - Staffordshire University
- - [https://staffs.ac.uk](https://staffs.ac.uk)
- - date_published: 2023-12-12T13:24:55.758245+00:00
-
- ## Sign in to your account
- - [https://workvivo.staffs.ac.uk](https://workvivo.staffs.ac.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home - Staffordshire University London
- - [https://staffslondon.ac.uk](https://staffslondon.ac.uk)
- - date_published: 2024-05-09T09:16:30.519523+00:00
-
- ## CS Proxy Service
- - [http://www.dcs.st-and.ac.uk](http://www.dcs.st-and.ac.uk)
- - date_published: 2024-05-14T14:55:56+00:00
-
- ## MacTutor Index
- - [http://www-groups.dcs.st-and.ac.uk](http://www-groups.dcs.st-and.ac.uk)
- - date_published: 2024-06-28T08:29:32+00:00
-
- ## Research Computing Server
- - [https://arts.st-andrews.ac.uk](https://arts.st-andrews.ac.uk)
- - date_published: 2024-01-16T15:37:58+00:00
-
- ## Computer Science WordPress – School of Computer Science, University of St Andrews
- - [https://blogs.cs.st-andrews.ac.uk](https://blogs.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:47.657147+00:00
-
- ## Events
- - [https://events.st-andrews.ac.uk](https://events.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:42.143458+00:00
-
- ## Information for current CS students
- - [https://info.cs.st-andrews.ac.uk](https://info.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:46.757251+00:00
-
- ## IT Services blog – Latest news, advice and information from the IT Services team
- - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:46.498310+00:00
-
- ## MacTutor Index - MacTutor History of Mathematics
- - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:48.719060+00:00
-
- ## Home | Moodle
- - [https://moody.st-andrews.ac.uk](https://moody.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:38.746062+00:00
-
- ## News | University of St Andrews
- - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Research Computing Team
- - [https://researchcomputing.wp.st-andrews.ac.uk](https://researchcomputing.wp.st-andrews.ac.uk)
- - date_published: 2024-07-09T20:40:20.560995+00:00
-
- ## Special Collections blog
- - [https://special-collections.wp.st-andrews.ac.uk](https://special-collections.wp.st-andrews.ac.uk)
- - date_published: 2024-06-29T10:08:11.912096+00:00
-
- ## University of St Andrews - Scotland's first university, founded 1413
- - [https://st-andrews.ac.uk](https://st-andrews.ac.uk)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## WordPress at St Andrews
- - [https://wp.st-andrews.ac.uk](https://wp.st-andrews.ac.uk)
- - date_published: 2018-03-21T16:41:14+00:00
-
- ## School of Computer Science - University of St Andrews
- - [https://www.cs.st-andrews.ac.uk](https://www.cs.st-andrews.ac.uk)
- - date_published: 2024-05-08T07:35:46.046567+00:00
-
- ## Welcome
- - [https://www.vacancies.st-andrews.ac.uk](https://www.vacancies.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:43.358963+00:00
-
- ## WelcomePage - Starlink
- - [https://www.starlink.ac.uk](https://www.starlink.ac.uk)
- - date_published: 2024-10-16T08:39:38.776989+00:00
-
- ## Science and Technology Facilities Council (STFC)
- - [http://www.stfc.ac.uk](http://www.stfc.ac.uk)
- - date_published: 2024-07-02T10:06:11.708286+00:00
 

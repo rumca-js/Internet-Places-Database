@@ -1,3 +1,15 @@
+ ## Capgemini Investors EN
+ - [https://investors.capgemini.com](https://investors.capgemini.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Capgemini – home page – Get the future you want - Capgemini
+ - [https://prod.ucwe.capgemini.com](https://prod.ucwe.capgemini.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Reports 2022 - Capgemini
+ - [https://reports.capgemini.com](https://reports.capgemini.com)
+ - date_published: 2024-05-08T04:21:46.791905+00:00
+
  ## Capgemini Engineering
  - [https://capgemini-engineering.com](https://capgemini-engineering.com)
  - date_published: 2023-03-28T10:29:34+00:00
@@ -4019,17 +4031,4 @@
  ## 宁德时代校招 | 宁德时代社招 | 宁德时代招聘官网
  - [https://talent.catl.com](https://talent.catl.com)
  - date_published: 2024-04-17T00:00:00+00:00
-
- ## 宁德时代·CATL
- - [https://www.catl.com](https://www.catl.com)
- - date_published: 2023-10-25T13:19:14.141081+00:00
-
- ## GitHub - cdiggins/cat-language: Cat - a statically typed functional stack-based programming language
- - [http://www.cat-language.com](http://www.cat-language.com)
- - date_published: 2024-07-08T11:40:51.108697+00:00
- - tags: ['programming language']
-
- ## Catlike Coding
- - [https://catlikecoding.com](https://catlikecoding.com)
- - date_published: 2023-11-08T19:53:36+00:00
 

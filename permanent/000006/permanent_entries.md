@@ -533,6 +533,10 @@
  - [https://streaks.app](https://streaks.app)
  - date_published: 2024-05-01T01:38:09+00:00
 
+ ## Show HN: Cut the crap – remove the AI bullshit from websites
+ - [https://cut-the-crab.streamlit.app](https://cut-the-crab.streamlit.app)
+ - date_published: 2024-12-08T10:59:39+00:00
+
  ## https://nl-compare.streamlit.app
  - [https://nl-compare.streamlit.app](https://nl-compare.streamlit.app)
  - date_published: 2024-01-30T23:17:28.574256+00:00
@@ -969,6 +973,10 @@
  ## TonicPow - A promotion marketplace for the Bitcoin era
  - [https://tpow.app](https://tpow.app)
  - date_published: 2023-10-16T16:42:11+00:00
+
+ ## Muscle Body
+ - [https://www.trainlikeme.app](https://www.trainlikeme.app)
+ - date_published: 2024-12-08T04:36:58+00:00
 
  ## Tramline - The Mobile DevOps Platform
  - [https://www.tramline.app](https://www.tramline.app)
@@ -4011,13 +4019,4 @@
  ## XDAO – MultiChain DAO Ecosystem
  - [https://www.xdao.app](https://www.xdao.app)
  - date_published: 2024-09-25T11:16:29.271698+00:00
-
- ## Xemu: Original Xbox Emulator
- - [https://xemu.app](https://xemu.app)
- - date_published: 2024-04-07T17:18:37+00:00
- - tags: ['xbox', 'emulator']
-
- ## Coming Soon
- - [https://xibit.app](https://xibit.app)
- - date_published: 2024-09-21T23:41:10.505853+00:00
 

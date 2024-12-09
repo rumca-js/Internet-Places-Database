@@ -1,3 +1,75 @@
+ ## Welcome
+ | Yale West Campus
+ - [https://westcampus.yale.edu](https://westcampus.yale.edu)
+ - date_published: 2024-07-02T14:57:21+00:00
+
+ ## Wright Laboratory
+ - [https://wlab.yale.edu](https://wlab.yale.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Maurice R. Greenberg World Fellows Program – At Yale University
+ - [https://worldfellows.yale.edu](https://worldfellows.yale.edu)
+ - date_published: 2024-06-23T12:22:27+00:00
+
+ ## Welcome
+ | International Toolkit
+ - [https://world-toolkit.yale.edu](https://world-toolkit.yale.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Yale and the World |
+ - [https://world.yale.edu](https://world.yale.edu)
+ - date_published: 2024-05-07T22:43:59.761008+00:00
+
+ ## redirecting...
+ - [https://www.eng.yale.edu](https://www.eng.yale.edu)
+ - date_published: 2016-05-25T16:11:51+00:00
+
+ ## Yale Sustainable Food Program
+ - [https://www.sustainablefood.yale.edu](https://www.sustainablefood.yale.edu)
+ - date_published: 2024-07-02T15:45:57.848991+00:00
+
+ ## Home - Yale University Press
+ - [https://yalebooks.yale.edu](https://yalebooks.yale.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Yale College
+ - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Yale University
+ - [https://yaleconnect.yale.edu](https://yaleconnect.yale.edu)
+ - date_published: 2024-07-02T16:03:21.284611+00:00
+
+ ## Yale University
+ - [https://yale.edu](https://yale.edu)
+ - date_published: 2024-05-07T22:43:02.347115+00:00
+
+ ## Yale Health Center
+ - [https://yalehealth.yale.edu](https://yalehealth.yale.edu)
+ - date_published: 2024-05-07T22:41:51.266407+00:00
+
+ ## Welcome | Yale Identity
+ - [https://yaleidentity.yale.edu](https://yaleidentity.yale.edu)
+ - date_published: 2024-06-26T11:58:08+00:00
+
+ ## Welcome
+ | Department of Music
+ - [https://yalemusic.yale.edu](https://yalemusic.yale.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - Yale University Press
+ - [http://yalepress.yale.edu](http://yalepress.yale.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://yalereview.yale.edu](https://yalereview.yale.edu)
+ - date_published: 2024-05-15T03:01:06.317518+00:00
+
+ ## Welcome
+ | Yale Well
+ - [https://yalewell.yale.edu](https://yalewell.yale.edu)
+ - date_published: 2024-07-02T13:15:39+00:00
+
  ## Yale Center for Research Computing
  - [https://ycrc.yale.edu](https://ycrc.yale.edu)
  - date_published: 2024-07-02T13:16:43+00:00
@@ -2093,6 +2165,7 @@
  ## Nyxt browser: The hacker's browser
  - [https://nyxt.atlas.engineer](https://nyxt.atlas.engineer)
  - date_published: 2023-10-27T11:57:07.797367+00:00
+ - tags: ['web browser']
 
  ## Nyxt store
  - [https://store.nyxt.atlas.engineer](https://store.nyxt.atlas.engineer)
@@ -3946,72 +4019,4 @@
  ## Inicio | Ciudadanía Digital de Castilla-La Mancha
  - [https://ciudadaniadigital.castillalamancha.es](https://ciudadaniadigital.castillalamancha.es)
  - date_published: 2024-09-10T21:06:53.871986+00:00
-
- ## Inicio | Gobierno de Castilla-La Mancha
- - [https://www.castillalamancha.es](https://www.castillalamancha.es)
- - date_published: 2024-08-08T19:04:56.540673+00:00
-
- ## Catálogos online, Promociones y Ofertas -
- - [https://catalogosydescuentos.es](https://catalogosydescuentos.es)
- - date_published: 2024-05-11T10:50:56.470752+00:00
-
- ## Cataloxy   es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!  España
- - [https://www.cataloxy.es](https://www.cataloxy.es)
- - date_published: 2024-06-29T19:39:38.243452+00:00
-
- ## Inicio - Cátedra de derecho notarial
- - [https://www.catedraderechonotarial.es](https://www.catedraderechonotarial.es)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Cátedra de la Marca Corporativa de la Universidad de Alicante (España)
- - [https://catedramarcacorporativa.es](https://catedramarcacorporativa.es)
- - date_published: 2024-10-15T02:56:58.710789+00:00
-
- ## Web del Consejo de Cooperación Bibliotecaria - CCB
- - [http://www.ccbiblio.es](http://www.ccbiblio.es)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Consejo de Colegios de Ingeniería Informática
- - [https://ccii.es](https://ccii.es)
- - date_published: 2019-01-21T11:29:33+00:00
-
- ## Comisión Española de Ayuda al Refugiado - CEAR
- - [https://www.cear.es](https://www.cear.es)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## CEDID, Centro español de documentación e investigación sobre discapacidad
- - [https://cedid.es](https://cedid.es)
- - date_published: 2024-06-12T11:15:59.099211+00:00
-
- ## RIBERDIS
- - [http://riberdis.cedid.es](http://riberdis.cedid.es)
- - date_published: 2024-09-12T11:55:10.193102+00:00
-
- ## CEI: Centro de Estudios de Innovación - Diseño y Marketing
- - [https://cei.es](https://cei.es)
- - date_published: 2020-11-18T19:33:25+00:00
-
- ## Cepsa Particulares: Gasolineras, carga eléctrica y lavado cerca de ti
- - [https://www.cepsa.es](https://www.cepsa.es)
- - date_published: 2024-08-08T19:03:45.316148+00:00
-
- ## CERMI| Comité Español de Representantes de Personas con Discapacidad
- - [https://cermi.es](https://cermi.es)
- - date_published: 2024-06-12T11:16:00.778692+00:00
-
- ## Comunidad para la sostenibilidad del sector social | COMPASSS
- - [https://compasss.cermi.es](https://compasss.cermi.es)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Exámenes - Instituto Cervantes |
- - [https://examenes.cervantes.es](https://examenes.cervantes.es)
- - date_published: 2024-10-15T00:53:40+00:00
-
- ## Instituto Cervantes v Praze.
- - [https://praga.cervantes.es](https://praga.cervantes.es)
- - date_published: 2024-07-17T08:46:39.404249+00:00
-
- ## Instituto Cervantes
- - [http://www.cervantes.es](http://www.cervantes.es)
- - date_published: 2024-10-15T01:00:28+00:00
 

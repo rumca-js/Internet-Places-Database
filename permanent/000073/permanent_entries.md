@@ -1,3 +1,15 @@
+ ## Channel Partners Conference & Expo - World's Largest Channel Event
+ - [https://channelpartnersconference.com](https://channelpartnersconference.com)
+ - date_published: 2024-09-15T12:41:01+00:00
+
+ ## Product Management Tool for Online Shops - Channel Pilot Pro
+ - [https://channelpilot.com](https://channelpilot.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Channel Pilot Pro | Login
+ - [https://go.channelpilot.com](https://go.channelpilot.com)
+ - date_published: 2024-06-25T23:17:07.468334+00:00
+
  ## Channel Post MEA
  - [https://channelpostmea.com](https://channelpostmea.com)
  - date_published: 2024-09-02T00:00:00+00:00
@@ -4012,16 +4024,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  ## Chiplets Make Huge Chips Happen
  - [https://chipletsummit.com](https://chipletsummit.com)
  - date_published: 2024-08-05T00:00:00+00:00
-
- ## Cronometraje y Gestión de eventos deportivos - CHIPLEVANTE
- - [https://www.chiplevante.com](https://www.chiplevante.com)
- - date_published: 2024-10-15T02:44:33.862619+00:00
-
- ## Chipley Gun & Pawn
- - [http://chipleypawnshop.com](http://chipleypawnshop.com)
- - date_published: 2024-06-29T23:03:00.562571+00:00
-
- ## Mexican Food - Restaurant &amp; Catering - Chipotle Mexican Grill
- - [https://www.chipotle.com](https://www.chipotle.com)
- - date_published: 2024-04-12T00:00:00+00:00
 

@@ -1,3 +1,15 @@
+ ## FTL: Faster Than Light Wiki
+ - [https://ftl.fandom.com](https://ftl.fandom.com)
+ - date_published: 2024-05-02T14:49:16.804081+00:00
+
+ ## Fujiko Fujio Wiki
+ - [https://fujiko-fujio.fandom.com](https://fujiko-fujio.fandom.com)
+ - date_published: 2024-06-16T21:14:03+00:00
+
+ ## Fuller House Wiki
+ - [https://fuller-house.fandom.com](https://fuller-house.fandom.com)
+ - date_published: 2024-06-16T21:47:26+00:00
+
  ## Full House
  - [https://fullhouse.fandom.com](https://fullhouse.fandom.com)
  - date_published: 2024-07-05T16:13:26+00:00
@@ -3987,17 +3999,4 @@
  ## Marina and the Diamonds Wiki
  - [https://marinaandthediamonds.fandom.com](https://marinaandthediamonds.fandom.com)
  - date_published: 2024-06-17T16:15:07+00:00
-
- ## Mario Wiki
- - [https://mario.fandom.com](https://mario.fandom.com)
- - date_published: 2024-03-22T00:00:00+00:00
- - tags: ['mario']
-
- ## Super Mario Fanon
- - [https://mariofanon.fandom.com](https://mariofanon.fandom.com)
- - date_published: 2024-06-17T08:16:29+00:00
-
- ## Mario Kart Racing Wiki
- - [https://mariokart.fandom.com](https://mariokart.fandom.com)
- - date_published: 2024-06-17T13:01:18+00:00
 

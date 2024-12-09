@@ -1,3 +1,79 @@
+ ## PayU MEA
+ - [https://merchantportal.payu.co.ke](https://merchantportal.payu.co.ke)
+ - date_published: 2024-07-17T09:09:39.069377+00:00
+
+ ## Philips - Kenya
+ - [https://www.philips.co.ke](https://www.philips.co.ke)
+ - date_published: 2024-10-30T21:29:14+00:00
+
+ ## Breaking News & Top Stories
+ - [https://pulselive.co.ke](https://pulselive.co.ke)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Latest Sports News &amp; Updates
+ - [https://www.pulsesports.co.ke](https://www.pulsesports.co.ke)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Safaricom Chapa Dimba | Youth Football Tournament
+ - [https://chapadimba.safaricom.co.ke](https://chapadimba.safaricom.co.ke)
+ - date_published: 2024-06-29T13:42:57.202771+00:00
+
+ ## Safaricom Golf Tour | Every Shot is an Opportunity
+ - [https://golftour.safaricom.co.ke](https://golftour.safaricom.co.ke)
+ - date_published: 2024-06-29T13:42:49.598052+00:00
+
+ ## My Safaricom World | Safaricom
+ - [https://myaccount.safaricom.co.ke](https://myaccount.safaricom.co.ke)
+ - date_published: 2024-06-29T13:48:30.801245+00:00
+
+ ## Safaricom Newsroom | News & Stories of Lives Transformation
+ - [https://newsroom.safaricom.co.ke](https://newsroom.safaricom.co.ke)
+ - date_published: 2024-06-29T13:42:44.771593+00:00
+
+ ## Safaricom Roaming
+ - [https://roaming.safaricom.co.ke](https://roaming.safaricom.co.ke)
+ - date_published: 2024-06-29T13:42:52+00:00
+
+ ## Safaricom : Premier Mobile, Data, & M-PESA Services
+ - [https://safaricom.co.ke](https://safaricom.co.ke)
+ - date_published: 2024-05-07T10:57:59.118897+00:00
+
+ ## Safaricom | Safaricom Digital Business Hub
+ - [https://www.business.safaricom.co.ke](https://www.business.safaricom.co.ke)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## safaricomjazzfestival.co.ke
+ - [https://safaricomjazzfestival.co.ke](https://safaricomjazzfestival.co.ke)
+ - date_published: 2024-06-29T13:42:45.462296+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.co.ke](https://www.sgs.co.ke)
+ - date_published: 2024-09-10T12:51:28.545087+00:00
+
+ ## Musings of a Young Kenyan – Data, programming and other things
+ - [http://sidneyochieng.co.ke](http://sidneyochieng.co.ke)
+ - date_published: 2021-02-25T00:00:00+00:00
+
+ ## TAG Brand Studio – We build & implement sustainable digital marketing models that put people and product at the center of every conversation
+ - [https://tag.co.ke](https://tag.co.ke)
+ - date_published: 2024-06-17T17:23:03.430724+00:00
+
+ ## Tala Loan App Kenya | Apply in 5 mins for Fast Loans up to KSh 50,000
+ - [https://tala.co.ke](https://tala.co.ke)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## The EastAfrican
+ - [https://www.theeastafrican.co.ke](https://www.theeastafrican.co.ke)
+ - date_published: 2023-10-25T20:17:16.702238+00:00
+
+ ## The Star
+ - [https://www.the-star.co.ke](https://www.the-star.co.ke)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home - Top News
+ - [https://topnews.co.ke](https://topnews.co.ke)
+ - date_published: 2024-01-08T13:03:11.349516+00:00
+
  ## Tropikal Brands Africa – Life is Better With Family
  - [https://tropikal.co.ke](https://tropikal.co.ke)
  - date_published: 2024-06-14T17:01:12+00:00
@@ -3936,80 +4012,4 @@
  ## LITHERLAND | design + type + text
  - [https://lither.land](https://lither.land)
  - date_published: 2024-08-06T23:28:53.392586+00:00
-
- ## the Floopy Drive
- - [https://loopy.land](https://loopy.land)
- - date_published: 2024-05-25T21:18:19+00:00
-
- ## Lume, the static site generator for Deno
- - [https://lume.land](https://lume.land)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## M1n
- - [https://m1n.land](https://m1n.land)
- - date_published: 2024-08-07T20:31:24.994809+00:00
-
- ## Makeup Artist Directory by 💄makeup.land
- - [https://makeup.land](https://makeup.land)
- - date_published: 2024-10-31T06:48:25.881281+00:00
-
- ## Marco Land Handyfoto Foundation
- - [https://handyfotos.marco.land](https://handyfotos.marco.land)
- - date_published: 2024-11-25T17:16:09.373834+00:00
-
- ## ON — OFF
- - [http://onoff.marco.land](http://onoff.marco.land)
- - date_published: 2022-10-24T20:01:21+00:00
-
- ## masto.land
- - [https://social.masto.land](https://social.masto.land)
- - date_published: 2024-08-19T06:09:21.038266+00:00
-
- ## welcome. | maya.land
- - [https://maya.land](https://maya.land)
- - date_published: 2023-10-25T20:17:42.650479+00:00
-
- ## The atomic web toolkit for pragmatists | a17t
- - [https://a17t.miles.land](https://a17t.miles.land)
- - date_published: 2023-10-25T20:17:43.810118+00:00
-
- ## R. Miles McCain | About, contact, and portfolio
- - [https://miles.land](https://miles.land)
- - date_published: 2023-10-25T20:17:44.827325+00:00
-
- ## Mesehub
- - [https://git.minetest.land](https://git.minetest.land)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Confbrew
- - [https://confbrew.motif.land](https://confbrew.motif.land)
- - date_published: 2024-06-19T21:07:12.683001+00:00
-
- ## mycel
- - [https://mycel.land](https://mycel.land)
- - date_published: 2024-09-25T16:03:10.087918+00:00
-
- ## Naji - Music Artist & Storyteller.
- - [https://naji.land](https://naji.land)
- - date_published: 2024-12-07T17:50:54.300595+00:00
-
- ## nami.land
- - [https://nami.land](https://nami.land)
- - date_published: 2023-10-25T20:17:45.915791+00:00
-
- ## nest.land
- - [https://nest.land](https://nest.land)
- - date_published: 2024-05-07T10:17:30.016970+00:00
-
- ## Nest OG Image Generator
- - [https://og.nest.land](https://og.nest.land)
- - date_published: 2024-06-29T09:48:29.149293+00:00
-
- ## Browse :: Nyaa
- - [https://nyaa.land](https://nyaa.land)
- - date_published: 2024-05-07T10:49:36.262837+00:00
-
- ## This page is no longer available due to ending availability of Gatsby Cloud.
- - [https://oio.land](https://oio.land)
- - date_published: 2023-10-25T20:17:46.574075+00:00
 

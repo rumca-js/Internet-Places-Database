@@ -1,3 +1,11 @@
+ ## Whistleblower-System
+ - [https://wmo.hintbox.ch](https://wmo.hintbox.ch)
+ - date_published: 2024-04-28T02:25:09.379313+00:00
+
+ ## Hirschmann-Stiftung
+ - [https://hirschmann-stiftung.ch](https://hirschmann-stiftung.ch)
+ - date_published: 2024-05-11T11:08:44.843259+00:00
+
  ## Go HitchHike
  - [https://go.hitchhike.ch](https://go.hitchhike.ch)
  - date_published: 2024-07-16T22:18:43.340662+00:00
@@ -4010,12 +4018,4 @@
  ## TVO Online | TVO Online
  - [http://www.tvo-online.ch](http://www.tvo-online.ch)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## TVZ Theologischer Verlag Zürich
- - [http://tvz-verlag.ch](http://tvz-verlag.ch)
- - date_published: 2024-06-28T21:19:27.909684+00:00
-
- ## twks - advertising and design services | twks
- - [https://twks.ch](https://twks.ch)
- - date_published: 2024-08-11T07:49:44.645030+00:00
 

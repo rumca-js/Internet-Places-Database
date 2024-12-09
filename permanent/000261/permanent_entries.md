@@ -1,3 +1,71 @@
+ ## FIU Digital Commons | Florida International University Research
+ - [https://digitalcommons.fiu.edu](https://digitalcommons.fiu.edu)
+ - date_published: 2014-12-01T00:00:00+00:00
+
+ ## FIU Discovery
+ - [https://discovery.fiu.edu](https://discovery.fiu.edu)
+ - date_published: 2024-07-22T04:17:41.451413+00:00
+
+ ## DocuSign at FIU - FIU DocuSign
+ - [https://docusign.fiu.edu](https://docusign.fiu.edu)
+ - date_published: 2024-07-22T04:16:40.326809+00:00
+
+ ## eCollections | Florida International University College of Law
+ - [https://ecollections.law.fiu.edu](https://ecollections.law.fiu.edu)
+ - date_published: 2024-07-14T23:30:15.535739+00:00
+
+ ## Environmental Health and Safety
+ - [https://ehs.fiu.edu](https://ehs.fiu.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Center for Community Impact and Public Purpose
+ - [https://engagement.fiu.edu](https://engagement.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Redirect
+ - [https://faculty.fiu.edu](https://faculty.fiu.edu)
+ - date_published: 2018-03-23T16:28:29+00:00
+
+ ## Florida International University in Miami, FL
+ - [https://fiu.edu](https://fiu.edu)
+ - date_published: 2024-07-22T04:01:54+00:00
+
+ ## Florida International University Online
+ - [https://fiuonline.fiu.edu](https://fiuonline.fiu.edu)
+ - date_published: 2024-07-22T04:17:36.245697+00:00
+
+ ## Phillip & Patricia Frost Art Museum
+ - [https://frost.fiu.edu](https://frost.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Foundation
+ - [https://give.fiu.edu](https://give.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Global Learning
+ - [https://goglobal.fiu.edu](https://goglobal.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Jack D. Gordon Institute for Public Policy
+ - [https://gordoninstitute.fiu.edu](https://gordoninstitute.fiu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home - University Graduate School
+ - [http://gradschool.fiu.edu](http://gradschool.fiu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Chaplin School of Hospitality &amp; Tourism Management
+ - [http://hospitality.fiu.edu](http://hospitality.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## System Status - AskIT Service Portal
+ - [https://italerts.fiu.edu](https://italerts.fiu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## FIU Division of Information Technology - FIU's central technology service provider
+ - [https://it.fiu.edu](https://it.fiu.edu)
+ - date_published: 2024-07-17T21:31:12+00:00
+
  ## Jewish Museum of Florida
  - [https://jmof.fiu.edu](https://jmof.fiu.edu)
  - date_published: 2024-07-21T00:00:00+00:00
@@ -3937,73 +4005,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## The Reading Room - Georgia State University College of Law digital archive
  - [http://readingroom.law.gsu.edu](http://readingroom.law.gsu.edu)
  - date_published: 2024-07-22T02:26:11.899005+00:00
-
- ## Georgia State Recreational Services - Recreational Services
- - [https://recreation.gsu.edu](https://recreation.gsu.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Office of the Registrar
- - [https://registrar.gsu.edu](https://registrar.gsu.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## University Research
- - [https://research.gsu.edu](https://research.gsu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sign In
- - [https://researchportal.gsu.edu](https://researchportal.gsu.edu)
- - date_published: 2024-08-18T02:24:31.208043+00:00
-
- ## Retired or Planning to Retire? | University System of Georgia
- - [https://retirees.hr.gsu.edu](https://retirees.hr.gsu.edu)
- - date_published: 2024-07-22T17:48:11+00:00
-
- ## Rialto | Rialto Center for the Arts
- - [https://rialto.gsu.edu](https://rialto.gsu.edu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Insurance and Risk Management
- - [https://risk.gsu.edu](https://risk.gsu.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Robinson College of Business
- - [https://robinson.gsu.edu](https://robinson.gsu.edu)
- - date_published: 2024-07-20T22:38:31.895214+00:00
-
- ## Rooms, Reservations, & Events -
-        Georgia State University Library
- - [https://rooms.library.gsu.edu](https://rooms.library.gsu.edu)
- - date_published: 2024-07-22T02:23:27.933601+00:00
-
- ## Georgia State Army ROTC - Georgia State Army ROTC
- - [https://rotc.gsu.edu](https://rotc.gsu.edu)
- - date_published: 2024-07-22T00:03:18.943138+00:00
-
- ## SACSCOC Accreditation - SACSCOC Accreditation
- - [https://sacscoc.gsu.edu](https://sacscoc.gsu.edu)
- - date_published: 2024-07-22T02:15:31.782473+00:00
-
- ## Committed to Keeping You Safe
- - [https://safety.gsu.edu](https://safety.gsu.edu)
- - date_published: 2024-04-30T04:31:48.797135+00:00
-
- ## Open Access Institutional Repository of Georgia State University
- - [http://scholarworks.gsu.edu](http://scholarworks.gsu.edu)
- - date_published: 2024-07-22T02:23:18.404506+00:00
-
- ## University Senate - Georgia State University Senate
- - [https://senate.gsu.edu](https://senate.gsu.edu)
- - date_published: 2024-04-30T04:30:11.563900+00:00
-
- ## Home | Send A File
- - [https://sendafile.gsu.edu](https://sendafile.gsu.edu)
- - date_published: 2024-04-30T04:34:22.822012+00:00
-
- ## Auxiliary Services - Auxiliary Services
- - [https://services.gsu.edu](https://services.gsu.edu)
- - date_published: 2024-04-30T04:30:19.316340+00:00
-
- ## Student Financial Services - Georgia State
- - [https://sfs.gsu.edu](https://sfs.gsu.edu)
- - date_published: 2024-02-15T00:00:00+00:00
 

@@ -1,3 +1,60 @@
+ ## Vista Forums
+ - [https://www.vistax64.com](https://www.vistax64.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Now It All Adds Up | Vistex®
+ - [https://www.vistex.com](https://www.vistex.com)
+ - date_published: 2024-07-08T10:32:50.009233+00:00
+
+ ## Home - The Vistria Group
+ - [http://www.vistria.com](http://www.vistria.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## 邢台械人科技有限公司
+ - [http://www.visualastronomy.com](http://www.visualastronomy.com)
+ - date_published: 2024-08-18T20:28:12.553985+00:00
+
+ ## Home
+ - [https://advisor.visualcapitalist.com](https://advisor.visualcapitalist.com)
+ - date_published: 2013-10-21T14:49:21+00:00
+
+ ## Decarbonization Channel by Visual Capitalist and NPUC
+ - [https://decarbonization.visualcapitalist.com](https://decarbonization.visualcapitalist.com)
+ - date_published: 2021-03-29T14:49:21+00:00
+
+ ## Home
+ - [https://elements.visualcapitalist.com](https://elements.visualcapitalist.com)
+ - date_published: 2021-03-29T14:49:21+00:00
+
+ ## Visual Capitalist Licensing – License infographics from Visual Capitalist
+ - [https://licensing.visualcapitalist.com](https://licensing.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:16.604094+00:00
+
+ ## Home - The Money Project
+ - [https://money.visualcapitalist.com](https://money.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:06.565402+00:00
+
+ ## The Visual Capitalist Store – Shop the latest merch from Visual Capitalist.
+ - [https://store.visualcapitalist.com](https://store.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:14.872253+00:00
+
+ ## Visual Capitalist
+ - [https://visualcapitalist.com](https://visualcapitalist.com)
+ - date_published: 2013-10-21T14:49:21+00:00
+ - tags: ['statistics', 'visualisation']
+
+ ## Wealth 101
+ - [https://wealth.visualcapitalist.com](https://wealth.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:12.576359+00:00
+
+ ## VCR: Visual Commonsense Reasoning
+ - [https://visualcommonsense.com](https://visualcommonsense.com)
+ - date_published: 2019-11-26T00:23:37+00:00
+
+ ## Visual C++ .Net programming tutorial: learn step by step C++ .NET programming through program examples and source code samples
+ - [https://www.visualcplusdotnet.com](https://www.visualcplusdotnet.com)
+ - date_published: 2019-01-31T15:30:08+00:00
+
  ## VisualCron | Partners
  - [https://partners.visualcron.com](https://partners.visualcron.com)
  - date_published: 2024-10-03T12:04:09+00:00
@@ -3992,60 +4049,4 @@
  ## Home Page
  - [https://vwcorporatefleet.com](https://vwcorporatefleet.com)
  - date_published: 2024-05-07T11:04:08.082958+00:00
-
- ## Redirecting...
- - [https://vwcourtsettlement.com](https://vwcourtsettlement.com)
- - date_published: 2021-11-19T19:20:40+00:00
-
- ## V WEB Thailand | V Build WIX Websites for You
- - [http://www.vwebth.com](http://www.vwebth.com)
- - date_published: 2024-08-11T21:44:31.761533+00:00
-
- ## Innovation and Engineering Center California
- - [https://vwiecc.com](https://vwiecc.com)
- - date_published: 2024-07-12T07:21:17.470311+00:00
-
- ## VWO | Digital Experience Optimization
- - [https://affiliates.vwo.com](https://affiliates.vwo.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## VWO - Application
- - [https://app.vwo.com](https://app.vwo.com)
- - date_published: 2024-05-08T09:50:24.576448+00:00
-
- ## VWO
- - [https://help.vwo.com](https://help.vwo.com)
- - date_published: 2024-07-04T15:33:09.464689+00:00
-
- ## VWO | Digital Experience Optimization
- - [https://vwo.com](https://vwo.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Please sign in
- - [https://certs.vwpartnerprogram.com](https://certs.vwpartnerprogram.com)
- - date_published: 2024-06-29T14:22:05.652143+00:00
-
- ## Home
- - [https://vwpartnerprogram.com](https://vwpartnerprogram.com)
- - date_published: 2024-05-07T11:03:56.023626+00:00
-
- ## Official Volkswagen Owners Resource | Genuine VW Service and Parts
- - [https://vwserviceandparts.com](https://vwserviceandparts.com)
- - date_published: 2024-05-07T11:03:50.081706+00:00
-
- ## WP Themes - Best Professional WordPress Themes and Templates
- - [https://www.vwthemes.com](https://www.vwthemes.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Volkswagen Tire Center
- - [https://www.vwtirestore.com](https://www.vwtirestore.com)
- - date_published: 2024-06-29T14:21:59.143884+00:00
-
- ## Home - VX Company
- - [https://vxcompany.com](https://vxcompany.com)
- - date_published: 2024-07-20T13:18:01+00:00
-
- ## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://api.vxtwitter.com](https://api.vxtwitter.com)
- - date_published: 2024-05-07T11:04:15.623291+00:00
 

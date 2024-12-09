@@ -1,3 +1,75 @@
+ ## Portal Selection :: Indian Institute of Technology Delhi
+ - [https://ecampus.iitd.ac.in](https://ecampus.iitd.ac.in)
+ - date_published: 2024-09-13T18:18:49.816436+00:00
+
+ ## Home Page : IIT Delhi
+ - [https://home.iitd.ac.in](https://home.iitd.ac.in)
+ - date_published: 2024-07-04T10:25:12.979845+00:00
+
+ ## Infrastructure Unit | Indian Institute of Technology Delhi
+ - [http://infra.iitd.ac.in](http://infra.iitd.ac.in)
+ - date_published: 2024-09-13T18:18:30+00:00
+
+ ## IIT Delhi Moodle for 2024-2025: Log in to the site
+ - [https://moodle.iitd.ac.in](https://moodle.iitd.ac.in)
+ - date_published: 2024-09-13T18:18:58.085473+00:00
+
+ ## PhD Programme@CSE/SIT
+ - [http://phd.cse.iitd.ac.in](http://phd.cse.iitd.ac.in)
+ - date_published: 2024-06-06T10:42:47+00:00
+
+ ## IIT Delhi - Login
+ - [https://webmail.iitd.ac.in](https://webmail.iitd.ac.in)
+ - date_published: 2024-09-13T18:21:07.267424+00:00
+
+ ## Department of Computer Science and Engineering, IIT Delhi
+ - [https://www.cse.iitd.ac.in](https://www.cse.iitd.ac.in)
+ - date_published: 2024-05-04T15:26:32.945675+00:00
+
+ ## Home Page : IIT Delhi
+ - [http://www.iitd.ac.in](http://www.iitd.ac.in)
+ - date_published: 2024-06-22T09:14:52.689160+00:00
+
+ ## Indian Institute of Technology Guwahati
+ - [http://www.iitg.ac.in](http://www.iitg.ac.in)
+ - date_published: 2024-07-10T05:44:29.239585+00:00
+
+ ## IIT Gandhinagar | Home
+ - [http://www.iitgn.ac.in](http://www.iitgn.ac.in)
+ - date_published: 2024-09-11T17:46:47.956357+00:00
+
+ ## Home
+ - [http://www.iith.ac.in](http://www.iith.ac.in)
+ - date_published: 2024-06-22T12:51:03+00:00
+
+ ## IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर
+ - [http://www.iiti.ac.in](http://www.iiti.ac.in)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## IITJ-Indian Institute of Technology Jodhpur
+ - [http://home.iitj.ac.in](http://home.iitj.ac.in)
+ - date_published: 2024-08-07T15:23:59.300389+00:00
+
+ ## IITJ-Indian Institute of Technology Jodhpur
+ - [https://iitj.ac.in](https://iitj.ac.in)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## CSE - IIT Kanpur
+ - [https://www.cse.iitk.ac.in](https://www.cse.iitk.ac.in)
+ - date_published: 2024-06-20T09:19:18+00:00
+
+ ## IIT Kanpur
+ - [https://www.iitk.ac.in](https://www.iitk.ac.in)
+ - date_published: 2024-06-22T10:00:29.156567+00:00
+
+ ## National Digital Library of India (NDLI)
+ - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Office of Alumni & Corporate Relations
+ - [https://acr.iitm.ac.in](https://acr.iitm.ac.in)
+ - date_published: 2024-10-15T14:07:50.353555+00:00
+
  ## Centre for Responsible AI
  - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
  - date_published: 2024-08-06T11:00:25+00:00
@@ -2804,6 +2876,10 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  - [https://cockgobl.in](https://cockgobl.in)
  - date_published: 2024-07-15T00:00:00+00:00
 
+ ## Coding Memes
+ - [https://www.codeitbro.in](https://www.codeitbro.in)
+ - date_published: 2024-12-08T09:29:00+00:00
+
  ## CodeMagnet - Your Magnetic Resource, For Coding Brilliance
  - [https://codemagnet.in](https://codemagnet.in)
  - date_published: 2024-07-19T23:25:46.931938+00:00
@@ -3945,80 +4021,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## IBC24 News : Chhattisgarh News, Madhya Pradesh News, Chhattisgarh News Live , Madhya Pradesh News Live, Chhattisgarh News In Hindi, Madhya Pradesh In Hindi
  - [https://www.ibc24.in](https://www.ibc24.in)
  - date_published: 2024-08-08T14:03:54.656107+00:00
-
- ## iChowk- Opinion | Analysis | Debatable news and stories India
- - [https://ichowk.in](https://ichowk.in)
- - date_published: 2024-04-28T01:38:50.326611+00:00
-
- ## Indian Council of Philosophical Research
- - [http://icpr.in](http://icpr.in)
- - date_published: 2024-09-11T17:49:59.349209+00:00
-
- ## ICTACT Journals | Online Journal Websites
- - [http://www.ictactjournals.in](http://www.ictactjournals.in)
- - date_published: 2024-10-29T16:41:29.276320+00:00
-
- ## Maharishi Ideal India Campaign | ideal-india.in
- - [https://ideal-india.in](https://ideal-india.in)
- - date_published: 2024-09-13T16:13:22.932139+00:00
-
- ## India Today Conclave 2024: Taj Palace Hotel, New Delhi on 15th and 16th March 2024
- - [http://www.ideaplex.in](http://www.ideaplex.in)
- - date_published: 2024-07-17T09:26:58+00:00
-
- ## Ideas for India - for more evidence based policy
- - [https://www.ideasforindia.in](https://www.ideasforindia.in)
- - date_published: 2024-07-22T05:56:23+00:00
-
- ## Custom Domain by Bitly
- - [https://ideo.in](https://ideo.in)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Corporate - IFFCO India
- - [https://iffco.in](https://iffco.in)
- - date_published: 2024-04-28T01:36:37.784403+00:00
-
- ## QS I-GAUGE - Indian Educational Rating System
- - [https://www.igauge.in](https://www.igauge.in)
- - date_published: 2024-06-17T19:22:43.174307+00:00
-
- ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.in](https://www.igus.in)
- - date_published: 2024-08-06T23:12:19.613783+00:00
-
- ## IIT Tech Ambit
- - [https://iit-techambit.in](https://iit-techambit.in)
- - date_published: 2024-06-22T11:32:12.731106+00:00
-
- ## Image Baker - Create Android and iOS assets online
- - [https://www.img-bak.in](https://www.img-bak.in)
- - date_published: 2024-09-04T11:32:45.104986+00:00
-
- ## ImageEngine - ImageCDN
- - [https://6mk2.imgeng.in](https://6mk2.imgeng.in)
- - date_published: 2024-06-16T10:11:42.397211+00:00
-
- ## ImageEngine - ImageCDN
- - [https://tcrnbekl.cdn.imgeng.in](https://tcrnbekl.cdn.imgeng.in)
- - date_published: 2024-10-20T22:49:59.566510+00:00
-
- ## Instamojo - eCommerce Website Builder for D2C Businesses - Create a Free Website on Instamojo.
- - [https://imjo.in](https://imjo.in)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Lava Kumar Yadati.
- - [https://imlava.in](https://imlava.in)
- - date_published: 2023-11-08T02:50:16+00:00
-
- ## Sophomoric Periods
- - [https://blog.inagaki.in](https://blog.inagaki.in)
- - date_published: 2021-01-10T00:00:00+00:00
-
- ## Indeecon Equipments & Instrument Company, Thane - Manufacturer of Calibration Equipments and Chiller
- - [https://www.indeecon.in](https://www.indeecon.in)
- - date_published: 2024-06-17T01:59:16.907546+00:00
-
- ## IBF – India Blockchain Forum
- - [https://www.indiablockchainforum.in](https://www.indiablockchainforum.in)
- - date_published: 2024-03-08T00:00:00+00:00
 

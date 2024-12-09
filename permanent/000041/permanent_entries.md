@@ -1,3 +1,11 @@
+ ## Alex J. Cavanaugh
+ - [https://www.alexjcavanaugh.com](https://www.alexjcavanaugh.com)
+ - date_published: 2024-10-17T23:06:00.243483+00:00
+
+ ## Alex Jones’ NWO Wars – Official Game
+ - [https://alexjonesgame.com](https://alexjonesgame.com)
+ - date_published: 2024-07-03T08:27:54.036325+00:00
+
  ## Alexandre Ferreira - Software Developer
  - [https://alexjorgef.com](https://alexjorgef.com)
  - date_published: 2017-12-08T00:00:00+00:00
@@ -4035,12 +4043,4 @@
  ## Boost Your Online Presence with Expert Digital Marketing
  - [https://www.alternewmedia.com](https://www.alternewmedia.com)
  - date_published: 2018-01-19T01:09:31+00:00
-
- ## Alternative to popular SaaS products (Free/ OpenSource or with Great Deals) build by Indie, suggest by Indie
- - [https://alteropen.com](https://alteropen.com)
- - date_published: 2024-10-30T08:00:19.970858+00:00
-
- ## Alterra Mountain Company
- - [https://www.alterramtnco.com](https://www.alterramtnco.com)
- - date_published: 2024-09-05T00:00:00+00:00
 

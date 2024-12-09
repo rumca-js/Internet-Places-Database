@@ -1,3 +1,11 @@
+ ## The Artisanal Writer
+ - [https://artisanalwriter.com](https://artisanalwriter.com)
+ - date_published: 2024-08-18T09:50:46.628658+00:00
+
+ ## Artisan Book Reviews
+ - [https://artisanbookreviews.com](https://artisanbookreviews.com)
+ - date_published: 2024-08-19T21:58:39.433023+00:00
+
  ## Estrategias y Disciplina en Deportes de Élite
  - [http://www.artisangemsboutique.com](http://www.artisangemsboutique.com)
  - date_published: 2024-11-16T19:24:03.007148+00:00
@@ -4018,12 +4026,4 @@
  ## Professional Ballet Company
  - [https://www.atlantaballet.com](https://www.atlantaballet.com)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## Black News, Business, Politics, Culture & More
- - [https://atlantablackstar.com](https://atlantablackstar.com)
- - date_published: 2024-09-18T23:16:48.308435+00:00
-
- ## ATLANTA Drive Systems, Inc. - The World Leader in Rack & Pinion Drive Technologies
- - [https://www.atlantadrives.com](https://www.atlantadrives.com)
- - date_published: 2024-05-29T15:20:31+00:00
 

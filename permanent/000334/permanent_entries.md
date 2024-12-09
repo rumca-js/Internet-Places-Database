@@ -1,3 +1,79 @@
+ ## Kementerian Peralihan Tenaga Dan Transformasi Air (PETRA)
+ - [https://www.petra.gov.my](https://www.petra.gov.my)
+ - date_published: 2024-09-04T02:08:02.895866+00:00
+
+ ## Energy Commission - Home
+ - [https://www.st.gov.my](https://www.st.gov.my)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Portal Rasmi Kementerian Kewangan
+ - [http://www.treasury.gov.my](http://www.treasury.gov.my)
+ - date_published: 2024-08-08T22:05:27+00:00
+
+ ## BELLAMYBUDIMAN
+ - [https://bella.my](https://bella.my)
+ - date_published: 2024-07-13T04:04:12.360020+00:00
+
+ ## BFM: The Business Station - Home
+ - [http://www.bfm.my](http://www.bfm.my)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## 9Daily
+ - [http://9-daily.blogspot.my](http://9-daily.blogspot.my)
+ - date_published: 2024-02-20T17:30:45+00:00
+
+ ## Nie znaleziono bloga
+ - [http://heyojohere.blogspot.my](http://heyojohere.blogspot.my)
+ - date_published: 2024-09-18T02:37:47.661159+00:00
+
+ ## Questing GM
+ - [http://questinggm.blogspot.my](http://questinggm.blogspot.my)
+ - date_published: 2024-04-19T19:40:56+00:00
+
+ ## Ryu Blogger Themes
+ - [http://ryu-themes.blogspot.my](http://ryu-themes.blogspot.my)
+ - date_published: 2024-08-28T15:50:18+00:00
+
+ ## So Unbroken
+ - [http://so-unbroken.blogspot.my](http://so-unbroken.blogspot.my)
+ - date_published: 2024-09-01T16:21:06+00:00
+
+ ## Home | CarSifu
+ - [https://www.carsifu.my](https://www.carsifu.my)
+ - date_published: 2024-09-10T08:03:58.071307+00:00
+
+ ## CARSOME - #1 Online Used Cars Buying & Selling Platform
+ - [https://www.carsome.my](https://www.carsome.my)
+ - date_published: 2024-09-23T13:49:57.451915+00:00
+
+ ## Buy Domain and Hosting Packages for Your Website | Crazy Domain Malaysia
+ - [https://www.crazydomains.my](https://www.crazydomains.my)
+ - date_published: 2024-06-16T08:52:14.998924+00:00
+
+ ## DigiKey Home
+ - [https://digikey.my](https://digikey.my)
+ - date_published: 2024-05-01T05:03:35.566343+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://apps.disney.my](http://apps.disney.my)
+ - date_published: 2024-06-16T02:01:45.591829+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://characters.disney.my](http://characters.disney.my)
+ - date_published: 2024-06-16T02:01:59.421887+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [https://disney.my](https://disney.my)
+ - date_published: 2024-06-16T02:00:49.418099+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://events.disney.my](http://events.disney.my)
+ - date_published: 2024-06-16T02:01:56.052601+00:00
+
+ ## Disney.my | The official home for all things Disney
+ - [http://games.disney.my](http://games.disney.my)
+ - date_published: 2024-06-16T02:01:54.526530+00:00
+
  ## Disney Movies | The Official Disney Films from Disney - Disney Malaysia
  - [https://movies.disney.my](https://movies.disney.my)
  - date_published: 2024-06-16T02:01:58.228738+00:00
@@ -3970,80 +4046,4 @@
  ## SOLARIS HOTEL KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $27
  - [https://solaris-kuta-kuta.all-balihotels.net](https://solaris-kuta-kuta.all-balihotels.net)
  - date_published: 2024-10-16T13:36:12.182253+00:00
-
- ## HOTEL SOL HOUSE BALI LEGIAN | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $49
- - [https://sol-house-bali-legian.all-balihotels.net](https://sol-house-bali-legian.all-balihotels.net)
- - date_published: 2024-10-16T13:42:19.786358+00:00
-
- ## HOTEL SPAZZIO BALI | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $15
- - [https://spazzio.all-balihotels.net](https://spazzio.all-balihotels.net)
- - date_published: 2024-10-16T13:35:43.595197+00:00
-
- ## STHALA, A TRIBUTE PORTFOLIO HOTEL, UBUD BALI | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
- - [https://sthala-a-tribute-portfolio-ubud.all-balihotels.net](https://sthala-a-tribute-portfolio-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:28:46.696188+00:00
-
- ## ST REGIS BALI RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $732
- - [https://st-regis-bali-resort-nusa-dua.all-balihotels.net](https://st-regis-bali-resort-nusa-dua.all-balihotels.net)
- - date_published: 2024-10-16T13:29:25.153639+00:00
-
- ## ** HOTEL KERAMAS SURF CAMP, KERAMAS **
- - [https://surf-camp-villa.all-balihotels.net](https://surf-camp-villa.all-balihotels.net)
- - date_published: 2024-10-16T13:28:24.994317+00:00
-
- ## SWISS-BELINN LEGIAN | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $46
- - [https://swiss-belinn-legian.all-balihotels.net](https://swiss-belinn-legian.all-balihotels.net)
- - date_published: 2024-10-16T13:27:02.224145+00:00
-
- ## HOTEL AVEDA BOUTIQUE | ⋆⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $58
- - [https://swiss-bel-petitenget-seminyak.all-balihotels.net](https://swiss-bel-petitenget-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:30:32.690062+00:00
-
- ## TEGES INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
- - [https://teges-inn.all-balihotels.net](https://teges-inn.all-balihotels.net)
- - date_published: 2024-10-16T13:31:21.955494+00:00
-
- ## *** HOTEL TERRA COTTAGES BALI, ULUWATU (BALI) ***
- - [https://terra-cottages-bali.all-balihotels.net](https://terra-cottages-bali.all-balihotels.net)
- - date_published: 2024-10-16T13:28:08.198875+00:00
-
- ## HOTEL ALANTARA SANUR | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $207
- - [https://the-alantara-sanur.all-balihotels.net](https://the-alantara-sanur.all-balihotels.net)
- - date_published: 2024-10-16T13:38:24.732588+00:00
-
- ## HOTEL ANVAYA BEACH RESORT BALI | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $1020
- - [https://the-anvaya-beach-resorts.all-balihotels.net](https://the-anvaya-beach-resorts.all-balihotels.net)
- - date_published: 2024-10-16T13:42:16.047081+00:00
-
- ## HOTEL APURVA KEMPINSKI BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $353
- - [https://the-apurva-kempinski.all-balihotels.net](https://the-apurva-kempinski.all-balihotels.net)
- - date_published: 2024-10-16T13:40:37.123831+00:00
-
- ## HOTEL ATANAYA | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $91
- - [https://the-atanaya.all-balihotels.net](https://the-atanaya.all-balihotels.net)
- - date_published: 2024-10-16T13:39:53.122091+00:00
-
- ## HOTEL CRYSTAL LUXURY BAY RESORT NUSA DUA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $162
- - [https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net](https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net)
- - date_published: 2024-10-16T13:34:19.249050+00:00
-
- ## HOTEL EVITEL RESORT UBUD | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $44
- - [https://the-evitel-resort-ubud.all-balihotels.net](https://the-evitel-resort-ubud.all-balihotels.net)
- - date_published: 2024-10-16T13:33:06.611999+00:00
-
- ## HOTEL HAVEN BALI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
- - [https://the-haven-bali-seminyak.all-balihotels.net](https://the-haven-bali-seminyak.all-balihotels.net)
- - date_published: 2024-10-16T13:34:43.036316+00:00
-
- ## HOTEL ISLAND HOTEL BALI | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $18
- - [https://the-island-bali-legian.all-balihotels.net](https://the-island-bali-legian.all-balihotels.net)
- - date_published: 2024-10-16T13:28:21.575617+00:00
-
- ## HOTEL KALYANA UBUD RESORT | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $71
- - [https://the-kalyana-ubud-resort.all-balihotels.net](https://the-kalyana-ubud-resort.all-balihotels.net)
- - date_published: 2024-10-16T13:40:01.648192+00:00
-
- ## HOTEL KAYON JUNGLE RESORT BY PRAMANA | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $350
- - [https://the-kayon-jungle-resort.all-balihotels.net](https://the-kayon-jungle-resort.all-balihotels.net)
- - date_published: 2024-10-16T13:40:53.657502+00:00
 

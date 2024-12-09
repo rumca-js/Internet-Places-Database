@@ -1,3 +1,11 @@
+ ## Service de paiement en ligne simple et pratique | Amazon Pay
+ - [https://fr.pay.production.k1.amazon.brightspot.cloud](https://fr.pay.production.k1.amazon.brightspot.cloud)
+ - date_published: 2024-10-07T23:15:20.809795+00:00
+
+ ## Acquisti online sicuri e senza rischi | Amazon Pay
+ - [https://it.pay.production.k1.amazon.brightspot.cloud](https://it.pay.production.k1.amazon.brightspot.cloud)
+ - date_published: 2024-10-07T23:14:58.426446+00:00
+
  ## Amazon Pay | 簡単で安心なオンライン決済 | アマゾンペイ | amazonpay
  - [https://jp.origin.pay.production.k1.amazon.brightspot.cloud](https://jp.origin.pay.production.k1.amazon.brightspot.cloud)
  - date_published: 2024-10-07T23:11:05.531185+00:00
@@ -4004,12 +4012,4 @@
  ## 中国科学院财务与资产管理局
  - [http://www.bpf.cas.cn](http://www.bpf.cas.cn)
  - date_published: 2024-06-30T18:19:18.301405+00:00
-
- ## 中国科学院科技基础能力局
- - [http://www.bsc.cas.cn](http://www.bsc.cas.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 中国科学院长春分院
- - [http://www.ccb.cas.cn](http://www.ccb.cas.cn)
- - date_published: 2024-06-30T18:18:25.696832+00:00
 

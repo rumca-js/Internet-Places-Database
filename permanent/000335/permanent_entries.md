@@ -1,3 +1,79 @@
+ ## HOTEL SOL HOUSE BALI LEGIAN | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $49
+ - [https://sol-house-bali-legian.all-balihotels.net](https://sol-house-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:19.786358+00:00
+
+ ## HOTEL SPAZZIO BALI | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $15
+ - [https://spazzio.all-balihotels.net](https://spazzio.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:43.595197+00:00
+
+ ## STHALA, A TRIBUTE PORTFOLIO HOTEL, UBUD BALI | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
+ - [https://sthala-a-tribute-portfolio-ubud.all-balihotels.net](https://sthala-a-tribute-portfolio-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:46.696188+00:00
+
+ ## ST REGIS BALI RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $732
+ - [https://st-regis-bali-resort-nusa-dua.all-balihotels.net](https://st-regis-bali-resort-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:25.153639+00:00
+
+ ## ** HOTEL KERAMAS SURF CAMP, KERAMAS **
+ - [https://surf-camp-villa.all-balihotels.net](https://surf-camp-villa.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:24.994317+00:00
+
+ ## SWISS-BELINN LEGIAN | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $46
+ - [https://swiss-belinn-legian.all-balihotels.net](https://swiss-belinn-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:02.224145+00:00
+
+ ## HOTEL AVEDA BOUTIQUE | ⋆⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $58
+ - [https://swiss-bel-petitenget-seminyak.all-balihotels.net](https://swiss-bel-petitenget-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:32.690062+00:00
+
+ ## TEGES INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
+ - [https://teges-inn.all-balihotels.net](https://teges-inn.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:21.955494+00:00
+
+ ## *** HOTEL TERRA COTTAGES BALI, ULUWATU (BALI) ***
+ - [https://terra-cottages-bali.all-balihotels.net](https://terra-cottages-bali.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:08.198875+00:00
+
+ ## HOTEL ALANTARA SANUR | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $207
+ - [https://the-alantara-sanur.all-balihotels.net](https://the-alantara-sanur.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:24.732588+00:00
+
+ ## HOTEL ANVAYA BEACH RESORT BALI | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $1020
+ - [https://the-anvaya-beach-resorts.all-balihotels.net](https://the-anvaya-beach-resorts.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:16.047081+00:00
+
+ ## HOTEL APURVA KEMPINSKI BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $353
+ - [https://the-apurva-kempinski.all-balihotels.net](https://the-apurva-kempinski.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:37.123831+00:00
+
+ ## HOTEL ATANAYA | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $91
+ - [https://the-atanaya.all-balihotels.net](https://the-atanaya.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:53.122091+00:00
+
+ ## HOTEL CRYSTAL LUXURY BAY RESORT NUSA DUA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $162
+ - [https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net](https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:19.249050+00:00
+
+ ## HOTEL EVITEL RESORT UBUD | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $44
+ - [https://the-evitel-resort-ubud.all-balihotels.net](https://the-evitel-resort-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:06.611999+00:00
+
+ ## HOTEL HAVEN BALI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
+ - [https://the-haven-bali-seminyak.all-balihotels.net](https://the-haven-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:43.036316+00:00
+
+ ## HOTEL ISLAND HOTEL BALI | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $18
+ - [https://the-island-bali-legian.all-balihotels.net](https://the-island-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:21.575617+00:00
+
+ ## HOTEL KALYANA UBUD RESORT | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $71
+ - [https://the-kalyana-ubud-resort.all-balihotels.net](https://the-kalyana-ubud-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:01.648192+00:00
+
+ ## HOTEL KAYON JUNGLE RESORT BY PRAMANA | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $350
+ - [https://the-kayon-jungle-resort.all-balihotels.net](https://the-kayon-jungle-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:53.657502+00:00
+
  ## HOTEL KAYON RESORT | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $268
  - [https://the-kayon-resort-ubud.all-balihotels.net](https://the-kayon-resort-ubud.all-balihotels.net)
  - date_published: 2024-10-16T13:40:17.451235+00:00
@@ -3974,83 +4050,4 @@
  ## BASE OAI Interface 3.2 documentation
  - [http://oai.base-search.net](http://oai.base-search.net)
  - date_published: 2024-03-01T17:56:01+00:00
-
- ## OVAL :: BASE OAI-PMH Validator
- - [https://oval.base-search.net](https://oval.base-search.net)
- - date_published: 2024-09-11T16:51:45.503015+00:00
-
- ## Bash Prompt
- - [https://bash-prompt.net](https://bash-prompt.net)
- - date_published: 2023-10-25T20:26:26.536044+00:00
- - tags: ['bash', 'personal']
-
- ## Privacy Policy | Basis
- - [https://privacy.basis.net](https://privacy.basis.net)
- - date_published: 2024-05-06T17:44:32.027282+00:00
-
- ## Orion Compliance
- - [https://compliance.basiscode.net](https://compliance.basiscode.net)
- - date_published: 2024-06-16T06:56:07.863654+00:00
-
- ## Basis: An economic protocol for scalable, ecological production
- - [https://basisproject.net](https://basisproject.net)
- - date_published: 2024-03-28T07:55:35+00:00
-
- ## BA Society
- - [http://basociety.net](http://basociety.net)
- - date_published: 2024-06-17T17:37:00.322775+00:00
-
- ## BASTA! | Die Konferenz für .NET, Windows & Web Development
- - [https://basta.net](https://basta.net)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Synapse Gateway Simple Pay
- - [https://simplepay.basyspro.net](https://simplepay.basyspro.net)
- - date_published: 2024-07-09T13:32:18.723129+00:00
-
- ## Baton Rouge News.Net | Current News from Baton Rouge, La
- - [http://www.batonrougenews.net](http://www.batonrougenews.net)
- - date_published: 2024-07-13T23:02:58.297057+00:00
-
- ## Forgejo: Beyond coding. We forge.
- - [https://git.batsense.net](https://git.batsense.net)
- - date_published: 2024-10-20T22:39:43.280355+00:00
-
- ## (think)
- - [https://batsov.net](https://batsov.net)
- - date_published: 2024-04-25T04:50:06+00:00
-
- ## Battle.net
- - [https://battle.net](https://battle.net)
- - date_published: 2024-05-17T02:44:32.655613+00:00
- - tags: ['gateway', 'gatekeeper', 'video game developer', 'starcraft', 'overwatch', 'warcraft', 'diablo']
-
- ## Battle.net - Welcome to the Battle.net Web Site!
- - [https://classic.battle.net](https://classic.battle.net)
- - date_published: 2023-10-29T10:35:41.296892+00:00
-
- ## Blizzard Battle.net Developer Portal
- - [https://develop.battle.net](https://develop.battle.net)
- - date_published: 2024-09-16T02:58:35.587676+00:00
-
- ## Download Battle.net | Battle.net
- - [https://download.battle.net](https://download.battle.net)
- - date_published: 2024-05-12T04:12:22.516021+00:00
-
- ## Battle.net
- - [https://eu.battle.net](https://eu.battle.net)
- - date_published: 2023-12-13T16:05:58.268096+00:00
-
- ## Battle.net
- - [https://eu.shop.battle.net](https://eu.shop.battle.net)
- - date_published: 2024-06-15T23:43:41.132335+00:00
-
- ## Battle.net
- - [https://kr.battle.net](https://kr.battle.net)
- - date_published: 2023-12-13T16:21:41.043824+00:00
-
- ## Battle.net
- - [https://shop.battle.net](https://shop.battle.net)
- - date_published: 2024-05-01T05:00:21.220801+00:00
- - tags: ['gateway', 'diablo', 'gatekeeper', 'starcraft', 'game store', 'overwatch', 'warcraft']
 

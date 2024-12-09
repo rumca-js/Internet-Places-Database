@@ -1,3 +1,15 @@
+ ## RPG Shared
+ - [http://rpgshared.blogspot.com](http://rpgshared.blogspot.com)
+ - date_published: 2024-04-28T02:24:20+00:00
+
+ ## Blogger
+ - [http://rrrschaefer.blogspot.com](http://rrrschaefer.blogspot.com)
+ - date_published: 2024-07-20T21:16:47.795828+00:00
+
+ ## RRTeaching
+ - [http://rrteaching.blogspot.com](http://rrteaching.blogspot.com)
+ - date_published: 2024-10-19T05:32:36.871463+00:00
+
  ## RSE World
  - [http://rseworld.blogspot.com](http://rseworld.blogspot.com)
  - date_published: 2024-03-13T19:41:53+00:00
@@ -3999,16 +4011,4 @@
  ## Ten Foot Polemic
  - [https://tenfootpolemic.blogspot.com](https://tenfootpolemic.blogspot.com)
  - date_published: 2024-10-31T15:21:24+00:00
-
- ## TenFourFox Development
- - [http://tenfourfox.blogspot.com](http://tenfourfox.blogspot.com)
- - date_published: 2024-06-30T21:16:48+00:00
-
- ## Ten Inch Template
- - [http://teninchtemplate.blogspot.com](http://teninchtemplate.blogspot.com)
- - date_published: 2024-06-18T05:00:00+00:00
-
- ## Ten and Fifteen Mil Wargames
- - [http://tenmilwargames.blogspot.com](http://tenmilwargames.blogspot.com)
- - date_published: 2023-12-30T00:00:00+00:00
 

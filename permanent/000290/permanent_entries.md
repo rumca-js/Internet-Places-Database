@@ -1,3 +1,72 @@
+ ## Service unavailable
+ - [https://quality.healthfinder.fl.gov](https://quality.healthfinder.fl.gov)
+ - date_published: 2024-07-03T14:50:40.105774+00:00
+
+ ## Santa Rosa County, FL | Official Website
+ - [https://www.santarosa.fl.gov](https://www.santarosa.fl.gov)
+ - date_published: 2024-07-03T15:05:18.518215+00:00
+
+ ## Flagler County, FL | Home
+ - [https://www.flaglercounty.gov](https://www.flaglercounty.gov)
+ - date_published: 2024-07-03T14:46:00+00:00
+
+ ## Florida Board of
+Medicine- Healthcare Practitioner Licensing and Regulation
+ - [https://flboardofmedicine.gov](https://flboardofmedicine.gov)
+ - date_published: 2024-07-03T14:40:34.198727+00:00
+
+ ## FLHealthCHARTS.gov: Home
+ - [https://www.flhealthcharts.gov](https://www.flhealthcharts.gov)
+ - date_published: 2024-07-03T14:51:32.175558+00:00
+
+ ## Florida Health Care Complaint Portal
+ - [https://flhealthcomplaint.gov](https://flhealthcomplaint.gov)
+ - date_published: 2024-06-17T13:48:24+00:00
+
+ ## Home - FL HealthSource • Health Care Resources for Consumers & Providers
+ - [https://flhealthsource.gov](https://flhealthsource.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - 	Florida Historic Capitol Museum
+ - [http://www.flhistoriccapitol.gov](http://www.flhistoriccapitol.gov)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## SearchAndBrowse
+ - [http://sb.flleg.gov](http://sb.flleg.gov)
+ - date_published: 2019-12-07T04:04:32+00:00
+
+ ## Florida Department of Health in Alachua
+ - [https://alachua.floridahealth.gov](https://alachua.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:02.837754+00:00
+
+ ## Florida Department of Health in Baker
+ - [https://baker.floridahealth.gov](https://baker.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:28.286003+00:00
+
+ ## Florida Department of Health in Bay
+ - [https://bay.floridahealth.gov](https://bay.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:59.569608+00:00
+
+ ## Florida Department of Health in Bradford
+ - [https://bradford.floridahealth.gov](https://bradford.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:31.483877+00:00
+
+ ## Florida Department of Health in Brevard
+ - [https://brevard.floridahealth.gov](https://brevard.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:15.945107+00:00
+
+ ## Florida Department of Health in Broward
+ - [https://broward.floridahealth.gov](https://broward.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:48.965608+00:00
+
+ ## Florida Department of Health in Calhoun
+ - [https://calhoun.floridahealth.gov](https://calhoun.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:31.701751+00:00
+
+ ## Florida Department of Health in Charlotte
+ - [https://charlotte.floridahealth.gov](https://charlotte.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:36.072980+00:00
+
  ## Florida Department of Health in Citrus
  - [https://citrus.floridahealth.gov](https://citrus.floridahealth.gov)
  - date_published: 2024-05-08T02:49:55.658136+00:00
@@ -3949,72 +4018,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## EXPORT CONTROL – Export Control Regulations for Berkeley Lab
  - [https://exportcontrol.lbl.gov](https://exportcontrol.lbl.gov)
  - date_published: 2024-05-14T00:00:00+00:00
-
- ## Berkeley Lab FAC – Facilities
- - [https://facilities.lbl.gov](https://facilities.lbl.gov)
- - date_published: 2024-05-12T04:46:53.137039+00:00
-
- ## Home - IT Frequently Asked Questions (FAQ) - Berkeley Lab Commons
- - [https://faq.lbl.gov](https://faq.lbl.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Cafeteria & Food Services
- - [https://food.lbl.gov](https://food.lbl.gov)
- - date_published: 2024-07-15T02:48:36.369064+00:00
-
- ## Molecular Foundry
- - [https://foundry.lbl.gov](https://foundry.lbl.gov)
- - date_published: 2024-07-08T15:39:23.969004+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://go.lbl.gov](https://go.lbl.gov)
- - date_published: 2024-05-12T04:46:46.745114+00:00
-
- ## Healthy & Well at LBNL
- - [https://healthyandwell.lbl.gov](https://healthyandwell.lbl.gov)
- - date_published: 2024-07-15T02:49:40.537019+00:00
-
- ## askUS Service Desk  Unified Services @ Berkeley Lab
- - [https://help.lbl.gov](https://help.lbl.gov)
- - date_published: 2024-07-15T02:40:54.919307+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://hris.hr.lbl.gov](https://hris.hr.lbl.gov)
- - date_published: 2024-07-15T02:40:33.517070+00:00
-
- ## Berkeley Lab HR – Human Resources
- - [https://hr.lbl.gov](https://hr.lbl.gov)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## HR Shared Services
- - [http://hrss.lbl.gov](http://hrss.lbl.gov)
- - date_published: 2024-07-15T02:49:21.266410+00:00
-
- ## INPA
- - [http://inpa.lbl.gov](http://inpa.lbl.gov)
- - date_published: 2024-08-18T20:13:45.599019+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://iprequest.lbl.gov](https://iprequest.lbl.gov)
- - date_published: 2024-07-15T02:46:24.673729+00:00
-
- ## Berkeley Lab ISO 50001
- - [https://iso50001.lbl.gov](https://iso50001.lbl.gov)
- - date_published: 2024-07-15T02:48:28.760276+00:00
-
- ## Berkeley Lab IT – Information Technology
- - [https://it.lbl.gov](https://it.lbl.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## IT STATUS
- - [https://it-status.lbl.gov](https://it-status.lbl.gov)
- - date_published: 2024-07-15T02:46:30.539668+00:00
-
- ## Job Opportunities at LBL
- - [https://jobs.lbl.gov](https://jobs.lbl.gov)
- - date_published: 2024-07-15T02:48:56.267892+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://keyplans.lbl.gov](https://keyplans.lbl.gov)
- - date_published: 2024-07-15T02:48:46.661996+00:00
 

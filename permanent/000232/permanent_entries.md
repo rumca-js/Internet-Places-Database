@@ -1,3 +1,67 @@
+ ## Playing with models: quantitative exploration of life.
+ - [http://playingwithmodels.wordpress.com](http://playingwithmodels.wordpress.com)
+ - date_published: 2024-06-17T12:11:35.771168+00:00
+
+ ## Playtivity 玩 . 創意
+ - [http://playtivity.wordpress.com](http://playtivity.wordpress.com)
+ - date_published: 2024-08-18T09:34:08.295231+00:00
+
+ ## Pawlicker's Pleroma Experiment Blog
+ - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
+ - date_published: 2023-11-23T05:04:00.178360+00:00
+
+ ## Pliu's Blog - Teaching and Learning Open Source Development
+ - [https://pliu.wordpress.com](https://pliu.wordpress.com)
+ - date_published: 2024-07-18T12:27:19.836948+00:00
+
+ ## Paul Jacobson's links
+ - [https://pljcbsn.wordpress.com](https://pljcbsn.wordpress.com)
+ - date_published: 2024-07-02T18:27:25+00:00
+
+ ## Please, no hate.
+ - [https://plsnohate.wordpress.com](https://plsnohate.wordpress.com)
+ - date_published: 2024-10-22T18:49:55.604464+00:00
+
+ ## Plucked from the Stacks
+ - [https://pluckedfromthestacks.wordpress.com](https://pluckedfromthestacks.wordpress.com)
+ - date_published: 2024-06-15T10:21:04+00:00
+
+ ## Finding Pluto
+ - [http://plutovian.wordpress.com](http://plutovian.wordpress.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## GSoC PMA
+ - [https://pmagsocproject.wordpress.com](https://pmagsocproject.wordpress.com)
+ - date_published: 2024-06-11T10:31:05.063775+00:00
+
+ ## The Product Manager Handbook
+ - [https://pmhandbook.wordpress.com](https://pmhandbook.wordpress.com)
+ - date_published: 2024-07-03T19:32:12+00:00
+
+ ## The Postnational Monitor
+ - [http://pmsol3.wordpress.com](http://pmsol3.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## (pas de titre)
+ - [https://pnpfrance.wordpress.com](https://pnpfrance.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Pocket Casts Blog
+ - [https://pocketcastsblog.wordpress.com](https://pocketcastsblog.wordpress.com)
+ - date_published: 2024-05-06T23:31:18.010979+00:00
+
+ ## tinythoughtspoetry
+ - [http://poemscomdotblog.wordpress.com](http://poemscomdotblog.wordpress.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Jasta's Poetry Blog
+ - [http://poetries4.wordpress.com](http://poetries4.wordpress.com)
+ - date_published: 2024-09-17T17:24:40.209166+00:00
+
+ ## Della Luce
+ - [http://poetryfictionsite.wordpress.com](http://poetryfictionsite.wordpress.com)
+ - date_published: 2024-07-15T07:16:36.507986+00:00
+
  ## Poetry King
  - [http://poetryking9.wordpress.com](http://poetryking9.wordpress.com)
  - date_published: 2024-09-17T17:25:44.690884+00:00
@@ -3947,70 +4011,4 @@
  ## The Book Trunk
  - [https://thebooktrunkblog.wordpress.com](https://thebooktrunkblog.wordpress.com)
  - date_published: 2024-09-11T00:00:00+00:00
-
- ## The Bovine Overlord
- - [https://thebovineoverlord.wordpress.com](https://thebovineoverlord.wordpress.com)
- - date_published: 2024-10-26T17:55:53.240210+00:00
-
- ## The Boy Inside The Window
- - [http://theboyinsidethewindow.wordpress.com](http://theboyinsidethewindow.wordpress.com)
- - date_published: 2024-09-03T22:49:44.786477+00:00
-
- ## The Brand Trust Report India Study
- - [https://thebrandtrustreport.wordpress.com](https://thebrandtrustreport.wordpress.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## The Breizh Maker
- - [https://thebreizmaker.wordpress.com](https://thebreizmaker.wordpress.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## THE B.S. REPORT
- - [https://thebsreport.wordpress.com](https://thebsreport.wordpress.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TheBubblyTipsyMermaid (TIB)
- - [http://thebubblytipsymermaid.wordpress.com](http://thebubblytipsymermaid.wordpress.com)
- - date_published: 2024-09-04T19:19:43.055666+00:00
-
- ## Coder's Blog
- - [https://thebucketdiary.wordpress.com](https://thebucketdiary.wordpress.com)
- - date_published: 2023-10-27T14:39:12.515534+00:00
- - tags: ['amiga']
-
- ## The Burning of Innsmouth
- - [https://theburningofinnsmouth.wordpress.com](https://theburningofinnsmouth.wordpress.com)
- - date_published: 2024-06-20T01:41:55.850220+00:00
-
- ## caffeinated pixels
- - [https://thecakeisaliegaming.wordpress.com](https://thecakeisaliegaming.wordpress.com)
- - date_published: 2023-12-11T17:45:40.911132+00:00
- - tags: ['amiga', 'blog']
-
- ## The Captive Reader
- - [http://thecaptivereader.wordpress.com](http://thecaptivereader.wordpress.com)
- - date_published: 2024-09-17T17:30:26.118909+00:00
-
- ## THE_CHEI$
- - [https://thecheis.wordpress.com](https://thecheis.wordpress.com)
- - date_published: 2024-07-10T06:39:05.611268+00:00
-
- ## The Classics Club
- - [http://theclassicsclubblog.wordpress.com](http://theclassicsclubblog.wordpress.com)
- - date_published: 2024-09-17T17:45:51+00:00
-
- ## The Climate Fix
- - [https://theclimatefix.wordpress.com](https://theclimatefix.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## The Coastal Path
- - [https://thecoastalpath.wordpress.com](https://thecoastalpath.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## the commune
- - [http://thecommune.wordpress.com](http://thecommune.wordpress.com)
- - date_published: 2024-10-21T16:46:56.756919+00:00
-
- ## Private Site
- - [https://thecompletistblog.wordpress.com](https://thecompletistblog.wordpress.com)
- - date_published: 2024-06-28T13:28:27.738303+00:00
 

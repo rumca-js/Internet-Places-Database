@@ -1,3 +1,52 @@
+ ## Breaking Stagnation | Mark Saroufim | Substack
+ - [https://marksaroufim.substack.com](https://marksaroufim.substack.com)
+ - date_published: 2024-05-12T04:26:07.448689+00:00
+
+ ## The Creative Brief | Mark Teppo | Substack
+ - [https://markteppo.substack.com](https://markteppo.substack.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## 🎪 The Travelling Circus 🎪  | Mark Watson | Substack
+ - [https://markwatsonbooks.substack.com](https://markwatsonbooks.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## The Marriage Pact | Michelle Richmond | Substack
+ - [https://marriagepact.substack.com](https://marriagepact.substack.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Notes by Martine | Martine Ellis | Substack
+ - [https://martineellis.substack.com](https://martineellis.substack.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Martin Gurri | Substack
+ - [https://martingurri.substack.com](https://martingurri.substack.com)
+ - date_published: 2024-05-01T05:14:07.816454+00:00
+
+ ## Martini’s Glambassadorial Fembassy | Martini Glambassador | Substack
+ - [https://martiniambassador.substack.com](https://martiniambassador.substack.com)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Martin Kleppmann’s Blog | Substack
+ - [https://martinkl.substack.com](https://martinkl.substack.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Martin’s Newsletter | Martin Shkreli | Substack
+ - [https://martinshkreli.substack.com](https://martinshkreli.substack.com)
+ - date_published: 2023-10-25T09:58:16.042885+00:00
+ - tags: ['substack']
+
+ ## MLOps Shenanigans | Martynas Šubonis | Substack
+ - [https://martynassubonis.substack.com](https://martynassubonis.substack.com)
+ - date_published: 2024-12-02T23:16:20.280127+00:00
+
+ ## Conservative Lady of Letterpress | Mary Beth Klatt | Substack
+ - [https://marybethklatt.substack.com](https://marybethklatt.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Mary Rose Cook’s Newsletter | Substack
+ - [https://maryrosecook.substack.com](https://maryrosecook.substack.com)
+ - date_published: 2024-05-04T14:33:02.843999+00:00
+
  ## Subtle Maneuvers | Mason Currey | Substack
  - [https://masoncurrey.substack.com](https://masoncurrey.substack.com)
  - date_published: 2024-01-19T00:00:00+00:00
@@ -3702,6 +3751,10 @@
  - [https://themostendangeredspecies.substack.com](https://themostendangeredspecies.substack.com)
  - date_published: 2024-10-31T22:49:53.148179+00:00
 
+ ## The Neighborhoods | Rob Stephenson | Substack
+ - [https://theneighborhoods.substack.com](https://theneighborhoods.substack.com)
+ - date_published: 2024-12-08T13:46:42.870479+00:00
+
  ## The New Lede | The New Lede Staff | Substack
  - [https://thenewlede.substack.com](https://thenewlede.substack.com)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -4016,58 +4069,4 @@
  ## The Mycelium | Tijn Tjoelker | Substack
  - [https://tijntjoelker.substack.com](https://tijntjoelker.substack.com)
  - date_published: 2024-03-18T00:00:00+00:00
-
- ## Tim Culpan’s Position | Substack
- - [https://timculpan.substack.com](https://timculpan.substack.com)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Data Science for Fun and Profit | Tim Dellinger | Substack
- - [https://timdellinger.substack.com](https://timdellinger.substack.com)
- - date_published: 2024-11-25T16:12:23.406517+00:00
-
- ## Unfiltered by Tim Denning | Substack
- - [https://timdenning.substack.com](https://timdenning.substack.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Time Travel Kitchen | Jolene Handy | Substack
- - [https://timetravelkitchen.substack.com](https://timetravelkitchen.substack.com)
- - date_published: 2024-07-04T04:40:19.935769+00:00
-
- ## Intellectual Insights | Tim Robinson | Substack
- - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
- - date_published: 2024-05-06T18:31:19.669340+00:00
-
- ## Eight by Seven | Timothy Burke | Substack
- - [https://timothyburke.substack.com](https://timothyburke.substack.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## History of the Present | Timothy Garton Ash | Substack
- - [https://timothygartonash.substack.com](https://timothygartonash.substack.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## It's all obvious or trivial except.... | Tim Worstall | Substack
- - [https://timworstall.substack.com](https://timworstall.substack.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Adulting Sucks | Tina Dubinsky | Substack
- - [https://tinadubinsky.substack.com](https://tinadubinsky.substack.com)
- - date_published: 2024-07-12T15:40:44.228725+00:00
-
- ## Tiny Empires | JT | Substack
- - [https://tinyempires.substack.com](https://tinyempires.substack.com)
- - date_published: 2023-10-25T10:06:31.208743+00:00
- - tags: ['substack']
-
- ## Tjaart’s Substack | Substack
- - [https://tjaart.substack.com](https://tjaart.substack.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## T.L.’s Posts and Podcasts | T.L. Davis | Substack
- - [https://tldavis.substack.com](https://tldavis.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## tldraw | Steve Ruiz | Substack
- - [https://tldraw.substack.com](https://tldraw.substack.com)
- - date_published: 2023-10-25T10:06:33.454002+00:00
- - tags: ['substack']
 

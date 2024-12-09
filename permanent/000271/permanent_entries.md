@@ -1,3 +1,71 @@
+ ## STUDENT AFFAIRS | University of Illinois Chicago
+ - [http://sa.uic.edu](http://sa.uic.edu)
+ - date_published: 2024-07-02T02:38:39.542977+00:00
+
+ ## Student Leadership and Civic Engagement | University of Illinois Chicago
+ - [https://slce.uic.edu](https://slce.uic.edu)
+ - date_published: 2024-07-02T02:47:09.886212+00:00
+
+ ## Student Centers | University of Illinois Chicago
+ - [https://studentcenters.uic.edu](https://studentcenters.uic.edu)
+ - date_published: 2024-07-02T02:48:43.260530+00:00
+
+ ## Student Employment | University of Illinois Chicago
+ - [http://studentemployment.uic.edu](http://studentemployment.uic.edu)
+ - date_published: 2024-07-02T02:38:45.824932+00:00
+
+ ## Study Abroad Office | University of Illinois Chicago
+ - [https://studyabroad.uic.edu](https://studyabroad.uic.edu)
+ - date_published: 2024-07-02T02:47:45.704117+00:00
+
+ ## Planning, Sustainability and Project Management | University of Illinois Chicago
+ - [https://sustainability.uic.edu](https://sustainability.uic.edu)
+ - date_published: 2024-07-02T02:46:36.666374+00:00
+
+ ## Testing Services | University of Illinois Chicago
+ - [https://testing.uic.edu](https://testing.uic.edu)
+ - date_published: 2024-07-02T02:46:54.224790+00:00
+
+ ## UIC today
+ - [https://today.uic.edu](https://today.uic.edu)
+ - date_published: 2023-10-25T19:01:36.433328+00:00
+
+ ## Transportation | University of Illinois Chicago
+ - [https://transportation.uic.edu](https://transportation.uic.edu)
+ - date_published: 2024-07-02T02:40:19.376266+00:00
+
+ ## TRIO | University of Illinois Chicago
+ - [https://trio.uic.edu](https://trio.uic.edu)
+ - date_published: 2024-07-02T02:47:00.922674+00:00
+
+ ## Urban Health Program | University of Illinois Chicago
+ - [https://uhp.uic.edu](https://uhp.uic.edu)
+ - date_published: 2024-07-02T02:46:47.599601+00:00
+
+ ## University of Illinois Chicago
+ - [https://uic.edu](https://uic.edu)
+ - date_published: 2024-05-07T21:14:54.855233+00:00
+
+ ## UI Health | University of Illinois Chicago
+ - [https://uihealth.uic.edu](https://uihealth.uic.edu)
+ - date_published: 2024-06-21T13:03:11.282662+00:00
+
+ ## Office of the Vice Chancellor for Administrative Services | University of Illinois Chicago
+ - [https://vcas.uic.edu](https://vcas.uic.edu)
+ - date_published: 2024-07-02T02:40:16.999530+00:00
+
+ ## STUDENT AFFAIRS | University of Illinois Chicago
+ - [http://vcsa.uic.edu](http://vcsa.uic.edu)
+ - date_published: 2024-07-21T22:34:46.445262+00:00
+
+ ## Wellness Center | University of Illinois Chicago
+ - [http://wellnesscenter.uic.edu](http://wellnesscenter.uic.edu)
+ - date_published: 2024-07-02T02:38:19.195852+00:00
+
+ ## Women’s Leadership and Resource Center | University of Illinois Chicago
+ - [https://wlrc.uic.edu](https://wlrc.uic.edu)
+ - date_published: 2024-07-02T02:48:14.553587+00:00
+
  ## Writing Center | University of Illinois Chicago
  - [https://writingcenter.uic.edu](https://writingcenter.uic.edu)
  - date_published: 2024-07-02T02:49:09.326146+00:00
@@ -3938,72 +4006,4 @@ Center for Information Technology Integration
  ## Home | Morris One Stop Student Services
  - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
  - date_published: 2024-07-01T19:37:47+00:00
-
- ## Home | Rochester One Stop Student Services
- - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
- - date_published: 2024-07-01T18:24:15+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
- - date_published: 2024-07-01T18:27:01+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop.umn.edu](https://onestop.umn.edu)
- - date_published: 2024-05-07T21:30:12.406123+00:00
-
- ## Online Learning | University of Minnesota Morris
- - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
- - date_published: 2024-07-12T21:39:39+00:00
-
- ## Publishing Services
- - [https://open.lib.umn.edu](https://open.lib.umn.edu)
- - date_published: 2024-05-08T06:58:55.509369+00:00
-
- ## Center for Open Education
- - [https://open.umn.edu](https://open.umn.edu)
- - date_published: 2023-10-25T19:02:55.930942+00:00
-
- ## Orientation | UMN Duluth
- - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
- - date_published: 2024-07-10T14:03:11+00:00
-
- ## Welcome! | Office for Student Affairs
- - [https://osa.umn.edu](https://osa.umn.edu)
- - date_published: 2024-07-10T14:48:04+00:00
-
- ## Office for Supplier Diversity | Office for Business & Community Economic Development
- - [https://osd.umn.edu](https://osd.umn.edu)
- - date_published: 2024-07-13T17:12:54+00:00
-
- ## Welcome to the Physics Force | Physics Force
- - [https://physicsforce.umn.edu](https://physicsforce.umn.edu)
- - date_published: 2024-06-12T14:45:07+00:00
-
- ## School of Physics and Astronomy
- - [https://physics.umn.edu](https://physics.umn.edu)
- - date_published: 2024-05-07T15:14:46.382218+00:00
-
- ## Home Page | University Policy Library
- - [http://policy.umn.edu](http://policy.umn.edu)
- - date_published: 2024-07-04T09:20:43+00:00
-
- ## About | Preceptor Resources
- - [https://preceptor.umn.edu](https://preceptor.umn.edu)
- - date_published: 2024-05-07T21:30:41.797420+00:00
-
- ## Website Privacy | Online Privacy
- - [https://privacy.umn.edu](https://privacy.umn.edu)
- - date_published: 2024-05-07T21:30:45.450807+00:00
-
- ## Parking & Transportation Services | UMN Parking & Transportation Services
- - [https://pts.umn.edu](https://pts.umn.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Public Safety | UMN Department of Public Safety
- - [https://publicsafety.umn.edu](https://publicsafety.umn.edu)
- - date_published: 2024-07-12T19:37:38+00:00
-
- ## Front - Publishing Services
- - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
- - date_published: 2024-07-04T16:19:14.960889+00:00
 

@@ -1,3 +1,19 @@
+ ## Descript Help
+ - [https://help.descript.com](https://help.descript.com)
+ - date_published: 2024-07-19T05:15:04.062023+00:00
+
+ ## Descript | All-in-one video & podcast editing, easy as a doc.
+ - [https://share.descript.com](https://share.descript.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Descript Status
+ - [https://status.descript.com](https://status.descript.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Descript
+ - [https://web.descript.com](https://web.descript.com)
+ - date_published: 2024-06-23T08:10:40.019244+00:00
+
  ## Descubrebooks
  - [https://www.descubrebooks.com](https://www.descubrebooks.com)
  - date_published: 2024-08-20T03:56:40.768558+00:00
@@ -4003,21 +4019,4 @@ A blog about programming, distributed systems and others
  ## Admitad
  - [https://dhwnh.com](https://dhwnh.com)
  - date_published: 2022-10-10T00:00:00+00:00
-
- ## dhwthompson.com
- - [https://dhwthompson.com](https://dhwthompson.com)
- - date_published: 2019-08-30T00:00:00+00:00
-
- ## Plus Size Fashion for Women |
-    Dia & Co
- - [https://shop.dia.com](https://shop.dia.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Plus Size Clothing and Personal Styling for Women
- - [https://www.dia.com](https://www.dia.com)
- - date_published: 2024-07-09T19:03:26.023999+00:00
-
- ## Diabetes Knowledge
- - [https://diabetesknow.com](https://diabetesknow.com)
- - date_published: 2024-06-29T17:07:51.501424+00:00
 

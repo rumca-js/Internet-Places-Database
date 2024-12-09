@@ -1,3 +1,100 @@
+ ## Dr Peter Young, Research Astrophysicist, NASA Goddard Space Flight Center
+ - [http://pyoung.org](http://pyoung.org)
+ - date_published: 2024-08-04T23:50:43+00:00
+
+ ## The Python Package Index
+ - [https://blog.pypi.org](https://blog.pypi.org)
+ - date_published: 2023-10-25T22:01:31.397737+00:00
+
+ ## PyPI Docs
+ - [https://docs.pypi.org](https://docs.pypi.org)
+ - date_published: 2024-05-02T13:47:42.373652+00:00
+
+ ## Donation for the Packaging Workgroup – Python Software Foundation
+ - [https://donate.pypi.org](https://donate.pypi.org)
+ - date_published: 2024-06-22T14:06:09.563857+00:00
+
+ ## PyPI · The Python Package Index
+ - [https://pypi.org](https://pypi.org)
+ - date_published: 2023-10-25T22:01:32.343167+00:00
+ - tags: ['package manager', 'python']
+
+ ## TestPyPI · The Python Package Index
+ - [https://test.pypi.org](https://test.pypi.org)
+ - date_published: 2024-05-06T13:26:31.491229+00:00
+
+ ## upload.pypi.org
+ - [https://upload.pypi.org](https://upload.pypi.org)
+ - date_published: 2024-09-05T19:01:27.476638+00:00
+
+ ## PyPI Download Stats
+ - [https://pypistats.org](https://pypistats.org)
+ - date_published: 2024-05-14T04:06:07.319807+00:00
+
+ ## PyPose
+ - [https://pypose.org](https://pypose.org)
+ - date_published: 2024-05-25T08:10:08+00:00
+
+ ## PYthon Piedmont Triad User Group
+ - [http://www.pyptug.org](http://www.pyptug.org)
+ - date_published: 2024-06-27T09:46:57+00:00
+
+ ## Buildbot
+ - [http://buildbot.pypy.org](http://buildbot.pypy.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Welcome to PyPy’s documentation! — PyPy documentation
+ - [https://doc.pypy.org](https://doc.pypy.org)
+ - date_published: 2024-05-08T12:03:13.943999+00:00
+
+ ## PyPy
+ - [https://pypy.org](https://pypy.org)
+ - date_published: 2019-12-28T16:14:02+00:00
+
+ ## PyPy Speed
+ - [https://speed.pypy.org](https://speed.pypy.org)
+ - date_published: 2024-05-06T23:31:40.761333+00:00
+
+ ## mirror.pyratelan.org
+ - [http://mirror.pyratelan.org](http://mirror.pyratelan.org)
+ - date_published: 2024-04-07T01:36:27+00:00
+
+ ## Pyre | Pyre
+ - [https://pyre-check.org](https://pyre-check.org)
+ - date_published: 2024-05-06T09:19:54.808172+00:00
+
+ ## code.pyret.org
+ - [https://code.pyret.org](https://code.pyret.org)
+ - date_published: 2024-07-03T07:10:16.733531+00:00
+
+ ## The Pyret Programming Language
+ - [https://pyret.org](https://pyret.org)
+ - date_published: 2024-01-24T22:12:33+00:00
+
+ ## PyRF Documentation — PyRF  documentation
+ - [https://www.pyrf.org](https://www.pyrf.org)
+ - date_published: 2021-06-04T00:00:00+00:00
+
+ ## PyRobot · An Open Source Robotics Research Platform
+ - [https://pyrobot.org](https://pyrobot.org)
+ - date_published: 2022-03-08T18:27:22+00:00
+
+ ## PySol Solitaire Home Page
+ - [https://www.pysol.org](https://www.pysol.org)
+ - date_published: 2024-07-11T12:15:52.748089+00:00
+
+ ## pysoy.org - pysoy Zasoby i informacje.
+ - [http://planet.pysoy.org](http://planet.pysoy.org)
+ - date_published: 2024-07-08T16:50:11+00:00
+
+ ## PyTennessee 2021 has been cancelled
+ - [http://www.pytennessee.org](http://www.pytennessee.org)
+ - date_published: 2020-12-07T19:25:40+00:00
+
+ ## pytest: helps you write better programs — pytest documentation
+ - [https://docs.pytest.org](https://docs.pytest.org)
+ - date_published: 2024-05-08T10:51:48.093245+00:00
+
  ## pytest: helps you write better programs — pytest documentation
  - [https://pytest.org](https://pytest.org)
  - date_published: 2024-05-08T10:50:48.289236+00:00
@@ -3959,101 +4056,4 @@
  - [https://hyperadio.retroscene.org](https://hyperadio.retroscene.org)
  - date_published: 2023-11-29T08:27:36+00:00
  - tags: ['demoscene']
-
- ## retroscene.org
- - [https://retroscene.org](https://retroscene.org)
- - date_published: 2024-01-18T20:17:57+00:00
- - tags: ['demoscene']
-
- ## RetroSearch
- - [http://retrosearch.org](http://retrosearch.org)
- - date_published: 2024-06-21T18:57:09.560958+00:00
-
- ## Retrosheet
- - [https://www.retrosheet.org](https://www.retrosheet.org)
- - date_published: 2024-08-09T03:24:38.594245+00:00
-
- ## retrotronics.org | Where vintage meets modern
- - [http://retrotronics.org](http://retrotronics.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Retro Virtual Machine
- - [https://www.retrovirtualmachine.org](https://www.retrovirtualmachine.org)
- - date_published: 2024-07-02T23:58:41.701108+00:00
-
- ## Naslovnica
- - [http://www.reumatologija.org](http://www.reumatologija.org)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Réunion de consommateur : Guide 2024
- - [https://reunion-consommateur.org](https://reunion-consommateur.org)
- - date_published: 2024-01-09T08:54:02.441244+00:00
-
- ## REVEAL Home
- - [https://revealcentre.org](https://revealcentre.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Reveal from The Center for Investigative Reporting
- - [https://revealnews.org](https://revealnews.org)
- - date_published: 2024-01-23T19:09:37.358792+00:00
-
- ## REVERB
- - [https://reverb.org](https://reverb.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Josh Haberman
- - [https://blog.reverberate.org](https://blog.reverberate.org)
- - date_published: 2024-02-12T01:13:17+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://planarian.reverberate.org](https://planarian.reverberate.org)
- - date_published: 2024-06-18T21:34:55+00:00
-
- ## Rett Syndrome Research Trust: Advancing the most promising curative strategies for Rett Syndrome
- - [https://reverserett.org](https://reverserett.org)
- - date_published: 2024-10-30T18:32:59.459902+00:00
-
- ## Reverse Shot
- - [http://reverseshot.org](http://reverseshot.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## All Review Requests | Review Board
- - [https://demo.reviewboard.org](https://demo.reviewboard.org)
- - date_published: 2024-06-19T22:23:32.905213+00:00
-
- ## All Review Requests | Review Board
- - [https://reviews.reviewboard.org](https://reviews.reviewboard.org)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Review Board - It's a bright day for code review!
- - [https://www.reviewboard.org](https://www.reviewboard.org)
- - date_published: 2024-06-16T11:31:50.494366+00:00
-
- ## Homepage
- - [https://reviewcommons.org](https://reviewcommons.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Revive & Restore | Genetic Rescue to Enhance Biodiversity
- - [https://reviverestore.org](https://reviverestore.org)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home | Boston, MA | Revolution 250
- - [https://www.revolution250.org](https://www.revolution250.org)
- - date_published: 2024-06-24T10:50:13.993859+00:00
-
- ## Consortium on the Revolutionary Era, 1750-1850
- - [https://revolutionaryera.org](https://revolutionaryera.org)
- - date_published: 2024-05-01T02:40:39.329517+00:00
-
- ## MIT RV23 ~ Working Syllabus ~ Revolutionary Ventures ~ Fall 2023
- - [http://revolutionaryventures.org](http://revolutionaryventures.org)
- - date_published: 2024-06-20T03:47:33.223198+00:00
-
- ## Socio-anthropologie
- - [http://socio-anthropologie.revues.org](http://socio-anthropologie.revues.org)
- - date_published: 2024-10-21T18:18:03.675407+00:00
-
- ## Techniques & Culture - Revue semestrielle d’anthropologie des techn...
- - [https://tc.revues.org](https://tc.revues.org)
- - date_published: 2024-10-29T18:22:47.209747+00:00
 

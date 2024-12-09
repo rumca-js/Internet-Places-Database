@@ -1,3 +1,71 @@
+ ## Center for Community Research and Development
+ - [https://ccrd.artsandsciences.baylor.edu](https://ccrd.artsandsciences.baylor.edu)
+ - date_published: 2023-08-08T15:07:00+00:00
+
+ ## Foundation Relations
+ - [https://cfr.web.baylor.edu](https://cfr.web.baylor.edu)
+ - date_published: 2023-02-28T15:14:00+00:00
+
+ ## Baylor Chamber of Commerce
+ - [https://chamber.web.baylor.edu](https://chamber.web.baylor.edu)
+ - date_published: 2023-01-11T08:41:00+00:00
+
+ ## Chemistry & Biochemistry
+ - [https://chemistry.artsandsciences.baylor.edu](https://chemistry.artsandsciences.baylor.edu)
+ - date_published: 2023-03-09T13:27:00+00:00
+
+ ## Cherry Award
+ - [https://cherryaward.web.baylor.edu](https://cherryaward.web.baylor.edu)
+ - date_published: 2023-02-09T11:05:00+00:00
+
+ ## Christmas
+ - [https://christmas.web.baylor.edu](https://christmas.web.baylor.edu)
+ - date_published: 2022-04-22T08:01:00+00:00
+
+ ## J.M. Dawson Institute of Church-State Studies
+ - [https://churchstate.artsandsciences.baylor.edu](https://churchstate.artsandsciences.baylor.edu)
+ - date_published: 2022-02-02T12:17:00+00:00
+
+ ## Curriculum & Instruction
+ - [https://ci.soe.baylor.edu](https://ci.soe.baylor.edu)
+ - date_published: 2023-08-14T11:40:00+00:00
+
+ ## Civil Rights
+ - [https://civilrights.web.baylor.edu](https://civilrights.web.baylor.edu)
+ - date_published: 2023-05-08T14:49:00+00:00
+
+ ## Department of Classics
+ - [https://classics.artsandsciences.baylor.edu](https://classics.artsandsciences.baylor.edu)
+ - date_published: 2023-05-18T11:06:00+00:00
+
+ ## Campus Living and Learning Home
+ - [https://cll.web.baylor.edu](https://cll.web.baylor.edu)
+ - date_published: 2023-08-03T11:41:00+00:00
+
+ ## Drupal Content Management System
+ - [https://cms.web.baylor.edu](https://cms.web.baylor.edu)
+ - date_published: 2021-04-14T14:31:00+00:00
+
+ ## COACHE Survey
+ - [https://coache.web.baylor.edu](https://coache.web.baylor.edu)
+ - date_published: 2022-10-15T08:36:00+00:00
+
+ ## Commencement
+ - [https://commencement.web.baylor.edu](https://commencement.web.baylor.edu)
+ - date_published: 2022-09-27T14:06:00+00:00
+
+ ## Department of Communication
+ - [https://communication.artsandsciences.baylor.edu](https://communication.artsandsciences.baylor.edu)
+ - date_published: 2023-02-14T09:58:00+00:00
+
+ ## Community Connection
+ - [https://communityconnection.web.baylor.edu](https://communityconnection.web.baylor.edu)
+ - date_published: 2023-01-03T11:19:00+00:00
+
+ ## Baylor Connections
+ - [https://connections.web.baylor.edu](https://connections.web.baylor.edu)
+ - date_published: 2024-01-08T16:38:00+00:00
+
  ## Copyright
  - [https://copyright.web.baylor.edu](https://copyright.web.baylor.edu)
  - date_published: 2022-12-12T15:38:00+00:00
@@ -3937,72 +4005,4 @@
  ## Applied Physics and Materials Science
  - [https://aphms.caltech.edu](https://aphms.caltech.edu)
  - date_published: 2024-05-12T04:45:16.089481+00:00
-
- ## Applied Physics and Materials Science
- - [https://aphms.divisions.caltech.edu](https://aphms.divisions.caltech.edu)
- - date_published: 2024-07-15T02:34:39+00:00
-
- ## Apply for Caltech Faculty Positions, Postdoctoral Fellowships, and Prizes
- - [https://applications.caltech.edu](https://applications.caltech.edu)
- - date_published: 2024-07-14T18:02:39.426233+00:00
-
- ## Library: Archives Home: Home
- - [https://archives.caltech.edu](https://archives.caltech.edu)
- - date_published: 2024-04-30T03:40:36.055858+00:00
-
- ## Caltech Associates
- - [https://associates22.divisions.caltech.edu](https://associates22.divisions.caltech.edu)
- - date_published: 2024-07-22T07:03:45+00:00
-
- ## Astronomy Homepage
- - [https://astro.caltech.edu](https://astro.caltech.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Caltech Auditoriums Information Homepage
- - [https://auditoriums.caltech.edu](https://auditoriums.caltech.edu)
- - date_published: 2024-07-20T22:38:14.797840+00:00
-
- ## CaltechAUTHORS
- - [https://authors.library.caltech.edu](https://authors.library.caltech.edu)
- - date_published: 1921-01-01T00:00:00+00:00
-
- ## Bae Research Group
- - [https://bae.caltech.edu](https://bae.caltech.edu)
- - date_published: 2024-05-12T04:45:42.128806+00:00
-
- ## Caltech Music
- - [http://bands.caltech.edu](http://bands.caltech.edu)
- - date_published: 2024-07-22T06:48:17.648226+00:00
-
- ## Home
- - [https://bbe20.divisions.caltech.edu](https://bbe20.divisions.caltech.edu)
- - date_published: 2024-07-22T06:27:02+00:00
-
- ## Home
- - [https://bbe.caltech.edu](https://bbe.caltech.edu)
- - date_published: 2024-04-30T03:44:12.357502+00:00
-
- ## Beckman Institute |
- - [https://beckmaninstitute.caltech.edu](https://beckmaninstitute.caltech.edu)
- - date_published: 2024-04-30T03:41:24.144275+00:00
-
- ## Information Management Systems and Services
- - [https://bioimaging.caltech.edu](https://bioimaging.caltech.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Caltech Board of Trustees
- - [https://board.caltech.edu](https://board.caltech.edu)
- - date_published: 2024-07-22T06:51:41.171764+00:00
-
- ## Caltech Board of Trustees
- - [https://board.sites.caltech.edu](https://board.sites.caltech.edu)
- - date_published: 2024-07-22T06:51:43.607911+00:00
-
- ## Caltech Bookstore - The Official Campus Store for California Institute of Technology
- - [https://bookstore.caltech.edu](https://bookstore.caltech.edu)
- - date_published: 2024-06-16T08:15:48.001226+00:00
-
- ## Caltech Board of Trustees
- - [https://bot.caltech.edu](https://bot.caltech.edu)
- - date_published: 2024-04-30T03:41:44.837751+00:00
 

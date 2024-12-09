@@ -1,3 +1,15 @@
+ ## Coastal walk around Britain
+ - [http://walkaroundbritainscoast.blogspot.com](http://walkaroundbritainscoast.blogspot.com)
+ - date_published: 2024-03-22T01:20:48+00:00
+
+ ## Choosing Hope
+ - [http://walkerw.blogspot.com](http://walkerw.blogspot.com)
+ - date_published: 2024-03-23T17:44:34+00:00
+
+ ## Walking Arizona
+ - [https://walkingarizona.blogspot.com](https://walkingarizona.blogspot.com)
+ - date_published: 2024-09-03T17:51:57+00:00
+
  ## The Walking Bostonian
  - [http://walkingbostonian.blogspot.com](http://walkingbostonian.blogspot.com)
  - date_published: 2024-05-08T19:32:16+00:00
@@ -4002,16 +4014,4 @@
  ## Blue Nose Aerial
  - [https://portal.bluenoseaerial.com](https://portal.bluenoseaerial.com)
  - date_published: 2024-07-20T09:53:00.573974+00:00
-
- ## HOME | Blue Nova Inc.
- - [https://bluenova.com](https://bluenova.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Blue Ocean Strategy & Blue Ocean Shift: Create Blue Oceans of New Market Space
- - [https://www.blueoceanstrategy.com](https://www.blueoceanstrategy.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Blue Orange Games - Hot Games for a Cool Planet - Home
- - [https://blueorangegames.com](https://blueorangegames.com)
- - date_published: 2024-07-08T23:16:04.262861+00:00
 

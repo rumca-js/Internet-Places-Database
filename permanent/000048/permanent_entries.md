@@ -1,3 +1,15 @@
+ ## Sustainable, AI & Cloud Business Services
+ - [https://www.avanade.com](https://www.avanade.com)
+ - date_published: 2024-07-22T18:50:55.917783+00:00
+
+ ## A weekly Swift Blog on Xcode and iOS Development
+ - [https://www.avanderlee.com](https://www.avanderlee.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Arie van Deursen
+ - [https://avandeursen.com](https://avandeursen.com)
+ - date_published: 2024-07-07T05:19:10+00:00
+
  ## Avani
  - [https://www.avanihotels.com](https://www.avanihotels.com)
  - date_published: 2024-07-13T13:49:41.924940+00:00
@@ -4023,16 +4035,4 @@
  ## superfish.badssl.com
  - [https://superfish.badssl.com](https://superfish.badssl.com)
  - date_published: 2024-05-24T23:24:19.178540+00:00
-
- ## tls-v1-2.badssl.com
- - [https://tls-v1-2.badssl.com](https://tls-v1-2.badssl.com)
- - date_published: 2024-05-24T23:25:15.764583+00:00
-
- ## untrusted-root.badssl.com
- - [https://untrusted-root.badssl.com](https://untrusted-root.badssl.com)
- - date_published: 2024-05-24T23:24:44.876838+00:00
-
- ## upgrade.badssl.com
- - [https://upgrade.badssl.com](https://upgrade.badssl.com)
- - date_published: 2024-05-24T23:24:49.308507+00:00
 

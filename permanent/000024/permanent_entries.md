@@ -1,3 +1,11 @@
+ ## TVZ Theologischer Verlag Zürich
+ - [http://tvz-verlag.ch](http://tvz-verlag.ch)
+ - date_published: 2024-06-28T21:19:27.909684+00:00
+
+ ## twks - advertising and design services | twks
+ - [https://twks.ch](https://twks.ch)
+ - date_published: 2024-08-11T07:49:44.645030+00:00
+
  ## Farbbandwiki
  - [http://farbbanddosen.typewriters.ch](http://farbbanddosen.typewriters.ch)
  - date_published: 2022-08-29T08:49:33+00:00
@@ -4009,12 +4017,4 @@ Fakultät | Universität Basel
  ## Online Payment System for Your Needs | Amazon Pay
  - [https://eu.origin.pay.production.k1.amazon.brightspot.cloud](https://eu.origin.pay.production.k1.amazon.brightspot.cloud)
  - date_published: 2024-10-07T23:15:30.637910+00:00
-
- ## Service de paiement en ligne simple et pratique | Amazon Pay
- - [https://fr.pay.production.k1.amazon.brightspot.cloud](https://fr.pay.production.k1.amazon.brightspot.cloud)
- - date_published: 2024-10-07T23:15:20.809795+00:00
-
- ## Acquisti online sicuri e senza rischi | Amazon Pay
- - [https://it.pay.production.k1.amazon.brightspot.cloud](https://it.pay.production.k1.amazon.brightspot.cloud)
- - date_published: 2024-10-07T23:14:58.426446+00:00
 

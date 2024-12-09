@@ -1,3 +1,85 @@
+ ## Jetstream2 Home - Jetstream2 Documentation
+ - [https://docs.jetstream-cloud.org](https://docs.jetstream-cloud.org)
+ - date_published: 2024-07-02T18:07:54+00:00
+
+ ## Jetstream2
+ - [https://jetstream-cloud.org](https://jetstream-cloud.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Startpagina - Jeugdwerk
+ - [https://jeugdwerk.org](https://jeugdwerk.org)
+ - date_published: 2024-08-07T20:58:01.413700+00:00
+
+ ## NameBright - Coming Soon
+ - [http://www.jeux2009.org](http://www.jeux2009.org)
+ - date_published: 2024-07-12T07:07:22.244402+00:00
+
+ ## Jevin D. West
+ - [https://jevinwest.org](https://jevinwest.org)
+ - date_published: 2024-02-17T20:44:04+00:00
+
+ ## Jevko: simply encode data
+ - [https://jevko.org](https://jevko.org)
+ - date_published: 2024-03-31T17:30:11+00:00
+
+ ## Home
+ - [https://jevon.org](https://jevon.org)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Jewish Comics Experience
+ - [http://jewce.org](http://jewce.org)
+ - date_published: 2024-06-17T10:40:29.157280+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://es.jewelryinstitute.org](https://es.jewelryinstitute.org)
+ - date_published: 2024-09-16T14:52:35.770094+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://jewelryinstitute.org](https://jewelryinstitute.org)
+ - date_published: 2024-06-15T07:25:29.011462+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://zh.jewelryinstitute.org](https://zh.jewelryinstitute.org)
+ - date_published: 2024-09-16T14:52:29.831641+00:00
+
+ ## Jewish Currents
+ - [https://jewishcurrents.org](https://jewishcurrents.org)
+ - date_published: 2024-04-03T06:40:02.334368+00:00
+ - tags: ['israel news']
+
+ ## Login
+ - [https://secure.jewishcurrents.org](https://secure.jewishcurrents.org)
+ - date_published: 2024-05-12T05:54:08.809711+00:00
+
+ ## Home - Jewish&
+ - [https://jewishdiversitystories.org](https://jewishdiversitystories.org)
+ - date_published: 2024-06-20T16:01:19.520556+00:00
+
+ ## Jewish Federation of Edmonton
+ | Jewish Federation of Edmonton
+ - [https://www.jewishedmonton.org](https://www.jewishedmonton.org)
+ - date_published: 2024-07-20T15:44:51.769296+00:00
+
+ ## JewishGen - The Home of Jewish Genealogy
+ - [https://www.jewishgen.org](https://www.jewishgen.org)
+ - date_published: 2024-08-18T18:27:32.508852+00:00
+
+ ## Home - Jewish Journal
+ - [https://jewishjournal.org](https://jewishjournal.org)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Welcome to nginx!
+ - [http://www.jewish-languages.org](http://www.jewish-languages.org)
+ - date_published: 2024-05-01T17:40:27+00:00
+
+ ## Jewish Languages
+ - [https://www.jewishlanguages.org](https://www.jewishlanguages.org)
+ - date_published: 2024-06-30T07:23:40.747277+00:00
+
+ ## Jewish Virtual Library
+ - [http://www.jewishvirtuallibrary.org](http://www.jewishvirtuallibrary.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
  ## Online Actions
  - [https://act.jewishvoiceforpeace.org](https://act.jewishvoiceforpeace.org)
  - date_published: 2024-07-15T09:57:35.461419+00:00
@@ -1795,6 +1877,10 @@ and other interesting stuff
  ## JSON
  - [https://json.org](https://json.org)
  - date_published: 2019-11-30T04:00:27+00:00
+
+ ## JSON5 – JSON for Humans
+ - [https://json5.org](https://json5.org)
+ - date_published: 2024-12-08T21:29:05+00:00
 
  ## JSON API
  - [https://discuss.jsonapi.org](https://discuss.jsonapi.org)
@@ -3973,90 +4059,5 @@ Hosted by Panix.com.
 
  ## カーンアカデミー | 無料のオンラインコース，レッスン，練習問題
  - [https://ja.khanacademy.org](https://ja.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Keep Everyone Learning with Khan Academy's Remote Learning Resources
- - [https://keepindialearning.khanacademy.org](https://keepindialearning.khanacademy.org)
- - date_published: 2024-10-22T09:11:51.715228+00:00
-
- ## Khan Academy | Free Online Courses, Lessons & Practice
- - [https://khanacademy.org](https://khanacademy.org)
- - date_published: 2024-05-02T00:00:00+00:00
- - tags: ['courses', 'astronomy']
-
- ## Хан академиясы | Тегін онлайн-курстар, сабақтар және жаттығулар
- - [https://kk.khanacademy.org](https://kk.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | វគ្គសិក្សា មេរៀន & ការអនុវត្តន៏តាមប្រព័ន្ធអុីនធើណែតដោយឥតគិតថ្លៃ
- - [https://km.khanacademy.org](https://km.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ಖಾನ್ ಅಕಾಡೆಮಿ | ಉಚಿತ ಆನ್ಲೈನ್ ಕೋರ್ಸ್, ಪಾಠಗಳು ಮತ್ತು ಅಭ್ಯಾಸಗಳು
- - [https://kn.khanacademy.org](https://kn.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | 무료 온라인 강의, 수업 및 연습문제
- - [https://ko.khanacademy.org](https://ko.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Акысыз онлайн курстар, сабактар жана практикалык тапшырмалар
- - [https://ky.khanacademy.org](https://ky.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Nemokami internetiniai kursai, pamokos ir pratybos
- - [https://lt.khanacademy.org](https://lt.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## खान अकॅडमी | फ्री ऑनलाइन कोर्सेस, पाठ आणि सराव
- - [https://mr.khanacademy.org](https://mr.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratis nettbaserte kurs, leksjoner og oppgaver
- - [https://nb.khanacademy.org](https://nb.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen
- - [https://nl.khanacademy.org](https://nl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ଖାନ୍ ଏକାଡେମୀ | ମାଗଣା ଅନଲାଇନ୍ କୋର୍ସ, ପାଠ ଓ ଅଭ୍ୟାସ
- - [https://or.khanacademy.org](https://or.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ਖਾਨ ਅਕੈਡਮੀ | ਮੁਫ਼ਤ ਆਨਲਾਈਨ ਕੋਰਸ, ਪਾਠ ਅਤੇ ਅਭਿਆਸ
- - [https://pa.khanacademy.org](https://pa.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Darmowe kursy, lekcje i ćwiczenia online
- - [https://pl.khanacademy.org](https://pl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Cursos, aulas e prática on-line gratuitos
- - [https://pt.khanacademy.org](https://pt.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratuit cursuri online, lecții și aplicații
- - [https://ro.khanacademy.org](https://ro.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Академия Хана | Бесплатные курсы, уроки и практика онлайн
- - [https://ru.khanacademy.org](https://ru.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Free Online Courses, Lessons & Practice
- - [https://sgn-us.khanacademy.org](https://sgn-us.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Кхан Академија | Бесплатни онлајн курсеви, лекције и вежбе
- - [https://sr.khanacademy.org](https://sr.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## கான் அகாடமி | இலவச இணையதள படிப்புகள், பாடங்கள் & பயிற்சி
- - [https://ta.khanacademy.org](https://ta.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Ücretsiz Online Dersler, Videolar ve Alıştırmalar
- - [https://tr.khanacademy.org](https://tr.khanacademy.org)
  - date_published: 2024-06-18T00:00:00+00:00
 

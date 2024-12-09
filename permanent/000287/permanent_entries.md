@@ -1,3 +1,71 @@
+ ## Slate.fr - Culture, politique, économie, tech, sciences, santé
+ - [http://www.slate.fr](http://www.slate.fr)
+ - date_published: 2024-08-18T01:38:11+00:00
+
+ ## About Slint
+ - [https://slint.fr](https://slint.fr)
+ - date_published: 2023-10-07T00:00:00+00:00
+
+ ## Assurances pour les professionnels et les particuliers
+ - [https://www.smabtp.fr](https://www.smabtp.fr)
+ - date_published: 2024-09-11T18:10:16.935659+00:00
+
+ ## Xpollens : Embedded Payment - Solution de paiement intégré
+ - [https://s-money.fr](https://s-money.fr)
+ - date_published: 2024-09-26T12:17:43+00:00
+
+ ## SOBREN - Votre conseiller sur la sobriété énergétique
+ - [https://sobren.fr](https://sobren.fr)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## SG - Banque et Assurance au plus proche de vous
+ - [https://www.societegenerale.fr](https://www.societegenerale.fr)
+ - date_published: 2024-07-03T05:07:24.708721+00:00
+
+ ## Crédit Sofinco : crédits auto, conso, perso, rachat et simulation de prêt
+ - [https://www.sofinco.fr](https://www.sofinco.fr)
+ - date_published: 2024-06-25T22:05:49.275351+00:00
+
+ ## Solar hotel. The best budget hotel, ecological and low cost at the center of Paris. Cheap Hotel in Paris -
+ - [http://www.solarhotel.fr](http://www.solarhotel.fr)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Étude de Sol Assainissement ANC, Fosse Septique - Étude Infiltration Eaux Pluviales - Bassin de Rétention - Diagnostic Pollution Terrain, Sol et Eau - Avignon, Nîmes, Alès
+ - [https://soleo-environnement.fr](https://soleo-environnement.fr)
+ - date_published: 2023-04-11T00:00:00+00:00
+
+ ## Solidarité & Progrès
+ - [https://solidariteetprogres.fr](https://solidariteetprogres.fr)
+ - date_published: 2024-07-13T17:57:11+00:00
+
+ ## Citroën SOMASCO – Listing des offres Citroën Somasco
+ - [https://citroen.somasco-guyane.fr](https://citroen.somasco-guyane.fr)
+ - date_published: 2024-05-10T04:45:25.283818+00:00
+
+ ## Sommet du Grand Paris
+ - [https://sommetdugrandparis.fr](https://sommetdugrandparis.fr)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Sony France | Actualités sur les technologies | Électronique | Divertissement
+ - [http://www.sony.fr](http://www.sony.fr)
+ - date_published: 2024-10-21T07:37:10.457574+00:00
+
+ ## Sony Pictures France | homepage
+ - [https://www.sonypictures.fr](https://www.sonypictures.fr)
+ - date_published: 2024-07-27T17:28:01.314030+00:00
+
+ ## Sophia In
+ - [https://www.sophia-in.fr](https://www.sophia-in.fr)
+ - date_published: 2024-06-14T20:10:32+00:00
+
+ ## Accueil - Sopra Steria
+ - [https://www.soprasteria.fr](https://www.soprasteria.fr)
+ - date_published: 2024-06-09T17:28:35.158252+00:00
+
+ ## soqr.fr Pascal Cauhépé
+ - [http://soqr.fr](http://soqr.fr)
+ - date_published: 2024-09-14T22:36:09.556818+00:00
+
  ## Site officiel du Rectorat et de la Chancellerie des Universités de Paris
  - [https://www.sorbonne.fr](https://www.sorbonne.fr)
  - date_published: 2024-05-07T20:15:45.464194+00:00
@@ -3944,73 +4012,4 @@ Secrétariat d'État chargé de la Mer
  ## programmers.fyi is a custom short domain
  - [https://programmers.fyi](https://programmers.fyi)
  - date_published: 2024-10-03T19:36:34.815272+00:00
-
- ## progression.fyi
- - [https://progression.fyi](https://progression.fyi)
- - date_published: 2024-06-23T12:25:24.834097+00:00
-
- ## Hello! - Rafal - indie maker, solopreneur
- - [https://rafal.fyi](https://rafal.fyi)
- - date_published: 2024-05-10T06:10:39.738215+00:00
-
- ## Reel.fyi - AI Copilot for LinkedIn
- - [https://www.reel.fyi](https://www.reel.fyi)
- - date_published: 2023-12-21T00:00:00+00:00
-
- ## Consider deploying cross-origin resource policy!
- - [https://resourcepolicy.fyi](https://resourcepolicy.fyi)
- - date_published: 2020-10-05T18:51:30+00:00
-
- ## rfc.fyi
- - [https://rfc.fyi](https://rfc.fyi)
- - date_published: 2024-08-17T09:42:17+00:00
-
- ## rustjobs.fyi
- - [https://rustjobs.fyi](https://rustjobs.fyi)
- - date_published: 2023-10-25T19:16:20.460320+00:00
-
- ## SecondBrain.fyi | Tired of Answering the Same Questions? Let SecondBrain.fyi Do the Talking
- - [https://www.secondbrain.fyi](https://www.secondbrain.fyi)
- - date_published: 2024-10-30T17:34:58.715661+00:00
-
- ## SelfDriving.fyi
- - [https://selfdriving.fyi](https://selfdriving.fyi)
- - date_published: 2024-05-10T04:55:19.928587+00:00
-
- ## Simplify Gmail
- - [https://simpl.fyi](https://simpl.fyi)
- - date_published: 2024-04-28T05:59:57.279625+00:00
-
- ## https://south.fyi
- - [https://south.fyi](https://south.fyi)
- - date_published: 2023-12-20T14:34:44.308769+00:00
- - tags: ['personal']
-
- ## Akkoma
- - [https://akko.ssi.fyi](https://akko.ssi.fyi)
- - date_published: 2024-07-10T09:44:22.893333+00:00
-
- ## SSI Git
- - [https://git.ssi.fyi](https://git.ssi.fyi)
- - date_published: 2024-10-27T12:15:26.245920+00:00
-
- ## SSI webring
- - [https://ring.ssi.fyi](https://ring.ssi.fyi)
- - date_published: 2024-07-10T09:44:15.314793+00:00
-
- ## serverscanning
- - [https://ssi.fyi](https://ssi.fyi)
- - date_published: 2024-05-29T00:58:04+00:00
-
- ## StartupNews.fyi - Startup & Technology News
- - [https://startupnews.fyi](https://startupnews.fyi)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Rebrandly
- - [https://tbi.fyi](https://tbi.fyi)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## TEaaS
- - [https://teaas.fyi](https://teaas.fyi)
- - date_published: 2024-08-07T20:33:06.766954+00:00
 

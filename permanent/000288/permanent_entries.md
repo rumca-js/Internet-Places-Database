@@ -1,3 +1,72 @@
+ ## progression.fyi
+ - [https://progression.fyi](https://progression.fyi)
+ - date_published: 2024-06-23T12:25:24.834097+00:00
+
+ ## Hello! - Rafal - indie maker, solopreneur
+ - [https://rafal.fyi](https://rafal.fyi)
+ - date_published: 2024-05-10T06:10:39.738215+00:00
+
+ ## Reel.fyi - AI Copilot for LinkedIn
+ - [https://www.reel.fyi](https://www.reel.fyi)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## Consider deploying cross-origin resource policy!
+ - [https://resourcepolicy.fyi](https://resourcepolicy.fyi)
+ - date_published: 2020-10-05T18:51:30+00:00
+
+ ## rfc.fyi
+ - [https://rfc.fyi](https://rfc.fyi)
+ - date_published: 2024-08-17T09:42:17+00:00
+
+ ## rustjobs.fyi
+ - [https://rustjobs.fyi](https://rustjobs.fyi)
+ - date_published: 2023-10-25T19:16:20.460320+00:00
+
+ ## SecondBrain.fyi | Tired of Answering the Same Questions? Let SecondBrain.fyi Do the Talking
+ - [https://www.secondbrain.fyi](https://www.secondbrain.fyi)
+ - date_published: 2024-10-30T17:34:58.715661+00:00
+
+ ## SelfDriving.fyi
+ - [https://selfdriving.fyi](https://selfdriving.fyi)
+ - date_published: 2024-05-10T04:55:19.928587+00:00
+
+ ## Simplify Gmail
+ - [https://simpl.fyi](https://simpl.fyi)
+ - date_published: 2024-04-28T05:59:57.279625+00:00
+
+ ## https://south.fyi
+ - [https://south.fyi](https://south.fyi)
+ - date_published: 2023-12-20T14:34:44.308769+00:00
+ - tags: ['personal']
+
+ ## Akkoma
+ - [https://akko.ssi.fyi](https://akko.ssi.fyi)
+ - date_published: 2024-07-10T09:44:22.893333+00:00
+
+ ## SSI Git
+ - [https://git.ssi.fyi](https://git.ssi.fyi)
+ - date_published: 2024-10-27T12:15:26.245920+00:00
+
+ ## SSI webring
+ - [https://ring.ssi.fyi](https://ring.ssi.fyi)
+ - date_published: 2024-07-10T09:44:15.314793+00:00
+
+ ## serverscanning
+ - [https://ssi.fyi](https://ssi.fyi)
+ - date_published: 2024-05-29T00:58:04+00:00
+
+ ## StartupNews.fyi - Startup & Technology News
+ - [https://startupnews.fyi](https://startupnews.fyi)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Rebrandly
+ - [https://tbi.fyi](https://tbi.fyi)
+ - date_published: 2022-07-05T08:14:45+00:00
+
+ ## TEaaS
+ - [https://teaas.fyi](https://teaas.fyi)
+ - date_published: 2024-08-07T20:33:06.766954+00:00
+
  ## Tessa Alexanian Likes Too Many Things
  - [https://tessa.fyi](https://tessa.fyi)
  - date_published: 2023-12-06T21:22:58+00:00
@@ -918,7 +987,7 @@
  ## RomsMania | Retro Games, Emulators & News
  - [https://romsmania.games](https://romsmania.games)
  - date_published: 2024-07-14T12:11:37+00:00
- - tags: ['emulator', 'emulation', 'retro games', 'video game roms']
+ - tags: ['emulation', 'retro games', 'video game roms']
 
  ## Home - Saber Interactive
  - [https://saber.games](https://saber.games)
@@ -3971,72 +4040,4 @@
  ## Oticon hearing aids | Life-changing hearing technology
  - [https://www.oticon.global](https://www.oticon.global)
  - date_published: 2024-06-22T08:48:00.885006+00:00
-
- ## Unternehmen/ Home
- - [http://www.pcn.global](http://www.pcn.global)
- - date_published: 2024-09-17T19:19:00+00:00
-
- ## Pollinate - Home
- - [https://www.pollinate.global](https://www.pollinate.global)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## QSMP - The World's First Multilingual Minecraft server by Quackity
- - [https://qsmp.global](https://qsmp.global)
- - date_published: 2024-10-27T08:39:09.902452+00:00
-
- ## USPS Cheap Shipping Labels at Discount Price
- - [https://qwintry.global](https://qwintry.global)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Sites-RalphLauren_Global-Site
- - [https://www.ralphlauren.global](https://www.ralphlauren.global)
- - date_published: 2023-01-26T00:00:00+00:00
-
- ## Reap | All-in-one business solution
- - [https://dashboard.reap.global](https://dashboard.reap.global)
- - date_published: 2024-09-25T07:52:56+00:00
-
- ## Extinction Rebellion | Join The Fight Against Climate and Ecological Collapse
- - [https://rebellion.global](https://rebellion.global)
- - date_published: 2024-07-14T20:17:09+00:00
-
- ## Pioneer – Corn. Revolutionized.
- - [https://cornrevolution.resn.global](https://cornrevolution.resn.global)
- - date_published: 2021-02-04T09:40:30+00:00
-
- ## Resolve
- - [https://resolve.global](https://resolve.global)
- - date_published: 2024-09-26T21:37:13.268486+00:00
-
- ## The #RISK AI series of in-person and digital events
- - [https://www.riskai.global](https://www.riskai.global)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## risr/home — risr/
- - [https://risr.global](https://risr.global)
- - date_published: 2024-06-17T18:21:02.567338+00:00
-
- ## Roar Global | The Gateway for Digital Business Growth in the Asia-Pacific
- - [https://roar.global](https://roar.global)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Safe{Wallet}
- - [https://app.safe.global](https://app.safe.global)
- - date_published: 2024-06-13T06:48:44+00:00
-
- ## Join the Safe Community Discord Server!
- - [https://chat.safe.global](https://chat.safe.global)
- - date_published: 2024-09-20T21:55:59+00:00
-
- ## Safe{Con}2: Smart account builder conference | 23 May 2024 Berlin
- - [https://conf.safe.global](https://conf.safe.global)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Safe Docs
- - [https://docs.safe.global](https://docs.safe.global)
- - date_published: 2024-09-20T10:01:54+00:00
-
- ## Get in Touch with Safe
- - [https://ecosystem-contact.safe.global](https://ecosystem-contact.safe.global)
- - date_published: 2024-09-12T00:00:00+00:00
 

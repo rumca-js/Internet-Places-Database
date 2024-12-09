@@ -1,3 +1,15 @@
+ ## Fox News
+ - [https://my.foxnews.com](https://my.foxnews.com)
+ - date_published: 2024-05-29T15:07:26+00:00
+
+ ## FOX Nation- Geographic Restriction
+ - [https://nation.foxnews.com](https://nation.foxnews.com)
+ - date_published: 2018-11-27T19:51:47+00:00
+
+ ## Fox News - Breaking News Updates | Latest News Headlines | Photos & News Video
+ - [https://noticias.foxnews.com](https://noticias.foxnews.com)
+ - date_published: 2024-10-27T21:36:44+00:00
+
  ## Media Relations | Fox News
  - [https://press.foxnews.com](https://press.foxnews.com)
  - date_published: 2024-05-04T06:57:44.918551+00:00
@@ -711,6 +723,10 @@
  ## Francobolli per la Lessinia
  - [https://www.francobollimontilessini.com](https://www.francobollimontilessini.com)
  - date_published: 2024-07-19T17:52:40.495217+00:00
+
+ ## The Polymathic Engineer | Franco Fernando | Substack
+ - [https://newsletter.francofernando.com](https://newsletter.francofernando.com)
+ - date_published: 2024-12-08T08:21:21.231379+00:00
 
  ## François Best
  - [https://francoisbest.com](https://francoisbest.com)
@@ -1759,6 +1775,10 @@
  ## Freehand by InVision - The All-in-One Visual Collaboration Workspace
  - [https://freehandapp.com](https://freehandapp.com)
  - date_published: 2024-07-07T03:09:56.718017+00:00
+
+ ## Freehold Cottage Residential Home, Shawforth, Rochdale
+ - [https://freeholdcottage.com](https://freeholdcottage.com)
+ - date_published: 2024-12-07T23:53:13+00:00
 
  ## Index of /
  - [http://mentalgym.freehostia.com](http://mentalgym.freehostia.com)
@@ -4014,24 +4034,4 @@
  ## Front Range Objectivism
  - [http://www.frontrangeobjectivism.com](http://www.frontrangeobjectivism.com)
  - date_published: 2024-06-10T14:46:14+00:00
-
- ## FRONTROW OFFROAD: Inflate And Deflate Faster Than Ever With Our Bestselling 4-Way Tire Inflation Deflation System
- - [https://frontrowoffroad.com](https://frontrowoffroad.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Home | Frontier Scientific Publishing Pte. Ltd.
- - [http://front-sci.com](http://front-sci.com)
- - date_published: 2024-10-29T16:44:16.623650+00:00
-
- ## Frontside Software — DX and Backstage consulting
- - [https://frontside.com](https://frontside.com)
- - date_published: 2024-07-20T22:18:07.493835+00:00
-
- ## Front Status
- - [https://www.frontstatus.com](https://www.frontstatus.com)
- - date_published: 2024-06-16T06:00:24.188678+00:00
-
- ## Front Trends - Get in front of everything that's trending on the internet
- - [https://2018.front-trends.com](https://2018.front-trends.com)
- - date_published: 2024-06-23T07:03:10+00:00
 

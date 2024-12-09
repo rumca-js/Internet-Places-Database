@@ -1,3 +1,11 @@
+ ## Página Inicial - Fundação Santillana
+ - [http://www.fundacaosantillana.com.br](http://www.fundacaosantillana.com.br)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Gabriel
+ - [https://gabriel.com.br](https://gabriel.com.br)
+ - date_published: 2024-10-28T12:19:58+00:00
+
  ## Gabriel
  - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
  - date_published: 2024-10-28T12:19:56+00:00
@@ -4003,12 +4011,4 @@
  ## Издательский дом «Беларусь сегодня»
  - [https://org.sb.by](https://org.sb.by)
  - date_published: 2024-06-30T03:40:19.537784+00:00
-
- ## Спецпроекты
- - [http://photo.sb.by](http://photo.sb.by)
- - date_published: 2024-03-29T10:27:18+00:00
-
- ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
- - [https://sb.by](https://sb.by)
- - date_published: 2024-05-07T15:11:50.507081+00:00
 

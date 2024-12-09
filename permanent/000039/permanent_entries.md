@@ -1,3 +1,11 @@
+ ## Advantech IoT Academy | Free IoT Online Courses and Certification
+ - [https://academy.advantech.com](https://academy.advantech.com)
+ - date_published: 2024-09-05T21:54:07.296698+00:00
+
+ ## Advantech Co-Creating the Future of the IoT World
+ - [https://advantech.com](https://advantech.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Industrial Computer,Automation & Embedded Computers Solutions - Advantech eStore
  - [https://buy.advantech.com](https://buy.advantech.com)
  - date_published: 2024-09-05T21:53:41.505967+00:00
@@ -4013,13 +4021,5 @@
 
  ## Airbnb | Nyumba za likizo za kupangisha, nyumba za mbao, nyumba za ufukweni na zaidi
  - [https://sw.airbnb.com](https://sw.airbnb.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airbnb | บ้านพักตากอากาศ เคบิน บ้านริมหาด และอีกมากมาย
- - [https://th.airbnb.com](https://th.airbnb.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## 爱彼迎 | 度假屋、小木屋、海滨住宅等
- - [https://zh.airbnb.com](https://zh.airbnb.com)
  - date_published: 2024-05-06T00:00:00+00:00
 

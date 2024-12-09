@@ -1,3 +1,15 @@
+ ## Michael Horowitz
+ - [https://michaelhorowitz2.blogspot.com](https://michaelhorowitz2.blogspot.com)
+ - date_published: 2024-03-13T18:05:54+00:00
+
+ ## A Typewriter A Day Keeps the Doctor Away
+ - [http://michaeliany.blogspot.com](http://michaeliany.blogspot.com)
+ - date_published: 2024-06-29T16:47:47+00:00
+
+ ## Annabelle's Aspirin
+ - [http://michaelklease.blogspot.com](http://michaelklease.blogspot.com)
+ - date_published: 2024-03-07T14:02:41+00:00
+
  ## Michael Rosen
  - [http://michaelrosenblog.blogspot.com](http://michaelrosenblog.blogspot.com)
  - date_published: 2024-06-13T11:18:55+00:00
@@ -4006,16 +4018,4 @@
  ## Painting Sanctuary
  - [http://paintingsanctuary.blogspot.com](http://paintingsanctuary.blogspot.com)
  - date_published: 2024-10-07T04:09:47+00:00
-
- ## Steve's Paintingshed
- - [http://paintingshed.blogspot.com](http://paintingshed.blogspot.com)
- - date_published: 2024-10-12T08:54:32+00:00
-
- ## Warhammer painting stuff
- - [http://paintingstuff.blogspot.com](http://paintingstuff.blogspot.com)
- - date_published: 2024-10-03T21:59:50+00:00
-
- ## Paint Machine
- - [https://paintmachine.blogspot.com](https://paintmachine.blogspot.com)
- - date_published: 2024-03-13T15:51:33+00:00
 

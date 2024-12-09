@@ -1,3 +1,49 @@
+ ## OpenText Marketplace
+ - [https://marketplace.microfocus.com](https://marketplace.microfocus.com)
+ - date_published: 2024-08-19T07:45:56.698997+00:00
+
+ ## Micro Focus is now OpenText
+ - [https://microfocus.com](https://microfocus.com)
+ - date_published: 2023-10-25T16:03:01.109438+00:00
+
+ ## Portal
+ - [https://portal.microfocus.com](https://portal.microfocus.com)
+ - date_published: 2023-08-20T07:45:38+00:00
+
+ ## MICROGAME DESIGN GROUP
+ - [http://microgamedesigngroup.com](http://microgamedesigngroup.com)
+ - date_published: 2023-08-02T20:54:53+00:00
+
+ ## MicroHAMS Amateur Radio Club
+ - [https://www.microhams.com](https://www.microhams.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## #1 Millimeter Wave Products | Micro Harmonics
+ - [https://www.microharmonics.com](https://www.microharmonics.com)
+ - date_published: 2020-07-08T22:11:23+00:00
+
+ ## Microids | Publisher and creator of adventure video games
+ - [https://microids.com](https://microids.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+ - tags: ['flashback', 'video game developer']
+
+ ## Support
+ - [http://support.microids.com](http://support.microids.com)
+ - date_published: 2024-07-02T13:11:35.812691+00:00
+
+ ## Microinteractions | Designing with Details
+ - [http://microinteractions.com](http://microinteractions.com)
+ - date_published: 2024-07-24T02:22:29.395866+00:00
+
+ ## Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+ - [https://microjs.com](https://microjs.com)
+ - date_published: 2022-08-15T19:12:47+00:00
+
+ ## Microkhan by Brendan I. Koerner
+ - [https://microkhan.com](https://microkhan.com)
+ - date_published: 2024-02-08T21:16:04.718097+00:00
+ - tags: ['personal']
+
  ## Mic Roland – Exploring the Resilient Life
  - [https://mic-roland.com](https://mic-roland.com)
  - date_published: 2024-06-29T04:59:44.563995+00:00
@@ -2001,6 +2047,7 @@
  ## MikroTik
  - [https://mikrotik.com](https://mikrotik.com)
  - date_published: 2000-01-01T00:00:00+00:00
+ - tags: ['network hardware']
 
  ## MikroTik User Meeting
  - [https://mum.mikrotik.com](https://mum.mikrotik.com)
@@ -4012,48 +4059,4 @@
  ## Kamera PTZ China, Pengeluar Kamera Pengesan Auto, Pembekal Kamera Web - Minrray
  - [https://ms.minrraycam.com](https://ms.minrraycam.com)
  - date_published: 2024-06-18T12:37:26+00:00
-
- ## တရုတ် PTZ ကင်မရာ၊ အလိုအလျောက် ခြေရာခံ ကင်မရာ ထုတ်လုပ်သူများ၊ ဝဘ်ကင်မရာ ပေးသွင်းသူများ - Minrray
- - [https://my.minrraycam.com](https://my.minrraycam.com)
- - date_published: 2024-06-18T12:37:29+00:00
-
- ## चीन PTZ क्यामेरा, अटो ट्र्याकिङ क्यामेरा निर्माता, वेब क्यामेरा आपूर्तिकर्ता - Minrray
- - [https://ne.minrraycam.com](https://ne.minrraycam.com)
- - date_published: 2024-06-18T12:38:38+00:00
-
- ## China PTZ-camera, fabrikanten van auto-trackingcamera's, leveranciers van webcams - Minrray
- - [https://nl.minrraycam.com](https://nl.minrraycam.com)
- - date_published: 2024-06-18T12:38:33+00:00
-
- ## Kina PTZ-kamera, autosporingskameraprodusenter, webkameraleverandører - Minrray
- - [https://no.minrraycam.com](https://no.minrraycam.com)
- - date_published: 2024-06-18T12:38:35+00:00
-
- ## Chiny Kamera PTZ, producenci kamer z automatycznym śledzeniem, dostawcy kamer internetowych - Minrray
- - [https://pl.minrraycam.com](https://pl.minrraycam.com)
- - date_published: 2024-06-18T12:38:27+00:00
-
- ## China Câmera PTZ, Câmera de rastreamento automático Fabricantes, Fornecedores de câmera Web - Minrray
- - [https://pt.minrraycam.com](https://pt.minrraycam.com)
- - date_published: 2024-06-18T12:36:52+00:00
-
- ## Camera PTZ din China, Producători de camere de urmărire automată, Furnizori de camere web - Minrray
- - [https://ro.minrraycam.com](https://ro.minrraycam.com)
- - date_published: 2024-06-18T12:37:39+00:00
-
- ## Китайская PTZ-камера, производители камер автоматического слежения, поставщики веб-камер - Minrray
- - [https://ru.minrraycam.com](https://ru.minrraycam.com)
- - date_published: 2024-06-18T12:38:24+00:00
-
- ## Čína PTZ kamera, výrobcovia automatických kamier, dodávatelia webových kamier - Minrray
- - [https://sk.minrraycam.com](https://sk.minrraycam.com)
- - date_published: 2024-06-18T12:37:21+00:00
-
- ## Kitajska PTZ kamera, proizvajalci kamer za samodejno sledenje, dobavitelji spletnih kamer - Minrray
- - [https://sl.minrraycam.com](https://sl.minrraycam.com)
- - date_published: 2024-06-18T12:38:20+00:00
-
- ## Кина ПТЗ камера, произвођачи камера за аутоматско праћење, добављачи веб камера - Минрраи
- - [https://sr.minrraycam.com](https://sr.minrraycam.com)
- - date_published: 2024-06-18T12:38:40+00:00
 
